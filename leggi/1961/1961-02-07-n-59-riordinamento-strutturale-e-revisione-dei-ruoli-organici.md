@@ -28,11 +28,11 @@ la seguente legge:
 
 ## TITOLO I - DEFINIZIONE E COMPITI DELL'AZIENDA NAZIONALE AUTONOMA DELLE STRADE
 
-##### Art. 1
+#### Art. 1
 
 L'Azienda nazionale autonoma delle strade statali, Amministrazione statale con ordinamento autonomo, cui presiede il Ministro per i lavori pubblici, assume la denominazione di "Azienda nazionale autonoma delle strade" (A.N.A.S.).
 
-##### Art. 2
+#### Art. 2
 
 ((All'A.N.A.S. sono attribuiti i seguenti compiti:
 
@@ -52,7 +52,7 @@ g) attendere e partecipare a studi, a rilevazioni statistiche ed a prove sperime
 
 h) pubblicare ogni anno una relazione di carattere tecnico economico sull'attivita' svolta nell'esercizio precedente e sui rilevamenti statistici che saranno fissati dal regolamento, in esso compresi quelli relativi alla precedente lettera g))).
 
-##### Art. 3
+#### Art. 3
 
 Per la formazione dell'elenco delle strade statali, per la classificazione delle strade medesime o per la declassificazione di strade o tronchi di esse dalla categoria delle statali si applicano gli articoli 2, 3 e 12 della legge 12 febbraio 1958, n. 126.
 
@@ -60,7 +60,7 @@ I tratti di varianti che si eseguano in modifica dei percorsi di strade statali 
 
 In tali casi, ai tratti del preesistente tracciato sostituiti dalla variante si applica l'articolo 6 della citata legge 12 febbraio 1958, n. 126.
 
-##### Art. 4
+#### Art. 4
 
 I tratti di strade statali che attraversano abitati con popolazione non superiore a ventimila abitanti fanno parte della rete delle strade statali, giusta la lettera c) dell'art. 7 della legge 12 febbraio 1958, n. 126.
 
@@ -70,7 +70,7 @@ Per i tratti interni indicati nel primo comma, l'indennita' prevista dal secondo
 
 Resta ferma la competenza dei Comuni per tutti gli adempimenti relativi ai servizi urbani comunque interferenti con i tratti di strade statali indicati nei precedenti commi; gli adempimenti stessi, ove comportino lavori che investano la consistenza del corpo stradale, sono subordinati alla preventiva autorizzazione della A.N.A.S. Gli eventuali canoni dovuti da privati per licenze o concessioni interessanti il corpo stradale nelle suddette traverse interne sono fatti salvi a favore dei Comuni, i quali sono tenuti, nei confronti dell'A.N.A.S., al ripristino dei tratti di strada interessati dalla esecuzione delle opere.
 
-##### Art. 5
+#### Art. 5
 
 Sono autostrade le vie di comunicazione esclusivamente riservate al transito selezionato, di norma a pagamento, degli autoveicoli e dei motoveicoli, prive di attraversamenti a raso o comunque non custoditi, le quali siano riconosciute come tali con decreto del Ministro per i lavori pubblici.
 
@@ -78,13 +78,11 @@ La costruzione di nuove autostrade, quando non vi provveda direttamente l'A.N.A.
 
 La concessione e' disposta mediante decreto del Ministro per i lavori pubblici di concerto con quello per il tesoro; con lo stesso decreto viene approvata, sentiti il Consiglio di amministrazione dell'A.N.A.S. ed il Consiglio di Stato, la convenzione che regola la concessione.
 
-## TITOLO II
+## TITOLO II - ORGANI DELL'A.N.A.S.
 
-### ORGANI DELL'A.N.A.S.
+### CAPO I - Organi centrali
 
-#### CAPO I - Organi centrali
-
-##### Art. 6
+#### Art. 6
 
 Il Ministro per i lavori pubblici e' Presidente, ed ha l'alta direzione e la responsabilita' dell'Azienda nazionale autonoma delle strade (A.N.A.S.), che rappresenta a tutti gli effetti.
 
@@ -98,7 +96,7 @@ il Comitato tecnico-amministrativo;
 
 il direttore generale.
 
-##### Art. 7
+#### Art. 7
 
 Il direttore generale coadiuva il Ministro nell'amministrazione dell'Azienda e sovraintende ai servizi ed agli Uffici centrali e periferici.
 
@@ -122,7 +120,7 @@ h) disporre le verifiche periodiche di cassa e gli accertamenti contabili che ri
 
 Il direttore generale presenta al Ministro, entro il mese di novembre di ogni anno, una relazione sullo andamento dell'Azienda durante il precedente esercizio finanziario.
 
-##### Art. 8
+#### Art. 8
 
 La Direzione generale si articola nei seguenti servizi:
 
@@ -136,7 +134,7 @@ d) servizio di ragioneria.
 
 La ripartizione interna dei servizi e la competenza dei rispettivi uffici sono stabilite con decreto del Ministro per i lavori pubblici, Presidente dell'A.N.A.S.
 
-##### Art. 9
+#### Art. 9
 
 Il direttore del servizio amministrativo coadiuva il direttore generale nell'espletamento delle sue funzioni, lo sostituisce in caso di impedimento, dirige il servizio amministrativo ed esercita le funzioni di capo del personale.
 
@@ -144,7 +142,7 @@ Il direttore del servizio tecnico dirige il servizio stesso e coordina l'attivit
 
 Il direttore del servizio ispettivo tecnico dei lavori attende all'alta vigilanza di tutti i lavori che sono nella competenza dell'A.N.A.S. e coordina le attivita' degli ispettorati di zona.
 
-##### Art. 10
+#### Art. 10
 
 Il Consiglio di amministrazione e' presieduto dal Ministro per i lavori pubblici, Presidente dell'A.N.A.S., o, in caso di suo impedimento, dal Sottosegretario di Stato delegato dal Ministro stesso ed e' composto:
 
@@ -198,11 +196,11 @@ Le funzioni di segretario sono disimpegnate da un funzionario amministrativo app
 
 Parimenti con decreto del Ministro per i lavori pubblici, Presidente dell'A.N.A.S., viene delegato altro funzionario amministrativo appartenente anch'esso alla carriera direttiva dell'A.N.A.S., con qualifica non inferiore al direttore di sezione, perche' possa sostituire il segretario del Consiglio di amministrazione in caso di impedimento del medesimo.
 
-##### Art. 11
+#### Art. 11
 
 Le norme per l'elezione dei rappresentanti del personale sono stabilite con decreto del Ministro per i lavori pubblici, Presidente dell'A.N.A.S., sentito il Consiglio di amministrazione dell'Azienda.
 
-##### Art. 12
+#### Art. 12
 
 I membri del Consiglio di amministrazione sono nominati con decreto del Ministro per i lavori pubblici, Presidente dell'A.N.A.S.
 
@@ -210,13 +208,13 @@ I membri di cui alle lettere f), g), h), l), m), n), o), p), q), r), s) e t), de
 
 Gli altri membri del Consiglio, ove, per qualsiasi causa, cessino dalla carica durante il triennio, sono sostituiti con l'osservanza delle modalita' di cui al primo e secondo comma del presente articolo. I consiglieri subentranti esercitano le loro funzioni limitatamente al periodo di tempo in cui sarebbero rimasti in carica i loro predecessori, salvo la eventuale, successiva conferma.
 
-##### Art. 13
+#### Art. 13
 
 Per la validita' delle deliberazioni del Consiglio occorre la presenza di almeno la meta' dei componenti, oltre quella di chi lo presiede.
 
 Le deliberazioni sono prese a maggioranza assoluta dei presenti e, in caso di parita' dei voti, prevale quello di chi presiede.
 
-##### Art. 14
+#### Art. 14
 
 Il parere del Consiglio di amministrazione deve essere richiesto:
 
@@ -276,13 +274,13 @@ La L. 26 marzo 1986, n. 86 ha disposto (con l'art. 14, comma 1) che "I limiti di
 
 I predetti limiti di importo sono aggiornati ogni tre anni, con decreto del Ministro dei lavori pubblici, sentito il consiglio di amministrazione dell'ANAS, in base all'andamento dell'indice ISTAT dei prezzi al consumo per le famiglie di operai ed impiegati."
 
-##### Art. 15
+#### Art. 15
 
 La carica di consigliere di amministrazione e' incompatibile con la qualita' di proprietario, amministratore, rappresentante, consulente o comunque partecipe di societa' o ditte la cui attivita' sia rivolta alla costruzione, sistemazione o manutenzione di strade.
 
 I membri del Consiglio di amministrazione che, senza giustificato motivo, non prendano parte a quattro adunanze consecutive, decadono dalla carica. La decadenza e' dichiarata con decreto del Ministro per i lavori pubblici.
 
-##### Art. 16
+#### Art. 16
 
 Il Comitato tecnico-amministrativo, nominato con decreto del Ministro per i lavori pubblici, Presidente dell'A.N.A.S., e' composto:
 
@@ -312,7 +310,7 @@ Per la validita' delle deliberazioni del Comitato occorre la presenza di almeno 
 
 Alle adunanze del Comitato possono essere invitati gli ispettori generali tecnici della A.N.A.S., non facenti parte del Consiglio a titolo consultivo, senza diritto a voto.
 
-##### Art. 17
+#### Art. 17
 
 Il parere del Comitato tecnico-amministrativo deve essere richiesto:
 
@@ -360,11 +358,11 @@ La L. 26 marzo 1986, n. 86 ha disposto (con l'art. 14, comma 3) che: "I limiti d
 
 I predetti limiti di importo sono aggiornati ogni tre anni, con decreto del Ministro dei lavori pubblici, sentito il consiglio di amministrazione dell'ANAS, in base all'andamento dell'indice ISTAT dei prezzi al consumo per le famiglie di operai ed impiegati".
 
-##### Art. 18
+#### Art. 18
 
 Il parere del Consiglio di amministrazione e quello del Comitato tecnico-amministrativo sostituiscono il parere del Consiglio superiore dei lavori pubblici.
 
-##### Art. 19
+#### Art. 19
 
 Il parere dei direttori di servizio tecnico, ciascuno nell'ambito della propria competenza, e' richiesto:
 
@@ -382,7 +380,7 @@ f) sulle proposte relative alla concessione di compensi per revisioni di prezzi 
 
 g) sulle vertenze sorte con le imprese in corso di opera o in sede di collaudo per maggiori compensi o per esonero da penalita' contrattuali, quando cio' che le imprese chiedono che l'Amministrazione prometta, abbandoni o paghi, sia determinato o determinabile in somma non eccedente le lire 5 milioni.
 
-##### Art. 20
+#### Art. 20
 
 ((Per i progetti di massima ed esecutivi di lavori e forniture da eseguirsi a cura dell'ANAS, direttamente o in concessione, il parere degli organi consultivi dell'Azienda, nell'ambito della rispettiva competenza, sostituisce il parere del Consiglio di Stato)).
 
@@ -404,11 +402,11 @@ AGGIORNAMENTO (12)
 
 Il D.L. 22 dicembre 1984, n. 901, convertito con modificazioni dalla L. 1 marzo 1985, n. 52, ha disposto (con l'art. 1, comma 2) che "Per i progetti di importo superiore a lire un miliardo e relativi ad opere a cura dell'ANAS, la sospensione dell'applicazione dell'articolo 20, primo comma, della legge 7 febbraio 1961, n. 59, di cui all'articolo 16, terzo comma, del decreto-legge 15 marzo 1965, n. 124, convertito, con modificazioni, nella legge 13 maggio 1965, n. 431, e successive modificazioni ed integrazioni, prorogata, fino al 31 dicembre 1984, dal decreto-legge 29 dicembre 1983, n. 747, convertito, con modificazioni, nella legge 27 febbraio 1984, n. 18, e' ulteriormente prorogata fino al 31 dicembre 1985."
 
-##### Art. 21
+#### Art. 21
 
 Quando, in dipendenza delle variazioni dei prezzi, occorra, prima dell'appalto, procedere all'aggiornamento di progetti gia' approvati, e' sufficiente, per l'approvazione dell'aggiornamento, il parere di un direttore di servizio tecnico, senza rinvio ad alcun altro organo, purche' sia esclusa qualsiasi variazione tecnica, la maggiore spesa non ecceda i limiti del decimo dell'importo del progetto originario e il nuovo importo complessivo resti entro i limiti di competenza dell'organo che si era pronunciato sul progetto originario stesso.
 
-##### Art. 22
+#### Art. 22
 
 Le funzioni di ufficiale rogante sono affidate con decreto del Ministro per i lavori pubblici, Presidente dell'A.N.A.S., ad un impiegato amministrativo appartenente alla carriera direttiva
 
@@ -418,9 +416,9 @@ Le funzioni di economo cassiere e di vice-economo cassiere sono
 
 conferite con decreto del Ministro per i lavori pubblici, Presidente dell'A.N.A.S., a impiegati della carriera di concetto, con qualifica non inferiore a segretario aggiunto o equiparata, da scegliersi, previo parere del Consiglio di amministrazione, tra gli appartenenti ai ruoli dell'Azienda.
 
-## CAPO II - Organi periferici
+### CAPO II - Organi periferici
 
-##### Art. 23
+#### Art. 23
 
 Sono organi periferici dell'Azienda i Compartimenti della viabilita'.
 
@@ -428,7 +426,7 @@ La circoscrizione territoriale, le sedi e le sezioni staccate dei Compartimenti 
 
 ((COMMA ABROGATO DALLA L.21 APRILE 1962, N. 181)).
 
-##### Art. 24
+#### Art. 24
 
 Il Ministro per i lavori pubblici, Presidente dell'A.N.A.S., ove ricorrano particolari esigenze di servizio, e' autorizzato ad istituire speciali uffici periferici per la vigilanza di lavori di costruzione di autostrade o di lavori di carattere eccezionale e di particolare rilievo che si eseguano sia a cura diretta dell'A.N.A.S., sia in concessione.
 
@@ -436,7 +434,7 @@ L'eventuale istituzione di tali uffici e' disposta con decreto del Ministro per 
 
 ((Gli stessi uffici speciali non possono comunque funzionare contemporaneamente in numero superiore ad un terzo del complessivo numero dei compartimenti della viabilita' e delle sezioni staccate dell'Azienda nazionale autonoma delle strade di cui alla tabella A annessa alla presente legge e non possono comportare alcun aumento dei ruoli organici dell'Azienda nazionale autonoma delle strade)).
 
-##### Art. 25
+#### Art. 25
 
 I Compartimenti della viabilita', nell'ambito della propria circoscrizione territoriale:
 
@@ -480,7 +478,7 @@ Ha inoltre disposto (con l'art. 33, comma 1) che "Le disposizioni del presente d
 
 ## TITOLO III - DISPOSIZIONI FINANZIARIE
 
-##### Art. 26
+#### Art. 26
 
 Le entrate dell'Azienda sono costituite:
 
@@ -508,7 +506,7 @@ i) dai proventi derivanti dagli investimenti di cui al terzo comma del successiv
 
 Costituisce altresi' entrata dell'A.N.A.S. qualsiasi altro provento attribuito da leggi o da convenzioni all'A.N.A.S. medesima o alla soppressa Azienda autonoma statale della strada.
 
-##### Art. 27
+#### Art. 27
 
 Le spese dell'Azienda sono costituite:
 
@@ -528,7 +526,7 @@ g) da ogni altra spesa o contributo che sia ritenuto necessario per la realizzaz
 
 La parte degli stanziamenti di bilancio relativa ai capitoli concernenti la manutenzione ordinaria e i lavori di carattere straordinario, per le strade statali e le autostrade, non impegnata alla, chiusura dell'anno finanziario, e' utilizzata negli esercizi successivi. Del pari, le somme, che comunque si rendano disponibili sulle dotazioni dei capitoli stessi, possono essere utilizzate anche negli esercizi successivi.
 
-##### Art. 28
+#### Art. 28
 
 L'A.N.A.S. e' autorizzata a contrarre mutui, anche obbligazionari, per la esecuzione dei suoi programmi costruttivi.
 
@@ -542,17 +540,17 @@ Le operazioni di mutuo e tutti gli atti ad esse inerenti e conseguenti sono esen
 
 In tal caso, l'ANAS e' autorizzata ad assumere impegni per il controvalore in lire degli importi in valuta dovuti per il servizio di capitale ed interessi)).
 
-##### Art. 29
+#### Art. 29
 
 Il bilancio di previsione dell'entrata e della spesa dell'Azienda e' presentato all'approvazione del Parlamento in allegato allo stato di previsione della spesa del Ministero dei lavori pubblici.
 
 Il conto consuntivo e' allegato in appendice al rendiconto generale dello Stato.
 
-##### Art. 30
+#### Art. 30
 
 L'esercizio finanziario dell'Azienda coincide con quello dell'Amministrazione dello Stato.
 
-##### Art. 31
+#### Art. 31
 
 Il servizio di cassa dell'Azienda viene fatto dalla Tesoreria dello Stato, a mezzo dell'apposito conto corrente infruttifero aperto presso la Tesoreria centrale.
 
@@ -566,7 +564,7 @@ Dette contabilita' speciali sono istituite per depositi di somme versate da terz
 
 ## TITOLO IV - DISPOSIZIONI VARIE
 
-##### Art. 32
+#### Art. 32
 
 L'Amministrazione dell'Azienda, e' tenuta all'osservanza delle norme sulla contabilita' generale dello Stato, in quanto compatibili con la presente legge.
 
@@ -580,7 +578,7 @@ Per i beni gestiti dall'ANAS, la dichiarazione di cui all'articolo 829, primo co
 
 Per i beni gestiti dall'A.N.A.S. la dichiarazione di cui all'articolo 829, primo comma, del Codice civile, e' emessa dal Ministro per i lavori pubblici, Presidente dell'A.N.A.S., o, per sua delega, dal direttore generale.
 
-##### Art. 33
+#### Art. 33
 
 Le aste pubbliche e le licitazioni private per l'appalto di lavori e forniture di competenza dell'A.N.A.S., sono tenute presso la Direzione generale.
 
@@ -594,7 +592,7 @@ Qualora la Commissione giudicatrice esprima parere che la scelta debba ricadere 
 
 Qualora il giudizio di preferenza della Commissione sia subordinato a lievi modifiche da apportare al progetto prescelto, il Ministro puo' parimenti autorizzare in conformita' l'aggiudicazione dell'appalto, senza altra formalita'.
 
-##### Art. 34
+#### Art. 34
 
 Per i lavori da eseguirsi dall'A.N.A.S., sia direttamente sia per concessione, anche se accessori, complementari o di parziale variazione di opere gia' riconosciute di pubblica utilita' o preesistenti, l'approvazione dei relativi progetti equivale a dichiarazione di pubblica utilita'.
 
@@ -612,7 +610,7 @@ Contro le stime di cui al secondo comma i proprietari espropriati possono propor
 
 Gli atti attinenti alla procedura espropriativa per lavori di competenza dell'A.N.A.S. godono della esenzione da ogni onere tributario.
 
-##### Art. 35
+#### Art. 35
 
 La Corte dei conti vigila sulle entrate, fa il riscontro consuntivo sulle spese dell'Azienda ed ha diritto di richiedere tutti i documenti dai quali traggono origine le spese.
 
@@ -620,7 +618,7 @@ Restano ferme le disposizioni vigenti per quanto riguarda il controllo delle spe
 
 Le attribuzioni della Corte dei Conti sono esercitate dalla Delegazione della Corte stessa presso il Ministero dei lavori pubblici.
 
-##### Art. 36
+#### Art. 36
 
 La consulenza legale ed il patrocinio dell'Azienda sono affidati all'Avvocatura dello Stato.
 
@@ -628,7 +626,7 @@ L'Avvocatura dello Stato assume altresi' la rappresentanza e la difesa degli imp
 
 Per la rappresentanza, e la difesa dell'A.N.A.S. in giudizio si applicano le disposizioni contenute nel regio decreto 30 ottobre 1933, n. 1611, e successive modificazioni.
 
-##### Art. 37
+#### Art. 37
 
 L'A.N.A.S. ha la gestione, in regime di esclusivita' della esposizione di pubblicita', con qualsiasi mezzo, lungo le autostrade e le strade statali o in vista di esse. La gestione puo' essere data in concessione.
 
@@ -640,11 +638,11 @@ I canoni per la esposizione di pubblicita' lungo o in vista delle autostrade e d
 
 Le tariffe delle autostrade, sia statali sia in concessione, saranno determinate in funzione del costo di costruzione, gestione e manutenzione delle autostrade stesse, nonche' in relazione al tipo di autoveicolo ammesso al transito, ed alla percorrenza chilometrica effettuata.
 
-##### Art. 38
+#### Art. 38
 
 Le case cantoniere ed i terreni che ne costituiscono pertinenza, nonche' i magazzini e i ricoveri per i macchinari e gli attrezzi stradali, fanno parte del demanio stradale.
 
-##### Art. 39
+#### Art. 39
 
 L'A.N.A.S. fornisce a suo totale carico al personale degli agenti stradali (cantonieri) e casellanti, addetti alle strade ed alle autostrade statali, la divisa di servizio invernale ed estiva, e gli indumenti di lavoro ritenuti necessari.
 
@@ -654,13 +652,13 @@ La natura ed il periodo di uso degli oggetti costituenti la divisa di servizio e
 
 L'A.N.A.S. fornisce gratuitamente la divisa di servizio anche agli autisti e al personale ausiliario di anticamera.
 
-##### Art. 40
+#### Art. 40
 
 La Cassa di mutuo soccorso fra i capi cantonieri ed i cantonieri delle strade statali assume la denominazione di "Cassa di mutuo soccorso fra il personale ausiliario cantonieri stradali dell'A.N.A.S.", e resta alle dipendenze dell'A.N.A.S. medesima.
 
 La Cassa e' amministrata da un Comitato nominato con decreto del Ministro per i lavori pubblici, Presidente dell'Azienda, composto dal direttore dei servizi amministrativi, presidente, dal direttore della divisione del personale della Direzione generale dell'Azienda, e da due funzionari scelti fra il personale dell'Azienda stessa, nonche' da due appartenenti alla categoria interessata, nominati dal Ministro su designazione del personale.
 
-##### Art. 41
+#### Art. 41
 
 Sugli autoservizi che usufruiscono di tronchi di strade e autostrade statali, hanno libero transito, secondo le modalita' gia' in atto e che possono eventualmente essere modificate di concerto fra i Ministri per i lavori pubblici e per i trasporti, gli agenti stradali in divisa ed i funzionari tecnici che prestano servizio lungo i tronchi stessi. Sui medesimi autoservizi saranno concesse, d'intesa col Ministro per i trasporti, tariffe ridotte a favore dei figli del personale sopra indicato che si recano alle scuole.
 
@@ -668,23 +666,23 @@ Il personale dipendente dall'A.N.A.S., abilitato ad elevare contravvenzioni a no
 
 Al restante personale la libera circolazione spetta limitatamente ai percorsi compresi nella circoscrizione del Compartimento di appartenenza.
 
-##### Art. 42
+#### Art. 42
 
 L'Azienda gode, agli effetti tributari e per quanto riguarda il servizio postale, telegrafico, telefonico, del trattamento spettante alle altre Amministrazioni dello Stato.
 
 ## TITOLO V - PERSONALE DELL'A.N.A.S.
 
-##### Art. 43
+#### Art. 43
 
 Le tabelle c), d) ed e), allegate al decreto legislativo 17 aprile 1948, n. 547, ratificato, con modifiche, dalla legge 2 gennaio 1952, n. 41, le tabelle allegate alla legge 6 dicembre 1957, n. 1216, e alla legge 19 giugno 1955, n. 532, nonche' i quadri 14/a, 33/a, 54/a e 75/a concernenti i ruoli organici del personale dell'Azienda nazionale autonoma delle strade, allegati al decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, che approva il testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, sono sostituiti dalle tabelle B, C, D ed E (quadri II, III e IV) allegate alla presente legge.
 
 I posti recati in aumento dalle tabelle allegate alla presente legge nella qualifica di ispettore generale od equiparata riassorbono altrettanti posti in soprannumero, che, per la qualifica stessa, siano stati attribuiti ai sensi della legge 19 ottobre 1959, n. 928.
 
-##### Art. 44
+#### Art. 44
 
 Al personale dell'A.N.A.S. si applicano le disposizioni vigenti sullo statuto ed il trattamento economico del personale similare dello Stato, salvo le deroghe risultanti dalla presente legge.
 
-##### Art. 45
+#### Art. 45
 
 Il direttore generale dell'Azienda e' nominato con decreto del Presidente della Repubblica, su proposta del Ministro per i lavori pubblici, Presidente dell'A.N.A.S., previa deliberazione del Consiglio dei Ministri.
 
@@ -694,17 +692,17 @@ Il direttore del servizio amministrativo, il direttore del servizio tecnico e il
 
 Al direttore del servizio amministrativo, al direttore del servizio tecnico ed al direttore del servizio ispettivo tecnico dei lavori e' assegnato il coefficiente 900 della tabella anzidetta.
 
-##### Art. 46
+#### Art. 46
 
 Ai componenti del Consiglio di amministrazione e del Comitato tecnico-amministrativo ed ai segretari di tali consessi competono le indennita' stabilite con decreto del Ministro per i lavori pubblici di concerto con quello per il tesoro.
 
 Nei soli confronti del direttore generale dell'Azienda e' conservata l'indennita' di cui all'art. 1 del decreto del Presidente della Repubblica 26 maggio 1949, n. 534, commisurata al relativo coefficiente.
 
-##### Art. 47
+#### Art. 47
 
 Il direttore capo di ragioneria e' nominato dal Ministro per il tesoro di concerto con il Ministro per i lavori pubblici.
 
-##### Art. 48
+#### Art. 48
 
 Al servizio di ragioneria dell'Azienda si provvede con personale di ruolo del Ministero del tesoro, Ragioneria generale dello Stato.
 
@@ -712,7 +710,7 @@ Per le funzioni di cui al precedente comma valgono le disposizioni vigenti per l
 
 Il direttore capo della Ragioneria centrale esercita le attribuzioni ed e' responsabile degli adempimenti a norma della vigente legge di contabilita' generale dello Stato e del relativo regolamento e successive modificazioni.
 
-##### Art. 49
+#### Art. 49
 
 ((La nomina a cantoniere delle strade statali si consegue mediante pubblico concorso per titoli.
 
@@ -724,7 +722,7 @@ Le funzioni di segretario saranno espletate da un funzionario, appartenente alla
 
 Alla compilazione della graduatoria unica definitiva provvedera' una Commissione centrale nominata dal Ministro per i lavori pubblici, composta da un ispettore generale dell'A.N.A.S., che la presiede, e da due membri scelti fra i funzionari dell'Azienda stessa, con qualifica non inferiore a direttore di divisione. Le funzioni di segretario verranno espletate da un funzionario di grado non inferiore a consigliere di prima classe, appartenente all'A.N.A.S.))
 
-##### Art. 50
+#### Art. 50
 
 La promozione a cantoniere scelto si consegue a ruolo aperto, mediante scrutinio per merito assoluto al quale sono ammessi i cantonieri dello stesso ruolo che abbiano compiuto tre anni di effettivo servizio, ivi compreso il periodo di prova.
 
@@ -732,7 +730,7 @@ La promozione a capo cantoniere di 2ª classe si consegue, per i due terzi dei p
 
 La promozione a capo cantoniere di 1ª classe e' conferita a scelta, su designazione del Consiglio di amministrazione, agli agenti dello stesso ruolo che abbiano compiuto nella qualifica immediatamente inferiore almeno cinque anni di effettivo servizio.
 
-##### Art. 51
+#### Art. 51
 
 E' istituito il ruolo organico dei casellanti delle autostrade statali (carriera ausiliaria), di cui alla tabella E - quadro I - annessa alla presente legge.
 
@@ -744,7 +742,7 @@ AGGIORNAMENTO (9)
 
 La L. 4 marzo 1982, n. 65, ha disposto (con l'art. 14, comma 1) che: "Il ruolo organico dei casellanti dell'ANAS (carriera ausiliaria amministrativa), istituito con l'articolo 51 della legge 7 febbraio 1961, n. 59, e' soppresso".
 
-##### Art. 52
+#### Art. 52
 
 La promozione a casellante si consegue, a ruolo aperto, mediante scrutinio per merito assoluto al quale sono ammessi gli aiuto casellanti dello stesso ruolo che abbiano compiuto tre anni di effettivo servizio, ivi compreso il periodo di prova.
 
@@ -752,7 +750,7 @@ Per la promozione a casellante scelto si osserva la disposizione di cui all'arti
 
 La promozione a capo casellante e' conferita a scelta, su designazione del Consiglio di amministrazione, ai casellanti scelti dello stesso ruolo che abbiano compiuto cinque anni di effettivo servizio nella qualifica inferiore.
 
-##### Art. 53
+#### Art. 53
 
 Agli agenti stradali (cantonieri) che non godono di alloggio demaniale, compete una indennita' nella misura di lire 72.000 annue per coloro che percepiscono quote di aggiunta di famiglia per persone a carico e di lire 60.000 annue per il restante personale.
 
@@ -760,17 +758,17 @@ Agli agenti stradali (cantonieri) che non godono di alloggio demaniale, compete 
 
 ((COMMA ABROGATO DALLA L. 15 NOVEMBRE 1973, N. 734)).
 
-##### Art. 54
+#### Art. 54
 
 ((ARTICOLO ABROGATO DALLA L. 26 MARZO 1986, N. 86))
 
-##### Art. 55
+#### Art. 55
 
 ((ARTICOLO ABROGATO DALLA L. 15 NOVEMBRE 1973, N. 734)).
 
 ## TITOLO VI - SALARIATI DI RUOLO
 
-##### Art. 56
+#### Art. 56
 
 E' istituita la pianta organica dei salariati di ruolo (operai permanenti) dell'Azienda nazionale autonoma delle strade di cui alla tabella allegata alla presente legge.
 
@@ -784,15 +782,15 @@ Nel bando di concorso saranno stabilite le sedi in cui sara' espletata la prova 
 
 ## TITOLO VII - DISPOSIZIONI FINALI E TRANSITORIE
 
-##### Art. 57
+#### Art. 57
 
 Ai dipendenti dell'A.N.A.S. si applicano le disposizioni di cui all'articolo 51 della legge 27 febbraio 1958, n. 119.
 
-##### Art. 58
+#### Art. 58
 
 I posti che in virtu' delle nuove tabelle organiche allegate alla presente legge risulteranno disponibili per le qualifiche iniziali dei ruoli delle carriere direttive, di concetto ed esecutive, possono essere conferiti mediante concorso soltanto per il numero eccedente quello complessivo degli impiegati dei ruoli aggiunti di cui all'articolo 344 del decreto presidenziale 10 gennaio 1957, n. 3, e degli impiegati non di ruolo di categoria corrispondente in servizio alla data del bando di concorso.
 
-##### Art. 59
+#### Art. 59
 
 Gli impiegati dei ruoli aggiunti dell'Azienda, che presentino apposita domanda entro un anno dalla data di entrata in vigore della presente legge, potranno essere inquadrati nei ruoli organici delle corrispondenti carriere, conservando, a tutti gli effetti, l'anzianita' di carriera e di qualifica e prendendo posto, secondo l'ordine di ruolo, dopo l'ultimo impiegato delle corrispondenti carriere dei ruoli organici.
 
@@ -802,11 +800,11 @@ Gli inquadramenti di cui ai precedenti commi, che risultino eccedenti i posti di
 
 Il personale inquadrato nei ruoli organici ai sensi del presente articolo non puo' essere ammesso allo scrutinio per merito comparativo, per la promozione alla qualifica superiore, sino a quando gli impiegati che lo precedono nell'ordine di qualifica non abbiano maturato l'anzianita' minima prescritta.
 
-##### Art. 60
+#### Art. 60
 
 Fino a quando non si sia provveduto a nominare il Consiglio di amministrazione e il Comitato conformemente alla presente legge, continuano a funzionare il Consiglio, e il Comitato esistenti all'atto dell'entrata in vigore della legge stessa.
 
-##### Art. 61
+#### Art. 61
 
 Il personale che, alla data dell'entrata in vigore della presente legge, si trova nella soppressa qualifica di cantoniere scelto di 1° classe e' collocato, secondo l'ordine di ruolo, nella nuova qualifica di cantoniere scelto, conservando a tutti gli effetti l'anzianita' di servizio goduto nella qualifica di provenienza.
 
@@ -814,15 +812,15 @@ Il personale, che alla data medesima si trova nella soppressa qualifica di canto
 
 Al personale di cui al precedente comma sono attribuiti nella nuova posizione gli aumenti periodici necessari per assicurare uno stipendio di importo immediatamente superiore a quello spettante al momento del nuovo inquadramento.
 
-##### Art. 62
+#### Art. 62
 
 Nella prima applicazione della presente legge, il direttore del servizio amministrativo, il direttore del servizio tecnico e il direttore del servizio ispettivo tecnico dei lavori possono essere nominati fra i funzionari dell'A.N.A.S. con qualifica di ispettore generale ed anche tra i funzionari dell'Amministrazione dei lavori pubblici, sempre con qualifica di ispettore generale.
 
-##### Art. 63
+#### Art. 63
 
 Per un triennio dalla data di entrata in vigore della presente legge, la promozione a capo cantoniere di seconda classe puo' essere conferita, anche in soprannumero - mediante i sistemi di cui al secondo comma del precedente articolo 50 - ai cantonieri scelti che abbiano almeno dieci anni di effettivo servizio nella carriera e che da almeno tre anni, con carattere continuativo, esplichino o abbiano esplicato anche nella qualifica inferiore, mansioni di capo cantoniere, sempre che abbiano riportato il giudizio di ottimo negli ultimi tre anni di servizio.
 
-##### Art. 64
+#### Art. 64
 
 Nel primo triennio dall'entrata in vigore della presente legge, i posti disponibili nella qualifica iniziale della carriera del personale ausiliario addetto ai caselli delle autostrade verranno conferiti mediante concorsi riservati ai dipendenti dell'A.N.A.S. La meta' dei posti messi a concorso e' riservata ai salariati non di ruolo, ed agli operai giornalieri dell'A.N.A.S. in possesso dei prescritti requisiti, che alla data dell'entrata in vigore della presente legge abbiano prestato servizio alle dipendenze dell'Azienda stessa con mansioni di casellante per almeno 270 giornate lavorative, anche se non continuativamente, e che siano in servizio alla data di scadenza del termine stabilito dal bando di concorso per la presentazione delle domande di ammissione.
 
@@ -834,7 +832,7 @@ Per il personale di cui al precedente comma, il servizio eventualmente prestato 
 
 Le disposizioni dell'articolo 9 della legge 3 giugno 1950, n. 375 e dell'articolo 1 della legge 13 marzo 1958, n. 308, non si applicano alla carriera del personale ausiliario addetto ai caselli delle autostrade, limitatamente al termine di cui al primo comma del presente articolo.
 
-##### Art. 65
+#### Art. 65
 
 Entro tre mesi dalla data di entrata in vigore della presente legge i salariati non di ruolo (operai temporanei) in servizio presso l'A.N.A.S. possono chiedere di essere collocati nel ruolo degli operai permanenti previsto dal precedente articolo 56, previo concorso di cui al successivo comma.
 
@@ -848,13 +846,13 @@ Nei confronti degli operai giornalieri dell'A.N.A.S., che parteciperanno ai succ
 
 In favore dei salariati temporanei nominati in ruolo ai sensi del presente articolo, e' riconosciuto valido, agli effetti degli aumenti periodici della paga, di cui all'articolo 1, comma terzo, del decreto del Presidente della Repubblica 11 gennaio 1956, numero 19, tutto il servizio prestato anteriormente alla data di nomina in ruolo con diritto alla ricostruzione di carriera prevista all'articolo 25 della legge 26 febbraio 1952, n. 67.
 
-##### Art. 66
+#### Art. 66
 
 Le disposizioni dell'articolo 21 della legge 26 febbraio 1952, n. 67, sono estese, a domanda, agli operai di ruolo, non di ruolo e giornalieri, adibiti con carattere permanente a mansioni di natura non salariale da data non posteriore al 19 luglio 1960.
 
 La domanda di cui al primo comma deve essere presentata, a pena di decadenza, entro novanta giorni dalla data di entrata in vigore della presente legge.
 
-##### Art. 67
+#### Art. 67
 
 La presente legge entra in vigore il quindicesimo giorno successivo a quello della sua pubblicazione, salvo la copertura dei posti iniziali derivanti dagli aumenti di organico nelle singole carriere, che non potra' essere disposta con decorrenza anteriore al 1 luglio 1961.
 
@@ -864,7 +862,7 @@ Sono abrogate tutte le norme contenute nel decreto legislativo 17 aprile 1948, n
 
 Cessano comunque di avere efficacia gli articoli 56 e 58 del decreto legislativo 17 aprile 1948, n. 547.
 
-##### Art. 68
+#### Art. 68
 
 I dipendenti dell'A.N.A.S. in servizio all'atto della entrata in vigore della presente legge beneficeranno, una sola volta e fino al 30 giugno 1963, per l'avanzamento alla qualifica superiore, di una riduzione pari alla meta' - e comunque non superiore ad un massimo di trenta mesi - dei periodi di anzianita' richiesti dalle vigenti disposizioni per le promozioni nelle singole carriere.
 
@@ -882,7 +880,7 @@ Visto, il Guardasigilli: GONELLA
 
 ## TITOLO VII - DISPOSIZIONI FINALI E TRANSITORIE
 
-##### Tabelle
+#### Tabelle
 
 TABELLA A
 

@@ -42,7 +42,7 @@ Sulla proposta del Nostro Ministro segretario di Stato per le finanze;
 
 Abbiamo decretato e decretiamo:
 
-### Art. 1
+## Art. 1
 
 Il Corpo della R. guardia di finanza dipende dal Ministro delle finanze, fa parte integrante della forza pubblica e delle forze militari dello Stato ed e' deputato a:
 
@@ -58,7 +58,7 @@ Nessun appartenente al Corpo della R. Guardia di finanza puo' essere impiegato a
 
 La R. guardia di finanza di stanza nelle Colonie ha verso i Governatori la stessa dipendenza che ha nel Regno verso il Ministro delle finanze.
 
-### Art. 2
+## Art. 2
 
 Il Corpo della Regia guardia di finanza e' comandato da un generale di corpo d'armata, in servizio permanente effettivo, del Regio esercito, e si compone di:
 
@@ -114,13 +114,13 @@ Il Regio D.L. 21 gennaio 1929, n. 132, convertito senza modificazioni dalla L. 2
 
 Ha ulteriormente disposto (con l'art. 3, comma 2) che "Il maestro direttore di banda potra' pero', su conforme insindacabile giudizio di apposita Commissione composta del comandante generale, del comandante in secondo e del comandante della Legione allievi, essere trattenuto in servizio con concessione da rinnovarsi di anno in anno, sino al raggiungimento del 65° anno di eta'".
 
-### Art. 3
+## Art. 3
 
 ((Il comandante generale della Regia guardia di finanza risiede presso, il Ministero delle finanze, ed e' coadiuvato dal generale di divisione comandante in secondo, da un generale di brigata del Regio esercito a disposizione per la preparazione militare del Corpo, da un ufficio di segreteria, da un ufficio per la polizia tributaria e da un ufficio amministrativo)).
 
 Egli provvede a tutto quanto riguarda il Governo e l'Amministrazione del personale del corpo, e per regolarne l'azione di servizio prende accordi diretti coi capi delle varie Amministrazioni finanziarie.
 
-### Art. 4
+## Art. 4
 
 Il Corpo della Regia guardia di finanza comprende:
 
@@ -142,7 +142,7 @@ Con decreto Ministeriale saranno determinate o variate le sedi, le circoscrizion
 
 La ripartizione del contingente, la sede, la dipendenza e la circoscrizione delle brigate sono determinate dal Comando generale.
 
-### Art. 5
+## Art. 5
 
 Il Comandante generale del Corpo scelto dal Consiglio dei ministri, su designazione del Ministro delle finanze, concordata col Ministro della guerra, ed e' nomina o con il decreto Reale.
 
@@ -204,7 +204,7 @@ Gli allievi che vengono a cessare di appartenere alla scuola allievi ufficiali n
 
 Durante la permanenza alla scuola predetta gli allievi provenienti dai licenziati delle scuole medie, che non abbiano grado di sottufficiale, godono della paga di sottobrigadiere".
 
-### Art. 6
+## Art. 6
 
 I marescialli maggiori sono tratti, mediante esame, dai marescialli capi che abbiano almeno quattro anni di anzianita' nel grado, nella proporzione di un terzo a scelta e di due terzi in ordine di anzianita'.
 
@@ -242,7 +242,7 @@ AGGIORNAMENTO (19)
 
 La L. 4 agosto 1942, n. 915, ha disposto (con l'art. 15, comma 1) che le presenti disposizioni non si applicano al concorso bandito per l'anno 1942.
 
-### Art. 7
+## Art. 7
 
 Nessuno puo' conseguire la promozione ad un grado se non e' riconosciuto pienamente idoneo ad adempierne gli uffici.
 
@@ -260,7 +260,7 @@ Non si fa mai luogo a definitiva esclusione dall'avanzamento per i sottotenenti 
 
 Le nomine nei gradi di ufficiale si fanno can decreto Reale; quelle nei gradi di sottufficiale e di truppa con ordina del Comando generale.
 
-### Art. 8
+## Art. 8
 
 Il sevizio prestato nel Corpo e' considerato per ogni effetto servizio militare, ed i militari sono dispensati dal rispondere alla chiamata alle armi della loro classe di leva.
 
@@ -270,7 +270,7 @@ Il Ministero delle finanze, pel tramite del Comando generale, stabilisce coi Min
 
 ((Durante la mobilitazione i militari della Regia guardia di finanza mobilitati conservano la divisa, i gradi ed il trattamento economico del proprio corpo, e godono dei diritti, degli onori, delle ricompense e degli assegni di campagna stabiliti per la fanteria, ferme restando le precedenze stabilite dal regolamento pel servizio territoriale)).
 
-### Art. 9
+## Art. 9
 
 Il reclutamento dei militari della Regia guardia di finanza si effettua:
 
@@ -306,7 +306,7 @@ AGGIORNAMENTO (22)
 
 La Corte Costituzionale con sentenza 12 - 24 luglio 2000, n. 332 (in G.U. 1a s.s. 02/08/2000, n. 32) ha dichiarato "l'illegittimita' costituzionale dell'art. 9, secondo comma, lettera b) del r.d.l. 14 giugno 1923, n. 1281 (Provvedimenti per la regia Guardia di finanza), come sostituito dall'art. 4 del r.d.l. 24 luglio 1931, n. 1223, nella parte in cui include, tra i requisiti necessari per essere reclutati nella Guardia di finanza, l'essere senza prole".
 
-### Art. 10
+## Art. 10
 
 ((L'aspirante riconosciuto idoneo si obbliga a servire per la ferma di anni tre. Eguale ferma di servizio debbono contrarre i sottufficiali ed i militari di truppa che, avendo cessato di appartenere al Corpo, chiedano ed ottengano in seguito di esservi riammessi.
 
@@ -316,7 +316,7 @@ La rafferma decorre dal giorno successivo a quello in cui scade l'obbligo dei se
 
 Ai militari ai quali venga negata, per ragioni di salute o di condotta, la rafferma triennale, potra' essere concessa, per non piu' di due volte consecutive, la rafferma di un anno per esperimento)).
 
-### Art. 11
+## Art. 11
 
 I sottufficiali ed i militari di truppa possono conseguire, per la prima rafferma triennale, un premio annuo di lire mille, ridotto a lire cinquecento per le successive due rafferme triennali. ((2))
 
@@ -330,7 +330,7 @@ AGGIORNAMENTO (2)
 
 Il Regio Decreto 31 dicembre 1923, n. 3170 ha disposto (con l'art. 6, comma 1) che "Il primo comma dell'art. 11 del R. decreto 14 giugno 1923, n. 1281, modificato dal R. decreto 10 settembre 1923, numero 2115, si applica con decorrenza a tutti gli effetti dell'entrata in vigore del R. decreto 2115 anzicitato, ai sottufficiali e militari di truppa fino al compimento del 13° anno di servizio nel corpo".
 
-### Art. 12
+## Art. 12
 
 Il premio annuo della rafferma in corso verra' proporzionalmente ridotto, quando nel corso dell'anno il raffermato sia promosso ufficiale, o, per qualsiasi causa; cessi dal far parte del Corpo; non sara' dovuto nel periodo di sospensione od interruzione della rafferma.
 
@@ -340,7 +340,7 @@ In questi casi il raffermato potra' essere prosciolto dall'obbligo di servizio a
 
 Qualora il raffermato si renda disertore od incorra in condanne a pene restrittive della liberta' personale, di durata non minore di due mesi, l'interesse liquidato sul premio di rafferma, per tutto il tempo in cui il raffermato non partecipa per tali cause al servizio, va a beneficio della Massa del Corpo.
 
-### Art. 13
+## Art. 13
 
 ((Il capitale risultante dai premi di rafferma cumulati con gli interessi sara', a cura del Consiglio di amministrazione della massa, consegnato al creditore:
 
@@ -350,11 +350,11 @@ b) al compimento di ciascuna rafferma con premio, quando il raffermato continui 
 
 I premi e gl'interessi corrispondenti non possono cedersi ne' sequestrarsi, eccetto il caro di debiti verso lo Stato o verso la Massa del Corpo dipendenti dalle funzioni del raffermato, o per causa di alimenti dovuti a termini di legge.
 
-### Art. 14
+## Art. 14
 
 ((Il matrimonio dei militari della Regia guardia di finanza e' regolato dalle disposizioni in vigore nel tempo per i militari del Regio esercito (Arma dei carabinieri Reali) )).
 
-### Art. 15
+## Art. 15
 
 Al Corpo della R. guardia di finanza si applicano il regolamento di disciplina militare, lo leggi sugli ufficiali in congedo ((in vigore nel tempo)), quelle sullo stato degli ufficiali e dei sottufficiali del R. esercito con le altre leggi in esse richiamate, nonche' i regolamenti relativi, con le modificazioni che lo speciale ordinamento del Corpo rende necessari e che saranno approvate con R. decreto ((previa deliberazione del Consiglio dei Ministri e udito il parere del Consiglio di Stato)).
 
@@ -376,7 +376,7 @@ I sottufficiali od i militari di truppa non aventi obblighi di leva, sottoposti 
 
 ((COMMA SOPPRESSO DAL REGIO D.L. 24 LUGLIO 1931, N. 1223, CONVERTITO CON MODIFICAZIONI DALLA L. 21 DICEMBRE 1931, N. 1710)).
 
-### Art. 16
+## Art. 16
 
 I militari della R. guardia di finanza sono sottoposti alla giurisdizione militare per qualunque reato preveduto dal Codice penale per l'esercito, anche nei rapporti coi militari del R. esercito e della R. marina.
 
@@ -388,7 +388,7 @@ E' dichiarata applicabile la pena comminata dall'articolo 200 dello stesso Codic
 
 ((La cognizione dei reati di cui ai precedenti commi 2°, 3° e 4° appartiene ai tribunali militari)).
 
-### Art. 17
+## Art. 17
 
 Allorquando debbano essere giudicati militari del Corpo di qualsiasi grado, uno dei giudici del tribunale militare deve appartenere alla R. guardia di finanza, osservate le stesse norme e condizioni che la legge stabilisce per i giudici militari.
 
@@ -400,11 +400,11 @@ Se l'accusato abbia il grado di capitano od altro superiore, il giudice deve ave
 
 La designazione e l'estrazione a sorte si compiono nei modi che saranno indicati dal regolamento organico per il servizio dei tribunali militari.
 
-### Art. 18
+## Art. 18
 
 Le onorificenze, le rimunerazioni, i diritti a pensione che possono competere ai militari della R. guardia di finanza ed alle loro famiglie per ferite o per morte riportate in servizio, saranno regolati con norme conformi a quelle vigenti per l'esercito.
 
-### Art. 19
+## Art. 19
 
 Gli ufficiali che raggiungono l'eta' sottoindicata pei vari gradi, cessano di far parte del servizio attivo permanente e sono collocati in riforma o riposo o posizione di servizio ausiliario:
 
@@ -430,7 +430,7 @@ AGGIORNAMENTO (5)
 
 Il Regio D.L. 6 maggio 1926, n. 844, convertito senza modificazioni dalla L. 2 giugno 1927, n. 874, ha disposto (con l'art. 1, comma 1) che "I limiti di eta' di cui all'art. 19 del R. decreto 14 giugno 1923, n. 1281, sono fissati ad anni 62 per il sottotenente maestro direttore di banda e ad anni 56 per i sottotenenti maestri di scherma".
 
-### Art. 20
+## Art. 20
 
 Per l'esercizio dei galleggianti a motore meccanico addetti al servizio di vigilanza finanziaria in mare, nei laghi, nella laguna veneta e nei porti del Regno, e per l'esecuzione dei lavori di manutenzione e di riparazione dei galleggianti medesimi, il Ministro per le finanze e' autorizzato ad assumere il personale tecnico borghese necessario mediante concorso per titoli delle categorie indicate nella seguente tabella, colle norme che saranno stabilite da apposito regolamento, col quale saranno anche fissate le indennita' di bordo ritenute necessarie:
 
@@ -460,7 +460,7 @@ AGGIORNAMENTO (4)
 
 Il Regio Decreto 22 maggio 1924, n. 844, convertito senza modificazioni dalla L. 17 aprile 1925, n. 473, ha disposto (con l'art. 17, comma 1, lettera c)) che la presente modifica ha effetto dal 1° gennaio 1924.
 
-### Art. 21
+## Art. 21
 
 ((All'insegnamento delle varie materie nella scuola ufficiali della Regia guardia di finanza, il Ministro per le finanze provvedera' affidandone l'incarico, da rinnovarsi anno per anno, ad ufficiali della Regia guardia di finanza e del Regio esercito ovvero a funzionari dell'Amministrazione finanziaria di gruppo A, in attivita' di servizio e di grado non inferiore al settimo, o a quanti abbiano titolo per l'insegnamento)).
 
@@ -470,7 +470,7 @@ AGGIORNAMENTO (14)
 
 Il Regio D.L. 1933, n. 135, convertito con modificazioni dalla L. 5 giugno 1933, n. 816, ha disposto (con l'art. 16, comma 1) che "Le disposizioni che regolano l'istituzione ed il funzionamento della Scuole allievi ufficiali della Regia guardia di finanza, d'ordinamento degli studi che in essa si svolgono e la nomina a sottotenente, nonehe' le disposizioni di cui agli articoli 14 del R. decreto legislativo 31 dicembre 1923, numero 3170, e 6 del R. decreto-legge 6 maggio 1926, n. 844, continuano ad avere vigore fino al 30 settembre 1934, con le limitazioni che saranno stabilite con decreto del Ministro per le finanze".
 
-### Art. 22
+## Art. 22
 
 Saranno devoluti ai sottufficiali ed appuntati della Regia guardia di finanza, presenti al corpo ed aventi piu' di quindici anni di servizio, oppure resi inabili al servizio attivo, per ferite o malattie riportate nell'adempimento del loro mandato, anche se, per questo motivo, abbiano gia' cessato di far parte del corpo:
 
@@ -490,11 +490,11 @@ AGGIORNAMENTO (3)
 
 Il Regio Decreto 8 maggio 1924, n. 843, convertito senza modificazioni dalla L. 17 aprile 1925, n. 473, ha disposto (con l'art. 65, comma 1) che la presente modifica ha effetto dal 1° dicembre 1923.
 
-### Art. 23
+## Art. 23
 
 ((Gli ufficiali ed i sottufficiali della Regia guardia di finanza rivestono la qualita' di ufficiali di polizia giudiziaria ai sensi del Codice di procedura penale, anche agli effetti delle visite e perquisizioni domiciliari in materia di reati alle leggi di finanza)).
 
-### Art. 24
+## Art. 24
 
 ((Ai militari della Regia guardia di finanza spetta il trattamento economico stabilito per i pari grado ed anzianita' dell'arma dei carabinieri Reali.
 
@@ -504,11 +504,11 @@ Gli stipendi e le paghe dei sottufficiali e militari di truppa che non prestano 
 
 Qualora la retta anzidetta sia superiore allo stipendio alla paga del militare ricoverato, la differenza, stara' a carico del bilancio delle Finanze)).
 
-### Art. 25
+## Art. 25
 
 ((IL REGIO DECRETO 31 DICEMBRE 1923, N. 3170 HA DISPOSTO (CON L'ART. 11, COMMA 1) CHE, A DECORRERE DAL 1 MARZO 1924, IL PRESENTE ARTICOLO E' SOSTITUITO DALL'ATTUALE ART. 24 DEL REGIO D.L. 14 GIUGNO 1923, N. 1281))
 
-### Art. 26
+## Art. 26
 
 Lo Stato versera' alla massa del Corpo un contributo mensile di L. 15 per ciascun maresciallo, elevato a L. 25 per ogni sottufficiale degli altri gradi o militari di truppa, esclusi gli allievi, quale concorso alla spesa vestiario.
 
@@ -532,7 +532,7 @@ Le dette indennita' si corrispondono ai sottufficiali ed ai militari di truppa s
 
 Agli ufficiali, ai sottufficiali ed ai militari di truppa ai quali non sia dato l'alloggio in natura, e' corrisposta una indennita' mensile nella misura stabilita per i pari grado dell'arma dei Reali carabinieri.
 
-### Art. 27
+## Art. 27
 
 Le indennita' per trasferimenti, per spese di giro e di ufficio, per missioni, di carica, di comando, di residenza disagiata, per supplemento vitto alle brigate di forza inferiore a quella minima stabilita dal regolamento, per spese di cancelleria ai comandanti di reparto e per servizi non previsti dalla presente legge, saranno determinate con decreto Ministeriale:
 
@@ -540,13 +540,13 @@ Le indennita' per trasferimenti, per spese di giro e di ufficio, per missioni, d
 
 Ad ogni nuovo arruolato nel Corpo viene accreditata la somma di L. 1000, per assegno di primo corredo)).
 
-### Art. 28
+## Art. 28
 
 Per il collocamento a riposo e in riforma e per la liquidazione della pensione ai militari della R. guardia di finanza si applicano dal 1° gennaio, 1924 le disposizioni in vigore per l'arma dei RR.
 
 carabinieri. Per le loro vedove ed orfani, invece le stesse disposizioni avranno effetto dal 1° gennaio 1923.
 
-### Art. 29
+## Art. 29
 
 Il Corpo della Regia guardia di finanza e' comandato da un generale di Corpo d'armata in servizio permanente effettivo del Regio esercito, e si compone di:
 
@@ -616,7 +616,7 @@ Ai militari suddetti e' conservato il supplemento dell'indennita' militare speci
 
 Per la reggenza degli uffici doganali di ultima classe e per i servizi interni delle dogane si potranno trattenere al corpo dopo il 25° anno e non oltre il 30° anno di servizio, con vincolo annuale di ferma senza diritto ad ulteriori promozioni ne' ad aumenti di pensione, i marescialli e i marescialli capi che ne facciano domanda e possiedano l'attitudine e gli altri requisiti da determinarsi con regolamento.
 
-### Art. 30
+## Art. 30
 
 Con regolamenti, da approvarsi con decreto Reale, saranno determinate le norme:
 
@@ -628,29 +628,29 @@ c) per il servizio del Corpo.
 
 ## Disposizioni transitorie.
 
-### Art. 31
+## Art. 31
 
 Il premio di L. 1500 riavuto ad ogni arruolato nel Corpo all'atto del suo passaggio nel servizio attivo, ai sensi dell'art. 2 del R. decreto-legge 9 novembre 1919, n. 2073, e' abrogato dalla data di entrata in vigore del presente decreto, restando salvo i diritti acquisti dai Militari arruolatisi nel Corpo anteriormente alla data medesima.
 
-### Art. 32
+## Art. 32
 
 ((All'attuale professore ordinario della cattedra di ruolo per le lettere italiane nella scuola allievi ufficiali e' conservato il trattamento giuridico stabilito dalla legge 29 dicembre 1910, n. 894, ed il trattamento economico stabilito dal R. decreto 11 novembre 1923. n. 2395, tenendo conto dei benefici di cui all'art. 3 del R decreto 17 marzo 1921. n.511.
 
 Il professore stesso e' collocato nel grado sesto e ne consegue lo stipendio massimo)).
 
-### Art. 33
+## Art. 33
 
 Col 30 giugno 1923 non saranno piu' riassunti o comunque trattenuti in servizio militari che non abbiano i requisiti prescritti per ottenere la riammissione o rafferma nel Corpo, e col 31 luglio 1923 s' intenderanno revocata tutte le riassunzioni o protazioni di servizio con scadenza posteriore alla data medesima.
 
-### Art. 34
+## Art. 34
 
 I militari dei vari gradi che risulteranno eccedenti alle nuove tabelle organiche saranno considerati fuori ruolo e saranno riassorbiti nei quadri di mano in mano che si verificheranno vacanze; restando conseguentemente e per altrettanto tempo sospese le promozioni nei gradi medesimi. Le spese per tale personale continueranno ad essere a carico del bilancio ordinario della R. guardia di finanza.
 
-### Art. 35
+## Art. 35
 
 Le prescrizioni di cui ai numeri III, IV e VIII delle disposizioni esecutive e transitorie del R. decreto 7 gennaio 1923, n, 12, relativo all'ordinamento del R. esercito, si applicano anche agli ufficiali generali della Regia guardia di finanza nelle uguali condizioni di grado e di carica.
 
-### Art. 36
+## Art. 36
 
 Il beneficio di cui all'art. 2 - 2° comma - del decreto Luogotenenziale 19 marzo 1916, n. 419, e' conservato ai maggiori che anteriormente al 4 novembre 1918, abbiano comandato battaglioni mobilitati.
 
@@ -660,11 +660,11 @@ I capitani riusciti idonei nell'ultimo esame di concorso, saranno dispensati da 
 
 ((COMMA ABROGATO DAL REGIO DECRETO 31 DICEMBRE 1923, N. 3170)).
 
-### Art. 37
+## Art. 37
 
 Sui premi di riforma maturati e non riscossi alla data del presente decreto cessa la corresponsione di qualsiasi interesse.
 
-### Art. 38
+## Art. 38
 
 Dalla data di entrata in vigore del presente decreto restano abrogate tutte le disposizioni ad esso contrarie.
 

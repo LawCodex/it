@@ -28,25 +28,23 @@ la seguente legge:
 
 ## TITOLO I - TASSE E SOPRATASSE DI ANCORAGGIO
 
-### Capo I
+### Capo I - TASSA DI ANCORAGGIO
 
-#### TASSA DI ANCORAGGIO
-
-##### Art. 1
+#### Art. 1
 
 ((ARTICOLO ABROGATO DAL D.P.R. 28 MAGGIO 2009, N. 107))
 
-##### Art. 2
+#### Art. 2
 
 ((ARTICOLO ABROGATO DAL D.P.R. 28 MAGGIO 2009, N. 107))
 
-##### Art. 3
+#### Art. 3
 
 Tonnellaggio su cui viene imposta la tassa di ancoraggio
 
 Le tasse di ancoraggio si pagano sul tonnellaggio netto di registro. Le frazioni di tonnellata di stazza netta maggiori di 50 centesimi sono calcolate per una tonnellata intera; delle frazioni interiori non si tiene conto.
 
-##### Art. 4
+#### Art. 4
 
 Navi estere non equiparate alle nazionali
 
@@ -56,7 +54,7 @@ Nel caso di cui al secondo comma dell'articolo 2 sono soggette al pagamento del 
 
 Le suddette navi non hanno diritto all'abbonamento.
 
-##### Art. 5
+#### Art. 5
 
 Diritto sostitutivo della tassa d'ancoraggio per navi in crociera turistica.
 
@@ -80,7 +78,7 @@ b) con decorrenza dal 1° gennaio 2013, sono ulteriormente aumentate in misura p
 
 c) con decorrenza dal 1° gennaio 2014, sono ulteriormente aumentate in misura pari al 34% dell'aumento complessivo in cifra come sopra calcolato".
 
-##### Art. 6
+#### Art. 6
 
 Misure contro la discriminazioni di bandiera
 
@@ -88,7 +86,7 @@ Se le navi italiane vengono in un Paese straniero assoggettate al pagamento di t
 
 La sussistenza delle condizioni di cui al comma precedente e' dichiarata con decreto del Ministro per la marina mercantile di concerto con i Ministri per gli affari esteri, per le finanze e per il tesoro.
 
-##### Art. 7
+#### Art. 7
 
 Tassa di ancoraggio per i rimorchiatori
 
@@ -112,13 +110,13 @@ b) con decorrenza dal 1° gennaio 2013, sono ulteriormente aumentate in misura p
 
 c) con decorrenza dal 1° gennaio 2014, sono ulteriormente aumentate in misura pari al 34% dell'aumento complessivo in cifra come sopra calcolato".
 
-##### Art. 8
+#### Art. 8
 
 Termine per il pagamento della tassa di ancoraggio
 
 Le tasse di ancoraggio devono essere pagate prima della partenza della nave e, comunque, non piu' tardi di 30 giorni dall'approdo.
 
-##### Art. 9
+#### Art. 9
 
 Trasformazione della tassa di ancoraggio gia' pagato
 
@@ -134,7 +132,7 @@ Ove si faccia luogo alla trasformazione della tassa, la differenza
 
 dovuta sara' liquidata con effetto e validita' dalla data di decorrenza della tassa precedentemente pagata.
 
-##### Art. 10
+#### Art. 10
 
 Proroga della validita' della tassa di ancoraggio
 
@@ -150,13 +148,13 @@ Il periodo di validita' della tassa di ancoraggio e' prorogato:
 
 5\) per il tempo di inoperosita' commerciale della nave, intercorrente tra la data di arrivo in porto o in rada e la data, in cui la nave stessa sia stata posta in condizione di iniziare le operazioni di commercio.
 
-##### Art. 11
+#### Art. 11
 
 Cabotaggio effettuato dalle navi che hanno pagato la tassa di ancoraggio annuale per l'estero
 
 Le navi nazionali che hanno pagato la tassa in abbonamento annuale per l'estero possono, per tutto il tempo dell'abbonamento, esercitare il cabotaggio fra, i porti, le rade e le spiagge dello Stato senza pagare altra tassa di ancoraggio.
 
-##### Art. 12
+#### Art. 12
 
 Navi abbonate alle tasse di ancoraggio annuale per lo Stato che imprendono viaggi per l'estero
 
@@ -166,7 +164,7 @@ Le navi predette, al loro ritorno nello Stato, e sempre che sbarchino tutto o pa
 
 Il tempo impiegato nei suddetti viaggi non sara' dedotto dal periodo di validita' della tassa annuale.
 
-##### Art. 13
+#### Art. 13
 
 Navi esenti dal pagamento della tassa di ancoraggio
 
@@ -192,7 +190,7 @@ i) le navi addette ai servizi marittimi dei porti delle rade e delle spiagge del
 
 l) le navi di proprieta' dello Stato addette ai servizi di vigilanza costiera.
 
-##### Art. 14
+#### Art. 14
 
 Tassa d'ancoraggio per le navi che effettuano la pesca oltre gli stretti
 
@@ -214,7 +212,7 @@ b) con decorrenza dal 1° gennaio 2013, sono ulteriormente aumentate in misura p
 
 c) con decorrenza dal 1° gennaio 2014, sono ulteriormente aumentate in misura pari al 34% dell'aumento complessivo in cifra come sopra calcolato".
 
-##### Art. 15
+#### Art. 15
 
 Operazioni non qualificate commerciali ai fini
 
@@ -258,7 +256,7 @@ r) l'imbarco e lo sbarco di colli del corriere diplomatico italiano;
 
 s) l'imbarco di oggetti inviati per uso ufficiale dal Ministero degli affari esteri agli uffici diplomatici e
 
-##### Art. 16
+#### Art. 16
 
 Diritto dovuto dalle navi e dai galleggianti esenti dalla tassa di ancoraggio
 
@@ -278,21 +276,21 @@ b) con decorrenza dal 1° gennaio 2013, sono ulteriormente aumentate in misura p
 
 c) con decorrenza dal 1° gennaio 2014, sono ulteriormente aumentate in misura pari al 34% dell'aumento complessivo in cifra come sopra calcolato".
 
-## Capo II - SOPRATASSA DI ANCORAGGIO PER LE MERCI IN COPERTA
+### Capo II - SOPRATASSA DI ANCORAGGIO PER LE MERCI IN COPERTA
 
-##### Art. 17
-
-((ARTICOLO ABROGATO DAL D.P.R. 28 MAGGIO 2009, N. 107))
-
-##### Art. 18
+#### Art. 17
 
 ((ARTICOLO ABROGATO DAL D.P.R. 28 MAGGIO 2009, N. 107))
 
-##### Art. 19
+#### Art. 18
 
 ((ARTICOLO ABROGATO DAL D.P.R. 28 MAGGIO 2009, N. 107))
 
-##### Art. 20
+#### Art. 19
+
+((ARTICOLO ABROGATO DAL D.P.R. 28 MAGGIO 2009, N. 107))
+
+#### Art. 20
 
 Navi esenti del pagamento della sopratassa di ancoraggio
 
@@ -308,7 +306,7 @@ d) le merci emananti cattivi odori;
 
 e) gli animali vivi.
 
-##### Art. 21
+#### Art. 21
 
 Esecuzione dal pagamento della soprattassa
 
@@ -316,7 +314,7 @@ di ancoraggio per fusti e recipienti vuoti
 
 Sono esenti dal pagamento della sopratassa di ancoraggio le navi che trasportano fusti, cassoni e recipienti in genere vuoti, che debbano servire o abbiano servito per prendere o lasciare un carico in un porto dello Stato, quando anche non abbiano nelle stive un corrispondente spazio vuoto.
 
-##### Art. 22
+#### Art. 22
 
 Estensione alla soprattassa d'ancoraggio delle norme
 
@@ -324,11 +322,9 @@ relative alla tassa d'ancoraggio
 
 Le norme relative alla tassa di ancoraggio si applicano alla sopratassa di ancoraggio in quanto non siano contrarie i incompatibili con le norme di questo capo.
 
-## Capo III - TASSA SUPPLEMENTARE DI ANCORAGGIO
+### Capo III - TASSA SUPPLEMENTARE DI ANCORAGGIO A GENOVA, NAPOLI E VENEZIA
 
-### A GENOVA, NAPOLI E VENEZIA
-
-##### Art. 23
+#### Art. 23
 
 Tassa supplementare di ancoraggio nei porti di Genova, Venezia e Napoli
 
@@ -350,7 +346,7 @@ b) con decorrenza dal 1° gennaio 2013, sono ulteriormente aumentate in misura p
 
 c) con decorrenza dal 1° gennaio 2014, sono ulteriormente aumentate in misura pari al 34% dell'aumento complessivo in cifra come sopra calcolato".
 
-##### Art. 24
+#### Art. 24
 
 Tassa supplementare di ancoraggio per le navi inferiori a 100 tonnellate di stazza netta e per i rimorchiatori
 
@@ -370,7 +366,7 @@ b) con decorrenza dal 1° gennaio 2013, sono ulteriormente aumentate in misura p
 
 c) con decorrenza dal 1° gennaio 2014, sono ulteriormente aumentate in misura pari al 34% dell'aumento complessivo in cifra come sopra calcolato".
 
-##### Art. 25
+#### Art. 25
 
 Tassa supplementare di ancoraggio per le navi in crociera turistica
 
@@ -390,7 +386,7 @@ b) con decorrenza dal 1° gennaio 2013, sono ulteriormente aumentate in misura p
 
 c) con decorrenza dal 1° gennaio 2014, sono ulteriormente aumentate in misura pari al 34% dell'aumento complessivo in cifra come sopra calcolato".
 
-##### Art. 26
+#### Art. 26
 
 Esenzione da pagamento della tassa
 
@@ -400,19 +396,17 @@ La tassa supplementare di ancoraggio di cui all'articolo 23 non e' dovuta, salvo
 
 ## TITOLO II - TASSE SULLE MERCI E SUI PASSEGGERI
 
-### Capo I
+### Capo I - TASSA ERARIALE DI SBARCO SULLE MERCI PROVENIENTI DALL'ESTERO
 
-#### TASSA ERARIALE DI SBARCO SULLE MERCI - PROVENIENTI DALL'ESTERO
-
-##### Art. 27
+#### Art. 27
 
 ((ARTICOLO ABROGATO DAL D.P.R. 28 MAGGIO 2009, N. 107))
 
-##### Art. 28
+#### Art. 28
 
 ((ARTICOLO ABROGATO DAL D.P.R. 28 MAGGIO 2009, N. 107))
 
-##### Art. 29
+#### Art. 29
 
 Esecuzioni
 
@@ -436,29 +430,27 @@ g) bagagli a seguito dei viaggiatori salvo che essi contengono merci, compresi i
 
 h) le merci donate, a scopo di assistenza sociale allo Stato e ad enti istituiti i ed organismi i quali riconosciuti dallo Stato, perseguono tale finalita'.
 
-## CAPO II - TASSA SUI PASSEGGERI A GENOVA, NAPOLI E TRIESTE
+### CAPO II - TASSA SUI PASSEGGERI A GENOVA, NAPOLI E TRIESTE
 
-##### Art. 30
-
-((ARTICOLO ABROGATO DALLA LEGGE 29 DICEMBRE 2000, N. 422))
-
-##### Art. 31
+#### Art. 30
 
 ((ARTICOLO ABROGATO DALLA LEGGE 29 DICEMBRE 2000, N. 422))
 
-##### Art. 32
+#### Art. 31
 
 ((ARTICOLO ABROGATO DALLA LEGGE 29 DICEMBRE 2000, N. 422))
 
-## Capo III - TASSA SULLE MERCI SBARCATE, IMBARCATE E IN TRANSITO NEI PORTI DI
+#### Art. 32
 
-### GENOVA, VENEZIA, NAPOLI, LIVORNO, CIVITAVECCHIA, TRIESTE, SAVONA E - BRINDISI
+((ARTICOLO ABROGATO DALLA LEGGE 29 DICEMBRE 2000, N. 422))
 
-##### Art. 33
+### Capo III - TASSA SULLE MERCI SBARCATE, IMBARCATE E IN TRANSITO NEI PORTI DI GENOVA, VENEZIA, NAPOLI, LIVORNO, CIVITAVECCHIA, TRIESTE, SAVONA E BRINDISI
+
+#### Art. 33
 
 ((ARTICOLO ABROGATO DAL D.P.R. 28 MAGGIO 2009, N. 107))
 
-##### Art. 34
+#### Art. 34
 
 Tassa sulle merci di Livorno,
 
@@ -478,7 +470,7 @@ lire 30, per tutte le altre merci.
 
 ((COMMA ABROGATO DAL D.L. 28 FEBBRAIO 1974, N. 47, CONVERTITO CON MODIFICAZIONI DALLA L. 16 APRILE 1974, N. 117)).
 
-##### Art. 35
+#### Art. 35
 
 Tassa sulle merci nel porto di Trieste
 
@@ -486,7 +478,7 @@ Sulle merci sbarcate o imbarcate nel porto di Trieste si applica una tassa di li
 
 ((COMMA ABROGATO DAL D.L. 28 FEBBRAIO 1974, N. 47, CONVERTITO CON MODIFICAZIONI DALLA L. 16 APRILE 1974, N. 117)).
 
-##### Art. 36
+#### Art. 36
 
 Addizionale alla tassa sulle merci nel porto di Genova
 
@@ -494,7 +486,7 @@ Il Consorzio autonomo del porto di Genova, allo scopo di far fronte alle spese n
 
 La suddetta addizionale puo' in ogni tempo essere tolta o ribassata con provvedimento immediatamente esecutivo del Consorzio, limitatamente alla tassa sulle merci in transito.
 
-##### Art. 37
+#### Art. 37
 
 Tassa sulle merci nei porti di Savona e Vado Ligure
 
@@ -508,19 +500,19 @@ AGGIORNAMENTO (1)
 
 La L. 23 dicembre 1965, n. 1417 ha disposto (con l'art. 1) che "Il termine del 31 dicembre 1965, stabilito dall'articolo 37 della legge 9 febbraio 1903, n. 82, per l'applicabilita' il favore dell'Ente portuale Savona-Piemonte della tassa, non superiore a lire 15 per ogni tonnellata metrica, sulle merci imbarcate e sbarcate nei porti di Savona e Vado Ligure, disposta dalla legge 21 ottobre 1950, n. 943, e' prorogato di un anno".
 
-##### Art. 38
+#### Art. 38
 
 Trasbordo
 
 In caso di trasbordo delle merci da una nave all'altra la tassa di cui ai precedenti articoli 33, 34 e 35 e' dovuta una sola volta e nella misura maggiore.
 
-##### Art. 39
+#### Art. 39
 
 Privilegio del pagamento della tassa sulle merci
 
 Il pagamento della tassa sulle merci di cui agli articoli precedenti e quello della tassa sui carri ferroviari di cui ai successivo articolo 43 hanno privilegio sulle merci stesse.
 
-##### Art. 40
+#### Art. 40
 
 Merci esenti dal pagamento della tassa sulle merci
 
@@ -546,7 +538,7 @@ i) le merci donate, a scopo di assistenza sociale, allo Stato o
 
 ad enti, istituti ed organismi i quali, riconosciuti dallo Stato, perseguano tale finalita'.
 
-##### Art. 41
+#### Art. 41
 
 Particolari esenzioni nel porto di Civitavecchia
 
@@ -560,15 +552,15 @@ AGGIORNAMENTO (3)
 
 La L. 2 aprile 1969, n. 165 ha disposto (con l'art. 2, comma 1) che l'esenzione per le merci caricate sui carri ferroviari ed autoveicoli che accedono con le proprie ruote sulle navi traghetto adibite al collegamento marittimo con la Sardegna ha decorrenza dalla data di entrata in vigore della legge 9 febbraio 1963, n. 82.
 
-##### Art. 42
+#### Art. 42
 
 Particolari esenzioni nel porto di Trieste
 
 Oltre alle merci indicate nell'articolo 40 sono esenti nel porto di Trieste dalla tassa stabilita dall'articolo 35 i prodotti e i generi di approvvigionamento locale provenienti dai centri agricoli della Venezia Giulia.
 
-## CAPO IV - TASSA SUI CARRI FERROVIARI E SUGLI AUTOMEZZI
+### CAPO IV - TASSA SUI CARRI FERROVIARI E SUGLI AUTOMEZZI
 
-##### Art. 43
+#### Art. 43
 
 Misure della tassa
 
@@ -592,7 +584,7 @@ b) con decorrenza dal 1° gennaio 2013, sono ulteriormente aumentate in misura p
 
 c) con decorrenza dal 1° gennaio 2014, sono ulteriormente aumentate in misura pari al 34% dell'aumento complessivo in cifra come sopra calcolato".
 
-##### Art. 44
+#### Art. 44
 
 Tassa sugli automezzi nel porto di Genova
 
@@ -614,17 +606,15 @@ b) con decorrenza dal 1° gennaio 2013, sono ulteriormente aumentate in misura p
 
 c) con decorrenza dal 1° gennaio 2014, sono ulteriormente aumentate in misura pari al 34% dell'aumento complessivo in cifra come sopra calcolato".
 
-##### Art. 45
+#### Art. 45
 
 Esenzione dai pagamento della tassa
 
 Sono esenti dall'applicazione della tassa di cui all'articolo 44 gli automezzi che trasportano i pacchi postali, le provviste di bordo, il bagaglio dei passeggeri e del personale di bordo in arrivo ed in partenza, i materiali di riparazione delle navi, quelli per le opere portuali ed in genere gli automezzi che trasportino merci che non formino oggetto di operazioni di imbarco e sbarco.
 
-## TITOLO III - DEVOLUZIONE DEL PROVENTO
+## TITOLO III - DEVOLUZIONE DEL PROVENTO DI ALCUNE TASSE
 
-### DI ALCUNE TASSE
-
-##### Art. 46
+#### Art. 46
 
 Devoluzione al Consorzio del porto di Genova del
 
@@ -634,7 +624,7 @@ La meta' del provento della tassa supplementare di ancoraggio di cui agli artico
 
 Le spese inerenti alla riscossione delle tasse di cui agli articoli citati nel comma precedente sono a carico del Consorzio.
 
-##### Art. 47
+#### Art. 47
 
 Devoluzione del provento di alcune tasse
 
@@ -654,7 +644,7 @@ AGGIORNAMENTO (6)
 
 Il D.L. 13 marzo 1988, n. 69, convertito con modificazioni dalla L. 13 maggio 1988, n. 153 ha disposto (con l'art. 3, comma 7) che "A decorrere dalla data di entrata in vigore del presente decreto, il provento complessivo della tassa sulle merci di cui all'articolo 47 della legge 9 febbraio 1963, n. 82, e' devoluto per intero al Provveditorato al porto di Venezia".
 
-##### Art. 48
+#### Art. 48
 
 Devoluzione della tassa supplementare d'ancoraggio e sui passeggeri all'Ente autonomo del porto di Napoli
 
@@ -662,7 +652,7 @@ Il provento della tassa supplementare di ancoraggio, riscossa nei porto di Napol
 
 Il provento della tassa sui passeggeri di cui all'articolo 30, e' devoluto in parti uguali allo Stato e all'Ente suddetto. La parte devoluta all'Ente deve essere destinata alle spese, per il funzionamento della stazione marittima; l'eventuale eccedenza sara' accantonata e destinata alla esecuzione di nuove, opere ed attrezzature
 
-##### Art. 49
+#### Art. 49
 
 Devoluzione della tassa passeggeri
 
@@ -672,11 +662,9 @@ Il provento delle tasse sui passeggeri riscosso nel porto di Trieste ai sensi de
 
 Il provento della tassa sui passeggeri e' destinato dall'Azienda suddetta alle spese relative al funzionamento della Stazione marittima.
 
-## TITOLO IV - TASSE D'AMMISSIONE AGLI ESAMI PER IL CONSEGUIMENTO DEI TITOLI
+## TITOLO IV - TASSE D'AMMISSIONE AGLI ESAMI PER IL CONSEGUIMENTO DEI TITOLI PROFESSIONALI MARITTIMI
 
-### PROFESSIONALI MARITTIMI
-
-##### Art. 50
+#### Art. 50
 
 Tassa d'ammissione agli esami per il conseguimento
 
@@ -722,33 +710,33 @@ Perito stazzatore...................................... " 1.500
 
 Capitano di gran cabotaggio............................ " 1.500
 
-##### Art. 51
+#### Art. 51
 
 Tassa d'ammissione sulla utilizzazione commerciale della nave per gli ufficiali di vascello
 
 L'ammissione all'esame sulla utilizzazione commerciale della nave per il conseguimento del titolo di capitano di lungo corso, di aspirante capitano di lungo corso e di allievo capitano di lungo corso da parte degli ufficiali di vascello che provengano dai corsi normali dell'Accademia: navale e siano iscritti nei ruoli della Marina, militare, e' subordinata rispettivamente al pagamento di una tassa superiore di lire 2.000, di lire 1.500 e lire 1.000.
 
-##### Art. 52
+#### Art. 52
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 LUGLIO 2005, N. 171))
 
 ## TITOLO V - DISPOSIZIONI FINALI E TRANSITORIE
 
-##### Art. 53
+#### Art. 53
 
 Con decreto del Presidente della Repubblica, su proposta del Ministro per la marina mercantile di concerto, con i Ministri per le finanze e per il tesoro, sentito il Consiglio di Stato, saranno emanate; nel termine di un anno di pubblicazione della presente legge nella Gazzetta Ufficiale, le disposizioni necessarie per l'esecuzione della legge stessa.
 
 Fino a quando non saranno emanate le norme di cui al precedente comma, si applicano, in quanto compatibili, le disposizioni regolamentari vigenti in materia.
 
-##### Art. 54
+#### Art. 54
 
 Con l'entrata in vigore della presente legge le tasse, le sopratasse di ancoraggio ed i diritti equivalenti, pagati sotto l'imperio delle precedenti leggi continueranno ad essere validi fino alla loro scadenza.
 
-##### Art. 55
+#### Art. 55
 
 Sono abrogate le disposizioni di cui agli articoli 20 e seguenti della legge 23 luglio 1896, n. 318, e successive modificazioni; il regio decreto 6 maggio 1909, n. 305, nonche' tutte le altre disposizioni vigenti in materia incompatibili con la presente legge.
 
-##### Art. 56
+#### Art. 56
 
 La presente legge entra in vigore il trentesimo giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 

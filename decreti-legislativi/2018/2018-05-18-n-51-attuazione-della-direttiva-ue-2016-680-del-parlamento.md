@@ -590,7 +590,7 @@ b) il tipo di trattamento presenta un rischio elevato per i diritti e le liberta
 
 6\. Il termine di cui al comma 5 puo' essere prorogato di un mese nel caso di trattamento complesso. Il Garante informa della proroga e dei motivi del ritardo il titolare del trattamento e, se esistente, il responsabile del trattamento, entro un mese dal ricevimento della richiesta di consultazione.
 
-## Sezione II - Sicurezza dei dati personali
+### Sezione II - Sicurezza dei dati personali
 
 #### Art. 25
 
@@ -640,7 +640,7 @@ di dati personali all'interessato
 
 2\. La comunicazione all'interessato di cui al comma 1 puo' essere ritardata, limitata od omessa alle condizioni e per i motivi di cui all'articolo 14, comma 2.
 
-## Sezione III - Responsabile della protezione dei dati
+### Sezione III - Responsabile della protezione dei dati
 
 #### Art. 28
 
@@ -684,9 +684,7 @@ d) cooperare con il Garante;
 
 e) fungere da punto di contatto per il Garante per questioni connesse al trattamento, tra cui la consultazione preventiva di cui all'articolo 24, ed effettuare, ove necessario, consultazioni relativamente a qualunque altra questione.
 
-## Capo IV - Trasferimento di dati personali verso paesi terzi o organizzazioni
-
-### internazionali
+## Capo IV - Trasferimento di dati personali verso paesi terzi o organizzazioni internazionali
 
 #### Art. 31
 
@@ -972,9 +970,7 @@ Pene accessorie
 
 > La legge determina gli altri casi nei quali la sentenza di condanna deve essere pubblicata. In tali casi la pubblicazione ha luogo nei modi stabiliti nei due capoversi precedenti.».
 
-## Capo VII - Disposizioni integrative sui trattamenti
-
-### delle Forze di polizia
+## Capo VII - Disposizioni integrative sui trattamenti delle Forze di polizia
 
 #### Art. 47
 

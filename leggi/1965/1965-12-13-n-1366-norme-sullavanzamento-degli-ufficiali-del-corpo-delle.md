@@ -28,21 +28,19 @@ la seguente legge:
 
 ## TITOLO I - DELL'AVANZAMENTO IN GENERALE
 
-### Capo I
+### Capo I - NORME FONDAMENTALI
 
-#### NORME FONDAMENTALI
-
-###### Art. 1
+##### Art. 1
 
 Gli ufficiali del Corpo delle guardie di pubblica sicurezza conseguono l'avanzamento secondo le norme contenute nella presente legge.
 
-###### Art. 2
+##### Art. 2
 
 Per l'avanzamento al grado superiore l'ufficiale deve possedere i requisiti fisici, morali, di carattere, intellettuali, di cultura e professionali necessari per bene adempiere le funzioni del nuovo grado. Aver disimpegnato bene funzioni del proprio grado e' condizione indispensabile, ma non sufficiente, per l'avanzamento al grado superiore.
 
 Per l'avanzamento ai vari gradi di generale i requisiti di cui al comma precedente debbono essere posseduti in modo eminente, in relazione al carattere delle funzioni spettanti ai gradi suddetti.
 
-###### Art. 3
+##### Art. 3
 
 L'avanzamento degli ufficiali del Corpo delle guardie di pubblica sicurezza ha luogo:
 
@@ -52,7 +50,7 @@ a scelta.
 
 Puo' essere disposto per meriti eccezionali.
 
-###### Art. 4
+##### Art. 4
 
 Per l'avanzamento ad anzianita' l'ufficiale deve essere riconosciuto in possesso, mediante giudizio di avanzamento, dei requisiti indicati nell'art. 2.
 
@@ -62,19 +60,19 @@ Per l'avanzamento a scelta, l'ufficiale deve essere riconosciuto in possesso, me
 
 L'avanzamento a scelta si effettua promuovendo gli ufficiali nell'ordine di iscrizione nel ruolo di anzianita'.
 
-###### Art. 5
+##### Art. 5
 
 L'avanzamento per meriti eccezionali puo' aver luogo nei riguardi dell'ufficiale che sia riconosciuto in possesso dei particolari requisiti stabiliti dalla presente legge.
 
 L'avanzamento per meriti eccezionali si effettua promuovendo l'ufficiale con precedenza sui pari grado idonei all'avanzamento ad anzianita' o a scelta.
 
-## Capo II - RUOLI DI ANZIANITA'
+### Capo II - RUOLI DI ANZIANITA'
 
-###### Art. 6
+##### Art. 6
 
 Il grado e l'ordine di anzianita' degli ufficiali, ai fini dell'avanzamento, risultano dai ruoli formati ai sensi della legge sullo stato degli ufficiali.
 
-###### Art. 7
+##### Art. 7
 
 I ruoli, nei quali sono iscritti gli ufficiali del servizio permanente effettivo del Corpo delle guardie di pubblica sicurezza, sono i seguenti:
 
@@ -86,11 +84,9 @@ Gli ufficiali dell'"a disposizione" sono iscritti in ruoli corrispondenti ai ruo
 
 Gli ufficiali dell'ausiliaria e gli ufficiali della riserva sono rispettivamente iscritti in ruoli corrispondenti a quelli del servizio permanente effettivo.
 
-## Capo III - AUTORITA' COMPETENTI AD ESPRIMERE
+### Capo III - AUTORITA' COMPETENTI AD ESPRIMERE GIUDIZIO SULL'AVANZAMENTO
 
-### GIUDIZIO SULL'AVANZAMENTO
-
-###### Art. 8
+##### Art. 8
 
 I giudizi sull'avanzamento sono pronunciati dalla commissione di avanzamento, che e' composta:
 
@@ -106,37 +102,37 @@ Nelle commissioni di avanzamento di cui alle lettere 6), o) e d) le funzioni di 
 
 I componenti delle commissioni si pronunciano con votazione palese in ordine inverso di grado e per la validita' delle relative deliberazioni e' necessaria la presenza di tutti i membri nella commissione di cui alla lettera a), di almeno tre membri della commissione di cui alla lettera b) e di almeno cinque membri nelle commissioni di cui alle lettere o) e d).
 
-## Capo IV - VALUTAZIONE PER L'AVANZAMENTO
+### Capo IV - VALUTAZIONE PER L'AVANZAMENTO
 
-###### Art. 9
+##### Art. 9
 
 L'ufficiale, per essere valutato per l'avanzamento ad anzianita' o a scelta, deve trovarsi compreso in apposite aliquote di ruolo stabilite dal Ministro, salvo che la presente legge non disponga altrimenti.
 
-###### Art. 10
+##### Art. 10
 
 Non puo' essere valutato per l'avanzamento l'ufficiale che ricopra la carica di Ministro o di Sottosegretario di Stato presso qualsiasi amministrazione.
 
 ((Non puo' essere valutato per l'avanzamento l'ufficiale che sia imputato in un procedimento penale per delitto non colposo o sottoposto a procedimento disciplinare, o che sia sospeso dall'impiego o dalle, funzioni del grado, o che si trovi in aspettativa per qualsiasi motivo)).
 
-###### Art. 11
+##### Art. 11
 
 Quando eccezionalmente la commissione di avanzamento ritenga di non poter addivenire alla pronuncia del giudizio sull'avanzamento, sospende il giudizio, indicandone i motivi.
 
 All'ufficiale e' data comunicazione della sospensione della valutazione e dei motivi che l'hanno determinata.
 
-###### Art. 12
+##### Art. 12
 
 Le Commissioni di avanzamento esprimono i giudizi sull'avanzamento sulla base degli elementi risultanti dal libretto personale.
 
 Le Commissioni hanno facolta' di interpellare qualunque superiore in grado, in servizio permanente, che abbiano abbia avuto alle dipendenze l'ufficiale.
 
-###### Art. 13
+##### Art. 13
 
 La Commissione di avanzamento esprime i giudizi sull'avanzamento ad anzianita' dichiarando se l'ufficiale sottoposto a valutazione sia idoneo o non idoneo all'avanzamento. E' giudicato dalla Commissione idoneo all'avanzamento l'ufficiale che riporti un numero di voti favorevoli superiore alla meta' dei votanti.
 
 Gli ufficiali che hanno riportato giudizio di idoneita' e gli ufficiali che hanno riportato giudizio di non idoneita' sono iscritti dalla Commissione in due distinti elenchi, in' ordine di ruolo.
 
-###### Art. 14
+##### Art. 14
 
 La Commissione di avanzamento esprime i giudizi sull'avanzamento a scelta dichiarando anzitutto se lo ufficiale sottoposto a valutazione sia idoneo o non sia idoneo all'avanzamento. E' giudicato dalla commissione idoneo all'avanzamento l'ufficiale che riporti un numero di voti favorevoli superiore ai due terzi dei votanti.
 
@@ -144,7 +140,7 @@ Successivamente la Commissione attribuisce a ciascuno degli ufficiali da essa gi
 
 Gli ufficiali che hanno riportato giudizio di non idoneita' sono iscritti dalla Commissione in un elenco in ordine di ruolo.
 
-###### Art. 15
+##### Art. 15
 
 Il punto di merito di cui al secondo comma dell'articolo 14 e' attribuito dalla Commissione con l'osservanza delle norme che seguono.
 
@@ -160,25 +156,25 @@ Le somme dei punti assegnati per ciascun complesso di elementi di cui alle lette
 
 Quando il giudizio riguardi ufficiali aventi grado di generale, ogni componente della commissione assegna all'ufficiale un punto da uno a trenta in relazione agli elementi indicati nelle precedenti lettere a), b) e o), considerati nel loro insieme; la somma dei punti cosi' assegnati e' divisa per il numero dei votanti, calcolando il quoziente al centesimo. Detto quoziente costituisce il punto di merito attribuito all'ufficiale dalla Commissione.
 
-###### Art. 16
+##### Art. 16
 
 Gli elenchi e le graduatorie di merito di cui agli articoli 13 e 14 sono approvati dal Ministro.
 
 Gli ufficiali compresi negli elenchi degli idonei e nelle graduatorie di merito, approvati dal Ministro, sono idonei all'avanzamento. Gli ufficiali compresi negli elenchi dei non idonei, approvati dal Ministro, sono non idonei all'avanzamento.
 
-###### Art. 17
+##### Art. 17
 
 Salvo quanto disposto nel successivo comma e negli articoli 51 e 52, l'ufficiale non idoneo all'avanzamento non e' piu' valutato per l'avanzamento e, se in servizio permanente effettivo e di grado superiore a capitano, e' collocato a disposizione con decorrenza dal primo gennaio dell'anno successivo a quello di determinazione dell'aliquota di valutazione nella quale era compreso.
 
 La non idoneita' all'avanzamento nel servizio permanente non impedisce l'avanzamento dell'ufficiale nella posizione di congedo.
 
-###### Art. 18
+##### Art. 18
 
 Agli ufficiali valutati per l'avanzamento 6 data comunicazione dell'esito del giudizio.
 
-## Capo V - QUADRI DI AVANZAMENTO
+### Capo V - QUADRI DI AVANZAMENTO
 
-###### Art. 19
+##### Art. 19
 
 Il Ministro, sulla scorta degli elenchi degli idonei e delle graduatorie di merito da lui approvati, forma altrettanti quadri di avanzamento, iscrivendovi:
 
@@ -190,23 +186,23 @@ Gli ufficiali di cui alle lettere a) e b) sono iscritti in quadro nell'ordine di
 
 I quadri di avanzamento hanno validita' per l'anno cui si riferiscono.
 
-###### Art. 20
+##### Art. 20
 
 Per i gradi nei quali le promozioni a scelta non si effettuano tutti gli anni, il Ministro, per gli anni in cui non sono previste promozioni, approva egualmente la graduatoria, ma forma i quadri di avanzamento solo se nel corso dell'anno vengano a verificarsi vacanze nei gradi rispettivamente superiori.
 
-###### Art. 21
+##### Art. 21
 
 Qualora nel corso dell'anno un ufficiale venga tolto dal quadro di avanzamento a scelta per una delle cause stabilite dalla legge, subentra nel quadro l'ufficiale che seguiva nella graduatoria i pari grado iscritti nel quadro stesso per la determinazione del posto da attribuire all'ufficiale rispetto ai pari grado ancora iscritti in quadro si osservano le norme del secondo comma dell'art. 19.
 
-## Capo VI - PROMOZIONI
+### Capo VI - PROMOZIONI
 
-###### Art. 22
+##### Art. 22
 
 L'ufficiale iscritto nel quadro di avanzamento 6 promosso secondo l'ordine della sua iscrizione nel quadro stesso.
 
 La promozione e' disposta con decreto del Presidente della Repubblica.
 
-###### Art. 23
+##### Art. 23
 
 E' sospesa la promozione dell'ufficiale iscritto nel quadro di avanzamento che venga a trovarsi in una delle condizioni indicate nel secondo comma dell'articolo 10.
 
@@ -214,7 +210,7 @@ La sospensione della promozione annulla la valutazione gia' effettuata.
 
 All'ufficiale e' data comunicazione della sospensione della promozione.
 
-###### Art. 24
+##### Art. 24
 
 Il Ministro ha facolta' di sospendere, con propria determinazione, la promozione dell'ufficiale iscritto nel quadro di avanzamento, nei cui riguardi siano intervenuti fatti di notevole gravita'.
 
@@ -222,7 +218,7 @@ La sospensione della promozione annulla la valutazione gia' effettuata.
 
 All'ufficiale e' data comunicazione della sospensione della promozione e dei motivi che l'hanno determinata.
 
-###### Art. 25
+##### Art. 25
 
 Il capo della polizia, di propria iniziativa o su proposta del tenente generale ispettore del Corpo, qualora ritenga che un ufficiale iscritto nel quadro di avanzamento abbia perduto uno dei requisiti previsti dalla presente legge per l'avanzamento, inoltre, nei riguardi dell'ufficiale stesso, proposta di cancellazione dal quadro.
 
@@ -230,17 +226,15 @@ Sulla proposta decide il Ministro, sentita la commissione d'avanzamento. Fino a 
 
 L'ufficiale cancellato dal quadro e' non idoneo allo avanzamento; allo stesso e' data comunicazione della avvenuta cancellazione e dei motivi che l'hanno determinata.
 
-###### Art. 26
+##### Art. 26
 
 La morte dell'ufficiale o la permanente inidoneita' fisica derivante da ferite, lesioni o malattie riportate in servizio e per causa di servizio, non impedisce la promozione quando l'ufficiale avrebbe potuto conseguirla con anzianita' anteriore alla data del decesso o del sopravvenire della non idoneita'.
 
 ## TITOLO II - AVANZAMENTO DEGLI UFFICIALI IN SERVIZIO PERMANENTE EFFETTIVO
 
-### Capo I
+### Capo I - DISPOSIZIONI RELATIVE ALLA VALUTAZIONE DEGLI UFFICIALI IN SERVIZIO PERMANENTE EFFETTIVO
 
-#### DISPOSIZIONI RELATIVE ALLA VALUTAZIONE DEGLI UFFICIALI IN SERVIZIO - PERMANENTE EFFETTIVO
-
-###### Art. 27
+##### Art. 27
 
 L'ufficiale in servizio permanente effettivo, per essere valutato per l'avanzamento, deve avere compiuto i periodi di comando effettivo di reparto, di attribuzioni specifiche, aver frequentato con esito favorevole i corsi, aver superato gli esami stabiliti dalla tabella n. I annessa alla presente legge.
 
@@ -252,7 +246,7 @@ AGGIORNAMENTO (3)
 
 La L. 24 dicembre 1979, n. 652 ha disposto (con l'art. 2, comma 2) che le disposizioni contenute nell'articolo 27 della legge 13 dicembre 1965, n. 1366, in contrasto con il primo comma della L. 24 dicembre 1979, n. 652 sono abrogate.
 
-###### Art. 28
+##### Art. 28
 
 Agli effetti di quanto disposto dall'art. 9, il 31 ottobre di ogni anno il Ministro determina per ciascun grado, eccettuato quello di sottotenente, le aliquote di ruolo degli ufficiali da valutare per la formazione dei quadri di avanzamento per l'anno successivo.
 
@@ -268,19 +262,19 @@ Gli ufficiali compresi nelle aliquote in qualita' di Idonei e non iscritti in qu
 
 Gli ufficiali che non possono essere valutati per lo avanzamento ai sensi dell'art. 10 o per non aver raggiunto le condizioni prescritte dall'art. 27 sono esclusi dal novero dei pari grado da comprendere nelle aliquote di cui al terzo comma. Essi sono poi computati nelle aliquote relative alla prima valutazione per la formazione di quadri di avanzamento, che sara' effettuata dopo che sia venuta a' cessare la causa impeditiva della valutazione o dopo il raggiungimento delle predette condizioni.
 
-###### Art. 29
+##### Art. 29
 
 L'ufficiale di grado superiore a tenente, che non abbia compiuto il periodo di comando o di attribuzioni specifiche, perche', con determinazione del Ministro, non destinato alla relativa carica o esonerato da essa, quando sia compreso nell'aliquota di ruolo e' considerato a tutti gli effetti non idoneo all'avanzamento.
 
 La determinazione del Ministro e' adottata previo parere conforme della competente commissione di avanzamento.
 
-###### Art. 30
+##### Art. 30
 
 L'ufficiale che abbia rinunciato ai corsi o agli esami prescritti ai fini dell'avanzamento o che non vi sia stato ammesso o che non li abbia superati, quando sia compreso nella aliquota di ruolo e' considerato a tutti gli effetti non idoneo all'avanzamento.
 
 La rinuncia deve risultare da dichiarazione scritta dell'ufficiale.
 
-###### Art. 31
+##### Art. 31
 
 L'ufficiale che sia in condizione di essere valutato per l'avanzamento puo' presentare domanda di rinuncia all'avanzamento. La domanda puo' anche non essere motivata.
 
@@ -288,9 +282,9 @@ Il Ministro decide sull'accoglimento della domanda in relazione alle esigenze di
 
 L'ufficiale, nei cui riguardi sia accolta la domanda di rinuncia, e' considerato a tutti gli effetti non idoneo all'avanzamento.
 
-## Capo II - PROMOZIONE DEGLI UFFICIALI IN SERVIZIO PERMANENTE EFFETTIVO
+### Capo II - PROMOZIONE DEGLI UFFICIALI IN SERVIZIO PERMANENTE EFFETTIVO
 
-###### Art. 32
+##### Art. 32
 
 L'ufficiale iscritto nel quadro di avanzamento e' promosso quando si verifichi vacanza nel grado superiore.
 
@@ -298,7 +292,7 @@ All'ufficiale promosso 6 attribuita nel nuovo grado anzianita' corrispondente al
 
 La presente legge stabilisce i casi nei quali l'ufficiale e' promosso anche se non esista vacanza; in tali casi la eccedenza e' assorbita al verificarsi della prima vacanza.
 
-###### Art. 33
+##### Art. 33
 
 Determinano vacanze organiche:
 
@@ -314,11 +308,11 @@ Le vacanze derivanti dalle cause di cui alle lettere a), 1&gt;) e c),
 
 si verificano dalla data di decorrenza della promozione o della cessazione dal servizio permanente effettivo o del collocamento in soprannumero agli organici; le vacanze derivanti dalla causa di cui alla lettera d) si considerano verificate dal giorno successivo a quello del decesso.
 
-###### Art. 34
+##### Art. 34
 
 Gli ufficiali iscritti nei quadri di avanzamento ad anzianita', che non conseguono la promozione nell'anno di validita' dei quadri stessi, sono iscritti, senza che occorra una nuova valutazione, nei quadri dell'anno successivo.
 
-###### Art. 35
+##### Art. 35
 
 Per i gradi in cui l'avanzamento ha luogo a scelta le promozioni sono effettuate in numero fisso annuale.
 
@@ -326,7 +320,7 @@ La tabella n. I annessa alla presente legge stabilisce per ciascuno dei gradi an
 
 Le promozioni per colmare le vacanze determinate dai provvedimenti di cui all'art. 33, lettera c), salvo che il collocamento in soprannumero sia disposto in applicazione dell'art. 21, ultimo comma, della legge 29 marzo 1956, n. 288, e dell'art. 37 della presenta legge, sono effettuate in aggiunta ai numero fisso annuale di cui al comma precedente.
 
-###### Art. 36
+##### Art. 36
 
 Qualora, dopo che sia stato raggiunto in un grado Il numero delle promozioni stabilite per l'anno dalla tabella, si verifichino nel grado superiore ulteriori vacanze, queste sono rinviate al 1 gennaio dell'anno successivo e colmate con promozioni sotto tale data.
 
@@ -334,7 +328,7 @@ Qualora il numero degli ufficiali dichiarati idonei all'avanzamento sia inferior
 
 Nei casi indicati nei commi precedenti e' in facolta' del Ministro di trattenere o, se necessario, richiamare in servizio, altrettanti ufficiali dell'ausiliaria, sempre che non vi siano ufficiali a disposizione in numero sufficiente.
 
-###### Art. 37
+##### Art. 37
 
 Qualora in un grado non si raggiunga durante lo anno, per insufficienza di vacanze nel grado superiore, Il numero delle promozioni stabilite dalla tabella n. I, il Ministro, al 31 dicembre dell'anno stesso, forma le vacanze ancora occorrenti con l'osservanza delle seguenti norme.
 
@@ -352,11 +346,9 @@ Gli ufficiali collocati in soprannumero agli organici ai sensi del terzo e quart
 
 Nei casi previsti dall'art. 20 gli ufficiali collocati in soprannumero agli organici ai sensi del terzo e quarto comma del presente articolo, sempre che nel frattempo non siano dichiarati non idonei, sono valutati nuovamente di anno in anno in qualita' di ufficiali in soprannumero sino all'anno nel quale si forma il quadro di avanzamento: qualora dichiarati idonei ma non iscritti in quadro, sono collocati a disposizione con decorrenza dall'inizio di validita' del quadro stesso.
 
-## Capo III - EFFETTI DELLA CESSAZIONE DELLE CAUSE IMPEDITIVE DELLA VALUTAZIONE O
+### Capo III - EFFETTI DELLA CESSAZIONE DELLE CAUSE IMPEDITIVE DELLA VALUTAZIONE O DELLA PROMOZIONE
 
-### DELLA PROMOZIONE
-
-###### Art. 38
+##### Art. 38
 
 ((L'ufficiale non valutato o non promosso a norma dell'articolo 10, secondo comma, e dell'articolo 23, perche' imputato di un procedimento penale per delitto non colposo o sottoposto a procedimento disciplinare o perche' sospeso dall'impiego o perche' in aspettativa per infermita', e' valutato o nuovamente valutato per l'avanzamento dopo che sia cessata la causa impeditiva della valutazione o della promozione, e nel caso abbia subito detrazioni di anzianita' ai sensi della legge sullo stato degli ufficiali, sempre che risulti piu' anziano di un pari grado gia' valutato. Se l'avanzamento ha luogo a scelta la valutazione e' effettuata in occasione della formazione della prima graduatoria successiva alla cessazione della causa impeditiva)).
 
@@ -366,23 +358,23 @@ a) l'ufficiale appartenente a grado nel quale lo avanzamento ha luogo ad anziani
 
 b) l'ufficiale appartenente a grado nel quale l'avanzamento ha luogo a scelta, se giudicato idoneo e se riporti un punto di merito per cui sarebbe stato promosso qualora lo stesso punto gli fosse stato attribuito in una precedente graduatoria, e' promosso anche se non esista vacanza nel grado superiore, con l'anzianita' che gli sarebbe spettata se la promozione avesse avuto luogo a suo tempo. La promozione e' computata nel numero di quelle da effettuare per l'anno cui si riferisce la graduatoria in occasione della quale l'ufficiale 6 stato valutato o nuovamente valutato.
 
-###### Art. 39
+##### Art. 39
 
 L'ufficiale non valutato a norma dell'articolo 10, primo comma, e' valutato per l'avanzamento dopo che abbia cessato dalla carica di Ministro o di Sottosegretario di Stato. Se l'avanzamento ha luogo a scelta la valutazione e' effettuata in occasione della formazione della prima graduatoria successiva alla cessazione dalla carica.
 
 All'ufficiale si applicano le disposizioni delle lettere a) e b) del secondo comma dell'articolo 38.
 
-###### Art. 40
+##### Art. 40
 
 L'ufficiale per il quale sia stata sospesa la promozione a norma dell'articolo 24 e' nuovamente valutato per l'avanzamento entro sei mesi dalla data della sospensione della promozione, se si tratti di avanzamento ad anzianita', o in occasione della formazione della prima graduatoria successiva alla data predetta, se si tratti di avanzamento a scelta. All'ufficiale si applicano le disposizioni delle lettere, a) e 6) del secondo comma dell'articolo 38.
 
-###### Art. 41
+##### Art. 41
 
 All'ufficiale non valutato a suo turno per mancanza delle condizioni prescritte dall'articolo 27 e per il quale il raggiungimento delle condizioni anzidette sia stato ritardato per motivi di servizio riconosciuti dal Ministro con propria determinazione o per motivi di salute dipendenti da causa di servizio, si applicano, quando sia valutato per l'avanzamento, le disposizioni delle lettere a) e b) del secondo comma dell'articolo 38.
 
 Se l'avanzamento ha luogo a scelta, l'ufficiale e' valutato in occasione della formazione della prima graduatoria successiva al raggiungimento delle predette condizioni.
 
-###### Art. 42
+##### Art. 42
 
 L'ufficiale, nei cui riguardi sia stato sospeso il giudizio sull'avanzamento a norma dell'articolo 11 e' valutato per l'avanzamento quando le autorita' competenti riconoscano cessati i motivi della sospensione, e comunque non oltre un anno dalla data della sospensione stessa.
 
@@ -390,17 +382,17 @@ L'ufficiale appartenente a grado nel quale l'avanzamento ha luogo ad anzianita',
 
 L'ufficiale appartenente a grado nel quale l'avanzamento ha luogo a scelta, se giudicato idoneo, e' iscritto secondo il punto di merito attribuitogli, nella graduatoria in cui sarebbe stato compreso qualora la valutazione non fosse stata sospesa. Se, per effetto del posto conseguito nella graduatoria, l'ufficiale venga iscritto nel quadro di avanzamento e sia gia' raggiunto dal turno di promozione, egli e' promosso anche se non esista vacanza nel grado superiore, con l'anzianita' che gli sarebbe spettata. Nel caso che la promozione abbia luogo dopo che sia stato raggiunto il numero delle promozioni stabilite per l'anno dalle tabelle, la promozione e' computata in quelle da effettuare per l'anno successivo.
 
-## Capo IV - RINNOVAMENTO DEL GIUDIZIO DI AVANZAMENTO ANNULLATO
+### Capo IV - RINNOVAMENTO DEL GIUDIZIO DI AVANZAMENTO ANNULLATO
 
-###### Art. 43
+##### Art. 43
 
 Quando si debba rinnovare un giudizio di avanzamento, annullato d'ufficio o in seguito ad accoglimento di ricorso giurisdizionale o di ricorso straordinario al Presidente della Repubblica, si applicano le disposizioni delle lettere a) e b) del secondo comma dell'articolo 38.
 
 Se l'avanzamento ha luogo a scelta, l'ufficiale e' nuovamente valutato in occasione della formazione della prima graduatoria successiva all'annullamento.
 
-## Capo V - AVANZAMENTO PER MERITI ECCEZIONALI
+### Capo V - AVANZAMENTO PER MERITI ECCEZIONALI
 
-###### Art. 44
+##### Art. 44
 
 L'avanzamento per meriti eccezionali puo' aver luogo nei riguardi dell'ufficiale che nell'esercizio delle sue attribuzioni abbia compiuto operazioni di servizio di speciale importanza dando prova di eccezionale sagacia e capacita' e abbia corso grave pericolo di vita per tutelare l'ordine e la sicurezza pubblica o per conseguire l'arresto di malfattori, dimostrando di possedere qualita' intellettuali, di cultura e professionali tali da dare sicuro affidamento di adempiere in modo eminente alle funzioni del grado superiore.
 
@@ -414,27 +406,23 @@ L'ufficiale riconosciuto dal Ministro meritevole dell'avanzamento per meriti ecc
 
 Il decreto di promozione per meriti eccezionali ne reca la motivazione.
 
-## Capo VI - NORME PARTICOLARI ALL'AVANZAMENTO DEGLI UFFICIALI IN SERVIZIO
+### Capo VI - NORME PARTICOLARI ALL'AVANZAMENTO DEGLI UFFICIALI IN SERVIZIO PERMANENTE EFFETTIVO
 
-### PERMANENTE EFFETTIVO
+#### SEZIONE I - Disposizioni relative ai periodi di comando e di attribuzioni specifiche
 
-#### SEZIONE I - Disposizioni relative ai periodi di comando e di attribuzioni
-
-##### specifiche
-
-###### Art. 45
+##### Art. 45
 
 Il periodo di comando prescritto ai fini dell'avanzamento deve essere compiuto presso unita' o enti organicamente previsti, nell'esercizio di funzioni che comportino attribuzioni, oltre che amministrative e disciplinari, di addestramento e di impiego.
 
 Il periodo di attribuzioni specifiche prescritto ai fini dell'avanzamento deve essere compiuto presso unita' o enti organicamente previsti nell'esercizio di funzioni proprie dei servizi.
 
-###### Art. 46
+##### Art. 46
 
 Gli ufficiali che non superino i corsi e gli esami prescritti ai fini dell'avanzamento non possono ripeterli.
 
-## SEZIONE II - Avanzamento nei vari ruoli e gradi
+#### SEZIONE II - Avanzamento nei vari ruoli e gradi
 
-###### Art. 47
+##### Art. 47
 
 L'avanzamento degli ufficiali in servizio permanente effettivo del Corpo delle guardie di pubblica sicurezza ha luogo:
 
@@ -442,19 +430,19 @@ nel ruolo ordinario sino al grado di tenente generale;
 
 nel ruolo degli ufficiali medici di polizia, sino al grado di colonnello.
 
-###### Art. 48
+##### Art. 48
 
 L'avanzamento dei maggiori generali, dei colonnelli e dei tenenti colonnelli ha luogo a scelta.
 
-###### Art. 49
+##### Art. 49
 
 L'avanzamento dei maggiori ha luogo ad anzianita'.
 
-###### Art. 50
+##### Art. 50
 
 L'avanzamento dei capitani ha luogo a scelta.
 
-###### Art. 51
+##### Art. 51
 
 L'avanzamento dei tenenti ha luogo ad anzianita'.
 
@@ -462,7 +450,7 @@ Il tenente giudicato non idoneo all'avanzamento e' nuovamente valutato in occasi
 
 Se giudicato ancora non idoneo all'avanzamento, l'ufficiale cessa dal servizio permanente effettivo ed e' collocato nella categoria del congedo che gli compete, in applicazione dell'articolo 32 della legge 29 marzo 1956, n. 288.
 
-###### Art. 52
+##### Art. 52
 
 L'avanzamento dei sottotenenti ha luogo ad anzianita'.
 
@@ -472,7 +460,7 @@ Il sottotenente giudicato non idoneo all'avanzamento e' nuovamente valutato dopo
 
 Se giudicato ancora non idoneo all'avanzamento, l'ufficiale cessa dal servizio permanente effettivo ed 5° collocato nella categoria del congedo che gli compete in applicazione dell'articolo 32 della legge sullo stato degli ufficiali del Corpo delle guardie di pubblica sicurezza.
 
-###### Art. 53
+##### Art. 53
 
 Per i sottotenenti che superino i corsi di applicazione viene determinato, con decreto del Ministro, il nuovo ordine di anzianita' in base alla media fra il punto, ridotto in centesimi, riportato nella classifica finale dell'Accademia ed i punti, espressi in centesimi, attribuiti all'ufficiale al termine del primo e del secondo anno del corso di applicazione.
 
@@ -484,9 +472,9 @@ Al sottotenente che non superi il corso si applica il disposto del quarto comma 
 
 Tuttavia, se il sottotenente sia stato dichiarato idoneo in attitudine militare, le autorita' gerarchiche possono proporre al Ministro che egli sia conservato nella posizione di servizio permanente effettivo. Ove la proposta sia accolta, l'ufficiale e' valutato per l'avanzamento dopo che abbia compiuto tre anni di permanenza nel grado, e, se idoneo, promosso con anzianita' corrispondente alla data di compimento di detto periodo di permanenza. Al sottotenente giudicato non idoneo all'avanzamento si applicano le disposizioni del quarto comma dell'articolo 52.
 
-## SEZIONE III - Vantaggi di carriera
+#### SEZIONE III - Vantaggi di carriera
 
-###### Art. 54
+##### Art. 54
 
 Gli ufficiali che siano in possesso dei titoli indicati, per ciascun ruolo e grado, nella tabella n. 2, annessa alla presente legge, conseguono un vantaggio di carriera.
 
@@ -498,7 +486,7 @@ Se l'ufficiale alla data predetta non sia compreso nell'aliquota di ruolo e il n
 
 L'ufficiale non puo', comunque, per effetto dello spostamento in ruolo, oltrepassare altro ufficiale gia' di lui piu' anziano che abbia conseguito uguale titolo.
 
-###### Art. 55
+##### Art. 55
 
 Il vantaggio di carriera spettante ai tenenti ed ai capitani che siano in possesso del brevetto aeronautico militare ed abbiano compiuto i periodi di volo indicati nella tabella n. 2 annessa alla presente legge e' attribuito in seguito a giudizio favorevole della Commissione di avanzamento.
 
@@ -508,19 +496,17 @@ Qualora detti periodi siano ultimati nel grado di maggiore, il titolo si conside
 
 ## TITOLO III - AVANZAMENTO DEGLI UFFICIALI A DISPOSIZIONE
 
-###### Art. 56
+##### Art. 56
 
 Gli ufficiali a disposizione, idonei all'avanzamento nel servizio permanente effettivo, possono, previa nuova valutazione, essere promossi ad anzianita' al grado superiore a quello col quale furono collocati a disposizione, dopo che siano stati promossi i pari grado che li precedevano nel ruolo di provenienza e che siano in servizio permanente. Non costituisce ostacolo alla promozione la esistenza nel servizio permanente di pari grado non idonei all'avanzamento o che non siano stati valutati a turno normale per mancanza delle condizioni prescritte dall'articolo 27 o per i quali sia sospesa la valutazione o la promozione ovvero debba rinnovarsi, ai sensi dell'articolo 43, il giudizio di avanzamento in seguito all'annullamento di precedente giudizio di non idoneita'. Non costituisce inoltre ostacolo alla promozione l'esistenza nel ruolo di provenienza di pari grado in servizio permanente effettivo piu' anziani trasferiti in detto ruolo in data posteriore a quella di collocamento a disposizione dell'ufficiale interessato.
 
-###### Art. 57
+##### Art. 57
 
 L'avanzamento degli ufficiali di cui all'articolo precedente si effettua, senza che occorra determinare aliquote di ruolo, con le stesse norme concernenti l'avanzamento degli ufficiali in servizio permanente effettivo in quanto applicabili.
 
-## TITOLO IV - AVANZAMENTO DEGLI UFFICIALI IN AUSILIARIA E DEGLI UFFICIALI DELLA
+## TITOLO IV - AVANZAMENTO DEGLI UFFICIALI IN AUSILIARIA E DEGLI UFFICIALI DELLA RISERVA
 
-### RISERVA
-
-###### Art. 58
+##### Art. 58
 
 L'avanzamento degli ufficiali in ausiliaria e della riserva ha luogo ad anzianita', non oltre il grado massimo previsto per il ruolo del servizio permanente effettivo da cui provengono.
 
@@ -528,19 +514,19 @@ L'ufficiale in congedo puo' conseguire, in tale posizione, una sola promozione.
 
 L'avanzamento degli ufficiali in congedo non da' luogo a variazioni nel trattamento di quiescenza.
 
-###### Art. 59
+##### Art. 59
 
 Agli effetti di quanto disposto dall'articolo 9, il Ministro determina, in rapporto alla particolare situazione del Corpo delle guardie di pubblica sicurezza e della prevedibili esigenze di servizio, le aliquote di ruolo degli ufficiali in ausiliaria e degli ufficiali della riserva da valutare per la formazione di quadri di avanzamento.
 
-###### Art. 60
+##### Art. 60
 
 L'ufficiale compreso nelle aliquote di ruolo di cui all'articolo 59 non puo' essere valutato per l'avanzamento se non sia stato riconosciuto incondizionatamente idoneo al servizio militare nel Corpo delle guardie di pubblica sicurezza.
 
-###### Art. 61
+##### Art. 61
 
 Per l'ufficiale compreso nelle aliquote di ruolo di cui all'articolo 59 che venga a trovarsi in alcuna delle condizioni previste dagli articoli 10, 11, 23 e 24, valgono, in quanto applicabili, le norme di cui al capo terzo del titolo II della presente legge.
 
-###### Art. 62
+##### Art. 62
 
 Gli ufficiali iscritti in quadro di avanzamento sono promossi nel numero che il Ministro stabilisce in rapporto alla particolare situazione del Corpo delle guardie di pubblica sicurezza e delle esigenze di servizio.
 
@@ -548,21 +534,21 @@ Se, dopo effettuate le promozioni nel numero suddetto, restino ancora ufficiali 
 
 Gli ufficiali che non conseguono la promozione entro il secondo anno di validita' del quadro di avanzamento sono nuovamente valutati in occasione della formazione di un successivo quadro di avanzamento.
 
-###### Art. 63
+##### Art. 63
 
 L'ufficiale in ausiliaria che sia giudicato idoneo all'avanzamento e' iscritto in quadro, ma e' promosso solo dopo che siano stati promossi gli ufficiali in servizi) permanente di pari grado ed anzianita' che lo precedevano nel ruolo di provenienza. Non costituisce ostacolo alla promozione dell'ufficiale in ausiliaria l'esistenza nel servizio permanente di pari grado non idonei allo avanzamento o per i quali sia sospesa la valutazione o la promozione.
 
-###### Art. 64
+##### Art. 64
 
 L'ufficiale collocato in ausiliaria per limiti di eta', che all'atto della cessazione dal servizio permanente era iscritto in quadro di avanzamento, consegue la promozione nell'ausiliaria non appena promosso il pari grado che lo precedeva nel quadro, senza essere sottoposto ad ulteriore valutazione e prescindendo dalla determinazione delle aliquote di ruolo per l'avanzamento degli ufficiali del suo grado e della sua categoria nonche' dal disposto del primo comma dell'articolo 62.
 
-###### Art. 65
+##### Art. 65
 
 L'ufficiale della riserva che sia giudicato idoneo all'avanzamento e' iscritto in quadro, ma e' promosso solo dopo che siano stati promossi gli ufficiali in servizio permanente di pari grado e anzianita' che lo precedevano nel ruolo del servizio permanente effettivo. Non costituisce ostacolo alla promozione l'esistenza nel servizio permanente di pari grado non idonei all'avanzamento o per i quali sia sospesa la valutazione o la pro mozione.
 
 ## TITOLO V - AVANZAMENTO DEGLI UFFICIALI DEL RUOLO D'ONORE
 
-###### Art. 66
+##### Art. 66
 
 Gli ufficiali iscritti nel ruolo d'onore possono conseguire avanzamento al grado superiore a quello col quale vi furono iscritti dopo aver compiuto cinque anni di anzianita' di grado ed almeno un anno di permanenza in detto ruolo oppure, nel caso di richiamo in servizio ai sensi dell'articolo 49-bis della legge 29 marzo 195(3, n. 288, e successive modifiche, dopo almeno un anno di servizio.
 
@@ -588,7 +574,7 @@ L'ufficiale giudicato idoneo e' promosso senza iscrizione in quadro di avanzamen
 
 ## TITOLO VI - AVANZAMENTO IN TEMPO DI GUERRA
 
-###### Art. 67
+##### Art. 67
 
 Per gli ufficiali del Corpo delle guardie di pubblica sicurezza in tempo di guerra valgono, in quanto applicabili, le disposizioni di legge relative all'avanzamento in tempo di guerra in vigore per gli ufficiali dell'Esercito (Arma dei carabinieri).
 
@@ -596,7 +582,7 @@ Agli ufficiali stessi vengono altresi' estese, con le condizioni di cui al comma
 
 ## TITOLO VII - DISPOSIZIONI TRANSITORIE
 
-###### Art. 68
+##### Art. 68
 
 Il numero delle promozioni stabilite dalla tabelle numero 1 allegata alla presente legge diventa operante a partire dall'anno 1965.
 
@@ -612,11 +598,11 @@ Le valutazioni per la formazione dei quadri di avanzamento dell'anno 1966, nonch
 
 I quadri di avanzamento per l'anno 1966 saranno formati iscrivendo, con precedenza, sugli altri e nel rispettivo ordine, gli ufficiali compresi nelle graduatorie ed elenchi di cui al secondo comma e non promossi per mancanza di poeti.
 
-###### Art. 69
+##### Art. 69
 
 Il servizio prestato dagli ufficiali del Corpo della guardie di pubblica sicurezza, anteriormente alla data di entrata in vigore della presente legge, negli incarichi validi per il compimento dei periodi minimi di commando prescritti ai fini dell'avanzamento dalla legge 29 marzo 1958, n. 288, e' computato agli effetti del raggiungimento dei periodi minimi di comando prescritti dall'articolo 27.
 
-###### Art. 70
+##### Art. 70
 
 Per un periodo di due anni dall'entrata in vigore della presente legge, per l'avanzamento al grado di maggiore e di colonnello si presclude dall'aver compiuto i periodi minimi di comando effettivo di reparto e di attribuzioni specifiche e dalla frequenza dei corsi di aggiornamento, previsti dall'articolo 27 della presente legge.
 
@@ -626,29 +612,29 @@ Per l'avanzamento degli ufficiali medici di polizia reclutati ai sensi dell'arti
 
 Gli ufficiali che, nella prima applicazione della presente legge siano destinati a frequentare i corsi previsti ai fini dell'avanzamento, qualora acquisiscano titolo a vantaggio di carriera, ai sensi dell'articolo 54, potranno fruire del vantaggio stesso limitatamente al ruolo del proprio grado e non potranno, comunque, oltrepassare i pari grado piu' anziani non destinati a frequentare i corsi)).
 
-###### Art. 71
+##### Art. 71
 
 All'ufficiale in servizio permanente effettivo del Corpo delle guardie di pubblica sicurezza che, alla data di entrata in vigore della presente legge, risulti non valutato a norma dell'articolo 64 della legge 29 marzo 1956, n. 288, si applicano le disposizioni dell'articolo 38, esclusa la lettera b) del secondo comma, e le disposizioni seguenti.
 
 L'ufficiale appartenente al grado nel quale l'avanzamento ha luogo a scelta, se giudicato idoneo o se riporti un punto di merito per cui risulti compreso, nella graduatoria con la quale e' valutato, nei numero dei posti corrispondente a quello delle promozioni da effettuare, o per cui sarebbe stato promosso qualora lo stesso punto gli fosse stato attribuito in una delle graduatorie precedenti formate dopo la data di entrata in vigore della presente legge, e' promosso anche se non esista vacanza nel grado superiore, con l'anzianita' che gli sarebbe spettata se la promozione avesse avuto luogo a suo tempo. La promozione e' computata nel numero di quelle da effettuare per l'anno cui si riferisce la graduatoria in occasione della quale l'ufficiale e' stato valutato.
 
-###### Art. 72
+##### Art. 72
 
 L'ufficiale in servizio permanente effettivo del Corpo delle guardie di pubblica sicurezza nei cui riguardi, alla data di entrata in vigore della presente legge, risulti sospesa la promozione a norma dell'articolo 71 della legge 29 marzo 1956, n. 288, e' valutato in occasione della valutazione da effettuare per la formazione del quadro di avanzamento successivo alla data di entrata in vigore della presente legge.
 
 All'ufficiale si applicano le disposizioni della lettera a) del secondo comma dell'articolo 38 se appartenga a grado in cui l'avanzamento ha luogo ad anzianita', e le disposizioni di cui al secondo comma del precedente articolo 71 se appartenga a grado in cui l'avanzamento ha luogo a scelta.
 
-###### Art. 73
+##### Art. 73
 
 Agli ufficiali in servizio permanente effettivo del Corpo delle guardie di pubblica sicurezza in soprannumero agli organici per effetto dell'articolo 4 della legge 27 febbraio 1963, n. 225, continuano ad applicarsi per l'avanzamento sino al grado di colonnello le disposizioni contenute in detto articolo, restando escluse dal computo delle vacanze considerate nel medesimo articolo quelle formate ai sensi del precedente articolo 37.
 
 Gli ufficiali di cui al precedente comma, fino al grado di tenente colonnello incluso, non possono essere sottoposti a valutazione per l'avanzamento in applicazione della presente legge, ne' essere considerati ai fini della determinazione dell'aliquota di ufficiali non ancora valutati da ammettere ogni anno a valutazione.
 
-###### Art. 74
+##### Art. 74
 
 All'ufficiale in servizio permanente effettivo nei cui confronti debba essere rinnovato, per un giudizio di avanzamento precedente alla data di entrata in vigore della presente legge, il giudizio di avanzamento annullato d'ufficio o in seguito ad accoglimento di ricorso giurisdizionale o di ricorso straordinario al Presidente della Repubblica, si applicano le disposizioni di cui alla lettera a) dell'articolo 38 e al comma secondo dell'articolo 71.
 
-###### Art. 75
+##### Art. 75
 
 Per i gradi ai quali, in conformita' della tabella n. 1 annessa alla presente legge, le promozioni a scelta non vengono effettuate tutti gli anni, e' computato ad ogni effetto il periodo di permanenza gia' trascorso nei gradi stessi anteriormente all'entrata in vigore della presente legge.
 
@@ -658,7 +644,7 @@ In deroga al sesto comma dell'articolo 37, nella prima applicazione della presen
 
 ## TITOLO VIII - DISPOSIZIONI FINALI
 
-###### Art. 76
+##### Art. 76
 
 Dopo l'articolo 15 della legge 29 marzo 1956, n. 288, e' inserito il seguente articolo 15-bis:
 
@@ -670,7 +656,7 @@ L'ufficiale collocato a disposizione permane in detta posizione fino al raggiung
 
 All'ufficiale che cessa dal servizio permanente per aver raggiunto il periodo di quattro anni di cui al comma precedente si applicano le norme stabilite dalla presente legge per gli ufficiali che cessano dal servizio permanente per eta'".
 
-###### Art. 77
+##### Art. 77
 
 L'articolo 13 della legge 29 marzo 1956, n. 288, e' sostituito dal seguente:
 
@@ -684,7 +670,7 @@ c) aspettativa;
 
 d) sospensione dall'impiego".
 
-###### Art. 78
+##### Art. 78
 
 Gli organici degli ufficiali del Corpo delle guardie di pubblica sicurezza sono indicati nella colonna n. 4 della tabella n. 1, annessa alla presente legge.
 
@@ -692,7 +678,7 @@ Il posto dell'ufficiale maestro direttore della banda del Corpo delle guardie di
 
 Per l'avanzamento del maestro direttore di banda di cui al precedente comma restano ferme le speciali disposizioni di legge che disciplinano tale avanzamento.
 
-###### Art. 79
+##### Art. 79
 
 Il tenente generale piu' anziano di grado nel servizio permanente effettivo assume la qualifica di ispettore del Corpo.
 
@@ -700,7 +686,7 @@ Il tenente generale che lo segue per anzianita' di grado nel servizio permanente
 
 La legge 28 ottobre 1959, n. 910, e' abrogata.
 
-###### Art. 80
+##### Art. 80
 
 Possono essere destinati a prestare servizio presso il Corpo delle guardie di pubblica sicurezza ufficiali di grado non superiore a colonnello o corrispondente in servizio permanente dell'Esercito, della Marina e dell'Aeronautica, quando occorra adibirli a particolari incarichi di natura tecnica.
 
@@ -708,17 +694,17 @@ Il contingente di personale di cui al precedente comma non puo' superare le 10 u
 
 Al personale militare anzidetto spetta l'indennita' di alloggio dovuta ai pari grado del Corpo.
 
-###### Art. 81
+##### Art. 81
 
 L'ufficiale in servizio permanente effettivo non idoneo all'avanzamento e l'ufficiale a disposizione possono chiedere il collocamento nell'ausiliaria con anticipo rispetto al limite di eta' o al periodo di permanenza nella posizione di "a disposizione" prevista dall'articolo 15-bis della legge 29 marzo 1956, n. 288; sono concesse in tale caso, in aggiunta al trattamento di quiescenza, le indennita', di cui agli articoli 47 e 48 della stessa legge.
 
 Le disposizioni del precedente comma non si applicano nei riguardi dell'ufficiale in servizio permanente effettivo non idoneo per avere rinunciato ai corsi o agli esami prescritti ai fini dell'avanzamento o per aver presentato domanda di rinuncia all'avanzamento.
 
-###### Art. 82
+##### Art. 82
 
 Sono abrogati il titolo IV della legge 29 marzo 1956, n. 288, e successive modificazioni, nonche' tutte le disposizioni contrarie a quelle contenute nella presente legge o comunque con essa incompatibili.
 
-###### Art. 83
+##### Art. 83
 
 All'onere di lire 70.000.000 derivante dall'attuazione della presente legge per l'anno, finanziario 1965 si provvede mediante riduzione, per uguale importo, dello stanziamento del capitolo n. 1446 dello stato di previsione della spesa del Ministero dell'interno per l'anno stesso.
 
@@ -736,7 +722,7 @@ Visto, il Guardasigilli: REALI
 
 ## TITOLO VIII - DISPOSIZIONI FINALI
 
-###### Tabelle
+##### Tabelle
 
 TABELLA N. 1
 

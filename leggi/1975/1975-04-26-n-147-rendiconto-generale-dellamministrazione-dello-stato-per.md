@@ -25,13 +25,13 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il conto consuntivo dello Stato per l'esercizio 1973 e' approvato secondo le risultanze degli articoli seguenti.
 
 ## ENTRATE E SPESE DI COMPETENZA DELL'ESERCIZIO FINANZIARIO 1973
 
-### Art. 2
+## Art. 2
 
 Le entrate tributarie, extra-tributarie,
 
@@ -57,7 +57,7 @@ rimasero da versare " 1.014.950.542.586
  -----------------
 ```
 
-### Art. 3
+## Art. 3
 
 Le spese correnti, in conto capitale e per
 
@@ -74,7 +74,7 @@ lite in..................................... L. 23.807.890.142.868 delle quali f
  -----------------
 ```
 
-### Art. 4
+## Art. 4
 
 Il riepilogo generale delle entrate e delle spese di competenza dell'esercizio finanziario 1973 risulta stabilito come segue:
 
@@ -89,7 +89,7 @@ Entrate tributarie ed extra-tributarie.... L. 15.257.716.409.513 Spese correnti.
 
 ## ENTRATE E SPESE RESIDUE DELL'ESERCIZIO FINANZIARIO 1972 ED ESERCIZI - PRECEDENTI
 
-### Art. 5
+## Art. 5
 
 I residui attivi alla chiusura dell'eser-
 
@@ -107,7 +107,7 @@ rimasero da versare.. " 640.680.452.496
  ------------------
 ```
 
-### Art. 6
+## Art. 6
 
 I residui passivi alla chiusura dell'eser-
 
@@ -122,7 +122,7 @@ in.......................................... L. 10.581.343.704.644 dei quali fur
 
 ## RESIDUI ATTIVI E PASSIVI ALLA CHIUSURA DELL'ESERCIZIO FINANZIARIO - 1973.
 
-### Art. 7
+## Art. 7
 
 I residui attivi alla chiusura dell'esercizio finanziario 1973 risultano stabiliti nelle seguenti somme:
 
@@ -141,7 +141,7 @@ ria (colonna p del riassunto generale)...... " 1.655.630.995.082
  ------------------
 ```
 
-### Art. 8
+## Art. 8
 
 I residui passivi alla chiusura dell'esercizio finanziario 1973 risultano stabiliti nelle seguenti somme:
 
@@ -160,7 +160,7 @@ gli esercizi precedenti (articolo 6)........ " 5.800.401.408.287
 
 ## SITUAZIONE FINANZIARIA
 
-### Art. 9
+## Art. 9
 
 Il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 1973 e' accertato nella somma di lire 21.708.207.868.945, come risulta dai seguenti dati:
 
@@ -210,19 +210,19 @@ contabilita generale dello Stato......... " 13.105
 
 ## DISPOSIZIONI SPECIALI
 
-### Art. 10
+## Art. 10
 
 Il residuo attivo di lire 22 miliardi di cui all'articolo 10 della legge 28 febbraio 1974, n. 63, di approvazione del conto consuntivo per l'esercizio 1972, e' annullato in applicazione della legge 4 giugno 1973, n. 346, riguardante la disciplina dei rapporti tributari sorti sulla base dei decreti-legge 2 ottobre 1972, n. 550 e 2 dicembre 1972, n. 728.
 
-### Art. 11
+## Art. 11
 
 Le disposizioni contenute nel secondo e nel terzo comma dell'articolo 36 del regio decreto 18 novembre 1923, n. 2440, sulla contabilita' generale dello Stato, applicate per l'anno finanziario 1973 alle spese del capitolo 1026 dello stato di previsione della spesa del Ministero del turismo e dello spettacolo con l'articolo 137 della legge 27 febbraio 1973, n. 18, mantengono la loro efficacia anche in deroga al disposto dell'ultimo comma dell'articolo 1 della legge 9 giugno 1973, n. 308.
 
-### Art. 12
+## Art. 12
 
 Sono stabiliti nella somma di L. 13.105 i discarichi consentiti, nell'esercizio 1973, ai tesorieri per casi di forza maggiore, ai sensi dell'articolo 194 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato approvato con regio decreto 23 maggio 1924, n. 827.
 
-### Art. 13
+## Art. 13
 
 Sono approvate le eccedenze di impegni risultate in sede di consuntivo sul conto della competenza e sul conto dei residui ai capitoli degli stati di previsione della spesa dei Ministeri sottoindicati per l'esercizio finanziario 1973, come risulta dal dettaglio che segue:
 
@@ -230,7 +230,7 @@ Sono approvate le eccedenze di impegni risultate in sede di consuntivo sul conto
 
 ## AZIENDE SPECIALI ED AUTONOME - AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### Art. 14
+## Art. 14
 
 Le entrate correnti ed in conto capitale
 
@@ -258,7 +258,7 @@ rimasero da versare..... " 949.450.552
  -------------
 ```
 
-### Art. 15
+## Art. 15
 
 Le spese correnti ed in conto capitale del
 
@@ -275,7 +275,7 @@ sultano stabilite in........................ L. 8.634.019.512 delle quali furono
  -------------
 ```
 
-### Art. 16
+## Art. 16
 
 I residui attivi alla chiusura dell'eser-
 
@@ -293,7 +293,7 @@ rimasero da versare........ " 41.198.940
  -------------
 ```
 
-### Art. 17
+## Art. 17
 
 I residui passivi alla chiusura dell'eser-
 
@@ -306,7 +306,7 @@ in.......................................... L. 22.822.808.127 dei quali furono 
  -------------
 ```
 
-### Art. 18
+## Art. 18
 
 I residui attivi alla chiusura dell'esercizio finanziario 1973, risultano stabiliti nelle seguenti somme:
 
@@ -325,7 +325,7 @@ del riepilogo dell'entrata)................. " 990.649.492
  -------------
 ```
 
-### Art. 19
+## Art. 19
 
 I residui passivi alla chiusura dell'esercizio finanziario 1973, risultano stabiliti nelle seguenti somme:
 
@@ -342,7 +342,7 @@ gli esercizi precedenti (articolo 17)....... " 14.791.093.526
  --------------
 ```
 
-### Art. 20
+## Art. 20
 
 La situazione finanziaria dell'Azienda di Stato per le foreste demaniali, alla fine dell'esercizio 1973, risulta come appresso:
 
@@ -369,7 +369,7 @@ l'esercizio 1972.......................... " 34.623.300
 
 ## ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-### Art. 21
+## Art. 21
 
 Le entrate correnti dell'Istituto agrono-
 
@@ -390,7 +390,7 @@ nistero degli affari esteri, in............. L. 197.653.665 delle quali furono r
  ------------
 ```
 
-### Art. 22
+## Art. 22
 
 Le spese correnti dell'Istituto predetto,
 
@@ -405,7 +405,7 @@ desimo, risultano stabilite in.............. L. 197.653.665 delle quali furono p
  -------------
 ```
 
-### Art. 23
+## Art. 23
 
 I residui passivi alla chiusura dell'eser-
 
@@ -418,7 +418,7 @@ in.......................................... L. 52.614.606 del quali furono paga
  -------------
 ```
 
-### Art. 24
+## Art. 24
 
 I residui passivi alla chiusura dell'esercizio 1973 risultano stabiliti nelle seguenti somme:
 
@@ -437,7 +437,7 @@ gli esercizi precedenti (articolo 23)....... " 29.698.341
 
 ## AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-### Art. 25
+## Art. 25
 
 Le entrate correnti ed in conto capitale
 
@@ -467,7 +467,7 @@ rimasero da versare.... " 6.952.130.613
  --------------
 ```
 
-### Art. 26
+## Art. 26
 
 Le spese correnti, in conto capitale e per
 
@@ -488,7 +488,7 @@ in.......................................... L. 307.307.476.551 delle quali furo
  ---------------
 ```
 
-### Art. 27
+## Art. 27
 
 I residui attivi alla chiusura dell'eser-
 
@@ -506,7 +506,7 @@ rimasero da versare...... " -
  -------------
 ```
 
-### Art. 28
+## Art. 28
 
 I residui passivi alla chiusura dell'eser-
 
@@ -519,7 +519,7 @@ in.......................................... L. 60.342.992.679 dei quali furono 
  --------------
 ```
 
-### Art. 29
+## Art. 29
 
 I residui attivi alla chiusura dell'esercizio finanziario 1973 risultano stabiliti nelle seguenti somme:
 
@@ -538,7 +538,7 @@ del riepilogo dell'entrata)................. " 6.952.130.613
  -------------
 ```
 
-### Art. 30
+## Art. 30
 
 I residui passivi alla chiusura dell'esercizio finanziario 1973 risultano stabiliti nelle seguenti somme:
 
@@ -555,7 +555,7 @@ gli esercizi precedenti (articolo 28)....... " 15.872.548.341
  ---------------
 ```
 
-### Art. 31
+## Art. 31
 
 La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dell'esercizio finanziario 1973, risulta come appresso:
 
@@ -569,7 +569,7 @@ Spese dell'esercizio 1973................... L. 307.307.476.551
 
 ## ARCHIVI NOTARILI
 
-### Art. 32
+## Art. 32
 
 E' approvato il conto consuntivo degli archivi notarili per l'esercizio 1973, nelle risultanze seguenti:
 
@@ -582,7 +582,7 @@ Entrate..................................... L. 21.063.028.011 Spese............
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-### Art. 33
+## Art. 33
 
 Le entrate correnti ed in conto capitale
 
@@ -610,7 +610,7 @@ rimasero da versare..... " 3.474.216
  -------------
 ```
 
-### Art. 34
+## Art. 34
 
 Le spese correnti ed in conto capitale del
 
@@ -627,7 +627,7 @@ risultano stabilite in...................... L. 24.154.487.472 delle quali furon
  --------------
 ```
 
-### Art. 35
+## Art. 35
 
 I residui attivi alla chiusura dell'eser-
 
@@ -645,7 +645,7 @@ rimasero da versare...... " 904.277
  -----------
 ```
 
-### Art. 36
+## Art. 36
 
 I residui passivi alla chiusura dell'eser-
 
@@ -658,7 +658,7 @@ in.......................................... L. 4.567.793.554 dei quali furono p
  -------------
 ```
 
-### Art. 37
+## Art. 37
 
 I residui attivi alla chiusura dell'esercizio finanziario 1973 risultano stabiliti nelle seguenti somme:
 
@@ -677,7 +677,7 @@ del riepilogo dell'entrata)................. " 4.378.493
  -------------
 ```
 
-### Art. 38
+## Art. 38
 
 I residui passivi alla chiusura dell'esercizio finanziario 1973 risultano stabiliti nelle seguenti somme:
 
@@ -694,7 +694,7 @@ gli esercizi precedenti (articolo 36)....... " 1.686.736.151
  -------------
 ```
 
-### Art. 39
+## Art. 39
 
 La situazione finanziaria dell'Amministrazione del fondo per il culto, alla fine dell'esercizio 1973, risulta come segue:
 
@@ -739,7 +739,7 @@ Spese dell'esercizio finanziario 1973....... L. 24.154.487.472
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-### Art. 40
+## Art. 40
 
 Le entrate correnti ed in conto capitale
 
@@ -767,7 +767,7 @@ rimasero da versare........ " 59.093
  ------------
 ```
 
-### Art. 41
+## Art. 41
 
 Le spese correnti ed in conto capitale del
 
@@ -784,7 +784,7 @@ mo, risultano stabilite in.................. L. 833.707.065 delle quali furono p
  -----------
 ```
 
-### Art. 42
+## Art. 42
 
 I residui attivi alla chiusura dell'eser-
 
@@ -802,7 +802,7 @@ rimasero da versare... " 28.220
  -----------
 ```
 
-### Art. 43
+## Art. 43
 
 I residui passivi alla chiusura dell'eser-
 
@@ -815,7 +815,7 @@ in.......................................... L. 750.841.032 dei quali furono pag
  ----------
 ```
 
-### Art. 44
+## Art. 44
 
 I residui attivi alla chiusura dell'esercizio finanziario 1973 risultano stabiliti nelle seguenti somme:
 
@@ -834,7 +834,7 @@ del riepilogo dell'entrata)................. " 87.313
  -----------
 ```
 
-### Art. 45
+## Art. 45
 
 I residui passivi alla chiusura dell'esercizio finanziario 1973 risultano stabiliti nelle seguenti somme:
 
@@ -851,7 +851,7 @@ gli esercizi precedenti (articolo 43)....... " 375.826.144
  -----------
 ```
 
-### Art. 46
+## Art. 46
 
 La situazione finanziaria del Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1973, risulta come segue:
 
@@ -895,7 +895,7 @@ Spese dell'esercizio finanziario 1973....... L. 833.707.065
 
 ## PATRIMONI RIUNITI EX ECONOMALI
 
-### Art. 47
+## Art. 47
 
 Le entrate correnti ed in conto capitale
 
@@ -923,7 +923,7 @@ rimasero da versare........ " 10.040
  ------------
 ```
 
-### Art. 48
+## Art. 48
 
 Le spese correnti ed in conto capitale
 
@@ -940,7 +940,7 @@ stabilite in................................ L. 589.798.280 delle quali furono p
  ------------
 ```
 
-### Art. 49
+## Art. 49
 
 I residui attivi alla chiusura dell'eser-
 
@@ -958,7 +958,7 @@ rimasero da versare.. " 7.025
  ------------
 ```
 
-### Art. 50
+## Art. 50
 
 I residui passivi alla chiusura dell'eser-
 
@@ -971,7 +971,7 @@ in.......................................... L. 262.079.337 dei quali furono pag
  ------------
 ```
 
-### Art. 51
+## Art. 51
 
 I residui attivi alla chiusura dell'esercizio finanziario 1973 risultano stabiliti nelle seguenti somme:
 
@@ -990,7 +990,7 @@ del riepilogo dell'entrata)................. L. 17.065
  ------------
 ```
 
-### Art. 52
+## Art. 52
 
 I residui passivi alla chiusura dell'esercizio finanziario 1973 risultano stabiliti nelle seguenti somme:
 
@@ -1007,7 +1007,7 @@ gli esercizi precedenti (articolo 50)....... " 77.900.788
  -----------
 ```
 
-### Art. 53
+## Art. 53
 
 La situazione finanziaria dell'Azienda dei patrimoni riuniti ex economali, alla fine dell'esercizio 1973, risulta come segue:
 
@@ -1056,7 +1056,7 @@ Spese dell'esercizio finanziario 1973....... L. 589.798.280
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE
 
-### Art. 54
+## Art. 54
 
 Le entrate correnti, in conto capitale e
 
@@ -1086,7 +1086,7 @@ rimasero da versare.. " 5.600.100.000
  ---------------
 ```
 
-### Art. 55
+## Art. 55
 
 Le spese correnti, in conto capitale e per
 
@@ -1105,7 +1105,7 @@ in.......................................... L. 560.103.407.177 delle quali furo
  --------------
 ```
 
-### Art. 56
+## Art. 56
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1120,7 +1120,7 @@ si e versati.............................. " 18.056.829.381
  ---------------
 ```
 
-### Art. 57
+## Art. 57
 
 I residui passivi alla chiusura dell'eser-
 
@@ -1133,7 +1133,7 @@ in.......................................... L. 534.018.388.254 dei quali furono
  --------------
 ```
 
-### Art. 58
+## Art. 58
 
 I residui attivi alla chiusura dell'esercizio finanziario 1973 risultano stabiliti nelle seguenti somme:
 
@@ -1152,7 +1152,7 @@ del riepilogo dell'entrata)................. " 5.600.100.000
  --------------
 ```
 
-### Art. 59
+## Art. 59
 
 I residui passivi alla chiusura dell'esercizio 1973 risultano stabiliti nelle seguenti somme:
 
@@ -1171,7 +1171,7 @@ gli esercizi, precedenti (articolo 57)...... " 323.742.739.841
 
 ## AMMINISTRAZIONE DELLE POSTE E DELLE TELECOMUNICAZIONI
 
-### Art. 60
+## Art. 60
 
 Le entrate correnti, in conto capitale e
 
@@ -1196,7 +1196,7 @@ poste e delle telecomunicazioni, in......... L. 1.137.215.016.389 delle quali fu
  -----------------
 ```
 
-### Art. 61
+## Art. 61
 
 Le spese correnti, in conto capitale e per
 
@@ -1213,7 +1213,7 @@ sercizio medesimo, risultano stabilite in... L. 1.137.215.016.389 delle quali fu
  -----------------
 ```
 
-### Art. 62
+## Art. 62
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1228,7 +1228,7 @@ si e versati................................ " 304.993.332.727
  ---------------
 ```
 
-### Art. 63
+## Art. 63
 
 I residui passivi alla chiusura dell'eser-
 
@@ -1241,7 +1241,7 @@ in.......................................... L. 453.710.917.365 dei quali nell'e
  ---------------
 ```
 
-### Art. 64
+## Art. 64
 
 I residui attivi alla chiusura dell'esercizio 1973 risultano stabiliti nelle seguenti somme:
 
@@ -1258,7 +1258,7 @@ degli esercizi precedenti (articolo 62)..... " 519.392.385.851
  ----------------
 ```
 
-### Art. 65
+## Art. 65
 
 I residui passivi alla chiusura dell'esercizio 1973 risultano stabiliti nelle seguenti somme:
 
@@ -1277,7 +1277,7 @@ gli esercizi precedenti (articolo 63)....... " 136.017.731.335
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Art. 66
+## Art. 66
 
 Le entrate correnti ed in conto capitale
 
@@ -1305,7 +1305,7 @@ rimasero da versare.... " 13.240.120
  ---------------
 ```
 
-### Art. 67
+## Art. 67
 
 Le spese correnti, in conto capitale e per
 
@@ -1324,7 +1324,7 @@ in.......................................... L. 364.309.374.946 delle quali furo
  ---------------
 ```
 
-### Art. 68
+## Art. 68
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1342,7 +1342,7 @@ rimasero da versare..... " 3.250.000.000
  ---------------
 ```
 
-### Art. 69
+## Art. 69
 
 I residui passivi alla chiusura dell'eser-
 
@@ -1355,7 +1355,7 @@ in.......................................... L. 266.741.601.455 dei quali nell'e
  ---------------
 ```
 
-### Art. 70
+## Art. 70
 
 I residui attivi alla chiusura dell'esercizio 1973 risultano stabiliti nelle seguenti somme:
 
@@ -1374,7 +1374,7 @@ dei riepilogo dell'entrata)................. " 3.263.240.120
  ---------------
 ```
 
-### Art. 71
+## Art. 71
 
 I residui passivi alla chiusura dell'esercizio 1973 risultano stabiliti nelle seguenti somme:
 
@@ -1393,7 +1393,7 @@ gli esercizi precedenti (articolo 69)....... " 115.388.574.389
 
 ## AMMINISTRAZIONE DELLE FERROVIE DELLO STATO
 
-### Art. 72
+## Art. 72
 
 Le entrate correnti, in conto capitale e
 
@@ -1420,7 +1420,7 @@ dei trasporti e dell'aviazione civile, in... L. 4.734.256.299.230 delle quali fu
  -----------------
 ```
 
-### Art. 73
+## Art. 73
 
 Le spese correnti, in conto capitale e per
 
@@ -1439,7 +1439,7 @@ stabilite in................................ L. 4.734.256.299.230 delle quali fu
  -----------------
 ```
 
-### Art. 74
+## Art. 74
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione delle ferrovie dello Stato, di competenza dell'esercizio finanziario 1973, risulta cosi' stabilito:
 
@@ -1465,7 +1465,7 @@ me.......................................... " 2.706.258.049.137
  -----------------
 ```
 
-### Art. 75
+## Art. 75
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1480,7 +1480,7 @@ si e versati................................ " 1.161.034.438.025
  -----------------
 ```
 
-### Art. 76
+## Art. 76
 
 I residui passivi alla chiusura dell'eser-
 
@@ -1493,7 +1493,7 @@ in.......................................... L. 1.303.251.402.702 dei quali nell
  -----------------
 ```
 
-### Art. 77
+## Art. 77
 
 I residui attivi alla chiusura dell'esercizio 1973 risultano stabiliti nelle seguenti somme:
 
@@ -1510,7 +1510,7 @@ degli esercizi precedenti (articolo 75)..... " 253.588.663.934
  -----------------
 ```
 
-### Art. 78
+## Art. 78
 
 I residui passivi alla chiusura dell'esercizio 1973 risultano stabiliti nelle seguenti somme:
 

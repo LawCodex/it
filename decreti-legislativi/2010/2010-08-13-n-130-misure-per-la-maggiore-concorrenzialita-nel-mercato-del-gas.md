@@ -68,7 +68,7 @@ il seguente decreto legislativo:
 
 ## TITOLO I - DISPOSIZIONI GENERALI
 
-#### Art. 1 - Finalita' ed oggetto
+### Art. 1 - Finalita' ed oggetto
 
 1\. Il presente decreto reca misure finalizzate a rendere il mercato del gas naturale maggiormente concorrenziale, in attuazione delle disposizioni di cui all'articolo 30, commi 6 e 7, della legge 23 luglio 2009, n. 99, promuovendo l'incontro della domanda di gas naturale dei clienti finali industriali e di loro aggregazioni con l'offerta e trasferendo ai clienti finali i benefici derivanti dalla aumentata concorrenzialita'.
 
@@ -320,7 +320,7 @@ il seguente decreto legislativo:
 
 > Per l'art. 30, commi 6 e 7, della legge 23 luglio 2009, n. 99, si vedano le note alle premesse.
 
-#### Art. 2 - Definizioni
+### Art. 2 - Definizioni
 
 1\. Ai fini del presente decreto valgono le definizioni di cui all'articolo 2 del decreto legislativo 23 maggio 2000, n. 164.
 
@@ -406,7 +406,7 @@ il seguente decreto legislativo:
 
 ## TITOLO II - REVISIONE DEGLI OBBLIGHI IN FUNZIONE PRO-CONCORRENZIALE
 
-#### Art. 3 - Obblighi per i soggetti che immettono gas naturale nella rete di trasporto e verifiche
+### Art. 3 - Obblighi per i soggetti che immettono gas naturale nella rete di trasporto e verifiche
 
 1\. Ciascun soggetto che immette gas naturale nella rete nazionale di gasdotti attesta la quota di mercato all'ingrosso relativa ad attivita' ed operazioni aventi ad oggetto gas naturale, effettuate direttamente o tramite societa' controllate, controllanti o controllate da una medesima controllante, per ciascun anno convenzionale di cui al comma 3, e gli elementi di calcolo a supporto; l'attestazione deve essere effettuata entro cinque giorni dalla pubblicazione delle informazioni di cui al comma 3, sul sito internet del Ministero dello sviluppo economico, di seguito 'Ministero'.
 
@@ -452,7 +452,7 @@ Il D.L. 31 dicembre 2014, n. 192 convertito con modificazioni dalla L. 27 febbra
 
 ## TITOLO III - INCREMENTO DELL'OFFERTA DI SERVIZI DI STOCCAGGIO DI GAS NATURALE
 
-#### Art. 4 - Sviluppo delle infrastrutture di stoccaggio di gas naturale
+### Art. 4 - Sviluppo delle infrastrutture di stoccaggio di gas naturale
 
 1\. Il Ministero pubblica sul proprio sito internet, entro il 31 luglio di ogni anno, le informazioni fornite dai soggetti interessati relative:
 
@@ -474,7 +474,7 @@ b) alle infrastrutture di stoccaggio di gas naturale per le quali sia stata pres
 
 5\. In sede di prima applicazione del presente decreto le informazioni relative al comma 1 sono quelle pubblicate, alla data di entrata in vigore del presente decreto legislativo, sul sito internet del Ministero.
 
-#### Art. 5 - Misure per la maggior concorrenzialita' nel mercato del gas naturale
+### Art. 5 - Misure per la maggior concorrenzialita' nel mercato del gas naturale
 
 1\. Il soggetto che aderisce all'attuazione delle misure disciplinate al presente comma:
 
@@ -510,7 +510,7 @@ Le condizioni economiche prevedono corrispettivi non superiori a corrispettivi m
 
 > \- Per i riferimenti alla legge 10 ottobre 1990, n.287 si vedano le note all'art. 3.
 
-#### Art. 6 - Partecipazione di soggetti investitori allo sviluppo di capacita' di stoccaggio
+### Art. 6 - Partecipazione di soggetti investitori allo sviluppo di capacita' di stoccaggio
 
 1\. Ai fini della realizzazione dei progetti di sviluppo di capacita' di stoccaggio come individuati dal piano di cui all'articolo 5, comma 4, sono ammessi a partecipare, in qualita' di soggetti investitori, i clienti finali industriali che non hanno diritto ai regimi di tutela di cui alla legge 3 agosto 2007, n. 125, e:
 
@@ -536,7 +536,7 @@ c) per una quota non superiore ai propri consumi nell'anno termico precedente lo
 
 > La legge 3 agosto 2007, n. 125 di Conversione in legge, con modificazioni, del D.L. 18 giugno 2007, n. 73, recante misure urgenti per l'attuazione di disposizioni comunitarie in materia di liberalizzazione dei mercati dell'energia, e' Pubblicata nella Gazz. Uff. 14 agosto 2007, n. 188.
 
-#### Art. 7 - Diritti di utilizzo dei soggetti investitori delle infrastrutture di stoccagio
+### Art. 7 - Diritti di utilizzo dei soggetti investitori delle infrastrutture di stoccagio
 
 1\. I diritti di utilizzazione dei servizi di stoccaggio, riconosciuti ai soggetti investitori selezionali in esito alle procedure di cui all'articolo 6, si realizzano in misura corrispondente alla quota per cui risultano assegnatari mediante una delle seguenti modalita':
 
@@ -570,7 +570,7 @@ a) qualora la nuova capacita' di stoccaggio non entri in operativita' entro il t
 
 b) entro un termine di 3 mesi dal momento in cui il soggetto che realizza le nuove capacita' di stoccaggio comunichi il costo effettivo medio delle infrastrutture finanziate dal soggetto investitore ovvero qualora lo stesso costo medio, in corso di progetto, venga rettificato per un importo superiore al 20 per cento.
 
-#### Art. 8 - Disposizioni a favore di soggetti titolari di stoccaggio e degli enti locali
+### Art. 8 - Disposizioni a favore di soggetti titolari di stoccaggio e degli enti locali
 
 1\. Al fine di incentivare la realizzazione di ulteriore capacita' di stoccaggio per una maggiore concorrenzialita' e sicurezza del mercato del gas naturale, nonche' di tutelare le iniziative di stoccaggio gia' intraprese, i soggetti diversi da quelli titolari delle infrastrutture di stoccaggio o dei progetti di cui all'articolo 4, commi 1 e 3, possono avvalersi delle disposizioni di cui agli articoli 6, 7, 9, 10 e 11 per lo sviluppo di capacita' di stoccaggio complessivamente non superiore a 4 miliardi di metri cubi. Le modalita' tecnico-operative sono definite con decreto di natura non regolamentare dal Ministro dello sviluppo economico. Le singole iniziative di stoccaggio sono approvate con decreto del Ministro dello sviluppo economico.
 
@@ -588,11 +588,9 @@ b) entro un termine di 3 mesi dal momento in cui il soggetto che realizza le nuo
 
 > «558. A decorrere dal 1° gennaio 2008, i soggetti titolari, ai sensi dell'art. 11 del decreto legislativo 23 maggio 2000, n. 164, di concessioni per l'attivita' di stoccaggio del gas naturale in giacimenti o unita' geologiche profonde, o comunque autorizzati all'installazione e all'esercizio di nuovi stabilimenti di stoccaggio di gas naturale, corrispondono alle regioni nelle quali hanno sede i relativi stabilimenti di stoccaggio, a titolo di contributo compensativo per il mancato uso alternativo del territorio, un importo annuo pari all'1 per cento del valore della capacita' complessiva autorizzata di stoccaggio di gas naturale.».
 
-## TITOLO IV - EFFETTI IMMEDIATI DELLA CONCORRENZIALITA' NEL MERCATO DEL GAS
+## TITOLO IV - EFFETTI IMMEDIATI DELLA CONCORRENZIALITA' NEL MERCATO DEL GAS NATURALE
 
-### NATURALE
-
-#### Art. 9 - Anticipazione degli effetti nel mercato dello sviluppo degli stoccaggi
+### Art. 9 - Anticipazione degli effetti nel mercato dello sviluppo degli stoccaggi
 
 1\. L'Autorita' di regolazione, entro 60 giorni dall'entrata in vigore del presente decreto legislativo, su indirizzi del Ministero, disciplina misure volte a consentire ai soggetti investitori di cui all'articolo 5, comma 1, lettera b), numeri 1) e 3), di ottenere anticipatamente effetti:
 
@@ -618,13 +616,13 @@ d) gli eventuali importi compensativi di cui all'articolo 5, comma 1, lettera c)
 
 6\. Le misure di cui al comma 1 prevedono, altresi', la possibilita' per i soggetti investitori di cui all'articolo 5, comma 1, lettera b), numeri 1) e 3), relativamente alla quota di capacita' di stoccaggio loro assegnata e non ancora entrata in esercizio, di consegnare il gas naturale in mercati europei individuati dall'Autorita' di regolazione ovvero di riconoscere al Gestore dei servizi energetici corrispettivi corrispondenti a costi da sostenere per approvvigionare il gas naturale nei medesimi mercati. In tal caso i soggetti investitori sono tenuti a riconoscere al Gestore dei servizi energetici anche corrispettivi specifici appositamente determinati dall'Autorita' di regolazione che riflettono i costi di trasporto da detti mercati.
 
-#### Art. 10 - Norme transitorie
+### Art. 10 - Norme transitorie
 
 1\. Le misure di cui all'articolo 9, comma 1, prevedono che, almeno per il primo anno termico successivo alla data di entrata in vigore del presente decreto ed a fronte dei medesimi corrispettivi determinati dall'Autorita' di regolazione ai sensi dell'articolo 9, comma 2, ai soggetti investitori di cui all'articolo 5, comma 1, lettera b), numeri 1) e 3), che abbiano fatto richiesta di avvalersi di dette misure sia riconosciuta, relativamente alla quota di capacita' di stoccaggio loro assegnata e non ancora entrata in esercizio, la differenza, se positiva, tra le quotazioni del gas naturale nel periodo invernale e nel periodo estivo del medesimo anno termico come rilevata sulla base di metodologie e in mercati europei di cui all'articolo 9, comma 6.
 
 2\. La determinazione degli importi da riconoscere ai soggetti investitori ai sensi del comma 1, nonche' l'erogazione della differenza tra detti importi ed i corrispettivi determinati ai sensi del medesimo comma e' affidata al Gestore dei servizi energetici. Gli oneri relativi sono inclusi nei servizi di trasporto e bilanciamento applicati alla generalita' dei clienti finali del mercato del gas naturale.
 
-#### Art. 11 - Misure a favore della flessibilita' dell'offerta nel mercato del gas naturale
+### Art. 11 - Misure a favore della flessibilita' dell'offerta nel mercato del gas naturale
 
 1\. Al fine di promuovere la liquidita' del mercato all'ingrosso del gas naturale, le misure di cui all'articolo 9, comma 1, prevedono l'obbligo, per i soggetti investitori che si avvalgano di dette misure, di offrire in vendita nei sistemi di negoziazione gestiti dal Gestore dei mercati energetici i' quantitativi di gas naturale agli stessi resi disponibili nel periodo invernale attraverso i servizi di cui al comma 2 del medesimo articolo 9.
 
@@ -646,7 +644,7 @@ d) gli eventuali importi compensativi di cui all'articolo 5, comma 1, lettera c)
 
 > «Art. 5 (Funzioni di gestore del mercato). - 1. La gestione economica del mercato elettrico e' affidata ad un gestore del mercato. Il gestore del mercato e' una societa' per azioni, costituita dal gestore della rete di trasmissione nazionale entro nove mesi dalla data di entrata in vigore del presente decreto. Esso organizza il mercato stesso secondo criteri di neutralita', trasparenza, obiettivita', nonche' di concorrenza tra produttori, assicurando altresi' la gestione economica di un'adeguata disponibilita' della riserva di potenza. La disciplina del mercato, predisposta dal gestore del mercato entro un anno dalla data della propria costituzione, e' approvata con decreto del Ministro dell'industria, del commercio e dell'artigianato, sentita l'Autorita' per l'energia elettrica e il gas. Essa, in particolare, prevede, nel rispetto dei predetti criteri, i compiti del gestore del mercato in ordine al bilanciamento della domanda e dell'offerta e gli obblighi di produttori e importatori di energia elettrica che non si avvalgono di quanto disposto dall'art. 6».
 
-#### Art. 12 - Norme finali, entrata in vigore
+### Art. 12 - Norme finali, entrata in vigore
 
 1\. Il Dipartimento per l'energia del Ministero, anche avvalendosi dell'Autorita' di regolazione, presta assistenza all'Autorita' garante per le verifiche degli impegni assunti dai soggetti nell'ambito delle disposizioni del presente provvedimento.
 

@@ -25,11 +25,11 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la Convenzione tra l'Italia e la Svizzera relativa alle assicurazioni sociali e Protocollo finale, conclusi a Roma il 17 ottobre 1951.
 
-### Art. 2
+## Art. 2
 
 Piena ed intera esecuzione e' data alla Convenzione e Protocollo suddetti a decorrere dalla data della loro entrata in vigore.
 
@@ -63,7 +63,7 @@ il Consiglio federale svizzero:
 
 il signor Arnoldo SAXER, direttore dell'ufficio federale delle assicurazioni sociali a Berna, i quali, dopo essersi scambiati i loro pieni poteri e averli trovati in buona e debita forma, hanno concordato le disposizioni seguenti:
 
-### Articolo 1
+## Articolo 1
 
 La presente convenzione si applica a tutte le legislazioni
 
@@ -75,13 +75,13 @@ superstiti;
 
 b) in Svizzera, l'assicurazione federale vecchiaia e superstiti.
 
-### Articolo 2
+## Articolo 2
 
 I cittadini italiani e i cittadini svizzeri godono, per cio' che
 
 concerne i diritti e gli obblighi derivanti dalle assicurazioni sociali indicate all'articolo primo, della piena eguaglianza di trattamento, sotto riserva delle disposizioni della presente convenzione.
 
-### Articolo 3
+## Articolo 3
 
 1\. Nella gestione delle assicurazioni sociali indicate all'articolo
 
@@ -119,7 +119,7 @@ delle cancellerie nonche' alle persone che sono al servizio personale dei suddet
 
 possono, di comune accordo, stabilire, in determinati casi, eccezioni alle disposizioni dei primo e del secondo alinea.
 
-### Articolo 4
+## Articolo 4
 
 I cittadini italiani e i cittadini svizzeri, che abbiano diritto
 
@@ -131,7 +131,7 @@ cittadini dell'altro paese che risiedono in un terzo paese alle stesse condizion
 
 ## II. - DISPOSIZIONI PARTICOLARI
 
-### Articolo 5
+## Articolo 5
 
 1\. I cittadini italiani che sono soggetti o che sono stati
 
@@ -169,7 +169,7 @@ b) al verificarsi dell'evento assicurato.
 
 Il cittadino italiano, i cui contributi sono stati trasferiti alle assicurazioni sociali italiane, non puo' piu' far valere alcun diritto nei confronti dell'assicurazione vecchiaia e superstiti svizzera in base a detti contributi. Egli, come pure i suoi superstiti, possono pretendere una rendita ordinaria dell'assicurazione vecchiaia e superstiti svizzera, solamente nel caso in cui l'assi curato si trovi, nel periodo posteriore a quello cui si riferiscono i contributi trasferiti, nelle condizioni stabilite alla lettera a) del primo alinea.
 
-### Articolo 6
+## Articolo 6
 
 1\. I cittadini svizzeri e i loro superstiti hanno diritto alle
 
@@ -193,7 +193,7 @@ Egli, come pure i suoi superstiti, possono pretendere una pensione nel confronti
 
 ## III. - DISPOSIZIONI DI APPLICAZIONE
 
-### Articolo 7
+## Articolo 7
 
 1\. Gli Enti e le autorita' competenti in materia di assicurazioni sociali dei due paesi contraenti, si presteranno vicendevolmente i loro buoni uffici come se si trattasse dell'applicazione della loro legislazione di assicurazione sociale. Questo principio vale anche per la applicazione delle assicurazioni sociali facoltative italiana e svizzera sul territorio di ciascuno dei due paesi contraenti.
 
@@ -203,7 +203,7 @@ L'aiuto reciproco e' prestato gratuitamente.
 
 assicurazioni sociali di uno dei paesi contraenti, relativi ad un avente diritto che risieda sul territorio dell'altro paese, sono effettuati a cura dell'ente assicuratore del paese di residenza su domanda ed a carico dell'ente assicuratore obbligato a fornire la prestazione.
 
-### Articolo 8
+## Articolo 8
 
 1\. Le domande presentate agli enti assicuratori o ad altre
 
@@ -213,13 +213,13 @@ autorita' competenti di uno dei paesi contraenti, valgono anche come domande pre
 
 termine a un'autorita' di uno dei paesi contraenti, competente per riceverli, sono considerati come inoltrati in tempo utile, se sono stati depositati nello stesso termine presso una corrispondente autorita' dell'altro paese.
 
-### Articolo 9
+## Articolo 9
 
 1\. Gli enti assicuratori obbligati a corrispondere prestazioni in base alla presente convenzione si libereranno validamente del loro obbligo nella moneta del loro paese.
 
 2\. Per i versamenti che, in conformita' alla presente convenzione, debbano essere effettuati dall'ente assicuratore di uno dei paesi contraenti nell'altro paese, si osserveranno gli accordi di pagamento in vigore tra i due paesi. Se non esistesse alcun servizio di pagamenti tra i due paesi contraenti, le prestazioni dovute agli aventi diritto che si trovino nell'altro paese saranno messe a loro disposizione nel paese debitore, secondo le modalita' che saranno stabilite dalle autorita' amministrative supreme dei due paesi contraenti. Questa regola vale anche nel caso in cui le prestazioni debbano essere erogate in un terzo paese col quale non esista un servizio di pagamenti.
 
-### Articolo 10
+## Articolo 10
 
 1\. Il beneficio delle esenzioni fiscali e da tasse previste dalla legislazione di uno dei paesi contraenti per i documenti da produrre agli enti assicuratori, alle autorita' e ai tribunali delle assicurazioni sociali di tale paese e' esteso ai documenti che, in applicazione della presente convenzione, debbono essere prodotti alle autorita' corrispondenti dell'altro paese.
 
@@ -229,7 +229,7 @@ l'applicazione della presente convenzione sono dispensati dalla legalizzazione d
 
 ## IV. - DISPOSIZIONI FINALI E TRANSITORIE
 
-### Articolo 11
+## Articolo 11
 
 1\. Le autorita' amministrative supreme dei due paesi contraenti
 
@@ -249,7 +249,7 @@ per la Svizzera:
 
 l'Ufficio federale delle assicurazioni sociali.
 
-### Articolo 12
+## Articolo 12
 
 1\. Una commissione consultiva mista e' incaricata di curare la
 
@@ -263,7 +263,7 @@ governo, sia in Italia, sia in Svizzera. Essa sara' composta in misura paritetic
 
 e il metodo di lavoro. Essa potra' corrispondere direttamente con le amministrazioni italiane o svizzere interessate.
 
-### Articolo 13
+## Articolo 13
 
 1\. La presente convenzione, il cui originale e' redatto in lingua italiana e francese sara' ratificata e gli strumenti di ratifica saranno scambiati a Berna appena possibile.
 
@@ -279,7 +279,7 @@ relativa alle assicurazioni sociali, e' abrogata dal giorno dello scambio degli 
 
 4\. La presente convenzione sara' valida fino al 31 dicembre 1953 e si considerera' rinnovata tacitamente di anno in anno qualora non sia denunciata dall'uno o dall'altro dei paesi contraenti. La denuncia deve essere notificata tre mesi prima dello scadere del termine originale o rinnovato.
 
-### Articolo 14
+## Articolo 14
 
 1\. Le disposizioni della presente convenzione si applicano anche
 
@@ -307,7 +307,7 @@ Il Ministro per gli affari esteri
 
 DE GASPERI
 
-### Protocollo
+## Protocollo
 
 Protocollo finale concernente la Convenzione tra l'Italia e la Svizzera del 17 ottobre 1951 relativa alle assicurazioni sociali.
 
@@ -365,7 +365,7 @@ Il Ministro per gli affari esteri
 
 DE GASPERI
 
-### Convention
+## Convention
 
 Convention entre la Suisse et l'Italie relative aux assurances sociales
 

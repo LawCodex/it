@@ -27,11 +27,9 @@ PROMULGA
 
 la seguente legge:
 
-## Titolo I
+## Titolo I - INTEGRAZIONI E MODIFICHE AL DECRETO DEL PRESIDENTE DELLA REPUBBLICA 9 APRILE 1959, N. 128, CONTENENTE NORME DI POLIZIA DELLE MINIERE E DELLE CAVE.
 
-### INTEGRAZIONI E MODIFICHE AL DECRETO DEL PRESIDENTE DELLA REPUBBLICA 9 APRILE 1959, N. 128, CONTENENTE NORME DI POLIZIA DELLE MINIERE E DELLE CAVE.
-
-#### Art. 1
+### Art. 1
 
 Al decreto del Presidente della Repubblica 9 aprile 1959, n. 128, sono apportate le seguenti modifiche.
 
@@ -111,7 +109,7 @@ Dopo l'articolo 523 e' inserito il seguente:
 
 "Art. 523-bis. - Le disposizioni contenute negli articoli 521, 522 e 523 sono estese a qualsiasi tipo di mezzo da miniera azionato da motori a combustione interna".
 
-#### Art. 2
+### Art. 2
 
 Dopo l'articolo 687 del decreto del Presidente della Repubblica 9 aprile 1959, n. 128, sono aggiunti i seguenti:
 
@@ -119,11 +117,9 @@ Dopo l'articolo 687 del decreto del Presidente della Repubblica 9 aprile 1959, n
 
 Art. 687-ter. - Quando, per l'esercizio di determinati servizi, e' prescritta dalle norme del presente decreto l'installazione di un determinato tipo di macchina o di impianto e lo sviluppo della tecnica mette a disposizione degli operatori industriali nuovi differenti tipi di macchine o di impianti che offrano condizioni di sicurezza del lavoro almeno pari a quelle del tipo prescritto, l'ingegnere capo del distretto minerario puo' autorizzarne l'installazione, ove riscontri che l'installazione dei nuovi differenti tipi di macchine o di impianti possa migliorare l'economicita' dello sfruttamento del giacimento senza diminuire le condizioni di sicurezza del lavoro e degli impianti".
 
-## Titolo II
+## Titolo II - MODIFICHE ED INTEGRAZIONI ALLA LEGGE 6 OTTOBRE 1982, N. 752, CONCERNENTE L'ATTUAZIONE DELLA POLITICA MINERARIA
 
-### MODIFICHE ED INTEGRAZIONI ALLA LEGGE 6 OTTOBRE 1982, N. 752, CONCERNENTE L'ATTUAZIONE DELLA POLITICA MINERARIA
-
-#### Art. 3
+### Art. 3
 
 La legge 6 ottobre 1982, n. 752, per l'attuazione della politica mineraria, e' modificata ed integrata come di seguito indicato.
 
@@ -179,13 +175,13 @@ in fine e' aggiunto il seguente comma:
 
 "Il Ministro dell'industria, del commercio e dell'artigianato puo' disporre, previa presentazione di apposita fidejussione, l'erogazione di anticipazioni nella misura non superiore al 20 per cento della quota annua del contributo deliberato da recuperare in sede di liquidazione degli stati di avanzamento dei lavori".
 
-#### Art. 4
+### Art. 4
 
 Entro i limiti degli stanziamenti previsti dalla legge 6 ottobre 1982, n. 752, possono essere ammesse ai contributi di cui agli articoli 9, 12 e 17 della suddetta legge, le maggiori spese derivanti da lievitazione dei costi o aggiornamenti tecnologici per lo svolgimento delle attivita' agevolate ai sensi degli articoli stessi.
 
 In attesa dell'eventuale nuovo provvedimento di concessione, le agevolazioni vengono erogate nella misura e nei limiti precedentemente riconosciuti.
 
-#### Art. 5
+### Art. 5
 
 Fermo restando quanto previsto negli articoli 9, 12, 14, 15 e 17 della legge 6 ottobre 1982, n. 752, il Ministro dell'industria, del commercio e dell'artigianato con proprio decreto stabilisce le procedure e le modalita' per la concessione e la liquidazione dei contributi.
 
@@ -197,7 +193,7 @@ Per assicurare la continuita' e la regolarita' operativa dei distretti minerari,
 
 Il Ministro dell'industria, del commercio e dell'artigianato puo', per l'espletamento dei compiti previsti dalla legge 6 ottobre 1982, n. 752, richiedere anche nominativamente alle amministrazioni dello Stato, comprese quelle ad ordinamento autonomo nonche' agli enti pubblici, anche economici, il comando del personale occorrente sino al numero massimo di dieci unita'. Le spese relative a detto personale rimangono a carico dell'amministrazione statale o dell'ente di provenienza.
 
-#### Art. 6
+### Art. 6
 
 In sede di prima applicazione della presente legge e con imputazione al Fondo di cui all'articolo 7 possono formare oggetto dei contributi di cui agli articoli 9, 14, 15 e 17 della legge 6 ottobre 1982, n. 752, nei limiti di 90 miliardi, le spese sostenute dalla data di entrata in vigore della stessa fino al 31 dicembre 1983 nelle attivita' minerarie che saranno definite dal CIPE nell'ambito di quelle gia' riconosciute di rilevante interesse nazionale ai sensi dell'articolo 2, secondo comma, della suddetta legge 6 ottobre 1982, n. 752.
 
@@ -213,7 +209,7 @@ A richiesta degli interessati, il Ministro dell'industria, del commercio e dell'
 
 Il decreto di liquidazione deve prevedere l'eventuale recupero dell'anticipazione, ove il contributo risultasse in tutto o in parte non dovuto. In tal caso sulla somma da recuperare si applica un tasso di interesse pari a quello di riferimento di cui all'articolo 20 del decreto del Presidente della Repubblica 9 novembre 1976, n. 902, vigente alla data del decreto di liquidazione dell'anticipazione.
 
-#### Art. 7
+### Art. 7
 
 Ai fini di cui al precedente articolo 6, e' costituito presso il Ministero dell'industria, del commercio e dell'artigianato per il 1984 un fondo con amministrazione autonoma e gestione fuori bilancio, ai sensi dell'articolo 9 della legge 25 novembre 1971, n. 1041.
 
@@ -229,7 +225,7 @@ In relazione a quanto stabilito dal precedente comma resta corrispondentemente r
 
 Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 8
+### Art. 8
 
 La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 

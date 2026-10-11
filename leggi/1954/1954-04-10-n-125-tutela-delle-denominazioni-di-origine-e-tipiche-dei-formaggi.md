@@ -28,11 +28,11 @@ la seguente legge:
 
 ## CAPO I - Delle denominazioni di origine e tipiche dei formaggi.
 
-#### Art. 1
+### Art. 1
 
 L'uso delle denominazioni di origine e tipiche dei formaggi e' consentito e tutelato secondo le disposizioni della presente legge.
 
-#### Art. 2
+### Art. 2
 
 Sono riconosciute agli effetti della presente legge come "denominazioni di origine", le denominazioni relative ai formaggi prodotti in zone geograficamente delimitate osservando usi locali leali e costanti e le cui caratteristiche merceologiche derivano
 
@@ -42,7 +42,7 @@ Sono riconosciute come "denominazioni tipiche" quelle relative a
 
 formaggi prodotti nel territorio nazionale, osservando usi leali e costanti, le cui caratteristiche merceologiche derivano da particolari metodi della tecnica di produzione.
 
-#### Art. 3
+### Art. 3
 
 Con decreto del Presidente della Repubblica, emesso nel termine di ((diciotto mesi)) dall'entrata in vigore della presente legge, su proposta del Ministro per l'agricoltura e le foreste, di concerto con il Ministro per l'industria e il commercio, sentito il Comitato previsto dal successivo art. 4, saranno riconosciute le denominazioni di origine e relative zone di produzione, nonche' le denominazioni tipiche dei formaggi che verranno assoggettati alle norme della presente legge.
 
@@ -50,11 +50,9 @@ Nel decreto verranno fissati la data di applicazione della tutela delle singole 
 
 La revisione degli elenchi delle denominazioni si effettuera' ogni cinque anni, con le modalita' stabilite nel primo comma del presente articolo.
 
-## CAPO II - Del Comitato nazionale e dei Consorzi volontari per la
+## CAPO II - Del Comitato nazionale e dei Consorzi volontari per la tutela delle denominazioni di origine e tipiche dei formaggi
 
-### tutela delle denominazioni di origine e tipiche dei formaggi
-
-#### Art. 4
+### Art. 4
 
 E' costituito presso il Ministero dell'agricoltura e delle foreste il Comitato nazionale per la tutela delle denominazioni di origine e tipiche dei formaggi.
 
@@ -62,7 +60,7 @@ Il Comitato e' composto di due funzionari nominati dal Ministro per l'agricoltur
 
 Il presidente del Comitato e' nominato con decreto del Ministro per l'agricoltura e le foreste, di concerto col Ministro per l'industria e il commercio.
 
-#### Art. 5
+### Art. 5
 
 Spetta al Comitato nazionale di:
 
@@ -78,17 +76,17 @@ e) assumere e svolgere ogni altra funzione o incarico che dalle competenti autor
 
 Le deliberazioni del Comitato di cui alle lettere a) e b) del presente articolo dovranno essere pubblicate nella Gazzetta Ufficiale della Repubblica, per le eventuali istanze e controdeduzioni degli interessati, singoli od associati, che devono essere presentati al Ministro per l'agricoltura e le foreste entro trenta giorni dalla data di pubblicazione.
 
-#### Art. 6
+### Art. 6
 
 Il Comitato nazionale ha facolta' di far eseguire perizie, sopraluoghi e indagini, di esperire tutte le prove che riterra' opportune e di sentire oralmente le parti interessate, anche assistite dai rispettivi consulenti tecnici e patrocinatori legali, per accertare la sussistenza ed utilita', agli effetti qualitativi, degli usi locali, leali e costanti, che possono interessare la produzione e il commercio dei formaggi a denominazione riconosciuta.
 
-#### Art. 7
+### Art. 7
 
 La vigilanza per l'applicazione delle disposizioni contenute nella presente legge e' svolta dal Ministero dell'agricoltura e delle foreste e da quello dell'industria e commercio.
 
 I Ministeri suddetti, di concerto fra loro e previo il parere del Comitato previsto dall'art. 5, con decreto da pubblicarsi nella Gazzetta Ufficiale della Repubblica, possono affidare l'incarico della vigilanza sulla produzione e sul commercio dei formaggi con denominazione di origine o tipica riconosciuta a Consorzi volontari di produzione.
 
-#### Art. 8
+### Art. 8
 
 L'incarico previsto dall'articolo precedente puo' essere affidato, per ciascun tipo di formaggio, ad un solo Consorzio di produttori del formaggio stesso, purche' esso:
 
@@ -102,11 +100,9 @@ I Consorzi a cui viene affidato l'incarico sono sottoposti alla vigilanza del Mi
 
 Qualsiasi modificazione dello statuto deve essere preventivamente approvata dal Ministero stesso, di concerto con quello dell'industria e commercio.
 
-## CAPO III - Disposizioni contro le frodi e la sleale concorrenza
+## CAPO III - Disposizioni contro le frodi e la sleale concorrenza Sanzioni - Disposizioni per le procedure giudiziarie.
 
-### Sanzioni - Disposizioni per le procedure giudiziarie.
-
-#### Art. 9
+### Art. 9
 
 Chiunque produce, pone in vendita o comunque offre al consumo quali formaggi con denominazioni di origine o tipiche riconosciute, formaggi che non hanno i requisiti prescritti per l'uso di tali denominazioni, e' punito con la reclusione sino ad un anno e con la multa sino a lire 100.000.
 
@@ -116,25 +112,25 @@ Se i formaggi considerati nella prima parte del presente articolo sono destinati
 
 Se il fatto e' commesso da un produttore di formaggi con denominazione di origine riconosciuta, le pene sono aumentate fino ad un terzo.
 
-#### Art. 10
+### Art. 10
 
 Chiunque usi le denominazioni di origine o tipiche riconosciute alterandole oppure parzialmente modificandole con aggiunte anche indirettamente con termini rettificativi, come "tipo", "uso", "gusto", o simili, e' punito con la reclusione sino a sei mesi e con la multa sino a lire 50.000.
 
 Le stesse pene si applicano anche quando le denominazioni alterate come sopra sono poste sugli involucri, sugli imballaggi, sulle carte di commercio e in genere sui mezzi pubblicitari.
 
-#### Art. 11
+### Art. 11
 
 Chiunque adotti le denominazioni di origine o tipiche riconosciute ai sensi della presente legge come ragione sociale o come ditta e ne fa uso e' punito con l'ammenda da lire 20.000 a lire 200.000.
 
-#### Art. 12
+### Art. 12
 
 Le pene comminate nella presente legge non si applicano quando il fatto costituisce piu' grave reato.
 
-#### Art. 13
+### Art. 13
 
 In caso di condanna il giudice dovra' sempre ordinare la pubblicazione della parte dispositiva della sentenza su almeno due giornali, di cui uno quotidiano scelto fra quelli che trattino prevalentemente argomenti attinenti alla attivita' agricola e lattiero-casearia o agli interessi delle rispettive categorie di produttori.
 
-#### Art. 14
+### Art. 14
 
 Chiunque produce, vende o comunque fa commercio dei prodotti di cui alla presente legge, e' tenuto a fornire, dovunque i prodotti si trovino, campioni a richiesta degli ufficiali ed agenti delegati dal Ministero dell'agricoltura e delle foreste ((dal Ministero dell'industria e del commercio)), dal Ministero delle finanze (Direzione generale delle dogane e delle imposte indirette) o dall'Alto Commissariato per l'igiene e la sanita' pubblica.
 
@@ -144,15 +140,15 @@ I campioni stessi regolarmente suggellati o assicurati con sigilli atti a garant
 
 ## CAPO IV - Disposizioni transitorie e finali.
 
-#### Art. 15
+### Art. 15
 
 Agli effetti degli accordi internazionali, resi esecutivi con il decreto del Presidente della Repubblica 18 novembre 1953, n. 1099, e fino a quando sara' emanato il decreto previsto dall'art. 3 della presente legge, l'uso dei nominativi di origine "gorgonzola", "parmigiano reggiano", "pecorino romano", impiegati soli od in parte o congiunti o combinati con altre parole, e' riservato ai formaggi prodotti e stagionati nelle zone indicate per ognuno di essi nell'allegato A della presente legge ed aventi le caratteristiche specificate nell'allegato stesso, mentre l'uso delle denominazioni "asiago", "caciocavallo", "fiore sardo", "fontina", "provolone" impiegate sole od in parte o congiunte o comulinate con altre parole, e' riservato ai formaggi aventi le caratteristiche specificate per ognuno di essi nell'allegato B della presente legge.
 
-#### Art. 16
+### Art. 16
 
 Con decreto del Presidente della Repubblica, su proposta del Ministro per l'agricoltura e le foreste, di concerto con i Ministri per la grazia e giustizia, per il tesoro, per le finanze e per l'industria e commercio, saranno emanate le norme per la esecuzione della presente legge.
 
-#### Art. 17
+### Art. 17
 
 La presente legge entrera' in vigore nel giorno della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -170,7 +166,7 @@ Visto, il Guardasigilli: DE PIETRO
 
 ## CAPO IV - Disposizioni transitorie e finali.
 
-#### Allegato A
+### Allegato A
 
 ALLEGATO A
 
@@ -268,7 +264,7 @@ Visto, il Ministro per l'agricoltura e le foreste
 
 MEDICI
 
-#### Allegato B
+### Allegato B
 
 ALLEGATO B
 

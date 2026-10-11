@@ -28,13 +28,11 @@ Promulga
 
 la seguente legge:
 
-## Titolo I
+## Titolo I - DISPOSIZIONI INTRODUTTIVE
 
-### DISPOSIZIONI INTRODUTTIVE - Capo I
+### Capo I - SALVAGUARDIA DEL VINO E DEI TERRITORI VITICOLI
 
-#### SALVAGUARDIA DEL VINO E DEI TERRITORI VITICOLI
-
-###### Art. 1
+#### Art. 1
 
 Patrimonio culturale nazionale
 
@@ -46,11 +44,9 @@ Patrimonio culturale nazionale
 
 > Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
 
-## Capo II
+### Capo II - DISPOSIZIONI GENERALI
 
-### DISPOSIZIONI GENERALI
-
-###### Art. 2
+#### Art. 2
 
 Ambito di applicazione
 
@@ -70,7 +66,7 @@ Ambito di applicazione
 
 > \- Il testo del regolamento (CE) n. 110/2008 del Parlamento europeo e del Consiglio, del 15 gennaio 2008, relativo alla definizione, alla designazione, alla presentazione, all'etichettatura e alla protezione delle indicazioni geografiche delle bevande spiritose e che abroga il regolamento (CEE) n. 1576/89 del Consiglio, e' pubblicato nella Gazzetta Ufficiale dell'Unione europea 13 febbraio 2008, n. L 39.
 
-###### Art. 3
+#### Art. 3
 
 Definizioni
 
@@ -188,25 +184,19 @@ p) per «prodotti vitivinicoli aromatizzati» si intendono i prodotti definiti d
 
 > f) che ha un titolo alcolometrico volumico effettivo superiore a 1,2% vol. e inferiore a 10% vol.».
 
-## Titolo II
+## Titolo II - NORME DI PRODUZIONE E COMMERCIALIZZAZIONE
 
-### NORME DI PRODUZIONE E COMMERCIALIZZAZIONE
+### Capo I - NORME GENERALI
 
-#### Capo I
-
-##### NORME GENERALI
-
-###### Art. 4
+#### Art. 4
 
 Norme generali
 
 1\. Per la produzione e la commercializzazione dei prodotti vitivinicoli sono direttamente applicabili le specifiche disposizioni stabilite dalla normativa dell'Unione europea e le disposizioni nazionali della presente legge e dei relativi decreti attuativi del Ministro emanati ai sensi della medesima legge.
 
-## Capo II
+### Capo II - VITICOLTURA E POTENZIALE PRODUTTIVO
 
-### VITICOLTURA E POTENZIALE PRODUTTIVO
-
-###### Art. 5
+#### Art. 5
 
 Varieta' utilizzabili per la produzione dei prodotti vitivinicoli di cui all'allegato VII, parte II, del regolamento (UE) n. 1308/2013 1. Possono essere impiantate, reimpiantate o innestate per la produzione dei prodotti vitivinicoli di cui all'allegato VII, parte II, del regolamento (UE) n. 1308/2013 soltanto le varieta' di uva da vino iscritte nel registro nazionale delle varieta' di viti e classificate per le relative aree amministrative come varieta' idonee alla coltivazione o come varieta' in osservazione, escluse le viti utilizzate a scopo di ricerca e sperimentazione e di conservazione in situ del patrimonio genetico autoctono, sulla base dei criteri stabiliti con decreto del Ministro, previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano.
 
@@ -216,7 +206,7 @@ Varieta' utilizzabili per la produzione dei prodotti vitivinicoli di cui all'all
 
 > \- Per i riferimenti normativi al regolamento (UE) n. 1308/2013 si veda nelle note all'art. 2.
 
-###### Art. 6
+#### Art. 6
 
 Vitigno autoctono italiano
 
@@ -226,7 +216,7 @@ Vitigno autoctono italiano
 
 3\. Con il decreto di cui all'articolo 5, comma 1, sono definite le procedure, le condizioni e le caratteristiche per il riconoscimento dei vitigni di cui al comma 1 del presente articolo e la relativa annotazione nel registro nazionale delle varieta' di viti.
 
-###### Art. 7
+#### Art. 7
 
 Salvaguardia dei vigneti eroici o storici
 
@@ -252,7 +242,7 @@ e) affidare alle regioni i controlli degli interventi per i quali sono stati ero
 
 > \- Il testo del regolamento (CE) n. 555/2008 della Commissione, del 27 giugno 2008, recante modalita' di applicazione del regolamento (CE) n. 479/2008 del Consiglio relativo all'organizzazione comune del mercato vitivinicolo, in ordine ai programmi di sostegno, agli scambi con i paesi terzi, al potenziale produttivo e ai controlli nel settore vitivinicolo, e' pubblicato nella Gazzetta Ufficiale dell'Unione europea 30 giugno 2008, n. L 170.
 
-###### Art. 8
+#### Art. 8
 
 Schedario viticolo e inventario del potenziale produttivo
 
@@ -278,11 +268,9 @@ Schedario viticolo e inventario del potenziale produttivo
 
 10-bis. In deroga al comma 10, con decreto del Ministro delle politiche agricole alimentari e forestali, da adottarsi entro 120 giorni dalla data di entrata in vigore della presente disposizione, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e ((di)) Bolzano, sono definite le aree vitate ove e' ammessa una resa massima di uva a ettaro fino a 40 tonnellate, tenendo conto dei dati degli ultimi cinque anni come ((risultanti)) dalle dichiarazioni di produzione.
 
-## Capo III
+### Capo III - PRODUZIONE E PRATICHE ENOLOGICHE
 
-### PRODUZIONE E PRATICHE ENOLOGICHE
-
-###### Art. 9
+#### Art. 9
 
 Planimetria dei locali
 
@@ -298,7 +286,7 @@ Planimetria dei locali
 
 6\. Lo spostamento dei recipienti nell'ambito dello stesso fabbricato e' sempre consentito senza obbligo di comunicazione.
 
-###### Art. 10
+#### Art. 10
 
 Determinazione del periodo vendemmiale e delle fermentazioni.
 
@@ -312,7 +300,7 @@ Autorizzazione all'arricchimento
 
 4\. Sono consentite, senza obbligo di comunicazione, al di fuori del periodo stabilito al comma 1, qualsiasi fermentazione o rifermentazione effettuata in bottiglia o in autoclave per la preparazione dei vini spumanti, dei vini frizzanti, del mosto di uve parzialmente fermentato con una sovrappressione superiore a 1 bar e dei vini con la menzione tradizionale «vivace», quelle che si verificano spontaneamente nei vini imbottigliati, nonche' quelle destinate alla produzione di particolari vini, ivi compresi i vini passiti e i vini senza IG purche' individuati, con riferimento all'intero territorio nazionale o a parte di esso, con decreto annuale del Ministro, d'intesa con le regioni e le province autonome interessate.
 
-###### Art. 11
+#### Art. 11
 
 Definizioni e caratteristiche di determinati prodotti
 
@@ -324,7 +312,7 @@ Definizioni e caratteristiche di determinati prodotti
 
 4\. L'«enocianina» e' il complesso delle materie coloranti estratte dalle bucce delle uve nere di Vitis vinifera con soluzione idrosolforosa e successiva concentrazione sotto vuoto oppure solidificazione con trattamenti fisici.
 
-###### Art. 12
+#### Art. 12
 
 Produzione di mosto cotto
 
@@ -332,7 +320,7 @@ Produzione di mosto cotto
 
 2\. E' altresi' ammessa la produzione di mosto cotto, denominato anche «saba», «sapa» o con espressioni similari, anche ai fini della commercializzazione, previa comunicazione al competente ufficio territoriale ((...)).
 
-###### Art. 13
+#### Art. 13
 
 Detenzione di vinacce, centri di raccolta temporanei fuori fabbrica, fecce di vino, preparazione del vinello
 
@@ -354,7 +342,7 @@ b) presso le cantine dei viticoltori vinificatori di uve proprie aventi capacita
 
 7\. L'acqua e le altre sostanze ottenute nei processi di concentrazione dei mosti o dei vini o in quello di rigenerazione delle resine a scambio ionico sono denaturate, all'atto dell'ottenimento, con le sostanze rivelatrici e secondo le modalita' individuate con decreto del Ministro.
 
-###### Art. 14
+#### Art. 14
 
 Elaborazione di taluni prodotti a base di mosti e vini, di vini liquorosi, di vini spumanti e di talune bevande spiritose negli stabilimenti promiscui. Comunicazione preventiva
 
@@ -366,7 +354,7 @@ Elaborazione di taluni prodotti a base di mosti e vini, di vini liquorosi, di vi
 
 In tale caso, non sono soggette a comunicazione preventiva le elaborazioni di vino spumante.
 
-###### Art. 15
+#### Art. 15
 
 Sostanze vietate
 
@@ -404,7 +392,7 @@ h) invertasi.
 
 > Si intendono comunque connesse le attivita', esercitate dal medesimo imprenditore agricolo, dirette alla manipolazione, conservazione, trasformazione, commercializzazione e valorizzazione che abbiano ad oggetto prodotti ottenuti prevalentemente dalla coltivazione del fondo o del bosco o dall'allevamento di animali, nonche' le attivita' dirette alla fornitura di beni o servizi mediante l'utilizzazione prevalente di attrezzature o risorse dell'azienda normalmente impiegate nell'attivita' agricola esercitata, ivi comprese le attivita' di valorizzazione del territorio e del patrimonio rurale e forestale, ovvero di ricezione ed ospitalita' come definite dalla legge.».
 
-###### Art. 16
+#### Art. 16
 
 Comunicazione per la detenzione e il confezionamento
 
@@ -424,13 +412,13 @@ e) aceti.
 
 3\. Sono fatti salvi gli eventuali adempimenti previsti dalla disciplina fiscale e da quella in materia di igiene e sicurezza degli alimenti.
 
-###### Art. 17
+#### Art. 17
 
 Succhi d'uva da mosti con titolo alcolometrico naturale inferiore all'8 per cento
 
 1\. I mosti aventi un titolo alcolometrico naturale inferiore all'8 per cento in volume, destinati alla preparazione di succo di uve e di succo di uve concentrato, possono essere detenuti nelle cantine senza la prescritta denaturazione, a condizione che siano rispettate le modalita' definite con decreto del Ministro, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, e previa denuncia al competente ufficio territoriale. In ogni caso, l'eventuale loro vinificazione, in funzione del loro invio alla distillazione, deve essere effettuata separatamente e tali mosti devono essere addizionati della sostanza rivelatrice individuata con decreto del Ministro, emanato di concerto con il Ministro della salute.
 
-###### Art. 18
+#### Art. 18
 
 Detenzione di anidride carbonica, di argo o di azoto
 
@@ -440,7 +428,7 @@ Detenzione di anidride carbonica, di argo o di azoto
 
 3\. Negli stabilimenti in cui si producono vini spumanti e vini frizzanti e' vietato produrre, nonche' detenere, vini spumanti gassificati e vini frizzanti gassificati diversi da quelli gia' confezionati.
 
-###### Art. 19
+#### Art. 19
 
 Elaborazione dei vini frizzanti
 
@@ -470,7 +458,7 @@ f) la dicitura «rifermentazione in bottiglia» puo' essere utilizzata nella des
 
 2\. Complessivamente, l'aggiunta dei prodotti di cui alla lettera b) del comma 1 non deve aumentare il titolo alcolometrico volumico totale originario della partita di piu' di 0,9 per cento in volume.
 
-###### Art. 20
+#### Art. 20
 
 Prodotti vitivinicoli biologici
 
@@ -480,13 +468,13 @@ Prodotti vitivinicoli biologici
 
 > \- Il testo del regolamento (CE) n. 834/2007 del Consiglio, del 28 giugno 2007, relativo alla produzione biologica e all'etichettatura dei prodotti biologici e che abroga il regolamento (CEE) n. 2092/91, e' pubblicato nella Gazzetta Ufficiale dell'Unione europea 20 luglio 2007, n. L 189.
 
-###### Art. 21
+#### Art. 21
 
 Sostanze ammesse
 
 1\. E' consentito vendere per uso enologico, detenere negli stabilimenti enologici e impiegare in enologia soltanto le sostanze espressamente ammesse dalle vigenti norme nazionali e dell'Unione europea.
 
-###### Art. 22
+#### Art. 22
 
 Detenzione dei prodotti enologici e chimici
 
@@ -496,7 +484,7 @@ Detenzione dei prodotti enologici e chimici
 
 3\. La detenzione dei prodotti di cui ai commi 1 e 2 e' subordinata ad apposita comunicazione preventiva inviata all'ufficio territoriale, il quale puo' definire specifiche modalita' volte a prevenire eventuali violazioni.
 
-###### Art. 23
+#### Art. 23
 
 Impiego dei pezzi di legno di quercia
 
@@ -506,11 +494,9 @@ Impiego dei pezzi di legno di quercia
 
 > \- Il testo del regolamento (CE) n. 606/2009 della Commissione, del 10 luglio 2009, recante alcune modalita' di applicazione del regolamento (CE) n. 479/2008 del Consiglio per quanto riguarda le categorie di prodotti vitivinicoli, le pratiche enologiche e le relative restrizioni, e' pubblicato nella Gazzetta Ufficiale dell'Unione europea 24 luglio 2009, n. L 193.
 
-## Capo IV
+### Capo IV - COMMERCIALIZZAZIONE
 
-### COMMERCIALIZZAZIONE
-
-###### Art. 24
+#### Art. 24
 
 Detenzione dei prodotti vitivinicoli a scopo di commercio e divieti
 
@@ -542,7 +528,7 @@ c) all'analisi chimica risultano contenere residui di ferro-cianuro di potassio 
 
 7\. Il vino, la cui acidita' volatile espressa in grammi di acido acetico per litro supera i limiti previsti dalla vigente normativa dell'Unione europea, non puo' essere detenuto se non previa denaturazione con la sostanza rivelatrice e le modalita' indicate nel decreto del Ministro, emanato di concerto con il Ministro della salute, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano. Il prodotto denaturato deve essere assunto in carico nei registri obbligatori entro il giorno stesso della denaturazione in un apposito conto separato e puo' essere ceduto e spedito soltanto agli acetifici o alle distillerie. Tale disposizione si applica anche ai vini nei quali e' in corso la fermentazione acetica.
 
-###### Art. 25
+#### Art. 25
 
 Divieto di vendita e di somministrazione
 
@@ -572,15 +558,11 @@ g) che all'analisi chimica rivelano presenze di ferro-cianuro di potassio o di s
 
 3\. I prodotti che presentano caratteristiche in violazione delle disposizioni di cui ai commi 1 e 2, nonche' dell'articolo 24, commi 5 e 6, devono essere immediatamente denaturati con il cloruro di litio secondo quanto previsto con decreto del Ministro, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano.
 
-## Titolo III
+## Titolo III - TUTELA DELLE DENOMINAZIONI DI ORIGINE, DELLE INDICAZIONI GEOGRAFICHE E DELLE MENZIONI TRADIZIONALI
 
-### TUTELA DELLE DENOMINAZIONI DI ORIGINE, DELLE INDICAZIONI GEOGRAFICHE - E DELLE MENZIONI TRADIZIONALI
+### Capo I - NORME GENERALI. CLASSIFICAZIONE DELLE DENOMINAZIONI DI ORIGINE, DELLE INDICAZIONI GEOGRAFICHE, AMBITO DI APPLICAZIONE E AMBITI TERRITORIALI
 
-#### Capo I
-
-##### NORME GENERALI. CLASSIFICAZIONE DELLE DENOMINAZIONI DI ORIGINE, DELLE - INDICAZIONI GEOGRAFICHE, AMBITO DI APPLICAZIONE E AMBITI TERRITORIALI
-
-###### Art. 26
+#### Art. 26
 
 Denominazione di origine e indicazione geografica
 
@@ -630,7 +612,7 @@ Denominazione di origine e indicazione geografica
 
 > \- Per i riferimenti normativi al regolamento (UE) n. 1306/2013 si veda nelle note all'art. 2.
 
-###### Art. 27
+#### Art. 27
 
 Utilizzazione delle denominazioni di origine e delle indicazioni geografiche
 
@@ -640,7 +622,7 @@ Utilizzazione delle denominazioni di origine e delle indicazioni geografiche
 
 3\. Il nome della denominazione di origine o dell'indicazione geografica e le altre menzioni tradizionali alle stesse riservate non possono essere impiegati per designare prodotti similari o alternativi a quelli previsti all'articolo 26, ne', comunque, essere impiegati in modo tale da ingenerare nei consumatori confusione nell'individuazione dei prodotti. Sono fatte salve le situazioni in cui l'uso del nome della denominazione di origine o dell'indicazione geografica sia consentito per le bevande spiritose derivate da prodotti vitivinicoli e per l'aceto di vino, nonche' per i prodotti vitivinicoli aromatizzati ai sensi della vigente normativa dell'Unione europea e nazionale.
 
-###### Art. 28
+#### Art. 28
 
 Classificazione delle denominazioni di origine e delle indicazioni geografiche
 
@@ -662,7 +644,7 @@ L'indicazione geografica tipica costituisce la menzione specifica tradizionale u
 
 > \- La legge 23 febbraio 2001, n. 38 (Norme a tutela della minoranza linguistica slovena della regione Friuli-Venezia Giulia), e' pubblicata nella Gazzetta Ufficiale 8 marzo 2001, n. 56.
 
-###### Art. 29
+#### Art. 29
 
 Ambiti territoriali
 
@@ -678,7 +660,7 @@ Ambiti territoriali
 
 6\. Le DOCG e le DOC possono utilizzare nell'etichettatura un nome geografico piu' ampio, anche di carattere storico, tradizionale o amministrativo, qualora sia espressamente previsto negli specifici disciplinari di produzione e a condizione che tale nome geografico piu' ampio sia separato dal nome geografico della denominazione e delle menzioni DOCG e DOC.
 
-###### Art. 30
+#### Art. 30
 
 Coesistenza di piu' DO o IGT nell'ambito del medesimo territorio
 
@@ -694,7 +676,7 @@ a) siano regolamentati da disciplinari di produzione piu' restrittivi;
 
 b) riguardino tipologie particolari derivanti da una specifica piattaforma ampelografica o metodologia di elaborazione.
 
-###### Art. 31
+#### Art. 31
 
 Specificazioni, menzioni, vitigni e annata di produzione
 
@@ -748,11 +730,9 @@ c) i vini possono essere soggetti ad arricchimento, a condizione che l'aumento d
 
 13\. Le specificazioni, menzioni e indicazioni di cui al presente articolo, fatta eccezione per la menzione «vigna», devono essere espressamente previste negli specifici disciplinari di produzione, nell'ambito dei quali possono essere regolamentate le ulteriori condizioni di utilizzazione nonche' definiti parametri maggiormente restrittivi rispetto a quanto indicato nel presente articolo.
 
-## Capo II
+### Capo II - PROTEZIONE DELLE DOP E IGP NELL'UNIONE EUROPEA. PROCEDURA DI RICONOSCIMENTO. REQUISITI FONDAMENTALI. DISCIPLINARI DI PRODUZIONE
 
-### PROTEZIONE DELLE DOP E IGP NELL'UNIONE EUROPEA. PROCEDURA DI - RICONOSCIMENTO. REQUISITI FONDAMENTALI. DISCIPLINARI DI PRODUZIONE
-
-###### Art. 32
+#### Art. 32
 
 Protezione nell'Unione europea. Procedura per il conferimento della protezione delle DO e delle IG
 
@@ -766,7 +746,7 @@ Protezione nell'Unione europea. Procedura per il conferimento della protezione d
 
 > \- Per i riferimenti normativi al regolamento (UE) n. 1308/2013 si veda nelle note all'art. 2.
 
-###### Art. 33
+#### Art. 33
 
 Requisiti di base per il riconoscimento delle DO e delle IG
 
@@ -784,7 +764,7 @@ Requisiti di base per il riconoscimento delle DO e delle IG
 
 7\. Per i vini a IGT e' consentito l'uso delle varieta' iscritte nel registro nazionale delle varieta' di vite.
 
-###### Art. 34
+#### Art. 34
 
 Cancellazione della protezione dell'Unione europea
 
@@ -802,7 +782,7 @@ e revoca del riconoscimento delle DO e delle IG
 
 > Tali atti di esecuzione sono adottati secondo la procedura di esame di cui all'art. 229, paragrafo 2.».
 
-###### Art. 35
+#### Art. 35
 
 Disciplinari di produzione
 
@@ -898,23 +878,21 @@ d) in caso di inserimento della delimitazione della zona di imbottigliamento nel
 
 > 3\. La domanda di protezione relativa a una zona geografica situata in un paese terzo contiene, oltre agli elementi di cui ai paragrafi 1 e 2, gli elementi che comprovano che la denominazione e' protetta nel suo paese di origine.».
 
-###### Art. 36
+#### Art. 36
 
 Modifica dei disciplinari di produzione DOP e IGP
 
 1\. Per la modifica dei disciplinari DOP e IGP si applicano per analogia le norme previste per il riconoscimento, conformemente alle disposizioni previste dalla normativa dell'Unione europea vigente e dal decreto di cui all'articolo 32, comma 2.
 
-## Capo III
+### Capo III - RIVENDICAZIONE E GESTIONE DELLE PRODUZIONI
 
-### RIVENDICAZIONE E GESTIONE - DELLE PRODUZIONI
-
-###### Art. 37
+#### Art. 37
 
 Modalita' di rivendicazione delle produzioni
 
 1\. La rivendicazione delle produzioni di uve destinate alla produzione di vini a DO e IG e' effettuata annualmente, a cura dei produttori interessati, contestualmente alla dichiarazione di vendemmia prevista dalla vigente normativa dell'Unione europea, mediante i servizi del SIAN, con le modalita' stabilite con decreto del Ministro, previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano.
 
-###### Art. 38
+#### Art. 38
 
 Riclassificazioni, declassamenti e tagli
 
@@ -946,7 +924,7 @@ c) la resa massima di produzione di quest'ultima sia eguale o superiore rispetto
 
 8\. In casi eccezionali, non previsti dalla vigente normativa, su istanza motivata dell'interessato puo' essere consentito il trasferimento delle partite di mosti e di vini di cui al comma 7 al di fuori della zona di produzione delimitata, previa specifica autorizzazione rilasciata dal Ministero.
 
-###### Art. 39
+#### Art. 39
 
 Gestione delle produzioni
 
@@ -958,11 +936,9 @@ Gestione delle produzioni
 
 4\. Le regioni, in ogni caso, al fine di migliorare o di stabilizzare il funzionamento del mercato dei vini, compresi le uve e i mosti da cui sono ottenuti, e per superare squilibri congiunturali, su proposta e in attuazione delle decisioni adottate dai consorzi di tutela e sentite le organizzazioni di categoria maggiormente rappresentative e le organizzazioni professionali della regione, possono stabilire altri sistemi di regolamentazione della raccolta dell'uva e dello stoccaggio dei vini ottenuti in modo da permettere la gestione dei volumi di prodotto disponibili, compresa la destinazione degli esuberi di produzione di uva e della resa di trasformazione di uva in vino di cui all'articolo 35.
 
-## Capo IV
+### Capo IV - COMITATO NAZIONALE VINI DOP E IGP
 
-### COMITATO NAZIONALE VINI DOP E IGP
-
-###### Art. 40
+#### Art. 40
 
 Comitato nazionale vini DOP e IGP
 
@@ -1008,11 +984,9 @@ b) collabora con i competenti organi statali e regionali all'osservanza della pr
 
 7\. Le funzioni di segreteria tecnica e amministrativa del comitato sono assicurate da funzionari del Ministero nominati con decreto del Ministero.
 
-## Capo V
+### Capo V - CONSORZI DI TUTELA PER LE DENOMINAZIONI DI ORIGINE E LE INDICAZIONI GEOGRAFICHE PROTETTE
 
-### CONSORZI DI TUTELA PER LE DENOMINAZIONI DI ORIGINE E LE INDICAZIONI - GEOGRAFICHE PROTETTE
-
-###### Art. 41
+#### Art. 41
 
 Consorzi di tutela
 
@@ -1066,11 +1040,9 @@ e) svolgere azioni di vigilanza da effettuare prevalentemente nella fase del com
 
 12\. Per quanto non previsto dal presente articolo, con decreto del Ministro, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono stabilite le condizioni per consentire ai consorzi di svolgere le attivita' indicate nel presente articolo. Con il medesimo decreto sono stabilite le eventuali cause di incompatibilita' degli organi amministrativi dei consorzi, ivi comprese quelle relative ai rapporti di lavoro dei dirigenti dei consorzi medesimi, e sono definite anche le ipotesi di esclusivita' nei rapporti di lavoro sottesi.
 
-## Capo VI
+### Capo VI - CONCORSI ENOLOGICI
 
-### CONCORSI ENOLOGICI
-
-###### Art. 42
+#### Art. 42
 
 Concorsi enologici
 
@@ -1080,11 +1052,9 @@ Concorsi enologici
 
 3\. Le disposizioni per la disciplina del riconoscimento degli organismi di cui al comma 1, della partecipazione al concorso, ivi compresa la composizione delle commissioni di degustazione, del regolamento di concorso nonche' del rilascio, della gestione e del controllo del corretto utilizzo delle distinzioni attribuite sono stabilite con decreto del Ministro.
 
-## Titolo IV
+## Titolo IV - ETICHETTATURA, PRESENTAZIONE E PUBBLICITA'
 
-### ETICHETTATURA, PRESENTAZIONE E PUBBLICITA'
-
-###### Art. 43
+#### Art. 43
 
 Etichettatura e presentazione dei prodotti vitivinicoli in relazione alla protezione delle DOP e IGP, delle menzioni tradizionali e delle altre indicazioni riservate ai prodotti vitivinicoli a DOP e IGP
 
@@ -1108,7 +1078,7 @@ c) il mosto cotto o il vino cotto e le bevande a base di mosto cotto o vino cott
 
 > \- Per i riferimenti normativi al decreto legislativo 30 aprile 1998, n. 173 si veda nelle note all'art. 12.
 
-###### Art. 44
+#### Art. 44
 
 Utilizzo delle denominazioni geografiche, delle menzioni tradizionali e delle altre indicazioni riservate ai prodotti vitivinicoli DOP e IGP
 
@@ -1150,7 +1120,7 @@ b) qualora il riferimento ad una DOP o ad una IGP sia riportato:
 
 > \- Per i riferimenti normativi al regolamento (CE) n. 110/2008 si veda nelle note all'art. 2.
 
-###### Art. 45
+#### Art. 45
 
 Disposizione per l'utilizzo dei nomi di due
 
@@ -1166,11 +1136,11 @@ c) figurare con caratteri aventi le stesse dimensioni, evidenza, colore e intens
 
 2\. Le disposizioni di cui al comma 1 si applicano anche per la produzione, l'etichettatura e la presentazione dei prodotti vitivinicoli senza DOP o IGP.
 
-###### Art. 46
+#### Art. 46
 
 ((ARTICOLO ABROGATO DAL D.L. 16 LUGLIO 2020, N. 76, CONVERTITO CON MODIFICAZIONI DALLA L. 11 SETTEMBRE 2020, N. 120))
 
-###### Art. 47
+#### Art. 47
 
 Definizioni, caratteristiche e uso di contenitori particolari
 
@@ -1180,7 +1150,7 @@ Definizioni, caratteristiche e uso di contenitori particolari
 
 3\. Per «fiasco toscano» si intende un contenitore in vetro costituito da un corpo avente approssimativamente la forma di un ellissoide di rotazione, raccordato secondo il suo asse maggiore a un collo allungato, nel quale l'altezza totale non e' inferiore alla meta' e non e' superiore a tre volte il diametro del corpo, rivestito in tutto o in parte con sala o paglia o altro materiale vegetale naturale da intreccio. Il fondo puo' essere anche piano o leggermente concavo. Il fiasco toscano e' riservato ai vini a IGT, DOC e DOCG per i quali il disciplinare di produzione non fa obbligo di impiegare contenitori diversi.
 
-###### Art. 48
+#### Art. 48
 
 Contenitori e contrassegno per i vini a DOP e IGP
 
@@ -1214,11 +1184,9 @@ Contenitori e contrassegno per i vini a DOP e IGP
 
 > \- La direttiva 2011/91/UE del Parlamento europeo e del Consiglio, del 13 dicembre 2011, relativa alle diciture o marche che consentono di identificare la partita alla quale appartiene una derrata alimentare, e' pubblicata nella Gazzetta Ufficiale dell'Unione europea 16 dicembre 2011, n. L 334.
 
-## Titolo V
+## Titolo V - DISCIPLINA DEGLI ACETI
 
-### DISCIPLINA DEGLI ACETI
-
-###### Art. 49
+#### Art. 49
 
 Denominazione degli aceti
 
@@ -1238,7 +1206,7 @@ a) le eventuali ulteriori caratteristiche dei liquidi alcolici o zuccherini di o
 
 b) le eventuali diverse caratteristiche degli aceti, oltre a quelle previste dal decreto di cui al comma 1, in relazione a nuove acquisizioni tecnico-scientifiche e igienico-sanitarie.
 
-###### Art. 50
+#### Art. 50
 
 Acetifici e depositi di aceto
 
@@ -1252,7 +1220,7 @@ b) di prodotti alimentari idonei al consumo umano diretto nei quali l'aceto e' p
 
 c) di prodotti alimentari conservati in aceto.
 
-###### Art. 51
+#### Art. 51
 
 Produzione e divieti
 
@@ -1280,7 +1248,7 @@ b) prodotti vitivinicoli alterati per agrodolce o per girato o per fermentazione
 
 7\. In deroga al divieto di cui al comma 4, sono consentiti la detenzione dell'acido acetico nei panifici e negli stabilimenti dolciari nonche' l'uso dello stesso nella preparazione degli impasti per la panificazione e per la pasticceria, a condizione che in tali panifici o stabilimenti o nei locali con essi comunque comunicanti, anche attraverso cortili, non si detengano aceto o prodotti contenenti aceto e non si effettuino altre lavorazioni in cui l'acido acetico possa in tutto o in parte sostituirsi all'aceto.
 
-###### Art. 52
+#### Art. 52
 
 Pratiche e trattamenti consentiti
 
@@ -1298,7 +1266,7 @@ c) l'aggiunta di caramello negli aceti diversi da quello di vino.
 
 4\. Le pratiche e i trattamenti di cui ai commi 1 e 3 sono soggetti, se applicabili, agli stessi vincoli e limiti stabiliti dalla normativa dell'Unione europea.
 
-###### Art. 53
+#### Art. 53
 
 Aceti aromatizzati
 
@@ -1310,7 +1278,7 @@ E' consentito aromatizzare l'aceto di mele con il miele.
 
 3\. Con decreto del Ministro, di concerto con il Ministro della salute, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, possono essere stabilite eventuali caratteristiche specifiche di composizione e modalita' di preparazione degli aceti di cui al comma 1.
 
-###### Art. 54
+#### Art. 54
 
 Registro
 
@@ -1338,7 +1306,7 @@ e) la trasformazione e lo scarico del prodotto.
 
 > \- Per l'art. 2135 del codice civile si veda nelle note all'art. 15.
 
-###### Art. 55
+#### Art. 55
 
 Immissione in commercio
 
@@ -1354,7 +1322,7 @@ b) l'indicazione in unita' o in mezze unita' o in decimale di percentuale dell'a
 
 4\. Fatte salve le tolleranze previste dal metodo di analisi di riferimento utilizzato, l'acidita' indicata sulla confezione non puo' essere ne' superiore ne' inferiore di piu' di 0,5 per cento all'acidita' determinata dall'analisi. La tolleranza sull'acidita' indicata sulla confezione non si applica ai limiti minimo e massimo previsti dall'articolo 49, comma 1.
 
-###### Art. 56
+#### Art. 56
 
 Utilizzo delle DOP e IGP
 
@@ -1362,7 +1330,7 @@ Utilizzo delle DOP e IGP
 
 2\. Nella designazione degli aceti, l'utilizzo di altre denominazioni riservate a prodotti riconosciuti con denominazione di origine protetta o indicazione geografica protetta puo' essere consentito a condizione che la materia prima utilizzata per tale elaborazione sia stata certificata dall'apposita autorita' competente riconosciuta ai sensi della normativa vigente. E' in ogni caso vietato l'uso dei termini DOP e IGP in sigla o per esteso.
 
-###### Art. 57
+#### Art. 57
 
 Trasporto di sidri, mosti e aceti
 
@@ -1372,15 +1340,11 @@ Trasporto di sidri, mosti e aceti
 
 3\. Nei casi previsti dai commi 1 e 2 i prodotti destinati alla distilleria o alla distruzione possono essere estratti dagli stabilimenti solo previa denaturazione ai sensi dell'articolo 13, comma 5.
 
-## Titolo VI
+## Titolo VI - ADEMPIMENTI AMMINISTRATIVI E CONTROLLI
 
-### ADEMPIMENTI AMMINISTRATIVI E CONTROLLI
+### Capo I - ADEMPIMENTI AMMINISTRATIVI
 
-#### Capo I
-
-##### ADEMPIMENTI AMMINISTRATIVI
-
-###### Art. 58
+#### Art. 58
 
 Dichiarazioni obbligatorie, documenti di
 
@@ -1404,7 +1368,7 @@ accompagnamento e registri nel settore vitivinicolo
 
 > \- Il testo dell'art. 5 decreto del Ministro delle politiche agricole alimentari e forestali 20 marzo 2015 (Ulteriori disposizioni relative alla semplificazione della gestione della PAC 2014-2020) e' pubblicato nella Gazzetta Ufficiale 16 maggio 2015, n. 112.
 
-###### Art. 59
+#### Art. 59
 
 Coordinamento degli adempimenti amministrativi
 
@@ -1420,7 +1384,7 @@ Coordinamento degli adempimenti amministrativi
 
 > 2\. Gli Stati membri comunicano alla Commissione il nome e l'indirizzo delle autorita' e dei laboratori di cui al paragrafo 1. La Commissione rende pubbliche tali informazioni e le aggiorna periodicamente.».
 
-###### Art. 60
+#### Art. 60
 
 Registri per i produttori, gli importatori e i grossisti di talune sostanze zuccherine
 
@@ -1428,17 +1392,15 @@ Registri per i produttori, gli importatori e i grossisti di talune sostanze zucc
 
 2\. ((COMMA ABROGATO DAL D.L. 14 DICEMBRE 2018, N. 135, CONVERTITO CON MODIFICAZIONI DALLA L. 11 FEBBRAIO 2019, N. 12)).
 
-## Capo II
+### Capo II - CONTROLLI E VIGILANZA
 
-### CONTROLLI E VIGILANZA
-
-###### Art. 61
+#### Art. 61
 
 Generalita'
 
 1\. Per i controlli e la vigilanza dei prodotti vitivinicoli sono direttamente applicabili le specifiche disposizioni stabilite dalla normativa dell'Unione europea e le disposizioni nazionali contenute nella presente legge e nei decreti del Ministero emanati previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano.
 
-###### Art. 62
+#### Art. 62
 
 Autorita' nazionali competenti nel settore vitivinicolo
 
@@ -1450,7 +1412,7 @@ Autorita' nazionali competenti nel settore vitivinicolo
 
 > \- Per i riferimenti normativi al regolamento (UE) n. 1308/2013 si veda nelle note all'art. 59.
 
-###### Art. 63
+#### Art. 63
 
 Coordinamento e programmazione dei controlli
 
@@ -1474,7 +1436,7 @@ Coordinamento e programmazione dei controlli
 
 > 4\. Per le violazioni alle norme in materia agroalimentare per le quali e' prevista l'applicazione della sola sanzione amministrativa pecuniaria, se gia' consentito il pagamento in misura ridotta, la somma, determinata ai sensi dell'art. 16, primo comma, della citata legge n. 689 del 1981, e' ridotta del trenta per cento se il pagamento e' effettuato entro cinque giorni dalla contestazione o dalla notificazione. La disposizione di cui al primo periodo si applica anche alle violazioni contestate anteriormente alla data di entrata in vigore del presente decreto, purche' l'interessato effettui il pagamento e trasmetta la relativa quietanza entro trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto all'autorita' competente, di cui all'art. 17 della citata legge n. 689 del 1981 e all'organo che ha accertato la violazione.».
 
-###### Art. 64
+#### Art. 64
 
 Controlli e vigilanza sui vini a DO o IG
 
@@ -1546,7 +1508,7 @@ L'organismo di controllo tiene un apposito elenco dei soggetti iscritti.
 
 21\. Per quanto di competenza della pubblica amministrazione, allo svolgimento delle attivita' previste dal presente articolo si provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-###### Art. 65
+#### Art. 65
 
 Analisi chimico-fisica e organolettica
 
@@ -1586,7 +1548,7 @@ c) l'esecuzione dell'esame organolettico;
 
 d) l'ammontare degli importi e il pagamento dell'esame organolettico all'organismo di controllo nel caso in cui l'esito dell'analisi sia sfavorevole alla parte.
 
-###### Art. 66
+#### Art. 66
 
 Sistema dei controlli per i vini senza DOP o IGP designati con l'annata e il nome delle varieta' di vite
 
@@ -1626,7 +1588,7 @@ Sistema dei controlli per i vini senza DOP o IGP designati con l'annata e il nom
 
 > c) le miscele di vini di diversi Stati membri non danno luogo ad etichettatura della varieta' di uve da vino, a meno che gli Stati membri interessati non convengano diversamente e assicurino la fattibilita' delle pertinenti procedure di certificazione, approvazione e controllo.».
 
-###### Art. 67
+#### Art. 67
 
 Accesso dei funzionari e degli agenti delegati
 
@@ -1636,11 +1598,9 @@ per la vigilanza
 
 2\. I titolari degli stabilimenti e dei depositi ove sono detenuti i prodotti e le sostanze di cui alla presente legge hanno l'obbligo di esibire la documentazione giustificativa, di dare assistenza agli agenti preposti alla vigilanza e di agevolare l'effettuazione delle operazioni di cui al comma 1, fornendo, nei limiti delle normali necessita', anche la manodopera e i mezzi esistenti nell'azienda.
 
-## Capo III
+### Capo III - TUTELA DELLA PRODUZIONE NAZIONALE
 
-### TUTELA DELLA PRODUZIONE NAZIONALE
-
-###### Art. 68
+#### Art. 68
 
 Tutela delle produzioni e trasparenza delle informazioni
 
@@ -1648,15 +1608,11 @@ Tutela delle produzioni e trasparenza delle informazioni
 
 2\. Nell'ambito del SIAN e' prevista una sezione aperta al pubblico in cui sono contenuti i dati, in formato aperto, necessari per assicurare la corretta informazione dei consumatori, compresi il nome e l'indirizzo corrispondenti a ogni codice dell'ICQRF. La sezione di cui al primo periodo e' istituita entro dodici mesi dalla data di entrata in vigore della presente legge.
 
-## Titolo VII
+## Titolo VII - SISTEMA SANZIONATORIO
 
-### SISTEMA SANZIONATORIO
+### Capo I - VIOLAZIONI IN MATERIA DI PRODUZIONE E COMMERCIALIZZAZIONE
 
-#### Capo I
-
-##### VIOLAZIONI IN MATERIA DI PRODUZIONE E COMMERCIALIZZAZIONE
-
-###### Art. 69
+#### Art. 69
 
 Violazioni in materia di potenziale vitivinicolo
 
@@ -1730,7 +1686,7 @@ Per le superfici autorizzate non superiori a 0,3 ettari, tale percentuale viene 
 
 > \- Il testo del regolamento di esecuzione (UE) n. 561/2015 della Commissione, del 7 aprile 2015, recante modalita' di applicazione del regolamento (UE) n. 1308/2013 del Parlamento europeo e del Consiglio per quanto riguarda il sistema di autorizzazioni per gli impianti viticoli, e' pubblicato nella Gazzetta Ufficiale dell'Unione europea 9 aprile 2015, n. L 93.
 
-###### Art. 70
+#### Art. 70
 
 Violazioni in materia di vinificazione e distillazione
 
@@ -1806,7 +1762,7 @@ Chiunque viola l'obbligo di consegna ai distillatori o agli acetifici del vino d
 
 > 3\. Nel caso del Regno Unito, il nome dello Stato membro puo' essere sostituito dal nome di un territorio che fa parte del Regno Unito.».
 
-###### Art. 71
+#### Art. 71
 
 Prodotti non consentiti
 
@@ -1818,7 +1774,7 @@ Prodotti non consentiti
 
 4\. Salvo che il fatto costituisca reato, al tecnico responsabile delle operazioni o delle manipolazioni di cui ai commi 1 e 2 si applica la medesima sanzione amministrativa pecuniaria prevista a carico del legale rappresentante della ditta.
 
-###### Art. 72
+#### Art. 72
 
 Sanzioni per la detenzione di prodotti vitivinicoli
 
@@ -1832,7 +1788,7 @@ non giustificati
 
 4\. Il comma 1 si applica anche alla detenzione non giustificata delle uve da tavola e dei prodotti da esse ottenuti negli stabilimenti a cio' appositamente destinati.
 
-###### Art. 73
+#### Art. 73
 
 Altre sanzioni
 
@@ -1900,11 +1856,9 @@ g) chiunque non effettua la comunicazione relativa alla detenzione di vinacce pr
 
 13\. Salvo che il fatto costituisca reato, chiunque non indica nell'etichetta dei prodotti vitivinicoli la designazione dell'origine o indica la designazione dell'origine difformemente da quanto previsto dall'articolo 55 del regolamento (CE) n. 607/2009 della Commissione, del 14 luglio 2009, ovvero riporta segni, figure o illustrazioni in sostituzione della designazione dell'origine o che possono evocare un'origine geografica diversa da quella indicata, e' soggetto alla sanzione amministrativa pecuniaria del pagamento di una somma da euro 3.000 a euro 18.000.
 
-## Capo II
+### Capo II - VIOLAZIONI IN MATERIA DI ETICHETTATURA E PRESENTAZIONE
 
-### VIOLAZIONI IN MATERIA DI ETICHETTATURA E PRESENTAZIONE
-
-###### Art. 74
+#### Art. 74
 
 Violazioni in materia di designazione e di presentazione
 
@@ -1946,17 +1900,15 @@ Salvo che il fatto costituisca reato, chiunque utilizza su piu' recipienti il me
 
 > \- Per i riferimenti normativi al regolamento (UE) n. 1308/2013 si veda nelle note all'art. 2.
 
-###### Art. 75
+#### Art. 75
 
 Violazioni in materia di concorsi enologici
 
 1\. Chiunque organizza concorsi enologici relativi a vini a DOP e IGP, nonche' a vini spumanti di qualita', senza essere in possesso dell'autorizzazione ministeriale prescritta dal comma 1 dell'articolo 42 e dalle successive disposizioni applicative e' soggetto alla sanzione amministrativa pecuniaria pari a 2.000 euro.
 
-## Capo III
+### Capo III - SANZIONI PER VIOLAZIONE DELLE NORME SULLA PRODUZIONE E SULLA COMMERCIALIZZAZIONE DEGLI ACETI
 
-### SANZIONI PER VIOLAZIONE DELLE NORME SULLA PRODUZIONE E SULLA - COMMERCIALIZZAZIONE DEGLI ACETI
-
-###### Art. 76
+#### Art. 76
 
 Sanzioni per violazione delle disposizioni sulla produzione e sulla commercializzazione degli aceti
 
@@ -2006,17 +1958,15 @@ La sanzione non puo', in ogni caso, essere inferiore a 500 euro.
 
 > \- Il decreto del Ministro delle finanze 9 luglio 1996, n. 524, (Regolamento recante norme per disciplinare l'impiego dell'alcole etilico e delle bevande alcoliche in usi esenti da accisa), e' pubblicato nella Gazzetta Ufficiale 9 ottobre 1996, n. 237.
 
-## Capo IV
+### Capo IV - VIOLAZIONI IN MATERIA DI ADEMPIMENTI AMMINISTRATIVI E CONTROLLI
 
-### VIOLAZIONI IN MATERIA DI ADEMPIMENTI AMMINISTRATIVI E CONTROLLI
-
-###### Art. 77
+#### Art. 77
 
 Impedimenti all'attivita' degli agenti preposti alla vigilanza
 
 1\. Salvo che il fatto costituisca reato, chiunque in violazione dell'articolo 67 ritarda, ostacola o impedisce il libero accesso degli agenti preposti alla vigilanza oppure non esibisce la documentazione ufficiale e i registri previsti dalla vigente normativa dell'Unione europea e nazionale nel settore vitivinicolo o impedisce il prelevamento di campioni e' soggetto alla sanzione amministrativa pecuniaria da 1.000 euro a 10.000 euro.
 
-###### Art. 78
+#### Art. 78
 
 Violazioni in materia di dichiarazioni, documenti e registri
 
@@ -2028,7 +1978,7 @@ Violazioni in materia di dichiarazioni, documenti e registri
 
 4\. Salvo che il fatto costituisca reato, chiunque viola gli obblighi relativi ai documenti di accompagnamento, alla tenuta dei registri e alla documentazione prevista come ufficiale dalla vigente normativa e' soggetto alla sanzione amministrativa pecuniaria da 500 euro a 15.000 euro. Si applica la sanzione amministrativa pecuniaria da 150 euro a 4.000 euro nel caso di indicazioni non essenziali ai fini dell'identificazione dei soggetti interessati, della quantita' e qualita' del prodotto o nel caso in cui il quantitativo di prodotto, oggetto di irregolarita', sia inferiore a 100 ettolitri o a 10 tonnellate o, per i prodotti confezionati, a 10 ettolitri.
 
-###### Art. 79
+#### Art. 79
 
 Piano dei controlli
 
@@ -2046,7 +1996,7 @@ Piano dei controlli
 
 5\. ((Il soggetto che pone in essere un comportamento diretto a non consentire l'effettuazione dell'attivita' di controllo ovvero ad intralciare o a ostacolare l'attivita' di verifica da parte del personale dell'organismo di controllo, qualora non ottemperi, entro quindici giorni, alla specifica intimazione ad adempiere formulata dallo stesso organismo di controllo, e' soggetto alla sanzione amministrativa di 1.000 euro)).
 
-###### Art. 80
+#### Art. 80
 
 Inadempienze dell'organismo di controllo
 
@@ -2056,7 +2006,7 @@ Inadempienze dell'organismo di controllo
 
 3\. Fatte salve le disposizioni di cui all'articolo 64, commi 5 e 8, i soggetti indicati al comma 1 del medesimo articolo 64 che discriminano tra i soggetti da immettere o tra quelli immessi nel sistema di controllo della DO o IG controllata, ovvero ostacolano l'esercizio del diritto a tale accesso, sono sottoposti, in solido con l'organismo di controllo, alla sanzione amministrativa pecuniaria da 5.000 euro a 50.000 euro.
 
-###### Art. 81
+#### Art. 81
 
 Tutela dei consorzi incaricati dei controlli
 
@@ -2066,7 +2016,7 @@ Tutela dei consorzi incaricati dei controlli
 
 3\. Per l'illecito previsto al comma 2, oltre alla sanzione amministrativa pecuniaria, si applica la sanzione accessoria della sospensione dal diritto di utilizzare la denominazione protetta fino alla rimozione della causa che ha dato origine alla sanzione.
 
-###### Art. 82
+#### Art. 82
 
 Inadempienze dei consorzi di tutela
 
@@ -2078,11 +2028,9 @@ a) discriminare tra i soggetti associati appartenenti a uno stesso segmento dell
 
 b) porre ostacoli all'esercizio del diritto all'accesso al consorzio.
 
-## Capo V
+### Capo V - DISPOSIZIONI COMUNI
 
-### DISPOSIZIONI COMUNI
-
-###### Art. 83
+#### Art. 83
 
 Competenza all'irrogazione delle sanzioni
 
@@ -2094,7 +2042,7 @@ Competenza all'irrogazione delle sanzioni
 
 4\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-###### Art. 84
+#### Art. 84
 
 Chiusura degli stabilimenti
 
@@ -2110,7 +2058,7 @@ Chiusura degli stabilimenti
 
 > 3\. Restano ferme le disposizioni previste dall'art. 3 del presente decreto, dall'art. 517-bis del codice penale, dall'art. 12-bis e dal primo comma dell'art. 15 della legge 30 aprile 1962, n. 283.».
 
-###### Art. 85
+#### Art. 85
 
 Ravvedimento operoso
 
@@ -2124,13 +2072,13 @@ c) a un ottavo del minimo, ma comunque in misura non inferiore a 50 euro, di que
 
 2\. Il pagamento della sanzione ridotta deve essere eseguito entro il primo giorno lavorativo successivo alla regolarizzazione dell'errore o dell'omissione e comunicato entro tre giorni lavorativi, mediante PEC, ovvero mediante altri sistemi legalmente riconosciuti, all'ufficio territoriale dell'ICQRF competente per il luogo in cui e' avvenuta l'irregolarita'.
 
-###### Art. 86
+#### Art. 86
 
 Costituzione delle associazioni come parte civile
 
 1\. Le associazioni dei produttori, le organizzazioni professionali agricole e le altre organizzazioni delle imprese della filiera, i consorzi di tutela di cui all'articolo 41, le associazioni dei consumatori, le regioni e gli enti locali possono costituirsi parte civile, indipendentemente dalle prove di danno immediato e diretto, nei procedimenti penali per violazioni delle disposizioni della presente legge.
 
-###### Art. 87
+#### Art. 87
 
 Modifiche alla legge 27 luglio 1999, n. 268, relativa alla disciplina delle «strade del vino»
 
@@ -2172,11 +2120,9 @@ Modifiche alla legge 27 luglio 1999, n. 268, relativa alla disciplina delle «st
 
 > \- La legge 25 agosto 1991, n. 287 (Aggiornamento della normativa sull'insediamento e sull'attivita' dei pubblici esercizi), e' pubblicata nella Gazzetta Ufficiale 3 settembre 1991, n. 206.
 
-## Titolo VIII
+## Titolo VIII - NORME TRANSITORIE E FINALI
 
-### NORME TRANSITORIE E FINALI
-
-###### Art. 88
+#### Art. 88
 
 Norme transitorie
 
@@ -2196,7 +2142,7 @@ b) il nome o la denominazione sociale, la sede, il codice fiscale e, se diversa,
 
 6\. I prodotti immessi sul mercato o etichettati prima del 31 dicembre 2017, che non soddisfino i requisiti prescritti dalla presente legge, ma che siano conformi alle disposizioni precedentemente applicabili, possono essere commercializzati fino all'esaurimento delle scorte.
 
-###### Art. 89
+#### Art. 89
 
 Clausola di salvaguardia per le regioni a statuto speciale e le province autonome
 
@@ -2206,7 +2152,7 @@ Clausola di salvaguardia per le regioni a statuto speciale e le province autonom
 
 > \- La legge 18 ottobre 2001, n. 3 (Modifiche al titolo V della parte seconda della Costituzione), e' pubblicata nella Gazzetta Ufficiale 24 ottobre 2001, n. 248.
 
-###### Art. 90
+#### Art. 90
 
 Termini per l'adozione dei decreti applicativi e relative disposizioni transitorie
 
@@ -2222,7 +2168,7 @@ Termini per l'adozione dei decreti applicativi e relative disposizioni transitor
 
 > \- Per i riferimenti normativi al regolamento (UE) n. 1308/2013 si veda nelle note all'art. 2.
 
-###### Art. 91
+#### Art. 91
 
 Abrogazioni
 

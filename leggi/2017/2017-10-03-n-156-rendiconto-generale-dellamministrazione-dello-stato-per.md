@@ -27,15 +27,11 @@ Promulga
 
 la seguente legge:
 
-## Titolo I
+## Titolo I - RENDICONTO GENERALE DELLO STATO
 
-### RENDICONTO GENERALE DELLO STATO
+### Capo I - Conto del bilancio
 
-#### Capo I
-
-##### Conto del bilancio
-
-###### Art. 1
+#### Art. 1
 
 Entrate
 
@@ -53,7 +49,7 @@ Parte di provvedimento in formato grafico
 
 > Il testo delle note qui pubblicato e' stato redatto dall'Amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica italiana e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
-###### Art. 2
+#### Art. 2
 
 Spese
 
@@ -65,7 +61,7 @@ Spese
 
 Parte di provvedimento in formato grafico
 
-###### Art. 3
+#### Art. 3
 
 Avanzo della gestione di competenza
 
@@ -73,7 +69,7 @@ Avanzo della gestione di competenza
 
 Parte di provvedimento in formato grafico
 
-###### Art. 4
+#### Art. 4
 
 Situazione finanziaria
 
@@ -81,7 +77,7 @@ Situazione finanziaria
 
 Parte di provvedimento in formato grafico
 
-###### Art. 5
+#### Art. 5
 
 Allegati
 
@@ -99,11 +95,9 @@ Allegati
 
 > 4\. Alla legge di approvazione del rendiconto generale dello Stato e' allegato un elenco dei decreti di cui al comma 2, con le indicazioni dei motivi per i quali si e' proceduto ai prelevamenti dal fondo di cui al presente articolo.».
 
-## Capo II
+### Capo II - Conto generale del patrimonio
 
-### Conto generale del patrimonio
-
-###### Art. 6
+#### Art. 6
 
 Risultati generali della gestione patrimoniale
 
@@ -111,11 +105,9 @@ Risultati generali della gestione patrimoniale
 
 Parte di provvedimento in formato grafico
 
-## Titolo II
+## Titolo II - AMMINISTRAZIONI E AZIENDE AUTONOME
 
-### AMMINISTRAZIONI E AZIENDE AUTONOME
-
-###### Art. 7
+#### Art. 7
 
 Archivi notarili
 
@@ -123,7 +115,7 @@ Archivi notarili
 
 Parte di provvedimento in formato grafico
 
-###### Art. 8
+#### Art. 8
 
 Fondo edifici di culto
 
@@ -147,11 +139,9 @@ Parte di provvedimento in formato grafico
 
 Parte di provvedimento in formato grafico
 
-## Titolo III
+## Titolo III - APPROVAZIONE DEI RENDICONTI
 
-### APPROVAZIONE DEI RENDICONTI
-
-###### Art. 9
+#### Art. 9
 
 Rendiconti
 
@@ -171,13 +161,13 @@ Visto, il Guardasigilli: Orlando
 
 ## Allegati
 
-###### Allegato 1
+#### Allegato 1
 
 Allegato 1
 
 Parte di provvedimento in formato grafico
 
-###### Allegato 2
+#### Allegato 2
 
 Allegato 2
 

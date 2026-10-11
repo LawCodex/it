@@ -28,19 +28,19 @@ Promulga
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la Convenzione ed i Protocolli delle Nazioni Unite contro il crimine organizzato transnazionale, adottati dall'Assemblea generale il 15 novembre 2000 ed il 31 maggio 2001.
 
-### Art. 2
+## Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data alla Convenzione ed ai Protocolli di cui all'articolo 1, di seguito denominati rispettivamente: «Convenzione» e «Protocolli», a decorrere dalla data della loro rispettiva entrata in vigore.
 
-### Art. 3
+## Art. 3
 
 Definizione di reato transnazionale
 
@@ -54,7 +54,7 @@ c) ovvero sia commesso in uno Stato, ma in esso sia implicato un gruppo criminal
 
 d) ovvero sia commesso in uno Stato ma abbia effetti sostanziali in un altro Stato.
 
-### Art. 4
+## Art. 4
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 MARZO 2018, N. 21))
 
@@ -66,7 +66,7 @@ AGGIORNAMENTO (7)
 
 Il D.Lgs. 1 marzo 2018, n. 21 ha disposto (con l'art. 8, comma 1) che "Dalla data di entrata in vigore del presente decreto, i richiami alle disposizioni abrogate dall'articolo 7, ovunque presenti, si intendono riferiti alle corrispondenti disposizioni del codice penale come indicato dalla tabella A allegata al presente decreto".
 
-### Art. 5
+## Art. 5
 
 Autorita' centrale ed autorita' di riferimento
 
@@ -76,7 +76,7 @@ per le attivita' previste dalla Convenzione e dai Protocolli
 
 2\. Con decreto del Presidente del Consiglio dei ministri, adottato entro centoventi giorni dalla data di entrata in vigore della presente legge, sono individuate le autorita' di riferimento per le attivita' previste dalla Convenzione e dai Protocolli.
 
-### Art. 6
+## Art. 6
 
 Informazione al Parlamento sulla cooperazione
 
@@ -86,7 +86,7 @@ in materia di estradizione e di assistenza giudiziaria
 
 2\. Con cadenza annuale il Ministro della giustizia informa le Camere sullo stato di attuazione delle previsioni dell'articolo 18 della Convenzione, in merito alla collaborazione tra Stati Parte in materia di assistenza giudiziaria.
 
-### Art. 7
+## Art. 7
 
 Trasferimento dei procedimenti penali
 
@@ -94,13 +94,13 @@ Trasferimento dei procedimenti penali
 
 2\. Con cadenza annuale il Ministro della giustizia informa le Camere sullo stato di attuazione delle previsioni dell'articolo 21 della Convenzione, in merito al quadro complessivo degli Accordi di trasferimento raggiunti con gli altri Stati Parte, al numero dei procedimenti penali effettivamente trasferiti e ad eventuali problemi applicativi.
 
-### Art. 8
+## Art. 8
 
 Informazione al Parlamento sulla cooperazione di polizia
 
 1\. Con cadenza annuale il Ministro dell'interno informa le Camere sullo stato di attuazione delle previsioni dell'articolo 27 della Convenzione, con specifico riferimento alle azioni intraprese sulla base di tale disposizione ed al quadro delle intese o accordi conclusi ai sensi del paragrafo 2 del medesimo articolo.
 
-### Art. 9
+## Art. 9
 
 Operazioni sotto copertura
 
@@ -164,7 +164,7 @@ f) l'articolo 10 della legge 11 agosto 2003, n. 228.
 
 f-bis) l'articolo 7 del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, e successive modificazioni.
 
-### Art. 10
+## Art. 10
 
 Responsabilita' amministrativa degli enti
 
@@ -188,7 +188,7 @@ Responsabilita' amministrativa degli enti
 
 10\. Agli illeciti amministrativi previsti dal presente articolo si applicano le disposizioni di cui al decreto legislativo 8 giugno 2001, n. 231.
 
-### Art. 11
+## Art. 11
 
 Ipotesi speciali di confisca obbligatoria
 
@@ -196,13 +196,13 @@ e confisca per equivalente
 
 1\. Per i reati di cui all'articolo 3 della presente legge, qualora la confisca delle cose che costituiscono il prodotto, il profitto o il prezzo del reato non sia possibile, il giudice ordina la confisca di somme di denaro, beni od altre utilita' di cui il reo ha la disponibilita', anche per interposta persona fisica o giuridica, per un valore corrispondente a tale prodotto, profitto o prezzo. In caso di usura e' comunque ordinata la confisca di un importo pari al valore degli interessi o degli altri vantaggi o compensi usurari. In tali casi, il giudice, con la sentenza di condanna, determina le somme di danaro o individua i beni o le utilita' assoggettati a confisca di valore corrispondente al prodotto, al profitto o al prezzo del reato.
 
-### Art. 12
+## Art. 12
 
 Attivita' di indagine a fini di confisca
 
 1\. In relazione ai reati di cui all'articolo 3 della presente legge, il pubblico ministero puo' compiere, nel termine e ai fini di cui all'articolo 430 del codice di procedura penale, ogni attivita' di indagine che si rende necessaria circa i beni, il denaro o le altre utilita' soggette a confisca a norma dell'articolo 11 della presente legge e dell'articolo 12-sexies del decreto-legge 8 giugno 1992, n. 306, convertito, con modificazioni, dalla legge 7 agosto 1992, n. 356, e successive modificazioni.
 
-### Art. 13
+## Art. 13
 
 Attribuzione di competenze al procuratore
 
@@ -210,7 +210,7 @@ distrettuale antimafia
 
 1\. In relazione ai reati di cui all'articolo 3 della presente legge sono attribuite anche al procuratore distrettuale antimafia le competenze attribuite al procuratore della Repubblica e al questore dall'articolo 2-bis, commi 1, 4 e 6, dall'articolo 2-ter, commi secondo, sesto e settimo, dall'articolo 3-bis, settimo comma, dall'articolo 3-quater, commi 1 e 5 e dall'articolo 10-quater, secondo comma, della legge 31 maggio 1965, n. 575.
 
-### Art. 14
+## Art. 14
 
 Modifica dell'articolo 377 del codice penale
 
@@ -224,7 +224,7 @@ Le pene previste ai commi primo e terzo sono aumentate se concorrono le condizio
 
 3\. All'articolo 7, primo comma, della legge 31 maggio 1965, n. 575, dopo la parola: «353,» sono inserite le seguenti: «377, terzo comma,».
 
-### Art. 15
+## Art. 15
 
 Interventi in materia di armi da fuoco
 
@@ -232,7 +232,7 @@ Interventi in materia di armi da fuoco
 
 2\. Al primo comma dell'articolo 11 della legge 18 aprile 1975, n. 110, dopo la parola: «matricola», sono inserite le seguenti: «, nonche' l'indicazione del luogo di produzione e della sigla della Repubblica italiana o di altro Paese, nel caso di importazione dell'arma da Paese esterno all'Unione europea».
 
-### Art. 16
+## Art. 16
 
 Entrata in vigore
 
@@ -254,13 +254,13 @@ Visto, il Guardasigilli: Castelli
 
 ## Allegati
 
-### Convention
+## Convention
 
 Allegato
 
 Parte di provvedimento in formato grafico
 
-### Protocolli
+## Protocolli
 
 Allegato
 
@@ -274,13 +274,13 @@ CONVENZIONE DELLE NAZIONI I,UNITE:
 
 CONTRO LA CRIMINALITA' TRANSNAZIONALE ORGANIZZATA
 
-### Articolo 1
+## Articolo 1
 
 Scopo
 
 Lo scopo della presente Convenzione e' di promuovere la cooperazione per prevenire e combattere il crimine transnazionale organizzato in maniera piu' efficace.
 
-### Articolo 2
+## Articolo 2
 
 Terminologia
 
@@ -308,7 +308,7 @@ espropriazione, indica la definitiva ablazione di beni a seguito di decisione de
 
 (j) "Organizzazione regionale d'integrazione economica " indica una organizzazione costituita da Stati sovrani di una data regione, a cui i suoi Stati membri hanno trasferito la competenza in relazione a questioni disciplinate dalla presente Convenzione e che e' stata debitamente autorizzata, in conformita' alle sue procedure interne, a firmare, ratificare, accettare, approvare o aderire ad essa; i riferimenti a " Stati Parte" nella presente Convenzione si applicano a tali organizzazioni nei limiti della loro competenza.
 
-### Articolo 3
+## Articolo 3
 
 Ambito di applicazione
 
@@ -332,7 +332,7 @@ Stato; o
 
 (d) e' commesso in uno Stato ma ha effetti sostanziali in un altro Stato.
 
-### Articolo 4
+## Articolo 4
 
 Tutela della sovranita'
 
@@ -340,7 +340,7 @@ Tutela della sovranita'
 
 2\. Nulla nella presente Convenzione legittima uno Stato Parte ad intraprendere nel territorio di un altro Stato l'esercizio della giurisdizione e di funzioni che sono riservate esclusivamente alle autorita' di quell'altro Stato dal suo diritto interno.
 
-### Articolo 5
+## Articolo 5
 
 Penalizzazione della partecipazione ad un gruppo criminale organizzato
 
@@ -364,7 +364,7 @@ b. ad altre attivita' del gruppo criminale organizzato, consapevole che la sua p
 
 3\. Gli Stati Parti il cui diritto interno subordina la constatazione dei reati enunciati al paragrafo 1(a) (i) del presente articolo al fatto che sia coinvolto un gruppo criminale organizzato, si accertano che il loro diritto interno copra tutti i reati gravi commessi da gruppi criminali organizzati. Tali Stati Parte, nonche' gli Stati Parte il cui diritto interno subordina la constatazione dei reati enunciati al paragrafo 1 a) (i) del presente articolo alla perpetrazione di un atto ai sensi dell'accordo, informano di cio' il Segretario Generale delle Nazioni Unite al momento della firma o del deposito del loro strumento di ratifica, accettazione o approvazione della presente Convenzione, o dell'adesione alla stessa.
 
-### Articolo 6
+## Articolo 6
 
 Penalizzazione del riciclaggio dei proventi di reato
 
@@ -396,7 +396,7 @@ descrizione di esse
 
 (f) La conoscenza, l'intenzione o la motivazione, in quanto elementi costitutivi di un reato enunciato al paragrafo 1 del presente articolo possono essere dedotte da circostanze obiettive basate sui fatti.
 
-### Articolo 7
+## Articolo 7
 
 Misure per combattere il riciclaggio di denaro
 
@@ -412,7 +412,7 @@ b) fatti salvi gli articoli 18 e 27 della presente Convenzione, si accerta che l
 
 4\. Gli Stati Parte cercano di sviluppare e promuovere la cooperazione globale regionale, sub-regionale e bilaterale fra le autorita' giudiziarie, gli organi incaricati dell'applicazione delle leggi e le autorita' di regolamentazione finanziaria al fine di contrastare il riciclaggio di denaro.
 
-### Articolo 8
+## Articolo 8
 
 Penalizzazione della corruzione
 
@@ -428,7 +428,7 @@ b) sollecitare o accettare, da parte di un pubblico ufficiale, direttamente o in
 
 4\. Ai fini del paragrafo 1 del presente articolo e dell'articolo 9 della presente Convenzione, "pubblico ufficiale" indica un pubblico ufficiale o una persona che fornisce un servizio pubblico, nel modo in questa denominazione e' definita nel diritto interno ed applicata nel diritto penale dello Stato Parte in cui la persona in questione esercita tale funzione.
 
-### Articolo 9
+## Articolo 9
 
 Misure contro la corruzione
 
@@ -436,7 +436,7 @@ Misure contro la corruzione
 
 2\. Ogni Stato Parte adotta misure per accertarsi che le sue autorita' operino efficacemente in materia di prevenzione, individuazione e repressione della corruzione dei pubblici ufficiali, e conferisce a tali autorita' un'indipendenza sufficiente a scoraggiare l'esercizio d'influenza impropria sulle loro azioni.
 
-### Articolo 10
+## Articolo 10
 
 Responsabilita' delle persone giuridiche
 
@@ -448,7 +448,7 @@ Responsabilita' delle persone giuridiche
 
 4\. Ciascuno Stato Parte si accerta, in particolare, che le persone giuridiche ritenute responsabili ai sensi del presente articolo siano soggette a sanzioni efficaci, proporzionate e deterrenti, di natura penale o non penale, comprese le sanzioni pecuniarie.
 
-### Articolo 11
+## Articolo 11
 
 Azione penale, sentenza e sanzioni
 
@@ -464,7 +464,7 @@ Azione penale, sentenza e sanzioni
 
 6\. Nulla di quanto contenuto nella presente Convenzione pregiudica il principio in base al quale la definizione dei reati determinati ai sensi della presente Convenzione, nonche' dei mezzi giuridici di difesa applicabili e di altri principi giuridici che disciplinano la legalita' delle incriminazioni e' di esclusiva competenza del diritto interno di uno Stato Parte, e secondo il quale tali reati sono perseguiti e puniti in conformita' al diritto di tale Stato Parte.
 
-### Articolo 12
+## Articolo 12
 
 Confisca e sequestro
 
@@ -492,7 +492,7 @@ tali proventi
 
 9\. Nulla di quanto contenuto nel presente articolo pregiudica il principio secondo il quale le misure che vi sono contenute sono definite ed attuate conformemente alle disposizioni del diritto interno di ogni Stato Parte.
 
-### Articolo 13
+## Articolo 13
 
 Cooperazione internazionale ai fini della confisca
 
@@ -524,7 +524,7 @@ b) nel caso di una richiesta di competenza del paragrafo 1 b) del presente artic
 
 9\. Gli Stati Parte prendono in considerazione la conclusione di trattati, accordi o intese bilaterali o multilaterali intesi a rafforzare l'efficacia della cooperazione internazionale intrapresa ai sensi del presente articolo.
 
-### Articolo 14
+## Articolo 14
 
 Destinazione dei beni o proventi di reato confiscati
 
@@ -538,7 +538,7 @@ Destinazione dei beni o proventi di reato confiscati
 
 (b) di spartire con altri Stati Parte, sistematicamente o caso per caso, tali proventi di reato o beni, o fondi derivanti dalla loro vendita, conformemente al suo diritto interno o procedure amministrative.
 
-### Articolo 15
+## Articolo 15
 
 Giurisdizione
 
@@ -570,7 +570,7 @@ persona aploide che risiede stabilmente sul suo territorio; oppure
 
 6\. Senza pregiudizio per le norme del diritto internazionale generale, la presente Convenzione non esclude l'esercizio di qualsiasi giurisdizione penale determinata da uno Stato Parte conformemente al suo diritto interno.
 
-### Articolo 16
+## Articolo 16
 
 Estradizione
 
@@ -612,13 +612,13 @@ Estradizione
 
 17\. Gli Stati Parti devono cercare di concludere accordi o intese bilaterali e multilaterali allo scopo di accrescere l'efficacia dell'estradizione.
 
-### Articolo 17
+## Articolo 17
 
 Trasferimento delle persone condannate
 
 Gli Stati Parti possono prendere in considerazione la stipula di accordi o di intese bilaterali o multilaterali sul trasferimento nel loro territorio delle persone condannate alla reclusione o ad altre forme di privazione della liberta' personale per i reati previsti dalla presente Convenzione allo scopo di permettere a queste persone di scontarvi il residuo della pena.
 
-### Articolo 18
+## Articolo 18
 
 Assistenza giudiziaria reciproca
 
@@ -734,13 +734,13 @@ Laddove in uno Stato Parte vi sia un territorio o una regione a statuto speciale
 
 30\. Gli Stati Parte, laddove necessario, valutano l'eventualita' di' stringere accordi o intese bilaterali o multilaterali atti a dare seguito pratico o maggiore efficacia alle disposizioni del presente articolo.
 
-### Articolo 19
+## Articolo 19
 
 Indagini comuni
 
 Gli Stati Parti valutano l'opportunita' di stringere accordi o intese bilaterali o multilaterali per mezzo dei quali, rispetto a questioni oggetto d'indagini, azioni penali o procedimenti giudiziari in uno o piu' Stati, le autorita' competenti interessate possono istituire organi investigativi comuni. In mancanza di tali accordi o intese, si possono intraprendere indagini comuni sulla base di accordi caso per caso. Gli Stati Parti coinvolti assicurano il pieno rispetto della sovranita' dello Stato Parte nel cui territorio tale indagine ha luogo.
 
-### Articolo 20
+## Articolo 20
 
 Tecniche speciali d'investigazione
 
@@ -752,19 +752,19 @@ Tecniche speciali d'investigazione
 
 4\. La decisione d'impiegare la consegna controllata a livello internazionale, su consenso degli Stati Parte interessati, puo' includere metodi che permettono di intercettare la merce lasciandola proseguire integra oppure asportandola o sostituendola in tutto o in parte.
 
-### Articolo 21
+## Articolo 21
 
 Trasferimento dei procedimenti penali
 
 Ciascuno Stato Parte valuta la possibilita' di trasferire ad un altro i procedimenti relativi al perseguimento di reati compresi nella presente Convenzione nei casi in cui tale trasferimento e' ritenuto nell'interesse della corretta amministrazione della giustizia, in particolare nei casi in cui sono coinvolte piu' giurisdizioni, al fine di concentrare l'accusa.
 
-### Articolo 22
+## Articolo 22
 
 Istituzione del casellario penale
 
 Ciascuno Stato Parte puo' adottare misure legislative o di altro tipo necessarie a prendere in considerazione, nei termini e per gli scopi che ritiene adeguati, ogni precedente condanna di un presunto colpevole, comminata in un altro Stato, al fine di utilizzare le relative informazioni in procedimenti penali avviati per un reato trattato dalla presente Convenzione.
 
-### Articolo 23
+## Articolo 23
 
 Penalizzazione dell'intralcio alla giustizia
 
@@ -774,7 +774,7 @@ Ciascuno Stato Parte adotta misure legislative o di altra natura che possono ess
 
 (b) all'uso della forza fisica, minacce o intimidazioni per interferire con l'esercizio di doveri d'ufficio da parte di un magistrato o di un appartenente alle forze di polizia in relazione alla commissione di reati di cui alla presente Convenzione. Nulla in questo sub-paragrafo pregiudica il diritto degli Stati Parte di avere una legislazione che protegga altre categorie di pubblici ufficiali.
 
-### Articolo 24
+## Articolo 24
 
 Protezione dei testimoni
 
@@ -790,7 +790,7 @@ Protezione dei testimoni
 
 4\. Le disposizioni del presente articolo si applicano anche alle vittime in quanto testimoni.
 
-### Articolo 25
+## Articolo 25
 
 Assistenza alle vittime e loro protezione
 
@@ -800,7 +800,7 @@ Assistenza alle vittime e loro protezione
 
 3\. Ciascuno Stato Parte, nel rispetto delle proprie leggi nazionali, consente che siano esposti gli interessi e le opinioni delle vittime e siano considerati in una fase adeguata dei procedimenti penali contro gli imputati in modo tale da non pregiudicare i diritti della difesa.
 
-### Articolo 26
+## Articolo 26
 
 Misure per rafforzare la cooperazione con le autorita' giudiziarie
 
@@ -824,7 +824,7 @@ Misure per rafforzare la cooperazione con le autorita' giudiziarie
 
 5\. Laddove una persona di cui al paragrafo 1 del presente articolo che si trova in uno Stato Parte possa fornire una collaborazione sostanziale alle autorita' competenti in un altro Stato Parte, gli Stati Parti interessati potranno prendere in considerazione la possibilita' di stipulare accordi o intese, nel rispetto delle proprie leggi nazionali, in relazione alla possibilita', per l'altro Stato Parte, di disporre il trattamento descritto nei commi 2 e 3 del presente articolo.
 
-### Articolo 27
+## Articolo 27
 
 Cooperazione di polizia
 
@@ -852,7 +852,7 @@ In mancanza di tali accordi o intese fra gli Stati Parte interessati, le Parti p
 
 3\. Gli Stati Parti si sforzano di cooperare con i propri mezzi per fronteggiare il ine organizzato transnazionale perpetrato attraverso l'uso della moderna tecnologia.
 
-### Articolo 28
+## Articolo 28
 
 Raccolta, scambio ed analisi delle di informazioni sulla natura della criminalita' organizzata
 
@@ -862,7 +862,7 @@ Raccolta, scambio ed analisi delle di informazioni sulla natura della criminalit
 
 3\. Ciascuno Stato Parte considera la possibilita' di monitorare le proprie politiche e misure attuate per combattere la criminalita' organizzata e di valutare la loro efficacia ed applicabilita'.
 
-### Articolo 29
+## Articolo 29
 
 Formazione e assistenza tecnica.
 
@@ -894,7 +894,7 @@ Tale formazione e assistenza tecnica possono includere la formazione linguistica
 
 4\. Nel caso di esistenti accordi o intese bilaterali o multilaterali, gli Stati Parte intensificano, nella misura necessaria, gli sforzi per aumentare al massimo le attivita' operative e la formazione nell'ambito delle organizzazioni internazionali e regionali e di altri pertinenti accordi o intese bilaterali o multilaterali.
 
-### Articolo 30
+## Articolo 30
 
 Altre misure: attuazione della Convenzione per mezzo dello sviluppo economico e dell'assistenza tecnica
 
@@ -914,7 +914,7 @@ Altre misure: attuazione della Convenzione per mezzo dello sviluppo economico e 
 
 4\. Gli Stati Parti possono concludere accordi o intese bilaterali o multilaterali sull'assistenza materiale e logistica, prendendo in considerazione le intese finanziarie necessarie ad attuare la cooperazione internazionale prevista dalla presente Convenzione affinche' essa sia efficace nella prevenzione, identificazione e contrasto al crimine organizzato transnazionale.
 
-### Articolo 31
+## Articolo 31
 
 Prevenzione
 
@@ -946,7 +946,7 @@ Prevenzione
 
 6\. Ciascuno Stato Parte informa il Segretario Generale delle Nazioni Unite circa il nome e l'indirizzo dell'autorita' o delle autorita' che possono assistere altri Stati Parte nello sviluppare misure atte a prevenire la criminalita' transnazionale organizzata. 7 Gli Stati Parte, come opportuno, collaboreranno reciprocamente e con le rilevanti organizzazioni internazionali e organizzazioni regionali, nel promuovere e sviluppare le misure di cui nel presente articolo. Cio' include la partecipazione a progetti internazionali volti a prevenire il crimine transnazionale organizzato, ad esempio alleviando le circostanze che rendono gruppi socialmente emarginati vulnerabili all'azione della criminalita' transnazionale organizzata.
 
-### Articolo 32
+## Articolo 32
 
 Conferenza delle Parti alla Convenzione
 
@@ -972,7 +972,7 @@ Convenzione
 
 5\. Ciascuno Stato Parte fornisce alla Conferenza delle Parti le informazioni sui propri programmi, piani e prassi, come pure le misure legislative e amministrative adottate per attuare la presente Convenzione, come richiesto dalla Conferenza delle Parti.
 
-### Articolo 33
+## Articolo 33
 
 Segretariato
 
@@ -988,7 +988,7 @@ Segretariato
 
 (c) assicura il necessario coordinamento con i segretariati delle competenti organizzazioni regionali ed internazionali.
 
-### Articolo 34
+## Articolo 34
 
 Attuazione della Convenzione
 
@@ -998,7 +998,7 @@ Attuazione della Convenzione
 
 3\. Ciascuno Stato Parte puo' adottare misure piu' rigide o severe di quelle previste dalla presente Convenzione per prevenire e combattere la criminalita' organizzata transnazionale.
 
-### Articolo 35
+## Articolo 35
 
 Soluzione delle controversie
 
@@ -1010,7 +1010,7 @@ Soluzione delle controversie
 
 4\. Ogni Stato Parte che abbia fatto una riserva conformemente al paragrafo 3 di questo articolo puo' in qualsiasi momento revocare la riserva mediante notifica al Segretario Generale delle Nazioni Unite.
 
-### Articolo 36
+## Articolo 36
 
 Firma, ratifica, accettazione, approvazione ed adesione
 
@@ -1024,7 +1024,7 @@ Tale organizzazione inoltre informera' il depositario di ogni rilevante modifica
 
 4\. La presente Convenzione e' aperta all'adesione di ogni Stato o, organizzazione regionale d'integrazione economica di cui almeno uno Stato membro sia Parte di questa Convenzione. Gli strumenti di adesione devono essere depositati presso il Segretario Generale delle Nazioni Unite. Un'organizzazione regionale d'integrazione economica al momento della sua adesione deve dichiarare l'ambito della. sua competenza con riferimento alle materie regolamentate da questa Convenzione. Tele organizzazione deve anche informare il depositario di qualsiasi modifica rilevante dell'ambito della sua competenza.
 
-### Articolo 37
+## Articolo 37
 
 Relazione con i Protocolli
 
@@ -1036,7 +1036,7 @@ Relazione con i Protocolli
 
 4\. Ciascun protocollo aggiuntivo di questa Convenzione deve essere interpretato,unitamente a questa Convenzione, tenendo in considerazione gli scopi di quel protocollo.
 
-### Articolo 38
+## Articolo 38
 
 Entrata in vigore
 
@@ -1044,7 +1044,7 @@ Entrata in vigore
 
 2\. Nei confronti di ciascuno Stato o organizzazione regionale d'integrazione economica che ratifichi, accetti, approvi o aderisca alla presente Convenzione dopo il deposito del quarantesimo strumento di detto atto, tale Convenzione entra in vigore il trentesimo giorno dalla data di deposito, da parte di detto Stato o organizzazione, del rispettivo strumento.
 
-### Articolo 39
+## Articolo 39
 
 Modifica
 
@@ -1058,7 +1058,7 @@ Modifica
 
 5\. Nel momento della sua entrata in vigore, la modifica sara' vincolante per quegli Stati Parte che hanno manifestato il proprio consenso ad essere sottoposti al vincolo alla stessa. Gli altri Stati Parte restano vincolati dalle disposizioni della presente Convenzione e di ogni modifica anteriore ratificata, accettata o approvata dagli stessi.
 
-### Articolo 40
+## Articolo 40
 
 Denuncia
 
@@ -1068,7 +1068,7 @@ Denuncia
 
 3\. La denuncia della presente Convenzione in virtu' del paragrafo 1 del presente articolo comporta inoltre la denuncia di ogni protocollo aggiuntivo.
 
-### Articolo 41
+## Articolo 41
 
 Depositario e lingue
 
@@ -1106,7 +1106,7 @@ Convinti che il fatto di annettere alla Convenzione delle Nazioni Unite contro l
 
 Hanno convenuto quanto segue:
 
-### Articolo 1
+## Articolo 1
 
 Relazioni con la Convenzione delle Nazioni Unite contro la criminalita' transnazionale organizzata
 
@@ -1116,7 +1116,7 @@ Relazioni con la Convenzione delle Nazioni Unite contro la criminalita' transnaz
 
 3\. I reati determinati in conformita' all'articolo 5 del presente Protocollo sono considerati reati determinati in conformita' alla Convenzione.
 
-### Articolo 2
+## Articolo 2
 
 Oggetto
 
@@ -1128,7 +1128,7 @@ b) proteggere ed assistere le vittime di tale tratta nel pieno rispetto dei loro
 
 c) promuovere la cooperazione fra gli Stati Parte al fine di conseguire tali obiettivi.
 
-### Articolo 3
+## Articolo 3
 
 Terminologia
 
@@ -1140,13 +1140,13 @@ c) il reclutamento, il trasporto, l'alloggiamento o l'accoglienza di un fanciull
 
 (d) il termine "fanciullo" significa qualsiasi persona di eta' inferiore a diciotto anni.
 
-### Articolo 4
+## Articolo 4
 
 Portata di applicazione
 
 Il presente Protocollo si applichera', salvo disposizione contraria, alla prevenzione, alle investigazioni ed ai procedimenti concernenti i reati stabiliti in conformita' all'articolo 5 del presente Protocollo, quando tali reati sono di natura transnazionali e vi e' implicato un gruppo criminale organizzato, nonche' alla protezione delle vittime di tali reati.
 
-### Articolo 5
+## Articolo 5
 
 Incriminazione
 
@@ -1164,7 +1164,7 @@ stabilito in conformita' al paragrafo 1 del presente articolo; e
 
 ## II. Protezione delle vittime del tratta di persone
 
-### Articolo 6
+## Articolo 6
 
 Assistenza e proiezione concesse alle vittime della tratta di persone
 
@@ -1192,7 +1192,7 @@ b) un'assistenza per fare in modo che i loro pareri e le loro preoccupazioni sia
 
 6\. Ciascun Stato Parte si accerta che il suo ordinamento giuridico interno preveda misure che offrono alle vittime della tratta di persone la possibilita' di ottenere un risarcimento del danno subito.
 
-### Articolo 7
+## Articolo 7
 
 Status delle vittime della tratta di persone negli Stati di accoglienza
 
@@ -1200,7 +1200,7 @@ Status delle vittime della tratta di persone negli Stati di accoglienza
 
 2\. Nell'applicare la disposizione del paragrafo 1 del presente articolo, ciascuno Stato Parte terra' debitamente conto dei fattori umanitari e personali.
 
-### Articolo 8
+## Articolo 8
 
 Rimpatrio delle vittime della tratta di persone
 
@@ -1218,7 +1218,7 @@ Rimpatrio delle vittime della tratta di persone
 
 ## III. Prevenzione, cooperazione ed altre misure.
 
-### Articolo 9
+## Articolo 9
 
 Prevenzione della tratta delle persone
 
@@ -1236,7 +1236,7 @@ b) proteggere le vittime della tratta di persone, in particolare le donne ed i f
 
 5\. Gli Stati Parti adotteranno o rafforzeranno misure legislative o altri provvedimenti come le misure in materia d'istruzione, di natura sociale o culturale, in particolare per mezzo di una cooperazione bilaterale e multilaterale, al fine di scoraggiare una domanda che favorisca le forme di sfruttamento delle persone, in particolare di donne e di bambini, e che sfoci nella tratta di persone.
 
-### Articolo 10
+## Articolo 10
 
 Scambio d'informazioni e formazione
 
@@ -1252,7 +1252,7 @@ c) I mezzi ed i metodi utilizzati dai gruppi criminali organizzati per la tratta
 
 3\. Lo Stato Parte che riceve informazioni si attiene a qualsiasi condizione dello Stato Parte, il quale le ha trasmesse prevedendo delle restrizioni per il loro uso.
 
-### Articolo 11
+## Articolo 11
 
 Misure di confine
 
@@ -1268,7 +1268,7 @@ Misure di confine
 
 6\. Fatto salvo l'articolo 27 della Convenzione, gli Stati Parte prevedono di rafforzare la cooperazione fra i loro servizi di controllo alle frontiere, in particolare mediante l'istituzione ed il mantenimento di vie di comunicazione dirette.
 
-### Articolo 12
+## Articolo 12
 
 Sicurezza e controllo dei documenti
 
@@ -1278,7 +1278,7 @@ a) per fare in modo che i documenti di viaggio o d'identita' che rilascia siano 
 
 b) per garantire l'integrita' e la sicurezza dei documenti di viaggio o d'identita' da esso rilasciati o a suo nome, e per impedire che siano creati, rilasciati e utilizzati indebitamente.
 
-### Articolo 13
+## Articolo 13
 
 Legittimita' e validita' dei documenti
 
@@ -1286,7 +1286,7 @@ Su richiesta di un altro Stato Parte, uno Stato Parte verifica, conformemente al
 
 ## IV. Disposizioni finali
 
-### Articolo 14
+## Articolo 14
 
 Clausola di salvaguardia
 
@@ -1296,7 +1296,7 @@ Clausola di salvaguardia
 
 L'interpretazione e l'applicazione di queste misure sono conformi ai principi di non-discriminazione internazionalmente riconosciuti.
 
-### Articolo 15
+## Articolo 15
 
 Soluzione delle controversie
 
@@ -1308,7 +1308,7 @@ Soluzione delle controversie
 
 4\. Qualsiasi Stato Parte che ha formulato una riserva ai sensi del paragrafo 3 del presente articolo puo' ritirarla in qualsiasi momento, indirizzando una notifica al Segretario Generale dell'Organizzazione delle Nazioni Unite.
 
-### Articolo 16
+## Articolo 16
 
 Firma, ratifica, accettazione, approvazione ed adesione
 
@@ -1320,7 +1320,7 @@ Firma, ratifica, accettazione, approvazione ed adesione
 
 4\. Il presente Protocollo e' aperto all'adesione di ogni Stato o organizzazione regionale d'integrazione economica di cui almeno uno Stato membro e' Parte del presente Protocollo. Gli strumenti di adesione sono depositati presso il Segretario Generale dell'Organizzazione delle Nazioni Unite. Al momento della sua adesione, l'organizzazione regionale d'integrazione economica dichiara la portata della sua competenza per quanto concerne le questioni regolamentate dal presente Protocollo. Essa inoltre informa il depositario di ogni rilevante modifica della portata della sua competenza.
 
-### Articolo 17
+## Articolo 17
 
 Entrata in vigore
 
@@ -1328,7 +1328,7 @@ Entrata in vigore
 
 2\. Per ciascuno Stato o organizzazione regionale d'integrazione economica che ratifica, accetta, approva o aderisce al presente Protocollo dopo il deposito del quarantesimo strumento pertinente, il presente Protocollo entrera' in vigore il trentesimo giorno successivo alla data di deposito da parte di tale Stato o organizzazione dello strumento rilevante, oppure alla data in cui quest'ultimo entra in vigore in applicazione del presente articolo, se questa data e' posteriore.
 
-### Articolo 18
+## Articolo 18
 
 Emendamento
 
@@ -1344,7 +1344,7 @@ Queste organizzazioni non esercitano il loro diritto di voto se i loro Stati Mem
 
 5\. Un emendamento entrato in vigore e' vincolante riguardo agli Stati Parte che hanno espresso il loro consenso a farne parte. Gli altri Stati Parte rimangono vincolati dalle disposizioni del presente Protocollo e da tutti i precedenti emendamenti che essi hanno ratificato, accettato o approvato.
 
-### Articolo 19
+## Articolo 19
 
 Denuncia
 
@@ -1352,7 +1352,7 @@ Denuncia
 
 2\. Un'organizzazione regionale d'integrazione economica cessa di essere Parte del presente Protocollo quando tutti i suoi Stati membri lo hanno denunciato.
 
-### Articolo 20
+## Articolo 20
 
 Depositario e lingue
 
@@ -1390,7 +1390,7 @@ Convinti che il fatto di allegare alla Convenzione delle Nazioni Unite contro la
 
 Hanno convenuto quanto segue:
 
-### Articolo primo
+## Articolo primo
 
 Relazione con la Convenzione delle Nazioni Unite contro la criminalita' transnazionale organizzata
 
@@ -1400,13 +1400,13 @@ Relazione con la Convenzione delle Nazioni Unite contro la criminalita' transnaz
 
 3\. I reati determinati in conformita' all'articolo 5 del presente Protocollo sono considerati reati stabiliti in conformita' alla Convenzione.
 
-### Articolo 2
+## Articolo 2
 
 Oggetto
 
 Il presente Protocollo ha come oggetto quello di promuovere, agevolare e rafforzare la cooperazione fra gli Stati Parti, al fine di prevenire, combattere e sradicare la fabbricazione ed il traffico illecito delle armi da fuoco, delle loro parti, dei loro elementi e delle loro munizioni.
 
-### Articolo 3
+## Articolo 3
 
 Terminologia
 
@@ -1432,7 +1432,7 @@ e) l'espressione " traffico illecito" significa l'importazione, l'esportazione, 
 
 f) il termine "pedinamento" significa il controllo sistematico del percorso delle armi da fuoco e, se possibile, delle loro parti, elementi e munizioni dal fabbricante all'acquirente, al fine di aiutare le autorita' competenti degli Stati parti ad individuare ed analizzare la fabbricazione ed il traffico illecito e ad effettuare investigazioni
 
-### Articolo 4
+## Articolo 4
 
 Portata d'applicazione
 
@@ -1440,7 +1440,7 @@ Portata d'applicazione
 
 2\. Il presente Protocollo non si applica alle transazioni fra Stati o ai trasferimenti di uno Stato qualora la sua applicazione dovesse pregiudicare il diritto di uno Stato Parte di adottare nell'interesse della sicurezza nazionale, misure compatibili con lo Statuto delle Nazioni Unite.
 
-### Articolo 5
+## Articolo 5
 
 Incriminazione
 
@@ -1460,7 +1460,7 @@ paragrafo 1 del presente articolo o di rendersene complice; e
 
 b) il fatto di organizzare, dirigere, aiutare, facilitare, incoraggiare, favoreggiare per mezzo di un aiuto o di consigli, la perpetrazione di un reato stabilito conformemente al paragrafo I del presente articolo.
 
-### Articolo 6
+## Articolo 6
 
 Confisca, sequestro e uso
 
@@ -1470,7 +1470,7 @@ Confisca, sequestro e uso
 
 ## II. Prevenzione
 
-### Articolo 7
+## Articolo 7
 
 Conservazione delle informazioni
 
@@ -1480,7 +1480,7 @@ a) i marchi appropriati richiesti in forza dell'articolo 8 del presente Protocol
 
 b) nel caso di transazioni internazionali relative ad armi da fuoco, le parti, gli elementi e le munizioni di queste ultime, le date di rilascio e di scadenza delle licenze o autorizzazioni richieste, il paese di esportazione, il paese d'importazione, i paesi di transito, se del caso, ed il destinatario finale nonche' la descrizione e la quantita' degli articoli.
 
-### Articolo 8
+## Articolo 8
 
 Marcatura delle armi da fuoco
 
@@ -1494,7 +1494,7 @@ c) garantiscono, all'atto del trasferimento di un'arma da fuoco proveniente dall
 
 3\. Gli Stati Parti incoraggiano l'industria delle armi da fuoco ad elaborare misure per impedire che i marchi siano rimossi o alterati.
 
-### Articolo 9
+## Articolo 9
 
 Neutralizzazione delle armi da fuoco
 
@@ -1506,7 +1506,7 @@ b) prendere provvedimenti per, se del caso far verificare le misure di neutraliz
 
 c) prevedere, nell'ambito della verifica da parte dell'autorita' competente, il rilascio di un certificato o di un documento attestante la neutralizzazione dell'arma da fuoco o l'applicazione a tal fine di un marchio chiaramente visibile sull'arma da fuoco.
 
-### Articolo 10
+## Articolo 10
 
 Obblighi generali concernenti i sistemi di licenze o di autorizzazioni per l'esportazione, l'importazione ed il transito.
 
@@ -1526,7 +1526,7 @@ b) Gli Stati di transito abbiano almeno notificato per iscritto, prima dell'invi
 
 6\. Gli Stati Parte possono adottare procedure semplificate per l'importazione e l'esportazione temporanea e per il transito di armi da fuoco, di loro parti, elementi e munizioni, per tini legali verificabili come la caccia, il tiro sportivo, la perizia, l'esposizione o la riparazione.
 
-### Articolo 11
+## Articolo 11
 
 Misure di sicurezza e di prevenzione
 
@@ -1536,7 +1536,7 @@ a) per esigere la sicurezza delle armi da fuoco, di loro parti, elementi e muniz
 
 b) per accrescere l'efficacia dei controlli delle importazioni, delle esportazioni e del transito, ivi compresi, se del caso, dei controlli alle frontiere, nonche' l'efficacia della cooperazione transfrontaliera fra la polizia ed i servizi doganali.
 
-### Articolo 12
+## Articolo 12
 
 Informazioni
 
@@ -1558,7 +1558,7 @@ d) i dati di esperienza a carattere legislativo, nonche' le prassi e le misure v
 
 5\. Fatti salvi i concetti fondamentali del suo ordinamento giuridico o di altri accordi internazionali, ogni Stato Parte che riceve informazioni da un altro Stato Paste in applicazione del presente articolo, ivi comprese informazioni esclusive concernenti transazioni commerciali, garantisce la loro riservatezza e rispetta tutte le loro limitazioni d'uso se e' richiesto in tal senso dallo Stato Parte che le fornisce. Se tale riservatezza non puo' essere garantita, lo Stato Parte che ha fornito le informazioni ne e' avvisato prima che queste ultime siano divulgate.
 
-### Articolo 13
+## Articolo 13
 
 Cooperazione
 
@@ -1568,13 +1568,13 @@ Cooperazione
 
 3\. Gli Stati Parte si adoperano per ottenere l'appoggio e la cooperazione di fabbricanti, negozianti, importatori, esportatori, agenti venditori e trasportatori commerciali di armi da fuoco, nonche' di loro parti, elementi e munizioni, al fine di prevenire e individuare le attivita' illecite di cui al paragrafo 1 del presente articolo.
 
-### Articolo 14
+## Articolo 14
 
 Formazione professionale ed assistenza tecnica
 
 1\. Gli Stati Parte cooperano fra di loro e con le organizzazioni internazionali competenti, a seconda di come convenga, in modo da poter ottenere, su richiesta, la formazione e l'assistenza tecnica necessarie per migliorare la loro capacita' di prevenire, combattere e sradicare la fabbricazione ed i traffici illeciti di armi da fuoco, di loro parti, elementi e munizioni, ivi compresa un'assistenza tecnica, finanziaria e materiale per le questioni di cui agli articoli 29 e 30 della Convenzione.
 
-### Articolo 15
+## Articolo 15
 
 Agenti venditori e intermediazione
 
@@ -1594,7 +1594,7 @@ c) l'esigenza d'indicare, sulle licenze o autorizzazioni d'importazione e di esp
 
 ## III. Disposizioni finali
 
-### Articolo 16
+## Articolo 16
 
 Soluzione delle controversie
 
@@ -1606,7 +1606,7 @@ Soluzione delle controversie
 
 4\. Ogni Stato Parte che ha formulato una riserva in forza del paragrafo 3 del presente articolo puo' ritirarla in qualsiasi momento, indirizzando una notifica al Segretario Generale dell'Organizzazione delle Nazioni Unite.
 
-### Articolo 17
+## Articolo 17
 
 Firma, ratifica, accettazione, approvazione ed adesione
 
@@ -1618,7 +1618,7 @@ Firma, ratifica, accettazione, approvazione ed adesione
 
 4\. Il presente Protocollo e' aperto all'adesione di ogni Stato o di ogni organizzazione regionale d'integrazione economica di cui almeno uno Stato membro fa parte del presente Protocollo. Gli strumenti di adesione sono depositati presso il Segretario Generale dell'Organizzazione delle Nazioni Unite. Al momento della sua adesione, un'organizzazione regionale d'integrazione economica dichiara la portata della sua competenza relativamente alle questioni regolamentate dal presente Protocollo. Essa informa altresi' il depositario di ogni modifica rilevante della portata della sua competenza.
 
-### Articolo 18
+## Articolo 18
 
 Entrata in vigore
 
@@ -1626,7 +1626,7 @@ Entrata in vigore
 
 2\. Per ogni Stato o organizzazione regionale d'integrazione economica che ratifichera', accettera' o approvera' il presente Protocollo o che vi aderira' dopo il deposito del quarantesimo strumento pertinente, il presente Protocollo entrera' in vigore il trentesimo giorno successivo alla data di deposito dello strumento rilevante da parte di detto Stato o di detta organizzazione, o alla data in cui esso entra in vigore in applicazione del paragrafo 1 del presente articolo, se quest'ultima data e' posteriore.
 
-### Articolo 19
+## Articolo 19
 
 Emendamento
 
@@ -1642,7 +1642,7 @@ Esse non esercitano il loro diritto di voto se i loro Stati membri esercitano il
 
 5\. Un emendamento entrato in vigore ha valenza obbligatoria nei confronti degli Stati Parte che hanno espresso il loro consenso ad esserne vincolati. Gli altri Stati Parte rimangono vincolati dalle disposizioni del presente Protocollo e da tutti gli emendamenti precedenti da essi ratificati, accettati o approvati.
 
-### Articolo 20
+## Articolo 20
 
 Denuncia
 
@@ -1650,7 +1650,7 @@ Denuncia
 
 2\. Un'organizzazione regionale d'integrazione economica cessa di essere Parte del presente Protocollo quando tutti i suoi Stati membri hanno denunciato quest'ultimo.
 
-### Articolo 21
+## Articolo 21
 
 Depositario e lingue
 
@@ -1690,7 +1690,7 @@ Convinti del fatto che l'integrazione della Convenzione contro la criminalita' t
 
 Hanno convenuto quanto segue:
 
-### Articolo 1
+## Articolo 1
 
 Relazione con la Convenzione delle Nazioni Unite contro la Criminalita' Transnazionale Organizzata
 
@@ -1700,13 +1700,13 @@ Relazione con la Convenzione delle Nazioni Unite contro la Criminalita' Transnaz
 
 3\. I reati previsti conformemente all'articolo 6 del presente Protocollo sono considerati come reati previsti ai sensi della Convenzione.
 
-### Articolo 2
+## Articolo 2
 
 Scopo
 
 Lo scopo del presente Protocollo e' di prevenire e combattere il traffico di migranti, nonche' quello di promuovere la cooperazione fra gli Stati Parte a tal fine, tutelando al contempo i diritti dei migranti oggetto di traffico clandestino.
 
-### Articolo 3
+## Articolo 3
 
 Terminologia
 
@@ -1730,19 +1730,19 @@ iii) che e' utilizzato da una persona diversa dal legittimo titolare;
 
 (d) "Nave" indica qualsiasi tipo di veicolo acquatico, compresi i veicoli senza pescaggio e gli idrovolanti, utilizzati o suscettibili di essere utilizzati come mezzo di trasporto sull'acqua, eccetto navi da guerra, navi da guerra ausiliarie o altre navi appartenenti o gestite da un Governo fintantoche' utilizzate per un servizio pubblico non commerciale.
 
-### Articolo 4
+## Articolo 4
 
 Portata di applicazione
 
 Il presente Protocollo si applica, salvo disposizione contraria, alla prevenzione, alle attivita' d'indagine ed al perseguimento dei reati previsti ai sensi dell'art. 6 del presente Protocollo, nei casi in cui tali reati sono di natura transnazionale e coinvolgono un gruppo criminale organizzato, nonche' alla protezione dei diritti dei migranti oggetto di traffico clandestino.
 
-### Articolo 5
+## Articolo 5
 
 Responsabilita' penale dei migranti
 
 I migranti non diventano assoggettati all'azione penale fondata sul presente Protocollo per il fatto di essere stati oggetto delle condotte di cui all'articolo 6.
 
-### Articolo 6
+## Articolo 6
 
 Penalizzazione
 
@@ -1778,13 +1778,13 @@ pericolo, la vita o l'incolumita' dei migranti coinvolti; o
 
 ## II. Traffico di migranti via mare
 
-### Articolo 7
+## Articolo 7
 
 Cooperazione
 
 Gli Stati Parti cooperano nella maniera piu' ampia per prevenire e reprimere il traffico di migranti via mare, ai sensi del diritto internazionale del mare.
 
-### Articolo 8
+## Articolo 8
 
 Misure contro il traffico di migranti via mare.
 
@@ -1810,7 +1810,7 @@ Tale designazione deve essere notificata tramite il Segretario Generale, a tutti
 
 7\. Uno Stato Parte che ha ragionevoli motivi per sospettare che una nave e' coinvolta nel traffico di migranti via mare, e che questa e' senza nazionalita', o puo' essere assimilata ad una nave senza nazionalita', puo' fermare ed ispezionare la nave. Se il sospetto e' confermato da prove, detto Stato parte prende misure opportune, conformemente al relativo diritto interno ed internazionale.
 
-### Articolo 9
+## Articolo 9
 
 Clausole di salvaguardia
 
@@ -1838,7 +1838,7 @@ b) l'autorita' dello Stato di bandiera ad esercitare la giurisdizione ed il cont
 
 ## III. Misure di prevenzione, di cooperazione e altre misure
 
-### Articolo 10
+## Articolo 10
 
 Informazione
 
@@ -1858,7 +1858,7 @@ f) le informazioni di carattere tecnologico e scientifico utili alle autorita' d
 
 2\. Uno Stato Parte che riceve informazioni assente ad ogni richiesta da parte dello Stato Parte che ha trasmesso le informazioni che pone restrizioni sul loro utilizzo.
 
-### Articolo 11
+## Articolo 11
 
 Misure di frontiera
 
@@ -1874,7 +1874,7 @@ Misure di frontiera
 
 6\. Fatto salvo l'articolo 27 della Convenzione, gli Stati Parte prendono in considerazione il rafforzamento della cooperazione tra gli organismi di controllo delle frontiere tramite, tra le altre misure, la costituzione ed il mantenimento di canali diretti di comunicazione.
 
-### Articolo 12
+## Articolo 12
 
 Sicurezza e controllo dei documenti
 
@@ -1886,13 +1886,13 @@ falsificati o illegalmente modificati, duplicati o rilasciati; e
 
 (b) assicurare l'integrita' e la sicurezza dei documenti di viaggio o di identita' rilasciati da o per conto dello Stato Parte e per impedire che siano creati, rilasciati ed utilizzati illegalmente.
 
-### Articolo 13
+## Articolo 13
 
 Legittimita' e validita' dei documenti
 
 Su richiesta di un altro Stato Parte, uno Stato Parte, in conformita' con il proprio diritto interno, verifica entro un lasso di tempo ragionevole, la legittimita' e la validita' dei documenti di viaggio o di identita' rilasciati o che si presume siano stati rilasciati in suo nome e sospettati di essere utilizzati per la condotta di cui all'art. 6 del presente Protocollo.
 
-### Articolo 14
+## Articolo 14
 
 Formazione e cooperazione tecnica
 
@@ -1914,7 +1914,7 @@ e) il trattamento umano dei migranti e la tutela dei loro diritti, come stabilit
 
 3\. Gli Stati Parte con esperienza nel settore prendono in considerazione di fornire assistenza tecnica agli Stati che sono frequentemente utilizzati come paesi di origine o di transito per il traffico di migranti. Gli Stati Parte fanno il possibile per fornire le risorse necessarie, come ad esempio mezzi, sistemi informatizzati e lettori di documenti, per combattere il traffico di migranti.
 
-### Articolo 15
+## Articolo 15
 
 Altre misure di prevenzione
 
@@ -1924,7 +1924,7 @@ Altre misure di prevenzione
 
 3\. Ciascuno Stato parte promuove o rafforza, a seconda dei casi, programmi di sviluppo ed la cooperazione a livello nazionale, regionale ed internazionale, prendendo in considerazione le realta' socio-economiche della migrazione e prestando particolare attenzione alle zone socialmente ed economicamente depresse, al fine di combattere le cause di carattere socio-economiche che sono alla base del traffico di migranti, come la poverta' ed il sottosviluppo.
 
-### Articolo 16
+## Articolo 16
 
 Misure di tutela e di assistenza
 
@@ -1948,7 +1948,7 @@ suo cittadino o che ha il diritto di residenza permanente
 
 sul suo territorio al momento del ritorno.
 
-### Articolo 17
+## Articolo 17
 
 Intese e Accordi
 
@@ -1962,7 +1962,7 @@ combattere gli atti enunciati all'articolo 6 del presente Protocollo; oppure
 
 b) Rafforzare tra loro le disposizioni del presente Protocollo
 
-### Articolo 18
+## Articolo 18
 
 Ritorno dei migranti oggetto di traffico
 
@@ -2000,7 +2000,7 @@ sensi di qualsiasi altro trattato applicabile, bilaterale o multilaterale, o qua
 
 ## IV. Disposizioni finali
 
-### Articolo 19
+## Articolo 19
 
 Clausola di salvaguardia
 
@@ -2018,7 +2018,7 @@ applicate in modo non discriminatorio alle persone sulla base del fatto che sono
 
 (3) Ibid., vol. 606, n° 8791
 
-### Articolo 20
+## Articolo 20
 
 Composizione delle controversie
 
@@ -2030,7 +2030,7 @@ Composizione delle controversie
 
 4\. Qualsiasi Stato Parte che abbia espresso una riserva ai sensi del paragrafo 3 del presente articolo puo', in qualunque momento, ritirare detta riserva tramite notifica al Segretario Generale delle Nazioni Unite.
 
-### Articolo 21
+## Articolo 21
 
 Firma, ratifica, accettazione, approvazione ed adesione
 
@@ -2042,7 +2042,7 @@ Firma, ratifica, accettazione, approvazione ed adesione
 
 4\. Il presente Protocollo e' aperto per l'adesione da parte di qualsiasi Stato o organizzazione regionale d'integrazione economica di cui almeno uno Stato membro e' Parte del presente Protocollo. Gli strumenti di adesione vengono depositati presso il Segretario Generale delle Nazioni Unite. Al momento della sua adesione, una organizzazione regionale d'integrazione economica dichiara la portata della sua competenza in relazione alle questioni disciplinate dal presente Protocollo. Essa informa anche il depositario in relazione a qualsiasi modifica pertinente della portata della sua competenza.
 
-### Articolo 22
+## Articolo 22
 
 Entrata in vigore
 
@@ -2050,7 +2050,7 @@ Entrata in vigore
 
 2\. Per ogni Stato o organizzazione regionale d'integrazione economica che ratifichera', accettera' o approvera' il presente Protocollo o che vi aderira' dopo il deposito del quarantesimo strumento relativo, il presente Protocollo entrera' in vigore il trentesimo giorno successivo alla data del deposito da parte di detto Stato o organizzazione dello strumento pertinente o alla data in cui il presente Protocollo entra in vigore ai sensi del paragrafo 1 del presente articolo, a seconda della data successiva.
 
-### Articolo 23
+## Articolo 23
 
 Emendamento
 
@@ -2064,7 +2064,7 @@ Emendamento
 
 5\. Quando un emendamento entra in vigore, e' vincolante per gli Stati Parte che hanno espresso il proprio consenso ad essere vincolati da esso. Gli altri Stati Parte restano vincolati dalle disposizioni del presente Protocollo e degli emendamenti precedenti che hanno ratificato, accettato o approvato.
 
-### Articolo 24
+## Articolo 24
 
 Denuncia
 
@@ -2072,7 +2072,7 @@ Denuncia
 
 2\. Una organizzazione regionale d'integrazione economica cessa di essere Parte al presente Protocollo quando tutti i suoi Stati membri lo hanno denunciata.
 
-### Articolo 25
+## Articolo 25
 
 Depositario e lingue
 

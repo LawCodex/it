@@ -28,7 +28,7 @@ la seguente legge:
 
 ## TITOLO I - Costruzione di case popolari
 
-#### Art. 1
+### Art. 1
 
 Per la concessione dei contributi in annualita' da parte dello Stato agli enti e societa' che ai sensi del testo unico 28 aprile 1938, n. 1165, sull'edilizia popolare ed economica, costruiscono case popolari, il Ministero dei lavori pubblici e' autorizzato ad assumere i seguenti impegni:
 
@@ -52,7 +52,7 @@ AGGIORNAMENTO (3)
 
 La L. 19 ottobre 1951, n. 1186 ha disposto (con l'art. 1) che "In aggiunta al limite d'impegni, previsto dall'art. 1 della legge 2 luglio 1949, n. 408, modificato dall'art. 1 della legge 22 giugno 1950, n. 471, e' fissato un ulteriore limite di lire 1.500.000.000, entro il quale il Ministero dei lavori pubblici e' autorizzato a concedere, nell'esercizio finanziario 1951-52, ai sensi del testo unico 28 aprile 1938, n. 1165, sulla edilizia popolare ed economica e successive modificazioni ed integrazioni, contributi in annualita' agli enti e societa', previsti dalle citate disposizioni, che costruiscono case popolari".
 
-#### Art. 2
+### Art. 2
 
 All'art. 16 del testo unico 28 aprile 1938, n. 1165, sono aggiunti i seguenti numeri:
 
@@ -66,13 +66,13 @@ All'art. 16 del testo unico 28 aprile 1938, n. 1165, sono aggiunti i seguenti nu
 
 14\) le scuole e gli istituti governativi di istruzione tecnica e le scuole governative di avviamento professionale, che si propongano di costruire, sui terreni di loro proprieta', case da locare ai propri dipendenti".
 
-#### Art. 3
+### Art. 3
 
 Le case popolari costruite dagli enti e societa' indicate ai numeri 2, 3, 6, 10, 11 e 12 dell'art. 16 del testo unico 28 aprile 1938, n. 1165, possono essere assegnate in locazione con patto di futura vendita previa autorizzazione del Ministero dei lavori pubblici e con l'osservanza delle cautele e condizioni che dallo stesso Ministero saranno prescritte ai sensi degli articoli 34 e 42 dello stesso testo unico.
 
 Per le locazioni con patto di futura vendita saranno osservate le disposizioni del testo unico 28 aprile 1938, n. 1165, e quelle degli articoli 2 e 3 del decreto legislativo 17 aprile 1948, n. 1029.
 
-#### Art. 4
+### Art. 4
 
 All'art. 31 del testo unico 28 aprile 1938, n. 1165, e' sostituito il seguente:
 
@@ -84,7 +84,7 @@ Le stesse esclusioni sono stabilite per le persone il cui coniuge non separato l
 
 L'art. 100 del testo unico 28 aprile 1938, n. 1165, e' abrogato.
 
-#### Art. 5
+### Art. 5
 
 L'art. 48 del testo unico 28 aprile 1938, n. 1165 modificato dalla legge 25 marzo 1943, n. 290, e sostituito dal seguente:
 
@@ -118,13 +118,13 @@ Per le famiglie composte da piu' di sette membri puo' essere consentito l'aument
 
 Le case popolari costruite da industriali, da proprietari o conduttori di terre per i propri dipendenti, impiegati, operai, coltivatori, oltre che date in affitto, possono essere ai medesimi vendute in ammortamento semplice o assicurativo, in quanto ogni alloggio abbia la composizione di cui al n. 1 del presente articolo".
 
-#### Art. 6
+### Art. 6
 
 Il primo comma dell'art. 90 del testo unico 28 aprile 1938, n. 1165, e' sostituito dal seguente:
 
 "Le cooperative che non siano costituite esclusivamente fra soci appartenenti alle categorie di cui all'art. 91 e che abbiano ottenuto il contributo erariale nel pagamento degli interessi, possono costruire ed acquistare case popolari ed economiche soltanto a proprieta' indivisa e inalienabile. Nel caso di loro scioglimento le costruzioni debbono essere cedute ad istituti per case popolari. Le dette cooperative, col consenso degli istituti finanziatori e previa autorizzazione del Ministero dei lavori pubblici, possono trasformarsi in cooperative a proprieta' individuale quando siano trascorsi dieci anni dalla data di assegnazione di ciascun fabbricato da esse costruito".
 
-#### Art. 7
+### Art. 7
 
 La Cassa, depositi e prestiti e' autorizzata a concedere mutui per costruzione di case per le quali sia stato concesso il contributo dello Stato a norma della presente legge, anche all'Istituto nazionale di previdenza dei giornalisti italiani e alle societa' cooperative composte da giornalisti professionisti, mediante cessione alla Gassa stessa di non oltre la meta' del contributo dovuto dallo Stato all'Istituto suindicato a termini dell'art. 4 della legge 7 aprile 1930, n. 456, e successive modificazioni.
 
@@ -132,7 +132,7 @@ La Cassa, depositi e prestiti e' autorizzata a concedere mutui per costruzione d
 
 La, Cassa depositi e prestiti e' altresi' autorizzata a concedere mutui per costruzioni di case per le quali sia stato concesso il contributo a norma della presente legge anche a societa' cooperative costituite fra dipendenti della Camera dei deputati e del Senato della Repubblica. Queste cooperative sono parificate anche ad ogni altro effetto a quelle costituite fra impiegati civili di ruolo dello Stato.
 
-#### Art. 8
+### Art. 8
 
 Per i mutui che la Cassa depositi e prestiti concedera' in esecuzione della presente legge gli interessati potranno prestare garanzia alla Cassa mutuante mediante ipoteca di 1° grado e col contributo dello stato di cui all'art. 1 della presente legge, oppure nei modi e nelle forme previsti all'art. 4 del testo unico 28 aprile 1938, n. 1165.
 
@@ -142,7 +142,7 @@ Il tasso di ammortamento sara' determinato in misura uniforme e ridotta con decr
 
 E' abrogato il n. 7) dell'art. 1 del regio decreto 3 giugno 1940, n. 1344, e riprendono vigore gli articoli 151, 153, 186, 190, 198, 284, 375 e 389 del testo unico 28 aprile 1938, n. 1165.
 
-#### Art. 9
+### Art. 9
 
 ((Le disposizioni dell'art. 111 del testo unico delle leggi sulla edilizia popolare ed economica, approvato con regio decreto 28 aprile 1938, n. 1165, si applicano a tutti gli alloggi costruiti dalle cooperative che usufruiscono dei concorsi o contributi dello Stato, sostituendosi l'ente mutuante alla Cassa depositi e prestiti per quanto concerne il consenso alle cessioni, nei casi in cui il mutuo per la costruzione sia concesso da altro ente)).
 
@@ -150,17 +150,17 @@ Gli alloggi di cui al precedente comma non possono essere ceduti o comunque alie
 
 Il primo comma dell'art. 113 del testo unico 28 aprile 1938, n. 165, e' abrogato.
 
-#### Art. 10
+### Art. 10
 
 Le attribuzioni e i poteri spettanti alla Commissione di vigilanza per l'edilizia popolare ed economica ai sensi degli articoli 131 e seguenti del testo unico 28 aprile 1938, n. 1165, sulle controversie ed eventuali abusi ed irregolarita' relative alle assegnazioni di alloggi costruiti da cooperative edilizie a contributo dello Stato sono estese alle controversie attinenti alle assegnazioni con patto di futura vendita degli alloggi costruiti da tutti gli altri enti e societa' che usufruiscano di concorsi o contributi dello Stato.
 
 La disposizione del comma precedente non si estende alle controversie indicate nell'ultimo comma dell'art. 131 del citato testo unico.
 
-#### Art. 11
+### Art. 11
 
 Le disposizioni del decreto legislativo 8 maggio 1947, n. 399, e del decreto legislativo 22 dicembre 1947, n. 1600, potranno continuare ad essere applicate soltanto per le costruzioni di edifici per i quali siano stati o siano concessi contributi, concorsi e premi di incoraggiamento, a carico delle spese autorizzate con i decreti legislativi succitati nonche' con il decreto legislativo 24 marzo 1948, n. 212, ed il decreto legislativo 17 aprile 1948, n. 1029.
 
-#### Art. 12
+### Art. 12
 
 Le case per alloggio di senza tetto costruite in concessione, ai sensi dell'art. 5, n. 2, del testo unico 10 aprile 1947, n. 261, e quelle costruite direttamente a cura del Ministero dei lavori pubblici e date in gestione agli Istituti di case popolari od ai Comuni, ai sensi dell'art. 55 dello stesso testo unico, possono essere cedute in proprieta' agli Istituti e Comuni che ne hanno la gestione, a condizione che detti enti eseguano nuove costruzioni per un importo equivalente alla spesa sostenuta, per la costruzione delle case cedute quale risulta accertato dal Ministero dei lavori pubblici.
 
@@ -170,11 +170,9 @@ Il passaggio di proprieta' e' effettuato in base a decreto del Ministro per i la
 
 Avvenuta la cessione, tanto le case cedute che quelle di nuova costruzione, possono essere assegnate in locazione semplice o con patto di futura vendita e riscatto a norma del decreto legislativo 8 maggio 1947, n. 399, integrato con i decreti legislativi 22 dicembre 1947, n. 1600 e 17 aprile 1948, n. 1029.
 
-## TITOLO II - Agevolazioni fiscali e tributarie per la costruzione di case di
+## TITOLO II - Agevolazioni fiscali e tributarie per la costruzione di case di abitazione
 
-### abitazione
-
-#### Art. 13
+### Art. 13
 
 Le case di abitazione, anche se comprendono uffici e negozi, che non abbiano il carattere di abitazione di lusso, la cui costruzione sia iniziata entro il 31 dicembre 1953 ed ultimata entro il biennio successivo all'inizio, saranno esenti per venticinque anni dall'imposta sui fabbricati e relative sovraimposte dalla data della dichiarazione di abitabilita'.
 
@@ -202,7 +200,7 @@ AGGIORNAMENTO (13)
 
 Il D.L. 11 dicembre 1967, n. 1150, convertito, con modificazioni, dalla L. 7 febbraio 1968, n. 26, ha disposto (con l'art. 5, comma 1) che "L'obbligo della ultimazione del fabbricato entro il biennio dall'inizio dei lavori di costruzione di cui agli articoli 13 e seguenti della legge 2 luglio 1949, n. 408 deve intendersi abolito, anche ai fini dell'applicazione dei benefici tributari in materia di tasse e imposte indirette sugli affari, con l'entrata in vigore della legge 2 febbraio 1960, n. 35".
 
-#### Art. 14
+### Art. 14
 
 Sono concessi il beneficio dell'imposta, fissa di registro e quello della riduzione al quarto dell'imposta ipotecaria per gli acquisti di aree edificabili e per i contratti di appalto, quando abbiano per oggetto la costruzione delle case di cui al precedente art. 13, purche' la costruzione sia iniziata, ed ultimata entro i termini stabiliti nello stesso art. 13.
 
@@ -224,7 +222,7 @@ La L. 27 dicembre 1956, n. 1416, come modificata dalla L. 10 dicembre 1957, n. 1
 
 Ha inoltre disposto che la suddetta modifica ha effetto dal 1° gennaio 1958.
 
-#### Art. 15
+### Art. 15
 
 E' concessa la esenzione dall'imposta di ricchezza mobile sulle anticipazioni fatte, per l'acquisto delle aree e per l'inizio delle costruzioni, dai soci alle cooperative edilizie delle quali facciano parte. ((12))
 
@@ -234,7 +232,7 @@ AGGIORNAMENTO (12)
 
 La L. 2 febbraio 1960, n. 35 ha disposto (con l'art. 2) che i termini per le agevolazioni previste in materia di ricchezza mobile dall'art. 15 della legge 2 luglio 1949, n. 408, e successive modificazioni, sono prorogati al 31 dicembre 1969.
 
-#### Art. 16
+### Art. 16
 
 E' concessa la esenzione dall'imposta, di consumo per i materiali impiegati nelle opere di costruzione delle case di cui alla presente legge, sempre quando la costruzione sia iniziata ed ultimata entro i termini stabiliti dal precedente art. 13.
 
@@ -260,7 +258,7 @@ La L. 27 dicembre 1956, n. 1416, come modificata dalla L. 10 dicembre 1957, n. 1
 
 Ha inoltre disposto che la suddetta modifica ha effetto dal 1° gennaio 1958.
 
-#### Art. 17
+### Art. 17
 
 Ai trasferimenti di case, costruite ai sensi dell'art. 13, che abbiano luogo entro quattro anni dalla dichiarazione di abitabilita' o dall'effettiva abitazione, e' accordata la riduzione alla meta' dell'imposta di registro e al quarto dell'imposta ipotecaria.
 
@@ -274,7 +272,7 @@ AGGIORNAMENTO (11)
 
 La L. 27 maggio 1959, n. 355 ha disposto (con l'art. 2, comma 1) che "Per i trasferimenti immobiliari di cui all'art. 17 della legge 2 luglio 1949, n. 408, l'imposta di registro e' dovuta in ragione di lire 2,50 per cento".
 
-#### Art. 18
+### Art. 18
 
 I contratti di mutuo stipulati per le costruzioni indicate nell'articolo precedente o per la prima, compravendita delle costruzioni stesse, se avvenga entro il quadriennio dal giorno in cui sono state dichiarate abitabili o siano state effettivamente abitate, sono assoggettati al pagamento delle imposte di registro od ipotecaria ridotte ad un quarto.
 
@@ -282,7 +280,7 @@ Gli interessi sulle somme mutuate sono esenti dall'imposta di ricchezza mobile.
 
 E' concesso il beneficio della registrazione a tassa fissa per gli atti di cessione dei contributi di cui all'art. 1.
 
-#### Art. 19
+### Art. 19
 
 Le disposizioni degli articoli precedenti si applicano anche all'ampliamento delle case di cui all'art. 13, nonche' alla ricostruzione di quelle comunque distrutte, quando l'ampliamento o la ricostruzione siano ultimati entro il 31 dicembre 1955. (1) (9) ((10))
 
@@ -308,7 +306,7 @@ La L. 27 dicembre 1956, n. 1416, come modificata dalla L. 10 dicembre 1957, n. 1
 
 Ha inoltre disposto che la suddetta modifica ha effetto dal 1° gennaio 1958.
 
-#### Art. 20
+### Art. 20
 
 Salvo il caso di forza maggiore, si decade dai benefici previsti nei precedenti articoli, qualora, le nuove costruzioni, le ricostruzioni o gli ampliamenti non siano stati compiuti ai sensi ed entro i termini fissati dall'art. 13 e dall'art. 19.
 
@@ -318,7 +316,7 @@ Nelle ipotesi previste nei precedenti commi e' dovuta, oltre le normali imposte,
 
 ## TITOLO III - Espropriazioni
 
-#### Art. 21
+### Art. 21
 
 Le disposizioni previste dagli articoli 46 e 47 del testo unico 28 aprile 1938, n. 1165, in materia di espropriazione e di occupazione di aree fabbricabili e terreni per la costruzione di case popolari, sono esteso a tutti gli enti e societa' di cui all'art. 16 dello stesso testo unico, e sono applicabili in qualsiasi Comune siano situati l'area e i terreni da espropriare e da occupare.
 
@@ -336,7 +334,7 @@ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122
 
 Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del comma 2 del presente articolo dal 1 gennaio 2002 al 30 giugno 2003.
 
-#### Art. 22
+### Art. 22
 
 Fino al 31 dicembre 1953 si puo' procedere, ai sensi e per gli effetti della legge 25 giugno 1865, n. 2359 e successive modificazioni, alle espropriazioni occorrenti per la costruzione di case di abitazione a carattere popolare, su iniziativa e per conto di privati o di enti non previsti dall'art. 16 del testo unico 28 aprile 1938, n. 1165, qualora la costruzione di case sia ritenuta, utile all'interesse generale.
 
@@ -360,17 +358,17 @@ Se il proprietario o l'espropriante non abbiano ultimati i lavori di costruzione
 
 ## TITOLO IV - Disposizioni finali
 
-#### Art. 23
+### Art. 23
 
 ((Il beneficio di cui al precedente art. 13 e' esteso alle costruzioni, agli ampliamenti e alle ricostruzioni che non siano di lusso e che non fruiscano del contributo dello Stato, la cui costruzione sia stata iniziata, dopo l'entrata in vigore del decreto legislativo luogotenenziale 24 aprile 1916, n. 350)).
 
-#### Art. 24
+### Art. 24
 
 Sono fatte salve le piu' favorevoli agevolazioni fiscali e tributarie consentite dalle leggi vigenti.
 
 La esenzione preveduta dall'art. 159, quarto comma del testo unico 28 aprile 1938, n. 1165, e' estesa anche ai contadini o lavoratori agricoli che siano proprietari di terreni, alla cui coltivazione attendono prevalentemente con il lavoro proprio o dei loro familiari.
 
-#### Art. 25
+### Art. 25
 
 La presente legge entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale.
 

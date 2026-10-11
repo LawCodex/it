@@ -39,7 +39,7 @@ COLOMBO
 
 Visto, il Guardasigilli: COLOMBO
 
-## TITOLO I - DISPOSIZIONI GENERALI
+### TITOLO I - DISPOSIZIONI GENERALI
 
 ALLEGATO
 
@@ -197,9 +197,7 @@ Istituto di ricerche e di studi
 
 La Regione istituisce un Istituto di ricerche e di studi, definendone, con legge regionale, la composizione, i compiti, l'organizzazione, i modi di partecipazione e gli strumenti di pubblicita'.
 
-## TITOLO II - ORDINAMENTO DELLA REGIONE
-
-### IL CONSIGLIO REGIONALE
+### TITOLO II - ORDINAMENTO DELLA REGIONE IL CONSIGLIO REGIONALE
 
 #### Sezione I - ORGANIZZAZIONE
 
@@ -327,7 +325,7 @@ Rappresentanza in giudizio
 
 La rappresentanza, il patrocinio e l'assistenza in giudizio della Regione, salvo nelle ipotesi di controversie con lo Stato, sono di norma richiesti all'Avvocatura dello Stato.
 
-## Sezione II - ATTRIBUZIONI
+#### Sezione II - ATTRIBUZIONI
 
 ##### Art. 31
 
@@ -411,11 +409,9 @@ Indennita'
 
 La legge regionale stabilisce l'entita' e i titoli delle indennita' ai Consiglieri regionali in relazione alle loro funzioni e attivita'.
 
-## TITOLO III - LA GIUNTA REGIONALE
+### TITOLO III - LA GIUNTA REGIONALE
 
-### Sezione I
-
-#### ORGANIZZAZIONE
+#### Sezione I - ORGANIZZAZIONE
 
 ##### Art. 38
 
@@ -483,7 +479,7 @@ La sospensione dura fino all'esito del giudizio penale e cessa immediatamente ne
 
 Le norme del presente articolo si applicano anche nei confronti dei componenti l'Ufficio di Presidenza.
 
-## Sezione II - ATTRIBUZIONI
+#### Sezione II - ATTRIBUZIONI
 
 ##### Art. 45
 
@@ -551,7 +547,7 @@ Vice Presidente della Giunta
 
 La Giunta provvede alla designazione del Vice Presidente con il compito di sostituire il Presidente in caso di assenza o di impedimento.
 
-## TITOLO IV - ATTIVITA' LEGISLATIVA E REGOLAMENTARE
+### TITOLO IV - ATTIVITA' LEGISLATIVA E REGOLAMENTARE
 
 ##### Art. 49
 
@@ -581,11 +577,9 @@ Copertura finanziaria
 
 I progetti di legge che comunque comportino spese a carico del bilancio regionale, o minori entrate, devono indicare i mezzi per farvi fronte e devono essere preventivamente sottoposti all'esame della Commissione bilancio per il parere sulle conseguenze finanziarie.
 
-## TITOLO V - L'ORDINAMENTO AMMINISTRATIVO DELLA REGIONE
+### TITOLO V - L'ORDINAMENTO AMMINISTRATIVO DELLA REGIONE
 
-### Sezione I
-
-#### L'AMMINISTRAZIONE REGIONALE
+#### Sezione I - L'AMMINISTRAZIONE REGIONALE
 
 ##### Art. 53
 
@@ -629,7 +623,7 @@ d) dalla progressione esclusivamente economica nell'ambito della qualifica in ba
 
 e) dalla precisa determinazione, nel quadro della unita' organizzativa, delle competenze e delle responsabilita' proprie di ciascuna qualifica.
 
-## Sezione II - CONTROLLO SUGLI ENTI LOCALI
+#### Sezione II - CONTROLLO SUGLI ENTI LOCALI
 
 ##### Art. 56
 
@@ -639,11 +633,9 @@ Il controllo sugli atti degli enti locali e' esercitato da uno organo della Regi
 
 Tale organo esercita il controllo mediante l'istituzione di sezioni nei capoluoghi di provincia e in forma ulteriormente decentrata.
 
-## TITOLO VI - ORDINAMENTO FINANZIARIO DELLA REGIONE
+### TITOLO VI - ORDINAMENTO FINANZIARIO DELLA REGIONE
 
-### Sezione I
-
-#### BENI ED ENTRATE
+#### Sezione I - BENI ED ENTRATE
 
 ##### Art. 57
 
@@ -667,7 +659,7 @@ Per provvedere a spese di investimento o per assumere partecipazioni finanziarie
 
 Le leggi regionali relative a tali prestiti e obbligazioni devono essere deliberate dal Consiglio a maggioranza assoluta dei Consiglieri assegnati alla Regione.
 
-## Sezione II - BILANCIO E CONTABILITA'
+#### Sezione II - BILANCIO E CONTABILITA'
 
 ##### Art. 60
 
@@ -711,9 +703,11 @@ I programmi pluriennali di spesa per singoli settori e progetti indicano soltant
 
 Le singole quote annuali di spesa sono stabilite dal bilancio.
 
-## TITOLO VII - PARTECIPAZIONE POPOLARE
+### TITOLO VII
 
-### Sezione I
+## PARTECIPAZIONE POPOLARE
+
+#### Sezione I
 
 ##### Art. 64
 
@@ -747,7 +741,7 @@ Richieste di enti
 
 I Comuni, le Province e gli altri enti pubblici, le organizzazioni sindacali e le associazioni democratiche aventi scopi di promozione sociale, possono rivolgere interrogazioni, chiedere provvedimenti e prospettare esigenze al Consiglio regionale, secondo le modalita' previste dal Regolamento.
 
-## Sezione II - REFERENDUM
+#### Sezione II - REFERENDUM
 
 ##### Art. 69
 
@@ -797,9 +791,9 @@ L'iniziativa del referendum consultivo e' riservata ai Consigli provinciali e ai
 
 La legge regionale stabilisce le modalita' di svolgimento del referendum consultivo e le materie e i provvedimenti per i quali e' ammesso.
 
-## TITOLO VIII
+### TITOLO VIII
 
-### Sezione I - DISPOSIZIONI FINALI
+#### Sezione I - DISPOSIZIONI FINALI
 
 ##### Art. 74
 
@@ -821,7 +815,7 @@ Approvazione della proposta di revisione
 
 La legge di revisione o di abrogazione dello Statuto e' inviata al Governo entro cinque giorni dall'approvazione ed e' promulgata dal Presidente della Giunta entro dieci giorni dalla pubblicazione della legge di approvazione da parte del Parlamento.
 
-## Sezione II - DISPOSIZIONI TRANSITORIE
+#### Sezione II - DISPOSIZIONI TRANSITORIE
 
 ##### Art. 76
 

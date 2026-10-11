@@ -42,13 +42,9 @@ Emana
 
 il seguente decreto-legislativo:
 
-## Titolo I
+## Titolo I - ATTUAZIONE DELLA DIRETTIVA 2008/48/CE RELATIVA AI CONTRATTI DI CREDITO AI CONSUMATORI
 
-### ATTUAZIONE DELLA DIRETTIVA 2008/48/CE RELATIVA AI - CONTRATTI DI
-
-#### CREDITO AI CONSUMATORI
-
-###### Art. 1
+#### Art. 1
 
 Modifiche al testo unico bancario
 
@@ -358,7 +354,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 14 dicembre 2010, n. 218 ha disposto (con l'art. 16, comma 8) che "Le disposizioni modificate, introdotte o sostituite dal presente decreto si applicano a decorrere dalla data di entrata in vigore dei corrispondenti articoli del decreto legislativo 13 agosto 2010, n. 141. I termini di conclusione dei procedimenti amministrativi, stabiliti da norme di legge o di regolamento, pendenti alla data del 19 settembre 2010, sono prorogati fino a 120 giorni successivi alla data di entrata in vigore del presente decreto".
 
-###### Art. 2
+#### Art. 2
 
 Modifiche all'articolo 67 del Codice del consumo
 
@@ -384,7 +380,7 @@ Modifiche all'articolo 67 del Codice del consumo
 
 > 6\. Il contratto di credito collegato ai sensi dell'art. 121, comma 1, lettera d), del decreto legislativo 1° settembre 1993, n. 385, si intende risolto di diritto, senza alcuna penalita', nel caso in cui il consumatore eserciti il diritto di recesso da un contratto di fornitura di beni o servizi disciplinato dal presente titolo conformemente alle disposizioni di cui alla presente sezione.».
 
-###### Art. 3
+#### Art. 3
 
 Abrogazioni e termini di attuazione
 
@@ -408,15 +404,9 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 14 dicembre 2010, n. 218 ha disposto (con l'art. 16, comma 8) che "Le disposizioni modificate, introdotte o sostituite dal presente decreto si applicano a decorrere dalla data di entrata in vigore dei corrispondenti articoli del decreto legislativo 13 agosto 2010, n. 141. I termini di conclusione dei procedimenti amministrativi, stabiliti da norme di legge o di regolamento, pendenti alla data del 19 settembre 2010, sono prorogati fino a 120 giorni successivi alla data di entrata in vigore del presente decreto".
 
-## Titolo II
+## Titolo II - COORDINAMENTO DEL TITOLO VI DEL DECRETO LEGISLATIVO 1° SETTEMBRE 1993, N. 385, CON ALTRE DISPOSIZIONI LEGISLATIVE IN TEMA DI TRASPARENZA
 
-### COORDINAMENTO DEL TITOLO VI DEL DECRETO LEGISLATIVO 1° - SETTEMBRE
-
-#### 1993, N. 385, CON ALTRE DISPOSIZIONI LEGISLATIVE IN TEMA - DI
-
-##### TRASPARENZA
-
-###### Art. 4
+#### Art. 4
 
 Modifiche al titolo VI del decreto legislativo 1° settembre 1993, n. 385
 
@@ -696,7 +686,7 @@ Conseguentemente, al comma 6, rinumerato come comma 7, le parole: "nullita' indi
 
 Ha inoltre disposto (con l'art. 16, comma 8) che "Le disposizioni modificate, introdotte o sostituite dal presente decreto si applicano a decorrere dalla data di entrata in vigore dei corrispondenti articoli del decreto legislativo 13 agosto 2010, n. 141. I termini di conclusione dei procedimenti amministrativi, stabiliti da norme di legge o di regolamento, pendenti alla data del 19 settembre 2010, sono prorogati fino a 120 giorni successivi alla data di entrata in vigore del presente decreto".
 
-###### Art. 5
+#### Art. 5
 
 Altre modifiche al decreto legislativo
 
@@ -748,7 +738,7 @@ Cancellazione delle ipoteche
 
 > 11\. Alle sanzioni amministrative pecuniarie previste dal presente titolo non si applicano le disposizioni contenute nell'art. 16 della legge 24 novembre 1981, n. 689.».
 
-###### Art. 6
+#### Art. 6
 
 Disposizioni transitorie ed entrata in vigore
 
@@ -788,13 +778,9 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 14 dicembre 2010, n. 218 ha disposto (con l'art. 16, comma 8) che "Le disposizioni modificate, introdotte o sostituite dal presente decreto si applicano a decorrere dalla data di entrata in vigore dei corrispondenti articoli del decreto legislativo 13 agosto 2010, n. 141. I termini di conclusione dei procedimenti amministrativi, stabiliti da norme di legge o di regolamento, pendenti alla data del 19 settembre 2010, sono prorogati fino a 120 giorni successivi alla data di entrata in vigore del presente decreto".
 
-## Titolo III
+## Titolo III - REVISIONE DELLA DISCIPLINA DEI SOGGETTI OPERANTI NEL SETTORE FINANZIARIO
 
-### REVISIONE DELLA DISCIPLINA DEI SOGGETTI OPERANTI NEL - SETTORE
-
-#### FINANZIARIO
-
-###### Art. 7
+#### Art. 7
 
 Integrazioni e modifiche al decreto legislativo 1° settembre 1993, n.
 
@@ -1078,7 +1064,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 14 dicembre 2010, n. 218 ha disposto (con l'art. 16, comma 8) che "Le disposizioni modificate, introdotte o sostituite dal presente decreto si applicano a decorrere dalla data di entrata in vigore dei corrispondenti articoli del decreto legislativo 13 agosto 2010, n. 141. I termini di conclusione dei procedimenti amministrativi, stabiliti da norme di legge o di regolamento, pendenti alla data del 19 settembre 2010, sono prorogati fino a 120 giorni successivi alla data di entrata in vigore del presente decreto".
 
-###### Art. 8
+#### Art. 8
 
 Altre modifiche al decreto legislativo
 
@@ -1154,7 +1140,7 @@ Il D.Lgs. 14 dicembre 2010, n. 218 ha disposto (con l'art. 5, comma 1) che "All'
 
 Ha inoltre disposto (con l'art. 16, comma 8) che "Le disposizioni modificate, introdotte o sostituite dal presente decreto si applicano a decorrere dalla data di entrata in vigore dei corrispondenti articoli del decreto legislativo 13 agosto 2010, n. 141. I termini di conclusione dei procedimenti amministrativi, stabiliti da norme di legge o di regolamento, pendenti alla data del 19 settembre 2010, sono prorogati fino a 120 giorni successivi alla data di entrata in vigore del presente decreto".
 
-###### Art. 9
+#### Art. 9
 
 Ulteriori modifiche legislative
 
@@ -1206,7 +1192,7 @@ Il D.Lgs. 14 dicembre 2010, n. 218 ha disposto (con l'art. 6, comma 2) che "All'
 
 Ha inoltre disposto (con l'art. 16, comma 8) che "Le disposizioni modificate, introdotte o sostituite dal presente decreto si applicano a decorrere dalla data di entrata in vigore dei corrispondenti articoli del decreto legislativo 13 agosto 2010, n. 141. I termini di conclusione dei procedimenti amministrativi, stabiliti da norme di legge o di regolamento, pendenti alla data del 19 settembre 2010, sono prorogati fino a 120 giorni successivi alla data di entrata in vigore del presente decreto".
 
-###### Art. 10
+#### Art. 10
 
 Disposizioni transitorie e finali
 
@@ -1262,19 +1248,11 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 29 novembre 2018, n. 142 ha disposto (con l'art. 13, comma 9) che "Le disposizioni del Capo V si applicano a decorrere dal periodo d'imposta in corso al 31 dicembre 2018; con riferimento ai periodi d'imposta precedenti ai quali si applicano le disposizioni di cui al decreto legislativo 18 agosto 2015, n. 136, per i quali i termini per il versamento a saldo delle imposte sui redditi sono scaduti anteriormente alla medesima data, sono fatti salvi gli effetti sulla determinazione del reddito complessivo ai fini delle imposte sui redditi e del valore della produzione netta ai fini dell'imposta regionale sulle attivita' produttive, relativi ai medesimi periodi d'imposta, derivanti dall'applicazione delle disposizioni vigenti in tali periodi, anche se non coerenti con le disposizioni di cui ai commi 2 e 3 dell'articolo 162-bis del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, introdotto dalla lettera d) del comma 1 dell'articolo 12. Ai fini del presente comma gli effetti sulla determinazione del reddito complessivo e del valore della produzione netta sono fatti salvi purche' prodotti da comportamenti tra loro coerenti manifestati entro l'8 agosto 2018".
 
-## Titolo IV
+## Titolo IV - DISCIPLINA DELL'ATTIVITA' DEGLI AGENTI IN ATTIVITA' FINANZIARIA E DEI MEDIATORI CREDITIZI
 
-### DISCIPLINA DELL'ATTIVITA' DEGLI AGENTI IN ATTIVITA' - FINANZIARIA E DEI
+### Capo I - Modifiche al decreto legislativo 1° settembre 1993, n. 385
 
-#### MEDIATORI CREDITIZI
-
-##### Capo I
-
-###### Modifiche al
-
-**decreto legislativo 1° settembre 1993, n. 385**
-
-###### Art. 11
+#### Art. 11
 
 Integrazioni al decreto legislativo 1° settembre 1993, n. 385, per l'esercizio dell'agenzia in attivita' finanziaria e della mediazione creditizia
 
@@ -1494,11 +1472,9 @@ AGGIORNAMENTO (11)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-## Capo II
+### Capo II - Ulteriori disposizioni di attuazione
 
-### Ulteriori disposizioni di attuazione
-
-###### Art. 12
+#### Art. 12
 
 Disposizioni di attuazione dell'articolo 128-quater e 128-sexies del decreto legislativo 1° settembre 1993, n. 385
 
@@ -1532,7 +1508,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212, ha disposto (con l'art. 6, comma 2) che "Fat
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-###### Art. 12-bis
+#### Art. 12-bis
 
 (( (Registrazione e vigilanza dei fornitori di beni o prestatori di servizi che operano come intermediari del credito o creditori a titolo accessorio). ))
 
@@ -1588,7 +1564,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212, ha disposto (con l'art. 6, comma 2) che "Fat
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-###### Art. 13
+#### Art. 13
 
 ((Ulteriori requisiti, condizioni e incompatibilita' per i soggetti di cui agli articoli 128-quater e 128-sexies del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, e all'articolo 12-bis)) ((21))
 
@@ -1612,7 +1588,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212, ha disposto (con l'art. 6, comma 2) che "Fat
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-###### Art. 14
+#### Art. 14
 
 Requisiti di Professionalita'
 
@@ -1658,7 +1634,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212, ha disposto (con l'art. 6, comma 2) che "Fat
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-###### Art. 15
+#### Art. 15
 
 Requisiti di onorabilita'
 
@@ -1686,7 +1662,7 @@ c) sono stati condannati con sentenza irrevocabile, salvi gli effetti della riab
 
 ((5. Per l'iscrizione delle persone giuridiche nell'elenco degli agenti in attivita' finanziaria di cui all'articolo 128-quater, comma 2, e in quello dei mediatori creditizi di cui all'articolo 128-sexies, comma 2, del decreto legislativo 1° settembre 1993, n. 385, coloro che detengono il controllo devono essere in possesso dei requisiti di cui ai commi 1 e 2. Nel caso in cui il controllante sia una persona giuridica, i requisiti di cui ai commi 1 e 2 si applicano a coloro che svolgono funzioni di amministrazione, direzione e controllo.))
 
-###### Art. 16
+#### Art. 16
 
 Requisiti patrimoniali
 
@@ -1710,7 +1686,7 @@ AGGIORNAMENTO (8)
 
 Il D.Lgs. 21 aprile 2016, n. 72, ha disposto (con l'art. 3, comma 1) che "Salvo quanto previsto dai commi 2, 3 e 4, le disposizioni del presente decreto si applicano a partire dal 1° luglio 2016 e ai contratti di credito sottoscritti successivamente a tale data. Ai contratti sottoscritti anteriormente continuano ad applicarsi le disposizioni vigenti nel giorno di entrata in vigore del presente decreto legislativo".
 
-###### Art. 17
+#### Art. 17
 
 Incompatibilita'
 
@@ -1754,7 +1730,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212, ha disposto (con l'art. 6, comma 2) che "Fat
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-###### Art. 17-bis - Attivita' di cambiavalute
+#### Art. 17-bis - Attivita' di cambiavalute
 
 1\. L'esercizio professionale nei confronti del pubblico dell'attivita' di cambiavalute, anche su base stagionale, consistente nella negoziazione a pronti di mezzi di pagamento in valuta, e' riservato ai soggetti iscritti in un apposito registro tenuto dall'Organismo previsto dall'articolo 128-undecies del decreto legislativo 1° settembre 1993, n. 385.
 
@@ -1794,7 +1770,7 @@ AGGIORNAMENTO (20)
 
 Il D.Lgs. 5 settembre 2024, n. 129 ha disposto (con l'art. 40, comma 1) che "Fatto salvo quanto previsto dall'articolo 45, a decorrere dal 30 dicembre 2025, all'articolo 17-bis del decreto legislativo 13 agosto 2010, n. 141, i commi 8-bis e 8-ter sono abrogati. A decorrere dal medesimo termine sono abrogate le relative disposizioni di attuazione".
 
-###### Art. 18
+#### Art. 18
 
 Requisiti tecnico - informatici
 
@@ -1810,11 +1786,9 @@ Il D.Lgs. 31 dicembre 2025, n. 212, ha disposto (con l'art. 6, comma 2) che "Fat
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-## Capo III
+### Capo III - Organismo competente per la gestione degli elenchi degli agenti in attivita' finanziaria e dei mediatori creditizi
 
-### Organismo competente per la gestione degli elenchi degli agenti in - attivita' finanziaria e dei mediatori creditizi
-
-###### Art. 19
+#### Art. 19
 
 Composizione dell'Organismo
 
@@ -1846,7 +1820,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 14 dicembre 2010, n. 218 ha disposto (con l'art. 16, comma 8) che "Le disposizioni modificate, introdotte o sostituite dal presente decreto si applicano a decorrere dalla data di entrata in vigore dei corrispondenti articoli del decreto legislativo 13 agosto 2010, n. 141. I termini di conclusione dei procedimenti amministrativi, stabiliti da norme di legge o di regolamento, pendenti alla data del 19 settembre 2010, sono prorogati fino a 120 giorni successivi alla data di entrata in vigore del presente decreto".
 
-###### Art. 20
+#### Art. 20
 
 Contenuto dell'autonomia finanziaria dell'Organismo
 
@@ -1874,7 +1848,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212, ha disposto (con l'art. 6, comma 2) che "Fat
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-###### Art. 21
+#### Art. 21
 
 Funzioni dell'Organismo
 
@@ -1920,7 +1894,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212, ha disposto (con l'art. 6, comma 2) che "Fat
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-###### Art. 22
+#### Art. 22
 
 Gestione degli elenchi
 
@@ -1944,7 +1918,7 @@ e) aggiorna tempestivamente gli elenchi sulla base dei provvedimenti adottati da
 
 ((4-bis. In caso di cancellazione dagli elenchi di soggetti che svolgono, ai sensi dell'articolo 128-novies.1, comma 1, del testo unico di cui al decreto legislativo 1° settembre 1993, n. 385, attivita' relative ai contratti di credito disciplinati dal capo I-bis del titolo VI del medesimo testo unico in altri Stati membri dell'Unione europea, l'Organismo ne da' comunicazione con ogni mezzo adeguato alle autorita' competenti degli altri Stati membri tempestivamente e, in ogni caso, non oltre quattordici giorni dalla cancellazione)).
 
-###### Art. 23
+#### Art. 23
 
 Iscrizione negli elenchi
 
@@ -2036,7 +2010,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212, ha disposto (con l'art. 6, comma 2) che "Fat
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-###### Art. 24
+#### Art. 24
 
 Esame e aggiornamento professionale
 
@@ -2068,11 +2042,9 @@ Il D.Lgs. 31 dicembre 2025, n. 212, ha disposto (con l'art. 6, comma 2) che "Fat
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-## Capo IV
+### Capo IV - Disposizioni in materia di sanzioni
 
-### Disposizioni in materia di sanzioni
-
-###### Art. 25
+#### Art. 25
 
 Esercizio abusivo dell'attivita'
 
@@ -2090,11 +2062,9 @@ Esercizio abusivo dell'attivita'
 
 2\. Chiunque esercita professionalmente nei confronti del pubblico l'attivita' di mediatore creditizio senza essere iscritto nell'elenco di cui all'articolo 128-sexies, comma 2, e' punito con la reclusione da 6 mesi a 4 anni e con la multa da euro 2.065 a euro 10.329.».
 
-## Titolo V
+## Titolo V - DISPOSIZIONI FINALI
 
-### DISPOSIZIONI FINALI
-
-###### Art. 26
+#### Art. 26
 
 Disciplina transitoria
 
@@ -2134,7 +2104,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 14 dicembre 2010, n. 218 ha disposto (con l'art. 16, comma 8) che "Le disposizioni modificate, introdotte o sostituite dal presente decreto si applicano a decorrere dalla data di entrata in vigore dei corrispondenti articoli del decreto legislativo 13 agosto 2010, n. 141. I termini di conclusione dei procedimenti amministrativi, stabiliti da norme di legge o di regolamento, pendenti alla data del 19 settembre 2010, sono prorogati fino a 120 giorni successivi alla data di entrata in vigore del presente decreto".
 
-###### Art. 27
+#### Art. 27
 
 Modifiche al decreto legislativo
 
@@ -2248,7 +2218,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 14 dicembre 2010, n. 218 ha disposto (con l'art. 16, comma 8) che "Le disposizioni modificate, introdotte o sostituite dal presente decreto si applicano a decorrere dalla data di entrata in vigore dei corrispondenti articoli del decreto legislativo 13 agosto 2010, n. 141. I termini di conclusione dei procedimenti amministrativi, stabiliti da norme di legge o di regolamento, pendenti alla data del 19 settembre 2010, sono prorogati fino a 120 giorni successivi alla data di entrata in vigore del presente decreto".
 
-###### Art. 28
+#### Art. 28
 
 Abrogazioni e norme finali
 
@@ -2284,13 +2254,13 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 14 dicembre 2010, n. 218 ha disposto (con l'art. 16, comma 8) che "Le disposizioni modificate, introdotte o sostituite dal presente decreto si applicano a decorrere dalla data di entrata in vigore dei corrispondenti articoli del decreto legislativo 13 agosto 2010, n. 141. I termini di conclusione dei procedimenti amministrativi, stabiliti da norme di legge o di regolamento, pendenti alla data del 19 settembre 2010, sono prorogati fino a 120 giorni successivi alla data di entrata in vigore del presente decreto".
 
-###### Art. 29
+#### Art. 29
 
 Disposizioni attuative
 
 1\. Il Ministro dell'economia e delle finanze, sentita la Banca d'Italia, detta disposizioni attuative del presente decreto, che indichino, tra l'altro, il contenuto dei requisiti organizzativi e di forma giuridica di cui agli articoli 128-quinquies, comma 1, lettera e), e 128-septies, comma 1, lettera c) ((del decreto legislativo 1° settembre 1993, n. 385)).
 
-###### Art. 30
+#### Art. 30
 
 Invarianza finanziaria
 
@@ -2316,21 +2286,9 @@ Alfano, Ministro della giustizia
 
 Visto, il Guardasigilli: Alfano
 
-## ((Titolo V-bis
+## ((Titolo V-bis - ISTITUZIONE DI UN SISTEMA PUBBLICO DI PREVENZIONE, SUL PIANO AMMINISTRATIVO, DELLE FRODI NEL SETTORE DEL CREDITO AL CONSUMO, CON SPECIFICO RIFERIMENTO AL FURTO D'IDENTITA' ))
 
-### ISTITUZIONE DI UN SISTEMA - PUBBLICO
-
-#### DI - PREVENZIONE,
-
-##### SUL PIANO AMMINISTRATIVO, DELLE FRODI NEL - SETTORE
-
-###### DEL - CREDITO AL
-
-**CONSUMO, CON SPECIFICO RIFERIMENTO AL - FURTO**
-
-**D'IDENTITA' - ))**
-
-###### Art. 30-bis
+#### Art. 30-bis
 
 ((Definizioni
 
@@ -2340,7 +2298,7 @@ a) l'impersonificazione totale: occultamento totale della propria identita' medi
 
 b) l'impersonificazione parziale: occultamento parziale della propria identita' mediante l'impiego, in forma combinata, di dati relativi alla propria persona e l'utilizzo indebito di dati relativi ad un altro soggetto, nell'ambito di quelli di cui alla lettera a).))
 
-###### Art. 30-ter
+#### Art. 30-ter
 
 Sistema di prevenzione
 
@@ -2398,7 +2356,7 @@ AGGIORNAMENTO (11)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 30-quater
+#### Art. 30-quater
 
 Finalita' e struttura dell'archivio
 
@@ -2416,7 +2374,7 @@ c) il terzo, denominato modulo informatico di allerta, memorizza le informazioni
 
 4\. Allo scopo di rafforzare il sistema di prevenzione, il titolare dell'archivio, anche ai fini dell'approfondimento delle segnalazioni di cui all'articolo 30-ter, comma 7, ultimo periodo, puo' avvalersi della collaborazione del Nucleo speciale di polizia valutaria della Guardia di finanza, che agisce con i poteri e le facolta' previsti dall'articolo 2 del decreto legislativo 19 marzo 2001, n. 68, utilizzando, nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente, strutture e personale esistenti in modo da non determinare oneri aggiuntivi.
 
-###### Art. 30-quinquies
+#### Art. 30-quinquies
 
 Dati oggetto di riscontro
 
@@ -2432,7 +2390,7 @@ c) posizioni contributive previdenziali ed assistenziali.
 
 3\. Con decreto del Ministro dell'economia e delle finanze e' individuato, previo parere del gruppo di lavoro di cui all'articolo 30-ter, comma 9, ogni altro dato idoneo al perseguimento delle finalita' del presente decreto legislativo.
 
-###### Art. 30-sexies
+#### Art. 30-sexies
 
 Procedura di riscontro sull'autenticita' dei dati e contributo degli aderenti
 
@@ -2444,7 +2402,7 @@ Ciascuna richiesta puo' concernere una o piu' categorie di dati nell'ambito di q
 
 2-bis. Con decreto del Ministro dell'economia e delle finanze, sentito il parere del gruppo di lavoro di cui all'articolo 30-ter, comma 9, puo' essere rideterminata la misura delle componenti del contributo di cui al comma 2 del presente articolo.
 
-###### Art. 30-septies
+#### Art. 30-septies
 
 Disposizioni finanziarie
 
@@ -2452,7 +2410,7 @@ Disposizioni finanziarie
 
 1-bis. La quota delle somme introitate dall'ente gestore e non destinata a garantire le spese di progettazione e di realizzazione dell'archivio, nonche' il costo pieno del servizio svolto dall'ente gestore, viene versata annualmente, dal medesimo ente, all'entrata del bilancio dello Stato, per essere riassegnata ad apposito programma dello stato di previsione del Ministero dell'economia e delle finanze, da destinare alla prevenzione dei reati finanziari.
 
-###### Art. 30-octies
+#### Art. 30-octies
 
 Termini, modalita' e condizioni per la gestione del sistema di prevenzione
 

@@ -26,81 +26,79 @@ PROMULGA
 
 la seguente legge:
 
-## Titolo I - INDENNITA' DI IMPIEGO OPERATIVO, DI IMBARCO, DI AERONAVIGAZIONE E DI
+## Titolo I - INDENNITA' DI IMPIEGO OPERATIVO, DI IMBARCO, DI AERONAVIGAZIONE E DI VOLO E PER ALTRE PARTICOLARI CONDIZIONI DI IMPIEGO.
 
-### VOLO E PER ALTRE PARTICOLARI CONDIZIONI DI IMPIEGO.
-
-#### Art. 1
+### Art. 1
 
 ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO
 
 L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### Art. 2
+### Art. 2
 
 ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### Art. 3
+### Art. 3
 
 ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### Art. 4
+### Art. 4
 
 ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### Art. 5
+### Art. 5
 
 ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### Art. 6
+### Art. 6
 
 ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### Art. 7
+### Art. 7
 
 ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### Art. 8
+### Art. 8
 
 ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### Art. 9
+### Art. 9
 
 ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### Art. 10
+### Art. 10
 
 ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### Art. 11
+### Art. 11
 
 ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### Art. 12
+### Art. 12
 
 ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### Art. 13
+### Art. 13
 
 ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### Art. 14
+### Art. 14
 
 ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### Art. 15
+### Art. 15
 
 ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### Art. 16
+### Art. 16
 
 ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### Art. 17
+### Art. 17
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66))
 
-#### Art. 18
+### Art. 18
 
 Determinazione dell'entita' massima del personale destinatario delle norme contenute nel titolo I della presente legge.
 
@@ -108,45 +106,41 @@ Con decreto del Ministro per la difesa, su proposta del capo di stato maggiore d
 
 Entro 12 mesi dalla entrata in vigore della presente legge il Ministro per la difesa, in riferimento alla attuazione dei programmi di ristrutturazione delle Forze armate, trasmettera' al Parlamento una relazione sullo stato di attuazione della presente legge, nonche' sui criteri ed i contenuti della revisione del sistema di indennita' di cui al titolo I.
 
-#### Art. 19
+### Art. 19
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66))
 
 ## Titolo II - STATO GIURIDICO, AVANZAMENTO E STIPENDI
 
-#### Art. 20
+### Art. 20
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66))
 
-#### Art. 21
+### Art. 21
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66))
 
-#### Art. 22
+### Art. 22
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66))
 
-#### Art. 23
+### Art. 23
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66))
 
-## Titolo III - BENEFICI ECONOMICI A FAVORE DEI MILITARI DI TRUPPA DELL'ESERCITO,
+## Titolo III - BENEFICI ECONOMICI A FAVORE DEI MILITARI DI TRUPPA DELL'ESERCITO, DELLA MARINA E DELL'AERONAUTICA
 
-### DELLA MARINA E DELL'AERONAUTICA
-
-#### Art. 24
+### Art. 24
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66))
 
-#### Art. 25
+### Art. 25
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66))
 
-## Titolo IV - TRATTAMENTO GIURIDICO ED ECONOMICO NEI CASI DI ASSENZA DAL SERVIZIO
+## Titolo IV - TRATTAMENTO GIURIDICO ED ECONOMICO NEI CASI DI ASSENZA DAL SERVIZIO PER INFERMITA' NON DIPENDENTE DA CAUSA DI SERVIZIO.
 
-### PER INFERMITA' NON DIPENDENTE DA CAUSA DI SERVIZIO.
-
-#### Art. 26
+### Art. 26
 
 Trattamento durante l'aspettativa
 
@@ -168,7 +162,7 @@ Il D.Lgs. 15 marzo 2010, n. 66:
 
 \- come modificato dall'art. 10, comma 8 lettera b), numero 2) del D.Lgs. 24 febbraio 2012, n. 20 ha disposto (con l'art. 2270, comma 1, numero 33-ter)) che il presente articolo resta in vigore limitatamente al personale delle Forze armate e di polizia ad ordinamento militare.
 
-#### Art. 27
+### Art. 27
 
 Trattamento economico durante la licenza di convalescenza
 
@@ -190,19 +184,19 @@ Nel modificare l'art. 2270, comma 1, numero 33-ter) del D.Lgs. 15 marzo 2010, n.
 
 ## Titolo V - NORME FINALI
 
-#### Art. 28
+### Art. 28
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66))
 
-#### Art. 29
+### Art. 29
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66))
 
-#### Art. 30
+### Art. 30
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66))
 
-#### Art. 31
+### Art. 31
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66))
 
@@ -218,7 +212,7 @@ Visto, il Guardasigilli: BONIFACIO
 
 ## Titolo V - NORME FINALI
 
-#### Tabelle
+### Tabelle
 
 Tabelle
 

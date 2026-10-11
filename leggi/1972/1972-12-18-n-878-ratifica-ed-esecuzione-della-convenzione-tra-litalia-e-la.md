@@ -27,21 +27,21 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la convenzione tra la Repubblica italiana e la Repubblica francese relativa al traforo autostradale del Frejus con allegato protocollo relativo alle questioni doganali e fiscali, conclusa a Parigi il 23 febbraio 1972.
 
-### Art. 2
+## Art. 2
 
 Piena ed intera esecuzione e' data alla convenzione di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 22 della convenzione stessa.
 
-### Art. 3
+## Art. 3
 
 Alla costruzione ed all'esercizio in concessione del traforo autostradale del Frejus, per la parte ricadente in territorio italiano, e' estesa l'applicazione della legge 16 settembre 1960, n. 1013, degli articoli 8, 11 e 12 della legge 24 luglio 1961, n. 729, della legge 28 marzo 1968, n. 382, e dell'articolo 9 della legge 28 aprile 1971, numero 287.
 
 In deroga all'articolo 11 della legge 28 aprile 1971, n. 287, e' consentito il rilascio di concessione per la costruzione dell'autostrada della val di Susa, da Rivoli a Bardonecchia.
 
-### Art. 4
+## Art. 4
 
 Per l'attuazione dell'impegno assunto dal Governo italiano, di cui all'articolo 10 della predetta convenzione, e' prevista la spesa di lire 6.000 milioni, alla quale provvedera' direttamente l'Azienda nazionale autonoma delle strade (ANAS) a carico dei fondi del proprio bilancio nelle seguenti misure: lire 1.000 milioni nell'esercizio finanziario 1973; lire 2.000 milioni in ciascuno degli esercizi finanziari 1974 e 1975; lire 1.000 milioni nell'esercizio finanziario 1976.
 
@@ -75,7 +75,7 @@ Il Presidente della Repubblica italiana: il signor Francesco MALFATTI DI MONTETR
 
 Il Presidente della Repubblica francese: il signor Maurice SCHUMANN, Ministro degli affari esteri, i quali, dopo essersi scambiati i loro pieni poteri, riscontrati regolari e nella dovuta forma, hanno concordato le seguenti disposizioni:
 
-### Articolo 1
+## Articolo 1
 
 Il traforo
 
@@ -83,7 +83,7 @@ Le Parti contraenti si impegnano ad assicurare in comune la costruzione e l'eser
 
 Questa opera, che prendera' il nome di "Traforo autostradale del Frejus", nel seguito del testo della presente Convenzione sara' indicata come "il traforo".
 
-### Articolo 2
+## Articolo 2
 
 Caratteristiche generali dell'opera
 
@@ -101,7 +101,7 @@ Se tali superfici costruite con i materiali di risulta dell'opera non saranno su
 
 3\. Ognuno dei due Governi prendera' i provvedimenti atti ad assicurare i controlli di frontiera diversi da quelli previsti al precedente paragrafo 2.
 
-### Articolo 3
+## Articolo 3
 
 Concessione dell'opera
 
@@ -135,7 +135,7 @@ diritto europeo, le Parti contraenti si concerteranno al fine di prendere ogni m
 
 6\. Nel caso in cui - prima della fine delle concessioni - le Parti contraenti decidessero di costruire e di aprire all'esercizio un secondo traforo lungo il medesimo collegamento, verranno accordate nuove concessioni per l'insieme dei due trafori e le concessionarie del primo traforo godranno di un diritto di priorita' per tali nuove concessioni.
 
-### Articolo 4
+## Articolo 4
 
 Approvazione del progetto
 
@@ -151,7 +151,7 @@ L'autorizzazione per l'entrata in servizio del traforo sara'
 
 accordata congiuntamente dai due Governi, previo parere favorevole della anzidetta Commissione.
 
-### Articolo 5
+## Articolo 5
 
 Commissione intergovernativa
 
@@ -165,7 +165,7 @@ La Commissione stabilira' il proprio regolamento interno che dovra' essere comun
 
 I pareri e le decisioni della Commissione saranno annotati in appositi verbali che saranno comunicati alle autorita' competenti dei due Stati.
 
-### Articolo 6
+## Articolo 6
 
 Compiti della Commissione
 
@@ -187,7 +187,7 @@ d) prendera', in caso d'urgenza, ogni decisione resa necessaria da esigenze di s
 
 La Commissione potra' fare appello alla collaborazione delle amministrazioni di ciascun Governo incaricate del controllo della concessione.
 
-### Articolo 7
+## Articolo 7
 
 Atti di concessione
 
@@ -205,7 +205,7 @@ applicazione delle disposizioni previste all'articolo 2, paragrafo 2, saranno fi
 
 4\. Gli atti di concessione entreranno in vigore alla data fissata di comune accordo dai due Governi. Cosi' sara' pure per le modifiche di detti documenti, ad eccezione di quelle che saranno imposte da cambiamenti di una legislazione nazionale.
 
-### Articolo 8
+## Articolo 8
 
 Durata e termine della concessione
 
@@ -217,7 +217,7 @@ stabilita sia precedentemente per altra causa, il traforo diverra' proprieta' co
 
 Le modalita' dell'esercizio comune saranno preventivamente oggetto di un accordo tra i Governi.
 
-### Articolo 9
+## Articolo 9
 
 Comitato comune per la costruzione
 
@@ -241,7 +241,7 @@ Tale comitato comune non verra' disciolto se non dopo la definizione di tutti gl
 
 Il funzionamento ed i poteri del comitato comune saranno precisati in un accordo che dovra' intervenire tra le concessionarie ed essere comunicato alla Commissione, che ne verifichera' la conformita' con le disposizioni della presente Convenzione.
 
-### Articolo 10
+## Articolo 10
 
 Strade di accesso
 
@@ -251,13 +251,13 @@ Le Parti contraenti si impegnano inoltre a sistemare in tempo utile
 
 i collegamenti stradali tra il traforo e le vallate del Po e del Rodano, in modo che essi soddisfino alle esigenze della circolazione proveniente dal traforo o ad esso diretta.
 
-### Articolo 11
+## Articolo 11
 
 Rinvenimenti
 
 Le acque, i minerali utili, i fossili ed i reperti paleontologici rinvenuti nel corso della costruzione dell'opera saranno attribuiti secondo la legislazione dello Stato sul cui territorio sara' stata fatta la scoperta, chiunque ne sia stato lo scopritore.
 
-### Articolo 12
+## Articolo 12
 
 Pedaggi
 
@@ -269,7 +269,7 @@ Le tariffe massime e le tariffe di applicazione terranno conto
 
 degli oneri delle concessionarie.
 
-### Articolo 13
+## Articolo 13
 
 Organo comune di esercizio
 
@@ -287,7 +287,7 @@ Il Presidente dell'organo comune sara' alternativamente italiano e francese, per
 
 I testi costitutivi dell'organo comune, precisanti in particolare le proprie norme statutarie e le modalita' del proprio funzionamento, saranno comunicati alla Commissione che ne verifichera' la conformita' con le disposizioni della presente Convenzione.
 
-### Articolo 14
+## Articolo 14
 
 Frontiera
 
@@ -307,7 +307,7 @@ frontiera potranno circolare liberamente, per necessita' di servizio, nell'insie
 
 Il personale impiegato nei lavori di costruzione e nell'esercizio del traforo potra' circolare liberamente nelle due concessioni pur restando sottoposto alle misure di polizia e di dogana che fossero eventualmente necessarie.
 
-### Articolo 15
+## Articolo 15
 
 Controllo del traffico
 
@@ -321,7 +321,7 @@ La constatazione e la repressione delle infrazioni saranno
 
 assicurate nelle condizioni a secondo le modalita' previste dalla legislazione dello Stato sul territorio del, quale sono state commesse.
 
-### Articolo 16
+## Articolo 16
 
 Protezione degli agenti dello Stato
 
@@ -331,7 +331,7 @@ In caso di infrazione commessa contro gli agenti di uno degli
 
 Stati, durante l'esercizio delle loro funzioni sul territorio dell'altro Stato nelle condizioni previste nella presente Convenzione, si applicheranno le disposizioni penali che reprimono un simile fatto commesso contro gli agenti di questo ultimo Stato, incaricati di un servizio corrispondente.
 
-### Articolo 17
+## Articolo 17
 
 Regime fiscale, doganale e monetario
 
@@ -343,7 +343,7 @@ I Governi non porranno ostacolo e non preleveranno alcuna tassa ne'
 
 imposta, in occasione del trasferimento di fondi e dei regolamenti finanziari fra i territori delle due Parti contraenti risultanti dall'applicazione della presente Convenzione.
 
-### Articolo 18
+## Articolo 18
 
 Aggiudicazione degli appalti
 
@@ -357,7 +357,7 @@ Una stessa gara d'appalto potra' riguardare lavori, opere e
 
 installazioni situati nei due Stati, ma saranno sempre stipulati contratti di appalto distinti per ciascuna societa' concessionaria.
 
-### Articolo 19
+## Articolo 19
 
 Misure di carattere generale
 
@@ -369,7 +369,7 @@ I Governi si concerteranno sull'applicazione di tutti i
 
 provvedimenti di ordine generale presi da uno degli Stati che modifichino profondamente la situazione di una delle societa' concessionarie o dell'organo comune previsto all'articolo 13, come pure nel caso in cui uno di loro intendesse avvalersi delle clausole di decadenza o di riscatto previste negli atti di concessione ovvero intendesse autorizzare un cambiamento di concessionaria.
 
-### Articolo 20
+## Articolo 20
 
 Controversie fra le societa' concessionarie
 
@@ -377,7 +377,7 @@ Gli atti di concessione imporranno alle concessionarie l'obbligo di
 
 sottoporre, in ultima istanza, le loro controversie ad un arbitro designato di comune accordo dai Governi. L'exequatur della sentenza resa dall'arbitro sara' emesso dall'organo giudiziario competente di ciascuno Stato.
 
-### Articolo 21
+## Articolo 21
 
 Controversie relative alla Convenzione
 
@@ -395,7 +395,7 @@ Il tribunale arbitrale decidera' a maggioranza dei voti.
 
 Le decisioni del tribunale impegneranno le Parti. Esse sosterranno le spese dell'arbitro da loro designato e si divideranno le altre in parti uguali. Sugli altri punti, il tribunale arbitrale regolera' esso stesso la sua procedura.
 
-### Articolo 22
+## Articolo 22
 
 Entrata in vigore
 
@@ -425,13 +425,13 @@ la Repubblica francese relativa al traforo autostradale del Frejus, in data odie
 
 i Plenipotenziari sottoscritti hanno convenuto quanto segue:
 
-### Articolo 1
+## Articolo 1
 
 Ciascuno Stato applichera' la propria legislazione e la propria regolamentazione fiscale alla costruzione, alla manutenzione ed alla gestione della parte del traforo che esso affida in concessione ai sensi dell'articolo 3 della Convenzione.
 
 A tale scopo, si considera che ciascuna societa' concessionaria costruisca e gestisca da sola e per proprio conto la parte dell'opera corrispondente alla sua concessione, ferme restando le disposizioni dell'articolo 3, paragrafo 3, della Convenzione.
 
-### Articolo 2
+## Articolo 2
 
 Per la liquidazione delle imposte sulla cifra d'affari, la base imponibile in ciascuno Stato e' costituita dalla totalita' delle entrate afferenti alle operazioni effettuate nell'ambito della concessione accordata da detto Stato.
 
@@ -439,11 +439,11 @@ Tuttavia, qualora le entrate relative alle operazioni effettuate in ciascuno dei
 
 . Durante il periodo della gestione, l'energia elettrica consumata sara' assoggettata alle imposte sulla cifra d'affari per meta' in ciascuno Stato.
 
-### Articolo 3
+## Articolo 3
 
 Nella misura in cui la legislazione e la regolamentazione fiscali lo esigano, ciascuna societa' concessionaria dovra' far accreditare presso l'Amministrazione incaricata dell'esazione di imposte e tasse, un rappresentante domiciliato nello Stato in cui sono dovute tali imposte e tasse, il quale si impegnera' a compiere le formalita' cui sono tenuti i contribuenti e a pagare le imposte e tasse dovute.
 
-### Articolo 4
+## Articolo 4
 
 Per l'applicazione delle imposte sugli utili derivanti dalla
 
@@ -457,25 +457,25 @@ b) anche le spese necessarie alla costruzione, gestione,
 
 manutenzione e conservazione del traforo sono ripartite per meta' tra le due societa' concessionarie.
 
-### Articolo 5
+## Articolo 5
 
 In deroga alle disposizioni della Convenzione fiscale
 
 italo-francese per evitare la doppia imposizione e per regolare alcune questioni in materia di imposte dirette sui redditi e sul patrimonio, conclusa a Parigi il 29 ottobre 1958 e modificata con l'Accordo complementare del 6 dicembre 1965, gli stipendi e gli emolumenti delle persone incaricate della costruzione e della gestione del traforo non sono imponibili che nello Stato in cui gli interessati hanno il proprio domicilio fiscale.
 
-### Articolo 6
+## Articolo 6
 
 Per l'applicazione delle disposizioni della Convenzione del 29
 
 ottobre 1958 citata al precedente articolo 5, gli onorari, le indennita' e le altre remunerazioni pagati per conto comune ai membri del comitato comune istituito ai sensi dell'articolo 9 della Convenzione e dell'organo comune di esercizio previsto all'articolo 13 della medesima Convenzione, per le funzioni svolte a tale titolo, sono considerati come versati dalla societa' concessionaria di cui detti membri sono rappresentanti o mandatari.
 
-### Articolo 7
+## Articolo 7
 
 Le competenti Amministrazioni fiscali dei due Stati concorderanno le modalita' di esercizio dei rispettivi diritti di richiesta di notizie e di verifica per quanto concerne la contabilita' di esercizio dell'opera, tenuta presso la sede dell'organo comune di esercizio.
 
 ## II. - DOGANE
 
-### Articolo 8
+## Articolo 8
 
 Per la costruzione, la manutenzione, la conservazione e la gestione
 
@@ -489,7 +489,7 @@ b) consentira', alle medesime condizioni, l'introduzione di
 
 materiali da costruzione, materie prime e materiale tecnico senza alcun divieto o restrizione economica di importazione.
 
-### Articolo 9
+## Articolo 9
 
 Le Autorita' competenti si concerteranno per concedere ai materiali
 
@@ -497,13 +497,13 @@ importati temporaneamente in sospensione da dazio e dagli altri diritti applicab
 
 ## III. - DISPOSIZIONI GENERALI
 
-### Articolo 10
+## Articolo 10
 
 I problemi che potranno sorgere dall'applicazione del presente
 
 Protocollo saranno risolti di comune accordo tra le Amministrazioni fiscali e doganali competenti.
 
-### Articolo 11
+## Articolo 11
 
 Il presente Protocollo e' parte integrante della Convenzione in
 

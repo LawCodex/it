@@ -30,7 +30,7 @@ la seguente legge:
 
 ## Capo I - DISPOSIZIONI IN MATERIA DI PUBBLICHE AMMINISTRAZIONI
 
-#### Art. 1
+### Art. 1
 
 Alto Commissario per la prevenzione e il contrasto
 
@@ -70,7 +70,7 @@ AGGIORNAMENTO (13)
 
 Il D.L. 25 giugno 2008, n. 112, convertito, con modificazioni, dalla L. 6 agosto 2008, n. 133 ha disposto (con l'art. 68, comma 6, lettera a)) la soppressione dell'Alto Commissario per la prevenzione ed il contrasto della corruzione e delle altre forme di illecito all'interno della pubblica amministrazione di cui al presente articolo.
 
-#### Art. 2
+### Art. 2
 
 Commissione per le adozioni internazionali
 
@@ -170,7 +170,7 @@ b) al comma 4, il secondo e il terzo periodo sono soppressi.
 
 > \- La quota di minore entrate di cui all'art. 4 della legge 31 dicembre 1998, n. 476, e' quella relativa agli oneri deducibili, nella misura del cinquanta per cento, da parte dei genitori adottivi per l'espletamento della procedura di adozione disciplinate nel Capo I del titolo III della legge 4 maggio 1983, n. 184 (art. 10, lettera 1-bis, decreto del Presidente della Repubblica 22 dicembre 1986, n. 917).
 
-#### Art. 3
+### Art. 3
 
 Soppressione dell'Agenzia per il servizio civile
 
@@ -240,7 +240,7 @@ Modifica all'articolo 10 della legge n. 230 del 1998
 
 > 5\. Il Presidente del Consiglio dei Ministri, entro cinque mesi dalla data di entrata in vigore della presente legge, con proprio decreto, disciplina l'organizzazione e l'attivita' della Consulta.".
 
-#### Art. 4
+### Art. 4
 
 Modifiche al decreto legislativo 30 marzo 2001, n. 165, in materia
 
@@ -252,7 +252,7 @@ di formazione del personale delle pubbliche amministrazioni
 
 2\. Le amministrazioni dello Stato, anche ad ordinamento autonomo, nonche' gli enti pubblici non economici, predispongono entro il 30 gennaio di ogni anno il piano di formazione del personale e lo trasmettono, a fini informativi, alla Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica e al Ministero dell'economia e delle finanze. Decorso tale termine e, comunque, non oltre il 30 settembre, ulteriori interventi in materia di formazione del personale, dettati da esigenze sopravvenute o straordinarie, devono essere specificamente comunicati alla Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica e al Ministero dell'economia e delle finanze indicando gli obiettivi e le risorse utilizzabili, interne, statali o comunitarie. Ai predetti interventi formativi si da' corso qualora, entro un mese dalla comunicazione, non intervenga il diniego della Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica, di concerto con il Ministero dell'economia e delle finanze. Il Dipartimento della funzione pubblica assicura il raccordo con il Dipartimento per l'innovazione e le tecnologie relativamente agli interventi di formazione connessi all'uso delle tecnologie dell'informazione e della comunicazione".
 
-#### Art. 5
+### Art. 5
 
 Modifiche all'articolo 102 del testo unico
 
@@ -274,7 +274,7 @@ di cui al decreto legislativo n. 267 del 2000
 
 > 2\. L'Agenzia e' gestita da un consiglio di amministrazione, nominato con decreto del Presidente del Consiglio dei Ministri e composto da due sindaci nominati dall'Anci, da un presidente di provincia designato dall'Upi, da tre segretari comunali e provinciali eletti tra gli iscritti all'albo e da tre esperti designati dalla Conferenza Stato-citta' e autonomie locali. Il consiglio elegge nel proprio seno un presidente e un vicepresidente.".
 
-#### Art. 6
+### Art. 6
 
 Servizi dei beni culturali
 
@@ -294,7 +294,7 @@ Servizi dei beni culturali
 
 > a 30.000 abitanti, verra' considerata titolo di preferenza a condizione che sia sempre e comunque salvaguardata l'autonomia scientifica e di immagine individuale propria del museo minore.".
 
-#### Art. 7
+### Art. 7
 
 Disposizioni in materia di mobilita'
 
@@ -348,7 +348,7 @@ del personale delle pubbliche amministrazioni
 
 > 19\. I lavoratori, gia' dipendenti degli enti previdenziali, addetti al servizio di portierato o di custodia e vigilanza degli immobili che vengono dismessi, di proprieta' degli enti previdenziali restano alle dipendenze dell'ente medesimo. Si applica quanto disposto dagli articoli 33 e 34 del decreto legislativo 30 marzo 2001, n. 165.".
 
-#### Art. 8
+### Art. 8
 
 Contratti individuali dei dirigenti incaricati
 
@@ -366,7 +366,7 @@ presso i collegi di revisione degli enti pubblici
 
 > 10\. I dirigenti ai quali non sia affidata la titolarita' di uffici dirigenziali svolgono, su richiesta degli organi di vertice delle amministrazioni che ne abbiano interesse, funzioni ispettive, di consulenza, studio e ricerca o altri incarichi specifici previsti dall'ordinamento, ivi compresi quelli presso i collegi di revisione degli enti pubblici in rappresentanza di amministrazioni ministeriali.".
 
-#### Art. 9
+### Art. 9
 
 Utilizzazione degli idonei di concorsi pubblici
 
@@ -488,7 +488,7 @@ Utilizzazione degli idonei di concorsi pubblici
 
 > 2\. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il Consiglio di Stato, sono emanati i regolamenti per la disciplina delle materie, non coperte da riserva assoluta di legge prevista dalla Costituzione, per le quali le leggi della Repubblica, autorizzando l'esercizio della potesta' regolamentare del Governo, determinano le norme generali regolatrici della materia e dispongono l'abrogazione delle norme vigenti, con effetto dall'entrata in vigore delle norme regolamentari.".
 
-#### Art. 10
+### Art. 10
 
 Personale della Presidenza del Consiglio dei ministri
 
@@ -508,7 +508,7 @@ Tale inquadramento decorre, ai fini giuridici, dalla data di entrata in vigore d
 
 > 4\. Il personale di cui al comma 3 puo' chiedere di essere inquadrato, anche in soprannumero e previo superamento di esame-colloquio, nella qualifica funzionale della carriera immediatamente superiore, con il profilo professionale corrispondente alle mansioni superiori lodevolmente esercitate per almeno due anni, purche' in possesso del titolo di studio richiesto per l'accesso alla nuova qualifica ovvero, ad esclusione della carriera direttiva, di un'anzianita' di servizio effettivo non inferiore a dieci anni. Tale beneficio non potra' comunque essere attribuito al personale che, per effetto di norme analoghe a quella prevista nel presente comma, abbia comunque fruito, anche presso le Amministrazioni di appartenenza, di avanzamenti di carriera o promozioni a qualifiche superiori, disposti a seguito di valutazione delle mansioni svolte.".
 
-#### Art. 11
+### Art. 11
 
 Codice unico di progetto degli investimenti pubblici
 
@@ -526,7 +526,7 @@ Codice unico di progetto degli investimenti pubblici
 
 2-sexies. All'attuazione del presente articolo le Amministrazioni provvedono nei limiti delle risorse umane finanziarie e strumentali disponibili allo scopo a legislazione vigente.
 
-#### Art. 12
+### Art. 12
 
 Personale dell'Ente nazionale di assistenza al volo
 
@@ -564,7 +564,7 @@ Personale dell'Ente nazionale di assistenza al volo
 
 > 8\. Dalla data di collocamento in disponibilita' restano sospese tutte le obbligazioni inerenti al rapporto di lavoro e il lavoratore ha diritto ad un'indennita' pari all'80 per cento dello stipendio e dell'indennita' integrativa speciale, con esclusione di qualsiasi altro emolumento retributivo comunque denominato, per la durata massima di ventiquattro mesi. I periodi di godimento dell'indennita' sono riconosciuti ai fini della determinazione dei requisiti di accesso alla pensione e della misura della stessa. E' riconosciuto altresi' il diritto all'assegno per il nucleo familiare di cui all'art. 2 del decreto-legge 13 marzo 1988, n. 69, convertito, con modificazioni, dalla legge 13 maggio 1988; n. 153, e successive modificazioni ed integrazioni.".
 
-#### Art. 13
+### Art. 13
 
 Modifica all'articolo 10 del
 
@@ -602,7 +602,7 @@ decreto-legge 15 gennaio 1991, n. 8
 
 > 2-nonies. Con decreto del Ministro dell'interno, di concerto con il Ministro dell'economia e delle finanze, vengono stabilite le modalita' di corresponsione dei gettoni di presenza ai componenti della commissione centrale ed al personale chiamato a partecipare con compiti di segreteria e di istruttoria alle riunioni della medesima commissione. All'onere derivante dall'attuazione del presente comma, determinato nella misura massima di 42.000 euro per l'anno 2002 e di 100.000 euro annui a decorrere dall'anno 2003, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2002-2004, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2002, allo scopo parzialmente utilizzando l'accantonamento relativo al medesimo Ministero.".
 
-#### Art. 14
+### Art. 14
 
 Disposizione correttiva concernente la compatibilita'
 
@@ -628,7 +628,7 @@ della spesa in materia di contrattazione collettiva integrativa
 
 ## Capo II - NORME DI SEMPLIFICAZIONE
 
-#### Art. 15
+### Art. 15
 
 Modifiche al testo unico di cui al decreto
 
@@ -646,7 +646,7 @@ b) dopo l'articolo 77 e' inserito il seguente:
 
 ## Capo III - DISPOSIZIONI IN MATERIA DI ENTI LOCALI
 
-#### Art. 16
+### Art. 16
 
 Modifica al testo unico di cui al decreto
 
@@ -664,7 +664,7 @@ disposizioni dei regolamenti comunali e provinciali
 
 ## Capo IV - NORME IN MATERIA DI ISTRUZIONE, UNIVERSITA' E RICERCA
 
-#### Art. 17
+### Art. 17
 
 Gestione di fondi
 
@@ -672,7 +672,7 @@ Gestione di fondi
 
 1-bis. ((Nell'ambito delle attivita' finalizzate all'attuazione della legge 14 novembre 2000, n. 338, con riferimento agli immobili destinati ad alloggio o residenza per studenti universitari, il Ministero dell'universita' e della ricerca, a decorrere dall'anno 2026, puo' avvalersi del supporto tecnico e specialistico dell'Agenzia nazionale per l'attrazione degli investimenti e lo sviluppo d'impresa - Invitalia S.p.A., sulla base di apposita convenzione. La commissione da corrispondere a favore della medesima Agenzia nazionale per l'attrazione degli investimenti e lo sviluppo d'impresa - Invitalia S.p.A. e' determinata, nell'ambito della convenzione di cui al primo periodo, nel limite dell'1 per cento, a valere sui fondi destinati annualmente alla realizzazione di alloggi e residenze per studenti universitari ai sensi della legge 14 novembre 2000, n. 338, depositati nel corrispondente conto di tesoreria del Ministero dell'universita' e della ricerca)).
 
-#### Art. 18
+### Art. 18
 
 Modifiche al decreto legislativo 27 luglio 1999, n. 297
 
@@ -736,7 +736,7 @@ d) all'articolo 9, comma 3, le parole: "fatto salvo che per la gestione dei cont
 
 > 3\. Entro il 31 dicembre 1999, il MURST assume la gestione diretta delle attivita' svolte in regime di convenzione dall'IMI (ora San Paolo-IMI), ovvero nell'ambito dei decreti di cui all'art. 6, comma 2, e' deliberato l'affidamento di tali attivita' a terzi mediante appalti di servizi ai sensi della normativa vigente in materia. Alla scadenza del predetto termine, in caso di assunzione della gestione diretta, ovvero alla data di conclusione della procedura di appalto, e' risolta di diritto la convenzione con l'Istituto mobiliare italiano (IMI), di cui all'art. 4 della legge 25 ottobre 1968, n. 1089, e successive modificazioni e integrazioni, fatto salvo che per la gestione dei contratti stipulati, nonche' per le attivita' istruttorie e gestionali di natura economico-finanaziaria, comprese la stipula e la gestione dei contratti, relativamente alle domande di agevolazione presentate fino alla data del 31 dicembre 1999 ai sensi degli articoli 4, 5, 6, 7, 9 e 11 del decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica 8 agosto 1997, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 270 del 19 novembre 1997, degli articoli da 8 a 13 della legge 17 febbraio 1982, n. 46, e successive modificazioni, dell'art. 11 del decreto-legge 16 maggio 1994, n. 299, convertito, con modificazioni, dalla legge 19 luglio 1994, n. 451, e successive modificazioni limitatamente alle domande presentate nell'esercizio 1997, dell'art. 14 della legge 24 giugno 1997, n. 196, e successive modificazioni, con esclusivo riferimento all'esercizio 1998, nonche' per la completa dismissione della propria quota di partecipazione al capitale della societa' di ricerca istituite ai sensi dell'art. 2, primo comma, lettera d), della citata legge n. 46 del 1982, e successive modificazioni.".
 
-#### Art. 19
+### Art. 19
 
 Disposizioni in materia di enti pubblici
 
@@ -770,7 +770,7 @@ di ricerca, ENEA, ISS, ISPESL e ASI
 
 > "1-bis. Il divieto di cui al comma 1 non si applica ai finanziamenti che vengono erogati dal Ministero degli affari esteri, ai sensi degli articoli 7 e 18 del decreto del Presidente della Repubblica 12 aprile 1988, n. 177, per la realizzazione di iniziative, interventi, programmi ed attivita' nel settore della cooperazione allo sviluppo, in favore di universita' e di organizzazioni non governative riconosciute idonee ai sensi dell'art. 28 della legge 26 febbraio 1987, n. 49, salvo quanto disposto dall'art. 20 della legge 15 marzo 1997, n. 59, e successive modificazioni. Ai soggetti sopra indicati potranno essere concessi anticipi nella misura del 50 per cento del valore complessivo del progetto nel primo anno, seguiti da anticipi del 40 per cento negli anni successivi.".
 
-#### Art. 20
+### Art. 20
 
 Disposizioni concernenti il Consiglio nazionale delle ricerche
 
@@ -780,7 +780,7 @@ Disposizioni concernenti il Consiglio nazionale delle ricerche
 
 > \- La legge 29 ottobre 1984, n. 720 pubblicata nella Gazzetta Ufficiale 29 ottobre 1984, n. 298, concerne "Istituzione del sistema di tesoreria unica per enti ed organismi pubblici.".
 
-#### Art. 21
+### Art. 21
 
 Disposizioni in materia di ricerca industriale
 
@@ -974,7 +974,7 @@ Disposizioni in materia di ricerca industriale
 
 > "4. Il Ministro dell'universita' e della ricerca scientifica e tecnologica emana apposite direttive per la ripartizione del Fondo di cui all'art. 5 tra gli interventi di cui all'art. 3 e per l'attivazione degli strumenti di cui all'art. 4.".
 
-#### Art. 22
+### Art. 22
 
 Disposizione interpretativa
 
@@ -990,7 +990,7 @@ Disposizione interpretativa
 
 > \- Il decreto del Ministro dell'istruzione, dell'universita' e della ricerca scientifica e tecnologica 3 novembre 1999, n. 509, pubblicato nella Gazzetta Ufficiale del 4 gennaio 2000, n. 2, prevede: "Regolamento recante norme concernenti l'autonomia didattica degli atenei".
 
-#### Art. 23
+### Art. 23
 
 Contributo per le iniziative del Comitato italiano per il 2002
 
@@ -1006,7 +1006,7 @@ nazionale per la ricerca scientifica e tecnologica sulla montagna
 
 ## Capo V - DISPOSIZIONI IN MATERIA DI AFFARI ESTERI
 
-#### Art. 24
+### Art. 24
 
 Modifiche alla legge 21 novembre 1967, n. 1185,
 
@@ -1068,7 +1068,7 @@ c) il quarto comma e' abrogato.
 
 > (Comma abrogato).".
 
-#### Art. 25
+### Art. 25
 
 Funzionamento dell'Ufficio dell'Autorita' nazionale per
 
@@ -1082,7 +1082,7 @@ AGGIORNAMENTO (11a)
 
 Il D.L. 30 dicembre 2005, n. 273, convertito con modificazioni dalla L. 23 febbraio 2006, n. 51 ha disposto (Con l'art. 23-ter, comma 1) che "Gli incarichi conferiti ai sensi dell'articolo 9, comma 4, della legge 18 novembre 1995, n. 496, e rinnovati ai sensi dell'art. 25 della legge 16 gennaio 2003, n. 3, si intendono rinnovabili alle rispettive scadenze per ulteriori due anni".
 
-#### Art. 26
+### Art. 26
 
 Costituzione e partecipazione italiana ad
 
@@ -1100,7 +1100,7 @@ La L. 24 dicembre 2003, n. 360 ha disposto (con l'art. 12, comma 1) che e' autor
 
 ## Capo VI - DISPOSIZIONI IN MATERIA DI INNOVAZIONE
 
-#### Art. 27
+### Art. 27
 
 Disposizioni in materia di innovazione tecnologica
 
@@ -1150,7 +1150,7 @@ b) al comma 7, lettera b), dopo le parole: "pubblica amministrazione (AIPA)" son
 
 ## Capo VII - DISPOSIZIONI IN MATERIA DI DIFESA E DI PUBBLICA SICUREZZA
 
-#### Art. 28
+### Art. 28
 
 Modifiche all'allegato D annesso al decreto legislativo
 
@@ -1239,7 +1239,7 @@ concernente la riforma strutturale delle Forze armate
 
 > I comandi periferici della Marina e dell'Aeronautica competenti a provvedere al collocamento a riposo per eta' ed a liquidare il trattamento normale di quiescenza degli impiegati civili (esclusi i professori e gli assistenti di ruolo delle Accademie navale ed aeronaurica e dell'Istituto idrografico della Marina) e degli operai che prestano servizio presso i comandi medesimi e gli altri comandi, istituti, scuole comprese le Accademie, enti e reparti della forza armata aventi sede nella rispettiva circoscrizione territoriale sono i comandi in capo di dipartimento marittimo, i comandi militari marittimi autonomi ed i comandi di regione aerea.".
 
-#### Art. 29
+### Art. 29
 
 Disposizioni in materia di acquisti all'estero
 
@@ -1261,11 +1261,11 @@ di materiali per l'Amministrazione della difesa
 
 > 1-ter. Il divieto di cui al comma 1 non si applica per gli acquisti eseguiti all'estero dall'Amministrazione della difesa, relativi a macchinari, strumenti e oggetti di precisione che possono essere forniti, con i requisiti tecnici e il grado di perfezione richiesti, soltanto da ditte straniere. Per tali acquisti possono essere concesse anticipazioni di importo non superiore ad un terzo dell'importo complessivo del prezzo contrattuale, previa costituzione di idonea garanzia.".
 
-#### Art. 30
+### Art. 30
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-#### Art. 31
+### Art. 31
 
 Differimento di termine
 
@@ -1285,15 +1285,15 @@ Differimento di termine
 
 > \- Il decreto legislativo 8 maggio 2001, n. 215, recante "Disposizioni per disciplinare la trasformazione progressiva dello strumento militare in professionale, a norma dell'art. 3, comma 1, della legge 14 novembre 2000, n. 331", e' pubblicato nel Supplemento ordinario alla Gazzetta Ufficiale n. 133 dell'11 giugno 2001.
 
-#### Art. 32
+### Art. 32
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-#### Art. 33
+### Art. 33
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-#### Art. 34
+### Art. 34
 
 Beneficio a favore dei congiunti del personale
 
@@ -1305,7 +1305,7 @@ sanitarie sostenute dal medesimo personale
 
 2\. Le spese sanitarie sostenute dal personale delle Forze armate e delle Forze di polizia per cure relative a ferite e lesioni riportate nello svolgimento di attivita' operative sono anticipate dall'Amministrazione di competenza, nei limiti delle risorse disponibili destinate a tali finalita', su richiesta del Comandante di Corpo o del funzionario responsabile.
 
-#### Art. 35
+### Art. 35
 
 Modifica all'articolo 1 del decreto-legge 25 maggio 1994, n. 313
 
@@ -1321,7 +1321,7 @@ Modifica all'articolo 1 del decreto-legge 25 maggio 1994, n. 313
 
 > anticipate dai comuni per l'organizzazione delle consultazioni elettorali, nonche' al pagamento di emolumenti e pensioni a qualsiasi titolo dovuti al personale amministrato, non sono soggetti ad esecuzione forzata, salvo che per i casi previsti dal capo V del titolo VI del libro I del codice civile, nonche' dal testo unico delle leggi concernenti il sequestro, il pignoramento e la cessione degli stipendi, salari e pensioni dei dipendenti delle pubbliche amministrazioni, approvato con decreto del Presidente della Repubblica 5 gennaio 1950, n. 180.".
 
-#### Art. 36
+### Art. 36
 
 Modifica all'articolo 12 del
 
@@ -1343,7 +1343,7 @@ decreto legislativo 28 febbraio 2001, n. 53
 
 > 4\. Per quanto non previsto dai commi 1, 2 e 3, si applicano le disposizioni di cui agli articoli 24-quater e 24-quinquies del decreto del Presidente della Repubblica 24 aprile 1982, n. 335, come modificati dall'art. 2, comma 1, del presente decreto.".
 
-#### Art. 37
+### Art. 37
 
 Disposizioni a favore dei congiunti del personale
 
@@ -1353,7 +1353,7 @@ delle Forze di polizia e dell'Arma dei carabinieri
 
 2\. ((COMMA ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)).
 
-#### Art. 38
+### Art. 38
 
 Disposizioni a favore dei congiunti del personale del Corpo nazionale dei vigili del fuoco ((e spese sanitarie sostenute dal medesimo personale))
 
@@ -1361,7 +1361,7 @@ Disposizioni a favore dei congiunti del personale del Corpo nazionale dei vigili
 
 ((1-bis. Le spese sanitarie sostenute dal personale del Corpo nazionale dei vigili del fuoco per cure relative a ferite e lesioni riportate nello svolgimento di servizi operativi e di supporto all'attivita' operativa sono anticipate dall'amministrazione, nei limiti delle risorse disponibili destinate a tali finalita', su richiesta del dirigente della sede di servizio, previo nulla osta del servizio sanitario del Corpo medesimo)).
 
-#### Art. 39
+### Art. 39
 
 Convenzioni in materia di sicurezza
 
@@ -1377,7 +1377,7 @@ Convenzioni in materia di sicurezza
 
 4-ter. Per le finalita' di cui al comma 4-bis, gli incaricati del pubblico servizio, addetti alle procedure definite dalle convenzioni, ((procedono)) all'identificazione degli interessati, ((anche attraverso riconoscimento biometrico e firma grafometrica,)) con l'osservanza delle disposizioni di legge o di regolamento in vigore per gli addetti alla ricezione delle domande, dichiarazioni o atti destinati alle pubbliche amministrazioni.
 
-#### Art. 40
+### Art. 40
 
 Revisione delle sanzioni disciplinari per il personale della
 
@@ -1413,11 +1413,9 @@ h) previsione delle occorrenti disposizioni transitorie anche per i procedimenti
 
 > \- La legge 27 marzo 2001, n. 97 reca: "Norme sul rapporto tra procedimento penale e procedimento disciplinare ed effetti del giudicato penale nei confronti dei dipendenti delle amministrazioni pubbliche".
 
-## Capo VIII - DISPOSIZIONI IN MATERIA
+## Capo VIII - DISPOSIZIONI IN MATERIA DI COMUNICAZIONI
 
-### DI COMUNICAZIONI
-
-#### Art. 41
+### Art. 41
 
 Tecnologie delle comunicazioni
 
@@ -1451,7 +1449,7 @@ Il D.L. 14 marzo 2005, n. 35, convertito con modificazioni dalla L. 14 maggio 20
 
 ## Capo IX - DISPOSIZIONI IN MATERIA DI TUTELA DELLA SALUTE
 
-#### Art. 42
+### Art. 42
 
 Delega per la trasformazione degli istituti
 
@@ -1497,7 +1495,7 @@ AGGIORNAMENTO (10)
 
 La Corte costituzionale, con sentenza 23 giugno-7 luglio 2005, n. 270 (in G.U. 1a s.s. 13/7/2005, n. 28) ha disposto l'illegittimita' costituzionale del comma 1 del presente articolo lettera b) "limitatamente alle parole Ministero della salute, regioni e comuni, con rappresentanza paritetica del Ministero della salute e della regione interessata" e lettera p) "limitatamente alle parole designati per la meta' dal Ministro della salute e per l'altra meta' dal Presidente della Regione" nonche' con riferimento al presidente dell'istituto, alle parole "nominato dal Ministro della salute".
 
-#### Art. 43
+### Art. 43
 
 Organizzazione a rete di istituti di ricovero e cura
 
@@ -1505,7 +1503,7 @@ a carattere scientifico dedicati a particolari discipline
 
 1\. Al fine di favorire la ricerca nazionale e internazionale e poter acquisire risorse anche a livello comunitario, il Ministro della salute, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, individua, con proprio decreto, l'organizzazione a rete degli istituti di ricovero e cura a carattere scientifico dedicati a particolari discipline.
 
-#### Art. 44
+### Art. 44
 
 Modifica all'articolo 1 della legge 8 febbraio 2001, n. 12
 
@@ -1541,7 +1539,7 @@ Modifica all'articolo 1 della legge 8 febbraio 2001, n. 12
 
 > 2\. L'autorizzazione deve indicare i limiti quantitativi, in misura corrispondente alle esigenze mediamente calcolabili, nonche' le disposizioni che gli interessati sono tenuti ad osservare.".
 
-#### Art. 45
+### Art. 45
 
 Partecipazione finanziaria dei privati in materia sanitaria
 
@@ -1561,7 +1559,7 @@ Partecipazione finanziaria dei privati in materia sanitaria
 
 > I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.".
 
-#### Art. 46
+### Art. 46
 
 Semplificazione in materia di sedi farmaceutiche
 
@@ -1579,7 +1577,7 @@ AGGIORNAMENTO (12)
 
 la Corte costituzionale, con sentenza 6-10 marzo 2006, n. 87 (in G.U. 1a s.s. 15/3/2006, n. 11) ha disposto l'illegittimita' costituzionale del presente art. 46.
 
-#### Art. 47
+### Art. 47
 
 Istituto superiore di sanita'
 
@@ -1593,7 +1591,7 @@ Istituto superiore di sanita'
 
 > "93. Con decreto del Ministro delle finanze, di concerto con il Ministro dell'universita' e della ricerca scientifica e tecnologica, sentiti eventualmente gli altri Ministri competenti, possono essere concessi in uso perpetuo e gratuito alle universita', con spese di manutenzione ordinaria e straordinaria a carico delle stesse, gli immobili dello Stato liberi.".
 
-#### Art. 48
+### Art. 48
 
 Centro di alta specializzazione per il
 
@@ -1605,7 +1603,7 @@ trattamento e lo studio della talassemia
 
 3\. All'onere derivante dall'attuazione del presente articolo, determinato in 4.000.000 di euro per l'anno 2002 e in 10.000.000 di euro per ciascuno degli anni 2003 e 2004, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2002-2004, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2002, allo scopo parzialmente utilizzando, quanto a 3.499.666 euro per l'anno 2002, a 3.787.248 euro per l'anno 2003 e a 7.472.168 euro per l'anno 2004, l'accantonamento relativo al Ministero della salute, e quanto a 500.334 euro per l'anno 2002, a 6.212.752 euro per l'anno 2003 e a 2.527.832 euro per l'anno 2004, l'accantonamento relativo al Ministero dell'economia e delle finanze. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 49
+### Art. 49
 
 Convenzione di Oviedo sui diritti
 
@@ -1619,7 +1617,7 @@ dell'uomo e sulla biomedicina
 
 > "1. Il Governo e' delegato ad adottare, entro sei mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi recanti ulteriori disposizioni occorrenti per l'adattamento dell'ordinamento giuridico italiano ai principi e alle norme della Convenzione e del Protocollo di cui all'art. 1.".
 
-#### Art. 50
+### Art. 50
 
 Modifica all'articolo 27 del
 
@@ -1635,7 +1633,7 @@ decreto legislativo 30 luglio 1999, n. 300
 
 > 2\. Al Ministero sono attribuite le funzioni e i compiti spettanti allo Stato in materia di industria, artigianato, energia, commercio, fiere e mercati, prodotti agroindustriali, salvo quanto stabilito dall'art. 33, comma 3, lettera b), turismo e industria alberghiera, miniere, cave e torbiere, politiche per i consumatori, con eccezione dei prodotti agricoli e agroalimentari, commercio con l'estero e internazionalizzazione del sistema produttivo.".
 
-#### Art. 51
+### Art. 51
 
 Tutela della salute dei non fumatori
 
@@ -1719,7 +1717,7 @@ AGGIORNAMENTO (20)
 
 Il D.Lgs. 12 gennaio 2016, n. 6, ha disposto (con l'art. 24, comma 5) che le presenti modifiche si applicano a decorrere dalla data di entrata in vigore del suindicato D.Lgs.
 
-#### Art. 52
+### Art. 52
 
 Modalita' dell'accertamento medico-legale
 
@@ -1751,7 +1749,7 @@ d) quando il giudizio diagnostico sia stato espresso in modo da non permettere u
 
 > \- La legge 10 agosto 1950, n. 648 concerne "Riordino delle pensioni di guerra". La tabella A), ad essa allegata, individua, ripartendole in 8 categorie, le diverse lesioni ed infermita' che danno diritto a pensione vitalizia o ad assegno rinnovabile. La tabella B), ad essa allegata, individua le diverse lesioni ed infermita' che danno diritto ad indennita' per una volta soltanto.
 
-#### Art. 53
+### Art. 53
 
 Contributi straordinari a favore della provincia autonoma di Trento per lo svolgimento di un servizio di assistenza domiciliare integrata
 
@@ -1761,11 +1759,9 @@ Contributi straordinari a favore della provincia autonoma di Trento per lo svolg
 
 3\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-## Capo X - DISPOSIZIONI IN MATERIA DI TUTELA E SOSTEGNO
+## Capo X - DISPOSIZIONI IN MATERIA DI TUTELA E SOSTEGNO DELLA PATERNITA' E DELLA MATERNITA'
 
-### DELLA PATERNITA' E DELLA MATERNITA'
-
-#### Art. 54
+### Art. 54
 
 Differimento del termine per l'emanazione di disposizioni correttive del testo unico delle disposizioni legislative in materia di
 

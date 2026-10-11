@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I - DISPOSIZIONI IN MATERIA DI INCREMENTO DELLE DOTAZIONI ORGANICHE E DI
+## Capo I - DISPOSIZIONI IN MATERIA DI INCREMENTO DELLE DOTAZIONI ORGANICHE E DI ORDINAMENTO DEL CORPO NAZIONALE DEI VIGILI DEL FUOCO
 
-### ORDINAMENTO DEL CORPO NAZIONALE DEI VIGILI DEL FUOCO
-
-#### Art. 1
+### Art. 1
 
 Potenziamento delle dotazioni organiche
 
@@ -58,7 +56,7 @@ Potenziamento delle dotazioni organiche
 
 11\. Le assunzioni del personale di cui al presente articolo hanno luogo in deroga alle procedure di programmazione delle assunzioni di personale previste dall'articolo 39 della legge 27 dicembre 1997, n. 449, e successive modificazioni.
 
-#### Art. 2
+### Art. 2
 
 (Dirigenti del Corpo nazionale dei vigili del fuoco.
 
@@ -124,7 +122,7 @@ Incarichi di funzioni dirigenziali)
 
 > 8 - 12. (Omissis)".
 
-#### Art. 3 - Commissione medica per l'accertamento dei requisiti psico-fisici e attitudinali
+### Art. 3 - Commissione medica per l'accertamento dei requisiti psico-fisici e attitudinali
 
 1\. La Commissione medica per l'accertamento dei requisiti previsti per l'accesso ai profili dell'area operativa tecnica del Corpo nazionale dei vigili del fuoco e' composta da un dirigente dei ruoli sanitari del Ministero dell'interno, o di altra Amministrazione pubblica anche ad ordinamento autonomo, che la presiede, e da quattro medici. La Commissione puo' essere integrata, nei limiti degli ordinari stanziamenti di bilancio, da un numero massimo di altri due componenti per accertamenti sanitari di natura specialistica. E' abrogato l'articolo 21, primo comma, numero 5), della legge 13 maggio 1961, n. 469, come sostituito dall'articolo 11, comma 2, della legge 5 dicembre 1988, n. 521.
 
@@ -136,7 +134,7 @@ Incarichi di funzioni dirigenziali)
 
 > \- La legge n. 469/1961, reca: Ordinamento dei servizi antincendi del Corpo nazionale dei vigili del fuoco e stato giuridico e trattamento economico del personale dei sottufficiali, vigili scelti e vigili del Corpo nazionale dei vigili del fuoco, come sostituito dall'art. 11, comma 2, della legge n. 521/1988 (Misure di potenziamento delle Forze di polizia e del Corpo nazionale dei vigili del fuoco).
 
-#### Art. 4 - Arruolamento dei vigili volontari ausiliari
+### Art. 4 - Arruolamento dei vigili volontari ausiliari
 
 1\. All'articolo 7, ultimo comma, primo periodo, della legge 27 dicembre 1941, n. 1570, e successive modificazioni, le parole: "essi debbono essere in possesso dei requisiti prescritti dal regolamento del Corpo nazionale dei vigili del fuoco" sono sostituite dalle seguenti: "con regolamento adottato dal Ministro dell'interno, di concerto con il Ministro della difesa, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono stabiliti i requisiti necessari e le modalita' per l'arruolamento nel Corpo nazionale dei vigili del fuoco in qualita' di vigile volontario ausiliario".
 
@@ -180,7 +178,7 @@ c) non avere riportato le sanzioni disciplinari stabilite dal regolamento di cui
 
 > \- Per il testo del decreto del Ministro dell'interno n. 228/1993, vedasi nelle note all'art. 1.
 
-#### Art. 5 - Disposizioni per il personale dei ruoli sanitari del Ministero dell'interno
+### Art. 5 - Disposizioni per il personale dei ruoli sanitari del Ministero dell'interno
 
 1\. Tra le funzioni e i compiti amministrativi concernenti le competenze sanitarie e medico-legali della Polizia di Stato e del Corpo nazionale dei vigili del fuoco, di cui al combinato disposto dell'articolo 112, comma 2, e dell'articolo 113, comma 3, lettera c), del decreto legislativo 31 marzo 1998, n. 112, sono inclusi anche quelli relativi ai controlli sanitari dei dipendenti addetti e dei locali adibiti alla manipolazione e somministrazione di alimenti e bevande per il personale dipendente, da effettuare in collaborazione con le strutture sanitarie pubbliche competenti per territorio..
 
@@ -212,7 +210,7 @@ c) non avere riportato le sanzioni disciplinari stabilite dal regolamento di cui
 
 > i) non possono esercitare l'attivita' libero-professionale nei confronti degli appartenenti all'Amministrazione della pubblica sicurezza".
 
-#### Art. 6 - Svolgimento di attivita' sportive
+### Art. 6 - Svolgimento di attivita' sportive
 
 1\. Il Corpo nazionale dei vigili del fuoco cura e promuove istituzionalmente l'esercizio della pratica sportiva per consentire la preparazione e il ritempramento psico-fisico del personale in servizio, ivi compresa la partecipazione ad attivita' agonistiche interne ed esterne al Corpo anche attraverso i gruppi sportivi, la cui attivita' e' disciplinata con decreto del Ministro dell'interno.
 
@@ -222,11 +220,9 @@ c) non avere riportato le sanzioni disciplinari stabilite dal regolamento di cui
 
 4\. Al personale di cui al comma 3 non competono il trattamento economico di missione ed il compenso per lavoro straordinario.
 
-## Capo II - DISPOSIZIONI DI CARATTERE STRUMENTALE PER LA MIGLIORE ORGANIZZAZIONE
+## Capo II - DISPOSIZIONI DI CARATTERE STRUMENTALE PER LA MIGLIORE ORGANIZZAZIONE DEL CORPO NAZIONALE DEI VIGILI DEL FUOCO
 
-### DEL CORPO NAZIONALE DEI VIGILI DEL FUOCO
-
-#### Art. 7 - Acquisto di mezzi antincendi aeroportuali
+### Art. 7 - Acquisto di mezzi antincendi aeroportuali
 
 1\. Per fronteggiare le esigenze operative derivanti dalla nuova classificazione degli aeroporti inseriti nella tabella A di cui alla legge 23 dicembre 1980, n. 930, nonche' dall'assunzione a carico dello Stato dei servizi antincendi in taluni aeroporti per i quali e' in corso la procedura di riclassificazione, e' autorizzata per l'anno 2000 la spesa di lire 19.200 milioni per l'acquisto di mezzi antincendi aeroportuali.
 
@@ -312,7 +308,7 @@ c) non avere riportato le sanzioni disciplinari stabilite dal regolamento di cui
 
 > 4\) Treviso".
 
-#### Art. 8 - Alloggi di servizio
+### Art. 8 - Alloggi di servizio
 
 1\. Fermo restando il disposto dell'articolo 21 della legge 27 dicembre 1941, n. 1570, e successive modificazioni, nonche' dell'articolo 3, comma 1, del decreto-legge 18 maggio 1995, n. 176, convertito, con modificazioni, dalla legge 14 luglio 1995, n. 284, gli alloggi di servizio esistenti presso le sedi del Corpo nazionale dei vigili del fuoco possono essere assegnati in uso temporaneo con atto amministrativo, indipendentemente dalla loro ubicazione in immobili di proprieta' pubblica o di proprieta' privata, sulla base dei criteri e con le modalita' indicati con decreto del Ministro dell'interno, da emanare entro centoventi giorni dalla data di entrata in vigore della presente legge.
 
@@ -330,7 +326,7 @@ c) non avere riportato le sanzioni disciplinari stabilite dal regolamento di cui
 
 > "Art. 3 (Disposizioni concernenti il Corpo nazionale dei vigili del fuoco). - 1. Ai comandanti delle sedi provinciali indicate nell'art. 1, nonche' agli ispettori regionali, si applicano le disposizioni dell'art. 21 della legge 17 dicembre 1941, n. 1570".
 
-#### Art. 9 - Acquisizione di immobili e stipulazione dei contratti di locazione
+### Art. 9 - Acquisizione di immobili e stipulazione dei contratti di locazione
 
 1\. Per la stipulazione dei contratti di locazione di immobili privati o di enti pubblici ad uso del Corpo nazionale dei vigili del fuoco, il nulla osta alla spesa, di cui all'articolo 4 del decreto del Presidente della Repubblica 4 febbraio 1955, n. 72, e successive modificazioni, da parte del Ministero delle finanze - direzione centrale del demanio, e' richiesto ove l'importo contrattuale superi lire 1.500 milioni.
 
@@ -354,7 +350,7 @@ c) non avere riportato le sanzioni disciplinari stabilite dal regolamento di cui
 
 > "Art. 5. - 1. Con regolamento, da adottarsi a norma dell'art. 17, comma 1, della legge 23 agosto 1988, n. 400, entro centottanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, su proposta del Ministro dell'interno, di concerto con il Ministro del tesoro, sono emanate le norme di amministrazione e contabilita' del Corpo nazionale dei vigili del fuoco, che potranno contenere disposizioni anche in deroga alle norme di contabilita' generale dello Stato, allo scopo di conseguire obiettivi di snellimento e accelerazione delle procedure, per l'acquisto dei beni e per la prestazione dei servizi, necessari a garantire la permanente efficienza degli interventi di soccorso tecnico urgente in previsione di possibili emergenze".
 
-#### Art. 10
+### Art. 10
 
 (Misure a favore del personale volontario
 
@@ -374,7 +370,7 @@ del Corpo nazionale dei vigili del fuoco)
 
 7\. Entro sei mesi dalla data di entrata in vigore della presente legge, con decreto del Ministro dell'interno, il personale volontario del Corpo nazionale dei vigili del fuoco e' riorganizzato anche in nuclei operativi volontari per il soccorso tecnico e la logistica, che possono essere aggregati alle colonne mobili dei comandi e degli ispettorati dei vigili del fuoco per essere impiegati in operazioni di emergenza fuori dalla propria area di competenza.
 
-#### Art. 11 - Disposizioni in materia di lavoro straordinario
+### Art. 11 - Disposizioni in materia di lavoro straordinario
 
 1\. Per fronteggiare esigenze di servizio imprevedibili ed indilazionabili, l'attribuzione annua di ore di lavoro straordinario prevista dall'articolo 98, comma 2, del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, e' elevata a 160.000 ore per il 2000 ed a 240.000 ore a decorrere dal 2001. (3) ((5))
 
@@ -394,7 +390,7 @@ Il D.L. 16 luglio 2020, n. 76, convertito con modificazioni dalla L. 11 settembr
 
 Ha inoltre disposto (con l'art. 20, comma 15) che "Gli effetti giuridici ed economici di cui al presente articolo decorrono dal 1° gennaio 2020 ed ai fini previdenziali tali incrementi hanno effetto esclusivamente con riferimento ai periodi contributivi maturati a decorrere dalla medesima data".
 
-#### Art. 12 - Disposizioni in materia di vigili volontari discontinui
+### Art. 12 - Disposizioni in materia di vigili volontari discontinui
 
 1\. Il limite massimo previsto dall'articolo 41 della legge 23 dicembre 1980, n. 930, e' elevato, nei limiti degli ordinari stanziamenti di bilancio, a 160 giorni all'anno per le emergenze di protezione civile e per le esigenze dei comandi provinciali dei vigili del fuoco nei quali il personale volontario disponibile sia numericamente insufficiente.
 
@@ -408,11 +404,11 @@ Ha inoltre disposto (con l'art. 20, comma 15) che "Gli effetti giuridici ed econ
 
 > "Il limite massimo previsto dal terzo comma dell'art. 14 della legge 8 dicembre 1970, n. 996 e' elevato a centosessanta giorni all'anno, per quei comandi provinciali dei Vigili del fuoco nei quali il personale volontario disponibile sia numericamente insufficiente".
 
-#### Art. 13 - Operatori amministrativo-contabili
+### Art. 13 - Operatori amministrativo-contabili
 
 1\. Nell'arco del triennio decorrente dalla data di entrata in vigore della presente legge il Ministro dell'interno predispone ed attua un piano per l'inserimento nei distaccamenti dei vigili del fuoco, gia' operativi o di nuova istituzione, di personale OAC (operatori amministrativo-contabili).
 
-#### Art. 14
+### Art. 14
 
 (Corpi permanenti dei vigili del fuoco di Trento
 
@@ -432,15 +428,13 @@ e di Bolzano e della Valle d'Aosta)
 
 > \- Il decreto del Ministro del lavoro e della previdenza sociale del 30 marzo 1998, pubblicato nella Gazzetta Ufficiale n. 75 del 31 marzo 1998, reca: "Programmazione dell'accesso al pensionamento di anzianita' dei pubblici dipendenti, ai sensi dell'art. 59, comma 55, della legge 27 dicembre 1997, n. 449".
 
-#### Art. 15 - Competenze delle regioni a statuto speciale e delle province autonome
+### Art. 15 - Competenze delle regioni a statuto speciale e delle province autonome
 
 1\. Sono fatte salve le competenze delle regioni a statuto speciale e delle province autonome di Trento e di Bolzano.
 
-## Capo III - DISPOSIZIONI IN MATERIA
+## Capo III - DISPOSIZIONI IN MATERIA FINANZIARIA E CONTABILE
 
-### FINANZIARIA E CONTABILE
-
-#### Art. 16 - Istituzione del fondo a disposizione
+### Art. 16 - Istituzione del fondo a disposizione
 
 1\. A decorrere dall'anno 2000, nello stato di previsione del Ministero dell'interno - centro di responsabilita' "Protezione civile e servizi antincendi" - unita' previsionale di base "Spese generali di funzionamento" e' istituito un capitolo con un fondo a disposizione per sopperire alle eventuali deficienze dei capitoli della medesima unita' previsionale di base, con esclusione delle spese di personale.
 
@@ -460,13 +454,13 @@ e di Bolzano e della Valle d'Aosta)
 
 > e) per la prosecuzione del programma di ammodernamento e potenziamento tecnologico della Polizia di Stato, dell'Arma dei carabinieri, del Corpo della guardia di finanza e del Corpo nazionale dei vigili del fuoco, previsto dal decreto-legge 18 gennaio 1992, n. 9, convertito, con modificazioni, dalla legge 28 febbraio 1992, n. 217, sono autorizzati limiti di impegno quindicennali di lire 108,8 miliardi dall'anno 1999 e di lire 67,1 miliardi dall'anno 2000".
 
-#### Art. 17 - Convenzioni
+### Art. 17 - Convenzioni
 
 1\. Gli introiti derivanti da convenzioni che il ((Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile)) e il Dipartimento della pubblica sicurezza stipulano con regioni, enti locali e altri enti pubblici o privati rispettivamente nell'ambito dei compiti istituzionali del Corpo nazionale dei vigili del fuoco e della Polizia di Stato ((, anche ai fini della promozione e della valorizzazione delle proprie attivita',)) vengono versati su appositi capitoli dell'entrata del bilancio dello Stato per la immediata riassegnazione alle pertinenti unita' previsionali di base, rispettivamente, del centro di responsabilita' "((Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile))" e del centro di responsabilita' "Pubblica sicurezza" dello stato di previsione del Ministero dell'interno.
 
 2\. Gli introiti derivanti dalle attivita' formative e addestrative svolte dal Corpo nazionale dei vigili del fuoco, ai sensi delle convenzioni di cui al comma 1, e relativi alle spese per il personale, vengono riassegnati al capitolo concernente il Fondo per la produttivita' collettiva e il miglioramento dei servizi del Corpo nazionale dei vigili del fuoco.
 
-#### Art. 18 - Servizi a pagamento
+### Art. 18 - Servizi a pagamento
 
 1\. Gli importi dei corrispettivi dovuti per i servizi a pagamento resi dal Corpo nazionale dei vigili del fuoco ai sensi dell'articolo 1 della legge 26 luglio 1965, n. 966, sono stabiliti con decreto del Ministro dell'interno, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica.
 
@@ -546,7 +540,7 @@ e di Bolzano e della Valle d'Aosta)
 
 > 3\. I comandi provinciali dei vigili del fuoco, previo superamento di prova tecnica, rilasciano attestato di idoneita' ai lavoratori designati dai datori di lavoro di cui all'art. 12, comma 1, lettera b), del decreto legislativo 19 settembre 1994, n. 626, che hanno partecipato ai corsi di formazione svolti dal Corpo nazionale dei vigili del fuoco o da enti pubblici e privati".
 
-#### Art. 19 - Copertura finanziaria
+### Art. 19 - Copertura finanziaria
 
 1\. Agli oneri derivanti dall'attuazione dell'articolo 1, commi da 1 a 3 e 10, dell'articolo 7, dell'articolo 11, comma 1, e dell'articolo 16, comma 3, valutati complessivamente in lire 75.850 milioni per l'anno 2000, in lire 93.230 milioni per l'anno 2001 ed in lire 93.250 milioni a decorrere dall'anno 2002, si provvede, per il triennio 2000-2002, mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2000-2002, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 2000, allo scopo parzialmente utilizzando, quanto a lire 71.000 milioni per l'anno 2000, a lire 86.230 milioni per l'anno 2001 e a lire 86.250 milioni per l'anno 2002, l'accantonamento relativo al Ministero dell'interno; quanto a lire 4.850 milioni per l'anno 2000, a lire 7.000 milioni per l'anno 2001 e a lire 7.000 milioni per l'anno 2002, l'accantonamento relativo al Ministero del tesoro, del bilancio e della programmazione economica.
 

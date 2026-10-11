@@ -50,7 +50,7 @@ il seguente decreto legislativo:
 
 ## Capo I - Riassetto normativo dell'attivita' di autotrasporto di merci per conto di terzi
 
-##### Art. 1
+### Art. 1
 
 Finalita'
 
@@ -206,7 +206,7 @@ Finalita'
 
 > \- Per la legge 1° marzo 2005, n. 32 e gli articoli 1, comma 1, lettera b) e 2, comma 2, lettera b), vedi note alle premesse.
 
-##### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -224,7 +224,7 @@ e) proprietario della merce, l'impresa o la persona giuridica pubblica che ha la
 
 ((e-bis) sub-vettore, l'impresa di autotrasporto iscritta all'albo nazionale delle persone fisiche e giuridiche che esercitano l'autotrasporto di cose per conto di terzi, ovvero l'impresa non stabilita in Italia, abilitata a eseguire attivita' di autotrasporto internazionale o di cabotaggio stradale nel territorio italiano, che, nel rispetto del regolamento (CE) n. 1072/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009, svolge un servizio di trasporto su incarico di altro vettore)).
 
-##### Art. 3
+### Art. 3
 
 Superamento tariffe obbligatorie
 
@@ -266,7 +266,7 @@ h) il decreto del Ministro dei trasporti in data 1° agosto 1985, e successive m
 
 > \- Il decreto del Presidente della Repubblica 9 gennaio 1978, n. 56, recante: «Norme di esecuzione relative al titolo III della legge 6 giugno 1974, n. 298», e' pubblicato nella Gazzetta Ufficiale 18 marzo 1978, n. 77.
 
-##### Art. 4
+### Art. 4
 
 Contrattazione dei prezzi
 
@@ -274,7 +274,7 @@ Contrattazione dei prezzi
 
 2\. Sono nulle le clausole dei contratti di trasporto che comportano modalita' e condizioni di esecuzione delle prestazioni contrarie alle norme sulla sicurezza della circolazione stradale.
 
-##### Art. 5
+### Art. 5
 
 Accordi volontari
 
@@ -314,7 +314,7 @@ h) ricorso, in caso di controversie relative agli accordi, ad un tentativo di co
 
 > \- Per la legge 6 giugno 1974, n. 298, vedi note all'art. 3.
 
-##### Art. 6
+### Art. 6
 
 Forma dei contratti
 
@@ -348,7 +348,7 @@ b) istruzioni aggiuntive del committente o dei soggetti di cui alla lettera a) d
 
 6-bis. Al fine di mitigare gli effetti conseguenti all'aumento dei costi del carburante per autotrazione incentivando, al contempo, il ricorso alla forma scritta nella ((stipulazione dei contratti)) di trasporto di merci su strada, il corrispettivo ((,)) nei contratti di trasporto di merci su strada conclusi in forma non scritta, si determina in base ai valori indicativi di riferimento dei costi di esercizio dell'impresa di trasporto merci per conto di terzi, pubblicati e aggiornati dal Ministero delle infrastrutture e della mobilita' sostenibili ai sensi dell'articolo 1, comma 250, della legge 23 dicembre 2014, n. 190.
 
-##### Art. 6-bis
+### Art. 6-bis
 
 (Disciplina dei tempi di attesa ai fini del carico e scarico.
 
@@ -364,7 +364,7 @@ L'indennizzo non e' dovuto qualora il superamento del periodo di franchigia sia 
 
 4\. Fermo restando che le operazioni di scarico possono essere svolte anche in assenza del conducente, e' sempre assicurata al medesimo conducente la possibilita' di essere presente e di visionare la regolarita' delle operazioni di carico, con particolare riguardo alla sistemazione del medesimo sui veicoli, tenuto conto delle sanzioni di cui agli articoli 164 e 167 del ((codice della strada, di cui al)) decreto legislativo 30 aprile 1992, n. 285.
 
-##### Art. 6-ter
+### Art. 6-ter
 
 (( (Disciplina della sub-vettura) ))
 
@@ -376,7 +376,7 @@ L'indennizzo non e' dovuto qualora il superamento del periodo di franchigia sia 
 
 4\. All'impresa di trasporto che effettua trasporti di collettame mediante raggruppamento di piu' partite e spedizioni, ciascuna di peso non superiore a 50 quintali, con servizi che implicano la rottura del carico, intesa come scarico delle merci dal veicolo per la loro suddivisione e il successivo carico su altri mezzi, e' concessa la facolta' di avvalersi per l'esecuzione, in tutto o in parte, delle prestazioni di trasporto di uno o piu' sub-vettori dopo ogni rottura di carico)).
 
-##### Art. 7
+### Art. 7
 
 Responsabilita' del vettore, del committente del caricatore e del
 
@@ -410,11 +410,11 @@ f) articolo 174 (durata della guida degli autoveicoli adibiti al trasporto di pe
 
 ((7-bis. Quando dalla violazione di disposizioni del decreto legislativo 30 aprile 1992, n. 285, derivino la morte di persone o lesioni personali gravi o gravissime e la violazione sia stata commessa alla guida di uno dei veicoli per i quali e' richiesta la patente di guida di categoria C o C+E, e' disposta la verifica, presso il vettore, il committente, nonche' il caricatore e il proprietario della merce oggetto del trasporto, del rispetto delle norme sulla sicurezza della circolazione stradale previste dal presente articolo e dall'articolo 83-bis del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e successive modificazioni)).
 
-##### Art. 7-bis
+### Art. 7-bis
 
 ((ARTICOLO ABROGATO DALLA L. 23 DICEMBRE 2014, N. 190))
 
-##### Art. 7-ter
+### Art. 7-ter
 
 (( (Disposizioni in materia di azione diretta)
 
@@ -426,7 +426,7 @@ AGGIORNAMENTO (4)
 
 Il D.L. 6 luglio 2010, n. 103, convertito con modificazioni dalla L. 4 agosto 2010, n. 127, ha disposto (con l'art. 1-bis, comma 3) che "Le disposizioni di cui al comma 2, lettera e), si applicano decorso un anno dalla data di entrata in vigore della legge di conversione del presente decreto".
 
-##### Art. 8
+### Art. 8
 
 (( (Procedura di accertamento della responsabilita')
 
@@ -438,7 +438,7 @@ Il D.L. 6 luglio 2010, n. 103, convertito con modificazioni dalla L. 4 agosto 20
 
 4\. Le stesse sanzioni sono irrogate in caso di mancata presentazione della documentazione richiesta entro il termine indicato)).
 
-##### Art. 9
+### Art. 9
 
 Usi e consuetudini per i contratti non scritti
 
@@ -448,7 +448,7 @@ Usi e consuetudini per i contratti non scritti
 
 3\. In sede di prima applicazione, l'Osservatorio provvede ad elaborare gli elementi necessari ai fini di cui al comma 2 entro un anno dalla data di entrata in vigore del presente decreto legislativo. L'ulteriore aggiornamento degli usi e consuetudini e' effettuato con cadenza annuale, mediante la procedura di cui al comma 2.
 
-##### Art. 10
+### Art. 10
 
 Limiti al risarcimento per perdita o avaria delle cose trasportate
 
@@ -472,7 +472,7 @@ Il vettore non puo' avvalersi della limitazione della responsabilita' prevista a
 
 > Il vettore non puo' avvalersi della limitazione della responsabilita' prevista a suo favore dal presente articolo ove sia fornita la prova che la perdita o l'avaria della merce sono stati determinati da dolo o colpa grave del vettore o dei suoi dipendenti e preposti, ovvero di ogni altro soggetto di cui egli si sia avvalso per l'esecuzione del trasporto, quando tali soggetti abbiano agito nell'esercizio delle loro funzioni.».
 
-##### Art. 11
+### Art. 11
 
 Certificazione di qualita' per specifiche categorie di trasporto
 
@@ -484,7 +484,7 @@ vettori per il trasporto su strada di categorie merceologiche particolarmente se
 
 3\. Con decreto dirigenziale del Ministero delle infrastrutture e dei trasporti, sentite le altre amministrazioni interessate, da adottarsi entro il termine di novanta giorni dalla data di entrata in vigore del presente decreto legislativo, sono definiti modalita' e tempi per l'adozione di sistemi di certificazione di qualita', nei limiti di quanto previsto al comma 1.
 
-##### Art. 11-bis - Imballaggi e unita' di movimentazione
+### Art. 11-bis - Imballaggi e unita' di movimentazione
 
 1\. Nell'ipotesi in cui la merce da trasportare sia imballata, oppure stivata su apposite unita' per la sua movimentazione ((per mezzo di servizi ancillari resi da soggetti che, nell'esecuzione del trasporto, abbiano agito nell'esercizio delle loro funzioni in favore del vettore, il vettore medesimo)), al termine dell'operazione di trasporto, non ha alcun obbligo di gestione e non e' tenuto alla restituzione degli imballaggi o delle unita' di movimentazione utilizzate.
 
@@ -494,7 +494,7 @@ vettori per il trasporto su strada di categorie merceologiche particolarmente se
 
 4\. Allo scopo di tutelare l'igiene e la salute pubblica, le operazioni di trasporto su strada di merci destinate all'alimentazione umana o animale sono svolte nel rispetto della vigente disciplina comunitaria e nazionale.
 
-##### Art. 12
+### Art. 12
 
 Controllo della regolarita' amministrativa di circolazione
 
@@ -510,13 +510,9 @@ La mancanza di tali documenti accertata dalle autorita' competenti durante la ci
 
 5\. I conducenti dei veicoli adibiti al trasporto di cose per conto di terzi sono obbligati a tenere a bordo la documentazione idonea a dimostrare il titolo in base al quale prestano servizio presso il vettore e, se cittadini extracomunitari, l'attestato del conducente di cui al regolamento (CE) n. 484/2002 del Parlamento europeo e del Consiglio del 1° marzo 2002. (( In caso di mancato possesso di detta documentazione, si applicano le sanzioni amministrative di cui all'articolo 180, commi 7 e 8, del decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni, oltre alle sanzioni previste dalle vigenti disposizioni in materia di rapporto di lavoro dipendente. ))
 
-## Capo II - Attuazione della direttiva n. 2003/59/CE del Parlamento
+## Capo II - Attuazione della direttiva n. 2003/59/CE del Parlamento europeo e del Consiglio del 15 luglio 2003, sulla qualificazione iniziale e formazione periodica dei conducenti di taluni veicoli stradali adibiti al trasporto di ((cose)) o di passeggeri
 
-### europeo e del Consiglio del 15 luglio 2003, sulla qualificazione - iniziale e formazione periodica dei conducenti di taluni veicoli
-
-#### stradali adibiti al trasporto di ((cose)) o di passeggeri
-
-##### Art. 13
+### Art. 13
 
 Finalita'
 
@@ -528,7 +524,7 @@ AGGIORNAMENTO (6)
 
 Il D.Lgs. 16 gennaio 2013, n. 2 ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
-##### Art. 14 - Qualificazione iniziale e formazione periodica dei conducenti
+### Art. 14 - Qualificazione iniziale e formazione periodica dei conducenti
 
 1\. L'attivita' di guida su strada aperta all'uso pubblico per mezzo di veicoli ((adibiti al trasporto di cose e di passeggeri)) per i quali e' necessaria una patente di guida di categoria C1, C1E, C, CE, D1, D1E, D e DE e' subordinata all'obbligo di qualificazione iniziale e all'obbligo di formazione periodica disciplinati dal presente Capo.
 
@@ -538,7 +534,7 @@ AGGIORNAMENTO (6)
 
 Il D.Lgs. 16 gennaio 2013, n. 2 ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
-##### Art. 15
+### Art. 15
 
 (( (Ambito di applicazione). ))
 
@@ -556,7 +552,7 @@ AGGIORNAMENTO (6)
 
 Il D.Lgs. 16 gennaio 2013, n. 2 ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
-##### Art. 16
+### Art. 16
 
 (( (Deroghe). ))
 
@@ -600,7 +596,7 @@ AGGIORNAMENTO (6)
 
 Il D.Lgs. 16 gennaio 2013, n. 2 ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
-##### Art. 17
+### Art. 17
 
 (( (Esenzioni) ))
 
@@ -620,7 +616,7 @@ AGGIORNAMENTO (6)
 
 Il D.Lgs. 16 gennaio 2013, n. 2 ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
-##### Art. 18 - Qualificazione iniziale
+### Art. 18 - Qualificazione iniziale
 
 1\. Per l'accesso ai corsi di qualificazione iniziale, di cui all'articolo 19, comma 1, non e' richiesto il previo possesso della patente di guida corrispondente. Per accedere alla parte di programma relativo alle ore di guida individuale di cui all'allegato I, sezioni 2 o 2-bis, e' necessario il previo possesso dell'autorizzazione ad esercitarsi alla guida, rilasciata ai sensi dell'articolo 122, comma 1, del decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni, per la patente di guida di categoria corrispondente a quella presupposta dalla carta di qualificazione del conducente che si intende conseguire.
 
@@ -656,7 +652,7 @@ AGGIORNAMENTO (6)
 
 Il D.Lgs. 16 gennaio 2013, n. 2 ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
-##### Art. 19
+### Art. 19
 
 Carta di qualificazione del conducente comprovante la qualificazioneiniziale
 
@@ -690,7 +686,7 @@ AGGIORNAMENTO (6)
 
 Il D. Lgs. 16 gennaio 2013, n. 2 ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
-##### Art. 20
+### Art. 20
 
 (( (Formazione periodica). ))
 
@@ -718,7 +714,7 @@ AGGIORNAMENTO (6)
 
 Il D.Lgs. 16 gennaio 2013, n. 2 ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
-##### Art. 21
+### Art. 21
 
 (( (Luogo di svolgimento della qualificazione iniziale e della formazione periodica). ))
 
@@ -730,7 +726,7 @@ AGGIORNAMENTO (6)
 
 Il D.Lgs. 16 gennaio 2013, n. 2 ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
-##### Art. 22
+### Art. 22
 
 Codice unionale
 
@@ -776,7 +772,7 @@ Il D. Lgs. 16 gennaio 2013, n. 2 ha disposto (con l'art. 13, comma 1) che "Nel c
 
 Ha inoltre disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
-##### Art. 22-bis
+### Art. 22-bis
 
 (( (Assistenza reciproca degli Stati dell'Unione europea e dello Spazio economico europeo). ))
 
@@ -784,7 +780,7 @@ Ha inoltre disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo
 
 2\. L'accesso alla rete e' protetto. Lo scambio di informazioni sulla rete dell'Unione europea si conforma alle norme vigenti in materia di protezione dei dati personali e l'accesso alla rete e' consentito esclusivamente alle autorita' competenti responsabili per il rilascio, la gestione ed il controllo delle patenti di guida e delle qualificazioni dei conducenti ai sensi della direttiva 2003/59/CE.))
 
-##### Art. 23
+### Art. 23
 
 Sistema sanzionatorio e detrazione dei punti
 
@@ -800,7 +796,7 @@ AGGIORNAMENTO (6)
 
 Il D. Lgs. 16 gennaio 2012, n. 2 ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto."
 
-##### Art. 24
+### Art. 24
 
 Disposizione finanziaria
 
@@ -828,13 +824,9 @@ Scajola, Ministro delle attivita' produttive
 
 Visto, il Guardasigilli: Castelli
 
-## Capo II - Attuazione della direttiva n. 2003/59/CE del Parlamento
+## Capo II - Attuazione della direttiva n. 2003/59/CE del Parlamento europeo e del Consiglio del 15 luglio 2003, sulla qualificazione iniziale e formazione periodica dei conducenti di taluni veicoli stradali adibiti al trasporto di ((cose)) o di passeggeri
 
-### europeo e del Consiglio del 15 luglio 2003, sulla qualificazione - iniziale e formazione periodica dei conducenti di taluni veicoli
-
-#### stradali adibiti al trasporto di ((cose)) o di passeggeri
-
-##### Allegato I
+### Allegato I
 
 Allegato I
 
@@ -1018,7 +1010,7 @@ AGGIORNAMENTO (6)
 
 Il D.Lgs. 16 gennaio 2013, n. 2 ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
-##### Allegato II
+### Allegato II
 
 Allegato II
 

@@ -78,7 +78,7 @@ Emana
 
 il seguente decreto legislativo:
 
-#### Art. 1
+### Art. 1
 
 Finalita' e obiettivi
 
@@ -228,11 +228,9 @@ Finalita' e obiettivi
 
 > \- Per i riferimenti al Regolamento (CE) n. 1005/2008, si veda nelle note alle premesse.
 
-## Capo I
+## Capo I - Attivita' di pesca e acquacoltura
 
-### Attivita' di pesca e acquacoltura
-
-#### Art. 2
+### Art. 2
 
 Pesca professionale
 
@@ -254,7 +252,7 @@ b) l'attuazione di interventi di gestione attiva, finalizzati alla valorizzazion
 
 4\. L'imbarco di persone di cui al comma 1, lettera a), e' autorizzato dall'autorita' marittima dell'ufficio di iscrizione della nave da pesca secondo le modalita' fissate dalle disposizioni vigenti.
 
-#### Art. 3
+### Art. 3
 
 Acquacoltura
 
@@ -284,7 +282,7 @@ c) l'attuazione di interventi di gestione attiva, finalizzati alla valorizzazion
 
 > Per il testo dell'art. 24, comma 2, della legge n. 104 del 1992, si veda nelle note all'art. 2.
 
-#### Art. 4
+### Art. 4
 
 Imprenditore ittico
 
@@ -328,7 +326,7 @@ Imprenditore ittico
 
 > 2-bis. In deroga alle disposizioni di cui al comma 1, le cooperative della piccola pesca di cui alla legge 13 marzo 1958, n. 250, possono corrispondere ai propri soci lavoratori un compenso proporzionato all'entita' del pescato, secondo criteri e parametri stabiliti dal regolamento interno previsto dall'art. 6.».
 
-#### Art. 5
+### Art. 5
 
 Giovane imprenditore ittico
 
@@ -358,7 +356,7 @@ c) le societa' di capitali di cui i giovani imprenditori ittici detengano oltre 
 
 > \- Per il testo dell'art. 2, comma 120, della legge 24 dicembre n. 244 del 2007, si veda nelle note alle premesse.
 
-#### Art. 6
+### Art. 6
 
 Pesca non professionale
 
@@ -372,11 +370,9 @@ Pesca non professionale
 
 5\. La pesca con il fucile subacqueo o con attrezzi similari e' consentita soltanto ai maggiori di anni sedici.
 
-## Capo II
+## Capo II - Sanzioni
 
-### Sanzioni
-
-#### Art. 7
+### Art. 7
 
 (( (Contravvenzioni). ))
 
@@ -400,7 +396,7 @@ g) sottrarre od asportare gli organismi acquatici che si trovano in spazi acquei
 
 Resta esclusa qualsiasi forma di commercializzazione per i prodotti di tale tipo di pesca ed e' consentito detenere e trasportare le specie pescate per soli fini scientifici.))
 
-#### Art. 8
+### Art. 8
 
 (( (Pene principali per le contravvenzioni). ))
 
@@ -408,7 +404,7 @@ Resta esclusa qualsiasi forma di commercializzazione per i prodotti di tale tipo
 
 2\. Chiunque viola i divieti di cui all'articolo 7, comma 1, lettere f) e g), e' punito, salvo che il fatto costituisca piu' grave reato, a querela della persona offesa, con l'arresto da un mese a un anno o con l'ammenda da 1.000 euro a 6.000 euro.))
 
-#### Art. 9 - Pene accessorie per le contravvenzioni
+### Art. 9 - Pene accessorie per le contravvenzioni
 
 1\. La condanna per le contravvenzioni previste e punite dal presente decreto comporta l'applicazione delle seguenti pene accessorie:
 
@@ -424,13 +420,13 @@ d) la sospensione dell'esercizio commerciale da cinque a dieci giorni, in caso d
 
 3\. Qualora le violazioni di cui all'articolo 7, comma 1, lettere a), d) ed e), siano commesse mediante l'impiego di un'imbarcazione non espressamente autorizzata all'esercizio della pesca marittima professionale, e' sempre disposta nei confronti dei trasgressori la sospensione ((dell'iscrizione)) nel registro dei pescatori da quindici a trenta giorni e, in caso di recidiva, da trenta giorni a tre mesi.
 
-#### Art. 10
+### Art. 10
 
 (( (Pesca senza licenza o autorizzazione). ))
 
 1\. ((Salvo che il fatto costituisca reato, chiunque svolge attivita' di pesca con unita' iscritte nei registri di cui all'articolo 146 del codice della navigazione senza essere in possesso di una licenza di pesca in corso di validita' o di un'autorizzazione prevista da disposizioni europee o nazionali in corso di validita' e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro. La violazione costituisce infrazione grave e comporta l'assegnazione di 7 punti alla licenza di pesca e al marittimo imbarcato con la funzione di comandante dell'unita' da pesca, qualora la validita' del titolo sia scaduta da oltre trenta giorni))
 
-#### Art. 11
+### Art. 11
 
 (( (Pesca in zone e tempi vietati).))
 
@@ -446,7 +442,7 @@ c) quando la navigazione e' iniziata in tempi vietati.))
 
 3\. ((Salvo che il fatto costituisca reato, chiunque pesca direttamente stock ittici per i quali l'attivita' di pesca e' sospesa ai fini del ripopolamento per la ricostituzione degli stessi e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro. La violazione costituisce infrazione grave e comporta l'assegnazione di 7 punti alla licenza di pesca e al marittimo imbarcato con la funzione di comandante dell'unita' da pesca, qualora il prodotto ittico prelevato superi 100 kg di peso)).
 
-#### Art. 12
+### Art. 12
 
 (( (Pesca di quantita' superiori a quelle autorizzate).))
 
@@ -456,7 +452,7 @@ c) quando la navigazione e' iniziata in tempi vietati.))
 
 3\. ((Salvo che il fatto costituisca reato, chiunque pesca direttamente uno stock ittico per il quale e' previsto un contingente di cattura senza disporre di tale contingente ovvero dopo che il medesimo e' andato esaurito e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro. La violazione costituisce infrazione grave e comporta l'assegnazione di 6 punti alla licenza di pesca e al marittimo imbarcato con la funzione di comandante dell'unita' da pesca, qualora il prodotto ittico prelevato superi 100 kg di peso, salvo il caso di un unico esemplare di peso superiore)).
 
-#### Art. 13
+### Art. 13
 
 (( (Uso o detenzione di attrezzi o strumenti da pesca vietati).))
 
@@ -474,7 +470,7 @@ In caso di reti da posta derivanti o ferrettare non conformi, la violazione cost
 
 3\. ((Chiunque falsifica, occulta o omette la marcatura, l'identita' o i contrassegni di individuazione dell'unita' da pesca ovvero, ove previsto, degli attrezzi da pesca e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro. La violazione costituisce infrazione grave e comporta l'assegnazione di 5 punti alla licenza di pesca e al marittimo imbarcato con la funzione di comandante dell'unita' da pesca)).
 
-#### Art. 13-bis
+### Art. 13-bis
 
 (( (Apparato motore, dispositivi di geolocalizzazione e registrazione delle catture).))
 
@@ -488,7 +484,7 @@ In caso di reti da posta derivanti o ferrettare non conformi, la violazione cost
 
 5\. ((Salvo che il fatto costituisca reato, chiunque viola le prescrizioni delle normative europea e nazionale vigenti in materia di obbligo di sbarco e' soggetto al pagamento della sanzione amministrativa pecuniaria da 2.000 euro a 12.000 euro. La violazione costituisce infrazione grave e comporta l'assegnazione di 3 punti alla licenza di pesca e al marittimo imbarcato con la funzione di comandante dell'unita' da pesca.))
 
-#### Art. 13-ter
+### Art. 13-ter
 
 (( (Contrasto alla pesca illegale, non dichiarata e non regolamentata).))
 
@@ -506,7 +502,7 @@ c) coadiuvare la pesca INN o svolgere attivita' a bordo in qualita' di operatore
 
 4\. ((Salvo che il fatto costituisca reato, chiunque commercializza il prodotto della pesca proveniente da attivita' di pesca INN, ai sensi del regolamento (CE) n. 1005/2008 del Consiglio, del 29 settembre 2008, ferma restando l'applicazione delle norme in materia di alienazione dei beni confiscati da parte delle autorita' competenti, e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro.))
 
-#### Art. 13-quater
+### Art. 13-quater
 
 (( (Intralcio all'attivita' di ispezione degli organi deputati alla vigilanza e al controllo).))
 
@@ -514,19 +510,19 @@ c) coadiuvare la pesca INN o svolgere attivita' a bordo in qualita' di operatore
 
 2\. ((Salvo che il fatto costituisca reato, chiunque intralcia l'attivita' condotta dagli ispettori della pesca, dagli organi deputati alla vigilanza e al controllo e dagli osservatori, nell'esercizio delle loro funzioni, nel rispetto delle normative europea e nazionale vigenti, e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro. La violazione costituisce infrazione grave e comporta l'assegnazione di 7 punti alla licenza di pesca e al marittimo imbarcato con la funzione di comandante dell'unita' da pesca.))
 
-#### Art. 13-quinquies
+### Art. 13-quinquies
 
 (( (Violazione di obblighi relativi a specie appartenenti a stock ittici oggetto di piani pluriennali).))
 
 1\. ((Salvo che il fatto costituisca reato e fermo restando quanto previsto all'articolo 13-bis, comma 4, chiunque viola gli obblighi previsti dalle pertinenti normative europea e nazionale relative a specie appartenenti a stock ittici oggetto di piani pluriennali e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro.))
 
-#### Art. 13-sexies
+### Art. 13-sexies
 
 (( (Violazione di obblighi in materia di etichettatura e tracciabilita').))
 
 1\. ((Salvo che il fatto costituisca reato, chiunque viola gli obblighi previsti dalle vigenti normative europea e nazionale in materia di etichettatura e tracciabilita', nonche' gli obblighi relativi alle corrette informazioni all'acquirente finale, relativamente a tutte le partite di prodotti della pesca e dell'acquacoltura, in ogni fase della produzione, della trasformazione e della distribuzione, dalla cattura o raccolta alla vendita al dettaglio, e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro.))
 
-#### Art. 13-septies
+### Art. 13-septies
 
 (( (Violazioni agli obblighi relativi al rispetto delle taglie minime di riferimento).))
 
@@ -564,7 +560,7 @@ e) oltre 200 kg di pescato di taglia inferiore alla taglia minima di riferimento
 
 9\. ((Le violazioni di cui ai commi 1 e 3 costituiscono infrazioni gravi e comportano l'assegnazione di 5 punti alla licenza di pesca e al marittimo imbarcato con la funzione di comandante dell'unita' da pesca, qualora il prodotto ittico prelevato superi 100 kg di peso.))
 
-#### Art. 13-octies
+### Art. 13-octies
 
 (( (Violazioni nell'esercizio della pesca non professionale).))
 
@@ -590,7 +586,7 @@ c) oltre 50 kg di pescato: sanzione amministrativa pecuniaria compresa tra 12.00
 
 6\. ((Fermo restando quanto previsto dalla normativa vigente, agli esercizi commerciali che acquistano pescato in violazione delle disposizioni dei commi 3 e 4 si applica la sanzione della sospensione dell'esercizio commerciale da cinque a dieci giorni lavorativi.))
 
-#### Art. 13-novies
+### Art. 13-novies
 
 (( (Sanzioni amministrative accessorie).))
 
@@ -608,7 +604,7 @@ c) l'obbligo di rimettere in pristino le zone in cui sono stati collocati appare
 
 4\. ((Con decreto del Ministro dell'agricoltura, della sovranita' alimentare e delle foreste sono individuati modalita', termini e procedure per l'applicazione della misura della sospensione dell'iscrizione nel registro dei pescatori di cui al comma 3.))
 
-#### Art. 13-decies
+### Art. 13-decies
 
 (( (Disposizioni procedurali).))
 
@@ -626,7 +622,7 @@ c) l'obbligo di rimettere in pristino le zone in cui sono stati collocati appare
 
 7\. ((Le sanzioni amministrative pecuniarie di cui agli articoli 10, 11, 12, commi 1 e 3, 13, comma 1, 13-bis, comma 4, 13-ter, commi 2 e 4, 13-quinquies e 13-septies, comma 6, sono aumentate di un terzo nel caso in cui abbiano a oggetto specie ittiche soggette a piani di gestione per la ricostituzione)).
 
-#### Art. 14 - Istituzione del sistema di punti per infrazioni gravi
+### Art. 14 - Istituzione del sistema di punti per infrazioni gravi
 
 1\. E' istituito il sistema di punti per infrazioni gravi di cui all'articolo 92 del regolamento (CE) n. 1224/2009 del Consiglio, del 20 novembre 2009, ed agli articoli 125 e seguenti del regolamento (UE) n. 404/2011 della Commissione, dell'8 aprile 2011.
 
@@ -638,13 +634,13 @@ c) l'obbligo di rimettere in pristino le zone in cui sono stati collocati appare
 
 5\. Il sistema di punti per infrazioni gravi si applica anche all'autorizzazione per l'esercizio della pesca subacquea professionale, secondo modalita', termini e procedure da individuare con decreto del Ministro delle politiche agricole alimentari e forestali.
 
-#### Art. 15
+### Art. 15
 
 Registro nazionale delle infrazioni
 
 1\. Il Registro nazionale delle infrazioni e' istituito presso il Centro controllo nazionale pesca del Comando generale delle Capitanerie di porto presso il Ministero delle infrastrutture e dei trasporti.
 
-#### Art. 16
+### Art. 16
 
 Sospensione e revoca definitiva della licenza
 
@@ -656,7 +652,7 @@ Sospensione e revoca definitiva della licenza
 
 4\. Qualora una licenza di pesca sia stata sospesa ai sensi del presente articolo, eventuali nuovi punti assegnati alla licenza di pesca vengono aggiunti ai punti esistenti.
 
-#### Art. 17
+### Art. 17
 
 Pesca illegale durante la sospensione o successivamente alla revoca definitiva della licenza di pesca
 
@@ -684,7 +680,7 @@ Pesca illegale durante la sospensione o successivamente alla revoca definitiva d
 
 > 2\. Le misure di esecuzione sono tali da impedire il proseguimento dell'infrazione grave di cui trattasi e da consentire alle autorita' competenti di completarne l'indagine.».
 
-#### Art. 18
+### Art. 18
 
 Cancellazione di punti
 
@@ -706,7 +702,7 @@ d) il titolare della licenza di pesca partecipi a una attivita' di pesca che rie
 
 5\. Se i punti sono stati cancellati a norma dei commi 2 e 4, il titolare della licenza viene informato dalla Direzione generale della pesca marittima e dell'acquacoltura di tale cancellazione e del numero di punti eventualmente rimanenti.
 
-#### Art. 19
+### Art. 19
 
 Sistema di punti per i comandanti dei pescherecci
 
@@ -716,7 +712,7 @@ Sistema di punti per i comandanti dei pescherecci
 
 3\. Con successivo decreto del Ministro delle politiche agricole alimentari e forestali sono individuati modalita', termini e procedure per l'applicazione del sistema di punti di cui al presente articolo.
 
-#### Art. 20
+### Art. 20
 
 Sanzioni applicate al comandante della nave
 
@@ -732,7 +728,7 @@ c) al raggiungimento di un numero di punti pari o superiore a 90, il divieto di 
 
 3\. Nel caso in cui non venga commessa una nuova infrazione grave nei tre anni successivi all'ultima infrazione grave, tutti i punti applicati alle funzioni di comandante sono annullati.
 
-#### Art. 21
+### Art. 21
 
 Sanzioni disciplinari
 
@@ -756,7 +752,7 @@ Sanzioni disciplinari
 
 > 6\) dai comandanti delle navi da guerra nazionali sui componenti dell'equipaggio quando la nave, su cui sono imbarcati, e' in corso di navigazione o in un Paese estero nel quale non risiede un'autorita' consolare.».
 
-#### Art. 22
+### Art. 22
 
 Vigilanza e controllo
 
@@ -774,13 +770,13 @@ Vigilanza e controllo
 
 7\. Gli incaricati del controllo sulla pesca marittima possono accedere in ogni momento presso le navi, i galleggianti, gli stabilimenti di pesca, i luoghi di deposito e di vendita, commercializzazione e somministrazione e presso i mezzi di trasporto dei prodotti della pesca, al fine di accertare l'osservanza delle norme sulla disciplina della pesca ((e delle disposizioni concernenti la sicurezza e l'igiene dei prodotti ittici destinati al consumo umano, quando gli accertamenti consistono nella verifica di situazioni oggettive di non conformita' che non richiedono valutazioni di ordine tecnico-sanitario)).
 
-#### Art. 23
+### Art. 23
 
 Risarcimento del danno
 
 1\. Per i reati previsti dal presente decreto le Amministrazioni interessate possono costituirsi parte civile nel relativo giudizio penale.
 
-#### Art. 24
+### Art. 24
 
 Potere di deroga del Ministro delle politiche agricole alimentari e forestali
 
@@ -792,11 +788,9 @@ Potere di deroga del Ministro delle politiche agricole alimentari e forestali
 
 > \- Per i riferimenti al citato Regolamento (CE) n. 2371/2002, si veda nelle note alle premesse.
 
-## Capo III
+## Capo III - Disposizioni finali
 
-### Disposizioni finali
-
-#### Art. 25
+### Art. 25
 
 Norme attuative
 
@@ -820,7 +814,7 @@ Norme attuative
 
 > \- Per i riferimenti al citato decreto del Presidente della Repubblica n. 1639 del 1968, si veda nelle note alle premesse.
 
-#### Art. 26
+### Art. 26
 
 Clausola di invarianza finanziaria
 
@@ -828,7 +822,7 @@ Clausola di invarianza finanziaria
 
 2\. Le amministrazioni pubbliche interessate provvedono all'attuazione del presente decreto con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-#### Art. 27
+### Art. 27
 
 Abrogazioni
 
@@ -862,7 +856,7 @@ f) i commi 2 e 2-bis dell'articolo 11 del decreto legislativo 26 maggio 2004, n.
 
 > \- Per il testo dell'art. 11, commi 2 e 2-bis, del citato decreto legislativo n. 154 del 2004, si veda nelle note alle premesse.
 
-#### Art. 28
+### Art. 28
 
 Entrata in vigore
 
@@ -890,7 +884,7 @@ Visto, il Guardasigilli: Severino
 
 ## Allegati
 
-#### Allegato I
+### Allegato I
 
 Allegato I
 

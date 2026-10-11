@@ -100,101 +100,99 @@ Abbiamo decretato e decretiamo:
 
 ## TITOLO I. - Disposizioni generali.
 
-##### Art. 1
+#### Art. 1
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 2
+#### Art. 2
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 3
+#### Art. 3
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 4
+#### Art. 4
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 5
+#### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 6
+#### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 7
+#### Art. 7
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 8
+#### Art. 8
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 9
+#### Art. 9
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 10
+#### Art. 10
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-## TITOLO II. - Costituzione dell'ispettorato per la difesa del risparmio e per
+## TITOLO II. - Costituzione dell'ispettorato per la difesa del risparmio e per l'esercizio del credito.
 
-### l'esercizio del credito.
-
-##### Art. 11
+#### Art. 11
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 12
+#### Art. 12
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 13
+#### Art. 13
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 14
+#### Art. 14
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 15
+#### Art. 15
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 16
+#### Art. 16
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 17
+#### Art. 17
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 18
+#### Art. 18
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 19
+#### Art. 19
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
 ## TITOLO III. - L'istituto di emissione.
 
-##### Art. 20
+#### Art. 20
 
 ((ARTICOLO ABROGATO DAL D.L. 30 NOVEMBRE 2013, N. 133, CONVERTITO CON MODIFICAZIONI DALLA L. 29 GENNAIO 2014, N. 5))
 
-##### Art. 21
+#### Art. 21
 
 ((ARTICOLO ABROGATO DAL D.L. 30 NOVEMBRE 2013, N. 133, CONVERTITO CON MODIFICAZIONI DALLA L. 29 GENNAIO 2014, N. 5))
 
-##### Art. 22
+#### Art. 22
 
 ((ARTICOLO ABROGATO DAL D.L. 30 NOVEMBRE 2013, N. 133, CONVERTITO CON MODIFICAZIONI DALLA L. 29 GENNAIO 2014, N. 5))
 
-##### Art. 23
+#### Art. 23
 
 ((A partire dal 1° luglio 1936-XIV, le operazioni di risconto potranno essere fatte solamente nei confronti delle aziende di credito, sia di diritto pubblico che di diritto privato, sottoposte al controllo dell'Ispettorato.
 
@@ -202,45 +200,43 @@ Le operazioni di sconto in essere al 30 giugno 1936-XIV con la clientela privata
 
 Le operazioni di anticipazioni su titoli continueranno ad essere compiute in conformita' delle leggi vigenti anche nei confronti dei privati. Ad esse non si applica quanto e' disposto dall'art. 709 del Codice di commercio.))
 
-##### Art. 24
+#### Art. 24
 
 ((Con decreto Reale, su proposta del Capo del Governo, di concerto col Ministro per le finanze, sara' approvato il nuovo statuto della Banca d'Italia, in armonia con le disposizioni della presente legge.))
 
 ## TITOLO IV. - ((Istituti di Credito di Diritto Pubblico e Banche di Interesse Nazionale)).
 
-##### Art. 25
+#### Art. 25
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 26
+#### Art. 26
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 27
+#### Art. 27
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-## TITOLO V. - Disciplina degli istituti, imprese ed enti raccoglitori di
+## TITOLO V. - Disciplina degli istituti, imprese ed enti raccoglitori di risparmio a breve termine.
 
-### risparmio - a breve termine.
-
-##### Art. 28
+#### Art. 28
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 29
+#### Art. 29
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 30
+#### Art. 30
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 31
+#### Art. 31
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 32
+#### Art. 32
 
 Le aziende di credito soggette alle disposizioni della presente legge dovranno attenersi alle istruzioni che l'Ispettorato comunichera', conformemente alle deliberazioni del Comitato dei Ministri, relativamente:
 
@@ -262,15 +258,15 @@ h) ((LETTERA ABROGATA DAL D.LGS. 1 SETTEMBRE 1993, N. 385)).
 
 ((COMMA ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385)).
 
-##### Art. 33
+#### Art. 33
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 34
+#### Art. 34
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 35
+#### Art. 35
 
 ((IL D.LGS. 13 DICEMBRE 2010, N. 212 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE COMMA)).
 
@@ -298,287 +294,285 @@ AGGIORNAMENTO (15)
 
 Il D.Lgs. 13 dicembre 2010, n. 212, ha disposto (con l'art. 1, comma 1) l'abrogazione del presente articolo, comma 2, lettera d).
 
-##### Art. 36
+#### Art. 36
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 37
+#### Art. 37
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 38
+#### Art. 38
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 39
+#### Art. 39
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 40
+#### Art. 40
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
 ## TITOLO VI. - Disciplina della raccolta del risparmio a medio e lungo termine.
 
-##### Art. 41
+#### Art. 41
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 42
+#### Art. 42
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 43
+#### Art. 43
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 44
+#### Art. 44
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 45
+#### Art. 45
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 46
+#### Art. 46
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-## TITOLO VII. - Delle fusioni, dell'amministrazione straordinaria e della
+## TITOLO VII. - Delle fusioni, dell'amministrazione straordinaria e della liquidazione delle aziende raccoglitrici di risparmio a breve termine.
 
-### liquidazione delle aziende raccoglitrici di risparmio a breve - termine.
+### Capo I. - Delle fusioni.
 
-#### Capo I. - Delle fusioni.
-
-##### Art. 47
+#### Art. 47
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 48
+#### Art. 48
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 49
+#### Art. 49
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 50
+#### Art. 50
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 51
+#### Art. 51
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 52
+#### Art. 52
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 53
+#### Art. 53
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 54
+#### Art. 54
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 55
+#### Art. 55
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 56
+#### Art. 56
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-## Capo II. - Dell'Amministrazione straordinaria.
+### Capo II. - Dell'Amministrazione straordinaria.
 
-##### Art. 57
-
-((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
-
-##### Art. 58
+#### Art. 57
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 59
+#### Art. 58
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 60
+#### Art. 59
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 61
+#### Art. 60
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 62
+#### Art. 61
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 63
+#### Art. 62
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 64
+#### Art. 63
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 65
+#### Art. 64
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 66
+#### Art. 65
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-## Capo III. - Della liquidazione.
-
-##### Art. 67
+#### Art. 66
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 68
+### Capo III. - Della liquidazione.
+
+#### Art. 67
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 69
+#### Art. 68
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 70
+#### Art. 69
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 71
+#### Art. 70
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 72
+#### Art. 71
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 73
+#### Art. 72
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 74
+#### Art. 73
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 75
+#### Art. 74
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 76
+#### Art. 75
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 77
+#### Art. 76
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 78
+#### Art. 77
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 79
+#### Art. 78
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 80
+#### Art. 79
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 81
+#### Art. 80
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 82
+#### Art. 81
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 83
+#### Art. 82
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 84
+#### Art. 83
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 85
+#### Art. 84
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 86
+#### Art. 85
+
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+
+#### Art. 86
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
 ## TITOLO VIII. - Disposizioni penali.
 
-##### Art. 87
+#### Art. 87
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 88
+#### Art. 88
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 89
+#### Art. 89
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 90
+#### Art. 90
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 91
+#### Art. 91
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 92
+#### Art. 92
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 93
+#### Art. 93
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 94
+#### Art. 94
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 95
+#### Art. 95
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 96
+#### Art. 96
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 97
+#### Art. 97
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 98
+#### Art. 98
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
 ## TITOLO IX. - Disposizioni varie, transitorie e finali.
 
-##### Art. 99
+#### Art. 99
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 100
+#### Art. 100
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 101
+#### Art. 101
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 102
+#### Art. 102
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
@@ -600,14 +594,14 @@ Registrato alla Corte dei conti, addi' 15 marzo 1936 - Anno XIV
 
 Atti del Governo, registro 370, foglio 89. - Mancini.
 
-##### Art. 103
+#### Art. 103
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 104
+#### Art. 104
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 105
+#### Art. 105
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))

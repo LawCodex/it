@@ -28,7 +28,7 @@ la seguente legge:
 
 ## CAPO I - Cassa per il Mezzogiorno
 
-#### Art. 1
+### Art. 1
 
 L'art. 1 della legge 10 agosto 1950, n. 646, e' sostituito dal seguente:
 
@@ -38,7 +38,7 @@ Il piano suaccennato riguarda complessi organici di opere inerenti alla sistemaz
 
 Restano ferme le attribuzioni e gli oneri dei Ministeri competenti per le opere, anche straordinarie, alle quali lo Stato provvede con carattere di generalita', al cui finanziamento viene fatto fronte mediante stanziamenti dei singoli stati di previsione dei Ministeri suddetti".
 
-#### Art. 2
+### Art. 2
 
 Alla lettera c) dell'art. 10 della legge 10 agosto 1950, n. 646, sono sostituite le seguenti:
 
@@ -52,7 +52,7 @@ Alla lettera c) dell'art. 10 della legge 10 agosto 1950, n. 646, sono sostituite
 
 ## CAPO II - Opere straordinarie per l'Italia centro-settentrionale
 
-#### Art. 3
+### Art. 3
 
 L'art. 3 della legge 10 agosto 1950, n. 647, e' sostituito dal seguente:
 
@@ -66,7 +66,7 @@ L'art. 3 della legge 10 agosto 1950, n. 647, e' sostituito dal seguente:
 
 "Le opere stesse sono considerate indifferibili ed urgenti ai sensi e per gli effetti dell'art. 71 della legge 25 giugno 1805, n. 2359".
 
-#### Art. 4
+### Art. 4
 
 L'art. 5 della legge 10 agosto 1950, n. 647, e' sostituito dal seguente:
 
@@ -88,7 +88,7 @@ decreto Ministeriale 1 agosto 1949, concernente variazioni d'imposta e prezzi di
 
 ## CAPO III - Credito per macchine agricole, opere irrigue e Costruzioni rurali.
 
-#### Art. 5
+### Art. 5
 
 E' istituito presso il Ministero dell'agricoltura e' delle foreste un fondo di rotazione per anticipazioni a Istituti esercenti il credito ed a quelli autorizzati all'esercizio del credito agrario, da preferire a parita' di condizioni, per la concessione, a favore di agricoltori, singoli od associati, con preferenza ai piccoli ed ai medi, ed alle cooperative, di prestiti destinati all'acquisto di macchine agricole di produzione italiana, ovvero di prestiti e di mutui da impiegare nella costruzione di impianti di irrigazione, di edifici rurali destinati ad abitazione dei coltivatori, al ricovero del bestiame, alla conservazione, alla manipolazione ed alla trasformazione dei prodotti agricoli. ((I prestiti destinati all'acquisto di macchine agricole possono essere concessi anche ai mezzadri e ai coloni parziari)).
 
@@ -96,7 +96,7 @@ I prestiti ed i mutui potranno essere concessi anche a consorzi, enti e societa'
 
 Per le predette operazioni di credito agrario, alle quali gli istituti di credito prescelti sono autorizzati anche in deroga ai propri statuti valgono le norme del regio decreto-legge 29 luglio 1927, n. 1509, convertito nella legge 5 luglio 1928, n. 1760, in -quanto non contrastanti con le disposizioni contenute nel presente capo.
 
-#### Art. 6
+### Art. 6
 
 A favore del fondo di rotazione di cui al precedente articolo, per ciascuno degli esercizi finanziari 1952-53, 1953-54, 1954-55, 1955-56 e 1956-57, e' autorizzata l'annua anticipazione di lire 25 miliardi, da iscrivere in un unico capitolo nello stato di previsione della spesa del Ministero dell'agricoltura e delle foreste. Essa sara' destinata per 7,5 miliardi a prestiti per acquisto di macchine, per 7,5 miliardi a prestiti ed a mutui per opere di irrigazione, per 10 miliardi a prestiti ed a mutui per costruzioni rurali.
 
@@ -110,7 +110,7 @@ AGGIORNAMENTO (10)
 
 La L. 2 giugno 1961, n. 454 ha disposto (con l'art. 12, comma 1) che "Il termine del 30 giugno 1964, previsto dagli articoli 6, 10 e 11 della legge 25 luglio 1952, n. 949, recante agevolazioni creditizie per l'acquisto di macchine agricole e per la costruzione di impianti irrigui e di edifici rurali, e' prorogato al 30 giugno 1969".
 
-#### Art. 7
+### Art. 7
 
 Con decreti del Ministro per l'agricoltura e per le foreste, di concerto con il Ministro per il tesoro, saranno stabilite, entro il 31 ottobre 1952, le quote del fondo da concedere in anticipazione ai singoli istituti di credito per gli esercizi finanziari 1952-53 e 1953-51.
 
@@ -118,15 +118,15 @@ Per gli anni successivi la ripartizione avra' sempre luogo entro il 31 ottobre p
 
 La concessione e l'utilizzazione delle anticipazioni saranno regolate da apposita convenzione che il Ministro per l'agricoltura e per le foreste e il Ministro per il tesoro stipuleranno con gli istituti di credito prescelti,
 
-#### Art. 8
+### Art. 8
 
 Tutte le somme che affluiranno al fondo di rotazione per il rimborso delle anticipazioni da parte degli istituti e per il pagamento degli interessi saranno destinate alla concessione di ulteriori anticipazioni per mutui o prestiti aventi lo stesso oggetto della operazione di credito da cui hanno origine e saranno ripartite tra gli istituti di credito con le stesse modalita' previste dal precedente articolo.
 
-#### Art. 9
+### Art. 9
 
 Le somme eventualmente non impegnate dal fondo, sia che si riferiscano agli stanziamenti di bilancio, sia che si riferiscano al rimborso delle anticipazioni, sono sempre riportate agli esercizi successivi in deroga alle vigenti leggi della contabilita' generale dello Stato.
 
-#### Art. 10
+### Art. 10
 
 Le anticipazioni di cui all'art. 5 dovranno essere impiegate dagli istituti fino al 30 giugno 1964 esclusivamente in concessione di mutui per il 75 per cento della spesa necessaria per gli scopi previsti.
 
@@ -138,7 +138,7 @@ AGGIORNAMENTO (10)
 
 La L. 2 giugno 1961, n. 454 ha disposto (con l'art. 12, comma 1) che "Il termine del 30 giugno 1964, previsto dagli articoli 6, 10 e 11 della legge 25 luglio 1952, n. 949, recante agevolazioni creditizie per l'acquisto di macchine agricole e per la costruzione di impianti irrigui e di edifici rurali, e' prorogato al 30 giugno 1969".
 
-#### Art. 11
+### Art. 11
 
 L'ammortamento delle operazioni di credito sara' compiuto:
 
@@ -160,23 +160,23 @@ AGGIORNAMENTO (10)
 
 La L. 2 giugno 1961, n. 454 ha disposto (con l'art. 12, comma 1) che "Il termine del 30 giugno 1964, previsto dagli articoli 6, 10 e 11 della legge 25 luglio 1952, n. 949, recante agevolazioni creditizie per l'acquisto di macchine agricole e per la costruzione di impianti irrigui e di edifici rurali, e' prorogato al 30 giugno 1969".
 
-#### Art. 12
+### Art. 12
 
 Le opere e gli acquisti finanziati con i mutui di cui all'art. 5 non potranno fruire di alcun contributo, sussidio o concorso dello Stato comunque previsti dalle vigenti norme in materie di miglioramenti fondiari.
 
 La concessione dei predetti mutui da parte degli istituti e' subordinata all'accertamento, da eseguirsi a cura del Ministero dell'agricoltura e delle foreste, che, per le opere alle quali i mutui stessi si riferiscono, i mutuatari non abbiano percepito alcun contributo, sussidio o concorso a carico dello Stato.
 
-#### Art. 13
+### Art. 13
 
 Alle operazioni di credito di cui all'art. 5 e agli atti e formalita' concernenti le operazioni medesime, si applicano le imposte fisse di registro ed ipotecarie, nonche' le agevolazioni relative alle tariffe notarili contemplate dalle vigenti disposizioni in materia di credito agrario.
 
-#### Art. 14
+### Art. 14
 
 L'anticipazione di lire 25 miliardi prevista per ciascuno degli esercizi finanziari dal 1952-53 al 1956-57 sara' versata in annualita' anticipate su un conto fruttifero intestato al fondo presso la Tesoreria centrale dello Stato.
 
 Nello stesso conto sara' tenuta ogni disponibilita' liquida del fondo e in esso saranno versati i rimborsi delle anticipazioni previste dall'art. 10.
 
-#### Art. 15
+### Art. 15
 
 Il Governo della Repubblica 6 autorizzato ad emanare, entro tre mesi dall'entrata in vigore della presente legge, ogni eventuale norma legislativa che si rendesse necessaria per l'attuazione delle disposizioni contenute nel presente capo.
 
@@ -186,29 +186,29 @@ Il fondo potra' funzionare anche prima dell'approvazione del regolamento predett
 
 ## CAPO IV - Bonifiche, miglioramenti fondiari
 
-#### Art. 16
+### Art. 16
 
 E' autorizzata per l'esercizio 1952-53 la spesa di lire 13 miliardi, per provvedere all'esecuzione di opere pubbliche di bonifica ai sensi del regio decreto 13 febbraio 1933, n. 215, alla concessione di sussidi nelle opere di miglioramento fondiario, ai sensi dello stesso decreto alla riparazione delle opere pubbliche di bonifica danneggiate per eventi bellici, nonche' all'onere dipendente dalla revisione dei prezzi per le opere pubbliche di bonifica gia' eseguite.
 
 ## CAPO V - Credito a medio termine alle medie e piccole industrie
 
-#### Art. 17
+### Art. 17
 
 ((IL D.LGS. 1 SETTEMBRE 1993, N. 385 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### Art. 18
+### Art. 18
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 19
+### Art. 19
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 20
+### Art. 20
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 21
+### Art. 21
 
 L'Istituto, per lo svolgimento della sua attivita', potra' valersi anche del ricavato dei prestiti esteri che il Comitato interministeriale per il credito ed il risparmio lo autorizzi a contrarre direttamente.
 
@@ -220,69 +220,69 @@ AGGIORNAMENTO (21)
 
 La L. agosto 1982, n. 526 ha disposto (con l'art. 11, comma 4) che "A modifica di quanto previsto dal secondo comma dell'articolo 21 della legge 25 luglio 1952, n. 949, e successive modificazioni e integrazioni, il Ministro del tesoro, previa deliberazione del Consiglio dei Ministri, puo' accordare al Mediocredito centrale la garanzia dello Stato, oltre che per il pagamento del capitale e degli interessi sui prestiti esteri contratti direttamente, anche per il rischio di cambio".
 
-#### Art. 22
+### Art. 22
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 23
+### Art. 23
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 24
+### Art. 24
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 25
+### Art. 25
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 26
+### Art. 26
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 27
+### Art. 27
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 28
+### Art. 28
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 29
+### Art. 29
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 30
+### Art. 30
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 31
+### Art. 31
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 32
+### Art. 32
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
 ## CAPO VI - Credito all'artigianato
 
-#### Art. 33
+### Art. 33
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 34
+### Art. 34
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 35
+### Art. 35
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 36
+### Art. 36
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 37
+### Art. 37
 
 E' istituito presso la Cassa un fondo per il concorso nel pagamento degli interessi sulle operazioni di credito a favore delle imprese artigiane, effettuate dagli istituti ed aziende di credito di cui all'articolo 35.
 
@@ -318,7 +318,7 @@ AGGIORNAMENTO (23)
 
 La L. 30 dicembre 1989, n. 424 ha disposto (con l'art. 1, comma 6) che "E' altresi' raddoppiato l'importo massimo ammissibile del contributo in conto interessi di cui all'articolo 37 della legge 25 luglio 1952, n. 949, e successive modificazioni ed integrazioni".
 
-#### Art. 38
+### Art. 38
 
 La Cassa, per lo svolgimento delle sue attivita', potra' avvalersi anche del ricavato di prestiti esteri che il Comitato interministeriale per il credito ed il risparmio l'autorizzi a contrarre direttamente.
 
@@ -332,7 +332,7 @@ AGGIORNAMENTO (21)
 
 La L. 7 agosto 1982, n. 526 ha disposto (con l'art. 29, comma 1) che "A modifica di quanto previsto dal secondo comma dell'articolo 38 della legge 25 luglio 1952, n. 949 e successive integrazioni, il Ministro del tesoro, previa deliberazione del Consiglio dei Ministri, puo' accordare alla Cassa per il credito alle imprese artigiane la garanzia dello Stato, oltre che per il pagamento del capitale e degli interessi sui prestiti esteri contratti direttamente, anche per il rischio di cambio".
 
-#### Art. 39
+### Art. 39
 
 Il saggio degli interessi dovuti sulle operazioni di cui all'art. 34 effettuate dalla Cassa, sara' determinato annualmente dal Comitato interministeriale per il credito ed il risparmio.
 
@@ -346,7 +346,7 @@ Il saggio degli interessi dovuti sulle operazioni di cui all'art. 34 effettuate 
 
 ((COMMA ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385)).
 
-#### Art. 40
+### Art. 40
 
 Ai prestiti accordati alle imprese artigiane dagli istituti ed aziende di credito di cui all'articolo 35 non si applicano le disposizioni di cui all'articolo 67 del regio decreto 16 marzo 1942, n. 267, dopo che siano trascorsi dieci giorni dalla stipulazione del contratto di finanziamento.
 
@@ -362,7 +362,7 @@ Ai prestiti accordati alle imprese artigiane dagli istituti ed aziende di credit
 
 ((COMMA ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385)).
 
-#### Art. 41
+### Art. 41
 
 ((COMMA ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385)).
 
@@ -370,53 +370,53 @@ Sono ridotti a meta' i diritti spettanti ai notari per la stipula o autenticazio
 
 ((COMMA ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385)).
 
-#### Art. 42
+### Art. 42
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 43
+### Art. 43
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 44
+### Art. 44
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 45
+### Art. 45
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 46
+### Art. 46
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 47
+### Art. 47
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 48
+### Art. 48
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 49
+### Art. 49
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 50
+### Art. 50
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 51
+### Art. 51
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 52
+### Art. 52
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
 ## CAPO VII - Costruzione di metanodotti e ricerche di idrocarburi
 
-#### Art. 53
+### Art. 53
 
 E' autorizzata la spesa di lire 20 miliardi, da iscriversi nello stato di previsione della spesa del Ministero dell'industria e commercio, da imputarsi per lire 10 miliardi all'esercizio 1951-52 e per lire 10 miliardi all'esercizio 1952-53, e da destinare:
 
@@ -424,7 +424,7 @@ a) per finanziamenti della costruzione di metanodotti per il trasporto dei prodo
 
 b) per finanziamenti delle ricerche di idrocarburi di cui ai predetti articoli.
 
-#### Art. 54
+### Art. 54
 
 I finanziamenti previsti dall'art. 53 sono concessi con decreto dei Ministri per l'industria e commercio, per le finanze e per il tesoro.
 
@@ -434,7 +434,7 @@ necessarie per la esecuzione di quanto disposto nel presente capo.
 
 ## CAPO VIII - Costruzioni navali per la marina- mercantile
 
-#### Art. 55
+### Art. 55
 
 Alle navi mercantili da carico liquido di un tonnellaggio di stazza lorda non inferiore a 10.000 tonnellate e con una velocita' alle prove con meta' del carico di almeno 15 nodi, che siano costruite in cantieri italiani per conto di nazionali, possono essere concessi i benefici di cui agli articoli 7, lettera a), 8, 9 e 10 della legge 8 marzo 1949, n. 75.
 
@@ -444,7 +444,7 @@ Il committente ammesso ai benefici previsti dal presente capo deve presentare al
 
 Se, entro il termine di cinque anni dall'entrata in esercizio della nave, la stazza lorda sulla cui entita' e' stato corrisposto il contributo fosse per qualsiasi motivo diminuita, il proprietario e' tenuto a rimborsare all'Erario tante quote unitarie del contributo stesso per quante sono le tonnellate di stazza risultanti in meno.
 
-#### Art. 56
+### Art. 56
 
 Coloro che intendono concorrere ai benefici di cui all'art. 55 devono presentare istanza al Ministero della marina mercantile, entro trenta giorni dalla entrata in vigore della presente legge, e nella istanza devono offrire una riduzione nella misura del contributo indicato nell'articolo stesso.
 
@@ -466,13 +466,13 @@ Se nel termine previsto dal primo comma non siano presentate domande sufficienti
 
 Una quota non superiore al 20 per cento del tonnellaggio di stazza lorda sara' riservata alle societa' di navigazione di preminente interesse nazionale che, previa partecipazione alla gara nei modi e nei termini di cui al presente articolo, avranno diritto di prelazione sulle altre istanze offerte risultanti piu' favorevoli per l'Amministrazione, e diritto di opzione per la costruzione della quota, suddetta.
 
-#### Art. 57
+### Art. 57
 
 Per ogni nave cisterna costruita coi benefici previsti dal presente capo il contributo medio stabilito in base all'art. 56, sara' corrisposto per intero per le prime 12.000 tonnellate di stazza lorda.
 
 Il contributo stesso sara' ridotto dell'1 per cento per ogni mille tonnellate o frazione di mille superiore a 500, di tonnellaggio esuberante su quello indicato nel precedente comma.
 
-#### Art. 58
+### Art. 58
 
 L'apertura delle buste contenenti le istanze-offerte, la determinazione della media del contributo e la graduatoria delle istanze in relazione alle offerte di riduzione, ed ogni altra procedura connessa, sono demandate ad una Commissione composta:
 
@@ -490,23 +490,23 @@ Adempira' la funzione di segretario della Commissione un
 
 funzionario del Ministero della marina mercantile di grado non inferiore a consigliere.
 
-#### Art. 59
+### Art. 59
 
 Non potranno essere concessi i benefici previsti dal presente capo per la costruzione di altre navi cisterna ad armatori i quali, a giudizio della Commissione, di cui all'art. SS, siano risultati direttamente o indirettamente gia' assegnatari di una nave cisterna, prima che siano accolte le domande di coloro Che abbiano fatto una offerta di riduzione contenuta entro un limite non superiore al 10 per cento del contributo che sarebbe risultato in base all'offerta meno favorevole tra le otto scelte per il calcolo del contributo medio.
 
 Se vi siano richiedenti diversi in condizione di parita', sara' preferito quello che dimostri di provvedere in proprio, totalmente o in maggior misura, al finanziamento della costruzione.
 
-#### Art. 60
+### Art. 60
 
 Coloro i quali, in conseguenza del favorevole risultato della gara, siano ammessi ai benefici del presente capo, non possono cedere i diritti derivanti dall'ammissione. La cessione opera di diritto la decadenza dell'ammissione stessa e dai benefici conseguenti.
 
 La cessione del contributo di cui al secondo comma dell'art. 55 e tuttavia consentita a favore del cantiere costruttore della nave e allo stabilimento costruttore dell'apparato motore.
 
-#### Art. 61
+### Art. 61
 
 Il contributo di cui all'art. 55 e' corrisposto in due rate uguali, la prima quando la costruzione ha raggiunto il 50 per cento di stato di avanzamento e la seconda dopo la entrata in esercizio della nave ammessa ai benefici e dopo che gli interessati abbiano presentato la relativa domanda corredata dai documenti indicati nell'art. 107, lettere a), b), c), d), e), f), ed n), del regolamento approvato con regio decreto 13 aprile 1939, n. 1101, 6 dal certificato di carena, previsto dall'art. 12 della legge 8 marzo 1949, n. 75.
 
-#### Art. 62
+### Art. 62
 
 Dello stanziamento di cui all'art. 70, una quota non superiore a 600 milioni e' destinata a favorire la costruzione, per conto di nazionali di navi a scafo metallico da 500 a 2000 tonnellate di stazza lorda, da carico secco o liquido, e di rimorchiatori da affidare ai cantieri medi e piccoli in ferro e ai cantieri che non avessero commesse per la costruzione di navi cisterne di cui alla presente legge.
 
@@ -516,11 +516,11 @@ Non sono applicabili alle costruzioni di cui al presente articolo il secondo com
 
 Possono essere ammesse ai benefici del presente articolo sia le costruzioni navali del tipo e del tonnellaggio indicato, per le quali fossero state presentate domande nei termini stabiliti dal primo comma dell'art. 2 della legge 8 marzo 1949, n. 75, sia quelle per le quali venissero presentate nuove domande entro tre mesi dall'entrata in vigore della presente legge.
 
-#### Art. 63
+### Art. 63
 
 I proprietari delle costruzioni ammesse ai benefici previsti dal presente capo devono osservare le disposizioni di cui agli articoli 11 e 12 della legge 8 marzo 1919, n. 75.
 
-#### Art. 64
+### Art. 64
 
 Ai finanziamenti occorrenti per le costruzioni navali di cui al presente capo sono applicabili le disposizioni del capo IV della legge 8 marzo 1949, n. 75.
 
@@ -528,31 +528,31 @@ Alle operazioni in valuta estera previste dall'art. 2 del decreto legislativo 7 
 
 Nelle operazioni di cui ai precedenti commi possono essere comprese anche quelle ancora occorrenti per l'espletamento del programma di costruzioni navali previsto dalla legge 8 marzo 1949, n. 75, e successive modificazioni.
 
-#### Art. 65
+### Art. 65
 
 Il Ministero della marina mercantile ha facolta' di promuovere opportuni accordi fra gli ammessi ai benefici ed i cantieri, affinche' le navi siano costruite in una o piu' serie dello stesso tonnellaggio, della stessa velocita' e delle stesse caratteristiche tecniche.
 
-#### Art. 66
+### Art. 66
 
 ((Le costruzioni navali di cui al presente capo devono essere iniziate, a pena di decadenza dei benefici, entro quattro mesi dalla data di notifica del provvedimento di ammissione ai benefici stessi e devono entrare in esercizio entro 32 mesi dalla data di inizio dei lavori.
 
 Ove l'inizio della costruzione o l'entrata in esercizio non avvenga nei termini sopra indicati, il Ministro per la marina mercantile ha facolta' di prorogare i termini stessi qualora sia provato dagli interessati, con elementi e documenti certi, che il ritardo non e' ad essi imputabile)).
 
-#### Art. 67
+### Art. 67
 
 Alle navi cisterne che non abbiano ottenuto l'ammissione ai benefici di cui all'art. 55 e alle navi di qualsiasi altro tipo, comprese le navi di tonnellaggio inferiore a quello indicato nell'articolo stesso, che vengano commesse da nazionali a cantieri italiani, possono essere concessi i benefici degli articoli 7, lettera a), 8, 9 e 10 della legge 8 marzo 1949, n. 75, e le facilitazioni di cui all'art 64 della presente legge, purche' siano osservate le norme richiamate nel precedente art. 62.
 
 Alle costruzioni di cui al presente articolo non e' applicabile la disposizione dell'art. 66.
 
-#### Art. 68
+### Art. 68
 
 E' applicabile per le costruzioni navali cui al presente capo l'art. 32 delle legge 8 marzo 1949, n. 75.
 
-#### Art. 69
+### Art. 69
 
 Sono escluse dal godimento dei benefici di cui al presente capo le navi che siano gia', state o che vengano ammesse ai benefici delle leggi 8 marzo 1949, n. 75, 15 dicembre 1949 n. 943, 12 maggio 1950, n. 348, 5 settembre 1951, n. 902.
 
-#### Art. 70
+### Art. 70
 
 Per provvedere alla applicazione delle disposizioni del presente capo e' stanziata in apposito capitolo della parte straordinaria del bilancio del Ministero della marina mercantile la somma di 12 miliardi, di cui una congrua, parte sara' spesa nei Mezzogiorno, cosi' ripartita 3 miliardi per l'esercizio finanziario 1952-53;
 
@@ -560,7 +560,7 @@ Per provvedere alla applicazione delle disposizioni del presente capo e' stanzia
 
 4 miliardi per l'esercizio finanziario 1954-55.
 
-#### Art. 71
+### Art. 71
 
 Per il rimborso agli aventi diritto delle spese per apprestamenti difensivi, sara' stanziata, nella parte straordinaria del bilancio del Ministero della difesa Marina, la somma di lire 150 milioni, cosi' ripartita:
 
@@ -570,7 +570,7 @@ Per il rimborso agli aventi diritto delle spese per apprestamenti difensivi, sar
 
 ## CAPO IX - Addestramento e impiego di mano d'opera disoccupata
 
-#### Art. 72
+### Art. 72
 
 E' autorizzata una assegnazione straordinaria di lire 36 miliardi a favore del fondo per l'addestramento professionale dei lavoratori, di cui all'art. 62 della legge 29 aprile 1949, n. 264, e successive modificazioni, recante provvedimenti i materia di avviamento al lavoro e di assistenza dei lavoratori involontariamente disoccupati.
 
@@ -578,21 +578,19 @@ Detta somma verra' Iscritta, per 18 miliardi nello stato di previsione della Spe
 
 Il fondo per l'addestramento professionale dei lavoratori, gestito dal Ministero del lavoro e della previdenza sociale, sara', depositato, in conto corrente fruttifero, presso il Tesoro dello Stato o presso l'Istituto di emissione.
 
-#### Art. 73
+### Art. 73
 
 Per le spese occorrenti alla costruzione, con cantieri di lavoro, di opere di pubblica utilita', sottoposte alla Vigilanza del Ministero dei lavori pubblici ai sensi del Secondo comma dell'art. 59 della legge 29 aprile 1949, n. 264, e' autorizzata una assegnazione straordinaria di lire 5 miliardi, da iscriversi, per 2 miliardi nello stato di previsione della spesa del Ministero dei lavori pubblici per l'esercizio finanziario 1951-52, e per 3 miliardi nel corrispondente stato di previsione per l'esercizio finanziario 1952-53.
 
 ## CAPO X - Case per i lavoratori
 
-#### Art. 74
+### Art. 74
 
 Con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro per il tesoro, udito il Consiglio dei Ministri, puo' essere concessa la garanzia dello Stato per le obbligazioni che siano emesse dalla gestione I.N.A. Casa ai sensi dell'art. 21, primo comma, della legge 28 febbraio 19-19, n. 43, allo scopo di anticipare il programma di costruzione di case.
 
-## CAPO XI - Contributo straordinario temporaneo per investimento intesi a
+## CAPO XI - Contributo straordinario temporaneo per investimento intesi a combattere la disoccupazione
 
-### combattere la disoccupazione
-
-#### Art. 75
+### Art. 75
 
 E' istituito, per il periodo dal 1 marzo 1952 al 31 dicembre 1953, un contributo straordinario contro la disoccupazione a carico degli esercenti una attivita' produttiva di reddito classificabile in categoria B e in categoria C-1 ai fini della imposta di ricchezza mobile. ((1))
 
@@ -616,7 +614,7 @@ Ai fini del conteggio dei contributo supplementare, relativo alle ore eccedenti 
 
 Per il personale femminile, le aliquote stabilite nei precedenti comuni sono ridotte a meta'".
 
-#### Art. 76
+### Art. 76
 
 Il contributo straordinario previsto nel precedente articolo e' fissato in ragione del:
 
@@ -644,13 +642,13 @@ Ai fini del conteggio dei contributo supplementare, relativo alle ore eccedenti 
 
 Per il personale femminile, le aliquote stabilite nei precedenti comuni sono ridotte a meta'".
 
-#### Art. 77
+### Art. 77
 
 Il contributo straordinario relativo alle somme dovute per tutti i periodi di paga scaduti in ciascun mese deve essere versato entro i primi dieci giorni del mese successivo in un conto corrente postale intestato alla Tesoreria della provincia nella cui circoscrizione le retribuzioni sono state corrisposte.
 
 Per il calcolo delle ore eccedenti le trentadue settimanali, si ha riguardo all'orario medio settimanale delle settimane comprese nei periodi di paga scaduti nel mese precedente; per i lavoratori assunti o licenziati nel corso del mese, l'orario medio settimanale e' determinato sulla base dell'effettiva occupazione nel periodo di paga.
 
-#### Art. 78
+### Art. 78
 
 Entro i cinque giorni successivi alla scadenza del termine stabilito nel primo comma dell'articolo precedente, il datore di lavoro deve denunziare alla sede provinciale dell'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro gli estremi della ricevuta del versamento, indicando l'ammontare della somma versata e delle retribuzioni su cui il contributo e' stato commisurato.
 
@@ -662,7 +660,7 @@ La denunzia deve essere redatta in duplice copia, una delle quali e' trasmessa d
 
 Il controllo delle denunzie e' effettuato dall'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro, in conformita' delle direttive dell'Amministrazione finanziaria. Per il controllo da parte dell'Istituto suddetto si applicano le norme contenute nel regio decreto 17 agosto 1935, n. 1765, e successive modificazioni, e nel relativo regolamento approvato con regio decreto 26 gennaio 1937, n. 200, anche per le retribuzioni dovute al personale non soggetto all'obbligo dell'assicurazione contro gli infortuni sul lavoro.
 
-#### Art. 79
+### Art. 79
 
 Il datore di lavoro, che omette di versare il contributo straordinario nei termini stabiliti, e' punito, con l'ammenda da lire 10.000 a lire 200.000 ed e' obbligato al pagamento di una sopratassa pari al 30 per cento dell'ammontare del contributo non versato.
 
@@ -674,13 +672,13 @@ Per l'accertamento del contributo straordinario non versato e per l'applicazione
 
 Il contributo non versato in Tesoreria e' riscosso mediante un ruolo straordinario, in unica soluzione, con le norme e con i privilegi stabiliti per la riscossione delle imposte dirette. Gli agenti della riscossione sono vincolati all'obbligo del non riscosso per riscosso.
 
-#### Art. 80
+### Art. 80
 
 Il Ministro per le finanze e' autorizzato a stipulare una convenzione con l'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro per il rimborso all'istituto stesso delle spese riferentisi al controllo delle denunzie delle retribuzioni dovute al personale non soggetto all'obbligo dell'assicurazione contro gli infortuni.
 
 ## CAPO XII - Disposizioni finali
 
-#### Art. 81
+### Art. 81
 
 Gli oneri derivanti a carico degli esercizi finanziari 1951-52 e 1952-53 dalla presente legge saranno fronteggiati come appresso:
 
@@ -700,15 +698,15 @@ per l'assegnazione straordinaria di 18 miliardi stabilita, a favore del "Fondo p
 
 per la spesa di cui all'art. 73 concernente le spese per costruzione, con cantieri di lavoro, di opere di pubblica utilita', con il provento del richiamato prestito, relativamente alla quota di 2 miliardi a carico dell'esercizio 1951-52, e con il gettito del contributo straordinario contro la disoccupazione, per la quota di 3 miliardi relativa all'esercizio finanziario 1952-53.
 
-#### Art. 82
+### Art. 82
 
 Il Ministro per il tesoro e' autorizzato ad apportare con propri decreti le variazioni di bilancio necessarie all'applicazione della presente legge.
 
-#### Art. 83
+### Art. 83
 
 Sono abrogate tutte le disposizioni contrarie e incompatibili con quelle della presente legge.
 
-#### Art. 84
+### Art. 84
 
 La presente legge entra in vigore nel giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica.
 

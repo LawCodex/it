@@ -27,19 +27,19 @@ Promulga
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la Convenzione internazionale contro il doping nello sport, con allegati, adottata a Parigi dalla XXXIII Conferenza generale UNESCO il 19 ottobre 2005.
 
-### Art. 2
+## Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data alla Convenzione di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposte dall'articolo 37 della Convenzione stessa.
 
-### Art. 3
+## Art. 3
 
 Copertura finanziaria
 
@@ -47,7 +47,7 @@ Copertura finanziaria
 
 2\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-### Art. 4
+## Art. 4
 
 Entrata in vigore
 
@@ -69,7 +69,7 @@ Visto, il Guardasigilli: Mastella
 
 ## Allegati
 
-### Convention
+## Convention
 
 Allegato
 
@@ -125,11 +125,11 @@ Tenuto conto del fatto che l'eliminazione del doping nello sport dipende in part
 
 Ha adottato, il diciannove ottobre 2005, la presente Convenzione.
 
-### Articolo 1 - Scopi della Convenzione
+## Articolo 1 - Scopi della Convenzione
 
 La presente Convenzione si prefigge lo scopo, nel quadro della strategia e del programma di attivita' dell'UNESCO nel settore dell'educazione fisica e dello sport, di promuovere la prevenzione del doping nello sport e la lotta a tale fenomeno allo scopo di eliminarlo.
 
-### Articolo 2 - Definizioni
+## Articolo 2 - Definizioni
 
 Le seguenti definizioni si applicano nel contesto del Codice mondiale antidoping. In caso di divergenza, tuttavia, faranno fede le disposizioni della Convenzione.
 
@@ -201,7 +201,7 @@ Ai fini della presente Convenzione,
 
 25\. L'espressione "Agenzia mondiale antidoping" (AMA), indica la Fondazione di diritto svizzero cosi' denominata, costituita il 10 novembre 1999.
 
-### art. 3
+## art. 3
 
 Articolo 3 - Mezzi per realizzare l'obiettivo della Convenzione
 
@@ -213,7 +213,7 @@ Ai fini della presente Convenzione, gli Stati parte si impegnano a:
 
 (c) promuovere una cooperazione internazionale tra di essi e le organizzazioni che svolgono un ruolo di primo piano nella lotta al doping sportivo, in particolare l'Agenzia Mondiale Antidoping.
 
-### art. 4
+## art. 4
 
 Articolo 4 - Relazione tra il Codice e la Convenzione
 
@@ -223,13 +223,13 @@ Articolo 4 - Relazione tra il Codice e la Convenzione
 
 3\. Gli allegati costituiscono parte integrante della presente Convenzione.
 
-### art. 5
+## art. 5
 
 Articolo 5 - Misure atte a realizzare gli scopi della Convenzione
 
 Conformemente agli obblighi sanciti dalla presente Convenzione, ciascuno Stato parte si impegna ad adottare misure adeguate. Tali misure possono consistere in leggi, regolamenti, politiche o prassi amministrative.
 
-### art. 6
+## art. 6
 
 Articolo 6 - Relazione con altri strumenti internazionali
 
@@ -237,13 +237,13 @@ La presente Convenzione non modifica in alcun modo i diritti e gli obblighi degl
 
 ## II. Lotta antidoping su scala nazionale
 
-### art. 7
+## art. 7
 
 Articolo 7 - Coordinamento a livello nazionale
 
 Gli Stati parte garantiscono l'applicazione della presente Convenzione, in particolare attraverso misure di coordinamento a livello nazionale. Per adempiere ai loro obblighi ai sensi della presente Convenzione, essi possono fare riferimento ad organizzazioni antidoping, nonche' alle autorita' ed organizzazioni sportive.
 
-### art. 8
+## art. 8
 
 Articolo 8 - Limitazione della disponibilita' e dell'utilizzo di sostanze e metodi vietati nello sport
 
@@ -253,17 +253,17 @@ Articolo 8 - Limitazione della disponibilita' e dell'utilizzo di sostanze e meto
 
 3\. Nessuna misura adottata conformemente alla presente Convenzione restringe la disponibilita' a fini legittimi di sostanze e metodi il cui uso sia altrimenti vietato o limitato in ambito sportivo.
 
-### art. 9
+## art. 9
 
 Articolo 9 - Misure nei confronti del personale di supporto degli sportivi
 
 Gli Stati parte adottano direttamente misure, o incoraggiano le organizzazioni sportive e le organizzazioni antidoping ad adottare misure, incluse sanzioni o penalita', nei confronti dei membri di supporto degli sportivi che commettano una violazione delle regole antidoping o altre infrazioni legate al doping sportivo.
 
-### Articolo 10 - Integratori alimentari
+## Articolo 10 - Integratori alimentari
 
 In base alle necessita', gli Stati parte incoraggiano i produttori ed i distributori di integratori alimentari a stabilire buone pratiche per la commercializzazione e la distribuzione dei suddetti integratori, ed in particolare a fornire informazioni circa la composizione analitica di tali prodotti e il certificato di qualita'.
 
-### art. 11
+## art. 11
 
 Articolo 11 - Misure di natura finanziaria
 
@@ -275,7 +275,7 @@ In base alle necessita', gli Stati parte:
 
 (c) ritirano in tutto o in parte il proprio sostegno finanziario o di altra natura, nel settore sportivo, a qualunque organizzazione sportiva o organizzazione antidoping che non rispetti il Codice o le norme antidoping applicabili adottate conformemente al Codice.
 
-### art. 12
+## art. 12
 
 Articolo 12 - Misure atte a facilitare i controlli antidoping
 
@@ -289,25 +289,25 @@ In base alle necessita', gli Stati parte:
 
 ## III. Cooperazione internazionale
 
-### art. 13
+## art. 13
 
 Articolo 13 - Cooperazione tra le organizzazioni antidoping e le organizzazioni sportive
 
 Gli Stati parte incoraggiano la cooperazione tra le organizzazioni antidoping, i poteri pubblici e le organizzazioni sportive sottoposti alla loro giurisdizione e quelli sottoposti alla giurisdizione degli altri Stati parte allo scopo di realizzare, su scala internazionale, l'obiettivo della presente Convenzione.
 
-### art. 14
+## art. 14
 
 Articolo 14 - Sostegno alla missione dell'Agenzia mondiale antidoping
 
 Gli Stati parte si impegnano a sostenere l'Agenzia mondiale antidoping nella sua importante missione di lotta al doping sul piano internazionale.
 
-### art. 15
+## art. 15
 
 Articolo 15 - Finanziamento paritario dell'Agenzia mondiale antidoping
 
 Gli Stati parte sostengono il principio del finanziamento del bilancio annuale di base approvato dall'Agenzia mondiale antidoping, per meta' dai poteri pubblici e per meta' dal Movimento olimpico.
 
-### art. 16
+## art. 16
 
 Articolo 16 - Cooperazione internazionale in materia di lotta antidoping
 
@@ -327,7 +327,7 @@ Tenuto conto del fatto che l'efficacia della lotta al doping sportivo dipende es
 
 (g) riconoscono reciprocamente le procedure di controllo del doping e i metodi di gestione dei risultati di qualunque organizzazione antidoping conformi al Codice, ivi comprese le sanzioni sportive che ne derivano.
 
-### art. 17
+## art. 17
 
 Articolo 17 - Fondo di contribuzione volontaria
 
@@ -353,7 +353,7 @@ Articolo 17 - Fondo di contribuzione volontaria
 
 3\. I contributi versati dagli Stati parte al Fondo di contribuzione volontaria non sostituiscono le somme che essi si sono impegnati a versare a titolo di partecipazione al bilancio annuale dell'Agenzia mondiale antidoping.
 
-### art. 18
+## art. 18
 
 Articolo 18 - Utilizzo e gestione del Fondo di contribuzione volontaria
 
@@ -361,7 +361,7 @@ Le risorse del Fondo di contribuzione volontaria sono stanziate dalla Conferenza
 
 ## IV. Educazione e formazione
 
-### art. 19
+## art. 19
 
 Articolo 19 - Principi generali in materia di educazione e formazione
 
@@ -379,23 +379,23 @@ Articolo 19 - Principi generali in materia di educazione e formazione
 
 (d) gli integratori alimentari.
 
-### Articolo 20 - Codici deontologici
+## Articolo 20 - Codici deontologici
 
 Gli Stati parte incoraggiano le associazioni e le istituzioni professionali competenti ad elaborare e applicare codici di condotta, di buone pratiche e di' deontologia adeguati e conformi al Codice in materia di lotta al doping sportivo.
 
-### art. 21
+## art. 21
 
 Articolo 21 - Partecipazione degli sportivi e del personale di supporto degli sportivi
 
 Gli Stati parte favoriscono e, nella misura delle loro possibilita', sostengono la partecipazione attiva degli sportivi e del personale di supporto degli sportivi a tutti i livelli di lotta antidoping condotta dalle organizzazioni sportive e altre organizzazioni competenti, e incoraggiano le organizzazioni sportive sottoposte alla loro giurisdizione a fare altrettanto.
 
-### art. 22
+## art. 22
 
 Articolo 22 - Organizzazioni sportive ed educazione e formazione permanente in materia di lotta al doping
 
 Gli Stati parte incoraggiano le organizzazioni sportive e le organizzazioni antidoping ad attuare programmi di educazione e formazione continua per tutti gli sportivi ed il personale di supporto degli sportivi sui punti di cui all'articolo 19.
 
-### art. 23
+## art. 23
 
 Articolo 23 - Cooperazione in materia di educazione e formazione
 
@@ -403,7 +403,7 @@ Gli Stati parte cooperano tra di loro e con le organizzazioni competenti ai fini
 
 ## V. Ricerca
 
-### art. 24
+## art. 24
 
 Articolo 24 - Promozione della ricerca antidoping
 
@@ -415,7 +415,7 @@ Gli Stati parte si impegnano ad incoraggiare e promuovere, nei limiti delle loro
 
 (c) l'utilizzo di tutte le nuove sostanze e metodi derivati dai progressi scientifici.
 
-### art. 25
+## art. 25
 
 Articolo 25 - Natura della ricerca antidoping
 
@@ -427,13 +427,13 @@ Incoraggiando la ricerca antidoping di cui all'articolo 24, gli Stati parte si a
 
 (c) adottando opportune precauzioni affinche' i suoi risultati non possano essere utilizzati abusivamente ne' servire per il doping.
 
-### art. 26
+## art. 26
 
 Articolo 26 - Scambio dei risultati della ricerca antidoping
 
 Nel rispetto delle norme nazionali e internazionali applicabili, gli Stati parte, a seconda delle necessita', informano dei risultati della ricerca antidoping gli altri Stati parte e l'Agenzia mondiale antidoping.
 
-### art. 27
+## art. 27
 
 Articolo 27 - Ricerca in materia di scienze dello sport
 
@@ -445,7 +445,7 @@ Gli Stati parte incoraggiano:
 
 ## VI. Seguiti della Convenzione
 
-### Articolo 28 - Conferenza delle Parti
+## Articolo 28 - Conferenza delle Parti
 
 1\. E' istituita una Conferenza delle Parti. La Conferenza delle Parti e' l'organo sovrano della presente Convenzione.
 
@@ -455,7 +455,7 @@ Gli Stati parte incoraggiano:
 
 4\. La Conferenza delle parti adotta il proprio regolamento interno.
 
-### art. 29
+## art. 29
 
 Articolo 29 - Organizzazione consultiva e osservatori presso la Conferenza delle parti
 
@@ -463,7 +463,7 @@ L'Agenzia mondiale antidoping e' invitata alla Conferenza delle parti in qualita
 
 La Conferenza delle Parti puo' decidere di invitare altre organizzazioni competenti in qualita' di osservatori.
 
-### art. 30
+## art. 30
 
 Articolo 30 - Funzioni della Conferenza delle Parti
 
@@ -487,13 +487,13 @@ Articolo 30 - Funzioni della Conferenza delle Parti
 
 2\. Nell'esercizio delle sue funzioni, la Conferenza delle parti puo' cooperare con altri organismi intergovernativi.
 
-### art. 31
+## art. 31
 
 Articolo 31 - Rapporti presentati dagli Stati parte alla Conferenza delle Parti
 
 Tramite il Segretariato, gli Stati parte trasmettono ogni due anni alla Conferenza delle Parti, in una delle lingue ufficiali dell'UNESCO, tutte le informazioni pertinenti relative alle misure adottate per conformarsi alle disposizioni della presente Convenzione.
 
-### art. 32
+## art. 32
 
 Articolo 32 - Segretariato della Conferenza delle Parti
 
@@ -505,7 +505,7 @@ Articolo 32 - Segretariato della Conferenza delle Parti
 
 4\. Il Segretariato predispone la documentazione della Conferenza delle Parti nonche' il progetto di ordine del giorno delle riunioni della stessa e assicura l'esecuzione delle sue decisioni.
 
-### Articolo 33 - Emendamenti
+## Articolo 33 - Emendamenti
 
 1\. Gli Stati parte possono, tramite comunicazione scritta indirizzata al Direttore generale dell'UNESCO, proporre emendamenti alla presente Convenzione. Il Direttore generale trasmette tale comunicazione a tutti gli Stati parte. Se, entro sei mesi dalla data di notifica della comunicazione, almeno la meta' degli Stati parte risponde favorevolmente alla proposta, il Direttore generale presenta la stessa alla sessione successiva della Conferenza delle Parti.
 
@@ -521,7 +521,7 @@ a) parte alla presente Convenzione cosi' come emendata;
 
 b) parte alla presente Convenzione non emendata nei confronti degli Stati parte non vincolati da tali emendamenti.
 
-### art. 34
+## art. 34
 
 Articolo 34 - Procedura specifica di emendamento agli allegati della Convenzione
 
@@ -535,7 +535,7 @@ Articolo 34 - Procedura specifica di emendamento agli allegati della Convenzione
 
 ## VII. Disposizioni finali
 
-### art. 35
+## art. 35
 
 Articolo 35 - Regimi costituzionali federali o non unitari
 
@@ -545,19 +545,19 @@ a) per quanto attiene alle disposizioni della presente Convenzione la cui applic
 
 b) per quanto attiene alle disposizioni della presente Convenzione la cui applicazione rientri nelle competenze di ciascuno degli Stati, contee, province o cantoni costituenti che, ai sensi del regime costituzionale della federazione, non sono tenuti ad adottare misure legislative, il governo federale trasmette, con parere favorevole, le suddette disposizioni alle autorita' competenti degli Stati, contee, province o cantoni ai fini dell'adozione.
 
-### art. 36
+## art. 36
 
 Articolo 36 - Ratifica, accettazione, approvazione o adesione
 
 La presente Convenzione e' soggetta alla ratifica, accettazione, approvazione o adesione degli Stati membri dell'UNESCO conformemente alle procedure costituzionali di ciascuno di essi. Gli strumenti di ratifica, accettazione, approvazione o adesione sono depositati presso il Direttore Generale dell'UNESCO.
 
-### Articolo 37 - Entrata in vigore
+## Articolo 37 - Entrata in vigore
 
 1\. La presente Convenzione entra in vigore il primo giorno del mese successivo alla scadenza del termine di un mese dopo la data del deposito del trentesimo strumento di ratifica, accettazione, approvazione o adesione.
 
 2\. Per ogni Stato che dichiari successivamente di accettare di aderire alla presente Convenzione, questa entrera' in vigore il primo giomo del mese successivo alla scadenza del termine di un mese dopo la data del deposito del suo strumento di ratifica, accettazione, approvazione o adesione.
 
-### art. 38
+## art. 38
 
 Articolo 38 - Estensione territoriale della Convenzione
 
@@ -567,11 +567,11 @@ Articolo 38 - Estensione territoriale della Convenzione
 
 3\. Qualunque dichiarazione resa in virtu' dei due paragrafi precedenti potra', rispetto ai territori ivi menzionati, essere ritirata tramite notifica indirizzata all'UNESCO. Il ritiro entrera' in vigore il primo giorno del mese successivo alla scadenza del termine di un mese dopo la data di ricezione della suddetta notifica da parte del depositario.
 
-### Articolo 39 - Denuncia
+## Articolo 39 - Denuncia
 
 Qualunque Stato parte ha facolta' di denunciare la presente Convenzione. La denuncia e' notificata tramite uno strumento scritto depositato presso iI Direttore generale dell'UNESCO. Essa e' effettiva a decorrere dal primo giorno del mese successivo alla scadenza di un termine di sei mesi dopo la data di ricezione dello strumento di denuncia. Essa non modifica in alcun modo gli obblighi finanziari dello Stato parte interessato fino alla data in cui il ritiro diventi effettivo.
 
-### Articolo 40 - Depositario
+## Articolo 40 - Depositario
 
 Il Direttore generale dell'UNESCO e' il depositario della presente Convenzione e dei relativi emendamenti. In qualita' di depositario, egli informa gli Stati parte alla presente Convenzione, nonche' gli altri Stati membri dell'Organizzazione:
 
@@ -589,21 +589,21 @@ f) di qualunque notifica effettuata in virtu' delle disposizioni dell'articolo 3
 
 g) di qualunque altro atto, notifica o comunicazione relativa alla presente Convenzione.
 
-### Articolo 41 - Registrazione
+## Articolo 41 - Registrazione
 
 Conformemente all'articolo 102 della Carta delle Nazioni Unite, la presente Convenzione sara' registrata presso il Segretariato dell'Organizzazione delle Nazioni Unite su richiesta del Direttore generale dell'UNESCO.
 
-### Articolo 42 - Testi facenti fede
+## Articolo 42 - Testi facenti fede
 
 1\. La presente Convenzione, ivi inclusi gli allegati, e' predisposta nelle lingue inglese, araba, cinese, spagnola, francese e russa, i sei testi facenti egualmente fede.
 
 2\. Le appendici alla presente convenzione sono redatte nelle lingue inglese, araba, cinese, spagnola, francese e russa.
 
-### Articolo 43 - Riserve
+## Articolo 43 - Riserve
 
 Non e' ammessa alcuna riserva incompatibile con l'oggetto e lo scopo della presente Convenzione.
 
-### Allegato I
+## Allegato I
 
 Allegato I - Lista delle sostanze proibite - Standard internazionali
 
@@ -863,7 +863,7 @@ alcol.
 
 \* "La Lista delle sostanze proibite puo' individuare sostanze specifiche che possono provocare una violazione non intenzionale dei regolamenti antidoping a causa della loro diffusa presenza nei medicinali, o che hanno meno probabilita' di essere utilizzate con successo come agenti dopanti". La violazione delle regole anti-doping legata a tali sostanze puo' comportare una sanzione ridotta a condizione che lo "... sportivo sia in grado di stabilire che non ha utilizzato tale sostanza con l'intento di migliorare la sua prestazione sportiva...".
 
-### Allegato II
+## Allegato II
 
 Allegato II
 

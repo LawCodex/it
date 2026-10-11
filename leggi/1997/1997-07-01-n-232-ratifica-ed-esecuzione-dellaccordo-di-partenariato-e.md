@@ -317,7 +317,7 @@ Il consiglio di cooperazione esamina in che modo sia possibile migliorare le con
 
 Il consiglio di cooperazione formula raccomandazioni per l'applicazione degli articoli 20 e 21.
 
-## CAPITOLO II - CONDIZIONI PER LO STABILIMENTO E L'ATTIVITA' DELLE SOCIETA'
+### CAPITOLO II - CONDIZIONI PER LO STABILIMENTO E L'ATTIVITA' DELLE SOCIETA'
 
 #### ARTICOLO 23
 
@@ -409,7 +409,7 @@ c) Per "persona trasferita all'interno della societa'" si intende una persona fi
 
 4\. Qualora l'introduzione in Georgia di nuove leggi o di nuovi regolamenti renda le condizioni per l'attivita' delle controllate e sedi secondarie di societa' comunitarie stabilite in Georgia piu' restrittive rispetto alla situazione esistente il giorno della firma dell'accordo, dette leggi o detti regolamenti non si applicano, per i tre anni successivi all'entrata in vigore dell'atto in questione, alle controllate e sedi secondarie gia' stabilite in Georgia al momento dell'entrata in vigore dell'atto stesso.
 
-## CAPITOLO III - FORNITURA TRANSNAZIONALE DI SERVIZI TRA LA COMUNITA' E LA GEORGIA
+### CAPITOLO III - FORNITURA TRANSNAZIONALE DI SERVIZI TRA LA COMUNITA' E LA GEORGIA
 
 #### ARTICOLO 30
 
@@ -447,7 +447,7 @@ d) all'entrata in vigore dell'accordo aboliscono tutte le misure unilaterali, no
 
 Al fine di garantire uno sviluppo coordinato dei trasporti tra le Parti in funzione delle loro esigenze commerciali, le condizioni del reciproco accesso al mercato nonche' la fornitura di servizi di trasporto stradale, ferroviario, fluviale e, se del caso, aereo potranno essere trattate da specifici accordi, negoziati se necessario dalle Parti, dopo l'entrata in vigore del presente accordo.
 
-## CAPITOLO IV - DISPOSIZIONI GENERALI
+### CAPITOLO IV - DISPOSIZIONI GENERALI
 
 #### ARTICOLO 34
 
@@ -497,7 +497,7 @@ Fatto salvo il disposto dell'articolo 28, nessuna disposizione dei capitoli II, 
 
 \- alle societa' comunitarie o alle sedi secondarie o controllate georgiane di societa' comunitarie di distaccare, in base a contratti temporanei, lavoratori degli Stati membri.
 
-## CAPITOLO V - PAGAMENTI CORRENTI E CAPITALE
+### CAPITOLO V - PAGAMENTI CORRENTI E CAPITALE
 
 #### ARTICOLO 41
 
@@ -513,7 +513,7 @@ Fatto salvo il disposto dell'articolo 28, nessuna disposizione dei capitoli II, 
 
 6\. Fatti salvi i paragrafi 1 e 2, qualora, in circostanze eccezionali, la circolazione dei capitali tra la Comunita' e la Georgia provochi o minacci di provocare gravi difficolta' per la gestione delle politiche valutarie o monetarie nella Comunita' o in Georgia, ciascuna Parte rispettivamente puo' adottare misure di salvaguardia in merito per un periodo non superiore a sei mesi, a condizione che dette misure siano assolutamente necessarie.
 
-## CAPITOLO VI - TUTELA DELLA PROPRIETA' INTELLETTUALE, INDUSTRIALE E COMMERCIALE
+### CAPITOLO VI - TUTELA DELLA PROPRIETA' INTELLETTUALE, INDUSTRIALE E COMMERCIALE
 
 #### ARTICOLO 42
 
@@ -1021,9 +1021,7 @@ Su richiesta delle autorita' georgiane, la Comunita' offre l'assistenza tecnica 
 
 E' prevista un'assistenza tecnica per la definizione e l'applicazione della politica monetaria e creditizia della Georgia, in stretta collaborazione con le istituzioni finanziarie internazionali, per la formazione del personale e per lo sviluppo dei mercati finanziari, compresa la borsa valori. Si procede inoltre a scambi informali di opinioni sui principi e sul funzionamento del Sistema monetario europeo nonche' sulle normative comunitarie in materia di mercati finanziari e di movimenti di capitale.
 
-## TITOLO VII - COOPERAZIONE PER LE QUESTIONI RELATIVE
-
-### ALLA DEMOCRAZIA E AI DIRITTI DELL'UOMO
+## TITOLO VII - COOPERAZIONE PER LE QUESTIONI RELATIVE ALLA DEMOCRAZIA E AI DIRITTI DELL'UOMO
 
 #### ARTICOLO 71
 

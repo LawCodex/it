@@ -44,17 +44,15 @@ il seguente decreto legislativo:
 
 ## TITOLO I - Istituzione del consiglio direttivo della corte di cassazione
 
-### Capo I - Istituzione, composizione e durata in carica del
+### Capo I - Istituzione, composizione e durata in carica del consiglio direttivo della Corte di cassazione
 
-#### consiglio direttivo della Corte di cassazione
-
-##### Art. 1
+#### Art. 1
 
 (( (Istituzione e composizione del Consiglio direttivo della Corte di Cassazione)
 
 1\. E' istituito il Consiglio direttivo della Corte di cassazione, composto dal primo presidente, dal procuratore generale presso la stessa Corte e dal presidente del Consiglio nazionale forense, da otto magistrati, di cui due che esercitano funzioni requirenti, eletti da tutti e tra tutti i magistrati in servizio presso la Corte e la Procura generale, nonche' da due professori universitari di ruolo di materie giuridiche, nominati dal Consiglio universitario nazionale, e da un avvocato con almeno venti anni di effettivo esercizio della professione, iscritto da almeno cinque anni nell'albo speciale di cui all'articolo 33 del regio decreto-legge 27 novembre 1933, n. 1578, convertito, con modificazioni, dalla legge 22 gennaio 1934, n. 36, e successive modificazioni, nominato dal Consiglio nazionale forense.))
 
-##### Art. 2
+#### Art. 2
 
 Membri supplenti
 
@@ -62,7 +60,7 @@ Membri supplenti
 
 2\. In caso di mancanza o di impedimento, i membri di diritto del Consiglio direttivo della Corte di cassazione sono sostituiti da chi ne esercita le funzioni.
 
-##### Art. 3
+#### Art. 3
 
 Organi
 
@@ -70,7 +68,7 @@ Organi
 
 2\. Alle spese connesse all'attivita' svolta dalla segreteria del Consiglio direttivo della Corte di cassazione si provvede nell'ambito delle risorse umane, strumentali e finanziarie disponibili presso la Corte di cassazione, senza nuovi o maggiori oneri a carico del bilancio dello Stato.
 
-##### Art. 4
+#### Art. 4
 
 (( (Presentazione delle liste e modalita' di elezione dei componenti togati.)
 
@@ -80,7 +78,7 @@ Organi
 
 3\. Ogni elettore riceve due schede, una per ciascuna delle categorie di magistrati di cui all'articolo 1, ed esprime il voto di lista ed una sola preferenza nell'ambito della lista votata. ))
 
-##### Art. 4-bis
+#### Art. 4-bis
 
 ((Assegnazione dei seggi))
 
@@ -92,7 +90,7 @@ b) determina il numero dei seggi spettante a ciascuna lista dividendo la cifra e
 
 c) proclama eletti i candidati con il maggior numero di preferenze nell'ambito dei posti attribuiti ad ogni lista. In caso di parita' di voti il seggio e' assegnato al candidato che ha maggiore anzianita' di servizio nell'ordine giudiziario. In caso di pari anzianita' di servizio, il seggio e' assegnato al candidato piu' anziano per eta'.))
 
-##### Art. 5
+#### Art. 5
 
 Durata in carica del Consiglio direttivo della Corte di cassazione
 
@@ -106,15 +104,15 @@ Durata in carica del Consiglio direttivo della Corte di cassazione
 
 5\. Finche' non e' insediato il nuovo Consiglio, continua a funzionare quello precedente.
 
-##### Art. 6
+#### Art. 6
 
 Compensi
 
 1\. Ai componenti non togati del Consiglio direttivo della Corte di cassazione e' corrisposto un gettone di presenza per ciascuna seduta, la cui entita' e' stabilita con decreto del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze, da adottarsi entro sessanta giorni dalla data di acquisto di efficacia delle disposizioni del presente decreto.
 
-## Capo II
+### Capo II
 
-##### Art. 7
+#### Art. 7
 
 Competenze del Consiglio direttivo della Corte di cassazione
 
@@ -136,7 +134,7 @@ g) formula pareri, su richiesta del Consiglio superiore della magistratura, su m
 
 h) puo' formulare proposte al comitato direttivo della Scuola superiore della magistratura in materia di programmazione della attivita' didattica della Scuola.
 
-##### Art. 8
+#### Art. 8
 
 Composizione del Consiglio direttivo della Corte di cassazione in relazione alle competenze
 
@@ -148,7 +146,7 @@ Composizione del Consiglio direttivo della Corte di cassazione in relazione alle
 
 1-quater. Se il componente avvocato intende discostarsi dalla predetta indicazione, chiede al Consiglio direttivo una sospensione della deliberazione affinche' il Consiglio nazionale forense possa adottare una nuova determinazione. Il Consiglio direttivo sospende la deliberazione per non meno di dieci e non piu' di trenta giorni e ne da' comunicazione al Consiglio nazionale forense. Il componente avvocato esprime il proprio voto in conformita' alla nuova deliberazione del Consiglio nazionale forense. Se questo non si pronuncia entro il giorno antecedente la nuova seduta, si intende confermata la prima indicazione.))
 
-##### Art. 8-bis
+#### Art. 8-bis
 
 ((Quorum))
 
@@ -156,13 +154,11 @@ Composizione del Consiglio direttivo della Corte di cassazione in relazione alle
 
 2\. Le deliberazioni sono valide se adottate a maggioranza dei presenti. In caso di parita' prevale il voto del presidente.))
 
-## TITOLO II - Composizione, competenze e durata
+## TITOLO II - Composizione, competenze e durata in carica dei consigli giudiziari
 
-### in carica dei consigli giudiziari - Capo I
+### Capo I - Composizione e durata in carica dei consigli giudiziari
 
-#### Composizione e durata in carica dei consigli giudiziari
-
-##### Art. 9
+#### Art. 9
 
 Composizione dei consigli giudiziari
 
@@ -176,7 +172,7 @@ Composizione dei consigli giudiziari
 
 3-ter. In caso di mancanza o impedimento i membri di diritto del consiglio giudiziario sono sostituiti da chi ne esercita le funzioni.))
 
-##### Art. 9-bis
+#### Art. 9-bis
 
 ((Quorum del consiglio giudiziario))
 
@@ -184,7 +180,7 @@ Composizione dei consigli giudiziari
 
 2\. Le deliberazioni sono valide se adottate a maggioranza dei presenti. In caso di parita' prevale il voto del presidente.))
 
-##### Art. 10
+#### Art. 10
 
 ((Sezione autonoma per i magistrati onorari del consiglio giudiziario))
 
@@ -222,13 +218,13 @@ AGGIORNAMENTO (2)
 
 Il D.Lgs. 31 maggio 2016, n. 92 ha disposto (con l'art. 5, comma 7) che "Sino alla costituzione della sezione autonoma per i magistrati onorari di cui all'articolo 10 del decreto legislativo 27 gennaio 2006, n. 25, come modificato dal presente decreto, le competenze assegnate dalla legge sono esercitate dalla sezione autonoma nella composizione prevista dalle disposizioni vigenti sino alla data di entrata in vigore del presente decreto".
 
-##### Art. 11
+#### Art. 11
 
 Organi
 
 1\. Il consiglio giudiziario e' presieduto dal presidente della corte di appello. Nella prima seduta il consiglio elegge al suo interno, con votazione effettuata a scrutinio segreto, ((. . .)) tra i componenti togati, il segretario.
 
-##### Art. 12
+#### Art. 12
 
 (( (Presentazione delle liste ed elezione dei componenti togati dei consigli giudiziari)
 
@@ -238,7 +234,7 @@ Organi
 
 3\. Ogni elettore riceve due schede, una per ciascuna delle categorie di magistrati di cui all'articolo 9, ed esprime il voto di lista ed una sola preferenza nell'ambito della lista votata.))
 
-##### Art. 12-bis
+#### Art. 12-bis
 
 ((Assegnazione dei seggi))
 
@@ -250,7 +246,7 @@ b) determina il numero dei seggi spettante a ciascuna lista dividendo la cifra e
 
 c) proclama eletti i candidati con il maggior numero di preferenze nell' ambito dei posti attribuiti ad ogni lista. In caso di parita' di voti il seggio e' assegnato al candidato che ha maggiore anzianita' di servizio nell'ordine giudiziario. In caso di pari anzianita' di servizio, il seggio e' assegnato al candidato piu' anziano per eta'.))
 
-##### Art. 12-ter
+#### Art. 12-ter
 
 (( (Presentazione delle liste per la elezione dei magistrati onorari componenti della sezione autonoma del consiglio giudiziario).))
 
@@ -266,7 +262,7 @@ AGGIORNAMENTO (2)
 
 Il D.Lgs. 31 maggio 2016, n. 92 ha disposto (con l'art. 5, comma 1) che "In via straordinaria e in deroga a quanto previsto dall'articolo 12-ter, comma 1, del decreto legislativo 27 gennaio 2006, n. 25, le elezioni dei magistrati onorari componenti della sezione autonoma per i magistrati onorari del Consiglio giudiziario si tengono nella penultima domenica e nel lunedi' seguente del mese di luglio immediatamente successivo alla data di entrata in vigore del presente decreto".
 
-##### Art. 12-quater
+#### Art. 12-quater
 
 ((Assegnazione dei seggi per i magistrati onorari))
 
@@ -278,7 +274,7 @@ b) determina il numero dei seggi spettante a ciascuna lista dividendo la cifra e
 
 c) proclama eletti i candidati con il maggior numero di preferenze nell' ambito dei posti attribuiti ad ogni lista. In caso di parita' di voti il seggio e' assegnato al candidato che ha maggiore anzianita' di servizio nell'ordine giudiziario. In caso di pari anzianita' di servizio, il seggio e' assegnato al candidato piu' anziano per eta'.
 
-##### Art. 13
+#### Art. 13
 
 Durata in carica dei consigli giudiziari
 
@@ -298,13 +294,13 @@ AGGIORNAMENTO (2)
 
 Il D.Lgs. 31 maggio 2016, n. 92 ha disposto (con l'art. 5, comma 2) che "In deroga a quanto disposto dall'articolo 13, comma 2, del decreto legislativo 27 gennaio 2006, n. 25, i giudici di pace che compongono la sezione autonoma alla data di entrata in vigore del presente decreto sono eleggibili alle elezioni straordinarie di cui al presente articolo".
 
-##### Art. 14
+#### Art. 14
 
 ((ARTICOLO ABROGATO DAL D.L. 30 DICEMBRE 2023, N. 213))
 
-## Capo II
+### Capo II
 
-##### Art. 15
+#### Art. 15
 
 Competenze dei consigli giudiziari
 
@@ -330,7 +326,7 @@ i) puo' formulare proposte al comitato direttivo della Scuola superiore della ma
 
 2\. Il consiglio giudiziario costituito presso la corte di appello esercita le proprie competenze anche in relazione alle eventuali sezioni distaccate della Corte.
 
-##### Art. 16
+#### Art. 16
 
 Composizione dei consigli giudiziari in relazione alle competenze
 
@@ -346,7 +342,7 @@ Composizione dei consigli giudiziari in relazione alle competenze
 
 ## TITOLO III - Disposizioni finali
 
-##### Art. 17
+#### Art. 17
 
 Copertura finanziaria
 
@@ -374,7 +370,7 @@ Copertura finanziaria
 
 > Allo stato di previsione della spesa del Ministero del tesoro e' allegato l'elenco dei capitoli di cui al precedente numero 2), da approvarsi, con apposito articolo, dalla legge di approvazione del bilancio.».
 
-##### Art. 18
+#### Art. 18
 
 Abrogazioni
 
@@ -394,13 +390,13 @@ b) l'articolo 6 del regio decreto legislativo 31 maggio 1946, n. 511, come sosti
 
 > \- L'art. 6 del regio decreto legislativo 31 maggio 1946, n. 511 (Guarentigie della magistratura), abrogato dal decreto legislativo qui pubblicato, recava: «Costituzione dei consigli giudiziari».
 
-##### Art. 18-bis
+#### Art. 18-bis
 
 (( (Regolamento per la disciplina del procedimento elettorale)
 
 1\. Con regolamento emanato a norma dell' articolo 17, comma 1, lettera a), della legge 23 agosto 1988, n. 400, su proposta del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze, sono dettate disposizioni in ordine alle caratteristiche delle schede per le votazioni e alla disciplina del procedimento elettorale.))
 
-##### Art. 19
+#### Art. 19
 
 Decorrenza di efficacia
 

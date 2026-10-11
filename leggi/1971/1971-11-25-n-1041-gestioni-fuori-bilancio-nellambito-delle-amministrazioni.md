@@ -26,37 +26,35 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - GESTIONI FUORI BILANCIO NELL'AMBITO DELLE AMMINISTRAZIONI DELLO STATO
+## TITOLO I - GESTIONI FUORI BILANCIO NELL'AMBITO DELLE AMMINISTRAZIONI DELLO STATO NON AUTORIZZATE DA LEGGI SPECIALI
 
-### NON AUTORIZZATE DA LEGGI SPECIALI
-
-#### Art. 1
+### Art. 1
 
 Tutte le somme - comprese quelle che affluiscono a contabilita' speciali od a particolari gestioni - che indipendentemente o separatamente dalla gestione del bilancio dello Stato siano percepite sotto qualsiasi denominazione o a qualsiasi titolo dalle Amministrazioni centrali e periferiche dello Stato per lo svolgimento di compiti istituzionali diretti o indiretti, nonche' dai dipendenti delle Amministrazioni stesse, nell'espletamento del servizio o comunque in relazione al servizio anche se al di fuori del normale orario di ufficio - qualora la loro percezione dia luogo a gestioni fuori bilancio - devono essere versate in tesoreria nel termine inderogabile di trenta giorni, con imputazione al capitolo dello stato di previsione dell'entrata al quale si riferiscono ovvero al nuovo capitolo da istituire appositamente, qualora la natura delle entrate non ne consenta l'attribuzione a capitoli gia' esistenti.
 
 Per le Amministrazioni ed aziende statali con ordinamento autonomo e i loro dipendenti, i versamenti delle somme indicate al comma precedente debbono essere eseguiti in tesoreria con le modalita' ed entro i termini predetti.
 
-#### Art. 2
+### Art. 2
 
 Le norme di cui all'articolo 1 si applicano agli agenti contabili dello Stato ed in genere a tutti coloro che a qualsiasi titolo introitino le somme indicate nell'articolo stesso.
 
-#### Art. 3
+### Art. 3
 
 Le entrate di cui al precedente articolo 1 per le quali non intervengano apposite disposizioni legislative entro un anno dalla data di entrata in vigore della presente legge, non potranno essere ulteriormente acquisite ne' potranno essere utilizzate per erogazioni di qualsiasi natura.
 
-#### Art. 4
+### Art. 4
 
 In corrispondenza e nei limiti del versamento di cui al precedente articolo 1 saranno disposte, con decreto del Ministro per il tesoro, apposite assegnazioni di fondi negli stati di previsione della spesa dei Ministeri o delle Amministrazioni ed aziende autonome interessate, per la parte necessaria al perseguimento delle finalita' alle quali e' diretta la percezione delle relative somme.
 
-#### Art. 5
+### Art. 5
 
 Entro trenta giorni dalla data di entrata in vigore della presente legge, tutte le somme disponibili per i titoli di cui al precedente articolo 1 conseguite anteriormente alla data medesima, saranno versate con le modalita' indicate nello stesso articolo 1.
 
-#### Art. 6
+### Art. 6
 
 I funzionari e gli agenti contabili dello Stato e comunque tutti coloro che essendone obbligati omettano di effettuare il versamento previsto dall'articolo 1 sono responsabili per il danno che deriva allo Stato dalla mancata percezione delle entrate; ove, tuttavia, le somme non versate, secondo le modalita' e i tempi previsti dallo stesso articolo 1, siano recuperate o siano state spese per fini legittimi, i responsabili del mancato versamento sono tenuti in solido al pagamento a favore dello Stato degli interessi legali sull'ammontare delle somme percepite e non versate, calcolati per l'intero periodo per il quale le somme stesse restarono sottratte alla disponibilita' della Tesoreria, ovvero calcolati per il periodo di tempo intercorso dal momento della percezione a quello della spesa.
 
-#### Art. 7
+### Art. 7
 
 I direttori generali, i capi di servizio e i direttori di ragioneria, compresi quelli delle Amministrazioni autonome dello Stato, i quali, nell'esercizio delle loro funzioni, vengano a conoscenza delle infrazioni contemplate negli articoli precedenti, debbono farne immediata denuncia al procuratore generale della Corte dei conti, dandone contemporanea notizia al Ministro per il tesoro.
 
@@ -64,15 +62,13 @@ Coloro che non adempiono all'obbligo della denuncia di cui al comma precedente i
 
 Il medesimo obbligo di denuncia, con le sanzioni e responsabilita' correlative per inadempienza previste al comma precedente, incombe ai Ministri ed ai Sottosegretari di Stato che abbiano conoscenza specifica e diretta delle infrazioni di cui sopra.
 
-#### Art. 8
+### Art. 8
 
 L'accertamento delle responsabilita', l'applicazione delle sanzioni e la liquidazione degli interessi, a norma degli articoli precedenti, spettano alla Corte dei conti, su istanza del procuratore generale rappresentante il pubblico ministero presso la Corte stessa. Per il procedimento si osservano, in quanto applicabili, le norme stabilite, per i giudizi di responsabilita', dal regolamento di procedura 18 agosto 1933, n. 1038.
 
-## TITOLO II - GESTIONI FUORI BILANCIO NELL'AMBITO DELLE
+## TITOLO II - GESTIONI FUORI BILANCIO NELL'AMBITO DELLE AMMINISTRAZIONI DELLO STATO AUTORIZZATE DA LEGGI SPECIALI
 
-### AMMINISTRAZIONI DELLO STATO AUTORIZZATE - DA LEGGI SPECIALI
-
-#### Art. 9
+### Art. 9
 
 Tutte le gestioni fuori bilancio comunque denominate ed organizzate, compresi i fondi di rotazione, regolate da leggi speciali sono condotte con le modalita' stabilite dalle particolari disposizioni che le disciplinano, salvo quanto disposto in materia di controllo e di rendicontazione dai commi successivi.
 
@@ -96,11 +92,11 @@ La L. 5 agosto 1978, n.468 ha disposto (con l'art. 37, comma 1) che "Le norme de
 
 ## TITOLO III - DISPOSIZIONI GENERALI
 
-#### Art. 10
+### Art. 10
 
 Il Ministro per il tesoro e' autorizzato a provvedere con propri decreti alle variazioni di bilancio dipendenti dall'applicazione della presente legge.
 
-#### Art. 11
+### Art. 11
 
 Tutte le disposizioni legislative e regolamentari, anche speciali, in contrasto o incompatibili con la presente legge sono abrogate.
 

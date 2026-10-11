@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I - DISPOSIZIONI IN MATERIA
+## Capo I - DISPOSIZIONI IN MATERIA UNIVERSITARIA
 
-### UNIVERSITARIA
-
-#### Art. 1 - Nuclei di valutazione interna degli atenei
+### Art. 1 - Nuclei di valutazione interna degli atenei
 
 1\. Le universita' adottano un sistema di valutazione interna della gestione amministrativa, delle attivita' didattiche e di ricerca, degli interventi di sostegno al diritto allo studio, verificando, anche mediante analisi comparative dei costi e dei rendimenti, il corretto utilizzo delle risorse pubbliche, la produttivita' della ricerca e della didattica, nonche' l'imparzialita' e il buon andamento dell'azione amministrativa.
 
@@ -44,7 +42,7 @@ la seguente legge:
 
 > Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
-#### Art. 2
+### Art. 2
 
 Comitato nazionale per la valutazione del sistema universitario
 
@@ -82,7 +80,7 @@ AGGIORNAMENTO (4)
 
 Il D.L. 3 giugno 2008, n. 97, convertito con modificazioni dalla L. 2 agosto 2008, n. 129, ha disposto (con l'art. 4-bis, comma 18) che il Comitato nazionale per la valutazione del sistema universitario (CNVSU) di cui al presente articolo 2, e' prorogato, nella composizione esistente alla data di entrata in vigore della legge di conversione del D.L. 3 giugno 2008, n. 97, fino al 31 maggio 2009 ovvero, se ultimate prima della suddetta data, fino al completamento delle procedure occorrenti a rendere effettivamente operativa l'Agenzia nazionale di valutazione del sistema universitario e della ricerca (ANVUR), di cui all'articolo 2, commi da 138 a 141, del decreto-legge 3 ottobre 2006, n. 262, convertito, con modificazioni, dalla legge 24 novembre 2006, n. 286.
 
-#### Art. 3 - Disposizioni per le universita' non statali
+### Art. 3 - Disposizioni per le universita' non statali
 
 1\. Le disposizioni di cui all'articolo 1, commi 1 e 3, e all'articolo 2, comma 1, si applicano anche alle universita' non statali autorizzate al rilascio di titoli aventi valore legale. Il Ministro dell'universita' e della ricerca scientifica e tecnologica riserva, con proprio decreto, una quota dei contributi di cui alla legge 29 luglio 1991, n. 243, per l'attribuzione alle universita' non statali di appositi incentivi, sulla base di obiettivi predeterminati e in relazione agli esiti dell'attivita' di valutazione di cui agli articoli 1 e 2.
 
@@ -90,7 +88,7 @@ Il D.L. 3 giugno 2008, n. 97, convertito con modificazioni dalla L. 2 agosto 200
 
 > \- La legge 29 luglio 1991, n. 243 (Universita' non statali legalmente riconosciute) e' pubblicata sulla Gazzetta Ufficiale del 6 agosto 1991, n. 183.
 
-#### Art. 4
+### Art. 4
 
 Incentivazione dei professori e dei ricercatori universitari
 
@@ -116,7 +114,7 @@ d) pubblicita' delle disposizioni e delle priorita' adottate dagli atenei per l'
 
 5\. La materia di cui all'articolo 66 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382, e' rimessa all'autonoma determinazione degli atenei, che possono disapplicare la predetta norma dalla data di entrata in vigore di specifiche disposizioni da essi emanate.
 
-#### Art. 5 - Assegni di ricerca e scuole di specializzazione
+### Art. 5 - Assegni di ricerca e scuole di specializzazione
 
 1\. E' autorizzata la spesa nel limite massimo di lire 33,5 miliardi per l'anno 1999, di lire 38,5 miliardi per l'anno 2000 e di lire 51,5 miliardi a decorrere dall'anno 2001, per il cofinanziamento di importi destinati dagli atenei all'attivazione di assegni di ricerca ai sensi dell'articolo 51, comma 6, della legge 27 dicembre 1997, n. 449. L'importo e' ripartito secondo criteri determinati con decreti del Ministro dell'universita' e della ricerca scientifica e tecnologica, tenendo conto delle esigenze di potenziamento dell'attivita' di ricerca delle universita'. I medesimi decreti prevedono altresi' le modalita' di controllo sistematico e di verifica dell'effettiva attivazione degli assegni. Alla scadenza del termine di durata dell'assegno, apposite commissioni istituite dagli atenei formulano un giudizio sull'attivita' di ricerca svolta dal titolare, anche ai fini del rinnovo.
 
@@ -150,7 +148,7 @@ d) pubblicita' delle disposizioni e delle priorita' adottate dagli atenei per l'
 
 > 8\. Il decreto di cui all'articolo 17, comma 114, della legge 15 maggio 1997, n. 127, e' emanato sentito il Consiglio superiore della magistratura".
 
-#### Art. 6
+### Art. 6
 
 Disposizioni per l'autonomia didattica
 
@@ -190,7 +188,7 @@ b) alla lettera a), le parole: "anche in deroga a quanto previsto dagli articoli
 
 9\. All'articolo 4, comma 4, del decreto legislativo 8 maggio 1998, n. 178, le parole: "due anni" sono sostituite dalle seguenti: "tre anni".
 
-#### Art. 7
+### Art. 7
 
 (Disposizioni per gli organi collegiali del Ministero
 
@@ -208,7 +206,7 @@ dell'universita' e della ricerca scientifica e tecnologica)
 
 > \- L'ordinanza del 25 novembre 1998, del Ministro dell'universita' e della ricerca scientifica e tecnoloaica concerne: "Elezioni del Consialio Nazionale degli Studenti Universitari (CNSU)".
 
-#### Art. 8 - Disposizioni in materia di personale universitario
+### Art. 8 - Disposizioni in materia di personale universitario
 
 1\. Il rapporto di lavoro del direttore amministrativo delle universita' e' di tipo subordinato, con trattamento economico determinato in conformita' a criteri e parametri individuati con decreti del Ministro dell'universita' e della ricerca scientifica e tecnologica, di concerto con i Ministri del tesoro, del bilancio e della programmazione economica e per la funzione pubblica.
 
@@ -236,7 +234,7 @@ Dall'attuazione del presente comma non devono derivare nuovi o maggiori oneri pe
 
 12\. Per le universita' statali cui sono annessi i policlinici universitari, gli oneri relativi al personale di ruolo dell'area socio-sanitaria, non laureato, assegnato al policlinico, non sono compresi tra le spese fisse e obbligatorie di cui all'articolo 51, comma 4, primo periodo, della legge 27 dicembre 1997, n. 449, ai sensi e per gli effetti di cui alla citata norma. Dall'attuazione del presente comma non devono derivare nuovi o maggiori oneri per il bilancio dello Stato.
 
-#### Art. 9
+### Art. 9
 
 (Interventi di edilizia universitaria e per la rete museale
 
@@ -270,7 +268,7 @@ b) di lire 1 miliardo per l'anno 2000 e di lire 1 miliardo per l'anno 2001, da d
 
 ## Capo II - DISPOSIZIONI IN MATERIA DI RICERCA
 
-#### Art. 10 - Rifinanziamento di leggi e norme per gli enti di ricerca
+### Art. 10 - Rifinanziamento di leggi e norme per gli enti di ricerca
 
 1\. E' autorizzata la spesa:
 
@@ -312,7 +310,7 @@ La L. 23 dicembre 2014, n. 190 ha disposto (con l'art. 1, comma 723) che "L'auto
 
 ## Capo III - DISPOSIZIONI PER L'ATTUAZIONE DI SENTENZE PASSATE IN GIUDICATO
 
-#### Art. 11
+### Art. 11
 
 (Corresponsione di borse di studio agli specializzandi medici
 
@@ -346,7 +344,7 @@ b) chi abbia sospeso la frequenza dei corsi per motivi diversi da quelli previst
 
 ## Capo IV - DISPOSIZIONI FINANZIARIE
 
-#### Art. 12 - Copertura finanziaria
+### Art. 12 - Copertura finanziaria
 
 1\. All'onere derivante dell'attuazione delle disposizioni di cui agli articoli 2, 4, 5, 7, 8, comma 6, e 11, pari a lire 200 miliardi per l'anno 1999 e a lire 190 miliardi per ciascuno degli anni 2000 e 2001, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1999-2001, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 1999, allo scopo utilizzando l'accantonamento relativo al Ministero dell'universita' e della ricerca scientifica e tecnologica.
 
@@ -358,7 +356,7 @@ b) chi abbia sospeso la frequenza dei corsi per motivi diversi da quelli previst
 
 5\. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 13 - Entrata in vigore
+### Art. 13 - Entrata in vigore
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 

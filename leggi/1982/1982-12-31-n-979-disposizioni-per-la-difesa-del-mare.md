@@ -28,7 +28,7 @@ la seguente legge:
 
 ## TITOLO I - NORME PROGRAMMATICHE
 
-#### Art. 1
+### Art. 1
 
 Il Ministro della marina mercantile attua la politica intesa alla protezione dell'ambiente marino ed alla prevenzione di effetti dannosi alle risorse del mare, provvedendo alla formazione, di intesa con le regioni, del piano generale di difesa del mare e delle coste marine dall'inquinamento e di tutela dell'ambiente marino, valido per tutto il territorio nazionale, tenuto conto dei programmi statali e regionali anche in materie connesse, degli indirizzi comunitari e degli impegni internazionali.
 
@@ -46,7 +46,7 @@ Il Ministro della marina mercantile provvede altresi' a regolare l'esercizio del
 
 ## TITOLO II - VIGILANZA IN MARE
 
-#### Art. 2
+### Art. 2
 
 Per la realizzazione dei compiti di cui all'articolo 1, nonche' per assicurare la vigilanza e il soccorso in mare, il Ministro della marina mercantile provvede:
 
@@ -58,7 +58,7 @@ c) alla istituzione, d'intesa con il Ministro della difesa, di un servizio di vi
 
 Il servizio di protezione dell'ambiente marino, di vigilanza e di soccorso in mare, di cui alle lettere a) e b), opera in accordo e con il contributo dei servizi esistenti sul territorio.
 
-#### Art. 3
+### Art. 3
 
 Per i fini di cui alla lettera a) dell'articolo 2 il Ministro della marina mercantile provvedera' ad organizzare una rete di osservazione della qualita' dell'ambiente marino ed un idoneo sistema di sorveglianza sulle attivita' svolgentisi lungo le coste, anche per lo svolgimento dei servizi di cui alla lettera b) dell'articolo 2, costantemente collegato con centri operativi, che opereranno nell'ambito di compartimenti marittimi, da situare nelle zone maggiormente interessate al traffico marittimo e con un centro a livello nazionale di coordinamento generale e di raccolta dati.
 
@@ -92,7 +92,7 @@ Per le spese di organizzazione e funzionamento dei servizi di cui al presente ar
 
 La quota relativa all'anno 1982 viene determinata in lire 1.500 milioni.
 
-#### Art. 4
+### Art. 4
 
 Per gli interventi di prevenzione e di controllo degli inquinamenti di cui alla lettera a) del precedente articolo 2 si provvedera' mediante la costruzione o l'acquisto ((o il noleggio)) o comunque la utilizzazione, anche attraverso apposita convenzione, di unita' navali con caratteristiche di particolare maneggevolezza e velocita', di aeromobili nonche' di mezzi di trasporto e di rimorchio.
 
@@ -114,7 +114,7 @@ Resta comunque fermo l'obbligo della restituzione dell'intero contributo maggior
 
 All'onere relativo si provvede a carico del capitolo 8051 dello stato di previsione della spesa del Ministero della marina mercantile per l'anno 1982.
 
-#### Art. 5
+### Art. 5
 
 Al potenziamento del servizio di vigilanza e soccorso in mare di cui alla lettera b) dell'articolo 2 si provvedera' mediante la costruzione o l'acquisto di unita' navali da iscrivere nei quadri del naviglio militare, idonee ad essere impiegate anche in navigazione di altura ed in condizioni atmosferiche avverse, di mezzi ad alta velocita' come aliscafi od altri mezzi adeguati, nonche' di aeromobili da iscrivere nel registro degli aeromobili militari dello Stato.
 
@@ -122,7 +122,7 @@ Per l'acquisizione delle predette unita' navali, nonche' dei predetti mezzi ed a
 
 La quota relativa all'anno 1982 viene determinata in lire 6.000 milioni.
 
-#### Art. 6
+### Art. 6
 
 Alla istituzione del servizio di vigilanza di cui alla lettera c) dell'articolo 2 si provvedera' mediante la costruzione o l'acquisto di unita' navali ed aeromobili, da iscrivere rispettivamente nei quadri del naviglio e nel registro degli aeromobili militari dello Stato, aventi caratteristiche e requisiti tecnici tali da rendere i predetti mezzi idonei, nel loro coordinato assetto, ad effettuare prolungate operazioni di altura e ad assicurare la necessaria prontezza di interventi o la capacita' di perlustrare in tempi brevi ampi tratti di mare. Le unita' navali e gli aeromobili dovranno essere progettati ed attrezzati anche per il soccorso in zone di altura e per operazioni antinquinamento.
 
@@ -132,13 +132,13 @@ Per l'acquisizione dei predetti mezzi, con le relative dotazioni e attrezzature,
 
 La quota relativa all'anno 1982 viene determinata in lire 8.000 milioni.
 
-#### Art. 7
+### Art. 7
 
 Ai fini dell'acquisizione dei mezzi di cui agli articoli 4, 5 e 6, il Ministro della marina mercantile potra' avvalersi della consulenza della Direzione generale delle costruzioni, delle armi e degli armamenti navali del Ministero della difesa. Con decreto del Ministro della marina mercantile, di concerto con il Ministro della difesa, potranno essere affidate alla medesima Direzione generale la stesura delle specifiche tecniche contrattuali e l'assistenza tecnica durante la costruzione dei mezzi sopra indicati.
 
 Gli stanziamenti previsti negli articoli 4, 5 e 6 sono adeguati annualmente in sede di legge finanziaria di cui all'articolo 11 della legge 5 agosto 1978, n. 468.
 
-#### Art. 8
+### Art. 8
 
 I progetti ed i contratti nonche' gli atti di concessione e le convenzioni per l'esecuzione di lavori, provviste e forniture inerenti all'attuazione degli articoli 3, 4, 5 e 6 e fino all'importo complessivo di lire 500 milioni, qualunque sia il modo con il quale si sia proceduto all'aggiudicazione, sono approvati dalla competente amministrazione senza l'obbligo dei preventivi pareri richiesti dalle norme vigenti.
 
@@ -178,19 +178,17 @@ Le funzioni di segretario del Comitato sono svolte da un funzionario designato d
 
 I membri del Comitato e della segreteria sono nominati con decreto del Ministro della marina mercantile.
 
-#### Art. 9
+### Art. 9
 
 ((1. Il servizio di vigilanza in mare di cui alla lettera c) dell'articolo 2, e' disciplinato dall'articolo 115 del codice dell'ordinamento militare.))
 
-## TITOLO III - PRONTO INTERVENTO PER LA DIFESA DEL MARE E DELLE ZONE COSTIERE DAGLI
+## TITOLO III - PRONTO INTERVENTO PER LA DIFESA DEL MARE E DELLE ZONE COSTIERE DAGLI INQUINAMENTI CAUSATI DA INCIDENTI
 
-### INQUINAMENTI CAUSATI DA INCIDENTI
-
-#### Art. 10
+### Art. 10
 
 Il Ministero della marina mercantile provvede, nel quadro del servizio nazionale di protezione civile, d'intesa con le altre amministrazioni civili e militari dello Stato, mediante il concorso degli enti pubblici territoriali, alla organizzazione del pronto intervento per la difesa del mare e delle zone costiere dagli inquinamenti causati da incidenti.
 
-#### Art. 11
+### Art. 11
 
 Nel caso di inquinamento o di imminente pericolo di inquinamento delle acque del mare causato da immissioni, anche accidentali, di idrocarburi o di altre sostanze nocive, provenienti da qualsiasi fonte o suscettibili di arrecare danni all'ambiente marino, al litorale e agli interessi connessi, l'autorita' marittima, nella cui area di competenza si verifichi l'inquinamento o la minaccia di inquinamento, e' tenuta a disporre tutte le misure necessarie, non escluse quelle per la rimozione del carico o del natante, allo scopo di prevenire od eliminare gli effetti inquinanti ovvero attenuarli qualora risultasse tecnicamente impossibile eliminarli.
 
@@ -202,7 +200,7 @@ Quando l'emergenza non e' fronteggiabile con i mezzi di cui il Ministero della m
 
 Restano ferme le norme contenute nel decreto del Presidente della Repubblica 27 maggio 1978, n. 504, per l'intervento in alto mare in caso di sinistri ed avarie a navi battenti bandiera straniera che possano causare inquinamento o pericolo di inquinamento all'ambiente marino, o al litorale.
 
-#### Art. 12
+### Art. 12
 
 Il comandante, l'armatore o il proprietario di una nave o il responsabile di un mezzo o di un impianto situato sulla piattaforma continentale o sulla terraferma, nel caso di avarie o di incidenti agli stessi, suscettibili di arrecare, attraverso il versamento di idrocarburi o di altre sostanze nocive o inquinanti, danni all'ambiente marino, al litorale o agli interessi connessi, sono tenuti ad informare senza indugio l'autorita' marittima piu' vicina al luogo del sinistro, e ad adottare ogni misura che risulti al momento possibile per evitare ulteriori danni ed eliminare gli effetti dannosi gia' prodotti.
 
@@ -212,7 +210,7 @@ Nei casi di urgenza, l'autorita' marittima fara' eseguire per conto dell'armator
 
 Nei casi in cui l'amministrazione fa eseguire le misure necessarie ai sensi del secondo e terzo comma, le spese sostenute sono recuperate, nei limiti del valore del carico anche nei confronti del proprietario del carico stesso quando, in relazione all'evento, si dimostri il dolo o la colpa del medesimo ((, anche con riferimento all'utilizzazione di una nave inadeguata alla qualita' e alla quantita' del carico trasportato. Ai predetti fini il proprietario del carico si munisce di idonea polizza assicurativa a copertura integrale dei rischi anche potenziali, rilasciandone copia al comandante della nave che e' tenuto ad esibirla tra i documenti di bordo necessari in occasione dei controlli disposti dall'autorita' marittima)).
 
-#### Art. 13
+### Art. 13
 
 Per i contratti riguardanti gli interventi urgenti il Ministro della marina mercantile, sentito il Comitato di cui all'articolo 3 del decreto del Presidente della Repubblica 27 maggio 1978, n. 504, e, con riferimento agli obiettivi del piano di pronto intervento nazionale, il Ministro della protezione civile, puo' provvedere a trattativa privata, senza l'obbligo di acquisire il preventivo parere del Consiglio di Stato sui progetti di contratto.
 
@@ -222,31 +220,29 @@ Con la procedura di cui ai precedenti commi provvedono i capi dei compartimenti 
 
 Qualora, per motivi di urgenza, si sia verificata la necessita' di assicurare l'immediata disponibilita' di materiale di pronto impiego e non sia stato possibile stipulare i relativi contratti, il Ministro della marina mercantile, per il pagamento delle somme agli aventi diritto, provvedera' con atti di riconoscimento di debito.
 
-#### Art. 14
+### Art. 14
 
 Alle spese occorrenti per l'adozione delle misure di cui all'articolo 11 nonche' per il rimborso alle altre amministrazioni delle spese sostenute per gli interventi ad esse richiesti, si provvede a carico di apposito capitolo dello stato di previsione della spesa del Ministero della marina mercantile, avente natura di spesa obbligatoria.
 
 ((Le somme recuperate a carico dei privati per le spese sostenute per gli interventi di cui all'articolo 12 sono versate all'entrata del bilancio dello Stato e sono riassegnate nella misura del 50 per cento con decreto del Ministro dell'economia e delle finanze allo stato di previsione del Ministero dell'ambiente e della tutela del territorio e del mare per le attivita' di difesa del mare dagli inquinamenti.))
 
-## TITOLO IV - NORME PENALI PER LA DISCARICA DI
+## TITOLO IV - NORME PENALI PER LA DISCARICA DI SOSTANZE VIETATE DA PARTE DEL NAVIGLIO MERCANTILE
 
-### SOSTANZE VIETATE DA PARTE DEL - NAVIGLIO MERCANTILE
-
-#### Art. 15
+### Art. 15
 
 Il presente titolo ha per oggetto le immissioni in mare di sostanze nocive all'ambiente marino provenienti dalle navi: esso non riguarda lo scarico di rifiuti in mare effettuato a mezzo navi disciplinato dall'articolo 14 della legge 24 dicembre 1979, n. 650.
 
-#### Art. 16
+### Art. 16
 
 ((ARTICOLO ABROGATO DAL D. Lgs. 6 NOVEMBRE 2007, n. 202))
 
-#### Art. 17
+### Art. 17
 
 ((COMMA ABROGATO DAL D. LGS. 6 NOVEMBRE 2007, n. 202)).
 
 Il comandante della nave che violi le disposizioni di cui all'articolo 19 e' punito con l'arresto fino a sei mesi ovvero con l'ammenda fino a 10 milioni.
 
-#### Art. 18
+### Art. 18
 
 Il quarto e il quinto comma dell'articolo 14 della legge 24 dicembre 1979, n. 650, sono sostituiti dai seguenti:
 
@@ -256,7 +252,7 @@ Alle istruttorie per le autorizzazioni di cui sopra provvede l'autorita' maritti
 
 Il Ministro della marina mercantile provvede ad effettuare le prescritte notifiche ai competenti organismi internazionali".
 
-#### Art. 19
+### Art. 19
 
 Le navi italiane, alle quali si applica la normativa di cui all'articolo 17, devono avere, tra i libri di cui all'articolo 169 del codice della navigazione, il registro degli idrocarburi sul quale vanno effettuate le prescritte annotazioni.
 
@@ -266,33 +262,33 @@ Ogni pagina del registro degli idrocarburi deve essere firmata dall'ufficio o da
 
 Per la tenuta del registro degli idrocarburi si applicano le disposizioni degli articoli 362 e seguenti del regolamento per l'esecuzione del codice della navigazione marittima riguardanti i libri di bordo.
 
-#### Art. 20
+### Art. 20
 
 ((ARTICOLO ABROGATO DAL D. Lgs. 6 NOVEMBRE 2007, n. 202))
 
-#### Art. 21
+### Art. 21
 
 In relazione ai danni provocati per violazione delle disposizioni previste dal presente titolo, fermo restando il disposto dell'articolo 185 del codice penale, al comandante e il proprietario o l'armatore della nave sono tenuti in solido a rifondere allo Stato le spese sostenute per la pulizia delle acque e degli arenili, nonche' a risarcire i danni arrecati alle risorse marine. Tale obbligo solidale sussiste anche nei casi in cui si sia dovuta effettuare la discarica on mare di sostanze vietate, per la sicurezza della propria o di altra nave; o l'immissione delle sostanze vietate nelle acque del mare sia stata causata da un'avaria o da una perdita inevitabile ed ogni ragionevole precauzione sia stata adottata dopo l'avaria o la scoperta della perdita per impedire o ridurre il versamento delle sostanze stesse in mare.
 
-#### Art. 22
+### Art. 22
 
 Per i reati previsti dalla presente legge lo Stato, nella persona del Ministro della marina mercantile, puo' costituirsi parte civile nel relativo giudizio penale.
 
-#### Art. 23
+### Art. 23
 
 La sorveglianza per la prevenzione degli inquinamenti delle acque marine da idrocarburi e dalle altre sostanze nocive nell'ambiente marino e l'accertamento delle infrazioni alle norme relative sono affidati, sotto la direzione dei comandanti dei porti, agli ufficiali ed agenti di polizia giudiziaria di cui all'articolo 221 del codice di procedura penale e all'articolo 1235 del codice della navigazione, nonche' al personale civile dell'amministrazione della marina mercantile, agli ufficiali, sottufficiali e sottocapi della marina militare.
 
-#### Art. 24
+### Art. 24
 
 La lettera e) dell'articolo 15 della legge 14 luglio 1965, n. 963, e' abrogata.
 
 ## TITOLO V - RISERVE MARINE
 
-#### Art. 25
+### Art. 25
 
 Le riserve naturali marine sono costituite da ambienti marini, dati dalle acque, dai fondali e dai tratti di costa prospicenti che presentano un rilevante interesse per le caratteristiche naturali, geomorfologiche, fisiche, biochimiche con particolare riguardo alla flora e alla fauna marine e costiere e per l'importanza scientifica, ecologica, culturale, educativa ed economica che rivestono.
 
-#### Art. 26
+### Art. 26
 
 Sulla base delle indicazioni contenute nel piano di cui all'articolo 1 e in conformita' agli indirizzi della politica nazionale di protezione dell'ambiente, le riserve marine sono istituite con decreto del Ministro della marina mercantile su conforme parere del Consiglio nazionale per la protezione dell'ambiente naturale - sezione protezione dell'ambiente marino, e su proposta della Consulta per la difesa del mare dagli inquinamenti, sentite le regioni e i comuni territorialmente interessati.
 
@@ -314,7 +310,7 @@ La Consulta per la difesa del mare dagli inquinamenti puo' avvalersi, ai fini de
 
 Ai fini dell'esercizio delle competenze di cui al presente titolo, la Consulta per la difesa del mare dagli inquinamenti e' integrata da tre rappresentanti delle associazioni naturalistiche maggiormente rappresentative nel settore della tutela dell'ambiente marino, da tre esperti nella stessa materia, nonche' da due membri del consiglio di amministrazione dell'Istituto di cui al precedente comma, designati dal consiglio medesimo.
 
-#### Art. 27
+### Art. 27
 
 Nelle riserve naturali marine, ogni attivita' puo' essere regolamentata attraverso la previsione di divieti e limitazioni o sottoposta a particolari autorizzazioni in funzione delle finalita' per la cui realizzazione la riserva e' stata istituita.
 
@@ -352,7 +348,7 @@ Ove la fascia costiera demaniale costituisca parte integrante dell'eco-sistema t
 
 In tale ipotesi il decreto dispone a favore dell'ente delegato la concessione dell'area demaniale e costiera e il relativo canone viene ad avere carattere ricognitorio.
 
-#### Art. 28
+### Art. 28
 
 In attuazione dei principi di cui agli articoli 1 e 26 il Ministro della marina mercantile promuove e coordina tutte le attivita' di protezione, tutela, ricerca e valorizzazione del mare e delle sue risorse ed assicura il raggiungimento delle finalita' istitutive di ciascuna riserva attraverso l'Ispettorato centrale per la difesa del mare, di cui all'articolo 34.
 
@@ -386,11 +382,11 @@ In particolare la commissione da' il proprio parere alla proposta del regolament
 
 ((Il regolamento e' approvato con decreto del Ministro dell'ambiente, di concerto con il Ministro della marina mercantile, sentita la Consulta per la difesa del mare dagli inquinamenti)).
 
-#### Art. 29
+### Art. 29
 
 ((ARTICOLO SOPPRESSO DALLA L. 8 LUGLIO 1986, N. 349))
 
-#### Art. 30
+### Art. 30
 
 Per la violazione dei divieti o dei vincoli contenuti nel decreto di costituzione della riserva si applica, salvo che il fatto costituisca reato, la sanzione amministrativa da lire 200.000 a lire 5 milioni.
 
@@ -398,7 +394,7 @@ La Capitaneria di porto applica la sanzione di cui al comma precedente e provved
 
 Il violatore e' tenuto altresi' alla restituzione di quanto comunque asportato dalla riserva.
 
-#### Art. 31
+### Art. 31
 
 Nella prima applicazione della presente legge, l'accertamento di cui al secondo comma dell'articolo 26, ha luogo con riferimento alle seguenti aree:
 
@@ -442,7 +438,7 @@ Nella prima applicazione della presente legge, l'accertamento di cui al secondo 
 
 20\) Penisola del Sinis, Isola di Mal di Ventre.
 
-#### Art. 32
+### Art. 32
 
 Per l'onere derivante dall'attuazione degli articoli 26 e 28 e' autorizzata, per il periodo 1982-1985, la spesa complessiva di lire 3.000 milioni, da iscrivere nello stato di previsione della spesa del Ministero della marina mercantile secondo quote che saranno determinate in sede di legge finanziaria di cui all'articolo 11 della legge 5 agosto 1978, n. 468.
 
@@ -472,17 +468,15 @@ Il D.L. 30 dicembre 2019, n. 162 convertito con modificazioni dalla L. 28 febbra
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 8, comma 10 della L. 23 marzo 2001, n. 93, ha conseguentemente disposto (con l'art. 24, comma 4) che "Al fine di potenziare la gestione e il funzionamento delle aree marine protette gia' istituite, l'autorizzazione di spesa di cui all'articolo 8, comma 10, della legge 23 marzo 2001, n. 93, e' incrementata di 0,7 milioni di euro per il 2020 e di 0,6 milioni di euro annui a decorrere dall'anno 2021".
 
-## TITOLO VI - ADEGUAMENTO DELL'AMMINISTRAZIONE CENTRALE E PERIFERICA DELLA MARINA
+## TITOLO VI - ADEGUAMENTO DELL'AMMINISTRAZIONE CENTRALE E PERIFERICA DELLA MARINA MERCANTILE
 
-### MERCANTILE
-
-#### Art. 33
+### Art. 33
 
 In relazione all'ampliamento delle acque territoriali previsto dalla legge 14 agosto 1974, n. 359, ed alla fissazione delle linee di base del mare territoriale, disposta con il decreto del Presidente della Repubblica 26 aprile 1977, n. 816, nonche' all'esercizio della giurisdizione dello Stato italiano al di la' del limite esterno del mare territoriale, secondo i principi del diritto internazionale, la fissazione dei limiti delle circoscrizioni marittime di cui all'articolo 16 del codice della navigazione ha luogo anche sulle aree marine antistanti il litorale, secondo criteri che valgano ad assicurare la massima funzionalita' ed efficienza agli uffici ad esse preposti.
 
 A quanto previsto dal precedente comma si provvede a norma dell'articolo 1 del regolamento di esecuzione del codice della navigazione marittima.
 
-#### Art. 34
+### Art. 34
 
 Per lo svolgimento dei compiti e delle attribuzioni di cui alla presente legge e' istituito presso il Ministero della marina mercantile un Ispettorato centrale per la difesa del mare.
 
@@ -504,7 +498,7 @@ Entro sei mesi dall'entrata in vigore della presente legge il Ministro della mar
 
 Alla copertura dei nuovi posti si provvedera' con l'utilizzazione del personale disponibile degli enti pubblici disciolti in possesso di adeguate competenze professionali; in carenza di detto personale verranno banditi pubblici concorsi circoscrizionali, applicando l'articolo 6 dei decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077.
 
-#### Art. 35
+### Art. 35
 
 Il ruolo tecnico della carriera direttiva del Ministero della marina mercantile di cui al quadro "B" annesso alla legge 7 dicembre 1960, n. 1541, e' sostituito dal ruolo organico di cui al quadro "C" allegato alla presente legge.
 
@@ -514,13 +508,13 @@ La nomina in prova alla qualifica di ispettore capo aggiunto, della VIII qualifi
 
 Le categorie di titoli valutabili e l'oggetto del colloquio sono stabiliti nel bando di concorso.
 
-#### Art. 36
+### Art. 36
 
 Presso il Ministero della marina mercantile e' istituito il ruolo tecnico della carriera di concetto con la consistenza organica di cui al quadro "C" allegato alla presente legge.
 
 La nomina in prova alla qualifica di perito della VI qualifica funzionale, di cui all'articolo 2 della legge 11 luglio 1980, n. 312, del ruolo di cui al precedente comma, si consegue mediante pubblico concorso per esami al quale possono partecipare coloro che posseggono i prescritti requisiti per accedere agli impieghi civili dello Stato e siano muniti di diploma di istituto tecnico nautico, di istituto tecnico industriale, di istituto tecnico per geometri, di liceo scientifico o di diplomi equipollenti.
 
-#### Art. 37
+### Art. 37
 
 In attesa del potenziamento degli organici del personale militare delle Capitanerie di porto, da attuare in sede di esame globale delle esigenze delle Capitanerie medesime, la consistenza organica del personale militare nelle Capitanerie di porto, per sopperire alle immediate esigenze di cui alla presente legge, e' aumentata di 102 ufficiali del ruolo normale delle Capitanerie di porto e 234 sottufficiali nocchieri di porto, da realizzare nell'arco di 4 anni a partire dal 1982.
 
@@ -536,39 +530,37 @@ d) il numero dei posti da mettere annualmente a concorso per la nomina ad uffici
 
 e) il numero globale dei capi di prima, seconda e terza classe e dei secondi capi della marina militare, quale risulta dall'applicazione dell'articolo 18 della legge 10 giugno 1964, n. 447, e' aumentato di 234 unita'; l'aumento e' riservato ai sottufficiali dei predetti gradi appartenenti alla categoria nocchieri di porto.
 
-#### Art. 38
+### Art. 38
 
 L'onere derivante dall'attuazione degli articoli 34 e 37 e' valutato per l'anno 1982 in lire 2.000 milioni.
 
 All'onere derivante dall'attuazione degli articoli 35 e 36, valutato in lire 550 milioni in ragione d'anno, si provvede per l'anno finanziario 1982 mediante riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione della spesa del Ministero del tesoro per l'anno finanziario medesimo.
 
-#### Art. 39
+### Art. 39
 
 Entro sei mesi dall'entrata in vigore della presente legge, con decreto del Ministro della marina mercantile, di concerto con i Ministri dei lavori pubblici e del tesoro, e' approvato il programma quadriennale di potenziamento delle infrastrutture logistiche ed operative delle Capitanerie di porto e degli altri uffici periferici della marina mercantile al fine di adeguarli ai nuovi compiti previsti dalla presente legge nonche' alle nuove dotazioni di personale.
 
 Il Ministro della marina mercantile si avvale, per la realizzazione del suddetto programma, delle procedure di cui all'articolo 7 della legge 23 gennaio 1974, n. 15.
 
-#### Art. 40
+### Art. 40
 
 All'onere di lire 32.000 milioni, derivante dall'applicazione della presente legge per l'anno 1982, si provvede mediante corrispondente riduzione dello stanziamento iscritto al capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno finanziario medesimo alla voce "Difesa del mare dagli inquinamenti, riassetto del servizio di soccorso in mare e vigilanza sulle attivita' economiche sottoposte alla giurisdizione italiana".
 
 Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-## TITOLO VII - DISPOSIZIONI TRANSITORIE
+## TITOLO VII - DISPOSIZIONI TRANSITORIE E FINALI
 
-### E FINALI
-
-#### Art. 41
+### Art. 41
 
 Fino all'approvazione degli elenchi previsti dall'articolo 59, secondo comma, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, le concessioni di cui l'autorita' marittima disporra' il rinnovo o il rilascio riguarderanno, quando l'utilizzazione prevista risponda a finalita' turistiche e ricreative, periodi di tempo non superiori all'anno. Qualora, per la natura delle iniziative rispondenti ad obiettive esigenze di interesse pubblico, il rapporto concessorio debba avere maggiore durata, l'autorita' marittima procedera' sentita la regione territorialmente interessata.
 
-#### Art. 42
+### Art. 42
 
 Alla ricomposizione della Consulta per la difesa del mare dagli inquinamenti, di cui all'articolo 1, ed alle modifiche della sua composizione che si siano rese necessarie in base alla normativa prevista dalla presente legge, si provvede con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro della marina mercantile.
 
 Ai componenti della Consulta ed all'ufficio di segreteria nonche' agli esperti aggregati spetta, per l'opera svolta, un compenso la cui misura e' stabilita con decreto del Ministro della marina mercantile, di concerto con il Ministro del tesoro.
 
-#### Art. 43
+### Art. 43
 
 L'articolo 2 del decreto del Capo provvisorio dello Stato 15 settembre 1947, n. 1177, relativo alla composizione del Consiglio superiore della marina mercantile, e' cosi' integrato:
 
@@ -588,11 +580,9 @@ PANDOLFI - NICOLAZZI - ALTISSIMO -
 
 Visto, il Guardasigilli: DARIDA VERNOLA
 
-## TITOLO VII - DISPOSIZIONI TRANSITORIE
+## TITOLO VII - DISPOSIZIONI TRANSITORIE E FINALI
 
-### E FINALI
-
-#### Allegato A
+### Allegato A
 
 ALLEGATI
 
@@ -1530,7 +1520,7 @@ Zolfo liquido.
 
 Delle predette sostanze e' vietato lo scarico in mare, sotto le comminatorie previste dalla legge 31 dicembre 1982, n. 979".
 
-#### Allegato B
+### Allegato B
 
 ALLEGATO B
 
@@ -1538,7 +1528,7 @@ MINISTERO DELLA MARINA MERCANTILE
 
 Parte di provvedimento in formato grafico
 
-#### Allegato C
+### Allegato C
 
 ALLEGATO C
 
@@ -1580,7 +1570,7 @@ Il Ministro della marina mercantile
 
 DI GIESI
 
-#### Allegato D
+### Allegato D
 
 ALLEGATO D
 

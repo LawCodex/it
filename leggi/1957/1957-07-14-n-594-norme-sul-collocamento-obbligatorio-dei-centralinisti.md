@@ -26,7 +26,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 ((Le pubbliche Amministrazioni, gli enti pubblici e le aziende di Stato, anche in deroga all'articolo 6 del decreto-legge 5 febbraio 1948, n. 61 e all'articolo 12 del decreto-legge 7 aprile 1948, n. 262, nonche' alle disposizioni ministeriali che fanno divieto di assunzione di personale, sono tenuti ad assumere per ogni ufficio, sede, stabilimento alla sola condizione che questi siano dotati di centralino telefonico, un privo della vista abilitato alle funzioni di centralinista telefonico.
 
@@ -46,7 +46,7 @@ Sono esclusi dall'applicazione della presente legge: 1) le centrali e i centrali
 
 La fornitura degli speciali dispositivi, eventualmente occorrenti per le trasformazioni tecniche necessarie per consentire ai privi della vista il lavoro di centralinisti, e' a carico dell'Unione italiana dei ciechi.
 
-### Art. 2
+## Art. 2
 
 Presso il Ministero del lavoro e della previdenza sociale e' istituito un albo professionale nazionale nel quale verranno iscritti i minorati della vista abilitati alla funzione di centralinista telefonico che siano stati sottoposti con esito positivo ad una prova teorico-pratica da parte di apposita Commissione.
 
@@ -76,7 +76,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 14 settembre 2015, n. 151 ha disposto (con l'art. 12, comma 1) che "L'albo professionale nazionale dei centralinisti telefonici privi della vista, istituito dall'articolo 2 della legge 14 luglio 1957, n. 594, e' soppresso".
 
-### Art. 3
+## Art. 3
 
 I minorati della vista che aspirino ad essere iscritti nell'albo professionale di cui al precedente articolo dovranno presentare domanda al Ministero del lavoro e della previdenza sociale per essere sottoposti alla prova teorico-pratica, allegando i seguenti documenti:
 
@@ -84,7 +84,7 @@ a) diploma di conseguita idoneita' alle funzioni di centralinista telefonico ril
 
 b) certificato di un ufficiale sanitario dal quale risulti che il minorato della vista e' esente da altre minorazioni fisiche che potrebbero impedire l'espletamento della funzione alla quale aspira.
 
-### Art. 4
+## Art. 4
 
 ((Le pubbliche Amministrazioni; gli Enti pubblici, le Aziende statali e i privati datori di lavoro, di cui all'art. 1 della presente legge, debbono inviare al Ministero del lavoro e della previdenza sociale una dichiarazione dalla quale risulti l'ubicazione dei dipendenti uffici, sedi o stabilimenti dotati dei centralini contemplati dal predetto art. 1. La dichiarazione deve essere inviata entro sessanta; giorni dall'installazione dei centralini.
 
@@ -94,21 +94,21 @@ Entro il 31 dicembre di ogni anno, dovranno, a cura dei pubblici e privati dator
 
 I privati datori di lavoro che trasgrediscono alle disposizioni del presente articolo sono puniti con una ammenda da lire 5000 a lire 50.000)).
 
-### Art. 5
+## Art. 5
 
 Il Ministero del lavoro e della previdenza sociale, sulla scorta dei dati forniti dalle Amministrazioni ed Enti pubblici e privati datori di lavoro di cui al precedente art. 4, provvede, per il tramite degli Uffici regionali e provinciali del lavoro e della massima occupazione, competenti per territorio, ad avviare al lavoro i minorati della vista iscritti nell'albo professionale dei centralinisti telefonici.
 
 Ai minorati della vista assunti al lavoro in forza della presente legge dai privati datori di lavoro deve essere applicato il normale trattamento di lavoro e di previdenza in atto nelle aziende.
 
-### Art. 6
+## Art. 6
 
 Le pubbliche Amministrazioni, gli Enti pubblici ed i privati datori di lavoro di cui al precedente art. 1, possono conteggiare i minorati della vista invalidi di guerra, del lavoro e per servizio, occupati come centralinisti telefonici, nel numero dei minorati di guerra, del lavoro e per servizio che siano tenuti ad assumere ai sensi della legge 3 giugno 1950, n. 375, del decreto legislativo del Capo provvisorio dello Stato 3 ottobre 1947, n. 1222, e della legge 24 febbraio 1953, n. 142.
 
-### Art. 7
+## Art. 7
 
 I privati datori di lavoro i quali, essendovi obbligati ai sensi dei precedenti articoli, rifiutino di assumere i centralinisti minorati della vista sono puniti con una ammenda da lire 1500 a lire 3000 per ogni giorno lavorativo e per ogni unita' minorata non assunta.
 
-### Art. 8
+## Art. 8
 
 La vigilanza per l'applicazione della presente legge e' affidata al Ministero del lavoro e della previdenza sociale che la esercita per mezzo dell'Ispettorato del lavoro.
 
@@ -122,7 +122,7 @@ Le ammende stabilite dalla presente legge saranno versate dagli Uffici del regis
 
 ## Disposizioni transitorie
 
-### Art. 9
+## Art. 9
 
 ((ARTICOLO ABROGATO DALLA L. 28 LUGLIO 1960, N. 778))
 

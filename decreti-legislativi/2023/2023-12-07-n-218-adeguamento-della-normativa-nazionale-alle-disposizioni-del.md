@@ -135,7 +135,7 @@ il seguente decreto legislativo:
 
 ## Titolo I - Disposizioni Generali
 
-##### Art. 1
+#### Art. 1
 
 Finalita'
 
@@ -375,7 +375,7 @@ Finalita'
 
 > \- Per i riferimenti al regolamento (UE) 2019/6 si veda nelle note alle premesse.
 
-##### Art. 2
+#### Art. 2
 
 Definizioni
 
@@ -403,7 +403,7 @@ b) «sistema informativo di tracciabilita'»: sistema informativo di tracciabili
 
 > «Art. 5-bis (Bollini farmaceutici). - 1. Il Ministro della salute stabilisce, con proprio decreto, i requisiti tecnici e le modalita' per l'adozione, entro il 31 marzo 2001, della numerazione progressiva, per singola confezione, dei bollini autoadesivi a lettura automatica dei medicinali prescrivibili nell'ambito del Servizio sanitario nazionale di cui al D.M. 29 febbraio 1988 del Ministro della sanita' pubblicato nella Gazzetta Ufficiale n. 79 del 5 aprile 1988, e successive modificazioni. A decorrere dal sesto mese successivo alla data di pubblicazione del decreto di cui al precedente periodo, le confezioni dei medicinali erogabili dal Servizio sanitario nazionale devono essere dotate di bollini conformi alle prescrizioni del predetto decreto. E' istituita, presso il Ministero della salute, una banca dati centrale che, partendo dai dati di produzione e fornitura dei bollini numerati di cui al primo periodo del presente comma, raccolga e registri i movimenti delle singole confezioni dei prodotti medicinali attraverso il rilevamento del codice prodotto e del numero identificativo delle confezioni apposti sulle stesse. Entro il 30 giugno 2002 il Ministro della salute con proprio decreto fissa le modalita' ed i tempi di impianto e funzionamento della banca dati e le modalita' di accesso alla stessa. I produttori sono tenuti ad archiviare e trasmettere a tale banca dati il codice prodotto ed il numero identificativo di ciascun pezzo uscito e la relativa destinazione; i depositari, i grossisti, le farmacie aperte al pubblico ed i centri sanitari autorizzati all'impiego di farmaci sono tenuti ad archiviare e trasmettere il codice prodotto ed il numero identificativo sia di ciascuno dei pezzi entrati sia di ciascuno dei pezzi comunque usciti o impiegati e, rispettivamente, la provenienza o la destinazione nei casi in cui sia diversa dal singolo consumatore finale; le aziende sanitarie locali sono tenute ad archiviare e trasmettere il numero di codice prodotto ed il numero identificativo di ciascuno dei pezzi prescritti per proprio conto; gli smaltitori autorizzati sono tenuti ad archiviare e trasmettere il codice prodotto ed il numero identificativo di ciascuna confezione farmaceutica avviata allo smaltimento quale rifiuto farmaceutico. A decorrere dal 1° gennaio 2003 tutte le confezioni di medicinali immesse in commercio dovranno essere dotate di bollini conformi a quanto disposto dal presente comma. La mancata o non corretta archiviazione dei dati ovvero la mancata o non corretta trasmissione degli stessi secondo le disposizioni del presente comma e del decreto ministeriale previsto dal quarto periodo del presente comma comporta l'applicazione della sanzione amministrativa pecuniaria da 1.500 euro a 9.000 euro».
 
-##### Art. 3
+#### Art. 3
 
 Autorita' competenti e altro personale afferente alle autorita' competenti
 
@@ -435,11 +435,9 @@ Il personale del Comando dei carabinieri per la tutela della salute, nel caso ri
 
 ## Titolo II - Immissione in commercio
 
-### Capo I
+### Capo I - Sperimentazioni cliniche
 
-#### Sperimentazioni cliniche
-
-##### Art. 4
+#### Art. 4
 
 Sperimentazioni cliniche
 
@@ -451,9 +449,9 @@ Sperimentazioni cliniche
 
 > \- Per i riferimenti al regolamento (UE) 2019/6 si veda nelle note alle premesse.
 
-## Capo II - Autorizzazione all'immissione in commercio
+### Capo II - Autorizzazione all'immissione in commercio
 
-##### Art. 5
+#### Art. 5
 
 Autorizzazioni all'immissione in commercio
 
@@ -471,7 +469,7 @@ Autorizzazioni all'immissione in commercio
 
 > \- Per i riferimenti al regolamento (UE) 2019/6 si veda nelle note alle premesse.
 
-##### Art. 6
+#### Art. 6
 
 Classificazione dei medicinali veterinari
 
@@ -485,7 +483,7 @@ Classificazione dei medicinali veterinari
 
 > \- Per i riferimenti al regolamento (UE) 2019/6 si veda nelle note alle premesse.
 
-##### Art. 7
+#### Art. 7
 
 Riassunto delle caratteristiche del prodotto, etichettatura e foglietto illustrativo
 
@@ -501,7 +499,7 @@ Riassunto delle caratteristiche del prodotto, etichettatura e foglietto illustra
 
 > \- Per i riferimenti al regolamento (UE) 2019/6 si veda nelle note alle premesse.
 
-##### Art. 8
+#### Art. 8
 
 Autorizzazione all'immissione in commercio di medicinali veterinari per animali tenuti esclusivamente come animali da compagnia
 
@@ -523,9 +521,9 @@ c) una sintesi del fascicolo di riferimento del sistema di farmacovigilanza.
 
 > \- Per i riferimenti al regolamento (UE) 2019/6 si veda nelle note alle premesse.
 
-## Capo III - Disposizioni relative ai medicinali omeopatici
+### Capo III - Disposizioni relative ai medicinali omeopatici
 
-##### Art. 9
+#### Art. 9
 
 Registrazione dei medicinali veterinari omeopatici
 
@@ -543,7 +541,7 @@ Registrazione dei medicinali veterinari omeopatici
 
 > \- Per i riferimenti al regolamento (UE) 2019/6 si veda nelle note alle premesse.
 
-##### Art. 10
+#### Art. 10
 
 Impiego dei medicinali omeopatici ad uso umano
 
@@ -555,9 +553,9 @@ Impiego dei medicinali omeopatici ad uso umano
 
 > \- Per i riferimenti al regolamento (UE) 2019/6 si veda nelle note alle premesse.
 
-## Capo IV - Farmacovigilanza
+### Capo IV - Farmacovigilanza
 
-##### Art. 11
+#### Art. 11
 
 Sistema nazionale di farmacovigilanza
 
@@ -569,7 +567,7 @@ Sistema nazionale di farmacovigilanza
 
 > \- Per i riferimenti al regolamento (UE) 2019/4 del Parlamento europeo e del Consiglio dell'11 dicembre 2018 si veda nelle note alle premesse.
 
-##### Art. 12
+#### Art. 12
 
 Compiti e funzioni delle autorita' competenti nel Sistema nazionale di farmacovigilanza
 
@@ -599,7 +597,7 @@ e) la diffusione delle informazioni al personale sanitario nel settore della far
 
 > \- Per i riferimenti al regolamento (UE) 2019/6 si veda nelle note alle premesse.
 
-##### Art. 13
+#### Art. 13
 
 Farmacovigilanza. Segnalazione di sospetti eventi avversi
 
@@ -607,9 +605,9 @@ Farmacovigilanza. Segnalazione di sospetti eventi avversi
 
 2\. Chiunque ha motivo di ritenere che dall'utilizzo di un medicinale veterinario, di un mangime medicato o di un prodotto intermedio sono derivati sospetti eventi avversi, lo puo' comunicare attraverso il sistema nazionale di farmacovigilanza.
 
-## Capo V - Fabbricazione
+### Capo V - Fabbricazione
 
-##### Art. 14
+#### Art. 14
 
 Autorizzazione alla fabbricazione di medicinali veterinari e certificati di buona pratica di fabbricazione
 
@@ -631,7 +629,7 @@ Autorizzazione alla fabbricazione di medicinali veterinari e certificati di buon
 
 > a) con riferimento ai corsi di cui al presente comma, accorpati per aree omogenee, la durata, anche eventualmente comprensiva del percorso formativo gia' svolto, l'eventuale serialita' dei predetti corsi e dei relativi titoli, gli obiettivi formativi qualificanti, tenendo conto degli sbocchi occupazionali e della spendibilita' a livello internazionale, nonche' la previsione di nuove tipologie di corsi e di titoli universitari, in aggiunta o in sostituzione a quelli determinati dagli articoli 1, 2, 3, comma 1 e 4, comma 1, della legge 19 novembre 1990, n. 341, anche modificando gli ordinamenti e la durata di quelli di cui al decreto legislativo 8 maggio 1998, n. 178, in corrispondenza di attivita' didattiche di base, specialistiche, di perfezionamento scientifico, di alta formazione permanente e ricorrente;»
 
-##### Art. 15
+#### Art. 15
 
 Registrazione delle attivita' di importazione e di fabbricazione delle sostanze attive ad uso veterinario
 
@@ -651,9 +649,9 @@ b) le richieste di registrazione dell'attivita' di importazione delle sostanze d
 
 > \- Per i riferimenti al regolamento (UE) 2019/6 si veda nelle note alle premesse.
 
-## Capo VI - Sistemi informativi
+### Capo VI - Sistemi informativi
 
-##### Art. 16
+#### Art. 16
 
 Sistemi informativi e tracciabilita' dei medicinali veterinari
 
@@ -681,7 +679,7 @@ Sistemi informativi e tracciabilita' dei medicinali veterinari
 
 ## Titolo III - Detenzione, fornitura e impiego dei medicinali veterinari
 
-##### Art. 17
+#### Art. 17
 
 Autorizzazione alla distribuzione all'ingrosso di medicinali veterinari
 
@@ -729,19 +727,19 @@ b) la dichiarazione ai sensi del decreto del Presidente della Repubblica 28 dice
 
 > \- Per i riferimenti del regolamento di esecuzione (UE) 2021/1248 del 29 luglio 2021 si veda nelle note alle premesse.
 
-##### Art. 18
+#### Art. 18
 
 Distribuzione all'ingrosso da parte dei titolari delle autorizzazioni all'immissione in commercio
 
 1\. I titolari dell'autorizzazione all'immissione in commercio dei medicinali veterinari, per la distribuzione all'ingrosso dei medicinali veterinari di cui sono titolari, possono avvalersi dei depositi di cui all'articolo 19 del presente decreto, o di altri distributori all'ingrosso autorizzati.
 
-##### Art. 19
+#### Art. 19
 
 Depositari di medicinali veterinari
 
 1\. Le disposizioni del presente titolo si applicano anche alle attivita' di coloro che detengono e distribuiscono all'ingrosso medicinali veterinari sulla base di contratti di deposito stipulati con i titolari dell'autorizzazione all'immissione in commercio dei medicinali veterinari.
 
-##### Art. 20
+#### Art. 20
 
 Disposizioni specifiche per la fornitura di ossigeno e di altri gas medicinali
 
@@ -751,7 +749,7 @@ Disposizioni specifiche per la fornitura di ossigeno e di altri gas medicinali
 
 > \- Per il decreto legislativo 24 aprile 2006, n. 219 si veda nelle note alle premesse.
 
-##### Art. 21
+#### Art. 21
 
 Distribuzione di sostanze attive
 
@@ -769,7 +767,7 @@ Distribuzione di sostanze attive
 
 > \- Per i riferimenti del regolamento (UE) 2019/6, si veda nelle note alle premesse.
 
-##### Art. 22
+#### Art. 22
 
 Commercio parallelo di medicinali veterinari
 
@@ -803,7 +801,7 @@ i) la dichiarazione di accettazione, da parte della persona qualificata del fabb
 
 > \- Per i riferimenti del regolamento (UE) 2019/6, si veda nelle note alle premesse.
 
-##### Art. 23
+#### Art. 23
 
 Vendita al dettaglio e vendita diretta
 
@@ -881,7 +879,7 @@ b) i giorni e gli orari di vendita.
 
 > \- Per i riferimenti del regolamento (UE) 2019/6 si veda nelle note alle premesse.
 
-##### Art. 24
+#### Art. 24
 
 Prescrizioni a carico del titolare dell'autorizzazione alla vendita al dettaglio o diretta
 
@@ -899,7 +897,7 @@ c) comunicare preventivamente all'autorita' competente che ha rilasciato l'autor
 
 > \- Per i riferimenti del regolamento (UE) 2019/6 si veda nelle note alle premesse.
 
-##### Art. 25
+#### Art. 25
 
 Casi particolari di dispensazione dei medicinali veterinari
 
@@ -911,7 +909,7 @@ Casi particolari di dispensazione dei medicinali veterinari
 
 4\. Il Ministero della salute provvede alla pubblicazione e al relativo aggiornamento sul proprio sito istituzionale dell'elenco dei medicinali veterinari di riferimento e dei medicinali generici che sono autorizzati all'immissione in commercio in Italia.
 
-##### Art. 26
+#### Art. 26
 
 Vendita in altri esercizi commerciali
 
@@ -925,7 +923,7 @@ Vendita in altri esercizi commerciali
 
 > \- Per i riferimenti del regolamento (UE) 2019/6 si veda nelle note alle premesse.
 
-##### Art. 27
+#### Art. 27
 
 Vendita al dettaglio di medicinali veterinari a distanza
 
@@ -997,7 +995,7 @@ Alla conferenza di servizi partecipano, come amministrazioni coinvolte, il Minis
 
 > «Art. 14 (Conferenze di servizi). - 1. La conferenza di servizi istruttoria puo' essere indetta dall'amministrazione procedente, anche su richiesta di altra amministrazione coinvolta nel procedimento o del privato interessato, quando lo ritenga opportuno per effettuare un esame contestuale degli interessi pubblici coinvolti in un procedimento amministrativo, ovvero in piu' procedimenti amministrativi connessi, riguardanti medesime attivita' o risultati. Tale conferenza si svolge con le modalita' previste dall'articolo 14-bis o con modalita' diverse, definite dall'amministrazione procedente.»
 
-##### Art. 28
+#### Art. 28
 
 Prescrizione veterinaria
 
@@ -1017,7 +1015,7 @@ b) trenta giorni per la prescrizione veterinaria non ripetibile, per la prescriz
 
 > \- Per il decreto del Presidente della Repubblica 9 ottobre 1990, n. 309 si veda nelle note alle premesse.
 
-##### Art. 29
+#### Art. 29
 
 Impiego di medicinali antimicrobici
 
@@ -1047,7 +1045,7 @@ e) i mangimi medicati contenenti medicinali veterinari antimicrobici non sono ut
 
 > \- Per i riferimenti del regolamento (UE) 2019/6 si veda nelle note alle premesse.
 
-##### Art. 30
+#### Art. 30
 
 Impiego di medicinali veterinari non autorizzati in Italia
 
@@ -1065,7 +1063,7 @@ Impiego di medicinali veterinari non autorizzati in Italia
 
 ## Titolo IV - Scorte dei medicinali veterinari
 
-##### Art. 31
+#### Art. 31
 
 Scorte di medicinali
 
@@ -1081,7 +1079,7 @@ Scorte di medicinali
 
 > \- Per i riferimenti del regolamento (UE) 2019/6 si veda nelle note alle premesse.
 
-##### Art. 32
+#### Art. 32
 
 Modalita' di tenuta e gestione delle scorte presso gli stabilimenti in cui si allevano e si detengono animali
 
@@ -1123,7 +1121,7 @@ b) la situazione geografica.
 
 > \- Per il decreto del Presidente della Repubblica 9 ottobre 1990, n. 309 si veda nelle note alle premesse.
 
-##### Art. 33
+#### Art. 33
 
 Modalita' di tenuta e gestione delle scorte presso le strutture sanitarie di cura degli animali
 
@@ -1187,7 +1185,7 @@ Modalita' di tenuta e gestione delle scorte presso le strutture sanitarie di cur
 
 > \- Per il decreto del Presidente della Repubblica 9 ottobre 1990, n. 309 si veda nelle note alle premesse.
 
-##### Art. 34
+#### Art. 34
 
 Modalita' di tenuta e gestione delle scorte da parte del medico veterinario nell'esercizio dell'attivita' zooiatrica
 
@@ -1209,7 +1207,7 @@ Modalita' di tenuta e gestione delle scorte da parte del medico veterinario nell
 
 > \- Per i riferimenti del regolamento (UE) 2019/6 si veda nelle note alle premesse.
 
-##### Art. 35
+#### Art. 35
 
 Utilizzo dei medicinali negli stabilimenti autorizzati ai sensi dell'articolo 20, comma 2, del decreto legislativo 4 marzo 2014 n. 26
 
@@ -1291,7 +1289,7 @@ Utilizzo dei medicinali negli stabilimenti autorizzati ai sensi dell'articolo 20
 
 > 2\. Con decreto del Ministro, sono individuati i requisiti strutturali e gestionali per lo svolgimento delle attivita' di cui al comma 1.»
 
-##### Art. 36
+#### Art. 36
 
 Modalita' di conservazione e di utilizzo delle rimanenze di medicinali
 
@@ -1311,7 +1309,7 @@ Modalita' di conservazione e di utilizzo delle rimanenze di medicinali
 
 > \- Per i riferimenti del regolamento (UE) 2019/6 si veda nelle note alle premesse.
 
-##### Art. 37
+#### Art. 37
 
 Cessione dei medicinali veterinari
 
@@ -1321,7 +1319,7 @@ Cessione dei medicinali veterinari
 
 ## Titolo V - Pubblicita'
 
-##### Art. 38
+#### Art. 38
 
 Pubblicita' dei medicinali veterinari
 
@@ -1351,7 +1349,7 @@ b) ordina la diffusione, a spese del trasgressore, di una comunicazione di retti
 
 > \- Per i riferimenti del regolamento (UE) 2019/6 si veda nelle note alle premesse.
 
-##### Art. 39
+#### Art. 39
 
 Pubblicita' di medicinali veterinari immunologici
 
@@ -1379,7 +1377,7 @@ Pubblicita' di medicinali veterinari immunologici
 
 > f) allevamento familiare: attivita' di allevamento prevista per determinate specie e per un numero massimo di animali, come indicato nel manuale operativo, nel quale gli animali sono allevati esclusivamente per autoconsumo o uso domestico privato, senza alcuna attivita' commerciale, fatte salve le eccezioni previste dal regolamento (CE) n. 852/2004, senza cessione degli animali se non per la immediata macellazione e se non prima autorizzati dall'Autorita' competente secondo le modalita' previste dal manuale operativo. Gli operatori degli allevamenti familiari di equini detengono esclusivamente animali non destinati alla produzione di alimenti;»
 
-##### Art. 40
+#### Art. 40
 
 Campioni gratuiti
 
@@ -1413,7 +1411,7 @@ e) l'etichettatura reca la dicitura: «Campione gratuito - vietata la vendita».
 
 ## Titolo VI - Controlli e sanzioni
 
-##### Art. 41
+#### Art. 41
 
 Controlli e ispezioni
 
@@ -1435,7 +1433,7 @@ Controlli e ispezioni
 
 > \- Per il decreto legislativo 2 febbraio 2021, n. 27 si veda nelle note alle premesse.
 
-##### Art. 42
+#### Art. 42
 
 Sanzioni
 
@@ -1527,7 +1525,7 @@ Sanzioni
 
 ## Titolo VII - Disposizioni finali
 
-##### Art. 43
+#### Art. 43
 
 Disposizioni tariffarie
 
@@ -1579,7 +1577,7 @@ Disposizioni tariffarie
 
 > \- Per il decreto legislativo 2 febbraio 2021, n. 27 si veda nelle note alle premesse.
 
-##### Art. 44
+#### Art. 44
 
 Abrogazioni
 
@@ -1589,7 +1587,7 @@ Abrogazioni
 
 > \- Per il decreto legislativo 6 aprile 2006, n. 193 si veda nelle note alle premesse.
 
-##### Art. 45
+#### Art. 45
 
 Disposizioni transitorie e finali
 
@@ -1615,7 +1613,7 @@ Disposizioni transitorie e finali
 
 > 2\.
 
-##### Art. 46
+#### Art. 46
 
 Clausola di invarianza finanziaria
 
@@ -1655,7 +1653,7 @@ Visto, il Guardasigilli: Nordio
 
 ## Allegati
 
-##### Allegato I
+#### Allegato I
 
 Allegato I
 
@@ -1687,7 +1685,7 @@ l) beta-agonisti.
 
 2\. L'approvvigionamento e la detenzione dei medicinali di cui alle lettere c) e i) del punto 1 del presente allegato, sono consentiti esclusivamente al medico veterinario.
 
-##### Allegato II
+#### Allegato II
 
 Allegato II
 
@@ -1751,7 +1749,7 @@ identificatore univoco articolo: GT1N (Global Trade Item Number);
 
 dati variabili: data scadenza, numero lotto (codificati con il sistema di riferimento GS1-128).
 
-##### Allegato III
+#### Allegato III
 
 Allegato III
 
@@ -1904,7 +1902,7 @@ In generale sono richieste le seguenti informazioni:
 +-------------------------------+-----------------------------------+
 ```
 
-##### Allegato IV
+#### Allegato IV
 
 Allegato IV
 
@@ -1970,7 +1968,7 @@ D) Adempimenti dei farmacisti operanti presso attivita' di vendita al dettaglio 
 
 1\) I farmacisti operanti presso attivita' di vendita al dettaglio e di vendita diretta di cui all'articolo 23 del presente decreto e i responsabili della fornitura di mangimi medicati e prodotti intermedi, al fine di consentire la registrazione dei medicinali e dei mangimi medicati somministrati agli animali da produzione di alimenti, devono registrare nel sistema di tracciabilita', contestualmente alla dispensazione, le forniture effettuate dietro presentazione di prescrizione medico-veterinaria.
 
-##### Allegato V
+#### Allegato V
 
 Allegato V
 

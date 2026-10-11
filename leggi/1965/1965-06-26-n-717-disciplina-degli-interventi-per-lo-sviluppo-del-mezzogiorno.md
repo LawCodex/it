@@ -28,7 +28,7 @@ la seguente legge:
 
 ## CAPO I - Coordinamento degli interventi
 
-##### Art. 1
+#### Art. 1
 
 Piani pluriennali per il coordinamento degli interventi
 
@@ -50,13 +50,13 @@ I piani pluriennali impegnano, secondo le rispettive competenze, le Amministrazi
 
 Il Comitato dei Ministri istituito dalla legge 10 agosto 1950, n. 616, e' soppresso; le sue attribuzioni sono trasferite al Comitato di cui al terzo comma, salvo quanto disposto dalla presente legge in ordine ai poteri di direttiva e di vigilanza nei confronti della Cassa.
 
-##### Art. 2
+#### Art. 2
 
 Proroga della Cassa per il Mezzogiorno
 
 Per la realizzazione ed il finanziamento degli interventi straordinari nei territori di cui all'articolo 3 della legge 10 agosto 1950, n. 646 e successive modificazioni e integrazioni, l'attivita' della Cassa per il Mezzogiorno e' prorogata fino al 31 dicembre 1980.
 
-##### Art. 3
+#### Art. 3
 
 Competenze del Ministro per gli interventi straordinari nel Mezzogiorno
 
@@ -74,7 +74,7 @@ Il Ministro per gli interventi straordinari nel Mezzogiorno propone, di concerto
 
 Il Ministro per gli interventi straordinari nel Mezzogiorno fa parte del Comitato interministeriale per la ricostruzione, del Comitato interministeriale per il credito ed il risparmio, del Comitato interministeriale dei prezzi, del Comitato dei Ministri per le partecipazioni statali e del Comitato dei Ministri per l'Ente nazionale dell'energia elettrica.
 
-##### Art. 4
+#### Art. 4
 
 Segreteria
 
@@ -92,7 +92,7 @@ La L. 22 luglio 1966, n. 614 ha disposto (con l'art. 18, comma 2) che il limite 
 
 ## CAPO II - Organizzazione degli interventi
 
-##### Art. 5
+#### Art. 5
 
 Riserva di investimenti pubblici
 
@@ -104,7 +104,7 @@ I vincoli di cui all'articolo 2 della legge 29 luglio 1957, n. 631, sono estesi 
 
 Il Comitato dei Ministri, di cui al terzo comma dell'articolo 1, nella formulazione dei piani pluriennali assicura che siano salvaguardate le riserve di cui il presente articolo.
 
-##### Art. 6
+#### Art. 6
 
 Interventi nei comprensori irrigui, nelle aree e nuclei di sviluppo industriale e nei comprensori di sviluppo turistico.
 
@@ -128,7 +128,7 @@ La Cassa e' autorizzata a concedere, nei limiti e con le modalita' previsti dal 
 
 Nel caso in cui i consorzi di bonifica, gli enti di sviluppo e i consorzi per le aree e i nuclei di sviluppo industriale non siano in grado di adempiere a specifici compiti per il conseguimento degli obiettivi fissati dal piano di coordinamento, il Ministro per gli interventi straordinari nel Mezzogiorno, d'intesa con i Ministri competenti e, ove la competenza e' delegata alle Regioni, sentite le amministrazioni regionali, autorizza la Cassa a provvedervi in via sostitutiva.
 
-##### Art. 7
+#### Art. 7
 
 Interventi della Cassa nei territori esterni ai comprensori irrigui, alle aree e nuclei di sviluppo industriale e ai comprensori di sviluppo turistico
 
@@ -148,7 +148,7 @@ d) nonche' a concedere le agevolazioni previste dai successivi articoli 10 e 11 
 
 La Cassa e' autorizzata a realizzare, in tutto il territorio meridionale, nell'ambito delle direttive del piano, le opere necessarie all'approvvigionamento idrico per qualsiasi uso - ivi compresi gli impianti di desalinizzazione delle acque - e le connesse reti fognarie.
 
-##### Art. 8
+#### Art. 8
 
 Concessione per l'esecuzione delle opere e manutenzione e gestione
 
@@ -160,11 +160,9 @@ Nel caso che, per comprovati motivi di ordine tecnico-amministrativo o finanziar
 
 ## CAPO III - Agevolazioni allo sviluppo delle attivita' economiche
 
-### SEZIONE I.
+### SEZIONE I. - AGEVOLAZIONI ALLE INIZIATIVE AGRICOLE
 
-#### AGEVOLAZIONI ALLE INIZIATIVE AGRICOLE
-
-##### Art. 9
+#### Art. 9
 
 Partecipazione finanziaria per la realizzazione di aziende economicamente efficienti
 
@@ -172,7 +170,7 @@ La Cassa e' autorizzata a costituire, con i criteri e le modalita' fissati dal C
 
 In deroga alle vigenti disposizioni di legge, la societa' finanziaria puo' partecipare, in qualita' di socio, alle cooperative e loro consorzi.
 
-##### Art. 10
+#### Art. 10
 
 Contributi e mutui a tasso agevolato per l'attuazione di piani di
 
@@ -206,7 +204,7 @@ c) dall'importo degli interessi maturati sulle somme affluite ad apposito conto 
 
 La gestione distinta e' amministrata dal Comitato di cui all'articolo 36 della legge 2 giugno 1961, n. 454, integrato da un rappresentante della Cassa. Per quanto non disposto dal presente articolo, l'amministrazione della gestione stessa e' regolata dalle norme della citata legge 2 giugno 1961, n. 454.
 
-##### Art. 11
+#### Art. 11
 
 Contributi e mutui a tasso agevolato per la costruzione di impianti per la conservazione, trasformazioni e commercializzazione, dei prodotti agricoli e dei prodotti ittici.
 
@@ -220,9 +218,9 @@ Gli enti gestori di cui al precedente comma hanno la facolta' di acquisire la pr
 
 Nell'ambito delle direttive del piano di coordinamento, il Ministro per gli interventi straordinari nel Mezzogiorno puo' autorizzare la Cassa a concorrere finanziariamente - mediante anticipazioni di capitali agli enti cooperativistici e societa' previsti dal primo comma e alle imprese industriali - alla realizzazione di iniziative organicamente coordinate e dirette ad agevolare, attraverso la trasformazione, la conservazione e la commercializzazione dei prodotti agricoli e dei prodotti ittici, il collocamento dei prodotti stessi sui mercati di consumo nazionali ed esteri.
 
-## SEZIONE II - AGEVOLAZIONI PER LE INIZIATIVE INDUSTRIALI, L'ARTIGIANATO E LA PESCA
+### SEZIONE II - AGEVOLAZIONI PER LE INIZIATIVE INDUSTRIALI, L'ARTIGIANATO E LA PESCA
 
-##### Art. 12
+#### Art. 12
 
 Finanziamenti a tasso agevolato e contributi alle iniziative industriali
 
@@ -266,7 +264,7 @@ Le annualita' successive al 1969 e fino al 1980, per un importo non superiore a 
 
 Tale somma verra' iscritta nello stato di previsione della spesa del Ministero del tesoro per un importo non superiore a 22.000 milioni nell'esercizio 1970, a 24.500 milioni per ciascuno degli esercizi dal 1971 al 1978, a 22.500 milioni nell'esercizio 1979 e a 19.500 milioni nell'esercizio 1980)).
 
-##### Art. 13
+#### Art. 13
 
 Proroga e modifiche delle agevolazioni fiscali
 
@@ -288,7 +286,7 @@ Le modalita' per l'applicazione delle agevolazioni previste dal presente articol
 
 Ministro per gli interventi straordinari nel Mezzogiorno.
 
-##### Art. 14
+#### Art. 14
 
 Esenzione dall'imposta sulle societa'
 
@@ -296,7 +294,7 @@ Le societa' che si costituiscono con sede nei territori indicati all'articolo 3 
 
 Per le societa' gia' costituite o aventi sede nei predetti territori e aventi le finalita' indicate nel precedente comma, l'esenzione si applica per i soli anni del decennio dalla costituzione successivi al 31 dicembre dell'anno di entrata in vigore della presente legge.
 
-##### Art. 15
+#### Art. 15
 
 Riduzioni tariffarie dei trasporti ferroviari e marittimi
 
@@ -310,7 +308,7 @@ La misura e le modalita' di concessione delle tariffe di favore sono stabilita, 
 
 Il mancato introito derivante all'Azienda autonoma delle ferrovie dello Stato o alla marina convenzionala o non, dall'applicazione delle tariffe di favore, viene rimborsato dalla Cassa per il Mezzogiorno sulla base di apposite convenzioni.
 
-##### Art. 16
+#### Art. 16
 
 Riserva del 30 per cento delle forniture e lavorazioni delle Amministrazioni pubbliche
 
@@ -336,7 +334,7 @@ AGGIORNAMENTO (4)
 
 La L. 28 marzo 1968, n. 374 ha disposto (con l'art. 7, comma 2) che "A modifica di quanto disposto dall'art. 16 della legge 26 giugno 1965, n. 717, una quota delle forniture e delle lavorazioni occorrenti per le costruzioni e le opere di cui all'art. 1, per un importo di almeno 40 miliardi, e' riservata, sulla base dei prezzi risultanti dalle gare e trattative a carattere nazionale, agli stabilimenti industriali dell'Italia meridionale e insulare che sono obbligati ad acquistare dalle industrie delle stesse regioni i macchinari, gli accessori, i semilavorati ed i finimenti loro occorrenti per l'espletamento delle commesse acquisite."
 
-##### Art. 17
+#### Art. 17
 
 Contributi per l'artigianato e la pesca
 
@@ -352,9 +350,9 @@ AGGIORNAMENTO (3)
 
 La L. 31 ottobre 1967, n. 1083 ha disposto (con l'art. 1, comma 1) che "I contributi previsti dall'articolo 17 - secondo comma - della legge 26 giugno 1965, n. 717, si intendono concedibili alle cooperative di pescatori e ai loro consorzi, ed alle imprese di pesca, individuali e collettive."
 
-## SEZIONE III - AGEVOLAZIONI NEI COMPRENSORI DI SVILUPPO TURISTICO
+### SEZIONE III - AGEVOLAZIONI NEI COMPRENSORI DI SVILUPPO TURISTICO
 
-##### Art. 18
+#### Art. 18
 
 Mutui a tasso agevolato e contributi
 
@@ -376,7 +374,7 @@ Le agevolazioni di cui al presente articolo sono concesse dalla Cassa, sentiti g
 
 ## CAPO IV - Interventi per il progresso tecnico e lo sviluppo civile
 
-##### Art. 19
+#### Art. 19
 
 Assistenza tecnica alle imprese e all'organizzazione amministrativa locale
 
@@ -388,7 +386,7 @@ A tali servizi provvede l'Istituto di assistenza allo sviluppo del Mezzogiorno, 
 
 All'assistenza tecnica alle imprese agricole, la Cassa provvede avvalendosi degli organi statali e degli enti aventi competenza in materia.
 
-##### Art. 20
+#### Art. 20
 
 Aggiornamento dei quadri direttivi e addestramento della mano d'opera Attivita' sociali ed educative
 
@@ -404,7 +402,7 @@ Per le stesse finalita', la Cassa puo' essere autorizzati dal Ministro per gli i
 
 La Cassa predispone altresi', nell'ambito del territorio di sua competenza, servizi di formazione ed addestramento della manodopera specializzata in relazione alle esigenze delle imprese nei vari settori produttivi, anche sotto forma di addestramento professionale nelle botteghe artigiane, valendosi anche degli enti di addestramento riconosciuti a carattere nazionale. I programmi esecutivi dei corsi di formazione ed addestramento professionale sono approvati di concerto con i Ministri della pubblica istruzione e del lavoro e della previdenza sociale. Gli anzidetti programmi sono finanziati, per quanto attiene alle spese di gestione, anche con il contributo del Ministero del lavoro e della previdenza sociale per il tramite del Fondo di addestramento professionale dei lavoratori, di cui all'articolo 62 della legge 29 aprile 1949, n. 264.
 
-##### Art. 21
+#### Art. 21
 
 Programmi di ricerca scientifica applicata
 
@@ -416,7 +414,7 @@ Le agevolazioni di cui all'articolo 12 della presente legge possono essere conce
 
 ## CAPO V - Disposizioni relative alla Cassa
 
-##### Art. 22
+#### Art. 22
 
 Norme sul bilancio della Cassa, sulla relazione al Parlamento e sul Consiglio di amministrazione
 
@@ -430,7 +428,7 @@ Il primo bilancio della Cassa dopo l'entrata in vigore della presente legge avra
 
 Il Consiglio di amministrazione della Cassa per il Mezzogiorno, da nominarsi con le modalita' indicate alla lettera c) del precedente articolo 3, dura in carica 5 anni. Il primo Consiglio, nominato entro 30 giorni dall'entrata in vigore della presente legge, scade il 31 dicembre 1969.
 
-##### Art. 23
+#### Art. 23
 
 Finanziamento degli interventi
 
@@ -450,7 +448,7 @@ Il servizio dei mutui sara' assunto dal Ministero del tesoro. Le rate di ammorta
 
 Il Ministro per il tesoro e' autorizzato a provvedere, con propri decreti, negli esercizi dal 1966 al 1970, alle variazioni di bilancio conseguenti ai mutui previsti dal presente articolo.
 
-##### Art. 24
+#### Art. 24
 
 Disposizioni di carattere finanziario
 
@@ -470,13 +468,13 @@ Il Ministro per il tesoro e' autorizzato ad apportare con propri decreti le occo
 
 ## CAPO VI - Disposizioni finali e transitorie
 
-##### Art. 25
+#### Art. 25
 
 Delega per l'emanazione di un testo unico
 
 Il Governo della Repubblica, sentita una Commissione parlamentare composta di 10 senatori e di 10 deputati in rappresentanza proporzionale dei vari gruppi parlamentari, e' autorizzato ad emanare, entro due anni dall'entrata in vigore della presente legge, un testo unico di tutte le disposizioni di legge finora emanate per la disciplina degli interventi nei territori indicati all'articolo 3 della legge 10 agosto 1950, numero 646, e successive modificazioni ed integrazioni, apportando le modifiche necessarie per il coordinamento delle norme vigenti e per la loro armonizzazione con le disposizioni in materia di ordinamento regionale, programmazione e urbanistica.
 
-##### Art. 26
+#### Art. 26
 
 Osservanza delle leggi sul lavoro e dei contratti collettivi
 
@@ -490,13 +488,13 @@ Le infrazioni al suddetto obbligo e alle leggi sul lavoro, accertate dall'Ispett
 
 Le norme di cui al presente articolo si applicano anche ai beneficiari delle agevolazioni finanziarie e creditizie di cui al precedenti articoli 9, 10 e 11.
 
-##### Art. 27
+#### Art. 27
 
 Completamento del pino quindicennale
 
 Il Ministro per gli interventi straordinari nel Mezzogiorno, nell'ambito delle direttive del piano di coordinamento, puo' autorizzare la Cassa a completare l'attuazione del piano quindicennale di cui all'articolo 1 della legge 10 agosto 1950, n. 616 e successive modificazioni e integrazioni, limitatamente alle opere ritenute necessarie al conseguimento degli obiettivi di sviluppo dei territori meridionali, anche mediante il potenziamento dei servizi civili.
 
-##### Art. 28
+#### Art. 28
 
 Coordinamento della legislazione in favore dei territori meridionali e decorrenza dei benefici
 
@@ -512,7 +510,7 @@ Le agevolazioni di cui al precedente articolo 12 sono concedibili anche agli imp
 
 La legge 14 agosto 1960, n. 836, e' applicabile agli idrocarburi estratti in tutti i territori meridionali per la parte utilizzata dagli impianti industriali ubicati nelle province in cui avviene la coltivazione.
 
-##### Art. 29
+#### Art. 29
 
 Disposizioni speciali per la Sicilia e la Sardegna
 
@@ -524,7 +522,7 @@ Per le Regioni a statuto speciale le proposte di cui all'articolo 1 sono present
 
 Le opere comprese nel piano straordinario per favorire la rinascita economica e sociale della Sardegna, di cui alla legge 11 giugno 1962, n. 588, e nei programmi esercitivi approvati dal Comitato dei Ministri ai sensi di tale legge, Cono dichiarate di pubblica utilita', indifferibili ed urgenti a tutti gli effetti di legge.
 
-##### Art. 30
+#### Art. 30
 
 Disposizioni speciali per il settore turistico
 
@@ -536,7 +534,7 @@ Quando trattasi di materia attinente al turismo, la Cassa, ai fini della realizz
 
 Restano ferme le competenze della Cassa gia' previste dall'articolo 10 della legge 29 luglio 1957, n. 634.
 
-##### Art. 31
+#### Art. 31
 
 Disposizioni per i consorzi per le aree e i nuclei di sviluppo industriale
 
@@ -552,13 +550,13 @@ L'ultimo comma dell'articolo 2 della legge 29 settembre 1962, n. 1462, come risu
 
 In ogni caso, nella determinazione dell'indennita', non si dovra' tener conto dei miglioramenti e delle spese effettuate dopo la costituzione del Consorzio ai sensi dell'articolo 8 della legge 18 luglio 1959, n. 555".
 
-##### Art. 32
+#### Art. 32
 
 Disposizioni per la progettazione direzione e collaudo delle opere
 
 Per la progettazione, la direzione e il collaudo delle opere previste dalla presente legge, la Cassa per il Mezzogiorno e gli enti pubblici concessionari potranno anche avvalersi dell'opera di professionisti non appartenenti alla pubblica Amministrazione, purche' iscritti in apposito albo istituito presso la Cassa per il Mezzogiorno.
 
-##### Art. 33
+#### Art. 33
 
 Personale della Cassa
 
@@ -566,7 +564,7 @@ Il personale della Cassa e' comandato dalle Amministrazioni dello Stato e da ent
 
 Le disposizioni relative all'ordinamento del personale sono adottate dal Consiglio di amministrazione della Cassa, previa consultazione con le organizzazioni sindacali di categoria, ed approvate con decreto del Ministro per gli interventi straordinari nel Mezzogiorno.
 
-##### Art. 34
+#### Art. 34
 
 Norme concernenti le Sezioni di credito industriale
 
@@ -574,7 +572,7 @@ Le disposizioni relative alle Sezioni di credito Industriale del Banco di Napoli
 
 Il limite di 50 milioni di cui alla lettera d) dell'articolo 25 della legge 29 luglio 1957, n. 634, e' elevato a 250 milioni. Tale limite si intende esteso anche alle operazioni che, ai sensi dell'articolo 12 della legge 25 luglio 1961, n. 649, fruiscono del contributo in conto interessi previsto dall'articolo 4 della legge 30 luglio 1959, n. 623 e successive modificazioni e integrazioni.
 
-##### Art. 35
+#### Art. 35
 
 Entrata in vigore della legge
 

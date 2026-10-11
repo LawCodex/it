@@ -48,133 +48,121 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 Abbiamo sanzionato e promulghiamo quanto segue:
 
-## Capo I.
+## Capo I. - Attribuzioni.
 
-### Attribuzioni.
-
-#### Art. 1
+### Art. 1
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 GENNAIO 1999, N. 19))
 
-#### Art. 2
+### Art. 2
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 GENNAIO 1999, N. 19))
 
-#### Art. 3
+### Art. 3
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 GENNAIO 1999, N. 19))
 
-#### Art. 4
+### Art. 4
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 GENNAIO 1999, N. 19))
 
-#### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 GENNAIO 1999, N. 19))
 
-## Capo II.
+## Capo II. - Organi.
 
-### Organi.
-
-#### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 GENNAIO 1999, N. 19))
 
-#### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 GENNAIO 1999, N. 19))
 
-#### Art. 8
+### Art. 8
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 GENNAIO 1999, N. 19))
 
-#### Art. 9
+### Art. 9
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 GENNAIO 1999, N. 19))
 
-#### Art. 10
+### Art. 10
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 GENNAIO 1999, N. 19))
 
-#### Art. 11
+### Art. 11
 
 Per lo studio di determinate questioni, il presidente ha facolta' di costituire commissioni di studio, la cui durata non puo' comunque essere superiore ai quattro anni.
 
 Di tali commissioni possono far parte anche persone estranee agli organi del Consiglio.
 
-#### Art. 12
+### Art. 12
 
 ((IL D.LGS. 30 GENNAIO 1999, N. 19 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### Art. 13
+### Art. 13
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 GENNAIO 1999, N. 19))
 
-#### Art. 14
+### Art. 14
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 GENNAIO 1999, N. 19))
 
-#### Art. 15
+### Art. 15
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 GENNAIO 1999, N. 19))
 
-## Capo III.
+## Capo III. - Personale.
 
-### Personale.
-
-#### Art. 16
+### Art. 16
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 GENNAIO 1999, N. 19))
 
-#### Art. 17
+### Art. 17
 
 ((IL D.LGS. 30 GENNAIO 1999, N. 19 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-## Capo IV.
+## Capo IV. - Amministrazione.
 
-### Amministrazione.
-
-#### Art. 18
+### Art. 18
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 GENNAIO 1999, N. 19))
 
-#### Art. 19
+### Art. 19
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 GENNAIO 1999, N. 19))
 
-#### Art. 20
+### Art. 20
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 GENNAIO 1999, N. 19))
 
-## Capo V.
+## Capo V. - Disposizioni generali.
 
-### Disposizioni generali.
-
-#### Art. 21
+### Art. 21
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 GENNAIO 1999, N. 19))
 
-#### Art. 22
+### Art. 22
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 GENNAIO 1999, N. 19))
 
-#### Art. 23
+### Art. 23
 
 ((ARTICOLO ABROGATO DAL D.P.R. 3 MAGGIO 2006, N. 252))
 
-## Capo VI.
+## Capo VI. - Norme transitorie.
 
-### Norme transitorie.
-
-#### Art. 24
+### Art. 24
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 GENNAIO 1999, N. 19))
 
-#### Art. 25
+### Art. 25
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 GENNAIO 1999, N. 19))
 
-#### Art. 26
+### Art. 26
 
 Alla data di entrata in vigore del presente decreto, all'Istituto nazionale di geofisica, sinora dipendente dal Consiglio nazionale delle ricerche, e' conferita personalita' giuridica, sotto la vigilanza del Ministero della pubblica istruzione.
 
@@ -184,7 +172,7 @@ Lo statuto dell'Istituto nazionale di geofisica sara' approvato con successivo d
 
 Con apposita, convenzione saranno regolati i rapporti fra il Consiglio nazionale delle ricerche e l'istituito predetto.
 
-#### Art. 27
+### Art. 27
 
 Alla data di entrata in vigore del presente decreto, gli istituti talassografici di Messina, Taranto e Trieste, passeranno alle dipendenze del Ministero dell'agricoltura e delle foreste e l'istituto per l'esame delle invenzioni passera' alle dipendenze del Ministero dell'industria, commercio e lavoro.((4))
 
@@ -200,7 +188,7 @@ AGGIORNAMENTO (4)
 
 La L. 31 luglio 1954, n. 625 ha disposto (con l'art. 1, comma 1) che "Gli Istituti talassografici di cui all'art. 27, primo comma, del decreto legislativo 1 marzo 1945, n. 82, enti di diritto pubblico sottoposti alla vigilanza ed alla tutela del Ministero dell'agricoltura e delle foreste, assumono la denominazione di Istituti sperimentali talassografici. Essi hanno il compito di effettuare studi e indagini sulla natura fisica, chimica e biologica dei mari, allo scopo di contribuire alla migliore conoscenza dei problemi che interessano il piu' efficiente e produttivo sviluppo dell'industria della pesca nel quadro delle necessita' economiche ed alimentari della Nazione".
 
-#### Art. 28
+### Art. 28
 
 I ruoli del personale statale, di cui all'art. 2 del R. decreto-legge 25 giugno 1937, n. 1114, ed all'art. 4 della legge 20 novembre 1939, n. 2092, sono soppressi, con effetto dalla data di entrata in vigore del presente decreto.
 
@@ -228,7 +216,7 @@ Il personale trasferito a norma dei precedenti commi, conserva l'anzianita' di g
 
 I relatori di cui ai commi 6, 7 e 8 sono collocati nel grado 6° dei ruoli ivi indicati, e prendono posto immediatamente dopo l'ultimo dei funzionari del predetto grado, restando eventualmente in soprannumero, salvo riassorbimento nelle nuove successive vacanze.
 
-#### Art. 29
+### Art. 29
 
 A decorrere dalla entrata in vigore del presente decreto, il personale non statale addetto all'Istituto nazionale di geofisica ed agli osservatori da esso dipendenti, resta alle dipendenze dell'istituto stesso che ne regolera' nel proprio statuto, la posizione giuridica ed economica.
 
@@ -238,7 +226,7 @@ Il personale non statale addetto agli istituti di cui al 3° comma dell'art. 27 
 
 ((COMMA ABROGATO DAL D.LGS. 7 MAGGIO 1948, N. 1167)).
 
-#### Art. 30
+### Art. 30
 
 In conseguenza ed in applicazione delle disposizioni contenute negli articoli 26, 27 e 28, il Ministro per il tesoro e' autorizzato a provvedere con propri decreti alle variazioni che seguono:
 
@@ -246,18 +234,16 @@ a) i fondi stanziati nello stato di previsione della spesa del Ministero del tes
 
 b) negli stati di previsione della spesa dei Ministeri della pubblica istruzione, dell'agricoltura e delle foreste e dell'industria, commercio e lavoro, saranno stanziati i fondi occorrenti per il funzionamento rispettivamente dell'Istituto nazionale di geofisica di cui all'art. 26, degli istituti talassografici e dell'istituto per l'esame delle invenzioni, di cui al primo comma dell'art. 27 e per il pagamento del personale non statale con essi trasferito a norma dell'art. 29, 2° comma.
 
-#### Art. 31
+### Art. 31
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 GENNAIO 1999, N. 19))
 
-## Capo VII.
+## Capo VII. - Disposizioni finali.
 
-### Disposizioni finali.
-
-#### Art. 32
+### Art. 32
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 GENNAIO 1999, N. 19))
 
-#### Art. 33
+### Art. 33
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 GENNAIO 1999, N. 19))

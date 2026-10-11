@@ -52,15 +52,11 @@ Registrato alla Corte dei conti, addi' 3 aprile 1952
 
 Atti del Governo, registro n. 51, foglio n. 18. - Frasca
 
-## LIBRO PRIMO - DELL'ORDINAMENTO AMMINISTRATIVO
+## LIBRO PRIMO - DELL'ORDINAMENTO AMMINISTRATIVO DELLA NAVIGAZIONE
 
-### DELLA NAVIGAZIONE
+### TITOLO I - DEGLI ORGANI AMMINISTRATIVI DELLA NAVIGAZIONE
 
-#### TITOLO I - DEGLI ORGANI AMMINISTRATIVI
-
-##### DELLA NAVIGAZIONE
-
-###### CAPO I - Dell'amministrazione locale della navigazione marittima
+#### CAPO I - Dell'amministrazione locale della navigazione marittima
 
 REGOLAMENTO PER L'ESECUZIONE
 
@@ -86,7 +82,7 @@ Le norme per il conferimento a persone estranee al corpo delle capitanerie di po
 
 Il conferimento di tali funzioni, che ha carattere transitorio e concerne esclusivamente un determinato porto o approdo, e' fatto con decreto del ministro per la marina mercantile.
 
-## CAPO II - Della navigazione promiscua
+#### CAPO II - Della navigazione promiscua
 
 ###### Art. 4 - Zone di navigazione promiscua
 
@@ -98,11 +94,9 @@ Fuori delle zone di cui ai commi precedenti la navigazione in acque interne di n
 
 marittima
 
-## TITOLO II - DEL DEMANIO MARITTIMO
+### TITOLO II - DEL DEMANIO MARITTIMO
 
-### CAPO I
-
-#### Delle concessioni
+#### CAPO I - Delle concessioni
 
 ###### Art. 5 - Presentazione della domanda di concessione
 
@@ -370,9 +364,7 @@ Alle stesse disposizioni la concessione e' soggetta per la rimanente parte insis
 
 Nel caso in cui lo stabilimento o il deposito sia destinato ad altri scopi, la concessione per la parte che insiste fuori dei confini del demanio marittimo o del mare territoriale e' soggetta soltanto alle disposizioni che saranno stabilite nell'atto di concessione o nella licenza a tutela del regime del demanio marittimo e del mare territoriale, oltre a quelle di polizia.
 
-## CAPO II - Delle concessioni per stabilimenti e depositi costieri di sostanze
-
-### infiammabili o esplosive
+#### CAPO II - Delle concessioni per stabilimenti e depositi costieri di sostanze infiammabili o esplosive
 
 ###### Art. 41 - Stabilimenti e depositi costieri
 
@@ -466,7 +458,7 @@ Per tali depositi si osservano le norme di cui all'articolo 11.
 
 Le concessioni per gli stabilimenti e i depositi costieri di cui ai precedenti articoli sono anche regolate dalle disposizioni del capo I del presente titolo.
 
-## CAPO III - Dell'estrazione e della raccolta di arena e di altri materiali
+#### CAPO III - Dell'estrazione e della raccolta di arena e di altri materiali
 
 ###### Art. 53 - Tabelle
 
@@ -506,7 +498,7 @@ Le disposizioni del presente capo si applicano anche alla raccolta di materiali 
 
 Le domande dirette ad ottenere la concessione della raccolta devono in ogni caso essere pubblicate nei modi previsti dall'articolo 18.
 
-## CAPO IV - Della delimitazione del demanio marittimo
+#### CAPO IV - Della delimitazione del demanio marittimo
 
 ###### Art. 58 - Delimitazione
 
@@ -522,9 +514,7 @@ La commissione procede alla data stabilita alla delimitazione anche se non inter
 
 Lo spese sono sostenute per meta' dallo Stato e per l'altra meta' dai privati interessati. I privati devono effettuare un deposito presso la cassa dell'ufficio del compartimento nella misura da questo stabilita. Il deposito e' liquidato secondo le norme dell'articolo 11.
 
-## TITOLO III - DELL'ATTIVITA' AMMINISTRATIVA, DELLA
-
-### POLIZIA E DEI SERVIZI NEI PORTI
+### TITOLO III - DELL'ATTIVITA' AMMINISTRATIVA, DELLA POLIZIA E DEI SERVIZI NEI PORTI
 
 #### CAPO I - Dell'attivita' amministrativa e della polizia nei porti
 
@@ -812,11 +802,9 @@ b) i sinistri occorsi fuori della circoscrizione del compartimento alle navi isc
 
 Presso gli uffici consolari e' tenuto analogo registro nel quale sono annotati i sinistri occorsi alle navi nazionali nella circoscrizione del consolato e alle navi iscritte presso il consolato stesso.
 
-## CAPO II - Del pilotaggio
+#### CAPO II - Del pilotaggio
 
-### SEZIONE I
-
-#### Dell'istituzione delle corporazioni - e del reclutamento dei piloti
+##### SEZIONE I - Dell'istituzione delle corporazioni e del reclutamento dei piloti
 
 ###### Art. 98
 
@@ -1060,7 +1048,7 @@ Se non provvede a tale pagamento nel tempo stabilito e' cancellato dal registro 
 
 La sostituzione del motore e' a carico dei soli piloti effettivi.))
 
-## SEZIONE II - Dell'ordinamento della corporazione
+##### SEZIONE II - Dell'ordinamento della corporazione
 
 ###### Art. 113
 
@@ -1234,7 +1222,7 @@ Tale quota spetta anche alla madre di oltre cinquanta anni di eta' o assolutamen
 
 ((Qualora venga soppressa una corporazione di piloti sulla quale gravino assegni a favore di piloti cancellati, delle loro vedove e figli, o dei genitori, i marittimi autorizzati a norma dell'art. 96 del codice, sono tenuti, sotto la vigilanza del comandante del porto, alla corresponsione di tali assegni, sulla base dei compensi di pilotaggio riscossi.))
 
-## SEZIONE III - Dell'esercizio del pilotaggio
+##### SEZIONE III - Dell'esercizio del pilotaggio
 
 ###### Art. 125 - Servizio di trasporto, di rimorchio e di ormeggio
 
@@ -1332,7 +1320,7 @@ I marittimi autorizzati a norma dell'articolo 96 del codice sono muniti dal capo
 
 Il compenso per i marittimi autorizzati e' stabilito con tariffe determinate dal direttore marittimo. Per la riscossione di questi compensi si applica l'articolo 135 e l'ordine di introito e' redatto dal pilota.
 
-## CAPO III - Del rimorchio
+#### CAPO III - Del rimorchio
 
 ###### Art. 138 - Atto di concessione
 
@@ -1344,13 +1332,9 @@ Il concessionario e' tenuto a corrispondere un canone annuo, nella misura stabil
 
 Il canone puo' essere ridotto o escluso totalmente quando il concessionario assume l'obbligo di apprestare particolari mezzi tecnici e di compiere particolari prestazioni, ritenuti utili dal capo del compartimento per la sicurezza e il servizio del porto.
 
-## CAPO IV - Della disciplina del lavoro nei porti
+#### CAPO IV - Della disciplina del lavoro nei porti
 
-### SEZIONE
-
-#### I - Dell'autorita' preposta alla disciplina
-
-##### del lavoro nei porti
+##### SEZIONE I - Dell'autorita' preposta alla disciplina del lavoro nei porti
 
 ###### Art. 140
 
@@ -1480,7 +1464,7 @@ La L. 28 gennaio 1994, n. 84, come modificata dal D.L. 21 ottobre 1996, n. 535, 
 
 \- (con l'art. 20, comma 4) che "Fino all'entrata in vigore delle norme attuative della presente legge, continuano ad applicarsi le disposizioni previgenti in materia".
 
-## SEZIONE II - Dei lavoratori portuali
+##### SEZIONE II - Dei lavoratori portuali
 
 ###### Art. 148
 
@@ -1690,7 +1674,7 @@ La L. 28 gennaio 1994, n. 84, come modificata dal D.L. 21 ottobre 1996, n. 535, 
 
 \- (con l'art. 20, comma 4) che "Fino all'entrata in vigore delle norme attuative della presente legge, continuano ad applicarsi le disposizioni previgenti in materia".
 
-## SEZIONE III - Delle compagnie e dei gruppi portuali
+##### SEZIONE III - Delle compagnie e dei gruppi portuali
 
 ###### Art. 161
 
@@ -2300,7 +2284,7 @@ La L. 28 gennaio 1994, n. 84, come modificata dal D.L. 21 ottobre 1996, n. 535, 
 
 \- (con l'art. 20, comma 4) che "Fino all'entrata in vigore delle norme attuative della presente legge, continuano ad applicarsi le disposizioni previgenti in materia".
 
-## SEZIONE IV - Delle imprese per operazioni portuali
+##### SEZIONE IV - Delle imprese per operazioni portuali
 
 ###### Art. 196
 
@@ -2398,7 +2382,7 @@ La L. 28 gennaio 1994, n. 84, come modificata dal D.L. 21 ottobre 1996, n. 535, 
 
 \- (con l'art. 20, comma 4) che "Fino all'entrata in vigore delle norme attuative della presente legge, continuano ad applicarsi le disposizioni previgenti in materia".
 
-## SEZIONE V - Delle norme e delle tariffe di lavoro
+##### SEZIONE V - Delle norme e delle tariffe di lavoro
 
 ###### Art. 202
 
@@ -2432,7 +2416,7 @@ La L. 28 gennaio 1994, n. 84, come modificata dal D.L. 21 ottobre 1996, n. 535, 
 
 \- (con l'art. 20, comma 4) che "Fino all'entrata in vigore delle norme attuative della presente legge, continuano ad applicarsi le disposizioni previgenti in materia".
 
-## CAPO V - Dei palombari in servizio locale
+#### CAPO V - Dei palombari in servizio locale
 
 ###### Art. 204 - Attivita' dei palombari
 
@@ -2496,7 +2480,7 @@ Alla cancellazione dal registro si procede:
 
 L'inabilita' di cui al n. 2 del precedente comma e' accertata nei modi previsti dai commi terzo e seguenti dell'articolo 156 del presente regolamento.
 
-## CAPO VI - Degli ormeggiatori
+#### CAPO VI - Degli ormeggiatori
 
 ###### Art. 208
 
@@ -2690,7 +2674,7 @@ n) nei casi previsti dall'articolo 1254 del codice della navigazione.
 
 2\. La cancellazione dal registro comporta la perdita della qualita' di socio della cooperativa.))
 
-## CAPO VII - Dei barcaioli
+#### CAPO VII - Dei barcaioli
 
 ###### Art. 215 - Attivita' dei barcaioli
 
@@ -2746,11 +2730,9 @@ Alla cancellazione dal registro si procede:
 
 L'invalidita' di cui al n. 2 del precedente comma e' accertata nei modi previsti dai commi terzo e seguenti dell'articolo 156 del presente regolamento.
 
-## TITOLO IV - DEL PERSONALE MARITTIMO
+### TITOLO IV - DEL PERSONALE MARITTIMO
 
-### CAPO I
-
-#### Disposizioni generali per l'immatricolazione della gente di mare
+#### CAPO I - Disposizioni generali per l'immatricolazione della gente di mare
 
 ###### Art. 219 - Matricole
 
@@ -2878,9 +2860,7 @@ L'arruolamento di marittimi su navi di bandiera estera e' subordinato al nulla o
 
 Il marittimo deve dare comunicazione dell'avvenimento imbarco su nave di bandiera estera all'autorita' marittima competente.
 
-## CAPO II - Dell'immatricolazione della gente di mare di prima e di seconda
-
-### categoria
+#### CAPO II - Dell'immatricolazione della gente di mare di prima e di seconda categoria
 
 ###### Art. 238 - Requisiti per l'iscrizione
 
@@ -2982,7 +2962,7 @@ Oltre a quelle suindicate, si fa pure sulle matricole ogni altra annotazione, ch
 
 Sulla matricola e' applicata la fotografia dell'iscritto.
 
-## CAPO III - Dell'immatricolazione della gente di mare di terza categoria
+#### CAPO III - Dell'immatricolazione della gente di mare di terza categoria
 
 ###### Art. 244 - Requisiti per l'iscrizione
 
@@ -3008,7 +2988,7 @@ Tuttavia coloro che sono in possesso di qualifiche o di specializzazioni profess
 
 Per la tenuta delle matricole della gente di mare di terza categoria si applica il disposto dell'articolo 243, ma, non si fanno le annotazioni di cui ai nn. 1,4, 5, 6, 7, 8, 10 e 15.
 
-## CAPO IV - Dei titoli professionali per i servizi di coperta
+#### CAPO IV - Dei titoli professionali per i servizi di coperta
 
 ###### Art. 248
 
@@ -3260,7 +3240,7 @@ Il conduttore per la pesca locale puo' condurre navi di Stazza lorda non superio
 
 Il conduttore per la pesca locale, che sia anche in possesso di un titolo professionale di macchina, puo' esercitare contemporaneamente entrambe le mansioni a bordo di natanti da pesca nei limiti delle abilitazioni relative ai due titoli, previo parere favorevole dell'autorita' marittima mercantile, in relazione alle sistemazioni di bordo ed ai requisiti tecnici dei natanti stessi.))
 
-## CAPO V - Dei titoli professionali per i servizi di macchina
+#### CAPO V - Dei titoli professionali per i servizi di macchina
 
 ###### Art. 265 - Capitano superiore di macchina
 
@@ -3486,9 +3466,7 @@ b) motori a combustione interna o a scoppio installati su navi di stazza lorda n
 
 L'abilitazione riguarda esclusivamente il tipo di motore per il quale e' rilasciata.))
 
-## CAPO VI - Delle abilitazioni professionali del personale tecnico delle
-
-### costruzioni navali
+#### CAPO VI - Delle abilitazioni professionali del personale tecnico delle costruzioni navali
 
 ###### Art. 275 - Registro d'iscrizione
 
@@ -3622,7 +3600,7 @@ c) avere riportato condanna per uno dei reati indicati nell'articolo 238, n. 4.
 
 La causa di cancellazione prevista, dalla lett. c) del presente articolo non si applica agli allievi maestri d'ascia.
 
-## CAPO VII - Degli esami
+#### CAPO VII - Degli esami
 
 ###### Art. 282 - Esami presso le direzioni marittime
 
@@ -3726,7 +3704,7 @@ Al termine della sessione viene redatto altro processo verbale riassuntivo dei r
 
 Qualora per gli esperimenti pratici sia necessario l'impiego di mezzi nautici, le spese relative sono a carico dei candidati.
 
-## CAPO VIII - Disposizioni varie per i titoli professionali
+#### CAPO VIII - Disposizioni varie per i titoli professionali
 
 ###### Art. 295 - Autorita' competente al rilascio dei titoli professionali
 
@@ -3784,11 +3762,9 @@ Coloro i quali abbiano gia' conseguito o che, a norma del comma precedente, cons
 
 Quando il marittimo in possesso di titolo professionale consegue i requisiti che lo abilitano ad esercitare le varie attribuzioni stabilite per il titolo di cui egli e' in possesso l'autorita' marittima mercantile annota sul libretto di navigazione tali successive abilitazioni, dandone comunicazione all'ufficio d'iscrizione del marittimo per l'annotazione in matricola.
 
-## TITOLO V - DEL REGIME AMMINISTRATIVO DELLE NAVI
+### TITOLO V - DEL REGIME AMMINISTRATIVO DELLE NAVI
 
-### CAPO I
-
-#### Dell'ammissione della nave alla navigazione
+#### CAPO I - Dell'ammissione della nave alla navigazione
 
 ##### SEZIONE I - Dell'individuazione della nave
 
@@ -3846,7 +3822,7 @@ Il numero d'iscrizione delle navi minori e dei galleggianti deve essere segnato 
 
 Tale numero e' preceduto dalla sigla dell'ufficio di iscrizione, stabilita dal ministro per la marina mercantile.
 
-## SEZIONE II - Dei requisiti di nazionalita'
+##### SEZIONE II - Dei requisiti di nazionalita'
 
 ###### Art. 310 - Societa' autorizzate a possedere navi italiane
 
@@ -3866,9 +3842,7 @@ L'elenco di cui all'ultimo comma dell'articolo 143 del codice e' tenuto presso i
 
 Agli effetti dell'articolo 143 del codice, tra le societa' s'intendono compresi gli enti di carattere privato che abbiano acquistato la personalita' giuridica a norma dell'articolo 12 del codice civile.
 
-## SEZIONE III - Dell'iscrizione della nave e dell'abilitazione alla
-
-### navigazione
+##### SEZIONE III - Dell'iscrizione della nave e dell'abilitazione alla navigazione
 
 ###### Art. 313 - Matricole e registri delle navi e dei galleggianti marittimi
 
@@ -4044,7 +4018,7 @@ Al momento del rilascio dell'alto di nazionalita' o della licenza, l'autorita' c
 
 L'atto di nazionalita' o la licenza delle navi cancellate dalle matricole o dai registri sono annullati e conservati nell'ufficio d'iscrizione.
 
-## SEZIONE IV - Dell'uso della bandiera nazionale
+##### SEZIONE IV - Dell'uso della bandiera nazionale
 
 ###### Art. 337 - Bandiera delle navi mercantili
 
@@ -4078,9 +4052,7 @@ Nelle feste nazionali e nelle solennita' civili di uni&gt; Stato
 
 estero il comandante della nave nazionale, che trovasi in un porto o nelle acque territoriali di detto Stato, deve domandare istruzioni all'autorita' consolare per l'uso della bandiera nazionale e di quella dello Stato estero.
 
-## SEZIONE V - Della dismissione della bandiera e della cancellazione
-
-### dalle matricole e dai registri
+##### SEZIONE V - Della dismissione della bandiera e della cancellazione dalle matricole e dai registri
 
 ###### Art. 342 - Vendita giudiziale di navi e di carati di proprieta' di stranieri.
 
@@ -4118,7 +4090,7 @@ Il giudizio della commissione deve constare da processo verbale.
 
 Le spese per il funzionamento della commissione sono a carico dei proprietari delle navi e dei galleggianti visitati.
 
-## CAPO II - Della navigabilita' della nave
+#### CAPO II - Della navigabilita' della nave
 
 ###### Art. 347 - Stivaggio delle navi
 
@@ -4134,11 +4106,9 @@ Tali autorita', possono rifiutare le spedizioni alla, nave in caso di inosservan
 
 Fermo il disposto del primo comma dell'articolo 166 del codice, all'accertamento delle altre condizioni previste dall'articolo 164 del codice si provvede a norma di leggi e di regolamenti speciali.
 
-## CAPO III - Dei documenti di bordo
+#### CAPO III - Dei documenti di bordo
 
-### SEZIONE I
-
-#### Del ruolo di equipaggio
+##### SEZIONE I - Del ruolo di equipaggio
 
 ###### Art. 349 - Modello
 
@@ -4226,7 +4196,7 @@ L'autorita' che accerta la dispersione o la distruzione del ruolo ai termini del
 
 Qualora il ruolo smarrito sia ritrovato, deve essere trasmesso all'autorita' marittima mercantile che lo ha rilasciato. In tal caso questa ne fa invio alla cassa nazionale per la previdenza marinara che provvede al confronto tra il ruolo stesso e quello ricostituito per gli eventuali conguagli agli effetti del deconto.
 
-## SEZIONE II - Dei libri di bordo
+##### SEZIONE II - Dei libri di bordo
 
 ###### Art. 362 - Forma e vidimazione
 
@@ -4380,11 +4350,9 @@ Ogni rapporto del direttore di macchina, deve essere datato e sottoscritto, nonc
 
 ((ARTICOLO ABROGATO DALLA L. 7 MAGGIO 2026, N. 70))
 
-## TITOLO VI - DELLA POLIZIA DELLA NAVIGAZIONE
+### TITOLO VI - DELLA POLIZIA DELLA NAVIGAZIONE
 
-### CAPO I
-
-#### Della partenza e dell'arrivo delle navi
+#### CAPO I - Della partenza e dell'arrivo delle navi
 
 ###### Art. 375 - Registro delle partenze
 
@@ -4430,7 +4398,7 @@ Se nel giornale nautico non sono stati annotati gli avvenimenti straordinari ver
 
 Quando le formalita' indicate negli articoli 181 e 182 del codice non possono essere eseguite nei porti esteri, perche' non esiste autorita' consolare e all'autorita' locale non sia riconosciuta tale competenza dalle leggi locali e da trattati internazionali, le formalita' stesse sono eseguite nel primo porto di approdo nello Stato o nel porto di approdo all'estero, dove risieda una autorita' consolare italiana.
 
-## CAPO II - Della polizia di bordo e della navigazione
+#### CAPO II - Della polizia di bordo e della navigazione
 
 ###### Art. 383 - Rilascio di carte provvisorie di bordo
 
@@ -4450,9 +4418,7 @@ Nei casi previsti dal primo e dal secondo comma dell'articolo 194 del codice, il
 
 Il comandante del porto da' avviso all'autorita' doganale delle merci sbarcate con l'indicazione della localita' dove esse sono custodite.
 
-## TITOLO VII - DEGLI ATTI DI STATO CIVILE IN CORSO
-
-### DI NAVIGAZIONE
+### TITOLO VII - DEGLI ATTI DI STATO CIVILE IN CORSO DI NAVIGAZIONE
 
 ###### Art. 386 - Iscrizione degli atti di stato civile
 
@@ -4480,9 +4446,7 @@ Gli atti di stato civile e i processi verbali di scomparizione in mare compilati
 
 All'autorita' marittima mercantile o a quella consolare, che a norma dell'articolo 209 del codice e' tenuta a provvedere alla redazione dei processi verbali di scomparizione in mare, devono essere trasmessi i verbali di interrogatorio dei naufraghi approdati in altra localita'.
 
-## TITOLO VIII - DEGLI OGGETTI APPARTENENTI A PERSONE
-
-### MORTE O SCOMPARSE IN VIAGGIO
+### TITOLO VIII - DEGLI OGGETTI APPARTENENTI A PERSONE MORTE O SCOMPARSE IN VIAGGIO
 
 ###### Art. 391 - Inventario e custodia degli oggetti
 
@@ -4558,11 +4522,9 @@ I proventi della vendita, per il periodo indicato nel terzo comma dell'articolo 
 
 Le norme del presente titolo si applicano, in quanto compatibili, anche ai casi di scomparizione in mare o di assenza da bordo per qualsiasi motivo.
 
-## TITOLO IX - DISPOSIZIONI SPECIALI
+### TITOLO IX - DISPOSIZIONI SPECIALI
 
-### CAPO I
-
-#### Della navigazione da diporto
+#### CAPO I - Della navigazione da diporto
 
 ###### Art. 401
 
@@ -4592,7 +4554,7 @@ Le norme del presente titolo si applicano, in quanto compatibili, anche ai casi 
 
 ((ARTICOLO ABROGATO DAL D. LGS. 18 LUGLIO 2005, N. 171))
 
-## CAPO II - Della pesca
+#### CAPO II - Della pesca
 
 ###### Art. 408 - Categorie di pesca
 
@@ -4602,11 +4564,9 @@ La pesca mediterranea e' quella che si esercita nel Mediterraneo entro gli stret
 
 La pesca oltre gli stretti e' quella che si esercita fuori dei limiti di cui al comma precedente.
 
-## LIBRO SECONDO - DELLA PROPRIETA' DELLA NAVE
+## LIBRO SECONDO - DELLA PROPRIETA' DELLA NAVE E DELL'ESERCIZIO DELLA NAVIGAZIONE
 
-### E DELL'ESERCIZIO DELLA NAVIGAZIONE
-
-#### TITOLO I - DELLA COSTRUZIONE DELLA NAVE
+### TITOLO I - DELLA COSTRUZIONE DELLA NAVE
 
 ###### Art. 409 - Forma della dichiarazione di costruzione
 
@@ -4632,7 +4592,7 @@ L'ordine di sospensione della costruzione di una nave o di un galleggiante, nei 
 
 Per quanto riguarda il titolo da trascrivere, la dichiarazione prevista dall'articolo 239 del codice, per il caso di cui al secondo comma dell'articolo 237 dello stesso codice deve contenere gli elementi del contratto verbale di costruzione e indicare le quote di partecipazione alla proprieta'.
 
-## TITOLO II - DELLA PROPRIETA' DELLA NAVE
+### TITOLO II - DELLA PROPRIETA' DELLA NAVE
 
 ###### Art. 414 - Esecuzione delle trascrizioni
 
@@ -4680,11 +4640,9 @@ Alla fine di ogni anno l'ufficio d'iscrizione della nave provvede a riunire in v
 
 Quando la pubblicita' e' richiesta all'ufficio marittimo o consolare del luogo dove la nave si trova, l'ufficio predetto, prima di trasmettere i documenti all'ufficio di iscrizione, a norma dell'articolo 251, secondo comma del codice, provvede all'annotazione sull'atto di nazionalita', informando telegraficamente l'ufficio di iscrizione.
 
-## TITOLO III - DELL'ESERCIZIO DELLA NAVIGAZIONE
+### TITOLO III - DELL'ESERCIZIO DELLA NAVIGAZIONE
 
-### CAPO I
-
-#### Dell'armatore e del raccomandatario
+#### CAPO I - Dell'armatore e del raccomandatario
 
 ###### Art. 422 - Rappresentante dell'armatore
 
@@ -4720,7 +4678,7 @@ Chi intende compiere presso gli uffici di porto atti per conto di armatori, racc
 
 Dell'autorizzazione e' presa nota in apposito registro, conforme al modello approvato dal ministro per la marina mercantile.
 
-## CAPO II - Dell'armamento e del disarmo delle navi
+#### CAPO II - Dell'armamento e del disarmo delle navi
 
 ###### Art. 426 - Poteri del comandante di porto
 
@@ -4792,11 +4750,9 @@ In esso sono annotati:
 
 Alla fine di ogni trimestre, l'autorita' consolare trasmette al ministero della marina mercantile un estratto conforme del suddetto registro unitamente ai libretti di navigazione, depositati presso l'ufficio consolare.
 
-## TITOLO IV - DEL CONTRATTO DI ARRUOLAMENTO
+### TITOLO IV - DEL CONTRATTO DI ARRUOLAMENTO
 
-### CAPO I
-
-#### Della formazione del contratto
+#### CAPO I - Della formazione del contratto
 
 ###### Art. 437 - Consenso all'arruolamento dei minori di anni diciotto
 
@@ -4824,7 +4780,7 @@ Gli originali dei contratti di arruolamento sono annualmente raccolti in volumi 
 
 Le copie autentiche dei contratti di arruolamento sono conservate fra i documenti di bordo.
 
-## CAPO II - Del rimpatrio
+#### CAPO II - Del rimpatrio
 
 ###### Art. 441 - Spese per il rimpatrio
 
@@ -4868,21 +4824,17 @@ Quando non esistono le condizioni di reciprocita' di cui all'articolo 3 del codi
 
 Le autorita' - marittime mercantili alle quali siano inviati marittimi rimpatriati non provvisti dei mezzi necessari per la prosecuzione del viaggio di destinazione, curando l'inoltro dei marittimi stessi a norma dell'articolo 441.
 
-## CAPO III - Disposizioni varie
+#### CAPO III - Disposizioni varie
 
 ###### Art. 446 - Rinunzie e transazioni
 
 Agli effetti dell'articolo 2113 del codice civile, quando la rinunzia o la transazione avvenga all'estero, i tre mesi richisti dal secondo comma di detto articolo decorrono dal momento del rimpatrio del marittimo, sempre che questo avvenga entro l'anno dalla cessazione o dalla risoluzione del rapporto di arruolamento ovvero dalla rinunzia o dalla transazione, o altrimenti da tale iltimo termine.
 
-## LIBRO TERZO - DELLE OBBLIGAZIONI RELATIVE
+## LIBRO TERZO - DELLE OBBLIGAZIONI RELATIVE ALL'ESERCIZIO DELLA NAVIGAZIONE
 
-### ALL'ESERCIZIO DELLA NAVIGAZIONE
+### TITOLO UNICO - DEL RICUPERO E DEL RITROVAMENTO DI RELITTI
 
-#### TITOLO UNICO - DEL RICUPERO E DEL RITROVAMENTO DI RELITTI
-
-##### CAPO I
-
-###### Del ricupero
+#### CAPO I - Del ricupero
 
 ###### Art. 447 - Denuncia dell'identificazione di relitti
 
@@ -4998,7 +4950,7 @@ All'estero, quando cio' sia consentito dall'ordinamento dello Stato nelle cui ac
 
 In tal caso la somma ricavata dalla vendita delle cose ricuperate, prevista dal secondo comma dell'articolo 508 del codice, deve essere trasmessa, con i documenti relativi, al ministero della marina mercantile, che provvede poi a norma della precitata disposizione.
 
-## CAPO II - Del ritrovamento dei relitti
+#### CAPO II - Del ritrovamento dei relitti
 
 ###### Art. 460 - Denuncia del ritrovamento
 
@@ -5030,9 +4982,7 @@ Alla vendita deve intervenire un funzionario dell'amministrazione doganale.
 
 ## LIBRO QUARTO - DISPOSIZIONI PROCESSUALI
 
-### TITOLO I
-
-#### DELL'ISTRUZIONE PREVENTIVA
+### TITOLO I - DELL'ISTRUZIONE PREVENTIVA
 
 ###### Art. 465 - Inchiesta sommaria
 
@@ -5166,11 +5116,9 @@ Quando il sinistro riguarda una nave che batte bandiera straniera, sempre che ri
 
 Anche in tali casi, all'esame dell'equipaggio la commissione inquirente puo' procedere soltanto se il sinistro e' avvenuto nel mare territoriale, a norma del quarto comma dell'articolo 581 del codice.
 
-## TITOLO II - DELLE CAUSE MARITTIME
+### TITOLO II - DELLE CAUSE MARITTIME
 
-### CAPO I
-
-#### Dei consulenti tecnici nelle cause riguardanti sinistri marittimi
+#### CAPO I - Dei consulenti tecnici nelle cause riguardanti sinistri marittimi
 
 ###### Art. 475 - Istituzione dell'elenco
 
@@ -5184,7 +5132,7 @@ L'elenco e' formato da un comitato presieduto dal presidente del tribunale e com
 
 Nell'elenco possono essere iscritti coloro che sono forniti di speciale esperienza tecnica nella materia marittima.
 
-## CAPO II - Dei liquidatori di avarie
+#### CAPO II - Dei liquidatori di avarie
 
 ###### Art. 477 - Istituzione dell'elenco
 
@@ -5196,7 +5144,7 @@ L'elenco e' formato da un comitato presieduto dal primo presidente della corte d
 
 Nell'albo possono essere iscritti coloro che sono forniti di speciale esperienza tecnica nella materia.
 
-## CAPO III - Del procedimento avanti i comandanti di porto
+#### CAPO III - Del procedimento avanti i comandanti di porto
 
 ###### Art. 479 - Designazione alle funzioni di cancelliere
 
@@ -5216,9 +5164,7 @@ Il beneficio del gratuito patrocinio, per le cause che devono essere trattate av
 
 In caso di urgenza, il comandante di porto puo' ammettere al beneficio del gratuito patrocinio la parte che versa in condizioni di poverta', a termini delle disposizioni vigenti in materia, salvo convalida della commissione predetta.
 
-## TITOLO III - DELL'ATTUAZIONE DELLA LIMITAZIONE
-
-### DEL DEBITO DELL'ARMATORE
+### TITOLO III - DELL'ATTUAZIONE DELLA LIMITAZIONE DEL DEBITO DELL'ARMATORE
 
 ###### Art. 483 - Proroga del termine per il deposito della dichiarazione di valore
 
@@ -5258,11 +5204,9 @@ Il proprietario della nave ed ogni altro coobligato o responsabile in garanzia d
 
 L'armatore che abbia lasciato trascorrere inutilmente questo termine non puo' piu' opporre il beneficio della limitazione al richiedente che agisce in via di regresso.
 
-## TITOLO IV - DELL'ESECUZIONE FORZATA E DELLE MISURE CAUTELARI
+### TITOLO IV - DELL'ESECUZIONE FORZATA E DELLE MISURE CAUTELARI
 
-### CAPO I
-
-#### Dell'amministrazione della nave pignorata
+#### CAPO I - Dell'amministrazione della nave pignorata
 
 ###### Art. 489 - Riscossione del nolo, degli accessori e degli altri valori
 
@@ -5290,7 +5234,7 @@ Se il sopravanzo del rendiconto non e' inferiore allo importo dei crediti e dell
 
 Se il sopravanzo eccede l'importo dei crediti e delle spese di cui al precedente comma, il giudice dell'esecuzione o, in mancanza di questi, il capo dell'ufficio giudiziario competente per l'esecuzione, ne dispone l'assegnazione al debitore o al terzo che ha subito l'espropriazione.
 
-## CAPO II - Dell'amministrazione della nave sequestrata
+#### CAPO II - Dell'amministrazione della nave sequestrata
 
 ###### Art. 493 - Competenza
 
@@ -5318,9 +5262,7 @@ Se il sopravanzo del rendiconto non e' inferiore allo importo del credito, che h
 
 ## LIBRO QUINTO - DISPOSIZIONI PENALI E DISCIPLINARI
 
-### TITOLO I
-
-#### DISPOSIZIONI IN MATERIA DI POLIZIA
+### TITOLO I - DISPOSIZIONI IN MATERIA DI POLIZIA
 
 ###### Art. 498 - Sbarco d'autorita
 
@@ -5334,7 +5276,7 @@ Gli agenti in servizio di ronda possono visitare, in qualunque momento, le navi,
 
 Il servizio di ronda e' eseguito per mezzo di marinai o sottufficiali di porto e, ove occorra, dai carabinieri e dagli agenti di pubblica sicurezza, previa richiesta alle autorita' da cui questi agenti della forza pubblica dipendono ovvero da militari del corpo equipaggi della marina, militare o di altre categorie destinati presso gli uffici di porto.
 
-## TITOLO II - DISPOSIZIONI PROCESSUALI
+### TITOLO II - DISPOSIZIONI PROCESSUALI
 
 ###### Art. 500 - Registri degli uffici circondariali
 
@@ -5398,7 +5340,7 @@ Agli effetti dell'articolo 1086 del codice, la meta' della somme versate a titol
 
 L'autorita' che procede all'esecuzione delle sentenze o dei decreti di condanna, o che riceve le oblazioni, ovvero che applica la pena disciplinare, nell'ordine di introito designa la cassa o il fondo a cui, a norma dei commi precedenti, spetta la meta' delle somme versate a titolo di pene pecuniarie. Nel caso previsto al n. 3 dell'articolo 1252 del colore i capi di circondario esigono dal comandante della nave le relative somme e le versano alla cassa.
 
-## TITOLO III - DEL PROCEDIMENTO DISCIPLINARE
+### TITOLO III - DEL PROCEDIMENTO DISCIPLINARE
 
 ###### Art. 509 - Infrazioni disciplinari dei componenti dell'equipaggio
 
@@ -5426,19 +5368,15 @@ La contestazione degli addebiti prevista dall'articolo 1263 del codice viene fat
 
 L'invito deve contenere l'assegnazione di un termine non interiore a quindici giorni dalla data del ricevimento della raccomandata. In tale termine l'interessato o una persona munita di procura puo' prendere visione di tutti gli atti del procedimento disciplinare ed inviare le sue discolpe, indicando, se del caso, testimoni ed altre prove.
 
-## TITOLO IV - DISPOSIZIONI FINALI
+### TITOLO IV - DISPOSIZIONI FINALI
 
 ###### Art. 514 - Rinvio
 
 Per quanto non e' previsto dal presente libro si applicano le disposizioni regolamentari per l'esecuzione del codice di procedura penale, le disposizioni di attuazione del medesimo codice e quelle della tariffa penale.
 
-## LIBRO SESTO - DISPOSIZIONI TRANSITORIE
+## LIBRO SESTO - DISPOSIZIONI TRANSITORIE E COMPLEMENTARI
 
-### E COMPLEMENTARI
-
-#### TITOLO I - ORGANI E ATTIVITA' AMMINISTRATIVA
-
-##### DELLA NAVIGAZIONE
+### TITOLO I - ORGANI E ATTIVITA' AMMINISTRATIVA DELLA NAVIGAZIONE
 
 ###### Art. 515 - Attribuzioni dell'amministrazione marittima nella laguna veneta
 
@@ -5494,7 +5432,7 @@ Per l'occupazione e l'uso di zone di mare territoriale e per l'esercizio della p
 
 Per le concessioni per allevamento di pesci, per coltivazione e deposito di mitili, il capo del compartimento promuove il parere del medico provinciale per quanto concerne l'igiene e la sanita'.
 
-## TITOLO II - POLIZIA E SERVIZI NEI PORTI
+### TITOLO II - POLIZIA E SERVIZI NEI PORTI
 
 ###### Art. 525 - Regolamenti locali di pilotaggio e di rimorchio
 
@@ -5510,7 +5448,7 @@ Nelle localita' in cui alla data di entrata in vigore del presente regolamento i
 
 Il trasferimento ha luogo secondo le modalita' stabilite dal capo del compartimento.
 
-## TITOLO III - PERSONALE DELLA NAVIGAZIONE MARITTIMA
+### TITOLO III - PERSONALE DELLA NAVIGAZIONE MARITTIMA
 
 ###### Art. 528 - Trasferimenti di categoria degli iscritti marittimi
 
@@ -5542,7 +5480,7 @@ Coloro che nei diciotto mesi precedenti la data di entrata in vigore del present
 
 Gli ormeggiatori e i barcaioli che alla data dell'entrata in vigore del regolamento esercitano la loro attivita' almeno da un anno, sono iscritti nei registri anche in mancanza dei requisiti stabiliti dal regolamento stesso, purche' presentino domanda nel termine di un anno.
 
-## TITOLO IV - REGIME AMMINISTRATIVO DELLE NAVI
+### TITOLO IV - REGIME AMMINISTRATIVO DELLE NAVI
 
 ###### Art. 534 - Navi e galleggianti gia' iscritti
 
@@ -5572,25 +5510,25 @@ Chi anteriormente alla data di entrata in vigore del presente regolamento e' sta
 
 In caso di mancata presentazione si applicano le disposizioni di cui agli articoli 318 e seguenti del regolamento stesso.
 
-## TITOLO V - Navigazione da diporto
+### TITOLO V - Navigazione da diporto
 
 ###### Art. 538
 
 ((ARTICOLO ABROGATO DAL D. LGS. 18 LUGLIO 2005, N. 171))
 
-## TITOLO VI - Esercizio della navigazione
+### TITOLO VI - Esercizio della navigazione
 
 ###### Art. 539 - Dichiarazione di armatore
 
 Chi anteriormente alla data dell'entrata in vigore del presente regolamento e' stato dichiarato armatore, a termini dell'articolo 53 del codice per la marina mercantile, deve entro quattro mesi dalla data stessa fare la dichiarazione di cui all'articolo 265 del codice della navigazione.
 
-## TITOLO VII - Disposizioni processuali
+### TITOLO VII - Disposizioni processuali
 
 ###### Art. 540 - Membri delle commissioni d'inchiesta gia' in carica
 
 I membri delle commissioni d'inchiesta che alla data di entrata in vigore del regolamento sono stati nominati ai sensi dell'articolo 5 del regio decreto-legge 17 settembre 1925, convertito nella legge 18 marzo 1926, n. 562, s'intendono confermati in carica fino alla scadenza del termine di tre anni dalla data della loro nomina.
 
-## TITOLO VIII - Disposizioni generali e finali
+### TITOLO VIII - Disposizioni generali e finali
 
 ###### Art. 541 - Rinvio a norme speciali
 

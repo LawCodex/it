@@ -26,7 +26,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Le entrate ordinarie e straordinarie della Cassa di previdenza e assistenza per avvocati e procuratori sono le seguenti:
 
@@ -52,19 +52,19 @@ Le entrate ordinarie e straordinarie della Cassa di previdenza e assistenza per 
 
 11\) ogni altra eventuale entrata.
 
-### Art. 2
+## Art. 2
 
 ((ARTICOLO ABROGATO DALLA L. 22 LUGLIO 1975, N. 319))
 
-### Art. 3
+## Art. 3
 
 ((ARTICOLO ABROGATO DALLA L. 22 LUGLIO 1975, N. 319))
 
-### Art. 4
+## Art. 4
 
 ((ARTICOLO ABROGATO DALLA L. 22 LUGLIO 1975, N. 319))
 
-### Art. 5
+## Art. 5
 
 ((La pensione si consegue:
 
@@ -84,7 +84,7 @@ AGGIORNAMENTO (1)
 
 La L.12 marzo 1968, n. 237 ha disposto (con l'art. 2) che " I termini di riscatto delle annualita' mancanti, ai fini del conseguimento della pensione forense, previsti dallo articolo 5 della legge 5 luglio 1965, n. 798, sono prorogati sino al 31 dicembre 1968."
 
-### Art. 6
+## Art. 6
 
 In via provvisoria, sino alla emanazione della legge organica sulla previdenza e, assistenza forense, l'applicazione delle disposizioni degli articoli 11, 14, e del primo comma dell'articolo 13 della legge 25 febbraio 1963, n. 289, nonche' delle norme della legge 8 gennaio 1952, n. 6, da tali articoli rispettivamente sostituite, e sospesa.
 
@@ -110,15 +110,15 @@ AGGIORNAMENTO (4)
 
 La L. 22 luglio 1975, n. 319 ha disposto (con l'art. 9) che e' abrogato l'articolo 6 della legge 5 luglio 1965, n. 798.
 
-### Art. 7
+## Art. 7
 
 ((ARTICOLO SOPPRESSO DALLA L. 12 MARZO 1968, N. 237))
 
-### Art. 8
+## Art. 8
 
 ((ARTICOLO ABROGATO DALLA L. 11 FEBBRAIO 1992, N. 141))
 
-### Art. 9
+## Art. 9
 
 Ogni anno dall'importo delle entrate previste dal precedente articolo 1, ad eccezione del contributo personale di cui al n. 6 dell'articolo stesso, sono prelevate le somme occorrenti:
 
@@ -136,33 +136,33 @@ f) per la copertura di eventuali disavanzi.
 
 Le rimanenti somme, ripartite in quote uguali fra tutti gli iscritti, sono accreditate nei rispettivi conti individuali, unitamente ai contributi personali di cui al n. 6 dell'articolo 1, della presente legge.
 
-### Art. 10
+## Art. 10
 
 ((Il presidente,i componenti del consiglio di amministrazione,del collegio dei revisori dei conti e del comitato dei delegati della cassa durano in carica quattro anni e possono essere rieletti consecutivamente una sola volta)).
 
-### Art. 11
+## Art. 11
 
 Gli articoli 2, 3, 4, 12, 23 e 24 della legge 25 febbraio 1963, n. 289, nonche' le norme della legge 8 gennaio 1952, n. 6, da tali articoli, rispettivamente, sostituite, sono soppressi.
 
 ## DELL'ASSISTENZA SANITARIA
 
-### Art. 12
+## Art. 12
 
 ((ARTICOLO SOPPRESSO DALLA L. 12 MARZO 1968, N. 237))
 
-### Art. 13
+## Art. 13
 
 ((ARTICOLO SOPPRESSO DALLA L. 12 MARZO 1968, N. 237))
 
-### Art. 14
+## Art. 14
 
 ((ARTICOLO SOPPRESSO DALLA L. 12 MARZO 1968, N. 237))
 
-### Art. 15
+## Art. 15
 
 ((ARTICOLO SOPPRESSO DALLA L. 12 MARZO 1968, N. 237))
 
-### Art. 16
+## Art. 16
 
 ((ARTICOLO SOPPRESSO DALLA L. 12 MARZO 1968, N. 237))
 

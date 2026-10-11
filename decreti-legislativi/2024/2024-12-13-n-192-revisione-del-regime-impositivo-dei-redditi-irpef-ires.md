@@ -50,9 +50,7 @@ il seguente decreto legislativo:
 
 ## Titolo I - DIPOSIZIONI IN MATERIA DI REDDITI DEI TERRENI, DI LAVORO DIPENDENTE, DI LAVORO AUTONOMO E DIVERSI
 
-### Capo I
-
-#### Redditi dei terreni
+### Capo I - Redditi dei terreni
 
 ##### Art. 1
 
@@ -124,7 +122,7 @@ Aggiornamento delle banche dati catastali
 
 2\. Con decreto del Ministro dell'agricoltura, della sovranita' alimentare e delle foreste, da emanarsi di concerto con il Ministro dell'economia e delle finanze entro novanta giorni dalla data di entrata in vigore del presente decreto, sono definite le disposizioni attuative del comma 1.
 
-## Capo II - Redditi di lavoro dipendente
+### Capo II - Redditi di lavoro dipendente
 
 ##### Art. 3
 
@@ -156,7 +154,7 @@ Decorrenza delle disposizioni in tema di revisione della disciplina sulla tassaz
 
 1\. Le disposizioni di cui all'articolo 3 si applicano ai componenti del reddito di lavoro dipendente percepiti a decorrere dal 1° gennaio 2025.
 
-## Capo III - Redditi di lavoro autonomo
+### Capo III - Redditi di lavoro autonomo
 
 ##### Art. 5
 
@@ -326,7 +324,7 @@ Disposizioni transitorie e finali
 
 4\. La disposizione di cui all'articolo 54-sexies, comma 3, del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, introdotta dall'articolo 5, comma 1, lettera b), ha effetto a decorrere dal periodo di imposta successivo a quello in corso alla data di entrata in vigore del presente decreto.
 
-## Capo IV - Redditi diversi
+### Capo IV - Redditi diversi
 
 ##### Art. 7
 
@@ -342,9 +340,7 @@ b) al comma 2, il quarto periodo e' sostituito dai seguenti: «Per i terreni acq
 
 ## Titolo II - DISPOSIZIONI IN MATERIA DI REDDITI D'IMPRESA
 
-### Capo I
-
-#### Avvicinamento dei valori fiscali ai valori contabili
+### Capo I - Avvicinamento dei valori fiscali ai valori contabili
 
 ##### Art. 8
 
@@ -474,11 +470,9 @@ Affrancamento straordinario delle riserve
 
 2\. Con decreto del Ministro dell'economia e delle finanze, da emanarsi entro sessanta giorni dalla data di entrata in vigore del presente articolo, possono essere dettate le relative disposizioni di attuazione.
 
-## Capo II - Disposizioni ulteriori
+### Capo II - Disposizioni ulteriori
 
-### Sezione I
-
-#### Operazioni straordinarie
+#### Sezione I - Operazioni straordinarie
 
 ##### Art. 15
 
@@ -618,7 +612,7 @@ d) all'articolo 178, comma 1, lettera e), le parole: «, in virtu' di un obbligo
 
 2\. Le disposizioni di cui al comma 1 si applicano ai conferimenti di azienda e di partecipazioni effettuati dalla data di entrata in vigore del presente decreto.
 
-## Sezione II - Altre disposizioni
+#### Sezione II - Altre disposizioni
 
 ##### Art. 18
 

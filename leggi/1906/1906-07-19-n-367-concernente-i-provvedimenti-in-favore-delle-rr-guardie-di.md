@@ -30,13 +30,13 @@ Il Senato e la Camera dei deputati hanno approvato;
 
 Noi abbiamo sanzionato e promulghiamo quanto segue:
 
-### Art. 1
+## Art. 1
 
 Alle disposizioni del testo unico delle leggi sull'ordinamento della guardia di finanza approvato con R. decreto 13 febbraio 1896, n. 40, o della legge 19 giugno 1902, n. 186 sono sostituite quelle contenute nell'annesso testo, allegato A, che forma parte integrante della presente legge.
 
 Il ruolo organico del personale della guardia di finanza e' stabilito secondo l'annesso quadro allegato B.
 
-### Art. 2
+## Art. 2
 
 Il Governo del Re e' autorizzato a inscrivere nella parte ordinaria della spesa del Ministero delle finanze per l'esercizio finanziario 1906-907:
 
@@ -62,7 +62,7 @@ Allegato A.
 
 Nuova legge d'ordinamento della guardia di finanza.
 
-### Art. 1
+## Art. 1
 
 Il Corpo della guardia di finanza dipende dal ministro delle finanze, fa parte integrante della forza pubblica, nonche' delle forze militari di guerra dello Stato, ed e' deputato a:
 
@@ -76,7 +76,7 @@ d) concorrere alla difesa dell'ordine e della sicurezza pubblica, e in caso di g
 
 Nessuno appartenente al Corpo della guardia di finanza puo' essere impiegato altrimenti che per il servizio del Corpo medesimo.
 
-### Art. 2
+## Art. 2
 
 Il Corpo della guardia di finanza e' comandato da un generale dell'esercito attivo o proveniente dal Corpo stesso e si compone di:
 
@@ -134,7 +134,7 @@ AGGIORNAMENTO (3)
 
 La L. 5 giugno 1913, n. 550 ha disposto (con l'art. 3, comma 1) che l'applicazione della presente legge ha luogo a partire dal 1° luglio 1913 e che l'aumento e la sistemazione del contingente si effettueranno gradatamente in tre anni, di maniera che la maggiore spesa gravi per un terzo sull'esercizio finanziario 1913-914, per due terzi sul 1914-915 e per la totalita' sul 1915-916.
 
-### Art. 3
+## Art. 3
 
 Il comandante generale della guardia di finanza risiede presso il Ministero delle finanze, ed e' coadiuvato da un colonnello comandante in seconda e da un ufficio di segreteria.
 
@@ -142,7 +142,7 @@ Sono di sua competenza l'ordinamento, il reclutamento, gli avanzamenti, l'armame
 
 Per regolare l'azione di servizio del Corpo, il comandante riceve o provoca disposizioni dal ministro delle finanze o dai capi di amministrazione da lui delegati.
 
-### Art. 4
+## Art. 4
 
 Il contingente della guardia di finanza e' ripartito in otto legioni territoriali, una legione allievi ed una scuola pei sottufficiali.
 
@@ -158,11 +158,11 @@ Con decreto Reale saranno determinate le sedi e le circoscrizioni delle legioni 
 
 Con decreto Ministeriale saranno determinate le ripartizioni del contingente, le sedi e la circoscrizione delle compagnie, delle tenenze, delle sezioni e delle brigate, e la sede della scuola pei sottufficiali.
 
-### Art. 5
+## Art. 5
 
 Per la reggenza degli uffici doganali di ultima classe e pei servizi interni nelle dogane, si potra' mantenere, nei limiti della forza organica del Corpo della guardia di finanza, un contingente speciale costituito di sottufficiali non piu' adatti al servizio attivo; purche' possiedano l'attitudine e gli altri requisiti da determinarsi con regolamento.
 
-### Art. 6
+## Art. 6
 
 La nomina del comandante generale da deliberarsi in Consiglio dei ministri, e' fatta con decreto Reale su proposta del ministro delle finanze.
 
@@ -202,7 +202,7 @@ AGGIORNAMENTO (3)
 
 La L. 5 giugno 1913, n. 550 ha disposto (con l'art. 3, comma 1) che l'applicazione della presente legge ha luogo a partire dal 1° luglio 1913 e che l'aumento e la sistemazione del contingente si effettueranno gradatamente in tre anni, di maniera che la maggiore spesa gravi per un terzo sull'esercizio finanziario 1913-914, per due terzi sul 1914-915 e per la totalita' sul 1915-916.
 
-### Art. 7
+## Art. 7
 
 ((I marescialli maggiori sono tratti dai marescialli capi e questi dai marescialli ordinari; per due terzi in ordine d'anzianita' e per un terzo a scelta.
 
@@ -232,13 +232,13 @@ AGGIORNAMENTO (4)
 
 La L. 5 giugno 1913, n. 550 ha disposto (con l'art. 3, comma 1) che l'applicazione della presente legge ha luogo a partire dal 1° luglio 1913 e che l'aumento e la sistemazione del contingente si effettueranno gradatamente in tre anni, di maniera che la maggiore spesa gravi per un terzo sull'esercizio finanziario 1913-914, per due terzi sul 1914-915 e per la totalita' sul 1915-916.
 
-### art. 8
+## art. 8
 
 Allegato A-art. 8
 
 ((ARTICOLO SOPPRESSO DALLA L. 5 GIUGNO 1913, N. 550))
 
-### Art. 9
+## Art. 9
 
 Con RR. decreti, proposti dai ministri della guerra e della marina, di concerto con quello delle finanze, si provvede fin dal tempo di pace a tutto quanto occorre per la formazione di guerra e la mobilitazione delle brigate di terra e di mare della guardia di finanza.
 
@@ -250,7 +250,7 @@ Durante la mobilitazione, le guardie di finanza conserveranno la divisa, i gradi
 
 In tempo di pace il ministro della guerra, previo accordo con quello delle finanze, fara' eseguire ispezioni per accertare la preparazione alla mobilitazione e alla formazione di guerra delle compagnie e dei battaglioni della guardia di finanza.
 
-### Art. 10
+## Art. 10
 
 ((Il reclutamento del personale della regia guardia di finanza si effettua:
 
@@ -288,7 +288,7 @@ AGGIORNAMENTO (1)
 
 La L. 12 luglio 1908, n. 427 ha disposto (con l'art. 3, comma 1) che l'applicazione della presente legge ha luogo a partire dal 1° luglio 1908.
 
-### Art. 11
+## Art. 11
 
 L'aspirante riconosciuto idoneo si obbliga a servire per la ferma di anni tre. Eguale ferma di servizio devono contrarre i sottufficiali, gli appuntati e le guardie che, avendo cessato di appartenere al Corpo, chiedano ed ottengano in seguito di esservi riammessi.
 
@@ -300,7 +300,7 @@ La rafferma contratta dai sottufficiali e dalle guardie ha la durata di tre anni
 
 La rafferma decorre dal giorno successivo a quello in cui scade la ferma o rafferma in corso.
 
-### Art. 12
+## Art. 12
 
 ((i sottufficiali, gli appuntati e le guardie)) possono conseguire, per ogni rafferma triennale, un premio annuo di lire 220, fin quando non abbiano compiuto 14 anni di servizio utili per la pensione. ((1))
 
@@ -316,7 +316,7 @@ AGGIORNAMENTO (1)
 
 La L. 12 luglio 1908, n. 427 ha disposto (con l'art. 3, comma 1) che l'applicazione della presente legge ha luogo a partire dal 1° luglio 1908.
 
-### Art. 13
+## Art. 13
 
 Il premio annuo della rafferma in corso viene proporzionalmente ridotto, quando nel corso dell'anno il raffermato vien promosso ufficiale, o, per qualsiasi causa, cessa dal far parte del Corpo; non e' dovuto pel periodo di sospensione od interruzione della rafferma.
 
@@ -332,7 +332,7 @@ AGGIORNAMENTO (1)
 
 La L. 12 luglio 1908, n. 427 ha disposto (con l'art. 3, comma 1) che l'applicazione della presente legge ha luogo a partire dal 1° luglio 1908.
 
-### Art. 14
+## Art. 14
 
 Il capitale risultante dai premi di rafferma cumulati con gl'interessi sara', a cura del Consiglio d'amministrazione della massa, consegnato al creditore:
 
@@ -342,19 +342,19 @@ b) al compimento degli anni di servizio indicati nel primo comma dell'art. 12 qu
 
 I premi e gl'interessi corrispondenti non possono cedersi ne' sequestrarsi, eccetto il caso di debiti verso lo Stato o verso la massa del Corpo, dipendenti dalle funzioni del raffermato, o per causa di alimenti dovuti a termini di legge.
 
-### art. 15
+## art. 15
 
 Allegato A-art. 15
 
 ((ARTICOLO SOPPRESSO DALLA L. 12 LUGLIO 1908, N. 427))
 
-### art. 16
+## art. 16
 
 Allegato A-art. 16
 
 ((ARTICOLO SOPPRESSO DALLA L. 12 LUGLIO 1908, N. 427))
 
-### Art. 17
+## Art. 17
 
 I nuovi arruolati, prima di entrare definitivamente in servizio, ricevono l'insegnamento regolamentare e militare presso la legione allievi.
 
@@ -362,13 +362,13 @@ La durata del periodo d'istruzione e', per regola, di sei mesi. Per gli arruolat
 
 I depositi d'istruzione esistenti fuori della sede della legione allievi, nei riguardi del contingente, s'intendono aggregati alla legione stessa e dipendono per ogni effetto dall'ufficiale superiore che la comanda.
 
-### Art. 18
+## Art. 18
 
 ((Pel matrimonio degli ufficiali della R. guardia di finanza si applicano le norme stabilite pel R. esercito (arma dei carabinieri Reali).
 
 Pel matrimonio dei sottufficiali, appuntati e guardie si applicano le disposizioni in vigore pei militari di truppa del R. esercito, con le varianti e nei limiti che saranno stabiliti dal regolamento)).
 
-### Art. 19
+## Art. 19
 
 ((Gl'individui appartenenti al corpo della R. guardia di finanza sono sottoposti, anche in tempo di pace, alla giurisdizione militare per qualunque reato preveduto dal Codice penale militare.
 
@@ -390,67 +390,67 @@ AGGIORNAMENTO (3)
 
 La L. 5 giugno 1913, n. 550 ha disposto (con l'art. 3, comma 1) che l'applicazione della presente legge ha luogo a partire dal 1° luglio 1913 e che l'aumento e la sistemazione del contingente si effettueranno gradatamente in tre anni, di maniera che la maggiore spesa gravi per un terzo sull'esercizio finanziario 1913-914, per due terzi sul 1914-915 e per la totalita' sul 1915-916.
 
-### art. 20
+## art. 20
 
 Allegato A-art. 20
 
 ((ARTICOLO SOPPRESSO DALLA L. 12 LUGLIO 1908, N. 427))
 
-### art. 21
+## art. 21
 
 Allegato A-art. 21
 
 ((ARTICOLO SOPPRESSO DALLA L. 12 LUGLIO 1908, N. 427))
 
-### art. 22
+## art. 22
 
 Allegato A-art. 22
 
 ((ARTICOLO SOPPRESSO DALLA L. 12 LUGLIO 1908, N. 427))
 
-### art. 23
+## art. 23
 
 Allegato A-art. 23
 
 ((ARTICOLO SOPPRESSO DALLA L. 12 LUGLIO 1908, N. 427))
 
-### art. 24
+## art. 24
 
 Allegato A-art. 24
 
 ((ARTICOLO SOPPRESSO DALLA L. 12 LUGLIO 1908, N. 427))
 
-### art. 25
+## art. 25
 
 Allegato A-art. 25
 
 ((ARTICOLO SOPPRESSO DALLA L. 12 LUGLIO 1908, N. 427))
 
-### art. 26
+## art. 26
 
 Allegato A-art. 26
 
 ((ARTICOLO SOPPRESSO DALLA L. 5 GIUGNO 1913, N. 550))
 
-### art. 27
+## art. 27
 
 Allegato A-art. 27
 
 ((ARTICOLO SOPPRESSO DALLA L. 5 GIUGNO 1913, N. 550))
 
-### art. 28
+## art. 28
 
 Allegato A-art. 28
 
 ((ARTICOLO SOPPRESSO DALLA L. 5 GIUGNO 1913, N. 550))
 
-### art. 29
+## art. 29
 
 Allegato A-art. 29
 
 ((ARTICOLO SOPPRESSO DALLA L. 5 GIUGNO 1913, N. 550))
 
-### Art. 30
+## Art. 30
 
 Le guardie di finanze che commettano contrabbando o colludano con estranei per frodare la finanza, ovvero sottraggano o distraggano a danno dell'Amministrazione, del Corpo o degli individui che lo compongono, valori o generi, di cui esse abbiano, per ragioni del loro ufficio, la custodia, l'esazione o l'amministrazione, soggiacciono alle pene stabilite nella prima parte dell'art. 188, e, secondo il valore del danno, nell'art. 207 del Codice penale per l'esercito, ferme le pene pecuniarie inflitte dalle leggi speciali.
 
@@ -458,19 +458,19 @@ E' applicabile la pena comminata dall'art. 191 dello stesso Codice alla guardia 
 
 Sono dichiarate applicabili le pene comminate dagli articoli 200 e 202 dello stesso Codice alla guardia che abbia ricevuto donativi e rimunerazioni per fare un atto, sebbene giusto, del proprio ufficio, ed a chi siasi lasciato corrompere, per trarre in inganno il Consiglio o la Commissione di disciplina, sia a favore, sia a danno di un imputato, nei casi in cui la pena da infliggere sia l'espulsione o la destituzione.
 
-### art. 31
+## art. 31
 
 Allegato A-art. 31
 
 ((ARTICOLO SOPPRESSO DALLA L. 5 GIUGNO 1913, N. 550))
 
-### art. 32
+## art. 32
 
 Allegato A-art. 32
 
 ((ARTICOLO SOPPRESSO DALLA L. 5 GIUGNO 1913, N. 550))
 
-### Art. 33
+## Art. 33
 
 ((Allorquando debbano essere giudicate guardie di finanza di qualsiasi grado)), uno dei giudici del tribunale militare deve appartenere al Corpo della guardia di finanza, osservate le stesse norme e condizioni che la legge stabilisce pei giudici militari.
 
@@ -490,17 +490,17 @@ AGGIORNAMENTO (3)
 
 La L. 5 giugno 1913, n. 550 ha disposto (con l'art. 3, comma 1) che l'applicazione della presente legge ha luogo a partire dal 1° luglio 1913 e che l'aumento e la sistemazione del contingente si effettueranno gradatamente in tre anni, di maniera che la maggiore spesa gravi per un terzo sull'esercizio finanziario 1913-914, per due terzi sul 1914-915 e per la totalita' sul 1915-916.
 
-### art. 34
+## art. 34
 
 Allegato A-art. 34
 
 ((ARTICOLO SOPPRESSO DALLA L. 5 GIUGNO 1913, N. 550))
 
-### Art. 35
+## Art. 35
 
 Le onorificenze, le rimunerazioni, i diritti a pensione che possono competere alle guardie di finanza ed alle loro famiglie per ferite o per morte, riportate in servizio, saranno regolate con norme conformi a quelle vigenti per l'esercito.
 
-### Art. 36
+## Art. 36
 
 ((I soldi, i soprassoldi o gli altri assegni nonche' la pensione degli ufficiali e del personale di truppa sona determinati dalle tabelle annesse alla presente legge.
 
@@ -530,19 +530,19 @@ AGGIORNAMENTO (1)
 
 La L. 12 luglio 1908, n. 427 ha disposto (con l'art. 3, comma 1) che l'applicazione della presente legge ha luogo a partire dal 1° luglio 1908.
 
-### art. 36-bis
+## art. 36-bis
 
 Allegato A-art. 36-bis
 
 ((ARTICOLO SOPPRESSO DALLA L. 5 GIUGNO 1913, N. 550))
 
-### art. 36-ter
+## art. 36-ter
 
 Allegato A-art. 36-ter
 
 ((ARTICOLO SOPPRESSO DALLA L. 5 GIUGNO 1913, N. 550))
 
-### Art. 36-quater
+## Art. 36-quater
 
 ((Il Governo e' autorizzato ad incorporare nella guardia di finanza, con norme speciali, in qualita' di sottufficiali, appuntati o guardie, il contingente dei macchinisti, elettricisti e fuochisti eventualmente necessari pei servizi di vigilanza finanziaria; stabilendo i ruoli relativi e gli assegni di soldo e indennita' di servizio con decreto Reale, osservate le disposizioni dell'art. 3 della legge 11 luglio 1904, n. 372.
 
@@ -560,7 +560,7 @@ AGGIORNAMENTO (1)
 
 La L. 12 luglio 1908, n. 427 ha disposto (con l'art. 3, comma 1) che l'applicazione della presente legge ha luogo a partire dal 1° luglio 1908.
 
-### Art. 37
+## Art. 37
 
 Saranno devoluti ai sottufficiali della guardia di finanza presenti al Corpo ed aventi piu' di 15 anni di servizio; oppure resi inabili al servizio attivo per ferite o malattie riportate nell'adempimento del loro mandato, anche se per questo motivo abbiano gia' cessato di far parte del Corpo:
 
@@ -590,15 +590,15 @@ AGGIORNAMENTO (3)
 
 La L. 9 luglio 1911, n. 675 ha disposto (con l'art. 8, comma 4) che "Sono abrogate le disposizioni contenute nell'art. 37, lettera E) della legge 19 luglio 1906, n. 367, in quanto siano contrarie a quelle del presente articolo".
 
-### Art. 38
+## Art. 38
 
 Gli ufficiali della guardia di finanza e i marescialli comandanti di sezione rivestono la qualita' di ufficiali di polizia giudiziaria, a sensi dell'articolo 57 del Codice di procedura penale, anche agli effetti delle visite e perquisizioni domiciliari in quanto si tratti di contravvenzioni alle leggi di finanza.
 
-### Art. 39
+## Art. 39
 
 Il fondo attuale della massa del Corpo e quello che verra' successivamente formandosi sara' investito in rendita consolidata 5 per cento intestata al detto fondo, meno quella parte che il Ministero delle finanze determinera' annualmente dover rimanere in deposito infruttifero presso la tesoreria ed a conto corrente colla Direzione generale del tesoro.
 
-### Art. 40
+## Art. 40
 
 Il frutto della rendita intestata alla massa, come all'articolo precedente, sara' erogato colle norme che verranno stabilite dal regolamento.
 
@@ -612,7 +612,7 @@ c) in doti alle figlie di sottufficiali, appuntati e guardie, in occasione di ma
 
 e) in premi straordinari ad individui del corpo, che piu' si distinguono, e che siano stati fregiati di medaglie o equivalenti onorificenze dal Governo nazionale o da Governi esteri)).
 
-### Art. 41
+## Art. 41
 
 ((L'amministrazione del fondo di massa della regia guardia di finanza sara' affidata ad un Consiglio d'amministrazione, presieduto dal comandante generale del corpo, o in sua vece dal comandante in secondo, e composto di un capo divisione della Corte dei conti, di un capo divisione del Ministero del tesoro, di un capo divisione amministrativo del Ministero delle finanze di un comandante di legione, di un comandante di Circolo e di un comandante di tenenza della guardia di finanza)).
 
@@ -624,7 +624,7 @@ AGGIORNAMENTO (1)
 
 La L. 12 luglio 1908, n. 427 ha disposto (con l'art. 3, comma 1) che l'applicazione della presente legge ha luogo a partire dal 1° luglio 1908.
 
-### Art. 42
+## Art. 42
 
 Con regolamenti, da approvarsi con decreto Reale, saranno determinate le norme per il servizio, per l'arruolamento e l'armamento delle guardie di finanza, per l'istruzione degli allievi guardie e dei sottufficiali, per la divisa del corpo e i distintivi degli ufficiali e sottufficiali, per la mobilitazione e formazione di guerra, per gli esami e gli avanzamenti da darsi in base agli articoli 6 e 7, e infine per l'applicazione delle pene e per la concessione di licenze ordinarie e straordinarie.
 
@@ -632,11 +632,11 @@ Gli stessi regolamenti stabiliranno le norme pel conferimento dei posti di cui a
 
 ## Disposizioni transitorie.
 
-### Art. 43
+## Art. 43
 
 Ai tenenti e sottotenenti, i quali alla promulgazione della legge 22 dicembre 1895, n. 721, avevano prestato piu' di trent'anni di servizio, la pensione verra' liquidata in base alle norme vigenti per la pensione degl'impiegati civili.
 
-### Art. 44
+## Art. 44
 
 ((I capitani che conseguirono tale grado per effetto degli esami di concorso ai precedenti posti di sotto ispettori, conserveranno il diritto ad essere nominati maggiori a misura che vi saranno posti disponibili)).
 
@@ -648,11 +648,11 @@ AGGIORNAMENTO (1)
 
 La L. 12 luglio 1908, n. 427 ha disposto (con l'art. 3, comma 1) che l'applicazione della presente legge ha luogo a partire dal 1° luglio 1908.
 
-### Art. 45
+## Art. 45
 
 ((ARTICOLO SOPPRESSO DALLA L. 12 luglio 1908, N. 427))
 
-### Tabelle
+## Tabelle
 
 Tabella A.
 
@@ -884,7 +884,7 @@ Non sono compresi in questa tabella gli ufficiali e il personale di truppa collo
 
 Ha inoltre disposto che (con l'art. 3, comma 1) che "L'applicazione della presente legge ha luogo a partire dal 1° luglio 1913 e che l'aumento e la sistemazione del contingente si effettueranno pero' gradatamente in tre anni, di maniera che la maggiore spesa gravi per un terzo sull'esercizio finanziario 1913-914, per due terzi sul 1914-915 e per la totalita' sul 1915-916".
 
-### Allegato B
+## Allegato B
 
 Allegato B.
 

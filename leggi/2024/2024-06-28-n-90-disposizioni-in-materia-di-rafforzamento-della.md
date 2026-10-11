@@ -28,17 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I
+## Capo I - Disposizioni in materia di rafforzamento della cybersicurezza nazionale, di resilienza delle pubbliche amministrazioni e del settore finanziario, di personale e funzionamento dell'Agenzia per la cybersicurezza nazionale e degli organismi di informazione per la sicurezza nonche' di contratti pubblici di beni e servizi informatici impiegati in un contesto connesso alla tutela degli interessi nazionali strategici
 
-### Disposizioni in materia di rafforzamento della cybersicurezza - nazionale, di resilienza delle pubbliche amministrazioni e del
-
-#### settore finanziario, di personale e funzionamento dell'Agenzia per la - cybersicurezza nazionale e degli organismi di informazione per la
-
-##### sicurezza nonche' di contratti pubblici di beni e servizi informatici - impiegati in un contesto connesso alla tutela degli interessi
-
-###### nazionali strategici
-
-###### Art. 1
+### Art. 1
 
 Obblighi di notifica di incidenti
 
@@ -62,7 +54,7 @@ a) ai soggetti di cui all'articolo 3, comma 1, lettere g) e i), del decreto legi
 
 b) agli organi dello Stato preposti alla prevenzione, all'accertamento e alla repressione dei reati, alla tutela dell'ordine e della sicurezza pubblica e alla difesa e sicurezza militare dello Stato e agli organismi di informazione per la sicurezza di cui agli articoli 4, 6 e 7 della legge 3 agosto 2007, n. 124.
 
-###### Art. 2
+### Art. 2
 
 Mancato o ritardato adeguamento a segnalazioni
 
@@ -90,7 +82,7 @@ dell'Agenzia per la cybersicurezza nazionale
 
 > 4\. - 8. (omissis).».
 
-###### Art. 3
+### Art. 3
 
 Norme di raccordo con le disposizioni del decreto-legge 21 settembre 2019, n. 105, convertito, con modificazioni, dalla legge 18 novembre 2019, n. 133
 
@@ -104,7 +96,7 @@ b) dopo il quarto periodo e' inserito il seguente: «Nei casi di reiterata inoss
 
 > \- Per l'articolo 1, comma 3-bis, del citato decreto-legge 21settembre 2019, n.105, si veda nelle note all'articolo 1.
 
-###### Art. 4
+### Art. 4
 
 Disposizioni in materia di dati relativi
 
@@ -198,7 +190,7 @@ a incidenti informatici
 
 > 5\. Nel rispetto delle competenze del Garante per la protezione dei dati personali, l'Agenzia, per le finalita' di cui al presente decreto, consulta il Garante e collabora con esso, anche in relazione agli incidenti che comportano violazioni di dati personali. L'Agenzia e il Garante possono stipulare appositi protocolli d'intenti che definiscono altresi' le modalita' della loro collaborazione nell'ambito delle risorse disponibili a legislazione vigente e senza nuovi o maggiori oneri per la finanza pubblica.».
 
-###### Art. 5
+### Art. 5
 
 Disposizioni in materia di Nucleo per la cybersicurezza
 
@@ -222,7 +214,7 @@ Disposizioni in materia di Nucleo per la cybersicurezza
 
 > 4-bis. Ai componenti del Nucleo non spettano compensi, gettoni di presenza, rimborsi di spese o altri emolumenti comunque denominati.».
 
-###### Art. 6
+### Art. 6
 
 Disposizioni in materia di coordinamento operativo tra i servizi di informazione per la sicurezza e l'Agenzia per la cybersicurezza nazionale
 
@@ -250,7 +242,7 @@ Disposizioni in materia di coordinamento operativo tra i servizi di informazione
 
 > \- Per l'articolo 17, commi 4 e 4-bis, del citato decreto-legge 14 giugno 2021, n.82, si veda nelle note all'articolo 1.».
 
-###### Art. 7
+### Art. 7
 
 Composizione del Comitato interministeriale
 
@@ -276,7 +268,7 @@ b) le parole: «dello sviluppo economico e dal Ministro della transizione ecolog
 
 > 5\. Il Presidente del Consiglio dei ministri puo' chiamare a partecipare alle sedute del Comitato, anche a seguito di loro richiesta, senza diritto di voto, altri componenti del Consiglio dei ministri, i direttori dell'AISE e dell'AISI, nonche' altre autorita' civili e militari di cui di volta in volta sia ritenuta necessaria la presenza in relazione alle questioni da trattare.».
 
-###### Art. 8
+### Art. 8
 
 Rafforzamento della resilienza delle pubbliche amministrazioni e referente per la cybersicurezza
 
@@ -418,7 +410,7 @@ b) agli organi dello Stato preposti alla prevenzione, all'accertamento e alla re
 
 > \- Per gli articoli 4, 6 e 7 della citata legge 3 agosto 2007, n.124, si veda nelle note all'articolo 1.
 
-###### Art. 9
+### Art. 9
 
 Rafforzamento delle misure di sicurezza dei dati attraverso la crittografia
 
@@ -430,7 +422,7 @@ Rafforzamento delle misure di sicurezza dei dati attraverso la crittografia
 
 > \- Per il citato decreto legislativo 18 maggio 2018, n. 65, si veda nelle note all'articolo 1.
 
-###### Art. 10
+### Art. 10
 
 Funzioni dell'Agenzia per la cybersicurezza nazionale
 
@@ -444,7 +436,7 @@ in materia di crittografia
 
 > \- Per l'articolo 7, comma 1, del citato decreto-legge 14 giugno 2021, n. 82, si veda nelle note all'articolo 4.
 
-###### Art. 11
+### Art. 11
 
 Procedimento amministrativo sanzionatorio per l'accertamento e la contestazione delle violazioni in materia di cybersicurezza di competenza dell'Agenzia per la cybersicurezza nazionale
 
@@ -456,7 +448,7 @@ Procedimento amministrativo sanzionatorio per l'accertamento e la contestazione 
 
 > \- Per l'articolo 17 del citato decreto-legge 14 giugno 2021, n.82, si veda nelle note all'articolo 1.
 
-###### Art. 12
+### Art. 12
 
 Disposizioni in materia di personale dell'Agenzia
 
@@ -518,7 +510,7 @@ per la cybersicurezza nazionale
 
 > 8-ter. I dipendenti appartenenti al ruolo del personale dell'Agenzia di cui al comma 2, lettera a), che abbiano partecipato, nell'interesse e a spese dell'Agenzia, a specifici percorsi formativi di specializzazione, per la durata di due anni a decorrere dalla data di completamento dell'ultimo dei predetti percorsi formativi non possono essere assunti ne' assumere incarichi presso soggetti privati al fine di svolgere mansioni in materia di cybersicurezza. I contratti stipulati in violazione di quanto disposto dal presente comma sono nulli. Le disposizioni del presente comma non si applicano al personale cessato dal servizio presso l'Agenzia secondo quanto previsto dalle disposizioni del regolamento adottato ai sensi del presente articolo relative al collocamento a riposo d'ufficio, al raggiungimento del requisito anagrafico previsto dalla legge per la pensione di vecchiaia, alla cessazione a domanda per inabilita' o alla dispensa dal servizio per motivi di salute. I percorsi formativi di specializzazione di cui al presente comma sono individuati con determinazione del direttore generale dell'Agenzia, tenendo conto della particolare qualita' dell'offerta formativa, dei costi, della durata e del livello di specializzazione che consegue alla frequenza dei suddetti percorsi.».
 
-###### Art. 13
+### Art. 13
 
 Disposizioni in materia di personale degli organismi
 
@@ -610,7 +602,7 @@ di informazione per la sicurezza
 
 > La licenza non puo' essere conceduta per operazioni che importano un esercizio di pubbliche funzioni o una menomazione della liberta' individuale.».
 
-###### Art. 14
+### Art. 14
 
 Disciplina dei contratti pubblici di beni e servizi informatici impiegati in un contesto connesso alla tutela degli interessi nazionali strategici e disposizioni di raccordo con il decreto-legge 21 settembre 2019, n. 105, convertito, con modificazioni, dalla legge 18 novembre 2019, n. 133
 
@@ -680,7 +672,7 @@ e) prevedono criteri di premialita' per le proposte o per le offerte che contemp
 
 > \- Per l'articolo 1 del citato decreto-legge 21settembre 2019, n.105, si veda nelle note all'articolo 1.
 
-###### Art. 15
+### Art. 15
 
 Modifica all'articolo 16 della legge 21 febbraio 2024, n. 15
 
@@ -724,19 +716,15 @@ Modifica all'articolo 16 della legge 21 febbraio 2024, n. 15
 
 > 3\. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni competenti provvedono all'adempimento dei compiti derivanti dall'esercizio della delega di cui al presente articolo con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.».
 
-###### Art. 15-bis
+### Art. 15-bis
 
 (( (Disposizioni di coordinamento).))
 
 1\. ((Ogni riferimento al decreto legislativo 18 maggio 2018, n. 65, e' da intendersi alle corrispondenti disposizioni di cui al decreto legislativo 4 settembre 2024, n. 138, a decorrere dalla data in cui le stesse acquistano efficacia)).
 
-## Capo II
+## Capo II - Disposizioni per la prevenzione e il contrasto dei reati informatici nonche' in materia di coordinamento degli interventi in caso di attacchi a sistemi informatici o telematici e di sicurezza delle banche di dati in uso presso gli uffici giudiziari
 
-### Disposizioni per la prevenzione e il contrasto dei reati informatici - nonche' in materia di coordinamento degli interventi in caso di
-
-#### attacchi a sistemi informatici o telematici e di sicurezza delle - banche di dati in uso presso gli uffici giudiziari
-
-###### Art. 16
+### Art. 16
 
 Modifiche al codice penale
 
@@ -1034,7 +1022,7 @@ u) all'articolo 640-quater, le parole: «numero 1» sono sostituite dalle seguen
 
 > \- Il Capo III-bis, Titolo XII, Libro II, come modificato dalla presente legge, reca: «DISPOSIZIONI COMUNI».
 
-###### Art. 17
+### Art. 17
 
 Modifiche al codice di procedura penale
 
@@ -1134,7 +1122,7 @@ c) all'articolo 407, comma 2, lettera a), dopo il numero 7-bis) e' aggiunto il s
 
 > 3-bis.».
 
-###### Art. 18
+### Art. 18
 
 Modifiche al decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82
 
@@ -1198,7 +1186,7 @@ c) all'articolo 16-nonies, comma 1, dopo le parole: «51, comma 3-bis,» sono in
 
 > 8-bis. Le disposizioni del presente articolo si applicano in quanto compatibili anche nei confronti delle persone condannate per uno dei delitti previsti dal libro II, titolo XII, capo III, sezione I, del codice penale che abbiano prestato, anche dopo la condanna, condotte di collaborazione aventi i requisiti previsti dall'articolo 9, comma 3.».
 
-###### Art. 19
+### Art. 19
 
 Modifica al decreto-legge 13 maggio 1991, n. 152, convertito, con modificazioni, dalla legge 12 luglio 1991, n. 203
 
@@ -1220,7 +1208,7 @@ Modifica al decreto-legge 13 maggio 1991, n. 152, convertito, con modificazioni,
 
 > 3-bis. Le disposizioni dei commi 1, 2 e 3 si applicano anche quando si procede in relazione a taluno dei delitti, consumati o tentati, previsti dall'articolo 371-bis, comma 4-bis, del codice di procedura penale.».
 
-###### Art. 20
+### Art. 20
 
 Modifiche al decreto legislativo 8 giugno 2001, n. 231
 
@@ -1250,7 +1238,7 @@ d) al comma 4, dopo il primo periodo e' inserito il seguente: «Nei casi di cond
 
 > 4\. Nei casi di condanna per uno dei delitti indicati nel comma 1 si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, lettere a), b) ed e). Nei casi di condanna per il delitto indicato nel comma 1-bis si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, per una durata non inferiore a due anni. Nei casi di condanna per uno dei delitti indicati nel comma 2 si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, lettere b) ed e). Nei casi di condanna per uno dei delitti indicati nel comma 3 si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, lettere c), d) ed e).».
 
-###### Art. 21
+### Art. 21
 
 Modifica alla legge 11 gennaio 2018, n. 6
 
@@ -1266,7 +1254,7 @@ Modifica alla legge 11 gennaio 2018, n. 6
 
 > 3\. Nel caso in cui la proposta di cui al comma 1 riguardi soggetti di minore eta' in condizioni di disagio familiare o sociale, essa e' altresi' trasmessa al tribunale per i minorenni territorialmente competente per l'adozione di eventuali determinazioni di sua competenza.».
 
-###### Art. 22
+### Art. 22
 
 Modifiche al decreto-legge 14 giugno 2021, n. 82, convertito, con modificazioni, dalla legge 4 agosto 2021, n. 109
 
@@ -1290,7 +1278,7 @@ b) dopo il comma 4-bis sono inseriti i seguenti:
 
 > \- Per l'articolo 17 del citato decreto-legge 14 giugno 2021, n. 82, si veda nelle note all'articolo 1.
 
-###### Art. 23
+### Art. 23
 
 Modifiche all'articolo 7 della legge 12 agosto 1962, n. 1311
 
@@ -1310,7 +1298,7 @@ b) al terzo comma, le parole: «degli stessi nonche'» sono sostituite dalle seg
 
 > Il Ministro puo' in ogni tempo, quando lo ritenga opportuno, disporre ispezioni negli uffici giudiziari.Il Ministro puo' altresi' disporre ispezioni parziali negli uffici giudiziari, al fine di accertare la produttivita' degli stessi, l'entita' e la tempestivita' del lavoro di singoli magistrati nonche' il rispetto delle prescrizioni di sicurezza negli accessi alle banche di dati in uso presso gli uffici giudiziari».
 
-###### Art. 24
+### Art. 24
 
 Disposizioni finanziarie
 

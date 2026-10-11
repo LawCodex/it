@@ -28,7 +28,7 @@ la seguente legge:
 
 ## CAPO I - DISPOSIZIONI GENERALI
 
-#### Art. 1
+### Art. 1
 
 Indennizzi e contributi per danni di guerra
 
@@ -40,7 +40,7 @@ Per i danni verificatisi in territorio estero, l'indennizzo o il contributo sono
 
 Per i danni ai cavi sottomarini di telecomunicazioni, alle navi, ai galleggianti ed ai relativi carichi ammessi ai benefici della presente legge, questi sono concessi qualunque sia la localita' in cui i danni si sono verificati.
 
-#### Art. 2
+### Art. 2
 
 Rinvio a speciali disposizioni
 
@@ -52,7 +52,7 @@ b) alle opere, impianti e materiali previsti dalla legge 14 giugno 1949, n. 410,
 
 c) ai bagagli, per i quali provvedono il regio decreto-legge 19 maggio 1941, n. 583, ed il regio decreto 3 ottobre 1941, n. 1233, nonche' al corredo, agli strumenti scientifici e agli utensili degli equipaggi delle navi mercantili per i quali provvedono i contratti collettivi di arruolamento.
 
-#### Art. 3
+### Art. 3
 
 Fatto di guerra
 
@@ -68,7 +68,7 @@ Sono equiparate alle forze armate le formazioni volontarie regolari o irregolari
 
 Per i territori dell'Africa gia' sottoposti alla sovranita' italiana, si considerano fatti di guerra anche quelli prodotti da operazioni per la tutela dell'ordine pubblico e della sicurezza interna previsti dall'art. 2 del regio decreto 14 giugno 1941, n. 964, modificato dal regio decreto 22 febbraio 1943, n. 250.
 
-#### Art. 4
+### Art. 4
 
 Beni ammessi alle provvidenze della legge
 
@@ -84,7 +84,7 @@ d) fabbricati diversi da quelli indicati nelle lettere
 
 precedenti.
 
-#### Art. 5
+### Art. 5
 
 Beni esclusi dalle provvidenze della legge
 
@@ -102,7 +102,7 @@ e) castelli, ville, riserve di caccia, parchi ed altri immobili destinati esclus
 
 f) tombe, cappelle, edicole ed altri monumenti sepolcrali, ad eccezione di quelli appartenenti a confraternite aventi scopo funerario.
 
-#### Art. 6
+### Art. 6
 
 Trasferimento dell'indennizzo e del contributo
 
@@ -114,7 +114,7 @@ Qualora, in relazione all'attuazione dei piani di ricostruzione, anche se in cor
 
 Nei casi di trasferimento di proprieta' o cessione, di cui ai precedenti commi, l'indennizzo o il contributo da corrispondere al cessionario e' determinato miella stessa misura di quello spettante al cedente, salvo che al cessionario non ne competa uno minore.
 
-#### Art. 7
+### Art. 7
 
 Denuncie del danno
 
@@ -142,7 +142,7 @@ AGGIORNAMENTO (6)
 
 La L. 29 settembre 1967, n. 957 ha disposto (con l'art. 4) che "In parziale deroga al quarto comma dell'articolo 7 della legge 27 dicembre 1953, n. 968, entro il termine di 360 giorni dall'entrata in vigore della presente legge gli interessati, a favore dei quali non sia stato ancora emesso decreto di liquidazione dell'indennizzo, possono, ove intendano provvedere al ripristino del bene, dichiarare alla competente intendenza di finanza di voler optare per il contributo."
 
-#### Art. 8
+### Art. 8
 
 Comproprieta' per quote indivise
 
@@ -158,7 +158,7 @@ AGGIORNAMENTO (5)
 
 La L. 13 luglio 1966, n. 610 ha disposto (con l'art. 9) che "A modifica [. . .] del secondo comma dell'articolo 8 della legge 27 dicembre 1953, n. 968, ove gli altri comproprietari non avanzino domanda di ripristino entro tre mesi dall'entrata in vigore della presente legge, il comproprietario che intende procedere al ripristino puo', nell'interesse ed in nome della comproprieta', presentare domanda, notificandola altresi' agli altri comproprietari, eseguire i lavori e riscuotere il contributo, impegnare la comproprieta' stessa nei confronti dell'Istituto nazionale per il finanziamento della ricostruzione e dell'ISES e di ogni altro Ente finanziario per l'assunzione di mutui ipotecari e per lo sconto delle annualita' di contributo statale. Lo Stato resta estraneo ai rapporti fra i comproprietari."
 
-#### Art. 9
+### Art. 9
 
 Surroga nella presentazione della denuncia
 
@@ -168,7 +168,7 @@ A tale scopo la denuncia deve essere presentata, a pena di decadenza, entro 180 
 
 ((Sono valide, ai fini della presente legge, le istanze presentate in surroga, nei termini, da enti di rappresentanza o tutela dei danneggiati, giuridicamente riconosciuti al momento dell'entrata in vigore della presente legge.))
 
-#### Art. 10
+### Art. 10
 
 Prova della proprieta' dei Beni
 
@@ -184,7 +184,7 @@ Nell'atto dimostrativo della proprieta' e del possesso devono risultare la data 
 
 Lo Stato resta estraneo ad ogni controversia che possa insorgere tra chi ha ottenuto i benefici della presente legge e le persone che vantino diritti sull'immobile riparato o ricostruito.
 
-#### Art. 11
+### Art. 11
 
 Denuncia di provvidenze ottenute - Detrazioni
 
@@ -196,7 +196,7 @@ Dall'indennizzo o dal contributo concesso dalla presente legge vanno detratte le
 
 Ove il danneggiato abbia usufruito, a causa dei danni di guerra, di finanziamenti a tasso di favore, con garanzia statale o con contributi statali, la minor somma pagata rispetto all'interesse legale corrente sara' computata ai fini della detrazione di cui al presente articolo.
 
-#### Art. 12
+### Art. 12
 
 Obbligo di comunicazione da parte delle pubbliche amministrazioni delle provvidenze concesse
 
@@ -204,19 +204,19 @@ Le pubbliche amministrazioni, gli enti e gli istituti sovvenzionati dallo Stato 
 
 Parimenti gli Uffici delle imposte dirette debbono comunicare alle Intendenze di finanza per ogni contribuente le somme ammesse in detrazione quali perdite per danni di guerra, ai sensi del regio decreto legislativo 27 maggio 1946, n. 436, sulla avocazione dei profitti di guerra e dei profitti eccezionali di speculazione e del testo unico 9 maggio 1950, n. 203.
 
-#### Art. 13
+### Art. 13
 
 Decadenze
 
 Nessun indennizzo o contributo e' corrisposto in caso di denuncie o dichiarazioni false o scientemente inesatte, o di omissione delle dichiarazioni previste dall'art. 11.
 
-#### Art. 14
+### Art. 14
 
 Liquidazioni gia' effettuate
 
 Le liquidazioni definitive seguite in base agli articoli 15, 16, 17 e 18 della legge 26 ottobre 1940, n. 1513, non sono suscettive di revisione.
 
-#### Art. 15
+### Art. 15
 
 Accertamento dei danni
 
@@ -228,7 +228,7 @@ Per quelli ai beni affidati per trasporto alle Ferrovie e non giunti a destinazi
 
 Per i danni ai beni indicati nel secondo comma del presente articolo, che erano iscritti in uffici siti in territori non piu' sottoposti alla sovranita' dello Stato italiano o per i quali non sia possibile accertare il luogo d'iscrizione, per i danni ai cavi sottomarini di telecomunicazioni e per i danni subiti dai cittadini fuori dell'attuale territorio dello Stato provvede il Ministero del tesoro.
 
-#### Art. 16
+### Art. 16
 
 Danni ai beni d'uso domestico
 
@@ -240,7 +240,7 @@ Il decreto dell'intendente e' comunicato all'interessato a mezzo dell'autorita' 
 
 ((Avverso il decreto dell'intendente e' ammesso, entro il termine di 30 giorni dalla data di comunicazione, ricorso al Ministro per il tesoro, il quale provveda definitivamente sentita, ove lo ritenga, la Commissione centrale di cui all'articolo 20 della presente legge.))
 
-#### Art. 17
+### Art. 17
 
 Danni ad altri beni - Istruttorie
 
@@ -260,7 +260,7 @@ AGGIORNAMENTO (7)
 
 La L. 29 settembre 1967, n. 955, come modificata dalla L. 22 ottobre 1981, n. 593, ha disposto (con l'art. 11) che gli importi indicati nell'ultimo comma del presente articolo sono elevati a L. 200.000 per l'indennizzo e a L. 40.000 per il contributo.
 
-#### Art. 18
+### Art. 18
 
 Danni verificatisi fuori del territorio dello Stato
 
@@ -286,7 +286,7 @@ AGGIORNAMENTO (7)
 
 La L. 29 settembre 1967, n. 955, come modificata dalla L. 22 ottobre 1981, n. 593, ha disposto (con l'art. 11) che gli importi indicati nell'ultimo comma del presente articolo sono elevati a L. 200.000 per l'indennizzo e a L. 40.000 per il contributo.
 
-#### Art. 19
+### Art. 19
 
 Commissioni provinciali per i danni di guerra
 
@@ -312,7 +312,7 @@ AGGIORNAMENTO (6)
 
 la L. 29 settembre 1967, n. 955 ha disposto (con l'art. 14, comma 1) che " I componenti delle Commissioni di cui agli articoli 19, 20 e 21 della legge 27 dicembre 1953, n. 968, e del Comitato consultivo di cui all'articolo 7 della legge 9 gennaio 1951, n. 10, restano in carica per la durata di un triennio e possono essere riconfermati."
 
-#### Art. 20
+### Art. 20
 
 Commissione centrale per i danni di guerra
 
@@ -348,7 +348,7 @@ AGGIORNAMENTO (6)
 
 la L. 29 settembre 1967, n. 955 ha disposto (con l'art. 14, comma 1) che " I componenti delle Commissioni di cui agli articoli 19, 20 e 21 della legge 27 dicembre 1953, n. 968, e del Comitato consultivo di cui all'articolo 7 della legge 9 gennaio 1951, n. 10, restano in carica per la durata di un triennio e possono essere riconfermati."
 
-#### Art. 21
+### Art. 21
 
 Commissione speciale per i danni di guerra verificatisi fuori del
 
@@ -372,7 +372,7 @@ AGGIORNAMENTO (6)
 
 la L. 29 settembre 1967, n. 955 ha disposto (con l'art. 14, comma 1) che " I componenti delle Commissioni di cui agli articoli 19, 20 e 21 della legge 27 dicembre 1953, n. 968, e del Comitato consultivo di cui all'articolo 7 della legge 9 gennaio 1951, n. 10, restano in carica per la durata di un triennio e possono essere riconfermati."
 
-#### Art. 22
+### Art. 22
 
 Presentazione di documenti e memorie
 
@@ -382,13 +382,13 @@ Gli interessati possono presentare agli uffici competenti e alle Commissioni di 
 
 L'Amministrazione non puo' discostarsi dal parere delle Commissioni senza indicarne le ragioni.
 
-#### Art. 23
+### Art. 23
 
 Forme della concessione
 
 Al danneggiato e' concesso un indennizzo senza obbligo di ripristino del bene danneggiato o distrutto, o un contributo per il ripristino di esso.
 
-#### Art. 24
+### Art. 24
 
 Distinzione dei beni ammessi all'indennizzo o al contributo
 
@@ -396,7 +396,7 @@ Per i danni ai beni indicati nella lettera a) dell'articolo 4, nonche' per le me
 
 Per tutti gli altri danni e' ammesso l'indennizzo o il contributo, a scelta dell'interessato.
 
-#### Art. 25
+### Art. 25
 
 Base di commisurazione dell'indennizzo
 
@@ -414,13 +414,13 @@ AGGIORNAMENTO (6)
 
 La L. 29 settembre 1967, n. 955 ha disposto (con l'art. 25, comma 2) che " La locuzione "prezzi vigenti al 30 giugno 1943", di cui al primo comma dell'articolo 25 e al primo comma dell'articolo 51 della legge 27 dicembre 1953, n. 968, deve intendersi nel senso di "prezzi vigenti in Italia al 30 giugno 1943"."
 
-#### Art. 26
+### Art. 26
 
 Limiti dell'indennizzo per determinati beni
 
 Per i danni ai beni indicati alla lettera a) dell'art. 4, l'indennizzo e' corrisposto fino all'ammontare di un milione di lire.
 
-#### Art. 27
+### Art. 27
 
 Base di commisurazione del contributo
 
@@ -440,7 +440,7 @@ c) l'importo risultante si moltiplica per il rapporto esistente fra i prezzi al 
 
 Sulla spesa, cosi' determinata e' concesso il contributo del 50 per cento.
 
-#### Art. 28
+### Art. 28
 
 Limiti dell'indennizzo e del contributo per tutti gli altri beni
 
@@ -450,7 +450,7 @@ Nessun indennizzo e' concesso per le ulteriori quote eccedenti le lire 20 milion
 
 Sempre per i danni ai beni previsti al comma precedente, qualora l'ammontare della spesa di ripristino, riparazione o ricostruzione relativa ad ogni singolo cespite, valutata ai sensi della presente legge, superi le lire 50 milioni, sulle ulteriori quote eccedenti le lire 50 milioni. 100 milioni, 150 milioni, il contributo e' ridotto rispettivamente a meta', ad un terzo, ad un quarto. Nessun contributo e' concesso per ulteriori quote eccedenti le lire 200 milioni.
 
-#### Art. 29
+### Art. 29
 
 Disposizioni a favore delle aziende del Mezzogiorno
 
@@ -464,7 +464,7 @@ Le maggiorazioni stabilite dai precedenti commi si applicano anche all'indennizz
 
 Le maggiorazioni medesime si applicano anche quando, con esse si superino i limiti delle quote di indennizzo o di contributo stabiliti dalla presente legge e delle stesse non si tiene conto agli effetti del calcolo della ripartizione delle quote stabilite dal precedente articolo.
 
-#### Art. 30
+### Art. 30
 
 Modi e termini del ripristino
 
@@ -480,7 +480,7 @@ Se il ripristino non e' effettuato nei termini stabiliti, le somme versate a tit
 
 Avverso i provvedimenti dell'Intendente di finanza, emessi nei casi di cui ai commi precedenti, e' ammesso, entro 10 giorni dalla comunicazione, ricorso al Ministro per il tesoro, che decide definitivamente.
 
-#### Art. 31
+### Art. 31
 
 Modalita' di pagamento
 
@@ -506,7 +506,7 @@ b) la seconda, dopo scaduto il semestre dell'esercizio nel corso del quale e' st
 
 c) le ulteriori, alle successive scadenze del 30 aprile e 31 ottobre o del 31 marzo e 30 settembre di ogni anno a seconda dei casi di cui alla precedente lettera b)."
 
-#### Art. 32
+### Art. 32
 
 Liquidazione e pagamento dell'indennizzo e del contributo
 
@@ -516,13 +516,13 @@ Sono ammesse liquidazioni parziali, in corso d'opera, in base a stati di avanzam
 
 Gli indennizzi e i contributi rateali e quelli in annualita' sono liquidati e pagati dall'Intendenza.
 
-#### Art. 33
+### Art. 33
 
 Impignorabilita' ed insequestrabilita' del contributo
 
 I contributi nelle spese di ripristino previsti dalla presente legge possono essere pignorati o sequestrati esclusivamente per credito alimentare.
 
-#### Art. 34
+### Art. 34
 
 Prescrizioni del contributo o dell'indennizzo concesso
 
@@ -530,7 +530,7 @@ I contributi e gli indennizzi non riscossi entro tre anni dalla data di comunica
 
 Sono parimenti prescritte le semestralita' di contributo o di indennizzo e le annualita' di contributo non riscosse entro tre anni dalla scadenza.
 
-#### Art. 35
+### Art. 35
 
 Pagamenti gia effettuati
 
@@ -542,11 +542,9 @@ Nel caso di reclamo, le Intendenze provvederanno a rimuovere liquidazione nei mo
 
 Analogamente sara' provveduto dai competenti uffici per le liquidazioni effettuate per i danni verificatisi nel Territorio Libero di Trieste, nei territori gia' sottoposti alla sovranita' italiana, in Albania ed all'estero.
 
-## CAPO II - DISPOSIZIONI PARTICOLARI
+## CAPO II - DISPOSIZIONI PARTICOLARI A SINGOLE CATEGORIE DI BENI
 
-### A SINGOLE CATEGORIE DI BENI
-
-#### Art. 36
+### Art. 36
 
 Attrezzature e dotazioni di bordo
 
@@ -556,7 +554,7 @@ La prova della proprieta' dei beni indicati nel comma precedente puo' essere for
 
 Tuttavia, per le navi ed i galleggianti iscritti in uffici di territori non piu' sottoposti alla sovranita' dello Stato italiano e per le loro dotazioni di scorta site in detti territori, la dichiarazione giurata puo' essere resa al pretore ed al notaio dall'interessato e da quattro cittadini italiani.
 
-#### Art. 37
+### Art. 37
 
 Beni relativi ad attivita' industriale, commerciale, artigiana, professionale ed intellettuale
 
@@ -580,7 +578,7 @@ Le provvidenze previste per le aziende industriali si applicano anche alle azien
 
 L'indennizzo e' concesso con le modalita' e nei limiti previsti dalla legge 27 dicembre 1953, n. 968.))
 
-#### Art. 38
+### Art. 38
 
 Beni relativi ad attivita' agricole
 
@@ -610,21 +608,21 @@ Gli effetti del ricorso sono limitati alla quota del ricorrente.
 
 Le detrazioni di cui all'articolo 11 della presente legge vengono effettuate solo sulla quota di spettanza del rispettivo beneficiario.))
 
-#### Art. 39
+### Art. 39
 
 ((ARTICOLO ABROGATO DALLA L. 13 LUGLIO 1966, N. 610))
 
-#### Art. 40
+### Art. 40
 
 ((ARTICOLO ABROGATO DALLA L. 13 LUGLIO 1966, N. 610))
 
-#### Art. 41
+### Art. 41
 
 Rimborso delle spese di riparazioni eseguite dallo Stato dell'unica casa dei danneggiati meno abbienti
 
 Per i danneggiati che si trovino nelle condizioni patrimoniali e di reddito, di cui alla lettera, a) del n. 1 dell'art. 39, il rimborso della spesa di riparazione ancora dovuto o che sara' dovuto ai termini dell'art. 40 del decreto legislativo 10 aprile 1947, n. 261, sempre quando si tratti dell'unica casa del danneggiato, destinata ad abitazione propria e della propria, famiglia, e' limitato ad un terzo dell'importo risultante dagli atti di contabilita' finale:
 
-#### Art. 42
+### Art. 42
 
 Contributo per la ricostruzione di abitazioni
 
@@ -632,7 +630,7 @@ Ove i danneggiati provvedano alla ricostruzione dei fabbricati distrutti destina
 
 Tale contributo A elevato al 5 per cento per fabbricati dai ricostruire ne; Comuni nei quali si sia verificata una distruzione superiore al 75 per cento dei vani destinati ad abitazione preesistenti agli eventi bellici.
 
-#### Art. 43
+### Art. 43
 
 Casi di contributo maggiorato per la ricostruzione di abitazioni
 
@@ -648,13 +646,13 @@ AGGIORNAMENTO (2)
 
 La L. 11 febbraio 1958, n. 83 ha disposto (con l'art. 1, comma 1) che "L'importo di lire 1.200.000 per ogni unita' immobiliare, previsto dal primo comma dell'art. 43 e dal primo comma dell'art. 45 della legge 27 dicembre 1953, n. 968, viene portato a lire 1.800.000."
 
-#### Art. 44
+### Art. 44
 
 Parte dei fabbricati non destinata ad abitazione
 
 Ai dei due articoli precedenti verra' considerata ammissibile al contributo anche la parte del fabbricato non adibita ad uso di abitazione nella misura massima del per cento del volume complessivo del fabbricato.
 
-#### Art. 45
+### Art. 45
 
 Ricostruzione di una sola unita' immobiliare di abitazione
 
@@ -674,13 +672,13 @@ AGGIORNAMENTO (5)
 
 La L. 13 luglio 1966, n. 610 ha disposto (con l'art. 8, comma 1) che " Nei casi previsti [. . .] dall'articolo 45 della legge 27 dicembre 1953, n. 968, la maggiorazione di cui all'articolo 50 della predetta legge n. 968 ed all'articolo 1 della legge 11 febbraio 1958, n. 83, e' stabilita nella misura del 5 per cento della spesa ammissibile a contributo."
 
-#### Art. 46
+### Art. 46
 
 Ricostruzione dei fabbricati nelle zone sismiche
 
 Per i fabbricati da ricostruire in Comuni nei quali e' obbligatoria l'osservanza delle norme tecniche ed igieniche di edilizia per le zone sismiche di prima e di seconda categoria, i contributi determinati in applicazione degli articoli 42, 43, 44 e 45 sono aumentati rispettivamente del 25 e del 20 per cento, sempre che il fabbricato preesistente non fosse gia' stato costruito secondo le predette norme.
 
-#### Art. 47
+### Art. 47
 
 Condominio per quote divise
 
@@ -690,19 +688,19 @@ Tuttavia, nella ipotesi di cui al precedente comma, anche uno solo dei condomini
 
 Nel caso di ricostruzione, qualora questa, in base all'art. 3 della legge 25 giugno 1949, n. 409, non possa essere effettuata in sito, ciascun proprietario o i suoi aventi causa possono presentare la domanda di contributo per la ricostruzione in altra area nell'ambito territoriale dello stesso Comune della parte di fabbricato o del piano di propria pertinenza, comprensivo della quota parte delle cose comuni costituenti proprieta' coattiva. Nei casi di cui ai precedenti commi, lo Stato resta estraneo ai rapporti tra i condomini.
 
-#### Art. 48
+### Art. 48
 
 Danni a fabbricati non espressamente considerati
 
 Per la riparazione e la ricostruzione di fabbricati, non considerati espressamente in altre disposizioni della presente legge, il contributo e' concesso nella misura del 40 per cento della base di commisurazione del contributo determinata a norma delle lettere a), b) e c) dell'art. 27.
 
-#### Art. 49
+### Art. 49
 
 Fabbricati gia' adibiti ad albergo e ricostruiti per abitazioni
 
 Le norme degli articoli 39, 42 e 46 si applicano anche ai fabbricati, gia' adibiti ad uso di albergo, danneggiati o distrutti per fatto di guerra e ricostruiti ad uso di civile abitazione, a seguito di provvedimento di svincolo alberghiero.
 
-#### Art. 50
+### Art. 50
 
 Consorzi edili
 
@@ -716,7 +714,7 @@ Nel caso di costituzione di consorzi, le percentuali di contributo previste dall
 
 Le stesse agevolazioni sono concesse alle societa' cooperative costituite tra i proprietari di fabbricati distrutti in una stessa zona urbana. La maggiorazione prevista dal quarto comma del presente articolo e' concessa per le ricostruzioni che i sinistrati affidano alla prima Giunta del Comitato amministrativo di soccorso ai senzatetto (C.A.S.A.S.).
 
-#### Art. 51
+### Art. 51
 
 Disposizioni particolari relative ai danni subiti da cittadini italiani nel Territorio Libero di Trieste e nei territori gia' sottoposti alla sovranita' italiana e in Albania
 
@@ -760,7 +758,7 @@ AGGIORNAMENTO (6)
 
 La L. 29 settembre 1967, n. 955 ha disposto (con l'art. 25, comma 2) che " La locuzione "prezzi vigenti al 30 giugno 1943", di cui al primo comma dell'articolo 25 e al primo comma dell'articolo 51 della legge 27 dicembre 1953, n. 968, deve intendersi nel senso di "prezzi vigenti in Italia al 30 giugno 1943"."
 
-#### Art. 52
+### Art. 52
 
 Danni subiti da cittadini ed enti italiani all'estero
 
@@ -774,13 +772,13 @@ Per la ricostruzione dei fabbricati distrutti destinati ad uso di abitazione, si
 
 ## CAPO III - DISPOSIZIONI COMUNI E FINALI
 
-#### Art. 53
+### Art. 53
 
 Pertinenze delle aziende
 
 Ai fini della liquidazione del contributo concernente le aziende ricostruite o da ricostruire, i macchinari, gli impianti e quanto altro costituisce l'attrezzatura necessaria al funzionamento dell'azienda, deve ritenersi pertinenza, purche' l'immobile in cui le dette attrezzature sono installate e le attrezzature stesse appartengano al medesimo proprietario.
 
-#### Art. 54
+### Art. 54
 
 Privilegi e diritti reali sui beni ripristinati
 
@@ -788,7 +786,7 @@ Sui beni riparati o ricostruiti permangono e rivivono i privilegi, le ipoteche e
 
 La ricostruzione in luogo diverso puo' non essere ammessa, quando sul nuovo terreno esistano ipoteche o altri diritti reali che pregiudichino quelli costituiti sull'immobile distrutto.
 
-#### Art. 55
+### Art. 55
 
 Contributi per beni gia' ripristinati
 
@@ -802,7 +800,7 @@ Qualora, l'interessato abbia percepito alcune delle provvidenze previste dall'ar
 
 ((COMMA ABROGATO DALLA L. 29 SETTEMBRE 1967, N. 955)).
 
-#### Art. 56
+### Art. 56
 
 Stanziamenti in bilancio
 
@@ -820,7 +818,7 @@ AGGIORNAMENTO (9)
 
 La L. 23 dicembre 1977, n. 77 ha disposto (con l'art. 1) che " In deroga all'articolo 56 della legge 27 dicembre 1953, n. 968, ed alla legge 20 luglio 1977, n. 407, sono eliminati i limiti di impegno autorizzati con le leggi 11 marzo 1972, n. 54, quanto a lire 420 milioni, 27 febbraio 1973, n. 18, quanto a lire 500 milioni, 23 febbraio 1974, n. 24, quanto a lire 500 milioni, 26 aprile 1975, n. 132, quanto a lire 750 milioni e 23 dicembre 1976, n. 874, quanto a lire 330 milioni, per complessive lire 2.500 milioni, in dipendenza degli oneri derivanti dalla legge 31 luglio 1954, n. 607, per la concessione di contributi in annualita', semestralita' o in rate costanti ai proprietari che provvedono alla ricostruzione ed alla riparazione dei loro fabbricati distrutti o danneggiati dalla guerra."
 
-#### Art. 57
+### Art. 57
 
 Accreditamento di fondi agli Intendenti di finanza
 
@@ -828,7 +826,7 @@ Accreditamento di fondi agli Intendenti di finanza
 
 Parimenti su ordini di accreditamento da emettersi nei limiti di 40 milioni, gli Intendenti di finanza provvedono al pagamento delle spese occorrenti per l'organizzazione ed il funzionamento degli uffici e delle Commissioni provinciali di cui alla presente legge, nonche' delle retribuzioni e di ogni altro compenso spettante al personale non di ruolo degli uffici stessi.
 
-#### Art. 58
+### Art. 58
 
 Scarico parziale e finale della contabilita'
 
@@ -838,13 +836,13 @@ Sull'ultimo rendiconto delle singole gestioni, che deve riassumere anche le risu
 
 Delle decisioni della, Corte e' data notizia alla Ragioneria centrale presso il Ministero del tesoro.
 
-#### Art. 59
+### Art. 59
 
 Mutui
 
 Il proprietario, che per la esecuzione delle opere intende contrarre un mutuo, deve inoltrare la relativa domanda all'intendenza di finanza, che la trasmette all'istituto di credito prescelto dall'interessato.
 
-#### Art. 60
+### Art. 60
 
 Enti autorizzati alla concessione del mutuo
 
@@ -854,7 +852,7 @@ Nel caso di lavori di riparazione ai beni per i quali siano vigenti contratti co
 
 I mutui occorrenti per i lavori di riparazione in edifici costruiti da cooperative edilizie a contributo statale sono concessi dagli stessi enti e istituti che hanno accordato il finanziamento per le costruzioni, compresa la Cassa depositi e prestiti.
 
-#### Art. 61
+### Art. 61
 
 Erogazione ed ammortamento del mutuo
 
@@ -864,7 +862,7 @@ I mutui sono ammortizzabili mediante il pagamento di semestralita' costanti in u
 
 Le semestralita' sono comprensive degli interessi, di una quota di rimborso dei capitale, del diritto di commissione a favore dell'ente o istituto mutuante nella misura, non eccedente lo 0,70 per cento, dei diritti erariali, e, nel caso di mutui somministrati in contanti, di un a speciale provvigione a carico del mutuatario, da concordarsi tra questo e l'ente o l'istituto per futuro collocamento delle cartelle.
 
-#### Art. 62
+### Art. 62
 
 Saggio di interessi dei mutui
 
@@ -872,7 +870,7 @@ I mutui sono stipulati al saggio che sara' determinato con decreti del Ministro 
 
 In corrispondenza dei mutui stipulati, gli enti, gli istituti e la seconda, Giunta del C.A.S.A.S. possono emettere serie speciali di cartelle di pari saggio.
 
-#### Art. 63
+### Art. 63
 
 Ipoteca a favore dell'ente o istituto mutuante
 
@@ -884,11 +882,11 @@ Se le parti o i piani o le porzioni di piani dell'immobile appartengano a propri
 
 L'ipoteca ha prevalenza di grado di fronte ad ogni altra esistente, nonche' di fronte ai crediti privilegiati.
 
-#### Art. 64
+### Art. 64
 
 Per i mutui concernenti beni mobili il credito dell'ente o istituto e' assistito da privilegio prevalente su ogni altro
 
-#### Art. 65
+### Art. 65
 
 Finanziamenti provvisori a sconto del contributo
 
@@ -898,13 +896,13 @@ E' altresi' consentito lo sconto presso gli enti finanziatori indicati nell'art.
 
 Gli enti predetti sono autorizzati a concedere finanziamenti provvisori contro l'impegno di cessione dei contributi.
 
-#### Art. 66
+### Art. 66
 
 Esenzione dei contributi dalla ricchezza mobile e dalla imposta generale sull'entrata
 
 I contributi concessi in applicazione della presente legge non sono soggetti all'imposta di ricchezza mobile ne' all'imposta generale sull'entrata.
 
-#### Art. 67
+### Art. 67
 
 Agevolazioni in materia di tasse imposte dirette sugli affari - Riduzione degli onorari notarili
 
@@ -914,13 +912,13 @@ Detti atti, ove vi siano soggetti, scontano le sole imposte fisse di registro ed
 
 Gli onorari notarili sono ridotti alla meta'.
 
-#### Art. 68
+### Art. 68
 
 Estensione della legge sul credito fondiario
 
 Salvo quanto e' disposto dall'articolo precedente nei riguardi del trattamento tributario, e fermi rimanendo i maggiori benefici dei quali gli enti finanziatori indicati nell'art. 60 possano usufruire, alle operazioni di mutuo per le ricostruzioni e le riparazioni previste dalla presente legge sono applicabili le disposizioni delle leggi e dei regolamenti in vigore sul credito fondiario.
 
-#### Art. 69
+### Art. 69
 
 Esenzione dall'imposta fabbricati e dalle relative sovrimposte
 
@@ -930,7 +928,7 @@ Sono inoltre esenti dall'imposta di consumo i materiali impiegati nelle riparazi
 
 I benefici e le agevolazioni della presente legge, riguardanti le imposte dirette, sono applicabili anche agli immobili distrutti o danneggiati che sono stati ricostruiti o riparati prima della sua entrata in vigore, qualora il ripristino non sia stato effettuato a totale carico dello Stato.
 
-#### Art. 70
+### Art. 70
 
 Agevolazioni per gli immobili destinati all'esercizio di una attivita' industriale o commerciale
 
@@ -938,7 +936,7 @@ Le agevolazioni tributarie previste dall'articolo precedente si applicano anche 
 
 Qualora il reddito delle costruzioni predette sia assoggettabile all'imposta di ricchezza mobile perche' appartenenti all'esercente attivita' industriale o commerciale, l'esenzione decennale si applica alla quota parte del reddito afferente agli immobili suscettibili della, imposta sui fabbricati.
 
-#### Art. 71
+### Art. 71
 
 Ulteriori benefici tributari per le case di abitazione non di lusso
 
@@ -950,13 +948,13 @@ dell'imposta ipotecaria per gli acquisti di aree edificabili e per i contratti d
 
 b) riduzione a meta' dell'imposta di registro e al quarto dell'imposta ipotecaria, per i trasferimenti che abbiano luogo entro sei anni dalla dichiarazione di abitabilita'.
 
-#### Art. 72
+### Art. 72
 
 Decadenza dai benefici tributari
 
 L'interessato decade dai benefici tributari previsti nella presente legge qualora le opere non siano compiute con le modalita' e nei termini previsti dall'art. 30.
 
-#### Art. 73
+### Art. 73
 
 Trasmissione alle Intendenze di finanza o al Ministero del tesoro delle denuncie gia' presentate ad altre Amministrazioni
 
@@ -964,7 +962,7 @@ Entro 90 giorni dalla data di entrata in vigore della presente legge, le domande
 
 Tuttavia, per le domande per le quali alla data di entrata in vigore della presente legge sia stata concessa l'autorizzazione per l'inizio delle opere, permane la competenza dell'Amministrazione che l'ha concessa.
 
-#### Art. 74
+### Art. 74
 
 Assistenza ai sinistrati di guerra
 
@@ -976,7 +974,7 @@ AGGIORNAMENTO (10)
 
 La L. 22 ottobre 1981, n. 593 ha disposto (con l'art. 13, comma 2) che " A decorrere dalla data di entrata in vigore della presente legge la ritenuta stabilita dall'articolo 74 della legge 27 dicembre 1953, n. 968, e' fissata nella misura dello 0,60 per cento."
 
-#### Art. 75
+### Art. 75
 
 Abrogazione delle disposizioni precedenti
 

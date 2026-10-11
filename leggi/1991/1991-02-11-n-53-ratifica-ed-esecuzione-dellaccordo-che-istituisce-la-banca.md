@@ -28,25 +28,25 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'accordo che istituisce la Banca europea per la ricostruzione e lo sviluppo adottato a Parigi il 29 maggio 1990.
 
-#### Art. 2
+### Art. 2
 
 1\. Piena ed intera esecuzione e' data dall'accordo indicato nell'articolo 1 a decorrere dalla sua entrata in vigore in conformita' all'articolo 62 dell'accordo stesso.
 
-#### Art. 3
+### Art. 3
 
 1\. La quota di partecipazione italiana al capitale e' fissata in 851.750.000 ECU, di cui il 70 per cento costituisce capitale a chiamata e il 30 per cento costituisce capitale da corrispondere effettivamente in cinque rate uguali annuali, a partire dal 1991.
 
-#### Art. 4
+### Art. 4
 
 1\. La Banca europea per la ricostruzione e lo sviluppo, per tutto quanto attiene all'attuazione dell'accordo di cui all'articolo 1, comunichera' con il Ministero del tesoro, ai sensi e per gli effetti dell'articolo 34, paragrafo 2, dell'accordo medesimo.
 
 2\. ((COMMA SOPPRESSO DAL D.L. 29 AGOSTO 1994, N. 516, CONVERTITO CON MODIFICAZIONI DALLA L. 27 OTTOBRE 1994, N. 598)).
 
-#### Art. 5
+### Art. 5
 
 1\. L'onere derivante dall'applicazione della presente legge e' valutato in lire 78,2 miliardi annui per ciascuno degli anni dal 1991 al 1995.
 
@@ -54,7 +54,7 @@ la seguente legge:
 
 3\. Il Ministro del Tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 6
+### Art. 6
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
@@ -72,7 +72,7 @@ Visto, il Guardasigilli: MARTELLI
 
 ## Allegati
 
-#### Accord
+### Accord
 
 Parte di provvedimento in formato grafico
 
@@ -102,7 +102,7 @@ convengono di istituire la Banca Europea per la Ricostruzione e lo Sviluppo (in 
 
 ARTICOLI DELLO STATUTO
 
-#### Articolo 1
+### Articolo 1
 
 FINE
 
@@ -110,7 +110,7 @@ Volendo contribuire al progresso economico e alla ricostruzione dei paesi dell'E
 
 > (\*) I futuri membri sono elencati sotto le suddette categorie esclusivamente ai fini del presente Statuto. I paesi beneficiari sono rimandati in altre parti del presente Statuto come Paesi dell'Europa Centrale e Orientale.
 
-#### Articolo 2
+### Articolo 2
 
 FUNZIONI
 
@@ -134,7 +134,7 @@ e sano dal punto di vista ambientale; e
 
 2\. Nell'adempimento di tali funzioni, la Banca deve operare in materia in stretta cooperazione con tutti i suoi membri, e nei modi che ritenga opporuni nell'ambito delle modalita' fissate dal presente Statuto, con il Fondo Monetario Internazionale, la Banca Internazionale e la Ricostruzione Internazionale, la Societa' Finanziaria Internazionale, l'Agenzia Multilaterale per la Garanzia e gli Investimenti, e l'Organizzazione per la cooperazione Economica e lo Sviluppo; deve altresi' cooperare con le Nazioni Unite e le sue Agenzie specializzate ed enti collegati, nonche' con ogni altra entita', pubblica e privata impegnata nello sviluppo economico e negli investimenti nei paesi dell'Europa Centrale ed Orientale.
 
-#### Articolo 3
+### Articolo 3
 
 MEMBRI
 
@@ -148,7 +148,7 @@ MEMBRI
 
 ## Capitolo II - CAPITALE
 
-#### Articolo 4
+### Articolo 4
 
 CAPITALE AUTORIZZATO
 
@@ -158,7 +158,7 @@ CAPITALE AUTORIZZATO
 
 3\. Il capitale autorizzato puo' essere aumentato nei tempi e nei modi piu' appropriati, con il voto favorevole di almeno due terzi dei Governatori che rappresentano almeno tre quarti del potere di voto totale dei membri.
 
-#### Articolo 5
+### Articolo 5
 
 SOTTOSCRIZIONE DELLE AZIONI
 
@@ -178,7 +178,7 @@ Ogni sottoscrizione al capitale autorizzato iniziale riguarda le azioni versate 
 
 7\. La responsabilita' dei membri derivante dalle azioni e' limitata all'ammontare della loro quota di capitale sottoscritto e non versato. Nessun membro e' responsabile, in quanto membro, per le obbligazioni della Banca.
 
-#### Articolo 6
+### Articolo 6
 
 PAGAMENTO DELLE SOTTOSCRIZIONI
 
@@ -198,7 +198,7 @@ PAGAMENTO DELLE SOTTOSCRIZIONI
 
 8\. Ai fini del presente articolo, per pagamento o denominazione in ECU si intende anche il pagamento o la denominazione in una qualsiasi divisa pienamente convertibile, purche' alla data di pagamento o incasso, sia pari al valore dell'obbligazione in ECU considerata.
 
-#### Articolo 7
+### Articolo 7
 
 RISORSE DEL CAPITALE ORDINARIO
 
@@ -218,7 +218,7 @@ operazioni speciali della Banca; e
 
 ## Capitolo III - OPERAZIONI
 
-#### Articolo 8
+### Articolo 8
 
 PAESI BENEFICIARI ED USO DELLE RISORSE
 
@@ -238,13 +238,13 @@ PAESI BENEFICIARI ED USO DELLE RISORSE
 
 (iii) Al termine di questo periodo, la decisione di consentire a tale Paese l'accesso oltre i limiti specificati nei sottoparagrafi (a) e (b) dovra' essere presa dal Consiglio dei Governatori con la maggioranza di almeno tre quarti dei Governatori che rappresentano almeno l'ottantacinque per cento del potere di voto totale dei membri.
 
-#### Articolo 9
+### Articolo 9
 
 OPERAZIONI ORDINARIE E SPECIALI
 
 Le operazioni della Banca consistono in operazioni ordinarie, finanziate con le risorse del capitale ordinario, di cui all'articolo 7 del presente Statuto, e operazioni speciali finanziate con risorse dei Fondi Speciali, di cui all'articolo 19 del presente Statuto. I due tipi di operazioni possono essere combinati.
 
-#### Articolo 10
+### Articolo 10
 
 SEPARAZIONE DELLE OPERAZIONI
 
@@ -254,7 +254,7 @@ SEPARAZIONE DELLE OPERAZIONI
 
 3\. Le spese derivanti direttamente dalle operazioni ordinarie devono essere imputate alle risorse del capitale ordinario della Banca. Le spese derivanti direttamente dalle operazioni speciali devono essere imputate alle risorse dei Fondi Speciali. Le imputazioni di ogni altra spesa devono essere effettuate secondo i criteri fissati dalla Banca, fatto salvo quanto stabilito dal paragrafo 1 dell'articolo 18 del presente Statuto.
 
-#### Articolo 11
+### Articolo 11
 
 METODI DI OPERAZIONE
 
@@ -296,7 +296,7 @@ Ai fini del presente paragrafo, un'impresa statale non e' considerata come opera
 
 (c) prestiti a intermediari finanziari per il successivo finanziamento del settore privato non sono considerati come effettuati a favore del settore statale.
 
-#### Articolo 12
+### Articolo 12
 
 LIMITI ALLE OPERAZIONI ORDINARIE
 
@@ -308,7 +308,7 @@ LIMITI ALLE OPERAZIONI ORDINARIE
 
 4\. La Banca non puo' emettere garanzie per crediti alle esportazioni ne' effettuare attivita' di assicurazione.
 
-#### Articolo 13
+### Articolo 13
 
 PRINCIPI OPERATIVI
 
@@ -342,7 +342,7 @@ internazionali d'appalto; e
 
 (xiii) la Banca adotta le misure necessarie ad assicuare che ogni prestito effettuato o garantito dalla Banca, o in cui vi e' una sua partecipazione, e ogni investimento azionario sia utilizzato solo per i fini per i quali e' stato effettuato e prestando la dovuta attenzione alle considerazioni di economia e di efficienza.
 
-#### Articolo 14
+### Articolo 14
 
 MODALITA' E CONDIZIONI PER I PRESTITI E LE GARANZIE
 
@@ -352,7 +352,7 @@ MODALITA' E CONDIZIONI PER I PRESTITI E LE GARANZIE
 
 3\. Il contratto di prestito o di garanzia deve specificare espressamente la divisa o le divise, compreso l'ECU, in cui devono essere effettuati i pagamenti alla Banca.
 
-#### Articolo 15
+### Articolo 15
 
 COMMISSIONI E COMPETENZE
 
@@ -362,7 +362,7 @@ COMMISSIONI E COMPETENZE
 
 3\. Il Consiglio di Amministrazione puo' fissare ogni altro onere sulle operazioni ordinarie della Banca ed ogni commissione, competenza o altro onere sulle operazioni speciali.
 
-#### Articolo 16
+### Articolo 16
 
 RISERVA SPECIALE
 
@@ -370,7 +370,7 @@ RISERVA SPECIALE
 
 2\. Qualora il Consiglio di Amministrazione stabilisca che l'ammontare della riserva speciale e' adeguato, lo stesso puo' decidere che la totalita' o una parte della commissione o delle competenze di cui sopra vada da quel momento in poi ad accrescere il reddito della Banca.
 
-#### Articolo 17
+### Articolo 17
 
 METODI PER FAR FRONTE
 
@@ -390,7 +390,7 @@ ALLE PASSIVITA' DELLA BANCA
 
 (vi) infine, ad un ammontare adeguato di capitale sottoscritto non richiamato che deve essere richiamato conformemente ai paragrafi 4 e 5 dell'articolo 6 del presente Statuto.
 
-#### Articolo 18
+### Articolo 18
 
 FONDI SPECIALI
 
@@ -400,7 +400,7 @@ FONDI SPECIALI
 
 3\. La Banca deve adottare le regole necessarie per la creazione, l'amministrazione e l'utilizzo di ogni Fondo Speciale. Tali regole devono essere compatibili con le norme del presente Statuto, ad eccezione di quelle norme la cui applicabilita' e' espressamente limitata alle sole operazioni ordinarie della Banca.
 
-#### Articolo 19
+### Articolo 19
 
 RISORSE DEI FONDI SPECIALI
 
@@ -416,7 +416,7 @@ Speciale, sono in questo versate; e
 
 ## Capitolo IV - OPERAZIONI DI PROVVISTA E POTERI DIVERSI
 
-#### Articolo 20
+### Articolo 20
 
 POTERI GENERALI
 
@@ -448,7 +448,7 @@ questo; e
 
 ## Capitolo V - DIVISE
 
-#### Articolo 21
+### Articolo 21
 
 DETERMINAZIONE ED UTILIZZO DELLE DIVISE
 
@@ -468,13 +468,13 @@ contributi ai Fondi Speciali; e
 
 ## Capitolo VI - ORGANIZZAZIONE E DIREZIONE
 
-#### Articolo 22
+### Articolo 22
 
 STRUTTURA
 
 La Banca e' costituita da un Consiglio dei Governatori, un Consiglio di Amministrazione, un Presidente, uno o piu' Vice Presidenti e un numero di funzionari e di impiegati considerato necessario.
 
-#### Articolo 23
+### Articolo 23
 
 IL CONSIGLIO DEI GOVERNATORI: COMPOSIZIONE
 
@@ -484,7 +484,7 @@ Il Vice Governatore puo' votare solo in assenza del proprio Governatore. Ad ogni
 
 2\. I Governatori ed i loro Vice prestano servizio senza essere remunerati dalla Banca.
 
-#### Articolo 24
+### Articolo 24
 
 IL CONSIGLIO DEI GOVERNATORI: POTERI
 
@@ -522,7 +522,7 @@ espressamente conferiti al Consiglio dei Governatori
 
 3\. Il Consiglio dei Governatori ha la prerogativa di esercitare i propri poteri su ogni questione delegata o conferita al Consiglio di Amministrazione ai sensi del paragrafo 2 del presente articolo, o altrove nel presente Statuto.
 
-#### Articolo 25
+### Articolo 25
 
 IL CONSIGLIO DEI GOVERNATORI: PROCEDURA
 
@@ -534,7 +534,7 @@ IL CONSIGLIO DEI GOVERNATORI: PROCEDURA
 
 4\. Il Consiglio dei Governatori, e il Consiglio di Amministrazione nei limiti in cui e' autorizzato, possono adottare le regole e creare gli enti sussidiari necessari o opportuni per lo svolgimento dell'attivita' della Banca.
 
-#### Articolo 26
+### Articolo 26
 
 IL CONSIGLIO DI AMMINISTRAZIONE: COMPOSIZIONE
 
@@ -562,7 +562,7 @@ Gli Amministratori, oltre a rappresentare i membri dai cui Governatori sono stat
 
 5\. Gli Amministratori restano in carica per un periodo di tre (3) anni e possono essere rieletti; tuttavia il primo Consiglio di Amministrazione e' eletto dal Consiglio dei Governatori nel corso della riunione inaugurale e resta in carica fino alla riunione annuale del Consiglio dei Governatori, immediatamente successiva o, qualora il Consiglio dei Governatori cosi' decida in quella riunione annuale, fino alla riunione annuale ancora successiva. Gli Amministratori restano in carica fino a quando i loro successori non siano stati scelti e non abbiano assunto l'incarico. Se la carica di amministratore resta vacante per piu' di centottanta giorni (180) prima del termine del suo mandato, i Governatori che hanno eletto il precedente Amministratore devono scegliere un successore per il resto del mandato secondo le procedure fissate nell'allegato B. Per tale elezione e' richiesta la maggioranza dei voti espressi dai Governatori interessati. Se la carica di Amministratore diviene vacante centottanta (180) giorni o meno prima del termine del mandato, i Governatori che hanno eletto il precedente Amministratore possono ugualmente scegliere un successore per il resto del mandato; in tale elezione e' richiesta la maggioranza dei voti espressi dai Governatori interessati. Nel periodo di vacanza il Vice Amministratore o il precedente Amministratore possono esercitare le funzioni di Amministratore, tranne quella di nominare un Vice Amministratore.
 
-#### Articolo 27
+### Articolo 27
 
 IL CONSIGLIO DI AMMINISTRAZIONE: POTERI
 
@@ -580,7 +580,7 @@ finanziario, e
 
 (iv) approva il bilancio della Banca
 
-#### Articolo 28
+### Articolo 28
 
 IL CONSIGLIO DI AMMINISTRAZIONE: PROCEDURA
 
@@ -590,7 +590,7 @@ IL CONSIGLIO DI AMMINISTRAZIONE: PROCEDURA
 
 3\. Il Consiglio dei Governatori adottera' quelle norme che permettano ad un membro di inviare un proprio rappresentante, senza diritto di voto, ad una qualsiasi riunione del Consiglio di Amministrazione, nella quale venga esaminato un problema che interessa particolarmente quel membro, qualora non vi sia alcun Amministratore della sua nazionalita'.
 
-#### Articolo 29
+### Articolo 29
 
 VOTAZIONE
 
@@ -602,7 +602,7 @@ Salvo esplicita disposizione contraria del presente Statuto, tutte le decisioni 
 
 3\. Nelle votazioni del Consiglio di Amministrazione ciascun Amministratore ha diritto ad esprimere il numero di voti cui hanno diritto i Governatori che lo hanno eletto e quelli che gli hanno assegnato i loro voti ai sensi della sezione D, dell'allegato B. Un Amministratore che rappresenta piu' di un membro puo' esprimere separatamente i voti dei membri che rappresenta. Salvo che non sia altrimenti espressamente previsto nel presente Statuto e tranne che per le decisione di politica generale, per le quali e' necessaria una maggioranza di almeno due terzi del potere di voto totale dei membri votanti, tutte le decisioni sono adottate a maggioranza semplice.
 
-#### Articolo 30
+### Articolo 30
 
 IL PRESIDENTE
 
@@ -618,7 +618,7 @@ IL PRESIDENTE
 
 6\. Il Presidente conduce, sotto la direzione del Consiglio di Amministrazione, gli Affari correnti della Banca.
 
-#### Articolo 31
+### Articolo 31
 
 IL VICE PRESIDENTE
 
@@ -626,7 +626,7 @@ IL VICE PRESIDENTE
 
 2\. Un Vice Presidente, puo' partecipare alle riunioni del Consiglio di Amministrazione, ma non ha diritto di voto; puo' tuttavia esprimere un voto decisivo quando agisce in sostituzione del Presidente.
 
-#### Articolo 32
+### Articolo 32
 
 CARATTERE INTERNAZIONALE DELLA BANCA
 
@@ -636,7 +636,7 @@ CARATTERE INTERNAZIONALE DELLA BANCA
 
 3\. Il Presidente, il(i) Vice Presidente(i), i funzionari e gli impiegati della Banca, nell'esercizio delle loro funzioni, hanno doveri solo verso la Banca e non verso altre autorita'. Ciascun membro della Banca rispettera' il carattere internazionale di tale funzione e si asterra' da tutti i tentativi di influenzare uno qualsiasi di essi nell'adempimento delle sue funzioni.
 
-#### Articolo 33
+### Articolo 33
 
 UBICAZIONE DEGLI UFFICI
 
@@ -644,7 +644,7 @@ UBICAZIONE DEGLI UFFICI
 
 2\. La Banca puo' istituire agenzie o filiali nel territorio di ciascun membro della Banca.
 
-#### Articolo 34
+### Articolo 34
 
 DEPOSITARI E CANALI DI COMUNICAZIONE
 
@@ -652,7 +652,7 @@ DEPOSITARI E CANALI DI COMUNICAZIONE
 
 2\. Ciascun membro designa un ente ufficiale appropriato con il quale la banca puo' comunicare in relazione a qualsiasi questione connessa al presente Statuto.
 
-#### Articolo 35
+### Articolo 35
 
 PUBBLICAZIONE DEI RAPPORTI E INFORMAZIONE
 
@@ -662,7 +662,7 @@ PUBBLICAZIONE DEI RAPPORTI E INFORMAZIONE
 
 3\. Copie di tutti i rapporti, discorsi e pubblicazioni, fatti ai sensi del presente articolo, sono distribuiti ai membri.
 
-#### Articolo 36
+### Articolo 36
 
 STANZIAMENTO E DISTRIBUZIONE DEL REDDITO NETTO
 
@@ -676,11 +676,9 @@ nel calcolare tale numero sono presi in considerazione solo i pagamenti ricevuti
 
 3\. I pagamenti a ciascun membro sono effettuati nei modi stabiliti dal Consiglio dei Governatori. Non vi possono essere, da parte di nessun membro, restrizioni in merito a tali pagamenti ed al loro uso da parte di un membro.
 
-## Capitolo VII - RITIRO E SOSPENSIONE DEI MEMBRI:
+## Capitolo VII - RITIRO E SOSPENSIONE DEI MEMBRI: SOSPENSIONE TEMPORANEA E CESSAZIONE DELLE OPERAZIONI
 
-### SOSPENSIONE TEMPORANEA E CESSAZIONE DELLE OPERAZIONI
-
-#### Articolo 37
+### Articolo 37
 
 DIRITTO DEI MEMBRI DI RITIRARSI
 
@@ -688,7 +686,7 @@ DIRITTO DEI MEMBRI DI RITIRARSI
 
 2\. Il ritiro di un membro diviene effettivo, e la sua partecipazione cessa, alla data specificata nella notifica, ma in ogni caso non prima di sei (6) mesi dal momento in cui la notifica e' stata ricevuta dalla Banca. Tuttavia, in qualsiasi momento prima che il ritiro diventi effettivo, il membro puo' notificare per iscritto la cancellazione della propria notifica relativa all'intenzione di ritirarsi.
 
-#### Articolo 38
+### Articolo 38
 
 SOSPENSIONE DEI MEMBRI
 
@@ -696,7 +694,7 @@ SOSPENSIONE DEI MEMBRI
 
 2\. Nel periodo di sospensione, un membro non puo' esercitare nessuno dei diritti previsti nel presente Statuto, fatto salvo il diritto di ritiro; rimane tuttavia soggetto a tutti i suoi doveri.
 
-#### Articolo 39
+### Articolo 39
 
 REGOLAMENTO DEI CONTI CON GLI EX MEMBRI
 
@@ -720,19 +718,19 @@ tale, l'ex-membro deve rimborsare, su richiesta, una somma pari all'ammontare de
 
 4\. Se la Banca cessa le proprie operazioni ai sensi dell'articolo 41 del presente Statuto entro sei (6) mesi dalla data in cui e' cessata la partecipazione di un membro, tutti i diritti di tale ex-membro sono stabiliti ai sensi delle disposizioni degli articoli 41 e 43 del presente Statuto.
 
-#### Articolo 40
+### Articolo 40
 
 SOSPENSIONE TEMPORANEA DELLE OPERAZIONI
 
 In caso di emergenza, il Consiglio di Amministrazione puo' sospendere temporaneamente le operazioni relative a nuovi prestiti, garanzie, sottoscrizioni, assistenza tecnica ed investimenti azionari in attesa di un ulteriore esame ed azione da parte del Consiglio dei Governatori.
 
-#### Articolo 41
+### Articolo 41
 
 CESSAZIONE DELLE OPERAZIONI
 
 La Banca puo' cessare le operazioni con una decisione adottata da almeno due terzi dei Governatori che rappresentano almeno tre quarti del potere di voto totale dei membri. Dopo tale cessazione la Banca pone fine immediatamente a tutte le attivita', salvo quelle inerenti all'ordinata liquidazione, conservazione e tutela delle proprie attivita' e regolamento delle proprie obbligazioni.
 
-#### Articolo 42
+### Articolo 42
 
 RESPONSABILITA' DEI MEMBRI E PAGAMENTO DEI DEBITI
 
@@ -740,7 +738,7 @@ RESPONSABILITA' DEI MEMBRI E PAGAMENTO DEI DEBITI
 
 2\. Coloro che vantano crediti diretti derivanti dalle operazioni ordinarie della Banca sono pagati innanzitutto a valere sulle attivita' della Banca, quindi a valere sui pagamenti da effuare a favore della Banca in relazione alle azioni versate e non ancora pagate ed infine a valere sui pagamenti da effettuare a favore della Banca in relazione al capitale sottoscritto e non versato. Prima di effettuare qualsiasi pagamento a favore di coloro che vantano crediti diretti, il Consigli di Amministrazione adottera' le misure a suo giudizio necessarie per assicurare una distribuzione pro rata tra coloro che vantano crediti diretti e coloro che vantano crediti contingenti.
 
-#### Articolo 43
+### Articolo 43
 
 DISTRIBUZIONE DELLE ATTIVITA'
 
@@ -756,13 +754,13 @@ DISTRIBUZIONE DELLE ATTIVITA'
 
 ## Capitolo VIII - STATUS, IMMUNITA', PRIVILEGI ED ESENZIONI
 
-#### Articolo 44
+### Articolo 44
 
 SCOPI DEL CAPITOLO
 
 Affinche' la Banca possa perseguire il proprio fine ed adempiere alle funzioni a lei affidate, le vengono attribuite, nel territorio di ciascun stato membro, lo status, le immunita', i privilegi e le esenzioni stabiliti nel presente capitolo.
 
-#### Articolo 45
+### Articolo 45
 
 STATUS DELLA BANCA
 
@@ -774,43 +772,43 @@ La Banca ha piena personalita' giuridica e, in particolare, piena capacita' lega
 
 (iii) instaurare procedimenti legali.
 
-#### Articolo 46
+### Articolo 46
 
 POSIZIONE DELLA BANCA RISPETTO AI PROCEDIMENTI GIUDIZIARI
 
 Un'azione legale puo' essere intentata contro la Banca solo davanti ad un tribunale competente per giurisdizione nel territorio di un paese ove la Banca possieda un ufficio, abbia nominato un agente incaricato di ricevere citazioni o ordini di comparizione o abbia emesso o garantito titoli. In nessun caso l'azione puo' essere intentata da membri o da persone che agisono per un membro o vantano rivendicazioni da esso. La proprieta' e le attivita' della Banca, ovunque aventi sede e quali ne siano i detentori, sono immuni da ogni forma di sequestro, confisca o esecuzione forzata prima della pronuncia di una sentenza definitiva contro la Banca.
 
-#### Articolo 47
+### Articolo 47
 
 IMMUNITA' DELLE ATTIVITA' DA RESTRIZIONI
 
 Le proprieta' e le attivita' della Banca, ovunque aventi sede e quali ne siano i detentori, sono immuni da perquisizioni, sequestri, confische, espropri e da ogni altra forma di pignoramento o di presa di possesso forzato ordinato dal potere esecutivo o legislativo.
 
-#### Articolo 48
+### Articolo 48
 
 IMMUNITA' DEGLI ARCHIVI
 
 Gli archivi della Banca e, in generale, tutti i documenti ad essa appartenenti, o da essa detenuti, sono inviolabili.
 
-#### Articolo 49
+### Articolo 49
 
 LIBERTA' DELLE ATTIVITA' DA RESTRIZIONI
 
 Nella misura necessaria per perseguire il fine ed adempiere alle funzioni della Banca, e fatte salve le disposizioni del presente Statuto, tutte le proprieta' e le attivita' della Banca devono essere libere da restrizioni, regolamenti, controlli e moratorie di qualsiasi natura.
 
-#### Articolo 50
+### Articolo 50
 
 PRIVILEGI PER LE COMUNICAZIONI
 
 Alle comunicazioni ufficiali della Banca deve essere accordato da ciascun membro il medesimo trattamento che esso accorda alle comunicazioni ufficiali di qualsiasi altro membro.
 
-#### Articolo 51
+### Articolo 51
 
 IMMUNITA' DEI FUNZIONARI E DEGLI IMPIEGATI
 
 Tutti i Governatori, i Vice Governatori, gli Amministratori, i Vice Amministratori, i funzionari e gli impiegati della Banca e gli esperti che stiano svolgendo missioni per la stessa, sono immuni da azioni legali relative ad atti da essi compiuti nell'esercizio delle loro funzioni, ad eccezione dei casi in cui la Banca rinunci a tale immunita', e godono dell'inviolabilita' di tutte le loro carte e documenti ufficiali. Tale immunita', tuttavia, non riguarda le responsabilita' civile in caso di danno derivante da un incidente stradale causato da chiunque di tali Governatori, Vice Governatori, Amministratori, Vice Amministratori, funzionari, impiegati o esperti.
 
-#### Articolo 52
+### Articolo 52
 
 PRIVILEGI DEI FUNZIONARI E DEGLI IMPIEGATI
 
@@ -828,7 +826,7 @@ Ai coniugi e ai diretti congiunti degli Amministratori, Vice Amministratori, fun
 
 Specifici accordi devono essere stipulati con il paese in cui si trova la sede principale della Banca e, se del caso, con gli altri paesi interessati, per attuare le norme del presente paragrafo.
 
-#### Articolo 53
+### Articolo 53
 
 ESENZIONE DALLE IMPOSTE
 
@@ -866,13 +864,13 @@ solo per il fatto che la garanzia e' concessa dalla Banca, ovvero
 
 (ii) la cui sola base giuridica sia l'ubicazione di un ufficio o luogo di lavoro della Banca.
 
-#### Articolo 54
+### Articolo 54
 
 APPLICAZIONE DELLE NORME DEL PRESENTE CAPITOLO
 
 Ciascun membro adottera' prontamente quei provvedimenti necessari per applicare le disposizioni di questo capitolo ed informera' la Banca in dettaglio delle misure adottate.
 
-#### Articolo 55
+### Articolo 55
 
 RINUNZIA AD IMMUNITA', PRIVILEGI ED ESENZIONI
 
@@ -882,7 +880,7 @@ Il Consiglio di Amministrazione puo' rinunciare, nella misura e alle condizioni 
 
 ## Capitolo IX - EMENDAMENTI, INTERPRETAZIONE E ARBITRATO
 
-#### Articolo 56
+### Articolo 56
 
 EMENDAMENTI
 
@@ -906,7 +904,7 @@ Quando si sono verificate tutte le condizioni necessarie per accettare l'emendam
 
 3\. Gli emendamenti entrano in vigore per tutti i membri tre (3) media dalla data della comunicazione formale di cui ai paragrafi 1 e 2 del presente articolo.
 
-#### Articolo 57
+### Articolo 57
 
 INTERPRETAZIONE ED APPLICAZIONE
 
@@ -918,13 +916,13 @@ Tale diritto di essere rappresentati e' regolamentato dal Consiglio dei Governat
 
 2\. In qualsiasi caso in cui il Consiglio di Amministrazione abbia preso una decisione ai sensi del paragrafo 1 del presente articolo, qualsiasi membro puo' chiedere che la questione venga sottoposta all'esame del Consiglio dei Governatori, la cui decisione e' inappellabile. In pendenza di tale decisione, la Banca puo', se lo ritiene necessario, agire sulla base delle decisioni del Consiglio di Amministrazione.
 
-#### Articolo 58
+### Articolo 58
 
 ARBITRATO
 
 In caso di controversia insorta tra la Banca ed un membro che abbia cessato di essere tale, o tra la Banca ed un qualsiasi membro dopo che sia stasta decisa la cessazione delle operazioni della Banca, tale controversia e' sottoposta all'arbitrato di un tribunale composto da tre (3) arbitri, di cui uno nominato dalla Banca, uno dal membro o ex-membro interessato e il terzo, a meno che le parti non stabiliscano diversamente, dal Presidente della Corte Internazionale di Giustizia, o da altra autorita' indicata nei regolamenti adottati dal Consiglio dei Governatori. Un voto a maggioranza degli arbitri e' sufficiente per una decisione inappellabile e vincolante per le parti. Il terzo arbitro ha pieno potere di decidere su tutte le questioni procedurali in qualunque caso vi sia disaccordo tra le parti a tale proposito.
 
-#### Articolo 59
+### Articolo 59
 
 PRESUNZIONE DI APPROVAZIONE
 
@@ -932,7 +930,7 @@ Ogni qualvolta sia richiesta l'approvazione di un qualsiasi membro prima che un 
 
 ## Capitolo X - DISPOSIZIONI FINALI
 
-#### Articolo 60
+### Articolo 60
 
 FIRMA E DEPOSITO
 
@@ -940,7 +938,7 @@ FIRMA E DEPOSITO
 
 2\. Il Depositario trasmette copia autenticata del presente Statuto a tutti i Firmatari.
 
-#### Articolo 61
+### Articolo 61
 
 RATIFICA, ACCETTAZIONE O APPROVAZIONE
 
@@ -950,7 +948,7 @@ RATIFICA, ACCETTAZIONE O APPROVAZIONE
 
 3\. Il Firmatario, che ha depositato lo strumento di cui al paragrafo 1 del presente articolo prima della data in cui il presente Statuto entra in vigore, diventa membro della Banca in quella data. Ogni altro Firmatario che adempie alle disposizioni del precedente paragrafo diventa membro della Banca alla data in cui il suo strumento di ratifica, accettazione o approvazione viene depositato.
 
-#### Articolo 62
+### Articolo 62
 
 ENTRATA IN VIGORE
 
@@ -958,7 +956,7 @@ ENTRATA IN VIGORE
 
 2\. Se il presente Statuto non e' entrato in vigore entro il 31 marzo 1991, il Depositario puo' convocare una conferenza dei futuri membri interessati per stabilire le azioni future e decidere una nuova data entro la quale gli strumenti di ratifica, accettazione o approvazione dovranno esssere depositati.
 
-#### Articolo 63
+### Articolo 63
 
 RIUNIONE INAUGURALE E INIZIO DELLE OPERAZIONI
 
@@ -976,7 +974,7 @@ RIUNIONE INAUGURALE E INIZIO DELLE OPERAZIONI
 
 Fatto a Parigi il 29 maggio 1990 in un unico originale, le cui versioni in lingua inglese, francese, tedesca e russa sono egualmente autentiche; tale originale e' depositato negli archivi del Depositario che ne trasmette una copia certificata a ciascuno dei futuri membri elencati nell'allegato A.
 
-#### Allegato A
+### Allegato A
 
 ALLEGATO A
 
@@ -1088,7 +1086,7 @@ E - Azioni non distribuite 125 1,25
 
 Totale 1000000 10000,00
 
-#### Allegato B
+### Allegato B
 
 ALLEGATO B
 

@@ -29,19 +29,19 @@ Promulga
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare il Trattato tra il Regno del Belgio, la Repubblica ceca, il Regno di Danimarca, la Repubblica federale di Germania, la Repubblica di Estonia, la Repubblica ellenica, il Regno di Spagna, la Repubblica francese, l'Irlanda, la Repubblica italiana, la Repubblica di Cipro, la Repubblica di Lettonia, la Repubblica di Lituania, il Granducato di Lussemburgo, la Repubblica di Ungheria, la Repubblica di Malta, il Regno dei Paesi Bassi, la Repubblica d'Austria, la Repubblica di Polonia, la Repubblica portoghese, la Repubblica di Slovenia, la Repubblica Slovacca, la Repubblica di Finlandia, il Regno di Svezia, il Regno Unito di Gran Bretagna e Irlanda del Nord (Stati dell'Unione europea) e la Repubblica di Bulgaria e la Romania, relativo all'adesione della Repubblica di Bulgaria e della Romania all'Unione europea, con Protocollo e allegati, Atto di adesione ed allegati, Atto finale e dichiarazioni e scambio di Lettere, fatto a Lussemburgo il 25 aprile 2005.
 
-##### Art. 2
+#### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data al Trattato di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 4 del Trattato stesso.
 
-##### Art. 3
+#### Art. 3
 
 Entrata in vigore
 
@@ -63,7 +63,7 @@ Visto, il Guardasigilli: Castelli
 
 ## Allegati
 
-##### art. 1
+#### art. 1
 
 TRATTATO
 
@@ -483,7 +483,7 @@ ARTICOLO 1
 
 4\. Il protocollo, compresi i relativi allegati e appendici, e' allegato al trattato che adotta una Costituzione per l'Europa e al trattato che istituisce la Comunita' europea dell'energia atomica, e le relative disposizioni costituiscono parte integrante di tali trattati.
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 1\. Qualora il trattato che adotta una Costituzione per l'Europa non sia in vigore alla data di adesione, la Repubblica di Bulgaria e la Romania diventano Parti dei trattati sui quali e' fondata l'Unione, cosi' come modificati o completati.
 
@@ -495,11 +495,11 @@ In tal caso l'articolo 1, paragrafi da 2 a 4, si applica dalla data di entrata i
 
 Gli atti adottati prima dell'entrata in vigore del protocollo di cui all'articolo 1, paragrafo 3 ai sensi del presente trattato o dell'atto di cui al paragrafo 2 rimangono in vigore e i loro effetti giuridici sono preservati fino alla modifica o all'abrogazione di tali atti.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 Le disposizioni concernenti i diritti e gli obblighi degli Stati membri, nonche' i poteri e le competenze delle istituzioni dell'Unione, quali figurano nei trattati di cui la Repubblica di Bulgaria e la Romania diventano Parti, si applicano ai fini del presente trattato.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 1\. Il presente trattato e' ratificato dalle Alte Parti contraenti secondo le rispettive norme costituzionali. Gli strumenti di ratifica sono depositati presso il governo della Repubblica italiana al piu' tardi il 31 dicembre 2006.
 
@@ -517,7 +517,7 @@ Se tale decisione e' adottata nei confronti di uno solo degli Stati aderenti il 
 
 Queste misure prendono effetto con riserva dell'entrata in vigore del presente trattato e alla data di quest'ultima.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 Il testo del trattato che adotta una Costituzione per l'Europa, redatto in lingua bulgara e rumena, e' accluso al presente trattato.
 
@@ -525,13 +525,13 @@ Tali testi fanno fede alle stesse condizioni dei testi del trattato che adotta u
 
 Il Governo della Repubblica italiana rimette ai governi della Repubblica di Bulgaria e della Romania copia certificata conforme del trattato che adotta una Costituzione per l'Europa in tutte le lingue di cui al primo comma.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 Il presente trattato, redatto in un unico esemplare in lingua bulgara, ceca, danese, estone, finlandese, francese, greca, inglese, irlandese, italiana, lettone, lituana, maltese, olandese, polacca, portoghese, rumena, slovacca, slovena, spagnola, svedese, tedesca e ungherese, i testi in ciascuna di queste lingue facenti ugualmente fede, sara' depositato negli archivi del governo della Repubblica italiana, che provvedera a trasmetterne copia certificata conforme a ciascuno dei governi degli altri Stati firmatari.
 
 Parte di provvedimento in formato grafico
 
-##### Sommario
+#### Sommario
 
 TRATTATO DI ADESIONE ALL'UNIONE EUROPEA 2005
 
@@ -951,7 +951,7 @@ CONSIDERANDO che l'articolo I-58 del trattato che adotta una Costituzione per l'
 
 HANNO CONVENUTO le seguenti disposizioni, che sono allegate al trattato che adotta una Costituzione per l'Europa e al trattato che istituisce la Comunita' europea dell'energia atomica:
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 l. Ai fini del presente protocollo:
 
@@ -965,11 +965,11 @@ per "nuovi Stati membri" si intendono la Repubblica di Bulgaria e la Romania; pe
 
 2\. I riferimenti alla Costituzione e all'Unione contenuti nel presente protocollo si intendono fatti, a seconda dei casi, rispettivamente al trattato CEEA e alla Comunita' istituita dal trattato CEEA.
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Dalla data di adesione le disposizioni della Costituzione, del trattato CEEA e degli atti adottati dalle istituzioni prima dell'adesione vincolano la Bulgaria e la Romania e si applicano in tali Stati alle condizioni previste dalla Costituzione, dal trattato CEEA e dal presente protocollo.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 1\. La Bulgaria e la Romania aderiscono alle decisioni ed agli accordi adottati dai rappresentanti dei governi degli Stati membri riuniti in sede di Consiglio.
 
@@ -985,7 +985,7 @@ Dalla data di adesione le disposizioni della Costituzione, del trattato CEEA e d
 
 7\. Gli strumenti specifici di cui al presente articolo includono quelli citati nell'articolo IV-438 della Costituzione.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 1\. Le disposizioni dell'acquis di Schengen, di cui al protocollo 17 della Costituzione sull'acquis di Schengen integrato nell'ambito dell'Unione europea e gli atti basati su detto acquis o ad esso altrimenti connessi, elencati nell'allegato II cosi' come gli altri atti di tale tipo adottati prima dell'adesione sono vincolanti e si applicano in Bulgaria e Romania dalla data di adesione.
 
@@ -993,11 +993,11 @@ Dalla data di adesione le disposizioni della Costituzione, del trattato CEEA e d
 
 Il Consiglio adotta la sua decisione, previa consultazione del Parlamento europeo, deliberando all'unanimita' dei suoi membri che rappresentano i governi degli Stati membri in relazione ai quali sono gia state attuate le disposizioni di cui al presente paragrafo e del rappresentante del governo dello Stato membro in relazione al quale occorre attuare tali disposizioni. I membri del Consiglio che rappresentano i governi dell'Irlanda e del Regno Unito di Gran Bretagna e Irlanda del Nord partecipano a tale decisione nella misura in cui essa si riferisce a disposizioni dell'acquis di Schengen e ad atti basati su di esso, o ad esso altrimenti connessi, di cui detti Stati membri sono parti.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 La Bulgaria e la Romania partecipano all'Unione economica e monetaria a decorrere dalla data di adesione quali Stati membri con deroga ai sensi dell'articolo III-197 della Costituzione.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 1\. Gli accordi e le convenzioni conclusi o provvisoriamente applicati dall'Unione con uno o piu' Stati terzi, con un'organizzazione internazionale o con un cittadino di uno Stato terzo sono vincolanti per la Bulgaria e la Romania alle condizioni
 
@@ -1097,35 +1097,33 @@ presto possibile dopo tale data, dagli accordi e dalle organizzazioni internazio
 
 accordi conclusi o firmati dall'Unione includono quelli di cui all'articolo IV-438 della Costituzione.
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 Una legge europea del Consiglio puo' abrogare le disposizioni
 
 transitorie del presente protocollo quando esse non siano piu' applicabili. Il Consiglio delibera all'unanimita' previa consultazione del Parlamento europeo.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 1\. Gli atti adottati dalle istituzioni ai quali si riferiscono le disposizioni transitorie previste dal presente protocollo conservano la loro natura giuridica; in particolare, rimangono applicabili le procedure per la loro modifica.
 
 2\. Le disposizioni del presente protocollo che hanno per oggetto o per effetto di abrogare o di modificare, a titolo non transitorio, atti adottati dalle istituzioni acquistano la stessa natura giuridica delle disposizioni cosi' abrogate o modificate e sono soggette alle stesse norme.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 L'applicazione della Costituzione e degli atti adottati dalle istituzioni e' soggetta, a titolo transitorio, alle deroghe previste dal presente protocollo.
 
 ## PARTE SECONDA - ADATTAMENTI DELLA COSTITUZIONE
 
-### TITOLO I
+### TITOLO I - DISPOSIZIONI ISTITUZIONALI
 
-#### DISPOSIZIONI ISTITUZIONALI
-
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 1\. L'articolo 9, primo comma del protocollo n. 3 sullo Statuto della Corte di giustizia dell'Unione europea, allegato alla Costituzione e al trattato CEEA, e' sostituito dal seguente; "Il rinnovo parziale dei giudici, che ha luogo ogni tre anni, riguarda alternativamente quattordici e tredici giudici.".
 
 2\. L'articolo 48 del protocollo n. 3 sullo Statuto della Corte di giustizia dell'Unione europea, allegato alla Costituzione e al trattato CEEA, e' sostituito dal seguente: "Articolo 48 Il Tribunale e' composto di ventisette giudici".
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 Il protocollo n. 5 sullo statuto della Banca europea per gli
 
@@ -1199,15 +1197,15 @@ Bulgaria, dalla Repubblica ceca, dalla Repubblica di Cipro, dalla Repubblica di 
 
 \- un sostituto designato dalla Commissione.".
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 L'articolo 134, paragrafo 2, primo comma del trattato CEEA relativo alla composizione del Comitato scientifico e tecnico e' sostituito dal seguente:
 
 "2. Il comitato e' composto di quarantuno membri, nominati dal Consiglio previa consultazione della Commissione."
 
-## TITOLO II - ALTRI ADATTAMENTI
+### TITOLO II - ALTRI ADATTAMENTI
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 L'ultima frase dell'articolo III-157, paragrafo 1 della
 
@@ -1217,7 +1215,7 @@ Costituzione e' sostituita dalla seguente:
 
 nazionale in Bulgaria, Estonia ed Ungheria, la data in questione e' il 31 dicembre 1999".
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 L'articolo IV-440, paragrafo I della Costituzione e' sostituito
 
@@ -1227,7 +1225,7 @@ dal seguente:
 
 Repubblica di Bulgaria, alla Repubblica ceca, al Regno di Danimarca, alla Repubblica federale di Germania, alla Repubblica di Estonia, alla Repubblica ellenica, al Regno di Spagna, alla Repubblica francese, all'Irlanda, alla Repubblica italiana, alla Repubblica di Cipro, alla Repubblica di Lettonia, alla Repubblica di Lituania, al Granducato del Lussemburgo, alla Repubblica di Ungheria, alla Repubblica di Malta, al Regno dei Paesi Bassi, alla Repubblica d'Austria, alla Repubblica di Polonia, alla Repubblica portoghese, alla Romania, alla Repubblica di Slovenia, alla Repubblica slovacca, alla Repubblica di Finlandia, al Regno di Svezia e al Regno Unito di Gran Bretagna e Irlanda del Nord."
 
-##### ARTICOLO 15
+#### ARTICOLO 15
 
 1\. All'articolo IV-448, paragrafo 1 della Costituzione e' aggiunto
 
@@ -1249,31 +1247,29 @@ spagnola, svedese e ungherese."
 
 ## PARTE TERZA - DISPOSIZIONI PERMANENTI
 
-### TITOLO I
+### TITOLO I - ADATTAMENTI DEGLI ATTI DELLE ISTITUZIONI
 
-#### ADATTAMENTI DEGLI ATTI DELLE ISTITUZIONI
-
-##### ARTICOLO 16
+#### ARTICOLO 16
 
 Gli atti elencati nell'allegato III del presente protocollo
 
 formano oggetto degli adattamenti specificati in tale allegato.
 
-##### ARTICOLO 17
+#### ARTICOLO 17
 
 Gli adattamenti degli atti elencati nell'allegato IV del presente
 
 protocollo, resi necessari dall'adesione, sono effettuati conformemente agli orientamenti enunciati in detto allegato.
 
-## TITOLO II - ALTRE DISPOSIZIONI
+### TITOLO II - ALTRE DISPOSIZIONI
 
-##### ARTICOLO 18
+#### ARTICOLO 18
 
 Le misure elencate nell'allegato V del presente protocollo sono
 
 applicate alle condizioni previste in detto allegato.
 
-##### ARTICOLO 19
+#### ARTICOLO 19
 
 Una legge europea del Consiglio puo' effettuare gli adattamenti
 
@@ -1283,15 +1279,15 @@ delle disposizioni del presente protocollo, relative alla politica agricola comu
 
 ### TITOLO I - MISURE TRANSITORIE
 
-##### ARTICOLO 20
+#### ARTICOLO 20
 
 Le misure elencate negli allegati VI e VII del presente protocollo
 
 si applicano alla Bulgaria e alla Romania alle condizioni stabilite in detti allegati.
 
-## TITOLO II - DISPOSIZIONI ISTITUZIONALI
+### TITOLO II - DISPOSIZIONI ISTITUZIONALI
 
-##### ARTICOLO 21
+#### ARTICOLO 21
 
 1\. Nell'articolo 1, paragrafo 2 del protocollo n. 34 sulle
 
@@ -1325,7 +1321,7 @@ ultimo dalla decisione 2002/772/CE, Euratom del Consiglio
 
 (GU L 283 del 21.10.2002, pag. 1).
 
-##### ARTICOLO 22
+#### ARTICOLO 22
 
 1\. Nell'articolo 2, paragrafo 2, secondo comma del protocollo n.
 
@@ -1343,7 +1339,7 @@ sulle disposizioni transitorie relative alle istituzioni e agli organi dell'Unio
 
 che esprimano il voto favorevole della maggioranza dei membri quando, in virtu' della Costituzione, debbono essere prese su proposta della Commissione. Negli altri casi le deliberazioni sono valide se hanno ottenuto almeno 255 voti che esprimano il voto favorevole di almeno due terzi dei membri.".
 
-##### ARTICOLO 23
+#### ARTICOLO 23
 
 Nell'articolo 6 del protocollo n. 34 sulle disposizioni
 
@@ -1355,7 +1351,7 @@ e, tra le voci relative al Portogallo e alla Slovenia:
 
 "Romania 15".
 
-##### ARTICOLO 24
+#### ARTICOLO 24
 
 Nell'articolo 7 del protocollo n. 34 sulle disposizioni
 
@@ -1367,9 +1363,9 @@ e, tra le voci relative al Portogallo e alla Slovenia:
 
 "Romania 15".
 
-## TITOLO III - DISPOSIZIONI FINANZIARIE
+### TITOLO III - DISPOSIZIONI FINANZIARIE
 
-##### ARTICOLO 25
+#### ARTICOLO 25
 
 1\. Dalla data di adesione, la Bulgaria e la Romania versano i
 
@@ -1409,7 +1405,7 @@ versati dalla Bulgaria e dalla Romania in contanti in euro, salvo deroga decisa 
 
 per il 2003 pubblicati da Eurostat.
 
-##### ARTICOLO 26
+#### ARTICOLO 26
 
 1\. La Bulgaria e la Romania versano i seguenti importi al Fondo di
 
@@ -1437,7 +1433,7 @@ corrisposti, a partire dal 2009, in quattro rate da versare il primo giorno lavo
 
 (1) GU L 79 del 22.3.2002, pag. 42.
 
-##### ARTICOLO 27
+#### ARTICOLO 27
 
 1\. A decorrere dalla data di adesione, l'indizione delle gare
 
@@ -1525,7 +1521,7 @@ ultimo dal regolamento (CE, Euratom) n. 723/2004 (GU L 124
 
 del 27.4.2004, pag. 1).
 
-##### ARTICOLO 28
+#### ARTICOLO 28
 
 1\. Si considerano approvate dalla Commissione, ai sensi del
 
@@ -1563,7 +1559,7 @@ da ultimo dall'atto di adesione del 2003 (GU L 236 del
 
 23.9.2003, pag. 33).
 
-##### ARTICOLO 29
+#### ARTICOLO 29
 
 Qualora il periodo per gli impegni pluriennali assunti nell'ambito
 
@@ -1593,7 +1589,7 @@ da ultimo dall'atto di adesione del 2003 (GU L 236 del
 
 23.9.2003, pag. 33).
 
-##### ARTICOLO 30
+#### ARTICOLO 30
 
 1\. La Bulgaria, conformemente agli impegni assunti, ha chiuso
 
@@ -1623,7 +1619,7 @@ dell'assistenza di cui al paragrafo 2. Le norme sono adottate secondo la decisio
 
 (1) GU L 184 del 17.7.1999, pag. 23.
 
-##### ARTICOLO 31
+#### ARTICOLO 31
 
 1\. Nel primo anno successivo all'adesione, l'Unione fornisce alla
 
@@ -1645,7 +1641,7 @@ prezzi 2004, per la Bulgaria e la Romania ammontano a 82 milioni di EUR nel prim
 
 e' decisa ed attuata secondo la procedura di cui al regolamento (CEE) n. 3906/89 del Consiglio relativo all'aiuto economico a favore di taluni paesi dell'Europa centrale e orientale.
 
-##### ARTICOLO 32
+#### ARTICOLO 32
 
 1\. E' istituito uno strumento per i flussi di tesoreria e Schengen
 
@@ -1679,7 +1675,7 @@ Bulgaria e alla Romania il primo giorno lavorativo di ciascun mese dell'anno cor
 
 necessario al funzionamento dello strumento per i flussi di tesoreria e Schengen a carattere temporaneo.
 
-##### ARTICOLO 33
+#### ARTICOLO 33
 
 1\. Fatte salve le decisioni di carattere politico da prendere in
 
@@ -1701,7 +1697,7 @@ futuro, il totale degli stanziamenti d'impegno per azioni strutturali da rendere
 
 2\. Nel triennio 2007-2009, la portata e la natura degli interventi, nell'ambito di queste dotazioni fisse per paese, sono determinate sulla base delle disposizioni applicabili in quel momento alla spesa per gli interventi strutturali.
 
-##### ARTICOLO 34
+#### ARTICOLO 34
 
 1\. Oltre ai regolamenti relativi allo sviluppo rurale in vigore
 
@@ -1719,15 +1715,15 @@ dell'allegato VIII sono adottate in conformita' della procedura di cui all'artic
 
 consultazione del Parlamento europeo, effettua gli adattamenti delle disposizioni dell'allegato VIII, laddove necessario, per garantire la coerenza con i regolamenti relativi allo sviluppo rurale.
 
-##### ARTICOLO 35
+#### ARTICOLO 35
 
 Gli importi di cui agli articoli 30, 31, 32, 33 e 34 sono adeguati
 
 annualmente dalla Commissione in linea con le variazioni dei prezzi come parte degli adeguamenti tecnici annuali delle prospettive finanziarie.
 
-## TITOLO IV - ALTRE DISPOSIZIONI
+### TITOLO IV - ALTRE DISPOSIZIONI
 
-##### ARTICOLO 36
+#### ARTICOLO 36
 
 1\. Entro un periodo massimo di tre anni dalla data di adesione, in
 
@@ -1749,7 +1745,7 @@ dello Stato membro interessato, la Commissione delibera entro cinque giorni lavo
 
 comportare deroghe alle norme della Costituzione e in particolare al presente protocollo, nei limiti e nei termini strettamente necessari per raggiungere gli scopi contemplati dal paragrafo 1. Nella scelta di tali misure si dovra' accordare la precedenza a quelle che turbino il meno possibile il funzionamento del mercato interno.
 
-##### ARTICOLO 37
+#### ARTICOLO 37
 
 Qualora la Bulgaria o la Romania non abbiano osservato gli impegni
 
@@ -1759,7 +1755,7 @@ Tali misure sono proporzionate e la precedenza e' accordata a
 
 quelle che turbino il meno possibile il funzionamento del mercato interno e, se del caso, all'applicazione dei meccanismi di salvaguardia settoriali esistenti. Tali misure di salvaguardia non possono essere invocate come mezzo di discriminazione arbitraria o di restrizione dissimulata agli scambi tra Stati membri. La clausola di salvaguardia puo' essere invocata anche prima dell'adesione in base ai risultati del monitoraggio e le misure adottate entrano in vigore dalla data di adesione a meno che non sia prevista una data successiva. Le misure non sono mantenute oltre il tempo strettamente necessario e, in ogni caso, cessano di essere applicate una volta attuato l'impegno pertinente. Esse possono tuttavia essere applicate oltre il periodo specificato nel primo comma fino a che non siano adempiuti i pertinenti impegni. In risposta ai progressi compiuti dal nuovo Stato membro interessato nell'adempimento dei propri impegni, la Commissione puo' adeguare opportunamente le misure. La Commissione informa il Consiglio in tempo utile prima di revocare i regolamenti e le decisioni europei che stabiliscono le misure di salvaguardia e tiene nel debito conto eventuali osservazioni del Consiglio al riguardo.
 
-##### ARTICOLO 38
+#### ARTICOLO 38
 
 In caso di carenze gravi o di rischio imminente di carenze gravi
 
@@ -1769,7 +1765,7 @@ Tali misure possono assumere la forma di una sospensione
 
 temporanea dell'applicazione delle pertinenti disposizioni e decisioni nelle relazioni tra Bulgaria o Romania e uno o piu' altri Stati membri, senza pregiudicare il proseguimento di una stretta cooperazione giudiziaria. La clausola di salvaguardia puo' essere invocata anche prima dell'adesione in base ai risultati del monitoraggio e le misure adottate entrano in vigore dalla data di adesione a meno che non sia prevista una data successiva. Le misure non sono mantenute oltre il tempo strettamente necessario e, in ogni caso, cessano di essere applicate una volta posto rimedio alle carenze. Esse possono tuttavia essere applicate oltre il periodo specificato nel primo comma finche' tali carenze persistono. In risposta ai progressi compiuti dal nuovo Stato membro interessato nel porre rimedio alle carenze individuate, la Commissione, previa consultazione degli Stati membri, puo' adeguare opportunamente le misure. La Commissione informa il Consiglio in tempo utile prima di revocare i regolamenti e le decisioni europei che stabiliscono le misure di salvaguardia e tiene nel debito conto eventuali osservazioni del Consiglio al riguardo.
 
-##### ARTICOLO 39
+#### ARTICOLO 39
 
 1\. Se il costante controllo da parte della Commissione degli
 
@@ -1797,13 +1793,13 @@ Repubblica di Romania, dall'altra (GU L 357 del 31.12.1994,
 
 pag. 2).
 
-##### ARTICOLO 40
+#### ARTICOLO 40
 
 Al fine di non ostacolare il buon funzionamento del mercato
 
 interno, l'applicazione delle disposizioni nazionali della Bulgaria e della Romania durante i periodi transitori di cui agli allegati VI e VII non deve condurre a controlli di frontiera tra gli Stati membri.
 
-##### ARTICOLO 41
+#### ARTICOLO 41
 
 Qualora siano necessarie misure transitorie per facilitare il
 
@@ -1817,7 +1813,7 @@ strumenti riguardanti la politica agricola comune che non sono specificate nel p
 
 (1) GU L 270 del 21.10.2003, pag. 78.
 
-##### ARTICOLO 42
+#### ARTICOLO 42
 
 Qualora siano necessarie misure transitorie per facilitare il
 
@@ -1825,23 +1821,21 @@ passaggio dal regime esistente in Bulgaria e in Romania a quello risultante dall
 
 ## PARTE QUINTA - DISPOSIZIONI DI APPLICAZIONE DEL PRESENTE PROTOCOLLO
 
-### TITOLO I
+### TITOLO I - INSEDIAMENTO DELLE ISTITUZIONI E DEGLI ORGANI
 
-#### INSEDIAMENTO DELLE ISTITUZIONI E DEGLI ORGANI
-
-##### ARTICOLO 43
+#### ARTICOLO 43
 
 Il Parlamento europeo apporta al suo regolamento interno gli
 
 adattamenti resi necessari dall'adesione.
 
-##### ARTICOLO 44
+#### ARTICOLO 44
 
 Il Consiglio apporta al suo regolamento interno gli adattamenti
 
 resi necessari dall'adesione.
 
-##### ARTICOLO 45
+#### ARTICOLO 45
 
 Un cittadino di ogni nuovo Stato membro e' nominato membro della
 
@@ -1851,7 +1845,7 @@ Il mandato dei membri cosi' nominati scade contemporaneamente a
 
 quello dei membri che sono in carica al momento dell'adesione.
 
-##### ARTICOLO 46
+#### ARTICOLO 46
 
 1\. Due giudici sono nominati alla Corte di giustizia e due giudici
 
@@ -1881,31 +1875,31 @@ all'approvazione del Consiglio.
 
 organi alla data di adesione, per le quali la procedura orale sia stata aperta prima di tale data, la Corte di giustizia e il Tribunale in seduta plenaria o le sezioni si riuniscono nella composizione che avevano prima dell'adesione e applicano il regolamento di procedura vigente il giorno precedente la data di adesione.
 
-##### ARTICOLO 47
+#### ARTICOLO 47
 
 Un cittadino di ogni nuovo Stato membro e' nominato alla Corte dei
 
 conti a partire dalla data di adesione per un periodo di sei anni.
 
-##### ARTICOLO 48
+#### ARTICOLO 48
 
 Il Comitato delle regioni e' completato con la nomina di 27
 
 membri, in rappresentanza delle collettivita' regionali e locali della Bulgaria e della Romania, titolari di un mandato elettorale regionale o locale oppure politicamente responsabili dinanzi a un'assemblea eletta. Il mandato dei membri cosi' nominati scade contemporaneamente a quello dei membri che sono in carica al momento dell'adesione.
 
-##### ARTICOLO 49
+#### ARTICOLO 49
 
 Il Comitato economico e sociale e' completato con la nomina di 27
 
 membri in rappresentanza delle varie componenti economiche e sociali della societa' civile organizzata della Bulgaria e della Romania. Il mandato dei membri cosi' nominati scade contemporaneamente a quello dei membri che sono in carica al momento dell'adesione.
 
-##### ARTICOLO 50
+#### ARTICOLO 50
 
 Gli adattamenti degli statuti e dei regolamenti interni dei
 
 Comitati istituiti dalla Costituzione, resi necessari dall'adesione, sono effettuati non appena possibile dopo l'adesione.
 
-##### ARTICOLO 51
+#### ARTICOLO 51
 
 1\. I nuovi membri dei comitati, dei gruppi e degli altri enti
 
@@ -1915,9 +1909,9 @@ istituiti dalla Costituzione o da un atto delle istituzioni sono nominati alle c
 
 delle istituzioni con un numero di membri fisso a prescindere dal numero di Stati membri sono integralmente rinnovati all'adesione, a meno che il mandato dei membri in carica non scada entro l'anno successivo all'adesione.
 
-## TITOLO II - APPLICABILITA DEGLI ATTI DELLE ISTITUZIONI
+### TITOLO II - APPLICABILITA DEGLI ATTI DELLE ISTITUZIONI
 
-##### ARTICOLO 52
+#### ARTICOLO 52
 
 Dalla data di adesione la Bulgaria e la Romania sono considerate
 
@@ -1925,7 +1919,7 @@ come destinatari delle leggi quadro europee, dei regolamenti europei e delle dec
 
 Fatta eccezione per le decisioni europee che entrano in vigore ai sensi dell'articolo I-39, paragrafo 2 della Costituzione e per le direttive e le decisioni entrate in vigore ai sensi dell'articolo 254, paragrafi 1 e 2 del trattato che istituisce la Comunita' europea, la Bulgaria e la Romania sono considerate come aventi ricevuto notifica di tali decisioni europee e di tali direttive e decisioni al momento dell'adesione.
 
-##### ARTICOLO 53
+#### ARTICOLO 53
 
 1\. La Bulgaria e la Romania mettono in vigore le misure necessarie
 
@@ -1935,45 +1929,45 @@ per conformarsi, dalla data di adesione, alle disposizioni delle leggi quadro eu
 
 all'articolo 249 del trattato che istituisce la Comunita' europea e all'articolo 161 del trattato CEEA introdotte dal presente protocollo richiedono modifiche delle disposizioni legislative, regolamentari o amministrative degli attuali Stati membri, questi ultimi adottano le misure necessarie per conformarsi, dalla data di adesione, alle direttive modificate, a meno che un altro termine non sia previsto dal presente protocollo. Essi comunicano tali misure alla Commissione entro la data di adesione o entro il termine previsto dal presente protocollo, se successivo.
 
-##### ARTICOLO 54
+#### ARTICOLO 54
 
 Le disposizioni legislative, regolamentari e amministrative
 
 destinate ad assicurare, sul territorio della Bulgaria e della Romania, la protezione sanitaria della popolazione e dei lavoratori contro i pericoli derivanti dalle radiazioni ionizzanti sono comunicate da questi Stati alla Commissione, conformemente all'articolo 33 del trattato CEEA, entro tre mesi dall'adesione.
 
-##### ARTICOLO 55
+#### ARTICOLO 55
 
 Dietro richiesta debitamente circostanziata presentata dalla
 
 Bulgaria o Romania alla Commissione entro la data di adesione, il Consiglio, deliberando su proposta della Commissione, o la Commissione, se l'atto iniziale e' stato adottato da essa, possono adottare regolamenti o decisioni europei che stabiliscono deroghe temporanee ad atti delle istituzioni adottati tra il l° ottobre 2004 e la data dell'adesione. Le misure sono adottate in conformita' delle regole di voto che disciplinano l'adozione dell'atto rispetto al quale si chiede una deroga temporanea. Tali deroghe, se adottate dopo l'adesione, sono applicabili dalla data di adesione.
 
-##### ARTICOLO 56
+#### ARTICOLO 56
 
 Quando gli atti delle istituzioni adottati anteriormente
 
 all'adesione richiedono adattamenti in conseguenza dell'adesione e gli adattamenti necessari non sono contemplati nel presente protocollo o nei suoi allegati, il Consiglio, deliberando su proposta della Commissione, o la Commissione, se l'atto iniziale e' stato adottato da essa, adottano gli atti a tal fine necessari. Tali adattamenti, se adottati dopo l'adesione, sono applicabili dalla data di adesione.
 
-##### ARTICOLO 57
+#### ARTICOLO 57
 
 Salvo disposizioni contrarie, il Consiglio adotta, su proposta
 
 della Commissione, i regolamenti o le decisioni europei che istituiscono le misure necessarie per l'applicazione delle disposizioni del presente protocollo.
 
-##### ARTICOLO 58
+#### ARTICOLO 58
 
 I testi degli atti delle istituzioni adottati anteriormente
 
 all'adesione e redatti dal Consiglio, dalla Commissione e dalla Banca centrale europea in lingua bulgara e rumena fanno fede, dalla data dell'adesione, alle stesse condizioni dei testi redatti nelle lingue ufficiali attuali. Essi sono pubblicati nella Gazzetta ufficiale dell'Unione europea qualora i testi nelle lingue attuali siano stati oggetto di una tale pubblicazione.
 
-## TITOLO III - DISPOSIZIONI FINALI
+### TITOLO III - DISPOSIZIONI FINALI
 
-##### ARTICOLO 59
+#### ARTICOLO 59
 
 Gli allegati I e IX e le relative appendici costituiscono parte
 
 integrante del presente protocollo.
 
-##### ARTICOLO 60
+#### ARTICOLO 60
 
 Il Governo della Repubblica italiana rimette ai governi della
 
@@ -1983,13 +1977,13 @@ Il testo del suddetto trattato, redatto in lingua bulgara e
 
 rumena, e' allegato al presente protocollo. Tali testi fanno fede alle stesse condizioni dei testi dei trattati di cui al primo comma redatti nelle lingue attuali.
 
-##### ARTICOLO 61
+#### ARTICOLO 61
 
 Il Segretario Generale rimette ai governi della Repubblica di
 
 Bulgaria e della Romania copia certificata conforme degli accordi internazionali depositati negli archivi del Segretariato generale del Consiglio dell'Unione europea.
 
-##### Allegato I
+#### Allegato I
 
 ALLEGATO I
 
@@ -2121,7 +2115,7 @@ Protocollo del 16 ottobre 2001 stabilito dal Consiglio a norma
 
 dell'articolo 34 del trattato sull'Unione europea, della convenzione relativa all'assistenza giudiziaria in materia penale tra gli Stati membri dell'Unione europea (GU C 326 del 21.11.2001, pag. 2)
 
-##### Allegato II
+#### Allegato II
 
 ALLEGATO II
 
@@ -2545,7 +2539,7 @@ regolamento (CE) n. 2252/2004 del Consiglio, del 13 dicembre
 
 2004, relativo alle norme sulle caratteristiche di sicurezza e sugli elementi biometrici dei passaporti e dei documenti di viaggio rilasciati dagli Stati membri (M L 385 del 29.12.2004, pag. 1).
 
-##### Allegato III
+#### Allegato III
 
 ALLEGATO III
 
@@ -4499,7 +4493,7 @@ consumo personale."
 
 un'aliquota ridotta dell'accisa, non inferiore al 50% dell'aliquota normale nazionale dell'accisa sull'aleole etilico, all'aleole etilico fabbricato da distillerie di frutticoltori che producono annualmente piu' di 10 ettolitri di alcole etilico ottenuto da frutta fornita da nuclei familiari di frutticoltori. L'aliquota ridotta si applica limitatamente a 50 litri di acquavite di frutta all'anno per nucleo familiare di frutticoltori produttori, destinati esclusivamente al consumo personale. La Commissione riesaminera il presente accordo nel 2015 e riferira' al Consiglio su eventuali modifiche.".
 
-##### Allegato IV
+#### Allegato IV
 
 ALLEGATO IV
 
@@ -4683,7 +4677,7 @@ Se necessario e conformemente alla procedura di cui all'articolo
 
 26, paragrafo 3 della direttiva 1999/105/CE, la Commissione adatta l'allegato I di detta direttiva riguardo alle specie forestali Pinus peuce Griseb., Fagus orientalis Lipsky, Quercus frainetto Ten. e Tilia tomentosa Moench.
 
-##### Allegato V
+#### Allegato V
 
 ALLEGATO V
 
@@ -5817,7 +5811,7 @@ rientrino nel campo d'applicazione del primo paragrafo.
 
 Parte di provvedimento in formato grafico
 
-##### Allegato VI
+#### Allegato VI
 
 ALLEGATO VI
 
@@ -6653,7 +6647,7 @@ trasformano sia latte conforme che latte non conforme di cui al capitolo 4, sezi
 
 Parte di provvedimento in formato grafico
 
-##### Allegato VII
+#### Allegato VII
 
 ALLEGATO VII
 
@@ -9821,7 +9815,7 @@ Sani Dornei, jud. Suceava
 
 jud. Brasov
 
-##### Allegato VIII
+#### Allegato VIII
 
 ALLEGATO VIII
 
@@ -10114,7 +10108,7 @@ modificato da ultimo dall'atto di adesione del 2003 (GU L
 
 236 del 23.9.2003, pag. 33).
 
-##### Allegato IX
+#### Allegato IX
 
 ALLEGATO IX
 
@@ -10170,7 +10164,7 @@ SUI QUALI SI FONDA L'UNIONE EUROPEA
 
 Conformemente all'articolo 2 del trattato di adesione, il presente atto si applica nel caso in cui il trattato che adotta una Costituzione per l'Europa non sia in vigore al l ° gennaio 2007 e fino alla data di entrata in vigore di quest'ultimo.
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 Ai fini del presente atto:
 
@@ -10190,11 +10184,11 @@ b) il trattato sull'Unione europea ("trattato UE"), quale e' stato completato o 
 
 \- per "istituzioni" si intendono le istituzioni create dai trattati originari.
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Dalla data di adesione le disposizioni dei trattati originari e gli atti adottati dalle istituzioni e dalla Banca centrale europea prima dell'adesione vincolano la Bulgaria e la Romania e si applicano in tali Stati alle condizioni previste da detti trattati e dal presente atto.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 1\. La Bulgaria e la Romania aderiscono alle decisioni ed agli accordi adottati dai rappresentanti dei governi degli Stati membri riuniti in sede di Consiglio.
 
@@ -10208,7 +10202,7 @@ Dalla data di adesione le disposizioni dei trattati originari e gli atti adottat
 
 6\. Il Consiglio, deliberando all'unanimita' su proposta della Commissione, puo' integrare l'allegato I con le convenzioni, gli accordi e i protocolli firmati prima della data di adesione.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 l. Le disposizioni dell'acquis di Schengen integrate nell'ambito dell'Unione europea dal protocollo allegato al trattato sull'Unione europea e al trattato che istituisce la Comunita' europea (in seguito denominato "protocollo di Schengen"), gli atti basati sul medesimo o ad esso altrimenti connessi, elencati nell'allegato II, cosi' come gli altri atti di tale tipo adottati prima dell'adesione sono vincolanti e si applicano in Bulgaria e Romania dalla data di adesione.
 
@@ -10216,11 +10210,11 @@ l. Le disposizioni dell'acquis di Schengen integrate nell'ambito dell'Unione eur
 
 Il Consiglio adotta la sua decisione, previa consultazione del Parlamento europeo, deliberando all'unanimita' dei suoi membri che rappresentano i governi degli Stati membri in relazione ai quali sono gia state attuate le disposizioni di cui al presente paragrafo e del rappresentante del governo dello Stato membro in relazione al quale occorre attuare tali disposizioni. I membri del Consiglio che rappresentano i governi dell'Irlanda e del Regno Unito di Gran Bretagna e Irlanda del Nord partecipano a tale decisione nella misura in cui essa si riferisce a disposizioni dell'acquis Schengen e ad atti basati su di esso, o ad esso altrimenti connessi, di cui detti Stati membri sono parti.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 La Bulgaria e la Romania partecipano all'Unione economica e monetaria a decorrere dalla data di adesione quali Stati membri con deroga ai sensi dell'articolo 122 del trattato CE.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 1\. Gli accordi e le convenzioni conclusi o provvisoriamente applicati dalla Comunita' oppure rientranti negli articoli 24 o 38 del trattato UE, con uno o piu' Stati terzi, con un'organizzazione internazionale o con un cittadino di uno Stato terzo sono vincolanti per la Bulgaria e la Romania alle condizioni previste dai trattati
 
@@ -10320,7 +10314,7 @@ presto possibile dopo tale data, dagli accordi e dalle organizzazioni internazio
 
 (2)GU L 1 del 3.1.1994, pag. 3.
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 1\. Le disposizioni del presente atto, se non e' stabilito
 
@@ -10334,7 +10328,7 @@ disposizioni transitorie previste dal presente atto conservano la loro natura gi
 
 effetto di abrogare o di modificare, a titolo non transitorio, atti adottati dalle istituzioni acquistano la stessa natura giuridica delle disposizioni cosi' abrogate o modificate e sono soggette alle stesse norme.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 L'applicazione dei trattati originari e degli atti adottati dalle
 
@@ -10342,11 +10336,9 @@ istituzioni e' soggetta, a titolo transitorio, alle deroghe previste dal present
 
 ## PARTE SECONDA - ADATTAMENTI DEI TRATTATI
 
-### TITOLO I
+### TITOLO I - DISPOSIZIONI ISTITUZIONALI
 
-#### DISPOSIZIONI ISTITUZIONALI
-
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 1\. All'articolo 189 del trattato CE e all'articolo 107 del
 
@@ -10418,7 +10410,7 @@ Svezia 18
 
 Regno Unito 72."
 
-##### ARTICOLO l0
+#### ARTICOLO l0
 
 1\. All'articolo 205 del trattato CE e all'articolo 118 del
 
@@ -10506,7 +10498,7 @@ dal seguente:
 
 maggioranza qualificata, ai voti dei membri e' attribuita la ponderazione prevista all'articolo 205, paragrafo 2 del trattato che istituisce la Comunita' europea e le deliberazioni sono valide se hanno ottenuto almeno 255 voti che esprimano il voto favorevole di almeno due terzi dei membri. Un membro del Consiglio puo' chiedere che, in caso di adozione da parte del Consiglio di una decisione a maggioranza qualificata, si verifichi che gli Stati membri che compongono tale maggioranza qualificata rappresentino almeno il 62% della popolazione totale dell'Unione. Qualora tale condizione non sia soddisfatta, la decisione non e' adottata.".
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 1\. All'articolo 9 del protocollo allegato al trattato UE, al
 
@@ -10524,7 +10516,7 @@ trattato CE e al trattato CEEA sullo statuto della Corte di giustizia e' sostitu
 
 Il Tribunale e' composto di ventisette giudici.".
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 All'articolo 258 del trattato CE e all'articolo 166 del trattato
 
@@ -10586,7 +10578,7 @@ Svezia 12
 
 Regno Unito 24".
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 All'articolo 263 del trattato CE, il terzo comma sulla composizione del Comitato delle regioni e' sostituito dal seguente:
 
@@ -10646,7 +10638,7 @@ Svezia 12
 
 Regno Unito 24".
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 II protocollo sullo statuto della Banca europea per gli
 
@@ -10736,7 +10728,7 @@ indicative e si basano sui dati per il 2003 pubblicati da
 
 Eurostat."
 
-##### ARTICOLO 15
+#### ARTICOLO 15
 
 All'articolo 134, paragrafo 2 del trattato CEEA, il primo comma
 
@@ -10746,9 +10738,9 @@ sulla composizione del Comitato scientifico e tecnico e' sostituito dal seguente
 
 Consiglio previa consultazione della Commissione.".
 
-## TITOLO II - ALTRI ADATTAMENTI
+### TITOLO II - ALTRI ADATTAMENTI
 
-##### ARTICOLO 16
+#### ARTICOLO 16
 
 L'ultima frase dell'articolo 57, paragrafo 1 del trattato CE e'
 
@@ -10758,7 +10750,7 @@ sostituita dalla seguente:
 
 normativa nazionale in Bulgaria, Estonia ed Ungheria, la pertinente data e' il 31 dicembre 1999.".
 
-##### ARTICOLO 17
+#### ARTICOLO 17
 
 All'articolo 299 del trattato CE, il paragrafo 1e' sostituito dal
 
@@ -10768,7 +10760,7 @@ seguente:
 
 Repubblica di Bulgaria, alla Repubblica ceca, al Regno di Danimarca, alla Repubblica federale di Germania, alla Repubblica di Estonia, alla Repubblica ellenica, al Regno di Spagna, alla Repubblica francese, all'Irlanda, alla Repubblica italiana, alla Repubblica di Cipro, alla Repubblica di Lettonia, alla Repubblica di Lituania, al Granducato del Lussemburgo, alla Repubblica di Ungheria, alla Repubblica di Malta, al Regno dei Paesi Bassi, alla Repubblica d'Austria, alla Repubblica di Polonia, alla Repubblica portoghese, alla Romania, alla Repubblica di Slovenia, alla Repubblica slovacca, alla Repubblica di Finlandia, al Regno di Svezia e al Regno Unito di Gran Bretagna e Irlanda del Nord.".
 
-##### ARTICOLO 18
+#### ARTICOLO 18
 
 l. All'articolo 314 del trattato CE, il secondo comma e'
 
@@ -10798,27 +10790,27 @@ versioni del presente trattato in lingua bulgara, ceca, estone, finlandese, lett
 
 ### TITOLO I - ADATTAMENTI DEGLI ATTI DELLE ISTITUZIONI
 
-##### ARTICOLO 19
+#### ARTICOLO 19
 
 Gli atti elencati nell'allegato III del presente atto formano
 
 oggetto degli adattamenti specificati in tale allegato.
 
-##### ARTICOLO 20
+#### ARTICOLO 20
 
 Gli adattamenti degli atti elencati nell'allegato IV del presente
 
 atto, resi necessari dall'adesione, sono effettuati conformemente agli orientamenti enunciati in detto allegato.
 
-## TITOLO II - ALTRE DISPOSIZIONI
+### TITOLO II - ALTRE DISPOSIZIONI
 
-##### ARTICOLO 21
+#### ARTICOLO 21
 
 Le misure elencate nell'allegato V del presente atto sono
 
 applicate alle condizioni previste in detto allegato.
 
-##### ARTICOLO 22
+#### ARTICOLO 22
 
 Il Consiglio, deliberando all'unanimita' su proposta della
 
@@ -10826,19 +10818,17 @@ Commissione e previa consultazione del Parlamento europeo, puo' effettuare gli a
 
 ## PARTE QUARTA - DISPOSIZIONI TEMPORANEE
 
-### TITOLO I
+### TITOLO I - MISURE TRANSITORIE
 
-#### MISURE TRANSITORIE
-
-##### ARTICOLO 23
+#### ARTICOLO 23
 
 Le misure elencate negli allegati VI e VII del presente atto si
 
 applicano nei confronti della Bulgaria e della Romania alle condizioni stabilite in detti allegati.
 
-## TITOLO II - DISPOSIZIONI ISTITUZIONALI
+### TITOLO II - DISPOSIZIONI ISTITUZIONALI
 
-##### ARTICOLO 24
+#### ARTICOLO 24
 
 1\. In deroga al numero massimo di membri del Parlamento europeo
 
@@ -10864,9 +10854,9 @@ ultimo dalla decisione del Consiglio 2002/772/EC, Euratom
 
 (GU L 283 del 21.10.2002, pag. 1).
 
-## TITOLO III - DISPOSIZIONI FINANZIARIE
+### TITOLO III - DISPOSIZIONI FINANZIARIE
 
-##### ARTICOLO 25
+#### ARTICOLO 25
 
 l. Dalla data di adesione, la Bulgaria e la Romania versano i
 
@@ -10912,7 +10902,7 @@ dati pubblicati da Eurostat per il 2003.
 
 versati dalla Bulgaria e dalla Romania in contanti in euro, salvo deroga decisa all'unanimita' dal consiglio dei governatori.
 
-##### ARTICOLO 26
+#### ARTICOLO 26
 
 1\. La Bulgaria e la Romania versano i seguenti importi al Fondo di
 
@@ -10938,7 +10928,7 @@ Romania 29,88
 
 (1)GU L 79 del 22.3.2002, pag. 42.
 
-##### ARTICOLO 27
+#### ARTICOLO 27
 
 1\. A decorrere dalla data di adesione, l'indizione delle gare
 
@@ -11028,7 +11018,7 @@ da ultimo dal regolamento (CE, Euratom) n. 723/2004 (GU L
 
 124 del 27.4.2004, pag. 1).
 
-##### ARTICOLO 28
+#### ARTICOLO 28
 
 1\. Si considera che la Commissione ha approvato, a norma del
 
@@ -11058,7 +11048,7 @@ ultimo dall'Atto di adesione del 2003 (GU L 236 del
 
 23.9.2003, pag. 33).
 
-##### ARTICOLO 29
+#### ARTICOLO 29
 
 Qualora il periodo di pagamento per gli impegni pluriennali
 
@@ -11088,7 +11078,7 @@ modificato da ultimo dall'Atto di adesione del 2003 (GU L
 
 236 del 23.9.2003, pag. 33).
 
-##### ARTICOLO 30
+#### ARTICOLO 30
 
 1\. La Bulgaria, conformemente agli impegni assunti, ha chiuso
 
@@ -11118,7 +11108,7 @@ all'attuazione dell'assistenza di cui al paragrafo 2. Tali disposizioni sono ado
 
 (1) GU L 184 del 17.7.1999, pag. 23.
 
-##### ARTICOLO 31
+#### ARTICOLO 31
 
 1\. Nel primo anno successivo all'adesione l'Unione fornisce alla
 
@@ -11140,7 +11130,7 @@ prezzi 2004, per la Bulgaria e la Romania ammontano a 82 milioni di EUR nel prim
 
 e' decisa e attuata in conformita' del regolamento (CEE) n. 3906/89 relativo all'aiuto economico a favore di taluni paesi dell'Europa centrale e orientale.
 
-##### ARTICOLO 32
+#### ARTICOLO 32
 
 l. E' istituito uno strumento per i flussi di tesoreria e
 
@@ -11174,7 +11164,7 @@ anno viene corrisposto alla Bulgaria e alla Romania un dodicesimo di ciascun imp
 
 necessario al funzionamento dello strumento temporaneo per i flussi di tesoreria e strumento Schengen.
 
-##### ARTICOLO 33
+#### ARTICOLO 33
 
 1\. Fatte salve future decisioni di carattere politico, il totale
 
@@ -11196,7 +11186,7 @@ degli stanziamenti d'impegno per azioni strutturali da rendere disponibile per B
 
 interventi, nell'ambito di tali dotazioni fisse per paese, sono determinati sulla base delle disposizioni applicabili al momento alle spese per azioni strutturali.
 
-##### ARTICOLO 34
+#### ARTICOLO 34
 
 1\. Oltre ai regolamenti relativi allo sviluppo rurale in vigore
 
@@ -11214,15 +11204,15 @@ dell'allegato VIII sono adottate in conformita' della procedura di cui all'artic
 
 proposta della Commissione, previa consultazione del Parlamento europeo, effettua gli adattamenti delle disposizioni dell'allegato VIII, laddove necessario, per garantire la coerenza con i regolamenti relativi allo sviluppo rurale.
 
-##### ARTICOLO 35
+#### ARTICOLO 35
 
 Gli importi di cui agli articoli 30, 31, 32, 33 e 34 sono adeguati
 
 ogni anno dalla Commissione, in linea con le oscillazioni dei prezzi, in quanto parte degli adeguamenti tecnici annuali alle prospettive finanziarie.
 
-## TITOLO IV - ALTRE DISPOSIZIONI
+### TITOLO IV - ALTRE DISPOSIZIONI
 
-##### ARTICOLO 36
+#### ARTICOLO 36
 
 1\. Entro un periodo massimo di tre anni dalla data di adesione,
 
@@ -11244,7 +11234,7 @@ dello Stato membro interessato, la Commissione delibera entro cinque giorni lavo
 
 comportare deroghe alle norme del trattato CE e al presente atto, nei limiti e nei termini strettamente necessari per raggiungere gli scopi contemplati dal paragrafo 1. Nella scelta di tali misure si dovra' accordare la precedenza a quelle che turbino il meno possibile il funzionamento del mercato interno.
 
-##### ARTICOLO 37
+#### ARTICOLO 37
 
 Qualora la Bulgaria o la Romania non abbiano osservato gli impegni
 
@@ -11254,7 +11244,7 @@ Tali misure sono proporzionate e la precedenza e' accordata a
 
 quelle che turbino il meno possibile il funzionamento del mercato interno e, se del caso, all'applicazione dei meccanismi di salvaguardia settoriali esistenti. Tali misure di salvaguardia non possono essere invocate come mezzo di discriminazione arbitraria o di restrizione dissimulata agli scambi tra Stati membri. La clausola di salvaguardia puo' essere invocata anche prima dell'adesione in base ai risultati del monitoraggio ed entrare in vigore dalla data di adesione a meno che non sia prevista una data successiva. Le misure non sono mantenute oltre il tempo strettamente necessario e, in ogni caso, cessano di essere applicate una volta attuato l'impegno pertinente. Esse possono tuttavia essere applicate oltre il periodo specificato nel primo comma fino a che non siano adempiuti i pertinenti impegni. In risposta ai progressi compiuti dal nuovo Stato membro interessato nell'adempimento dei propri impegni, la Commissione puo' adeguare opportunamente le misure. La Commissione informera' il Consiglio in tempo utile prima di revocare le misure di salvaguardia e terra' nel debito conto eventuali osservazioni del Consiglio al riguardo.
 
-##### ARTICOLO 38
+#### ARTICOLO 38
 
 In caso di carenze gravi o di rischio imminente di carenze gravi
 
@@ -11264,7 +11254,7 @@ Tali misure possono assumere la forma di una sospensione
 
 temporanea dell'applicazione delle pertinenti disposizioni e decisioni nelle relazioni tra Bulgaria o Romania e uno o piu' altri Stati membri, senza pregiudicare il proseguimento di una stretta cooperazione giudiziaria. La clausola di salvaguardia puo' essere invocata anche prima dell'adesione in base ai risultati del monitoraggio ed entrare in vigore dalla data di adesione a meno che non sia prevista una data successiva. Le misure non sono mantenute oltre il tempo strettamente necessario e, in ogni caso, cessano di essere applicate una volta posto rimedio alle carenze. Esse possono tuttavia essere applicate oltre il periodo specificato nel primo comma finche' tali carenze persistono. In risposta ai progressi compiuti dal nuovo Stato membro interessato nel porre rimedio alle carenze individuate, la Commissione, previa consultazione degli Stati membri, puo' adeguare opportunamente le misure. La Commissione informera' il Consiglio in tempo utile prima di revocare le misure di salvaguardia e terra' nel debito conto eventuali osservazioni del Consiglio al riguardo.
 
-##### ARTICOLO 39
+#### ARTICOLO 39
 
 1\. Se il costante controllo da parte della Commissione degli
 
@@ -11290,13 +11280,13 @@ la Repubblica di Romania, dall'altra (GU L 357 del
 
 31.12.1994, pag. 2).
 
-##### ARTICOLO 40
+#### ARTICOLO 40
 
 Al fine di non ostacolare il buon funzionamento del mercato
 
 interno, l'applicazione delle disposizioni nazionali della Bulgaria e della Romania durante i periodi transitori di cui agli allegati VI e VII deve condurre a controlli di frontiera tra gli Stati membri.
 
-##### ARTICOLO 41
+#### ARTICOLO 41
 
 Qualora siano necessarie misure transitorie per facilitare il
 
@@ -11310,7 +11300,7 @@ strumenti riguardanti la politica agricola comune che non sono specificati nel p
 
 (1) GU L 270 del 21.10.2003, pag. 78.
 
-##### ARTICOLO 42
+#### ARTICOLO 42
 
 Qualora siano necessarie misure transitorie per facilitare il
 
@@ -11318,23 +11308,21 @@ passaggio dal regime esistente in Bulgaria e Romania a quello risultante dall'ap
 
 ## PARTE QUINTA - DISPOSIZIONI DI APPLICAZIONE DEL PRESENTE ATTO
 
-### TITOLO I
+### TITOLO I - INSEDIAMENTO DELLE ISTITUZIONI E DEGLI ORGANI
 
-#### INSEDIAMENTO DELLE ISTITUZIONI E DEGLI ORGANI
-
-##### ARTICOLO 43
+#### ARTICOLO 43
 
 Il Parlamento europeo apporta al suo regolamento interno gli
 
 adattamenti resi necessari dall'adesione.
 
-##### ARTICOLO 44
+#### ARTICOLO 44
 
 Il Consiglio apporta al suo regolamento interno gli adattamenti
 
 resi necessari dall'adesione.
 
-##### ARTICOLO 45
+#### ARTICOLO 45
 
 Un cittadino di ogni nuovo Stato membro e' nominato membro della
 
@@ -11344,7 +11332,7 @@ Il mandato dei membri cosi' nominati scade contemporaneamente a
 
 quello dei membri che sono in carica al momento dell'adesione.
 
-##### ARTICOLO 46
+#### ARTICOLO 46
 
 1\. Due giudici sono nominati alla Corte di giustizia e due giudici
 
@@ -11374,31 +11362,31 @@ all'approvazione del Consiglio, che delibera a maggioranza qualificata.
 
 organi alla data di adesione, per le quali la procedura orale sia stata aperta prima di tale data, la Corte di giustizia e il Tribunale di primo grado in seduta plenaria o le sezioni si riuniscono nella composizione che avevano prima dell'adesione e applicano il regolamento di procedura vigente il giorno precedente la data di adesione.
 
-##### ARTICOLO 47
+#### ARTICOLO 47
 
 La Corte dei conti e' completata con la nomina di due membri
 
 supplementari, il cui mandato e' di sei anni.
 
-##### ARTICOLO 48
+#### ARTICOLO 48
 
 Il Comitato economico e sociale e' completato con la nomina di 27
 
 membri in rappresentanza delle varie componenti economiche e sociali della societa' civile organizzata della Bulgaria e della Romania. Il mandato dei membri cosi' nominati scade contemporaneamente a quello dei membri che sono in carica al momento dell'adesione.
 
-##### ARTICOLO 49
+#### ARTICOLO 49
 
 Il Comitato delle regioni e' completato con la nomina di 27
 
 membri, in rappresentanza delle collettivita' regionali e locali della Bulgaria e della Romania, titolari di un mandato elettorale regionale o locale oppure politicamente responsabili dinanzi a un'assemblea eletta. Il mandato dei membri cosi' nominati scade contemporaneamente a quello dei membri che sono in carica al momento dell'adesione.
 
-##### ARTICOLO 50
+#### ARTICOLO 50
 
 Gli adattamenti degli statuti e dei regolamenti interni dei
 
 Comitati istituiti dai trattati originari, resi necessari dall'adesione, sono effettuati non appena possibile dopo l'adesione.
 
-##### ARTICOLO 51
+#### ARTICOLO 51
 
 1\. I nuovi membri dei comitati, dei gruppi o degli altri enti
 
@@ -11408,9 +11396,9 @@ istituiti dai trattati o da un atto delle istituzioni sono nominati alle condizi
 
 delle istituzioni con un numero di membri fisso a prescindere dal numero di Stati membri sono integralmente rinnovati all'adesione, a meno che il mandato dei membri in carica non scada entro l'anno successivo all'adesione.
 
-## TITOLO II - APPLICABILITA DEGLI ATTI DELLE ISTITUZIONI
+### TITOLO II - APPLICABILITA DEGLI ATTI DELLE ISTITUZIONI
 
-##### ARTICOLO 52
+#### ARTICOLO 52
 
 Dalla data di adesione la Bulgaria e la Romania sono considerate
 
@@ -11418,7 +11406,7 @@ come destinatari delle direttive e delle decisioni ai sensi dell'articolo 249 de
 
 Fatta eccezione per le direttive e le decisioni che entrano in vigore ai sensi dell'articolo 254, paragrafi 1 e 2 del trattato che istituisce la Comunita' europea, la Bulgaria e la Romania sono considerate come aventi ricevuto notifica di tali direttive e decisioni al momento dell'adesione.
 
-##### ARTICOLO 53
+#### ARTICOLO 53
 
 1\. La Bulgaria e la Romania mettono in vigore le misure necessarie
 
@@ -11428,45 +11416,45 @@ per conformarsi, dalla data di adesione, alle disposizioni delle direttive e del
 
 all'articolo 249 del trattato CE e all'articolo 161 del trattato CEEA introdotte dal presente atto richiedono modifiche delle disposizioni legislative, regolamentari o amministrative degli attuali Stati membri, questi ultimi adottano le misure necessarie per conformarsi, dalla data di adesione, alle direttive modificate, a meno che un altro termine non sia previsto dal presente atto. Essi comunicano tali misure alla Commissione entro la data di adesione o entro il termine previsto dal presente atto, se successivo.
 
-##### ARTICOLO 54
+#### ARTICOLO 54
 
 Le disposizioni legislative, regolamentari e amministrative
 
 destinate ad assicurare, sul territorio della Bulgaria e della Romania, la protezione sanitaria della popolazione e dei lavoratori contro i pericoli derivanti dalle radiazioni ionizzanti sono comunicate da questi Stati alla Commissione, conformemente all'articolo 33 del trattato CEEA, entro tre mesi dall'adesione.
 
-##### ARTICOLO 55
+#### ARTICOLO 55
 
 Dietro richiesta debitamente circostanziata presentata dalla
 
 Bulgaria o Romania alla Commissione entro la data di adesione, il Consiglio, deliberando all'unanimita' su proposta della Commissione, o la Commissione, se l'atto iniziale e' stato adottato da essa, possono adottare misure consistenti in deroghe temporanee ad atti delle istituzioni adottati tra il 1° ottobre 2004 e la data dell'adesione. Le misure sono adottate in conformita' delle regole di voto che disciplinano l'adozione dell'atto rispetto al quale si chiede una deroga temporanea. Tali deroghe, se adottate dopo l'adesione, sono applicabili dalla data di adesione.
 
-##### ARTICOLO 56
+#### ARTICOLO 56
 
 Quando gli atti delle istituzioni adottati anteriormente
 
 all'adesione richiedono adattamenti in conseguenza dell'adesione e gli adattamenti necessari non sono contemplati nel presente atto o nei suoi allegati, il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, o la Commissione, se l'atto iniziale e' stato adottato da essa, adottano gli atti a tal fine necessari. Tali adattamenti, se adottati dopo l'adesione, sono applicabili dalla data di adesione.
 
-##### ARTICOLO 57
+#### ARTICOLO 57
 
 Salvo disposizioni contrarie, il Consiglio, deliberando a
 
 maggioranza qualificata su proposta della Commissione, adotta le misure necessarie per l'applicazione delle disposizioni del presente atto.
 
-##### ARTICOLO 58
+#### ARTICOLO 58
 
 I testi degli atti delle istituzioni, e della Banca centrale
 
 europea, adottati anteriormente all'adesione e redatti dal Consiglio, dalla Commissione e dalla Banca centrale europea in lingua bulgara e rumena fanno fede, dalla data di adesione, alle stesse condizioni dei testi redatti nelle lingue ufficiali attuali. Essi sono pubblicati nella Gazzetta ufficiale delle Comunita' europee qualora i testi nelle lingue attuali siano stati oggetto di una tale pubblicazione.
 
-## TITOLO III - DISPOSIZIONI FINALI
+### TITOLO III - DISPOSIZIONI FINALI
 
-##### ARTICOLO 59
+#### ARTICOLO 59
 
 Gli allegati I-IX e le relative appendici costituiscono parte
 
 integrante del presente atto.
 
-##### ARTICOLO 60
+#### ARTICOLO 60
 
 Il Governo della Repubblica italiana rimette ai governi della
 
@@ -11476,13 +11464,13 @@ I testi dei suddetti trattati, redatti in lingua bulgara e rumena,
 
 sono allegati al presente atto. Tali testi fanno fede alle stesse condizioni dei testi dei trattati di cui al primo comma redatti nelle lingue attuali.
 
-##### ARTICOLO 61
+#### ARTICOLO 61
 
 Il Segretario Generale rimette ai governi della Repubblica di
 
 Bulgaria e della Romania copia certificata conforme degli accordi internazionali depositati negli archivi del Segretariato generale del Consiglio dell'Unione europea.
 
-##### Allegato I
+#### Allegato I
 
 ALLEGATO I
 
@@ -11606,7 +11594,7 @@ conformemente all'articolo 34 del trattato sull'Unione europea, relativa all'ass
 
 dell'articolo 34 del trattato sull'Unione europea, della convenzione relativa all'assistenza giudiziaria in materia penale tra gli Stati membri dell'Unione europea (GU C 326 del 21.11.2001, pag. 2)
 
-##### Allegato II
+#### Allegato II
 
 ALLEGATO II
 
@@ -12030,7 +12018,7 @@ istituisce il sistema di informazione visti (VIS) (GU L 213 del 15.6.2004, pag. 
 
 2004, relativo alle norme sulle caratteristiche di sicurezza e sugli elementi biometrici dei passaporti e dei documenti di viaggio rilasciati dagli Stati membri (GU L 385 del 29.12.2004, pag. 1).
 
-##### Allegato III
+#### Allegato III
 
 ALLEGATO III
 
@@ -13966,7 +13954,7 @@ consumo personale."
 
 un'aliquota ridotta dell'accisa, non inferiore al 50% dell'aliquota normale nazionale dell'accisa sull'alcole etilico, all'alcole etilico fabbricato da distillerie di frutticoltori che producono annualmente piu' di 10 ettolitri di alcole etilico ottenuto da frutta fornita da nuclei familiari di frutticoltori. L'aliquota ridotta si applica limitatamente a 50 litri di acquavite di frutta all'anno per nucleo familiare di frutticoltori produttori, destinati esclusivamente al consumo personale. La Commissione riesaminera il presente accordo nel 2015 e riferira' al Consiglio su eventuali modifiche.".
 
-##### Allegato IV
+#### Allegato IV
 
 ALLEGATO IV
 
@@ -14184,7 +14172,7 @@ Se necessario e conformemente alla procedura di cui all'articolo
 
 26, paragrafo 3 della direttiva 1999/105/CE, la Commissione adatta l'allegato I di detta direttiva riguardo alle specie forestali Pinus peuce Griseb., Fagus orientalis Lipsky, Quercus frainetto Ten. e Tilia tomentosa Moench.
 
-##### Allegato V
+#### Allegato V
 
 ALLEGATO V
 
@@ -14708,7 +14696,7 @@ considerare aiuti esistenti per l'applicazione del meccanismo d'aiuto esistente 
 
 Parte di provvedimento in formato grafico
 
-##### Allegato VI
+#### Allegato VI
 
 ALLEGATO VI
 
@@ -15500,7 +15488,7 @@ Regolamento modificato da ultimo dal regolamento (CE) n. 1642/2003 (GU L 245 del
 
 11 GU L 194 del 25.07.1975, pag. 39. Direttiva modificata dalla direttiva 91/156/CEE e modificata da ultimo dal regolamento (CE) n. 1882/2003 (GU L 135 del 6.6.1996, pag. 32).
 
-##### Allegato VII
+#### Allegato VII
 
 ALLEGATO VII
 
@@ -18933,7 +18921,7 @@ Capitolo 5, sezione B, sottosezione I dell'allegato VII
 
 Parte di provvedimento in formato grafico
 
-##### Annex VIII
+#### Annex VIII
 
 ANNEX VIII
 
@@ -19228,7 +19216,7 @@ modificato da ultimo dall'atto di adesione del 2003 (GU L
 
 finanziario della Comunita' puo' ammontare o all'85% per le misure agroambientali e le misure attinenti al benessere degli animali, e all'80% per le altre misure, o alle percentuali stabilite dai regolamenti relativi allo sviluppo rurale in vigore alla data di adesione, se queste ultime sono superiori.
 
-##### Allegato IX
+#### Allegato IX
 
 ALLEGATO IX
 
@@ -19296,7 +19284,7 @@ appropriati mezzi finanziari e di risorse umane sufficienti e adeguatamente qual
 
 dalla decisione n. 2/2003 del Consiglio di associazione UE/Romania del 25.9.2003 (non ancora pubblicata nella Gazzetta ufficiale).
 
-##### Testo
+#### Testo
 
 ATTO FINALE
 
@@ -19468,7 +19456,7 @@ dell'alfabeto cirillico nell'Unione europea
 
 5\. I Plenipotenziari hanno preso nota dello Scambio di lettere fra l'Unione europea e la Repubblica di Bulgaria nonche' la Romania riguardante una procedura d'informazione e consultazione per l'adozione di talune decisioni ed altre misure durante il periodo che precede l'adesione allegato al presente Atto finale.
 
-##### Dichiarazioni
+#### Dichiarazioni
 
 II. DICHIARAZIONI
 
@@ -19548,7 +19536,7 @@ SULL'USO DELL'ALFABETO CIRILLICO NELL'UNIONE EUROPEA
 
 Con il riconoscimento del bulgaro come lingua facente fede dei trattati, nonche' lingua ufficiale e di lavoro da utilizzare dalle istituzioni dell'Unione europea, l'alfabeto cirillico diventera uno dei tre alfabeti utilizzati ufficialmente nell'Unione europea. Tale componente sostanziale del patrimonio culturale dell'Europa rappresenta un contributo particolare della Bulgaria alla diversita linguistica e culturale dell'Unione.
 
-##### Scambio di lettere
+#### Scambio di lettere
 
 III. SCAMBIO DI LETTERE
 
@@ -19574,7 +19562,7 @@ mi pregio di comunicarLe di aver ricevuto la Sua lettera cosi' redatta:
 
 Confermo che l'Unione europea puo' accettare tale procedura, quale figura nell'allegato della presente lettera, che potrebbe applicarsi a decorrere dal 1° ottobre 2004. La prego di confermarmi che il Suo Governo e' d'accordo sul contenuto di questa lettera." Posso confermarLe l'accordo del mio Governo sul contenuto di questa lettera. Voglia accettare l'espressione della mia profonda stima.
 
-##### Allegato
+#### Allegato
 
 ALLEGATO
 

@@ -85,11 +85,9 @@ il seguente decreto legislativo:
 
 ## Titolo I - UTILIZZO DEI SISTEMI DI INTELLIGENZA ARTIFICIALE PER L'ATTIVITÀ DI POLIZIA
 
-### Capo I
+### Capo I - Disposizioni generali
 
-#### Disposizioni generali
-
-##### Art. 1
+#### Art. 1
 
 Oggetto e finalita'
 
@@ -259,7 +257,7 @@ Oggetto e finalita'
 
 > 7\. La presente legge garantisce alle persone con disabilita' il pieno accesso ai sistemi di intelligenza artificiale e alle relative funzionalita' o estensioni, su base di uguaglianza e senza alcuna forma di discriminazione e di pregiudizio, in conformita' alle disposizioni della Convenzione delle Nazioni Unite sui diritti delle persone con disabilita', fatta a New York il 13 dicembre 2006, ratificata e resa esecutiva in Italia ai sensi della legge 3 marzo 2009, n. 18.».
 
-##### Art. 2
+#### Art. 2
 
 Definizioni
 
@@ -345,9 +343,9 @@ q) «finalita' di polizia»: i fini di prevenzione, indagine, accertamento o per
 
 > Le forze di polizia possono essere utilizzate anche per il servizio di pubblico soccorso».
 
-## Capo II - Disposizioni in materia di ricerca, sviluppo, addestramento, formazione, sperimentazione e utilizzo dei sistemi di intelligenza artificiale nelle attività di polizia
+### Capo II - Disposizioni in materia di ricerca, sviluppo, addestramento, formazione, sperimentazione e utilizzo dei sistemi di intelligenza artificiale nelle attività di polizia
 
-##### Art. 3
+#### Art. 3
 
 Ricerca, sperimentazione, sviluppo, addestramento, convalida e utilizzo di sistemi e modelli di intelligenza artificiale per le attivita' di polizia
 
@@ -371,7 +369,7 @@ Ricerca, sperimentazione, sviluppo, addestramento, convalida e utilizzo di siste
 
 > \- Per i riferimenti al decreto legislativo 18 maggio 2018, n. 51, si vedano le note alle premesse.
 
-##### Art. 4
+#### Art. 4
 
 Collaborazione nell'ambito della ricerca e sperimentazione scientifica finalizzata alla realizzazione di sistemi e modelli di intelligenza artificiale per l'attivita' di polizia
 
@@ -425,7 +423,7 @@ Collaborazione nell'ambito della ricerca e sperimentazione scientifica finalizza
 
 > \- Per i riferimenti al decreto legislativo 18 maggio 2018, n. 51, si vedano le note alle premesse.
 
-##### Art. 5
+#### Art. 5
 
 Sviluppo, realizzazione e prova di determinati sistemi di IA per finalita' di polizia negli spazi di sperimentazione normativa
 
@@ -483,7 +481,7 @@ Sviluppo, realizzazione e prova di determinati sistemi di IA per finalita' di po
 
 > 4-ter. Con regolamenti da emanare ai sensi del comma 1 del presente articolo, si provvede al periodico riordino delle disposizioni regolamentari vigenti, alla ricognizione di quelle che sono state oggetto di abrogazione implicita e all'espressa abrogazione di quelle che hanno esaurito la loro funzione o sono prive di effettivo contenuto normativo o sono comunque obsolete.».
 
-##### Art. 6
+#### Art. 6
 
 Formazione del personale di polizia
 
@@ -511,9 +509,9 @@ e) consapevolezza dei rischi di cybersicurezza connessi all'utilizzo dei sistemi
 
 > \- Per i riferimenti al decreto legislativo 18 maggio 2018, n. 51, si vedano le note alle premesse.
 
-## Capo III - Sistemi di intelligenza artificiale utilizzati nelle attività di polizia per l'etichettatura, il filtraggio e la categorizzazione di dati biometrici, per l'identificazione biometrica remota in tempo reale per finalità di prevenzione o di protezione e per il riconoscimento facciale a posteriori a fini di contrasto dei reati
+### Capo III - Sistemi di intelligenza artificiale utilizzati nelle attività di polizia per l'etichettatura, il filtraggio e la categorizzazione di dati biometrici, per l'identificazione biometrica remota in tempo reale per finalità di prevenzione o di protezione e per il riconoscimento facciale a posteriori a fini di contrasto dei reati
 
-##### Art. 7
+#### Art. 7
 
 Etichettatura, filtraggio e categorizzazione di dati biometrici nell'attivita' di polizia
 
@@ -535,7 +533,7 @@ d) il titolare del trattamento adotti misure idonee a prevenire il reimpiego dei
 
 > \- Per i riferimenti al decreto legislativo 18 maggio 2018, n. 51, vedasi le note alle premesse.
 
-##### Art. 8
+#### Art. 8
 
 Sistemi di intelligenza artificiale per l'identificazione biometrica remota in tempo reale per finalita' di prevenzione, nonche' di ricerca delle persone scomparse e delle vittime di specifici reati
 
@@ -595,7 +593,7 @@ Sistemi di intelligenza artificiale per l'identificazione biometrica remota in t
 
 > 5\. In ogni caso gli elementi acquisiti attraverso le attivita' preventive non possono essere utilizzati nel procedimento penale, fatti salvi i fini investigativi. In ogni caso le attivita' di intercettazione preventiva di cui ai commi precedenti, e le notizie acquisite a seguito delle attivita' medesime, non possono essere menzionate in atti di indagine ne' costituire oggetto di deposizione ne' essere altrimenti divulgate.».
 
-##### Art. 9
+#### Art. 9
 
 Valutazione d'impatto sui diritti fondamentali, conservazione delle registrazioni e notifica dell'utilizzo dei sistemi di intelligenza artificiale per l'identificazione biometrica remota in tempo reale
 
@@ -733,7 +731,7 @@ h) gli ulteriori adempimenti cui il titolare del trattamento e' tenuto in confor
 
 > 8\. I risultati forniti dai sistemi di intelligenza artificiale non possono essere utilizzati qualora gli stessi siano stati impiegati fuori dei casi consentiti dalla legge o qualora non siano state osservate le disposizioni previste dai commi 6 e 7. In questi casi, tutti i dati personali, i risultati e gli output acquisiti e prodotti sono cancellati, salvo che costituiscano corpo del reato.».
 
-##### Art. 10
+#### Art. 10
 
 Disposizioni in materia di sistemi di videosorveglianza dotati della tecnologia di riconoscimento facciale a posteriori, integrata dall'intelligenza artificiale, per il contrasto dei reati
 
@@ -817,11 +815,9 @@ d) gli adempimenti cui il titolare del trattamento e' tenuto in conformita' a qu
 
 ## Titolo II - DISPOSIZIONI PENALI, SOSTANZIALI E PROCESSUALI, IN MATERIA DI REALIZZAZIONE E IMPIEGO ILLECITI DEI SISTEMI DI INTELLIGENZA ARTIFICIALE E DISPOSIZIONI PROCESSUALI CIVILI IN MATERIA DI RISARCIMENTO DEI DANNI CAGIONATI DALL'UTILIZZO DEI MEDESIMI SISTEMI
 
-### Capo I
+### Capo I - Disposizioni sanzionatorie e in materia di procedimento penale
 
-#### Disposizioni sanzionatorie e in materia di procedimento penale
-
-##### Art. 11
+#### Art. 11
 
 Definizioni
 
@@ -831,7 +827,7 @@ Definizioni
 
 > \- Per i riferimenti al regolamento (UE) 2024/1689, si vedano le note alle premesse.
 
-##### Art. 12
+#### Art. 12
 
 Modifiche al codice penale
 
@@ -845,7 +841,7 @@ Se taluno dei fatti previsti dal comma primo e' commesso per colpa grave, la pen
 
 L'utilizzatore professionale di sistemi di intelligenza artificiale ad alto rischio che omette intenzionalmente di adottare misure di sorveglianza umana e' punito con le pene previste dal primo comma, primo e secondo periodo, qualora da tale omissione derivi, rispettivamente, pericolo per la vita o l'incolumita' pubblica o individuale oppure un pericolo per la sicurezza dello Stato».
 
-##### Art. 13
+#### Art. 13
 
 Modifiche al codice di procedura penale
 
@@ -867,7 +863,7 @@ Modifiche al codice di procedura penale
 
 8\. I risultati forniti dai sistemi di intelligenza artificiale non possono essere utilizzati qualora gli stessi siano stati impiegati fuori dei casi consentiti dalla legge o qualora non siano state osservate le disposizioni previste dai commi 6 e 7. In questi casi, tutti i dati personali, i risultati e gli output acquisiti e prodotti sono cancellati, salvo che costituiscano corpo del reato.».
 
-##### Art. 14
+#### Art. 14
 
 Modifica alle norme di attuazione, di coordinamento e transitorie del codice di procedura penale
 
@@ -893,7 +889,7 @@ Modifica alle norme di attuazione, di coordinamento e transitorie del codice di 
 
 > 2\. Si applica altresi' la disposizione dell'articolo 92.».
 
-##### Art. 15
+#### Art. 15
 
 Modifiche al decreto legislativo 8 giugno 2001, n. 231
 
@@ -905,9 +901,9 @@ Modifiche al decreto legislativo 8 giugno 2001, n. 231
 
 3\. Nei casi previsti dai commi 1 e 2 si applicano all'ente le sanzioni interdittive previste dall'articolo 9, comma 2, lettere b), c), d) ed e).».
 
-## Capo II - Strumenti processuali civili per il risarcimento dei danni cagionati dall'utilizzo di sistemi di intelligenza artificiale
+### Capo II - Strumenti processuali civili per il risarcimento dei danni cagionati dall'utilizzo di sistemi di intelligenza artificiale
 
-##### Art. 16
+#### Art. 16
 
 Ambito di applicazione e foro del consumatore
 
@@ -927,7 +923,7 @@ Ambito di applicazione e foro del consumatore
 
 > \- Per i riferimenti alla direttiva (UE) 2024/2853, si vedano le note alle premesse.
 
-##### Art. 17
+#### Art. 17
 
 Accesso alle prove
 
@@ -981,7 +977,7 @@ d) le informazioni relative ai parametri e alle modalita' di supervisione umana 
 
 > Il giudice puo' desumere argomenti di prova dalle risposte che le parti gli danno [c.p.c. 229] a norma dell'articolo seguente, dal loro rifiuto ingiustificato a consentire le ispezioni che egli ha ordinate e, in generale, dal contegno delle parti stesse nel processo.».
 
-##### Art. 18
+#### Art. 18
 
 Presunzione del nesso di causalita'
 
@@ -991,7 +987,7 @@ Presunzione del nesso di causalita'
 
 > \- Per i riferimenti al regolamento (UE) 2024/1689, si vedano le note alle premesse.
 
-##### Art. 19
+#### Art. 19
 
 Rilevanza della conformita' al regolamento (UE) 2024/1689
 
@@ -1003,7 +999,7 @@ Rilevanza della conformita' al regolamento (UE) 2024/1689
 
 > \- Per i riferimenti al regolamento (UE) 2024/1689, si vedano le note alle premesse.
 
-##### Art. 20
+#### Art. 20
 
 Azione diretta nei confronti dell'impresa di assicurazione
 
@@ -1025,11 +1021,9 @@ Azione diretta nei confronti dell'impresa di assicurazione
 
 ## Titolo III - DISPOSIZIONI FINALI
 
-### Capo I
+### Capo I - Disposizioni transitorie e finanziarie
 
-#### Disposizioni transitorie e finanziarie
-
-##### Art. 21
+#### Art. 21
 
 Disposizioni transitorie sull'utilizzo dei sistemi di intelligenza artificiale per l'attivita' di polizia
 
@@ -1041,7 +1035,7 @@ Disposizioni transitorie sull'utilizzo dei sistemi di intelligenza artificiale p
 
 > \- Per i riferimenti al regolamento (UE) 2024/1689, si vedano le note alle premesse.
 
-##### Art. 22
+#### Art. 22
 
 Clausola di invarianza finanziaria
 

@@ -328,11 +328,9 @@ La formazione delle sezioni e dei collegi giudicanti
 
 5\. Il presidente della corte di giustizia tributaria di primo e secondo grado, col decreto di cui al comma 2, indica una o piu' delle sezioni, che, nel periodo di sospensione feriale dei termini processuali, procedono all'esame delle domande di sospensione cautelare del provvedimento impugnato.
 
-## Capo II - I componenti delle corti di giustizia
+#### Capo II - I componenti delle corti di giustizia tributaria di primo e secondo grado
 
-### tributaria di primo e secondo grado
-
-#### ((Sezione I - Disposizioni generali))
+##### ((Sezione I - Disposizioni generali))
 
 ###### Art. 13
 
@@ -500,9 +498,7 @@ e) non partecipano, senza giustificato motivo, a tre sedute consecutive.
 
 2\. La decadenza e' dichiarata con decreto del Ministro dell'economia e delle finanze previa deliberazione del Consiglio di presidenza.
 
-## ((Sezione II - Disposizioni integrative sullo stato
-
-### giuridico dei magistrati tributari))
+##### ((Sezione II - Disposizioni integrative sullo stato giuridico dei magistrati tributari))
 
 ###### Art. 18-bis
 
@@ -540,7 +536,7 @@ e) non partecipano, senza giustificato motivo, a tre sedute consecutive.
 
 1\. ((Nelle ipotesi disciplinate dagli articoli 18-bis, 18-ter, 18-quater e 18-quinquies, il magistrato ha diritto di prendere visione ed estrarre copia degli atti del procedimento, puo' presentare deduzioni e chiedere di essere sentito personalmente.))
 
-## ((Sezione III - Trattamento economico))
+##### ((Sezione III - Trattamento economico))
 
 ###### Art. 19
 
@@ -586,11 +582,9 @@ AGGIORNAMENTO (9)
 
 Il D.Lgs. 7 agosto 2026, n. 149, ha disposto (con l'art. 1, comma 2, lettera n)) che "dopo l'articolo 18-sexies, introdotto dalla lettera m) del presente comma, e' inserita la seguente intestazione: «Sezione III - Trattamento economico»".
 
-## ((Capo II-bis - Responsabilità e disposizioni disciplinari
+#### ((Capo II-bis - Responsabilità e disposizioni disciplinari
 
-### Sezione I
-
-#### Disposizioni comuni))
+##### Sezione I - Disposizioni comuni))
 
 ###### Art. 21
 
@@ -626,9 +620,7 @@ L'incolpato ha per ultimo la parola e puo' farsi assistere da altro componente d
 
 7\. ((Per quanto non contemplato dal presente testo unico si applicano le disposizioni sul procedimento disciplinare vigenti per i magistrati ordinari di cui al capo II del decreto legislativo 23 febbraio 2006, n. 109, in quanto compatibili.))
 
-## ((Sezione II - Disposizioni disciplinari
-
-### per i giudici tributari))
+##### ((Sezione II - Disposizioni disciplinari per i giudici tributari))
 
 ###### Art. 22
 
@@ -680,9 +672,7 @@ d) il frequentare persona che consti essere stata dichiarata delinquente abitual
 
 7\. Si applica la rimozione dall'incarico nei casi di recidiva in trasgressioni di cui ai commi 5 e 6.
 
-## ((Sezione III - Disposizioni disciplinari
-
-### per i magistrati tributari))
+##### ((Sezione III - Disposizioni disciplinari per i magistrati tributari))
 
 ###### Art. 22-bis
 
@@ -872,7 +862,7 @@ c) ((i comportamenti previsti dall'articolo 22-bis, comma 4, lettera b).))
 
 ((ARTICOLO ABROGATO DAL D.LGS. 7 AGOSTO 2026, N. 149))
 
-## Capo III - Il Consiglio di presidenza della giustizia tributaria
+#### Capo III - Il Consiglio di presidenza della giustizia tributaria
 
 ###### Art. 24
 
@@ -1096,7 +1086,7 @@ della giustizia tributaria
 
 1\. Il Consiglio di presidenza provvede all'autonoma gestione delle spese per il proprio funzionamento, nei limiti del fondo stanziato a tale scopo nel bilancio dello Stato e iscritto con unico capitolo nello stato di previsione della spesa del Ministero dell'economia e delle finanze. La gestione si svolge in base al bilancio di previsione e a rendiconto consuntivo soggetto al controllo della Corte dei conti. Il bilancio e il rendiconto sono pubblicati nella Gazzetta Ufficiale.
 
-## Capo IV - Gli uffici di segreteria
+#### Capo IV - Gli uffici di segreteria
 
 ###### Art. 38
 
@@ -1162,7 +1152,9 @@ Attribuzioni del personale delle segreterie
 
 2\. Il personale degli uffici di segreteria nell'espletamento dei propri compiti, si avvale del sistema informativo della giustizia tributaria.
 
-## Capo V - Sezione civile presso la Corte di Cassazione
+#### Capo V
+
+##### Sezione civile presso la Corte di Cassazione
 
 ###### Art. 44
 
@@ -1302,7 +1294,7 @@ di primo e secondo grado
 
 2\. Le attivita' dell'ufficiale giudiziario in udienza sono disimpegnate dal personale ausiliario addetto alla segreteria.
 
-## Capo II - Delle parti e della loro rappresentanza e assistenza in giudizio
+#### Capo II - Delle parti e della loro rappresentanza e assistenza in giudizio
 
 ###### Art. 55
 
@@ -1480,7 +1472,7 @@ Luogo delle comunicazioni e notificazioni
 
 3\. Se mancano l'elezione di domicilio o la dichiarazione della residenza o della sede nel territorio dello Stato o se per la loro assoluta incertezza la notificazione o la comunicazione degli atti non e' possibile, questi sono comunicati o notificati presso la segreteria della corte di giustizia tributaria.
 
-## Capo III - Forma degli atti
+#### Capo III - Forma degli atti
 
 ###### Art. 63
 
@@ -1496,13 +1488,11 @@ Degli atti in generale
 
 4\. La mancata sottoscrizione con firma digitale dei provvedimenti giudiziari del giudice tributario determina la loro nullita'.
 
-## Titolo II - IL PROCESSO
+### Titolo II - IL PROCESSO
 
-### Capo I - Il procedimento dinanzi alla corte
+#### Capo I - Il procedimento dinanzi alla corte di giustizia tributaria di primo grado
 
-#### di giustizia tributaria di primo grado - Sezione I
-
-##### Introduzione del giudizio
+##### Sezione I - Introduzione del giudizio
 
 ###### Art. 64
 
@@ -1704,7 +1694,7 @@ b) se, nel termine di centoventi giorni dalla loro adozione, non viene notificat
 
 c) a seguito della sentenza, anche non passata in giudicato, che accoglie il ricorso avverso gli atti di cui alla lettera b). La sentenza costituisce titolo per la cancellazione dell'ipoteca. In caso di accoglimento parziale, su istanza di parte, il giudice che ha pronunciato la sentenza riduce proporzionalmente l'entita' dell'iscrizione o del sequestro; se la sentenza e' pronunciata dalla Corte di cassazione, provvede il giudice la cui sentenza e' stata impugnata con ricorso per cassazione.
 
-## Sezione II - L'esame preliminare del ricorso
+##### Sezione II - L'esame preliminare del ricorso
 
 ###### Art. 75
 
@@ -1746,7 +1736,7 @@ Riunione dei ricorsi
 
 3\. La corte, se rileva che la riunione dei processi connessi ritarda o rende piu' gravosa la loro trattazione, puo', con ordinanza motivata, disporne la separazione.
 
-## Sezione III - La trattazione della controversia
+##### Sezione III - La trattazione della controversia
 
 ###### Art. 78
 
@@ -1824,7 +1814,7 @@ Deliberazioni della corte di giustizia tributaria
 
 3\. Alle deliberazioni del collegio si applicano le disposizioni di cui agli articoli 276 e seguenti del codice di procedura civile.Non sono tuttavia ammesse sentenze non definitive o limitate solo ad alcune domande.
 
-## Sezione IV - La decisione della controversia
+##### Sezione IV - La decisione della controversia
 
 ###### Art. 85
 
@@ -1868,7 +1858,7 @@ Richiesta di copie e notificazione della sentenza
 
 3\. Se nessuna delle parti provvede alla notificazione della sentenza, si applica l'articolo 327, primo comma, del codice di procedura civile. Tale disposizione non si applica se la parte non costituita dimostri di non avere avuto conoscenza del processo per nullita' della notificazione del ricorso e della comunicazione dell'avviso di fissazione d'udienza.
 
-## Sezione V - Sospensione, interruzione ed estinzione del processo
+##### Sezione V - Sospensione, interruzione ed estinzione del processo
 
 ###### Art. 88
 
@@ -1982,7 +1972,7 @@ della materia del contendere
 
 3\. Nei casi di definizione delle pendenze tributarie previsti dalla legge le spese del giudizio estinto restano a carico della parte che le ha anticipate.
 
-## Capo II - I procedimenti cautelare e conciliativo
+#### Capo II - I procedimenti cautelare e conciliativo
 
 ###### Art. 96
 
@@ -2120,9 +2110,9 @@ Il D.Lgs. 5 agosto 2026, n. 141 ha disposto (con l'art. 7, comma 1, lettera f)) 
 
 1\) alla sotto-rubrica, dopo le parole: «ex articolo 48-ter» sono inserite le seguenti «, commi 2,3 e 4»".
 
-## Capo III - Le impugnazioni
+#### Capo III - Le impugnazioni
 
-### Sezione I - Le impugnazioni in generale
+##### Sezione I - Le impugnazioni in generale
 
 ###### Art. 103
 
@@ -2150,9 +2140,7 @@ Termini d'impugnazione
 
 2\. Nel caso di revocazione per i motivi di cui ai numeri 1, 2, 3 e 6 dell'articolo 395 del codice di procedura civile il termine di sessanta giorni decorre dal giorno in cui e' stato scoperto il dolo o sono state dichiarate false le prove o e' stato recuperato il documento o e' passata in giudicato la sentenza che accerta il dolo del giudice.
 
-## Sezione II - Il giudizio di appello davanti alla corte
-
-### di giustizia tributaria di secondo grado
+##### Sezione II - Il giudizio di appello davanti alla corte di giustizia tributaria di secondo grado
 
 ###### Art. 106
 
@@ -2276,7 +2264,7 @@ Norme applicabili
 
 1\. Nel procedimento d'appello si osservano in quanto applicabili le norme dettate per il procedimento di primo grado, se non sono incompatibili con le disposizioni della presente sezione.
 
-## Sezione III - Il ricorso per cassazione
+##### Sezione III - Il ricorso per cassazione
 
 ###### Art. 116
 
@@ -2340,7 +2328,7 @@ e nel processo di Cassazione
 
 3\. Le disposizioni dei commi 1 e 2 si applicano, limitatamente alle ipotesi di sentenza di assoluzione perche' il fatto non sussiste, anche nei confronti della persona fisica nell'interesse della quale ha agito il dipendente, il rappresentante legale o negoziale, ovvero nei confronti dell'ente e societa', con o senza personalita' giuridica, nell'interesse dei quali ha agito il rappresentante o l'amministratore anche di fatto, nonche' nei confronti dei loro soci o associati.
 
-## Sezione IV - La revocazione
+##### Sezione IV - La revocazione
 
 ###### Art. 120
 
@@ -2386,9 +2374,7 @@ Decisione
 
 2\. Contro la sentenza che decide il giudizio di revocazione sono ammessi i mezzi d'impugnazione ai quali era originariamente soggetta la sentenza impugnata per revocazione.
 
-## Capo IV - L'esecuzione delle sentenze
-
-### delle corti di giustizia tributaria
+#### Capo IV - L'esecuzione delle sentenze delle corti di giustizia tributaria
 
 ###### Art. 124
 

@@ -60,13 +60,13 @@ Emana
 
 il seguente decreto legislativo:
 
-## Testo unico dei servizi di media audiovisivi - Titolo I
+## Testo unico dei servizi di media audiovisivi
 
-### PRINCIPI - Capo I
+## Titolo I - PRINCIPI
 
-#### Principi generali
+### Capo I - Principi generali
 
-##### Art. 1
+#### Art. 1
 
 Oggetto
 
@@ -78,7 +78,7 @@ a) i principi generali per la prestazione di servizi di media digitali audiovisi
 
 2\. ((COMMA ABROGATO DAL D.LGS. 25 MARZO 2024, N. 50)).
 
-##### Art. 2
+#### Art. 2
 
 Ambito di applicazione del diritto nazionale per i servizi di media audiovisivi e radiofonici
 
@@ -120,7 +120,7 @@ AGGIORNAMEMTO (1)
 
 Il D.Lgs. 25 marzo 2024, n. 50 ha disposto (con l'art. 1, comma 2, lettera b)) che nel comma 2, lettera b), del presente articolo "dopo la parola: «audiovisivo» sono inserite le seguenti: «o radiofonico»".
 
-##### Art. 3
+#### Art. 3
 
 Definizioni
 
@@ -256,7 +256,7 @@ ddd) «autorizzazione generale»: il regime giuridico che garantisce i diritti a
 
 2\. Le definizioni di cui al comma 1 si applicano per analogia ai servizi radiofonici ((in difetto di previsione espressa, ove ne ricorrano i presupposti)). Laddove non diversamente specificato, sponsorizzazione e televendita comprendono anche le attivita' svolte a mezzo della radiodiffusione sonora.
 
-##### Art. 4
+#### Art. 4
 
 Principi generali del sistema dei servizi di media audiovisivi e della radiofonia, a garanzia degli utenti e in materia di servizi di media in ambito locale
 
@@ -298,7 +298,7 @@ c) adeguati livelli qualitativi dei servizi di media audiovisivi.
 
 8\. ((COMMA ABROGATO DAL D.LGS. 25 MARZO 2024, N. 50)).
 
-##### Art. 5
+#### Art. 5
 
 Principi generali del sistema dei servizi di media audiovisivi e della radiofonia a salvaguardia del pluralismo e della concorrenza
 
@@ -356,7 +356,7 @@ c) esistenza dell'assoggettamento a direzione comune, che puo' risultare anche i
 
 3\. L'autorizzazione generale di cui al comma 1, lettera b), non comporta l'assegnazione delle radiofrequenze, da conferire con distinto provvedimento. L'autorizzazione all'attivita' di fornitore di servizi di media audiovisivi anche a richiesta o radiofonici non puo' essere rilasciata a societa' che non hanno per oggetto sociale l'esercizio dell'attivita' radiotelevisiva, editoriale o comunque attinente all'informazione ed allo spettacolo. Fatto salvo quanto previsto per la societa' concessionaria del servizio pubblico generale radiotelevisivo, le amministrazioni pubbliche, gli enti pubblici, anche economici, le societa' a prevalente partecipazione pubblica e le aziende ed istituti di credito non possono, ne' direttamente ne' indirettamente, essere titolari di titoli abilitativi per lo svolgimento delle attivita' di operatore di rete o di fornitore di servizi di media anche a richiesta o radiofonici.
 
-##### Art. 6
+#### Art. 6
 
 Principi generali in materia di informazione e di ulteriori compiti di pubblico servizio nel settore dei servizi di media audiovisivi e radiofonici
 
@@ -380,7 +380,7 @@ e) il divieto di utilizzare metodologie e tecniche capaci di manipolare in manie
 
 5\. Il contributo pubblico percepito dalla societa' concessionaria del servizio pubblico generale radiotelevisivo, risultante dal canone di abbonamento alla radiotelevisione, e' utilizzabile esclusivamente ai fini dell'adempimento dei compiti di servizio pubblico generale affidati alla stessa, con periodiche verifiche di risultato e senza turbare le condizioni degli scambi e della concorrenza nell'Unione europea. Fatta salva la possibilita' per la societa' concessionaria di stipulare contratti o convenzioni a prestazioni corrispettive con pubbliche amministrazioni, sono escluse altre forme di finanziamento pubblico in suo favore.
 
-##### Art. 7
+#### Art. 7
 
 Trasmissioni transfrontaliere
 
@@ -456,7 +456,7 @@ In caso di inosservanza dell'ordine, l'Autorita' applica al fornitore di servizi
 
 ## Titolo II - SOGGETTI
 
-##### Art. 8
+#### Art. 8
 
 ((Funzioni del Ministero delle imprese e del made in Italy))
 
@@ -464,7 +464,7 @@ In caso di inosservanza dell'ordine, l'Autorita' applica al fornitore di servizi
 
 ((2. Presso il Ministero e' istituito un comitato consultivo interistituzionale con compiti di promozione e ricerca sui temi di alfabetizzazione mediatica e digitale, di esprimere parere nella fase di adozione dei codici di autoregolamentazione e co-regolamentazione dei fornitori di servizi media diffusi tramite qualsiasi canale o piattaforma, a tutela dei minori. Le modalita' di funzionamento e partecipazione al comitato sono definite con successivo decreto ministeriale. Ai partecipanti non spettano compensi, gettoni di presenza, rimborsi spese e altri emolumenti comunque denominati.))
 
-##### Art. 9
+#### Art. 9
 
 Funzioni dell'Autorita' per le garanzie nelle comunicazioni
 
@@ -658,13 +658,13 @@ Funzioni dell'Autorita' per le garanzie nelle comunicazioni
 
 > 32\. Nei casi previsti dai commi 29, 30 e 31, se la violazione e' di particolare gravita' o reiterata, puo' essere disposta nei confronti del titolare di licenza o autorizzazione o concessione anche la sospensione dell'attivita', per un periodo non superiore ai sei mesi, ovvero la revoca.».
 
-##### Art. 10
+#### Art. 10
 
 Altre competenze
 
 1\. Restano ferme le competenze in materia di servizi di media audiovisivi e radiofonici attribuite dalle vigenti norme alla Presidenza del Consiglio dei ministri, alla Commissione parlamentare per l'indirizzo generale e la vigilanza dei servizi radiotelevisivi, al Ministero della cultura, al Garante per la protezione dei dati personali e all'Autorita' garante della concorrenza e del mercato.
 
-##### Art. 11
+#### Art. 11
 
 Competenze delle regioni
 
@@ -682,7 +682,7 @@ d) previsione che il rilascio dei titoli abilitativi di cui alla lettera c) avve
 
 3\. Nel rispetto dei principi fondamentali previsti dal presente testo unico ai sensi del presente articolo, la Regione autonoma Valle d'Aosta e le Province autonome di Trento e di Bolzano provvedono alle finalita' di cui al medesimo testo unico nell'ambito delle rispettive, specifiche competenze, ai sensi degli statuti speciali e delle relative norme di attuazione.
 
-##### Art. 12
+#### Art. 12
 
 Funzionamento dei Comitati regionali per le comunicazioni - Corecom
 
@@ -698,7 +698,7 @@ Funzionamento dei Comitati regionali per le comunicazioni - Corecom
 
 ### Capo I - Disciplina dell'operatore di rete radiotelevisiva
 
-##### Art. 13
+#### Art. 13
 
 Autorizzazione dell'attivita' di operatore di rete
 
@@ -712,7 +712,7 @@ Autorizzazione dell'attivita' di operatore di rete
 
 4\. L'operatore di rete televisiva su frequenze terrestri in tecnica digitale e' tenuto al rispetto delle norme a garanzia dell'accesso dei fornitori di servizi di media audiovisivi di particolare valore alle reti per la televisione digitale terrestre stabilite dall'Autorita'.
 
-##### Art. 13-bis
+#### Art. 13-bis
 
 (( (Autorizzazione per operatore di rete su frequenze terrestri). ))
 
@@ -720,13 +720,13 @@ Autorizzazione dell'attivita' di operatore di rete
 
 2\. I soggetti titolari di un'autorizzazione rilasciata ai sensi del comma 1 sono tenuti al rispetto degli obblighi previsti per gli operatori di rete dal regolamento adottato dall'Autorita'.))
 
-## Capo II - ((Disciplina del fornitore di servizi di media su frequenze terrestri))
+### Capo II - ((Disciplina del fornitore di servizi di media su frequenze terrestri))
 
-##### Art. 14
+#### Art. 14
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 MARZO 2024, N.50))
 
-##### Art. 15
+#### Art. 15
 
 (( (Autorizzazione per la fornitura di servizi di media audiovisivi su frequenze terrestri). ))
 
@@ -736,13 +736,13 @@ Autorizzazione dell'attivita' di operatore di rete
 
 3\. Per i fornitori di servizi media audiovisivi e di dati in ambito locale, il Ministero procede secondo quanto previsto dall'articolo 1, commi 1033 e 1034, della legge 27 dicembre 2017, n. 205.))
 
-##### Art. 16
+#### Art. 16
 
 Autorizzazione per la fornitura di servizi media radiofonici su frequenze terrestri
 
 1\. L'autorizzazione per la prestazione di servizi media radiofonici su frequenze terrestri in tecnica digitale e' rilasciata dal Ministero sulla base della disciplina stabilita dall'Autorita' con proprio regolamento.
 
-##### Art. 17
+#### Art. 17
 
 Contributi
 
@@ -752,9 +752,9 @@ Contributi
 
 > \- Per il testo dell'articolo 1 della legge n. 249 del 1997 si veda nelle note alle premesse.
 
-## Capo III - ((Disciplina dell'emittente e del fornitore di servizi di media audiovisivi e radiofonici via satellite e via cavo e della fornitura di servizi di media audiovisivi a richiesta))
+### Capo III - ((Disciplina dell'emittente e del fornitore di servizi di media audiovisivi e radiofonici via satellite e via cavo e della fornitura di servizi di media audiovisivi a richiesta))
 
-##### Art. 18
+#### Art. 18
 
 Autorizzazioni per la fornitura di servizi di media audiovisivi o radiofonici via satellite, via cavo coassiale e su altri mezzi di comunicazione elettronica
 
@@ -764,7 +764,7 @@ Autorizzazioni per la fornitura di servizi di media audiovisivi o radiofonici vi
 
 3\. L'autorizzazione alla prestazione di servizi di media audiovisivi lineari o radiofonici su altri mezzi di comunicazione elettronica e' rilasciata dall'Autorita' sulla base della disciplina stabilita con proprio regolamento.
 
-##### Art. 19
+#### Art. 19
 
 Autorizzazione alla fornitura di servizi di media audiovisivi a richiesta
 
@@ -772,17 +772,15 @@ Autorizzazione alla fornitura di servizi di media audiovisivi a richiesta
 
 2\. Il regolamento di cui al comma 1 individua gli elementi della predetta segnalazione, con riferimento a qualita' e requisiti del soggetto, persona fisica o giuridica, che svolge l'attivita', escluso ogni riferimento ai contenuti dei servizi oggetto dell'attivita' medesima e stabilisce i modelli per la relativa presentazione.
 
-##### Art. 20
+#### Art. 20
 
 Trasmissioni simultanee
 
 1\. Al fine di favorire la progressiva affermazione delle nuove tecnologie trasmissive, ai fornitori di servizi di media audiovisivi o radiofonici che diffondono in chiaro su frequenze terrestri e' consentita, previa notifica al Ministero, la trasmissione simultanea di programmi per mezzo di ogni rete di comunicazione elettronica, sulla base della disciplina stabilita con regolamento dell'Autorita'.
 
-## Capo IV - Disposizioni in materia di radiodiffusione sonora in tecnica
+### Capo IV - Disposizioni in materia di radiodiffusione sonora in tecnica analogica e digitale e televisiva in tecnica digitale
 
-### analogica e digitale e televisiva in tecnica digitale
-
-##### Art. 21
+#### Art. 21
 
 Durata e limiti delle concessioni e autorizzazioni
 
@@ -814,7 +812,7 @@ c) se emittente di radiodiffusione sonora a carattere comunitario, la natura giu
 
 > Nessuno puo' essere sottoposto a misure di sicurezza che non siano espressamente stabilite dalla legge e fuori dei casi dalla legge stessa preveduti.».
 
-##### Art. 22
+#### Art. 22
 
 Assegnazione dei diritti d'uso per le trasmissioni di radiodiffusione sonora in onde medie
 
@@ -822,7 +820,7 @@ Assegnazione dei diritti d'uso per le trasmissioni di radiodiffusione sonora in 
 
 ((2. L'Autorita' adotta il regolamento di cui al comma 1 entro il 30 giugno 2024.))
 
-##### Art. 23
+#### Art. 23
 
 Trasmissione dei programmi e collegamenti di comunicazioni elettroniche
 
@@ -834,7 +832,7 @@ Trasmissione dei programmi e collegamenti di comunicazioni elettroniche
 
 4\. L'utilizzazione dei collegamenti di comunicazioni elettroniche di cui ai commi 2 e 3 non comporta il pagamento di ulteriori canoni o contributi oltre quello stabilito per l'attivita' di radiodiffusione sonora e televisiva locale.
 
-##### Art. 24
+#### Art. 24
 
 Trasferimenti di rami d'azienda e diritti d'uso
 
@@ -850,7 +848,7 @@ Trasferimenti di rami d'azienda e diritti d'uso
 
 6\. La cessione anche di un singolo impianto radiofonico analogico, quando non ha per oggetto unicamente le attrezzature, si considera cessione di ramo d'azienda ((e deve essere comunicata al Ministero a mezzo posta elettronica certificata (pec) entro 48 ore dalla relativa sottoscrizione)). Gli atti relativi ai trasferimenti di impianti e di rami d'azienda ai sensi del presente articolo, posti in essere dagli operatori del settore prima della data di entrata in vigore delle disposizioni di cui al presente comma, sono in ogni caso validi e non rettificabili ai fini tributari.
 
-##### Art. 25
+#### Art. 25
 
 Disposizioni sugli impianti di radiodiffusione
 
@@ -868,7 +866,7 @@ Disposizioni sugli impianti di radiodiffusione
 
 7\. Il soggetto titolare di un'autorizzazione o di un altro legittimo titolo per la radiodiffusione sonora o televisiva da' diritto ad ottenere dal comune competente il rilascio del permesso di costruire per gli impianti di diffusione e di collegamento esercitati e per le relative infrastrutture, compatibilmente con la disciplina vigente in materia di realizzazione di infrastrutture di comunicazione elettronica.
 
-##### Art. 26
+#### Art. 26
 
 Diffusioni di programmi in contemporanea
 
@@ -888,17 +886,15 @@ Diffusioni di programmi in contemporanea
 
 8\. Le disposizioni di cui al presente articolo non si applicano alle diffusioni radiofoniche in contemporanea o interconnesse tra emittenti analogiche che formano circuiti a prevalente carattere comunitario sempreche' le stesse emittenti, durante le loro trasmissioni comuni, diffondano messaggi pubblicitari nei limiti previsti per le emittenti analogiche comunitarie. L'applicazione di sanzioni in materia pubblicitaria esclude il beneficio di cui al presente comma.
 
-##### Art. 27
+#### Art. 27
 
 Ripetizione di palinsesti radiotelevisivi
 
 1\. L'installazione e l'esercizio di impianti e ripetitori privati, destinati esclusivamente alla ricezione e trasmissione via etere simultanea ed integrale dei programmi radiofonici e televisivi diffusi in ambito nazionale e locale, sono assoggettati a preventiva autorizzazione del Ministero ((, attraverso i propri organi territoriali)), il quale assegna le frequenze di funzionamento dei suddetti impianti. Il richiedente deve allegare alla domanda il progetto tecnico dell'impianto. L'autorizzazione e' rilasciata esclusivamente ai comuni, comunita' montane o ad altri enti locali o consorzi di enti locali, ed ha estensione territoriale limitata alla circoscrizione dell'ente richiedente tenendo conto, tuttavia, della particolarita' delle zone di montagna. I comuni, le comunita' montane e gli altri enti locali o consorzi di enti locali privi di copertura radioelettrica possono richiedere al Ministero ((, attraverso i propri organi territoriali)) l'autorizzazione all'installazione di reti via cavo per la ripetizione simultanea di programmi diffusi in ambito nazionale e locale, fermo quanto previsto dall'((articolo 5)), comma 1, lettera f). ((I programmi televisivi diffusi sono limitati all'area tecnica in cui i fornitori di servizi di media audiovisivi hanno acquisito capacita' trasmissiva.))
 
-## Capo V - Disciplina del fornitore di servizi interattivi associati o di
+### Capo V - Disciplina del fornitore di servizi interattivi associati o di servizi di accesso condizionato
 
-### servizi di accesso condizionato
-
-##### Art. 28
+#### Art. 28
 
 Attivita' di fornitore di servizi interattivi associati o di servizi di accesso ((condizionato))
 
@@ -910,11 +906,9 @@ Attivita' di fornitore di servizi interattivi associati o di servizi di accesso 
 
 ## Titolo IV - DISCIPLINA DEI SERVIZI DI MEDIA AUDIOVISIVI E RADIOFONICI
 
-### Capo I - Disposizioni applicabili a tutti i servizi di media audiovisivi e
+### Capo I - Disposizioni applicabili a tutti i servizi di media audiovisivi e radiofonici - Norme a tutela dei diritti fondamentali della persona e dei minori
 
-#### radiofonici - Norme a tutela dei diritti fondamentali della persona e - dei minori
-
-##### Art. 29
+#### Art. 29
 
 Disposizioni generali
 
@@ -954,7 +948,7 @@ e) revisione del piano di numerazione in base allo sviluppo del mercato, sentiti
 
 L'Autorita' emana le prescrizioni regolamentari necessarie per l'attuazione del presente comma, ed emette, nei confronti dei soggetti che producono od importano gli apparecchi, i provvedimenti necessari a garantirne l'osservanza. In caso di mancata ottemperanza ((agli ordini e alle diffide,)) l'Autorita' applica le sanzioni di cui all'articolo 1, comma 31, della legge 31 luglio 1997, n. 249.
 
-##### Art. 30
+#### Art. 30
 
 Tutela dei diritti fondamentali
 
@@ -968,7 +962,7 @@ b) alcuna pubblica provocazione a commettere reati di terrorismo di cui all'arti
 
 3\. Nei casi di inosservanza ((dei divieti)) di cui al comma 1 ((e dei criteri stabiliti)) nel regolamento di cui al comma 2 si applicano le sanzioni previste dall'articolo 67, comma 1, lettera q), e comma 2, lettera g).
 
-##### Art. 31
+#### Art. 31
 
 ((Accessibilita' alle persone con disabilita'))
 
@@ -984,7 +978,7 @@ b) alcuna pubblica provocazione a commettere reati di terrorismo di cui all'arti
 
 6\. E' istituito presso l'Autorita' un Punto di contatto unico online, disponibile al pubblico e facilmente accessibile anche per le persone ((persone con disabilita')), allo scopo di fornire informazioni e raccogliere reclami.
 
-##### Art. 32
+#### Art. 32
 
 Protezione dei diritti d'autore
 
@@ -998,7 +992,7 @@ b) si astengono dal trasmettere o ritrasmettere, o mettere comunque a disposizio
 
 3\. L'Autorita' emana le disposizioni regolamentari vincolanti, adeguate e necessarie per rendere effettiva l'osservanza dei limiti e divieti di cui al presente articolo.
 
-##### Art. 33
+#### Art. 33
 
 Eventi di particolare rilevanza per la societa' ed eventi di interesse sociale o di grande interesse pubblico
 
@@ -1012,7 +1006,7 @@ Eventi di particolare rilevanza per la societa' ed eventi di interesse sociale o
 
 5\. L'Autorita' vigila sull'attuazione delle disposizioni ((del presente articolo,)), esercitando le connesse funzioni sanzionatorie di cui all'articolo 67 e di risoluzione extragiudiziali delle controversie ai sensi dell'articolo 40.
 
-##### Art. 34
+#### Art. 34
 
 Brevi estratti di cronaca
 
@@ -1034,7 +1028,7 @@ f) gli accordi tra gli operatori per individuare la lunghezza massima dei brevi 
 
 g) il compenso pattuito in modo che non superi i costi supplementari direttamente sostenuti per consentire l'accesso.
 
-##### Art. 35
+#### Art. 35
 
 Telegiornali e giornali radio. Rettifica
 
@@ -1046,7 +1040,7 @@ Telegiornali e giornali radio. Rettifica
 
 4\. Nel caso in cui il fornitore di servizi di media audiovisivi o radiofonici, l'emittente radiofonica, o la concessionaria del servizio pubblico radiofonico, televisivo e multimediale ritengono che non ricorrono le condizioni per la trasmissione della rettifica, sottopongono la questione all'Autorita' entro il giorno successivo alla data di ricevimento della richiesta. L'Autorita' si pronuncia nel termine di cinque giorni dalla ricezione della suddetta richiesta o di quella inviata dall'interessato ((ai sensi del comma 2)). Se l'Autorita' ritiene fondata la richiesta, provvede alla rettifica, la quale, preceduta dall'indicazione della pronuncia dell'Autorita', deve essere trasmessa entro le ventiquattro ore successive all'emissione della pronuncia.
 
-##### Art. 36
+#### Art. 36
 
 Comunicati di organi pubblici
 
@@ -1058,7 +1052,7 @@ Analoga richiesta puo' essere effettuata ai fornitori dei servizi di media a ric
 
 3\. Per gravi ed urgenti necessita' pubbliche la richiesta del Presidente del Consiglio dei ministri, ((...)) ((contestualmente)) comunicata alla Commissione parlamentare per l'indirizzo generale e la vigilanza dei servizi radiotelevisivi, ha effetto immediato.
 
-##### Art. 37
+#### Art. 37
 
 Disposizioni a tutela dei minori nella programmazione audiovisiva ((e radiofonica))
 
@@ -1092,7 +1086,7 @@ b) il codice segreto deve essere comunicato con modalita' riservate, corredato d
 
 12\. L'Autorita' stabilisce con propri regolamenti i criteri per l'individuazione dei programmi e servizi di cui ai commi 1 e 2. I fornitori di servizi di media audiovisivi ((...)) e le emittenti radiofoniche si conformano ai menzionati criteri e alla disciplina di dettaglio entro trenta giorni dalla data di entrata in vigore dei regolamenti emessi dall'Autorita', garantendo il rispetto delle condizioni direttamente poste dal presente articolo, e assicurando che i contenuti classificati ai sensi del comma 1 siano ricevibili e fruibili unicamente nel rispetto delle condizioni fissate ai sensi del comma 5.
 
-##### Art. 38
+#### Art. 38
 
 Vigilanza e sanzioni a tutela dei minori
 
@@ -1106,13 +1100,13 @@ Vigilanza e sanzioni a tutela dei minori
 
 ((5. L'Autorita', sentiti l'Autorita' garante per l'infanzia e l'adolescenza, il Comitato consultivo interistituzionale di cui all'articolo 8, comma 2 e l'Autorita' politica con delega alla famiglia, che si esprimono entro quindici giorni, presenta al Parlamento, entro il 31 marzo di ogni anno, una relazione sulla tutela dei diritti dei minori, sulle misure adottate, sui procedimenti per la violazione dei codici di autoregolamentazione e sulle sanzioni irrogate. Ogni sei mesi, l'Autorita', sentiti l'Autorita' garante per l'infanzia e l'adolescenza ed il Comitato consultivo interistituzionale di cui all'articolo 8, comma 2, invia alla Commissione parlamentare per l'infanzia e l'adolescenza di cui alla legge 23 dicembre 1997, n. 451, una relazione informativa sulle attivita' di sua competenza in materia di tutela dei diritti dei minori, corredata da eventuali segnalazioni, suggerimenti od osservazioni.))
 
-##### Art. 39
+#### Art. 39
 
 Valori dello sport
 
 1\. I fornitori di servizi di media audiovisivi e radiofonici e le emittenti ((...)) radiofoniche, nei programmi sportivi e nelle trasmissioni sportive, specialmente se riguardanti lo sport del calcio, ((sono tenuti)) all'osservanza di specifiche regole, individuate con codice di autoregolamentazione recepito con decreto del ((Ministro delle imprese e del made in Italy)) di concerto con il Presidente del Consiglio dei ministri ((oppure)), se nominata, con l'Autorita' delegata allo sport ((, con il Ministro della giustizia e con il Ministro dell'interno)), adottato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, previo parere delle Commissioni parlamentari competenti, anche al fine di contribuire alla diffusione tra i giovani dei valori di una competizione sportiva leale e rispettosa dell'avversario, per prevenire fenomeni di violenza o di turbativa dell'ordine pubblico legati allo svolgimento di manifestazioni sportive.
 
-##### Art. 40
+#### Art. 40
 
 Risoluzione extragiudiziale delle controversie
 
@@ -1128,9 +1122,9 @@ Risoluzione extragiudiziale delle controversie
 
 ((5-bis Le disposizioni del presente articolo si applicano anche ai fornitori di servizi di media radiofonici, alle emittenti radiofoniche ed ai servizi dalle stesse forniti.))
 
-## Capo II - ((Disposizioni applicabili ai servizi di piattaforma per la condivisione di video, di audio o di entrambi))
+### Capo II - ((Disposizioni applicabili ai servizi di piattaforma per la condivisione di video, di audio o di entrambi))
 
-##### Art. 41
+#### Art. 41
 
 (( (Disposizioni generali). ))
 
@@ -1170,7 +1164,7 @@ c) la tutela dei consumatori, ivi compresi gli investitori, ai sensi del present
 
 13\. Le disposizioni di cui al presente articolo si applicano anche ai servizi di piattaforma per la condivisione di contenuti di solo audio o audio generati dagli utenti o entrambi, per quanto compatibili.))
 
-##### Art. 42
+#### Art. 42
 
 (( (Misure di tutela). ))
 
@@ -1224,11 +1218,9 @@ l) predisporre misure e strumenti efficaci di alfabetizzazione mediatica e sensi
 
 11\. Le disposizioni di cui al presente articolo si applicano anche ai servizi di piattaforma per la condivisione di contenuti di solo audio o audio generati dagli utenti o entrambi, per quanto compatibili.))
 
-## Capo III - Disposizioni sulla pubblicita', le sponsorizzazioni e l'inserimento
+### Capo III - Disposizioni sulla pubblicita', le sponsorizzazioni e l'inserimento di prodotti
 
-### di prodotti
-
-##### Art. 43
+#### Art. 43
 
 Principi generali in materia di comunicazioni commerciali audiovisive e radiofoniche
 
@@ -1266,7 +1258,7 @@ h) sono vietate le comunicazioni commerciali audiovisive relative al gioco d'azz
 
 5\. Le disposizioni del presente articolo si applicano altresi' alle emittenti radiofoniche ((, ai fornitori di servizi di media radiofonici e)) e ai servizi dalle stesse forniti, nonche' ai fornitori di piattaforme video secondo specifiche modalita' definite dall'Autorita'.
 
-##### Art. 44
+#### Art. 44
 
 Interruzioni pubblicitarie
 
@@ -1306,7 +1298,7 @@ f) non usare l'indicazione del rilevante grado alcolico come qualita' positiva d
 
 11\. Le disposizioni del presente articolo si applicano altresi' alla pubblicita' ed alle televendite trasmesse dalle emittenti radiofoniche ((e dai fornitori di servizi di media radiofonici)).
 
-##### Art. 45
+#### Art. 45
 
 Limiti di affollamento
 
@@ -1330,7 +1322,7 @@ Limiti di affollamento
 
 10\. Non sono considerati ai fini del calcolo dei limiti massimi di cui al presente articolo i messaggi promozionali, facenti parte di iniziative promosse da istituzioni, enti, associazioni di categoria, produttori editoriali e librai, volte a sensibilizzare l'opinione pubblica nei confronti del libro e della lettura, trasmessi dalle emittenti radiofoniche e ((dai fornitori di servizi di media, audiovisivi e radiofonici pubblici e privati)) gratuitamente o a condizioni di favore, nonche', a condizione che abbiano autonoma collocazione nella programmazione e che non siano inseriti all'interno di un'interruzione pubblicitaria, i filmati promozionali o di presentazione di opere cinematografiche di nazionalita' europea di prossima programmazione.
 
-##### Art. 46
+#### Art. 46
 
 Disposizioni sui servizi di media audiovisivi e radiofonici e sulle sponsorizzazioni
 
@@ -1354,7 +1346,7 @@ c) non devono stimolare all'acquisto o al noleggio dei prodotti o servizi dello 
 
 7\. Le disposizioni del presente articolo si applicano altresi' ((per quanto compatibili in relazione alla specificita' del mezzo utilizzato ai fornitori di servizi di media radiofonici,)) alle emittenti radiofoniche ed ai servizi dalle stesse forniti.
 
-##### Art. 47
+#### Art. 47
 
 Disposizioni sulle televendite
 
@@ -1374,7 +1366,7 @@ d) non mostrare, senza motivo, minori in situazioni pericolose.
 
 4\. Ai palinsesti dedicati esclusivamente alla pubblicita', alle televendite, ovvero all'autopromozione non si applicano l'articolo 44, commi da 1 a 7, l'articolo 45, comma 2, e l'articolo 52.
 
-##### Art. 48
+#### Art. 48
 
 Inserimento di prodotti
 
@@ -1418,7 +1410,7 @@ Resta salva la previsione di cui all'art. 115, comma 5, decreto legislativo 24 a
 
 > 5\. In pubblicazioni a stampa, trasmissioni radio-televisive e in messaggi non a carattere pubblicitario comunque diffusi al pubblico, e' vietato mostrare in immagini un medicinale o la sua denominazione in un contesto che puo' favorire il consumo del prodotto.».
 
-##### Art. 49
+#### Art. 49
 
 Destinazione di risorse da parte di amministrazioni ed enti pubblici a scopi promozionali e di comunicazione istituzionale
 
@@ -1436,11 +1428,9 @@ Competente all'accertamento, alla contestazione e all'applicazione della sanzion
 
 > \- Per i riferimenti delle sezioni I e II del Capo I della legge 24 novembre 1981, n. 689 si veda nelle note all'articolo 38.
 
-## Titolo V - USO EFFICIENTE DELLO SPETTRO ELETTROMAGNETICO E PIANIFICAZIONE DELLE
+## Titolo V - USO EFFICIENTE DELLO SPETTRO ELETTROMAGNETICO E PIANIFICAZIONE DELLE FREQUENZE
 
-### FREQUENZE
-
-##### Art. 50
+#### Art. 50
 
 Gestione dello spettro elettromagnetico e pianificazione delle frequenze per il servizio di radiodiffusione terrestre
 
@@ -1490,7 +1480,7 @@ Successivamente, essi sono dovuti con le stesse modalita' fissate per il servizi
 
 ## Titolo VI - NORME A TUTELA DEL PLURALISMO
 
-##### Art. 51
+#### Art. 51
 
 Posizioni di significativo potere di mercato lesive del pluralismo nel sistema integrato delle comunicazioni
 
@@ -1542,13 +1532,13 @@ c) l'assoggettamento a direzione comune, che puo' risultare anche in base alle c
 
 ## Titolo VII - PROMOZIONE DELLE OPERE ITALIANE ED EUROPEE DA PARTE DEI FORNITORI
 
-##### Art. 52
+#### Art. 52
 
 (( (Principi generali a tutela della produzione audiovisiva europea e indipendente). ))
 
 ((1. I fornitori di servizi di media audiovisivi, lineari e a richiesta, favoriscono lo sviluppo e la diffusione della produzione audiovisiva europea e indipendente secondo il diritto dell'Unione europea e le disposizioni di cui al presente titolo.))
 
-##### Art. 53
+#### Art. 53
 
 (( (Obblighi di programmazione delle opere europee da parte dei fornitori di servizi di media audiovisivi lineari). ))
 
@@ -1564,7 +1554,7 @@ b) di un terzo, per gli altri fornitori di servizi di media audiovisivi lineari.
 
 Le quote e le percentuali di cui ai commi 1, 2 e 3 debbono essere rispettate su base annua.))
 
-##### Art. 54
+#### Art. 54
 
 (( (Obblighi di investimento in opere europee dei fornitori di servizi di media audiovisivi lineari). ))
 
@@ -1590,7 +1580,7 @@ Una percentuale pari al 75 per cento di tale quota e' riservata a opere di espre
 
 10\. Le disposizioni di cui al presente articolo si applicano anche ai fornitori di servizi di media audiovisivi lineari che hanno la responsabilita' editoriale di offerte rivolte ai consumatori in Italia, anche se stabiliti in altro Stato membro.))
 
-##### Art. 55
+#### Art. 55
 
 (( (Obblighi dei fornitori di servizi di media audiovisivi a richiesta). ))
 
@@ -1616,7 +1606,7 @@ b) gli obblighi di investimento in opere audiovisive europee prodotte da produtt
 
 9\. Ai fornitori di servizi di media audiovisivi lineari, che conseguono non meno dell'80 per cento dei propri introiti netti annui da tale attivita' e che svolgono anche l'attivita' di fornitura di servizi media a richiesta, si applicano le disposizioni di cui agli articoli 53 e 54.))
 
-##### Art. 56
+#### Art. 56
 
 (( (Attribuzioni dell'Autorita'). ))
 
@@ -1652,7 +1642,7 @@ d) gli obblighi risultano comunque impraticabili o ingiustificati alla luce dell
 
 6\. L'Autorita' presenta alle Camere, entro il 31 marzo di ogni anno, una relazione sull'assolvimento degli obblighi di promozione delle opere audiovisive europee e italiane da parte dei fornitori di servizi di media audiovisivi, lineari e a pagamento, sui provvedimenti adottati e sulle sanzioni irrogate. Nella relazione si da' conto, inoltre, dei dati relativi alle verifiche degli obblighi d'investimento in opere di espressione originale da parte dei fornitori di servizi media e audiovisivi a richiesta che hanno la responsabilita' editoriale di offerte rivolte ai consumatori in Italia, anche se operanti in altro Stato membro. La relazione fornisce, altresi', i dati e gli indicatori micro e macroeconomici del settore rilevanti ai fini della promozione delle opere europee, quali i volumi produttivi in termini di ore trasmesse, il fatturato delle imprese di produzione, i ricavi dei servizi di media audiovisivi, la quota e l'indicazione delle opere europee e di espressione originale italiana presenti nei palinsesti e nei cataloghi, il numero di occupati nel settore della produzione dei servizi di media audiovisivi, la circolazione internazionale di opere, il numero di deroghe richieste, accolte e rigettate, con le relative motivazioni, nonche' le tabelle di sintesi in cui sono indicate le percentuali degli obblighi di investimento assolti dai diversi fornitori che offrono servizi al pubblico italiano, con le relative opere europee e di espressione originale italiana.))
 
-##### Art. 57
+#### Art. 57
 
 (( (Disposizioni applicative in materia di opere audiovisive di espressione originale italiana). ))
 
@@ -1660,7 +1650,7 @@ d) gli obblighi risultano comunque impraticabili o ingiustificati alla luce dell
 
 2\. Il regolamento di cui al presente articolo e' adottato entro il 30 giugno 2024 ed e' aggiornato a cadenza almeno triennale, anche sulla base delle relazioni annuali predisposte rispettivamente dall'Autorita' ai sensi dell'articolo 56, comma 6, e dalla direzione generale cinema e audiovisivo, del Ministero della cultura, ai sensi dell'articolo 12, comma 6, della legge 14 novembre 2016, n. 220, nonche' dei risultati raggiunti dalle opere promosse mediante l'assolvimento degli obblighi di investimento e all'efficacia delle condizioni contrattuali impiegate.))
 
-##### Art. 58
+#### Art. 58
 
 Norme in materia di emittenza locale
 
@@ -1670,11 +1660,9 @@ a) ai fornitori di servizi di media audiovisivi operanti in ambito locale;
 
 b) ai fornitori di servizi di media audiovisivi operanti in ambito nazionale la cui programmazione consiste esclusivamente nella diffusione in simulcast del medesimo programma di emittenti radiofoniche.
 
-## Titolo VIII - SERVIZIO PUBBLICO GENERALE RADIOTELEVISIVO E DISCIPLINA DELLA
+## Titolo VIII - SERVIZIO PUBBLICO GENERALE RADIOTELEVISIVO E DISCIPLINA DELLA CONCESSIONARIA
 
-### CONCESSIONARIA
-
-##### Art. 59
+#### Art. 59
 
 Definizione dei compiti del servizio pubblico radiofonico, televisivo e multimediale
 
@@ -1728,7 +1716,7 @@ s) la realizzazione di attivita' di insegnamento a distanza.
 
 8\. Alla societa' cui e' affidato mediante concessione il servizio pubblico radiofonico, televisivo e multimediale e' consentito lo svolgimento, direttamente o attraverso societa' collegate, di attivita' commerciali ed editoriali, connesse alla diffusione di immagini, suoni e dati, nonche' di altre attivita' correlate, purche' esse non risultino di pregiudizio al migliore svolgimento dei pubblici servizi concessi e concorrano alla equilibrata gestione aziendale.
 
-##### Art. 60
+#### Art. 60
 
 Compiti di pubblico servizio in ambito regionale e relativo agli enti territoriali competenti
 
@@ -1760,7 +1748,7 @@ Compiti di pubblico servizio in ambito regionale e relativo agli enti territoria
 
 > In considerazione degli articoli 2 e 102 dello statuto, le province autonome di Trento e Bolzano hanno la facolta' di assumere iniziative per consentire, anche mediante appositi impianti, la ricezione di radiodiffusioni sonore e visive in lingua ladina, nonche' per collegarsi con aree culturali europee, limitatamente all'ambito territoriale delle rispettive province. Si applicano i commi secondo e quinto del presente decreto.».
 
-##### Art. 61
+#### Art. 61
 
 Finanziamento del servizio pubblico generale radiotelevisivo
 
@@ -1774,7 +1762,7 @@ Ogni qualvolta vengano utilizzate le stesse risorse di personale, apparecchiatur
 
 4\. E' fatto divieto alla societa' concessionaria della fornitura del servizio pubblico di cui al comma 3 di utilizzare, direttamente o indirettamente, i ricavi derivanti dal canone per finanziare attivita' non inerenti al servizio pubblico generale radiotelevisivo.
 
-##### Art. 62
+#### Art. 62
 
 Verifica dell'adempimento dei compiti
 
@@ -1798,7 +1786,7 @@ Puo' altresi' disporre ispezioni al fine di controllare i documenti aziendali e 
 
 9\. L'Autorita' da' conto dei risultati del controllo ogni anno nella relazione annuale.
 
-##### Art. 63
+#### Art. 63
 
 Disciplina della RAI-Radiotelevisione italiana S.p.a.
 
@@ -1906,7 +1894,7 @@ Il consiglio di amministrazione riferisce semestralmente, prima dell'approvazion
 
 28\. La dismissione della partecipazione dello Stato nella RAI-Radiotelevisione italiana S.p.a. resta disciplinata dall'articolo 21 della legge 3 maggio 2004, n. 112.
 
-##### Art. 64
+#### Art. 64
 
 Responsabilita' dei componenti degli organi
 
@@ -1918,7 +1906,7 @@ della RAI-Radiotelevisione italiana S.p.a.
 
 L'inadempimento degli obblighi di pubblicazione di cui al precedente periodo costituisce eventuale causa di responsabilita' per danno all'immagine della societa' ed e' comunque valutato ai fini della corresponsione della retribuzione accessoria o di risultato, ove prevista. L'amministratore delegato non risponde dell'inadempimento qualora provi che lo stesso e' dipeso da causa a lui non imputabile.
 
-##### Art. 65
+#### Art. 65
 
 Contratti conclusi dalla RAI-Radiotelevisione italiana S.p.a. e dalle societa' partecipate
 
@@ -1968,7 +1956,7 @@ Contratti conclusi dalla RAI-Radiotelevisione italiana S.p.a. e dalle societa' p
 
 > l) concernenti servizi connessi a campagne politiche, identificati con i codici CPV 79341400-0, 92111230-3 e 92111240-6, se aggiudicati da un partito politico nel contesto di una campagna elettorale per gli appalti relativi ai settori ordinari e alle concessioni.».
 
-##### Art. 66
+#### Art. 66
 
 Disposizioni in materia di incarichi dirigenziali esterni
 
@@ -1978,7 +1966,7 @@ Disposizioni in materia di incarichi dirigenziali esterni
 
 ### Capo I - Sanzioni
 
-##### Art. 67
+#### Art. 67
 
 Sanzioni di competenza dell'Autorita'
 
@@ -2054,7 +2042,7 @@ g) da 30.000 euro a 600.000 euro in caso di violazione delle norme di cui al com
 
 13\. Le sanzioni amministrative previste dal presente articolo si applicano anche se il fatto costituisce reato e indipendentemente dall'avvio di un'azione penale.
 
-##### Art. 68
+#### Art. 68
 
 Sanzioni di competenza del Ministero
 
@@ -2076,9 +2064,9 @@ In caso di reiterata violazione nei tre anni successivi all'adozione di un provv
 
 6\. Le sanzioni amministrative previste dal presente articolo si applicano anche se il fatto costituisce reato e indipendentemente dall'avvio di un'azione penale.
 
-## Capo II - Disposizioni finali
+### Capo II - Disposizioni finali
 
-##### Art. 69
+#### Art. 69
 
 Principio di specialita'
 
@@ -2118,7 +2106,7 @@ Principio di specialita'
 
 > 7\. Restano ferme le competenze e i poteri del Presidente del Consiglio dei Ministri di cui all'articolo 5, comma 3, lettera b-bis) della legge 23 agosto 1988, n. 400, nonche' le competenze e i poteri del Comitato interministeriale per la transizione digitale di cui all'articolo 8 del decreto-legge 1° marzo 2021, n. 22.».
 
-##### Art. 70
+#### Art. 70
 
 Abrogazioni
 
@@ -2132,7 +2120,7 @@ Abrogazioni
 
 > \- Per i riferimenti del decreto legislativo 31 luglio 2005, n. 177 si veda nelle note alle premesse.
 
-##### Art. 71
+#### Art. 71
 
 Norme transitorie e di coordinamento
 
@@ -2160,7 +2148,7 @@ La manipolazione dei dati tramite metodologie consapevolmente errate ovvero tram
 
 ((5-bis. Per gli anni 2024-2025, per l'attivita' di promozione dell'alfabetizzazione mediatica e digitale, il Ministero utilizza le risorse previste, per ciascuno degli anni 2024 e 2025, di cui all'articolo 1, comma 360, della legge 29 dicembre 2022, n. 197.))
 
-##### Art. 72
+#### Art. 72
 
 Disposizioni finanziarie
 

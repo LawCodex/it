@@ -47,11 +47,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Disposizioni generali
 
-### Disposizioni generali
-
-#### Art. 1
+### Art. 1
 
 Disposizioni di principio e ambito di applicazione
 
@@ -217,11 +215,9 @@ Disposizioni di principio e ambito di applicazione
 
 > \- Per i riferimenti normativi della direttiva 2013/48/UE, si veda nelle note alle premesse.
 
-## Capo II
+## Capo II - Disposizioni per l'adeguamento dell'ordinamento interno
 
-### Disposizioni per l'adeguamento dell'ordinamento interno
-
-#### Art. 2
+### Art. 2
 
 Modifiche al codice di procedura penale
 
@@ -249,7 +245,7 @@ b) al comma 5, primo periodo, dopo le parole: «a ispezione» sono inserite le s
 
 > 7\. E' vietato a coloro che intervengono agli atti di fare segni di approvazione o disapprovazione. Quando assiste al compimento degli atti, il difensore puo' presentare al pubblico ministero richieste, osservazioni e riserve delle quali e' fatta menzione nel verbale.".
 
-#### Art. 3
+### Art. 3
 
 Modifiche alle disposizioni di attuazione
 
@@ -303,7 +299,7 @@ al codice di procedura penale
 
 > 7\. I difensori inseriti nei turni giornalieri di cui al comma 4, lettera c), hanno l'obbligo della reperibilita'.".
 
-#### Art. 4
+### Art. 4
 
 Modifiche alla legge 22 aprile 2005, n. 69
 
@@ -351,7 +347,7 @@ b) all'articolo 12, dopo il comma 1 e' inserito il seguente:
 
 > 4\. All'attuazione del presente articolo si provvede mediante l'utilizzo degli ordinari stanziamenti del Ministero della giustizia.".
 
-#### Art. 5
+### Art. 5
 
 Clausola di invarianza finanziaria
 

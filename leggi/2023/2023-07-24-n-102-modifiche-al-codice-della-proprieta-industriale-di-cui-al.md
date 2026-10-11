@@ -27,11 +27,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I - Rafforzamento della competitivita' del sistema Paese e protezione
+## Capo I - Rafforzamento della competitivita' del sistema Paese e protezione della proprieta' industriale
 
-### della proprieta' industriale
-
-#### Art. 1
+### Art. 1
 
 Divieto di registrazione di marchi evocativi di indicazioni
 
@@ -77,7 +75,7 @@ geografiche e denominazioni di origine protetta
 
 > c) per l'omessa adozione da parte del titolare delle misure ragionevolmente idonee a prevenire un uso del marchio non conforme alle condizioni del regolamento d'uso del marchio collettivo o del marchio di certificazione e, in particolare, dei controlli previsti dalle disposizioni regolamentari sull'uso del marchio collettivo o del marchio di certificazione».
 
-#### Art. 2
+### Art. 2
 
 Protezione temporanea dei disegni e
 
@@ -93,7 +91,7 @@ Chi ne ha interesse puo' chiedere la protezione temporanea di disegni o modelli 
 
 3\. La priorita' di cui al comma 2 risale alla data di esposizione dichiarata nella richiesta di protezione temporanea e verificata dall'Ufficio italiano brevetti e marchi. Quando piu' disegni o modelli identici ottengono la protezione di cui al comma 1 nella medesima data, la priorita' e' attribuita al disegno o modello per il quale e' stata depositata per prima la domanda di registrazione».
 
-#### Art. 3
+### Art. 3
 
 Titolarita' delle invenzioni realizzate
 
@@ -161,7 +159,7 @@ d) ogni altro aspetto relativo alle migliori forme di valorizzazione delle inven
 
 > 6\. Salvo l'applicazione di ogni altra tutela, la registrazione di nome a dominio aziendale concessa in violazione dell'articolo 22 o richiesta in mala fede, puo' essere, su domanda dell'avente diritto, revocata oppure a lui trasferita da parte dell'autorita' di registrazione».
 
-#### Art. 4
+### Art. 4
 
 Uffici di trasferimento tecnologico
 
@@ -169,7 +167,7 @@ Uffici di trasferimento tecnologico
 
 «Art. 65-bis (Uffici di trasferimento tecnologico). - 1. Le istituzioni universitarie e dell'alta formazione artistica, musicale e coreutica, gli enti pubblici di ricerca ovvero gli IRCCS possono dotarsi, nell'ambito delle risorse disponibili a legislazione vigente, anche in forma associativa nell'ambito della propria autonomia, di un ufficio di trasferimento tecnologico con la funzione di promuovere la valorizzazione dei titoli di proprieta' industriale, anche attraverso la promozione di collaborazioni con le imprese. Il personale addetto all'ufficio di cui al presente comma e' in possesso di qualificazione professionale adeguata allo svolgimento delle attivita' di promozione della proprieta' industriale del medesimo ufficio».
 
-#### Art. 5
+### Art. 5
 
 Rapporti tra brevetto europeo e
 
@@ -181,7 +179,7 @@ brevetto italiano
 
 2\. Le disposizioni di cui al comma 1 continuano ad applicarsi anche in caso di successivo annullamento o decadenza del brevetto europeo».
 
-#### Art. 6
+### Art. 6
 
 Aumento della sanzione amministrativa
 
@@ -201,7 +199,7 @@ Aumento della sanzione amministrativa
 
 > 3\. Salvo che il fatto costituisca reato, e' punito con la sanzione amministrativa fino a 2.065,83 euro, anche quando non vi sia danno al terzo, chiunque faccia uso di un marchio registrato, dopo che la relativa registrazione e' stata dichiarata nulla, quando la causa di nullita' comporta la illiceita' dell'uso del marchio, oppure sopprima il marchio del produttore o del commerciante da cui abbia ricevuto i prodotti o le merci a fini commerciali».
 
-#### Art. 7
+### Art. 7
 
 Conservazione della data di deposito della domanda di brevetto in caso di pagamento non contestuale dei diritti di deposito
 
@@ -267,7 +265,7 @@ e) dopo il comma 4 e' inserito il seguente:
 
 > 5-bis. L'Ufficio, su istanza, rilascia copia o copia autentica dei documenti o dei riferimenti prodotti all'atto del deposito. La traduzione italiana, ove presentata successivamente, viene allegata su richiesta».
 
-#### Art. 8
+### Art. 8
 
 Rafforzamento del controllo preventivo sulle domande
 
@@ -347,7 +345,7 @@ b) l'inventore abbia ceduto l'invenzione oggetto del brevetto precedentemente al
 
 ## Capo II - Semplificazione amministrativa e digitalizzazione delle procedure
 
-#### Art. 9
+### Art. 9
 
 Estensione della durata in carica della
 
@@ -377,7 +375,7 @@ Commissione dei ricorsi
 
 > 8\. I compensi per i componenti la Commissione, i componenti la segreteria della Commissione ed i tecnici aggregati alla Commissione, sono determinati con decreto del Ministro dello sviluppo economico, di concerto con il Ministro dell'economia e delle finanze».
 
-#### Art. 10
+### Art. 10
 
 Riduzione dei termini per la convocazione delle parti
 
@@ -397,7 +395,7 @@ in udienza dinanzi alla Commissione dei ricorsi
 
 > 4\. Fino a dieci giorni liberi prima della data di cui al comma 3 ciascuna delle parti puo' depositare memorie di replica».
 
-#### Art. 11
+### Art. 11
 
 Efficacia diretta dell'iscrizione nel Registro europeo dei brevetti di atti inerenti a una domanda o a un brevetto europeo e soppressione della trascrizione presso l'Ufficio italiano brevetti e marchi
 
@@ -417,7 +415,7 @@ Efficacia diretta dell'iscrizione nel Registro europeo dei brevetti di atti iner
 
 > 5\. Sono opponibili ai terzi gli atti che trasferiscono, in tutto o in parte, ovvero modificano i diritti inerenti ad una domanda o ad un brevetto europeo, a condizione che siano stati iscritti nel Registro europeo dei brevetti o, in mancanza, siano stati trascritti nel Registro italiano dei brevetti europei».
 
-#### Art. 12
+### Art. 12
 
 Soppressione dell'obbligo di trasmissione di documentazione cartacea e semplificazione delle modalita' di accesso e di utilizzo del deposito telematico presso l'Ufficio italiano brevetti e marchi
 
@@ -449,7 +447,7 @@ b) dopo il comma 2 e' inserito il seguente:
 
 > 3-quinquies. Nei casi previsti al comma 3-quater, la comunicazione si ha per eseguita lo stesso giorno in cui e' stata effettuata l'affissione nell'Albo».
 
-#### Art. 13
+### Art. 13
 
 Estensione dell'utilizzo dei
 
@@ -481,7 +479,7 @@ servizi digitali disponibili presso organismi esteri
 
 > 8\. La rivendicazione di priorita' nella domanda di privativa per nuova varieta' vegetale e' rifiutata se e' effettuata dopo il termine di dodici mesi dalla data di deposito della prima domanda e se il richiedente non ne ha diritto. Qualora priorita' sia rifiutata non se ne fa menzione nella privativa».
 
-#### Art. 14
+### Art. 14
 
 Semplificazione della procedura di
 
@@ -555,7 +553,7 @@ e) al comma 3-nonies, le parole: «, comprensive delle disposizioni relative all
 
 > 3-nonies. Con decreto del Ministro dello sviluppo economico, di concerto con il Ministro delle politiche agricole alimentari e forestali, sono definite le disposizioni attuative del Codice della proprieta' industriale in materia di nuove varieta' vegetali».
 
-#### Art. 15
+### Art. 15
 
 Tutela delle denominazioni di origine e delle
 
@@ -583,7 +581,7 @@ indicazioni geografiche mediante opposizione
 
 > d-ter) il soggetto che ha depositato la domanda di protezione di una denominazione di origine ovvero di una indicazione geografica, non ancora concessa al momento della presentazione dell'opposizione.
 
-#### Art. 16
+### Art. 16
 
 Disposizioni in materia di proroga dei termini nell'ambito dei procedimenti presso l'Ufficio italiano brevetti e marchi
 
@@ -599,7 +597,7 @@ Disposizioni in materia di proroga dei termini nell'ambito dei procedimenti pres
 
 > 2\. Salva diversa previsione del regolamento di attuazione del presente codice, su richiesta motivata, la proroga puo' essere concessa fino ad un massimo di sei mesi a decorrere dalla data di scadenza del termine di cui si chiede la proroga».
 
-#### Art. 17
+### Art. 17
 
 Termine di presentazione dell'istanza di reintegrazione
 
@@ -631,7 +629,7 @@ b) il secondo periodo e' soppresso.
 
 > b) se si tratta di marchio chiedere di essere reintegrato delle spese sostenute».
 
-#### Art. 18
+### Art. 18
 
 Snellimento della commissione d'esame di abilitazione per l'esercizio della professione di consulente in proprieta' industriale e riduzione del periodo obbligatorio di tirocinio
 
@@ -685,7 +683,7 @@ c) al comma 5, le parole: «scritte ed orali,» sono soppresse.
 
 ## Capo III - Norme di coordinamento ed adeguamento
 
-#### Art. 19
+### Art. 19
 
 Adeguamento delle previsioni in materia di novita' del brevetto al procedimento di esame nazionale delle domande internazionali di brevetto
 
@@ -703,7 +701,7 @@ Adeguamento delle previsioni in materia di novita' del brevetto al procedimento 
 
 > 4\. Le disposizioni dei commi 1, 2 e 3 non escludono la brevettabilita' di una sostanza o di una composizione di sostanze gia' compresa nello stato della tecnica, purche' in funzione di una nuova utilizzazione.»
 
-#### Art. 20
+### Art. 20
 
 Individuazione del termine finale di durata del brevetto
 
@@ -729,7 +727,7 @@ b) all'articolo 85, il comma 1 e' sostituito dal seguente:
 
 > 2\. I diritti conferiti e la decorrenza degli effetti del brevetto sono regolati conformemente all'articolo 53.»
 
-#### Art. 21
+### Art. 21
 
 Abrogazione di previsioni inerenti ai certificati complementari di protezione previsti dalla legge 19 ottobre 1991, n. 349
 
@@ -745,7 +743,7 @@ b) l'articolo 81 e' abrogato.
 
 > «Art. 61 (Certificato complementare per prodotti medicinali e per prodotti fitosanitari). - 1. I certificati complementari per prodotti medicinali e i certificati complementari per prodotti fitosanitari, sono concessi dall'Ufficio italiano brevetti e marchi sulla base dei regolamenti (CE) n. 469/2009, (CE) n. 1901/2006 e (CE) n. 1610/96 e producono gli effetti previsti da tali regolamenti.»
 
-#### Art. 22
+### Art. 22
 
 Eliminazione dei limiti alla possibilita' di
 
@@ -767,7 +765,7 @@ sequestro di prodotti contraffatti esposti in fiere
 
 > 4\. I procedimenti di descrizione e di sequestro sono disciplinati dalle norme del codice di procedura civile concernenti i procedimenti cautelari, in quanto compatibili e non derogate dal presente codice. Ai fini della conferma, modifica o revoca della descrizione e dell'eventuale concessione delle misure cautelari chieste unitamente o subordinatamente alla descrizione, il giudice fissa l'udienza di discussione tenendo conto della descrizione allo scopo di valutarne il risultato.»
 
-#### Art. 23
+### Art. 23
 
 Ampliamento delle fattispecie oggetto di trascrizione
 
@@ -811,7 +809,7 @@ b) dopo la lettera n) e' aggiunta la seguente:
 
 > n-bis) le sentenze di fallimento di soggetti titolari di diritti sui titoli di proprieta' industriale»
 
-#### Art. 24
+### Art. 24
 
 Rilevanza del rapporto di ricerca nei casi di
 
@@ -837,7 +835,7 @@ conversione della domanda di brevetto
 
 > e) per le topografie dei prodotti a semiconduttori, che l'oggetto della domanda sia conforme a quello previsto dall'articolo 87, esclusi i requisiti di validita' fino a quando non si sia provveduto a disciplinare l'esame con decreto ministeriale.»
 
-#### Art. 25
+### Art. 25
 
 Articolazione della fase di avvio del
 
@@ -871,7 +869,7 @@ procedimento di opposizione
 
 > 7-bis. L'Ufficio italiano brevetti e marchi, con il provvedimento di cui al comma 7, pone a carico del richiedente, se soccombente, il rimborso dei diritti di opposizione. Le spese di rappresentanza professionale nel procedimento sono liquidate a carico della parte soccombente, a domanda, nella misura massima individuata con decreto del Ministero dello sviluppo economico.»
 
-#### Art. 26
+### Art. 26
 
 Esperibilita' del procedimento di nullita' dei marchi a tutela dell'immagine e della reputazione dell'Italia e divieto di parcellizzazione delle domande di nullita' e decadenza
 
@@ -929,7 +927,7 @@ b) dopo il comma 8 e' inserito il seguente:
 
 > 11\. L'istanza di decadenza o di nullita' e' altresi' improcedibile qualora sia stata presentata contestualmente ad una domanda, con il medesimo oggetto, i medesimi fatti costitutivi e fra le stesse parti, proposta davanti all'autorita' giudiziaria adita ai sensi dell'articolo 122.»
 
-#### Art. 27
+### Art. 27
 
 Ulteriore definizione delle fasi del
 
@@ -963,7 +961,7 @@ procedimento di nullita' e decadenza
 
 > 7\. I provvedimenti che accertano la decadenza o dichiarano la nullita' della registrazione o trasferiscono la titolarita' della registrazione di un marchio sono annotati nel registro.»
 
-#### Art. 28
+### Art. 28
 
 Estinzione del procedimento di nullita' o decadenza
 
@@ -991,7 +989,7 @@ nel caso di rinuncia al marchio contestato
 
 > g) se e' venuto meno l'interesse ad agire.»
 
-#### Art. 29
+### Art. 29
 
 Definizione dei criteri per
 
@@ -1007,7 +1005,7 @@ il rimborso di tasse e diritti
 
 4\. I rimborsi sono annotati nella banca dati dell'Ufficio italiano brevetti e marchi».
 
-#### Art. 30
+### Art. 30
 
 Regolarizzazione dei pagamenti tardivi dei
 
@@ -1027,7 +1025,7 @@ diritti di mantenimento in vita dei titoli
 
 > 3\. Abrogato»
 
-#### Art. 31
+### Art. 31
 
 Adeguamento degli importi dovuti a titolo di imposta di bollo per consentire il pagamento in modo digitale
 
@@ -1045,7 +1043,7 @@ d) alle lettere c) e d), le parole: «euro 15,00» sono sostituite dalle seguent
 
 > \- Il decreto del Presidente della Repubblica 26 ottobre 1972, n. 642, reca la disciplina dell'imposta di bollo.
 
-#### Art. 32
+### Art. 32
 
 Clausola di invarianza finanziaria
 

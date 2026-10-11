@@ -25,13 +25,13 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+## Art. 1
 
 Il rendiconto consuntivo dello Stato per l'esercizio 1970 e' approvato con le risultanze degli articoli seguenti.
 
 ## ENTRATE E SPESE DI COMPETENZA DELL'ESERCIZIO FINANZIARIO 1970
 
-#### Art. 2
+## Art. 2
 
 Le entrate tributarie, extra tributarie, per
 
@@ -59,7 +59,7 @@ rimasero da versare. . " 402.191.897.677
  ------------------
 ```
 
-#### Art. 3
+## Art. 3
 
 Le spese correnti, in conto capitale e per
 
@@ -76,7 +76,7 @@ conto consuntivo del bilancio, in . . . . . . L. 14.313.803.349.296 delle quali 
  ------------------
 ```
 
-#### Art. 4
+## Art. 4
 
 Il riepilogo generale delle entrate e delle spese di competenza dell'esercizio finanziario 1970 risulta stabilito dal conto consuntivo come segue:
 
@@ -91,7 +91,7 @@ Entrate tributarie ed extra tributarie . . L. 10.995.878.148.587 Spese correnti 
 
 ## ENTRATE E SPESE RESIDUE DELL'ESERCIZIO FINANZIARIO 1969 - ED ESERCIZI PRECEDENTI
 
-#### Art. 5
+## Art. 5
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -111,7 +111,7 @@ rimasero da versare. . " 401.473.485.703
  ------------------
 ```
 
-#### Art. 6
+## Art. 6
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -126,7 +126,7 @@ conto consuntivo del bilancio in . . . . . . . L. 6.846.288.364.258 dei quali fu
 
 ## RESIDUI ATTIVI E PASSIVI ALLA CHIUSURA DELL'ESERCIZIO FINANZIARIO - 1970
 
-#### Art. 7
+## Art. 7
 
 I residui attivi alla chiusura dell'esercizio finanziario 1970 risultano stabiliti, dal conto consuntivo del bilancio, nelle seguenti somme:
 
@@ -145,7 +145,7 @@ degli esercizi precedenti (articolo 5) . . . . " 514.260.253.332 Somme riscosse 
  ------------------
 ```
 
-#### Art. 8
+## Art. 8
 
 I residui passivi alla chiusura dell'esercizio finanziario 1970 risultano stabiliti dal conto consuntivo del bilancio, nelle seguenti somme:
 
@@ -164,7 +164,7 @@ esercizi precedenti (articolo 6) . . . . . . . " 4.417.130.832.135
 
 ## SITUAZIONE FINANZIARIA
 
-#### Art. 9
+## Art. 9
 
 Il disavanzo finanziario del conto del tesoro alla fine dell'esercizio 1970 e' accertato nella somma di lire 10.971.410.515.388, come risulta dai seguenti dati:
 
@@ -222,11 +222,11 @@ bilita generale dello Stato . . . . . . . . " 196.807
 
 ## DISPOSIZIONI SPECIALI
 
-#### Art. 10
+## Art. 10
 
 Sono stabiliti nella somma di lire 196.807 i discarichi consentiti, nell'esercizio 1970, ai tesorieri per casi di forza maggiore, ai sensi dell'articolo 194 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato approvato con regio decreto 23 maggio 1924, n. 827.
 
-#### Art. 11
+## Art. 11
 
 Sono approvate le eccedenze di impegni risultate in sede di consuntivo sul conto della competenza e sul conto dei residui ai capitoli degli stati di previsione della spesa dei Ministeri sottoindicati per l'esercizio finanziario 1970, come risulta dal dettaglio che segue:
 
@@ -382,11 +382,9 @@ rie ed altri assegni fissi
 
 (Spese fisse ed obbligatorie) - " 34.907.203
 
-## AZIENDE SPECIALI ED AUTONOME
+## AZIENDE SPECIALI ED AUTONOME - AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### AZIENDA DI STATO PER LE FORESTE DEMANIALI
-
-#### Art. 12
+## Art. 12
 
 Le entrate correnti ed in conto capitale del
 
@@ -416,7 +414,7 @@ rimasero da versare. . " 348.550.643
  ------------------
 ```
 
-#### Art. 13
+## Art. 13
 
 Le spese correnti ed in conto capitale del
 
@@ -433,7 +431,7 @@ tano stabilite in. . . . . . . . . . . . . . . L. 8.206.449.741 delle quali furo
  ------------------
 ```
 
-#### Art. 14
+## Art. 14
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -451,7 +449,7 @@ rimasero da versare. . " 22.557.500
  -----------------
 ```
 
-#### Art. 15
+## Art. 15
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -462,7 +460,7 @@ zio finanziario 1969 risultano stabiliti in. . L. 31.958.027.303 dei quali furon
  ------------------
 ```
 
-#### Art. 16
+## Art. 16
 
 I residui attivi alla chiusura dell'esercizio finanziario 1970, risultano stabiliti nelle seguenti somme:
 
@@ -481,7 +479,7 @@ del riepilogo dell'entrata). . . . . . . . . . " 371.108.143
  ------------------
 ```
 
-#### Art. 17
+## Art. 17
 
 I residui passivi alla chiusura dell'esercizio finanziario 1970, risultano stabiliti nelle seguenti somme:
 
@@ -501,7 +499,7 @@ esercizi precedenti (articolo 15). . . . . . . " 22.338.578.2 16
  ---------------- --
 ```
 
-#### Art. 18
+## Art. 18
 
 La situazione finanziaria dell'Azienda di Stato per le foreste demaniali, alla fine dell'esercizio 1970, risulta come appresso.
 
@@ -547,7 +545,7 @@ al 31 dicembre 1970. . " 2.096.495.058
 
 ## ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-#### Art. 19
+## Art. 19
 
 Le entrate correnti dell'Istituto agronomico
 
@@ -570,7 +568,7 @@ detto, in. . . . . . . . . . . . . . . . . . . L. 163.484.540 delle quali furono
  ------------------
 ```
 
-#### Art. 20
+## Art. 20
 
 Le spese correnti dell'Istituto predetto,
 
@@ -585,7 +583,7 @@ risultano stabilite in . . . . . . . . . . . . L. 163.484.540 delle quali furono
  ------------------
 ```
 
-#### Art. 21
+## Art. 21
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -598,7 +596,7 @@ e versati. . . . . . . . . . . . . . . . . . " 4.573.000
  ------------------
 ```
 
-#### Art. 22
+## Art. 22
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -609,7 +607,7 @@ zio finanziario 1969 risultano stabiliti in. . L. 32.087.971 dei quali furono pa
  ------------------
 ```
 
-#### Art. 23
+## Art. 23
 
 I residui attivi alla chiusura dell'esercizio 1970 risultano stabiliti nelle seguenti somme:
 
@@ -626,7 +624,7 @@ degli esercizi precedenti (articolo 21). . . . " 100.000
  ------------------
 ```
 
-#### Art. 24
+## Art. 24
 
 I residui passivi alla chiusura dell'esercizio 1970 risultano stabiliti nelle seguenti somme:
 
@@ -645,7 +643,7 @@ esercizi precedenti (articolo 22). . . . . . . " 15.559.006
 
 ## AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-#### Art. 25
+## Art. 25
 
 Le entrate correnti ed in conto capitale del
 
@@ -673,7 +671,7 @@ rimasero da versare. . " 2.245.902.217
  ------------------
 ```
 
-#### Art. 26
+## Art. 26
 
 Le spese correnti, in conto capitale e per
 
@@ -690,7 +688,7 @@ dell'esercizio stesso, risultano stabilite in L. 196.161.152.281 delle quali fur
  ------------------
 ```
 
-#### Art. 27
+## Art. 27
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -708,7 +706,7 @@ rimasero da versare. . " 1.797.826
  ------------------
 ```
 
-#### Art. 28
+## Art. 28
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -719,7 +717,7 @@ zio finanziario 1969 risultano stabiliti in. . L. 27.112.584.559 dei quali furon
  ------------------
 ```
 
-#### Art. 29
+## Art. 29
 
 I residui attivi alla chiusura dell'esercizio finanziario 1970, risultano stabiliti nelle seguenti somme:
 
@@ -738,7 +736,7 @@ del riepilogo dell'entrata). . . . . . . . . . " 2.247.700.043
  ------------------
 ```
 
-#### Art. 30
+## Art. 30
 
 I residui passivi alla chiusura dell'esercizio finanziario 1970, risultano stabiliti nelle seguenti somme:
 
@@ -755,7 +753,7 @@ esercizi precedenti (articolo 28). . . . . . . " 4.585.836.486
  ------------------
 ```
 
-#### Art. 31
+## Art. 31
 
 La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dell'esercizio finanziario 1970, risulta come appresso:
 
@@ -769,7 +767,7 @@ Spese dell'esercizio 1970. . . . . . . . . . . L. 196.161.152.281
 
 ## ARCHIVI NOTARILI
 
-#### Art. 32
+## Art. 32
 
 E' approvato il conto consuntivo degli archivi notarili, per l'esercizio 1970, nelle risultanze seguenti:
 
@@ -782,7 +780,7 @@ Entrate. . . . . . . . . . . . . . . . . . L. 11.443.584.148 Spese. . . . . . . 
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-#### Art. 33
+## Art. 33
 
 Le entrate correnti ed in conto capitale del
 
@@ -812,7 +810,7 @@ rimasero da versare. . " 1.894.210
  ------------------
 ```
 
-#### Art. 34
+## Art. 34
 
 Le spese correnti ed in conto capitale del
 
@@ -829,7 +827,7 @@ sultano stabilite in . . . . . . . . . . . . . L. 23.810.733.200 delle quali fur
  ------------------
 ```
 
-#### Art. 35
+## Art. 35
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -847,7 +845,7 @@ rimasero da versare. . " 917.773
  ------------------
 ```
 
-#### Art. 36
+## Art. 36
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -858,7 +856,7 @@ zio finanziario 1969 risultano stabiliti in. . L. 1.209.028.835 dei quali furono
  ------------------
 ```
 
-#### Art. 37
+## Art. 37
 
 I residui attivi alla chiusura dell'esercizio finanziario 1970, risultano stabiliti nelle seguenti somme:
 
@@ -877,7 +875,7 @@ del riepilogo dell'entrata). . . . . . . . . . " 2.811.983
  ------------------
 ```
 
-#### Art. 38
+## Art. 38
 
 I residui passivi alla chiusura dell'esercizio finanziario 1970, risultano stabiliti nelle seguenti somme:
 
@@ -894,7 +892,7 @@ esercizi precedenti (articolo 36). . . . . . . " 401.969.908
  ------------------
 ```
 
-#### Art. 39
+## Art. 39
 
 Il saldo attivo del conto finanziario dell'Amministrazione del fondo per il culto alla fine dell'esercizio 1970, e' accertato nella somma di lire 1.671.293.537,30, come risulta dai seguenti dati:
 
@@ -941,7 +939,7 @@ al 31 dicembre 1970. . " 1.318.623.107
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-#### Art. 40
+## Art. 40
 
 Le entrate correnti ed in conto capitale del
 
@@ -971,7 +969,7 @@ rimasero da versare. . " 279
  ------------------
 ```
 
-#### Art. 41
+## Art. 41
 
 Le spese correnti ed in conto capitale del
 
@@ -988,7 +986,7 @@ risultano stabilite in . . . . . . . . . . . . L. 617.486.480 delle quali furono
  ------------------
 ```
 
-#### Art. 42
+## Art. 42
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1006,7 +1004,7 @@ rimasero da versare. . " 740
  ------------------
 ```
 
-#### Art. 43
+## Art. 43
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1017,7 +1015,7 @@ zio finanziario 1969 risultano stabiliti in. . L. 468.689.626 dei quali furono p
  ------------------
 ```
 
-#### Art. 44
+## Art. 44
 
 I residui attivi alla chiusura dell'esercizio finanziario 1970, risultano stabiliti nelle seguenti somme:
 
@@ -1036,7 +1034,7 @@ del riepilogo dell'entrata). . . . . . . . . . " 1.019
  ------------------
 ```
 
-#### Art. 45
+## Art. 45
 
 I residui passivi alla chiusura dell'esercizio finanziario 1970, risultano stabiliti nelle seguenti somme:
 
@@ -1053,7 +1051,7 @@ esercizi precedenti (articolo 43). . . . . . . " 214.041.096
  ------------------
 ```
 
-#### Art. 46
+## Art. 46
 
 Il saldo attivo del conto finanziario del Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1970, e' accertato nella somma di lire 30.955.529,58, come risulta dai seguenti dati:
 
@@ -1099,7 +1097,7 @@ al 31 dicembre 1970. . " 178.589.018
 
 ## PATRIMONI RIUNITI EX ECONOMALI
 
-#### Art. 47
+## Art. 47
 
 Le entrate correnti ed in conto capitale
 
@@ -1127,7 +1125,7 @@ rimasero da versare. . " 15.107
  ------------------
 ```
 
-#### Art. 48
+## Art. 48
 
 Le spese correnti, in conto capitale e per
 
@@ -1144,7 +1142,7 @@ risultano stabilite, dal conto consuntivo, in L. 556.871.862 delle quali furono 
  ------------------
 ```
 
-#### Art. 49
+## Art. 49
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1164,7 +1162,7 @@ rimasero da versare. . " 2.703
  ------------------
 ```
 
-#### Art. 50
+## Art. 50
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1177,7 +1175,7 @@ conto consuntivo dell'Azienda, in. . . . . . . L. 178.318.331 dei quali furono p
  ------------------
 ```
 
-#### Art. 51
+## Art. 51
 
 I residui attivi alla chiusura dell'esercizio finanziario 1970, risultano stabiliti, dal conto consuntivo dell'Azienda, nelle seguenti somme:
 
@@ -1196,7 +1194,7 @@ degli esercizi precedenti (articolo 49). . . . " 15.356.177 Somme riscosse e non
  ------------------
 ```
 
-#### Art. 52
+## Art. 52
 
 I residui passivi alla chiusura dell'esercizio finanziario 1970, risultano stabiliti, dal conto consuntivo dell'Azienda, nelle seguenti somme:
 
@@ -1213,7 +1211,7 @@ esercizi precedenti (articolo 50). . . . . . . " 73.309.551
  ------------------
 ```
 
-#### Art. 53
+## Art. 53
 
 Il saldo attivo del conto finanziario dell'Azienda dei patrimoni riuniti ex economali alla fine dell'esercizio 1970, e' accertato nella somma di lire 6.788.301,88, come risulta dai seguenti dati:
 
@@ -1260,7 +1258,7 @@ Spese dell'esercizio finanziario 1970. . . . . L. 556.871.862,-- Saldo attivo al
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE
 
-#### Art. 54
+## Art. 54
 
 Le entrate correnti, in conto capitale e per
 
@@ -1283,7 +1281,7 @@ tivo del Ministero dei lavori pubblici, in . . L. 337.663.197.554 delle quali fu
  ------------------
 ```
 
-#### Art. 55
+## Art. 55
 
 Le spese correnti, in conto capitale e per
 
@@ -1302,7 +1300,7 @@ lite in. . . . . . . . . . . . . . . . . . . . L. 337.663.197.554 delle quali fu
  ------------------
 ```
 
-#### Art. 56
+## Art. 56
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1315,7 +1313,7 @@ e versati. . . . . . . . . . . . . . . . . . " 17.459.802.421
  ------------------
 ```
 
-#### Art. 57
+## Art. 57
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1326,7 +1324,7 @@ zio finanziario 1969 risultano stabiliti in. . L. 483.361.442.997 dei quali furo
  ------------------
 ```
 
-#### Art. 58
+## Art. 58
 
 I residui attivi alla chiusura dell'esercizio finanziario 1970, risultano stabiliti nelle seguenti somme:
 
@@ -1343,7 +1341,7 @@ degli esercizi precedenti (articolo 56). . . . " 372.898.133.540
  ------------------
 ```
 
-#### Art. 59
+## Art. 59
 
 I residui passivi alla chiusura dell'esercizio 1970 risultano stabiliti nelle seguenti somme:
 
@@ -1362,7 +1360,7 @@ esercizi precedenti (articolo 57). . . . . . . " 274.759.657.386
 
 ## AMMINISTRAZIONE DELLE POSTE E DELLE TELECOMUNICAZIONI
 
-#### Art. 60
+## Art. 60
 
 Le entrate correnti, in conto capitale e per
 
@@ -1389,7 +1387,7 @@ predetto, in . . . . . . . . . . . . . . . . . L. 676.055.739.159 delle quali fu
  ------------------
 ```
 
-#### Art. 61
+## Art. 61
 
 Le spese correnti, in conto capitale e per
 
@@ -1406,7 +1404,7 @@ medesimo, risultano stabilite in . . . . . . . L. 676.055.739.159 delle quali fu
  ------------------
 ```
 
-#### Art. 62
+## Art. 62
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1419,7 +1417,7 @@ e versati. . . . . . . . . . . . . . . . . . " 156.857.336.868
  ------------------
 ```
 
-#### Art. 63
+## Art. 63
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1430,7 +1428,7 @@ zio finanziario 1969 risultano stabiliti in. . L. 230.750.264.713 dei quali nell
  ------------------
 ```
 
-#### Art. 64
+## Art. 64
 
 I residui attivi alla chiusura dell'esercizio 1970 risultano stabiliti nelle seguenti somme:
 
@@ -1447,7 +1445,7 @@ degli esercizi precedenti (articolo 62). . . . " 195.728.600.879
  ------------------
 ```
 
-#### Art. 65
+## Art. 65
 
 I residui passivi alla chiusura dell'esercizio 1970 risultano stabiliti nelle seguenti somme:
 
@@ -1466,7 +1464,7 @@ esercizi precedenti (articolo 63). . . . . . . " 105.299.704.741
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-#### Art. 66
+## Art. 66
 
 Le entrate correnti ed in conto capitale del
 
@@ -1491,7 +1489,7 @@ zio predetto in. . . . . . . . . . . . . . . . L. 242.809.863.681 delle quali fu
  ------------------
 ```
 
-#### Art. 67
+## Art. 67
 
 Le spese correnti, in conto capitale e per
 
@@ -1510,7 +1508,7 @@ bilite in. . . . . . . . . . . . . . . . . . . L. 242.809.863.681 delle quali fu
  ------------------
 ```
 
-#### Art. 68
+## Art. 68
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1528,7 +1526,7 @@ rimasero da versare. . " 7.500.000.000
  ------------------
 ```
 
-#### Art. 69
+## Art. 69
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1539,7 +1537,7 @@ zio finanziario 1969 risultano stabiliti in. . L. 155.272.860.274 dei quali nell
  ------------------
 ```
 
-#### Art. 70
+## Art. 70
 
 I residui attivi alla chiusura dell'esercizio 1970, risultano stabiliti nelle seguenti somme:
 
@@ -1558,7 +1556,7 @@ del riepilogo dell'entrata). . . . . . . . . . " 7.500.000.000
  ------------------
 ```
 
-#### Art. 71
+## Art. 71
 
 I residui passivi alla chiusura dell'esercizio 1970 risultano stabiliti nelle seguenti somme:
 
@@ -1577,7 +1575,7 @@ esercizi precedenti (articolo 69). . . . . . . " 72.850.367.549
 
 ## AMMINISTRAZIONE DELLE FERROVIE DELLO STATO
 
-#### Art. 72
+## Art. 72
 
 Le entrate correnti, in conto capitale e per
 
@@ -1606,7 +1604,7 @@ detto, in. . . . . . . . . . . . . . . . . . . L. 2.980.084.967.822 delle quali 
  ------------------
 ```
 
-#### Art. 73
+## Art. 73
 
 Le spese correnti, in conto capitale e per
 
@@ -1625,7 +1623,7 @@ bilite in. . . . . . . . . . . . . . . . . . . L. 2.980.084.967.822 delle quali 
  ------------------
 ```
 
-#### Art. 74
+## Art. 74
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione delle ferrovie dello Stato, di competenza dell'esercizio finanziario 1970, risulta cosi' stabilito:
 
@@ -1641,7 +1639,7 @@ autonome). . . . . . . . . . . . . . . . L. 1.341.404.820.838 Entrate delle gest
  ------------------
 ```
 
-#### Art. 75
+## Art. 75
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1654,7 +1652,7 @@ e versati. . . . . . . . . . . . . . . . . . " 318.835.795.988
  ------------------
 ```
 
-#### Art. 76
+## Art. 76
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1665,7 +1663,7 @@ zio finanziario 1969 risultano stabiliti in. . L. 819.836.487.729 dei quali nell
  ------------------
 ```
 
-#### Art. 77
+## Art. 77
 
 I residui attivi alla chiusura dell'esercizio 1970 risultano stabiliti nelle seguenti somme:
 
@@ -1682,7 +1680,7 @@ degli esercizi precedenti (articolo 75). . . . " 482.109.918.409
  ------------------
 ```
 
-#### Art. 78
+## Art. 78
 
 I residui passivi alla chiusura dell'esercizio 1970 risultano stabiliti nelle seguenti somme:
 

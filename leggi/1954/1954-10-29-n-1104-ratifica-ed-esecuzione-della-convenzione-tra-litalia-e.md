@@ -25,11 +25,11 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la Convenzione tra l'Italia e L'Austria sulle assicurazioni sociali e Protocollo aggiunto, conclusi a Vienna il 30 dicembre 1950, nonche' il secondo Protocollo aggiunto, concluso a Vienna il 29 maggio 1952.
 
-#### Art. 2
+### Art. 2
 
 Piena ed intera esecuzione e' data alla Convenzione e Protocolli suddetti a decorrere dalla data della loro entrata in vigore.
 
@@ -67,7 +67,7 @@ Dott. Victor GEHRMANN, Direttore Generale al Ministero Federale per
 
 l'Amministrazione Sociale, i quali, dopo aver scambiato i loro pieni poteri, trovati in buona e debita forma, hanno concordato le seguenti disposizioni:
 
-#### Art. 1
+### Art. 1
 
 Paragrafo 1.
 
@@ -79,7 +79,7 @@ Paragrafo 2.
 
 I cittadini italiani in Austria e i cittadini austriaci in Italia possono, inoltre, beneficiare delle disposizioni concernenti l'assicurazione volontaria o facoltativa secondo le legislazioni enumerate nell'articolo 2, alle stesse condizioni dei cittadini dello Stato ove essi risiedono.
 
-#### Art. 2
+### Art. 2
 
 Paragrafo 1.
 
@@ -149,19 +149,19 @@ b) agli atti legislativi o regolamentari che estenderanno i
 
 regimi esistenti a nuove categorie di beneficiari quando, a tale riguardo, intervenga opposizione da parte del Governo dello Stato interessato, notificata al Governo dell'altro Stato entro tre mesi dalla data della pubblicazione ufficiale dei detti atti.
 
-#### Art. 3
+### Art. 3
 
 Gli articoli 7 e 38, nonche' gli articoli da 9 a 13 non si
 
 applicano alle disposizioni delle assicurazioni speciali austriache in caso di malattia per i lavoratori indipendenti, per i beneficiari di rendite, per i beneficiari di prestazioni dell'assicurazione contro la disoccupazione, per gli invalidi di guerra in formazione professionale e per i superstiti dei caduti in guerra.
 
-#### Art. 4
+### Art. 4
 
 Per le assicurazioni sociali indicate nell'articolo 2 si applicano,
 
 in via di principio, le disposizioni dello Stato nel cui territorio e' svolta l'attivita' da cui deriva l'assicurazione.
 
-#### Art. 5
+### Art. 5
 
 Paragrafo 1.
 
@@ -201,13 +201,13 @@ Le supreme Autorita' amministrative dei due Stati potranno
 
 stabilire, di comune accordo, ulteriori eccezioni al principio dell'articolo 4. Esse possono, inoltre, convenire che le eccezioni, previste nel paragrafo 1 del presente articolo, non si applichino in casi particolari.
 
-#### Art. 6
+### Art. 6
 
 Qualora i contributi siano stati versati ad un Ente assicuratore di
 
 uno dei due Stati, nonostante che dovessero essere versati ad un Ente assicuratore dello altro Stato, il primo Ente sara' considerato competente finche' la questione non sia stata definita di comune accordo o risolta in sede arbitrale: in ogni caso la definizione delle posizione legale vale soltanto per l'avvenire.
 
-#### Art. 7
+### Art. 7
 
 Paragrafo 1.
 
@@ -221,7 +221,7 @@ I cittadini di uno dei due Stati, beneficiari di una prestazione in
 
 denaro delle assicurazioni dell'altro Stato contro gli infortuni sul lavoro, contro le malattie professionali o per la invalidita', la vecchiaia e superstiti, mantengono in caso di trasferimento in terzo Stato il diritto alla corresponsione di tale prestazione nello stesso ammontare ed alle stesse condizioni stabiliti per i cittadini dello Stato cui appartiene l'Ente debitore.
 
-#### Art. 8
+### Art. 8
 
 Se, in base alle disposizioni in vigore in uno dei due Stati,
 
@@ -229,7 +229,7 @@ l'esistenza di proventi, di una occupazione o di una assicurazione in questo Sta
 
 ## PARTE II - Assicurazioni contro le malattie, contro la tubercolosi e per la nuzialità, e la natalità
 
-#### Art. 9
+### Art. 9
 
 Paragrafo 1.
 
@@ -245,7 +245,7 @@ Paragrafo 2.
 
 Qualora le prestazioni siano contemporaneamente dovute dagli Enti assicuratori dei due Stati, il lavoratore ha diritto alle prestazioni soltanto da uno di essi e precisamente dall'Ente presso il quale e' assicurato al momento del verificarsi dell'evento coperto dall'assicurazione od era ultimamente assicurato prima del verificarsi dell'evento stesso.
 
-#### Art. 10
+### Art. 10
 
 Paragrafo 1.
 
@@ -283,7 +283,7 @@ Dette spese possono essere rimborsate mediante compensi unitari,
 
 pro capite o globali da concordarsi a norma dell'articolo 41.
 
-#### Art. 11
+### Art. 11
 
 Paragrafo 1.
 
@@ -297,7 +297,7 @@ Per la corresponsione di tali prestazioni e per il rimborso di esse
 
 all'Ente assicuratore dello Stato in cui il lavoratore temporaneamente risiede, si provvede in conformita' dei periodi secondo e terzo dell'articolo 12 paragrafo 1.
 
-#### Art. 12
+### Art. 12
 
 Paragrafo 1.
 
@@ -309,13 +309,13 @@ I familiari del lavoratore, che si trasferiscono dallo Stato in cui
 
 risiedono nell'altro Stato, hanno diritto alle prestazioni dell'assicurazione malattia e dell'assicurazione tubercolosi nel nuovo Stato per tutta la durata stabilita dalla legislazione dello stesso Stato, tenuto conto delle prestazioni gia' ricevute allo stesso titolo nello Stato dal quale provengono.
 
-#### Art. 13
+### Art. 13
 
 Le disposizioni degli articoli da 9 a 12 si applicano anche per le prestazioni previste dall'assicurazione nuzialita' e natalita' di cui all'articolo 2, paragrafo 1, punto 1, lettera f).
 
 ## PARTE III - Assicurazione contro la disoccupazione
 
-#### Art. 14
+### Art. 14
 
 I lavoratori che si trasferiscono dall'Italia in Austria o
 
@@ -327,7 +327,7 @@ attivita' soggetta all'obbligo di assicurazione;
 
 2\) possano far valere le condizioni richieste per beneficiare di dette prestazioni in base alla legislazione dello Stato in cui si sono trasferiti.
 
-#### Art. 15
+### Art. 15
 
 Paragrafo 1.
 
@@ -351,11 +351,9 @@ Se l'Ente obbligato avesse esso stesso corrisposto, durante il
 
 medesimo periodo di disoccupazione, prima che il lavoratore torni nel proprio Stato, un certo numero di giornate di indennita' al disoccupato, il suddetto periodo massimo di 60 giornate sara' ridotto in corrispondenza.
 
-## PARTE IV - Assicurazione contro gli infortuni sul lavoro e le malattie
+## PARTE IV - Assicurazione contro gli infortuni sul lavoro e le malattie professionali
 
-### professionali
-
-#### Art. 16
+### Art. 16
 
 Paragrafo 1.
 
@@ -367,17 +365,17 @@ L'Autorita' diplomatica o consolare puo' prendere visione degli
 
 atti dell'inchiesta e di quelli successivi allo stesso modo degli interessati.
 
-#### Art. 17
+### Art. 17
 
 L'infortunio subito da un cittadino di uno dei due Stati, mentre
 
 egli si reca ad assumere lavoro, con regolare contratto, nell'altro Stato, deve essere risarcito dall'Ente assicuratore di quest'ultimo Stato in conformita' delle disposizioni concernenti l'assicurazione contro gli infortuni sul lavoro, qualora il sinistro si verifichi durante il viaggio, ininterrotto e per la via piu' breve, dalla stazione di frontiera fino al luogo di lavoro. Lo stesso vale per l'infortunio subito dal lavoratore quando questi ritorna nello Stato di origine subito dopo la fine del contratto di lavoro per effetto del quale si e' trasferito nell'altro Stato.
 
-#### Art. 18
+### Art. 18
 
 Se ad un assicurato, al quale sia stata liquidata una rendita per infortunio sul lavoro o per malattia professionale dall'Ente assicuratore di uno Stato, dovesse nell'altro Stato essere liquidata un'altra rendita a seguito di un nuovo infortunio o malattia professionale, l'Ente assicuratore di questo Stato terra' conto della precedente rendita come se anche questa fosse a suo carico.
 
-#### Art. 19
+### Art. 19
 
 In quanto siano applicabili, valgono anche per l'assicurazione
 
@@ -385,7 +383,7 @@ contro gli infortuni sul lavoro e le malattie professionali le disposizioni stab
 
 ## PARTE V - Assicurazione per l'invalidita', la vecchiaia e i superstiti
 
-#### Art. 20
+### Art. 20
 
 Paragrafo 1.
 
@@ -403,7 +401,7 @@ Paragrafo 3.
 
 I periodi di assicurazione e i periodi equivalenti che coincidono sono computati una sola volta.
 
-#### Art. 21
+### Art. 21
 
 Paragrafo 1.
 
@@ -435,7 +433,7 @@ l'assicurazione di rendite per gli addetti alle miniere;
 
 l'assicurazione supplementare presso gli Istituti di pensioni delle ferrovie private.
 
-#### Art. 22
+### Art. 22
 
 Paragrafo 1.
 
@@ -459,7 +457,7 @@ Paragrafo 3.
 
 Le prestazioni ridotte in virtu' del paragrafo 2, lettera a), che non oltrepassino l'importo di venti scellini o di cinquecento lire mensili, possono essere liquidati al loro valor capitale.
 
-#### Art. 23
+### Art. 23
 
 Paragrafo 1.
 
@@ -471,13 +469,13 @@ Al momento in cui il diritto sara' raggiunto nei confronti delle
 
 legislazioni di ambedue gli Stati, l'Ente assicuratore che ha liquidato per primo la prestazione procedera' alla revisione della prestazione stessa.
 
-#### Art. 24
+### Art. 24
 
 L'assicurato che non possa far valere piu' di 13 settimane di
 
 assicurazione in Austria o di contribuzione in Italia, non ha diritto a prestazioni nella rispettiva assicurazione. In tal caso il diritto proveniente dall'assicurazione dell'altro Stato non subisce alcuna riduzione.
 
-#### Art. 25
+### Art. 25
 
 Paragrafo 1.
 
@@ -491,7 +489,7 @@ Se piu' Enti assicuratori sono obbligati al pagamento di
 
 differenze, l'interessato ha diritto alla differenza piu' alta spettantegli. Questa differenza sara' suddivisa fra gli Enti assicuratori interessati in proporzione alle prestazioni che ciascuno di essi avrebbe dovuto corrispondere.
 
-#### Art. 26
+### Art. 26
 
 Paragrafo 1.
 
@@ -505,7 +503,7 @@ In pendenza degli accertamenti predetti, qualora l'assicurato
 
 raggiunga le condizioni necessarie per il diritto ad una prestazione secondo la legislazione d'uno Stato, gli sara' concessa una prestazione provvisoria dall'Ente assicuratore di quello Stato. In caso diverso potra' pure essere accordata una prestazione provvisoria allorche, in base agli elementi acquisiti, risulti che l'assicurato avra' modo, comunque, di raggiungere le condizioni previste per il diritto alla prestazione.
 
-#### Art. 27
+### Art. 27
 
 Le disposizioni di questa parte non si applicano per la concessione
 
@@ -513,23 +511,23 @@ del premio di operosita' (Bergmannstreuegeld) previsto dall'assicurazione austri
 
 ## PARTE VI - Collaborazione amministrativa e disposizioni procedurali
 
-#### Art. 28
+### Art. 28
 
 Gli Enti, le Autorita' e i Tribunali competenti per le
 
 assicurazioni sociali dei due Stati si presteranno reciprocamente assistenza, per l'applicazione della presente Convenzione, come se si trattasse dell'applicazione delle proprie disposizioni sulle assicurazioni sociali. Ferme restando le disposizioni dell'articolo 29, questa assistenza e' prestata gratuitamente in quanto gli adempimenti, da svolgere per conto di Enti dell'altro Stato, rientrino nella normale attivita' dell'Ente incaricato e non richiedano l'opera retribuita di persone o uffici estranei alla organizzazione dell'Ente. Gli Enti, le Autorita' e i Tribunali predetti possono anche, quando siano necessari mezzi istruttori nell'altro Stato, valersi gratuitamente del tramite dell'Autorita' diplomatica o consolare competente di tale Stato.
 
-#### Art. 29
+### Art. 29
 
 Gli accertamenti, gli esami ed i controlli sanitari, necessari per l'applicazione di assicurazioni sociali nei riguardi di un beneficiario residente nell'altro Stato, sono eseguiti dall'Ente assicuratore competente dello Stato di residenza del beneficiario su richiesta ed a spese dell'Ente obbligato.
 
-#### Art. 30
+### Art. 30
 
 Per l'applicazione della presente Convenzione, gli Enti, le
 
 Autorita' e i Tribunali competenti per le assicurazioni sociali dei due Stati possono corrispondere direttamente tra loro, con gli assicurati e con i loro legali rappresentanti. Essi possono redigere la corrispondenza nella loro lingua ufficiale.
 
-#### Art. 31
+### Art. 31
 
 Le Autorita' diplomatiche e consolari dei due Stati sono
 
@@ -539,23 +537,23 @@ Le stesse Autorita' sono autorizzate a intervenire direttamente
 
 presso gli Enti, i Tribunali e le Autorita' di assicurazioni sociali dell'altro Stato per raccogliere ogni utile elemento di difesa degli interessi dei loro connazionali.
 
-#### Art. 32
+### Art. 32
 
 Le istanze che gli assicurati, i familiari o gli aventi diritto
 
 indirizzano agli Enti, alle Autorita' ed ai Tribunali competenti per le assicurazioni sociali dei due Stati, in applicazione della presente Convenzione, come pure gli altri atti occorrenti per l'applicazione di assicurazioni sociali, non possono essere respinti per il fatto di essere redatti nella lingua ufficiale dell'altro Stato.
 
-#### Art. 33
+### Art. 33
 
 Le istanze presentate presso gli Enti assicuratori di uno dei due Stati valgono anche quali istanze presentate presso gli Enti assicuratori dell'altro Stato.
 
-#### Art. 34
+### Art. 34
 
 I ricorsi che debbono essere presentati entro un termine
 
 determinato, ad un ufficio di uno dei due Stati, competente per l'accettazione dei ricorsi in materia di assicurazioni sociali, saranno considerati come presentati in termine anche se presentati entro tale termine a un corrispondente ufficio dell'altro Stato. Tale ufficio deve inoltrare, senza indugio, il ricorso all'ufficio competente.
 
-#### Art. 35
+### Art. 35
 
 Paragrafo 1.
 
@@ -569,7 +567,7 @@ Tutti gli atti, documenti e altre scritture che debbono essere
 
 prodotti per l'applicazione della presente Convenzione, sono esenti dall'obbligo del visto di legalizzazione da parte delle Autorita' diplomatiche o consolari.
 
-#### Art. 36
+### Art. 36
 
 Paragrafo 1.
 
@@ -599,7 +597,7 @@ Ciascuno Stato sopporta le proprie spese. Le altre spese della
 
 procedura arbitrale sono a carico, in parti uguali, dei due Stati.
 
-#### Art. 37
+### Art. 37
 
 Paragrafo 1.
 
@@ -625,7 +623,7 @@ Se l'importo, che e' stato versato al beneficiario a titolo di
 
 assistenza provvisoria, e' superiore all'ammontare delle prestazioni obbligatoriamente spettanti per il periodo corrispondente, l'Ente che in definitiva risultera' obbligato imputa la differenza sulle rate future mediante trattenute non superiori al quinto dell'ammontare di ciascuna rata.
 
-#### Art. 38
+### Art. 38
 
 Paragrafo 1.
 
@@ -645,7 +643,7 @@ Le somme che a titolo di prestazioni, di contribuzioni o di
 
 rimborsi debbono essere pagate o ammesse al pagamento nel territorio dell'altro Stato secondo la presente Convenzione o secondo la Convenzione internazionale del 1925 (n. 19) sull'equiparazione dei lavoratori nazionali e stranieri nei casi di risarcimento di infortuni sul lavoro o secondo le disposizioni interne di ciascuno Stato, sono trasferite in conformita' degli accordi di pagamento vigenti tra i due Stati. Qualora non esistesse uno scambio tra i due Stati, i due Governi senza indugio prenderanno, di comune accordo, misure per rendere possibile l'effettuazione di tali pagamenti.
 
-#### Art. 39
+### Art. 39
 
 Qualora per determinare l'esistenza di un diritto o la misura di
 
@@ -653,7 +651,7 @@ una prestazione, occorra tener conto dell'importo di una prestazione o di un pro
 
 ## PARTE VII - Disposizioni transitorie e finali
 
-#### Art. 40
+### Art. 40
 
 Paragrafo 1.
 
@@ -691,11 +689,11 @@ Il termine stabilito dal paragrafo 58 della legge austriaca 12
 
 giugno 1947, recante norme transitorie in materia di assicurazioni sociali, e' prorogato per i cittadini italiani, limitatamente alle forme di assicurazioni indicate nelle lettere b), c), d) ed e) dell'articolo 2, paragrafo 1, punto 2 della presente Convenzione, fino a sei mesi successivi alla data che sara' stabilita, di comune accordo, dalle supreme Autorita' amministrative dei due Stati.
 
-#### Art. 41
+### Art. 41
 
 Le supreme Autorita' amministrative dei due Stati stabiliranno, di comune accordo, le disposizioni che si renderanno necessarie per l'applicazione di quanto previsto negli articoli 9, 10, 11, 12 e 13, per il calcolo delle spese di assistenza nonche' per quanto altro occorra per l'applicazione della presente Convenzione.
 
-#### Art. 42
+### Art. 42
 
 Paragrafo 1.
 
@@ -713,7 +711,7 @@ Paragrafo 3.
 
 La Commissione stabilira' direttamente la propria organizzazione e il metodo di lavoro. Essa potra' corrispondere direttamente con le Amministrazioni italiane o austriache interessate.
 
-#### Art. 43
+### Art. 43
 
 Paragrafo 1.
 
@@ -725,13 +723,13 @@ Paragrafo 2.
 
 Le supreme Autorita' amministrative si comunicheranno altresi' di volta in volta tutte le disposizioni che arrechino modifica alla legislazione sulle assicurazioni sociali cui la presente Convenzione si riferisce.
 
-#### Art. 44
+### Art. 44
 
 Ai sensi della presente Convenzione si considerano quali supreme
 
 Autorita' amministrative per la Repubblica d'Austria il Ministero Federale per l'Amministrazione Sociale, e per la Repubblica italiana il Ministero del Lavoro e della Previdenza Sociale.
 
-#### Art. 45
+### Art. 45
 
 Paragrafo 1.
 
@@ -751,7 +749,7 @@ La loro conservazione, per il periodo successivo alla cessazione
 
 della Convenzione, formera' oggetto di accordi complementari tra i due Stati.
 
-#### Art. 46
+### Art. 46
 
 Paragrafo 1.
 
@@ -789,7 +787,7 @@ Il Ministro per gli affari esteri
 
 MARTINO
 
-#### Protocollo
+### Protocollo
 
 Protocollo aggiunto
 
@@ -857,7 +855,7 @@ Il Ministro per gli affari esteri
 
 MARTINO
 
-#### Secondo Protocollo
+### Secondo Protocollo
 
 Secondo Protocollo aggiunto alla Convenzione fra l'Italia e l'Austria sulle assicurazioni sociali del 30 dicembre 1950
 

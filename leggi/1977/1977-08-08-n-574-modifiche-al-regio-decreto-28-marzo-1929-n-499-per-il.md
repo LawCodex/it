@@ -25,25 +25,25 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 La lettera a) dell'articolo 19 del nuovo testo della legge generale sui libri fondiari allegato al regio decreto 28 marzo 1929, n. 499, modificato dalla legge 29 ottobre 1974, n. 594, e' sostituita con la seguente:
 
 "a) la costituzione del fondo patrimoniale, agli effetti previsti dal codice civile per la trascrizione".
 
-### Art. 2
+## Art. 2
 
 Dopo l'articolo 33 del nuovo testo della legge generale sui libri fondiari e' inserito il seguente articolo 33-bis:
 
 "Il diritto spettante ai coniugi in regime di comunione legale o convenzionale e' intavolato in forza dell'atto di acquisto, corredato, ove da esso non risulti il rapporto di coniugo, dell'estratto dell'atto di matrimonio o di altra idonea documentazione".
 
-### Art. 3
+## Art. 3
 
 All'articolo 84 del nuovo testo della legge generale sui libri fondiari e' aggiunto il seguente comma:
 
 "Se l'acquisto di un diritto e' soggetto alla comunione dei beni fra coniugi, l'iscrizione nel libro fondiario deve in ogni caso essere domandata a questo titolo dal solo coniuge che ha effettuato l'acquisto, in favore di entrambi i coniugi, anche se si tratti di acquisto compiuto separatamente da uno di essi senza menzione della comunione".
 
-### Art. 4
+## Art. 4
 
 Dopo l'articolo 94 del nuovo testo della legge generale sui libri fondiari e' inserito il seguente articolo 94-bis:
 
@@ -53,11 +53,11 @@ Qualora l'iscrizione sia ostacolata dalla mancanza dei documenti richiesti dal c
 
 ## NORME TRANSITORIE
 
-### Art. 5
+## Art. 5
 
 I diritti soggetti alla disciplina di cui al primo comma dell'articolo 228 della legge 19 maggio 1975, n. 151, devono d'ufficio essere iscritti con riserva degli effetti previsti da detto articolo. Tale riserva deve essere indicata, in quanto ne emergano i presupposti, anche per le iscrizioni gia' eseguite.
 
-### Art. 6
+## Art. 6
 
 Per le iscrizioni di diritti al nome del solo acquirente, eseguite prima dell'entrata in vigore della presente legge, deve essere indicata d'ufficio, in quanto non risultino esclusi i presupposti, la riserva del regime previsto dall'articolo 159 del codice civile.
 

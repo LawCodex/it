@@ -26,11 +26,9 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I.
+## CAPO I. - FUNZIONI DELL'UFFICIO E RUOLI
 
-### FUNZIONI DELL'UFFICIO E RUOLI
-
-#### Art. 1
+### Art. 1
 
 Ufficio traduzioni di leggi ed atti stranieri
 
@@ -40,13 +38,13 @@ Detto Ufficio, alle dirette dipendenze del Gabinetto del Ministro per la grazia 
 
 Alla direzione di esso e' preposto un direttore.
 
-#### Art. 2
+### Art. 2
 
 Distinzione delle carriere
 
 Le carriere del personale dell'Ufficio traduzioni di leggi ed atti stranieri, sono distinte in carriera direttiva e carriera di concetto.
 
-#### Art. 3
+### Art. 3
 
 Qualifiche
 
@@ -76,19 +74,19 @@ Traduttore aggiunto;
 
 Vice traduttore.
 
-#### Art. 4
+### Art. 4
 
 Attribuzioni del personale della carriera direttiva
 
 Il personale della carriera direttiva coordina il lavoro del servizio traduzioni, attende alla ricerca e studio delle fonti legislative straniere. Su incarico del Ministro per la grazia e giustizia, partecipa a Congressi internazionali in veste di osservatore o di interprete.
 
-#### Art. 5
+### Art. 5
 
 Attribuzioni del personale della carriera di concetto
 
 Il personale della carriera di concetto cura le traduzioni degli atti provenienti dall'estero o diretti allo estero, assegnate al Ministero da leggi o Convenzioni Internazionali nonche' degli atti giudiziari e legislativi che interessano direttamente il Ministero; collabora all'attivita' del personale della carriera direttiva.
 
-#### Art. 6
+### Art. 6
 
 Accesso alla carriera direttiva e di concetto
 
@@ -102,7 +100,7 @@ per la carriera di concetto, il diploma di scuola media superiore e la conoscenz
 
 I bandi di concorso indicano, in relazione alle esigenze di servizio, le lingue di cui i candidati devono dimostrare di possedere la conoscenza.
 
-#### Art. 7
+### Art. 7
 
 Commissioni
 
@@ -116,7 +114,7 @@ Le Commissioni sono integrate, inoltre, da professori di ruolo di lingue stranie
 
 Le Commissioni sono nominate con decreto del Ministro per la grazia e giustizia.
 
-#### Art. 8
+### Art. 8
 
 Concorsi per la carriera direttiva
 
@@ -146,7 +144,7 @@ Sono ammessi alla prova orale i candidati che abbiano riportato nelle prove scri
 
 Consegue la idoneita' il concorrente che ottiene nel complesso delle prove di esame non meno di 49 punti, con almeno 18 punti nella prova orale.
 
-#### Art. 9
+### Art. 9
 
 Concorso per la carriera di concetto
 
@@ -172,7 +170,7 @@ Sono ammessi alla prova orale i candidati che abbiano riportato nelle prove scri
 
 Consegue la idoneita' il concorrente che ottiene nel complesso delle prove degli esami non meno di 28 punti, con almeno 12 punti nella prova orale.
 
-#### Art. 10
+### Art. 10
 
 Classificazione dei concorrenti e formazione delle graduatorie
 
@@ -182,7 +180,7 @@ Il Ministro, con proprio decreto, riconosciuta la regolarita' del procedimento, 
 
 La graduatoria dei vincitori e degli idonei e' pubblicata nel "Bollettino ufficiale" del Ministero di grazia e giustizia. Di tale pubblicazione si da' notizia mediante avviso nella Gazzetta Ufficiale della Repubblica.
 
-#### Art. 11
+### Art. 11
 
 Corsi di qualificazione
 
@@ -190,7 +188,7 @@ Il Ministro per la grazia e giustizia ha facolta' di indire, con suo decreto, co
 
 Gli impiegati ammessi a frequentare i corsi continuano a percepire lo stipendio e ogni altro assegno spettante al personale in servizio. ((COMMA ABROGATO DALLA L. 15 NOVEMBRE 1973, N. 734)).
 
-#### Art. 12
+### Art. 12
 
 Rinvio ad altre disposizioni di legge
 
@@ -198,13 +196,13 @@ Riguardo al funzionamento dell'Ufficio ed al personale, salvo quanto diversament
 
 ## CAPO II - DISPOSIZIONI TRANSITORIE
 
-#### Art. 13
+### Art. 13
 
 Inquadramento del personale in servizio
 
 Il personale appartenente ai ruoli dell'Ufficio traduzioni, di cui alla tabella 9 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, e' collocato nei ruoli organici stabiliti dall'articolo 1 della presente legge, nella qualifica corrispondente a quella di provenienza, avuto riguardo al titolo di studio posseduto, alla anzianita' di servizio ed all'attuale qualifica.
 
-#### Art. 14
+### Art. 14
 
 Prima attuazione della legge. Concorsi
 
@@ -214,7 +212,7 @@ Possono, altresi', partecipare ai concorsi di cui al precedente comma coloro che
 
 Ai fini dell'attribuzione della qualifica per il personale non di ruolo si avra' riguardo alla parificazione economica di cui tale personale fruisce a norma delle leggi in vigore.
 
-#### Art. 15
+### Art. 15
 
 Modalita' dei concorsi
 
@@ -222,7 +220,7 @@ I concorsi previsti dall'articolo 14 sono indetti entro trenta giorni dall'entra
 
 Le Commissioni giudicatrici sono costituite a norma dell'articolo 7 sostituito, al direttore dell'Ufficio, chi ne fa le veci.
 
-#### Art. 16
+### Art. 16
 
 Onere finanziario
 
@@ -244,7 +242,7 @@ Visto, il Guardasigilli: BOSCO
 
 ## CAPO II - DISPOSIZIONI TRANSITORIE
 
-#### Allegato
+### Allegato
 
 RUOLI DEL PERSONALE DELL'UFFICIO TRADUZIONI
 

@@ -61,11 +61,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Il settore florovivaistico
 
-### Il settore florovivaistico
-
-#### Art. 1
+### Art. 1
 
 Attivita' agricola florovivaistica
 
@@ -247,7 +245,7 @@ c) le operazioni colturali finalizzate alla cura e alla manutenzione degli spazi
 
 > 3-bis. Sono vietati l'importazione, la cessione, la lavorazione, la distribuzione, il commercio, il trasporto, l'invio, la spedizione e la consegna delle infiorescenze della canapa coltivata ai sensi del comma 1 del presente articolo, anche in forma semilavorata, essiccata o triturata, nonche' di prodotti contenenti o costituiti da tali infiorescenze, compresi gli estratti, le resine e gli oli da esse derivati. Si applicano le disposizioni sanzionatorie previste dal titolo VIII del testo unico di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309. E' consentita solo la lavorazione delle infiorescenze per la produzione agricola dei semi di cui alla lettera g-bis) del comma 2.».
 
-#### Art. 2
+### Art. 2
 
 Articolazione della filiera florovivaistica
 
@@ -271,7 +269,7 @@ a) «verde pensile»: un sistema di coltivazione vegetale realizzato su superfic
 
 b) «verde verticale»: il rinverdimento di facciate verticali, come pareti o muri di contenimento di edifici.
 
-#### Art. 3
+### Art. 3
 
 Definizione e qualificazione dei centri per il giardinaggio
 
@@ -287,25 +285,25 @@ Definizione e qualificazione dei centri per il giardinaggio
 
 > \- Per il testo dell'articolo 2135 del Codice civile si vedano le note all'articolo 1.
 
-#### Art. 4
+### Art. 4
 
 Definizione delle figure professionali del settore florovivaistico
 
 1\. Con decreto del Ministro dell'agricoltura, della sovranita' alimentare e delle foreste, di concerto con il Ministro delle imprese e del made in Italy e con il Ministro del lavoro e delle politiche sociali, da adottare, previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, entro centoventi giorni dalla data di entrata in vigore del presente decreto, tenuto conto della peculiarita' delle attivita' agricole florovivaistiche, si provvede alla definizione e all'armonizzazione delle figure professionali del settore florovivaistico, inclusi coloro che operano nel verde urbano e periurbano, nei parchi e nei giardini storici, anche in coerenza con l'Atlante del lavoro e delle qualificazioni.
 
-#### Art. 5
+### Art. 5
 
 Valorizzazione degli ITS Academy nella filiera florovivaistica
 
 1\. Al fine di promuovere l'attivazione di percorsi formativi finalizzati alla valorizzazione e allo sviluppo della filiera florovivaistica, in coerenza con l'Area tecnologica «Sistema Agroalimentare» e nel rispetto delle competenze regionali in materia di programmazione dell'offerta formativa, gli Istituti tecnologici superiori (ITS Academy) possono avvalersi, nei limiti delle risorse disponibili, per la progettazione dei predetti percorsi, di esperti e ricercatori in possesso di comprovata esperienza professionale nel settore del florovivaismo, anche mediante il coinvolgimento di enti specializzati individuati dal Ministero dell'agricoltura, della sovranita' alimentare e delle foreste.
 
-#### Art. 6
+### Art. 6
 
 Valorizzazione di percorsi formativi universitari e post-universitari
 
 1\. Le istituzioni universitarie possono promuovere, nei limiti delle risorse finanziarie disponibili a legislazione vigente, l'attivazione di specifici master e corsi di perfezionamento al fine di valorizzare il settore della filiera florovivaistica, anche in collaborazione con le imprese operanti nel settore agricolo e florovivaistico e con gli enti specializzati individuati dal Ministero dell'agricoltura, della sovranita' alimentare e delle foreste.
 
-#### Art. 7
+### Art. 7
 
 Contratti di coltivazione nel settore florovivaistico
 
@@ -345,11 +343,9 @@ Contratti di coltivazione nel settore florovivaistico
 
 > 5-bis. Quando in fase di stipula dei contratti attuativi dell'accordo non sia possibile preservare l'equilibrio contrattuale e non risulti possibile ripristinarlo mediante una rinegoziazione secondo oggettiva buona fede, ai sensi dell'articolo 12, comma 1, lettera b), e' fatta salva la facolta' dell'operatore economico o della stazione appaltante di non procedere alla stipula. Quando in fase di esecuzione dei singoli contratti attuativi dell'accordo non sia possibile preservare l'equilibrio contrattuale e non risulti possibile ripristinarlo mediante una rinegoziazione secondo oggettiva buona fede, e' fatta salva la facolta' della stazione appaltante o dell'appaltatore di invocarne la risoluzione per eccessiva onerosita' sopravvenuta, fermo restando quanto previsto dall'articolo 122, comma 5, del codice.».
 
-## Capo II
+## Capo II - Interventi per il settore florovivaistico
 
-### Interventi per il settore florovivaistico
-
-#### Art. 8
+### Art. 8
 
 Interventi per la razionalizzazione della logistica e della distribuzione del settore florovivaistico
 
@@ -359,7 +355,7 @@ Interventi per la razionalizzazione della logistica e della distribuzione del se
 
 3\. Agli oneri derivanti dall'attuazione del presente articolo, pari a 2 milioni di euro per l'anno 2027, si provvede mediante corrispondente riduzione delle proiezioni dello stanziamento del fondo speciale di conto capitale iscritto, ai fini del bilancio triennale 2026-2028, nell'ambito del programma «Fondi di riserva e speciali» della missione «Fondi da ripartire» dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2026, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero dell'agricoltura, della sovranita' alimentare e delle foreste.
 
-#### Art. 9
+### Art. 9
 
 Riconversione delle strutture produttive
 
@@ -367,17 +363,15 @@ Riconversione delle strutture produttive
 
 2\. Il Piano di cui al comma 1 definisce i criteri per la riconversione delle strutture produttive florovivaistiche e le modalita' operative per il raggiungimento degli obiettivi di riqualificazione, riutilizzo ed efficientamento energetico.
 
-#### Art. 10
+### Art. 10
 
 Criteri di premialita' nell'ambito degli interventi di sviluppo rurale previsti dalla PAC
 
 1\. Al fine di sostenere lo sviluppo del settore florovivaistico a livello locale, le regioni e le province autonome di Trento e di Bolzano, nel rispetto delle indicazioni previste dal Piano nazionale del settore florovivaistico di cui all'articolo 13 e dei principi della politica agricola comune (PAC), possono prevedere specifici criteri di premialita' per le aziende florovivaistiche da inserire nell'ambito della programmazione regionale.
 
-## Capo III
+## Capo III - Organizzazione e strumenti di governance
 
-### Organizzazione e strumenti di governance
-
-#### Art. 11
+### Art. 11
 
 Ufficio per la filiera del florovivaismo
 
@@ -471,7 +465,7 @@ Ufficio per la filiera del florovivaismo
 
 > 2\. Salvo quanto previsto dal comma 1, dall'attuazione delle deleghe recate dalla presente legge non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. A tale fine, le amministrazioni competenti provvedono ai relativi adempimenti con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente. Gli schemi dei decreti legislativi di cui all'articolo 1 sono corredati di una relazione tecnica che dia conto della neutralita' finanziaria dei medesimi ovvero dei nuovi o maggiori oneri da essi derivanti e dei corrispondenti mezzi di copertura. In conformita' all'articolo 17, comma 2, della legge 31 dicembre 2009, n. 196, qualora i decreti legislativi adottati in attuazione dell'articolo 2, comma 1, lettere f) e i), della presente legge determinino nuovi o maggiori oneri che non trovino compensazione al loro interno o mediante utilizzo, nel limite massimo di 5,5 milioni di euro per l'anno 2027 e 2,5 milioni di euro per ciascuno degli anni 2028 e 2029, degli accantonamenti relativi al Ministero dell'agricoltura, della sovranita' alimentare e delle foreste dei fondi speciali di cui all'articolo 1, comma 756, della legge 30 dicembre 2025, n. 199, i medesimi decreti legislativi sono emanati solo successivamente o contestualmente all'entrata in vigore dei provvedimenti legislativi che stanziano le occorrenti risorse finanziarie. ».
 
-#### Art. 12
+### Art. 12
 
 Tavolo tecnico di filiera del florovivaismo
 
@@ -515,7 +509,7 @@ i) un rappresentante per ciascuna delle tre associazioni di categoria dell'artig
 
 6\. La partecipazione al Tavolo non da' luogo alla corresponsione di compensi, gettoni, emolumenti, indennita' o rimborsi di spese comunque denominati.
 
-#### Art. 13
+### Art. 13
 
 Piano nazionale del settore florovivaistico
 
@@ -543,7 +537,7 @@ Alla copertura dei relativi oneri si provvede mediante corrispondente riduzione 
 
 > \- La legge 2 dicembre 2016, n. 242, recante «Disposizioni per la promozione della coltivazione e della filiera agroindustriale della canapa» e' pubblicata nella Gazzetta Ufficiale n. 304 del 30 dicembre 2016.
 
-#### Art. 14
+### Art. 14
 
 Sistema di rilevazione statistica dei dati del settore florovivaistico
 
@@ -559,7 +553,7 @@ b) la rilevazione dei prezzi medi di mercato nazionale all'origine e all'ingress
 
 4\. L'Istituto raccoglie, elabora e aggrega i dati nel rispetto della normativa vigente in materia di protezione dei dati personali e li trasmette annualmente al Tavolo di cui all'articolo 12, entro il 30 giugno di ciascun anno.
 
-#### Art. 15
+### Art. 15
 
 Qualita' delle produzioni e marchi
 
@@ -569,11 +563,9 @@ Qualita' delle produzioni e marchi
 
 > \- Il decreto legislativo 10 febbraio 2005, n. 30 recante: «Codice della proprieta' industriale, a norma dell'articolo 15 della legge 12 dicembre 2002, n. 273» e' pubblicato nella Gazzetta Ufficiale n. 52 del 4 marzo 2005.
 
-## Capo IV
+## Capo IV - Vivaismo forestale
 
-### Vivaismo forestale
-
-#### Art. 16
+### Art. 16
 
 Contributo del settore privato alla produzione e commercializzazione di materiali forestali di moltiplicazione per fini forestali
 
@@ -641,7 +633,7 @@ Contributo del settore privato alla produzione e commercializzazione di material
 
 > 13-ter. Le regioni e le Province autonome di Trento e di Bolzano, in accordo con i principi di salvaguardia della biodiversita', con particolare riferimento alla conservazione delle specie dipendenti dalle necromasse legnose, favoriscono il rilascio in bosco di alberi da destinare all'invecchiamento a tempo indefinito.».
 
-#### Art. 17
+### Art. 17
 
 Promozione della messa a dimora di alberi nei comuni di piccole dimensioni
 
@@ -743,7 +735,7 @@ Promozione della messa a dimora di alberi nei comuni di piccole dimensioni
 
 > 9\. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.».
 
-#### Art. 18
+### Art. 18
 
 Agevolazioni per la produzione di materiali forestali di moltiplicazione
 
@@ -755,11 +747,9 @@ Agevolazioni per la produzione di materiali forestali di moltiplicazione
 
 > \- Per i riferimenti al decreto legislativo 10 novembre 2003, n. 386, si vedano le note alle premesse.
 
-## Capo V
+## Capo V - Disposizioni finali
 
-### Disposizioni finali
-
-#### Art. 19
+### Art. 19
 
 Clausole di salvaguardia
 
@@ -795,7 +785,7 @@ e) il decreto legislativo 2 febbraio 2021, n. 20, recante «Norme per la produzi
 
 > \- Per i riferimenti alla legge 2 dicembre 2016, n. 242, si vedano le note alle premesse.
 
-#### Art. 20
+### Art. 20
 
 Clausola di invarianza finanziaria
 

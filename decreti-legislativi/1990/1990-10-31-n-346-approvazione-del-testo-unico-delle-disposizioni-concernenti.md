@@ -38,7 +38,7 @@ EMANA
 
 il seguente decreto legislativo:
 
-###### Art. 1
+##### Art. 1
 
 1\. E' approvato l'unito testo unico delle disposizioni concernenti l'imposta sulle successioni e donazioni, vistato dal proponente e composto di 63 articoli.
 
@@ -88,7 +88,7 @@ Visto, il Guardasigilli: VASSALLI
 
 TESTO UNICO DELLE DISPOSIZIONI CONCERNENTI L'IMPOSTA SULLE SUCCESSIONI E DONAZIONI
 
-###### Art. 1 - Art. 1 D.P.R. n. 637/1972
+##### Art. 1 - Art. 1 D.P.R. n. 637/1972
 
 Oggetto dell'imposta
 
@@ -108,7 +108,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139 ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 2 - Art. 2 D.P.R. n. 637/1972
+##### Art. 2 - Art. 2 D.P.R. n. 637/1972
 
 Territorialita' dell'imposta
 
@@ -142,7 +142,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139 ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 3 - Art. 3 D.P.R. n. 637/1972
+##### Art. 3 - Art. 3 D.P.R. n. 637/1972
 
 Trasferimenti non soggetti all'imposta
 
@@ -168,7 +168,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139 ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 4
+##### Art. 4
 
 (( ARTICOLO ABROGATO DALLA L. 21 NOVEMBRE 2000, N. 342)) ((20))
 
@@ -178,7 +178,7 @@ AGGIORNAMENTO (20)
 
 La L. 21 novembre 2000, n. 342, ha disposto (con l'art. 69, comma 1, lettera b) che il presente articolo e' abrogato salvo quanto previsto dall'art. 59 del presente D.lgs.
 
-###### Art. 4-bis - Trust e altri vincoli di destinazione
+##### Art. 4-bis - Trust e altri vincoli di destinazione
 
 1\. I trust e gli altri vincoli di destinazione rilevano, ai fini dell'applicazione dell'imposta sulle successioni e donazioni, ove determinino arricchimenti gratuiti dei beneficiari. L'imposta si applica al momento del trasferimento dei beni e diritti a favore dei beneficiari. Ai fini dell'autoliquidazione dell'imposta, il beneficiario denuncia il trasferimento ai sensi dell'articolo 19 del testo unico delle disposizioni concernenti l'imposta di registro di cui al decreto del Presidente della Repubblica 26 aprile 1986, n. 131, il cui termine decorre dal predetto atto di trasferimento. Resta ferma la disciplina prevista per i trust, i vincoli di destinazione e i fondi speciali composti di beni sottoposti a vincolo di destinazione dall'articolo 6 della legge 22 giugno 2016, n. 112.
 
@@ -196,7 +196,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139 ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 5 - Art. 5 e art. 6, terzo comma, D.P.R. n. 637/1972
+##### Art. 5 - Art. 5 e art. 6, terzo comma, D.P.R. n. 637/1972
 
 Soggetti passivi
 
@@ -212,7 +212,7 @@ Il D.Lgs. 18 settembre 2024, n. 139 ha disposto (con l'art. 1, comma 3) che "La 
 
 Ha inoltre disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 6 - Art. 35 D.P.R. n. 637/1972
+##### Art. 6 - Art. 35 D.P.R. n. 637/1972
 
 Ufficio competente
 
@@ -226,13 +226,11 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139 ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-## TITOLO II - APPLICAZIONE DELL'IMPOSTA
+## TITOLO II - APPLICAZIONE DELL'IMPOSTA ALLE SUCCESSIONI
 
-### ALLE SUCCESSIONI - CAPO I
+### CAPO I - DETERMINAZIONE DELL'IMPOSTA
 
-#### DETERMINAZIONE DELL'IMPOSTA
-
-###### Art. 7
+##### Art. 7
 
 (( (Determinazione dell'imposta).
 
@@ -260,7 +258,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139 ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 8 - Art. 7 D.P.R. n. 637/1972
+##### Art. 8 - Art. 7 D.P.R. n. 637/1972
 
 Base imponibile
 
@@ -280,15 +278,13 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139 ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-## TITOLO II - APPLICAZIONE DELL'IMPOSTA
+## TITOLO II - APPLICAZIONE DELL'IMPOSTA ALLE SUCCESSIONI
 
-### ALLE SUCCESSIONI - CAPO II
+### CAPO II - BASE IMPONIBILE
 
-#### BASE IMPONIBILE - Sezione I
+#### Sezione I - ATTIVO EREDITARIO
 
-##### ATTIVO EREDITARIO
-
-###### Art. 9
+##### Art. 9
 
 (Art. 8 D.P.R. n. 637/1972 - Art. 4 legge n. 512/1982
 
@@ -308,11 +304,11 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139 ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 10
+##### Art. 10
 
 (( ARTICOLO ABROGATO DALLA L. 21 NOVEMBRE 2000, N. 342 ))
 
-###### Art. 11
+##### Art. 11
 
 (Art. 10 D.P.R. n. 637/1972
 
@@ -330,7 +326,7 @@ b) i beni mobili e i titoli al portatore di qualsiasi specie posseduti dal defun
 
 3\. Le partecipazioni in societa' di ogni tipo si considerano comprese nell'attivo ereditario anche se per clausola del contratto di societa' o dell'atto costitutivo o per patto parasociale ne sia previsto a favore di altri soci il diritto di accrescimento o il diritto di acquisto ad un prezzo inferiore al valore di cui all'art. 16, comma 1. In tal caso, se i beneficiari del diritto di accrescimento o di acquisto sono eredi o legatari, il valore della partecipazione si aggiunge a quello della quota o del legato; se non sono eredi o legatari la partecipazione e' considerata come oggetto di un legato a loro favore.
 
-###### Art. 12
+##### Art. 12
 
 (Art. 11 D.P.R. n. 637/1972 - Art. 1 D.P.R. n. 952/1977
 
@@ -378,7 +374,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139 ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 13 - Art. 11 D.P.R. n. 637/1972 - Art. 4 legge n. 512/1982
+##### Art. 13 - Art. 11 D.P.R. n. 637/1972 - Art. 4 legge n. 512/1982
 
 Beni culturali
 
@@ -398,15 +394,13 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139 ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-## TITOLO II - APPLICAZIONE DELL'IMPOSTA
+## TITOLO II - APPLICAZIONE DELL'IMPOSTA ALLE SUCCESSIONI
 
-### ALLE SUCCESSIONI - CAPO II
+### CAPO II - BASE IMPONIBILE
 
-#### BASE IMPONIBILE - Sezione II
+#### Sezione II - VALORE DEI BENI E DEI DIRITTI
 
-##### VALORE DEI BENI E DEI DIRITTI
-
-###### Art. 14 - Art. 20 D.P.R. n. 637/1972
+##### Art. 14 - Art. 20 D.P.R. n. 637/1972
 
 Beni immobili e diritti reali immobiliari
 
@@ -426,7 +420,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139 ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 15 - Art. 21 D.P.R. n. 637/1972
+##### Art. 15 - Art. 21 D.P.R. n. 637/1972
 
 Aziende, navi e aeromoboli
 
@@ -444,7 +438,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139 ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 16 - Art. 22 D.P.R. n. 637/1972
+##### Art. 16 - Art. 22 D.P.R. n. 637/1972
 
 Azioni e obbligazioni, altri titoli, quote sociali
 
@@ -466,7 +460,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139 ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 17 - Art. 23 D.P.R. n. 637/1972
+##### Art. 17 - Art. 23 D.P.R. n. 637/1972
 
 Rendite e pensioni
 
@@ -616,7 +610,7 @@ AGGIORNAMENTO (56)
 
 La Corte Costituzionale, con sentenza 23 marzo - 28 maggio 2026, n. 89 (in G.U. 1a s.s. 3/6/2026, n. 22) ha dichiarato "l'illegittimita' costituzionale dell'art. 17 del decreto legislativo 31 ottobre 1990, n. 346 (Approvazione del testo unico delle disposizioni concernenti l'imposta sulle successioni e donazioni), nel testo applicabile prima della modifica di cui all'art. 1, comma 1, lettera r), del decreto legislativo 18 settembre 2024, n. 139 (Disposizioni per la razionalizzazione dell'imposta di registro, dell'imposta sulle successioni e donazioni, dell'imposta di bollo e degli altri tributi indiretti diversi dall'IVA), nella parte in cui non prevede che, ai fini della determinazione del valore di cui al comma 1, lettera c), del medesimo articolo, non puo' essere assunto un saggio legale d'interesse inferiore al 2,5 per cento".
 
-###### Art. 18 - Art. 24 D.P.R. n. 637/1972
+##### Art. 18 - Art. 24 D.P.R. n. 637/1972
 
 Crediti
 
@@ -644,7 +638,7 @@ d) per il diritto alla liquidazione delle quote di societa' semplici, in nome co
 
 > Salvo quanto e' disposto nell'art. 2270, il pagamento della quota spettante al socio deve essere fatto entro sei mesi dal giorno in cui si verifica lo scioglimento del rapporto".
 
-###### Art. 19 - Art. 25 D.P.R. n. 637/1972
+##### Art. 19 - Art. 25 D.P.R. n. 637/1972
 
 Altri beni
 
@@ -652,15 +646,13 @@ Altri beni
 
 2\. In caso di usufrutto o di uso si applicano le disposizioni dell'art. 14, comma 1, lettere b) e c).
 
-## TITOLO II - APPLICAZIONE DELL'IMPOSTA
+## TITOLO II - APPLICAZIONE DELL'IMPOSTA ALLE SUCCESSIONI
 
-### ALLE SUCCESSIONI - CAPO II
+### CAPO II - BASE IMPONIBILE
 
-#### BASE IMPONIBILE - Sezione III
+#### Sezione III - PASSIVITA' DEDUCIBILI
 
-##### PASSIVITA' DEDUCIBILI
-
-###### Art. 20 - Art. 12 D.P.R. n. 637/1972
+##### Art. 20 - Art. 12 D.P.R. n. 637/1972
 
 Passivita' deducibili
 
@@ -674,7 +666,7 @@ AGGIORNAMENTO (2)
 
 La L. 30 dicembre 1991, n. 413, ha disposto (con l'art. 23, comma 4) che "Le disposizioni di cui al comma 3 si applicano alle dichiarazioni presentate a partire dal 1° gennaio 1993."
 
-###### Art. 21
+##### Art. 21
 
 (Artt. 13, commi 1 e 2, e 14 D.P.R. n. 637/1972
 
@@ -694,7 +686,7 @@ Condizioni di deducibilita' dei debiti
 
 6\. Per debito del defunto si intende anche quello di somme dovute al coniuge divorziato, a seguito di sentenza di scioglimento di matrimonio o di cessazione di effetti civili dello stesso.
 
-###### Art. 22 - Artt. 13, comma 4, 14 e 15 D.P.R. n. 637/1972
+##### Art. 22 - Artt. 13, comma 4, 14 e 15 D.P.R. n. 637/1972
 
 Limiti alla deducibilita' dei debiti
 
@@ -718,7 +710,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139 ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 23 - Artt. 13, comma 4, e 16 D.P.R. n. 637/1972
+##### Art. 23 - Artt. 13, comma 4, e 16 D.P.R. n. 637/1972
 
 Dimostrazione dei debiti
 
@@ -744,7 +736,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139 ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 24
+##### Art. 24
 
 (Art. 17 D.P.R. n. 637/1972 - Art. 4, comma 2, legge n. 880/1986) Spese mediche e spese funerarie
 
@@ -752,13 +744,11 @@ Il D.Lgs. 18 settembre 2024, n. 139 ha disposto (con l'art. 9, comma 3) che "Le 
 
 2\. Le spese funerarie risultanti da regolari quietanze sono deducibili in misura non superiore a lire due milioni.
 
-## TITOLO II - APPLICAZIONE DELL'IMPOSTA
+## TITOLO II - APPLICAZIONE DELL'IMPOSTA ALLE SUCCESSIONI
 
-### ALLE SUCCESSIONI - CAPO III
+### CAPO III - RIDUZIONI E DETRAZIONI
 
-#### RIDUZIONI E DETRAZIONI
-
-###### Art. 25
+##### Art. 25
 
 (Art. 18 D.P.R. n. 637/1972 - Art. 4 legge n. 512/1982
 
@@ -786,7 +776,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139 ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 26
+##### Art. 26
 
 (Art. 19 D.P.R. n. 637/1972 - Art. 4, comma 3, legge n. 880/1986) Detrazione di altre imposte
 
@@ -796,13 +786,11 @@ a)(( LETTERA ABROGATA D.L. 28 MARZO 1997, N. 79, CONVERTITO CON MODIFICAZIONI DA
 
 b) le imposte pagate ad uno Stato estero, in dipendenza della stessa successione ed in relazione a beni esistenti in tale Stato, fino a concorrenza della parte dell'imposta di successione proporzionale al valore dei beni stessi, salva l'applicazione di trattati o accordi internazionali.
 
-## TITOLO II - APPLICAZIONE DELL'IMPOSTA
+## TITOLO II - APPLICAZIONE DELL'IMPOSTA ALLE SUCCESSIONI
 
-### ALLE SUCCESSIONI - CAPO IV
+### CAPO IV - ((LIQUIDAZIONE e Accertamento dell'imposta))
 
-#### ((LIQUIDAZIONE - e Accertamento dell'imposta))
-
-###### Art. 27 - Artt. 33, 34 e 41, primo comma, D.P.R. n. 637/1972
+##### Art. 27 - Artt. 33, 34 e 41, primo comma, D.P.R. n. 637/1972
 
 Procedimento e termini
 
@@ -828,7 +816,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139 ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 28
+##### Art. 28
 
 (Artt. 35, comma 1, 36 e 37 D.P.R. n. 637/1972
 
@@ -860,7 +848,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139 ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 29 - Art. 37, comma 2, D.P.R. n. 637/1972
+##### Art. 29 - Art. 37, comma 2, D.P.R. n. 637/1972
 
 Contenuto della dichiarazione
 
@@ -904,7 +892,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139 ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 30 - Art. 38 D.P.R. n. 637/1972
+##### Art. 30 - Art. 38 D.P.R. n. 637/1972
 
 Allegati alla dichiarazione
 
@@ -948,7 +936,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 31 - Art. 39 D.P.R. n. 637/1972
+##### Art. 31 - Art. 39 D.P.R. n. 637/1972
 
 Termine per la presentazione della dichiarazione
 
@@ -988,7 +976,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 32 - Art. 40 D.P.R. 637/1972
+##### Art. 32 - Art. 40 D.P.R. 637/1972
 
 Irregolarita', incompletezza e infedelta' della dichiarazione
 
@@ -1006,7 +994,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 33 - Artt. 33, comma 1, e 41, comma 1, D.P.R. n. 637/1972
+##### Art. 33 - Artt. 33, comma 1, e 41, comma 1, D.P.R. n. 637/1972
 
 Liquidazione dell'imposta in base alla dichiarazione
 
@@ -1050,7 +1038,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 34
+##### Art. 34
 
 (Art. 26 D.P.R. n. 637/1972 - Art. 8 legge n. 880/86
 
@@ -1092,7 +1080,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 35 - Art. 33, comma 3, D.P.R. n. 637/1972
+##### Art. 35 - Art. 33, comma 3, D.P.R. n. 637/1972
 
 Accertamento e liquidazione d'ufficio
 
@@ -1112,13 +1100,11 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-## TITOLO II - APPLICAZIONE DELL'IMPOSTA
+## TITOLO II - APPLICAZIONE DELL'IMPOSTA ALLE SUCCESSIONI
 
-### ALLE SUCCESSIONI - CAPO V
+### CAPO V - RISCOSSIONE DELL'IMPOSTA
 
-#### RISCOSSIONE DELL'IMPOSTA
-
-###### Art. 36 - Art. 46 D.P.R. n. 637/1972
+##### Art. 36 - Art. 46 D.P.R. n. 637/1972
 
 Soggetti obbligati al pagamento dell'imposta
 
@@ -1140,7 +1126,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 37
+##### Art. 37
 
 (Artt. 41 e 42 D.P.R. n. 637/1972 - Legge n. 121/1986
 
@@ -1168,7 +1154,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 38 - Dilazione del pagamento
+##### Art. 38 - Dilazione del pagamento
 
 ((1. Il contribuente puo' eseguire il pagamento dell'imposta sulle successioni autoliquidata ai sensi dell'articolo 33, nella misura non inferiore al 20 per cento entro il termine di cui all'articolo 37 e, per il rimanente importo, in un numero di otto rate trimestrali ovvero, per importi superiori a 20.000 euro, in un numero massimo di dodici rate trimestrali, fornendo apposita comunicazione in sede di dichiarazione della successione. La dilazione non e' ammessa per importi inferiori a 1.000 euro.)) ((50))
 
@@ -1198,7 +1184,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 39 - Art. 42-bis D.P.R. n. 637/1972 - Art. 6 legge n. 512/1982
+##### Art. 39 - Art. 42-bis D.P.R. n. 637/1972 - Art. 6 legge n. 512/1982
 
 Pagamento dell'imposta
 
@@ -1240,7 +1226,7 @@ Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 1, comma 1, lettera
 
 Ha inoltre disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 40 - Art. 44 D.P.R. n. 637/1972
+##### Art. 40 - Art. 44 D.P.R. n. 637/1972
 
 Riscossione in pendenza di giudizio
 
@@ -1264,7 +1250,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 41 - Artt. 41, ultimo comma, e 45 D.P.R. n. 637/1972
+##### Art. 41 - Artt. 41, ultimo comma, e 45 D.P.R. n. 637/1972
 
 Riscossione coattiva e prescrizione
 
@@ -1278,7 +1264,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 42 - Art. 47 D.P.R. n. 637/1972 - Legge n. 121/1986
+##### Art. 42 - Art. 47 D.P.R. n. 637/1972 - Legge n. 121/1986
 
 Rimborso dell'imposta
 
@@ -1318,19 +1304,17 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-## TITOLO II - APPLICAZIONE DELL'IMPOSTA
+## TITOLO II - APPLICAZIONE DELL'IMPOSTA ALLE SUCCESSIONI
 
-### ALLE SUCCESSIONI - CAPO VI
+### CAPO VI - NORME PARTICOLARI PER LE SUCCESSIONI TESTAMENTARIE
 
-#### NORME PARTICOLARI - PER LE SUCCESSIONI TESTAMENTARIE
-
-###### Art. 43 - Art. 28 D.P.R. n. 637/1972
+##### Art. 43 - Art. 28 D.P.R. n. 637/1972
 
 Disposizioni testamentarie impugnate o modificate
 
 1\. Nelle successioni testamentarie l'imposta si applica in base alle disposizioni contenute nel testamento, anche se impugnate giudizialmente, nonche' agli eventuali accordi diretti a reintegrare i diritti dei legittimari, risultanti da atto pubblico o da scrittura privata autenticata, salvo il disposto, in caso di accoglimento dell'impugnazione o di accordi sopravvenuti, dell'art. 28, comma 6, o dell'art. 42, comma 1, lettera e).
 
-###### Art. 44 - Artt. 29 e 30 D.P.R. n. 637/1972
+##### Art. 44 - Artt. 29 e 30 D.P.R. n. 637/1972
 
 Disposizioni testamentarie condizionali
 
@@ -1350,7 +1334,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 45 - Art. 31 D.P.R. n. 637/1972
+##### Art. 45 - Art. 31 D.P.R. n. 637/1972
 
 Sostituzione fedecommissaria
 
@@ -1382,7 +1366,7 @@ Sostituzione fedecommissaria
 
 > 2\. Per le pene pecuniarie in misura fissa per le quali e' previsto solamente l'importo massimo edittale, fermo rimanendo l'adeguamento di questultimo ai sensi del comma 1, e' stabilito un importo minimo di lire cinquantamila".
 
-###### Art. 46 - Art. 32 D.P.R. n. 637/1972
+##### Art. 46 - Art. 32 D.P.R. n. 637/1972
 
 Presunzione di legato
 
@@ -1392,13 +1376,11 @@ Presunzione di legato
 
 3\. L'onere a carico dell'erede o del legatario, che ha per oggetto prestazioni a soggetti terzi determinati individualmente, e' considerato legato a favore del beneficiario.
 
-## TITOLO II - APPLICAZIONE DELL'IMPOSTA
+## TITOLO II - APPLICAZIONE DELL'IMPOSTA ALLE SUCCESSIONI
 
-### ALLE SUCCESSIONI - CAPO VII
+### CAPO VII - DISPOSIZIONI VARIE
 
-#### DISPOSIZIONI VARIE
-
-###### Art. 47 - Art. 48 D.P.R. n. 637/1972
+##### Art. 47 - Art. 48 D.P.R. n. 637/1972
 
 Poteri dell'Amministrazione finanziaria
 
@@ -1422,7 +1404,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 48 - Art. 49 D.P.R. n. 637/1972
+##### Art. 48 - Art. 49 D.P.R. n. 637/1972
 
 Divieti e obblighi a carico di terzi
 
@@ -1448,7 +1430,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 49 - Disposizione nuova
+##### Art. 49 - Disposizione nuova
 
 Notificazioni
 
@@ -1460,13 +1442,11 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-## TITOLO II - APPLICAZIONE DELL'IMPOSTA
+## TITOLO II - APPLICAZIONE DELL'IMPOSTA ALLE SUCCESSIONI
 
-### ALLE SUCCESSIONI - CAPO VIII
+### CAPO VIII - SANZIONI
 
-#### SANZIONI
-
-###### Art. 50 - Artt. 50 e 53 D.P.R. n. 637/1972
+##### Art. 50 - Artt. 50 e 53 D.P.R. n. 637/1972
 
 (Omissione della dichiarazione).
 
@@ -1512,7 +1492,7 @@ AGGIORNAMENTO (48)
 
 Il D.Lgs. 14 giugno 2024, n. 87, ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
-###### Art. 51 - Art. 51 D.P.R. 637/1972 - Art. 9 legge n. 880/1986
+##### Art. 51 - Art. 51 D.P.R. 637/1972 - Art. 9 legge n. 880/1986
 
 (Infedelta' della dichiarazione).
 
@@ -1534,11 +1514,11 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 52
+##### Art. 52
 
 ((ARTICOLO ABROGATO DAL D. LGS. 18 DICEMBRE 1997, N. 473))
 
-###### Art. 53 - Art. 53 D.P.R. n. 637/1972 - Art. 4 legge n. 512/1982
+##### Art. 53 - Art. 53 D.P.R. n. 637/1972 - Art. 4 legge n. 512/1982
 
 (Altre violazioni).
 
@@ -1560,7 +1540,7 @@ AGGIORNAMENTO (48)
 
 Il D.Lgs. 14 giugno 2024, n. 87, ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
-###### Art. 54 - Art. 54 D.P.R. n. 637/1972
+##### Art. 54 - Art. 54 D.P.R. n. 637/1972
 
 (Determinazione della sazione ((amministrativa)) ). ((50))
 
@@ -1572,11 +1552,9 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-## TITOLO III - APPLICAZIONE
+## TITOLO III - APPLICAZIONE DELL'IMPOSTA ALLE DONAZIONI
 
-### DELL'IMPOSTA ALLE DONAZIONI
-
-###### Art. 55 - Art. 56 D.P.R. n. 637/1972
+##### Art. 55 - Art. 56 D.P.R. n. 637/1972
 
 Registrazione degli atti di donazione
 
@@ -1592,7 +1570,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 56 - Art. 55 D.P.R. n. 637/1972
+##### Art. 56 - Art. 55 D.P.R. n. 637/1972
 
 (( (Determinazione dell'imposta).))
 
@@ -1640,7 +1618,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 56-bis - Accertamento delle liberalita' indirette
+##### Art. 56-bis - Accertamento delle liberalita' indirette
 
 ((1. Ferma l'esclusione delle donazioni o liberalita' di cui agli articoli 742, 770, secondo comma, e 783 del codice civile, l'accertamento delle liberalita' diverse dalle donazioni e da quelle risultanti da atti di donazione effettuati all'estero a favore di residenti puo' essere effettuato esclusivamente quando l'esistenza delle stesse risulti da dichiarazioni rese dall'interessato nell'ambito di procedimenti diretti all'accertamento di tributi.)) ((50))
 
@@ -1660,7 +1638,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 57 - Disposizione nuova
+##### Art. 57 - Disposizione nuova
 
 Donazioni anteriori
 
@@ -1674,7 +1652,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 58 - Disposizione nuova
+##### Art. 58 - Disposizione nuova
 
 Disposizioni varie
 
@@ -1694,7 +1672,7 @@ Disposizioni varie
 
 > \- Per il testo dell'art. 692 del codice civile si veda in nota all'art. 45.
 
-###### Art. 59 - Disposizione nuova
+##### Art. 59 - Disposizione nuova
 
 Applicazione dell'imposta in misura fissa
 
@@ -1714,7 +1692,7 @@ AGGIORNAMENTO (50)
 
 Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 59-bis
+##### Art. 59-bis
 
 (( (Esenzione per i veicoli iscritti al pubblico
 
@@ -1728,7 +1706,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 15 dicembre 1997, n. 446, ha disposto (con l'art. 57, comma 3) che la presente modifica decorre dal 1 gennaio 1999.
 
-###### Art. 60 - Art. 56 D.P.R. n. 637/1972
+##### Art. 60 - Art. 56 D.P.R. n. 637/1972
 
 Rinvio
 
@@ -1742,17 +1720,17 @@ Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le
 
 ## TITOLO IV - DISPOSIZIONI TRANSITORIE E FINALI
 
-###### Art. 61
+##### Art. 61
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 SETTEMBRE 2024, N. 139))
 
-###### Art. 62
+##### Art. 62
 
 Agevolazioni
 
 1\. Restano ferne le agevolazioni previste da altre disposizioni di legge.
 
-###### Art. 63
+##### Art. 63
 
 Entrata in vigore
 
@@ -1762,13 +1740,13 @@ Visto, il Presidente del Consiglio dei Ministri
 
 ANDREOTTI
 
-###### Tariffa
+##### Tariffa
 
 TARIFFA
 
 ((TARIFFA ABROGATA DALLA L. 21 NOVEMBRE 2000, N. 342))
 
-###### Prospetto dei coefficienti
+##### Prospetto dei coefficienti
 
 ((Prospetto dei coefficienti
 

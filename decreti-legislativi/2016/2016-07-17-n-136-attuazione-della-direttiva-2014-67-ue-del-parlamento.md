@@ -370,9 +370,7 @@ La L. 30 dicembre 2018, n. 145 ha disposto (con l'art. 1, comma 445, lettera d))
 
 1\) del 20 per cento per quanto riguarda gli importi dovuti per la violazione delle disposizioni di cui [...] all'articolo 12 del decreto legislativo 17 luglio 2016, n. 136".
 
-## ((Capo III-bis - Disposizioni specifiche per le prestazioni transnazionali
-
-### di servizi di trasporto su strada))
+## ((Capo III-bis - Disposizioni specifiche per le prestazioni transnazionali di servizi di trasporto su strada))
 
 #### Art. 12-bis
 
@@ -544,7 +542,7 @@ Ambito di applicazione
 
 > \- La legge 21 marzo 1983, n. 149 (Ratifica ed esecuzione delle convenzioni europee sulla notifica e l'ottenimento all'estero di documenti, informazioni e prove in materia amministrativa, adottate a Strasburgo, rispettivamente, il 24 novembre 1977 ed il 15 marzo 1978) e' pubblicata nella Gazzetta Ufficiale 5 maggio 1983, n. 122, S.O.
 
-## Sezione II - Richiesta di notifica e di recupero ad altri Stati membri
+### Sezione II - Richiesta di notifica e di recupero ad altri Stati membri
 
 #### Art. 14
 
@@ -608,7 +606,7 @@ b) l'autorita' adita rifiuta il riconoscimento per uno dei motivi di cui all'art
 
 3\. Se il trasgressore prova di avere provveduto al pagamento, totale o parziale, l'Ispettorato nazionale del lavoro ne da' comunicazione all'autorita' adita, anche ai fini della deduzione dall'importo complessivo oggetto di esecuzione.
 
-## Sezione III - Richiesta di notifica e di recupero da altri Stati membri
+### Sezione III - Richiesta di notifica e di recupero da altri Stati membri
 
 #### Art. 18
 

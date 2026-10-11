@@ -25,13 +25,13 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il rendiconto consuntivo dello Stato per l'esercizio 1966 e' approvato con le risultanze degli articoli seguenti.
 
 ## ENTRATE E SPESE - DI COMPETENZA DELL'ESERCIZIO FINANZIARIO 1966
 
-### Art. 2
+## Art. 2
 
 Le entrate tributarie, extra tributarie, per
 
@@ -60,7 +60,7 @@ e rimasero da riscuotere..................... L. 539.526257.288
  --------------------
 ```
 
-### Art. 3
+## Art. 3
 
 Le spese correnti, in conto capitale e per
 
@@ -80,7 +80,7 @@ e rimasero da pagare......................... L. 2.011.035.732.717
  --------------------
 ```
 
-### Art. 4
+## Art. 4
 
 Il riepilogo generale delle entrate e delle
 
@@ -110,7 +110,7 @@ Differenza... L. 26.301.757.757
 
 ## ENTRATE E SPESE RESIDUE DELL'ESERCIZIO FINANZIARIO 1965 ED ESERCIZI - PRECEDENTI
 
-### Art. 5
+## Art. 5
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -131,7 +131,7 @@ e rimasero da riscuotere al 31 dicembre 1966. L. 520.248.675.299
  --------------------
 ```
 
-### Art. 6
+## Art. 6
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -149,7 +149,7 @@ e rimasero da pagare al 31 dicembre 1966..... L. 2.028.604.276.543
 
 ## RESIDUI ATTIVI E PASSIVI ALLA CHIUSURA DELL'ESERCIZIO FINANZIARIO - 1966
 
-### Art. 7
+## Art. 7
 
 I residui attivi alla chiusura dell'esercizio finanziario 1966 risultano stabiliti, dal conto consuntivo del bilancio, nelle seguenti somme:
 
@@ -173,7 +173,7 @@ Somme riscosse e non versate in Tesoreria
  --------------------
 ```
 
-### Art. 8
+## Art. 8
 
 I residui passivi alla chiusura dell'esercizio finanziario 1966 risultano stabiliti dal conto consuntivo del bilancio, nelle seguenti somme:
 
@@ -195,7 +195,7 @@ sercizi precedenti (articolo 6).............. " 2.028.604.276.543
 
 ## SITUAZIONE FINANZIARIA
 
-### Art. 9
+## Art. 9
 
 Il disavanzo finanziario del conto del tesoro alla fine dell'esercizio 1966 e' accertato nella somma di lire 6.733.304.215.476, come risulta dai seguenti dati:
 
@@ -258,17 +258,17 @@ bilita generale............................ " 423.755
 
 ## DISPOSIZIONI SPECIALI
 
-### Art. 10
+## Art. 10
 
 Sono stabiliti nella somma di lire 423.755 i discarichi consentiti, nell'esercizio 1966, ai tesorieri per casi di forza maggiore, ai sensi dell'articolo 194 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato approvato con regio decreto 23 maggio 1924, n. 827.
 
-### Art. 11
+## Art. 11
 
 E' approvata la eccedenza di impegni per lire 8.719.318.730, risultata in sede di consuntivo sul conto della competenza al capitolo n. 3241 "Somme da riscuotere direttamente dalla Regione siciliana sui cespiti erariali, ai sensi del decreto legislativo 12 aprile 1943, n. 507, salvo conguaglio a norma dell'articolo 4 del decreto medesimo" dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1966.
 
 ## AZIENDE SPECIALI ED AUTONOME - AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### Art. 12
+## Art. 12
 
 Le entrate correnti ed in conto capitale del
 
@@ -299,7 +299,7 @@ e rimasero da riscuotere..................... L. 3.622.399.798
  --------------------
 ```
 
-### Art. 13
+## Art. 13
 
 Le spese correnti, in conto capitale e per
 
@@ -317,7 +317,7 @@ delle quali furono pagate.................... " 1.620.559.738
 
 rimasero da pagare........................... L. 9.749.452.127
 
-### Art. 14
+## Art. 14
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -336,7 +336,7 @@ e rimasero da riscuotere al 31 dicembre 1966. L. 346.195.616
  --------------------
 ```
 
-### Art. 15
+## Art. 15
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -350,7 +350,7 @@ e rimasero da pagare al 31 dicembre 1966..... L. 10.654.737.532
  --------------------
 ```
 
-### Art. 16
+## Art. 16
 
 I residui attivi alla chiusura dell'esercizio finanziario 1966, risultano stabiliti nelle seguenti somme:
 
@@ -374,7 +374,7 @@ riepilogo dell'entrata)...................... " 361.080.315
  --------------------
 ```
 
-### Art. 17
+## Art. 17
 
 I residui passivi alla chiusura dell'esercizio finanziario 1966 risultano stabiliti nelle seguenti somme:
 
@@ -394,7 +394,7 @@ sercizi precedenti (articolo 15)............. " 10.654.737.532
  --------------------
 ```
 
-### Art. 18
+## Art. 18
 
 La situazione finanziaria dell'Azienda di Stato per le foreste demaniali, alla fine dell'esercizio 1966, risulta come appresso:
 
@@ -438,7 +438,7 @@ Totale del passivo... L. 11.380.234.224
 
 ## ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-### Art. 19
+## Art. 19
 
 Le entrate correnti dell'Istituto agronomico
 
@@ -464,7 +464,7 @@ e rimasero da riscuotere..................... L. 6.000.000
  --------------------
 ```
 
-### Art. 20
+## Art. 20
 
 Le spese correnti dell'Istituto predetto,
 
@@ -482,7 +482,7 @@ e rimasero da pagare......................... L. 11.411.610
  --------------------
 ```
 
-### Art. 21
+## Art. 21
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -498,7 +498,7 @@ e rimasero da riscuotere al 31 dicembre 1966. L. -
  --------------------
 ```
 
-### Art. 22
+## Art. 22
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -512,7 +512,7 @@ e rimasero da pagare al 31 dicembre 1966..... L. 7.744.767
  --------------------
 ```
 
-### Art. 23
+## Art. 23
 
 I residui attivi alla chiusura dell'esercizio 1966 risultano stabi liti nelle seguenti somme:
 
@@ -536,7 +536,7 @@ riepilogo dell'entrata)...................... " -
  --------------------
 ```
 
-### Art. 24
+## Art. 24
 
 I residui passivi alla chiusura dell'esercizio 1966 risultano stabi liti nelle seguenti somme:
 
@@ -556,7 +556,7 @@ sercizi precedenti (articolo 22)............. " 7.744.767
  --------------------
 ```
 
-### Art. 25
+## Art. 25
 
 Sono approvate le eccedenze d'impegno risultate in sede di consuntivo sul conto dei residui dello stato di previsione della spesa dell'istituto agronomico per l'Oltremare per l'esercizio finanziario 1966, come dal dettaglio che segue:
 
@@ -572,7 +572,7 @@ zienda agraria............................... " 3.285
 
 ## AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-### Art. 26
+## Art. 26
 
 Le entrate correnti, in conto capitale e per
 
@@ -598,7 +598,7 @@ e rimasero da riscuotere..................... L. 5.567.117.145
  --------------------
 ```
 
-### Art. 27
+## Art. 27
 
 Le spese correnti ed in conto capitale del
 
@@ -618,7 +618,7 @@ e rimasero da pagare......................... L. 17.208.499.414
  --------------------
 ```
 
-### Art. 28
+## Art. 28
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -634,7 +634,7 @@ e rimasero da riscuotere al 31 dicembre 1966. L. 15.731.726.122
  --------------------
 ```
 
-### Art. 29
+## Art. 29
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -648,7 +648,7 @@ e rimasero da pagare al 31 dicembre 1966..... L. 4.698.126.407
  --------------------
 ```
 
-### Art. 30
+## Art. 30
 
 I residui attivi alla chiusura dell'esercizio finanziario 1966 risultano stabiliti nelle seguenti somme:
 
@@ -672,7 +672,7 @@ riepilogo-dell'entrata)...................... " -
  --------------------
 ```
 
-### Art. 31
+## Art. 31
 
 I residui passivi alla chiusura dell'esercizio finanziario 1966 risultano stabiliti nelle seguenti somme:
 
@@ -692,7 +692,7 @@ sercizi precedenti (articolo 29)............. " 4.698.126.407
  --------------------
 ```
 
-### Art. 32
+## Art. 32
 
 La situazione finanziaria dell'Amministrazione autonoma dei Monopoli di Stato, alla fine dello esercizio finanziario 1966, risulta come appresso:
 
@@ -706,7 +706,7 @@ Spese dell'esercizio 1966.................... L. 172.294.449.061
 
 ## ARCHIVI NOTARILI
 
-### Art. 33
+## Art. 33
 
 E' approvato il conto consuntivo degli Archivi notarili, per l'esercizio 1966, nelle risultanze seguenti:
 
@@ -722,7 +722,7 @@ Spese....................................... " 7.769.768.437
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-### Art. 34
+## Art. 34
 
 Le entrate correnti ed in conto capitale
 
@@ -753,7 +753,7 @@ e rimasero da riscuotere..................... L. 967.175.717
  --------------------
 ```
 
-### Art. 35
+## Art. 35
 
 Le spese correnti, in conto capitale e per
 
@@ -775,7 +775,7 @@ e rimasero da pagare......................... L. 2.688.356.312
  --------------------
 ```
 
-### Art. 36
+## Art. 36
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -794,7 +794,7 @@ e rimasero da riscuotere al 31 dicembre 1966. L. 70.986.699
  --------------------
 ```
 
-### Art. 37
+## Art. 37
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -808,7 +808,7 @@ e rimasero da pagare al 31 dicembre 1966..... L. 703.822.872
  --------------------
 ```
 
-### Art. 38
+## Art. 38
 
 I residui attivi alla chiusura dell'esercizio finanziario 1966 risultano stabiliti nelle seguenti somme:
 
@@ -832,7 +832,7 @@ riepilogo dell'entrata)...................... " 1.257.922
  --------------------
 ```
 
-### Art. 39
+## Art. 39
 
 I residui passivi alla chiusura dell'esercizio finanziario 1966 risultano stabiliti nelle seguenti somme:
 
@@ -852,7 +852,7 @@ sercizi precedenti (articolo 37)............. " 703.822.872
  --------------------
 ```
 
-### Art. 40
+## Art. 40
 
 Il saldo passivo del conto finanziario dell'Amministrazione del Fondo per il culto alla fine dell'esercizio 1966, e' accertato nella somma di lire 288.691,70, come risulta dai seguenti dati:
 
@@ -895,7 +895,7 @@ al 31 dicembre 1966........ " 1.127.348.502
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-### Art. 41
+## Art. 41
 
 Le entrate correnti ed in conto capitale del
 
@@ -926,7 +926,7 @@ e rimasero da riscuotere..................... L. 29.849.915
  --------------------
 ```
 
-### Art. 42
+## Art. 42
 
 Le spese correnti ed in conto capitale del
 
@@ -946,7 +946,7 @@ e rimasero da pagare......................... L. 123.275.910
  --------------------
 ```
 
-### Art. 43
+## Art. 43
 
 I residui attivi alla chiusura dell'eserci
 
@@ -965,7 +965,7 @@ e rimasero da riscuotere al 31 dicembre 1966. L. 117.536
  --------------------
 ```
 
-### Art. 44
+## Art. 44
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -979,7 +979,7 @@ e rimasero da pagare al 31 dicembre 1966..... L. 12.878.430
  --------------------
 ```
 
-### Art. 45
+## Art. 45
 
 I residui attivi alla chiusura dell'esercizio finanziario 1966 risultano stabiliti nelle seguenti somme:
 
@@ -1003,7 +1003,7 @@ riepilogo dell'entrata)...................... " 26.080
  --------------------
 ```
 
-### Art. 46
+## Art. 46
 
 I residui passivi alla chiusura dell'esercizio finanziario 1966 risultano stabili nelle seguenti somme:
 
@@ -1023,7 +1023,7 @@ sercizi precedenti (articolo 44)............. " 12.878.430
  --------------------
 ```
 
-### Art. 47
+## Art. 47
 
 Il saldo attivo del conto finanziario del Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1966, e' accertato nella somma di lire 10.390.588,58, come risulta dai seguenti dati:
 
@@ -1058,7 +1058,7 @@ al 31 dicembre 1966..........." 117.580.794
 
 ## PATRIMONI RIUNITI EX ECONOMALI
 
-### Art. 48
+## Art. 48
 
 Le entrate correnti ed i.n conto capitale
 
@@ -1089,7 +1089,7 @@ e rimasero da riscuotere..................... L. 5.049.969
  --------------------
 ```
 
-### Art. 49
+## Art. 49
 
 Le spese correnti ed in conto capitale del-
 
@@ -1105,7 +1105,7 @@ delle quali furono pagate.................... " 294.758.064
 
 e rimasero da pagare......................... L. 84.743.307
 
-### Art. 50
+## Art. 50
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1123,7 +1123,7 @@ e rimasero da riscuotere al 31 dicembre 1966. L. 3.792.555
  --------------------
 ```
 
-### Art. 51
+## Art. 51
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1139,7 +1139,7 @@ e rimasero da pagare al 31 dicembre 1966..... L. 17.306.429
  --------------------
 ```
 
-### Art. 52
+## Art. 52
 
 I residui attivi alla chiusura dell'esercizio finanziario 1966, risultano stabiliti, dal conto consuntivo dell'Azienda, nelle seguenti somme:
 
@@ -1163,7 +1163,7 @@ Residui attivi al 31 dicembre 1966... L. 8.842.527
 
 --------------------
 
-### Art. 53
+## Art. 53
 
 I residui passivi alla chiusura dell'esercizio finanziario 1966 risultano stabiliti, dal conto consuntivo dell'Azienda, nelle seguenti somme:
 
@@ -1183,7 +1183,7 @@ sercizi precedenti (articolo 51)............. " 17.306.429
  --------------------
 ```
 
-### Art. 54
+## Art. 54
 
 Il saldo attivo del conto finanziario dell'Azienda dei patrimoni riuniti ex economali, alla fine dell'esercizio 1966, e' accertato nella somma di lire 41.282.577,88, come risulta dai seguenti dati:
 
@@ -1222,7 +1222,7 @@ Spese dell'esercizio finanziario 1966........ L. 379.501.371 - Saldo attivo al 3
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE
 
-### Art. 55
+## Art. 55
 
 Le entrate correnti, in conto capitale per
 
@@ -1248,7 +1248,7 @@ e rimasero da riscuotere..................... L. 141.622.738.010
  --------------------
 ```
 
-### Art. 56
+## Art. 56
 
 Le spese correnti, in conto capitale e per
 
@@ -1270,7 +1270,7 @@ e rimasero da pagare......................... L. 239.390.040.692
  --------------------
 ```
 
-### Art. 57
+## Art. 57
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1286,7 +1286,7 @@ e rimasero da riscuotere al 31 dicembre 1966. L. 180.603.832.304
  --------------------
 ```
 
-### Art. 58
+## Art. 58
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1300,7 +1300,7 @@ e rimasero da pagare al 31 dicembre 1966..... L. 208.053.200.400
  --------------------
 ```
 
-### Art. 59
+## Art. 59
 
 I residui attivi alla chiusura dell'esercizio finanziario 1966 risultano stabiliti nelle seguenti somme:
 
@@ -1324,7 +1324,7 @@ riepilogo dell'entrata)...................... " -
  --------------------
 ```
 
-### Art. 60
+## Art. 60
 
 I residui passivi alla chiusura dell'esercizio 1966 risultano stabiliti nelle seguenti somme:
 
@@ -1346,7 +1346,7 @@ sercizi precedenti (articolo 58)............. " 208.053.200.400
 
 ## AMMINISTRAZIONE DELLE POSTE E DEI TELEGRAFI
 
-### Art. 61
+## Art. 61
 
 Le entrate correnti, in conto capitale e per
 
@@ -1376,7 +1376,7 @@ e rimasero da riscuotere..................... L. 129.821.486.871
  --------------------
 ```
 
-### Art. 62
+## Art. 62
 
 Le spese correnti, in conto capitale e per
 
@@ -1396,7 +1396,7 @@ e rimasero da pagare......................... L. 119.891.926.447
  --------------------
 ```
 
-### Art. 63
+## Art. 63
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1412,7 +1412,7 @@ e rimasero da riscuotere al 31 dicembre 1966. L. 75.178.893.032
  --------------------
 ```
 
-### Art. 64
+## Art. 64
 
 I residui passivi alla chiusura dell'eserci
 
@@ -1426,7 +1426,7 @@ e rimasero da pagare al 31 dicembre 1966..... L. 42.380.946.213
  --------------------
 ```
 
-### Art. 65
+## Art. 65
 
 I residui attivi alla chiusura dell'esercizio 1966 risultano stabiliti nelle seguenti somme:
 
@@ -1446,7 +1446,7 @@ gli esercizi precedenti (articolo 63)........ " 75.178.893.032
  --------------------
 ```
 
-### Art. 66
+## Art. 66
 
 I residui passivi alla chiusura dell'esercizio 1966 risultano stabiliti nelle seguenti somme:
 
@@ -1468,7 +1468,7 @@ sercizi precedenti (articolo 64)............. " 42.380.946.218
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Art. 67
+## Art. 67
 
 Le entrate correnti, in conto capitale e per
 
@@ -1503,7 +1503,7 @@ e rimasero da riscuotere..................... L. 9.710.890.898
  --------------------
 ```
 
-### Art. 68
+## Art. 68
 
 Le spese correnti, in conto capitale e per
 
@@ -1525,7 +1525,7 @@ e rimasero da pagare......................... L. 63.124.661.819
  --------------------
 ```
 
-### Art. 69
+## Art. 69
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1545,7 +1545,7 @@ e rimasero da riscuotere al 31 dicembre 1966. L. 4.564.546.989
  --------------------
 ```
 
-### Art. 70
+## Art. 70
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1559,7 +1559,7 @@ e rimasero da pagare al 31 dicembre 1966..... L. 51.472.264.133
  --------------------
 ```
 
-### Art. 71
+## Art. 71
 
 I residui attivi alla chiusura dell'esercizio 1966, risultano stabiliti nelle seguenti somme:
 
@@ -1583,7 +1583,7 @@ riepilogo dell'entrata)...................... " 32.991.629.780
  --------------------
 ```
 
-### Art. 72
+## Art. 72
 
 I residui passivi alla chiusura dell'esercizio 1966 risultano stabiliti nelle seguenti somme:
 
@@ -1605,7 +1605,7 @@ sercizi precedenti (articolo 70)............. " 51.472.264.133
 
 ## AMMINISTRAZIONE DELLE FERROVIE DELLO STATO
 
-### Art. 73
+## Art. 73
 
 Le entrate correnti, in conto capitale e per
 
@@ -1637,7 +1637,7 @@ e rimasero da riscuotere..................... L. 483.496.925.917
  --------------------
 ```
 
-### Art. 74
+## Art. 74
 
 Le spese correnti, in conto capitale e per
 
@@ -1659,7 +1659,7 @@ e rimasero da pagare......................... L. 360.107.541.934
  --------------------
 ```
 
-### Art. 75
+## Art. 75
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione delle ferrovie dello Stato, di competenza dell'esercizio finanziario 1966 risulta cosi' stabilito:
 
@@ -1687,7 +1687,7 @@ Spese delle gestioni speciali ed autonome... " 1.038.470.881.991
  --------------------
 ```
 
-### Art. 76
+## Art. 76
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1703,7 +1703,7 @@ e rimasero da riscuotere al 31 dicembre 1966. L. 33.897.776.014
  --------------------
 ```
 
-### Art. 77
+## Art. 77
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1717,7 +1717,7 @@ e rimasero da pagare al 31 dicembre 1966..... L. 164.375.783.783
  --------------------
 ```
 
-### Art. 78
+## Art. 78
 
 I residui attivi alla chiusura dell'esercizio 1966 risultano stabiliti nelle seguenti somme:
 
@@ -1737,7 +1737,7 @@ gli esercizi precedenti (articolo 76)........ " 33.897.776.014
  --------------------
 ```
 
-### Art. 79
+## Art. 79
 
 I residui passivi alla chiusura dell'esercizio 1966 risultano stabiliti nelle seguenti somme:
 

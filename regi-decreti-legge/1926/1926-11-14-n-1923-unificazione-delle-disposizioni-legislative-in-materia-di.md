@@ -72,7 +72,7 @@ Speciali permessi in derogazione ai divieti potranno essere accordati, volta per
 
 Sulle domande di derogazione ai divieti e sulla opportunita' di concessioni per contingenti determinati, il Ministro per le finanze provvedera' sentito, ove lo creda, le Amministrazioni interessate e, per quanto riguarda i divieti di importazione, il parere di apposito Comitato consultivo, la cui costituzione sara' disposta con decreto del Ministro medesimo.
 
-## Capo II. - Importazione mediante pacchi postali di merci soggette a divieti.
+### Capo II. - Importazione mediante pacchi postali di merci soggette a divieti.
 
 #### Art. 5
 
@@ -84,7 +84,7 @@ AGGIORNAMENTO (8)
 
 Il Regio D.L. 21 dicembre 1931, n. 1574, convertito senza modificazioni dalla L. 24 marzo 1932, n. 387, ha disposto (con l'art. 3, comma 1) che "Per le merci che s'importano col mezzo di pacchi postali, e' data facolta' al Ministro per le finanze, di concerto con quelli per gli affari esteri, per le corporazioni e per l'agricoltura, di revocare la deroga al divieto consentita dall'articolo 5 del citato R. decreto-legge 14 novembre 1926, numero 1923".
 
-## Capo III. - Cabotaggio, circolazione, imbarco per provviste di bordo e temporanea esportazione di merci di vietata esportazione.
+### Capo III. - Cabotaggio, circolazione, imbarco per provviste di bordo e temporanea esportazione di merci di vietata esportazione.
 
 #### Art. 6
 
@@ -104,13 +104,13 @@ Nei casi di deroghe ai divieti di esportazione, autorizzate dal Ministro per le 
 
 ((Nei casi di deroghe ai divieti di importazione, autorizzate dal Ministro per le finanze, per merci destinate ad essere riesportate dopo aver subito nel Regno una lavorazione o trasformazione, e' in facolta' del Ministro stesso di subordinare la concessione della temporanea importazione alla condizione che, a garanzia della riesportazione delle merci, sia prestata alla dogana una cauzione da stabilire in relazione al valore delle merci da importare temporaneamente)).
 
-## Capo IV. - Spedizioni per le Colonie italiane.
+### Capo IV. - Spedizioni per le Colonie italiane.
 
 #### Art. 9
 
 I divieti di esportazione non sono applicabili alle merci che vengono spedite nelle Colonie italiane, eccezione fatta per i cereali ed il bestiame bovino, la cui spedizione nelle Colonie e' sottoposta alle limitazioni di quantita' e alle formalita' che saranno stabilite di concerto fra i Ministeri delle finanze, dell'economia nazionale e delle colonie.
 
-## Capo V. - Transito, trasbordo, deposito in magazzini doganali e riesportazione.
+### Capo V. - Transito, trasbordo, deposito in magazzini doganali e riesportazione.
 
 #### Art. 10
 
@@ -146,7 +146,7 @@ Ha inoltre disposto (con l'art. 100, commi 1 e 2) che "1. Le disposizioni del pr
 
 2\. A tali violazioni non si applicano, tuttavia, le sanzioni amministrative accessorie introdotte dal presente decreto legislativo, salvo che le stesse sostituiscano corrispondenti pene accessorie".
 
-## Capo II. - Divieto di cessione dei permessi di esportazione e di importazione.
+### Capo II. - Divieto di cessione dei permessi di esportazione e di importazione.
 
 #### Art. 12
 

@@ -318,11 +318,9 @@ vii) il sostegno allo sviluppo delle infrastrutture necessarie al commercio negl
 
 ## PARTE II - SCAMBI COMMERCIALI E QUESTIONI CONNESSE
 
-### TITOLO I
+### TITOLO I - SCAMBI DI MERCI
 
-#### SCAMBI DI MERCI
-
-##### CAPO 1 - DAZI DOGANALI
+#### CAPO 1 - DAZI DOGANALI
 
 ###### ARTICOLO 9
 
@@ -482,7 +480,7 @@ a) l'assistenza tecnica nel campo della riforma fiscale nella prospettiva di sup
 
 b) lo sviluppo di capacita' e di strutture istituzionali in relazione alle misure di cui alla lettera a).
 
-## CAPO 2 - STRUMENTI DI DIFESA COMMERCIALE
+#### CAPO 2 - STRUMENTI DI DIFESA COMMERCIALE
 
 ###### ARTICOLO 23
 
@@ -578,7 +576,7 @@ e) le misure di salvaguardia adottate a norma del presente vengono immediatament
 
 (1) Ai fini del presente , per "prodotti agricoli" si intendono i prodotti di cui all'allegato I dell'accordo OMC sull'agricoltura.
 
-## CAPO 3 - MISURE NON TARIFFARIE
+#### CAPO 3 - MISURE NON TARIFFARIE
 
 ###### ARTICOLO 26
 
@@ -620,7 +618,7 @@ Sovvenzioni alle esportazioni agricole
 
 (1) Ai fini del paragrafo 1, le modifiche delle sovvenzioni previste da programmi esistenti non sono considerate un nuovo programma di sovvenzioni ne' un aumento delle medesime laddove esse siano determinate da variazioni delle condizioni di mercato.
 
-## CAPO 4 - DOGANE E FACILITAZIONE DEGLI SCAMBI COMMERCIALI
+#### CAPO 4 - DOGANE E FACILITAZIONE DEGLI SCAMBI COMMERCIALI
 
 ###### ARTICOLO 29
 
@@ -752,7 +750,7 @@ d) rafforzare la cooperazione e il dialogo tra le parti in materia di tariffe, l
 
 e) discutere temi connessi alle attivita' di assistenza tecnica.
 
-## CAPO 5 - AGRICOLTURA E PESCA
+#### CAPO 5 - AGRICOLTURA E PESCA
 
 ###### ARTICOLO 37
 
@@ -838,7 +836,7 @@ f) lo sviluppo o il potenziamento a livello regionale delle capacita' scientific
 
 g) il processo di dialogo di cui all'articolo 41.
 
-## CAPO 6 - OSTACOLI TECNICI AL COMMERCIO
+#### CAPO 6 - OSTACOLI TECNICI AL COMMERCIO
 
 ###### ARTICOLO 44
 
@@ -914,7 +912,7 @@ c) lo sviluppo della capacita' delle imprese, in particolare quelle del CARIFORU
 
 d) lo sviluppo e l'adozione di regolamentazioni tecniche, norme e procedure di valutazione della conformita' armonizzate, fondate sulle pertinenti norme internazionali.
 
-## CAPO 7 - MISURE SANITARIE E FITOSANITARIE
+#### CAPO 7 - MISURE SANITARIE E FITOSANITARIE
 
 ###### ARTICOLO 52
 
@@ -992,11 +990,9 @@ c) lo sviluppo della capacita' delle imprese, in particolare di quelle del CARIF
 
 d) la cooperazione negli organismi internazionali di cui all'articolo 52, compresa l'agevolazione della partecipazione dei rappresentanti degli Stati del CARIFORUM alle riunioni di questi organismi.
 
-## TITOLO II - INVESTIMENTI, SCAMBI DI SERVIZI E COMMERCIO ELETTRONICO
+### TITOLO II - INVESTIMENTI, SCAMBI DI SERVIZI E COMMERCIO ELETTRONICO
 
-### CAPO 1
-
-#### DISPOSIZIONI GENERALI
+#### CAPO 1 - DISPOSIZIONI GENERALI
 
 ###### ARTICOLO 60
 
@@ -1064,7 +1060,7 @@ Integrazione regionale del CARIFORUM
 
 2\. Le parti riconoscono inoltre che i principi enunciati nel capo 5 del presente titolo, volti a sostenere la progressiva liberalizzazione degli investimenti e degli scambi di servizi tra le parti, costituiscono un quadro utile per tale ulteriore liberalizzazione tra gli Stati del CARIFORUM nel quadro della loro integrazione regionale.
 
-## CAPO 2 - PRESENZA COMMERCIALE
+#### CAPO 2 - PRESENZA COMMERCIALE
 
 ###### ARTICOLO 65
 
@@ -1232,7 +1228,7 @@ Riesame
 
 In vista della progressiva liberalizzazione degli investimenti, le parti riesaminano, entro tre anni dall'entrata in vigore del presente accordo e successivamente con cadenza periodica, il quadro giuridico per gli investimenti, il contesto degli investimenti e il flusso degli investimenti reciproci coerentemente con gli impegni assunti nel quadro di accordi internazionali.
 
-## CAPO 3 - PRESTAZIONE TRANSFRONTALIERA DI SERVIZI
+#### CAPO 3 - PRESTAZIONE TRANSFRONTALIERA DI SERVIZI
 
 ###### ARTICOLO 75
 
@@ -1338,7 +1334,7 @@ c) in base a misure rientranti nella clausola di esonero dal trattamento della n
 
 (2) Ai fini di questo calcolo si fa ricorso ai dati ufficiali dell'OMC sui principali esportatori nel commercio internazionale di merci (escludendo gli scambi intracomunitari).
 
-## CAPO 4 - PRESENZA TEMPORANEA DI PERSONE FISICHE PER MOTIVI PROFESSIONALI
+#### CAPO 4 - PRESENZA TEMPORANEA DI PERSONE FISICHE PER MOTIVI PROFESSIONALI
 
 ###### ARTICOLO 80
 
@@ -1564,11 +1560,9 @@ purche' non procedano alla vendita delle loro merci o dei loro servizi al pubbli
 
 2\. In questo caso l'ingresso e il soggiorno temporaneo nel loro territorio hanno, ove consentiti, una durata massima di novanta giorni nell'arco di dodici mesi.
 
-## CAPO 5 - QUADRO DI REGOLAMENTAZIONE
+#### CAPO 5 - QUADRO DI REGOLAMENTAZIONE
 
-### SEZIONE 1
-
-#### DISPOSIZIONI DI APPLICAZIONE GENERALE
+##### SEZIONE 1 - DISPOSIZIONI DI APPLICAZIONE GENERALE
 
 ###### ARTICOLO 85
 
@@ -1602,7 +1596,7 @@ Procedure
 
 2\. Le parti e gli Stati del CARIFORUM firmatari mantengono o istituiscono procedure o istanze giurisdizionali, arbitrali o amministrative che su richiesta dell'investitore o del prestatore di servizi interessato provvedono al tempestivo riesame delle decisioni amministrative concernenti la presenza commerciale, la prestazione transfrontaliera di servizi o la presenza temporanea di persone fisiche per motivi professionali e, se del caso, alla definizione di opportuni rimedi. Ove tali procedure non siano indipendenti dall'ente preposto ad assumere le decisioni amministrative in questione, le parti e gli Stati del CARIFORUM firmatari garantiscono che le procedure adottate consentano comunque un esame obiettivo e imparziale.
 
-## SEZIONE 2 - SERVIZI INFORMATICI
+##### SEZIONE 2 - SERVIZI INFORMATICI
 
 ###### ARTICOLO 88
 
@@ -1624,7 +1618,7 @@ e) formazione del personale dei clienti nel campo dei programmi informatici, dei
 
 4\. I servizi informatici e i servizi correlati rendono possibile la prestazione di altri servizi (ad esempio bancari) mediante mezzi elettronici e no. Esiste tuttavia una differenza di rilievo tra il servizio abilitante (ad esempio il web-hosting o l'hosting di applicazioni) e il servizio essenziale o di contenuti (ad esempio quello bancario) fornito per via elettronica. In questi casi il servizio essenziale o di contenuti non e' compreso nel codice CPC 84.
 
-## SEZIONE 3 - SERVIZI DI CORRIERE
+##### SEZIONE 3 - SERVIZI DI CORRIERE
 
 ###### ARTICOLO 89
 
@@ -1670,7 +1664,7 @@ Indipendenza degli organismi di regolamentazione
 
 Gli organismi di regolamentazione sono giuridicamente distinti dai fornitori di servizi di corriere, ai quali non devono rispondere del loro operato. Le decisioni e le procedure adottate dagli organismi di regolamentazione sono imparziali nei confronti di tutti i partecipanti al mercato.
 
-## SEZIONE 4 - SERVIZI DI TELECOMUNICAZIONE
+##### SEZIONE 4 - SERVIZI DI TELECOMUNICAZIONE
 
 ###### ARTICOLO 94
 
@@ -1802,7 +1796,7 @@ Controversie tra fornitori
 
 2\. Qualora la controversia riguardi la prestazione transfrontaliera di servizi, le competenti autorita' di regolamentazione nazionali coordinano i loro sforzi per risolvere la controversia.
 
-## SEZIONE 5 - SERVIZI FINANZIARI
+##### SEZIONE 5 - SERVIZI FINANZIARI
 
 ###### ARTICOLO 103
 
@@ -1932,7 +1926,7 @@ Eccezioni specifiche
 
 3\. Nessuna disposizione del presente titolo osta a che la parte CE e gli Stati del CARIFORUM firmatari, ivi compresi loro soggetti pubblici, svolgano o forniscano in via esclusiva, sul loro territorio, attivita' o servizi per conto o con la garanzia o utilizzando le risorse finanziarie della parte CE o dello Stato del CARIFORUM firmatario interessato o di loro soggetti pubblici.
 
-## SEZIONE 6 - SERVIZI DI TRASPORTO MARITTIMO INTERNAZIONALE
+##### SEZIONE 6 - SERVIZI DI TRASPORTO MARITTIMO INTERNAZIONALE
 
 ###### ARTICOLO 109
 
@@ -1980,7 +1974,7 @@ b) dall'entrata in vigore del presente accordo aboliscono ed evitano di introdur
 
 6\. La parte CE e gli Stati del CARIFORUM firmatari mettono a disposizione dei fornitori del servizio di trasporto marittimo internazionale dell'altra parte i seguenti servizi in ambito portuale secondo modalita' e condizioni ragionevoli e non discriminatorie: pilotaggio, rimorchio, rifornimento di generi alimentari, carburante e acqua, raccolta dei rifiuti e smaltimento della zavorra, capitaneria di porto, ausili alla navigazione, servizi operativi a terra indispensabili per l'esercizio delle navi, come le comunicazioni, la fornitura di acqua e di elettricita', le infrastrutture per riparazioni di emergenza, i servizi di ancoraggio e ormeggio.
 
-## SEZIONE 7 - SERVIZI TURISTICI
+##### SEZIONE 7 - SERVIZI TURISTICI
 
 ###### ARTICOLO 110
 
@@ -2058,7 +2052,7 @@ Il comitato CARIFORUM-CE per il commercio e lo sviluppo mette a punto le modalit
 
 3\. Le parti convengono inoltre che sarebbe utile un dialogo regolare sulla pubblicazione di consigli di viaggio.
 
-## CAPO 6 - COMMERCIO ELETTRONICO
+#### CAPO 6 - COMMERCIO ELETTRONICO
 
 ###### ARTICOLO 119
 
@@ -2088,7 +2082,7 @@ e) qualsiasi altra questione pertinente ai fini dello sviluppo del commercio ele
 
 2\. La cooperazione puo' avvenire attraverso lo scambio di informazioni sulla legislazione delle parti e degli Stati del CARIFORUM firmatari relativa ai suddetti temi e sull'applicazione di tale legislazione.
 
-## CAPO 7 - COOPERAZIONE
+#### CAPO 7 - COOPERAZIONE
 
 ###### ARTICOLO 121
 
@@ -2110,7 +2104,7 @@ e) l'elaborazione e l'attuazione di regimi normativi applicabili a livello regio
 
 f) l'istituzione di meccanismi per la promozione degli investimenti e delle joint venture tra prestatori di servizi della parte CE e degli Stati del CARIFORUM firmatari, nonche' il rafforzamento delle capacita' delle agenzie di promozione degli investimenti negli Stati del CARIFORUM firmatari.
 
-## TITOLO III - PAGAMENTI CORRENTI E MOVIMENTI DI CAPITALI
+### TITOLO III - PAGAMENTI CORRENTI E MOVIMENTI DI CAPITALI
 
 ###### ARTICOLO 122
 
@@ -2134,11 +2128,9 @@ Misure di salvaguardia
 
 2\. Il Consiglio congiunto CARIFORUM-CE e' immediatamente informato in merito all'adozione delle misure di salvaguardia e, non appena possibile, in merito a un calendario per la loro soppressione.
 
-## TITOLO IV - QUESTIONI CONNESSE AGLI SCAMBI
+### TITOLO IV - QUESTIONI CONNESSE AGLI SCAMBI
 
-### CAPO 1
-
-#### CONCORRENZA
+#### CAPO 1 - CONCORRENZA
 
 ###### ARTICOLO 125
 
@@ -2224,7 +2216,7 @@ c) la messa a disposizione di esperti indipendenti;
 
 d) l'erogazione di formazione a favore di personale chiave incaricato dell'attuazione e dell'applicazione della politica della concorrenza.
 
-## CAPO 2 - INNOVAZIONE E PROPRIETA' INTELLETTUALE
+#### CAPO 2 - INNOVAZIONE E PROPRIETA' INTELLETTUALE
 
 ###### ARTICOLO 131
 
@@ -2256,7 +2248,7 @@ g) incoraggiare, sviluppare e agevolare le attivita' di produzione e sviluppo in
 
 h) promuovere e rafforzare le attivita' di cooperazione regionale che interessano le regioni ultraperiferiche della Comunita' europea, cosi' da consentire a queste regioni e agli Stati del CARIFORUM di trarre reciproco vantaggio dalla loro prossimita' e vicinanza mediante lo sviluppo di uno spazio regionale innovativo e competitivo.
 
-## SEZIONE 1 - INNOVAZIONE
+##### SEZIONE 1 - INNOVAZIONE
 
 ###### ARTICOLO 133
 
@@ -2372,11 +2364,9 @@ g) collaborazione nel campo della ricerca e dello sviluppo;
 
 h) progetti pilota e dimostrativi.
 
-## SEZIONE 2 - PROPRIETA' INTELLETTUALE
+##### SEZIONE 2 - PROPRIETA' INTELLETTUALE
 
-### SOTTOSEZIONE 1
-
-#### PRINCIPI
+**SOTTOSEZIONE 1 - PRINCIPI**
 
 ###### ARTICOLO 139
 
@@ -2420,7 +2410,7 @@ Trasferimento di tecnologie
 
 3\. La parte CE facilita e promuove la concessione di incentivi alle istituzioni e alle imprese ubicate sul suo territorio per il trasferimento di tecnologie a istituzioni e imprese degli Stati del CARIFORUM cosi' da consentire a detti Stati di dotarsi di una base tecnologica solida. La parte CE si adopera per sottoporre alla discussione e all'esame del comitato CARIFORUM-CE per il commercio e lo sviluppo le eventuali misure di cui e' a conoscenza.
 
-## SOTTOSEZIONE 2 - NORME RELATIVE AI DIRITTI DI PROPRIETA' INTELLETTUALE
+**SOTTOSEZIONE 2 - NORME RELATIVE AI DIRITTI DI PROPRIETA' INTELLETTUALE**
 
 ###### ARTICOLO 143
 
@@ -2664,7 +2654,7 @@ b) in sede OMC i temi concernenti il rapporto tra l'accordo TRIPS, la convenzion
 
 6\. Al termine dei dibattiti multilaterali sui temi di cui al paragrafo 5 e tenuto conto degli esiti di tali dibattiti, la parte CE e gli Stati del CARIFORUM firmatari convengono di rivedere il presente articolo in sede di Consiglio congiunto CARIFORUM-CE, su richiesta della parte CE o di uno Stato del CARIFORUM firmatario.
 
-## SOTTOSEZIONE 3 - RISPETTO DEI DIRITTI DI PROPRIETA' INTELLETTUALE
+**SOTTOSEZIONE 3 - RISPETTO DEI DIRITTI DI PROPRIETA' INTELLETTUALE**
 
 ###### ARTICOLO 151
 
@@ -2830,7 +2820,7 @@ ii) un'indicazione geografica.
 
 La parte CE e gli Stati del CARIFORUM firmatari decidono di collaborare per ampliare il campo di applicazione di questa definizione in modo che comprenda le merci che violano qualsiasi diritto di proprieta' intellettuale.
 
-## SOTTOSEZIONE 4 - COOPERAZIONE
+**SOTTOSEZIONE 4 - COOPERAZIONE**
 
 ###### ARTICOLO 164
 
@@ -2848,7 +2838,7 @@ c) l'individuazione dei prodotti che potrebbero essere protetti come indicazioni
 
 d) l'elaborazione da parte delle associazioni o degli organismi professionali o di categoria, di concerto con le autorita' competenti delle parti e degli Stati del CARIFORUM firmatari, di codici di condotta che contribuiscano a garantire il rispetto dei diritti di proprieta' intellettuale.
 
-## CAPO 3 - APPALTI PUBBLICI
+#### CAPO 3 - APPALTI PUBBLICI
 
 ###### ARTICOLO 165
 
@@ -3216,7 +3206,7 @@ b) l'istituzione e il mantenimento di sistemi e meccanismi adeguati che agevolin
 
 c) la creazione di uno strumento on line a livello regionale per dare effettiva pubblicita' alle informazioni sulle opportunita' d'appalto, in modo da sensibilizzare tutte le imprese in merito a tali procedure.
 
-## CAPO 4 - AMBIENTE
+#### CAPO 4 - AMBIENTE
 
 ###### ARTICOLO 183
 
@@ -3310,7 +3300,7 @@ e) assistenza ai produttori nello sviluppo e/o nel miglioramento della produzion
 
 f) promozione della sensibilizzazione dei cittadini e dei programmi educativi in materia di beni e servizi ambientali in modo da favorire gli scambi di tali prodotti tra le parti.
 
-## CAPO 5 - ASPETTI SOCIALI
+#### CAPO 5 - ASPETTI SOCIALI
 
 ###### ARTICOLO 191
 
@@ -3382,7 +3372,7 @@ c) i programmi educativi e di sensibilizzazione, comprendenti la formazione prof
 
 d) l'effettiva applicazione delle disposizioni legislative e regolamentari del lavoro nazionali, comprese iniziative di formazione e potenziamento delle capacita' degli ispettori del lavoro, e promozione della responsabilita' sociale delle imprese mediante l'informazione del pubblico e la rendicontazione (reporting).
 
-## CAPO 6 - PROTEZIONE DEI DATI PERSONALI
+#### CAPO 6 - PROTEZIONE DEI DATI PERSONALI
 
 ###### ARTICOLO 197
 
@@ -3494,7 +3484,7 @@ Ambito di applicazione
 
 2\. In deroga a quanto disposto dal paragrafo 1, nei casi di controversie relative alla cooperazione per il finanziamento dello sviluppo contemplata dall'accordo di Cotonou si applica la procedura di cui all'articolo 98 dell'accordo di Cotonou.
 
-## CAPO 1 - CONSULTAZIONI E MEDIAZIONE
+#### CAPO 1 - CONSULTAZIONI E MEDIAZIONE
 
 ###### ARTICOLO 204
 
@@ -3528,11 +3518,9 @@ Mediazione
 
 5\. Gli atti relativi alla mediazione, in particolare tutte le informazioni comunicate e le posizioni assunte dalle parti nel corso del procedimento, rimangono riservate.
 
-## CAPO 2 - PROCEDURE PER LA RISOLUZIONE DELLE CONTROVERSIE
+#### CAPO 2 - PROCEDURE PER LA RISOLUZIONE DELLE CONTROVERSIE
 
-### SEZIONE 1
-
-#### PROCEDURA DI ARBITRATO
+##### SEZIONE 1 - PROCEDURA DI ARBITRATO
 
 ###### ARTICOLO 206
 
@@ -3574,7 +3562,7 @@ Lodo del collegio arbitrale
 
 3\. Ciascuna parte puo' richiedere al collegio arbitrale di formulare una raccomandazione su come la parte convenuta possa rendersi adempiente. In caso di controversia riguardante l'interpretazione e l'applicazione del titolo IV, capi 4 o 5, il collegio arbitrale formula anche una raccomandazione su come garantire il rispetto delle pertinenti disposizioni di tali capi.
 
-## SEZIONE 2 - ESECUZIONE
+##### SEZIONE 2 - ESECUZIONE
 
 ###### ARTICOLO 210
 
@@ -3630,7 +3618,7 @@ Riesame delle misure prese per dare esecuzione al lodo successivamente all'adozi
 
 3\. Qualora non sia possibile ricostituire, in tutto o in parte, il collegio arbitrale originario, si applicano le procedure di cui all'articolo 207. Il termine per la notifica della decisione e' di sessanta giorni dalla data della richiesta di cui al paragrafo 2.
 
-## SEZIONE 3 - DISPOSIZIONI COMUNI
+##### SEZIONE 3 - DISPOSIZIONI COMUNI
 
 ###### ARTICOLO 215
 

@@ -170,7 +170,7 @@ Disavanzo al 31 dicembre 1996 . . . L. 413.039.524.883.139
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-## CAPO II - CONTO GENERALE DEL PATRIMONIO
+### CAPO II - CONTO GENERALE DEL PATRIMONIO
 
 #### Art. 8 - Risultati generali della gestione patrimoniale
 
@@ -291,7 +291,7 @@ Saldo attivo effettivo dell'esercizio 1996 L. 51.255.399.755
  -----------------
 ```
 
-## CAPO II - ISTITUTO AGRONOMICO PER L'OLTREMARE
+### CAPO II - ISTITUTO AGRONOMICO PER L'OLTREMARE
 
 #### Art. 12 - Entrate
 
@@ -327,7 +327,7 @@ dell'esercizio
  -----------------
 ```
 
-## CAPO III - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
+### CAPO III - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
 #### Art. 14 - Entrate
 
@@ -394,7 +394,7 @@ Spese dell'esercizio 1997 ............ " 10.197.725.247.977
 
 Saldo della gestione di competenza .......................... L. -
 
-## CAPO IV - ARCHIVI NOTARILI
+### CAPO IV - ARCHIVI NOTARILI
 
 #### Art. 18 - Avanzo
 
@@ -408,7 +408,7 @@ Avanzo ... L. 61.143.449.514
  ------------------
 ```
 
-## CAPO V - FONDO EDIFICI DI CULTO
+### CAPO V - FONDO EDIFICI DI CULTO
 
 #### Art. 19 - Entrate
 
@@ -523,7 +523,7 @@ Ciampi, Ministro del tesoro, del bilancio e della programmazione economica
 
 Visto, il Guardasigilli: Diliberto
 
-## CAPO V - FONDO EDIFICI DI CULTO
+### CAPO V - FONDO EDIFICI DI CULTO
 
 #### Allegato 1
 

@@ -25,7 +25,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 promulga la seguente legge costituzionale:
 
-### Art. 1
+## Art. 1
 
 Per la elezione del Senato della Repubblica i comuni di Trieste,
 
@@ -33,7 +33,7 @@ Duino Aurisina, Monrupino, Muggia, San Dorligo della Valle e Sgonico formano pro
 
 ## DISPOSIZIONE TRANSITORIA
 
-### Art. 2
+## Art. 2
 
 La presente legge si applica anche per la integrazione del Senato in funzione al momento della entrata in vigore della legge ordinaria recante le norme per la elezione dei Senatori assegnati alla circoscrizione di Trieste.
 

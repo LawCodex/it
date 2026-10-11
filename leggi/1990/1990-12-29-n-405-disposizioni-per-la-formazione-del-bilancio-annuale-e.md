@@ -28,11 +28,9 @@ PROMULGA
 
 la seguente legge:
 
-## Capo I. - DISPOSIZIONI
+## Capo I. - DISPOSIZIONI DI CARATTERE FINANZIARIO
 
-### DI CARATTERE FINANZIARIO
-
-#### Art. 1
+### Art. 1
 
 1\. Per l'anno 1991, il limite massimo del saldo netto da finanziare resta determinato in termini di competenza in lire 118.400 miliardi.
 
@@ -78,7 +76,7 @@ Tenuto conto delle operazioni di rimborso dei prestiti, il livello massimo del r
 
 > 6\. In ogni caso, ferme restando le modalita' di copertura di cui al comma 5, le nuove o maggiori spese disposte con la legge finanziaria non possono concorrere a determinare tassi di evoluzione delle spese medesime, sia correnti che in conto capitale, incompatibili con le regole determinate, ai sensi dell'art. 3 del comma 2, lettera e), nel documento di programmazione economico-finanziaria, come deliberato dal Parlamento".
 
-#### Art. 2
+### Art. 2
 
 1\. Il maggior gettito eventualmente derivante in ciascuno degli anni 1991, 1992 e 1993, per effetto di provvedimenti legislativi recanti nuove e maggiori entrate rispetto alle previsioni di entrate contemplate nella legge di bilancio, per ciscuno di detti anni, e' interamente destinato alla riduzione del saldo netto da finanziare nell'anno corrispondente, quale indicato all'articolo 1, salvo che si tratti di assicurare la copertura finanziaria di interventi urgenti per fronteggiare calamita' naturali o improrogabili esigenze connesse alla tutela della sicurezza del Paese o situazioni di emergenza economico-finanziaria.
 
@@ -136,11 +134,9 @@ Tenuto conto delle operazioni di rimborso dei prestiti, il livello massimo del r
 
 > "Sui prestiti contratti all'estero dal Consorzio nazionale di credito agrario di miglioramento e dagli altri istituti di credito, abilitati per legge ad operare nel settore del credito agrario di miglioramento, da destinare ad operazione di durata ultraquinquennale, puo' essere accordata la garanzia dello Stato per il rischio di cambio per le variazioni eccedenti il 2 per cento intervenute nel tasso di cambio tra la data del pagamento della rata e quella della conversione in lire della valuta mutuata fino al controvalore massimo in linea capitale di 1.000 miliardi di lire negli anni 1985-1988".
 
-## Capo II. - DISPOSIZIONI
+## Capo II. - DISPOSIZIONI IN MATERIA DI ENTRATE
 
-### IN MATERIA DI ENTRATE
-
-#### Art. 3
+### Art. 3
 
 1\. In relazione a quanto disposto con il decreto del Presidente del Consiglio dei ministri 28 settembre 1990, pubblicato nella Gazzetta Ufficiale n. 228 del 29 settembre 1990, emanato in applicazione dell'articolo 3, comma 2, del decreto-legge 2 marzo 1989, n. 69, convertito con modificazioni, dalla legge 27 aprile 1989, n. 154 le minori entrate per imposta sul reddito delle persone fisiche per gli anni 1991, 1992 e 1993 sono valutate, rispettivamente, in lire 2.800 miliardi, lire 4.300 miliardi e lire 4.500 miliardi.
 
@@ -152,7 +148,7 @@ Tenuto conto delle operazioni di rimborso dei prestiti, il livello massimo del r
 
 > Il primo decreto sara' emanato entro il 30 settembre 1989".
 
-#### Art. 4
+### Art. 4
 
 1\. Per il versamento d'acconto dell'imposta sul reddito delle persone fisiche, nonche' per quello dell'imposta locale sui redditi, da effettuarsi a partire dall'anno 1991 da parte dei contribuenti diversi dalle societa' e dagli enti soggetti all'imposta sul reddito delle persone giuridiche, continua ad applicarsi la misura del 95 per cento. Per il versamento d'acconto dell'imposta sul reddito delle persone giuridiche, nonche' per quello dell'imposta locale sui redditi, da effettuarsi da parte dei soggetti all'imposta sul reddito delle persone giuridiche, continua ad applicarsi la misura del 98 per cento anche per i periodi successivi a quelli indicati all'articolo 4, comma 1, della legge 11 marzo 1988 n. 67.
 
@@ -182,7 +178,7 @@ AGGIORNAMENTO (4)
 
 Il D.L. 1 ottobre 1991, n. 307, convertito con modificazioni dalla L. 29 novembre 1991, n. 377, ha disposto (con l'art.1, comma 1) che "In deroga a quanto disposto nel comma 2 dell'articolo 4 della legge 29 dicembre 1990, n. 405, la ritenuta sugli interessi, premi e altri frutti derivanti dai certificati di deposito e dai depositi nominativi raccolti dalle aziende di credito e vincolati a non oltre dodici mesi, e' elevata dal 25 al 30 per cento".
 
-#### Art. 5
+### Art. 5
 
 1\. All'articolo 10, comma 1, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917 la lettera d) e' sostituita dalla seguente:
 
@@ -200,7 +196,7 @@ AGGIORNAMENTO (6)
 
 Il D.L. 30 dicembre 1991, n. 417, con modificazioni dalla L. 06 febbraio 1992, n. 66, ha disposto (con l'art. 2, comma 4) che la disposizione di cui al comma 2 del presente articolo "deve intendersi applicabile anche ai fini del computo della riduzione di cui al comma 3 dell'articolo 12 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917".
 
-#### Art. 6
+### Art. 6
 
 1\. Il primo comma dell'articolo 27 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 663, e' sostituito dal seguente:
 
@@ -254,7 +250,7 @@ Il D.L. 22 maggio 1993, n. 155, convertito con modificazioni dalla
 
 L. 19 luglio 1993, n. 243, ha disposto (con l'art. 15, comma 1) che "La misura dei versamenti di acconto dell'imposta sul valore aggiunto, previsti dall'articolo 6, commi 2 e 3, della legge 29 dicembre 1990, n. 405, modificato dall'articolo 1, comma 6, del decreto-legge 13 maggio 1991, n. 151, convertito, con modificazioni, dalla legge 12 luglio 1991, n. 202, del 65 e 70 per cento e' unificata ed elevata all'88 per cento".
 
-#### Art. 7
+### Art. 7
 
 1\. A decorrere dal 1o gennaio 1991 le misure dell'imposta fissa di bollo, in qualsiasi modo dovuta, previste nella tariffa allegata A annessa al decreto del Presidente della Repubblica 26 ottobre 1972, n. 642, in lire 3.300, lire 4.000 e lire 5.500, sono stabilite nella misura unica di lire 10.000.
 
@@ -280,7 +276,7 @@ L. 19 luglio 1993, n. 243, ha disposto (con l'art. 15, comma 1) che "La misura d
 
 > E' vietato usare marche deteriorate o usate in precedenza".
 
-#### Art. 8
+### Art. 8
 
 1\. Le aliquote dell'imposta di fabbricazione e della corrispondente sovrimposta di confine sui seguenti prodotti petroliferi, vigenti dalla data del 31 agosto 1990, sono aumentate a decorrere dal 1° gennaio 1991 nelle seguenti misure:
 
@@ -302,7 +298,7 @@ c) di lire 2.494 per ettolitro, alla temperatura di 15 C, per olii da gas da u
 
 > \- Si trascrive il testo del comma 1 dell'art. 9 del D.L. 27 aprile 1990, n. 90, convertito, con modificazioni, dalla legge 26 giugno 1990, n. 165, concernente "Disposizioni in materia di determinazione del reddito ai fini delle imposte sui redditi, di rimborsi dell'imposta sul valore aggiunto e di contenzioso tributario, nonche' altre disposizioni urgenti", e' il seguente: "1. Con decreti del Presidente del Consiglio dei Ministri, su proposta del Ministro delle Finanze, di concerto con i Ministri del Tesoro, del bilancio e della programmazione economica e dell'industria, del commercio e dell'artigianato, previa deliberazione del Consiglio dei Ministri, puo' essere stabilito l'aumento o la riduzione dell'imposta di fabbricazione, e della corrispondente sovrimposta di confine sulle benzine speciali diverse dall'acqua ragia minerale, sulla benzina, sul petrolio diverso da quello lampante nonche' sul prodotto denominato "Jet Fuel JP4", sul petrolio lampante per uso di illuminazione e riscaldamento domestico, sugli oli e gas da usare come combustibile e sugli oli combustibili diversi, da quelli speciali, semifluidi, di cui rispettivamente alle lettere E), punto 1, D) punto 3, F) punto 1, H) punti 1-b), 1-c), e 1-d) della tabella B allegata alla legge 19 marzo 1973, n. 32. Gli aumenti o le riduzioni sono disposti fino all'importo delle variazioni di prezzi medi europei dei suddetti prodotti che comportano riduzioni o aumenti dei corrispondenti prezzi al consumo all'interno calcolati secondo il vigente metodo CIP. Per il "Jet Fuel JP4" gli aumenti o le riduzioni sono disposti in misura corrispondente al rapporto di tassazione rispetto all'aliquota normale; per oli combustibili diversi da quelli speciali, semifluidi, fluidi e fluidissimi gli aumenti o le riduzioni sono disposti in misura corrispondente alla variazione di aliquota apportata agli oli da gas e tenendo conto della quantita' di essi mediamente contenuta nei predetti oli combustibili. Per gli oli di gas l'aumento o la riduzione sono disposti in relazione alla sola variazione dei prezzi medi europei relativa alla destinazione per uso autotrazione, e nella stessa misura sono disposti gli aumenti e le riduzioni per il petrolio lampante per uso di illuminazione e riscaldamento domestico. I decreti di riduzione dell'imposta di fabbricazione e della corrispondente sovrimposta di confine possono essere adottati nei limiti di copertura consentiti dalle maggiori entrate gia' acquisite, rinvenienti da precedenti decreti di aumento dell'imposizione emanati ai sensi del presente comma, nonche' ai sensi della legge 9 ottobre 1987, n. 417. I decreti e il comunicato CIP devono essere pubblicati contestualmente nella Gazzetta Ufficiale ed hanno effetto dalla data della loro pubblicazione".
 
-#### Art. 9
+### Art. 9
 
 1\. A decorrere dal 1° gennaio 1991, l'imposta di consumo sul gas metano usato come combustibile per impieghi diversi da quelli delle imprese industriali, ed artigiane e' aumentata a lire 206 al metro cubo. Nei territori di cui all'articolo 1 del testo unico, delle leggi sugli interventi nel Mezzogiorno, approvato con decreto del Presidente della Repubblica 6 marzo 1978, n. 218, l'imposta e' dovuta nella misura di lire 112 al metro cubo.
 
@@ -318,7 +314,7 @@ c) di lire 2.494 per ettolitro, alla temperatura di 15 C, per olii da gas da u
 
 > Gli interventi comunque previsti da leggi in favore del Mezzogiorno d'Italia, escluse quelle che hanno specifico riferimento ad una zona particolare, si intendono, in ogni caso, estesi a tutti i territori indicati nel presente articolo".
 
-#### Art. 10
+### Art. 10
 
 1\. Fino al 31 dicembre 1991, le aliquote di imposta sugli spettacoli previste ai numeri 1 e 2 della tariffa annessa al decreto del Presidente della Repubblica 26 ottobre 1972, n. 640, sono stabilite nella misura dell'8 per cento, quella prevista al numero 3 della stessa tariffa e stabilita nella misura del 15 per cento e quella prevista al numero 4 e' stabilita nella misura del 4 per cento.
 
@@ -332,11 +328,9 @@ AGGIORNAMENTO (5)
 
 La L. 31 dicembre 1991, n. 415 ha disposto (con l'art. 3, comma 5) che "Il termine del 31 dicembre 1991, previsto dall'articolo 10, comma 3, della legge 29 dicembre 1990, n. 405, concernente l'abbuono d'imposta sugli spettacoli a favore delle imprese esercenti le sale cinematografiche, di cui all'articolo 2 della legge 13 luglio 1984, n. 313, e' ulteriormente prorogato al 31 dicembre 1992".
 
-## Capo III. - DISPOSIZIONI
+## Capo III. - DISPOSIZIONI PER IL SETTORE DEI TRASPORTI
 
-### PER IL SETTORE DEI TRASPORTI
-
-#### Art. 11
+### Art. 11
 
 1\. Per l'anno 1991, il Fondo nazionale per il ripiano dei disavanzi di esercizio delle aziende di trasporto pubbliche e private nelle regioni a statuto ordinario e' stabilito in lire 4.411 miliardi, ivi compresa la variazione da determinarsi ai sensi dell'articolo 9 della legge 10 aprile 1981, n. 151, modificato dall'articolo 27-quater del decreto-legge 22 dicembre 1981, n. 786, convertito, con modificazioni, della legge 26 febbraio 1982, n. 51.
 
@@ -458,11 +452,9 @@ c) quanto alla letera d) sovvenzioni straordinarie ai fini dell'equilibrio del b
 
 > \- Il testo dell'art. 21, ultimo comma, della legge 17 maggio 1985, n. 210 concernente "Istituzione dell'ente Ferrovie dello Stato", e' il seguente: "Fino a quando non sara' disciplinato l'assetto generale del trattamento previdenziale e pensionistico dei lavoratori dipendenti, rimane fermo il trattamento in atto all'entrata in vigore, della presente legge, trasferendosene a carico dell'ente "Ferrovie dello Stato" l'onere finanziario finora gravante sullo Stato", salvo le compensazioni dovute in forza dei regolamenti comunitari".
 
-## Capo IV. - DISPOSIZIONI
+## Capo IV. - DISPOSIZIONI IN MATERIA DI FINANZA REGIONALE
 
-### IN MATERIA DI FINANZA REGIONALE
-
-#### Art. 12
+### Art. 12
 
 1\. La quota variabile del fondo per il finanziamento dei programmi regionali di sviluppo di cui all'articolo 3, comma 1, lettera b), della legge 14 giugno 1990, n. 158, al netto degli stanziamenti annuali previsti dalle leggi di settore, e' determinata per gli anni 1991, 1992 e 1993 nella misura, rispettivamente, di lire 68 miliardi, lire 137 miliardi e lire 210 miliardi.
 
@@ -470,11 +462,9 @@ c) quanto alla letera d) sovvenzioni straordinarie ai fini dell'equilibrio del b
 
 > \- Il testo dell'art. 3, primo comma, lettera b), della legge 14 giugno 1990, n. 158, concernente "Norme di delega in materia di autonomia impositiva delle regioni e altre disposizioni concernenti i rapporti finanziari tra lo Stato e le regioni", e' il seguente: "b) da una quota variabile, determinata con la legge finanziaria su base triennale, comprensiva degli stanziamenti annuali previsti dalle vigenti leggi di settore".
 
-## Capo V. - DISPOSIZIONI
+## Capo V. - DISPOSIZIONI IN MATERIA DI PREVIDENZA
 
-### IN MATERIA DI PREVIDENZA
-
-#### Art. 13
+### Art. 13
 
 1\. L'importo dei versamenti dello Stato all'INPS, per il concorso agli oneri della gestione degli interventi assistenziali e di sostegno alle gestioni previdenziali, ai fini della progressiva assunzione degli oneri stessi a carico del bilancio, dello Stato, ai sensi dell'articolo 37 della legge 9 marzo 1989, n. 88, e' complessivamente stabilito per l'anno 1991 in lire 2.600 miliardi, di cui lire 1.106 miliardi a titolo di adeguamento della quota parte di mensilita' delle pensioni erogate dal fondo pensioni lavoratori dipendenti, dalle gestioni dei lavoratori autonomi, dalla gestione speciale minatori e dall'ENPALS ai sensi del comma 3, lettera c), del suddetto articolo 37. Conseguentemente, la somma di cui all'articolo 21, comma 3, della legge 11 marzo 1988, n. 67, resta determinata in lire 19.537 miliardi per l'anno 1991 ed e' assegnata per lire 14.617 miliardi al fondo pensioni lavoratori dipendenti per lire 1.000 miliardi alla gestione esercenti attivita' commerciali, per lire 1.035 miliardi alla gestione artigiani, per lire 2.814 miliardi alla gestione coltivatori diretti, per lire 3 miliardi alla gestione speciale minatori e per lire 68 miliardi all'ENPALS.
 
@@ -576,7 +566,7 @@ c) quanto alla letera d) sovvenzioni straordinarie ai fini dell'equilibrio del b
 
 ## Capo VI. - DISPOSIZIONI DIVERSE
 
-#### Art. 14
+### Art. 14
 
 1\. Le disposizioni della presente legge sono applicabili nelle regioni a statuto speciale e nelle province autonome di Trento e Bolzano compatibilmente con le norme dei rispettivi statuti.
 
@@ -596,7 +586,7 @@ Visto, il Guardasigilli: VASSALLI.
 
 ## Capo VI. - DISPOSIZIONI DIVERSE
 
-#### Tabella A
+### Tabella A
 
 TABELLA A
 
@@ -1830,7 +1820,7 @@ alla manovra 1992 e 1993.....
 
 (b) Accantonamento collegato, ai sensi dell'articolo 11-bis, comma 2, della legge 5 agosto 1978, n. 468, alla voce: Amministrazioni diverse - Interventi per favorire la riorganizzazione dell'apparato produttivo e misure di politica attiva del lavoro.
 
-#### Tabella B
+### Tabella B
 
 TABELLA B
 
@@ -2970,7 +2960,7 @@ TOTALE TABELLA B...
 
 10.767.846 19.075.741 26.962.991
 
-#### Tabella C
+### Tabella C
 
 TABELLA C
 
@@ -4430,7 +4420,7 @@ TOTALE TABELLA C...
 
 89.296.077 104.024.242 112.360.892
 
-#### Tabella D
+### Tabella D
 
 TABELLA D
 
@@ -4580,7 +4570,7 @@ mercantile - cap. 7601/Ambiente - cap.
 
 TOTALE TABELLA D....... 2.290.000
 
-#### Tabella E
+### Tabella E
 
 TABELLA E
 
@@ -4872,7 +4862,7 @@ Legge n. 910 del 1986
 
 (legge finanziaria 1987):
 
-#### Art. 8, comma 15 -
+### Art. 8, comma 15 -
 
 Costruzione di un bacino di
 
@@ -8252,7 +8242,7 @@ dell'anno 1993 e milioni 100.000 quale parte della quota
 
 dell'anno 1994.
 
-#### Tabella 1
+### Tabella 1
 
 TABELLA 1
 
@@ -8392,7 +8382,7 @@ caratteristiche, non siano raggrupabili in
 
 classi)................................ da E/1 a E/9 375
 
-#### Tabella 2
+### Tabella 2
 
 TABELLA 2.
 

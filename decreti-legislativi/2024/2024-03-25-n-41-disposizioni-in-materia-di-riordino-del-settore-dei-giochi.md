@@ -671,7 +671,7 @@ Responsabilita'
 
 > 7\. Ai soli fini di contabilita' pubblica si applicano i contenuti delle decisioni Eurostat. In ogni caso, l'eventuale riconoscimento di un contributo pubblico, in misura superiore alla percentuale indicata nelle decisioni Eurostat e calcolato secondo le modalita' ivi previste, non ne consente la contabilizzazione fuori bilancio.».
 
-## Capo II - Rete telematica e punti vendita di ricariche
+### Capo II - Rete telematica e punti vendita di ricariche
 
 #### Art. 12
 
@@ -961,7 +961,7 @@ Manutenzione dei prodotti di gioco
 
 > 14\. Le disposizioni contenute nei provvedimenti legislativi di iniziativa governativa che prevedono l'incremento o la riduzione di stanziamenti di bilancio indicano anche le missioni di spesa e i relativi programmi interessati.».
 
-## Capo II - Giochi numerici e lotterie a estrazione istantanea
+### Capo II - Giochi numerici e lotterie a estrazione istantanea
 
 #### Art. 21
 

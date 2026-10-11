@@ -44,7 +44,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le Comunicazioni, di 
 
 Abbiamo decretato e decretiamo:
 
-### Art. 1
+## Art. 1
 
 I concessionari di stazioni trasmittenti per servizio di radioaudizione o di radiotelegrafia circolare pagano un canone annuo anticipato non inferiore a L. 5000, il cui ammontare sara' fissato nel decreto di concessione per ogni stazione trasmittente. ((16))
 
@@ -62,7 +62,7 @@ Il D.Lgs. del Capo Provvisorio dello Stato 30 maggio 1947, n. 656 ha disposto (c
 
 Ha inoltre disposto (con l'art. 4, comma 1) che la presente modifica ha effetto dal 1° gennaio 1947.
 
-### Art. 2
+## Art. 2
 
 E' data facolta' al Ministero delle comunicazioni di accordare speciali licenze per l'impianto e l'uso di stazioni radioelettriche trasmittenti e riceventi a scopo di studio, ricerche scientifiche, prove od esperienze.
 
@@ -72,7 +72,7 @@ Dal pagamento della suddetta tassa e diritto di licenza sono esenti i Regi istit
 
 Nel regolamento saranno stabilite le modalita' per ottenere le licenze di cui al primo comma del presente articolo e le condizioni tecniche cui gl'impianti dovranno soddisfare.
 
-### Art. 3
+## Art. 3
 
 I costruttori di apparecchi radioriceventi o di organi essenziali, gravati da tasse, di cui al successivo art. 15, hanno obbligo di munirsi di speciale licenza rilasciata dal Ministero delle comunicazioni, dietro pagamento di un canone annuo di L. 500, di cui L. 250 a favore del Ministero delle comunicazioni e L. 250 a favore del Ministero delle finanze.
 
@@ -88,11 +88,11 @@ AGGIORNAMENTO (3)
 
 La L. 8 gennaio 1931, n. 234 ha disposto (con l'art. 1, comma 1) che "L'obbligo fatto dagli articoli 3 e 6 del R. decreto-legge 23 ottobre 1925, n.1917, convertito nella legge 18 marzo 1926, n. 562, ai costruttori e commercianti di materiali per radioaudizioni circolari di munirsi della licenza rilasciata dal Ministero delle comunicazioni, viene esteso indistintamente a tutti i costruttori e commercianti di materiale radioelettrico di qualsiasi tipo, compresi i rappresentanti di commercio degli stessi materiali".
 
-### Art. 4
+## Art. 4
 
 I costruttori di cui all'articolo precedente, all'atto della richiesta della licenza, debbono dimostrare di essere regolarmente inscritti per l'industria degli apparecchi radioriceventi alla Camera di commercio del luogo in cui esercitano la propria attivita' industriale.
 
-### Art. 5
+## Art. 5
 
 I costruttori di cui agli articoli precedenti debbono tenere un registro di carico e scarico degli apparecchi completi nonche' degli organi essenziali costruiti, da sottoporsi al preventivo bollo dell'ufficio del registro ed al preventivo visto dell'ufficio tecnico di finanza. (8) (9) (10) ((17))
 
@@ -126,7 +126,7 @@ AGGIORNAMENTO (17)
 
 La L. 12 novembre 1949, n. 996 ha disposto (con l'art. 1, comma 1) che "L'obbligo della tenuta del registro di carico e scarico di cui all'art. 5 del regio decreto-legge 23 ottobre 1925, n. 1917 ed all'art. 17 del regio decreto-legge 21 febbraio 1938, n. 246, e' abolito per i commercianti, riparatori, rappresentanti ed agenti di vendita".
 
-### Art. 6
+## Art. 6
 
 Chiunque venda o intenda vendere, o comunque eserciti il commercio di apparecchi radioelettrici e di parti di essi deve ottenere dal Ministero delle comunicazioni una licenza, la quale sara' concessa dietro pagamento di una tassa di L. 50 a favore del Ministero delle comunicazioni e di altre L. 50 a favore del Ministero delle finanze.
 
@@ -142,7 +142,7 @@ AGGIORNAMENTO (3)
 
 La L. 8 gennaio 1931, n. 234 ha disposto (con l'art. 1, comma 1) che "L'obbligo fatto dagli articoli 3 e 6 del R. decreto-legge 23 ottobre 1925, n.1917, convertito nella legge 18 marzo 1926, n. 562, ai costruttori e commercianti di materiali per radioaudizioni circolari di munirsi della licenza rilasciata dal Ministero delle comunicazioni, viene esteso indistintamente a tutti i costruttori e commercianti di materiale radioelettrico di qualsiasi tipo, compresi i rappresentanti di commercio degli stessi materiali".
 
-### Art. 7
+## Art. 7
 
 Chiunque intenda ricevere le radiotrasmissioni circolari dev'essere munito di apposita licenza-abbonamento.
 
@@ -178,7 +178,7 @@ AGGIORNAMENTO (15)
 
 Il D.Lgs. del Capo Provvisorio dello Stato 23 agosto 1946, n. 211 ha disposto (con l'art. 1, comma 1) che "La misura del diritto fisso sulle licenze speciali di radioaudizioni prevista, dal 3° comma dell'art. 7 del regio decreto-legge 23 ottobre 1925, n. 1917, convertito nella legge 18 marzo 1926, n. 562, aumentata dall'articolo 14 del regio decreto legge 4 ottobre 1934, n. 1691, convertito nella legge 11 aprile 1935, n. 762, viene elevata a lire 20".
 
-### Art. 8
+## Art. 8
 
 L'importo dell'abbonamento e' stabilito in ragione di L. 8 mensili.
 
@@ -208,11 +208,11 @@ AGGIORNAMENTO (12)
 
 La L. 22 marzo 1943, n. 502 ha disposto (con l'art. 2, comma 1) che "Per le organizzazioni indicate nell'articolo precedente e' ridotto del 25 per cento il canone annuo di abbonamento alle radioaudizioni, di cui all'art. 8 del Regio decreto legge 23 ottobre 1925-III, n. 1917, convertito nella legge 18 marzo 1926-IV, n. 562".
 
-### Art. 9
+## Art. 9
 
 Le eventuali variazioni dell'entita' del canone di abbonamento di cui all'art. 8 e dell'entita' delle tasse di cui all'articolo 15 possono essere fatte con decreto del Ministero delle comunicazioni.
 
-### Art. 10
+## Art. 10
 
 I prezzi di abbonamento di cui all'art. 8 riguardano gli utenti privati.
 
@@ -220,27 +220,27 @@ I prezzi di abbonamento di cui all'art. 8 riguardano gli utenti privati.
 
 I commercianti e i rivenditori di apparecchi radioelettrici atti o adattabili alla ricezione sono tenuti a pagare per ogni magazzino di vendita la tassa di licenza di cui all'art. 7 del presente decreto e la tariffa normale di abbonamento.
 
-### Art. 11
+## Art. 11
 
 Il concessionario godra' degli stessi diritti di cui nel contratto di concessione per tutte le Colonie che l'Italia possiede nel bacino del Mediterraneo.
 
-### Art. 12
+## Art. 12
 
 E' vietato ritrasmettere per filo adibito sia ad uso pubblico che privato le radioaudizioni circolari.
 
 Solo la societa' concessionaria dei servizi di radiotrasmissione circolare potra' ottenere, caso per caso, tale permesso dal Ministero delle comunicazioni.
 
-### Art. 13
+## Art. 13
 
 Alle linee che collegano gli impianti microfonici destinati alla radiotrasmissione circolare con le relative stazioni di trasmissione, saranno estese le disposizioni per l'espropriazione a scopo di pubblica utilita' di cui agli articoli 5 e 6 del R. decreto-legge 3 maggio 1903, n. 196, e degli articoli 13 e seguenti del regolamento approvato con R. decreto 21 maggio 1903, n. 253.
 
-### Art. 14
+## Art. 14
 
 I costruttori e i rivenditori di apparecchi radioelettrici riceventi per i servizi di radioaudizione circolare non sono tenuti ad inviare al Ministero delle comunicazioni per l'approvazione, il campione degli apparecchi da mettere in commercio.
 
 Nel regolamento saranno indicate le caratteristiche tecniche e le condizioni alle quali devono soddisfare i diversi tipi degli apparecchi suddetti.
 
-### Art. 15
+## Art. 15
 
 Gli apparecchi riceventi a valvole e quelli a cristallo, le valvole termoioniche, gli altoparlanti, i ricevitori, i Condensatori variabili, e i trasformatori sono sottoposti a tassa nella misura seguente:
 
@@ -322,7 +322,7 @@ AGGIORNAMENTO (18)
 
 La L. 27 maggio 1959, n. 398, nel modificare l'art. 8, penultimo comma del Regio D.L. 17 novembre 1927, n. 2207, convertito senza modificazioni dalla L. 17 maggio 1928, n. 1350, ha conseguentemente disposto (con l'art. 2, comma 1) che la presente modifica ha effetto per le tasse radiofoniche corrisposte dai contribuenti dal 1° luglio 1959.
 
-### Art. 16
+## Art. 16
 
 Sono competenti all'accertamento delle contravvenzioni alle disposizioni del presente decreto:
 
@@ -342,15 +342,15 @@ AGGIORNAMENTO (2)
 
 Il Regio D.L. 17 novembre 1927, n. 2207, convertito senza modificazioni dalla L. 17 maggio 1928, n. 1350, ha disposto (con l'art. 18, comma 1) che "Oltre al personale di cui all'art. 16 del R. decreto-legge 23 ottobre 1925, n. 1917, sono competenti ad accertare 16 contravvenzioni gli ufficiali, sottufficiali e militi della Milizia nazionale".
 
-### Art. 17
+## Art. 17
 
 Ai funzionari ed agli agenti accertatori delle contravvenzioni contemplate dal presente decreto, compete sul prodotto netto della pena pecuniaria riscossa, la compartecipazione nella misura stabilita dall'art. 51 della legge sul bollo approvato con R. decreto 30 dicembre 1923, n. 3268.
 
-### Art. 18
+## Art. 18
 
 La vigilanza nelle fabbriche, sul commercio e sulla rivendita degli apparecchi radioelettrici, puo' essere esercitata anche presso gli opifici, magazzini, depositi e negozi di qualsiasi altro materiale od apparecchio, quando vi sia fondato sospetto che si fabbrichi o si eserciti il commercio di materiale radioelettrico.
 
-### Art. 19
+## Art. 19
 
 Le contravvenzioni sono accertate con processo verbale in doppio originale, cui devono unirsi gli atti, scritti o registri in contravvenzione o che costituiscano la prova della contravvenzione stessa.
 
@@ -366,13 +366,13 @@ In questo caso si fa constare nel processo verbale del pagamento avvenuto e dell
 
 Il contravventore e' obbligato a presentare all'Intendenza di finanza ed all'autorita' giudiziaria, prima della pronunzia della decisione o della sentenza, le carte ritirate. Ove non le presenti, o le presenti alterate, si hanno per veri i fatti risultanti dal verbale.
 
-### Art. 20
+## Art. 20
 
 Per l'accertamento delle contravvenzioni valgono le disposizioni degli articoli 51 e 52 della legge sugli scambi approvata con decreto del 30 dicembre 1923, n. 3273.
 
 La presenza dell'aereo o di dispositivi, connessioni atti a sostituire l'aereo stesso, ed anche la presenza di linee interne necessarie per il funzionamento di apparecchi radioelettrici, costituisce prova sufficiente per l'uso di detti apparecchi.
 
-### Art. 21
+## Art. 21
 
 Ogni contravvenzione alle disposizioni dei precedenti articoli e' punita con le seguenti pene pecuniarie, oltre alle maggiori sanzioni stabilite dal Codice penale, al pagamento delle tasse, diritti e canoni non corrisposti, ed alla confisca, in caso di recidiva, degli apparecchi ed accessori in contravvenzione gravati di tassa:
 
@@ -390,29 +390,29 @@ AGGIORNAMENTO (2)
 
 Il Regio D.L. 17 novembre 1927, n. 2207, convertito senza modificazioni dalla L. 17 maggio 1928, n. 1350, ha disposto (con l'art. 20, comma 1) che "La pena pecuniaria di cui al 3° comma dell'art. 21 del citato R. decreto 23 ottobre 1925, n. 1917, comminata contro gli abusivi detentori di apparecchi, e' stabilita in L. 500".
 
-### Art. 22
+## Art. 22
 
 Per i delitti in materia di bollo e per le contraffazioni delle licenze sono applicabili le pene stabilite dagli articoli 77, 78, 79, 80, Capo X della legge sul bollo approvata con R. decreto 30 dicembre 1923, n. 3268.
 
-### Art. 23
+## Art. 23
 
 La definizione delle contravvenzioni alle disposizioni del presente decreto e' regolata dal R. decreto 25 marzo 1923, n. 796.
 
 ## Disposizioni transitorie.
 
-### Art. 24
+## Art. 24
 
 Le condizioni tutte contemplate nei contratti di abbonamento in vigore vengono mantenute integralmente sino alla scadenza dei contratti stessi.
 
-### Art. 25
+## Art. 25
 
 I costruttori di apparecchi radioelettrici ed accessori gravati dalle tasse di cui all'art. 15, alla data di pubblicazione del presente decreto nella Gazzetta Ufficiale del Regno, hanno obbligo di presentare all'ufficio tecnico di finanza l'inventario degli apparecchi ed accessori sopradetti, e d'iscriverli a carico nel registro prescritto dall'art. 5.
 
-### Art. 26
+## Art. 26
 
 I detentori di apparecchi radioelettrici destinati alla ricezione delle radiotrasmissioni circolari non muniti di licenza e di abbonamento, hanno obbligo di ottemperare alle disposizioni di cui al presente Regio decreto-legge entro 30 giorni dalla data della sua pubblicazione nella Gazzetta Ufficiale del Regno.
 
-### Art. 27
+## Art. 27
 
 Ai commercianti e ai rivenditori di materiale radioelettrico ((tassabile)) ai sensi dell'art. 15 ed esistente nei magazzini in vendita alla data della pubblicazione del presente Regio decreto-legge, e' fatto obbligo della denunzia dei materiali stessi con regolare inventario all'ufficio tecnico di finanza.
 
@@ -420,17 +420,17 @@ I commercianti e i rivenditori stessi devono inoltre provvedersi subito di licen
 
 Le quietanze devono essere allegate al libro di carico e scarico.
 
-### Art. 28
+## Art. 28
 
 Gli apparecchi che alla data di pubblicazione del presente Regio decreto-legge sono gia' muniti del contrassegno di cui all'art. 5 del R. decreto-legge 1° maggio 1924, n. 655, sono esenti dal pagamento della tassa di cui al precedente art. 15.
 
 Sono tuttavia dovute le tasse sugli accessori contemplati nell'articolo stesso.
 
-### Art. 29
+## Art. 29
 
 E' abrogata ogni disposizione contraria al presente decreto.
 
-### Art. 30
+## Art. 30
 
 Il presente Regio decreto-legge andra' in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la sua conversione in legge.
 

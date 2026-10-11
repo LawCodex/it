@@ -60,11 +60,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Principi generali
 
-### Principi generali
-
-#### Art. 1
+### Art. 1
 
 Definizioni
 
@@ -272,7 +270,7 @@ e) per ANVUR, l'Agenzia nazionale di valutazione del sistema universitario e del
 
 > 10\. Sulla base di apposite convenzioni, le universita' italiane possono rilasciare i titoli di cui al presente articolo, anche congiuntamente con altri atenei italiani o stranieri.».
 
-#### Art. 2
+### Art. 2
 
 Oggetto
 
@@ -294,7 +292,7 @@ c) il potenziamento del sistema di autovalutazione della qualita' e dell'efficac
 
 > «2. L'Agenzia sovraintende al sistema pubblico nazionale di valutazione della qualita' delle universita' e degli enti di ricerca e, sulla base di un programma almeno annuale approvato dal Ministro, cura, ai sensi dell'articolo 3, la valutazione esterna della qualita' delle attivita' delle universita' e degli enti di ricerca pubblici e privati destinatari di finanziamenti pubblici; indirizza le attivita' di valutazione demandate ai nuclei di valutazione interna degli atenei e degli enti di ricerca; valuta l'efficienza e l'efficacia dei programmi pubblici di finanziamento e di incentivazione alle attivita' di ricerca e di innovazione.».
 
-#### Art. 3
+### Art. 3
 
 Ambito di applicazione
 
@@ -326,7 +324,7 @@ Ambito di applicazione
 
 > «8-bis. Il titolo di dottore di ricerca e' abbreviato con le diciture: "Dott. Ric." ovvero "Ph. D."».
 
-#### Art. 4
+### Art. 4
 
 Sistema nazionale di valutazione, assicurazione della qualita' e accreditamento delle universita'
 
@@ -340,11 +338,9 @@ c) un sistema di accreditamento delle sedi e dei corsi di studio delle universit
 
 2\. In tutti i processi della valutazione e' assicurato il confronto tra le risultanze della valutazione interna e quelle della valutazione esterna.
 
-## Capo II
+## Capo II - Sistema di accreditamento delle sedi e dei corsi di studio universitari
 
-### Sistema di accreditamento delle sedi e dei corsi di studio - universitari
-
-#### Art. 5
+### Art. 5
 
 Sistema di accreditamento
 
@@ -358,7 +354,7 @@ b) i corsi di studio universitari.
 
 3\. Per accreditamento periodico delle sedi e dei corsi di studio si intende la verifica dei requisiti di qualita', di efficienza e di efficacia delle attivita' svolte. L'accreditamento periodico avviene con cadenza almeno quinquennale per le sedi e almeno triennale per i corsi di studio ed e' basato sulla verifica della persistenza dei requisiti di cui al comma 2, su ulteriori indicatori definiti ex ante dall'ANVUR e sugli esiti della valutazione di cui agli articoli 9 e 10.
 
-#### Art. 6
+### Art. 6
 
 Definizione degli indicatori per l'accreditamento
 
@@ -394,7 +390,7 @@ Definizione degli indicatori per l'accreditamento
 
 > 3\. Sono abrogate le disposizioni del regolamento di cui al decreto del Presidente della Repubblica 27 gennaio 1998, n. 25, ad eccezione dell'articolo 2, commi 5, lettere a), b), c) e d), 6 e 7, nonche' dell'articolo 3 e dell'articolo 4.».
 
-#### Art. 7
+### Art. 7
 
 Accreditamento delle sedi
 
@@ -444,7 +440,7 @@ L'eventuale esito negativo dell'accreditamento di uno o piu' corsi di studio ins
 
 > 6\. Le disposizioni di cui al comma 5 si applicano anche a seguito dei processi di revisione e razionalizzazione dell'offerta formativa e della conseguente disattivazione dei corsi di studio universitari, delle facolta' e delle sedi universitarie decentrate, ai sensi dell'articolo 1-ter del decreto-legge 31 gennaio 2005, n. 7, convertito, con modificazioni, dalla legge 31 marzo 2005, n. 43.».
 
-#### Art. 8
+### Art. 8
 
 Accreditamento dei corsi di studio
 
@@ -470,7 +466,7 @@ Accreditamento dei corsi di studio
 
 10\. I corsi gia' attivati che non ottengano l'accreditamento iniziale ai sensi del comma 2 sono soppressi. L'ANVUR puo' proporre l'accorpamento dei predetti corsi o altre misure di razionalizzazione dell'offerta formativa, secondo quanto previsto dall'articolo 3 della legge 30 dicembre 2010, n. 240.
 
-#### Art. 9
+### Art. 9
 
 Monitoraggio degli indicatori e accreditamento periodico
 
@@ -506,11 +502,9 @@ L'ANVUR, con proprio provvedimento, definisce i contenuti e le modalita' di pres
 
 > "3. L'Agenzia redige ogni due anni un Rapporto sullo stato del sistema universitario e della ricerca, che viene presentato al Ministro, che lo trasmette al Presidente del Consiglio dei Ministri, al Comitato interministeriale per la programmazione economica ed al Parlamento.".
 
-## Capo III
+## Capo III - Sistema di valutazione periodica della qualita', dell'efficienza e dei risultati conseguiti dagli atenei
 
-### Sistema di valutazione periodica della qualita', dell'efficienza e - dei risultati conseguiti dagli atenei
-
-#### Art. 10
+### Art. 10
 
 Definizione dei criteri e degli indicatori
 
@@ -538,7 +532,7 @@ c) capacita' di esprimere coerenza tra la programmazione triennale dell'ateneo e
 
 > Per il testo dell'articolo 1-ter, del citato decreto-legge n. 7 del 2005, si veda nelle note all'articolo 6.
 
-#### Art. 11
+### Art. 11
 
 Attuazione e monitoraggio dei criteri e degli indicatori
 
@@ -554,11 +548,9 @@ Attuazione e monitoraggio dei criteri e degli indicatori
 
 > Per il testo dell'articolo 4, comma 3 del citato decreto n. 76 del 2010, si veda nelle note all'articolo 9.
 
-## Capo IV
+## Capo IV - Potenziamento del sistema di autovalutazione
 
-### Potenziamento del sistema di autovalutazione
-
-#### Art. 12
+### Art. 12
 
 Controllo annuale
 
@@ -582,7 +574,7 @@ Controllo annuale
 
 > "2. Le funzioni di valutazione di cui al comma 1 sono svolte in ciascuna universita' da un organo collegiale disciplinato dallo statuto delle universita', denominato «nucleo di valutazione di ateneo», composto da un minimo di cinque ad un massimo di nove membri, di cui almeno due nominati tra studiosi ed esperti nel campo della valutazione anche in ambito non accademico. Le universita' assicurano ai nuclei l'autonomia operativa, il diritto di accesso ai dati e alle informazioni necessari, nonche' la pubblicita' e la diffusione degli atti, nel rispetto della normativa a tutela della riservatezza. I nuclei acquisiscono periodicamente, mantenendone l'anonimato, le opinioni degli studenti frequentanti sulle attivita' didattiche e trasmettono un'apposita relazione, entro il 30 aprile di ciascun anno, al Ministero dell'universita' e della ricerca scientifica e tecnologica e al Comitato nazionale per la valutazione del sistema universitario unitamente alle informazioni e ai dati di cui all'articolo 2, comma 1, lettera c). ".
 
-#### Art. 13
+### Art. 13
 
 Relazione annuale delle commissioni paritetiche docenti-studenti
 
@@ -600,7 +592,7 @@ Relazione annuale delle commissioni paritetiche docenti-studenti
 
 > "g) istituzione in ciascun dipartimento, ovvero in ciascuna delle strutture di cui alle lettere c) ovvero e), senza maggiori oneri a carico della finanza pubblica, di una commissione paritetica docenti-studenti, competente a svolgere attivita' di monitoraggio dell'offerta formativa e della qualita' della didattica nonche' dell'attivita' di servizio agli studenti da parte dei professori e dei ricercatori; ad individuare indicatori per la valutazione dei risultati delle stesse; a formulare pareri sull'attivazione e la soppressione di corsi di studio. La partecipazione alla commissione paritetica di cui alla presente lettera non da' luogo alla corresponsione di compensi, emolumenti, indennita' o rimborsi spese;".
 
-#### Art. 14
+### Art. 14
 
 Relazione annuale dei nuclei di valutazione interna
 
@@ -614,11 +606,9 @@ Relazione annuale dei nuclei di valutazione interna
 
 > "c) esercita funzioni di indirizzo delle attivita' di valutazione demandate ai nuclei di valutazione interna degli atenei e degli enti di ricerca, ad eccezione di quelle loro affidate dalle rispettive istituzioni di appartenenza, raccordando la propria attivita' con quella di valutazione interna svolta dai nuclei e confrontandosi con questi ultimi sulla definizione di criteri, metodi ed indicatori;"
 
-## Capo V
+## Capo V - Incentivi per la qualita' e l'efficienza degli atenei
 
-### Incentivi per la qualita' e l'efficienza degli atenei
-
-#### Art. 15
+### Art. 15
 
 Incentivo per i risultati conseguiti
 
@@ -640,7 +630,7 @@ c) il grado di raggiungimento degli obiettivi strategici programmati dalle unive
 
 > Per il testo dell'articolo 1-ter, comma 1, del citato decreto-legge n. 7 del 2005, si veda nelle note alle premesse.
 
-#### Art. 16
+### Art. 16
 
 Valorizzazione della figura dei ricercatori a tempo indeterminato non confermati
 
@@ -662,7 +652,7 @@ Valorizzazione della figura dei ricercatori a tempo indeterminato non confermati
 
 > "22. All'onere derivante dall'applicazione dell'articolo 5, comma 3, lettera g), si provvede nel limite massimo di 11 milioni di euro per l'anno 2011 mediante corrispondente riduzione per il medesimo anno dell'autorizzazione di spesa di cui all'articolo 5, comma 1, della legge 19 ottobre 1999, n. 370.".
 
-#### Art. 17
+### Art. 17
 
 Disposizioni transitorie
 
@@ -688,7 +678,7 @@ d) all'articolo 11, comma 7, lettera m), sono aggiunte, in fine, le seguenti par
 
 > Il decreto del Ministro dell'istruzione dell'universita' e della ricerca 22 ottobre 2004, n. 270, e' pubblicato nella Gazzetta Ufficiale 12 novembre 2004, n. 266.
 
-#### Art. 18
+### Art. 18
 
 Disposizioni finanziarie
 

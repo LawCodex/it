@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## CAPO I - INTERVENTI DI COOPERAZIONE ALLO SVILUPPO
+## CAPO I - INTERVENTI DI COOPERAZIONE ALLO SVILUPPO E A SOSTEGNO DEI PROCESSI DI PACE E DI STABILIZZAZIONE
 
-### E A SOSTEGNO DEI PROCESSI DI PACE - E DI STABILIZZAZIONE
-
-#### Art. 1
+### Art. 1
 
 (Interventi di cooperazione allo sviluppo e a
 
@@ -128,7 +126,7 @@ Il D.L. 4 novembre 2009, n. 152, convertito con L. 29 dicembre 2009, n. 197 ha d
 
 ## CAPO II - MISSIONI INTERNAZIONALI DELLE FORZE ARMATE E DI POLIZIA
 
-#### Art. 2
+### Art. 2
 
 (Missioni internazionali delle Forze armate
 
@@ -262,7 +260,7 @@ b) Joint Enterprise, nell'area balcanica.
 
 > 32\. E' autorizzata, a decorrere dal 1° gennaio 2009 e fino al 30 giugno 2009, la spesa di euro 367.307 per la proroga della partecipazione di personale appartenente alla Croce Rossa Italiana ausiliario delle Forze armate alla missione internazionale in Afghanistan, di cui all'art. 3, comma 26, del decreto-legge n. 8 del 2008, convertito, con modificazioni, dalla legge n. 45 del 2008.».
 
-#### Art. 3 - Disposizioni in materia di personale
+### Art. 3 - Disposizioni in materia di personale
 
 1\. Con decorrenza dalla data di entrata nel territorio, nelle acque territoriali e nello spazio aereo dei Paesi interessati e fino alla data di uscita dagli stessi per il rientro nel territorio nazionale per fine missione, al personale che partecipa alle missioni internazionali di cui alla presente legge e' corrisposta, al netto delle ritenute, per tutta la durata del periodo, in aggiunta allo stipendio o alla paga e agli altri assegni a carattere fisso e continuativo, l'indennita' di missione di cui al regio decreto 3 giugno 1926, n. 941, nelle misure di seguito indicate, detraendo eventuali indennita' e contributi corrisposti allo stesso titolo agli interessati direttamente dagli organismi internazionali: (7) ((8))
 
@@ -330,25 +328,25 @@ AGGIORNAMENTO (8)
 
 Il D.L. 18 febbraio 2015, n. 7 convertito con modificazioni dalla L. 17 aprile 2015, n. 43 ha disposto (con l'art. 15, comma 2) che "L'indennita' di missione, di cui all'articolo 3, comma 1, alinea, della legge 3 agosto 2009, n. 108, e' corrisposta nella misura del 98 per cento o nella misura intera, incrementata del 30 per cento se il personale non usufruisce a qualsiasi titolo di vitto e alloggio gratuiti".
 
-#### Art. 4
+### Art. 4
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-#### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
 ## CAPO III - DISPOSIZIONI FINALI
 
-#### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-#### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-#### Art. 8
+### Art. 8
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 

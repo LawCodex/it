@@ -28,33 +28,29 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - NORME DI ATTUAZIONE DELL'ARTICOLO 4 DELLA LEGGE COSTITUZIONALE 26
+## TITOLO I - NORME DI ATTUAZIONE DELL'ARTICOLO 4 DELLA LEGGE COSTITUZIONALE 26 FEBBRAIO 1948, N. 4.
 
-### FEBBRAIO 1948, N. 4.
+### Capo I - TRASFERIMENTO E DELEGA DI FUNZIONI AMMINISTRATIVE DALLO STATO ALLA REGIONE VALLE D'AOSTA
 
-#### Capo I - TRASFERIMENTO E DELEGA DI FUNZIONI AMMINISTRATIVE DALLO STATO ALLA
-
-##### REGIONE VALLE D'AOSTA
-
-###### Art. 1
+#### Art. 1
 
 Ferme restando le funzioni amministrative finora esercitate dalla regione Valle d'Aosta, sono estese alla regione medesima con le integrazioni e le deroghe di cui agli articoli seguenti, relativamente al suo territorio, le disposizioni di trasferimento delle funzioni amministrative statali contenute nei decreti del Presidente della Repubblica 14 gennaio 1972, numeri 1, 2, 3, 4, 5, 6 e 15 gennaio 1972, numeri 7, 8, 9, 10 e 11, ivi comprese, in particolare, quelle in materia di cave e torbiere, di cui all'articolo 1, secondo comma, lettere e), f), g) del decreto del Presidente della Repubblica 14 gennaio 1972, n. 2.
 
-###### Art. 2
+#### Art. 2
 
 Ferme restando le funzioni amministrative finora delegate alla regione Valle d'Aosta, sono delegate alla regione medesima, con le integrazioni e le deroghe di cui agli articoli seguenti, le stesse funzioni amministrative statali delegate con i decreti del Presidente della Repubblica indicati all'articolo 1 e col decreto del Presidente della Repubblica 5 giugno 1972, n. 315, salvo che tali funzioni spettino alla regione a titolo proprio.
 
-###### Art. 3
+#### Art. 3
 
 Ferme restando le funzioni attualmente esercitate dai comuni e dalle comunita' montane, sono attribuite ai comuni e alle comunita' montane compresi nel territorio della regione Valle d'Aosta tutte le funzioni amministrative che il decreto del Presidente della Repubblica 24 luglio 1977, n. 616, ha attribuito ai comuni e alle comunita' montane compresi nel territorio delle regioni a statuto ordinario, secondo le modalita' e i tempi stabiliti nel suddetto decreto.
 
 Le funzioni attribuite alle province dal decreto del Presidente della Repubblica 24 luglio 1977, n. 616, sono trasferite alla regione Valle d'Aosta, secondo le modalita' ed i tempi stabiliti nel suddetto decreto.
 
-###### Art. 4
+#### Art. 4
 
 Sono trasferite alla regione Valle d'Aosta, in attuazione dell'articolo 4, primo comma, della legge costituzionale 26 febbraio 1948, n. 4, in relazione agli articoli 2, lettera v), e 38, primo comma, della legge costituzionale medesima, le funzioni amministrative degli organi centrali e periferici dello Stato in ordine alla toponomastica.
 
-###### Art. 5
+#### Art. 5
 
 Resta ferma la competenza degli organi statali in ordine:
 
@@ -86,7 +82,7 @@ L'esercizio delle funzioni di cui alle precedenti lettere b), d) e m) e' delegat
 
 Sono altresi' delegate alla regione le funzioni relative agli adempimenti previsti dal fondo di solidarieta' nazionale per le calamita' naturali e le avversita' atmosferiche in ordine alle proposte di delimitazione territoriale ed alla concessione, liquidazione e pagamento delle agevolazioni contributive e creditizie, nonche' ai pareri in merito al riconoscimento dei consorzi di cui alla legge 25 maggio 1970, n. 364.
 
-###### Art. 6
+#### Art. 6
 
 In attuazione dell'articolo 4, primo comma, della legge costituzionale 26 febbraio 1948, n. 4, in relazione all'articolo 2, lettere f), g), m), q), ultima parte, ed all'articolo 3, lettera c), e fermi restando l'articolo 4 del decreto legislativo del Capo provvisorio dello Stato 23 dicembre 1946, n. 532, ratificato con la legge 17 aprile 1956, n. 561, e l'articolo 12, n. 8, del decreto legislativo luogotenenziale 7 settembre 1945, n. 545, all'articolo 1 del decreto del Presidente della Repubblica 15 gennaio 1972, n. 8, si aggiunge:
 
@@ -114,7 +110,7 @@ h) ai lavori pubblici di riparazione di danni bellici.
 
 Resta, altresi', ferma la competenza degli organi statali, da esercitare, sentita la regione, in ordine agli aggiornamenti e modifiche del piano generale degli acquedotti".
 
-###### Art. 7
+#### Art. 7
 
 E' trasferito alla regione Valle d'Aosta l'ufficio del genio civile di Aosta, salvi i servizi e le sezioni cui sono affidate le funzioni rimaste di competenza statale.
 
@@ -124,11 +120,11 @@ Fino a quando la regione non avra' disposto diversamente con legge, l'ingegnere 
 
 Le funzioni gia' esercitate dal provveditorato regionale per le opere pubbliche per il Piemonte nei confronti della Valle d'Aosta, inerenti alle funzioni amministrative della regione, sono trasferite alla regione.
 
-###### Art. 8
+#### Art. 8
 
 Sono delegate alla regione Valle d'Aosta, ai sensi dell'articolo 4, secondo comma, della legge costituzionale 26 febbraio 1948, n. 4, le attribuzioni esercitate dagli uffici statali in ordine alla vigilanza sulle opere di conglomerato cementizio armato, normale e precompresso e a struttura metallica.
 
-###### Art. 9
+#### Art. 9
 
 E' istituito in Aosta il compartimento regionale dell'Azienda nazionale autonoma delle strade (ANAS) per la Valle d'Aosta.
 
@@ -136,13 +132,13 @@ Il Ministro dei lavori pubblici, presidente dell'ANAS, provvedera', con proprio 
 
 E' autorizzata la variazione in aumento di una unita', con funzioni di capo compartimento di 2a classe, della tabella decima, quadro F, livello E, allegata al decreto del Presidente della Repubblica 30 giugno 1972, n. 748.
 
-###### Art. 10
+#### Art. 10
 
 Ferme restando le attribuzioni che il competente organo della regione Valle d'Aosta, in forza dell'articolo 4 del decreto legislativo luogotenenziale 7 settembre 1945, n. 545, esercita in materia di espropriazione per pubblica utilita' e di occupazione temporanea e d'urgenza, comprese la determinazione amministrativa delle indennita' e la retrocessione, ed in genere in ordine alla procedura di espropriazione per pubblica utilita' per opere statali o comunque a carico dello Stato, sono trasferite alla regione anzidetta - in attuazione dell'articolo 4, primo comma, della legge costituzionale 26 febbraio 1948, n. 4, in relazione all'articolo 3, lettera c), della legge costituzionale medesima - le funzioni amministrative, concernenti le dichiarazioni di pubblica utilita', di urgenza e di indifferibilita' dei lavori ed in genere la procedura di espropriazione per pubblica utilita' per le opere di competenza della regione stessa, per quelle ad essa delegate con la presente legge ed in genere per tutte le opere non a carico dello Stato.
 
 Fino a quando non sara' diversamente disposto con legge regionale, le funzioni trasferite ai sensi del comma precedente sono esercitate dal presidente della giunta regionale della Valle d'Aosta.
 
-###### Art. 11
+#### Art. 11
 
 Sono trasferite alla regione Valle d'Aosta le funzioni amministrative esercitate dallo Stato, attraverso l'ufficio della motorizzazione di Aosta, in materia di trasporti su funivie di ogni tipo, funicolari, tramvie, filovie e linee automobilistiche sia di persone che di merci, anche se sostitutive di linee tramviarie e ferroviarie in concessione e di linee dello Stato, definitivamente soppresse, a norma del regio decreto-legge 21 dicembre 1931, n. 1575, convertito nella legge 24 marzo 1932, n. 386, che siano di interesse regionale. Sono di interesse regionale quei servizi di trasporto che servono esclusivamente l'ambito territoriale della regione.
 
@@ -156,13 +152,13 @@ Viene delegato alla regione Valle d'Aosta l'esercizio delle seguenti funzioni am
 
 Sono comunque riservate alla competenza degli organi dello Stato le attribuzioni inerenti alla motorizzazione ed alla circolazione su strada, l'autotrasporto di cose, escluse le attribuzioni relative ai trasporti merci di linea di cui al primo comma, nonche' le attribuzioni in materia di sicurezza degli impianti e dei veicoli e il trasporto degli effetti postali.
 
-###### Art. 12
+#### Art. 12
 
 In attuazione dell'articolo 4, primo comma, della legge costituzionale 26 febbraio 1948, n. 4, in relazione all'articolo 2, lettera i), ed all'articolo 3, lettera 1), della legge costituzionale medesima, all'articolo 1 del decreto del Presidente della Repubblica 14 gennaio 1972, n. 2, viene aggiunta la seguente lettera i):
 
 "disciplina igienica e controlli sanitari sulle acque minerali e termali".
 
-###### Art. 13
+#### Art. 13
 
 In attuazione dell'articolo 4, primo comma, della legge costituzionale 26 febbraio 1948, n. 4, in relazione all'articolo 2, lettera o), della legge costituzionale medesima, all'ultimo comma dell'articolo 1 del decreto del Presidente della Repubblica 15 gennaio 1972, n. 11, viene aggiunto:
 
@@ -170,21 +166,21 @@ In attuazione dell'articolo 4, primo comma, della legge costituzionale 26 febbra
 
 Fino a quando la regione Valle d'Aosta non disponga diversamente con legge, il commissariato per la liquidazione degli usi civici di Torino continua ad esercitare le funzioni amministrative ad esso attribuite.
 
-###### Art. 14
+#### Art. 14
 
 Al personale appartenente alla carriera direttiva e ai sottufficiali e guardie del ruolo organico del Corpo forestale valdostano puo' essere riconosciuta, con apposito decreto del presidente della giunta regionale, la qualifica di agente di pubblica sicurezza.
 
 L'anzidetto personale che abbia conseguito la suindicata qualifica e' autorizzato a portare le armi comuni del tipo che verra' stabilito, d'intesa con l'autorita' provinciale di pubblica sicurezza.
 
-###### Art. 15
+#### Art. 15
 
 La regione Valle d'Aosta esercita le funzioni amministrative in materia di ordinamento delle minime proprieta' colturali anche agli effetti dell'articolo 847 del codice civile.
 
-###### Art. 16
+#### Art. 16
 
 In attuazione dell'articolo 4, primo comma, della legge costituzionale 26 febbraio 1948, n. 4, in relazione all'articolo 2, lettera q), ultima parte, della legge costituzionale medesima, sono trasferite alla regione Valle d'Aosta le funzioni amministrative che il Ministero per i beni culturali ed ambientali ed altri organi centrali e periferici dello Stato esercitano, per il territorio della Valle d'Aosta, in materia di tutela del paesaggio.
 
-###### Art. 17
+#### Art. 17
 
 Il termine di cui all'ultimo comma dell'articolo 2 del decreto del Presidente della Repubblica 15 gennaio 1972, n. 10, e' fissato alla
 
@@ -200,15 +196,15 @@ I provvedimenti relativi al trasferimento del patrimonio e del personale dell'EN
 
 Nei casi di rilevante riconversione, riorganizzazione o cessazione di aziende, nonche' di istituzione di nuovi rilevanti insediamenti industriali, si applicano nel territorio della regione le disposizioni di cui all'articolo 7, lettera f), del decreto del Presidente della Repubblica 15 gennaio 1972, n. 10.
 
-###### Art. 18
+#### Art. 18
 
 A modifica del terzo comma dell'articolo 8 del decreto del Presidente della Repubblica 14 gennaio 1972, n. 3, le competenze della soprintendenza ai beni librari di Torino inerenti al territorio della Valle d'Aosta - gia' attribuite alla biblioteca nazionale universitaria di Torino, con decreto ministeriale 30 marzo 1972 - sono trasferite alla regione Valle d'Aosta, che vi provvede con i propri uffici.
 
-###### Art. 19
+#### Art. 19
 
 Le funzioni amministrative degli organi centrali e periferici dello Stato in materia di servizi antincendi relativi al territorio della Valle d'Aosta si intenderanno trasferite alla regione Valle d'Aosta all'atto dell'emanazione delle relative norme legislative da parte della regione medesima.
 
-###### Art. 20
+#### Art. 20
 
 Resteranno, comunque, ferme le competenze degli organi centrali e periferici dello Stato in ordine a:
 
@@ -216,7 +212,7 @@ a) servizi tecnici per la tutela dell'incolumita' delle persone e la preservazio
 
 b) preparazione di unita' antincendi per le Forze armate.
 
-###### Art. 21
+#### Art. 21
 
 Il presidente della giunta regionale della Valle d'Aosta e' delegato ad esercitare per il territorio della Valle d'Aosta anche le funzioni che la legge 8 dicembre 1970, n. 996, affida al commissario del Governo.
 
@@ -224,11 +220,11 @@ Il comitato regionale per la protezione civile di cui all'articolo 7 della legge
 
 L'ufficio regionale della protezione civile previsto dall'ultimo comma dell'articolo 7 della suddetta legge 8 dicembre 1970, n. 996, e' in Valle d'Aosta ufficio della regione.
 
-###### Art. 22
+#### Art. 22
 
 Allorche' sara' avvenuto il trasferimento delle funzioni amministrative in materia di servizi antincendi nei modi previsti dall'articolo 19 della presente legge, il contributo di cui al primo comma dell'articolo 4 della legge 13 maggio 1961, n. 469, relativamente alle assicurazioni contro i danni per incendio concernenti i beni situati nella Valle d'Aosta, dovra' essere versato alla regione Valle d'Aosta o direttamente alla cassa antincendi che detta regione istituisce.
 
-###### Art. 23
+#### Art. 23
 
 Le funzioni amministrative attribuite dalle leggi vigenti ad organi centrali e periferici dello Stato in ordine all'istituzione di enti di credito di carattere esclusivamente locale in Valle d'Aosta sono esercitate dalla regione.
 
@@ -236,23 +232,23 @@ La legge regionale istitutiva degli enti di cui al primo comma costituisce autor
 
 Gli adempimenti degli organi statali in materia di istituzione di enti di credito per i quali le leggi dello Stato richiedono apposita domanda sono eseguiti d'ufficio dagli organi medesimi quando si tratta di enti di credito di carattere locale istituiti con legge della regione Valle d'Aosta, entro quindici giorni dalla pubblicazione della legge regionale nella Gazzetta Ufficiale della Repubblica. La regione ha comunque facolta' di richiedere l'attuazione degli adempimenti di cui sopra, dopo l'entrata in vigore della legge regionale istitutiva dell'ente o degli enti di credito, ma ancor prima della sua pubblicazione nella Gazzetta Ufficiale della Repubblica e gli organi statali competenti devono, in tal caso, provvedere in merito entro quindici giorni dal ricevimento della richiesta, che deve essere corredata di esemplare del numero del Bollettino ufficiale della regione nel quale la legge relativa e' pubblicata.
 
-###### Art. 24
+#### Art. 24
 
 I provvedimenti concernenti l'amministrazione straordinaria e la liquidazione coattiva degli enti di cui all'articolo precedente sono adottati dai competenti organi dello Stato, d'intesa con la regione.
 
-###### Art. 25
+#### Art. 25
 
 Di ciascuno organo collegiale degli enti di cui all'articolo 23 fara' parte almeno un rappresentante designato dalla regione Valle d'Aosta.
 
-###### Art. 26
+#### Art. 26
 
 Gli enti di cui all'articolo 23, ove intendano operare fuori del territorio della Valle d'Aosta, sono soggetti ad apposita autorizzazione dello Stato. Deve, pero', essere sentito il parere della regione Valle d'Aosta.
 
-###### Art. 27
+#### Art. 27
 
 ((ARTICOLO ABROGATO DAL D. LGS. 28 DICEMBRE 1989, N. 431))
 
-###### Art. 28
+#### Art. 28
 
 Gli adattamenti dei programmi di insegnamento alle necessita' locali, di cui all'articolo 40 della legge costituzionale 26 febbraio 1948, n. 4, vengono approvati e resi esecutivi dalla regione, previa intesa con il Ministro della pubblica istruzione, sulla base delle proposte del consiglio scolastico regionale, sentite le commissioni miste di cui all'articolo 40 medesimo, nominate dal presidente della giunta regionale.
 
@@ -262,17 +258,17 @@ I presidenti e i membri delle commissioni per gli esami di maturita' sono di nor
 
 I titoli di studio conseguiti nelle scuole della regione della Valle d'Aosta sono validi a tutti gli effetti.
 
-###### Art. 29
+#### Art. 29
 
 Le competenze di cui all'articolo 3, lettera g), della legge costituzionale 26 febbraio 1948, n. 4, includono anche quelle concernenti gli istituti d'arte, i licei artistici e le scuole popolari.
 
-###### Art. 30
+#### Art. 30
 
 La regione provvede all'istituzione in Valle d'Aosta di scuole e istituti d'istruzione di cui all'articolo 2, lettera r), e all'articolo 3, lettera g), della legge costituzionale 26 febbraio 1948, n. 4.
 
 La regione provvede, altresi', al legale riconoscimento, pareggiamento e parifica di scuole e istituzioni scolastiche gestite in Valle d'Aosta da altri enti o da privati.
 
-###### Art. 31
+#### Art. 31
 
 Il convitto nazionale "Federico Chabod" di Aosta, persona giuridica di diritto pubblico, assume la figura - prevista dall'articolo 2, lettera a), della legge costituzionale 26 febbraio 1948, n. 4 - di ente dipendente dalla regione Valle d'Aosta, con la denominazione di convitto regionale "Federico Chabod".
 
@@ -280,29 +276,29 @@ Ove non contrastino con le norme della legge costituzionale 26 febbraio 1948, n.
 
 Al personale direttivo ed educativo del convitto regionale "Federico Chabod" si applicano le norme di cui al decreto del Presidente della Repubblica 31 ottobre 1975, n. 861.
 
-###### Art. 32
+#### Art. 32
 
 La regione provvede in ordine al personale ispettivo, direttivo, insegnante ed assistente delle scuole materne della Valle d'Aosta.
 
 Al predetto personale si applicano le disposizioni di cui agli articoli 2, 3, 4, 5, 6 e 8 del decreto del Presidente della Repubblica 31 ottobre 1975, n. 861.
 
-###### Art. 33
+#### Art. 33
 
 ((1. La regione istituisce con legge l'Istituto regionale di ricerca educativa (IRRE), con funzioni di supporto alle istituzioni ed all'amministrazione scolastica nei settori della ricerca educativa, della ricerca sulla formazione del personale della scuola, della documentazione didattico-pedagogica e dell'innovazione degli ordinamenti scolastici.
 
 2\. Le competenze amministrative in materia di iniziative finalizzate ad innovazioni riguardanti gli ordinamenti scolastici sono esercitate, previa reciproca intesa, dallo Stato o dalla regione a seconda che si tratti di iniziative da realizzare nelle scuole della regione sulla base di programmi statali o regionali)).
 
-###### Art. 34
+#### Art. 34
 
 Sono trasferite alla regione Valle d'Aosta le funzioni amministrative di cui agli articoli 2 e 3, secondo comma, della legge 23 dicembre 1975, n. 698.
 
 L'autorizzazione agli enti assistenziali pubblici e privati ad accettare lasciti e donazioni ed a acquistare beni immobili e' delegata in Valle d'Aosta al presidente della giunta regionale.
 
-###### Art. 35
+#### Art. 35
 
 Fermo restando quanto disposto dal decreto-legge 8 luglio 1974, n. 264, convertito, con modificazioni, nella legge 17 agosto 1974, n. 386, tutte le funzioni amministrative gia' di competenza degli organi centrali o periferici dello Stato in materia di igiene, sanita', assistenza ospedaliera ed assistenza profilattica, concernenti il territorio della Valle d'Aosta, sono esercitate - in attuazione dell'articolo 4, primo comma, della legge costituzionale 26 febbraio 1948, n. 4, in relazione all'articolo 3, lettera l), della legge costituzionale medesima - dalla regione Valle d'Aosta. A tal fine, le funzioni anzidette, ancora esercitate da organi statali, sono trasferite alla regione Valle d'Aosta, con le sole eccezioni di cui all'articolo seguente.
 
-###### Art. 36
+#### Art. 36
 
 Restano ferme le competenze degli organi statali in ordine:
 
@@ -332,11 +328,11 @@ Restano ferme le competenze degli organi statali in ordine:
 
 Restano ferme le leggi dello Stato sul riscontro diagnostico, sull'ammissibilita' del prelievo di parti di cadavere a scopo terapeutico e sull'ammissibilita' del trapianto di organi e tessuti da persone viventi.
 
-###### Art. 37
+#### Art. 37
 
 Gli ufficiali sanitari dei comuni e dei consorzi comunali della Valle d'Aosta cessano di essere organi periferici del Ministero della sanita' e divengono organi periferici della regione.
 
-###### Art. 38
+#### Art. 38
 
 Sono trasferite alla regione Valle d'Aosta - in attuazione dell'articolo 4, primo comma, della legge costituzionale 26 febbraio 1948, n. 4, in relazione all'articolo 3, lettera m), della legge costituzionale medesima - le funzioni amministrative degli organi centrali dello Stato in materia di antichita' e belle arti, per quanto concerne il territorio della Valle d'Aosta.
 
@@ -346,13 +342,13 @@ Restano, tuttavia, subordinate al nulla osta del Ministero per i beni culturali 
 
 Il Ministero per i beni culturali e ambientali ha facolta' di sostituirsi all'amministrazione nell'esercizio del diritto di prelazione o della facolta' di acquisto, entro sessanta giorni dalla comunicazione o dalla richiesta di cui ai precedenti secondo e terzo comma, qualora la detta amministrazione vi rinunzi.
 
-## Capo II - DISPOSIZIONI COMUNI
+### Capo II - DISPOSIZIONI COMUNI
 
-###### Art. 39
+#### Art. 39
 
 In caso di persistente inattivita' degli organi regionali nell'esercizio delle funzioni delegate, qualora le attivita' relative alle materie delegate comportino adempimenti da svolgersi entro termini perentori previsti dalla legge o risultanti dalla natura degli interventi, il Consiglio dei Ministri, su proposta del Ministro competente, dispone il compimento degli atti relativi in sostituzione dell'amministrazione regionale.
 
-###### Art. 40
+#### Art. 40
 
 La regione Valle d'Aosta, in relazione alle esigenze derivanti dall'esercizio delle attribuzioni ad essa trasferite o delegate, puo' avvalersi dei servizi dello Stato a carattere tecnico scientifico operanti per funzioni non trasferite o delegate.
 
@@ -360,7 +356,7 @@ Lo Stato sara' rimborsato delle spese sostenute per conto della regione.
 
 La misura e le modalita' dei rimborsi saranno determinate con decreto del Ministro del tesoro, di concerto con i Ministri competenti, previa intesa con l'amministrazione regionale.
 
-###### Art. 41
+#### Art. 41
 
 Fino a quando non avra' istituito propri organi consultivi e comunque modificato la legislazione in materia, la regione Valle d'Aosta, nell'esercizio delle attribuzioni che le spettano a titolo di trasferimento o di delega, deve sentire gli organi tecnici statali il cui parere sia richiesto dalle leggi dello Stato.
 
@@ -368,29 +364,29 @@ A detti organi la regione puo' rivolgersi ogni qualvolta lo ritenga opportuno o 
 
 Nei casi considerati dal primo e dal secondo comma, ciascuno degli organi consultivi e' integrato, ove gia' non lo sia, da un esperto, designato dalla regione.
 
-###### Art. 42
+#### Art. 42
 
 E' delegato alla regione Valle d'Aosta, per le materie di sua competenza, il potere di riconoscere le persone giuridiche private operanti nell'ambito regionale.
 
 Fino a quando non sara' diversamente disposto con legge regionale, il potere di cui al comma precedente e' esercitato dal presidente della giunta regionale.
 
-###### Art. 43
+#### Art. 43
 
 Ove non sia diversamente previsto nei precedenti articoli della presente legge, sono trasferite alla regione Valle d'Aosta le funzioni amministrative, ivi comprese quelle di vigilanza e di tutela, esercitate dagli organi centrali e periferici dello Stato in ordine agli enti, consorzi, cooperative, istituzioni ed organizzazioni locali operanti nelle materie di cui alla presente legge ivi comprese le attribuzioni in ordine alla nomina dei componenti dei collegi dei revisori, salva la designazione da parte del Ministro del tesoro di un componente dei collegi stessi in relazione alla permanenza, nei singoli enti, istituzioni ed organizzazioni, di interessi finanziari dello Stato.
 
 Fino all'entrata in vigore della legge di riforma sanitaria, restano ferme le disposizioni di cui all'articolo 12 della legge 12 febbraio 1968, n. 132.
 
-###### Art. 44
+#### Art. 44
 
 Si intendono sostituiti gli organi centrali e periferici dello Stato con gli organi della regione Valle d'Aosta in tutti i casi in cui le disposizioni vigenti nelle materie di cui alla presente legge e, in generale, in quelle indicate negli articoli 2 e 3 della legge costituzionale 26 febbraio 1948, n. 4, facciano riferimento, per quanto riguarda le funzioni degli enti locali, a funzioni amministrative di organi ed uffici centrali o periferici dello Stato.
 
-###### Art. 45
+#### Art. 45
 
 Nell'ipotesi in cui le norme precedenti comportino il trasferimento alla regione di uffici periferici statali, si opera una successione della regione allo Stato nei diritti ed obblighi inerenti agli immobili, sede degli uffici stessi, nonche' al relativo arredamento.
 
 La consistenza degli arredi, delle macchine e delle attrezzature, nonche' dei diritti ed obblighi a essi inerenti sara' fatta constare con verbali redatti, in contraddittorio, da funzionari a cio' delegati, rispettivamente, dai Ministeri competenti e dall'amministrazione regionale.
 
-###### Art. 46
+#### Art. 46
 
 Entro il termine di trenta giorni dalla data in cui si effettua il trasferimento o la delega alla regione Valle d'Aosta delle funzioni amministrative di cui alla presente legge, le amministrazioni dello Stato ed i loro organi ed uffici centrali e periferici provvederanno a consegnare alla regione medesima, con elenchi descrittivi, gli atti concernenti le funzioni amministrative anzidette.
 
@@ -400,11 +396,11 @@ Ove il trasferimento sia soltanto parziale, vengono consegnati alla regione Vall
 
 Restano ferme le disposizioni del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409, e successive modificazioni.
 
-###### Art. 47
+#### Art. 47
 
 La definizione dei procedimenti amministrativi che abbiano comportato assunzione di impegni, ai sensi dell'articolo 49 della legge di contabilita' dello Stato, prima della data di entrata in vigore della presente legge, rimane di competenza degli organi statali. Rimane, parimenti, di competenza degli organi dello Stato, con oneri a carico del bilancio statale, la liquidazione delle ulteriori annualita' di spese pluriennali a carico di esercizi successivi a quello in corso, qualora l'impegno relativo alla prima annualita' abbia fatto carico ad esercizi finanziari anteriori.
 
-###### Art. 48
+#### Art. 48
 
 Con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro competente, di concerto con il Ministro del tesoro e sentita la regione, viene determinato il contingente dei dipendenti statali, ivi compresi gli operai, indispensabili per l'esercizio delle funzioni trasferite o delegate, ripartito per qualifica, da trasferire, con il loro consenso, alla regione Valle d'Aosta.
 
@@ -414,7 +410,7 @@ Il personale esuberante e' collocato nei ruoli nazionali unici istituiti presso 
 
 Il personale trasferito e' inquadrato con legge regionale e con effetto dalla data di entrata in vigore della presente legge nei ruoli regionali, garantendo in ogni caso la posizione giuridica ed economica acquisita da ciascun dipendente.
 
-###### Art. 49
+#### Art. 49
 
 ((ARTICOLO ABROGATO DALLA L. 26 NOVEMBRE 1981, N. 690)). ((2))
 
@@ -426,11 +422,11 @@ La L. 26 novembre 1981, n. 690 ha disposto (con l'art. 17, comma 4) che l'abroga
 
 ## TITOLO II - ASSUNZIONE IN SERVIZIO DI IMPIEGATI STATALI NELLA VALLE D'AOSTA
 
-###### Art. 50
+#### Art. 50
 
 Ai fini dell'attuazione dell'articolo 38, terzo comma, della legge costituzionale 26 febbraio 1948, n. 4, le amministrazioni dello Stato, anche con ordinamento autonomo, osservano, nei concorsi per l'ammissione alle qualifiche iniziali delle carriere degli impiegati civili dello Stato, le norme del presente titolo.
 
-###### Art. 51
+#### Art. 51
 
 Per far luogo all'assegnazione di posti nei ruoli periferici delle varie carriere, che prevedano l'impiego in sedi della Valle d'Aosta, le amministrazioni dello Stato bandiscono apposito concorso per la copertura dei posti in detta regione, che deve aver luogo in Aosta e prevedere una prova per l'accertamento della conoscenza della lingua francese.
 
@@ -438,27 +434,27 @@ Per far luogo all'assegnazione di posti nei ruoli periferici delle varie carrier
 
 Sono parimenti esonerati dalla prova di accertamento della conoscenza della lingua francese, ai fini dell'accesso agli impieghi per i quali e' richiesto un diploma di laurea o un diploma universitario, coloro che integrano il superamento della prova di cui al comma precedente con un percorso formativo riconosciuto valido sulla base delle disposizioni vigenti nella regione per l'accesso alle qualifiche funzionali del comparto unico del pubblico impiego regionale per le quali sono richiesti i medesimi titoli di studio.))
 
-###### Art. 52
+#### Art. 52
 
 Per il trasferimento di impiegati statali in Valle d'Aosta sono preferiti coloro che siano originari della regione o che conoscano la lingua francese.
 
-###### Art. 53
+#### Art. 53
 
 Per le assunzioni presso uffici statali aventi sede in Valle d'Aosta di impiegati delle carriere esecutiva e del personale ausiliario, in ottemperanza alle disposizioni sulle assunzioni obbligatorie, l'essere originari della regione o la conoscenza della lingua francese costituiscono titolo di preferenza.
 
-###### Art. 54
+#### Art. 54
 
 Le norme di cui agli articoli precedenti si applicano anche ai concorsi banditi da enti pubblici non economici, quando ricorrano le condizioni previste dalle norme medesime.
 
 ## TITOLO III - NORME IN MATERIA DI SEGRETARI COMUNALI IN VALLE D'AOSTA
 
-###### Art. 55
+#### Art. 55
 
 Per la nomina a segretario comunale in Valle d'Aosta e' prescritta la piena conoscenza della lingua francese.
 
 Al di fuori dell'ipotesi prevista dal successivo articolo 56, l'accertamento della piena conoscenza della lingua francese da parte degli aspiranti viene effettuato da una commissione nominata dal presidente della giunta regionale e composta da un rappresentante della regione, da un segretario comunale in servizio nella Valle d'Aosta e da un esperto di lingua francese.
 
-###### Art. 56
+#### Art. 56
 
 Per la durata di dieci anni dalla data di entrata in vigore della presente legge, viene indetto in Aosta, annualmente, con le forme e le modalita' previste dall'articolo 1 del decreto del Presidente della Repubblica 23 giugno 1972, n. 749, un concorso per titoli ed esami per i posti di segretario comunale vacanti nei comuni e nei consorzi dei comuni della classe quarta della Valle d'Aosta.
 
@@ -472,85 +468,79 @@ Alla commissione giudicatrice e' aggregato un componente docente di lingua franc
 
 Gli incaricati della reggenza o supplenza dei servizi di segreteria comunale, anche sprovvisti di diploma di laurea, purche' in possesso del diploma di scuola media superiore, che alla data di entrata in vigore della presente legge abbiano maturato un periodo di servizio di almeno sei mesi in comuni della Valle d'Aosta, vengono immessi in ruolo prescindendo dai limiti di eta'.
 
-###### Art. 57
+#### Art. 57
 
 ((I segretari comunali nominati a seguito del concorso di cui all'articolo precedente, se sprovvisti di uno dei diplomi di laurea previsti dall'art. 1 del decreto del Presidente della Repubblica 23 giugno 1972, n. 749, possono comunque accedere a sedi di classe superiore a quella iniziale, limitatamente alle sedi dei comuni della Valle d'Aosta.))
 
-###### Art. 58
+#### Art. 58
 
 Restano ferme le norme di cui ai commi secondo, terzo e quarto dell'articolo 21 della legge 9 agosto 1954, n. 748.
 
 Resta ferma, altresi', la competenza del presidente della giunta regionale della Valle d'Aosta per quanto concerne le attribuzioni che nel rimanente territorio nazionale spettano, in materia di segretari comunali, ai prefetti delle rispettive province.
 
-## TITOLO IV - FUNZIONI DELL'AVVOCATURA DELLO STATO NEI RIGUARDI DELLA REGIONE VALLE
+## TITOLO IV - FUNZIONI DELL'AVVOCATURA DELLO STATO NEI RIGUARDI DELLA REGIONE VALLE D'AOSTA
 
-### D'AOSTA
-
-###### Art. 59
+#### Art. 59
 
 ((1. La regione Valle d'Aosta/Vallee d'Aoste puo' avvalersi del patrocinio legale e della consulenza dell'Avvocatura dello Stato o di liberi professionisti, nonche' di propri dipendenti che abbiano i requisiti di legge.
 
 2\. Gli atti giudiziari e giudiziali nei confronti della Regione sono notificati secondo il codice di rito.))
 
-## TITOLO V - NORME RELATIVE AI CONTROLLI SUGLI ATTI AMMINISTRATIVI DELLA
+## TITOLO V - NORME RELATIVE AI CONTROLLI SUGLI ATTI AMMINISTRATIVI DELLA REGIONE VALLE D'AOSTA
 
-### REGIONE VALLE D'AOSTA
-
-###### Art. 60
+#### Art. 60
 
 ((ARTICOLO ABROGATO DAL D.LGS. 22 APRILE 1994, N. 320))
 
-###### Art. 61
+#### Art. 61
 
 ((ARTICOLO ABROGATO DAL D.LGS. 22 APRILE 1994, N. 320))
 
-###### Art. 62
+#### Art. 62
 
 ((ARTICOLO ABROGATO DAL D.LGS. 22 APRILE 1994, N. 320))
 
-###### Art. 63
+#### Art. 63
 
 ((ARTICOLO ABROGATO DAL D.LGS. 22 APRILE 1994, N. 320))
 
-###### Art. 64
+#### Art. 64
 
 ((ARTICOLO ABROGATO DAL D.LGS. 22 APRILE 1994, N. 320))
 
-###### Art. 65
+#### Art. 65
 
 ((ARTICOLO ABROGATO DAL D.LGS. 22 APRILE 1994, N. 320))
 
-###### Art. 66
+#### Art. 66
 
 ((ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 2015, N. 45))
 
-###### Art. 67
+#### Art. 67
 
 ((ARTICOLO ABROGATO DAL D.LGS. 22 APRILE 1994, N. 320))
 
-###### Art. 68
+#### Art. 68
 
 ((ARTICOLO ABROGATO DAL D.LGS. 22 APRILE 1994, N. 320))
 
-###### Art. 69
+#### Art. 69
 
 Gli organi statali e quelli regionali sono tenuti a fornirsi, reciprocamente ed a richiesta, ogni notizia utile per lo svolgimento delle proprie funzioni, ivi compresi i dati statistici.
 
-###### Art. 70
+#### Art. 70
 
 Il primo comma dell'articolo 16 della legge 6 dicembre 1971, n. 1065, e' sostituito dal seguente:
 
 "I contratti dei comuni e degli altri enti locali, che eccedano i limiti di importo entro i quali e' consentito, ai sensi di legge, procedere a licitazione privata senza autorizzazione, debbono essere presentati per la registrazione fiscale entro venti giorni dalla data in cui l'ufficiale rogante ha avuto notizia dell'apposizione sul contratto del visto di esecutorieta' da parte del presidente della giunta regionale; i verbali e gli atti di aggiudicazione preparatori per i suddetti contratti non sono soggetti a registrazione fiscale. I contratti dell'amministrazione regionale della specie di cui innanzi non sono soggetti in nessun caso a visto di esecutorieta' e per essi i termini per la registrazione decorrono dalla data di stipulazione".
 
-###### Art. 71
+#### Art. 71
 
 Per i contratti dell'amministrazione regionale sui quali prima dell'entrata in vigore della presente legge sia stato apposto il visto di esecutorieta' da parte del presidente della giunta regionale, il termine per la registrazione fiscale decorre dalla data in cui l'ufficiale rogante ha avuto notizia dell'apposizione di detto visto.
 
-## TITOLO VI - ESTENSIONE ALLA VALLE D'AOSTA DEGLI ARTICOLI 1 E 8 DELLA LEGGE 22
+## TITOLO VI - ESTENSIONE ALLA VALLE D'AOSTA DEGLI ARTICOLI 1 E 8 DELLA LEGGE 22 LUGLIO 1975, N. 382.
 
-### LUGLIO 1975, N. 382.
-
-###### Art. 72
+#### Art. 72
 
 Il Governo e' delegato ad emanare entro il 30 giugno 1978 uno o piu' decreti aventi forza di legge ordinaria per estendere alla regione Valle d'Aosta le disposizioni del decreto legislativo 24 luglio 1977, n. 616.
 

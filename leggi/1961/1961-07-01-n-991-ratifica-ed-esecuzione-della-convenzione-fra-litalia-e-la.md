@@ -271,7 +271,7 @@ Nell'applicazione degli articoli 5, 6 e 8 non saranno presi in
 
 considerazione i periodi di assenza temporanea dalla Norvegia. Quali assenze temporanee si considerano quelle che non superano i 4 mesi, o, se superiori, che siano giustificate da circostanze speciali. A tale fine si tiene conto della durata del periodo di residenza in Norvegia e del motivo dell'assenza.
 
-## CAPITOLO II - Assicurazioni per i casi di malattia, tubercolosi e maternita'
+### CAPITOLO II - Assicurazioni per i casi di malattia, tubercolosi e maternita'
 
 #### Articolo 10
 
@@ -301,7 +301,7 @@ la cessazione dell'assicurazione norvegese e l'inizio dell'assicurazione italian
 
 Il periodo d'iscrizione o di contribuzione nell'assicurazione per la malattia o per la tubercolosi, indicati agli articoli 10 o 11, e' preso in considerazione solo nel caso che la malattia o la tubercolosi si sia manifestata dopo l'iscrizione alla rispettiva assicurazione, oppure se la malattia o la tubercolosi non si sia manifestata per almeno un anno.
 
-## CAPITOLO III - Assegni per i figli
+### CAPITOLO III - Assegni per i figli
 
 #### Articolo 13
 
@@ -309,7 +309,7 @@ Gli assegni per i figli sono corrisposti in Norvegia per i figli
 
 che siano cittadini italiani o per i figli di padre o di madre che sia cittadino italiano, alle stesse condizioni e nella stessa misura prevista per i cittadini norvegesi, a condizione che detti figli siano residenti in Norvegia e che gli stessi o uno dei genitori siano stati residenti in Norvegia per almeno 6 mesi consecutivi immediatamente precedenti la data di presentazione della domanda di prestazione.
 
-## CAPITOLO IV - Assicurazioni contro gli infortuni sul lavoro e le malattie professionali
+### CAPITOLO IV - Assicurazioni contro gli infortuni sul lavoro e le malattie professionali
 
 #### Articolo 14
 
@@ -353,7 +353,7 @@ Se un'impresa, avente sede in uno dei due Paesi, effettua
 
 nell'altro Paese lavori per i quali e' prevista la assicurazione contro gli infortuni sul lavoro e le malattie professionali, non puo' essere tenuta per tale assicurazione a corrispondere contributi piu' elevati, per il fatto che l'impresa non abbia la propria sede nel Paese in cui i lavori sono effettuati.
 
-## CAPITOLO V - Assicurazione contro la disoccupazione
+### CAPITOLO V - Assicurazione contro la disoccupazione
 
 #### Articolo 16
 

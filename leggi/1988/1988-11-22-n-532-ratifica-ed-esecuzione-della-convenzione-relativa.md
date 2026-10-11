@@ -25,15 +25,15 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la convenzione relativa all'assistenza giudiziaria ed al riconoscimento ed esecuzione delle sentenze in materia civile tra la Repubblica italiana e la Repubblica argentina, firmata a Roma il 9 dicembre 1987.
 
-#### Art. 2
+### Art. 2
 
 1\. Piena ed intera esecuzione e' data alla convenzione di cui all'articolo 1 a decorrere dalla sua entrata in vigore in conformita' a quanto disposto dall'articolo 26 della convenzione stessa.
 
-#### Art. 3
+### Art. 3
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -59,13 +59,13 @@ considerato che i due Stati sono entrambi parti delle Convenzioni dell'Aja del 1
 
 hanno convenuto quanto segue:
 
-#### ARTICOLO 1
+### ARTICOLO 1
 
 AMBITO DI APPLICAZIONE
 
 Le disposizioni della presente Convenzione si applicano a tutte le materie oggetto del diritto civile, ivi comprese quelle oggetto del diritto commerciale, del diritto di famiglia e del diritto del lavoro.
 
-#### ARTICOLO 2
+### ARTICOLO 2
 
 AUTORITA'
 
@@ -73,7 +73,7 @@ AUTORITA'
 
 2\. Ai fini della presente Convenzione autorita' centrale per la Repubblica Italiana e il Ministero di Grazia e di Giustizia; per la Repubblica Argentina il Ministero degli Affari Esteri e del Culto.
 
-#### ARTICOLO 3
+### ARTICOLO 3
 
 PROTEZIONE GIURIDICA
 
@@ -81,7 +81,7 @@ PROTEZIONE GIURIDICA
 
 2\. I cittadini di ciascuna delle Parti hanno accesso alle autorita' giudiziarie dell'altra Parte per il perseguimento e la difesa dei loro diritti ed interessi alle stesse condizioni dei cittadini di tale ultima Parte.
 
-#### ARTICOLO 4
+### ARTICOLO 4
 
 DISPENSA DALLA "CAUTIO JUDICATUM SOLVI"
 
@@ -93,7 +93,7 @@ L'istanza ed i suoi allegati saranno predisposti in conformita' dell'articolo 23
 
 L'autorita' giudiziaria deliberante sull'esecuzione si limitera' ad accertare se la sentenza sulle spese e' diventata esecutiva.
 
-#### ARTICOLO 5
+### ARTICOLO 5
 
 GRATUITO PATROCINIO E DISPENSA DALLE TASSE E DAGLI ANTICIPI
 
@@ -105,43 +105,43 @@ GRATUITO PATROCINIO E DISPENSA DALLE TASSE E DAGLI ANTICIPI
 
 4\. Le facilitazioni previste ai paragrafi precedenti, se dipendono dalla situazione personale o patrimoniale del richiedente, sono accordate sulla base di certificati rilasciati dall'autorita' competente della Parte nel cui territorio il richiedente ha la propria residenza. Qualora il richiedente non abbia la residenza nel territorio delle Parti tale certificazione sara' rilasciata dalle autorita' competenti della Parte di cui egli e' cittadino, ai sensi della propria legge.
 
-#### ARTICOLO 6
+### ARTICOLO 6
 
 VALIDITA' DEGLI ATTI PUBBLICI
 
 Per l'applicazione della presente Convenzione gli atti pubblici di ciascuna delle Parti hanno nell'altra Parte l'efficacia probatoria dei corrispondenti atti di tale ultima Parte.
 
-#### ARTICOLO 7
+### ARTICOLO 7
 
 ESENZIONE DALLA LEGALIZZAZIONE
 
 Ai fini dell'applicazione della presente Convenzione, gli atti, le copie e le traduzioni redatti o autenticati dall'autorita' competente di ciascuna delle Parti e corredati della firma e del timbro o del sigillo ufficiale sono esenti da qualsiasi forma di legalizzazione per essere utilizzati dinanzi alle autorita' dell'altra Parte, salvo quanto disposto dall'art. 23, par. 1 della presente Convenzione.
 
-#### ARTICOLO 8
+### ARTICOLO 8
 
 INFORMAZIONI IN MATERIA LEGALE
 
 Ciascuna Parte comunica all'altra Parte, su domanda redatta nella lingua della Parte richiesta, informazioni, non corredate da traduzione, riguardanti le sue leggi e i suoi regolamenti, cosi' come informazioni concernenti la giurisprudenza.
 
-#### ARTICOLO 9
+### ARTICOLO 9
 
 TRASMISSIONI DI ATTI DI STATO CIVILE
 
 Ciascuna Parte trasmette, su richiesta, all'altra Parte copie di atti ed estratti di atti di stato civile cosi' come altri atti sullo stato e la capacita' delle persone necessari per una procedura giudiziaria se e per quanto la legge della Parte richiesta lo consenta.
 
-#### ARTICOLO 10
+### ARTICOLO 10
 
 SISTEMI DI COMUNICAZIONE
 
 Le Parti inoltreranno le comunicazioni e la documentazione previste dalla presente Convenzione per il tramite delle loro autorita' centrali, a meno che singole disposizioni della presente Convenzione non dispongano altrimenti.
 
-#### ARTICOLO 11
+### ARTICOLO 11
 
 PERSONE GIURIDICHE
 
 Le disposizioni della presente Convenzione si applicano, in quanto ad esse riferibili, anche alle persone giuridiche che sono costituite conformemente alla legislazione di una delle Parti.
 
-#### ARTICOLO 12
+### ARTICOLO 12
 
 RIFIUTO DELL'ASSISTENZA,
 
@@ -151,13 +151,13 @@ L'assistenza giudiziaria nonche' il riconoscimento e l'esecuzione degli atti, de
 
 ## TITOLO II - ASSISTENZA GIUDIZIARIA
 
-#### ARTICOLO 13
+### ARTICOLO 13
 
 OBBLIGO DELL'ASSISTENZA
 
 Ciascuna Parte presta all'altra Parte, su richiesta, assistenza per l'esecuzione degli atti e delle procedure giudiziarie, in particolare provvedendo alla trasmissione e alla notificazione degli atti, all'assunzione delle prove, alle perizie, alle audizioni delle parti e dei testimoni, nonche' all'acquisizione e alla trasmissione delle prove materiali.
 
-#### ARTICOLO 14
+### ARTICOLO 14
 
 COMMISSIONI ROGATORIE
 
@@ -173,7 +173,7 @@ d) l'identita', il luogo di residenza o di dimora, la cittadinanza, la professio
 
 e) l'oggetto della commissione rogatoria, gli atti da espletare.
 
-#### ARTICOLO 15
+### ARTICOLO 15
 
 ESECUZIONE DELLE COMMISSIONI ROGATORIE
 
@@ -187,7 +187,7 @@ ESECUZIONE DELLE COMMISSIONI ROGATORIE
 
 La commissione rogatoria deve essere eseguita al piu' presto possibile. Qualora non sia stato possibile dare seguito alla commissione rogatoria, la Parte richiesta restituira' gli atti al piu' presto possibile indicando i motivi che hanno impedito l'esecuzione.
 
-#### ARTICOLO 16
+### ARTICOLO 16
 
 DOCUMENTI COMPROVANTI LA NOTIFICAZIONE DI ATTI
 
@@ -195,7 +195,7 @@ La prova della notificazione e' data da una ricevuta firmata dalla persona che h
 
 La Parte richiesta inviera' senza indugio alla Parte richiedente la ricevuta e o l'attestato comprovanti la notificazione.
 
-#### ARTICOLO 17
+### ARTICOLO 17
 
 ESECUZIONE DELLE COMMISSIONI
 
@@ -205,7 +205,7 @@ O DEGLI UFFICI CONSOLARI.
 
 Ciascuna Parte puo' a mezzo delle proprie Missioni diplomatiche o dei propri Uffici consolari accreditati presso l'altra Parte, senza l'impiego di mezzi coattivi, notificare atti ai propri connazionali e procedere alla loro audizione se e per quanto non in contrasto con la legge di tale ultima Parte.
 
-#### ARTICOLO 18
+### ARTICOLO 18
 
 COMPARIZIONE DI PERSONE NELLA PARTE RICHIEDENTE.
 
@@ -215,13 +215,13 @@ La parte richiesta procedera' pertanto alla citazione secondo la richiesta formu
 
 2\. Al testimone ed al perito spettano il rimborso delle spese di viaggio, le diarie e le indennita' previste dalla legge della Parte richiedente. La richiesta dovra' specificarne gli importi.
 
-#### ARTICOLO 19
+### ARTICOLO 19
 
 SPESE
 
 Sono a carico della Parte richiesta le spese derivanti dall'esecuzione dell'assistenza giudiziaria, ad eccezione delle indennita' e delle altre spese relative alla esecuzione di perizie nonche' di quelle derivanti dalla esecuzione di commissione rogatoria in particolari forme domandate dalla parte richiedente ai termini dell'art.15, par. 1 della presente Convenzione.
 
-#### ARTICOLO 20
+### ARTICOLO 20
 
 LINGUE
 
@@ -229,17 +229,15 @@ LINGUE
 
 2\. I documenti relativi alla esecuzione della commissione rogatoria saranno trasmessi alla Parte richiedente nella lingua della Parte richiesta.
 
-## TITOLO III - RICONOSCIMENTO ED ESECUZIONE
+## TITOLO III - RICONOSCIMENTO ED ESECUZIONE DI SENTENZE E DI ALTRI PROVVEDIMENTI.
 
-### DI SENTENZE E DI ALTRI PROVVEDIMENTI.
-
-#### ARTICOLO 21
+### ARTICOLO 21
 
 OBBLIGO DEL RICONOSCIMENTO E DELL'ESECUZIONE
 
 Ciascuna Parte riconosce e dichiara esecutive, nei limiti di cui agli articoli che seguono, le sentenze emesse in materia civile dalle autorita' giudiziarie dell'altra Parte nonche' le disposizioni concernenti il risarcimento dei danni e la restituzione dei beni contenute in sentenze penali.
 
-#### ARTICOLO 22
+### ARTICOLO 22
 
 CONDIZIONI RICHIESTE
 
@@ -277,7 +275,7 @@ i) la controversia ha ad oggetto una obbligazione alimentare e l'attore era resi
 
 3\. Le decisioni provvisoriamente esecutive di ciascuna Parte, benche' suscettibili di ricorso ordinario, sono riconosciute e dichiarate esecutive nell'altra Parte alle condizioni previste dal presente articolo, in quanto ad esse applicabili, se decisioni dello stesso tipo possono essere ivi emesse o eseguite.
 
-#### ARTICOLO 23
+### ARTICOLO 23
 
 DOMANDE DI RICONOSCIMENTO E DI ESECUZIONE
 
@@ -297,7 +295,7 @@ c) in caso di decisione pronunciata in contumacia una copia certificata conforme
 
 d) una traduzione certificata conforme dei documenti di cui alle lettere a, b, c del presente paragrafo secondo quanto disposto dall'articolo 20 della presente Convenzione.
 
-#### ARTICOLO 24
+### ARTICOLO 24
 
 TRANSAZIONI GIUDIZIARIE
 
@@ -305,7 +303,7 @@ Le transazioni concluse davanti alla autorita' giudiziaria competente ai sensi d
 
 L'istanza sara' predisposta in conformita' dell'articolo 23 della presente Convenzione.
 
-#### ARTICOLO 25
+### ARTICOLO 25
 
 PROCEDURE PER IL RICONOSCIMENTO E L'ESECUZIONE
 
@@ -317,7 +315,7 @@ Tale autorita' giudiziaria nell'esaminare le circostanze sulle quali si fonda la
 
 ## TITOLO IV - DISPOSIZIONI FINALI
 
-#### ARTICOLO 26
+### ARTICOLO 26
 
 RATIFICA ED ENTRATA IN VIGORE
 

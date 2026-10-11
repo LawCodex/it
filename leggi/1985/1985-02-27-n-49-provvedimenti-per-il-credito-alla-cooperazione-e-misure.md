@@ -26,11 +26,9 @@ PROMULGA
 
 la seguente legge:
 
-## Titolo I - ISTITUZIONE E FUNZIONAMENTO DEL FONDO DI ROTAZIONE PER LA PROMOZIONE
+## Titolo I - ISTITUZIONE E FUNZIONAMENTO DEL FONDO DI ROTAZIONE PER LA PROMOZIONE E LO SVILUPPO DELLA COOPERAZIONE
 
-### E LO SVILUPPO DELLA COOPERAZIONE
-
-#### Art. 1
+### Art. 1
 
 1\. E' istituito presso la Sezione speciale per il credito alla cooperazione, costituita presso la Banca nazionale del lavoro con decreto legislativo del Capo provvisorio dello Stato 15 dicembre 1947, n. 1421, un fondo di rotazione per la promozione e lo sviluppo della cooperazione in seguito denominato Foncooper.
 
@@ -62,7 +60,7 @@ AGGIORNAMENTO (1)
 
 La Corte costituzionale, con sentenza 25 giugno - 1 luglio 1986, n. 165, (in G.U. 1a s.s. 09/07/1986 n. 32) ha dichiarato l'illegittimita' costituzionale del presente articolo "nella parte in cui la disciplina in esso prevista concerne la Regione Trentino-Alto Adige".
 
-#### Art. 2
+### Art. 2
 
 1\. Il Foncooper e' alimentato:
 
@@ -90,11 +88,11 @@ La Corte costituzionale, con sentenza 25 giugno - 1 luglio 1986, n.
 
 165, (in G.U. 1a s.s. 09/07/1986 n. 32) ha dichiarato l'illegittimita' costituzionale del presente articolo "nella parte in cui la disciplina in esso prevista concerne la Regione Trentino-Alto Adige".
 
-#### Art. 3
+### Art. 3
 
 ((ARTICOLO ABROGATO DALLA L. 5 MARZO 2001, N. 57)).
 
-#### Art. 4
+### Art. 4
 
 1\. I crediti derivanti dai finanziamenti concessi ai sensi del precedente articolo 1 o erogati dalle societa' finanziarie ai sensi dell'articolo 17, comma 5, hanno privilegio sugli immobili, sugli impianti e su ogni loro pertinenza, sui macchinari e sugli utensili della cooperativa, comunque destinati al suo funzionamento ed esercizio ((, ad esclusione dei beni immobili confiscati alla criminalita' organizzata concessi a favore delle cooperative ai sensi del codice delle leggi antimafia e delle misure di prevenzione, di cui al decreto legislativo 6 settembre 2011, n. 159)).
 
@@ -122,15 +120,15 @@ AGGIORNAMENTO (1)
 
 La Corte costituzionale, con sentenza 25 giugno - 1 luglio 1986, n. 165, (in G.U. 1a s.s. 09/07/1986 n. 32) ha dichiarato l'illegittimita' costituzionale del presente articolo "nella parte in cui la disciplina in esso prevista concerne la Regione Trentino-Alto Adige".
 
-#### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DALLA L. 5 MARZO 2001, N. 57)).
 
-#### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DALLA L. 5 MARZO 2001, N. 57)).
 
-#### Art. 7
+### Art. 7
 
 ((1. Il ministro dell'industria, del commercio e dell'artigianato, di intesa con il Ministro del tesoro, del bilancio e della programmazione economica e con il Ministro del lavoro e della previdenza sociale, emana, nel rispetto della disciplina comunitaria degli aiuti alle piccole e medie imprese ed in modo da non determinare nuovi o maggiori oneri per il bilancio dello Stato, le direttive per l'istruttoria dei programmi di investimento e l'ammissibilita' delle relative spese, per la concessione e il rimborso dei finanziamenti, provvedendo a individuare i limiti e i tassi di interesse applicabili agli stessi e le modalita' di acquisizione delle relative garanzie)).
 
@@ -148,7 +146,7 @@ AGGIORNAMENTO (1)
 
 La Corte costituzionale, con sentenza 25 giugno - 1 luglio 1986, n. 165, (in G.U. 1a s.s. 09/07/1986 n. 32) ha dichiarato l'illegittimita' costituzionale del presente articolo "nella parte in cui la disciplina in esso prevista concerne la Regione Trentino-Alto Adige".
 
-#### Art. 8
+### Art. 8
 
 ((1. Il Ministero dell'industria, del commercio e dell'artigianato stipula apposita convenzione, ai sensi dell'articolo 47 del decreto legislativo 1o settembre 1993, n. 385, con il soggetto gestore del fondo di cui all'articolo 1, comma 1. La convenzione prevede un distinto organo competente a deliberare sui finanziamenti di cui al presente titolo. Dall'attuazione del presente articolo non debbono derivare nuovi o maggiori oneri per il bilancio dello Stato)). (1)
 
@@ -158,7 +156,7 @@ AGGIORNAMENTO (1)
 
 La Corte costituzionale, con sentenza 25 giugno - 1 luglio 1986, n. 165, (in G.U. 1a s.s. 09/07/1986 n. 32) ha dichiarato l'illegittimita' costituzionale del presente articolo "nella parte in cui la disciplina in esso prevista concerne la Regione Trentino-Alto Adige".
 
-#### Art. 9
+### Art. 9
 
 Ai finanziamenti del Foncooper ((e a quelli erogati dalle societa' finanziarie ai sensi dell'articolo 17, comma 5,)) si applicano le agevolazioni tributarie di cui all'articolo 19 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601, e successive modificazioni e integrazioni. (1)
 
@@ -168,7 +166,7 @@ AGGIORNAMENTO (1)
 
 La Corte costituzionale, con sentenza 25 giugno - 1 luglio 1986, n. 165, (in G.U. 1a s.s. 09/07/1986 n. 32) ha dichiarato l'illegittimita' costituzionale del presente articolo "nella parte in cui la disciplina in esso prevista concerne la Regione Trentino-Alto Adige".
 
-#### Art. 10
+### Art. 10
 
 Il primo comma dell'articolo 3 del decreto legislativo del Capo provvisorio dello Stato 15 dicembre 1947, n. 1421, e' sostituito dal seguente:
 
@@ -180,7 +178,7 @@ AGGIORNAMENTO (1)
 
 La Corte costituzionale, con sentenza 25 giugno - 1 luglio 1986, n. 165, (in G.U. 1a s.s. 09/07/1986 n. 32) ha dichiarato l'illegittimita' costituzionale del presente articolo "nella parte in cui la disciplina in esso prevista concerne la Regione Trentino-Alto Adige".
 
-#### Art. 11
+### Art. 11
 
 L'articolo 10 del decreto legislativo del Capo provvisorio dello Stato 15 dicembre 1947, n. 1421, e' sostituito dal seguente:
 
@@ -192,11 +190,11 @@ AGGIORNAMENTO (1)
 
 La Corte costituzionale, con sentenza 25 giugno - 1 luglio 1986, n. 165, (in G.U. 1a s.s. 09/07/1986 n. 32) ha dichiarato l'illegittimita' costituzionale del presente articolo "nella parte in cui la disciplina in esso prevista concerne la Regione Trentino-Alto Adige".
 
-#### Art. 12
+### Art. 12
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385)).
 
-#### Art. 13
+### Art. 13
 
 Gli interessi, i premi ed altri frutti delle obbligazioni e dei titoli similari di cui all'articolo 10 del decreto-legge 30 settembre 1983, n. 512, convertito, con modificazioni, nella legge 25 novembre 1983, n. 649, emessi dalla Sezione speciale per il credito alla cooperazione sono soggetti, ai sensi dell'articolo 26, primo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e successive modificazioni, alla ritenuta del 12,50 per cento, con obbligo di rivalsa. ((1))
 
@@ -206,23 +204,21 @@ AGGIORNAMENTO (1)
 
 La Corte costituzionale, con sentenza 25 giugno - 1 luglio 1986, n. 165, (in G.U. 1a s.s. 09/07/1986 n. 32) ha dichiarato l'illegittimita' costituzionale del presente articolo "nella parte in cui la disciplina in esso prevista concerne la Regione Trentino-Alto Adige".
 
-## Titolo II - ISTITUZIONE E FUNZIONAMENTO DEL FONDO SPECIALE PER GLI INTERVENTI A
+## Titolo II - ISTITUZIONE E FUNZIONAMENTO DEL FONDO SPECIALE PER GLI INTERVENTI A SALVAGUARDIA DEI LIVELLI DI OCCUPAZIONE
 
-### SALVAGUARDIA DEI LIVELLI DI OCCUPAZIONE
-
-#### Art. 14
+### Art. 14
 
 ((ARTICOLO ABROGATO DALLA L. 5 MARZO 2001, N. 57)).
 
-#### Art. 15
+### Art. 15
 
 ((ARTICOLO ABROGATO DALLA L. 5 MARZO 2001, N. 57)).
 
-#### Art. 16
+### Art. 16
 
 ((ARTICOLO ABROGATO DALLA L. 5 MARZO 2001, N. 57)).
 
-#### Art. 17
+### Art. 17
 
 1\. E' istituito presso la Sezione speciale per il credito alla cooperazione, un fondo per gli interventi a salvaguardia dei livelli di occupazione.
 
@@ -266,17 +262,17 @@ AGGIORNAMENTO (3a)
 
 La L. 24 dicembre 1993, n. 537 ha disposto (con l'art. 3, comma 37) che "Il periodo temporale di durata del Fondo speciale per gli interventi a salvaguardia dei livelli di occupazione, istituito con l'articolo 17 della legge 27 febbraio 1985, n. 49, e successive modificazioni, e' prorogato sino al completo impiego delle risorse disponibili nel Fondo stesso".
 
-#### Art. 18
+### Art. 18
 
 ((ARTICOLO ABROGATO DALLA L. 5 MARZO 2001, N. 57)).
 
-#### Art. 19
+### Art. 19
 
 ((ARTICOLO ABROGATO DALLA L. 5 MARZO 2001, N. 57)).
 
 ## Titolo III - FINANZIAMENTO DEI FONDI E DISPOSIZIONI FINALI
 
-#### Art. 20
+### Art. 20
 
 1\. Le disponibilita' esistenti sul fondo di cui all'articolo 3 della legge 12 agosto 1977, n. 675, per effetto anche dell'autorizzazione di spesa di cui all'articolo 59 della legge 7 agosto 1982, n. 526, e all'articolo 19 della legge 26 aprile 1983, n. 130 (legge finanziaria 1983), sono ridotte di lire 180 miliardi. Tale somma sara' versata dal fondo all'entrata del bilancio dello Stato entro trenta giorni dall'entrata in vigore della presente legge.
 
@@ -290,15 +286,15 @@ AGGIORNAMENTO (1)
 
 La Corte costituzionale, con sentenza 25 giugno - 1 luglio 1986, n. 165, (in G.U. 1a s.s. 09/07/1986 n. 32) ha dichiarato l'illegittimita' costituzionale del presente articolo "nella parte in cui la disciplina in esso prevista concerne la Regione Trentino-Alto Adige".
 
-#### Art. 21
+### Art. 21
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385)).
 
-#### Art. 22
+### Art. 22
 
 Il Ministro del tesoro e' autorizzato ad incrementare la propria partecipazione al fondo di dotazione della sezione speciale per il credito alla cooperazione nella misura di 20 miliardi per ciascuno degli anni 1985-86-87. All'onere relativo si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1985-87, al capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno 1985, alla voce "Interventi a sostegno della cooperazione industriale".
 
-#### Art. 23
+### Art. 23
 
 1\. Gli importi di cui alla lettera a) dell'articolo 13 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601, come modificato dall'articolo 15 della legge 2 dicembre 1975, n. 576, e dall'articolo 6-bis del decreto-legge 31 ottobre 1980, n. 693, convertito in legge, con modificazioni, dalla legge 22 dicembre 1980, n. 891, sono ulteriormente elevati, rispettivamente, da lire 10 milioni a lire 20 milioni e da lire 17 milioni a lire 40 milioni.
 
@@ -310,7 +306,7 @@ AGGIORNAMENTO (1)
 
 La Corte costituzionale, con sentenza 25 giugno - 1 luglio 1986, n. 165, (in G.U. 1a s.s. 09/07/1986 n. 32) ha dichiarato l'illegittimita' costituzionale del presente articolo "nella parte in cui la disciplina in esso prevista concerne la Regione Trentino-Alto Adige".
 
-#### Art. 24
+### Art. 24
 
 La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 

@@ -25,11 +25,11 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo tra l'Italia e la Jugoslavia per il regolamento del traffico di persone, nonche' dei trasporti e delle comunicazioni terrestri e marittime tra le aree limitrofe, concluso ad Udine il 31 ottobre 1962.
 
-#### Art. 2
+### Art. 2
 
 Piena ed intera esecuzione e' data all'Accordo di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' dell'articolo 60 dell'Accordo stesso.
 
@@ -43,13 +43,11 @@ MORO - FANFANI - TAVIANI - TREMELLONI - COLOMBO - JERVOLINO - SPAGNOLI - MARIOTT
 
 Visto, il Guardasigilli: REALE
 
-## TITOLO I
-
-### AREE DI APPLICAZIONE DELL'ACCORDO
+## TITOLO I - AREE DI APPLICAZIONE DELL'ACCORDO
 
 Accordo tra la Repubblica italiana e la Repubblica Federativa Popolare di Jugoslavia per il regolamento del traffico di persone nonche' dei trasporti e delle comunicazioni terrestri e marittime tra le aree limitrofe.
 
-#### Art. 1
+### Art. 1
 
 Determinazione delle aree
 
@@ -75,11 +73,9 @@ Eventuali variazioni all'attuale circoscrizione territoriale
 
 amministrativa o catastale dei Comuni o di parte di essi menzionati nei predetti elenchi non avranno alcun effetto sulle aree di applicazione del presente Accordo.
 
-## TITOLO II
+## TITOLO II - MOVIMENTO DELLE PERSONE
 
-### MOVIMENTO DELLE PERSONE
-
-#### Art. 2
+### Art. 2
 
 Persone che hanno diritto al transito
 
@@ -87,7 +83,7 @@ Hanno diritto ad usufruire delle facilitazioni per il movimento per
 
 terra e per mare previste dal presente Accordo tutte le persone stabilmente residenti nelle aree di cui all'articolo 1.
 
-#### Art. 3
+### Art. 3
 
 Documenti per il transito
 
@@ -101,7 +97,7 @@ I documenti che verranno rilasciati ai fini dell'articolo 2 sono i seguenti:
 
 4\) permesso di attraversamento.
 
-#### Art. 4
+### Art. 4
 
 Lasciapassare
 
@@ -133,7 +129,7 @@ aree di applicazione dell'Accordo.
 
 rispettivamente agli allegati 1 e 2.
 
-#### Art. 5
+### Art. 5
 
 Soggiorno nelle aree adiacenti
 
@@ -143,7 +139,7 @@ effettuato al piu' tardi entro 72 ore dall'uscita per i possessori di lasciapass
 
 2\. - Qualora sussistano giustificati motivi di lavoro, di cura, di famiglia e turistici il lasciapassare potra' essere valido, su domanda, per un soggiorno nelle aree adiacenti fino ad un mese. Nella domanda dovra' essere precisato il periodo che l'interessato intende trascorrere nelle aree adiacenti.
 
-#### Art. 6
+### Art. 6
 
 Modalita' di rilascio
 
@@ -179,7 +175,7 @@ La segnalazione di un'autorita' all'altra, riguardante i casi
 
 sopradescritti, dovra' contenere le generalita' del titolare del lasciapassare, i motivi della richiesta e la durata del provvedimento.
 
-#### Art. 7
+### Art. 7
 
 Movimento di persone per attivita' connesse con beni agrari
 
@@ -221,7 +217,7 @@ situati in una delle aree di cui all'articolo 1, lettere a) e Li) del presente A
 
 agricolo al line di usufruire dei loro
 
-#### Art. 8
+### Art. 8
 
 Passaggio di proprieta'
 
@@ -231,13 +227,13 @@ presente Accordo per gli attuali proprietari purche' abbiano conseguito la propr
 
 Le persone a cui favore e' in corso il passaggio di proprieta' di un fondo dovranno, al fine di poter usufruire del diritto alla tessera di transito agricolo previsto dall'articolo 11, allegare alla domanda per la concessione di detta tessera un certificato delle autorita' competenti attestante che le pratiche per il trasferimento della proprieta' sono in corso o che il richiedente e' l'erede o uno degli eredi. Copia di questo certificato sara', trasmessa all'autorita' dell'altra Parte in occasione della richiesta del visto.
 
-#### Art. 9
+### Art. 9
 
 Usufruttuari
 
 Gli stessi diritti dei proprietari avranno i titolari di usufrutto su beni immobili agrari di cui al punto 1) dell'articolo 7 a condizione che siano coniugati o congiunti (figli, nipoti, genitori, fratelli e sorelle, nonni con il proprietario.
 
-#### Art. 10
+### Art. 10
 
 Persone giuridiche
 
@@ -247,7 +243,7 @@ Persone giuridiche
 
 rappresentanti delle persone giuridiche di cui al punto 1, che abbiano stabile residenza in una delle aree di cui si tratta.
 
-#### Art. 11
+### Art. 11
 
 Documenti per il transito agricolo
 
@@ -289,7 +285,7 @@ anche menzionati il nome del proprietario del fondo nonche' il tipo e la durata 
 
 8\. - Sulla tessera per il transito agricolo, che viene rilasciata al titolare del diritto di uso civico, verra' apposto il timbro bilingue con la scritta "Titolare di uso civico" ("Uzivalee obeinskega semljlsca a).
 
-#### Art. 12
+### Art. 12
 
 Modalita' di rilascio
 
@@ -315,7 +311,7 @@ rifiutassero il visto, ne informeranno, entro lo stesso termine di cui al punto 
 
 interessati dovranno esibire, a richiesta delle autorita', documenti comprovanti la proprieta' dei terreni sui quali intendono svolgere le attivita' connesse con beni agrari. Tali documenti saranno rilasciati dai competenti Uffici catastali o tavolari di quell'area nella quale e' situato il terreno.
 
-#### Art. 13
+### Art. 13
 
 Modalita' d'uso
 
@@ -333,7 +329,7 @@ necessita' di recarsi nei propri fondi durante il periodo necessario per il rinn
 
 separa le aree previste dall'Accordo si avvarranno del diritto del passaggio diretto nell'altra area secondo le modalita' concordate dagli organi locali delle due Parti.
 
-#### Art. 14
+### Art. 14
 
 Permesso stagionale di permanenza
 
@@ -345,7 +341,7 @@ esigenze di lavori stagionali debbano permanere nell'altra area per un periodo s
 
 periodo non superiore a tre mesi e sara' rinnovabile. Esso sara' conforme al modello di cui all'allegato 7. Per il rilascio e per il visto valgono le norme dell'articolo 12.
 
-#### Art. 15
+### Art. 15
 
 Lasciapassare straordinario
 
@@ -377,7 +373,7 @@ nell'altra area per un periodo fino a 10 giorni ed il transito sara' consentito 
 
 4\. - Il lasciapassare di cui sopra sara' conforme all'allegato 8 e dovra' essere esibito con la carta di identita'.
 
-#### Art. 16
+### Art. 16
 
 Permesso di attraversamento
 
@@ -399,7 +395,7 @@ potra' essere prorogato.
 
 si applicheranno le disposizioni di cui all'articolo 6 del presente Accordo, intendendosi sostituita al "visto" delle autorita' dell'altra Parte, la "autorizzazione" all'attraversamento.
 
-#### Art. 17
+### Art. 17
 
 Casi di calamita'
 
@@ -407,7 +403,7 @@ Nei casi di calamita' (incendio, inondazione e simili) sara'
 
 permesso, d'intesa tra le competenti autorita' locali, alla popolazione esposta al pericolo, nonche' alle persone che intervengano per l'opera di salvataggio, il passaggio e la permanenza nell'area adiacente, finche' perdura lo stato di pericolo.
 
-#### Art. 18
+### Art. 18
 
 Punti di passaggio
 
@@ -443,7 +439,7 @@ Gli organi locali competenti delle due Parti si scambieranno ogni anno, nel mese
 
 accordo, i periodi di apertura dei punti di passaggio di seconda categoria stagionali in base alle effettive necessita' delle popolazioni interessate.
 
-#### Art. 19
+### Art. 19
 
 Disposizioni comuni ai documenti per il transito
 
@@ -495,11 +491,9 @@ correzioni od aggiunte agli stessi, ma dopo che le autorita' dell'altra Parte li
 
 4 e 15 dell'Accordo, qualora soggiornino nell'altra area per un periodo piu' lungo di 72 ore, dovranno attenersi alle disposizioni sulla notifica alle competenti autorita'.
 
-## TITOLO III.
+## TITOLO III. - TRASPORTI MARITTIMI E TERRESTRI
 
-### TRASPORTI MARITTIMI E TERRESTRI
-
-#### Art. 20
+### Art. 20
 
 Principio della reciprocita'
 
@@ -507,7 +501,7 @@ Le condizioni generali relative all'istituzione ed all'esercizio della linee di 
 
 In questo senso saranno interpretati gli articoli che disciplinano tale materia.
 
-#### Art. 21
+### Art. 21
 
 Reciprocita' delle linee
 
@@ -515,7 +509,7 @@ Ai sensi dell'articolo 20 ciascuna delle Parti contraenti avra'
 
 facolta' di provvedere in tutto o in parte alle esercizio delle proprie linee indipendentemente dal fatto che l'altra Parte si avvalga o meno della facolta' di esercitare le proprie linee corrispondenti.
 
-#### Art. 22
+### Art. 22
 
 Disciplina delle linee marittime e terrestri
 
@@ -529,7 +523,7 @@ Eventuali modifiche stagionali degli orari sia per le linee
 
 marittimi che per quelle automobilistiche possono avere luogo nel corso dell'anno, per mezzo di accordi diretti fra le competenti autorita' locali delle due Parti.
 
-#### Art. 23
+### Art. 23
 
 Esenzione fiscale a favore di imprese di trasporti
 
@@ -537,7 +531,7 @@ Allo scopo di evitare una doppia tassazione e di agevolare i
 
 traffici di linea tra le aree di cui al presente Accordo, le imprese marittime come pure quelle di autotrasporti che esercitano il servizio di passeggeri tra le predette aree, non saranno assoggettate nell'altra area, sempreche' le imprese stesse non vi abbiano alcuna organizzazione stabile, al pagamento di alcuna imposta, tassa o contributo eccetera che colpiscano redditi, entrate lorde, mezzi di trasporto, biglietti o atti amministrativi (come per esempio per le autolinee, le concessioni).
 
-#### Art. 24
+### Art. 24
 
 Tariffe per il trasporto dei viaggiatori
 
@@ -551,7 +545,7 @@ Qualora una Parte ritenga che a causa di mutate condizioni
 
 obiettive che influiscano silla formazione della tariffe sia necessario che la Commissione mista permanente si riunisca, essa puo' chiedere che entro il termine di un mese venga convocata una riunione straordinaria della Commissione.
 
-#### Art. 25
+### Art. 25
 
 Vendita dei biglietti
 
@@ -565,7 +559,7 @@ I biglietti per i trasporti marittimi e terrestri saranno pagati in
 
 valuta legale del luogo di vendita.
 
-#### Art. 26
+### Art. 26
 
 Trasferimento delle somme riscosse per biglietti
 
@@ -577,7 +571,7 @@ Da tali conti potranno essere prelevate dalle imprese intestatarie le somme occo
 
 I saldi dei predetti conti saranno trasferiti in conformita' alle disposizioni generali stabilite nell'Accordo di pagamento in vigore fra le due Parti contraenti al momento del trasferimento stesso.
 
-#### Art. 27
+### Art. 27
 
 Bandiera delle navi e notifica per attivazione di linee
 
@@ -589,7 +583,7 @@ In relazione al quadro dei servizi di cui all'articolo 22, le
 
 componenti autorita' locali di una delle Parti notificheranno alle competenti autorita' localli dell'altra Parte la data di inizio di ogni linea, i nominativi delle imprese che eserciteranno le linee stesse, nonche' le navi che saranno impiegate.
 
-#### Art. 28
+### Art. 28
 
 Trattamento delle navi
 
@@ -601,7 +595,7 @@ Saranno ridotte al minimo strettamente necessario le formalita'
 
 alle quali nei porti dell'altra area possano comunque essere sottoposte le navi di cui al precedente comma, i loro equipaggi ed i passeggeri.
 
-#### Art. 29
+### Art. 29
 
 Divieto di cabotaggio
 
@@ -611,19 +605,19 @@ contraenti non potranno effettuare il cabotaggio fra i porti dell'altra area.
 
 Non si intendera' per cabotaggio il fatto che una nave tocchi piu' porti di un'area per imbarcare passeggeri diretti in uno dei porti dell'altra area.
 
-#### Art. 30
+### Art. 30
 
 Trasporto di merci a mezzo di navi
 
 Eventuali trasporti di merci a mezzo delle navi che effettueranno il trasporto dei passeggeri, ai sensi del presente Accordo, saranno regolati dalle disposizioni generali vigenti.
 
-#### Art. 31
+### Art. 31
 
 Applicazione di disposizioni piu' favorevoli
 
 Tutte le disposizioni eventualmente piu' favorevoli in materia di trasporti marittimi e terrestri, contenute in convenzioni generali tra la Repubblica italiana e la Repubblica Popolare Federativa Jugoslava, verranno applicate rispettivamente ai servizi marittimi e terrestri di cui al presente Accordo.
 
-#### Art. 32
+### Art. 32
 
 Esercizio di servizi automobilistici di linea
 
@@ -639,7 +633,7 @@ Tali concessioni avranno la validita' di un anno e potranno essere prorogate.
 
 In casi particolari, potranno essere rilasciate concessioni anche per periodi piu' brevi.
 
-#### Art. 33
+### Art. 33
 
 Rilascio di concessioni
 
@@ -653,7 +647,7 @@ Le domande che siano state approvate dalle competenti autorita'
 
 locali di una Parte saranno trasmesse alle competenti autorita' locali dell'altra Parte, le quali saranno tenute a comunicare la loro decisione entro 15 giorni.
 
-#### Art. 34
+### Art. 34
 
 Ritiro della concessione
 
@@ -667,13 +661,13 @@ Nel caso che a un'impresa sia stata ritirata la concessione, il
 
 servizio gia' dalla stessa esercitato verra' concesso ad altra impresa secondo la procedura di cui all'articolo 33.
 
-#### Art. 35
+### Art. 35
 
 Divieto di traffico interno nell'area adiacente
 
 Le imprese autorizzate ai sensi dell'articolo 33 ad esercitare gli autoservizi di linea tra le aree di cui ai presente Accordo non potranno nelle aree adiacenti effettuare il traffico interno e cioe' il trasporto di viaggiatori diretti da una localita' all'altra di dette aree.
 
-#### Art. 36
+### Art. 36
 
 Assicurazioni
 
@@ -681,7 +675,7 @@ Gli autoveicoli adibiti alle autolinee devono essere assicurati
 
 contro i rischi della responsabilita' civile mediante polizza di assicurazione avente effetto per l'intero percorso.
 
-#### Art. 37
+### Art. 37
 
 Documenti di circolazione per gli autoveicoli
 
@@ -697,7 +691,7 @@ Viene altresi' riconosciuto il diritto di transito con veicoli a
 
 motore per il trasporto di persone anche nei casi in cui i veicoli non siano di proprieta' del conducente.
 
-#### Art. 38
+### Art. 38
 
 Facilitazioni doganali per gli autoveicoli
 
@@ -707,13 +701,13 @@ E' del pari esente dal pagamento dei diritti doganali il carburante
 
 contenuto nel serbatoio previsto per ciascun tipo di veicolo che sia direttamente collegato col motore.
 
-#### Art. 39
+### Art. 39
 
 Servizio postale
 
 Le Parti contraenti esamineranno le possibilita' di utilizzare le linee marittime e terrestri di cui al presente Accordo per effettuare servizi postali giornalieri.
 
-#### Art. 40
+### Art. 40
 
 Linee marittime e terrestri
 
@@ -721,17 +715,15 @@ Le linee marittime e terrestri istituite in base al presente
 
 Accordo sono elencate nell'allegato 13.
 
-## TITOLO IV
+## TITOLO IV - FACILITAZIONI FISCALI E DOGANALI
 
-### FACILITAZIONI FISCALI E DOGANALI
-
-#### Art. 41
+### Art. 41
 
 Tasse, imposte ed altri oneri
 
 I fondi appartenenti a persone residenti in una delle aree di cui al presente Accordo e situati nell'area adiacente, nonche' i relativi redditi, non saranno gravati da tasse, imposte od altri oneri maggiori di quelli che gravano sui fondi e relativi redditi appartenenti a persone residenti nell'area ove i fondi stessi sono situati.
 
-#### Art. 42
+### Art. 42
 
 Facilitazioni per i titolari di tessere di transito agricolo
 
@@ -765,7 +757,7 @@ nell'area di stabile residenza subito dopo il termine dei lavori o del pascolo. 
 
 non usato e i carburanti non consumati devono essere parimenti riportati, a lavoro ultimato, nell'area di stabile residenza.
 
-#### Art. 43
+### Art. 43
 
 Transumanza stagionale
 
@@ -785,7 +777,7 @@ Le autorita' competenti di ciascuna delle Parti, allo scopo di
 
 rendere possibile l'identificazione del bestiame che viene portato nell'altra area per la transumanza, potranno prendere misure per l'eventuale applicazione di un contrassegno.
 
-#### Art. 44
+### Art. 44
 
 Facolitazioni per i prodotti agricoli
 
@@ -801,7 +793,7 @@ I lasciapassare rilasciati ai produttori agricoli saranno
 
 stampigliati con una dicitura attestante questa loro qualita' al fine del godimento delle facilitazioni previste dal presente articolo.
 
-#### Art. 45
+### Art. 45
 
 Facilitazioni per operai ed impiegati
 
@@ -813,7 +805,7 @@ Alle persone di cui al presente articolo sara' consentito di
 
 trasferire tutto o la residua parte del salario in conformita' alle modalita' previste dagli Accordi di pagamento vigenti tra le Parti contraenti al momento del trasferimento.
 
-#### Art. 46
+### Art. 46
 
 Facilitazioni valutarie
 
@@ -837,7 +829,7 @@ facilitazioni di cui al primo capoverso, potranno, in occasione del ritorno nel 
 
 persone dal presente Accordo non escludono il diritto di dette persone di avvalersi delle disposizioni valutarie di carattere generale vigenti nel territorio dal quale la valuta proviene.
 
-#### Art. 47
+### Art. 47
 
 Controllo doganale
 
@@ -845,7 +837,7 @@ Gli organi doganali, al fine del controllo dell'utilizzazione delle
 
 facilitazioni di cui agli articoli 44, 45 e 46, accerteranno sulla base dei prezzi correnti il valore dei generi che vengono importati ed esportati e lo annoteranno nello spazio appositamente predisposto sul lasciapassare.
 
-#### Art. 48
+### Art. 48
 
 Norma comune agli articoli 44, 45 e 46
 
@@ -861,7 +853,7 @@ Ai fini dell'applicazione del primo comma del presente articolo, le
 
 due Parti si scambieranno gli elenchi dei prezzi vigenti nei rispettivi mercati interni, elenchi che saranno esposti nei locali delle Dogane per opportuna conoscenza delle persone interessate. Lo scambio e l'affissione degli elenchi avra' luogo ogni mese per quanto concerne il periodo 1 aprile 30 settembre ed ogni tre mesi per la rimanente parte dell'anno e varra' per tutte le aree contemplate dall'Accordo. Lo scambio degli elenchi si effettua nei puniti di passaggio di prima categoria.
 
-#### Art. 49
+### Art. 49
 
 Facilitazioni per medici veterinari e levatrici
 
@@ -869,7 +861,7 @@ Ai medici, ai veterinari, alle levatrici sara' consentito di recare
 
 seco, senza permessi di importazione e di esportazione, in esenzione di dazio doganale e di ogni altro diritto, gli strumenti chimici ed il materiale sanitario occorrenti per le loro esigenze professionali, con l'obbligo di riportare nell'area di residenza stabile, a prestazione ultimata, gli strumenti ed il materiale non usato.
 
-#### Art. 50
+### Art. 50
 
 Facilitazioni per l'importazione ed esportazione di medicinali
 
@@ -881,7 +873,7 @@ a) medicinali acquistati in base a ricetta medica o veterinaria;
 
 b) medicinali acquistabili anche senza ricetta medica, quando la loro denominazione risulti dall'indicazione dell'involucro e, qualora vengano importati per uso proprio del portatore o per un membro della sua famiglia, nelle normali quantita' contenute nei singoli pacchetti nella vendita al dettaglio.
 
-#### Art. 51
+### Art. 51
 
 Altre facilitazioni
 
@@ -899,11 +891,9 @@ b) un mazzo di fiori o una corona in occasione di onoranze
 
 funebri.
 
-## TITOLO V
+## TITOLO V - MISURE SANITARIE, VETERINARIE E FITOPATOLOGICHE
 
-### MISURE SANITARIE, - VETERINARIE E FITOPATOLOGICHE
-
-#### Art. 52
+### Art. 52
 
 Scambio di informazioni sanitarie
 
@@ -913,7 +903,7 @@ L'entita' e le modalita' delle reciproche comunicazioni sono
 
 riportate nell'allegato 16.
 
-#### Art. 53
+### Art. 53
 
 Misure veterinarie
 
@@ -941,7 +931,7 @@ riportate nell'allegato 17.
 
 9\. - In casi eccezionali, le autorita' competenti delle due Parti si riservano di adottare speciali misure veterinarie.
 
-#### Art. 54
+### Art. 54
 
 Misure fitopatologiche
 
@@ -981,11 +971,9 @@ come anche l'indicazione degli organi competenti sono precisati nell'allegato 18
 
 8\. - In casi eccezionali, le autorita' competenti delle due Parti si riservano di adottare speciali misure fipatologiche.
 
-## TITOLO VI
+## TITOLO VI - ASSICURAZIONI SOCIALI RELATIVE A RAPPORTI DI LAVORO
 
-### ASSICURAZIONI SOCIALI RELATIVE A RAPPORTI DI LAVORO
-
-#### Art. 55
+### Art. 55
 
 Stipulazione di speciali convenzioni
 
@@ -997,19 +985,15 @@ Le predette convenzioni regolano anche la procedura per il rimborso
 
 delle spese che gli Istituti di un'area avranno sostenuto per conto degli Istituti dell'altra area.
 
-## TITOLO VII
+## TITOLO VII - FORNITURA D'ACQUA DALL'ACQUEDOTTO DI MUGGIA
 
-### FORNITURA D'ACQUA DALL'ACQUEDOTTO DI MUGGIA
-
-#### Art. 56
+### Art. 56
 
 La fornitura di acqua da parte del Comune di Muggia alle localita' dell'area adiacente e' regolata da apposita Convenzione stipulata a Capodistria in data 13 dicembre 1958.
 
-## TITOLO VIII
+## TITOLO VIII - DISPOSIZIONI DI CARATTERE GENERALE
 
-### DISPOSIZIONI DI CARATTERE GENERALE
-
-#### Art. 57
+### Art. 57
 
 Commissione mista permanente
 
@@ -1043,7 +1027,7 @@ Le decisioni della Commissione saranno prese alla unanimita' e
 
 saranno sottoposte all'approvazione dei due Governi, ai quali saranno anche deferite le questioni sulle quali la Commissione non dovesse raggiungere un accordo.
 
-#### Art. 58
+### Art. 58
 
 Tessera speciale
 
@@ -1067,13 +1051,13 @@ Ai titolari delle tessere speciali, gli organi di controllo dei
 
 punti di passaggio presteranno ogni assistenza per lo svolgimento dei loro compiti.
 
-#### Art. 59
+### Art. 59
 
 Durata dell'Accordo
 
 Il presente Accordo sara' valido un anno e sara' considerato come rinnovato tacitamente per lo stesso periodo se non verra' denunciato almeno tre mesi prima della sua scadenza.
 
-#### Art. 60
+### Art. 60
 
 Disposizioni finali
 
@@ -1101,7 +1085,7 @@ Per il Governo della Repubblica italiana
 
 M. CASTRONUOVO
 
-#### Allegato A
+### Allegato A
 
 ALLEGATO A.
 
@@ -1113,7 +1097,7 @@ SPISAK OPSTINA PRODUCJA TRST U KOJIMA SE PRIMENJUJU ODREDBE OVOG SPORAZUMA
 
 Parte di provvedimento in formato grafico
 
-#### Allegato B
+### Allegato B
 
 ALLEGATO B.
 
@@ -1121,7 +1105,7 @@ ELENCO DEI DISTRETTI, COMUNI E PARTE DI COMUNI NELLE AREE CHE CONFINANO CON L'AR
 
 Parte di provvedimento in formato grafico
 
-#### Allegato C
+### Allegato C
 
 ALLEGATO C.
 
@@ -1129,7 +1113,7 @@ ELENCO DEI COMUNI E PARTE DI ESSI DELL'AREA DI GORIZIA E UDINE NEI QUALI SI APPL
 
 Parte di provvedimento in formato grafico
 
-#### Allegato D
+### Allegato D
 
 ALLEGATO D.
 
@@ -1137,7 +1121,7 @@ ELENCO DEI COMUNI E PARTE DEI COMUNI DEI DISTRETTI DI CAPO DISTRIA, NOVA GORICA 
 
 Parte di provvedimento in formato grafico
 
-#### Allegato 1
+### Allegato 1
 
 ALLEGATO 1.
 
@@ -1145,7 +1129,7 @@ LASCIAPASSARE
 
 Parte di provvedimento in formato grafico
 
-#### Allegato 2
+### Allegato 2
 
 ALLEGATO 2.
 
@@ -1153,7 +1137,7 @@ LASCIAPASSARE
 
 Parte di provvedimento in formato grafico
 
-#### Allegato 3
+### Allegato 3
 
 ALLEGATO 3.
 
@@ -1161,7 +1145,7 @@ CERTIFICATO PROVVISORIO DI TRANSITO
 
 Parte di provvedimento in formato grafico
 
-#### Allegato 4
+### Allegato 4
 
 ALLEGATO 4.
 
@@ -1169,7 +1153,7 @@ TESSERA PER IL TRANSITO AGRICOLO
 
 Parte di provvedimento in formato grafico
 
-#### Allegato 5
+### Allegato 5
 
 ALLEGATO 5.
 
@@ -1177,7 +1161,7 @@ PERMESSO DI TRANSITO AGRICOLO N.
 
 Parte di provvedimento in formato grafico
 
-#### Allegato 6
+### Allegato 6
 
 ALLEGATO 6.
 
@@ -1185,7 +1169,7 @@ CERTIFICATO PROVVISORIO
 
 Parte di provvedimento in formato grafico
 
-#### Allegato 7
+### Allegato 7
 
 ALLEGATO 7.
 
@@ -1193,7 +1177,7 @@ PERMESSO STAGIONALE DI PERMANENZA Nro
 
 Parte di provvedimento in formato grafico
 
-#### Allegato 8
+### Allegato 8
 
 ALLEGATO 8.
 
@@ -1201,7 +1185,7 @@ LASCIAPASSARE STRAORDINARIO
 
 Parte di provvedimento in formato grafico
 
-#### Allegato 9
+### Allegato 9
 
 ALLEGATO 9.
 
@@ -1209,7 +1193,7 @@ PERMESSO DI ATTRAVERSAMENTO N.
 
 Parte di provvedimento in formato grafico
 
-#### Allegato 10
+### Allegato 10
 
 ALLEGATO 10.
 
@@ -1219,7 +1203,7 @@ PUNTI DI PASSAGGIO DELLE AREE DI CUI ALLE LETTERE a) e b) DELL'ART. 1
 
 Parte di provvedimento in formato grafico
 
-#### Allegato 11
+### Allegato 11
 
 ALLEGATO 11.
 
@@ -1229,7 +1213,7 @@ VALICHI DELLE AREE DI CUI ALLE LETTERE c) e d) DELL'ARTICOLO 1
 
 Parte di provvedimento in formato grafico
 
-#### Allegato 12
+### Allegato 12
 
 ALLEGATO 12.
 
@@ -1237,7 +1221,7 @@ ATTESTAZIONE
 
 Parte di provvedimento in formato grafico
 
-#### Allegato 13
+### Allegato 13
 
 ALLEGATO 13.
 
@@ -1247,7 +1231,7 @@ LINEE MARITTIME E' TERRESTRI
 
 Parte di provvedimento in formato grafico
 
-#### Allegato 14
+### Allegato 14
 
 ALLEGATO 14.
 
@@ -1257,7 +1241,7 @@ VALUTE E GENERI
 
 Parte di provvedimento in formato grafico
 
-#### Allegato 15
+### Allegato 15
 
 ALLEGATO 15.
 
@@ -1267,7 +1251,7 @@ ELENCO DEI GENERI
 
 Parte di provvedimento in formato grafico
 
-#### Allegato 16
+### Allegato 16
 
 ALLEGATO 16.
 
@@ -1277,7 +1261,7 @@ SCAMBIO DI INFORMAZIONI SANITARIE
 
 Parte di provvedimento in formato grafico
 
-#### Allegato 17
+### Allegato 17
 
 ALLEGATO 17.
 
@@ -1389,7 +1373,7 @@ Il veterinario provinciale di Udine all'Ispettorato veterinario del
 
 Comitato popolare distrettuale di Kranj e viceversa.
 
-#### Allegato 18
+### Allegato 18
 
 ALLEGATO 18.
 
@@ -1449,7 +1433,7 @@ Per il funzionamento della Commissione mista permanente
 
 italo-jugoslava prevista dall'art. 57 dell'Accordo.
 
-#### Art. 1
+### Art. 1
 
 La Commissione mista permanente e' Porgano al quale sono affidati i
 
@@ -1471,7 +1455,7 @@ organi locali, come pure le questioni sulle quali non vi e' accordo tra i predet
 
 \- di adempiere a tutti gli altri compiti ad essa demandati.
 
-#### Art. 2
+### Art. 2
 
 La Commissione mista permanente e' composta da sei membri di cui
 
@@ -1479,17 +1463,17 @@ tre nominati dal Governo italiano e tre nominati dal Governo Jugoslavo. Ogni Gov
 
 La Commissione potra' avvalersi della collaborazione di esperti.
 
-#### Art. 3
+### Art. 3
 
 La Commissione mista permanente si riunira' alternativamente nella Repubblica italiana e nella Repubblica Popolare Jugoslava.
 
-#### Art. 4
+### Art. 4
 
 In ogni Sessione della Commissione mista permanente verra' fissata la data per la riunione successiva. Qualora se ne ravvisi la necessita', la data gia' concordata per la riunione della Commissione mista permanente potra' essere modificata mediante intesa tra i Presidenti della due Delegazioni. Le reciproche comunicazioni potranno essere effettuate per via diplomatica o direttamente.
 
 Parimenti per via diplomatica o mediante comunicazioni dirette tra i Presidenti verranno mantenuti contatti tra le due Delegazioni per lo scambio di reciproche informazioni nel periodo tra una riunione e l'altra.
 
-#### Art. 5
+### Art. 5
 
 Le sedute della Commissione mista permanente saranno presiedute
 
@@ -1499,7 +1483,7 @@ Le sedute della Commissione mista permanente saranno presiedute
 
 alternativamente dai Presidenti delle due Delegazioni. Il primo a presiedere sara' il Presidente della Delegazione del Paese sul cui territorio si svolgono le sedute.
 
-#### Art. 6
+### Art. 6
 
 Le sedute della Commissione mista permanente avranno luogo nei
 
@@ -1509,23 +1493,23 @@ Su richiesta di una delle due Delegazioni l'interruzione tra le
 
 singole sedute potra' essere prolungata sino a 24 ore e qualora ambedue le Delegazioni concordino sino a 48 ore.
 
-#### Art. 7
+### Art. 7
 
 Le lingue ufficiali della Commissione mista permanente sono
 
 l'italiano e il serbo-croato.
 
-#### Art. 8
+### Art. 8
 
 Qualora venga ritenuto utile ai fini di una piu' rapida soluzione delle questioni derivanti dall'applicazione dell'Accordo, la Commissione mista permanente potra' effettuare dei sopraluoghi nelle aree previste dall'Accordo stesso.
 
-#### Art. 9
+### Art. 9
 
 Di ogni Sessione della Commissione mista permanente verra' redatto un verbale comune, in duplice esemplare, in lingua italiana e serbo-croata, facenti ambedue ugualmente fede.
 
 I verbali verranno firmati dai Presidenti delle Delegazioni oppure dai loro sostituti.
 
-#### Art. 10
+### Art. 10
 
 Le decisioni della Commissione mista permanente saranno prese
 
@@ -1533,13 +1517,13 @@ all'unanimita' e saranno sottoposte all'approvazione dei due Governi.
 
 Ai Governi stessi saranno anche deferite le questioni sulle quali la Commissione mista permanente non avesse potuto raggiungere un accordo.
 
-#### Art. 11
+### Art. 11
 
 I membri della Commissione mista permanente ed i loro sostituti
 
 godranno nell'espletamento delle loro funzioni dei privilegi normalmente riconosciuti nella prassi internazionale.
 
-#### Art. 12
+### Art. 12
 
 Il presente Regolamento sara' applicato dal giorno della firma.
 
@@ -1551,7 +1535,7 @@ Il Presidente Il Presidente
 
 della Delegazione italiana della Delegazione Jugoslav MANLIO CASTRONUOVO KAREL FORTE
 
-#### Allegato 20
+### Allegato 20
 
 ALLEGATO 20.
 

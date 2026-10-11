@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I
+## Capo I - Legge annuale di semplificazione normativa
 
-### Legge annuale di semplificazione normativa
-
-#### Art. 1
+### Art. 1
 
 Legge annuale di semplificazione normativa
 
@@ -68,7 +66,7 @@ Sullo schema di disegno di legge e' acquisito il parere della Conferenza unifica
 
 > \- L'articolo 20 della legge 15 marzo 1997, n. 59 recante: «Delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa», pubblicata nella Gazzetta Ufficiale n. 63 del 17 marzo 1997, e' abrogato dalla presente legge.
 
-#### Art. 2
+### Art. 2
 
 Disposizioni generali per l'esercizio delle deleghe legislative conferite dalla legge annuale di semplificazione normativa
 
@@ -116,7 +114,7 @@ g) limitazione e riduzione di vincoli, adempimenti e prescrizioni ritenuti non n
 
 > Omissis.».
 
-#### Art. 3
+### Art. 3
 
 Normativa di principio
 
@@ -184,11 +182,9 @@ Normativa di principio
 
 > Nelle materie di legislazione concorrente spetta alle Regioni la potesta' legislativa, salvo che per la determinazione dei principi fondamentali, riservata alla legislazione dello Stato.».
 
-## Capo II
+## Capo II - Misure volte al miglioramento della qualita' della normazione
 
-### Misure volte al miglioramento della qualita' della normazione
-
-#### Art. 4
+### Art. 4
 
 Valutazione di impatto generazionale
 
@@ -326,7 +322,7 @@ Valutazione di impatto generazionale
 
 > \- Il decreto del Presidente del Consiglio dei ministri 15 settembre 2017, n. 169 recante: «Regolamento recante disciplina sull'analisi dell'impatto della regolamentazione, la verifica dell'impatto della regolamentazione e la consultazione» e' pubblicato nella Gazzetta Ufficiale n. 280 del 30 novembre 2017.
 
-#### Art. 5
+### Art. 5
 
 Osservatorio per l'impatto generazionale delle leggi
 
@@ -338,7 +334,7 @@ Osservatorio per l'impatto generazionale delle leggi
 
 4\. All'istituzione e al funzionamento dell'Osservatorio si provvede nei limiti delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente, senza nuovi o maggiori oneri per la finanza pubblica. Ai componenti dell'Osservatorio non spettano compensi, gettoni di presenza, rimborsi di spese o altri emolumenti comunque denominati.
 
-#### Art. 6
+### Art. 6
 
 Disposizioni in materia di valutazione
 
@@ -352,7 +348,7 @@ dell'impatto di genere della regolamentazione
 
 > \- Per i riferimenti all'articolo 14 della legge 28 novembre 2005, n. 246, si vedano le note all'articolo 4.
 
-#### Art. 7
+### Art. 7
 
 Disposizioni in materia di statistiche di genere
 
@@ -360,7 +356,7 @@ Disposizioni in materia di statistiche di genere
 
 2\. Spetta al Presidente del Consiglio dei ministri ovvero all'Autorita' politica delegata per le pari opportunita' il potere di indirizzo in merito all'individuazione, con appositi provvedimenti, delle esigenze di rilevazione statistica funzionali alle politiche di contrasto alle disuguaglianze tra uomini e donne.
 
-#### Art. 8
+### Art. 8
 
 Modifica del codice delle pari opportunita'
 
@@ -374,7 +370,7 @@ tra uomo e donna
 
 > «Art. 20 (Relazione al Parlamento). - 1. La consigliera o il consigliere nazionale di parita', anche sulla base del rapporto di cui all'articolo 15, comma 7, nonche' delle indicazioni fornite dal Comitato di cui all'articolo 8, presenta al Parlamento, ogni due anni, una relazione contenente i risultati del monitoraggio sull'applicazione della legislazione in materia di parita' e pari opportunita' nel lavoro, sulle ricadute sull'occupazione femminile degli investimenti pubblici in materia di occupazione, formazione e politiche sociali e sulla valutazione degli effetti delle disposizioni del presente decreto.».
 
-#### Art. 9
+### Art. 9
 
 Delega al Governo per la digitalizzazione
 
@@ -440,7 +436,7 @@ c) individuazione e disciplina delle modalita' digitali di pubblicazione, di con
 
 > 4-ter. Con regolamenti da emanare ai sensi del comma 1 del presente articolo, si provvede al periodico riordino delle disposizioni regolamentari vigenti, alla ricognizione di quelle che sono state oggetto di abrogazione implicita e all'espressa abrogazione di quelle che hanno esaurito la loro funzione o sono prive di effettivo contenuto normativo o sono comunque obsolete.».
 
-#### Art. 10
+### Art. 10
 
 Disposizioni in materia di adozione in formato digitale
 
@@ -470,7 +466,7 @@ dei regolamenti ministeriali
 
 > \- Per i riferimenti al regio decreto-legge 27 ottobre 1927, n. 2092, si vedano le note all'articolo 9.
 
-#### Art. 11
+### Art. 11
 
 Delega al Governo in materia di semplificazione, aggiornamento e riassetto del codice dell'amministrazione digitale
 
@@ -490,11 +486,9 @@ b) garantire e rafforzare l'interoperabilita' dei sistemi informativi e delle ba
 
 > \- Per i riferimenti all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, si vedano le note all'articolo 1.
 
-## Capo III
+## Capo III - Deleghe al governo per la semplificazione, il riordino e il riassetto di determinate materie della normativa vigente
 
-### Deleghe al governo per la semplificazione, il riordino e il riassetto - di determinate materie della normativa vigente
-
-#### Art. 12
+### Art. 12
 
 Delega al Governo in materia di affari esteri e cooperazione internazionale
 
@@ -514,7 +508,7 @@ c) indicazione dei criteri ai quali si attengono i regolamenti previsti dai comm
 
 5\. Con regolamento adottato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, le disposizioni regolamentari di competenza dello Stato adottate ((, ai sensi della medesima disposizione, dal Presidente del Consiglio dei ministri o dal)) dal Ministro degli affari esteri e della cooperazione internazionale nelle materie disciplinate dai decreti legislativi di cui al comma 1 del presente articolo sono riunite in un testo unico, adeguandole, ove necessario, alla nuova disciplina di livello primario.
 
-#### Art. 13
+### Art. 13
 
 Delega al Governo per la revisione del codice della navigazione e di altre disposizioni legislative statali in materia di navigazione interna e promiscua
 
@@ -586,7 +580,7 @@ g) previsione della possibilita' per il capo del compartimento marittimo, d'inte
 
 > \- Il decreto del Presidente della Repubblica 28 giugno 1949, n. 631 recante: «Approvazione del regolamento per la navigazione interna» e' pubblicato nella Gazzetta Ufficiale n. 214 del 17 settembre 1949.
 
-#### Art. 14
+### Art. 14
 
 Delega al Governo per la revisione del testo unico delle leggi per la disciplina dell'elettorato attivo e per la tenuta e la revisione delle liste elettorali
 
@@ -606,7 +600,7 @@ d) armonizzazione delle disposizioni del citato testo unico con quelle previste 
 
 4\. Entro dodici mesi dalla data di entrata in vigore del decreto legislativo di cui al comma 1, il Governo puo' adottare, nel rispetto dei principi e criteri direttivi e della procedura di cui al presente articolo, uno o piu' decreti legislativi modificativi, recanti disposizioni integrative o correttive.
 
-#### Art. 15
+### Art. 15
 
 Delega al Governo in materia di istruzione
 
@@ -642,7 +636,7 @@ e) fermo restando il principio dell'autonomia scolastica, revisione della discip
 
 > \- Per i riferimenti all'articolo 17 della legge 23 agosto 1988, n. 400 si vedano le note all'articolo 9.
 
-#### Art. 16
+### Art. 16
 
 Delega al Governo in materia di disabilita'
 
@@ -804,7 +798,7 @@ f) semplificazione degli oneri di rendicontazione gravanti sui caregiver familia
 
 > 4\. In caso di motivata urgenza il Consiglio dei Ministri puo' provvedere senza l'osservanza delle disposizioni del presente articolo. I provvedimenti adottati sono sottoposti all'esame della Conferenza Stato-regioni nei successivi quindici giorni. Il Consiglio dei Ministri e' tenuto ad esaminare le osservazioni della Conferenza Stato-regioni ai fini di eventuali deliberazioni successive.».
 
-#### Art. 17
+### Art. 17
 
 Delega al Governo in materia di misure di protezione giuridica
 
@@ -830,7 +824,7 @@ e) riordino, adeguamento e rafforzamento delle sanzioni, anche penali, per le co
 
 > \- Per i riferimenti all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, si vedano le note all'articolo 1.
 
-#### Art. 18
+### Art. 18
 
 Delega al Governo in materia di protezione civile
 
@@ -1132,7 +1126,7 @@ v) adeguamento alla giurisprudenza della Corte costituzionale e delle giurisdizi
 
 > \- Per i riferimenti all'articolo 3 del decreto legislativo 28 agosto 1997, n. 281, si vedano le note all'articolo 16.
 
-#### Art. 19
+### Art. 19
 
 Delega al Governo in materia di politiche per la famiglia,
 
@@ -1160,7 +1154,7 @@ d) introduzione di modalita' di coordinamento fra gli osservatori di cui al comm
 
 > \- Il decreto Presidente della Repubblica 14 maggio 2007, n. 103 recante: «Regolamento recante riordino dell'Osservatorio nazionale per l'infanzia e l'adolescenza e del Centro nazionale di documentazione e di analisi per l'infanzia, a norma dell'articolo 29 del D.L. 4 luglio 2006, n. 223, convertito, con modificazioni, dalla L. 4 agosto 2006, n. 248» e' pubblicato nella Gazzetta Ufficiale n. 169 del 23 luglio 2007.
 
-#### Art. 20
+### Art. 20
 
 Delega al Governo in materia di formazione superiore e ricerca
 
@@ -1202,7 +1196,7 @@ Sugli schemi dei decreti legislativi di cui al comma 1, lettera f), e' acquisita
 
 > \- Per i riferimenti all'articolo 17 della legge 23 agosto 1988, n. 400, si vedano le note all'articolo 9.
 
-#### Art. 21
+### Art. 21
 
 Delega al Governo per il coordinamento della normativa in materia di tutela della salute e della sicurezza dei lavoratori nei settori portuale, marittimo, delle navi da pesca e ferroviario con le disposizioni di cui al decreto legislativo 9 aprile 2008, n. 81
 
@@ -1248,11 +1242,9 @@ g) determinazione degli obblighi, dei ruoli, delle funzioni e delle responsabili
 
 > \- Il decreto del Presidente della Repubblica 7 gennaio 1956, n. 164 recante: «Norme per la prevenzione degli infortuni sul lavoro nelle costruzioni» e' pubblicato nella Gazzetta Ufficiale n. 78 del 31 marzo 1956.
 
-## Capo IV
+## Capo IV - Disposizioni finali
 
-### Disposizioni finali
-
-#### Art. 22
+### Art. 22
 
 Clausola di salvaguardia
 
@@ -1270,7 +1262,7 @@ Clausola di salvaguardia
 
 > Ulteriori forme e condizioni particolari di autonomia, concernenti le materie di cui al terzo comma dell'articolo 117 e le materie indicate dal secondo comma del medesimo articolo alle lettere l), limitatamente all'organizzazione della giustizia di pace, n) e s), possono essere attribuite ad altre Regioni, con legge dello Stato, su iniziativa della Regione interessata, sentiti gli enti locali, nel rispetto dei principi di cui all'articolo 119. La legge e' approvata dalle Camere a maggioranza assoluta dei componenti, sulla base di intesa fra lo Stato e la Regione interessata.».
 
-#### Art. 23
+### Art. 23
 
 Clausola di invarianza finanziaria
 

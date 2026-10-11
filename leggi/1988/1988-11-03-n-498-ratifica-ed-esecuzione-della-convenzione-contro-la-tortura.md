@@ -23,15 +23,15 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la convenzione contro la tortura ed altre pene o trattamenti crudeli, disumani o degradanti, firmata a New York il 10 dicembre 1984.
 
-### Art. 2
+## Art. 2
 
 1\. Piena ed intera esecuzione e' data alla convenzione di cui all'articolo 1 a decorrere dalla sua entrata in vigore, in conformita' a quanto disposto dall'articolo 27 della convenzione stessa.
 
-### Art. 3
+## Art. 3
 
 1\. E' punito, secondo la legge italiana, a richiesta del Ministro di grazia e giustizia:
 
@@ -39,13 +39,13 @@ a) il cittadino che commette all'estero un fatto costituente reato che sia quali
 
 c) lo straniero che commette all'estero uno dei fatti indicati alla lettera a) quando si trovi sul territorio dello Stato e non ne sia disposta l'estradizione.
 
-### Art. 4
+## Art. 4
 
 1\. All'onere derivante dall'attuazione della presente legge, valutato in 20 milioni annui per il triennio 1988-1990, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1988-1990, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1988, all'uopo parzialmente utilizzando l'accantonamento predisposto per Ratifica ed esecuzione di accordi internazionali ed interventi diversi.
 
 2\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-### Art. 5
+## Art. 5
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -63,7 +63,7 @@ Visto, il Guardasigilli: VASSALLI
 
 ## Allegati
 
-### Convention
+## Convention
 
 Parte di provvedimento in formato grafico
 
@@ -85,7 +85,7 @@ Desiderosi di accrescere l'efficacia della lotta contro la tortura e le altre pe
 
 Hanno convenuto quanto segue:
 
-### Articolo primo
+## Articolo primo
 
 1\. Ai fini della presente convenzione, il termine 'tortura' indica qualsiasi atto mediante il quale sono intenzionalmente inflitti ad una persona dolore o sofferenze forti, fisiche o mentali, al fine segnatamente di ottenere da essa o da una terza persona informazioni o confessioni, di punirla per un atto che essa o una terza persona ha commesso, o e' sospettata aver commesso, di intimonirla o di far pressione su di lei o di intimonire o di far pressione su una terza persona, o per qualsiasi altro motivo fondato su qualsiasi forma di discriminazione, qualora tale dolore o sofferenze siano inflitte da un agente della funzione pubblica o da ogni altra persona che agisca a titolo ufficiale, o su sua istigazione, o con il suo consenso espresso o tacito. Tale termine non si estende al dolore o alle sofferenze risultanti unicamente da sanzioni legittime, inerenti a
 
@@ -93,7 +93,7 @@ tali sanzioni o da esse cagionate
 
 2\. Tale articolo non reca pregiudizio a qualsiasi strumento internazionale o a qualsiasi legge nazionale che contenga o possa contenere disposizioni di piu' vasta portata.
 
-### Articolo 2
+## Articolo 2
 
 1\. Ogni Stato adotta misure legislative, amministrative, giudiziare ed altre misure efficaci per impedire che atti di tortura siano commessi in qualsiasi territorio sottoposto alla sua giurisdizione.
 
@@ -101,19 +101,19 @@ tali sanzioni o da esse cagionate
 
 3\. L'ordine di un superiore o di un'autorita' pubblica non puo' essere invocato a giustificazione della tortura.
 
-### Articolo 3
+## Articolo 3
 
 1\. Nessuno Stato parte espellera', respingera' o estradera' una persona verso un altro Stato nel quale vi siano seri motivi di ritenere che essa rischi di essere sottoposta alla tortura.
 
 2\. Al fine di determinare se tali motivi esistono, le autorita' competenti terranno conto di tutte le considerazioni pertinenti, ivi compresa, se del caso, l'esistenza nello Stato interessato, di un insieme di violazioni sistematiche dei diritti dell'uomo, gravi, flagranti o massiccie.
 
-### Articolo 4
+## Articolo 4
 
 1\. Ogni Stato parte vigila affinche' tutti gli atti di tortura vengano considerati quali trasgressioni nei confronti del suo diritto penale. Lo stesso vale per i tentativi di praticare la tortura o ogni atto commesso da qualsiasi persona, che rappresenti una complicita' o una partecipazione all'atto di tortura.
 
 2\. Ogni Stato parte rende tali trasgressioni possibili di pene adeguate che tengano conto della loro gravita'.
 
-### Articolo 5
+## Articolo 5
 
 1\. Ogni Stato parte adotta le misure necessarie a determinare la sua competenza al fine di giudicare in merito alle trasgressioni di cui all'articolo 4, nei seguenti casi:
 
@@ -127,7 +127,7 @@ c) qualora la vittima sia un cittadino di detto Stato e quest'ultimo il giudice 
 
 1\. La suddetta Convenzione non esclude nessuna competenza penale esercitata in conformita' alle leggi nazionali.
 
-### Articolo 6
+## Articolo 6
 
 1\. Qualora ritenga che le circostanze lo giustifichino, dopo aver esaminato le informazioni di cui dispone, ogni Stato parte sul cui territorio si trova una persona sospettata di aver commesso una delle trasgressioni di cui all'articolo 4, assicura la detenzione di questa persona o adotta ogni altro provvedimento legale necessario ad assicurare la sua presenza. Tale detenzione e tali misure devono essere conformi alla legislazione di detto Stato; potranno essere mantenute solamente durante il periodo di tempo necessario a promuovere procedimenti penali o una procedura di estradizione.
 
@@ -137,7 +137,7 @@ c) qualora la vittima sia un cittadino di detto Stato e quest'ultimo il giudice 
 
 4\. Qualora uno Stato abbia posto una persona in detenzione, in conformita' alle disposizioni del presente articolo, esso informa immediatamente di tale detenzione e delle circostanze che la giustificano, gli Stati di cui al paragrafo 1 dello articolo 5. Lo Stato che procede all'inchiesta preliminare di cui al paragrafo 2 del presente articolo, ne comunica sollecitamente le conclusioni a detti Stati ed indica loro se intende esercitare la propria competenza.
 
-### Articolo 7
+## Articolo 7
 
 1\. Lo Stato parte sul di cui territorio viene scoperto il presunto autore di una trasgressione di cui all'articolo 4, qualora non estradi quest'ultimo, sottopone la questione, nei casi di cui all'articolo 5, alle sue autorita' competenti per lo svolgimento dell'azione penale.
 
@@ -145,7 +145,7 @@ c) qualora la vittima sia un cittadino di detto Stato e quest'ultimo il giudice 
 
 3\. Ogni persona perseguita per qualsiasi delle trasgressioni di cui all'articolo 4, beneficia della garanzia di un trattamento equo in tutte le fasi della procedura.
 
-### Articolo 8
+## Articolo 8
 
 1\. Le trasgressioni di cui all'articolo 4 sono a pieno diritto incluse in ogni trattato di estradizione tra gli Stati parte. Gli Stati parte si impegnano ad includere dette trasgressioni in qualsiasi trattato di estradizione che verra' concluso tra loro.
 
@@ -155,41 +155,41 @@ c) qualora la vittima sia un cittadino di detto Stato e quest'ultimo il giudice 
 
 4\. Tra gli Stati parti, dette trasgressioni sono considerate, ai fini dell'estradizione, come commesse sia sul luogo della loro perpetrazione che sul territorio sottoposto alla giurisdizione degli Stati tenuti a determinare la loro competenza in virtu' del paragrafo 1 dell'articolo 5.
 
-### Articolo 9
+## Articolo 9
 
 1\. Gli Stati parte prestano l'assistenza giudiziaria piu' vasta possibile, in ogni procedimento penale relativo alle trasgressioni di cui all'articolo 4, ivi compreso quanto riguarda la comunicazione di tutti gli elementi di prova di cui dispongono e che sono necessari ai fini della procedura.
 
 2\. Gli Stati parte adempiono ai loro obblighi in virtu' del paragrafo 1 del presente articolo, in conformita' ad ogni trattato di assistenza giudiziaria che possa esistere tra di loro.
 
-### Articolo 10
+## Articolo 10
 
 1\. Ogni Stato parte vigila affinche' l'insegnamento e l'informazione relativi all'interdizione della tortura, siano parte integrante della formazione del personale civile o militare incaricato dell'applicazione delle leggi, del personale medico, degli agenti della funzione pubblica e di altre persone che possono intervenire nel corso della custodia, dell'interrogatorio o del trattamento di ogni individuo arrestato, detenuto o imprigionato in qualsiasi maniera.
 
 2\. Ogni Stato parte inserisce detta interdizione nei regolamenti o nelle istruzioni promulgate in merito agli obblighi e alle competenze di tali persone.
 
-### Articolo 11
+## Articolo 11
 
 Ogni Stato parte esercita una sistematica sorveglianza su regolamenti, istruzioni, metodi e pratiche di interrogatorio e sulle disposizioni relative alla custodia ed al trattamento delle persone arrestate, detenute o imprigionate in qualsiasi maniera, su qualsiasi territorio sottoposto alla sua giurisdizione, al fine di evitare ogni caso di tortura.
 
-### Articolo 12
+## Articolo 12
 
 Ogni Stato parte vigila affinche' le autorita' competenti procedano immediatamente ad un'inchiesta imparziale, ogni volta che vi siano motivi ragionevoli di ritenere che un atto di tortura sia stato commesso su qualsiasi territorio sottoposto alla sua giurisdizione.
 
-### Articolo 13
+## Articolo 13
 
 Ogni Stato parte garantisce ad ogni persona che pretende essere stata sottoposta alla tortura su qualsiasi territorio sottoposto alla sua giurisdizione, il diritto di sporgere denuncia davanti alle autorita' competenti di detto Stato, che procederanno immediatamente ed imparzialmente all'esame della sua causa. Saranno presi provvedimenti per assicurare la protezione dell'attore e dei testimoni contro qualsiasi maltrattamento o intimidazione a causa della denuncia inoltrata o di qualsiasi deposizione resa.
 
-### Articolo 14
+## Articolo 14
 
 1\. Ogni Stato parte garantisce, nel suo sistema giuridico, alla vittima di un atto di tortura, il diritto di ottenere riparazione e di essere equamente risarcito ed in maniera adeguata, inclusi i mezzi necessari alla sua riabilitazione piu' completa possibile. In caso di morte della vittima, risultante da un atto di tortura, gli aventi causa di quest'ultima hanno diritto al risarcimento.
 
 2\. Il presente articolo non esclude alcun diritto al risarcimento cui la vittima od ogni altra persona avrebbe diritto in virtu' delle leggi nazionali.
 
-### Articolo 15
+## Articolo 15
 
 Ogni Stato parte vigila affinche' ogni dichiarazione di cui si sia stabilito che e' stata ottenuta con la tortura, non possa essere invocata come elemento di prova in un procedimento, se non contro la persona accusata di tortura, al fine di determinare che una dichiarazione e' stata resa.
 
-### Articolo 16
+## Articolo 16
 
 1\. Ogni Stato parte si impegna a proibire in ogni territorio, sottoposto alla sua giurisdizione, altri atti che costituiscono pene o trattamenti crudeli, inumani o degradanti che non siano atti di tortura come definiti dall'articolo primo, allorche' questi atti sono commessi da un agente della funzione pubblica o da ogni altra persona che agisca a titolo ufficiale, o su sua istigazione o con il consenso espresso o tacito. In particolare, gli obblighi enunciati agli articoli 10, 11 12 e 13 sono applicabili mediante la sostituzione della menzione della tortura con la menzione di altre forme di pene o trattamenti crudeli, inumani o degradanti.
 
@@ -197,7 +197,7 @@ Ogni Stato parte vigila affinche' ogni dichiarazione di cui si sia stabilito che
 
 ## SECONDA PARTE
 
-### Articolo 17
+## Articolo 17
 
 1\. E' istituito un Comitato contro la tortura (qui di seguito denominato il Comitato), che ha le funzioni definite qui di seguito.
 
@@ -217,7 +217,7 @@ Il Segretario generale compila una lista per ordine alfabetico di tutti i candid
 
 7\. Gli Stati parti prendono a loro carico le spese dei membri del Comitato per il periodo nel quale questi ultimi svolgono le loro funzioni del Comitato.
 
-### Articolo 18
+## Articolo 18
 
 1\. Il Comitato elegge il suo ufficio per un periodo di due anni. I membri dell'ufficio sono rieleggibili.
 
@@ -233,7 +233,7 @@ b) le decisioni del Comitato sono prese con la maggioranza dei membri presenti.
 
 5\. Gli Stati parti prendono a loro carico le spese derivanti dallo svolgimento delle riunioni degli Stati parti e del Comitato, ivi compreso il rimborso dell'Organizzazione delle Nazioni Unite di ogni spesa, quali le spese di personale e di costi per le strutture materiali, che l'Organizzazione avra' sostenuto in conformita' al paragrafo 3 del presente articolo.
 
-### Articolo 19
+## Articolo 19
 
 1\. Gli Stati parti presentano al Comitato, tramite il Segretario
 
@@ -253,7 +253,7 @@ Tale Stato parte puo' comunicare, in risposta al Comitato, ogni osservazione che
 
 4\. Il Comitato puo', a sua discrezione, decidere di riprodurre nella relazione annuale che esso predispone, in conformita' all'articolo 24, ogni commento da esso formulato ai sensi del paragrafo 3 del presente articolo, corredato dalle osservazioni ricevute in merito dallo Stato parte interessato. Qualora lo Stato parte interessato lo richieda, il Comitato puo' anche riprodurre la relazione presentata ai sensi del paragrafo 1 del presente articolo.
 
-### Articolo 20
+## Articolo 20
 
 1\. Qualora il Comitato riceva informazioni credibili che a suo parere contengono indicazioni fondate sul fatto che la tortura e' praticata sistematicamente nel territorio di uno Stato parte, esso invita detto Stato a collaborare nell'esame delle informazioni e, a tal fine, a comunicargli le sue osservazioni in merito.
 
@@ -265,7 +265,7 @@ Tale Stato parte puo' comunicare, in risposta al Comitato, ogni osservazione che
 
 5\. Tutti i lavori del Comitato menzionati nei paragrafi da 1 a 4 del presente articolo sono riservati e, durante tutte le fasi dei lavori, ci si sforza di ottenere la cooperazione dello Stato parte. Una volta terminati i lavori relativi ad un'inchiesta svolta ai sensi del paragrafo 2, il Comitato puo', dopo consultazioni con lo Stato parte interessato, decidere di far figurare un conciso resoconto dei risultati dei lavori nella relazione annuale che predispone in conformita' all'articolo 24.
 
-### Articolo 21
+## Articolo 21
 
 1\. Ogni Stato parte alla presente Convenzione puo', in virtu' del presente articolo, dichiarare in qualsiasi momento che riconosce la competenza del Comitato a ricevere ed esaminare delle comunicazioni nelle quali uno Stato parte sostiene che un altro Stato parte non adempie ai suoi obblighi ai sensi della presente Convenzione. Tali comunicazioni possono essere ricevute ed esaminate, ai sensi del presente articolo, solo se provengono da uno Stato parte che abbia effettuato una dichiarazione nella quale riconosce, per quanto lo riguarda, la competenza del Comitato. Il Comitato non riceve nessuna comunicazione relativa ad uno Stato parte che non abbia effettuato tale dichiarazione. La procedura seguente verra' applicata per le comunicazioni ricevute in virtu' del presente articolo:
 
@@ -311,7 +311,7 @@ dichiarazione, a meno che lo Stato parte interessato non abbia
 
 effettuato una nuova dichiarazione.
 
-### Articolo 22
+## Articolo 22
 
 1\. Ogni Stato parte alla presente Convenzione puo', ai sensi del presente articolo, dichiarare in ogni momento che riconosce la competenza del Comitato a ricevere ed esaminare comunicazioni presentate da o per conto di privati che dipendono dalla sua giurisdizione, che pretendono di essere vittime di una violazione, da uno Stato parte, delle disposizioni della Convenzione. Il Comitato non riceve alcuna comunicazione relativa ad uno Stato parte che non abbia fatto tale dichiarazione.
 
@@ -333,39 +333,39 @@ b) il singolo individuo abbia esaurito tutti i ricorsi interni disponibili, ques
 
 8\. Le disposizioni del presente articolo entreranno in vigore allorche' i cinque Stati parti alla presente Convenzione avranno effettuato la dichiarazione prevista al paragrafo 1 del presente articolo. Detta dichiarazione e' depositata dallo Stato parte presso il Segretario generale dell'Organizzazione delle Nazioni Unite, che ne trasmette copia agli altri Stati parti. Una dichiarazione puo' essere ritirata in qualsiasi momento mediante una notifica indirizzata al Segretario generale Tale ritiro non pregiudica l'esame di ogni questione che formi l'oggetto di una comunicazione gia' trasmessa in virtu' del presente articolo; nessun'altra comunicazione sottoposta da o per conto di un privato sara' ricevuta in virtu' del presente articolo dopo che il Segretario generale abbia ricevuto notifica del ritiro della dichiarazione, a meno che lo Stato parte interessato non abbia effettuato una nuova dichiarazione.
 
-### Articolo 23
+## Articolo 23
 
 I membri del Comitato ed i membri delle commissioni di conciliazione ad hoc che potrebbero essere nominati in base al comma e) del paragrafo 1 dell'articolo 21 hanno diritto alle facilitazioni, privilegi ed immunita' riconosciuti agli esperti in missione per l'Organizzazione delle Nazioni Unite, cosi' come sono enunciati nelle pertinenti sezioni della Convenzione sui privilegi e le immunita' delle Nazioni Unite.
 
-### Articolo 24
+## Articolo 24
 
 Il Comitato presenta agli Stati parti ed all'Assemblea generale dell'Organizzazione delle Nazioni Unite un rapporto annuale sulle attivita' che avra' intrapreso in applicazione della presente Convenzione.
 
 ## TERZA PARTE
 
-### Articolo 25
+## Articolo 25
 
 1\. La presente Convenzione e' aperta alla firma di tutti gli Stati.
 
 2\. La presente Convenzione e' soggetta a ratifica. Gli strumenti di ratifica saranno depositati presso il Segretario generale dell'Organizzazione delle Nazioni Unite.
 
-### Articolo 26
+## Articolo 26
 
 Tutti gli Stati possono aderire alla presente Convenzione. L'adesione avra' luogo mediante il deposito di uno strumento di adesione presso il Segretario generale dell'Organizzazione delle Nazioni Unite.
 
-### Articolo 27
+## Articolo 27
 
 1\. La presente Convenzione entrera' in vigore il trentesimo giorno successivo alla data del deposito presso il Segretario generale dell'Organizzazione delle Nazioni Unite del ventesimo strumento di ratifica o di adesione.
 
 2\. Per ogni Stato che ratifichera' la presente Convenzione o vi aderira' dopo il deposito del ventesimo strumento di ratifica o di adesione, la Convenzione entrera' in vigore il trentesimo giorno dopo la data del deposito, da parte di questo Stato, del suo strumento di ratifica o di adesione.
 
-### Articolo 28
+## Articolo 28
 
 1\. Ogni Stato potra', al momento in cui firmera' o ratifichera' la presente Convenzione, o vi aderira', dichiarare che non riconosce la competenza conferita al Comitato in conformita' all'articolo 20.
 
 2\. Ogni Stato parte che abbia formulato una riserva in conformita'alle disposizioni del paragrafo 1 del presente articolo potra', in qualsiasi momento, rimuovere detta riserva mediante una notifica indirizzata al Segretario generale dell'Organizzazione delle Nazioni Unite.
 
-### Articolo 29
+## Articolo 29
 
 1\. Ogni Stato parte alla presente Convenzione potra' proporre un emendamento e depositare la sua proposta presso il Segretario generale dell'Organizzazione delle Nazioni Unite. Il Segretario generale comunichera' la proposta di emendamento agli Stati parte domandando loro di fargli conoscere se sono favorevoli alla organizzazione di una Conferenza di Stati parti, in vista dell'esame della proposta e della sua messa ai voti. Se, nei quattro mesi successivi alla data di tale comunicazione, almeno il terzo degli Stati parti si pronuncia a favore dello svolgimento di detta Conferenza, il Segretario generale organizzera' la conferenza sotto gli auspici dell'Organizzazione delle Nazioni Unite. Ogni emendamento adottato dalla maggioranza degli Stati parti presenti e votanti alla Conferenza sara' sottoposto dal Segretario generale all'accettazione di tutti gli Stati parti.
 
@@ -373,7 +373,7 @@ Tutti gli Stati possono aderire alla presente Convenzione. L'adesione avra' luog
 
 3\. Quando gli emendamenti entreranno in vigore, essi saranno cogenti per gli Stati parti che gli abbiano accettati, gli altri Stati parti rimanendo vincolati dalle disposizioni della presente Convenzione e da ogni emendamento anteriore che avranno accettato.
 
-### Articolo 30
+## Articolo 30
 
 1\. Ogni controversia tra due o piu' Stati relativa all'interpretazione o all'applicazione della presente Convenzione che non possa essere composta per via di negoziato, verra' sottoposta ad arbitrato su una domanda di uno di essi. Qualora nei sei mesi successivi alla data della domanda di arbitrato, le parti non riescano ad accordarsi in merito all'organizzazione dell'arbitrato, una qualunque di esse puo' sottoporre la controversia alla Corte internazionale di giustizia, depositando una richiesta in conformita' allo statuto della Corte.
 
@@ -383,7 +383,7 @@ Gli altri Stati parti non saranno vincolati dalle suddette disposizioni verso qu
 
 3\. Ogni Stato parte che abbia formulato una riserva in conformita' alle disposizioni del paragrafo 2 del presente articolo potra' in qualsiasi momento, rimuovere detta riserva mediante una notifica presentata al Segretario generale dell'Organizzazione delle nazioni Unite.
 
-### Articolo 31
+## Articolo 31
 
 1\. Uno Stato parte potra' denunciare la presente Convenzione mediante notifica scritta indirizzata al Segretario generale dell'Organizzazione delle Nazioni Unite.La denuncia avra' effetto un anno dopo la data in cui la notifica sara' stata ricevuta dal Segretario generale.
 
@@ -391,7 +391,7 @@ Gli altri Stati parti non saranno vincolati dalle suddette disposizioni verso qu
 
 3\. Dopo la data in cui la denuncia da parte di uno Stato parte inizia ad avere effetto, il Comitato non intraprende l'esame di nessuna nuova questione concernente detto Stato.
 
-### Articolo 32
+## Articolo 32
 
 Il Segretario generale dell'Organizzazione delle Nazioni Unite notifichera' a tutti gli Stati Membri dell'Organizzazione delle Nazioni Unite, ed a tutti gli Stati che avranno firmato la presente Convenzione o vi avranno aderito:
 
@@ -401,7 +401,7 @@ b) la data di entrata in vigore della Convenzione in applicazione dell'articolo 
 
 c) le denuncie ricevute in applicazione dell'articolo 31.
 
-### Articolo 33
+## Articolo 33
 
 1\. La presente Convenzione, i cui testi inglese, arabo, cinese, spagnolo, francese e russo fanno ugualmente fede, sara' depositata presso il Segretario generale dell'Organizzazione delle Nazioni Unite.
 

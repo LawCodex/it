@@ -42,11 +42,9 @@ il seguente decreto legislativo:
 
 ## Capo I - RESPONSABILITA' AMMINISTRATIVA DELL'ENTE
 
-### SEZIONE I
+### SEZIONE I - Principi generali e criteri di attribuzione della responsabilita' amministrativa
 
-#### Principi generali e criteri di attribuzione della responsabilita' - amministrativa
-
-##### Art. 1
+#### Art. 1
 
 Soggetti
 
@@ -144,13 +142,13 @@ Soggetti
 
 > "Art. 14 (Esercizio delle deleghe). - 1. Gli schemi dei decreti legislativi di cui agli articoli 11 e 12 sono trasmessi alla Camera dei deputati ed al Senato della Repubblica almeno novanta giorni prima della scadenza prevista per l'esercizio delle deleghe. Le Commissioni parlamentari competenti per materia esprimono il loro parere entro sessanta giorni dalla data di trasmissione degli schemi medesimi. Decorso tale termine, i decreti legislativi possono essere adottati anche in mancanza del parere.".
 
-##### Art. 2
+#### Art. 2
 
 Principio di legalita'
 
 1\. L'ente non puo' essere ritenuto responsabile per un fatto costituente reato se la sua responsabilita' amministrativa in relazione a quel reato e le relative sanzioni non sono espressamente previste da una legge entrata in vigore prima della commissione del fatto.
 
-##### Art. 3
+#### Art. 3
 
 Successione di leggi
 
@@ -160,7 +158,7 @@ Successione di leggi
 
 3\. Le disposizioni dei commi 1 e 2 non si applicano se si tratta di leggi eccezionali o temporanee.
 
-##### Art. 4
+#### Art. 4
 
 Reati commessi all'estero
 
@@ -206,7 +204,7 @@ Reati commessi all'estero
 
 > 3\) l'estradizione di lui non sia stata conceduta, ovvero non sia stata accettata dal Governo dello Stato in cui egli ha commesso il delitto, o da quello dello Stato a cui egli appartiene.".
 
-##### Art. 5
+#### Art. 5
 
 Responsabilita' dell'ente
 
@@ -218,7 +216,7 @@ b) da persone sottoposte alla direzione o alla vigilanza di uno dei soggetti di 
 
 2\. L'ente non risponde se le persone indicate nel comma 1 hanno agito nell'interesse esclusivo proprio o di terzi.
 
-##### Art. 6
+#### Art. 6
 
 Soggetti in posizione apicale e modelli di organizzazione dell'ente
 
@@ -270,7 +268,7 @@ AGGIORNAMENTO (48)
 
 Il D.Lgs. 10 marzo 2023, n. 24, ha disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al presente decreto hanno effetto a decorrere dal 15 luglio 2023".
 
-##### Art. 7
+#### Art. 7
 
 Soggetti sottoposti all'altrui direzione e modelli di organizzazione dell'ente
 
@@ -286,7 +284,7 @@ a) una verifica periodica e l'eventuale modifica dello stesso quando sono scoper
 
 b) un sistema disciplinare idoneo a sanzionare il mancato rispetto delle misure indicate nel modello.
 
-##### Art. 8
+#### Art. 8
 
 Autonomia delle responsabilita' dell'ente
 
@@ -300,9 +298,9 @@ b) il reato si estingue per una causa diversa dall'amnistia.
 
 3\. L'ente puo' rinunciare all'amnistia.
 
-## SEZIONE II - Sanzioni in generale
+### SEZIONE II - Sanzioni in generale
 
-##### Art. 9
+#### Art. 9
 
 Sanzioni amministrative
 
@@ -328,7 +326,7 @@ d) l'esclusione da agevolazioni, finanziamenti, contributi o sussidi e l'eventua
 
 e) il divieto di pubblicizzare beni o servizi.
 
-##### Art. 10
+#### Art. 10
 
 Sanzione amministrativa pecuniaria
 
@@ -342,7 +340,7 @@ Sanzione amministrativa pecuniaria
 
 4\. Non e' ammesso il pagamento in misura ridotta.
 
-##### Art. 11
+#### Art. 11
 
 Criteri di commisurazione della sanzione pecuniaria
 
@@ -352,7 +350,7 @@ Criteri di commisurazione della sanzione pecuniaria
 
 3\. Nei casi previsti dall'articolo 12, comma 1, l'importo della quota e' sempre di lire duecentomila.
 
-##### Art. 12
+#### Art. 12
 
 Casi di riduzione della sanzione pecuniaria
 
@@ -372,7 +370,7 @@ b) e' stato adottato e reso operativo un modello organizzativo idoneo a prevenir
 
 4\. In ogni caso, la sanzione pecuniaria non puo' essere inferiore a lire venti milioni.
 
-##### Art. 13
+#### Art. 13
 
 Sanzioni interdittive
 
@@ -386,7 +384,7 @@ b) in caso di reiterazione degli illeciti.
 
 3\. Le sanzioni interdittive non si applicano nei casi previsti dall'articolo 12, comma 1.
 
-##### Art. 14
+#### Art. 14
 
 Criteri di scelta delle sanzioni interdittive
 
@@ -398,7 +396,7 @@ Criteri di scelta delle sanzioni interdittive
 
 4\. L'interdizione dall'esercizio dell'attivita' si applica soltanto quando l'irrogazione di altre sanzioni interdittive risulta inadeguata.
 
-##### Art. 15
+#### Art. 15
 
 Commissario giudiziale
 
@@ -420,7 +418,7 @@ In caso di imprese che dopo il verificarsi dei reati che danno luogo all'applica
 
 5\. La prosecuzione dell'attivita' da parte del commissario non puo' essere disposta quando l'interruzione dell'attivita' consegue all'applicazione in via definitiva di una sanzione interdittiva.
 
-##### Art. 16
+#### Art. 16
 
 Sanzioni interdittive applicate in via definitiva
 
@@ -430,7 +428,7 @@ Sanzioni interdittive applicate in via definitiva
 
 3\. Se l'ente o una sua unita' organizzativa viene stabilmente utilizzato allo scopo unico o prevalente di consentire o agevolare la commissione di reati in relazione ai quali e' prevista la sua responsabilita' e' sempre disposta l'interdizione definitiva dall'esercizio dell'attivita' e non si applicano le disposizioni previste dall'articolo 17.
 
-##### Art. 17
+#### Art. 17
 
 Riparazione delle conseguenze del reato
 
@@ -444,7 +442,7 @@ c) l'ente ha messo a disposizione il profitto conseguito ai fini della confisca.
 
 ((1-bis. In ogni caso, le sanzioni interdittive non possono essere applicate quando pregiudicano la continuita' dell'attivita' svolta in stabilimenti industriali o parti di essi dichiarati di interesse strategico nazionale ai sensi dell'articolo 1 del decreto-legge 3 dicembre 2012, n. 207, convertito, con modificazioni, dalla legge 24 dicembre 2012, n. 231, se l'ente ha eliminato le carenze organizzative che hanno determinato il reato mediante l'adozione e l'attuazione di modelli organizzativi idonei a prevenire reati della specie di quello verificatosi. Il modello organizzativo si considera sempre idoneo a prevenire reati della specie di quello verificatosi quando nell'ambito della procedura di riconoscimento dell'interesse strategico nazionale sono stati adottati provvedimenti diretti a realizzare, anche attraverso l'adozione di modelli organizzativi, il necessario bilanciamento tra le esigenze di continuita' dell'attivita' produttiva e di salvaguardia dell'occupazione e la tutela della sicurezza sul luogo di lavoro, della salute, dell'ambiente e degli altri eventuali beni giuridici lesi dagli illeciti commessi.))
 
-##### Art. 18
+#### Art. 18
 
 Pubblicazione della sentenza di condanna
 
@@ -454,7 +452,7 @@ Pubblicazione della sentenza di condanna
 
 3\. La pubblicazione della sentenza e' eseguita, a cura della cancelleria del giudice, a spese dell'ente.
 
-##### Art. 19
+#### Art. 19
 
 Confisca
 
@@ -470,13 +468,13 @@ AGGIORNAMENTO (49)
 
 Il D.L. 13 giugno 2023, n. 69, convertito con modificazioni dalla L. 10 agosto 2023, n. 103, ha disposto (con l'art. 9-bis, comma 4) che "Le disposizioni di cui ai commi 1, 2 e 3 si applicano anche ai provvedimenti di sequestro o di confisca aventi ad oggetto stabilimenti industriali o parti di essi dichiarati di interesse strategico nazionale ai sensi dell'articolo 1 del decreto-legge 3 dicembre 2012, n. 207, convertito, con modificazioni, dalla legge 24 dicembre 2012, n. 231, ovvero impianti o infrastrutture necessari ad assicurarne la continuita' produttiva, non ancora definitivi alla data di entrata in vigore della legge di conversione del presente decreto".
 
-##### Art. 20
+#### Art. 20
 
 Reiterazione
 
 1\. Si ha reiterazione quando l'ente, gia' condannato in via definitiva almeno una volta per un illecito dipendente da reato, ne commette un altro nei cinque anni successivi alla condanna definitiva.
 
-##### Art. 21
+#### Art. 21
 
 Pluralita' di illeciti
 
@@ -484,7 +482,7 @@ Pluralita' di illeciti
 
 2\. Nei casi previsti dal comma 1, quando in relazione a uno o piu' degli illeciti ricorrono le condizioni per l'applicazione delle sanzioni interdittive, si applica quella prevista per l'illecito piu' grave.
 
-##### Art. 22
+#### Art. 22
 
 Prescrizione
 
@@ -496,7 +494,7 @@ Prescrizione
 
 4\. Se l'interruzione e' avvenuta mediante la contestazione dell'illecito amministrativo dipendente da reato, la prescrizione non corre fino al momento in cui passa in giudicato la sentenza che definisce il giudizio.
 
-##### Art. 23
+#### Art. 23
 
 Inosservanza delle sanzioni interdittive
 
@@ -506,9 +504,9 @@ Inosservanza delle sanzioni interdittive
 
 3\. Se dal reato di cui al comma 1, l'ente ha tratto un profitto rilevante, si applicano le sanzioni interdittive, anche diverse da quelle in precedenza irrogate.
 
-## SEZIONE III - ((Responsabilita' amministrativa da reato))
+### SEZIONE III - ((Responsabilita' amministrativa da reato))
 
-##### Art. 24
+#### Art. 24
 
 Indebita percezione di erogazioni, truffa in danno dello Stato, di un ente pubblico o dell'Unione europea o per il conseguimento di erogazioni pubbliche, frode informatica in danno dello Stato o di un ente pubblico e frode nelle pubbliche forniture.
 
@@ -520,7 +518,7 @@ Indebita percezione di erogazioni, truffa in danno dello Stato, di un ente pubbl
 
 3\. Nei casi previsti dai commi precedenti, si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, lettere c), d) ed e).
 
-##### Art. 24-bis - Delitti informatici e trattamento illecito di dati
+#### Art. 24-bis - Delitti informatici e trattamento illecito di dati
 
 1\. In relazione alla commissione dei delitti di cui agli articoli 615-ter, 617-quater, 617-quinquies, 635-bis, 635-ter, 635-quater e 635-quinquies del codice penale, si applica all'ente la sanzione pecuniaria ((da duecento a settecento quote)).
 
@@ -534,7 +532,7 @@ Indebita percezione di erogazioni, truffa in danno dello Stato, di un ente pubbl
 
 Nei casi di condanna per uno dei delitti indicati nel comma 2 si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, lettere b) ed e). Nei casi di condanna per uno dei delitti indicati nel comma 3 si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, lettere c), d) ed e).
 
-##### Art. 24-ter
+#### Art. 24-ter
 
 (( (Delitti di criminalita' organizzata). ))
 
@@ -546,7 +544,7 @@ Nei casi di condanna per uno dei delitti indicati nel comma 2 si applicano le sa
 
 4\. Se l'ente o una sua unita' organizzativa viene stabilmente utilizzato allo scopo unico o prevalente di consentire o agevolare la commissione dei reati indicati nei commi 1 e 2, si applica la sanzione dell'interdizione definitiva dall'esercizio dell'attivita' ai sensi dell'articolo 16, comma 3 )).
 
-##### Art. 25
+#### Art. 25
 
 Peculato ((, indebita destinazione di denaro o cose mobili)), concussione, induzione indebita a dare o promettere utilita', corruzione ((...)).
 
@@ -562,7 +560,7 @@ Peculato ((, indebita destinazione di denaro o cose mobili)), concussione, induz
 
 5-bis. Se prima della sentenza di primo grado l'ente si e' efficacemente adoperato per evitare che l'attivita' delittuosa sia portata a conseguenze ulteriori, per assicurare le prove dei reati e per l'individuazione dei responsabili ovvero per il sequestro delle somme o altre utilita' trasferite e ha eliminato le carenze organizzative che hanno determinato il reato mediante l'adozione e l'attuazione di modelli organizzativi idonei a prevenire reati della specie di quello verificatosi, le sanzioni interdittive hanno la durata stabilita dall'articolo 13, comma 2.
 
-##### Art. 25-bis
+#### Art. 25-bis
 
 (((Falsita' in monete, in carte di pubblico credito, in valori di bollo e in strumenti o segni di riconoscimento). ))
 
@@ -584,7 +582,7 @@ f) per il delitto di cui all'articolo 464, primo comma, la sanzione pecuniaria f
 
 2\. Nei casi di condanna per uno dei delitti di cui agli articoli 453, 454, 455, 459, 460 ((, 461, 473 e 474)) del codice penale, si applicano all'ente le sanzioni interdittive previste dall'articolo 9, comma 2, per una durata non superiore ad un anno.
 
-##### Art. 25-bis.1 - Delitti contro l'industria e il commercio
+#### Art. 25-bis.1 - Delitti contro l'industria e il commercio
 
 1\. In relazione alla commissione dei delitti contro l'industria e il commercio previsti dal codice penale, si applicano all'ente le seguenti sanzioni pecuniarie:
 
@@ -594,7 +592,7 @@ b) per i delitti di cui agli articoli 513-bis e 514 la sanzione pecuniaria fino 
 
 2\. Nel caso di condanna per i delitti di cui alla lettera b) del comma 1 si applicano all'ente le sanzioni interdittive previste dall'articolo 9, comma 2.
 
-##### Art. 25-ter - Reati societari
+#### Art. 25-ter - Reati societari
 
 1\. In relazione ai reati in materia societaria previsti dal codice civile ((o da altre leggi speciali)), si applicano all'ente le seguenti sanzioni pecuniarie:
 
@@ -644,7 +642,7 @@ AGGIORNAMENTO (9)
 
 La L. 28 dicembre 2005, n. 262, ha disposto (con l'art. 39) che le sanzioni pecuniarie previste dal presente articolo sono raddoppiate.
 
-##### Art. 25-quater
+#### Art. 25-quater
 
 (( (Delitti con finalita' di terrorismo o di eversione dell'ordine democratico). ))
 
@@ -660,7 +658,7 @@ b) se il delitto e' punito con la pena della reclusione non inferiore a dieci an
 
 4\. Le disposizioni dei commi 1, 2 e 3 si applicano altresi' in relazione alla commissione di delitti, diversi da quelli indicati nel comma 1, che siano comunque stati posti in essere in violazione di quanto previsto dall'articolo 2 della Convenzione internazionale per la repressione del finanziamento del terrorismo fatta a New York il 9 dicembre 1999. ))
 
-##### Art. 25-quater.1
+#### Art. 25-quater.1
 
 (( (Pratiche di mutilazione degli organi genitali femminili) ))
 
@@ -668,7 +666,7 @@ b) se il delitto e' punito con la pena della reclusione non inferiore a dieci an
 
 2\. Se l'ente o una sua unita' organizzativa viene stabilmente utilizzato allo scopo unico o prevalente di consentire o agevolare la commissione dei delitti indicati al comma 1, si applica la sanzione dell'interdizione definitiva dall'esercizio dell'attivita' ai sensi dell'articolo 16, comma 3. ))
 
-##### Art. 25-quinquies - Delitti contro la personalita' individuale
+#### Art. 25-quinquies - Delitti contro la personalita' individuale
 
 1\. In relazione alla commissione dei delitti previsti dalla sezione I del capo III del titolo XII del libro II del codice penale si applicano all'ente le seguenti sanzioni pecuniarie:
 
@@ -684,7 +682,7 @@ c-bis) ((per il delitto di cui all'articolo 601.1 la sanzione pecuniaria da cent
 
 3\. Se l'ente o una sua unita' organizzativa viene stabilmente utilizzato allo scopo unico o prevalente di consentire o agevolare la commissione dei reati indicati nel comma 1, si applica la sanzione dell'interdizione definitiva dall'esercizio dell'attivita' ai sensi dell'articolo 16, comma 3.
 
-##### Art. 25-sexies
+#### Art. 25-sexies
 
 (( (Abusi di mercato). ))
 
@@ -692,7 +690,7 @@ c-bis) ((per il delitto di cui all'articolo 601.1 la sanzione pecuniaria da cent
 
 2\. Se, in seguito alla commissione dei reati di cui al comma 1, il prodotto o il profitto conseguito dall'ente e' di rilevante entita', la sanzione e' aumentata fino a dieci volte tale prodotto o profitto)).
 
-##### Art. 25-septies
+#### Art. 25-septies
 
 (( (Omicidio colposo o lesioni gravi o gravissime
 
@@ -706,7 +704,7 @@ sicurezza sul lavoro). ))
 
 3\. In relazione al delitto di cui all'articolo 590, terzo comma, del codice penale, commesso con violazione delle norme sulla tutela della salute e sicurezza sul lavoro, si applica una sanzione pecuniaria in misura non superiore a 250 quote. Nel caso di condanna per il delitto di cui al precedente periodo si applicano le sanzioni interdittive di cui all'articolo 9, comma 2, per una durata non superiore a sei mesi. ))
 
-##### Art. 25-octies - Ricettazione, riciclaggio e impiego di denaro, beni o utilita' di provenienza illecita ((, nonche' autoriciclaggio))
+#### Art. 25-octies - Ricettazione, riciclaggio e impiego di denaro, beni o utilita' di provenienza illecita ((, nonche' autoriciclaggio))
 
 1\. In relazione ai reati di cui agli articoli 648, 648-bis ((, 648-ter e 648-ter.1)) del codice penale, si applica all'ente la sanzione pecuniaria da 200 a 800 quote. Nel caso in cui il denaro, i beni o le altre utilita' provengono da delitto per il quale e' stabilita la pena della reclusione superiore nel massimo a cinque anni si applica la sanzione pecuniaria da 400 a 1000 quote.
 
@@ -714,7 +712,7 @@ sicurezza sul lavoro). ))
 
 3\. In relazione agli illeciti di cui ai commi 1 e 2, il Ministero della giustizia, sentito il parere dell'UIF, formula le osservazioni di cui all'articolo 6 del decreto legislativo 8 giugno 2001, n. 231.
 
-##### Art. 25-octies.1 - Delitti in materia di strumenti di pagamento diversi dai contanti ((e trasferimento fraudolento di valori))
+#### Art. 25-octies.1 - Delitti in materia di strumenti di pagamento diversi dai contanti ((e trasferimento fraudolento di valori))
 
 1\. In relazione alla commissione dei delitti previsti dal codice penale in materia di strumenti di pagamento diversi dai contanti, si applicano all'ente le seguenti sanzioni pecuniarie:
 
@@ -732,7 +730,7 @@ b) se il delitto e' punito con la pena non inferiore ai dieci anni di reclusione
 
 3\. Nei casi di condanna per uno dei delitti di cui ai ((commi 1, 2 e 2-bis)) si applicano all'ente le sanzioni interdittive previste dall'articolo 9, comma 2.
 
-##### Art. 25-octies.2
+#### Art. 25-octies.2
 
 (( (Reati in materia di violazione di misure restrittive dell'Unione europea). )).
 
@@ -748,7 +746,7 @@ b) ((per la violazione dell'articolo 275-ter, primo e secondo comma, del codice 
 
 4\. ((In caso di reiterazione degli illeciti di cui al comma 1, lettere a) e b), le sanzioni pecuniarie ivi previste sono aumentate di un terzo.))
 
-##### Art. 25-novies - Delitti in materia di violazione del diritto d'autore
+#### Art. 25-novies - Delitti in materia di violazione del diritto d'autore
 
 1\. In relazione alla commissione dei delitti previsti dagli articoli 171, primo comma, lettera a-bis), e terzo comma, 171-bis, 171-ter, 171-septies e 171-octies della legge 22 aprile 1941, n. 633, si applica all'ente la sanzione pecuniaria fino a cinquecento quote.
 
@@ -770,13 +768,13 @@ La L. 3 agosto 2009, n. 116, come modificata dal D.Lgs. 7 luglio 2011, n. 121, h
 
 "Art. 25-decies (Induzione a non rendere dichiarazioni o a rendere dichiarazioni mendaci all'autorita' giudiziaria). !. In relazione alla commissione del delitto di cui all'art. 377-bis del codice civile, si applica all'ente la sanzione pecuniaria fino a cinquecento quote."."
 
-##### Art. 25-decies
+#### Art. 25-decies
 
 (( (Induzione a non rendere dichiarazioni o a rendere dichiarazioni mendaci all'autorita' giudiziaria).
 
 !. In relazione alla commissione del delitto di cui all'art. 377-bis del codice civile, si applica all'ente la sanzione pecuniaria fino a cinquecento quote.))
 
-##### Art. 25-undecies - Reati ambientali
+#### Art. 25-undecies - Reati ambientali
 
 1\. In relazione alla commissione dei reati previsti dal codice penale, si applicano all'ente le seguenti sanzioni pecuniarie:
 
@@ -896,7 +894,7 @@ c) per il reato di cui all'articolo 8, comma 2, la sanzione pecuniaria da duecen
 
 8\. Se l'ente o una sua unita' organizzativa vengono stabilmente utilizzati allo scopo unico o prevalente di consentire o agevolare la commissione dei reati di cui all'articolo 260 del decreto legislativo 3 aprile 2006, n. 152, e all'articolo 8 del decreto legislativo 6 novembre 2007, n. 202, si applica la sanzione dell'interdizione definitiva dall'esercizio dell'attivita' ai sensi dell'art. 16, comma 3, del decreto legislativo 8 giugno 2001 n. 231.
 
-##### Art. 25-duodecies - Impiego di cittadini di paesi terzi il cui soggiorno e' irregolare
+#### Art. 25-duodecies - Impiego di cittadini di paesi terzi il cui soggiorno e' irregolare
 
 1\. In relazione alla commissione del delitto di cui all'articolo 22, comma 12-bis, del decreto legislativo 25 luglio 1998, n. 286, si applica all'ente la sanzione pecuniaria da 100 a 200 quote, entro il limite di 150.000 euro.
 
@@ -906,7 +904,7 @@ c) per il reato di cui all'articolo 8, comma 2, la sanzione pecuniaria da duecen
 
 1-quater. Nei casi di condanna per i delitti di cui ai commi 1-bis e 1-ter del presente articolo, si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, per una durata non inferiore a un anno)).
 
-##### Art. 25-terdecies
+#### Art. 25-terdecies
 
 (( (Razzismo e xenofobia). ))
 
@@ -916,7 +914,7 @@ c) per il reato di cui all'articolo 8, comma 2, la sanzione pecuniaria da duecen
 
 3\. Se l'ente o una sua unita' organizzativa e' stabilmente utilizzato allo scopo unico o prevalente di consentire o agevolare la commissione dei delitti indicati nel comma 1, si applica la sanzione dell'interdizione definitiva dall'esercizio dell'attivita' ai sensi dell'articolo 16, comma 3)).
 
-##### Art. 25-quaterdecies
+#### Art. 25-quaterdecies
 
 (( (Frode in competizioni sportive, esercizio abusivo di gioco o di scommessa e giochi d'azzardo esercitati a mezzo di apparecchi vietati). ))
 
@@ -928,7 +926,7 @@ b) per le contravvenzioni, la sanzione pecuniaria fino a duecentosessanta quote.
 
 2\. Nei casi di condanna per uno dei delitti indicati nel comma 1, lettera a), del presente articolo, si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, per una durata non inferiore a un anno)).
 
-##### Art. 25-quinquiesdecies - Reati tributari
+#### Art. 25-quinquiesdecies - Reati tributari
 
 1\. In relazione alla commissione dei delitti previsti dal decreto legislativo 10 marzo 2000, n. 74, si applicano all'ente le seguenti sanzioni pecuniarie:
 
@@ -966,7 +964,7 @@ AGGIORNAMENTO (37)
 
 Il D.L. 26 ottobre 2019, n. 124, convertito con modificazioni dalla L. 19 dicembre 2019, n. 157, ha disposto (con l'art. 39, comma 3) che "Le disposizioni di cui ai commi 1 a 2 hanno efficacia dalla data di pubblicazione nella Gazzetta Ufficiale della legge di conversione del presente decreto".
 
-##### Art. 25-sexiesdecies - Contrabbando
+#### Art. 25-sexiesdecies - Contrabbando
 
 1\. In relazione alla commissione dei reati previsti ((dalle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli articoli 11 e 20, commi 2 e 3, della legge 9 agosto 2023, n. 111, e dal testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, di cui al decreto legislativo 26 ottobre 1995, n. 504)), si applica all'ente la sanzione pecuniaria fino a duecento quote.
 
@@ -974,7 +972,7 @@ Il D.L. 26 ottobre 2019, n. 124, convertito con modificazioni dalla L. 19 dicemb
 
 3\. Nei casi previsti dai commi 1 e 2 si applicano all'ente le sanzioni interdittive previste dall'articolo 9, comma 2, lettere c), d) ed e) (( e, nel solo caso previsto dal comma 2, anche le sanzioni interdittive previste dall'articolo 9, comma 2, lettere a) e b) )).
 
-##### Art. 25-septiesdecies
+#### Art. 25-septiesdecies
 
 (( (Delitti contro il patrimonio culturale). ))
 
@@ -988,7 +986,7 @@ Il D.L. 26 ottobre 2019, n. 124, convertito con modificazioni dalla L. 19 dicemb
 
 5\. Nel caso di condanna per i delitti di cui ai commi da 1 a 4, si applicano all'ente le sanzioni interdittive previste dall'articolo 9, comma 2, per una durata non superiore a due anni.))
 
-##### Art. 25-duodevicies
+#### Art. 25-duodevicies
 
 (( (Riciclaggio di beni culturali e devastazione e saccheggio di beni culturali e paesaggistici). ))
 
@@ -996,7 +994,7 @@ Il D.L. 26 ottobre 2019, n. 124, convertito con modificazioni dalla L. 19 dicemb
 
 2\. Se l'ente o una sua unita' organizzativa viene stabilmente utilizzato allo scopo unico o prevalente di consentire o agevolare la commissione dei delitti indicati al comma 1, si applica la sanzione dell'interdizione definitiva dall'esercizio dell'attivita' ai sensi dell'articolo 16, comma 3)).
 
-##### Art. 25-undevicies
+#### Art. 25-undevicies
 
 (( (Delitti contro gli animali).))
 
@@ -1006,7 +1004,7 @@ Il D.L. 26 ottobre 2019, n. 124, convertito con modificazioni dalla L. 19 dicemb
 
 3\. ((I commi 1 e 2 non si applicano ai casi previsti dall'articolo 19-ter delle disposizioni di coordinamento e transitorie per il codice penale.))
 
-##### Art. 25-vicies
+#### Art. 25-vicies
 
 (( (Reati commessi con l'uso di sistemi di intelligenza artificiale).))
 
@@ -1016,7 +1014,7 @@ Il D.L. 26 ottobre 2019, n. 124, convertito con modificazioni dalla L. 19 dicemb
 
 3\. ((Nei casi previsti dai commi 1 e 2 si applicano all'ente le sanzioni interdittive previste dall'articolo 9, comma 2, lettere b), c), d) ed e).))
 
-##### Art. 26
+#### Art. 26
 
 Delitti tentati
 
@@ -1028,7 +1026,7 @@ Delitti tentati
 
 ### SEZIONE I - Responsabilita' patrimoniale dell'ente
 
-##### Art. 27
+#### Art. 27
 
 Responsabilita' patrimoniale dell'ente
 
@@ -1036,21 +1034,21 @@ Responsabilita' patrimoniale dell'ente
 
 2\. I crediti dello Stato derivanti degli illeciti amministrativi dell'ente relativi a reati hanno privilegio secondo le disposizioni del codice di procedura penale sui crediti dipendenti da reato. A tale fine, la sanzione pecuniaria si intende equiparata alla pena pecuniaria.
 
-## SEZIONE II - Vicende modificative dell'ente
+### SEZIONE II - Vicende modificative dell'ente
 
-##### Art. 28
+#### Art. 28
 
 Trasformazione dell'ente
 
 1\. Nel caso di trasformazione dell'ente, resta ferma la responsabilita' per i reati commessi anteriormente alla data in cui la trasformazione ha avuto effetto.
 
-##### Art. 29
+#### Art. 29
 
 Fusione dell'ente
 
 1\. Nel caso di fusione, anche per incorporazione, l'ente che ne risulta risponde dei reati dei quali erano responsabili gli enti partecipanti alla fusione.
 
-##### Art. 30
+#### Art. 30
 
 Scissione dell'ente
 
@@ -1060,7 +1058,7 @@ Scissione dell'ente
 
 3\. Le sanzioni interdittive relative ai reati indicati nel comma 2, si applicano agli enti cui e' rimasto o e' stato trasferito, anche in parte, il ramo di attivita' nell'ambito del quale il reato e' stato commesso.
 
-##### Art. 31
+#### Art. 31
 
 Determinazione delle sanzioni nel caso di fusione o scissione
 
@@ -1072,7 +1070,7 @@ Determinazione delle sanzioni nel caso di fusione o scissione
 
 4\. Resta salva la facolta' dell'ente, anche nei casi di fusione o scissione successiva alla conclusione del giudizio, di chiedere la conversione della sanzione interdittiva in sanzione pecuniaria.
 
-##### Art. 32
+#### Art. 32
 
 Rilevanza della fusione o della scissione ai fini della reiterazione
 
@@ -1082,7 +1080,7 @@ Rilevanza della fusione o della scissione ai fini della reiterazione
 
 3\. Rispetto agli enti beneficiari della scissione, la reiterazione puo' essere ritenuta, a norma dei commi 1 e 2, solo se ad essi e' stato trasferito, anche in parte, il ramo di attivita' nell'ambito del quale e' stato commesso il reato per cui e' stata pronunciata condanna nei confronti dell'ente scisso.
 
-##### Art. 33
+#### Art. 33
 
 Cessione di azienda
 
@@ -1092,13 +1090,11 @@ Cessione di azienda
 
 3\. Le disposizioni del presente articolo si applicano anche nel caso di conferimento di azienda.
 
-## Capo III - PROCEDIMENTO DI ACCERTAMENTO E DI APPLICAZIONE DELLE SANZIONI
+## Capo III - PROCEDIMENTO DI ACCERTAMENTO E DI APPLICAZIONE DELLE SANZIONI AMMINISTRATIVE
 
-### AMMINISTRATIVE - SEZIONE I
+### SEZIONE I - Disposizioni generali
 
-#### Disposizioni generali
-
-##### Art. 34
+#### Art. 34
 
 Disposizioni processuali applicabili
 
@@ -1108,15 +1104,15 @@ Disposizioni processuali applicabili
 
 > \- Il decreto legislativo 28 luglio 1989, n. 271, reca: "Norme di attuazione di coordinamento e transitorie del codice di procedura penale".
 
-##### Art. 35
+#### Art. 35
 
 Estensione della disciplina relativa all'imputato
 
 1\. All'ente si applicano le disposizioni processuali relative all'imputato, in quanto compatibili.
 
-## SEZIONE II - Soggetti, giurisdizione e competenza
+### SEZIONE II - Soggetti, giurisdizione e competenza
 
-##### Art. 36
+#### Art. 36
 
 Attribuzioni del giudice penale
 
@@ -1124,13 +1120,13 @@ Attribuzioni del giudice penale
 
 2\. Per il procedimento di accertamento dell'illecito amministrativo dell'ente si osservano le disposizioni sulla composizione del tribunale e le disposizioni processuali collegate relative ai reati dai quali l'illecito amministrativo dipende.
 
-##### Art. 37
+#### Art. 37
 
 Casi di improcedibilita'
 
 1\. Non si procede all'accertamento dell'illecito amministrativo dell'ente quando l'azione penale non puo' essere iniziata o proseguita nei confronti dell'autore del reato per la mancanza di una condizione di procedibilita'.
 
-##### Art. 38
+#### Art. 38
 
 Riunione e separazione dei procedimenti
 
@@ -1168,7 +1164,7 @@ c) l'osservanza delle disposizioni processuali lo rende necessario.
 
 > 3\. La parte, nel formulare la richiesta, puo' subordinarne l'efficacia alla concessione della sospensione condizionale della pena. In questo caso il giudice, se ritiene che la sospensione condizionale non puo' essere concessa, rigetta la richiesta.".
 
-##### Art. 39
+#### Art. 39
 
 Rappresentanza dell'ente
 
@@ -1204,25 +1200,25 @@ d) la dichiarazione o l'elezione di domicilio.
 
 > 5\. Il domicilio delle parti private indicate nel comm 1 per ogni effetto processuale si intende eletto presso il difensore.".
 
-##### Art. 40
+#### Art. 40
 
 Difensore di ufficio
 
 1\. L'ente che non ha nominato un difensore di fiducia o ne e' rimasto privo e' assistito da un difensore di ufficio.
 
-##### Art. 41
+#### Art. 41
 
 Contumacia dell'ente
 
 1\. L'ente che non si costituisce nel processo e' dichiarato contumace.
 
-##### Art. 42
+#### Art. 42
 
 Vicende modificative dell'ente nel corso del processo
 
 1\. Nel caso di trasformazione, di fusione o di scissione dell'ente originariamente responsabile, il procedimento prosegue nei confronti degli enti risultanti da tali vicende modificative o beneficiari della scissione, che partecipano al processo, nello stato in cui lo stesso si trova, depositando la dichiarazione di cui all'articolo 39, comma 2.
 
-##### Art. 43
+#### Art. 43
 
 Notificazioni all'ente
 
@@ -1256,9 +1252,9 @@ Qualora le ricerche non diano esito positivo, il giudice, su richiesta del pubbl
 
 > 4\. Se la notificazione nel domicilio determinato a norma del comma 2 diviene impossibile, le notificazioni sono eseguite mediante consegna al difensore. Nello stesso modo si procede quando, nei casi previsti dai commi 1 e 3, la dichiarazione o l'elezione di domicilio mancano o sono insufficienti o inidonee. Tuttavia, quando risulta che, per caso fortuito o forza maggiore, l'imputato non e' stato nella condizione di comunicare il mutamento del luogo dichiarato o eletto, si applicano le disposizioni degli articoli 157 e 159.".
 
-## SEZIONE III - Prove
+### SEZIONE III - Prove
 
-##### Art. 44
+#### Art. 44
 
 Incompatibilita' con l'ufficio di testimone
 
@@ -1270,9 +1266,9 @@ b) la persona che rappresenta l'ente indicata nella dichiarazione di cui all'art
 
 2\. Nel caso di incompatibilita' la persona che rappresenta l'ente puo' essere interrogata ed esaminata nelle forme, con i limiti e con gli effetti previsti per l'interrogatorio e per l'esame della persona imputata in un procedimento connesso.
 
-## SEZIONE IV - Misure cautelari
+### SEZIONE IV - Misure cautelari
 
-##### Art. 45
+#### Art. 45
 
 Applicazione delle misure cautelari
 
@@ -1282,7 +1278,7 @@ Applicazione delle misure cautelari
 
 3\. In luogo della misura cautelare interdittiva, il giudice puo' nominare un commissario giudiziale a norma dell'articolo 15 per un periodo pari alla durata della misura che sarebbe stata applicata. La nomina del commissario di cui al primo periodo e' sempre disposta, ((in luogo della misura cautelare interdittiva)), quando la misura possa pregiudicare la continuita' dell'attivita' svolta in stabilimenti industriali o parti di essi dichiarati di interesse strategico nazionale ai sensi dell'articolo 1 del decreto-legge 3 dicembre 2012, n. 207, convertito, con modificazioni, dalla legge 24 dicembre 2012, n. 231.
 
-##### Art. 46
+#### Art. 46
 
 Criteri di scelta delle misure
 
@@ -1294,7 +1290,7 @@ Criteri di scelta delle misure
 
 4\. Le misure cautelari non possono essere applicate congiuntamente.
 
-##### Art. 47
+#### Art. 47
 
 Giudice competente e procedimento di applicazione
 
@@ -1338,13 +1334,13 @@ Giudice competente e procedimento di applicazione
 
 > 10\. Il verbale di udienza e' redatto soltanto in forma riassuntiva a norma dell'art. 140, comma 2.".
 
-##### Art. 48
+#### Art. 48
 
 Adempimenti esecutivi
 
 1\. L'ordinanza che dispone l'applicazione di una misura cautelare e' notificata all'ente a cura del pubblico ministero.
 
-##### Art. 49
+#### Art. 49
 
 Sospensione delle misure cautelari
 
@@ -1356,7 +1352,7 @@ Sospensione delle misure cautelari
 
 4\. Se si realizzano le condizioni di cui all'articolo 17 il giudice revoca la misura cautelare e ordina la restituzione della somma depositata o la cancellazione dell'ipoteca; la fideiussione prestata si estingue.
 
-##### Art. 50
+#### Art. 50
 
 Revoca e sostituzione delle misure cautelari
 
@@ -1364,7 +1360,7 @@ Revoca e sostituzione delle misure cautelari
 
 2\. Quando le esigenze cautelari risultano attenuate ovvero la misura applicata non appare piu proporzionata all'entita' del fatto o alla sanzione che si ritiene possa essere applicata in via definitiva, il giudice, su richiesta del pubblico ministero o dell'ente, sostituisce la misura con un'altra meno grave ovvero ne dispone l'applicazione con modalita' meno gravose, anche stabilendo una minore durata.
 
-##### Art. 51
+#### Art. 51
 
 Durata massima delle misure cautelari
 
@@ -1376,7 +1372,7 @@ Durata massima delle misure cautelari
 
 4\. La durata delle misure cautelari e' computata nella durata delle sanzioni applicate in via definitiva.
 
-##### Art. 52
+#### Art. 52
 
 Impugnazione dei provvedimenti che applicano le misure cautelari
 
@@ -1402,7 +1398,7 @@ Impugnazione dei provvedimenti che applicano le misure cautelari
 
 > 4\. Il ricorso non sospende l'esecuzione della ordinanza.".
 
-##### Art. 53
+#### Art. 53
 
 Sequestro preventivo
 
@@ -1418,7 +1414,7 @@ AGGIORNAMENTO (49)
 
 Il D.L. 13 giugno 2023, n. 69, convertito con modificazioni dalla L. 10 agosto 2023, n. 103, ha disposto (con l'art. 9-bis, comma 4) che "Le disposizioni di cui ai commi 1, 2 e 3 si applicano anche ai provvedimenti di sequestro o di confisca aventi ad oggetto stabilimenti industriali o parti di essi dichiarati di interesse strategico nazionale ai sensi dell'articolo 1 del decreto-legge 3 dicembre 2012, n. 207, convertito, con modificazioni, dalla legge 24 dicembre 2012, n. 231, ovvero impianti o infrastrutture necessari ad assicurarne la continuita' produttiva, non ancora definitivi alla data di entrata in vigore della legge di conversione del presente decreto".
 
-##### Art. 54
+#### Art. 54
 
 Sequestro conservativo
 
@@ -1460,9 +1456,9 @@ Sequestro conservativo
 
 > 2\. Salva l'azione per ottenere con le forme ordinarie il pagamento delle somme che rimangono ancora dovute, l'esecuzione forzata sui bei sequestrati ha luogo nelle forme prescritte dal codice di procedura civile. Sul prezzo ricavato dalla vendita dei beni sequestrati e sulle somme depositate a titolo di cauzione e non devolute alla cassa delle ammende, sono pagate, nell'ordine, le somme dovute alla parte civile a titolo di risarcimento del danno e di spese processuali, le pene pecuniarie, le spese di procedimento e ogni altra somma dovuta all'erario dello Stato.".
 
-## SEZIONE V - Indagini preliminari e udienza preliminare
+### SEZIONE V - Indagini preliminari e udienza preliminare
 
-##### Art. 55
+#### Art. 55
 
 Annotazione dell'illecito amministrativo
 
@@ -1482,7 +1478,7 @@ Annotazione dell'illecito amministrativo
 
 > 3-bis. Se sussistono specifiche esigenze attinenti all'attivita' di indagine, il pubblico ministero, nel decidere sulla richiesta, puo' disporre, con decreto motivato, il segreto sulle iscrizioni per un periodo non superiore a tre mesi e non rinnovabili.".
 
-##### Art. 56
+#### Art. 56
 
 Termine per l'accertamento dell'illecito amministrativo nelle indagini preliminari
 
@@ -1490,19 +1486,19 @@ Termine per l'accertamento dell'illecito amministrativo nelle indagini prelimina
 
 2\. Il termine per l'accertamento dell'illecito amministrativo a carico dell'ente decorre dalla annotazione prevista dall'articolo 55.
 
-##### Art. 57
+#### Art. 57
 
 Informazione di garanzia
 
 1\. L'informazione di garanzia inviata all'ente deve contenere l'invito a dichiarare ovvero eleggere domicilio per le notificazioni nonche' l'avvertimento che per partecipare al procedimento deve depositare la dichiarazione di cui all'articolo 39, comma 2.
 
-##### Art. 58
+#### Art. 58
 
 Archiviazione
 
 1\. Se non procede alla contestazione dell'illecito amministrativo a norma dell'articolo 59, il pubblico ministero emette decreto motivato di archiviazione degli atti, comunicandolo al procuratore generale presso la corte d'appello. Il procuratore generale puo' svolgere gli accertamenti indispensabili e, qualora ritenga ne ricorrano le condizioni, contesta all'ente le violazioni amministrative conseguenti al reato entro sei mesi dalla comunicazione.
 
-##### Art. 59
+#### Art. 59
 
 Contestazione dell'illecito amministrativo
 
@@ -1510,13 +1506,13 @@ Contestazione dell'illecito amministrativo
 
 2\. La contestazione contiene gli elementi identificativi dell'ente, l'enunciazione, in forma chiara e precisa, del fatto che puo' comportare l'applicazione delle sanzioni amministrative, con l'indicazione del reato da cui l'illecito dipende e dei relativi articoli di legge e delle fonti di prova.
 
-##### Art. 60
+#### Art. 60
 
 Decadenza dalla contestazione
 
 1\. Non puo' procedersi alla contestazione di cui all'articolo 59 quando il reato da cui dipende l'illecito amministrativo dell'ente e' estinto per prescrizione.
 
-##### Art. 61
+#### Art. 61
 
 Provvedimenti emessi nell'udienza preliminare
 
@@ -1524,9 +1520,9 @@ Provvedimenti emessi nell'udienza preliminare
 
 2\. Il decreto che, a seguito dell'udienza preliminare, dispone il giudizio nei confronti dell'ente, contiene, a pena di nullita', la contestazione dell'illecito amministrativo dipendente dal reato, con l'enunciazione, in forma chiara e precisa, del fatto che puo' comportare l'applicazione delle sanzioni e l'indicazione del reato da cui l'illecito dipende e dei relativi articoli di legge e delle fonti di prova nonche' gli elementi identificativi dell'ente.
 
-## SEZIONE VI - Procedimenti speciali
+### SEZIONE VI - Procedimenti speciali
 
-##### Art. 62
+#### Art. 62
 
 Giudizio abbreviato
 
@@ -1592,7 +1588,7 @@ Giudizio abbreviato
 
 > 4\. Si applica la disposizione dell'art. 426, comma 2.
 
-##### Art. 63
+#### Art. 63
 
 Applicazione della sanzione su richiesta
 
@@ -1608,7 +1604,7 @@ Applicazione della sanzione su richiesta
 
 > \- Il titolo II del libro sesto del codice di procedura penale, reca: "Applicazione della pena su richiesta delle parti".
 
-##### Art. 64
+#### Art. 64
 
 Procedimento per decreto
 
@@ -1620,33 +1616,33 @@ Procedimento per decreto
 
 4\. Si osservano le disposizioni del titolo V del libro sesto e dell'articolo 557 del codice di procedura penale, in quanto compatibili.
 
-## SEZIONE VII - Giudizio
+### SEZIONE VII - Giudizio
 
-##### Art. 65
+#### Art. 65
 
 Termine per provvedere alla riparazione delle conseguenze del reato
 
 1\. Prima dell'apertura del dibattimento di primo grado, il giudice puo' disporre la sospensione del processo se l'ente chiede di provvedere alle attivita' di cui all'articolo 17 e dimostra di essere stato nell'impossibilita' di effettuarle prima. In tal caso, il giudice, se ritiene di accogliere la richiesta, determina una somma di denaro a titolo di cauzione. Si osservano le disposizioni di cui all'articolo 49.
 
-##### Art. 66
+#### Art. 66
 
 Sentenza di esclusione della responsabilita' dell'ente
 
 1\. Se l'illecito amministrativo contestato all'ente non sussiste, il giudice lo dichiara con sentenza, indicandone la causa nel dispositivo. Allo stesso modo procede quando manca, e' insufficiente o e' contraddittoria la prova dell'illecito amministrativo.
 
-##### Art. 67
+#### Art. 67
 
 Sentenza di non doversi procedere
 
 1\. Il giudice pronuncia sentenza di non doversi procedere nei casi previsti dall'articolo 60 e quando la sanzione e' estinta per prescrizione.
 
-##### Art. 68
+#### Art. 68
 
 Provvedimenti sulle misure cautelari
 
 1\. Quando pronuncia una delle sentenza di cui agli articoli 66 e 67, il giudice dichiara la cessazione delle misure cautelari eventualmente disposte.
 
-##### Art. 69
+#### Art. 69
 
 Sentenza di condanna
 
@@ -1654,7 +1650,7 @@ Sentenza di condanna
 
 2\. In caso di applicazione delle sanzioni interdittive la sentenza deve sempre indicare l'attivita' o le strutture oggetto della sanzione.
 
-##### Art. 70
+#### Art. 70
 
 Sentenza in caso di vicende modificative dell'ente
 
@@ -1662,9 +1658,9 @@ Sentenza in caso di vicende modificative dell'ente
 
 2\. La sentenza pronunciata nei confronti dell'ente originariamente responsabile ha comunque effetto anche nei confronti degli enti indicati nel comma 1.
 
-## SEZIONE VIII - Impugnazioni
+### SEZIONE VIII - Impugnazioni
 
-##### Art. 71
+#### Art. 71
 
 Impugnazioni delle sentenze relative alla responsabilita' amministrativa dell'ente
 
@@ -1674,13 +1670,13 @@ Impugnazioni delle sentenze relative alla responsabilita' amministrativa dell'en
 
 3\. Contro la sentenza che riguarda l'illecito amministrativo il pubblico ministero puo' proporre le stesse impugnazioni consentite per il reato da cui l'illecito amministrativo dipende.
 
-##### Art. 72
+#### Art. 72
 
 Estensione delle impugnazioni
 
 1\. Le impugnazioni proposte dall'imputato del reato da cui dipende l'illecito amministrativo e dall'ente, giovano, rispettivamente, all'ente e all'imputato, purche' non fondate su motivi esclusivamente personali.
 
-##### Art. 73
+#### Art. 73
 
 Revisione delle sentenze
 
@@ -1720,9 +1716,9 @@ Revisione delle sentenze
 
 > "Art. 647 (Risarcimento del danno e riparazione). - 1. Nel caso previsto dall'art. 630, comma 1, lettera d), lo Stato, se ha corrisposto la riparazione, si surroga, fino alla concorrenza della somma pagata, nel diritto al risarcimento dei danni contro il responsabile.".
 
-## SEZIONE IX - Esecuzione
+### SEZIONE IX - Esecuzione
 
-##### Art. 74
+#### Art. 74
 
 Giudice dell'esecuzione
 
@@ -1788,11 +1784,11 @@ d) alla confisca e alla restituzione delle cose sequestrate.
 
 > 5\. Se la persona detenuta deve essere giudicata per altri reati, l'ordinanza e' comunicata all'autorita' giudiziaria precedente.".
 
-##### Art. 75
+#### Art. 75
 
 (( ARTICOLO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 155 ))
 
-##### Art. 76
+#### Art. 76
 
 Pubblicazione della sentenza applicativa della condanna
 
@@ -1810,7 +1806,7 @@ Pubblicazione della sentenza applicativa della condanna
 
 > 4\. Se il direttore o il vice direttore responsabile contravviene alle disposizioni precedenti, e' condannato in solido con l'editore e con il proprietario della tipografia al pagamento a favore della cassa delle ammende di una somma fino a lire tre milioni"."
 
-##### Art. 77
+#### Art. 77
 
 Esecuzione delle sanzioni interdittive
 
@@ -1818,7 +1814,7 @@ Esecuzione delle sanzioni interdittive
 
 2\. Ai fini della decorrenza del termine di durata delle sanzioni interdittive si ha riguardo alla data della notificazione.
 
-##### Art. 78
+#### Art. 78
 
 Conversione delle sanzioni interdittive
 
@@ -1830,7 +1826,7 @@ Conversione delle sanzioni interdittive
 
 4\. Se accoglie la richiesta il giudice, con ordinanza, converte le sanzioni interdittive, determinando l'importo della sanzione pecuniaria in una somma non inferiore a quella gia' applicata in sentenza e non superiore al doppio della stessa. Nel determinare l'importo della somma il giudice tiene conto della gravita' dell'illecito ritenuto in sentenza e delle ragioni che hanno determinato il tardivo adempimento delle condizioni di cui all'articolo 17.
 
-##### Art. 79
+#### Art. 79
 
 Nomina del commissario giudiziale e confisca del profitto
 
@@ -1846,21 +1842,21 @@ Nomina del commissario giudiziale e confisca del profitto
 
 > \- Per il testo dell'art. 667 del codice di procedura penale, si vedano le note all'art. 74.
 
-##### Art. 80
+#### Art. 80
 
 (( ARTICOLO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313 ))
 
-##### Art. 81
+#### Art. 81
 
 (( ARTICOLO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313 ))
 
-##### Art. 82
+#### Art. 82
 
 (( ARTICOLO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313 ))
 
 ## Capo IV - Disposizioni di attuazione e di coordinamento
 
-##### Art. 83
+#### Art. 83
 
 Concorso di sanzioni
 
@@ -1868,13 +1864,13 @@ Concorso di sanzioni
 
 2\. Se, in conseguenza dell'illecito, all'ente e' stata gia' applicata una sanzione amministrativa di contenuto identico o analogo a quella interdittiva prevista dal presente decreto legislativo, la durata della sanzione gia' sofferta e' computata ai fini della determinazione della durata della sanzione amministrativa dipendente da reato.
 
-##### Art. 84
+#### Art. 84
 
 Comunicazioni alle autorita' di controllo o di vigilanza
 
 1\. Il provvedimento che applica misure cautelari interdittive e la sentenza irrevocabile di condanna sono comunicati, a cura della cancelleria del giudice che li ha emessi, alle autorita' che esercitano il controllo o la vigilanza sull'ente.
 
-##### Art. 85
+#### Art. 85
 
 Disposizioni regolamentari
 

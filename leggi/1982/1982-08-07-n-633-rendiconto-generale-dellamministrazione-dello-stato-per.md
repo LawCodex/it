@@ -27,11 +27,11 @@ la seguente legge:
 
 ## AMMINISTRAZIONI DELLO STATO
 
-### Art. 1 - Rendiconto generale
+## Art. 1 - Rendiconto generale
 
 Il conto consuntivo dello Stato per l'esercizio 1979 approvato secondo le risultanze degli articoli seguenti.
 
-### Art. 2 - Entrate
+## Art. 2 - Entrate
 
 Le entrate tributarie, extratributarie, per alienazione ed ammortamento di beni patrimoniali e riscossione di crediti, e per accensione di prestiti, accertate nell'esercizio finanziario 1979 per la competenza propria dell'esercizio, risultano stabilite in lire 89.073.873.918.364.
 
@@ -41,7 +41,7 @@ I residui attivi al 31 dicembre 1979 ammontano complessivamente a lire 15.576.36
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 3 - Spese
+## Art. 3 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti, impegnate nell'esercizio finanziario 1979 per la competenza propria dell'esercizio, risultano stabilite in lire 116.255.330.129.289.
 
@@ -51,13 +51,13 @@ I residui passivi al 31 dicembre 1979 ammontano complessivamente a lire 36.184.2
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 4 - Disavanzo della gestione di competenza
+## Art. 4 - Disavanzo della gestione di competenza
 
 Il disavanzo della gestione di competenza dell'esercizio finanziario 1979 di lire 27.181.456.210.925 risulta stabilito come segue:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 5 - Situazione finanziaria
+## Art. 5 - Situazione finanziaria
 
 Il disavanzo finanziario del conto del tesoro, alla fine dell'esercizio 1979, di lire 85.750.945.497.467, risulta stabilito come segue:
 
@@ -65,11 +65,11 @@ Il disavanzo finanziario del conto del tesoro, alla fine dell'esercizio 1979, di
 
 ## DISPOSIZIONI SPECIALI
 
-### Art. 6 - Prelevamenti dal Fondo di riserva per le spese impreviste
+## Art. 6 - Prelevamenti dal Fondo di riserva per le spese impreviste
 
 E' approvato l'allegato di cui all'articolo 9, ultimo comma, della legge 5 agosto 1978, n. 468, concernente i prelevamenti dal Fondo di riserva per le spese impreviste per l'anno 1979.
 
-### Art. 7 - Eccedenze
+## Art. 7 - Eccedenze
 
 Sono approvate le eccedenze di impegni risultate in sede di consuntivo sul conto della competenza e sul conto dei residui ai capitoli degli stati di previsione della spesa dei Ministeri sotto indicati per l'esercizio 1979, come risulta dal dettaglio che segue:
 
@@ -77,7 +77,7 @@ Sono approvate le eccedenze di impegni risultate in sede di consuntivo sul conto
 
 ## AZIENDE SPECIALI ED AUTONOME - GESTIONE DELL'EX AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### Art. 8 - Entrate
+## Art. 8 - Entrate
 
 Le entrate correnti ed in conto capitale del bilancio della gestione dell'ex Azienda di Stato per le foreste demaniali, accertate nell'esercizio finanziario 1979 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo della gestione stessa, allegato al conto consuntivo del Ministero dell'agricoltura e delle foreste, in lire 27.902.694.829.
 
@@ -87,7 +87,7 @@ I residui attivi al 31 dicembre 1979 ammontano complessivamente a lire 15.698.89
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 9 - Spese
+## Art. 9 - Spese
 
 Le spese correnti ed in conto capitale del bilancio della gestione predetta, impegnate nell'esercizio finanziario 1979 per la competenza propria dell'esercizio, risultano stabilite in lire 24.492.426.793.
 
@@ -97,7 +97,7 @@ I residui passivi al 31 dicembre 1979 ammontano complessivamente a lire 36.374.8
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 10 - Situazione finanziaria
+## Art. 10 - Situazione finanziaria
 
 La situazione finanziaria della gestione dell'ex Azienda di Stato per le foreste demaniali alla fine dell'esercizio 1979 risulta come appresso:
 
@@ -105,7 +105,7 @@ La situazione finanziaria della gestione dell'ex Azienda di Stato per le foreste
 
 ## ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-### Art. 11 - Entrate
+## Art. 11 - Entrate
 
 Le entrate correnti del bilancio dell'Istituto agronomico per l'Oltremare, accertate nell'esercizio finanziario 1979 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Istituto stesso, allegato al conto consuntivo del Ministero degli affari esteri, in lire 533.810.294.
 
@@ -115,7 +115,7 @@ I residui attivi al 31 dicembre 1979 ammontano complessivamente a lire 3.883.950
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 12 - Spese
+## Art. 12 - Spese
 
 Le spese correnti del bilancio dell'istituto predetto, impegnate nell'esercizio finanziario 1979 per la competenza propria dell'esercizio, risultano stabilite in lire 533.810.294.
 
@@ -127,7 +127,7 @@ I residui passivi al 31 dicembre 1979 ammontano complessivamente a lire 157.010.
 
 ## AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-### Art. 13 - Entrate
+## Art. 13 - Entrate
 
 Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione autonoma dei monopoli di Stato, comprese quelle delle gestioni speciali, accertate nell'esercizio finanziario 1979 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero delle finanze, in lire 817.012.923.814.
 
@@ -137,7 +137,7 @@ I residui attivi al 31 dicembre 1979 ammontano complessivamente a lire 425.948.2
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 14 - Spese
+## Art. 14 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Amministrazione predetta, comprese quelle delle gestioni speciali, impegnate nell'esercizio 1979 per la competenza propria dell'esercizio, risultano stabilite in lire 817.012.923.814.
 
@@ -147,7 +147,7 @@ I residui passivi al 31 dicembre 1979 ammontano complessivamente a lire 293.370.
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 15 - Riassunto generale
+## Art. 15 - Riassunto generale
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione autonoma dei monopoli di Stato, di competenza dell'esercizio 1979, risulta cosi' stabilito:
 
@@ -159,7 +159,7 @@ Spese (escluse le gestioni speciali) ............. L. 816.827.650.544 Spese dell
 
 ------------------ L. 817.012.923.814 ==================
 
-### Art. 16 - Situazione finanziaria
+## Art. 16 - Situazione finanziaria
 
 La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dell'esercizio 1979, risulta come appresso:
 
@@ -175,7 +175,7 @@ Saldo passivo dell'esercizio 1978 ..................... L. 3.238.132
 
 ------------ Saldo passivo al 31 dicembre 1979 ... L. 3.238.132 ============
 
-### Art. 17 - Copertura
+## Art. 17 - Copertura
 
 Per la copertura del disavanzo di gestione dell'esercizio finanziario 1979 accertato per l'Amministrazione autonoma dei monopoli di Stato, la Cassa depositi e prestiti e' autorizzata a concedere all'Amministrazione predetta sui fondi dei conti correnti postali, di cui all'articolo 1 del decreto legislativo luogotenenziale 22 novembre 1945, n. 822, anticipazioni per complessive lire 61.175.328.593, estinguibili in 35 anni al saggio vigente per i mutui all'epoca della concessione.
 
@@ -187,7 +187,7 @@ L'onere relativo fara' carico al bilancio dello Stato.
 
 ## ARCHIVI NOTARILI
 
-### Art. 18 - Avanzo
+## Art. 18 - Avanzo
 
 L'avanzo della gestione del bilancio degli Archivi notarili per l'esercizio finanziario 1979 risulta stabilito come segue:
 
@@ -203,7 +203,7 @@ Spese .......................................... L. 51.161.398.205
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-### Art. 19 - Entrate
+## Art. 19 - Entrate
 
 Le entrate correnti ed in conto capitale del bilancio dell'Amministrazione del Fondo per il culto, accertate nell'esercizio finanziario 1979 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'interno, in lire 51.946.878.341.
 
@@ -213,7 +213,7 @@ I residui attivi al 31 dicembre 1979 ammontano complessivamente a lire 40.982.08
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 20 - Spese
+## Art. 20 - Spese
 
 Le spese correnti ed in conto capitale del bilancio dell'Amministrazione predetta, impegnate nell'esercizio 1979 per la competenza propria dell'esercizio, risultano stabilite in lire 59.306.021.322.
 
@@ -223,7 +223,7 @@ I residui passivi al 31 dicembre 1979 ammontano complessivamente a lire 19.359.1
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 21 - Situazione finanziaria
+## Art. 21 - Situazione finanziaria
 
 La situazione finanziaria dell'Amministrazione del fondo per il culto, alla fine dell'esercizio 1979, risulta come appresso:
 
@@ -231,7 +231,7 @@ La situazione finanziaria dell'Amministrazione del fondo per il culto, alla fine
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-### Art. 22 - Entrate
+## Art. 22 - Entrate
 
 Le entrate correnti ed in conto capitale del bilancio del Fondo di beneficenza e di religione nella citta' di Roma, accertate nell'esercizio finanziario 1979 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'interno, in lire 1.225.972.735.
 
@@ -241,7 +241,7 @@ I residui attivi al 31 dicembre 1979 ammontano complessivamente a lire 86.461.19
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 23 - Spese
+## Art. 23 - Spese
 
 Le spese correnti ed in conto capitale del bilancio dell'Amministrazione predetta, impegnate nell'esercizio finanziario 1979 per la competenza propria dell'esercizio, risultano stabilite in lire 1.251.676.330.
 
@@ -251,7 +251,7 @@ I residui passivi al 31 dicembre 1979 ammontano complessivamente a lire 698.507.
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 24 - Situazione finanziaria
+## Art. 24 - Situazione finanziaria
 
 La situazione finanziaria del Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1979, risulta come appresso:
 
@@ -301,7 +301,7 @@ Saldo attivo effettivo dell'esercizio 1978 ... L. 25.703.595
 
 ## PATRIMONI RIUNITI EX ECONOMALI
 
-### Art 25 - Entrate
+## Art 25 - Entrate
 
 Le entrate correnti ed in conto capitale del bilancio dell'Azienda dei patrimoni riuniti ex economali, accertate nell'esercizio finanziario 1979 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero dell'interno, in lire 654.770.231.
 
@@ -311,7 +311,7 @@ I residui attivi, al 31 dicembre 1979 ammontano complessivamente a lire 126.871.
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 26 - Spese
+## Art. 26 - Spese
 
 Le spese correnti ed in conto capitale del bilancio dell'Azienda predetta, impegnate nell'esercizio finanziario 1979 per la competenza propria dell'esercizio, risultano stabilite in lire 770.148.735.
 
@@ -321,7 +321,7 @@ I residui passivi al 31 dicembre 1979 ammontano complessivamente a lire 290.677.
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 27 - Situazione finanziaria
+## Art. 27 - Situazione finanziaria
 
 La situazione finanziaria dell'Azienda dei patrimoni riuniti ex economali, alla fine dell'esercizio 1979, risulta come appresso:
 
@@ -329,7 +329,7 @@ La situazione finanziaria dell'Azienda dei patrimoni riuniti ex economali, alla 
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE
 
-### Art. 28 - Entrate
+## Art. 28 - Entrate
 
 Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Azienda nazionale autonoma delle strade, accertate nell'esercizio finanziario 1979 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero dei lavori pubblici, in lire 1.984.837.466.593.
 
@@ -339,7 +339,7 @@ I residui attivi al 31 dicembre 1979 ammontano complessivamente a lire 2.719.647
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 29 - Spese
+## Art. 29 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Azienda predetta, impegnate nell'esercizio finanziario 1979 per la competenza propria dell'esercizio, risultano stabilite in lire 1.984.837.466.593.
 
@@ -351,7 +351,7 @@ I residui passivi al 31 dicembre 1979 ammontano complessivamente a lire 2.505.20
 
 ## AMMINISTRAZIONE AUTONOMA DELLE POSTE E DELLE TELECOMUNICAZIONI
 
-### Art. 30 - Entrate
+## Art. 30 - Entrate
 
 Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione delle poste e delle telecomunicazioni, accertate nell'esercizio finanziario 1979 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero delle poste e delle telecomunicazioni, in lire 3.389.758.357.185.
 
@@ -361,7 +361,7 @@ I residui attivi al 31 dicembre 1979 ammontano complessivamente a lire 2.401.904
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 31 - Spese
+## Art. 31 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Amministrazione predetta, impegnate nell'esercizio finanziario 1979 per la competenza propria dell'esercizio, risultano stabilite in lire 3.389.758.357.185.
 
@@ -373,7 +373,7 @@ I residui passivi al 31 dicembre 1979 ammontano complessivamente a lire 2.255.10
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Art. 32 - Entrate
+## Art. 32 - Entrate
 
 Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Azienda di Stato per i servizi telefonici, accertate nell'esercizio finanziario 1979 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero delle poste e delle telecomunicazioni, in lire 1.166.560.044.843.
 
@@ -383,7 +383,7 @@ I residui attivi al 31 dicembre 1979 ammontano complessivamente a lire 243.928.3
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 33 - Spese
+## Art. 33 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Azienda predetta, impegnate nell'esercizio finanziario 1979 per la competenza propria dell'esercizio, risultano stabilite in lire 1.166.560.044.843.
 
@@ -395,7 +395,7 @@ I residui passivi al 31 dicembre 1979 ammontano complessivamente a lire 1.056.02
 
 ## AZIENDA AUTONOMA DELLE FERROVIE DELLO STATO
 
-### Art. 34 - Entrate
+## Art. 34 - Entrate
 
 Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Azienda autonoma delle ferrovie dello Stato, comprese quelle delle gestioni speciali ed autonome, accertate nell'esercizio finanziario 1979 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero dei trasporti, in lire 12.878.073.561.668.
 
@@ -405,7 +405,7 @@ I residui attivi al 31 dicembre 1979 ammontano complessivamente a lire 3.914.938
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 35 - Spese
+## Art. 35 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Azienda predetta, comprese quelle delle gestioni speciali ed autonome, impegnate nell'esercizio finanziario 1979 per la competenza propria dell'esercizio, risultano stabilite in lire 12.878.073.561.668.
 
@@ -415,7 +415,7 @@ I residui passivi al 31 dicembre 1979 ammontano complessivamente a lire 4.167.05
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 36 - Riassunto generale
+## Art. 36 - Riassunto generale
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Azienda autonoma delle ferrovie dello Stato, di competenza dell'esercizio 1979, risulta cosi' stabilito:
 
@@ -455,7 +455,7 @@ Visto, il Guardasigilli: DARIDA
 
 ## AZIENDA AUTONOMA DELLE FERROVIE DELLO STATO
 
-### Allegato n. 1
+## Allegato n. 1
 
 ALLEGATO N. 1
 
@@ -615,7 +615,7 @@ a) lire 4.000.000 risultano destinate a copertura del provvedimento per l'assunz
 
 b) lire 2.274.000 vengono passate in economia.
 
-### Allegato n. 2
+## Allegato n. 2
 
 ALLEGATO N. 2
 

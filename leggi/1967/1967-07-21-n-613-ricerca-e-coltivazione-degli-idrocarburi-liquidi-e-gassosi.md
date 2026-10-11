@@ -26,13 +26,11 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - Ricerca e coltivazione degli idrocarburi liquidi e gassosi nel mare
+## TITOLO I - Ricerca e coltivazione degli idrocarburi liquidi e gassosi nel mare territoriale e nella piattaforma continentale
 
-### territoriale e nella piattaforma continentale
+### CAPO I - DELLA PIATTAFORMA CONTINENTALE
 
-#### CAPO I - DELLA PIATTAFORMA CONTINENTALE
-
-##### Art. 1
+#### Art. 1
 
 Agli effetti della presente legge si intende per piattaforma continentale il fondo ed il sottofondo marino adiacente al territorio della penisola e delle isole italiane e situati al di fuori del mare territoriale, fino al limite corrispondente alla profondita' di 200 metri o, oltre tale limite, fino al punto in cui la profondita' delle acque sovrastanti permette lo sfruttamento delle risorse naturali di tali zone. ((7))
 
@@ -46,9 +44,9 @@ AGGIORNAMENTO (7)
 
 La L. 2 dicembre 1994, n. 689 ha disposto (con l'art. 4, comma 1) che "A decorrere dalla data di entrata in vigore della presente legge, la definizione della piattaforma continentale, di cui all'articolo 1, primo comma, della legge 21 luglio 1967, n. 613, e' da intendersi sostituita dalla definizione di cui all'articolo 76 della convenzione di cui all'articolo 1".
 
-## CAPO II - OGGETTO DEL TITOLO
+### CAPO II - OGGETTO DEL TITOLO
 
-##### Art. 2
+#### Art. 2
 
 Il diritto di esplorare la piattaforma continentale e di sfruttarne le risorse naturali appartiene allo Stato.
 
@@ -60,7 +58,7 @@ Le sostanze minerali ricavate dalla piattaforma continentale sono considerate, a
 
 Le autorizzazioni e le concessioni per la esplorazione della piattaforma continentale a fini diversi da quelli previsti nei commi precedenti e per lo sfruttamento delle risorse naturali diverse dagli idrocarburi e dalle altre sostanze minerali, sono di competenza della amministrazione marittima. Per tali autorizzazioni e concessioni valgono, in quanto applicabili, le norme del Codice della navigazione e del relativo Regolamento di esecuzione a quelle vigenti per la determinazione del canone dovuto.
 
-##### Art. 3
+#### Art. 3
 
 Le attivita', di cui al secondo comma dell'articolo precedente, si sviluppano nelle seguenti fasi:
 
@@ -76,15 +74,15 @@ Le attivita', di cui al secondo comma dell'articolo precedente, si sviluppano ne
 
 La fase di cui al punto 2) non ha carattere di obbligatorieta' e puo' essere consentita sia antecedentemente che contemporaneamente alle fasi 3) e 4); la fase di cui al punto 3) e' obbligatoria per il passaggio alla fase della coltivazione, di cui al punto 4).
 
-##### Art. 4
+#### Art. 4
 
 Salvo quanto disposto dalle norme della presente legge, da quelle di polizia mineraria e da ogni altra disposizione che regoli l'attivita' mineraria, la tutela dei diritti dello Stato sulla piattaforma continentale resta affidata, secondo le norme del Codice della navigazione, in quanto applicabili, all'autorita' marittima.
 
 L'autorita' marittima vigila altresi' sull'osservanza da parte dei permissionari e dei concessionari degli obblighi e vincoli loro imposti su richiesta del Ministero della marina mercantile.
 
-## CAPO III - DELLA PROSPEZIONE
+### CAPO III - DELLA PROSPEZIONE
 
-##### Art. 5
+#### Art. 5
 
 La prospezione consiste in rilievi geografici, geologici e geofisici, eseguiti con qualunque metodo e mezzo, escluse le perforazioni meccaniche di ogni specie, intesi ad accertare la natura del sottofondo marino, di cui all'articolo 2, ai fini della ricerca degli idrocarburi liquidi e gassosi.
 
@@ -116,25 +114,25 @@ Zone D ed E, quattordici mesi.
 
 ((COMMA ABROGATO DAL D. LGS. 25 NOVEMBRE 1996, N. 625)).
 
-##### Art. 6
+#### Art. 6
 
 ((ARTICOLO ABROGATO DAL D. LGS. 25 NOVEMBRE 1996, N. 625))
 
-##### Art. 7
+#### Art. 7
 
 Con avviso pubblicato nel Bollettino ufficiale degli idrocarburi il Ministero dell'industria, del commercio a dell'artigianato rende note le modalita' con le quali e' possibile prendere conoscenza dei risultati dei rilevamenti eseguiti in base al programma di cui all'articolo 5.
 
-##### Art. 8
+#### Art. 8
 
 Sulle aree per le quali non sono stati accordati all'Ente nazionale idrocarburi i permessi di cui all'articolo 6, sono rilasciati o permessi non esclusivi di prospezione, ai sensi del presente Capo, o permessi di ricerca, ai sensi del successivo Capo IV.
 
 L'Ente nazionale idrocarburi potra' ottenere nelle aree predette permessi di ricerca, oltre quelli di cui allo articolo 6, dopo trascorsi due anni dal termine di esecuzione della prospezione di cui all'articolo 5, senza peraltro poter concorrere con le istanze di terzi presentate entro il biennio citato.
 
-##### Art. 9
+#### Art. 9
 
 ((ARTICOLO ABROGATO DALLA L. 9 GENNAIO 1991, N. 9))
 
-##### Art. 10
+#### Art. 10
 
 Il permesso di prospezione non e' esclusivo.
 
@@ -142,27 +140,27 @@ Esso e' accordato, per la durata di un anno, su aree continue delimitate mediant
 
 Non possono formare oggetto di permesso di prospezione le aree gia' accordate in permesso di ricerca o in concessione di coltivazione a terzi. Entro tali aree il titolare di un permesso di prospezione per le aree adiacenti puo' tuttavia eseguire rilievi con il consenso del permissionario o del concessionario.
 
-##### Art. 11
+#### Art. 11
 
 Il titolare del permesso di prospezione di cui allo articolo 9 deve corrispondere allo Stato il canone anticipato di lire sei per ogni ettaro di superficie compresa nell'area del permesso.
 
 E' escluso il rimborso del canone nei casi di decadenza o di rinunzia parziale o totale al permesso.
 
-##### Art. 12
+#### Art. 12
 
 Il titolare del permesso di prospezione deve riferire all'autorita' mineraria, nei termini e con le modalita' indicate nel permesso, sui lavori effettuati ed i risultati ottenuti.
 
 Entro tre mesi dalla scadenza del permesso deve presentare una documentata relazione conclusiva sulla prospezione.
 
-##### Art. 13
+#### Art. 13
 
 Il permesso di prospezione non e' trasferibile per atto fra vivi.
 
-##### Art. 14
+#### Art. 14
 
 Nell'ambito del permesso di prospezione di cui allo articolo 9 possono essere accordati a terzi permessi di ricerca. In tal caso, il titolare del permesso di prospezione potra' operare, nelle aree oggetto dei permessi dei terzi, per un periodo massimo di tre mesi dal conferimento di detti permessi, salvo il consenso dei titolari per l'ulteriore seguito delle operazioni.
 
-##### Art. 15
+#### Art. 15
 
 Il Ministro per l'industria, il commercio e l'artigianato, di concerto con quello per la marina mercantile, sentito il Comitato tecnico per gli idrocarburi, dichiara decaduto il titolare del permesso di prospezione previa contestazione dei motivi e prefissione di un congruo termine per le deduzioni dell'interessato, quando il titolare stesso:
 
@@ -174,9 +172,9 @@ Il Ministro per l'industria, il commercio e l'artigianato, di concerto con quell
 
 4\) non si attiene alle disposizioni delle autorita' competenti.
 
-## CAPO IV - DEL PERMESSO DI RICERCA
+### CAPO IV - DEL PERMESSO DI RICERCA
 
-##### Art. 16
+#### Art. 16
 
 ((COMMA ABROGATO DALLA L. 9 GENNAIO 1991, N. 9)).
 
@@ -186,7 +184,7 @@ A parita' di condizioni vale il criterio della priorita' di presentazione delle 
 
 Sono considerate domande concorrenti, ai fini del secondo comma, quelle presentate nelle more della istruttoria e, in ogni caso, non oltre tre mesi dalla pubblicazione della prima domanda nel Bollettino ufficiale degli idrocarburi.
 
-##### Art. 17
+#### Art. 17
 
 La domanda intesa a ottenere il permesso di ricerca deve essere presentata al Ministero dell'industria, del commercio e dell'artigianato, il quale la trasmette al Ministero della marina mercantile per un preventivo parere di massima. Eseguita poi l'istruttoria di propria competenza, sottopone l'istanza stessa al parere del Comitato tecnico per gli idrocarburi, di cui al successivo articolo 45, ai fini dell'assegnazione del titolo e dell'approvazione del relativo programma di lavoro.
 
@@ -194,7 +192,7 @@ In caso di accoglimento della domanda il Ministero dell'industria, del commercio
 
 ((COMMA ABROGATO DALLA L. 9 GENNAIO 1991, N. 9)).
 
-##### Art. 18
+#### Art. 18
 
 Il permesso di ricerca puo' essere intestato a piu' soggetti, persone fisiche o giuridiche, comprese le societa' per azioni, in possesso dei requisiti di cui all'articolo 16, secondo le quote indicate nelle domande di permesso.
 
@@ -208,7 +206,7 @@ I decreti di autorizzazione sono soggetti, per ogni trasferimento, al pagamento 
 
 La cessione che non sia stata preventivamente autorizzata e' nulla tanto fra le parti quanto nei confronti dell'Amministrazione, salva l'applicazione dell'articolo 41, punto 7.
 
-##### Art. 19
+#### Art. 19
 
 ((COMMA ABROGATO DALLA L. 9 GENNAIO 1991, N. 9)).
 
@@ -222,7 +220,7 @@ La lunghezza dell'area del permesso, intesa come distanza fra i vertici estremi,
 
 ((COMMA ABROGATO DALLA L. 9 GENNAIO 1991, N. 9)).
 
-##### Art. 20
+#### Art. 20
 
 ((COMMA ABROGATO DALLA L. 9 GENNAIO 1991, N. 9)).
 
@@ -234,7 +232,7 @@ La proroga e' concessa con decreto del Ministro per l'industria, il commercio e 
 
 ((COMMA ABROGATO DALLA L. 9 GENNAIO 1991, N. 9)).
 
-##### Art. 21
+#### Art. 21
 
 ((COMMA ABROGATO DALLA L. 9 GENNAIO 1991, N. 9)).
 
@@ -246,7 +244,7 @@ Contro le determinazioni dell'Ingegnere capo e' ammesso ricorso al Ministro per 
 
 Ove il pozzo debba essere ubicato su zona di demanio marittimo ovvero nella zona contigua prevista dallo articolo 55 del Codice della navigazione, il titolare del permesso deve richiedere apposita autorizzazione o concessione all'autorita' marittima secondo le norme del Codice stesso e del relativo Regolamento di esecuzione.
 
-##### Art. 22
+#### Art. 22
 
 Il titolare del permesso deve:
 
@@ -274,7 +272,7 @@ a) comunicare all'ufficio nazionale minerario per gli idrocarburi o alla sezione
 
 b) porre in atto le misure eventualmente richieste dal Ministero dell'industria, del commercio e dell'artigianato, di intesa, ove occorra, con altri organi dello Stato interessati, ai fini della conservazione delle risorse naturali di cui alla lettera a), che per la loro natura o per l'entita' del giacimento presentino un evidente interesse economico".
 
-##### Art. 23
+#### Art. 23
 
 Il titolare del permesso deve corrispondere allo Stato un canone annuo di lire dieci per ogni ettaro di superficie compresa nell'area del permesso.
 
@@ -284,11 +282,11 @@ Il canone predetto e' pagato anticipatamente per ogni anno di durata del permess
 
 In caso di decadenza o rinunzia totale o parziale e' comunque dovuto il canone per l'anno in corso.
 
-##### Art. 24
+#### Art. 24
 
 Il titolare del permesso puo' rinunziare anche a parte dell'area di ricerca, ma ciascuna rinunzia puo' comprendere solo superfici continue e compatte non inferiori ai diecimila ettari, adiacenti al perimetro dell'area oggetto del permesso. L'area residua del permesso deve avere le caratteristiche di cui all'articolo 19.
 
-##### Art. 25
+#### Art. 25
 
 Alla scadenza del primo periodo del permesso l'area della ricerca e' ridotta del 25 per cento e, alla scadenza della prima proroga, di un altro 25 per cento dell'area inizialmente concessa.
 
@@ -298,13 +296,13 @@ L'area residua del permesso deve avere le caratteristiche di cui all'articolo 19
 
 Non si fa luogo a riduzione quando l'area da restituire sia inferiore a 10.000 ettari.
 
-##### Art. 26
+#### Art. 26
 
 ((ARTICOLO ABROGATO DAL D. LGS. 25 NOVEMBRE 1996, N. 625))
 
-## CAPO V - DELLA COLTIVAZIONE
+### CAPO V - DELLA COLTIVAZIONE
 
-##### Art. 27
+#### Art. 27
 
 ((COMMA ABROGATO DALLA L. 9 GENNAIO 1991, N. 9)).
 
@@ -322,7 +320,7 @@ Con lo stesso decreto sono determinate l'estensione e la configurazione dell'are
 
 La concessione e' regolata dal disciplinare tipo vigente all'atto del rilascio del relativo permesso.
 
-##### Art. 28
+#### Art. 28
 
 L'area della concessione deve essere continua, delimitata da archi di meridiano e di parallelo di lunghezza pari ad un minuto primo o ad un multiplo di esso, salvo per il lato che coincide con la linea costiera, o con la linea che segna il limite esterno della piattaforma continentale italiana di cui all'articolo 1, o con il perimetro della zona di esclusiva dell'Ente nazionale idrocarburi di cui alla legge 10 febbraio 1953, n. 136, o con il perimetro di permessi di ricerca o di concessione gia' accordati e confermati ai sensi della presente legge.
 
@@ -330,7 +328,7 @@ I vertici dell'area della concessione sono espressi in gradi e minuti primi.
 
 Nell'ambito dello stesso permesso possono essere accordate piu' concessioni di coltivazione.
 
-##### Art. 29
+#### Art. 29
 
 La durata della concessione e' di trenta anni.
 
@@ -338,7 +336,7 @@ Decorsi i due terzi del suddetto periodo, il concessionario ha diritto ad una pr
 
 La proroga e' disposta alle stesse condizioni della concessione originaria, con decreto del Ministro per l'industria, il commercio e l'artigianato, di concerto con quello per la marina mercantile per quanto attiene alle prescrizioni concernenti le materie di cui al terzo e quinto comma dell'articolo 2.
 
-##### Art. 30
+#### Art. 30
 
 Il concessionario deve:
 
@@ -354,7 +352,7 @@ Il concessionario deve:
 
 6\) osservare oltre che le disposizioni di legge e dei regolamenti minerari quelle previste nel decreto di concessione e le prescrizioni che gli venissero impartite dall'autorita' mineraria al fine di quanto prescritto al precedente numero 1) e dall'autorita' marittima per quanto concerne le materie di cui al terzo e quinto comma dell'articolo 2.
 
-##### Art. 31
+#### Art. 31
 
 ((COMMA ABROGATO DAL D.P.R. 8 GIUGNO 2001, N. 327 COME MODIFICATO DAL D.LGS. 27 DICEMBRE 2004, N. 330)).
 
@@ -366,13 +364,13 @@ Indipendentemente da quanto previsto dai commi precedenti, il Ministro per l'ind
 
 ((COMMA ABROGATO DAL D.P.R. 8 GIUGNO 2001, N. 327 COME MODIFICATO DAL D.LGS. 27 DICEMBRE 2004, N. 330)).
 
-##### Art. 32
+#### Art. 32
 
 Il concessionario deve corrispondere anticipatamente allo Stato, per ciascun anno di durata della concessione, un canone di lire quaranta per ogni ettaro dell'area compresa nella concessione.
 
 In caso di decadenza o rinunzia totale o parziale e' comunque dovuto il canone per l'anno in corso.
 
-##### Art. 33
+#### Art. 33
 
 Il titolare di ciascuna concessione e' tenuto a corrispondere allo Stato una aliquota del prodotto della coltivazione da consegnarsi in localita' di terraferma da determinarsi con decreto del Ministro per l'industria, il commercio e l'artigianato, con rimborso al concessionario da parte dello Stato di tutte le spese dirette e indirette di trasporto, da bocca di pozzo al punto di consegna, e di conservazione di tale aliquota a decorrere dalla data stabilita per la consegna.
 
@@ -384,7 +382,7 @@ Sono esenti dal pagamento dell'aliquota le produzioni che non superino complessi
 
 Con decreto del Ministro per l'industria, il commercio e l'artigianato, di concerto con quello per le finanze, puo' essere stabilito, con preavviso di sei mesi, che il concessionario corrisponda, per periodi determinati, invece del prodotto in natura, il valore di esso calcolato a bocca di pozzo e determinato con le modalita' di cui al disciplinare tipo, previsto dall'articolo 40 della presente legge.
 
-##### Art. 34
+#### Art. 34
 
 La parte non superiore al 50 per cento degli utili dichiarati dalle societa' e dagli enti tassabili in base a bilancio, realizzati nell'esercizio di attivita' di coltivazione di idrocarburi nelle aree di cui all'articolo 2, e' esente da imposta di ricchezza mobile categoria B nei venti esercizi successivi alla entrata in vigore della presente legge, purche' investita direttamente nella prospezione non esclusiva o nella ricerca esclusiva di idrocarburi liquidi e gassosi, o in ambedue le fasi, esplicate sia nel mare territoriale, sia nella piattaforma continentale, sia nelle zone del territorio nazionale soggette alla disciplina della legge 11 gennaio 1957, n. 6.
 
@@ -420,7 +418,7 @@ AGGIORNAMENTO (5)
 
 La L. 9 gennaio 1991, n. 9 ha disposto (con l'art. 27, comma 1) che "L'esenzione fiscale di cui agli articoli 34 e 68 della legge 21 luglio 1967, n. 613, [...]e' ulteriormente prorogata fino al 31 dicembre 1995".
 
-##### Art. 35
+#### Art. 35
 
 Con decreto del Ministro per l'industria, il commercio e l'artigianato, di concerto con i Ministri per le finanze e per il tesoro, sentito il Comitato tecnico per gli idrocarburi, sara' imposta ai concessionari l'adozione di un bilancio tipo.
 
@@ -432,7 +430,7 @@ un conto economico generale a struttura analitica dei costi, ricavi e rimanenze.
 
 A partire dal primo esercizio successivo all'entrata in vigore della presente legge, le societa' e gli enti predetti debbono trasmettere, entro trenta giorni dall'approvazione, copia del proprio bilancio al Ministero dell'industria, del commercio e dell'artigianato.
 
-##### Art. 36
+#### Art. 36
 
 Il concessionario puo' chiedere l'ampliamento dell'area della concessione, purche' nell'ambito del permesso ancora vigente, oppure rinunciare anche a parte della superficie compresa nel perimetro della concessione stessa.
 
@@ -440,13 +438,13 @@ L'area ampliata ovvero ridotta ai sensi del comma precedente deve avere i requis
 
 Sulla richiesta del concessionario provvede il Ministro per l'industria, il commercio e l'artigianato, di concerto con quello per la marina mercantile per quanto attiene alle prescrizioni concernenti le materie di cui al terzo e quinto comma dell'articolo 2.
 
-##### Art. 37
+#### Art. 37
 
 ((ARTICOLO ABROGATO DAL D. LGS. 25 NOVEMBRE 1996, N. 625))
 
-## CAPO VI - DISPOSIZIONI PER L'ENTE NAZIONALE IDROCARBURI
+### CAPO VI - DISPOSIZIONI PER L'ENTE NAZIONALE IDROCARBURI
 
-##### Art. 38
+#### Art. 38
 
 ((COMMA ABROGATO DAL D. LGS. 25 NOVEMBRE 1996, N. 625)).
 
@@ -458,9 +456,9 @@ Le societa' di cui al secondo comma hanno facolta' di avvalersi del contributo t
 
 ((COMMA ABROGATO DAL D. LGS. 25 NOVEMBRE 1996, N. 625)).
 
-## CAPO VII - DISPOSIZIONI COMUNI
+### CAPO VII - DISPOSIZIONI COMUNI
 
-##### Art. 39
+#### Art. 39
 
 I dati e le notizie di carattere tecnico ed economico relativi alla prospezione, alla ricerca e alla coltivazione, forniti all'Amministrazione dai titolari dei permessi e concessioni e che rivestono carattere di riservatezza, quali i rilievi geofisici con le interpretazioni relative, i profili geologici dei pozzi con le diagrafie, le correlazioni relative, l'entita' delle riserve, non possono essere resi pubblici senza il consenso scritto degli interessati.
 
@@ -472,13 +470,13 @@ Nulla e' innovato alle disposizioni vigenti per quanto riguarda la divulgazione 
 
 Nel Bollettino ufficiale degli idrocarburi sono pubblicati anche gli atti indicati nel secondo comma dello art. 43 della legge 11 gennaio 1957, n. 6, e relativi alla materia regolata dalla presente legge.
 
-##### Art. 40
+#### Art. 40
 
 Con disciplinare tipo, da approvare con decreto del Ministro per l'industria, il commercio e l'artigianato, sentito il Comitato tecnico per gli idrocarburi, sono fissate le particolari condizioni e le modalita' di esecuzione relative ai permessi ed alle concessioni in applicazione del titolo primo della presente legge.
 
 Il disciplinare tipo sara' pubblicato nella Gazzetta Ufficiale della Repubblica.
 
-##### Art. 41
+#### Art. 41
 
 Il Ministro per l'industria, il commercio e l'artigianato, di concerto con quello per la marina mercantile, sentito il Comitato tecnico per gli idrocarburi, dichiara decaduto il titolare del permesso, previa contestazione dei motivi e prefissione di un congruo termine per le deduzioni dell'interessato, quando il titolare stesso:
 
@@ -500,7 +498,7 @@ Il Ministro per l'industria, il commercio e l'artigianato, di concerto con quell
 
 9\) non adempie agli altri obblighi derivanti dalla presente legge ed imposti dal permesso a pena di decadenza.
 
-##### Art. 42
+#### Art. 42
 
 Il Ministro per l'industria, il commercio e l'artigianato, di concerto con quello per la marina mercantile, sentito il Comitato tecnico per gli idrocarburi, dichiara decaduto il titolare della concessione, previa contestazione dei motivi e prefissione di un congruo termine per le deduzioni dell'interessato, quando il titolare stesso:
 
@@ -522,7 +520,7 @@ Il Ministro per l'industria, il commercio e l'artigianato, di concerto con quell
 
 9\) non osserva gli altri obblighi, per la inadempienza dei quali la concessione prevede espressamente la sanzione della decadenza.
 
-##### Art. 43
+#### Art. 43
 
 La competenza dell'Ufficio nazionale minerario per gli idrocarburi e' estesa alla materia disciplinata dal titolo primo della presente legge.
 
@@ -530,11 +528,11 @@ La competenza territoriale delle Sezioni del predetto Ufficio e' stabilita come 
 
 Resta ferma la competenza degli organi della Regione siciliana sul controllo dell'attivita' che si esplica nello ambito dei permessi e delle concessioni, che all'atto dell'entrata in vigore della presente legge risultano accordati nel mare territoriale adiacente alle coste della Regione stessa e che saranno rinnovati ai sensi del successivo art. 53.
 
-##### Art. 44
+#### Art. 44
 
 Ai fini dell'esercizio dei poteri attribuiti dal titolo primo della presente legge al Ministero della marina mercantile, l'ambito della competenza dei Compartimenti marittimi e' stabilito come risulta dalla tabella B allegata alla presente legge.
 
-##### Art. 45
+#### Art. 45
 
 Il Comitato tecnico per gli idrocarburi, per i pareri previsti nella presente legge, e' integrato dai seguenti componenti:
 
@@ -550,7 +548,7 @@ designati dai rispettivi Ministri.
 
 Per i pareri sulle istanze di rinnovo dei permessi e delle concessioni, rilasciati prima dell'entrata in vigore della presente legge dalla Regione siciliana, ai sensi e per gli effetti di cui al successivo art. 53, il Comitato sara' integrato con un rappresentante della Regione stessa.
 
-##### Art. 46
+#### Art. 46
 
 I permessi di prospezione, i permessi di ricerca e le concessioni di coltivazione, rilasciati a norma degli articoli 9, 17 e 27 della presente legge, sono soggetti alla tassa di concessione governativa nelle seguenti misure:
 
@@ -562,9 +560,9 @@ c) concessioni di coltivazione: L. 80.000.
 
 Alla tassa di cui alla lettera c) sono soggetti anche i decreti di ampliamento dell'area della concessione di coltivazione, emanati a norma dell'art. 36 della presente legge.
 
-## CAPO VIII - DISPOSIZIONI FINALI E TRANSITORIE
+### CAPO VIII - DISPOSIZIONI FINALI E TRANSITORIE
 
-##### Art. 47
+#### Art. 47
 
 Le disposizioni contenute nel titolo primo della presente legge si applicano anche ai permessi di ricerca ed alle concessioni di coltivazione in corso alla data della sua entrata in vigore.
 
@@ -576,11 +574,11 @@ Il decreto indica quale parte del tempo trascorso dalla data in cui i permessi e
 
 I titolari decadono dal permesso o dalla concessione, senza diritto ad alcun indennizzo o rimborso di canone gia' corrisposto, se non presentano l'istanza di conferma entro 120 giorni dalla data di entrata in vigore della presente legge.
 
-##### Art. 48
+#### Art. 48
 
 Le conferme, proroghe e riduzioni di permessi e di concessioni in corso alla data di entrata in vigore della presente legge possono essere concesse, sentito il Comitato tecnico per gli idrocarburi, anche se le rispettive aree non siano conformi al disposto degli articoli 19 e 28.
 
-##### Art. 49
+#### Art. 49
 
 Gli impianti di ricerca e di coltivazione nella piattaforma continentale italiana sono soggetti alle leggi dello Stato.
 
@@ -588,15 +586,15 @@ Le attribuzioni spettanti agli organi statali nelle rispettive materie sono eser
 
 Gli atti ed i fatti compiuti a bordo di detti impianti sono regolati ai sensi degli articoli 4 e 5 del Codice della navigazione, approvato con regio decreto 30 marzo 1942, n. 327, fino al momento in cui gli impianti stessi sono in navigazione.
 
-##### Art. 50
+#### Art. 50
 
 Per la sicurezza e la salute dei lavoratori, per il regolare svolgimento delle lavorazioni nel rispetto della sicurezza dei terzi e delle attivita' di preminente interesse generale nonche' per il buon governo dei giacimenti, si applicano le norme di cui al decreto del Presidente della Repubblica 9 aprile 1959, n. 128.
 
-##### Art. 51
+#### Art. 51
 
 I ruoli organici della carriera direttiva dell'Ufficio nazionale minerario per gli idrocarburi e della carriera di concetto del Corpo delle miniere di cui al quadro I del decreto del Presidente della Repubblica del 6 gennaio 1958, n. 413, e al quadro 6 della tabella C del decreto del Presidente della Repubblica 22 gennaio 1964, n. 2, sono sostituiti con i quadri 1 e 2 della tabella C allegati alla presente legge.
 
-##### Art. 52
+#### Art. 52
 
 Alle spese per l'espletamento dei compiti nel settore della ricerca e coltivazione degli idrocarburi liquidi e gassosi nel mare territoriale e nella piattaforma continentale, assegnati dalla presente legge al Ministero dell'industria, del commercio e dell'artigianato e a quelle per l'attuazione del precedente articolo 51, si provvede con la somma di lire 100 milioni da iscrivere nello stato di previsione della spesa del Ministero dell'industria, del commercio e dell'artigianato.
 
@@ -604,35 +602,33 @@ Per l'esercizio finanziario 1967 si provvede all'onere relativo mediante riduzio
 
 Il Ministro per il tesoro e' autorizzato a provvedere, con proprio decreto, alle occorrenti variazioni di bilancio.
 
-##### Art. 53
+#### Art. 53
 
 Entro il termine di 120 giorni dall'entrata in vigore della presente legge, i titolari di permessi di ricerca e di concessioni di coltivazione, rilasciati dalla Regione siciliana nel mare territoriale adiacente al suo territorio, devono chiedere il rinnovo del rispettivo titolo al Ministero dell'industria, del commercio e dell'artigianato.
 
 Il rinnovo del titolo, previo accertamento dell'osservanza degli obblighi assunti e sentito il Comitato tecnico per gli idrocarburi, e' accordato in conformita' alle disposizioni della presente legge con decreto del Ministro per l'industria, il commercio e l'artigianato, di concerto con quello per la marina mercantile per quanto attiene alle prescrizioni concernenti le materie di cui al terzo e quinto comma dell'articolo 2.
 
-##### Art. 54
+#### Art. 54
 
 L'aliquota in natura stabilita dall'articolo 33, quando e' corrisposta per le concessioni di coltivazione relative a giacimenti siti nel sottofondo del mare territoriale adiacente alle coste delle Regioni a statuto speciale, e', per una terza parte, devoluta alle Regioni stesse, per essere destinata allo sviluppo delle loro attivita' economiche ed al loro incremento industriale.
 
-##### Art. 55
+#### Art. 55
 
 ((ARTICOLO ABROGATO DAL D. LGS. 25 NOVEMBRE 1996, N. 625))
 
 ## TITOLO II - Modificazioni alla legge 11 gennaio 1957, n. 6
 
-### CAPO I
+### CAPO I - DELLA PROSPEZIONE
 
-#### DELLA PROSPEZIONE
-
-##### Art. 56
+#### Art. 56
 
 Ai fini della ricerca degli idrocarburi liquidi e gassosi, il Ministro per l'industria, il commercio e l'artigianato puo' autorizzare, nelle zone sottoposte alla disciplina della legge 11 gennaio 1957, n. 6, un'attivita' di prospezione consistente in rilievi geologici, geofisici e geochimici, eseguiti con qualunque metodo o mezzo, escluse le perforazioni meccaniche fatta eccezione per quelle necessarie per compiere i rilievi geofisici.
 
 L'attivita' di cui al comma precedente e' regolata, con gli opportuni adattamenti, dalle norme degli articoli dal 9 al 15 della presente legge e da quelle, in quanto applicabili, contenute nelle leggi minerarie attualmente in vigore.
 
-## CAPO II - DEL PERMESSO DI RICERCA
+### CAPO II - DEL PERMESSO DI RICERCA
 
-##### Art. 57
+#### Art. 57
 
 L'articolo 2 della legge 11 gennaio 1957, n. 6, e' sostituito dal seguente:
 
@@ -646,7 +642,7 @@ A parita' di condizioni vale il criterio della priorita' di presentazione delle 
 
 Sono considerate domande concorrenti, ai fini del quarto comma, quelle presentate nelle more dell'istruttoria e, in ogni caso, non oltre tre mesi dalla pubblicazione della prima domanda nel Bollettino ufficiale degli idrocarburi".
 
-##### Art. 58
+#### Art. 58
 
 Il primo e il secondo comma dell'articolo 3 della legge 11 gennaio 1957, n. 6, sono sostituiti dai seguenti:
 
@@ -654,7 +650,7 @@ Il primo e il secondo comma dell'articolo 3 della legge 11 gennaio 1957, n. 6, s
 
 Possono tuttavia essere accordati ad una stessa persona, ente, o societa', direttamente o indirettamente, piu' permessi di ricerca purche' l'area complessiva non risulti superiore ai 500 mila ettari in tutto il territorio dello Stato".
 
-##### Art. 59
+#### Art. 59
 
 L'articolo 6 della legge 11 gennaio 1957, n. 6, e' sostituito dal seguente:
 
@@ -664,13 +660,13 @@ I vertici dell'area del permesso sono espressi in gradi e minuti primi.
 
 La lunghezza dell'area del permesso, intesa come distanza tra i vertici estremi, non deve essere superiore a quattro volte la larghezza media dell'area stessa".
 
-##### Art. 60
+#### Art. 60
 
 Il primo comma dell'articolo 7 della legge 11 gennaio 1957, n. 6, e' sostituito dal seguente:
 
 "La durata del permesso e' di quattro anni".
 
-##### Art. 61
+#### Art. 61
 
 L'articolo 10 della legge 11 gennaio 1957, n. 6, e' sostituito dal seguente:
 
@@ -682,9 +678,9 @@ Il canone predetto e' pagato anticipatamente per ogni anno di durata del permess
 
 In caso di decadenza o rinunzia totale o parziale e' comunque dovuto il canone per l'anno in corso".
 
-## CAPO III - DELLA COLTIVAZIONE
+### CAPO III - DELLA COLTIVAZIONE
 
-##### Art. 62
+#### Art. 62
 
 L'articolo 13 della legge 11 gennaio 1957, n. 6, e' sostituito dal seguente:
 
@@ -702,7 +698,7 @@ Con lo stesso decreto sono determinate la estensione e la configurazione dell'ar
 
 La concessione e' regolata dal disciplinare tipo vigente all'atto del rilascio del permesso".
 
-##### Art. 63
+#### Art. 63
 
 L'articolo 14 della legge 11 gennaio 1957, n. 6, e' sostituito dal seguente:
 
@@ -712,7 +708,7 @@ I vertici dell'area di concessione sono espressi in gradi e minuti primi.
 
 Nell'ambito dello stesso permesso possono essere accordate piu' concessioni di coltivazione".
 
-##### Art. 64
+#### Art. 64
 
 L'articolo 18 della legge 11 gennaio 1957, n. 6, e' sostituito dal seguente:
 
@@ -722,7 +718,7 @@ Decorsi due terzi del suddetto periodo, il concessionario ha diritto ad una pror
 
 La proroga e' disposta alle stesse condizioni della concessione originaria con decreto del Ministro per l'industria, il commercio e l'artigianato, sentito il Comitato tecnico per gli idrocarburi".
 
-##### Art. 65
+#### Art. 65
 
 L'articolo 21 della legge 11 gennaio 1957, n. 6, e' sostituito dal seguente:
 
@@ -730,7 +726,7 @@ L'articolo 21 della legge 11 gennaio 1957, n. 6, e' sostituito dal seguente:
 
 In caso di decadenza o rinuncia totale o parziale e' comunque dovuto il canone per l'anno in corso".
 
-##### Art. 66
+#### Art. 66
 
 L'articolo 22 della legge 11 gennaio 1957, n. 6, e' sostituito dal seguente:
 
@@ -740,7 +736,7 @@ L'aliquota non e' dovuta per le produzioni che siano andate disperse, bruciate, 
 
 Con decreto del Ministro per l'industria, il commercio e l'artigianato, di concerto con quello per le finanze, puo' essere stabilito, con preavviso di sei mesi, che il concessionario corrisponda, per periodi determinati, invece del prodotto in natura, il valore di esso calcolato a bocca di pozzo e determinato con le modalita' di cui al disciplinare tipo".
 
-##### Art. 67
+#### Art. 67
 
 L'articolo 27 della legge 11 gennaio 1957, n. 6, e' sostituto dal seguente:
 
@@ -748,7 +744,7 @@ L'articolo 27 della legge 11 gennaio 1957, n. 6, e' sostituto dal seguente:
 
 L'area ampliata ovvero ridotta ai sensi del comma precedente deve avere i requisiti di cui all'articolo 14".
 
-##### Art. 68
+#### Art. 68
 
 L'esenzione fiscale prevista dall'articolo 34 della presente legge si applica sulla parte non superiore al 50 per cento degli utili realizzati nell'esercizio di attivita' di coltivazione di idrocarburi nelle zone sottoposte alla disciplina della legge 11 gennaio 1957, n. 6, purche' tale parte sia direttamente investita nelle operazioni di prospezione o di ricerca degli idrocarburi liquidi e gassosi, o di ambedue le fasi, sia nelle stesse zone, sia nel mare territoriale, sia nella piattaforma continentale italiana, e le operazioni siano completato entro quattro anni dalla data di presentazione della dichiarazione intesa ad ottenere l'agevolazione.
 
@@ -774,9 +770,9 @@ AGGIORNAMENTO (5)
 
 La L. 9 gennaio 1991, n. 9 ha disposto (con l'art. 27, comma 1) che "L'esenzione fiscale di cui agli articoli 34 e 68 della legge 21 luglio 1967, n. 613, [...] e' ulteriormente prorogata fino al 31 dicembre 1995".
 
-## CAPO IV - DISPOSIZIONI PER L'ENTE NAZIONALE IDROCARBURI
+### CAPO IV - DISPOSIZIONI PER L'ENTE NAZIONALE IDROCARBURI
 
-##### Art. 69
+#### Art. 69
 
 Gli articoli 34 e 35 della legge 11 gennaio 1957, n. 6, sono sostituiti dal seguente:
 
@@ -788,17 +784,17 @@ I permessi di prospezione, quelli di ricerca e le concessioni di coltivazione so
 
 Ai permessi di ricerca accordati all'Ente nazionale idrocarburi non si applica la disposizione di cui al secondo comma dell'articolo 3 della presente legge".
 
-## CAPO V - DISPOSIZIONI COMUNI
+### CAPO V - DISPOSIZIONI COMUNI
 
-##### Art. 70
+#### Art. 70
 
 I permessi di ricerca e le concessioni di coltivazione possono essere accordati anche in contitolarita' fra piu' soggetti, in possesso dei prescritti requisiti. In tal caso si applicano le disposizioni degli articoli 18 e 27 della presente legge.
 
-##### Art. 71
+#### Art. 71
 
 Le disposizioni contenute nell'articolo 39 della presente legge si applicano anche per la divulgazione dei dati e delle notizie relative all'attivita' di prospezione, ricerca e coltivazione svolte nelle zone sottoposte alla disciplina della legge 11 gennaio 1957, n. 6.
 
-##### Art. 72
+#### Art. 72
 
 L'articolo 25 della legge 11 gennaio 1957, n. 6, e' sostituito dal seguente:
 
@@ -810,13 +806,13 @@ Il disciplinare tipo sara' pubblicato nella Gazzetta Ufficiale della Repubblica.
 
 Fino a quando non sara' stato approvato il disciplinare tipo previsto nei commi precedenti continuera' a essere applicato il disciplinare tipo approvato con decreto ministeriale 19 gennaio 1959, il quale, in ogni caso, regolera', fino alle rispettive scadenze, le attivita' di coltivazione in corso alla data di entrata in vigore della presente legge".
 
-## CAPO VI - DISPOSIZIONI TRANSITORIE E FINALI
+### CAPO VI - DISPOSIZIONI TRANSITORIE E FINALI
 
-##### Art. 73
+#### Art. 73
 
 Salvo quanto disposto nei successivi articoli 74, 75, 76, le modifiche e le integrazioni alla legge 11 gennaio 1957, n. 6, contenute nella presente legge si applicano ai permessi di ricerca e alle concessioni di coltivazione in corso alla data della sua entrata in vigore.
 
-##### Art. 74
+#### Art. 74
 
 Il permesso di ricerca in corso alla data di entrata in vigore della presente legge puo', a richiesta del titolare e degli interessati, essere intestato a piu' soggetti, ai sensi del precedente articolo 70.
 
@@ -830,7 +826,7 @@ La durata dei permessi in corso, in primo periodo di vigenza, e' prolungata di u
 
 Le nuove misure dei canoni sono corrisposte a partire dalla data di inizio dell'anno di vigenza del permesso successiva all'entrata in vigore della presente legge.
 
-##### Art. 75
+#### Art. 75
 
 La concessione di coltivazione in corso alla data di entrata in vigore della presente legge puo', a richiesta del titolare e degli interessati, essere intestata a piu' soggetti, ai sensi del precedente articolo 70.
 
@@ -844,13 +840,13 @@ Le nuove misure dei canoni sono corrisposte a partire dalla data d'inizio dell'a
 
 Le nuove misure delle aliquote da corrispondere allo Stato sono dovute a partire dall'inizio dell'anno solare successivo all'entrata in vigore della presente legge.
 
-##### Art. 76
+#### Art. 76
 
 I permessi di ricerca e le concessioni di coltivazione rilasciati all'Ente nazionale idrocarburi e in corso alla data di entrata in vigore della presente legge possono, su richiesta dell'Ente e degli interessati, essere intestati a piu' soggetti, ai sensi del precedente articolo 70.
 
 Si applica la disposizione dell'articolo 69, penultimo comma.
 
-##### Art. 77
+#### Art. 77
 
 Le istanze di permessi di ricerca, gia' pubblicate nel Bollettino ufficiale degli idrocarburi e in corso di esame all'atto dell'entrata in vigore della presente legge, sono considerate valide e conservano la data di presentazione originaria.
 
@@ -864,7 +860,7 @@ Entro lo stesso termine puo' chiederne altresi' l'ampliamento fino all'estension
 
 I richiedenti, ai fini di quanto previsto al precedente articolo 57, terzo comma, potranno, entro il termine sopra citato, modificare i programmi di lavoro gia' presentati a corredo delle istanze originarie.
 
-##### Art. 78
+#### Art. 78
 
 Gli articoli 11, ultimo comma, 15, 16, 17, 29, 30, 31, 32 e 33 della legge 11 gennaio 1957, n. 6, sono abrogati.
 
@@ -878,9 +874,9 @@ MORO - ANDREOTTI - NATALI - FANFANI - TAVIANI - REALE - PRETI - COLOMBO - PIE RA
 
 Visto, il Guardasigilli: REALE
 
-## CAPO VI - DISPOSIZIONI TRANSITORIE E FINALI
+### CAPO VI - DISPOSIZIONI TRANSITORIE E FINALI
 
-##### Tabelle
+#### Tabelle
 
 TABELLA A
 

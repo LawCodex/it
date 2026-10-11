@@ -39,7 +39,7 @@ Abbiamo sanzionato e promulghiamo quanto segue:
 
 ## ORDINAMENTO DELLA CORTE D'ASSISE
 
-### Art. 1
+## Art. 1
 
 In ogni distretto di Corte d'appello sono Istituite una o piu' Corti d'assise che costituiscono Sezioni di Corte di appello.
 
@@ -47,7 +47,7 @@ Con apposito decreto del Capo dello Stato sono stabiliti il numero delle Corti d
 
 Per uno stesso circolo possono essere istituite piu' Corti di assise.
 
-### Art. 2
+## Art. 2
 
 La Corte d'assise e' composta:
 
@@ -55,19 +55,19 @@ a) di un presidente di Sezione di Corte d'appello, che la presiede;
 
 b) di dieci giurati.
 
-### Art. 3
+## Art. 3
 
 I presidenti delle Corti d'assise sono nominati ogni anno con decreto del Capo dello Stato. Uno stesso magistrato puo' essere destinato a presiedere piu' Corti d'assise comprese nel medesimo distretto.
 
 Per i procedimenti che si ritengono di lunga durata il primo presidente della Corte d'appello, sentito il procuratore generale, puo' nominare un presidente supplente.
 
-### Art. 4
+## Art. 4
 
 La Corte di assise e' convocata normalmente nella sede stabilita dal decreto di cui all'art. 1. Tuttavia il primo presidente della Corte di appello, sentito il procuratore generale, puo' ordinare, con decreto motivato, che la convocazione avvenga nella sede di un altro tribunale del distretto.
 
 ## FORMAZIONE DELLE LISTE DEI GIURATI
 
-### Art. 5
+## Art. 5
 
 Possono essere assunti all'ufficio di giurato, salvo le eccezioni di cui agli articoli seguenti, tutti coloro che sono in possesso dei requisiti seguenti, senza distinzione di sesso:
 
@@ -79,11 +79,11 @@ c) essere di buona condotta morale;
 
 d) essere forniti della licenza elementare.
 
-### Art. 6
+## Art. 6
 
 Sono esclusi dall'ufficio di giurato coloro a cui carico risulti pendente procedimento penale per i reati importanti divieto di iscrizione nella lista elettorale.
 
-### Art. 7
+## Art. 7
 
 Non possono esercitare l'ufficio di giurato:
 
@@ -93,7 +93,7 @@ b) i funzionari e gli agenti di pubblica sicurezza in attivita' di servizio;
 
 c) i militari in servizio attivo delle Forze armate dello Stato.
 
-### Art. 8
+## Art. 8
 
 Sono dispensati dall'ufficio di giurato:
 
@@ -105,7 +105,7 @@ c) i Prefetti delle provincie;
 
 d) i Ministri di qualunque culto.
 
-### Art. 9
+## Art. 9
 
 Nel mese di agosto antecedente la scadenza di ciascun biennio, in ogni comune una Commissione composta del sindaco, o di un suo rappresentante, di due membri della giunta comunale, designati dalla giunta stessa, e presieduta dal pretore del mandamento, o, in sua assenza, da un magistrato designato dal presidente del tribunale, cura la compilazione di un elenco, mediante sorteggio dalla lista elettorale di una serie di nominativi corrispondenti all'uno per mille del numero totale degli elettori iscritti.
 
@@ -117,7 +117,7 @@ Nel procedere all'estrazione non si terra' conto di nominativi estratti relativi
 
 Il numero delle donne da includersi nell'elenco uno potra' essere superiore al terzo del totale.
 
-### Art. 10
+## Art. 10
 
 Compilato l'elenco di cui all'articolo precedente la Commissione provvede, sul termine di due mesi, alle operazioni seguenti:
 
@@ -129,11 +129,11 @@ Compilato l'elenco di cui all'articolo precedente la Commissione provvede, sul t
 
 Ogni cittadino puo', nel termine suddetto, presentare reclamo contro le cancellazioni, le omissioni e le indebite iscrizioni, depositandolo nella segreteria del comune che ne rilascia ricevuta.
 
-### Art. 11
+## Art. 11
 
 Decorso il termine della pubblicazione il sindaco trasmette l'elenco, il verbale ed i reclami presentati al presidente del tribunale della citta' capoluogo del circolo di Assise.
 
-### Art. 12
+## Art. 12
 
 Il presidente del tribunale ricevuto l'elenco, il verbale ed i reclami procede, con l'assistenza di due giudici e nel termine di quindici giorni, alle operazioni seguenti:
 
@@ -143,11 +143,11 @@ Il presidente del tribunale ricevuto l'elenco, il verbale ed i reclami procede, 
 
 3\) forma l'albo dei giurati del circolo approvandolo mediante decreto e ne dispone la pubblicazione mediante affissione nell'albo pretorio.
 
-### Art. 13
+## Art. 13
 
 L'albo dura due anni e si rinnova al termine del biennio nelle forme indicate negli articoli che precedono.
 
-### Art. 14
+## Art. 14
 
 Nella prima quindicina del mese di dicembre precedente la scadenza del biennio, il presidente del tribunale capoluogo del circolo, in pubblica udienza e con l'assistenza del pubblico ministero, pone in un'urna portante l'indicazione a "giurati ordinari", un numero di schede corrispondente al numero dei giurati dell'albo; in ciascuna scheda e iscritto il nome, cognome, paternita' e residenza di un giurato.
 
@@ -155,7 +155,7 @@ In una seconda urna portante l'indicazione "giurati supplenti" lo stesso preside
 
 Le urne vengono suggellate e sono custodite dal presidente del tribunale. Di tutte le operazioni e' redatto processo verbale sottoscritto dal presidente del tribunale, dal pubblico ministero e dal cancelliere.
 
-### Art. 15
+## Art. 15
 
 Almeno otto giorni prima dell'inizio di ogni sessione il presidente della Corte di assise, alla presenza di un rappresentante del pubblico ministero, dei difensori degli imputati che devono essere preavvisati e di un funzionario di cancelleria, estrae dalla prima urna trentasei schede che non si riferiscano a persone indicate negli articoli 7 e 8.
 
@@ -167,7 +167,7 @@ Almeno cinque giorni prima dell'apertura della sessione, il magistrato che ha pr
 
 I giurati, ai quali e' stato notificato l'avviso, devono trovarsi presenti all'inizio della sessione salvo che ne siano dispensati, per legittimo impedimento, dal presidente della Corte di assise.
 
-### Art. 16
+## Art. 16
 
 Quando in uno stesso circolo seno stabilite due o piu' Corti di assise. Si faranno, nel modo prescritto dall'articolo precedente, tante estrazioni di giurati quante sono le Corti.
 
@@ -175,7 +175,7 @@ Quando le Assise, si tengono straordinariamente in un comune che non sia il capo
 
 ## COMPOSIZIONE DEFINITIVA DELLA GIUNTA
 
-### Art. 17
+## Art. 17
 
 Nel giorno stabilito per ciascun dibattimento, il presidente della Corte di assise in pubblica udienza e alla presenza del pubblico ministero, dell'imputato, se comparso e del suo difensore, fa l'appello nominale dei giurati estratti e chiama a prestar servizio dieci dei presenti nell'ordine della loro estrazione.
 
@@ -189,13 +189,13 @@ Delle operazioni compiute deve essere fatta menzione nel processo verbale.
 
 I giurati estratti dalla seconda urna, i quali si presentano, sono anch'essi chiamati a prestar servizio nell'ordine di estrazione.
 
-### Art. 18
+## Art. 18
 
 Nell'ordine in cui i nomi dei giurati sono chiamati dal presidente a far parte della giuria, il pubblico ministero e poscia l'imputato a mezzo del difensore, interpellati nell'ordine dal presidente, hanno facolta' di ricusarne cinque per ciascuno, senza addurre nessun motivo.
 
 La ricusazione deve essere fatta al momento della interpellazione.
 
-### Art. 19
+## Art. 19
 
 Se il dibattimento riguarda piu' imputati, essi possono accordarsi fra loro per esercitare in comune o separatamente il diritto di ricusazione di cui al precedente articolo.
 
@@ -203,7 +203,7 @@ In mancanza di tale accordo preventivo, la sorte regola fra gli imputati l'ordin
 
 Se l'accordo fra piu' imputati riguarda una parte soltanto delle ricusazioni, le altre fino al numero stabilito possono farsi da ciascuno di essi nell'ordine che verra' fissato dalla sorte.
 
-### Art. 20
+## Art. 20
 
 Non possono comprendersi nel numero dei giurati di cui al precedente articolo:
 
@@ -217,11 +217,11 @@ Non possono comprendersi nel numero dei giurati di cui al precedente articolo:
 
 5\) coloro che siano nel procedimento denunziati, querelati, testimoni, periti, interpreti, avvocati e consulenti tecnici o che abbiano avuto parte in qualsiasi modo nell'istruzione.
 
-### Art. 21
+## Art. 21
 
 Le cause di incompatibilita' contemplate nell'articolo precedente, si applicano d'ufficio; ma quando si oppongano dalle parti, debbono essere comprovate da documenti e certificati e, dopo sommaria discussione sulle medesime, il presidente delibera.
 
-### Art. 22
+## Art. 22
 
 Costituita definitivamente la giuria e compiute le formalita' di apertura del dibattimento, i giurati presenti che non sono stati chiamati a costituire la giuria vengono licenziati con invito e diffida a presentarsi nel giorno in cui avra' inizio la causa successiva.
 
@@ -229,41 +229,41 @@ I giurati supplenti assistono al dibattimento e sostituiscono quelli dei giurati
 
 Tale sostituzione non e' piu' ammessa dopo la chiusura del dibattimento.
 
-### Art. 23
+## Art. 23
 
 I presidenti delle Corti di assise distribuiscono gli affari da spedirsi nel corso di ogni sessione, in guisa che i giurati estratti a sorte e iscritti nella lista dei giurati di servizio, non debbano intervenire alle sedute della Corte per un termine maggiore di quindici giorni.
 
 Iniziato pero' col loro intervento un dibattimento non possono essere dispensati qualunque ne sia la durata.
 
-### Art. 24
+## Art. 24
 
 Coloro che hanno prestato servizio in una sessione come giurati effettivi o supplenti sono dispensati, quando ne fanno domanda al presidente della Corte di assise, dal partecipare alle altre sessioni che si tengono nella rimanente parte dell'anno.
 
-### Art. 25
+## Art. 25
 
 Fatta l'estrazione dei giurati, senza che il pubblico ministero o l'imputato abbiano proposta alcuna domanda o eccezione, non e' ammesso alcun ricorso sulle legalita' della costituzione della giuria, a meno che si siano violate le forme stabilite nella prima parte dell'art. 17 o che abbiano fatto parte della giuria persone sfornite del requisito richiesto dall'art. 5 lettera a), o indicate nell'art. 20.
 
 ## SANZIONI
 
-### Art. 26
+## Art. 26
 
 Chiunque manchi o ricusi di adempiere alle funzioni relative alla formazione degli albi dei giurati o, richiesto dalle autorita' competenti e obbligato, dalla legge o dal suo ufficio, rifiuti di dare le notizie necessarie per la formazione delle liste dei giurati, e' punito con la multa fino a lire cinquemila.
 
 Chiunque fornisca scientemente notizie erronee e' punito con la multa fino a lire diecimila.
 
-### Art. 27
+## Art. 27
 
 Il giurato che, chiamato a prestar servizio, non si presenta, senza giustificato motivo, puo' essere, con decreto motivato del presidente della Corte di assise, condannato al pagamento di una somma da lire cinquecento a lire cinquemila a favore della Cassa delle ammende, e alle spese della sospensione o del rinvio cagionate dalla sua assenza, senza pregiudizio delle piu' gravi sanzioni stabilite dalla legge qualora il fatto costituisca reato.
 
 Il decreto puo' essere revocato dallo stesso presidente della Corte di assise se il condannato, entro quindici giorni dalla modificazione, a pena di decadenza, dimostri di essersi trovato nella impossibilita' di presentarsi.
 
-### Art. 28
+## Art. 28
 
 Coloro che per tre volte successive sono stati condannati ai termini dell'art. 27 sono esclusi, per un tempo da tre a cinque anni, dal diritto di elezione e di eleggibilita' politica e amministrativa e da quello di nomina a qualunque pubblico ufficio. Il decreto che pronuncia l'ultima condanna stabilisce la durata di questa esclusione.
 
 ## DISPOSIZIONI TRANSITORIE
 
-### Art. 29
+## Art. 29
 
 Nella prima attuazione della presente legge le operazioni previste dall'art. 9 devono aver luogo nel termine di un mese dalla data di entrata in vigore della legge stessa.
 
@@ -271,7 +271,7 @@ I presidenti dei tribunali che provvedono alla approvazione degli albi dei circo
 
 Questi provvedera', con suo decreto, a stabilire la data d'inizio del funzionamento delle nuove Corti di assise.
 
-### Art. 30
+## Art. 30
 
 Le operazioni previste dall'art. 15 devono aver luogo almeno otto giorni prima della data fissata ai sensi dell'articolo precedente.
 

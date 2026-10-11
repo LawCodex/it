@@ -27,21 +27,21 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'accordo europeo che istituisce un'Associazione tra le Comunita' europee ed i loro Stati membri, da una parte, e lo Stato di Israele, dall'altra, con cinque protocolli, sette allegati, atto finale con dichiarazioni e scambi di lettere, fatto a Lussemburgo il 20 novembre 1995.
 
-##### Art. 2
+#### Art. 2
 
 1\. Piena ed intera esecuzione e' data all'accordo di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore in conformita' a quanto disposto dall'articolo 85 dell'accordo stesso.
 
-##### Art. 3
+#### Art. 3
 
 1\. All'onere derivante dall'attuazione della presente legge, valutato in lire 8 milioni annue a decorrere dal 1996, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1996-1998, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1996, allo scopo parzialmente utilizzando l'accantonamento riguardante il Ministero degli affari esteri.
 
 2\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 4
+#### Art. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -131,7 +131,7 @@ CONVINTI che il presente Accordo di associazione creera' un clima propizio allo 
 
 hanno convenuto quanto segue:
 
-##### Articolo 1
+#### Articolo 1
 
 1\. E' istituita un'associazione tra la Comunita' e i suoi Stati membri, da una parte, e Israele, dall'altra.
 
@@ -149,13 +149,13 @@ consenta lo sviluppo di strette relazioni politiche tra le Parti;
 
 interesse.
 
-##### Articolo 2
+#### Articolo 2
 
 Le relazioni tra le Parti, cosi' come tutte le disposizioni del presente Accordo, si fondano sul rispetto dei diritti umani e dei principi democratici, cui si ispira la loro politica interna e internazionale e che costituisce un elemento essenziale dell'Accordo.
 
 ## TITOLO I - DIALOGO POLITICO
 
-##### Articolo 3
+#### Articolo 3
 
 1\. Tra le Parti si istituisce un dialogo politico continuativo che consolida le loro relazioni, contribuisce allo sviluppo di un partenariato duraturo e incentiva la solidarieta' e la reciproca comprensione.
 
@@ -173,11 +173,11 @@ e degli interessi dell'altra;
 
 \- promuovere la stabilita' e la sicurezza regionale.
 
-##### Articolo 4
+#### Articolo 4
 
 Il dialogo politico riguarda qualsiasi aspetto di comune interesse e punta a porre le premesse per nuove forme di cooperazione attraverso le quali raggiungere obiettivi comuni, quali in particolare la pace, la sicurezza e la democrazia.
 
-##### Articolo 5
+#### Articolo 5
 
 1\. Il dialogo politico favorisce il perseguimento di iniziative congiunte e si svolge in particolare:
 
@@ -201,27 +201,25 @@ e) con qualsiasi altro mezzo che possa contribuire a consolidare, sviluppare e i
 
 ## TITOLO II - LIBERA CIRCOLAZIONE DELLE MERCI
 
-### CAPITOLO 1
+### CAPITOLO 1 - PRINCIPI FONDAMENTALI
 
-#### PRINCIPI FONDAMENTALI
-
-##### Articolo 6
+#### Articolo 6
 
 1\. La zona di libero scambio tra la Comunita' e Israele viene consolidata secondo le modalita' indicate nel presente Accordo e in conformita' con le disposizioni dell'Accordo generale sulle tariffe doganali e sul commercio del 1994 e degli altri accordi multilaterali sugli scambi di merci allegati all'accordo che istituisce l'Organizzazione mondiale del commercio, in appresso denominati GATT.
 
 2\. Per classificare le merci negli scambi tra le Parti si utilizzano la nomenclatura combinata delle merci e la tariffa doganale israeliana.
 
-## CAPITOLO 2 - RODOTTI INDUSTRIALI
+### CAPITOLO 2 - RODOTTI INDUSTRIALI
 
-##### Articolo 7
+#### Articolo 7
 
 Le disposizioni del presente capitolo si applicano ai prodotti originari della Comunita' e di Israele diversi da quelli specificati nell'allegato II del trattato che istituisce la Comunita' europea e, per quanto riguarda i prodotti originari di Israele, diversi da quelli specificati nell'Allegato I del presente Accordo.
 
-##### Articolo 8
+#### Articolo 8
 
 Negli scambi tra la Comunita' e Israele non sono ammessi dazi doganali all'importazione e all'esportazione, ne' tasse di effetto equivalente. Tale divieto si applica anche ai dazi doganali di natura fiscale.
 
-##### Articolo 9
+#### Articolo 9
 
 1\. a) Le disposizioni del presente capitolo non ostano al mantenimento, da parte della Comunita', di un elemento agricolo per quanto riguarda le merci originarie di Israele elencate nell'Allegato II del presente Accordo, fatta eccezione per quelle elencate nell'Allegato III.
 
@@ -245,71 +243,71 @@ c) Israele puo' ampliare l'elenco delle merci cui si applica tale elemento agric
 
 6\. L'elenco delle merci soggette a concessioni sotto forma di riduzione dell'elemento agricolo negli scambi tra la Comunita' e Israele, nonche' la misura di dette concessioni sono riportati nell'Allegato VI.
 
-## CAPITOLO 3 - PRODOTTI AGRICOLI
+### CAPITOLO 3 - PRODOTTI AGRICOLI
 
-##### Articolo 10
+#### Articolo 10
 
 Le disposizioni del presente capitolo si applicano ai prodotti originari della Comunita' e di Israele elencati nell'Allegato II del trattato che istituisce la Comunita' europea.
 
-##### Articolo 11
+#### Articolo 11
 
 La Comunita' e Israele attuano progressivamente una maggiore liberalizzazione negli scambi di prodotti agricoli di comune interesse delle Parti. A decorrere dal 1 gennaio 2000, la Comunita' e Israele esaminano la situazione al fine di fissare le misure che la Comunita' e Israele dovranno applicare a decorrere dal 1 gennaio 2001 conformemente al presente obiettivo.
 
-##### Articolo 12
+#### Articolo 12
 
 I prodotti agricoli originari di Israele elencati nel protocollo n. 1 e nel protocollo n. 3 importati nella Comunita' sono soggetti alle disposizioni di cui ai suddetti protocolli.
 
-##### Articolo 13
+#### Articolo 13
 
 I prodotti agricoli originari della Comunita' elencati nel protocollo n. 2 e nel protocollo n. 3 importati in Israele sono soggetti alle disposizioni di cui ai suddetti protocolli..
 
-##### Articolo 14
+#### Articolo 14
 
 Fatte salve le disposizioni dell'articolo 11 e tenendo conto dei flussi di scambio dei prodotti agricoli tra le Parti, nonche' della loro particolare importanza, la Comunita' e Israele esaminano, nell'ambito del Consiglio di associazione, prodotto per prodotto e in maniera ordinata e reciproca, la possibilita' di accordarsi ulteriori concessioni.
 
-##### Articolo 15
+#### Articolo 15
 
 La Comunita' e Israele esaminano, entro tre anni dall'entrata in vigore dell'Accordo, la possibilita' di accordarsi vicendevolmente e nel reciproco interesse concessioni per quanto riguarda gli scambi di prodotti della pesca.
 
-## CAPITOLO 4 - DISPOSIZIONI COMUNI
+### CAPITOLO 4 - DISPOSIZIONI COMUNI
 
-##### Articolo 16
+#### Articolo 16
 
 Tra la Comunita' e Israele non e' ammessa alcuna restrizione quantitativa all'importazione, ne' alcuna misura d'effetto equivalente.
 
-##### Articolo 17
+#### Articolo 17
 
 Tra la Comunita' e Israele non e' ammessa alcuna restrizione quantitativa all'esportazione, ne' alcuna misura d'effetto equivalente.
 
-##### Articolo 18
+#### Articolo 18
 
 1\. I prodotti originari di Israele non beneficiano, all'importazione nella Comunita', di un trattamento piu' favorevole di quello che gli Stati membri si applicano reciprocamente.
 
 2\. Le disposizioni del presente Accordo si applicano senza pregiudizio di quelle di cui al regolamento (CEE) n. 1911/91 del Consiglio del 26 giugno 1991, relativo all'applicazione delle disposizioni del diritto comunitario alle Isole Canarie.
 
-##### Articolo 19
+#### Articolo 19
 
 1\. Le Parti si astengono dall'introdurre qualsiasi misura o prassi di natura fiscale interna che istituisca, direttamente o indirettamente, discriminazioni tra i prodotti di una Parte e i prodotti analoghi originari dell'altra Parte.
 
 2\. I prodotti esportati verso il territorio di una delle Parti non possono beneficiare di un rimborso delle imposte interne indirette superiore all'ammontare delle imposte indirette cui sono stati direttamente o indirettamente assoggettati.
 
-##### Articolo 20
+#### Articolo 20
 
 1\. Qualora vengano istituite norme specifiche a seguito dell'applicazione della sua politica agricola o di una modifica delle norme esistenti, o qualora vengano modificate o prorogate le disposizioni relative all'applicazione della sua politica agricola, la Parte in questione puo' modificare le disposizioni derivanti dall'Accordo in relazione ai prodotti oggetto di tali norme o modifiche.
 
 2\. Nei casi suddetti la Parte in questione tiene debito conto degli interessi dell'altra Parte. A tal fine le Parti possono reciprocamente consultarsi nell'ambito del Consiglio di associazione.
 
-##### Articolo 21
+#### Articolo 21
 
 1\. Il presente accordo non osta al mantenimento o all'istituzione di unioni doganali, di zone di libero scambio o di accordi sugli scambi transfrontalieri, se non nella misura in cui essi alterano le condizioni commerciali previste dal presente Accordo.
 
 2\. Nell'ambito del Comitato di associazione si tengono consultazioni tra la Comunita' e Israele in merito agli accordi istitutivi di unioni doganali o zone di libero scambio e, se del caso, in merito ad altre importanti questioni relative alle loro rispettive politiche commerciali con i paesi terzi. In particolare, nel caso in cui un paese terzo entri a far parte dell'Unione, si svolgono consultazioni di questo tipo per garantire che si tenga conto dei reciproci interessi della Comunita' e di Israele.
 
-##### Articolo 22
+#### Articolo 22
 
 Qualora una delle Parti constati che negli scambi con l'altra Parte si verificano pratiche di dumping, ai sensi dell'articolo VI del GATT, essa puo' adottare le misure adeguate contro tali pratiche in conformita' dell'Accordo relativo all'applicazione dell'articolo VI dell'Accordo generale sulle tariffe doganali e sul commercio e della propria pertinente legislazione interna, alle condizioni e secondo le procedure di cui all'articolo 25.
 
-##### Articolo 23
+#### Articolo 23
 
 Qualora un prodotto sia importato in quantita' maggiorate e in condizioni tali da provocare o minacciare di provocare:
 
@@ -321,7 +319,7 @@ Qualora un prodotto sia importato in quantita' maggiorate e in condizioni tali d
 
 la Comunita' o Israele possono adottare le opportune misure alle condizioni e secondo le procedure specificate nell'articolo 25.
 
-##### Articolo 24
+#### Articolo 24
 
 Qualora l'osservanza delle disposizioni dell'articolo 17 comporti:
 
@@ -331,7 +329,7 @@ ii) una penuria grave, o la minaccia di penuria grave, di un prodotto essenziale
 
 e qualora le circostanze di cui sopra diano luogo, o possano dar luogo, a gravi difficolta' per la Parte esportatrice, quest'ultima puo' adottare le opportune misure, alle condizioni e secondo le procedure specificate nell'articolo 25. Dette misure hanno carattere non discriminatorio e sono eliminate quando la situazione non ne giustifica piu' il mantenimento.
 
-##### Articolo 25
+#### Articolo 25
 
 1\. Nel caso in cui la Comunita' o Israele assoggettino le importazioni di prodotti suscettibili di creare le difficolta' di cui all'articolo 23 a una procedura amministrativa finalizzata a fornire tempestive informazioni sull'andamento dei flussi commerciali, essa ne informa l'altra Parte.
 
@@ -361,21 +359,21 @@ d) qualora circostanze eccezionali che richiedono un intervento
 
 immediato rendano impossibile un'informazione o, a seconda dei casi, un esame preventivo, la Parte interessata puo' applicare immediatamente, nelle situazioni specificate negli articoli 22, 23 e 24, le misure di salvaguardia strettamente necessarie per far fronte alla situazione. Essa ne informa immediatamente l'altra Parte.
 
-##### Articolo 26
+#### Articolo 26
 
 Qualora uno o piu' Stati membri della Comunita' o Israele abbiano, o rischino di avere, gravi difficolta' di bilancia dei pagamenti, la Comunita' o Israele, secondo il caso, possono, in conformita' delle condizioni stabilite nel quadro del GATT e degli articoli VIII e XIV degli Statuti del Fondo Monetario Internazionale, adottare misure restrittive di durata limitata e la cui portata non puo' eccedere quanto necessario per ovviare alla situazione della bilancia dei pagamenti. La Comunita' o Israele, secondo il caso, informano senza indugio l'altra Parte e le sottopongono appena possibile un calendario per l'abolizione delle misure in questione.
 
-##### Articolo 27
+#### Articolo 27
 
 Nessuna disposizione del presente Accordo pregiudica i divieti o le restrizioni all'importazione, all'esportazione e al transito di merci giustificati da motivi di moralita' pubblica, di ordine pubblico o di pubblica sicurezza, di tutela della salute e della vita delle persone e degli animali o di preservazione dei vegetali, di protezione del patrimonio artistico, storico o archeologico nazionale o di tutela della proprieta' intellettuale, industriale e commerciale o da norme relative all'oro e all'argento. Tuttavia, tali divieti o restrizioni non devono costituire un mezzo di discriminazione arbitraria, ne' una restrizione dissimulata al commercio tra le Parti.
 
-##### Articolo 28
+#### Articolo 28
 
 La nozione di "prodotti originari", ai fini dell'applicazione delle disposizioni del presente titolo e i relativi metodi di cooperazione amministrativa sono definiti nel protocollo n. 4.
 
 ## TITOLO III - DIRITTO DI STABILIMENTO E SERVIZI
 
-##### Articolo 29
+#### Articolo 29
 
 1\. Le Parti convengono di estendere il campo di applicazione dell'Accordo per comprendere il diritto di stabilimento delle societa' di una Parte sul territorio dell'altra e la liberalizzazione della prestazione di servizi ad opera delle societa' di una Parte a favore di consumatori dei servizi situati nell'altra Parte.
 
@@ -391,7 +389,7 @@ sugli scambi di servizi, in appresso denominato "GATS", in particolare quelle di
 
 3\. Il perseguimento di detto obiettivo costituira' oggetto di un primo esame da parte del Consiglio di associazione entro tre anni a decorrere dall'entrata in vigore dell'Accordo.
 
-##### Articolo 30
+#### Articolo 30
 
 1\. In una prima fase, le Parti ribadiscono i loro rispettivi obblighi ai sensi del GATS, in particolare il reciproco riconoscimento del trattamento della nazione piu' favorita per i settori dei servizi contemplati da tale obbligo.
 
@@ -407,37 +405,35 @@ esenzioni alla clausola della nazione piu' favorita allegata dall'una o dall'alt
 
 ## TITOLO IV - MOVIMENTI DI CAPITALI, PAGAMENTI, APPALTI PUBBLICI, CONCORRENZA E PROPRIETA' INTELLETTUALE
 
-### CAPITOLO 1
+### CAPITOLO 1 - MOVIMENTI DI CAPITALI
 
-#### MOVIMENTI DI CAPITALI
-
-##### Articolo 31
+#### Articolo 31
 
 Nell'ambito delle disposizioni del presente Accordo, e nel rispetto delle disposizioni degli articoli 33 e 34, non vi sono restrizioni tra la Comunita', da una parte, e Israele, dall'altra, al movimento di capitali e non vi sono discriminazioni basate sulla nazionalita' o sul luogo di residenza dei loro cittadini o del luogo in cui detti capitali sono investiti.
 
-##### Articolo 32
+#### Articolo 32
 
 I pagamenti correnti legati alla circolazione delle merci, delle persone, dei servizi o dei capitali nel quadro del presente Accordo sono liberi da qualsiasi restrizione.
 
-##### Articolo 33
+#### Articolo 33
 
 Nel rispetto delle altre disposizioni del presente Accordo e degli altri obblighi internazionali della Comunita' e di Israele, le disposizioni degli articoli 31 e 32 lasciano impregiudicata l'applicazione di eventuali restrizioni esistenti tra le Parti alla data di entrata in vigore del presente Accordo, per quanto riguarda i movimenti di capitali tra l'una e l'altra Parte legati agli investimenti diretti, anche in campo immobiliare, allo stabilimento, alla prestazione di servizi finanziari o all'ammissione di titoli sui mercati dei capitali.
 
 Tali restrizioni non riguardano tuttavia il trasferimento all'estero di investimenti effettuati in Israele da persone residenti nella Comunita' o nella Comunita' da persone residenti in Israele e degli utili derivanti da tali investimenti.
 
-##### Articolo 34
+#### Articolo 34
 
 Qualora, in circostanze eccezionali, i movimenti di capitali tra la Comunita' e Israele provochino, o minaccino di provocare, gravi difficolta' per la gestione della politica dei cambi o della politica monetaria della Comunita' o di Israele, la Comunita' o Israele, rispettivamente, possono adottare, conformemente alle condizioni previste nel quadro del GATS e agli articoli VIII e XIV degli Statuti del Fondo Monetario Internazionale, misure di salvaguardia per quanto riguarda i movimenti di capitali tra la Comunita' e Israele per un periodo non superiore a sei mesi, sempreche' tali misure siano strettamente necessarie.
 
-## CAPITOLO 2 - APPALTI PUBBLICI
+### CAPITOLO 2 - APPALTI PUBBLICI
 
-##### Articolo 35
+#### Articolo 35
 
 Le Parti adottano misure finalizzate alla reciproca apertura dei rispettivi mercati degli appalti pubblici e dei mercati degli appalti delle imprese che operano nei settori dei servizi di pubblica utilita' per l'acquisto di merci, opere e servizi aldila' di quanto e' gia' stato reciprocamente accordato nel quadro dell'Accordo sugli appalti pubblici concluso nell'ambito dell'OMC.
 
-## CAPITOLO 3 - CONCORRENZA
+### CAPITOLO 3 - CONCORRENZA
 
-##### Articolo 36
+#### Articolo 36
 
 1\. Sono incompatibili con il corretto funzionamento del presente Accordo, nella misura in cui possono incidere sugli scambi tra la Comunita' e Israele:
 
@@ -483,19 +479,19 @@ Per quanto riguarda le pratiche incompatibili ai sensi del paragrafo 1, punto ii
 
 6\. Fatte salve eventuali disposizioni contrarie adottate in conformita' del paragrafo 2, le Parti si scambiano informazioni tenendo conto delle limitazioni imposte dal rispetto del segreto professionale e del segreto aziendale.
 
-##### Articolo 37
+#### Articolo 37
 
 1\. Gli Stati membri e Israele adeguano progressivamente gli eventuali monopoli di Stato di natura commerciale per garantire che, alla scadenza del quinto anno successivo all'entrata in vigore del presente Accordo, non esista alcuna discriminazione tra cittadini degli Stati membri e di Israele rispetto alle condizioni di approvvigionamento e di commercializzazione delle merci.
 
 2\. Il Comitato di associazione e' informato delle misure adottate a tal fine.
 
-##### Articolo 38
+#### Articolo 38
 
 Per quanto riguarda le imprese pubbliche o le imprese cui sono stati concessi diritti speciali o esclusivi, il Consiglio di associazione provvede affinche', a decorrere dal quinto anno successivo alla data di entrata in vigore del presente Accordo, non venga adottata ne' mantenuta alcuna misura che possa ripercuotersi sugli scambi tra la Comunita' e Israele in senso contrario agli interessi delle Parti. La presente disposizione non osta all'esecuzione, di diritto o di fatto, di compiti particolari assegnati a tali imprese.
 
-## CAPITOLO 4 - PROPRIETA' INTELLETTUALE, INDUSTRIALE E COMMERCIALE
+### CAPITOLO 4 - PROPRIETA' INTELLETTUALE, INDUSTRIALE E COMMERCIALE
 
-##### Articolo 39
+#### Articolo 39
 
 1\. Conformemente alle disposizioni del presente articolo e dell'Allegato VII, le Parti assicurano un'adeguata ed efficace tutela dei diritti di proprieta' intellettuale, industriale e commerciale, corrispondente ai massimi standard internazionali, ivi compresi strumenti efficaci per far valere tali diritti.
 
@@ -503,19 +499,19 @@ Per quanto riguarda le imprese pubbliche o le imprese cui sono stati concessi di
 
 ## TITOLO V - COOPERAZIONE SCIENTIFICA E TECNOLOGICA
 
-##### Articolo 40
+#### Articolo 40
 
 Le Parti si impegnano ad intensificare la cooperazione scientifica e tecnologica. Le disposizioni dettagliate per il conseguimento di tale obiettivo saranno esposte in accordi separati conclusi a tal fine.
 
 ## TITOLO VI - COOPERAZIONE ECONOMICA
 
-##### Articolo 41
+#### Articolo 41
 
 Obiettivi
 
 La Comunita' e Israele si impegnano a promuovere la cooperazione economica, nel mutuo interesse e su basi di reciprocita', conformemente agli obiettivi generali del presente Accordo.
 
-##### Articolo 42
+#### Articolo 42
 
 Campo di applicazione
 
@@ -523,7 +519,7 @@ Campo di applicazione
 
 2\. Nell'attuazione dei vari settori della cooperazione economica pertinenti, si terra' conto della tutela dell'ambiente e dell'equilibrio ecologico.
 
-##### Articolo 43
+#### Articolo 43
 
 Metodi e modalita'
 
@@ -541,13 +537,13 @@ e) l'assistenza tecnica, amministrativa e regolamentare;
 
 f) la divulgazione delle informazioni relative alla cooperazione.
 
-##### Articolo 44
+#### Articolo 44
 
 Cooperazione regionale
 
 Le Parti favoriscono iniziative volte a promuovere la cooperazione regionale.
 
-##### Articolo 45
+#### Articolo 45
 
 Cooperazione industriale
 
@@ -565,7 +561,7 @@ Le Parti promuovono la cooperazione in particolare nei seguenti settori:
 
 \- stimolazione delle innovazioni.
 
-##### Articolo 46
+#### Articolo 46
 
 Agricoltura
 
@@ -585,19 +581,19 @@ La cooperazione tra le Parti verte sui seguenti aspetti:
 
 \- cooperazione tra regioni rurali, scambio di esperienze e conoscenze tecniche relative allo sviluppo rurale.
 
-##### Articolo 47
+#### Articolo 47
 
 Standard
 
 Le Parti si sforzano di ridurre le differenze per quanto riguarda la standardizzazione e la valutazione della conformita'. A tal fine le Parti concludono se del caso accordi di reciproco riconoscimento nel settore della valutazione della conformita'.
 
-##### Articolo 48
+#### Articolo 48
 
 Servizi finanziari
 
 Le Parti cooperano, se del caso attraverso la conclusione di accordi, per quanto riguarda l'adozione di norme e standard comuni tra l'altro per quanto riguarda la contabilita' e i sistemi di regolamentazione e vigilanza nei settori del credito, delle assicurazioni e in altri settori finanziari.
 
-##### Articolo 49
+#### Articolo 49
 
 Dogane
 
@@ -607,7 +603,7 @@ Dogane
 
 Fatte salve le ulteriori forme di cooperazione previste nel presente Accordo, in particolare per la lotta agli stupefacenti e al riciclaggio del denaro, le autorita' amministrative delle Parti si prestano reciproca assistenza secondo le disposizioni del protocollo n. 5.
 
-##### Articolo 50
+#### Articolo 50
 
 Ambiente
 
@@ -633,7 +629,7 @@ Ambiente
 
 \- impatto dell'agricoltura sulla qualita' del suolo e delle acque.
 
-##### Articolo 51
+#### Articolo 51
 
 Energia
 
@@ -641,13 +637,13 @@ Energia
 
 2\. Le Parti si adoperano per incoraggiare iniziative volte a favorire la cooperazione regionale in settori quali il transito di gas. petrolio ed elettricita'.
 
-##### Articolo 52
+#### Articolo 52
 
 Infrastrutture informatiche e telecomunicazioni
 
 Le Parti promuovono la cooperazione per lo sviluppo delle infrastrutture informatiche e delle telecomunicazioni nel reciproco interesse. La cooperazione verte anzitutto sul perseguimento di azioni legate alla ricerca e allo sviluppo tecnologico, all'armonizzazione degli standard e all'ammodernamento delle tecnologie.
 
-##### Articolo 53
+#### Articolo 53
 
 Trasporti
 
@@ -665,19 +661,19 @@ e per quanto riguarda il trasporto combinato e multimodale e i trasbordi;
 
 \- promozione di programmi tecnologici e di ricerca congiunti.
 
-##### Articolo 54
+#### Articolo 54
 
 Turismo
 
 Le Parti si scambiano informazioni sui piani di sviluppo turistico e sui progetti di commercializzazione turistica, sulle esposizioni, mostre, sui simposi e sulle pubblicazioni attinenti al turismo.
 
-##### Articolo 55
+#### Articolo 55
 
 Ravvicinamento delle leggi
 
 Le Parti fanno tutto il possibile per ravvicinare le rispettive legislazioni al fine di agevolare l'applicazione del presente Accordo.
 
-##### Articolo 56
+#### Articolo 56
 
 Stupefacenti e riciclaggio del denaro
 
@@ -709,7 +705,7 @@ Gli organismi del settore pubblico e del settore privato operanti in questo camp
 
 competenti di Israele, della Comunita' e dei suoi Stati membri.
 
-##### Articolo 57
+#### Articolo 57
 
 Immigrazione ed emigrazione
 
@@ -721,25 +717,25 @@ Le Parti cooperano in particolare al fine di:
 
 ## TITOLO VII - COOPERAZIONE IN MATERIA DI AUDIOVISIVI, AFFARI CULTURALI INFORMAZIONE E COMUNICAZIONE
 
-##### Articolo 58
+#### Articolo 58
 
 1\. Le Parti si impegnano a promuovere la cooperazione nel settore degli audiovisivi nel reciproco interesse.
 
 2\. Le Parti esaminano le possibilita' di associare Israele alle iniziative della Comunita' in questo settore, consentendo in tal modo una cooperazione in campi quali la coproduzione, la formazione, lo sviluppo e la distribuzione.
 
-##### Articolo 59
+#### Articolo 59
 
 Le Parti promuovono la cooperazione in materia di istruzione, formazione e scambi di giovani. Tra i settori di cooperazione possono rientrare, in particolare, gli scambi di giovani, la cooperazione tra universita' e altri istituti di istruzione/formazione, l'apprendimento delle lingue, la traduzione e altri modi per promuovere una migliore comprensione reciproca tra le rispettive culture.
 
-##### Articolo 60
+#### Articolo 60
 
 Le Parti promuovono la cooperazione culturale. Tra i settori di cooperazione possono rientrare in particolare la traduzione, lo scambio di opere d'arte e di artisti, la tutela e il restauro di monumenti e localita' storici e culturali, la formazione di personale che opera in campo culturale, l'organizzazione di manifestazioni culturali a carattere europeo, la reciproca sensibilizzazione e il contributo alla diffusione delle informazioni sui principali avvenimenti culturali.
 
-##### Articolo 61
+#### Articolo 61
 
 Le Parti promuovono attivita' di reciproco interesse nel settore dell'informazione e delle comunicazioni.
 
-##### Articolo 62
+#### Articolo 62
 
 La cooperazione si svolge in particolare attraverso:
 
@@ -757,13 +753,13 @@ f) la diffusione delle informazioni sulle iniziative di cooperazione.
 
 ## TITOLO VIII - QUESTIONI SOCIALI
 
-##### Articolo 63
+#### Articolo 63
 
 1\. Le Parti instaurano un dialogo che copre tutti gli aspetti di reciproco interesse, in particolare le questioni sui problemi sociali delle societa' posti industriali, quali la disoccupazione, il reinserimento dei disabili, la parita' di trattamento per uomini e donne, le relazioni industriali, la formazione professionale, la sicurezza e l'igiene sul posto di lavoro ecc. 2.
 
 La cooperazione prendera' la forma di incontri di esperti, seminari e incontri di lavoro.
 
-##### Articolo 64
+#### Articolo 64
 
 1\. Al fine di coordinare i regimi previdenziali dei lavoratori israeliani legalmente occupati nel territorio di uno Stato membro e dei loro familiari ivi legalmente residenti, dovrebbero applicarsi le disposizioni seguenti, fatte salve le condizioni e le modalita' applicabili in ciascuno Stato membro:
 
@@ -777,23 +773,23 @@ residenza di tali lavoratori nei diversi Stati membri devono essere accumulati a
 
 2\. Israele riconosce ai lavoratori cittadini di uno Stato membro legalmente occupati sul suo territorio e ai loro familiari ivi legalmente residenti un trattamento analogo a quello di cui al paragrafo 1, secondo e terzo trattino, fatte salve le condizioni e le modalita' applicabili in Israele.
 
-##### Articolo 65
+#### Articolo 65
 
 1\. Il Consiglio di associazione decide in merito alle disposizioni per l'attuazione degli obiettivi di cui all'articolo 64.
 
 2\. Il Consiglio di associazione decide in merito alle modalita' della cooperazione amministrativa per garantire la gestione e il controllo necessari per l'attuazione delle disposizioni di cui al paragrafo 1.
 
-##### Articolo 66
+#### Articolo 66
 
 Le misure decise dal Consiglio di associazione ai sensi dell'articolo 65 lasciano impregiudicati i diritti e gli obblighi derivanti da accordi bilaterali tra Israele e gli Stati membri qualora detti accordi prevedano un trattamento piu' favorevole per i cittadini di Israele o degli Stati membri.
 
 ## TITOLO IX - DISPOSIZIONI ISTITUZIONALI, GENERALI E FINALI
 
-##### Articolo 67
+#### Articolo 67
 
 E' istituito un Consiglio di associazione che si riunisce a livello ministeriale una volta all'anno e ogni qualvolta le circostanze lo richiedono, su iniziativa del suo presidente e alle condizioni previste nel suo regolamento interno. Esso esamina le questioni importanti inerenti al presente Accordo e qualunque altro problema bilaterale o internazionale di reciproco interesse.
 
-##### Articolo 68
+#### Articolo 68
 
 1\. Il Consiglio di associazione e' composto da membri del Consiglio dell'Unione europea e da membri della Commissione delle Comunita' europee, da una parte, e da membri del governo dello Stato di Israele, dall'altra.
 
@@ -803,19 +799,19 @@ E' istituito un Consiglio di associazione che si riunisce a livello ministeriale
 
 4\. Il Consiglio di associazione e' presieduto a turno da un membro del Consiglio dell'Unione europea e da un membro del governo dello Stato di Israele, secondo le disposizioni da stabilirsi nel suo regolamento interno.
 
-##### Articolo 69
+#### Articolo 69
 
 1\. Ai fini della realizzazione degli obiettivi stabiliti dal presente Accordo, il Consiglio di associazione ha il potere di prendere decisioni nei casi previsti nell'Accordo stesso. Le decisioni adottate sono vincolanti per le Parti, che prendono le misure necessarie per la loro attuazione. Il Consiglio di associazione puo' altresi' formulare adeguate raccomandazioni.
 
 2\. Le decisioni e raccomandazioni del Consiglio di associazione sono adottate di comune accordo tra le Parti.
 
-##### Articolo 70
+#### Articolo 70
 
 1\. Fatte salve le competenze attribuite al Consiglio di associazione, e' istituito un Comitato di associazione, incaricato della gestione dell'Accordo.
 
 2\. Il Consiglio di associazione puo' delegare al Comitato di associazione la totalita' o una parte delle proprie competenze.
 
-##### Articolo 71
+#### Articolo 71
 
 1\. Il Comitato di associazione, che si riunisce a livello di funzionari, e' composto da rappresentanti dei membri del Consiglio dell'Unione europea e della Commissione delle Comunita' europee, da una parte, e da rappresentanti del governo dello Stato di Iraele, dall'altra.
 
@@ -823,21 +819,21 @@ E' istituito un Consiglio di associazione che si riunisce a livello ministeriale
 
 3\. Il Comitato di associazione e' presieduto a turno da un rappresentante della Presidenza del Consiglio dell'Unione europea e da un rappresentante del governo dello Stato di Israele.
 
-##### Articolo 72
+#### Articolo 72
 
 1\. Il Comitato di associazione e' abilitato ad adottare decisioni per la gestione dell'Accordo, nonche' nei settori per i quali il Consiglio gli ha delegato le proprie competenze. Le decisioni sono vincolanti per le Parti, che adottano le misure necessarie per la loro esecuzione.
 
 2\. Le decisioni del Comitato di associazione sono adottate di comune accordo tra le Parti
 
-##### Articolo 73
+#### Articolo 73
 
 Il Consiglio di associazione puo' decidere di costituire qualsiasi gruppo di lavoro o organismo necessario per l'attuazione dell'Accordo.
 
-##### Articolo 74
+#### Articolo 74
 
 Il Consiglio di associazione adotta tutte le opportune misure per agevolare la cooperazione e i contatti tra il Parlamento europeo e la Knesset dello Stato di Israele, nonche' tra il Comitato economico e sociale della Comunita' e il Consiglio economico e sociale di Israele.
 
-##### Articolo 75
+#### Articolo 75
 
 1\. Ciascuna delle Parti puo' sottoporre al Consiglio di associazione qualsiasi controversia relativa all'applicazione o all'interpretazione del presente Accordo.
 
@@ -853,7 +849,7 @@ Le decisioni arbitrali sono pronunciate a maggioranza.
 
 Ciascuna delle Parti in causa deve adottare le misure richieste per l'applicazione del lodo arbitrale.
 
-##### Articolo 76
+#### Articolo 76
 
 Nessuna disposizione del presente Accordo impedisce a una Parte di adottare qualsiasi misura:
 
@@ -863,7 +859,7 @@ b) inerente alla produzione o al commercio di armi, munizioni o materiale bellic
 
 c) ritenuta essenziale per la propria sicurezza in caso di gravi disordini interni che compromettano il mantenimento dell'ordine pubblico, in tempo di guerra o in occasione di gravi tensioni internazionali che costituiscano una minaccia di guerra o ai fini del rispetto di impegni assunti per il mantenimento della pace e della sicurezza internazionale.
 
-##### Articolo 77
+#### Articolo 77
 
 Nei settori contemplati dal presente Accordo e fatta salva qualsiasi disposizione speciale ivi contenuta:
 
@@ -871,7 +867,7 @@ Nei settori contemplati dal presente Accordo e fatta salva qualsiasi disposizion
 
 \- il regime applicato dalla Comunita' nei confronti dello Stato di Israele non puo' dar luogo ad alcuna discriminazione tra i cittadini israeliani o imprese e societa' israeliane.
 
-##### Articolo 78
+#### Articolo 78
 
 Per quanto riguarda le imposte dirette, nessuna disposizione dell'Accordo avra' l'effetto:
 
@@ -881,7 +877,7 @@ Per quanto riguarda le imposte dirette, nessuna disposizione dell'Accordo avra' 
 
 \- di ostacolare il diritto di una Parte di applicare le disposizioni pertinenti della sua legislazione fiscale ai contribuenti che non si trovano in una situazione identica per quanto riguarda la loro residenza.
 
-##### Articolo 79
+#### Articolo 79
 
 1\. Le Parti adottano qualsiasi misura generale o particolare necessaria per l'adempimento degli obblighi che incombono loro ai sensi del presente Accordo. Esse si adoperano per la realizzazione degli obiettivi fissati dal presente Accordo.
 
@@ -889,29 +885,29 @@ Per quanto riguarda le imposte dirette, nessuna disposizione dell'Accordo avra' 
 
 Nella scelta delle misure, si privilegiano quelle meno lesive per il funzionamento del presente Accordo. Le misure decise sono comunicate senza indugio al Consiglio di associazione e, qualora l'altra Parte ne faccia richiesta, sono oggetto di consultazioni in seno al Consiglio di associazione.
 
-##### Articolo 80
+#### Articolo 80
 
 I protocolli 1-5 e gli Allegati I-VII, nonche' le dichiarazioni e gli scambi di lettere costituiscono parte integrante del presente Accordo. Le dichiarazioni e gli scambi di lettere figurano nell'Atto finale, che costituisce parte integrante del presente Accordo.
 
-##### Articolo 81
+#### Articolo 81
 
 Il presente Accordo e' concluso per un periodo illimitato.
 
 Ciascuna delle Parti puo' denunciare il presente Accordo dandone notifica all'altra Parte. L'Accordo cessa di applicarsi sei mesi dopo la data di tale notifica.
 
-##### Articolo 82
+#### Articolo 82
 
 Ai fini del presente Accordo, per "Parti" si intendono Israele, da una parte, e la Comunita', gli Stati membri, o la Comunita' e i suoi Stati membri, secondo le loro rispettive competenze, dall'altra.
 
-##### Articolo 83
+#### Articolo 83
 
 Il presente Accordo si applica ai territori in cui si applicano i trattati che istituiscono la Comunita' europea e la Comunita' europea del carbone e dell'acciaio, alle condizioni in essi indicate, da una parte, e al territorio dello Stato di Israele, dall'altra.
 
-##### Articolo 84
+#### Articolo 84
 
 Il presente Accordo, redatto in duplice esemplare in lingua danese, finnica, francese, greca, inglese, italiana, neerlandese, portoghese, spagnola, svedese, tedesca ed ebraica, ciascun testo facente ugualmente fede, e' depositato presso il Segretariato generale del Consiglio dell'Unione europea.
 
-##### Articolo 85
+#### Articolo 85
 
 Il presente Accordo e' approvato dalle Parti secondo le loro rispettive procedure.
 
@@ -919,7 +915,7 @@ L'Accordo entra in vigore il primo giorno del secondo mese successivo alla data 
 
 A decorrere dalla sua entrata in vigore, il presente accordo sostituisce l'accordo tra la Comunita' economica europea e lo Stato di Israele, nonche' l'accordo tra la Comunita' europea del carbone e dell'acciaio e lo Stato di Israele, firmati a Bruxelles l'11 maggio 1975.
 
-##### Allegato I
+#### Allegato I
 
 ALLEGATO I
 
@@ -953,7 +949,7 @@ Elenco dei prodotti di cui all'articolo 7
 +------------+-----------------------------------------------------+
 ```
 
-##### Allegato II
+#### Allegato II
 
 ALLEGATO II
 
@@ -1126,7 +1122,7 @@ Elenco dei prodotti di cui all'articolo 9
 +-------------+-----------------------------------------------------+
 ```
 
-##### Allegato III
+#### Allegato III
 
 ALLEGATO III
 
@@ -1170,7 +1166,7 @@ condizioni stabilite dalle disposizioni comunitarie in
 
 materia.
 
-##### Allegato IV
+#### Allegato IV
 
 ALLEGATO IV
 
@@ -1312,7 +1308,7 @@ Elenco dei prodotti di cui all'articolo 9, paragrafo 2
 +-------------+----------------------------------------------------+
 ```
 
-##### Allegato V
+#### Allegato V
 
 ALLEGATO V
 
@@ -1395,7 +1391,7 @@ Elenco dei prodotti di cui all'articolo 9
 
 (1) Qualora le aliquote indicate in questa colonna siano superiori a quelle notificate al GATT, si applicano queste ultime.
 
-##### Allegato VI
+#### Allegato VI
 
 Allegato VI
 
@@ -1536,7 +1532,7 @@ Tabella 2: Le importazioni in Israele dei seguenti prodotti originari della Comu
 +----------+-----------------------+-----------+------------------+
 ```
 
-##### Allegato VII
+#### Allegato VII
 
 ALLEGATO VII
 
@@ -1572,7 +1568,7 @@ RELATIVO AL REGIME APPLICABILE ALL'IMPORTAZIONE
 
 NELLA COMUNITA' DI PRODOTTI AGRICOLI ORIGINARI DI ISRAELE
 
-##### Articolo 1
+#### Articolo 1
 
 1\. I prodotti figuranti in allegato originari di Israele sono ammessi all'importazione nella Comunita' alle condizioni indicate in appresso e in allegato.
 
@@ -1594,7 +1590,7 @@ Se le importazioni di un prodotto superano il quantitativo di riferimento, la Co
 
 6\. Come indicato alla colonna "e", per alcuni prodotti diversi da quelli di cui ai paragrafi 3 e 4, la Comunita' puo' fissare un quantitativo di riferimento ai sensi del paragrafo 4 se, in base al bilancio annuale degli scambi da essa stabilito, constata che i quantitativi importati di uno o piu' prodotti rischiano di creare difficolta' sul mercato comunitario. Se successivamente il prodotto e' assoggettato a un contingente tariffario, nelle condizioni indicate al paragrafo 4, il dazio della tariffa doganale comune e', secondo i prodotti, applicato nella sua totalita' o ridotto nelle proporzioni indicate alla colonna "c" per i quantitativi importati eccedenti il contingente.
 
-##### Allegato
+#### Allegato
 
 ALLEGATO AL PROTOCOLLO 1
 
@@ -1606,7 +1602,7 @@ RELATIVO AL REGIME APPLICABILE ALL'IMPORTAZIONE
 
 IN ISRAELE DI PRODOTTI AGRICOLI ORIGINARI DELLA COMUNITA'
 
-##### Articolo 1
+#### Articolo 1
 
 1\. I prodotti figuranti in allegato originari della Comunita' sono ammessi all'importazione in Israele alle condizioni indicate in appresso e in allegato.
 
@@ -1624,13 +1620,13 @@ Se successivamente il prodotto e' assoggettato a un contingente tariffario, nell
 
 6\. Per i formaggi e latticini, sono apportati quattro aumenti uguali, pari al 10% di detti importi, ogni anno, dal 1 gennaio 1997 al 1 gennaio 2000.
 
-##### Allegato
+#### Allegato
 
 ALLEGATO AL PROTOCOLLO 2
 
 Parte di provvedimento in formato grafico
 
-##### Protocollo n. 3
+#### Protocollo n. 3
 
 PROTOCOLLO N. 3
 
@@ -1664,7 +1660,7 @@ c) Qualora una Parte preveda l'introduzione di nuove misure fitosanitarie che po
 
 ## TITOLO I - DISPOSIZIONI DI CARATTERE GENERALE
 
-##### Articolo 1
+#### Articolo 1
 
 Definizioni
 
@@ -1694,7 +1690,7 @@ k) con il termine "spedizione" si intendono i prodotti spediti contemporaneament
 
 ## TITOLO II - DEFINIZIONE DELLA NOZIONE DI "PRODOTTI ORIGINARI"
 
-##### Articolo 2
+#### Articolo 2
 
 Criteri d'origine
 
@@ -1722,7 +1718,7 @@ totalmente ottenuti sul suo territorio, a condizione che detti materiali siano s
 
 trasformazioni sufficienti ai sensi dell'articolo 5 del presente protocollo;
 
-##### Articolo 3
+#### Articolo 3
 
 Cumulo bilaterale
 
@@ -1730,7 +1726,7 @@ Cumulo bilaterale
 
 2\. In deroga all'articolo 2, paragrafo 2, lettera b), i prodotti originari della Comunita' ai sensi del presente protocollo sono considerati prodotti originari di Israele e non si richiede che tali prodotti siano stati oggetto di lavorazioni o trasformazioni.
 
-##### Articolo 4
+#### Articolo 4
 
 Prodotti totalmente ottenuti
 
@@ -1774,7 +1770,7 @@ k) le merci ottenute esclusivamente a partire dai prodotti indicati alle lettere
 
 Le navi operanti in alto mare, comprese le "navi officina" a bordo delle quali viene effettuata la trasformazione o la lavorazione dei prodotti della loro pesca, sono considerate parte del territorio della Comunita' o di Israele, purche' ricorrano le condizioni di cui al paragrafo 2.
 
-##### Articolo 5
+#### Articolo 5
 
 Prodotti sufficientemente lavorati o trasformati
 
@@ -1792,7 +1788,7 @@ Il presente paragrafo non si applica ai prodotti dei capitoli 50-63 del Sistema 
 
 3\. I paragrafi 1 e 2 si applicano fatto salvo l'articolo 6.
 
-##### Articolo 6
+#### Articolo 6
 
 Operazioni di lavorazione o trasformazione insufficienti
 
@@ -1818,7 +1814,7 @@ g) il cumulo di due o piu' operazioni indicate nelle lettere da a) a f);
 
 h) la macellazione degli animali.
 
-##### Articolo 7
+#### Articolo 7
 
 Unita' da prendere in considerazione
 
@@ -1832,19 +1828,19 @@ b) quando una spedizione consiste in vari prodotti fra loro identici, classifica
 
 2\. Ogni qualvolta, conformemente alla regola generale 5 del sistema armonizzato, si considera che l'imballaggio formi un tutto unico con il prodotto ai fini della classificazione, detto imballaggio viene preso in considerazione anche per la determinazione dell'origine.
 
-##### Articolo 8
+#### Articolo 8
 
 Accessori, pezzi di ricambio e utensili
 
 Gli accessori, pezzi di ricambio e utensili che vengono consegnati con un'attrezzatura, una macchina, un apparecchio o un veicolo, fanno parte del loro normale equipaggiamento e il cui prezzo e' compreso in quello di questi ultimi o non e' fatturato a parte sono considerati un tutto unico con l'attrezzatura, la macchina, l'apparecchio o il veicolo in questione.
 
-##### Articolo 9
+#### Articolo 9
 
 Assortimenti
 
 Gli assortimenti, ai sensi della regola generale 3 del sistema armonizzato, sono considerati originari a condizione che tutti i prodotti che li compongono siano originari. Tuttavia, un assortimento composto di prodotti originari e non originari e' considerato originario nel suo insieme, a condizione che il valore dei prodotti non originari non superi il 15% del prezzo franco fabbrica dell'assortimento.
 
-##### Articolo 10
+#### Articolo 10
 
 Elementi neutri
 
@@ -1852,13 +1848,13 @@ Allo scopo di determinare se un prodotto e' originario della Comunita' o di Isra
 
 ## TITOLO III - REQUISITI TERRITORIALI
 
-##### Articolo 11
+#### Articolo 11
 
 Principio della territorialita'
 
 Le condizioni stabilite nel titolo II, relative all'acquisizione del carattere di prodotto originario, vanno rispettate senza interruzione nella Comunita' o in Israele. A tal fine, l'acquisizione del carattere di prodotto originario si considera interrotta quando le merci che sono state oggetto di lavorazione o trasformazione nella Parte interessata hanno lasciato il territorio di detta Parte, salvo quanto previsto agli articoli 12 e 13.
 
-##### Articolo 12
+#### Articolo 12
 
 Lavorazioni o trasformazioni effettuate al di fuori di una delle
 
@@ -1884,7 +1880,7 @@ Tuttavia, qualora nell'elenco di cui all'Allegato II si applichi una regola che 
 
 5\. I paragrafi 1 e 2 non si applicano ai prodotti dei capitoli 50-63 del Sistema armonizzato.
 
-##### Articolo 13
+#### Articolo 13
 
 Reimportazione delle merci
 
@@ -1894,7 +1890,7 @@ a) che le merci reimportate sono le stesse che erano state esportate, e
 
 b) che esse non sono state sottoposte ad alcuna operazione, oltre a quelle necessarie per conservarle in buono stato durante la loro permanenza nel paese in questione o nel corso dell'esportazione.
 
-##### Articolo 14
+#### Articolo 14
 
 Trasporto diretto
 
@@ -1920,7 +1916,7 @@ sosta delle merci nel paese di transito, ovvero,
 
 c) in mancanza di questi documenti, qualsiasi documento probatorio.
 
-##### Articolo 15
+#### Articolo 15
 
 Esposizioni
 
@@ -1940,7 +1936,7 @@ d) dal momento in cui sono stati inviati all'esposizione, i prodotti non sono st
 
 ## TITOLO IV - RESTITUZIONE O ESENZIONE
 
-##### Articolo 16
+#### Articolo 16
 
 Divieto di restituzione dei dazi doganali o di esenzione da tali dazi 1. I materiali non originari impiegati nella fabbricazione di prodotti originari della Comunita' o di Israele ai sensi del presente protocollo, per i quali e' stata rilasciata o redatta una prova d'origine conformemente alle disposizioni del titolo V, non sono oggetto in nessuna Parte di restituzione di dazi doganali di qualsiasi tipo o di esenzione da tali dazi.
 
@@ -1954,7 +1950,7 @@ Divieto di restituzione dei dazi doganali o di esenzione da tali dazi 1. I mater
 
 ## TITOLO V - PROVA D'ORIGINE
 
-##### Articolo 17
+#### Articolo 17
 
 Requisiti di carattere generale
 
@@ -1978,7 +1974,7 @@ siano descritti in modo sufficientemente dettagliato da consentirne l'identifica
 
 2\. In deroga al paragrafo 1, i prodotti originari ai sensi del presente protocollo, nei casi elencati all'articolo 27, sono ammessi a beneficiare dell'Accordo, senza che sia necessario presentare uno dei documenti succitati.
 
-##### Articolo 18
+#### Articolo 18
 
 Procedura di rilascio dei certificati di circolazione EUR.1
 
@@ -2006,7 +2002,7 @@ Spetta inoltre alle autorita' doganali che rilasciano il certificato accertarsi 
 
 8\. Il certificato di circolazione delle merci EUR.1 e' rilasciato dalle autorita' doganali del paese d'esportazione al momento dell'esportazione dei prodotti ai quali si riferisce. Esso e' tenuto a disposizione dell'esportatore dal momento in cui l'esportazione ha effettivamente luogo o e' assicurata.
 
-##### Articolo 19
+#### Articolo 19
 
 Rilascio a posteriori del certificato di circolazione EUR.1
 
@@ -2046,7 +2042,7 @@ b) viene fornita alle autorita' doganali la prova soddisfacente che il certifica
 
 5\. Le diciture di cui al paragrafo 4 devono figurare nella casella "Osservazioni" del certificato di circolazione delle merci EUR.1.
 
-##### Articolo 20
+#### Articolo 20
 
 Rilascio di duplicati del certificato di circolazione EUR.1
 
@@ -2066,7 +2062,7 @@ Rilascio di duplicati del certificato di circolazione EUR.1
 
 4\. Il duplicato, su cui deve figurare la data di rilascio del certificato di circolazione EUR.1 originale, e' valido a decorrere da questa data.
 
-##### Articolo 21
+#### Articolo 21
 
 Sostituzione dei certificati
 
@@ -2076,7 +2072,7 @@ Sostituzione dei certificati
 
 3\. Il certificato sostitutivo e' rilasciato in base a una domanda scritta del riesportatore, previa verifica da parte delle autorita' competenti delle informazioni fornite nella domanda. La data di rilascio e il numero di serie del certificato EUR.1 originario devono figurare nella casella n. 7.
 
-##### Articolo 22
+#### Articolo 22
 
 Condizioni per la compilazione di dichiarazione su fattura
 
@@ -2100,7 +2096,7 @@ Tuttavia gli esportatori autorizzati ai sensi dell'articolo 23 non sono tenuti a
 
 6\. La dichiarazione su fattura puo' essere compilata dall'esportatore al momento dell'esportazione dei prodotti cui si riferisce (o, in via eccezionale, successivamente). Se la dichiarazione su fattura e' compilata dopo che i prodotti cui si riferisce sono stati dichiarati alle autorita' doganali del paese d'importazione, essa deve contenere un riferimento ai documenti gia' presentati a dette autorita'.
 
-##### Articolo 23
+#### Articolo 23
 
 Esportatori autorizzati
 
@@ -2114,7 +2110,7 @@ Esportatori autorizzati
 
 5\. Le autorita' doganali possono ritirare l'autorizzazione in ogni momento. Esse agiscono in tal senso se l'esportatore autorizzato non offre piu' le garanzie di cui al paragrafo 1, non soddisfa le condizioni di cui al paragrafo 2 o fa un uso improprio dell'autorizzazione.
 
-##### Articolo 24
+#### Articolo 24
 
 Validita' della prova d'origine
 
@@ -2126,7 +2122,7 @@ La dichiarazione su fattura ha una validita' di quattro mesi dalla data di compi
 
 3\. A parte tali casi, le autorita' doganali del paese importatore possono accettare i certificati di circolazione EUR.1 o le dichiarazioni su fattura se i prodotti sono stati presentati loro prima della scadenza di detto termine.
 
-##### Articolo 25
+#### Articolo 25
 
 Presentazione della prova d'origine
 
@@ -2134,13 +2130,13 @@ I certificati di circolazione delle merci EUR.1 e le dichiarazioni su fattura so
 
 Esse possono anche richiedere che la dichiarazione di importazione sia completata da una dichiarazione dell'importatore secondo la quale per i prodotti ricorrono le condizioni richieste per l'applicazione dell'Accordo.
 
-##### Articolo 26
+#### Articolo 26
 
 Importazioni con spedizioni scaglionate
 
 Quando, su richiesta dell'importatore e alle condizioni stabilite dalle autorita' doganali del paese d'importazione, i prodotti smontati o non assemblati ai sensi della regola generale 2, lettera a) del sistema armonizzato, di cui alle sezioni XVI e XVI o alle voci 7308 e 9406 del sistema armonizzato, sono importati con spedizioni scaglionate, per tali prodotti viene presentata alle autorita' doganali un'unica prova d'origine al momento dell'importazione della prima spedizione parziale.
 
-##### Articolo 27
+#### Articolo 27
 
 Esonero dalla prova formale dell'origine
 
@@ -2150,7 +2146,7 @@ Esonero dalla prova formale dell'origine
 
 3\. Inoltre, il valore complessivo dei prodotti non deve superare 500 ECU se si tratta di piccole spedizioni oppure 1.200 ECU se si tratta del contenuto dei bagagli personali dei viaggiatori.
 
-##### Articolo 28
+#### Articolo 28
 
 Conservazione delle prove dell'origine e dei documenti giustificativi 1. L'esportatore che presenta domanda per il rilascio di un certificato di circolazione delle merci EUR.1 conserva per almeno tre anni i documenti di cui all'articolo 18, paragrafo 3.
 
@@ -2160,7 +2156,7 @@ Conservazione delle prove dell'origine e dei documenti giustificativi 1. L'espor
 
 4\. Le autorita' doganali del paese importatore conservano per almeno tre anni i certificati EUR.1 e le dichiarazioni su fattura che sono stati loro presentati.
 
-##### Articolo 29
+#### Articolo 29
 
 Discordanze ed errori formali
 
@@ -2168,7 +2164,7 @@ Discordanze ed errori formali
 
 2\. In caso di errori formali evidenti, come errori di battitura, sul certificato di circolazione EUR.1 o sulla dichiarazione su fattura, il documento non viene respinto se detti errori non sono tali da destare dubbi sull'esattezza delle diciture in esso contenute.
 
-##### Articolo 30
+#### Articolo 30
 
 Importi espressi in ECU
 
@@ -2186,13 +2182,13 @@ Nel procedere a detta revisione, il Consiglio di associazione garantisce che non
 
 ## TITOLO VI - MODALITA' DI COOPERAZIONE AMMINISTRATIVA
 
-##### Articolo 31
+#### Articolo 31
 
 Comunicazione dell'impronta dei timbri e degli indirizzi
 
 Le autorita' doganali degli Stati membri e di Israele si comunicano a vicenda, tramite la Commissione delle Comunita' europee, il facsimile dell'impronta dei timbri utilizzati nei loro uffici per il rilascio dei certificati EUR.1 e l'indirizzo delle autorita' doganali competenti per il rilascio dei certificati di circolazione EUR.1 e per il controllo di detti certificati e delle dichiarazioni su fattura.
 
-##### Articolo 32
+#### Articolo 32
 
 Verifica della prova d'origine
 
@@ -2212,7 +2208,7 @@ Qualora siano state applicate le disposizioni sul cumulo di cui all'articolo 3, 
 
 6\. Qualora, in caso di dubbi fondati, non sia pervenuta alcuna risposta entro dieci mesi o qualora la risposta non contenga informazioni sufficienti per determinare l'autenticita' del documento in questione o l'effettiva origine dei prodotti, le autorita' doganali che hanno richiesto il controllo li escludono dal trattamento preferenziale, salvo casi di forza maggiore o circostanze eccezionali.
 
-##### Articolo 33
+#### Articolo 33
 
 Soluzione delle controversie
 
@@ -2220,13 +2216,13 @@ Le controversie riguardanti le procedure di controllo di cui all'articolo 31 che
 
 Per la soluzione delle controversie tra l'importatore e le autorita' doganali dello Stato di importazione si applica comunque la legislazione di tale Stato.
 
-##### Articolo 34
+#### Articolo 34
 
 Sanzioni
 
 Si applicano sanzioni nei confronti di chiunque rediga o faccia redigere un documento contenente dati intestati, allo scopo di ottenere un trattamento preferenziale per i prodotti.
 
-##### Articolo 35
+#### Articolo 35
 
 Zone franche
 
@@ -2236,7 +2232,7 @@ Zone franche
 
 ## TITOLO VII - CEUTA E MELILLA
 
-##### Articolo 36
+#### Articolo 36
 
 Applicazione del protocollo
 
@@ -2246,7 +2242,7 @@ Nell'espressione "prodotti originari della Comunita'" non rientrano i prodotti o
 
 2\. Il presente protocollo si applica, mutatis mutandis, ai prodotti originari di Ceuta e di Melilla, fatte salve le condizioni particolari di cui all'articolo 37.
 
-##### Articolo 37
+#### Articolo 37
 
 Condizioni particolari
 
@@ -2310,13 +2306,13 @@ di cui all'articolo 6.
 
 ## TITOLO VIII - DISPOSIZIONI FINALI
 
-##### Articolo 38
+#### Articolo 38
 
 Modifiche del protocollo
 
 Il Consiglio di associazione puo' decidere di modificare le disposizioni del presente protocollo.
 
-##### Articolo 39
+#### Articolo 39
 
 Comitato di cooperazione doganale
 
@@ -2324,25 +2320,25 @@ Comitato di cooperazione doganale
 
 2\. Il Comitato e' composto, da un lato, da esperti degli Stati membri e da funzionari dei servizi della Commissione delle Comunita' europee che si occupano di problemi doganali e, dall'altro, da esperti designati da Israele.
 
-##### Articolo 40
+#### Articolo 40
 
 Allegati
 
 Gli allegati del presente protocollo ne costituiscono parte integrante.
 
-##### Articolo 41
+#### Articolo 41
 
 Esecuzione del protocollo
 
 La Comunita' e Israele prendono, ciascuno per quanto lo riguarda, le misure necessarie all'esecuzione del presente protocollo.
 
-##### Articolo 42
+#### Articolo 42
 
 Merci in transito o in deposito
 
 Le disposizioni dell'Accordo possono applicarsi alle merci rispondenti alle disposizioni del presente protocollo che, alla data dell'entrata in vigore dell'accordo, si trovano in transito o sono in regime di deposito provvisorio, di deposito doganale o di zona franca nel territorio della Comunita' o di Israele, a condizione che vengano presentati - entro il termine di quattro mesi a decorrere da tale data - alle autorita' doganali dello Stato di importazione un certificato di circolazione EUR.1 rilasciato a posteriori dalle autorita' competenti dello Stato di esportazione, nonche' i documenti dai quali risulti che le merci sono state oggetto di trasporto diretto.
 
-##### Allegato I
+#### Allegato I
 
 ALLEGATI AL PROTOCOLLO 4
 
@@ -2566,7 +2562,7 @@ combustibili della voce ex 2710) voltolizzazione ad alta frequenza.
 
 6.3. Ai sensi delle voci ex 2707, da 2713 a 2715, ex 2901, ex 2902 e ex 3403, le operazioni semplici quali la pulitura, la decantazione, la desalificazione, la disidratazione, il filtraggio, la colorazione, la marcatura, l'ottenimento di un tenore di zolfo mescolando prodotti con tenori di zolfo diversi, qualsiasi combinazione di queste operazioni o di operazioni analoghe non conferiscono l'origine.
 
-##### Allegato II
+#### Allegato II
 
 ALLEGATO II
 
@@ -7983,7 +7979,7 @@ le sono indicate in
 
 appresso
 
-##### Allegato II
+#### Allegato II
 
 ex 7102, Pietre preziose Fabbricazione a partire da pietre
 
@@ -10901,7 +10897,7 @@ ex 9614 Pipe, comprese le te- Fabbricazione a partire da sbozzi ste di pipe
 
 capitolo Oggetti d'arte, da Fabbricazione in cui tutti i mate- 97 collezione o di anti- riali utilizzati sono classificati chita' in una voce diversa da quella del prodotto.
 
-##### Allegato III
+#### Allegato III
 
 ALLEGATO III
 
@@ -11080,7 +11076,7 @@ CHIEDO il rilascio del certificato qui allegato per queste merci. ______________
 _____________________________________________________________________ (4) Ad esempio: i documenti d'importazione, certificati di circolazione, fatture, dichiarazioni del fabbricante, ecc., relativi ai prodotti messi in opera o alle merci riesportate tal quali.
 ```
 
-##### Allegato IV
+#### Allegato IV
 
 ALLEGATO IV
 
@@ -11106,7 +11102,7 @@ RELATIVO ALL'ASSISTENZA RECIPROCA
 
 TRA LE AUTORITA' AMMINISTRATIVE IN MATERIA DOGANALE
 
-##### Articolo 1
+#### Articolo 1
 
 Definizioni
 
@@ -11122,7 +11118,7 @@ d) "autorita' interpellata": l'autorita' amministrativa competente all'uopo desi
 
 e) "dati a carattere personale": qualsiasi informazione relativa a una persona fisica identificata o identificabile.
 
-##### Articolo 2
+#### Articolo 2
 
 Ambito di applicazione
 
@@ -11130,7 +11126,7 @@ Ambito di applicazione
 
 2\. L'assistenza in materia doganale prevista dal presente protocollo si applica ad ogni autorita' amministrativa delle Parti competente per l'applicazione dello stesso. Essa non pregiudica le norme che disciplinano l'assistenza reciproca in materia penale, ne' copre le informazioni ottenute grazie a poteri esercitati su richiesta dell'autorita' giudiziaria, salvo accordo di detta autorita'.
 
-##### Articolo 3
+#### Articolo 3
 
 Assistenza su richiesta
 
@@ -11148,7 +11144,7 @@ c) i movimenti di merci per i quali sia stata segnalata la possibilita' che dian
 
 d) i mezzi di trasporto per i quali vi sono fondati motivi di ritenere che siano stati, siano ovvero possano essere utilizzati per effettuare operazioni contrarie alla legislazione doganale.
 
-##### Articolo 4
+#### Articolo 4
 
 Assistenza spontanea
 
@@ -11160,7 +11156,7 @@ Le Parti si prestano assistenza reciproca, in conformita' delle rispettive leggi
 
 \- merci note per essere soggette a operazioni contrarie alla legislazione doganale.
 
-##### Articolo 5
+#### Articolo 5
 
 Comunicazione/Notifica
 
@@ -11174,7 +11170,7 @@ necessarie per
 
 che rientrano nell'ambito di applicazione del presente protocollo a un destinatario, residente o stabilito sul suo territorio. In tal caso, si applica l'articolo 6, paragrafo 3.
 
-##### Articolo 6
+#### Articolo 6
 
 Forma e contenuto delle domande di assistenza
 
@@ -11198,7 +11194,7 @@ f) una sintesi dei fatti e delle indagini gia' svolte, salvo per i casi di cui a
 
 4\. Se la domanda non risponde ai requisiti formali stabiliti se ne puo' richiedere la correzione o il completamento; tuttavia possono essere disposte misure cautelative.
 
-##### Articolo 7
+#### Articolo 7
 
 Adempimento delle domande
 
@@ -11208,7 +11204,7 @@ Adempimento delle domande
 
 3\. I funzionari della Parte richiedente autorizzati a investigare sulle violazioni della legislazione doganale possono, in casi particolari e d'intesa con la Parte interpellata, presenziare, rispettivamente nella Comunita' o in Israele, alle indagini svolte dai funzionari della Comunita' o di Israele relative a violazioni che interessano la Parte richiedente e possono chiedere che la Parte interpellata esamini i libri, registri e altri documenti o altri supporti di dati pertinenti e ne fornisca delle copie o fornisca eventuali informazioni relative alla violazione.
 
-##### Articolo 8
+#### Articolo 8
 
 Forma in cui devono essere comunicate le informazioni
 
@@ -11216,7 +11212,7 @@ Forma in cui devono essere comunicate le informazioni
 
 2\. La consegna dei documenti di cui al paragrafo 1 puo' essere sostituita dalla fornitura di informazioni computerizzate prodotte in qualsiasi forma per gli stessi fini.
 
-##### Articolo 9
+#### Articolo 9
 
 Eccezioni all'obbligo di fornire assistenza
 
@@ -11234,7 +11230,7 @@ d) implichi una violazione di un segreto industriale, commerciale o professional
 
 3\. Se l'assistenza e' interrotta o rifiutata, la decisione e le sue motivazioni devono essere notificate senza indugio all'autorita' richiedente.
 
-##### Articolo 10
+#### Articolo 10
 
 Obbligo di osservare la riservatezza
 
@@ -11242,7 +11238,7 @@ Obbligo di osservare la riservatezza
 
 2\. La comunicazione di dati a carattere personale puo' avvenire unicamente se il livello di tutela delle persone previsto dalla legislazione delle Parti e' equivalente. Le Parti devono quantomeno garantire un livello di tutela basato sui principi della Convenzione n. 108 del 28 gennaio 1981 del Consiglio d'Europa sulla protezione delle persone rispetto al trattamento automatizzato di dati di carattere personale.
 
-##### Articolo 11
+#### Articolo 11
 
 Uso delle informazioni
 
@@ -11252,7 +11248,7 @@ Uso delle informazioni
 
 3\. Nei loro documenti probatori, nelle loro relazioni e testimonianze, nonche' nei procedimenti e nelle azioni penali promossi dinanzi agli organi giurisdizionali, le Parti possono utilizzare come prova le informazioni ottenute e i documenti consultati conformemente alle disposizioni del presente protocollo.
 
-##### Articolo 12
+#### Articolo 12
 
 Esperti e testimoni
 
@@ -11260,13 +11256,13 @@ Esperti e testimoni
 
 Nella richiesta di comparizione deve essere specificamente indicato su quale argomento e a quale titolo il funzionario sara' interrogato.
 
-##### Articolo 13
+#### Articolo 13
 
 Spese di assistenza
 
 Le Parti rinunciano reciprocamente a tutte le richieste di rimborso delle spese sostenute in virtu' dell'applicazione del presente protocollo, escluse, se del caso, le spese per esperti, testimoni, interpreti e traduttori che non dipendono da pubblici servizi.
 
-##### Articolo 14
+#### Articolo 14
 
 Esecuzione
 
@@ -11274,7 +11270,7 @@ Esecuzione
 
 2\. Le Parti si consultano e si tengono reciprocamente informate in merito alle modalita' di applicazione adottate conformemente alle disposizioni del presente protocollo.
 
-##### Articolo 15
+#### Articolo 15
 
 Complementarita'
 
@@ -11284,7 +11280,7 @@ Inoltre esso non osta alla fornitura di un'assistenza reciproca piu' vasta ai se
 
 2\. Fatto salvo l'articolo 11, detti accordi non recano pregiudizio alle disposizioni della Comunita' che disciplinano la comunicazione, tra i competenti servizi della Commissione e le autorita' doganali degli Stati membri, di tutte le informazioni raccolte in materia doganale che possano interessare la Comunita'.
 
-##### Atto finale
+#### Atto finale
 
 ATTO FINALE
 
@@ -11406,7 +11402,7 @@ I plenipotenziari degli Stati membri e della Comunita' hanno preso atto della se
 
 Dichiarazione relativa all'articolo 65 dell'accordo.
 
-##### Dichiarazioni
+#### Dichiarazioni
 
 DICHIARAZIONI COMUNI
 
@@ -11484,7 +11480,7 @@ DICHIARAZIONE COMUNE RELATIVA ALL'APPLICAZIONE ANTICIPATA
 
 Le Parti esprimono la loro intenzione di procedere all'applicazione anticipata delle disposizioni del presente accordo relative agli scambi e alla cooperazione doganale attraverso un accordo interinale che entrera' in vigore, se possibile, il 1° gennaio 1996.
 
-##### Scambio di lettere
+#### Scambio di lettere
 
 ACCORDO IN FORMA
 

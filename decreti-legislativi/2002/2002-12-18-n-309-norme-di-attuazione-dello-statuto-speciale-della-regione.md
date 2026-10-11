@@ -37,11 +37,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I - Disposizioni per l'esercizio del diritto di voto
+## Capo I - Disposizioni per l'esercizio del diritto di voto per il Consiglio provinciale di Trento
 
-### per il Consiglio provinciale di Trento
-
-#### Art. 1
+### Art. 1
 
 1\. L'articolo 1 del decreto del Presidente della Repubblica 1 febbraio 1973, n. 50, e' sostituito dal seguente:
 
@@ -115,7 +113,7 @@ g) sono elettori residenti all'estero, secondo quanto previsto dall'articolo 4.
 
 > c) per irreperibilita' accertata a seguito delle risultanze delle operazioni del censimento generale della popolazione, ovvero, quando, a seguito di ripetuti accertamenti, opportunamente intervallati, la persona sia risultata irreperibile, nonche', per i cittadini stranieri, per irreperibilita' accertata, ovvero per effetto del mancato rinnovo della dichiarazione di cui all'art. 7, comma 3, trascorso un anno dalla scadenza del permesso di soggiorno o della carta di soggiorno, previo avviso da parte dell'ufficio, con invito a provvedere nei successivi trenta giorni.".
 
-#### Art. 2
+### Art. 2
 
 1\. L'articolo 2 del decreto del Presidente della Repubblica 1 febbraio 1973, n. 50, e' sostituito dal seguente:
 
@@ -141,7 +139,7 @@ b) hanno maturato i periodi residenziali prescritti dall'articolo 1 ma non posso
 
 > Contro l'inclusione o l'esclusione nell'anzidetto elenco e' ammesso ricorso da parte di ogni cittadino alla commissione elettorale mandamentale.".
 
-#### Art. 3
+### Art. 3
 
 1\. L'articolo 3 del decreto del Presidente della Repubblica 1 febbraio 1973, n. 50, e' sostituito dal seguente:
 
@@ -177,7 +175,7 @@ Ai fini della votazione tali cittadini sono assegnati alla sezione nella cui cir
 
 > "Le liste rettificate, insieme con gli elenchi approvati, debbono rimanere depositate nella segreteria comunale rispettivamente dal 21 al 30 giugno e dal 21 al 31 dicembre, ed ogni cittadino ha diritto di prenderne visione. Dell'avvenuto deposito il sindaco da' pubblico avviso.".
 
-#### Art. 4
+### Art. 4
 
 1\. L'articolo 4 del decreto del Presidente della Repubblica 1 febbraio 1973, n. 50, e' sostituito dal seguente:
 
@@ -195,11 +193,9 @@ Ai fini della votazione tali cittadini sono assegnati alla sezione nella cui cir
 
 > \- Il decreto del Presidente della Repubblica 1 febbraio 1973, n. 50, e' citato nelle note alle premesse.
 
-## Capo II - Disposizioni per l'esercizio del diritto di voto
+## Capo II - Disposizioni per l'esercizio del diritto di voto nella provincia di Bolzano
 
-### nella provincia di Bolzano
-
-#### Art. 5
+### Art. 5
 
 1\. L'articolo 5 del decreto del Presidente della Repubblica 1 febbraio 1973, n. 50, e' sostituito dal seguente:
 
@@ -229,13 +225,13 @@ Nei comuni della Repubblica e' istituita la lista elettorale aggiunta nella qual
 
 ## Capo III - Disposizioni comuni e finali
 
-#### Art. 6
+### Art. 6
 
 Compilazione delle liste elettorali aggiunte
 
 1\. In prima applicazione, la compilazione delle liste elettorali aggiunte deve essere effettuata, da parte dei competenti organi, entro due mesi dalla data di entrata in vigore del presente decreto.
 
-#### Art. 7
+### Art. 7
 
 1\. Sono abrogati gli articoli 6, 7, 8, 9 e 11 del decreto del Presidente della Repubblica 1 febbraio 1973, n. 50, e il decreto del Presidente della Repubblica 15 luglio 1988, n. 295.
 

@@ -62,11 +62,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Riordino degli enti di ricerca
 
-### Riordino degli enti di ricerca
-
-#### Art. 1
+### Art. 1
 
 Obiettivi del riordino e definizioni
 
@@ -394,7 +392,7 @@ e) per DVS: il Documento di visione strategica decennale degli enti di ricerca, 
 
 > 2\. Sulla base degli indirizzi di cui al comma 1, delle risoluzioni parlamentari di approvazione del DPEF, di direttive del Presidente del Consiglio dei Ministri, dei piani e dei programmi di competenza delle amministrazioni dello Stato, di osservazioni e proposte delle predette amministrazioni, e' predisposto, approvato e annualmente aggiornato, ai sensi dell'art. 2 del presente decreto, il Programma nazionale per la ricerca (PNR), di durata triennale. Il PNR, con riferimento alla dimensione europea e internazionale della ricerca e tenendo conto delle iniziative, dei contributi e delle realta' di ricerca regionali, definisce gli obiettivi generali e le modalita' di attuazione degli interventi alla cui realizzazione concorrono, con risorse disponibili sui loro stati di previsione o bilanci, le pubbliche amministrazioni, ivi comprese, con le specificita' dei loro ordinamenti e nel rispetto delle loro autonomie ed attivita' istituzionali, le universita' e gli enti di ricerca. Gli obiettivi e gli interventi possono essere specificati per aree tematiche, settori, progetti, agenzie, enti di ricerca, anche prevedendo apposite intese tra le amministrazioni dello Stato.».
 
-#### Art. 2
+### Art. 2
 
 Autonomia statutaria
 
@@ -402,15 +400,15 @@ Autonomia statutaria
 
 2\. ((COMMA SOPPRESSO DAL D.LGS. 25 NOVEMBRE 2016, N. 218)).
 
-#### Art. 3
+### Art. 3
 
 ((ARTICOLO SOPPRESSO DAL D.LGS. 25 NOVEMBRE 2016, N. 218))
 
-#### Art. 4
+### Art. 4
 
 ((ARTICOLO SOPPRESSO DAL D.LGS. 25 NOVEMBRE 2016, N. 218))
 
-#### Art. 5
+### Art. 5
 
 Piani triennali di attivita' - PTA e Documento di visione strategica decennale degli enti di ricerca - DVS
 
@@ -422,7 +420,7 @@ Piani triennali di attivita' - PTA e Documento di visione strategica decennale d
 
 4\. ((COMMA SOPPRESSO DAL D.LGS. 25 NOVEMBRE 2016, N. 218)).
 
-#### Art. 6
+### Art. 6
 
 Regolamenti degli enti di ricerca
 
@@ -434,11 +432,11 @@ Regolamenti degli enti di ricerca
 
 > \- Il decreto legislativo 30 marzo 2001, n. 165 «Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche» e' pubblicato nella Gazzetta Ufficiale 9 maggio 2001, n. 106, S.O.
 
-#### Art. 7
+### Art. 7
 
 ((ARTICOLO SOPPRESSO DAL D.LGS. 25 NOVEMBRE 2016, N. 218))
 
-#### Art. 8
+### Art. 8
 
 Consiglio di amministrazione degli enti di ricerca
 
@@ -456,7 +454,7 @@ b) tre componenti negli altri casi.
 
 > «2. La nomina dei presidenti degli enti di ricerca, dell'Istituto per la ricerca scientifica e tecnologica sulla montagna, dell'ASI e dell'ENEA e' disposta con decreto del Presidente del Consiglio dei Ministri, previa deliberazione del Consiglio dei Ministri, su proposta del Ministro competente, sentite le commissioni parlamentari competenti, fatte salve le procedure di designazione previste dalla normativa vigente per specifici enti e istituzioni. I presidenti degli enti di cui al presente comma possono restare in carica per non piu' di due mandati. Il periodo svolto in qualita' di commissario straordinario e' comunque computato come un mandato presidenziale. I presidenti degli enti di cui al presente comma, in carica alla data di entrata in vigore del presente decreto, la cui permanenza nella stessa eccede i predetti limiti, possono terminare il mandato in corso.».
 
-#### Art. 9
+### Art. 9
 
 Consiglio nazionale delle ricerche ((...)) e Istituto nazionale di fisica nucleare
 
@@ -468,7 +466,7 @@ Consiglio nazionale delle ricerche ((...)) e Istituto nazionale di fisica nuclea
 
 4\. La composizione del consiglio direttivo dell'Istituto nazionale di fisica nucleare (INFN) e' ridotta dei due componenti rappresentativi degli enti di livello non ministeriale. Restano in vigore le particolari disposizioni del vigente ordinamento dell'ente relative alla nomina degli organi statutari.
 
-#### Art. 10
+### Art. 10
 
 Consigli scientifici o tecnico-scientifici
 
@@ -478,7 +476,7 @@ degli enti di ricerca
 
 2\. I consigli scientifici sono nominati dal consiglio di amministrazione, previo esperimento di forme di consultazione della comunita' scientifica ed economica, appositamente previste dagli statuti, e sono formati da non piu' di sette componenti.
 
-#### Art. 11
+### Art. 11
 
 Comitati di selezione dei presidenti e dei componenti dei consigli di amministrazione degli enti di ricerca di designazione governativa
 
@@ -518,7 +516,7 @@ AGGIORNAMENTO (7)
 
 L'aggiornamento in calce, disposto dall'art. 1, comma 3 del D.L. 30 luglio 2020, n. 83, e' stato eliminato; tale aggiornamento ha perso efficacia per effetto della modifica dell'Allegato 1 del D.L. 30 luglio 2020, n. 83 ad opera della L. 25 settembre 2020, n. 124, di conversione del suddetto D.L.
 
-#### Art. 12
+### Art. 12
 
 Organizzazione interna e dirigenza degli enti di ricerca
 
@@ -562,11 +560,11 @@ Organizzazione interna e dirigenza degli enti di ricerca
 
 > \- Il testo della legge 7 agosto 1990, n. 241 recante: «Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi», e' pubblicato nella Gazzetta Ufficiale 18 agosto 1990, n. 192.
 
-#### Art. 13
+### Art. 13
 
 ((ARTICOLO SOPPRESSO DAL D.LGS. 25 NOVEMBRE 2016, N. 218))
 
-#### Art. 14
+### Art. 14
 
 Riorganizzazione delle sedi degli enti di ricerca
 
@@ -588,7 +586,7 @@ Riorganizzazione delle sedi degli enti di ricerca
 
 > 4\. Nei confronti degli enti di cui al comma 1 che non abbiano predisposto, nei termini stabiliti, il piano di revisione per l'utilizzo degli immobili, i Ministri vigilanti adottano, ovvero propongono al Ministro del tesoro, del bilancio e della programmazione economica una riduzione, sino al venti per cento, dei contributi ordinari previsti nel bilancio preventivo dello Stato.»
 
-#### Art. 15
+### Art. 15
 
 Infrastrutture di ricerca
 
@@ -606,7 +604,7 @@ Infrastrutture di ricerca
 
 > «4. Le risorse acquisite dalla Fondazione istituto italiano di tecnologia ai sensi del comma 3, sono destinate al finanziamento di programmi per la ricerca applicata finalizzati alla realizzazione, sul territorio nazionale, di progetti in settori tecnologici altamente strategici e alla creazione di una rete di infrastrutture di ricerca di alta tecnologia localizzate presso primari centri di ricerca pubblici e privati.»
 
-#### Art. 16
+### Art. 16
 
 Strumenti innovativi di finanziamento
 
@@ -656,11 +654,9 @@ e partecipazione al capitale di rischio
 
 > 5\. La Fondazione Istituto Italiano di Tecnologia provvedera' agli adempimenti di cui all'articolo 20 delle disposizioni per l'attuazione del codice civile e disposizioni transitorie, di cui al regio decreto 30 marzo 1942, n. 318.».
 
-## Capo II
+## Capo II - Enti di ricerca del settore istruzione
 
-### Enti di ricerca del settore istruzione
-
-#### Art. 17
+### Art. 17
 
 Istituto nazionale per la valutazione del sistema di istruzione e di formazione
 
@@ -688,11 +684,9 @@ g) lo svolgimento di attivita' di supporto e assistenza tecnica alle regioni e a
 
 h) lo svolgimento di attivita' di formazione del personale docente e dirigente della scuola sui temi della valutazione in collaborazione con l'ANSAS.
 
-## Capo III
+## Capo III - Disposizioni finali, abrogazioni e disapplicazioni di norme
 
-### Disposizioni finali, abrogazioni - e disapplicazioni di norme
-
-#### Art. 18
+### Art. 18
 
 Disposizioni finali, abrogazioni
 

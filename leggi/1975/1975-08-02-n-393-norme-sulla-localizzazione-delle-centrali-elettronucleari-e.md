@@ -28,39 +28,37 @@ la seguente legge:
 
 ## Capo I - CENTRALI ELETTRONUCLEARI
 
-#### Art. 1
+### Art. 1
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 FEBBRAIO 2010, N. 31 ))
 
-#### Art. 2
+### Art. 2
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 FEBBRAIO 2010, N. 31 ))
 
-#### Art. 3
+### Art. 3
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 FEBBRAIO 2010, N. 31 ))
 
-#### Art. 4
+### Art. 4
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 FEBBRAIO 2010, N. 31 ))
 
-#### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 FEBBRAIO 2010, N. 31 ))
 
-#### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 FEBBRAIO 2010, N. 31 ))
 
-#### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 FEBBRAIO 2010, N. 31 ))
 
-## Capo II - CENTRALI TERMOELETTRICHE
+## Capo II - CENTRALI TERMOELETTRICHE E DERIVAZIONI IDROELETTRICHE
 
-### E DERIVAZIONI IDROELETTRICHE
-
-#### Art. 8
+### Art. 8
 
 Il Ministro per l'industria, il commercio e l'artigianato, su direttive del CIPE, in casi di straordinaria gravita' della situazione del mercato delle fonti di energia, e in particolare del petrolio, e di eccezionale disavanzo della bilancia dei pagamenti, a causa dell'andamento dei piani di determinate materie energetiche, nei cinque anni successivi all'entrata in vigore della presente legge, puo' far obbligo:
 
@@ -70,7 +68,7 @@ b) all'ENI di mettere a disposizione dell'ENEL il gas metano necessario.
 
 Il Ministro per l'industria, il commercio e l'artigianato, nei provvedimenti previsti nel primo comma, determina, sentito l'ENEL, le centrali termoelettriche nelle quali puo' essere utilizzato anche combustibile diverso dagli oli minerali, tenendo conto dell'ubicazione e delle caratteristiche tecniche delle centrali stesse, e di ogni elemento atto ad assicurare la minore variazione nell'inquinamento atmosferico della zona e la maggiore economicita' di gestione.
 
-#### Art. 9
+### Art. 9
 
 Il Ministro per l'industria, il commercio e l'artigianato, salvo parere contrario del Ministro per la sanita', con i decreti previsti nel precedente articolo 8, puo' autorizzare l'ENEL, per periodi limitati di tempo, a impiegare carboni da vapore con zolfo fino al 2 per cento, tenendo conto delle condizioni di mercato.
 
@@ -86,13 +84,13 @@ AGGIORNAMENTO (2)
 
 Il D.P.C.M. 28 marzo 1983 (in G.U. 28/05/1983, n. 145, S.O n. 30) ha disposto (con l'art. 4, comma 1) che "Con l'entrata in vigore dei limiti di cui all'allegato I cessano di aver vigore i corrispondenti limiti riportati nella tabella dell'art. 8 del decreto del Presidente della Repubblica 15 aprile 1971, n. 322, nell'art. 6 della legge 18 dicembre 1973, n. 880, e nell'art. 9 della legge 2 agosto 1975, n. 393".
 
-#### Art. 10
+### Art. 10
 
 Dopo il secondo comma dell'articolo 4 della legge 18 dicembre 1973, n. 880, e' aggiunto il seguente comma:
 
 "I progetti di cui al primo comma debbono prevedere, qualora ne faccia richiesta il Ministro per l'industria, il commercio e l'artigianato, soluzioni tecniche per l'utilizzazione diretta o mediante vendita in centrale e durante l'esercizio dell'impianto, di acqua calda e di vapore spillato, anche ai fini della produzione di acqua dolce mediante dissalazione di acqua di mare".
 
-#### Art. 11
+### Art. 11
 
 I comuni e le province possono assumere, ai sensi e con le modalita' di cui al regio decreto-legge 15 ottobre 1925, n. 2578, la costruzione e l'esercizio di stabilimenti per la produzione e la distribuzione di vapore acqueo, acqua calda o altra fonte termica di riscaldamento, anche abbinati alla produzione di energia elettrica.
 
@@ -100,11 +98,11 @@ Ai comuni, ai consorzi di comuni e alle aziende municipalizzate e' consentito pr
 
 Le disposizioni della legge 4 luglio 1967, n. 537, modificata con la legge 3 novembre 1971, n. 1069, sono estese agli impianti di cui ai commi precedenti realizzati dai comuni e dai consorzi di comuni, o dalle loro aziende speciali anche gia' esistenti.
 
-#### Art. 12
+### Art. 12
 
 Il Ministro per l'industria, il commercio e l'artigianato, con propri decreti, puo' disporre che, nel limite previsto dall'articolo 4, n. 8, della legge 6 dicembre 1962, n. 1643, non sia computata l'energia elettrica prodotta in centrali elettriche con il recupero del calore generato da impianti per l'incenerimento dei rifiuti o per il dissalamento delle acque di mare costruiti da imprese elettriche previste dal citato articolo 4, n. 8.
 
-#### Art. 13
+### Art. 13
 
 Le concessioni idroelettriche rinunciate dall'ENEL e quelle scadute per le quali l'ENEL non si e' avvalso della facolta' di cui al combinato disposto del terzo comma dell'articolo 25 del testo unico sulle acque e sugli impianti elettrici approvato con regio decreto 11 dicembre 1933, n. 1775, e del quinto comma dell'articolo 9 del decreto del Presidente della Repubblica 13 marzo 1965, n. 342, possono essere assentite a favore dei soggetti indicati nei numeri 5, 6, 8 dell'articolo 4 della legge 6 dicembre 1962, n. 1643, ai sensi delle disposizioni del citato testo unico delle leggi sulle acque e sugli impianti elettrici.
 
@@ -116,7 +114,7 @@ La domanda e' comunicata in copia dal Ministero dei lavori pubblici all'ENEL.
 
 Entro sessanta giorni dalla ricezione della comunicazione, l'ENEL ha facolta' di chiedere a proprio favore la concessione della derivazione idroelettrica per la quale e' stata presentata domanda dall'ente locale. Il Ministro per i lavori pubblici, d'intesa col Ministro per l'industria, il commercio e l'artigianato, decide sull'assegnazione all'ente locale o all'ENEL, fatti salvi gli scopi di cui al terzo comma del presente articolo e con l'obbligo di utilizzazione della concessione stessa. Decorso inutilmente il termine di sessanta giorni, il Ministro per i lavori pubblici decide la concessione all'ente locale.
 
-#### Art. 14
+### Art. 14
 
 Dopo l'ultimo comma dell'articolo 3 della legge 18 dicembre 1973, n. 880, sono aggiunti i seguenti commi:
 
@@ -124,7 +122,7 @@ Dopo l'ultimo comma dell'articolo 3 della legge 18 dicembre 1973, n. 880, sono a
 
 Dopo che sia stata determinata la localizzazione dell'impianto a norma dei commi precedenti, il Ministro per l'industria, il commercio e l'artigianato stabilisce i termini entro i quali debbono essere iniziati le espropriazioni e i lavori".
 
-#### Art. 15
+### Art. 15
 
 Per le opere di urbanizzazione secondaria che il comune deve eseguire in relazione alla costruzione di centrali termiche di qualsiasi tipo e di centrali idroelettriche di accumulazione mediante pompaggio, l'ENEL e' tenuto a corrispondere, in sostituzione degli obblighi previsti dalla legge 17 agosto 1942, n. 1150, e successive modificazioni, al comune nel cui territorio deve essere installato l'impianto, un contributo di L. 2.200 per chilowatt di potenza nominale dell'impianto stesso.
 
@@ -144,7 +142,7 @@ Il D.L. 7 febbraio 2002, n. 7, convertito con modificazioni, dalla L. 9 aprile 2
 
 ## Capo III - CENTRALI TURBOGAS
 
-#### Art. 16
+### Art. 16
 
 Fino al 31 dicembre 1979 la localizzazione e la costruzione di centrali turbogas dell'ENEL sono disciplinate dalle norme del presente capo.
 
@@ -152,17 +150,17 @@ Nei programmi di costruzione di centrali turbogas l'ENEL deve indicare almeno du
 
 I programmi predetti sono approvati, su proposta del Ministro per l'industria, il commercio e l'artigianato, dal CIPE con la partecipazione dei presidenti delle giunte regionali competenti per territorio.
 
-#### Art. 17
+### Art. 17
 
 Nei due mesi successivi alla data di comunicazione della deliberazione del CIPE, le regioni, d'intesa con i comuni interessati e sentito l'ENEL, scelgono l'area destinata alla costruzione o all'ampliamento delle centrali turbogas tra quelle indicate dall'ENEL.
 
 Qualora le regioni non provvedano nel termine indicato nel comma precedente, la localizzazione degli impianti e' effettuata dal CIPE.
 
-#### Art. 18
+### Art. 18
 
 Il Ministro per l'industria, il commercio e l'artigianato provvede all'istruttoria di sua competenza entro un mese dalla comunicazione delle localizzazioni, richiedendo il parere della commissione centrale contro l'inquinamento atmosferico, nella composizione di cui all'articolo 4, terzo comma, della legge 18 dicembre 1973, n. 880, e, ove necessario, il nulla osta delle competenti soprintendenze ai monumenti e alle antichita'.
 
-#### Art. 19
+### Art. 19
 
 L'autorizzazione alla costruzione e all'esercizio delle centrali turbogas e' data dal Ministro per l'industria, il commercio e l'artigianato.
 
@@ -170,19 +168,19 @@ Alle centrali turbogas si applica l'articolo 14 della presente legge.
 
 DISPOSIZIONI FINALI E TRANSITORIE
 
-#### Art. 20
+### Art. 20
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 FEBBRAIO 2010, N. 31 ))
 
-#### Art. 21
+### Art. 21
 
 E' abrogato il secondo comma dell'articolo 5 della legge 18 dicembre 1973, n. 880.
 
-#### Art. 22
+### Art. 22
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 FEBBRAIO 2010, N. 31 ))
 
-#### Art. 23
+### Art. 23
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 FEBBRAIO 2010, N. 31 ))
 

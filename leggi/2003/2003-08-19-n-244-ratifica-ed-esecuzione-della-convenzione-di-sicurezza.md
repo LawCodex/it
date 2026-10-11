@@ -25,15 +25,15 @@ Promulga
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la Convenzione di sicurezza sociale tra la Santa Sede e la Repubblica italiana, fatta a Citta' del Vaticano il 16 giugno 2000.
 
-##### Art. 2
+#### Art. 2
 
 1\. Piena ed intera esecuzione e' data alla Convenzione di cui all'articolo 1 a decorrere dalla sua entrata in vigore in conformita' a quanto disposto dall'articolo 39 della Convenzione stessa.
 
-##### Art. 3
+#### Art. 3
 
 1\. Per le finalita' di cui alla presente legge, la spesa prevista e' determinata in 8.621 migliaia di euro per l'anno 2003, in 9.397 migliaia di euro per l'anno 2004 ed in 20.819 migliaia di euro annui a decorrere dall'anno 2005, cui si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2003-2005, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno finanziario 2003, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri.
 
@@ -41,7 +41,7 @@ la seguente legge:
 
 3\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 4
+#### Art. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -67,7 +67,7 @@ La Santa Sede e la Repubblica Italiana
 
 animate dal desiderio di regolare i mutui rapporti nel campo della sicurezza sociale, tenuto conto della specificita' della Santa Sede e della particolarita' dei suoi rapporti con l'Italia, hanno convenuto di concludere in proposito una Convenzione ed hanno concordato quindi le seguenti disposizioni.
 
-##### Articolo 1
+#### Articolo 1
 
 Definizioni
 
@@ -119,7 +119,7 @@ r) "Prestazioni familiari": tutte le prestazioni in natura od in denaro destinat
 
 2\. Qualsiasi altra espressione o termine utilizzato nella presente Convenzione ha il significato che ai termini stessi viene attribuito dalla legislazione che risulti applicabile.
 
-##### Articolo 2
+#### Articolo 2
 
 Campo di applicazione quanto alla materia
 
@@ -149,25 +149,25 @@ d) l'assicurazione contro gli infortuni sul lavoro e le malattie professionali.
 
 4\. La presente Convenzione non si applica alle legislazioni italiane relative all'assegno sociale ed alle altre prestazioni non contributive erogate a carico di fondi pubblici, nonche' all'integrazione al trattamento minimo, salvo quanto previsto all'articolo 14.
 
-##### Articolo 3
+#### Articolo 3
 
 Campo di applicazione quanto alle persone
 
 La presente Convenzione si applica, indipendentemente dalla loro cittadinanza, ai lavoratori subordinati o autonomi, ai dipendenti vaticani e al personale che secondo la legislazione applicabile e' ad essi assimilato, che sono o sono stati soggetti alla legislazione di una o di entrambe le Parti contraenti, nonche' ai loro familiari e superstiti.
 
-##### Articolo 4
+#### Articolo 4
 
 Parita' di trattamento
 
 Con riserva delle disposizioni della presente Convenzione, le persone alle quali essa si applica sono sottoposte agli obblighi e sono ammesse ai benefici della legislazione di sicurezza sociale di ciascuna Parte contraente alle stesse condizioni delle persone che sono soggette unicamente alla legislazione di sicurezza sociale di tale Parte contraente.
 
-##### Articolo 5
+#### Articolo 5
 
 Esportabilita' delle prestazioni
 
 Salvo quanto diversamente disposto dalla presente Convenzione, le persone che hanno diritto a prestazioni in denaro, in base alle legislazioni di sicurezza sociale elencate al precedente articolo 2, le ricevono integralmente e senza limitazioni e restrizioni, ovunque esse risiedano.
 
-##### Articolo 6
+#### Articolo 6
 
 Ammissione all'assicurazione volontaria
 
@@ -175,7 +175,7 @@ Ammissione all'assicurazione volontaria
 
 2\. La disposizione di cui al comma 1 non autorizza la coesistenza dell'iscrizione all'assicurazione obbligatoria in virtu' della legislazione di una Parte contraente ed all'assicurazione volontaria in virtu' della legislazione dell'altra Parte contraente, se tale coesistenza non e' ammessa dalla legislazione di quest'ultima Parte.
 
-##### Articolo 7
+#### Articolo 7
 
 Divieto di cumulo
 
@@ -187,7 +187,7 @@ Divieto di cumulo
 
 ## TITOLO II - DISPOSIZIONI RELATIVE ALLA LEGISLAZIONE APPLICABILE
 
-##### Articolo 8
+#### Articolo 8
 
 Norme generali
 
@@ -199,7 +199,7 @@ a) il lavoratore occupato nel territorio di una Parte contraente e' soggetto all
 
 b) i dipendenti vaticani, indipendentemente dalla loro cittadinanza, e il personale che secondo la legislazione applicabile e' ad essi assimilato, sono soggetti alla legislazione della Santa Sede.
 
-##### Articolo 9
+#### Articolo 9
 
 Norme particolari
 
@@ -215,7 +215,7 @@ c) i lavoratori subordinati, non dipendenti vaticani, occupati nel territorio de
 
 i dipendenti vaticani, cittadini italiani, appartenenti ad alcune categorie di lavoratori da precisare nell'Accordo Amministrativo, sono iscritti, per gli eventi non gia' coperti dalle Istituzioni della Santa Sede, alle Istituzioni italiane per le legislazioni concernenti l'assicurazione per la vecchiaia, l'invalidita' e i superstiti e per l'assicurazione contro gli infortuni sul lavoro e le malattie professionali in conformita' alle Convenzioni stipulate o da stipulare tra le Istituzioni della Santa Sede e della Repubblica Italiana.
 
-##### Articolo 10
+#### Articolo 10
 
 Disposizioni varie
 
@@ -223,11 +223,9 @@ Le Autorita' Competenti delle due Parti contraenti possono prevedere di comune a
 
 ## TITOLO III - DISPOSIZIONI PARTICOLARI ALLE VARIE CATEGORIE DI PRESTAZIONI
 
-### CAPITOLO I
+### CAPITOLO I - INVALIDITA', VECCHIAIA E SUPERSTITI
 
-#### INVALIDITA', VECCHIAIA E SUPERSTITI
-
-##### Articolo 11
+#### Articolo 11
 
 Totalizzazione dei periodi di assicurazione e liquidazione delle prestazioni
 
@@ -259,7 +257,7 @@ b) stabilisce, quindi, l'importo effettivo della prestazione spettante all'inter
 
 La presente disposizione non potra' comportare che per uno stesso periodo di assicurazione una delle due Parti contraenti sia tenuta ad erogare piu' di una prestazione della stessa natura, autonoma o in pro-rata.
 
-##### Articolo 12
+#### Articolo 12
 
 Rivalutazione o modifica delle prestazioni e nuovo calcolo delle medesime
 
@@ -267,13 +265,13 @@ Rivalutazione o modifica delle prestazioni e nuovo calcolo delle medesime
 
 2\. Per contro, in caso di modifica del modo di determinazione o delle norme per il calcolo delle prestazioni, viene effettuato un nuovo calcolo conformemente all'articolo 11.
 
-##### Articolo 13
+#### Articolo 13
 
 Disposizioni particolari concernenti la liquidazione delle prestazioni
 
 Qualora un lavoratore, tenuto conto della totalizzazione dei periodi di assicurazione di cui al comma 1 del precedente articolo 11, non possa far valere nello stesso momento le condizioni richieste dalla legislazione delle due Parti contraenti, il suo diritto a pensione e' determinato nei riguardi di ogni legislazione a mano a mano che egli possa far valere tali condizioni.
 
-##### Articolo 14
+#### Articolo 14
 
 Trattamento minimo di pensione
 
@@ -281,15 +279,15 @@ Trattamento minimo di pensione
 
 2\. Le disposizioni del comma precedente non trovano applicazione qualora la pensione italiana sia calcolata esclusivamente secondo il metodo contributivo di cui al comma 5 dell'articolo 11.
 
-##### Articolo 15
+#### Articolo 15
 
 Ricalcolo dell'integrazione attribuita per il trattamento minimo di pensione
 
 Le variazioni dell'importo delle prestazioni intervenute in una Parte contraente in relazione all'aumento del costo della vita, alle variazioni del livello delle retribuzioni o ad altre cause di adeguamento comportano che l'altra Parte ricalcoli l'integrazione attribuita ai sensi dell'articolo 14 della presente Convenzione.
 
-## CAPITOLO II - INFORTUNI SUL LAVORO E MALATTIE PROFESSIONALI
+### CAPITOLO II - INFORTUNI SUL LAVORO E MALATTIE PROFESSIONALI
 
-##### Articolo 16
+#### Articolo 16
 
 Residenza in territorio della Parte contraente diverso da quello della Parte competente
 
@@ -299,25 +297,25 @@ a) delle prestazioni in natura relative all'infortunio o malattia professionale 
 
 b) delle prestazioni in denaro corrisposte dall'istituzione competente secondo le disposizioni della legislazione che essa applica, come se si trovassero sul territorio in cui ha sede detta Istituzione.
 
-##### Articolo 17
+#### Articolo 17
 
 Infortuni in itinere
 
 L'infortunio in itinere sopravvenuto sul territorio di una Parte contraente diverso dalla Parte competente e' considerato come sopravvenuto sul territorio di quest'ultima.
 
-##### Articolo 18
+#### Articolo 18
 
 Prestazioni in natura di grande importanza
 
 La concessione da parte dell'istituzione del luogo di soggiorno o di residenza delle protesi o delle altre prestazioni in natura di grande importanza, previste dall'Accordo Amministrativo di cui all'articolo 34 della presente Convenzione, e' subordinata, salvo casi di urgenza assoluta, all'autorizzazione dell'Istituzione competente.
 
-##### Articolo 19
+#### Articolo 19
 
 Rimborso tra Istituzioni
 
 L'istituzione competente e' tenuta a rimborsare l'importo effettivo delle prestazioni in natura corrisposte per suo conto in virtu' degli articoli 16 e 18. Le modalita' per il rimborso sono stabilite nell'Accordo Amministrativo previsto all'articolo 34.
 
-##### Articolo 20
+#### Articolo 20
 
 Prestazioni per malattia professionale se l'interessato e' stato esposto al rischio in una sola Parte contraente.
 
@@ -325,13 +323,13 @@ Prestazioni per malattia professionale se l'interessato e' stato esposto al risc
 
 2\. Cio' vale altresi' in caso di aggravamento della malattia, sempre che l'assicurato non sia stato nel frattempo ulteriormente esposto al rischio specifico nel territorio dell'altra Parte contraente.
 
-##### Articolo 21
+#### Articolo 21
 
 Prestazioni per malattia professionale se l'interessato e' stato esposto nelle due Parti contraenti
 
 Qualora un assicurato abbia contratto una malattia professionale dopo essere stato adibito nei territori di entrambe le Parti contraenti ad attivita' suscettibili di provocare la malattia secondo quanto prevista dalle legislazioni delle Parti stesse, si applica nei suoi confronti la legislazione di quella Parte contraente nel cui territorio rassicurato ha da ultimo svolto tale attivita' rischiosa.
 
-##### Articolo 22
+#### Articolo 22
 
 Aggravamento di una malattia professionale indennizzata
 
@@ -341,7 +339,7 @@ a) se l'assicurato non ha esercitato ulteriormente lavorazioni suscettibili di p
 
 b) se l'assicurato ha esercitato lavorazioni suscettibili di provocare o aggravare la malattia sul territorio dell'altra Parte contraente, egli avra' diritto ad essere indennizzato secondo la legislazione di questa Parte per la differenza tra il grado di incapacita' gia' indennizzato ed il nuovo grado riconosciutogli.
 
-##### Articolo 23
+#### Articolo 23
 
 Prestazioni dovute dall'istituzione competente nel caso in cui l'assicurato sia portatore di postumi per precedenti infortunio o malattia professionale verificatisi nel territorio dell'altra Parte contraente
 
@@ -349,21 +347,21 @@ Nel caso in cui si verifichi sul territorio di una Parte contraente un infortuni
 
 Tuttavia, qualora l'assicurato fosse gia' titolare di prestazioni per il precedente infortunio o per la precedente malattia professionale verificatisi nell'altra Parte contraente, l'istituzione competente per il nuovo evento, se tenuta alla costituzione di una rendita, provvedera' a corrispondere la sola differenza fra le due prestazioni.
 
-##### Articolo 24
+#### Articolo 24
 
 Notifica di infortunio grave tra Istituzioni
 
 Ogni infortunio sul lavoro di cui sia rimasto vittima un lavoratore di una delle due Parti occupato nel territorio dell'altra Parte, e che abbia causato o che potrebbe causare sia la morte, sia un'incapacita' permanente, totale o parziale, deve costituire, senza indugio, oggetto di notifica tra le Istituzioni competenti delle due Parti contraenti.
 
-## CAPITOLO III - PRESTAZIONI FAMILIARI
+### CAPITOLO III - PRESTAZIONI FAMILIARI
 
-##### Articolo 25
+#### Articolo 25
 
 Lavoratori
 
 Un lavoratore soggetto alla legislazione di una delle due Parti contraenti, ha diritto, per i familiari che risiedono sul territorio dell'altra Parte, alle prestazioni familiari previste dalla legislazione della prima, come se risiedessero sul territorio di quest'ultima Parte.
 
-##### Articolo 26
+#### Articolo 26
 
 Titolari di pensione o rendita
 
@@ -371,7 +369,7 @@ Titolari di pensione o rendita
 
 2\. Un titolare di pensioni o rendite dovute in virtu' delle legislazioni di entrambe le Parti contraenti ha diritto alle prestazioni familiari previste da ciascuna Parte, indipendentemente dalla residenza, nella proporzione tra i periodi di assicurazione compiuti in virtu' della legislazione che essa applica ed il totale dei periodi di assicurazione compiuti in virtu' della legislazione di entrambe le Parti contraenti.
 
-##### Articolo 27
+#### Articolo 27
 
 Sospensione delle prestazioni
 
@@ -379,7 +377,7 @@ Il diritto alle prestazioni familiari spettanti ai sensi dei precedenti articoli
 
 ## TITOLO IV - DISPOSIZIONI DIVERSE, TRANSITORIE E FINALI
 
-##### Articolo 28
+#### Articolo 28
 
 Cooperazione e assistenza reciproca delle
 
@@ -387,19 +385,19 @@ Autorita' e Istituzioni competenti
 
 Le Autorita' e le Istituzioni competenti delle due Parti contraenti si prestano reciproca assistenza e collaborazione per l'applicazione della presente Convenzione, come se applicassero le rispettive legislazioni; tale assistenza e' gratuita. Esse possono anche avvalersi, quando siano necessari mezzi istruttori nell'altra Parte, del tramite delle Autorita' Diplomatiche di tale Parte.
 
-##### Articolo 29
+#### Articolo 29
 
 Poteri particolari delle Autorita' Diplomatiche
 
 Le Autorita' Diplomatiche di ciascuna Parte contraente possono rivolgersi direttamente alle Autorita' od Istituzioni competenti dell'altra Parte per ottenere informazioni utili alla tutela degli aventi diritto e possono rappresentarli senza speciale mandato.
 
-##### Articolo 30
+#### Articolo 30
 
 Redditi in valuta
 
 Qualora la legislazione di una delle due Parti contraenti subordini a requisiti reddituali l'acquisizione del diritto a prestazioni, la sussistenza di tali requisiti dovra' essere accertata anche con riferimento a redditi prodotti nell'altra Parte contraente ed a quelli espressi in valuta estera, facendo ricorso al tasso di cambio applicabile l'ultimo giorno del periodo reddituale di riferimento stabilito dalla legislazione che l'istituzione competente applica.
 
-##### Articolo 31
+#### Articolo 31
 
 Esenzioni da tasse - Dispensa dal visto di legalizzazione
 
@@ -409,13 +407,13 @@ Esenzioni da tasse - Dispensa dal visto di legalizzazione
 
 3\. L'attestazione relativa all'autenticita' di un certificato o di un documento, oppure di una copia, rilasciata da Autorita', Istituzione competente o Organismo di collegamento di una Parte, sara' ritenuta valida dalle Autorita', Istituzioni competenti e Organismi di collegamento dell'altra Parte.
 
-##### Articolo 32
+#### Articolo 32
 
 Poteri particolari delle Autorita', Istituzioni competenti e Organismi di collegamento
 
 Le Autorita', le Istituzioni competenti e gli Organismi di collegamento delle due Parti contraenti possono corrispondere direttamente tra loro e con ogni altra persona dovunque questa risieda, tutte le volte che tale corrispondenza sia necessaria per l'applicazione della presente Convenzione.
 
-##### Articolo 33
+#### Articolo 33
 
 Presentazione istanze e documenti
 
@@ -427,19 +425,19 @@ Presentazione istanze e documenti
 
 4\. I ricorsi che debbono essere presentati entro un termine prescritto, ad una Autorita' o ad un'istituzione competente di una delle due Parti, sono considerati come presentati entro tale termine e essi sono stati presentati entro lo stesso termine ad una delle corrispondenti Autorita' od Istituzioni dell'altra Parte. In tal caso l'Autorita' o l'istituzione cui i ricorsi sono stati presentati li trasmette senza indugio all'Autorita' o all'Istituzione competente dell'altra Parte.
 
-##### Articolo 34
+#### Articolo 34
 
 Accordo Amministrativo di applicazione
 
 Le Autorita' competenti delle due Parti contraenti stabiliranno le disposizioni necessarie per l'applicazione della presente Convenzione in un Accordo Amministrativo che entrera' in vigore contemporaneamente alla Convenzione stessa.
 
-##### Articolo 35
+#### Articolo 35
 
 Impegno di comunicazione delle Autorita' competenti
 
 Le Autorita' competenti delle due Parti si comunicano tutte le disposizioni che modifichino o completino le legislazioni indicate all'articolo 2, nonche' tutti i provvedimenti adottati per l'applicazione della presente Convenzione.
 
-##### Articolo 36
+#### Articolo 36
 
 Perizie mediche
 
@@ -449,7 +447,7 @@ Perizie mediche
 
 3\. Le spese per gli accertamenti sanitari, nonche' quelle ad essi connesse, sostenute dall'istituzione di una Parte contraente su richiesta dell'Istituzione dell'altra Parte, sono a carico dell'Istituzione della Parte che ha richiesto gli accertamenti. Il rimborso sara' effettuato in conformita' alle disposizioni previste nell'Accordo Amministrativo di cui all'articolo 34 della presente Convenzione.
 
-##### Articolo 37
+#### Articolo 37
 
 Recupero di prestazioni
 
@@ -459,7 +457,7 @@ Recupero di prestazioni
 
 Quest'ultima Istituzione effettua la trattenuta alle condizioni e nei limiti previsti dalla legislazione che essa applica, e trasferisce l'importo trattenuto all'Istituzione creditrice.
 
-##### Articolo 38
+#### Articolo 38
 
 Disposizioni transitorie
 
@@ -467,13 +465,13 @@ Disposizioni transitorie
 
 2\. Tuttavia, ogni periodo di assicurazione compiuto in base alla legislazione di una Parte contraente prima della data di entrata in vigore della presente Convenzione, e' preso in considerazione per la determinazione dei diritti che sorgono in conformita' alle disposizioni della Convenzione. Analogamente sono presi in considerazione anche gli eventi accertati che si sono verificati prima dell'entrata in vigore della presente Convenzione.
 
-##### Articolo 39
+#### Articolo 39
 
 Ratifica ed entrata in vigore
 
 La presente Convenzione sara' ratificata e gli strumenti di ratifica saranno scambiati al piu' presto. Essa entrera' in vigore il primo giorno del terzo mese successivo a quello in cui avverra' lo scambio degli strumenti di ratifica.
 
-##### Articolo 40
+#### Articolo 40
 
 Durata
 
@@ -481,13 +479,13 @@ La presente Convenzione e' stipulata per una durata indeterminata.
 
 Essa potra' essere denunciata da ciascuna delle Parti contraenti e cessera' di essere in vigore dodici mesi dopo la relativa notifica per via diplomatica.
 
-##### Articolo 41
+#### Articolo 41
 
 Denuncia
 
 In caso di denuncia, le disposizioni della presente Convenzione rimarranno applicabili ai diritti acquisiti e i diritti in corso di acquisizione saranno riconosciuti in conformita' ad accordi complementari da stipularsi.
 
-##### Articolo 42
+#### Articolo 42
 
 Commissione paritetica per l'interpretazione o l'applicazione della Convenzione
 

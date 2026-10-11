@@ -27,15 +27,11 @@ Promulga
 
 la seguente legge:
 
-## TITOLO I
+## TITOLO I - RENDICONTO GENERALE DELLO STATO
 
-### RENDICONTO GENERALE DELLO STATO
+### CAPO I - CONTO DEL BILANCIO
 
-#### CAPO I
-
-##### CONTO DEL BILANCIO
-
-###### ART. 1 - Entrate
+#### ART. 1 - Entrate
 
 Le entrate tributarie, extratributarie, per alienazione e ammortamento di beni patrimoniali e riscossione di crediti, nonche' per accensione di presiiti, accertate nell'esercizio finanziario 2011 per la competenza propria dell'esercizio, risultano stabilite in euro 750.164.528.321,83.
 
@@ -45,7 +41,7 @@ Le entrate tributarie, extratributarie, per alienazione e ammortamento di beni p
 
 Parte di provvedimento in formato grafico
 
-###### ART. 2 - Spese
+#### ART. 2 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di passivita' finanziarie, impegnate nell'esercizio finanziario 2011 per la competenza propria dell'esercizio, risultano stabilite in euro 706.957.178.165,72.
 
@@ -55,37 +51,33 @@ Parte di provvedimento in formato grafico
 
 Parte di provvedimento in formato grafico
 
-###### ART. 3 - Avanzo della gestione di competenza
+#### ART. 3 - Avanzo della gestione di competenza
 
 1\. L'avanzo della gestione di competenza dell'esercizio finanziario 2011, di euro 43.207.350.156,11, risulta stabilito come segue:
 
 Parte di provvedimento in formato grafico
 
-###### ART. 4 - Situazione finanziaria
+#### ART. 4 - Situazione finanziaria
 
 1\. Il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 2011, di euro 160.585.022.834,47, risulta stabilito come segue:
 
 Parte di provvedimento in formato grafico
 
-###### ART. 5 - Allegati
+#### ART. 5 - Allegati
 
 1\. Sono approvati l'Allegato n. 1, annesso alla presente legge, previsto dall'articolo 28, comma 4, della legge 31 dicembre 2009, n. 196, nonche' l'Allegato n. 2, relativo alle eccedenze di impegni e di pagamenti risultate in sede di consuntivo per l'esercizio 2011 rispettivamente sul conto della competenza, sul conto dei residui e sul conto della cassa, relative alle unita' di voto degli stati di previsione della spesa dei Ministeri.
 
-## CAPO II
+### CAPO II - CONTO GENERALE DEL PATRIMONIO
 
-### CONTO GENERALE DEL PATRIMONIO
-
-###### ART. 6 - Risultati generali della gestione patrimoniale
+#### ART. 6 - Risultati generali della gestione patrimoniale
 
 1\. La situazione patrimoniale dell'Amministrazione dello Stato, al 31 dicembre 2011, resta stabilita come segue:
 
 Parte di provvedimento in formato grafico
 
-## TITOLO II
+## TITOLO II - AMMINISTRAZIONE E AZIENDE AUTONOME
 
-### AMMINISTRAZIONE E AZIENDE AUTONOME
-
-###### ART. 7 - Istituto agronomico per l'Oltremare
+#### ART. 7 - Istituto agronomico per l'Oltremare
 
 1\. Le entrate correnti del bilancio dell'Istituto agronomico per l'Oltremare, accertate nell'esercizio finanziario 2011 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Istituto stesso, allegato al conto consuntivo del Ministero degli affari esteri, in euro 3.288.578,61,
 
@@ -103,7 +95,7 @@ Parte di provvedimento in formato grafico
 
 Parte di provvedimento in formato grafico
 
-###### ART. 8 - Amministrazione autonoma dei Monopoli di Stato
+#### ART. 8 - Amministrazione autonoma dei Monopoli di Stato
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione autonoma dei Monopoli di Stato, comprese quelle delle gestioni speciali e autonome, accertate nell'esercizio finanziario 2011 per la competenza propria dell'esercizio, risultano stabilite nel conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'economia e delle finanze, in euro 15.988.781.262,71.
 
@@ -129,13 +121,13 @@ Parte di provvedimento in formato grafico
 
 Parte di provvedimento in formato grafico
 
-###### ART. 9 - Archivi notarili
+#### ART. 9 - Archivi notarili
 
 1\. L'avanzo della gestione del bilancio degli Archivi notarili, per l'esercizio finanziario 2011, risulta stabilito come segue:
 
 Parte di provvedimento in formato grafico
 
-###### ART. 10 - Fondo edifici di culto
+#### ART. 10 - Fondo edifici di culto
 
 1\. Le entrate correnti e in conto capitale del bilancio del Fondo edifici di culto, accertate nell'esercizio finanziario 2011 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo del Fondo stesso, allegato al conto consuntivo del Ministero dell'interno, in euro 11.573.165,71.
 
@@ -157,11 +149,9 @@ Parte di provvedimento in formato grafico
 
 Parte di provvedimento in formato grafico
 
-## TITOLO III
+## TITOLO III - APPROVAZIONE DEI RENDICONTI
 
-### APPROVAZIONE DEI RENDICONTI
-
-###### ART. 11 - Rendiconti
+#### ART. 11 - Rendiconti
 
 1\. Il rendiconto generale dell'Amministrazione dello Stato e i rendiconti delle Amministrazioni e delle Aziende autonome per l'esercizio 2011 sono approvati nelle risultanze di cui ai precedenti articoli.
 
@@ -197,7 +187,7 @@ Visto, il Guardasigilli: Severino
 
 ## Allegati
 
-###### Allegato N.1
+#### Allegato N.1
 
 Allegato N.1
 
@@ -763,7 +753,7 @@ l'assegnazione ha riguardato il Programma "Protezione civile" della missione "So
 
 € 306.459.865,00.
 
-###### Allegato N.2
+#### Allegato N.2
 
 Allegato N.2
 

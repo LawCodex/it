@@ -28,15 +28,13 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1 - Finalita'
+### Art. 1 - Finalita'
 
 Le disposizioni della presente legge sono dirette ad attuare, con interventi di carattere straordinario - nel quinquennio 1966-1970 - le Indicazioni del programma nazionale di sviluppo economico nel quadro dello Inserimento dell'agricoltura nazionale nel Mercato comune europeo, favorendo il consolidamento e l'adeguamento strutturale, funzionale ed economico delle Imprese, in specie di quelle familiari, per elevarne l'efficienza e la competitivita'. In particolare gli interventi saranno rivolti a promuovere: lo sviluppo di attivita' e servizi di carattere generale, la stabilizzazione dei prezzi e l'organizzazione dei mercati agricoli, l'acquisizione dei capitali di esercizio e di conduzione, lo sviluppo della cooperazione e delle altre forme di organizzazione dei produttori agricoli, lo sviluppo delle produzioni zootecniche ed il miglioramento, la difesa e la specializzazione delle colture arboree e delle coltivazioni ortofrutticole, l'adeguamento delle strutture aziendali ed interaziendali, la diffusione dell'irrigazione ed Il completamento e il ripristino di opere pubbliche di bonifica, lo sviluppo forestale, l'accesso al credito agrario.
 
-## TITOLO I - PROGRAMMA STRAORDINARIO PER LO SVILUPPO DI SERVIZI DI CARATTERE
+## TITOLO I - PROGRAMMA STRAORDINARIO PER LO SVILUPPO DI SERVIZI DI CARATTERE GENERALE
 
-### GENERALE
-
-#### Art. 2 - Sperimentazione
+### Art. 2 - Sperimentazione
 
 Il Ministero dell'agricoltura e delle foreste e' autorizzato a finanziare, in tutto o in parte, programmi di attivita' di ricerca e di sperimentazione a fini applicativi riguardanti le produzioni orticole, frutticole, olivicole, bieticole, ((il grano duro)) e la zootecnia e altri settori di particolare interesse per lo sviluppo agricolo e forestale, nonche' a concedere borse di studio per il perfezionamento di giovani laureati nel campo della sperimentazione agraria.
 
@@ -46,7 +44,7 @@ I finanziamenti concessi per l'attuazione dei programmi di cui ai commi preceden
 
 Il Ministero dell'agricoltura e delle foreste puo', altresi', disporre finanziamenti per dotare le stazioni sperimentali agrarie e gli altri istituti sperimentali, sottoposti alla sua vigilanza, di campi sperimentali, nonche' degli edifici e delle attrezzature tecnico-scientifiche occorrenti per lo svolgimento delle loro attivita'.
 
-#### Art. 3 - Delega per il riordinamento della sperimentazione agraria
+### Art. 3 - Delega per il riordinamento della sperimentazione agraria
 
 Il Governo della Repubblica e' delegato ad emanare, entro dodici mesi dalla data di entrata in vigore della presente legge, decreti aventi valore di legge ordinaria per la riorganizzazione ed il potenziamento della ricerca e della sperimentazione in agricoltura. I decreti delegati saranno informati ai seguenti criteri:
 
@@ -78,13 +76,13 @@ Il Comitato avra' facolta' di proporre programmi di ricerca.
 
 Le norme del presente articolo sono applicabili anche agli enti consorziali aventi compiti analoghi a quelli delle stazioni sperimentali agrarie consorziali.
 
-#### Art. 4 - Ricerche economiche e di mercato
+### Art. 4 - Ricerche economiche e di mercato
 
 Il Ministero dell'agricoltura e delle foreste e' autorizzato a provvedere alla realizzazione di indagini sistematiche e continuative sull'economia e contabilita' delle imprese agricole e sui mercati dei prodotti agricoli per la raccolta, l'elaborazione, la divulgazione adeguata e sistematica di dati e notizie utili a indirizzare la scelta degli investimenti produttivi e degli interventi pubblici in agricoltura e ad orientare l'offerta dei prodotti sul mercato. Le Indagini possono essere estese anche ai problemi della sociologia rurale, con particolare riguardo alle rilevazioni interessanti la popolazione attiva In agricoltura.
 
 Lo svolgimento delle suddette attivita' puo' essere affidato con apposite convenzioni all'Istituto nazionale di economia agraria e all'Istituto per le ricerche e le Informazioni di mercato e la valorizzazione della produzione agricola.
 
-#### Art. 5 - Attivita' dimostrativa e assistenza tecnica
+### Art. 5 - Attivita' dimostrativa e assistenza tecnica
 
 Il Ministero dell'agricoltura e delle foreste e' autorizzato ad attuare programmi ed Iniziative di carattere straordinario Interessanti l'assistenza tecnica, la divulgazione, l'attivita' dimostrativa e quella di orientamento economico delle imprese, nonche' la preparazione e la specializzazione professionale degli operatori e delle forze di lavoro delle aziende agricole - anche attraverso il promovimento di contatti con l'agricoltura di altri Paesi - con riguardo alle esigenze poste dallo sviluppo dell'agricoltura nelle diverse zone.
 
@@ -92,7 +90,7 @@ Esso e', altresi', autorizzato a concedere contributi, nella misura massima del 
 
 Spetta al Ministero dell'agricoltura e delle foreste di stabilire l'indirizzo e il coordinamento della materia di cui al presente articolo.
 
-#### Art. 6 - Assistenza tecnico-economica alla cooperazione
+### Art. 6 - Assistenza tecnico-economica alla cooperazione
 
 Il Ministero dell'agricoltura e delle foreste assume e promuove iniziative intese a favorire lo sviluppo della cooperazione nel settore agricolo, soprattutto mediante la divulgazione, la formazione professionale dei dirigenti e l'assistenza tecnica volta a realizzare e a consolidare iniziative cooperativistiche.
 
@@ -104,7 +102,7 @@ Detti mutui - che sono parificati alle operazioni di credito agrario di migliora
 
 ((Agli effetti del presente articolo sono considerate passivita' onerose le esposizioni afferenti a spese per investimenti fissi, per provvista di capitali di esercizio, per oneri di gestione o per altro titolo, purche' inerenti all'attivita' sociale, sulle quali non sia stato concesso il contributo in conto capitale od il concorso dello Stato nel pagamento degli interessi)).
 
-#### Art. 7 - Difesa fitosanitaria
+### Art. 7 - Difesa fitosanitaria
 
 Il Ministero dell'agricoltura e delle foreste, per assicurare una piu' estesa e razionale difesa delle colture da parassiti animali e vegetali e da malattie da virus, su consistenti aree territoriali, e' autorizzato a concedere contributi in favore di cooperative, consorzi ed associazioni di produttori agricoli, enti di sviluppo e, dove non operano detti organismi, anche a consorzi di bonifica e consorzi di miglioramento fondiario sulla spesa riconosciuta ammissibile:
 
@@ -120,15 +118,13 @@ Le aliquote di contributi di cui alla lettera a) sono estese anche alle operazio
 
 Il Ministero dell'agricoltura e delle foreste puo' attuare altresi' interventi assumendone le relative spese - volti ad eliminare focolai di infestazioni o di infezioni parassitarie che per la prima volta si manifestano nelle zone colpite.
 
-## TITOLO II - INTERVENTI PER LA STABILIZZAZIONE DEI PREZZI E LA ORGANIZZAZIONE DEI
+## TITOLO II - INTERVENTI PER LA STABILIZZAZIONE DEI PREZZI E LA ORGANIZZAZIONE DEI MERCATI AGRICOLI.
 
-### MERCATI AGRICOLI.
-
-#### Art. 8 - Interventi a sostegno di iniziative di produttori agricoli per la commercializzazione dei prodotti
+### Art. 8 - Interventi a sostegno di iniziative di produttori agricoli per la commercializzazione dei prodotti
 
 Il Ministero dell'agricoltura e delle foreste e' autorizzato a promuovere e favorire iniziative per la difesa economica dei prodotti agricoli e zootecnici, sussidiando l'esecuzione di operazioni collettive di raccolta, conservazione, lavorazione, trasformazione e vendita di tali prodotti da parte di cooperative e loro consorzi, di associazioni di produttori agricoli, di enti di sviluppo o di altri enti particolarmente qualificati. A tal fine puo' concedere un concorso negli interessi dei prestiti contratti per la corresponsione di acconti ai produttori agricoli conferenti nella misura massima del 5 per cento della somma mutuata, nonche' contributi fino al 90 per cento delle spese complessive di gestione.
 
-#### Art. 9 - Potenziamento delle strutture cooperative di trasformazione e commercializzazione dei prodotti agricoli
+### Art. 9 - Potenziamento delle strutture cooperative di trasformazione e commercializzazione dei prodotti agricoli
 
 ((Possono essere concessi contributi in conto capitale nella misura massima dei 50 per cento della spesa ammessa per l'acquisto o la costruzione da parte di cooperative e di loro consorzi, di associazioni dei produttori e di loro unioni, o di enti di sviluppo, delle strutture e relative attrezzature e pertinenze occorrenti ad assicurare la raccolta, conservazione, lavorazione, trasformazione e vendita dei prodotti agricoli e zootecnici e loro sottoprodotti. In aggiunta ai contributi, possono concedersi anche mutui integrativi a tasso agevolato per importo pari alla differenza tra la predetta spesa e il contributo. Nel caso di mutui assistiti dal concorso dello Stato negli interessi, il concorso stesso cessa alla data di estinzione dell'operazione. Gli interventi per l'acquisto di preesistenti impianti non potranno eccedere il 20 per cento dell'autorizzazione di spesa prevista dai relativi capitoli nell'anno di competenza)).
 
@@ -140,7 +136,7 @@ Ferme restando le disposizioni di cui al penultimo comma dell'articolo 20 della 
 
 Le predette agevolazioni sono applicabili anche per la costituzione nei centri o zone di consumo, anche all'estero, di depositi e di centri di smistamento o di vendita. Gli impianti realizzati all'estero con tali agevolazioni non possono, per un periodo di cinque anni, essere volontariamente alienati ne', comunque, distolti dalla loro destinazione alla valorizzazione dei prodotti italiani sotto pena di decadenza dal beneficio.
 
-#### Art. 10 - Impianti di interesse pubblico
+### Art. 10 - Impianti di interesse pubblico
 
 Il Ministero dell'agricoltura e delle foreste e' autorizzato a provvedere alla realizzazione di impianti di particolare interesse pubblico per la raccolta, conservazione, lavorazione, trasformazione e vendita di prodotti agricoli e zootecnici, nonche' alla realizzazione di impianti per la disinfestazione degli animali e dei prodotti agricoli nei valichi di frontiera e nei principali porti.
 
@@ -162,13 +158,13 @@ Le modalita' da osservarsi per la gestione senza fini di lucro degli impianti so
 
 ## TITOLO III - PROVVEDIMENTI PER FAVORIRE L'IMPIEGO DI CAPITALI DI ESERCIZIO
 
-#### Art. 11 - Credito di conduzione
+### Art. 11 - Credito di conduzione
 
 Possono essere concessi prestiti di conduzione al tasso del 3 per cento a favore di imprenditori agricoli, singoli od associati e di cooperative agricole, per gli scopi di cui all'articolo 2, n. 1), della legge 5 luglio 1928, n. 1760. I prestiti sono accordati, con preferenza, ai coltivatori diretti ed alle cooperative, in modo particolare a quelle che gestiscono impianti di conservazione, trasformazione e vendita dei prodotti agricoli e zootecnici.
 
 Si applicano per tali operazioni le disposizioni dell'articolo 19, commi secondo e seguenti, della legge 2 giugno 1961, n. 454.
 
-#### Art. 12 - Fondo per lo sviluppo della meccanizzazione agricola
+### Art. 12 - Fondo per lo sviluppo della meccanizzazione agricola
 
 Il fondo di cui al capo 111 della legge 25 luglio 1952, n. 949, e successive modificazioni ed integrazioni, assume la denominazione di "fondo per lo sviluppo della meccanizzazione in agricoltura" e la sua durata e' prorogata al 31 dicembre 1980. Esso e' destinato alla concessione di prestiti per l'acquisto di macchine agricole e connesse attrezzature, ivi comprese quelle destinate a centri dimostrativi od operativi di meccanica agraria aventi per scopo l'assistenza tecnica e la formazione professionale, gestiti da enti di sviluppo o da associazioni di produttori agricoli che svolgano tali attivita' a favore di propri associati, nonche' ad istituti o a scuole statali di meccanica agraria ad indirizzo professionale.
 
@@ -200,7 +196,7 @@ AGGIORNAMENTO (7)
 
 Il D.L. 13 agosto 1975, n. 377, convertito, con modificazioni, dalla L. 16 ottobre 1975, n. 493 ha disposto (con l'art. 7, comma 1) che "Il "fondo per lo sviluppo della meccanizzazione in agricoltura", di cui all'art. 12 della legge 27 ottobre 1966, n. 910, e successive integrazioni, e' ulteriormente incrementato della somma di lire 85 miliardi".
 
-#### Art. 13 - Fondo di rotazione per lo sviluppo della zootecnia
+### Art. 13 - Fondo di rotazione per lo sviluppo della zootecnia
 
 Il fondo di rotazione istituito con la legge 8 agosto 1957, n. 777, e' destinato alla concessione di prestiti per gli scopi ivi previsti nonche' per le iniziative di cui all'articolo 16, lettera a), della legge 2 giugno 1961, n. 454, con particolare riferimento agli interventi destinati allo sviluppo degli allevamenti bovini ed ovini.
 
@@ -220,7 +216,7 @@ Ha inoltre disposto (con l'art. 137) che "Salvo espressa disposizione in contrar
 
 ## TITOLO IV - SVILUPPO DELLA PRODUZIONE E ADEGUAMENTO DELLE STRUTTURE AZIENDALI
 
-#### Art. 14 - Zootecnia
+### Art. 14 - Zootecnia
 
 Per incoraggiare lo sviluppo ed il miglioramento del patrimonio zootecnico secondo criteri di opportuna concentrazione degli interventi nelle aree di piu' consolidata tradizione zootecnica ed in quelle dove vengano maturando le condizioni per l'insediamento di nuovi allevamenti, il Ministero dell'agricoltura e delle foreste adotta le Iniziative e concede i contributi previsti dalla legge 27 novembre 1956, n. 1367, esclusi quelli indicati alle lettere b), d) ed e) dell'articolo 1 della legge medesima, favorendo in particolare:
 
@@ -246,7 +242,7 @@ Sono prorogate fino al 31 dicembre 1970 le disposizioni per l'incremento ed il p
 
 ((Le provvidenze previste dalle leggi 21 marzo 1958, n. 290 e 14 febbraio 1963, n. 163, di cui al precedente comma, sono estese, in favore di cooperative tra pescatori legalmente costituite o loro consorzi, per la costruzione di magazzini di raccolta e di lavorazione dei prodotti ittici, nonche' per la realizzazione di impianti frigoriferi)).
 
-#### Art. 15 - Coltivazioni arboree
+### Art. 15 - Coltivazioni arboree
 
 Allo scopo di promuovere il miglioramento ed il potenziamento dell'agrumicoltura, dell'olivicoltura e di altre coltivazioni arboree e frutticole secondo criteri di opportuna concentrazione degli interventi nelle aree idonee a tali colture possono essere concessi, a favore di produttori agricoli singoli od associati, contributi in conto capitale sulla spesa riconosciuta ammissibile nella misura massima del 40 per cento, elevabile al 50 per cento nei territori di cui alla legge 10 agosto 1950, numero 646, e successive modificazioni ed integrazioni, e nei territori di cui al primo comma dell'articolo 44 del regio decreto 13 febbraio 1933, n. 215, e successive modificazioni ed integrazioni, per la realizzazione delle seguenti iniziative secondo tecniche riconosciute idonee nei singoli ambienti:
 
@@ -264,7 +260,7 @@ Nel caso di ricostituzione o trasformazione di vecchi agrumeti, effettuata media
 
 Le stesse aliquote di contributo previste dal primo comma del presente articolo si applicano anche per le concessioni disposte dopo l'entrata in vigore della presente legge ai sensi dell'articolo 14 della legge 2 giugno 1961, n. 454, e dell'articolo 7 della legge 23 maggio 1964 n. 404, salvo per quanto concerne gli acquisti di macchine ed attrezzature per la coltivazione degli oliveti e la raccolta delle olive, per i quali si applicano le aliquote previste dal primo comma dell'articolo 18 della citata legge 2 giugno 1961, n. 454.
 
-#### Art. 16 - Contributi e mutui per il miglioramento delle strutture aziendali
+### Art. 16 - Contributi e mutui per il miglioramento delle strutture aziendali
 
 Allo scopo di promuovere, mediante il miglioramento e l'ammodernamento delle strutture fondiarie, l'aumento delle produzioni e la riduzione dei costi di produzione, saranno concesse ad aziende agricole singole od associate agevolazioni contributive o creditizie per l'attuazione delle iniziative dirette:
 
@@ -310,7 +306,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 5 luglio 1971, n. 432, convertito, con modificazioni, dalla L. 4 agosto 1971, n. 592 ha disposto (con l'art. 2-septies, comma 2) che "Per la realizzazione di opere di irrigazione a servizio di piu' aziende il contributo dello Stato di cui al secondo comma del predetto articolo 16 della legge 27 ottobre 1966, n. 910, puo' essere elevato rispettivamente al 50 per cento e al 60 per cento nei territori specificati nella norma stessa".
 
-#### Art. 17 - Piani di viabilita' rurale e di approvvigionamento idrico
+### Art. 17 - Piani di viabilita' rurale e di approvvigionamento idrico
 
 Per la costruzione e il riattamento di strade vicinali ed interpoderali, nonche' per la costruzione di acquedotti, ricadenti nei territori di cui alle leggi 10 agosto 1950, n. 646 e 10 agosto 1950, n. 647, e successive modificazioni e integrazioni, e comunque nei territori classificati montani ai sensi della legge 25 luglio 1952, numero 991, possono essere concessi sussidi dal 75 all'87,50 per cento della spesa ritenuta ammissibile.
 
@@ -318,13 +314,13 @@ Ai benefici di cui al comma precedente sono ammesse le opere al servizio di una 
 
 In tutti gli altri casi il sussidio potra' essere concesso fino alla misura del 60 per cento.
 
-#### Art. 18 - Contributi per la costituzione di aziende silvo-pastorali
+### Art. 18 - Contributi per la costituzione di aziende silvo-pastorali
 
 Il Ministero dell'agricoltura e delle foreste puo' concedere contributi fino al limite massimo del 50 per cento della spesa ammissibile per l'esecuzione nei territori montani - sulla base di piani organici di miglioramento e di trasformazione aziendale - di opere e lavori strettamente connessi alla costituzione o potenziamento di imprese e di aziende a prevalente carattere silvo-pastorale, con particolare riguardo alla costituzione, alla sistemazione ed al miglioramento dei pascoli montani.
 
 I contributi possono essere concessi anche per il miglioramento dei terreni pascolivi dei comuni e di altri enti montani.
 
-#### Art. 19 - Sviluppo della elettrificazione agricola
+### Art. 19 - Sviluppo della elettrificazione agricola
 
 Nel quinquennio 1966-1970 saranno attuati piani di elettrificazione agricola per usi domestici ed aziendali, il cui onere e' posto per l'80 per cento a carico dello Stato e per il 20 per cento a carico dell'ente nazionale elettricita'.
 
@@ -342,11 +338,9 @@ Per l'espropriazione si osservano le disposizioni del testo unico 11 dicembre 19
 
 Per l'imposizione di servitu' si applicano le norme relative alla costruzione degli impianti telegrafici e telefonici.
 
-## TITOLO V - PROVVEDIMENTI PER LO SVILUPPO DELLA IRRIGAZIONE E PER LA ESECUZIONE,
+## TITOLO V - PROVVEDIMENTI PER LO SVILUPPO DELLA IRRIGAZIONE E PER LA ESECUZIONE, IL COMPLETAMENTO E IL RIPRISTINO DI OPERE PUBBLICHE DI BONIFICA
 
-### IL COMPLETAMENTO E IL RIPRISTINO DI OPERE PUBBLICHE DI BONIFICA
-
-#### Art. 20 - Completamento e ripristino di opere pubbliche di bonifica
+### Art. 20 - Completamento e ripristino di opere pubbliche di bonifica
 
 Allo scopo di assicurare la conveniente valorizzazione delle risorse naturali in comprensori di bonifica, saranno eseguiti programmi di opere pubbliche di bonifica aventi preminentemente lo scopo:
 
@@ -358,7 +352,7 @@ c) di ripristinare opere rese inefficienti da gravi cause o avversita' naturali.
 
 Sulle disponibilita' finanziarie relative agli interventi di cui al presente articolo e riservata alle opere irrigue una somma non inferiore al 50 per cento.
 
-#### Art. 21 - Concorso statale nella spesa di esecuzione delle opere di bonifica e di bonifica montana
+### Art. 21 - Concorso statale nella spesa di esecuzione delle opere di bonifica e di bonifica montana
 
 Sono poste a totale carico dello Stato, oltre le opere gia' previste dalle vigenti disposizioni:
 
@@ -372,7 +366,7 @@ d) i ripristini di opere pubbliche di bonifica, danneggiate o distrutte da eccez
 
 Per le altre opere di bonifica e di bonifica montana di competenza statale le aliquote di cui al secondo e al terzo comma dell'articolo 7 del regio decreto 13 febbraio 1933, n. 215, sono elevate rispettivamente dal 75 al 78, dall'87,50 al 91, dall'84 all'88 e dal 92 al 95 per cento.
 
-#### Art. 22 - Provvedimenti per il completamento delle reti idrauliche ed irrigue e per facilitare l'utilizzazione delle acque irrigue
+### Art. 22 - Provvedimenti per il completamento delle reti idrauliche ed irrigue e per facilitare l'utilizzazione delle acque irrigue
 
 Ai consorzi di bonifica, ai consorzi di irrigazione, agli enti autorizzati ad operare nei territori montani ai sensi della legge 25 luglio 1952, n. 991, ((agli enti di colonizzazione)) od enti di sviluppo che assumano, su richiesta dei proprietari interessati, l'esecuzione delle opere previste dall'articolo 26 della legge 2 giugno 1961, n. 454, possono essere concesse anticipazioni e liquidazioni sui contributi statali relativi a tali opere nei limiti e con le modalita' di cui all'articolo 9 del decreto del Presidente della Repubblica 23 giugno 1962, n. 948.
 
@@ -380,7 +374,7 @@ Il Ministro per l'agricoltura e foreste, sentito il Consiglio superiore dell'agr
 
 Per facilitare l'utilizzazione dell'acqua a scopo irriguo, potranno essere corrisposti contributi nelle spese consortili di esercizio fino ad un massimo del 40 per cento della spesa stessa, finche' l'estensione dell'irrigazione non consenta l'economico impiego dell'acqua e comunque per non oltre 5 anni dall'inizio dell'esercizio irriguo nel territorio interessato.
 
-#### Art. 23 - Consorzi di bonifica
+### Art. 23 - Consorzi di bonifica
 
 Per l'estinzione delle passivita' in essere alla data del 30 giugno 1965 i consorzi di bonifica ed i consorzi di bonifica montana possono essere autorizzati a contrarre mutui rimborsabili in un periodo fino a trentacinque anni e assistiti da contributo statale fino al 50 per cento della spesa di ammortamento.
 
@@ -400,7 +394,7 @@ Nel caso di mancanza o di insufficienza di disponibilita' di contributi consorti
 
 In relazione alla garanzia prestata ai sensi del precedente comma, nel caso di mancato pagamento da parte del consorzio mutuatario alle scadenze stabilite, il Ministero del tesoro, dietro semplice notifica della inadempienza, senza obbligo di preventiva escussione del debitore da parte dell'ente mutuante, provvedera' ad eseguire il pagamento delle rate scadute aumentate degli interessi nella misura stabilita dall'articolo 4 della legge 11 aprile 1938, n. 498, rimanendo sostituito all'ente mutuante stesso in tutte le ragioni di diritto nei confronti del consorzio mutuatario.
 
-#### Art. 24 - Opere pubbliche di bonifica montana
+### Art. 24 - Opere pubbliche di bonifica montana
 
 Nei comprensori di bonifica montana e nei bacini montani saranno attuati programmi straordinari di opere pubbliche riguardanti:
 
@@ -418,7 +412,7 @@ Salvo quanto previsto dal primo comma dell'articolo 21 della presente legge, son
 
 Le disposizioni degli articoli 89 e 90 del regio decreto 13 febbraio 1933, n. 215, e successive modificazioni si applicano anche a favore dei consorzi di bonifica montana.
 
-#### Art. 25 - Anticipazioni per le opere pubbliche di bonifica
+### Art. 25 - Anticipazioni per le opere pubbliche di bonifica
 
 Le disposizioni di cui agli articoli 24 e 26 della legge 2 giugno 1961, n. 454, sono prorogate al 31 dicembre 1970 e si applicano in tutti i territori classificati comprensori di bonifica o di bonifica montana.
 
@@ -426,17 +420,17 @@ Il recupero delle somme anticipate ai sensi del citato articolo 24 puo' essere e
 
 ## TITOLO VI - PROVVEDIMENTI PER LO SVILUPPO FORESTALE
 
-#### Art. 26 - Rimboschimenti nei bacini montani e nei comprensori di bonifica montana
+### Art. 26 - Rimboschimenti nei bacini montani e nei comprensori di bonifica montana
 
 Il Ministero dell'agricoltura e delle foreste e' autorizzato ad attuare interventi di rimboschimento e di ricostituzione boschiva nei perimetri dei bacini montani e nei comprensori di bonifica montana, soprattutto al fine di assicurare l'efficienza delle opere di sistemazione idraulica. E' altresi' autorizzato ad eseguire analoghi interventi per il consolidamento delle dune e sabbie mobili dei litorali, sempre che si tratti di terreni vincolati ai sensi del regio decreto 30 dicembre 1923, n. 3267.
 
-#### Art. 27 - Rimboschimenti di competenza dello Stato
+### Art. 27 - Rimboschimenti di competenza dello Stato
 
 Gli interventi di cui all'articolo 39 del regio decreto 30 dicembre 1923, n. 3267, sono effettuati a totale carico dello Stato anche nei comprensori di bonifica montana.
 
 Sono pure a totale carico dello Stato le opere di consolidamento delle dune e sabbie mobili dei litorali, sempre che siano inclusi in zone vincolate ai sensi del regio decreto 30 dicembre 1923, n. 3267.
 
-#### Art. 28 - Programma straordinario per l'istituzione di vivai forestali
+### Art. 28 - Programma straordinario per l'istituzione di vivai forestali
 
 Allo scopo di consentire la realizzazione di un organico sviluppo forestale, il Ministero dell'agricoltura e delle foreste e' autorizzato ((ad attuare un programma)) straordinario di produzione di piantine forestali da destinare alle iniziative di forestazione pubbliche e private.
 
@@ -444,7 +438,7 @@ Il programma riguardera' il potenziamento dei vivai gestiti dal Corpo forestale 
 
 I semi e le piantine saranno utilizzati per l'attuazione dei rimboschimenti direttamente effettuati dallo Stato o saranno ceduti, a titolo gratuito, per i lavori di rimboschimento effettuati dagli enti e dai privati.
 
-#### Art. 29 - Ampliamento del demanio forestale dello Stato
+### Art. 29 - Ampliamento del demanio forestale dello Stato
 
 L'Azienda di Stato per le foreste demaniali e' autorizzata ad acquistare o ad espropriare con le modalita' previste dagli articoli 112 e seguenti del regio decreto 30 dicembre 1923, n. 3267, terreni nudi, incolti, cespugliati e boscati, atti alla produzione forestale e foraggera o alla protezione della selvaggina. L'esproprio non puo' essere effettuato per i terreni che siano stati rimboschiti artificialmente ad iniziativa dei proprietari.
 
@@ -454,7 +448,7 @@ Sui terreni acquistati o espropriati, l'Azienda di Stato per le foreste demanial
 
 I terreni dell'Azienda di Stato per le foreste demaniali sono considerati di diritto bandite permanenti dello Stato con facolta' per l'azienda di catturare e vendere selvaggina a scopo di ripopolamento.
 
-#### Art. 30 - Sostituzione ad enti e privati per opere di rimboschimento
+### Art. 30 - Sostituzione ad enti e privati per opere di rimboschimento
 
 L'Azienda di Stato per le foreste demaniali e' autorizzata ad eseguire, per conto di Comuni, altri enti e privati che ne facciano richiesta, lavori di rimboschimento e di ricostituzione forestale, anche al di fuori dei territori classificati montani.
 
@@ -462,7 +456,7 @@ L'Azienda esegue i lavori direttamente o a mezzo di imprese private specializzat
 
 Le obbligazioni rispettive dell'Azienda di Stato per le foreste demaniali e del proprietario del terreno sono stabilite a mezzo di un contratto, redatto secondo lo schema che sara' approvato dal Ministero dell'agricoltura e delle foreste.
 
-#### Art. 31 - Contributi per rimboschimenti volontari
+### Art. 31 - Contributi per rimboschimenti volontari
 
 Allo scopo di favorire ed incoraggiare lo sviluppo forestale, sono concessi dal Ministero dell'agricoltura e delle foreste contributi per il rimboschimento di terreni nudi e cespugliosi, il miglioramento dei boschi esistenti, con particolare riguardo alla conversione dei cedui in fustaie o in bosco ad alto fusto pascolabile, la ricostituzione delle foreste danneggiate da incendio o da altre cause nonche' l'impianto di fasce frangivento.
 
@@ -472,7 +466,7 @@ Il contributo non puo' essere concesso piu' di una sola volta per lo stesso terr
 
 Per l'esecuzione delle iniziative sussidiate ai sensi dei precedenti commi puo' essere altresi' disposta la concessione gratuita, da parte del Corpo forestale dello Stato, delle piantine necessarie al rimboschimento. In tal caso nella determinazione del contributo non dovra' tenersi conto del costo delle piantine e dei semi impiegati.
 
-#### Art. 32 - Fondo forestale nazionale
+### Art. 32 - Fondo forestale nazionale
 
 E' istituito presso il Ministero dell'agricoltura e delle foreste un fondo forestale nazionale per promuovere la costituzione di nuovi boschi, la ricostituzione ed il miglioramento di quelli esistenti e per l'utilizzazione industriale e commerciale dei prodotti forestali.
 
@@ -490,7 +484,7 @@ Il D.P.R. 24 luglio 1977, n. 616 ha disposto (con l'art. 110, comma 1) che i fon
 
 Ha inoltre disposto (con l'art. 137) che "Salvo espressa disposizione in contrario le norme del presente decreto avranno effetto dal 1 gennaio 1978".
 
-#### Art. 33 - Agevolazioni fiscali per i terreni rimboschiti
+### Art. 33 - Agevolazioni fiscali per i terreni rimboschiti
 
 Ai terreni rimboschiti ed ai boschi ricostituiti e migliorati ai sensi della presente legge sono estese le esenzioni previste dal primo comma dell'articolo 59 del testo Unico delle leggi sulle imposte dirette approvato con il decreto del Presidente della Repubblica 29 gennaio 1958, n. 645. Per l'applicazione di tale esenzione Valgono le norme di cui al primo comma dell'articolo 60 del testo Unico stesso.
 
@@ -500,7 +494,7 @@ L'esenzione cessa nei casi di cui all'articolo 82 del regolamento per l'attuazio
 
 Le successioni fra ascendenti, discendenti e coniugi aventi per oggetto i boschi ricostituiti o migliorati per effetto della presente legge sono esenti dalle imposte di successione; sono inoltre esenti dalla imposta di donazione le donazioni tra ascendenti e discendenti aventi per oggetto detti boschi.
 
-#### Art. 34 - Contributi per la gestione dei patrimoni silvo-pastorali dei Comuni e degli altri enti
+### Art. 34 - Contributi per la gestione dei patrimoni silvo-pastorali dei Comuni e degli altri enti
 
 Alle aziende speciali costituite, ai sensi dell'articolo 139 del regio decreto 30 dicembre 1923, n. 3267, e successive modificazioni e integrazioni ed ai consorzi di Cui agli articoli 155 e seguenti dello Stesso regio decreto per la gestione dei beni silvo-pastorali dei Comuni e di altri enti puo' essere concesso un contributo nelle spese generali fino al limite massimo del 75 per cento delle spese fisse per il personale tecnico e di custodia per un periodo non superiore a 5 anni.
 
@@ -508,7 +502,7 @@ Ai Comuni ed agli altri enti che provvedono altresi' alla compilazione dei piani
 
 ## TITOLO VII - DISPOSIZIONI VARIE
 
-#### Art. 35 - Contributi per l'applicazione del regolamento comunitario n. 17/64
+### Art. 35 - Contributi per l'applicazione del regolamento comunitario n. 17/64
 
 Per l'esecuzione dei progetti ammessi ai benefici di cui alla parte seconda del regolamento n. 17 in data 5 febbraio 1)64 del Consiglio dei Ministri della Comunita' economica europea, relativo alle condizioni di concorso del Fondo europeo agricolo di orientamento e garanzia, possono essere concessi, In aggiunta ai Contributi a carico del FEOGA contributi in conto capitale.
 
@@ -522,7 +516,7 @@ I mutui di cui al precedente comma sono ammessi, per la durata di Un ventennio, 
 
 Alla concessione e liquidazione dei contributi e dei concorsi sui mutui, che non sono commutabili con alcun'altra provvidenza creditizia o contributiva, provvede il Ministero dell'agricoltura e delle foreste, cui spetta di stabilire, con apposito decreto, i criteri per l'attuazione degli interventi e del necessario coordinamento con quelli disposti in applicazione della presente legge.
 
-#### Art. 36 - Fondo interbancario di garanzia
+### Art. 36 - Fondo interbancario di garanzia
 
 La garanzia sussidiaria del Fondo interbancario di cui all'articolo 36 della legge 2 giugno 1961, n. 454, diventa operante dopo concluse le procedure di riscossione coattive sui beni contrattualmente Costituiti in garanzia anche in pendenza di altre procedure esecutive che gli istituti mutuanti avessero intrapreso su altri beni eventualmente posseduti dalle ditte mutuatarie inadempienti.
 
@@ -532,13 +526,13 @@ Tale disposizione si applica anche per i mutui a assistiti dalla garanzia del Fo
 
 Il termine del 30 giugno, di cui al nono comma, lettera a) del citato articolo 36 della legge 2 giugno 1961, n. 454, e' mutato in quello del 31 dicembre.
 
-#### Art. 37 - Spese generali
+### Art. 37 - Spese generali
 
 Con decreto del Ministro per il tesoro, di concerto con il Ministro per l'agricoltura e foreste, sara' provveduto, in ciascun esercizio, alla ripartizione ed alla conseguente iscrizione nello stato di previsione della spesa del Ministero dell'agricoltura e delle foreste dell'autorizzazione di spesa di cui all'articolo 44, lettera dd), per gli oneri di carattere generale derivanti dall'applicazione della presente legge.
 
 ## TITOLO VIII - COORDINAMENTO DEGLI INTERVENTI
 
-#### Art. 38 - Direttive regionali
+### Art. 38 - Direttive regionali
 
 Per la coordinata applicazione degli interventi di cui alla presente legge, saranno stabiliti con decreto del Ministro per l'agricoltura e le foreste i criteri generali in base ai quali gli interventi stessi dovranno esplicarsi.
 
@@ -550,7 +544,7 @@ Le direttive regionali sono predisposte, per le Regioni a statuto speciale, d'in
 
 Se il Comitato non si pronuncia entro due mesi dalla richiesta, il Ministro puo' emanare le direttive senza il suo parere, dopo averle sottoposte all'esame del Comitato interministeriale per la ricostruzione.
 
-#### Art. 39 - Piani zonali
+### Art. 39 - Piani zonali
 
 Il Ministero dell'agricoltura e delle foreste e' autorizzato ad elaborare piani per zone omogenee per tutto il territorio nazionale nell'ambito delle direttive di cui al precedente articolo.
 
@@ -564,7 +558,7 @@ I piani zonali sono elaborati previa consultazione del Comitato regionale per la
 
 ## TITOLO IX - DISPOSIZIONI FINALI E FINANZIARIE
 
-#### Art. 40 - Disposizioni comuni in materia di sussidi in conto capitale e di credito agevolato
+### Art. 40 - Disposizioni comuni in materia di sussidi in conto capitale e di credito agevolato
 
 Gli ispettori agrari compartimentali e gli ispettori regionali forestali nelle materie di rispettiva competenza provvedono alla concessione, alla liquidazione ed al pagamento dei sussidi in conto capitale e del concorso statale sui prestiti e mutui relativi ad opere ed acquisti comportanti una spesa preventivata fino a lire 50 milioni, per gli interventi di cui agli articoli 7, primo comma, 14, primo, secondo, terzo e quarto comma, 15, 16, 17, 18, 28 e 31.
 
@@ -590,23 +584,23 @@ Per gli interventi e le iniziative che il Ministero dell'agricoltura e delle for
 
 Per gli interventi diretti da attuare in applicazione della presente legge, il Ministero dell'agricoltura e delle foreste ed i suoi organi periferici possono effettuare spese in economia di importo non superiore a lire 3 milioni.
 
-#### Art. 41 - Trasporto all'esercizio successivo degli ordini di accreditamento
+### Art. 41 - Trasporto all'esercizio successivo degli ordini di accreditamento
 
 Gli ordini di accreditamento emessi dal Ministero dell'agricoltura e delle foreste per la concessione di contributi in conto capitale e per le spese riguardanti l'assistenza tecnica, l'attivita' fitosanitaria, la zootecnia, la bonifica montana, i rimboschimenti ed i vivai forestali, rimasti in tutto o In parte inestinti alla fine dell'esercizio finanziario, possono essere trasportati integralmente, o per la parte inestinta, all'esercizio successivo.
 
 Le somme di cui agli articoli 44 e 45, lettere d) e e), non utilizzate nell'anno per cui sono stanziate, possono essere utilizzate negli anni successivi.
 
-#### Art. 42 - Modalita' di erogazione del concorso dello Stato su prestiti e mutui
+### Art. 42 - Modalita' di erogazione del concorso dello Stato su prestiti e mutui
 
 Le disposizioni dell'articolo 34 della legge 2 giugno 1961, n. 454, si applicano anche per i mutui e per i prestiti assistiti da concorso statale ai termini della presente legge.
 
-#### Art. 43 - Agevolazioni tributarie
+### Art. 43 - Agevolazioni tributarie
 
 Le domande intese ad ottenere i contributi ed i concorsi statali di cui alla presente legge sono esenti da bollo.
 
 Il disposto dell'articolo 37 della legge 2 giugno 1961, n. 454, si applica anche per i lavori di trasformazione e di bonifica ivi Indicati, che siano stati eseguiti od iniziati nel quinquennio dal 1966 al 1970.
 
-#### Art. 44 - Autorizzazione di spesa
+### Art. 44 - Autorizzazione di spesa
 
 E' autorizzata, per ciascuno degli esercizi finanziari 1966 e 1967, la spesa di:
 
@@ -668,7 +662,7 @@ dd) lire 1.500 milioni per le spese generali di cui all'articolo 37;
 
 ee) lire 200 milioni per le spese relative agli adempimenti di cui all'articolo 57.
 
-#### Art. 45 - Autorizzazione di spesa
+### Art. 45 - Autorizzazione di spesa
 
 E' autorizzata, per ciascuno degli esercizi finanziari dal 1968 al 1970, la spesa di:
 
@@ -736,7 +730,7 @@ AGGIORNAMENTO (4)
 
 Il D.L. 30 settembre 1969, n. 646, convertito con modificazioni dalla L. 26 novembre 1969, n. 828 ha disposto (con l'art. 1, numero 4)) che "Per la ripresa dell'efficienza produttiva delle aziende agricole che abbiano riportato gravi danni in conseguenza delle eccezionali avversita' atmosferiche o delle eccezionali calamita' naturali verificatesi entro il 31 dicembre 1969 sono disposte le seguenti autorizzazioni di spesa [...] per la concessione di contributi e concorsi statali di cui all'articolo 8 della legge 27 ottobre 1966, n. 910, al fine di favorire la commercializzazione delle produzioni danneggiate in conseguenza degli eventi contemplati dal presente decreto, lire 800 milioni in aumento alle autorizzazioni di spesa di cui alla lettera f) dell'articolo 45 della richiamata legge 27 ottobre 1966, n. 910".
 
-#### Art. 46 - Autorizzazione di spesa
+### Art. 46 - Autorizzazione di spesa
 
 Per l'attuazione degli interventi di cui ai sottoindicati articoli sono stabiliti i seguenti limiti di impegno:
 
@@ -794,51 +788,51 @@ per il limite di impegno relativo alla concessione dei concorsi negli interessi 
 
 lire 1.000 milioni per l'esercizio finanziario 1966; lire 2.000 milioni per l'esercizio finanziario 1967; lire 4.100 milioni per l'esercizio finanziario 1968; lire 6.200 milioni per l'esercizio finanziario 1969; lire 8.300 milioni per ciascuno degli esercizi finanziari dal 1970 al 1987; lire 7.300 milioni per l'esercizio finanziario 1988; lire 6.300 milioni per l'esercizio finanziario 1989; lire 4.200 milioni per l'esercizio finanziario 1990; lire 2.100 milioni per l'esercizio finanziario 1991.
 
-#### Art. 47 - Variazioni compensative
+### Art. 47 - Variazioni compensative
 
 Con la legge di approvazione del bilancio negli anni dal 1967 al 1970, potranno essere approvate, su richiesta del Ministro dell'agricoltura e delle foreste, variazioni compensative alle autorizzazioni integrative di spesa previste per i relativi esercizi dalla presente legge.
 
-#### Art. 48 - Norme finanziarie
+### Art. 48 - Norme finanziarie
 
 L'annualita' da versare al Fondo per l'acquisto dei buoni del Tesoro poliennali e per l'ammortamento di altri titoli di debito pubblico, ai sensi dell'articolo 7 del decreto-legge 23 febbraio 1958, n. 8, convertito nella legge 23 febbraio 1958, n. 84, e' ridotta per l'anno 1966 di lire 4.100 milioni.
 
-#### Art. 49 - Norme finanziarie
+### Art. 49 - Norme finanziarie
 
 Alla spesa derivante dall'applicazione degli articoli 6, secondo e terzo comma, 16, 23, 34 e 35 della presente legge per l'anno finanziario 1966, negli importi indicati all'articolo 46, si provvede con le disponibilita' derivanti dalla riduzione, per l'anno stesso, di cui al precedente articolo 48.
 
-#### Art. 50 - Norme finanziarie
+### Art. 50 - Norme finanziarie
 
 Per far fronte alle altre spese considerate dalla presente legge il Ministro per il tesoro e' autorizzato a ((contrarre con il Consorzio)) di credito per le opere pubbliche dal 1966 al 1970 mutui fino alla concorrenza di un ricavo netto complessivo pari all'ammontare delle spese stesse per ciascun esercizio.
 
-#### Art. 51 - Norme finanziarie
+### Art. 51 - Norme finanziarie
 
 I mutui di cui al precedente articolo 50, da ammortizzarsi in un periodo non superiore a vent'anni, saranno contratti nelle forme, alle condizioni e con le modalita' che verranno stabilite con apposite convenzioni da stipularsi tra il Ministro per il tesoro ed il Consorzio di credito per le opere pubbliche e da approvarsi con decreti del Ministro medesimo.
 
 Il servizio dei mutui contratti nell'anno 1966, maggiorati degli interessi di pre-ammortamento, sara' assunto dal Ministero del tesoro a partire dall'anno finanziario 1967. Il servizio dei mutui relativi agli anni dal 1967 al 1970 sara' assunto dal Ministero del tesoro a partire dall'esercizio finanziario nel quale I mutui stessi saranno contratti. Le rate di ammortamento saranno iscritte negli stati di previsione della spesa del Ministero del tesoro e specificatamente vincolate a favore del Consorzio di credito per le opere pubbliche.
 
-#### Art. 52 - Norme finanziarie
+### Art. 52 - Norme finanziarie
 
 Il Ministro per il tesoro e' autorizzato a provvedere, con propri decreti, negli esercizi dal 1966 if 1970 alle variazioni di bilancio connesse con l'applicazione della presente legge.
 
-#### Art. 53 - Ripartizione territoriale della spesa
+### Art. 53 - Ripartizione territoriale della spesa
 
 Per gli interventi da effettuare nei territori di cui alla legge 10 agosto 1950, n. 646, e successive modificazioni ed integrazioni, e' riservata una quota della spesa complessiva autorizzata con la presente legge non inferiore al 40 per cento. Tali interventi saranno effettuati avendo particolare riguardo alle esigenze dei territori esterni ai comprensori di zone irrigue e alle zone di valorizzazione agricola di cui alla legge 26 giugno 1965, numero 717.
 
 Le disposizioni della presente legge sono applicabili anche a favore delle regioni a statuto speciale, cui il Ministro per l'agricoltura e per le foreste assegnera' annualmente uno quota parte degli stanziamenti che potranno essere utilizzati anche dagli Istituti od enti di Interesse agricolo o forestale, istituiti a norma delle leggi regionali. A tal fine le regioni devono comunicare annualmente al Ministero la situazione degli impegni assunti e gli altri elementi indicati nel successivo articolo 57.
 
-#### Art. 54 - Erogazioni in favore degli enti di sviluppo
+### Art. 54 - Erogazioni in favore degli enti di sviluppo
 
 Le somme occorrenti per la realizzazione di opere, attivita' e di interventi rientranti in piani o programmi elaborati dagli enti di sviluppo ed approvati dal Ministero dell'agricoltura e delle foreste, in applicazione della presente legge e delle altre leggi in vigore, sono assegnate ed erogate ai sensi dell'articolo 6 della legge 14 luglio 1965, n. 901.
 
-#### Art. 55 - Applicabilita' delle norme ai mezzadri e ai coloni
+### Art. 55 - Applicabilita' delle norme ai mezzadri e ai coloni
 
 I contributi e le altre agevolazioni previste dalla presente legge sono applicabili a favore dei mezzadri e coloni anche nei casi previsti dall'articolo 8 della legge 15 settembre 1964, n. 756, ed a favore degli affittuari nei casi previsti dall'articolo 1632 del codice civile.
 
-#### Art. 56 - Garanzia sussidiaria del Fondo interbancario
+### Art. 56 - Garanzia sussidiaria del Fondo interbancario
 
 I mutui ed i prestiti di cui alla presente legge, quando siano concessi in favore di coltivatori diretti, mezzadri e coloni, singoli od associati, e cooperative agricole, sono assistiti dalla garanzia sussidiaria del Fondo interbancario, istituito con l'articolo 36 della legge 2 giugno 1961, n. 454, sino all'ammontare della complessiva perdita che istituti ed enti autorizzati ad esercitare il credito agrario dimostreranno di aver sofferto dopo l'esperimento delle procedure di riscossione coattiva.
 
-#### Art. 57 - Relazione annuale
+### Art. 57 - Relazione annuale
 
 In allegato allo stato di previsione della spesa del Ministero dell'agricoltura e delle foreste sara' presentata annualmente la relazione sullo stato di attuazione della presente legge con l'indicazione, per ciascun settore e categoria di aziende, regione per regione, degli interventi disposti, degli investimenti provocati e dei relativi contributi.
 
@@ -846,7 +840,7 @@ I provvedimenti con cui si dispongono le erogazioni previste dalla presente legg
 
 Il Ministero dell'agricoltura e delle foreste pubblichera' in un notiziario i dati relativi all'attuazione della presente legge nonche' le disposizioni a tal fine emanate ed e' autorizzato alle spese di rilevazione, elaborazione e stampa dei dati.
 
-#### Art. 58 - Semplificazione delle procedure
+### Art. 58 - Semplificazione delle procedure
 
 Il Governo della Repubblica e' delegato ad emanare, entro sei mesi dall'entrata In vigore della presente legge, norme dirette a facilitare e rendere piu' sollecite le procedure di concessione dei contributi e delle agevolazioni creditizie, riducendo e uniformando i tipi di relazioni da allegare, le documentazioni tecniche e gli altri adempimenti a carico dei richiedenti e stabilendo forme semplificate per l'esecuzione degli accertamenti preventivi e successivi di ufficio Le norme di cui al comma precedente verranno emanate sentita una Commissione parlamentare composta da dieci senatori e dieci deputati.
 

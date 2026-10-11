@@ -27,19 +27,19 @@ Promulga
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo tra la Repubblica italiana e la Repubblica di Macedonia, ora Repubblica della Macedonia del Nord, in materia di sicurezza sociale, fatto a Skopje il 25 luglio 2014.
 
-##### Art. 2
+#### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 48 dell'Accordo stesso.
 
-##### Art. 3
+#### Art. 3
 
 Disposizioni finanziarie
 
@@ -47,7 +47,7 @@ Disposizioni finanziarie
 
 2\. Dall'attuazione dell'Accordo di cui all'articolo 1, considerato quanto previsto al comma 1, non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni competenti svolgono le attivita' previste dalla presente legge con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
-##### Art. 4
+#### Art. 4
 
 Entrata in vigore
 
@@ -89,7 +89,7 @@ TITOLO I
 
 Disposizioni generali
 
-##### Articolo 1
+#### Articolo 1
 
 Definizioni
 
@@ -125,7 +125,7 @@ Definizioni
 
 (2) Qualsiasi altra espressione o termine utilizzato nel presente Accordo ha il significato attribuito dalla legislazione applicabile.
 
-##### Articolo 2
+#### Articolo 2
 
 Campo di applicazione materiale
 
@@ -167,7 +167,7 @@ In Macedonia:
 
 (6) Il presente Accordo verra' attuato, altresi', in conformita' con le disposizioni dell'Accordo di Stabilizzazione e di Associazione tra le Comunita' Europee e gli Stati Membri da una parte, e la Macedonia dall'altra, firmato il 9 aprile 2001, ed entrato in vigore il 1° aprile 2004.
 
-##### Articolo 3
+#### Articolo 3
 
 Campo di applicazione personale
 
@@ -175,23 +175,21 @@ Campo di applicazione personale
 
 (2) Il presente Accordo si applica anche ai profughi ai sensi della Convenzione del 28 luglio 1951 sullo status dei profughi e relativo Protocollo del 31 gennaio 1967 e agli apolidi ai sensi della Convenzione del 28 settembre 1954 relativa allo status degli apolidi residenti nel territorio di uno Stato contraente, che sono o sono stati assoggettati alla legislazione di uno o di entrambi gli Stati contraenti, nonche' ai loro familiari e superstiti.
 
-##### Articolo 4
+#### Articolo 4
 
 Parita' di trattamento
 
 Salvo quanto diversamente disposto dal presente Accordo, le persone alle quali si applica il presente Accordo godono delle stesse prestazioni e sono soggette agli stessi obblighi previsti dalla legislazione di ciascuno Stato contraente alle stesse condizioni dei cittadini di tale Stato. Per quanto riguarda l'Italia, la parita' di trattamento sara' assicurata anche ai cittadini dell'Unione Europea.
 
-## TITOLO\_II
+## TITOLO\_II - Disposizioni sulla legislazione applicabile
 
-### Disposizioni sulla legislazione applicabile
-
-##### Articolo 5
+#### Articolo 5
 
 Disposizioni generali
 
 Salvo quanto diversamente previsto ai successivi artt. 6 e 7, i lavoratori ai quali si applicano le disposizioni del presente Accordo sono soggetti alla legislazione dello Stato contraente in cui svolgono la loro attivita' lavorativa.
 
-##### Articolo 6
+#### Articolo 6
 
 Disposizioni particolari
 
@@ -211,25 +209,25 @@ Le disposizioni stabilite dall'art. 5 comportano le seguenti eccezioni:
 
 7\) I lavoratori dipendenti da una pubblica amministrazione ed il personale equiparato di uno degli Stati contraenti, che nell'esercizio delle loro funzioni, vengono inviati nel territorio dell'altro Stato contraente, rimangono assoggettati, unitamente ai loro familiari, alla legislazione dello Stato contraente al quale appartiene l'Amministrazione da cui dipendono.
 
-##### Articolo 7
+#### Articolo 7
 
 Disposizioni particolari per il personale diverso da quello appartenente ai ruoli delle Rappresentanze diplomatiche
 
 Il personale delle Rappresentanze diplomatiche e degli Uffici consolari diverso da quello specificato al punto «6» dell'art. 6, nonche' il personale domestico al servizio privato di Agenti diplomatici e consolari, o di altri membri di dette Missioni diplomatiche e Uffici consolari, puo' optare per la legislazione dello Stato d'invio secondo le disposizioni dell'Intesa Amministrativa di cui all'art. 35, a condizione che siano cittadini di tale Stato.
 
-##### Articolo 8
+#### Articolo 8
 
 Eccezioni agli articoli 5 e 6
 
 Le Autorita' competenti dei due Stati contraenti o le Istituzioni da esse delegate possono prevedere di comune accordo, eccezioni, in deroga a quanto previsto dagli articoli 5 e 6 del presente Accordo, nell'interesse dei lavoratori.
 
-##### Articolo 9
+#### Articolo 9
 
 Esportabilita' delle prestazioni in denaro
 
 Salvo quanto diversamente disposto nel presente Accordo, i lavoratori aventi diritto a prestazioni in denaro da uno Stato contraente le riceveranno a parita' di trattamento con i cittadini di tale Stato sul territorio dell'altro Stato contraente o di uno Stato terzo.
 
-##### Articolo 10
+#### Articolo 10
 
 Assicurazione volontaria
 
@@ -239,19 +237,17 @@ Assicurazione volontaria
 
 (3) La disposizione di cui al primo comma non autorizza l'iscrizione simultanea all'assicurazione obbligatoria di uno Stato contraente e all'assicurazione volontaria dell'altro Stato, nel caso in cui una tale possibilita' non sia consentita dalla legislazione di quest'ultimo Stato.
 
-##### Articolo 11
+#### Articolo 11
 
 Totalizzazione
 
 Ai fini dell'acquisizione, del mantenimento o del recupero del diritto alle prestazioni in denaro o in natura, previste dal presente Accordo, i periodi di assicurazione o equivalenti, compiuti in virtu' della legislazione di uno Stato contraente, sono totalizzati, se necessario, con i periodi di assicurazione o equivalenti, compiuti ai sensi della legislazione dell'altro Stato contraente, sempre che non si sovrappongano.
 
-## TITOLO III
+## TITOLO III - Disposizioni particolari
 
-### Disposizioni particolari - Capitolo I
+### Capitolo I - Malattia (ivi compresa la Tubercolosi) e Maternità
 
-#### Malattia (ivi compresa la Tubercolosi) e Maternità
-
-##### Articolo 12
+#### Articolo 12
 
 Prestazioni
 
@@ -259,7 +255,7 @@ Prestazioni
 
 (2) Le disposizioni del primo comma del presente articolo si applicano, per quanto riguarda le prestazioni in natura, ai familiari del lavoratore che lo accompagnano.
 
-##### Articolo 13
+#### Articolo 13
 
 Prestazioni in caso di soggiorno di breve durata
 
@@ -273,7 +269,7 @@ Prestazioni in caso di soggiorno di breve durata
 
 (3) Le disposizioni del comma 1 sono applicabili, per quanto riguarda le prestazioni in natura, ai familiari del lavoratore, ai titolari di pensione o di rendita ed ai rispettivi familiari, nonche' alle persone affiliate per altro titolo all'assicurazione obbligatoria per malattia nel proprio Stato.
 
-##### Articolo 14
+#### Articolo 14
 
 Prestazioni per i pensionati
 
@@ -281,19 +277,19 @@ Prestazioni per i pensionati
 
 (2) I titolari di una pensione o di una rendita dovuta in virtu' della legislazione di un solo Stato contraente, nonche' i loro familiari, che risiedono sul territorio dell'altro Stato contraente, hanno diritto a ricevere, per conto dell'Istituzione competente, le prestazioni in natura da parte dell'Istituzione del luogo di residenza, secondo la legislazione che quest'ultima applica.
 
-##### Articolo 15
+#### Articolo 15
 
 Prestazioni per i familiari
 
 I familiari del lavoratore residenti nello Stato contraente diverso da quello competente beneficiano delle prestazioni in natura erogate per conto dell'Istituzione competente da parte dell'Istituzione del luogo di residenza, secondo la legislazione che quest'ultima applica.
 
-##### Articolo 16
+#### Articolo 16
 
 Protesi e grandi apparecchi
 
 La concessione di protesi, grandi apparecchi e altre prestazioni in natura di notevole importanza, la cui lista sara' stabilita nell'Intesa amministrativa di cui all'art. 35, e' subordinata alla preventiva autorizzazione dell'Istituzione competente, salvo casi di assoluta urgenza.
 
-##### Articolo 17
+#### Articolo 17
 
 Rimborsi
 
@@ -301,9 +297,9 @@ Rimborsi
 
 (2) Le Autorita' e le Istituzioni competenti possono accordarsi su altre forme di rimborso.
 
-## Capitolo II - Pensioni
+### Capitolo II - Pensioni
 
-##### Articolo 18
+#### Articolo 18
 
 Pensioni dovute secondo la legislazione
 
@@ -311,7 +307,7 @@ di uno Stato contraente (autonome)
 
 Se un lavoratore soddisfa le condizioni stabilite dalla legislazione di uno Stato contraente per acquisire il diritto alle prestazioni senza dovere ricorrere alla totalizzazione dei periodi di assicurazione di cui all'articolo 11, l'Istituzione competente di questo Stato deve concedere l'importo della prestazione calcolata esclusivamente sulla base dei periodi di assicurazione compiuti sotto la legislazione che essa applica. Tale disposizione si applica anche nel caso in cui l'assicurato abbia diritto, da parte dell'altro Stato contraente, ad una prestazione calcolata ai sensi dell'articolo 19.
 
-##### Articolo 19
+#### Articolo 19
 
 Pensioni dovute secondo la legislazione
 
@@ -331,19 +327,19 @@ dei due Stati contraenti (totalizzazione e pro-rata)
 
 (4) Se la legislazione di uno Stato contraente prevede che le prestazioni siano calcolate in relazione all'importo dei salari, dei redditi o dei contributi, l'Istituzione competente di tale Stato prende in considerazione esclusivamente i salari o i redditi percepiti, oppure i contributi versati, in conformita' alla legislazione che essa applica.
 
-##### Articolo 20
+#### Articolo 20
 
 Periodi di assicurazione inferiori ad un anno
 
 Nonostante quanto disposto all'articolo 19, se la durata totale dei periodi di assicurazione compiuti sotto la legislazione di uno Stato contraente non raggiunge almeno un anno e se, tenendo conto di questi soli periodi, non sorge alcun diritto alle prestazioni in virtu' di detta legislazione, l'Istituzione di questo Stato non e' tenuta a corrispondere prestazioni per tali periodi. Tuttavia tali periodi di assicurazione sono presi in considerazione dall'Istituzione competente dell'altro Stato contraente, sia ai fini dell'acquisizione del diritto alle prestazioni in virtu' della legislazione di tale Stato, sia per il calcolo delle medesime.
 
-##### Articolo 21
+#### Articolo 21
 
 Pensioni nel caso in cui la persona non soddisfi contemporaneamente le condizioni previste dalle legislazioni dei due Stati contraenti.
 
 Qualora un lavoratore, anche tenendo conto della totalizzazione dei periodi di assicurazione di cui all'art. 11, non soddisfi nello stesso momento le condizioni richieste dalle legislazioni di entrambi gli Stati contraenti, il suo diritto a pensione e' determinato nei riguardi di ciascuna legislazione mano a mano che si realizzano tali condizioni.
 
-##### Articolo 22
+#### Articolo 22
 
 Pensioni minime
 
@@ -351,21 +347,21 @@ Pensioni minime
 
 (2) L'integrazione al trattamento minimo di cui al comma precedente fa carico esclusivamente all'Istituzione competente dello Stato contraente sul cui territorio il beneficiario risiede.
 
-##### Articolo 23
+#### Articolo 23
 
 Disposizioni particolari
 
 Se la legislazione di uno degli Stati contraenti subordina la concessione delle prestazioni alla condizione che il lavoratore sia soggetto a tale legislazione nel momento in cui si verifica il rischio, tale condizione si intende soddisfatta se al verificarsi del rischio il lavoratore e' soggetto alla legislazione dell'altro Stato contraente o puo' far valere in quest'ultimo un diritto a prestazioni.
 
-## Capitolo III - Infortuni sul lavoro e malattie professionali
+### Capitolo III - Infortuni sul lavoro e malattie professionali
 
-##### Articolo 24
+#### Articolo 24
 
 Prestazioni
 
 Per le prestazioni in natura ed in denaro: si applicano le disposizioni di cui agli artt. 12, 16 e 17.
 
-##### Articolo 25
+#### Articolo 25
 
 Malattie professionali
 
@@ -373,39 +369,39 @@ Malattie professionali
 
 (2) Qualora un lavoratore, al quale e' stata corrisposta in uno dei due Stati contraenti una prestazione per una malattia professionale, chieda ulteriori prestazioni per la stessa malattia nell'altro Stato, l'Istituto assicuratore del primo Stato rimane competente per la concessione di ulteriori prestazioni. Tuttavia, se detto lavoratore e' stato successivamente occupato nell'altro Stato in una lavorazione che comporti lo stesso rischio per il quale ha ottenuto la prima prestazione, le ulteriori prestazioni sono a carico dell'Istituto assicuratore di quest'ultimo Stato.
 
-##### Articolo 26
+#### Articolo 26
 
 Eventi pregressi per valutazione dell'incapacita'
 
 Se, per la valutazione del grado di incapacita', la legislazione di uno Stato contraente prescrive che siano presi in considerazione gli infortuni sul lavoro avvenuti anteriormente, si terra' conto degli infortuni sul lavoro verificatisi anteriormente sotto la legislazione dell'altro Stato contraente.
 
-##### Articolo 27
+#### Articolo 27
 
 Infortunio in itinere
 
 L'infortunio subito da un lavoratore, mentre egli si reca ad assumere lavoro, con regolare contratto, da uno Stato contraente nell'altro Stato, deve essere risarcito dall'Istituzione competente di quest'ultimo Stato, in conformita' alle legislazioni che essa applica, qualora il sinistro si verifichi durante il viaggio, ininterrotto e per la via piu' breve, dal luogo di partenza sino al luogo di lavoro. Lo stesso vale per l'infortunio subito dal lavoratore quando questi ritorna nell'altro Stato contraente, subito dopo la fine del contratto di lavoro per effetto del quale si e' trasferito nell'altro Stato.
 
-##### Articolo 28
+#### Articolo 28
 
 Accertamenti medici
 
 Su richiesta dell'Istituzione competente e, previa autorizzazione di questa, anche su richiesta del lavoratore, l'Istituzione del luogo di nuova residenza o di soggiorno effettua esami medici per l'accertamento dell'incapacita' lavorativa. Tale Istituzione trasmette all'Istituzione competente dettagliate perizie sulle condizioni di salute del lavoratore. Le relative spese saranno rimborsate dall'Istituzione competente all'Istituzione che ha eseguito tali esami, sulla base del costo effettivo.
 
-##### Articolo 29
+#### Articolo 29
 
 Diritto di surroga
 
 Se un lavoratore ha diritto a prestazioni per infortunio sul lavoro o malattia professionale secondo la legislazione di uno Stato contraente per un danno causato da un terzo sul territorio dell'altro Stato contraente e se, in base alla legislazione di tale Stato, il lavoratore puo' pretendere il risarcimento del danno da parte del terzo, questo Stato riconosce all'Istituzione del primo Stato che ha concesso le prestazioni il diritto di surroga nel diritto al risarcimento.
 
-##### Articolo 30
+#### Articolo 30
 
 Notifiche
 
 Ogni infortunio sul lavoro di cui sia rimasto vittima un lavoratore occupato sul territorio di uno dei due Stati contraenti e che abbia causato o che possa causare sia la morte sia un'incapacita' permanente, deve essere notificato senza indugio tra le Istituzioni competenti dei due Stati contraenti.
 
-## Capitolo IV - Disoccupazione
+### Capitolo IV - Disoccupazione
 
-##### Articolo 31
+#### Articolo 31
 
 Diritto alle prestazioni
 
@@ -415,37 +411,35 @@ Diritto alle prestazioni
 
 (3) Il lavoratore che soddisfa le condizioni previste dalla legislazione di uno Stato contraente per il diritto alle prestazioni di disoccupazione e si reca nell'altro Stato contraente a cercarvi lavoro, conserva il diritto a tali prestazioni alle condizioni fissate dalla legislazione dello Stato in cui il diritto e' stato acquisito, per la durata massima di 3 mesi, ridotta del periodo in cui ha gia' goduto delle prestazioni stesse in tale Stato. Le prestazioni vengono erogate dall'istituzione dello Stato contraente in cui il disoccupato si e' recato e sono rimborsate dall'istituzione competente dell'altro Stato contraente secondo le modalita' fissate nell'Intesa amministrativa di cui all'art. 35.
 
-## Capitolo V - Prestazioni Familiari
+### Capitolo V - Prestazioni Familiari
 
-##### Articolo 32
+#### Articolo 32
 
 Totalizzazione
 
 Se la legislazione di uno Stato contraente subordina l'acquisizione del diritto alle prestazioni familiari al compimento di periodi di assicurazione ed equivalenti, l'Istituzione competente, se necessario, applica le disposizioni di cui all'art. 11.
 
-##### Articolo 33
+#### Articolo 33
 
 Residenza dei familiari
 
 I lavoratori, con esclusione dei disoccupati e dei pensionati, ricevono le prestazioni familiari spettanti, anche se i familiari risiedono nell'altro Stato contraente.
 
-##### Articolo 34
+#### Articolo 34
 
 Regole di priorita' in caso di cumulo
 
 Il diritto alle prestazioni familiari spettanti ai sensi dell'articolo 33 e' sospeso se dette prestazioni, ovvero altri tipi di benefici previdenziali o assistenziali a sostegno del nucleo familiare, sono dovuti anche in virtu' della legislazione dello Stato contraente sul cui territorio i familiari risiedono.
 
-## TITOLO\_IV
+## TITOLO\_IV - Disposizioni diverse
 
-### Disposizioni diverse
-
-##### Articolo 35
+#### Articolo 35
 
 Intesa amministrativa
 
 Le Autorita' competenti dei due Stati contraenti concorderanno la normativa di attuazione del presente Accordo in una Intesa amministrativa, che entrera' in vigore contemporaneamente all'Accordo stesso.
 
-##### Articolo 36
+#### Articolo 36
 
 Scambio di informazioni
 
@@ -457,7 +451,7 @@ Le Autorita' competenti dei due Stati contraenti si impegnano a tenersi vicendev
 
 3\) tutte le modifiche delle rispettive legislazioni che interessino l'applicazione del presente Accordo.
 
-##### Articolo 37
+#### Articolo 37
 
 Collaborazione amministrativa
 
@@ -465,13 +459,13 @@ Collaborazione amministrativa
 
 (2) Gli accertamenti e i controlli sanitari che vengono effettuati per l'applicazione della legislazione di uno Stato contraente e che riguardino le persone che risiedono o soggiornano nel territorio dell'altro Stato contraente, debbono essere disposti dall'Istituzione del luogo di residenza o di soggiorno, su richiesta dell'Istituzione competente ed a carico di questa. Nell'Intesa amministrativa di cui all'art. 35, saranno stabilite le disposizioni per il rimborso delle spese. Le spese per gli accertamenti ed i controlli sanitari effettuati nell'interesse delle Istituzioni di entrambi gli Stati non danno luogo a rimborsi.
 
-##### Articolo 38
+#### Articolo 38
 
 Assistenza diplomatica e consolare
 
 Le Autorita' diplomatiche e consolari di ciascuno Stato contraente possono rivolgersi direttamente alle Autorita', alle Istituzioni competenti e agli Organismi di collegamento dell'altro Stato contraente per ottenere informazioni utili alla tutela degli aventi diritto cittadini del proprio Stato e possono rappresentarli senza speciale mandato.
 
-##### Articolo 39
+#### Articolo 39
 
 Esenzioni e riconoscimento degli attestati
 
@@ -481,13 +475,13 @@ Esenzioni e riconoscimento degli attestati
 
 (3) L'attestazione, rilasciata dalle Autorita', Istituzioni competenti e Organismi di collegamento di uno Stato contraente, relativa all'autenticita' di un certificato o documento, viene considerata valida dalle corrispondenti Autorita', Istituzioni e Organismi di collegamento dell'altro Stato contraente.
 
-##### Articolo 40
+#### Articolo 40
 
 Organismi di collegamento
 
 Per facilitare l'applicazione del presente Accordo e consentire un piu' rapido collegamento tra le Istituzioni dei due Stati contraenti, le Autorita' competenti designeranno degli Organismi di collegamento.
 
-##### Articolo 41
+#### Articolo 41
 
 Domande, dichiarazioni e ricorsi
 
@@ -497,7 +491,7 @@ Domande, dichiarazioni e ricorsi
 
 (3) I ricorsi che devono essere presentati entro un termine prescritto ad una Autorita' o Istituzione competente di uno Stato contraente sono considerati come presentati in termine, se essi sono stati presentati entro lo stesso termine ad una corrispondente Autorita' od Istituzione dell'altro Stato contraente. In tal caso l'Autorita' od Istituzione cui i ricorsi sono stati presentati, li trasmette senza indugio all'Autorita' o all'Istituzione competente dell'altro Stato contraente.
 
-##### Articolo 42
+#### Articolo 42
 
 Corrispondenza tra Autorita', Istituzioni
 
@@ -505,7 +499,7 @@ e Organismi di collegamento
 
 Le Autorita', le Istituzioni competenti e gli Organismi di collegamento dei due Stati contraenti, per l'applicazione del presente Accordo, corrispondono direttamente tra loro, con i lavoratori e con i loro rappresentanti, redigendo la corrispondenza rispettivamente in italiano ed in macedone.
 
-##### Articolo 43
+#### Articolo 43
 
 Pagamenti
 
@@ -515,29 +509,27 @@ Pagamenti
 
 (3) Nel caso in cui negli Stati contraenti vengano introdotte misure restrittive in materia valutaria, i rispettivi Governi adotteranno immediatamente i provvedimenti necessari per assicurare, in conformita' con le disposizioni del presente Accordo, il trasferimento di somme dovute dall'uno o dall'altro Stato.
 
-##### Articolo 44
+#### Articolo 44
 
 Recuperi
 
 Qualora l'Istituzione di uno Stato contraente abbia erogato una pensione o rendita per un importo eccedente quello cui il beneficiario avrebbe avuto diritto, detta Istituzione puo' chiedere all'Istituzione competente dell'altro Stato contraente di trattenere l'importo pagato in eccedenza sugli arretrati dei ratei di pensione o rendita da essa eventualmente dovuti al beneficiario. L'importo cosi' trattenuto viene trasferito all'Istituzione creditrice.
 
-##### Articolo 45
+#### Articolo 45
 
 Protezione dei dati personali
 
 Qualsiasi dato relativo alle singole persone che, per l'applicazione del presente Accordo viene trasmesso da uno Stato contraente all'altro, dovra' essere mantenuto riservato ed utilizzato esclusivamente per determinare il diritto alle prestazioni in base a questo Accordo. Tutti gli scambi di dati tra gli Stati contraenti saranno soggetti alla legislazione sulla protezione dei dati personali dei due Stati contraenti.
 
-## TITOLO\_V
+## TITOLO\_V - Disposizioni transitorie e finali
 
-### Disposizioni transitorie e finali
-
-##### Articolo 46
+#### Articolo 46
 
 Disposizioni transitorie per le pensioni ai superstiti
 
 In deroga a quanto disposto dall'articolo 20, per le prestazioni ai superstiti derivanti da pensioni erogate ai sensi della Convenzione sulle assicurazioni sociali tra la Repubblica Italiana e la Repubblica Popolare Federale di Jugoslavia firmata il 14 novembre 1957, si tiene conto, per la totalizzazione, del requisito minimo contributivo previsto dalla suddetta Convenzione.
 
-##### Articolo 47
+#### Articolo 47
 
 Decorrenza
 
@@ -549,7 +541,7 @@ Decorrenza
 
 (4) Un diritto a prestazioni e' acquisito in virtu' del presente Accordo, anche se si riferisce ad un evento assicurato verificatosi prima della data della sua entrata in vigore.
 
-##### Articolo 48
+#### Articolo 48
 
 Entrata in vigore
 

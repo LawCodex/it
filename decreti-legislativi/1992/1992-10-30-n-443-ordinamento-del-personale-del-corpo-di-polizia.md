@@ -42,9 +42,9 @@ SULLA PROPOSTA del Presidente del Consiglio dei Ministri, di concerto con i Mini
 
 EMANA il seguente decreto legislativo:
 
-## TITOLO I - ISTITUZIONE DEI RUOLI DEL PERSONALE DEL
+## TITOLO I - ISTITUZIONE DEI RUOLI DEL PERSONALE DEL CORPO DI POLIZIA PENITENZIARIA
 
-### CORPO DI POLIZIA PENITENZIARIA - Capo I
+### Capo I
 
 #### Art. 1 - Istituzione dei ruoli e dotazioni organiche
 
@@ -70,7 +70,7 @@ c) ruolo degli ispettori;
 
 3\. L'anzianita' e' determinata dalla data del decreto di nomina o di promozione; a parita' di tale data, da quella del decreto di promozione o di nomina alla qualifica precedente e, a parita' delle predette condizioni, dall'eta', salvi, in ogni caso, i diritti risultanti dalle classificazioni ottenute negli esami di concorso, negli scrutini per merito comparativo e nelle graduatorie di merito.
 
-## CAPO II
+### CAPO II
 
 #### Art. 3 - Ruolo degli agenti e degli assistenti
 
@@ -102,7 +102,7 @@ a) che nel triennio precedente abbia riportato un giudizio inferiore a "distinto
 
 b) sospeso cautelarmente dal servizio, rinviato a giudizio o ammesso ai riti alternativi per i delitti non colposi ovvero sottoposto a procedimento disciplinare per l'applicazione di una sanzione piu' grave della pena pecuniaria. La denominazione e' attribuita dopo la definizione dei relativi procedimenti, fermo restando quanto previsto dal presente comma. Si applicano le disposizioni contenute negli articoli 94 e 95 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
 
-## CAPO III
+### CAPO III
 
 #### Art. 5
 
@@ -254,7 +254,7 @@ agenti di polizia penitenziaria).
 
 ((ARTICOLO SOPPRESSO DAL D.LGS. 12 MAGGIO 1995, N. 200))
 
-## CAPO IV
+### CAPO IV
 
 #### Art. 14 - Ruolo dei sovrintendenti
 
@@ -360,7 +360,7 @@ Promozione a sovrintendente capo.
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 MAGGIO 2003, N. 193))
 
-## CAPO V
+### CAPO V
 
 #### Art. 22
 
@@ -802,7 +802,7 @@ Il D.Lgs. 29 maggio 2017, n. 95 ha disposto (con l'art. 41, comma 12) che "Fino 
 
 > La riammissione in servizio e' subordinata alla vacanza del posto e non puo' aver luogo se la cessazione dal servizio avvenne in applicazione di disposizioni di carattere transitorio o speciale".
 
-## CAPO II
+### CAPO II
 
 #### Art. 43 - Norme relative agli scrutini
 
@@ -986,7 +986,7 @@ AGGIORNAMENTO (25)
 
 La Corte Costituzionale, con sentenza 19 marzo - 30 aprile 2024, n. 75 (in G.U. 1ª s.s. 02/05/2024, n. 18), ha dichiarato "l'illegittimita' costituzionale dell'art. 54, comma 1, del decreto legislativo 30 ottobre 1992, n. 443 (Ordinamento del personale del Corpo di polizia penitenziaria, a norma dell'art. 14, comma 1, della legge 15 dicembre 1990, n. 395), nella parte in cui non prevede l'allineamento della decorrenza giuridica della qualifica di vice sovrintendente promosso per merito straordinario a quella piu' favorevole riconosciuta al personale che ha conseguito la medesima qualifica all'esito della selezione o del concorso successivi alla data del verificarsi del fatto".
 
-## CAPO III
+### CAPO III
 
 #### Art. 55 - Richiamo in caso di mobilitazione
 
@@ -1026,9 +1026,9 @@ La Corte Costituzionale, con sentenza 19 marzo - 30 aprile 2024, n. 75 (in G.U. 
 
 1\. Agli appartenenti al Corpo di polizia penitenziaria si applica la concessione per il trasporto delle persone e dei bagagli sulle ferrovie dello Stato gia' previste per il personale della polizia di Stato.
 
-## TITOLO III - ORDINAMENTO DEL PERSONALE NEI RUOLI DEL
+## TITOLO III - ORDINAMENTO DEL PERSONALE NEI RUOLI DEL CORPO DI POLIZIA PENITENZIARIA
 
-### CORPO DI POLIZIA PENITENZIARIA - Capo I
+### Capo I
 
 #### Art. 59 - Disposizioni generali
 
@@ -1370,9 +1370,9 @@ AGGIORNAMENTO (12)
 
 La Corte Costituzionale, con sentenza 4-13 novembre 2009, n. 294 (in G.U. 1a s.s. 18/11/2009, n. 46) ha dichiarato l'illegittimita' costituzionale del presente articolo "nella parte in cui non consente, allorche' sia intervenuta la guarigione, la possibilita' di presentare istanza di riammissione nel ruolo di provenienza da parte del dipendente transitato a domanda in altri ruoli della Amministrazione penitenziaria o di altre amministrazioni dello Stato, perche' giudicato assolutamente inidoneo per motivi di salute, anche conseguenti a causa di servizio, all'assolvimento dei compiti di istituto."
 
-## TITOLO IV - ACCESSO AI RUOLI DEL PERSONALE
+## TITOLO IV - ACCESSO AI RUOLI DEL PERSONALE DEL CORPO DI POLIZIA PENITENZIARIA
 
-### DEL CORPO DI POLIZIA PENITENZIARIA - Capo I
+### Capo I
 
 #### Art. 81 - Assunzione di personale del Corpo di polizia penitenziaria
 
@@ -1790,7 +1790,7 @@ b) elementi sull'ordinamento penitenziario.
 
 2\. Coloro che non si presentano, senza giustificato motivo, nella sede e nel termine loro assegnati per la frequenza del corso di cui al comma 1 sono dichiarati decaduti dalla nomina
 
-## CAPO II
+### CAPO II
 
 #### Art. 106 - Commissioni per gli accertamenti psicofisici ed attitudinali
 
@@ -1846,7 +1846,7 @@ AGGIORNAMENTO (8)
 
 La L. 30 novembre 2000, n. 356 ha disposto (con l'art. 6, comma 4) che "In deroga alle disposizioni recate dagli articoli 107, commi 3, 4 e 5, e 108, commi 3, 4 e 5, del decreto legislativo 30 ottobre 1992, n. 443, gli accertamenti dei requisiti psicofisici ed attitudinali dinanzi alle commissioni di prima istanza si concludono con il giudizio definitivo di idoneita' o non idoneita'".
 
-## CAPO III
+### CAPO III
 
 #### Art. 109
 
@@ -1908,7 +1908,7 @@ c) ordinamento dell'Amministrazione penitenziaria.
 
 > \- Per il testo dell'art. 16, comma 6, della legge n. 395/1990 si veda la nota all'art. 4.
 
-## CAPO IV
+### CAPO IV
 
 #### Art. 114 - Concorso per la promozione ad ispettore capo
 

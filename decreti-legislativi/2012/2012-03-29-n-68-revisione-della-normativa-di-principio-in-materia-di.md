@@ -110,11 +110,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - PRINCIPI GENERALI
 
-### PRINCIPI GENERALI
-
-#### Art. 1
+### Art. 1
 
 Definizioni
 
@@ -534,7 +532,7 @@ e) per LEP, i livelli essenziali delle prestazioni.
 
 > \- Il decreto del Ministro dell'istruzione, dell'universita' e della ricerca 10 gennaio 2002, n. 38 (Regolamento recante riordino della disciplina delle scuole di cui alla legge 11 ottobre 1986, n. 697, adottato in attuazione dell'articolo 17, comma 96, lettera a), della legge 15 maggio 1997, n. 127) e' pubblicato nella Gazzetta ufficiale n. 69 del 22 marzo 2002.
 
-#### Art. 2
+### Art. 2
 
 Finalita' e principi
 
@@ -562,11 +560,9 @@ e) la promozione e la creazione di interventi e strumenti di valorizzazione e in
 
 > \- Per il testo degli articoli 3 e 34 della Costituzione si veda nelle note alle premesse.
 
-## Capo II
+## Capo II - ATTUAZIONE E DESTINATARI DEL DIRITTO ALLO STUDIO STRUMENTI E SERVIZI PER IL SUCCESSO FORMATIVO RACCORDO E ACCORDI TRA LE ISTITUZIONI
 
-### ATTUAZIONE E DESTINATARI DEL DIRITTO ALLO STUDIO STRUMENTI E SERVIZI - PER IL SUCCESSO FORMATIVO RACCORDO E ACCORDI TRA LE ISTITUZIONI
-
-#### Art. 3
+### Art. 3
 
 Attribuzioni e compiti dello Stato, delle regioni e delle province autonome di Trento e di Bolzano, delle universita' e delle istituzioni di alta formazione artistica, musicale e coreutica
 
@@ -606,7 +602,7 @@ g) sostengono le attivita' formative autogestite dagli studenti nei settori dell
 
 > (Omissis).".
 
-#### Art. 4
+### Art. 4
 
 Destinatari
 
@@ -618,7 +614,7 @@ Destinatari
 
 4\. Gli studenti stranieri, gli apolidi e i rifugiati politici usufruiscono degli strumenti e dei servizi di cui al presente decreto, secondo le vigenti disposizioni di legge.
 
-#### Art. 5
+### Art. 5
 
 Liberta' di scelta
 
@@ -626,7 +622,7 @@ Liberta' di scelta
 
 2\. Per il raggiungimento dell'obiettivo di cui al comma 1 gli strumenti e i servizi possono essere erogati anche in forma di voucher.
 
-#### Art. 6
+### Art. 6
 
 Strumenti e servizi per il conseguimento
 
@@ -656,7 +652,7 @@ l) altri servizi, definiti dalle regioni, dalle province autonome di Trento e di
 
 2\. Per gli studenti capaci e meritevoli, anche se privi di mezzi, in possesso dei requisiti di eleggibilita' di cui all'articolo 8, il conseguimento del pieno successo formativo di cui al comma 1 e' garantito attraverso l'erogazione della borsa di studio, ai sensi dell'articolo 7, comma 2.
 
-#### Art. 7
+### Art. 7
 
 Definizione dei livelli essenziali delle prestazioni (LEP)
 
@@ -688,7 +684,7 @@ I relativi costi sono compensati tra le regioni e le province autonome di Trento
 
 8\. In attesa dell'adozione del decreto di cui al comma 7 e per i primi tre anni accademici dalla data di entrata in vigore del presente decreto l'importo della borsa di studio e' determinato in misura diversificata in relazione alla condizione economica e abitativa dello studente con decreto adottato entro novanta giorni dalla data di entrata in vigore del presente provvedimento e secondo le modalita' di cui al comma 7.
 
-#### Art. 8
+### Art. 8
 
 Requisiti di eleggibilita' per l'accesso ai LEP
 
@@ -780,7 +776,7 @@ Per le istituzioni di alta formazione artistica, musicale e coreutica, di cui al
 
 > \- Il decreto del Presidente del Consiglio dei Ministri 9 aprile 2001 (Disposizioni per l'uniformita' di trattamento sul diritto agli studi universitari, a norma dell'art. 4 della L. 2 dicembre 1991, n. 390) e' stato Pubblicato nella Gazzetta Ufficiale 26 luglio 2001, n. 172.
 
-#### Art. 9
+### Art. 9
 
 Graduazione dei contributi per la frequenza ai corsi di livello universitario ed esoneri dalle tasse e dai contributi
 
@@ -822,7 +818,7 @@ c) studenti che svolgano una documentata attivita' lavorativa.
 
 > \- Per i riferimenti alla legge n. 243 del 1991, si veda nelle note alle premesse.
 
-#### Art. 10
+### Art. 10
 
 Controllo della veridicita' delle dichiarazioni
 
@@ -840,7 +836,7 @@ Controllo della veridicita' delle dichiarazioni
 
 > "3. Fermo restando la restituzione del vantaggio conseguito per effetto dell'indebito accesso alla prestazione sociale agevolata, nei confronti dei soggetti che in ragione del maggior reddito accertato hanno fruito illegittimamente delle prestazioni sociali agevolate di cui al comma 1 si applica la sanzione da 500 a 5.000 euro. La sanzione e' irrogata dall'ente erogatore, avvalendosi dei poteri e delle modalita' vigenti. Le medesime sanzioni si applicano nei confronti di coloro per i quali si accerti sulla base dello scambio di informazioni tra l'istituto nazionale della previdenza sociale e l'agenzia delle entrate una discordanza tra il reddito dichiarato ai fini fiscali o altre componenti dell'isee, anche di natura patrimoniale, note all'anagrafe tributaria e quanto indicato nella dichiarazione sostitutiva unica di cui all'articolo 4 del decreto legislativo 31 marzo 1998, n. 109, qualora in ragione di tale discordanza il soggetto abbia avuto accesso alle prestazioni agevolate di cui al comma 1. In caso di discordanza rilevata, l'inps comunica gli esiti delle verifiche all'ente che ha erogato la prestazione, nonche' il valore isee ricalcolato sulla base degli elementi acquisiti dall'agenzia delle entrate. L'ente erogatore accerta se, in esito alle risultanze della verifica effettuata, il beneficiario non avrebbe potuto fruire o avrebbe fruito in misura inferiore della prestazione. Nei casi diversi dall'accertamento del maggior reddito in via definitiva, per il quale la sanzione e' immediatamente irrogabile, l'ente erogatore invita il soggetto interessato a chiarire i motivi della rilevata discordanza, ai sensi della normativa vigente. in assenza di osservazioni da parte dell'interessato o in caso di mancato accoglimento delle stesse, la sanzione e' irrogata in misura proporzionale al vantaggio economico indebitamente conseguito e comunque nei limiti di cui al primo periodo.
 
-#### Art. 11
+### Art. 11
 
 Attivita' a tempo parziale degli studenti
 
@@ -858,7 +854,7 @@ b) prestazioni lavorative dello studente in numero massimo di 200 ore per ciascu
 
 c) precedenza, a parita' di curriculum formativo, accordata agli studenti in condizioni economiche maggiormente disagiate.
 
-#### Art. 12
+### Art. 12
 
 Raccordo tra le istituzioni e accordi per la sperimentazione di modelli innovativi
 
@@ -870,11 +866,9 @@ Raccordo tra le istituzioni e accordi per la sperimentazione di modelli innovati
 
 4\. I risultati delle sperimentazioni attivate sono pubblicate sul sito istituzionale del Ministero e consultabili da tutti i soggetti attuatori del diritto allo studio.
 
-## Capo III
+## Capo III - STRUTTURE RESIDENZIALI E COLLEGI UNIVERSITARI LEGALMENTE RICONOSCIUTI
 
-### STRUTTURE RESIDENZIALI E COLLEGI UNIVERSITARI LEGALMENTE RICONOSCIUTI
-
-#### Art. 13
+### Art. 13
 
 Tipologie di strutture residenziali destinate
 
@@ -906,7 +900,7 @@ b) residenze universitarie: strutture ricettive, dotate di spazi polifunzionali,
 
 > \- Il decreto del Presidente del Consigli dei Ministri del 16 luglio 2009 (Piano nazionale di edilizia abitativa) e' pubblicato nella Gazzetta ufficiale n. 191 del 19 agosto 2009.
 
-#### Art. 14
+### Art. 14
 
 Utenti
 
@@ -916,7 +910,7 @@ Utenti
 
 3\. Per un utilizzo piu' efficiente delle strutture residenziali universitarie e' data facolta' al gestore di destinare posti in alloggi anche a soggetti diversi da quelli di cui ai commi 1 e 2, in particolare nei periodi di chiusura estiva, ferma restando la prevalenza di cui al comma 1.
 
-#### Art. 15
+### Art. 15
 
 Definizione di collegi universitari legalmente riconosciuti
 
@@ -946,7 +940,7 @@ e) partecipanti a programmi di mobilita' e scambio di studenti universitari, in 
 
 > (Omissis).".
 
-#### Art. 16
+### Art. 16
 
 Disciplina del riconoscimento dei collegi universitari
 
@@ -968,7 +962,7 @@ c) disporre di strutture ricettive in grado di ospitare utenti italiani, proveni
 
 5\. Restano ferme le vigenti disposizioni sui collegi universitari legalmente riconosciuti.
 
-#### Art. 17
+### Art. 17
 
 Disciplina dell'accreditamento
 
@@ -996,11 +990,9 @@ d) la rilevanza internazionale dell'istituzione, non solo in termini di ospitali
 
 7\. Le scuole universitarie di alta formazione a carattere residenziale, attivate presso le universita' allo scopo di offrire servizi formativi aggiuntivi rispetto ai corsi di studio, sono riconosciute e accreditate con decreto del Ministro, su proposta dell'ANVUR.
 
-## Capo IV
+## Capo IV - SISTEMA DI FINANZIAMENTO E COPERTURA FINANZIARIA
 
-### SISTEMA DI FINANZIAMENTO E COPERTURA FINANZIARIA
-
-#### Art. 18
+### Art. 18
 
 Sistema di finanziamento
 
@@ -1080,17 +1072,15 @@ AGGIORNAMENTO (9)
 
 Il D.L. 29 settembre 2023, n. 131, convertito con modificazioni dalla L. 27 novembre 2023, n. 169, ha disposto (con l'art. 2, comma 5) che "Il fondo integrativo statale per la concessione di borse di studio di cui all'articolo 18, comma 1, lettera a), del decreto legislativo 29 marzo 2012, n. 68, e' incrementato, per l'anno 2023, dell'importo di euro 7.429.667 destinato alla corresponsione delle borse di studio per l'accesso alla formazione superiore in favore degli idonei non beneficiari nelle graduatorie degli enti regionali per il diritto allo studio relative all'anno accademico 2022/2023".
 
-#### Art. 19
+### Art. 19
 
 Disponibilita' finanziaria
 
 1\. All'attuazione delle disposizioni di cui al presente decreto si provvede nei limiti delle risorse finanziarie disponibili a legislazione vigente, negli appositi programmi dello stato di previsione del Ministero per l'anno 2012 e per gli esercizi successivi.
 
-## Capo V
+## Capo V - MONITORAGGIO SULL'ATTUAZIONE DEL DIRITTO ALLO STUDIO
 
-### MONITORAGGIO SULL'ATTUAZIONE - DEL DIRITTO ALLO STUDIO
-
-#### Art. 20
+### Art. 20
 
 Osservatorio nazionale per il diritto allo studio universitario
 
@@ -1116,13 +1106,13 @@ c) presentare al Ministro proposte per migliorare l'attuazione del principio di 
 
 > \- Per il testo dell'articolo 4, comma 4, della legge 30 dicembre 2010, n. 240, si vedano le note all'articolo 15.
 
-#### Art. 21
+### Art. 21
 
 Rapporto al Parlamento
 
 1\. Il Ministro presenta al Parlamento, ogni tre anni, un rapporto sull'attuazione del diritto allo studio, tenendo conto anche dei dati trasmessi all'Osservatorio dalle regioni, dalle province Autonome di Trento e di Bolzano, dalle universita' e dalle istituzioni di alta formazione artistica, musicale e coreutica per quanto di rispettiva competenza.
 
-#### Art. 22
+### Art. 22
 
 Banca dati delle amministrazioni pubbliche
 
@@ -1144,11 +1134,9 @@ Banca dati delle amministrazioni pubbliche
 
 > 4\. Agli oneri derivanti dall'attuazione del presente articolo, pari complessivamente a 10 milioni di euro per l'anno 2010, 11 milioni di euro per l'anno 2011 e 5 milioni di euro a decorrere dall'anno 2012, si provvede mediante corrispondente riduzione dell'autorizzazione di spesa prevista dall'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307, relativa al Fondo per interventi strutturali di politica economica. Con il medesimo decreto di cui al comma 3 possono essere stabilite le modalita' di ripartizione delle risorse tra le amministrazioni preposte alla realizzazione della banca dati.".
 
-## Capo VI
+## Capo VI - DISPOSIZIONI FINALI
 
-### DISPOSIZIONI FINALI
-
-#### Art. 23
+### Art. 23
 
 Norme finali
 
@@ -1172,7 +1160,7 @@ Norme finali
 
 > \- La legge 14 agosto 1982, n. 590 (Istituzione di nuove universita'), e' pubblicata nella Gazzetta ufficiale n. 231 del 23 agosto 1982, S. O.
 
-#### Art. 24
+### Art. 24
 
 Abrogazioni
 

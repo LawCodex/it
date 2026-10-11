@@ -184,7 +184,7 @@ Il D.Lgs. 29 maggio 2017, n. 95, come modificato dal D.Lgs. 27 dicembre 2019, n.
 
 Al fine dell'accertamento del possesso dei prescritti requisiti, il personale di cui al presente comma e' valutato dalla commissione di cui all'articolo 55-bis del decreto legislativo 12 maggio 1995, n. 199".
 
-## Capo II - RECLUTAMENTO
+### Capo II - RECLUTAMENTO
 
 ##### Art. 5
 
@@ -300,7 +300,7 @@ Il D.L. 22 aprile 2023, n. 44 ha disposto (con l'art. 15, comma 11, lettera b)) 
 
 b) al fine di accrescere l'efficienza della componente specialistica Antiterrorismo e pronto impiego del Corpo della guardia di finanza, il limite massimo annuale di cui all'articolo 7, comma 2, del decreto legislativo 12 maggio 1995, n. 199, e' incrementato di 24 unita' per ciascuno degli anni dal 2023 al 2026".
 
-## Capo III - STATO GIURIDICO
+### Capo III - STATO GIURIDICO
 
 ##### Art. 8
 
@@ -532,7 +532,7 @@ c) sono giudicati non idonei al servizio militare incondizionato dopo che, nel q
 
 ((1. Il personale del ruolo appuntati e finanzieri in congedo puo' essere richiamato in servizio a norma dell'articolo 986 del decreto legislativo 15 marzo 2010, n. 66.))
 
-## Capo IV - AVANZAMENTO
+### Capo IV - AVANZAMENTO
 
 ##### Art. 10
 
@@ -630,11 +630,9 @@ d) alfabetico.
 
 2\. La successione gerarchica nei vari gradi dei singoli ruoli e' prevista nella tabella C allegata al presente decreto.
 
-## Capo II - RUOLO SOVRINTENDENTI
+### Capo II - RUOLO SOVRINTENDENTI
 
-### SEZIONE I - ORDINAMENTO DEL PERSONALE
-
-#### APPARTENENTE AL RUOLO SOVRINTENDENTI
+#### SEZIONE I - ORDINAMENTO DEL PERSONALE APPARTENENTE AL RUOLO SOVRINTENDENTI
 
 ##### Art. 16
 
@@ -740,9 +738,9 @@ g) per l'anno 2023, i brigadieri capo che rivestivano il grado di brigadiere con
 
 h) per l'anno 2024, i brigadieri capo che rivestivano il grado di brigadiere con anzianita' compresa fra il 1° gennaio e il 31 dicembre 2013".
 
-## Capo II - RUOLO SOVRINTENDENTI
+### Capo II - RUOLO SOVRINTENDENTI
 
-### SEZIONE II - RECLUTAMENTO E STATO
+#### SEZIONE II - RECLUTAMENTO E STATO
 
 ##### Art. 19
 
@@ -900,9 +898,9 @@ Stato degli appartenenti al ruolo "sovrintendenti"
 
 2\. Ai frequentatori del corso, sino al conferimento della nomina di vice brigadiere, continuano ad applicarsi le disposizioni dell'art. 9 del presente decreto.
 
-## Capo II - RUOLO SOVRINTENDENTI
+### Capo II - RUOLO SOVRINTENDENTI
 
-### SEZIONE III - AMBITO DI APPLICAZIONE
+#### SEZIONE III - AMBITO DI APPLICAZIONE
 
 ##### Art. 31
 
@@ -910,9 +908,9 @@ Ambito di applicazione
 
 1\. Le disposizioni di cui al presente capo si applicano ai concorsi da indire successivamente alla data di entrata in vigore del presente decreto.
 
-## Capo III - RUOLO ISPETTORI
+### Capo III - RUOLO ISPETTORI
 
-### SEZIONE I - ORDINAMENTO DEL PERSONALE DEL RUOLO ISPETTORI
+#### SEZIONE I - ORDINAMENTO DEL PERSONALE DEL RUOLO ISPETTORI
 
 ##### Art. 32
 
@@ -1054,9 +1052,9 @@ f) per l'anno 2026, i marescialli aiutanti promossi con decorrenza 1° gennaio 2
 
 g) per l'anno 2027, i marescialli aiutanti promossi con riferimento alla "selezione per titoli" di cui al comma 15-duodecies.
 
-## Capo III - RUOLO ISPETTORI
+### Capo III - RUOLO ISPETTORI
 
-### SEZIONE II - RECLUTAMENTO
+#### SEZIONE II - RECLUTAMENTO
 
 ##### Art. 35 - Accesso al ruolo ispettori
 
@@ -1416,9 +1414,9 @@ b) se dichiarati idonei in seconda sessione, e' conferita la nomina a maresciall
 
 4\. Al venir meno delle singole cause impeditive richiamate al comma 3, purche' sussistano i requisiti di legge per l'iscrizione a ruolo, il frequentatore del corso deve essere nominato con la stessa decorrenza che gli sarebbe spettata qualora la nomina al grado di maresciallo non fosse stata sospesa.
 
-## Capo III - RUOLO ISPETTORI
+### Capo III - RUOLO ISPETTORI
 
-### SEZIONE III - STATO
+#### SEZIONE III - STATO
 
 ##### Art. 49
 
@@ -1492,9 +1490,9 @@ Stato giuridico degli appartenenti al ruolo "ispettori"
 
 1\. Agli appartenenti al ruolo "ispettori" si applicano le disposizioni vigenti alla data di entrata in vigore del presente decreto in materia di "stato dei sottufficiali", purche' non siano in contrasto, o comunque, incompatibili con le disposizioni stabilite dal presente decreto.
 
-## Capo III - RUOLO ISPETTORI
+### Capo III - RUOLO ISPETTORI
 
-### SEZIONE IV - AMBITO DI APPLICAZIONE
+#### SEZIONE IV - AMBITO DI APPLICAZIONE
 
 ##### Art. 51
 
@@ -1502,7 +1500,7 @@ Entrata in vigore
 
 1\. Le disposizioni di cui al presente capo si applicano ai concorsi da indire successivamente alla data di entrata in vigore del presente decreto.
 
-## Capo IV - AVANZAMENTO
+### Capo IV - AVANZAMENTO
 
 ##### Art. 52
 
@@ -1923,7 +1921,7 @@ Inquadramento del personale appartenente al ruolo finanzieri e appuntati di cui 
 
 > \- Per l'art. 13, comma 5, della legge 1 febbraio 1989, n. 53, vedi nota all'art. 64.
 
-## Capo II - AVANZAMENTO
+### Capo II - AVANZAMENTO
 
 ##### Art. 67
 
@@ -1947,7 +1945,7 @@ c) la cui nomina a "cariche speciali" sia stata sospesa ai sensi delle disposizi
 
 4\. A coloro che rivestono il grado di maresciallo maggiore della Guardia di finanza, che, ai sensi dell'art. 22 del decreto del Presidente della Repubblica 26 agosto 1959, n. 1088, sono stati iscritti nell'elenco ivi menzionato e nei cui confronti, a tutto il 1 settembre 1995, in virtu' di mancanza di vacanze nel contingente di nomina a "cariche speciali" da conferire agli appartenenti al ruolo sottufficiali di cui alla legge 10 maggio 1983, n. 212, non sia stata ancora conferita la predetta nomina, e' attribuita, prima dell'effettuazione del predetto inquadramento di cui all'art. 65, la nomina a "cariche speciali" con decorrenza 1 settembre 1995, anche in deroga alle disposizioni abrogative contenute nel presente decreto.
 
-## Capo III - NORME TRANSITORIE
+### Capo III - NORME TRANSITORIE
 
 ##### Art. 68
 
@@ -2766,7 +2764,7 @@ Trattamento economico
 
 2\. Le disposizioni di cui alla legge 21 febbraio 1963, n. 252, sono estese a tutto il personale in ausiliaria del Corpo della Guardia di finanza. ))
 
-## Capo II - NORME DI COORDINAMENTO
+### Capo II - NORME DI COORDINAMENTO
 
 ##### Art. 74
 
@@ -2898,7 +2896,7 @@ Impiego
 
 3\. Il personale che, alla data di entrata in vigore del presente decreto, viene inquadrato nei ruoli "appuntati e finanzieri", "sovrintendenti", e "ispettori", in via transitoria e sino all'emanazione del decreto ministeriale di cui al comma 2, conserva i distintivi di grado, di qualifica e di nomina posseduti prima dell'inquadramento.
 
-## Capo III - NORME FINALI
+### Capo III - NORME FINALI
 
 ##### Art. 80
 
@@ -2924,7 +2922,7 @@ Norma di equivalenza
 
 1-ter. Qualora la facolta' di cui al comma 1 sia esercitata per i corsi formativi per allievo finanziere di cui all'articolo 8, a tutti i frequentatori e' riconosciuta, ai soli fini giuridici, la data di arruolamento degli incorporati del primo ciclo, da cui decorre la ferma volontaria prevista dal comma 5 del predetto articolo 8.))
 
-## Capo IV - ENTRATA IN VIGORE
+### Capo IV - ENTRATA IN VIGORE
 
 ##### Art. 81
 
@@ -2932,7 +2930,7 @@ Entrata in vigore
 
 1\. Salvo quanto eventualmente stabilito in ogni singolo articolo del presente decreto legislativo, le disposizioni del medesimo entrano in vigore dal 1 settembre 1995.
 
-## Capo V - CLAUSOLA FINANZIARIA
+### Capo V - CLAUSOLA FINANZIARIA
 
 ##### Art. 82
 
@@ -2972,7 +2970,7 @@ BRANCACCIO, Ministro dell'interno Visto, il Guardasigilli: MANCUSO
 
 > 5\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio".
 
-## Capo V - CLAUSOLA FINANZIARIA
+### Capo V - CLAUSOLA FINANZIARIA
 
 ##### Tabelle
 

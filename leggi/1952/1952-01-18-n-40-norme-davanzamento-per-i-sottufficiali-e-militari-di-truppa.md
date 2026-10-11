@@ -26,17 +26,15 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I. - Dell'avanzamento ai gradi di maresciallo maggiore e di maresciallo
+## CAPO I. - Dell'avanzamento ai gradi di maresciallo maggiore e di maresciallo ordinario.
 
-### ordinario.
-
-#### Art. 1
+### Art. 1
 
 ((I marescialli maggiori sono tratti dai marescialli capi per due terzi in ordine di anzianita' e per un terzo a scelta per esami.
 
 La promozione a maresciallo maggiore e' conferita, nei limiti dei posti vacanti, ai marescialli capi giudicati idonei all'avanzamento ad anzianita' che contino almeno tre anni di permanenza nel grado ed a quelli giudicati idonei per l'avanzamento a scelta che abbiano compiuto almeno due anni di grado)).
 
-#### Art. 2
+### Art. 2
 
 ((I marescialli ordinari sono tratti dai brigadieri per un terzo in ordine di anzianita' mediante appositi esperimenti e per due terzi a scelta per esami.
 
@@ -50,7 +48,7 @@ Sono esentati dagli esperimenti i brigadieri che abbiano partecipato agli esami 
 
 La promozione a maresciallo ordinario e' conferita, nei limiti dei posti vacanti, ai brigadieri giudicati idonei all'avanzamento ad anzianita' che contino almeno tre anni di grado ed a quelli giudicati idonei all'avanzamento a scelta che abbiano compiuto almeno due anni di grado)).
 
-#### Art. 3
+### Art. 3
 
 I marescialli capi ed i brigadieri giudicati idonei all'avanzamento ad anzianita' od a quello a scelta sono iscritti, in ordine di anzianita', in distinti quadri di avanzamento annuali.
 
@@ -58,11 +56,11 @@ Le promozioni sono conferite, in ciascun anno, alternativamente agli iscritti ne
 
 In mancanza di promovibili a scelta, i posti vacanti sono tutti devoluti, in ciascun anno, agli iscritti nei quadri di avanzamento ad anzianita'.
 
-#### Art. 4
+### Art. 4
 
 Agli esami per l'avanzamento a scelta ai gradi di maresciallo maggiore e di maresciallo ordinario sono, rispettivamente, ammessi a domanda, per non piu' di due volte, i marescialli capi ed i brigadieri compresi nel primo terzo del ruolo del proprio grado al 1 gennaio dell'anno cui si riferisce l'avanzamento, che ne siano stati giudicati meritevoli dalle autorita' indicate dal regolamento.
 
-#### Art. 5
+### Art. 5
 
 Gli esami per l'avanzamento a scelta ai gradi di maresciallo maggiore e di maresciallo ordinario constano, rispettivamente, di una prova scritta e di due prove orali di cultura tecnico-professionale. ((COMMA ABROGATO DALLA L. 20 NOVEMBRE 1970, N. 963)).
 
@@ -70,7 +68,7 @@ Gli esami per l'avanzamento a scelta ai gradi di maresciallo maggiore e di mares
 
 Per le prove orali potra' essere aggiunto ai membri delle commissioni un ufficiale del Corpo competente in materie nautiche per esaminare i candidati del ramo mare sulla parte del programma che concerne la cultura marinaresca.
 
-#### Art. 6
+### Art. 6
 
 Conseguono l'idoneita' negli esami per l'avanzamento a scelta ai rispettivi gradi superiori i marescialli capi ed i brigadieri che abbiano riportato nella prova scritta il punteggio minimo di dodici ventesimi, siano stati pertanto ammessi a sostenere le prove orali ed abbiano conseguito almeno quattordici ventesimi come media del punteggio della prova scritta e di quello medio delle prove orali, in ciascuna delle quali non dovranno pero' aver riportato un punto inferiore a dieci ventesimi.
 
@@ -80,17 +78,17 @@ Conseguono l'idoneita' esperimenti per l'avanzamento ad anzianita' al grado di m
 
 ## CAPO II. - Dell'avanzamento ai gradi di maresciallo capo e di brigadiere.
 
-#### Art. 7
+### Art. 7
 
 Il grado di maresciallo capo e' conferito ad anzianita', al compimento di due anni di permanenza nel grado, ai marescialli ordinari giudicati idonei ed iscritti in apposito quadro di avanzamento.
 
-#### Art. 8
+### Art. 8
 
 I brigadieri sono tratti, in ordine di anzianita' e nei limiti dei posti vacanti nell'organico relativo, dai sottobrigadieri che, giudicati idonei ed iscritti in appositi quadri di avanzamento, abbiano compiuto almeno due anni di permanenza nel grado.
 
 ## CAPO III. - Del conferimento del grado di sottobrigadiere.
 
-#### Art. 9
+### Art. 9
 
 I posti di organico vacanti nel grado di sottobrigadiere sono annualmente coperti con le promozioni dei militari di truppa dichiarati idonei al termine del corso d'istruzione presso la Scuola sottufficiali, a norma dei successivi articoli 10, 11 e 12 e con quelle degli appuntati idonei all'avanzamento ai sensi del successivo articolo 13, nella rispettiva proporzione di diciannove ad uno e con precedenza delle prime.
 
@@ -98,23 +96,23 @@ In difetto di militari di truppa promovibili a norma degli articoli 10, 11 e 12,
 
 In mancanza di appuntati promovibili le vacanze relative sono devolute alle promozioni dei militari di truppa che abbiano frequentato il corso d'istruzione presso la Scuola sottufficiali.
 
-#### Art. 10
+### Art. 10
 
 Conseguono l'idoneita' a rivestire il grado di sottobrigadiere i militari di truppa che abbiano frequentato con esito favorevole apposito corso di istruzione presso la Scuola sottufficiali della Guardia di finanza, al quale siano stati ammessi in seguito a concorso per esami.
 
 L'idoneita' a rivestire il grado di sottobrigadiere e' dichiarata da una commissione di ufficiali del Corpo, nominata dal comandante generale e presieduta da un colonnello, la quale procede secondo le modalita' stabilite dal regolamento.
 
-#### Art. 11
+### Art. 11
 
 Possono partecipare per non piu' di quattro volto al concorso per l'ammissione al corso d'istruzione, presso la Scuola sottufficiali, i militari di truppa che non abbiano superato il trentacinquesimo anno di eta', contino almeno due anni di servizio effettivo nella Guardia di finanza ovvero almeno un anno se in possesso della licenza di scuola media inferiore e siano in possesso degli altri requisiti stabiliti dal regolamento.
 
-#### Art. 12
+### Art. 12
 
 I militari di truppa del contingente del ramo mare, che abbiano frequentato con esito favorevole il corso per motoristi navali o presso le Scuole del C.E.M.M. della Marina militare o presso la Scuola nautica della Guardia di finanza, possono essere ammessi, nei limiti massimi di un quinto dei posti disponibili per il contingente stesso, a frequentare il corso di istruzione presso la Scuola sottufficiali con esonero dal concorso relativo.
 
 I posti disponibili sono assegnati a coloro che abbiano conseguito il brevetto di motorista navale con un maggior punteggio di merito ovvero a parita' di punteggio, ai militari di maggior grado od anzianita' di servizio.
 
-#### Art. 13
+### Art. 13
 
 Gli appuntati che avendo compiuto almeno 22 anni di servizio effettivo nel Corpo si siano segnalati per servizi di speciale importanza e posseggano gli altri requisiti stabiliti dal regolamento possono, sulla base di un'esauriente relazione, essere proposti per l'avanzamento al grado di sottobrigadiere dalle autorita' di grado determinate dal regolamento medesimo.
 
@@ -144,17 +142,15 @@ sottoporre all'esperimento gli appuntati ammessivi;
 
 dichiarare quali appuntati abbiano superato l'esperimento".
 
-## CAPO IV. - Dell'avanzamento al grado di appuntato e del conferimento della
+## CAPO IV. - Dell'avanzamento al grado di appuntato e del conferimento della qualifica di finanziere scelto.
 
-### qualifica di finanziere scelto.
-
-#### Art. 14
+### Art. 14
 
 Gli appuntati sono tratti in ordine di anzianita' e nei limiti dei posti vacanti nell'organico relativo, dai finanzieri che, giudicati idonei ed iscritti in apposito quadro di avanzamento, abbiano compiuto almeno tre anni di permanenza nel grado.
 
 A favore dei finanzieri che contando gia' tre anni di grado, ai fini dell'anzianita' utile per l'avanzamento, viene commutato anche il periodo di servizio eventualmente prestato in altre Forze armate dello Stato, in ragione pero' della meta' della sua durata complessiva trascurando le frazioni di giorno.
 
-#### Art. 15
+### Art. 15
 
 Ai finanzieri che contino almeno nove anni di servizio puo' essere conferita la qualifica di "finanziere scelto", su proposta delle autorita' di grado incaricate di esprimere i giudizi di avanzamento.
 
@@ -162,27 +158,23 @@ Per la determinazione dell'anzianita' di servizio dei finanzieri da proporre per
 
 Su proposta delle autorita' di grado incaricate di esprimere i giudizi di avanzamento, puo' ordinarsi la perdita della qualifica per gravi mancanze o per abituale cattiva condotta.
 
-## CAPO V. - Della nomina a cariche speciali degli aiutanti di battaglia e dei
+## CAPO V. - Della nomina a cariche speciali degli aiutanti di battaglia e dei marescialli maggiori.
 
-### marescialli maggiori.
-
-#### Art. 16
+### Art. 16
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 1995, N. 199 COME MODIFICATO DAL D.LGS. 28 FEBBRAIO 2001, N. 67))
 
-#### Art. 17
+### Art. 17
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 1995, N. 199 COME MODIFICATO DAL D.LGS. 28 FEBBRAIO 2001, N. 67))
 
-#### Art. 18
+### Art. 18
 
 In deroga all'art. 1 del decreto legislativo 2 aprile 1948, n. 307, gli aiutanti di battaglia ed i marescialli maggiori che hanno conseguito la nomina alle cariche speciali sono collocati a riposo al compimento del 58° anno di eta'.
 
-## CAPO VI. - Avanzamento dei sottufficiali del servizio sedentario e dei
+## CAPO VI. - Avanzamento dei sottufficiali del servizio sedentario e dei sottufficiali e militari di truppa in congedo.
 
-### sottufficiali e militari di truppa in congedo.
-
-#### Art. 19
+### Art. 19
 
 Per l'avanzamento dei sottufficiali trasferiti nei ruoli del servizio sedentario si applicano le norme in vigore per i parigrado del servizio ordinario, con le deroghe seguenti:
 
@@ -194,7 +186,7 @@ il sottufficiale idoneo all'avanzamento non puo' essere promosso prima della dat
 
 nel caso che si trovino a concorrere marescialli capi del servizio sedentario in turno di promozione e marescialli maggiori del servizio ordinario aspiranti al passaggio nel ruolo dei sedentari, i posti vacanti nel grado di maresciallo maggiore sono devoluti alternativamente prima all'ammissione di un maresciallo maggiore proveniente dal servizio ordinario e poi alla promozione di un maresciallo capo del servizio sedentario.
 
-#### Art. 20
+### Art. 20
 
 I sottufficiali e militari di truppa della forza in congedo possono essere presi in esame per l'avanzamento solo se siano trascorsi sei luci dal loro richiamo o trattenimento in servizio nel Corpo. Si applicano all'avanzamento stesso le norme in vigore per i parigrado del servizio permanente con le deroghe seguenti:
 
@@ -204,29 +196,29 @@ le promozioni sono conferite con la stessa decorrenza delle promozioni ad anzian
 
 ## CAPO VII. - Disposizioni finali e transitorie.
 
-#### Art. 21
+### Art. 21
 
 Le norme di cui ai precedenti articoli non si applicano ai sottufficiali ed ai militari di truppa della banda musicale del Corpo.
 
-#### Art. 22
+### Art. 22
 
 L'art. 16 della legge 7 giugno 1937, n. 913, e' sostituito dal seguente:
 
 "I giudizi di avanzamento di cui all'articolo precedente sono pronunciati dalle autorita' gerarchiche o dalle commissioni di ufficiali del Corpo che saranno determinate dal regolamento, nei modi e con le formalita' che saranno stabilite dal regolamento stesso".
 
-#### Art. 23
+### Art. 23
 
 I sottufficiali ed i militari di truppa iscritti nei quadri di avanzamento previsti dalla presente legge, i quali al termine dell'anno cui i quadri si riferiscono non siano stati promossi per mancanza di posti vacanti, sono riportati d'ufficio nei quadri dell'anno successivo, in concorrenza, secondo l'anzianita' di grado o di servizio, con quelli che nell'anno medesimo siano stati giudicati idonei.
 
-#### Art. 24
+### Art. 24
 
 L'applicazione degli articoli 9, 10 e 12 della legge 7 giugno 1937, n. 913, quali risultano modificati dagli articoli 10 e 11 della legge 29 gennaio 1942, n. 64, e' sospesa per gli avanzamenti relativi agli anni 1952, 1953 e 1954.
 
-#### Art. 25
+### Art. 25
 
 Sono abrogati gli articoli 1, 2, 3, 4, 5, 6, 7, 8 e 13 della legge 7 giugno 1937, n. 913, quali risultano modificati dagli articoli 6, 8 e 9 della legge 29 gennaio 1942, n. 64, e gli articoli 10 e 11 della legge 4 agosto 1942, n. 915, nonche' tutte le altre disposizioni in contrasto con la presente legge.
 
-#### Art. 26
+### Art. 26
 
 I precedenti articoli 1, 2, 3, 4, 5, 6, 7, 8, 13, 14, 15, 19, 20 e 22 si applicano per la formazione dei quadri di avanzamento con validita' 1 gennaio 1953.
 
@@ -236,7 +228,7 @@ Gli articoli 10, 11 e 12 iniziano ad aver applicazione per il ((concorso di ammi
 
 Per i concorsi a corsi d'istruzione precedenti continuano ad avere effetto le disposizioni dell'art. 12 della legge 9 gennaio 1936, n. 75, quale risulta sostituito dall'art. 9 della legge 4 agosto 1942, n. 915, nonche' quello dell'art. 13, secondo comma, della legge 22 dicembre 1930, n. 1699.
 
-#### Art. 27
+### Art. 27
 
 Gli appuntati giudicati idonei alla promozione a sottobrigadiere ai sensi dell'art. 6 della legge 29 gennaio 1942, n. 64, i quali siano rimasti iscritti sul relativo quadro di avanzamento al 31 dicembre 1952, sono riportati d'ufficio nel quadro di avanzamento compilato a norma del precedente art. 13, in concorrenza secondo l'anzianita' di grado con quelli giudicati idonei ai sensi di questo ultimo articolo.
 
@@ -246,11 +238,11 @@ Uguale numero di promozioni potra' essere effettuato all'inizio sia del secondo 
 
 I soprannumeri che, ferma restando l'applicazione delle disposizioni contenute nell'art. 3, primo comma, del decreto legislativo 2 dicembre 1947, n. 1651, e nell'art. 3, primo comma, del decreto legislativo 9 marzo 1948, n. 450, ratificati senza modificazioni dalla legge 15 luglio 1950, n. 594, si determinano nel grado di sottobrigadiere per effetto delle disposizioni contenute nei precedenti commi sono riassorbiti con le prime successive vacanze che si verificano in detto grado. In corrispondenza degli indicati soprannumeri e fino al loro completo riassorbimento e' lasciato vacante un numero di posti nel grado di finanziere tale da compensare la spesa derivante dai soprannumeri.
 
-#### Art. 28
+### Art. 28
 
 I sottufficiali in servizio permanente della Guardia di finanza dichiarati irreperibili a norma dell'art. 124 della legge di guerra approvata con regio decreto 8 luglio 1938, n. 1415, e successive modificazioni, sono cancellati dai ruoli organici con decorrenza dalla data del verbale di irreperibilita'. In caso di successiva accertata reperibilita', sono reinseriti nei ruoli col proprio grado ed anzianita', anche eventualmente in eccedenza, salvo il riassorbimento dell'eccedenza stessa al verificarsi della prima vacanza nel grado.
 
-#### Art. 29
+### Art. 29
 
 Le norme stabilite per l'avanzamento dall'art. 15 della legge 7 giugno 1937, n. 913, e dall'art. 22 della presente sono da osservarsi anche:
 
@@ -258,11 +250,11 @@ per la dispensa dal servizio dei sottufficiali e militari di truppa;
 
 per il collocamento a riposo d'autorita' dei sottufficiali ai sensi dell'art. 1 della legge 18 aprile 1940, n. 559.
 
-#### Art. 30
+### Art. 30
 
 Salvo il disposto degli articoli 26 e 27, i precedenti articoli hanno effetto dal 1 gennaio 1953.
 
-#### Art. 31
+### Art. 31
 
 Con decreto del Presidente della Repubblica, sentito il Consiglio dei Ministri, su proposta del Ministro per le finanze, di concerto con quello per il tesoro, sara' emanato il regolamento per la esecuzione della legge 7 giugno 1937, n. 913, contenente disposizioni sull'avanzamento dei sottufficiali e militari di truppa del Corpo della guardia di finanza, con le modifiche ed integrazioni apportatevi dalle leggi 20 marzo 1940, n. 234, 29 gennaio 1942, n. 64, 4 agosto 1942, n. 915, e 10 dicembre 1942; n. 1551, dal decreto legislativo luogotenenziale 7 settembre 1945, n. 590, e dalla presente legge.
 

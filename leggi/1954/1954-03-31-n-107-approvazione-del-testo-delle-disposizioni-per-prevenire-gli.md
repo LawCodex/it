@@ -26,11 +26,11 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 E' approvato l'annesso testo delle disposizioni per prevenire gli abbordi in mare, applicabili indistintamente alle navi della marina mercantile e della marina militare nonche' agli idrovolanti civili e militari.
 
-#### Art. 2
+### Art. 2
 
 Le suddette disposizioni entrano in vigore a datare dal 1 gennaio 1954 e da tale data sono abrogati il regio decreto 13 dicembre 1896, n. 577, il regio decreto 26 aprile 1906, n. 161, e il regio decreto 23 giugno 1930, n. 1250.
 
@@ -52,7 +52,7 @@ ALLEGATO
 
 Testo delle disposizioni per prevenire gli abbordi in mare
 
-#### Art. 1
+### Art. 1
 
 Le presenti disposizioni devono essere osservate da tutte le navi e da tutti gli idrovolanti in alto mare ed in tutte le acque con esso comunicanti accessibili alla navigazione marittima, salvo le eccezioni previste dall'art. 31. Gli idrovolanti che per la loro speciale costruzione non possono attenersi integralmente alle disposizioni relative alla dotazione dei fanali e dei segnali devono osservare tali disposizioni nel modo piu' efficace consentito dalle circostanze.
 
@@ -90,7 +90,7 @@ Agli effetti delle presenti disposizioni, salvo norme contrarie risultanti dal c
 
 ## CAPO II - FANALI E SEGNALI.
 
-#### Art. 2
+### Art. 2
 
 Una nave a propulsione meccanica, quando in moto, deve portare:
 
@@ -112,7 +112,7 @@ Una nave a propulsione meccanica, quando in moto, deve portare:
 
 3\) all'estremita' dell'ala sinistra un fanale a luce rossa costruito in modo da irradiare una luce ininterrotta su un arco d'orizzonte di 110° fissato in modo da proiettare la sua luce da proravia fino a 20° a poppavia del traverso sulla sinistra e di intensita' luminosa tale da essere visibile ad una distanza di almeno due miglia.
 
-#### Art. 3
+### Art. 3
 
 Una nave a propulsione meccanica, quando rimorchia o spinge un'altra nave o un idrovolante, deve portare, oltre ai fanali laterali, due fanali a luce bianca brillante disposti in linea verticale, uno al disopra dell'altro, ad una distanza fra loro non inferiore a metri 1,83 (6 piedi), e quando rimorchia piu' di una nave deve portare un terzo fanale a luce bianca brillante, a metri 1,83 (6 piedi) al disopra o al disotto degli altri due, se la lunghezza del rimorchio, misurata dalla poppa del rimorchiatore alla poppa dell'ultima nave o dell'ultimo idrovolante rimorchiato, e' maggiore di metri 183 (600 piedi). I fanali di cui sopra devono avere la stessa struttura ed intensita' luminosa e uno di essi deve essere portato nella stessa posizione del fanale a luce bianca indicato nell'art. 2, comma primo, n. 1, tranne il terzo fanale, che deve essere portato ad un'altezza non inferiore a metri 4,27 (14 piedi) al disopra dello scafo. In una nave con un solo albero tali fanali possono essere posati sull'albero.
 
@@ -120,7 +120,7 @@ Il rimorchiatore deve portare inoltre il fanale indicato nell'art. 10 o, in sost
 
 Un idrovolante in acqua, quando rimorchia uno o piu' idrovolanti ed una o piu' navi, deve portare i fanali indicati nell'art. 2, secondo comma, nn. 1, 2 e 3; ed inoltre deve poi tare un secondo fanale a luce bianca avente la stessa struttura ed intensita' luminosa del fanale a luce bianca menzionato nell'art. 2, secondo comma, n. 1, disposto in linea verticale ad almeno metri 1,83 (6 piedi) al disopra o al disotto di tale fanale.
 
-#### Art. 4
+### Art. 4
 
 Una nave che non puo' governare deve portare, nel punto in cui possano essere meglio veduti, e se e' nave a propulsione meccanica invece dei fanali indicati nell'art. 2, primo comma, nn. 1 e 2, due fanali a luce rossa, disposti in linea verticale uno al disopra dell'altro ad una distanza fra loro non inferiore a metri 1,83 (6 piedi) e di intensita' luminoso tale da essere visibili per tutto il giro dell'orizzonte ad una distanza di almeno due miglia. Durante il giorno essa deve portare, disposti in linea verticale uno al disopra dell'altri, ad una distanza fra loro non inferiore a metri 1,83 (6 piedi), nel punto in, cui possano essere meglio veduti, due palloni od oggetti approssimativamente rotondi, neri, aventi un diametro non inferiore a metri 0,61 (2 piedi) ciascuno.
 
@@ -134,19 +134,19 @@ I fanali ed i segnali prescritti dal presente articolo devono essere considerati
 
 I segnali di cui sopra non sono segnali delle navi in pericolo e che chiedono soccorso: questi ultimi sono descritti nell'art. 32.
 
-#### Art. 5
+### Art. 5
 
 Una nave a vela in moto e una nave o un idrovolante rimorchiato devono portare gli stessi fanali prescritti dall'art. 2 rispettivamente per una nave a propulsione meccanica o per un idrovolante in moto sull'acqua (in flottaggio), ad eccezione dei due fanali a luce bianca indicati in detto articolo, che essi non devono mai portare. Essi devono portare inoltre i fanali di poppa come indicato nell'art. 10 rimanendo stabilito che le navi rimorchiate, ad eccezione dell'ultima, possono portare invece dei detti fanali di poppa un piccolo fanale a luce bianca, come indicato nell'art. 3, secondo comma.
 
 Una nave che viene spinta avanti da un rimorchiatore deve portare alla estrema prora sul lato destro un fanale a luce verde e sul lato sinistro un fanale a luce rossa, i quali devono avere le stesse caratteristiche dei fanali prescritti dall'art. 2, primo comma, nn. 4 e 5, e devono essere schermati come indicato nell'art. 2, primo comma, n. 6, rimanendo stabilito che se piu' navi, qualunque ne sia il numero, sono spinte avanti in gruppo, esse devono portare gli stessi fanali che sono prescritti per una sola nave,
 
-#### Art. 6
+### Art. 6
 
 Sulle piccole navi, quando non e' possibile, a causa del cattivo tempo o per altri fondati motivi, fissare a posto i fanali laterali a luce verde e a luce rossa, questi fanali devono essere tenuti sottomano accesi e pronti per l'uso immediato e, nell'avvicinarsi ad altre navi od essendo da esse avvicinati, devono essere mostrati dal lato corrispondente, in tempo utile per prevenire una collisione, in maniera da riuscire visibili quanto piu' possibile e in modo che la luce verde non sia veduta dal lato sinistro, ne' la luce rossa dal lato dritto, ne', se e' possibile, a piu' di due rombi di bussola (22°,5) a poppavia del traverso del lato rispettivo.
 
 Per rendere l'uso di questi fanali portatili piu' sicuro e piu' facile, essi devono essere dipinti esternamente con il colore della luce rispettiva e devono essere forniti di schermi adatti.
 
-#### Art. 7
+### Art. 7
 
 Le navi a propulsione meccanica inferiore a 40 tonnellate, le navi inferiori a 20 tonnellate che navigano alla vela o a remi ed i battelli a remi, quando in moto non hanno l'obbligo di portare i fanali indicati nell'art. 2, ma se non li portano devono essere provvisti dei seguenti fanali:
 
@@ -168,7 +168,7 @@ d) le piccole imbarcazioni a remi che navigano alla vela o a remi devono aver pr
 
 e) le navi e le imbarcazioni alle quali si riferisce il presente articolo non hanno l'obbligo di portare i fanali ed i segnali prescritti dagli articoli 4, primo comma, ed 11, quinto comma.
 
-#### Art. 8
+### Art. 8
 
 Una nave-pilota a vela, quando attende al servizio di pilotaggio nel suo punto di stazione e non e' all'ancora, non deve portare i fanali prescritti per le altre navi, ma deve a vere un fanale a luce bianca in testa d'albero, visibile per tutto il giro dell'orizzonte ad una distanza di almeno tre miglia, e deve mostrare inoltre uno o piu' fanali a lampi a brevi intervalli mai maggiori di 10 minuti.
 
@@ -182,7 +182,7 @@ Tutte le navi-pilota in servizio di pilotaggio che si trovano all'ancora nel lor
 
 Tutte le navi-pilota, siano o no all'ancora, quando non si trovano nel loro punto di stazione in servizio di pilotaggio, devono portare gli stessi fanali prescritti per le altre navi della loro classe e di eguale tonnellaggio.
 
-#### Art. 9
+### Art. 9
 
 Tutte le navi da pesca, quando non pescano, devono portare i fanali o i segnali prescritti per le navi similari di eguale tonnellaggio.
 
@@ -212,7 +212,7 @@ Se una nave, mentre pesca, rimane immobilizzata per avere i propri attrezzi impi
 
 Nota. - Per i segnali da nebbia riguardanti le navi da pesca, si veda l'art. 15, comma terzo, n. 9.
 
-#### Art. 10
+### Art. 10
 
 Una nave in moto deve portare di poppa un fanale a luce bianca costruito in modo da irradiare una luce ininterrotta su un arco d'orizzonte di dodici rombi di bussola (135°), fissato in modo da proiettare la sua luce verso poppa fino a sei rombi (67°,5) su ciascun lato della nave e di intensita' luminosa tale da essere veduto ad una distanza di almeno due miglia. Questo fanale deve essere collocato quanto piu' possibile alla stessa altezza dei fanali laterali (').
 
@@ -220,7 +220,7 @@ A bordo delle piccole navi, se, a causa del cattivo tempo o per altri motivi giu
 
 Un idrovolante in moto sull'acqua ("in flottaggio") deve portare sulla coda un fanale a luce bianca costruito in modo da irradiare verso poppa una luce ininterrotta su un arco d'orizzonte di 140°, fissato in modo da irradiare la sua luce per 70° su ciascun lato dell'idrovolante e di intensita' luminosa tale da essere visibile ad una distanza di almeno due miglia.
 
-#### Art. 11
+### Art. 11
 
 Una nave di lunghezza inferiore a metri 45,75 (150 piedi), quando all'ancora, deve portare nella parte prodiera, nel punto in cui possa essere meglio veduto, un fanale a luce bianca costruito in modo da irradiare una luce chiara, uniforme e ininterrotta, visibile per tutto il giro dell'orizzonte ad una distanza di almeno due miglia.
 
@@ -240,11 +240,11 @@ Un idrovolante in acqua di lunghezza pari o superiore a metri 45,75 (150 piedi),
 
 Un idrovolante incagliato deve portare un fanale di fonda od i fanali prescritti nei comma sesto e settimo del presente articolo, ed inoltre puo' portare due fanali a luce rossa disposti in linea verticale, ad una distanza fra loro non inferiore a metri 0,91 (3 piedi) e collocati in modo da essere visibili per tutto il giro dell'orizzonte.
 
-#### Art. 12
+### Art. 12
 
 Le navi o gl'idrovolanti in acqua, se necessario allo scopo di attirare l'attenzione, possono mostrare, in aggiunta ai fanali che sono tenuti a portare in base alle presenti disposizioni, un fanale a lampi o a fare uso di segnali detonanti o di qualsiasi altro efficace segnale acustico che non possa essere confuso con alcun altro segnale autorizzato in altri punti delle presenti disposizioni.
 
-#### Art. 13
+### Art. 13
 
 L'applicazione della presenti disposizioni non deve in alcun modo interferire con l'applicazione di quelle speciali emanate dal Governo di qualsiasi Stato, relativamente ad altri fanali di posizione ed a segnali da usarsi a bordo della navi da guerra, delle navi naviganti in convoglio e degli idrovolanti in acqua, ne' con l'uso di segnali di riconoscimento adottati da armatori, che siano stati approvati dai rispettivi, Governi e debitamente registrati e pubblicati.
 
@@ -252,13 +252,13 @@ Quando un Governo interessato ritiene che una nave da guerra o un'altra nave mil
 
 Governo interessato abbia giudicato atte a consentire un'osservanza quanto piu' stretta possibile delle presenti disposizioni nei riguardi di detta nave o idrovolante.
 
-#### Art. 14
+### Art. 14
 
 Una nave che naviga alla vela e contemporaneamente a mezzo di macchine deve portare, durante il giorno, di prora, nel punto in cui possa essere meglio veduto, un cono nero, col vertice rivolto verso l'alto, del diametro alla base non Inferiore a metri 0,61 (2 piedi).
 
 ## CAPO III - SEGNALI ACUSTICI PER LA NEBBIA, ECC.
 
-#### Art. 15
+### Art. 15
 
 Una nave a propulsione meccanica deve essere dotata di un buon fischio, azionato dal vapore o da altri mezzi atti a sostituire il vapore, collocato in modo che il suono non possa essere intercettato da alcun impedimento; di un corno da nebbia efficiente, azionato da un mezzo meccanico; nonche' di una buona campana. Una nave a vela di 20 tonnellate o piu' deve essere dotata di un corno da nebbia e di una campana.
 
@@ -290,7 +290,7 @@ In tempo di nebbia, foschia, nevicate, forti piovaschi o in ogni altra condizion
 
 9\) una nave quando pesca, se e' di 20 tonnellate o piu', deve emettere, ad intervalli non maggiori di un minuto, uno squillo seguito da ripetuti colpi di campana; o puo', invece di questi segnali, emettere uno squillo composto di una serie di piu' note di tonalita' alternativamente alta e bassa.
 
-#### Art. 16
+### Art. 16
 
 Una nave o un idrovolante in acqua, in tempo di nebbia, foschia, nevicate, forti piovaschi o in qualsiasi altra condizione che in modo analogo limiti la visibilita', deve procedere con velocita' moderata, tenendo conto con molta cura delle circostanze e delle condizioni del momento.
 
@@ -298,7 +298,7 @@ Una nave a propulsione meccanica che ode, apparentemente a proravia del suo trav
 
 ## CAPO IV - NORME PER GOVERNARE E MANOVRARE.
 
-#### Art. 17
+### Art. 17
 
 Tutte le manovre decise in applicazione ed in seguito alla interpretazione delle presenti disposizioni devono essere eseguite con sicurezza ed ampio margine di tempo, come va fatto in osservanza delle buone regole dell'arte marinara.
 
@@ -306,7 +306,7 @@ Il pericolo di collisione, quando le circostanze lo permettono, puo' essere acce
 
 I naviganti devono tener presente che un idrovolante in fase di ammaraggio o di decollo o che manovra in condizioni atmosferiche sfavorevoli, puo' trovarsi nell'impossibilita' di modificare all'ultimo momento la manovra che si era prefisso.
 
-#### Art. 18
+### Art. 18
 
 Quando due navi a vela si avvicinano l'una all'altra in modo da implicare pericolo di collisione, una di esse deve manovrare per lasciar la via libera all'altra nel modo seguente:
 
@@ -320,7 +320,7 @@ d) quando entrambe le navi corrono a vento largo e con vento dallo stesso lato, 
 
 e) la nave che naviga con vento di poppa deve lasciar libera la rotta all'altra.
 
-#### Art. 19
+### Art. 19
 
 Quando due navi a propulsione meccanica si vanno incontro con rotte direttamente opposte, o quasi opposte, in modo da Implicare pericolo di collisione, ciascuna di esse deve accostare a dritta in modo da poter passare sulla sinistra dell'altra. Il presente articolo si applica unicamente nei casi in cui le navi si muovono incontro con rotte direttamente opposte, o quasi opposte, in modo da implicare pericolo di collisione e non e' applicabile a due navi che, continuando nelle loro rotte rispettive, possono passare libere l'una dall'altra.
 
@@ -332,29 +332,29 @@ ovvero quando si vedono i due fanali a luce verde e a luce rossa in qualunque al
 
 Agli effetti del presente articolo e degli articoli da 19 a 30 inclusi - ad eccezione di quanto disposto al secondo comma dell'art. 21 - un idrovolante in acqua deve essere considerato come una nave e l'espressione nave a propulsione meccanica deve essere interpretata in conformita'.
 
-#### Art. 20
+### Art. 20
 
 Quando due navi a propulsione meccanica navigano con rotte che si incrociano in modo da implicare pericolo di collisione, la nave che rileva l'altra sulla propria dritta deve lasciare a questa libera la rotta.
 
-#### Art. 21
+### Art. 21
 
 Quando due navi, una a propulsione meccanica e l'altra a vela, navigano con rotte tali da implicare pericolo di collisione, la nave a propulsione meccanica deve lasciar libera la rotta alla nave a vela salvo le eccezioni previste dagli articoli 25 e 27.
 
 Un idrovolante in acqua deve normalmente tenersi ben libero da tutte le navi ed evitare di intralciare la loro navigazione. Tuttavia quando vi e' pericolo di collisione esso deve attenersi alle disposizioni contenute nel presente testo.
 
-#### Art. 22
+### Art. 22
 
 Quando in base alle presenti disposizioni, una delle due navi deve lasciar libera la rotta all'altra, quest'ultima deve mantenere la propria rotta e la propria velocita'. Quando, per qualsiasi causa, quest'ultima nave si trova cosi' vicina all'altra che la collisione non puo' essere evitata con la sola manovra della nave che deve cedere il passo, anch'essa deve agire nel modo piu' adatto per evitare la collisione (si vedano gli articoli 28 e 30).
 
-#### Art. 23
+### Art. 23
 
 Una nave che in base alle presenti disposizioni deve lasciar libera la rotta ad un'altra nave deve evitare, se le circostanze del caso lo consentono, di passare di prora a quest'ultima.
 
-#### Art. 24
+### Art. 24
 
 Una nave a propulsione meccanica che in base alle presenti disposizioni deve lasciar libera la rotta ad un'altra nave nell'avvicinarsi ad essa, se necessario, deve diminuire la propria velocita' o fermare le macchine, ovvero andare indietro.
 
-#### Art. 25
+### Art. 25
 
 Fermo restando quanto stabilito dalle presenti disposizioni una nave che ne raggiunge un'altra deve lasciar libera la rotta alla nave raggiunta.
 
@@ -362,23 +362,23 @@ Una nave che si avvicina ad un'altra venendo da una direzione di piu' di dite ro
 
 Se la nave, che ne raggiunge un'altra non puo' stabilire con certezza se si trova a proravia o a poppavia di questa direzione rispetto all'altra nave, essa, in caso di dubbio, deve considerarsi come una nave che ne raggiunge un'altra e lasciare a questa libera la rotta.
 
-#### Art. 26
+### Art. 26
 
 Una nave a propulsione meccanica che fa rotta in in passo stretto deve, quando cio' e' possibile e non comporta un pericolo mantenersi nella meta' di destra del passaggio o canale rispetto alla propria rotta.
 
 Una nave a propulsione meccanica che si avvicina al gomito di un canale dove non e' possibile vedere altre navi a propulsione meccanica che si avvicinano in senso opposto deve mettere, quando si trova entro un mezzo miglio dal gomito, uno squillo prolungato del fischio. A questo segnale dovra' essere data risposta con uno squillo analogo da qualsiasi nave a propulsione meccanica in condizioni di udirlo, che stia avvicinandosi dall'altra parte del gomito. In ogni caso, sia o no udito il segnale di una nave che si avvicina dall'altra parte, detto gomito deve essere percorso con attenzione e cautela.
 
-#### Art. 27
+### Art. 27
 
 Le navi non impegnate in operazioni di pesca, devono, quando sono in moto, lasciar libera la rotta alle navi che stanno pescando con reti, lenze o reti a strascico. Questa norma peraltro non da' diritto alle navi intente alla pesca di ingombrare un passaggio frequentato da navi che non siano da pesca.
 
-#### Art. 28
+### Art. 28
 
 Nell'applicazione e nell'interpretazione delle presenti disposizioni si dovranno tenere nel debito conto tutti i pericoli della navigazione e di collisione e tutte le circostanze particolari, ivi comprese quelle che limitano le possibilita' della nave e dell'aeromobile interessato, che rendano necessario discostarsi dalle prescrizioni comminate dalle presenti disposizioni allo scopo di evitare un pericolo immediato.
 
 ## CAPO V - VARIE.
 
-#### Art. 29
+### Art. 29
 
 Quando delle navi sono in vista l'una dell'altra, una nave a propulsione meccanica in moto che cambia la sua rotta in conformita' di quanto autorizzato o prescritto dalle presenti disposizioni deve indicare la sua manovra a mezzo dei seguenti segnali con il fischio: uno squillo breve per significare "sto accostando a dritta";
 
@@ -390,19 +390,17 @@ Una nave a propulsione meccanica che in conformita' delle presenti disposizioni 
 
 L'applicazione delle presenti disposizioni non deve in alcun modo interferire con l'osservanza di altre norme speciali emanate dal Governo di qualsiasi Stato per quanto si riferisco all'uso di segnali addizionali col fischio tra le navi da guerra, o tra navi naviganti in convoglio.
 
-#### Art. 30
+### Art. 30
 
 Nulla di quanto e' prescritto dalle presenti disposizioni puo' esonerare una nave, il suo proprietario, il suo comandante ed il suo equipaggio dalle conseguenze di qualsiasi negligenza nel portare i fanali o i segnali prescritti o nel mantenere il dovuto servizio di vedetta o nell'attenersi alle precauzioni richieste dalla pratica ordinaria degli uomini di mare o dalle speciali circostanze del caso.
 
-## CAPO VI - RISERVA RELATIVA AI REGOLAMENTI PER LA NAVIGAZIONE NEI PORTI E NELLE
+## CAPO VI - RISERVA RELATIVA AI REGOLAMENTI PER LA NAVIGAZIONE NEI PORTI E NELLE ACQUE INTERNE.
 
-### ACQUE INTERNE.
-
-#### Art. 31
+### Art. 31
 
 Nessuna delle presenti disposizioni deve interferire con l'osservanza di norme speciali debitamente emanate dalle autorita' locali relativamente alla navigazione nei porti, nei fiumi, nei laghi e nelle acque interne, ivi compresi gli specchi d'acqua riservati agli idrovolanti.
 
-#### Art. 32
+### Art. 32
 
 Segnali di pericolo.
 
@@ -430,7 +428,7 @@ E' vietato l'uso di uno qualsiasi dei predetti segnali, se non per indicare che 
 
 Nota. - E' stato istituito un segnale radio per le navi in pericolo avente lo scopo di far entrare in funzione l'auto-allarme di altre navi e di attirare in tal modo l'attenzione sui segnali o sui messaggi di soccorso. Il segnale consiste in una serie di 12 linee trasmesse in un minuto, della durata di 4 secondi per ogni linea e con un intervallo di un secondo fra due linee consecutive.
 
-#### Art. 33
+### Art. 33
 
 Tutti gli ordini al timoniere devono essere dati nel modo seguente:
 

@@ -50,17 +50,15 @@ il seguente decreto legislativo:
 
 ## Titolo I - CAMPO DI APPLICAZIONE
 
-##### Art. 1
+#### Art. 1
 
 1\. Il presente decreto si applica alle attivita' di medico chirurgo esercitate in qualita' di dipendente o libero-professionista.
 
 ## Titolo II - RECIPROCO RICONOSCIMENTO DEI TITOLI
 
-### Capo I - Diplomi, certificati ed altri titoli
+### Capo I - Diplomi, certificati ed altri titoli di medico chirurgo
 
-#### di medico chirurgo
-
-##### Art. 2
+#### Art. 2
 
 1\. I diplomi, certificati e altri titoli di medico chirurgo, rilasciati ai cittadini degli Stati membri da altri Stati membri conformemente all'articolo 18 ed elencati nell'allegato A, sono riconosciuti in Italia con gli stessi effetti dei diplomi rilasciati in Italia per l'accesso all'attivita' di medico chirurgo, dipendente o libero- professionfsta.
 
@@ -68,11 +66,9 @@ il seguente decreto legislativo:
 
 ## Titolo II - RECIPROCO RICONOSCIMENTO DEI TITOLI
 
-### Capo II - Diplomi, certificati ed altri titoli di medico chirurgo specialista
+### Capo II - Diplomi, certificati ed altri titoli di medico chirurgo specialista comuni a tutti gli Stati membri e propri di due o piu' Stati membri.
 
-#### comuni a tutti gli Stati membri e propri di due o piu' Stati membri.
-
-##### Art. 3
+#### Art. 3
 
 1\. I diplomi, certificati e altri titoli di medico chirurgo specialista, comuni a tutti gli Stati membri, rilasciati ai cittadini degli Stati membri da altri Stati membri conformemente all'articolo 20 ed elencati nell'allegato B, sono riconosciuti in Italia con gli stessi effetti dei diplomi, certificati ed altri titoli di specializzazione rilasciati in Italia per l'accesso all'attivita' di medico chirurgo specialista, dipendente o libero-professionista.
 
@@ -80,7 +76,7 @@ il seguente decreto legislativo:
 
 3\. L'elenco di cui all'allegato B e' modificato con decreto del Ministro della sanita' di concerto con il Ministro dell'universita' e della ricerca scientifica e tecnologica in conformita' alle modifiche definite in sede comunitaria.
 
-##### Art. 4
+#### Art. 4
 
 1\. I diplomi, certificati e altri titoli di medico chirurgo specialista, comuni a due o piu' Stati membri e rilasciati ai cittadini degli Stati membri da altri Stati membri conformemente all'articolo 20 ed elencati nell'allegato C, sono riconosciuti con gli stessi effetti dei diplomi di specializzazione rilasciati in Italia per l'accesso all'attivita' di medico chirurgo specialista, dipendente o libero professionista.
 
@@ -88,7 +84,7 @@ il seguente decreto legislativo:
 
 3\. L'elenco di cui all'allegato C e' modificato con decreto del Ministro della sanita' di concerto con il Ministro dell'universita' e della ricerca scientifica e tecnologica, in conformita' alle modifiche definite in sede comunitaria.
 
-##### Art. 5
+#### Art. 5
 
 1\. I cittadini degli Stati membri in possesso del riconoscimento di cui all'articolo 2, che intendono conseguire uno dei diplomi di specializzazione, che non figurano negli allegati B e C o che, pur menzionati nell'allegato C, non sono rilasciati nello Stato membro di origine o di provenienza, possono concorrere all'ammissione alle scuole di specializzazione italiane, alle stesse condizioni e limiti previsti dalla normativa vigente, previa verifica dei requisiti.
 
@@ -112,7 +108,7 @@ Il D.Lgs. 8 luglio 2003, n. 277 ha disposto (con l'art. 9, comma 1, lettera a)) 
 
 ### Capo III - Diritti acquisiti
 
-##### Art. 6
+#### Art. 6
 
 1\. I diplomi, certificati od altri titoli di medico rilasciati dagli Stati di origine o provenienza che comprovino una formazione non rispondente all'insieme delle esigenze minime di formazione di cui all'articolo 18 sono ammessi al riconoscimento di cui all'articolo 2 se:
 
@@ -150,7 +146,7 @@ c) si accompagnano ad un certificato, rilasciato dalle Autorita' competenti tede
 
 ### Capo IV - Uso del titolo professionale e di formazione
 
-##### Art. 7
+#### Art. 7
 
 1\. I cittadini degli Stati membri che hanno ottenuto il riconoscimento di cui agli articoli 2, 3 e 4 usano rispettivamente il titolo di "medico chirurgo" e "medico chirurgo specialista in ..." e fanno uso delle relative abbreviazioni.
 
@@ -162,7 +158,7 @@ c) si accompagnano ad un certificato, rilasciato dalle Autorita' competenti tede
 
 ### Capo V - Diritto di stabilimento
 
-##### Art. 8
+#### Art. 8
 
 1\. I cittadini di uno Stato membro che hanno ottenuto il riconoscimento di cui agli articoli 2, 3 e 4, si iscrivono all'albo dei medici chirurghi e medici chirurghi specialisti della provincia in cui hanno stabilito la propria residenza o domicilio professionale e sono soggetti a quanto previsto dalle normative nazionali in relazione all'esercizio dell'attivita' professionale.
 
@@ -172,7 +168,7 @@ c) si accompagnano ad un certificato, rilasciato dalle Autorita' competenti tede
 
 4\. Qualora il Ministero della sanita' venisse a conoscenza di fatti gravi e specifici, avvenuti fuori dal territorio italiano anteriormente allo stabilimento dell'interessato in Italia, che potrebbero avere conseguenze per l'esercizio della relativa attivita' professionale, informa lo Stato di origine o di provenienza che esamina la veridicita' dei fatti. Le autorita' di tale Stato decidono della natura e dell'ampiezza delle indagini che devono essere svolte e comunicano al Ministero della sanita' quali conseguenze esse ne traggono nei confronti dei certificati o dei documenti da esse rilasciati. In caso di conferma della veridicita' dei fatti il Ministero della sanita' ne da' comunicazione alla Federazione degli ordini dei medici chirurghi per l'adozione dei relativi provvedimenti. Le informazioni trasmesse in questo caso sono coperte dal segreto d'ufficio.
 
-##### Art. 9
+#### Art. 9
 
 1\. I cittadini degli altri Stati membri dell'Unione europea che abbiano ottenuto l'iscrizione all'albo professionale hanno gli stessi diritti e sono soggetti agli obblighi e sanzioni disciplinari stabiliti dalla normativa nazionale.
 
@@ -182,19 +178,19 @@ c) si accompagnano ad un certificato, rilasciato dalle Autorita' competenti tede
 
 Il Ministero della sanita' comunica allo Stato di origine o di provenienza dell'interessato le sanzioni disciplinari adottate. Le informazioni sono coperte dal segreto d'ufficio.
 
-##### Art. 10
+#### Art. 10
 
 1\. Qualora, per l'accesso ad una delle attivita' di medico chirurgo o per il suo esercizio, fosse richiesto dalla normativa nazionale un documento relativo alle condizioni di salute fisica o psichica, per i cittadini degli Stati membri e' riconosciuta sufficiente la presentazione dello stesso documento richiesto nello Stato membro d'origine o di provenienza. Ove non sia previsto, lo stesso attestato deve essere rilasciato dall'Autorita' competente.
 
-##### Art. 11
+#### Art. 11
 
 1\. All'atto della presentazione della domanda i documenti di cui all'articolo 10 non devono essere di data anteriore a tre mesi.
 
-##### Art. 12
+#### Art. 12
 
 1\. La procedura di ammissione del beneficiario all'accesso ad una delle attivita' di medico chirurgo deve essere conclusa al piu' presto e comunque entro tre mesi dalla presentazione del fascicolo completo dell'interessato, fatte salve le dilazioni che potrebbero risultare indispensabili per la relativa istruttoria ovvero necessarie a seguito di eventuale ricorso proposto alla fine della procedura stessa. Lo Stato membro consultato deve far pervenire la propria risposta entro un termine di tre mesi. Al momento in cui riceve la risposta o alla scadenza di detto termine, il Ministero della sanita' prosegue la procedura di riconoscimento.
 
-##### Art. 13
+#### Art. 13
 
 1\. Nel caso in cui per l'accesso all'esercizio ad una delle attivita' di medico chirurgo sia richiesto la prestazione di un giuramento o una dichiarazione solenne e qualora la formula di detto giuramento o di detta dichiarazione non possa essere utilizzata dai cittadini degli altri Stati membri agli interessati e' proposta una formula appropriata ed equivalente.
 
@@ -202,7 +198,7 @@ Il Ministero della sanita' comunica allo Stato di origine o di provenienza dell'
 
 ### Capo VI - Prestazioni di servizi
 
-##### Art. 14
+#### Art. 14
 
 1\. Per le prestazioni in Italia di servizi, con carattere occasionale, di medico chirurgo o medico chirurgo specialista, i cittadini degli Stati membri sono dispensati dall'iscrizione all'ordine professionale e sono soggetti ai relativi diritti e doveri previsti dalla normativa vigente e sono sottoposti alle disposizioni disciplinari di carattere professionale o amministrativo-fiscale cosi' come previsto dall'ordinamento italiano.
 
@@ -210,7 +206,7 @@ Il Ministero della sanita' comunica allo Stato di origine o di provenienza dell'
 
 3\. Di ogni eventuale provvedimento adottato in caso di violazione o inottemperanza delle disposizioni di cui ai commi l e 2, e' data tempestiva comunicazione all'Autorita' competente dello Stato di origine o di provenienza.
 
-##### Art. 15
+#### Art. 15
 
 1\. Il medico o medico specialista cittadino di altri Stati membri dell'Unione europea, che intende erogare prestazioni occasionali, deve essere autorizzato dal Ministero della sanita' in via preventiva.
 
@@ -236,7 +232,7 @@ d) indicazione del domicilio durante la permanenza in Italia.
 
 ### Capo VII - Disposizioni comuni
 
-##### Art. 16
+#### Art. 16
 
 1\. Il Ministero della sanita' e la Federazione nazionale medici chirurghi diramano le informazioni utili e necessarie a far si che i cittadini di cui agli articoli 2, 3 e 4 conoscano adeguatamente le condizioni per l'accesso alla professione medica e la relativa legislazione.
 
@@ -252,7 +248,7 @@ d) indicazione del domicilio durante la permanenza in Italia.
 
 3-quinquies. I provvedimenti di rigetto delle domande di riconoscimento di diplomi, certificati e altri titoli devono essere congruamente motivate e sono impugnabili dinanzi agli organi giurisdizionali competenti. Decorso inutilmente il termine stabilito per l'adozione del provvedimento, il richiedente puo' ricorrere all'autorita' giudiziale.))
 
-##### Art. 17
+#### Art. 17
 
 1\. In casi di dubbio fondato il Ministero della sanita' richiede all'Autorita' competente di un altro Stato membro conferma della veridicita' e autenticita' dei diplomi, certificati o altri titoli, rilasciati in detto Stato membro, nonche' conferma dell'osservanza di tutti i requisiti di formazione previsti al Titolo II e al Titolo III.
 
@@ -260,7 +256,7 @@ d) indicazione del domicilio durante la permanenza in Italia.
 
 ### Capo I - Condizioni di formazione dei medici chirurghi
 
-##### Art. 18
+#### Art. 18
 
 1\. La formazione di medico chirurgo comprende:
 
@@ -276,7 +272,7 @@ d) adeguata esperienza clinica acquisita sotto opportuno controllo in ospedale.
 
 ((2-bis. Fermo restando il principio dell'invarianza della spesa, la formazione continua, ai sensi del decreto legislativo n. 229/1999, assicura la formazione professionale e l'aggiornamento permanente di coloro che hanno completato i loro studi, per tutto l'arco della vita professionale.))
 
-##### Art. 19
+#### Art. 19
 
 1\. Resta impregiudicata, per il Ministero della sanita', la facolta' di consentire sul territorio italiano e secondo le normative vigenti, l'accesso all'attivita' di medico chirurgo e il relativo esercizio ai titolari di diplomi, certificati e altri titoli, non conseguiti in uno Stato membro.
 
@@ -284,7 +280,7 @@ d) adeguata esperienza clinica acquisita sotto opportuno controllo in ospedale.
 
 ### Capo II - Condizione e formazione dei medici specialisti
 
-##### Art. 20
+#### Art. 20
 
 1\. La formazione che permette di ottenere un diploma di medico chirurgo specialista nelle specializzazioni indicate negli allegati B e C, risponde ai seguenti requisiti:
 
@@ -306,11 +302,11 @@ e) partecipazione personale del medico chirurgo candidato alla specializzazione,
 
 ((3-ter. La durata dei corsi di formazione specialistica, come definita dal decreto di cui al comma 3-bis, si applica a decorrere dall'anno accademico 2014/2015 di riferimento per i corsi di specializzazione. Gli specializzandi in corso, fatti salvi coloro che iniziano l'ultimo anno di specialita' nell'anno accademico 2014/2015, per i quali rimane in vigore l'ordinamento previgente, devono optare tra il nuovo ordinamento e l'ordinamento previgente con modalita' determinate dal medesimo decreto di cui al comma 3-bis)).
 
-## Titolo IV - Capo I
+## Titolo IV
 
-### Formazione specifica in medicina generale
+### Capo I - Formazione specifica in medicina generale
 
-##### Art. 21
+#### Art. 21
 
 1\. Per l'esercizio dell'attivita' di medico chirurgo di medicina generale nell'ambito del Servizio sanitario nazionale e' necessario il possesso del diploma di formazione specifica in medicina generale fermo restando la validita' degli attestati gia' rilasciati ai sensi del decreto del Ministro della sanita' di concerto con il Ministro della pubblica istruzione 10 ottobre 1988, pubblicato nella Gazzetta Ufficiale della Repubblica italiana, serie generale n. 267 del 14 novembre 1988 e del decreto legislativo 8 agosto 1991, n. 256.
 
@@ -322,15 +318,15 @@ AGGIORNAMENTO (16)
 
 E' stato ripristinato il testo gia' in vigore dal 7-11-1999 a seguito della soppressione della lettera a) dell'art. 12, comma 5 del D.L. 30 aprile 2019, n. 35, che disponeva la modifica del comma 1 del presente articolo, ad opera della L. 25 giugno 2019, n. 60, di conversione del D.L. medesimo.
 
-##### Art. 22
+#### Art. 22
 
 1\. Le denominazioni dei diplomi, certificati o altri titoli comprovanti la formazione specifica di medicina generale sono quelli indicati nell'allegato E.
 
-##### Art. 23
+#### Art. 23
 
 1\. I cittadini di uno Stato membro in possesso di diplomi, certificati o altri titoli di cui all'articolo 22, se riconosciuti, utilizzano in Italia il corrispondente titolo professionale e la relativa abbreviazione in lingua italiana.
 
-##### Art. 24
+#### Art. 24
 
 1\. Il diploma di cui all'articolo 21 si consegue a seguito di un corso di formazione specifica in medicina generale della durata di tre anni ed e' riservato ai laureati in medicina e chirurgia, abilitati all'esercizio professionale. I primi diplomi rilasciati a seguito di una formazione della durata di tre anni sono rilasciati entro il 1° gennaio 2006.
 
@@ -386,7 +382,7 @@ AGGIORNAMENTO (24)
 
 La Corte Costituzionale, con sentenza 12 marzo - 12 maggio 2026, n. 76 (in G.U. 1ª s.s. 13/05/2026, n. 19), ha dichiarato "l'illegittimita' costituzionale dell'art. 24, comma 5, del decreto legislativo 17 agosto 1999, n. 368 (Attuazione della direttiva 93/16/CEE in materia di libera circolazione dei medici e di reciproco riconoscimento dei loro diplomi, certificati ed altri titoli e delle direttive 97/50/CE, 98/21/CE, 98/63/CE e 99/46/CE che modificano la direttiva 93/16/CEE), nella parte in cui non prevede che il diploma di formazione specifica in medicina generale, conseguito nella prima data utile dopo il recupero del periodo di sospensione per gravidanza e maternita' del relativo corso di formazione, sia considerato come acquisito nella sessione ordinaria prevista per gli altri partecipanti al medesimo corso, ai fini degli effetti giuridici correlati alla trasformazione, in conformita' alla disciplina vigente, di un incarico di convenzione a tempo determinato con il Servizio sanitario nazionale in uno a tempo indeterminato".
 
-##### Art. 25
+#### Art. 25
 
 ((1. Le regioni e le province autonome entro il 31 ottobre di ogni anno determinano il contingente numerico da ammettere annualmente ai corsi, nei limiti concordati con il Ministero della salute, nell'ambito delle risorse disponibili.))
 
@@ -398,7 +394,7 @@ La Corte Costituzionale, con sentenza 12 marzo - 12 maggio 2026, n. 76 (in G.U. 
 
 5\. Nel caso di costituzione di piu' commissioni i candidati sono assegnati a ciascuna commissione, fino al raggiungimento del numero massimo di 250 candidati per commissione, in base alla localita' di residenza ovvero in ordine alfabetico ovvero in base ad altro criterio obiettivo stabilito dalla regione o provincia autonoma.
 
-##### Art. 26
+#### Art. 26
 
 ((1. Il corso di formazione specifica in medicina generale si articola in attivita' didattiche pratiche e attivita' didattiche teoriche da svolgersi in un ambiente ospedaliero individuato dalla regione o provincia autonoma territorialmente competente, in relazione alla disponibilita' di attrezzature e di servizi, o nell'ambito di uno studio di medicina generale o di un centro anch'esso accreditato, ai fini della formazione, dalla regione o provincia autonoma. La formazione prevede un totale di almeno 4800 ore, di cui 2/3 rivolti all'attivita' formativa di natura pratica.
 
@@ -430,7 +426,7 @@ f) un periodo di formazione in ostetricia e ginecologia, con attivita' clinica g
 
 ((5. Il corso inizia entro il mese di novembre e si conclude, compreso lo svolgimento dell'esame finale, entro il 30 ottobre del triennio successivo. La formazione non puo' concludersi prima del 30 settembre del terzo anno.))
 
-##### Art. 27
+#### Art. 27
 
 1\. La formazione specifica in medicina generale comporta la partecipazione personale del candidato all'attivita' professionale e l'assunzione delle responsabilita' connesse all'attivita' svolta. Le attivita' teoriche sono articolate in attivita' seminariali, studio guidato proposto dai rispettivi tutori, studio finalizzato proposto dai coordinatori delle attivita' seminariali, sessioni di confronto con i tutori e sessioni di ricerca, riflessione e confronto tra i tirocinanti della stessa area didattica. Il programma delle attivita' teoriche e quello delle attivita' pratiche si integrano tra loro a livello di obiettivi didattici, ma sono autonomi nella realizzazione concreta.
 
@@ -446,13 +442,13 @@ f) un periodo di formazione in ostetricia e ginecologia, con attivita' clinica g
 
 7\. COMMA ABROGATO DALLA L. 1 MARZO 2002, N. 39.
 
-##### Art. 28
+#### Art. 28
 
 1\. I corsi sono organizzati ed attivati dalle regioni e dalle province autonome che comunicano al Ministero della sanita' il piano dei corsi stessi entro il 31 ottobre di ogni anno.
 
 2\. ((COMMA SOPPRESSO DAL D.LGS. 8 LUGLIO 2003, N. 277)).
 
-##### Art. 29
+#### Art. 29
 
 1\. La commissione d'esame, per l'ammissione al corso, e' composta dal presidente dell'ordine dei medici chirurghi del capoluogo di regione o suo delegato che la presiede, da un primario ospedaliero di medicina interna designato dalla regione, da un medico di medicina generale designato dall'ordine e da un funzionario amministrativo regionale con funzioni di segretario. La commissione deve completare i suoi lavori entro il termine perentorio di sette giorni dalla data dell'esame.
 
@@ -460,7 +456,7 @@ f) un periodo di formazione in ostetricia e ginecologia, con attivita' clinica g
 
 3\. Al termine del ((triennio)), la commissione di cui al comma l, integrata da un rappresentante del Ministero della sanita' e da un professore ordinario di medicina interna o disciplina equipollente designato dal Ministero della sanita' a seguito di sorteggio tra i nominativi inclusi in appositi elenchi predisposti dal Ministero dell'universita', ricerca scientifica e tecnologica, previo colloquio finale, discussione di una tesina predisposta dal candidato e sulla base dei singoli giudizi espressi dai tutori e coordinatori durante il periodo formativo, formula il giudizio finale.
 
-##### Art. 30
+#### Art. 30
 
 1\. In deroga a quanto previsto dall'articolo 21, hanno diritto ad esercitare l'attivita' professionale in qualita' di medico di medicina generale i medici chirurghi abilitati all'esercizio professionale entro il 31 dicembre 1994.
 
@@ -480,7 +476,7 @@ f) un periodo di formazione in ostetricia e ginecologia, con attivita' clinica g
 
 > 4\. In base alle indicazioni di cui al comma precedente sono formati separati elenchi nominativi per ogni singola specialita'".
 
-##### Art. 31
+#### Art. 31
 
 1\. Il Ministero della sanita' riconosce i diplomi, certificati o altri titoli di formazione specifica o complementare in medicina generale dei cittadini dell'Unione europea, al fine dell'esercizio dell'attivita' di medico in medicina generale.
 
@@ -494,13 +490,13 @@ f) un periodo di formazione in ostetricia e ginecologia, con attivita' clinica g
 
 6\. Nel caso in cui il Ministero della sanita' venga a conoscenza di fatti gravi o specifici, verificatisi fuori del territorio nazionale, che possano influire sull'ammissione del richiedente all'esercizio della professione, chiede informazioni al riguardo alle competenti autorita' dello Stato di origine e provenienza. Le informazioni acquisite sono sottoposte a segreto d'ufficio.
 
-##### Art. 32
+#### Art. 32
 
 1\. Il Ministero della sanita' fornisce a richiesta delle competenti autorita' sanitarie dei Paesi comunitari le informazioni inerenti alle istanze dei medici chirurghi italiani tendenti ad ottenere l'ammissione all'esercizio dell'attivita' specifica in medicina generale nei Paesi dell'Unione europea e rilascia le certificazioni richieste, previa acquisizione della relativa documentazione.
 
 ## Titolo V - RICONOSCIMENTO TITOLI
 
-##### Art. 33
+#### Art. 33
 
 1\. Ai fini del riconoscimento dei titoli, certificati ed altri titoli, previsti dal presente decreto legislativo, l'interessato deve presentare al Ministero della sanita' istanza in lingua italiana, in carta semplice, corredata dai seguenti documenti:
 
@@ -522,7 +518,7 @@ b) certificato di lecito ed effettivo svolgimento dell'attivita' professionale r
 
 ### Capo I
 
-##### Art. 34
+#### Art. 34
 
 1\. La formazione specialistica dei medici ammessi alle scuole universitarie di specializzazione in medicina e chirurgia, di tipologia e durata di cui all'articolo 20 e comuni a tutti o a due o piu' Stati membri, si svolge a tempo pieno. Fermo restando il principio del rispetto del tempo pieno, il medico specializzando e il laureato in medicina e chirurgia partecipante al corso di formazione specifica in medicina generale possono esercitare le attivita' di cui all'articolo 19, comma 11, della legge 28 dicembre 2001, n. 448, nei limiti delle risorse finanziarie alle stesse attivita' destinate.
 
@@ -534,7 +530,7 @@ b) certificato di lecito ed effettivo svolgimento dell'attivita' professionale r
 
 4\. COMMA SOPPRESSO DAL D.LGS. 8 LUGLIO 2003, N. 277.
 
-##### Art. 35
+#### Art. 35
 
 1\. Con cadenza triennale ed entro il 30 aprile del terzo anno, le regioni e le province autonome di Trento e di Bolzano, tenuto conto delle relative esigenze sanitarie e sulla base di una approfondita analisi della situazione occupazionale, individuano il fabbisogno dei medici specialisti da formare comunicandolo al Ministero della sanita' e dell'universita' e della ricerca scientifica e tecnologica.
 
@@ -554,7 +550,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 15 marzo 2010, n. 66 ha disposto (con l'art. 2268, comma 1, numero 966)) che e' abrogato l'art. 35, comma 3, limitatamente alle parole "sentito, per gli aspetti relativi alla sanita' militare, il Ministro della difesa".
 
-##### Art. 36
+#### Art. 36
 
 1\. Entro centottanta giorni dalla data di entrata in vigore del presente decreto legislativo, con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica sono determinati le modalita' per l'ammissione alle scuole di specializzazione, i contenuti e le modalita' delle prove, nonche' i criteri per la valutazione dei titoli e per la composizione della commissione nel rispetto dei seguenti principi:
 
@@ -570,7 +566,7 @@ d) all'esito delle prove e' formata una graduatoria nazionale in base alla quale
 
 2\. Nelle more dell'adozione del decreto di cui al comma 1 del presente articolo si applica l'articolo 3 del decreto legislativo 8 agosto 1991, n. 257.
 
-##### Art. 37
+#### Art. 37
 
 1\. All'atto dell'iscrizione alle scuole universitarie di specializzazione in medicina e chirurgia, il medico stipula uno specifico contratto annuale ((di formazione specialistica)), disciplinato dal presente decreto legislativo e dalla normativa per essi vigente, per quanto non previsto o comunque per quanto compatibile con le disposizioni di cui al presente decreto legislativo. Il contratto e' finalizzato esclusivamente all'acquisizione delle capacita' professionali inerenti al titolo di specialista, mediante la frequenza programmata delle attivita' didattiche formali e lo svolgimento di attivita' assistenziali funzionali alla progressiva acquisizione delle competenze previste dall'ordinamento didattico delle singole scuole, in conformita' alle indicazioni dell'Unione europea. Il contratto non da' in alcun modo diritto all'accesso ai ruoli del Servizio sanitario nazionale e dell'universita' o ad alcun rapporto di lavoro con gli enti predetti.
 
@@ -594,7 +590,7 @@ d) il mancato superamento delle prove stabilite per il corso di studi di ogni si
 
 7\. Le eventuali controversie sono devolute all'autorita' giudiziaria ordinaria ai sensi del decreto legislativo 31 marzo 1998, n. 80.
 
-##### Art. 38
+#### Art. 38
 
 1\. Con la sottoscrizione del contratto il medico in formatione specialistica si impegna a seguire, con profitto, il programma di formazione svolgendo le attivita' teoriche e pratiche previste dagli ordinamenti e regolamenti didattici determinati secondo la normativa vigente in materia, in conformita' alle indicazioni dell'Unione europea. Ogni attivita' formativa e assistenziale dei medici in formazione specialistica si svolge sotto la guida di tutori, designati annualmente dal consiglio della scuola, sulla base di requisiti di elevata qualificazione scientifica, di adeguato curric- ulum professionale, di documentata capacita' didattico-formativa. Il numero di medici in formazione specialistica per tutore non puo' essere superiore a 3 e varia secondo le caratteristiche delle diverse specializzazioni.
 
@@ -616,7 +612,7 @@ d) il mancato superamento delle prove stabilite per il corso di studi di ogni si
 
 > Sulla base delle esigenze di formazione e di prestazioni rilevate dalla programmazione regionale, analoghe modalita' per l'istituzione dei corsi di specializzazione possono essere previste per i presidi ospedalieri delle unita' sanitarie locali, le cui strutture siano in possesso dei requisiti di idoneita' previsti dall'art. 7 del decreto legislativo 8 agosto 1991, n. 257".
 
-##### Art. 39
+#### Art. 39
 
 1\. Al medico in formazione specialistica, per tutta la durata legale del corso, e' corrisposto un trattamento economico annuo onnicomprensivo.
 
@@ -632,7 +628,7 @@ In fase di prima applicazione, per gli anni accademici 2006-2007 e 2007-2008, la
 
 4-bis. Alla ripartizione ed assegnazione a favore delle universita' delle risorse previste per il finanziamento della formazione dei medici specialisti per l'anno accademico di riferimento si provvede con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro dell'istruzione, dell'universita' e della ricerca, di concerto con il Ministro della salute e con il Ministro dell'economia e delle finanze.
 
-##### Art. 40
+#### Art. 40
 
 1\. Per la durata del la formazione a tempo pieno al medico e' inibito l'esercizio di attivita' libero-professionale all'esterno delle strutture assistenziali in cui si effettua la formazione ed ogni rapporto convenzionale o precario con il servizio sanitario nazionale o enti e istituzioni pubbliche e private. L'impegno richiesto per la formazione specialistica e' pari a quello previsto per il personale medico del Servizio sanitario nazionale a tempo pieno, assicurando la facolta' dell'esercizio della libera professione intramuraria.
 
@@ -662,7 +658,7 @@ In fase di prima applicazione, per gli anni accademici 2006-2007 e 2007-2008, la
 
 > Fermo restando quanto previsto dalle vigenti disposizioni per le tasse erariali, i contributi a carico degli specializzandi sono stabiliti con deliberazione del consiglio di amministrazione dell'universita'".
 
-##### Art. 41
+#### Art. 41
 
 1\. Il trattamento economico e' assoggettato alle disposizioni di cui all'articolo 4 della legge 13 agosto 1984, n. 476.
 
@@ -670,11 +666,11 @@ In fase di prima applicazione, per gli anni accademici 2006-2007 e 2007-2008, la
 
 3\. L'azienda sanitaria presso la quale il medico in formazione specialistica svolge l'attivita' formativa provvede, con oneri a proprio carico alla copertura assicurativa per i rischi professionali, per la responsabilita' civile contro terzi e gli infortuni connessi all'attivita' assistenziale svolta dal medico in formazione nelle proprie strutture, alle stesse condizioni del proprio personale.
 
-##### Art. 42
+#### Art. 42
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-##### Art. 43
+#### Art. 43
 
 1\. Presso il Ministero dell'universita' e della ricerca scientifica e tecnologica e' istituito l'Osservatorio nazionale della formazione medica specialistica con il compito di determinare gli standard per l'accreditamento delle strutture universitarie e ospedaliere per le singole specialita', di determinare e di verificare i requisiti di idoneita' della rete formativa e delle singole strutture che le compongono, effettuare il monitoraggio dei risultati della formazione, nonche' definire i criteri e le modalita' per assicurare la qualita' della formazione, in conformita' alle indicazioni dell'Unione europea. Ai fini della determinazione dei requisiti di idoneita' della rete formativa si tiene conto:
 
@@ -718,7 +714,7 @@ La L. 27 dicembre 2019, n. 160, ha disposto (con l'art. 1, comma 470) che "Le co
 
 Conseguentemente, la denominazione dell'Osservatorio nazionale della formazione medica specialistica di cui al decreto legislativo 17 agosto 1999, n. 368, e' modificata in « Osservatorio nazionale per la formazione sanitaria specialistica » e la sua composizione e' integrata per garantire una rappresentanza degli specializzandi dei profili professionali sanitari diversi da quello di medico, in aggiunta alla rappresentanza eletta dei medici in formazione specialistica".
 
-##### Art. 44
+#### Art. 44
 
 1\. Presso le regioni nelle quali sono istituite le scuole di specializzazione ((di cui al presente decreto legislativo)) e' istituito l'Osservatorio regionale per la formazione medicospecialistica, composto, in forma paritetica, da docenti universitari e dirigenti sanitari delle strutture presso le quali si svolge la formazione nonche' da tre rappresentanti dei medici in formazione specialistica. L'Osservatorio e' presieduto da un preside di facolta' designato dai presidi delle facolta' di medicina e chirurgia delle universita' della regione. Nella commissione e' assicurata la rappresentanza dei direttori delle scuole di specializzazione. L'Osservatorio puo' articolarsi in sezioni di lavoro. L'Osservatorio definisce i criteri per la rotazione di cui all'articolo 38, comma 2, e verifica lo standard di attivita' assistenziali dei medici in formazione specialistica nel rispetto dell'ordinamento didattico della scuola di specializzazione, del piano formativo individuale dello specializzando e dell'organizzazione delle aziende e strutture sanitarie, in conformita' alle indicazioni dell'Unione europea.
 
@@ -728,11 +724,11 @@ Conseguentemente, la denominazione dell'Osservatorio nazionale della formazione 
 
 L'Osservatorio fornisce altresi' elementi di valutazione all'Osservatorio nazionale.
 
-##### Art. 45
+#### Art. 45
 
 1\. Nei concorsi di accesso al profilo professionale medico il periodo di formazione specialistica e' valutato fra i titoli di carriera come servizio prestato nel livello iniziale del profilo stesso nel limite massimo della durata del corso di studi.
 
-##### Art. 46
+#### Art. 46
 
 Disposizioni finali
 
@@ -762,13 +758,13 @@ L'errata corrige in G.U. 23/2/2000, n. 44 ha disposto che al comma 2 del present
 
 ### Capo I
 
-##### Allegato A
+#### Allegato A
 
 Allegato A
 
 ((Parte di provvedimento in formato grafico))
 
-##### Allegato B
+#### Allegato B
 
 Allegato B
 
@@ -792,7 +788,7 @@ Il D.Lgs. 8 luglio 2003, n. 277 ha disposto (con l'art. 9, comma 1,
 
 lettera q)) che "l'allegato B-I parte e' sostituito dall'allegato X del presente decreto e gli allegati B-II parte, C e D sono sostituiti dall'allegato XI del presente decreto. Tutti i riferimenti all'allegato D sono intesi come effettuati all'allegato C, come introdotto dal presente decreto legislativo.".
 
-##### Allegato C
+#### Allegato C
 
 ((IL D.LGS. 8 LUGLIO 2003, N. 277, COME MODIFICATO DALL'ERRATA-CORRIGE IN G.U. 12/11/2003, N. 263, HA DISPOSTO (CON L'ART. 9, COMMA 1, LETTERA Q) CHE, A DECORRERE DAL 11 NOVEMBRE 2003, IL PRESENTE ALLEGATO E' SOSTITUITO DALL'ATTUALE PARTE II DELL'ALLEGATO B DEL D.LGS. 17 AGOSTO 1999, N. 368))
 
@@ -806,7 +802,7 @@ Il D.Lgs. 8 luglio 2003, n. 277 ha disposto (con l'art. 9, comma 1,
 
 lettera q)) che "l'allegato B-I parte e' sostituito dall'allegato X del presente decreto e gli allegati B-II parte, C e D sono sostituiti dall'allegato XI del presente decreto. Tutti i riferimenti all'allegato D sono intesi come effettuati all'allegato C, come introdotto dal presente decreto legislativo.".
 
-##### Allegato D
+#### Allegato D
 
 ((IL D.LGS. 8 LUGLIO 2003, N. 277, COME MODIFICATO DALL'ERRATA-CORRIGE IN G.U. 12/11/2003, N. 263, HA DISPOSTO (CON L'ART. 9, COMMA 1, LETTERA Q) CHE, A DECORRERE DAL 11 NOVEMBRE 2003, IL PRESENTE ALLEGATO E' SOSTITUITO DALL'ATTUALE PARTE II DELL'ALLEGATO B DEL D.LGS. 17 AGOSTO 1999, N. 368))
 
@@ -820,7 +816,7 @@ Il D.Lgs. 8 luglio 2003, n. 277 ha disposto (con l'art. 9, comma 1,
 
 lettera q)) che "l'allegato B-I parte e' sostituito dall'allegato X del presente decreto e gli allegati B-II parte, C e D sono sostituiti dall'allegato XI del presente decreto. Tutti i riferimenti all'allegato D sono intesi come effettuati all'allegato C, come introdotto dal presente decreto legislativo.".
 
-##### Allegato E
+#### Allegato E
 
 Allegato E
 

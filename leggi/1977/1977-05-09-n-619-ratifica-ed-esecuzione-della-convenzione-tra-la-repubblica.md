@@ -25,11 +25,11 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la convenzione tra la Repubblica italiana e la Repubblica araba d'Egitto sulle notificazioni degli atti, sulle commissioni rogatorie e sulla collaborazione giudiziaria e gli studi giuridici in materia civile, commerciale e di stato delle persone, firmata a Roma il 2 aprile 1974.
 
-#### Art. 2
+### Art. 2
 
 Piena ed intera esecuzione e' data alla convenzione in cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 25 della convenzione stessa.
 
@@ -69,7 +69,7 @@ il Signor Fakhri M. ABDEL NABI - Ministro della Giustizia
 
 i quali, dopo essersi scambiati i pieni poteri, ed averli trovati in buona e debita forma, hanno convenuto quanto segue:
 
-#### Articolo 1
+### Articolo 1
 
 Libero accesso ai tribunali
 
@@ -79,7 +79,7 @@ A tal fine essi hanno libero accesso ai tribunali competenti in materia civile, 
 
 2\. Il paragrafo precedente si applica anche alle persone giuridiche che hanno la sede sul territorio dell'altra Parte Contraente e sono costituite in base alle leggi di quest'ultima, sempre che i loro scopi o le loro attivita' non siano in contrasto con l'ordine pubblico dello Stato dove l'azione viene introdotta.
 
-#### Articolo 2
+### Articolo 2
 
 Cautio judicatum solvi
 
@@ -89,11 +89,11 @@ Cautio judicatum solvi
 
 ## ASSISTENZA GIUDIZIARIA GRATUITA
 
-#### Articolo 3
+### Articolo 3
 
 I cittadini di ciascuna Parte Contraente godono sul territorio dell'altra dell'assistenza giudiziaria gratuita alle stesse condizioni dei cittadini di quest'ultima.
 
-#### Articolo 4
+### Articolo 4
 
 1\. I certificati comprovanti l'insufficienza di risorse economiche, necessari per ottenere l'assistenza giudiziaria gratuita, menzionata all'articolo 3, sono rilasciati dalla autorita' competente della
 
@@ -103,21 +103,19 @@ Parte Contraente sul cui territorio l'interessato ha il domicilio o la residenza
 
 3\. L'autorita' competente a decidere sulla domanda di assistenza giudiziaria gratuita puo' assumere, ove necessario, informazioni supplementari presso l'autorita' dell'altra Parte Contraente.
 
-#### Articolo 5
+### Articolo 5
 
 La domanda di assistenza giudiziaria gratuita puo' essere presentata alla commissione competente per il gratuito patrocinio della Parte Contraente di cui l'interessato e' cittadino. Tale commissione trasmette la predetta domanda, unitamente al certificato previsto all'articolo 4, alla commissione competente dell'altra Parte Contraente in conformita' alle disposizioni dell'articolo 9 della presente Convenzione.
 
-#### Articolo 6
+### Articolo 6
 
 L'assistenza giudiziaria gratuita concessa dall'autorita' competente di una Parte Contraente in.
 
 un giudizio determinato si estende a tutti gli atti procedurali da compiersi, davanti al tribunale dell'altra Parte Contraente, per lo stesso giudizio.
 
-## PARTE II - ASSISTENZA GIUDIZIARIA RECIPROCA IN MATERIA
+## PARTE II - ASSISTENZA GIUDIZIARIA RECIPROCA IN MATERIA CIVILE COMMERCIALE E DI STATO DELLE PERSONE
 
-### CIVILE COMMERCIALE E DI STATO DELLE PERSONE
-
-#### Articolo 7
+### Articolo 7
 
 Dell'assistenza giudiziaria
 
@@ -125,13 +123,13 @@ Dell'assistenza giudiziaria
 
 2\. Ai sensi della presente Convenzione, per "tribunale" si intende ogni autorita' giurisdizionale competente in materia civile, commerciale e di stato delle persone secondo la legislazione in vigore nello Stato cui detta autorita' appartiene.
 
-#### Articolo 8
+### Articolo 8
 
 Oggetto dell'assistenza giudiziaria
 
 L'assistenza giudiziaria in materia civile, commerciale e di stato delle persone comprende la notifica di atti giudiziari ed extragiudiziari e l'esecuzione di atti processuali relativi alla escussione di testimoni, all'interrogatorio delle parti, alla nomina dei periti, ai sopralluoghi ed a qualsiasi altro atto di procedura.
 
-#### Articolo 9
+### Articolo 9
 
 Modalita' di trasmissione degli atti e dei documenti
 
@@ -139,13 +137,13 @@ Modalita' di trasmissione degli atti e dei documenti
 
 2\. Tuttavia le disposizioni del paragrafo precedente non escludono la possibilita' per le Parti Contraenti di trasmettere gli atti per via diplomatica.
 
-#### Articolo 10
+### Articolo 10
 
 Traduzione degli atti
 
 Gli atti ed i documenti devono essere redatti nella lingua della Parte Contraente richiesta o essere corredati da una traduzione in lingua francese od inglese, certificata conforme secondo la legge della Parte richiedente.
 
-#### Articolo 11
+### Articolo 11
 
 Notifica di atti e documenti
 
@@ -155,7 +153,7 @@ Notifica di atti e documenti
 
 ## CONTENUTO DELLA RICHIESTA DI NOTIFICA
 
-#### Articolo 12
+### Articolo 12
 
 Gli atti ed i documenti giudiziari ed extragiudiziari devono essere accompagnati da una nota di trasmissione indicante, secondo i casi:
 
@@ -171,17 +169,17 @@ Gli atti ed i documenti giudiziari ed extragiudiziari devono essere accompagnati
 
 La nota di trasmissione deve essere accompagnata dalla traduzione di cui all'articolo 10 della presente Convenzione.
 
-#### Articolo 13
+### Articolo 13
 
 Se l'indirizzo o le generalita' della persona destinataria dell'atto da notificare sono indicati in modo insufficiente o inesatto, la Parte richiesta disporra' le opportune indagini al fine di accertare l'indirizzo o le generalita' esatti.
 
-#### Articolo 14
+### Articolo 14
 
 1\. Per la notifica dei documenti e degli atti giudiziari ed extragiudiziari il tribunale richiesto applica le leggi del proprio Stato.
 
 2\. Peraltro il tribunale richiesto puo', su domanda del tribunale richiedente, effettuare la notifica secondo una forma speciale sempre che cio' non sia contrario alle leggi del proprio Stato.
 
-#### Articolo 15
+### Articolo 15
 
 Lo Stato richiesto si limita ad assicurare la notifica dell'atto al suo destinatario; detta notifica e comprovata da una relazione debitamente datata e firmata dal destinatario o da un processo verbale di notifica redatto dall'autorita' competente dello Stato richiesto che deve contenere la indicazione del fatto, della data e del modo della notifica.
 
@@ -189,11 +187,11 @@ La relazione o il processo verbale sono trasmessi all'autorita' richiedente.
 
 Qualora la notifica non sia stata effettuata lo Stato richiesto restituisce, senza indugio, l'atto allo Stato richiedente indicando i motivi della mancata notifica.
 
-#### Articolo 16
+### Articolo 16
 
 Ciascuna Parte Contraente assume a proprio carico le spese derivanti dalle notifiche effettuate sul proprio territorio.
 
-#### Articolo 17
+### Articolo 17
 
 Trasmissioni delle commissioni rogatorie
 
@@ -207,7 +205,7 @@ Trasmissioni delle commissioni rogatorie
 
 5\. Per la trasmissione delle commissioni rogatorie si applicano le disposizioni dell'articolo 12 della presente Convenzione.
 
-#### Articolo 18
+### Articolo 18
 
 Esecuzione delle commissioni rogatorie
 
@@ -219,7 +217,7 @@ a) assicurare l'esecuzione della commissione rogatoria secondo una forma special
 
 b) informare in tempo utile l'autorita' richiedente della data e del luogo in cui la commissione rogatoria sara' eseguita affinche' le parti interessate possano assistervi nei limiti ed alle condizioni stabiliti dalle leggi in vigore nello Stato in cui l'esecuzione deve avere luogo.
 
-#### Articolo 19
+### Articolo 19
 
 Rifiuto di eseguire una commissione rogatoria
 
@@ -227,13 +225,13 @@ Rifiuto di eseguire una commissione rogatoria
 
 2\. Nel caso in cui la commissione rogatoria non venga eseguita, l'autorita' richiesta informera' immediatamente l'autorita' richiedente, indicando i motivi della mancata esecuzione.
 
-#### Articolo 20
+### Articolo 20
 
 Spese
 
 L'esecuzione delle commissioni rogatorie non da' luogo al rimborso di alcuna spesa o al pagamento di alcuna tassa.
 
-#### Articolo 21
+### Articolo 21
 
 Immunita' di testimoni e periti
 
@@ -247,7 +245,7 @@ Tale limite non include il periodo durante il quale il teste o il perito non ha 
 
 ## PARTE III - DISPOSIZIONI VARIE
 
-#### Articolo 22
+### Articolo 22
 
 Scambio di notizie tratte da registri di stato civile
 
@@ -259,7 +257,7 @@ Scambio di notizie tratte da registri di stato civile
 
 4\. L'invio delle richieste e la trasmissione delle informazioni e degli atti di cui al paragrafo 3 del presente articolo vengono effettuati dalle Parti Contraenti in conformita' alle disposizioni dell'articolo 9 della presente Convenzione.
 
-#### Articolo 23
+### Articolo 23
 
 Collaborazione giudiziaria
 
@@ -273,11 +271,11 @@ In armonia coi principi di collaborazione richiamati nel preambolo della present
 
 4\. Intensificazione di scambi di visite tra i magistrati dei due rispettivi Paesi e agevolazioni per l'accesso allo studio dei sistemi giudiziari e della cultura giuridica dell'altra Parte Contraente.
 
-#### Articolo 24
+### Articolo 24
 
 Qualsiasi controversia sull'interpretazione e l'applicazione della presente Convenzione che insorgesse tra i due Stati sara' regolata per via diplomatica.
 
-#### Articolo 25
+### Articolo 25
 
 1\. La presente Convenzione sara' ratificata. Gli strumenti di ratifica saranno scambiati al Cairo al piu' presto possibile.
 

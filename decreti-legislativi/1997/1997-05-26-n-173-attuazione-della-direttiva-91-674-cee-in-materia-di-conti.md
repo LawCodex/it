@@ -64,17 +64,17 @@ il seguente decreto legislativo:
 
 ## TITOLO I - DISPOSIZIONI GENERALI
 
-##### Art. 1
+#### Art. 1
 
 ((ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))
 
-##### Art. 1-bis
+#### Art. 1-bis
 
 (( (Raccordo con il codice delle assicurazioni private). ))
 
 ((1. Le indicazioni formali relative alle voci, alle lettere, ai numeri romani ed arabi contenute nelle disposizioni di cui agli articoli 15, 16, 17, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 38, 41, 55 e 56 si intendono riferite alle corrispondenti classificazioni utilizzate nello schema del bilancio di esercizio adottato con il regolamento di cui all'articolo 90, comma 1, del codice delle assicurazioni private.))
 
-##### Art. 2
+#### Art. 2
 
 Disposizioni per la gestione dei fondi pensione
 
@@ -88,11 +88,11 @@ AGGIORNAMENTO (7)
 
 Il D.Lgs. 18 agosto 2015, n. 139, ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
-##### Art. 3
+#### Art. 3
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 4
+#### Art. 4
 
 Imprese partecipate
 
@@ -114,7 +114,7 @@ Imprese partecipate
 
 > L'influenza si presume quando nell'assemblea ordinaria puo' essere esercitato almeno un quinto dei voti ovvero un decimo se la societa' ha azioni quotate in borsa".
 
-##### Art. 5
+#### Art. 5
 
 Imprese del gruppo
 
@@ -132,7 +132,7 @@ AGGIORNAMENTO (7)
 
 Il D.Lgs. 18 agosto 2015, n. 139, ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
-##### Art. 6
+#### Art. 6
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
@@ -140,41 +140,39 @@ Il D.Lgs. 18 agosto 2015, n. 139, ha disposto (con l'art. 12, comma 1) che la pr
 
 ### CAPO I - Disposizioni generali
 
-##### Art. 7
+#### Art. 7
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 8
+#### Art. 8
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 9
+#### Art. 9
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 10
+#### Art. 10
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 11
+#### Art. 11
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 12
+#### Art. 12
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
 ## TITOLO II - BILANCIO DI ESERCIZIO
 
-### CAPO II - Disposizioni applicabili allo
+### CAPO II - Disposizioni applicabili allo stato patrimoniale
 
-#### stato patrimoniale
-
-##### Art. 13
+#### Art. 13
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 14
+#### Art. 14
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 139)) ((7))
 
@@ -184,7 +182,7 @@ AGGIORNAMENTO (7)
 
 Il D.Lgs. 18 agosto 2015, n. 139, ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
-##### Art. 15
+#### Art. 15
 
 Attivi patrimoniali ad utilizzo durevole
 
@@ -192,7 +190,7 @@ Attivi patrimoniali ad utilizzo durevole
 
 2\. Ai fini del presente decreto sono considerati attivi patrimoniali ad utilizzo durevole, fatta salva diversa indicazione motivata in nota integrativa, gli investimenti di cui alle classi B "attivi immateriali", C.I "terreni e fabbricati" e C.II "investimenti in imprese del gruppo e in altre partecipate".
 
-##### Art. 16
+#### Art. 16
 
 Criteri di valutazione
 
@@ -248,7 +246,7 @@ AGGIORNAMENTO (7)
 
 Il D.Lgs. 18 agosto 2015, n. 139 ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
-##### Art. 17
+#### Art. 17
 
 Valore corrente
 
@@ -260,7 +258,7 @@ degli investimenti trattati in mercati regolamentati
 
 3\. Nella nota integrativa sono indicati i metodi seguiti per la determinazione del valore corrente di cui al comma 1.
 
-##### Art. 18
+#### Art. 18
 
 Valore corrente
 
@@ -276,7 +274,7 @@ dei terreni e fabbricati
 
 5\. Nella nota integrativa sono indicati i metodi seguiti per la determinazione del valore corrente dei terreni e fabbricati e l'esercizio di valutazione.
 
-##### Art. 19
+#### Art. 19
 
 Valore corrente degli investimenti trattati in mercati non
 
@@ -288,7 +286,7 @@ regolamentati e degli altri investimenti
 
 3\. Nella nota integrativa sono indicati i criteri di valutazione seguiti.
 
-##### Art. 20
+#### Art. 20
 
 Trasferimenti di attivi alla voce
 
@@ -308,13 +306,13 @@ b) di plusvalore per la parte residua.
 
 5\. E' eccezionalmente consentito il trasferimento di investimenti dalla classe D alla classe C dell'attivo, sulla base del valore corrente rilevato nel momento del trasferimento, qualora si determini un valore di attivita' superiore alle corrispondenti riserve tecniche, per effetto della liberazione dal vincolo di copertura degli impegni tecnici di quote di attivita', nei casi previsti dall'((IVASS)) con regolamento. La nota integrativa deve indicare le motivazioni del trasferimento operato, nonche' specificare l'importo e la tipologia dell'investimento.
 
-##### Art. 21
+#### Art. 21
 
 Provvigioni di acquisizione da ammortizzare
 
 1\. Le provvigioni di acquisizione dei contratti di assicurazione da ammortizzare iscritte nella classe B "attivi immateriali" comprendono la parte residua delle provvigioni di acquisizione liquidate anticipatamente al momento della sottoscrizione del contratto con riferimento all'intera durata dello stesso.
 
-##### Art. 22
+#### Art. 22
 
 Altri investimenti finanziari
 
@@ -328,7 +326,7 @@ Altri investimenti finanziari
 
 5\. Nella voce C.III.7 "investimenti finanziari diversi" sono inclusi gli investimenti non ricompresi nella classe C.III, voci da 1 a 6. Detti investimenti sono illustrati nella nota integrativa.
 
-##### Art. 23
+#### Art. 23
 
 Depositi presso imprese cedenti
 
@@ -344,7 +342,7 @@ AGGIORNAMENTO (7)
 
 Il D.Lgs. 18 agosto 2015, n. 139 ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
-##### Art. 24
+#### Art. 24
 
 Investimenti a beneficio di assicurati dei rami vita i quali ne
 
@@ -358,23 +356,23 @@ e derivanti dalla gestione dei fondi pensione
 
 3\. Sono riportati nella classe D.II dell'attivo gli investimenti derivanti dalla gestione dei fondi pensione. Nella nota integrativa sono fornite le informazioni di dettaglio di cui all'articolo 2 del presente decreto.
 
-##### Art. 25
+#### Art. 25
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 26
+#### Art. 26
 
 Attivita' diverse
 
 1\. La voce F.IV. 2 "attivita' diverse" comprende gli elementi dell'attivo non inclusi nelle classi F.I - F. Il - F.III - F.IV.1. Di essi e' dato il dettaglio in nota integrativa, se di importo significativo.
 
-##### Art. 27
+#### Art. 27
 
 Capitale sociale sottoscritto o fondo equivalente
 
 1\. La voce A.I "capitale sociale sottoscritto o fondo equivalente" comprende tutti gli importi che, in relazione alla forma giuridica dell'impresa costituiscono il capitale della medesima conformemente alla disciplina del codice civile e delle leggi speciali che regolano il settore assicurativo.
 
-##### Art. 28
+#### Art. 28
 
 Riserve di rivalutazione
 
@@ -388,7 +386,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 3 novembre 2003, n. 307 ha disposto (con l'art. 20, comma 1) che la suddetta modifica si applica a decorrere dal bilancio dell'esercizio 2004.
 
-##### Art. 29
+#### Art. 29
 
 Altre riserve
 
@@ -404,13 +402,13 @@ Altre riserve
 
 > \- L'art. 12, comma 5, del decreto legislativo 17 marzo 1995, n. 175, cosi' recita: "5. La misura minima del fondo di organizzazione necessaria per la copertura delle spese di cui all'art. 14, comma 1, lettera c), e' determinata in via generale, dall'ISVAP, con proprio provvedimento; in ogni caso tale misura non puo' essere superiore alla meta' di quella del capitale di cui ai commi 1 e 2".
 
-##### Art. 30
+#### Art. 30
 
 Passivita' subordinate
 
 1\. La voce B "passivita' subordinate" comprende i debiti, rappresentati o meno da titoli, il cui diritto al rimborso da parte del creditore, nel caso di liquidazione dell'impresa, puo' essere esercitato soltanto dopo che siano stati soddisfatti tutti gli altri creditori non subordinati.
 
-##### Art. 31
+#### Art. 31
 
 Riserve tecniche del lavoro diretto
 
@@ -422,31 +420,31 @@ Riserve tecniche del lavoro diretto
 
 4\. In nota integrativa sono fornite specifiche informazioni ed adeguata illustrazione dei criteri seguiti per la determinazione delle riserve tecniche.
 
-##### Art. 32
+#### Art. 32
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 33
+#### Art. 33
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 34
+#### Art. 34
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 35
+#### Art. 35
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 36
+#### Art. 36
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 37
+#### Art. 37
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 38
+#### Art. 38
 
 Riserve tecniche
 
@@ -458,11 +456,11 @@ allorche' il rischio dell'investimento e' sopportato dagli assicurati e riserve 
 
 3\. Le riserve tecniche aggiuntive a quelle di cui ai commi 1 e 2, eventualmente costituite per coprire rischi di mortalita', spese o altri rischi, quali le prestazioni garantite alla scadenza o i valori di riscatto garantiti, devono essere comprese nella voce C.II.1 "riserve matematiche".
 
-##### Art. 39
+#### Art. 39
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 40
+#### Art. 40
 
 Fondi per rischi ed oneri
 
@@ -470,7 +468,7 @@ Fondi per rischi ed oneri
 
 2\. Gli accantonamenti per rischi ed oneri non possono avere la funzione di correggere i valori degli elementi dell'attivo.
 
-##### Art. 41
+#### Art. 41
 
 Depositi ricevuti dai riassicuratori
 
@@ -480,7 +478,7 @@ Depositi ricevuti dai riassicuratori
 
 3\. Se l'impresa cedente ha ricevuto in deposito titoli di cui le e' stata trasferita la proprieta', la classe comprende l'importo dovuto dall'impresa medesima in virtu' del deposito.
 
-##### Art. 42
+#### Art. 42
 
 Conti transitori di riassicurazione
 
@@ -496,11 +494,11 @@ Conti transitori di riassicurazione
 
 ### CAPO III - Disposizioni applicabili al conto economico
 
-##### Art. 43
+#### Art. 43
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 44
+#### Art. 44
 
 Struttura del conto economico
 
@@ -508,7 +506,7 @@ Struttura del conto economico
 
 2\. Le imprese che esercitano esclusivamente la riassicurazione utilizzano il conto tecnico dei rami danni per la totalita' delle loro operazioni. Tale disposizione si applica anche alle imprese che esercitano l'assicurazione diretta solo nei rami danni ed in aggiunta la riassicurazione.
 
-##### Art. 45
+#### Art. 45
 
 Premi lordi contabilizzati
 
@@ -532,7 +530,7 @@ f) i premi di riassicurazione provenienti da imprese di assicurazione cedenti e 
 
 4\. Il trattamento contabile delle operazioni relative alle acquisizioni e alle cessioni del portafoglio nei confronti di imprese cedenti e retrocedenti e' disciplinato nel piano dei conti di cui ((di cui all'articolo 90, comma 1, del codice delle assicurazioni private)).
 
-##### Art. 46
+#### Art. 46
 
 Premi ceduti in riassicurazione
 
@@ -540,7 +538,7 @@ Premi ceduti in riassicurazione
 
 2\. Il trattamento contabile relativo alle acquisizioni e cessioni del portafoglio nei confronti di imprese cessionarie e retrocessionarie e' disciplinato nel piano dei conti di cui ((di cui all'articolo 90, comma 1, del codice delle assicurazioni private.))
 
-##### Art. 47
+#### Art. 47
 
 Variazione del riporto premi
 
@@ -548,7 +546,7 @@ al netto della riassicurazione
 
 1\. Nei rami vita la variazione del riporto premi e' inclusa nella variazione delle riserve matematiche.
 
-##### Art. 48
+#### Art. 48
 
 Oneri relativi ai sinistri dei rami danni
 
@@ -560,7 +558,7 @@ Oneri relativi ai sinistri dei rami danni
 
 4\. In caso di differenza rilevante tra l'importo della riserva sinistri esistente all'inizio dell'esercizio e gli indennizzi pagati durante l'esercizio per i sinistri avvenuti in esercizi precedenti nonche' l'importo della relativa riserva alla fine dell'esercizio, e' indicata nella nota integrativa la natura e l'entita' di tale differenza.
 
-##### Art. 49
+#### Art. 49
 
 Oneri relativi ai sinistri dei rami vita
 
@@ -572,7 +570,7 @@ Oneri relativi ai sinistri dei rami vita
 
 4\. In caso di differenza rilevante fra l'importo della riserva per somme da pagare esistente all'inizio dell'esercizio e le somme versate ai beneficiari dei contratti durante l'esercizio per i sinistri avvenuti in esercizi precedenti, nonche' l'importo della relativa riserva alla fine dell'esercizio, e' indicata nella nota integrativa la natura e l'entita' di tale differenza.
 
-##### Art. 50
+#### Art. 50
 
 Ristorni e partecipazioni agli utili
 
@@ -584,25 +582,25 @@ al netto delle cessioni in riassicurazione
 
 3\. L'importo rispettivo delle partecipazioni agli utili e dei ristorni e' suddiviso nella nota integrativa.
 
-##### Art. 51
+#### Art. 51
 
 Provvigioni di acquisizione
 
 1\. Per provvigioni di acquisizione si intendono i compensi spettanti per l'acquisizione ed il rinnovo di contratti.
 
-##### Art. 52
+#### Art. 52
 
 Altre spese di acquisizione
 
 1\. Per altre spese di acquisizione si intendono le spese derivanti dalla conclusione di un contratto di assicurazione diverse da quelle indicate nell'articolo 51 del presente decreto. Esse comprendono sia i costi direttamente imputabili, quali le spese per l'emissione delle polizze assicurative o l'assunzione del contratto nel portafoglio, sia i costi indirettamente imputabili, come le spese di pubblicita' o le spese amministrative dovute alle formalita' di espletamento delle domande e alla stesura delle polizze.
 
-##### Art. 53
+#### Art. 53
 
 Altre spese di amministrazione
 
 1\. Le altre spese di amministrazione comprendono le spese di amministrazione diverse dalle provvigioni di incasso e, in particolare, i costi sostenuti per la gestione del portafoglio, la gestione delle partecipazioni agli utili e dei ristorni, le spese per le informazioni agli assicurati e per la riassicurazione attiva e passiva. Esse includono, tra l'altro, le spese per il personale e gli ammortamenti dei beni mobili, purche' non debbano essere contabilizzati nella voce "altre spese di acquisizione" o tra le spese di liquidazione dei sinistri o i costi sostenuti per gli investimenti.
 
-##### Art. 54
+#### Art. 54
 
 Proventi da investimenti
 
@@ -614,7 +612,7 @@ e oneri patrimoniali e finanziari
 
 3\. Per le imprese che esercitano congiuntamente i rami danni e i rami vita, i proventi e gli oneri degli investimenti devono figurare nel conto tecnico dei rami vita nella misura in cui siano direttamente connessi con l'esercizio dell'assicurazione vita.
 
-##### Art. 55
+#### Art. 55
 
 Assegnazione di quote
 
@@ -630,7 +628,7 @@ dell'utile degli investimenti
 
 4\. In nota integrativa sono indicate le ragioni del trasferimento e la base applicata per il calcolo.
 
-##### Art. 56
+#### Art. 56
 
 Plusvalenze e minusvalenze non realizzate relative a investimenti
 
@@ -648,163 +646,161 @@ b) la valutazione dei medesimi al loro valore di acquisizione.
 
 ### CAPO IV - Disposizioni applicabili alla nota integrativa
 
-##### Art. 57
+#### Art. 57
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
 ## TITOLO III - BILANCIO CONSOLIDATO
 
-##### Art. 58
+#### Art. 58
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 59
+#### Art. 59
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 60
+#### Art. 60
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 61
+#### Art. 61
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 62
+#### Art. 62
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 63
+#### Art. 63
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 64
+#### Art. 64
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 65
+#### Art. 65
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 66
+#### Art. 66
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 67
+#### Art. 67
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 68
+#### Art. 68
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 69
+#### Art. 69
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 70
+#### Art. 70
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 71
+#### Art. 71
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 72
+#### Art. 72
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 73
+#### Art. 73
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 74
+#### Art. 74
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 75
+#### Art. 75
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 76
+#### Art. 76
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-## TITOLO IV - MODIFICHE ED INTEGRAZIONI
+## TITOLO IV - MODIFICHE ED INTEGRAZIONI ALLA LEGISLAZIONE SULL'ESERCIZIO DELL'ATTIVITA' ASSICURATIVA
 
-### ALLA LEGISLAZIONE SULL'ESERCIZIO DELL'ATTIVITA' ASSICURATIVA
-
-##### Art. 77
+#### Art. 77
 
 ((ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))
 
-##### Art. 78
+#### Art. 78
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 79
+#### Art. 79
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Art. 80
-
-(( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
-
-## TITOLO V - DISPOSIZIONI TRANSITORIE E FINALI
-
-##### Art. 81
-
-(( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
-
-##### Art. 82
-
-(( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
-
-##### Art. 83
-
-(( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
-
-##### Art. 84
-
-(( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
-
-##### Art. 85
+#### Art. 80
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
 ## TITOLO V - DISPOSIZIONI TRANSITORIE E FINALI
 
-##### Allegato I
+#### Art. 81
+
+(( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
+
+#### Art. 82
+
+(( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
+
+#### Art. 83
+
+(( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
+
+#### Art. 84
+
+(( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
+
+#### Art. 85
+
+(( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
+
+## TITOLO V - DISPOSIZIONI TRANSITORIE E FINALI
+
+#### Allegato I
 
 Allegato I
 
 (( ALLEGATO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Allegato II
+#### Allegato II
 
 Allegato II
 
 (( ALLEGATO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Allegato III
+#### Allegato III
 
 Allegato III
 
 (( ALLEGATO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Allegato IV
+#### Allegato IV
 
 Allegato IV
 
 (( ALLEGATO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Allegato V
+#### Allegato V
 
 Allegato V
 
 (( ALLEGATO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-##### Allegato VI
+#### Allegato VI
 
 Allegato VI
 

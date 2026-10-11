@@ -72,11 +72,9 @@ Emana il seguente decreto legislativo:
 
 ## Titolo I - (( (Disposizioni di carattere generale) ))
 
-### Capo I
+### Capo I - (( (Ambito di applicazione) ))
 
-#### (( (Ambito di applicazione) ))
-
-###### Art. 1 - Definizioni
+##### Art. 1 - Definizioni
 
 1\. Nel presente decreto legislativo:
 
@@ -300,7 +298,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 2 - Finalita' e principi
+##### Art. 2 - Finalita' e principi
 
 1\. Le disposizioni di cui al presente decreto si applicano a fini di prevenzione e contrasto dell'uso del sistema economico e finanziario a scopo di riciclaggio e finanziamento del terrorismo ((, nonche' del finanziamento della proliferazione delle armi di distruzione di massa)). Le eventuali limitazioni alle liberta' sancite dal Trattato sul funzionamento dell'Unione europea, derivanti dall'applicazione delle disposizioni di cui al presente decreto, sono giustificate ai sensi degli articoli 45, paragrafo 3, e 52, paragrafo 1, del medesimo Trattato.
 
@@ -332,7 +330,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 3 - Soggetti obbligati
+##### Art. 3 - Soggetti obbligati
 
 1\. Le disposizioni di cui al presente decreto si applicano alle categorie di soggetti individuati nel presente articolo, siano esse persone fisiche ovvero persone giuridiche.
 
@@ -468,9 +466,9 @@ Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disp
 
 Ha inoltre disposto (con l'art. 9, comma 9) che "Le disposizioni relative ai consulenti finanziari autonomi e alle societa' di consulenza finanziaria di cui all'articolo 3, comma 2, lettera v), del decreto legislativo 21 novembre 2007, n. 231, e successive modificazioni, entrano in vigore all'avvio dell'operativita' dell'organismo di vigilanza e tenuta dell'albo unico dei consulenti finanziari di cui all'articolo 1, comma 36, della legge 28 dicembre 2015, n. 208".
 
-## Capo II - (( (Autorita', vigilanza e Pubbliche amministrazioni) ))
+### Capo II - (( (Autorita', vigilanza e Pubbliche amministrazioni) ))
 
-###### Art. 4 - Ministro dell'economia e delle finanze
+##### Art. 4 - Ministro dell'economia e delle finanze
 
 1\. Il Ministro dell'economia e delle finanze e' responsabile delle politiche di prevenzione dell'utilizzo del sistema finanziario e economico per fini di riciclaggio dei proventi di attivita' criminose e di finanziamento del terrorismo ((, nonche' del finanziamento della proliferazione delle armi di distruzione di massa)).
 
@@ -508,7 +506,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 5 - Ministero dell'economia e delle finanze e Comitato di sicurezza finanziaria
+##### Art. 5 - Ministero dell'economia e delle finanze e Comitato di sicurezza finanziaria
 
 1\. Al fine di dare attuazione alle politiche di prevenzione dell'utilizzo del sistema finanziario e economico per fini di riciclaggio dei proventi di attivita' criminose e di finanziamento del terrorismo, nonche' del finanziamento della proliferazione delle armi di distruzione di massa, il Ministero dell'economia e delle finanze promuove la collaborazione e il raccordo tra le (( autorita' di cui all'articolo 21-bis, comma 1, lettera a) )) e tra le amministrazioni e gli organismi interessati nonche' tra i soggetti pubblici e il settore privato, anche tenuto conto degli standard internazionali adottati in materia, della analisi nazionale dei rischi di riciclaggio e di finanziamento del terrorismo nonche' di finanziamento della proliferazione delle armi di distruzione di massa, elaborata dal Comitato di sicurezza finanziaria, nonche' della valutazione effettuata dalla Commissione europea ai sensi dell'articolo 6 della direttiva.
 
@@ -540,7 +538,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 6 - Unita' d'informazione finanziaria
+##### Art. 6 - Unita' d'informazione finanziaria
 
 1\. L'Unita' di informazione finanziaria per l'Italia (UIF), istituita presso la Banca d'Italia, e' autonoma e operativamente indipendente. In attuazione di tale principio, la Banca d'Italia ne disciplina con regolamento l'organizzazione e il funzionamento, ivi compresa la riservatezza delle informazioni acquisite, attribuendole i mezzi finanziari e le risorse idonei ad assicurare l'efficace perseguimento dei suoi fini istituzionali. Alla UIF e al personale addetto si applica l'articolo 24, comma 6-bis, della legge 28 dicembre 2005, n. 262.
 
@@ -604,7 +602,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 7 - Autorita' di vigilanza di settore
+##### Art. 7 - Autorita' di vigilanza di settore
 
 1\. Le Autorita' di vigilanza di settore verificano il rispetto, da parte dei soggetti rispettivamente vigilati, degli obblighi previsti dal presente decreto e dalle relative disposizioni di attuazione. A tal fine:
 
@@ -656,7 +654,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 8 - Direzione nazionale antimafia e antiterrorismo
+##### Art. 8 - Direzione nazionale antimafia e antiterrorismo
 
 1\. Nell'esercizio delle competenze e nello svolgimento delle funzioni di coordinamento delle indagini e di impulso investigativo ad essa attribuite dalla normativa vigente, la Direzione nazionale antimafia ed antiterrorismo:
 
@@ -682,7 +680,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 9 - Nucleo speciale di polizia valutaria della Guardia di finanza e Direzione investigativa antimafia
+##### Art. 9 - Nucleo speciale di polizia valutaria della Guardia di finanza e Direzione investigativa antimafia
 
 1\. Il Nucleo speciale di polizia valutaria della Guardia di finanza, nel quadro degli obiettivi e priorita' strategiche individuati annualmente dal Ministro dell'economia e delle finanze con la Direttiva generale per l'azione amministrativa e la gestione, esegue i controlli sull'osservanza delle disposizioni di cui al presente decreto da parte dei soggetti obbligati non vigilati dalle Autorita' di vigilanza di settore nonche' gli ulteriori controlli effettuati, in collaborazione con la UIF che ne richieda l'intervento a supporto dell'esercizio delle funzioni di propria competenza.
 
@@ -752,7 +750,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 10
+##### Art. 10
 
 (( (Pubbliche amministrazioni). ))
 
@@ -782,7 +780,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 11 - Organismi di autoregolamentazione
+##### Art. 11 - Organismi di autoregolamentazione
 
 1\. Fermo quanto previsto circa la titolarita' e le modalita' di esercizio dei poteri di controllo da parte delle (( autorita' di cui all'articolo 21-bis, comma 1, lettera a) )), gli organismi di autoregolamentazione, le loro articolazioni territoriali e i consigli di disciplina, secondo i principi e le modalita' previsti dall'ordinamento vigente, promuovono e controllano l'osservanza degli obblighi previsti dal presente decreto da parte dei professionisti iscritti nei propri albi ed elenchi. Ai fini della corretta attuazione degli obblighi di cui al presente articolo, il Ministero della giustizia, ai sensi della normativa vigente, espleta le funzioni di controllo sugli ordini professionali assoggettati alla propria vigilanza.
 
@@ -814,9 +812,9 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-## Capo III - (( (Cooperazione nazionale e internazionale) ))
+### Capo III - (( (Cooperazione nazionale e internazionale) ))
 
-###### Art. 12 - Collaborazione e scambio di informazioni tra autorita' nazionali
+##### Art. 12 - Collaborazione e scambio di informazioni tra autorita' nazionali
 
 1\. Le (( autorita' di cui all'articolo 21-bis, comma 1, lettera a) )), le amministrazioni e gli organismi interessati, l'autorita' giudiziaria e gli organi delle indagini collaborano per agevolare l'individuazione di ogni circostanza in cui emergono fatti e situazioni la cui conoscenza puo' essere comunque utilizzata per prevenire l'uso del sistema finanziario e di quello economico a scopo di riciclaggio o di finanziamento del terrorismo.
 
@@ -848,7 +846,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 13 - Cooperazione internazionale
+##### Art. 13 - Cooperazione internazionale
 
 1\. Le ((autorita' di cui all'articolo 21-bis, comma 1, lettere a), b), c), d) ed e),)) cooperano con le autorita' competenti degli altri Stati, al fine di assicurare che lo scambio di informazioni e l'assistenza, necessari al perseguimento delle finalita' di cui al presente decreto, non siano impediti dall'attinenza dell'informazione o dell'assistenza alla materia fiscale, dalla diversa natura giuridica o dal diverso status dell'omologa autorita' competente richiedente ovvero dall'esistenza di un accertamento investigativo, di un'indagine o di un procedimento penale, fatto salvo il caso in cui lo scambio o l'assistenza possano ostacolare la predetta indagine o il predetto accertamento investigativo o procedimento penale.
 
@@ -864,7 +862,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 13-bis
+##### Art. 13-bis
 
 (( (Cooperazione tra Unita' di informazione finanziaria per l'Italia e altre FIU). ))
 
@@ -878,7 +876,7 @@ Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disp
 
 5\. Le differenti definizioni di fattispecie penali vigenti negli ordinamenti degli Stati membri non ostacolano la cooperazione e lo scambio di informazioni tra la UIF e le FIU.))
 
-###### Art. 13-ter
+##### Art. 13-ter
 
 (( (Cooperazione tra le autorita' di vigilanza di settore degli Stati membri). ))
 
@@ -888,11 +886,9 @@ Le informazioni che le autorita' di vigilanza di settore hanno ricevuto possono 
 
 2\. Nei casi e nei modi previsti dalle disposizioni dell'Unione europea, le autorita' di vigilanza di settore possono concludere accordi di collaborazione con le autorita' di cui al comma 1 o con analoghe autorita' di Stati terzi.))
 
-## (( Capo IV - (Analisi e valutazione
+### (( Capo IV - (Analisi e valutazione del rischio) ))
 
-### del rischio) ))
-
-###### Art. 14 - Analisi nazionale del rischio
+##### Art. 14 - Analisi nazionale del rischio
 
 1\. Il Comitato di sicurezza finanziaria, nell'esercizio delle competenze di cui all'articolo 5, identifica, analizza e valuta il rischio nazionale di riciclaggio di denaro e di finanziamento del terrorismo. A tal fine, individua le minacce piu' rilevanti e le vulnerabilita' del sistema nazionale di prevenzione, di investigazione e di repressione dei fenomeni di riciclaggio e di finanziamento del terrorismo, i metodi e i mezzi di svolgimento di tali attivita' e i settori maggiormente esposti al rischio. L'analisi ha cadenza triennale, salva la facolta' del Comitato di sicurezza finanziaria di procedere al relativo aggiornamento quando insorgono nuovi rischi e ogni qualvolta lo ritenga opportuno.
 
@@ -918,7 +914,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 15 - Valutazione del rischio da parte dei soggetti obbligati
+##### Art. 15 - Valutazione del rischio da parte dei soggetti obbligati
 
 1\. Le autorita' di vigilanza di settore e gli organismi di autoregolamentazione dettano criteri e metodologie, commisurati alla natura dell'attivita' svolta e alle dimensioni dei soggetti obbligati, per l'analisi e la valutazione dei rischi di riciclaggio e di finanziamento del terrorismo, cui sono esposti nell'esercizio della loro attivita'.
 
@@ -936,7 +932,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 16 - Procedure di mitigazione del rischio
+##### Art. 16 - Procedure di mitigazione del rischio
 
 1\. I soggetti obbligati adottano i presidi e attuano i controlli e le procedure, adeguati alla propria natura e dimensione, necessari a mitigare e gestire i rischi di riciclaggio e di finanziamento del terrorismo, individuati ai sensi degli articoli 14 e 15. In caso di gruppi, la capogruppo adotta un approccio globale al rischio di riciclaggio e di finanziamento del terrorismo secondo le modalita' stabilite dalle autorita' di vigilanza di settore nell'esercizio delle attribuzioni di cui all'articolo 7, comma 1, lettera a).
 
@@ -968,7 +964,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 16-bis
+##### Art. 16-bis
 
 (( (Individuazione e valutazione dei rischi associati ai trasferimenti di cripto-attivita' diretti a o provenienti da un indirizzo auto-ospitato). ))
 
@@ -984,7 +980,7 @@ c) un monitoraggio continuo e rafforzato delle operazioni dirette a o provenient
 
 d) qualsiasi altra misura volta ad attenuare e gestire i rischi di riciclaggio e di finanziamento del terrorismo, nonche' il rischio di mancata attuazione e di evasione delle sanzioni finanziarie adottate dall'Unione europea, nei casi di cui agli articoli 4 e 4-ter del decreto legislativo 22 giugno 2007, n. 109, ovvero con decreto del Ministro dell'economia e delle finanze nei casi di cui all'articolo 4-bis del medesimo decreto.))
 
-###### Art. 16-ter - Analisi dei rischi della proliferazione delle armi di distruzione di massa
+##### Art. 16-ter - Analisi dei rischi della proliferazione delle armi di distruzione di massa
 
 1\. Il Comitato di sicurezza finanziaria, nell'esercizio delle competenze di cui all'articolo 5, identifica, analizza e valuta il rischio nazionale di finanziamento della proliferazione delle armi di distruzione di massa inteso come il rischio di mancata applicazione e di evasione delle sanzioni finanziarie mirate, connesse al finanziamento della proliferazione di armi di distruzione di massa.
 
@@ -998,13 +994,11 @@ L'analisi ha cadenza triennale, salva la facolta' del Comitato di sicurezza fina
 
 ## Titolo II - (( (Obblighi) ))
 
-### Capo I
+### Capo I - (( (Obblighi di adeguata verifica della clientela) ))
 
-#### (( (Obblighi di adeguata verifica della clientela) ))
+#### Sezione I - ((...))
 
-##### Sezione I - ((...))
-
-###### Art. 17 - Disposizioni generali
+##### Art. 17 - Disposizioni generali
 
 1\. I soggetti obbligati procedono all'adeguata verifica del cliente e del titolare effettivo con riferimento ai rapporti e alle operazioni inerenti allo svolgimento dell'attivita' istituzionale o professionale:
 
@@ -1064,7 +1058,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 18 - Contenuto degli obblighi di adeguata verifica
+##### Art. 18 - Contenuto degli obblighi di adeguata verifica
 
 1\. Gli obblighi di adeguata verifica della clientela si attuano attraverso:
 
@@ -1090,7 +1084,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 19 - Modalita' di adempimento degli obblighi di adeguata verifica
+##### Art. 19 - Modalita' di adempimento degli obblighi di adeguata verifica
 
 1\. I soggetti obbligati assolvono agli obblighi di adeguata verifica della clientela secondo le seguenti modalita':
 
@@ -1134,7 +1128,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 20 - Criteri per la determinazione della titolarita' effettiva di clienti diversi dalle persone fisiche
+##### Art. 20 - Criteri per la determinazione della titolarita' effettiva di clienti diversi dalle persone fisiche
 
 1\. Il titolare effettivo di clienti diversi dalle persone fisiche coincide con la persona fisica o le persone fisiche cui, in ultima istanza, e' attribuibile la proprieta' diretta o indiretta dell'ente ovvero il relativo controllo.
 
@@ -1172,7 +1166,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 21 - Comunicazione e accesso alle informazioni sulla titolarita' effettiva di persone giuridiche e trust
+##### Art. 21 - Comunicazione e accesso alle informazioni sulla titolarita' effettiva di persone giuridiche e trust
 
 1\. Le imprese dotate di personalita' giuridica tenute all'iscrizione nel Registro delle imprese di cui all'articolo 2188 del codice civile e le persone giuridiche private tenute all'iscrizione nel Registro delle persone giuridiche private di cui al decreto del Presidente della Repubblica 10 febbraio 2000, n. 361, comunicano le informazioni relative ai propri titolari effettivi, per via esclusivamente telematica e in esenzione da imposta di bollo, al Registro delle imprese, ai fini della conservazione in apposita sezione. L'omessa comunicazione delle informazioni sul titolare effettivo e' punita con la medesima sanzione di cui all'articolo 2630 del codice civile.
 
@@ -1212,7 +1206,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 21-bis
+##### Art. 21-bis
 
 (( (Accesso da parte delle autorita'). ))
 
@@ -1246,7 +1240,7 @@ c) ((il Ministero dell'economia e delle finanze per l'accesso da parte del Comit
 
 3\. ((Ai fini delle convenzioni di cui al comma 2, le modalita' tecniche e operative dell'accesso sono disciplinate nel rispetto delle misure tecniche e organizzative per la protezione dei dati personali, previste dal disciplinare tecnico di cui all'articolo 11, comma 3, del regolamento di cui al decreto del Ministro dell'economia e delle finanze 11 marzo 2022, n. 55. Tali misure comprendono l'indicazione del termine di conservazione dei dati e prevedono il tracciamento delle operazioni eseguite sui dati, nonche' l'effettuazione di una valutazione di impatto sulla protezione dei dati e meccanismi di controllo indipendente interno.))
 
-###### Art. 21-ter
+##### Art. 21-ter
 
 (( (Accesso da parte dei soggetti obbligati). ))
 
@@ -1282,7 +1276,7 @@ d) ((la finalita' dell'utilizzo dei dati e delle informazioni sulla titolarita' 
 
 12\. ((I soggetti obbligati che consultano la sezione autonoma o la sezione speciale del Registro delle imprese, a supporto degli adempimenti di adeguata verifica del titolare effettivo, acquisiscono e conservano prova dell'iscrizione del titolare effettivo nelle predette sezioni del Registro delle imprese ovvero conservano un estratto idoneo a documentare tale iscrizione.))
 
-###### Art. 21-quater
+##### Art. 21-quater
 
 (( (Accesso da parte dei soggetti aventi un legittimo interesse). ))
 
@@ -1336,7 +1330,7 @@ b) ((in caso di accesso effettuato per conto di una persona giuridica, i soli da
 
 Decorso il termine di cui al primo periodo e' possibile presentare nuova richiesta motivata di proroga.))
 
-###### Art. 21-quinquies
+##### Art. 21-quinquies
 
 (( (Procedura per la verifica e il riconoscimento di un legittimo interesse all'accesso). ))
 
@@ -1388,7 +1382,7 @@ d) ((nei casi di cui al comma 3, quando il legittimo interesse ad accedere alle 
 
 15\. ((La Camera di commercio territorialmente competente assicura i controlli sulle dichiarazioni di cui al comma 1, anche acquisendo le opportune informazioni presso altre amministrazioni e organismi. A tal fine l'Unioncamere e il gestore del sistema informativo nazionale di cui all'articolo 8 della legge 29 dicembre 1993, n. 580, stipulano, senza nuovi o maggiori oneri per la finanza pubblica, apposite convenzioni con le amministrazioni e gli organismi interessati.))
 
-###### Art. 21-sexies
+##### Art. 21-sexies
 
 (( (Casi di esclusione dell'accesso). ))
 
@@ -1414,7 +1408,7 @@ Fermo restando quanto previsto all'articolo 21-quater, commi 6 e 7, il provvedim
 
 10\. ((Il gestore del sistema informativo nazionale di cui all'articolo 8 della legge 29 dicembre 1993, n. 580, conserva separatamente nel sistema informativo le informazioni comunicate ai sensi dei commi 2 e 3, mediante l'adozione di specifiche misure tecniche e organizzative volte ad assicurare accessi selettivi ai dati personali ivi contenuti da parte dei soli soggetti autorizzati dalla Camera di commercio a effettuare le valutazioni di cui al comma 4, rendendo i dati personali incomprensibili a chiunque non sia autorizzato ad accedervi attraverso l'adozione di tecniche crittografiche.))
 
-###### Art. 21-septies
+##### Art. 21-septies
 
 (( (Diritti di segreteria e rilascio di copie e certificati). ))
 
@@ -1432,7 +1426,7 @@ c) ((l'accesso da parte dei soggetti aventi un legittimo interesse di cui all'ar
 
 3\. ((I modelli per il rilascio di certificati e copie, anche digitali, relativi alle informazioni sulla titolarita' effettiva, in caso di accesso, sono quelli disciplinati con il decreto del Ministro delle imprese e del made in Italy ai sensi dell'articolo 24 del decreto del Presidente della Repubblica 7 dicembre 1995, n. 581.))
 
-###### Art. 22 - Obblighi del cliente
+##### Art. 22 - Obblighi del cliente
 
 1\. I clienti forniscono per iscritto, sotto la propria responsabilita', tutte le informazioni necessarie e aggiornate per consentire ai soggetti obbligati di adempiere agli obblighi di adeguata verifica.
 
@@ -1456,9 +1450,9 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-## Sezione II - ((...))
+#### Sezione II - ((...))
 
-###### Art. 23 - Misure semplificate di adeguata verifica della clientela
+##### Art. 23 - Misure semplificate di adeguata verifica della clientela
 
 1\. In presenza di un basso rischio di riciclaggio o di finanziamento del terrorismo, i soggetti obbligati possono applicare misure di adeguata verifica della clientela semplificate sotto il profilo dell'estensione e della frequenza degli adempimenti prescritti dall'articolo 18.
 
@@ -1518,7 +1512,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 24 - Obblighi di adeguata verifica rafforzata della clientela
+##### Art. 24 - Obblighi di adeguata verifica rafforzata della clientela
 
 1\. I soggetti obbligati in presenza di un elevato rischio di riciclaggio o di finanziamento del terrorismo applicano misure rafforzate di adeguata verifica della clientela.
 
@@ -1586,7 +1580,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 25 - Modalita' di esecuzione degli obblighi di adeguata verifica rafforzata della clientela
+##### Art. 25 - Modalita' di esecuzione degli obblighi di adeguata verifica rafforzata della clientela
 
 1\. I soggetti obbligati, in presenza di un elevato rischio di riciclaggio o di finanziamento del terrorismo, adottano misure rafforzate di adeguata verifica della clientela acquisendo informazioni aggiuntive sul cliente e sul titolare effettivo, approfondendo gli elementi posti a fondamento delle valutazioni sullo scopo e sulla natura del rapporto e intensificando la frequenza dell'applicazione delle procedure finalizzate a garantire il controllo costante nel corso del rapporto continuativo o della prestazione professionale.
 
@@ -1652,7 +1646,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 25-bis
+##### Art. 25-bis
 
 (( (Modalita' di esecuzione degli obblighi di adeguata verifica rafforzata della clientela per i rapporti di corrispondenza transfrontalieri che comportano l'esecuzione di servizi per le cripto-attivita'). ))
 
@@ -1676,9 +1670,9 @@ f) si assicurano che l'intermediario corrispondente abbia sottoposto ad adeguata
 
 4\. ((I prestatori di servizi per le cripto-attivita' tengono conto delle informazioni di cui al comma 1 al fine di determinare, in funzione della valutazione del rischio, le misure appropriate da adottare per mitigare i rischi associati all'intermediario corrispondente.))
 
-## Sezione III - ((...))
+#### Sezione III - ((...))
 
-###### Art. 26 - Esecuzione degli obblighi di adeguata verifica da parte di terzi
+##### Art. 26 - Esecuzione degli obblighi di adeguata verifica da parte di terzi
 
 1\. Ferma la responsabilita' dei soggetti obbligati in ordine agli adempimenti di cui al presente Titolo, e' consentito ai medesimi di ricorrere a terzi per l'assolvimento degli obblighi di adeguata verifica di cui all'articolo 18, comma 1, lettere a), b) e c).
 
@@ -1706,7 +1700,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 27 - Modalita' di esecuzione degli obblighi di adeguata verifica della clientela da parte di terzi
+##### Art. 27 - Modalita' di esecuzione degli obblighi di adeguata verifica della clientela da parte di terzi
 
 1\. Nei limiti di cui all'articolo 26, gli obblighi di adeguata verifica della clientela si considerano assolti, previo rilascio di idonea attestazione da parte del terzo che abbia provveduto ad adempiervi direttamente, nell'ambito di un rapporto continuativo o dell'esecuzione di una prestazione professionale ovvero in occasione del compimento di un'operazione occasionale.
 
@@ -1736,7 +1730,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 28
+##### Art. 28
 
 (( (Responsabilita' dei soggetti obbligati). ))
 
@@ -1750,7 +1744,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 29
+##### Art. 29
 
 (( (Esecuzione da parte di terzi aventi sede in Paesi ad alto rischio). ))
 
@@ -1764,7 +1758,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 30 - Esclusioni
+##### Art. 30 - Esclusioni
 
 1\. Le disposizioni della presente sezione non si applicano ai rapporti di esternalizzazione o di agenzia nei casi in cui, ai sensi del contratto o della convenzione comunque denominata, il fornitore del servizio esternalizzato o l'agente siano equiparabili ai dipendenti o, comunque, a soggetti stabilmente incardinati nell'organizzazione dei soggetti obbligati per i quali svolgono la propria attivita'.
 
@@ -1778,9 +1772,9 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-## Capo II - (( (Obblighi di conservazione) ))
+### Capo II - (( (Obblighi di conservazione) ))
 
-###### Art. 31 - Obblighi di conservazione
+##### Art. 31 - Obblighi di conservazione
 
 1\. I soggetti obbligati conservano i documenti, i dati e le informazioni utili a prevenire, individuare o accertare eventuali attivita' di riciclaggio o di finanziamento del terrorismo e a consentire lo svolgimento delle analisi effettuate, nell'ambito delle rispettive attribuzioni, dalla UIF o da altra Autorita' competente.
 
@@ -1806,7 +1800,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 32 - Modalita' di conservazione dei dati e delle informazioni
+##### Art. 32 - Modalita' di conservazione dei dati e delle informazioni
 
 1\. I soggetti obbligati adottano sistemi di conservazione dei documenti, dei dati e delle informazioni idonei a garantire il rispetto delle norme dettate dal codice in materia di protezione dei dati personali nonche' il trattamento dei medesimi esclusivamente per le finalita' di cui al presente decreto.
 
@@ -1828,7 +1822,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 33 - Obbligo di invio dei dati aggregati alla UIF
+##### Art. 33 - Obbligo di invio dei dati aggregati alla UIF
 
 1\. Gli intermediari bancari e finanziari, ad esclusione di quelli di cui all'articolo 3, comma 2, (( lettere i), o), p), q) e v) )), nonche' le societa' fiduciarie di cui all'articolo 3, comma 3, lettera a), trasmettono alla UIF dati aggregati concernenti la propria operativita', al fine di consentire l'effettuazione di analisi mirate a far emergere eventuali fenomeni di riciclaggio o di finanziamento del terrorismo nell'ambito di determinate zone territoriali.
 
@@ -1842,7 +1836,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 34
+##### Art. 34
 
 (( (Disposizioni specifiche). ))
 
@@ -1860,7 +1854,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 34-bis
+##### Art. 34-bis
 
 (( (Organismo di gestione accentrata dei dati antiriciclaggio presso il Consiglio nazionale del notariato). ))
 
@@ -1924,9 +1918,9 @@ c) ((la trasmissione tempestiva, in caso di mancata osservanza da parte del sing
 
 13\. ((Entro il 30 aprile di ciascun anno, l'organismo di cui al comma 1, nel rispetto delle esigenze di riservatezza, trasmette una relazione sull'attivita' svolta nell'anno precedente al Ministero dell'economia e delle finanze, al Ministero della giustizia, alla UIF, al Consiglio nazionale del notariato, nonche' alle autorita' di vigilanza che hanno comunque accesso ai dati oggetto di analisi ai sensi del comma 6.))
 
-## Capo III - (( (Obblighi di segnalazione) ))
+### Capo III - (( (Obblighi di segnalazione) ))
 
-###### Art. 35
+##### Art. 35
 
 (( (Obbligo di segnalazione delle operazioni sospette). ))
 
@@ -1950,7 +1944,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 36
+##### Art. 36
 
 (( (Modalita' di segnalazione da parte degli intermediari bancari e finanziari, degli altri operatori finanziari, delle societa' di gestione degli strumenti finanziari e dei soggetti convenzionati e agenti). ))
 
@@ -1974,7 +1968,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 37 - Modalita' di segnalazione da parte dei professionisti
+##### Art. 37 - Modalita' di segnalazione da parte dei professionisti
 
 1\. I professionisti trasmettono la segnalazione di operazione sospetta direttamente alla UIF ovvero, ai sensi dell'articolo 11, comma 4, agli organismi di autoregolamentazione.
 
@@ -1992,7 +1986,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 38 - Tutela del segnalante
+##### Art. 38 - Tutela del segnalante
 
 1\. I soggetti obbligati e gli organismi di autoregolamentazione adottano tutte le misure idonee ad assicurare la riservatezza dell'identita' delle persone che effettuano la segnalazione.
 
@@ -2016,7 +2010,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 39 - Divieto di comunicazioni inerenti le segnalazioni di operazioni sospette
+##### Art. 39 - Divieto di comunicazioni inerenti le segnalazioni di operazioni sospette
 
 1\. Fuori dai casi previsti dal presente decreto, e' fatto divieto ai soggetti tenuti alla segnalazione di un'operazione sospetta e a chiunque ne sia comunque a conoscenza, di dare comunicazione al cliente interessato o a terzi dell'avvenuta segnalazione, dell'invio di ulteriori informazioni richieste dalla UIF o dell'esistenza ovvero della probabilita' di indagini o approfondimenti in materia di riciclaggio o di finanziamento del terrorismo. ((In relazione al trattamento di dati personali connesso alle attivita' di segnalazione e comunicazione di cui al presente comma, i diritti di cui agli articoli da 15 a 18 e da 20 a 22 del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, si esercitano nei limiti previsti dall'articolo 2-undecies del decreto legislativo 30 giugno 2003, n. 196, e successive modificazioni.))
 
@@ -2038,7 +2032,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 40 - Analisi e sviluppo delle segnalazioni
+##### Art. 40 - Analisi e sviluppo delle segnalazioni
 
 1\. La UIF, sentito il Comitato di sicurezza finanziaria, definisce i criteri per l'approfondimento finanziario delle segnalazioni di operazioni sospette ed espleta le seguenti attivita':
 
@@ -2066,7 +2060,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 41
+##### Art. 41
 
 (( (Flusso di ritorno delle informazioni).))
 
@@ -2086,9 +2080,9 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-## (( Capo IV - (Obbligo di astensione) ))
+### (( Capo IV - (Obbligo di astensione) ))
 
-###### Art. 42
+##### Art. 42
 
 (( (Astensione).))
 
@@ -2108,11 +2102,9 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-## Capo V - ((Disposizioni specifiche per i prestatori di servizi di pagamento,
+### Capo V - ((Disposizioni specifiche per i prestatori di servizi di pagamento, gli istituti di moneta elettronica e i prestatori di servizi per le cripto-attività))
 
-### gli istituti di moneta elettronica e i prestatori di servizi per le cripto-attività))
-
-###### Art. 43
+##### Art. 43
 
 (( (Misure di controllo di soggetti convenzionati e agenti).))
 
@@ -2142,7 +2134,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 44 - Adempimenti a carico dei soggetti convenzionati e degli agenti
+##### Art. 44 - Adempimenti a carico dei soggetti convenzionati e degli agenti
 
 1\. Ferma la responsabilita' dei prestatori di servizi di pagamento e degli istituti di moneta elettronica in ordine all'adempimento degli obblighi di adeguata verifica della clientela i soggetti convenzionati e gli agenti di cui all'articolo 1, comma 2, lettera nn):
 
@@ -2174,7 +2166,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 45
+##### Art. 45
 
 (( (Registro dei soggetti convenzionati ed agenti di prestatori di servizi di pagamento e istituti emittenti moneta elettronica).))
 
@@ -2214,13 +2206,13 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 45-bis - Obbligo di istituzione del punto di contatto centrale dei prestatori di servizi per le cripto-attivita'
+##### Art. 45-bis - Obbligo di istituzione del punto di contatto centrale dei prestatori di servizi per le cripto-attivita'
 
 1\. I prestatori di servizi per le cripto-attivita' aventi sede legale e amministrazione centrale in altro Stato membro e stabiliti nel territorio della Repubblica senza succursale, avvalendosi di altri soggetti autorizzati alla prestazione di servizi per le cripto-attivita' ovvero di altri tipi di infrastrutture, compresi gli sportelli automatici per le cripto-attivita', designano un punto di contatto centrale in Italia attraverso cui assolvono agli obblighi di cui al presente decreto. L'obbligo di istituzione del punto di contatto centrale si applica a partire dalla adozione delle norme tecniche di regolamentazione da parte della Commissione europea ai sensi dell'articolo 45, paragrafo 11, della direttiva. La mancata istituzione del punto di contatto centrale e' sanzionata ai sensi dell'articolo 62, comma 1 ((, del presente decreto)).
 
-## (( Capo VI - (Obblighi di comunicazione) ))
+### (( Capo VI - (Obblighi di comunicazione) ))
 
-###### Art. 46
+##### Art. 46
 
 (( (Obblighi di comunicazione degli organi di controllo dei soggetti obbligati).))
 
@@ -2240,7 +2232,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 47 - Comunicazioni oggettive
+##### Art. 47 - Comunicazioni oggettive
 
 1\. Fermi gli obblighi di cui al Titolo II, Capo III, i soggetti obbligati trasmettono alla UIF, con cadenza periodica, dati e informazioni individuati in base a criteri oggettivi, concernenti operazioni a rischio di riciclaggio o di finanziamento del terrorismo.
 
@@ -2256,9 +2248,9 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-## (( Capo VII - (Segnalazione di violazioni) ))
+### (( Capo VII - (Segnalazione di violazioni) ))
 
-###### Art. 48
+##### Art. 48
 
 (( (Sistemi interni di segnalazione delle violazioni).))
 
@@ -2286,7 +2278,7 @@ Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le dis
 
 ## Titolo III - (( (Misure ulteriori) ))
 
-###### Art. 49 - Limitazioni all'uso del contante e dei titoli al portatore
+##### Art. 49 - Limitazioni all'uso del contante e dei titoli al portatore
 
 1\. E' vietato il trasferimento di denaro contante e di titoli al portatore in euro o in valuta estera, effettuato a qualsiasi titolo tra soggetti diversi, siano esse persone fisiche o giuridiche, quando il valore oggetto di trasferimento, e' complessivamente pari o superiore a 3.000 euro. Il trasferimento superiore al predetto limite, quale che ne sia la causa o il titolo, e' vietato anche quando e' effettuato con piu' pagamenti, inferiori alla soglia, che appaiono artificiosamente frazionati e puo' essere eseguito esclusivamente per il tramite di banche, Poste italiane S.p.a., istituti di moneta elettronica e istituti di pagamento, questi ultimi quando prestano servizi di pagamento diversi da quelli di cui all'articolo 1, comma 1, lettera b), numero 6), del decreto legislativo 27 gennaio 2010, n. 11. Il trasferimento effettuato per il tramite degli intermediari bancari e finanziari avviene mediante disposizione accettata per iscritto dagli stessi, previa consegna ai medesimi intermediari della somma in contanti. A decorrere dal terzo giorno lavorativo successivo a quello dell'accettazione, il beneficiario ha diritto di ottenere il pagamento nella provincia del proprio domicilio. La comunicazione da parte del debitore al creditore della predetta accettazione produce gli effetti di cui all'articolo 1277, primo comma, del codice civile e, nei casi di mora del creditore, gli effetti di cui all'articolo 1210 del medesimo codice. (23) (27)
 
@@ -2386,7 +2378,7 @@ AGGIORNAMENTO (27)
 
 Il D.L. 2 marzo 2012, n. 16, convertito con modificazioni dalla L. 26 aprile 2012, n. 44, come modificato dalla L. 30 dicembre 2018, n. 145, ha disposto (con l'art. 3, comma 1) che "Per l'acquisto di beni e di prestazioni di servizi legate al turismo effettuati presso i soggetti di cui agli articoli 22 e 74-ter del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, dalle persone fisiche di cittadinanza diversa da quella italiana e che abbiano residenza fuori del territorio dello Stato, il limite per il trasferimento di denaro contante di cui all'articolo 49, comma 1, del decreto legislativo 21 novembre 2007, n. 231, e' elevato a 15.000 euro a condizione che il cedente del bene o il prestatore del servizio provveda ai seguenti adempimenti [...]".
 
-###### Art. 50
+##### Art. 50
 
 (( (Divieto di conti o libretti di risparmio in forma anonima o con intestazione fittizia e di prodotti di moneta elettronica anonimi).))
 
@@ -2404,7 +2396,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 51
+##### Art. 51
 
 (( (Obbligo di comunicazione al Ministero dell'economia e delle finanze delle infrazioni di cui al presente Titolo).))
 
@@ -2424,7 +2416,7 @@ Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le dis
 
 ## Titolo IV - (( (Disposizioni specifiche per i prestatori di servizi di gioco) ))
 
-###### Art. 52
+##### Art. 52
 
 (( (Misure per la mitigazione del rischio).))
 
@@ -2474,7 +2466,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 52-bis
+##### Art. 52-bis
 
 (( (Registro dei distributori ed esercenti).))
 
@@ -2508,7 +2500,7 @@ e) il rispetto delle norme dettate dal codice in materia di protezione dei dati 
 
 7\. All'attuazione delle disposizioni del presente articolo le amministrazioni interessate provvedono nell'ambito delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri per la finanza pubblica)).
 
-###### Art. 53
+##### Art. 53
 
 (( (Disposizioni integrative in materia di adeguata verifica e conservazione).))
 
@@ -2556,7 +2548,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 54
+##### Art. 54
 
 (( (Autorita' e cooperazione nel comparto del gioco).))
 
@@ -2574,11 +2566,9 @@ Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le dis
 
 ## Titolo V - DISPOSIZIONI SANZIONATORIE E FINALI
 
-### Capo I
+### Capo I - (( (Sanzioni penali) ))
 
-#### (( (Sanzioni penali) ))
-
-###### Art. 55 - Fattispecie incriminatrici
+##### Art. 55 - Fattispecie incriminatrici
 
 1\. Chiunque, essendo tenuto all'osservanza degli obblighi di adeguata verifica ai sensi del presente decreto, falsifica i dati e le informazioni relative al cliente, al titolare effettivo, all'esecutore, allo scopo e alla natura del rapporto continuativo o della prestazione professionale e all'operazione e' punito con la reclusione da sei mesi a tre anni e con la multa da 10.000 euro a 30.000 euro. Alla medesima pena soggiace chiunque essendo tenuto all'osservanza degli obblighi di adeguata verifica ai sensi del presente decreto, in occasione dell'adempimento dei predetti obblighi, utilizza dati e informazioni falsi relativi al cliente, al titolare effettivo, all'esecutore, allo scopo e alla natura del rapporto continuativo o della prestazione professionale e all'operazione.
 
@@ -2608,9 +2598,9 @@ AGGIORNAMENTO (25)
 
 Il D.Lgs. 1 marzo 2018, n. 21 ha disposto (con l'art. 8, comma 1) che "Dalla data di entrata in vigore del presente decreto, i richiami alle disposizioni abrogate dall'articolo 7, ovunque presenti, si intendono riferiti alle corrispondenti disposizioni del codice penale come indicato dalla tabella A allegata al presente decreto".
 
-## Capo II - (( (Sanzioni amministrative) ))
+### Capo II - (( (Sanzioni amministrative) ))
 
-###### Art. 56 - Inosservanza degli obblighi di adeguata verifica e dell'obbligo di astensione
+##### Art. 56 - Inosservanza degli obblighi di adeguata verifica e dell'obbligo di astensione
 
 1\. Ai soggetti obbligati che, in violazione delle disposizioni in materia di adeguata verifica della clientela del presente decreto omettono di acquisire e verificare i dati identificativi e le informazioni sul cliente, sul titolare effettivo, sull'esecutore, sullo scopo e sulla natura del rapporto continuativo o della prestazione professionale si applica la sanzione amministrativa pecuniaria pari a 2.000 euro.
 
@@ -2634,7 +2624,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 57 - Inosservanza degli obblighi di conservazione
+##### Art. 57 - Inosservanza degli obblighi di conservazione
 
 1\. Ai soggetti obbligati che, in violazione di quanto disposto dagli articoli 31 e 32, non effettuano, in tutto o in parte, la conservazione dei dati, dei documenti e delle informazioni ivi previsti o la effettuano tardivamente si applica la sanzione amministrativa pecuniaria pari a 2.000 euro.
 
@@ -2656,7 +2646,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 58 - Inosservanza delle disposizioni relative all'obbligo di segnalazione delle operazioni sospette
+##### Art. 58 - Inosservanza delle disposizioni relative all'obbligo di segnalazione delle operazioni sospette
 
 1\. Salvo che il fatto costituisca reato, ai soggetti obbligati che omettono di effettuare la segnalazione di operazioni sospette, si applica una sanzione amministrativa pecuniaria pari a 3.000 euro.
 
@@ -2702,7 +2692,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 59
+##### Art. 59
 
 (( (Inosservanza degli obblighi di comunicazione da parte dei componenti degli organi di controllo dei soggetti obbligati).))
 
@@ -2718,7 +2708,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 60
+##### Art. 60
 
 (( (Inosservanza degli obblighi informativi nei riguardi dell'Unita' di informazione finanziaria e degli ispettori del Ministero dell'economia e delle finanze).))
 
@@ -2734,7 +2724,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 61
+##### Art. 61
 
 (( (Sanzioni per inosservanza delle disposizioni specifiche in materia di soggetti convenzionati e agenti di prestatori di servizi di pagamento e istituti emittenti moneta elettronica).))
 
@@ -2764,7 +2754,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 62 - Disposizioni sanzionatorie specifiche per soggetti obbligati vigilati
+##### Art. 62 - Disposizioni sanzionatorie specifiche per soggetti obbligati vigilati
 
 1\. Nei confronti degli intermediari bancari e finanziari responsabili, in via esclusiva o concorrente, di violazioni gravi, ripetute o sistematiche ovvero plurime delle disposizioni di cui al Titolo II, Capi I, II e III, di quelle in materia di organizzazione, procedure e controlli interni di cui agli articoli 7, 15 e 16, delle relative disposizioni attuative adottate dalle autorita' di vigilanza di settore nonche' dell'inosservanza dell'ordine di cui al comma 4, lettera a), si applica la sanzione amministrativa pecuniaria da 30.000 euro a 5.000.000 ovvero pari al dieci per cento del fatturato complessivo annuo, quando tale importo percentuale e' superiore a 5.000.000 di euro e il fatturato e' disponibile e determinabile. La medesima sanzione si applica nel caso di mancata istituzione del punto di contatto centrale ((di cui agli articoli 43, comma 3, e 45-bis)).
 
@@ -2800,7 +2790,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 63 - Inosservanza delle disposizioni di cui al Titolo III
+##### Art. 63 - Inosservanza delle disposizioni di cui al Titolo III
 
 1\. Fatta salva l'efficacia degli atti, alle violazioni delle disposizioni di cui all'articolo 49, commi 1, 2, 3, 5, 6 e 7, si applica la sanzione amministrativa pecuniaria da 3.000 euro a 50.000 euro.
 
@@ -2834,7 +2824,7 @@ AGGIORNAMENTO (26)
 
 Il D.L. 23 ottobre 2018, n. 119, convertito con modificazioni dalla L. 17 dicembre 2018, n. 136, ha disposto (con l'art. 9-bis, comma 2) che "La disposizione di cui al comma 1 si applica anche ai procedimenti amministrativi in corso alla data di entrata in vigore del presente decreto".
 
-###### Art. 64
+##### Art. 64
 
 (( (Inosservanza delle disposizioni di cui al Titolo IV commesse da distributori ed esercenti nel comparto del gioco).))
 
@@ -2860,7 +2850,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 65 - Procedimento sanzionatorio
+##### Art. 65 - Procedimento sanzionatorio
 
 1\. Salvo quanto previsto dall'articolo 61, comma 2, e dall'articolo 62, il Ministero dell'economia e delle finanze provvede all'irrogazione delle sanzioni per violazione degli obblighi di cui al presente decreto nei confronti dei soggetti obbligati non sottoposti alla vigilanza delle autorita' di vigilanza di settore. Il Ministero dell'economia e delle finanze provvede altresi':
 
@@ -2898,7 +2888,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 66
+##### Art. 66
 
 (( (Misure ulteriori).))
 
@@ -2920,7 +2910,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 67 - Criteri per l'applicazione delle sanzioni
+##### Art. 67 - Criteri per l'applicazione delle sanzioni
 
 1\. Nell'applicazione delle sanzioni amministrative pecuniarie e delle sanzioni accessorie, previste nel presente Titolo, il Ministero dell'economia e delle finanze e le autorita' di vigilanza di settore, per i profili di rispettiva competenza, considerano ogni circostanza rilevante e, in particolare, tenuto conto del fatto che il destinatario della sanzione sia una persona fisica o giuridica:
 
@@ -2952,7 +2942,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 68
+##### Art. 68
 
 (( (Applicazione della sanzione in misura ridotta).))
 
@@ -3000,7 +2990,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 69 - Successione di leggi nel tempo
+##### Art. 69 - Successione di leggi nel tempo
 
 1\. Nessuno puo' essere sanzionato per un fatto che alla data di entrata in vigore delle disposizioni di cui al presente Titolo non costituisce piu' illecito. ((Per le violazioni commesse anteriormente all'entrata in vigore del decreto legislativo 25 maggio 2017, n. 90, sanzionate in via amministrativa,)) si applica la legge vigente all'epoca della commessa violazione, se piu' favorevole, ivi compresa l'applicabilita' dell'istituto del pagamento in misura ridotta.
 
@@ -3016,9 +3006,9 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-## Capo III - (( (Disposizioni finali) ))
+### Capo III - (( (Disposizioni finali) ))
 
-###### Art. 70 - Disposizioni concernenti l'applicazione del (( regolamento (UE) 2023/1113 del Parlamento europeo e del Consiglio, del 31 maggio 2023))
+##### Art. 70 - Disposizioni concernenti l'applicazione del (( regolamento (UE) 2023/1113 del Parlamento europeo e del Consiglio, del 31 maggio 2023))
 
 1\. Il ((regolamento (UE) 2023/1113 del Parlamento europeo e del Consiglio, del 31 maggio 2023)), non trova applicazione nel caso di trasferimenti di fondi effettuati in ambito nazionale sul conto di pagamento di un beneficiario che permette esclusivamente il pagamento della fornitura di beni o servizi qualora ricorrano congiuntamente le seguenti condizioni:
 
@@ -3040,7 +3030,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 71
+##### Art. 71
 
 (( (Disposizioni sull'Ufficio italiano dei cambi).))
 
@@ -3058,7 +3048,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 72
+##### Art. 72
 
 (( (Modifiche a disposizioni normative vigenti).))
 
@@ -3098,7 +3088,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 73
+##### Art. 73
 
 (( (Norme abrogate).))
 
@@ -3128,7 +3118,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 74
+##### Art. 74
 
 (( (Clausola di invarianza).))
 
@@ -3144,9 +3134,9 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-## Capo III - (( (Disposizioni finali) ))
+### Capo III - (( (Disposizioni finali) ))
 
-###### art. 1
+##### art. 1
 
 Allegato Tecnico-art. 1
 
@@ -3160,7 +3150,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### art. 2
+##### art. 2
 
 Allegato Tecnico-art. 2
 
@@ -3174,7 +3164,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### art. 3
+##### art. 3
 
 Allegato Tecnico-art. 3
 
@@ -3188,7 +3178,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 25 maggio 2017, n. 90, ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### art. 4
+##### art. 4
 
 Allegato Tecnico-art. 4
 

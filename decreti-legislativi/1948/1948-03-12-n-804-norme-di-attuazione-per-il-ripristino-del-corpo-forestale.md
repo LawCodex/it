@@ -32,137 +32,137 @@ PROMULGA
 
 il seguente decreto legislativo, approvato dal Consiglio dei Ministri con deliberazione del 4 marzo 1948:
 
-### Art. 1
+## Art. 1
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 2
+## Art. 2
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 3
+## Art. 3
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 4
+## Art. 4
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 5
+## Art. 5
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 6
+## Art. 6
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 7
+## Art. 7
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 8
+## Art. 8
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 9
+## Art. 9
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 10
+## Art. 10
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 11
+## Art. 11
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 12
+## Art. 12
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 13
+## Art. 13
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 14
+## Art. 14
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 15
+## Art. 15
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 16
+## Art. 16
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 17
+## Art. 17
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 18
+## Art. 18
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 19
+## Art. 19
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 20
+## Art. 20
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
 ## Disposizioni transitorie.
 
-### Art. 21
+## Art. 21
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 22
+## Art. 22
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 23
+## Art. 23
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 24
+## Art. 24
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 25
+## Art. 25
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 26
+## Art. 26
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 27
+## Art. 27
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 28
+## Art. 28
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
 ## Disposizioni finali.
 
-### Art. 29
+## Art. 29
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 30
+## Art. 30
 
 L'Amministrazione forestale provvede a fornire, gratuitamente, ai sottufficiali, alle guardie scelte, alle guardie ed agli allievi guardie, le divise, le calzature e gli altri capi di vestiario, nella misura e con le stesse modalita' di concessione, stabilite in ogni tempo, per i corrispondenti gradi degli appartenenti al Corpo delle guardie di pubblica sicurezza.
 
 ((COMMA ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36)).
 
-### Art. 31
+## Art. 31
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
-### Art. 32
+## Art. 32
 
 ((ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2004, N. 36))
 
@@ -182,7 +182,7 @@ Atti del Governo, registro n. 22, foglio n. 29. - FRASCA
 
 ## Disposizioni finali.
 
-### Tabelle
+## Tabelle
 
 Tabelle
 

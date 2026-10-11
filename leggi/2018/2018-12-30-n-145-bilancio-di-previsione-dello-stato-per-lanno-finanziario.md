@@ -28,9 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Parte I - Sezione I
+## Parte I
 
-### Misure quantitative per la realizzazione degli obiettivi programmatici
+### Sezione I - Misure quantitative per la realizzazione degli obiettivi programmatici
 
 #### Art. 1 - Risultati differenziali. Norme in materia di entrata e di spesa e altre disposizioni. Fondi speciali
 
@@ -4929,9 +4929,9 @@ AGGIORNAMENTO (144)
 
 Il D.L. 11 marzo 2026, n. 32, ha disposto (con l'art. 1, comma 11) che l'autorizzazione di spesa di cui al comma 95 del presente articolo, relativamente alla quota assegnata, con DPCM 11 giugno 2019 e' incrementata di 250 milioni di euro per ciascuno degli anni 2026, 2027 e 2028 e di 54 milioni di euro per l'anno 2029.
 
-## Parte II - Sezione II
+## Parte II
 
-### Approvazione degli stati di previsione
+### Sezione II - Approvazione degli stati di previsione
 
 #### Art. 2 - Stato di previsione dell'entrata
 

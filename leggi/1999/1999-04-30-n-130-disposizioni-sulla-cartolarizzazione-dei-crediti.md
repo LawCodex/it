@@ -32,7 +32,7 @@ la seguente legge:
 
 ## ((Titolo I - CARTOLARIZZAZIONE DEI CREDITI))
 
-##### Art. 1
+#### Art. 1
 
 Ambito di applicazione e definizioni
 
@@ -66,7 +66,7 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 1, comma 1, lettera a)) che "all'articolo 1 sono anteposte le seguenti parole: «Titolo I - CARTOLARIZZAZIONE DEI CREDITI»".
 
-##### Art. 2
+#### Art. 2
 
 Programma dell'operazione
 
@@ -128,7 +128,7 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 1, comma 1, lettera a)) che "all'articolo 1 sono anteposte le seguenti parole: «Titolo I - CARTOLARIZZAZIONE DEI CREDITI»".
 
-##### Art. 3
+#### Art. 3
 
 Societa' per la cartolarizzazione dei crediti
 
@@ -160,7 +160,7 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 1, comma 1, lettera a)) che "all'articolo 1 sono anteposte le seguenti parole: «Titolo I - CARTOLARIZZAZIONE DEI CREDITI»".
 
-##### Art. 4
+#### Art. 4
 
 Modalita' ed efficacia della cessione
 
@@ -190,7 +190,7 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 1, comma 1, lettera a)) che "all'articolo 1 sono anteposte le seguenti parole: «Titolo I - CARTOLARIZZAZIONE DEI CREDITI»".
 
-##### Art. 5
+#### Art. 5
 
 Titoli emessi a fronte dei crediti acquistati
 
@@ -208,7 +208,7 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 1, comma 1, lettera a)) che "all'articolo 1 sono anteposte le seguenti parole: «Titolo I - CARTOLARIZZAZIONE DEI CREDITI»".
 
-##### Art. 6
+#### Art. 6
 
 Disposizioni fiscali e di bilancio
 
@@ -234,7 +234,7 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 1, comma 1, lettera a)) che "all'articolo 1 sono anteposte le seguenti parole: «Titolo I - CARTOLARIZZAZIONE DEI CREDITI»".
 
-##### Art. 7
+#### Art. 7
 
 Altre operazioni
 
@@ -290,7 +290,7 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 1, comma 1, lettera a)) che "all'articolo 1 sono anteposte le seguenti parole: «Titolo I - CARTOLARIZZAZIONE DEI CREDITI»".
 
-##### Art. 7.1 - Cartolarizzazione di crediti deteriorati da parte di banche e intermediari finanziari
+#### Art. 7.1 - Cartolarizzazione di crediti deteriorati da parte di banche e intermediari finanziari
 
 1\. Alle cessioni di crediti, qualificati come deteriorati in base alle disposizioni dell'autorita' competente, ceduti da banche e intermediari finanziari iscritti nell'albo di cui all'articolo 106 del testo unico bancario aventi sede legale in Italia ovvero, su istanza del debitore, effettuate nell'ambito di operazioni aventi una valenza sociale che prevedano la concessione in locazione al debitore, da parte della societa' veicolo di appoggio, dell'immobile costituito in garanzia del credito ceduto, si applicano altresi' le disposizioni del presente articolo.
 
@@ -334,7 +334,7 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 1, comma 1, lettera a)) che "all'articolo 1 sono anteposte le seguenti parole: «Titolo I - CARTOLARIZZAZIONE DEI CREDITI»".
 
-##### Art. 7.2
+#### Art. 7.2
 
 ((Cartolarizzazioni immobiliari e di beni mobili anche registrati)).
 
@@ -350,7 +350,7 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 1, comma 1, lettera a)) che "all'articolo 1 sono anteposte le seguenti parole: «Titolo I - CARTOLARIZZAZIONE DEI CREDITI»".
 
-##### Art. 7-bis
+#### Art. 7-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 5 NOVEMBRE 2021, N. 190))
 
@@ -362,7 +362,7 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 3, comma 4) che "Alle obbligazioni bancarie garantite emesse prima della data di applicazione indicata al comma 2 si applicano gli articoli 7-bis, 7-ter e 7-quater della legge 30 aprile 1999, n. 130, nella versione precedente alle modifiche apportate con il presente decreto legislativo, e le relative disposizioni di attuazione".
 
-##### Art. 7-ter
+#### Art. 7-ter
 
 ((ARTICOLO ABROGATO DAL D.LGS. 5 NOVEMBRE 2021, N. 190))
 
@@ -374,7 +374,7 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 3, comma 4) che "Alle obbligazioni bancarie garantite emesse prima della data di applicazione indicata al comma 2 si applicano gli articoli 7-bis, 7-ter e 7-quater della legge 30 aprile 1999, n. 130, nella versione precedente alle modifiche apportate con il presente decreto legislativo, e le relative disposizioni di attuazione".
 
-##### Art. 7-quater
+#### Art. 7-quater
 
 ((ARTICOLO ABROGATO DAL D.LGS. 5 NOVEMBRE 2021, N. 190))
 
@@ -388,11 +388,9 @@ Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 3, comma 4) che "Alle 
 
 ## ((Titolo I-bis - OBBLIGAZIONI BANCARIE GARANTITE))
 
-### (( Capo I
+### (( Capo I - (Disposizioni di carattere generale) ))
 
-#### (Disposizioni di carattere generale) ))
-
-##### Art. 7-quinquies
+#### Art. 7-quinquies
 
 (( (Definizioni). ))
 
@@ -424,7 +422,7 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 3, comma 3) che "Le disposizioni del Titolo I-bis della legge 30 aprile 1999, n. 130, come modificata dal presente decreto legislativo, si applicano alle obbligazioni bancarie garantite emesse a partire dalla data di entrata in vigore delle relative disposizioni attuative".
 
-##### Art. 7-sexies
+#### Art. 7-sexies
 
 (( (Ambito di applicazione). ))
 
@@ -444,7 +442,7 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 3, comma 3) che "Le disposizioni del Titolo I-bis della legge 30 aprile 1999, n. 130, come modificata dal presente decreto legislativo, si applicano alle obbligazioni bancarie garantite emesse a partire dalla data di entrata in vigore delle relative disposizioni attuative".
 
-##### Art. 7-septies
+#### Art. 7-septies
 
 (( (Societa' cessionaria). ))
 
@@ -462,7 +460,7 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 3, comma 3) che "Le disposizioni del Titolo I-bis della legge 30 aprile 1999, n. 130, come modificata dal presente decreto legislativo, si applicano alle obbligazioni bancarie garantite emesse a partire dalla data di entrata in vigore delle relative disposizioni attuative".
 
-##### Art. 7-octies
+#### Art. 7-octies
 
 (( (Patrimonio separato). ))
 
@@ -484,9 +482,9 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 3, comma 3) che "Le disposizioni del Titolo I-bis della legge 30 aprile 1999, n. 130, come modificata dal presente decreto legislativo, si applicano alle obbligazioni bancarie garantite emesse a partire dalla data di entrata in vigore delle relative disposizioni attuative".
 
-## (( Capo II - (Attivi idonei) ))
+### (( Capo II - (Attivi idonei) ))
 
-##### Art. 7-novies
+#### Art. 7-novies
 
 (( (Attivi idonei). ))
 
@@ -518,7 +516,7 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 3, comma 3) che "Le disposizioni del Titolo I-bis della legge 30 aprile 1999, n. 130, come modificata dal presente decreto legislativo, si applicano alle obbligazioni bancarie garantite emesse a partire dalla data di entrata in vigore delle relative disposizioni attuative".
 
-##### Art. 7-decies
+#### Art. 7-decies
 
 (( (Contratti derivati). ))
 
@@ -546,9 +544,9 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 3, comma 3) che "Le disposizioni del Titolo I-bis della legge 30 aprile 1999, n. 130, come modificata dal presente decreto legislativo, si applicano alle obbligazioni bancarie garantite emesse a partire dalla data di entrata in vigore delle relative disposizioni attuative".
 
-## (( Capo III - (Requisiti di copertura e liquidita') ))
+### (( Capo III - (Requisiti di copertura e liquidita') ))
 
-##### Art. 7-undecies
+#### Art. 7-undecies
 
 (( (Requisiti di copertura). ))
 
@@ -590,7 +588,7 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 3, comma 3) che "Le disposizioni del Titolo I-bis della legge 30 aprile 1999, n. 130, come modificata dal presente decreto legislativo, si applicano alle obbligazioni bancarie garantite emesse a partire dalla data di entrata in vigore delle relative disposizioni attuative".
 
-##### Art. 7-duodecies
+#### Art. 7-duodecies
 
 (( (Requisito per la riserva di liquidita'). ))
 
@@ -614,7 +612,7 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 3, comma 3) che "Le disposizioni del Titolo I-bis della legge 30 aprile 1999, n. 130, come modificata dal presente decreto legislativo, si applicano alle obbligazioni bancarie garantite emesse a partire dalla data di entrata in vigore delle relative disposizioni attuative".
 
-##### Art. 7-terdecies
+#### Art. 7-terdecies
 
 (( (Scadenze estensibili). ))
 
@@ -644,9 +642,9 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 3, comma 3) che "Le disposizioni del Titolo I-bis della legge 30 aprile 1999, n. 130, come modificata dal presente decreto legislativo, si applicano alle obbligazioni bancarie garantite emesse a partire dalla data di entrata in vigore delle relative disposizioni attuative".
 
-## (( Capo IV - (Obblighi della banca emittente e della societa' cessionaria) ))
+### (( Capo IV - (Obblighi della banca emittente e della societa' cessionaria) ))
 
-##### Art. 7-quaterdecies
+#### Art. 7-quaterdecies
 
 (( (Garanzia della societa' cessionaria). ))
 
@@ -668,7 +666,7 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 3, comma 3) che "Le disposizioni del Titolo I-bis della legge 30 aprile 1999, n. 130, come modificata dal presente decreto legislativo, si applicano alle obbligazioni bancarie garantite emesse a partire dalla data di entrata in vigore delle relative disposizioni attuative".
 
-##### Art. 7-quinquiesdecies
+#### Art. 7-quinquiesdecies
 
 (( (Garanzia della banca emittente sui contratti derivati). ))
 
@@ -684,7 +682,7 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 3, comma 3) che "Le disposizioni del Titolo I-bis della legge 30 aprile 1999, n. 130, come modificata dal presente decreto legislativo, si applicano alle obbligazioni bancarie garantite emesse a partire dalla data di entrata in vigore delle relative disposizioni attuative".
 
-##### Art. 7-sexiesdecies
+#### Art. 7-sexiesdecies
 
 (( (Societa' di controllo dell'aggregato di copertura). ))
 
@@ -702,7 +700,7 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 3, comma 3) che "Le disposizioni del Titolo I-bis della legge 30 aprile 1999, n. 130, come modificata dal presente decreto legislativo, si applicano alle obbligazioni bancarie garantite emesse a partire dalla data di entrata in vigore delle relative disposizioni attuative".
 
-##### Art. 7-septiesdecies
+#### Art. 7-septiesdecies
 
 (( (Informativa al pubblico). ))
 
@@ -720,9 +718,9 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 3, comma 3) che "Le disposizioni del Titolo I-bis della legge 30 aprile 1999, n. 130, come modificata dal presente decreto legislativo, si applicano alle obbligazioni bancarie garantite emesse a partire dalla data di entrata in vigore delle relative disposizioni attuative".
 
-## (( Capo V - (Vigilanza sull'emissione di obbligazioni bancarie garantite) ))
+### (( Capo V - (Vigilanza sull'emissione di obbligazioni bancarie garantite) ))
 
-##### Art. 7-octiesdecies
+#### Art. 7-octiesdecies
 
 (( (Vigilanza). ))
 
@@ -740,7 +738,7 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 3, comma 3) che "Le disposizioni del Titolo I-bis della legge 30 aprile 1999, n. 130, come modificata dal presente decreto legislativo, si applicano alle obbligazioni bancarie garantite emesse a partire dalla data di entrata in vigore delle relative disposizioni attuative".
 
-##### Art. 7-noviesdecies
+#### Art. 7-noviesdecies
 
 (( (Autorizzazione del programma di emissione di obbligazioni bancarie garantite). ))
 
@@ -764,7 +762,7 @@ Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 3, comma 3) che "Le di
 
 Qualora le obbligazioni emesse successivamente a tale data siano incluse in programmi di emissione anteriori alla data di applicazione prevista dal primo periodo del presente comma, non si applica l'articolo 7-noviesdecies, comma 1, della legge 30 aprile 1999, n. 130, come modificata dal presente decreto".
 
-##### Art. 7-vicies
+#### Art. 7-vicies
 
 (( (Collaborazione tra autorita'). ))
 
@@ -778,7 +776,7 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 3, comma 3) che "Le disposizioni del Titolo I-bis della legge 30 aprile 1999, n. 130, come modificata dal presente decreto legislativo, si applicano alle obbligazioni bancarie garantite emesse a partire dalla data di entrata in vigore delle relative disposizioni attuative".
 
-##### Art. 7-viciessemel
+#### Art. 7-viciessemel
 
 (( (Disciplina e procedura sanzionatoria). ))
 
@@ -794,9 +792,9 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 3, comma 3) che "Le disposizioni del Titolo I-bis della legge 30 aprile 1999, n. 130, come modificata dal presente decreto legislativo, si applicano alle obbligazioni bancarie garantite emesse a partire dalla data di entrata in vigore delle relative disposizioni attuative".
 
-## (( Capo VI - (Marchio) ))
+### (( Capo VI - (Marchio) ))
 
-##### Art. 7-viciesbis
+#### Art. 7-viciesbis
 
 (( (Marchio). ))
 
@@ -814,9 +812,9 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 3, comma 3) che "Le disposizioni del Titolo I-bis della legge 30 aprile 1999, n. 130, come modificata dal presente decreto legislativo, si applicano alle obbligazioni bancarie garantite emesse a partire dalla data di entrata in vigore delle relative disposizioni attuative".
 
-## (( Capo VII - (Disposizioni fiscali) ))
+### (( Capo VII - (Disposizioni fiscali) ))
 
-##### Art. 7-viciester
+#### Art. 7-viciester
 
 (( (Disposizioni fiscali). ))
 
@@ -830,9 +828,9 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 5 novembre 2021, n. 190 ha disposto (con l'art. 3, comma 3) che "Le disposizioni del Titolo I-bis della legge 30 aprile 1999, n. 130, come modificata dal presente decreto legislativo, si applicano alle obbligazioni bancarie garantite emesse a partire dalla data di entrata in vigore delle relative disposizioni attuative".
 
-## (( Capo VIII - (Obbligazioni bancarie collateralizzate) ))
+### (( Capo VIII - (Obbligazioni bancarie collateralizzate) ))
 
-##### Art. 7-viciesquater
+#### Art. 7-viciesquater
 
 (( (Cessione di ulteriori crediti e titoli). ))
 

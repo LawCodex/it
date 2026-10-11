@@ -26,57 +26,53 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - COMMISSIONE CENTRALE PER L'AVVIAMENTO AL LAVORO
+## TITOLO I - COMMISSIONE CENTRALE PER L'AVVIAMENTO AL LAVORO E PER L'ASSISTENZA DEI DISOCCUPATI
 
-### E PER L'ASSISTENZA DEI DISOCCUPATI
-
-##### Art. 1
+#### Art. 1
 
 ((ARTICOLO ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297))
 
-##### Art. 2
+#### Art. 2
 
 ((ARTICOLO ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297))
 
-##### Art. 3
+#### Art. 3
 
 ((ARTICOLO ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297))
 
-##### Art. 4
+#### Art. 4
 
 ((ARTICOLO ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297))
 
-##### Art. 5
+#### Art. 5
 
 ((ARTICOLO ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297))
 
-##### Art. 6
+#### Art. 6
 
 ((ARTICOLO ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297))
 
 ## TITOLO II - DISCIPLINA DEL COLLOCAMENTO
 
-### CAPO I
+### CAPO I - Disciplina dell'avviamento al lavoro
 
-#### Disciplina dell'avviamento al lavoro
-
-##### Art. 7
+#### Art. 7
 
 ((ARTICOLO ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297))
 
-##### Art. 8
+#### Art. 8
 
 ((ARTICOLO ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297))
 
-##### Art. 9
+#### Art. 9
 
 ((ARTICOLO ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297))
 
-##### Art. 10
+#### Art. 10
 
 ((ARTICOLO ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297))
 
-##### Art. 11
+#### Art. 11
 
 E' vietato l'esercizio della mediazione anche se gratuito quando il collocamento e' demandato agli Uffici autorizzati.
 
@@ -92,19 +88,19 @@ E' vietato l'esercizio della mediazione anche se gratuito quando il collocamento
 
 ((COMMA ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297)).
 
-##### Art. 12
+#### Art. 12
 
 ((ARTICOLO ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297))
 
-##### Art. 13
+#### Art. 13
 
 ((ARTICOLO ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297))
 
-##### Art. 14
+#### Art. 14
 
 ((ARTICOLO ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297))
 
-##### Art. 15
+#### Art. 15
 
 ((COMMA ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297)).
 
@@ -120,87 +116,85 @@ I lavoratori licenziati da un'azienda per riduzione di personale hanno la preced
 
 ((COMMA ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297)).
 
-##### Art. 16
+#### Art. 16
 
 ((ARTICOLO ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297))
 
-##### Art. 17
+#### Art. 17
 
 ((ARTICOLO ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297))
 
-##### Art. 18
+#### Art. 18
 
 ((ARTICOLO ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297))
 
-##### Art. 19
+#### Art. 19
 
 ((ARTICOLO ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297))
 
-##### Art. 20
+#### Art. 20
 
 ((ARTICOLO ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297))
 
-##### Art. 21
+#### Art. 21
 
 ((I datori di lavoro sono tenuti altresi' a comunicare la cessazione dei rapporti di lavoro, entro i cinque giorni successivi, quando trattasi di rapporti a tempo indeterminato ovvero nei casi in cui la cessazione sia avvenuta in data diversa da quella comunicata all'atto dell'assunzione.
 
 COMMA ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297)).
 
-##### Art. 22
+#### Art. 22
 
 ((ARTICOLO ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297))
 
-##### Art. 23
+#### Art. 23
 
 ((ARTICOLO ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297))
 
-## CAPO II - Organi del collocamento
+### CAPO II - Organi del collocamento
 
-##### Art. 24
-
-((ARTICOLO ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297))
-
-##### Art. 25
+#### Art. 24
 
 ((ARTICOLO ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297))
 
-##### Art. 26
+#### Art. 25
 
 ((ARTICOLO ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297))
 
-## CAPO III - Disposizioni penali
+#### Art. 26
 
-##### Art. 27
+((ARTICOLO ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297))
+
+### CAPO III - Disposizioni penali
+
+#### Art. 27
 
 ((ARTICOLO ABROGATO DAL D. LGS. 10 SETTEMBRE 2003, N. 276))
 
-## CAPO IV - Disposizioni finali
+### CAPO IV - Disposizioni finali
 
-##### Art. 28
-
-((ARTICOLO ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297))
-
-##### Art. 29
+#### Art. 28
 
 ((ARTICOLO ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297))
 
-## TITOLO III - ASSISTENZA ECONOMICA AI LAVORATORI
+#### Art. 29
 
-### INVOLONTARIAMENTE DISOCCUPATI
+((ARTICOLO ABROGATO DAL D. LGS. 19 DICEMBRE 2002, N. 297))
 
-#### CAPO I - Disposizioni generali
+## TITOLO III - ASSISTENZA ECONOMICA AI LAVORATORI INVOLONTARIAMENTE DISOCCUPATI
 
-##### Art. 30
+### CAPO I - Disposizioni generali
+
+#### Art. 30
 
 Fino a quando non sia disciplinato, in sede di riforma della previdenza sociale, l'ordinamento delle prestazioni per la disoccupazione involontaria, si applicano le disposizioni del regio decreto-legge 4 ottobre 1935, n. 1827, modificato col regio decreto-legge 14 aprile 1939, n. 636, convertito nella legge 6 luglio 1939, n. 1272, salvo le modificazioni disposte con il presente capo.
 
-##### Art. 31
+#### Art. 31
 
 La norma dell'art. 1 del regio decreto-legge 17 marzo 1941, n. 124, concernente la elevazione da 120 n. 180 del numero massimo delle giornate di godimento dell'indennita' di disoccupazione, gia' prorogata coi decreti legislativi 29 luglio 1947, n. 841 e 15 aprile 1948, n. 549, continua ad avere vigore fino a quando non sia disciplinato, come previsto dall'articolo precedente, il nuovo ordinamento delle prestazioni per la disoccupazione involontaria.
 
 La maggiore spesa derivante dall'applicazione del presente articolo rimane a carico della gestione dell'assicurazione obbligatoria per la disoccupazione involontaria.
 
-##### Art. 32
+#### Art. 32
 
 L'obbligo dell'assicurazione contro la disoccupazione e' esteso:
 
@@ -226,7 +220,7 @@ AGGIORNAMENTO (11)
 
 La Corte Costituzionale con sentenza 18 giugno - 3 luglio 1975, n. 177 (in G.U. 1a s.s. 09/07/1975, n. 181) ha dichiarato "l'illegittimita' costituzionale dell'art. 32, lett. b, della legge 29 aprile 1949, n. 264, nella parte in cui esclude gli operai delle pubbliche amministrazioni, cui non sia garantita la stabilita' d'impiego, dall'assicurazione contro la disoccupazione involontaria."
 
-##### Art. 33
+#### Art. 33
 
 Per i lavoratori agricoli l'obbligo dell'assicurazione contro la disoccupazione ha effetto dal giorno dell'entrata in vigore della presente legge per le categorie e secondo le modalita' di cui al regolamento previsto dalla lettera a) del precedente articolo.
 
@@ -234,13 +228,13 @@ Le misure dei contributi dovuti per l'assicurazione obbligatoria e per gli asseg
 
 I contributi predetti saranno riscossi secondo le modalita' stabilite nel regolamento.
 
-## CAPO II - Assegni integrativi delle indennita' di disoccupazione
+### CAPO II - Assegni integrativi delle indennita' di disoccupazione
 
-##### Art. 34
+#### Art. 34
 
 Gli assegni integrativi istituiti col decreto legislativo luogotenenziale 31 agosto 1945, n. 579, modificato col regio decreto legislativo 20 maggio 1946, n. 373, e col decreto legislativo del Capo provvisorio dello Stato 12 agosto 1947, n. 870, ed i sussidi straordinari istituiti col regio decreto legislativo 20 maggio 1946, n. 373, modificato col decreto legislativo del Capo provvisorio dello Stato 12 agosto 1947, n. 870, per la disoccupazione involontaria per mancanza di lavoro, sono disciplinati dalla presente legge, la quale sostituisce i citati decreti che, pertanto, sono abrogati.
 
-##### Art. 35
+#### Art. 35
 
 Agli aventi diritto all'indennita' giornaliera di disoccupazione prevista dall'art. 19 del regio decreto-legge 14 aprile 1939, n. 636, convertito con modificazioni, nella legge 6 luglio 1939, n. 1272, e' concesso, per il periodo di godimento di tale indennita', un assegno integrativo di L. 200 per ogni giornata di corresponsione della indennita' stessa a carico del Fondo di integrazione per le assicurazioni sociali, istituito con decreto legislativo luogotenenziale 1 marzo 1945, n. 177.
 
@@ -250,9 +244,9 @@ Oltre gli assegni integrativi di cui ai precedenti commi sono corrisposte al dis
 
 Gli assegni integrativi sono corrisposti unitamente alla indennita' giornaliera di disoccupazione con l'osservanza delle norme che disciplinano la corresponsione dell'indennita' stessa.
 
-## CAPO III - Sussidi straordinari
+### CAPO III - Sussidi straordinari
 
-##### Art. 36
+#### Art. 36
 
 Per determinate localita' e limitatamente a particolari categorie professionali, puo' essere disposta, con decreto del Ministro per il lavoro e la previdenza sociale, di concerto col Ministro per il tesoro, la concessione di sussidi straordinari di disoccupazione ai lavoratori che si trovino involontariamente disoccupati per mancanza di lavoro e che non abbiano i requisiti prescritti per il diritto alla indennita' giornaliera di disoccupazione.
 
@@ -272,17 +266,17 @@ Salvo quanto e' disposto nell'articolo seguente per i lavoratori agricoli, il nu
 
 La concessione del sussidio straordinario per determinate localita' e categorie e' disposta avuto riguardo alle condizioni di lavoro e delle industrie locali ed ai lavori pubblici da eseguire.
 
-##### Art. 37
+#### Art. 37
 
 I lavoratori agricoli possono essere ammessi ai sussidi straordinari con le norme stabilite dal precedente articolo, purche', entro i tre mesi dalla entrata in vigore della presente legge, per essi siano stati versati o risultino dovuti i contributi settimanali e giornalieri minimi previsti dal regolamento, sia per i salariati fissi che per i lavoratori giornalieri. Il regolamento prevedera' anche l'aumento periodico, a decorrere dal compimento del terzo mese dall'entrata in vigore della presente legge, dei contributi che dovranno essere pagati in relazione ad effettiva, occupazione per essere ammessi al sussidio straordinario.
 
 Sono utilizzabili, per costituire i minimi indicati, i contributi eventualmente versati per mezzo di marche, in dipendenza dell'esercizio, da parte dell'assicurato, di altre attivita' gia' comprese nell'obbligo dell'assicurazione contro la disoccupazione; a tale effetto per i lavoratori giornalieri sei contributi giornalieri equivalgono ad un contributo settimanale.
 
-##### Art. 38
+#### Art. 38
 
 Sono esclusi dal sussidio straordinario di disoccupazione i disoccupati gia' ricoverati in case di cura e da esse dimessi per guarigione clinica, per stabilizzazione o per prosecuzione delle cure antitubercolari, quando usufruiscano del sussidio post-sanatoriale a norma delle disposizioni vigenti.
 
-##### Art. 39
+#### Art. 39
 
 Si applicano per la corresponsione del sussidio straordinario di disoccupazione le norme sull'assicurazione per la disoccupazione involontaria relative alla concessione ed erogazione delle indennita' giornaliere, alla sospensione ed alla cessazione del diritto al godimento dell'indennita'; medesima, ai ricorsi contro la negata, concessione di essa ed agli organi erogatori e ai controlli.
 
@@ -290,7 +284,7 @@ I sussidi straordinari sono di importo pari a quello degli assegni integrativi d
 
 I sussidi straordinari di regola si erogano per 90 giorni prorogabili al massimo a 180; e, in casi eccezionali entro un piu' ampio termine, previsto dal decreto di concessione.
 
-##### Art. 40
+#### Art. 40
 
 Il lavoratore, per godere della concessione del sussidio straordinario previsto dall'apposito decreto Ministeriale, deve presentare domanda, per il tramite dell'Ufficio provinciale del lavoro e della massima occupazione, alla sede provinciale dell'istituto nazionale della previdenza sociale.
 
@@ -298,7 +292,7 @@ La domanda e' redatta sul modulo fornito dall'istituto predetto contenente un pa
 
 La domanda deve essere trasmessa con una dichiarazione dell'Ufficio provinciale del lavoro e della massima occupazione, con la quale si attesti l'esistenza nel richiedente dei requisiti di cui ai numeri 2), 3), 4) e 5) dell'art. 36.
 
-##### Art. 41
+#### Art. 41
 
 L'erogazione del sussidio straordinario cessa di diritto:
 
@@ -314,17 +308,17 @@ L'erogazione del sussidio straordinario cessa di diritto:
 
 Il direttore dell'Ufficio provinciale del lavoro e della massima occupazione ordina di ufficio la cessazione della erogazione del sussidio straordinario non appena gli risulti il verificarsi di una o piu' delle ipotesi previste dal presente articolo.
 
-##### Art. 42
+#### Art. 42
 
 Alla corresponsione dei sussidi straordinari provvede l'Istituto nazionale della previdenza sociale, tenendo per essi una contabilita' distinta presso il Fondo di integrazione per le assicurazioni sociali e osservando le norme previste per le gestioni e il controllo di detto Fondo dal decreto legislativo luogotenenziale 1 marzo 1945, n. 177.
 
-##### Art. 43
+#### Art. 43
 
 All'onere derivante dalla erogazione dei sussidi straordinari si provvede con i contributi dovuti dai datori di lavoro per gli assegni integrativi delle indennita' di disoccupazione nella misura fissata annualmente ai sensi dell'art. 9 del decreto legislativo luogotenenziale 1 marzo 1915, n. 177, e col concorso dello Stato.
 
 Per l'anno finanziario 1948-49 lo Stato versera' all'Istituto nazionale della previdenza sociale per la corresponsione dei sussidi straordinari la somma di lire cinque miliardi da corrispondersi in due rate semestrali all'inizio di ciascun semestre. Per gli anni finanziari successivi il contributo statale sara' determinato nella legge del bilancio.
 
-##### Art. 44
+#### Art. 44
 
 Chi indebitamente riscuote il sussidio straordinario di disoccupazione o continua a percepirlo dopo la cessazione dei suo stato di disoccupazione e' punito con l'ammenda dal doppio al decuplo delle somme percepite a titolo di sussidio, salvo che il fatto costituisca reato piu' grave.
 
@@ -334,17 +328,15 @@ Una ammenda uguale a quella prevista nel primo comma, salvo che il fatto costitu
 
 ## TITOLO IV - ((ADDESTRAMENTO PROFESSIONALE))
 
-### CAPO I
+### CAPO I - Disposizioni generali
 
-#### Disposizioni generali
-
-##### Art. 45
+#### Art. 45
 
 ((Il Ministro per il lavoro e la previdenza sociale, nei casi e con le modalita' stabilite nel presente titolo, promuove direttamente o autorizza l'istituzione di corsi di addestramento professionale, nonche' l'apertura dei cantieri-scuola per disoccupati, per l'attivita' forestale e vivaistica, di rimboschimento, di sistemazione montana e di costruzione di opere di pubblica utilita')).
 
-## CAPO II - Corsi per disoccupati
+### CAPO II - Corsi per disoccupati
 
-##### Art. 46
+#### Art. 46
 
 I corsi per disoccupati sono rivolti all'addestramento, alla qualificazione, al perfezionamento o alla rieducazione professionale dei lavoratori che, a causa dello stato di disoccupazione o in dipendenza degli eventi di guerra, abbiano bisogno di riacquistare, accrescere o mutare rapidamente le loro capacita' tecniche, adattandole alla necessita' della efficienza produttiva, alle esigenze del mercato interno del lavoro e alla possibilita' di emigrazione.
 
@@ -352,11 +344,11 @@ Essi hanno carattere eminentemente pratico, con applicazione degli allievi in op
 
 I corsi sono diurni con orario corrispondente a quello normale di lavoro, durano di regola da due a otto mesi e possono essere seguiti da corsi piu' progrediti di eguale durata, per gli stessi allievi che abbiano frequentato 1 corsi di addestramento.
 
-##### Art. 47
+#### Art. 47
 
 I corsi per lavoratori disoccupati possono essere promossi dalle Amministrazioni dello Stato e dai Comuni, nonche' da altri enti, istituzioni e associazioni anche presso scuole, a termini del regio decreto-legge 21 giugno 1938, n. 380.
 
-##### Art. 48
+#### Art. 48
 
 I promotori dei corsi per lavoratori disoccupati possono ottenere, qualora dimostrino di avere l'attrezzatura idonea per l'effettuazione dei medesimi, i finanziamenti e le sovvenzioni necessarie, nonche' le indennita' per gli allievi previste dal presente titolo.
 
@@ -366,21 +358,21 @@ La coordinazione dei corsi in rapporto alle esigenze regionali e' demandata al M
 
 Le proposte di istituzione dei singoli corsi devono essere inoltrate al Ministero del lavoro e della previdenza sociale dall'Ufficio provinciale del lavoro e della massima occupazione territorialmente competente, munite di parere della Commissione provinciale.
 
-##### Art. 49
+#### Art. 49
 
 L'iscrizione ai corsi avviene su domanda dell'interessato diretta all'Ufficio provinciale del lavoro e della massima occupazione che, d'intesa con le direzioni dei corsi, provvede alla selezione e all'avviamento, tenendo presenti criteri razionali di orientamento professionale.
 
 Gli istituti, gli enti e le associazioni che promuovono corsi sono tenuti a comunicare, almeno dieci giorni prima della data di inizio dei corsi stessi, agli Uffici provinciali del lavoro e della massima occupazione, alle sedi provinciali dell'Istituto nazionale della previdenza sociale, agli Ispettorati del lavoro, ai Consorzi provinciali per l'istruzione tecnica e alle locali associazioni sindacali, la istituzione dei corsi, e, ad inizio avvenuto, a segnalare i nominativi degli iscritti all'Istituto nazionale della previdenza sociale e all'Ufficio provinciale del lavoro e della massima occupazione.
 
-##### Art. 50
+#### Art. 50
 
 ((I promotori dei corsi devono richiedere un delegato ministeriale che presenti agli esami finali e devono rimettere entro 120 giorni dalla chiusura dei corsi stessi al Ministero del lavoro e della previdenza sociale, a mezzo dell'Ufficio provinciale del lavoro e della massima occupazione competente, il resoconto didattico, tecnico ed economico dei singoli corsi)).
 
-##### Art. 51
+#### Art. 51
 
 Il Ministro per il lavoro e la previdenza sociale stabilisce le modalita' per il funzionamento dei corsi per disoccupati.
 
-##### Art. 52
+#### Art. 52
 
 Nelle localita' e per quelle categorie per le quali sono stati istituiti corsi, i lavoratori disoccupati, di eta' inferiore ai quaranta anni, sono obbligati alla frequenza per poter percepire il sussidio straordinario di disoccupazione, di cui al titolo III, e tutte le altre agevolazioni dipendenti dal loro stato di disoccupazione, salvo le eccezioni previste dall'art. 36, secondo comma, n. 3.
 
@@ -394,25 +386,25 @@ Il predetto attestato, a parita' di altre condizioni, da' diritto di preferenza 
 
 I lavoratori che non frequentano assiduamente i corsi possono essere radiati, e in tal caso decadono dal diritto al sussidio straordinario di disoccupazione.
 
-## CAPO III - Corsi aziendali di riqualificazione
+### CAPO III - Corsi aziendali di riqualificazione
 
-##### Art. 53
+#### Art. 53
 
 Le imprese industriali, non a ciclo stagionale, che occupano almeno mille dipendenti, e che reputano di avere una minore funzionalita' per effetto di una maestranza in parte non rispondente alle esigenze aziendali o per il mancato adeguamento del carico di mano d'opera, alle proprie possibilita' funzionali ed economiche, possono chiedere di aprire corsi di riqualificazione per maestranze di eta' non superiore ai quarantacinque anni, qualora almeno i due terzi dei lavoratori interessi desiderino di frequentarli. Analogamente piu' imprese industriali, con meno di mille dipendenti ciascuna, possono chiedere di aprire corsi interaziendali, purche' i due terzi dei lavoratori interessati desiderino di frequentarli. La responsabilita' della gestione dei corsi e' assunta dalla impresa presso la quale i corsi stessi sono attuati.
 
-##### Art. 54
+#### Art. 54
 
 Le imprese previste dall'articolo precedente rivolgono domanda documentata al Ministro per il lavoro e la previdenza sociale, a mezzo dell'Ispettorato del lavoro competente, che esprime il parere sulla opportunita' del corso e sulla razionalita' della sua organizzazione.
 
 La facolta' del Ministro per il lavoro e la previdenza sociale di concedere l'autorizzazione e' esercitata d'intesa con i Ministri per il tesoro e per l'industria e commercio.
 
-##### Art. 55
+#### Art. 55
 
 I corsi di cui agli articoli precedenti durano da tre a otto mesi e si svolgono in locali distinti da quelli adibiti dall'impresa alla normale attivita' secondo le direttive stabilite dal Ministro per il lavoro e la previdenza sociale.
 
 Al termine del corso i non qualificati sono licenziati, i qualificati invece sono riassorbiti dall'azienda nei limiti delle sue possibilita'. Alle prove di fine corso presenziera' un tecnico designato dalla Commissione provinciale.
 
-##### Art. 56
+#### Art. 56
 
 Agli operai dei corsi, in deroga al disposto di cui all'art. 6 del decreto legislativo 12 agosto 1947, n. 869, e' corrisposta, l'integrazione salariale nella misura dei due terzi della retribuzione globale per le ore da ventiquattro a quaranta settimanali a carico della Cassa integrazione guadagni operai dell'industria. Ad essi inoltre a carico del Fondo di cui all'art. 62 sara' corrisposta settimanalmente una somma pari alla integrazione di cui sopra, oltre alla, integrazione giornaliera di L. 100. Agli stessi sono corrisposti gli assegni familiari nella misura prevista per la categoria cui il lavoratore appartiene, a carico della rispettiva, Cassa degli assegni familiari.
 
@@ -420,9 +412,9 @@ Ad essi non spetta il premio finale di L. 3000.
 
 Sono a carico delle imprese promotrici dei corsi la spese per l'istituzione, l'attrezzatura ed il funzionamento dei corsi stessi, quelle per le assicurazioni infortuni, nonche' quelle per l'indennita' di licenziamento nelle ipotesi previste dall'articolo precedente.
 
-## CAPO IV - Facilitazioni alle piccole aziende ed alle botteghe artigiane
+### CAPO IV - Facilitazioni alle piccole aziende ed alle botteghe artigiane
 
-##### Art. 57
+#### Art. 57
 
 Sul fondo costituito ai sensi dell'art. 62 si possono ridurre, fino ad un terzo del loro ammontare, le spese sostenute dalle botteghe artigiane o dalle imprese con non piu' di cinque dipendenti, che si trovino nelle condizioni previste nell'articolo seguente, per corrispondere i contributi al Fondo di integrazione delle assicurazioni sociali e al Fondo di solidarieta' sociale, per conto degli apprendisti minori dei 18 anni da esse istruiti.
 
@@ -430,7 +422,7 @@ Le botteghe e le imprese che intendono ottenere il rimborso di cui al precedente
 
 I benefici previsti dal presente articolo a favore delle imprese non sono concessi nei casi in cui l'apprendista sia distratto dal tirocinio per lavori non direttamente connessi all'insegnamento e alla pratica del mestiere.
 
-##### Art. 58
+#### Art. 58
 
 Agli effetti del riconoscimento alle botteghe e alle imprese della idoneita' all'insegnamento dei mestiere agli apprendisti per l'ammissione ai benefici previsti dall'articolo precedente, sono istituiti in ogni provincia appositi registri, la cui formazione e tenuta sono affidate agli Uffici provinciali del lavoro e della massima occupazione, secondo le norme indicate nel seguente comma.
 
@@ -442,9 +434,9 @@ b) le modalita' per la tenuta dei registri e i requisiti per stabilire l'idoneit
 
 c) le modalita' necessarie per l'azione di vigilanza e di controllo sull'efficienza dell'insegnamento agli apprendisti da parte delle botteghe e imprese iscritte nei registri.
 
-## CAPO V - Cantieri-scuola
+### CAPO V - Cantieri-scuola
 
-##### Art. 59
+#### Art. 59
 
 Il Ministro per il lavoro e la previdenza sociale, di concerto con il Ministro per l'agricoltura e le foreste e con quello per i lavori pubblici, a seconda della materia, promuove direttamente o autorizza, in zone ove la disoccupazione sia particolarmente accentuata, l'apertura di cantieri-scuola per disoccupati, per l'attivita' forestale e vivaistica, di rimboschimento, di sistemazione montana e di costruzione di opere di pubblica utilita'.
 
@@ -454,7 +446,7 @@ I detti Ministeri ed uffici periferici, a richiesta del Ministero del lavoro e d
 
 Il Ministro per il lavoro e la previdenza sociale stabilisce le modalita' organizzative dei cantieri-scuola.
 
-##### Art. 60
+#### Art. 60
 
 Il proprietario di terreno idoneo a lavori di rimboschimento, di bonifica o di sistemazione montana, puo' chiedere l'autorizzazione ad aprire cantieri-scuola al Ministro per il lavoro e la previdenza sociale, il quale ha facolta' di concederla. La stessa concessione puo' essere accordata anche ad Amministrazioni pubbliche, Enti o Consorzi nell'ambito delle leggi vigenti.
 
@@ -464,7 +456,7 @@ Alle spese occorrenti per le indennita' di occupazione dei terreni compresi nei 
 
 Analogamente per le spese occorrenti per la costruzione di opere di pubblica utilita', di competenza del Ministero dei lavori pubblici, e non previste nell'articolo seguente, e' provveduto con gli stanziamenti iscritti sul bilancio del Ministero dei lavori pubblici stesso.
 
-##### Art. 61
+#### Art. 61
 
 ((I lavoratori disoccupati possono chiedere di essere ammessi al lavoro nei cantieri-scuola in qualita' di lavoratori volontari, entro il numero massimo di posti e per la durata che, per ciascun cantiere, sono stabiliti, sentiti i proponenti degli stessi, dal Ministero del lavoro e della previdenza sociale. La iscrizione ai cantieri-scuola avviene su domanda dell'interessato, diretta all'Ufficio provinciale del lavoro e della massima occupazione che, d'intesa con la direzione dei cantieri stessi, provvede alla selezione ed all'avviamento.
 
@@ -478,9 +470,9 @@ Ai lavoratori spetta, inoltre, per ogni mese di servizio assiduo ed operoso, un 
 
 Le spese riguardanti l'organizzazione ed il funzionamento dei cantieri-scuola e le indennita' ai lavoratori in essi avviati sono a carico del fondo di cui all'articolo 62)).
 
-## CAPO VI - Finanziamenti
+### CAPO VI - Finanziamenti
 
-##### Art. 62
+#### Art. 62
 
 Il "Fondo per la qualificazione, il perfezionamento e la rieducazione dei lavoratori italiani", di cui all'art. 4 del decreto legislativo 7 novembre 1947, n. 1264, proveniente dall'assorbimento del Fondo di cui al regio decreto 24 aprile 1939, n. 1059, assume la denominazione di "Fondo per l'addestramento professionale dei lavoratori". Esso costituisce un fondo speciale gestito dal Ministero del lavoro e della previdenza sociale e depositato presso un istituto di credito di diritto pubblico.
 
@@ -504,7 +496,7 @@ AGGIORNAMENTO (12)
 
 La L. 21 dicembre 1978, n. 845 ha disposto (con l'art. 23, comma 1) che "Il Fondo addestramento professionale lavoratori, istituito con l'articolo 62 della legge 29 aprile 1949, n. 264, e ordinato con decreto del Presidente della Repubblica 5 gennaio 1950, n. 17, e' soppresso."
 
-##### Art. 63
+#### Art. 63
 
 ((Sul fondo di cui all'articolo precedente il Ministro per il lavoro e la previdenza sociale, di concerto col Ministro per il tesoro, provvede:
 
@@ -518,29 +510,29 @@ d) all'erogazione di contributi a favore di enti ed istituti aventi per scopo l'
 
 e) alle spese per il funzionamento della Commissione centrale e della segreteria di cui all'art. 3)).
 
-##### Art. 64
+#### Art. 64
 
 Le disponibilita' del fondo, di cui all'art. 62, dovranno essere annualmente impiegate, almeno per la meta', nel Mezzogiorno e nelle Isole per le finalita' previste dal presente titolo.
 
-##### Art. 65
+#### Art. 65
 
 Sono abrogati il decreto legislativo del Capo provvisorio dello Stato 7 novembre 1947, n. 1264 e il decreto legislativo 14 gennaio 1948, n. 2.
 
 ## TITOLO V - DISPOSIZIONI GENERALI
 
-##### Art. 66
+#### Art. 66
 
 Il Ministro per il tesoro e' autorizzato ad apportare con propri decreti le variazioni di bilancio necessarie per l'attuazione della presente legge, attingendo al "Fondo-lire" le somme occorrenti per fronteggiare gli oneri previsti ai titoli III e IV e per quelli previsti al titolo II provvedendo con le entrate di cui alla legge 3 febbraio 1949, n. 31, concernente variazioni al bilancio dell'entrata.
 
-##### Art. 67
+#### Art. 67
 
 Sono abrogate le disposizioni contrarie a quelle della presente legge o con essa incompatibili.
 
-##### Art. 68
+#### Art. 68
 
 Fino al 30 aprile 1949, il Ministro per il lavoro e la previdenza sociale e gli organi da lui dipendenti sono autorizzati a provvedere alla istituzione dei corsi previsti dal titolo IV, anche prima che siano costituite le Commissioni di cui all'art. 25.
 
-##### Art. 69
+#### Art. 69
 
 La presente legge entra in vigore cinque giorni dopo la sua pubblicazione nella Gazzetta Ufficiale.
 

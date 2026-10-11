@@ -44,11 +44,9 @@ Sulla proposta del Presidente del Consiglio dei ministri, di concerto con il Min
 
 Emana il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Definizioni e finalita'
 
-### Definizioni e finalita'
-
-#### Art. 1
+### Art. 1
 
 Oggetto e denominazioni
 
@@ -78,7 +76,7 @@ l) «Rappresentanza degli operatori volontari»: organo di rappresentanza degli 
 
 m) «Fondo nazionale per il servizio civile»: fondo istituito dalla legge 8 luglio 1998, n. 230, nel quale affluiscono le risorse di cui all'articolo 11 della legge 6 marzo 2001, n. 64 nonche' le risorse comunitarie per il finanziamento degli interventi di servizio civile universale.
 
-#### Art. 2
+### Art. 2
 
 Istituzione del servizio civile universale e finalita'
 
@@ -94,7 +92,7 @@ Istituzione del servizio civile universale e finalita'
 
 > \- Si riporta il testo dell'art. 4, secondo comma, della Costituzione: «Ogni cittadino ha il dovere di svolgere, secondo le proprie possibilita' e la propria scelta, una attivita' o una funzione che concorra al progresso materiale o spirituale della societa'.».
 
-#### Art. 3
+### Art. 3
 
 Settori di intervento
 
@@ -114,11 +112,9 @@ f) agricoltura in zona di montagna, agricoltura sociale e biodiversita';
 
 g) promozione della pace tra i popoli, della nonviolenza e della difesa non armata; promozione e tutela dei diritti umani; cooperazione allo sviluppo; promozione della cultura italiana all'estero e sostegno alle comunita' di italiani all'estero.
 
-## Capo II
+## Capo II - Programmazione e attuazione del servizio civile universale
 
-### Programmazione e attuazione del servizio civile universale
-
-#### Art. 4
+### Art. 4
 
 Programmazione
 
@@ -136,7 +132,7 @@ c) l'individuazione degli standard qualitativi degli interventi.
 
 4\. Il Piano triennale ((e' predisposto)) dalla Presidenza del Consiglio dei ministri sentite le amministrazioni competenti per i settori previsti dall'articolo 3 e le regioni e ((e' approvato)) con decreto del Presidente del Consiglio dei ministri, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e di Bolzano, ai sensi dell'articolo 3 del decreto legislativo 28 agosto 1997, n. 281, previo parere della Consulta nazionale per il servizio civile universale.
 
-#### Art. 5
+### Art. 5
 
 Programmi di intervento
 
@@ -158,11 +154,9 @@ Programmi di intervento
 
 9\. Le amministrazioni pubbliche, gli enti locali, gli altri enti pubblici territoriali e gli enti del terzo settore possono realizzare programmi di intervento di servizio civile universale, al di fuori della programmazione finanziaria di cui all'articolo 24, con risorse proprie presso i soggetti accreditati all'albo degli enti di servizio civile universale, previa approvazione da parte della Presidenza del Consiglio dei ministri.
 
-## Capo III
+## Capo III - Soggetti del servizio civile universale
 
-### Soggetti del servizio civile universale
-
-#### Art. 6
+### Art. 6
 
 Funzioni dello Stato
 
@@ -172,7 +166,7 @@ Funzioni dello Stato
 
 > \- Per il testo dell'art. 8 della citata legge 6 giugno 2016, si veda nelle note alle premesse.
 
-#### Art. 7
+### Art. 7
 
 Funzioni delle regioni e province autonome
 
@@ -200,7 +194,7 @@ d) ispezioni presso gli enti di servizio civile universale che operano unicament
 
 4\. Resta ferma la possibilita' per le regioni e le Province autonome di Trento e di Bolzano di istituire, nella loro autonomia, un servizio civile regionale con finalita' proprie e non assimilabile al servizio civile universale.
 
-#### Art. 8
+### Art. 8
 
 Funzioni degli enti di servizio civile universale
 
@@ -210,7 +204,7 @@ Funzioni degli enti di servizio civile universale
 
 3\. Gli enti di servizio civile universale cooperano per l'efficiente gestione del servizio civile universale e la corretta realizzazione degli interventi.
 
-#### Art. 9
+### Art. 9
 
 Compiti e ruolo degli operatori volontari del servizio civile universale
 
@@ -222,7 +216,7 @@ Compiti e ruolo degli operatori volontari del servizio civile universale
 
 4\. In fase di prima applicazione, e comunque per un periodo non superiore a dodici mesi, sono componenti della rappresentanza di cui al comma 2, a livello regionale, i delegati delle regioni, delle province autonome e degli operatori volontari in servizio all'estero in carica alla data di entrata in vigore del presente decreto e, a livello nazionale, i rappresentanti nominati in seno alla Consulta nazionale per il servizio civile, in carica alla data di entrata in vigore del presente decreto.
 
-#### Art. 10
+### Art. 10
 
 Consulta nazionale per il servizio civile universale
 
@@ -236,7 +230,7 @@ Consulta nazionale per il servizio civile universale
 
 5\. Fino alla nomina della Consulta nazionale per il servizio civile universale, e comunque per un periodo non superiore a diciotto mesi dalla data di entrata in vigore del presente decreto, resta in carica la Consulta nazionale per il servizio civile nominata in base alla previgente normativa.
 
-#### Art. 10-bis
+### Art. 10-bis
 
 (( (Centro nazionale del servizio civile universale) ))
 
@@ -252,11 +246,9 @@ Consulta nazionale per il servizio civile universale
 
 6\. Con uno o piu' decreti del Ministro per le politiche giovanili possono essere definite ulteriori e specifiche misure per l'attuazione delle disposizioni del presente articolo nonche' le modalita' inerenti all'organizzazione e alla funzionalita' del Centro di cui al comma 1)).
 
-## Capo IV
+## Capo IV - Realizzazione del servizio civile universale
 
-### Realizzazione del servizio civile universale
-
-#### Art. 11
+### Art. 11
 
 Albo degli enti di servizio civile universale
 
@@ -280,7 +272,7 @@ b) una dotazione di personale qualificato in possesso di idonei titoli di studio
 
 6-ter. Sono fatti salvi i progetti di servizio civile in corso alla data di cessazione di efficacia dell'iscrizione di cui al comma 6-bis, ovvero presentati in relazione ad avvisi pubblicati entro la medesima data.))
 
-#### Art. 12
+### Art. 12
 
 Servizio civile in Italia
 
@@ -292,7 +284,7 @@ Servizio civile in Italia
 
 4\. Limitatamente al periodo di servizio civile universale svolto in uno dei Paesi dell'Unione europea di cui al comma 1, agli operatori viene erogato il trattamento economico previsto in caso di servizio all'estero e agli enti si applicano le disposizioni di cui all'articolo 13, comma 2.
 
-#### Art. 13
+### Art. 13
 
 Servizio civile all'estero
 
@@ -304,11 +296,9 @@ Servizio civile all'estero
 
 4\. Gli enti che realizzano programmi di intervento all'estero garantiscono lo svolgimento delle iniziative in condizioni di sicurezza adeguate ai rischi connessi alla realizzazione dei medesimi programmi.
 
-## Capo V
+## Capo V - Disciplina del rapporto di servizio civile universale
 
-### Disciplina del rapporto di servizio civile universale
-
-#### Art. 14
+### Art. 14
 
 Requisiti di partecipazione
 
@@ -334,7 +324,7 @@ AGGIORNAMENTO (9)
 
 Il D.L. 4 maggio 2023, n. 48, convertito con modificazioni dalla L. 3 luglio 2023, n. 85 ha disposto (con l'art. 12, comma 1) che "Nelle misure del Supporto per la formazione e il lavoro rientra il servizio civile universale di cui al decreto legislativo 6 marzo 2017, n. 40, per lo svolgimento del quale gli enti preposti possono riservare quote supplementari in deroga ai requisiti di partecipazione di cui all'articolo 14, comma 1, e alla previsione di cui all'articolo 16, comma 8, del citato decreto legislativo n. 40 del 2017. Nelle misure del Supporto rientrano anche i progetti utili alla collettivita' definiti ai sensi dell'articolo 6, comma 5-bis, del presente decreto".
 
-#### Art. 15
+### Art. 15
 
 Procedure di selezione
 
@@ -344,7 +334,7 @@ Procedure di selezione
 
 All'esito della selezione, le commissioni redigono il relativo verbale, contenente il punteggio per ogni elemento di valutazione con riferimento a ciascun candidato.
 
-#### Art. 16
+### Art. 16
 
 Rapporto di servizio civile universale e durata
 
@@ -370,7 +360,7 @@ AGGIORNAMENTO (9)
 
 Il D.L. 4 maggio 2023, n. 48, convertito con modificazioni dalla L. 3 luglio 2023, n. 85 ha disposto (con l'art. 12, comma 1) che "Nelle misure del Supporto per la formazione e il lavoro rientra il servizio civile universale di cui al decreto legislativo 6 marzo 2017, n. 40, per lo svolgimento del quale gli enti preposti possono riservare quote supplementari in deroga ai requisiti di partecipazione di cui all'articolo 14, comma 1, e alla previsione di cui all'articolo 16, comma 8, del citato decreto legislativo n. 40 del 2017. Nelle misure del Supporto rientrano anche i progetti utili alla collettivita' definiti ai sensi dell'articolo 6, comma 5-bis, del presente decreto".
 
-#### Art. 17
+### Art. 17
 
 Trattamento economico e giuridico
 
@@ -446,7 +436,7 @@ degli operatori volontari
 
 > 5\. I provvedimenti previsti dal presente articolo sono definitivi.».
 
-#### Art. 18
+### Art. 18
 
 Crediti formativi universitari ed inserimento nel mondo del lavoro
 
@@ -462,17 +452,15 @@ Crediti formativi universitari ed inserimento nel mondo del lavoro
 
 6\. La cessazione anticipata del rapporto di servizio civile universale comporta la decadenza dai benefici previsti dal presente articolo, salva l'ipotesi in cui detta interruzione avvenga per documentati motivi di salute, per causa di servizio o di forza maggiore ed il periodo di servizio prestato sia pari ad almeno sei mesi.
 
-#### Art. 19
+### Art. 19
 
 Attestato di svolgimento del servizio civile universale
 
 1\. Agli operatori volontari e' rilasciato dalla Presidenza del Consiglio dei ministri, al termine dello svolgimento del servizio civile universale compiuto senza demerito, un attestato per il periodo di servizio civile universale effettuato, con l'indicazione delle relative attivita'.
 
-## Capo VI
+## Capo VI - Controllo, verifica e valutazione del servizio civile universale
 
-### Controllo, verifica e valutazione del servizio civile universale
-
-#### Art. 20
+### Art. 20
 
 Controllo sulla gestione delle attivita' svolte
 
@@ -484,7 +472,7 @@ All'esito del controllo sono adottati eventuali interventi correttivi.
 
 2\. Il controllo di cui al comma 1 e' effettuato dalla Presidenza del Consiglio dei ministri, sulla base di uno specifico «Piano annuale», pubblicato sul sito istituzionale.
 
-#### Art. 21
+### Art. 21
 
 Valutazione dei risultati dei programmi di intervento
 
@@ -502,7 +490,7 @@ Valutazione dei risultati dei programmi di intervento
 
 > (Omissis).».
 
-#### Art. 22
+### Art. 22
 
 Verifiche ispettive sulle attivita' svolte
 
@@ -530,17 +518,15 @@ dagli enti del servizio civile universale
 
 > 3\. Le sanzioni di cui al comma 2 sono applicate, previa contestazione degli addebiti e fissazione di un termine per controdedurre non inferiore a trenta giorni e non superiore a quarantacinque, dall'Ufficio nazionale per il servizio civile o dalle regioni o dalle province autonome di Trento e di Bolzano, nell'ambito delle rispettive competenze, in ordine proporzionale e crescente, secondo la gravita' del fatto, la sua reiterazione, il grado di volontarieta' o di colpa, gli effetti prodottisi. La sanzione della cancellazione dall'albo degli enti di servizio civile e' disposta solo in caso di particolare gravita' delle condotte contestate ed impedisce la reiscrizione dell'ente nell'albo per cinque anni.».
 
-#### Art. 23
+### Art. 23
 
 Relazione al Parlamento
 
 1\. Il Presidente del Consiglio dei ministri presenta ogni anno al Parlamento, entro il 30 giugno, una relazione sull'organizzazione, sulla gestione e sullo svolgimento del servizio civile universale.
 
-## Capo VII
+## Capo VII - Disposizioni finanziarie, transitorie e finali
 
-### Disposizioni finanziarie, transitorie e finali
-
-#### Art. 24
+### Art. 24
 
 Fondo nazionale per il servizio civile
 
@@ -572,13 +558,13 @@ e) la quantificazione dell'assegno mensile da corrispondere agli operatori volon
 
 4\. Al Fondo nazionale per il servizio civile di cui al presente articolo continuano ad applicarsi le disposizioni di cui all'articolo 1 del decreto-legge 16 settembre 1999, n. 324, convertito con modificazioni dalla legge 12 novembre 1999, n. 424, nonche' le disposizioni del decreto legislativo 30 giugno 2011, n. 123 e successive modificazioni e le previsioni di cui al decreto del Presidente del Consiglio dei ministri 22 novembre 2010, pubblicato nella Gazzetta Ufficiale n. 286 del 7 dicembre 2010.
 
-#### Art. 25
+### Art. 25
 
 Clausola di invarianza finanziaria
 
 1\. Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni interessate provvedono all'attuazione delle disposizioni con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-#### Art. 26
+### Art. 26
 
 Norme transitorie e finali
 

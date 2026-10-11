@@ -30,7 +30,7 @@ la seguente legge:
 
 ## TITOLO I - PRINCIPI GENERALI
 
-#### ART. 1
+### ART. 1
 
 Finalita' e ambito della legge
 
@@ -52,7 +52,7 @@ d) difesa e ricostituzione degli equilibri idraulici e idrogeologici.
 
 5\. Nella tutela e nella gestione delle aree naturali protette, lo Stato, le regioni e gli enti locali attuano forme di cooperazione e di intesa ai sensi dell'articolo 81 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, e dell'articolo 27 della legge 8 giugno 1990, n. 142.((Per le medesime finalita' lo Stato, le regioni, gli enti locali, altri soggetti pubblici e privati e le Comunita' del parco possono altresi' promuovere i patti territoriali di cui all'articolo 2, comma 203, della legge 23 dicembre 1996, n. 662)).
 
-#### Art. 1-bis
+### Art. 1-bis
 
 (( (Programmi nazionali e politiche di sistema). ))
 
@@ -60,7 +60,7 @@ d) difesa e ricostituzione degli equilibri idraulici e idrogeologici.
 
 2\. Il Ministro dell'ambiente, sentito il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, degli Enti parco interessati e delle associazioni ambientalistiche maggiormente rappresentative, individua altresi' le risorse finanziarie nazionali e comunitarie, impiegabili nell'attuazione degli accordi di programma di cui al comma 1 )).
 
-#### Art. 2
+### Art. 2
 
 Classificazione delle aree naturali protette
 
@@ -84,7 +84,7 @@ Classificazione delle aree naturali protette
 
 (( 9-bis. I limiti geografici delle aree protette marine entro i quali e' vietata la navigazione senza la prescritta autorizzazione sono definiti secondo le indicazioni dell'Istituto idrografico della Marina e individuati sul territorio con mezzi e strumenti di segnalazione conformi alla normativa emanata dall'Association Internationale de Signalisation Maritime-International Association of Marine Aids to Navigation and Lighthouse Authorities (AISM-IALA). ))
 
-#### Art. 3
+### Art. 3
 
 Comitato per le aree naturali protette e Consulta tecnica per le aree naturali protette
 
@@ -124,7 +124,7 @@ AGGIORNAMENTO (9)
 
 Il D.P.R. 14 maggio 2007, n. 90 ha disposto (con l'art. 3, comma 1) che "Dalla data di entrata in vigore del presente regolamento la Segreteria tecnica per le aree naturali protette di cui all'articolo 3, comma 9, della legge 6 dicembre 1991, n. 394, e' ridenominata: "Segreteria tecnica per la protezione della natura" e fornisce supporto al Ministero per quanto concerne l'istituzione e l'aggiornamento delle aree protette terrestri, per l'adozione del programma per le aree naturali protette terrestri di rilievo internazionale e nazionale, per l'approvazione dell'elenco ufficiale delle aree naturali protette, nonche' per il supporto alla gestione, al funzionamento ed alla progettazione degli interventi da realizzare, anche con finanziamenti comunitari, nelle predette aree."
 
-#### Art. 4
+### Art. 4
 
 Programma triennale per le aree naturali protette
 
@@ -182,7 +182,7 @@ e) determina i criteri e gli indirizzi ai quali debbono uniformarsi lo stato, le
 
 > 2\. Il Ministro, al solo fine di ottenere, per la prima composizione del Consiglio nazionale per l'ambiente, le terne di cui al precedente art. 12, comma 1, lettera c), effettua, entro trenta giorni dall'entrata in vigore della presente legge, una prima individuazione delle associazioni a carattere nazionale e di quelle presenti in almeno cinque regioni, secondo i criteri di cui al precedente comma 1, e ne informa il Parlamento".
 
-#### ART. 5
+### ART. 5
 
 Attuazione del programma;
 
@@ -196,7 +196,7 @@ A tal fine le regioni e gli altri soggetti pubblici o privati che attuano forme 
 
 3\. L'iscrizione nell'elenco ufficiale delle aree protette e' condizione per l'assegnazione di contributi a carico dello Stato.
 
-#### ART. 6
+### ART. 6
 
 Misure di salvaguardia
 
@@ -266,7 +266,7 @@ Misure di salvaguardia
 
 > \- Il R.D. n. 639/1910 approva il testo unico delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato.
 
-#### ART. 7
+### ART. 7
 
 Misure di incentivazione
 
@@ -290,11 +290,9 @@ h) strutture per la utilizzazione di fonti energetiche a basso impatto ambiental
 
 2\. Il medesimo ordine di priorita' di cui al comma 1 e' attribuito ai privati, singoli od associati, che intendano realizzare iniziative produttive o di servizio compatibili con le finalita' istitutive del parco nazionale o naturale regionale.
 
-## TITOLO II - AREE NATURALI PROTETTE
+## TITOLO II - AREE NATURALI PROTETTE NAZIONALI
 
-### NAZIONALI
-
-#### ART. 8
+### ART. 8
 
 Istituzione delle aree naturali protette nazionali
 
@@ -312,7 +310,7 @@ Istituzione delle aree naturali protette nazionali
 
 7\. Le aree protette marine sono istituite in base alle disposizioni di cui all'articolo 18.
 
-#### ART. 9
+### ART. 9
 
 Ente parco
 
@@ -394,7 +392,7 @@ AGGIORNAMENTO (11)
 
 Il D.P.R. 16 aprile 2013, n. 73 ha disposto (con l'art. 1, comma 5) che "A decorrere dalla data di entrata in vigore del presente decreto, per la partecipazione alle riunioni del Consiglio direttivo e della Giunta esecutiva degli Enti di cui al presente articolo non sono corrisposti gettoni di presenza".
 
-#### ART. 10
+### ART. 10
 
 Comunita' del parco
 
@@ -418,7 +416,7 @@ d) sul bilancio e sul conto consuntivo.
 
 4\. La Comunita' del parco elegge al suo interno un Presidente e un Vice Presidente. E' convocata dal Presidente almeno due volte l'anno e quando venga richiesto dal Presidente dell'Ente parco o da un terzo dei suoi componenti.
 
-#### ART. 11
+### ART. 11
 
 Regolamento del parco
 
@@ -468,13 +466,13 @@ h) il sorvolo di velivoli non autorizzato, salvo quanto definito dalle leggi sul
 
 6\. Il regolamento del parco e' approvato dal Ministro dell'ambiente ((su proposta dell'Ente parco)), previo parere degli enti locali interessati, da esprimersi entro quaranta giorni dalla richiesta, e comunque d'intesa con le regioni e le province autonome interessate ((che si esprimono entro novanta giorni, decorsi i quali l'intesa si intende acquisita)); il regolamento acquista efficacia novanta giorni dopo la sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana. Entro tale termine i comuni sono tenuti ad adeguare alle sue previsioni i propri regolamenti. Decorso inutilmente il predetto termine le disposizioni del regolamento del parco prevalgono su quelle del comune, che e' tenuto alla loro applicazione.
 
-#### ART. 11-bis
+### ART. 11-bis
 
 (( (Tutela dei valori naturali, storici e ambientali e iniziative per la promozione economica e sociale).
 
 1\. Il consiglio direttivo del parco e la Comunita' del parco elaborano contestualmente, e attraverso reciproche consultazioni di cui agli articoli 12 e 14, il piano del parco e il piano pluriennale economico-sociale secondo le norme di cui agli stessi articoli 12 e 14.))
 
-#### ART. 12
+### ART. 12
 
 Piano per il parco
 
@@ -512,7 +510,7 @@ d) aree di promozione economica e sociale facenti parte del medesimo ecosistema,
 
 8\. Il piano e' pubblicato nella Gazzetta Ufficiale della Repubblica italiana e nel Bollettino ufficiale della regione ed e' immediatamente vincolante nei confronti delle amministrazioni e dei privati.
 
-#### ART. 13
+### ART. 13
 
 Nulla osta
 
@@ -532,13 +530,13 @@ Il diniego, che e' immediatamente impugnabile, e' affisso contemporaneamente all
 
 > \- Per il titolo della legge n. 349/1986 si veda in nota all'art. 4.
 
-#### ART. 13-bis
+### ART. 13-bis
 
 (( (Interventi nelle zone di promozione economica e sociale) ))
 
 ((1. In presenza di piano del parco e di regolamento del parco approvati e vigenti le cui previsioni siano state recepite dai comuni nei rispettivi strumenti urbanistici, gli interventi di natura edilizia da realizzare nelle zone di cui all'articolo 12, comma 2, lettera d), eccetto quelle ricomprese nei perimetri dei siti Natura 2000, sono autorizzati direttamente dagli enti locali competenti, salvo che l'intervento non comporti una variante degli strumenti urbanistici vigenti, dandone comunicazione all'Ente parco. In caso di non conformita' il direttore del parco annulla il provvedimento autorizzatorio entro quarantacinque giorni dal ricevimento.))
 
-#### ART. 14
+### ART. 14
 
 Iniziative per la promozione economica e sociale
 
@@ -554,7 +552,7 @@ Iniziative per la promozione economica e sociale
 
 6\. Il piano di cui al comma 2 ha durata quadriennale e puo' essere aggiornato annualmente con la stessa procedura della sua formazione.
 
-#### ART. 15
+### ART. 15
 
 Acquisti, espropriazioni ed indennizzi
 
@@ -578,7 +576,7 @@ Acquisti, espropriazioni ed indennizzi
 
 7\. L'Ente parco provvede ad istituire nel proprio bilancio un apposito capitolo, con dotazione, adeguata al prevedibile fabbisogno, per il pagamento di indennizzi e risarcimenti, formulando un apposito programma, con opportune priorita'.
 
-#### ART. 16
+### ART. 16
 
 Entrate dell'Ente parco ed agevolazioni fiscali
 
@@ -610,7 +608,7 @@ i) ogni altro provento acquisito in relazione all'attivita' dell'Ente parco.
 
 4\. L'Ente parco ha l'obbligo di pareggio del bilancio.
 
-#### ART. 17
+### ART. 17
 
 Riserve naturali statali
 
@@ -622,7 +620,7 @@ a) ogni forma di discarica di rifiuti solidi e liquidi;
 
 b) l'accesso nelle riserve naturali integrali a persone non autorizzate, salvo le modalita' stabilite dagli organi responsabili della gestione della riserva.
 
-#### Art. 18
+### Art. 18
 
 Istituzione di aree protette marine
 
@@ -656,7 +654,7 @@ AGGIORNAMENTO (17)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 8, comma 10 della L. 23 marzo 2001, n. 93, ha conseguentemente disposto (con l'art. 24, comma 4) che "Al fine di potenziare la gestione e il funzionamento delle aree marine protette gia' istituite, l'autorizzazione di spesa di cui all'articolo 8, comma 10, della legge 23 marzo 2001, n. 93, e' incrementata di 0,7 milioni di euro per il 2020 e di 0,6 milioni di euro annui a decorrere dall'anno 2021".
 
-#### ART. 19
+### ART. 19
 
 Gestione delle aree protette marine
 
@@ -686,13 +684,13 @@ f) ogni forma di discarica di rifiuti solidi e liquidi.
 
 7\. La sorveglianza nelle aree protette marine e' esercitata dalle Capitanerie di porto, ((nonche' dalle polizie degli enti locali delegati nella gestione delle medesime aree protette)).
 
-#### ART. 20
+### ART. 20
 
 Norme di rinvio
 
 1\. Per quanto non espressamente disciplinato dalla presente legge, ai parchi marini si applicano le disposizioni relative ai parchi nazionali. Alle riserve marine si applicano le disposizioni del titolo V della legge 31 dicembre 1982, n. 979, non in contrasto con le disposizioni della presente legge.
 
-#### ART. 21
+### ART. 21
 
 Vigilanza e sorveglianza
 
@@ -706,11 +704,9 @@ AGGIORNAMENTO (6)
 
 La L. 27 dicembre 2002, n. 289 ha disposto (con l'art. 80, comma 25) che " In deroga a quanto previsto dall'articolo 21, comma 2, della legge 6 dicembre 1991, n. 394, la sorveglianza sul territorio del Parco nazionale Gran Paradiso e' esercitata dal Corpo delle guardie alle dipendenze dell'Ente Parco."
 
-## TITOLO III - AREE NATURALI PROTETTE
+## TITOLO III - AREE NATURALI PROTETTE REGIONALI
 
-### REGIONALI
-
-#### ART. 22
+### ART. 22
 
 Norme quadro
 
@@ -736,7 +732,7 @@ e) la possibilita' di affidare la gestione alle comunioni familiari montane, anc
 
 6\. Nei parchi naturali regionali e nelle riserve naturali regionali l'attivita' venatoria e' vietata, salvo eventuali prelievi faunistici ed abbattimenti selettivi necessari per ricomporre squilibri ecologici. Detti prelievi ed abbattimenti devono avvenire in conformita' al regolamento del parco o, qualora non esista, alle direttive regionali per iniziativa e sotto la diretta responsabilita' e sorveglianza dell'organismo di gestione del parco e devono essere attuati dal personale da esso dipendente o da persone da esso autorizzate ((scelte con preferenza tra cacciatori residenti nel territorio del parco, previ opportuni corsi di formazione a cura dello stesso Ente)).
 
-#### Art. 23
+### Art. 23
 
 Parchi naturali regionali
 
@@ -746,7 +742,7 @@ Parchi naturali regionali
 
 > \- Per il titolo della legge n. 142/1990 si veda in nota all'art. 22.
 
-#### ART. 24
+### ART. 24
 
 Organizzazione amministrativa del parco naturale regionale
 
@@ -756,7 +752,7 @@ Organizzazione amministrativa del parco naturale regionale
 
 3\. Gli enti di gestione dei parchi naturali regionali possono avvalersi sia di personale proprio che di personale comandato dalla regione o da altri enti pubblici.
 
-#### ART. 25
+### ART. 25
 
 Strumenti di attuazione
 
@@ -770,7 +766,7 @@ Strumenti di attuazione
 
 5\. Le risorse finanziarie del parco possono essere costituite, oltre che da erogazioni o contributi a qualsiasi titolo, disposti da enti o da organismi pubblici e da privati, da diritti e canoni riguardanti l'utilizzazione dei beni mobili ed immobili che appartengono al parco o dei quali esso abbia la gestione.
 
-#### ART. 26
+### ART. 26
 
 Coordinamento degli interventi
 
@@ -780,7 +776,7 @@ Coordinamento degli interventi
 
 > \- Per il testo dell'art. 27 della legge n. 142/1990 si veda in nota all'art. 1.
 
-#### ART. 27
+### ART. 27
 
 Vigilanza e sorveglianza
 
@@ -788,7 +784,7 @@ Vigilanza e sorveglianza
 
 2\. Il Corpo forestale dello Stato ha facolta' di stipulare specifiche convenzioni con le regioni per la sorveglianza dei territori delle aree naturali protette regionali, sulla base di una convenzione-tipo predisposta dal Ministro dell'ambiente, di concerto con il Ministro dell'agricoltura e delle foreste.
 
-#### ART. 28
+### ART. 28
 
 Leggi regionali
 
@@ -796,7 +792,7 @@ Leggi regionali
 
 ## TITOLO IV - DISPOSIZIONI FINALI E TRANSITORIE
 
-#### ART. 29
+### ART. 29
 
 Poteri dell'organismo di gestione dell'area naturale protetta
 
@@ -812,7 +808,7 @@ Poteri dell'organismo di gestione dell'area naturale protetta
 
 > \- Per il titolo del R.D. n. 639/1910 si veda in nota all'art. 6.
 
-#### Art. 30
+### Art. 30
 
 Sanzioni
 
@@ -838,7 +834,7 @@ Sanzioni
 
 9\. Nell'area protetta dei monti Cervati, non si applicano, fino alla costituzione del parco nazionale, i divieti di cui all'articolo 17, comma 2.
 
-#### ART. 31
+### ART. 31
 
 Beni di proprieta' dello Stato destinati a riserva naturale
 
@@ -856,7 +852,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 28 agosto 1995, n. 361 convertito con modificazioni dalla L. 27 ottobre 1995, n. 437 ha disposto (con l'art. 3, comma 6) che " Per consentire la prosecuzione delle attivita' di conservazione e tutela del patrimonio ambientale dello Stato, il termine di cui all'articolo 31, comma 1, della legge 6 dicembre 1991, n. 394, e' prorogato fino all'entrata in vigore della legge di riforma del Corpo forestale dello Stato, da emanarsi in attuazione dell'articolo 6, comma 6, della legge 4 dicembre 1993, n. 491."
 
-#### ART. 32
+### ART. 32
 
 Aree contigue
 
@@ -890,13 +886,13 @@ Aree contigue
 
 > "Art. 66, ultimo comma. - Sono trasferite alle regioni le funzioni attualmente di competenza degli organi dello Stato, nonche' le funzioni amministrative attribuite, concernenti il demanio armentizio. I provvedimenti che attengono al territorio di piu' regioni, sono adottati, previa intesa tra loro, dalle regioni interessate".
 
-#### ART. 33
+### ART. 33
 
 Relazione al Parlamento
 
 1\. Il Ministro dell'ambiente, previa deliberazione del Consiglio nazionale per l'ambiente, presenta annualmente al Parlamento una relazione sullo stato di attuazione della presente legge e sull'attivita' degli organismi di gestione delle aree naturali protette nazionali.
 
-#### ART. 34
+### ART. 34
 
 Istituzione di parchi e aree di reperimento
 
@@ -962,7 +958,7 @@ l) Alta Murgia.
 
 11\. Per la gestione dei parchi nazionali di cui ai commi 1 e 2 e' autorizzata la spesa di lire 10 miliardi per il 1991, lire 15,5 miliardi per il 1992 e lire 22 miliardi a decorrere dal 1993.
 
-#### ART. 35
+### ART. 35
 
 Norme transitorie
 
@@ -990,7 +986,7 @@ AGGIORNAMENTO (2)
 
 Il D.L. 23 ottobre 1996, n. 548, convertito con modificazioni dalla L. 20 dicembre 1996, n. 641, ha disposto (con l'art. 6, comma 1) che " Il termine di cui all'articolo 35, comma 4, della legge 6 dicembre 1991, n. 394, e' differito al 31 dicembre 1996."
 
-#### Art. 36
+### Art. 36
 
 Aree marine di reperimento
 
@@ -1066,7 +1062,7 @@ ee-octies) Isole Cheradi e Mar Piccolo, da istituire anche separatamente.
 
 2\. La Consulta per la difesa del mare puo', comunque, individuare, ai sensi dell'articolo 26 della legge 12 dicembre 1982, n. 979, altre aree marine di particolare interesse nelle quali istituire parchi marini e riserve marine.
 
-#### ART. 37
+### ART. 37
 
 Detrazioni fiscali a favore delle persone giuridiche e regime per i beni di rilevante interesse paesaggistico e naturale
 
@@ -1144,7 +1140,7 @@ c) le spese sostenute dai soggetti obbligati alla manutenzione e alla protezione
 
 > Dalla data di ricevimento della comunicazione iniziano a decorrere i termini per il pagamento dell'imposta e degli accessori"".
 
-#### ART. 38
+### ART. 38
 
 Copertura finanziaria
 

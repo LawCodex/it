@@ -42,11 +42,9 @@ il seguente decreto legislativo:
 
 ## Titolo I - DISCIPLINA DEI CONGLOMERATI FINANZIARI
 
-### Capo I
+### Capo I - Definizioni e campo di applicazione
 
-#### Definizioni e campo di applicazione
-
-##### Art. 1
+#### Art. 1
 
 Definizioni
 
@@ -138,7 +136,7 @@ ee) requisiti di adeguatezza patrimoniale complessivi: l'ammontare minimo dei fo
 
 ff) vigilanza supplementare a livello di conglomerato: la vigilanza ulteriore, rispetto a quella prevista da ogni ordinamento nazionale di settore, che si effettua considerando unitariamente il conglomerato finanziario, ai fini stabiliti all'articolo 2, comma 1.
 
-##### Art. 2
+#### Art. 2
 
 Finalita' e destinatari della vigilanza supplementare
 
@@ -166,7 +164,7 @@ c) che sono legate ad un'altra impresa del settore finanziario da una relazione,
 
 8\. Ai fini della vigilanza supplementare di cui al presente decreto, le societa' di gestione patrimoniale rientrano nel settore finanziario relativo al gruppo (bancario, assicurativo, di servizi di investimento) a cui appartengono. Nel caso in cui le societa' di gestione patrimoniale non appartengano a nessun gruppo ma appartengano a un conglomerato finanziario, le medesime rientrano nel settore finanziario di maggiori dimensioni del conglomerato.
 
-##### Art. 3
+#### Art. 3
 
 Nozione ((e identificazione)) di conglomerato finanziario
 
@@ -224,7 +222,7 @@ c) escludere una o piu' partecipazioni nel settore di minori dimensioni ove tali
 
 6-sexies. Le autorita' competenti, tenendo conto degli orientamenti del Comitato congiunto, riesaminano con periodicita' annuale la situazione dei gruppi alla luce dei criteri quantitativi enunciati nel presente articolo.))
 
-##### Art. 4
+#### Art. 4
 
 ((Esonero del conglomerato finanziario dalla vigilanza supplementare))
 
@@ -238,9 +236,9 @@ b) l'attivita' esercitata nei diversi settori finanziari e' significativa ai sen
 
 ((4. Le autorita' competenti, tenendo conto degli orientamenti del Comitato congiunto, riesaminano con periodicita' annuale i casi di esclusione dall'applicazione della vigilanza supplementare.))
 
-## Capo II - Coordinatore
+### Capo II - Coordinatore
 
-##### Art. 5
+#### Art. 5
 
 Nomina e compiti del coordinatore
 
@@ -296,7 +294,7 @@ a) i collegi di supervisori istituiti in base alle norme settoriali, eventualmen
 
 b) gli accordi di coordinamento di cui al comma 7, che formano parte separata degli accordi di collaborazione e coordinamento definiti ai sensi delle norme settoriali.))
 
-##### Art. 6
+#### Art. 6
 
 Cooperazione e scambio di informazioni tra le autorita' competenti e con il comitato congiunto
 
@@ -342,9 +340,9 @@ b) alle sanzioni di rilevante entita' e ai provvedimenti straordinari adottati d
 
 11\. Ai fini della vigilanza supplementare, le imprese regolamentate italiane forniscono, per il tramite delle competenti autorita' di vigilanza italiane, informazioni alle autorita' di vigilanza di altri Paesi dell'Unione europea.
 
-## Capo III - Posizione finanziaria
+### Capo III - Posizione finanziaria
 
-##### Art. 7
+#### Art. 7
 
 ((Adeguatezza patrimoniale supplementare))
 
@@ -366,7 +364,7 @@ c) qualora l'inclusione di un'impresa sia inopportuna o fuorviante in relazione 
 
 ((6-bis. Ai fini della verifica dell'adeguatezza patrimoniale supplementare di un conglomerato finanziario, qualora si applichi il metodo 1 (consolidamento contabile) di cui all'allegato, i fondi propri e i requisiti di solvibilita' delle imprese del gruppo sono calcolati sulla base delle rispettive norme settoriali in materia di forma e ambito del consolidamento. Qualora si applichi il metodo 2 (deduzione e aggregazione), di cui all'allegato, il calcolo tiene conto della quota proporzionale del capitale sottoscritto detenuta direttamente o indirettamente dall'impresa madre o da un'impresa che detiene una partecipazione in un'altra impresa del gruppo.))
 
-##### Art. 8
+#### Art. 8
 
 Concentrazione dei rischi
 
@@ -386,7 +384,7 @@ Concentrazione dei rischi
 
 ((7-bis. Le autorita' competenti applicano il presente articolo tenendo conto degli orientamenti emanati dall'ABE, dall'AESFEM e dall'AEAP tramite il comitato congiunto, al fine di assicurare la convergente applicazione della vigilanza supplementare sulla concentrazione dei rischi delle imprese regolarmente incluse nei conglomerati finanziari, la coerenza degli strumenti di vigilanza previsti dal presente articolo con le corrispondenti previsioni delle norme settoriali nella stessa materia, anche con riferimento alle partecipazioni del conglomerato finanziario.))
 
-##### Art. 9
+#### Art. 9
 
 Operazioni intragruppo
 
@@ -408,7 +406,7 @@ Operazioni intragruppo
 
 ((8-bis. Le autorita' competenti applicano il presente articolo tenendo conto degli orientamenti emanati dall'ABE, dall'AESFEM e dall'AEAP tramite il comitato congiunto, al fine di assicurare la convergente applicazione della vigilanza supplementare sulle operazioni intragruppo delle imprese regolarmente incluse nei conglomerati finanziari, la coerenza degli strumenti di vigilanza previsti dal presente articolo con le corrispondenti previsioni delle norme settoriali nella stessa materia, anche con riferimento alle partecipazioni del conglomerato finanziario.))
 
-##### Art. 10
+#### Art. 10
 
 Controlli interni ((e procedure di gestione del rischio.))
 
@@ -442,9 +440,9 @@ b) valide procedure di segnalazione e contabili, atte a consentire l'accertament
 
 5-quinquies. Qualora il coordinatore svolga prove di stress sui conglomerati finanziari, le autorita' competenti rilevanti cooperano a tal fine con il coordinatore. Nello svolgimento delle prove di stress il coordinatore tiene conto degli eventuali orientamenti del comitato congiunto e comunica a quest'ultimo i risultati.))
 
-## Capo IV - Societa' di partecipazione finanziaria mista
+### Capo IV - Societa' di partecipazione finanziaria mista
 
-##### Art. 11
+#### Art. 11
 
 Requisiti di onorabilita' e professionalita' degli esponenti aziendali delle societa' di partecipazione finanziaria mista
 
@@ -454,9 +452,9 @@ Requisiti di onorabilita' e professionalita' degli esponenti aziendali delle soc
 
 ((3. Si applicano le cause di sospensione temporanea dalla carica previste dalle norme settoriali di cui al comma 1. La sospensione e' dichiarata con le modalita' indicate nel comma 2.))
 
-## Capo V - Poteri delle autorita' di vigilanza
+### Capo V - Poteri delle autorita' di vigilanza
 
-##### Art. 12
+#### Art. 12
 
 Ispezioni
 
@@ -478,7 +476,7 @@ Ispezioni
 
 > 3\. La Banca d'Italia, su richiesta delle autorita' competenti di altri Stati comunitari o extracomunitari, puo' effettuare ispezioni presso le societa' con sede legale in Italia ricomprese nella vigilanza su base consolidata di competenza delle autorita' richiedenti. La Banca d'Italia puo' consentire che Ia verifica sia effettuata dalle autorita' che hanno fatto la richiesta ovvero da un revisore o da un esperto. L'autorita' competente richiedente, qualora non compia direttamente la verifica, puo', se lo desidera, prendervi parte.».
 
-##### Art. 13
+#### Art. 13
 
 Poteri supplementari e misure di esecuzione
 
@@ -500,7 +498,7 @@ c) i provvedimenti previsti dal Titolo VII, Capo III, e dal Titolo XVI, Capi I, 
 
 4\. Per le specifiche finalita' di questo articolo, il coordinatore e le altre autorita' competenti interessate coordinano la loro attivita' anche, se del caso, con specifici accordi.
 
-##### Art. 14
+#### Art. 14
 
 Sanzioni nei confronti delle societa' di partecipazione finanziaria mista
 
@@ -530,9 +528,9 @@ Sanzioni nei confronti delle societa' di partecipazione finanziaria mista
 
 > 9\. Le societa' e gli enti ai quali appartengono gli autori delle violazioni rispondono, in solido con questi, del pagamento della sanzione e delle spese di pubblicita' previste dal secondo periodo del comma 3 e sono tenuti ad esercitare il diritto di regresso verso i responsabili.».
 
-## Capo VI - Imprese madri con sede al di fuori dell'Unione europea
+### Capo VI - Imprese madri con sede al di fuori dell'Unione europea
 
-##### Art. 15
+#### Art. 15
 
 Vigilanza supplementare equivalente
 
@@ -550,7 +548,7 @@ Vigilanza supplementare equivalente
 
 ## Titolo II - MODIFICHE ALLA DISCIPLINA IN MATERIA DI ASSICURAZIONI
 
-##### Art. 16
+#### Art. 16
 
 Modifiche al decreto legislativo 17 marzo 1995, n. 174
 
@@ -640,7 +638,7 @@ c) sia controllata dalla stessa persona, fisica o giuridica, che controlla una b
 
 > d) la meta' dell'aliquota non versata del capitale sociale o del fondo di garanzia sottoscritti, sempre che ne sia stato versato almeno il cinquanta per cento, sino a concorrenza del cinquanta per cento del margine di solvibilita' disponibile o, se inferiore, del margine di solvibilita' richiesto.».
 
-##### Art. 17
+#### Art. 17
 
 Modifiche al decreto legislativo 17 marzo 1995, n. 175
 
@@ -726,7 +724,7 @@ c) sia controllata dalla stessa persona, fisica o giuridica, che controlla una b
 
 > b) le plusvalenze latenti, al netto delle minusvalenze, risultanti dalla valutazione di tutti gli investimenti dell'impresa, purche' tali plusvalenze non abbiano carattere eccezionale, sino a concorrenza del venti per cento del margine di solvibilita' disponibile o, se inferiore, del margine di solvibilita' richiesto.
 
-##### Art. 18
+#### Art. 18
 
 Modifiche alla legge 9 gennaio 1991, n. 20
 
@@ -746,7 +744,7 @@ c) una persona fisica o giuridica che controlla una delle imprese di cui alla le
 
 > \- Per la legge 9 gennaio 1991, n. 20, vedi note all'art. 1.
 
-##### Art. 19
+#### Art. 19
 
 Modifiche al decreto legislativo 17 aprile 2001, n. 239
 
@@ -842,7 +840,7 @@ n) impresa di partecipazione assicurativa mista: un'impresa controllante diversa
 
 ## Titolo III - NORME FINALI
 
-##### Art. 20
+#### Art. 20
 
 Attuazione
 
@@ -850,7 +848,7 @@ Attuazione
 
 2\. Ai fini della prima individuazione dei conglomerati finanziari, rilevano i dati di bilancio relativi all'esercizio 2004. Le autorita' di vigilanza italiane comunicano alle imprese regolamentate appartenenti a un conglomerato finanziario individuato ai sensi dell'articolo 4 l'applicazione della normativa sulla vigilanza supplementare di cui al presente decreto.
 
-##### Art. 21
+#### Art. 21
 
 Entrata in vigore
 
@@ -878,7 +876,7 @@ Visto, il Guardasigilli: Castelli
 
 ## Titolo III - NORME FINALI
 
-##### Allegato
+#### Allegato
 
 Allegato
 

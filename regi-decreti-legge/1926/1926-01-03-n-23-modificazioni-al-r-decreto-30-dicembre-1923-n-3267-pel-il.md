@@ -38,17 +38,17 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale,
 
 Abbiamo decretato e decretiamo:
 
-### Art. 1
+## Art. 1
 
 Le pene pecuniarie comminate negli articoli 24 e 54 del Regio decreto 30 dicembre 1923, n. 3267, sono elevate nella misura del quintuplo.
 
-### Art. 2
+## Art. 2
 
 L'art. 35, comma 1°, del R. decreto 30 dicembre 1923 numero 3267, e' modificato come appresso:
 
 «Le contravvenzioni alle disposizioni del presente decreto potranno essere conciliate davanti all'ispettore capo del ripartimento nella cui circoscrizione l'infrazione fu come messa».
 
-### Art. 3
+## Art. 3
 
 Agli articoli 182 e 183 del R. decreto 30 dicembre 1923, n. 3267, sono sostituiti i seguenti:
 
@@ -66,7 +66,7 @@ Agli articoli 182 e 183 del R. decreto 30 dicembre 1923, n. 3267, sono sostituit
 
 ## Disposizione transitoria.
 
-### Art. 4
+## Art. 4
 
 Le disposizioni dell'art. 2 del presente decreto si applicano anche alle contravvenzioni pendenti alla data dell'entrata in vigore del decreto stesso.
 

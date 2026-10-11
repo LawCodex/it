@@ -26,11 +26,9 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I - PERSONALE ASSISTENTE
+## CAPO I - PERSONALE ASSISTENTE NELLE ACCADEMIE DI BELLE ARTI E NEI LICEI ARTISTICI
 
-### NELLE ACCADEMIE DI BELLE ARTI E NEI LICEI ARTISTICI
-
-#### Art. 1
+### Art. 1
 
 Assistenti
 
@@ -40,7 +38,7 @@ Gli assistenti vengono distribuiti in due ruoli a seconda che esplichino la loro
 
 Il personale di cui al presente articolo e' statale ad ogni effetto di legge.
 
-#### Art. 2
+### Art. 2
 
 Funzioni
 
@@ -48,7 +46,7 @@ Gli assistenti svolgono attivita' didattica, coadiuvando gli insegnanti delle ca
 
 Il loro obbligo d'orario settimanale e' di ore 16.
 
-#### Art. 3
+### Art. 3
 
 Accesso ai ruoli
 
@@ -62,7 +60,7 @@ Per i concorsi a posti di assistente di storia dell'arte presso l'Accademia di b
 
 Le prove vertono su programmi approvati dal Ministero della pubblica istruzione, sentito il parere della competente sezione del Consiglio superiore delle antichita' e belle arti.
 
-#### Art. 4
+### Art. 4
 
 Commissioni giudicatrici
 
@@ -70,7 +68,7 @@ Le Commissioni giudicatrici dei concorsi sono nominate dal Ministro per la pubbl
 
 Non possono far parte della stessa Commissione membri che siano, fra loro o con alcuno dei candidati, parenti o affini sino al 4° grado incluso.
 
-#### Art. 5
+### Art. 5
 
 Nomina
 
@@ -88,7 +86,7 @@ Per la nomina ad assistente incaricato di storia dell'arte e' necessario essere 
 
 Agli assistenti incaricati di cui al precedente comma, compete il trattamento iniziale identico a quello del personale di ruolo, proporzionato al numero delle ore di effettivo servizio.
 
-#### Art. 6
+### Art. 6
 
 Sostituzione di personale assistente
 
@@ -100,13 +98,13 @@ All'assistente che cessa dal servizio, prima che abbia maturato il diritto alla 
 
 La cessazione del servizio decorre dall'inizio dell'anno scolastico successivo a quello durante il quale e' intervenuto il provvedimento.
 
-#### Art. 7
+### Art. 7
 
 Trasferimenti
 
 L'assistente puo' essere trasferito ad altra cattedra della stessa materia o di materia affine, anche in altra sede, su domanda dell'interessato e previo consenso del titolare della cattedra presso la quale dovra' assumere servizio.
 
-#### Art. 8
+### Art. 8
 
 Posizione degli assistenti
 
@@ -118,7 +116,7 @@ Gli assistenti i quali saranno inquadrati in ruolo in base alle disposizioni di 
 
 A decorrere dal 1 luglio 1961 e salvo quanto disposto nei precedenti commi, i posti di assistenti incaricati nei Licei artistici sono aboliti.
 
-#### Art. 9
+### Art. 9
 
 Valutazione di servizio
 
@@ -126,11 +124,9 @@ Ai fini della valutazione del servizio utile per l'inquadramento di cui al prece
 
 Ai fini dell'inquadramento nonche' a quelli della determinazione dello stipendio e della progressione di carriera, sono computati per intero gli anni di servizio prestati come assistenti incaricati.
 
-## CAPO II - ACCOMPAGNATORI AL PIANOFORTE NEI CONSERVATORI
+## CAPO II - ACCOMPAGNATORI AL PIANOFORTE NEI CONSERVATORI DI MUSICA E PIANISTI ACCOMPAGNATORI NELL'ACCADEMIA NAZIONALE DI DANZA
 
-### DI MUSICA E PIANISTI ACCOMPAGNATORI NELL'ACCADEMIA - NAZIONALE DI DANZA
-
-#### Art. 10
+### Art. 10
 
 Accompagnatori al pianoforte nei Conservatori di musica e pianisti accompagnatori nell'Accademia nazionale di danza
 
@@ -142,13 +138,13 @@ La carriera di tale personale e' fissata nell'annessa tabella A ed i compensi pe
 
 Gli accompagnatori al pianoforte ed i pianisti accompagnatori passano alla 2ª classe di stipendio in seguito al rapporto favorevole del direttore dell'Istituto.
 
-#### Art. 11
+### Art. 11
 
 Funzioni
 
 Gli accompagnatori al pianoforte e i pianisti accompagnatori coadiuvano i rispettivi insegnanti, svolgendo la propria opera nei limiti delle direttive date dai titolari e dai direttori.
 
-#### Art. 12
+### Art. 12
 
 Accesso ai ruoli
 
@@ -160,7 +156,7 @@ Per l'ammissione ai concorsi e per lo svolgimento dei medesimi vigono le stesse 
 
 I posti non ancora occupati mediante concorso e quelli che si renderanno comunque vacanti saranno conferiti a personale incaricato.
 
-#### Art. 13
+### Art. 13
 
 Posizione degli accompagnatori al
 
@@ -172,13 +168,13 @@ I pianisti accompagnatori che si trovano nelle condizioni di cui al primo comma,
 
 Ai fini della valutazione del servizio utile per l'inquadramento di cui ai commi precedenti, non costituisce interruzione il servizio prestato in qualita' di incaricato, quale insegnante di pianoforte o di pianoforte complementare.
 
-#### Art. 14
+### Art. 14
 
 Valutazione del servizio
 
 Gli anni di servizio precedentemente prestati alla assunzione nel ruolo di accompagnatori al pianoforte o di pianisti accompagnatori sono computati come utili ai fini della determinazione dello stipendio e della progressione della carriera.
 
-#### Art. 15
+### Art. 15
 
 Copertura della spesa
 
@@ -194,11 +190,9 @@ FANFANI - BOSCO - TAVIANI
 
 Visto, il Guardasigilli: GONELLA
 
-## CAPO II - ACCOMPAGNATORI AL PIANOFORTE NEI CONSERVATORI
+## CAPO II - ACCOMPAGNATORI AL PIANOFORTE NEI CONSERVATORI DI MUSICA E PIANISTI ACCOMPAGNATORI NELL'ACCADEMIA NAZIONALE DI DANZA
 
-### DI MUSICA E PIANISTI ACCOMPAGNATORI NELL'ACCADEMIA - NAZIONALE DI DANZA
-
-#### Tabelle
+### Tabelle
 
 TABELLA A
 

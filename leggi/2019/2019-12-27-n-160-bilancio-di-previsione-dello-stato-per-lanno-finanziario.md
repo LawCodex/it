@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## SEZIONE I - MISURE QUANTITATIVE
+## SEZIONE I - MISURE QUANTITATIVE PER LA REALIZZAZIONE DEGLI OBIETTIVI PROGRAMMATICI
 
-### PER LA REALIZZAZIONE DEGLI - OBIETTIVI PROGRAMMATICI
-
-#### Art. 1
+### Art. 1
 
 1\. I livelli massimi del saldo netto da finanziare, in termini di competenza e di cassa, e del ricorso al mercato finanziario, in termini di competenza, di cui all'articolo 21, comma 1-ter, lettera a), della legge 31 dicembre 2009, n. 196, per gli anni 2020, 2021 e 2022, sono indicati nell'allegato 1 annesso alla presente legge. I livelli del ricorso al mercato si intendono al netto delle operazioni effettuate al fine di rimborsare prima della scadenza o di ristrutturare passivita' preesistenti con ammortamento a carico dello Stato.
 
@@ -448,7 +446,7 @@ Per l'erogazione dei contributi a fondo perduto di cui al presente comma possono
 
 100\. Alla Commissione di cui al comma 98, per gli studi e le ricerche necessarie all'espletamento dei suoi compiti, e' assegnata una dotazione finanziaria pari a 0,5 milioni di euro per l'anno 2020.
 
-#### Art. 1 (commi 101-200)
+### Art. 1 (commi 101-200)
 
 101\. All'articolo 56, comma 7, della legge 28 dicembre 2015, n. 221, dopo le parole: « edifici pubblici contaminati da amianto, » sono inserite le seguenti: « comprese le navi militari, ».
 
@@ -778,7 +776,7 @@ e) le spese per servizi di consulenza e servizi equivalenti inerenti alle attivi
 
 f) le spese per materiali, forniture e altri prodotti analoghi impiegati nei progetti di ricerca e sviluppo ammissibili al credito d'imposta svolti internamente dall'impresa anche per la realizzazione di prototipi o impianti pilota, nel limite massimo del 30 per cento delle spese di personale indicate alla lettera a) ovvero, nel caso di ricerca extra muros, del 30 per cento dei costi dei contratti indicati alla lettera c).
 
-#### Art. 1 (commi 201-300)
+### Art. 1 (commi 201-300)
 
 201\. Sono considerate attivita' di innovazione tecnologica ammissibili al credito d'imposta le attivita', diverse da quelle indicate nel comma 200, finalizzate alla realizzazione di prodotti o processi di produzione nuovi o sostanzialmente migliorati. Per prodotto o processo di produzione nuovo o sostanzialmente migliorato si intende un bene materiale o immateriale o un servizio o un processo che si differenzia, rispetto a quelli gia' realizzati o applicati dall'impresa, sul piano delle caratteristiche tecnologiche o delle prestazioni o dell'ecocompatibilita' o dell'ergonomia o per altri elementi sostanziali rilevanti nei diversi settori produttivi.
 
@@ -1098,7 +1096,7 @@ A tale fine e' autorizzata la spesa di euro 951.667 per l'anno 2020 e di euro 2.
 
 « 1. Al fine di migliorare il livello e la qualita' di internazionalizzazione delle PMI italiane, alle imprese esistenti alla data del 1° gennaio 2019 e' riconosciuto, per i periodi d'imposta 2019 e 2020, un credito d'imposta nella misura del 30 per cento delle spese di cui al comma 2 fino ad un massimo di 60.000 euro. Il credito d'imposta e' riconosciuto fino all'esaurimento dell'importo massimo di 10 milioni di euro per l'anno 2020 e di 5 milioni di euro per l'anno 2021 ».
 
-#### Art. 1 (commi 301-400)
+### Art. 1 (commi 301-400)
 
 301\. Il Ministero degli affari esteri e della cooperazione internazionale e' autorizzato a bandire, per ciascuno degli anni 2020, 2021 e 2022, un concorso pubblico di accesso alla carriera diplomatica, nei limiti dell'attuale dotazione organica e delle facolta' assunzionali disponibili a legislazione vigente, per un contingente annuo non superiore a trentadue segretari di legazione in prova. Le assunzioni conseguenti alle procedure di cui al primo periodo sono autorizzate ai sensi dell'articolo 35, comma 4, del decreto legislativo 30 marzo 2001, n. 165.(19)
 
@@ -1434,7 +1432,7 @@ Sono conseguentemente differite le riduzioni applicabili alla contribuzione dire
 
 400\. Per l'avvio della realizzazione delle azioni, delle iniziative e dei progetti connessi e strumentali all'attuazione dell'Agenda digitale italiana, in coerenza con gli obiettivi dell'Agenda digitale europea, nonche' per le azioni, le iniziative e i progetti di innovazione e delle connesse attivita' di comunicazione, e' autorizzata la spesa di 5 milioni di euro per ciascuno degli anni 2020 e 2021.
 
-#### Art. 1 (commi 401-500)
+### Art. 1 (commi 401-500)
 
 401\. Al comma 1-ter dell'articolo 8 del decreto-legge 14 dicembre 2018, n. 135, convertito, con modificazioni, dalla legge 11 febbraio 2019, n. 12, e' aggiunto, in fine, il seguente periodo: « Allo stesso fine e per lo sviluppo e la diffusione dell'uso delle tecnologie tra cittadini, imprese e pubblica amministrazione, il Presidente del Consiglio dei ministri, o il Ministro delegato, individua, promuove e gestisce mediante la competente struttura per l'innovazione della Presidenza del Consiglio dei ministri progetti di innovazione tecnologica e di trasformazione digitale di rilevanza strategica e di interesse nazionale ».
 
@@ -1806,7 +1804,7 @@ c) nella misura del 75 per cento per le fasce di importo dei trattamenti pension
 
 L'INPS provvede al monitoraggio delle domande di pensionamento presentate dai soggetti di cui al presente comma secondo l'ordine di sottoscrizione del relativo accordo di procedura presso l'ente competente. Qualora dall'esame delle domande presentate risulti il raggiungimento, anche in termini prospettici, dei limiti di spesa previsti per l'attuazione del presente comma, l'INPS non prende in esame ulteriori domande di pensionamento. Il trattamento pensionistico decorre dal primo giorno del mese successivo a quello di presentazione della domanda, previa risoluzione del rapporto di lavoro dipendente. Ai soggetti di cui al presente comma non si applicano le disposizioni dell'articolo 12, commi da 12-bis a 12-quinquies, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, in materia di adeguamento alla speranza di vita, All'onere derivante dall'attuazione del presente comma si provvede per 6,1 milioni di euro per l'anno 2020, 10,2 milioni di euro per l'anno 2021, 11,7 milioni di euro per l'anno 2022, 12,5 milioni di euro per l'anno 2023, 11,6 milioni di euro per l'anno 2024, 7,6 milioni di euro per l'anno 2025, 4,4 milioni di euro per l'anno 2026 e 0,3 milioni di euro per l'anno 2027, mediante corrispondente riduzione del Fondo per il pluralismo e l'innovazione dell'informazione, di cui alla legge 26 ottobre 2016, n. 198.
 
-#### Art. 1 (commi 501-600)
+### Art. 1 (commi 501-600)
 
 501\. Le imprese agricole ubicate nei territori che hanno subito danni dagli attacchi della cimice asiatica (Halyomorpha halys) e ad essa correlati e che non hanno sottoscritto polizze assicurative agevolate a copertura dei rischi, in deroga all'articolo 1, comma 3, lettera b), del decreto legislativo 29 marzo 2004, n. 102, possono accedere agli interventi previsti per favorire la ripresa dell'attivita' economica e produttiva di cui all'articolo 5 del citato decreto legislativo n. 102 del 2004. Le regioni nel cui territorio si e' verificato l'attacco da parte della cimice asiatica possono conseguentemente deliberare la proposta di declaratoria di eccezionalita' degli eventi di cui al presente comma entro il termine perentorio di sessanta giorni dalla data di entrata in vigore della presente legge.
 
@@ -2084,7 +2082,7 @@ b) per gli enti e gli organismi che adottano la contabilita' civilistica, alle c
 
 600\. Restano fermi gli effetti finanziari derivanti dalle riduzioni dei trasferimenti erariali dal bilancio dello Stato agli enti ed organismi di cui al comma 590.
 
-#### Art. 1 (commi 601-700)
+### Art. 1 (commi 601-700)
 
 601\. Le disposizioni di cui ai commi da 590 a 600 non si applicano agli enti di cui al decreto legislativo 30 giugno 1994, n. 509, e al decreto legislativo 10 febbraio 1996, n. 103, per i quali resta in vigore l'articolo 1, comma 183, della legge 27 dicembre 2017, n. 205.
 
@@ -2596,7 +2594,7 @@ c) al terzo periodo, le parole: « 30 giugno 2019 » sono sostituite dalle segue
 
 700\. Nel caso di cessione a titolo oneroso, di assegnazione ai soci o di destinazione a finalita' estranee all'esercizio dell'impresa ovvero al consumo personale o familiare dell'imprenditore dei beni rivalutati in data anteriore a quella di inizio del quarto esercizio successivo a quello nel cui bilancio la rivalutazione e' stata eseguita, ai fini della determinazione delle plusvalenze o minusvalenze si ha riguardo al costo del bene prima della rivalutazione.
 
-#### Art. 1 (commi 701-800)
+### Art. 1 (commi 701-800)
 
 701\. Le imposte sostitutive di cui ai commi 698 e 699 sono versate: per importi complessivi fino a 3.000.000 di euro in un massimo di tre rate di pari importo di cui la prima con scadenza entro il termine previsto per il versamento a saldo delle imposte sui redditi relative al periodo d'imposta con riferimento al quale la rivalutazione e' eseguita, le altre con scadenza entro il termine rispettivamente previsto per il versamento a saldo delle imposte sui redditi relative ai periodi d'imposta successivi; per importi complessivi superiori a 3.000.000 di euro in un massimo di sei rate di pari importo, di cui la prima con scadenza entro il termine previsto per il versamento a saldo delle imposte sui redditi relative al periodo d'imposta con riferimento al quale la rivalutazione e' eseguita, la seconda entro il termine previsto per il versamento della seconda o unica rata di acconto delle imposte sui redditi relativa al periodo d'imposta successivo, le altre con scadenza, rispettivamente, entro il termine previsto per il versamento a saldo delle imposte sui redditi e il termine previsto per il versamento della seconda o unica rata di acconto delle imposte sui redditi, per i periodi d'imposta successivi. Gli importi da versare possono essere compensati ai sensi della sezione I del capo III del decreto legislativo 9 luglio 1997, n. 241.
 
@@ -2976,7 +2974,7 @@ f) oltre euro 20.000,00 da trentasette a settantadue rate mensili.
 
 800\. In caso di mancato pagamento, dopo espresso sollecito, di due rate anche non consecutive nell'arco di sei mesi nel corso del periodo di rateazione, il debitore decade automaticamente dal beneficio e il debito non puo' piu' essere rateizzato; l'intero importo ancora dovuto e' immediatamente riscuotibile in unica soluzione.
 
-#### Art. 1 (commi 801-884)
+### Art. 1 (commi 801-884)
 
 801\. Le rate mensili nelle quali il pagamento e' stato dilazionato scadono nell'ultimo giorno di ciascun mese indicato nell'atto di accoglimento dell'istanza di dilazione.
 
@@ -3744,15 +3742,13 @@ AGGIORNAMENTO (116)
 
 Il D.Lgs. 7 agosto 2026, n. 147, ha disposto (con l'art. 12, comma 9) che "Le disposizioni di cui ai commi 4, 5, 6, 7 e 8 si applicano alle violazioni commesse a partire dal 1° gennaio 2027".
 
-## SEZIONE II - APPROVAZIONE DEGLI STATI
+## SEZIONE II - APPROVAZIONE DEGLI STATI DI PREVISIONE
 
-### DI PREVISIONE
-
-#### Art. 2 - Stato di previsione dell'entrata
+### Art. 2 - Stato di previsione dell'entrata
 
 1\. L'ammontare delle entrate previste per l'anno finanziario 2020, relative a imposte, tasse, contributi di ogni specie e ogni altro provento, accertate, riscosse e versate nelle casse dello Stato, in virtu' di leggi, decreti, regolamenti e di ogni altro titolo, risulta dall'annesso stato di previsione dell'entrata (Tabella n. 1).
 
-#### Art. 3 - Stato di previsione del Ministero dell'economia e delle finanze e disposizioni relative
+### Art. 3 - Stato di previsione del Ministero dell'economia e delle finanze e disposizioni relative
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero dell'economia e delle finanze, per l'anno finanziario 2020, in conformita' all'annesso stato di previsione (Tabella n. 2).
 
@@ -3790,13 +3786,13 @@ Il D.Lgs. 7 agosto 2026, n. 147, ha disposto (con l'art. 12, comma 9) che "Le di
 
 18\. Il Ragioniere generale dello Stato e' autorizzato a provvedere, con propri decreti, alla riassegnazione ai pertinenti programmi dello stato di previsione del Ministero dell'economia e delle finanze, per l'anno finanziario 2020, delle somme versate all'entrata del bilancio dello Stato dal Comitato olimpico nazionale italiano (CONI), dalla societa' Sport e salute Spa, dal Comitato italiano paralimpico (CIP), dalle singole federazioni sportive nazionali, dalle regioni, dalle province, dai comuni e da altri enti pubblici e privati, destinate alle attivita' dei gruppi sportivi del Corpo della guardia di finanza.
 
-#### Art. 4 - Stato di previsione del Ministero dello sviluppo economico e disposizioni relative
+### Art. 4 - Stato di previsione del Ministero dello sviluppo economico e disposizioni relative
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero dello sviluppo economico, per l'anno finanziario 2020, in conformita' all'annesso stato di previsione (Tabella n. 3).
 
 2\. Le somme impegnate in relazione alle disposizioni di cui all'articolo 1 del decreto-legge 9 ottobre 1993, n. 410, convertito dalla legge 10 dicembre 1993, n. 513, recante interventi urgenti a sostegno dell'occupazione nelle aree di crisi siderurgica, resesi disponibili a seguito di provvedimenti di revoca, sono versate all'entrata del bilancio dello Stato per essere riassegnate, nell'anno finanziario 2020, con decreti del Ragioniere generale dello Stato, allo stato di previsione del Ministero dello sviluppo economico, ai fini di cui al medesimo articolo 1 del decreto-legge n. 410 del 1993, convertito dalla legge n. 513 del 1993.
 
-#### Art. 5
+### Art. 5
 
 Stato di previsione del Ministero del lavoro e delle politiche sociali e disposizioni relative
 
@@ -3804,23 +3800,23 @@ Stato di previsione del Ministero del lavoro e delle politiche sociali e disposi
 
 2\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, su proposta del Ministro del lavoro e delle politiche sociali, con propri decreti, per l'anno finanziario 2020, variazioni compensative in termini di residui, di competenza e di cassa tra i capitoli dello stato di previsione del Ministero del lavoro e delle politiche sociali, anche tra missioni e programmi diversi, connesse con l'attuazione dei decreti legislativi 14 settembre 2015, n. 149 e n. 150.
 
-#### Art. 6 - Stato di previsione del Ministero della giustizia e disposizioni relative
+### Art. 6 - Stato di previsione del Ministero della giustizia e disposizioni relative
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero della giustizia, per l'anno finanziario 2020, in conformita' all'annesso stato di previsione (Tabella n. 5).
 
 2\. Il Ragioniere generale dello Stato e' autorizzato a provvedere, con propri decreti, alla riassegnazione, in termini di competenza e di cassa, delle somme versate dal CONI, dalla societa' Sport e salute Spa, dalle regioni, dalle province, dai comuni e da altri enti pubblici e privati all'entrata del bilancio dello Stato, relativamente alle spese per il mantenimento, per l'assistenza e per la rieducazione dei detenuti e internati, per gli interventi e gli investimenti finalizzati al miglioramento delle condizioni detentive e delle attivita' trattamentali, nonche' per le attivita' sportive del personale del Corpo di polizia penitenziaria e dei detenuti e internati, nel programma « Amministrazione penitenziaria » e nel programma « Giustizia minorile e di comunita' », nell'ambito della missione « Giustizia » dello stato di previsione del Ministero della giustizia per l'anno finanziario 2020.
 
-#### Art. 7 - Stato di previsione del Ministero degli affari esteri e della cooperazione internazionale e disposizioni relative
+### Art. 7 - Stato di previsione del Ministero degli affari esteri e della cooperazione internazionale e disposizioni relative
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero degli affari esteri e della cooperazione internazionale, per l'anno finanziario 2020, in conformita' all'annesso stato di previsione (Tabella n. 6).
 
 2\. Il Ministero degli affari esteri e della cooperazione internazionale e' autorizzato ad effettuare, previe intese con il Ministero dell'economia e delle finanze, operazioni in valuta estera non convertibile pari alle disponibilita' esistenti nei conti correnti valuta Tesoro costituiti presso le rappresentanze diplomatiche e gli uffici consolari, ai sensi dell'articolo 5 della legge 6 febbraio 1985, n. 15, e che risultino intrasferibili per effetto di norme o disposizioni locali. Il relativo controvalore in euro e' acquisito all'entrata del bilancio dello Stato ed e' contestualmente iscritto, con decreti del Ragioniere generale dello Stato, sulla base delle indicazioni del Ministero degli affari esteri e della cooperazione internazionale, nei pertinenti programmi dello stato di previsione del medesimo Ministero per l'anno finanziario 2020, per l'effettuazione di spese connesse alle esigenze di funzionamento, mantenimento ed acquisto delle sedi diplomatiche e consolari, degli istituti di cultura e delle scuole italiane all'estero. Il Ministero degli affari esteri e della cooperazione internazionale e' altresi' autorizzato ad effettuare, con le medesime modalita', operazioni in valuta estera pari alle disponibilita' esistenti nei conti correnti valuta Tesoro in valute inconvertibili o intrasferibili individuate, ai fini delle operazioni di cui al presente comma, dal Dipartimento del tesoro del Ministero dell'economia e delle finanze su richiesta della competente Direzione generale del Ministero degli affari esteri e della cooperazione internazionale.
 
-#### Art. 8 - Stato di previsione del Ministero dell'istruzione, dell'universita' e della ricerca
+### Art. 8 - Stato di previsione del Ministero dell'istruzione, dell'universita' e della ricerca
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero dell'istruzione, dell'universita' e della ricerca, per l'anno finanziario 2020, in conformita' all'annesso stato di previsione (Tabella n. 7).
 
-#### Art. 9 - Stato di previsione del Ministero dell'interno e disposizioni relative
+### Art. 9 - Stato di previsione del Ministero dell'interno e disposizioni relative
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero dell'interno, per l'anno finanziario 2020, in conformita' all'annesso stato di previsione (Tabella n. 8).
 
@@ -3840,11 +3836,11 @@ Stato di previsione del Ministero del lavoro e delle politiche sociali e disposi
 
 9\. Al fine di consentire il pagamento dei compensi per lavoro straordinario, si applicano al personale dell'Amministrazione civile dell'interno, nelle more del perfezionamento del decreto del Ministro dell'interno di cui all'articolo 43, tredicesimo comma, della legge 1° aprile 1981, n. 121, i limiti massimi stabiliti dal decreto adottato, ai sensi del medesimo articolo, per l'anno 2019.
 
-#### Art. 10 - Stato di previsione del Ministero dell'ambiente e della tutela del territorio e del mare
+### Art. 10 - Stato di previsione del Ministero dell'ambiente e della tutela del territorio e del mare
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero dell'ambiente e della tutela del territorio e del mare, per l'anno finanziario 2020, in conformita' all'annesso stato di previsione (Tabella n. 9).
 
-#### Art. 11 - Stato di previsione del Ministero delle infrastrutture e dei trasporti e disposizioni relative
+### Art. 11 - Stato di previsione del Ministero delle infrastrutture e dei trasporti e disposizioni relative
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero delle infrastrutture e dei trasporti, per l'anno finanziario 2020, in conformita' all'annesso stato di previsione (Tabella n. 10).
 
@@ -3860,7 +3856,7 @@ Stato di previsione del Ministero del lavoro e delle politiche sociali e disposi
 
 7\. Il Ragioniere generale dello Stato e' autorizzato a riassegnare allo stato di previsione del Ministero delle infrastrutture e dei trasporti quota parte delle entrate versate al bilancio dello Stato derivanti dai corrispettivi di concessione offerti in sede di gara per il riaffidamento delle concessioni autostradali nella misura necessaria alla definizione delle eventuali pendenze con i concessionari uscenti.
 
-#### Art. 12 - Stato di previsione del Ministero della difesa e disposizioni relative
+### Art. 12 - Stato di previsione del Ministero della difesa e disposizioni relative
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero della difesa, per l'anno finanziario 2020, in conformita' all'annesso stato di previsione (Tabella n. 11).
 
@@ -3930,7 +3926,7 @@ c) ufficiali ausiliari delle forze di completamento, di cui alla lettera d) del 
 
 10\. Il Ministro della difesa, sentito il Ministro dell'economia e delle finanze per gli aspetti finanziari, e' autorizzato a ripartire, con propri decreti, le somme iscritte nell'anno 2020 sul pertinente capitolo dello stato di previsione del Ministero della difesa da destinare alle associazioni combattentistiche, di cui all'articolo 2195 del codice di cui al decreto legislativo 15 marzo 2010, n. 66.
 
-#### Art. 13 - Stato di previsione del Ministero delle politiche agricole alimentari e forestali e disposizioni relative
+### Art. 13 - Stato di previsione del Ministero delle politiche agricole alimentari e forestali e disposizioni relative
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero delle politiche agricole alimentari e forestali, per l'anno finanziario 2020, in conformita' all'annesso stato di previsione (Tabella n. 12).
 
@@ -3944,7 +3940,7 @@ c) ufficiali ausiliari delle forze di completamento, di cui alla lettera d) del 
 
 6\. Il Ragioniere generale dello Stato e' autorizzato a provvedere, con propri decreti, alla riassegnazione, ai pertinenti programmi dello stato di previsione del Ministero delle politiche agricole alimentari e forestali, per l'anno finanziario 2020, delle somme versate all'entrata del bilancio dello Stato da amministrazioni ed enti pubblici in virtu' di accordi di programma, convenzioni e intese per il raggiungimento di finalita' comuni in materia di telelavoro e altre forme di lavoro a distanza, ai sensi dell'articolo 4 della legge 16 giugno 1998, n. 191, dell'articolo 3 del regolamento di cui al decreto del Presidente della Repubblica 8 marzo 1999, n. 70, e dell'articolo 15 della legge 7 agosto 1990, n. 241.
 
-#### Art. 14 - Stato di previsione del Ministero per i beni e le attivita' culturali e per il turismo e disposizioni relative
+### Art. 14 - Stato di previsione del Ministero per i beni e le attivita' culturali e per il turismo e disposizioni relative
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero per i beni e le attivita' culturali e per il turismo, per l'anno finanziario 2020, in conformita' all'annesso stato di previsione (Tabella n. 13).
 
@@ -3954,21 +3950,21 @@ c) ufficiali ausiliari delle forze di completamento, di cui alla lettera d) del 
 
 4\. Al pagamento delle retribuzioni delle operazioni e dei servizi svolti in attuazione del piano nazionale straordinario di valorizzazione degli istituti e dei luoghi della cultura dal relativo personale si provvede mediante ordini collettivi di pagamento con il sistema denominato « cedolino unico », ai sensi dell'articolo 2, comma 197, della legge 23 dicembre 2009, n. 191. A tal fine il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, su proposta del Ministro per i beni e le attivita' culturali e per il turismo, le variazioni compensative di bilancio in termini di competenza e di cassa su appositi piani gestionali dei capitoli relativi alle competenze accessorie del personale.
 
-#### Art. 15 - Stato di previsione del Ministero della salute e disposizioni relative
+### Art. 15 - Stato di previsione del Ministero della salute e disposizioni relative
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero della salute, per l'anno finanziario 2020, in conformita' all'annesso stato di previsione (Tabella n. 14).
 
 2\. Per l'anno finanziario 2020, il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, su proposta del Ministero della salute, variazioni compensative in termini di competenza e di cassa, tra gli stanziamenti alimentati dal riparto della quota di cui all'articolo 12, comma 2, del decreto legislativo 30 dicembre 1992, n. 502, iscritti in bilancio nell'ambito della missione « Ricerca e innovazione » dello stato di previsione del Ministero della salute, restando precluso l'utilizzo degli stanziamenti di conto capitale per finanziare spese correnti.
 
-#### Art. 16 - Totale generale della spesa
+### Art. 16 - Totale generale della spesa
 
 1\. Sono approvati, rispettivamente, in euro 897.423.599.901, in euro 920.575.917.428 e in euro 927.210.926.029 in termini di competenza, nonche' in euro 907.402.639.921, in euro 933.017.841.435 e in euro 937.080.022.042 in termini di cassa, i totali generali della spesa dello Stato per il triennio 2020-2022.
 
-#### Art. 17 - Quadro generale riassuntivo
+### Art. 17 - Quadro generale riassuntivo
 
 1\. E' approvato, in termini di competenza e di cassa, per il triennio 2020-2022, il quadro generale riassuntivo del bilancio dello Stato, con le tabelle allegate.
 
-#### Art. 18 - Disposizioni diverse
+### Art. 18 - Disposizioni diverse
 
 1\. In relazione all'accertamento dei residui di entrata e di spesa per i quali non esistono nel bilancio di previsione i corrispondenti capitoli nell'ambito dei programmi interessati, il Ministro dell'economia e delle finanze e' autorizzato ad istituire gli occorrenti capitoli nei pertinenti programmi con propri decreti da comunicare alla Corte dei conti.
 
@@ -4032,7 +4028,7 @@ c) ufficiali ausiliari delle forze di completamento, di cui alla lettera d) del 
 
 31\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, per l'anno finanziario 2020, variazioni compensative, in termini di competenza e di cassa, tra le spese per la partecipazione italiana a banche, fondi ed organismi internazionali iscritte nell'ambito della missione « L'Italia in Europa e nel Mondo », programma « Politica economica e finanziaria in ambito internazionale », e le spese connesse con l'intervento diretto di societa' partecipate dal Ministero dell'economia e delle finanze all'interno del sistema economico, anche attraverso la loro capitalizzazione, iscritte nell'ambito della missione « Politiche economico-finanziarie e di bilancio e tutela della finanza pubblica», programma « Regolamentazione e vigilanza sul settore finanziario».
 
-#### Art. 19 - Entrata in vigore
+### Art. 19 - Entrata in vigore
 
 1\. La presente legge, salvo quanto diversamente previsto, entra in vigore il 1° gennaio 2020.
 
@@ -4050,7 +4046,7 @@ Visto, il Guardasigilli: Bonafede
 
 ## Allegati
 
-#### Allegato 1
+### Allegato 1
 
 Allegato 1
 
@@ -4112,7 +4108,7 @@ rimborsare prima della scadenza o di ristrutturare passivita'
 
 preesistenti con ammortamento a carico dello Stato.
 
-#### Tabella 1
+### Tabella 1
 
 Tabella 1
 
@@ -4120,7 +4116,7 @@ Tabella 1
 
 Parte di provvedimento in formato grafico
 
-#### Allegato A
+### Allegato A
 
 Allegato A
 
@@ -4128,7 +4124,7 @@ Allegato A
 
 Parte di provvedimento in formato grafico
 
-#### Elenchi
+### Elenchi
 
 ELENCHI
 
@@ -4158,7 +4154,7 @@ Accantonamenti delle dotazioni finanziarie delle spese dei Ministeri
 
 Parte di provvedimento in formato grafico
 
-#### Tabelle A e B
+### Tabelle A e B
 
 TABELLE A e B
 
@@ -4178,7 +4174,7 @@ SPECIALE DI CONTO CAPITALE
 
 Parte di provvedimento in formato grafico
 
-#### Quadri generali
+### Quadri generali
 
 A) QUADRO GENERALE RIASSUNTIVO
 
@@ -4202,7 +4198,7 @@ L'ARTICOLAZIONE IN AZIONI DELLE MISSIONI E DEI PROGRAMMI DI SPESA, RIPORTATA NEL
 
 Parte di provvedimento in formato grafico
 
-#### Tabelle
+### Tabelle
 
 STATI DI PREVISIONE
 

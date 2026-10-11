@@ -216,7 +216,7 @@ L'autorita' procedente puo' in ogni caso far eseguire copia dei libri a spese de
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 DICEMBRE 1997, N. 472))
 
-## CAPO II. - Della polizia tributaria.
+### CAPO II. - Della polizia tributaria.
 
 #### Art. 30
 
@@ -256,7 +256,7 @@ Le violazioni delle norme contenute nelle leggi finanziarie, le quali non costit
 
 Per assicurarsi dell'adempimento delle prescrizioni imposte dalle leggi o dai regolamenti in materia finanziaria, gli ufficiali o gli agenti della polizia tributaria hanno facolta' di accedere in qualunque ora negli esercizi pubblici e in ogni locale adibito ad un'azienda industriale o commerciale ed eseguirvi verificazioni e ricerche.
 
-## CAPO III. - Del decreto penale dell'intendente di finanza.
+### CAPO III. - Del decreto penale dell'intendente di finanza.
 
 #### Art. 36
 
@@ -412,7 +412,7 @@ AGGIORNAMENTO (3)
 
 La Corte Costituzionale con sentenza 27 marzo - 3 aprile 1969, n. 60 (in G.U. 1ª s.s. 09/04/1969, n. 91) ha dichiarato, in applicazione del disposto dell'art. 27 della legge 11 marzo 1953, n. 87, l'illegittimita' costituzionale del presente articolo.
 
-## CAPO IV. - Della procedura per oblazione.
+### CAPO IV. - Della procedura per oblazione.
 
 #### Art. 46
 
@@ -498,7 +498,7 @@ Quando del pagamento dell'ammenda siano civilmente responsabili le persone o gli
 
 Nel caso indicato nel n. 2, la omissione della notificazione esonera le persone e gli enti ivi indicati dalla responsabilita' per il pagamento della somma corrispondente all'ammontare dell'ammenda.
 
-## CAPO V. - Della applicazione della pena pecuniaria.
+### CAPO V. - Della applicazione della pena pecuniaria.
 
 #### Art. 55
 

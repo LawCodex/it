@@ -26,7 +26,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Per l'avanzamento degli ufficiali della Guardia di finanza si applicano le disposizioni della legge 12 novembre 1955, n. 1137, e successive modificazioni, concernenti l'avanzamento degli ufficiali dell'Esercito, Arma dei carabinieri, con le varianti di cui agli articoli seguenti.
 
@@ -34,21 +34,21 @@ Dette disposizioni non si applicano all'avanzamento dell'ufficiale maestro diret
 
 Non si applicano altresi' agli ufficiali provenienti dal Corpo della guardia di finanza della Venezia Giulia, iscritti nel ruolo separato di cui alla legge 22 dicembre 1960, n. 1600.
 
-### Art. 2
+## Art. 2
 
 Sono conferite al Ministro per le finanze, in materia di avanzamento degli ufficiali della Guardia di finanza, le attribuzioni devolute al Ministro per la difesa per l'avanzamento degli ufficiali dell'Esercito.
 
-### Art. 3
+## Art. 3
 
 Le tabelle n. 1 e 4 allegate alla legge 12 novembre 1955, n. 1137, e successive modificazioni, si intendono sostituite, ai fini dell'applicazione agli ufficiali della Guardia di finanza delle disposizioni di legge che vi fanno riferimento, dalle tabelle n. I e 2 allegate alla presente legge.
 
 Il periodo di tempo trascorso nella carica di Capo di Stato Maggiore del comando generale della Guardia di finanza e' valido quale periodo di comando ai fini dell'avanzamento.
 
-### Art. 4
+## Art. 4
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-### Art. 5
+## Art. 5
 
 1\. Il corso superiore di polizia economico-finanziaria provvede all'alta qualificazione professionale degli ufficiali del ruolo normale del Corpo della Guardia di finanza, mediante il perfezionamento e il completamento della loro preparazione tecnica e culturale, ai fini dell'assolvimento di incarichi di comando, di stato maggiore o di elevato impegno, anche in ambito internazionale, che richiedono la soluzione di problemi complessi in campo operativo e nella gestione delle risorse umane e organizzative.
 
@@ -124,7 +124,7 @@ Il requisito relativo al grado deve essere posseduto alla data di indizione del 
 
 ## DISPOSIZIONI TRANSITORIE
 
-### Art. 6
+## Art. 6
 
 I quadri di avanzamento riferibili all'anno in cui entrera' in vigore la presente legge sono formati con l'osservanza delle disposizioni contenute nella legge 15 dicembre 1959, n. 1089, e successive modificazioni. Essi hanno efficacia fino al 31 dicembre dell'anno al quale si riferiscono.
 
@@ -132,7 +132,7 @@ Per la promozione degli ufficiali iscritti nei quadri di avanzamento anzidetti s
 
 Le valutazioni per la formazione dei successivi quadri di avanzamento sono effettuate con l'osservanza delle norme stabilite dalla presente legge. Le valutazioni eventualmente gia' effettuate per gli anzidetti quadri di avanzamento sono annullate.
 
-### Art. 7
+## Art. 7
 
 Nella prima applicazione della presente legge le aliquote di ruolo dei colonnelli, dei tenenti colonnelli e dei capitani da valutare per l'avanzamento comprenderanno esclusivamente:
 
@@ -142,15 +142,15 @@ gli ufficiali non valutati precedentemente per cause impeditive che siano poi ce
 
 gli ufficiali nei cui confronti si debba rinnovare il giudizio di avanzamento.
 
-### Art. 8
+## Art. 8
 
 Gli ufficiali gia' valutati ai sensi dell'articolo 9 della legge 15 dicembre 1959, n. 1089, giudicati idonei e non iscritti in quadro di avanzamento hanno diritto ad essere valutati per la promozione al grado superiore almeno tre volte a partire dall'entrata in vigore della presente legge, sempre che non siano frattanto raggiunti dai limiti di eta'. Nondimeno, per i primi tre anni di applicazione della presente legge, quelli fra detti ufficiali collocati in soprannumero agli organici che siano gia' stati comunque valutati per almeno tre volte sono collocati a domanda nella posizione di "a disposizione" con effetto dal 10 gennaio dell'anno successivo a quello del loro collocamento in soprannumero.
 
-### Art. 9
+## Art. 9
 
 Salvo quanto e' previsto dal secondo comma dell'articolo 1 e dai primo e dal secondo comma dell'articolo 6 della presente legge, sono abrogate tutte le precedenti disposizioni concernenti l'avanzamento degli ufficiali della Guardia di finanza.
 
-### Art. 10
+## Art. 10
 
 All'onere derivante dall'attuazione della presente legge, valutato per l'anno finanziario 1966 in lire 16.000.000 si fara' fronte mediante riduzione dello stanziamento del capitolo 1207 dello stato di previsione della spesa del Ministero delle finanze per il medesimo anno finanziario e dei corrispondenti capitoli per gli anni finanziari successivi.
 
@@ -168,7 +168,7 @@ Visto, il Guardasigilli: REALE
 
 ## DISPOSIZIONI TRANSITORIE
 
-### Tabella n. 1
+## Tabella n. 1
 
 TABELLA N. 1
 
@@ -182,7 +182,7 @@ AGGIORNAMENTO (1)
 
 la L. 10 luglio 1969, n. 375 ha disposto (con l'art. 6) che "Fermo restando l'organico complessivo dei tenenti colonnelli e dei maggiori in servizio permanente effettivo della Guardia di finanza, stabilito dalla legge 18 gennaio 1963, n. 87, e riportato nella tabella n. 1 allegata alla legge 24 ottobre 1966, n. 887, sull'avanzamento degli ufficiali in servizio permanente effettivo della Guardia di finanza, i singoli volumi organici dei tenenti colonnelli e dei maggiori sono rispettivamente fissati in 170 e 100".
 
-### Tabella n. 2
+## Tabella n. 2
 
 TABELLA N. 2
 

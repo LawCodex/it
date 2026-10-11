@@ -25,19 +25,19 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la convenzione per la creazione dell'Istituto internazionale per la gestione della tecnologia, con annesso statuto, firmata a Parigi il 6 ottobre 1971 e l'accordo di sede concluso con l'Istituto stesso a Roma il 19 febbraio 1972, integrato dallo scambio di note effettuato in Roma il 17 febbraio 1973.
 
-### Art. 2
+## Art. 2
 
 Piena ed intera esecuzione e' data agli atti internazionali indicati nell'articolo precedente, a decorrere dalla loro entrata in vigore, in conformita', rispettivamente, all'articolo 8 della convenzione ed all'articolo 13 dello accordo.
 
-### Art. 3
+## Art. 3
 
 Entro il 31 marzo di ogni anno, il Ministero degli affari esteri invia al Parlamento una relazione, nella quale sia compresa anche la valutazione del Ministero stesso, sull'attivita' svolta dall'Istituto nell'anno immediatamente precedente.
 
-### Art. 4
+## Art. 4
 
 All'onere derivante dall'attuazione della presente legge, valutato in lire 87 milioni per l'anno finanziario 1973 e lire 120 milioni per l'anno finanziario 1974, si provvede mediante riduzione di pari importo degli stanziamenti rispettivamente iscritti al capitolo 3523 dello stato di previsione della spesa del Ministero del tesoro per gli anni finanziari medesimi.
 
@@ -71,19 +71,19 @@ Preso atto che l'Organizzazione per la cooperazione e lo sviluppo economici ha a
 
 Hanno convenuto quanto segue:
 
-### Articolo 1
+## Articolo 1
 
 Creazione dell'istituto
 
 Con la presente convenzione viene costituito l'Istituto internazionale per la gestione della tecnologia, come ente a composizione mista intergovernativa e privata, senza fini di lucro, destinato all'insegnamento ed alla scienza, il cui principale scopo e' quello di assicurare la formazione superiore dei quadri e dei docenti, e di facilitare la ricerca relativa, nel campo della gestione dell'innovazione tecnologica.
 
-### Articolo 2
+## Articolo 2
 
 Disposizioni applicabili
 
 L'Istituto e' disciplinato dalla presente convenzione, dallo statuto allegato (qui di seguito denominato lo "statuto"), dal regolamento interno, dal regolamento finanziario, dal regolamento del personale nonche' dalle altre disposizioni regolamentari e decisioni debitamente adottate dagli organi dell'Istituto.
 
-### Articolo 3
+## Articolo 3
 
 Contribuzioni dei Governi
 
@@ -95,13 +95,13 @@ Contribuzioni dei Governi
 
 (3) I Governi contraenti possono versare ulteriori contribuzioni all'Istituto nella misura che essi ritengono opportuna, sempre che il contributo di ciascun Governo contraente non raggiunga una somma superiore al 30 per cento della somma globale fissata conformemente al paragrafo (2) del presente articolo, senza il consenso degli altri Governi contraenti.
 
-### Articolo 4
+## Articolo 4
 
 Privilegi e immunita'
 
 L'Istituto ha personalita' giuridica. Esso ha, in particolare, la capacita' di stipulare contratti, di acquistare e vendere beni mobili e immobili, nonche' di stare in giudizio. Il Governo del Paese in cui e' stabilita la sede dell'Istituto, conformemente all'articolo 2 dello statuto, si impegna a concludere con l'Istituto un accordo internazionale bilaterale - relativo allo status, ai privilegi e alle immunita' dell'Istituto stesso e del suo personale - da sottoporre all'approvazione dell'assemblea generale in base al disposto dell'articolo 8 (1) (i) dello statuto.
 
-### Articolo 5
+## Articolo 5
 
 Ricostituzione dell'Istituto
 
@@ -109,13 +109,13 @@ Con le modalita' previste nell'articolo 24 dello statuto, l'Istituto puo' essere
 
 La personalita' giuridica dell'Istituto dopo la sua trasformazione sara' riconosciuta dallo Stato sul territorio del quale avra' luogo la ricostituzione.
 
-### Articolo 6
+## Articolo 6
 
 Scioglimento
 
 Nel caso in cui l'Istituto sia messo in liquidazione, le sue attivita' verranno chiuse da liquidatori, nominati in conformita' di quanto e' disposto nell'articolo 8 (2) (i) dello statuto. Essi procederanno alla liquidazione degli averi dell'Istituto e all'estinzione delle sue obbligazioni. Tutte le eccedenze saranno ridistribuite fra i Governi contraenti in proporzione al totale delle contribuzioni versate all'Istituto da ciascuno di essi; tali eccedenze verranno esclusivamente adoperate a fini di pubblica utilita'; nessuna forma di dividendi o altra qualsiasi somma sara' versata ai membri dell'Istituto, ai membri del consiglio di amministrazione, ai membri del personale, funzionari, impiegati o agenti dell'istituto, ne' a persone fisiche o giuridiche che abbiano un qualsiasi interesse personale o privato nelle attivita' dell'Istituto. L'onere dell'eventuale disavanzo sara' assunto dai Governi contraenti nella stessa proporzione di quella utilizzata per il calcolo delle rispettive contribuzioni relative all'esercizio in cui avra' luogo lo scioglimento dello Istituto.
 
-### Articolo 7
+## Articolo 7
 
 Controversie
 
@@ -125,7 +125,7 @@ Controversie
 
 Scaduto inutilmente detto termine, ciascuna parte puo' portare la controversia alla decisione della Corte.
 
-### Articolo 8
+## Articolo 8
 
 Firma e ratifica, accettazione o approvazione
 
@@ -137,7 +137,7 @@ Firma e ratifica, accettazione o approvazione
 
 (4) Dopo l'entrata in vigore della presente convenzione, alle condizioni previste nel paragrafo 3 del presente articolo, la convenzione stessa diverra' operante nei confronti di ciascun Governo firmatario che la ratifichera', la accettera' o la approvera' successivamente, a decorrere dalla data in cui tale Governo depositera' il rispettivo strumento di ratifica, accettazione o approvazione.
 
-### Articolo 9
+## Articolo 9
 
 Adesione
 
@@ -147,7 +147,7 @@ Adesione
 
 (3) L'adesione si effettuera' mediante il deposito del relativo strumento presso il segretario generale dell'Organizzazione per la cooperazione e lo sviluppo economici e diventera' effettiva alla data di tale deposito.
 
-### Articolo 10
+## Articolo 10
 
 Durata della convenzione
 
@@ -159,13 +159,13 @@ Durata della convenzione
 
 (4) Dopo almeno tre anni dall'entrata in vigore della presente convenzione nei suoi confronti, ogni Governo contraente avra' la facolta' di denunciaria mediante notifica al segretario generale dell'Organizzazione per la cooperazione e lo sviluppo economici. Tale denuncia prendera' effetto alla fine dell'anno finanziario che segue quello in cui essa e' stata notificata. La denuncia della convenzione da parte di uno o piu' Governi contraenti non ne infirma la validita' rispetto agli altri Governi contraenti.
 
-### Articolo 11
+## Articolo 11
 
 Prosecuzione di determinati obblighi
 
 Il Governo contraente che recede dalla presente convenzione rimane giuridicamente debitore dell'Istituto per tutte le contribuzioni finanziarie che si era impegnato a versare e che non ha ancora versate e rimane vincolato agli obblighi assunti in base agli articoli 6 e 7 della presente convenzione.
 
-### Articolo 12
+## Articolo 12
 
 Emendamenti
 
@@ -173,7 +173,7 @@ Emendamenti
 
 (2) Gli emendamenti entreranno in vigore dopo 30 giorni dal deposito dell'ultima notifica di accettazione.
 
-### Articolo 13
+## Articolo 13
 
 Notifiche
 
@@ -197,13 +197,13 @@ Il segretario generale dell'Organizzazione per la cooperazione e lo sviluppo eco
 
 (i) la ricezione della notifica relativa all'avvenuta liquidazione dell'Istituto.
 
-### Articolo 14
+## Articolo 14
 
 Registrazione
 
 Il segretario generale dell'Organizzazione per la cooperazione e lo sviluppo economici procedera' alla registrazione della presente convenzione presso il Segretario generale delle Nazioni Unite, in conformita' a quanto e' disposto dall'articolo 102 della Carta delle Nazioni Unite.
 
-### Articolo 15
+## Articolo 15
 
 Norme transitorie
 
@@ -245,19 +245,19 @@ John CHADWICK
 
 STATUTO DELL'ISTITUTO INTERNAZIONALE PER LA GESTIONE DELLA TECNOLOGIA
 
-### Articolo 1
+## Articolo 1
 
 Scopi
 
 L'Istituto internazionale per la gestione della tecnologia (che qui di seguito verra' chiamato "Istituto") e' un ente destinato all'insegnamento ed alla scienza il cui scopo principale e' quello di assicurare la formazione superiore dei quadri e dei docenti, e di facilitare la ricerca relativa, nel campo della gestione dell'innovazione tecnologica.
 
-### Articolo 2
+## Articolo 2
 
 Sede
 
 La sede dell'Istituto e' stabilita nella citta' di Milano sul territorio della Repubblica italiana.
 
-### Articolo 3
+## Articolo 3
 
 Poteri
 
@@ -273,13 +273,13 @@ L'Istituto, agendo attraverso i suoi organi, puo' compiere tutti gli atti necess
 
 (e) raccogliere, elaborare e utilizzare dati statistici e altre informazioni; redigere, pubblicare e distribuire documenti, opuscoli, periodici e libri, nonche' utilizzare altre forme appropriate di comunicazione.
 
-### Articolo 4
+## Articolo 4
 
 Carattere non lucrativo
 
 L'Istituto e un ente senza capitale sociale e senza fini di lucro, organizzato e gestito esclusivamente per la realizzazione degli scopi previsti dal precedente articolo 1; nessuna quota dei suoi utili lordi o netti puo' andare a profitto di una qualsiasi persona fisica o giuridica. Nessun membro del personale, consulente, funzionario, docente, impiegato, agente, membro dell'istituto o altra persona fisica o giuridica puo' trarre o maturare il diritto di trarre un qualsiasi profitto pecuniario dalle attivita' svolte dall'Istituto, salvo la ragionevole rimunerazione dei servizi prestati. All'Istituto e' fatto esplicito divieto di svolgere opera di propaganda o di compiere atti che tendano in altra guisa ad influire sulla legislazione, nonche' di interferire in campagne politiche di qualsiasi genere o di parteciparvi in una qualsiasi maniera.
 
-### Articolo 5
+## Articolo 5
 
 Membri
 
@@ -301,7 +301,7 @@ Membri
 
 (6) Ogni membro governativo e' considerato essersi ritirato dall'Istituto alla data alla quale produce effetto la denuncia della convenzione da parte del Governo in questione. Ogni membro non governativo puo' ritirarsi dall'Istituto in qualsiasi momento, mediante notifica della sua intenzione di recesso al direttore generale. Tale membro cessa di far parte dell'Istituto e decade da ogni suo diritto alla data di ricezione della notifica di recesso, o alla data precisata nella notifica, se tale data e' posteriore a quella di ricezione. I membri recedenti, governativi o non governativi, sono tenuti a versare all'Istituto l'intero ammontare delle contribuzioni promesse.
 
-### Articolo 6
+## Articolo 6
 
 Organi
 
@@ -315,7 +315,7 @@ I principali organi dell'Istituto sono:
 
 ## L'ASSEMBLEA GENERALE
 
-### Articolo 7
+## Articolo 7
 
 Composizione
 
@@ -323,7 +323,7 @@ L'assemblea generale e' composta da tutti i membri dell'Istituto.
 
 L'Organizzazione per la cooperazione e lo sviluppo economici puo' essere rappresentata alle riunioni dell'Assemblea Generale ma non ha diritto di voto.
 
-### Articolo 8
+## Articolo 8
 
 Poteri
 
@@ -383,7 +383,7 @@ Poteri
 
 (3) L'assemblea generale elegge i membri del consiglio di amministrazione, conformemente a quanto e' disposto dall'articolo 10 (5). Prima delle elezioni, ciascun candidato deve indicare il nome del sostituto che fara' le sue veci in quelle riunioni alle quali egli non potra' intervenire personalmente.
 
-### Articolo 9
+## Articolo 9
 
 Riunioni
 
@@ -391,7 +391,7 @@ La prima riunione dell'assemblea generale sara' convocata dal segretario general
 
 L'assemblea generale tiene una riunione annuale e delle riunioni straordinarie che saranno convocate e si svolgeranno secondo le modalita' fissate dal regolamento interno.
 
-### Articolo 10
+## Articolo 10
 
 Diritto di voto
 
@@ -413,19 +413,19 @@ Dopo lo scadere del periodo dei sei mesi possono essere esercitati soltanto i di
 
 ## IL CONSIGLIO DI AMMINISTRAZIONE
 
-### Articolo 11
+## Articolo 11
 
 Composizione
 
 Il numero dei membri del consiglio di amministrazione e' fissato di volta in volta dall'assemblea generale, ma non puo' essere inferiore a 5 o superiore a 25. Sono eleggibili al consiglio i membri dell'Istituto, le persone da questi ultimi designate, nonche' altre persone scelte in funzione dell'attivita' che esse esercitano nei settori dell'insegnamento, della tecnologia, dell'industria, della scienza e della pubblica amministrazione. Nell'eleggere i membri del consiglio di amministrazione, l'assemblea generale deve tener conto dei vantaggi che comporta l'inclusione nel detto organo di persone provenienti dalle varie regioni geografiche rappresentate dai membri dell'Istituto. L'Organizzazione per la cooperazione e lo sviluppo economici puo' essere rappresentata alle riunioni del consiglio di amministrazione, ma non ha diritto di voto.
 
-### Articolo 12
+## Articolo 12
 
 Durata delle funzioni
 
 I membri del consiglio di amministrazione sono eletti per un triennio e possono essere rieletti. L'assemblea generale avra' cura di mantenere la continuita' nella composizione del consiglio.
 
-### Articolo 13
+## Articolo 13
 
 Poteri
 
@@ -445,7 +445,7 @@ Nell'ambito della politica determinata dall'assemblea, il consiglio di amministr
 
 (g) esercita i poteri che gli sono delegati dall'assemblea.
 
-### Articolo 14
+## Articolo 14
 
 Diritto di voto
 
@@ -455,7 +455,7 @@ Il consiglio di amministrazione delibera alla maggioranza qualificata dei due te
 
 ## IL DIRETTORE GENERALE
 
-### Articolo 15
+## Articolo 15
 
 Nomina e funzioni
 
@@ -469,7 +469,7 @@ Nomina e funzioni
 
 (5) Nell'esercizio delle sue funzioni, il direttore generale si conforma alle grandi linee tracciate dall'assemblea generale e alle direttive del consiglio di amministrazione. Egli sottopone ogni anno all'assemblea generale una relazione sulle attivita', sulla situazione finanziaria e sulle prospettive dell'Istituto.
 
-### Articolo 16
+## Articolo 16
 
 Funzioni internazionali
 
@@ -477,7 +477,7 @@ Ogni membro si impegna a rispettare il carattere strettamente internazionale del
 
 ## I GRUPPI CONSULTIVI
 
-### Articolo 17
+## Articolo 17
 
 Composizione e funzioni
 
@@ -487,7 +487,7 @@ Con l'approvazione del consiglio di amministrazione, il direttore generale deter
 
 ## LINGUE
 
-### Articolo 18
+## Articolo 18
 
 Lingue di lavoro
 
@@ -497,13 +497,13 @@ Lingue di lavoro
 
 ## PROGRAMMA, BILANCIO, FINANZIAMENTO
 
-### Articolo 19
+## Articolo 19
 
 Programma e bilancio
 
 Il direttore generale elabora il programma e il bilancio annuali nonche' il programma indicativo triennale, contenente il preventivo di spesa, che sono presentati al consiglio di amministrazione e sottoposti all'assemblea generale. Le attivita' svolte da altre organizzazioni saranno tenute nel debito conto per evitare inutili ripetizioni.
 
-### Articolo 20
+## Articolo 20
 
 Finanziamento
 
@@ -515,19 +515,19 @@ Le finanze dell'Istituto sono costituite da:
 
 (c) ogni altra entrata compatibile con gli obiettivi dell'Istituto accettata o autorizzata dal consiglio di amministrazione.
 
-### Articolo 21
+## Articolo 21
 
 0bbligazioni
 
 Ogni membro e' di diritto debitore verso l'Istituto per il totale di quanto ha promesso di versare conformemente alle condizioni dell'impegno assunto.
 
-### Articolo 22
+## Articolo 22
 
 Revisori dei conti
 
 La contabilita' dell'Istituto e' sottoposta al controllo di un consiglio composto da tre revisori dei conti, eletti dall'assemblea generale per un triennio. I revisori dei conti sono rieleggibili. Uno dei tre posti del consiglio dei revisori dei conti e' rinnovato ogni anno. La durata delle funzioni dei primi tre revisori eletti e' fissata, mediante votazione, rispettivamente ad un anno, due anni, e tre anni.
 
-### Articolo 23
+## Articolo 23
 
 Esercizio finanziario
 
@@ -535,7 +535,7 @@ Salvo decisione contraria dell'assemblea generale, lo esercizio finanziario dell
 
 ## SCIOGLIMENTO E LIQUIDAZIONE
 
-### Articolo 24
+## Articolo 24
 
 Ricostituzione
 
@@ -547,7 +547,7 @@ Ricostituzione
 
 (4) Una volta completate le formalita' inerenti alla ricostituzione, il direttore generale chiede al segretario generale dell'Organizzazione per la cooperazione e lo sviluppo economici di notificare la ricostituzione ai sensi dell'articolo 13 (f) della convenzione.
 
-### Articolo 25
+## Articolo 25
 
 Altri casi di scioglimento
 
@@ -563,7 +563,7 @@ A seguito di quanto precede, l'Istituto sara' considerato estinto a tutti i fini
 
 ## DISPOSIZIONI FINALI
 
-### Articolo 26
+## Articolo 26
 
 Controversie
 
@@ -571,7 +571,7 @@ Controversie
 
 (2) In ogni controversia insorta come esposto nel precedente paragrafo (1), le parti, entro due mesi dalla data alla quale una di esse avra' fatto conoscere all'altra che esiste una controversia, possono decidere di comune accordo di non sottoporre la controversia all'arbitrato previsto dal paragrafo (1), ma di risolverla in altro modo. Scaduto inutilmente il predetto termine, la parte che lo desideri puo' iniziare la procedura indicata nel paragrafo (1).
 
-### Articolo 27
+## Articolo 27
 
 Emendamenti
 
@@ -591,13 +591,13 @@ Considerando che l'assemblea generale dell'Istituto, conformemente all'articolo 
 
 Il Governo e l'Istituto hanno convenuto quanto segue:
 
-### Articolo 1
+## Articolo 1
 
 Personalita' giuridica
 
 L'Istituto ha personalita' giuridica. Esso ha, in particolare, la capacita' di stipulare contratti, di acquistare ed alienare beni mobili ed immobili, nonche' di stare in giudizio.
 
-### Articolo 2
+## Articolo 2
 
 Disposizioni e giurisdizione applicabili all'istituto
 
@@ -607,7 +607,7 @@ Disposizioni e giurisdizione applicabili all'istituto
 
 (3) I beni dell'Istituto, destinati alla realizzazione dei suoi fini ufficiali, sono esenti da qualsiasi provvedimento di requisizione, espropriazione e sequestro conservativo. Nessun atto di esecuzione forzata potra' aver luogo sui beni essenziali alle attivita' ufficiali dell'Istituto.
 
-### Articolo 3
+## Articolo 3
 
 Inviolabilita' e protezione
 
@@ -619,7 +619,7 @@ Inviolabilita' e protezione
 
 (4) Le disposizioni del paragrafo 1 del presente articolo relative alla inviolabilita' non si applicano alla parte dell'Istituto in cui vivono il personale e gli allievi. In caso di incendio o altro sinistro che esiga misure immediate di protezione, si presume il consenso del direttore generale per ogni accesso necessario nei locali della sede.
 
-### Articolo 4
+## Articolo 4
 
 Servizi pubblici
 
@@ -627,7 +627,7 @@ Servizi pubblici
 
 (2) Ove il gas, l'elettricita', l'acqua o gli altri servizi siano forniti dai competenti servizi pubblici italiani, o da enti da essi controllati, l'Istituto beneficera' di tariffe che non saranno superiori a quelle applicate ad universita' o ad istituti scientifici situati nella zona di Milano.
 
-### Articolo 5
+## Articolo 5
 
 Esenzione dai controlli finanziari Senza essere sottoposto ad alcun controllo, divieto e regolamento finanziario:
 
@@ -635,7 +635,7 @@ Esenzione dai controlli finanziari Senza essere sottoposto ad alcun controllo, d
 
 (b) l'Istituto puo', per scopi ufficiali, trasferire liberamente i propri fondi fuori della Repubblica italiana nonche' convertire ogni moneta posseduta in qualsiasi altra moneta.
 
-### Articolo 6
+## Articolo 6
 
 Regime fiscale e doganale
 
@@ -653,7 +653,7 @@ Regime fiscale e doganale
 
 (7) Le esenzioni previste nel presente articolo non si applicano alle imposte e tasse che costituiscono il corrispettivo per servizi resi.
 
-### Articolo 7
+## Articolo 7
 
 Riunioni
 
@@ -661,13 +661,13 @@ Il Governo riconosce all'Istituto il diritto di convocare e tenere riunioni nell
 
 Il Governo adottera' le misure necessarie ad assicurare che, nel corso di tali riunioni, non sia posto alcun ostacolo alla liberta' di parola.
 
-### Articolo 8
+## Articolo 8
 
 Pubblicazioni
 
 Il Governo riconosce il diritto dell'Istituto a pubblicare i risultati delle ricerche svolte dall'Istituto.
 
-### Articolo 9
+## Articolo 9
 
 Status dei membri del personale
 
@@ -701,7 +701,7 @@ Status dei membri del personale
 
 (7) L'Istituto ed i membri del suo personale collaboreranno con le competenti autorita' italiane per facilitare il buon corso della giustizia, per garantire l'osservanza dei regolamenti di polizia e prevenire qualunque abuso in relazione ai privilegi ed alle immunita' concessi dal presente accordo.
 
-### Articolo 10
+## Articolo 10
 
 Privilegi ed immunita' dei rappresentanti dei membri governativi
 
@@ -715,13 +715,13 @@ Privilegi ed immunita' dei rappresentanti dei membri governativi
 
 (2) I nomi di detti rappresentanti saranno comunicati dal direttore generale al Ministero degli affari esteri italiano.
 
-### Articolo 11
+## Articolo 11
 
 Ingresso, soggiorno e partenza
 
 Salva restando l'applicazione delle norme in vigore relative all'ordine pubblico ed alla sicurezza, il Governo facilita l'ingresso, il soggiorno e la partenza di tutte le persone ufficialmente invitate a recarsi allo Istituto.
 
-### Articolo 12
+## Articolo 12
 
 Definizione delle controversie
 
@@ -729,13 +729,13 @@ Definizione delle controversie
 
 (2) Tutte le controversie tra l'istituto ed il Governo relative all'interpretazione o all'applicazione del presente accordo, che non siano risolte mediante negoziati o altro modo di risoluzione convenuto, saranno sottoposte ad un tribunale composto da tre arbitri, di cui uno scelto dal direttore generale, l'altro dal Ministro per gli affari esteri della Repubblica italiana ed il terzo, che presiedera' il tribunale, scelto dai primi due. Nel caso in cui i primi due arbitri non riuscissero a designare di comune accordo il terzo, questi sara' designato, a domanda di una delle parti contraenti, dal Presidente della Corte internazionale di giustizia.
 
-### Articolo 13
+## Articolo 13
 
 Entrata in vigore
 
 Il presente accordo entrera' in vigore alla data in cui il Governo informera' per iscritto l'istituto che tutte le formalita' necessarie, a tal fine previste dall'ordinamento italiano, sono state adempiute.
 
-### Articolo 14
+## Articolo 14
 
 Durata dell'accordo
 
@@ -755,7 +755,7 @@ gestione della tecnologia
 
 Il direttore generale: Juergen SEETZEN
 
-### Scambio di note
+## Scambio di note
 
 Roma, li' 17 febbraio 1973;
 

@@ -30,7 +30,7 @@ la seguente legge:
 
 ## Capo I - Misure di prevenzione personali
 
-##### Art. 1
+### Art. 1
 
 Soggetti destinatari
 
@@ -84,7 +84,7 @@ i-ter) ai soggetti indiziati del delitto di cui all'articolo 612-bis del codice 
 
 > i-ter) ai soggetti indiziati del delitto di cui all'articolo 612-bis del codice penale.».
 
-##### Art. 2
+### Art. 2
 
 Procedimento di applicazione delle misure di prevenzione personali
 
@@ -230,7 +230,7 @@ b) al comma 8, dopo le parole: «all'interessato» sono aggiunte le seguenti: «
 
 > 8\. Il provvedimento e' comunicato al procuratore della Repubblica, al procuratore generale presso la Corte di appello ed all'interessato e al suo difensore.».
 
-##### Art. 3
+### Art. 3
 
 Impugnazione delle misure di prevenzione personali
 
@@ -274,7 +274,7 @@ e) dopo il comma 3 e' inserito il seguente:
 
 > 4\. Salvo quando e' stabilito nel presente decreto, per la proposizione e la decisione dei ricorsi, si osservano in quanto applicabili, le norme del codice di procedura penale riguardanti la proposizione e la decisione dei ricorsi relativi all'applicazione delle misure di sicurezza.».
 
-##### Art. 4
+### Art. 4
 
 Sorveglianza speciale
 
@@ -298,7 +298,7 @@ Sorveglianza speciale
 
 ## Capo II - Misure di prevenzione patrimoniali
 
-##### Art. 5
+### Art. 5
 
 Procedimento di applicazione delle misure di prevenzione patrimoniali
 
@@ -454,7 +454,7 @@ Il termine resta altresi' sospeso per il tempo necessario per la decisione defin
 
 > Sulla richiesta provvede lo stesso tribunale che ha disposto la misura di prevenzione personale, con le forme previste per il relativo procedimento e rispettando le disposizioni del presente titolo.».
 
-##### Art. 6
+### Art. 6
 
 Impugnazione delle misure di prevenzione patrimoniali
 
@@ -492,7 +492,7 @@ c) dopo il comma 6 e' aggiunto il seguente:
 
 > 6-bis. Nel caso di annullamento del decreto di confisca con rinvio al tribunale, anche ove disposto ai sensi dei commi 2-bis e 3-bis dell'articolo 10, il termine previsto dal comma 2 dell'articolo 24 decorre nuovamente dalla ricezione degli atti presso la cancelleria del tribunale stesso.».
 
-##### Art. 7
+### Art. 7
 
 Revocazione della confisca
 
@@ -522,7 +522,7 @@ b) il comma 4 e' sostituito dal seguente:
 
 > 4\. Quando accoglie la richiesta di revocazione, la corte di appello provvede, ove del caso, ai sensi dell'articolo 46.».
 
-##### Art. 8
+### Art. 8
 
 Rapporti con sequestro e confisca
 
@@ -546,7 +546,7 @@ b) al comma 3, le parole da: «il tribunale» fino alla fine del comma sono sost
 
 > 5\. Le disposizioni di cui ai commi 1 e 2 si applicano anche nel caso in cui il sequestro disposto nel corso di un giudizio penale sopravvenga al sequestro o alla confisca di prevenzione.».
 
-##### Art. 9
+### Art. 9
 
 Cauzione
 
@@ -566,7 +566,7 @@ Cauzione
 
 > 5\. Le misure patrimoniali cautelari previste dal presente articolo mantengono la loro efficacia per tutta la durata della misura di prevenzione e non possono essere revocate, neppure in parte, se non per comprovate gravi necessita' personali o familiari.».
 
-##### Art. 10
+### Art. 10
 
 Amministrazione giudiziaria dei beni connessi ad attivita' economiche
 
@@ -588,7 +588,7 @@ Qualora oggetto della misura siano beni immobili o altri beni soggetti a iscrizi
 
 7\. Quando vi sia concreto pericolo che i beni sottoposti al provvedimento di cui al comma 1 vengano dispersi, sottratti o alienati, nei casi in cui si ha motivo di ritenere che i beni siano frutto di attivita' illecite o ne costituiscano l'impiego, i soggetti di cui all'articolo 17 possono richiedere al tribunale di disporne il sequestro, osservate, in quanto applicabili, le disposizioni previste dal presente titolo. Il sequestro e' disposto sino alla scadenza del termine stabilito a norma del comma 2».
 
-##### Art. 11
+### Art. 11
 
 Controllo giudiziario delle aziende
 
@@ -622,7 +622,7 @@ e) di assumere qualsiasi altra iniziativa finalizzata a prevenire specificamente
 
 7\. Il provvedimento che dispone l'amministrazione giudiziaria prevista dall'articolo 34 o il controllo giudiziario ai sensi del comma 6 del presente articolo sospende gli effetti di cui all'articolo 94».
 
-##### Art. 12
+### Art. 12
 
 Trattazione dei procedimenti di prevenzione patrimoniale
 
@@ -636,11 +636,9 @@ Art. 34-ter. (Trattazione prioritaria dei procedimenti di prevenzione patrimonia
 
 2\. I dirigenti degli uffici giudicanti e requirenti adottano i provvedimenti organizzativi necessari per assicurare la trattazione e la definizione prioritaria dei procedimenti di cui al comma 1 e il rispetto dei termini previsti. I provvedimenti sono tempestivamente comunicati al consiglio giudiziario e al Consiglio superiore della magistratura. Il dirigente dell'ufficio comunica, sulla base delle indicazioni del Consiglio superiore della magistratura, con cadenza annuale, a tale organo e al Ministero della giustizia i dati sulla durata dei relativi procedimenti. Il Consiglio superiore della magistratura e il Ministero della giustizia valutano gli effetti dei provvedimenti adottati dai dirigenti degli uffici sulla trattazione prioritaria, sulla durata e sul rispetto dei termini dei procedimenti indicati al comma 1. In sede di comunicazioni sull'amministrazione della giustizia, ai sensi dell'articolo 86 dell'ordinamento giudiziario, di cui al regio decreto 30 gennaio 1941, n. 12, e successive modificazioni, il Ministro della giustizia riferisce alle Camere in merito alla trattazione dei procedimenti di cui al comma 1 del presente articolo».
 
-## Capo III - Amministrazione, gestione e destinazione di beni sequestrati e
+## Capo III - Amministrazione, gestione e destinazione di beni sequestrati e confiscati
 
-### confiscati
-
-##### Art. 13
+### Art. 13
 
 Amministrazione dei beni sequestrati
 
@@ -800,7 +798,7 @@ L'Agenzia provvede all'approvazione del nuovo rendiconto della gestione.
 
 > 1-bis. A tal fine, dopo che il giudice delegato lo ha autorizzato a stare in giudizio, l'amministratore giudiziario inoltra richiesta per via telematica all'Avvocatura dello Stato. Ove l'Avvocato generale dello Stato non si esprima entro cinque giorni, il giudice delegato puo' autorizzare la nomina di un libero professionista.».
 
-##### Art. 14
+### Art. 14
 
 Gestione di beni e aziende sequestrati
 
@@ -948,7 +946,7 @@ e) il comma 6 e' sostituito dai seguenti:
 
 > 6-bis. Con decreto del Ministro della giustizia, di concerto con il Ministro dello sviluppo economico, sono stabilite le modalita' semplificate di liquidazione o di cessazione dell'impresa, in particolare qualora sia priva di beni aziendali.».
 
-##### Art. 15
+### Art. 15
 
 Strumenti finanziari in favore delle aziende sequestrate e confiscate
 
@@ -1016,7 +1014,7 @@ L'accesso alle risorse delle sezioni di cui alle lettere a) e b) del comma 196 d
 
 > 12\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.».
 
-##### Art. 16
+### Art. 16
 
 Tavoli provinciali permanenti e supporto delle aziende sequestrate e confiscate
 
@@ -1066,7 +1064,7 @@ Art. 41-quater. (Supporto delle aziende sequestrate o confiscate).
 
 3\. Nella gestione dell'azienda l'amministratore giudiziario, previa autorizzazione scritta del giudice delegato, e l'Agenzia possono altresi' avvalersi del supporto tecnico delle camere di commercio, industria, artigianato e agricoltura per favorire il collegamento dell'azienda sequestrata o confiscata in raggruppamenti e in reti d'impresa».
 
-##### Art. 17
+### Art. 17
 
 Rendiconto e gestione dei beni confiscati
 
@@ -1106,7 +1104,7 @@ Il giudice delegato, all'esito degli eventuali chiarimenti richiesti, prende att
 
 > 2\. L'Agenzia richiede al giudice delegato il nulla osta al compimento degli atti di cui all'articolo 40, comma 3.».
 
-##### Art. 18
+### Art. 18
 
 Destinazione dei beni confiscati
 
@@ -1272,7 +1270,7 @@ g) dopo il comma 15 sono aggiunti i seguenti:
 
 > 15-ter. Per la destinazione dei beni immobili confiscati gia' facenti parte del patrimonio aziendale di societa' le cui partecipazioni sociali siano state confiscate in via totalitaria o siano comunque tali da assicurare il controllo della societa', si applicano le disposizioni di cui al comma 3. L'Agenzia, con delibera del Consiglio direttivo, puo' dichiarare, tuttavia, la natura aziendale dei predetti immobili, ordinando al conservatore dei registri immobiliari la cancellazione di tutte le trascrizioni pregiudizievoli al fine di assicurare l'intestazione del bene in capo alla medesima societa'. In caso di vendita di beni aziendali, si applicano le disposizioni di cui al comma 5.».
 
-##### Art. 19
+### Art. 19
 
 Regime fiscale e oneri economici
 
@@ -1296,7 +1294,7 @@ Regime fiscale e oneri economici
 
 ## Capo IV - Tutela dei terzi e rapporti con le procedure concorsuali
 
-##### Art. 20
+### Art. 20
 
 Disposizioni generali per la tutela dei terzi
 
@@ -1406,7 +1404,7 @@ b) il comma 4 e' sostituito dal seguente:
 
 > 5\. In caso di scioglimento del contratto preliminare di vendita immobiliare, trascritto ai sensi dell'articolo 2645-bis del codice civile, l'acquirente ha diritto di far valere il proprio credito secondo le disposizioni del capo II del presente titolo e gode del privilegio previsto nell'articolo 2775-bis del codice civile a condizione che gli effetti della trascrizione del contratto preliminare non siano cessati anteriormente alla data del sequestro. Al promissario acquirente non e' dovuto alcun risarcimento o indennizzo.».
 
-##### Art. 21
+### Art. 21
 
 Accertamento dei diritti dei terzi
 
@@ -1570,7 +1568,7 @@ d) il comma 8 e' sostituito dal seguente:
 
 > 10\. I creditori che hanno percepito pagamenti non dovuti, devono restituire le somme riscosse, oltre agli interessi legali dal momento del pagamento effettuato a loro favore. In caso di mancata restituzione, le somme sono pignorate secondo le forme stabilite per i beni mobili dal codice di procedura civile.».
 
-##### Art. 22
+### Art. 22
 
 Rapporto con le procedure concorsuali
 
@@ -1656,7 +1654,7 @@ e) i commi 6 e 7 sono sostituiti dai seguenti:
 
 > 11\. Se il sequestro o la confisca sono revocati dopo la chiusura del fallimento, si provvede ai sensi dell'articolo 63, comma 7.».
 
-##### Art. 23
+### Art. 23
 
 Modifica all'articolo 71 del decreto legislativo 6 settembre 2011, n. 159
 
@@ -1672,7 +1670,7 @@ Modifica all'articolo 71 del decreto legislativo 6 settembre 2011, n. 159
 
 > 3\. Alla pena e' aggiunta una misura di sicurezza detentiva.».
 
-##### Art. 24
+### Art. 24
 
 Modifiche all'articolo 76 del decreto legislativo 6 settembre 2011, n. 159
 
@@ -1710,7 +1708,7 @@ Modifiche all'articolo 76 del decreto legislativo 6 settembre 2011, n. 159
 
 > Dall'interdizione dai pubblici uffici consegue l'ineleggibilita' del condannato per la stessa durata della pena detentiva. La sospensione condizionale della pena non ha effetto ai fini dell'interdizione dai pubblici uffici.».
 
-##### Art. 25
+### Art. 25
 
 Modifiche all'articolo 83 del decreto legislativo 6 settembre 2011, n. 159. Disposizioni in materia di acquisizione della documentazione antimafia per i terreni agricoli e zootecnici che usufruiscono di fondi europei
 
@@ -1748,7 +1746,7 @@ c) dopo il comma 3 e' aggiunto il seguente:
 
 > 3-bis. La documentazione di cui al comma 1 e' sempre prevista nelle ipotesi di concessione di terreni agricoli e zootecnici demaniali che ricadono nell'ambito dei regimi di sostegno previsti dalla politica agricola comune, a prescindere dal loro valore complessivo, nonche' su tutti i terreni agricoli, a qualunque titolo acquisiti, che usufruiscono di fondi europei.».
 
-##### Art. 26
+### Art. 26
 
 Modifica all'articolo 84 del decreto legislativo 6 settembre 2011, n. 159
 
@@ -1780,7 +1778,7 @@ Modifica all'articolo 84 del decreto legislativo 6 settembre 2011, n. 159
 
 > 4-bis. La circostanza di cui al comma 4, lettera c), deve emergere dagli indizi a base della richiesta di rinvio a giudizio formulata nei confronti dell'imputato e deve essere comunicata, unitamente alle generalita' del soggetto che ha omesso la predetta denuncia, dal procuratore della Repubblica procedente alla prefettura della provincia in cui i soggetti richiedenti di cui all'articolo 83, commi 1 e 2, hanno sede ovvero in cui hanno residenza o sede le persone fisiche, le imprese, le associazioni, le societa' o i consorzi interessati ai contratti e subcontratti di cui all'articolo 91, comma 1, lettere a) e c) o che siano destinatari degli atti di concessione o erogazione di cui alla lettera b) dello stesso comma 1.».
 
-##### Art. 27
+### Art. 27
 
 Modifica all'articolo 85 del decreto legislativo 6 settembre 2011, n. 159
 
@@ -1822,7 +1820,7 @@ Modifica all'articolo 85 del decreto legislativo 6 settembre 2011, n. 159
 
 > 3\. L'informazione antimafia deve riferirsi anche ai familiari conviventi di maggiore eta' dei soggetti di cui ai commi 1, 2, 2-bis, 2-ter e 2-quater.».
 
-##### Art. 28
+### Art. 28
 
 Acquisizione dell'informazione antimafia per i terreni agricoli che usufruiscono di fondi europei
 
@@ -1888,11 +1886,9 @@ Acquisizione dell'informazione antimafia per i terreni agricoli che usufruiscono
 
 > l) agli uffici delle Agenzie delle entrate, competenti per il luogo dove ha sede legale l'impresa nei cui confronti e' stato richiesto il rilascio dell'informazione antimafia.».
 
-## Capo V - Agenzia nazionale per l'amministrazione e la destinazione dei beni
+## Capo V - Agenzia nazionale per l'amministrazione e la destinazione dei beni sequestrati e confiscati alla criminalita' organizzata
 
-### sequestrati e confiscati alla criminalita' organizzata
-
-##### Art. 29
+### Art. 29
 
 Disposizioni sull'Agenzia nazionale per l'amministrazione e la destinazione dei beni sequestrati e confiscati alla criminalita' organizzata
 
@@ -2056,13 +2052,9 @@ Art. 113-ter. (Incarichi speciali). - 1. In aggiunta al personale di cui all'art
 
 6\. Restano fermi i diritti acquisiti dal personale che, alla data di entrata in vigore della presente legge, e' inquadrato nei ruoli dell'Agenzia nazionale per l'amministrazione e la destinazione dei beni sequestrati e confiscati alla criminalita' organizzata, ai sensi dell'articolo 1, comma 191, della legge 24 dicembre 2012, n. 228.
 
-## Capo VI - Modifiche al codice penale, al codice di procedura penale e alla
+## Capo VI - Modifiche al codice penale, al codice di procedura penale e alla legislazione complementare. Deleghe al Governo per la disciplina del regime di incompatibilita' relativo agli uffici di amministratore giudiziario e di curatore fallimentare e per la tutela del lavoro nelle aziende sequestrate e confiscate
 
-### legislazione complementare. Deleghe al Governo per la disciplina del - regime di incompatibilita' relativo agli uffici di amministratore
-
-#### giudiziario e di curatore fallimentare e per la tutela del lavoro - nelle aziende sequestrate e confiscate
-
-##### Art. 30
+### Art. 30
 
 Modifiche al codice penale, alle norme di attuazione, di coordinamento e transitorie del codice di procedura penale e all'articolo 25-duodecies del decreto legislativo 8 giugno 2001, n. 231
 
@@ -2114,7 +2106,7 @@ b) dopo il comma 1 sono aggiunti i seguenti:
 
 > 1-quater. Nei casi di condanna per i delitti di cui ai commi 1-bis e 1-ter del presente articolo, si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, per una durata non inferiore a un anno.».
 
-##### Art. 31
+### Art. 31
 
 Modifiche all'articolo 12-sexies del decreto-legge 8 giugno 1992, n. 306, convertito, con modificazioni, dalla legge 7 agosto 1992, n. 356
 
@@ -2198,7 +2190,7 @@ L'opposizione ai provvedimenti adottati, ove consentita, e' presentata, nelle fo
 
 > L'opposizione ai provvedimenti adottati, ove consentita, e' presentata, nelle forme dell'articolo 666 del codice di procedura penale, allo stesso giudice ovvero, nel caso di provvedimento del giudice delegato, al collegio.».
 
-##### Art. 32
+### Art. 32
 
 Modifica all'articolo 4 della legge 22 dicembre 1999, n. 512
 
@@ -2248,7 +2240,7 @@ d) dall'insussistenza nei confronti del presidente o del rappresentante legale d
 
 > 4-bis. Le disposizioni di cui ai commi 3 e 4 si applicano anche quando la sentenza di condanna o la misura di prevenzione o i relativi procedimenti in corso si riferiscono al soggetto deceduto in conseguenza della consumazione dei reati indicati al comma 1, salvo che lo stesso abbia assunto, precedentemente all'evento lesivo che ne ha cagionato la morte, la qualita' di collaboratore di giustizia ai sensi delle vigenti disposizioni di legge e non sia intervenuta revoca del provvedimento di ammissione ai programmi di protezione per cause imputabili al soggetto medesimo.».
 
-##### Art. 33
+### Art. 33
 
 Modifiche all'articolo 7-bis del regio decreto 30 gennaio 1941, n. 12. Delega al Governo per la disciplina del regime di incompatibilita' relativo agli uffici di amministratore giudiziario e di curatore fallimentare
 
@@ -2302,7 +2294,7 @@ b) prevedere che il presidente della corte di appello eserciti la vigilanza sull
 
 > 3-sexies. Per la formazione ed approvazione delle tabelle di cui al comma 3-bis, si osservano le procedure previste dal comma 2.».
 
-##### Art. 34
+### Art. 34
 
 Delega al Governo per la tutela del lavoro nell'ambito delle imprese sequestrate e confiscate
 
@@ -2404,7 +2396,7 @@ g) a seguito del provvedimento adottato per la prosecuzione dell'impresa ai sens
 
 ## Capo VII - Disposizioni di attuazione e transitorie
 
-##### Art. 35
+### Art. 35
 
 Disposizioni di attuazione relative alle modifiche al decreto legislativo 6 settembre 2011, n. 159
 
@@ -2468,7 +2460,7 @@ b) sono istituiti o nominati gli organi previsti dal decreto legislativo 6 sette
 
 > c) alle verifiche di cassa con frequenza almeno trimestrale.».
 
-##### Art. 36
+### Art. 36
 
 Disposizioni transitorie
 
@@ -2488,7 +2480,7 @@ Disposizioni transitorie
 
 > \- Per il testo dell'articolo 24 del decreto legislativo 6 settembre 2011, n. 159, si veda nelle note all'articolo 5.
 
-##### Art. 37
+### Art. 37
 
 Interpretazione autentica dell'articolo 1, commi da 194 a 206, della legge 24 dicembre 2012, n. 228
 
@@ -2500,7 +2492,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza, 10 gennaio - 10 febbraio 2023 n. 18, (in G.U. 1ª s.s. 15/02/2023, n. 7) ha dichiarato "l'illegittimita' costituzionale dell'art. 37, primo periodo, della legge 17 ottobre 2017, n. 161 (Modifiche al codice delle leggi antimafia e delle misure di prevenzione, di cui al decreto legislativo 6 settembre 2011, n. 159, al codice penale e alle norme di attuazione, di coordinamento e transitorie del codice di procedura penale e altre disposizioni. Delega al Governo per la tutela del lavoro nelle aziende sequestrate e confiscate), nella parte in cui non esclude che il termine di decadenza di cui all'art. 1, commi 199 e 205, della legge 24 dicembre 2012, n. 228, recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (Legge di stabilita' 2013)» possa decorrere prima dell'entrata in vigore del menzionato art. 37".
 
-##### Art. 38
+### Art. 38
 
 Disposizioni finanziarie
 

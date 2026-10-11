@@ -26,11 +26,9 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO PRIMO
+## CAPO PRIMO - Amministrazione centrale
 
-### Amministrazione centrale
-
-#### Art. 1
+### Art. 1
 
 Il Ministero del lavoro e della previdenza sociale e' costituito dalle seguenti Direzioni generali:
 
@@ -46,7 +44,7 @@ Il Ministero del lavoro e della previdenza sociale e' costituito dalle seguenti 
 
 6\) Direzione generale della cooperazione.
 
-#### Art. 2
+### Art. 2
 
 Sono organi periferici del Ministero del lavoro e della previdenza sociale:
 
@@ -54,11 +52,9 @@ a) l'Ispettorato del lavoro;
 
 b) gli Uffici del lavoro e della massima occupazione.
 
-## CAPO SECONDO
+## CAPO SECONDO - Ispettorato del lavoro
 
-### Ispettorato del lavoro
-
-#### Art. 3
+### Art. 3
 
 L'Ispettorato del lavoro e' costituito da:
 
@@ -88,7 +84,7 @@ AGGIORNAMENTO (7)
 
 Il D.Lgs. 9 aprile 2008, n. 81, come modificato dal D.Lgs. 3 agosto 2009, n. 106 (in S.O. n. 142 relativo alla G.U. 05/08/2009, n. 180) ha disposto (con l'art. 304, comma 1, lettera d-bis)) che "Fermo restando quanto previsto dall'articolo 3, comma 3, e dall'articolo 306, comma 2, dalla data di entrata in vigore del presente decreto legislativo sono abrogati: [. . .] d-bis) la lettera c) del terzo comma dell'articolo 3, della legge 22 luglio 1961, n. 628".
 
-#### Art. 4
+### Art. 4
 
 L'Ispettorato del lavoro ha il compito:
 
@@ -118,23 +114,23 @@ Analoga facolta' compete nei confronti delle persone autorizzate, ai termini del
 
 Coloro che, legalmente richiesti dall'Ispettorato di fornire notizie a norma del presente articolo, non le forniscano o le diano scientemente errate ed incomplete, ((sono puniti con l'arresto fino a due mesi o con l'ammenda fino a lire un milione)).
 
-#### Art. 5
+### Art. 5
 
 Ferme le disposizioni di cui agli articoli 8, 9, 10 e 11 del decreto del Presidente della Repubblica 19 marzo 1955, n. 520, all'Ispettorato del lavoro e' affidato il compito di regolare e disciplinare l'attivita' di assistenza e di vigilanza esercitata dall'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro, dall'Istituto nazionale della previdenza sociale, dallo Istituto nazionale per l'assicurazione contro le malattie, tenendo conto sia delle esigenze dei servizi previdenziali, sia di quelle delle aziende, al fine di evitare pluralita' di accertamenti, difformita' di trattamento ed ingiustificati intralci al normale ritmo dell'attivita' produttiva.
 
 Gli istituti di cui al comma precedente devono comunicare all'Ispettorato del lavoro competente per territorio, di volta in volta, 48 ore prima del loro inizio, gli accertamenti che intendono effettuare; gli accertamenti stessi potranno aver luogo ove nel termine suddetto l'Ispettorato non abbia espresso contrario avviso.
 
-#### Art. 6
+### Art. 6
 
 Alle spese occorrenti per il funzionamento dello Ispettorato del lavoro, comprese quelle derivanti dall'applicazione della presente legge, si provvede con i mezzi e con le modalita', di cui all'articolo 12 del decreto del Presidente della Repubblica 19 marzo 1955, n. 520.
 
-#### Art. 7
+### Art. 7
 
 Alla direzione degli Ispettorati regionali e provinciali del lavoro sono preposti impiegati della carriera direttiva dell'ispettorato del lavoro, che rivestano, rispettivamente, qualifica non inferiore ad ispettore capo e ad ispettore superiore.
 
 Alla direzione dell'ispettorato medico centrale e' preposto un impiegato della carriera direttiva dell'Ispettorato del lavoro munito della laurea in medicina, che rivesta qualifica non inferiore ad ispettore capo.
 
-#### Art. 8
+### Art. 8
 
 Per esigenze di servizio, il Ministro per il lavoro e la previdenza sociale, sentito il Consiglio di amministrazione e col consenso dell'interessato, puo' assegnare al personale amministrativo delle carriere direttiva e di concetto dell'Ispettorato del lavoro la qualifica ispettiva, o viceversa, con il conseguente cambiamento di mansioni.
 
@@ -162,19 +158,17 @@ AGGIORNAMENTO (3)
 
 Il D.P.R. 28 dicembre 1970, n. 1077 ha disposto (con l'art. 153, comma 2) che la modifica ha effetto dal 1 luglio 1970.
 
-#### Art. 9
+### Art. 9
 
 ((ARTICOLO ABROGATO DALLA L. 15 NOVEMBRE 1973, N. 734))
 
-#### Art. 10
+### Art. 10
 
 ((ARTICOLO ABROGATO DALLA L. 15 NOVEMBRE 1973, N. 734))
 
-## CAPO TERZO
+## CAPO TERZO - Uffici del lavoro e della massima occupazione.
 
-### Uffici del lavoro e della massima occupazione.
-
-#### Art. 11
+### Art. 11
 
 Gli Uffici del lavoro e della massima occupazione sono costituiti da:
 
@@ -202,7 +196,7 @@ Spetta in ogni caso alla Direzione generale degli affari generali e del personal
 
 Con le norme regolamentari di cui al successivo articolo 19 sara' provveduto alla organizzazione, unitaria dei servizi degli Uffici del lavoro e della massima occupazione al fine di assicurare il coordinamento dei servizi stessi nell'ambito della Direzione generale degli affari generali e del personale.
 
-#### Art. 12
+### Art. 12
 
 Gli Uffici regionali del lavoro e della massima occupazione svolgono, nell'ambito della circoscrizione regionale, le seguenti funzioni:
 
@@ -242,13 +236,13 @@ I centri di emigrazione provvedono alla assistenza in genere dei lavoratori che 
 
 Le sezioni zonali, comunali e frazionali degli Uffici del lavoro e della massima occupazione espletano, nell'ambito della propria circoscrizione territoriale, il collocamento della manodopera e i servizi di competenza dei predetti Uffici da questi ad esse demandati, nonche' i compiti che nel settore della previdenza e dell'assistenza sociale sono loro affidati ai sensi dello articolo 1, secondo comma, della legge 16 maggio 1956, n. 562.
 
-#### Art. 13
+### Art. 13
 
 Alla direzione degli Uffici regionali del lavoro e della massima occupazione e degli Uffici speciali istituiti ai sensi dell'articolo 23 della legge 29 aprile 1949, n. 264, sono preposti impiegati del ruolo della carriera direttiva degli Uffici del lavoro e della massima occupazione che rivestano qualifica non inferiore a direttore capo.
 
 Alla direzione degli Uffici provinciali del lavoro e della massima occupazione e dei centri di emigrazione sono proposti impiegati del ruolo predetto che rivestano qualifica non inferiore a direttore.
 
-#### Art. 14
+### Art. 14
 
 L'articolo 4 della legge 16 maggio 1956, n. 562, e' sostituito dal seguente:
 
@@ -266,15 +260,13 @@ I concorsi possono essere effettuati anche limitatamente agli Uffici aventi sede
 
 Nei concorsi per collocatore di 3ª classe un terzo dei posti e' riservato ai corrispondenti in servizio, provvisti dei titoli e dei requisiti di cui al quarto comma del presente articolo".
 
-#### Art. 15
+### Art. 15
 
 ((ARTICOLO ABROGATO DALLA L. 15 NOVEMBRE 1973, N. 734))
 
-## CAPO QUARTO
+## CAPO QUARTO - Norme generali
 
-### Norme generali
-
-#### Art. 16
+### Art. 16
 
 I quadri 17, 35, 55 e 75, relativi al Ministero del lavoro e della previdenza sociale, annessi al decreto del Presidente della Repubblica 11 gennaio 1956, n. 16, per la parte in cui sono riprodotti i ruoli organici del personale della Amministrazione centrale; la tabella A allegata alla legge 30 luglio 1959, n. 696, relativa al trattamento economico del personale a contratto dell'ex Commissariato per le migrazioni e la colonizzazione; la tabella dei ruoli dell'Ispettorato del lavoro, annessa al decreto del Presidente della Repubblica 29 novembre 1956, n. 1563; nonche' le tabelle D, E, F, G, allegate alla legge 22 dicembre 1960, n. 1600, sono sostituiti dalle tabelle A, A-bis, B e C allegate alla presente legge.
 
@@ -282,7 +274,7 @@ Gli organici previsti nelle tabelle predette avranno attuazione dalle date in ci
 
 Gli impiegati provenienti dai ruoli del soppresso Ministero dell'Africa italiana, inquadrati nei ruoli aggiunti o posti aggiunti, istituiti ai sensi del decreto del Presidente della Repubblica 30 novembre 1954, n. 1496, presso il Ministero del lavoro e della previdenza sociale - Ispettorato del lavoro - sono collocati nelle corrispondenti, qualifiche del ruolo ordinario di cui alla tabella. B annessa alla presente legge, conservando a tutti gli effetti l'anzianita' di qualifica e di carriera.
 
-#### Art. 17
+### Art. 17
 
 Per le assunzioni nella qualifica di consigliere di 3ª classe nel ruolo della carriera direttiva dell'Amministrazione centrale, da effettuarsi mediante pubblici concorsi per esami, e' richiesto il possesso della laurea in giurisprudenza, o in economia e commercio o in scienze politiche.
 
@@ -310,7 +302,7 @@ Per le assunzioni nei ruoli delle carriere del personale ausiliario, da effettua
 
 Per le assunzioni di cui al presente articolo e' inoltre richiesto il possesso dei requisiti stabiliti dall'articolo 2 del testo unico approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
 
-#### Art. 18
+### Art. 18
 
 I rappresentanti del personale nel Consiglio di amministrazione del Ministero del lavoro e della previdenza sociale sono stabiliti in numero di tre, di cui uno appartenente al ruolo dell'Amministrazione centrale, uno al ruolo dell'Ispettorato del lavoro e uno al ruolo degli Uffici del lavoro e della massima occupazione.((2))
 
@@ -322,25 +314,23 @@ AGGIORNAMENTO (2)
 
 La L. 10 gennaio 1968, n. 8 ha disposto (con l'art. 3, comma 1) che "I rappresentanti del personale nel consiglio di amministrazione del Ministero del lavoro e della previdenza sociale di cui al primo comma dell'articolo 18 della legge 22 luglio 1961, n. 628, sono stabiliti in numero di quattro, di cui uno appartenente al ruolo dei collocatori".
 
-#### Art. 19
+### Art. 19
 
 Con decreto del Presidente della Repubblica, sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto con quello per il tesoro, previo parere del Consiglio di Stato, saranno emanate le norme regolamentari necessarie a disciplinare l'organizzazione e il funzionamento dei servizi del Ministero del lavoro e della previdenza sociale.
 
-## CAPO QUINTO
+## CAPO QUINTO - Norme transitorie e finali
 
-### Norme transitorie e finali
-
-#### Art. 20
+### Art. 20
 
 Per gli impiegati non di ruolo che alla data di entrata in vigore della presente legge prestino servizio, per legittimo atto di nomina, alle dipendenze del Ministero del lavoro e della previdenza sociale, i quali, dopo sei mesi dall'entrata in vigore della presente legge, non abbiano ancora maturato l'anzianita' necessaria per il collocamento nei rispettivi ruoli aggiunti, il periodo di servizio prescritto dal primo comma dell'articolo 1 del decreto legislativo 7 aprile 1948, n. 262, e' ridotto alla meta'.
 
 Il collocamento nei ruoli aggiunti degli impiegati predetti non potra' in ogni caso avere decorrenza anteriore alla scadenza dei sei mesi sopra indicati.
 
-#### Art. 21
+### Art. 21
 
 Nei confronti del personale assunto nell'Ispettorato del lavoro ai sensi dell'articolo 5 del regio decreto 8 ottobre 1940, n. 1842, e quindi inquadrato nella qualifica iniziale della carriera di concetto dell'Ispettorato stesso in applicazione dell'articolo 34 del decreto del Presidente della Repubblica 19 marzo 1955, n. 520, il servizio prestato nell'ispettorato del lavoro anteriormente all'inquadramento e' valutato in ragione di un quinto e per non oltre due anni, ai fini della promozione alla qualifica di ispettore aggiunto di 1ª classe o segretario, di cui all'annessa tabella B.
 
-#### Art. 22
+### Art. 22
 
 Il personale gia' appartenente all'Associazione nazionale per la prevenzione infortuni, assunto nei corrispondenti ruoli dell'ispettorato del lavoro ai sensi dell'articolo 15 del regio decreto-legge 28 dicembre 1931, n. 1684, in seguito alla soppressione della suddetta Associazione, puo' ottenere il riscatto per intero, al soli fini del trattamento di quiescenza, del servizio prestato alle dipendenze dell'Associazione medesima anteriormente all'inquadramento nell'Ispettorato del lavoro.
 
@@ -350,7 +340,7 @@ Il riscatto del suddetto servizio puo' essere richiesto, entro novanta giorni da
 
 Alle stesse condizioni e secondo le stesse norme stabilite nei commi precedenti, e' ammesso il riscatto per intero, ai fini del trattamento di quiescenza, del servizio prestato con rapporto stabile d'impiego quale dirigente unico dei cessati Uffici provinciali di collocamento dal personale inquadrato nei ruoli dell'Ispettorato del lavoro ai sensi degli articoli 1 e 3 del regio decreto 8 ottobre 1940, n. 1842, o assunto a contratto nell'Ispettorato stesso ai sensi dell'articolo 5 del medesimo regio decreto e quindi inquadrato nel ruolo della carriera di concetto dell'Ispettorato del lavoro, in applicazione dell'articolo 34 del decreto del Presidente della Repubblica 19 marzo 1955, n. 520.
 
-#### Art. 23
+### Art. 23
 
 Gli impiegati di cui all'articolo 339 del testo unico approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, sono collocati nel ruolo ad esaurimento previsto dalla tabella D allegata alla presente legge e assegnati alla qualifica corrispondente al coefficiente di stipendio in godimento, conservando a tutti gli effetti l'anzianita' maturata nella qualifica di provenienza.
 
@@ -358,7 +348,7 @@ Il collocamento nel ruolo predetto e' disposto previo parere del Consiglio di am
 
 In corrispondenza alle unita' collocate nel ruolo ad esaurimento a norma del primo comma e fino alla loro cessazione dal servizio, devono essere mantenuti vacanti nel ruolo della carriera direttiva, di cui alla annessa tabella C, altrettanti posti di qualifica corrispondente a quella rivestita dalle predette unita'.
 
-#### Art. 24
+### Art. 24
 
 I posti delle qualifiche iniziali dei singoli ruoli organici dell'Amministrazione centrale e dell'ispettorato del lavoro, che risultino disponibili dopo che siano stati indetti i concorsi previsti dagli articoli 25 e 26 della presente legge, non potranno essere conferiti mediante pubblico concorso se non per il numero eccedente quello complessivo degli impiegati dei relativi ruoli aggiunti di cui all'articolo 344 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3 e degli impiegati non di ruolo della categoria corrispondente che alla data del decreto con cui si bandisce il concorso non abbiano ancora maturato l'anzianita' necessaria per ottenere l'immissione nei ruoli aggiunti.
 
@@ -372,11 +362,11 @@ Il personale collocato nei ruoli organici della carriera di concetto e della car
 
 La disposizione di cui al precedente comma si applica anche per le promozioni alle qualifiche di usciere capo e di agente tecnico capo.
 
-#### Art. 25
+### Art. 25
 
 Mediante concorso interno per esami da indirsi entro sei mesi dalla data di entrata in vigore della presente legge, non oltre la meta' dei posti disponibili all'epoca del bando di concorso nella qualifica iniziale in ciascuno dei ruoli della carriera esecutiva del Ministero del lavoro e della previdenza sociale puo' essere conferita agli impiegati delle rispettive carriere ausiliarie, che alla data di entrata in vigore della presente legge svolgano prevalentemente da almeno un quinquennio mansioni proprie della carriera esecutiva.
 
-#### Art. 26
+### Art. 26
 
 Entro sei mesi dalla data di entrata in vigore della presente legge saranno indetti per ciascuno dei ruoli delle carriere di concetto, esecutive ed ausiliarie di cui alle annesse tabelle A, B e C concorsi per l'assunzione nelle qualifiche iniziali riservati al personale utilizzato per lo svolgimento dei compiti connessi con la assegnazione degli alloggi I.N.A.-Casa e che presti servizio da data non posteriore al 1 luglio 1961 presso gli Uffici del lavoro e della massima occupazione o presso gli incaricati regionali della gestione I.N.A.-Casa, nonche' al personale adibito da data non posteriore al 1 luglio 1961 all'espletamento dei servizi relativi alla gestione del Fondo per l'addestramento professionale dei lavoratori di cui all'articolo 62 della legge 29 aprile 1949, n. 264, e successive modificazioni.((2a))
 
@@ -396,27 +386,27 @@ AGGIORNAMENTO (2a)
 
 La L. 11 febbraio 1970, n. 36 ha disposto (con l'art. 1, comma 1) che ai fini delle promozioni alle qualifiche di segretario, archivista e usciere capo, il servizio prestato per l'espletamento dei compiti o dei servizi indicati nel primo comma dell'articolo 26 della legge 22 luglio 1961, n. 628, e' valutato per meta'.
 
-#### Art. 27
+### Art. 27
 
 In sede di prima applicazione della presente legge, i consiglieri di 2ª e 3ª classe del ruolo dell'Amministrazione centrale, vincitori di concorsi riservati a laureati in matematica finanziaria ed attuariale, o in scienze statistiche ed attuariali, o in scienze matematiche, o in matematica e fisica, conseguono la qualifica di statistico ed attuario (coefficiente 271), di cui all'annessa tabella A conservando ad ogni effetto l'anzianita' maturata nelle qualifiche di provenienza.
 
-#### Art. 28
+### Art. 28
 
 Nella prima attuazione della presente legge e comunque per non oltre un triennio dalla data di entrata in vigore della legge medesima, i periodi di anzianita' per le promozioni per scrutinio, per merito comparativo o per merito assoluto, per le promozioni a scelta, nonche' per le promozioni mediante esami, fissati dal testo unico approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, sono ridotti di un terzo, nei confronti degli impiegati inquadrati nei ruoli di cui alle annesse tabelle A, B, C e D.
 
-#### Art. 29
+### Art. 29
 
 Tutte le norme incompatibili con quelle contenute nella presente legge sono abrogate.
 
-#### Art. 30
+### Art. 30
 
 La presente legge ha effetto dal 1 luglio 1961, salvo quanto e' previsto dal terzo comma del precedente articolo 9.
 
-#### Art. 31
+### Art. 31
 
 Entro sei mesi dall'entrata in vigore della presente legge sara' provveduto, con decreto del Presidente della Repubblica sui proposta dei Ministri per il lavoro e la previdenza sociale e per l'industria e per il commercio, di concerto con il Ministro per il tesoro, alla ripartizione dei fondi iscritti nel bilancio del Ministero del lavoro e della previdenza sociale per il trattamento economico del personale assegnato al Ministero dell'industria e del commercio in base al decreto del Presidente della Repubblica 12 maggio 1953, n. 1265.
 
-#### Art. 32
+### Art. 32
 
 All'onere di lire 650 milioni, derivante dalla prima applicazione della presente legge nell'esercizio finanziario 1961-62, si provvedera', a carico del capitolo di parte ordinaria relativo al: "Fondo destinato a far fronte ad oneri derivanti da provvedimenti legislativi in corso", iscritto nello stato di previsione della spesa del Ministero del tesoro per l'esercizio medesimo.
 
@@ -432,11 +422,9 @@ FANFANI SULLO - GONELLA - TAVIANI - PELLA
 
 Visto, il Guardasigilli: GONELLA
 
-## CAPO QUINTO
+## CAPO QUINTO - Norme transitorie e finali
 
-### Norme transitorie e finali
-
-#### Tabelle
+### Tabelle
 
 TABELLA A
 

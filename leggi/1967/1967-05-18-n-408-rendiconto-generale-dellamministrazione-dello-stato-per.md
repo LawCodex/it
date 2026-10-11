@@ -27,7 +27,7 @@ la seguente legge:
 
 ## ENTRATE E SPESE - DI COMPETENZA DELL'ESERCIZIO FINANZIARIO 1965
 
-### Art. 1
+## Art. 1
 
 Le entrate tributarie, extra tributarie,
 
@@ -55,7 +55,7 @@ rimasero da versare. L. 273.530.673.035
  ------------------ e rimasero da riscuotere.................... L. 620.121.183.151
 ```
 
-### Art. 2
+## Art. 2
 
 Le spese correnti, in conto capitale e per
 
@@ -71,7 +71,7 @@ consuntivo del bilancio, in................. L. 8.463.789.362.779 delle quali fu
 
 ----------------- e rimasero da pagare........................ L. 1.938.585.214.953
 
-### Art. 3
+## Art. 3
 
 Il riepilogo generale dei risultati delle entrate e delle spese di competenza dell'esercizio finanziario 1965, rimane cosi' stabilito:
 
@@ -84,7 +84,7 @@ Entrate tributarie ed extra-tributarie...... L. 6.862.209.428.216 Spese correnti
 
 ## ENTRATE E SPESE RESIDUE DEL PERIODO 10 LUGLIO-31 DICEMBRE 1964 ED - ESERCIZI PRECEDENTI
 
-### Art. 4
+## Art. 4
 
 I residui attivi alla chiusura del periodo
 
@@ -104,7 +104,7 @@ rimasero da versare... L. 329.294.717.865
  ---------------- e rimasero da riscuotere al 31 dicembre 1965 L. 469.906.047.389
 ```
 
-### Art. 5
+## Art. 5
 
 I residui passivi alla chiusura del
 
@@ -118,7 +118,7 @@ bilancio, in................................ L. 3.351.376.561.572 dei quali furo
 
 ## RESIDUI ATTIVI E PASSIVI ALLA CHIUSURA DELL'ESERCIZIO FINANZIARIO - 1965
 
-### Art. 6
+## Art. 6
 
 I residui attivi alla chiusura dell'esercizio finanziario 1965, sono stabiliti, come dal conto consuntivo del bilancio, nelle seguenti somme:
 
@@ -134,7 +134,7 @@ degli esercizi precedenti (articolo 4)...... L. 469.906.047.389 Somme riscosse e
 
 --------------- Residui attivi al 31 dicembre 1965.......... L. 1.692.852.621.440
 
-### Art. 7
+## Art. 7
 
 I residui passivi alla chiusura dell'esercizio finanziario 1965 sono stabiliti, come dal conto consuntivo del bilancio, nelle seguenti somme:
 
@@ -150,7 +150,7 @@ esercizi precedenti (articolo 5)............ L. 1.832.337.188.371
 
 ## SITUAZIONE FINANZIARIA
 
-### Art. 8
+## Art. 8
 
 E' accertato nella somma di lire 6.886.408.640.140 il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 1965 come risulta dai seguenti dati:
 
@@ -202,11 +202,11 @@ di contabilita generale................ L. 171.095
 
 ## DISPOSIZIONI SPECIALI
 
-### Art. 9
+## Art. 9
 
 Sono stabiliti nella somma di lire 171.095 i discarichi consentiti, nell'esercizio 1965, ai tesorieri per casi di forza maggiore, ai sensi dell'articolo 194 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato approvato con regio decreto 23 maggio 1924, n. 827.
 
-### Art. 10
+## Art. 10
 
 Sono approvate le eccedenze d'impegno risultate in sede di consuntivo sul conto della competenza e sul conto dei residui ai capitoli degli stati di previsione della spesa dei Ministeri sottoindicati per l'esercizio finanziario 1965, come dal dettaglio che segue:
 
@@ -262,7 +262,7 @@ casuali................... L. 700.000 -----------
 
 ## AZIENDE SPECIALI ED AUTONOME - AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### Art. 11
+## Art. 11
 
 Le entrate correnti ed in conto capitale
 
@@ -294,7 +294,7 @@ e rimasero da riscuotere.................... L. 363.293.274
  -------------
 ```
 
-### Art. 12
+## Art. 12
 
 Le spese correnti, in conto capitale e per
 
@@ -314,7 +314,7 @@ delle quali furono pagate................... L. 1.536.284.196
 
 e rimasero da pagare........................ L. 4.410.322.223
 
-### Art. 13
+## Art. 13
 
 I residui attivi alla chiusura del periodo
 
@@ -336,7 +336,7 @@ rimasero da versare..... L. 1.312.500
 
 e rimasero da riscuotere al 31 dicembre 1965 L. 427.394.589
 
-### Art. 14
+## Art. 14
 
 I residui passivi alla chiusura del
 
@@ -350,7 +350,7 @@ dei quali furono pagati nel 1965............ L. 2.560.697.324
 
 e rimasero da pagare al 31 dicembre 1965.... L. 9.540.705.333
 
-### Art. 15
+## Art. 15
 
 I residui attivi alla chiusura dell'esercizio finanziario 1965, sono stabiliti nelle seguenti somme:
 
@@ -372,7 +372,7 @@ riepilogo dell'entrata)..................... L. 363.363.703
 
 Residui attivi al 31 dicembre 1965........ L. 1.154.051.566
 
-### Art. 16
+## Art. 16
 
 I residui passivi alla chiusura dell'esercizio finanziario 1965 sono stabiliti nelle seguenti somme:
 
@@ -390,7 +390,7 @@ esercizi precedenti (articolo 14)........... L. 9.540.705.333
 
 Residui passivi al 31 dicembre 1965... L. 13.951.027.556
 
-### Art. 17
+## Art. 17
 
 La situazione finanziaria dell'Azienda di Stato per le foreste demaniali, alla fine dell'esercizio 1965, risulta come appresso:
 
@@ -436,7 +436,7 @@ Totale del passivo... L. 5.982.906.685
 
 ## ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-### Art. 18
+## Art. 18
 
 Le entrate correnti dell'Istituto
 
@@ -464,7 +464,7 @@ e rimasero da riscuotere.................... L. 3.500.000
  -----------
 ```
 
-### Art. 19
+## Art. 19
 
 Le spese correnti dell'Istituto predetto,
 
@@ -480,7 +480,7 @@ delle quali furono pagate................... L. 97.631.110
 
 e rimasero da pagare........................ L. 17.233.855
 
-### Art. 20
+## Art. 20
 
 I residui attivi alla chiusura del periodo
 
@@ -496,7 +496,7 @@ e versati................................... L. 3.100.000
 
 e rimasero da riscuotere al 31 dicembre 1965 L. 3.713.325
 
-### Art. 21
+## Art. 21
 
 I residui passivi alla chiusura del
 
@@ -510,7 +510,7 @@ dei quali furono pagati nel 1965............ L. 6.562.350
 
 e rimasero da pagare al 31 dicembre 1965.... L. 12.653.492
 
-### Art. 22
+## Art. 22
 
 I residui attivi alla chiusura dell'esercizio 1965 sono stabiliti nelle seguenti somme:
 
@@ -532,7 +532,7 @@ riepilogo dell'entrata)..................... L. -
 
 Residui attivi al 31 dicembre 1965... L. 7.213.325
 
-### Art. 23
+## Art. 23
 
 I residui passivi alla chiusura dell'esercizio 1965 sono stabiliti nelle seguenti somme:
 
@@ -554,7 +554,7 @@ esercizi precedenti (articolo 21)........... L. 12.653.492
 
 ## AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-### Art. 24
+## Art. 24
 
 Le entrate correnti, in conto capitale e
 
@@ -588,7 +588,7 @@ rimasero da versare...... L. 637.353.166
 
 e rimasero da riscuotere.................... L. 31.330.534.544
 
-### Art. 25
+## Art. 25
 
 Le spese correnti ed in conto capitale del
 
@@ -606,7 +606,7 @@ delle quali furono pagate................... L. 171.327509.280
 
 e rimasero da pagare........................ L. 15.967.535.164
 
-### Art. 26
+## Art. 26
 
 I residui attivi alla chiusura del periodo
 
@@ -628,7 +628,7 @@ rimasero da versare..... L. 200.136
 
 e rimasero da riscuotere al 31 dicembre 1965 L. 4.540.806.117
 
-### Art. 27
+## Art. 27
 
 I residui passivi alla chiusura del periodo
 
@@ -642,7 +642,7 @@ dei quali furono pagati nel 1965............ L. 21.264.433.950
 
 e rimasero da pagare al 31 dicembre 1965.... L. 4.851.444.770
 
-### Art. 28
+## Art. 28
 
 I residui attivi alla chiusura dell'esercizio finanziario 1965 sono stabiliti nelle seguenti somme:
 
@@ -664,7 +664,7 @@ riepilogo dell'entrata)..................... L. 637.553.302
 
 Residui attivi al 31 dicembre 1965... L. 36.508.893.963
 
-### Art. 29
+## Art. 29
 
 I residui passivi alla chiusura dell'esercizio finanziario 1965 sono stabiliti nelle seguenti somme:
 
@@ -678,7 +678,7 @@ esercizi precedenti (arcolo 27)............. " 4.851.444.770
 
 -------------- Residui passivi al 31 dicembre 1965... L. 20.818.979.934
 
-### Art. 30
+## Art. 30
 
 La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dell'esercizio finanziario 1965, risulta come appresso:
 
@@ -692,7 +692,7 @@ Spese dell'esercizio 1965................... L. 187.295.044.444
 
 ## ARCHIVI NOTARILI
 
-### Art. 31
+## Art. 31
 
 E' approvato il conto consuntivo degli Archivi notarili, per l'esercizio 1965, nelle risultanze seguenti:
 
@@ -708,7 +708,7 @@ Spese..................................... " 7.570.415.890
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-### Art. 32
+## Art. 32
 
 Le entrate correnti ed in conto capitale
 
@@ -740,7 +740,7 @@ e rimasero da riscuotere.................... L. 988.440.498
  --------------
 ```
 
-### Art. 33
+## Art. 33
 
 Le spese correnti, in conto capitale e per
 
@@ -762,7 +762,7 @@ e rimasero da pagare........................ L. 1.246.090.997
  --------------
 ```
 
-### Art. 34
+## Art. 34
 
 I residui attivi alla chiusura del periodo
 
@@ -784,7 +784,7 @@ e rimasero da riscuotere al 31 dicembre 1965 L. 210.438.375
  --------------
 ```
 
-### Art. 35
+## Art. 35
 
 I residui passivi alla chiusura del perio-
 
@@ -800,7 +800,7 @@ e rimasero da pagare al 31 dicembre 1965.... L. 709.292.056
  --------------
 ```
 
-### Art. 36
+## Art. 36
 
 I residui passivi alla chiusura dell'esercizio finanziario 1965 sono stabiliti nelle seguenti somme:
 
@@ -824,7 +824,7 @@ Residui attivi al 31 dicembre 1965... L. 1.199.510.497
 
 .so;
 
-### Art. 37
+## Art. 37
 
 I residui passivi alla chiusura dell'esercizio finanziario 1965 sono stabiliti nelle seguenti somme:
 
@@ -841,7 +841,7 @@ esercizi precedenti (articolo 35)........... L. 709.292.056
  --------------
 ```
 
-### Art. 38
+## Art. 38
 
 E' accertato nella somma di lire 288.691,70 il saldo passivo del conto finanziario dell'amministrazione del Fondo per il Culto alla fine dell'esercizio 1965, come risulta dai seguenti dati:
 
@@ -885,7 +885,7 @@ Spese dell'esercizio finanziario 1965....... L. 18.522.560.564 -
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-### Art. 39
+## Art. 39
 
 Le entrate correnti ed in conto capitale
 
@@ -915,7 +915,7 @@ e rimasero da riscuotere.................... L. 22.837.152
  --------------
 ```
 
-### Art. 40
+## Art. 40
 
 Le spese correnti, in conto capitale e per
 
@@ -933,7 +933,7 @@ delle quali furono pagate................... " 352.703.615
 
 e rimasero da pagare........................ L. 71.812.245
 
-### Art. 41
+## Art. 41
 
 I residui attivi alla chiusura del periodo
 
@@ -953,7 +953,7 @@ e rimasero da riscuotere al 31 dicembre 1965 L. 144.553
  --------------
 ```
 
-### Art. 42
+## Art. 42
 
 I residui passivi alla chiusura del perio-
 
@@ -969,7 +969,7 @@ e rimasero da pagare al 31 dicembre 1965.... L. 50.600.189
  --------------
 ```
 
-### Art. 43
+## Art. 43
 
 I residui attivi alla chiusura dell'esercizio 1965 sono stabiliti nelle seguenti somme:
 
@@ -993,7 +993,7 @@ del riepilogo dell'entrata)................. " 659
  --------------
 ```
 
-### Art. 44
+## Art. 44
 
 I residui passivi alla chiusura dell'esercizio finanziario 1965 sono stabiliti nelle seguenti somme:
 
@@ -1013,7 +1013,7 @@ esercizi precedenti (articolo 42)........... " 50.600.189
  --------------
 ```
 
-### Art. 45
+## Art. 45
 
 E' accertato nella somma di lire 4.926.709,58 il saldo attivo del conto finanziario del Fondo di beneficenza e di religione nella citta' di Roma alla fine dell'esercizio 1965 come risulta dai seguenti dati:
 
@@ -1057,7 +1057,7 @@ al 31 dicembre 1965....... " 635.965.919
 
 ## AZIENDA DEI PATRIMONI RIUNITI EX ECONOMALI
 
-### Art. 46
+## Art. 46
 
 Le entrate correnti ed in conto capitale
 
@@ -1089,7 +1089,7 @@ e rimasero da riscuotere.................... L. 2.425.598
  --------------
 ```
 
-### Art. 47
+## Art. 47
 
 Le spese correnti ed in conto capitale
 
@@ -1109,7 +1109,7 @@ e rimasero da pagare........................ L. 90.899.709
  --------------
 ```
 
-### Art. 48
+## Art. 48
 
 I residui attivi alla chiusura del periodo
 
@@ -1129,7 +1129,7 @@ e rimasero da riscuotere al 31 dicembre 1965 L. 11.132.964
  --------------
 ```
 
-### Art. 49
+## Art. 49
 
 I residui passivi alla chiusura del perio-
 
@@ -1147,7 +1147,7 @@ e rimasero da pagare al 31 dicembre 1965.... L. 28.268.025
  --------------
 ```
 
-### Art. 50
+## Art. 50
 
 I residui attivi alla chiusura dell'esercizio finanziario 1965 sono stabiliti, come dal conto consuntivo dell'Azienda, nelle seguenti somme:
 
@@ -1171,7 +1171,7 @@ Somme riscosse e non versate in tesoreria
  --------------
 ```
 
-### Art. 51
+## Art. 51
 
 I residui passivi alla chiusura dell'esercizio finanziario 1965 sono stabiliti, come dal conto consuntivo dell'Azienda, nelle seguenti somme:
 
@@ -1191,7 +1191,7 @@ esercizi precedenti (articolo 49)........... " 28.268.025
  --------------
 ```
 
-### Art. 52
+## Art. 52
 
 E' accertato nella somma di lire 15.574.287,88 il saldo attivo del conto finanziario dell'Azienda dei patrimoni riuniti ex economali, alla fine dell'esercizio 1965, come risulta dai seguenti dati:
 
@@ -1235,7 +1235,7 @@ al 31 dicembre 1965........ " 89.192.342
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE
 
-### Art. 53
+## Art. 53
 
 Le entrate correnti in conto capitale e
 
@@ -1263,7 +1263,7 @@ e rimasero da riscuotere.................... L. 38.546.143.780
  --------------
 ```
 
-### Art. 54
+## Art. 54
 
 Le spese correnti, in conto capitale e per
 
@@ -1285,7 +1285,7 @@ e rimasero da pagare........................ L. 147.130.819.544
  --------------
 ```
 
-### Art. 55
+## Art. 55
 
 I residui attivi alla chiusura del periodo
 
@@ -1297,7 +1297,7 @@ dei quali nell'esercizio 1965 furono riscos-
 
 si e versati................................ " 76.226.120.760
 
-### Art. 56
+## Art. 56
 
 I residui passivi alla chiusura del perio-
 
@@ -1313,7 +1313,7 @@ e rimasero da pagare al 31 dicembre 1965.... L. 176.885.684.261
  --------------
 ```
 
-### Art. 57
+## Art. 57
 
 I residui attivi alla chiusura dell'esercizio 1965 sono stabiliti nelle seguenti somme:
 
@@ -1337,7 +1337,7 @@ del riepilogo dell'entrata)................. " -
  --------------
 ```
 
-### Art. 58
+## Art. 58
 
 I residui passivi alla chiusura dell'esercizio 1965 sono stabiliti nelle seguenti somme:
 
@@ -1359,7 +1359,7 @@ esercizi precedenti (articolo 56)........... " 176.885.684.261
 
 ## AMMINISTRAZIONE DELLE POSTE E DEI TELEGRAFI
 
-### Art. 59
+## Art. 59
 
 Le entrate correnti, in conto capitale e
 
@@ -1389,7 +1389,7 @@ e rimase da riscuotere...................... L. 167.762.901.511
  --------------
 ```
 
-### Art. 60
+## Art. 60
 
 Le spese correnti, in conto capitale e per
 
@@ -1409,7 +1409,7 @@ e rimase da pagare.......................... L. 100.717.845.788
  --------------
 ```
 
-### Art. 61
+## Art. 61
 
 I residui attivi alla chiusura del periodo
 
@@ -1427,7 +1427,7 @@ e rimasero da riscuotere al 31 dicembre 1965 L. 38.560.533.867
  --------------
 ```
 
-### Art. 62
+## Art. 62
 
 I residui passivi alla chiusura del perio-
 
@@ -1443,7 +1443,7 @@ e rimasero da pagare al 31 dicembre 1965.... L. 77.164.769.333
  --------------
 ```
 
-### Art. 63
+## Art. 63
 
 I residui attivi alla chiusura dell'esercizio 1965 sono stabiliti nelle seguenti somme:
 
@@ -1463,7 +1463,7 @@ degli esercizi precedenti (articolo 61)..... " 38.560.533.867
  --------------
 ```
 
-### Art. 64
+## Art. 64
 
 I residui passivi alla chiusura dell'esercizio 1965 sono stabiliti nelle seguenti somme:
 
@@ -1485,7 +1485,7 @@ esercizi precedenti (articolo 62)........... " 77.164.769.333
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Art. 65
+## Art. 65
 
 Le entrate correnti, in conto capitale e
 
@@ -1521,7 +1521,7 @@ e rimasero da riscuotere.................... L. 14.981.713.463
  --------------
 ```
 
-### Art. 66
+## Art. 66
 
 Le spese correnti, in conto capitale e per
 
@@ -1543,7 +1543,7 @@ e rimasero da pagare........................ L. 53.755.142.825
  --------------
 ```
 
-### Art. 67
+## Art. 67
 
 I residui attivi alla chiusura del periodo
 
@@ -1565,7 +1565,7 @@ e rimasero da riscuotere al 31 dicembre 1965 L. 4.353.064.413
  --------------
 ```
 
-### Art. 68
+## Art. 68
 
 I residui passivi alla chiusura del perio-
 
@@ -1581,7 +1581,7 @@ e rimasero da pagare al 31 dicembre 1965.... L. 88.861.445.840
  --------------
 ```
 
-### Art. 69
+## Art. 69
 
 I residui attivi alla chiusura dell'esercizio 1965 sono stabiliti nelle seguenti somme:
 
@@ -1605,7 +1605,7 @@ del riepilogo dell'entrata)................. " 43.987.889.862
  --------------
 ```
 
-### Art. 70
+## Art. 70
 
 I residui passivi alla chiusura dell'esercizio 1965 sono stabiliti nelle seguenti somme:
 
@@ -1627,7 +1627,7 @@ esercizi precedenti (articolo 68)........... " 88.861.445.840
 
 ## AMMINISTRAZIONE DELLE FERROVIE DELLO STATO
 
-### Art. 71
+## Art. 71
 
 Le entrate correnti, in conto capitale e
 
@@ -1659,7 +1659,7 @@ e rimasero da riscuotere.................... L. 343.658.776.158
  -----------------
 ```
 
-### Art. 72
+## Art. 72
 
 Le spese correnti, in conto capitale e per
 
@@ -1683,7 +1683,7 @@ e rimasero da pagare........................ L. 335.820.853.729
  -----------------
 ```
 
-### Art. 73
+## Art. 73
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione delle ferrovie dello Stato, di competenza dell'esercizio finanziario 1965, rimane cosi' stabilito:
 
@@ -1701,7 +1701,7 @@ me.......................................... " 925.303.107.759
  -----------------
 ```
 
-### Art. 74
+## Art. 74
 
 I residui attivi alla chiusura del periodo
 
@@ -1719,7 +1719,7 @@ e rimasero da riscuotere al 31 dicembre 1965 L. 104.723.730.303
  ---------------
 ```
 
-### Art. 75
+## Art. 75
 
 I residui passivi alla chiusura del perio-
 
@@ -1735,7 +1735,7 @@ e rimasero da pagare al 31 dicembre 1965.... L. 126.123.916.273
  ---------------
 ```
 
-### Art. 76
+## Art. 76
 
 I residui attivi alla chiusura dell'esercizio 1965 sono stabiliti nelle seguenti somme:
 
@@ -1755,7 +1755,7 @@ degli esercizi precedenti (articolo 74)..... " 104.723.730.303
  ---------------
 ```
 
-### Art. 77
+## Art. 77
 
 I residui passivi alla chiusura dell'esercizio 1965 sono stabiliti nelle seguenti somme:
 

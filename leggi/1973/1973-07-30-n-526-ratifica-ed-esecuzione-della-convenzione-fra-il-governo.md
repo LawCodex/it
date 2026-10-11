@@ -209,7 +209,7 @@ Qualora una persona sia occupata nel territorio di una Parte contraente e la leg
 
 2\. Qualora una donna abbia diritto, secondo le disposizioni della presente Convenzione o per altro titolo a prestazioni di maternita' della stessa natura, in base alla legislazione di ambedue le Parti relativamente allo stesso evento, ella non ha diritto a percepire ambedue le prestazioni, ma puo' scegliere quella che preferisce.
 
-## Capitolo 2 - Pensioni di vecchiaia
+### Capitolo 2 - Pensioni di vecchiaia
 
 #### Articolo 12
 
@@ -245,13 +245,13 @@ ii) una donna per la quale i contributi del marito siano presi in considerazione
 
 Quando una persona si trova nel territorio di una Parte contraente o vi risiede normalmente, essa e' considerata ai fini del suo diritto a percepire una pensione di vecchiaia a norma della legislazione dell'altra Parte, come se si trovasse nel territorio di quest'ultima Parte od ivi normalmente residente.
 
-## Capitolo 3 - Prestazioni per le vedove
+### Capitolo 3 - Prestazioni per le vedove
 
 #### Articolo 14
 
 Le disposizioni che si riferiscono alle pensioni di vecchiaia contenute negli articoli 12 e 13 della presente Convenzione si applicano (con quelle modifiche che possono essere richieste dalla differente natura delle prestazioni) alle prestazioni per i superstiti a norma della legislazione della Repubblica italiana e alle prestazioni per le vedove in base alla legislazione del Regno Unito.
 
-## Capitolo 4 - Prestazioni per orfani e pensioni d'invalidita'
+### Capitolo 4 - Prestazioni per orfani e pensioni d'invalidita'
 
 #### Articolo 15
 
@@ -263,7 +263,7 @@ b) qualora il pro-rata specificato nella lettera b) del paragrafo 1 dell'articol
 
 2\. Qualora una persona abbia diritto in conformita' delle disposizioni del paragrafo 1 del presente articolo a prestazioni in base alle legislazioni di ambedue le Parti contraenti, e la somma di tali prestazioni e' inferiore alla prestazione cui l'interessato puo' aver diritto in base alla sola legislazione del Regno Unito senza l'applicazione di dette disposizioni, egli avra' diritto anche, in base a detta legislazione, ad un complemento, pari alla differenza fra i suddetti importi, a carico dell'organismo di assicurazione del Regno Unito.
 
-## Capitolo 5 - Prestazioni per infortuni sul lavoro e malattie professionali
+### Capitolo 5 - Prestazioni per infortuni sul lavoro e malattie professionali
 
 #### Articolo 16
 
@@ -309,7 +309,7 @@ b) l'onere relativo alle predette prestazioni viene ripartito in parti eguali fr
 
 c) nel caso di aggravamento della malattia si continuano ad applicare le disposizioni di cui alle precedenti lettere a) e b).
 
-## Capitolo 6 - Assegni familiari
+### Capitolo 6 - Assegni familiari
 
 #### Articolo 23
 
@@ -325,7 +325,7 @@ a) come se il suo luogo di nascita sia nel territorio di detta Parte, anche se d
 
 b) come se fosse stato presente, residente o occupato nel territorio di detta Parte nel corso di periodi durante i quali egli era stato, rispettivamente, presente, residente o occupato nel territorio dell'altra Parte.
 
-## Capitolo 7 - Altre disposizioni sulle prestazioni
+### Capitolo 7 - Altre disposizioni sulle prestazioni
 
 #### Articolo 24
 

@@ -722,7 +722,7 @@ Esperti in interventi di risanamento radon ( ((Direttiva 2013/59/Euratom)), alle
 
 2\. Le misure correttive per la riduzione della concentrazione di radon negli edifici sono effettuate sulla base delle indicazioni tecniche degli esperti in intervento di risanamento radon, sulla base dei contenuti del Piano di cui all'articolo 10 e, fino all'approvazione del Piano, sulla base di indicazioni tecniche internazionali.
 
-## Sezione II - Esposizione al radon nei luoghi di lavoro
+#### Sezione II - Esposizione al radon nei luoghi di lavoro
 
 ##### Art. 16
 
@@ -778,7 +778,7 @@ Comunicazione e trasmissione dei risultati delle misurazioni e delle relazioni t
 
 4\. L'esercente informa il datore di lavoro dei lavoratori esterni del superamento del livello di riferimento di cui all'articolo 12, e delle misure correttive adottate. Se la concentrazione media annua di attivita' di radon in aria resta superiore al livello prescritto, il datore di lavoro del lavoratore esterno effettua per detti lavoratori la valutazione delle dosi efficaci annue, avvalendosi dell'esperto di radioprotezione, o delle corrispondenti esposizioni integrate annue tenendo conto degli eventuali contributi dovuti all'esposizione in altri luoghi di lavoro e rispetta quanto previsto dall'articolo 17, comma 5.
 
-## Sezione III - Protezione dall'esposizione al radon nelle abitazioni
+#### Sezione III - Protezione dall'esposizione al radon nelle abitazioni
 
 ##### Art. 19
 
@@ -792,7 +792,7 @@ Radon nelle abitazioni-Interventi nelle aree prioritarie ( ((Direttiva 2013/59/E
 
 4\. Le misurazioni di cui al comma 1, sono effettuate dai ((servizi di dosimetria)) di cui all'articolo 155, i quali rilasciano al proprietario o al detentore dell'immobile una relazione tecnica contenente il risultato della misurazione e le informazioni specificate, e inviano con cadenza semestrale i dati alle Regioni e Provincie autonome e alla banca dati della rete nazionale di sorveglianza della radioattivita' ambientale, di cui all'articolo 152.
 
-## Capo II - Pratiche che comportano l'impiego di materiali contenenti radionuclidi di origine naturale
+### Capo II - Pratiche che comportano l'impiego di materiali contenenti radionuclidi di origine naturale
 
 ##### Art. 20
 
@@ -904,7 +904,7 @@ Autorizzazione per gli impianti di gestione di residui ai fini dello smaltimento
 
 ((4-bis. Le prescrizioni contenute nelle autorizzazioni rilasciate ai sensi del presente articolo sono espressamente riportate nell'autorizzazione integrata ambientale di cui al titolo III-bis della Parte II del decreto legislativo 3 aprile 2006, n. 152, nei casi in cui e' prevista.))
 
-## Capo III - Attività lavorative che comportano l'esposizione alla radiazione cosmica
+### Capo III - Attività lavorative che comportano l'esposizione alla radiazione cosmica
 
 ##### Art. 27
 
@@ -938,7 +938,7 @@ d) trasmettere al Ministero della salute, secondo le modalita' da questo indicat
 
 7\. Ai fini dell'applicazione della disposizione FCL 015, di cui all'Allegato I, del Regolamento (UE) n. 1178/2011 della Commissione, del 3 novembre 2011, e delle disposizioni in materia di limitazione, sospensione o revoca dei certificati medici per l'idoneita' al volo di cui al regolamento adottato dall'Ente nazionale per l'aviazione civile (ENAC) ai sensi degli articoli 690 e 734 del codice della navigazione di cui al regio decreto 30 marzo 1942, n. 327, il datore di lavoro, fermo ogni altro obbligo di comunicazione a terzi, rende tempestivamente noti all'ENAC i casi in cui il personale navigante e' giudicato non idoneo dal medico autorizzato anche in conseguenza di esposizioni accidentali o derivanti da eventi solari eccezionali.
 
-## Capo IV - Radiazioni gamma emesse da materiali da costruzione
+### Capo IV - Radiazioni gamma emesse da materiali da costruzione
 
 ##### Art. 29
 
@@ -1852,7 +1852,7 @@ Identificazione e apposizione di un contrassegno sulla sorgente sigillata ad alt
 
 6\. Il detentore, ove fattibile, provvede affinche' il contrassegno o l'etichetta di cui al comma 4 restino leggibili.
 
-## Capo II - Controllo delle sorgenti orfane
+### Capo II - Controllo delle sorgenti orfane
 
 ##### Art. 70
 
@@ -4392,7 +4392,7 @@ Particolari disposizioni per le attivita' di protezione civile e di polizia giud
 
 1\. In casi di necessita' e di urgenza nel corso delle attivita' di protezione civile svolte sotto la direzione dell'autorita' responsabile dell'attuazione dei piani di emergenza nonche' nel corso delle attivita' di polizia giudiziaria non si applicano gli obblighi di denuncia, di comunicazione, di autorizzazione o di nulla osta previsti nel presente decreto e nella legge 31 dicembre 1962, n. 1860, per le sorgenti di radiazioni ionizzanti.
 
-## Capo II - Informazione della popolazione
+### Capo II - Informazione della popolazione
 
 ##### Art. 191
 
@@ -4778,7 +4778,7 @@ Sanzioni penali relative ai Titoli XIV e XV (decreto legislativo 17 marzo 1995, 
 
 3\. La violazione dei divieti di cui all'articolo 203 e' punita con l'arresto da uno a tre anni e con l'ammenda da euro 60.000,00 ad euro 150.000,00.
 
-## Capo II - Illeciti amministrativi
+### Capo II - Illeciti amministrativi
 
 ##### Art. 215
 
@@ -4858,7 +4858,7 @@ Sanzioni amministrative relative ai capi XIV e XV (decreto legislativo 17 marzo 
 
 1\. L'inottemperanza all'obbligo di comunicazione previsto dagli articoli 186, comma 6, e 204, comma 5, nonche' la violazione delle prescrizioni di cui all'articolo. 204, comma 4, primo periodo, sono punite con la sanzione amministrativa da euro 2.000,00 ad euro 10.000,00.
 
-## Capo III - Disposizioni ulteriori
+### Capo III - Disposizioni ulteriori
 
 ##### Art. 225
 

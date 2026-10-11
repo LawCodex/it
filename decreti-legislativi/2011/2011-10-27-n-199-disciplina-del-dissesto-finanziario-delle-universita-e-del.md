@@ -47,11 +47,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Principi generali
 
-### Principi generali
-
-#### Art. 1
+### Art. 1
 
 Oggetto e ambito di applicazione
 
@@ -147,7 +145,7 @@ Oggetto e ambito di applicazione
 
 > \- Per il testo dell'articolo 5, comma 4, lettera h), della citata legge n. 240 del 2010, si veda nelle note alle premesse.
 
-#### Art. 2
+### Art. 2
 
 Dissesto finanziario dell'universita'
 
@@ -159,11 +157,9 @@ Dissesto finanziario dell'universita'
 
 > \- Per il testo dei commi 3 e 4 dell'articolo 6 della legge 9 maggio 1989, n. 168, si veda nelle note alle premesse.
 
-## Capo II
+## Capo II - Situazione di criticita' e dissesto finanziario dell'universita'
 
-### Situazione di criticita' e dissesto finanziario dell'universita'
-
-#### Art. 3
+### Art. 3
 
 Verifica della situazione economica, finanziaria
 
@@ -197,7 +193,7 @@ h) agli indicatori di regolarita' contributiva, previdenziale ed assistenziale.
 
 > \- Per il testo dell'articolo 5, comma 4, della citata legge n. 240 del 2010, si veda nelle note alle premesse.
 
-#### Art. 4
+### Art. 4
 
 Situazione di criticita'
 
@@ -223,13 +219,13 @@ Situazione di criticita'
 
 > c) la qualita', l'efficacia e l'efficienza delle sedi didattiche. Ai fini di cui alla presente lettera, sono presi in considerazione i parametri relativi all'incidenza del costo del personale sulle risorse complessivamente disponibili, nonche' il numero e l'entita' dei progetti di ricerca di rilievo nazionale ed internazionale assegnati all'ateneo.».
 
-#### Art. 5
+### Art. 5
 
 Situazione di dissesto
 
 1\. Qualora i parametri definiti nell'ambito dei criteri di cui all'articolo 3, comma 2, lettere a), b) e c), presentino tutti valori deficitari, ovvero qualora almeno due parametri definiti con i criteri stabiliti alle citate lettere a), b) e c) unitamente ad almeno tre parametri definiti con i criteri di cui alle lettere d), e), f), g) ed h) del medesimo articolo 3, comma 2, presentino valori deficitari e il loro andamento negli ultimi due esercizi finanziari non sia migliorato, il collegio dei revisori dei conti redige una dettagliata relazione sull'andamento della gestione nella quale attesta l'esistenza dei presupposti per la declaratoria di dissesto finanziario.
 
-#### Art. 6
+### Art. 6
 
 Dichiarazione di dissesto
 
@@ -239,7 +235,7 @@ Dichiarazione di dissesto
 
 3\. La deliberazione e' pubblicata per estratto nella Gazzetta Ufficiale della Repubblica italiana a cura dell'universita'.
 
-#### Art. 7
+### Art. 7
 
 Effetti della dichiarazione di dissesto
 
@@ -249,7 +245,7 @@ Effetti della dichiarazione di dissesto
 
 3\. Un nuovo bilancio unico di previsione annuale autorizzatorio e' sottoposto al Consiglio di amministrazione dopo l'approvazione del piano di rientro e, comunque, entro il 30 novembre dell'anno in cui e' stato dichiarato il dissesto.
 
-#### Art. 8
+### Art. 8
 
 Piano di rientro
 
@@ -313,7 +309,7 @@ f) indicazione dei tempi previsti per la realizzazione del piano di rientro, con
 
 > «9. Per il triennio 2010-2012 continuano ad applicarsi le disposizioni di cui all' articolo 1, commi 637, 638, 639, 640 e 642, della legge 27 dicembre 2006, n. 296.».
 
-#### Art. 9
+### Art. 9
 
 Controllo sull'attuazione del piano di rientro
 
@@ -325,11 +321,9 @@ Controllo sull'attuazione del piano di rientro
 
 4\. L'esito positivo del controllo annuale costituisce condizione necessaria per lo svolgimento delle ulteriori attivita' previste dal Piano di rientro.
 
-## Capo III
+## Capo III - Commissariamento degli atenei
 
-### Commissariamento degli atenei
-
-#### Art. 10
+### Art. 10
 
 Delibera di commissariamento
 
@@ -337,7 +331,7 @@ Delibera di commissariamento
 
 2\. Il commissariamento e' altresi' deliberato, attraverso la medesima procedura, quando l'ateneo, dichiarato lo stato di dissesto finanziario, non ha predisposto il Piano di rientro nel termine stabilito all'articolo 7, comma 1, ovvero il piano predisposto non e' stato approvato secondo la procedura prevista all'articolo 8, comma 3.
 
-#### Art. 11
+### Art. 11
 
 Organi e durata del commissariamento
 
@@ -351,7 +345,7 @@ b) e' nominata una commissione di tre componenti nelle universita' con un organi
 
 3\. Con la delibera di cui all'articolo 10, comma 1, e' fissata la durata del commissariamento, che non puo' comunque essere superiore a cinque anni.
 
-#### Art. 12
+### Art. 12
 
 Designazione dei commissari
 
@@ -371,7 +365,7 @@ d) gli iscritti all'albo dei dottori commercialisti e degli esperti contabili, c
 
 4\. L'insediamento del commissario o della commissione presso l'ateneo avviene entro cinque giorni dal provvedimento di nomina. Nel medesimo termine il commissario o i commissari che non intendano accettare la designazione sono tenuti a darne comunicazione al Ministero dell'istruzione, dell'universita' e della ricerca che, entro cinque giorni dal ricevimento della stessa, comunica al membro o ai membri supplenti il subentro nell'incarico. La mancata accettazione dell'incarico da parte di uno o piu' supplenti attiva la procedura di nomina, secondo quanto previsto dall'articolo 11, comma 1.
 
-#### Art. 13
+### Art. 13
 
 Effetti del Commissariamento
 
@@ -435,7 +429,7 @@ Effetti del Commissariamento
 
 > s) divieto per i componenti del senato accademico e del consiglio di amministrazione di ricoprire altre cariche accademiche, fatta eccezione per il rettore limitatamente al senato accademico e al consiglio di amministrazione e, per i direttori di dipartimento, limitatamente allo stesso senato, qualora risultino eletti a farne parte; di essere componente di altri organi dell'universita' salvo che del consiglio di dipartimento; di ricoprire il ruolo di direttore o presidente delle scuole di specializzazione o di fare parte del consiglio di amministrazione delle scuole di specializzazione; di rivestire alcun incarico di natura politica per la durata del mandato e di ricoprire la carica di rettore o far parte del consiglio di amministrazione, del senato accademico, del nucleo di valutazione o del collegio dei revisori dei conti di altre universita' italiane statali, non statali o telematiche; di svolgere funzioni inerenti alla programmazione, al finanziamento e alla valutazione delle attivita' universitarie nel Ministero e nell'ANVUR; decadenza per i componenti del senato accademico e del consiglio di amministrazione che non partecipino con continuita' alle sedute dell'organo di appartenenza.».
 
-#### Art. 14
+### Art. 14
 
 Amministrazione commissariale
 
@@ -443,7 +437,7 @@ Amministrazione commissariale
 
 2\. Le strutture amministrative e gli organi dell'universita' commissariata rimasti in carica sono tenuti a prestare al commissario la massima collaborazione, consentendo l'accesso agli atti dell'universita', consegnando atti o copie a richiesta e collaborando attivamente nello svolgimento delle operazioni previste dal piano di rientro.
 
-#### Art. 15
+### Art. 15
 
 Oneri della gestione commissariale
 
@@ -451,7 +445,7 @@ Oneri della gestione commissariale
 
 2\. Il compenso spettante a ciascun commissario e' determinato con decreto del Ministro dell'istruzione, dell'universita' e della ricerca, di concerto con il Ministero dell'economia e delle finanze.
 
-#### Art. 16
+### Art. 16
 
 Quantificazione della massa passiva e redazione
 
@@ -465,7 +459,7 @@ o aggiornamento del piano di rientro
 
 4\. Il piano di rientro, qualora aggiornato o redatto ex novo, e' trasmesso al Ministero per l'approvazione, secondo le modalita' previste dall'articolo 8, comma 3.
 
-#### Art. 17
+### Art. 17
 
 Relazione annuale e integrazioni al piano di rientro
 
@@ -475,7 +469,7 @@ Relazione annuale e integrazioni al piano di rientro
 
 3\. Le integrazioni al piano di rientro per acquisire efficacia, devono essere approvate dai predetti Ministeri nel termine di venti giorni dal ricevimento della relazione di cui al comma 1, con la modalita' di cui all'articolo 8, comma 3.
 
-#### Art. 18
+### Art. 18
 
 Relazione finale e rendiconto
 
@@ -485,7 +479,7 @@ della gestione commissariale
 
 2\. Il rendiconto di cui al comma 1 contiene il dettaglio di ciascuna partita attiva e passiva e le somme riscosse e pagate, indicando eventuali scostamenti rispetto al piano approvato ed evidenziandone i motivi con riferimento alle relazioni annuali e alle autorizzazioni richieste ed ottenute. Il rendiconto evidenza il risultato della gestione commissariale.
 
-#### Art. 19
+### Art. 19
 
 Decreto di chiusura del commissariamento
 
@@ -521,11 +515,9 @@ L'universita', nel termine di sessanta giorni dal ricevimento dell'eventuale pro
 
 > 6\. Le disposizioni di cui al comma 5 si applicano anche a seguito dei processi di revisione e razionalizzazione dell'offerta formativa e della conseguente disattivazione dei corsi di studio universitari, delle facolta' e delle sedi universitarie decentrate, ai sensi dell'articolo 1-ter del decreto-legge 31 gennaio 2005, n. 7, convertito, con modificazioni, dalla legge 31 marzo 2005, n. 43.».
 
-## Capo IV
+## Capo IV - Disposizioni finali
 
-### Disposizioni finali
-
-#### Art. 20
+### Art. 20
 
 Disciplina transitoria
 

@@ -34,11 +34,9 @@ DISPOSIZIONI GENERALI SUI PROCEDIMENTI PER L'ADEMPIMENTO
 
 DEGLI OBBLIGHI COMUNITARI
 
-## TITOLO I - DISPOSIZIONI GENERALI SUI PROCEDIMENTI PER L'ADEMPIMENTO
+## TITOLO I - DISPOSIZIONI GENERALI SUI PROCEDIMENTI PER L'ADEMPIMENTO DEGLI OBBLIGHI COMUNITARI
 
-### DEGLI OBBLIGHI COMUNITARI
-
-#### ART. 1
+### ART. 1
 
 (Delega al Governo per l'attuazione
 
@@ -82,7 +80,7 @@ AGGIORNAMENTO (3)
 
 La L. 17 maggio 1999, n. 144, come modificata dalla L. 2 agosto 1999, n. 263 ha disposto (con l'art. 45, comma 24) che "Il termine per l'esercizio della delega ad emanare disposizioni integrative e correttive del decreto legislativo 14 agosto 1996, n. 494, di cui all'articolo 1, comma 6, della legge 24 aprile 1998, n. 128, e' prorogato di sei mesi".
 
-#### ART. 2
+### ART. 2
 
 (Criteri e principi direttivi generali
 
@@ -200,7 +198,7 @@ h) nelle materie di competenza delle regioni a statuto ordinario e speciale e de
 
 > \- Il D.P.R. 28 dicembre 1985, n. 1092, reca: "Approvazione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana".
 
-#### ART. 3
+### ART. 3
 
 (Pubblicazione di avviso
 
@@ -210,7 +208,7 @@ per l'attuazione di direttive).
 
 "3-ter. Al fine di agevolare la conoscenza delle norme comunitarie destinate ad incidere sulle disposizioni dell'ordinamento nazionale, la Presidenza del Consiglio dei ministri predispone, per la pubblicazione, a titolo informativo, nella Gazzetta Ufficiale - serie generale il giorno della scadenza del termine per l'attuazione di ogni direttiva delle Comunita' europee, un avviso contenente il numero di ciascuna direttiva, il suo oggetto, gli estremi della pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e nella Gazzetta Ufficiale delle Comunita' europee, nonche' l'indicazione delle norme adottate per la sua attuazione".
 
-#### ART. 4
+### ART. 4
 
 (Delega al Governo per l'esecuzione delle sentenze
 
@@ -220,7 +218,7 @@ della Corte di giustizia delle Comunita' europee).
 
 2\. I decreti legislativi di cui al comma 1 sono emanati con le modalita' di cui ai commi 2 e 3 dell'articolo 1.
 
-#### ART. 5
+### ART. 5
 
 (Attuazione di direttive comunitarie
 
@@ -242,7 +240,7 @@ con regolamento autorizzato).
 
 > "Art. 5 (Attuazioni modificative). - 1. Fermo quanto previsto dall'art. 20 della legge 16 aprile 1987, n. 183, la legge comunitaria puo' disporre che, all'attuazione di ciascuna modifica delle direttive da attuare mediante regolamento a norma dell'art. 4, si provveda con la procedura di cui ai commi 4 e 5 del medesimo articolo".
 
-#### ART. 6
+### ART. 6
 
 (Attuazione di direttive comunitarie in via regolamentare
 
@@ -270,11 +268,11 @@ o amministrativa).
 
 > 2\. I Ministri interessati danno immediata comunicazione dei provvedimenti adottati ai sensi del comma 1 al Ministro per il coordinamento delle politiche comunitarie, al Ministro degli affari esteri ed al Parlamento".
 
-#### ART. 7 - Oneri relativi a prestazioni e controlli
+### ART. 7 - Oneri relativi a prestazioni e controlli
 
 1\. Nell'attuazione delle normative comunitarie, gli oneri di prestazioni e controlli da eseguirsi da parte degli uffici pubblici in applicazione delle normative medesime sono posti a carico dei soggetti interessati, quando cio' non contrasti con la disciplina comunitaria.
 
-#### ART. 8
+### ART. 8
 
 (Delega al Governo per la disciplina sanzionatoria
 
@@ -292,7 +290,7 @@ di violazioni di disposizioni comunitarie).
 
 > \- Per quanto concerne la legge 23 agosto 1988, n. 400, ved. note all'art. 1.
 
-#### ART. 9
+### ART. 9
 
 (Disciplina sanzionatoria per le violazioni del regolamento
 
@@ -306,7 +304,7 @@ di violazioni di disposizioni comunitarie).
 
 > \- Il regolamento (CEE) n. 793/93 del Consiglio, del 23 marzo 1993, relativo alla valutazione e al controllo dei rischi presentati dalle sostanze esistenti, e' pubblicato in G.U.C.E. L 84 del 5 maggio 1993.
 
-#### ART. 10
+### ART. 10
 
 (Riordinamento normativo nelle materie interessate
 
@@ -314,11 +312,11 @@ dalle direttive comunitarie).
 
 1\. Il Governo e' autorizzato ad emanare, con le modalita' di cui ai commi 2 e 3 dell'articolo 1 e acquisendo, limitatamente alle materie di competenza regionale, il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, entro due anni dalla data di entrata in vigore della presente legge, testi unici compilativi delle disposizioni dettate in attuazione delle deleghe conferite per il recepimento di direttive comunitarie coordinando le norme vigenti nelle stesse materie ed apportandovi le integrazioni e modificazioni necessarie al predetto coordinamento.
 
-#### ART. 11
+### ART. 11
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-#### ART. 12 - Marcatura CE
+### ART. 12 - Marcatura CE
 
 1\. Per le direttive che prevedono l'apposizione della marcatura CE si applica l'articolo 47 della legge 6 febbraio 1996, n. 52; il decreto di cui al comma 4 del citato articolo 47 e' emanato entro novanta giorni dalla data di entrata in vigore della presente legge.
 
@@ -346,7 +344,7 @@ dalle direttive comunitarie).
 
 > "5. Il fabbricante o il suo mandatario stabilito nell'Unione europea, oltre a predisporre la dichiarazione di cui al comma 1, appone la marcatura CE di conformita', di cui all'allegato 1, sull'apparecchio, ovvero, quando non possibile, sulle istruzioni per l'uso ovvero, in alternativa alle istruzioni, sul tagliando di garanzia e, facoltativamente, sull'imballaggio".
 
-#### ART. 13
+### ART. 13
 
 (Modifiche alla legge 9 marzo 1989, n. 86,
 
@@ -424,11 +422,11 @@ Il numero e gli estremi di pubblicazione di ciascuna legge sono comunicati alla 
 
 > Gli uffici regionali e provinciali intrattengono rapporti con le istituzioni comunitarie nelle materie di rispettiva competenza. Gli oneri derivanti dall'istituzione degli uffici sono posti a carico dei rispettivi bilanci delle regioni e delle province autonome".
 
-#### ART. 14
+### ART. 14
 
 ((ARTICOLO ABROGATO DALLA L. 29 DICEMBRE 2000, N. 422))
 
-#### ART. 15 - Modifiche al decreto-legge 24 giugno 1994, n. 408, convertito, con modificazioni, dalla legge 3 agosto 1994, n. 483, recante disposizioni urgenti in materia di elezioni al Parlamento europeo
+### ART. 15 - Modifiche al decreto-legge 24 giugno 1994, n. 408, convertito, con modificazioni, dalla legge 3 agosto 1994, n. 483, recante disposizioni urgenti in materia di elezioni al Parlamento europeo
 
 1\. Al decreto-legge 24 giugno 1994, n. 408, convertito, con modificazioni, dalla legge 3 agosto 1994, n. 483, sono apportate le seguenti modificazioni:
 
@@ -454,7 +452,7 @@ b) all'articolo 2, comma 2, lettera e), sono soppresse le parole: "italiano o pe
 
 > e) l'assenza di un provvedimento giudiziario, penale o civile, a carico, che comporti per lo Stato di origine la perdita dell'elettorato attivo".
 
-#### ART. 16
+### ART. 16
 
 (Modifiche alla legge 27 marzo 1992, n. 257, recante norme
 
@@ -486,11 +484,9 @@ relative alla cessazione del l'impiego dell'amianto).
 
 > \- Il D.Lgs. 17 marzo 1995, n. 114, reca: "Attuazione della direttiva 87/217/CEE in materia di prevenzione e riduzione dell'inquinamento dell'ambiente causato dall'amianto".
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO, CRITERI SPECIALI
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO, CRITERI SPECIALI DI DELEGA LEGISLATIVA E PER L'EMANAZIONE DI REGOLAMENTO
 
-### DI DELEGA LEGISLATIVA E PER L'EMANAZIONE DI REGOLAMENTO
-
-#### ART. 17 - Tutela delle acque dall'inquinamento
+### ART. 17 - Tutela delle acque dall'inquinamento
 
 1\. Il termine di cui all'articolo 6, comma 1, della legge 6 febbraio 1996, n. 52, e' prorogato di un anno a decorrere dalla data di entrata in vigore della presente legge, limitatamente all'attuazione delle direttive di cui all'articolo 37 della legge 22 febbraio 1994, n. 146.
 
@@ -520,7 +516,7 @@ d) che la tariffa di cui all'articolo 13 della legge 5 gennaio 1994, n. 36, per 
 
 > \- La legge 5 gennaio 1994, n. 36, reca: "Disposizioni in materia di risorse idriche".
 
-#### ART. 18 - Principi e criteri per l'attuazione della direttiva 96/82/CE del Consiglio, sul controllo dei pericoli di incidenti rilevanti connessi con determinate sostanze pericolose
+### ART. 18 - Principi e criteri per l'attuazione della direttiva 96/82/CE del Consiglio, sul controllo dei pericoli di incidenti rilevanti connessi con determinate sostanze pericolose
 
 1\. L'attuazione della direttiva 96/82/CE del Consiglio si uniforma ai seguenti principi e criteri direttivi:
 
@@ -540,7 +536,7 @@ e) prevedere che il Ministro dei lavori pubblici, di intesa con i Ministri dell'
 
 > \- Per quanto concerne l'art. 17 della legge 23 agosto 1988 n. 400 ved. note all'art. 5.
 
-#### ART. 19 - Principi e criteri per l'attuazione della direttiva 95/60/CE del Consiglio, sulla marcatura dei gasoli e del petrolio lampante
+### ART. 19 - Principi e criteri per l'attuazione della direttiva 95/60/CE del Consiglio, sulla marcatura dei gasoli e del petrolio lampante
 
 1\. L'attuazione della direttiva 95/60/CE del Consiglio si informa ai seguenti criteri e principi direttivi:
 
@@ -554,7 +550,7 @@ d) prevedere la preventiva valutazione da parte del Ministero
 
 della sanita' delle proprieta' tossicologiche e delle modalita' di impiego delle sostanze marcanti.
 
-#### ART. 20
+### ART. 20
 
 Direttiva 96/59/CE del Consiglio, concernente
 
@@ -568,7 +564,7 @@ a) prevedere criteri e programmi finalizzati allo smaltimento o al recupero, in 
 
 b) prevedere criteri per la predisposizione di analitici inventari dei PCB esistenti e delle apparecchiature ed impianti che li contengono.
 
-#### ART. 21
+### ART. 21
 
 (Direttiva 96/61/CE del Consiglio, sulla prevenzione e
 
@@ -604,7 +600,7 @@ riduzione dell'inquinamento).
 
 > 7\. Alle denunce e alle domande disciplinate dal presente Capo si applicano, in quanto compatibili, le disposizioni di cui al decreto del Presidente della Repubblica 26 aprile 1992, n. 300 e successive modifiche ed integrazioni. Si applicano, altresi', le disposizioni di cui all'articolo 21 della legge 7 agosto 1990, n. 241".
 
-#### ART. 22 - Adeguamento alla normativa dell'Unione europea di norme disciplinanti il regime di proprieta' degli aeromobili la navigazione aerea, l'esercizio di imprese di lavoro aereo e le scuole di pilotaggio
+### ART. 22 - Adeguamento alla normativa dell'Unione europea di norme disciplinanti il regime di proprieta' degli aeromobili la navigazione aerea, l'esercizio di imprese di lavoro aereo e le scuole di pilotaggio
 
 1\. In tutte le disposizioni della parte seconda del codice della navigazione, il termine "straniero" e' riferito a persone fisiche, persone giuridiche, societa', enti, organizzazioni di Stati che non siano membri dell'Unione europea.
 
@@ -740,7 +736,7 @@ d-ter) e' stato riconsegnato al proprietario. In tal caso non si applica la proc
 
 > 5\) di possedere i necessari requisiti di idoneita' fisica in rapporto alla qualifica per la quale esse chiedono la iscrizione".
 
-#### ART. 23
+### ART. 23
 
 (Inchieste su incidenti e inconvenienti nel settore
 
@@ -772,7 +768,7 @@ h) prevedere l'obbligo di trasmissione delle relazioni, dei rapporti e delle rac
 
 > \- Il D.P.R. 1 settembre 1967, n. 1411, reca: "Approvazione del regolamento sullo stato giuridico della gente dell'aria".
 
-#### ART. 24
+### ART. 24
 
 (Libero accesso al mercato dei servizi
 
@@ -810,11 +806,11 @@ top on
 
 > \- Il D.L. 28 giugno 1995, n. 251, convertito in legge 3 agosto 1995, n. 351, reca: "Disposizioni urgenti in materia di gestioni aeroportuali, di trasporti eccezionali e di veicoli adibiti a servizi di emergenza".
 
-#### Art. 25
+### Art. 25
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-#### ART. 26 - Disposizioni sulla Farmacopea europea
+### ART. 26 - Disposizioni sulla Farmacopea europea
 
 1\. Le edizioni della Farmacopea europea prevista dalla Convenzione adottata a Strasburgo il 22 luglio 1964, ratificata ai sensi della legge 22 ottobre 1973, n. 752, e i relativi aggiornamenti e supplementi, entrano in vigore nel territorio nazionale a decorrere dalla data stabilita con decreto del Ministro della sanita', da pubblicare nella Gazzetta Ufficiale della Repubblica italiana, in conformita' alle decisioni adottate dal Consiglio d'Europa. I testi della Farmacopea europea sono posti a disposizione di qualunque interessato per consultazione e chiarimenti presso la Segreteria tecnica della Commissione permanente per la revisione e la pubblicazione della Farmacopea ufficiale di cui alla legge 9 novembre 1961, n. 1242.
 
@@ -824,7 +820,7 @@ top on
 
 > \- La legge 9 novembre 1961, n. 1242, reca: "Revisione e pubblicazione della Farmacopea ufflciale".
 
-#### ART. 27 - Modifiche al decreto legislativo 25 gennaio 1992, n. 107, di attuazione delle direttive 88/388/CEE e 91/71/CEE, relative agli aromi destinati ad essere impiegati nei prodotti alimentari e ai materiali di base per la loro preparazione
+### ART. 27 - Modifiche al decreto legislativo 25 gennaio 1992, n. 107, di attuazione delle direttive 88/388/CEE e 91/71/CEE, relative agli aromi destinati ad essere impiegati nei prodotti alimentari e ai materiali di base per la loro preparazione
 
 1\. Al decreto legislativo 25 gennaio 1992, n. 107, sono apportate le seguenti modificazioni:
 
@@ -864,7 +860,7 @@ b) all'allegato II, relativo ai tenori tollerabili di taluni metalli pesanti neg
 
 > Cadmio " 1 mg/Kg".
 
-#### ART. 28 - Etichettatura dei prodotti cosmetici
+### ART. 28 - Etichettatura dei prodotti cosmetici
 
 All'articolo 8, comma 2, della legge 11 ottobre 1986, n. 713, come sostituito dall'articolo 6 del decreto legislativo 24 aprile 1997, n. 126, di attuazione della direttiva 93/35/CEE e della direttiva 95/17/CE, dopo la parola: "aroma" sono inserite le seguenti: "specificando se le loro essenze siano di origine naturale o di origine artificiale".
 
@@ -874,7 +870,7 @@ All'articolo 8, comma 2, della legge 11 ottobre 1986, n. 713, come sostituito da
 
 > "2. I composti odoranti e aromatizzanti e le loro materie prime devono essere indicati con i termini "profumo" o "parfum" e "aroma" specificando se le loro essenze siano di origine naturale o di origine artificiale. Gli ingredienti in concentrazione inferiore all'1% possono essere menzionati in ordine sparso dopo quelli in concentrazione superiore all'1%".
 
-#### ART. 29
+### ART. 29
 
 (Organi che effettuano le ispezioni
 
@@ -908,7 +904,7 @@ e) prevedere l'obbligo per gli organismi riconosciuti dallo Stato italiano di re
 
 > \- Il decreto legislativo del Capo provvisorio dello Stato 22 gennaio 1947, n. 340, riguarda: "Riordinamento del Registro italiano navale".
 
-#### ART. 30
+### ART. 30
 
 (Trasporto di merci pericolose per
 
@@ -932,7 +928,7 @@ d) regolamentare con disposizioni speciali le convenzioni con le Forze armate pe
 
 > \- Il regio decreto-legge 25 gennaio 1940, n.9, convertito dalla legge 13 maggio 1940, n. 674, riguarda: "Nuove condizioni e tariffe per il trasporto delle cose sulle ferrovie dello Stato".
 
-#### ART. 31 - Emissione di segnali televisivi
+### ART. 31 - Emissione di segnali televisivi
 
 1\. L'attuazione della direttiva 95/47/CE del Parlamento europeo e del Consiglio, nel rispetto delle disposizioni in materia di tutela del pluralismo e della concorrenza, si informa ai seguenti principi e criteri direttivi:
 
@@ -946,7 +942,7 @@ d) dettare per i servizi televisivi numerici a pagamento ad accesso condizionato
 
 e) favorire sistemi e tecnologie ecologicamente compatibili, tenuto conto sia delle ripercussioni sulla salute umana dei campi elettromagnetici emessi dalle stazioni e dai ripetitori di radiodiffusione di segnali televisivi, sia dell'impatto ambientale derivante dalle realizzazioni delle stazioni e degli impianti di ripetizione.
 
-#### ART. 32 - Ascensori
+### ART. 32 - Ascensori
 
 1\. Il regolamento da emanare a norma dell'articolo 4 della legge 9 marzo 1989, n. 86, e successive modificazioni, per adeguare l'ordinamento italiano alla direttiva 95/16/CE del Parlamento europeo e del Consiglio, si attiene alle disposizioni contenute nella medesima direttiva e, in particolare, ai seguenti principi generali:
 
@@ -990,7 +986,7 @@ g) determinare le modalita' di apposizione della marcatura CE e le misure per co
 
 > 8\. Al disegno di legge comunitaria e' allegato l'elenco delle direttive attuate o da attuare in via amministrativa".
 
-#### ART. 33 - Imprese finanziarie: criteri di delega
+### ART. 33 - Imprese finanziarie: criteri di delega
 
 1\. Al fine di rafforzare la vigilanza prudenziale in tutto il settore dei servizi finanziari, il Governo e' delegato a emanare uno o piu' decreti legislativi per adeguare ai principi e alle prescrizioni della direttiva 95/26/CE del Parlamento europeo e del Consiglio la normativa nazionale delle imprese finanziarie: banche, societa' di intermediazione mobiliare, organismi di investimento collettivo in valori mobiliari e imprese di assicurazione.
 
@@ -1006,7 +1002,7 @@ c) prevedere che i soggetti abilitati a svolgere un'attivita' di
 
 controllo legale dei conti presso una impresa finanziaria o qualsiasi altro incarico ufficiale presso la stessa o presso una impresa legata a questa da stretti legami, secondo i criteri stabiliti dalla direttiva, abbiano l'obbligo di comunicare alle autorita' di vigilanza competenti fatti rilevanti, di cui essi siano venuti a conoscenza nell'esercizio dell'incarico, che possano costituire violazione di norme legislative o regolamentari, pregiudicare la continuita' dell'impresa, comportare il rifiuto della certificazione o l'emissione di riserve.
 
-#### ART. 34
+### ART. 34
 
 (Trasferimenti valutari all'estero
 
@@ -1022,7 +1018,7 @@ dei compensi di mediazione).
 
 > \- Il D.P.R. 31 marzo 1988, n. 148, riguarda: "Approvazione del testo unico delle norme in materia valutaria".
 
-#### ART. 35
+### ART. 35
 
 (Sistemi di indennizzo degli
 
@@ -1040,7 +1036,7 @@ c) demandare alle competenti autorita' di vigilanza il potere di prescrivere che
 
 > \- Il decreto legislativo 23 luglio 1996, n. 415, riguarda: "Recepimento della diretttva 93/22/CEE del 10 maggio 1993 relativa ai servizi di investimento nel settore dei valori mobiliari e della direttiva 93/6/CEE del 15 marzo 1993 relativa all'adeguatezza patrimoniale delle imprese di investimento e degli enti creditizi".
 
-#### ART. 36 - Norme per il mercato dell'energia elettrica
+### ART. 36 - Norme per il mercato dell'energia elettrica
 
 1\. Al fine di promuovere la liberalizzazione del settore energetico, il Governo e' delegato ad emanare, entro un anno dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi, per dare attuazione alla direttiva 96/92/CE del Parlamento europeo e del Consiglio, recante norme comuni per il mercato interno per l'energia elettrica, e ridefinire conseguentemente tutti gli aspetti rilevanti del sistema elettrico nazionale, nel rispetto dei seguenti principi e criteri direttivi:
 
@@ -1058,7 +1054,7 @@ f) definire le misure per assicurare condizioni di reciprocita' nei confronti de
 
 g) collocare la liberalizzazione del mercato elettrico nazionale nell'ottica dell'integrazione europea dei mercati nazionali dell'energia elettrica prevista dalla direttiva comunitaria, finalizzando i decreti legislativi anche all'obiettivo di facilitare la transizione dell'industria nazionale ai nuovi assetti europei.
 
-#### ART. 37
+### ART. 37
 
 (Modifiche del decreto legislativo
 
@@ -1090,7 +1086,7 @@ d) amministrazione generale indispensabile per le attivita' della Commissione, i
 
 > q) La data di scadenza in normali condizioni di conservazione del preparato, se la durata dello stesso e' inferiore a due anni".
 
-#### ART. 38
+### ART. 38
 
 (Classificazione, imballaggio ed etichettatura
 
@@ -1112,7 +1108,7 @@ dei preparati pericolosi)
 
 > c) prevedere che le spese relative alle prestazioni rese dal Ministero della sanita' e dall'Istituto superiore di sanita' siano poste a carico delle imprese notificatrici di nuove sostanze chimiche, secondo le tariffe e le modalita' di versamento da stabilire con decreto del Ministro della sanita', di concerto con il Ministro del tesoro".
 
-#### ART. 39 - Organizzazione dei controlli ufficiali e modalita' di riconoscimento di stabilimenti e intermediari nel settore dell'alimentazione animale: criteri di delega
+### ART. 39 - Organizzazione dei controlli ufficiali e modalita' di riconoscimento di stabilimenti e intermediari nel settore dell'alimentazione animale: criteri di delega
 
 1\. L'attuazione della direttiva 95/53/CE del Consiglio sara' uniformata ai seguenti principi e criteri direttivi:
 
@@ -1132,7 +1128,7 @@ b) ferme restando le disposizioni di principio e le norme quadro, prevedere la s
 
 c) prevedere che il riconoscimento degli stabilimenti e degli intermediari avvenga in base a criteri di rigore atti a garantire la protezione della salute umana, degli animali e la tutela dell'ambiente.
 
-#### Art. 40
+### Art. 40
 
 Organizzazioni dei produttori
 
@@ -1176,7 +1172,7 @@ b) elaborare programmi di commercializzazione delle produzioni per il tramite de
 
 9\. Il Governo esercita, ai sensi dell'articolo 11 della legge 9 marzo 1989, n. 86, il potere sostitutivo in caso di inadempienza delle regioni o province autonome nell'adozione dei provvedimenti amministrativi relativi all'attuazione dei regolamenti suddetti.
 
-#### ART. 41
+### ART. 41
 
 (Tutela dell'acquirente per taluni aspetti
 
@@ -1202,7 +1198,7 @@ g) prevedere l'obbligatorieta' per il venditore di fornire garanzie fideiussorie
 
 2\. Il legislatore delegato dovra' prevedere, per tutte le controversie derivanti dall'applicazione delle norme dettate dal decreto legislativo, la competenza territoriale inderogabile del giudice del luogo di residenza o di domicilio dell'acquirente, se ubicati nel territorio dello Stato.
 
-#### ART. 42
+### ART. 42
 
 (Titoli e marchi di identificazione
 
@@ -1220,7 +1216,7 @@ c) modificare e integrare la disciplina del marchio di responsabilita', preveden
 
 > \- La legge 30 gennaio 1968, n. 46, riguarda: "Disciplina dei titoli e dei marchi di identificazione dei metalli preziosi".
 
-#### ART. 43 - Tutela giuridica delle banche di dati
+### ART. 43 - Tutela giuridica delle banche di dati
 
 1\. L'attuazione della direttiva 96/9/CE del Parlamento europeo e del Consiglio si informa ai seguenti principi e criteri direttivi:
 
@@ -1260,7 +1256,7 @@ top on
 
 > 8\) i programmi per elaboratore, in qualsiasi forma espressi purche' originali quale risultato di creazione intellettuale dell'autore. Restano esclusi dalla tutela accordata dalla presente legge le idee e i principi che stanno alla base di qualsiasi elemento di un programma, compresi quelli alla base delle sue interfacce. Il termine programma comprende anche il materiale preparatorio per la progettazione del programma stesso".
 
-#### ART. 44
+### ART. 44
 
 (Disciplina della utilizzazione
 
@@ -1274,7 +1270,7 @@ delle acque minerali naturali).
 
 > \- Il decreto legislativo 25 gennaio 1992, n. 105, riguarda: "Attuazione della direttiva 80/777/CEE relativa alla utilizzazione e alla commercializzazione delle acque minerali naturali".
 
-#### ART. 45 - Prodotti tessili
+### ART. 45 - Prodotti tessili
 
 1\. Per l'attuazione della direttiva 96/ 74/CE del Parlamento europeo e del Consiglio, sono apportate le necessarie modifiche alla legge 26 novembre 1973, n. 883, facendo comunque salvi gli attuali livelli minimi di tutela ed operando il necessario raccordo con le disposizioni nazionali vigenti che prevedono, anche in attuazione di direttive comunitarie, l'informazione al consumatore.
 
@@ -1282,7 +1278,7 @@ delle acque minerali naturali).
 
 > \- La legge 26 novembre 1973, n. 883, riguarda: "Disciplina delle denominazioni e della etichettatura dei prodotti tessili".
 
-#### ART. 46 - Norme tecniche di sicurezza e disposizioni di carattere costruttivo concernenti le macchine, i componenti di sicurezza ed altri prodotti industriali
+### ART. 46 - Norme tecniche di sicurezza e disposizioni di carattere costruttivo concernenti le macchine, i componenti di sicurezza ed altri prodotti industriali
 
 1\. Alle macchine, ai componenti di sicurezza ed altri apparecchi, la cui rispondenza ai requisiti essenziali di sicurezza e' disciplinata da disposizioni nazionali di attuazione di direttive comunitarie e la cui conformita' ai requisiti stessi e' debitamente attestata dalla apposizione della marcatura CE e dalla attestazione di conformita', non si applicano le disposizioni di omologazione contenute nella disciplina vigente, in particolare nella legge 24 ottobre 1942, n. 1415, e successive modificazioni, nel decreto del Presidente della Repubblica 27 aprile 1955, n. 547, e successive modificazioni, nel decreto del Presidente della Repubblica 7 gennaio 1956, n. 164, e successive modificazioni, nel decreto del Presidente della Repubblica 20 marzo 1956, n. 320, e successive modificazioni, nel decreto del Presidente della Repubblica 20 marzo 1956, n. 323, e successive modificazioni, nel decreto del Ministro del lavoro e della previdenza sociale 12 settembre 1959, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale della Repubblica italiana n. 299 dell'11 dicembre 1959, nel regolamento per gli ascensori ed i montacarichi in servizio privato, approvato con decreto del Presidente della Repubblica 29 maggio 1963, n. 1497, nel decreto del Ministro per il coordinamento delle politiche comunitarie 28 novembre 1987, n. 586, nel decreto del Ministro per il coordinamento delle politiche comunitarie 9 dicembre 1987, n. 587, e nel decreto del Presidente della Repubblica 28 marzo 1994, n. 268.
 
@@ -1318,7 +1314,7 @@ delle acque minerali naturali).
 
 > \- Per quanto riguarda la legge 22 aprile 1941, n. 633, ved. nota all'art. 43.
 
-#### ART. 47 - Attuazione della direttiva 95/58/CE in materia di indicazione dei prezzi dei prodotti ai fini della protezione dei consumatori
+### ART. 47 - Attuazione della direttiva 95/58/CE in materia di indicazione dei prezzi dei prodotti ai fini della protezione dei consumatori
 
 1\. All'articolo 4, secondo comma, del decreto del Presidente della Repubblica 23 agosto 1982, n. 903, come sostituito dall'articolo 2 del decreto legislativo 25 gennaio 1992, n. 76, le parole: "fino al 7 giugno 1995" sono sostituite dalle seguenti: " fino al 7 giugno 1997".
 
@@ -1332,7 +1328,7 @@ delle acque minerali naturali).
 
 > "3. Sono esentati dall'obbligo dell'indicazione del prezzo per unita' di misura: fino al 7 giugno 1997 i prodotti preconfezionati in quantita' prestabilite di cui all'allegato, se commercializzati secondo gamme di quantita' nominali o capacita' nominali previste dalle norme vigenti, i cui valori non corrispondono a gamme comunitarie".
 
-#### ART. 48 - Prodotti alimentari
+### ART. 48 - Prodotti alimentari
 
 1\. Le disposizioni concernenti gli ingredienti, la composizione e l'etichettatura dei prodotti alimentari, di cui alla legge 4 luglio 1967, n. 580, sulla lavorazione e il commercio dei cereali, degli sfarinati, del pane e delle paste alimentari, non si applicano ai prodotti alimentari legalmente fabbricati e commercializzati negli altri Stati membri dell'Unione europea o negli altri Paesi contraenti l'Accordo sullo spazio economico europeo, introdotti e posti in vendita nel territorio nazionale.
 
@@ -1344,7 +1340,7 @@ delle acque minerali naturali).
 
 > \- La legge 4 luglio 1967, n. 580, riguarda: n. 580, riguarda: "Disciplina per la lavorazione e commercio dei cereali, degli sfarinati, del pane e delle paste alimentari".
 
-#### ART. 49 - Paste farcite con carne
+### ART. 49 - Paste farcite con carne
 
 1\. Agli stabilimenti che producono settimanalmente una quantita' di paste farcite con carne non superiore ai due quintali non si applicano le disposizioni del decreto legislativo 30 dicembre 1992, n. 537, come modificato dal decreto legislativo 19 marzo 1996, n. 251.
 
@@ -1354,7 +1350,7 @@ delle acque minerali naturali).
 
 > \- Il D.Lgs. 19 marzo 1996, n. 251, riguarda: "Modificazioni al D.L. 30 dicembre 1992, n. 537, concernente attuazione della direttiva 92/5/CEE relativa ai problemi sanitari in materia di protezione e commercializzazione di prodotti a base di carne e di alcuni prodotti di origine animale".
 
-#### ART. 50 - Protezione dei giovani sul lavoro: criteri di delega
+### ART. 50 - Protezione dei giovani sul lavoro: criteri di delega
 
 1\. L'attuazione della direttiva 94/33/CE del Consiglio si informa all'obiettivo di adeguare la vigente disciplina sul lavoro minorile alle prescrizioni recate dalla direttiva stessa, secondo i seguenti principi e criteri direttivi:
 
@@ -1378,7 +1374,7 @@ d) prevedere, ai sensi dell'articolo 14 della direttiva stessa, sanzioni penali 
 
 > 2\) trasformare in illeciti amministrativi tutti gli altri reati, prevedendo la sanzione pecuniaria non superiore a lire cinque milioni, nonche' le sanzioni amministrative accessorie corrispondenti alle pene accessorie dei reati depenalizzati".
 
-#### ART. 51
+### ART. 51
 
 (Protezione dei lavoratori contro i rischi derivanti dall'esposizione ad agenti biologici durante il lavoro e prescrizioni minime di sicurezza e salute per il lavoro a bordo delle navi da pesca:
 
@@ -1422,7 +1418,7 @@ criteri di delega).
 
 > 3\. In deroga a quanto previsto nell'art. 1, il termine per l'emanazione del decreto legislativo di attuazione delle direttive di cui al comma 1 del presente articolo e' fissato in diciotto mesi dalla data di entrata in vigore della presente legge".
 
-#### ART. 52 - Disposizioni sul miele
+### ART. 52 - Disposizioni sul miele
 
 1\. Il secondo comma dell'articolo 3 della legge 12 ottobre 1982, n. 753, come sostituito dall'articolo 51, comma 1, lettera a), della legge 29 dicembre 1990, n. 428, e' sostituito dal seguente:
 
@@ -1450,7 +1446,7 @@ criteri di delega).
 
 > "Art. 7. - Il Ministero dell'agricoltura e delle foreste, di intesa con il Ministero della sanita' e con il Ministero dell'industria, del commercio e dell'artigianato, entro sei mesi dalla data di entrata in vigore della presente legge, cura la pubblicazione delle metodiche ufficiali di analisi per il miele e stabilisce le caratteristiche fisico- chimiche, microscopiche e organolettiche dei principali tipi di miele nazionale nonche' le condizioni ed i requisiti per l'ottenimento di eventuali marchi di qualita'".
 
-#### Art. 53 - Controlli e vigilanza sulle denominazioni protette e sulle attestazioni di specificita'
+### Art. 53 - Controlli e vigilanza sulle denominazioni protette e sulle attestazioni di specificita'
 
 1\. In attuazione di quanto previsto all'articolo 10 del regolamento (CEE) n. 2081/92 del Consiglio, del 14 luglio 1992, e all'articolo 14 del regolamento (CEE) n. 2082/92 del Consiglio, del 14 luglio 1992, il Ministero delle politiche agricole e forestali e' l'autorita' nazionale preposta al coordinamento dell'attivita' di controllo e' responsabile della vigilanza sulla stessa. L'attivita' di controllo di cui all'articolo 10 del citato regolamento (CEE) n. 2081/92 e all'articolo 14 del citato regolamento (CEE) n. 2082/92 e' svolta da autorita' di controllo pubbliche designate e da organismi privati autorizzati con decreto del Ministro delle politiche agricole e forestali, sentito il gruppo tecnico di valutazione istituito con decreto del Ministro per le politiche agricole 25 maggio 1998, pubblicato nella Gazzetta Ufficiale n. 178 del 1o agosto 1998.
 
@@ -1518,11 +1514,11 @@ d) collaborano, secondo le direttive impartite dal Ministero delle politiche agr
 
 19\. Nelle regioni a statuto speciale e nelle province autonome di Trento e di Bolzano le presenti disposizioni si applicano nel rispetto degli statuti e delle relative norme di attuazione.
 
-#### ART. 54 - Soppressione dell'estensione della disciplina sull'amministrazione straordinaria delle grandi imprese in crisi di insolvenza determinata dall'obbligo di rimborsare aiuti di Stato in base a decisioni comunitarie
+### ART. 54 - Soppressione dell'estensione della disciplina sull'amministrazione straordinaria delle grandi imprese in crisi di insolvenza determinata dall'obbligo di rimborsare aiuti di Stato in base a decisioni comunitarie
 
 1\. Il comma 1 dell'articolo 1-bis del decreto-legge 30 gennaio 1979, n. 26, convertito, con modificazioni, dalla legge 3 aprile 1979, n. 95, introdotto dall'articolo 1 del decreto- legge 23 gennaio 1993, n. 17, convertito, con modificazioni, dalla legge 25 marzo 1993, n. 80, recante integrazioni dei presupposti per l'amministrazione straordinaria delle imprese in crisi, e' abrogato.
 
-#### ART. 55
+### ART. 55
 
 (Modificazioni al decreto legislativo
 
@@ -1552,7 +1548,7 @@ d) dopo il comma 4 dell'articolo 17 e' inserito il seguente:
 
 > 1\) rifiuti di origine animale: carcasse o parti di animali o pesci o prodotti di origine animale giudicati non destinati al consumo umano diretto a norma delle leggi vigenti, esclusi gli escreti degli animali e i rifiuti di cucina e dei pasti".
 
-#### ART. 56 - Integrazione del decreto legislativo 30 gennaio 1993, n. 28, che attua le direttive 89/662/CEE e 90/425/CEE
+### ART. 56 - Integrazione del decreto legislativo 30 gennaio 1993, n. 28, che attua le direttive 89/662/CEE e 90/425/CEE
 
 1\. Dopo l'articolo 13 del decreto legislativo 30 gennaio 1993, n. 28, e' inserito il seguente:
 
@@ -1570,7 +1566,7 @@ d) dopo il comma 4 dell'articolo 17 e' inserito il seguente:
 
 > \- Il D.Lgs. 30 gennaio 1993, n. 28, riguarda: "Attuazione delle direttive 89/662/CEE e 90/425/CEE relative ai controlli veterinari e zootecnici di taluni animali vivi e su prodotti di origine animale applicabili negli scambi intracomunitari".
 
-#### ART. 57 - Modifica della legge comunitaria 1991
+### ART. 57 - Modifica della legge comunitaria 1991
 
 1\. L'autorizzazione alla produzione, al commercio ed alla detenzione di coloranti per alimenti, di cui all'articolo 57, comma 4, della legge 19 febbraio 1992, n. 142, e' rilasciata dalla regione o dall'autorita' da essa delegata.
 
@@ -1596,11 +1592,9 @@ Visto, il Guardasigilli: Flick
 
 > "4. La produzione, il commercio e la detenzione di coloranti per alimenti sono soggetti ad autorizzazione del Ministero della santa'".
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO, CRITERI SPECIALI
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO, CRITERI SPECIALI DI DELEGA LEGISLATIVA E PER L'EMANAZIONE DI REGOLAMENTO
 
-### DI DELEGA LEGISLATIVA E PER L'EMANAZIONE DI REGOLAMENTO
-
-#### Allegato A
+### Allegato A
 
 ALLEGATO A
 
@@ -1960,7 +1954,7 @@ ALLEGATO A
 
 > \- La direttiva 97/48/CE e' pubblicata in G.U.C.E. L 222 del 12 agosto 1997.
 
-#### Allegato B
+### Allegato B
 
 ALLEGATO B
 
@@ -2292,7 +2286,7 @@ Identico
 
 > \- La direttiva 97/48/CE e' pubblicata in G.U.C.E. L 222 del 12 agosto 1997.
 
-#### Allegato C
+### Allegato C
 
 ALLEGATO C
 
@@ -2578,7 +2572,7 @@ Identico. 95/16/CE: direttiva del Parlamento europeo e del Consiglio, del 29 giu
 
 > \- La direttiva 97/48/CE e' pubblicata in G.U.C.E. L 222 del 12 agosto 1997.
 
-#### Allegato D
+### Allegato D
 
 ALLEGATO D
 
@@ -2966,7 +2960,7 @@ ALLEGATO D
 
 > \- La direttiva 97/48/CE e' pubblicata in G.U.C.E. L 222 del 12 agosto 1997.
 
-#### Allegato E
+### Allegato E
 
 ALLEGATO E
 

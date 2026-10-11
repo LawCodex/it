@@ -27,21 +27,21 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'accordo di cooperazione e di scambi cinematografici tra il Governo della Repubblica italiana ed il Governo del Regno del Marocco con norme di procedura, fatto a Rabat il 29 luglio 1991.
 
-### Art. 2
+## Art. 2
 
 1\. Piena ed intera esecuzione e' data all'accordo di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 17 dell'accordo stesso.
 
-### Art. 3
+## Art. 3
 
 1\. All'onere derivante dall'applicazione della presente legge nel triennio 1994-1996, valutato in lire 10 milioni annue per ciascuno degli anni 1994 e 1996, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1994-1996, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1994, all'uopo parzialmente utilizzando l'accantonamento riguardante il Ministero degli affari esteri.
 
 2\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-### Art. 4
+## Art. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -59,7 +59,7 @@ Visto, il Guardasigilli: MANCUSO
 
 ## I. - COPRODUZIONE
 
-### art. 1
+## art. 1
 
 ACCORDO DI COOPERAZIONE E DI SCAMBI CINEMATOGRAFICI
 
@@ -71,7 +71,7 @@ Il Governo della Repubblica Italiana ed il Governo del Regno del Marocco, animat
 
 Art. 1: Ai fini del presente Accordo si intendono per films di coproduzione le opere cinematografiche di lungo o corto metraggio di lunghezza conforme alle norme di ciascuno dei due Paesi, realizzate da uno o piu' produttori italiani unitamente ad uno o piu' produttori marocchini, conformemente alla norme di cui al presente Accordo, in base ad un contratto stipulato tra i coproduttori e debitamente approvato dalle competenti Autorita' dei rispettivi Paesi: per l'Italia il Ministero del Turismo e dello Spettacolo - Direzione Generale dello Spettacolo; per il Regno del Marocco il Centro Cinematografico Marocchino - C.C.M.
 
-### art. 2
+## art. 2
 
 Art. 2: I films realizzati in coproduzione tra l'Italia ed il Marocco verranno considerati come films nazionali dalle competenti Autorita' dei due Paesi, purche' realizzati in conformita' alle disposizioni cinematografiche legislative vigenti negli stessi.
 
@@ -83,11 +83,11 @@ Ai fini dell'ammissione ai benefici del presente Accordo i coproduttori devono p
 
 Il films di coproduzione devono altresi' essere realizzati da imprese che posseggono una adeguata organizzazione tecnica e finanziaria ed una esperienza professionale riconosciuta dalle Autorita' nazionali secondo le rispettive normative interne.
 
-### art. 3
+## art. 3
 
 Art. 3: Le istanze inoltrate dalle societa' produttrici ai fini di essere ammesse ai benefici del presente Accordo devono essere redatte in conformita' alle disposizioni fissate nelle norme di procedura, e trasmesse alle competenti Amministrazioni di ciascun Paese.
 
-### art. 4
+## art. 4
 
 Art. 4: Nella produzione dei films la produzione dei rispettivi apporti dei coproduttori dei due Paesi sara' fissata per ciascuna coproduzione di comune accordo dai coproduttori interessati.
 
@@ -101,7 +101,7 @@ La partecipazione artistica e tecnica deve essere adeguatamente proporzionata al
 
 Ogni film di coproduzione deve comportare l'impiego di un regista avente la cittadinanza di uno dei Paesi coproduttori.
 
-### art. 5
+## art. 5
 
 Art. 5: I films devono essere realizzati con autori, tecnici ed interpreti che abbiano la cittadinanza italiana o marocchina o siano residenti in uno dei due Paesi da almeno tre anni prima della data di inizio di lavorazione dei film, e cio' in conformita' alle rispettive legislazioni nazionali.
 
@@ -109,7 +109,7 @@ Tenuto conto delle esigenze del film, puo' essere consentita, previo accordo tra
 
 E' consentito l'impiego di interpreti stranieri per esigenze genotipiche.
 
-### art. 6
+## art. 6
 
 Art. 6: Le riprese del film devono essere effettuate in Italia o in Marocco, salvo che particolari esigenze di sceneggiatura richiedano il ricorso a scenari non esistenti in nessuno dei due Paesi.
 
@@ -125,35 +125,35 @@ In linea di massima lo sviluppo del negativo si effettuera' nei laboratori di un
 
 La stampa delle copie destinate alla programmazione in ciascun Paese verra' effettuata nei rispettivi laboratori.
 
-### art. 7
+## art. 7
 
 Art. 7: Nei limiti del possibile, vi dovra' essere un equilibrio generale nei rapporti di coproduzione.
 
-### art. 8
+## art. 8
 
 Art. 8: La ripartizione dei proventi dei mercati derivanti da qualsiasi utilizzazione dell'opera deve, di massima, essere proporzionata alla partecipazione finanziaria dei coproduttori al costo di produzione del film ed essere approvata dalle competenti Autorita' dei due Paesi.
 
-### art. 9
+## art. 9
 
 Art. 9: Previo accordo tra i coproduttori, le esportazioni di films di coproduzione saranno effettuate di preferenza dal Paese la cui partecipazione finanziaria sia maggioritaria.
 
-### art. 10
+## art. 10
 
 Art. 10: Il coproduttore minoritario deve trasferire il saldo della propria quota di partecipazione finanziaria al coproduttore maggioritario entro il termine di 60 giorni dalla data di consegna di tutto il materiale necessario per l'approntamento della versione nel Paese minoritario.
 
-### art. 11
+## art. 11
 
 Art. 11: Le disposizione del presente Accordo si estendono altresi' alla realizzazione di films tra le imprese coproduttrici delle due parti contraenti ed alle imprese dei due Paesi con i quali l'una e l'altra parte sono rispettivamente legate da accordi di coproduzione.
 
 La realizzazione di films a carattere artistico e finanziariamente elevato dovra' essere esaminata con particolare interesse.
 
-### art. 12
+## art. 12
 
 Art. 12: I titoli di testa dei films di coproduzione devono indicare, in un quadro separato, sia le imprese produttrici che la dicitura "coproduzione italo-marocchina" o "coproduzione marocco-italiana".
 
 I films saranno presentati ai Festivals internazionali dal Paese avente la partecipazione finanziaria maggioritaria o a cui appartiene il regista, salva diversa disposizione presa dai coproduttori ed approvata dalle competenti Autorita' dei due Paesi.
 
-### art. 13
+## art. 13
 
 Art. 13: Tutte le facilitazioni saranno accordate per la circolazione ed il soggiorno del personale artistico e tecnico impiegato nei films realizzati in coproduzione ai sensi del presente Accordo, come pure l'importazione e l'esportazione nei due Paesi del materiale necessario alla realizzazione ed allo sfruttamento dei suddetti films, nonche' per i trasferimenti valutari relativi al pagamento del materiale e delle prestazioni.
 
@@ -161,7 +161,7 @@ Le facilitazioni suddette sono accordate in ottemperanza degli accordi vigenti t
 
 ## II. - INTERSCAMBIO
 
-### art. 14
+## art. 14
 
 Art. 14: Nell'ambito della legislazione vigente in ciascuno dei due Paesi, la vendita, l'importazione, l'esportazione e la programmazione dei films dichiarati nazionali non saranno sottoposte a restrizione alcuna da ambo le Parti.
 
@@ -171,7 +171,7 @@ I trasferimenti dei proventi derivanti dalla vendita e dallo sfruttamento dei fi
 
 ## III. - DISPOSIZIONI GENERALI
 
-### art. 15
+## art. 15
 
 Art. 15: Le Autorita' competenti dei due Paesi si comunicheranno le informazioni di carattere tecnico e finanziario relative alla coproduzione, all'interscambio dei films ed in generale quelle relative alle relazioni cinematografiche tra i due Paesi.
 
@@ -179,7 +179,7 @@ Le stesse Autorita' concorderanno le norme di procedura per l'esecuzione del pre
 
 Tali norme verranno formalizzate mediante intese tecniche tra le stesse.
 
-### art. 16
+## art. 16
 
 Art. 16: Le Parti contraenti convengono di istituire una Commissione Mista che sara' presieduta dai funzionari responsabili del settore cinematografico di ciascun Paese, assistiti da esperti e funzionari designati dalle rispettive Autorita' competenti, che avra' il compito di esaminare le condizioni di applicazione del presente Accordo.
 
@@ -189,13 +189,13 @@ La Commissione ha inoltre il compito di proporre modifiche alle norme di procedu
 
 La Commissione Mista si riunira' in linea di massima ogni anno, alternativamente in Italia ed in Marocco, e potra' altresi' riunirsi in caso di importanti modifiche alla legislazione o alla normativa applicabile alla produzione cinematografica.
 
-### art. 17
+## art. 17
 
 Art. 17: Ciascuna Parte contraente notifichera' l'avvenuto espletamento delle procedure richieste dal proprio ordinamento per l'approvazione del presente Accordo.
 
 Il presente Accordo entrera' in vigore a partire dalla data di ricezione dell'ultima di questa notifica.
 
-### art. 18
+## art. 18
 
 Art. 18: Il presente Accordo ha la durata di quattro anni dalla data di entrata in vigore e sara' rinnovato per tacita riconduzione per successivi periodi di quattro anni, salvo denuncia scritta di una delle due Parti contraenti con preavviso scritto di almeno tre mesi prima della scadenza.
 
@@ -207,7 +207,7 @@ PER IL GOVERNO PER IL GOVERNO DEL REGNO DEL MAROCCO DELLA REPUBBLICA ITALIANA
 
 Parte di provvedimento in formato grafico
 
-### Norme di Procedura
+## Norme di Procedura
 
 NORME DI PROCEDURA
 

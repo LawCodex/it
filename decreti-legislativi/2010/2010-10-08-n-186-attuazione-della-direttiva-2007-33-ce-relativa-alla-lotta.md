@@ -47,11 +47,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - OGGETTO E DEFINIZIONI
 
-### OGGETTO E DEFINIZIONI
-
-#### Art. 1
+### Art. 1
 
 Finalita' della normativa
 
@@ -119,7 +117,7 @@ c) qualora vengano individuati, combatterli.
 
 > \- Per la direttiva 69/465/CEE si veda nelle note alle premesse.
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -135,11 +133,9 @@ d) indagine: un metodo procedurale applicato per un periodo di tempo definito pe
 
 e) parcella: un appezzamento di terreno condotto dal medesimo coltivatore, delimitato da confini identificabili (strade, capezzagne, canali, scoline ecc.), soggetto al medesimo avvicendamento e nel quale siano impiegate le medesime attrezzature e tecniche colturali.
 
-## Capo II
+## Capo II - INDIVIDUAZIONE
 
-### INDIVIDUAZIONE
-
-#### Art. 3
+### Art. 3
 
 Esami ufficiali
 
@@ -157,7 +153,7 @@ b) la messa a dimora di tuberi-seme di patata, destinati alla produzione di tube
 
 c) la messa a dimora delle piante di cui al punto 2 dell'allegato I, destinate alla produzione di vegetali destinati all'impianto qualora il raccolto sia soggetto alle misure approvate ufficialmente di cui alla sezione III, punto 1, dell'allegato III.
 
-#### Art. 4
+### Art. 4
 
 Modalita' d'esame
 
@@ -165,7 +161,7 @@ Modalita' d'esame
 
 2\. Nel caso delle parcelle ove devono essere impiantate o immagazzinate le piante di cui al punto 2 dell'allegato I, destinate alla produzione di vegetali per l'impianto, l'esame ufficiale di cui all'articolo 3, comma 1, comprende il campionamento e un'analisi per il rilevamento della presenza di nematodi a cisti della patata, conformemente all'allegato II, ovvero una verifica conformemente alla sezione I dell'allegato III.
 
-#### Art. 5
+### Art. 5
 
 Indagini ufficiali
 
@@ -175,7 +171,7 @@ Indagini ufficiali
 
 3\. I Servizi fitosanitari regionali trasmettono i risultati delle indagini ufficiali al Servizio fitosanitario centrale ogni anno entro il 1° marzo, in conformita' a quanto previsto nell'allegato III, sezione II.
 
-#### Art. 6
+### Art. 6
 
 Registro ufficiale degli esami
 
@@ -185,17 +181,15 @@ Registro ufficiale degli esami
 
 3\. I dati del registro ufficiale di cui al comma 1 sono trasmessi al Servizio fitosanitario centrale secondo le modalita' da questo definite per il loro inserimento nel Sistema informatico nazionale in agricoltura (SIAN).
 
-#### Art. 7
+### Art. 7
 
 Contaminazione
 
 1\. Le patate o le piante di cui all'allegato I provenienti da una parcella che da un registro ufficiale risulta infestata da nematodi a cisti della patata o che sono entrate in contatto con terreno infestato da nematodi a cisti della patata sono ufficialmente considerate contaminate.
 
-## Capo III
+## Capo III - MISURE DI LOTTA
 
-### MISURE DI LOTTA
-
-#### Art. 8
+### Art. 8
 
 Programma ufficiale di lotta
 
@@ -213,7 +207,7 @@ b) impiantare o immagazzinare piante di cui all'allegato I destinate al reimpian
 
 5\. Il contenuto del programma di cui al comma 3 e' trasmesso al Servizio fitosanitario centrale che provvedera' a notificarlo alla Commissione europea ed agli altri Stati membri. Il grado di resistenza delle varieta' di patate diverse da quelle gia' notificate a norma dell'articolo 10, paragrafo 1, della direttiva 69/465/CEE e' quantificato in base alla scala di punteggio di cui alla sezione I dell'allegato IV del presente decreto. Il test di resistenza e' effettuato in base al protocollo di cui alla sezione II dell'allegato IV.
 
-#### Art. 9
+### Art. 9
 
 Misure fitosanitarie
 
@@ -225,7 +219,7 @@ b) le patate destinate alla trasformazione o alla selezione industriale sono ogg
 
 c) le piante di cui al punto 2 dell'allegato I non sono messe a dimora prima di essere state disinfestate tramite le misure approvate ufficialmente di cui alla sezione III, punto 1, dell'allegato III.
 
-#### Art. 10
+### Art. 10
 
 Esami particolari
 
@@ -235,19 +229,19 @@ Esami particolari
 
 3\. I particolari della conferma di cui al comma 2 sono comunicati al Servizio fitosanitario centrale entro il 10 dicembre di ogni anno.
 
-#### Art. 11
+### Art. 11
 
 Varieta' resistenti
 
 1\. I Servizi fitosanitari regionali comunicano al Servizio fitosanitario centrale, entro il 31 dicembre di ogni anno, l'elenco di tutte le nuove varieta' di patate per le quali il test ufficiale ha accertato la resistenza ai nematodi a cisti della patata, indicando le specie, i patotipi, i gruppi di virulenza o le popolazioni a cui le varieta' sono resistenti, il grado di resistenza e l'anno in cui cio' e' stato determinato.
 
-#### Art. 12
+### Art. 12
 
 Revoca delle restrizioni
 
 1\. Il Servizio fitosanitario regionale competente per territorio dispone l'aggiornamento del registro ufficiale di cui all'articolo 6, per la parcella in cui, dopo l'attuazione delle misure approvate ufficialmente di cui alla sezione III, punto 3, dell'allegato III, non e' confermata la presenza di nematodi a cisti della patata e revoca tutte le restrizioni imposte per la parcella interessata.
 
-#### Art. 13
+### Art. 13
 
 Prove scientifiche
 
@@ -261,11 +255,9 @@ e selezione varietale
 
 > \- Per la direttiva 2000/29/CE si veda nelle note alle premesse.
 
-## Capo IV
+## Capo IV - DISPOSIZIONI GENERALI E FINALI
 
-### DISPOSIZIONI GENERALI E FINALI
-
-#### Art. 14
+### Art. 14
 
 Misure addizionali
 
@@ -291,7 +283,7 @@ Misure addizionali
 
 > \- Per la direttiva 2000/29/CE si veda nelle note alle premesse.
 
-#### Art. 15
+### Art. 15
 
 Disposizioni finanziarie
 
@@ -299,13 +291,13 @@ Disposizioni finanziarie
 
 2\. Le amministrazioni interessate provvedono all'attuazione delle disposizioni di cui al presente decreto con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-#### Art. 16
+### Art. 16
 
 Abrogazioni
 
 1\. Il decreto del Ministro per l'agricoltura e le foreste in data 18 maggio 1971, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 164 del 1° luglio 1971, recante dichiarazione di lotta obbligatoria contro il nematode dorato della patata - Heterodera rostochiensis Woll., e' abrogato.
 
-#### Art. 17
+### Art. 17
 
 Entrata in vigore
 
@@ -333,11 +325,9 @@ Fitto, Ministro per i rapporti con le regioni e per la coesione territoriale
 
 Visto, il Guardasigilli: Alfano
 
-## Capo IV
+## Capo IV - DISPOSIZIONI GENERALI E FINALI
 
-### DISPOSIZIONI GENERALI E FINALI
-
-#### Allegato I
+### Allegato I
 
 Allegato I
 
@@ -385,7 +375,7 @@ Narcissus L.,
 
 Tulipa L.
 
-#### Allegato II
+### Allegato II
 
 Allegato II
 
@@ -439,7 +429,7 @@ b) nel caso di dimensioni ridotte di cui al punto 3, i primi 4 ha sono campionat
 
 7\. Le dimensioni minime del campione di terreno sono in tutti i casi pari a 100 ml di terreno per parcella.
 
-#### Allegato III
+### Allegato III
 
 Allegato III
 
@@ -477,7 +467,7 @@ b) eliminazione pressoche' completa della terra mediante lavaggio o spazzolatura
 
 3\. Le misure approvate ufficialmente di cui all'articolo 12 consistono nella ripetizione del campionamento ufficiale nella parcella che dal registro ufficiale di cui all'articolo 6, risulta infestata e nell'effettuazione di analisi con uno dei metodi descritti nell'allegato II, dopo un periodo minimo di sei anni a decorrere dalla conferma della presenza di nematodi a cisti della patata o dall'ultima coltura di patate. Detto periodo puo' essere ridotto ad un minimo di tre anni purche' siano state attuate le misure di controllo approvate ufficialmente.
 
-#### Allegato IV
+### Allegato IV
 
 Allegato IV
 

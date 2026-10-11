@@ -30,19 +30,19 @@ Promulga
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo di sicurezza sociale tra il Governo della Repubblica italiana e il Governo del Canada, fatto a Roma il 22 maggio 1995, con Protocollo aggiuntivo, fatto a Roma il 22 maggio 2003.
 
-##### Art. 2
+#### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 33 dell'Accordo stesso.
 
-##### Art. 3
+#### Art. 3
 
 Copertura finanziaria
 
@@ -54,7 +54,7 @@ Copertura finanziaria
 
 4\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 4
+#### Art. 4
 
 Entrata in vigore
 
@@ -74,9 +74,7 @@ esteri e della cooperazione internazionale
 
 Visto, il Guardasigilli: Orlando
 
-## PARTE I
-
-### DISPOSIZIONI GENERALI
+## PARTE I - DISPOSIZIONI GENERALI
 
 Allegato
 
@@ -96,7 +94,7 @@ Avendo preso atto delle modifiche intervenute nelle rispettive legislazioni di s
 
 Hanno concordato quanto segue:
 
-##### Articolo 1
+#### Articolo 1
 
 Definizioni
 
@@ -118,7 +116,7 @@ Ai fini dell'applicazione del presente Accordo,
 
 2\. Ogni altro termine non definito nel presente articolo ha il significato ad esso attribuito dalla legislazione applicabile.
 
-##### Articolo 2
+#### Articolo 2
 
 Legislazioni alle quali si applica l'Accordo
 
@@ -144,19 +142,19 @@ Legislazioni alle quali si applica l'Accordo
 
 3\. Il presente Accordo si applica altresi' alle leggi, ai regolamenti e ad altri atti legislativi che estendano la legislazione esistente di una Parte a nuove categorie di beneficiari, sempreche' tale Parte non abbia notificato all'altra la sua opposizione all'estensione, entro tre mesi dalla data di entrata in vigore di detta normativa.
 
-##### Articolo 3
+#### Articolo 3
 
 Persone alle quali si applica l'Accordo
 
 Il presente Accordo si applica alle persone che sono o sono state soggette alla legislazione del Canada o dell'Italia, nonche' ai loro Familiari e superstiti, secondo quanto specificato dalla legislazione applicabile dell'una o dell'altra Parte.
 
-##### Articolo 4
+#### Articolo 4
 
 Eguaglianza di trattamento
 
 Ogni persona che e' o e' stata soggetta alla legislazione di una Parte, nonche' i suoi familiari a carico e i superstiti, godono dei diritti e sono soggetti agli obblighi della legislazione dell'altra Parte alle stesse condizioni dei cittadini di quest'ultima Parte.
 
-##### Articolo 5
+#### Articolo 5
 
 Esportabilita' delle prestazioni
 
@@ -164,11 +162,9 @@ Esportabilita' delle prestazioni
 
 2\. Le prestazioni erogabili in virtu' del presente Accordo ad una persona che e' o che e' stata soggetta alla legislazione di entrambe le Parti, ed ai suoi familiari o superstiti, sono erogate anche nel territorio di un terzo Stato.
 
-## PARTE II - DISPOSIZIONI RELATIVE ALLA LEGISLAZIONE
+## PARTE II - DISPOSIZIONI RELATIVE ALLA LEGISLAZIONE APPLICABILE
 
-### APPLICABILE
-
-##### Articolo 6
+#### Articolo 6
 
 Principi generali
 
@@ -180,7 +176,7 @@ Principi generali
 
 2\. Ai fini dell'applicazione del paragrafo 1, lettera (b), un lavoratore e' considerato risiedere nel territorio della Parte in cui dispone di una dimora permanente e, se dispone di una dimora permanente nei territori di entrambe le Parti, e' considerato risiedere nel territorio della Parte nel quale ha il centro principale dei propri interessi.
 
-##### Articolo 7
+#### Articolo 7
 
 Distacchi
 
@@ -188,7 +184,7 @@ Distacchi
 
 2\. Il periodo, di cui al precedente paragrafo, puo' essere esteso, su richiesta del datore di lavoro e del lavoratore, qualora le autorita' competenti di entrambe le Parti ritengano che le motivazioni addotte dai richiedenti giustifichino l'estensione.
 
-##### Articolo 8
+#### Articolo 8
 
 Personale occupato sulle piattaforme continentali
 
@@ -196,7 +192,7 @@ Personale occupato sulle piattaforme continentali
 
 2\. Ai fini dell'applicazione del presente articolo, l'area della piattaforma continentale di una Parte include ogni area oltre il limite delle acque territoriali di quella Parte che, secondo il diritto internazionale e le leggi di questa Parte, sia un'area rispetto alla quale tale Parte possa esercitare diritti sul fondo e sottosuolo marino e sulle loro risorse naturali.
 
-##### Articolo 9
+#### Articolo 9
 
 Impiego a bordo di navi e di aeromobili
 
@@ -204,7 +200,7 @@ Impiego a bordo di navi e di aeromobili
 
 2\. Il personale navigante alle dipendenze di una compagnia aerea internazionale operante nel territorio di entrambe le Parti sara' soggetto, in relazione a tale attivita', alla legislazione della Parte nel cui territorio la compagnia aerea ha la sua sede legale, salvo che tale personale abbia la residenza permanente nel territorio dell'altra Parte, nel qual caso e' soggetto alla legislazione di quest'ultima Parte.
 
-##### Articolo 10
+#### Articolo 10
 
 Pubblici dipendenti
 
@@ -218,13 +214,13 @@ L'opzione di cui ai paragrafi 2 e 3 deve essere effettuata entro tre mesi dall'i
 
 5\. Le disposizioni della Convenzione di Vienna sulle relazioni diplomatiche del 18 aprile 1961 concernenti la tutela previdenziale del personale domestico al servizio esclusivo degli agenti diplomatici e le disposizioni della Convenzione di Vienna sulle relazioni consolari del 24 aprile 1963 concernenti la tutela previdenziale del personale al servizio esclusivo degli agenti consolari, sono applicabili a tali categorie di persone.
 
-##### Articolo 11
+#### Articolo 11
 
 Deroghe
 
 Le competenti autorita' delle Parti possono, di comune accordo, stabilire delle deroghe alle disposizioni degli articoli da 6 a 10 rispetto a qualsiasi persona o categoria di persone.
 
-##### Articolo 12
+#### Articolo 12
 
 Definizione di taluni periodi di residenza in riferimento alla legislazione del Canada
 
@@ -236,11 +232,9 @@ Ai fini del calcolo dell'ammontare delle prestazioni ai sensi dell'Old Age Secur
 
 ## PARTE III - DISPOSIZIONI RELATIVE ALLE PRESTAZIONI
 
-### CAPITOLO I
+### CAPITOLO I - TOTALIZZAZIONE
 
-#### TOTALIZZAZIONE
-
-##### Articolo 13
+#### Articolo 13
 
 Periodi ai sensi della legislazione canadese e italiana
 
@@ -256,29 +250,27 @@ Periodi ai sensi della legislazione canadese e italiana
 
 (b) una settimana che sia considerata periodo accreditabile ai sensi dell'Old Age Security Act canadese e che non sia accreditabile ai sensi del Regime pensionistico del Canada, sara' considerata come una settimana di contribuzione ai sensi della legislazione italiana.
 
-##### Articolo 14
+#### Articolo 14
 
 Periodi ai sensi della legislazione di Stati terzi
 
 Se una persona non ha diritto ad una prestazione sulla base dei periodi accreditabili ai sensi delle legislazioni delle due Parti, totalizzati come previsto dall'articolo 13, il diritto a tale prestazione verra' stabilito totalizzando detti periodi con quelli accreditabili ai sensi della legislazione di uno Stato terzo con il quale entrambi le Parti hanno concluso separati Accordi di sicurezza sociale che prevedano la totalizzazione dei periodi.
 
-##### Articolo 15
+#### Articolo 15
 
 Periodo minimo per la totalizzazione
 
 Nonostante quanto disposto agli articoli 13 e 14, se la durata complessiva dei periodi accreditabili ai sensi della legislazione di una Parte e' inferiore ad un anno (52 settimane") e se, considerando soltanto questi periodi, non sussiste il diritto ad una prestazione ai sensi di detta legislazione, l'istituzione competente di detta Parte non sara' tenuta a concedere prestazioni in relazione a tali periodi in virtu' del presente Accordo. Tuttavia questi periodi verranno presi in considerazione dall'istituzione competente dell'altra Parte per stabilire il diritto alle prestazioni ai sensi della legislazione di questa Parte, in applicazione del presente Capitolo.
 
-##### Articolo 16
+#### Articolo 16
 
 Ammissione all'assicurazione volontaria italiana
 
 Ai fini dell'ammissione alla prosecuzione volontaria dell'assicurazione italiana, i periodi accreditabili ai sensi della legislazione canadese, ove necessario, saranno totalizzati con i periodi accreditabili ai sensi della legislazione italiana, sempre che non si sovrappongano.
 
-## CAPITOLO II - PRESTAZIONI Al SENSI DELLA LEGISLAZIONE
+### CAPITOLO II - PRESTAZIONI Al SENSI DELLA LEGISLAZIONE CANADESE
 
-### CANADESE
-
-##### Articolo 17
+#### Articolo 17
 
 Prestazioni ai sensi dell'Old Age Security Act
 
@@ -292,7 +284,7 @@ a) l'istituzione canadese competente non sara' tenuta al pagamento di una pensio
 
 b) l'assegno per il coniuge e il supplemento di reddito garantito verranno corrisposti ad una persona che si trova al di fuori del Canada soltanto alle condizioni previste dell'Old Age Security Act.
 
-##### Articolo 18
+#### Articolo 18
 
 Prestazioni ai sensi del Regime Pensionistico del Canada
 
@@ -306,11 +298,9 @@ i) l'ammontare della quota forfettaria della prestazione prevista in conformita'
 
 (ii) la frazione corrispondente al rapporto tra i periodi di contribuzione al Regime Pensionistico del Canada e il periodo minimo accreditabile da tale Regime pensionistico per avere diritto ad usufruire di tale prestazione, ma in nessun caso tale frazione deve essere superiore all'unita'.
 
-## CAPITOLO III - PRESTAZIONI AI SENSI DELLA LEGISLAZIONE
+### CAPITOLO III - PRESTAZIONI AI SENSI DELLA LEGISLAZIONE ITALIANA
 
-### ITALIANA
-
-##### Articolo 19
+#### Articolo 19
 
 Calcolo dell'ammontare della prestazione
 
@@ -334,7 +324,7 @@ L'ammontare della prestazione sara' calcolata nel modo seguente:
 
 5\. Se una persona che risiede in Italia ha diritto a prestazioni ai sensi delle legislazioni di entrambe le Parti e se la somma di queste prestazioni non raggiunge l'importo del trattamento minimo di pensione stabilito dalla legislazione italiana, l'istituzione competente italiana concede, in aggiunta alla propria prestazione, un'integrazione necessaria per raggiungere l'importo di detto trattamento minimo di pensione.
 
-##### Articolo 20
+#### Articolo 20
 
 Prestazioni familiari italiane
 
@@ -342,7 +332,7 @@ Prestazioni familiari italiane
 
 2\. Il paragrafo 1 non si applica a quei membri della famiglia di una persona che risiede in Canada ai quali siano corrisposte prestazioni canadesi per figli, diverse da quelle concesse ai sensi del Regime pensionistico del Canada.
 
-##### Articolo 21
+#### Articolo 21
 
 Prestazioni economiche in caso di tubercolosi
 
@@ -350,7 +340,7 @@ Qualora una persona non soddisfi, in base ai soli periodi di contribuzione accre
 
 ## PARTE IV - DISPOSIZIONI VARIE ED AMMINISTRATIVE
 
-##### Articolo 22
+#### Articolo 22
 
 Intese amministrative
 
@@ -358,7 +348,7 @@ Intese amministrative
 
 2\. In tali intese sono indicate le autorita' e le istituzioni competenti e sono designati gli organismi di collegamento delle Parti.
 
-##### Articolo 23
+#### Articolo 23
 
 Scambio di informazioni e assistenza reciproca
 
@@ -374,7 +364,7 @@ Scambio di informazioni e assistenza reciproca
 
 3\. A meno che la divulgazione non sia consentita dalle leggi di una Parte, ogni informazione relativa a singoli casi, che sia trasmessa in conformita' del presente Accordo a questa Parte dall'altra Parte, e' riservata ed e' utilizzata esclusivamente ai fini dell'attuazione del presente Accordo e della legislazione alla quale detto Accordo si applica.
 
-##### Articolo 24
+#### Articolo 24
 
 Accertamenti sanitari
 
@@ -384,7 +374,7 @@ Accertamenti sanitari
 
 3\. Nelle intese amministrative di cui all'Articolo 22 saranno stabilite le modalita' di applicazione delle disposizioni del presente Articolo.
 
-##### Articolo 25
+#### Articolo 25
 
 Esenzione o riduzione di tasse, imposte, oneri
 
@@ -392,13 +382,13 @@ Esenzione o riduzione di tasse, imposte, oneri
 
 2\. Qualsiasi atto o documento di' natura ufficiale richiesto per l'applicazione del presente Accordo e' esente da autenticazione da parte delle autorita' diplomatiche o consolari o da simili formalita'.
 
-##### Articolo 26
+#### Articolo 26
 
 Lingua di comunicazione
 
 Per l'applicazione del presente Accordo le autorita' e le istituzioni competenti e gli organismi di collegamento delle Parti possono comunicare direttamente in una qualsiasi delle lingue ufficiali di entrambe le Parti.
 
-##### Articolo 27
+#### Articolo 27
 
 Presentazione delle domande, istanze o ricorsi
 
@@ -408,7 +398,7 @@ Presentazione delle domande, istanze o ricorsi
 
 3\. In tutti i casi in cui si applicano i paragrafi 1 o 2, l'istituzione alla quale, la domanda, la notifica o il ricorso siano stati presentati, dovra' trasmetterli al piu' presto possibile alla competente istituzione dell'altra Parte.
 
-##### Articolo 28
+#### Articolo 28
 
 Pagamento delle prestazioni
 
@@ -416,7 +406,7 @@ Pagamento delle prestazioni
 
 2\. Le prestazioni sono pagate ai beneficiari esenti da qualsiasi deduzione per spese amministrative che possano essere state sostenute nel pagamento delle prestazioni stesse.
 
-##### Articolo 29
+#### Articolo 29
 
 Risoluzione delle controversie
 
@@ -428,7 +418,7 @@ Risoluzione delle controversie
 
 4\. La decisione degli arbitri e' definitiva e vincolante.
 
-##### Articolo 30
+#### Articolo 30
 
 Intese con le provincie del Canada
 
@@ -436,7 +426,7 @@ Le competenti autorita' italiane e una provincia del Canada possono concludere i
 
 ## PARTE V - DISPOSIZIONI TRANSITORIE E FINALI
 
-##### Articolo 31
+#### Articolo 31
 
 Valutazione di periodi ed eventi pregressi e disposizioni transitorie
 
@@ -448,7 +438,7 @@ Valutazione di periodi ed eventi pregressi e disposizioni transitorie
 
 4\. Le domande di prestazioni in corso di trattazione alla data di entrata in vigore del presente Accordo e le domande di prestazioni presentate successivamente a tale data e relative a diritti anteriori a tale data spettanti in virtu' dell'Accordo di sicurezza sociale tra l'Italia ed il Canada, firmato a Toronto il 17 novembre 1977, verranno definite, in base a tale Accordo, per quanto si riferisce ai diritti maturati fino alla data di entrata in vigore del presente Accordo, e in base a quest'ultimo Accordo per quanto concerne i diritti che da esso derivano.
 
-##### Articolo 32
+#### Articolo 32
 
 Cessazione dell'Accordo del 17 novembre 1977 e revisione dei diritti
 
@@ -462,7 +452,7 @@ Cessazione dell'Accordo del 17 novembre 1977 e revisione dei diritti
 
 (d) Il ricalcolo non puo' in alcun caso comportare la riduzione dell'ammontare della prestazione gia' in godimento.
 
-##### Articolo 33
+#### Articolo 33
 
 Entrata in vigore e cessazione
 
@@ -508,7 +498,7 @@ Hanno deciso di concludere un Protocollo con lo scopo di modificare l'Accordo e,
 
 Hanno convenuto quanto segue:
 
-##### Articolo 1
+#### Articolo 1
 
 Ai fini del presente Protocollo:
 
@@ -516,7 +506,7 @@ Ai fini del presente Protocollo:
 
 (b) qualsiasi altro termine non definito dal presente articolo ha il significato attribuitogli nell'Accordo.
 
-##### Articolo 2
+#### Articolo 2
 
 Il paragrafo 1 dell'Articolo 1 dell'Accordo viene modificato come segue:
 
@@ -526,11 +516,11 @@ Il paragrafo 1 dell'Articolo 1 dell'Accordo viene modificato come segue:
 
 (c) la lettera (g) viene ridenominata come lettera (f).
 
-##### Articolo 3
+#### Articolo 3
 
 Il paragrafo 2 dell'Articolo 2 dell'Accordo viene modificato inserendo le parole "o sostituiscano" subito dopo la parola "modifichino".
 
-##### Articolo 4
+#### Articolo 4
 
 L'Articolo 12 dell'Accordo viene modificato come segue:
 
@@ -550,7 +540,7 @@ L'Articolo 12 dell'Accordo viene modificato come segue:
 
 (b) una persona sara' considerata soggetta alla legislazione italiana durante un periodo di presenza o residenza in Canada o in Italia soltanto qualora essa versi i contributi obbligatori in conformita' con tale legislazione durante detto periodo, in virtu' del proprio impiego o lavoro autonomo."
 
-##### Articolo 5
+#### Articolo 5
 
 L'Articolo 17 dell'Accordo viene modificato come segue:
 
@@ -558,11 +548,11 @@ L'Articolo 17 dell'Accordo viene modificato come segue:
 
 (b) Al paragrafo 3 il termine "per il coniuge" viene eliminato.
 
-##### Articolo 6
+#### Articolo 6
 
 II paragrafo 2 dell'Articolo 20 dell'Accordo viene modificato eliminando l'espressione "prestazioni canadesi per figli diverse da quelle concesse ai sensi del Regime pensionistico del Canada" e sostituendola con "benefici fiscali del Canada per figli erogabili ai sensi della Legge sulle Imposte sul Reddito del Canada".
 
-##### Articolo 7
+#### Articolo 7
 
 L'articolo 27 dell'Accordo viene modificato come segue:
 
@@ -574,7 +564,7 @@ L'articolo 27 dell'Accordo viene modificato come segue:
 
 "Il paragrafo 1 non avra' effetti sull'applicazione delle disposizioni della legislazione italiana relative all'obbligo delle istituzioni competenti di corrispondere interessi stabiliti dalla legge sulle prestazioni previste da accordi internazionali."
 
-##### Articolo 8
+#### Articolo 8
 
 Il presente Protocollo entrera' in vigore alla data di entrata in vigore dell'Accordo e avra' la stessa durata.
 

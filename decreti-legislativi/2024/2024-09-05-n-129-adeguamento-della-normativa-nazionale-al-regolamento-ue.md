@@ -68,11 +68,9 @@ il seguente decreto legislativo:
 
 ## Titolo I - DISPOSIZIONI COMUNI
 
-### Capo I
+### Capo I - Oggetto e definizioni
 
-#### Oggetto e definizioni
-
-###### Art. 1
+##### Art. 1
 
 Oggetto
 
@@ -284,7 +282,7 @@ Oggetto
 
 > \- Per i riferimenti del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, relativo ai mercati delle cripto-attivita' e che modifica i regolamenti (UE) n. 1093/2010 e (UE) n. 1095/2010 e le direttive 2013/36/UE e (UE) 2019/1937 si veda nelle note alle premesse.
 
-###### Art. 2
+##### Art. 2
 
 Definizioni
 
@@ -320,11 +318,9 @@ e) «ente»: uno dei soggetti indicati all'articolo 1 del decreto legislativo 8 
 
 ## Titolo II - AUTORITÀ NAZIONALI COMPETENTI, COLLABORAZIONE TRA AUTORITÀ E POTERI
 
-### Capo I
+### Capo I - Designazione delle autorità competenti, poteri generali e collaborazione tra autorità
 
-#### Designazione delle autorità competenti, poteri generali e collaborazione tra autorità
-
-###### Art. 3
+##### Art. 3
 
 Autorita' nazionali competenti ai sensi del regolamento (UE) 2023/1114
 
@@ -344,7 +340,7 @@ Autorita' nazionali competenti ai sensi del regolamento (UE) 2023/1114
 
 > \- Per i riferimenti del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, relativo ai mercati delle cripto-attivita' e che modifica i regolamenti (UE) n. 1093/2010 e (UE) n. 1095/2010 e le direttive 2013/36/UE e (UE) 2019/1937 si veda nelle note alle premesse.
 
-###### Art. 4
+##### Art. 4
 
 Poteri generali di vigilanza e di indagine
 
@@ -590,7 +586,7 @@ d) avvalersi, ove necessario, anche mediante connessione telematica, e previa st
 
 > «Le banche, la societa' Poste italiane Spa, gli intermediari finanziari, le imprese di investimento, gli organismi di investimento collettivo del risparmio, le societa' di gestione del risparmio, nonche' ogni altro operatore finanziario, fatto salvo quanto disposto dal secondo comma dell'articolo 6 per i soggetti non residenti, sono tenuti a rilevare e a tenere in evidenza i dati identificativi, compreso il codice fiscale, di ogni soggetto che intrattenga con loro qualsiasi rapporto o effettui, per conto proprio ovvero per conto o a nome di terzi, qualsiasi operazione di natura finanziaria ad esclusione di quelle effettuate tramite bollettino di conto corrente postale per un importo unitario inferiore a 1.500 euro; l'esistenza dei rapporti e l'esistenza di qualsiasi operazione di cui al precedente periodo, compiuta al di fuori di un rapporto continuativo, nonche' la natura degli stessi sono comunicate all'anagrafe tributaria, ed archiviate in apposita sezione, con l'indicazione dei dati anagrafici dei titolari e dei soggetti che intrattengono con gli operatori finanziari qualsiasi rapporto o effettuano operazioni al di fuori di un rapporto continuativo per conto proprio ovvero per conto o a nome di terzi, compreso il codice fiscale.».
 
-###### Art. 5
+##### Art. 5
 
 Poteri regolamentari
 
@@ -606,7 +602,7 @@ Poteri regolamentari
 
 > \- Per i riferimenti del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, relativo ai mercati delle cripto-attivita' e che modifica i regolamenti (UE) n. 1093/2010 e (UE) n. 1095/2010 e le direttive 2013/36/UE e (UE) 2019/1937 si veda nelle note alle premesse.
 
-###### Art. 6
+##### Art. 6
 
 Provvedimenti cautelari nei confronti di soggetti UE
 
@@ -618,7 +614,7 @@ Provvedimenti cautelari nei confronti di soggetti UE
 
 > \- Per i riferimenti del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, relativo ai mercati delle cripto-attivita' e che modifica i regolamenti (UE) n. 1093/2010 e (UE) n. 1095/2010 e le direttive 2013/36/UE e (UE) 2019/1937 si veda nelle note alle premesse.
 
-###### Art. 7
+##### Art. 7
 
 Esposti
 
@@ -628,7 +624,7 @@ Esposti
 
 > \- Il riferimento al testo del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, relativo ai mercati delle cripto-attivita' e che modifica i regolamenti (UE) n. 1093/2010 e (UE) n. 1095/2010 e le direttive 2013/36/UE e (UE) 2019/1937 e' riportato nelle note alle premesse.
 
-###### Art. 8
+##### Art. 8
 
 Poteri di intervento sui prodotti
 
@@ -642,7 +638,7 @@ Poteri di intervento sui prodotti
 
 > \- Per i riferimenti del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, relativo ai mercati delle cripto-attivita' e che modifica i regolamenti (UE) n. 1093/2010 e (UE) n. 1095/2010 e le direttive 2013/36/UE e (UE) 2019/1937 si veda nelle note alle premesse.
 
-###### Art. 9
+##### Art. 9
 
 Cooperazione tra autorita'
 
@@ -664,7 +660,7 @@ Cooperazione tra autorita'
 
 > 2\. Le forme di coordinamento di cui al comma 1 prevedono la riunione delle Autorita' indicate nel medesimo comma almeno una volta l'anno.».
 
-###### Art. 10
+##### Art. 10
 
 Cooperazione amministrativa transfrontaliera con le autorita' competenti degli Stati membri nonche' con l'ABE e l'AESFEM, la BCE e le banche centrali nazionali degli Stati membri
 
@@ -698,9 +694,9 @@ b) delle informazioni relative alle sanzioni penali applicate dall'Autorita' giu
 
 > b) il divieto di pubblicare il contenuto di singoli atti o notizie specifiche relative a determinate operazioni.».
 
-## Capo II - Token collegati ad attività ed emittenti di token collegati ad attività
+### Capo II - Token collegati ad attività ed emittenti di token collegati ad attività
 
-###### Art. 11
+##### Art. 11
 
 Autorizzazione all'emissione, offerta al pubblico e richiesta di ammissione alla negoziazione dei token collegati ad attivita'
 
@@ -830,7 +826,7 @@ b) oltre alle attivita' di emissione, offerta al pubblico e richiesta di ammissi
 
 > 7-bis. Ai patrimoni destinati costituiti ai sensi del presente articolo si applicano esclusivamente le disposizioni del codice civile espressamente richiamate.».
 
-###### Art. 12
+##### Art. 12
 
 Vigilanza sugli emittenti di token collegati ad attivita' e compiti relativi ai token collegati ad attivita' significativi
 
@@ -964,7 +960,7 @@ Con riferimento ai requisiti degli esponenti aziendali degli emittenti di token 
 
 > 6\. La Banca d'Italia e la Consob, nell'ambito delle rispettive competenze, secondo modalita' e tempi stabiliti congiuntamente, anche al fine di ridurre al minimo gli oneri gravanti sui soggetti abilitati: valutano l'idoneita' degli esponenti e il rispetto dei limiti al cumulo degli incarichi, anche sulla base dell'analisi compiuta e delle eventuali misure adottate ai sensi del comma 5; in caso di difetto o violazione, pronunciano la decadenza dalla carica.».
 
-###### Art. 13
+##### Art. 13
 
 Emittenti di token collegati ad attivita' esentati
 
@@ -974,9 +970,9 @@ Emittenti di token collegati ad attivita' esentati
 
 > \- Per i riferimenti del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, relativo ai mercati delle cripto-attivita' e che modifica i regolamenti (UE) n. 1093/2010 e (UE) n. 1095/2010 e le direttive 2013/36/UE e (UE) 2019/1937 si veda nelle note alle premesse.
 
-## Capo III - Token di moneta elettronica
+### Capo III - Token di moneta elettronica
 
-###### Art. 14
+##### Art. 14
 
 Token di moneta elettronica ed emittenti di token di moneta elettronica
 
@@ -1126,9 +1122,9 @@ Token di moneta elettronica ed emittenti di token di moneta elettronica
 
 > «Art. 132-bis (Denunzia al pubblico ministero ed al tribunale). - 1. Se vi e' fondato sospetto che una societa' svolga attivita' di raccolta del risparmio, attivita' bancaria, attivita' di emissione di moneta elettronica, prestazione di servizi di pagamento o attivita' finanziaria in violazione degli articoli 130, 131, 131-bis, 131-ter, e 132, la Banca d'Italia o l'UIC possono denunziare i fatti al pubblico ministero ai fini dell'adozione dei provvedimenti previsti dall'articolo 2409 del codice civile, ovvero possono richiedere al tribunale l'adozione dei medesimi provvedimenti. Le spese per l'ispezione sono a carico della societa'.».
 
-## Capo IV - Cripto-attività diverse dai token collegati ad attività o dai token di moneta elettronica
+### Capo IV - Cripto-attività diverse dai token collegati ad attività o dai token di moneta elettronica
 
-###### Art. 15
+##### Art. 15
 
 Poteri
 
@@ -1220,9 +1216,9 @@ Si applicano i commi 9, 10 e 11 dell'articolo 187-octies del TUF.
 
 > \- Per gli articoli 199, 200, 201, 202 e 203 del codice di procedura penale si veda nelle note all'articolo 4.
 
-## Capo V - Prestatori di servizi per le cripto-attività
+### Capo V - Prestatori di servizi per le cripto-attività
 
-###### Art. 16
+##### Art. 16
 
 Autorizzazione dei prestatori di servizi per le cripto-attivita'
 
@@ -1250,7 +1246,7 @@ b) oltre ai servizi per le cripto-attivita', possono svolgere l'attivita' di emi
 
 > \- Per il testo degli articoli 114-quinquies, 114-quinquies.1, 114-terdecies e 114-novies del decreto legislativo 01/09/1993, n. 385 (testo unico delle leggi in materia bancaria e creditizia) si veda nelle note all'articolo 11.
 
-###### Art. 17
+##### Art. 17
 
 Vigilanza sui servizi per le cripto-attivita' e relativi prestatori
 
@@ -1336,9 +1332,9 @@ Con riguardo ai requisiti degli esponenti aziendali dei prestatori di servizi in
 
 > \- Per il testo dell'articolo 2409 del codice civile si veda nelle note all'articolo 12.
 
-## Capo VI - Prevenzione e vigilanza sugli abusi di mercato relativi alle cripto-attività
+### Capo VI - Prevenzione e vigilanza sugli abusi di mercato relativi alle cripto-attività
 
-###### Art. 18
+##### Art. 18
 
 Poteri
 
@@ -1354,15 +1350,11 @@ Poteri
 
 ## Titolo III - DISPOSIZIONI SPECIALI
 
-### Capo I
+### Capo I - Disposizioni speciali applicabili agli emittenti di token collegati ad attività
 
-#### Disposizioni speciali applicabili agli emittenti di token collegati ad attività
+#### Sezione I - Separazione patrimoniale e patrimoni destinati
 
-##### Sezione I
-
-###### Separazione patrimoniale e patrimoni destinati
-
-###### Art. 19
+##### Art. 19
 
 Separazione patrimoniale della riserva di attivita'
 
@@ -1380,9 +1372,9 @@ Separazione patrimoniale della riserva di attivita'
 
 > \- Il riferimento al testo del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, relativo ai mercati delle cripto-attivita' e che modifica i regolamenti (UE) n. 1093/2010 e (UE) n. 1095/2010 e le direttive 2013/36/UE e (UE) 2019/1937 e' riportato nelle note alle premesse.
 
-## Sezione II - Piani di rimborso e di risanamento
+#### Sezione II - Piani di rimborso e di risanamento
 
-###### Art. 20
+##### Art. 20
 
 Piano di rimborso
 
@@ -1424,7 +1416,7 @@ La loro responsabilita' per i danni derivanti dall'inosservanza di tali doveri e
 
 > 4\. Le indennita' spettanti ai commissari e ai componenti il comitato di sorveglianza sono determinate dalla Banca d'Italia in base ai criteri dalla stessa stabiliti e sono a carico della liquidazione.».
 
-###### Art. 21
+##### Art. 21
 
 Sospensione dei rimborsi
 
@@ -1434,9 +1426,9 @@ Sospensione dei rimborsi
 
 > \- Per i riferimenti del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, relativo ai mercati delle cripto-attivita' e che modifica i regolamenti (UE) n. 1093/2010 e (UE) n. 1095/2010 e le direttive 2013/36/UE e (UE) 2019/1937 si veda nelle note alle premesse.
 
-## Sezione III - Disciplina della liquidazione volontaria e della crisi degli emittenti specializzati di token collegati ad attività
+#### Sezione III - Disciplina della liquidazione volontaria e della crisi degli emittenti specializzati di token collegati ad attività
 
-###### Art. 22
+##### Art. 22
 
 Liquidazione volontaria
 
@@ -1460,7 +1452,7 @@ Liquidazione volontaria
 
 > 3\. La sostituzione degli organi liquidatori non comporta il mutamento della procedura di liquidazione.».
 
-###### Art. 23
+##### Art. 23
 
 Rimozione collettiva dei componenti degli organi di amministrazione e controllo
 
@@ -1474,7 +1466,7 @@ Rimozione collettiva dei componenti degli organi di amministrazione e controllo
 
 > \- Per i riferimenti del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, relativo ai mercati delle cripto-attivita' e che modifica i regolamenti (UE) n. 1093/2010 e (UE) n. 1095/2010 e le direttive 2013/36/UE e (UE) 2019/1937 si veda nelle note alle premesse.
 
-###### Art. 24
+##### Art. 24
 
 Amministrazione straordinaria
 
@@ -1596,7 +1588,7 @@ c) lo scioglimento sia richiesto con istanza motivata dagli organi amministrativ
 
 > 4\. Il presente articolo si applica anche alle capogruppo italiane.».
 
-###### Art. 25
+##### Art. 25
 
 Liquidazione coatta amministrativa
 
@@ -1622,13 +1614,11 @@ d) la liquidazione sia richiesta su istanza motivata degli organi amministrativi
 
 > 3\. La dichiarazione giudiziale dello stato di insolvenza prevista dai commi precedenti produce gli effetti indicati nell'articolo 298 del codice della crisi e dell'insolvenza.».
 
-## Capo II - Disposizioni speciali applicabili ai prestatori di servizi per le cripto-attività
+### Capo II - Disposizioni speciali applicabili ai prestatori di servizi per le cripto-attività
 
-### Sezione I
+#### Sezione I - Disposizioni applicabili a tutti i prestatori di servizi per le cripto-attività
 
-#### Disposizioni applicabili a tutti i prestatori di servizi per le cripto-attività
-
-###### Art. 26
+##### Art. 26
 
 Separazione patrimoniale
 
@@ -1644,15 +1634,15 @@ Separazione patrimoniale
 
 > \- Per i riferimenti del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, relativo ai mercati delle cripto-attivita' e che modifica i regolamenti (UE) n. 1093/2010 e (UE) n. 1095/2010 e le direttive 2013/36/UE e (UE) 2019/1937 si veda nelle note alle premesse.
 
-###### Art. 27
+##### Art. 27
 
 Trattamento dei clienti aventi diritto alla restituzione delle cripto-attivita' nella liquidazione coatta amministrativa dei prestatori di servizi per le cripto-attivita'
 
 1\. Ai fini dell'applicazione della disciplina della liquidazione coatta amministrativa dei prestatori di servizi per le cripto-attivita', i clienti aventi diritto alla restituzione delle cripto-attivita' sono equiparati a quelli aventi diritto alla restituzione di strumenti finanziari, anche con riferimento alla restituzione dei mezzi di accesso alle cripto-attivita', ivi incluse le chiavi crittografiche private.
 
-## Sezione II - Disciplina della liquidazione volontaria e della crisi dei prestatori specializzati di servizi per le cripto-attività
+#### Sezione II - Disciplina della liquidazione volontaria e della crisi dei prestatori specializzati di servizi per le cripto-attività
 
-###### Art. 28
+##### Art. 28
 
 Liquidazione volontaria
 
@@ -1664,7 +1654,7 @@ Liquidazione volontaria
 
 > \- Per il testo degli articoli 96-quinquies e 97 del decreto legislativo 1° settembre 1993, n. 385, recante «Testo unico delle leggi in materia bancaria e creditizia» si veda nelle note all'articolo 22.
 
-###### Art. 29
+##### Art. 29
 
 Disciplina della crisi
 
@@ -1682,11 +1672,9 @@ Disciplina della crisi
 
 ## Titolo IV - SANZIONI
 
-### Capo I
+### Capo I - Sanzioni penali
 
-#### Sanzioni penali
-
-###### Art. 30
+##### Art. 30
 
 Abusivismo
 
@@ -1704,9 +1692,9 @@ d) offre al pubblico token di moneta elettronica ovvero ne chiede e ottiene l'am
 
 > \- Per i riferimenti del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, relativo ai mercati delle cripto-attivita' e che modifica i regolamenti (UE) n. 1093/2010 e (UE) n. 1095/2010 e le direttive 2013/36/UE e (UE) 2019/1937 si veda nelle note alle premesse.
 
-## Capo II - Sanzioni amministrative
+### Capo II - Sanzioni amministrative
 
-###### Art. 31
+##### Art. 31
 
 Sanzioni amministrative relative alle violazioni delle disposizioni richiamate dall'articolo 111, paragrafo 1, primo comma, lettere a), b), c) e d), del regolamento (UE) 2023/1114
 
@@ -1724,7 +1712,7 @@ b) nei confronti delle persone fisiche, inclusi gli esponenti aziendali e il per
 
 > \- Per i riferimenti del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, relativo ai mercati delle cripto-attivita' e che modifica i regolamenti (UE) n. 1093/2010 e (UE) n. 1095/2010 e le direttive 2013/36/UE e (UE) 2019/1937 si veda nelle note alle premesse.
 
-###### Art. 32
+##### Art. 32
 
 Sanzioni amministrative relative a talune violazioni delle disposizioni richiamate dall'articolo 111, paragrafo 1, primo comma, lettera e), del regolamento (UE) 2023/1114
 
@@ -1748,7 +1736,7 @@ b) nei confronti delle persone fisiche di cui all'articolo 36 del presente decre
 
 > \- Per i riferimenti del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, relativo ai mercati delle cripto-attivita' e che modifica i regolamenti (UE) n. 1093/2010 e (UE) n. 1095/2010 e le direttive 2013/36/UE e (UE) 2019/1937 si veda nelle note alle premesse.
 
-###### Art. 33
+##### Art. 33
 
 Abuso, comunicazione illecita di informazioni privilegiate e manipolazione del mercato
 
@@ -1762,7 +1750,7 @@ Abuso, comunicazione illecita di informazioni privilegiate e manipolazione del m
 
 > \- Per i riferimenti del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, relativo ai mercati delle cripto-attivita' e che modifica i regolamenti (UE) n. 1093/2010 e (UE) n. 1095/2010 e le direttive 2013/36/UE e (UE) 2019/1937 si veda nelle note alle premesse.
 
-###### Art. 34
+##### Art. 34
 
 Responsabilita' dell'ente
 
@@ -1858,7 +1846,7 @@ b) da persone sottoposte alla direzione o alla vigilanza di uno dei soggetti di 
 
 > 4\. In ogni caso, la sanzione pecuniaria non puo' essere inferiore a euro 10.329 (lire venti milioni).».
 
-###### Art. 35
+##### Art. 35
 
 Sanzioni amministrative per omessa collaborazione o mancato seguito dato nell'ambito di un'indagine, un'ispezione o una richiesta
 
@@ -1872,7 +1860,7 @@ b) nei confronti delle persone fisiche, inclusi gli esponenti aziendali e il per
 
 > \- Per i riferimenti del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, relativo ai mercati delle cripto-attivita' e che modifica i regolamenti (UE) n. 1093/2010 e (UE) n. 1095/2010 e le direttive 2013/36/UE e (UE) 2019/1937 si veda nelle note alle premesse.
 
-###### Art. 36
+##### Art. 36
 
 Responsabilita' degli esponenti aziendali e del personale per le violazioni del regolamento (UE) 2023/1114
 
@@ -1886,7 +1874,7 @@ Responsabilita' degli esponenti aziendali e del personale per le violazioni del 
 
 > \- Per i riferimenti del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, relativo ai mercati delle cripto-attivita' e che modifica i regolamenti (UE) n. 1093/2010 e (UE) n. 1095/2010 e le direttive 2013/36/UE e (UE) 2019/1937 si veda nelle note alle premesse.
 
-###### Art. 37
+##### Art. 37
 
 Applicazione delle sanzioni amministrative
 
@@ -1898,7 +1886,7 @@ Applicazione delle sanzioni amministrative
 
 4\. La Banca d'Italia e la Consob, secondo le rispettive competenze, provvedono a effettuare le comunicazioni all'ABE e all'AESFEM di cui all'articolo 115 del regolamento (UE) 2023/1114.
 
-###### Art. 37-bis - Sanzioni amministrative relative alle violazioni delle disposizioni previste dal regolamento (UE) 2022/2554 e dalle relative norme tecniche di regolamentazione e attuazione
+##### Art. 37-bis - Sanzioni amministrative relative alle violazioni delle disposizioni previste dal regolamento (UE) 2022/2554 e dalle relative norme tecniche di regolamentazione e attuazione
 
 1\. In caso di inosservanza delle disposizioni di cui agli articoli 5, 6, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 10, 12, 16, paragrafi 1 e 2, 17, 19, paragrafi 1, 3 e 4, 24 del regolamento (UE) 2022/2554 del Parlamento europeo e del Consiglio, del 14 dicembre 2022, e delle relative norme tecniche di regolamentazione e attuazione, ovvero in caso di omessa collaborazione o mancato seguito dato nell'ambito di un'indagine, un'ispezione o una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 16 della legge 21 febbraio 2024, n. 15, si applica:
 
@@ -1928,11 +1916,9 @@ b) da euro 5.000 fino a euro 500.000, nei casi di cui al comma 2.
 
 ## Titolo V - MODIFICAZIONI E INTEGRAZIONI DELLA NORMATIVA DI SETTORE E DISPOSIZIONI DI COORDINAMENTO
 
-### Capo I
+### Capo I - Modifiche alla disciplina del decreto legislativo 1° settembre 1993, n. 385, e disposizioni di coordinamento con il decreto legislativo 24 febbraio 1998, n. 58
 
-#### Modifiche alla disciplina del decreto legislativo 1° settembre 1993, n. 385, e disposizioni di coordinamento con il decreto legislativo 24 febbraio 1998, n. 58
-
-###### Art. 38
+##### Art. 38
 
 Modifiche al testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385
 
@@ -2042,7 +2028,7 @@ d) all'articolo 114-octies:
 
 > 2-bis. Gli istituti di pagamento possono emettere token collegati ad attivita' ai sensi dell'articolo 21 del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, e prestare servizi per le cripto-attivita' ai sensi dell'articolo 63 del medesimo regolamento, nonche' le attivita' connesse e strumentali, secondo quanto previsto dal decreto legislativo di attuazione del regolamento (UE) 2023/1114, salvo che svolgano altre attivita' imprenditoriali ai sensi dell'articolo 114-novies, comma 4.».
 
-###### Art. 39
+##### Art. 39
 
 Disposizioni di coordinamento con il decreto legislativo 24 febbraio 1998, n. 58
 
@@ -2052,9 +2038,9 @@ Disposizioni di coordinamento con il decreto legislativo 24 febbraio 1998, n. 58
 
 > \- Per i riferimenti del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, relativo ai mercati delle cripto-attivita' e che modifica i regolamenti (UE) n. 1093/2010 e (UE) n. 1095/2010 e le direttive 2013/36/UE e (UE) 2019/1937 si veda nelle note alle premesse.
 
-## Capo II - Ulteriori modifiche alla disciplina di settore
+### Capo II - Ulteriori modifiche alla disciplina di settore
 
-###### Art. 40
+##### Art. 40
 
 Modifiche al decreto legislativo 13 agosto 2010, n. 141
 
@@ -2112,7 +2098,7 @@ Modifiche al decreto legislativo 13 agosto 2010, n. 141
 
 > 4-bis. L'Organismo collabora con le autorita' di altri Stati membri dell'Unione europea competenti sui soggetti di cui all'articolo 128-novies.1, comma 2; a tale fine puo' scambiare informazioni con queste autorita', entro i limiti e nel rispetto delle procedure previsti dal diritto dell'Unione europea.».
 
-###### Art. 41
+##### Art. 41
 
 Modifiche al decreto legislativo 10 marzo 2023, n. 24
 
@@ -2460,7 +2446,7 @@ b) alla parte II, lettera A, numero 2:
 
 > i) decreto legislativo 18 agosto 2015, n. 145, recante attuazione della direttiva 2013/30/UE sulla sicurezza delle operazioni in mare nel settore degli idrocarburi e che modifica la direttiva 2004/35/CE.».
 
-###### Art. 42
+##### Art. 42
 
 Modifiche al decreto legislativo 27 gennaio 2010, n. 39
 
@@ -2506,7 +2492,7 @@ l-quater) prestatori di servizi per le cripto-attivita' autorizzati ai sensi del
 
 > 2\. Il bilancio di esercizio e, ove applicabile, il bilancio consolidato degli enti sottoposti a regime intermedio e' assoggettato a revisione legale ai sensi del presente decreto. Negli enti sottoposti a regime intermedio, nelle societa' controllate da enti sottoposti a regime intermedio, nelle societa' che controllano enti sottoposti a regime intermedio e nelle societa' sottoposte con questi ultimi a comune controllo, la revisione legale non puo' essere esercitata dal collegio sindacale.».
 
-###### Art. 43
+##### Art. 43
 
 Modifiche al decreto legislativo 28 febbraio 2005, n. 38
 
@@ -2534,7 +2520,7 @@ Modifiche al decreto legislativo 28 febbraio 2005, n. 38
 
 > g) le societa' diverse da quelle indicate alle lettere da a) ad f) e diverse da quelle che possono redigere il bilancio in forma abbreviata, ai sensi dell'articolo 2435-bis del codice civile.».
 
-###### Art. 44
+##### Art. 44
 
 Modifiche al decreto-legge 17 marzo 2023, n. 25, convertito, con modificazioni, dalla legge 10 maggio 2023, n. 52
 
@@ -2672,11 +2658,9 @@ c) all'articolo 21:
 
 ## Titolo VI - Disposizioni transitorie e finali
 
-### Capo I
+### Capo I - Disposizioni transitorie
 
-#### Disposizioni transitorie
-
-###### Art. 45
+##### Art. 45
 
 Regime transitorio
 
@@ -2700,9 +2684,9 @@ L'autorita' di cui all'articolo 16, comma 1 informa tempestivamente l'Organismo 
 
 7\. In relazione alle operazioni effettuate a far data dal 1° ottobre 2025 e fino alla data di cancellazione dalla sezione speciale del registro di cui all'articolo 17-bis, comma 1, del decreto legislativo 13 agosto 2010, n. 141, i soggetti di cui ai commi 1 e 4 assicurano che le informazioni indicate dall'articolo 5, comma 1, del decreto del Ministro dell'economia e delle finanze del 13 gennaio 2022, pubblicato nella Gazzetta Ufficiale del 17 febbraio 2022, n. 40, sono conservate per un periodo di dieci anni e fornite su richiesta ai soggetti di cui all'articolo 21, comma 2, lettere a) e b), del decreto legislativo 21 novembre 2007, n. 231, nonche' alle forze di polizia di cui all'articolo 16, comma 1, della legge 1° aprile 1981, n. 121, nell'esercizio delle proprie funzioni e nell'ambito dei rispettivi comparti di specialita' di cui all'articolo 2 del decreto legislativo 19 agosto 2016, n. 177.
 
-## Capo II - Disposizioni finali
+### Capo II - Disposizioni finali
 
-###### Art. 46
+##### Art. 46
 
 Attivita' monitoraggio
 
@@ -2718,7 +2702,7 @@ Attivita' monitoraggio
 
 > (omissis)».
 
-###### Art. 47
+##### Art. 47
 
 Clausola di invarianza
 
@@ -2726,7 +2710,7 @@ Clausola di invarianza
 
 2\. Le amministrazioni competenti provvedono all'attuazione delle disposizioni di cui al presente decreto nell'ambito delle risorse umane, strumentali e finanziarie previste a legislazione vigente.
 
-###### Art. 48
+##### Art. 48
 
 Entrata in vigore
 

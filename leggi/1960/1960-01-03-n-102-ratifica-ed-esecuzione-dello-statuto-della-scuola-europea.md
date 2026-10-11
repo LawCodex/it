@@ -25,15 +25,15 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare lo statuto della Scuola europea, firmato a Lussemburgo il 12 aprile 1957.
 
-#### Art. 2
+### Art. 2
 
 Piena ed intera esecuzione e' data allo statuto di cui all'articolo precedente a decorrere dalla sua entrata in vigore, in conformita' dell'art. 32 dello statuto stesso.
 
-#### Art. 3
+### Art. 3
 
 All'onere di lire 19.000.000 derivante dall'attuazione della presente legge si provvedera', per lire 5.000.000, lire 9.000.000 e lire 5.000.000, a carico rispettivamente dei capitoli numeri 82, 84 e 95 dello stato di previsione della spesa del Ministero degli affari esteri per l'esercizio finanziario 1958-59 e corrispondenti degli esercizi successivi.
 
@@ -83,17 +83,17 @@ Considerando pertanto altamente auspicabile accordare a tale Scuola uno statuto 
 
 Hanno convenuto e deciso le disposizioni seguenti:
 
-#### Art. 1
+### Art. 1
 
 Presso la sede della Comunita' europea del carbone e dell'acciaio e' creato un istituto d'insegnamento e di educazione chiamato "Scuola europea", denominata qui di seguito Scuola.
 
-#### Art. 2
+### Art. 2
 
 Sono ammessi a frequentare la Scuola i figli dei cittadini delle
 
 Parti contraenti. Gli alunni di altre nazionalita' possono ottenere l'iscrizione secondo le norme stabilite dal Consiglio superiore previsto dall'art. 8.
 
-#### Art. 3
+### Art. 3
 
 L'insegnamento impartito nella Scuola comprende l'intero corso
 
@@ -111,7 +111,7 @@ Per gli alunni che abbiano seguito i corsi della Scuola fino
 
 all'eta' stabilita nel loro Paese per la frequenza scolastica obbligatoria, tale obbligo sara' considerato adempiuto.
 
-#### Art. 4
+### Art. 4
 
 L'organizzazione didattica della Scuola si basa sui seguenti
 
@@ -131,7 +131,7 @@ intesa e gli scambi culturali fra gli allievi delle varie sezioni linguistiche, 
 
 liberta' di coscienza e di opinione.
 
-#### Art. 5
+### Art. 5
 
 1\. Gli anni di studio compiuti con buon esito nella Scuola nonche' i diplomi e certificati di studi hanno valore nel territorio delle Parti contraenti conformemente a una tabella di equivalenze e alle condizioni stabilite dal Consiglio superiore previsto dall'art. 8, con riserva, del benestare degli organi nazionali competenti.
 
@@ -153,13 +153,13 @@ b) gli Istituti cui e' riconosciuto carattere analogo a quello
 
 delle Universita' dalla Parte contraente nel cui territorio essi hanno sede.
 
-#### Art. 6
+### Art. 6
 
 La Scuola, nei riguardi della legislazione di ciascuna delle Parti contraenti, ha lo stato giuridico di un istituto pubblico; ha la personalita' giuridica necessaria al conseguimento dei suoi scopi; gode di autonomia finanziaria e puo' stare in giudizio; puo' acquistare ed alienare i beni immobili e mobili necessari al raggiungimento delle sue finalita'.
 
 ## II. - TITOLO SECONDO - GLI ORGANI DELLA SCUOLA
 
-#### Art. 7
+### Art. 7
 
 Gli organi della Scuola sono:
 
@@ -173,7 +173,7 @@ Gli organi della Scuola sono:
 
 ## Capitolo I - IL CONSIGLIO SUPERIORE
 
-#### Art. 8
+### Art. 8
 
 Il Consiglio superiore e' costituito dai Ministri di ciascuna delle Parti contraenti competenti per la pubblica istruzione e (o) per le relazioni culturali con l'estero. (1)
 
@@ -185,19 +185,19 @@ Il Consiglio superiore elegge fra i suoi membri il proprio presidente per un ann
 
 (1) Per la Repubblica federale di Germania sono competenti il Ministro degli affari esteri ed il presidente della Conferenza permanente dei Ministri della pubblica istruzione.
 
-#### Art. 9
+### Art. 9
 
 Il Consiglio superiore e' incaricato dell'applicazione della
 
 presente Convenzione; a tal fine esso dispone dei poteri necessari in materia didattica, finanziaria e amministrativa. Il Consiglio fissa di comune accordo il regolamento generale della Scuola.
 
-#### Art. 10
+### Art. 10
 
 In materia didattica e finanziaria, le decisioni del Consiglio
 
 superiore sono adottate all'unanimita' delle l'arti rappresentate; in materia amministrativa a maggioranza di due terzi. In tutte le votazioni ciascuna delle Parti contraenti rappresentate dispone di un voto.
 
-#### Art. 11
+### Art. 11
 
 In materia didattica, il Consiglio superiore definisce
 
@@ -215,7 +215,7 @@ d'insegnamento; definisce le norme per il passaggio degli allievi alla classe su
 
 4\) organizza gli esami destinati a sanzionare il lavoro compiuto nella Scuola, ne fissa il regolamento, costituisce le Commissioni esaminatrici e rilascia i diplomi; fissa le prove di questi esami ad un livello sufficiente a rendere operanti le norme dell'art. 5; adotta la tabella di equivalenze prevista dal citato articolo.
 
-#### Art. 12
+### Art. 12
 
 In materia amministrativa, il Consiglio superiore:
 
@@ -243,7 +243,7 @@ giuridico;
 
 d'ispezione ed in base a norme armonizzate, lo statuto interno del corpo insegnante.
 
-#### Art. 13
+### Art. 13
 
 In materia di bilancio, il Consiglio superiore:
 
@@ -259,25 +259,25 @@ oneri fra tutte le Parti contraenti;
 
 d'amministrazione.
 
-#### Art. 14
+### Art. 14
 
 Il Consiglio superiore stabilisce il suo regolamento interno.
 
 ## Capitolo 2 - I CONSIGLI D'ISPEZIONE
 
-#### Art. 15
+### Art. 15
 
 Nella Scuola sono istituiti due Consigli d'ispezione: uno per il
 
 giardino d'infanzia ed il ciclo elementare, l'altro per il ciclo medio.
 
-#### Art. 16
+### Art. 16
 
 Ciascuna delle Parti contraenti e' rappresentata nell'uno e
 
 nell'altro Consiglio da un membro, che viene designato dal Consiglio superiore su proposta della Parte interessata.
 
-#### Art. 17
+### Art. 17
 
 Nel corso di riunioni periodiche nei Consigli, gli ispettori:
 
@@ -295,7 +295,7 @@ articoli 11 e 12, ed eventualmente altre proposte tendenti alla revisione dei pr
 
 scolastico, sull'ammissione degli allievi alla classe superiore.
 
-#### Art. 18
+### Art. 18
 
 Ogni ispettore puo' al tempo stesso essere incaricato dagli organi nazionali competenti e per il ciclo di studi di sua competenza, dell'assistenza didattica dei professori provenienti dalla sua stessa amministrazione.
 
@@ -303,7 +303,7 @@ Egli assiste nel suo incarico qualsiasi persona qualificata, in
 
 base alla sua legislazione nazionale, per ispezionare e consigliare il personale da lui dipendente.
 
-#### Art. 19
+### Art. 19
 
 Le norme per il funzionamento dei Consigli d'ispezione sono
 
@@ -311,7 +311,7 @@ stabilite dal Consiglio superiore.
 
 ## Capitolo 3 - IL CONSIGLIO D'AMMINISTRAZIONE
 
-#### Art. 20
+### Art. 20
 
 Il Consiglio d'amministrazione previsto all'art. 7 comprende sei
 
@@ -331,7 +331,7 @@ allievi, la cui designazione dovra' essere approvata dal Consiglio superiore.
 
 In casi eccezionali il presidente puo' sospendere la esecuzione di una decisione del Consiglio d'amministrazione e riferirne con procedura d'urgenza al Consiglio superiore che adottera' i necessari provvedimenti.
 
-#### Art. 21
+### Art. 21
 
 Il consiglio d'amministrazione:
 
@@ -351,7 +351,7 @@ affidato dal Consiglio superiore.
 
 ## Capitolo 4 - IL DIRETTORE
 
-#### Art. 22
+### Art. 22
 
 Il direttore esercita le sue funzioni nel quadro del regolamento di
 
@@ -371,7 +371,7 @@ Consigli d'ispezione in materia didattica ed amministrativa;
 
 delle spese sotto il controllo del Consiglio di amministrazione.
 
-#### Art. 23
+### Art. 23
 
 Il direttore dev'essere in possesso dei titoli richiesti per
 
@@ -379,7 +379,7 @@ assumere la direzione di un istituto d'insegnamento il cui diploma finale e' val
 
 ## III. - TITOLO TERZO - L'ASSOCIAZIONE DEI GENITORI DEGLI ALLIEVI
 
-#### Art. 24
+### Art. 24
 
 Il Consiglio superiore riconosce un'Associazione rappresentativa
 
@@ -395,11 +395,11 @@ L'Associazione che sara' stata riconosciuta, verra' periodicamente informata sul
 
 ## IV. - TITOLO QUARTO - IL BILANCIO DI PREVISIONE
 
-#### Art. 25
+### Art. 25
 
 L'esercizio finanziario della Scuola va dal 1 luglio al 30 giugno dell'anno successivo.
 
-#### Art. 26
+### Art. 26
 
 Il bilancio di previsione delle entrate e delle spese della Scuola e' alimentato mediante:
 
@@ -417,23 +417,23 @@ concluso degli accordi;
 
 ## V. - TITOLO QUINTO - DISPOSIZIONI SPECIALI
 
-#### Art. 27
+### Art. 27
 
 Il Consiglio superiore puo' negoziare con la Comunita' europea dei carbone e dell'acciaio, qualsiasi accordo in merito alla Scuola. In tal caso, alla Comunita' spettera' un seggio nel Consiglio superiore nonche' nel Consiglio d'amministrazione, e il numero dei membri del Consiglio d'amministrazione, sara' portato a 7.
 
-#### Art. 28
+### Art. 28
 
 Il Consiglio superiore puo' negoziare con il Governo dello Stato in
 
 cui ha sede la Scuola qualsiasi accordo complementare allo scopo di garantire alla Scuola le migliori condizioni materiali e morali per il suo funzionamento.
 
-#### Art. 29
+### Art. 29
 
 All'atto della firma del presente statuto, il Governo
 
 lussemburghese potra' formulare riserve attinenti alla sua qualita' di Governo del Paese dove ha sede la Scuola e alla propria legislazione scolastica.
 
-#### Art. 30
+### Art. 30
 
 1\. Ciascuna Parte contraente potra' denunciare il presente statuto mediante notificazione scritta diretta al Governo lussemburghese che provvedera' a informarne tutte le Parti contraenti. La denuncia avra' effetto a partire dal 1 settembre successivo alla notificazione, sempreche' questa sia avvenuta almeno 12 mesi prima.
 
@@ -441,7 +441,7 @@ lussemburghese potra' formulare riserve attinenti alla sua qualita' di Governo d
 
 3\. Qualora, in seguito a decisione unanime delle Parti contraenti la Scuola dovesse essere posta in liquidazione, il Consiglio superiore adottera' tutte le misure che giudichera' opportune, in particolare per quanto concerne la devoluzione degli averi della Scuola.
 
-#### Art. 31
+### Art. 31
 
 1\. Qualsiasi Governo che non sia firmatario del presente statuto
 
@@ -459,7 +459,7 @@ settembre successivo alla data di deposito degli strumenti d'adesione presso il 
 
 d'ispezione saranno allora modificate in conseguenza.
 
-#### Art. 32
+### Art. 32
 
 1\. Il presente statuto sara' ratificato. Gli strumenti di ratifica saranno depositati presso il Governo lussemburghese, il quale notifichera' tale deposito a tutti gli altri Governi firmatari.
 
@@ -481,7 +481,7 @@ Il Ministro per gli affari esteri
 
 PELLA
 
-#### Protocollo
+### Protocollo
 
 PROTOCOLLO DI FIRMA
 
@@ -519,17 +519,17 @@ Hanno approvato ed adottato le seguenti disposizioni che
 
 costituiscono l'allegato allo statuto previsto dall'art. 5 n. 2 dello stesso:
 
-#### Art. 1
+### Art. 1
 
 Il diploma di licenza liceale europea e' rilasciato in nome del
 
 Consiglio superiore agli allievi che, alla fine del 7° anno dell'insegnamento secondario presso la Scuola europea: , avranno sostenuto con successo le prove dell'esame le cui modalita' sono definite qui appresso. Esso sanziona gli studi secondari compiuti alla Scuola europea nelle condizioni stabilite dal Consiglio superiore.
 
-#### Art. 2
+### Art. 2
 
 Gli allievi iscritti alle varie sezioni linguistiche della Scuola sostengono le medesime prove o prove equivalenti davanti ad una Commissione esaminatrice, la composizione ed il funzionamento della quale sono definiti qui di seguito.
 
-#### Art. 3
+### Art. 3
 
 Sessione d'esami. Una sessione ordinaria di esami e' organizzata in
 
@@ -539,7 +539,7 @@ L'organizzazione di una sessione straordinaria potra' essere decisa
 
 dal Consiglio superiore quando, per ragioni di forza maggiore, degli allievi non abbiano potuto presentarsi alla sessione ordinaria.
 
-#### Art. 4
+### Art. 4
 
 Iscrizione all'esame. Alle prove della licenza liceale europea
 
@@ -549,7 +549,7 @@ Le modalita' e i diritti d'iscrizione, sono fissati dal Consiglio superiore.
 
 ## Oggetto delle prove
 
-#### Art. 5
+### Art. 5
 
 1\. Le prove della licenza liceale europea si svolgono sulle materie
 
@@ -563,7 +563,7 @@ Per ciascuna prova viene assegnato un coefficiente.
 
 4\. Per essere promosso, l'allievo deve aver ottenuto: la media di 60/100 nell'insieme delle materie e un minimo di punti stabilito dal Consiglio superiore per il componimento letterario nella lingua materna.
 
-#### Art. 6
+### Art. 6
 
 Le prove scritte comprendono:
 
@@ -621,7 +621,7 @@ col coefficiente 1,5: un componimento in una terza lingua;
 
 col coefficiente 2: una prova di fisica.
 
-#### Art. 7
+### Art. 7
 
 a) Le prove orali comprendono:
 
@@ -659,7 +659,7 @@ b) Alle interrogazioni orali sono attribuiti i coefficienti qui di seguito speci
 
 1,5 per la materia di carattere letterario.
 
-#### Art. 8
+### Art. 8
 
 a) Alla Commissione esaminatrice e' sottoposta per ciascun allievo una distinta dei voti da lui riportati per materia nei componimenti del 1° e del 2° trimestre dell'ultimo anno di studi. Anche i componimenti sono tenuti a sua disposizione. I risultati complessivi ottenuti dagli allievi in questi componimenti, in tutte le materie, comprese le materie artistiche e l'educazione fisica, intervengono per 1/3 nella media finale.
 
@@ -669,7 +669,7 @@ tener conto dei voti ottenuti dagli allievi durante tutto l'anno scolastico.
 
 ## Composizione della - Commissione esaminatrice
 
-#### Art. 9
+### Art. 9
 
 1\. I membri della Commissione esaminatrice sono nominati ogni anno dal Consiglio superiore.
 
@@ -683,13 +683,13 @@ differenti gruppi linguistici e le differenti sezioni dell'insegnamento secondar
 
 5\. La. Commissione esaminatrice cosi' composta e' presieduta da un professore d'insegnamento superiore, assistito da un membro del Consiglio d'ispezione, ambedue designati dal Consiglio superiore.
 
-#### Art. 10
+### Art. 10
 
 Ciascuna delle prove scritte ed orali e' giudicata da due membri
 
 della Commissione esaminatrice, ai quali e' affiancato, come terzo esaminatore e con uguali diritti, il professore della Scuola che ha insegnato la materia all'allievo considerato. Questi tre esaminatori costituiscono una Sottocommissione esaminatrice.
 
-#### Art. 11
+### Art. 11
 
 Il Consiglio superiore fissa, oltre alle spese di viaggio e di
 
@@ -697,7 +697,7 @@ soggiorno da rimborsare ai membri della Commissione esaminatrice, l'ammontare de
 
 ## Svolgimento dell'esame
 
-#### Art. 12
+### Art. 12
 
 1\. Gli argomenti dell'esame scritto sono scelti dal presidente
 
@@ -715,35 +715,33 @@ l'esame, immediatamente prima dell'inizio di ciascuna prova.
 
 misure necessarie per assicurare la segretezza delle prove.
 
-#### Art. 13
+### Art. 13
 
 Per decisione speciale della Commissione esaminatrice, un allievo puo' essere autorizzato eccezionalmente, e per ragioni fisiche debitamente constatate, a sostituire l'esame orale con un esame scritto o viceversa.
 
-#### Art. 14
+### Art. 14
 
 La durata delle prove scritte ed orali di cui agli articoli 6 e 7 e' fissata dal Consiglio superiore.
 
-#### Art. 15
+### Art. 15
 
 L'esame scritto si svolge sotto la costante sorveglianza del
 
 presidente della Commissione esaminatrice, assistito dal direttore della Scuola.
 
-#### Art. 16
+### Art. 16
 
 Il presidente della Commissione esaminatrice puo' assistere a tutte
 
 le prove. Durante l'esame, egli puo' in qualsiasi momento riunire la Commissione esaminatrice per ogni questione concernente lo svolgimento delle prove. Egli ha l'autorita' per decidere sugli incidenti che eventualmente si verificassero.
 
-## Le deliberazioni - della Commissione
+## Le deliberazioni - della Commissione esaminatrice
 
-### esaminatrice
-
-#### Art. 17
+### Art. 17
 
 I membri delle Sottocommissioni incaricati di correggere le prove scritte o di far sostenere le prove orali danno un voto individuale a ciascuna prova. Dopo deliberazione, il voto finale per ogni prova risulta dalla media aritmetica dei voti dati. I voti cosi' assegnati sono trasmessi al presidente della Commissione esaminatrice.
 
-#### Art. 18
+### Art. 18
 
 1\. Terminate le prove scritte ed orali, il presidente riunisce la Commissione esaminatrice per deliberare sull'insieme dei risultati.
 
@@ -769,7 +767,7 @@ c) un massimo di 80 punti per l'insieme delle prove orali di cui all'art. 7.
 
 L'allievo che non abbia ottenuto il minimo stabilito per la lingua materna potra' essere respinto solo previa deliberazione della Commissione esaminatrice. Questa, sentito il parere del professore che ha insegnato la materia, potra' decidere di sottoporlo o no a una nuova prova che si svolgera' immediatamente davanti ad una Sottocommissione speciale presieduta dal presidente della Commissione esaminatrice o dal suo rappresentante.
 
-#### Art. 19
+### Art. 19
 
 Sullo svolgimento delle prove e sulle deliberazioni sara' steso un verbale con indicazione del voto dato in ciascuna materia e della percentuale dei punti accordata per l'insieme delle prove. Esso e' sottoscritto dai membri presenti.
 
@@ -777,7 +775,7 @@ Il presidente della Commissione esaminatrice trasmettera' alle
 
 autorita' nazionali, designate a tale scopo una copia autenticata conforme al verbale.
 
-#### Art. 20
+### Art. 20
 
 I membri della Commissione esaminatrice sono tenuti a rispettare la
 
@@ -785,7 +783,7 @@ segretezza delle operazioni dell'esame e delle deliberazioni.
 
 ## Diploma di licenza liceale europea
 
-#### Art. 21
+### Art. 21
 
 1\. Agli allievi che abbiano sostenuto con successo le prove della licenza liceale europea e' rilasciato un diploma attestante la percentuale dei punti ottenuti allo esame. Su richiesta dell'allievo sara' rilasciata una distinta delle percentuali di punti da lui ottenute in ogni singola materia.
 
@@ -803,7 +801,7 @@ copie conformi.
 
 ## Equivalenza con gli studi secondari nazionali
 
-#### Art. 22
+### Art. 22
 
 a) Per l'applicazione dell'art. 5 punto 2 a) e b) dello statuto
 
@@ -861,7 +859,7 @@ dei certificati o delle menzioni in vigore nei vari Paesi, le Parti contraenti s
 
 ## Disposizioni generali
 
-#### Art. 23
+### Art. 23
 
 Il Consiglio superiore prende le disposizioni occorrenti per
 

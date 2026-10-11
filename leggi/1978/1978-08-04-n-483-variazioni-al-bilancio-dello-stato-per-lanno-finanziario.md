@@ -27,59 +27,59 @@ la seguente legge:
 
 ## STATO DI PREVISIONE DEL MINISTERO DEL TESORO
 
-### Art. 1
+## Art. 1
 
 Il limite degli impegni assumibili in garanzia ai sensi dell'articolo 3 della legge 24 maggio 1977, n. 227, fissato dall'articolo 41 della legge 27 aprile 1978, n. 143 per l'anno finanziario 1978, in lire 2.500 miliardi per le garanzie di durata superiore a ventiquattro mesi, e' elevato a lire 3.500 miliardi.
 
-### Art. 2
+## Art. 2
 
 L'importo delle anticipazioni da concedere all'Amministrazione delle poste e delle telecomunicazioni a copertura del disavanzo di gestione per l'anno 1975 fissato dall'articolo 18 della legge 26 aprile 1975, n. 132, e' aumentato di L. 30.259.815.855.
 
 L'importo delle anticipazioni da concedere alla predetta Amministrazione delle poste e delle telecomunicazioni a copertina del disavanzo di gestione per l'anno 1976 di cui all'articolo 20 della legge 22 dicembre 1975, n. 702, modificato dall'articolo 4 della legge 5 maggio 1977, n. 188, e' aumentato di L. 22.356.677.145.
 
-### Art. 3
+## Art. 3
 
 Il limite di 8.000 miliardi di lire fissato dall'articolo 40 della legge 27 aprile 1978, n. 143, per le emissioni nell'anno 1978 di buoni ordinari del Tesoro e' elevato a lire 18.000 miliardi.
 
 ## STATO DI PREVISIONE DEL MINISTERO DELLA PUBBLICA ISTRUZIONE
 
-### Art. 4
+## Art. 4
 
 Il contributo a favore dell'Istituto nazionale di fisica nucleare (I.N.F.N.) autorizzato dall'articolo 91 della legge 27 aprile 1978, n. 143, e' elevato da L. 22.500.000.000 a lire 25 miliardi.
 
 ## STATO DI PREVISIONE DEL MINISTERO DELL'INTERNO
 
-### Art. 5
+## Art. 5
 
 Il Ministro del tesoro e' autorizzato a provvedere, con propri decreti, su proposta del Ministro dell'interno, alle variazioni compensative che si rendessero necessarie tra i capitoli 1586, 1587 e 1588 dello stato di previsione del Ministero dell'interno per l'anno finanziario 1978, concernenti spese relative al finanziamento degli enti locali, ai sensi del decreto-legge 29 dicembre 1977, n. 946, convertito in legge 27 febbraio 1978, n. 43.
 
 ## STATO DI PREVISIONE DEL MINISTERO DEI LAVORI PUBBLICI
 
-### Art. 6
+## Art. 6
 
 L'autorizzazione di spesa di cui all'articolo 104 della legge 27 aprile 1978, n. 143, e' elevata a L. 175.400.000.000.
 
 ## STATO DI PREVISIONE DEL MINISTERO DELLA DIFESA
 
-### Art. 7
+## Art. 7
 
 Gli impegni pluriennali assunti sul capitolo 1801 dello stato di previsione della spesa del Ministero della difesa, a valere sulla legge 16 giugno 1977, n. 372, con i decreti del Ministro del tesoro n. 159108 in data 11 ottobre 1976, registrato alla Corte dei conti in data 20 ottobre 1976, foglio 59, registro 29, e n. 154709 in data 30 settembre 1977, registrato alla Corte dei conti in data 29 ottobre 1977, foglio 321, registro 23, si intendono assunti sul capitolo di nuova istituzione 4012 concernente acquisizione e ammodernamento di armamenti, materiali, apparecchiature e mezzi dell'Esercito, ferma restando la ripartizione temporale stabilita nei decreti medesimi.
 
 ## VARIAZIONI DI ENTRATA E DI SPESA
 
-### Art. 8
+## Art. 8
 
 Le spese della categoria IV (acquisto di beni e servizi) degli stati di previsione di tutti i Ministeri e dei bilanci della Azienda nazionale autonoma delle strade, dell'Azienda autonoma delle ferrovie dello Stato, dell'Amministrazione delle poste e delle telecomunicazioni, dell'Azienda di Stato per i servizi telefonici e dell'Amministrazione dei monopoli di Stato, quali risultano approvate dalla legge 27 aprile 1978, n. 143, sono ridotte del 5 per cento, con esclusione di quelle determinate per legge o per convenzione.
 
 La riduzione si applica ai totali delle predette categorie iscritte nelle varie rubriche di bilancio ed il Ministro del tesoro e' autorizzato ad individuare i capitoli sui quali realizzare la riduzione predetta e ad apportare, con propri decreti, le conseguenti variazioni di bilancio.
 
-### Art. 9
+## Art. 9
 
 Le autorizzazioni di spesa iscritte per l'anno finanziario 1978 ai capitoli 5926 dello stato di previsione del Ministero del tesoro e 7081 dello stato di previsione del Ministero del bilancio e della programmazione economica sono ridotte, per l'anno finanziario medesimo, in misura pari al 5 per cento e, comunque, per un importo non superiore a 60 miliardi complessivi.
 
 Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le conseguenti variazioni di bilancio, sentite le regioni.
 
-### Art. 10
+## Art. 10
 
 Nello stato di previsione dell'entrata e negli stati di previsione della spesa dei Ministeri del tesoro, delle finanze, del bilancio e della programmazione economica, di grazia e giustizia, degli affari esteri, della pubblica istruzione, dell'interno, dei lavori pubblici, dei trasporti, dell'agricoltura e delle foreste, dell'industria, del commercio e dell'artigianato, del lavoro e della previdenza sociale, del commercio con l'estero, della marina mercantile, delle partecipazioni statali, della sanita', del turismo e dello spettacolo e dei beni culturali e ambientali, per l'anno finanziario 1978, sono introdotte le variazioni di cui alle annesse tabelle A e B.
 
@@ -95,7 +95,7 @@ Visto, il Guardasigilli: BONIFACIO
 
 ## VARIAZIONI DI ENTRATA E DI SPESA
 
-### Tabella A
+## Tabella A
 
 TABELLE
 
@@ -155,7 +155,7 @@ Totale degli aumenti ... L.1.196.289.000.000
  =================
 ```
 
-### Tabella B
+## Tabella B
 
 TABELLA B
 
@@ -409,7 +409,7 @@ Stato delle competenze al personale comandato a prestare servizio
 
 presso la segreteria del Ministro.
 
-### Variazioni elenco n. 1
+## Variazioni elenco n. 1
 
 VARIAZIONI CHE SI APPORTANO ALL'ELENCO N. 1
 
@@ -447,7 +447,7 @@ MINISTERO DEI TRASPORTI
 
 Cap. n. 2076 - Spese per la contabilizzazione, ecc.
 
-### Variazioni elenco n. 3
+## Variazioni elenco n. 3
 
 VARIAZIONI CHE SI APPORTANO ALL'ELENCO N. 3
 
@@ -465,7 +465,7 @@ Cap. n. 2622 - Stipendi, ecc.
 
 Cap. n. 2651 - Trattamenti provvisori, ecc.
 
-### Variazioni elenco n. 4
+## Variazioni elenco n. 4
 
 VARIAZIONI CHE SI APPORTANO ALL'ELENCO N. 4
 
@@ -487,7 +487,7 @@ MINISTERO DELLA SANITA'
 
 Cap. n. 2600 - Fondo integrativo per gli asili nido
 
-### Variazioni elenco n. 5
+## Variazioni elenco n. 5
 
 VARIAZIONI CHE SI APPORTANO ALL'ELENCO N. 5
 
@@ -555,7 +555,7 @@ Miglioramenti economici alle Forze dell'ordine................ 203.000
  =========
 ```
 
-### Variazioni elenco n. 6
+## Variazioni elenco n. 6
 
 VARIAZIONI CHE SI APPORTANO ALL'ELENCO N. 6
 

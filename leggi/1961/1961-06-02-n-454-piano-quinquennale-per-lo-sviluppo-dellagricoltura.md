@@ -28,9 +28,7 @@ la seguente legge:
 
 ## TITOLO I - Disposizioni generali
 
-### CAPO I
-
-#### FINALITA' E DIRETTIVE D'INTERVENTO
+### CAPO I - FINALITA' E DIRETTIVE D'INTERVENTO
 
 ##### Art. 1
 
@@ -86,7 +84,7 @@ I Comitati esprimono il loro parere sui criteri di applicazione, nella regione, 
 
 Ove i Comitati non esprimano il parere entro due mesi dalla richiesta, il Consiglio superiore provvede senz'altro alle incombenze di sua competenza.
 
-## CAPO II - CENSIMENTO GENERALE DELL'AGRICOLTURA
+### CAPO II - CENSIMENTO GENERALE DELL'AGRICOLTURA
 
 ##### Art. 4
 
@@ -98,9 +96,7 @@ Con decreto del Presidente del Consiglio dei Ministri sara' fissata la data di e
 
 ## TITOLO II - Provvedimenti per l'incremento della produttivita' in agricoltura
 
-### CAPO I
-
-#### PROVVEDIMENTI PER LA RICERCA, LA SPERIMENTAZIONE, LA DIMOSTRAZIONE E - L'ASSISTENZA TECNICA
+### CAPO I - PROVVEDIMENTI PER LA RICERCA, LA SPERIMENTAZIONE, LA DIMOSTRAZIONE E L'ASSISTENZA TECNICA
 
 ##### Art. 5
 
@@ -124,11 +120,9 @@ Attivita' dimostrativa ed assistenza tecnica
 
 E' autorizzata la spesa di lire 10 miliardi in ragione di lire 2 miliardi per ciascun esercizio dal 1960-61 al 1964-65, per l'erogazione di contributi e spese diretti a promuovere, potenziare e coordinare le attivita' del Ministero dell'agricoltura e delle foreste e di Enti, Associazioni ed Istituti, volte alla preparazione e all'aggiornamento di tecnici agricoli, di agricoltori e di lavoratori agricoli, all'assistenza tecnica a carattere continuativo con preferenza alle piccole e medie aziende singole o associate ed alle cooperative agricole, nonche' le iniziative a carattere dimostrativo e divulgativo connesse alle esigenze della riconversione agricola e della cooperazione internazionale. Il Ministero provvede direttamente allo svolgimento delle funzioni suddette e disciplina e coordina le attivita' svolte da Enti, Associazioni ed Istituti nello stesso settore.
 
-## CAPO II - PROVVEDIMENTI PER LO SVILUPPO E L'AMMODERNAMENTO DELLE AZIENDE
+### CAPO II - PROVVEDIMENTI PER LO SVILUPPO E L'AMMODERNAMENTO DELLE AZIENDE
 
-### Sezione I
-
-#### CONTRIBUTI E MUTUI PER OPERE DI MIGLIORAMENTO FONDIARIO
+#### Sezione I - CONTRIBUTI E MUTUI PER OPERE DI MIGLIORAMENTO FONDIARIO
 
 ##### Art. 8
 
@@ -210,9 +204,7 @@ AGGIORNAMENTO (5)
 
 La L. 6 aprile 1965, n. 341 ha disposto (con l'art. 3) che "L'autorizzazione di spesa di lire 40 miliardi prevista dall'articolo 13 della legge 2 giugno 1961, n. 454, e' aumentata di lire 9 miliardi."
 
-## Sezione II - CONTRIBUTI E MUTUI PER IL MIGLIORAMENTO DELLE PRODUZIONI, PER LA
-
-### ZOOTECNIA E LA MECCANIZZAZIONE
+#### Sezione II - CONTRIBUTI E MUTUI PER IL MIGLIORAMENTO DELLE PRODUZIONI, PER LA ZOOTECNIA E LA MECCANIZZAZIONE
 
 ##### Art. 14
 
@@ -302,7 +294,7 @@ AGGIORNAMENTO (1)
 
 La L. 22 novembre 1962, n. 1677 ha disposto (con l'articolo unico) che "Le provvidenze di cui all'articolo 18 della legge 2 giugno 1961, n. 454, possono essere concesse per gli acquisti di macchine agricole intervenuti dalla data di entrata in vigore della legge fino al 31 dicembre 1961, anche quando le domande di contributo sono state presentate posteriormente alla data di acquisto, sempreche' le domande stesse siano pervenute al competente organo entro il 31 marzo 1962."
 
-## CAPO III - PROVVEDIMENTI PER AGEVOLARE LA CONDUZIONE AZIENDALE
+### CAPO III - PROVVEDIMENTI PER AGEVOLARE LA CONDUZIONE AZIENDALE
 
 ##### Art. 19
 
@@ -324,7 +316,7 @@ AGGIORNAMENTO (2)
 
 La L. 9 febbraio 1963, n. 130 ha disposto (con l'articolo unico) che "Il concorso dello Stato sui prestiti di cui agli articoli 16, lettera a), e 19 della legge 2 giugno 1961, n. 454, e corrisposto per l'intera durata delle operazioni originariamente prevista, anche quando il prestatario estingua anticipatamente, in tutto o in parte, il proprio debito, sempreche' la somma concessa a prestito sia stata gia' impiegata per gli scopi previsti."
 
-## CAPO IV - PROVVEDIMENTI PER LA VALORIZZAZIONE DELLA PRODUZIONE AGRICOLA
+### CAPO IV - PROVVEDIMENTI PER LA VALORIZZAZIONE DELLA PRODUZIONE AGRICOLA
 
 ##### Art. 20
 
@@ -360,9 +352,7 @@ Con decreto del Ministro per l'agricoltura e per le foreste di concerto con il M
 
 ## TITOLO III - Provvedimenti per la bonifica, l'irrigazione e la colonizzazione
 
-### CAPO I
-
-#### OPERE PUBBLICHE DI BONIFICA
+### CAPO I - OPERE PUBBLICHE DI BONIFICA
 
 ##### Art. 22
 
@@ -378,7 +368,7 @@ Opere pubbliche di bonifica montana
 
 E' autorizzata la spesa di lire 25 miliardi, in ragione di 5 miliardi per ciascun esercizio dal 1960-61 al 1964-65 per la esecuzione delle opere pubbliche di bonifica montana di cui agli articoli 19 e 20 della legge 25 luglio 1952, n. 991.
 
-## CAPO II - NORME PER LA ESECUZIONE DELLE OPERE PUBBLICHE
+### CAPO II - NORME PER LA ESECUZIONE DELLE OPERE PUBBLICHE
 
 ##### Art. 24
 
@@ -408,7 +398,7 @@ Su richiesta dei proprietari interessati, i consorzi di bonifica possono assumer
 
 Il credito del consorzio di bonifica verso i proprietari per la esecuzione di opere di cui al precedente comma e di quelle di cui all'articolo 2 della, legge 30 luglio 1957, n. 667, siano esse comuni a piu' fondi o particolari ad un dato fondo, e' equiparato, a tutti gli effetti, ai contributi spettanti al consorzio per la esecuzione, manutenzione ed esercizio delle opere di competenza statale.
 
-## CAPO III - SVILUPPO E CONSOLIDAMENTO DELLA PROPRIETA' CONTADINA
+### CAPO III - SVILUPPO E CONSOLIDAMENTO DELLA PROPRIETA' CONTADINA
 
 ##### Art. 27
 
@@ -490,9 +480,7 @@ Per esse non sono consentite le operazioni di cui all'articolo 2 della legge 25 
 
 Per l'esplicazione dei compiti di cui ai precedenti commi, sono applicabili le disposizioni che regolano le attivita' degli enti interessati, ivi comprese quelle in materia di agevolazioni ed esenzioni fiscali e tributarie.
 
-## CAPO IV - ORGANIZZAZIONE E COMPITI DEI CONSORZI DI BONIFICA E DEGLI ENTI DI
-
-### COLONIZZAZIONE
+### CAPO IV - ORGANIZZAZIONE E COMPITI DEI CONSORZI DI BONIFICA E DEGLI ENTI DI COLONIZZAZIONE
 
 ##### Art. 31
 

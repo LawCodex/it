@@ -53,11 +53,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Ambito di applicazione e definizioni
 
-### Ambito di applicazione e definizioni
-
-#### Art. 1
+### Art. 1
 
 Oggetto e ambito di applicazione
 
@@ -285,7 +283,7 @@ Oggetto e ambito di applicazione
 
 > 2\. Il Reparto informazioni e sicurezza dello Stato maggiore della difesa (RIS) svolge esclusivamente compiti di carattere tecnico, militare e di polizia militare, e in particolare ogni attivita' informativa utile al fine della tutela dei presidi e delle attivita' delle Forze armate all'estero, e non e' parte del Sistema di informazione per la sicurezza. Il RIS agisce in stretto collegamento con l'AISE secondo la disciplina regolamentare approvata con decreto del Presidente del Consiglio dei ministri, emanato previa deliberazione del CISR, entro centottanta giorni dalla data di entrata in vigore della presente legge.».
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -339,7 +337,7 @@ o) «punto di contatto dello Stato membro»: l'articolazione, individuata dallo 
 
 > \- La direttiva (UE) 2016/680 del Parlamento europeo e del Consiglio relativa alla protezione delle persone fisiche con riguardo al trattamento dei dati personali da parte delle autorita' competenti a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, nonche' alla libera circolazione di tali dati e che abroga la decisione quadro 2008/977/GAI del Consiglio, e' pubblicata nella GUUE del 4 maggio 2016, L.119.
 
-#### Art. 3
+### Art. 3
 
 Principi sullo scambio di informazioni
 
@@ -355,11 +353,9 @@ d) se le informazioni richieste sono state inizialmente ottenute da un altro Sta
 
 e) i dati personali scambiati ai sensi della direttiva che risultino inesatti, incompleti o non piu' aggiornati siano cancellati o rettificati, o il loro trattamento sia limitato, a seconda dei casi, e qualsiasi destinatario ne sia informato senza ritardo («principio dell'affidabilita' dei dati»).
 
-## Capo II
+## Capo II - Scambio di informazioni attraverso i punti di contatto unici
 
-### Scambio di informazioni attraverso i punti di contatto unici
-
-#### Art. 4
+### Art. 4
 
 Richieste di informazioni ai punti di contatto unici
 
@@ -405,7 +401,7 @@ f) le restrizioni sull'utilizzo delle informazioni contenute nella richiesta per
 
 6\. Le richieste di informazioni devono essere presentate al punto di contatto unico di un altro Stato membro in una delle lingue incluse nell'elenco compilato da tale altro Stato membro a norma dell'articolo 12.
 
-#### Art. 5
+### Art. 5
 
 Comunicazione di informazioni a seguito di richieste ai punti di contatto unici
 
@@ -433,7 +429,7 @@ b) i casi di terrorismo che non comportano situazioni di emergenza o di gestione
 
 c) la sicurezza di una persona.
 
-#### Art. 6
+### Art. 6
 
 Rigetto delle richieste di informazioni
 
@@ -493,11 +489,9 @@ h) le informazioni richieste siano state inizialmente ottenute da un altro Stato
 
 > 2\. Il pubblico ministero, nel comunicare il divieto di cui al comma 1 alle persone che hanno rilasciato le dichiarazioni, le avverte delle responsabilita' penali conseguenti all'indebita rivelazione delle notizie.».
 
-## Capo III
+## Capo III - Altri scambi di informazioni
 
-### Altri scambi di informazioni
-
-#### Art. 7
+### Art. 7
 
 Comunicazione di informazioni di propria iniziativa
 
@@ -515,7 +509,7 @@ b) i casi di terrorismo che non comportano situazioni di emergenza o di gestione
 
 c) la sicurezza di una persona.
 
-#### Art. 8
+### Art. 8
 
 Scambio di informazioni a seguito di richieste presentate direttamente alle autorita' di contrasto competenti
 
@@ -535,7 +529,7 @@ c) la sicurezza di una persona.
 
 4\. Negli scambi di informazioni di cui al presente articolo e' sempre fatta salva la preventiva autorizzazione dell'autorita' giudiziaria nei casi in cui essa e' prevista.
 
-#### Art. 9
+### Art. 9
 
 Scambio informativo con il Procuratore nazionale antimafia e antiterrorismo
 
@@ -571,17 +565,15 @@ Scambio informativo con il Procuratore nazionale antimafia e antiterrorismo
 
 > 4-bis. Il procuratore nazionale antimafia e antiterrorismo esercita le funzioni di impulso di cui al comma 2 anche in relazione ai procedimenti per i delitti di cui agli articoli 615-ter, terzo comma, 635-ter e 635-quinquies del codice penale nonche', quando i fatti sono commessi in danno di un sistema informatico o telematico utilizzato dallo Stato o da altro ente pubblico o da impresa esercente servizi pubblici o di pubblica necessita', in relazione ai procedimenti per i delitti di cui agli articoli 617-quater, 617-quinquies e 617-sexies del codice penale. Si applicano altresi' le disposizioni dei commi 3 e 4 del presente articolo.».
 
-## Capo IV
+## Capo IV - Norme aggiuntive relative alla comunicazione di informazioni ai sensi dei capi II e III
 
-### Norme aggiuntive relative alla comunicazione di informazioni ai sensi - dei capi II e III
-
-#### Art. 10
+### Art. 10
 
 Autorizzazione giudiziaria
 
 1\. Qualora sia necessaria un'autorizzazione dell'autorita' giudiziaria per la comunicazione di informazioni al punto di contatto unico o alle autorita' di contrasto competenti di altri Stati membri a norma del capo II o III, il punto di contatto unico nazionale o le autorita' di contrasto di cui all'articolo 2, comma 1, lettera a), del presente decreto adottano immediatamente tutte le misure necessarie per ottenere al piu' presto tale autorizzazione giudiziaria.
 
-#### Art. 11
+### Art. 11
 
 Disposizioni in materia di tutela dei dati personali
 
@@ -597,7 +589,7 @@ Disposizioni in materia di tutela dei dati personali
 
 > \- Per i riferimenti al citato regolamento (UE) 2016/794 del Parlamento europeo e del Consiglio, dell'11 maggio 2016 si veda nelle note alle premesse.
 
-#### Art. 12
+### Art. 12
 
 Elenco delle lingue
 
@@ -605,7 +597,7 @@ Elenco delle lingue
 
 2\. Il punto di contatto nazionale cura la trasmissione dell'elenco di cui al comma 1 e i relativi aggiornamenti alla Commissione europea.
 
-#### Art. 13
+### Art. 13
 
 Trasmissione delle informazioni a Europol
 
@@ -619,7 +611,7 @@ Trasmissione delle informazioni a Europol
 
 > \- Per i riferimenti al citato regolamento (UE) 2016/794 del Parlamento europeo e del Consiglio, dell'11 maggio 2016 si veda nelle note alle premesse.
 
-#### Art. 14
+### Art. 14
 
 Canale di comunicazione sicuro
 
@@ -635,11 +627,9 @@ c) un incidente tecnico od operativo imprevisto impedisce al loro punto di conta
 
 3\. Il punto di contatto unico nazionale e le autorita' di contrasto di cui all'articolo 2, comma 1, lettera a), devono essere direttamente collegati a SIENA, anche, se del caso, mediante dispositivi mobili.
 
-## Capo V
+## Capo V - Punto di contatto unico per lo scambio di informazioni tra gli Stati membri
 
-### Punto di contatto unico per lo scambio di informazioni tra gli Stati - membri
-
-#### Art. 15
+### Art. 15
 
 Compiti del punto di contatto unico
 
@@ -665,7 +655,7 @@ f) invia richieste di informazioni ai punti di contatto unici di altri Stati mem
 
 5\. I dirigenti degli uffici giudiziari impartiscono le necessarie disposizioni organizzative affinche' sia costantemente assicurato l'immediato esame delle richieste di autorizzazione, formulate dal punto di contatto unico nazionale e dalle autorita' di contrasto, per la comunicazione delle informazioni ai sensi del presente decreto.
 
-#### Art. 16
+### Art. 16
 
 Sistema di gestione dei casi
 
@@ -697,11 +687,9 @@ h) registrazione degli accessi e di altre operazioni di trattamento in relazione
 
 > \- Per i riferimenti alla citata direttiva (UE) 2016/680 del Parlamento europeo e del Consiglio, del 27 aprile 2016 si veda nelle note all'articolo 2.
 
-## Capo VI
+## Capo VI - Statistiche, disposizioni finali e abrogazioni
 
-### Statistiche, disposizioni finali e abrogazioni
-
-#### Art. 17
+### Art. 17
 
 Statistiche
 
@@ -717,7 +705,7 @@ c) il numero di richieste di informazioni rigettate a norma dell'articolo 6, dis
 
 d) il numero di casi in cui non sono stati rispettati i termini indicati all'articolo 5, comma 1, non a causa della necessita' di ottenere un'autorizzazione giudiziaria a norma dell'articolo 5, comma 2, distinto per Stati membri che hanno presentato le richieste di informazioni.
 
-#### Art. 18
+### Art. 18
 
 Autorita' nazionale di controllo
 
@@ -727,7 +715,7 @@ Autorita' nazionale di controllo
 
 > \- Per i riferimenti al citato decreto legislativo 30 giugno 2003, n. 196, si veda nelle note alle premesse.
 
-#### Art. 19
+### Art. 19
 
 Clausola di invarianza finanziaria
 
@@ -735,7 +723,7 @@ Clausola di invarianza finanziaria
 
 Le amministrazioni interessate provvedono agli adempimenti di cui al presente decreto con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-#### Art. 20
+### Art. 20
 
 Abrogazioni
 

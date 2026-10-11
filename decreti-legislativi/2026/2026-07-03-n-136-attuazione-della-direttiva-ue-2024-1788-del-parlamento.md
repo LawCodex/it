@@ -118,11 +118,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Principi generali
 
-### Principi generali
-
-#### Art. 1
+### Art. 1
 
 Principi generali di organizzazione dei mercati del gas e dell'idrogeno
 
@@ -294,11 +292,9 @@ L'organizzazione del mercato tiene conto, altresi', dell'esigenza di dare stabil
 
 > \- Per i riferimenti del regolamento (UE) 2018/1999 si veda nelle note alle premesse.
 
-## Capo II
+## Capo II - Disposizioni in materia di certificazione, diritti dei clienti e sistemi di misurazione
 
-### Disposizioni in materia di certificazione, diritti dei clienti e - sistemi di misurazione
-
-#### Art. 2
+### Art. 2
 
 Certificazione del gas rinnovabile e dei combustibili a basse emissioni di carbonio
 
@@ -588,7 +584,7 @@ b) un livello adeguato di verifica indipendente di parte terza delle informazion
 
 > (omissis)»
 
-#### Art. 3
+### Art. 3
 
 Diritti contrattuali di base
 
@@ -642,7 +638,7 @@ b) un documento informativo di sintesi, delle principali condizioni contrattuali
 
 13\. L'Autorita' di regolazione per energia, reti e ambiente (ARERA), con uno o piu' atti da adottare entro dodici mesi dalla data di entrata in vigore del presente decreto, adegua la disciplina regolatoria al fine di rendere effettivi i diritti di cui al presente articolo con riferimento al settore della vendita di gas naturale. La medesima Autorita' con uno o piu' atti regolatori applica le disposizioni di cui al presente articolo al settore della vendita dell'idrogeno sulla base di criteri di gradualita' tenuto conto del livello di maturita' del relativo mercato.
 
-#### Art. 4
+### Art. 4
 
 Diritto a cambiare fornitore
 
@@ -668,7 +664,7 @@ Diritto a cambiare fornitore
 
 > (omissis)»
 
-#### Art. 5
+### Art. 5
 
 Diritti e tutela dei consumatori in relazione alla graduale eliminazione del gas naturale
 
@@ -688,7 +684,7 @@ d) nel pianificare e realizzare la graduale eliminazione del gas naturale, si te
 
 > \- Per i riferimenti del regolamento (UE) 2024/1789 si veda nelle note alle premesse.
 
-#### Art. 6
+### Art. 6
 
 Clienti attivi sul mercato del gas naturale
 
@@ -722,7 +718,7 @@ d) sono autorizzati a fornire diversi servizi contemporaneamente, se tecnicament
 
 > \- Per i riferimenti del regolamento (UE) 2024/1789 si veda nelle note alle premesse.
 
-#### Art. 7
+### Art. 7
 
 Bollette e informazioni di fatturazione
 
@@ -748,7 +744,7 @@ Bollette e informazioni di fatturazione
 
 > 2\. Il registro e' pubblico ed e' reso accessibile a tutti gli interessati in modalita' telematica.».
 
-#### Art. 8
+### Art. 8
 
 Sistemi di misurazione intelligenti del gas naturale
 
@@ -790,7 +786,7 @@ b) rispondono alle esigenze specifiche dei clienti in condizioni di poverta' ene
 
 > \- Per il testo dell'articolo 22, comma 6, del decreto legislativo n. 164 del 2000, si veda nelle note all'articolo 4.
 
-#### Art. 9
+### Art. 9
 
 Sistemi di misurazione intelligenti nel sistema dell'idrogeno
 
@@ -804,11 +800,9 @@ L'ARERA stabilisce i requisiti funzionali minimi dei sistemi di misurazione inte
 
 4\. Nel caso in cui l'introduzione dei sistemi di misurazione intelligenti per l'idrogeno sia stata valutata negativamente in seguito all'analisi costi-benefici di cui al comma 1, la valutazione medesima e' riveduta tenuto conto dei cambiamenti significativi delle ipotesi di base e degli sviluppi tecnologici e del mercato.
 
-## Capo III
+## Capo III - Modifiche al decreto legislativo 23 maggio 2000, n. 164
 
-### Modifiche al decreto legislativo 23 maggio 2000, n. 164
-
-#### Art. 10
+### Art. 10
 
 Modifiche all'articolo 1 del decreto legislativo 23 maggio 2000, n. 164
 
@@ -836,7 +830,7 @@ b) dopo il comma 2-bis e' aggiunto il seguente:
 
 > 2-ter. Al fine di favorire la decarbonizzazione, e' sempre ammessa la stipulazione di contratti a lungo termine per i gas rinnovabili e i gas a basse emissioni di carbonio che siano pur sempre conformi alle norme sulla concorrenza dell'Unione europea. E' ammessa la stipulazione di contratti a lungo termine per la fornitura di gas di origine fossile non soggetto ad abbattimento purche' la durata non si protragga oltre il 31 dicembre 2049.».
 
-#### Art. 11
+### Art. 11
 
 Modifiche all'articolo 2 del decreto legislativo 23 maggio 2000, n. 164
 
@@ -1110,7 +1104,7 @@ kk-quadragies quater) riconversione: la riconversione ai sensi dell'articolo 2, 
 
 > kk-quadragies quater) riconversione: la riconversione ai sensi dell'articolo 2, punto 18), del regolamento (UE) 2022/869 del Parlamento europeo e del Consiglio, del 30 maggio 2022.».
 
-#### Art. 12
+### Art. 12
 
 Modifiche all'articolo 6 del decreto legislativo 23 maggio 2000, n. 164
 
@@ -1122,7 +1116,7 @@ b) dopo il comma 5 e' aggiunto il seguente:
 
 «5-bis. Le misure relative all'accesso sono notificate alla Commissione europea.».
 
-#### Art. 13
+### Art. 13
 
 Modifiche all'articolo 14 del decreto legislativo 23 maggio 2000, n. 164
 
@@ -1182,7 +1176,7 @@ b) il sistema distribuisca gas naturale principalmente al proprietario o al gest
 
 > In tali casi di esenzione concessa da ARERA le tariffe applicabili o le relative metodologie di calcolo sono rivedute e approvate conformemente all'articolo 78 della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio, del 13 giugno 2024, su richiesta di un utente del sistema di distribuzione chiuso del gas naturale. Il riconoscimento della esenzione concessa dall'ARERA non subisce pregiudizi nei casi di uso accidentale da parte di un numero limitato di clienti civili assunti dal proprietario del sistema di distribuzione, o legati a quest'ultimo da un vincolo simile, e situati nell'area servita da un sistema di distribuzione chiuso. I sistemi di distribuzione chiusi sono considerati sistemi di distribuzione.».
 
-#### Art. 14
+### Art. 14
 
 Modifiche all'articolo 16 del decreto legislativo 23 maggio 2000, n. 164
 
@@ -1216,7 +1210,7 @@ Modifiche all'articolo 16 del decreto legislativo 23 maggio 2000, n. 164
 
 > 7\. Per quanto non espressamente previsto dal presente decreto in materia di distribuzione si applicano le norme vigenti in materia di servizi pubblici locali.».
 
-#### Art. 15
+### Art. 15
 
 Modifiche all'articolo 18 del decreto legislativo 23 maggio 2000, n. 164
 
@@ -1232,7 +1226,7 @@ Modifiche all'articolo 18 del decreto legislativo 23 maggio 2000, n. 164
 
 5\. I soggetti che effettuano la vendita di gas naturale devono disporre di capacita' di trasporto in uscita dalla rete di trasporto adeguata alle forniture ai propri clienti e risorse adeguate a garantirne il servizio di modulazione e il bilanciamento.».
 
-#### Art. 16
+### Art. 16
 
 Modifica all'articolo 19 del decreto legislativo 23 maggio 2000, n. 164
 
@@ -1264,7 +1258,7 @@ Modifica all'articolo 19 del decreto legislativo 23 maggio 2000, n. 164
 
 > 7-bis. I gestori dei sistemi di distribuzione cooperano con i gestori dei sistemi di trasporto per garantire la partecipazione effettiva dei partecipanti al mercato collegati alla loro infrastruttura nei mercati al dettaglio, all'ingrosso e di bilanciamento nell'ambito del sistema di entrata-uscita cui appartiene o e' collegato il sistema di distribuzione.».
 
-#### Art. 17
+### Art. 17
 
 Modifiche all'articolo 20 del decreto legislativo 23 maggio 2000, n. 164
 
@@ -1288,7 +1282,7 @@ Modifiche all'articolo 20 del decreto legislativo 23 maggio 2000, n. 164
 
 > 5-ter. Nel corso di operazioni di compravendita da parte di imprese collegate, alle imprese di cui al comma 1 e' fatto divieto di abuso delle informazioni commercialmente sensibili acquisite da terzi nel negoziare o fornire l'accesso ai sistemi e agli impianti gestiti dalle stesse imprese.».
 
-#### Art. 18
+### Art. 18
 
 Modifiche all'articolo 22 del decreto legislativo 23 maggio 2000, n. 164
 
@@ -1354,7 +1348,7 @@ e) dopo il comma 7 sono aggiunti i seguenti:
 
 > 7-ter. L'ARERA assicura, nell'ambito della disciplina della gestione della morosita' dei clienti finali, la tutela dei clienti vulnerabili e in condizioni di poverta' energetica dal rischio di interruzione della fornitura.».
 
-#### Art. 19
+### Art. 19
 
 Modifiche all'articolo 24 del decreto legislativo 23 maggio 2000, n. 164
 
@@ -1402,7 +1396,7 @@ c) il pertinente gestore della rete di distribuzione, esentato dall'obbligo di p
 
 > c) il pertinente gestore della rete di distribuzione, esentato dall'obbligo di presentare un piano di dismissione della rete, a norma dell'articolo 57, paragrafo 5, della direttiva (UE) 2024/1788, abbia informato l'ARERA della dismissione della rete di distribuzione o di parti pertinenti della stessa. Nei casi indicati al periodo precedente, con delibera dell'ARERA sono indicate le modalita' per il rifiuto dell'accesso o della connessione, o per la disconnessione, basato su criteri obiettivi, trasparenti e non discriminatori, tenuto conto degli interessi in causa, dei requisiti esistenti volti alla riduzione o all'abbandono del consumo di gas di origine fossile e dei pertinenti piani locali di riscaldamento e raffrescamento stabiliti a norma dell'articolo 25, paragrafo 6, della direttiva (UE) 2023/1791 del Parlamento europeo e del Consiglio, del 13 settembre 2023. Sono altresi' adottate le misure adeguate per proteggere gli utenti della rete, a norma dell'articolo 13 della direttiva (UE) 2024/1788 allorche' autorizzano la disconnessione.».
 
-#### Art. 20
+### Art. 20
 
 Modifiche all'articolo 27 del decreto legislativo 23 maggio 2000, n. 164
 
@@ -1426,11 +1420,9 @@ b) dopo il comma 1 e' inserito il seguente:
 
 > 2\. Le norme tecniche di cui al comma 1 sono notificate alla Commissione ai sensi dell'articolo 8 della direttiva 98/34/CE del 28 marzo 1983, che prevede una procedura di informazione nel settore delle norme e delle regolamentazioni tecniche, e pubblicate nel bollettino ufficiale degli idrocarburi e geotermia.».
 
-## Capo IV
+## Capo IV - Modifiche al decreto legislativo 8 novembre 2021, n. 210
 
-### Modifiche al decreto legislativo 8 novembre 2021, n. 210
-
-#### Art. 21
+### Art. 21
 
 Modifiche all'articolo 10 del decreto legislativo 8 novembre 2021, n. 210
 
@@ -1468,11 +1460,9 @@ c) dopo la lettera h), e' aggiunta la seguente:
 
 > h-bis) indicazione chiara se il prezzo e' fisso o variabile e in merito alla durata del contratto.».
 
-## Capo V
+## Capo V - Modifiche al decreto legislativo 1° giugno 2011, n. 93
 
-### Modifiche al decreto legislativo 1° giugno 2011, n. 93
-
-#### Art. 22
+### Art. 22
 
 Modifica all'articolo 4 del decreto legislativo 1° giugno 2011, n. 93
 
@@ -1492,7 +1482,7 @@ Modifica all'articolo 4 del decreto legislativo 1° giugno 2011, n. 93
 
 > 4-bis. Le misure relative al settore dell'energia elettrica sono indicate nel Piano di preparazione ai rischi di cui all'articolo 8-bis.».
 
-#### Art. 23
+### Art. 23
 
 Modifiche all'articolo 9 del decreto legislativo 1° giugno 2011, n. 93
 
@@ -1582,7 +1572,7 @@ Qualora la decisione definitiva differisca dal parere della Commissione, la moti
 
 > L'ARERA dispone di un termine di cinquanta giorni lavorativi dalla scadenza del periodo di rilascio del parere della Commissione per adottare la decisione definitiva relativa alla certificazione. La decisione definitiva tiene nella massima considerazione il parere della Commissione. E' fatto salvo il diritto di rifiutare il rilascio della certificazione se questo mette a rischio la sicurezza del suo approvvigionamento energetico o la sicurezza dell'approvvigionamento energetico di un altro Stato membro. La decisione definitiva e' pubblicata dall'ARERA sul proprio sito internet istituzionale unitamente al parere della Commissione. Qualora la decisione definitiva differisca dal parere della Commissione, la motivazione della stessa e' resa altresi' pubblica.».
 
-#### Art. 24
+### Art. 24
 
 Modifica all'articolo 11 del decreto legislativo 1° giugno 2011, n. 93
 
@@ -1628,7 +1618,7 @@ Modifica all'articolo 11 del decreto legislativo 1° giugno 2011, n. 93
 
 > 6\. I conti del Gestore sono controllati da un revisore contabile diverso da quello che controlla i conti dell'impresa verticalmente integrata o parte di essa.».
 
-#### Art. 25
+### Art. 25
 
 Modifiche all'articolo 12 del decreto legislativo 1° giugno 2011, n. 93
 
@@ -1676,7 +1666,7 @@ b) dopo il comma 10 e' aggiunto il seguente:
 
 > 10-bis. Il gestore del sistema di trasporto rende pubbliche informazioni dettagliate riguardanti la qualita' del gas naturale trasportato nelle sue reti, sulla base degli articoli 16 e 17 del regolamento (UE) 2015/703 della Commissione.».
 
-#### Art. 26
+### Art. 26
 
 Modifiche all'articolo 15 del decreto legislativo 1° giugno 2011, n. 93
 
@@ -1736,7 +1726,7 @@ b) al comma 9, le parole: «articolo 16 della direttiva 2009/73/CE» sono sostit
 
 > 12\. Il Responsabile della conformita' ha accesso agli uffici del Gestore senza necessita' di preavviso.».
 
-#### Art. 27
+### Art. 27
 
 Modifiche all'articolo 16 del decreto legislativo 1° giugno 2011, n. 93
 
@@ -1852,7 +1842,7 @@ i) sono coerenti con i piani nazionali integrati per l'energia e il clima degli 
 
 6\. Qualora parti della rete di distribuzione del gas naturale richiedano la dismissione prima della fine del loro ciclo di vita originariamente previsto, l'ARERA, previa consultazione dei soggetti interessati, e in particolare con i gestori dei sistemi di distribuzione e gli organismi a tutela dei consumatori, elabora e adotta orientamenti per un approccio strutturale all'ammortamento di tali attivi e alla fissazione delle tariffe in conformita' all'articolo 78, paragrafo 7, della direttiva (UE) 2024/1788.».
 
-#### Art. 28
+### Art. 28
 
 Modifiche all'articolo 17 del decreto legislativo 1° giugno 2011, n. 93
 
@@ -1898,7 +1888,7 @@ b) al comma 3 sono inseriti, all'inizio, i seguenti periodi: «Le imprese che so
 
 > 6\. L'Autorita' garante della concorrenza e del mercato, in cooperazione con l'Autorita' per l'energia elettrica e il gas, controlla l'osservanza, da parte del proprietario del sistema di trasporto, degli obblighi di cui al comma 5.».
 
-#### Art. 29
+### Art. 29
 
 Modifica all'articolo 18 del decreto legislativo 1° giugno 2011, n. 93
 
@@ -1926,7 +1916,7 @@ Modifica all'articolo 18 del decreto legislativo 1° giugno 2011, n. 93
 
 > d) il proprietario del sistema di trasporto e il gestore del sistema di stoccaggio predispongono un programma di adempimenti, contenente le misure adottate per escludere comportamenti discriminatori e garantire che ne sia adeguatamente controllata l'osservanza. Il programma di adempimenti illustra gli obblighi specifici cui devono ottemperare i dipendenti per raggiungere tali obiettivi. La persona o l'organo responsabile del controllo del programma di adempimenti presenta ogni anno all'Autorita' per l'energia elettrica e il gas una relazione sulle misure adottate, che viene pubblicata in forma adeguata a garantirne la conoscenza da parte dei soggetti interessati."
 
-#### Art. 30
+### Art. 30
 
 Modifiche all'articolo 21 del decreto legislativo 1° giugno 2011, n. 93
 
@@ -1972,7 +1962,7 @@ c) dopo il comma 6 e' inserito il seguente:
 
 > 7\. Il Ministero dello sviluppo economico e l'Autorita' per l'energia elettrica e il gas promuovono la cooperazione fra i gestori transfrontalieri nelle aree geografiche interessate.».
 
-#### Art. 31
+### Art. 31
 
 Modifiche all'articolo 23 del decreto legislativo 1° giugno 2011, n. 93
 
@@ -2006,7 +1996,7 @@ Modifiche all'articolo 23 del decreto legislativo 1° giugno 2011, n. 93
 
 > 4-ter. Le disposizioni di cui al comma 1 non ostano alla gestione di un sistema combinato di trasporto, stoccaggio del gas naturale o GNL o distribuzione del gas naturale, ovvero all'interno dei sistemi del gas naturale e dell'idrogeno, a condizione che il gestore ottemperi alle pertinenti disposizioni concernenti il regime di separazione gestori dei sistemi di trasporto di cui al capo IX della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio del 13 giugno 2024.».
 
-#### Art. 32
+### Art. 32
 
 Modifica all'articolo 25 del decreto legislativo 1° giugno 2011, n. 93
 
@@ -2020,7 +2010,7 @@ Modifica all'articolo 25 del decreto legislativo 1° giugno 2011, n. 93
 
 > Fermo restando quanto stabilito dall'articolo 21 del decreto legislativo n. 164 del 2000, le imprese del gas naturale sono tenute alla separazione contabile tra le attivita' di trasporto, distribuzione, stoccaggio e rigassificazione di gas naturale liquefatto, in base ai criteri stabiliti dall'Autorita' per l'energia elettrica e il gas, conformemente alle disposizioni di cui all'articolo 75 della direttiva (UE) 2024/1788 del Parlamento europeo e del Consiglio del 13 giugno 2024.».
 
-#### Art. 33
+### Art. 33
 
 Modifiche all'articolo 26 del decreto legislativo 1° giugno 2011, n. 93
 
@@ -2040,7 +2030,7 @@ a) al comma 1:
 
 > La divulgazione di tali informazioni e' consentita solo qualora cio' sia necessario per consentire alle autorita' competenti di svolgere le proprie funzioni.».
 
-#### Art. 34
+### Art. 34
 
 Inserimento del titolo II-bis al decreto legislativo 1° giugno 2011, n. 93
 
@@ -2570,7 +2560,7 @@ Art. 33-tricies quinquies (Accordi tecnici relativi all'esercizio delle linee di
 
 Il presente decreto lascia impregiudicata, per i gestori dei sistemi di trasporto dell'idrogeno, i gestori delle reti di trasporto dell'idrogeno o altri operatori economici, la facolta' di mantenere in vigore o concludere accordi tecnici su questioni relative all'esercizio delle condotte con paesi terzi, nella misura in cui tali accordi siano compatibili con il diritto dell'Unione europea e con le pertinenti decisioni delle autorita' di regolazione degli Stati membri interessati. Tali accordi sono notificati alle autorita' di regolazione degli Stati membri interessati.».
 
-#### Art. 35
+### Art. 35
 
 Modifiche all'articolo 42 del decreto legislativo 1° giugno 2011, n. 93
 
@@ -2624,7 +2614,7 @@ g) alla lettera e), dopo le parole: «tutela dei consumatori» sono aggiunte le 
 
 > f-bis) contribuire a definire, nel rispetto dei principi di economicita', trasparenza e di massima salvaguardia dei clienti idonei, la copertura economica degli accordi di solidarieta' previsti nel piano di emergenza in attuazione degli articoli 8 e 13 del regolamento (UE) 2017/1938, comprese le disposizioni che consentono il calcolo dell'equa compensazione di almeno tutti i costi pertinenti e ragionevoli sostenuti nel prestare solidarieta', come previsto dall'articolo 13, paragrafo 10, del medesimo regolamento.».
 
-#### Art. 36
+### Art. 36
 
 Modifiche all'articolo 43 del decreto legislativo 1° giugno 2011, n. 93
 
@@ -2820,7 +2810,7 @@ f) al comma 5, le parole: «Autorita' per l'energia elettrica e il gas puo' effe
 
 > 7\. All'attuazione del presente articolo l'Autorita' per l'energia elettrica e il gas provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.».
 
-#### Art. 37
+### Art. 37
 
 Modifiche all'articolo 44 del decreto legislativo 1° giugno 2011, n. 93
 
@@ -2846,7 +2836,7 @@ Modifiche all'articolo 44 del decreto legislativo 1° giugno 2011, n. 93
 
 > 4\. L'Autorita' per l'energia elettrica e il gas assicura il trattamento efficace dei reclami e delle procedure di conciliazione dei clienti finali nei confronti dei venditori e dei distributori di gas naturale ed energia elettrica avvalendosi dell'Acquirente unico Spa e vigila affinche' siano applicati i principi in materia di tutela dei consumatori di cui all'Allegato I delle direttive 2009/72/CE e 2009/73/CE.».
 
-#### Art. 38
+### Art. 38
 
 Modifiche all'articolo 45 del decreto legislativo 1° giugno 2011, n. 93
 
@@ -2878,7 +2868,7 @@ Modifiche all'articolo 45 del decreto legislativo 1° giugno 2011, n. 93
 
 > 7-bis. In caso di violazione persistente da parte del Gestore degli obblighi su di esso incombenti ai sensi della direttiva 2009/73/CE, l'Autorita' per l'energia elettrica, il gas e il sistema idrico assegna a un gestore di trasporto indipendente tutti o alcuni specifici compiti del Gestore.».
 
-#### Art. 39
+### Art. 39
 
 Modifiche all'articolo 46 del decreto legislativo 1° giugno 2011, n. 93
 
@@ -2924,7 +2914,7 @@ d) il comma 7-bis e' sostituito dal seguente:
 
 > 7-bis. L'Autorita' di regolazione per energia reti e ambiente puo' consultare le pertinenti autorita' dei paesi terzi, segnatamente quelle delle parti contraenti della Comunita' dell'energia, dopo aver consultato le autorita' di regolazione degli altri Stati membri interessati, e cooperare con esse relativamente all'esercizio dell'infrastruttura del gas e dell'idrogeno da e verso i paesi terzi al fine di garantire, per quanto concerne l'infrastruttura interessata, la coerente applicazione della direttiva (UE) 2024/1788, nel territorio e nelle acque territoriali italiane.».
 
-#### Art. 40
+### Art. 40
 
 Modifiche all'articolo 46-quater del decreto legislativo 1° giugno 2011, n. 93
 
@@ -2946,11 +2936,9 @@ b) al comma 3, le parole: «di cui ai paragrafi 12 e 13 dell'articolo 49-ter del
 
 > 3\. Una volta ricevuta l'autorizzazione ad avviare i negoziati da parte della Commissione europea a seguito della notifica di cui al comma 2, il Ministero dello sviluppo economico avvia i negoziati per modificare, prorogare, adattare, rinnovare o concludere un accordo con un paese terzo e tiene conto di eventuali orientamenti forniti dalla Commissione e di eventuali richieste di inserimento di clausole nell'accordo. Il Ministero dello sviluppo economico notifica alla Commissione europea i risultati del negoziato e trasmette il testo dell'accordo ai fini della autorizzazione alla firma e, qualora acquisita tale autorizzazione nei termini di cui all'articolo 89 della direttiva (UE) 2024/1788, notifica alla Commissione la conclusione e l'entrata in vigore dell'accordo, nonche' ogni successiva modifica allo status di tale accordo.».
 
-## Capo VI
+## Capo VI - Modifiche al decreto legislativo 3 marzo 2011, n. 28
 
-### Modifiche al decreto legislativo 3 marzo 2011, n. 28
-
-#### Art. 41
+### Art. 41
 
 Modifiche all'articolo 20 del decreto legislativo 3 marzo 2011, n. 28
 
@@ -3000,11 +2988,9 @@ m-quater) tengono conto dei principi di trasparenza e non discriminazione, della
 
 > m-quater) tengono conto dei principi di trasparenza e non discriminazione, della necessita' di quadri finanziari stabili per gli investimenti esistenti, dello stato di avanzamento della diffusione del gas rinnovabile e del gas a basse emissioni di carbonio e dell'esistenza di meccanismi di sostegno alternativi per potenziare l'uso del gas rinnovabile o del gas a basse emissioni di carbonio, se del caso.».
 
-## Capo VII
+## Capo VII - Modifiche al decreto legislativo 4 luglio 2014, n. 102
 
-### Modifiche al decreto legislativo 4 luglio 2014, n. 102
-
-#### Art. 42
+### Art. 42
 
 Modifiche all'articolo 2 del decreto legislativo 4 luglio 2014, n. 102
 
@@ -3134,11 +3120,9 @@ Modifiche all'articolo 2 del decreto legislativo 4 luglio 2014, n. 102
 
 > vv) UNI: Ente nazionale italiano di unificazione.».
 
-## Capo VIII
+## Capo VIII - Disposizioni finali
 
-### Disposizioni finali
-
-#### Art. 43
+### Art. 43
 
 Abrogazioni
 
@@ -3220,7 +3204,7 @@ Abrogazioni
 
 > 29\. Nel regolamento di cui al decreto del Ministro dell'economia e delle finanze 3 settembre 2008, n. 156, recante la disciplina per l'applicazione dell'accisa agevolata sul bio-diesel, il limite del 5 per cento del contenuto sul biodiesel di cui agli articoli 7 e 9 e' elevato al 7 per cento.».
 
-#### Art. 44
+### Art. 44
 
 Clausola di invarianza finanziaria
 
@@ -3250,7 +3234,7 @@ Visto, il Guardasigilli: Nordio
 
 ## Allegati
 
-#### Allegato I
+### Allegato I
 
 Allegato I
 
@@ -3332,7 +3316,7 @@ Ai fini dell'informativa sulla quota di gas rinnovabili acquistata dai clienti f
 
 Se un cliente consuma gas naturale o idrogeno provenienti da una rete dell'idrogeno o una rete del gas naturale, compresi combustibili rinnovabili gassosi di origine non biologica e biometano, come dimostrato nell'offerta commerciale del fornitore, le garanzie di origine annullate corrispondano alle pertinenti caratteristiche della rete.
 
-#### Allegato II
+### Allegato II
 
 Allegato II
 

@@ -27,13 +27,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I
+## Capo I - Disposizioni in materia di delitti contro la pubblica amministrazione, di associazioni di tipo mafioso, nonche' ulteriori modifiche al codice di procedura penale, alle relative norme di attuazione e alla legge 6 novembre 2012, n. 190.
 
-### Disposizioni in materia di delitti contro la pubblica - amministrazione, di associazioni di tipo mafioso, nonche' ulteriori
-
-#### modifiche al codice di procedura penale, alle relative norme di - attuazione e alla legge 6 novembre 2012, n. 190.
-
-##### Art. 1
+### Art. 1
 
 Modifiche alla disciplina sanzionatoria in materia di delitti contro la pubblica amministrazione
 
@@ -111,7 +107,7 @@ i) all'articolo 323-bis:
 
 > Per i delitti previsti dagli articoli 318, 319, 319-ter, 319-quater, 320, 321, 322 e 322-bis, per chi si sia efficacemente adoperato per evitare che l'attivita' delittuosa sia portata a conseguenze ulteriori, per assicurare le prove dei reati e per l'individuazione degli altri responsabili ovvero per il sequestro delle somme o altre utilita' trasferite, la pena e' diminuita da un terzo a due terzi.».
 
-##### Art. 2
+### Art. 2
 
 Modifica all'articolo 165 del codice penale, in materia di sospensione condizionale della pena
 
@@ -133,7 +129,7 @@ Modifica all'articolo 165 del codice penale, in materia di sospensione condizion
 
 > Il giudice nella sentenza stabilisce il termine entro il quale gli obblighi devono essere adempiuti.».
 
-##### Art. 3
+### Art. 3
 
 Modifica dell'articolo 317 del codice penale, in materia di concussione
 
@@ -141,7 +137,7 @@ Modifica dell'articolo 317 del codice penale, in materia di concussione
 
 «Art. 317 (Concussione). - Il pubblico ufficiale o l'incaricato di un pubblico servizio che, abusando della sua qualita' o dei suoi poteri, costringe taluno a dare o a promettere indebitamente, a lui o a un terzo, denaro o altra utilita', e' punito con la reclusione da sei a dodici anni».
 
-##### Art. 4
+### Art. 4
 
 Introduzione dell'articolo 322-quater del codice penale, in materia di riparazione pecuniaria
 
@@ -149,7 +145,7 @@ Introduzione dell'articolo 322-quater del codice penale, in materia di riparazio
 
 «Art. 322-quater (Riparazione pecuniaria). - Con la sentenza di condanna per i reati previsti dagli articoli 314, 317, 318, 319, 319-ter, 319-quater, 320 e 322-bis, e' sempre ordinato il pagamento di una somma pari all'ammontare di quanto indebitamente ricevuto dal pubblico ufficiale o dall'incaricato di un pubblico servizio a titolo di riparazione pecuniaria in favore dell'amministrazione cui il pubblico ufficiale o l'incaricato di un pubblico servizio appartiene, ovvero, nel caso di cui all'articolo 319-ter, in favore dell'amministrazione della giustizia, restando impregiudicato il diritto al risarcimento del danno».
 
-##### Art. 5
+### Art. 5
 
 Associazioni di tipo mafioso, anche straniere
 
@@ -181,7 +177,7 @@ c) al quarto comma, le parole: «da nove a quindici anni» sono sostituite dalle
 
 > Le disposizioni del presente articolo si applicano anche alla camorra, alla 'ndrangheta e alle altre associazioni, comunque localmente denominate, anche straniere, che valendosi della forza intimidatrice del vincolo associativo perseguono scopi corrispondenti a quelli delle associazioni di tipo mafioso.».
 
-##### Art. 6
+### Art. 6
 
 Integrazione dell'articolo 444 del codice di procedura penale, in materia di applicazione della pena su richiesta delle parti
 
@@ -205,7 +201,7 @@ Integrazione dell'articolo 444 del codice di procedura penale, in materia di app
 
 > 3\. La parte, nel formulare la richiesta, puo' subordinarne l'efficacia, alla concessione della sospensione condizionale della pena. In questo caso il giudice, se ritiene che la sospensione condizionale non puo' essere concessa, rigetta la richiesta.».
 
-##### Art. 7
+### Art. 7
 
 Informazione sull'esercizio dell'azione penale per i fatti di corruzione
 
@@ -229,7 +225,7 @@ Informazione sull'esercizio dell'azione penale per i fatti di corruzione
 
 > Qualora i reati di cui al primo periodo arrechino un concreto pericolo alla tutela della salute o alla sicurezza agroalimentare, il pubblico ministero informa anche il Ministero della salute o il Ministero delle politiche agricole alimentari e forestali. Il pubblico ministero, nell'informazione, indica le norme di legge che si assumono violate. Le sentenze e i provvedimenti definitori di ciascun grado di giudizio sono trasmessi per estratto, a cura della cancelleria del giudice che ha emesso i provvedimenti medesimi, alle amministrazioni indicate nei primi due periodi del presente comma. I procedimenti di competenza delle amministrazioni di cui ai periodi precedenti, che abbiano ad oggetto, in tutto o in parte, fatti in relazione ai quali procede l'autorita' giudiziaria, possono essere avviati o proseguiti anche in pendenza del procedimento penale, in conformita' alle norme vigenti. Per le infrazioni di maggiore gravita', sanzionate con la revoca di autorizzazioni o con la chiusura di impianti, l'ufficio competente, nei casi di particolare complessita' dell'accertamento dei fatti addebitati, puo' sospendere il procedimento amministrativo fino al termine di quello penale, salva la possibilita' di adottare strumenti cautelari.».
 
-##### Art. 8
+### Art. 8
 
 Modifiche alla legge 6 novembre 2012, n. 190
 
@@ -277,11 +273,9 @@ Modifiche alla legge 6 novembre 2012, n. 190
 
 > Commi da 33 a 83. (Omissis).».
 
-## Capo II
+## Capo II - Disposizioni penali in materia di societa' e consorzi
 
-### Disposizioni penali in materia di societa' e consorzi
-
-##### Art. 9
+### Art. 9
 
 Modifica dell'articolo 2621 del codice civile
 
@@ -291,7 +285,7 @@ Modifica dell'articolo 2621 del codice civile
 
 La stessa pena si applica anche se le falsita' o le omissioni riguardano beni posseduti o amministrati dalla societa' per conto di terzi».
 
-##### Art. 10
+### Art. 10
 
 Introduzione degli articoli 2621-bis e 2621-ter del codice civile
 
@@ -303,7 +297,7 @@ Salvo che costituiscano piu' grave reato, si applica la stessa pena di cui al co
 
 Art. 2621-ter (Non punibilita' per particolare tenuita'). - Ai fini della non punibilita' per particolare tenuita' del fatto, di cui all'articolo 131-bis del codice penale, il giudice valuta, in modo prevalente, l'entita' dell'eventuale danno cagionato alla societa', ai soci o ai creditori conseguente ai fatti di cui agli articoli 2621 e 2621-bis».
 
-##### Art. 11
+### Art. 11
 
 Modifica dell'articolo 2622 del codice civile
 
@@ -323,7 +317,7 @@ Alle societa' indicate nel comma precedente sono equiparate:
 
 Le disposizioni di cui ai commi precedenti si applicano anche se le falsita' o le omissioni riguardano beni posseduti o amministrati dalla societa' per conto di terzi».
 
-##### Art. 12
+### Art. 12
 
 Modifiche alle disposizioni sulla responsabilita' amministrativa degli enti in relazione ai reati societari
 

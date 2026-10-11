@@ -532,7 +532,7 @@ Disposizioni tributarie
 
 3\. Il corrispettivo in denaro o in natura in favore di societa', associazioni sportive dilettantistiche e fondazioni costituite da istituzioni scolastiche, nonche' di associazioni e gruppi sportivi scolastici che svolgono attivita' nei settori giovanili riconosciuti dalle Federazioni Sportive Nazionali o da Enti di Promozione Sportiva costituisce, per il soggetto erogante, fino ad un importo annuo complessivamente non superiore a 200.000 euro, spesa di pubblicita', volta alla promozione dell'immagine o dei prodotti del soggetto erogante mediante una specifica attivita' del beneficiario, ai sensi dell'articolo 108, comma 1, del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917.
 
-## Capo II - Societa' sportive professionistiche
+### Capo II - Societa' sportive professionistiche
 
 #### Art. 13
 
@@ -668,7 +668,7 @@ Tesseramento degli atleti minorenni
 
 4\. Il tesseramento di cui al comma 3 resta valido, dopo il compimento del diciottesimo anno di eta', fino al completamento delle procedure per l'acquisizione della cittadinanza italiana da parte dei soggetti che, ricorrendo i presupposti di cui alla legge 5 febbraio 1992, n. 91, hanno presentato tale richiesta.
 
-## Capo II - Tecnici, dirigenti, direttori di gara
+### Capo II - Tecnici, dirigenti, direttori di gara
 
 #### Art. 17
 
@@ -734,7 +734,7 @@ L'organizzatore di manifestazioni, competizioni o eventi sportivi con animali ga
 
 1\. Le Federazioni Sportive Nazionali, le Discipline Sportive Associate e gli Enti di Promozione Sportiva ((, anche paralimpici)) che impiegano animali in attivita' sportive si dotano ((, entro novanta giorni dalla data di entrata in vigore della presente disposizione,)) di appositi regolamenti che fissino ((i criteri di riferimento per adempiere a quanto previsto nel presente Capo I e)), in caso di inosservanza delle disposizioni di cui al presente Capo, sanzioni disciplinari che possono prevedere fino alla revoca dell'affiliazione, per le societa' e le associazioni sportive, o del tesseramento, per le persone fisiche. Restano comunque ferme le conseguenze in termini di responsabilita' civile e penale derivanti dalla trasgressione degli obblighi di cui al presente Capo.
 
-## Capo II - Sport equestri
+### Capo II - Sport equestri
 
 #### Art. 22
 
@@ -1082,7 +1082,7 @@ Area del professionismo e del dilettantismo
 
 1-ter. Agli enti del terzo settore che esercitano, come attivita' di interesse generale, l'organizzazione e la gestione di attivita' sportive dilettantistiche e sono iscritti, avendone i requisiti, al Registro nazionale delle attivita' sportive dilettantistiche, si applicano le disposizioni previste per le associazioni e societa' dilettantistiche limitatamente all'attivita' sportiva dilettantistica esercitata.
 
-## Capo II - Disposizioni a sostegno delle donne nello sport
+### Capo II - Disposizioni a sostegno delle donne nello sport
 
 #### Art. 39
 
@@ -1138,7 +1138,7 @@ Promozione della parita' di genere
 
 3\. ((Il CONI e il CIP, negli ambiti di rispettiva competenza, sono tenuti)) a vigilare sull'osservanza dei principi di cui al comma 1 da parte delle Federazioni Sportive Nazionali, delle Discipline Sportive Associate e delle Associazioni Benemerite.
 
-## Capo III - Ulteriori disposizioni in materia di laureati in scienze motorie
+### Capo III - Ulteriori disposizioni in materia di laureati in scienze motorie
 
 #### Art. 41
 
@@ -1248,7 +1248,7 @@ Spese di funzionamento
 
 > \- Per i riferimenti normativi della legge 30 dicembre 2018, n. 145, si veda nelle note alle premesse.
 
-## Capo II - Gruppi sportivi militari
+### Capo II - Gruppi sportivi militari
 
 #### Art. 47
 
@@ -1322,7 +1322,7 @@ Spese di funzionamento
 
 > \- Per i riferimenti normativi della legge 30 dicembre 2018, n. 145, si veda nelle note alle premesse.
 
-## Capo III - Disposizioni in materia di assunzioni nella Pubblica Amministrazione
+### Capo III - Disposizioni in materia di assunzioni nella Pubblica Amministrazione
 
 #### Art. 50
 

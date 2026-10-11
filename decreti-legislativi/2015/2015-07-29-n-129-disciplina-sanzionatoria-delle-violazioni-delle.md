@@ -550,7 +550,7 @@ Inefficacia di clausole derogatorie
 
 1\. Sono inefficaci le clausole derogatorie o restrittive degli obblighi che siano introdotte nel contratto di trasporto in violazione dell'articolo 6 del regolamento.
 
-## Sezione II - Sanzioni per la violazione degli obblighi relativi a persone con disabilita' o a mobilita' ridotta
+### Sezione II - Sanzioni per la violazione degli obblighi relativi a persone con disabilita' o a mobilita' ridotta
 
 #### Art. 7
 
@@ -590,7 +590,7 @@ Formazione
 
 1\. Il vettore e l'operatore del terminale che violano gli obblighi attinenti alla formazione del proprio personale di cui all'articolo 14 del regolamento, sono soggetti ad una sanzione amministrativa pecuniaria da euro 1.000 a euro 30.000.
 
-## Sezione III - Sanzioni per la violazione dei diritti del passeggero in caso di cancellazione o ritardo
+### Sezione III - Sanzioni per la violazione dei diritti del passeggero in caso di cancellazione o ritardo
 
 #### Art. 12
 
@@ -610,7 +610,7 @@ Assistenza in caso di cancellazione o ritardo alla partenza
 
 1\. Il vettore che viola gli obblighi di assistenza previsti dall'articolo 17 del regolamento, e' soggetto ad una sanzione amministrativa pecuniaria da euro 100 a euro 600 per ciascun passeggero.
 
-## Sezione IV - Sanzioni in materia di informazione e reclami
+### Sezione IV - Sanzioni in materia di informazione e reclami
 
 #### Art. 15
 

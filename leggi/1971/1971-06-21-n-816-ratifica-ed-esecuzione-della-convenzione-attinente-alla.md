@@ -291,7 +291,7 @@ Le questioni che, pur riguardando le materie disciplinate dalla presente legge, 
 
 Il venditore si obbliga ad effettuare la consegna della cosa e, ove occorra, dei documenti, ed a trasferire la proprieta', nelle condizioni previste dal contratto e dalla presente legge.
 
-## SEZIONE I - - CONSEGNA DELLA COSA
+### SEZIONE I - - CONSEGNA DELLA COSA
 
 #### Articolo 19
 
@@ -301,9 +301,7 @@ Il venditore si obbliga ad effettuare la consegna della cosa e, ove occorra, dei
 
 3\. Quando la cosa rimessa al vettore non era destinata in modo manifesto all'esecuzione del contratto mediante apposizione di un indirizzo o altrimenti, il venditore deve, oltre a rimettere la cosa, inviare al compratore un avviso di spedizione e, all'occorrenza, un documento idoneo ad individuare la cosa.
 
-## Sotto-sezione I - OBBLIGAZIONI DEL VENDITORE RELATIVE
-
-### AL TEMPO ED AL LUOGO DELLA CONSEGNA - A. Tempo della consegna
+## Sotto-sezione I - OBBLIGAZIONI DEL VENDITORE RELATIVE AL TEMPO ED AL LUOGO DELLA CONSEGNA A. Tempo della consegna
 
 #### Articolo 20
 
@@ -399,9 +397,7 @@ Qualora il venditore offra la consegna della cosa prima della data stabilita, il
 
 3\. Se la spedizione da un luogo o ad un luogo diverso da quello stabilito non costituisce inadempimento essenziale, il compratore puo' solo domandare il risarcimento del danno ai sensi dell'art. 82.
 
-## Sotto-sezione II - OBBLIGAZIONI DEL VENDITORE CIRCA LA CONFORMITA'
-
-### DELLA COSA VENDUTA - A. Difetto di conformita'
+## Sotto-sezione II - OBBLIGAZIONI DEL VENDITORE CIRCA LA CONFORMITA' DELLA COSA VENDUTA A. Difetto di conformita'
 
 #### Articolo 33
 
@@ -537,7 +533,7 @@ Il compratore puo' far valere i diritti conferitigli dagli articoli 43 a 46 anch
 
 2\. Decorso detto termine il compratore non puo' piu' far valere il difetto di conformita' nemmeno in via di eccezione. Egli puo', tuttavia, se non ha pagato il prezzo e purche' abbia regolarmente denunciato il difetto di conformita' nel breve termine previsto all'art. 39, opporre in via di eccezione alla richiesta di pagamento, una domanda di riduzione del prezzo o di risarcimento del danno.
 
-## SEZIONE II - - RIMESSA DEI DOCUMENTI
+### SEZIONE II - - RIMESSA DEI DOCUMENTI
 
 #### Articolo 50
 
@@ -547,7 +543,7 @@ Quando il venditore e' tenuto a rimettere al compratore i documenti relativi all
 
 Se il venditore non rimette i documenti di cui allo articolo precedente nel giorno e nel luogo stabilito, o se rimette dei documenti non conformi a quelli che avrebbe dovuto rimettere, il compratore puo' avvalersi, a seconda dei casi, dei diritti conferitigli dagli articoli 24 a 32 o dagli articoli 41 a 43.
 
-## SEZIONE III - - TRASFERIMENTO DELLA PROPRIETA'
+### SEZIONE III - - TRASFERIMENTO DELLA PROPRIETA'
 
 #### Articolo 52
 
@@ -565,7 +561,7 @@ Se il venditore non rimette i documenti di cui allo articolo precedente nel gior
 
 I diritti conferiti al compratore dal precedente articolo escludono qualsiasi altro rimedio fondato sull'inadempimento da parte del venditore dell'obbligazione di trasferire la proprieta' della cosa o sul fatto che questa ultima non e' esente da diritti o pretese di terzi.
 
-## SEZIONE IV - - ALTRE OBBLIGAZIONI DEL VENDITORE
+### SEZIONE IV - - ALTRE OBBLIGAZIONI DEL VENDITORE
 
 #### Articolo 54
 
@@ -593,9 +589,7 @@ sensi dell'art. 82.
 
 Il compratore si obbliga a pagare il prezzo ed a ricevere la consegna della cosa alle condizioni stabilite dal contratto e dalle norme della presente legge.
 
-## SEZIONE I - - PAGAMENTO DEL PREZZO
-
-### A. Determinazione del prezzo
+### SEZIONE I - - PAGAMENTO DEL PREZZO A. Determinazione del prezzo
 
 #### Articolo 57
 
@@ -641,7 +635,7 @@ Se si e' convenuta una data per il pagamento o se questa risulta dagli usi, il c
 
 In nessun caso il compratore puo' ottenere dall'autorita' giudiziaria o dagli arbitri un termine di grazia per effettuare il pagamento del prezzo.
 
-## SEZIONE II - - RICEVIMENTO DELLA CONSEGNA
+### SEZIONE II - - RICEVIMENTO DELLA CONSEGNA
 
 #### Articolo 65
 
@@ -667,7 +661,7 @@ Qualora il compratore non si avvalga di questa possibilita', la precisazione eff
 
 2\. Qualora il contratto non venga risolto, il venditore puo' esigere il risarcimento del danno ai sensi dell'articolo 82.
 
-## SEZIONE III - - ALTRE OBBLIGAZIONI DEL COMPRATORE
+### SEZIONE III - - ALTRE OBBLIGAZIONI DEL COMPRATORE
 
 #### Articolo 69
 
@@ -685,9 +679,7 @@ b) negli altri casi, esigere il risarcimento del danno, ai sensi dell'art. 82.
 
 2\. Il venditore puo' altresi' esigere dal compratore l'adempimento in natura dell'obbligazione sempreche' il contratto non sia stato risolto.
 
-## CAPITOLO V DISPOSIZIONI COMUNI ALLE OBBLIGAZIONI DEL VENDITORE E DEL COMPRATORE SEZIONE I - - SIMULTANEITA' DELLA CONSEGNA DELLA COSA
-
-### E DEL PAGAMENTO DEL PREZZO
+## CAPITOLO V DISPOSIZIONI COMUNI ALLE OBBLIGAZIONI DEL VENDITORE E DEL COMPRATORE SEZIONE I - - SIMULTANEITA' DELLA CONSEGNA DELLA COSA E DEL PAGAMENTO DEL PREZZO
 
 #### Articolo 71
 
@@ -707,7 +699,7 @@ Il pagamento del prezzo deve avvenire al momento della consegna della cosa, salv
 
 3\. Tuttavia il venditore non puo' opporsi alla rimessa della cosa quando questa sia richiesta da un terzo legittimo portatore di un documento che gli dia diritto ad ottenerla, sempreche' detto documento non contenga delle riserve relative agli effetti del suo trasferimento, o il venditore non provi che il portatore, nell'acquistare il documento, abbia agito scientemente in suo danno.
 
-## SEZIONE II - - CAUSE DI ESONERO
+### SEZIONE II - - CAUSE DI ESONERO
 
 #### Articolo 74
 
@@ -717,9 +709,7 @@ Il pagamento del prezzo deve avvenire al momento della consegna della cosa, salv
 
 3\. L'esonero di cui al presente articolo in favore di una delle parti contraenti non impedisce la risoluzione di pieno diritto del contratto in virtu' di altre disposizioni della presente legge ne' priva l'altra parte contraente di alcun diritto che le compete, in base alla legge medesima, di ridurre il prezzo, a meno che le circostanze che danno luogo all'esonero non derivino dal fatto dell'altra parte contraente o di persona della quale essa e' responsabile.
 
-## SEZIONE III - - NORME COMPLEMENTARI IN MATERIA DI RISOLUZIONE
-
-### A. Cause complementari di risoluzione
+### SEZIONE III - - NORME COMPLEMENTARI IN MATERIA DI RISOLUZIONE A. Cause complementari di risoluzione
 
 #### Articolo 75
 
@@ -781,9 +771,7 @@ b) quando sia nell'impossibilita' di restituirla in tutto o in
 
 parte e, cionondimeno, il contratto sia stato risolto.
 
-## SEZIONE IV. - - NORME COMPLEMENTARI IN TEMA DI RISARCIMENTO DEL DANNO
-
-### A. Risarcimento del danno in caso di non risoluzione del contratto
+### SEZIONE IV. - - NORME COMPLEMENTARI IN TEMA DI RISARCIMENTO DEL DANNO A. Risarcimento del danno in caso di non risoluzione del contratto
 
 #### Articolo 82
 
@@ -825,13 +813,13 @@ La parte contraente che si avvale del mancato adempimento del contratto deve pre
 
 In caso di dolo o di frode, il risarcimento sara' determinato in base alle norme applicabili ai contratti di vendita che non sono retti dalla presente legge.
 
-## SEZIONE V - - SPESE
+### SEZIONE V - - SPESE
 
 #### Articolo 90
 
 Le spese relative alla consegna della cosa sono a carico del venditore; quelle successive alla consegna sono a carico del compratore.
 
-## SEZIONE VI - - CUSTODIA DELLA COSA
+### SEZIONE VI - - CUSTODIA DELLA COSA
 
 #### Articolo 91
 

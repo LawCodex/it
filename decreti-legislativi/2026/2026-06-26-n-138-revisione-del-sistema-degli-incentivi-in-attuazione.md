@@ -53,7 +53,7 @@ il seguente decreto legislativo:
 
 ## Capo I - Disposizioni generali
 
-#### Art. 1
+### Art. 1
 
 Finalita' e ambito di applicazione
 
@@ -213,7 +213,7 @@ Finalita' e ambito di applicazione
 
 > \- Per il testo degli artt. 3 e 4 della legge 27 ottobre 2023, n. 160, recante «Delega al Governo in materia di revisione del sistema degli incentivi alle imprese e disposizioni di semplificazione delle relative procedure nonche' in materia di termini di delega per la semplificazione dei controlli sulle attivita' economichesi rinvia alle note al titolo», si veda nelle note alle premesse.
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -279,11 +279,9 @@ m) «PMI»: le microimprese, le piccole e medie imprese secondo la definizione f
 
 > \- La Raccomandazione della Commissione relativa alla definizione delle microimprese, piccole e medie imprese del 6 maggio 2003 (2003/361/CE) e' pubblicata nella Gazzetta Ufficiale dell'Unione europea n. L 124 del 20 maggio 2003.
 
-## Capo II - Incentivi di competenza del Ministero delle imprese
+## Capo II - Incentivi di competenza del Ministero delle imprese e del made in Italy
 
-### e del made in Italy
-
-#### Art. 3
+### Art. 3
 
 Riordino degli incentivi di competenza
 
@@ -383,7 +381,7 @@ e) «Incentivi nel settore dell'aerospazio» di cui alla legge 24 dicembre 1985,
 
 > \- La legge 24 dicembre 1985, n. 808, recante «Interventi per lo sviluppo e l'accrescimento di competitivita' delle industrie operanti nel settore aeronautico», e' pubblicata nella Gazzetta Ufficiale n. 5 del 8 gennaio 1986, n. 5.
 
-#### Art. 4
+### Art. 4
 
 Fondo per la crescita sostenibile
 
@@ -401,7 +399,7 @@ d) accesso al credito e al mercato dei capitali.
 
 3\. Gli obiettivi e le priorita' del Fondo per la crescita sostenibile, come articolati per ciascuna sezione dagli articoli 5, 6, 7 e 8, possono essere periodicamente aggiornati, sulla base del monitoraggio dell'andamento degli incentivi adottati, attraverso revisione con decreto del Ministro delle imprese e del made in Italy della disciplina quadro di riferimento. Per gli incentivi previsti dagli articoli 5, comma 1, lettera a), 7, comma 1, lettera a) e 8, comma 1, lettera a), che non rientrano nell'ambito di applicazione della disciplina quadro di cui al primo periodo, agli aggiornamenti o revisioni si provvede mediante provvedimento di rango corrispondente alla disciplina di riferimento.
 
-#### Art. 5
+### Art. 5
 
 Incentivi dell'FCS per la ricerca, lo sviluppo e l'innovazione
 
@@ -435,13 +433,13 @@ b) l'emanazione di bandi tematici, da adottare nell'ambito di una disciplina qua
 
 > Ferme restando le disposizioni adottate per la disciplina del sostegno pubblico prestato nell'ambito dell'importante progetto di interesse comune europeo nel settore della microelettronica in attuazione dell'articolo 1, comma 203, della legge 30 dicembre 2018, n. 145, con decreto del Ministro dello sviluppo economico, di concerto con il Ministro dell'economia e delle finanze, sono definiti i criteri generali per l'intervento e il funzionamento del Fondo IPCEI nonche' per la concessione delle agevolazioni alle imprese che partecipano agli importanti progetti di interesse comune europeo di cui ai commi 230 e 231. Sulla base dei predetti criteri e nel rispetto delle decisioni di autorizzazione della Commissione europea adottate per i progetti interessati, i singoli interventi sono attivati con decreti del Ministro dello sviluppo economico.».
 
-#### Art. 6
+### Art. 6
 
 Incentivi dell'FCS per le start up d'impresa
 
 1\. Con riferimento alla sezione di cui all'articolo 4, comma 1, lettera b), gli incentivi disposti a valere sul Fondo per la crescita sostenibile mirano a sostenere, su tutto il territorio nazionale, la creazione e lo sviluppo di nuove imprese e di start up innovative, ivi comprese le cooperative, e a favorire lo sviluppo di nuova imprenditorialita' a prevalente o totale partecipazione giovanile o femminile e le sinergie con il mercato del venture capital. Per il raggiungimento di tali finalita', l'FCS opera attraverso bandi tematici, adottati nell'ambito di un'apposita disciplina quadro definita con decreto del Ministro delle imprese e del made in Italy in conformita' con la pertinente normativa sugli aiuti di Stato e con i principi stabiliti dal codice degli incentivi.
 
-#### Art. 7
+### Art. 7
 
 Incentivi dell'FCS per investimenti produttivi per
 
@@ -483,7 +481,7 @@ b) l'emanazione di bandi tematici finalizzati a sostenere la realizzazione di pr
 
 > 7-bis. Il termine di cui all'articolo 1, comma 862, della legge 27 dicembre 2006, n. 296, e successive modificazioni, e' prorogato al 31 dicembre 2009.».
 
-#### Art. 8
+### Art. 8
 
 Incentivi dell'FCS per l'accesso al credito
 
@@ -527,7 +525,7 @@ b) l'emanazione di bandi tematici finalizzati, in un'ottica di complementarita' 
 
 > 7\. Agli oneri di cui al comma 1, pari a 100 milioni di euro per l'anno 2020, si provvede: quanto a 30 milioni di euro per l'anno 2020 mediante utilizzo delle risorse rinvenienti dall'abrogazione della disposizione di cui al comma 6; quanto a 70 milioni di euro per l'anno 2020, ai sensi dell'articolo 265.».
 
-#### Art. 9
+### Art. 9
 
 Disposizioni contabili e finanziarie per l'attuazione
 
@@ -535,7 +533,7 @@ degli interventi del FCS
 
 1\. Con il disegno di legge di bilancio successivo all'entrata in vigore del presente decreto, sono definite le modalita' con le quali opera il Fondo per la crescita sostenibile come articolato ai sensi dell'articolo 4. Con il medesimo disegno di legge, nel rispetto degli equilibri di finanza pubblica, sono definiti gli stanziamenti annuali di ciascuna delle sezioni del fondo di quell'articolo 4, mediante utilizzo delle risorse relative alle autorizzazioni di spese in materia di incentivi che con il medesimo provvedimento sono abrogate per confluire nel suddetto Fondo.
 
-#### Art. 10
+### Art. 10
 
 Abrogazioni e ulteriori modifiche
 
@@ -619,7 +617,7 @@ b) il terzo e il quinto periodo sono soppressi.
 
 ## Capo III - Incentivi di competenza delle altre amministrazioni centrali
 
-#### Art. 11
+### Art. 11
 
 Abrogazioni
 
@@ -671,7 +669,7 @@ b) il credito di imposta sui prodotti da riciclo e da riuso di cui all'articolo 
 
 ## Capo IV - Disposizioni finali
 
-#### Art. 12
+### Art. 12
 
 Disposizioni transitorie e finali
 
@@ -679,7 +677,7 @@ Disposizioni transitorie e finali
 
 2\. I decreti del Ministro delle imprese e del made in Italy con i quali e' definita la disciplina quadro di cui all'articolo 5, comma 1, lettera b), all'articolo 6, comma 1, all'articolo 7, comma 1, lettera b), e all'articolo 8, comma 1, lettera b), sono adottati entro centottanta giorni dalla data di entrata in vigore della legge di bilancio di cui all'articolo 9.
 
-#### Art. 13
+### Art. 13
 
 Aggiornamenti
 

@@ -27,7 +27,7 @@ la seguente legge:
 
 ## TITOLO I - APPROVAZIONE DEI RENDICONTI
 
-##### Art. 1 - Rendiconti
+#### Art. 1 - Rendiconti
 
 1\. Il rendiconto generale dell'Amministrazione dello Stato e i rendiconti delle Amministrazioni e delle Aziende autonome per l'esercizio 2003 sono approvati nelle risultanze di cui ai seguenti articoli.
 
@@ -49,11 +49,9 @@ la seguente legge:
 
 ## TITOLO II - AMMINISTRAZIONE DELLO STATO
 
-### Capo I
+### Capo I - CONTO DEL BILANCIO
 
-#### CONTO DEL BILANCIO
-
-##### Art 2 - Entrate
+#### Art 2 - Entrate
 
 1\. Le entrate tributarie, extratributarie, per alienazione ed ammortamento di beni patrimoniali e riscossione di crediti, e per accensione di prestiti, accertate nell'esercizio finanziario 2003 per la competenza propria dell'esercizio, risultano stabilite in euro 657.037.149.600,53.
 
@@ -79,7 +77,7 @@ dell'esercizio 2002
 
 ...............................
 
-##### Art. 3 - Spese
+#### Art. 3 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di
 
@@ -121,7 +119,7 @@ l'esercizio
 
 ...................
 
-##### Art. 4 - Disavanzo della gestione di competenza
+#### Art. 4 - Disavanzo della gestione di competenza
 
 1\. Il disavanzo della gestione di competenza dell'esercizio
 
@@ -163,7 +161,7 @@ Totale Spese " 682.422.796.918,90 .....................
 
 Disavanzo della gestione di competenza E. 25.385.647.318,37 .....................
 
-##### Art. 5 - Situazione finanziaria
+#### Art. 5 - Situazione finanziaria
 
 1\. Il disavanzo finanziario del conto del Tesoro alla fine
 
@@ -215,11 +213,11 @@ Disavanzo al 31 dicembre 2002 E. 239.980.071.885,55 .....................
 
 Disavanzo finanziario al 31 dicembre 2003 E. 265.365.719.203,92 .....................
 
-##### Art. 6 - Approvazione allegato
+#### Art. 6 - Approvazione allegato
 
 1\. E' approvato l'allegato n. 1, di cui all'articolo 9, ultimo comma, della legge 5 agosto 1978, n. 468.
 
-##### Art. 7 - Eccedenze
+#### Art. 7 - Eccedenze
 
 1\. Sono approvate le eccedenze di impegni e di pagamenti risultate in sede di consuntivo rispettivamente sul conto della competenza, sul conto dei residui e sul conto della cassa, rela- tive alle unita' previsionali di base degli stati di previsione della spesa dei Ministeri sotto indicati per l'esercizio 2003, come risulta dal dettaglio che segue:
 
@@ -399,9 +397,9 @@ AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
 1.4.3 Lotto 2.262.188,12 - -
 
-## CAPO II - CONTO GENERALE DEL PATRIMONIO
+### CAPO II - CONTO GENERALE DEL PATRIMONIO
 
-##### Art. 8 - Risultati generali della gestione patrimoniale
+#### Art. 8 - Risultati generali della gestione patrimoniale
 
 1\. La situazione patrimoniale dell'Amministrazione dello Stato, al 31 dicembre 2003, resta stabilita come segue:
 
@@ -445,11 +443,9 @@ al 31 dicembre 2003 E. 1.306.710.854.291,36
 
 ## TITOLO III - AZIENDE SPECIALI ED AUTONOME
 
-### CAPO I
+### CAPO I - ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-#### ISTITUTO AGRONOMICO PER L'OLTREMARE
-
-##### Art. 9 - Entrate
+#### Art. 9 - Entrate
 
 1\. Le entrate correnti del bilancio dell'Istituto agronomico per l'Oltremare, accertate nell'esercizio finanziario 2003 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Istituto stesso, allegato al conto consuntivo del Ministero degli affari esteri, in euro 8.302.842,51.
 
@@ -469,7 +465,7 @@ dell'esercizio 2002 111.683,00 35.537,00 147.220,00 ............
 
 300.981,00
 
-##### Art. 10 - Spese
+#### Art. 10 - Spese
 
 1\. Le spese correnti ed in conto capitale del bilancio dell'Isti- tuto predetto, impegnate nell'esercizio finanziario 2003 per la competenza propria dell'esercizio, risultano stabilite in euro 8.302.842,51.
 
@@ -489,9 +485,9 @@ dell'esercizio 2002 2.275.113,21 1.199.632,60 3.474.745,81 .............
 
 4.621.566,39
 
-## CAPO II - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
+### CAPO II - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-##### Art. 11 - Entrate
+#### Art. 11 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione autonoma dei monopoli di Stato, comprese quelle delle gestioni speciali ed autonome, accer- tate nell'esercizio finanziario 2003 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Ammi- nistrazione stessa, allegato al conto consuntivo del Ministero dell'economia e delle finanze, in euro 4.648.028.607,03.
 
@@ -515,7 +511,7 @@ esercizio 2002
 
 359.150.354,36
 
-##### Art 12 - Spese
+#### Art 12 - Spese
 
 1\. Le spese correnti ed in conto capitale e per rimborso di passivita' finanziarie del bilancio dell'Amministrazione predetta, comprese quelle delle gestioni speciali ed autonome, impegnate nell'esercizio 2003 per la competenza propria dell'esercizio, risul- tano stabilite in euro 4.648.028.607,03.
 
@@ -535,7 +531,7 @@ dell'esercizio 2002 451.456.149,19 166.534.864,91 617.991.014,10 ..............
 
 711.042.727,74
 
-##### Art. 13 - Riassunto generale
+#### Art. 13 - Riassunto generale
 
 1\. Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione autonoma dei monopoli di Stato, di competenza dell'esercizio 2003, risulta cosi' stabilito:
 
@@ -545,7 +541,7 @@ E. 4.648.028.607,03
 
 Spese (escluse le gestioni speciali) E. 452.584.891,00 Spese delle gestioni speciali " 4.195.443.716,56 ................... 4.648.028.607,03
 
-##### Art. 14 - Situazione finanziaria
+#### Art. 14 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dell'esercizio 2003, risulta come appresso:
 
@@ -555,9 +551,9 @@ Spese dell'esercizio 2003 " 4.648.028.607,03
 
 Saldo della gestione di competenza E. -
 
-## CAPO III - ARCHIVI NOTARILI
+### CAPO III - ARCHIVI NOTARILI
 
-##### Art. 15 - Avanzo
+#### Art. 15 - Avanzo
 
 1\. L'avanzo della gestione del bilancio degli Archivi notarili, per l'esercizio finanziario 2003, risulta stabilito come segue:
 
@@ -565,9 +561,9 @@ Entrate E. 342.152.868,49 Spese " 267.971.231,69 ...................
 
 E. 74.181.636,80
 
-## CAPO INTERAMENTE VERSATO - FONDO EDIFICI DI CULTO
+### CAPO INTERAMENTE VERSATO - FONDO EDIFICI DI CULTO
 
-##### Art. 16 - Entrate
+#### Art. 16 - Entrate
 
 1\. Le entrate correnti e in conto capitale del bilancio del Fondo edifici di culto, accertate nell'esercizio finanziario 2003 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'interno, in euro 94.760.306,04.
 
@@ -587,7 +583,7 @@ dell'esercizio 2002 592.052,15 1.427.008,19 2.019.060,34 .............
 
 19.745.980,14
 
-##### Art. 17 - Spese
+#### Art. 17 - Spese
 
 1\. Le spese correnti ed in conto capitale del bilancio dell'Amministrazione predetta, impegnate nell'esercizio 2003 per la competenza propria dell'esercizio, risultano stabilite in euro 86.988.216,38.
 
@@ -609,7 +605,7 @@ dell'esercizio 2002 5.762.125,19 2.531.149,00 8.293.274,19
 
 19.795.884,26
 
-##### Art. 18 - Situazione finanziaria
+#### Art. 18 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Amministrazione del Fondo
 
@@ -679,9 +675,9 @@ SINISCALCO, Ministro dell'economia e delle finanze
 
 Visto, il Guardasigilli: CASTELLI
 
-## CAPO INTERAMENTE VERSATO - FONDO EDIFICI DI CULTO
+### CAPO INTERAMENTE VERSATO - FONDO EDIFICI DI CULTO
 
-##### Allegato 1
+#### Allegato 1
 
 ALLEGATO 1
 

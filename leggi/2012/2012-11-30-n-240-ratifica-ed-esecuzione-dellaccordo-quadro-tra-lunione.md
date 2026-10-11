@@ -28,19 +28,19 @@ Promulga
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo quadro tra l'Unione europea e i suoi Stati membri, da una parte, e la Repubblica di Corea, dall'altra, fatto a Bruxelles il 10 maggio 2010.
 
-#### Art. 2
+### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 49 dell'Accordo stesso.
 
-#### Art. 3
+### Art. 3
 
 Entrata in vigore
 
@@ -58,9 +58,7 @@ Terzi di Sant'Agata, Ministro degli affari esteri
 
 Visto, il Guardasigilli: Severino
 
-## TITOLO I
-
-### Fondamento e campo di applicazione
+## TITOLO I - Fondamento e campo di applicazione
 
 Parte di provvedimento in formato grafico
 
@@ -184,7 +182,7 @@ Riconoscendo l'opportunita' che ciascuna delle Parti promuova il ruolo e il prof
 
 Hanno convenuto quanto segue:
 
-#### Art. 1
+### Art. 1
 
 Fondamento della cooperazione
 
@@ -202,7 +200,7 @@ Fondamento della cooperazione
 
 7\. L'attuazione del presente accordo tra Parti animate da rispetto e valori comuni si basa pertanto sui principi del dialogo, del rispetto reciproco, del partenariato equo, del multilateralismo, del consenso e del rispetto del diritto internazionale.
 
-#### Art. 2
+### Art. 2
 
 Obiettivi della cooperazione
 
@@ -240,11 +238,9 @@ f) rafforzare la cooperazione nel settore della giustizia, liberta' e sicurezza,
 
 g) rafforzare la cooperazione in altri settori d'interesse comune, in particolare il turismo, la societa' civile, la pubblica amministrazione e le statistiche.
 
-## TITOLO II
+## TITOLO II - Dialogo politico e cooperazione
 
-### Dialogo politico e cooperazione
-
-#### Art. 3
+### Art. 3
 
 Dialogo politico
 
@@ -274,7 +270,7 @@ d) dialoghi settoriali su questioni d'interesse comune;
 
 e) scambi di delegazioni tra il Parlamento europeo e l'Assemblea nazionale della Repubblica di Corea.
 
-#### Art. 4
+### Art. 4
 
 Lotta contro la proliferazione delle armi di distruzione di massa
 
@@ -290,7 +286,7 @@ b) l'istituzione di un sistema nazionale efficace di controllo delle esportazion
 
 4\. Le Parti convengono che il dialogo politico accompagni e consolidi i suddetti elementi.
 
-#### Art. 5
+### Art. 5
 
 Armi leggere e di piccolo calibro
 
@@ -300,7 +296,7 @@ Armi leggere e di piccolo calibro
 
 3\. Le Parti s'impegnano a cooperare e ad assicurare il coordinamento, la complementarita' e la sinergia delle loro azioni di contrasto al commercio illegale di armi leggere e di piccolo calibro e relative munizioni a livello mondiale, regionale, subregionale e nazionale.
 
-#### Art. 6
+### Art. 6
 
 Crimini piu' gravi di rilevanza per la comunita' internazionale
 
@@ -308,7 +304,7 @@ Crimini piu' gravi di rilevanza per la comunita' internazionale
 
 2\. Le Parti convengono che sarebbe proficuo un dialogo tra di esse a tale riguardo.
 
-#### Art. 7
+### Art. 7
 
 Cooperazione nella lotta contro il terrorismo
 
@@ -326,21 +322,17 @@ d) mediante una cooperazione volta a rafforzare il consenso internazionale sulla
 
 e) attraverso la condivisione delle migliori pratiche nel settore della tutela dei diritti umani nella lotta contro il terrorismo.
 
-## TITOLO III
+## TITOLO III - Cooperazione nell'ambito delle organizzazioni regionali e internazionali
 
-### Cooperazione nell'ambito delle organizzazioni regionali e - internazionali
-
-#### Art. 8
+### Art. 8
 
 Cooperazione nell'ambito delle organizzazioni regionali e internazionali
 
 Le Parti s'impegnano a cooperare e a scambiare opinioni nell'ambito di consessi e organizzazioni regionali e internazionali quali le Nazioni Unite, l'Organizzazione internazionale del lavoro (OIL), l'Organizzazione per la cooperazione e lo sviluppo economico (OCSE), l'OMC, il vertice Asia-Europa (ASEM) e il forum regionale dell'ASEAN.
 
-## TITOLO IV
+## TITOLO IV - Cooperazione in materia di sviluppo economico
 
-### Cooperazione in materia di sviluppo economico
-
-#### Art. 9
+### Art. 9
 
 Commercio e investimenti
 
@@ -350,7 +342,7 @@ Commercio e investimenti
 
 3\. Le Parti si tengono reciprocamente informate e scambiano opinioni sullo sviluppo del commercio bilaterale e internazionale, sugli investimenti e sulle politiche e problematiche correlate.
 
-#### Art. 10
+### Art. 10
 
 Dialogo sulla politica economica
 
@@ -358,7 +350,7 @@ Dialogo sulla politica economica
 
 2\. Le Parti convengono di rafforzare il dialogo e la cooperazione al fine di migliorare i sistemi contabili, di revisione dei conti, di vigilanza e di regolamentazione nei settori bancario e assicurativo e in altri comparti del settore finanziario.
 
-#### Art. 11
+### Art. 11
 
 Cooperazione tra imprese
 
@@ -376,19 +368,19 @@ e) la promozione della responsabilita' e rendicontazione sociale delle imprese e
 
 2\. Le Parti agevolano le pertinenti attivita' di cooperazione avviate dal settore privato di entrambe.
 
-#### Art. 12
+### Art. 12
 
 Fiscalita'
 
 Al fine di rafforzare e sviluppare le attivita' economiche tenendo conto nel contempo della necessita' di sviluppare un quadro normativo adeguato, le Parti riconoscono e s'impegnano ad attuare nel settore della fiscalita' i principi della trasparenza, dello scambio d'informazioni e della leale concorrenza fiscale. A tal fine, secondo le rispettive competenze, le Parti migliorano la cooperazione internazionale in materia fiscale, agevolano la riscossione del gettito fiscale legittimo e sviluppano misure finalizzate a un'efficace attuazione dei suddetti principi.
 
-#### Art. 13
+### Art. 13
 
 Dogane
 
 Le Parti cooperano nel settore doganale su base bilaterale e multilaterale. A tal fine, condividono in particolare le esperienze ed esaminano le possibilita' di semplificare le procedure, aumentare la trasparenza e sviluppare la cooperazione. Esse ricercano inoltre una convergenza di opinioni e un'azione comune nei pertinenti ambiti internazionali.
 
-#### Art. 14
+### Art. 14
 
 Politica della concorrenza
 
@@ -400,7 +392,7 @@ a) riconoscere l'importanza del diritto della concorrenza e delle autorita' prep
 
 b) condividere informazioni e migliorare la cooperazione tra le autorita' preposte alla concorrenza.
 
-#### Art. 15
+### Art. 15
 
 Societa' dell'informazione
 
@@ -420,13 +412,13 @@ e) sugli aspetti delle tecnologie dell'informazione e della comunicazione legati
 
 3\. E' incoraggiata la cooperazione tra imprese.
 
-#### Art. 16
+### Art. 16
 
 Scienza e tecnologia
 
 Le Parti promuovono, sviluppano e agevolano le attivita' di cooperazione nei settori della scienza e della tecnologia a scopo pacifico, conformemente all'accordo di cooperazione scientifica e tecnologica tra la Comunita' europea e il governo della Repubblica di Corea.
 
-#### Art. 17
+### Art. 17
 
 Energia
 
@@ -456,7 +448,7 @@ c) realizzazione di studi e ricerche comuni;
 
 d) aumento del commercio e degli investimenti nel settore dell'energia.
 
-#### Art. 18
+### Art. 18
 
 Trasporti
 
@@ -476,7 +468,7 @@ e) l'applicazione di norme in materia di sicurezza e protezione e di prevenzione
 
 3\. Per quanto riguarda la navigazione satellitare globale civile, le Parti cooperano a norma dell'accordo di cooperazione relativo a un sistema globale di navigazione satellitare civile (GNSS) tra la Comunita' europea e i suoi Stati membri, da una parte, e la Repubblica di Corea, dall'altra.
 
-#### Art. 19
+### Art. 19
 
 Politica dei trasporti marittimi
 
@@ -500,7 +492,7 @@ d) autorizzano la presenza commerciale di societa' di navigazione dell'altra Par
 
 6\. Le Parti conducono un dialogo nel settore della politica dei trasporti marittimi.
 
-#### Art. 20
+### Art. 20
 
 Politica dei consumatori
 
@@ -512,11 +504,9 @@ b) promuovere lo scambio d'informazioni sui sistemi di protezione dei consumator
 
 c) favorire lo sviluppo di associazioni indipendenti di consumatori e di contatti tra i rappresentanti dei consumatori.
 
-## TITOLO V
+## TITOLO V - Cooperazione nel settore dello sviluppo sostenibile
 
-### Cooperazione nel settore dello sviluppo sostenibile
-
-#### Art. 21
+### Art. 21
 
 Salute
 
@@ -540,7 +530,7 @@ g) lo scambio d'informazioni e la cooperazione in materia di politica dei serviz
 
 3\. Le Parti si adoperano per promuovere l'applicazione degli accordi sanitari internazionali, quali i regolamenti sanitari internazionali e la convenzione quadro per il controllo del tabacco.
 
-#### Art. 22
+### Art. 22
 
 Occupazione e affari sociali
 
@@ -552,7 +542,7 @@ Occupazione e affari sociali
 
 4\. Le forme di cooperazione possono comprendere, tra l'altro, programmi e progetti specifici concordati congiuntamente, il dialogo, la cooperazione e iniziative su temi d'interesse comune a livello bilaterale o multilaterale.
 
-#### Art. 23
+### Art. 23
 
 Ambiente e risorse naturali
 
@@ -580,7 +570,7 @@ i) lo scambio d'informazioni, di conoscenze specialistiche e di pratiche.
 
 3\. Si tiene opportunamente conto dei risultati del vertice mondiale sullo sviluppo sostenibile e dell'applicazione dei pertinenti accordi ambientali multilaterali.
 
-#### Art. 24
+### Art. 24
 
 Cambiamento climatico
 
@@ -602,7 +592,7 @@ g) se del caso, il sostegno alle azioni di mitigazione e adattamento dei paesi i
 
 2\. A tal fine, le Parti convengono d'intensificare il dialogo e la cooperazione a livello politico, strategico e tecnico.
 
-#### Art. 25
+### Art. 25
 
 Agricoltura, sviluppo rurale e silvicoltura
 
@@ -626,7 +616,7 @@ h) le attivita' di promozione dei prodotti agroalimentari;
 
 i) la gestione sostenibile delle foreste, allo scopo d'impedire la deforestazione e di favorire la creazione di nuove aree boschive, tenendo in debita considerazione gli interessi dei paesi in via di sviluppo esportatori di legname.
 
-#### Art. 26
+### Art. 26
 
 Ambiente marino e pesca
 
@@ -638,7 +628,7 @@ b) il sostegno a una politica a lungo termine sostenibile e responsabile in mate
 
 c) la promozione delle azioni volte a prevenire e combattere le attivita' di pesca illegali, non dichiarate e non regolamentate.
 
-#### Art. 27
+### Art. 27
 
 Aiuti allo sviluppo
 
@@ -646,11 +636,9 @@ Aiuti allo sviluppo
 
 2\. Le Parti ribadiscono l'impegno a rispettare la dichiarazione di Parigi del 2005 sull'efficacia degli aiuti e concordano d'intensificare la cooperazione allo scopo di migliorare ulteriormente i risultati nel settore dello sviluppo.
 
-## TITOLO VI
+## TITOLO VI - Cooperazione nel settore dell'istruzione e della cultura
 
-### Cooperazione nel settore dell'istruzione e della cultura
-
-#### Art. 28
+### Art. 28
 
 Cooperazione nei settori della cultura, dell'informazione,
 
@@ -664,7 +652,7 @@ della comunicazione, dei mezzi audiovisi e dei media
 
 4\. Le Parti valutano le modalita' per favorire gli scambi, la cooperazione e il dialogo tra le istituzioni competenti nei settori dei mezzi audiovisivi e dei media.
 
-#### Art. 29
+### Art. 29
 
 Istruzione
 
@@ -680,17 +668,15 @@ c) promozione di scambi di studenti, di personale accademico e amministrativo de
 
 d) la cooperazione nei settori dell'istruzione d'interesse comune.
 
-## TITOLO VII
+## TITOLO VII - Cooperazione nel settore della giustizia, liberta' e sicurezza
 
-### Cooperazione nel settore della giustizia, liberta' e sicurezza
-
-#### Art. 30
+### Art. 30
 
 Stato di diritto
 
 Nel quadro della cooperazione nel settore della giustizia, liberta' e sicurezza, le Parti annettono particolare importanza alla promozione dello Stato di diritto, compresi l'indipendenza della magistratura, l'accesso alla giustizia e il diritto a un processo equo.
 
-#### Art. 31
+### Art. 31
 
 Cooperazione giuridica
 
@@ -700,7 +686,7 @@ Cooperazione giuridica
 
 3\. Per quanto concerne la cooperazione giudiziaria in materia penale, le Parti si adoperano per migliorare gli accordi sull'assistenza giuridica reciproca e sull'estradizione, il che comprende eventualmente l'adesione ai pertinenti strumenti internazionali delle Nazioni Unite, tra cui lo statuto di Roma della Corte penale internazionale di cui all'art. 6 del presente accordo, e l'applicazione di tali strumenti.
 
-#### Art. 32
+### Art. 32
 
 Protezione dei dati personali
 
@@ -708,7 +694,7 @@ Protezione dei dati personali
 
 2\. La cooperazione in materia di protezione dei dati personali puo' comprendere, tra l'altro, scambi d'informazioni e di conoscenze specialistiche.
 
-#### Art. 33
+### Art. 33
 
 Migrazione
 
@@ -718,7 +704,7 @@ Migrazione
 
 3\. Le Parti si adoperano per concludere, se necessario, un accordo che regoli gli obblighi specifici di riammissione dei propri cittadini. Tale accordo comprendera' anche le condizioni applicabili ai cittadini di altri paesi e agli apolidi.
 
-#### Art. 34
+### Art. 34
 
 Lotta contro le droghe illecite
 
@@ -726,13 +712,13 @@ Lotta contro le droghe illecite
 
 2\. Le Parti concordano i metodi di cooperazione per conseguire tali obiettivi e basano le loro azioni su principi concordati rispondenti alle convenzioni internazionali pertinenti, alla dichiarazione politica e alla dichiarazione speciale sugli orientamenti per ridurre la domanda di droga adottate dalla ventesima sessione speciale dell'Assemblea generale delle Nazioni Unite nel giugno 1998.
 
-#### Art. 35
+### Art. 35
 
 Lotta contro la criminalita' organizzata e la corruzione
 
 Le Parti convengono di cooperare e di contribuire alla lotta contro la criminalita' organizzata, economica e finanziaria, la corruzione, la contraffazione e le transazioni illegali adempiendo pienamente ai loro obblighi internazionali reciproci in tale settore, compresa la cooperazione effettiva per il recupero di beni o fondi derivanti da atti di corruzione. Le Parti promuovono l'attuazione della Convenzione delle Nazioni Unite contro il crimine organizzato transnazionale e relativi protocolli aggiuntivi e della Convenzione delle Nazioni Unite contro la corruzione.
 
-#### Art. 36
+### Art. 36
 
 Lotta contro il riciclaggio di denaro e il finanziamento del terrorismo
 
@@ -740,7 +726,7 @@ Lotta contro il riciclaggio di denaro e il finanziamento del terrorismo
 
 2\. Le Parti possono scambiare informazioni pertinenti nell'ambito delle rispettive disposizioni di legge e applicare norme appropriate per la lotta contro il riciclaggio di denaro e il finanziamento del terrorismo, equivalenti a quelle adottate dagli organismi internazionali competenti attivi in tale settore, come il Gruppo di azione finanziaria internazionale sul riciclaggio del denaro (FATF).
 
-#### Art. 37
+### Art. 37
 
 Lotta contro la criminalita' informatica
 
@@ -748,17 +734,15 @@ Lotta contro la criminalita' informatica
 
 2\. Le Parti scambiano informazioni nei settori dell'istruzione e della formazione di investigatori specializzati nella criminalita' informatica, delle indagini sulla criminalita' informatica e della scienza forense digitale.
 
-#### Art. 38
+### Art. 38
 
 Cooperazione nell'attivita' di contrasto
 
 Le Parti convengono di assicurare la cooperazione tra le autorita', le agenzie e i servizi di contrasto e di contribuire a sventare e sconfiggere le minacce della criminalita' transnazionale per entrambe le Parti. La cooperazione tra autorita', agenzie e servizi di contrasto puo' attuarsi sotto forma di assistenza reciproca nelle indagini, di condivisione di tecniche investigative, di corsi di formazione e di addestramento comuni per gli operatori preposti all'attivita' di contrasto e di ogni altro tipo di attivita' congiunta e di assistenza concordato tra le Parti.
 
-## TITOLO VIII
+## TITOLO VIII - Cooperazione in altri settori
 
-### Cooperazione in altri settori
-
-#### Art. 39
+### Art. 39
 
 Turismo
 
@@ -774,13 +758,13 @@ d) cooperazione per la salvaguardia e la gestione del patrimonio culturale;
 
 e) cooperazione nella gestione del turismo.
 
-#### Art. 40
+### Art. 40
 
 Societa' civile
 
 Le Parti riconoscono il ruolo e il potenziale contributo di una societa' civile organizzata nel processo di dialogo e di cooperazione previsto dal presente accordo e convengono di promuovere un dialogo effettivo con la societa' civile organizzata e la sua partecipazione concreta.
 
-#### Art. 41
+### Art. 41
 
 Pubblica amministrazione
 
@@ -796,7 +780,7 @@ d) miglioramento del quadro giuridico e istituzionale;
 
 e) progettazione e attuazione delle politiche.
 
-#### Art. 42
+### Art. 42
 
 Statistiche
 
@@ -814,11 +798,9 @@ d) la promozione dello scambio di esperienze tra le Parti sullo sviluppo delle c
 
 2\. Le forme di cooperazione possono comprendere, tra l'altro, programmi e progetti specifici concordati congiuntamente, il dialogo, la cooperazione e iniziative su temi d'interesse comune a livello bilaterale o multilaterale.
 
-## TITOLO IX
+## TITOLO IX - Quadro istituzionale
 
-### Quadro istituzionale
-
-#### Art. 43
+### Art. 43
 
 Altri accordi
 
@@ -830,7 +812,7 @@ Altri accordi
 
 4\. Sono parimenti considerati parte delle relazioni bilaterali generali disciplinate dal presente accordo e rientranti in un quadro istituzionale comune gli accordi in vigore concernenti settori specifici di cooperazione rientranti nel campo di applicazione del presente accordo.
 
-#### Art. 44
+### Art. 44
 
 Comitato misto
 
@@ -858,7 +840,7 @@ h) esaminare tutte le informazioni presentate da una Parte concernenti il mancat
 
 4\. Il comitato misto si riunisce di norma una volta all'anno, alternativamente a Bruxelles e a Seul. A richiesta di una delle Parti vengono indette riunioni straordinarie. Il comitato misto e' presieduto a turno da ciascuna delle Parti e si riunisce, di norma, a livello di alti funzionari.
 
-#### Art. 45
+### Art. 45
 
 Modalita' di attuazione
 
@@ -870,7 +852,7 @@ Modalita' di attuazione
 
 4\. In casi particolarmente urgenti, la misura e' notificata immediatamente all'altra Parte. Su richiesta dell'altra Parte, le consultazioni si tengono per un periodo non superiore a venti (20) giorni. Al termine di questo periodo si procede all'applicazione della misura. In tal caso, l'altra Parte puo' chiedere un arbitrato a norma dell'art. 46 affinche' venga esaminato qualsiasi aspetto della misura o il suo fondamento.
 
-#### Art. 46
+### Art. 46
 
 Procedura di arbitrato
 
@@ -878,23 +860,21 @@ Procedura di arbitrato
 
 2\. Ciascuna Parte della controversia deve adottare le misure necessarie per dare attuazione alla decisione arbitrale. Se richiesto, gli arbitri formulano raccomandazioni sulle modalita' di attuazione della loro decisione al fine di ristabilire l'equilibrio di diritti e obblighi nell'ambito del presente accordo.
 
-## TITOLO X
+## TITOLO X - Disposizioni finali
 
-### Disposizioni finali
-
-#### Art. 47
+### Art. 47
 
 Definizione
 
 Ai fini del presente accordo, per «parti» si intendono l'Unione europea o i suoi Stati membri oppure l'Unione europea e i suoi Stati membri, secondo le rispettive competenze, da una parte, e la Repubblica di Corea, dall'altra.
 
-#### Art. 48
+### Art. 48
 
 Sicurezza nazionale e divulgazione di informazioni
 
 Nessuna disposizione del presente accordo deve essere interpretata nel senso che obbliga una delle Parti a fornire informazioni la cui divulgazione sia considerata contraria ai suoi interessi essenziali in materia di sicurezza.
 
-#### Art. 49
+### Art. 49
 
 Entrata in vigore, durata e denuncia
 
@@ -906,25 +886,25 @@ Entrata in vigore, durata e denuncia
 
 Ciascuna delle due Parti puo' comunicare per iscritto all'altra Parte la propria intenzione di denunciarlo. La denuncia prende effetto sei mesi dopo la notifica.
 
-#### Art. 50
+### Art. 50
 
 Notifiche
 
 Le notifiche a norma dell'art. 49 sono indirizzate, rispettivamente, al Segretariato generale del Consiglio dell'Unione europea e al ministro degli Affari esteri e del Commercio della Repubblica di Corea.
 
-#### Art. 51
+### Art. 51
 
 Dichiarazioni e allegati
 
 Le dichiarazioni e gli allegati del presente accordo ne costituiscono parte integrante.
 
-#### Art. 52
+### Art. 52
 
 Applicazione territoriale
 
 Il presente accordo si applica ai territori in cui si applica il trattato sull'Unione europea e alle condizioni ivi specificate, da una parte, e al territorio della Repubblica di Corea, dall'altra.
 
-#### Art. 53
+### Art. 53
 
 Testi facenti fede
 
@@ -932,7 +912,7 @@ Il presente accordo e' redatto in duplice copia nelle lingue bulgara, ceca, dane
 
 Parte di provvedimento in formato grafico
 
-#### Dichiarazioni
+### Dichiarazioni
 
 DICHIARAZIONE COMUNE RELATIVA ALL'INTERPRETAZIONE
 

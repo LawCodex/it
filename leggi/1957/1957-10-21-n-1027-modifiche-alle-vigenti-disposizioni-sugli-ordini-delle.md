@@ -28,7 +28,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 L'art. 2 del decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, n. 233, e' sostituito dal seguente:
 
@@ -46,7 +46,7 @@ Ogni Consiglio elegge nel proprio seno un presidente, un vicepresidente, un teso
 
 Il presidente ha la rappresentanza dell'Ordine e Collegio, di cui convoca e presiede il Consiglio direttivo e le assemblee degli iscritti: il vicepresidente lo sostituisce in caso di assenza o di impedimento e disimpegna le funzioni a lui eventualmente delegate dal presidente".
 
-### Art. 2
+## Art. 2
 
 Il terzo e quarto comma dell'art. 12 del decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, n. 233, sono sostituiti dai seguenti:
 
@@ -54,7 +54,7 @@ Il terzo e quarto comma dell'art. 12 del decreto legislativo del Capo provvisori
 
 Il presidente ha la rappresentanza della Federazione di cui convoca e presiede il Comitato centrale ed il Consiglio nazionale; il vice presidente lo sostituisce in caso di assenza o di impedimento e disimpegna le funzioni a lui eventualmente delegate dal presidente".
 
-### Art. 3
+## Art. 3
 
 L'art. 13 del decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, n. 233, e' sostituito dal seguente:
 
@@ -62,29 +62,29 @@ L'art. 13 del decreto legislativo del Capo provvisorio dello Stato 13 settembre 
 
 Ciascun presidente dispone di un voto per ogni duecento iscritti e frazione di duecento iscritti al rispettivo albo provinciale".
 
-### Art. 4
+## Art. 4
 
 All'ultimo comma dell'art. 17 del decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, numero 233, modificato con legge 5 gennaio 1955, n. 15, e' aggiunto il seguente:
 
 "Per la validita' delle sedute plenarie occorre la presenza di non meno di 18 membri della Commissione, compreso il presidente, ed ogni professione deve essere rappresentata da almeno tre dei membri appartenenti alla rispettiva categoria".
 
-### Art. 5
+## Art. 5
 
 Sono abrogate tutte le disposizioni incompatibili con la presente legge.
 
 ## Disposizioni transitorie
 
-### Art. 6
+## Art. 6
 
 I Consigli diretti degli Ordini dei medici-chirurghi, dei veterinari e dei farmacisti ed i Consigli direttivi dei Collegi delle ostetriche e quelli delle infermiere professionali, delle assistenti sanitarie visitatrici e delle vigilatrici d'infanzia, in carica al 31 dicembre 1956, continuano a funzionare fino al 31 dicembre 1957.
 
 A quest'ultima data scadono i Consigli che per qualsiasi ragione siano eletti fra il 1° gennaio ed il 31 dicembre 1957.
 
-### Art. 7
+## Art. 7
 
 I Comitati centrali delle Federazioni nazionali, in carica alla data di entrata in vigore della presente legge, in qualunque data eletti, continuano a funzionare fino al 31 marzo 1958 e dovranno essere rinnovati entro il 30 settembre 1958.
 
-### Art. 8
+## Art. 8
 
 La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 

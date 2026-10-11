@@ -26,11 +26,9 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - ASSETTO DELLA DISCIPLINA
+## TITOLO I - ASSETTO DELLA DISCIPLINA DEL PUBBLICO IMPIEGO
 
-### DEL PUBBLICO IMPIEGO
-
-#### Art. 1
+### Art. 1
 
 Ambito di applicazione della legge
 
@@ -38,63 +36,63 @@ Le disposizioni della presente legge costituiscono principi fondamentali ai sens
 
 I principi desumibili dalle disposizioni della presente legge costituiscono, altresi', per le regioni a statuto speciale e per le province autonome di Trento e di Bolzano norme fondamentali di riforma economico-sociale della Repubblica.
 
-#### Art. 2
+### Art. 2
 
 ((IL D. LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
-#### Art. 3
+### Art. 3
 
 ((IL D. LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
-#### Art. 4
+### Art. 4
 
 ((IL D. LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
-#### Art. 5
+### Art. 5
 
 ((IL D. LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
-#### Art. 6
+### Art. 6
 
 ((IL D. LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
-#### Art. 7
+### Art. 7
 
 ((IL D. LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
-#### Art. 8
+### Art. 8
 
 ((IL D. LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
-#### Art. 9
+### Art. 9
 
 ((IL D. LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
-#### Art. 10
+### Art. 10
 
 ((IL D. LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
-#### Art. 11
+### Art. 11
 
 ((IL D. LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
-#### Art. 12
+### Art. 12
 
 ((IL D. LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
-#### Art. 13
+### Art. 13
 
 ((IL D. LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
-#### Art. 14
+### Art. 14
 
 ((IL D. LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
-#### Art. 15
+### Art. 15
 
 ((IL D. LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
-#### Art. 16
+### Art. 16
 
 Relazione al Parlamento
 
@@ -106,27 +104,27 @@ Nell'anno antecedente a quello di entrata in vigore della nuova normativa, la re
 
 ## TITOLO II - PRINCIPI NORMATIVI DI OMOGENEITA'
 
-#### Art. 17
+### Art. 17
 
 ((IL D. LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
-#### Art. 18
+### Art. 18
 
 ((IL D. LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
-#### Art. 19
+### Art. 19
 
 ((IL D. LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
-#### Art. 20
+### Art. 20
 
 ((IL D. LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
-#### Art. 21
+### Art. 21
 
 ((IL D. LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
-#### Art. 22
+### Art. 22
 
 Principi in tema di responsabilita', procedure e sanzioni disciplinari
 
@@ -146,11 +144,11 @@ Il D. LGS. 30 marzo 2001, n. 654 ha disposto (con l'art. 72) che l'art. 22 e' ab
 
 ## TITOLO III - TUTELA SINDACALE DEL PUBBLICO IMPIEGO
 
-#### Art. 23
+### Art. 23
 
 ((IL D. LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
-#### Art. 24
+### Art. 24
 
 Installazioni di impianti audiovisivi e visite personali di controllo
 
@@ -162,7 +160,7 @@ Per eccezionali e motivate ragioni di sicurezza, la competente autorita' di pubb
 
 Avverso la deliberazione di cui al secondo comma ed il provvedimento di cui al terzo comma possono ricorrere, al competente tribunale amministrativo regionale, anche gli organismi rappresentativi nonche' i sindacati dei lavoratori indicati nel successivo articolo 25.
 
-#### Art. 25
+### Art. 25
 
 Organismi rappresentativi dei dipendenti
 
@@ -170,7 +168,7 @@ Organismi rappresentativi dei dipendenti delle pubbliche amministrazioni possono
 
 ## TITOLO IV - NORME FINALI E TRANSITORIE
 
-#### Art. 26
+### Art. 26
 
 Disposizioni speciali
 
@@ -182,7 +180,7 @@ Restano ugualmente disciplinati dalle leggi speciali che li riguardano gli ordin
 
 ((IL D. LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE COMMA)).
 
-#### Art. 27
+### Art. 27
 
 Istituzione, attribuzioni ed ordinamento del Dipartimento della funzione pubblica
 
@@ -232,11 +230,11 @@ AGGIORNAMENTO (6)
 
 Il D. LGS. 30 marzo 2001, n.165 ha disposto (con l'art. 18) che "sono abrogate le disposizioni contenute nell'art. 27, comma primo, n. 3) limitatamente ai riferimenti all'informatica, della legge 29 marzo 1983, n. 93" .
 
-#### Art. 28
+### Art. 28
 
 ((IL D. LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
-#### Art. 29
+### Art. 29
 
 Abrogazione delle disposizioni incompatibili
 
@@ -246,7 +244,7 @@ Sono fatte salve le norme vigenti alla data di entrata in vigore della presente 
 
 Le norme legislative o regolamentari relative a materie disciplinate sulla base degli accordi di cui al precedente titolo I rimangono in vigore fino all'emanazione della nuova disciplina.
 
-#### Art. 30
+### Art. 30
 
 Norme transitorie sull'orario di lavoro dei dipendenti civili dell'Amministrazione dello Stato
 
@@ -256,7 +254,7 @@ La norma di cui al comma precedente non ha, per il periodo antecedente alla data
 
 ((IL D. LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE COMMA)).
 
-#### Art. 31
+### Art. 31
 
 Norma transitoria per gli accordi in vigore
 

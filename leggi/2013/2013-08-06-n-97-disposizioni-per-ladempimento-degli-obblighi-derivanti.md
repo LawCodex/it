@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I
+## Capo I - Disposizioni in materia di libera circolazione delle persone e dei servizi e in materia di diritto di stabilimento
 
-### Disposizioni in materia di libera circolazione delle persone e dei - servizi e in materia di diritto di stabilimento
-
-#### Art. 1
+### Art. 1
 
 Disposizioni volte a porre rimedio al non corretto recepimento della direttiva 2004/38/CE relativa al diritto di circolazione e di soggiorno dei cittadini dell'Unione e dei loro familiari. Procedura di infrazione 2011/2053.
 
@@ -138,7 +136,7 @@ d) all'articolo 10, comma 3, dopo la lettera d) e' aggiunta la seguente:
 
 > L'allontanamento del cittadino di uno Stato membro dell'Unione europea o di un suo familiare, di cui agli articoli 2, comma 1, lettera b), e 3, comma 2, del decreto legislativo 6 febbraio 2007, n. 30, e' disposto in conformita' ai criteri ed alle modalita' fissati dall'art. 20 del medesimo decreto legislativo".
 
-#### Art. 2
+### Art. 2
 
 Disposizioni in materia di prestazione transfrontaliera di servizi dei consulenti di proprieta' industriale. Caso EU Pilot 2066/11/MARK.
 
@@ -166,7 +164,7 @@ Disposizioni in materia di prestazione transfrontaliera di servizi dei consulent
 
 > 4\. (abrogato).".
 
-#### Art. 3
+### Art. 3
 
 Disposizioni relative alla libera prestazione e all'esercizio stabile dell'attivita' di guida turistica da parte di cittadini dell'Unione europea. Caso EU Pilot 4277/12/MARK.
 
@@ -176,7 +174,7 @@ Disposizioni relative alla libera prestazione e all'esercizio stabile dell'attiv
 
 3\. ((COMMA ABROGATO DALLA L. 13 DICEMBRE 2023, N. 190)).
 
-#### Art. 4
+### Art. 4
 
 Modifica al decreto legislativo 23 maggio 2011, n. 79, in materia di ordinamento e mercato del turismo. Procedura di infrazione 2012/4094.
 
@@ -200,7 +198,7 @@ Modifica al decreto legislativo 23 maggio 2011, n. 79, in materia di ordinamento
 
 > 6\. Le modalita' di gestione e di funzionamento del fondo sono determinate con decreto del Presidente del Consiglio dei Ministri o con decreto del Ministro delegato, di concerto con il Ministro dell'economia e delle finanze e con il Ministero dello sviluppo economico.".
 
-#### Art. 5
+### Art. 5
 
 Modifiche al decreto legislativo 2 febbraio 2001, n. 96, recante attuazione della direttiva 98/5/CE, in materia di societa' tra avvocati. Caso EU Pilot 1753/11/MARK.
 
@@ -234,7 +232,7 @@ b) all'articolo 36, comma 4, le parole: «socio in possesso del titolo di avvoca
 
 > 4\. Per l'attivita' di rappresentanza, assistenza e difesa in giudizio il socio che sia avvocato stabilito e' tenuto ad agire d'intesa con altro professionista in possesso del titolo di avvocato, abilitato ad esercitare davanti all'autorita' adita o procedente.".
 
-#### Art. 6
+### Art. 6
 
 Modifica al decreto legislativo 15 novembre 2011, n. 208, recante disciplina dei contratti pubblici relativi ai lavori, servizi e forniture nei settori della difesa e sicurezza, in attuazione della direttiva 2009/81/CE.
 
@@ -286,7 +284,7 @@ Modifica al decreto legislativo 15 novembre 2011, n. 208, recante disciplina dei
 
 > 3\. Nessuna delle norme, procedure, programmi, accordi, intese o appalti menzionati ai commi 1 e 2 puo' essere utilizzata allo scopo di non applicare le disposizioni del presente decreto.".
 
-#### Art. 7
+### Art. 7
 
 Modifiche alla disciplina in materia di accesso ai posti di lavoro presso le pubbliche amministrazioni. Casi EU Pilot 1769/11/JUST e 2368/11/HOME.
 
@@ -326,11 +324,9 @@ b) dopo il comma 3 sono aggiunti i seguenti:
 
 > 2\. E' consentito al titolare dello status di rifugiato e dello status di protezione sussidiaria l'accesso al pubblico impiego, con le modalita' e le limitazioni previste per i cittadini dell'Unione europea.".
 
-## Capo II
+## Capo II - Disposizioni in materia di fiscalita'
 
-### Disposizioni in materia di fiscalita'
-
-#### Art. 8
+### Art. 8
 
 Modifica al decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, in materia di tassazione di aeromobili. Caso EU Pilot 3192/12/TAXU.
 
@@ -456,7 +452,7 @@ Modifica al decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni
 
 > 15-ter. L'addizionale di cui al comma 1 e' ridotta dopo cinque, dieci e quindici anni dalla data di costruzione del veicolo, rispettivamente, al 60, al 30 e al 15 per cento e non e' piu' dovuta decorsi venti anni dalla data di costruzione. La tassa di cui ai commi 2 e 3 e' ridotta dopo cinque, dieci e quindici anni dalla data di costruzione dell'unita' da diporto, rispettivamente, del 15, del 30 e del 45 per cento. I predetti periodi decorrono dal 1° gennaio dell'anno successivo a quello di costruzione. Con decreto del direttore generale dell'Amministrazione autonoma dei monopoli di Stato e' rideterminata l'aliquota di accisa del tabacco da fumo in misura tale da conseguire un maggior gettito pari all'onere derivante dal presente comma.".
 
-#### Art. 9
+### Art. 9
 
 Disposizioni in materia di monitoraggio fiscale. Caso EU Pilot 1711/11/TAXU
 
@@ -510,7 +506,7 @@ e) l'articolo 6 e' sostituito dal seguente:
 
 > "Art. 8. - Per i titoli ed i certificati di cui all'art. 5, nonche' per i titoli o certificati rappresentativi delle quote di partecipazione in organismi d'investimento collettivo immobiliari, emessi da soggetti non residenti nel territorio dello Stato e collocati nel territorio stesso la ritenuta e' operata dai soggetti residenti che intervengono nella riscossione dei proventi, nel riacquisto o nella negoziazione dei titoli o certificati; essi provvedono anche al versamento delle ritenute operate e alla presentazione della dichiarazione indicata nello stesso art. 5. Non sono soggetti a ritenuta i proventi percepiti da societa' in nome collettivo, in accomandita semplice ed equiparate di cui all'art. 5 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, nonche' dalle societa' ed enti di cui alle lettere a) e b) del comma 1, dell'art. 87 del predetto testo unico n. 917 del 1986 e stabili organizzazioni nel territorio dello Stato delle societa' e degli enti di cui alla lettera d) del comma 1 del predetto art. 87. Nell'ipotesi di titoli o certificati ad emissione continuativa o comunque senza scadenza predeterminata gli stessi soggetti devono eseguire il versamento annuale previsto nell'art. 6 e provvedere agli adempimenti stabiliti nell'art. 7 con riferimento al valore complessivo dei titoli collocati nel territorio dello Stato e alle operazioni ivi effettuate.".
 
-#### Art. 10
+### Art. 10
 
 Modifica alla legge 28 dicembre 2001, n. 448, in materia di affidamento del servizio di riscossione delle imposte locali. Caso EU Pilot 3452/12/MARKT.
 
@@ -546,11 +542,9 @@ Modifica alla legge 28 dicembre 2001, n. 448, in materia di affidamento del serv
 
 > b) all'art. 62, comma 2, lettera d), sono aggiunte, infine, le seguenti parole: «in modo che detta tariffa, comprensiva dell'eventuale uso di aree comunali, non ecceda di oltre il 25 per cento le tariffe stabilite ai sensi del decreto legislativo 15 novembre 1993, n. 507, per l'imposta comunale sulla pubblicita' in relazione all'esposizione di cui alla lettera a) e deliberate dall'amministrazione comunale nell'anno solare antecedente l'adozione della delibera di sostituzione dell'imposta comunale sulla pubblicita' con il canone».".
 
-## Capo III
+## Capo III - Disposizioni in materia di lavoro e di politica sociale
 
-### Disposizioni in materia di lavoro e di politica sociale
-
-#### Art. 11
+### Art. 11
 
 Disposizioni volte al corretto recepimento della direttiva 1999/63/CE relativa all'accordo sull'organizzazione dell'orario di lavoro della gente di mare. Caso EU Pilot 3852/12/EMPL.
 
@@ -650,7 +644,7 @@ b) all'articolo 11, il comma 7 e' sostituito dal seguente:
 
 > 12\. Non appena possibile dopo che e' stata ripristinata la normale condizione di navigazione, il coordinamento della nave deve far si' che i lavoratori marittimi, impegnati in attivita' lavorative in un periodo previsto di riposo, beneficino di un adeguato periodo di riposo.".
 
-#### Art. 12
+### Art. 12
 
 Disposizioni in materia di lavoro a tempo determinato. Procedura di infrazione 2010/2045.
 
@@ -664,7 +658,7 @@ Disposizioni in materia di lavoro a tempo determinato. Procedura di infrazione 2
 
 3\. In sede di prima applicazione delle disposizioni di cui ai commi 1 e 2, il computo dei dipendenti a tempo determinato ai sensi dei medesimi commi e' effettuato alla data del 31 dicembre 2013, con riferimento al biennio antecedente a tale data.
 
-#### Art. 13
+### Art. 13
 
 Disposizioni volte al corretto recepimento della direttiva 2003/109/CE relativa allo status dei cittadini di paesi terzi che siano soggiornanti di lungo periodo. Procedura di infrazione 2013/4009.
 
@@ -822,11 +816,9 @@ d) quanto a 12 milioni di euro a decorrere dal 2014, mediante riduzione dell'aut
 
 > 18\. Agli stati di previsione della spesa dei singoli Ministeri sono annessi, secondo le rispettive competenze, i conti consuntivi degli enti cui lo Stato contribuisce in via ordinaria.".
 
-## Capo IV
+## Capo IV - Disposizioni in materia di sanita' pubblica
 
-### Disposizioni in materia di sanita' pubblica
-
-#### Art. 14
+### Art. 14
 
 Modifica al decreto legislativo 29 luglio 2003, n. 267, in materia di protezione delle galline ovaiole e registrazione dei relativi stabilimenti di allevamento. Procedura di infrazione 2011/2231.
 
@@ -850,7 +842,7 @@ Modifica al decreto legislativo 29 luglio 2003, n. 267, in materia di protezione
 
 > \- Il decreto legislativo 29 luglio 2003, n. 267 (Attuazione della direttiva 1999/74/CE e della direttiva 2002/4/CE, per la protezione delle galline ovaiole e la registrazione dei relativi stabilimenti di allevamento) e' pubblicato nella Gazzetta Ufficiale 20 settembre 2003, n. 219.
 
-#### Art. 15
+### Art. 15
 
 Disposizioni per l'adeguamento della normativa nazionale al regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio, del 22 maggio 2012, in materia di biocidi.
 
@@ -874,7 +866,7 @@ Disposizioni per l'adeguamento della normativa nazionale al regolamento (UE) n. 
 
 5\. Con decreto del Ministro della salute e' disciplinato l'iter procedimentale ai fini dell'adozione dei provvedimenti autorizzativi da parte dell'autorita' competente previsti dal regolamento n. 528.
 
-#### Art. 16
+### Art. 16
 
 Attuazione del regolamento (CE) n. 1223/2009 del Parlamento europeo e del Consiglio, del 30 novembre 2009, sui prodotti cosmetici.
 
@@ -894,7 +886,7 @@ Attuazione del regolamento (CE) n. 1223/2009 del Parlamento europeo e del Consig
 
 > \- Il Regolamento (CE) n. 1223/2009 del Parlamento europeo e del Consiglio sui prodotti cosmetici (rifusione) (Testo rilevante ai fini del SEE) e' pubblicato nella G.U.U.E. 22 dicembre 2009, n. L 342.
 
-#### Art. 17
+### Art. 17
 
 Modifica al decreto legislativo 27 gennaio 1992, n. 109, recante attuazione delle direttive 89/395/CEE e 89/396/CEE concernenti l'etichettatura, la presentazione e la pubblicita' dei prodotti alimentari. Procedura di infrazione 2009/4583.
 
@@ -948,7 +940,7 @@ Modifica al decreto legislativo 27 gennaio 1992, n. 109, recante attuazione dell
 
 > 4\. Fatti salvi i casi indicati al comma 1, lettere b) e c), quanto previsto dalla lettera a) del comma 12 dell'art. 5 non si applica agli additivi .".
 
-#### Art. 18
+### Art. 18
 
 Modifica al decreto legislativo 30 maggio 2008, n. 116, recante attuazione della direttiva 2006/7/CE, relativa alla gestione della qualita' delle acque di balneazione. Procedura di infrazione 2011/2217.
 
@@ -962,11 +954,9 @@ Modifica al decreto legislativo 30 maggio 2008, n. 116, recante attuazione della
 
 > \- Il decreto legislativo 30 maggio 2008, n. 116 (Attuazione della direttiva 2006/7/CE, relativa alla gestione della qualita' delle acque di balneazione e abrogazione della direttiva 76/160/ CEE,); e' pubblicato nella Gazzetta Ufficiale 4 luglio 2008, n. 155.
 
-## Capo V
+## Capo V - Disposizioni in materia di ambiente
 
-### Disposizioni in materia di ambiente
-
-#### Art. 19
+### Art. 19
 
 Modifiche al decreto legislativo 23 febbraio 2010, n. 49, in materia di valutazione e gestione dei rischi da alluvioni. Procedura di infrazione 2012/2054.
 
@@ -1080,7 +1070,7 @@ e) all'allegato I, parte B, punto 1, le parole: «dell'articolo 13» sono sostit
 
 > (Omissis).".
 
-#### Art. 20
+### Art. 20
 
 Modifiche al decreto legislativo 30 maggio 2008, n. 117, in materia di gestione dei rifiuti delle industrie estrattive. Procedura di infrazione 2011/2006.
 
@@ -1486,7 +1476,7 @@ s) all'articolo 19, comma 1, il primo e il secondo periodo sono sostituiti dal s
 
 > 2\. L'operatore che gestisce una struttura di deposito di rifiuti di estrazione senza l'osservanza delle condizioni e delle prescrizioni contenute o richiamate nell'autorizzazione di cui all'art. 7 e' punito con le pene di cui al comma 1, ridotte della meta'.".
 
-#### Art. 21
+### Art. 21
 
 Modifiche al decreto legislativo 20 novembre 2008, n. 188, recante attuazione della direttiva 2006/66/CE concernente pile, accumulatori e relativi rifiuti. Procedura di infrazione 2011/2218.
 
@@ -1720,15 +1710,15 @@ f) all'allegato II, parte B: Riciclaggio, i punti 1 e 2 sono abrogati.
 
 > c) riciclaggio del 50% in peso medio degli altri rifiuti di pile e accumulatori.".
 
-#### Art. 22
+### Art. 22
 
 ((ARTICOLO ABROGATO DAL D.LGS. 14 MARZO 2014, N. 49))
 
-#### Art. 23
+### Art. 23
 
 ((ARTICOLO ABROGATO DAL D.L. 24 GIUGNO 2014, N. 91, CONVERTITO, CON MODIFICAZIONI, DALLA L. 11 AGOSTO 2014, N. 116))
 
-#### Art. 24
+### Art. 24
 
 Modifiche al decreto legislativo 3 aprile 2006, n. 152, per il corretto recepimento della direttiva 2000/60/CE che istituisce un quadro per l'azione comunitaria in materia di acque. Procedura di infrazione 2007/4680.
 
@@ -1918,7 +1908,7 @@ n) all'allegato 3 alla parte terza, al punto 2 della sezione C, come modificato 
 
 > 8\. Fatte salve le discipline adottate dalle regioni ai sensi dell'art. 62, le Autorita' di bacino coordinano e sovrintendono le attivita' e le funzioni di titolarita' dei consorzi di bonifica integrale di cui al regio decreto 13 febbraio 1933, n. 215, nonche' del consorzio del Ticino - Ente autonomo per la costruzione, manutenzione ed esercizio dell'opera regolatrice del lago Maggiore, del consorzio dell'Oglio - Ente autonomo per la costruzione, manutenzione ed esercizio dell'opera regolatrice del lago d'Iseo e del consorzio dell'Adda - Ente autonomo per la costruzione, manutenzione ed esercizio dell'opera regolatrice del lago di Como, con particolare riguardo all'esecuzione, manutenzione ed esercizio delle opere idrauliche e di bonifica, alla realizzazione di azioni di salvaguardia ambientale e di risanamento delle acque, anche al fine della loro utilizzazione irrigua, alla rinaturalizzazione dei corsi d'acqua ed alla fitodepurazione.".
 
-#### Art. 25
+### Art. 25
 
 Modifiche alla parte sesta del decreto legislativo 3 aprile 2006, n. 152, recante norme in materia di tutela risarcitoria contro i danni all'ambiente. Procedura di infrazione 2007/4679.
 
@@ -2048,7 +2038,7 @@ m) all'articolo 317, il comma 5 e' sostituito dal seguente:
 
 > 6.".
 
-#### Art. 26
+### Art. 26
 
 Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio. Procedura di infrazione 2006/2131.
 
@@ -2146,7 +2136,7 @@ Fatte salve le deroghe adottate ai sensi dell'articolo 9, paragrafo 1, lettera b
 
 > 6\. Per quanto non altrimenti previsto dalla presente legge, si applicano le disposizioni della legge 24 novembre 1981, n. 689 , e successive modificazioni. ".
 
-#### Art. 27
+### Art. 27
 
 Modifica al decreto-legge 18 ottobre 2012, n. 179, relativa alla protezione delle acque dall'inquinamento provocato da nitrati.
 
@@ -2290,11 +2280,9 @@ Procedura di infrazione 2013/2032.
 
 > 10-septies. Gli interventi di cui all'art. 39, comma 4, del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, sono effettuati nell'ambito della disponibilita' di cui all'art. 39, comma 1, dello stesso decreto.".
 
-## Capo VI
+## Capo VI - Altre disposizioni
 
-### Altre disposizioni
-
-#### Art. 28
+### Art. 28
 
 Modifiche al decreto legislativo 10 agosto 2007, n. 162, in materia di indagini sugli incidenti ferroviari. Caso EU Pilot 1254/10/MOVE.
 
@@ -2352,7 +2340,7 @@ b) all'articolo 21, comma 1, le parole: «previa espressa autorizzazione dell'Au
 
 > 3\. L'organismo investigativo conclude i suoi esami sul luogo dell'incidente il piu' rapidamente possibile, in modo da consentire al gestore dell'infrastruttura di ripristinarla e aprirla al piu' presto ai servizi di trasporto ferroviario.".
 
-#### Art. 29
+### Art. 29
 
 Disposizioni volte al recepimento della direttiva 2012/4/UE, del 22 febbraio 2012, relativa all'istituzione di un sistema di identificazione e tracciabilita' degli esplosivi per uso civile.
 
@@ -2518,7 +2506,7 @@ e) all'allegato 1, al numero 3), sono aggiunti i seguenti periodi: «Qualora le 
 
 > 4\) all'etichetta finalizzata all'identificazione univoca dei prodotti esplodenti in ambito europeo e' sempre aggiunta, a cura degli importatori e distributori italiani titolari di licenza di polizia, quella di pubblica sicurezza, le cui caratteristiche sono stabilite dal Ministero dell'interno, ai sensi dell'art. 53 del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 18 giugno 1931, n. 773.".
 
-#### Art. 30
+### Art. 30
 
 Modifica al decreto legislativo 28 gennaio 2008, n. 25, in tema di Commissioni territoriali per il riconoscimento della protezione internazionale. Procedura di infrazione 2012/2189.
 
@@ -2548,7 +2536,7 @@ All'attuazione di quanto previsto dal presente comma si provvede con le risorse 
 
 > 6\. Le attivita' di supporto delle commissioni sono svolte dal personale in servizio appartenente ai ruoli dell'Amministrazione civile dell'interno.".
 
-#### Art. 31
+### Art. 31
 
 Attuazione della decisione 2009/750/CE della Commissione, del 6 ottobre 2009, sulla definizione del servizio europeo di telepedaggio e dei relativi elementi tecnici. Caso EU Pilot 4176/12/MOVE.
 
@@ -2560,7 +2548,7 @@ Attuazione della decisione 2009/750/CE della Commissione, del 6 ottobre 2009, su
 
 4\. Alle funzioni e ai compiti derivanti dalle disposizioni del presente articolo si provvede nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente, senza nuovi o maggiori oneri per la finanza pubblica.
 
-#### Art. 32
+### Art. 32
 
 Modifica all'articolo 47, comma 2-quater, del decreto-legge 9 febbraio 2012, n. 5, in materia di fornitura dei servizi accessori legati all'offerta all'ingrosso del servizio di accesso alla rete fissa di telecomunicazioni. Procedura di infrazione 2012/2138.
 
@@ -2604,7 +2592,7 @@ Modifica all'articolo 47, comma 2-quater, del decreto-legge 9 febbraio 2012, n. 
 
 > b) rendere possibile, per gli operatori richiedenti, acquisire tali servizi anche da imprese terze operanti in regime di concorrenza sotto la vigilanza e secondo le modalita' indicate dall'Autorita' medesima, assicurando, comunque, il mantenimento della sicurezza della rete.".
 
-#### Art. 33
+### Art. 33
 
 Disposizioni attuative del regolamento (UE) n. 648/2012 del Parlamento europeo e del Consiglio, del 4 luglio 2012, concernente gli strumenti derivati OTC, le controparti centrali e i repertori di dati sulle negoziazioni.
 
@@ -3346,7 +3334,7 @@ L'inosservanza delle disposizioni sui sistemi di garanzia a controparte centrale
 
 > 4\. Alle sanzioni amministrative pecuniarie previste dal presente articolo non si applica l'art. 16 della legge 24 novembre 1981, n. 689.".
 
-#### Art. 34
+### Art. 34
 
 Clausola di invarianza finanziaria
 

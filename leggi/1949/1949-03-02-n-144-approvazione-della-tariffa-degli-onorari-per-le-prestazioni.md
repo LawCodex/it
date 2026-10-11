@@ -26,7 +26,7 @@ PROMULGA
 
 la seguente legge:
 
-#### Articolo unico
+### Articolo unico
 
 E' approvata l'allegata tariffa degli onorari per le prestazioni professionali dei geometri.
 
@@ -44,25 +44,25 @@ Visto, il Guardasigilli: GRASSI
 
 ALLEGATO
 
-#### Art. 1
+### Art. 1
 
 Oggetto della tariffa
 
 La tariffa determina gli onorari spettanti al geometra per le prestazioni professionali stragiudiziali, e si applica alle operazioni ordinarie indicate dagli articoli 16 e 24 del regio decreto 11 febbraio 1929, n. 274, (regolamento per la professione di geometra) per la attuazione della legge 24 giugno 1923, n. 1395 Nei casi previsti dall'art. 21 del regolamento approvato con regio decreto 11 febbraio 1929, n. 274, e non contemplati nella presente tariffa, si applicano le tariffe dei professionisti nella cui competenza rientrano le prestazioni stesse.
 
-#### Art. 2
+### Art. 2
 
 Circoscrizione
 
 Il geometra e' tenuto ad applicare la presente tariffa vigente ed e' soggetto, per quanti concerne l'applicazione di essa e la liquidazione degli onorari, alla vigilanza e disciplina del Consiglio del Collegio nella cui circoscrizione opera.
 
-#### Art. 3
+### Art. 3
 
 Obbligatorieta'
 
 L'applicazione della tariffa e' obbligatoria per tutti i geometri, salvo particolari accordi riterentisi a prestazioni di carattere continuativo.
 
-#### Art. 4
+### Art. 4
 
 Liquidazione delle specifiche
 
@@ -70,13 +70,13 @@ E' facolta' del geometra e del committente di chiedere al Consiglio del Collegio
 
 La specifica deve essere accompagnata dagli elaborati relativi alla prestazione, ed occorrendo dai documenti e chiarimenti idonei alla valutazione e al controllo della specifica.
 
-#### Art. 5
+### Art. 5
 
 La revisione e la liquidazione delle specifiche sono fatte dal presidente del Collegio, il quale puo' entrare anche nel merito della entita' del lavoro, delle spese esposte e del valore intrinseco dell'elaborato, e puo' valersi altresi' dell'opera di una Commissione nominata dal Consiglio del collegio.
 
 Il presidente del Collegio comunica al richiedente il risultato della revisione e liquidazione.
 
-#### Art. 6
+### Art. 6
 
 Per ogni revisione o liquidazione delle specifiche e' dovuto al Collegio, oltre il rimborso delle relative spese, un contributo in ragione del 2 per cento dell'onorario liquidato, con un minimo di lire 200 ed un massimo di lire 4.000. Quando la richiesta e' fatta dall'autorita' giudiziaria o da un ente pubblico, le spese sono a carico del Collegio. (5) ((6))
 
@@ -92,7 +92,7 @@ AGGIORNAMENTO (6)
 
 Il Decreto 6 dicembre 1993, n. 596, ha disposto (con l'art. 4, comma 1) che "Il contributo dovuto al collegio dal richiedente, in virtu' dell'art. 6 della legge 2 marzo 1949, n. 144, e' stabilito in ragione del 3% dell'onorario complessivo liquidato, con un minimo pari all'onorario vigente per una vacazione ordinaria del geometra di cui all'art. 1 del presente decreto ed un massimo pari a venti volte il contributo minimo, oltre al rimborso delle spese."
 
-#### Art. 7
+### Art. 7
 
 Proprieta' intellettuale
 
@@ -104,13 +104,13 @@ Il committente non puo', senza il consenso del geometra, valersi dell'opera e de
 
 Qualora un elaborato venga usato anche per altre applicazioni, oltre quella per cui fu commesso, o ne venga dal committente ripetuto l'uso, al geometra spetta, per ogni nuova applicazione, un compenso non inferiore al 25 per cento e non superiore al 50 per cento delle competenze stabilite dalla tariffa in ragione inversa del numero delle applicazioni, oltre alle Intere competenze per le nuove prestazioni da esse dipendenti (rilievi, tracciamenti, contratto, direzione dei lavori, liquidazione, ecc.).
 
-#### Art. 8
+### Art. 8
 
 Casi di inapplicabilita'
 
 I compensi stabiliti nella presente tariffa per tutte le categorie di prestazioni non si applicano alle opere di cui il geometra sia l'appaltatore o il fornitore, qualora il compenso debba intendersi compreso nell'utile dell'appalto o fornitura.
 
-#### Art. 9
+### Art. 9
 
 Esecuzione d'urgenza
 
@@ -118,7 +118,7 @@ L'assegnazione di un incarico con carattere d'urgenza da' diritto al geometra ad
 
 Il compenso nella misura di cui sopra e' ugualmente dovuto nel caso che il geometra abbia chiesta, prima dello scadere del termine, una proroga per motivi ritenuti giustificati dal committente.
 
-#### Art. 10
+### Art. 10
 
 Interruzione dell'incarico
 
@@ -128,7 +128,7 @@ Quando l'interruzione sia dovuta a recesso del professionista, determinato da gi
 
 In caso di interruzione del lavoro per causa di forza maggiore o per recesso del geometra senza giusta causa, i reciproci rapporti saranno regolati dalle norme del Codice civile.
 
-#### Art. 11
+### Art. 11
 
 Incarichi collegiali
 
@@ -136,7 +136,7 @@ Quando l'incarico e' affidato dal committente a piu' professionisti riuniti in c
 
 Se il geometra e' chiamato a collaborare con altro geometra o con un ingegnere o dottore agronomo a cui e' stato affidato l'incarico, in qualita' di condirettore o coadiutore, il compenso dovutogli, oltre al rimborso delle spese, non puo' mai essere inferiore a quello risultante dalla applicazione della presente tariffa in ragione della parte di lavoro eseguita o del tempo impiegato.
 
-#### Art. 12
+### Art. 12
 
 Varianti
 
@@ -144,7 +144,7 @@ Le varianti ai progetti, se rese necessarie da fatti imprevedibili o se richiest
 
 Nello stesso modo debbono essere retribuite le prestazioni per cui si richiedano diverse e distinte soluzioni di massima o definitive.
 
-#### Art. 13
+### Art. 13
 
 Diritti del committente
 
@@ -152,7 +152,7 @@ Al committente spetta, salve particolari pattuizioni, una sola copia di tutti gl
 
 Il geometra e' tenuto a fornirgli tutti i dati, le notizie e gli atti necessari perche' gli sia possibile di valersi pienamente dell'opera commessa, e non avra' diritto a ulteriori compensi per tali notizie, dati e atti, se essi possono implicitamente ritenersi compresi nei compensi esposti nella specifica.
 
-#### Art. 14
+### Art. 14
 
 Anticipi
 
@@ -160,35 +160,33 @@ Quando le operazioni importino un anticipo di spese, il geometra puo' richiedern
 
 Nei giudizi arbitrali o peritali il geometra puo' richiedere il deposito integrale anticipato delle spese e competenze calcolate in via presuntiva.
 
-#### Art. 15
+### Art. 15
 
 Pagamento o saldo
 
 Il pagamento a saldo della specifica deve farsi non oltre il sessantesimo giorno da quello della sua presentazione. Dopo di che decorrono sulle somme dovute e noti pagate gli interessi ragguagliati al tasso di sconto stabilito dalla Banca d'Italia.
 
-#### Art. 16
+### Art. 16
 
 Contradittori
 
 Quando una perizia debba essere discussa in contradittorio con i tecnici dell'altra parte o in giudizio arbitrale spetta al geometra un aumento dal 20 per cento al 30 per cento sugli onorari.
 
-#### Art. 17
+### Art. 17
 
 Consultazioni
 
 Qualora il geometra si trovi nella necessita' di ricorrere all'opera o al consiglio di uno specialista per la esecuzione dell'incarico, e ne abbia ottenuta autorizzazione dal committente, il compenso spettante al professionista consultato deve essere pagato direttamente dal committente, indipendentemente dalle competenze del geometra.
 
-#### Art. 18
+### Art. 18
 
 Collaboratori
 
 Le spese per le prestazioni dei collaboratori di concetto sono a carico del geometra quando l'incarico e' retribuito a percentuale o a misura. Esse sono a carico del committente che vi abbia consentito e vengono calcolate secondo la tariffa stabilita dall'articolo 32 per il geometra, quando l'onorario e' corrisposto a vacazioni.
 
-## CAPO II - DELLE SPECIFICHE
+## CAPO II - DELLE SPECIFICHE NORME PER LA COMPILAZIONE DELLE SPECIFICHE
 
-### NORME PER LA COMPILAZIONE DELLE SPECIFICHE
-
-#### Art. 19
+### Art. 19
 
 Contenuto delle specifiche
 
@@ -204,7 +202,7 @@ d) il computo dei compensi indicati dagli articoli 28 e 31 quando competono;
 
 e) il calcolo degli onorari determinati in base ai criteri indicati dall'articolo 26.
 
-#### Art. 20
+### Art. 20
 
 Compensi che sono sempre dovuti al geometra
 
@@ -228,7 +226,7 @@ le eventuali percentuali d'aumento previste dalla tariffa.
 
 ## INDENNITA' E RIMBORSI
 
-#### Art. 21
+### Art. 21
 
 Spese da rimborsare
 
@@ -244,7 +242,7 @@ d) spese di bollo e registro, i diritti di uffici pubblici e privati, le spese p
 
 e) spese di scritturazione, traduzione, cancelleria, riproduzione di disegni eccedenti quelle per la copia spettante al committente giusta l'art. 13.
 
-#### Art. 22
+### Art. 22
 
 Le spese di viaggio in ferrovia sono rimborsate ai geometra e ai suoi collaboratori sulla base della tariffa di seconda classe nelle ferrovie dello Stato per percorsi fino a 100 chilometri; di prima classe nelle ferrovie dello Stato per i percorsi superiori a 100 chilometri, nei piroscafi e nelle ferrovie secondarie per qualunque percorso; e della classe immediatamente inferiore per il personale di aiuto.
 
@@ -252,19 +250,19 @@ Le spese di percorrenza su strade ordinarie con mezzi propri o noleggiati, sono 
 
 Per i percorsi non effettuabili con veicoli ordinari, spetta al geometra e ai collaboratori, oltre alle vacazioni di cui allo art. 31, una indennita' di lire 40 per ogni chilometro del percorso per l'andata e il ritorno.
 
-#### Art. 23
+### Art. 23
 
 Percentuale sulle spese
 
 Quando il committente non abbia anticipati i fondi per le spese a sensi dell'articolo 14, al geometra compete sull'ammontare di esse l'aumento del 10 per cento.
 
-#### Art. 24
+### Art. 24
 
 Diritti di copia
 
 Per il rilascio di copie di atti o disegni, oltre alle spese di scritturazione e riproduzione di cui alla lettera e) dell'articolo 21 spetta al geometra per diritto di collazione, un compenso in ragione del 15 per cento della spesa stessa. La percentuale e' raddoppiata se la richiesta delle copie avvenga dopo tre anni dalla consegna dell'elaborato.
 
-#### Art. 25
+### Art. 25
 
 Indennita' fisse e diritti
 
@@ -274,7 +272,7 @@ Per giuramento di perizia spetta al geometra un compenso di lire 600.
 
 ## CRITERI DI VALUTAZIONE DELL'ONORARIO.
 
-#### Art. 26
+### Art. 26
 
 Termine a cui si applicano le tariffe unitarie
 
@@ -292,17 +290,17 @@ Gli onorari spettanti al geometra debbono, di regola, essere valutati a misura o
 
 ## CAPO III - TARIFFA DEGLI ONORARI ONORARI A VACAZIONE
 
-#### Art. 27
+### Art. 27
 
 Prestazioni da computare in ragione del tempo
 
 Si valutano in ragione del tempo impiegato le prestazioni il cui risultato non puo' esprimersi in estensione o in valore o nelle quali il tempo concorra come elemento principali della prestazione.
 
-#### Art. 28
+### Art. 28
 
 E' sempre compensato a vacazioni il tempo impiegato nelle operazioni di campagna (vedi art. 31), nei viaggi di andata e ritorno (vedi art. 22) e quello trascorso per cause indipendenti dalla volonta' del geometra, anche quando le prestazioni vengano valutate a misura, a percentuale o a discrezione.
 
-#### Art. 29
+### Art. 29
 
 Sono computati a vacazioni, di regola e quando costituiscono l'oggetto principale delle prestazioni:
 
@@ -332,13 +330,13 @@ n) la direzione dei lavori di sistemazione, demolizione, sopraelevazione di fabb
 
 o) la direzione dei lavori quando richieda la presenza giornaliera e prolungata del direttore o del suo sostituto (vedi articoli 56 e 59).
 
-#### Art. 30
+### Art. 30
 
 Computo delle vacazioni
 
 Le prestazioni a vacazioni si computano in base al tempo effettivamente occorso. Per ogni periodo di un'ora o frazione si calcola una vacazione. Non si possono chiedere di regola meno di due e piu' di dieci vacazioni al giorno salvo i casi di urgenza o la esecuzione di lavori in ore notturne (vedi art. 33).
 
-#### Art. 31
+### Art. 31
 
 Onorario integrativo a vacazione
 
@@ -402,7 +400,7 @@ L. 43.500 per il geometra;
 
 L. 27.000 per gli aiutanti di concetto."
 
-#### Art. 32
+### Art. 32
 
 Onorari per lavori a vacazioni
 
@@ -450,7 +448,7 @@ AGGIORNAMENTO (9)
 
 Il Decreto 7 settembre 1988, n. 407, come modificato dal Decreto 6 dicembre 1993, n. 596, a sua volta modificato dal Decreto 3 settembre 1997, n. 418, ha disposto (con l'art. 1, comma 2) che i compensi a vacazione previsti dal primo comma del presente articolo sono stabiliti per ogni ora o frazione di ora, in ragione di L. 87.000 per il geometra e di L. 55.000 per gli aiutanti di concetto.
 
-#### Art. 33
+### Art. 33
 
 Lavori notturni e disagiati
 
@@ -470,25 +468,25 @@ AGGIORNAMENTO (3)
 
 La L. 7 ottobre 1957, n. 974, ha disposto (con l'art. 1, comma 1) che le aliquote di maggiorazione di cui al primo comma del presente articolo sono fissate in lire 430 per il geometra e in lire 250 per gli aiutanti; quelle del secondo comma in lire 500 per il geometra e lire 325 per gli aiutanti.
 
-#### Art. 34
+### Art. 34
 
 Rilievi sotterranei o in acqua
 
 Per i rilievi e tracciamenti sotterranei (gallerie, miniera, fogne, ecc.) o in acqua, le vacazioni di cui agli articoli 31 e 32 sono aumentate dal 60 per cento all'80 per cento e in casi eccezionali fino al 100 per cento. Tale aumento e' cumulabile con quello stabilito dall'art. 33 per lavori in ore notturne.
 
-#### Art. 35
+### Art. 35
 
 Teleferiche e funivie
 
 Per rilievi e tracciamenti di teleferiche, funivie e simili le vacazioni di cui agli articoli 31 e 32 sono aumentate dal 50 per cento all'80 per cento e nei casi di eccezionale difficolta' fino al 100 per cento. Tale aumento e' cumulabile con quello stabilito dall'art. 33 per lavori in ore notturne.
 
-#### Art. 36
+### Art. 36
 
 Conferenze
 
 Per consultazioni verbali, l'onorario minimo e' di lire 200.
 
-#### Art. 37
+### Art. 37
 
 Tipi di frazionamento
 
@@ -496,13 +494,13 @@ Per i tipi di frazionamento all'onorario a vacazioni di cui alla lettera f) dell
 
 ## ONORARI A MISURA
 
-#### Art. 38
+### Art. 38
 
 Prestazioni da valutare a misura
 
 Agli onorari a misura vanno sempre aggiunti il compenso Integrativo di cui agli articoli 28 e 31 e i rimborsi di cui agli articoli 21 al 25.
 
-#### Art. 39
+### Art. 39
 
 Sono valutati in ragione della estensione gli onorari relativi alle seguenti prestazioni:
 
@@ -514,7 +512,7 @@ c) consegne e riconsegne dei beni rustici per estensioni di oltre cinque ettari,
 
 ## LAVORI TOPOGRAFICI
 
-#### Art. 40
+### Art. 40
 
 Rilievi topografici
 
@@ -548,7 +546,7 @@ Quando il calcolo delle superfici e' fatto con mezzi grafici o meccanici il comp
 
 Per terreni di natura o giacitura varia si applicano alle singole parti del rilievo le corrispondenti voci della tabella.
 
-#### Art. 41
+### Art. 41
 
 Triangolazioni e poligonazioni
 
@@ -556,7 +554,7 @@ Le triangolazioni secondarie a lati rettilinei e le poligonazioni si valutano a 
 
 Le poligonazioni si valutano a vacazione o in ragione di lire 400 per ogni stazione, oltre ai suddetti compensi.
 
-#### Art. 42
+### Art. 42
 
 Rilievi di strade e canali
 
@@ -570,7 +568,7 @@ un compenso proporzionale da lire 200 a lire 400;
 
 per profili longitudinali, un compenso variabile da lire 200 a lire 400 l'ettometro, a seconda che si operi in pianura, collina, montagna.
 
-#### Art. 43
+### Art. 43
 
 Misura dei fondi rustici
 
@@ -592,7 +590,7 @@ Se oltre alla rappresentazione dei perimetri e' richiesta la indicazione grafica
 
 Le operazioni accessorie (pratiche o ricerche catastali, aggiornamenti, verifiche e rettifiche di confini, relazioni, ecc.) si compensano a parte a vacazioni.
 
-#### Art. 44
+### Art. 44
 
 Rilievi dei centri abitati
 
@@ -600,7 +598,7 @@ Il rilievo dei centri abitati con la indicazione dei perimetri dei fabbricati, d
 
 Il rilievo altimetrico dei centri abitati si valuta in ragione del 25 per cento dei compensi suddetti tanto se eseguito unitamente a quello planimetrico, quanto separatamente.
 
-#### Art. 45
+### Art. 45
 
 Rilievo di fabbricati e delle aree fabbricabili
 
@@ -608,7 +606,7 @@ I rilievi delle piante e sezioni dei fabbricati e delle aree fabbricabili sono c
 
 Sono a carico del committente i ponteggi e gli altri mezzi eccezionali per il rilevamento. Nei rilievi di aree fabbricabili di alto valore, richiedenti la massima approssimazione, ai compensi suddetti puo' essere aggiunto un aumento discrezionale in relazione al valore dal terreno.
 
-#### Art. 46
+### Art. 46
 
 Lottizzazioni
 
@@ -616,7 +614,7 @@ In casi di lottizzazioni, gli onorari di cui alla lettera a) della tabella D pos
 
 ## CONSEGNE, RICONSEGNE Dl FONDI RUSTICI
 
-#### Art. 47
+### Art. 47
 
 Consegne, riconsegne, inventari, bilancio
 
@@ -634,7 +632,7 @@ Quando invece siano impostate ex novo, i compensi potranno essere aumentati del 
 
 ## ONORARI A PERCENTUALE - OPERAZIONI DI ESTIMO
 
-#### Art. 48
+### Art. 48
 
 Stima dei fondi rustici e delle aree fabbricabili
 
@@ -660,7 +658,7 @@ Quando la stima comprende diversi fondi valutati separatamente, le percentuali d
 
 I rilievi e gli aggiornamenti delle piante, le verifiche di confini, gli accertamenti di censi, livelli, legati, usufrutti, ecc. connessi alle operazioni di stima, devono essere compensati a parte in base alle relative voci della tariffa.
 
-#### Art. 49
+### Art. 49
 
 Misura e stima delle scorte morte, della legna e piante
 
@@ -694,7 +692,7 @@ Per i valori intermedi il compenso e' determinato per interpolazione lineare.
 
 Le mercedi degli operai per sondaggi, tagli, formazione degli ammassi e cumuli sono a carico del committente.
 
-#### Art. 50
+### Art. 50
 
 Stima dei danni prodotti dall'incendio
 
@@ -728,7 +726,7 @@ Per i valori intermedi il compenso e' determinato per interpolazione lineare.
 
 I suddetti compensi sono comprensivi dell'aumento previsto dell'articolo 16 per i contradittori.
 
-#### Art. 51
+### Art. 51
 
 Stime, inventari e consegne di fabbricati
 
@@ -750,7 +748,7 @@ Per le stime che richiedono diverse e separate valutazioni riflettenti parti del
 
 Gli inventari e le consegne dei fabbricati, quando non si tratti di fabbricati rurali facenti parte della consegna del fondo, si valutano a vacazioni.
 
-#### Art. 52
+### Art. 52
 
 Divisione patrimoniale
 
@@ -760,7 +758,7 @@ La formazione delle quote eseguite su stime e tipi compilati dallo stesso perito
 
 Si compensano a parte, a base di tariffa, le prestazioni accessorie per frazionamenti, verifiche di confini, ricerche catastali, misurazioni, computi metrici e di superficie, produzione di documenti, consultazioni, redazione del progetto divisionale, assistenza all'atto notarile, ecc.
 
-#### Art. 53
+### Art. 53
 
 Stime per espropriazione
 
@@ -768,7 +766,7 @@ Nelle stime per espropriazioni l'onorario e' determinato in base alle tabelle F 
 
 Si compensano a parte, a base di tariffa, le prestazioni accessorie per frazionamenti, verifiche di confini, ricerche catastali e simili.
 
-#### Art. 54
+### Art. 54
 
 Perizie per affitti di fondi rustici e urbani
 
@@ -794,13 +792,13 @@ Per valori intermedi l'onorario si determina per interpolazione lineare.
 
 ## COSTRUZIONI CIVILI, STRADALI E IDRAULICHE.
 
-#### Art. 55
+### Art. 55
 
 Importo a cui si applica l'onorario
 
 La percentuale degli onorari per la progettazione, direzione e liquidazione di costruzioni si applica all'importo risultante dal progetto lordo da ribassi e detrazioni, se l'incarico si limiti al progetto; all'importo lordo della liquidazione dei conti dei lavori di appalto e delle forniture, aumentate degli eventuali importi suppletivi accordati in sede di collaudo, e senza le eventuali detrazioni fatte dal direttore dei lavori o dal collaudatore, quando le prestazioni comprendono lo svolgimento integrale dell'opera commessa.
 
-#### Art. 56
+### Art. 56
 
 Prestazioni nelle costruzioni
 
@@ -816,7 +814,7 @@ Direzione dei lavori: consegna e sorveglianza dei lavori mediante visite periodi
 
 Liquidazione dei lavori: contabilita' tecnica, verifica delle misure e forniture; liquidazione del conto finale. Le controdeduzioni alle riserve dell'impresa devono essere compensate a parte discrezionalmente.
 
-#### Art. 57
+### Art. 57
 
 Classifica delle costruzioni
 
@@ -854,7 +852,7 @@ M) Bonifiche idrauliche e irrigazioni con sollevamento meccanico di acqua con im
 
 N) Progetti di bonifica agraria.
 
-#### Art. 58
+### Art. 58
 
 Onorari per le costruzioni
 
@@ -866,7 +864,7 @@ Oltre ai suddetti onorari spettano sempre al geometra i rimborsi e i compensi on
 
 Gli onorari suddetti sono dovuti integralmente quando il geometra adempie all'incarico e lo svolge dalla fase iniziale (progetto di massima) al suo compimento (liquidazione), anche se sia stata omessa qualcuna delle operazioni indicate nell'art. 56, purche' non rappresenti un valore superiore a 0,20 nella tabella I.
 
-#### Art. 59
+### Art. 59
 
 Prestazioni parziali - Aggiornamento di progetti
 
@@ -880,7 +878,7 @@ L'aliquota per la direzione dei lavori, salvo quanto e' disposto dall'art. 29. l
 
 ## ONORARI A DISCREZIONE
 
-#### Art. 60
+### Art. 60
 
 Prestazioni da valutare a discrezione
 
@@ -910,11 +908,11 @@ i) operazioni di collaudo, prove, assaggi;
 
 l) operazioni non previste dalla presente tariffa, ma che rientrano nel campo di attivita' propria del geometra.
 
-#### Art. 61
+### Art. 61
 
 Quando alle prestazioni da valutarsi discrezionalmente siano connesse operazioni contemplate dalla presente tariffa fra quelle da valutarsi a tempo, a misura o a percentuale, il compenso discrezionale e' integrato dai compensi risultanti dall'applicazione della tariffa per le operazioni sussidiarie suddette.
 
-#### Art. 62
+### Art. 62
 
 Stima dei danni della grandine e dell'incendio di scorte
 
@@ -926,13 +924,13 @@ Gli onorari per la stima dei danni colonici si valutano analogamente con un mini
 
 ## PRESTAZIONI VARIE
 
-#### Art. 63
+### Art. 63
 
 Stima delle acque irrigue
 
 Nella stima delle acque irrigue, l'onorario puo' essere stabilito, secondo la importanza e le difficolta', a vacazioni o a discrezione, fermi i rimborsi e i compensi orari di cui agli articoli 21 a 25, 28 e 31.
 
-#### Art. 64
+### Art. 64
 
 Funzioni contabili e amministrative di case e beni rustici
 
@@ -950,7 +948,7 @@ Quando, con l'amministrazione delle aziende rurali, si richieda anche la tenuta 
 
 Quando, per cause estranee all'andamento dell'amministrazione immobiliare (danni, riduzioni dei prezzi, ecc.), il reddito subisca forti contrazioni, l'onorario e' determinato in base al reddito medio dell'ultimo triennio.
 
-#### Art. 65
+### Art. 65
 
 Prestazioni per compravendite, affitti e colonie parziarie
 
@@ -988,7 +986,7 @@ Importi Compravendite Affitti - - -
 
 Fino a L. 5.000.000 2.72% 2.04% L. 50.000.000 2.57% 1.90% L. 100.000.000 2.40% 1.75% L. 200.000.000 e oltre 2.05% 1.45% "
 
-#### Tabelle
+### Tabelle
 
 TABELLA A2
 

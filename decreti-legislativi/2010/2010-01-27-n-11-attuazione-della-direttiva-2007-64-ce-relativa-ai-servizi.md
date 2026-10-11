@@ -44,7 +44,7 @@ EMANA il seguente decreto legislativo:
 
 ## TITOLO I - Definizioni e ambito di applicazione
 
-#### Art. 1 - Definizioni
+##### Art. 1 - Definizioni
 
 1\. Nel presente decreto legislativo si intendono per:
 
@@ -142,7 +142,7 @@ cc) "ABE": indica l'Autorita' Bancaria Europea)).
 
 ((2. Al Titolo IV-bis del presente decreto attuativo del Regolamento (UE) n. 751/2015 del Parlamento europeo e del Consiglio, del 29 aprile 2015 si applicano le definizioni contenute nel Regolamento stesso.))
 
-#### Art. 2 - Ambito di applicazione
+##### Art. 2 - Ambito di applicazione
 
 1\. Il presente decreto si applica ai servizi di pagamento prestati nel territorio della Repubblica.
 
@@ -210,7 +210,7 @@ c) le microimprese sono equiparate ai consumatori; tuttavia, le parti possono co
 
 ### CAPO I - SPESE E DEROGHE
 
-#### Art. 3 - Spese applicabili
+##### Art. 3 - Spese applicabili
 
 1\. Il prestatore di servizi di pagamento non puo' addebitare all'((utente)) dei servizi di pagamento le spese sostenute per ((l'adempimento dei propri obblighi di informazione o per)) l'adozione di misure correttive e preventive ai sensi del presente Titolo, salvo quanto previsto negli articoli 16, comma 4, 17, comma 5, e 24, comma 2. Quando applicabili, le spese sono concordate tra l'((utente)) e il prestatore di servizi di pagamento in modo da risultare adeguate e coerenti con i costi effettivamente sostenuti da quest'ultimo.
 
@@ -224,7 +224,7 @@ c) le microimprese sono equiparate ai consumatori; tuttavia, le parti possono co
 
 4-ter. La Banca d'Italia e l'Autorita' garante della concorrenza e del mercato collaborano tra loro, anche mediante scambio di informazioni, al fine di agevolare le rispettive funzioni. Dette autorita' non possono reciprocamente opporsi il segreto d'ufficio.)) 5. Le disposizioni del presente articolo non producono effetti sul pagamento di eventuali spese concordate tra prestatori di servizi di pagamento o soggetti di cui essi si avvalgono.
 
-#### Art. 4 - Deroga per gli strumenti di pagamento di basso valore e moneta elettronica
+##### Art. 4 - Deroga per gli strumenti di pagamento di basso valore e moneta elettronica
 
 1\. Nel caso di strumenti di pagamento che conformemente al contratto quadro consentono esclusivamente singole operazioni di pagamento di importo non superiore a 30 euro o che presentano un limite di spesa complessivo di 150 euro o che sono avvalorati per un importo che in nessun momento supera i 150 euro, le parti del contratto quadro possono convenire che:
 
@@ -244,9 +244,9 @@ e) si applicano altri termini di esecuzione, in deroga agli articoli 20 e 21.
 
 4\. La Banca d'Italia, in attuazione delle misure adottate dalla Commissione europea, puo' disporre l'applicazione di limiti di importo diversi da quelli previsti dai commi 1, 2 e 3.
 
-## CAPO II - AUTORIZZAZIONE DI OPERAZIONI DI PAGAMENTO
+### CAPO II - AUTORIZZAZIONE DI OPERAZIONI DI PAGAMENTO
 
-#### Art. 5 - Consenso e revoca del consenso
+##### Art. 5 - Consenso e revoca del consenso
 
 1\. Il consenso del pagatore e' un elemento necessario per la corretta esecuzione di un'operazione di pagamento. In assenza del consenso, un'operazione di pagamento non puo' considerarsi autorizzata.
 
@@ -256,7 +256,7 @@ e) si applicano altri termini di esecuzione, in deroga agli articoli 20 e 21.
 
 4\. ((Il consenso ad eseguire un'operazione di pagamento o una serie di operazioni di pagamento puo' essere revocato in qualsiasi momento, nella forma e secondo la procedura concordata nel contratto quadro o nel contratto relativo a singole operazioni di pagamento, purche' cio' avvenga prima che l'ordine di pagamento diventi irrevocabile ai sensi dell'articolo 17. Le operazioni di pagamento eseguite dopo la revoca non sono considerate autorizzate.)).
 
-#### Art. 5-bis
+##### Art. 5-bis
 
 (( (Conferma della disponibilita' di fondi). ))
 
@@ -288,7 +288,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 15 dicembre 2017, n. 218 ha disposto (con l'art. 5, comma 6) che "Le misure di sicurezza di cui agli articoli 5-bis, commi 1, 2 e 3, 5-ter, 5-quater e 10-bis del decreto legislativo 27 gennaio 2010, n. 11, si applicano decorsi diciotto mesi dalla data di entrata in vigore delle norme tecniche di regolamentazione di cui all'articolo 98 della direttiva (UE) n. 2015/2366. A decorrere dalla medesima data, in deroga al comma 2, si applicano le sanzioni previste dall'articolo 2, comma 36, lettera a), del presente decreto per l'inosservanza degli articoli 5-bis, commi 1, 2 e 3, 5-ter, 5-quater e 10-bis del decreto legislativo 27 gennaio 2010, n. 11".
 
-#### Art. 5-ter
+##### Art. 5-ter
 
 (( (Disposizioni per l'accesso ai conti di pagamento in caso di servizi di disposizione di ordine di pagamento). ))
 
@@ -326,7 +326,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 15 dicembre 2017, n. 218 ha disposto (con l'art. 5, comma 6) che "Le misure di sicurezza di cui agli articoli 5-bis, commi 1, 2 e 3, 5-ter, 5-quater e 10-bis del decreto legislativo 27 gennaio 2010, n. 11, si applicano decorsi diciotto mesi dalla data di entrata in vigore delle norme tecniche di regolamentazione di cui all'articolo 98 della direttiva (UE) n. 2015/2366. A decorrere dalla medesima data, in deroga al comma 2, si applicano le sanzioni previste dall'articolo 2, comma 36, lettera a), del presente decreto per l'inosservanza degli articoli 5-bis, commi 1, 2 e 3, 5-ter, 5-quater e 10-bis del decreto legislativo 27 gennaio 2010, n. 11".
 
-#### Art. 5-quater
+##### Art. 5-quater
 
 (( (Disposizioni per l'accesso alle informazioni sui conti di pagamento e all'utilizzo delle stesse in caso di servizi di informazioni sui conti). ))
 
@@ -358,7 +358,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 15 dicembre 2017, n. 218 ha disposto (con l'art. 5, comma 6) che "Le misure di sicurezza di cui agli articoli 5-bis, commi 1, 2 e 3, 5-ter, 5-quater e 10-bis del decreto legislativo 27 gennaio 2010, n. 11, si applicano decorsi diciotto mesi dalla data di entrata in vigore delle norme tecniche di regolamentazione di cui all'articolo 98 della direttiva (UE) n. 2015/2366. A decorrere dalla medesima data, in deroga al comma 2, si applicano le sanzioni previste dall'articolo 2, comma 36, lettera a), del presente decreto per l'inosservanza degli articoli 5-bis, commi 1, 2 e 3, 5-ter, 5-quater e 10-bis del decreto legislativo 27 gennaio 2010, n. 11".
 
-#### Art. 6
+##### Art. 6
 
 (( (Limiti all'utilizzo degli strumenti di pagamento) ))
 
@@ -376,7 +376,7 @@ c) nel caso in cui lo strumento preveda la concessione di una linea di credito p
 
 4\. Al venir meno delle ragioni che hanno portato al blocco dello strumento di pagamento, il prestatore di servizi di pagamento provvede a riattivare lo strumento o ad emetterne uno nuovo in sostituzione di quello precedentemente bloccato.
 
-#### Art. 6-bis
+##### Art. 6-bis
 
 (( (Limiti all'accesso ai conti di pagamento da parte dei prestatori di servizi di pagamento) ))
 
@@ -386,7 +386,7 @@ c) nel caso in cui lo strumento preveda la concessione di una linea di credito p
 
 3\. In ogni caso il prestatore di servizi di pagamento di radicamento del conto deve rifiutare senza indugio l'accesso al conto di pagamento a un prestatore di servizi di informazione sui conti o a un prestatore di servizi di disposizione di ordine di pagamento se riceve dall'utente la revoca del consenso alla prestazione di tali servizi. Il prestatore dei servizi di pagamento di radicamento del conto informa immediatamente della revoca il prestatore di servizi di disposizione di ordine di pagamento e il prestatore di servizi di informazione sui conti.))
 
-#### Art. 6-ter
+##### Art. 6-ter
 
 (( (Notifica dei dati relativi alle frodi) ))
 
@@ -396,7 +396,7 @@ c) nel caso in cui lo strumento preveda la concessione di una linea di credito p
 
 3\. La Banca d'Italia trasmette in forma aggregata i dati ricevuti ai sensi dei commi precedenti all'ABE e alla BCE.))
 
-#### Art. 7
+##### Art. 7
 
 (( (Obblighi a carico dell'utente dei servizi di pagamento in relazione agli strumenti di pagamento e alle credenziali di sicurezza personalizzate) ))
 
@@ -408,7 +408,7 @@ b) comunicare senza indugio, secondo le modalita' previste nel contratto quadro,
 
 ((2. Ai fini di cui al comma 1, lettera a), l'utente, non appena riceve uno strumento di pagamento, adotta tutte le ragionevoli misure idonee a proteggere le credenziali di sicurezza personalizzate.))
 
-#### Art. 8 - Obblighi a carico del prestatore di servizi di pagamento in relazione agli strumenti di pagamento
+##### Art. 8 - Obblighi a carico del prestatore di servizi di pagamento in relazione agli strumenti di pagamento
 
 1\. Il prestatore di servizi di pagamento che emette uno strumento di pagamento ha l'obbligo di:
 
@@ -424,7 +424,7 @@ d) impedire qualsiasi utilizzo dello strumento di pagamento successivo alla comu
 
 ((2. I rischi derivanti dalla spedizione di uno strumento di pagamento o delle relative credenziali di sicurezza personalizzate sono a carico del prestatore di servizi di pagamento.))
 
-#### Art. 9
+##### Art. 9
 
 ((Notifica e rettifica di operazioni non autorizzate o non correttamente eseguite))
 
@@ -436,7 +436,7 @@ d) impedire qualsiasi utilizzo dello strumento di pagamento successivo alla comu
 
 ((3. Un'operazione di pagamento si intende non eseguita correttamente quando l'esecuzione non e' conforme all'ordine o alle istruzioni impartite dall'utente al proprio prestatore di servizi di pagamento.))
 
-#### Art. 10 - Prova di autenticazione ed esecuzione delle operazioni di pagamento
+##### Art. 10 - Prova di autenticazione ed esecuzione delle operazioni di pagamento
 
 1\. Qualora l'((utente)) di servizi di pagamento neghi di aver autorizzato un'operazione di pagamento gia' eseguita o sostenga che questa non sia stata correttamente eseguita, e' onere del prestatore di servizi di pagamento provare che l'operazione di pagamento e' stata autenticata, correttamente registrata e contabilizzata e che non ha subito le conseguenze del malfunzionamento delle procedure necessarie per la sua esecuzione o di altri inconvenienti.
 
@@ -444,7 +444,7 @@ d) impedire qualsiasi utilizzo dello strumento di pagamento successivo alla comu
 
 ((2. Quando l'utente di servizi di pagamento neghi di aver autorizzato un'operazione di pagamento eseguita, l'utilizzo di uno strumento di pagamento registrato dal prestatore di servizi di pagamento, compreso, se del caso, il prestatore di servizi di disposizione di ordine di pagamento, non e' di per se' necessariamente sufficiente a dimostrare che l'operazione sia stata autorizzata dall'utente medesimo, ne' che questi abbia agito in modo fraudolento o non abbia adempiuto con dolo o colpa grave a uno o piu' degli obblighi di cui all'articolo 7. E' onere del prestatore di servizi di pagamento, compreso, se del caso, il prestatore di servizi di disposizione di ordine di pagamento, fornire la prova della frode, del dolo o della colpa grave dell'utente.))
 
-#### Art. 10-bis - ((Autenticazione e misure di sicurezza)).
+##### Art. 10-bis - ((Autenticazione e misure di sicurezza)).
 
 (( 1. Conformemente all'articolo 98 della direttiva (UE) 2015/2366 e alle relative norme tecniche di regolamentazione adottate dalla Commissione europea, i prestatori di servizi di pagamento applicano l'autenticazione forte del cliente quando l'utente:
 
@@ -470,7 +470,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 15 dicembre 2017, n. 218, ha disposto (con l'art.5, comma 6) che "Le misure di sicurezza di cui agli articoli 5-bis, commi 1, 2 e 3, 5-ter, 5-quater e 10-bis del decreto legislativo 27 gennaio 2010, n. 11, si applicano decorsi diciotto mesi dalla data di entrata in vigore delle norme tecniche di regolamentazione di cui all'articolo 98 della direttiva (UE) n. 2015/2366. A decorrere dalla medesima data, in deroga al comma 2, si applicano le sanzioni previste dall'articolo 2, comma 36, lettera a), del presente decreto per l'inosservanza degli articoli 5-bis, commi 1, 2 e 3, 5-ter, 5-quater e 10-bis del decreto legislativo 27 gennaio 2010, n. 11".
 
-#### Art. 11 - Responsabilita' del prestatore di servizi di pagamento per le operazioni di pagamento non autorizzate
+##### Art. 11 - Responsabilita' del prestatore di servizi di pagamento per le operazioni di pagamento non autorizzate
 
 ((1. Fatto salvo l'articolo 9, nel caso in cui sia stata eseguita un'operazione di pagamento non autorizzata, il prestatore di servizi di pagamento rimborsa al pagatore l'importo dell'operazione medesima immediatamente e in ogni caso al piu' tardi entro la fine della giornata operativa successiva a quella in cui prende atto dell'operazione o riceve una comunicazione in merito. Ove per l'esecuzione dell'operazione sia stato addebitato un conto di pagamento, il prestatore di servizi di pagamento riporta il conto nello stato in cui si sarebbe trovato se l'operazione di pagamento non avesse avuto luogo, assicurando che la data valuta dell'accredito non sia successiva a quella dell'addebito dell'importo.))
 
@@ -482,7 +482,7 @@ Il D.Lgs. 15 dicembre 2017, n. 218, ha disposto (con l'art.5, comma 6) che "Le m
 
 4\. Il risarcimento di danni ulteriori subiti puo' essere previsto in conformita' alla disciplina applicabile al contratto stipulato tra l'((utente)) e il prestatore di servizi di pagamento ((compreso, se del caso, il prestatore di servizi di disposizione di ordine di pagamento)).
 
-#### Art. 12 - Responsabilita' del pagatore per l'utilizzo non autorizzato di strumenti o servizi di pagamento
+##### Art. 12 - Responsabilita' del pagatore per l'utilizzo non autorizzato di strumenti o servizi di pagamento
 
 1\. Salvo il caso in cui abbia agito in modo fraudolento, l'((utente)) non sopporta alcuna perdita derivante dall'utilizzo di uno strumento di pagamento smarrito, sottratto o utilizzato indebitamente intervenuto dopo la comunicazione eseguita ai sensi dell'articolo 7, comma 1, lettera b).
 
@@ -498,7 +498,7 @@ Il D.Lgs. 15 dicembre 2017, n. 218, ha disposto (con l'art.5, comma 6) che "Le m
 
 5\. ((COMMA ABROGATO DAL D.LGS. 15 DICEMBRE 2017, N. 218)).
 
-#### Art. 12-bis
+##### Art. 12-bis
 
 (( (Operazioni di pagamento il cui importo non sia noto in anticipo).))
 
@@ -506,7 +506,7 @@ Il D.Lgs. 15 dicembre 2017, n. 218, ha disposto (con l'art.5, comma 6) che "Le m
 
 2\. Il prestatore di servizi di pagamento del pagatore sblocca senza indugio i fondi bloccati ai sensi del comma precedente nel momento della ricezione delle informazioni concernenti l'esatto importo dell'operazione di pagamento e, al piu' tardi, dopo la ricezione dell'ordine di pagamento.))
 
-#### Art. 13 - Rimborsi per operazioni di pagamento ((autorizzate)) disposte dal beneficiario o per il suo tramite
+##### Art. 13 - Rimborsi per operazioni di pagamento ((autorizzate)) disposte dal beneficiario o per il suo tramite
 
 1\. Nel caso in cui un'operazione di pagamento autorizzata disposta su iniziativa del beneficiario o per il suo tramite sia gia' stata eseguita, il pagatore ha diritto al rimborso dell'importo trasferito qualora siano soddisfatte entrambe le seguenti condizioni:
 
@@ -526,7 +526,7 @@ a) il pagatore ha dato l'autorizzazione direttamente al proprio prestatore di se
 
 b) ove possibile, le informazioni sulla futura operazione di pagamento, limitatamente al caso in cui l'autorizzazione del pagatore e' stata data prima dell'esecuzione dell'operazione di pagamento, sono state fornite o messe a disposizione del pagatore dal prestatore di servizi di pagamento o dal beneficiario almeno quattro settimane prima della sua esecuzione, secondo quanto concordato nel contratto quadro.
 
-#### Art. 14 - Richieste di rimborso per operazioni di pagamento ((autorizzate)) disposte dal beneficiario o per il suo tramite
+##### Art. 14 - Richieste di rimborso per operazioni di pagamento ((autorizzate)) disposte dal beneficiario o per il suo tramite
 
 1\. Il pagatore puo' chiedere il rimborso di cui all'articolo 13 entro otto settimane dalla data in cui i fondi sono stati addebitati.
 
@@ -534,17 +534,17 @@ b) ove possibile, le informazioni sulla futura operazione di pagamento, limitata
 
 ((3. Il diritto del prestatore di servizi di pagamento di rifiutare il rimborso di cui al comma 2 non si applica nel caso di cui all'articolo 13, comma 3-bis.))
 
-## CAPO III - ESECUZIONE DI UN'OPERAZIONE DI PAGAMENTO
+### CAPO III - ESECUZIONE DI UN'OPERAZIONE DI PAGAMENTO
 
-### SEZIONE I - ORDINI DI PAGAMENTO E IMPORTI TRASFERITI
+#### SEZIONE I - ORDINI DI PAGAMENTO E IMPORTI TRASFERITI
 
-#### Art. 15 - Ricezione degli ordini di pagamento
+##### Art. 15 - Ricezione degli ordini di pagamento
 
 1\. Il momento della ricezione di un ordine di pagamento e' quello in cui l'ordine ((...)) e' ricevuto dal prestatore di servizi di pagamento di cui si avvale il pagatore. ((Prima di tale momento, il conto di pagamento del pagatore non puo' essere addebitato.)) Se il momento della ricezione non ricorre in una giornata operativa per il prestatore di servizi di pagamento di cui si avvale il pagatore, l'ordine di pagamento si intende ricevuto la giornata operativa successiva. Il prestatore di servizi di pagamento puo' stabilire un limite, fissato in prossimita' della fine della giornata operativa avuto anche riguardo alle modalita' di trasmissione dell'ordine di pagamento, oltre il quale gli ordini di pagamento ricevuti si considerano ricevuti la giornata operativa successiva.
 
 2\. Se l'((utente)) e il prestatore di servizi di pagamento di cui egli si avvale concordano che l'esecuzione dell'ordine di pagamento sia avviata in un giorno determinato o alla fine di un determinato periodo o il giorno in cui il pagatore ha messo i fondi a disposizione del prestatore di servizi di pagamento, il momento della ricezione coincide con il giorno convenuto. Ove il giorno convenuto non sia una giornata operativa per il prestatore di servizi di pagamento, l'ordine si intende ricevuto la giornata operativa successiva.
 
-#### Art. 16 - Rifiuto degli ordini di pagamento
+##### Art. 16 - Rifiuto degli ordini di pagamento
 
 1.((COMMA ABROGATO DAL D.LGS. 15 DICEMBRE 2017, N. 218)).
 
@@ -558,7 +558,7 @@ b) ove possibile, le informazioni sulla futura operazione di pagamento, limitata
 
 5\. Ai fini di quanto previsto dagli articoli 20 e 25, un ordine di pagamento di cui sia stata rifiutata l'esecuzione per motivi obiettivamente giustificati non e' considerato ricevuto.
 
-#### Art. 17 - Irrevocabilita' di un ordine di pagamento
+##### Art. 17 - Irrevocabilita' di un ordine di pagamento
 
 1\. ((Fatte salve le disposizioni di cui al presente articolo, una volta ricevuto dal prestatore di servizi di pagamento del pagatore, l'ordine di pagamento non puo' essere revocato dall'utente.))
 
@@ -576,7 +576,7 @@ b) ove possibile, le informazioni sulla futura operazione di pagamento, limitata
 
 8\. Nell'ambito di un contratto quadro, il consenso ad eseguire un'operazione di pagamento puo' essere revocato nella forma e secondo la procedura concordata tra l'((utente)) e il prestatore di servizi di pagamento nel contratto medesimo.
 
-#### Art. 18 - Importi trasferiti e importi ricevuti
+##### Art. 18 - Importi trasferiti e importi ricevuti
 
 1\. I prestatori di servizi di pagamento ((ed eventuali loro intermediari)) che partecipano al trasferimento di fondi necessario all'esecuzione di un'operazione di pagamento trasferiscono la totalita' dell'importo dell'operazione e non trattengono spese sull'importo trasferito.
 
@@ -584,9 +584,9 @@ b) ove possibile, le informazioni sulla futura operazione di pagamento, limitata
 
 3\. Qualora dall'importo trasferito siano trattenute spese diverse da quelle ((di cui al comma precedente)), il prestatore di servizi di pagamento del pagatore garantisce che il beneficiario riceva la totalita' dell'importo dell'operazione di pagamento disposta dal pagatore. Quando l'operazione di pagamento e' disposta su iniziativa del beneficiario o per il suo tramite, il prestatore di servizi di pagamento di cui egli si avvale garantisce che la totalita' dell'importo dell'operazione sia ricevuto dal beneficiario.
 
-## SEZIONE II - TEMPI DI ESECUZIONE E DATA VALUTA
+#### SEZIONE II - TEMPI DI ESECUZIONE E DATA VALUTA
 
-#### Art. 19 - Ambito di applicazione
+##### Art. 19 - Ambito di applicazione
 
 1\. La presente sezione si applica:
 
@@ -596,7 +596,7 @@ b) alle operazioni di pagamento transfrontaliere che comportano un'unica convers
 
 ((2. La presente sezione e' applicabile anche ad operazioni di pagamento diverse da quelle di cui al comma 1, a meno che non sia diversamente convenuto dall'utente e dal prestatore di servizi di pagamento. Resta comunque ferma l'applicazione dell'articolo 23, che non puo' essere oggetto di deroga contrattuale. Per le operazioni di pagamento effettuate nel territorio dell'Unione europea, quando le parti di un contratto di pagamento convengono un termine massimo di esecuzione superiore a quello di cui all'articolo 20, tale termine non puo' essere superiore a quattro giornate operative dal momento della ricezione dell'ordine di pagamento.))
 
-#### Art. 20 - Operazioni di pagamento su un conto di pagamento
+##### Art. 20 - Operazioni di pagamento su un conto di pagamento
 
 ((1. Il prestatore di servizi di pagamento del pagatore assicura che dal momento della ricezione dell'ordine di pagamento l'importo dell'operazione venga accreditato sul conto del prestatore di servizi di pagamento del beneficiario entro la fine della giornata operativa successiva. Se convenuto tra le parti, per le operazioni di pagamento disposte su supporto cartaceo, tale termine massimo puo' essere prorogato di una ulteriore giornata operativa.))
 
@@ -606,15 +606,15 @@ b) alle operazioni di pagamento transfrontaliere che comportano un'unica convers
 
 Nel caso degli addebiti diretti, l'ordine viene trasmesso entro limiti di tempo che consentano il regolamento dell'operazione alla data di scadenza convenuta.
 
-#### Art. 21 - Mancanza di un conto di pagamento dei beneficiari presso il prestatore di servizi di pagamento
+##### Art. 21 - Mancanza di un conto di pagamento dei beneficiari presso il prestatore di servizi di pagamento
 
 1\. Se il beneficiario non dispone di un conto di pagamento presso il prestatore di servizi di pagamento che riceve i fondi, quest'ultimo mette i fondi ricevuti a disposizione del beneficiario entro il termine specificato ai sensi dell'articolo ((23, comma 2)).
 
-#### Art. 22 - Depositi versati in un conto di pagamento
+##### Art. 22 - Depositi versati in un conto di pagamento
 
 1\. Quando un ((consumatore)) versa ((contanti)) su un conto di pagamento nella valuta in cui il conto e' denominato, il prestatore di servizi di pagamento applica la data di ricezione dei fondi quale data valuta e rende disponibili i fondi immediatamente dopo la ricezione. Se l'((utente)) non e' un consumatore, l'importo e' reso disponibile e la valuta datata al piu' tardi la giornata operativa successiva alla ricezione dei fondi.
 
-#### Art. 23 - Data valuta e disponibilita' dei fondi
+##### Art. 23 - Data valuta e disponibilita' dei fondi
 
 1\. La data valuta dell'accredito sul conto di pagamento del beneficiario non puo' essere successiva alla giornata operativa in cui l'importo dell'operazione di pagamento viene accreditato sul conto del prestatore di servizi di pagamento del beneficiario.
 
@@ -622,9 +622,9 @@ Nel caso degli addebiti diretti, l'ordine viene trasmesso entro limiti di tempo 
 
 4\. ((COMMA ABROGATO DAL D.LGS. 15 DICEMBRE 2017, N. 218)).
 
-## SEZIONE III - RESPONSABILITA'
+#### SEZIONE III - RESPONSABILITA'
 
-#### Art. 24 - Identificativi unici inesatti
+##### Art. 24 - Identificativi unici inesatti
 
 1\. Se un ordine di pagamento e' eseguito conformemente all'identificativo unico, esso si ritiene eseguito correttamente per quanto concerne il beneficiario e/o il conto indicato dall'identificativo unico.
 
@@ -632,7 +632,7 @@ Nel caso degli addebiti diretti, l'ordine viene trasmesso entro limiti di tempo 
 
 3\. Il prestatore di servizi di pagamento e' responsabile solo dell'esecuzione dell'operazione di pagamento in conformita' con l'identificativo unico fornito dall'((utente)) anche qualora quest'ultimo abbia fornito al suo prestatore di servizi di pagamento informazioni ulteriori rispetto all'identificativo unico.
 
-#### Art. 25
+##### Art. 25
 
 ((Responsabilita' dei prestatori di servizi di pagamento per la mancata, inesatta o tardiva esecuzione delle operazioni di pagamento))
 
@@ -656,7 +656,7 @@ Nel caso degli addebiti diretti, l'ordine viene trasmesso entro limiti di tempo 
 
 ((8. I prestatori di servizi di pagamento sono inoltre responsabili nei confronti dei rispettivi utenti di tutte le spese ed interessi loro imputati a seguito della mancata, inesatta o tardiva esecuzione dell'operazione di pagamento.))
 
-#### Art. 25-bis
+##### Art. 25-bis
 
 (( (Responsabilita' in caso di prestazione dei servizi di disposizione di ordine di pagamento per la mancata, inesatta o tardiva esecuzione dell'operazione di pagamento).))
 
@@ -664,33 +664,33 @@ Nel caso degli addebiti diretti, l'ordine viene trasmesso entro limiti di tempo 
 
 2\. In caso di operazione di pagamento non eseguita o non correttamente eseguita, se il relativo ordine di pagamento e' disposto mediante un prestatore di servizi di disposizione di ordine di pagamento, quest'ultimo e' tenuto a rimborsare, immediatamente e senza che sia necessaria la costituzione in mora, al prestatore di servizi di pagamento di radicamento del conto, su richiesta di quest'ultimo, gli importi rimborsati al pagatore. Se il prestatore di servizi di disposizione di ordine di pagamento e' responsabile per la mancata, inesatta o tardiva esecuzione dell'operazione di pagamento, risarcisce, immediatamente e senza che sia necessaria la costituzione in mora, il prestatore di servizi di pagamento di radicamento del conto, su sua richiesta, anche per le perdite subite. In entrambi i casi e' fatta salva la facolta' del prestatore di servizi di disposizione di ordine di pagamento di dimostrare, in conformita' a quanto disposto dall'articolo 10, comma 1-bis, che l'ordine di pagamento e' stato ricevuto dal prestatore di servizi di pagamento di radicamento del conto del pagatore conformemente all'articolo 15 e che, nell'ambito delle competenze del medesimo prestatore di servizi di disposizione di ordine di pagamento, l'operazione di pagamento e' stata autenticata, correttamente registrata e non ha subito le conseguenze di guasti tecnici o altri inconvenienti correlati alla mancata, inesatta o tardiva esecuzione dell'operazione di pagamento, con conseguente diritto in questi casi alla restituzione delle somme da quest'ultimo versate al prestatore di servizi di pagamento di radicamento del conto ai sensi del presente comma.))
 
-#### Art. 26 - Risarcimento dei danni ulteriori
+##### Art. 26 - Risarcimento dei danni ulteriori
 
 1\. Qualsiasi risarcimento ulteriore rispetto a quelli previsti dalla presente sezione puo' essere determinato in conformita' alla disciplina applicabile al contratto concluso tra l'((utente)) e il prestatore di servizi di pagamento.
 
-#### Art. 27 - Diritto di regresso
+##### Art. 27 - Diritto di regresso
 
 ((1. Qualora la responsabilita' di un prestatore di servizi di pagamento ai sensi degli articoli 11, 25 e 25-bis sia attribuibile ad un altro prestatore di servizi di pagamento coinvolto o ad un qualsiasi altro soggetto interposto nell'esecuzione dell'operazione, quest'ultimo risarcisce il primo prestatore di servizi di pagamento in caso di perdite o di importi versati ai sensi degli articoli 11, 25 e 25-bis. E', altresi', prevista una compensazione degli importi qualora i prestatori di servizi di pagamento non si avvalgano dell'autenticazione forte del cliente.))
 
 2\. Ulteriori compensazioni e risarcimenti possono essere determinati conformemente agli accordi tra prestatori di servizi di pagamento e alla disciplina ad essi applicabile.
 
-#### Art. 28
+##### Art. 28
 
 ((Circostanze anormali e imprevedibili))
 
 1\. Le responsabilita' di cui agli articoli da 5 a 27 non si applicano in caso di caso fortuito o forza maggiore e nei casi in cui il prestatore di servizi di pagamento abbia agito in conformita' con i vincoli derivanti da altri obblighi di legge.
 
-## CAPO IV - PROTEZIONE DEI DATI
+### CAPO IV - PROTEZIONE DEI DATI
 
-#### Art. 29 - Protezione dei dati
+##### Art. 29 - Protezione dei dati
 
 ((1. I prestatori di servizi di pagamento e i gestori di sistemi di pagamento possono trattare dati personali ove cio' sia necessario a prevenire, individuare e indagare casi di frode nei pagamenti. La fornitura di informazioni a persone fisiche in merito al trattamento dei dati personali e ad altro trattamento ai fini del presente decreto avviene in conformita' al decreto legislativo 30 giugno 2003, n. 196 e successive modificazioni.))
 
 ((1-bis. I prestatori di servizi di pagamento hanno accesso, trattano e conservano i dati personali necessari alla prestazione dei propri servizi solo previo consenso esplicito dell'utente dei servizi di pagamento.))
 
-## CAPO V - ACCESSO AI SISTEMI DI PAGAMENTO
+### CAPO V - ACCESSO AI SISTEMI DI PAGAMENTO
 
-#### Art. 30 - Accesso ai sistemi di pagamento
+##### Art. 30 - Accesso ai sistemi di pagamento
 
 1\. Nell'esercizio del potere di cui all'articolo 146, comma 2, lettera b), numero 2), del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, come modificato dal presente decreto, la Banca d'Italia verifica che le norme emanate dai gestori di sistemi di pagamento, al fine di disciplinare l'accesso delle persone giuridiche autorizzate a svolgere servizi di pagamento, siano obiettive, non discriminatorie, proporzionate e non limitino l'accesso se non nella misura necessaria a proteggere il sistema da rischi specifici quali il rischio di regolamento, il rischio operativo e il rischio d'impresa, e a tutelarne la stabilita' finanziaria e operativa.
 
@@ -708,7 +708,7 @@ c) LETTERA SOPPRESSA DAL D.LGS. 15 DICEMBRE 2017, N. 218.
 
 In caso di rifiuto, il partecipante fornisce al prestatore di servizi di pagamento motivazioni circostanziate.
 
-#### Art. 30-bis
+##### Art. 30-bis
 
 (( (Condizioni per richiedere la partecipazione a sistemi di pagamento designati).))
 
@@ -768,9 +768,9 @@ i) se l'istituto di pagamento o l'istituto di moneta elettronica e' una filiazio
 
 5\. ((Gli istituti di pagamento e gli istituti di moneta elettronica trasmettono all'operatore del sistema italiano una dichiarazione firmata dal legale rappresentante, previa approvazione dell'organo di gestione competente, che confermi la sussistenza dei requisiti indicati nei commi da 1 a 4. Gli istituti di pagamento e gli istituti di moneta elettronica informano contestualmente la Banca d'Italia di aver richiesto la partecipazione a sistemi di pagamento designati.)) 6. ((L'operatore del sistema italiano puo' chiedere ai soggetti di cui al comma 1 specifiche informazioni o ulteriori attestazioni, anche in forma di un parere legale, al fine di valutare la sussistenza dei requisiti del presente articolo)).
 
-## CAPO VI - MISURE DI ATTUAZIONE
+### CAPO VI - MISURE DI ATTUAZIONE
 
-#### Art. 31
+##### Art. 31
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 DICEMBRE 2017, N. 218)) ((3))
 
@@ -780,7 +780,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 15 dicembre 2017, n. 218, ha disposto (con l'art. 5, comma 2) che "Le modifiche apportate dal presente decreto all'articolo 144 del decreto legislativo 1° settembre 1993, n. 385, gli articoli 2, commi 36 e 37, e 4 del presente decreto legislativo, nonche' il Capo II del Titolo IV-bis del decreto legislativo 27 gennaio 2010 n. 11 come introdotto dall'articolo 3, comma 1 del presente decreto legislativo si applicano alle violazioni commesse a partire dal 13 gennaio 2018, salvo quanto previsto dal comma 6. Alle violazioni commesse prima di questa data continuano ad applicarsi le norme del titolo VIII del decreto legislativo 1° settembre 1993, n. 385 nonche' l'articolo 32 del decreto legislativo 27 gennaio 2010 n. 11 e gli articoli 3, 4 e 5 del decreto legislativo 18 agosto 2015, n. 135 vigenti prima della data di entrata in vigore del presente decreto legislativo".
 
-#### Art. 32 - Sanzioni
+##### Art. 32 - Sanzioni
 
 1\. Nei confronti dei prestatori di servizi di pagamento e dei soggetti ai quali sono esternalizzate funzioni aziendali essenziali o importanti, nonche' di quelli incaricati della revisione legale dei conti, si applica la sanzione amministrativa pecuniaria da euro 30.000 fino a euro 5 milioni ovvero fino al 10 per cento del fatturato, quando tale importo e' superiore a euro 5 milioni e il fatturato e' disponibile e determinabile, per le seguenti violazioni:
 
@@ -808,7 +808,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 15 dicembre 2017, n. 218, ha disposto (con l'art. 5, comma 2) che "Le modifiche apportate dal presente decreto all'articolo 144 del decreto legislativo 1° settembre 1993, n. 385, gli articoli 2, commi 36 e 37, e 4 del presente decreto legislativo, nonche' il Capo II del Titolo IV-bis del decreto legislativo 27 gennaio 2010 n. 11 come introdotto dall'articolo 3, comma 1 del presente decreto legislativo si applicano alle violazioni commesse a partire dal 13 gennaio 2018, salvo quanto previsto dal comma 6. Alle violazioni commesse prima di questa data continuano ad applicarsi le norme del titolo VIII del decreto legislativo 1° settembre 1993, n. 385 nonche' l'articolo 32 del decreto legislativo 27 gennaio 2010 n. 11 e gli articoli 3, 4 e 5 del decreto legislativo 18 agosto 2015, n. 135 vigenti prima della data di entrata in vigore del presente decreto legislativo".
 
-#### Art. 32-bis
+##### Art. 32-bis
 
 (( (Altre sanzioni amministrative agli esponenti o al personale). ))
 
@@ -818,7 +818,7 @@ Il D.Lgs. 15 dicembre 2017, n. 218, ha disposto (con l'art. 5, comma 2) che "Le 
 
 3\. Si applica l'articolo 32, comma 1-quater.))
 
-#### Art. 32-ter
+##### Art. 32-ter
 
 (( (Criteri per la determinazione delle sanzioni e procedura sanzionatoria). ))
 
@@ -826,7 +826,7 @@ Il D.Lgs. 15 dicembre 2017, n. 218, ha disposto (con l'art. 5, comma 2) che "Le 
 
 2\. Si applica il Capo VI, Titolo VIII del citato decreto legislativo n. 385 del 1993.))
 
-#### Art. 32-quater
+##### Art. 32-quater
 
 (( (Controlli sui servizi di prelievo di contante tramite sportelli automatici). ))
 
@@ -834,7 +834,7 @@ Il D.Lgs. 15 dicembre 2017, n. 218, ha disposto (con l'art. 5, comma 2) che "Le 
 
 2\. I controlli sull'osservanza dell'obbligo previsto dal comma 1 sono esercitati dall'Autorita' garante della concorrenza e del mercato la quale li effettua sulla base dei poteri istruttori e sanzionatori di cui all'articolo 27 del decreto legislativo 6 settembre 2005, n. 206. ))
 
-#### Art. 32-quinquies
+##### Art. 32-quinquies
 
 (( (Procedura di riscossione). ))
 
@@ -842,7 +842,7 @@ Il D.Lgs. 15 dicembre 2017, n. 218, ha disposto (con l'art. 5, comma 2) che "Le 
 
 ## TITOLO III - Istituti di pagamento
 
-#### Art. 33 - Disciplina degli istituti di pagamento
+##### Art. 33 - Disciplina degli istituti di pagamento
 
 1\. Al testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, dopo il titolo V-bis e' inserito il seguente:
 
@@ -1014,7 +1014,7 @@ b) nessuna delle persone fisiche responsabili della gestione o del funzionamento
 
 ## TITOLO IV - Trasparenza delle condizioni contrattuali ed obblighi informativi
 
-#### Art. 34 - Trasparenza dei servizi di pagamento
+##### Art. 34 - Trasparenza dei servizi di pagamento
 
 1\. Al testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385 sono apportate le seguenti modifiche:
 
@@ -1126,7 +1126,7 @@ Art. 126-octies
 
 ### ((CAPO I))
 
-#### Art. 34-bis - Limite alle commissioni interbancarie applicate alle operazioni di pagamento nazionali effettuate con carta di debito ad uso dei consumatori
+##### Art. 34-bis - Limite alle commissioni interbancarie applicate alle operazioni di pagamento nazionali effettuate con carta di debito ad uso dei consumatori
 
 1\. Fino al 9 dicembre 2020, per le operazioni nazionali tramite carta di debito ad uso dei consumatori, i prestatori di servizi di pagamento possono applicare una commissione interbancaria media ponderata non superiore all'equivalente dello 0,2 % del valore medio annuo di tutte le operazioni nazionali effettuate tramite tali carte di debito all'interno dello stesso schema di carte di pagamento.
 
@@ -1152,7 +1152,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 15 dicembre 2017, n. 218 ha disposto (con l'art. 5, comma 7) che "Le disposizioni di cui al comma 4 dell'articolo 34-bis e al comma 1 dell'articolo 34-ter del decreto legislativo 27 gennaio 2010, n. 11, introdotte dall'articolo 3 del presente decreto legislativo, si applicano dal 1° aprile 201".
 
-#### Art. 34-ter - Limite alle commissioni interbancarie applicate alle operazioni di pagamento nazionali effettuate con carta di credito ad uso dei consumatori
+##### Art. 34-ter - Limite alle commissioni interbancarie applicate alle operazioni di pagamento nazionali effettuate con carta di credito ad uso dei consumatori
 
 1\. Per le operazioni nazionali tramite carta di credito ad uso dei consumatori di importo inferiore a euro 5, i prestatori di servizi di pagamento applicano una commissione interbancaria di importo ridotto rispetto a quelle applicate alle operazioni di importo pari o superiore a euro 5. (3)
 
@@ -1164,7 +1164,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 15 dicembre 2017, n. 218 ha disposto (con l'art. 5, comma 7) che "Le disposizioni di cui al comma 4 dell'articolo 34-bis e al comma 1 dell'articolo 34-ter del decreto legislativo 27 gennaio 2010, n. 11, introdotte dall'articolo 3 del presente decreto legislativo, si applicano dal 1° aprile 201".
 
-#### Art. 34-quater
+##### Art. 34-quater
 
 (( (Autorita' competenti). ))
 
@@ -1180,9 +1180,9 @@ Il D.Lgs. 15 dicembre 2017, n. 218 ha disposto (con l'art. 5, comma 7) che "Le d
 
 6\. Al fine di garantire l'efficace adempimento degli obblighi di cui al Regolamento (UE) n. 751/2015 e al presente Titolo, gli schemi di carte di pagamento individuano un ufficio di rappresentanza e ne danno comunicazione alla Banca d'Italia e all'Autorita' Garante della Concorrenza e del Mercato.))
 
-## ((CAPO II))
+### ((CAPO II))
 
-#### Art. 34-quinquies - ((Sanzioni in materia di commissioni interbancarie))
+##### Art. 34-quinquies - ((Sanzioni in materia di commissioni interbancarie))
 
 ((1. Si applica nei confronti dei prestatori di servizi di pagamento la sanzione amministrativa pecuniaria da euro 30.000 fino a euro 5 milioni ovvero fino al 10 per cento del fatturato, quando tale importo e' superiore a euro 5 milioni e il fatturato e' disponibile e determinabile, per l'inosservanza delle seguenti disposizioni:
 
@@ -1202,7 +1202,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 15 dicembre 2017, n. 218, ha disposto (con l'art. 5, comma 2) che "Le modifiche apportate dal presente decreto all'articolo 144 del decreto legislativo 1° settembre 1993, n. 385, gli articoli 2, commi 36 e 37, e 4 del presente decreto legislativo, nonche' il Capo II del Titolo IV-bis del decreto legislativo 27 gennaio 2010 n. 11 come introdotto dall'articolo 3, comma 1 del presente decreto legislativo si applicano alle violazioni commesse a partire dal 13 gennaio 2018, salvo quanto previsto dal comma 6. Alle violazioni commesse prima di questa data continuano ad applicarsi le norme del titolo VIII del decreto legislativo 1° settembre 1993, n. 385 nonche' l'articolo 32 del decreto legislativo 27 gennaio 2010 n. 11 e gli articoli 3, 4 e 5 del decreto legislativo 18 agosto 2015, n. 135 vigenti prima della data di entrata in vigore del presente decreto legislativo".
 
-#### Art. 34-sexies - Altre sanzioni ai sensi del Regolamento (UE) n. 751/2015
+##### Art. 34-sexies - Altre sanzioni ai sensi del Regolamento (UE) n. 751/2015
 
 1\. Si applica nei confronti dei prestatori di servizi di pagamento e dei soggetti ai quali sono esternalizzate funzioni aziendali essenziali o importanti, la sanzione amministrativa pecuniaria da euro 30.000 fino a euro 5 milioni ovvero fino al 10 per cento del fatturato, quando tale importo e' superiore a euro 5 milioni e il fatturato e' disponibile e determinabile, per l'inosservanza delle disposizioni di cui all'articolo 8, paragrafo 6, articolo 9, paragrafo 1, articolo 10, paragrafi 1 e 5, articolo 11, paragrafi 1 e 2 del Regolamento (UE) n. 751/2015. Nei casi in cui le violazioni siano commesse da schemi di carte di pagamento la sanzione si applica nei confronti degli organi decisionali, organizzazioni o entita' responsabili del funzionamento degli schemi stessi. 2. Qualora il prestatore di servizi di pagamento mandante rilevi nel comportamento dell'agente in servizi di pagamento violazioni alle disposizioni dell'articolo 8, paragrafo 6, articolo 9, paragrafo 1, articolo 10, paragrafo 1, articolo 11, paragrafi 1 e 2 del Regolamento (UE) n. 751/2015 adotta immediatamente misure correttive e trasmette la documentazione relative alle violazioni riscontrate, anche ai fini dell'applicazione dell'articolo 128-duodecies del decreto legislativo 1° settembre 1993, n. 385, all'Organismo di cui all'articolo 128-undecies, del decreto legislativo 1° settembre 1993, n. 385.
 
@@ -1220,7 +1220,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 15 dicembre 2017, n. 218, ha disposto (con l'art. 5, comma 2) che "Le modifiche apportate dal presente decreto all'articolo 144 del decreto legislativo 1° settembre 1993, n. 385, gli articoli 2, commi 36 e 37, e 4 del presente decreto legislativo, nonche' il Capo II del Titolo IV-bis del decreto legislativo 27 gennaio 2010 n. 11 come introdotto dall'articolo 3, comma 1 del presente decreto legislativo si applicano alle violazioni commesse a partire dal 13 gennaio 2018, salvo quanto previsto dal comma 6. Alle violazioni commesse prima di questa data continuano ad applicarsi le norme del titolo VIII del decreto legislativo 1° settembre 1993, n. 385 nonche' l'articolo 32 del decreto legislativo 27 gennaio 2010 n. 11 e gli articoli 3, 4 e 5 del decreto legislativo 18 agosto 2015, n. 135 vigenti prima della data di entrata in vigore del presente decreto legislativo".
 
-#### Art. 34-septies
+##### Art. 34-septies
 
 (( (Altre sanzioni amministrative agli esponenti o al personale). ))
 
@@ -1238,7 +1238,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 15 dicembre 2017, n. 218, ha disposto (con l'art. 5, comma 2) che "Le modifiche apportate dal presente decreto all'articolo 144 del decreto legislativo 1° settembre 1993, n. 385, gli articoli 2, commi 36 e 37, e 4 del presente decreto legislativo, nonche' il Capo II del Titolo IV-bis del decreto legislativo 27 gennaio 2010 n. 11 come introdotto dall'articolo 3, comma 1 del presente decreto legislativo si applicano alle violazioni commesse a partire dal 13 gennaio 2018, salvo quanto previsto dal comma 6. Alle violazioni commesse prima di questa data continuano ad applicarsi le norme del titolo VIII del decreto legislativo 1° settembre 1993, n. 385 nonche' l'articolo 32 del decreto legislativo 27 gennaio 2010 n. 11 e gli articoli 3, 4 e 5 del decreto legislativo 18 agosto 2015, n. 135 vigenti prima della data di entrata in vigore del presente decreto legislativo".
 
-#### Art. 34-octies
+##### Art. 34-octies
 
 (( (Criteri per la determinazione delle sanzioni). ))
 
@@ -1254,7 +1254,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 15 dicembre 2017, n. 218, ha disposto (con l'art. 5, comma 2) che "Le modifiche apportate dal presente decreto all'articolo 144 del decreto legislativo 1° settembre 1993, n. 385, gli articoli 2, commi 36 e 37, e 4 del presente decreto legislativo, nonche' il Capo II del Titolo IV-bis del decreto legislativo 27 gennaio 2010 n. 11 come introdotto dall'articolo 3, comma 1 del presente decreto legislativo si applicano alle violazioni commesse a partire dal 13 gennaio 2018, salvo quanto previsto dal comma 6. Alle violazioni commesse prima di questa data continuano ad applicarsi le norme del titolo VIII del decreto legislativo 1° settembre 1993, n. 385 nonche' l'articolo 32 del decreto legislativo 27 gennaio 2010 n. 11 e gli articoli 3, 4 e 5 del decreto legislativo 18 agosto 2015, n. 135 vigenti prima della data di entrata in vigore del presente decreto legislativo".
 
-#### Art. 34-novies
+##### Art. 34-novies
 
 (( (Procedura sanzionatoria). ))
 
@@ -1274,7 +1274,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 15 dicembre 2017, n. 218, ha disposto (con l'art. 5, comma 2) che "Le modifiche apportate dal presente decreto all'articolo 144 del decreto legislativo 1° settembre 1993, n. 385, gli articoli 2, commi 36 e 37, e 4 del presente decreto legislativo, nonche' il Capo II del Titolo IV-bis del decreto legislativo 27 gennaio 2010 n. 11 come introdotto dall'articolo 3, comma 1 del presente decreto legislativo si applicano alle violazioni commesse a partire dal 13 gennaio 2018, salvo quanto previsto dal comma 6. Alle violazioni commesse prima di questa data continuano ad applicarsi le norme del titolo VIII del decreto legislativo 1° settembre 1993, n. 385 nonche' l'articolo 32 del decreto legislativo 27 gennaio 2010 n. 11 e gli articoli 3, 4 e 5 del decreto legislativo 18 agosto 2015, n. 135 vigenti prima della data di entrata in vigore del presente decreto legislativo".
 
-#### Art. 34-decies
+##### Art. 34-decies
 
 (( (Esposti). ))
 
@@ -1290,7 +1290,7 @@ Il D.Lgs. 15 dicembre 2017, n. 218, ha disposto (con l'art. 5, comma 2) che "Le 
 
 ## TITOLO V - Modifiche alla legislazione e disposizioni transitorie
 
-#### Art. 35 - Altre modifiche al decreto legislativo 1° settembre 1993, n. 385
+##### Art. 35 - Altre modifiche al decreto legislativo 1° settembre 1993, n. 385
 
 1\. All'articolo 1, comma 2, lettera f), del decreto legislativo 1° settembre 1993, n. 385, il numero 5 e' sostituito dal seguente:
 
@@ -1640,11 +1640,11 @@ d) adottare per le materie indicate alla lettera b), ove la situazione lo richie
 
 > 6\. -».
 
-#### Art. 36
+##### Art. 36
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 DICEMBRE 2017, N. 218))
 
-#### Art. 37 - Disposizioni transitorie
+##### Art. 37 - Disposizioni transitorie
 
 1\. COMMA ABROGATO DAL D.LGS. 15 DICEMBRE 2017, N. 218.
 
@@ -1660,19 +1660,19 @@ d) adottare per le materie indicate alla lettera b), ove la situazione lo richie
 
 7\. COMMA ABROGATO DAL D.LGS. 15 DICEMBRE 2017, N. 218.
 
-#### Art. 38
+##### Art. 38
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 DICEMBRE 2017, N. 218))
 
 ## TITOLO VI - Esposti e ricorsi stragiudiziali
 
-#### Art. 39 - Esposti
+##### Art. 39 - Esposti
 
 1\. ((In caso di violazione da parte di un prestatore di servizi di pagamento delle disposizioni di cui al titolo II e di quelle di cui all'articolo 115 e al capo II-bis del titolo VI del decreto legislativo 1° settembre 1993, n. 385, e della relativa normativa di attuazione, gli utenti di servizi di pagamento, le associazioni che li rappresentano e le altre parti interessate possono presentare esposti alla Banca d'Italia.)) La proposizione dell'esposto non pregiudica il diritto di adire la competente autorita' giudiziaria.
 
 La Banca d'Italia informa il proponente l'esposto dell'esistenza dei sistemi di risoluzione stragiudiziale delle controversie di cui all'articolo 128-bis del decreto legislativo 1° settembre 1993, n. 385.
 
-#### Art. 40 - Ricorso stragiudiziale
+##### Art. 40 - Ricorso stragiudiziale
 
 1\. Per le controversie concernenti i servizi di pagamento gli utilizzatori di tali servizi possono avvalersi di sistemi, organismi o procedure di risoluzione stragiudiziale; resta in ogni caso fermo il diritto degli utilizzatori di adire la competente autorita' giudiziaria.
 
@@ -1686,13 +1686,13 @@ La Banca d'Italia informa il proponente l'esposto dell'esistenza dei sistemi di 
 
 ## TITOLO VII - (Disposizioni finanziarie ed entrata in vigore)
 
-#### Art. 41 - Disposizioni finanziarie
+##### Art. 41 - Disposizioni finanziarie
 
 1\. Dall'attuazione delle disposizioni del presente decreto non devono derivare nuovi o maggiori oneri, ne' minori entrate per la finanza pubblica.
 
 2\. Le amministrazioni interessate provvedono all'adempimento dei compiti derivanti dal presente decreto con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-#### Art. 42 - Entrata in vigore
+##### Art. 42 - Entrata in vigore
 
 1\. Il presente decreto entra in vigore il primo lunedi' successivo al quindicesimo giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 

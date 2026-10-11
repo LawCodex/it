@@ -332,7 +332,7 @@ Gestione del Registro
 
 > \- Per i riferimenti normativi della legge 30 dicembre 2018, n. 145 (legge di Bilancio 2019) si veda nelle note alle premesse.
 
-## Capo II - Ulteriori misure di semplificazione
+### Capo II - Ulteriori misure di semplificazione
 
 #### Art. 14
 

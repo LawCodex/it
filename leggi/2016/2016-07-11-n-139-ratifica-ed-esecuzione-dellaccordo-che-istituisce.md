@@ -27,19 +27,19 @@ Promulga
 
 la seguente legge:
 
-##### Art. 1
+###### Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo che istituisce un'associazione tra l'Unione europea e i suoi Stati membri, da una parte, e l'America Centrale, dall'altra, fatto a Tegucigalpa il 29 giugno 2012.
 
-##### Art. 2
+###### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 353 dell'Accordo stesso.
 
-##### Art. 3
+###### Art. 3
 
 Copertura finanziaria
 
@@ -51,13 +51,13 @@ Copertura finanziaria
 
 4\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 4
+###### Art. 4
 
 Clausola di invarianza finanziaria
 
 1\. Dall'attuazione delle disposizioni dell'Accordo di cui all'articolo 1, ad esclusione dell'articolo 7, paragrafi 3 e 4, e dell'articolo 11 dell'allegato III al medesimo Accordo, non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
-##### Art. 5
+###### Art. 5
 
 Entrata in vigore
 
@@ -81,7 +81,7 @@ Visto, il Guardasigilli: Orlando
 
 ### TITOLO I - NATURA E AMBITO DI APPLICAZIONE DEL PRESENTE ACCORDO
 
-##### art. 1
+###### art. 1
 
 Allegato
 
@@ -227,7 +227,7 @@ Principi
 
 3\. Le parti riaffermano la loro adesione ai principi del buon governo e dello Stato di diritto, il che comporta, in particolare, il primato del diritto, la separazione dei poteri, l'indipendenza del potere giudiziario, procedure decisionali chiare a livello delle autorita' pubbliche, istituzioni trasparenti e responsabili, la gestione corretta e trasparente degli affari pubblici a livello locale, regionale e nazionale e l'attuazione di misure volte a prevenire e combattere la corruzione.
 
-##### Art. 2
+###### Art. 2
 
 Obiettivi
 
@@ -249,15 +249,15 @@ g) mantenere quantomeno, e preferibilmente innalzare, il livello di buon governo
 
 h) favorire maggiori scambi commerciali e investimenti tra le parti, tenendo conto del trattamento speciale e differenziato in modo da ridurre le asimmetrie strutturali esistenti tra le due regioni.
 
-##### Art. 3
+###### Art. 3
 
 Ambito di applicazione
 
 Le parti si trattano da eguali. Nessuna disposizione del presente accordo puo' essere interpretata come tale da compromettere la sovranita' di qualsivoglia Repubblica della parte AC.
 
-## TITOLO II - QUADRO ISTITUZIONALE
+### TITOLO II - QUADRO ISTITUZIONALE
 
-##### Art. 4
+###### Art. 4
 
 Consiglio di associazione
 
@@ -269,7 +269,7 @@ Ogniqualvolta le circostanze lo richiedano possono tenersi riunioni straordinari
 
 3\. Il Consiglio di associazione esamina altresi' le proposte e le raccomandazioni delle parti volte a migliorare le relazioni instaurate a norma del presente accordo.
 
-##### Art. 5
+###### Art. 5
 
 Composizione e regolamento interno
 
@@ -281,7 +281,7 @@ Composizione e regolamento interno
 
 4\. Il Consiglio di associazione e' presieduto, a turno, da un rappresentante della parte UE, da una parte, e da un rappresentante di una Repubblica della parte AC, dall'altra, secondo quanto stabilito nel regolamento interno.
 
-##### Art. 6
+###### Art. 6
 
 Poteri decisionali
 
@@ -295,7 +295,7 @@ Poteri decisionali
 
 5\. La procedura istituita dal paragrafo 4 si applica a tutti gli altri organi direttivi istituiti dal presente accordo.
 
-##### Art. 7
+###### Art. 7
 
 Comitato di associazione
 
@@ -309,7 +309,7 @@ Comitato di associazione
 
 5\. Il comitato di associazione si riunisce di norma una volta l'anno, alternativamente a Bruxelles e nell'America centrale, per un esame globale dell'attuazione del presente accordo. La data e l'ordine del giorno delle riunioni sono preventivamente concordati tra le parti. Su richiesta di una delle parti possono essere convocate, di comune accordo, riunioni straordinarie. Il comitato di associazione e' presieduto a turno da un rappresentante di ciascuna delle parti.
 
-##### Art. 8
+###### Art. 8
 
 Sottocomitati
 
@@ -333,7 +333,7 @@ b) segue l'attuazione generale della parte III del presente accordo;
 
 c) discute temi di cooperazione che possono influire sul funzionamento della parte III del presente accordo.
 
-##### Art. 9
+###### Art. 9
 
 Comitato parlamentare di associazione
 
@@ -347,7 +347,7 @@ Comitato parlamentare di associazione
 
 5\. Il comitato parlamentare di associazione puo' presentare raccomandazioni al Consiglio di associazione.
 
-##### Art. 10
+###### Art. 10
 
 Comitato consultivo misto
 
@@ -357,7 +357,7 @@ Comitato consultivo misto
 
 3\. Il comitato consultivo misto adotta il suo regolamento interno.
 
-##### Art. 11
+###### Art. 11
 
 Societa' civile
 
@@ -367,7 +367,7 @@ Societa' civile
 
 ## PARTE II - DIALOGO POLITICO
 
-##### Art. 12
+###### Art. 12
 
 Obiettivi
 
@@ -383,7 +383,7 @@ d) l'intensificazione del dialogo politico per consentire un ampio scambio di op
 
 e) la cooperazione nell'ambito della politica estera e di sicurezza, con l'obiettivo di coordinare le posizioni delle parti e assumere iniziative congiunte di reciproco interesse nelle pertinenti sedi internazionali.
 
-##### Art. 13
+###### Art. 13
 
 Settori
 
@@ -395,7 +395,7 @@ Settori
 
 4\. Le parti possono in qualsiasi momento convenire di aggiungere altri temi quali settori di dialogo politico.
 
-##### Art. 14
+###### Art. 14
 
 Disarmo
 
@@ -407,7 +407,7 @@ Disarmo
 
 4\. Le parti convengono pertanto di osservare e attuare pienamente i rispettivi obblighi di lotta al traffico illegale di armi leggere e di piccolo calibro e delle relative munizioni, derivanti dai vigenti accordi internazionali e dalle risoluzioni applicabili del Consiglio di sicurezza delle Nazioni Unite, nonche' gli impegni assunti nel quadro di altri strumenti internazionali applicabili in tale settore, quali il programma d'azione delle Nazioni Unite sulle armi leggere e di piccolo calibro.
 
-##### Art. 15
+###### Art. 15
 
 Armi di distruzione di massa
 
@@ -425,7 +425,7 @@ b) adottando un sistema efficace di controlli nazionali all'esportazione, riguar
 
 5\. Le parti decidono di avviare un dialogo politico regolare che accompagni e consolidi la loro cooperazione in questo settore.
 
-##### Art. 16
+###### Art. 16
 
 Lotta al terrorismo
 
@@ -447,7 +447,7 @@ f) mediante l'assistenza tecnica e la formazione riguardanti i metodi di indagin
 
 g) mediante lo scambio di opinioni su modelli di prevenzione connessi ad altre attivita' illegali legate al terrorismo, quali tra l'altro il riciclaggio del denaro, il traffico di armi da fuoco, la falsificazione dei documenti di identita' e la tratta degli esseri umani.
 
-##### Art. 17
+###### Art. 17
 
 Gravi crimini di portata internazionale
 
@@ -465,7 +465,7 @@ c) mediante l'adozione di misure volte a salvaguardare l'integrita' dello statut
 
 4\. Resta una decisione sovrana dei singoli Stati determinare il momento piu' opportuno per aderire allo statuto di Roma.
 
-##### Art. 18
+###### Art. 18
 
 Finanziamenti allo sviluppo
 
@@ -473,7 +473,7 @@ Finanziamenti allo sviluppo
 
 2\. Per questo, e con l'obiettivo di promuovere societa' piu' inclusive, le parti riconoscono la necessita' di sviluppare nuovi e innovativi meccanismi finanziari.
 
-##### Art. 19
+###### Art. 19
 
 Migrazioni
 
@@ -483,7 +483,7 @@ Esse, nel riconoscere che la poverta' costituisce una delle cause di fondo delle
 
 2\. Le parti convengono di assicurare a tutti i migranti il godimento, la tutela e la promozione effettivi dei diritti umani e di garantire i principi di equita' e trasparenza nel pari trattamento dei migranti. Sottolineano inoltre l'importanza della lotta contro il razzismo, la discriminazione, la xenofobia e altre forme di intolleranza.
 
-##### Art. 20
+###### Art. 20
 
 Ambiente
 
@@ -491,19 +491,19 @@ Ambiente
 
 2\. Gli obiettivi del dialogo sono, tra l'altro, la lotta alla minaccia rappresentata dai cambiamenti climatici, la conservazione della diversita' biologica, la protezione e la gestione sostenibile delle foreste per ridurre, tra l'altro, le emissioni derivanti dalla deforestazione e dal degrado delle foreste, la protezione delle risorse idriche e marine, dei bacini e delle zone umide, la ricerca e lo sviluppo di combustibili alternativi e di tecnologie delle energie rinnovabili, e la riforma della governance ambientale per accrescerne l'efficienza.
 
-##### Art. 21
+###### Art. 21
 
 Sicurezza dei cittadini
 
 Le parti dialogano sul tema della sicurezza dei cittadini, essenziale ai fini della promozione dello sviluppo umano, della democrazia, del buon governo e del rispetto dei diritti umani e delle liberta' fondamentali. Esse riconoscono che la sicurezza dei cittadini va oltre le frontiere nazionali e regionali e richiede quindi la promozione di un dialogo e di una cooperazione piu' ampi.
 
-##### Art. 22
+###### Art. 22
 
 Buon governo nel settore fiscale
 
 Le parti riconoscono e si impegnano ad attuare i principi comuni, concordati a livello internazionale, del buon governo nel settore fiscale al fine di rafforzare e sviluppare le attivita' economiche tenendo conto anche dell'esigenza di sviluppare un adeguato quadro normativo.
 
-##### Art. 23
+###### Art. 23
 
 Fondo comune di credito economico-finanziario
 
@@ -517,7 +517,7 @@ Questo meccanismo contribuisce alla riduzione della poverta', favorisce lo svilu
 
 ## PARTE III - COOPERAZIONE
 
-##### Art. 24
+###### Art. 24
 
 Obiettivi
 
@@ -539,7 +539,7 @@ f) rafforzare le capacita' di produzione e di gestione e migliorare la competiti
 
 3\. Le parti attuano politiche e misure volte al raggiungimento degli obiettivi sopraenunciati. Queste misure possono comprendere meccanismi finanziari innovativi con l'obiettivo di contribuire al raggiungimento degli obiettivi di sviluppo del millennio e di altri obiettivi concordati a livello internazionale, in linea con gli impegni stabiliti nel consenso di Monterrey e in successivi consessi.
 
-##### Art. 25
+###### Art. 25
 
 Principi
 
@@ -565,7 +565,7 @@ i) le parti concordano in merito all'importanza di proseguire il sostegno alle p
 
 j) la cooperazione nel quadro del presente accordo non incide sulla partecipazione delle Repubbliche della parte AC, in qualita' di paesi in via di sviluppo, alle attivita' della parte UE riguardanti la ricerca per lo sviluppo o ad altri programmi di cooperazione allo sviluppo dell'Unione europea destinati a paesi terzi, nel rispetto delle norme e delle procedure di detti programmi.
 
-##### Art. 26
+###### Art. 26
 
 Modalita' e metodologia
 
@@ -595,7 +595,7 @@ k) le parti esaminano tutte le possibilita' pratiche di cooperazione nel recipro
 
 2\. Le parti convengono di incentivare la cooperazione tra le istituzioni finanziarie in base alle loro necessita' e nell'ambito dei rispettivi programmi e della rispettiva legislazione.
 
-##### Art. 27
+###### Art. 27
 
 Clausola evolutiva
 
@@ -605,7 +605,7 @@ Clausola evolutiva
 
 3\. Quanto all'attuazione del presente accordo, le parti possono formulare suggerimenti volti ad ampliare la cooperazione in tutti i settori, tenendo conto dell'esperienza acquisita in sede di attuazione.
 
-##### Art. 28
+###### Art. 28
 
 Cooperazione statistica
 
@@ -619,9 +619,9 @@ b) la cooperazione riguardante le statistiche in materia di scienza, tecnologia 
 
 3\. Questa cooperazione potrebbe tra l'altro comprendere scambi tecnici, anche di scienziati, tra gli istituti statistici delle Repubbliche della parte AC e degli Stati membri dell'Unione europea ed Eurostat, lo sviluppo di metodi perfezionati e, se del caso, compatibili di raccolta, disaggregazione, analisi e interpretazione dei dati, nonche' l'organizzazione di seminari, gruppi di lavoro o programmi di formazione statistica.
 
-## TITOLO I - DEMOCRAZIA, DIRITTI UMANI E BUON GOVERNO
+### TITOLO I - DEMOCRAZIA, DIRITTI UMANI E BUON GOVERNO
 
-##### Art. 29
+###### Art. 29
 
 Democrazia e diritti umani
 
@@ -643,7 +643,7 @@ f) il rafforzamento delle istituzioni democratiche e delle istituzioni che si oc
 
 g) l'elaborazione di iniziative comuni di reciproco interesse nelle sedi multilaterali competenti.
 
-##### Art. 30
+###### Art. 30
 
 Buon governo
 
@@ -667,7 +667,7 @@ h) l'istituzione e il mantenimento di procedure decisionali chiare da parte dell
 
 i) il sostegno alla partecipazione della societa' civile.
 
-##### Art. 31
+###### Art. 31
 
 Ammodernamento dell'amministrazione statale e pubblica, anche in termini di decentramento
 
@@ -677,7 +677,7 @@ Cio' comporta, tra l'altro, l'ammodernamento e la riforma della pubblica amminis
 
 2\. La cooperazione in questo ambito puo' riguardare programmi e progetti nazionali e regionali volti a sviluppare capacita' di elaborazione politica, di attuazione e valutazione delle politiche pubbliche, nonche' a rafforzare il sistema giudiziario, promuovendo nel contempo la partecipazione della societa' civile.
 
-##### Art. 32
+###### Art. 32
 
 Prevenzione e risoluzione dei conflitti
 
@@ -685,15 +685,15 @@ Prevenzione e risoluzione dei conflitti
 
 2\. La cooperazione rafforza le capacita' di risoluzione dei conflitti e puo', tra l'altro, sostenere i processi di mediazione, negoziato e riconciliazione, le strategie di promozione della pace, gli sforzi volti a rafforzare la fiducia e la sicurezza a livello regionale, le iniziative a favore dei minori, delle donne e degli anziani e le azioni di lotta contro le mine antipersona.
 
-##### Art. 33
+###### Art. 33
 
 Rafforzamento delle istituzioni e dello Stato di diritto
 
 Le parti attribuiscono particolare importanza al consolidamento dello Stato di diritto e al rafforzamento delle istituzioni di ogni livello per quanto riguarda, soprattutto, l'applicazione della legge e l'amministrazione della giustizia. La cooperazione mira, in particolare, a rafforzare l'indipendenza del potere giudiziario e ad accrescerne l'efficienza.
 
-## TITOLO II - GIUSTIZIA, LIBERTÀ E SICUREZZA
+### TITOLO II - GIUSTIZIA, LIBERTÀ E SICUREZZA
 
-##### Art. 34
+###### Art. 34
 
 Protezione dei dati personali
 
@@ -701,7 +701,7 @@ Protezione dei dati personali
 
 2\. Nella cooperazione in materia di protezione dei dati personali puo' rientrare, fra l'altro, l'assistenza tecnica sotto forma di scambio di informazioni e di competenze nel rispetto delle disposizioni legislative e regolamentari delle parti.
 
-##### Art. 35
+###### Art. 35
 
 Droghe illecite
 
@@ -739,7 +739,7 @@ j) sostenere i programmi di prevenzione per i giovani e l'educazione all'interno
 
 k) rafforzare la prevenzione, come pure il trattamento, il recupero e il reinserimento dei consumatori di droghe attraverso una vasta gamma di strumenti, compresa la riduzione del danno derivante dall'abuso di droghe.
 
-##### Art. 36
+###### Art. 36
 
 Riciclaggio del denaro, compreso il finanziamento del terrorismo
 
@@ -747,7 +747,7 @@ Riciclaggio del denaro, compreso il finanziamento del terrorismo
 
 2\. Se del caso, nella cooperazione in questo ambito rientra - conformemente alle norme stabilite dal Gruppo di azione finanziaria internazionale (GAFI) - l'assistenza amministrativa e tecnica per sostenere l'elaborazione e l'attuazione delle disposizioni regolamentari e garantire il funzionamento efficiente di norme e meccanismi idonei. La cooperazione consente, in particolare, lo scambio di informazioni pertinenti e l'adozione di norme idonee per la lotta contro il riciclaggio del denaro e il finanziamento del terrorismo, conformemente alle norme adottate dagli organismi internazionali operanti nel settore e alle migliori pratiche impiegate a livello internazionale.
 
-##### Art. 37
+###### Art. 37
 
 Criminalita' organizzata e sicurezza dei cittadini
 
@@ -757,7 +757,7 @@ Esse incoraggiano, in particolare, i programmi di protezione dei testimoni.
 
 2\. Le parti convengono inoltre di cooperare per migliorare la sicurezza dei cittadini, soprattutto sostenendo le politiche e le strategie in materia di sicurezza. La cooperazione in questo ambito dovrebbe contribuire alla prevenzione dei reati e potrebbe comprendere attivita' quali i progetti di cooperazione regionale tra le autorita' giudiziarie e di polizia, i programmi di formazione e lo scambio delle migliori pratiche in materia di elaborazione del profilo criminale. Comprende, tra l'altro, lo scambio di opinioni sui quadri legislativi e l'assistenza tecnica e amministrativa volta a rafforzare le capacita' istituzionali e operative delle autorita' preposte all'applicazione della legge.
 
-##### Art. 38
+###### Art. 38
 
 Lotta alla corruzione
 
@@ -777,7 +777,7 @@ e) incoraggiare le azioni volte a promuovere i valori di una cultura della trasp
 
 f) sviluppare ulteriormente la cooperazione per facilitare le misure di recupero dei beni, promuovere le buone pratiche e sviluppare le capacita'.
 
-##### Art. 39
+###### Art. 39
 
 Traffico illecito di armi leggere e di piccolo calibro
 
@@ -785,7 +785,7 @@ Traffico illecito di armi leggere e di piccolo calibro
 
 2\. Le parti cooperano per promuovere iniziative congiunte di lotta contro le armi leggere e di piccolo calibro, munizioni comprese. Le parti collaborano in particolare alle iniziative congiunte volte a attuare i programmi nazionali, regionali e internazionali e le convenzioni del settore, all'interno di un contesto multilaterale e interregionale.
 
-##### Art. 40
+###### Art. 40
 
 Lotta al terrorismo nel pieno rispetto dei diritti umani
 
@@ -795,9 +795,9 @@ Lotta al terrorismo nel pieno rispetto dei diritti umani
 
 3\. Le parti convengono di cooperare per la prevenzione e repressione delle azioni terroristiche attraverso la cooperazione giudiziaria e di polizia.
 
-## TITOLO III - SVILUPPO SOCIALE E COESIONE SOCIALE
+### TITOLO III - SVILUPPO SOCIALE E COESIONE SOCIALE
 
-##### Art. 41
+###### Art. 41
 
 Coesione sociale, compresa la lotta alla poverta', alle diseguaglianze e all'esclusione
 
@@ -827,7 +827,7 @@ i) politiche e programmi specifici per i giovani.
 
 4\. Le parti si impegnano inoltre a valutare congiuntamente il contributo che l'attuazione del presente accordo fornisce alla coesione sociale.
 
-##### Art. 42
+###### Art. 42
 
 Occupazione e protezione sociale
 
@@ -857,7 +857,7 @@ k) stimolare la creazione di posti di lavoro e l'imprenditorialita' rafforzando 
 
 2\. Le attivita' possono essere svolte a livello nazionale, regionale e interregionale, tra l'altro attraverso la realizzazione di reti, l'apprendimento reciproco, l'individuazione e la diffusione di buone pratiche, la condivisione di dati sulla base di strumenti e indicatori statistici confrontabili e contatti tra le organizzazioni delle parti sociali.
 
-##### Art. 43
+###### Art. 43
 
 Istruzione e formazione
 
@@ -885,7 +885,7 @@ b) le sinergie tra gli istituti di istruzione superiore e i settori pubblico e p
 
 3\. Le parti convengono di prestare particolare attenzione all'ulteriore sviluppo dello spazio della conoscenza UE-ALC e ad iniziative quali lo spazio comune dell'istruzione superiore UE-ALC, soprattutto nell'ottica di incoraggiare la condivisione e lo scambio di esperienze e di risorse tecniche.
 
-##### Art. 44
+###### Art. 44
 
 Salute pubblica
 
@@ -899,7 +899,7 @@ Salute pubblica
 
 5\. Le parti si impegnano a favore della costituzione di associazioni che vadano oltre i sistemi sanitari pubblici e realizzino con la societa' civile e altri soggetti partenariati strategici le cui priorita' siano la prevenzione delle malattie e la promozione della salute.
 
-##### Art. 45
+###### Art. 45
 
 Popoli indigeni e altri gruppi etnici
 
@@ -913,7 +913,7 @@ Popoli indigeni e altri gruppi etnici
 
 Tale cooperazione rafforza altresi' le loro capacita' negoziali, amministrative e di gestione.
 
-##### Art. 46
+###### Art. 46
 
 Gruppi vulnerabili
 
@@ -923,7 +923,7 @@ L'obiettivo dovrebbe essere la promozione dello sviluppo umano, la riduzione del
 
 2\. La cooperazione riguarda la tutela dei diritti umani e le pari opportunita' per i gruppi vulnerabili, la creazione di opportunita' economiche per i piu' poveri, specifiche politiche sociali intese a sviluppare le capacita' umane attraverso l'istruzione e la formazione, l'accesso a servizi sociali di base, le reti di sicurezza sociale e la giustizia. L'attenzione si concentra, in particolare e tra l'altro, sulle persone con disabilita' e sulle loro famiglie, sui minori, sulle donne e sugli anziani.
 
-##### Art. 47
+###### Art. 47
 
 Genere
 
@@ -935,7 +935,7 @@ Genere
 
 4\. Un'attenzione particolare e' accordata ai programmi che si occupano della violenza contro le donne, soprattutto in termini di prevenzione.
 
-##### Art. 48
+###### Art. 48
 
 Gioventu'
 
@@ -943,9 +943,9 @@ Gioventu'
 
 2\. Le parti decidono di promuovere la partecipazione attiva dei giovani alla societa', anche in termini di partecipazione alla formulazione delle politiche che incidono sulla loro vita.
 
-## TITOLO IV - MIGRAZIONI
+### TITOLO IV - MIGRAZIONI
 
-##### Art. 49
+###### Art. 49
 
 Migrazioni
 
@@ -979,9 +979,9 @@ b) ciascuno Stato membro dell'Unione europea riammette, su richiesta e senza ult
 
 4\. Le parti convengono di concludere, su richiesta e non appena possibile, un accordo che disciplini gli obblighi specifici degli Stati membri dell'Unione europea e delle Repubbliche della parte AC in materia di riammissione. Tale accordo disciplina anche la riammissione dei cittadini di altri paesi e degli apolidi.
 
-## TITOLO V - AMBIENTE, CALAMITÀ NATURALI E CAMBIAMENTI CLIMATICI
+### TITOLO V - AMBIENTE, CALAMITÀ NATURALI E CAMBIAMENTI CLIMATICI
 
-##### Art. 50
+###### Art. 50
 
 Cooperazione in materia di ambiente
 
@@ -1017,7 +1017,7 @@ g) l'assistenza all'attuazione e all'applicazione degli accordi multilaterali su
 
 h) il rafforzamento della gestione ambientale e dei sistemi di monitoraggio e controllo.
 
-##### Art. 51
+###### Art. 51
 
 Gestione delle calamita' naturali
 
@@ -1027,15 +1027,15 @@ Gestione delle calamita' naturali
 
 3\. Le parti riservano un'attenzione particolare a rafforzare l'elemento di riduzione del rischio di calamita' in tutte le loro politiche, anche a livello di gestione del territorio e di attivita' di ripristino e ricostruzione.
 
-## TITOLO VI - SVILUPPO ECONOMICO E COMMERCIALE
+### TITOLO VI - SVILUPPO ECONOMICO E COMMERCIALE
 
-##### Art. 52
+###### Art. 52
 
 Cooperazione e assistenza tecnica nell'ambito della politica della concorrenza
 
 Tenendo conto della dimensione regionale, l'assistenza tecnica si concentra, tra l'altro, sullo sviluppo di capacita' istituzionali e sulla formazione delle risorse umane delle autorita' garanti della concorrenza cosi' da sostenerle nel rafforzamento e nell'applicazione efficace del diritto della concorrenza nel settore dell'antitrust e delle concentrazioni, anche in termini di promozione della concorrenza.
 
-##### Art. 53
+###### Art. 53
 
 Cooperazione e reciproca assistenza in materia doganale
 
@@ -1067,7 +1067,7 @@ c) la promozione del coordinamento tra tutte le autorita' di frontiera competent
 
 3\. Le parti si forniscono reciproca assistenza amministrativa in materia doganale, conformemente alle disposizioni dell'allegato III della parte IV del presente accordo.
 
-##### Art. 54
+###### Art. 54
 
 Cooperazione e assistenza tecnica in materia di dogane e facilitazione degli scambi
 
@@ -1083,7 +1083,7 @@ d) l'introduzione di procedure e pratiche che si ispirino, per quanto possibile,
 
 e) i sistemi informativi e l'automazione delle procedure doganali e di altre procedure commerciali.
 
-##### Art. 55
+###### Art. 55
 
 Cooperazione e assistenza tecnica in materia di proprieta' intellettuale e di trasferimento di tecnologie
 
@@ -1109,7 +1109,7 @@ b) le parti riconoscono l'importanza di dar vita a meccanismi che rafforzino e p
 
 c) allo stesso modo la parte UE facilita e promuove programmi finalizzati all'avvio di attivita' di ricerca e sviluppo nell'America centrale per rispondere alle esigenze della regione, quali tra l'altro l'accesso ai medicinali, le infrastrutture e lo sviluppo tecnologico necessari al progresso della popolazione.
 
-##### Art. 56
+###### Art. 56
 
 Cooperazione in materia di stabilimento, scambi di servizi e commercio elettronico
 
@@ -1129,7 +1129,7 @@ e) la promozione dello scambio di informazioni e di esperienze e, se del caso, l
 
 f) l'istituzione di meccanismi per promuovere gli investimenti tra la parte UE e le Repubbliche della parte AC e migliorare le capacita' delle agenzie di promozione degli investimenti nelle Repubbliche della parte AC.
 
-##### Art. 57
+###### Art. 57
 
 Cooperazione e assistenza tecnica in materia di ostacoli tecnici agli scambi
 
@@ -1143,7 +1143,7 @@ c) promuovere la partecipazione attiva dei rappresentanti delle Repubbliche dell
 
 d) scambiare le informazioni, le esperienze e le buone pratiche per agevolare l'attuazione del capo 4 (Ostacoli tecnici agli scambi) del titolo II della parte IV del presente accordo. In questo ambito possono rientrare i programmi di facilitazione degli scambi commerciali nei settori di comune interesse di cui al capo 4.
 
-##### Art. 58
+###### Art. 58
 
 Cooperazione e assistenza tecnica in materia di appalti pubblici
 
@@ -1159,7 +1159,7 @@ d) favorire lo sviluppo, l'istituzione e il funzionamento di un unico punto di a
 
 e) migliorare le capacita' tecnologiche dei soggetti pubblici appaltanti, siano essi soggetti a livello centrale, soggetti di livello inferiore a quello centrale o soggetti di altra natura.
 
-##### Art. 59
+###### Art. 59
 
 Cooperazione e assistenza tecnica in materia di pesca e acquacoltura
 
@@ -1185,7 +1185,7 @@ c) il sostegno alla cooperazione istituzionale e l'agevolazione dello scambio di
 
 d) il rafforzamento della cooperazione con le organizzazioni internazionali e con le organizzazioni nazionali e regionali di gestione della pesca fornendo assistenza tecnica, ad esempio con seminari e studi, in modo che sia meglio compreso il valore aggiunto che gli strumenti giuridici internazionali apportano al conseguimento di una corretta gestione delle risorse marine.
 
-##### Art. 60
+###### Art. 60
 
 Cooperazione e assistenza tecnica in materia di prodotti artigianali
 
@@ -1201,7 +1201,7 @@ d) il sostegno allo sviluppo delle infrastrutture necessarie a supportare le MPM
 
 e) lo sviluppo di capacita' attraverso programmi di formazione, al fine di migliorare i risultati economici dei produttori di prodotti artigianali.
 
-##### Art. 61
+###### Art. 61
 
 Cooperazione e assistenza tecnica in materia di prodotti biologici
 
@@ -1217,7 +1217,7 @@ d) lo sviluppo di capacita' attraverso programmi di formazione, al fine di migli
 
 e) la cooperazione ai fini dello sviluppo di reti di distribuzione sul mercato dell'Unione europea.
 
-##### Art. 62
+###### Art. 62
 
 Cooperazione e assistenza tecnica in materia di sicurezza alimentare, questioni sanitarie e fitosanitarie e questioni inerenti al benessere degli animali
 
@@ -1239,7 +1239,7 @@ e) la fornitura di consulenza e assistenza tecnica sul sistema di regolamentazio
 
 4\. Il comitato di associazione monitora i progressi della cooperazione istituita a norma del presente articolo e presenta i risultati di quest'attivita' al sottocomitato per le questioni sanitarie e fitosanitarie.
 
-##### Art. 63
+###### Art. 63
 
 Cooperazione e assistenza tecnica in materia di commercio e sviluppo sostenibile
 
@@ -1261,7 +1261,7 @@ f) l'agevolazione dello scambio di opinioni sulla messa a punto di metodologie e
 
 g) il rafforzamento delle capacita' istituzionali relative alle tematiche del commercio e dello sviluppo sostenibile e il sostegno all'organizzazione e alla promozione di quadri concordati per un dialogo con la societa' civile su questi temi.
 
-##### Art. 64
+###### Art. 64
 
 Cooperazione industriale
 
@@ -1269,7 +1269,7 @@ Cooperazione industriale
 
 2\. Le iniziative di cooperazione industriale, che riflettono le priorita' stabilite dalle parti, tengono conto degli aspetti regionali dello sviluppo industriale, promuovendo, se del caso, partenariati transnazionali. Le iniziative intendono, in particolare, creare un quadro idoneo al miglioramento del know-how gestionale e alla promozione della trasparenza per quanto attiene ai mercati e alle condizioni in cui operano le imprese.
 
-##### Art. 65
+###### Art. 65
 
 Energia (comprese le energie rinnovabili)
 
@@ -1285,13 +1285,13 @@ c) la promozione del risparmio energetico, dell'efficienza energetica, delle ene
 
 d) la promozione dell'applicazione di meccanismi di sviluppo pulito a sostegno delle iniziative riguardanti i cambiamenti climatici e la variabilita' climatica.
 
-##### Art. 66
+###### Art. 66
 
 Cooperazione nel settore minerario
 
 Le parti convengono di cooperare nel settore minerario tenendo conto della loro rispettiva legislazione e delle loro rispettive procedure interne e dei temi dello sviluppo sostenibile, compreso anche quello della tutela e della conservazione dell'ambiente. Esse cooperano mediante iniziative volte a promuovere lo scambio di informazioni, di esperti, di esperienze e lo sviluppo e il trasferimento di tecnologie.
 
-##### Art. 67
+###### Art. 67
 
 Turismo equo e sostenibile
 
@@ -1315,7 +1315,7 @@ g) l'elaborazione di piani di gestione per lo sviluppo del turismo nazionale e r
 
 h) la promozione delle tecnologie dell'informazione applicate al turismo.
 
-##### Art. 68
+###### Art. 68
 
 Cooperazione nel settore dei trasporti
 
@@ -1333,13 +1333,13 @@ d) l'innalzamento degli standard di sicurezza e di prevenzione dell'inquinamento
 
 e) attivita' che promuovono lo sviluppo del trasporto aereo e marittimo.
 
-##### Art. 69
+###### Art. 69
 
 Buon governo nel settore fiscale
 
 Le parti, conformemente alle loro rispettive competenze, miglioreranno la cooperazione internazionale nel settore fiscale per agevolare la riscossione del legittimo gettito fiscale ed elaborare misure volte a un'attuazione efficace dei principi comuni di buon governo nel settore fiscale, concordati a livello internazionale e richiamati all'articolo 22 della parte II del presente accordo.
 
-##### Art. 70
+###### Art. 70
 
 Micro, piccole e medie imprese
 
@@ -1365,7 +1365,7 @@ i) il sostegno all'innovazione, alla ricerca e allo sviluppo;
 
 j) il sostegno all'utilizzo di sistemi di gestione della qualita'.
 
-##### Art. 71
+###### Art. 71
 
 Cooperazione in materia di microcredito e microfinanza
 
@@ -1377,9 +1377,9 @@ b) l'accesso al microcredito facilitando, mediante incentivi e programmi di gest
 
 c) lo scambio di esperienze riguardo alle politiche e agli strumenti legislativi alternativi per la promozione dell'avvio delle attivita' di banca etica e popolare.
 
-## TITOLO VII - INTEGRAZIONE REGIONALE
+### TITOLO VII - INTEGRAZIONE REGIONALE
 
-##### Art. 72
+###### Art. 72
 
 Cooperazione nell'ambito dell'integrazione regionale
 
@@ -1395,15 +1395,15 @@ Un'attenzione particolare e' accordata alla dimensione di genere.
 
 5\. La cooperazione puo' promuovere gli investimenti per infrastrutture e reti comuni, soprattutto ai confini delle Repubbliche della parte AC.
 
-##### Art. 73
+###### Art. 73
 
 Cooperazione regionale
 
 Le parti convengono di utilizzare tutti gli strumenti di cooperazione esistenti per promuovere le attivita' dirette a sviluppare una cooperazione attiva tra la parte UE e le Repubbliche della parte AC, senza compromettere la cooperazione tra loro, tra le Repubbliche della parte AC e altri paesi e/o regioni dell'America latina e dei Caraibi in tutti i settori di cooperazione disciplinati dal presente accordo. Le attivita' di cooperazione regionale e bilaterale puntano a essere complementari.
 
-## TITOLO VIII - COOPERAZIONE NELL'AMBITO DELLA CULTURA E DEGLI AUDIOVISIVI
+### TITOLO VIII - COOPERAZIONE NELL'AMBITO DELLA CULTURA E DEGLI AUDIOVISIVI
 
-##### Art. 74
+###### Art. 74
 
 Cooperazione nell'ambito della cultura e degli audiovisivi
 
@@ -1421,9 +1421,9 @@ Cooperazione nell'ambito della cultura e degli audiovisivi
 
 7\. Un protocollo sulla cooperazione culturale, rilevante ai fini del presente titolo, e' allegato al presente accordo.
 
-## TITOLO IX - SOCIETÀ DELL'INFORMAZIONE
+### TITOLO IX - SOCIETÀ DELL'INFORMAZIONE
 
-##### Art. 75
+###### Art. 75
 
 Societa' dell'informazione
 
@@ -1443,7 +1443,7 @@ e) progetti comuni di ricerca e sviluppo sulle tecnologie dell'informazione e de
 
 f) lo sviluppo dell'utilizzo dell'Academic Advanced Network (rete accademica avanzata), ovvero la ricerca di soluzioni a lungo termine in grado di garantire l'autosostenibilita' della rete REDClara.
 
-##### Art. 76
+###### Art. 76
 
 Cooperazione scientifica e tecnologica
 
@@ -1483,7 +1483,7 @@ j) la promozione della formazione, della ricerca, dello sviluppo e di applicazio
 
 ### TITOLO I - DISPOSIZIONI INIZIALI
 
-##### Art. 77
+###### Art. 77
 
 Istituzione di una zona di libero scambio e rapporto con l'accordo OMC
 
@@ -1495,7 +1495,7 @@ Istituzione di una zona di libero scambio e rapporto con l'accordo OMC
 
 (1) Il termine "vigenti" implica che il paragrafo si applica esclusivamente alle disposizioni vigenti dell'accordo OMC e non alle modifiche o alle disposizioni concordate successivamente alla finalizzazione del presente accordo.
 
-##### Art. 78
+###### Art. 78
 
 Obiettivi
 
@@ -1521,7 +1521,7 @@ i) l'istituzione di un meccanismo di risoluzione delle controversie efficace, eq
 
 j) la promozione degli scambi e degli investimenti internazionali tra le parti in modo da contribuire al conseguimento dell'obiettivo dello sviluppo sostenibile mediante attivita' congiunte di collaborazione.
 
-##### Art. 79
+###### Art. 79
 
 Definizioni di applicazione generale
 
@@ -1557,33 +1557,33 @@ legislazione interna di una parte e conformemente all'articolo 87 del capo 1 del
 
 \- "trattamento tariffario preferenziale": l'aliquota del dazio doganale applicabile, a norma del presente accordo, a una merce originaria.
 
-## TITOLO II - SCAMBI DI MERCI
+### TITOLO II - SCAMBI DI MERCI
 
-### CAPO 1 - TRATTAMENTO NAZIONALE E ACCESSO AL MERCATO PER LE MERCI
+#### CAPO 1 - TRATTAMENTO NAZIONALE E ACCESSO AL MERCATO PER LE MERCI
 
-#### Sezione A - DISPOSIZIONI GENERALI
+##### Sezione A - DISPOSIZIONI GENERALI
 
-##### Art. 80
+###### Art. 80
 
 Obiettivo
 
 Le parti liberalizzano progressivamente gli scambi di merci in conformita' alle disposizioni del presente accordo e all'articolo XXIV del GATT 1994.
 
-##### Art. 81
+###### Art. 81
 
 Ambito di applicazione
 
 Salvo altrimenti disposto, le disposizioni del presente capo si applicano agli scambi di merci fra le parti.
 
-## Sezione B - SOPPRESSIONE DEI DAZI DOGANALI
+##### Sezione B - SOPPRESSIONE DEI DAZI DOGANALI
 
-##### Art. 82
+###### Art. 82
 
 Classificazione delle merci
 
 La classificazione delle merci oggetto di scambi tra le parti e' quella della nomenclatura tariffaria di ciascuna parte, in conformita' con il sistema armonizzato.
 
-##### Art. 83
+###### Art. 83
 
 Soppressione dei dazi doganali
 
@@ -1599,7 +1599,7 @@ Soppressione dei dazi doganali
 
 (2) Ai fini del presente accordo, salvo disposizione contraria, i termini "merce" e "prodotto" sono considerati equivalenti.
 
-##### Art. 84
+###### Art. 84
 
 Clausola di standstill
 
@@ -1615,9 +1615,9 @@ c) aumenti le aliquote di base su merci escluse con l'obiettivo di pervenire a u
 
 (3) Per le merci che non sono oggetto di trattamento preferenziale, per "dazio doganale" si intende l'"aliquota di base" indicata nelle tabelle della parte.
 
-## Sezione C - MISURE NON TARIFFARIE
+##### Sezione C - MISURE NON TARIFFARIE
 
-##### Art. 85
+###### Art. 85
 
 Trattamento nazionale
 
@@ -1627,7 +1627,7 @@ Ciascuna delle parti riserva alle merci dell'altra parte il trattamento nazional
 
 (4) Le parti riconoscono che l'articolo 158 del capo 6 (Eccezioni relative alle merci) del titolo II si applica anche al presente articolo.
 
-##### Art. 86
+###### Art. 86
 
 Restrizioni all'importazione e all'esportazione
 
@@ -1637,21 +1637,21 @@ Nessuna delle due parti istituisce o mantiene in vigore divieti o restrizioni su
 
 (5) Le parti riconoscono che l'articolo 158 del capo 6 (Eccezioni relative alle merci) del titolo II si applica anche al presente articolo.
 
-##### Art. 87
+###### Art. 87
 
 Diritti e altri oneri sulle importazioni e sulle esportazioni
 
 Ciascuna delle parti garantisce, conformemente all'articolo VIII, paragrafo 1, del GATT 1994 e alle relative note interpretative, che tutti i diritti e gli oneri di qualsiasi tipo [diversi dai dazi doganali, dagli oneri equivalenti a un'imposizione interna o da altri oneri interni applicati in conformita' all'articolo 85 del presente capo e dai dazi antidumping e compensativi istituiti a norma della legislazione interna di una parte e conformemente al capo 2 (Misure di difesa commerciale) del presente titolo], imposti all'importazione o all'esportazione o in relazione ad esse, siano limitati al costo approssimativo dei servizi prestati e non rappresentino una protezione indiretta delle merci di produzione interna ne' una tassazione a fini fiscali delle importazioni o delle esportazioni.
 
-##### Art. 88
+###### Art. 88
 
 Dazi o tasse all'esportazione
 
 Salvo altrimenti disposto nel presente accordo, nessuna delle due parti mantiene o istituisce dazi o tasse imposti all'esportazione o in relazione all'esportazione di merci verso l'altra parte.
 
-## Sezione D - AGRICOLTURA
+##### Sezione D - AGRICOLTURA
 
-##### Art. 89
+###### Art. 89
 
 Sovvenzioni all'esportazione di prodotti agricoli
 
@@ -1671,17 +1671,17 @@ c) siano assoggettati al trattamento preferenziale previsto dal presente accordo
 
 5\. Per i prodotti pienamente liberalizzati nell'arco di un periodo transitorio a norma dell'allegato I (Soppressione dei dazi doganali) e che non beneficiano, all'entrata in vigore del presente accordo, di un contingente esente da dazi, nessuna delle parti mantiene, introduce o reintroduce sovvenzioni all'esportazione al termine del periodo transitorio.
 
-## Sezione E - PESCA, ACQUACOLTURA, PRODOTTI ARTIGIANALI E PRODOTTI BIOLOGICI
+##### Sezione E - PESCA, ACQUACOLTURA, PRODOTTI ARTIGIANALI E PRODOTTI BIOLOGICI
 
-##### Art. 90
+###### Art. 90
 
 Cooperazione tecnica
 
 Le misure relative all'assistenza tecnica e alla cooperazione volte a intensificare gli scambi tra le parti nei settori della pesca, dell'acquacoltura, dei prodotti artigianali e dei prodotti biologici sono contenute negli articoli 59, 60 e 61 del titolo VI (Sviluppo economico e commerciale) della parte III del presente accordo.
 
-## Sezione F - DISPOSIZIONI ISTITUZIONALI
+##### Sezione F - DISPOSIZIONI ISTITUZIONALI
 
-##### Art. 91
+###### Art. 91
 
 Sottocomitato sull'accesso al mercato per le merci
 
@@ -1699,11 +1699,11 @@ d) formula raccomandazioni pertinenti al comitato di associazione nelle materie 
 
 e) si occupa di qualsiasi altra questione, secondo le indicazioni del comitato di associazione.
 
-## CAPO 2 - MISURE DI DIFESA COMMERCIALE
+#### CAPO 2 - MISURE DI DIFESA COMMERCIALE
 
-### Sezione A - MISURE ANTIDUMPING E COMPENSATIVE
+##### Sezione A - MISURE ANTIDUMPING E COMPENSATIVE
 
-##### Art. 92
+###### Art. 92
 
 Disposizioni generali
 
@@ -1711,7 +1711,7 @@ Disposizioni generali
 
 2\. Laddove le misure antidumping o compensative possano essere istituite a livello regionale e a livello nazionale, le parti garantiscono che le autorita' regionali e nazionali non applichino tali misure antidumping o compensative contemporaneamente allo stesso prodotto.
 
-##### Art. 93
+###### Art. 93
 
 Trasparenza e certezza del diritto
 
@@ -1723,41 +1723,41 @@ Trasparenza e certezza del diritto
 
 4\. Le parti concedono alle parti interessate che ne facciano richiesta la possibilita' di essere sentite e di esprimere il loro punto di vista nel quadro di inchieste su misure antidumping o compensative. Cio' non deve inutilmente ritardare lo svolgimento delle inchieste.
 
-##### Art. 94
+###### Art. 94
 
 Considerazione dell'interesse pubblico
 
 Una parte puo' scegliere di non applicare le misure antidumping o compensative laddove dalle informazioni resesi disponibili durante l'inchiesta si possa chiaramente concludere che non e' nell'interesse pubblico applicare tali misure.
 
-##### Art. 95
+###### Art. 95
 
 Regola del dazio inferiore
 
 Se una parte decide di istituire un dazio antidumping o compensativo, l'ammontare di tale dazio non supera il margine di dumping o di sovvenzione compensabile. E' tuttavia auspicabile che il dazio sia inferiore al citato margine se il dazio inferiore e' sufficiente a eliminare il pregiudizio per l'industria interna.
 
-##### Art. 96
+###### Art. 96
 
 Nesso di causalita'
 
 Per istituire misure antidumping o compensative e conformemente a quanto previsto dall'articolo 3, paragrafo 5, dell'accordo antidumping e dall'articolo 15, paragrafo 5, dell'accordo SCM, le autorita' incaricate dell'inchiesta - nel quadro della dimostrazione del rapporto di causalita' tra le importazioni in dumping e il pregiudizio per l'industria interna - separano e distinguono gli effetti pregiudizievoli di tutti i fattori noti dagli effetti pregiudizievoli delle importazioni in dumping o sovvenzionate.
 
-##### Art. 97
+###### Art. 97
 
 Valutazione cumulativa
 
 Se le importazioni provenienti da piu' paesi sono simultaneamente oggetto di inchieste relative a dazi antidumping o compensativi, l'autorita' incaricata dell'inchiesta della parte UE esamina, con particolare attenzione, se la valutazione cumulativa degli effetti delle importazioni da una qualsiasi Repubblica della parte AC e' appropriata, tenuto conto delle condizioni di concorrenza tra i prodotti importati e tra i prodotti importati e i prodotti simili di produzione interna.
 
-##### Art. 98
+###### Art. 98
 
 Esclusione dalle procedure di risoluzione delle controversie
 
 Per le questioni attinenti alla presente sezione le parti non ricorrono alle procedure di risoluzione delle controversie di cui al titolo X (Risoluzione delle controversie) della parte IV del presente accordo.
 
-## Sezione B - MISURE DI SALVAGUARDIA
+##### Sezione B - MISURE DI SALVAGUARDIA
 
-### SOTTOSEZIONE B.1 - DISPOSIZIONI GENERALI
+**SOTTOSEZIONE B.1 - DISPOSIZIONI GENERALI**
 
-##### Art. 99
+###### Art. 99
 
 Amministrazione dei procedimenti di salvaguardia
 
@@ -1767,7 +1767,7 @@ Amministrazione dei procedimenti di salvaguardia
 
 3\. Ciascuna parte adotta o mantiene in vigore procedure eque, rapide, trasparenti ed efficaci per i procedimenti di salvaguardia di cui alla presente sezione.
 
-##### Art. 100
+###### Art. 100
 
 Non cumulo
 
@@ -1777,29 +1777,29 @@ a) una misura di salvaguardia bilaterale di cui alla sottosezione B.3 (Misure di
 
 b) una misura a norma dell'articolo XIX del GATT 1994, dell'accordo OMC sulle misure di salvaguardia ("accordo sulle misure di salvaguardia") o dell'articolo 5 dell'accordo sull'agricoltura.
 
-## SOTTOSEZIONE B.2 - MISURE DI SALVAGUARDIA MULTILATERALI
+**SOTTOSEZIONE B.2 - MISURE DI SALVAGUARDIA MULTILATERALI**
 
-##### Art. 101
+###### Art. 101
 
 Disposizioni generali
 
 Le parti mantengono i propri diritti e gli obblighi derivanti dall'articolo XIX del GATT 1994, dall'accordo sulle misure di salvaguardia, dall'articolo 5 dell'accordo sull'agricoltura e dall'accordo sulle regole di origine.
 
-##### Art. 102
+###### Art. 102
 
 Trasparenza
 
 Fermo restando quanto disposto dall'articolo 101, la parte che avvia un'inchiesta o che intende adottare misure di salvaguardia comunica immediatamente per iscritto all'altra parte che le richieda tutte le informazioni pertinenti, comprese se del caso quelle sull'avvio di un'inchiesta di salvaguardia, sulle conclusioni provvisorie e sulle conclusioni definitive dell'inchiesta.
 
-##### Art. 103
+###### Art. 103
 
 Esclusione dalle procedure di risoluzione delle controversie
 
 Per le disposizioni che si richiamano ai diritti e agli obblighi in ambito OMC derivanti dalla presente sottosezione le parti non ricorrono alle procedure di risoluzione delle controversie di cui al titolo X (Risoluzione delle controversie) della parte IV del presente accordo.
 
-## SOTTOSEZIONE B.3 - MISURE DI SALVAGUARDIA BILATERALI
+**SOTTOSEZIONE B.3 - MISURE DI SALVAGUARDIA BILATERALI**
 
-##### Art. 104
+###### Art. 104
 
 Applicazione di una misura di salvaguardia bilaterale
 
@@ -1819,7 +1819,7 @@ ii) l'aliquota della nazione piu' favorita applicata sul prodotto interessato e 
 
 4\. Nessuna delle misure di cui sopra trova applicazione fino a concorrenza dei contingenti tariffari preferenziali esenti da dazi concessi a norma del presente accordo.
 
-##### Art. 105
+###### Art. 105
 
 Condizioni e limitazioni
 
@@ -1833,13 +1833,13 @@ c) oltre la scadenza del periodo transitorio, salvo accordo dell'altra parte. Pe
 
 2\. Quando una parte cessa di applicare una misura di salvaguardia bilaterale, l'aliquota del dazio doganale e' quella che sarebbe stata altrimenti in vigore per quella merce conformemente alle tabella di soppressione dei dazi di quella parte.
 
-##### Art. 106
+###### Art. 106
 
 Misure provvisorie
 
 In circostanze critiche nelle quali un ritardo causerebbe un danno difficilmente riparabile, una parte puo' applicare, in via provvisoria, una misura di salvaguardia bilaterale senza rispettare le prescrizioni dell'articolo 116, paragrafo 1, del presente capo, se accerta in sede di valutazione preliminare che e' chiaramente dimostrato che le importazioni di un prodotto originario dell'altra parte sono aumentate per effetto della riduzione o della soppressione di un dazio doganale in applicazione del presente accordo, e che tali importazioni causano o minacciano di causare le situazioni di cui all'articolo 104 o 109. La durata di una misura provvisoria non supera i duecento giorni, periodo durante il quale la parte si conforma alle norme procedurali pertinenti di cui alla sottosezione B.4 (Norme procedurali applicabili alle misure di salvaguardia bilaterali). La parte rimborsa sollecitamente gli aumenti tariffari se l'inchiesta di cui alla sottosezione B.4 non stabilisce che sono soddisfatte le condizioni di cui all'articolo 104. La durata di una misura provvisoria e' inclusa nel periodo di cui all'articolo 105, paragrafo 1, lettera b). All'atto dell'adozione delle misure provvisorie la parte importatrice interessata ne da' comunicazione all'altra parte interessata e se quest'ultima lo richiede sottopone immediatamente la questione all'esame del comitato di associazione.
 
-##### Art. 107
+###### Art. 107
 
 Compensazione e sospensione di concessioni
 
@@ -1847,13 +1847,13 @@ Compensazione e sospensione di concessioni
 
 2\. Se le consultazioni di cui al paragrafo 1 non consentono di giungere, entro trenta giorni, ad un accordo sulla compensazione a livello di liberalizzazione degli scambi, la parte i cui prodotti sono oggetto della misura di salvaguardia puo' sospendere l'applicazione di concessioni sostanzialmente equivalenti agli scambi della parte che applica la misura di salvaguardia.
 
-##### Art. 108
+###### Art. 108
 
 Intervallo tra due misure
 
 Le misure di salvaguardia di cui alla presente sottosezione non si applicano alle importazioni di un prodotto che sia gia' stato assoggettato a una misura di questo tipo, a meno che non sia trascorso un intervallo di tempo pari alla meta' della durata del periodo di applicazione piu' recente della misura di salvaguardia.
 
-##### Art. 109
+###### Art. 109
 
 Regioni ultraperiferiche
 
@@ -1863,15 +1863,15 @@ Regioni ultraperiferiche
 
 3\. In caso di grave deterioramento o di minaccia di un grave deterioramento della situazione economica di regioni estremamente sottosviluppate delle Repubbliche della parte AC, il Consiglio di associazione puo' discutere se il presente articolo possa applicarsi anche a tali regioni.
 
-## SOTTOSEZIONE B.4 - NORME PROCEDURALI APPLICABILI ALLE MISURE DI SALVAGUARDIA BILATERALI
+**SOTTOSEZIONE B.4 - NORME PROCEDURALI APPLICABILI ALLE MISURE DI SALVAGUARDIA BILATERALI**
 
-##### Art. 110
+###### Art. 110
 
 Legge applicabile
 
 Ai fini dell'applicazione delle misure di salvaguardia bilaterali, l'autorita' competente incaricata dell'inchiesta rispetta le disposizioni della presente sottosezione e per i casi in essa non contemplati applica le norme della propria legislazione interna.
 
-##### Art. 111
+###### Art. 111
 
 Avvio del procedimento
 
@@ -1885,7 +1885,7 @@ Nell'avviso sono indicati il soggetto che ha presentato la domanda scritta, ove 
 
 4\. Nel caso di un procedimento di salvaguardia avviato sulla base di una domanda scritta presentata da un soggetto che affermi di essere rappresentativo dell'industria interna, l'autorita' competente incaricata dell'inchiesta non pubblica l'avviso di cui al paragrafo 3 se non dopo aver attentamente verificato che la domanda scritta soddisfa le prescrizioni della propria legislazione interna.
 
-##### Art. 112
+###### Art. 112
 
 Inchiesta
 
@@ -1893,7 +1893,7 @@ Inchiesta
 
 2\. Ciascuna parte provvede affinche' la propria autorita' competente incaricata dell'inchiesta termini l'inchiesta entro dodici mesi dalla data di apertura.
 
-##### Art. 113
+###### Art. 113
 
 Elementi di prova relativi al pregiudizio e nesso di causalita'
 
@@ -1901,7 +1901,7 @@ Elementi di prova relativi al pregiudizio e nesso di causalita'
 
 2\. Non si procede a stabilire se l'incremento delle importazioni abbia causato o minacci di causare le situazioni di cui all'articolo 104 o 109 salvo che l'inchiesta dimostri, sulla base di elementi di prova oggettivi, l'esistenza di un evidente nesso di causalita' tra l'aumento delle importazioni del prodotto interessato e le situazioni descritte all'articolo 104 o 109. Qualora fattori diversi dall'aumento delle importazioni stiano contemporaneamente causando le situazioni descritte all'articolo 104 o 109, il pregiudizio o il grave deterioramento della situazione economica non e' imputato all'aumento delle importazioni.
 
-##### Art. 114
+###### Art. 114
 
 Audizioni
 
@@ -1911,13 +1911,13 @@ a) organizza, previo congruo preavviso, un'audizione pubblica per consentire a t
 
 b) offre a tutte le parti interessate la possibilita' di essere sentite qualora lo abbiano chiesto per iscritto entro il termine stabilito nell'avviso di apertura e abbiano dimostrato di poter essere effettivamente interessate dal risultato dell'inchiesta e che esistono motivi particolari che giustificano una loro audizione orale.
 
-##### Art. 115
+###### Art. 115
 
 Informazioni riservate
 
 Ove siano addotte valide ragioni, tutte le informazioni di natura riservata o fornite a titolo riservato sono trattate come tali dall'autorita' competente incaricata dell'inchiesta. Tali informazioni non sono divulgate senza l'autorizzazione della parte che le ha fornite. Alle parti che abbiano fornito informazioni riservate puo' essere richiesta la presentazione di una sintesi non riservata oppure dei motivi per i quali non e' possibile fornire tale sintesi, ove le parti affermino che tali informazioni non possono essere riassunte. Tuttavia nei casi in cui l'autorita' competente incaricata dell'inchiesta ritenga che la richiesta di riservatezza non sia giustificata e la parte interessata non sia disposta a rendere pubbliche le informazioni o ad autorizzarne la divulgazione in termini generici o sintetici, la suddetta autorita' puo' non tener conto di tali informazioni, a meno che la loro esattezza non sia adeguatamente dimostrata da fonti attendibili.
 
-##### Art. 116
+###### Art. 116
 
 Notifiche e pubblicazioni
 
@@ -1929,9 +1929,9 @@ Notifiche e pubblicazioni
 
 4\. L'autorita' competente incaricata dell'inchiesta non pubblica le informazioni ricevute se esse sono oggetto di un impegno relativo al loro trattamento riservato, eventualmente assunto nel corso del procedimento.
 
-## CAPO 3 - DOGANE E FACILITAZIONE DEGLI SCAMBI
+#### CAPO 3 - DOGANE E FACILITAZIONE DEGLI SCAMBI
 
-##### Art. 117
+###### Art. 117
 
 Obiettivi
 
@@ -1939,7 +1939,7 @@ Obiettivi
 
 2\. Le parti riconoscono che non vanno in alcun modo compromessi i legittimi obiettivi di ordine pubblico, compresi quelli connessi alla sicurezza e alla prevenzione delle frodi.
 
-##### Art. 118
+###### Art. 118
 
 Dogane e procedure riguardanti il commercio
 
@@ -1979,7 +1979,7 @@ d) adottano misure volte ad assicurare i piu' elevati standard di correttezza.
 
 Qualora una parte prescriva il ricorso obbligatorio agli spedizionieri doganali, le persone giuridiche possono avvalersi di propri spedizionieri doganali interni (in house) autorizzati a tal fine dall'autorita' competente. La presente disposizione non pregiudica la posizione delle parti in negoziati multilaterali.
 
-##### Art. 119
+###### Art. 119
 
 Operazioni di transito
 
@@ -1995,7 +1995,7 @@ Operazioni di transito
 
 6\. Le parti garantiscono la cooperazione e il coordinamento di tutte le autorita' e agenzie interessate sul loro territorio al fine di agevolare il traffico in transito e promuovere la cooperazione transfrontaliera.
 
-##### Art. 120
+###### Art. 120
 
 Rapporti con la comunita' imprenditoriale
 
@@ -2017,19 +2017,19 @@ e) di garantire che le loro rispettive prescrizioni e procedure doganali e corre
 
 (6) Per quanto concerne le parti la cui legislazione impone che l'entrata in vigore e la data di pubblicazione coincidano, il governo fa in modo che gli operatori siano informati con sufficiente anticipo di eventuali nuove misure del tipo descritto al presente paragrafo.
 
-##### Art. 121
+###### Art. 121
 
 Valutazione in dogana
 
 Le norme per la valutazione in dogana applicate agli scambi reciproci tra le parti si basano sull'accordo relativo all'applicazione dell'articolo VII dell'accordo generale sulle tariffe doganali e sul commercio del 1994 dell'OMC ("accordo sulla valutazione in dogana").
 
-##### Art. 122
+###### Art. 122
 
 Gestione del rischio
 
 Ciascuna delle parti applica sistemi di gestione del rischio che consentono alle sue autorita' doganali di concentrare le attivita' ispettive sulle merci ad alto rischio e semplificano lo sdoganamento e la circolazione delle merci a basso rischio.
 
-##### Art. 123
+###### Art. 123
 
 Sottocomitato per le dogane, la facilitazione degli scambi e le regole di origine
 
@@ -2055,15 +2055,15 @@ h) si occupa di qualsiasi altra questione, secondo le indicazioni del comitato d
 
 3\. Le parti possono decidere di comune accordo di tenere riunioni ad hoc riguardanti la cooperazione doganale, le regole di origine o l'assistenza amministrativa reciproca.
 
-##### Art. 124
+###### Art. 124
 
 Cooperazione e assistenza tecnica in materia di dogane e facilitazione degli scambi
 
 Le misure di assistenza tecnica necessarie per dare attuazione al presente capo sono contenute negli articoli 53 e 54 del titolo VI (Sviluppo economico e commerciale) della parte III del presente accordo.
 
-## CAPO 4 - OSTACOLI TECNICI AGLI SCAMBI
+#### CAPO 4 - OSTACOLI TECNICI AGLI SCAMBI
 
-##### Art. 125
+###### Art. 125
 
 Obiettivi
 
@@ -2073,13 +2073,13 @@ Obiettivi
 
 3\. Le parti si impegnano a sviluppare e rafforzare le capacita' tecniche sulle questioni relative agli ostacoli tecnici agli scambi con lo scopo di migliorare l'accesso ai rispettivi mercati.
 
-##### Art. 126
+###### Art. 126
 
 Disposizioni generali
 
 Le parti riaffermano i loro diritti ed gli obblighi reciproci derivanti dall'accordo TBT, che e' incorporato nel presente accordo e ne fa parte integrante. Le parti tengono conto, in particolare, dell'articolo 12 dell'accordo TBT sul trattamento speciale e differenziato.
 
-##### Art. 127
+###### Art. 127
 
 Ambito di applicazione e settori interessati
 
@@ -2087,13 +2087,13 @@ Ambito di applicazione e settori interessati
 
 2\. Fermo restando quanto disposto dal paragrafo 1, il presente capo non si applica alle misure sanitarie e fitosanitarie definite nell'allegato A dell'accordo sull'applicazione delle misure sanitarie e fitosanitarie dell'OMC ("accordo SPS"), ne' alle specifiche d'acquisto predisposte da organismi governativi per le loro necessita' di produzione o di consumo e disciplinate dal titolo V (appalti pubblici) della parte IV del presente accordo.
 
-##### Art. 128
+###### Art. 128
 
 Definizioni
 
 Ai fini del presente capo si applicano le definizioni dell'allegato I dell'accordo TBT.
 
-##### Art. 129
+###### Art. 129
 
 Regolamenti tecnici
 
@@ -2107,7 +2107,7 @@ c) di istituire meccanismi che consentano di informare meglio le industrie dell'
 
 d) di fornire senza indugio all'altra parte o ai suoi operatori economici, che ne facciano richiesta, informazioni e, se opportuno, istruzioni scritte su come conformarsi ai loro regolamenti tecnici.
 
-##### Art. 130
+###### Art. 130
 
 Norme
 
@@ -2127,7 +2127,7 @@ e) scambiarsi informazioni circa l'uso che esse fanno delle norme in rapporto ai
 
 f) scambiarsi informazioni e competenze sul lavoro svolto dagli organismi di normazione nazionali, regionali e internazionali e sul grado di utilizzo delle norme internazionali come base delle loro norme nazionali e regionali, come pure informazioni di carattere generale sugli accordi di cooperazione utilizzati dall'una o dall'altra parte in materia di normazione.
 
-##### Art. 131
+###### Art. 131
 
 Valutazione della conformita' e accreditamento
 
@@ -2149,7 +2149,7 @@ b) a garantire che, laddove una parte abbia autorizzato vari organismi di valuta
 
 c) a scambiarsi informazioni sulla politica di accreditamento e a considerare come utilizzare al meglio le norme internazionali per l'accreditamento e gli accordi internazionali cui partecipano gli organismi di accreditamento delle parti, per esempio mediante i meccanismi della Cooperazione internazionale per l'accreditamento dei laboratori (ILAC) e del Forum internazionale per l'accreditamento (IAF).
 
-##### Art. 132
+###### Art. 132
 
 Trattamento speciale e differenziato
 
@@ -2165,13 +2165,13 @@ c) su richiesta della parte esportatrice, la parte importatrice si impegna a tra
 
 d) conformemente all'articolo 12.3 dell'accordo TBT, la parte UE, nell'elaborare o applicare i regolamenti tecnici, le norme e le procedure di valutazione della conformita', tiene conto delle particolari esigenze commerciali, finanziarie e di sviluppo delle Repubbliche della parte AC al fine di evitare che tali regolamenti tecnici, norme e procedure di valutazione della conformita' creino inutili ostacoli alle loro esportazioni.
 
-##### Art. 133
+###### Art. 133
 
 Cooperazione e assistenza tecnica
 
 Le parti convengono che e' nel loro comune interesse promuovere iniziative di assistenza tecnica e di cooperazione reciproca sui temi inerenti agli ostacoli tecnici agli scambi. In questo senso esse hanno individuato una serie di attivita' di cooperazione che sono descritte all'articolo 57 del titolo VI (Sviluppo economico e commerciale) della parte III del presente accordo.
 
-##### Art. 134
+###### Art. 134
 
 Collaborazione e integrazione regionale
 
@@ -2191,7 +2191,7 @@ iii) la promozione e l'incoraggiamento della cooperazione bilaterale tra i rispe
 
 c) su richiesta, una parte prende in debita considerazione le proposte di cooperazione a norma del presente capo avanzate dall'altra parte.
 
-##### Art. 135
+###### Art. 135
 
 Trasparenza e procedure di notifica
 
@@ -2203,7 +2203,7 @@ b) nel caso di notifiche effettuate in applicazione dell'accordo TBT, di concede
 
 c) di prendere in adeguata considerazione il parere dell'altra parte qualora una parte del processo di elaborazione di un regolamento tecnico o di una procedura di valutazione della conformita' preveda, prima della notifica all'OMC, una consultazione pubblica secondo le procedure di ciascuna regione; e convengono di fornire risposte scritte alle osservazioni formulate dall'altra parte che ne faccia richiesta.
 
-##### Art. 136
+###### Art. 136
 
 Vigilanza del mercato
 
@@ -2213,7 +2213,7 @@ a) scambiarsi opinioni sulle attivita' di vigilanza del mercato e di applicazion
 
 b) garantire che la vigilanza del mercato sia effettuata dalle autorita' competenti con indipendenza, onde evitare conflitti di interesse.
 
-##### Art. 137
+###### Art. 137
 
 Diritti
 
@@ -2225,7 +2225,7 @@ b) una parte dia all'altra parte l'opportunita' di contestare l'importo addebita
 
 c) la durata prevista per l'espletamento di qualsiasi procedura obbligatoria di valutazione della conformita' sia ragionevole ed equa per le merci importate e per quelle di produzione interna.
 
-##### Art. 138
+###### Art. 138
 
 Marcatura ed etichettatura
 
@@ -2269,7 +2269,7 @@ b) per le calzature: i materiali principali delle parti piu' importanti, le istr
 
 (7) Qualora l'etichettatura e' richiesta a fini fiscali, tale obbligo e' formulato in modo da non comportare restrizioni agli scambi maggiori di quanto non sia necessario per conseguire un obiettivo legittimo.
 
-##### Art. 139
+###### Art. 139
 
 Sottocomitato sugli ostacoli tecnici agli scambi
 
@@ -2303,9 +2303,9 @@ l) istituisce un dialogo con le autorita' di regolamentazione conformemente all'
 
 m) si occupa di qualsiasi altra questione, secondo le indicazioni del comitato di associazione.
 
-## CAPO 5 - MISURE SANITARIE E FITOSANITARIE
+#### CAPO 5 - MISURE SANITARIE E FITOSANITARIE
 
-##### Art. 140
+###### Art. 140
 
 Obiettivi
 
@@ -2323,13 +2323,13 @@ e) promuovere la cooperazione in ambito sanitario e fitosanitario in conformita'
 
 f) dare progressiva attuazione all'approccio "da regione a regione" negli scambi delle merci oggetto di misure sanitarie e fitosanitarie.
 
-##### Art. 141
+###### Art. 141
 
 Diritti e obblighi multilaterali
 
 Le parti riaffermano i loro diritti e obblighi stabiliti dall'accordo SPS.
 
-##### Art. 142
+###### Art. 142
 
 Campo di applicazione
 
@@ -2339,19 +2339,19 @@ Campo di applicazione
 
 3\. Le disposizioni del presente si applicano inoltre alla cooperazione in materia di benessere degli animali.
 
-##### Art. 143
+###### Art. 143
 
 Definizioni
 
 Ai fini del presente capo si applicano le definizioni dell'allegato A dell'accordo SPS.
 
-##### Art. 144
+###### Art. 144
 
 Autorita' competenti
 
 Le autorita' competenti delle parti sono le autorita' responsabili dell'attuazione del presente capo, secondo quanto contemplato nell'allegato VI (Autorita' competenti). Le parti si informano reciprocamente a norma dell'articolo 151 del presente capo di eventuali cambiamenti concernenti le autorita' competenti.
 
-##### Art. 145
+###### Art. 145
 
 Principi generali
 
@@ -2363,7 +2363,7 @@ Principi generali
 
 4\. Le parti non si avvalgono, in assenza di giustificazioni tecniche e scientifiche, delle procedure di cui al paragrafo 3 ne' delle richieste di informazioni aggiuntive per ritardare l'accesso al mercato.
 
-##### Art. 146
+###### Art. 146
 
 Requisiti all'importazione
 
@@ -2371,7 +2371,7 @@ Requisiti all'importazione
 
 2\. La parte importatrice vigila affinche' le condizioni all'importazione vengano applicate in modo proporzionato e non discriminatorio.
 
-##### Art. 147
+###### Art. 147
 
 Facilitazione degli scambi
 
@@ -2389,7 +2389,7 @@ e) La parte importatrice presenta periodicamente un registro delle richieste di 
 
 2\. Controlli all'importazione e diritti d'ispezione: i diritti imposti per le procedure sui prodotti importati possono coprire unicamente le spese sostenute dall'autorita' competente per i controlli all'importazione, non sono piu' onerosi rispetto al costo effettivo del servizio e sono equi in rapporto ai diritti imposti su prodotti interni simili.
 
-##### Art. 148
+###### Art. 148
 
 Verifiche
 
@@ -2403,7 +2403,7 @@ b) ricevere dall'altra parte informazioni sul sistema di controllo di quest'ulti
 
 3\. Quando la parte importatrice decide di effettuare una visita di verifica presso la parte esportatrice, tale visita viene notificata all'altra parte almeno sessanta giorni lavorativi prima del suo svolgimento, tranne in casi di emergenza o salvo diverso accordo tra le parti. Qualsiasi modifica della visita e' concordata fra le parti interessate.
 
-##### Art. 149
+###### Art. 149
 
 Misure connesse alla salute degli animali e delle piante
 
@@ -2423,13 +2423,13 @@ Tale procedura riguarda anche le situazioni connesse ai focolai e alle reinfesta
 
 7\. Le parti riconoscono il principio di compartimentalizzazione dell'OIE e il principio dei luoghi e siti di produzione indenni da parassiti dell'IPPC. Esse ne prendono in considerazione le future raccomandazioni in materia e il sottocomitato istituito dall'articolo 156 del presente capo formula le proprie raccomandazioni di conseguenza.
 
-##### Art. 150
+###### Art. 150
 
 Equivalenza
 
 Tramite il sottocomitato per le questioni sanitarie e fitosanitarie, istituito a norma dell'articolo 156, le parti possono elaborare disposizioni in materia di equivalenza e formulano raccomandazioni conformemente alle procedure previste nelle disposizioni istituzionali del presente accordo.
 
-##### Art. 151
+###### Art. 151
 
 Trasparenza e scambio di informazioni
 
@@ -2443,7 +2443,7 @@ c) si scambiano informazioni su questioni relative all'elaborazione e all'applic
 
 d) comunicano, su richiesta di una parte, i requisiti che si applicano all'importazione di determinati prodotti.
 
-##### Art. 152
+###### Art. 152
 
 Notifiche e consultazioni
 
@@ -2455,7 +2455,7 @@ Notifiche e consultazioni
 
 4\. Le consultazioni di cui al paragrafo 3 possono essere condotte tramite e-mail, videoconferenza, audioconferenza o tramite qualsiasi altro strumento concordato tra le parti. La parte che chiede le consultazioni cura la redazione dei relativi verbali che sono formalmente approvati dalle parti.
 
-##### Art. 153
+###### Art. 153
 
 Misure di emergenza
 
@@ -2467,7 +2467,7 @@ Per quanto riguarda le partite in transito tra le parti, la parte importatrice c
 
 3\. Su richiesta di una delle parti e conformemente all'articolo 152 del presente capo, le parti si consultano sulla situazione entro quindici giorni lavorativi dalla notifica. Le consultazioni si tengono in modo da evitare inutili perturbazioni degli scambi. Le parti possono esaminare le alternative che facilitino l'attuazione o la sostituzione delle misure.
 
-##### Art. 154
+###### Art. 154
 
 Cooperazione e assistenza tecnica
 
@@ -2475,13 +2475,13 @@ Cooperazione e assistenza tecnica
 
 2\. Tramite il sottocomitato per le questioni sanitarie e fitosanitarie, istituito dall'articolo 156 del presente capo, le parti predispongono un programma di lavoro che individua tra la l'altro la cooperazione e l'assistenza tecnica necessarie per sviluppare e/o rafforzare le capacita' delle parti su temi di comune interesse riguardanti la salute dell'uomo, degli animali o delle piante e la sicurezza alimentare.
 
-##### Art. 155
+###### Art. 155
 
 Trattamento speciale e differenziato
 
 Ciascuna Repubblica della parte AC puo' consultare direttamente la parte UE ogniqualvolta individui, in rapporto a una proposta di misura della parte UE, un problema specifico che potrebbe incidere sui loro scambi. Per tali consultazioni possono essere utilizzate orientativamente le decisioni del comitato SPS dell'OMC, come il documento G/SPS/33 e relative modificazioni.
 
-##### Art. 156
+###### Art. 156
 
 Sottocomitato per le questioni sanitarie e fitosanitarie
 
@@ -2505,7 +2505,7 @@ g) si occupa di qualsiasi altra questione, secondo le indicazioni del comitato d
 
 3\. Nel corso della prima riunione il sottocomitato delibera il regolamento interno da sottoporre all'approvazione del comitato di associazione.
 
-##### Art. 157
+###### Art. 157
 
 Risoluzione delle controversie
 
@@ -2513,9 +2513,9 @@ Risoluzione delle controversie
 
 2\. Quando una controversia e' oggetto delle consultazioni a livello di sottocomitato secondo quanto contemplato al paragrafo 1, tali consultazioni sostituiscono quelle previste dall'articolo 310 del titolo X (Risoluzione delle controversie) della parte IV del presente accordo, salvo quanto diversamente convenuto dalle parti della controversia. Le consultazioni a livello del sottocomitato si ritengono concluse entro trenta giorni dalla data di presentazione della richiesta, tranne qualora le parti impegnate nelle consultazioni non decidano di proseguirle. Tali consultazioni possono essere condotte tramite conferenza telefonica, videoconferenza o qualsiasi altro strumento concordato tra le parti.
 
-## CAPO 6 - ECCEZIONI RELATIVE ALLE MERCI
+#### CAPO 6 - ECCEZIONI RELATIVE ALLE MERCI
 
-##### Art. 158
+###### Art. 158
 
 Eccezioni generali
 
@@ -2525,11 +2525,11 @@ Eccezioni generali
 
 3\. Le parti riconoscono che, su richiesta di una di esse e prima dell'adozione delle misure di cui all'articolo XX, lettere i) e j), del GATT 1994, la parte esportatrice che intende adottare le misure fornisce all'altra parte tutte le informazioni pertinenti. Le parti possono concordare i mezzi necessari per far venir meno le condizioni che rendono necessarie le misure. Se non viene raggiunto un accordo entro trenta giorni, la parte esportatrice puo' applicare alle esportazioni del prodotto interessato le misure previste dal presente articolo. Qualora circostanze eccezionali e critiche che richiedono un intervento immediato rendano impossibile l'informazione o l'esame preventivi, la parte che intende adottare le misure puo' applicare immediatamente le misure precauzionali strettamente necessarie per fare fronte alla situazione e ne informa sollecitamente l'altra parte.
 
-## TITOLO III - STABILIMENTO, SCAMBI DI SERVIZI E COMMERCIO ELETTRONICO
+### TITOLO III - STABILIMENTO, SCAMBI DI SERVIZI E COMMERCIO ELETTRONICO
 
-### CAPO 1 - DISPOSIZIONI GENERALI
+#### CAPO 1 - DISPOSIZIONI GENERALI
 
-##### Art. 159
+###### Art. 159
 
 Obiettivo, ambito di applicazione e settori interessati
 
@@ -2549,7 +2549,7 @@ Obiettivo, ambito di applicazione e settori interessati
 
 (8) Il semplice fatto di esigere un visto per le persone fisiche di un determinato paese e non per quelle di altri paesi non e' considerato tale da annullare o compromettere i vantaggi derivanti da un impegno specifico.
 
-##### Art. 160
+###### Art. 160
 
 Definizioni
 
@@ -2579,15 +2579,15 @@ f) ferma restando la lettera che precede, beneficiano delle disposizioni del pre
 
 WT/REG39/1), intende la nozione di "collegamento effettivo e permanente" con l'economia di uno degli Stati membri, sancita dall'articolo 54 del trattato sul funzionamento dell'Unione europea (TFUE), come equivalente alla nozione di "attivita' commerciale sostanziale" di cui all'articolo V, paragrafo 6, del GATS.
 
-##### Art. 161
+###### Art. 161
 
 Cooperazione in materia di stabilimento, scambi di servizi e commercio elettronico
 
 Le parti convengono che e' nel loro comune interesse promuovere iniziative di assistenza tecnica e di cooperazione reciproca su temi inerenti allo stabilimento, agli scambi di servizi e al commercio elettronico. In questo senso esse hanno individuato una serie di attivita' di cooperazione che sono descritte all'articolo 56 del titolo VI (Sviluppo economico e commerciale) della parte III del presente accordo.
 
-## CAPO 2 - STABILIMENTO
+#### CAPO 2 - STABILIMENTO
 
-##### Art. 162
+###### Art. 162
 
 Definizioni
 
@@ -2615,7 +2615,7 @@ e) "controllata di una persona giuridica di una parte": una persona giuridica ef
 
 (11) Una persona giuridica e' controllata da un'altra persona giuridica se quest'ultima ha il potere di nominare la maggioranza degli amministratori della prima o comunque dirigerne legalmente l'operato.
 
-##### Art. 163
+###### Art. 163
 
 Settori interessati
 
@@ -2645,7 +2645,7 @@ iv) altri servizi ausiliari che agevolano l'attivita' dei vettori aerei, elencat
 
 (13) Fatto salvo l'ambito delle attivita' che possono rientrare nella definizione di "cabotaggio" a norma della legislazione interna pertinente, il cabotaggio nazionale a norma del presente capo comprende il trasporto di passeggeri o merci tra un porto o un luogo situato in una Repubblica della parte AC o in uno Stato membro dell'Unione europea e un altro porto o un altro luogo situato nella stessa Repubblica della parte AC o nello stesso Stato membro dell'Unione europea, anche nella sua piattaforma continentale, nonche' il traffico proveniente da un porto o da un luogo situato in una Repubblica della parte AC o in uno Stato membro dell'Unione europea e destinato allo stesso porto o luogo.
 
-##### Art. 164
+###### Art. 164
 
 Accesso al mercato
 
@@ -2669,7 +2669,7 @@ e) misure che limitano o impongono forme specifiche di stabilimento (controllata
 
 (15) Ciascuna delle parti puo' imporre agli investitori l'assunzione di una specifica forma giuridica all'atto della costituzione di una societa' in base alla propria legislazione. Nella misura in cui tale obbligo sia applicato in modo non discriminatorio, non e' necessario che esso sia precisato nell'allegato X (Elenchi degli impegni relativi allo stabilimento) per essere mantenuto in vigore o adottato dalle parti.
 
-##### Art. 165
+###### Art. 165
 
 Trattamento nazionale
 
@@ -2681,27 +2681,27 @@ Trattamento nazionale
 
 4\. Gli impegni specifici assunti a norma del presente articolo non vanno interpretati come un obbligo per una qualsiasi delle parti di compensare eventuali svantaggi competitivi intrinseci derivanti dal fatto che gli investitori in questione sono stranieri.
 
-##### Art. 166
+###### Art. 166
 
 Elenchi degli impegni
 
 I settori per i quali ciascuna parte ha assunto impegni a norma del presente capo, nonche' le limitazioni dell'accesso al mercato e del trattamento nazionale, le condizioni e le restrizioni applicabili - a seguito della formulazione di riserve - agli stabilimenti e agli investitori dell'altra parte in tali settori sono specificati negli elenchi degli impegni di cui all'allegato X (Elenchi degli impegni relativi allo stabilimento).
 
-##### Art. 167
+###### Art. 167
 
 Altri accordi
 
 Nessuna disposizione del presente titolo va interpretata come limitativa dei diritti degli investitori delle parti di usufruire del trattamento piu' favorevole eventualmente previsto da accordi internazionali vigenti o futuri in materia di investimenti di cui siano parti uno Stato membro dell'Unione europea e una Repubblica della parte AC. A nessuna disposizione del presente accordo si applicano direttamente o indirettamente le procedure di risoluzione delle controversie tra investitori e Stato istituite in tali altri accordi.
 
-##### Art. 168
+###### Art. 168
 
 Riesame
 
 Le parti si impegnano a riesaminare, entro tre anni dall'entrata in vigore del presente accordo e successivamente con cadenza periodica, il quadro giuridico per gli investimenti, il contesto degli investimenti e il flusso degli investimenti reciproci, coerentemente con gli impegni assunti nel quadro di accordi internazionali.
 
-## CAPO 3 - PRESTAZIONE TRANSFRONTALIERA DI SERVIZI
+#### CAPO 3 - PRESTAZIONE TRANSFRONTALIERA DI SERVIZI
 
-##### Art. 169
+###### Art. 169
 
 Settori interessati e definizioni
 
@@ -2739,7 +2739,7 @@ c) "prestatore di servizi di una parte": qualsiasi persona fisica o giuridica di
 
 (16) Fatto salvo l'ambito delle attivita' che possono rientrare nella definizione di "cabotaggio" a norma della legislazione interna pertinente, il cabotaggio nazionale a norma del presente capo comprende il trasporto di passeggeri o merci tra un porto o un luogo situato in una Repubblica della parte AC o in uno Stato membro dell'Unione europea e un altro porto o un altro luogo situato nella stessa Repubblica della parte AC o nello stesso Stato membro dell'Unione europea, anche nella sua piattaforma continentale, nonche' il traffico proveniente da un porto o da un luogo situato in una Repubblica della parte AC o in uno Stato membro dell'Unione europea e destinato allo stesso porto o luogo.
 
-##### Art. 170
+###### Art. 170
 
 Accesso al mercato
 
@@ -2757,7 +2757,7 @@ c) limitazioni del numero complessivo di imprese di servizi o della produzione t
 
 (17) Il paragrafo 2, lettera c), non riguarda le misure di una parte che limitano i fattori produttivi necessari per la prestazione di servizi.
 
-##### Art. 171
+###### Art. 171
 
 Trattamento nazionale
 
@@ -2769,15 +2769,15 @@ Trattamento nazionale
 
 4\. Gli impegni specifici assunti a norma del presente articolo non vanno interpretati come un obbligo per una qualsiasi delle parti di compensare eventuali svantaggi competitivi intrinseci derivanti dal fatto che i servizi o i prestatori in questione sono stranieri.
 
-##### Art. 172
+###### Art. 172
 
 Elenchi degli impegni
 
 I settori per i quali ciascuna parte ha assunto impegni a norma del presente capo, nonche' le limitazioni dell'accesso al mercato e del trattamento nazionale, le condizioni e le restrizioni applicabili - a seguito della formulazione di riserve - ai servizi e ai prestatori di servizi dell'altra parte in tali settori sono specificati negli elenchi degli impegni di cui all'allegato XI (Elenchi degli impegni relativi alla prestazione transfrontaliera di servizi).
 
-## CAPO 4 - PRESENZA TEMPORANEA DI PERSONE FISICHE PER MOTIVI PROFESSIONALI
+#### CAPO 4 - PRESENZA TEMPORANEA DI PERSONE FISICHE PER MOTIVI PROFESSIONALI
 
-##### Art. 173
+###### Art. 173
 
 Settori interessati e definizioni
 
@@ -2825,7 +2825,7 @@ f) "qualifiche": i diplomi, i certificati e altri titoli rilasciati da un'autori
 
 (20) Il contratto di prestazione di servizi di cui alle lettere d) ed e) e' conforme alle disposizioni legislative e regolamentari e alle prescrizioni della parte in cui il contratto e' eseguito.
 
-##### Art. 174
+###### Art. 174
 
 Personale chiave e laureati in tirocinio
 
@@ -2841,7 +2841,7 @@ L'ingresso e il soggiorno temporanei dei visitatori per motivi professionali son
 
 Nei settori elencati nell'allegato XIII e fatte salve le riserve e le condizioni in esso precisate, le Repubbliche della parte AC si astengono dal mantenere in vigore o dall'adottare, a livello regionale o per l'intero territorio, le misure che limitano - sotto forma di contingenti numerici o di imposizione di una verifica della necessita' economica - il numero totale di persone fisiche che un investitore puo' assumere come personale chiave e laureati in tirocinio in un determinato settore e le misure che costituiscono limitazioni discriminatorie.
 
-##### Art. 175
+###### Art. 175
 
 Venditori di servizi alle imprese
 
@@ -2849,17 +2849,17 @@ Venditori di servizi alle imprese
 
 2\. Nei settori elencati nell'allegato XIV (Elenchi degli impegni delle Repubbliche della parte AC relativi ai venditori di servizi alle imprese) e fatte salve le riserve e le condizioni in esso precisate, le Repubbliche della parte AC consentono l'ingresso e il soggiorno temporanei dei venditori di servizi alle imprese della parte UE per un periodo massimo di novanta giorni nell'arco di dodici mesi.
 
-##### Art. 176
+###### Art. 176
 
 Prestatori di servizi contrattuali e professionisti indipendenti
 
 Le parti confermano i rispettivi impegni a norma del GATS in materia di ingresso e soggiorno temporaneo dei prestatori di servizi contrattuali e dei professionisti indipendenti.
 
-## CAPO 5 - QUADRO DI REGOLAMENTAZIONE
+#### CAPO 5 - QUADRO DI REGOLAMENTAZIONE
 
-### Sezione A - DISPOSIZIONI DI APPLICAZIONE GENERALE
+##### Sezione A - DISPOSIZIONI DI APPLICAZIONE GENERALE
 
-##### Art. 177
+###### Art. 177
 
 Reciproco riconoscimento
 
@@ -2873,7 +2873,7 @@ Reciproco riconoscimento
 
 5\. Gli accordi di questo tipo sono conformi alle disposizioni pertinenti dell'accordo OMC e, in particolare, all'articolo VII del GATS.
 
-##### Art. 178
+###### Art. 178
 
 Trasparenza e divulgazione di informazioni riservate
 
@@ -2881,7 +2881,7 @@ Trasparenza e divulgazione di informazioni riservate
 
 2\. Nessuna disposizione della parte IV del presente accordo puo' essere interpretata come tale da imporre alle parti di fornire informazioni riservate la cui divulgazione impedisca l'applicazione della legge o sia comunque in contrasto con l'interesse pubblico o pregiudichi interessi commerciali legittimi di determinate imprese, siano esse pubbliche o private.
 
-##### Art. 179
+###### Art. 179
 
 Procedure
 
@@ -2889,9 +2889,9 @@ Procedure
 
 2\. Ciascuna delle parti mantiene o istituisce procedure od organi giurisdizionali, arbitrali o amministrativi che, su richiesta dell'investitore o del prestatore di servizi interessato, provvedono al sollecito riesame delle decisioni amministrative concernenti lo stabilimento, la prestazione transfrontaliera di servizi o la presenza temporanea di persone fisiche per motivi professionali e, se del caso, alla definizione di opportune misure correttive. Ove tali procedure non siano indipendenti dall'organismo preposto alla decisione amministrativa in questione, le parti garantiscono che la procedura adottata consenta comunque un riesame obiettivo e imparziale.
 
-## Sezione B - SERVIZI INFORMATICI
+##### Sezione B - SERVIZI INFORMATICI
 
-##### Art. 180
+###### Art. 180
 
 Intesa sui servizi informatici
 
@@ -2915,9 +2915,9 @@ e) formazione del personale dei clienti nel campo dei programmi informatici, dei
 
 (21) Per CPC si intende la classificazione centrale dei prodotti quale definita dall'Ufficio statistico delle Nazioni Unite, Statistical Papers, Serie M, n. 77, CPC prov., 1991.
 
-## Sezione C - SERVIZI DI CORRIERE
+##### Sezione C - SERVIZI DI CORRIERE
 
-##### Art. 181
+###### Art. 181
 
 Ambito di applicazione e definizioni
 
@@ -2925,7 +2925,7 @@ Ambito di applicazione e definizioni
 
 2\. Ai fini della presente sezione e dei capi 2, 3 e 4 del presente titolo, per "licenza" si intende l'autorizzazione, accordata da un'autorita' competente a un singolo fornitore, eventualmente prescritta per iniziare a prestare un determinato servizio.
 
-##### Art. 182
+###### Art. 182
 
 Prevenzione delle pratiche anticoncorrenziali nel settore dei servizi di corriere
 
@@ -2933,7 +2933,7 @@ Prevenzione delle pratiche anticoncorrenziali nel settore dei servizi di corrier
 
 2\. Ciascuna parte vigila affinche' il fornitore monopolistico di un servizio postale di una parte che operi in condizioni di concorrenza, direttamente o attraverso una societa' collegata, nella fornitura di servizi di consegna espressa non compresi nell'ambito dei suoi diritti di monopolio non violi gli obblighi che gli incombono a norma del presente titolo.
 
-##### Art. 183
+###### Art. 183
 
 Licenze
 
@@ -2947,15 +2947,15 @@ b) i termini e le condizioni applicabili alle licenze.
 
 Tale procedura e' trasparente, non discriminatoria e si basa su criteri oggettivi.
 
-##### Art. 184
+###### Art. 184
 
 Indipendenza degli organismi di regolamentazione
 
 Gli organismi di regolamentazione dei quali le parti dispongano sono giuridicamente distinti dai fornitori di servizi di corriere e non devono rispondere a tali fornitori. Le decisioni e le procedure degli organismi di regolamentazione sono imparziali nei confronti di tutti i partecipanti al mercato.
 
-## Sezione D - SERVIZI DI TELECOMUNICAZIONE
+##### Sezione D - SERVIZI DI TELECOMUNICAZIONE
 
-##### Art. 185
+###### Art. 185
 
 Definizioni e ambito di applicazione
 
@@ -2983,7 +2983,7 @@ f) "interconnessione": il collegamento tra fornitori che forniscono reti o servi
 
 (22) Le parti convengono che questi servizi sono disciplinati dalla presente sezione nella misura in cui siano considerati servizi pubblici di telecomunicazione conformemente alla legislazione interna applicabile.
 
-##### Art. 186
+###### Art. 186
 
 Autorita' di regolamentazione
 
@@ -2997,7 +2997,7 @@ Autorita' di regolamentazione
 
 Le decisioni adottate da questi organi competenti hanno carattere di esecutivita' conformemente al procedimento legale applicabile. In attesa dell'esito del procedimento legale, la decisione dell'autorita' di regolamentazione resta valida, salvo che l'organo competente o la legislazione applicabile non disponga diversamente.
 
-##### Art. 187
+###### Art. 187
 
 Autorizzazione a fornire servizi di telecomunicazione(23)
 
@@ -3017,7 +3017,7 @@ c) il richiedente cui sia stato illegittimamente negato il rilascio di una licen
 
 (23) Ai fini della presente sezione, per "autorizzazione" si intendono le licenze, le concessioni, i permessi, l'iscrizione in registri e qualsivoglia altra autorizzazione che una parte richieda per la prestazione di servizi di telecomunicazione.
 
-##### Art. 188
+###### Art. 188
 
 Misure di salvaguardia della concorrenza in relazione ai fornitori principali
 
@@ -3033,7 +3033,7 @@ c) nel non mettere tempestivamente a disposizione di altri fornitori di servizi 
 
 (24) O "nella compressione dei margini" limitatamente alla parte UE.
 
-##### Art. 189
+###### Art. 189
 
 Interconnessione(25)
 
@@ -3059,13 +3059,13 @@ c) su richiesta, in corrispondenza di punti supplementari rispetto ai punti term
 
 (25) I paragrafi 3, 4 e 5 non si applicano ai fornitori di servizi commerciali di telefonia mobile ne' ai fornitori di servizi di telecomunicazioni rurali. Resta inteso che nessuna disposizione del presente articolo puo' essere interpretata come tale da impedire a una parte di imporre ai fornitori di servizi commerciali di telefonia mobile le prescrizioni contenute nel presente articolo.
 
-##### Art. 190
+###### Art. 190
 
 Risorse limitate
 
 Tutte le procedure per l'attribuzione e l'uso di risorse limitate, comprese le frequenze, i numeri e i diritti di passaggio, sono espletate in modo obiettivo, tempestivo, trasparente e non discriminatorio. Le informazioni circa lo stato attuale delle bande di frequenza assegnate sono rese note al pubblico, ma non e' obbligatorio precisare nei dettagli le frequenze riservate a specifici usi pubblici.
 
-##### Art. 191
+###### Art. 191
 
 Servizio universale
 
@@ -3081,21 +3081,21 @@ a) gli elenchi di tutti gli abbonati di telefonia fissa siano a disposizione deg
 
 b) le organizzazioni che prestano i servizi di cui alla lettera a) applichino il principio della non discriminazione nel trattamento delle informazioni ad essi comunicate da altre organizzazioni.
 
-##### Art. 192
+###### Art. 192
 
 Riservatezza delle informazioni
 
 Ciascuna delle parti garantisce, conformemente alla rispettiva legislazione, la riservatezza delle telecomunicazioni effettuate per mezzo di una rete pubblica di telecomunicazioni e di servizi di telecomunicazione accessibili al pubblico, nonche' dei relativi dati sul traffico, fatto salvo l'obbligo di non applicare tali misure in maniera da causare discriminazioni arbitrarie o ingiustificate o restrizioni dissimulate agli scambi di servizi.
 
-##### Art. 193
+###### Art. 193
 
 Controversie tra fornitori
 
 Qualora fra i fornitori di reti o di servizi di telecomunicazione insorga una controversia in merito ai diritti e agli obblighi derivanti dagli articoli 188 e 189, l'autorita' di regolamentazione nazionale interessata o un'altra autorita' competente adotta, su richiesta di uno dei fornitori e conformemente alle procedure stabilite nella loro rispettiva legislazione, una decisione vincolante per risolvere la controversia nel piu' breve tempo possibile.
 
-## Sezione E - SERVIZI FINANZIARI
+##### Sezione E - SERVIZI FINANZIARI
 
-##### Art. 194
+###### Art. 194
 
 Ambito di applicazione e definizioni
 
@@ -3167,7 +3167,7 @@ ii) un soggetto privato che svolga funzioni normalmente espletate da una banca c
 
 d) "nuovo servizio finanziario": un servizio finanziario non prestato nel territorio della parte, prestato nel territorio dell'altra parte. Comprende le nuove modalita' di erogazione di un servizio finanziario o la vendita di un prodotto finanziario che non e' venduto nel territorio della parte.
 
-##### Art. 195
+###### Art. 195
 
 Misure prudenziali
 
@@ -3183,7 +3183,7 @@ c) la salvaguardia dell'integrita' e della stabilita' del sistema finanziario di
 
 3\. Nessuna disposizione del presente accordo puo' essere interpretata come tale da imporre alle parti l'obbligo di rivelare informazioni relative agli affari e alla contabilita' di singoli clienti o informazioni riservate o esclusive di cui siano in possesso soggetti pubblici.
 
-##### Art. 196
+###### Art. 196
 
 Regolamentazione efficace e trasparente
 
@@ -3199,7 +3199,7 @@ La parte in questione fornisce al richiedente che ne faccia richiesta informazio
 
 3\. Ciascuna delle parti fa quanto in suo potere affinche' nel proprio territorio siano attuate e applicate le norme concordate a livello internazionale per quanto concerne la regolamentazione e la vigilanza del settore dei servizi finanziari, la lotta contro il riciclaggio del denaro o di altri capitali e il finanziamento del terrorismo e la lotta contro l'evasione e l'elusione fiscale.
 
-##### Art. 197
+###### Art. 197
 
 Nuovi servizi finanziari
 
@@ -3207,7 +3207,7 @@ Nuovi servizi finanziari
 
 2\. Conformemente al paragrafo 1 una parte puo' stabilire la forma giuridica della prestazione del servizio finanziario e subordinare tale prestazione a un'autorizzazione. Se e' prescritta un'autorizzazione, la relativa decisione viene presa in tempi ragionevoli e l'autorizzazione puo' essere negata solo per motivi prudenziali.
 
-##### Art. 198
+###### Art. 198
 
 Trattamento dei dati
 
@@ -3219,7 +3219,7 @@ Trattamento dei dati
 
 (26) Resta inteso che l'obbligo previsto al presente articolo non e' considerato un impegno specifico a norma dell'articolo 194, paragrafo 2, lettera a).
 
-##### Art. 199
+###### Art. 199
 
 Eccezioni specifiche
 
@@ -3229,9 +3229,9 @@ Eccezioni specifiche
 
 3\. Nessuna disposizione del presente titolo osta a che una parte, compresi i suoi soggetti pubblici, eserciti o fornisca in via esclusiva, sul proprio territorio, attivita' o servizi per conto proprio o di suoi soggetti pubblici, con garanzia propria o loro o utilizzando risorse finanziarie proprie o di suoi soggetti pubblici.
 
-## Sezione F - SERVIZI DI TRASPORTO MARITTIMO INTERNAZIONALE
+##### Sezione F - SERVIZI DI TRASPORTO MARITTIMO INTERNAZIONALE
 
-##### Art. 200
+###### Art. 200
 
 Ambito di applicazione, definizioni e principi
 
@@ -3285,9 +3285,9 @@ Ai fini della presente definizione, per "titolo di trasporto unico" si intende u
 
 (28) Le disposizioni della presente lettera riguardano unicamente l'accesso ai servizi, ma non consentono la prestazione di servizi.
 
-## CAPO 6 - COMMERCIO ELETTRONICO
+#### CAPO 6 - COMMERCIO ELETTRONICO
 
-##### Art. 201
+###### Art. 201
 
 Obiettivo e principi
 
@@ -3295,7 +3295,7 @@ Obiettivo e principi
 
 2\. Le parti riconoscono che lo sviluppo del commercio elettronico deve essere compatibile con le norme internazionali di protezione dei dati, in modo che gli utenti abbiano fiducia nel commercio elettronico.
 
-##### Art. 202
+###### Art. 202
 
 Profili di regolamentazione del commercio elettronico
 
@@ -3309,9 +3309,9 @@ c) la protezione dei consumatori in relazione al commercio elettronico; e
 
 d) qualsiasi altra questione pertinente ai fini dello sviluppo del commercio elettronico.
 
-## CAPO 7 - ECCEZIONI
+#### CAPO 7 - ECCEZIONI
 
-##### Art. 203
+###### Art. 203
 
 Eccezioni generali
 
@@ -3341,9 +3341,9 @@ f) incompatibili con gli articoli 165 e 171 del presente titolo, purche' il trat
 
 (29) Le misure finalizzate a garantire l'imposizione o la riscossione equa o efficace delle imposte dirette comprendono le misure, adottate da una parte secondo il proprio sistema fiscale, che: a) si applicano agli investitori e ai prestatori di servizi non residenti in considerazione del fatto che l'imposta dovuta dai soggetti non residenti e' determinata con riferimento a elementi imponibili aventi la loro fonte o situati nel territorio della parte; o b) si applicano ai soggetti non residenti al fine di garantire l'imposizione o riscossione di imposte nel territorio della parte; o c) si applicano ai soggetti non residenti o residenti, al fine di impedire l'elusione o l'evasione fiscale, ivi comprese le misure per garantire l'osservanza degli obblighi; o d) si applicano agli utilizzatori di servizi prestati nel territorio dell'altra parte o a partire da tale territorio, al fine di garantire l'imposizione o la riscossione di imposte che gravano su tali utilizzatori in relazione a fonti nel territorio della parte; o e) operano una distinzione tra investitori e prestatori di servizi soggetti a imposizione su elementi imponibili a livello mondiale e altri investitori e prestatori di servizi, in considerazione della differenza nella natura della loro base imponibile; o f) determinano, attribuiscono o suddividono reddito, utili, guadagni, perdite, detrazioni o crediti di soggetti residenti o succursali o tra soggetti collegati o succursali dello stesso soggetto, al fine di salvaguardare la base imponibile della parte. I termini o i concetti di natura fiscale di cui alla lettera f) della presente disposizione e alla presente nota sono intesi secondo le definizioni e i concetti fiscali, o secondo definizioni e concetti equivalenti o analoghi, della legislazione interna della parte che adotta la misura.
 
-## TITOLO IV - PAGAMENTI CORRENTI E MOVIMENTI DI CAPITALI
+### TITOLO IV - PAGAMENTI CORRENTI E MOVIMENTI DI CAPITALI
 
-##### Art. 204
+###### Art. 204
 
 Obiettivo e ambito di applicazione
 
@@ -3351,13 +3351,13 @@ Obiettivo e ambito di applicazione
 
 2\. Il presente titolo si applica a tutti i pagamenti correnti e a tutti i movimenti di capitali tra le parti.
 
-##### Art. 205
+###### Art. 205
 
 Conto corrente
 
 Le parti consentono o autorizzano, a seconda dei casi, tutti i pagamenti e i trasferimenti tra le parti in valuta liberamente convertibile inerenti al conto corrente conformemente all'accordo istitutivo del Fondo monetario internazionale, in particolare al suo articolo VIII.
 
-##### Art. 206
+###### Art. 206
 
 Conto capitale
 
@@ -3367,7 +3367,7 @@ Per quanto attiene alle operazioni riguardanti il conto capitale e il conto fina
 
 (30) Resta inteso che le eccezioni di cui alla parte V del presente accordo e le eccezioni di cui al titolo III (Stabilimento, scambi di servizi e commercio elettronico) della parte IV del presente accordo si applicano anche al presente titolo.
 
-##### Art. 207
+###### Art. 207
 
 Misure di salvaguardia
 
@@ -3377,7 +3377,7 @@ Qualora, in circostanze eccezionali, i movimenti di capitali tra le parti causin
 
 (31) Il ripristino di misure di salvaguardia non e' subordinato all'autorizzazione delle parti.
 
-##### Art. 208
+###### Art. 208
 
 Disposizioni finali
 
@@ -3385,9 +3385,9 @@ Disposizioni finali
 
 2\. Le parti si consultano al fine di agevolare la circolazione dei capitali tra loro cosi' da promuovere gli obiettivi del presente accordo.
 
-## TITOLO V - APPALTI PUBBLICI
+### TITOLO V - APPALTI PUBBLICI
 
-##### Art. 209
+###### Art. 209
 
 Introduzione
 
@@ -3431,7 +3431,7 @@ i) definisca le caratteristiche dei beni o dei servizi oggetto dell'appalto, anc
 
 ii) stabilisca i criteri in materia di terminologia, simboli, imballaggio, marcatura ed etichettatura applicabili a un bene o a un servizio.
 
-##### Art. 210
+###### Art. 210
 
 Ambito di applicazione e settori interessati
 
@@ -3501,7 +3501,7 @@ b) la fissazione di criteri per il superamento della parita' che consentano ai s
 
 7\. Nessuna disposizione del presente titolo osta a che una parte elabori nuove politiche, procedure o strumenti contrattuali in materia di appalti, purche' esse non siano incompatibili con il presente titolo.
 
-##### Art. 211
+###### Art. 211
 
 Principi generali
 
@@ -3543,7 +3543,7 @@ Compensazioni
 
 (32) Resta inteso che nessuna disposizione del presente articolo pregiudica gli scambi di servizi disciplinati dal titolo III (Stabilimento, scambi di servizi e commercio elettronico) e dai relativi allegati: Elenchi degli impegni relativi allo stabilimento, Elenchi degli impegni relativi alla prestazione transfrontaliera di servizi, Riserve relative al personale chiave e ai laureati in tirocinio della parte UE, Elenchi degli impegni delle Repubbliche della parte AC relativi ai venditori di servizi alle imprese ed Elenchi degli impegni delle Repubbliche della parte AC relativi al personale chiave e ai laureati in tirocinio.
 
-##### Art. 212
+###### Art. 212
 
 Pubblicazione delle informazioni sugli appalti
 
@@ -3561,7 +3561,7 @@ d) indica all'appendice 3 (Mezzi per la pubblicazione degli avvisi) dell'allegat
 
 3\. Ciascuna delle parti notifica tempestivamente all'altra parte qualsiasi modifica delle informazioni contenute nell'appendice 2 (Mezzi per la pubblicazione delle informazioni sugli appalti) o nell'appendice 3 (Mezzi per la pubblicazione degli avvisi) dell'allegato XVI.
 
-##### Art. 213
+###### Art. 213
 
 Pubblicazione degli avvisi
 
@@ -3575,7 +3575,7 @@ Avviso di appalti programmati
 
 3\. Un soggetto appaltante puo', se la legislazione interna lo prevede, pubblicare un avviso di appalti programmati in sostituzione di un avviso di gara purche' vi indichi il maggior numero di informazioni disponibili tra quelle di cui all'appendice 4 (Avviso di gara) e precisi che i fornitori interessati devono manifestare al soggetto appaltante il loro interesse per l'appalto.
 
-##### Art. 214
+###### Art. 214
 
 Condizioni di partecipazione
 
@@ -3591,7 +3591,7 @@ Ciascuna parte puo' adottare o mantenere in vigore procedure per dichiarare l'es
 
 5\. Il soggetto appaltante puo' chiedere all'offerente di indicare, nella sua offerta, le parti dell'appalto che intende eventualmente subappaltare a terzi, nonche' i subappaltatori proposti. Tale comunicazione lascia impregiudicata la responsabilita' dell'operatore economico principale.
 
-##### Art. 215
+###### Art. 215
 
 Qualificazione o registrazione dei fornitori
 
@@ -3629,7 +3629,7 @@ c) un fornitore che abbia chiesto di essere iscritto in un elenco di fornitori c
 
 10\. Le parti precisano nella sezione F dell'appendice 1 (Settori interessati) dell'allegato XVI i soggetti che possono utilizzare gli elenchi di fornitori.
 
-##### Art. 216
+###### Art. 216
 
 Specifiche tecniche
 
@@ -3649,7 +3649,7 @@ b) determina le specifiche tecniche sulla base di norme internazionali, laddove 
 
 6\. Resta inteso che il presente articolo non impedisce a un soggetto appaltante di elaborare, adottare o applicare specifiche tecniche intese a promuovere la conservazione delle risorse naturali o a proteggere l'ambiente.
 
-##### Art. 217
+###### Art. 217
 
 Documentazione di gara
 
@@ -3663,13 +3663,13 @@ a) a tutti i fornitori partecipanti alla gara al momento della modifica delle in
 
 b) in tempo utile onde consentire ai suddetti fornitori di modificare e di ripresentare le offerte, se del caso.
 
-##### Art. 218
+###### Art. 218
 
 Termini
 
 Compatibilmente con le proprie esigenze, un soggetto appaltante accorda ai fornitori un periodo di tempo sufficiente a elaborare e presentare le domande di partecipazione e offerte adeguate, prendendo in considerazione fattori quali la natura e la complessita' dell'appalto, la portata dei subappalti previsti e i tempi di trasmissione delle offerte da fonti estere e nazionali nei casi in cui non si ricorra a mezzi elettronici. I termini e loro eventuali proroghe devono essere gli stessi per tutti i fornitori interessati o che partecipano alla gara. I termini applicabili figurano nell'appendice 6 (Termini) dell'allegato XVI.
 
-##### Art. 219
+###### Art. 219
 
 Trattative
 
@@ -3685,7 +3685,7 @@ a) assicura che l'eventuale esclusione di un fornitore dalle trattative si basi 
 
 b) una volta concluse le trattative, stabilisce un termine comune entro il quale gli altri fornitori possono presentare offerte nuove o modificate.
 
-##### Art. 220
+###### Art. 220
 
 Ricorso alle gare a trattativa privata o a procedure di gara equivalenti
 
@@ -3725,7 +3725,7 @@ i) nei casi stabiliti da ciascuna parte nella sezione F (Note generali) dell'app
 
 2\. Un soggetto appaltante conserva un registro o redige relazioni scritte in cui vengono illustrate le motivazioni specifiche alla base dell'aggiudicazione di un appalto a norma del paragrafo 1.
 
-##### Art. 221
+###### Art. 221
 
 Aste elettroniche
 
@@ -3737,7 +3737,7 @@ b) i risultati della valutazione iniziale degli elementi della sua offerta nel c
 
 c) ogni altra informazione pertinente riguardante lo svolgimento dell'asta.
 
-##### Art. 222
+###### Art. 222
 
 Trattamento delle offerte e aggiudicazione degli appalti
 
@@ -3749,7 +3749,7 @@ Trattamento delle offerte e aggiudicazione degli appalti
 
 4\. Un soggetto appaltante che riceva un'offerta il cui prezzo e' anormalmente inferiore ai prezzi delle altre offerte ricevute puo' verificare che il fornitore soddisfi le condizioni di partecipazione e sia in grado di rispettare i termini del contratto.
 
-##### Art. 223
+###### Art. 223
 
 Trasparenza delle informazioni sugli appalti
 
@@ -3757,7 +3757,7 @@ Trasparenza delle informazioni sugli appalti
 
 2\. Dopo l'aggiudicazione di ogni appalto disciplinato dal presente titolo, un soggetto appaltante pubblica, quanto prima e nel rispetto dei termini stabiliti nella legislazione di ciascuna parte, un avviso utilizzando il mezzo di comunicazione appropriato, cartaceo o elettronico, di cui all'appendice 3 (Mezzi per la pubblicazione degli avvisi) dell'allegato XVI. Nel caso in cui venga utilizzato unicamente un mezzo elettronico, le informazioni devono rimanere facilmente accessibili per un periodo di tempo ragionevole. L'avviso reca almeno le informazioni di cui all'appendice 7 (Avviso di gara) dell'allegato XVI.
 
-##### Art. 224
+###### Art. 224
 
 Divulgazione delle informazioni
 
@@ -3767,7 +3767,7 @@ Divulgazione delle informazioni
 
 3\. Nessuna disposizione del presente titolo puo' essere interpretata come un obbligo per le parti, compresi i loro soggetti appaltanti, le loro autorita' e i loro organi di riesame, di divulgare informazioni riservate la cui diffusione ostacoli l'applicazione della legge, possa recare pregiudizio alla concorrenza leale tra i fornitori, pregiudichi i legittimi interessi commerciali di specifiche persone, anche per quanto riguarda la tutela dei diritti di proprieta' intellettuale, o sia altrimenti contraria all'interesse pubblico.
 
-##### Art. 225
+###### Art. 225
 
 Procedure interne di riesame
 
@@ -3795,7 +3795,7 @@ a) tempestive misure provvisorie atte a garantire che il fornitore possa parteci
 
 b) interventi correttivi o il risarcimento delle perdite o dei danni subiti conformemente alla legislazione di ciascuna parte, nel caso in cui l'organo di riesame abbia stabilito che vi sia stata una violazione o una mancata osservanza secondo quanto enunciato al paragrafo 1.
 
-##### Art. 226
+###### Art. 226
 
 Modifiche e rettifica dei settori interessati
 
@@ -3831,17 +3831,17 @@ deve sollevare obiezioni per iscritto entro trenta giorni dal ricevimento della 
 
 6\. Il Consiglio di associazione modifica le parti pertinenti delle sezioni A, B o C dell'appendice 1 (Settori interessati) dell'allegato XVI, in modo che rispecchino le modifiche concordate dalle parti, le rettifiche tecniche o le modifiche di lieve entita'.
 
-##### Art. 227
+###### Art. 227
 
 Cooperazione e assistenza tecnica in materia di appalti pubblici
 
 Le parti convengono che e' nel loro comune interesse promuovere iniziative di assistenza tecnica e di cooperazione reciproca su temi inerenti agli appalti pubblici. In questo senso esse hanno individuato una serie di attivita' di cooperazione che sono descritte all'articolo 58 del titolo VI (Sviluppo economico e commerciale) della parte III del presente accordo.
 
-## TITOLO VI - PROPRIETÀ INTELLETTUALE
+### TITOLO VI - PROPRIETÀ INTELLETTUALE
 
-### CAPO 1 - OBIETTIVI E PRINCIPI
+#### CAPO 1 - OBIETTIVI E PRINCIPI
 
-##### Art. 228
+###### Art. 228
 
 Obiettivi
 
@@ -3853,7 +3853,7 @@ b) promuovere e favorire il trasferimento di tecnologie tra le due regioni per c
 
 c) promuovere la cooperazione tecnica e finanziaria tra le due regioni nel campo dei diritti di proprieta' intellettuale.
 
-##### Art. 229
+###### Art. 229
 
 Natura e ambito di applicazione degli obblighi
 
@@ -3873,7 +3873,7 @@ b) ai fini del presente accordo la protezione contro la concorrenza sleale e' ac
 
 5\. Le parti riconoscono l'importanza di rispettare, salvaguardare e preservare le conoscenze, le innovazioni e le pratiche delle comunita' indigene e locali riguardanti pratiche tradizionali in materia di conservazione e uso sostenibile della diversita' biologica.
 
-##### Art. 230
+###### Art. 230
 
 Nazione piu' favorita e trattamento nazionale
 
@@ -3883,7 +3883,7 @@ a) un trattamento non meno favorevole di quello da essa accordato ai propri citt
 
 b) i vantaggi, benefici, privilegi o immunita' da essa accordati ai cittadini di qualsiasi altro paese per quanto riguarda la protezione della proprieta' intellettuale.
 
-##### Art. 231
+###### Art. 231
 
 Trasferimento di tecnologie
 
@@ -3901,17 +3901,17 @@ Trasferimento di tecnologie
 
 (33) La parte UE promuove gli scambi accademici sotto forma di sovvenzioni e gli scambi professionali e per imprenditori sotto forma di tirocini presso organizzazioni dell'Unione europea, il rafforzamento delle MPMI, lo sviluppo di industrie che fanno innovazione e la creazione di centri professionali in modo che le conoscenze acquisite possano essere applicate nella regione dell'America centrale.
 
-##### Art. 232
+###### Art. 232
 
 Esaurimento
 
 Le parti sono libere di stabilire il proprio regime di esaurimento dei diritti di proprieta' intellettuale, fatte salve le disposizioni dell'accordo TRIPS.
 
-## CAPO 2 - NORME RELATIVE AI DIRITTI DI PROPRIETÀ INTELLETTUALE
+#### CAPO 2 - NORME RELATIVE AI DIRITTI DI PROPRIETÀ INTELLETTUALE
 
-### Sezione A - DIRITTO D'AUTORE E DIRITTI CONNESSI
+##### Sezione A - DIRITTO D'AUTORE E DIRITTI CONNESSI
 
-##### Art. 233
+###### Art. 233
 
 Protezione concessa
 
@@ -3925,25 +3925,25 @@ c) al trattato dell'Organizzazione mondiale della proprieta' intellettuale sul d
 
 d) al trattato dell'Organizzazione mondiale della proprieta' intellettuale sulle interpretazioni ed esecuzioni e sui fonogrammi (Ginevra, 1996) ("WPPT");
 
-##### Art. 234
+###### Art. 234
 
 Durata dei diritti d'autore
 
 Le parti convengono che per il calcolo della durata della protezione dei diritti d'autore si applicano le norme di cui agli articoli 7 e 7-bis della convenzione di Berna per la protezione delle opere letterarie e artistiche, a condizione che la durata minima della protezione, quale definita all'articolo 7, paragrafi 1, 2, 3 e 4, della convenzione di Berna, sia di settanta anni.
 
-##### Art. 235
+###### Art. 235
 
 Durata dei diritti connessi
 
 Le parti convengono che per il calcolo della durata della protezione dei diritti degli artisti interpreti o esecutori, dei produttori di fonogrammi e degli organismi di radiodiffusione si applicano le disposizioni di cui all'articolo 14 della convenzione di Roma, a condizione che la durata minima della protezione, quale definita all'articolo 14 della convenzione di Roma, sia di cinquanta anni.
 
-##### Art. 236
+###### Art. 236
 
 Gestione collettiva dei diritti
 
 Le parti prendono atto dell'importanza della funzione delle societa' di gestione collettiva dei diritti e della conclusione di intese tra tali societa' per rendere reciprocamente piu' agevoli l'accesso ai contenuti e il loro scambio tra i territori delle parti, nonche' del conseguimento di un elevato livello di sviluppo per quanto attiene all'espletamento dei loro compiti.
 
-##### Art. 237
+###### Art. 237
 
 Radiodiffusione e comunicazione al pubblico(34)
 
@@ -3961,9 +3961,9 @@ Radiodiffusione e comunicazione al pubblico(34)
 
 (34) Una parte puo' mantenere le riserve di cui alla convenzione di Roma e al WPPT in relazione ai diritti conferiti dal presente articolo e cio' non va interpretato come una violazione della presente disposizione.
 
-## Sezione B - MARCHI
+##### Sezione B - MARCHI
 
-##### Art. 238
+###### Art. 238
 
 Accordi internazionali
 
@@ -3973,27 +3973,27 @@ a) ratificare il protocollo relativo all'intesa di Madrid concernente la registr
 
 b) rispettare il trattato sul diritto dei marchi (Ginevra, 1994).
 
-##### Art. 239
+###### Art. 239
 
 Procedura di registrazione
 
 La parte UE e le Repubbliche della parte AC predispongono un sistema di registrazione dei marchi nel quale ogni decisione finale dell'amministrazione competente in materia di marchi sia debitamente motivata e redatta per iscritto. In tal modo i motivi alla base del rifiuto di registrare un marchio sono comunicati per iscritto al richiedente, che ha la possibilita' di impugnare il diniego e di ricorrere in giudizio contro il diniego definitivo. La parte UE e le Repubbliche della parte AC introducono anche la possibilita' di opporsi a domande di registrazione di marchi. I procedimenti di opposizione prevedono il contraddittorio.
 
-##### Art. 240
+###### Art. 240
 
 Marchi notori
 
 L'articolo 6-bis della convenzione di Parigi si applica, mutatis mutandis, ai prodotti o servizi non identici o simili a quelli identificati da un marchio notorio, purche' l'uso di tale marchio in relazione a detti prodotti o servizi indichi un nesso tra i medesimi prodotti o servizi e il titolare del marchio e purche' esista il rischio che tale uso possa pregiudicare gli interessi del titolare del marchio. Resta inteso che le parti possono applicare questa protezione anche ai marchi notori non registrati.
 
-##### Art. 241
+###### Art. 241
 
 Eccezioni ai diritti conferiti da un marchio
 
 Le parti possono istituire limitate eccezioni ai diritti conferiti da un marchio, come il leale uso di termini descrittivi. Tali eccezioni tengono conto dei legittimi interessi del titolare del marchio registrato e dei terzi.
 
-## Sezione C - INDICAZIONI GEOGRAFICHE
+##### Sezione C - INDICAZIONI GEOGRAFICHE
 
-##### Art. 242
+###### Art. 242
 
 Disposizioni generali
 
@@ -4001,7 +4001,7 @@ Disposizioni generali
 
 2\. Ai fini del presente accordo, per indicazioni geografiche si intendono le indicazioni che identificano un prodotto come originario del territorio di una parte, o di una regione o localita' di detto territorio, quando una determinata qualita', la notorieta' o altre caratteristiche del prodotto siano essenzialmente attribuibili alla sua origine geografica.
 
-##### Art. 243
+###### Art. 243
 
 Ambito di applicazione e settori interessati
 
@@ -4009,7 +4009,7 @@ Ambito di applicazione e settori interessati
 
 2\. Alle indicazioni geografiche di una parte che devono essere protette dall'altra parte si applicano le disposizioni del presente articolo solo se queste indicazioni sono riconosciute e dichiarate come tali nel paese d'origine.
 
-##### Art. 244
+###### Art. 244
 
 Sistema di protezione
 
@@ -4029,7 +4029,7 @@ e) il diritto, per qualsiasi operatore stabilito nella zona e che si sottopone a
 
 f) una procedura che comporti la pubblicazione della domanda e consenta di tenere conto dei legittimi interessi dei precedenti utilizzatori delle denominazioni, siano esse protette o no in quanto proprieta' intellettuale.
 
-##### Art. 245
+###### Art. 245
 
 Indicazioni geografiche stabilite
 
@@ -4047,7 +4047,7 @@ c) proteggono le indicazioni geografiche cui e' stata riconosciuta la protezione
 
 (35) Gli obblighi di cui al paragrafo 1 si considerano adempiuti se, nel corso delle procedure applicabili per la protezione di una denominazione come indicazione geografica: a) la decisione amministrativa rigetti la registrazione della denominazione; o b) la decisione amministrativa sia contestata nei modi e nelle forme previsti dalla legislazione interna di ciascuna parte
 
-##### Art. 246
+###### Art. 246
 
 Protezione concessa
 
@@ -4065,7 +4065,7 @@ c) qualsiasi altra pratica che possa indurre in errore il consumatore sulla vera
 
 4\. Per le indicazioni geografiche diverse dai vini e dalle bevande spiritose, nessuna disposizione del presente accordo puo' essere interpretata come un obbligo per una parte di impedire l'uso continuato e simile di una particolare indicazione geografica dell'altra parte, in relazione a prodotti o servizi, da parte di suoi cittadini o di residenti nel suo territorio che abbiano utilizzato tale indicazione geografica in buona fede e in modo continuato per gli stessi prodotti o servizi o per prodotti o servizi ad essi affini nel territorio di quella parte prima dell'entrata in vigore del presente accordo.
 
-##### Art. 247
+###### Art. 247
 
 Aggiunta di nuove indicazioni geografiche
 
@@ -4075,7 +4075,7 @@ A seguito dell'esame favorevole a cura delle autorita' nazionali o regionali com
 
 2\. La data della domanda di protezione corrisponde alla data di trasmissione all'altra parte della domanda con cui viene chiesta la protezione di un'indicazione geografica, purche' siano soddisfatti i relativi requisiti formali.
 
-##### Art. 248
+###### Art. 248
 
 Rapporto tra indicazioni geografiche e marchi
 
@@ -4091,27 +4091,27 @@ Rapporto tra indicazioni geografiche e marchi
 
 (37) Per la parte UE la data della domanda di protezione e' la data di entrata in vigore del presente accordo, relativamente alle denominazioni elencate all'allegato XVII.
 
-##### Art. 249
+###### Art. 249
 
 Diritto d'uso delle indicazioni geografiche
 
 Quando un'indicazione geografica e' protetta in virtu' del presente accordo in una parte diversa dalla parte di origine, l'uso di detta denominazione protetta non comporta alcun obbligo di registrazione degli utilizzatori in tale parte.
 
-##### Art. 250
+###### Art. 250
 
 Risoluzione delle controversie
 
 Nessuna delle parti puo' impugnare la decisione finale adottata da un'autorita' nazionale o regionale competente in merito alla registrazione o alla protezione di un'indicazione geografica invocando il titolo X (Risoluzione delle controversie) della parte IV del presente accordo. I reclami contro la protezione di un'indicazione geografica sono esperiti dinanzi agli organi giurisdizionali disponibili istituiti a norma della legislazione interna o regionale di ciascuna parte.
 
-## Sezione D - DISEGNI E MODELLI INDUSTRIALI
+##### Sezione D - DISEGNI E MODELLI INDUSTRIALI
 
-##### Art. 251
+###### Art. 251
 
 Accordi internazionali
 
 L'Unione europea e le Repubbliche della parte AC compiono ogni ragionevole sforzo per aderire all'accordo dell'Aia concernente la registrazione internazionale dei disegni e modelli industriali (atto di Ginevra, 1999).
 
-##### Art. 252
+###### Art. 252
 
 Requisiti per la protezione
 
@@ -4125,7 +4125,7 @@ Requisiti per la protezione
 
 (38) Se previsto dalla legislazione di una parte, puo' inoltre essere richiesto che tali disegni o modelli presentino un carattere individuale.
 
-##### Art. 253
+###### Art. 253
 
 Eccezioni
 
@@ -4135,7 +4135,7 @@ Eccezioni
 
 3\. Un disegno o modello non conferisce diritti quando sia contrario all'ordine pubblico o alla moralita'.
 
-##### Art. 254
+###### Art. 254
 
 Diritti conferiti
 
@@ -4143,7 +4143,7 @@ Diritti conferiti
 
 2\. Le parti, inoltre, assicurano un'efficace protezione dei disegni e modelli industriali per prevenire atti che compromettano indebitamente il normale sfruttamento del disegno o modello o non siano compatibili con pratiche commerciali leali, in coerenza con quanto disposto dall'articolo 10-bis della convenzione di Parigi.
 
-##### Art. 255
+###### Art. 255
 
 Durata della protezione
 
@@ -4151,7 +4151,7 @@ Durata della protezione
 
 2\. Quando una parte prevede la protezione di disegni o modelli non registrati, la durata di tale protezione e' di almeno tre anni.
 
-##### Art. 256
+###### Art. 256
 
 Nullita' o rifiuto della registrazione
 
@@ -4173,15 +4173,15 @@ g) se la divulgazione del disegno o modello industriale e' contraria all'ordine 
 
 2\. In alternativa alla nullita', una parte puo' prevedere che l'uso di un disegno o modello sia limitato per i motivi di cui al paragrafo 1.
 
-##### Art. 257
+###### Art. 257
 
 Rapporto con il diritto d'autore
 
 I disegni e modelli protetti come disegni o modelli registrati in una parte a norma della presente sezione possono anche essere ammessi a beneficiare della protezione della normativa sul diritto d'autore vigente in tale parte fin dal momento in cui il disegno o modello e' stato creato o stabilito in una qualsiasi forma.
 
-## Sezione E - BREVETTI
+##### Sezione E - BREVETTI
 
-##### Art. 258
+###### Art. 258
 
 Accordi internazionali
 
@@ -4189,9 +4189,9 @@ Accordi internazionali
 
 2\. L'Unione europea si adopera nella misura del possibile per conformarsi al trattato sul diritto dei brevetti (Ginevra, 2000) e le Repubbliche della parte AC si adoperano nella misura del possibile per ratificare il suddetto trattato o aderirvi.
 
-## Sezione F - VARIETÀ VEGETALI
+##### Sezione F - VARIETÀ VEGETALI
 
-##### Art. 259
+###### Art. 259
 
 Varieta' vegetali
 
@@ -4201,9 +4201,9 @@ Varieta' vegetali
 
 3\. Le parti hanno il diritto di stabilire eccezioni ai diritti esclusivi riconosciuti ai costitutori di varieta' in modo da consentire agli agricoltori di conservare, utilizzare e scambiare sementi prodotte in azienda o materiali di moltiplicazione protetti.
 
-## CAPO 3 - RISPETTO DEI DIRITTI DI PROPRIETÀ INTELLETTUALE
+#### CAPO 3 - RISPETTO DEI DIRITTI DI PROPRIETÀ INTELLETTUALE
 
-##### Art. 260
+###### Art. 260
 
 Obblighi generali
 
@@ -4217,7 +4217,7 @@ Tali misure, procedure e rimedi sono leali, proporzionati ed equi, non inutilmen
 
 (39) Ai fini degli articoli da 260 a 272 per "diritti di proprieta' intellettuale" si intendono almeno i seguenti diritti: il diritto d'autore, ivi incluso il diritto d'autore relativo ai programmi informatici e alle basi dati, e i diritti connessi; i diritti collegati ai brevetti; i marchi; i disegni o modelli industriali; le topografie di circuiti integrati; le indicazioni geografiche; le varieta' vegetali e le denominazioni commerciali, se e in quanto queste ultime siano protette come diritti esclusivi nella legislazione interna interessata.
 
-##### Art. 261
+###### Art. 261
 
 Soggetti dotati di legittimazione attiva
 
@@ -4227,25 +4227,25 @@ a) ai titolari di diritti di proprieta' intellettuale, conformemente alle dispos
 
 b) alle federazioni e alle associazioni, ai titolari di licenze esclusive e ad altri titolari di licenze debitamente autorizzati, ove cio' sia consentito dalle disposizioni della legislazione applicabile e nel rispetto di tali disposizioni. Nell'accezione di "titolare di licenza" rientra il titolare di uno o piu' diritti di proprieta' intellettuale esclusivi compresi in una determinata proprieta' intellettuale.
 
-##### Art. 262
+###### Art. 262
 
 Elementi di prova
 
 Le parti adottano le misure necessarie affinche', qualora il titolare dei diritti abbia presentato elementi di prova ragionevolmente accessibili per comprovare le sue affermazioni relative alla violazione su scala commerciale del suo diritto di proprieta' intellettuale e abbia indicato elementi di conferma delle stesse detenuti dalla controparte, le autorita' giudiziarie competenti possano disporre - se del caso e previa presentazione di un'istanza ove cio' sia previsto dalla legislazione applicabile - che la controparte fornisca detti elementi, fatta salva la tutela delle informazioni riservate.
 
-##### Art. 263
+###### Art. 263
 
 Misure di salvaguardia delle prove
 
 L'autorita' giudiziaria, su richiesta di un soggetto che abbia presentato elementi di prova ragionevolmente accessibili per sostenere che il suo diritto di proprieta' intellettuale sia stato violato o stia per esserlo, ha il potere di disporre celeri ed efficaci misure provvisorie per salvaguardare le pertinenti prove dell'asserita violazione, fatta salva la tutela delle informazioni riservate. Siffatte misure possono includere la descrizione dettagliata, con o senza prelievo di campioni, o il sequestro delle merci costituenti violazione e, all'occorrenza, dei materiali e degli strumenti utilizzati nella produzione e/o distribuzione di tali merci e dei relativi documenti. Tali misure possono essere adottate, all'occorrenza inaudita altera parte, in particolare quando un ritardo rischia di causare un danno irreparabile al titolare del diritto o se sussiste un rischio dimostrabile di distruzione degli elementi di prova.
 
-##### Art. 264
+###### Art. 264
 
 Diritto d'informazione
 
 Le parti possono disporre che l'autorita' giudiziaria abbia il potere, a meno che cio' non sia sproporzionato rispetto alla gravita' della violazione, di ordinare all'autore della violazione di comunicare al titolare dei diritti l'identita' di terzi implicati nella produzione e nella distribuzione dei prodotti o servizi costituenti violazione, nonche' i loro canali di distribuzione.
 
-##### Art. 265
+###### Art. 265
 
 Misure provvisorie e cautelari
 
@@ -4253,7 +4253,7 @@ Misure provvisorie e cautelari
 
 2\. Ciascuna parte dispone che la sua autorita' giudiziaria abbia il potere di obbligare l'attore a fornire qualsiasi elemento di prova ragionevolmente accessibile al fine di accertare, con un sufficiente grado di certezza, che e' in atto o imminente una violazione dei diritti dell'attore, nonche' di ordinare all'attore di costituire una cauzione o una garanzia equivalente sufficiente a proteggere il convenuto e a impedire abusi, in misura tale che cio' non possa indebitamente dissuadere dal ricorso alle procedure in questione.
 
-##### Art. 266
+###### Art. 266
 
 Misure correttive
 
@@ -4271,37 +4271,37 @@ b) la propria autorita' giudiziaria possa ordinare, ove opportuno, che i materia
 
 5\. Conformemente alla legislazione interna, le parti possono prevedere altre misure correttive in relazione alle merci risultate usurpative o contraffatte e ai materiali e agli strumenti principalmente utilizzati per la realizzazione o la fabbricazione di dette merci.
 
-##### Art. 267
+###### Art. 267
 
 Risarcimento dei danni
 
 L'autorita' giudiziaria ha il potere di ordinare all'autore della violazione di pagare al titolare dei diritti una somma adeguata per risarcire i danni che quest'ultimo ha subito a causa della violazione di un suo diritto di proprieta' intellettuale da parte di un soggetto implicato consapevolmente o con ragionevoli motivi per esserne consapevole in un'attivita' di violazione. Ove opportuno, le parti possono autorizzare l'autorita' giudiziaria a ordinare il recupero degli utili e/o il pagamento di somme prestabilite anche se l'autore della violazione non ha proceduto a violazione consapevolmente o avendo motivi ragionevoli per esserne consapevole.
 
-##### Art. 268
+###### Art. 268
 
 Spese legali
 
 Le parti assicurano che le spese legali ragionevoli e proporzionate, nonche' le altre spese sostenute dalla parte vittoriosa siano di norma a carico della parte soccombente, a meno che il rispetto del principio di equita' non imponga una loro diversa ripartizione, conformemente alla legislazione interna.
 
-##### Art. 269
+###### Art. 269
 
 Pubblicazione delle decisioni giudiziarie
 
 Le parti possono prevedere che, nell'ambito delle azioni giudiziarie proposte per violazione dei diritti di proprieta' intellettuale, l'autorita' giudiziaria possa ordinare, su richiesta del ricorrente e a spese dell'autore della violazione, misure adeguate per la divulgazione delle informazioni concernenti la decisione, compresa la sua affissione e la sua pubblicazione integrale o per estratto. Le parti possono prevedere ulteriori misure di pubblicita' appropriate alle particolari circostanze, compresa la pubblicita' a grande diffusione.
 
-##### Art. 270
+###### Art. 270
 
 Presunzione di titolarita' dei diritti
 
 Ai fini dell'applicazione delle misure, delle procedere e dei rimedi previsti dal presente titolo, affinche' i titolari di diritti d'autore o di diritti connessi relativi al rispettivo materiale protetto siano fino a prova contraria ritenuti tali e ammessi di conseguenza ad agire in giudizio contro i contraffattori, e' sufficiente che il loro nome sia indicato sull'opera nei modi d'uso.
 
-##### Art. 271
+###### Art. 271
 
 Sanzioni penali
 
 Le parti prevedono procedimenti e sanzioni penali da applicare almeno nei casi di contraffazione intenzionale di un marchio o di violazione del diritto d'autore su scala commerciale. I possibili rimedi comprendono pene detentive e/o pecuniarie sufficienti a costituire un deterrente, coerentemente con il livello delle sanzioni applicate per reati di corrispondente gravita'. Ove opportuno, i possibili rimedi comprendono anche il sequestro, la confisca e la distruzione dei prodotti costituenti violazione e di qualsiasi materiale e strumento principalmente utilizzato nella commissione del reato. Le parti possono prevedere procedimenti e sanzioni penali applicabili ad altri casi di violazione dei diritti di proprieta' intellettuale, in particolare se si tratta di atti commessi deliberatamente e su scala commerciale.
 
-##### Art. 272
+###### Art. 272
 
 Limitazioni della responsabilita' dei prestatori di servizi
 
@@ -4313,7 +4313,7 @@ b) per le Repubbliche della parte AC: quelle adottate a livello interno per conf
 
 Le parti possono ritardare la decorrenza di efficacia di quanto disposto dal presente articolo per un periodo massimo di tre anni a decorrere dalla data di entrata in vigore del presente accordo.
 
-##### Art. 273
+###### Art. 273
 
 Misure alla frontiera
 
@@ -4327,9 +4327,9 @@ Resta inteso che non vi e' alcun obbligo di applicare queste procedure alle impo
 
 4\. Ciascuna delle parti prevede che le proprie autorita' competenti possano d'ufficio avviare le misure alla frontiera relativamente all'importazione, all'esportazione e al transito.
 
-## CAPO 4 - DISPOSIZIONI ISTITUZIONALI
+#### CAPO 4 - DISPOSIZIONI ISTITUZIONALI
 
-##### Art. 274
+###### Art. 274
 
 Sottocomitato per la proprieta' intellettuale
 
@@ -4351,13 +4351,13 @@ f) formula raccomandazioni pertinenti al comitato di associazione nelle materie 
 
 g) si occupa di qualsiasi altra questione, secondo le indicazioni del comitato di associazione.
 
-##### Art. 275
+###### Art. 275
 
 Cooperazione e assistenza tecnica in materia di proprieta' intellettuale
 
 Le parti convengono che e' nel loro comune interesse promuovere iniziative di assistenza tecnica e di cooperazione reciproca su temi inerenti al presente titolo. In questo senso esse hanno individuato una serie di attivita' di cooperazione che sono descritte all'articolo 55 del titolo VI (Sviluppo economico e commerciale) della parte III del presente accordo.
 
-##### Art. 276
+###### Art. 276
 
 Disposizioni finali
 
@@ -4365,9 +4365,9 @@ Disposizioni finali
 
 2\. Panama aderisce al trattato di cooperazione in materia di brevetti (Washington 1970, modificato da ultimo nel 2001) entro un termine massimo di due anni a decorrere dalla data di entrata in vigore del presente accordo.
 
-## TITOLO VII - SCAMBI E CONCORRENZA
+### TITOLO VII - SCAMBI E CONCORRENZA
 
-##### Art. 277
+###### Art. 277
 
 Definizioni
 
@@ -4391,7 +4391,7 @@ b) per la parte AC, un organismo garante della concorrenza per l'America central
 
 c) fino all'istituzione e all'entrata in funzione dell'organismo garante della concorrenza per l'America centrale a norma dell'articolo 279, l'autorita' nazionale garante della concorrenza di ciascuna Repubblica della parte AC.
 
-##### Art. 278
+###### Art. 278
 
 Principi
 
@@ -4409,7 +4409,7 @@ c) le concentrazioni tra imprese che ostacolano in misura significativa una conc
 
 (40) Resta inteso che il presente paragrafo non va interpretato come limitativo della portata dell'analisi da effettuare nei casi che configurino accordi tra imprese, decisioni di associazioni di imprese e pratiche concordate tra imprese, secondo quanto previsto dal diritto nazionale delle parti in materia di concorrenza.
 
-##### Art. 279
+###### Art. 279
 
 Attuazione
 
@@ -4421,7 +4421,7 @@ Attuazione
 
 4\. Nessuna disposizione del presente titolo pregiudica le competenze attribuite dalle parti alle loro rispettive autorita' nazionali e regionali per un'attuazione efficace e coerente del loro rispettivo diritto della concorrenza.
 
-##### Art. 280
+###### Art. 280
 
 Imprese pubbliche e imprese cui sono concessi diritti speciali o esclusivi, compresi i monopoli riconosciuti
 
@@ -4437,7 +4437,7 @@ Imprese pubbliche e imprese cui sono concessi diritti speciali o esclusivi, comp
 
 (41) Per discriminazione si intende una misura che non e' conforme al trattamento nazionale, come stabilito dalle pertinenti disposizioni del presente accordo.&lt;/breve&gt;
 
-##### Art. 281
+###### Art. 281
 
 Scambio di informazioni non riservate e cooperazione in materia di applicazione
 
@@ -4447,21 +4447,21 @@ Scambio di informazioni non riservate e cooperazione in materia di applicazione
 
 3\. Nessuna delle due parti e' tenuta a comunicare informazioni all'altra parte. Qualora una parte decida di comunicare informazioni, essa puo' non fornirle se la comunicazione di tali informazioni e' vietata dalle disposizioni legislative e regolamentari della parte che e' in possesso delle informazioni o se tale comunicazione e' incompatibile con i suoi interessi. Una parte puo' chiedere che le informazioni comunicate a norma del presente articolo siano utilizzate alle condizioni da essa specificate.
 
-##### Art. 282
+###### Art. 282
 
 Cooperazione e assistenza tecnica
 
 Le parti convengono che e' nel loro comune interesse promuovere iniziative di assistenza tecnica in materia di politica della concorrenza e di attivita' di applicazione del diritto. Questa cooperazione e' trattata all'articolo 52 del titolo VI (Sviluppo economico e commerciale) della parte III del presente accordo.
 
-##### Art. 283
+###### Art. 283
 
 Risoluzione delle controversie
 
 Per le questioni attinenti al presente titolo le parti non ricorrono alle procedure di risoluzione delle controversie di cui al titolo X (Risoluzione delle controversie) della parte IV del presente accordo.
 
-## TITOLO VIII - COMMERCIO E SVILUPPO SOSTENIBILE
+### TITOLO VIII - COMMERCIO E SVILUPPO SOSTENIBILE
 
-##### Art. 284
+###### Art. 284
 
 Contesto e obiettivi
 
@@ -4473,7 +4473,7 @@ Contesto e obiettivi
 
 4\. Per le questioni attinenti al presente titolo le parti non ricorrono alle procedure di risoluzione delle controversie di cui al titolo X (Risoluzione delle controversie) della parte IV del presente accordo ne' al meccanismo di mediazione per le misure non tariffarie di cui al titolo XI (Meccanismo di mediazione per le misure non tariffarie) della parte IV del presente accordo.
 
-##### Art. 285
+###### Art. 285
 
 Diritto di legiferare e livelli di protezione
 
@@ -4485,7 +4485,7 @@ Diritto di legiferare e livelli di protezione
 
 (42) Per la parte UE, il riferimento e' alle costituzioni degli Stati membri dell'Unione europea, al trattato sull'Unione europea, al trattato sul funzionamento dell'Unione europea e alla carta dei diritti fondamentali dell'Unione europea.
 
-##### Art. 286
+###### Art. 286
 
 Norme e accordi multilaterali in materia di lavoro
 
@@ -4525,7 +4525,7 @@ h) la convenzione n. 98 concernente l'applicazione dei principi del diritto di o
 
 5\. Le parti si impegnano a consultarsi e a cooperare, nei modi opportuni, sulle questioni del lavoro di comune interesse che attengono al commercio.
 
-##### Art. 287
+###### Art. 287
 
 Norme e accordi multilaterali in materia di ambiente
 
@@ -4557,7 +4557,7 @@ g) il protocollo di Kyoto alla convenzione quadro delle Nazioni Unite sui cambia
 
 (43) Resta inteso che il riferimento agli accordi multilaterali in materia di ambiente nell'articolo 287, paragrafo 2, comprende i protocolli, gli emendamenti, gli allegati e gli adeguamenti ratificati dalle parti.
 
-##### Art. 288
+###### Art. 288
 
 Il commercio come fattore che favorisce lo sviluppo sostenibile
 
@@ -4573,13 +4573,13 @@ c) facilitare e promuovere il commercio di prodotti rispondenti a criteri di sos
 
 d) facilitare e promuovere lo sviluppo di pratiche e programmi, come l'ecoturismo, volti a favorire un adeguato ritorno economico dalla conservazione e dall'uso sostenibile dell'ambiente.
 
-##### Art. 289
+###### Art. 289
 
 Commercio di prodotti forestali
 
 Per promuovere la gestione sostenibile delle risorse forestali, le parti si impegnano a collaborare per migliorare l'applicazione delle normative e la governance nel settore forestale e promuovere il commercio di prodotti forestali legali e sostenibili mediante strumenti quali: un uso efficace della CITES per quanto riguarda le specie di alberi minacciate di estinzione, i sistemi di certificazione dei prodotti forestali ottenuti in modo sostenibile, e gli accordi di partenariato regionali o bilaterali su base volontaria per l'applicazione delle normative, la governance e il commercio nel settore forestale (FLEGT).
 
-##### Art. 290
+###### Art. 290
 
 Commercio di prodotti ittici
 
@@ -4595,7 +4595,7 @@ c) scambiare i dati scientifici e i dati non riservati sugli scambi, condividere
 
 3\. Le parti decidono, laddove non abbiano gia' provveduto in tal senso, di adottare misure di competenza dello Stato di approdo conformi all'accordo dell'Organizzazione delle Nazioni Unite per l'alimentazione e l'agricoltura sulle misure di competenza dello Stato di approdo intese a prevenire, scoraggiare ed eliminare la pesca illegale, non dichiarata e non regolamentata, nonche' di attuare regimi di controllo e ispezione, incentivi e obblighi per una gestione sana e sostenibile nel lungo periodo della pesca e degli ambienti costieri.
 
-##### Art. 291
+###### Art. 291
 
 Mantenimento dei livelli di protezione
 
@@ -4607,19 +4607,19 @@ Mantenimento dei livelli di protezione
 
 4\. Nessuna disposizione del presente titolo puo' essere interpretata come tale da autorizzare le autorita' di una parte a svolgere attivita' di applicazione delle norme nel territorio dell'altra parte.
 
-##### Art. 292
+###### Art. 292
 
 Informazioni scientifiche
 
 Le parti prendono atto dell'importanza di tenere conto delle informazioni tecniche e scientifiche e delle norme, delle linee guida o delle raccomandazioni internazionali pertinenti nell'elaborazione e nell'attuazione delle misure a tutela dell'ambiente o della salute e della sicurezza sul lavoro, pur riconoscendo che l'assenza di una certezza scientifica assoluta non e' addotta per ritardare le misure di protezione laddove esista il rischio di danni gravi o irreversibili.
 
-##### Art. 293
+###### Art. 293
 
 Riesame relativo alla sostenibilita'
 
 Le parti si impegnano a rivedere, monitorare e valutare congiuntamente il contributo allo sviluppo sostenibile derivante dalla parte IV del presente accordo, comprese le attivita' di cooperazione di cui all'articolo 302.
 
-##### Art. 294
+###### Art. 294
 
 Meccanismo istituzionale e di monitoraggio
 
@@ -4639,7 +4639,7 @@ Meccanismo istituzionale e di monitoraggio
 
 (45) Le parti, nell'esercitare il diritto di avvalersi dei gruppi consultivi esistenti per attuare le disposizioni del presente titolo, offrono agli organismi esistenti la possibilita' di rafforzare e sviluppare le loro attivita' sulla base delle nuove prospettive e dei nuovi ambiti previsti dal presente titolo. A tal fine, le parti possono avvalersi dei gruppi consultivi nazionali esistenti.
 
-##### Art. 295
+###### Art. 295
 
 Forum di dialogo con la societa' civile
 
@@ -4653,7 +4653,7 @@ Il forum di dialogo con la societa' civile puo' a sua volta esprimere punti di v
 
 (46) Resta inteso che non sono delegati al forum di dialogo con la societa' civile i compiti di elaborazione politica e altre tipiche funzioni di governo dello stesso tipo.
 
-##### Art. 296
+###### Art. 296
 
 Consultazioni governative
 
@@ -4665,7 +4665,7 @@ Consultazioni governative
 
 4\. La soluzione raggiunta in merito alla questione dalle parti impegnate nelle consultazioni e' resa pubblica salvo diversa decisione della commissione per il commercio e lo sviluppo sostenibile.
 
-##### Art. 297
+###### Art. 297
 
 Gruppo di esperti
 
@@ -4675,7 +4675,7 @@ Gruppo di esperti
 
 3\. Le parti decidono la sostituzione degli esperti che non sono piu' disposti a far parte dei gruppi di esperti e possono comunque decidere di modificare l'elenco se e quando lo ritengono necessario.
 
-##### Art. 298
+###### Art. 298
 
 Composizione del gruppo di esperti
 
@@ -4691,7 +4691,7 @@ Composizione del gruppo di esperti
 
 6\. Salvo quanto diversamente concordato dalle parti della procedura conformemente all'articolo 301, paragrafo 2, il gruppo di esperti e' costituito entro sessanta giorni dalla richiesta di una parte.
 
-##### Art. 299
+###### Art. 299
 
 Regolamento interno
 
@@ -4703,7 +4703,7 @@ Regolamento interno
 
 "esaminare se una delle parti non abbia adempiuto agli obblighi stabiliti a norma dell'articolo 286, paragrafo 2, dell'articolo 287, paragrafi 2, 3 e 4, e dell'articolo 291 del presente titolo e formulare raccomandazioni non vincolanti per la soluzione della questione. Per questioni relative all'applicazione della legislazione, il mandato del gruppo di esperti e' stabilire se vi sia un inadempimento prolungato o ricorrente di una parte nel dare efficace esecuzione ai suoi obblighi.".
 
-##### Art. 300
+###### Art. 300
 
 Relazione iniziale
 
@@ -4725,7 +4725,7 @@ c) effettuare qualsiasi ulteriore esame da esso ritenuto opportuno.
 
 La relazione finale del gruppo di esperti contiene un esame delle argomentazioni contenute nelle osservazioni scritte delle parti.
 
-##### Art. 301
+###### Art. 301
 
 Relazione finale
 
@@ -4735,15 +4735,15 @@ Relazione finale
 
 3\. Le parti della procedura, tenendo conto della relazione e delle raccomandazioni del gruppo di esperti, si adoperano per discutere le misure appropriate da attuare, compresa - laddove opportuno - la possibile cooperazione a sostegno dell'attuazione di tali misure. La parte cui le raccomandazioni sono indirizzate informa la commissione per il commercio e lo sviluppo sostenibile circa le sue intenzioni in merito alla relazione e alle raccomandazioni del gruppo di esperti, anche presentando un piano d'azione, se del caso. La commissione per il commercio e lo sviluppo sostenibile controlla l'attuazione delle azioni decise dalla parte.
 
-##### Art. 302
+###### Art. 302
 
 Cooperazione e assistenza tecnica in materia di commercio e sviluppo sostenibile
 
 Le misure di cooperazione e assistenza tecnica relative al presente titolo sono contenute nel titolo VI (Sviluppo economico e commerciale) della parte III del presente accordo.
 
-## TITOLO IX - INTEGRAZIONE ECONOMICA REGIONALE
+### TITOLO IX - INTEGRAZIONE ECONOMICA REGIONALE
 
-##### Art. 303
+###### Art. 303
 
 Disposizioni generali
 
@@ -4753,7 +4753,7 @@ Disposizioni generali
 
 3\. Di conseguenza le parti decidono le seguenti disposizioni, tenendo conto anche del diverso grado di sviluppo dei loro rispettivi processi di integrazione economica regionale.
 
-##### Art. 304
+###### Art. 304
 
 Procedure doganali
 
@@ -4765,7 +4765,7 @@ Procedure doganali
 
 4\. Le parti garantiscono inoltre l'armonizzazione a livello regionale della legislazione doganale, delle procedure e delle prescrizioni doganali all'importazione applicabili alle merci originarie dell'America centrale o dell'Unione europea. La parte AC si impegna a conseguire questo obiettivo entro cinque anni dall'entrata in vigore del presente accordo.
 
-##### Art. 305
+###### Art. 305
 
 Ostacoli tecnici agli scambi
 
@@ -4783,7 +4783,7 @@ b) a questo proposito gli Stati membri dell'Unione europea accetteranno che un p
 
 5\. Per i prodotti non ancora armonizzati nella parte AC e non compresi nell'allegato XX, il comitato di associazione elabora un programma di lavoro per esaminare la possibilita' di aggiungere in seguito altri prodotti.
 
-##### Art. 306
+###### Art. 306
 
 Misure sanitarie e fitosanitarie
 
@@ -4811,7 +4811,7 @@ Per i prodotti di cui all'elenco 2 dell'allegato XIX, l'obbligo di cui sopra si 
 
 7\. Il sottocomitato di cui al paragrafo 6 controlla da vicino l'attuazione del presente accordo.
 
-##### Art. 307
+###### Art. 307
 
 Attuazione
 
@@ -4825,17 +4825,17 @@ Attuazione
 
 5\. Gli impegni in materia di integrazione regionale assunti dalla parte AC a norma del presente titolo non sono soggetti alle procedure di risoluzione delle controversie di cui al titolo X (Risoluzione delle controversie) della parte IV del presente accordo.
 
-## TITOLO X - RISOLUZIONE DELLE CONTROVERSIE
+### TITOLO X - RISOLUZIONE DELLE CONTROVERSIE
 
-### CAPO 1 - OBIETTIVO E AMBITO DI APPLICAZIONE
+#### CAPO 1 - OBIETTIVO E AMBITO DI APPLICAZIONE
 
-##### Art. 308
+###### Art. 308
 
 Obiettivo
 
 L'obiettivo del presente titolo e' prevenire e risolvere le controversie tra le parti concernenti l'interpretazione o l'applicazione della parte IV del presente accordo e giungere, per quanto possibile, a una soluzione reciprocamente soddisfacente.
 
-##### Art. 309
+###### Art. 309
 
 Ambito di applicazione
 
@@ -4843,9 +4843,9 @@ Ambito di applicazione
 
 2\. Il presente titolo non si applica alle controversie tra le Repubbliche della parte AC.
 
-## CAPO 2 - CONSULTAZIONI
+#### CAPO 2 - CONSULTAZIONI
 
-##### Art. 310
+###### Art. 310
 
 Consultazioni
 
@@ -4871,11 +4871,11 @@ Consultazioni
 
 (48) Il divieto di importazione istituito nei confronti delle esportazioni di un prodotto provenienti da piu' di una Repubblica della parte AC costituirebbe, ad esempio, una materia contemplata dal presente paragrafo.
 
-## CAPO 3 - PROCEDURE DI RISOLUZIONE DELLE CONTROVERSIE
+#### CAPO 3 - PROCEDURE DI RISOLUZIONE DELLE CONTROVERSIE
 
-### Sezione A - PROCEDURA DEL COLLEGIO
+##### Sezione A - PROCEDURA DEL COLLEGIO
 
-##### Art. 311
+###### Art. 311
 
 Apertura della procedura del collegio
 
@@ -4889,7 +4889,7 @@ La parte attrice precisa nella sua richiesta quali siano la misura specifica con
 
 4\. Per il riesame di una misura proposta non puo' essere richiesta la costituzione di un collegio.
 
-##### Art. 312
+###### Art. 312
 
 Costituzione del collegio
 
@@ -4911,7 +4911,7 @@ Le parti della controversia che lo desiderino possono essere presenti al sortegg
 
 (49) Se una parte della controversia e' costituita da due o piu' Repubbliche della parte AC, queste ultime agiscono congiuntamente ai fini della procedura di cui all'articolo 312.
 
-##### Art. 313
+###### Art. 313
 
 Decisione del collegio
 
@@ -4921,9 +4921,9 @@ Decisione del collegio
 
 3\. Nei casi urgenti, riguardanti soprattutto merci deperibili o stagionali, il collegio fa il possibile per notificare la decisione entro sessanta giorni dalla sua costituzione. Salvo circostanze eccezionali, la decisione e' notificata entro settanta giorni dalla data di costituzione del collegio. Su richiesta di una delle parti della controversia, il collegio puo' pronunciarsi in via preliminare circa l'effettiva urgenza del caso entro dieci giorni dalla sua costituzione.
 
-## Sezione B - ESECUZIONE
+##### Sezione B - ESECUZIONE
 
-##### Art. 314
+###### Art. 314
 
 Esecuzione della decisione del collegio
 
@@ -4937,7 +4937,7 @@ Ne' la compensazione ne' la sospensione degli obblighi e', tuttavia, da preferir
 
 4\. Se la decisione del collegio si applica a piu' di una Repubblica della parte AC come parte attrice o parte convenuta, la compensazione o la sospensione degli obblighi a norma del presente titolo si applica singolarmente a ciascuna Repubblica della parte AC. Per tale motivo la decisione del collegio stabilisce singolarmente per ciascuna Repubblica della parte AC il livello dell'annullamento o del pregiudizio dei benefici causato dalla violazione.
 
-##### Art. 315
+###### Art. 315
 
 Periodo di tempo ragionevole per l'esecuzione
 
@@ -4955,7 +4955,7 @@ Se la decisione del collegio si applica a piu' di una Repubblica della parte AC,
 
 6\. Il periodo di tempo ragionevole puo' essere prorogato previo accordo tra le parti della controversia. Tutti i periodi indicati nel presente articolo fanno parte del periodo di tempo ragionevole.
 
-##### Art. 316
+###### Art. 316
 
 Riesame delle misure adottate per dare esecuzione alla decisione del collegio
 
@@ -4965,7 +4965,7 @@ Riesame delle misure adottate per dare esecuzione alla decisione del collegio
 
 3\. Qualora non sia possibile ricostituire, in tutto o in parte, il collegio originario, si applicano le procedure pertinenti di cui all'articolo 312. Il termine per la notifica della decisione e' di sessanta giorni dalla presentazione della richiesta di cui al paragrafo 2.
 
-##### Art. 317
+###### Art. 317
 
 Misure correttive temporanee in caso di mancata esecuzione
 
@@ -4981,7 +4981,7 @@ Misure correttive temporanee in caso di mancata esecuzione
 
 6\. La sospensione degli obblighi e' temporanea e si applica solo fino a quando le misure specifiche giudicate incompatibili con le disposizioni di cui all'articolo 309 non siano state rese pienamente conformi a tali disposizioni secondo quanto previsto all'articolo 318, o fino a quando le parti della controversia non abbiano trovato un accordo per la sua risoluzione.
 
-##### Art. 318
+###### Art. 318
 
 Riesame delle misure adottate per dare esecuzione alla decisione successivamente alla sospensione degli obblighi
 
@@ -4991,9 +4991,9 @@ Riesame delle misure adottate per dare esecuzione alla decisione successivamente
 
 3\. Qualora non sia possibile ricostituire, in tutto o in parte, il collegio originario, si applicano le procedure pertinenti di cui all'articolo 312. Il termine per la notifica della decisione e' di sessanta giorni dalla presentazione della richiesta di cui al paragrafo 2.
 
-## Sezione C - DISPOSIZIONI COMUNI
+##### Sezione C - DISPOSIZIONI COMUNI
 
-##### Art. 319
+###### Art. 319
 
 Regolamento di procedura
 
@@ -5009,7 +5009,7 @@ Regolamento di procedura
 
 5\. Conformemente al regolamento di procedura puo' essere richiesta la rimozione di un membro che, a giudizio di una parte della controversia, viola il codice di condotta o non soddisfa i requisiti stabiliti all'articolo 325.
 
-##### Art. 320
+###### Art. 320
 
 Informazioni e consulenza tecnica
 
@@ -5017,13 +5017,13 @@ Informazioni e consulenza tecnica
 
 2\. Se del caso il collegio puo' anche acquisire informazioni e pareri presso esperti, organismi o altre fonti. Prima di chiedere tali informazioni e pareri, il collegio informa le parti della controversia cui viene anche data la possibilita' di formulare osservazioni. Le informazioni ottenute conformemente al presente paragrafo devono essere tempestivamente comunicate a ciascuna delle parti della controversia affinche' esse possano formulare osservazioni. Le osservazioni sono trasmesse al collegio e all'altra parte.
 
-##### Art. 321
+###### Art. 321
 
 Amicus curiae
 
 Le persone fisiche o giuridiche portatrici di un interesse in relazione alla questione e residenti o stabilite nel territorio delle parti della controversia sono autorizzate a presentare al collegio, a titolo di amicus curiae, memorie che il collegio puo' esaminare conformemente al regolamento di procedura.
 
-##### Art. 322
+###### Art. 322
 
 Norme e principi di interpretazione
 
@@ -5033,7 +5033,7 @@ Norme e principi di interpretazione
 
 3\. Le decisioni del collegio non possono ampliare ne' ridurre i diritti e gli obblighi che discendono dalle disposizioni di cui all'articolo 309.
 
-##### Art. 323
+###### Art. 323
 
 Disposizioni comuni applicabili alle decisioni del collegio
 
@@ -5049,15 +5049,15 @@ Le parti della controversia rendono pubbliche le decisioni del collegio. Le disp
 
 4\. Nelle sue decisioni il collegio non rivela informazioni riservate, ma puo' formulare conclusioni tratte da tali informazioni.
 
-## CAPO 4 - DISPOSIZIONI GENERALI
+#### CAPO 4 - DISPOSIZIONI GENERALI
 
-##### Art. 324
+###### Art. 324
 
 Soluzione reciprocamente soddisfacente
 
 Le parti della controversia possono in qualsiasi momento pervenire a una soluzione reciprocamente soddisfacente di una controversia cui si applicano le disposizioni del presente titolo. Esse notificano tale soluzione al comitato di associazione. Alla notifica della soluzione reciprocamente soddisfacente, la procedura e' chiusa.
 
-##### Art. 325
+###### Art. 325
 
 Elenco dei membri del collegio
 
@@ -5075,7 +5075,7 @@ Ai fini della procedura di selezione di cui all'articolo 312, il presidente del 
 
 a) entro settantacinque giorni le parti inviano al Consiglio di associazione i loro elenchi di candidati; b) entro centoventi giorni il Consiglio di associazione approva o respinge i candidati che figurano negli elenchi; c) entro centocinquanta giorni le parti inviano un elenco di candidati aggiuntivi in sostituzione dei candidati respinti; d) entro centoottanta giorni l'elenco dei candidati e' reso definitivo.
 
-##### Art. 326
+###### Art. 326
 
 Rapporto con gli obblighi derivanti dall'OMC
 
@@ -5099,7 +5099,7 @@ Le procedure di risoluzione delle controversie a norma della DSU dell'OMC sono c
 
 9\. Nessuna disposizione del presente titolo osta a che una parte della controversia proceda alla sospensione degli obblighi autorizzata dall'organo di conciliazione dell'OMC. L'accordo OMC non puo' essere invocato per impedire a una parte della controversia di sospendere gli obblighi a norma del presente titolo.
 
-##### Art. 327
+###### Art. 327
 
 Termini
 
@@ -5109,7 +5109,7 @@ Termini
 
 3\. Il collegio puo' sospendere i lavori in qualsiasi momento per un periodo non superiore a dodici mesi su richiesta della parte attrice e con il consenso della parte convenuta. In tal caso i termini sono prorogati per un periodo pari alla durata della sospensione della procedura. Se la procedura del collegio resta sospesa per oltre dodici mesi, il mandato del collegio scade, fatto salvo il diritto della parte attrice di chiedere l'apertura di consultazioni e poi la costituzione di un collegio sulla stessa questione in un momento successivo. Il presente paragrafo non si applica se questa sospensione e' dovuta a tentativi condotti in buona fede per giungere a una soluzione reciprocamente soddisfacente a norma dell'articolo 324.
 
-##### Art. 328
+###### Art. 328
 
 Adozione e modifica del regolamento di procedura e del codice di condotta
 
@@ -5117,11 +5117,11 @@ Adozione e modifica del regolamento di procedura e del codice di condotta
 
 2\. Il Consiglio di associazione puo' modificare il regolamento di procedura e il codice di condotta.
 
-## TITOLO XI - MECCANISMO DI MEDIAZIONE PER LE MISURE NON TARIFFARIE
+### TITOLO XI - MECCANISMO DI MEDIAZIONE PER LE MISURE NON TARIFFARIE
 
-### CAPO 1 - AMBITO DI APPLICAZIONE
+#### CAPO 1 - AMBITO DI APPLICAZIONE
 
-##### Art. 329
+###### Art. 329
 
 Ambito di applicazione
 
@@ -5143,9 +5143,9 @@ e) alle disposizioni istituzionali del presente accordo.
 
 4\. La procedura di mediazione e' riservata.
 
-## CAPO 2 - PROCEDURA DEL MECCANISMO DI MEDIAZIONE
+#### CAPO 2 - PROCEDURA DEL MECCANISMO DI MEDIAZIONE
 
-##### Art. 330
+###### Art. 330
 
 Avvio della procedura
 
@@ -5155,7 +5155,7 @@ Avvio della procedura
 
 3\. Prima della scelta del mediatore a norma dell'articolo 331, le parti della procedura si adoperano in buona fede per pervenire a un accordo mediante negoziati diretti e dispongono per questo di un termine di venti giorni.
 
-##### Art. 331
+###### Art. 331
 
 Scelta del mediatore
 
@@ -5173,7 +5173,7 @@ Scelta del mediatore
 
 (51) Ad esempio, nei casi riguardanti le norme e le prescrizioni tecniche, il mediatore dovrebbe provenire dai pertinenti organismi di normazione internazionali.
 
-##### Art. 332
+###### Art. 332
 
 Regolamento della procedura di mediazione
 
@@ -5191,9 +5191,9 @@ Regolamento della procedura di mediazione
 
 7\. La procedura si conclude di norma entro sessanta giorni dalla nomina del mediatore. In qualsiasi momento le parti della procedura possono rinunciare di comune accordo alla procedura.
 
-## CAPO 3 - ATTUAZIONE
+#### CAPO 3 - ATTUAZIONE
 
-##### Art. 333
+###### Art. 333
 
 Attuazione di una soluzione concordata
 
@@ -5203,9 +5203,9 @@ Attuazione di una soluzione concordata
 
 L'obbligo cessa una volta che la soluzione reciprocamente soddisfacente sia stata adeguatamente e compiutamente attuata.
 
-## CAPO 4 - DISPOSIZIONI GENERALI
+#### CAPO 4 - DISPOSIZIONI GENERALI
 
-##### Art. 334
+###### Art. 334
 
 Rapporto con il titolo X relativo alla risoluzione delle controversie
 
@@ -5213,13 +5213,13 @@ Rapporto con il titolo X relativo alla risoluzione delle controversie
 
 2\. Il meccanismo di mediazione lascia impregiudicati i diritti e gli obblighi delle parti di cui al titolo X.
 
-##### Art. 335
+###### Art. 335
 
 Termini
 
 I termini indicati nel presente titolo possono essere modificati previo accordo fra le parti della procedura.
 
-##### Art. 336
+###### Art. 336
 
 Riservatezza delle informazioni
 
@@ -5229,7 +5229,7 @@ Riservatezza delle informazioni
 
 3\. Analogamente i documenti, le comunicazioni o parti di essi considerati riservati, che siano stati messi a disposizione di esperti, agenzie governative o altre persone fisiche o giuridiche competenti con conoscenze specialistiche nella materia in esame, sono restituiti o distrutti entro quindici giorni dalla conclusione dell'assistenza o delle consultazioni del mediatore.
 
-##### Art. 337
+###### Art. 337
 
 Costi
 
@@ -5239,15 +5239,15 @@ Costi
 
 3\. Il Consiglio di associazione stabilisce i costi ammissibili, il compenso e le indennita' da corrispondere al mediatore.
 
-## TITOLO XII - TRASPARENZA E PROCEDURE AMMINISTRATIVE
+### TITOLO XII - TRASPARENZA E PROCEDURE AMMINISTRATIVE
 
-##### Art. 338
+###### Art. 338
 
 Cooperazione per una maggiore trasparenza
 
 Le parti convengono di cooperare nelle sedi bilaterali e multilaterali competenti per aumentare la trasparenza, anche attraverso l'eliminazione della corruzione nei settori disciplinati dalla parte IV del presente accordo.
 
-##### Art. 339
+###### Art. 339
 
 Pubblicazione
 
@@ -5259,7 +5259,7 @@ Pubblicazione
 
 4\. Nessuna disposizione della parte IV del presente accordo puo' essere interpretata come tale da imporre alle parti di fornire informazioni riservate la cui divulgazione impedisca l'applicazione della legge o sia comunque in contrasto con l'interesse pubblico o pregiudichi interessi commerciali legittimi di determinate imprese, siano esse pubbliche o private.
 
-##### Art. 340
+###### Art. 340
 
 Punti di contatto e scambio di informazioni
 
@@ -5275,7 +5275,7 @@ Punti di contatto e scambio di informazioni
 
 (53) Ai fini dell'obbligo per la parte AC di designare un punto di contatto, per "data di entrata in vigore" si intende la data in cui tutte le Repubbliche della parte AC hanno messo in vigore il presente accordo conformemente all'articolo 353, paragrafo 4.
 
-##### Art. 341
+###### Art. 341
 
 Procedimenti amministrativi
 
@@ -5289,7 +5289,7 @@ b) accorda alle persone interessate una possibilita' ragionevole di presentare f
 
 c) provvede a che le sue procedure siano fondate sul diritto.
 
-##### Art. 342
+###### Art. 342
 
 Riesame e impugnazione
 
@@ -5303,13 +5303,13 @@ b) una decisione fondata sugli elementi di prova e sulle comunicazioni presentat
 
 3\. Fatta salva la possibilita' di impugnazione o di ulteriore riesame nei modi previsti nella rispettiva legislazione, ciascuna delle parti provvede a che tale decisione sia applicata dall'ufficio o dall'autorita' competente e ne indirizzi l'azione per quanto riguarda il provvedimento amministrativo in questione.
 
-##### Art. 343
+###### Art. 343
 
 Norme specifiche
 
 Le disposizioni del presente titolo lasciano impregiudicate le norme specifiche contenute in altre disposizioni del presente accordo.
 
-##### Art. 344
+###### Art. 344
 
 Trasparenza in materia di sovvenzioni
 
@@ -5325,9 +5325,9 @@ Trasparenza in materia di sovvenzioni
 
 6\. Per le questioni attinenti al presente articolo le parti non ricorrono alle procedure di risoluzione delle controversie di cui al titolo X (Risoluzione delle controversie) della parte IV del presente accordo.
 
-## TITOLO XIII - COMPITI SPECIFICI, RELATIVI ALLE QUESTIONI COMMERCIALI, DEGLI ORGANI ISTITUITI DAL PRESENTE ACCORDO
+### TITOLO XIII - COMPITI SPECIFICI, RELATIVI ALLE QUESTIONI COMMERCIALI, DEGLI ORGANI ISTITUITI DAL PRESENTE ACCORDO
 
-##### Art. 345
+###### Art. 345
 
 Compiti specifici del Consiglio di associazione
 
@@ -5363,7 +5363,7 @@ c) prendere, nell'esercizio delle sue funzioni, qualsiasi altra iniziativa conve
 
 (54) Attuazione delle modifiche approvate dal Consiglio di associazione: 1. nel caso della Costa Rica, le decisioni del Consiglio di associazione a norma dell'articolo 345, paragrafo 2, lettera a), saranno equivalenti allo strumento di cui all'articolo 121.4, terzo comma (Protocolo de Menor Rango) della Constitucion Politica de la Republica de Costa Rica; 2. nel caso dell'Honduras, le decisioni del Consiglio di associazione a norma dell'articolo 345, paragrafo 2, lettera a), saranno equivalenti allo strumento di cui all'articolo 21 della Constitucion de la Republica de Honduras.
 
-##### Art. 346
+###### Art. 346
 
 Compiti specifici del comitato di associazione
 
@@ -5389,7 +5389,7 @@ b) raccomandare al Consiglio di associazione di adottare decisioni conformi agli
 
 c) prendere, nell'esercizio delle sue funzioni, qualsiasi altra iniziativa secondo quanto convenuto tra le parti o secondo le indicazioni del Consiglio di associazione.
 
-##### Art. 347
+###### Art. 347
 
 Coordinatori per la parte IV del presente accordo
 
@@ -5397,7 +5397,7 @@ Coordinatori per la parte IV del presente accordo
 
 2\. Conformemente alle disposizioni che precedono i coordinatori collaborano alla definizione dell'ordine del giorno delle riunioni del Consiglio di associazione e del comitato di associazione e a tutti gli altri preparativi necessari per tali riunioni e garantiscono, se del caso, il follow-up delle decisioni di tali organi.
 
-##### Art. 348
+###### Art. 348
 
 Sottocomitati
 
@@ -5409,9 +5409,9 @@ Sottocomitati
 
 4\. I sottocomitati sono presieduti, a turno e per un periodo di un anno, da un rappresentante della parte UE e da un rappresentante di una Repubblica della parte AC.
 
-## TITOLO XIV - ECCEZIONI
+### TITOLO XIV - ECCEZIONI
 
-##### Art. 349
+###### Art. 349
 
 Bilancia dei pagamenti
 
@@ -5433,7 +5433,7 @@ c) le eventuali misure correttive alternative a disposizione.
 
 Nelle consultazioni viene esaminata la conformita' delle misure restrittive ai paragrafi 3 e 4. Vengono accettati tutti i dati statistici e di altro tipo presentati dal Fondo monetario internazionale relativamente ai cambi, alle riserve monetarie e alla bilancia dei pagamenti e le conclusioni si basano sulla valutazione che il Fondo da' della situazione della bilancia dei pagamenti e della posizione finanziaria esterna della parte interessata.
 
-##### Art. 350
+###### Art. 350
 
 Disposizioni in materia fiscale
 
@@ -5443,7 +5443,7 @@ Disposizioni in materia fiscale
 
 3\. Le disposizioni della parte IV del presente accordo lasciano impregiudicati i diritti e gli obblighi delle parti derivanti da qualsivoglia convenzione fiscale. In caso di contrasto tra la parte IV del presente accordo e una siffatta convenzione, quest'ultima prevale limitatamente alle disposizioni incompatibili.
 
-##### Art. 351
+###### Art. 351
 
 Preferenza regionale
 
@@ -5453,7 +5453,7 @@ Preferenza regionale
 
 ## PARTE V - DISPOSIZIONI FINALI
 
-##### Art. 352
+###### Art. 352
 
 Definizione delle parti
 
@@ -5477,7 +5477,7 @@ Quando le parti agiscono collettivamente in conformita' al presente paragrafo, l
 
 5\. Fermo restando quanto disposto dal paragrafo 3 e in linea con il futuro sviluppo dell'integrazione regionale dell'America centrale, le Repubbliche della parte AC si impegnano ad adoperarsi affinche' l'ambito dei settori in cui agiscono collettivamente sia progressivamente esteso, dandone notifica alla parte UE. Il Consiglio di associazione adotta una decisione che indica con precisione l'ambito di tali settori.
 
-##### Art. 353
+###### Art. 353
 
 Entrata in vigore
 
@@ -5497,7 +5497,7 @@ Entrata in vigore
 
 8\. A decorrere dalla data di entrata in vigore conformemente al paragrafo 2, il presente accordo sostituisce gli accordi di dialogo politico e di cooperazione vigenti tra le Repubbliche della parte AC e la parte UE.
 
-##### Art. 354
+###### Art. 354
 
 Durata
 
@@ -5509,7 +5509,7 @@ Durata
 
 4\. La denuncia ha effetto trascorsi sei mesi dalla notifica al rispettivo depositario.
 
-##### Art. 355
+###### Art. 355
 
 Adempimento degli obblighi
 
@@ -5531,13 +5531,13 @@ b) una violazione di elementi essenziali del presente accordo.
 
 6\. Fermo restando quanto disposto dal paragrafo 2, qualora una parte ritenga che un'altra parte abbia mancato a uno o piu' obblighi ad essa incombenti in virtu' della parte IV del presente accordo, essa ricorre esclusivamente e si attiene alle procedure di risoluzione delle controversie istituite dal titolo X (Risoluzione delle controversie) e al meccanismo di mediazione istituito dal titolo XI (Meccanismo di mediazione per le misure non tariffarie) della parte IV del presente accordo o ai meccanismi alternativi previsti per obblighi specifici dalla parte IV del presente accordo.
 
-##### Art. 356
+###### Art. 356
 
 Diritti e obblighi derivanti dal presente accordo
 
 Nessuna disposizione del presente accordo puo' essere interpretata come tale da conferire alle persone diritti o imporre loro obblighi diversi dai diritti o dagli obblighi istituiti dal presente accordo, ne' puo' essere interpretata come istitutiva, a carico di una parte, dell'obbligo di consentire che l'accordo possa essere direttamente invocato nel proprio ordinamento giuridico interno, salvo quanto diversamente disposto nella legislazione interna di quella parte.
 
-##### Art. 357
+###### Art. 357
 
 Eccezioni
 
@@ -5563,7 +5563,7 @@ d) impedire alle parti di decidere autonomamente le priorita' di bilancio o impo
 
 2\. Il Consiglio di associazione viene informato nella misura piu' ampia possibile delle misure adottate a norma del paragrafo 1, lettere a) e b), e della loro revoca.
 
-##### Art. 358
+###### Art. 358
 
 Futuri sviluppi
 
@@ -5573,7 +5573,7 @@ Futuri sviluppi
 
 3\. Tutte le modifiche e gli accordi sopracitati sono approvati conformemente alle procedure giuridiche interne di ciascuna parte.
 
-##### Art. 359
+###### Art. 359
 
 Adesione di nuovi membri
 
@@ -5589,7 +5589,7 @@ Adesione di nuovi membri
 
 6\. Lo strumento di adesione e' depositato presso i depositari.
 
-##### Art. 360
+###### Art. 360
 
 Applicazione territoriale
 
@@ -5599,19 +5599,19 @@ Applicazione territoriale
 
 3\. Per l'America centrale il presente accordo si applica ai territori delle Repubbliche della parte AC, conformemente alla loro rispettiva legislazione interna e al diritto internazionale.
 
-##### Art. 361
+###### Art. 361
 
 Riserve e dichiarazioni interpretative
 
 Il presente accordo non consente riserve unilaterali o dichiarazioni interpretative.
 
-##### Art. 362
+###### Art. 362
 
 Allegati, appendici, protocolli, note, note a pie' di pagina e dichiarazioni congiunte
 
 Gli allegati, le appendici, i protocolli, le note, le note a pie' di pagina e le dichiarazioni congiunte costituiscono parte integrante del presente accordo.
 
-##### Art. 363
+###### Art. 363
 
 Testi facenti fede
 

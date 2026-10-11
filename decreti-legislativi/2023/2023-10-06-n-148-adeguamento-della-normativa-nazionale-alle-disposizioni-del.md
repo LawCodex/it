@@ -1029,7 +1029,7 @@ m) non comunica agli operatori interessati, in violazione di quanto stabilito da
 
 > \- Per i riferimenti del regolamento di esecuzione (UE) 2021/279 della commissione del 22 febbraio 2021, si veda nelle note alle premesse.
 
-## Capo II - Sanzioni amministrative pecuniarie a carico degli operatori o a carico di altri soggetti
+### Capo II - Sanzioni amministrative pecuniarie a carico degli operatori o a carico di altri soggetti
 
 #### Art. 23
 

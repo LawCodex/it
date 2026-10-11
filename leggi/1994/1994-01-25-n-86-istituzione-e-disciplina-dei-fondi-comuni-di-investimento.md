@@ -30,11 +30,9 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I - SOCIETA DI GESTIONE DI FONDI COMUNI
+## CAPO I - SOCIETA DI GESTIONE DI FONDI COMUNI DI INVESTIMENTO IMMOBILIARE CHIUSI
 
-### DI INVESTIMENTO IMMOBILIARE CHIUSI
-
-#### Art. 1
+### Art. 1
 
 ((ARTICOLO ABROGATO DAL D. LGS. 24 FEBBRAIO 1998, N. 58))((4))
 
@@ -44,11 +42,11 @@ AGGIORNAMENTO (4)
 
 Il D. Lgs. 24 febbraio 1998, n. 58 ha disposto (con l'art. 214, comma 2, lettera l)) che i commi 1, 2, 3, 4, 5 e 6 del presente articolo sono abrogati, ma continuano a essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del D.Lgs. 24 febbraio 1998, n. 58.
 
-#### Art. 2
+### Art. 2
 
 ((ARTICOLO ABROGATO DAL D. LGS. 24 FEBBRAIO 1998, N. 58))
 
-#### Art. 3
+### Art. 3
 
 ((ARTICOLO ABROGATO DAL D. LGS. 24 FEBBRAIO 1998, N. 58)) ((4))
 
@@ -58,7 +56,7 @@ AGGIORNAMENTO (4)
 
 Il D. Lgs. 24 febbraio 1998, n. 58 ha disposto (con l'art. 214, comma 2, lettera l)) che il comma 2, ultimo periodo del presente articolo e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del D.Lgs. 24 febbraio 1998, n. 58.
 
-#### Art. 4
+### Art. 4
 
 ((ARTICOLO ABROGATO DAL D. LGS. 24 FEBBRAIO 1998, N. 58))((4))
 
@@ -68,7 +66,7 @@ AGGIORNAMENTO (4)
 
 Il D. Lgs. 24 febbraio 1998, n. 58 ha disposto (con l'art. 214, comma 2, lettera l)) che i commi 1, 2, 3, 4, 5 e 6 del presente articolo sono abrogati, ma continuano a essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del D.Lgs. 24 febbraio 1998, n. 58.
 
-#### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DAL D. LGS. 24 FEBBRAIO 1998, N. 58)) ((4))
 
@@ -78,11 +76,11 @@ AGGIORNAMENTO (4)
 
 Il D. Lgs. 24 febbraio 1998, n. 58 ha disposto (con l'art. 214, comma 2, lettera l)) che i commi 1, 2, 3 e 4 del presente articolo sono abrogati, ma continuano a essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del D.Lgs. 24 febbraio 1998, n. 58.
 
-#### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DAL D. LGS. 24 FEBBRAIO 1998, N. 58))
 
-#### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DAL D. LGS. 24 FEBBRAIO 1998, N. 58)) ((4))
 
@@ -92,7 +90,7 @@ AGGIORNAMENTO (4)
 
 Il D. Lgs. 24 febbraio 1998, n. 58 ha disposto (con l'art. 214, comma 2, lettera l)) che il presente articolo e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del D.Lgs. 24 febbraio 1998, n. 58.
 
-#### Art. 8
+### Art. 8
 
 ((ARTICOLO ABROGATO DAL D. LGS. 24 FEBBRAIO 1998, N. 58))((4))
 
@@ -102,7 +100,7 @@ AGGIORNAMENTO (4)
 
 Il D. Lgs. 24 febbraio 1998, n. 58 ha disposto (con l'art. 214, comma 2, lettera l)) che il presente articolo e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del D.Lgs. 24 febbraio 1998, n. 58.
 
-#### Art. 9
+### Art. 9
 
 ((ARTICOLO ABROGATO DAL D. LGS. 24 FEBBRAIO 1998, N. 58)) ((4))
 
@@ -112,19 +110,17 @@ AGGIORNAMENTO (4)
 
 Il D. Lgs. 24 febbraio 1998, n. 58 ha disposto (con l'art. 214, comma 2, lettera l)) che il presente articolo e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del D.Lgs. 24 febbraio 1998, n. 58.
 
-#### Art. 10
+### Art. 10
 
 ((ARTICOLO ABROGATO DAL D. LGS. 24 FEBBRAIO 1998, N. 58))
 
-#### Art. 11
+### Art. 11
 
 ((ARTICOLO ABROGATO DAL D. LGS. 24 FEBBRAIO 1998, N. 58))
 
-## CAPO II - FONDI COMUNI DI
+## CAPO II - FONDI COMUNI DI INVESTIMENTO IMMOBILIARE CHIUSI
 
-### INVESTIMENTO IMMOBILIARE CHIUSI
-
-#### Art. 12
+### Art. 12
 
 ((ARTICOLO ABROGATO DAL D. LGS. 24 FEBBRAIO 1998, N. 58))((4))
 
@@ -134,7 +130,7 @@ AGGIORNAMENTO (4)
 
 Il D. Lgs. 24 febbraio 1998, n. 58 ha disposto (con l'art. 214, comma 2, lettera l)) che i commi 2 e 5 del presente articolo sono abrogati, ma continuano a essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del D.Lgs. 24 febbraio 1998, n. 58.
 
-#### Art. 13
+### Art. 13
 
 ((ARTICOLO ABROGATO DAL D. LGS. 24 FEBBRAIO 1998, N. 58))((4))
 
@@ -144,7 +140,7 @@ AGGIORNAMENTO (4)
 
 Il D. Lgs. 24 febbraio 1998, n. 58 ha disposto (con l'art. 214, comma 2, lettera l)) che il presente articolo e' abrogato, ma continua ad essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del D.Lgs. 24 febbraio 1998, n. 58.
 
-#### Art. 14
+### Art. 14
 
 ((ARTICOLO ABROGATO DAL D. LGS. 24 FEBBRAIO 1998, N. 58)) ((4))
 
@@ -154,7 +150,7 @@ AGGIORNAMENTO (4)
 
 Il D. Lgs. 24 febbraio 1998, n. 58 ha disposto (con l'art. 214, comma 2, lettera l)) che il presente articolo e' abrogato, ma continua ad essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del D.Lgs. 24 febbraio 1998, n. 58.
 
-#### Art. 14-bis - Fondi istituiti con apporto di beni immobili
+### Art. 14-bis - Fondi istituiti con apporto di beni immobili
 
 1\. In alternativa alle modalita' operative indicate negli articoli 12, 13 e 14, le quote del fondo possono essere sottoscritte, entro un anno dalla sua costituzione, con apporto di beni immobili o di diritti reali su immobili, qualora l'apporto sia costituito per oltre il 51 per cento da beni e diritti apportati esclusivamente dallo Stato, da enti previdenziali pubblici, da regioni, da enti locali e loro consorzi, nonche' da societa' interamente possedute, anche indirettamente, dagli stessi soggetti. Alla istituzione del fondo con apporto in natura si applicano l'articolo 12, commi 1, 2, lettere a), d), e), l), m), o), p), r), s-bis), e 6, e l'articolo 14, commi 7 e 8. Si applicano altresi', in quanto compatibili, le disposizioni dell'articolo 12, commi 4 e 5.
 
@@ -200,7 +196,7 @@ AGGIORNAMENTO (6)
 
 Il D.L. 25 settembre 2001, n. 351, convertito con modificazioni dalla L. 23 novembre 2001, n. 410 ha disposto (con l'art. 6, comma 1) che "I fondi comuni d'investimento immobiliare istituiti ai sensi [...]dell'articolo 14-bis della legge 25 gennaio 1994, n. 86, non sono soggetti alle imposte sui redditi e all'imposta regionale sulle attivita' produttive."
 
-#### Art. 15
+### Art. 15
 
 ((ARTICOLO ABROGATO DAL D.L. 25 SETTEMBRE 2001, N. 351, CONVERTITO CON MODIFICAZIONI DALLA L. 23 NOVEMBRE 2001, N. 410))
 

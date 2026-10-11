@@ -50,11 +50,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I - Istituto nazionale
+## Titolo I - Istituto nazionale di geofisica e vulcanologia (INGV)
 
-### di geofisica e vulcanologia (INGV)
-
-#### Art. 1
+### Art. 1
 
 Istituzione dell'ente
 
@@ -178,7 +176,7 @@ c) Istituto di ricerca sul rischio sismico di Milano (IRRS).
 
 > \- Per il titolo del decreto legislativo 5 giugno 1998, n. 204, si veda nelle note alle premesse.
 
-#### Art. 2
+### Art. 2
 
 Attivita' dell'INGV
 
@@ -210,7 +208,7 @@ In particolare:
 
 s) gli articoli 6 e 17 della legge n. 225 del 1992, citati nell'articolo 2, commi 1 e 2, del decreto legislativo 29 settembre 1999, n. 381, devono intendersi rispettivamente riferiti agli articoli 4, 13 e 19 del presente decreto".
 
-#### Art. 3
+### Art. 3
 
 Organi dell'ente
 
@@ -246,7 +244,7 @@ Se dipendente pubblico, con esclusione dei ricercatori e dei professori universi
 
 11\. Il direttore generale non puo' avere interessi diretti o indiretti nelle imprese che partecipano a programmi di ricerca dell'ente.
 
-#### Art. 4
+### Art. 4
 
 Piano di attivita'
 
@@ -258,7 +256,7 @@ Piano di attivita'
 
 > "2. Sulla base degli indirizzi di cui al comma 1, delle risoluzioni parlamentari di approvazione del DPEF, di direttive del Presidente del Consiglio dei Ministri, dei piani e dei programmi di competenza delle amministrazioni dello Stato, di osservazioni e proposte delle predette amministrazioni, e' predisposto, approvato e annualmente aggiornato, ai sensi dell'art. 2 del presente decreto, il Programma nazionale per la ricerca (PNR), di durata triennale. Il PNR, con riferimento alla dimensione europea e internazionale della ricerca e tenendo conto delle iniziative, dei contributi e delle realta' di ricerca regionali, definisce gli obiettivi generali e le modalita' di attuazione degli interventi alla cui realizzazione concorrono, con risorse disponibili sui loro stati di previsione o bilanci, le pubbliche amministrazioni, ivi comprese, con le specificita' dei loro ordinamenti e nel rispetto delle loro autonomie ed attivita' istituzionali, le universita' e gli enti di ricerca Gli obiettivi e gli interventi possono essere specificati per aree tematiche, settori, progetti, agenzie, enti di ricerca, anche prevedendo apposite intese tra le amministrazioni dello Stato".
 
-#### Art. 5
+### Art. 5
 
 Norme applicabili all'INGV
 
@@ -342,7 +340,7 @@ h) articolo 12, in materia di mobilita' temporanea del personale.
 
 > "Art. 10. - 1. I contratti collettivi nazionali disciplinano i rapporti sindacali e gli istituti della partecipazione anche con riferimento agli atti interni di organizzazione aventi riflessi sul rapporto di lavoro".
 
-#### Art. 6
+### Art. 6
 
 Norme transitorie
 
@@ -402,11 +400,9 @@ Fino all'applicazione dei contratti collettivi di cui all'articolo 45, comma 3, 
 
 > "3. Mediante appositi accordi tra l'ARAN e le confederazioni rappresentative ai sensi dell'art. 47-bis, comma 4, sono stabiliti i comparti della contrattazione collettiva nazionale riguardanti settori omogenei o affini. I dirigenti costituiscono un'area contrattuale autonoma relativamente a uno o piu' comparti. Resta fermo per l'area contrattuale della dirigenza del ruolo sanitario quanto previsto dall'art. 15 del decreto legislativo 30 dicembre 1992, n. 502, e successive modifiche. Agli accordi che definiscono i comparti o le aree contrattuali si applicano le procedure di cui all'art. 46, comma 5. Per le figure professionali che, in posizione di elevata responsabilita', svolgono compiti di direzione o che comportano iscrizione ad albi oppure tecnico scientifici e di ricerca, sono stabilite discipline distinte nell'ambito dei contratti collettivi di comparto".
 
-## Titolo II - Disposizioni per altri enti di competenza del Ministero
+## Titolo II - Disposizioni per altri enti di competenza del Ministero dell'universita' e della ricerca scientifica e tecnologica (MURST).
 
-### dell'universita' e della ricerca scientifica e tecnologica - (MURST).
-
-#### Art. 7
+### Art. 7
 
 Norme sull'Osservatorio geofisico sperimentale
 
@@ -450,11 +446,9 @@ e sull'Istituto di ottica
 
 > \- Per il testo dell'art. 6, comma 2, del decreto legislativo 5 giugno 1998, n. 204, si veda nelle note all'art. 3.
 
-## Titolo III - Norme sulla incentivazione, la costituzione
+## Titolo III - Norme sulla incentivazione, la costituzione e il funzionamento di consorzi tra enti di ricerca
 
-### e il funzionamento di consorzi tra enti di ricerca
-
-#### Art. 8
+### Art. 8
 
 C o n s o r z i
 
@@ -488,7 +482,7 @@ C o n s o r z i
 
 > "2. Nella relazione di cui all'art. 9, comma 2, il CNR riferisce sull'attivita' svolta dai consorzi, fondazioni, societa' o centri comunque costituiti o partecipati dall'ente, evidenziando gli obiettivi e i risultati raggiunti".
 
-#### Art. 9
+### Art. 9
 
 Consorzio obbligatorio per la gestione dell'area per la ricerca
 
@@ -638,7 +632,7 @@ i) articolo 12.
 
 ## Titolo IV - Norme generali per gli enti di ricerca
 
-#### Art. 10
+### Art. 10
 
 Estensione di disposizioni in vigore per enti di ricerca
 
@@ -726,11 +720,9 @@ e) articolo 12.
 
 > \- Per il testo dell'art. 11 della legge 15 marzo 1997, n. 59, si veda nelle note alle premesse.
 
-## Titolo V - Modifiche al decreto legislativo
+## Titolo V - Modifiche al decreto legislativo 5 giugno 1998, n. 204
 
-### 5 giugno 1998, n. 204
-
-#### Art. 11
+### Art. 11
 
 Modifica dei compiti del Comitato di indirizzo per la valutazione
 
@@ -778,7 +770,7 @@ e) determina criteri e modalita' per la costituzione, da parte di enti di ricerc
 
 ## Titolo VI - Disposizioni per l'attivita' di ricerca
 
-#### Art. 12
+### Art. 12
 
 Aree scientifiche e settori tecnologici
 
@@ -814,7 +806,7 @@ Aree scientifiche e settori tecnologici
 
 > 3\. I contratti collettivi nazionali possono definire le procedure e i criteri generali per l'attuazione di quanto previsto dai commi 1 e 2".
 
-#### Art. 13
+### Art. 13
 
 Principi per l'attivita' di ricerca
 
@@ -830,7 +822,7 @@ d) gli enti favoriscono, per le attivita' di ricerca, compatibilmente con i prop
 
 e) i ricercatori hanno diritto a sottoporre a valutazione la propria attivita' scientifica.
 
-#### Art. 14
+### Art. 14
 
 Norme finali
 
@@ -852,7 +844,7 @@ Visto, il Guardasigilli: Diliberto
 
 ## Titolo VI - Disposizioni per l'attivita' di ricerca
 
-#### Allegato 1
+### Allegato 1
 
 Allegato 1
 

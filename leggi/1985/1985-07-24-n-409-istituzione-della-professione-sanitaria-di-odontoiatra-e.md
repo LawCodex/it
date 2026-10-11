@@ -28,17 +28,17 @@ la seguente legge:
 
 ## TITOLO I
 
-#### ART. 1
+### ART. 1
 
 E' istituita la professione sanitaria di odontoiatra che viene esercitata da coloro che sono in possesso del diploma di laurea in odontoiatria e protesi dentaria e della relativa abilitazione all'esercizio professionale, conseguita a seguito del superamento di apposito esame di Stato ((...)).
 
-#### ART. 2
+### ART. 2
 
 Formano oggetto della professione di odontoiatra le attivita' inerenti alla diagnosi ed alla terapia delle malattie ed anomalie congenite ed acquisite dei denti, della bocca, delle mascelle e dei relativi tessuti, nonche' alla prevenzione ed alla riabilitazione odontoiatriche.
 
 Gli odontoiatri possono prescrivere tutti i medicamenti necessari all'esercizio della loro professione ((e possono esercitare le attivita' di medicina estetica non invasiva o mininvasiva al terzo superiore, terzo medio e terzo inferiore del viso)).
 
-#### ART. 3
+### ART. 3
 
 Gli esami di Stato per il conseguimento dell'abilitazione all'esercizio professionale, per coloro che sono in possesso della laurea in odontoiatria e protesi dentaria, hanno carattere specificatamente professionale.
 
@@ -56,7 +56,7 @@ I relativi programmi e le norme concernenti lo svolgimento sono determinati con 
 
 > L'art. 6 del R.D.L. 27 gennaio 1944, n. 51, e' abrogato".
 
-#### ART. 4
+### ART. 4
 
 Presso ogni Ordine dei medici-chirurghi e' istituito un separato Albo professionale per l'iscrizione di coloro che sono in possesso della laurea in odontoiatria e protesi dentaria e dell'abilitazione all'esercizio professionale conseguita a seguito di superamento di apposito esame di Stato.
 
@@ -72,11 +72,11 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 22 febbraio - 9 marzo 1989, n. 100 (in G.U. 1a s.s. 15/03/1989, n. 11) ha dichiarato l'illegittimita' costituzionale degli artt. 4, 5 e 20, "nella parte in cui non prevedono che i soggetti indicati nell'art. 20, primo comma, ottenuta l' iscrizione all' albo degli odontoiatri, possano contemporaneamente mantenere l' iscrizione all' albo dei medici chirurghi cosi' come previsto per i soggetti indicati nell'art. 5, e nella parte in cui prevedono che i medesimi possano "optare" nel termine di cinque anni per l'iscrizione all'albo degli odontoiatri, anziche' "chiedere" senza limite di tempo tale iscrizione".
 
-#### ART. 5
+### ART. 5
 
 ((ARTICOLO ABROGATO DALLA L. 3 FEBBRAIO 2003 N. 14))
 
-#### ART. 6
+### ART. 6
 
 L'Ordine provinciale dei medici-chirurghi e la Federazione nazionale dei medici-chirurghi assumono rispettivamente la denominazione di "Ordine provinciale dei medici-chirurghi e degli odontoiatri" e di "Federazione nazionale degli ordini dei medici-chirurghi e degli odontoiatri".
 
@@ -142,7 +142,7 @@ La commissione per gli iscritti all'Albo degli odontoiatri si compone di cinque 
 
 ## TITOLO II - DISPOSIZIONI RELATIVE AL DIRITTO DI STABILIMENTO
 
-#### ART. 7
+### ART. 7
 
 Ai cittadini degli Stati membri delle Comunita' europee che esercitano una attivita' professionale nel campo della odontoiatria con le denominazioni di cui all'allegato A alla presente legge, e che sono in possesso dei diplomi, certificati ed altri titoli di cui all'allegato B, e' riconosciuto il titolo di odontoiatra ed e' consentito l'esercizio della relativa attivita' professionale, definita al precedente articolo 2.
 
@@ -154,7 +154,7 @@ Gli elenchi di cui agli allegati alla presente legge sono modificati con decreto
 
 il Ministro della pubblica istruzione in conformita' delle direttive comunitarie.
 
-#### ART. 8
+### ART. 8
 
 Per ottenere l'autorizzazione all'esercizio della professione di odontoiatra l'interessato deve presentare al Ministero della sanita' domanda in lingua italiana in carta da bollo corredata dai seguenti documenti:
 
@@ -166,7 +166,7 @@ Qualora l'interessato chieda anche il riconoscimento del titolo di odontoiatra s
 
 La documentazione di cui alla predetta lettera b) deve portare una data non anteriore di piu' di tre mesi rispetto a quella di presentazione della domanda.
 
-#### ART. 9
+### ART. 9
 
 Il Ministero della sanita', d'intesa con il Ministero della pubblica istruzione, accerta la regolarita' della domanda e della relativa documentazione entro tre mesi dalla data di ricezione della domanda stessa, e provvede alla sua trasmissione all'Ordine professionale corrispondente alla provincia indicata dall'interessato, dandone comunicazione al medesimo.
 
@@ -184,13 +184,13 @@ L'Ordine professionale competente, nel termine di un mese dalla data di ricezion
 
 Il cittadino di altri Stati membri delle Comunita' che abbia ottenuto l'iscrizione all'Albo professionale ha gli stessi diritti ed e' soggetto agli stessi obblighi e sanzioni disciplinari previsti per gli odontoiatri italiani.
 
-#### ART. 10
+### ART. 10
 
 Il Ministero della sanita' comunica all'autorita' competente dello Stato di origine o provenienza le sanzioni disciplinari adottate nei confronti dei cittadini degli altri Stati membri delle Comunita' europee, autorizzati ad esercitare la professione di odontoiatra ai sensi dell'articolo 8, nonche' quelle penali per reati concernenti l'esercizio della professione.
 
 A tal fine l'Ordine professionale competente da' comunicazione al Ministero della sanita' di tutte le sanzioni che incidono sull'esercizio professionale.
 
-#### ART. 11
+### ART. 11
 
 Le disposizioni relative al diritto di stabilimento contenute nella presente legge si applicano anche agli odontoiatri che intendono svolgere la loro attivita' nell'ambito di un rapporto di lavoro subordinato.
 
@@ -204,15 +204,15 @@ L'istituzione del rapporto di lavoro fra gli odontoiatri cittadini di altri Stat
 
 > I medici di cui all'art. 6 della legge 22 maggio 1978, n. 217, possono essere assunti in servizio per il solo esercizio di funzioni di diagnosi, cura e riabilitazione, purche' siano stati ammessi all'esercizio professionale in Italia ai sensi della richiamata legge n. 217 ovvero ai sensi dell'art. 3, secondo comma, del decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, n. 233, e siano in possesso degli altri requisiti per partecipare ai relativi concorsi di cui all'art. 12 del presente decreto".
 
-#### Art. 11-bis
+### Art. 11-bis
 
 ((1. Il Ministero della salute notifica alla Commissione europea, ai fini degli ulteriori atti di competenza, le disposizioni legislative, regolamentari e amministrative adottate dallo Stato italiano in materia di rilascio di diplomi, certificati e altri titoli nel settore oggetto della presente legge.))
 
-#### Art. 11-ter
+### Art. 11-ter
 
 ((1. Per i cittadini degli Stati membri i cui diplomi, certificati e altri titoli non rispondono alle denominazioni riportate per tale Stato membro negli allegati della presente legge, sono riconosciuti come prova sufficiente i diplomi, i certificati e gli altri titoli rilasciati da tali Stati membri, corredati di un certificato rilasciato dalle rispettive autorita' o enti competenti. Il certificato attesta che tali diplomi, certificati e altri titoli sanciscono una formazione conforme alle disposizioni della presente legge e per lo Stato membro che li ha rilasciati sono assimilati a quelli la cui denominazione e' riportata dalla stessa legge.))
 
-#### Art. 11-quater
+### Art. 11-quater
 
 ((1. Sono ammessi alla procedura di cui all'articolo 2, i diplomi, certificati e altri titoli acquisiti dai cittadini di cui all'articolo 7, in Paesi che non fanno parte dell'Unione europea, qualora tali titoli siano stati riconosciuti in un altro Stato membro.
 
@@ -220,13 +220,13 @@ L'istituzione del rapporto di lavoro fra gli odontoiatri cittadini di altri Stat
 
 3\. I provvedimenti di rigetto delle domande di riconoscimento di diplomi, certificati e altri titoli devono essere congruamente motivati e sono impugnabili dinanzi agli organi giurisdizionali competenti. Decorso inutilmente il termine stabilito per l'adozione del provvedimento, il richiedente puo' ricorrere all'autorita' giudiziale.))
 
-#### ART. 12
+### ART. 12
 
 Il Ministero della sanita', d'intesa con il Ministero della pubblica istruzione, sentite le regioni e le province autonome di Trento e di Bolzano, nonche' la competente Federazione degli Ordini dei medici-chirurghi e degli odontoiatri, promuove, se ne ravvisa la necessita', corsi facoltativi di deontologia professionale e di legislazione sanitaria nonche' corsi che consentano l'acquisizione delle conoscenze linguistiche necessarie all'esercizio della professione.
 
 ## TITOLO III - DISPOSIZIONI RELATIVE ALLA PRESTAZIONE DEI SERVIZI
 
-#### ART. 13
+### ART. 13
 
 I cittadini degli altri Stati membri delle Comunita' europee sono ammessi alla prestazione di servizi odontoiatrici di carattere temporaneo nel territorio dello Stato italiano senza essere tenuti alla iscrizione nell'Albo professionale, nei limiti dell'attivita' professionale loro consentita nel Paese di origine o di provenienza.
 
@@ -244,7 +244,7 @@ Il Ministero della sanita' comunica all'Ordine professionale territorialmente co
 
 La documentazione prevista dal presente articolo deve portare una data anteriore di non piu' di dodici mesi rispetto a quella di presentazione della dichiarazione.
 
-#### ART. 14
+### ART. 14
 
 Il cittadino degli altri Stati membri delle Comunita' europee ha, nell'esercizio dell'attivita' di cui al precedente articolo, gli stessi diritti dell'odontoiatra cittadino italiano ed e' soggetto agli stessi obblighi e alle stesse sanzioni disciplinari. E' in ogni caso vietata la titolarita' di uno studio odontoiatrico.
 
@@ -252,15 +252,13 @@ Nel caso di abusi o di mancanze tali da comportare, se commessi da odontoiatri i
 
 Del provvedimento e' data tempestiva comunicazione all'autorita' competente dello Stato di origine o di provenienza.
 
-## TITOLO IV - ESERCIZIO DELLA PROFESSIONE NEGLI ALTRI STATI MEMBRI DELLE COMUNITA'
+## TITOLO IV - ESERCIZIO DELLA PROFESSIONE NEGLI ALTRI STATI MEMBRI DELLE COMUNITA' EUROPEE DA PARTE DI ODONTOIATRI ((ISCRITTI ALL'ORDINE PROFESSIONALE))
 
-### EUROPEE DA PARTE DI ODONTOIATRI ((ISCRITTI ALL'ORDINE PROFESSIONALE))
-
-#### ART. 15
+### ART. 15
 
 Gli odontoiatri cittadini ((di Paesi membri dell'Unione europea)) che si trasferiscono in uno dei Paesi membri delle Comunita' europee possono, a domanda, conservare l'iscrizione all'Ordine professionale italiano di appartenenza.
 
-#### ART. 16
+### ART. 16
 
 Il Ministero della sanita' provvede a fornire nel piu' breve tempo possibile, e comunque entro tre mesi, alle competenti autorita' dello Stato estero che lo richiedano le informazioni circa fatti gravi e specifici concernenti gli odontoiatri cittadini italiani trasferitisi in detto Stato, facendo conoscere le conseguenze che i fatti stessi hanno sui certificati ed i documenti rilasciati dalle autorita' nazionali.
 
@@ -268,11 +266,11 @@ A tal fine i competenti Ordini professionali danno comunicazione al Ministero de
 
 ## TITOLO V - DISPOSIZIONI FINALI E TRANSITORIE
 
-#### ART. 17
+### ART. 17
 
 I documenti di cui agli articoli 8 e 13 della presente legge devono essere accompagnati, se redatti in una lingua straniera, da una traduzione italiana certificata conforme al testo originale dalle autorita' diplomatiche o consolari italiane del Paese in cui i documenti sono stati redatti, oppure da un traduttore ufficiale.
 
-#### ART. 18
+### ART. 18
 
 Nei confronti degli odontoiatri cittadini di uno Stato membro delle Comunita' europee, in possesso di diplomi, certificati od altri titoli rilasciati dagli Stati di origine o di provenienza, che comprovino una formazione ultimata prima del 28 luglio 1978, ovvero ultimata dopo tale data ma iniziata prima della data stessa, e non rispondente all'insieme delle esigenze minime di formazione richieste dalla normativa comunitaria, si applicano le seguenti disposizioni:
 
@@ -280,7 +278,7 @@ a) ai fini del riconoscimento del titolo di odontoiatra e dell'esercizio della r
 
 b) ai fini del riconoscimento del titolo di odontoiatra specialista, gli interessati devono presentare al Ministero della sanita' un attestato, rilasciato dall'autorita' competente, dal quale risulti alla specifica attivita' specialistica per un periodo equivalente al doppio della differenza tra la durata di formazione specialistica richiesta nello Stato di origine o di provenienza e la durata minima di formazione prevista dalle direttive comunitarie in tre anni.
 
-#### Art. 18-bis
+### Art. 18-bis
 
 1\. I diplomi, certificati ed altri titoli di odontoiatra e di odontoiatra specialista rilasciati dagli Stati membri che non corrispondono alle denominazioni che figurano negli allegati sono riconosciuti come corrispondenti se corredati di un certificato rilasciato dalle autorita' competenti attestante che essi sono rilasciati a conclusione di una formazione conforme alle disposizioni previste dalla normativa comunitaria e sono assimilati da parte dello Stato membro che li ha rilasciati a quelli la cui denominazione figura negli allegati.
 
@@ -292,7 +290,7 @@ b) ai fini del riconoscimento del titolo di odontoiatra specialista, gli interes
 
 1-quinquies. La decisione viene pronunciata entro quattro mesi dalla presentazione da parte dell'interessato della domanda completa di tutti i documenti giustificativi e dell'indicazione della sede ove effettuare, se del caso, la formazione complementare.))
 
-#### Art. 18-ter
+### Art. 18-ter
 
 ((1. I diplomi, certificati ed altri titoli che attestano una formazione di odontoiatra acquisita dai cittadini degli Stati membri nel territorio dell'ex Repubblica democratica tedesca e che non risponde all'insieme delle esigenze minime di formazione richieste dalla normativa comunitaria, sono assimilati a quelli che le soddisfano se:
 
@@ -310,7 +308,7 @@ b) danno diritto all'esercizio, a titolo di odontoiatra specialista dell'attivit
 
 c) sono corredate di un certificato, rilasciato dalle autorita' competenti tedesche attestante l'esercizio, in qualita' di odontoiatra specialista, dell'attivita' di cui trattasi per un periodo equivalente al doppio della differenza tra la durata minima di formazione specializzata prevista dalla normativa comunitaria e quella della formazione acquisita nel territorio tedesco.))
 
-#### ART. 19
+### ART. 19
 
 1\. Ai fini dell'esercizio dell'attivita' di odontoiatra in altri Stati membri dell'Unione europea, il Ministero della salute, previ gli opportuni accertamenti, anche in collaborazione con gli Ordini dei medici-chirurghi e degli odontoiatri rilascia un attestato nel quale certifica:
 
@@ -324,7 +322,7 @@ b) ai laureati in medicina e chirurgia abilitati all'esercizio professionale che
 
 3\. Per i soggetti di cui al comma 1, lettera b), il requisito del superamento della prova attitudinale non e' richiesto per chi e' in possesso di un diploma di specializzazione triennale indicato nel decreto del Ministro della sanita' del 18 settembre 2000, pubblicato nella Gazzetta Ufficiale della Repubblica italiana - serie ordinaria - n. 222 del 22 settembre 2000: odontoiatria e protesi dentaria, chirurgia odontostomatologica, odontostomatologia, ortognatodonzia.
 
-#### ART. 20
+### ART. 20
 
 1\. Ai fini dell'esercizio dell'attivita' di cui all'articolo 2, si iscrivono all'albo degli odontoiatri, anche in deroga a quanto previsto all'articolo 4, terzo comma:
 
@@ -336,7 +334,7 @@ b) i laureati in medicina e chirurgia abilitati all'esercizio professionale che 
 
 2\. All'albo degli odontoiatri e' aggiunto l'elenco degli odontoiatri abilitati a continuare, in via transitoria, l'esercizio della professione, ai sensi della legge 5 giugno 1930, n. 943.
 
-#### ART. 21
+### ART. 21
 
 Con decreto del Ministro della sanita', da emanarsi a norma dell'articolo 63, ultimo comma, del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761, entro 90 giorni dalla data di entrata in vigore della presente legge, sono stabilite le attribuzioni degli odontoiatri addetti ai presidi e servizi delle unita' sanitarie locali.
 
@@ -346,7 +344,7 @@ Con decreto del Ministro della sanita', da emanarsi a norma dell'articolo 63, ul
 
 > "Con decreto del Presidente della Repubblica, su proposta del Ministro della Sanita', sentite le regioni, l'ANCI e le organizzazioni sindacali di categoria maggiormente rappresentative, in campo nazionale, sono stabilite, entro tre mesi dall'entrata in vigore del presente decreto, le attribuzioni del restante personale addetto ai presidi, servizi e uffici delle unita' sanitarie locali".
 
-#### ART. 22
+### ART. 22
 
 Nella prima attuazione della presente legge, il Consiglio provinciale dell'Ordine dei medici-chirurghi e degli odontoiatri provvede alla iscrizione degli odontoiatri per la prima formazione dell'Albo professionale.
 
@@ -358,7 +356,7 @@ Entro 60 giorni dall'elezione di tutti i componenti dei Consigli direttivi degli
 
 > Le disposizioni relative alle modalita' di svolgimento delle operazioni di voto sono citate nella nota all'art. 6, comma undicesimo.
 
-#### ART. 23
+### ART. 23
 
 In prima applicazione della presente legge in attesa del regolamento degli esami di Stato, e degli adempimenti di cui al precedente articolo 22, i programmi, le modalita' di svolgimento e la composizione delle commissioni giudicatrici sono stabiliti con ordinanza del Ministro della pubblica istruzione da adottarsi entro 30 giorni dalla data di entrata in vigore della presente legge.
 
@@ -380,7 +378,7 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 ## TITOLO V - DISPOSIZIONI FINALI E TRANSITORIE
 
-#### Allegato A
+### Allegato A
 
 ALLEGATO A.
 
@@ -394,7 +392,7 @@ AGGIORNAMENTO (5)
 
 Il D.LGS. 8 luglio 2003 n. 277 ha disosto che gli allegati A e B, sono sostituiti dall'allegato IV, e che tutti i riferimenti agli allegati A e B sono intesi come effettuati all'allegato A, come introdotto dal presente decreto.
 
-#### Allegato B
+### Allegato B
 
 ALLEGATO B.
 
@@ -406,7 +404,7 @@ AGGIORNAMENTO (5)
 
 IL D.LGS. 8 luglio 2003 n. 277 ha disposto che tutti i riferimenti agli allegati A e B sono intesi come effettuati all'allegato A, come introdotto dal presente decreto. Tale allegato e' visionabile nel link dell'allegato A della presente legge.
 
-#### Allegato C
+### Allegato C
 
 ALLEGATO C
 

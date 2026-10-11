@@ -25,7 +25,7 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare i seguenti atti internazionali adottati a Berna:
 
@@ -41,11 +41,11 @@ e) Protocollo concernente la maggiorazione dei tassi chilometrici massimali di c
 
 f) Protocollo concernente l'entrata in vigore delle convenzioni di cui alle lettere a) e b) e del loro protocollo addizionale di cui alla lettera c) - 9 novembre 1973.
 
-##### Art. 2
+#### Art. 2
 
 Piena ed intera esecuzione e' data agli atti internazionali di cui all'articolo 1 a decorrere dall'entrata in vigore fissata negli atti stessi.
 
-##### Art. 3
+#### Art. 3
 
 Gli atti di concessione, che deroghino alla norma sulla competenza del giudice, fissata rispettivamente dagli articoli 44 e 40 delle convenzioni di cui alle lettere a) e b) dell'articolo 1, saranno resi esecutivi con atti aventi forza di legge.
 
@@ -61,7 +61,7 @@ Visto, il Guardasigilli: REALE
 
 ## Allegati
 
-##### Convention
+#### Convention
 
 CONVENTION INTERNATIONALE
 
@@ -95,7 +95,7 @@ avendo riconosciuto la necessita' di sottoporre a revisione la
 
 Convenzione internazionale per il trasporto delle merci per ferrovia, firmata a Berna il 25 febbraio 1961, hanno deciso, in conformita' dell'articolo 69 della Convenzione stessa, di concludere una nuova Convenzione a tale scopo ed hanno concordato i seguenti articoli:
 
-##### Articolo 1
+#### Articolo 1
 
 Ferrovie e trasporti ai quali si applica la Convenzione
 
@@ -119,7 +119,7 @@ par. 3. - Le spedizioni fra stazioni di due Stati limitrofi e tra stazioni di du
 
 (1) Per "Stazione", s'intendono anche i porti dei servizi di navigazione e ogni impianto dei servizi automobilistici aperti al pubblico per l'esecuzione del contratto di trasporto.
 
-##### Articolo 2
+#### Articolo 2
 
 Disposizioni relative ai trasporti combinati
 
@@ -135,7 +135,7 @@ par. 4. - Per i trasporti internazionali eseguiti in parte da
 
 ferrovie ed in parte da servizi di trasporto diversi da quelli indicati nel par. 1, le ferrovie possono concordare con le imprese di trasporto interessate disposizioni tariffarie con regime giuridico diverso da quello della presente Convenzione, per tener conto delle peculiarita' di ciascun modo di trasporto. In tale caso, le ferrovie possono prescrivere l'uso di un documento di trasporto diverso da quello contemplato dall'articolo 6, § 1, della presente Convenzione.
 
-##### Articolo 3
+#### Articolo 3
 
 Oggetti esclusi dal trasporto
 
@@ -151,7 +151,7 @@ c) gli oggetti il cui trasporto e' proibito sia pure su uno solo dei territori d
 
 d) le materie e gli oggetti esclusi dal trasporto conformemente all'Allegato 1 alla presente Convenzione, salvo le deroghe previste nell'articolo 4, par. 2.
 
-##### Articolo 4
+#### Articolo 4
 
 Oggetti ammessi al trasporto a determinate condizioni
 
@@ -215,7 +215,7 @@ Gli accordi e le clausole tariffarie di tal genere devono essere
 
 comunicati all'Ufficio centrale dei Trasporti Internazionali per Ferrovia.
 
-##### Articolo 5
+#### Articolo 5
 
 Obbligo al trasporto per la ferrovia
 
@@ -261,11 +261,9 @@ disposizioni del presente articolo puo' dar luogo ad azione per il risarcimento 
 
 ## TITOLO II - DEL CONTRATTO DI TRASPORTO
 
-### CAPITOLO I
+### CAPITOLO I - FORMA E CONDIZIONI DEL CONTRATTO DI TRASPORTO
 
-#### FORMA E CONDIZIONI DEL CONTRATTO DI TRASPORTO
-
-##### Articolo 6
+#### Articolo 6
 
 Tenore e forma della lettera di vettura
 
@@ -431,7 +429,7 @@ n....";
 
 "Per l'esportazione a destinazione di n....".
 
-##### Articolo 7
+#### Articolo 7
 
 Responsabilita' per le indicazioni della lettera di vettura.
 
@@ -555,7 +553,7 @@ Se l'avente diritto dispone di spedire il sopraccarico alla
 
 stazione di destinazione del carico principale, a un'altra stazione destinataria, o di restituirlo alla stazione di partenza, esso e' considerato come una spedizione separata.
 
-##### Articolo 8
+#### Articolo 8
 
 Conclusione del contratto di trasporto. Duplicato della lettera di vettura
 
@@ -587,7 +585,7 @@ del bollo a data sul duplicato della lettera di vettura, il ricevimento della me
 
 Questo duplicato non ha il valore ne' della lettera di vettura che accompagna la spedizione, ne' di un titolo di credito negoziabile.
 
-##### Articolo 9
+#### Articolo 9
 
 Tariffe. Accordi particolari
 
@@ -651,7 +649,7 @@ par. 4. - Oltre le tasse di porto e le tasse accessorie previste
 
 nelle tariffe, sono riscosse a favore della ferrovia solamente le spese da essa sostenute, quali i diritti doganali, daziari, di polizia, le spese di camionaggio da una stazione all'altra non indicate nelle tariffe, quelle di riparazione dell'imballaggio, esterno od interno delle merci, necessarie per assicurarne la conservazione, ed altre spese analoghe. Queste spese debbono essere debitamente esposte e contabilizzate a parte nella lettera di vettura, con tutte le relative giustificazioni utili. Quando tali giustificazioni risultano da documenti allegati alla lettera di vettura ed il pagamento delle spese corrispondenti incombe al mittente, detti documenti giustificativi non vanno consegnati al destinatario con la lettera di vettura, ma vanno restituiti al mittente con il conto delle spese menzionato nell'articolo 17, § 7.
 
-##### Articolo 10
+#### Articolo 10
 
 Itinerari e tariffe applicabili
 
@@ -703,7 +701,7 @@ La stessa procedura si applica se, in mancanza di sufficienti
 
 indicazioni del mittente, la ferrovia ha applicato la sutura delle tariffe pur esistendo, ogni altra condizione essendo identica, una tariffa internazionale con tassazione piu' vantaggiosa.
 
-##### Articolo 11
+#### Articolo 11
 
 Termini di resa
 
@@ -869,7 +867,7 @@ c) la merce e' messa a disposizione del destinatario, trattandosi
 
 di spedizioni da riconsegnare fuori delle stazioni.
 
-##### Articolo 12
+#### Articolo 12
 
 Stato, imballaggio e marcatura della merce
 
@@ -917,7 +915,7 @@ tolti dal mittente.
 
 par. 7. - Salvo le eccezioni espressamente previste nelle tariffe, sono trasportate soltanto a carro completo le merci fragili (quali le porcellane, le terraglie, le vetrerie), le merci che possono sparpagliarsi nei carri (come la frutta, le noci, i foraggi, le pietre), nonche' le merci che possono sporcare o danneggiare gli altri colli (come il carbone, la calce, la cenere, le terre ordinarie, le terre coloranti), sempre che tali merci non siano imballate o riunite in modo da impedire che si rompano, si perdano, oppure sporchino o danneggino altri colli.
 
-##### Articolo 13
+#### Articolo 13
 
 Documenti che devono essere forniti per l'adempimento delle formalita' prescritte dalle autorita' doganali o da altre autorita' amministrative. Chiusura doganale
 
@@ -947,9 +945,9 @@ La ferrovia puo' rifiutare le spedizioni la cui chiusura effettuata
 
 dall'autorita' doganale o da altre autorita' amministrative sia danneggiata o difettosa.
 
-## CAPITOLO II - ESECUZIONE DEL CONTRATTO DI TRASPORTO
+### CAPITOLO II - ESECUZIONE DEL CONTRATTO DI TRASPORTO
 
-##### Articolo 14
+#### Articolo 14
 
 Consegna delle merci al trasporto e loro carico
 
@@ -967,7 +965,7 @@ responsabile di tutte le conseguenze derivanti da un carico difettoso. Egli e' t
 
 par. 3. - Le merci devono essere trasportate in carro coperto, in carro scoperto, in carro speciale attrezzato o in carro scoperto con copertone, a seconda delle disposizioni delle tariffe internazionali, sempre che la presente Convenzione non contenga in proposito prescrizioni diverse. Se non vi sono tariffe internazionali o se esse non contengono disposizioni in merito, le prescrizioni in vigore nella stazione di partenza sono valevoli per tutto il percorso.
 
-##### Articolo 15
+#### Articolo 15
 
 Formalita' prescritte dalle autorita' doganali o da altre autorita' amministrative
 
@@ -1003,7 +1001,7 @@ par. 2. - Salva l'eccezione prevista nel par. 1, ultimo alinea, il destinatario 
 
 La ferrovia puo' procedere conformemente al par. 1 se, nel termine previsto dai regolamenti in vigore presso la stazione destinataria, il destinatario non abbia ritirato la lettera di vettura.
 
-##### Articolo 16
+#### Articolo 16
 
 Riconsegna
 
@@ -1041,7 +1039,7 @@ par. 6. - Per il rimanente, la riconsegna della merce viene
 
 effettuata conformemente alle leggi ed ai regolamenti del Paese di destinazione.
 
-##### Articolo 17
+#### Articolo 17
 
 Pagamento delle spese
 
@@ -1099,7 +1097,7 @@ carico non puo' essere fissato esattamente al momento della consegna al trasport
 
 par. 8. - La stazione mittente deve specificare, sia nella lettera di vettura che nel duplicato, le spese riscosse in affrancato, a meno che le prescrizioni o le tariffe in vigore nella stazione mittente non dispongano che tali spese devono essere specificate soltanto nel duplicato. Nei casi previsti al § 7, tali spese non devono essere specificate ne' nella lettera di vettura, ne' nel duplicato.
 
-##### Articolo 18
+#### Articolo 18
 
 Correzione delle riscossioni
 
@@ -1123,7 +1121,7 @@ giorno della presentazione del reclamo amministrativo previsto nell'articolo 41,
 
 Se l'avente diritto non rimette alla ferrovia, entro il termine da questa opportunamente fissatogli, i documenti giustificativi necessari alla definitiva liquidazione del reclamo, gli interessi non decorrono tra la scadenza di detto termine e la consegna effettiva dei documenti.
 
-##### Articolo 19
+#### Articolo 19
 
 Assegni e spese anticipate
 
@@ -1143,7 +1141,7 @@ par. 5. - Le spese anticipate sono ammesse soltanto in base alle
 
 disposizioni vigenti presso la stazione di partenza.
 
-##### Articolo 20
+#### Articolo 20
 
 Dichiarazione d'interesse alla riconsegna
 
@@ -1157,9 +1155,9 @@ par. 2. - La tassa d'interesse alla riconsegna e' calcolata per
 
 tutto il percorso interessato, secondo le tariffe della ferrovia di partenza.
 
-## CAPITOLO III - MODIFICAZIONE DEL CONTRATTO DI TRASPORTO
+### CAPITOLO III - MODIFICAZIONE DEL CONTRATTO DI TRASPORTO
 
-##### Articolo 21
+#### Articolo 21
 
 Diritto del mittente di modificare il contratto di trasporto
 
@@ -1247,7 +1245,7 @@ A partire da questo momento, la ferrovia deve conformarsi agli
 
 ordini del destinatario.
 
-##### Articolo 22
+#### Articolo 22
 
 Diritto del destinatario di modificare il contratto di trasporto
 
@@ -1313,7 +1311,7 @@ d) quando la persona da lui designata in conformita' al par. 1, lettera c), ha r
 
 par. 5. - Se il destinatario ha ordinato di consegnare la merce ad altra persona, quest'ultima non e' autorizzata a modificare il contratto di trasporto.
 
-##### Articolo 23
+#### Articolo 23
 
 Esecuzione degli ordini ulteriori
 
@@ -1369,7 +1367,7 @@ responsabile, in caso di sua colpa, delle conseguenze della mancata o inesatta e
 
 Tuttavia, l'indennizzo che essa e' tenuta a pagare non dovra' mai essere superiore a quello che sarebbe dovuto in caso di perdita della merce.
 
-##### Articolo 24
+#### Articolo 24
 
 Impedimenti al trasporto
 
@@ -1413,7 +1411,7 @@ par. 8. - Le disposizioni dell'articolo 23 sono applicabili ai
 
 trasporti effettuati in base al presente articolo.
 
-##### Articolo 25
+#### Articolo 25
 
 Impedimenti alla riconsegna
 
@@ -1443,13 +1441,11 @@ par. 4. - Le disposizioni dell'articolo 23 sono applicabili ai
 
 trasporti effettuati in base al presente articolo.
 
-## TITOLO III - RESPONSABILITA'
+## TITOLO III - RESPONSABILITA' AZIONI
 
-### AZIONI
+### CAPITOLO I - RESPONSABILITA
 
-#### CAPITOLO I - RESPONSABILITA
-
-##### Articolo 26
+#### Articolo 26
 
 Responsabilita' collettiva delle ferrovie
 
@@ -1459,7 +1455,7 @@ lettera di vettura e' responsabile dell'esecuzione del trasporto stesso per tutt
 
 par. 2. - Ciascuna delle ferrovie successive, per il fatto stesso della presa in consegna della merce con la lettera di vettura iniziale, partecipa al contratto di trasporto conformemente alle clausole della lettera di vettura e assume gli obblighi che ne risultano, senza pregiudizio delle disposizioni dello articolo 43, § 3, riguardanti la ferrovia destinataria.
 
-##### Articolo 27
+#### Articolo 27
 
 Limiti della responsabilita'
 
@@ -1501,7 +1497,7 @@ h) trasporto di spedizioni che, in base alla presente
 
 Convenzione, alle disposizioni applicabili o agli accordi presi col mittente e indicati nella lettera di vettura, devono essere effettuate sotto scorta, in quanto la perdita o l'avaria risultino da un rischio che la scorta aveva lo scopo di evitare.
 
-##### Articolo 28
+#### Articolo 28
 
 Onere della prova
 
@@ -1519,7 +1515,7 @@ Questa presunzione non e' applicabile nel caso previsto
 
 nell'articolo 27, par. 3, lettera a), se c'e' mancanza di eccezionale importanza o perdita di colli.
 
-##### Articolo 29
+#### Articolo 29
 
 Presunzione in caso di rispedizione
 
@@ -1539,7 +1535,7 @@ par. 2. - La stessa presunzione sussiste quando il contratto di
 
 trasporto anteriore alla rispedizione non era soggetto alla presente Convenzione, sempre che detta Convenzione fosse stata applicabile in caso di spedizione diretta tra la prima stazione mittente e l'ultima stazione destinataria.
 
-##### Articolo 30
+#### Articolo 30
 
 Presunzione di perdita della merce
 
@@ -1561,7 +1557,7 @@ par. 4. - In mancanza sia della domanda prevista nel par. 2, sia di
 
 istruzioni date nel termine di trenta giorni previsto nel par. 3, oppure se la merce e' ritrovata solo dopo un anno dal pagamento della indennita', la ferrovia ne dispone conformemente alle leggi ed ai regolamenti dello Stato dal quale dipende.
 
-##### Articolo 31
+#### Articolo 31
 
 Ammontare dell'indennita' per perdita della merce
 
@@ -1589,7 +1585,7 @@ par. 2. - Se gli elementi che servono di base per il calcolo
 
 dell'indennita' non sono espressi nella valuta dello Stato nel quale e' reclamato il pagamento, la conversione viene fatta in base al cambio del giorno e del luogo del pagamento dell'indennita'.
 
-##### Articolo 32
+#### Articolo 32
 
 Limitazione della responsabilita' in caso di calo stradale
 
@@ -1615,7 +1611,7 @@ par. 4. - In caso di perdita totale della merce, non si procede ad alcuna detraz
 
 par. 5. - Le prescrizioni del presente articolo non portano alcuna deroga a quelle degli articoli 27 e 28.
 
-##### Articolo 33
+#### Articolo 33
 
 Ammontare dell'indennita' per avaria della merce
 
@@ -1635,7 +1631,7 @@ b) se soltanto una parte della spedizione e' deprezzata
 
 dall'avaria, l'ammontare che sarebbe dovuto per la perdita della parte deprezzata.
 
-##### Articolo 34
+#### Articolo 34
 
 Ammontare dell'indennita' per ritardo nella resa
 
@@ -1657,7 +1653,7 @@ In caso di avaria, esse si cumulano, se del caso, con l'indennita' prevista nell
 
 In ogni caso, il cumulo delle indennita' previste nei parr. 1 e 2 con quelle previste negli articoli 31 e 33 non puo' dar luogo al pagamento di una indennita' totale superiore a quella che sarebbe dovuta in caso di perdita totale della merce.
 
-##### Articolo 35
+#### Articolo 35
 
 Limitazione dell'indennita' secondo determinate tariffe
 
@@ -1667,7 +1663,7 @@ Quando la ferrovia accorda particolari condizioni di trasporto
 
 Se la limitazione cosi' stabilita risulta da una tariffa applicata solamente su una parte del percorso, essa puo' essere invocata soltanto quando il fatto che da' luogo all'indennita' si sia verificato su detta parte del percorso.
 
-##### Articolo 36
+#### Articolo 36
 
 Ammontare dell'indennita' in caso di dichiarazione d'interesse alla riconsegna
 
@@ -1675,13 +1671,13 @@ Se vi e' dichiarazione d'interesse alla riconsegna, oltre alle
 
 indennita' previste negli articoli 31, 33, 34 e, se del caso, nell'articolo 35, puo' essere reclamato il risarcimento del danno supplementare provato fino a concorrenza dell'ammontare dell'interesse dichiarato.
 
-##### Articolo 37
+#### Articolo 37
 
 Ammontare dell'indennita' in caso di dolo o di colpa grave imputabile alla ferrovia
 
 In tutti i casi in cui il ritardo nella resa, la perdita totale o parziale o l'avaria subita dalla merce siano causati da dolo o da colpa grave imputabile alla ferrovia, questa deve risarcire completamente l'avente diritto del danno provato. In caso di colpa grave, la responsabilita' e' tuttavia limitata al doppio dei massimali previsti negli articoli 31, 33, 34, 35 e 36.
 
-##### Articolo 38
+#### Articolo 38
 
 Interessi sulle indennita'. Restituzione delle indennita'
 
@@ -1695,7 +1691,7 @@ par. 2. - Ogni indennita' indebitamente riscossa deve essere
 
 restituita.
 
-##### Articolo 39
+#### Articolo 39
 
 Responsabilita' della ferrovia per i suoi agenti
 
@@ -1705,7 +1701,7 @@ Tuttavia, se, a richiesta di un interessato, gli agenti della
 
 ferrovia compilano lettere di vettura, fanno traduzioni o compiono altre prestazioni che non competono alla ferrovia, essi sono considerati come operanti per conto della persona alla quale rendono queste prestazioni.
 
-##### Articolo 40
+#### Articolo 40
 
 Esercizio di azioni extracontrattuali
 
@@ -1717,9 +1713,9 @@ Cio' vale anche per ogni azione esercitata contro le persone di cui
 
 la ferrovia risponde in base all'articolo 39.
 
-## CAPITOLO II - RECLAMI AMMINISTRATIVI. AZIONI GIUDIZIARIE. PROCEDURA E PRESCRIZIONE
+### CAPITOLO II - RECLAMI AMMINISTRATIVI. AZIONI GIUDIZIARIE. PROCEDURA E PRESCRIZIONE
 
-##### Articolo 41
+#### Articolo 41
 
 Reclami amministrativi
 
@@ -1743,7 +1739,7 @@ che l'avente diritto ritenga utile unire al suo reclamo devono essere presentati
 
 All'atto della liquidazione del reclamo, la ferrovia puo' esigere la presentazione in originale della lettera di vettura, del duplicato o dello scontrino dell'assegno per annotarvi l'avvenuta liquidazione.
 
-##### Articolo 42
+#### Articolo 42
 
 Persone che possono esercitare l'azione giudiziaria contro la ferrovia
 
@@ -1787,7 +1783,7 @@ Per esercitare le sue azioni, il destinatario deve produrre la
 
 lettera di vettura se gli e' stata consegnata.
 
-##### Articolo 43
+#### Articolo 43
 
 Ferrovie contro le quali puo' essere esercitata l'azione giudiziaria
 
@@ -1813,7 +1809,7 @@ par. 5. - L'azione giudiziaria puo' essere esercitata contro una
 
 ferrovia diversa da quelle indicate nei parr. 1, 2 e 3, quando e' fatta valere come domanda riconvenzionale o come eccezione in una causa in cui la domanda principale sia fondata sullo stesso contratto di trasporto.
 
-##### Articolo 44
+#### Articolo 44
 
 Competenza
 
@@ -1825,7 +1821,7 @@ Quando un'impresa esercisce reti autonome in diversi Stati,
 
 ciascuna di queste reti e' considerata come una ferrovia a se' agli effetti dell'applicazione del presente articolo.
 
-##### Articolo 45
+#### Articolo 45
 
 Accertamento della perdita parziale o dell'avaria subita dalla merce
 
@@ -1839,7 +1835,7 @@ par. 2. - L'avente diritto, se non accetta le constatazioni del
 
 verbale, puo' domandare l'accertamento giudiziario dello stato e del peso della merce, delle cause e dell'ammontare del danno; valgono per la procedura le leggi ed i regolamenti dello Stato dove la constatazione giudiziaria e' eseguita.
 
-##### Articolo 46
+#### Articolo 46
 
 Estinzione dell'azione contro la ferrovia
 
@@ -1871,7 +1867,7 @@ nell'intervallo tra l'accettazione al trasporto e la riconsegna.
 
 par. 3. - Se la merce e' stata rispedita alle condizioni previste nell'articolo 29, § 1, le azioni di indennita' per perdita parziale o avaria derivanti da uno dei contratti di trasporto anteriori si estinguono come se si trattasse di un unico contratto.
 
-##### Articolo 47
+#### Articolo 47
 
 Prescrizione dell'azione
 
@@ -1947,9 +1943,9 @@ par. 5. - Salvo le disposizioni che precedono, la sospensione e
 
 l'interruzione della prescrizione sono regolate dalle leggi e dai regolamenti dello Stato nel quale l'azione e' intentata.
 
-## CAPITOLO III - REGOLAMENTO DEI CONTI. REGRESSO DELLE FERROVIE TRA LORO
+### CAPITOLO III - REGOLAMENTO DEI CONTI. REGRESSO DELLE FERROVIE TRA LORO
 
-##### Articolo 48
+#### Articolo 48
 
 Regolamento dei conti tra le ferrovie
 
@@ -1973,7 +1969,7 @@ Resta riservato il diritto di regresso contro la ferrovia della
 
 quale e' stata constatata l'inadempienza.
 
-##### Articolo 49
+#### Articolo 49
 
 Regresso in caso d'indennita' per perdita o per avaria
 
@@ -1997,7 +1993,7 @@ par. 2. - Nel caso d'insolvibilita' di una delle ferrovie, la quota
 
 che le incombe e da essa non pagata e ripartita tra tutte le altre ferrovie che hanno partecipato al trasporto, in proporzione al numero dei chilometri di applicazione delle tariffe.
 
-##### Articolo 50
+#### Articolo 50
 
 Regresso in caso d'indennita' per ritardo nella resa
 
@@ -2035,7 +2031,7 @@ par. 5. La ripartizione di cui sopra entra in considerazione nel
 
 solo caso in cui il termine totale di resa non sia stato osservato.
 
-##### Articolo 51
+#### Articolo 51
 
 Procedura di regresso
 
@@ -2051,7 +2047,7 @@ par. 4. - Le ferrovie citate non possono esercitare alcun regresso ulteriore.
 
 par. 5. - Non e' permesso proporre l'azione di regresso nel corso dell'azione relativa alla domanda principale di risarcimento.
 
-##### Articolo 52
+#### Articolo 52
 
 Competenza per le azioni di regresso
 
@@ -2061,7 +2057,7 @@ competente il giudice della sede della ferrovia contro la quale si propone il re
 
 par. 2. - Se l'azione deve essere intentata contro piu' ferrovie, la ferrovia attrice ha il diritto di scegliere, fra i giudici competenti, in base al § 1, quello davanti al quale vuole proporre la sua domanda.
 
-##### Articolo 53
+#### Articolo 53
 
 Accordi relativi al regresso
 
@@ -2071,7 +2067,7 @@ azioni di regresso reciproche stabilite nel capitolo III.
 
 ## TITOLO IV - DISPOSIZIONI DIVERSE
 
-##### Articolo 54
+#### Articolo 54
 
 Applicazione del diritto nazionale
 
@@ -2079,13 +2075,13 @@ Per quanto non e' previsto nella presente Convenzione, nelle
 
 disposizioni speciali conformi allo articolo 60, par. 4, nelle disposizioni complementari conformi all'articolo 60, par. 5, e nelle tariffe internazionali, si applicano le leggi ed i regolamenti nazionali, relativi al trasporto, in vigore nei singoli Stati.
 
-##### Articolo 55
+#### Articolo 55
 
 Regole generali di procedura
 
 Per tutte le liti originate dai trasporti sottoposti alla presente Convenzione si applica la procedura del giudice competente, salvo le disposizioni contrarie contemplate nella Convenzione.
 
-##### Articolo 56
+#### Articolo 56
 
 Esecuzione delle sentenze. Sequestri e cauzioni
 
@@ -2113,7 +2109,7 @@ par. 4. - Non puo' essere pretesa alcuna cauzione per assicurare il
 
 pagamento delle spese dipendenti da azioni giudiziarie fondate sul contratto di trasporto internazionale.
 
-##### Articolo 57
+#### Articolo 57
 
 Unita' monetaria. Corso di conversione o di accettazione delle valute estere
 
@@ -2129,7 +2125,7 @@ par. 3. - Analogamente, una ferrovia che accetta in pagamento delle
 
 valute estere deve pubblicare a quali corsi essa le accetta (corsi di accettazione).
 
-##### Articolo 58
+#### Articolo 58
 
 Ufficio centrale dei trasporti internazionali per ferrovia
 
@@ -2167,7 +2163,7 @@ presente Convenzione stabilisce la sede, la composizione e l'organizzazione di q
 
 Esso ne fissa inoltre le condizioni di funzionamento e di sorveglianza.
 
-##### Articolo 59
+#### Articolo 59
 
 Lista delle linee soggette alla Convenzione
 
@@ -2185,7 +2181,7 @@ par. 4. - La semplice ricezione dell'avviso proveniente
 
 dall'Ufficio Centrale da' immediatamente diritto a ciascuna ferrovia di cessare, con la linea radiata, ogni relazione riguardante i trasporti internazionali, ad eccezione di quelli in corso, che debbono essere condotti a termine.
 
-##### Articolo 60
+#### Articolo 60
 
 Disposizioni speciali per determinati trasporti. Disposizioni complementari
 
@@ -2227,7 +2223,7 @@ Queste disposizioni complementari possono essere messe in vigore, sulle ferrovie
 
 La loro entrata in vigore e' notificata all'Ufficio Centrale.
 
-##### Articolo 61
+#### Articolo 61
 
 Regolamento delle controversie a mezzo di arbitrato
 
@@ -2269,7 +2265,7 @@ confronti delle imprese di trasporto o degli utenti sono esecutive in ciascuno d
 
 ## TITOLO V - DISPOSIZIONI ECCEZIONALI
 
-##### Articolo 62
+#### Articolo 62
 
 Deroghe temporanee
 
@@ -2321,7 +2317,7 @@ par. 4. - I suddetti provvedimenti non sono applicabili alle
 
 spedizioni in corso di trasporto.
 
-##### Articolo 63
+#### Articolo 63
 
 Responsabilita' nel traffico ferroviario-marittimo
 
@@ -2375,7 +2371,7 @@ I suddetti provvedimenti non sono applicabili alle spedizioni in
 
 corso di trasporto.
 
-##### Articolo 64
+#### Articolo 64
 
 Responsabilita' in caso di incidenti nucleari
 
@@ -2385,7 +2381,7 @@ virtu' della presente Convenzione, quando il danno sia stato causato da un incid
 
 ## TITOLO VI - DISPOSIZIONI FINALI
 
-##### Articolo 65
+#### Articolo 65
 
 Firma
 
@@ -2393,7 +2389,7 @@ La presente Convenzione, i cui Allegati ne costituiscono parte
 
 integrante, resta aperta fino al 30 aprile 1970 alla firma degli Stati precedentemente contraenti e di quelli che sono stati invitati a farsi rappresentare alla Conferenza ordinaria di revisione.
 
-##### Articolo 66
+#### Articolo 66
 
 Ratifica. Entrata in vigore
 
@@ -2403,7 +2399,7 @@ ratifica verranno depositati, il piu' presto possibile, presso il Governo svizze
 
 Quando la Convenzione sara' stata ratificata da quindici Stati od al piu' tardi un anno dopo la firma, il Governo svizzero si mettera' in relazione con i Governi interessati nell'intento di esaminare con essi la possibilita' di mettere in vigore la Convenzione.
 
-##### Articolo 67
+#### Articolo 67
 
 Adesione alla Convenzione
 
@@ -2423,7 +2419,7 @@ par. 3. - Ogni ammissione produce i suoi effetti un mese dopo la
 
 data dell'avviso inviato dal Governo svizzero, o, se allo spirare di detto termine la Convenzione non e' ancora in vigore, alla data dell'entrata in vigore della medesima.
 
-##### Articolo 68
+#### Articolo 68
 
 Durata dell'impegno degli Stati contraenti
 
@@ -2439,7 +2435,7 @@ par. 2. - Gli Stati ammessi a partecipare alla Convenzione nel
 
 corso del periodo quinquennale, o di uno dei periodi triennali, sono impegnati sino alla fine di questo periodo e poi sino alla fine di ciascuno dei periodi seguenti, sempre che non abbiano dato la disdetta almeno un anno prima dello spirare di uno di essi.
 
-##### Articolo 69
+#### Articolo 69
 
 Revisione della Convenzione
 
@@ -2505,7 +2501,7 @@ Le decisioni delle Commissioni di esperti sono notificate senza
 
 indugio ai Governi degli Stati contraenti a cura dell'Ufficio centrale. Esse si ritengono accettate a meno che, entro quattro mesi dal giorno della notificazione, almeno cinque Governi non abbiano sollevato obiezioni. Queste decisioni entrano in vigore il primo giorno dell'ottavo mese che segue il mese nel quale l'Ufficio centrale ha portato la loro accettazione a conoscenza dei Governi degli Stati contraenti. L'ufficio centrale indica tale giorno all'atto della notifica dell'accettazione delle decisioni.
 
-##### Articolo 70
+#### Articolo 70
 
 Testi della Convenzione. Traduzioni ufficiali
 
@@ -2527,7 +2523,7 @@ esemplare, che restera' depositato negli Archivi della Confederazione svizzera e
 
 (Seguono le firme)
 
-##### Allegato I
+#### Allegato I
 
 ALLEGATO I
 
@@ -2543,7 +2539,7 @@ ALLEGATO II
 
 REGOLAMENTO RELATIVO ALL'UFFICIO CENTRALE DEI TRASPORTI INTERNAZIONALI PER FERROVIA (OCTI)
 
-##### Articolo 1
+#### Articolo 1
 
 par. 1. - L'Ufficio centrale dei trasporti internazionali per
 
@@ -2613,7 +2609,7 @@ d) Il Comitato amministrativo sottopone ad ogni conferenza
 
 diplomatica incaricata di fissare la sua composizione, almeno due mesi prima dell'apertura di quest'ultima, un rapporto sull'insieme della sua attivita' svolta dopo la conferenza precedente.
 
-##### Articolo 2
+#### Articolo 2
 
 par. 1. - Le spese dell'Ufficio centrale sono sostenute dagli Stati
 
@@ -2639,7 +2635,7 @@ rispettivi, maggiorate dell'interesse del cinque per cento da calcolare dalla fi
 
 l'Ufficio centrale lo invito' per la prima volta a pagare le quote di contribuzione che gli fanno carico.
 
-##### Articolo 3
+#### Articolo 3
 
 par. 1. - L'Ufficio centrale pubblica un bollettino mensile
 
@@ -2649,7 +2645,7 @@ par. 2. - Il bollettino e' redatto in francese e in tedesco. Un
 
 esemplare e' spedito gratuitamente ad ogni Stato contraente e ad ognuna delle amministrazioni interessate. Gli altri esemplari richiesti debbono essere pagati ad un prezzo stabilito dall'Ufficio centrale.
 
-##### Articolo 4
+#### Articolo 4
 
 par. 1. - Le distinte e i crediti per trasporti internazionali
 
@@ -2673,7 +2669,7 @@ par. 6. - Se lo Stato contraente dal quale dipende l'impresa di
 
 trasporto debitrice dichiara che, nonostante il mancato pagamento, non ritiene di dover far cancellare dalla lista detta impresa, o se esso lascia senza risposta per sei settimane la comunicazione dell'Ufficio centrale, si reputa di pieno diritto che detto Stato si faccia garante della solvibilita' dell'impresa, per quanto concerne i crediti risultanti dai trasporti internazionali.
 
-##### Articolo 5
+#### Articolo 5
 
 Per coprire le spese particolari risultanti dall'attivita' prevista
 
@@ -2685,13 +2681,13 @@ ALLEGATO III
 
 STATUTO RELATIVO ALLA COMMISSIONE DI REVISIONE ED ALLE COMMISSIONI DI ESPERTI
 
-##### Articolo 1
+#### Articolo 1
 
 I Governi degli Stati contraenti comunicano le loro proposte
 
 riguardanti le questioni che rientrano nella competenza delle Commissioni all'Ufficio centrale dei trasporti internazionali per ferrovia, il quale le porta immediatamente a conoscenza degli altri Stati contraenti.
 
-##### Articolo 2
+#### Articolo 2
 
 L'Ufficio centrale invita le Commissioni a riunirsi ogni volta che se ne presenti la necessita', oppure su domanda di almeno cinque Stati contraenti.
 
@@ -2699,7 +2695,7 @@ Tutti gli Stati contraenti sono avvertiti, due mesi prima, delle
 
 sessioni delle Commissioni. L'avviso deve indicare esattamente le questioni delle quali e' richiesta l'iscrizione all'ordine del giorno.
 
-##### Articolo 3
+#### Articolo 3
 
 Tutti gli Stati contraenti possono prendere parte ai lavori delle Commissioni.
 
@@ -2709,7 +2705,7 @@ Stato non puo' rappresentare piu' di due altri Stati.
 
 Ogni Stato sostiene le spese dei suoi rappresentanti.
 
-##### Articolo 4
+#### Articolo 4
 
 L'Ufficio centrale istruisce le questioni da trattare ed assume il servizio di segreteria delle Commissioni.
 
@@ -2717,7 +2713,7 @@ Il Direttore generale dell'Ufficio centrale od il suo
 
 rappresentante partecipa alle sedute delle Commissioni con voto consultivo.
 
-##### Articolo 5
+#### Articolo 5
 
 D'intesa con la maggioranza degli Stati contraenti, l'Ufficio
 
@@ -2733,25 +2729,25 @@ c) di organizzazioni internazionali non governative che si
 
 occupano di trasporti, a condizione di reciprocita'.
 
-##### Articolo 6
+#### Articolo 6
 
 La Commissione di revisione e' validamente costituita quando vi
 
 siano rappresentati la meta' degli Stati contraenti; le Commissioni di esperti sono validamente costituite quando vi siano rappresentati un terzo degli Stati contraenti.
 
-##### Articolo 7
+#### Articolo 7
 
 Le Commissioni designano un presidente ed uno o due vice-presidenti
 
 per ogni sessione.
 
-##### Articolo 8
+#### Articolo 8
 
 Le deliberazioni hanno luogo in francese e in tedesco. Gli
 
 interventi dei membri della Commissione sono tradotti immediatamente oralmente e nella parte essenziale. Il testo delle proposte e le comunicazioni del presidente sono tradotti per esteso.
 
-##### Articolo 9
+#### Articolo 9
 
 Il voto ha luogo per delegazione e, su domanda, per appello
 
@@ -2765,7 +2761,7 @@ nella Commissione;
 
 b) superiore al numero dei voti negativi.
 
-##### Articolo 10
+#### Articolo 10
 
 I verbali delle sedute riassumono le deliberazioni nelle due
 
@@ -2779,7 +2775,7 @@ I verbali sono distribuiti ai membri il piu' presto possibile.
 
 Se la loro approvazione non puo' aver luogo durante la sessione, i membri comunicheranno alla segreteria, entro un congruo termine, le eventuali correzioni.
 
-##### Articolo 11
+#### Articolo 11
 
 Per facilitare i lavori, le Commissioni possono costituire
 
@@ -2787,7 +2783,7 @@ sottocommissioni; esse possono anche costituire sottocommissioni incaricate di p
 
 Ogni sottocommissione designa un presidente, un vice-presidente e, se la necessita' lo richiede, un relatore. Per il rimanente, alle sottocommissioni sono applicabili, per analogia, le disposizioni degli articoli da 1 a 5 e da 8 a 10.
 
-##### Allegato IV
+#### Allegato IV
 
 ALLEGATO IV
 
@@ -2795,7 +2791,7 @@ ALLEGATO IV
 
 REGOLAMENTO INTERNAZIONALE PER IL TRASPORTO DEI CARRI PRIVATI (RIP) (Testo sottoposto a procedura di revisione speciale e pubblicato in edizione a parte)
 
-##### Allegato V
+#### Allegato V
 
 ALLEGATO V
 
@@ -2805,7 +2801,7 @@ REGOLAMENTO INTERNAZIONALE PER IL TRASPORTO DELLE CASSE MOBILI (CONTAINERS) (RIC
 
 (Testo sottoposto a procedura di revisione speciale e pubblicato in edizione a parte)
 
-##### Allegato VI
+#### Allegato VI
 
 ALLEGATO VI
 
@@ -2867,7 +2863,7 @@ ALLEGATO VII
 
 REGOLAMENTO D'ARBITRATO
 
-##### Articolo 1
+#### Articolo 1
 
 Numero degli arbitri
 
@@ -2875,7 +2871,7 @@ I tribunali arbitrali costituiti per giudicare su litigi diversi da
 
 quelli tra Stati si comporranno di uno, di tre o di cinque arbitri, secondo gli accordi del compromesso.
 
-##### Articolo 2
+#### Articolo 2
 
 Scelta degli arbitri
 
@@ -2903,7 +2899,7 @@ essere di nazionalita' diversa da quella delle parti.
 
 L'intervento nel litigio d'una parte terza resta senza effetto per quanto concerne la composizione del tribunale arbitrale.
 
-##### Articolo 3
+#### Articolo 3
 
 Compromesso
 
@@ -2921,7 +2917,7 @@ Per l'apertura della procedura arbitrale, il compromesso deve
 
 essere comunicato all'Ufficio centrale.
 
-##### Articolo 4
+#### Articolo 4
 
 Procedura
 
@@ -2939,7 +2935,7 @@ tribunale arbitrale e notificata alle parti tramite l'Ufficio centrale;
 
 d) salvo contraria disposizione di diritto imperativo del luogo ove ha sede il tribunale arbitrale, la sentenza arbitrale non e' suscettibile di ricorso, fatta eccezione tuttavia dei casi di revisione o di nullita'.
 
-##### Articolo 5
+#### Articolo 5
 
 Cancelleria del tribunale
 
@@ -2947,7 +2943,7 @@ L'Ufficio centrale funziona come cancelleria del tribunale
 
 arbitrale.
 
-##### Articolo 6
+#### Articolo 6
 
 Spese
 
@@ -2969,7 +2965,7 @@ avendo riconosciuto la necessita' di sottoporre a revisione la
 
 Convenzione internazionale per il trasporto dei viaggiatori e dei bagagli per ferrovia, firmata a Berna il 25 febbraio 1961, hanno deciso, in conformita' dell'articolo 68 della Convenzione stessa, di concludere una nuova Convenzione a tale scopo ed hanno concordato i seguenti articoli:
 
-##### Articolo 1
+#### Articolo 1
 
 Ferrovie e trasporti ai quali si applica la Convenzione
 
@@ -2997,7 +2993,7 @@ par. 4. - Le tariffe internazionali stabiliscono le relazioni per le quali vengo
 
 (1) Per "Stazione" s'intendono anche i porti dei servizi di navigazione e ogni impianto dei servizi automobilistici aperti al pubblico per l'esecuzione del contratto di trasposto.
 
-##### Articolo 2
+#### Articolo 2
 
 Disposizioni relative ai trasporti combinati
 
@@ -3013,7 +3009,7 @@ par. 4. - Per i trasporti internazionali eseguiti in parte da
 
 ferrovie ed in parte da servizi di trasporto diversi da quelli indicati nel paragrafo 1, le ferrovie possono concordare con le imprese di trasporto interessate disposizioni tariffarie con regime giuridico diverso da quello della presente Convenzione, per tener conto delle peculiarita' di ciascun modo di trasporto. In tale caso, le ferrovie possono prescrivere l'uso di un documento di trasporto diverso da quello contemplato dalla presente Convenzione.
 
-##### Articolo 3
+#### Articolo 3
 
 Obbligo al trasporto per la ferrovia
 
@@ -3039,11 +3035,9 @@ disposizioni del presente articolo puo' dar luogo ad azione per il risarcimento 
 
 ## TITOLO II - DEL CONTRATTO DI TRASPORTO
 
-### CAPITOLO I
+### CAPITOLO I - TRASPORTO DI VIAGGIATORI
 
-#### TRASPORTO DI VIAGGIATORI
-
-##### Articolo 4
+#### Articolo 4
 
 Diritto al trasporto
 
@@ -3051,7 +3045,7 @@ Il viaggiatore deve, fin dall'inizio del viaggio e salve le
 
 eccezioni previste nelle tariffe internazionali, munirsi di un titolo di trasporto valido. Egli deve conservarlo per tutta la durata del viaggio, presentarlo, a richiesta, agli agenti incaricati del controllo e restituirlo a viaggio ultimato.
 
-##### Articolo 5
+#### Articolo 5
 
 Biglietti
 
@@ -3089,7 +3083,7 @@ il biglietto e' cedibile solamente quando non e' nominativo e se il viaggio non 
 
 par. 6. - Il viaggiatore deve accertarsi, all'atto di ricevere il biglietto, che esso corrisponda alle indicazioni da lui fornite.
 
-##### Articolo 6
+#### Articolo 6
 
 Riduzione di prezzo per i ragazzi
 
@@ -3109,7 +3103,7 @@ par. 3. - Le tariffe internazionali possono tuttavia prevedere
 
 limiti di eta' differenti da quelli indicati nei paragrafi 1 e 2, purche' tali limiti non siano inferiori a quattro anni compiuti, per quanto concerne la gratuita' del trasporto di cui al paragrafo 1, e a dieci anni compiuti nel caso di applicazione dei prezzi ridotti previsti dal paragrafo 2.
 
-##### Articolo 7
+#### Articolo 7
 
 Durata di validita' dei biglietti. Fermate nelle stazioni intermedie.
 
@@ -3123,7 +3117,7 @@ L'occupazione, l'attribuzione e la prenotazione dei posti nei treni
 
 sono fissate dalle tariffe internazionali o dalle prescrizioni delle ferrovie.
 
-##### Articolo 8
+#### Articolo 8
 
 Cambio di classe o di treno
 
@@ -3131,7 +3125,7 @@ Il viaggiatore puo' prendere posto in una classe superiore o
 
 passare in un treno di categoria superiore a quella indicata nel biglietto o far modificare l'itinerario alle condizioni fissate dalle tariffe internazionali.
 
-##### Articolo 9
+#### Articolo 9
 
 Viaggiatore sprovvisto di biglietto valido
 
@@ -3149,7 +3143,7 @@ par. 3. - Il viaggiatore che rifiuti il pagamento immediato del
 
 prezzo del viaggio o della soprattassa puo' essere escluso dal viaggio. Il viaggiatore escluso non puo' esigere che i suoi bagagli siano messi a sua disposizione in una stazione diversa da quella destinataria.
 
-##### Articolo 10
+#### Articolo 10
 
 Persone escluse dai treni o ammesse a determinate condizioni
 
@@ -3169,7 +3163,7 @@ par. 2. - Per il trasporto delle persone affette da malattie
 
 contagiose valgono le Convenzioni e i regolamenti internazionali e, in mancanza di questi, le leggi e i regolamenti in vigore in ciascuno Stato.
 
-##### Articolo 11
+#### Articolo 11
 
 Introduzione di colli a mano e di animali nelle carrozze
 
@@ -3209,7 +3203,7 @@ viaggiatore reca con se' nella carrozza incombe al viaggiatore stesso, salvo che
 
 Il viaggiatore e' responsabile di ogni danno causato dagli oggetti o dagli animali che porta con se' nella vettura, se non prova che i danni siano dovuti a colpa della ferrovia.
 
-##### Articolo 12
+#### Articolo 12
 
 Treni e orari
 
@@ -3223,7 +3217,7 @@ pubblico, in modo idoneo, l'orario dei treni.
 
 par. 3. - Gli orari o le tariffe devono indicare le limitazioni di utilizzazione di certi treni o di certe classi.
 
-##### Articolo 13
+#### Articolo 13
 
 Coincidenze mancate. Soppressione di treni
 
@@ -3231,9 +3225,9 @@ Quando, in seguito al ritardo di un treno, la coincidenza con un
 
 altro treno viene a mancare, o quando un treno e' soppresso su tutto o su parte del percorso e il viaggiatore vuole continuare il suo viaggio, la ferrovia e' obbligata a trasportarlo, con i suoi bagagli, nei limiti del possibile e senza pagamento di alcun supplemento di prezzo, con un treno che si diriga verso la stessa destinazione sia per la stessa linea, sia per un'altra via appartenente alle amministrazioni che partecipano all'itinerario del primo trasporto, in modo da permettergli di arrivare a destinazione con il minor ritardo possibile. Il capo stazione deve, a seconda delle circostanze, attestare sul biglietto la mancata coincidenza o la soppressione del treno, prorogare nella misura necessaria la durata di validita' del biglietto stesso e renderlo valido per la nuova via, per una classe superiore o per un treno a tariffa piu' elevata. La ferrovia ha tuttavia il diritto di vietare, nella tariffa o nell'orario, l'utilizzazione di determinati treni.
 
-## CAPITOLO II - TRASPORTO DEI BAGAGLI
+### CAPITOLO II - TRASPORTO DEI BAGAGLI
 
-##### Articolo 14
+#### Articolo 14
 
 Oggetti ammessi al trasporto
 
@@ -3247,7 +3241,7 @@ determinate condizioni il trasporto a bagaglio di altri oggetti e di animali.
 
 par. 3. - La ferrovia ha il diritto di rifiutare o di limitare il trasporto dei bagagli in taluni treni o in talune categorie di treni.
 
-##### Articolo 15
+#### Articolo 15
 
 Oggetti esclusi dal trasporto
 
@@ -3267,7 +3261,7 @@ Le tariffe internazionali possono ammettere al trasporto a
 
 bagaglio, in determinate condizioni, talune materie e taluni oggetti che ne sono esclusi in base alla lettera c).
 
-##### Articolo 16
+#### Articolo 16
 
 Responsabilita' del viaggiatore per i suoi bagagli. Soprattasse
 
@@ -3283,7 +3277,7 @@ par. 3. - In caso di infrazione alle disposizioni degli articoli 14
 
 e 15, il possessore dello scontrino del bagaglio deve pagare una soprattassa che e' fissata dalle tariffe internazionali, senza pregiudizio del supplemento del prezzo di trasporto e, se del caso, del risarcimento del danno.
 
-##### Articolo 17
+#### Articolo 17
 
 Condizionamento, imballaggio e marcatura dei bagagli
 
@@ -3295,7 +3289,7 @@ par. 2. - Il viaggiatore e' tenuto ad indicare su ciascun collo, in
 
 uno spazio ben visibile, il suo nome, il suo indirizzo, la stazione destinataria ed il Paese di destinazione con una indicazione avente sufficiente stabilita' e redatta in modo chiaro, indelebile e che non consenta alcuna confusione. La ferrovia ha il diritto di rifiutare i colli non recanti le indicazioni prescritte. Le indicazioni preesistenti debbono essere tolte o rese illeggibili dal viaggiatore.
 
-##### art. 18
+#### art. 18
 
 Articoli 18
 
@@ -3331,7 +3325,7 @@ L'inoltro dei bagagli alle condizioni sopra indicate viene
 
 effettuato in quanto non ostino le formalita' richieste, in partenza o durante il trasporto, dalle autorita' doganali o da altre autorita' amministrative.
 
-##### Articolo 19
+#### Articolo 19
 
 Scontrino del bagaglio
 
@@ -3363,7 +3357,7 @@ stabiliscono in quale forma e lingua debbano essere stampati e compilati gli sco
 
 par. 4. - Il viaggiatore ha l'obbligo di accertarsi, nel ricevere lo scontrino, che esso sia compilato in conformita' alle sue indicazioni.
 
-##### Articolo 20
+#### Articolo 20
 
 Riconsegna
 
@@ -3397,9 +3391,9 @@ ferrovia e' tenuta a procedere, in sua presenza, alla verifica dei bagagli per l
 
 par. 7. - Per tutto quanto non previsto, la riconsegna e' soggetta alle leggi e ai regolamenti in vigore presso la ferrovia che deve effettuare la riconsegna medesima.
 
-## CAPITOLO III - DISPOSIZIONI COMUNI AI TRASPORTI DI VIAGGIATORI E DI BAGAGLI
+### CAPITOLO III - DISPOSIZIONI COMUNI AI TRASPORTI DI VIAGGIATORI E DI BAGAGLI
 
-##### Articolo 21
+#### Articolo 21
 
 Tariffe. Accordi particolari
 
@@ -3431,7 +3425,7 @@ La pubblicazione dei provvedimenti presi in virtu' del secondo e
 
 terzo alinea non e' obbligatoria.
 
-##### Articolo 22
+#### Articolo 22
 
 Formalita' prescritte dalle autorita' doganali o da altre autorita' amministrative
 
@@ -3439,7 +3433,7 @@ Il viaggiatore deve attenersi alle prescrizioni delle autorita'
 
 doganali o di altre autorita' amministrative, tanto per cio' che riguarda la sua persona, quanto per cio' che riguarda la visita dei propri bagagli e colli a mano. Egli deve assistere a questa visita, salvo le eccezioni ammesse dalle leggi e dai regolamenti. La ferrovia non assume alcuna responsabilita' nei riguardi del viaggiatore che non osservi questi obblighi.
 
-##### Articolo 23
+#### Articolo 23
 
 Rimborsi e pagamenti supplementari
 
@@ -3477,7 +3471,7 @@ par. 5. - Per il calcolo della differenza in piu', da rimborsarsi dalla ferrovia
 
 par. 6. - In tutti i casi non previsti dal presente articolo, e in mancanza di accordi tra le ferrovie, valgono le leggi e i regolamenti in vigore nello Stato di partenza.
 
-##### Articolo 24
+#### Articolo 24
 
 Contestazioni
 
@@ -3485,11 +3479,9 @@ Le contestazioni fra viaggiatori o fra questi e gli agenti vengono provvisoriame
 
 ## TITOLO III - RESPONSABILITA'. AZIONI
 
-### CAPITOLO I
+### CAPITOLO I - RESPONSABILITA'
 
-#### RESPONSABILITA'
-
-##### Articolo 25
+#### Articolo 25
 
 Responsabilita' per il trasporto dei viaggiatori, dei colli a mano e degli animali
 
@@ -3503,7 +3495,7 @@ par. 3. - Gli articoli seguenti del presente Titolo non si
 
 applicano ai casi di cui ai § § 1 e 2.
 
-##### Articolo 26
+#### Articolo 26
 
 Responsabilita' collettiva delle ferrovie per i bagagli
 
@@ -3515,7 +3507,7 @@ par. 2. - Ciascuna delle ferrovie successive, per il solo fatto
 
 della presa in consegna del bagaglio, partecipa al contratto di trasporto ed accetta gli obblighi che ne risultano, senza pregiudizio delle disposizioni del § 2 dell'articolo 39, riguardanti la ferrovia destinataria.
 
-##### Articolo 27
+#### Articolo 27
 
 Limiti della responsabilita'
 
@@ -3529,7 +3521,7 @@ ritardo nella riconsegna, la perdita o l'avaria sono stati causati da colpa del 
 
 par. 3. - La ferrovia e' esonerata da tale responsabilita' quando la perdita o l'avaria derivino da particolari rischi inerenti alla speciale natura del bagaglio, da mancanza o stato difettoso dell'imballaggio, o dal fatto che oggetti esclusi dal trasporto siano stati tuttavia spediti come bagagli.
 
-##### Articolo 28
+#### Articolo 28
 
 Onere della prova
 
@@ -3541,7 +3533,7 @@ par. 2. - Quando la ferrovia stabilisce che, avuto riguardo alle
 
 circostanze di fatto, la perdita o l'avaria e' potuta risultare da uno o piu' dei rischi particolari previsti nel par. 3 dell'articolo 27, si presume che il danno sia risultato da una o piu' di queste cause. L'avente diritto conserva tuttavia il diritto di provare che il danno non ha avuto per causa, totalmente o parzialmente, uno di tali rischi.
 
-##### Articolo 29
+#### Articolo 29
 
 Presunzione di perdita del bagaglio. Bagaglio ritrovato
 
@@ -3559,7 +3551,7 @@ l'avente diritto puo' esigere che il bagaglio gli sia riconsegnato in una delle 
 
 Se il collo ritrovato non viene richiesto nel previsto termine di trenta giorni o se il collo e' ritrovato dopo piu' di un anno dalla domanda di riconsegna, la ferrovia ne dispone conformemente alle leggi ed ai regolamenti dello Stato dal quale essa dipende.
 
-##### Articolo 30
+#### Articolo 30
 
 Ammontare dell'indennita' per perdita del bagaglio
 
@@ -3583,7 +3575,7 @@ Devono inoltre essere rimborsati le tasse di porto, i diritti di
 
 dogana e le altre somme spese in occasione del trasporto del bagaglio perduto, escluso ogni altro risarcimento.
 
-##### Articolo 31
+#### Articolo 31
 
 Ammontare dell'indennita' per avaria del bagaglio
 
@@ -3599,7 +3591,7 @@ l'ammontare che sarebbe dovuto in caso di perdita totale;
 
 b) se soltanto una parte dei bagagli e' deprezzata dall'avaria, l'ammontare che sarebbe dovuto per la perdita della parte deprezzata.
 
-##### Articolo 32
+#### Articolo 32
 
 Ammontare dell'indennita' per ritardo nella riconsegna del bagaglio
 
@@ -3623,7 +3615,7 @@ par. 4. In caso di ritardo nella riconsegna di autovetture, di
 
 rimorchi e di motociclette con carrozzino, trasportati come bagagli, la ferrovia deve pagare un'indennita' soltanto se il danno sia stato provato; il prezzo del trasporto costituisce l'indennita' massima.
 
-##### Articolo 33
+#### Articolo 33
 
 Ammontare dell'indennita' in caso di dolo o di colpa grave imputabile alla ferrovia
 
@@ -3631,7 +3623,7 @@ In tutti i casi in cui il ritardo nella riconsegna, la perdita
 
 totale o parziale, o l'avaria del bagaglio siano causati da dolo o da colpa grave imputabile alla ferrovia, questa deve risarcire completamente l'avente diritto del danno provato. In caso di colpa grave, la responsabilita' e' tuttavia limitata al doppio dei massimali previsti negli articoli 30, 31 e 32.
 
-##### Articolo 34
+#### Articolo 34
 
 Interessi sulle indennita'. Restituzione delle indennita'
 
@@ -3645,7 +3637,7 @@ par. 2. - Ogni indennita' indebitamente riscossa deve essere
 
 restituita.
 
-##### Articolo 35
+#### Articolo 35
 
 Responsabilita' della ferrovia per i suoi agenti
 
@@ -3655,7 +3647,7 @@ Tuttavia, se, a richiesta del viaggiatore, gli agenti della
 
 ferrovia compiono delle prestazioni che non competono alla ferrovia, essi sono considerati come operanti per conto del viaggiatore al quale rendono queste prestazioni.
 
-##### Articolo 36
+#### Articolo 36
 
 Esercizio di azioni extracontrattuali
 
@@ -3667,9 +3659,9 @@ Cio' vale anche per ogni azione esercitata contro le persone di cui
 
 la ferrovia risponde in base all'articolo 35.
 
-## CAPITOLO II - RECLAMI AMMINISTRATIVI. AZIONI GIUDIZIARIE. PROCEDURA E PRESCRIZIONE.
+### CAPITOLO II - RECLAMI AMMINISTRATIVI. AZIONI GIUDIZIARIE. PROCEDURA E PRESCRIZIONE.
 
-##### Articolo 37
+#### Articolo 37
 
 Reclami amministrativi
 
@@ -3687,7 +3679,7 @@ documenti che l'avente diritto ritenga utile unire al suo reclamo devono essere 
 
 All'atto della liquidazione del reclamo, la ferrovia puo' esigere la restituzione dei biglietti o degli scontrini dei bagagli.
 
-##### Articolo 38
+#### Articolo 38
 
 Persone che possono esercitare l'azione giudiziaria contro la ferrovia
 
@@ -3695,7 +3687,7 @@ L'azione giudiziaria contro la ferrovia in dipendenza del contratto
 
 di trasporto appartiene soltanto a colui che presenta il biglietto o lo scontrino del bagaglio, a seconda dei casi, o che, in mancanza, prova il suo diritto ad agire.
 
-##### Articolo 39
+#### Articolo 39
 
 Ferrovie contro le quali puo' essere esercitata l'azione giudiziaria
 
@@ -3719,7 +3711,7 @@ par. 4. - L'azione giudiziaria puo' essere esercitata contro una
 
 ferrovia diversa da quelle indicate nei par. 1 e 2, quando e' fatta valere come domanda riconvenzionale o come eccezione in una causa in cui la domanda principale sia fondata sullo stesso contratto di trasporto.
 
-##### Articolo 40
+#### Articolo 40
 
 Competenza
 
@@ -3731,7 +3723,7 @@ Quando una impresa esercisce reti autonome in diversi Stati,
 
 ciascuna di queste reti e' considerata come una ferrovia a se' agli effetti dell'applicazione del presente articolo.
 
-##### Articolo 41
+#### Articolo 41
 
 Accertamento della perdita parziale o dell'avaria subita dal bagaglio
 
@@ -3749,7 +3741,7 @@ par. 3. - Nel caso di perdita di colli, l'avente diritto deve
 
 fornire la descrizione piu' esatta possibile dei colli perduti per facilitare le ricerche della ferrovia.
 
-##### Articolo 42
+#### Articolo 42
 
 Estinzione dell'azione contro la ferrovia derivante dal contratto di trasporto del bagaglio
 
@@ -3785,7 +3777,7 @@ d) in caso di reclamo per danni non apparenti, la cui esistenza venga accertata 
 
 nell'intervallo tra l'accettazione al trasporto e la riconsegna.
 
-##### Articolo 43
+#### Articolo 43
 
 Prescrizione dell'azione
 
@@ -3833,15 +3825,15 @@ par. 5. - Salvo le disposizioni che precedono, la sospensione e
 
 l'interruzione della prescrizione sono regolate dalle leggi e dai regolamenti dello Stato nel quale l'azione e' intentata.
 
-## CAPITOLO III - Regolamento dei conti. Regresso delle ferrovie tra loro.
+### CAPITOLO III - Regolamento dei conti. Regresso delle ferrovie tra loro.
 
-##### Articolo 44
+#### Articolo 44
 
 Regolamento dei conti tra le ferrovie
 
 Ogni ferrovia deve pagare alle ferrovie interessate la quota loro spettante del prezzo del trasporto che essa abbia incassato o che avrebbe dovuto incassare.
 
-##### Articolo 45
+#### Articolo 45
 
 Regresso in caso di indennita' per perdita o per avaria
 
@@ -3865,7 +3857,7 @@ par. 2. - Nel caso di insolvibilita' di una delle ferrovie, la
 
 quota che le incombe e da essa non pagata e' ripartita tra tutte le altre ferrovie che hanno partecipato al trasporto, in proporzione al numero dei chilometri di applicazione delle tariffe.
 
-##### Articolo 46
+#### Articolo 46
 
 Regresso in caso di indennita' per ritardo nella riconsegna
 
@@ -3873,7 +3865,7 @@ Le norme indicate nell'articolo 45 sono estese ai casi di
 
 indennita' pagate per ritardo nella riconsegna. Se tale ritardo e' causato da irregolarita' constatate su piu' ferrovie, l'onere dell'indennita' e' ripartito fra loro in proporzione alla durata del ritardo verificatosi sulle rispettive reti.
 
-##### Articolo 47
+#### Articolo 47
 
 Procedura di regresso
 
@@ -3891,7 +3883,7 @@ par. 4. - Le ferrovie citate non possono esercitare alcun regresso ulteriore.
 
 par. 5. - Non e' permesso proporre l'azione di regresso nel corso dell'azione relativa alla domanda principale di risarcimento.
 
-##### Articolo 48
+#### Articolo 48
 
 Competenza per le azioni di regresso
 
@@ -3901,7 +3893,7 @@ competente il giudice della sede della ferrovia contro la quale si propone il re
 
 par. 2. - Se l'azione deve essere intentata contro piu' ferrovie, la ferrovia attrice ha il diritto di scegliere, fra i giudici competenti, in base al par. 1, quello davanti al quale vuole proporre la sua domanda.
 
-##### Articolo 49
+#### Articolo 49
 
 Accordi relativi al regresso
 
@@ -3911,7 +3903,7 @@ azioni di regresso reciproche stabilite nel capitolo III.
 
 ## TITOLO IV - DISPOSIZIONI DIVERSE
 
-##### Articolo 50
+#### Articolo 50
 
 Applicazione del diritto nazionale
 
@@ -3919,13 +3911,13 @@ Per quanto non e' previsto nella presente Convenzione, nelle
 
 disposizioni complementari e nelle tariffe internazionali, si applicano le leggi ed i regolamenti nazionali, relativi al trasporto, in vigore nei singoli Stati.
 
-##### Articolo 51
+#### Articolo 51
 
 Regole generali di procedura
 
 Per tutte le liti originate dai trasporti sottoposti alla presente Convenzione si applica la procedura del giudice competente, salvo le disposizioni contrarie contemplate nella Convenzione.
 
-##### Articolo 52
+#### Articolo 52
 
 Esecuzione delle sentenze. Sequestri e cauzioni
 
@@ -3953,7 +3945,7 @@ par. 4. - Non puo' essere pretesa alcuna cauzione per assicurare il
 
 pagamento delle spese dipendenti da azioni giudiziarie fondate sul contratto di trasporto internazionale.
 
-##### Articolo 53
+#### Articolo 53
 
 Unita' monetaria.
 
@@ -3971,7 +3963,7 @@ par. 3. - Analogamente, una ferrovia che accetta in pagamento delle
 
 valute estere deve pubblicare a quali corsi essa le accetta (corsi di accettazione).
 
-##### Articolo 54
+#### Articolo 54
 
 Ufficio centrale dei trasporti internazionali per ferrovia
 
@@ -4011,7 +4003,7 @@ presente Convenzione stabilisce la sede, la composizione e l'organizzazione di q
 
 Esso ne fissa inoltre le condizioni di funzionamento e di sorveglianza.
 
-##### Articolo 55
+#### Articolo 55
 
 Lista delle linee soggette alla Convenzione
 
@@ -4029,7 +4021,7 @@ par. 4. - La semplice ricezione dell'avviso proveniente
 
 dall'Ufficio centrale da' immediatamente diritto a ciascuna ferrovia di cessare, con la linea radiata, ogni relazione riguardante i trasporti internazionali, ad eccezione di quelli in corso, che debbono essere condotti a termine.
 
-##### Articolo 56
+#### Articolo 56
 
 Disposizioni complementari
 
@@ -4039,7 +4031,7 @@ Queste disposizioni complementari possono essere messe in vigore, sulle ferrovie
 
 La loro entrata in vigore e' notificata all'Ufficio Centrale.
 
-##### Articolo 57
+#### Articolo 57
 
 Regolamento delle controversie a mezzo di arbitrato
 
@@ -4081,7 +4073,7 @@ confronti delle imprese di trasporto o degli utenti sono esecutive in ciascuno d
 
 ## TITOLO V - DISPOSIZIONI ECCEZIONALI
 
-##### Articolo 58
+#### Articolo 58
 
 Responsabilita' nel traffico ferroviario-marittimo
 
@@ -4127,7 +4119,7 @@ articolo vengono comunicati all'Ufficio centrale. Essi entreranno in vigore, al 
 
 I suddetti provvedimenti non sono applicabili ai bagagli in corso di trasporto.
 
-##### Articolo 59
+#### Articolo 59
 
 Responsabilita' in caso di incidenti nucleari
 
@@ -4137,7 +4129,7 @@ virtu' della presente Convenzione, quando il danno sia stato causato da un incid
 
 ## TITOLO VI - DISPOSIZIONI FINALI
 
-##### Articolo 60
+#### Articolo 60
 
 Firma
 
@@ -4145,7 +4137,7 @@ La presente Convenzione, i cui Allegati ne costituiscono parte
 
 integrante, resta aperta fino al 30 aprile 1970 alla firma degli Stati precedentemente contraenti e di quelli che sono stati invitati a farsi rappresentare alla Conferenza ordinaria di revisione.
 
-##### Articolo 61
+#### Articolo 61
 
 Ratifica. Entrata in vigore
 
@@ -4155,7 +4147,7 @@ ratifica verranno depositati, il piu' presto possibile, presso il Governo svizze
 
 Quando la Convenzione sara' stata ratificata da quindici Stati od al piu' tardi un anno dopo la firma, il Governo svizzero si mettera' in relazione con i Governi interessati nell'intento di esaminare con essi la possibilita' di mettere in vigore la Convenzione.
 
-##### Articolo 62
+#### Articolo 62
 
 Adesione alla Convenzione
 
@@ -4175,7 +4167,7 @@ par. 3. - Ogni ammissione produce i suoi effetti un mese dopo la
 
 data dell'avviso inviato dal Governo svizzero, o, se allo spirare di detto termine la Convenzione non e ancora in vigore, alla data dell'entrata in vigore della medesima.
 
-##### Articolo 63
+#### Articolo 63
 
 Durata dell'impegno degli Stati contraenti
 
@@ -4193,7 +4185,7 @@ par. 2. - Gli Stati ammessi a partecipare alla Convenzione nel
 
 corso del periodo quinquennale, o di uno dei periodi triennali, sono impegnati sino alla fine di questo periodo e poi sino alla fine di ciascuno dei periodi seguenti, sempre che non abbiano dato la disdetta almeno un anno prima dello spirare di uno di essi.
 
-##### Articolo 64
+#### Articolo 64
 
 Revisione della Convenzione
 
@@ -4239,7 +4231,7 @@ articoli 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 22, 23, 24, 29, 
 
 Le decisioni della Commissione di revisione sono notificate senza indugio ai Governi degli Stati contraenti a cura dell'Ufficio centrale. Esse si ritengono accettate a meno che, entro quattro mesi dal giorno della notificazione, almeno cinque Governi non abbiano sollevato obiezioni. Queste decisioni entrano in vigore il primo giorno dell'ottavo mese che segue il mese nel quale l'Ufficio centrale ha portato la loro accettazione a conoscenza dei Governi degli Stati contraenti. L'Ufficio centrale indica tale giorno all'atto della notifica dell'accettazione delle decisioni.
 
-##### Articolo 65
+#### Articolo 65
 
 Testi della Convenzione. Traduzioni ufficiali
 
@@ -4269,7 +4261,7 @@ ALLEGATO I
 
 REGOLAMENTO RELATIVO ALL'UFFICIO CENTRALE DEI TRASPORTI INTERNAZIONALI PER FERROVIA (OCTI)
 
-##### Articolo 1
+#### Articolo 1
 
 par. 1. - L'Ufficio centrale dei trasporti internazionali per
 
@@ -4341,7 +4333,7 @@ d) Il Comitato amministrativo sottopone ad ogni conferenza
 
 diplomatica incaricata di fissarne la composizione, almeno due mesi prima dell'apertura di quest'ultima, un rapporto sull'insieme della sua attivita' svolta dopo la conferenza precedente.
 
-##### Articolo 2
+#### Articolo 2
 
 par. 1. - Le spese dell'Ufficio centrale sono sostenute dagli Stati
 
@@ -4361,7 +4353,7 @@ par. 4. - Lo Stato, le cui linee sono state radiate nelle
 
 condizioni indicate nel par. 2 suddetto, puo' farle riammettere al servizio dei trasporti internazionali solamente pagando, in via preliminare, le somme delle quali e' rimasto debitore, per gli anni rispettivi, maggiorate dell'interesse del cinque per cento da calcolare dalla fine del sesto mese trascorso dopo il giorno in cui l'Ufficio centrale lo invito' per la prima volta, a pagare le quote di contribuzione che gli fanno carico.
 
-##### Articolo 3
+#### Articolo 3
 
 par. 1. - L'Ufficio centrale pubblica un bollettino mensile
 
@@ -4371,7 +4363,7 @@ par. 2. - Il bollettino e' redatto in francese e in tedesco. Un
 
 esemplare e' spedito gratuitamente ad ogni Stato contraente e ad ognuna delle amministrazioni interessate. Gli altri esemplari richiesti debbono essere pagati ad un prezzo stabilito dall'Ufficio centrale.
 
-##### Articolo 4
+#### Articolo 4
 
 par. 1. - Le distinte e i crediti per trasporti internazionali
 
@@ -4395,7 +4387,7 @@ par. 6. - Se lo Stato contraente dal quale dipende l'impresa di
 
 trasporto debitrice dichiara che, nonostante il mancato pagamento, non ritiene di dover far cancellare dalla lista detta impresa, o se esso lascia senza risposta per sei settimane la comunicazione dell'Ufficio centrale, si reputa di pieno diritto che detto Stato si faccia garante della solvibilita' dell'impresa, per quanto concerne i crediti risultanti dai trasporti internazionali.
 
-##### Articolo 5
+#### Articolo 5
 
 Per coprire le spese particolari risultanti dall'attivita' prevista
 
@@ -4407,13 +4399,13 @@ ALLEGATO II
 
 STATUTO RELATIVO ALLA COMMISSIONE DI REVISIONE
 
-##### Articolo 1
+#### Articolo 1
 
 I Governi degli Stati contraenti comunicano le loro proposte
 
 riguardanti le questioni che rientrano nella competenza della Commissione all'Ufficio centrale dei trasporti internazionali per ferrovia, il quale le porta immediatamente a conoscenza degli altri Stati contraenti.
 
-##### Articolo 2
+#### Articolo 2
 
 L'Ufficio centrale invita la Commissione a riunirsi ogni volta che se ne presenti la necessita', oppure su domanda di almeno cinque Stati contraenti.
 
@@ -4421,7 +4413,7 @@ Tutti gli Stati contraenti sono avvertiti, due mesi prima, dalle
 
 sessioni della Commissione. Lo avviso deve indicare esattamente le questioni delle quali e' richiesta l'iscrizione all'ordine del giorno.
 
-##### Articolo 3
+#### Articolo 3
 
 Tutti gli Stati contraenti possono prendere parte ai lavori della Commissione.
 
@@ -4431,7 +4423,7 @@ Stato non puo' rappresentare piu' di due altri Stati.
 
 Ogni Stato sostiene le spese dei suoi rappresentanti.
 
-##### Articolo 4
+#### Articolo 4
 
 L'Ufficio centrale istruisce le questioni da trattare ed assume il servizio di segreteria della Commissione.
 
@@ -4439,7 +4431,7 @@ Il direttore generale dell'Ufficio centrale od il suo
 
 rappresentante partecipa alle sedute della Commissione con voto consultivo.
 
-##### Articolo 5
+#### Articolo 5
 
 D'intesa con la maggioranza degli Stati contraenti, l'Ufficio
 
@@ -4455,23 +4447,23 @@ c) di organizzazioni internazionali non governative che si
 
 occupano di trasporti, a condizione di reciprocita'.
 
-##### Articolo 6
+#### Articolo 6
 
 La Commissione di revisione e' validamente costituita quando vi
 
 siano rappresentati la meta' degli Stati contraenti.
 
-##### Articolo 7
+#### Articolo 7
 
 La Commissione designa un presidente ed uno o due vice-presidenti per ogni sessione.
 
-##### Articolo 8
+#### Articolo 8
 
 Le deliberazioni hanno luogo in francese e in tedesco. Gli
 
 interventi dei membri della Commissione sono tradotti immediatamente oralmente e nella parte essenziale. Il testo delle proposte e le comunicazioni del presidente sono tradotti per esteso.
 
-##### Articolo 9
+#### Articolo 9
 
 Il voto ha luogo per delegazione e, su domanda, per appello
 
@@ -4485,7 +4477,7 @@ nella Commissione,
 
 b) superiore al numero dei voti negativi.
 
-##### Articolo 10
+#### Articolo 10
 
 I verbali delle sedute riassumono le deliberazioni nelle due
 
@@ -4499,7 +4491,7 @@ I verbali sono distribuiti ai membri il piu' presto possibile.
 
 Se la loro approvazione non puo' aver luogo durante la sessione, i membri comunicheranno alla segreteria, entro un congruo termine, le eventuali correzioni.
 
-##### Articolo 11
+#### Articolo 11
 
 Per facilitare i lavori, la Commissione puo' costituire
 
@@ -4513,7 +4505,7 @@ ALLEGATO III
 
 REGOLAMENTO D'ARBITRATO
 
-##### Articolo 1
+#### Articolo 1
 
 Numero degli arbitri
 
@@ -4521,7 +4513,7 @@ I tribunali arbitrali costituiti per giudicare su litigi diversi da
 
 quelli tra Stati si comporranno di uno, di tre o di cinque arbitri, secondo gli accordi del compromesso.
 
-##### Articolo 2
+#### Articolo 2
 
 Scelta degli arbitri
 
@@ -4549,7 +4541,7 @@ essere di nazionalita' diversa da quella delle parti.
 
 L'intervento nel litigio d'una parte terza resta senza effetto per quanto concerne la composizione del tribunale arbitrale.
 
-##### Articolo 3
+#### Articolo 3
 
 Compromesso
 
@@ -4567,7 +4559,7 @@ Per l'apertura della procedura arbitrale, il compromesso deve
 
 essere comunicato all'Ufficio centrale.
 
-##### Articolo 4
+#### Articolo 4
 
 Procedura
 
@@ -4585,7 +4577,7 @@ tribunale arbitrale e notificata alle parti tramite l'Ufficio centrale;
 
 d) salvo contraria disposizione di diritto imperativo del luogo ove ha sede il tribunale arbitrale, la sentenza arbitrale non e' suscettibile di ricorso, fatta eccezione tuttavia dei casi di revisione o di nullita'.
 
-##### Articolo 5
+#### Articolo 5
 
 Cancelleria del tribunale
 
@@ -4593,13 +4585,13 @@ L'Ufficio centrale funziona come cancelleria del tribunale
 
 arbitrale.
 
-##### Articolo 6
+#### Articolo 6
 
 Spese
 
 La sentenza arbitrale fissa le spese generali e speciali, compresi gli onorari degli arbitri, e decide a quale delle parti ne incomba il pagamento o in quale proporzione dette spese sono suddivise tra le parti medesime.
 
-##### Protocollo addizionale
+#### Protocollo addizionale
 
 PROTOCOLLO ADDIZIONALE
 
@@ -4671,7 +4663,7 @@ FATTO a Berna, il sette febbraio millenovecentosettanta, in un solo
 
 esemplare, che restera' depositato negli Archivi della Confederazione svizzera e cui copia autentica sara' rimessa a ciascuna delle Parti. (Seguono le firme)
 
-##### Protocollo
+#### Protocollo
 
 PROTOCOLLO
 
@@ -4709,7 +4701,7 @@ esemplare, che restera' depositato negli Archivi della Confederazione svizzera e
 
 (Seguono le firme)
 
-##### Protocollo I
+#### Protocollo I
 
 Traduzione non ufficiale
 
@@ -4815,7 +4807,7 @@ FATTO a Berna, il 9 novembre 1973, in un unico esemplare, che
 
 restera' depositato presso gli Archivi della Confederazione Elvetica e di cui una copia autentica verra' inviata a ciascuna delle Parti. (Seguono le firme).
 
-##### Protocollo III
+#### Protocollo III
 
 Traduzione non ufficiale
 

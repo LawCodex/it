@@ -38,11 +38,9 @@ E M A N A
 
 il seguente decreto legislativo:
 
-## TITOLO I - PROGRAMMI DI CESSIONE
+## TITOLO I - PROGRAMMI DI CESSIONE E NUOVO MODELLO GESTIONALE
 
-### E NUOVO MODELLO GESTIONALE
-
-#### Art. 1
+### Art. 1
 
 Ambito di applicazione e finalita'
 
@@ -68,7 +66,7 @@ AGGIORNAMENTO (4)
 
 La L. 23 agosto 2004, n. 243 ha disposto (con l'art. 1, comma 38) che il comma 1 del presente articolo, "si interpreta nel senso che la disciplina afferente alla gestione dei beni, alle forme del trasferimento della proprieta' degli stessi e alle forme di realizzazione di nuovi investimenti immobiliari contenuta nel medesimo decreto legislativo, non si applica agli enti privatizzati ai sensi del decreto legislativo 30 giugno 1994, n. 509, ancorche' la trasformazione in persona giuridica di diritto privato sia intervenuta successivamente alla data di entrata in vigore del medesimo decreto legislativo n. 104 del 1996."
 
-#### Art. 2
+### Art. 2
 
 Avvio del nuovo processo gestionale
 
@@ -106,7 +104,7 @@ d) il conferimento degli immobili a societa' immobiliari delle quali i fondi pen
 
 > d) sottoscrizione o acquisizione di azioni o quote di societa' immobiliari nelle quali il fondo pensione puo' detenere partecipazioni anche superiori ai limiti di cui al comma 5, lettera a), nonche' di quote di fondi comuni di investimento immobiliare chiusi nei limiti di cui alla lettera e)".
 
-#### Art. 3
+### Art. 3
 
 Affidamento della gestione a soggetti specializzati
 
@@ -120,7 +118,7 @@ Affidamento della gestione a soggetti specializzati
 
 5\. Al fine di favorire l'accesso alle gare anche ad operatori piccoli e medi puo' prevedersi un dimensionamento dei lotti che tenga conto dell'articolazione dimensionale del sistema di imprese che operano nel settore.
 
-#### Art. 4
+### Art. 4
 
 Contenuti dei contratti di gestione
 
@@ -144,7 +142,7 @@ h) affidamento della manutenzione ordinaria e straordinaria degli immobili ad im
 
 2\. Le societa' di gestione, nell'esercizio delle loro attribuzioni funzionali, relazionano semestralmente agli enti previdenziali loro mandanti.
 
-#### Art. 5
+### Art. 5
 
 Caratteristiche delle societa' di gestione
 
@@ -154,7 +152,7 @@ a) oggetto sociale prevalente di erogazione di servizi di gestione di beni immob
 
 b) professionalita', competenza ed esperienza effettiva nell'espletamento di servizi di gestione di beni immobili per conto terzi, della natura di cui alla lettera a) del presente comma. Detta esperienza di servizio dovra' essere relativa ad una dimensione patrimoniale valutata in termini di numero o valore non inferiore al 50 per cento della dimensione patrimoniale cui si riferisce il mandato da conferire e deve essere comprovata in particolare da una quota di fatturato maggioritaria realizzata da tali societa' nel biennio precedente nello specifico campo di attivita' dell'erogazione di servizi di gestione di beni immobili per conto terzi.
 
-#### Art. 6
+### Art. 6
 
 Piani di alienazione e criteri per la vendita
 
@@ -220,7 +218,7 @@ b) con il trasferimento immediato della proprieta' o del possesso dell'immobile 
 
 > 2-bis. Nei casi in cui, alla prima scadenza del contratto successiva alla data di entrata in vigore della legge di conversione del presente decreto, le parti non concordino sulla determinazione del canone, il contratto stesso e' prorogato di diritto per due anni".
 
-#### Art. 7
+### Art. 7
 
 Attuazione delle alienazioni
 
@@ -234,13 +232,13 @@ b) professionalita', competenza ed esperienza effettiva e consolidata nell'esple
 
 3\. Il capitolato posto a base della gara individua, tra l'altro, in conformita' ai piani di dismissione, gli immobili o porzioni di essi da vendere, il prezzo base di vendita e le eventuali dilazioni di pagamento garantite da ipoteca, il periodo di durata dell'incarico, le garanzie prestate anche mediante fideiussione delle societa', il compenso ad esse spettante da stabilire in misura percentuale della vendita.
 
-#### Art. 8
+### Art. 8
 
 Immobili utilizzati per finalita' di pubblico interesse
 
 1\. Nella cessione di immobili gia' direttamente utilizzati da enti e soggetti pubblici per finalita' di pubblico interesse di particolare rilevanza sociale, nonche' di immobili comunque aventi una rilevante utilizzazione sociale, sono ricercate idonee soluzioni alternative quali l'alienazione con la continuita' del contratto di locazione, la permuta o l'offerta di immobili, sentito il parere dell'Osservatorio di cui all'art. 10.
 
-#### Art. 9
+### Art. 9
 
 Cessione tramite conferimento
 
@@ -272,7 +270,7 @@ Cessione tramite conferimento
 
 > 4\. La custodia delle partecipazioni di cui al comma 1, lettera b), e dei titoli e valori mobiliari di cui al comma 1, lettera c), deve essere affidata ad una banca depositaria. Si applicano le disposizioni dell'art. 2-bis della citata legge n. 77 del 1983, e successive modificazioni. 5. Le societa' di gestione non possono investire in un unico bene immobile avente caratteristiche urbanistiche e funzionali unitarie, piu' di un terzo del patrimonio netto di ciascun fondo gestito. 6. Il patrimonio del fondo non puo' essere investito in attivita' direttamente o indirettamente cedute da un socio, amministratore, direttore o dipendente della societa' di gestione o da un altro fondo gestito dalla medesima societa' ovvero da altre societa' facenti parte del medesimo gruppo o da loro soci, amministratori, direttori o dipendenti, o da soggetti che le abbiano acquistate dalle stesse societa'. A tal fine, a pena di nullita' dei contratti di acquisto, in questi ultimi devono essere riportati, a cura dei notaio rogante ove siano stipulati per atto pubblico, gli estremi identificativi dei soggetti da cui i cedenti hanno acquisito le attivita' stesse. Agli effetti di cui al presente comma, per gruppo di appartenenza della societa' di gestione si intende quello definito dall'art. 4, comma 3, della citata legge n. 1 del 1991. 6-bis. Relativamente agli investimenti del fondo in attivita' direttamente o indirettamente cedute dallo Stato, da enti previdenziali pubblici, da regioni, da enti locali o loro consorzi nonche' da societa' interamente possedute, anche indirettamente, dagli stessi soggetti, non operano i divieti di cui ai commi 5 e 6. 6-ter. A pena di nullita' dei contratti di vendita, le attivita' patrimoniali del fondo non possono essere cedute direttamente o indirettamente ad un socio, amministratore, direttore o dipendente della societa' di gestione o ad altro fondo gestito dalla medesima societa' ovvero ad altre societa' facenti parte del medesimo gruppo ed a loro soci, amministratori, direttori o dipendenti. Si applica l'ultimo periodo del comma 6. 7. Le societa' di gestione nella gestione di ciascun fondo possono assumere prestiti nel limite massimo del 25 per cento del patrimonio netto del fondo stesso, esclusivamente nella forma di finanziamenti ipotecari finalizzati all'acquisto di beni immobili o all'assunzione di partecipazioni nelle societa' di cui al comma 1, lettera b). Le societa' di gestione non possono concedere prestiti sotto alcuna forma. 8. Gli investimenti di cui al comma 1, lettera c), non possono essere inferiori al 10 per cento ne' superiori al 20 per cento del patrimonio netto del fondo".
 
-#### Art. 10
+### Art. 10
 
 Osservatorio sul patrimonio immobiliare degli enti previdenziali
 
@@ -304,7 +302,7 @@ AGGIORNAMENTO (2)
 
 La L. 23 dicembre 2000, n. 388 ha disposto (con l'art. 47, comma 1) che " Al fine di favorire il completamento dei processi di dismissione dei patrimoni immobiliari degli enti previdenziali pubblici, il termine di durata dell'operativita' dell'Osservatorio sul patrimonio immobiliare degli enti previdenziali pubblici, istituito ai sensi dell'articolo 10 del decreto legislativo 16 febbraio 1996, n. 104, e' differito di ventiquattro mesi."
 
-#### Art. 11
+### Art. 11
 
 Nuovi investimenti
 
@@ -318,7 +316,7 @@ Nuovi investimenti
 
 5\. Il Ministro del lavoro e della previdenza sociale relaziona ai sensi dell'articolo 12, comma 2, alle competenti commissioni parlamentari sull'andamento dei nuovi investimenti immobiliari degli enti.
 
-#### Art. 12
+### Art. 12
 
 Vigilanza e relazioni al Parlamento
 
@@ -326,13 +324,13 @@ Vigilanza e relazioni al Parlamento
 
 2\. Il Ministro del lavoro e della previdenza sociale relaziona annualmente alle competenti commissioni parlamentari sull'andamento della gestione del patrimonio immobiliare degli enti previdenziali, sui piani di gestione e dismissione da questi ultimi adottati e posti in attuazione e sui nuovi investimenti immobiliari dei medesimi enti, evidenziando nell'ambito di articolate relazioni semestrali i progressi realizzati nel miglioramento della redditivita' e l'avanzamento nell'esecuzione del programma di dismissione.
 
-#### Art. 13
+### Art. 13
 
 Adeguamento delle strutture degli enti di previdenza
 
 1\. Gli enti previdenziali pubblici di cui all'articolo 1, comma 1, conformano la propria struttura organizzativa alle modifiche connesse all'attuazione del presente decreto.
 
-#### Art. 14
+### Art. 14
 
 Soppressione della DIEP e dell'IGEI
 
@@ -340,7 +338,7 @@ Soppressione della DIEP e dell'IGEI
 
 ## TITOLO II - DISPOSIZIONI TRANSITORIE E FINALI
 
-#### Art. 15
+### Art. 15
 
 Criteri di assegnazione in locazione delle
 

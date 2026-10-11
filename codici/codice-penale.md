@@ -1642,9 +1642,7 @@ Nei casi preveduti dall'articolo 84, per il reato complesso si procede sempre di
 
 ### TITOLO QUINTO - ((DELLA NON PUNIBILITA' PER PARTICOLARE TENUITA' DEL FATTO. DELLA MODIFICAZIONE, APPLICAZIONE ED ESECUZIONE DELLA PENA))
 
-#### CAPO I
-
-##### ((Della non punibilita' per particolare tenuita' del fatto. Della - modificazione e applicazione della pena))
+#### CAPO I - ((Della non punibilita' per particolare tenuita' del fatto. Della modificazione e applicazione della pena))
 
 ###### Art. 131-bis - Esclusione della punibilita' per particolare tenuita' del fatto
 
@@ -7808,11 +7806,9 @@ Alla stessa sanzione soggiace chi si arroga dignita' o gradi accademici, titoli,
 
 Per le violazioni di cui al presente articolo si applica la sanzione amministrativa accessoria della pubblicazione del provvedimento che accerta la violazione con le modalita' stabilite dall'articolo 36 e non e' ammesso il pagamento in misura ridotta previsto dall'articolo 16 della legge 24 novembre 1981, n. 689.
 
-### TITOLO OTTAVO - ((DEI DELITTI CONTRO L'ECONOMIA PUBBLICA,
+### TITOLO OTTAVO - ((DEI DELITTI CONTRO L'ECONOMIA PUBBLICA, L'INDUSTRIA, IL COMMERCIO E IL PATRIMONIO AGROALIMENTARE))
 
-#### L'INDUSTRIA, IL COMMERCIO E - IL PATRIMONIO AGROALIMENTARE))
-
-##### CAPO I - Dei delitti contro l'economia pubblica
+#### CAPO I - Dei delitti contro l'economia pubblica
 
 ###### Art. 499 - Distruzione di materie prime o di prodotti agricoli o industriali ovvero di mezzi di produzione
 
@@ -11534,7 +11530,7 @@ Per i fatti perseguibili a querela preveduti dagli articoli 640, terzo comma, 64
 
 ##### Sezione I - Delle contravvenzioni concernenti l'ordine pubblico e la tranquillita' pubblica
 
-###### § 1 - Delle contravvenzioni concernenti l'inosservanza dei provvedimenti di polizia e le manifestazioni sediziose e pericolose
+**§ 1 - Delle contravvenzioni concernenti l'inosservanza dei provvedimenti di polizia e le manifestazioni sediziose e pericolose**
 
 ###### Art. 650 - Inosservanza dei provvedimenti dell'Autorita'
 
@@ -11596,7 +11592,7 @@ Chiunque, in un luogo pubblico o aperto al pubblico, ovvero col mezzo del telefo
 
 Chiunque, pubblicamente, cerca con qualsiasi impostura, anche gratuitamente, di abusare della credulita' popolare ((e' soggetto)), se dal fatto puo' derivare un turbamento dell'ordine pubblico, ((alla sanzione amministrativa pecuniaria da euro 5.000 a euro 15.000)).
 
-###### § 2 - Delle contravvenzioni concernenti la vigilanza sui mezzi di pubblicita'
+**§ 2 - Delle contravvenzioni concernenti la vigilanza sui mezzi di pubblicita'**
 
 ###### Art. 662
 
@@ -11636,7 +11632,7 @@ Chiunque stacca, lacera o rende comunque inservibili o illeggibili scritti o dis
 
 Se si tratta di scritti o disegni fatti affiggere da privati, nei luoghi e nei modi consentiti dalla legge o dall'Autorita', ((si applica la sanzione amministrativa pecuniaria da lire centomila a seicentomila)).
 
-###### § 3 - Delle contravvenzioni concernenti la vigilanza su talune industrie e sugli spettacoli pubblici
+**§ 3 - Delle contravvenzioni concernenti la vigilanza su talune industrie e sugli spettacoli pubblici**
 
 ###### Art. 665
 
@@ -11686,7 +11682,7 @@ Se il fatto e' commesso contro il divieto dell'Autorita', si applica la sanzione
 
 Il fatto si considera commesso in pubblico se ricorre taluna delle circostanze indicate nei numeri 2° e 3° dell'articolo 266.
 
-###### § 4 - Delle contravvenzioni concernenti la vigilanza sui mestieri girovaghi e la prevenzione dell'accattonaggio
+**§ 4 - Delle contravvenzioni concernenti la vigilanza sui mestieri girovaghi e la prevenzione dell'accattonaggio**
 
 ###### Art. 669 - Esercizio abusivo di mestieri girovaghi
 
@@ -11724,7 +11720,7 @@ Salvo che il fatto costituisca piu' grave reato, chiunque esercita l'accattonagg
 
 ##### Sezione II - Delle contravvenzioni concernenti l'incolumita' pubblica
 
-###### § 1 - Delle contravvenzioni concernenti l'incolumita' delle persone nei luoghi di pubblico transito o nelle abitazioni
+**§ 1 - Delle contravvenzioni concernenti l'incolumita' delle persone nei luoghi di pubblico transito o nelle abitazioni**
 
 ###### Art. 672 - Omessa custodia e mal governo di animali
 
@@ -11774,7 +11770,7 @@ Il proprietario di un edificio o di una costruzione che minacci rovina ovvero ch
 
 Se dai fatti preveduti dalle disposizioni precedenti deriva pericolo per le persone, la pena e' dell'arresto fino a sei mesi o dell'ammenda non inferiore a lire tremila.
 
-###### § 2 - Delle contravvenzioni concernenti la prevenzione di infortuni nelle industrie o nella custodia di materie esplodenti
+**§ 2 - Delle contravvenzioni concernenti la prevenzione di infortuni nelle industrie o nella custodia di materie esplodenti**
 
 ###### Art. 678 - Fabbricazione o commercio abusivi di materie esplodenti
 
@@ -11806,7 +11802,7 @@ Chiunque apre o tiene aperti luoghi di pubblico spettacolo, trattenimento o ritr
 
 ##### Sezione III - Delle contravvenzioni concernenti la prevenzione di talune specie di reati
 
-###### § 1 - Delle contravvenzioni concernenti la tutela preventiva dei segreti
+**§ 1 - Delle contravvenzioni concernenti la tutela preventiva dei segreti**
 
 ###### Art. 682 - Ingresso arbitrario in luoghi, ove l'accesso e' vietato nell'interesse militare dello Stato
 
@@ -11832,7 +11828,7 @@ Chiunque s'introduce in luoghi, nei quali l'accesso e' vietato nell'interesse mi
 
 ((Chiunque pubblica i nomi dei giudici, con l'indicazione dei voti individuali che ad essi si attribuiscono nelle deliberazioni prese in un procedimento penale, e' punito con l'arresto fino a quindici giorni o con l'ammenda da lire cinquantamila a duecentomila)).
 
-###### § 2 - Delle contravvenzioni concernenti la prevenzione dell'alcoolismo e dei delitti commessi in stato di ubriachezza
+**§ 2 - Delle contravvenzioni concernenti la prevenzione dell'alcoolismo e dei delitti commessi in stato di ubriachezza**
 
 ###### Art. 686 - Fabbricazione o commercio abusivi di liquori o droghe, o di sostanze destinate alla loro composizione
 
@@ -11898,7 +11894,7 @@ Chiunque somministra bevande alcooliche a una persona in stato di manifesta ubri
 
 Qualora il colpevole sia esercente un'osteria o un altro pubblico spaccio di cibi o bevande, la condanna importa la sospensione dall'esercizio.
 
-###### § 3 - Delle contravvenzioni concernenti la prevenzione di delitti contro la fede pubblica
+**§ 3 - Delle contravvenzioni concernenti la prevenzione di delitti contro la fede pubblica**
 
 ###### Art. 692 - Detenzione di misure e pesi illegali
 
@@ -11930,7 +11926,7 @@ AGGIORNAMENTO (90)
 
 La L. 24 novembre 1981, n. 689 ha disposto (con l'art. 33, comma 1, lettera a)) che "Non costituiscono reato e sono soggette alla sanzione amministrativa del pagamento di una somma di denaro le contravvenzioni previste: a) dagli articoli 669, 672, 687, 693 e 694 del codice penale".
 
-###### § 4 - Delle contravvenzioni concernenti la prevenzione di delitti contro la vita e l'incolumita' individuale
+**§ 4 - Delle contravvenzioni concernenti la prevenzione di delitti contro la vita e l'incolumita' individuale**
 
 ###### Art. 695 - Fabbricazione o commercio non autorizzati di armi
 
@@ -12164,7 +12160,7 @@ Agli effetti delle disposizioni precedenti, per armi si intendono:
 
 2° le bombe, qualsiasi macchina o involucro contenente materie esplodenti, e i gas asfissianti o accecanti.
 
-###### § 5 - Delle contravvenzioni concernenti la prevenzione di delitti contro il patrimonio
+**§ 5 - Delle contravvenzioni concernenti la prevenzione di delitti contro il patrimonio**
 
 ###### Art. 705 - Commercio non autorizzato di cose preziose
 
@@ -12240,7 +12236,7 @@ Alla stessa pena soggiace chi si adopera per fare acquistare o ricevere a qualsi
 
 Il condannato per alcuna delle contravvenzioni prevedute dagli articoli precedenti puo' essere sottoposto alla liberta' vigilata.
 
-###### § 6 - Delle contravvenzioni concernenti la custodia ((...)), di minori o di persone detenute
+**§ 6 - Delle contravvenzioni concernenti la custodia ((...)), di minori o di persone detenute**
 
 ###### Art. 714
 

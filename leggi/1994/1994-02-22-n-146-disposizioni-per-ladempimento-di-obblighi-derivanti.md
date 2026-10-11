@@ -26,11 +26,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 PROMULGA
 
-## TITOLO I - DISPOSIZIONI GENERALI SUI
+## TITOLO I - DISPOSIZIONI GENERALI SUI PROCEDIMENTI PER L'ADEMPIMENTO DEGLI OBBLIGHI COMUNITARI
 
-### PROCEDIMENTI PER L'ADEMPIMENTO DEGLI - OBBLIGHI COMUNITARI
-
-##### ART. 1 - Delega al Governo per l'attuazione di direttive comunitarie
+#### ART. 1 - Delega al Governo per l'attuazione di direttive comunitarie
 
 1\. Il Governo e' delegato ad emanare, entro il termine di un anno dalla data di entrata in vigore della presente legge, i decreti legislativi recanti le norme occorrenti per dare attuazione alle direttive comprese nell'elenco di cui all'allegato A. ((2))
 
@@ -48,7 +46,7 @@ AGGIORNAMENTO (2)
 
 La L. 6 febbraio 1996, n. 52 ha disposto (con l'art. 6, comma 1) che " Il termine di cui all'articolo 1, comma 1, della legge 22 febbraio 1994, n. 146, per quanto attiene all'attuazione delle direttive di cui agli articoli 20, 26, 28 limitatamente alle direttive 92/65/CEE e 92/118/CEE, 33, 37, 38 e 57 della legge medesima, e' sostituito dal termine di cui all'articolo 1, comma 1, della presente legge."
 
-##### ART. 2 - Criteri e principi direttivi generali della delega legislativa
+#### ART. 2 - Criteri e principi direttivi generali della delega legislativa
 
 1\. Salvi gli specifici principi e criteri direttivi dettati negli articoli seguenti ed in aggiunta a quelli contenuti nelle direttive da attuare, i decreti legislativi di cui all'articolo 1 saranno informati ai seguenti principi e criteri generali:
 
@@ -94,7 +92,7 @@ h) i decreti legislativi assicureranno in ogni caso che, nelle materie trattate 
 
 > L'art. 11- ter, comma 2, recita: "2. I disegni di legge e gli emendamenti di iniziativa governativa che comportino nuove o maggiori spese ovvero diminuzioni di entrate devono essere corredati da una relazione tecnica, predisposta dalle amministrazioni competenti e verificata dal Ministero del tesoro, sulla quantificazione degli oneri recati da ciascuna disposizione e delle relative coperture, con la specializzazione, per la spesa corrente e per le minori entrate degli oneri annuali fino alla completa attuazione delle norme e, per le spese in conto capitale, della modulazione relativa agli anni compresi nel bilancio pluriennale e dell'onere complessivo in relazione agli obiettivi fisici previsti. Nella relazione sono indicati i dati e i metodi utilizzati per la quantificazione, le loro fonti e ogni elemento utile per la verifica tecnica in sede parlamentare secondo le norme da adottare con i regolamenti parlamentari".
 
-##### ART. 3 - Modificazione dell'articolo 4 della legge 9 marzo 1989, n. 86
+#### ART. 3 - Modificazione dell'articolo 4 della legge 9 marzo 1989, n. 86
 
 1\. Il comma 4 dell'articolo 4 della legge 9 marzo 1989, n. 86, e' sostituito dal seguente:
 
@@ -118,7 +116,7 @@ h) i decreti legislativi assicureranno in ogni caso che, nelle materie trattate 
 
 > "1. Fermo quanto previsto dall'art. 20 della legge 16 aprile 1987, n. 183, la legge comunitaria puo' disporre che, all'attuazione di ciascuna modifica delle direttive da attuare mediante regolamento a norma dell'articolo 4, si provveda con la procedura di cui ai commi 4 e 5 del medesimo articolo".
 
-##### ART. 4 - Attuazione di direttive comunitarie in via regolamentare
+#### ART. 4 - Attuazione di direttive comunitarie in via regolamentare
 
 1\. Il Governo e' autorizzato ad attuare in via regolamentare, a norma degli articoli 3, comma 1, lettera c), e 4 della legge 9 marzo 1989, n. 86, le direttive comprese nell'elenco di cui all'allegato C, applicando anche il disposto dell'articolo 5, comma 1, della medesima legge n. 86 del 1989.
 
@@ -160,7 +158,7 @@ h) i decreti legislativi assicureranno in ogni caso che, nelle materie trattate 
 
 > 2\. Le disposizioni del comma 1 e dell'art. 4 sono applicabili, ove occorra, anche per l'attuazione degli altri provvedimenti comunitari di cui all'art. 1, comma 1, lettera a)".
 
-##### ART. 5 - Attuazione di direttive comunitarie in via amministrativa
+#### ART. 5 - Attuazione di direttive comunitarie in via amministrativa
 
 1\. Ai sensi dell'articolo 4, comma 8, della legge 9 marzo 1989, n. 86, le direttive da attuare in via amministrativa sono comprese nell'elenco di cui all'allegato E.
 
@@ -168,7 +166,7 @@ h) i decreti legislativi assicureranno in ogni caso che, nelle materie trattate 
 
 > \- Per la legge n. 86/1989 vedi nota precedente.
 
-##### ART. 6 - Delega al Governo per il completamento dell'attuazione delle leggi 29 dicembre 1990, n. 428, 19 febbraio 1992, n. 142, e 19 dicembre 1992, n. 489
+#### ART. 6 - Delega al Governo per il completamento dell'attuazione delle leggi 29 dicembre 1990, n. 428, 19 febbraio 1992, n. 142, e 19 dicembre 1992, n. 489
 
 1\. La disposizione dettata dall'articolo 1, comma 5, si applica anche ai decreti legislativi emanati in esercizio delle deleghe conferite al Governo con le leggi 29 dicembre 1990, n. 428, e succes- sive modificazioni, 19 febbraio 1992, n. 142, e successive modificazioni, e 19 dicembre 1992, n. 489.
 
@@ -192,7 +190,7 @@ AGGIORNAMENTO (2)
 
 La L. 6 febbraio 1996, n. 52 ha disposto (con l'art. 6, comma 2) che "Il termine di cui all'articolo 6, comma 5, della legge 22 febbraio 1994, n. 146, e' sostituito dal termine di cui all'articolo 1, comma 1, della presente legge limitatamente all'attuazione della direttiva di cui all'articolo 45 della legge 19 febbraio 1992, n. 142."
 
-##### ART. 7 - Delega al Governo per la disciplina sanzionatoria di violazioni di disposizioni comunitarie
+#### ART. 7 - Delega al Governo per la disciplina sanzionatoria di violazioni di disposizioni comunitarie
 
 1\. Al fine di assicurare la piena integrazione delle norme comunitarie nell'ordinamento nazionale, il Governo, salve le norme penali vigenti, e' delegato ad emanare, entro due anni dalla data di entrata in vigore della presente legge, disposizioni recanti sanzioni penali o amministrative per le violazioni di direttive delle Comunita' europee, attuate ai sensi della presente legge in via regolamentare o amministrativa, e di regolamenti comunitari vigenti alla data di entrata in vigore della presente legge.
 
@@ -202,7 +200,7 @@ La L. 6 febbraio 1996, n. 52 ha disposto (con l'art. 6, comma 2) che "Il termine
 
 > \- Per la legge n. 400/1988 vedi nota all'art. 1.
 
-##### ART. 8 - Riordinamento normativo nelle materie interessate dalle direttive comunitarie
+#### ART. 8 - Riordinamento normativo nelle materie interessate dalle direttive comunitarie
 
 1\. Il Governo e' delegato ad emanare, entro due anni dalla data di entrata in vigore della presente legge, testi unici delle disposizioni dettate in attuazione della delega prevista dall'articolo 1, coordinandovi le norme vigenti nelle stesse materie ed apportando alle medesime le integrazioni e modificazioni necessarie al predetto coordinamento.
 
@@ -216,13 +214,11 @@ La L. 6 febbraio 1996, n. 52 ha disposto (con l'art. 6, comma 2) che "Il termine
 
 > "2. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il Consiglio di Stato, sono emanati i regolamenti per la disciplina delle materie, non coperte da riserva assoluta di legge prevista dalla Costituzione, per le quali le leggi della Repubblica, autorizzando l'esercizio della potesta' regolamentare del Governo, determinano le norme generali regolatrici della materia e dispongono l'abrogazione delle norme vigenti, con effetto dall'entrata in vigore delle norme regolamentari".
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### DIRETTO E CRITERI SPECIALI - DI DELEGA LEGISLATIVA
+### CAPO I - LIBERA CIRCOLAZIONE
 
-#### CAPO I - LIBERA CIRCOLAZIONE
-
-##### ART. 9 - Riconoscimento dei titoli professionali: criteri di delega
+#### ART. 9 - Riconoscimento dei titoli professionali: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 92/51/CEE sara' informata ai seguenti principi e criteri direttivi:
 
@@ -242,7 +238,7 @@ e) indicare le attivita' professionali il cui esercizio richieda una precisa con
 
 > \- Il D.Lgs. 27 gennaio 1992, n. 115, concerne l'attuazione della direttiva n. 89/48/CEE relativa ad un sistema generale di riconoscimento dei diplomi di istruzione superiore che sanzionano formazioni professionali di una durata minima di tre anni.
 
-##### ART. 10 - Equiparazione dei cittadini comunitari ai cittadini italiani nel settore delle professioni
+#### ART. 10 - Equiparazione dei cittadini comunitari ai cittadini italiani nel settore delle professioni
 
 1\. I cittadini degli Stadi membri della Comunita' europea sono equiparati ai cittadini italiani ai fini dell'iscrizione negli Albi dei procuratori e degli avvocati di cui agli articoli 17 e 27 del regio decreto-legge 27 novembre 1933, n. 1578, convertito, con modificazioni, dalla legge 22 gennaio 1934, n. 36, recante ordinamento delle professioni di avvocato e procuratore. Ai fini dell'esercizio in Italia dell'attivita' di investigatore privato, ai sensi dell'articolo 134 del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 18 giugno 1931, n. 773, i cittadini degli Stati membri della Comunita' europea sono equiparati ai cittadini italiani.
 
@@ -286,11 +282,11 @@ e) indicare le attivita' professionali il cui esercizio richieda una precisa con
 
 > La licenza non puo' essere conceduta per operazioni che importano un esercizio di pubbliche funzioni o una menomazione della liberta' individuale".
 
-##### Art. 11
+#### Art. 11
 
 (( ARTICOLO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163 ))
 
-##### ART. 12 - Diritti di noleggio e prestito e altri diritti connessi in materia di diritto di autore: criteri di delega
+#### ART. 12 - Diritti di noleggio e prestito e altri diritti connessi in materia di diritto di autore: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 92/100/CEE sara' informata ai seguenti principi e criteri direttivi:
 
@@ -310,7 +306,7 @@ e) dovranno essere previste disposizioni transitorie per atti e contratti fatti 
 
 > \- La legge 22 aprile 1941, n. 633, concerne la protezione del diritto d'autore e di altri diritti commessi al suo esercizio.
 
-##### ART. 13 - Soppressione di riserve o preferenze per i prodotti nazionali nelle forniture pubbliche
+#### ART. 13 - Soppressione di riserve o preferenze per i prodotti nazionali nelle forniture pubbliche
 
 1\. L'articolo 5-bis del regio decreto 18 novembre 1923 n. 2440, introdotto con l'articolo 3 del decreto del Presidente della Repubblica 30 giugno 1972, n. 627, e' sostituito dal seguente:
 
@@ -362,7 +358,7 @@ e) dovranno essere previste disposizioni transitorie per atti e contratti fatti 
 
 > Le regioni sono tenute a comunicare semestralmente al Ministero dei trasporti lo stato della spesa dei fondi concessi".
 
-##### ART. 14 - Salvaguardia del capitale delle societa' per azioni: criteri di delega
+#### ART. 14 - Salvaguardia del capitale delle societa' per azioni: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 92/101/CEE sara' informata ai seguenti principi e criteri direttivi:
 
@@ -408,11 +404,11 @@ d) prevedere che, nel caso di partecipazioni reciproche, che intercorrano fra so
 
 > Per le plusvalenze delle azioni o quote alienate in ottemperanza alle norme del presente articolo e nei termini ivi stabiliti si applicano le disposizioni dell'articolo 54 del testo unico delle imposte sui redditi, approvato con D.P.R. 22 dicembre 1986, n. 917".
 
-##### ART. 15
+#### ART. 15
 
 ((ARTICOLO ABROGATO DALLA L. 24 APRILE 1998, N. 128))
 
-##### ART. 16 - Abrogazione di norme discriminatorie in danno dei cittadini italiani nei confronti dei cittadini stranieri in materia di licenze aeronautiche comunitarie
+#### ART. 16 - Abrogazione di norme discriminatorie in danno dei cittadini italiani nei confronti dei cittadini stranieri in materia di licenze aeronautiche comunitarie
 
 1\. Il comma 3 dell'articolo 1 del decreto del Presidente della Repubblica 30 dicembre 1992, n. 560, e' abrogato.
 
@@ -432,13 +428,11 @@ d) prevedere che, nel caso di partecipazioni reciproche, che intercorrano fra so
 
 > "Art. 2. - 1. Qualora la licenza da convalidare non risponda ai requisiti di equivalenza delle licenze aeronautiche italiane, si applicano i criteri stabiliti dall'art. 4 della direttiva 91/670/CEE, indicata nelle premesse".
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### DIRETTO E CRITERI SPECIALI - DI DELEGA LEGISLATIVA
+### CAPO II - ASSICURAZIONI
 
-#### CAPO II - ASSICURAZIONI
-
-##### ART. 17 - Assicurazione vita: criteri di delega
+#### ART. 17 - Assicurazione vita: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 92/96/CEE sara' informata ai seguenti principi e criteri direttivi:
 
@@ -520,7 +514,7 @@ r) verra' previsto che le imprese aventi sede legale nel territorio della Repubb
 
 > " a) 10% del totale delle riserve tecniche lorde in un singolo terreno o fabbricato o in piu' terreni o fabbricati sufficientemente vicini per essere considerati effettivamente come unico investimento;".
 
-##### ART. 18 - Assicurazione nei rami diversi da quelli relativi alla vita: criteri di delega
+#### ART. 18 - Assicurazione nei rami diversi da quelli relativi alla vita: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 92/49/CEE sara' informata ai seguenti principi e criteri direttivi:
 
@@ -570,7 +564,7 @@ n) sul contratto o qualsiasi documento che conceda la copertura, nonche' sulla p
 
 > 1\) depositi in numerario e in conto corrente presso la Banca d'Italia, la Cassa depositi e prestiti, l'Amministrazione postale e gli istituti e le aziende di credito di cui all'art. 54 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, approvato con regio decreto 23 maggio 1924, n. 827, e successive modificazioni; 2) titoli di Stato, compresi i buoni ordinari e poliennali e i certificati di credito del Tesoro, buoni fruttiferi postali, cartelle di credito comunale e provinciale emesse dalla Cassa depositi e prestiti, obbligazioni o titoli emessi da amministrazioni statali anche con ordinamento autonomo, obbligazioni emesse da regioni, province e comuni e da enti pubblici istituiti esclusivamente per l'adempimento di funzioni statali, titoli emessi dalla Cassa depositi e prestiti nonche' da altri istituti autorizzati ad esercitare il credito fondiario sul territorio della Repubblica per il finanziamento dell'edilizia economica e popolare, ivi inclusa l'edilizia convenzionata; 3) titoli emessi dagli istituti, diversi da quelli indicati al successivo numero 9), autorizzati all'esercizio del credito speciale di cui all'art. 41 del regio decreto-legge 12 marzo 1936, n. 375, convertito in legge, con modificazioni, dalla legge 7 marzo 1938, n. 141, e successive modificazioni e integrazioni; 4) annualita' dovute dallo Stato italiano acquisite dalle imprese mediante cessione o surrogazione; 5) obbligazioni in lire emesse dalla BEI, dalla CECA e dalla BIRS o da altri organismi internazionali riconosciuti dallo Stato italiano e obbligazioni in valuta estera emesse da enti pubblici italiani, dalla BEI, dalla CECA, dall'EURATOM e dalla BIRS o da altri organismi internazionali riconosciuti dallo Stato italiano; 6) beni immobili situati nel territorio della Repubblica per le quote libere da ipoteche; 7) mutui, debitamente garantiti, a comuni, prov- ince e regioni e ad altri enti pubblici, mutui garantiti da ipoteca di primo grado su beni immobili per una somma che non ecceda la meta' del valore degli immobili stessi debitamente accertato; tale limite potra' arrivare fino all'80 per cento qualora il mutuo sia concesso a cooper- ative o consorzi di cooperative costituiti ai sensi del decreto legislativo del Capo provvisorio dello Stato 14 dicembre 1947, n. 1577, ratificato, con modificazioni, dalla legge 2 aprile 1951 n. 302, e successive modificazioni ed integrazioni; 8) quote di partecipazioni al capitale della Banca d'Italia, dell'Istituto mobiliare italiano, dei Mediocrediti regionali, delle Casse di risparmio e del Consorzio di credito per le opere pubbliche: azioni dell'Istituto italiano di credito fondiario; 9) obbligazioni dell'ISVEIMER, dell'IRFIS, del CIS, dell'IRI, dell'ENEL, dell'EFIM, dell'IMI, del C.C.OO.PP. e del Mediocredito centrale ed azioni ed obbligazioni di societa' da queste controllate nonche' di societa' nazionali le cui azioni siano quotate in borsa o al mercato ristretto da almeno tre anni, o il cui bilancio sia da almeno tre anni sottoposto a revisione da parte di una societa' iscritta nell'albo speciale di cui all'art. 8 del decreto del Presidente della Repubblica 31 marzo 1975, n. 136, e quote di societa' cooperative i cui bilanci siano stati certificati da almeno tre anni. Il valore dell'investimento in titoli di una stessa societa' non puo' comunque superare il 7 per cento dell'ammontare delle riserve tecniche ne, se si tratta di azioni o quote, il 20 per cento del capitale della socita' emittente. Non e' consentita la copertura delle riserve tecniche con azioni o quote emesse dalle societa' controllate di cui al numero 3) del primo comma dell'articolo 2359 del codice civile; 10) azioni o quote di societa' di capitale, delle quali l'impresa detenga piu' della meta' del capitale sociale, che abbiano per oggetto esclusivo la costruzione o la gestione di immobili per l'edilizia residenziale non di lusso, per l'importo iscritto in bilancio nel limite del valore economico degli immobili della societa' assunto in proporzione alla quota di capitale sociale detenuta al netto dei debiti; 11) azioni o quote di societa' di capitale, delle quali l'impresa detenga piu' della meta' del capitale sociale, che abbiano per oggetto esclusivo la costruzione o la gestione di immobili, ad uso industriale o commerciale o l'esercizio dell'attivita' agricola, per l'importo iscritto in bilancio nel limite del valore economico degli immobili della societa' assunto in proporzione alla quota di capitale sociale detenuta ed al netto dei debiti; 12) azioni emesse da societa' aventi sede legale nella Comunita' economica europea e quotate da almeno cinque anni nella borsa valori del Paese della sede legale; 13) quote di fondi di investimento; 14) accettazioni bancarie rilasciate da istituti ed aziende di credito con patrimonio (capitale versato e riserve patrimoniali) non inferiore a 50 miliardi; 15) provvigioni d'acquisto da ammortizzare nei limiti dei corrispondenti caricamenti dei premi e per un periodo massimo di ammortamento pari alla durata di ciascun contratto e comunque non superiore a dieci anni; 16) previa autorizzazione del Ministro dell'industria, del commercio e dell'artigianato, da rilasciarsi, su parere dell'ISVAP, in ogni singolo caso, tenendo conto della liquidita', della sicurezza e della redditivita' dell'investimento, disonibilita' diverse da quelle indicate ai numeri precedenti o non rispondenti alle prescrizioni ed ai limiti ivi previsti. Potranno inoltre essere destinate a copertura delle riserve tecniche le seguenti attivita': a) crediti verso i riassicuratori, comprese le quote delle riserve tecniche a loro carico al netto delle partite debitorie, fino al 90 per cento del loro ammontare; b) crediti liquidi nei confronti dei propri agenti nel limite di un ventiquattresimo dei premi emessi al netto dei debiti nei confronti degli agenti stessi nonche' crediti per quote di premi in corso di riscossione nel limite del 12 per cento dei premi emessi. Le attivita' ammesse a copertura delle riserve tecniche, da valutarsi al netto di debiti contratti per l'acquisizione delle attivita' stesse, debbono essere di proprieta' dell'impresa e debbono soddisfare al principio di congruenza di cui ai successivi articoli 31- bis e 31-ter. Esse, salvo, per quanto riguarda le attivita' di cui alla lettera a) del predecente comma, debbono essere localizzate nel territorio della Repubblica ai sensi dell'art. 82. Le disposizioni di cui ai precedenti commi non si applicano per le assicurazioni contro i rischi della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti, per le quali resta ferma la disciplina disposta dal decreto- legge 23 dicembre 1976, n. 857, convertito, con modificazioni, nella legge 26 febbraio 1977, n. 39, salvo quanto stabilito dal n. 5) del primo comma, il quale sostituisce, il n. 5) dell'articolo 7 della legge 26 febbraio 1977, n. 39". - Il ramo n. 10 del punto A dell'allegato alla direttiva 73/239/CEE concerne la responsabilita' civile per autoveicoli terrestri.
 
-##### ART. 19 - Accesso all'esercizio dell'assicurazione da parte di imprese aventi sede in Svizzera
+#### ART. 19 - Accesso all'esercizio dell'assicurazione da parte di imprese aventi sede in Svizzera
 
 1\. In attuazione della direttiva del Consiglio 91/371/CEE, le imprese aventi la loro sede sociale in Svizzera sono ammesse ad esercitare le assicurazioni private contro i danni in regime di liberta' di stabilimento, nel rispetto delle norme dettate dalla legge 10 giugno 1978, n. 295, previa autorizzazione del Ministero dell'industria , del commercio e dell'artigianato.
 
@@ -580,7 +574,7 @@ n) sul contratto o qualsiasi documento che conceda la copertura, nonche' sulla p
 
 > \- La legge 10 giugno 1978, n. 295, concerne norme per l'esercizio delle assicurazioni private contro i danni.
 
-##### ART. 20 - Conti annuali e consolidati delle imprese assicuratrici: criteri di delega
+#### ART. 20 - Conti annuali e consolidati delle imprese assicuratrici: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 91/674/CEE sara' informata ai seguenti principi e criteri direttivi:
 
@@ -830,7 +824,7 @@ e) nell'individuazione dei soggetti tenuti a redigere il bilancio consolidato si
 
 > 5\) L'articolo 27, paragrafo 3 della direttiva 83/349/CEE e' applicabile a condizione che la data della chiusura dello stato patrimoniale di un'impresa compresa nel consolidamento non sia anteriore di piu' di sei mesi alla data di chiusura dei conti consolidati. 6) L'articolo 29 della direttiva 83/349/CEE non e' applicabile agli elementi del passivo la cui valutazione da parte delle imprese comprese nel consolidamento e' basata sull'applicazioine di disposizioni specifiche al campo assicurativo ne' agli elementi dell'attivo le cui variazioni di valore inoltre hanno un'incidenza sui diritti dei contraenti dell'assicurazione o ne sono la base. Se e' applicata tale deroga, ne va fatta menzione nell'allegato dei conti consolidati". - La direttiva 78/660/CEE concerne i conti annuali di taluni tipi di societa'. L'art. 4, par. 1, recita: "Art. 4. - 1. nello stato patrimoniale e nel conto profitti e perdite si devono iscrivere separatamente, nell'ordine indicato, le voci previste dagli articoli 9, 10 e da 23 a 26. E' ammessa una suddivisione piu' particolareggiata delle voci, purche' rispetti la struttura degli schemi. Si possono aggiungere nuove voci qualora il loro contenuto non sia compreso in alcuna voce prevista dagli schemi. Siffatta suddivisione o siffatte aggiunte possono essere imposte dagli Stati membri".
 
-##### ART. 21 - Albo dei mediatori di assicurazione
+#### ART. 21 - Albo dei mediatori di assicurazione
 
 1\. Il primo comma dell'articolo 6 della legge 28 novembre 1984, n. 792, e' sostituito dal seguente:
 
@@ -850,13 +844,11 @@ e) nell'individuazione dei soggetti tenuti a redigere il bilancio consolidato si
 
 > L'interessato deve inoltre provare per documento equipollente o dichiarazione sostitutiva il possesso dei requisiti di cui all'articolo 4, primo comma, lettera c) , d), e), f) e g)".
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### DIRETTO E CRITERI SPECIALI - DI DELEGA LEGISLATIVA
+### CAPO III - PROTEZIONE DEL CONSUMATORE
 
-#### CAPO III - PROTEZIONE DEL CONSUMATORE
-
-##### ART. 22 - Norme per l'informazione del consumatore
+#### ART. 22 - Norme per l'informazione del consumatore
 
 1\. Alla legge 10 aprile 1991, n. 126, sono apportate le seguenti modificazioni e integrazioni:
 
@@ -906,7 +898,7 @@ e) il comma 1 dell'articolo 2 e' sostituito dal seguente:
 
 > 2\. Fatto salvo quanto previsto dal decreto del Presidente della Repubblica 24 maggio 1988, n. 224, per quanto attiene alle responsabilita' del produttore, i contravvettori al divieto di cui al comma 1 del presente articolo sono puniti con una sanzione amministrativa da lire un milione a lire cinquanta milioni. La misura della sanzione e' determinata, in ogni singolo caso, facendo riferimento al prezzo di listino di ciascun prodotto ed al numero delle unita' poste in vendita".
 
-##### Art. 23
+#### Art. 23
 
 Divieto di immissione in commercio di alcuni prodotti del tabacco per uso orale, nonche' disposizioni in materia di etichettatura degli altri prodotti da fumo
 
@@ -920,7 +912,7 @@ Divieto di immissione in commercio di alcuni prodotti del tabacco per uso orale,
 
 5\. ((COMMA ABROGATO DAL D.LGS. 24 GIUGNO 2003, N. 184)).
 
-##### ART. 24 - Viaggi, vacanze e circuiti tutto compreso: criteri di delega
+#### ART. 24 - Viaggi, vacanze e circuiti tutto compreso: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 90/314/CEE sara' informata ai seguenti principi e criteri direttivi:
 
@@ -936,13 +928,11 @@ c) l'organizzazione ed il venditore, in relazione alle rispettive responsabilita
 
 > \- La legge 27 dicembre 1977, n. 1084, concerne la ratifica ed esecuzione della convenzione internazionale relativa al contratto di viaggio (CCV) firmata a Bruxelles il 23 aprile 1970.
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### DIRETTO E CRITERI SPECIALI - DI DELEGA LEGISLATIVA
+### CAPO IV - SANITA'
 
-#### CAPO IV - SANITA'
-
-##### ART. 25 - Medicinali omeopatici per uso umano: criteri di delega
+#### ART. 25 - Medicinali omeopatici per uso umano: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 92/73/CEE sara' informata ai seguenti principi e criteri direttivi:
 
@@ -1004,7 +994,7 @@ e) i medicinali omeopatici prodotti in Italia o importati da Paesi della Comunit
 
 > 4\. Alla procedura specifica semplificata di registrazione dei medicinali omeopatici sono applicabili per analogia i criteri e le norme procedurali previsti dagli articoli da 5 a 12 della direttiva 65/65/CEE, eccezion fatta per la prova dell'effetto terapeutico".
 
-##### ART. 26 - Stupefacenti e sostanze psicotrope: criteri di delega
+#### ART. 26 - Stupefacenti e sostanze psicotrope: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 92/109/CEE, relativa alla fabbricazione e all'immissione in commercio di talune sostanze impiegate nella fabbricazione illecita di stupefacenti o di sostanze psicotrope, sara' informata ai seguenti criteri direttivi:
 
@@ -1026,7 +1016,7 @@ f) dettare le connesse e occorrenti disposizioni integrative dei regolamenti CEE
 
 > \- Il D.P.R. 9 ottobre 1990, n. 309 approva il T.U. delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cure e riabilitazione dei relativi stati di tossicodipendenza.
 
-##### ART. 27 - Attuazione di direttive comunitarie in materia di divieti e limitazioni d'uso di sostanze e preparati pericolosi
+#### ART. 27 - Attuazione di direttive comunitarie in materia di divieti e limitazioni d'uso di sostanze e preparati pericolosi
 
 1\. Dopo l'articolo 1 del decreto del Presidente della Repubblica 10 settembre 1982, n. 904, e' aggiunto il seguente:
 
@@ -1036,7 +1026,7 @@ f) dettare le connesse e occorrenti disposizioni integrative dei regolamenti CEE
 
 > \- Il D.P.R. 10 settembre 1982, n. 904, reca attuazione della direttiva (CEE) n. 76/769 relativa all'immissione sul mercato ed all'uso di talune sostanze e preparati pericolosi.
 
-##### ART. 28 - Direttive in materia di sanita' pubblica veterinaria: criteri di delega
+#### ART. 28 - Direttive in materia di sanita' pubblica veterinaria: criteri di delega
 
 1\. L'attuazione delle direttive del Consiglio 92/65/CEE, 92/74/CEE e 92/118/CEE sara' informata ai seguenti principi e criteri direttivi:
 
@@ -1056,7 +1046,7 @@ d) disporre procedure e prove idonee a dimostrare l'efficacia e l'innocuita' del
 
 > \- La dir. 92/118/CEE e' pubblicata in GUCE n. L 62 del 15 marzo 1993.
 
-##### ART. 29 - Commercializzazione dei volatili da cortile e di altri prodotti di origine animale
+#### ART. 29 - Commercializzazione dei volatili da cortile e di altri prodotti di origine animale
 
 1\. L'attuazione delle direttive del Consiglio 92/116/CEE e 92/120/CEE sara' informata ai seguenti criteri:
 
@@ -1068,7 +1058,7 @@ b) definire le norme per le strutture di macellazione operanti in ambiti territo
 
 > \- Le dir. 92/116/CEE e 92/120/CEE sono pubblicate in GUCE n. L 62 del 15 marzo 1993.
 
-##### ART. 30 - Identificazione e registrazione degli animali
+#### ART. 30 - Identificazione e registrazione degli animali
 
 1\. L'attuazione della direttiva del Consiglio 92/102/CEE, relativa alla identificazione e alla registrazione degli animali, sara' informata ai seguenti criteri:
 
@@ -1080,7 +1070,7 @@ b) disciplinare la tenuta dei registri in modo da garantire la semplificazione d
 
 > \- La dir. 92/102/CEE e' pubblicata in GUCE n. L 355 del 5 dicembre 1992.
 
-##### ART. 31 - Prodotti fitosanitari: criteri di delega
+#### ART. 31 - Prodotti fitosanitari: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 91/414/CEE, relativa all'immissione in commercio dei prodotti fitosanitari, sara informata ai seguenti principi e criteri direttivi:
 
@@ -1148,7 +1138,7 @@ g) prevedere che il Ministro della sanita', sentita la Commissione di cui alla l
 
 > \- Per l'art. 17 della legge 23 agosto 1988, n. 400, v. nota all'art. 58.
 
-##### ART. 32 - Assistenza e cooperazione con la Commissione CEE e gli Stati membri in materia di prodotti alimentari
+#### ART. 32 - Assistenza e cooperazione con la Commissione CEE e gli Stati membri in materia di prodotti alimentari
 
 1\. Agli oneri derivanti dall'attuazione, in via amministrativa ai sensi dell'articolo 5, della direttiva 93/5/CEE, del Consiglio del 25 febbraio 1993, si fara' fronte con i proventi delle tariffe per le prestazioni rese dal Ministero della sanita' in applicazione dell'articolo 5, comma 12, della legge 29 dicembre 1990, n. 407.
 
@@ -1160,13 +1150,11 @@ g) prevedere che il Ministro della sanita', sentita la Commissione di cui alla l
 
 > "12. Con decreto del Ministro della sanita', da emanarsi entro trenta giorni dalla data di entrata in vigore della presente legge, sono fissati le tariffe e i diritti spettanti al Ministero della sanita', all'Istituto superiore di sanita' e all'Istituto superiore per la prevenzione e la sicurezza del lavoro, per prestazioni rese a richiesta e ad utilita' di soggetti interessati, tenendo conto del costo reale dei servizi resi e del valore economico delle operazioni di riferimento; le relative entrate sono utilizzate per le attivita' di controllo, di programmazione, di informazione e di educazione sanitaria del Ministero della sanita' e degli Istituti superiori predetti".
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### DIRETTO E CRITERI SPECIALI - DI DELEGA LEGISLATIVA
+### CAPO V - LAVORO
 
-#### CAPO V - LAVORO
-
-##### ART. 33 - Informazione sulle condizioni applicabili al rapporto di lavoro: criteri di delega
+#### ART. 33 - Informazione sulle condizioni applicabili al rapporto di lavoro: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 91/533/CEE sara' informata ai seguenti principi e criteri direttivi:
 
@@ -1194,7 +1182,7 @@ c) prevedere adeguate forme di tutela dei diritti assicurati al lavoratore dalla
 
 > 3\. I paragrafi 1 e 2 non si applicano se la durata del lavoro al di fuori del paese alla cui legislazione e/o alla cui prassi e' soggetto il contratto o il rapporto di lavoro non supera un mese".
 
-##### ART. 34 - Sicurezza e salute dei lavoratori durante il lavoro
+#### ART. 34 - Sicurezza e salute dei lavoratori durante il lavoro
 
 1\. Il Governo e' delegato ad emanare i decreti legislativi di attuazione delle direttive particolari gia' adottate successivamente alla legge 19 febbraio 1992, n. 142, e successive modificazioni, ad eccezione delle direttive 92/57/CEE, 92/58/CEE, 92/85/CEE, 92/91/CEE e 92/104/CEE, comprese negli elenchi di cui agli allegati A e B richiamati dall'articolo 1 della presente legge, o che saranno adottate entro un anno dalla data di entrata in vigore della presente legge dal Consiglio delle Comunita' europee, ai sensi dell'articolo 16, paragrafo 1, della direttiva 89/391/CEE, con le stesse modalita' e con gli stessi criteri di cui agli articoli 1, 2 e 43 della legge 19 febbraio 1992, n. 142, e successive modificazioni, nonche' all'articolo 27 della legge 19 dicembre 1992, n. 489.
 
@@ -1206,7 +1194,7 @@ AGGIORNAMENTO (2)
 
 La L. 6 febbraio 1996, n. 52 ha disposto (con l'art. 6, comma 3) che "I termini di cui all'articolo 34, comma 2, della legge 22 febbraio 1994, n. 146, sono differiti di nove mesi a decorrere dalla data di entrata in vigore della presente legge, salvo per quanto concerne le direttive 92/57/CEE e 92/58/CEE, per l'attuazione delle quali dovra' provvedersi con decreto legislativo da emanare entro sei mesi dalla data di entrata in vigore della presente legge. I decreti per l'attuazione delle direttive di cui al presente comma sono sottoposti al parere delle Commissioni parlamentari competenti per materia."
 
-##### ART. 35 - Impiego del benzene e suoi omologhi nelle attivita' lavorative
+#### ART. 35 - Impiego del benzene e suoi omologhi nelle attivita' lavorative
 
 1\. Le disposizioni di cui al presente articolo relative all'impiego del benzene, del toluene e dello xilene si applicano a tutte le attivita' alle quali siano addetti prestatori di lavoro, ivi compresi quelli che svolgono attivita' artigiane.
 
@@ -1226,13 +1214,11 @@ La L. 6 febbraio 1996, n. 52 ha disposto (con l'art. 6, comma 3) che "I termini 
 
 > \- La legge 5 marzo 1963, n. 245, concerne la limitazione dell'impiego del benzolo e sui omologhi nelle attivita' lavorative.
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### DIRETTO E CRITERI SPECIALI - DI DELEGA LEGISLATIVA
+### CAPO VI - AMBIENTE E AGRICOLTURA
 
-#### CAPO VI - AMBIENTE E AGRICOLTURA
-
-##### ART. 36 - Tutela dell'ambiente: criteri di delega
+#### ART. 36 - Tutela dell'ambiente: criteri di delega
 
 1\. L'attuazione delle direttive in materia di tutela delle acque dall'inquinamento e di gestione dei rifiuti di cui all'allegato A sara' informata ai seguenti principi e criteri direttivi:
 
@@ -1250,7 +1236,7 @@ b) mantenimento dei livelli di protezione ambientale previsti dalla normativa na
 
 c) adeguamento della normativa vigente alla disciplina comunitaria, apportando alla prima ogni necessaria modifica ed integrazione allo scopo di definire un quadro omogeneo ed organico delle disposizioni di settore.
 
-##### ART. 37 - Tutela delle acque: criteri di delega
+#### ART. 37 - Tutela delle acque: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 91/271/CEE, concernente il trattamento delle acque reflue urbane, sara' informata ai seguenti ulteriori principi e criteri direttivi:
 
@@ -1310,7 +1296,7 @@ f) coordinare le azioni di risanamento svolte ai sensi della direttiva con quell
 
 > a) in economia, quando per le modeste dimensioni o per le caratteristiche del servizio non sia opportuno costituire una istituzione o una azienda; b) in concessione a terzi, quando sussistano ragioni tecniche, economiche e di opportunita' sociale; c) a mezzo di azienda speciale, anche per la gestione di piu' servizi di rilevanza economica ed imprenditoriale; d) a mezzo di istituzione, per l'esercizio di servizi sociali senza rilevanza imprenditoriale; e) a mezzo di societa' per azioni a prevalente capitale pubblico locale, qualora si renda opportuna, in relazione alla natura del servizio da erogare, la partecipazione di altri soggetti pubblici o privati". - La dir. 91/676/CEE e' pubblicata in GUCE n. L 375 del 31 dicembre 1991. - Il D.P.R. 24 maggio 1988, n. 236 reca attuazione della dir. (CEE) 80/778 concernente la qualita' delle acque destinate al consumo umano, ai sensi dell'art. 15 della legge 16 aprile 1987, n. 183.
 
-##### ART. 38 - Rifiuti: criteri di delega
+#### ART. 38 - Rifiuti: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 91/156/CEE, relativa ai rifiuti, e della direttiva del Consiglio 91/689/CEE, relativa ai rifiuti pericolosi, sara' informata ai seguenti ulteriori principi e criteri direttivi:
 
@@ -1454,7 +1440,7 @@ n) introdurre a livello regionale procedure amministrative inte- grate per il ri
 
 > ex 2621 00 Scorie dalla produzione del rame, stabilizzazione chimica, aventi un alto contenuto di ferro (circa 20%) e lavorati in accordo con le specificazioni industriali (e.g. DIN 4301 e DIN 8201), principalmente per la costruzione ed applicazione abrasive ex 2621 00 Fanghi rossi neutralizzati provenienti dalla produzione dell'allumina ex 2621 00 Carbone attivo spento Zolfo in forma solida ex 2836 50 Calcare proveniente dalla produzione del calcio cianamide (con un pH inferiore a 9) Cloruro di sodio, calcio e potassio Rifiuti di film fotografici e rifiuti di film fotografici non contenenti argento Macchine fotografiche monouso senza batterie ex 2818 10 Carburo di silicio".
 
-##### ART. 39 - Istituzione di servizi pubblici integrativi per la gestione di rifiuti
+#### ART. 39 - Istituzione di servizi pubblici integrativi per la gestione di rifiuti
 
 1\. ((COMMA ABROGATO DALLA L. 24 APRILE 1998, N. 128)).
 
@@ -1472,7 +1458,7 @@ d) all'articolo 77, comma 1, le parole "o equiparati" sono soppresse;
 
 e) all'articolo 79, il comma 1 e' abrogato.
 
-##### ART. 40
+#### ART. 40
 
 (Valutazione di impatto ambientale.
 
@@ -1534,7 +1520,7 @@ Procedimenti integrati).
 
 > 12\. Modifica dei progetti che figurano nell'allegato I e dei progetti dell'allegato I che hanno esclusivamente o essenzialmente lo scopo di sviluppare e provare nuovi metodi o prodotti e non sono utilizzati per piu' di un anno".
 
-##### ART. 41 - Amianto: criteri di delega
+#### ART. 41 - Amianto: criteri di delega
 
 1\. All'attuazione della direttiva del Consiglio 87/217/CEE, concernente la prevenzione e la riduzione dell'inquinamento dell'ambiente causato dall'amianto, si provvedera' in conformita' alla legge 27 marzo 1992, n. 257, e nel rispetto delle disposizioni piu' restrittive vigenti per la tutela della salute e dell'ambiente.
 
@@ -1544,7 +1530,7 @@ Procedimenti integrati).
 
 > \- La legge 27 marzo 1992, n. 257, reca norme relative alla cessazione dell'impiego dell'amianto.
 
-##### ART. 42 - Produzione agricola con metodo biologico: criteri di delega
+#### ART. 42 - Produzione agricola con metodo biologico: criteri di delega
 
 1\. Il Governo e' delegato ad emanare, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, entro un anno dalla data di entrata in vigore della presente legge, le norme per dare attuazione alle disposizioni di cui agli articoli 8 e 9 del regolamento (CEE) n. 2092/91, e successive modificazioni ed integrazioni, in materia di produzione agricola ed agroalimentare con metodo biologico.
 
@@ -1560,13 +1546,11 @@ d) individuazione dei criteri per la formazione degli Albi degli operatori e dei
 
 (( 3. Gli organismi responsabili dei controlli di cui all'articolo 15 del regolamento CEE del Consiglio numero 2092/91 indicati nell'elenco pubblicato nella Gazzetta Ufficiale, serie C, n. 284, del 21 ottobre 1993, continuano ad operare fino al 31 dicembre 1996 e sono fatti salvi gli atti gia' adottati dai medesimi organismi. ))
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### DIRETTO E CRITERI SPECIALI - DI DELEGA LEGISLATIVA
+### CAPO VII - PRODUZIONE INDUSTRIALE
 
-#### CAPO VII - PRODUZIONE INDUSTRIALE
-
-##### ART. 43 - Sicurezza generale dei prodotti: criteri di delega
+#### ART. 43 - Sicurezza generale dei prodotti: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 92/59/CEE sara' informata ai seguenti principi e criteri direttivi:
 
@@ -1598,7 +1582,7 @@ e) sara' assicurato il necessario coordinamento tra i vari organi operanti in ma
 
 > 3\. Le procedure particolareggiate concernenti il sistema comunitario d'informazione previsto nel presente articolo figurano nell'allegato. La Commissione adatta tali proce- dure particolareggiate conformemente alla procedura stabilita di cui all'articolo 11".
 
-##### ART. 44 - Pane parzialmente cotto
+#### ART. 44 - Pane parzialmente cotto
 
 1\. L'articolo 14 della legge 4 luglio 1967, n. 580, gia' sostituito dall'articolo 22, comma 2, del decreto legislativo 27 gennaio 1992, n. 109, e' sostituito dal seguente:
 
@@ -1634,13 +1618,13 @@ e) sara' assicurato il necessario coordinamento tra i vari organi operanti in ma
 
 > 2\. Le indicazioni di cui al comma 1 possono essere riportate sull'imballaggio o sul recipiente o sulla confezione o su una etichetta appostavi o su documenti commerciali".
 
-##### ART. 45
+#### ART. 45
 
 (( ARTICOLO ABROGATO DAL D.L. 29 APRILE 1994, N. 260, CONVERTITO CON MODIFICAZIONI
 
 DALLA L. DI CONVERSIONE 27 GIUGNO 1994, N. 413))
 
-##### ART. 46 - Produzione e commercializzazione di prodotti a base di latte
+#### ART. 46 - Produzione e commercializzazione di prodotti a base di latte
 
 1\. L'attuazione delle direttive del Consiglio 92/46/CEE e 92/47/CEE sara' informata ai seguenti criteri:
 
@@ -1658,7 +1642,7 @@ d) sara' previsto un adeguamento graduale delle strutture produttive e dei requi
 
 > \- La legge 25 agosto 1991, n. 287, concerne aggiornamento della normativa sull'insediamento e sull'attivita' dei pubblici esercizi.
 
-##### ART. 47 - Vendita dei prodotti sfusi
+#### ART. 47 - Vendita dei prodotti sfusi
 
 1\. Entro sei mesi dalla data di entrata in vigore della presente legge, il Ministro dell'industria, del commercio e dell'artigianato individua, con proprio decreto, lo schema del cartello unico di cui all'articolo 16, commi 3, 4 e 5, del decreto legislativo 27 gennaio 1992, n. 109.
 
@@ -1690,7 +1674,7 @@ d) sara' previsto un adeguamento graduale delle strutture produttive e dei requi
 
 > 8\. Sui prodotti di cui al comma 1, nelle fasi precedenti la vendita al consumatore, devono essere riportate le menzioni di cui all'art. 3, comma 1, lettere a), b), e) ed h); tali menzioni possono figurare anche solo sui documenti commerciali".
 
-##### ART. 48 - Materiali ed oggetti destinati a venire a contatto con gli alimenti
+#### ART. 48 - Materiali ed oggetti destinati a venire a contatto con gli alimenti
 
 1\. La lettera c) del comma 1 dell'articolo 4 del decreto del Presidente della Repubblica 23 agosto 1982, n. 777, come sostituito dall'articolo 4 del decreto legislativo 25 gennaio 1992, n. 108, e' sostituita dalla seguente:
 
@@ -1734,7 +1718,7 @@ d) sara' previsto un adeguamento graduale delle strutture produttive e dei requi
 
 > 9\. I contravventori alle disposizioni di cui al presente articolo sono puniti con la sanzione amministrativa pecuniaria del pagamento di una somma da lire tremilioni a lire quindicimilioni".
 
-##### ART. 49 - Attuazione della direttiva 92/115/CEE in materia di solventi
+#### ART. 49 - Attuazione della direttiva 92/115/CEE in materia di solventi
 
 1\. Il comma 3 dell'articolo 2 del decreto-legge 18 giugno 1986, n. 282, convertito, con modificazioni, dalla legge 7 agosto 1986, n. 246, e' abrogato.
 
@@ -1752,7 +1736,7 @@ d) sara' previsto un adeguamento graduale delle strutture produttive e dei requi
 
 > 2\. Il Ministro della sanita', sentito il Consiglio superiore di sanita', determina, nei limiti delle disposizioni comunitarie, i criteri specifici di purezza dei solventi, secondo le procedure di cui al comma 1".
 
-##### ART. 50 - Regolamentazione dei prodotti
+#### ART. 50 - Regolamentazione dei prodotti
 
 1\. Il Governo emana, con uno o piu' regolamenti, norme intese a rivedere e riordinare la materia della produzione e commercializzazione dei prodotti alimentari conservati e non, anche se disciplinata con legge.
 
@@ -1780,7 +1764,7 @@ b) tutela gli interessi relativi alla salute, all'ambiente, alla protezione del 
 
 > Decorso tale temine il regolamento e' emanato anche in mancanza di detto parere".
 
-##### ART. 51 - Esportazioni di carburanti
+#### ART. 51 - Esportazioni di carburanti
 
 1\. Nel primo comma dell'articolo 55 della legge 21 luglio 1967, n. 613, le parole: "Essi non possono essere esportati" sono sostituite dalle seguenti: "Essi non possono essere esportati in Paesi extracomunitari".
 
@@ -1790,7 +1774,7 @@ b) tutela gli interessi relativi alla salute, all'ambiente, alla protezione del 
 
 > "Art. 55 - Gli idrocarburi liquidi e gassosi estratti dal sottofondo marino di cui all'art. 2 sono destinati in- via prioritaria al mercato nazionale. Essi non possono essere esportati senza l'autorizzazione del Ministro per il commercio con l'estero, di concerto con il Ministro per l'industria, il commercio e l'artigianato".
 
-##### ART. 52 - Licenza obbligatoria in seguito a mancata utilizzazione del brevetto
+#### ART. 52 - Licenza obbligatoria in seguito a mancata utilizzazione del brevetto
 
 1\. L'articolo 53 del regio decreto 29 giugno 1939, n. 1127, e' sostituito dal seguente:
 
@@ -1810,7 +1794,7 @@ b) tutela gli interessi relativi alla salute, all'ambiente, alla protezione del 
 
 > "Art. 54 (Art. 58, n. 3 della legge 30 ottobre 1859, n. 3731). - Trascorsi tre anni dalla data di rilascio del brevetto, o quattro anni dalla data di deposito della domanda se questo termine scade successivamente al precedente, qualora il titolare del brevetto o il suo avente causa, direttamente o a mezzo di uno o piu' licenziatari, non abbia attuato nel territorio dello Stato l'invenzione brevettata, o l'abbia attuata in misura tale da risultare in grave sproporzione con i bisogni del Paese, puo' essere concessa licenza obbligatoria per l'uso non esclusivo dell'invenzione medesima, a favore di ogni interessato che ne faccia richiesta".
 
-##### ART. 53 - Fornitura di linee affittate su reti pubbliche di telecomunicazione: criteri di delega
+#### ART. 53 - Fornitura di linee affittate su reti pubbliche di telecomunicazione: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 92/44/CEE sara' informata ai seguenti principi e criteri direttivi:
 
@@ -1860,7 +1844,7 @@ c) disciplinare, per quanto riguarda gli aspetti relativi all'ordinamento nazion
 
 > 5\) le parti che ricorrono a questa procedura sostengono i costi della loro partecipazione".
 
-##### ART. 54 - Concorrenza nei mercati dei servizi di telecomunicazioni: criteri di delega
+#### ART. 54 - Concorrenza nei mercati dei servizi di telecomunicazioni: criteri di delega
 
 1\. L'attuazione della direttiva della Commissione 90/388/CEE sara' informata ai seguenti principi e criteri direttivi:
 
@@ -1916,7 +1900,7 @@ p) prevedere l'obbligo, per i titolari delle autorizzazioni, di versare all'Ispe
 
 > \- Il D.P.R. 13 agosto 1984, n. 523, concernente l'approvazione ed esecuzione delle convenzioni per la concessione dei servizi di telecomunicazioni ad uso pubblico alle societa' SIP, Italcable e Telespazio.
 
-##### ART. 55 - Transito di gas naturale sulle grandi reti
+#### ART. 55 - Transito di gas naturale sulle grandi reti
 
 1\. Entro tre mesi dalla data di entrata in vigore della presente legge, il Ministro dell'industria, del commercio e dell'artigianato stabilisce, con proprio decreto, direttive e disposizioni vincolanti per gli enti italiani inseriti nell'allegato alla direttiva del Consiglio 91/296/CEE, e successive modifiche e integrazioni, atte a garantire l'osservanza degli obblighi relativi alla negoziazione e alla informazione comunitaria previsti dalla stessa direttiva.
 
@@ -1924,7 +1908,7 @@ p) prevedere l'obbligo, per i titolari delle autorizzazioni, di versare all'Ispe
 
 > \- La dir. 91/296/CEE e' pubblicata in GUCE n. L 147 del 12 giugno 1991.
 
-##### ART. 56 - Tariffe ferroviarie agevolate per il trasporto di minerali e altri prodotti dalle isole
+#### ART. 56 - Tariffe ferroviarie agevolate per il trasporto di minerali e altri prodotti dalle isole
 
 1\. In esecuzione della decisione della Commissione delle Comunita' europee 91/523/CEE del 18 settembre 1991, le riduzioni delle tariffe ferroviarie per il trasporto dalle isole di sostanze minerali e di altre sostanze prodotte e lavorate nelle isole, previste dall'articolo 19, ultimo comma, della legge 22 dicembre 1984, n. 887, sono soppresse.
 
@@ -1936,7 +1920,7 @@ p) prevedere l'obbligo, per i titolari delle autorizzazioni, di versare all'Ispe
 
 > L'ammontare delle riduzioni accordate e' posto a carico del Ministero del tesoro, che provvede ai rimborsi a favore dell'Azienda ferroviaria in base alla regolamentazione comunitaria".
 
-##### ART. 57 - Esplosivi per uso civile: criteri di delega
+#### ART. 57 - Esplosivi per uso civile: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 93/15/CEE sara' informata ai seguenti principi e criteri direttivi;
 
@@ -2016,13 +2000,11 @@ s) prevedere che con decreto del Ministro dell'interno siano dettate le norme pe
 
 > "Art. 55 (Art. 54 T.U. 1926). - Gli esercenti fabbriche, depositi o rivendite di esplodenti di qualsiasi specie sono obbligati a tenere un registro delle operazioni giornaliere, in cui saranno indicate, le generalita' delle persone con le quali le operazioni stesse sono compiute. I rivenditori di materie esplodenti devono altresi' comunicare mensilmente all'ufficio di polizia competente per territorio le generalita' delle persone e delle ditte che hanno acquistato munizioni ed esplosivi, la specie, i contrassegni e la quantita' delle munizioni e degli esplosivi venduti e gli estremi dei titoli abilitativi all'acquisto esibiti dagli interessati. Tale registro deve essere esibito a ogni richiesta degli ufficiali od agenti di pubblica sicurezza. E' vietato vendere o in qualsiasi altro modo cedere materie esplodenti di qualsiasi genere a privati che non siano muniti di permesso di porto d'armi ovvero di nulla osta rilasciato dal questore. Il nulla osta non puo' essere rilasciato a minori: ha la validita' di un mese ed e' esente da ogni tributo. La domanda e' redatta in carta libera. Il questore puo' subordinare il rilascio del nulla osta di cui al comma precedente, alla presentazione di certificato del medico provinciale, o dell'ufficiale sanitario o di un medico militare dal quale risulti che il richiedente non e' affetto da malattie mentali oppure da vizi che non diminuiscono, anche temporaneamente, la capacita' di intendere e di volere. Il contravventore e' punito con l'arresto da tre mesi ad un anno e con l'ammenda non inferiore a lire cinquantamila. L'acquirente o cessionario di materie esplodenti in violazione delle norme del presente articolo e' punito con l'arresto sino a sei mesi e con l'ammenda sino a lire cinquantamila". - L'art. 53 del R.D. sopracitato recita: "Art. 53 (Art. 52 T.U. 1926). - E' vietato fabbricare, tenere in casa o altrove, trasportare o vendere, anche negli stabilimenti, laboratori, depositi o spacci autorizzati, prodotti esplodenti che non siano stati riconosciuti e classificati dal Ministro dell'interno, sentito il parere di una commissione tecnica. Nel regolamento saranno classificate tutte le materie esplosive, secondo la loro natura, composizione ed efficacia esplosiva. L'iscrizione dei prodotti nelle singole categorie ha luogo con provvedimento, avente carattere definitivo, del Ministro dell'interno".
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### DIRETTO E CRITERI SPECIALI - DI DELEGA LEGISLATIVA
+### Capo VIII - RELAZIONI DELLA COMUNITA'
 
-#### Capo VIII - RELAZIONI DELLA COMUNITA'
-
-##### Art. 58 - Sviluppo della formazione comunitaria
+#### Art. 58 - Sviluppo della formazione comunitaria
 
 1\. Presso il Dipartimento per il coordinamento delle politiche comunitarie della Presidenza del Consiglio dei ministri e' istituito il Comitato per lo sviluppo della formazione comunitaria, con lo scopo di assumere iniziative dirette a diffondere e incrementare, nel personale pubblico e nel settore privato, la conoscenza e l'esperienza delle attivita' delle Comunita' europee, anche con riguardo alla loro incidenza sulla funzione pubblica e sull'economia nazionale.
 
@@ -2056,7 +2038,7 @@ s) prevedere che con decreto del Ministro dell'interno siano dettate le norme pe
 
 > 4\. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di 'regolamento', sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale".
 
-##### Art. 59 - Maggiori risorse determinate dalla variazione del cambio da versare alla CEE per mancato utilizzo
+#### Art. 59 - Maggiori risorse determinate dalla variazione del cambio da versare alla CEE per mancato utilizzo
 
 1\. Le maggiori risorse da versare alla CEE per effetto della conversione in ECU, a tasso variato, delle somme restituite dagli assegnatari, per mancato od irregolare utilizzo, fanno carico agli assegnatari stessi per la parte afferente la perdita di cambio accertata tra la data di trasferimento delle somme del Fondo di rotazione di cui all'articolo 5 della legge 16 aprile 1987, n. 183, e quella di riversamento al Fondo medesimo.
 
@@ -2082,7 +2064,7 @@ s) prevedere che con decreto del Ministro dell'interno siano dettate le norme pe
 
 > Restano salvi i rapporti finanziari direttamente intrattenuti con le Comunita' europee dalle amministrazioni e dagli organismi di cui all'art. 2 del decreto del Presidente della Repubblica 16 aprile 1971, n. 321, ed alla legge 26 novembre 1975, n. 748".
 
-##### Art. 60 - Rapporti tra le regioni e le province autonome e le istituzioni della Comunita' europea
+#### Art. 60 - Rapporti tra le regioni e le province autonome e le istituzioni della Comunita' europea
 
 1\. Il secondo comma dell'articolo 4 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, non si applica, per quanto riguarda l'intesa governativa, ai rapporti tra le regioni, le prov- ince autonome e gli organismi comunitari, anche se tenuti in sede diversa da quella delle istituzioni della Comunita' europea.
 
@@ -2110,13 +2092,11 @@ Visto, il Guardasigilli: CONSO
 
 > "Le regioni non possono svolgere all'estero attivita' promozionali relative alle materie di loro competenza se non previa intesa con il Governo e nell'ambito degli indirizzi e degli atti di coordinamento di cui al comma precedente".
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### DIRETTO E CRITERI SPECIALI - DI DELEGA LEGISLATIVA
+### Capo VIII - RELAZIONI DELLA COMUNITA'
 
-#### Capo VIII - RELAZIONI DELLA COMUNITA'
-
-##### Allegato A
+#### Allegato A
 
 Allegato A
 
@@ -2198,7 +2178,7 @@ PRODUZIONE INDUSTRIALE
 
 93/15/CEE: Direttiva del Consiglio, del 5 aprile 1993, relativa all'armonizzazione delle disposizioni relative all'immissione sul mercato e al controllo degli esplosivi per uso civile.
 
-##### Allegato B
+#### Allegato B
 
 ALLEGATO B
 
@@ -2252,7 +2232,7 @@ PRODUZIONE INDUSTRIALE
 
 92/59/CEE: Direttiva del Consiglio, del 29 giugno 1992, relativa alla sicurezza generale dei prodotti.
 
-##### Allegato C
+#### Allegato C
 
 ALLEGATO C
 
@@ -2322,7 +2302,7 @@ DA ATTUARE IN VIA REGOLAMENTARE
 
 93/68/CEE: Direttiva del Consiglio, del 22 luglio 1993, che modifica le direttive del Consiglio 87/404/CEE (recipienti semplici, pressione), 88/378/CEE (sicurezza dei giocattoli), 89/106/CEE (prodotti da costruzione), 89/336/CEE (compatibilita' elettromagnetica), 89/392/CEE (macchine), 89/686/CEE ) dispositivi di protezione individuale), 90/384/CEE (strumenti per pesare a funzionamento non automatico), 90/385/CEE (dispositivi impiantabili attivi), 90/396/CEE (apparecchi a gas), 91/263/CEE (apparecchiature terminali di telecomunicazione), 92/42/CEE (nuove caldaie ad acqua calda alimentate con combustibili liquidi o gassosi) e 73/23/CEE (materiale elettrico destinato ad essere adoperato entro taluni limiti di tensione).
 
-##### Allegato D
+#### Allegato D
 
 ALLEGATO D
 
@@ -2348,7 +2328,7 @@ COMPETENTI PER MATERIA SUGLI SCHEMI DEI RELATIVI REGOLAMENTI
 
 92/116/CEE: Direttiva del Consiglio, del 17 dicembre 1992, che modifica e aggiorna la direttiva 71/118/CEE relativa a problemi sanitari in materia di scambi di carni fresche di volatili da cortile 92/120/CEE: Direttiva del Consiglio, del 17 dicembre 1992, relativa alla concessione di deroghe temporanee e limitate alle norme sanitarie specifiche per la produzione e la commercializzazione di alcuni prodotti di origine animale.
 
-##### Allegato E
+#### Allegato E
 
 ALLEGATO E
 

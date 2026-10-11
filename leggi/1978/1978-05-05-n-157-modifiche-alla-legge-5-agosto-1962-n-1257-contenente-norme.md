@@ -25,11 +25,11 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Al primo comma dell'articolo 2 della legge 5 agosto 1962, n. 1257, dopo le parole "Camera dei deputati" sono aggiunte le seguenti: "e successive modificazioni".
 
-### Art. 2
+## Art. 2
 
 Il primo e secondo comma dell'articolo 3 della legge 5 agosto 1962, n. 1257, sono sostituiti dai seguenti:
 
@@ -39,37 +39,37 @@ I comizi elettorali sono convocati dal presidente della giunta regionale con dec
 
 Lo stesso decreto fissa la data della prima riunione del consiglio regionale, da tenersi non oltre il ventesimo giorno dalla proclamazione degli eletti".
 
-### Art. 3
+## Art. 3
 
 L'articolo 5 della legge 5 agosto 1962, n. 1257, e' sostituito dal seguente:
 
 "Sono eleggibili a consigliere regionale i cittadini iscritti nelle liste elettorali di un comune della Valle d'Aosta, che abbiano compiuto il ventunesimo anno di eta' entro il primo giorno dell'elezione".
 
-### Art. 4
+## Art. 4
 
 La lettera e) dell'articolo 6 della legge 5,agosto 1962, n. 1257, e' sostituita dalla seguente:
 
 "I dipendenti dell'amministrazione regionale, che occupano posti inclusi nelle tabelle dell'allegato c) della legge regionale 9 febbraio 1978, n. 1, e i funzionari della carriera direttiva o assimilata degli enti, istituti o aziende dipendenti o sottoposti alla vigilanza della regione, nonche' gli amministratori di tali enti, istituti o aziende (esclusi comuni e comunita' montane)".
 
-### Art. 5
+## Art. 5
 
 All'articolo 6 della legge 5 agosto 1962, n. 1257, e' aggiunto il seguente comma:
 
 "Coloro che ricevono uno stipendio o salario dalla amministrazione regionale, da enti, istituti o aziende dipendenti o sottoposti alla sua vigilanza, non compresi nelle categorie di ineleggibili, in caso di elezione sono collocati in aspettativa per mandato consiliare per tutta la durata della carica, secondo le disposizioni di cui all'articolo 4 della legge 31 ottobre 1965, n. 1261 e successive modificazioni".
 
-### Art. 6
+## Art. 6
 
 Il primo periodo dell'articolo 8 della legge 5 agosto 1962, n. 1257, e' sostituito con il seguente:
 
 "La funzione di consigliere regionale e' incompatibile con quella di sindaco, assessore, consigliere comunale e amministratore di comunita' montana della regione".
 
-### Art. 7
+## Art. 7
 
 Il primo comma dell'articolo 9 della legge 5 agosto 1962, n. 1257, e' sostituito dal seguente:
 
 "Le liste dei candidati devono essere presentate alla cancelleria del tribunale di Aosta dalle ore 8 del trentacinquesimo giorno alle ore 20 del trentesimo giorno antecedente quello della votazione".
 
-### Art. 8
+## Art. 8
 
 Dopo il secondo comma dell'articolo 9 della legge 5 agosto 1962, n. 1257, sono inseriti i seguenti:
 
@@ -77,7 +77,7 @@ Dopo il secondo comma dell'articolo 9 della legge 5 agosto 1962, n. 1257, sono i
 
 La firma del sottoscrittore deve essere autenticata da un notaio o da cancelliere di pretura".
 
-### Art. 9
+## Art. 9
 
 Al secondo comma dell'articolo 12 della legge 5 agosto 1962, n. 1257, dopo le parole "30 marzo 1957, n. 361", sono inserite le parole "e dell'articolo 9 della legge 23 aprile 1976, n. 136".
 
@@ -85,17 +85,17 @@ Al predetto articolo 12 e' aggiunto il seguente comma:
 
 "I detenuti aventi diritto al voto sono ammessi a votare con le modalita' di cui agli articoli 8 e 9 della legge 23 aprile 1976, n. 136, purche' siano iscritti nelle liste elettorali di un comune della regione".
 
-### Art. 10
+## Art. 10
 
 Le tabelle A e B allegate alla legge 5 agosto 1962, n. 1257, sono sostituite dalle tabelle A e B allegate alla presente legge.
 
 ## NORMA TRANSITORIA
 
-### Art. 11
+## Art. 11
 
 Le norme relative alla decorrenza del quinquennio di carica del consiglio regionale stabilite dall'articolo 2 della presente legge si applicano anche al consiglio regionale in carica alla data di entrata in vigore della presente legge.
 
-### Art. 12
+## Art. 12
 
 La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica.
 
@@ -111,7 +111,7 @@ Visto, il Guardasigilli: BONIFACIO
 
 ## NORMA TRANSITORIA
 
-### Tabelle
+## Tabelle
 
 TABELLA A
 

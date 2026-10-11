@@ -27,31 +27,31 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+##### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la convenzione delle Nazioni Unite sul diritto del mare, con allegati e atto finale, fatta a Montego Bay il 10 dicembre 1982, nonche' l'accordo di applicazione della parte XI della convenzione stessa, con allegati, fatto a New York il 29 luglio 1994.
 
-#### Art. 2
+##### Art. 2
 
 1\. Piena ed intera esecuzione e' data agli atti internazionali di cui all'articolo 1 a decorrere dalla data della loro entrata in vigore in conformita' a quanto disposto dall'articolo 308 della convenzione e dall'articolo 6 dell'accordo.
 
-#### Art. 3
+##### Art. 3
 
 1\. A decorrere dalla data di entrata in vigore della presente legge, la legge 20 febbraio 1985, n. 41, e' abrogata e cessa di avere efficacia il relativo regolamento di esecuzione approvato con decreto del Presidente della Repubblica 11 marzo 1988, n. 200.
 
 2\. Con regolamento emanato ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, saranno determinati i criteri e le procedure per il conferimento ai richiedenti del patrocinio da parte dello Stato italiano ai sensi dell'articolo 153 della convezione di cui all'articolo 1 e per i fini dell'articolo 4 dell'Annesso III alla convenzione stessa.
 
-#### Art. 4
+##### Art. 4
 
 1\. A decorrere dalla data di entrata in vigore della presente legge, la definizione della piattaforma continentale, di cui all'articolo 1, primo comma, della legge 21 luglio 1967, n. 613, e' da intendersi sostituita dalla definizione di cui all'articolo 76 della convenzione di cui all'articolo 1.
 
-#### Art. 5
+##### Art. 5
 
 1\. All'onere derivante dall'attuazione della presente legge, valutato in lire 1.000 miliardi annui a decorrere dal 1995, si provvede mediante utilizzo delle proiezioni dello stanziamento iscritto, ai fini del bilancio triennale 1994-1996, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1994, all'uopo parzialmente utilizzando l'accantonamento riguardante il Ministero degli affari esteri.
 
 2\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 6
+##### Art. 6
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -69,7 +69,7 @@ Visto, il Guardasigilli: BIONDI
 
 ## Allegati
 
-#### Convention
+##### Convention
 
 Parte di provvedimento in formato grafico
 
@@ -111,7 +111,7 @@ principi del diritto internazionale generale
 
 Hanno convenuto quanto segue:
 
-#### Articolo I
+##### Articolo I
 
 Uso dei termini e ambito d'applicazione
 
@@ -145,7 +145,7 @@ ii) il deposito di materiali per fini diversi dalla semplice eliminazione degli 
 
 ### SEZIONE 1. DISPOSIZIONI GENERALI
 
-#### Articolo 2
+##### Articolo 2
 
 Regime giuridico del mare territoriale, dello spazio aereo soprastante il mare territoriale, del relativo fondo marino e del suo sottosuolo
 
@@ -155,33 +155,33 @@ Regime giuridico del mare territoriale, dello spazio aereo soprastante il mare t
 
 3\. La sovranita' sul mare territoriale si esercita alle condizioni della presente Convenzione e delle altre norme del diritto internazionale.
 
-## SEZIONE 2. LIMITI DEL MARE TERRITORIALE
+### SEZIONE 2. LIMITI DEL MARE TERRITORIALE
 
-#### Articolo 3
+##### Articolo 3
 
 Larghezza del mare territoriale
 
 Ogni Stato ha il diritto di fissare la larghezza del proprio mare territoriale fino a un limite massimo di 12 miglia marine, misurate a partire dalle linee di base determinate conformemente alla presente Convenzione.
 
-#### Articolo 4
+##### Articolo 4
 
 Limite esterno del mare territoriale
 
 Il limite esterno del mare territoriale e' la linea ciascun punto della quale si trova ad una distanza dal punto piu' prossimo della linea di base, uguale alla larghezza del mare territoriale.
 
-#### Articolo 5
+##### Articolo 5
 
 Linea di base normale
 
 Salvo diversa disposizione della presente Convenzione, la linea di base normale dalla quale si misura la larghezza del mare territoriale e' la linea di bassa marea lungo la costa, come indicata sulle carte nautiche a grande scala ufficialmente riconosciute dallo Stato costiero.
 
-#### Articolo 6
+##### Articolo 6
 
 Scogliere affioranti
 
 Nel caso di isole situate su atolli o di isole bordate da scogliere affioranti, la linea di base dalla quale si misura la larghezza del mare territoriale e' la linea di bassa marea della scogliera, dal lato del mare aperto, come indicato con simboli appropriati sulle carte nautiche ufficialmente riconosciute dallo Stato costiero.
 
-#### Articolo 7
+##### Articolo 7
 
 Linee di base diritte
 
@@ -197,7 +197,7 @@ Linee di base diritte
 
 6\. Il metodo delle linee di base diritte non puo' essere impiegato da uno Stato in modo tale da separare il mare territoriale di un altro Stato dall'alto mare o da una zona economica esclusiva.
 
-#### Articolo 8
+##### Articolo 8
 
 Acque interne
 
@@ -205,13 +205,13 @@ Acque interne
 
 2\. Quando una linea di base diritta determinata conformemente al metodo descritto all'articolo 7 ha l'effetto di assoggettare al regime di acque interne aree che in precedenza non erano considerate tali, il diritto di passaggio inoffensivo previsto dalla presente Convenzione si estende a quelle acque.
 
-#### Articolo 9
+##### Articolo 9
 
 Foci dei fiumi
 
 Se un fiume sfocia direttamente nel mare, la linea di base e' una linea diritta tracciata attraverso la bocca del fiume, tra i punti di bassa marea delle sue rive.
 
-#### Articolo 10
+##### Articolo 10
 
 Baie
 
@@ -227,19 +227,19 @@ Baie
 
 6\. Le disposizioni precedenti non si applicano alle cosiddette "baie storiche" o nei casi in cui si adotta il metodo delle linee di base diritte previsto dall'articolo 7.
 
-#### Articolo 11
+##### Articolo 11
 
 Porti
 
 Ai fini della delimitazione del mare territoriale, le opere portuali permanenti piu' esterne che formano parte integrante del sistema portuale, sono considerate come facenti parte della costa. Le installazioni situate al largo della costa e le isole artificiali non sono considerate opere portuali permanenti.
 
-#### Articolo 12
+##### Articolo 12
 
 Rade
 
 Le rade che vengono normalmente usate per carico, scarico e ancoraggio delle navi, e che sarebbero altrimenti situate per intero o in parte al di fuori del limite esterno del mare territoriale, sono considerate come facenti parte del mare territoriale.
 
-#### Articolo 13
+##### Articolo 13
 
 Bassifondi emergenti a bassa marea
 
@@ -247,19 +247,19 @@ Bassifondi emergenti a bassa marea
 
 2\. Un bassofondo emergente a bassa marea che sia interamente situato a una distanza, dalla terraferma o da un'isola, superiore alla larghezza del mare territoriale, non possiede un proprio mare territoriale.
 
-#### Articolo 14
+##### Articolo 14
 
 Combinazione di metodi per determinare le linee di base
 
 Lo Stato costiero, a seconda delle diverse situazioni, puo' determinare le linee di base mediante uno qualsiasi dei metodi previsti agli articoli precedenti.
 
-#### Articolo 15
+##### Articolo 15
 
 Delimitazione del mare territoriale tra Stati a coste opposte o adiacenti
 
 Quando le coste di due Stati si fronteggiano o sono adiacenti, nessuno dei due Stati ha il diritto, in assenza di accordi contrari, di estendere il proprio mare territoriale al di la' della linea mediana di cui ciascun punto e' equidistante dai punti piu' prossimi delle linee di base dalle quali si misura la larghezza del mare territoriale di ciascuno dei due Stati. Questa disposizione, comunque, non si applica quando, in virtu' di titoli storici o di altre circostanze speciali, e' necessario delimitare in altro modo il mare territoriale dei due Stati.
 
-#### Articolo 16
+##### Articolo 16
 
 Carte nautiche ed elenchi di coordinate geografiche
 
@@ -267,17 +267,15 @@ Carte nautiche ed elenchi di coordinate geografiche
 
 2\. Lo Stato costiero da' opportuna diffusione a tali carte nautiche o elenchi di coordinate geografiche e ne deposita una copia presso il Segretario Generale delle Nazioni Unite.
 
-## SEZIONE 3. PASSAGGIO INOFFENSIVO NEL MARE TERRITORIALE - SOTTO-SEZIONE A.
+### SEZIONE 3. PASSAGGIO INOFFENSIVO NEL MARE TERRITORIALE - SOTTO-SEZIONE A. NORME APPLICABILI A TUTTE LE NAVI
 
-### NORME APPLICABILI A TUTTE LE NAVI
-
-#### Articolo 17
+##### Articolo 17
 
 Diritto di passaggio inoffensivo
 
 Alle condizioni della presente Convenzione, le navi di tutti gli Stati, costieri o privi di litorale, godono del diritto di passaggio inoffensivo attraverso il mare territoriale.
 
-#### Articolo 18
+##### Articolo 18
 
 Significato del termine "passaggio"
 
@@ -289,7 +287,7 @@ b) dirigersi verso le acque interne o uscirne, oppure fare scalo in una rada o i
 
 2\. Il passaggio deve essere continuo e rapido. Il passaggio consente tuttavia la fermata e l'ancoraggio, ma soltanto se questi costituiscono eventi ordinari di navigazione o sono resi necessari da forza maggiore o da condizioni di difficolta', oppure sono finalizzati a prestare soccorso a persone, navi o aeromobili in pericolo o in difficolta'.
 
-#### Articolo 19
+##### Articolo 19
 
 Significato dell'espressione "passaggio inoffensivo"
 
@@ -337,13 +335,13 @@ l) ogni altra attivita' che non sia in rapporto diretto con il
 
 passaggio.
 
-#### Articolo 20
+##### Articolo 20
 
 Sommergibili e altri veicoli subacquei
 
 Nel mare territoriale, i sommergibili e altri veicoli subacquei sono tenuti a navigare in superficie ed esibire la bandiera nazionale.
 
-#### Articolo 21
+##### Articolo 21
 
 Leggi e regolamenti dello Stato costiero relativi al passaggio inoffensivo
 
@@ -379,7 +377,7 @@ h) prevenzione di violazioni delle leggi e regolamenti doganali, fiscali, sanita
 
 4\. Le navi straniere che esercitano il diritto di passaggio inoffensivo nel mare territoriale si attengono a tali leggi e regolamenti e a tutte le norme internazionali generalmente accettate relative alla prevenzione degli abbordi in mare.
 
-#### Articolo 22
+##### Articolo 22
 
 Corridoi di traffico e schemi di separazione del traffico nel mare territoriale
 
@@ -403,13 +401,13 @@ d) dell'intensita' del traffico.
 
 4\. Lo Stato costiero indica chiaramente tali corridoi di traffico e schemi di separazione del traffico su carte nautiche alle quali da' opportuna diffusione.
 
-#### Articolo 23
+##### Articolo 23
 
 Navi straniere a propulsione nucleare e navi adibite al trasporto di materiali nucleari o altre sostanze intrinsecamente pericolose o nocive.
 
 Le navi straniere a propulsione nucleare e le navi adibite al trasporto di materiali nucleari o di altre sostanze intrinsecamente pericolose o nocive, nell'esercitare il diritto di passaggio inoffensivo attraverso il mare territoriale debbono avere a bordo i documenti prescritti e osservare le specifiche misure di sicurezza previste per tale tipo di navi dagli accordi internazionali.
 
-#### Articolo 24
+##### Articolo 24
 
 Obblighi dello Stato costiero
 
@@ -429,7 +427,7 @@ diretti o provenienti da un qualunque Stato o per conto di esso.
 
 2\. Lo Stato costiero deve segnalare con adeguata pubblicita' ogni pericolo per la navigazione esistente nel suo mare territoriale, del quale sia a conoscenza.
 
-#### Articolo 25
+##### Articolo 25
 
 Diritti di protezione dello Stato costiero
 
@@ -439,7 +437,7 @@ Diritti di protezione dello Stato costiero
 
 3\. Lo Stato costiero puo', senza stabilire una discriminazione di diritto o di fatto tra le navi straniere, sospendere temporaneamente il passaggio inoffensivo di navi straniere in zone specifiche del suo mare territoriale quando tale sospensione sia indispensabile per la protezione della propria sicurezza, ivi comprese le esercitazioni con armi. Tale sospensione ha effetto solo dopo essere stata debitamente pubblicizzata.
 
-#### Articolo 26
+##### Articolo 26
 
 Tasse imponibili alle navi straniere
 
@@ -447,11 +445,9 @@ Tasse imponibili alle navi straniere
 
 2\. Le tasse possono essere imposte a una nave straniera che passi attraverso il mare territoriale, a solo titolo di pagamento per specifici servizi resi alla nave stessa. Tali tasse sono imposte senza discriminazione.
 
-## SOTTO-SEZIONE B.
+## SOTTO-SEZIONE B. - NORME APPLICABILI ALLE NAVI MERCANTILI E ALLE NAVI DI STATO UTILIZZATE PER SCOPI COMMERCIALI
 
-### NORME APPLICABILI ALLE NAVI MERCANTILI E ALLE NAVI DI STATO UTILIZZATE PER SCOPI COMMERCIALI
-
-#### Articolo 27
+##### Articolo 27
 
 Giurisdizione penale a bordo di una nave straniera
 
@@ -479,7 +475,7 @@ In casi di emergenza tale notifica puo' essere comunicata mentre le misure sono 
 
 5\. Salvo quanto disposto alla Parte XII o in caso di violazione di leggi e regolamenti adottati conformemente alla Parte V, lo Stato costiero non puo' adottare alcuna misura a bordo di una nave straniera in transito nel mare territoriale, per procedere a un arresto o condurre indagini a seguito di reati commessi prima dell'ingresso della nave nel mare territoriale se questa, proveniente da un porto straniero, si limita ad attraversare il mare territoriale senza entrare nelle acque interne.
 
-#### Articolo 28
+##### Articolo 28
 
 Giurisdizione civile nei riguardi di navi straniere
 
@@ -489,37 +485,35 @@ Giurisdizione civile nei riguardi di navi straniere
 
 3\. Il numero 2 non pregiudica il diritto dello Stato costiero, conformemente alle sue leggi, di procedere a misure esecutive o cautelari nell'ambito di un procedimento civile nei confronti di una nave straniera che stazioni nel mare territoriale o che transiti nel mare territoriale dopo aver lascito le acque interne.
 
-## SOTTO-SEZIONE C.
+## SOTTO-SEZIONE C. - NORME APPLICABILI ALLE NAVI DA GUERRA E ALLE NAVI DI STATO IN SERVIZIO NON COMMERCIALE
 
-### NORME APPLICABILI ALLE NAVI DA GUERRA E ALLE NAVI DI STATO IN SERVIZIO NON COMMERCIALE
-
-#### Articolo 29
+##### Articolo 29
 
 Definizione di nave da guerra
 
 Ai fini della presente Convenzione, per "nave da guerra" si intende una nave che appartenga alle Forze Armate di uno Stato, che porti i segni distintivi esteriori delle navi militari della sua nazionalita' e sia posta sotto il comando di un Ufficiale di Marina al servizio dello Stato e iscritto nell'apposito ruolo degli Ufficiali o in documento equipollente, il cui equipaggio sia sottoposto alle regole della disciplina militare.
 
-#### Articolo 30
+##### Articolo 30
 
 Inosservanza da parte di una nave da guerra delle leggi e dei regolamenti dello Stato costiero.
 
 Se una nave da guerra non si attiene alle leggi e ai regolamenti dello Stato costiero relativi al passaggio attraverso il suo mare territoriale, e ignora la richiesta di adeguarvisi, lo Stato costiero puo' pretendere che essa abbandoni immediatamente il mare territoriale.
 
-#### Articolo 31
+##### Articolo 31
 
 Responsabilita' dello Stato di bandiera per danni causati da una nave da guerra o altra nave di Stato in servizio non commerciale.
 
 Lo Stato di bandiera si assume la responsabilita' internazionale per ogni perdita o danno derivante allo Stato costiero dall'inosservanza da parte di una nave da guerra o altra nave di Stato in servizio non commerciale, delle leggi e dei regolamenti dello Stato costiero concernenti il passaggio nel mare territoriale o delle disposizioni della presente Convenzione o di altre norme del diritto internazionale.
 
-#### Articolo 32
+##### Articolo 32
 
 Immunita' delle navi da guerra e di altre navi di Stato in servizio non commerciale
 
 Con le eccezioni contenute nella sottosezione A e negli articoli 30 e 31, nessuna disposizione della presente Convenzione pregiudica le immunita' delle navi da guerra e delle altre navi di Stato in servizio non commerciale.
 
-## SEZIONE 4. ZONA CONTIGUA
+### SEZIONE 4. ZONA CONTIGUA
 
-#### Articolo 33
+##### Articolo 33
 
 Zona contigua
 
@@ -541,7 +535,7 @@ dalla linea di base da cui si misura la larghezza del mare territoriale.
 
 ### SEZIONE 1. NORME GENERALI
 
-#### Articolo 34
+##### Articolo 34
 
 Regime giuridico delle acque che formano stretti usati per la navigazione internazionale
 
@@ -549,7 +543,7 @@ Regime giuridico delle acque che formano stretti usati per la navigazione intern
 
 2\. La sovranita' o la giurisdizione degli Stati rivieraschi viene esercitata conformemente alla presente Parte e alle altre norme del diritto internazionale.
 
-#### Articolo 35
+##### Articolo 35
 
 Ambito di applicazione della presente Parte
 
@@ -573,21 +567,21 @@ totalmente o parzialmente regolamentato da convenzioni
 
 internazionali che siano in vigore da lungo tempo e riguardino espressamente tali stretti.
 
-#### Articolo 36
+##### Articolo 36
 
 Rotte d'alto mare o rotte che attraversano zone economiche esclusive all'interno di stretti usati per la navigazione internazionale
 
 La presente Parte non si applica agli stretti usati per la navigazione internazionale nei quali esista una rotta, attraverso l'alto mare o una zona economica esclusiva, che sia di convenienza comparabile dal punto di vista della navigazione e delle sue caratteristiche idrografiche; a tali rotte si applicano le altre Parti pertinenti della presente Convenzione, ivi comprese le disposizioni relative alla liberta' di navigazione e di sorvolo.
 
-## SEZIONE 2.PASSAGGIO IN TRANSITO
+### SEZIONE 2.PASSAGGIO IN TRANSITO
 
-#### Articolo 37
+##### Articolo 37
 
 Ambito di applicazione della presente sezione
 
 La presente sezione si applica agli stretti usati per la navigazione internazionale tra una parte di alto mare o zona economica esclusiva e un'altra parte di alto mare o zona economica esclusiva.
 
-#### Articolo 38
+##### Articolo 38
 
 Diritto di passaggio in transito
 
@@ -597,7 +591,7 @@ Diritto di passaggio in transito
 
 3\. Ogni attivita' diversa dall'esercizio del diritto di passaggio in transito attraverso lo stretto resta subordinata alle altre disposizioni della presente Convenzione.
 
-#### Articolo 39
+##### Articolo 39
 
 Obblighi delle navi e degli aeromobili durante il passaggio in transito
 
@@ -639,13 +633,13 @@ dalla competente autorita' internazionale designata al
 
 controllo del traffico aereo, o l'apposita frequenza radio internazionale di soccorso.
 
-#### Articolo 40
+##### Articolo 40
 
 Attivita' di ricerca e di rilievi
 
 Nel corso del passaggio in transito le navi straniere ivi comprese le unita' idrografiche e di ricerca marine, non possono eseguire alcuna attivita' di ricerca o di rilievi senza la preliminare autorizzazione degli Stati rivieraschi.
 
-#### Articolo 41
+##### Articolo 41
 
 Corridoi di traffico e schemi di separazione del traffico negli stretti per la navigazione internazionale
 
@@ -665,7 +659,7 @@ Essa puo' esclusivamente indicare i corridoi di traffico e prescrivere gli schem
 
 7\. Le navi nel corso del passaggio di transito rispettano i corridoi di traffico e gli schemi di separazione del traffico indicati o prescritti conformemente al presente articolo.
 
-#### Articolo 42
+##### Articolo 42
 
 Leggi e regolamenti emanati dagli Stati rivieraschi in materia di passaggio in transito
 
@@ -695,7 +689,7 @@ d) carico e scarico di materiali, valuta o persone in violazione delle leggi e r
 
 5\. In caso di violazione di tali leggi e regolamenti o di altre disposizioni della presente Parte da parte di una nave o aeromobile che gode di immunita' sovrana, lo Stato di bandiera della nave o lo Stato presso il quale e' immatricolato l'aeromobile, si assume la responsabilita' internazionale di qualunque perdita o danno che siano derivati agli Stati rivieraschi da tale violazione.
 
-#### Articolo 43
+##### Articolo 43
 
 Ausili alla sicurezza e alla navigazione e altre attrezzature, e prevenzione, riduzione e controllo dell'inquinamento
 
@@ -707,15 +701,15 @@ b) alla prevenzione, riduzione e controllo dell'inquinamento
 
 provocato dalle navi.
 
-#### Articolo 44
+##### Articolo 44
 
 Obblighi degli Stati rivieraschi
 
 Gli Stati rivieraschi non debbono ostacolare il passaggio in transito e debbono segnalare con pubblicita' adeguata qualsiasi causa di pericolo alla navigazione o al sorvolo nell'area dello stretto, che sia ad essi nota. Il passaggio in transito non puo' essere sospeso.
 
-## SEZIONE 3. PASSAGGIO INOFFENSIVO
+### SEZIONE 3. PASSAGGIO INOFFENSIVO
 
-#### Articolo 45
+##### Articolo 45
 
 Passaggio inoffensivo
 
@@ -735,7 +729,7 @@ esclusiva, e il mare territoriale di un altro Stato.
 
 ## PARTE IV - STATI-ARCIPELAGO
 
-#### Articolo 46
+##### Articolo 46
 
 Uso dei termini
 
@@ -751,7 +745,7 @@ parti di isole, le acque comprese e altri elementi naturali,
 
 che siano cosi' strettamente interconnessi tra loro da formare intrinsecamente un unico insieme geografico, economico e politico, oppure siano storicamente considerati come tale.
 
-#### Articolo 47
+##### Articolo 47
 
 Linee di base arcipelagiche
 
@@ -773,13 +767,13 @@ Linee di base arcipelagiche
 
 9\. Lo Stato-arcipelago deve dare debita-diffusione a tali carte nautiche o elenchi di coordinate geografiche, e deve depositarne un esemplare presso il Segretario Generale dell'Organizzazione delle Nazioni Unite.
 
-#### Articolo 48
+##### Articolo 48
 
 Misurazione della larghezza del mare territoriale, della zona contigua, della zona economica esclusiva e della piattaforma continentale
 
 La larghezza del mare territoriale, della zona contigua, della zona economica esclusiva e della piattaforma continentale viene misurata a partire da linee di base arcipelagiche tracciate conformemente all'articolo 47.
 
-#### Articolo 49
+##### Articolo 49
 
 Regime giuridico delle acque arcipelagiche, del relativo fondo marino e del suo sottosuolo e dello spazio aereo soprastante
 
@@ -791,13 +785,13 @@ Regime giuridico delle acque arcipelagiche, del relativo fondo marino e del suo 
 
 4\. Il regime del passaggio nei corridoi di traffico arcipelagici, stabilito dalla presente Parte, non pregiudica in nessun altro modo il regime giuridico delle acque arcipelagiche, ivi compresi i corridoi di traffico, ne' l'esercizio di sovranita', da parte dello Stato-arcipelago, su tali acque e sullo spazio aereo soprastante, sul relativo fondo marino, sul suo sottosuolo e sulle risorse ivi contenute.
 
-#### Articolo 50
+##### Articolo 50
 
 Delimitazione delle acque interne
 
 Entro le proprie acque arcipelagiche, lo Stato-arcipelago puo' tracciare linee di delimitazione delle acque interne, conformemente agli articoli 9, 10 e 11.
 
-#### Articolo 51
+##### Articolo 51
 
 Accordi in vigore, diritti di pesca tradizionali e cavi sottomarini in opera
 
@@ -805,7 +799,7 @@ Accordi in vigore, diritti di pesca tradizionali e cavi sottomarini in opera
 
 2\. Uno Stato-arcipelago deve rispettare i cavi sottomarini gia' messi in opera da altri Stati, che attraversino le sue acque senza toccare la costa. Uno Stato-arcipelago deve consentire la manutenzione e la sostituzione di tali cavi, non appena sia stato informato della loro posizione e della intenzione di riparazioni o sostituzioni.
 
-#### Articolo 52
+##### Articolo 52
 
 Diritto di passaggio inoffensivo
 
@@ -813,7 +807,7 @@ Diritto di passaggio inoffensivo
 
 2\. Lo Stato-arcipelago, senza effettuare discriminazioni di diritto o di fatto tra navi straniere, puo' sospendere temporaneamente, in zone specifiche delle proprie acque arcipelagiche, l'esercizio del diritto di passaggio inoffensivo da parte di navi straniere se tale misura si rende indispensabile per proteggere la propria sicurezza. La sospensione entra in vigore solo dopo che ad essa sia stata data la debita pubblicita'.
 
-#### Articolo 53
+##### Articolo 53
 
 Diritto di passaggio nei corridoi di traffico arcipelagici
 
@@ -843,7 +837,7 @@ Tale organizzazione puo' adottare esclusivamente i corridoi di traffico o gli sc
 
 12\. Se uno Stato-arcipelago non istituisce corridoi di traffico o rotte aeree, il diritto di passaggio nei corridoi di traffico arcipelagici puo' essere esercitato utilizzando le rotte normalmente seguite per la navigazione internazionale.
 
-#### Articolo 54
+##### Articolo 54
 
 Obblighi delle navi e degli aeromobili durante il passaggio e le attivita' di ricerca e rilievi, obblighi degli Stati-arcipelago, leggi e regolamenti degli Stati-arcipelago relativi al passaggio nei corridoi di traffico arcipelagici.
 
@@ -851,13 +845,13 @@ Gli articoli 39, 40, 42 e 44 si applicano, mutatis mutandis, al passaggio nei co
 
 ## PARTE V - ZONA ECONOMICA ESCLUSIVA
 
-#### Articolo 55
+##### Articolo 55
 
 Regime giuridico specifico della zona economica esclusiva
 
 La zona economica esclusiva e' la zona al di la' del mare territoriale e ad esso adiacente, sottoposta allo specifico regime giuridico stabilito nella presente Parte, in virtu' del quale i diritti e la giurisdizione dello Stato costiero, e i diritti e le liberta' degli altri Stati, sono disciplinati dalle pertinenti disposizioni della presente Convenzione.
 
-#### Articolo 56
+##### Articolo 56
 
 Diritti, giurisdizione e obblighi dello Stato costiero nella zona economica esclusiva
 
@@ -887,13 +881,13 @@ c) altri diritti e doveri previsti dalla presente Convenzione;
 
 3\. I diritti enunciati nel presente articolo relativamente al fondo del mare e al suo sottosuolo, vengono esercitati conformemente alla Parte VI.
 
-#### Articolo 57
+##### Articolo 57
 
 Larghezza della zona economica esclusiva
 
 La zona economica esclusiva non si estende al di la' di 200 miglia marine dalle linee di base da cui viene misurata la larghezza del mare territoriale.
 
-#### Articolo 58
+##### Articolo 58
 
 Diritti e obblighi degli altri Stati nella zona economica esclusiva 1. Nella zona economica esclusiva tutti gli Stati, sia costieri sia privi di litorale, godono, conformemente alle specifiche disposizioni della presente Convenzione, delle liberta' di navigazione e di sorvolo, di posa in opera di condotte e cavi sottomarini, indicate all'articolo 87, e di altri usi del mare, leciti in ambito internazionale, collegati con tali liberta', come quelli associati alle operazioni di navi, aeromobili, condotte e cavi sottomarini, e compatibili con le altre disposizioni della presente convenzione.
 
@@ -901,13 +895,13 @@ Diritti e obblighi degli altri Stati nella zona economica esclusiva 1. Nella zon
 
 3\. Nell'esercitare i propri diritti e nell'adempiere i propri obblighi nella zona economica esclusiva conformemente alla presente Convenzione, gli Stati tengono in debito conto i diritti e gli obblighi dello Stato costiero, e rispettano sia le leggi e i regolamenti emanati dallo Stato costiero conformemente alle disposizioni della presente Convenzione, sia le altre norme del diritto internazionale purche' non siano incompatibili con la presente Parte.
 
-#### Articolo 59
+##### Articolo 59
 
 Base per la soluzione di conflitti relativi all'attribuzione di diritti e giurisdizione nella zona economica esclusiva
 
 Nei casi in cui la presente Convenzione non attribuisca diritti o giurisdizione allo Stato costiero o ad altri Stati nell'ambito della zona economica esclusiva, e sorga un conflitto tra gli interessi dello Stato costiero e quelli di un qualsiasi altro Stato o Stati, tale conflitto dovrebbe essere risolto sulla base dell'equita' e alla luce di tutte le circostanze pertinenti, tenendo conto dell'importanza che tali interessi rivestono sia per le parti in causa, sia per la comunita' internazionale nel suo complesso.
 
-#### Articolo 60
+##### Articolo 60
 
 Isole artificiali, installazioni e strutture nella zona economica esclusiva
 
@@ -941,7 +935,7 @@ Tali zone vengono stabilite secondo criteri idonei a garantirne la ragionevole r
 
 8\. Le isole artificiali, le installazioni e le strutture non hanno lo status di isole. Non possiedono un proprio mare territoriale e la loro presenza non modifica la delimitazione del mare territoriale, della zona economica esclusiva o della piattaforma continentale.
 
-#### Articolo 61
+##### Articolo 61
 
 Conservazione delle risorse biologiche
 
@@ -955,7 +949,7 @@ Conservazione delle risorse biologiche
 
 5\. L'informazione scientifica disponibile, le statistiche sul pescato e sull'attivita' di pesca e qualsiasi altro dato rilevante per la conservazione dei banchi di pesce vengono diffusi e scambiati regolarmente attraverso le competenti organizzazioni internazionali, subregionali, regionali o mondiali, laddove lo si ritenga appropriato e con la partecipazione di tutti gli Stati interessati, ivi compresi quelli di cui hanno la nazionalita' i soggetti che sono stati autorizzati a pescare nella zona economica esclusiva.
 
-#### Articolo 62
+##### Articolo 62
 
 Sfruttamento delle risorse biologiche
 
@@ -1023,7 +1017,7 @@ k) procedure esecutive.
 
 5\. Gli Stati costieri danno debita diffusione alla normativa adottata in materia di conservazione e di gestione.
 
-#### Articolo 63
+##### Articolo 63
 
 Banchi esistenti all'interno delle zone economiche esclusive di due o piu' Stati costieri oppure presenti contemporaneamente all'interno
 
@@ -1031,7 +1025,7 @@ della zona economica esclusiva e in un'area esterna ad essa adiacente 1. Quando 
 
 2\. Quando lo stesso banco o piu' banchi di specie associate si trovano contemporaneamente nella zona economica esclusiva e in un'area esterna ad essa adiacente, lo Stato costiero e gli Stati che sfruttano tali banchi situati nell'area adiacente cercano di concordare, mediante trattative dirette o attraverso le competenti organizzazioni subregionali o regionali, le misure necessarie per la conservazione di tali banchi nell'area adiacente.
 
-#### Articolo 64
+##### Articolo 64
 
 Specie altamente migratorie
 
@@ -1039,13 +1033,13 @@ Specie altamente migratorie
 
 2\. Le disposizioni del numero 1 si applicano congiuntamente con le altre disposizioni della presente Parte.
 
-#### Articolo 65
+##### Articolo 65
 
 Mammiferi marini
 
 Nessuna disposizione della presente Parte limita il diritto di uno Stato costiero o la competenza di un'organizzazione internazionale, a seconda dei casi, di interdire, limitare o regolamentare lo sfruttamento dei mammiferi marini con norme piu' restrittive di quelle previste nella presente Parte. Gli Stati cooperano al fine di garantire la conservazione dei mammiferi marini e in particolare operano attraverso le apposite organizzazioni internazionali, a vantaggio della conservazione, della gestione e dello studio dei cetacei.
 
-#### Articolo 66
+##### Articolo 66
 
 Banchi anadromi
 
@@ -1093,7 +1087,7 @@ d) L'applicazione dei regolamenti relativi ai banchi anadromi oltre la zone econ
 
 5\. Lo Stato di origine dei banchi anadromi e gli altri Stati che praticano la pesca di tali banchi stipulano accordi per l'attuazione delle disposizioni del presente articolo, se opportuno, attraverso organizzazioni regionali.
 
-#### Articolo 67
+##### Articolo 67
 
 Specie catadrome
 
@@ -1103,13 +1097,13 @@ Specie catadrome
 
 3\. Nei casi in cui le specie catadrome, che abbiano o no raggiunto l'eta' adulta, migrano attraverso la zona economica esclusiva di un altro Stato, la gestione, inclusa la pesca, di tali specie e' regolata da un accordo tra lo Stato menzionato al numero 1 e l'altro Stato interessato. Tale accordo deve assicurare la gestione razionale delle specie catadrome e tener conto delle responsabilita' dello Stato citato al numero 1 per la conservazione di esse.
 
-#### Articolo 68
+##### Articolo 68
 
 Specie sedentarie
 
 La presente Parte non si applica alle specie sedentarie quali sono definite all'articolo 77, 4.
 
-#### Articolo 69
+##### Articolo 69
 
 Diritto degli Stati privi di litorale
 
@@ -1145,7 +1139,7 @@ Nella applicazione di questa norma vengono considerati anche i fattori indicati 
 
 5\. Le disposizioni sopra citate si applicano senza pregiudizio degli accordi stipulati nelle subregioni o regioni i cui Stati costieri possono concedere agli Stati privi di litorale della stessa subregione o regione, diritti uguali o preferenziali per lo sfruttamento delle risorse biologiche nella propria zona economica esclusiva.
 
-#### Articolo 70
+##### Articolo 70
 
 Diritti degli Stati geograficamente svantaggiati
 
@@ -1183,13 +1177,13 @@ interessati.
 
 6\. Le disposizioni sopra citate si applicano senza pregiudizio degli accordi stipulati nelle subregioni o regioni dove gli Stati costieri possano garantire agli Stati geograficamente svantaggiati della subregione o regione diritti uguali o preferenziali per lo sfruttamento delle risorse biologiche nelle zone economiche esclusive.
 
-#### Articolo 71
+##### Articolo 71
 
 Non applicabilita' degli articoli 69 e 70
 
 Le disposizioni degli articoli 69 e 70 non si applicano nel caso di uno Stato costiero la cui economia sia prevalentemente dipendente dallo sfruttamento delle risorse biologiche della propria zona economica esclusiva.
 
-#### Articolo 72
+##### Articolo 72
 
 Limitazioni alla concessione di diritti
 
@@ -1197,7 +1191,7 @@ Limitazioni alla concessione di diritti
 
 2\. La norma di cui sopra non preclude agli Stati interessati la possibilita' di ottenere assistenza tecnica o finanziaria da terzi Stati o da organizzazioni internazionali, intesa a facilitare l'esercizio dei diritti previsti agli articoli 69 e 70, a condizione che cio' non abbia gli effetti previsti al numero 1.
 
-#### Articolo 73
+##### Articolo 73
 
 Applicazione delle leggi e regolamenti dello Stato costiero
 
@@ -1209,7 +1203,7 @@ Applicazione delle leggi e regolamenti dello Stato costiero
 
 4\. In caso di fermo o di sequestro di navi straniere, lo Stato costiero deve prontamente notificare allo Stato di bandiera, attraverso i canali appropriati, le azioni intraprese e ogni sanzione conseguentemente applicata.
 
-#### Articolo 74
+##### Articolo 74
 
 Delimitazione della zona economica esclusiva tra Stati con coste opposte o adiacenti
 
@@ -1221,7 +1215,7 @@ Delimitazione della zona economica esclusiva tra Stati con coste opposte o adiac
 
 4\. Laddove esiste un accordo in vigore tra gli Stati interessati, la delimitazione della zona economica esclusiva viene determinata conformemente alle clausole di tale accordo.
 
-#### Articolo 75
+##### Articolo 75
 
 Carte nautiche ed elenchi di coordinate geografiche
 
@@ -1231,7 +1225,7 @@ Carte nautiche ed elenchi di coordinate geografiche
 
 ## PARTE VI - PIATTAFORMA CONTINENTALE
 
-#### Articolo 76
+##### Articolo 76
 
 Definizione della piattaforma continentale
 
@@ -1275,7 +1269,7 @@ continentale coincide con il punto del massimo cambiamento di pendenza alla base
 
 10\. Le disposizioni del presente articolo sono senza pregiudizio per la delimitazione della piattaforma continentale tra Stati con coste opposte o adiacenti.
 
-#### Articolo 77
+##### Articolo 77
 
 Diritti dello Stato costiero sulla piattaforma continentale
 
@@ -1287,7 +1281,7 @@ Diritti dello Stato costiero sulla piattaforma continentale
 
 4\. Le risorse naturali indicate nella presente Parte consistono nelle risorse minerali e altre risorse non viventi del fondo marino e del sottosuolo come pure negli organismi viventi appartenenti alle specie sedentarie, cioe' organismi che, allo stadio adulto, sono immobili sul fondo o sotto il fondo, oppure sono incapaci di spostarsi se non restando in continuo contatto fisico con il fondo marino o con il suo sottosuolo.
 
-#### Articolo 78
+##### Articolo 78
 
 Regime giuridico delle acque e dello spazio aereo sovrastanti, e diritti e liberta' degli altri Stati
 
@@ -1295,7 +1289,7 @@ Regime giuridico delle acque e dello spazio aereo sovrastanti, e diritti e liber
 
 2\. L'esercizio dei diritti dello Stato costiero sulla piattaforma continentale non deve impedire la navigazione o produrre alcuna ingiustificata interferenza nei riguardi di essa e di altri diritti e liberta' di altri Stati, sanciti della presente Convenzione.
 
-#### Articolo 79
+##### Articolo 79
 
 Cavi e condotte sottomarine sulla piattaforma continentale
 
@@ -1309,19 +1303,19 @@ Cavi e condotte sottomarine sulla piattaforma continentale
 
 5\. In occasione della posa di cavi e condotte sottomarine, gli Stati debbono tenere dovuto conto dei cavi e delle condotte gia' in posizione. In particolare, non deve essere pregiudicata la possibilita' di riparare quelli gia' esistenti.
 
-#### Articolo 80
+##### Articolo 80
 
 Isole artificiali, installazioni e strutture sulla piattaforma continentale
 
 L'articolo 60 si applica, mutatis mutandis, alle isole artificiali, alle installazioni e alle strutture situate sulla piattaforma continentale.
 
-#### Articolo 81
+##### Articolo 81
 
 Perforazioni nella piattaforma continentale
 
 Lo Stato costiero ha il diritto esclusivo di autorizzare e regolamentare le perforazioni nella piattaforma continentale, qualunque sia il loro scopo.
 
-#### Articolo 82
+##### Articolo 82
 
 Pagamenti e contributi per lo sfruttamento della piattaforma continentale al di la' di 200 miglia marine
 
@@ -1333,7 +1327,7 @@ Pagamenti e contributi per lo sfruttamento della piattaforma continentale al di 
 
 4\. I pagamenti e i contributi vengono corrisposti attraverso l'Autorita', che li ripartisce tra gli Stati contraenti la presente Convenzione, secondo criteri di equa suddivisione, tenendo conto degli interessi e delle necessita' degli Stati in via di sviluppo, con particolare riguardo a quelli meno sviluppati o privi di litorale.
 
-#### Articolo 83
+##### Articolo 83
 
 Delimitazione della piattaforma continentale tra Stati a coste opposte o adiacenti
 
@@ -1345,7 +1339,7 @@ Delimitazione della piattaforma continentale tra Stati a coste opposte o adiacen
 
 4\. Quando un accordo e' in vigore tra gli Stati interessati, i problemi relativi alla delimitazione della piattaforma continentale vengono risolti conformemente alle disposizioni da esso previste.
 
-#### Articolo 84
+##### Articolo 84
 
 Carte nautiche ed elenchi di coordinate geografiche
 
@@ -1355,7 +1349,7 @@ Quando sia conveniente, il tracciato di tali limiti esterni o linee di delimitaz
 
 2\. Lo Stato costiero da' la debita pubblicita' a tali carte nautiche o elenchi di coordinate e ne deposita una copia presso il Segretario Generale delle Nazioni Unite e, nel caso di carte che indichino il limite esterno della piattaforma continentale, presso il Segretario Generale dell'Autorita'.
 
-#### Articolo 85
+##### Articolo 85
 
 Scavo di gallerie
 
@@ -1363,13 +1357,13 @@ La presente Parte non pregiudica il diritto dello Stato costiero di sfruttare il
 
 ## PARTE VII - ALTO MARE
 
-#### Articolo 86
+##### Articolo 86
 
 Ambito di applicazione della presente Parte
 
 Le disposizioni della presente Parte si applicano a tutte le aree marine non incluse nella zona economica esclusiva, nel mare territoriale o nelle acque interne di uno Stato, o nelle acque arcipelagiche di uno Stato-arcipelago. Il presente articolo non limita il alcun modo le liberta' di cui tutti gli Stati godono nella zona economica esclusiva, conformemente all'articolo 58.
 
-#### Articolo 87
+##### Articolo 87
 
 Liberta' dell'alto mare
 
@@ -1395,25 +1389,25 @@ e XIII.
 
 2\. Tali liberta' vengono esercitate da parte di tutti gli Stati, tenendo in debito conto sia gli interessi degli altri Stati che esercitano la liberta' dell'alto mare, sia i diritti sanciti dalla presente Convenzione relativamente alle attivita' nell'Area.
 
-#### Articolo 88
+##### Articolo 88
 
 Uso esclusivo dell'alto mare per fini pacifici
 
 L'alto mare deve essere usato esclusivamente per fini pacifici.
 
-#### Articolo 89
+##### Articolo 89
 
 Illegittimita' delle rivendicazioni di sovranita' sull'alto mare
 
 Nessuno Stato puo' legittimamente pretendere di assoggettare alla propria sovranita' alcuna parte dell'alto mare.
 
-#### Articolo 90
+##### Articolo 90
 
 Diritto di navigazione
 
 Ogni Stato, sia costiero sia privo di litorale, ha il diritto di far navigare nell'alto mare navi battenti la sua bandiera.
 
-#### Articolo 91
+##### Articolo 91
 
 Nazionalita' delle navi
 
@@ -1423,7 +1417,7 @@ Fra lo Stato e la nave deve esistere un regime effettivo.
 
 2\. Ogni Stato rilascia alle navi alle quali ha concesso il diritto di battere la sua bandiera, i relativi documenti.
 
-#### Articolo 92
+##### Articolo 92
 
 Posizione giuridica delle navi
 
@@ -1433,11 +1427,11 @@ Una nave non puo' cambiare bandiera durante una traversata o durante uno scalo o
 
 2\. Una nave che navighi sotto le bandiere di due o piu' Stati impiegandole secondo convenienza, non puo' rivendicare nessuna delle nazionalita' in questione nei confronti di altri Stati, e puo' essere assimilata a una nave priva di nazionalita'.
 
-#### Articolo 93
+##### Articolo 93
 
 Navi che battono bandiera delle Nazioni Unite, delle sue agenzie specializzate e dell'Agenzia Internazionale per l'Energia Atomica Gli articoli precedenti non pregiudicano la posizione delle navi adibite al servizio ufficiale delle Nazioni Unite, delle sue agenzie specializzate o dell'Agenzia Internazionale per l'Energia Atomica, che battono la bandiera dell'Organizzazione.
 
-#### Articolo 94
+##### Articolo 94
 
 Obblighi dello Stato di bandiera
 
@@ -1511,19 +1505,19 @@ Nel ricevere la denuncia, lo Stato di bandiera apre un'inchiesta e, se vi e' luo
 
 7\. Ogni Stato apre un'inchiesta che sara' condotta da o davanti una o piu' persone debitamente qualificate, su ogni incidente in mare o di navigazione nell'alto mare, che abbia coinvolto una nave battente la sua bandiera e abbia causato la morte o lesioni gravi a cittadini di un altro Stato, oppure abbia provocato danni seri a navi o installazioni di un altro Stato o all'ambiente marino. Lo Stato di bandiera e l'altro Stato cooperano allo svolgimento di inchieste aperte da quest'ultimo su uno qualunque di tali incidenti.
 
-#### Articolo 95
+##### Articolo 95
 
 Immunita' delle navi da guerra in alto mare
 
 Le navi da guerra godono, nell'alto mare, della completa immunita' dalla giurisdizione di qualunque Stato che non sia lo Stato di bandiera.
 
-#### Articolo 96
+##### Articolo 96
 
 Immunita' delle navi impiegate esclusivamente per servizi governativi non commerciali
 
 Le navi di proprieta' o al servizio di uno Stato, e da questo impiegate esclusivamente per servizi governativi non commerciali, godono nell'alto mare della completa immunita' dalla giurisdizione di qualunque Stato che non sia lo Stato di bandiera.
 
-#### Articolo 97
+##### Articolo 97
 
 Giurisdizione penale in materia di abbordi o di qualunque altro incidente di navigazione
 
@@ -1533,7 +1527,7 @@ Giurisdizione penale in materia di abbordi o di qualunque altro incidente di nav
 
 3\. Il fermo o il sequestro della nave, anche se adottati come misure cautelari nel corso dell'istruttoria, non possono essere disposti da nessuna Autorita' che non sia lo Stato di bandiera.
 
-#### Articolo 98
+##### Articolo 98
 
 Obbligo di prestare soccorso
 
@@ -1555,7 +1549,7 @@ presso cui essa e' immatricolata, e qual'e' il porto piu' vicino presso cui fara
 
 2\. Ogni Stato costiero promuove la costituzione e il funzionamento permanente di un servizio adeguato ed efficace di ricerca e soccorso per tutelare la sicurezza marittima e aerea e, quando le circostanze lo richiedono, collabora a questo fine con gli Stati adiacenti tramite accordi regionali.
 
-#### Articolo 99
+##### Articolo 99
 
 Divieto di trasporto degli schiavi
 
@@ -1563,13 +1557,13 @@ Ogni Stato adotta misure efficaci per prevenire e perseguire il trasporto degli 
 
 Uno schiavo che si rifugia a bordo di una nave, qualunque sia la sua bandiera, e' libero ipso facto.
 
-#### Articolo 100
+##### Articolo 100
 
 Obbligo di collaborazione alla repressione della pirateria
 
 Tutti gli Stati esercitano la massima collaborazione per reprimere la pirateria nell'alto mare o in qualunque altra area che si trovi fuori della giurisdizione di qualunque Stato.
 
-#### Articolo 101
+##### Articolo 101
 
 Definizione di pirateria
 
@@ -1593,19 +1587,19 @@ c) ogni azione che sia di incitamento o di facilitazione
 
 intenzionale a commettere gli atti descritti alle lettere a) o b).
 
-#### Articolo 102
+##### Articolo 102
 
 Atti di pirateria commessi da una nave da guerra o da una nave o da un aeromobile di Stato i cui equipaggi si siano ammutinati
 
 Gli atti di pirateria di cui all'articolo 101, commessi da una nave da guerra, oppure da una nave o da un aeromobile di Stato, il cui equipaggio si sia ammutinato e abbia perso il controllo della nave o dell'aeromobile, sono assimilati agli atti commessi da navi o aeromobili privati.
 
-#### Articolo 103
+##### Articolo 103
 
 Definizione di nave o aeromobile pirata
 
 Una nave o un aeromobile sono considerati navi o aeromobile pirata se le persone che ne hanno il controllo intendono servirsene per commettere uno degli atti descritti all'articolo 101. Lo stesso vale se la nave o l'aeromobile sono stati impiegati per commettere uno di tali atti, fintanto che restano sotto il controllo delle persone che di esse si sono rese colpevoli.
 
-#### Articolo 104
+##### Articolo 104
 
 Conservazione o perdita della nazionalita' da parte di navi o aeromobili pirata
 
@@ -1613,25 +1607,25 @@ Le navi e gli aeromobili possono conservare la propria nazionalita' anche nel ca
 
 La conservazione o la perdita della nazionalita' vengono sancite dalla legge dello Stato che ha concesso la nazionalita'.
 
-#### Articolo 105
+##### Articolo 105
 
 Sequestro di navi o aeromobili pirata
 
 Nell'alto mare o in qualunque altro luogo fuori della giurisdizione di qualunque Stato, ogni Stato puo' sequestrare una nave o aeromobile pirata o una nave o aeromobile catturati con atti di pirateria e tenuti sotto il controllo dei pirati; puo' arrestare le persone a bordo e requisirne i beni. Gli organi giurisdizionali dello Stato che ha disposto il sequestro hanno il potere di decidere la pena da infliggere nonche' le misure da adottare nei confronti delle navi, aeromobili o beni, nel rispetto dei diritti dei terzi in buona fede.
 
-#### Articolo 106
+##### Articolo 106
 
 Responsabilita' per sequestri infondati
 
 Quando il sequestro di una nave o aeromobile sospettati di pirateria e' stato effettuato sulla base di prove insufficienti, lo Stato che ha disposto il sequestro e' responsabile, di fronte allo Stato di cui la nave o aeromobile hanno la nazionalita', di qualunque perdita o danno causato da tale sequestro.
 
-#### Articolo 107
+##### Articolo 107
 
 Navi e aeromobili autorizzati ad effettuare sequestri per atti di pirateria
 
 Un sequestro per atti di pirateria puo' essere effettuato solo da parte di navi da guerra o aeromobili militari, oppure da altri tipi di navi o aeromobili che siano chiaramente contrassegnati e riconoscibili quali mezzi in servizio di Stato, e siano autorizzati a tali operazioni.
 
-#### Articolo 108
+##### Articolo 108
 
 Traffico illecito di stupefacenti e sostanze psicotrope
 
@@ -1639,7 +1633,7 @@ Traffico illecito di stupefacenti e sostanze psicotrope
 
 2\. Ogni Stato che abbia motivi fondati per ritenere che una nave che batte la sua bandiera sia implicata nel traffico illecito di stupefacenti o sostanze psicotrope, puo' richiedere la collaborazione di altri Stati nella repressione del traffico.
 
-#### Articolo 109
+##### Articolo 109
 
 Trasmissioni non autorizzate dall'alto mare
 
@@ -1665,7 +1659,7 @@ autorizzate subiscono interferenze.
 
 4\. Nell'alto mare, uno Stato che ha giurisdizione, conformemente al precedente numero 3, puo' arrestare, alle condizioni dell'articolo 110, qualunque persona o nave implicata nelle trasmissioni non autorizzate e puo' sequestrare le apparecchiature trasmittenti.
 
-#### Articolo 110
+##### Articolo 110
 
 Diritto di visita
 
@@ -1693,7 +1687,7 @@ Se dopo il controllo dei documenti i sospetti permangono, si puo' procedere con 
 
 5\. Queste disposizioni si applicano anche ad altre navi o aeromobili autorizzati, che siano chiaramente contrassegnati e identificabili come navi o aeromobili in servizio di Stato.
 
-#### Articolo 111
+##### Articolo 111
 
 Diritto di inseguimento
 
@@ -1737,7 +1731,7 @@ interruzioni nell'inseguimento, dallo stesso aeromobile o da altri aeromobili o 
 
 8\. Una nave che abbia ricevuto l'ordine di fermarsi o sia stata sottoposta al fermo fuori dal mare territoriale in circostanze che non giustificano l'esercizio del diritto di inseguimento, verra' indennizzata di ogni eventuale perdita o danno conseguente a tali misure.
 
-#### Articolo 112
+##### Articolo 112
 
 Diritto di posa di condotte e cavi sottomarini
 
@@ -1745,7 +1739,7 @@ Diritto di posa di condotte e cavi sottomarini
 
 2\. A tali condotte e cavi sottomarini si applica l'articolo 79, 5.
 
-#### Articolo 113
+##### Articolo 113
 
 Rottura o danneggiamento di condotte o cavi sottomarini
 
@@ -1753,13 +1747,13 @@ Ogni Stato adotta le leggi e i regolamenti atti a definire come reati perseguibi
 
 Questa disposizione viene applicata anche nel caso di qualunque comportamento che appaia suscettibile di provocare tale rottura o danneggiamento, o che sia intenzionalmente diretto a provocarli. Non viene tuttavia applicata nel caso di rotture o danni provocati da persone che hanno agito al solo scopo legittimo di salvare se stessi o la propria nave, dopo aver adottato tutte le precauzioni necessarie ad evitare rotture o danneggiamento.
 
-#### Articolo 114
+##### Articolo 114
 
 Rottura o danneggiamento di una condotta o cavo sottomarino da parte del proprietario di un'altra condotta o cavo sottomarino.
 
 Ogni Stato adotta le leggi e i regolamenti atti a garantire che, qualora persone soggette alla sua giurisdizione che siano i proprietari di un cavo o di una condotta sottomarini situati nell'alto mare, nel posare o riparare quel cavo o quella condotta, provochino rotture o danni a un altro cavo o condotta, esse sopportino il costo delle riparazioni.
 
-#### Articolo 115
+##### Articolo 115
 
 Indennizzo per perdite subite nell'evitare il danneggiamento di condotte o cavi sottomarini
 
@@ -1767,7 +1761,7 @@ Ogni Stato adotta le leggi e i regolamenti atti a garantire che il proprietario 
 
 ## SEZIONE 2. CONSERVAZIONE E GESTIONE DELLE RISORSE BIOLOGICHE DELL'ALTO MARE
 
-#### Articolo 116
+##### Articolo 116
 
 Diritto di pesca nell'alto mare
 
@@ -1783,13 +1777,13 @@ costieri previsti, tra l'altro, all'articolo 63, 2, e agli articoli da 64 a 67; 
 
 c) alle disposizioni della presente sezione.
 
-#### Articolo 117
+##### Articolo 117
 
 Obblighi degli Stati nei confronti dei soggetti che ne hanno la nazionalita' di adottare misure di conservazione delle risorse biologiche dell'alto mare
 
 Tutti gli Stati hanno l'obbligo di adottare misure nei confronti dei soggetti che ne hanno la nazionalita' necessarie per assicurare la conservazione delle risorse biologiche dell'alto mare, o di collaborare a tal fine con altri Stati.
 
-#### Articolo 118
+##### Articolo 118
 
 Cooperazione degli Stati alla conservazione e gestione delle risorse biologiche
 
@@ -1797,7 +1791,7 @@ Gli Stati cooperano alla conservazione e alla gestione delle risorse biologiche 
 
 A tale scopo collaborano all'istituzione di organizzazioni regionali o subregionali per la pesca.
 
-#### Articolo 119
+##### Articolo 119
 
 Conservazione delle risorse biologiche dell'alto mare
 
@@ -1821,7 +1815,7 @@ tale che la loro riproduzione non rischi di essere compromessa.
 
 3\. Gli Stati interessati vigilano che le misure di conservazione e la loro applicazione non comportino discriminazioni di diritto o di fatto nei confronti dei pescatori di un qualunque Stato.
 
-#### Articolo 120
+##### Articolo 120
 
 Mammiferi marini
 
@@ -1829,7 +1823,7 @@ L'articolo 65 si applica anche alla conservazione e alla gestione dei mammiferi 
 
 ## PARTE VIII - REGIME GIURIDICO DELLE ISOLE
 
-#### Articolo 121
+##### Articolo 121
 
 Regime giuridico delle isole
 
@@ -1841,13 +1835,13 @@ Regime giuridico delle isole
 
 ## PARTE IX - MARI CHIUSI O SEMICHIUSI
 
-#### Articolo 122
+##### Articolo 122
 
 Definizione
 
 Ai fini della presente Convenzione si intende per "mare chiuso o semichiuso" un golfo, un bacino o un mare circondato da due o piu' Stati e comunicante con un altro mare o con un oceano per mezzo di un passaggio stretto, o costituito, interamente o principalmente, dai mari territoriali e dalle zone economiche esclusive di due o piu' Stati costieri.
 
-#### Articolo 123
+##### Articolo 123
 
 Cooperazione tra Stati costieri di mari chiusi o semichiusi
 
@@ -1869,7 +1863,7 @@ internazionali interessati a cooperare con loro all'applicazione delle disposizi
 
 ## PARTE X - DIRITTO DI ACCESSO AL MARE E DAL MARE DEGLI STATI PRIVI DI LITORALE E LIBERTA' DI TRANSITO
 
-#### Articolo 124
+##### Articolo 124
 
 Uso dei termini
 
@@ -1889,7 +1883,7 @@ ii) nel caso in cui cio' sia richiesto dalle condizioni locali, i portatori e gl
 
 2\. Gli Stati privi di litorale e gli Stati di transito possono, con accordo fra loro, includere nell'ambito dei mezzi di trasporto gli oleodotti, i gasdotti ed altri sistemi di trasporto diversi da quelli indicati nel numero 1.
 
-#### Articolo 125
+##### Articolo 125
 
 Diritto di accesso al mare e dal mare e liberta' di transito
 
@@ -1901,13 +1895,13 @@ degli Stati di transito mediante ogni mezzo di trasporto
 
 3\. Gli Stati di transito, nell'esercizio della loro piena sovranita' sul loro territorio, hanno il diritto di adottare ogni misura necessaria ad assicurare che i diritti e le agevolazioni disciplinati nella presente Parte a favore degli Stati privi di litorale non siano tali da compromettere i loro legittimi interessi.
 
-#### Articolo 126
+##### Articolo 126
 
 Inapplicabilita' della clausola della nazione piu' favorita
 
 Alle disposizioni della presente Convenzione, cosi' come agli accordi speciali riguardanti l'esercizio del diritto di accesso al mare e dal mare, che stabiliscono diritti ed agevolazioni, in funzione della particolare posizione geografica degli Stati privi di litorale, non si applica la clausola della nazione piu' favorita.
 
-#### Articolo 127
+##### Articolo 127
 
 Diritti doganali, tasse ed altre spese
 
@@ -1915,19 +1909,19 @@ Diritti doganali, tasse ed altre spese
 
 2\. I mezzi di trasporto in transito e le altre strutture messe a disposizione degli Stati privi di litorale e da essi utilizzate non sono soggette a tasse o spese maggiori di quelle imposte per l'utilizzazione dei mezzi di trasporto degli Stati di transito.
 
-#### Articolo 128
+##### Articolo 128
 
 Zone franche ed altre strutture doganali
 
 Al fine di facilitare il traffico in transito, possono essere previste delle zone franche o delle altre strutture doganali nei porti di entrata e di uscita negli Stati di transito, mediante accordi fra questi Stati e gli Stati privi di litorale.
 
-#### Articolo 129
+##### Articolo 129
 
 Collaborazione nella costruzione e nel miglioramento dei mezzi di trasporto
 
 Quando negli Stati di transito non vi sono mezzi di trasporto tali da dare attuazione alla liberta' di transito, o quando i mezzi esistenti, incluse le attrezzature e le installazioni portuali, sono inadeguati sotto un qualsiasi aspetto, gli Stati di transito e gli Stati privi di litorale interessati possono cooperare per la loro costruzione o miglioramento.
 
-#### Articolo 130
+##### Articolo 130
 
 Misure per evitare od eliminare ritardi o altre difficolta' di carattere tecnico nel traffico in transito
 
@@ -1935,23 +1929,21 @@ Misure per evitare od eliminare ritardi o altre difficolta' di carattere tecnico
 
 2\. Qualora si verificassero tali ritardi o difficolta', le autorita' competenti degli Stati di transito e degli Stati privi di litorale interessati coopereranno per la loro tempestiva eliminazione.
 
-#### Articolo 131
+##### Articolo 131
 
 Uguaglianza di trattamento nei porti marittimi
 
 Le navi battenti la bandiera di Stati privi di litorale godono nei porti marittimi di un trattamento uguale a quello accordato alle altre navi straniere.
 
-#### Articolo 132
+##### Articolo 132
 
 Concessione di piu' ampie agevolazioni di transito
 
 La presente Convenzione non comporta in alcun caso l'eliminazione delle facilitazioni di transito che sono piu' ampie di quelle dalla stessa previste e che sono state concordate fra gli Stati contraenti della presente Convenzione o sono state concesse da uno Stato contraente. La presente Convenzione non preclude inoltre la concessione di piu' ampie agevolazioni di transito per il futuro.
 
-## PARTE XI - L'AREA
+## PARTE XI - L'AREA SEZIONI 1. DISPOSIZIONI GENERALI
 
-### SEZIONI 1. DISPOSIZIONI GENERALI
-
-#### Articolo 133
+##### Articolo 133
 
 Uso dei termini
 
@@ -1961,7 +1953,7 @@ a) per "risorse" si intendono tutte le risorse minerali solide, liquide o gassos
 
 b) le risorse, una volta estratte dall'Area, sono denominate "minerali".
 
-#### Articolo 134
+##### Articolo 134
 
 Ambito di applicazione della presente Parte
 
@@ -1973,21 +1965,21 @@ Ambito di applicazione della presente Parte
 
 4\. Nessuna disposizione del presente articolo incide sulla determinazione del limite esterno della piattaforma continentale conformemente alla Parte VI o sulla validita' degli accordi relativi alla delimitazione fra Stati le cui coste siano opposte od adiacenti.
 
-#### Articolo 135
+##### Articolo 135
 
 Regime giuridico delle acque e dello spazio aereo sovrastanti
 
 Ne' la presente Parte ne' i diritti accordati od esercitati in virtu' di essa incidono sul regime giuridico delle acque sovrastanti l'Area o sul regime dello spazio aereo situato sopra quelle acque.
 
-## SEZIONE 2. PRINCIPI RIGUARDANTI L'AREA
+### SEZIONE 2. PRINCIPI RIGUARDANTI L'AREA
 
-#### Articolo 136
+##### Articolo 136
 
 Patrimonio comune dell'umanita'
 
 L'Area e le sue risorse sono patrimonio comune dell'umanita'.
 
-#### Articolo 137
+##### Articolo 137
 
 Regime giuridico dell'Area e delle sue risorse
 
@@ -1997,13 +1989,13 @@ Regime giuridico dell'Area e delle sue risorse
 
 3\. Nessuno Stato o persona fisica o giuridica puo' rivendicare, acquisire od esercitare diritti sui minerali estratti dall'Area se non conformemente alla presente Parte. Diversamente, non puo' essere riconosciuta alcuna rivendicazione, acquisizione o esercizio di tali diritti diritti.
 
-#### Articolo 138
+##### Articolo 138
 
 Condotta generale degli Stati con riferimento all'Area
 
 La condotta generale degli Stati, con riferimento all'Area, deve essere conforme alle disposizioni della presente Parte, ai principi enunciati nella Carta delle Nazioni Unite ed alle altre norme del diritto internazionale nell'interesse di mantenere la pace e la sicurezza e di promuovere la cooperazione internazionale e la mutua comprensione.
 
-#### Articolo 139
+##### Articolo 139
 
 Obbligo di assicurare il rispetto e responsabilita' per danni
 
@@ -2015,7 +2007,7 @@ Uno Stato contraente non e' comunque responsabile dei danni derivanti da un qual
 
 3\. Gli Stati contraenti che sono membri di organizzazioni internazionali adottano misure appropriate per assicurare l'applicazione del presente articolo con riferimento a tali organizzazioni.
 
-#### Articolo 140
+##### Articolo 140
 
 Beneficio dell'umanita'
 
@@ -2023,13 +2015,13 @@ Beneficio dell'umanita'
 
 2\. L'Autorita' assicura l'equa ripartizione dei vantaggi finanziari e degli altri vantaggi economici derivanti dalle attivita' nell'Area, mediante ogni meccanismo appropriato, su una base non discriminatoria, conformemente all'articolo 160, 2, f) i).
 
-#### Articolo 141
+##### Articolo 141
 
 Utilizzazione dell'Area esclusivamente a scopi pacifici
 
 L'area e' aperta all'utilizzazione esclusivamente a scopi pacifici da parte di tutti gli Stati, sia che si tratti di Stati dotati o privi di litorale, senza discriminazioni e senza pregiudizio delle altre disposizioni della presente Parte.
 
-#### Articolo 142
+##### Articolo 142
 
 Diritti e interessi legittimi degli Stati costieri
 
@@ -2039,7 +2031,7 @@ Diritti e interessi legittimi degli Stati costieri
 
 3\. Ne' questa Parte ne' i diritti accordati o esercitati in virtu' di essa pregiudicano i diritti degli Stati costieri di adottare le misure, compatibili con le disposizioni pertinenti contenute nella Parte XII, che si rendano necessarie per prevenire, attenuare o eliminare un pericolo grave e imminente alle loro coste, o ad interessi connessi, imputabili ad inquinamento o a minaccia di inquinamento, o ad altri fatti rischiosi conseguenti o causati da attivita' nell'Area.
 
-#### Articolo 143
+##### Articolo 143
 
 Ricerca scientifica marina
 
@@ -2061,7 +2053,7 @@ iii) favorire l'impiego del loro personale qualificato per le ricerche condotte 
 
 c) diffondendo efficacemente i risultati delle ricerche e delle analisi, quando disponibili, attraverso l'Autorita' o altri canali internazionali, quando necessario.
 
-#### Articolo 144
+##### Articolo 144
 
 Trasferimento di tecnologia
 
@@ -2077,7 +2069,7 @@ a) programmi per il trasferimento all'Impresa e agli Stati in via di sviluppo de
 
 b) misure dirette ad assicurare l'avanzamento della tecnologia dell'Impresa e della tecnologia nazionale degli Stati in via di sviluppo, in particolare fornendo al personale dell'Impresa e degli Stati in via di sviluppo l'opportunita' di ricevere una formazione sulla scienza e tecnologia marine e di partecipare pienamente alle attivita' dell'Area.
 
-#### Articolo 145
+##### Articolo 145
 
 Protezione dell'ambiente marino
 
@@ -2087,13 +2079,13 @@ a) prevenire, ridurre e controllare l'inquinamento e gli altri rischi cui e' sot
 
 b) proteggere e conservare le risorse naturali dell'Area e prevenire i danni alla flora e alla fauna dell'ambiente marino.
 
-#### Articolo 146
+##### Articolo 146
 
 Protezione della vita umana
 
 Per quanto concerne le attivita' condotte nell'Area, devono essere adottate le misure necessarie per assicurare efficacemente la protezione della vita umana. A tale scopo l'Autorita' adotta norme, regolamenti e procedure appropriati per integrare diritto internazionale esistente come codificato nei trattati nella specifica materia.
 
-#### Articolo 147
+##### Articolo 147
 
 Compatibilita' delle attivita' condotte nell'Area e delle altre attivita' esercitate nell'ambiente marino
 
@@ -2113,21 +2105,21 @@ c) tali installazioni non hanno lo status di isole. Esse non possiedono un mare 
 
 3\. Le altre attivita' esercitate nell'ambiente marino sono condotte tenendo ragionevolmente conto delle attivita' svolte nell'Area.
 
-#### Articolo 148
+##### Articolo 148
 
 Partecipazione degli Stati in via di sviluppo alle attivita' condotte nell'Area
 
 L'effettiva partecipazione degli Stati in via di sviluppo alle attivita' condotte nell'Area e' favorita, come prevede espressamente la presente Parte, tenendo nel dovuto conto gli interessi e le necessita' specifiche di detti Stati, e in particolare i bisogni peculiari di quelli tra loro che sono senza litorale o geograficamente svantaggiati, e devono superare gli ostacoli che derivano dalla loro posizione sfavorevole, ivi compresa la condizione di trovarsi lontani dall'Area e la difficolta' di accesso e rientro da essa.
 
-#### Articolo 149
+##### Articolo 149
 
 Reperti archeologici e storici
 
 Tutti i reperti di natura archeologica e storica rinvenuti nell'Area vanno conservati o ceduti nell'interesse di tutta l'umanita', tenendo in particolare conto i diritti preferenziali dello Stato o della regione d'origine, o dello Stato cui per origini culturali si riferiscono, o dello Stato di origine storica e archeologica.
 
-## SEZIONE 3. VALORIZZAZIONE DELLE RISORSE DELL'AREA
+### SEZIONE 3. VALORIZZAZIONE DELLE RISORSE DELL'AREA
 
-#### Articolo 150
+##### Articolo 150
 
 Politiche relative alle attivita' condotte nell'Area
 
@@ -2155,7 +2147,7 @@ l'umanita'; e
 
 j) condizioni di accesso ai mercati, per l'importazione dei minerali provenienti dalle risorse dell'Area e per l'importazione dei prodotti di base derivati da tali minerali, che non siano piu' favorevoli delle condizioni piu' vantaggiose applicate alle importazioni di prodotti provenienti da altre fonti.
 
-#### Articolo 151
+##### Articolo 151
 
 Politiche in materia di produzione
 
@@ -2209,7 +2201,7 @@ b) L'Autorita' prende in esame le richieste di autorizzazione alla produzione su
 
 10\. Su raccomandazione del Consiglio, sulla base del parere della Commissione di pianificazione economica, l'Assemblea istituisce un sistema di compensazione o prevede altre misure di assistenza tendenti ad agevolare l'equilibrio economico, non esclusa la cooperazione con le istituzioni specializzate e altre organizzazioni internazionali, per venire in aiuto agli Stati in via di sviluppo la cui economia e i cui introiti da esportazione risentono in maniera grave degli effetti sfavorevoli di una diminuzione del prezzo di un minerale che figura tra quelli estratti nell'Area ovvero di una riduzione del volume delle proprie esportazioni concernenti quel minerale, nel limite in cui la diminuzione o la riduzione e' dovuta ad attivita' condotte nell'Area. Su richiesta, l'Autorita' intraprende studi sui problemi degli Stati che rischiano di essere piu' seriamente colpiti, al fine di ridurre al minimo le loro difficolta' e di aiutarli ad assestare la loro economia.
 
-#### Articolo 152
+##### Articolo 152
 
 Esercizio dei poteri e delle funzioni da parte dell'Autorita'
 
@@ -2217,7 +2209,7 @@ Esercizio dei poteri e delle funzioni da parte dell'Autorita'
 
 2\. Purtuttavia, essa puo' accordare, ai sensi delle disposizioni espresse della presente Parte, una attenzione particolare agli Stati in via di sviluppo e in special modo a quelli tra essi privi di litorale o geograficamente svantaggiati.
 
-#### Articolo 153
+##### Articolo 153
 
 Sistema di esplorazione e di sfruttamento
 
@@ -2237,13 +2229,13 @@ b) in associazione con l'Autorita', dagli Stati contraenti o da imprese di Stato
 
 6\. Ogni contratto conforme al numero 3 fornisce la garanzia del titolo. Di conseguenza, il contratto non puo' essere modificato, sospeso o rescisso se non in conformita' agli articoli 18 e 19 dell'Allegato III.
 
-#### Articolo 154
+##### Articolo 154
 
 Revisione periodica
 
 Ogni cinque anni a decorrere dall'entrata in vigore della presente Convenzione, l'Assemblea procede a un esame generale e sistematico del modo in cui il regime internazionale dell'Area, stabilito dalla Convenzione stessa, ha avuto pratica esecuzione. Alla luce di tale esame, l'Assemblea puo' adottare o raccomandare ad altri organi di adottare misure conformi alle disposizioni o alle procedure previste nella presente Parte e nei relativi allegati che ad essa si riferiscono, in vista di migliorare il funzionamento del regime.
 
-#### Articolo 155
+##### Articolo 155
 
 La Conferenza di revisione
 
@@ -2269,11 +2261,9 @@ e) se il sistema ha consentito di ripartire equamente i vantaggi ricavati dalle 
 
 5\. Gli emendamenti adottati dalla Conferenza di revisione in applicazione del presente articolo non pregiudicano i diritti acquisiti a fronte di contratti gia' in vigore.
 
-## SEZIONE 4.
+### SEZIONE 4. - L'AUTORITA' SOTTOSEZIONE A - DISPOSIZIONI GENERALI
 
-### L'AUTORITA' SOTTOSEZIONE A - DISPOSIZIONI GENERALI
-
-#### Articolo 156
+##### Articolo 156
 
 Costituzione dell'Autorita'
 
@@ -2289,7 +2279,7 @@ procedure
 
 5\. L'Autorita' puo' istituire i centri o gli uffici regionali che essa giudichera' necessari per l'esercizio delle proprie funzioni.
 
-#### Articolo 157
+##### Articolo 157
 
 Natura dell'Autorita' e principi fondamentali che regolano il suo funzionamento
 
@@ -2301,7 +2291,7 @@ Natura dell'Autorita' e principi fondamentali che regolano il suo funzionamento
 
 4\. Allo scopo di assicurare a tutti i membri dell'Autorita' i diritti e i vantaggi derivanti dalla propria qualita' di membri, ciascun membro dell'Autorita' adempie in buona fede agli obblighi che incombono su di esso conformemente alla presente Parte della Convenzione.
 
-#### Articolo 158
+##### Articolo 158
 
 Organi dell'Autorita'
 
@@ -2315,7 +2305,7 @@ Organi dell'Autorita'
 
 ## SOTTO-SEZIONE B - L'ASSEMBLEA
 
-#### Articolo 159
+##### Articolo 159
 
 Composizione, procedura e votazione
 
@@ -2347,7 +2337,7 @@ In caso di dubbio sul problema di sapere se si tratta di una questione di sostan
 
 Se tale parere non e' pervenuto prima dell'ultima settimana della sessione in cui e' stato richiesto, l'Assemblea decide quando riunirsi per votare sulla proposta rinviata.
 
-#### Articolo 160
+##### Articolo 160
 
 Poteri e funzioni
 
@@ -2385,9 +2375,9 @@ m) decidere la sospensione dall'esercizio dei diritti e dei privilegi inerenti a
 
 n) discutere su ogni problema o su qualsiasi argomento rientrante nella competenza dell'Autorita' e decidere, in maniera che sia compatibile con la ripartizione dei poteri e delle funzioni fra gli organi dell'Autorita', quale di questi organi trattera' un problema oppure un argomento il cui esame non sia gia' stato espressamente attribuito alla competenza di uno di essi.
 
-## SOTTOSEZIONE C - IL CONSIGLIO
+#### SOTTOSEZIONE C - IL CONSIGLIO
 
-#### Articolo 161
+##### Articolo 161
 
 Composizione, procedura e voto
 
@@ -2439,7 +2429,7 @@ g) In caso di dubbio se una questione debba essere considerata tra quelle previs
 
 9\. Il Consiglio stabilisce una procedura che permetta ad un membro dell'Autorita' che non e' rappresentato in seno al Consiglio di farsi rappresentare ad una seduta di esso, quando detto membro ne fa richiesta o quando il Consiglio esamina un problema che lo riguarda in modo particolare. Il rappresentante di detto membro puo' partecipare ai dibattiti senza diritto di voto.
 
-#### Articolo 162
+##### Articolo 162
 
 Poteri e funzioni
 
@@ -2509,7 +2499,7 @@ y) crea un organo sussidiario per redigere progetti di norme, regolamenti e proc
 
 z) stabilisce appropriati meccanismi per la direzione e la supervisione di un corpo di ispettori incaricati di sorvegliare le attivita' condotte nell'Area per stabilire se la presente Parte, le norme, i regolamenti e le procedure dell'Autorita' nonche' i termini e le condizioni dei contratti conclusi con l'Autorita' vengono osservati.
 
-#### Articolo 163
+##### Articolo 163
 
 Organi del Consiglio
 
@@ -2543,7 +2533,7 @@ b) una Commissione giuridica e tecnica.
 
 13\. Nell'espletamento delle proprie funzioni ciascuna commissione puo' consultare, in caso di necessita', un'altra commissione, ovvero un organo competente delle Nazioni Unite o delle sue istituzioni specializzate od un'altra organizzazione internazionale con specifica competenza nella materia.
 
-#### Articolo 164
+##### Articolo 164
 
 La Commissione di pianificazione economica
 
@@ -2559,7 +2549,7 @@ c) esamina qualsiasi situazione suscettibile di procurare gli effetti sfavorevol
 
 d) propone al Consiglio, affinche' lo sottoponga all'esame dell'Assemblea, come previsto dall'articolo 151, 10, un sistema di compensazione, ovvero altre misure di assistenza tendenti a facilitare l'equilibrio economico a favore degli Stati in via di sviluppo, per i quali le attivita' condotte nell'Area hanno effetti sfavorevoli, e formula al Consiglio le raccomandazioni necessarie alla messa in opera del sistema o delle misure adottate dall'Assemblea in casi specifici.
 
-#### Articolo 165
+##### Articolo 165
 
 La Commissione giuridica e tecnica.
 
@@ -2599,9 +2589,9 @@ n) calcola il livello massimo di produzione e rilascia autorizzazioni alla produ
 
 3\. Alla richiesta di ogni Stato contraente o di ogni altra parte interessata, i membri della Commissione si fanno accompagnare da un rappresentante di tale Stato o di altra parte interessata quando esercitano le loro funzioni di sorveglianza e di ispezione.
 
-## SOTTOSEZIONE D - IL SEGRETARIATO
+#### SOTTOSEZIONE D - IL SEGRETARIATO
 
-#### Articolo 166
+##### Articolo 166
 
 Il Segretariato
 
@@ -2613,7 +2603,7 @@ Il Segretariato
 
 4\. Il Segretario generale presenta all'Assemblea un rapporto annuale sull'attivita' dell'Autorita'.
 
-#### Articolo 167
+##### Articolo 167
 
 Personale dell'Autorita'
 
@@ -2623,7 +2613,7 @@ Personale dell'Autorita'
 
 3\. Il personale viene nominato dal Segretario generale. Le condizioni e le modalita' di nomina, di remunerazione e di licenziamento del personale devono essere conformi alle norme, regolamenti e procedure dell'Autorita'.
 
-#### Articolo 168
+##### Articolo 168
 
 Carattere internazionale del Segretariato
 
@@ -2635,7 +2625,7 @@ Carattere internazionale del Segretariato
 
 4\. Le norme, i regolamenti e le procedure dell'Autorita' fissano le modalita' di applicazione del presente articolo.
 
-#### Articolo 169
+##### Articolo 169
 
 Consultazioni e cooperazione con le organizzazioni internazionali e le organizzazioni non governative.
 
@@ -2645,9 +2635,9 @@ Consultazioni e cooperazione con le organizzazioni internazionali e le organizza
 
 3\. Il Segretario generale puo' far distribuire agli Stati contraenti rapporti scritti presentati dalle organizzazioni non governative di cui al numero 1, su argomenti in cui esse hanno speciale competenza e che si riferiscono ai lavori dell'Autorita'.
 
-## SOTTOSEZIONE E - L'IMPRESA
+#### SOTTOSEZIONE E - L'IMPRESA
 
-#### Articolo 170
+##### Articolo 170
 
 L'Impresa
 
@@ -2659,9 +2649,9 @@ L'Impresa
 
 4\. L'Impresa e' dotata, conformemente dell'articolo 173, 2 ed all'articolo 11 dell'Allegato IV delle risorse finanziarie di cui essa ha bisogno per esercitare le proprie funzioni, e riceve la tecnologia come previsto dall'articolo 144 e da altre disposizioni specifiche della presente Convenzione.
 
-## SOTTOSEZIONE F - ORGANIZZAZIONE FINANZIARIA DELL'AUTORITA'
+#### SOTTOSEZIONE F - ORGANIZZAZIONE FINANZIARIA DELL'AUTORITA'
 
-#### Articolo 171
+##### Articolo 171
 
 Risorse finanziarie dell'Autorita'
 
@@ -2681,13 +2671,13 @@ soggetti; e
 
 f) i pagamenti effettuati ad un fondo di compensazione conformemente all'articolo 151, 10, di cui la Commissione di pianificazione economica deve raccomandare le fonti.
 
-#### Articolo 172
+##### Articolo 172
 
 Bilancio annuale dell'Autorita'
 
 Il Segretario generale stabilisce il progetto di bilancio annuale dell'Autorita' e lo presenta al Consiglio. Esso lo esamina e lo sottopone, con le proprie raccomandazioni, all'approvazione dell'Assemblea. L'Assemblea lo esamina e lo approva in applicazione dell'articolo 160, 2, h).
 
-#### Articolo 173
+##### Articolo 173
 
 Spese dell'Autorita'
 
@@ -2701,7 +2691,7 @@ b) servire a dotare l'Impresa di risorse finanziarie conformemente all'articolo 
 
 c) servire a indennizzare gli Stati in via di sviluppo conformemente all'articolo 151, 10 ed all'articolo 160, 2, l).
 
-#### Articolo 174
+##### Articolo 174
 
 Capacita' dell'Autorita' di contrarre prestiti
 
@@ -2713,45 +2703,45 @@ Capacita' dell'Autorita' di contrarre prestiti
 
 4\) Gli Stati contraenti non sono responsabili dei debiti dell'Autorita'.
 
-#### Articolo 175
+##### Articolo 175
 
 Verifica annuale della contabilita'
 
 I rapporti, libri e conti dell'Autorita', ivi comprese le sue posizioni finanziarie, sono verificati ogni anno da un controllore indipendente designato dall'Assemblea.
 
-## SOTTOSEZIONE G - STATUS GIURIDICO, PRIVILEGI E IMMUNITA'
+#### SOTTOSEZIONE G - STATUS GIURIDICO, PRIVILEGI E IMMUNITA'
 
-#### Articolo 176
+##### Articolo 176
 
 Status giuridico
 
 L'Autorita' possiede la personalita' giuridica internazionale e ha la capacita' giuridica che le e' necessaria per esercitare le proprie funzioni e raggiungere i propri scopi.
 
-#### Articolo 177
+##### Articolo 177
 
 Privilegi e immunita'
 
 Per poter esercitare le proprie funzioni, l'Autorita' gode sul territorio di ciascuno Stato contraente dei privilegi e delle immunita' previste nella presente sottosezione. I privilegi e le immunita' relative all'Impresa sono previsti all'articolo 13 dell'Allegato IV.
 
-#### Articolo 178
+##### Articolo 178
 
 Immunita' dalla giurisdizione
 
 L'Autorita', cosi' come le sue proprieta' ed i suoi beni, gode dell'immunita' dalla giurisdizione, eccezion fatta per le circostanze in cui l'Autorita' vi rinunci espressamente in casi particolari.
 
-#### Articolo 179
+##### Articolo 179
 
 Immunita' dalla perquisizione e da ogni forma di sequestro
 
 Le proprieta' ed i beni dell'Autorita', dovunque ubicati e chiunque ne sia il detentore, sono esenti da perquisizione, requisizione, confisca, espropriazione e da ogni altra forma di sequestro derivante da una misura del potere esecutivo o legislativo.
 
-#### Articolo 180
+##### Articolo 180
 
 Esenzione da ogni restrizione, regolamentazione, controllo o moratoria
 
 Le proprieta' ed i beni dell'Autorita' sono esenti da restrizioni, regolamentazioni, controlli o moratorie di qualsiasi natura.
 
-#### Articolo 181
+##### Articolo 181
 
 Archivi e comunicazioni ufficiali dell'Autorita'
 
@@ -2761,7 +2751,7 @@ Archivi e comunicazioni ufficiali dell'Autorita'
 
 3\. Ogni Stato contraente accorda all'Autorita', per le sue comunicazioni ufficiali, un trattamento non meno favorevole di quello che accorda alle altre organizzazioni internazionali.
 
-#### Articolo 182
+##### Articolo 182
 
 Privilegi e immunita' di alcune persone agenti nell'ambito dell'Autorita'
 
@@ -2771,7 +2761,7 @@ a) dell'immunita' dalla giurisdizione per gli atti compiuti nell'esercizio delle
 
 b) delle stesse esenzioni che lo Stato, di cui non sono cittadini, accorda ai rappresentanti, funzionari e impiegati di rango comparabile di altri Stati contraenti, per quanto concerne le condizioni di immigrazione, le formalita' di registrazione degli stranieri e gli obblighi di servizio militare, come anche delle stesse facilitazioni relative alle norme sul cambio ed agli spostamenti.
 
-#### Articolo 183
+##### Articolo 183
 
 Esenzione da imposte e diritti doganali
 
@@ -2785,13 +2775,13 @@ L'Autorita' non puo' chiedere alcuna esenzione di diritti percepiti come remuner
 
 ## SOTTOSEZIONE H - SOSPENSIONE DELL'ESERCIZIO DI DIRITTI E PRIVILEGI DEI MEMBRI
 
-#### Articolo 184
+##### Articolo 184
 
 Sospensione del diritto di voto
 
 Uno Stato contraente in ritardo nel pagamento dei suoi contributi all'Autorita' non puo' partecipare alle votazioni se l'ammontare degli arretrati e' pari o superiore alle quote da esso dovute per i due anni precedenti trascorsi. L'Assemblea, comunque, puo' autorizzare tale membro a partecipare alle votazioni se constata che l'inadempienza e' dovuta a cause che sfuggono al controllo del membro.
 
-#### Articolo 185
+##### Articolo 185
 
 Sospensione dell'esercizio dei diritti e dei privilegi inerenti alla qualita' di membro
 
@@ -2799,15 +2789,15 @@ Sospensione dell'esercizio dei diritti e dei privilegi inerenti alla qualita' di
 
 2\. Nessuna decisione puo' essere presa in base al numero 1 fino a che la Camera per la soluzione delle controversie sui fondi marini non abbia constatato che lo Stato contraente ha violato gravemente e in maniera continuativa le disposizioni della presente Parte.
 
-## SEZIONE 5. SOLUZIONE DELLE CONTROVERSIE E PARERI CONSULTIVI
+### SEZIONE 5. SOLUZIONE DELLE CONTROVERSIE E PARERI CONSULTIVI
 
-#### Articolo 186
+##### Articolo 186
 
 Camera per la soluzione delle controversie sui fondi marini del Tribunale Internazionale per il diritto del mare
 
 La presente sezione, la Parte XV e l'Allegato VI regolano la costituzione della Camera per la soluzione delle controversie sui fondi marini e le modalita' di esercizio della sua competenza.
 
-#### Articolo 187
+##### Articolo 187
 
 Competenza della Camera per la soluzione delle controversie sui fondi marini
 
@@ -2833,7 +2823,7 @@ e) controversie fra l'Autorita' e uno Stato contraente, un'impresa di Stato o un
 
 f) ogni altra controversia per cui la competenza della Camera e' specificamente prevista dalla presente Convenzione.
 
-#### Articolo 188
+##### Articolo 188
 
 Sottoposizione delle controversie a una speciale Camera del Tribunale Internazionale per il diritto del mare ovvero a una Camera ad hoc della Camera per la soluzione delle controversie sui fondi marini ovvero a un arbitrato commerciale obbligatorio
 
@@ -2849,13 +2839,13 @@ b) Se all'inizio o durante il corso di un procedimento di arbitrato il tribunale
 
 c) Se nel contratto mancano le disposizioni sulla procedura arbitrale applicabile alla controversia, l'arbitrato viene condotto, a meno che le parti non convengano in maniera diversa, in conformita' alle norme di arbitrato UNCITRAL ovvero ad altra procedura di arbitrato che puo' essere prescritta nelle norme, regolamenti e procedure dell'Autorita'.
 
-#### Articolo 189
+##### Articolo 189
 
 Limitazione di competenza per cio' che riguarda le decisioni dell'Autorita'
 
 La Camera per la soluzione delle controversie sui fondi marini non ha competenza per pronunciarsi sull'esercizio da parte dell'Autorita', dei suoi poteri discrezionali, conformemente alla presente Parte; essa non puo' in alcun caso sostituire la propria discrezionalita' a quella dell'Autorita'. Senza pregiudizio nei confronti dell'articolo 191, quando essa esercita la competenza riconosciutale dall'articolo 187, la Camera per la soluzione delle controversie sui fondi marini non si pronuncia sulle questioni relative alla conformita' alla Convenzione di norme, regolamenti o procedure dell'Autorita' e non puo' dichiarare l'invalidita' di tali norme, regolamenti o procedure. La propria competenza si limita a stabilire se l'applicazione delle norme, regolamenti o procedure dell'Autorita' in un caso particolare sarebbe in conflitto con gli obblighi contrattuali delle parti della controversia oppure con gli obblighi che a tali parti derivano dalla presente Convenzione, nonche' a conoscere i ricorsi per incompetenza o eccesso di potere e cosi' anche richieste di risarcimento di danni o altre forme di riparazione invocate da una delle parti contro l'altra a seguito di una inadempienza ai propri obblighi contrattuali o agli obblighi che ad essa spettano in virtu' della presente Convenzione.
 
-#### Articolo 190
+##### Articolo 190
 
 Partecipazione al procedimento e comparizione degli
 
@@ -2865,7 +2855,7 @@ Stati contraenti patrocinati
 
 2\. Quando una azione viene intentata nei confronti di uno Stato contraente da una persona fisica o giuridica patrocinata da un altro Stato contraente per una controversia di cui all'articolo 187, c), lo Stato convenuto puo' richiedere allo Stato patrocinante la persona di costituirsi nel procedimento in nome di essa. In mancanza di tale comparizione, lo Stato convenuto puo' farsi rappresentare da una persona giuridica della propria nazionalita'.
 
-#### Articolo 191
+##### Articolo 191
 
 Pareri consultivi
 
@@ -2875,17 +2865,17 @@ La Camera per la soluzione delle controversie sui fondi marini fornisce pareri c
 
 ### SEZIONE 1. DISPOSIZIONI GENERALI
 
-#### Articolo 192
+##### Articolo 192
 
 Obbligo generale
 
 Gli Stati hanno l'obbligo di proteggere e preservare l'ambiente marino.
 
-#### Articolo 193
+##### Articolo 193
 
 Diritto sovrano degli Stati di sfruttare le proprie risorse naturali Gli Stati hanno il diritto sovrano di sfruttare le proprie risorse naturali secondo le proprie politiche in ambito ambientale e nel rispetto del proprio obbligo di proteggere e preservare l'ambiente marino.
 
-#### Articolo 194
+##### Articolo 194
 
 Misure atte a prevenire, ridurre e tenere sotto controllo l'inquinamento dell'ambiente marino
 
@@ -2909,13 +2899,13 @@ d) l'inquinamento prodotto da altre installazioni o apparecchiature che operano 
 
 5\. Le misure adottate conformemente alla presente Parte includono quelle necessarie a proteggere e preservare ecosistemi rari o delicati, come pure l'habitat di specie in diminuzione, in pericolo o in via di estinzione e altre forme di vita marina.
 
-#### Articolo 195
+##### Articolo 195
 
 Obbligo di non trasferire il danno o il rischio, o di non trasformare un tipo di inquinamento con un altro
 
 Nell'adottare misure per prevenire ridurre, e tenere sotto controllo l'inquinamento dell'ambiente marino, gli Stati debbono agire in modo da non trasferire, direttamente o indirettamente, danni o rischi da un'area ad un'altra, e da non trasformare un tipo di inquinamento in un altro.
 
-#### Articolo 196
+##### Articolo 196
 
 Impiego di tecnologie oppure introduzione di specie importate o nuove
 
@@ -2923,39 +2913,39 @@ Impiego di tecnologie oppure introduzione di specie importate o nuove
 
 2\. Il presente articolo non modifica l'applicazione della presente Convenzione relativamente alla prevenzione, riduzione e controllo dell'inquinamento dell'ambiente marino.
 
-#### Articolo 197
+##### Articolo 197
 
 Cooperazione a livello mondiale o regionale
 
 Gli Stati cooperano a livello mondiale e regionale, come e' piu' opportuno, direttamente o attraverso le competenti organizzazioni internazionali, per elaborare regole, norme, pratiche e procedure raccomandate e coerenti con la presente Convenzione, intese a proteggere e preservare l'ambiente marino, tenendo conto delle caratteristiche peculiari della regione.
 
-#### Articolo 198
+##### Articolo 198
 
 Notifica di danni imminenti o in atto
 
 Lo Stato che viene a conoscenza di circostanze indicative di un pericolo d'inquinamento dell'ambiente marino imminente o in atto, avverte immediatamente gli Stati che ritiene esposti a tale pericolo, come pure le competenti organizzazioni internazionali.
 
-#### Articolo 199
+##### Articolo 199
 
 Piani di intervento urgente contro l'inquinamento
 
 Nei casi di cui all'articolo 198, gli Stati situati nell'area esposta cooperano secondo le proprie capacita' con le competenti organizzazioni internazionali nella maniera piu' ampia possibile, per eliminare gli effetti dell'inquinamento e prevenire e ridurre al minimo i danni. A questo fine gli Stati sviluppano e promuovono congiuntamente piani di intervento per affrontare adeguatamente gli incidenti di inquinamento nell'ambiente marino.
 
-#### Articolo 200
+##### Articolo 200
 
 Studi, programmi di ricerca e scambi di dati e informazioni
 
 Gli Stati cooperano, direttamente o tramite le competenti organizzazioni internazionali, al fine di promuovere studi, intraprendere programmi di ricerca scientifica e incoraggiare lo scambio di informazioni e dati sull'inquinamento dell'ambiente marino. Fanno il possibile per partecipare attivamente a programmi regionali e mondiali volti all'acquisizione delle conoscenze necessarie per determinare la natura e l'estensione dell'inquinamento, che vi e ' esposto, i movimenti di esso, i rischi che comporta e i rimedi possibili.
 
-#### Articolo 201
+##### Articolo 201
 
 Criteri scientifici per elaborare la normativa pertinente
 
 Alla luce delle informazioni e dei dati ricevuti conformemente all'articolo 200, gli Stati cooperano, direttamente o attraverso le competenti organizzazioni internazionali, per definire criteri scientifici idonei alla formulazione ed elaborazione di regole, norme, procedure e pratiche raccomandate per prevenire, ridurre e tenere sotto controllo l'inquinamento dell'ambiente marino.
 
-## SEZIONE 3. ASSISTENZA TECNICA
+### SEZIONE 3. ASSISTENZA TECNICA
 
-#### Articolo 202
+##### Articolo 202
 
 Assistenza tecnica e scientifica agli Stati in via di sviluppo
 
@@ -2977,7 +2967,7 @@ b) forniscono, in particolare agli Stati in via di sviluppo, l'assistenza necess
 
 c) forniscono, in particolare agli Stati in via di sviluppo, l'assistenza necessaria per predisporre gli accertamenti ambientali.
 
-#### Articolo 203
+##### Articolo 203
 
 Trattamento preferenziale a favore degli Stati in via di sviluppo Al fine di prevenire, ridurre e tenere sotto controllo l'inquinamento dell'ambiente marino o contenerne al minimo gli effetti, le organizzazioni internazionali accordano un trattamento preferenziale agli Stati in via di sviluppo, relativamente a:
 
@@ -2987,9 +2977,9 @@ e
 
 b) utilizzazione dei loro servizi specialistici.
 
-## SEZIONE 4. MONITORAGGIO E ACCERTAMENTI AMBIENTALI
+### SEZIONE 4. MONITORAGGIO E ACCERTAMENTI AMBIENTALI
 
-#### Articolo 204
+##### Articolo 204
 
 Monitoraggio dei rischi o degli effetti dell'inquinamento
 
@@ -2997,23 +2987,21 @@ Monitoraggio dei rischi o degli effetti dell'inquinamento
 
 2\. In particolare, gli Stati vegliano sugli effetti di qualunque attivita' da essi autorizzata o intrapresa, al fine di valutare se tali attivita' rischiano di inquinare l'ambiente marino.
 
-#### Articolo 205
+##### Articolo 205
 
 Pubblicazione di rapporti
 
 Gli Stati pubblicano rapporti dei risultati ottenuti, conformemente all'articolo 204, oppure li inviano periodicamente alle competenti organizzazioni internazionali, che li dovrebbero rendere disponibili a tutti gli Stati.
 
-#### Articolo 206
+##### Articolo 206
 
 Accertamento degli effetti potenziali delle attivita'
 
 Quando gli Stati hanno motivi fondati per temere che attivita' programmate nell'ambito della loro giurisdizione o sotto il loro controllo possano provocare inquinamento grave o cambiamenti significativi e nocivi nell'ambiente marino, essi dobbono valutare, per quanto possibile, gli effetti potenziali di tali attivita' sull'ambiente marino, e comunicare i rapporti dei risultati di tali accertamenti, come indicato all'articolo 205.
 
-## SEZIONE 5.
+### SEZIONE 5. - NORME INTERNAZIONALI E LEGISLAZIONE NAZIONALE PER LA PREVENZIONE, RIDUZIONE E CONTROLLO DELL'INQUINAMENTO DELL'AMBIENTE MARINO
 
-### NORME INTERNAZIONALI E LEGISLAZIONE NAZIONALE PER LA PREVENZIONE, RIDUZIONE E CONTROLLO DELL'INQUINAMENTO DELL'AMBIENTE MARINO
-
-#### Articolo 207
+##### Articolo 207
 
 Inquinamento da fonti terrestri
 
@@ -3029,7 +3017,7 @@ Tali regole, norme, procedure e pratiche raccomandate saranno oggetto di periodi
 
 5\. Le leggi, regolamenti, misure, regole, norme, procedure e pratiche raccomandate, di cui ai numeri 1, 2 e 4, includono quelle atte a contenere al minimo, per quanto e' possibile, l'immissione nell'ambiente marino di sostanze tossiche, dannose o nocive, e in particolare di quelle non degradabili.
 
-#### Articolo 208
+##### Articolo 208
 
 Inquinamento provocato da attivita' relative al fondo marino soggette alla giurisdizione nazionale
 
@@ -3043,7 +3031,7 @@ Inquinamento provocato da attivita' relative al fondo marino soggette alla giuri
 
 5\. Gli Stati, operando in particolare attraverso le competenti organizzazioni internazionali o conferenze diplomatiche, stabiliscono a livello mondiale e regionale regole, norme, procedure e pratiche raccomandate, al fine di prevenire, ridurre e tenere sotto controllo l'inquinamento dell'ambiente marino di cui al numero 1. Tali regole, norme, procedure e pratiche raccomandate sono oggetto di periodica revisione, se necessario.
 
-#### Articolo 209
+##### Articolo 209
 
 Inquinamento da attivita' condotte nell'Area
 
@@ -3051,7 +3039,7 @@ Inquinamento da attivita' condotte nell'Area
 
 2\. Alle condizioni delle disposizioni della presente sezione, gli Stati adottano leggi e regolamenti atti a prevenire, ridurre e tenere sotto controllo gli inquinamenti dell'ambiente marino derivato da attivita' condotte nell'Area da navi, installazioni, strutture e altri dispositivi che battono la loro bandiera o sono immatricolati nei loro registri o operano sotto la loro autorita'. Tali leggi e regolamenti non debbono essere meno efficaci delle norme, regolamenti e procedure di cui al numero 1.
 
-#### Articolo 210
+##### Articolo 210
 
 Inquinamento da immissione
 
@@ -3067,7 +3055,7 @@ Inquinamento da immissione
 
 6\. Le leggi, regolamenti e misure adottate in ambito nazionale per prevenire, ridurre e tenere sotto controllo tale tipo di inquinamento, debbono avere efficacia non inferiore rispetto alla normativa a carattere mondiale.
 
-#### Articolo 211
+##### Articolo 211
 
 Inquinamento provocato da navi
 
@@ -3095,7 +3083,7 @@ Tali ulteriori leggi e regolamenti possono riguardare gli scarichi o le pratiche
 
 7\. Le regole e norme internazionali previste dal presente articolo dovrebbero includere, tra l'altro, l'obbligo di notifica tempestiva agli Stati costieri la cui costa e relativi interessi possano essere compromessi da qualsiasi tipo di incidente in mare che provochi o possa provocare scarichi in mare.
 
-#### Articolo 212
+##### Articolo 212
 
 Inquinamento di origine atmosferica o transatmosferica
 
@@ -3105,27 +3093,27 @@ Inquinamento di origine atmosferica o transatmosferica
 
 3\. Gli Stati, operando particolarmente attraverso le organizzazioni internazionali competenti o una conferenza diplomatica, si impegnano per adottare a livello mondiale e regionale regole, norme, procedure e pratiche raccomandate al fine di prevenire, ridurre e tenere sotto controllo tale tipo di inquinamento.
 
-## SEZIONE 6. APPLICAZIONE
+### SEZIONE 6. APPLICAZIONE
 
-#### Articolo 213
+##### Articolo 213
 
 Applicazione della normativa relativa all'inquinamento di origine terrestre.
 
 Gli Stati assicurano l'applicazione delle proprie leggi e regolamenti adottati conformemente all'articolo 207, e adottano leggi, regolamenti e altre misure necessarie al fine di dare attuazione alle pertinenti regole e norme internazionali stabilite tramite le competenti organizzazioni internazionali o conferenze diplomatiche, per prevenire, ridurre e tenere sotto controllo l'inquinamento dell'ambiente marino di origine terrestre.
 
-#### Articolo 214
+##### Articolo 214
 
 Applicazione della normativa relativa all'inquinamento derivato da attivita' connesse con il fondo del mare.
 
 Gli Stati assicurano l'applicazione delle proprie leggi e regolamenti adottati conformemente all'articolo 208, ed emanano leggi, regolamenti e altre misure necessarie a dare attuazione alle pertinenti regole e norme internazionali stabilite tramite le competenti organizzazioni internazionali o conferenze diplomatiche per prevenire, ridurre e tenere sotto controllo l'inquinamento dell'ambiente marino derivato direttamente o indirettamente da attivita' connesse con il fondo del mare posto sotto la loro giurisdizione, o da isole artificiali, installazioni e strutture poste sotto la loro giurisdizione, ai sensi degli articoli 60 e 80.
 
-#### Articolo 215
+##### Articolo 215
 
 Applicazione della normativa internazionale relativa all'inquinamento derivato da attivita' condotte nell'Area
 
 L'applicazione di norme, regolamenti e procedure internazionali stabilite conformemente alla Parte XI, per prevenire, ridurre e tenere sotto controllo l'inquinamento dell'ambiente marino derivato da attivita' condotte nell'Area, e' disciplinata da quella Parte.
 
-#### Articolo 216
+##### Articolo 216
 
 Applicazione della normativa relativa all'inquinamento da immissione 1. Le leggi e regolamenti emanati conformemente alla presente Convenzione e alle pertinenti regole e norme internazionali stabilite tramite le competenti organizzazioni internazionali o conferenze diplomatiche per prevenire, ridurre e tenere sotto controllo l'inquinamento dell'ambiente marino provocato da immissione vengono applicati:
 
@@ -3137,7 +3125,7 @@ c) da qualunque Stato, per quanto concerne il carico di rifiuti o di altri mater
 
 2\. Nessuno Stato e' obbligato, ai sensi del presente articolo, a iniziare un procedimento quando questo sia stato gia' iniziato da un altro Stato, conformemente al presente articolo.
 
-#### Articolo 217
+##### Articolo 217
 
 Applicazione della normativa da parte degli Stati di bandiera
 
@@ -3161,7 +3149,7 @@ Gli Stati assicurano che le navi battenti la loro bandiera siano ispezionate per
 
 8\. Le sanzioni previste dalle leggi e regolamenti degli Stati per le navi che battono la loro bandiera debbono essere severe in misura adeguata a scoraggiare le violazioni, dovunque esse possano verificarsi.
 
-#### Articolo 218
+##### Articolo 218
 
 Applicazione della normativa da parte dello Stato del porto
 
@@ -3173,13 +3161,13 @@ Applicazione della normativa da parte dello Stato del porto
 
 4\. Gli atti dell'inchiesta condotta dallo Stato del porto in virtu' del presente articolo vengono trasmessi su richiesta allo Stato di bandiera o allo Stato costiero. Qualunque procedimento iniziato dallo Stato del porto sulla base di tale inchiesta puo' essere sospeso, alle condizioni della sezione 7, su richiesta dello Stato costiero quando la violazione si e' verificata nelle sue acque interne, nel suo mare territoriale o nella sua zona economica esclusiva. In questo caso gli elementi di prova e gli atti del procedimento, nonche' eventuali cauzioni o altre forme di garanzia finanziaria depositate presso le autorita' dello Stato del porto, vengono trasmesse allo Stato costiero. Tale invio preclude la prosecuzione del procedimento nello Stato del porto.
 
-#### Articolo 219
+##### Articolo 219
 
 Misure di controllo delle condizioni di navigabilita' delle navi al fine di evitare inquinamento
 
 Alle condizioni della sezione 7, gli Stati che, su richiesta altrui o di propria iniziativa, abbiano accertato che una nave in uno dei loro porti o presso una delle loro installazioni per l'ormeggio al largo della costa, stia violando le pertinenti norme e regole internazionali in materia di navigabilita' delle navi, dalla quale puo' derivare un danno all'ambiente marino, adottano misure amministrative, per quanto possibile, per impedire alla nave di navigare. Tali Stati consentono alla nave di procedere solo fino al piu' vicino idoneo cantiere di riparazione e, rimosse le cause della violazione, permettono alla nave di riprendere il mare senza indugi.
 
-#### Articolo 220
+##### Articolo 220
 
 Applicazione della normativa da parte dello Stato costiero
 
@@ -3199,39 +3187,39 @@ Applicazione della normativa da parte dello Stato costiero
 
 8\. Le disposizioni dei numeri 3, 4, 5, 6, 7, si applicano anche alle leggi e regolamenti nazionali adottati conformemente all'articolo 211, 6.
 
-#### Articolo 221
+##### Articolo 221
 
 Misure atte a evitare l'inquinamento derivato da incidenti in mare 1. Nessuna disposizione della presente Parte pregiudica il diritto degli Stati, in virtu' del diritto internazionale sia consuetudinario sia convenzionale, di adottare e applicare al di la' del mare territoriale misure proporzionate al danno subito o prevedibile, al fine di proteggere le proprie coste e gli interessi correlati, ivi compresa la pesca, dall'inquinamento o da una minaccia di inquinamento determinato da un incidente in mare o da azioni ad esso connesse, da cui e' ragionevole aspettarsi conseguenze gravemente dannose.
 
 2\. Ai fini del presente articolo per "incidente in mare" si intende un abbordaggio, un incaglio o altro incidente di navigazione, o altro evento verificatosi a bordo o all'esterno della nave, che abbia arrecato danni materiali o comporti il pericolo imminente di danni materiali ad una nave o al suo carico.
 
-#### Articolo 222
+##### Articolo 222
 
 Applicazione della normativa relativa all'inquinamento atmosferico o transatmosferico
 
 Entro lo spazio aereo sottoposto alla loro sovranita' oppure nei confronti di navi che battono la loro bandiera o di navi e aeromobili da loro immatricolati, gli Stati applicano le leggi e i regolamenti adottati conformemente all'articolo 212, 1, e alle altre disposizioni della presente Convenzione, e adottano leggi e regolamenti e altre misure necessarie a dare attuazione alle pertinenti regole e norme internazionali stabilite attraverso le competenti organizzazioni internazionali o conferenze diplomatiche, al fine di prevenire, ridurre e tenere sotto controllo l'inquinamento dell'ambiente marino d'origine atmosferica o transatmosferica, conformemente a tutte le pertinenti regole e norme internazionali relative alla sicurezza della navigazione aerea.
 
-## SEZIONE 7. GARANZIE
+### SEZIONE 7. GARANZIE
 
-#### Articolo 223
+##### Articolo 223
 
 Misure atte a facilitare lo svolgimento di procedimenti
 
 Nel corso di procedimenti iniziati in applicazione della presente Parte, gli Stati adottano misure atte a facilitare l'audizione dei testimoni e l'ammissione delle prove prodotte dall'autorita' di un altro Stato o dalla competente organizzazione internazionale, nonche' la partecipazione a tali procedimenti dei rappresentanti ufficiali della competente organizzazione internazionale, dello Stato di bandiera e di qualunque Stato coinvolto dall'inquinamento provocato da una qualsiasi violazione. I rappresentanti ufficiali che partecipano a tali procedimenti hanno i diritti e gli obblighi previsti dalle legislazioni nazionali o dal diritto internazionale.
 
-#### Articolo 224
+##### Articolo 224
 
 Esercizio dei poteri di polizia
 
 I poteri di polizia contro navi straniere conformemente alla presente Parte possono essere esercitati solo da pubblici ufficiali o da navi da guerra, aeromobili militari o altre navi o aeromobili chiaramente contrassegnati e identificati come unita' in servizio di Stato, in tal senso autorizzati.
 
-#### Articolo 225
+##### Articolo 225
 
 Obbligo di evitare conseguenze nefaste nell'esercizio dei poteri di polizia
 
 Nell'esercizio dei propri poteri di polizia contro navi straniere in virtu' della presente Convenzione, gli Stati non debbono compromettere la sicurezza della navigazione ne' in alcun modo determinare cause di pericolo alle navi ne' condurle a porti o ancoraggi insicuri, ne' esporre l'ambiente marino a rischi eccessivi.
 
-#### Articolo 226
+##### Articolo 226
 
 Indagini su navi straniere
 
@@ -3251,13 +3239,13 @@ c) Senza pregiudizio delle pertinenti regole e norme internazionali in materia d
 
 2\. Gli Stati cooperano alla definizione di procedure atte ad evitare ispezioni superflue a bordo di navi in mare.
 
-#### Articolo 227
+##### Articolo 227
 
 Obbligo di evitare discriminazioni ai danni di navi straniere
 
 Nell'esercitare i loro diritti e nell'assolvere i loro obblighi conformemente alla presente Parte, gli Stati non debbono effettuare discriminazioni di diritto o di fatto ai danni delle navi di qualunque altro Stato.
 
-#### Articolo 228
+##### Articolo 228
 
 Sospensione dei procedimenti e limiti dell'apertura degli stessi
 
@@ -3267,13 +3255,13 @@ Sospensione dei procedimenti e limiti dell'apertura degli stessi
 
 3\. Le disposizioni del presente articolo non pregiudicano il diritto dello Stato di bandiera di adottare le misure, tra cui l'apertura di procedimenti giudiziari, previste dalla propria legislazione nazionale, indipendentemente dai procedimenti gia' iniziati da un altro Stato.
 
-#### Articolo 229
+##### Articolo 229
 
 Istituzione di procedimenti civili
 
 Nessuna disposizione della presente Convenzione limita il diritto di iniziare una causa civile in caso di perdite o danni derivati dall'inquinamento dell'ambiente marino.
 
-#### Articolo 230
+##### Articolo 230
 
 Pene pecuniarie e rispetto dei diritti riconosciuti all'accusato
 
@@ -3283,17 +3271,17 @@ Pene pecuniarie e rispetto dei diritti riconosciuti all'accusato
 
 3\. Nel corso di un procedimento iniziato per tali violazioni commesse da una nave straniera per le quali possono essere inflitte pene pecuniarie, si debbono rispettare i diritti riconosciuti dell'accusato.
 
-#### Articolo 231
+##### Articolo 231
 
 Notifica allo Stato di bandiera e agli altri Stati interessati
 
 Gli Stati notificano prontamente allo Stato di bandiera e agli altri Stati interessati le misure adottate contro navi straniere conformemente alla sezione 6, e sottopongono allo Stato di bandiera tutta la documentazione ufficiale relativa a tali misure. Tuttavia, in caso di violazione commessa nel mare territoriale, lo Stato costiero deve rispettare tale obblighi solo in relazione a misure adottate nel corso di procedimenti. Gli agenti diplomatici o i funzionari consolari e, quando e' possibile, le autorita' marittime dello Stato di bandiera vengono immediatamente informate di tali misure adottate contro le navi straniere conformemente alla sezione 6.
 
-#### Articolo 232
+##### Articolo 232
 
 Responsabilita' degli Stati derivanti dalle misure di applicazione Gli Stati sono responsabili di danni o perdite ad essi imputabili, conseguenti a misure adottate nell'applicazione della sezione 6, quando tali misure siano illegittime o siano eccessive rispetto a quelle che sono ragionevolmente necessarie alla luce delle informazioni disponibili. Gli Stati prevedono la possibilita' di ricorrere ai propri organi giurisdizionali per i risarcimenti di tali danni o perdite.
 
-#### Articolo 233
+##### Articolo 233
 
 Garanzie relative agli stretti usati per la navigazione internazionale
 
@@ -3301,17 +3289,17 @@ Nessuna disposizione delle sezioni 5, 6 e 7 modifica il regime giuridico degli s
 
 Tuttavia, se una nave straniera diversa da quelle previste nella sezione 10 ha violato le leggi e regolamenti di cui all'articolo 42, 1, a) e b), arrecando o rischiando di arrecare danni gravi all'ambiente marino degli stretti, gli Stati rivieraschi degli stretti possono adottare le misure di applicazione appropriate nel rispetto, mutatis mutandis, delle disposizioni della presente sezione.
 
-## SEZIONE 8. AREE COPERTE DAI GHIACCI
+### SEZIONE 8. AREE COPERTE DAI GHIACCI
 
-#### Articolo 234
+##### Articolo 234
 
 Aree coperte dai ghiacci
 
 Gli Stati costieri hanno il diritto di adottare e applicare leggi e regolamenti non discriminanti intesi a prevenire, ridurre e tenere sotto controllo l'inquinamento marino provocato dalle navi in aree coperte da ghiacci entro i limiti della zona economica esclusiva, dove condizioni climatiche particolarmente rigide e la presenza di ghiacci per la maggior parte dell'anno ostacolano o determinano condizioni di eccezionale pericolosita' per la navigazione, e l'inquinamento dell'ambiente marino provocherebbe danni gravi o scompensi irreversibili all'equilibrio ecologico. Tali leggi e regolamenti debbono tenere in debito conto le esigenze della navigazione nonche' la protezione e la preservazione dell'ambiente marino, sulla base della documentazione scientifica piu' affidabile di cui si disponga.
 
-## SEZIONE 9. RESPONSABILITA'
+### SEZIONE 9. RESPONSABILITA'
 
-#### Articolo 235
+##### Articolo 235
 
 Responsabilita'
 
@@ -3321,9 +3309,9 @@ Responsabilita'
 
 3\. Al fine di assicurare l'indennizzo rapido e adeguato per qualunque danno derivato dall'inquinamento dell'ambiente marino, gli Stati collaborano per assicurare l'applicazione del diritto internazionale esistente e l'ulteriore sviluppo del diritto internazionale relativamente all'accertamento e all'indennizzo dei danni e alla soluzione delle relative controversie nonche', quando e' opportuno all'elaborazione di criteri e procedure per il pagamento di adeguati indennizzi quali assicurazioni obbligatorie o fondi di indennizzo.
 
-## SEZIONE 10. IMMUNITA' SOVRANA
+### SEZIONE 10. IMMUNITA' SOVRANA
 
-#### Articolo 236
+##### Articolo 236
 
 Immunita' sovrana
 
@@ -3331,7 +3319,7 @@ Le disposizioni della presente Convenzione in materia di protezione e preservazi
 
 ## SEZIONE 11. OBBLIGHI DERIVATI DA ALTRE CONVENZIONI IN MATERIA DI PROTEZIONE E PRESERVAZIONE DELL'AMBIENTE MARINO
 
-#### Articolo 237
+##### Articolo 237
 
 Obblighi derivati da altre convenzioni in materia di protezione e preservazione dell'ambiente marino
 
@@ -3343,19 +3331,19 @@ Obblighi derivati da altre convenzioni in materia di protezione e preservazione 
 
 ### SEZIONE 1. PRINCIPI GENERALI
 
-#### Articolo 238
+##### Articolo 238
 
 Diritto di condurre ricerca scientifica marina
 
 Tutti gli Stati, indipendentemente dalla loro posizione geografica, e le competenti organizzazioni internazionali hanno il diritto di condurre ricerca scientifica marina nel rispetto dei diritti e obblighi degli altri Stati, come stabilito dalla presente Convenzione.
 
-#### Articolo 239
+##### Articolo 239
 
 Impulso alla ricerca scientifica marina
 
 Gli Stati e le competenti organizzazioni internazionali incoraggiano e facilitano lo sviluppo e la condotta della ricerca scientifica marina conformemente alla presente Convenzione.
 
-#### Articolo 24O
+##### Articolo 24O
 
 Principi generali che disciplinano la condotta della ricerca scientifica marina
 
@@ -3379,15 +3367,15 @@ d) la ricerca scientifica marina e' condotta nel rispetto di tutti
 
 i pertinenti regolamenti adottati conformemente alla presente Convenzione, inclusi quelli relativi alla protezione e preservazione dell'ambiente marino.
 
-#### Articolo 241
+##### Articolo 241
 
 Non riconoscimento delle attivita' di ricerca scientifica marina come fondamento giuridico di rivendicazioni
 
 Le attivita' di ricerca scientifica marina non costituiscono il fondamento giuridico di alcuna rivendicazione su nessuna parte dell'ambiente marino o delle sue risorse.
 
-## SEZIONE 2. COOPERAZIONE INTERNAZIONALE
+### SEZIONE 2. COOPERAZIONE INTERNAZIONALE
 
-#### Articolo 242
+##### Articolo 242
 
 Impulso alla cooperazione internazionale
 
@@ -3395,13 +3383,13 @@ Impulso alla cooperazione internazionale
 
 2\. In questo contesto e senza pregiudizio dei diritti e obblighi degli Stati ai sensi della presente Convenzione, uno Stato, agendo in applicazione della presente Parte, fornisce ad altri Stati, per quanto e' opportuno, ragionevoli possibilita' di ottenere da esso stesso o tramite la sua collaborazione, le informazioni necessarie a prevenire e tenere sotto controllo gli effetti nocivi alla salute e alla sicurezza delle persone e all'ambiente marino.
 
-#### Articolo 243
+##### Articolo 243
 
 Creazione di condizioni favorevoli
 
 Gli Stati e le competenti organizzazioni internazionali collaborano, attraverso la conclusione di accordi bilaterali o multilaterali, alla creazione di condizioni favorevoli alla condotta di ricerca scientifica marina nell'ambiente marino e all'integrazione degli sforzi degli scienziati nello studio della natura dei fenomeni e dei processi che si verificano nell'ambiente marino, e delle loro interazioni.
 
-#### Articolo 244
+##### Articolo 244
 
 Pubblicazione e diffusione di informazioni e conoscenze
 
@@ -3409,15 +3397,15 @@ Pubblicazione e diffusione di informazioni e conoscenze
 
 2\. A questo fine gli Stati, sia a titolo individuale sia in collaborazione con gli altri Stati e con le competenti organizzazioni internazionali, promuovono attivamente la diffusione di dati e informazioni scientifiche e il trasferimento di conoscenze derivate dalla ricerca scientifica marina, specialmente verso i Paesi in via di sviluppo, nonche' il potenziamento delle autonome capacita' di ricerca scientifica marina di questi ultimi attraverso, tra l'altro, adeguati programmi di istruzione e formazione del loro personale tecnico e scientifico.
 
-## SEZIONE 3. CONDOTTA E IMPULSO ALLA RICERCA SCIENTIFICA
+### SEZIONE 3. CONDOTTA E IMPULSO ALLA RICERCA SCIENTIFICA
 
-#### Articolo 245
+##### Articolo 245
 
 Ricerca scientifica marina nel mare territoriale
 
 Gli Stati costieri, nell'esercizio delle proprie sovranita', hanno il diritto esclusivo di regolamentare, autorizzare e condurre la ricerca scientifica marina nel loro mare territoriale. La ricerca scientifica marina nel mare territoriale viene condotta solo con l'espresso consenso dello Stato costiero e alle condizioni da esso stabilite.
 
-#### Articolo 246
+##### Articolo 246
 
 Ricerca scientifica marina nella zona economica esclusiva e sulla piattaforma continentale
 
@@ -3457,7 +3445,7 @@ assolto obblighi pendenti verso lo Stato costiero in virtu' di un precedente pro
 
 della propria giurisdizione, previsti dalla presente Convenzione.
 
-#### Articolo 247
+##### Articolo 247
 
 Progetti di ricerca scientifica marina intrapresi dalle organizzazioni internazionali o sotto i loro auspici
 
@@ -3465,7 +3453,7 @@ Lo Stato costiero che sia membro di un'organizzazione internazionale o sia ad es
 
 l'organizzazione ha a esso notificato il progetto stesso.
 
-#### Articolo 248
+##### Articolo 248
 
 Obbligo di fornire informazioni allo Stato costiero
 
@@ -3491,7 +3479,7 @@ dell'ente e del responsabile del progetto;
 
 f) la misura in cui si ritiene che lo Stato costiero sia in grado di partecipare al progetto o farvisi rappresentare.
 
-#### Articolo 249
+##### Articolo 249
 
 Obbligo di assolvere certe condizioni
 
@@ -3529,19 +3517,19 @@ completamento della ricerca, salvo accordi diversi.
 
 2\. Questo articolo non pregiudica le condizioni sancite dalle leggi e regolamenti dello stato costiero per l'esercizio del proprio potere discrezionale di accordare o rifiutare il proprio consenso in applicazione dell'articolo 246, 5, ivi compreso l'obbligo di stipulare accordi preliminari per la diffusione a livello internazionale dei risultati di ricerche nell'ambito di progetti che interessano direttamente l'esplorazione e lo sfruttamento delle risorse naturali.
 
-#### Articolo 250
+##### Articolo 250
 
 Comunicazioni relative ai progetti di ricerca scientifica marina
 
 Le comunicazioni relative ai progetti di ricerca scientifica marina avvengono attraverso i canali ufficiali appropriati, salvo accordi diversi.
 
-#### Articolo 251
+##### Articolo 251
 
 Criteri e direttive generali
 
 Gli Stati si prefiggono di promuovere, attraverso le competenti organizzazioni internazionali, la definizione dei criteri e direttive generali che li aiutino a determinare la natura e le implicazioni della ricerca scientifica marina.
 
-#### Articolo 252
+##### Articolo 252
 
 Consenso tacito
 
@@ -3561,7 +3549,7 @@ progetto di ricerca scientifica marina eseguito da quello Stato
 
 o da quella organizzazione, relativi alle condizioni stabilite all'articolo 249.
 
-#### Articolo 253
+##### Articolo 253
 
 Sospensione o cessazione delle attivita' di ricerca scientifica marina
 
@@ -3601,7 +3589,7 @@ scientifica marina possono proseguire dopo che lo Stato o la
 
 competente organizzazione internazionale interessati abbiano soddisfatto le condizioni previste agli articoli 248 e 249.
 
-#### Articolo 254
+##### Articolo 254
 
 Diritti degli stati confinanti senza litorale o geograficamente svantaggiati
 
@@ -3613,19 +3601,19 @@ Diritti degli stati confinanti senza litorale o geograficamente svantaggiati
 
 4\. Gli Stati e le competenti organizzazioni internazionali menzionate al numero 1 forniscono agli Stati confinanti senza litorale o geograficamente svantaggiati su citati, dietro loro richiesta, le informazioni e l'assistenza descritta all'articolo 249, 1, d), fatte salve le disposizioni dell'articolo 249, 2.
 
-#### Articolo 255
+##### Articolo 255
 
 Misure intese a facilitare la ricerca scientifica marina e fornire assistenza alle navi da ricerca
 
 Gli Stati fanno il possibile per adottare ragionevoli norme, regolamenti e procedure al fine di incoraggiare e facilitare la ricerca scientifica marina condotta conformemente alla presente Convenzione al di la' del loro mare territoriale e, nella misura opportuna, di facilitare l'accesso ai loro porti e di favorire l'assistenza alle navi per la ricerca scientifica marina che rispondono alle pertinenti disposizioni della presente Parte, fatte salve le loro leggi e regolamenti.
 
-#### Articolo 256
+##### Articolo 256
 
 Ricerca scientifica marina nell'Area
 
 Tutti gli Stati, indipendentemente dalla loro posizione geografica, e le competenti organizzazioni internazionali hanno il diritto, conformemente alle disposizioni della Parte XI, di effettuare ricerca scientifica marina nell'Area.
 
-#### Articolo 257
+##### Articolo 257
 
 Ricerca scientifica marina nella colonna d'acqua al di la' della zona economica esclusiva
 
@@ -3633,39 +3621,39 @@ Tutti gli Stati, indipendentemente dalla loro posizione geografica, e le compete
 
 ## SEZIONE 4. INSTALLAZIONI O ATTREZZATURE PER LA RICERCA SCIENTIFICA NELL'AMBIENTE MARINO
 
-#### Articolo 258
+##### Articolo 258
 
 Messa in opera e utilizzo
 
 La messa in opera e l'utilizzo di qualunque tipo di installazioni e apparecchiature per la ricerca in qualunque area dell'ambiente marino e' subordinata alle stesse condizioni prescritte dalla presente Convenzione per l'esecuzione della ricerca scientifica marina nell'area in questione.
 
-#### Articolo 259
+##### Articolo 259
 
 Regime giuridico
 
 Le installazioni o le apparecchiature cui si fa riferimento nella presente sezione non possiedono lo status di isole. Non hanno un proprio mare territoriale e la loro presenza non influisce sulla delimitazione del mare territoriale, della zona economica esclusiva o della piattaforma continentale.
 
-#### Articolo 260
+##### Articolo 260
 
 Zone di sicurezza
 
 Si possono creare zone di sicurezza di larghezza ragionevole non superiore a 500 metri intorno alle installazioni per la ricerca scientifica, conformemente alle pertinenti disposizioni della presente Convenzione. Tutti gli Stati assicurano il rispetto di tali zone di sicurezza da parte delle proprie navi.
 
-#### Articolo 261
+##### Articolo 261
 
 Obbligo di non creare ostacoli alla navigazione internazionale
 
 La messa in opera e l'utilizzo di qualunque tipo di installazioni o di apparecchiature per la ricerca scientifica non debbono costituire un ostacolo alla navigazione sulle rotte praticate dal traffico internazionale.
 
-#### Articolo 262
+##### Articolo 262
 
 Distintivi d'identificazione e mezzi di segnalazione
 
 Le installazioni o le attrezzature menzionate nella presente sezione debbono esibire distintivi di identificazione che indichino lo Stato di immatricolazione o l'organizzazione internazionale alla quale appartengono, e debbono avere adeguati mezzi di segnalazione, concordati in ambito internazionale, per garantire la sicurezza della navigazione marittima e aerea, tenuto conto delle regole e norme stabilite dalle competenti organizzazioni internazionali.
 
-## SEZIONE 5. RESPONSABILITA'
+### SEZIONE 5. RESPONSABILITA'
 
-#### Articolo 263
+##### Articolo 263
 
 Responsabilita'
 
@@ -3675,15 +3663,15 @@ Responsabilita'
 
 3\. Gli Stati e le competenti organizzazioni internazionali sono responsabili e rispondono, in virtu' dell'articolo 235, dei danni provocati dall'inquinamento dell'ambiente marino in conseguenza della ricerca scientifica marina intrapresa da loro direttamente o da altri per conto loro.
 
-## SEZIONE 6. SOLUZIONE DELLE CONTROVERSIE E MISURE PROVVISORIE
+### SEZIONE 6. SOLUZIONE DELLE CONTROVERSIE E MISURE PROVVISORIE
 
-#### Articolo 264
+##### Articolo 264
 
 Soluzione delle controversie
 
 Le controversie relative all'interpretazione o all'applicazione delle disposizioni della presente Convenzione in materia di ricerca scientifica marina vengono risolte conformemente alla Parte XV, sezioni 2 e 3.
 
-#### Articolo 265
+##### Articolo 265
 
 Misure provvisorie
 
@@ -3693,7 +3681,7 @@ In attesa della soluzione di una controversia conformemente alla Parte XV, sezio
 
 ### SEZIONE 1. DISPOSIZIONI GENERALI
 
-#### Articolo 266
+##### Articolo 266
 
 Impulso allo sviluppo e al trasferimento di tecnologia marina
 
@@ -3703,13 +3691,13 @@ Impulso allo sviluppo e al trasferimento di tecnologia marina
 
 3\. Gli Stati fanno il possibile per favorire l'instaurazione di condizioni economiche e legali idonee al trasferimento di tecnologia marina a vantaggio di tutte le parti interessate, su basi eque.
 
-#### Articolo 267
+##### Articolo 267
 
 Protezione di interessi legittimi
 
 Gli Stati, nel promuovere la cooperazione in applicazione dell'articolo 266, tengono nel debito conto tutti gli interessi legittimi inclusi, tra l'altro, i diritti e gli obblighi dei detentori, dei fornitori e dei destinatari di tecnologia marina.
 
-#### Articolo 268
+##### Articolo 268
 
 Obiettivi fondamentali
 
@@ -3733,7 +3721,7 @@ e) la cooperazione internazionale a tutti i livelli, e
 
 particolarmente a livello regionale, subregionale e bilaterale.
 
-#### Articolo 269
+##### Articolo 269
 
 Misure atte a raggiungere gli obiettivi fondamentali
 
@@ -3763,31 +3751,31 @@ e) intraprendere progetti e promuovere azioni in compartecipazione
 
 e altre forme di cooperazione bilaterale e multilaterale.
 
-## SEZIONE 2. COOPERAZIONE INTERNAZIONALE
+### SEZIONE 2. COOPERAZIONE INTERNAZIONALE
 
-#### Articolo 270
+##### Articolo 270
 
 Metodi e mezzi di cooperazione internazionale
 
 La cooperazione internazionale per lo sviluppo e il trasferimento di tecnologia marina viene effettuata, per quanto e' possibile e opportuno, attraverso programmi bilaterali, regionali o multilaterali gia' in essere come pure attraverso programmi nuovi e ampliati, al fine di promuovere la ricerca scientifica marina e il trasferimento della relativa tecnologia, particolarmente in nuovi settori, e promuovere opportuni finanziamenti internazionali per la ricerca oceanica e la valorizzazione degli oceani.
 
-#### Articolo 271
+##### Articolo 271
 
 Direttive, criteri e norme
 
 Gli Stati, direttamente o attraverso le competenti organizzazioni internazionali, promuovono la formulazione di direttive, criteri e regole generalmente accettate per il trasferimento di tecnologia marina nel quadro di accordi bilaterali o nell'ambito di organizzazioni internazionali o altri organismi, tenendo conto in particolare degli interessi e necessita' degli Stati in via di sviluppo.
 
-#### Articolo 272
+##### Articolo 272
 
 Coordinamento di programmi internazionali
 
 Nel campo del trasferimento di tecnologia marina, gli Stati si impegnano per assicurare che le competenti organizzazioni internazionali coordinino le loro attivita', ivi compresi i programmi regionali o mondiali, tenendo conto degli interessi e delle necessita' degli Stati in via di sviluppo e in particolare di quelli privi di litorale e geograficamente svantaggiati.
 
-#### Articolo 273
+##### Articolo 273
 
 Cooperazione con le organizzazioni internazionali e con l'Autorita' Gli Stati cooperano attivamente con le competenti organizzazioni internazionali e con l'Autorita' al fine di incoraggiare e facilitare il trasferimento, agli Stati in via di sviluppo, ai soggetti che ne hanno la nazionalita' e all'impresa, delle capacita' pratiche e della tecnologia marina, in relazione alle attivita' nell'Area.
 
-#### Articolo 274
+##### Articolo 274
 
 Scopi dell'Autorita'
 
@@ -3825,7 +3813,7 @@ conoscenze tecniche, attraverso qualsiasi accordo finanziario previsto dalla pre
 
 ## SEZIONE 3. CENTRI NAZIONALI E REGIONALI DI RICERCA MARINA E TECNOLOGICA
 
-#### Articolo 275
+##### Articolo 275
 
 Creazione di centri nazionali
 
@@ -3833,7 +3821,7 @@ Creazione di centri nazionali
 
 2\. Gli Stati, attraverso le competenti organizzazioni internazionali e l'Autorita', forniscono appoggio adeguato per facilitare la creazione e il potenziamento di tali centri nazionali al fine di fornire, a quegli Stati che ne abbiano bisogno e ne facciano richiesta, mezzi di addestramento avanzato, le necessarie attrezzature, professionalita' e conoscenze pratiche, nonche' tecnici specializzati.
 
-#### Articolo 276
+##### Articolo 276
 
 Creazione di centri regionali
 
@@ -3841,7 +3829,7 @@ Creazione di centri regionali
 
 2\. Tutti gli Stati di una regione cooperano con i centri regionali della stessa per meglio assicurare una piu' efficace realizzazione dei loro obiettivi.
 
-#### Articolo 277
+##### Articolo 277
 
 Funzioni dei centri regionali
 
@@ -3879,9 +3867,9 @@ h) la compilazione e l'ordinamento sistematico delle informazioni relative alla 
 
 i) la cooperazione tecnica con altri Stati della regione.
 
-## SEZIONE 4. COOPERAZIONE TRA ORGANIZZAZIONI INTERNAZIONALI
+### SEZIONE 4. COOPERAZIONE TRA ORGANIZZAZIONI INTERNAZIONALI
 
-#### Articolo 278
+##### Articolo 278
 
 Cooperazione tra organizzazioni internazionali
 
@@ -3891,19 +3879,19 @@ Le organizzazioni internazionali competenti cui si fa riferimento nella presente
 
 ### SEZIONE 1. DISPOSIZIONI GENERALI
 
-#### Articolo 279
+##### Articolo 279
 
 Obbligo di soluzione delle controversie con mezzi pacifici
 
 Gli Stati contraenti devono giungere alla soluzione di qualsiasi controversia sorta tra di loro relativa all'interpretazione od all'applicazione della presente Convenzione con mezzi pacifici conformemente all'articolo 2, numero 3, della Carta delle Nazioni Unite e, a tale scopo, devono cercarne la soluzione con i mezzi indicati all'articolo 33, numero 1, della Carta.
 
-#### Articolo 280
+##### Articolo 280
 
 Soluzione delle controversie con qualsiasi mezzo pacifico scelto dalle parti
 
 Nessuna disposizione della presente Parte pregiudica il diritto di ciascuno degli Stati contraenti di concordare in qualunque momento di giungere alla soluzione, con un mezzo pacifico di loro scelta, di una controversia tra di loro insorta relativa all'interpretazione od all'applicazione della presente Convenzione.
 
-#### Articolo 281
+##### Articolo 281
 
 Procedura da seguire nel caso in cui nessuna soluzione sia stata raggiunta dalle parti
 
@@ -3911,13 +3899,13 @@ Procedura da seguire nel caso in cui nessuna soluzione sia stata raggiunta dalle
 
 2\. Se le parti hanno altresi' concordato un termine, il numero 1 si applica solo a partire dalla scadenza di questo termine.
 
-#### Articolo 282
+##### Articolo 282
 
 Obblighi risultanti da accordi generali, regionali o bilaterali
 
 Se gli Stati contraenti che sono parti in una controversia relativa all'interpretazione od all'applicazione della presente Convenzione, hanno concordato, nell'ambito di un accordo generale, regionale o bilaterale od in altro modo, che tale controversia deve essere sottoposta, su istanza di una delle parti della controversia, ad una procedura sfociante in una decisione obbligatoria, tale procedura si applica in luogo delle procedure previste nella presente Parte, salvo che le parti della controversia non convengano altrimenti.
 
-#### Articolo 283
+##### Articolo 283
 
 Obbligo degli scambi di vedute
 
@@ -3925,7 +3913,7 @@ Obbligo degli scambi di vedute
 
 2\. Parimenti le parti procedono senza indugio ad uno scambio di vedute ogni volta che si ponga fine ad una procedura di soluzione della controversia senza una soluzione, o quando una soluzione sia stata raggiunta e le circostanze esigono delle consultazioni sul modo di attuare la soluzione.
 
-#### Articolo 284
+##### Articolo 284
 
 Conciliazione
 
@@ -3937,7 +3925,7 @@ Conciliazione
 
 4\. Salvo diverso accordo tra le parti, quando una controversia e' stata sottoposta a conciliazione, il procedimento puo' essere concluso solo conformemente alla procedura di conciliazione concordata.
 
-#### Articolo 285
+##### Articolo 285
 
 Applicazione della presente Sezione alle controversie sottoposte ai sensi della Parte Xl.
 
@@ -3945,13 +3933,13 @@ La presente Sezione si applica a qualsiasi controversia che, ai sensi della Part
 
 ## SEZIONE 2. PROCEDURE OBBLIGATORIE SFOCIANTI IN DECISIONI VINCOLANTI
 
-#### Articolo 286
+##### Articolo 286
 
 Applicazione delle procedure di cui alla presente Sezione
 
 Salvo quanto previsto alla Sezione 3, qualsiasi controversia relativa all'interpretazione od all'applicazione della presente Convenzione, quando non e' stata raggiunta una soluzione ricorrendo alla Sezione 1, e' sottoposta, su istanza di ciascuna delle parti della controversia, alla corte od al tribunale competenti ai sensi della presente Sezione.
 
-#### Articolo 287
+##### Articolo 287
 
 Scelta della procedura
 
@@ -3983,7 +3971,7 @@ all'Allegato VIII, per una o piu' delle categorie di controversie ivi specificat
 
 8\. Le dichiarazioni e le comunicazioni di cui al presente articolo sono depositate presso il Segretario generale delle Nazioni Unite, che ne trasmette copia agli Stati contraenti.
 
-#### Articolo 288
+##### Articolo 288
 
 Competenza
 
@@ -3995,13 +3983,13 @@ Competenza
 
 4\. Nel caso di una controversia relativa alla competenza di una corte o tribunale, la questione deve essere risolta con una decisione di quella corte o tribunale.
 
-#### Articolo 289
+##### Articolo 289
 
 Periti
 
 In qualsiasi controversia che comporti questioni scientifiche o tecniche, una corte od un tribunale competente ai sensi della presente Sezione puo', su richiesta di una parte o d'ufficio, consultandosi con le parti, scegliere, almeno due periti scientifici o tecnici, preferibilmente dall'apposito elenco predisposto conformemente all'Allegato VIII, articolo 2, che siedono nella corte o nel tribunale senza diritto di voto.
 
-#### Articolo 290
+##### Articolo 290
 
 Misure cautelari
 
@@ -4017,7 +4005,7 @@ Misure cautelari
 
 6\. Le parti della controversia si conformano senza indugio a tutte le misure cautelari adottate ai sensi del presente articolo.
 
-#### Articolo 291
+##### Articolo 291
 
 Accesso
 
@@ -4025,7 +4013,7 @@ Accesso
 
 2\. Le procedure di soluzione delle controversie previste nella presente Parte sono aperte a soggetti diversi dagli Stati contraenti solo nei limiti in cui la Convenzione lo preveda espressamente.
 
-#### Articolo 292
+##### Articolo 292
 
 Immediato rilascio della nave e dell'equipaggio
 
@@ -4037,7 +4025,7 @@ Immediato rilascio della nave e dell'equipaggio
 
 4\. Dal momento del deposito della cauzione o di altra garanzia finanziaria fissata dalla corte o dal tribunale le autorita' dello Stato che ha effettuato il fermo si conformano prontamente alla decisione della corte o del tribunale in merito al rilascio della nave o del suo equipaggio.
 
-#### Articolo 293
+##### Articolo 293
 
 Diritto applicabile
 
@@ -4045,7 +4033,7 @@ Diritto applicabile
 
 2\. Il numero 1 non pregiudica la facolta' della corte o del tribunale competente ai sensi della presente Sezione di giudicare una controversia ex equo et bono se le parti cosi' concordano.
 
-#### Articolo 294
+##### Articolo 294
 
 Procedimenti preliminari
 
@@ -4055,13 +4043,13 @@ Procedimenti preliminari
 
 3\. Il presente articolo non pregiudica il diritto di alcuna delle parti della controversia di sollevare delle eccezioni preliminari conformemente alle norme di procedura applicabili.
 
-#### Articolo 295
+##### Articolo 295
 
 Esaurimento dei ricorsi interni
 
 Qualsiasi controversia tra Stati contraenti relativa all'interpretazione od all'applicazione della presente Convenzione puo' essere sottoposta alle procedure previste nella presente Sezione solo dopo l'esaurimento dei ricorsi interni ove questo sia richiesto dal diritto internazionale.
 
-#### Articolo 296
+##### Articolo 296
 
 Carattere definitivo e obbligatorieta' delle decisioni
 
@@ -4071,7 +4059,7 @@ Carattere definitivo e obbligatorieta' delle decisioni
 
 ## SEZIONE 3. LIMITI ED ECCEZIONI ALL'APPLICABILITA'DELLA SEZIONE 2
 
-#### Articolo 297
+##### Articolo 297
 
 Limiti all'applicabilita' della Sezione 2
 
@@ -4113,7 +4101,7 @@ d) Il rapporto della commissione di conciliazione e' trasmesso alle organizzazio
 
 e) Nel negoziare gli accordi previsti agli articoli 69 e 70, gli stati contraenti, salvo essi non abbino diversamente concordato, includono una clausola sulle misure che sono tenuti ad adottare per minimizzare la possibilita' di divergenze sull'interpretazione o applicazione dell'accordo, o sulla procedura da seguire ove nonostante tutto si manifesti una divergenza.
 
-#### Articolo 298
+##### Articolo 298
 
 Eccezioni facoltative all'applicabilita' della sezione 2
 
@@ -4139,7 +4127,7 @@ c) le controversie rispetto alle quali il Consiglio di sicurezza delle Nazioni U
 
 6\. Le dichiarazioni e le comunicazioni di ritiro delle dichiarazioni ai sensi del presente articolo, sono depositate presso il Segretario generale delle Nazioni Unite, che ne trasmette le relative copie agli Stati contraenti.
 
-#### Articolo 299
+##### Articolo 299
 
 Diritto delle parti di accordarsi sulla procedura
 
@@ -4149,25 +4137,25 @@ Diritto delle parti di accordarsi sulla procedura
 
 ## PARTE XVI - DISPOSIZIONI GENERALI
 
-#### Articolo 3OO
+##### Articolo 3OO
 
 Buona fede e abuso di diritto
 
 Gli Stati contraenti devono adempiere in buona fede gli obblighi assunti a termini della presente Convenzione ed esercitare i diritti, le competenze e le liberta' riconosciuti dalla presente Convenzione in un modo tale che non costituisca un abuso di diritto.
 
-#### Articolo 301
+##### Articolo 301
 
 Usi pacifici dei mari
 
 Nell'esercizio dei loro diritti e nell'adempimento dei loro obblighi in forza della presente Convenzione, gli Stati contraenti si astengono dal ricorso alla minaccia od all'uso della forza contro l'integrita' territoriale o l'indipendenza politica di qualsiasi Stato, od in qualsiasi altro modo incompatibile con i principi del diritto internazionale enunciati dalla Carta delle Nazioni Unite.
 
-#### Articolo 302
+##### Articolo 302
 
 Divulgazione delle informazioni
 
 Senza pregiudizio del diritto di ciascuno Stato contraente di fare ricorso alle procedure per la soluzione delle controversie previste dalla presente Convenzione, nessuna disposizione della presente Convenzione puo' essere interpretata come facente obbligo ad uno Stato contraente, nell'adempimento degli suoi obblighi in forza della presente Convenzione, di fornire delle informazioni la cui divulgazione sia in contrasto con i suoi interessi fondamentali in materia di sicurezza.
 
-#### Articolo 303
+##### Articolo 303
 
 Oggetti archeologici e storici scoperti in mare
 
@@ -4181,7 +4169,7 @@ territoriale, delle leggi e regolamenti indicati in tale articolo.
 
 4\. Il presente articolo non pregiudica gli altri accordi internazionali e le norme di diritto internazionale relative alla protezione degli oggetti di carattere archeologico e storico.
 
-#### Articolo 304
+##### Articolo 304
 
 Responsabilita' in caso di danni
 
@@ -4189,7 +4177,7 @@ Le disposizioni della presente Convenzione sulla responsabilita' per danni non p
 
 ## PARTE XVII - DISPOSIZIONI FINALI
 
-#### Articolo 305
+##### Articolo 305
 
 Firma
 
@@ -4209,19 +4197,19 @@ f) delle organizzazioni internazionali, conformemente all'Allegato IX.
 
 2\. La presente Convenzione e' aperta alla firma, presso il Ministero degli affari esteri della Giamaica fino al 9 dicembre 1984 ed anche presso la sede delle Nazioni Unite a New York, dal 1 luglio 1983 al 9 dicembre 1984.
 
-#### Articolo 306
+##### Articolo 306
 
 Ratifica e conferma formale
 
 La presente Convenzione e' sottoposta alla ratifica degli Stati e degli altri soggetti di cui all'articolo 3O5, 1, b), c), d), ed e), ed alla conferma formale ai sensi dell'Allegato IX, da parte dei soggetti di cui all'articolo 3O5, 1, f). Gli strumenti di ratifica e di conferma formale sono depositati presso il Segretario generale delle Nazioni Unite.
 
-#### Articolo 307
+##### Articolo 307
 
 Adesione
 
 La presente Convenzione e' aperta all'adesione degli Stati e degli altri soggetti di cui all'articolo 3O5. L'adesione dei soggetti di cui all'articolo 3O5, 1, f), e' disciplinata dall'Allegato IX. Gli strumenti di adesione sono depositati presso il Segretario generale delle Nazioni Unite.
 
-#### Articolo 308
+##### Articolo 308
 
 Entrata in vigore
 
@@ -4237,7 +4225,7 @@ deposito del sessantesimo strumento di ratifica o di adesione.
 
 5\. L'Autorita' ed i suoi organi operano conformemente alla risoluzione II della Terza Conferenza delle Nazioni Unite sul diritto del mare, relativa agli investimenti preparatori, ed alle decisioni adottate dalla Commissione preparatoria in applicazione di tale risoluzione.
 
-#### Articolo 309
+##### Articolo 309
 
 Riserve ed eccezioni
 
@@ -4245,13 +4233,13 @@ Non possono essere apposte riserve od eccezioni alla presente Convenzione salvo 
 
 altri articoli della presente Convenzione.
 
-#### Articolo 310
+##### Articolo 310
 
 Dichiarazioni
 
 L'articolo 3O9 non vieta ad uno Stato, nel momento in cui firma, ratifica od aderisce alla presente Convenzione, di effettuare delle dichiarazioni, quale ne sia la formulazione o la denominazione, in particolare allo scopo di armonizzare le sue leggi ed i suoi regolamenti con le disposizioni della presente Convenzione, a condizione che dette dichiarazioni non siano dirette ad escludere od a modificare gli effetti giuridici delle disposizioni della presente Convenzione nella loro applicazione a tale Stato.
 
-#### Articolo 311
+##### Articolo 311
 
 Rapporti con altre convenzioni ed accordi internazionali
 
@@ -4267,7 +4255,7 @@ Rapporti con altre convenzioni ed accordi internazionali
 
 6\. Gli Stati contraenti convengono che nessuna modifica deve essere portata al principio fondamentale relativo al patrimonio comune dell'umanita' enunciato dall'articolo 136 e che essi non diverranno contraenti di alcun accordo che deroghi a detto principio.
 
-#### Articolo 312
+##### Articolo 312
 
 Emendamenti
 
@@ -4275,7 +4263,7 @@ Emendamenti
 
 2\. La procedura di adozione delle decisioni applicabile nella conferenza per gli emendamenti, e' la stessa seguita dalla terza Conferenza delle Nazioni Unite sul diritto del mare, salvo quanto altrimenti deciso dalla conferenza. La conferenza dovrebbe tentare in ogni modo di raggiungere un accordo sugli emendamenti per consenso e non dovrebbe esservi alcuna votazione sugli emendamenti finche' non si sia esaurito ogni tentativo di raggiungere il consenso.
 
-#### Articolo 313
+##### Articolo 313
 
 Emendamenti con procedura semplificata
 
@@ -4285,7 +4273,7 @@ Emendamenti con procedura semplificata
 
 3\. Se, 12 mesi dopo la data di diffusione della comunicazione, nessuno Stato contraente ha presentato obiezioni all'emendamento avanzato od alla proposta di adottarlo secondo la procedura semplificata, l'emendamento proposto e' considerato adottato. Il Segretario generale ne invia notifica a tutti gli Stati contraenti.
 
-#### Articolo 314
+##### Articolo 314
 
 Emendamenti alle disposizioni della presente Convenzione riguardanti esclusivamente le attivita' esercitate nell'Area
 
@@ -4293,7 +4281,7 @@ Emendamenti alle disposizioni della presente Convenzione riguardanti esclusivame
 
 2\. Prima di approvare un emendamento ai sensi del numero 1, il Consiglio e l'Assemblea si accertano che esso non pregiudichi il sistema di esplorazione e sfruttamento delle risorse dell'Area, in attesa della Conferenza di revisione conformemente all'articolo 155.
 
-#### Articolo 315
+##### Articolo 315
 
 Firma, ratifica, adesione e testi autentici degli emendamenti
 
@@ -4301,7 +4289,7 @@ Firma, ratifica, adesione e testi autentici degli emendamenti
 
 2\. Gli articoli 3O6, 3O7 e 32O si applicano a tutti gli emendamenti della presente Convenzione.
 
-#### Articolo 316
+##### Articolo 316
 
 Entrata in vigore degli emendamenti
 
@@ -4321,7 +4309,7 @@ b) contraente della Convenzione non emendata nei confronti degli Stati contraent
 
 6\. Ogni Stato che diventa contraente della presente Convenzione dopo l'entrata in vigore degli emendamenti conformemente al numero 5, e' considerato contraente della presente Convenzione cosi' emendata.
 
-#### Articolo 317
+##### Articolo 317
 
 Denuncia
 
@@ -4331,13 +4319,13 @@ Denuncia
 
 3\. La denuncia non incide in alcun modo sul dovere di ogni Stato contraente di adempiere a tutti gli obblighi contenuti nella presente Convenzione ai quali sarebbe sottoposto in forza del diritto internazionale indipendentemente dalla presente Convenzione.
 
-#### Articolo 318
+##### Articolo 318
 
 Stato degli allegati
 
 Gli allegati fanno parte integrante della presente Convenzione e, salvo quanto altrimenti espressamente previsto, un rinvio alla presente Convenzione o ad una delle sue parti comprende un rinvio rinvio agli allegati che vi si riferiscono.
 
-#### Articolo 319
+##### Articolo 319
 
 Depositario
 
@@ -4365,7 +4353,7 @@ iii) i testi degli emendamenti previsti al numero 2, d), per loro informazione.
 
 b) Il Segretario generale invita, inoltre, quegli osservatori a partecipare in tale qualita' alle riunioni degli Stati contraenti di cui al numero 2, c).
 
-#### Articolo 320
+##### Articolo 320
 
 Testi autentici
 
@@ -4375,7 +4363,7 @@ IN FEDE DI CIO', i sottoscritti plenipotenziari, debitamente autorizzati a quest
 
 FATTO A MONTEGO BAY, il dieci dicembre millenovecentottantadue.
 
-#### Allegato I
+##### Allegato I
 
 ALLEGATO I. SPECIE ALTAMENTE MIGRATORIE
 
@@ -4433,11 +4421,11 @@ COMMISSIONE SUI LIMITI DELLA PIATTAFORMA
 
 CONTINENTALE
 
-#### Articolo 1
+##### Articolo 1
 
 Ai sensi delle disposizioni dell'articolo 76, viene istituita una Commissione sui limiti della piattaforma continentale oltre le 200 miglia marine, conformemente ai seguenti articoli.
 
-#### Articolo 2
+##### Articolo 2
 
 1\. La Commissione e' composta da 21 membri che sono esperti nel settore della geologia, della geofisica o dell'idrografia, eletti dagli Stati contraenti della presente Convenzione tra i loro cittadini, tenuto debitamente conto della necessita' di assicurare un'equa rappresentanza geografica, ed esercitando le loro funzioni a titolo individuale.
 
@@ -4449,7 +4437,7 @@ Ai sensi delle disposizioni dell'articolo 76, viene istituita una Commissione su
 
 5\. Lo Stato contraente che sottopone la candidatura di un membro della Commissione si accolla le spese di quel membro per l'adempimento delle sue funzioni per conto della Commissione. Lo Stato costiero interessato si accolla le spese affrontate relativamente al parere di cui all'articolo 3, 1, b) del presente Allegato. Il segretariato della Commissione e' assicurato dal Segretario generale delle Nazioni Unite.
 
-#### Articolo 3
+##### Articolo 3
 
 1\. Le funzioni della Commissione sono:
 
@@ -4459,15 +4447,15 @@ b) di fornire pareri scientifici e tecnici, se richiesti dallo Stato costiero in
 
 2\. La Commissione puo' cooperare, nella misura reputata necessaria ed utile, con la Commissione oceanografica intergovernativa dell'UNESCO, con l'Organizzazione idrografica internazionale e le altre organizzazioni internazionali competenti in vista dello scambio di informazioni scientifiche e tecniche che possano essere di aiuto nell'adempimento delle responsabilita' della Commissione.
 
-#### Articolo 4
+##### Articolo 4
 
 Quando uno Stato costiero intende fissare, ai sensi dell'articolo 76, i limiti esterni della sua piattaforma continentale entro le 2OO miglia marine, esso sottopone alla Commissione i particolari di tali limiti, insieme ai dati scientifici e tecnici a sostegno, entro il piu' breve tempo possibile ma in ogni caso entro 1O anni dall'entrata in vigore della presente Convenzione per tale Stato. Lo Stato costiero allo stesso tempo comunica i nomi di tutti i membri della Commissione che gli hanno fornito il parere scientifico e tecnico.
 
-#### Articolo 5
+##### Articolo 5
 
 Salvo che la Commissione non decida diversamente, essa opera tramite delle sottocommissioni formate da 7 membri, designati in modo equilibrato tenuto conto degli specifici elementi di ciascuna domanda presentata da uno Stato costiero. I cittadini dello Stato costiero che hanno presentato la domanda e che sono anche componenti della Commissione e qualsiasi altro membro della Commissione che ha assistito uno Stato costiero, fornendogli pareri scientifici e tecnici con riferimento al tracciato, non possono fare parte della sottocommissione che si occupa di detta domanda ma hanno il diritto in qualita' di membri ai lavori della Commissione relativi a detta domanda. Lo Stato costiero che ha presentato la domanda alla Commissione puo' inviare i suoi rappresentanti a partecipare ai lavori pertinenti senza diritto di voto.
 
-#### Articolo 6
+##### Articolo 6
 
 1\. La sottocommissione sottopone le sue raccomandazioni alla Commissione.
 
@@ -4475,15 +4463,15 @@ Salvo che la Commissione non decida diversamente, essa opera tramite delle sotto
 
 3\. Le raccomandazioni della Commissione sono presentate per iscritto allo Stato costiero che ha effettuato la domanda ed al Segretario generale delle Nazioni Unite.
 
-#### Articolo 7
+##### Articolo 7
 
 Gli stati costieri fissano i limiti esterni della piattaforma continentale conformemente alle disposizioni dell'articolo 76, 8, e conformemente alle appropriate procedure nazionali.
 
-#### Articolo 8
+##### Articolo 8
 
 In caso di disaccordo dello Stato costiero con le raccomandazioni della Commissione, lo Stato costiero effettua, entro un ragionevole periodo di tempo, una domanda modificata o una nuova domanda.
 
-#### Articolo 9
+##### Articolo 9
 
 Gli atti della Commissione no pregiudicano le questioni relative alla delimitazione dei confini tra gli Stati le cui coste sono opposte o adiacenti.
 
@@ -4491,13 +4479,13 @@ ALLEGATO III. DISPOSIZIONI DI BASE PER LA PROSPEZIONE,
 
 L'ESPLORAZIONE E LO SFRUTTAMENTO
 
-#### Articolo 1
+##### Articolo 1
 
 Diritti sui minerali
 
 Il trasferimento dei diritti sui minerali avviene al momento dell'estrazione, conformemente alla presente Convenzione.
 
-#### Articolo 2
+##### Articolo 2
 
 Prospezione
 
@@ -4523,7 +4511,7 @@ c) La prospezione puo' essere condotta simultaneamente da piu' di un prospettore
 
 2\. La prospezione non conferisce al prospettore alcun diritto sulle risorse. Tuttavia egli puo' estrarre una ragionevole quantita' di minerali da usare come campioni.
 
-#### Articolo 3
+##### Articolo 3
 
 Esplorazione e sfruttamento
 
@@ -4555,7 +4543,7 @@ sfruttamento, il programma di lavoro approvato gli conferisce diritti esclusivi 
 
 5\. Dopo l'approvazione da parte dell'Autorita', ogni programma di lavoro, esclusi quelli presentati dall'Impresa, viene redatto in forma di contratto concluso tra l'Autorita' e il richiedente o i richiedenti.
 
-#### Articolo 4
+##### Articolo 4
 
 Condizioni di idoneita' dei richiedenti
 
@@ -4591,7 +4579,7 @@ d) ad adempiere le disposizioni relative al trasferimento di
 
 tecnologia, enunciate all'articolo 5 del presente Allegato.
 
-#### Articolo 5
+##### Articolo 5
 
 Trasferimento di tecnologia
 
@@ -4691,7 +4679,7 @@ nazionalita'. L'obbligo previsto dalla presente disposizione si applica solo a o
 
 8\. Ai fini del presente articolo, per "tecnologia" si intendono l'attrezzatura specialistica e l'esperienza tecnica, ivi inclusi i manuali, i disegni tecnici, le istruzioni pratiche, l'addestramento, le consulenze e l'assistenza tecnica, necessari a costruire, mantenere e far funzionare un sistema produttivo, e il diritto legale di usare questi elementi a questo fine su base non esclusiva.
 
-#### Articolo 6
+##### Articolo 6
 
 Approvazione di programmi di lavoro
 
@@ -4745,7 +4733,7 @@ dell'area che non sia riservata o non sia stata esclusa dallo sfruttamento in vi
 
 5\. Nonostante il numero 3, a), scaduto il periodo interinale di cui all'articolo 151 3, l'Autorita' puo' adottare, per mezzo di norme, regolamenti e procedure, altre procedure e criteri coerenti con la presente Convenzione per stabilire, nel caso sia necessaria una selezione tra i piu' richiedenti per una stessa area, a quali tra questi verranno approvati i programmi di lavoro. Tali procedure e criteri debbono garantire l'approvazione equa e non discriminatoria dei programmi di lavoro.
 
-#### Articolo 7
+##### Articolo 7
 
 Selezione tra coloro cha avanzano richiesta di autorizzazione a produrre
 
@@ -4777,7 +4765,7 @@ domande di autorizzazione a produrre nelle aree riservate.
 
 7\. Le decisioni previste dal presente articolo vengono prese quanto prima alla fine di ciascun periodo.
 
-#### Articolo 8
+##### Articolo 8
 
 Riserva di aree
 
@@ -4785,7 +4773,7 @@ Ciascuna domanda, salvo quelle inoltrate per aree riservate dall'Impresa o da qu
 
 Tale designazione puo' essere differita di ulteriori 45 giorni se l'Autorita' incarica un esperto indipendente di accertare se tutti i dati richiesti dal presente articolo sono stati comunicati. L'area designata diventa un'area riservata non appena il programma di lavoro per l'area non riservata e' stato approvato e il contratto e' stato firmato.
 
-#### Articolo 9
+##### Articolo 9
 
 Attivita' nelle aree riservate
 
@@ -4799,7 +4787,7 @@ Puo' anche aderire ad azioni in compartecipazione per la condotta di tali attivi
 
 4\. Qualunque Stato contraente che sia uno Stato in via di sviluppo o una qualunque persona fisica o giuridica da esso patrocinata e posta sotto il controllo effettivo di tale Stato o di un altro Stato in via di sviluppo che sia un richiedente qualificato, o un qualunque gruppo di Stati o persone su citati, puo' notificare all'Autorita' la propria intenzione di presentare un programma di lavoro conformemente all'articolo 6 del presente Allegato, relativamente a un'area riservata. Tale programma di lavoro sara' preso in considerazione se l'Impresa decide, in virtu' del numero 1, di non condurre attivita' in quell'area.
 
-#### Articolo 10
+##### Articolo 10
 
 Criteri di assegnazione di preferenze e priorita' ai richiedenti
 
@@ -4807,7 +4795,7 @@ Un operatore che sia detentore di un programma di lavoro approvato per la sola e
 
 Tuttavia tale preferenza e priorita' puo' essere revocata se il lavoro dell'operatore non e' stato soddisfacente.
 
-#### Articolo 11
+##### Articolo 11
 
 Accordi di compartecipazione
 
@@ -4817,7 +4805,7 @@ Accordi di compartecipazione
 
 3\. I soci di azioni in compartecipazione con l'Impresa sono soggetti ai pagamenti previsti all'articolo 13 del presente Allegato in misura proporzionale alla loro quota nelle azioni in compartecipazione, subordinatamente agli incentivi finanziari previsti da quell'articolo.
 
-#### Articolo 12
+##### Articolo 12
 
 Attivita' condotte dall'Impresa
 
@@ -4825,7 +4813,7 @@ Attivita' condotte dall'Impresa
 
 2\. Ogni programma di lavoro presentato dall'Impresa viene corredato di prove atte a dimostrare l'idoneita' finanziaria e tecnica di quest'ultima.
 
-#### Articolo 13
+##### Articolo 13
 
 Clausole finanziarie dei contratti
 
@@ -5295,7 +5283,7 @@ Le valute liberamente utilizzabili e le valute liberamente disponibili ed effett
 
 15\. Nell'eventualita' di controversie tra l'Autorita' e un contraente sull'interpretazione o sull'applicazione dei termini finanziari di un contratto, l'una o l'altra parte possono sottoporre la controversia ad arbitrato commerciale vincolante, salvo che entrambe le parti non concordino di risolvere la controversia con altri mezzi, conformemente all'articolo 188, 2.
 
-#### Articolo 14
+##### Articolo 14
 
 Trasferimento dei dati
 
@@ -5305,19 +5293,19 @@ Trasferimento dei dati
 
 3\. L'Autorita' non puo' comunicare ne' all'impresa ne' a chiunque sia estraneo all'Autorita' i dati ad essa comunicati dai prospettori, da chi ha presentato domanda di contratto o dai contraenti, considerati come proprieta' industriale, ad eccezione dei dati relativi alle aree riservate, che possono essere comunicati all'impresa. Tali dati, comunicati da tali persone all' Impresa, non possono da quest'ultima essere comunicati ne' all'Autorita' ne' a chiunque sia ad essa estraneo.
 
-#### Articolo 15
+##### Articolo 15
 
 Programmi di formazione
 
 Il contraene predispone programmi pratici per la formazione del personale dell'Autorita' e degli Stati in via di sviluppo, che prevedano la partecipazione di tale personale a tutte le attivita' condotte nell'Area a norma di contratto, conformemente all'articolo 144, 2.
 
-#### Articolo 16
+##### Articolo 16
 
 Diritto esclusivo di esplorazione e sfruttamento
 
 L'Autorita, in applicazione della Parte XI e delle sue norme, accorda all'operatore il diritto esclusivo di esplorare e sfruttare una categoria prestabilita di risorse nell'area coperta dal programma di lavoro, e si assicura che nessun altro soggetto operi nella stessa area in relazione a una diversa categoria di risorse in modo tale da interferire con l'attivita' dell'operatore. Quest'ultimo deve avere la garanzia del suo diritto conformemente all'articolo 153, 6.
 
-#### Articolo 17
+##### Articolo 17
 
 Norme, regolamenti e procedure dell'Autorita'
 
@@ -5539,7 +5527,7 @@ chiaramente che lo scopo principale di tali operazioni e' una produzione a vasta
 
 intesa alla raccolta di informazioni, al lavoro di analisi o alla sperimentazione di attrezzature o stabilimenti.
 
-#### Articolo 18
+##### Articolo 18
 
 Sanzioni
 
@@ -5561,7 +5549,7 @@ definitiva e vincolante presa nei suoi confronti dall'organismo preposto alla so
 
 3\. Ad eccezione degli ordini emessi in caso di emergenza conformemente all'articolo 162, 2, w), l'Autorita' non puo' rendere esecutiva una decisione che comporti sanzioni pecuniarie, sospensione o rescissione, fintanto che al contraente non sia stata accordata una ragionevole opportunita' di ricorrere ai rimedi giurisdizionali disponibili ai sensi della Parte Xl, sezione 5.
 
-#### Articolo 19
+##### Articolo 19
 
 Revisione del contratto
 
@@ -5569,13 +5557,13 @@ Revisione del contratto
 
 2\. Un contratto concluso conformemente all'articolo 153, 3, puo' essere sottoposto a revisione solo con il consenso delle parti.
 
-#### Articolo 20
+##### Articolo 20
 
 Trasferimento di diritti e obblighi
 
 I diritti e obblighi scaturiti da un contratto possono essere trasferiti solo con il consenso dell'Autorita' e in accordo con le norme, regolamenti e procedure di quest'ultima. L'Autorita' non deve, senza validi motivi, rifiutare il proprio consenso al trasferimento se il beneficiario potenziale e' a tutti gli effetti un richiedente qualificato e si assume tutti gli obblighi del cedente, e se il trasferimento non conferisce al beneficiario un programma di lavoro la cui approvazione sarebbe interdetta per effetto dell'Articolo 6, 3, c) del presente Allegato.
 
-#### Articolo 21
+##### Articolo 21
 
 Normativa applicabile
 
@@ -5585,7 +5573,7 @@ Normativa applicabile
 
 3\. Nessuno Stato contraente puo' imporre a un contraente condizioni incompatibili con la Parte Xl. Tuttavia, non vengono considerati incompatibili con la Parte Xl le leggi e i regolamenti in materia di protezione ambientale o di altro argomento, applicati da uno Stato contraente ai contraenti posti sotto il suo patrocinio o alle navi battenti la sua bandiera, che siano pi¶ restrittivi delle norme, regolamenti e procedure adottati dall'Autorita' in applicazione dell'articolo 17, 2, f), del presente Allegato.
 
-#### Articolo 22
+##### Articolo 22
 
 Responsabilita'
 
@@ -5595,7 +5583,7 @@ ALLEGATO IV
 
 STATUTO DELL'IMPRESA
 
-#### Articolo 1
+##### Articolo 1
 
 Obiettivi
 
@@ -5605,7 +5593,7 @@ Obiettivi
 
 3\. Nello sviluppo delle risorse dell'Area ai sensi del numero 1, l'Impresa opera, sotto riserva della presente Convenzione, conformemente ai principi di una sana gestione commerciale.
 
-#### Articolo 2
+##### Articolo 2
 
 Rapporti con l'Autorita'
 
@@ -5615,19 +5603,19 @@ Rapporti con l'Autorita'
 
 3\. Nulla di quanto contenuto nella presente Convenzione rende l'Impresa responsabile delle azioni o degli obblighi dell'Autorita', o rende l'Autorita' responsabile delle azioni o degli obblighi dell'Impresa.
 
-#### Articolo 3
+##### Articolo 3
 
 Limitazione della responsabilita'
 
 Senza pregiudizio dell'Articolo 11, 3 del presente Allegato, nessun membro dell'Autorita' e' responsabile delle azioni e degli obblighi dell'Impresa solo in ragione della sua qualita' di membro.
 
-#### Articolo 4
+##### Articolo 4
 
 Struttura
 
 L'Impresa ha un Consiglio di amministrazione, un Direttore generale ed il personale necessario per l'esercizio delle sue funzioni.
 
-#### Articolo 5
+##### Articolo 5
 
 Il Consiglio di amministrazione
 
@@ -5649,7 +5637,7 @@ Il Consiglio di amministrazione
 
 9\. Qualsiasi membro dell'Autorita' puo' chiedere al Consiglio di amministrazione delle informazioni relativamente alle sue attivita' che lo riguardano in modo particolare. Il Consiglio di amministrazione si sforza di fornire tali informazioni.
 
-#### Articolo 6
+##### Articolo 6
 
 Poteri e funzioni del Consiglio di amministrazione
 
@@ -5685,7 +5673,7 @@ n) di intraprendere delle azioni giudiziarie, di concludere degli accordi, di ef
 
 o) di delegare, sotto riserva dell'approvazione del Consiglio, ogni potere non discrezionale al Direttore generale ed ai suoi comitati.
 
-#### Articolo 7
+##### Articolo 7
 
 Il Direttore generale ed il personale dell'Impresa
 
@@ -5699,7 +5687,7 @@ Il Direttore generale ed il personale dell'Impresa
 
 5\. Gli obblighi di cui all'articolo 168, 2, gravano anche sul personale dell'Impresa.
 
-#### Articolo 8
+##### Articolo 8
 
 Ubicazione
 
@@ -5707,7 +5695,7 @@ L'Impresa ha la sua sede principale presso la sede dell'Autorita'.
 
 L'Impresa puo' aprire altri uffici e strutture nel territorio di ogni Stato contraente con il consenso dello Stato contraente.
 
-#### Articolo 9
+##### Articolo 9
 
 Rapporti e rendiconti finanziari
 
@@ -5717,7 +5705,7 @@ Rapporti e rendiconti finanziari
 
 3\. Tutti i rapporti ed i rendiconti finanziari di cui al presente articolo vengono distribuiti ai membri dell'Autorita'.
 
-#### Articolo 10
+##### Articolo 10
 
 Ripartizione dei profitti
 
@@ -5727,7 +5715,7 @@ Ripartizione dei profitti
 
 3\. Durante un periodo iniziale necessario affinche' l'Impresa diventi autosufficiente, periodo che non deve superare i 10 anni a partire dall'inizio della sua produzione commerciale, l'Assemblea esenta l'Impresa dai pagamenti di cui al numero 1 e destina tutto il reddito netto dell'Impresa alle riserve.
 
-#### Articolo 11
+##### Articolo 11
 
 Risorse finanziarie
 
@@ -5781,7 +5769,7 @@ Le procedure di pagamento di tali obblighi avvengono conformemente alle norme, a
 
 5\. I documenti, i libri e le scritture contabili dell'Impresa, inclusi i suoi rendiconti finanziari annuali, sono verificati ogni anno ad opera di un revisore indipendente nominato dal Consiglio.
 
-#### Articolo 12
+##### Articolo 12
 
 Operazioni
 
@@ -5809,7 +5797,7 @@ c) Il Consiglio di amministrazione puo' adottare delle norme che fissino le circ
 
 7\. L'Impresa non interferisce nelle questioni politiche degli Stati contraenti; ne e' influenzata nelle sue decisioni dall'orientamento politico dello Stato contraente coinvolto. Per le sue decisioni sono rilevanti soltanto le considerazioni di carattere commerciale e queste considerazioni sono valutate in modo imparziale, in modo da raggiungere gli scopi indicati nell'articolo 1 del presente Allegato.
 
-#### Articolo 13
+##### Articolo 13
 
 Status giuridico, privilegi ed immunita'
 
@@ -5855,19 +5843,19 @@ e) Gli Stati contraenti possono accordare degli incentivi, diritti, privilegi ed
 
 ## Sezione 1. Conciliazione conformemente alla Sezione 1 della Parte XV
 
-#### Articolo 1
+##### Articolo 1
 
 Apertura del procedimento
 
 Se le parti di una controversia si sono accordate, conformemente all'articolo 284, di sottoporla a conciliazione ai sensi della presente sezione, una qualsiasi delle parti puo' aprire il procedimento tramite una notifica per iscritto indirizzata all'altra parte o alle altre parti della controversia.
 
-#### Articolo 2
+##### Articolo 2
 
 Elenco dei conciliatori
 
 Il Segretario generale delle Nazioni Unite predispone e conserva un elenco di conciliatori. Ogni Stato contraente ha diritto di nominare quattro conciliatori, ciascuno dei quali deve essere persona che goda della piu' alta reputazione possibile quanto ad imparzialita', competenza ed integrita'. L'elenco e' costituito dai nomi delle persone cosi' nominate. Se, in un qualsiasi momento, i conciliatori nominati da uno Stato contraente nell'elenco cosi' formato divengono inferiori a quattro, tale Stato contraente ha diritto di effettuare tante altre nomine quante sono necessarie. Il nome del conciliatore rimane nell'elenco fino a quando non sia ritirato dallo Stato contraente che ha effettuato la nomina, fatto salvo che tale conciliatore continua a partecipare alle commissioni di conciliazione per le quali e' stato nominato fino al completamento del procedimento innanzi alla commissione.
 
-#### Articolo 3
+##### Articolo 3
 
 Costituzione della commissione di conciliazione
 
@@ -5891,7 +5879,7 @@ Quando due o piu' parti hanno interessi ad agire disgiunti o se vi e' disaccordo
 
 h) Nelle controversie che coinvolgono piu' di due parti aventi interessi ad agire disgiunti, o se vi e' disaccordo sulla questione se abbiano o meno un interesse comune ad agire, le parti applicano, fin dove possibile, lettere da a) a f).
 
-#### Articolo 4
+##### Articolo 4
 
 Procedura
 
@@ -5899,19 +5887,19 @@ La commissione di conciliazione fissa la sua procedura, salvo che le parti non s
 
 Le decisioni della commissione su questioni procedurali, il rapporto e le raccomandazioni della commissione sono adottati a maggioranza dei suoi membri.
 
-#### Articolo 5
+##### Articolo 5
 
 Soluzione amichevole
 
 La commissione puo' attirare l'attenzione delle parti su quelle misure che possono facilitare una soluzione amichevole della controversia.
 
-#### Articolo 6
+##### Articolo 6
 
 Funzioni della commissione
 
 La commissione ascolta le parti, esamina le loro pretese e le loro obiezioni, e avanza proposte alle parti al fine di raggiungere una soluzione amichevole.
 
-#### Articolo 7
+##### Articolo 7
 
 Rapporto
 
@@ -5919,19 +5907,19 @@ Rapporto
 
 2\. Il rapporto della commissione, incluse le sue conclusioni o raccomandazioni, non e' vincolante per le parti.
 
-#### Articolo 8
+##### Articolo 8
 
 Conclusione del procedimento
 
 Il procedimento di conciliazione si conclude quando la controversia e' stata risolta, quando le parti hanno accettato od una delle parti ha rigettato le raccomandazioni contenute nel rapporto, con notifica per iscritto indirizzata al Segretario generale delle Nazioni Unite, o quando e' trascorso un periodo di tre mesi a partire dalla data di trasmissione del rapporto alle parti.
 
-#### Articolo 9
+##### Articolo 9
 
 Onorari e spese
 
 Gli onorari e spese della commissione sono a carico delle parti della controversia.
 
-#### Articolo 10
+##### Articolo 10
 
 Diritto delle parti a modificare la procedura
 
@@ -5941,7 +5929,7 @@ Sezione 2 Sottoposizione obbligatoria alla procedura di conciliazione
 
 conformemente alla sezione 3 della Parte XV
 
-#### Articolo 11
+##### Articolo 11
 
 Apertura del procedimento
 
@@ -5949,19 +5937,19 @@ Apertura del procedimento
 
 2\. Una qualsiasi delle parti della controversia, che abbia ricevuto la notifica ai sensi del numero 1, e' obbligata a sottoporsi a tale procedimento.
 
-#### Articolo 12
+##### Articolo 12
 
 Mancanza di risposta o rifiuto di sottoporsi alla conciliazione
 
 Il fatto che una o piu' parti di una controversia non rispondano alla notifica relativa all'apertura di un procedimento di conciliazione, o non si sottopongano a tale procedimento, non costituisce un ostacolo per lo svolgimento del procedimento.
 
-#### Articolo 13
+##### Articolo 13
 
 Competenza
 
 In caso di contestazione sulla questione se una commissione di conciliazione costituita ai sensi della presente sezione sia competente, e' la commissione a decidere.
 
-#### Articolo 14
+##### Articolo 14
 
 Applicazione della sezione 1
 
@@ -5973,7 +5961,7 @@ STATUTO DEL TRIBUNALE INTERNAZIONALE PER IL
 
 DIRITTO DEL MARE
 
-#### Articolo 1
+##### Articolo 1
 
 Disposizioni generali
 
@@ -5987,7 +5975,7 @@ Disposizioni generali
 
 Sezione 1. Organizzazione del Tribunale
 
-#### Articolo 2
+##### Articolo 2
 
 Composizione
 
@@ -5995,7 +5983,7 @@ Composizione
 
 2\. Nel Tribunale nel suo complesso vengono assicurate la rappresentanza dei principali sistemi giuridici del mondo ed una equa distribuzione geografica.
 
-#### Articolo 3
+##### Articolo 3
 
 Membri del Tribunale
 
@@ -6003,7 +5991,7 @@ Membri del Tribunale
 
 2\. Non vi devono essere meno di tre membri per ciascun gruppo geografico come definito dall'Assemblea generale delle Nazioni Unite.
 
-#### Articolo 4
+##### Articolo 4
 
 Nomine ed elezioni
 
@@ -6015,7 +6003,7 @@ Nomine ed elezioni
 
 4\. I membri del Tribunale sono eletti a scrutinio segreto. Le elezioni hanno luogo nel corso di una riunione degli Stati contraenti convocata dal Segretario generale delle Nazioni Unite nel caso della prima elezione e secondo un procedimento concordato dagli Stati contraenti nel caso delle successive elezioni. In tale riunione, il quorum e' costituito dai due terzi degli Stati contraenti. Le persone elette al Tribunale sono quelle che hanno ottenuto il maggior numero di voti ed una maggioranza di due terzi degli Stati contraenti presenti e votanti, a condizione che tale maggioranza comprenda la maggioranza degli Stati contraenti.
 
-#### Articolo 5
+##### Articolo 5
 
 Periodo di permanenza in carica
 
@@ -6027,7 +6015,7 @@ Periodo di permanenza in carica
 
 4\. In caso di dimissioni di un membro del Tribunale, la lettera di dimissioni e' indirizzata al Presidente del Tribunale. Il seggio diventa vacante al momento della ricezione di tale lettera.
 
-#### Articolo 6
+##### Articolo 6
 
 Seggi vacanti
 
@@ -6035,7 +6023,7 @@ Seggi vacanti
 
 2\. Un membro del Tribunale, eletto per sostituire un membro il cui mandato non era ancora scaduto, mantiene il seggio per il periodo che restava al suo predecessore.
 
-#### Articolo 7
+##### Articolo 7
 
 Incompatibilita'
 
@@ -6045,7 +6033,7 @@ Incompatibilita'
 
 3\. Qualsiasi dubbio su questi punti e' risolto con decisione a maggioranza degli altri membri presenti del Tribunale.
 
-#### Articolo 8
+##### Articolo 8
 
 Condizioni per la partecipazione dei membri alla soluzione di uno specifico caso
 
@@ -6057,25 +6045,25 @@ Condizioni per la partecipazione dei membri alla soluzione di uno specifico caso
 
 4\. Ogni dubbio su questi punti viene risolto con decisione a maggioranza degli altri membri presenti del Tribunale.
 
-#### Articolo 9
+##### Articolo 9
 
 Conseguenze connesse al fatto che un membro non risponda piu' alle condizioni richieste
 
 Se, secondo l'avviso unanime degli altri membri del Tribunale, un membro non risponde piu' alle condizioni richieste, il Presidente dei Tribunale dichiara il seggio vacante.
 
-#### Articolo 10
+##### Articolo 10
 
 Privilegi ed immunita'
 
 I membri del Tribunale, nell'esercizio delle loro funzioni, godono dei privilegi e delle immunita' diplomatiche.
 
-#### Articolo 11
+##### Articolo 11
 
 Dichiarazione solenne dei membri
 
 Ogni membro del Tribunale, prima di assumere le loro funzioni, dichiara solennemente durante una pubblica seduta, di esercitare le sue competenze in modo imparziale e secondo coscienza.
 
-#### Articolo 12
+##### Articolo 12
 
 Presidente, Vice-presidente e Cancelliere
 
@@ -6085,7 +6073,7 @@ Presidente, Vice-presidente e Cancelliere
 
 3\. Il Presidente ed il Cancelliere risiedono nella sede del Tribunale.
 
-#### Articolo 13
+##### Articolo 13
 
 Quorum
 
@@ -6095,11 +6083,11 @@ Quorum
 
 3\. Tutte le controversie e tutte le domande presentate al Tribunale sono esaminate e decise dal Tribunale, a meno che non si applichi l'articolo 14 del presente Allegato o le parti richiedano che la questione sia risolta conformemente all'articolo 15 del presente Allegato.
 
-#### Articolo 14
+##### Articolo 14
 
 Camera per la soluzione delle controversie relative ai fondi marini Deve essere istituita una Camera per la soluzione delle controversie relative ai fondi marini conformemente alle disposizioni della sezione 4 del presente Allegato. La sua competenza, i suoi poteri e le sue funzioni sono quelli disposti dalla Parte Xl, sezione 5.
 
-#### Articolo 15
+##### Articolo 15
 
 Camere speciali
 
@@ -6113,13 +6101,13 @@ Camere speciali
 
 5\. Le decisioni emesse da una delle camere previste nel presente articolo e nell'articolo 14 del presente Allegato si considerano emesse dal Tribunale.
 
-#### Articolo 16
+##### Articolo 16
 
 Regolamento del Tribunale
 
 Il Tribunale determina con regolamento le modalita' secondo le quali esercita le sue funzioni. Esso disciplina in particolare la sua procedura.
 
-#### Articolo 17
+##### Articolo 17
 
 Cittadinanza dei membri
 
@@ -6137,7 +6125,7 @@ Cittadinanza dei membri
 
 Essi partecipano alla decisione in condizioni di completa uguaglianza con i loro colleghi.
 
-#### Articolo 18
+##### Articolo 18
 
 Rimunerazione dei membri
 
@@ -6157,7 +6145,7 @@ Rimunerazione dei membri
 
 8\. Gli stipendi, le indennita' ed i compensi sono esenti da imposta.
 
-#### Articolo 19
+##### Articolo 19
 
 Spese del Tribunale
 
@@ -6165,9 +6153,9 @@ Spese del Tribunale
 
 2\. Quando un ente diverso da uno Stato contraente o dall'Autorita' e' parte di una controversia sottoposta al Tribunale, il Tribunale fissa il contributo che tale parte deve versare per le spese del Tribunale.
 
-## Sezione 2. Competenza
+### Sezione 2. Competenza
 
-#### Articolo 20
+##### Articolo 20
 
 Accesso al Tribunale
 
@@ -6175,27 +6163,27 @@ Accesso al Tribunale
 
 2\. Il Tribunale e' aperto a soggetti diversi dagli Stati contraenti nel caso di controversie espressamente previste dalla Parte XI o per qualsiasi controversia presentata in base ad un qualsiasi altro accordo che conferisca al Tribunale una competenza accettata da tutte le parti di quella controversia.
 
-#### Articolo 21
+##### Articolo 21
 
 Competenza
 
 La competenza del Tribunale comprende tutte le controversie e tutte le domande che gli sono presentate conformemente alla presente Convenzione e tutte le questioni specificatamente previste in qualsiasi altro accordo che conferisca delle competenze al Tribunale.
 
-#### Articolo 22
+##### Articolo 22
 
 Sottoposizione al Tribunale delle controversie relative ad altri accordi
 
 Se tutte le parti di un trattato o di una convenzione gia' in vigore e che riguardi questioni coperte dalla presente Convenzione lo concordano, qualsiasi controversia relativa all'interpretazione od alla applicazione di tale trattato o convenzione, puo', conformemente a tali accordi, essere sottoposta al Tribunale.
 
-#### Articolo 23
+##### Articolo 23
 
 Diritto applicabile
 
 Il Tribunale decide su tutte le controversie e tutte le domande conformemente all'articolo 293.
 
-## Sezione 3. - Procedura
+### Sezione 3. - Procedura
 
-#### Articolo 24
+##### Articolo 24
 
 Avvio del procedimento
 
@@ -6205,7 +6193,7 @@ Avvio del procedimento
 
 3\. Il Cancelliere notifica inoltre il compromesso o I'istanza a tutti gli Stati contraenti.
 
-#### Articolo 25
+##### Articolo 25
 
 Misure cautelari
 
@@ -6215,7 +6203,7 @@ Misure cautelari
 
 Esse sono sottoposte all'esame ed alla revisione da parte del Tribunale.
 
-#### Articolo 26
+##### Articolo 26
 
 Dibattimento
 
@@ -6223,19 +6211,19 @@ Dibattimento
 
 2\. Il dibattimento e' pubblico, a meno che il Tribunale non decida altrimenti o a meno che le parti non richiedano che il pubblico non sia ammesso.
 
-#### Articolo 27
+##### Articolo 27
 
 Svolgimento del processo
 
 Il Tribunale emette delle ordinanze sullo svolgimento del processo, decide la forma ed i tempi secondo i quali ciascuna parte deve presentare le sue conclusioni, e adotta tutte le misure connesse con l'acquisizione delle prove.
 
-#### Articolo 28
+##### Articolo 28
 
 Contumacia
 
 Quando una delle parti non si presenta innanzi al Tribunale o non si difende, l'altra parte puo' chiedere al Tribunale di continuare il procedimento e di emettere la sua decisione. L'assenza di una parte o la mancata difesa di una parte non costituisce un ostacolo al procedimento. Prima di adottare la sua decisione, il Tribunale deve accertare non soltanto la sua competenza sulla controversia, ma anche che la domanda sia fondata in fatto e in diritto.
 
-#### Articolo 29
+##### Articolo 29
 
 Maggioranza richiesta per la decisione
 
@@ -6243,7 +6231,7 @@ Maggioranza richiesta per la decisione
 
 2\. In caso di parita' di voti, il voto del Presidente o del membro del Tribunale che agisce in sua vece e' decisivo.
 
-#### Articolo 30
+##### Articolo 30
 
 Sentenza
 
@@ -6255,7 +6243,7 @@ Sentenza
 
 4\. La sentenza e' firmata dal Presidente e dal Cancelliere. Essa e' letta in udienza pubblica dopo che le parti della controversia ne sono state correttamente avvisate.
 
-#### Articolo 31
+##### Articolo 31
 
 Domanda di intervento
 
@@ -6265,7 +6253,7 @@ Domanda di intervento
 
 3\. Se il Tribunale autorizza l'istanza di intervento, la decisione del Tribunale relativa alla controversia e' obbligatoria per lo Stato contraente interveniente nella misura in cui essa riguarda i punti che hanno fatto oggetto dell'intervento dello Stato contraente intervenuto.
 
-#### Articolo 32
+##### Articolo 32
 
 Diritto di intervenire con riferimento a questioni di interpretazione o di applicazione
 
@@ -6275,7 +6263,7 @@ Diritto di intervenire con riferimento a questioni di interpretazione o di appli
 
 3\. Ogni parte di cui ai numeri 1 e 2 ha il diritto di intervenire nel procedimcnto; se esercita questo diritto, l'interpretazione contenuta nella sentenza e' del pari obbligatoria anche per esso.
 
-#### Articolo 33
+##### Articolo 33
 
 Carattere definitivo e forza obbligatoria delle decisioni
 
@@ -6285,7 +6273,7 @@ Carattere definitivo e forza obbligatoria delle decisioni
 
 3\. In caso di contestazione sul senso e la portata della decisione spetta al Tribunale interpretarla su richiesta di una qualsiasi delle parti.
 
-#### Articolo 34
+##### Articolo 34
 
 Costi
 
@@ -6293,7 +6281,7 @@ Salvo quanto diversamente stabilito dal Tribunale, ciascuna parte sostiene le su
 
 Sezione 4. Camera per la soluzione delle controversie relative ai fondi marini
 
-#### Articolo 35
+##### Articolo 35
 
 Composizione
 
@@ -6311,7 +6299,7 @@ Composizione
 
 7\. Per costituire la Camera, e' richiesto un quorum di sette dei membri scelti dal Tribunale.
 
-#### Articolo 36
+##### Articolo 36
 
 Camere ad hoc
 
@@ -6321,13 +6309,13 @@ Camere ad hoc
 
 3\. I membri della camera ad hoc non devono essere al servizio di nessuna delle parti della controversia, ne' essere cittadini di alcuna delle parti della controversia.
 
-#### Articolo 37
+##### Articolo 37
 
 Accesso
 
 La Camera e' aperta agli Stati contraenti, all'Autorita' ed agli altri soggetti di cui alla Parte XI, sezione 5.
 
-#### Articolo 38
+##### Articolo 38
 
 Diritto applicabile
 
@@ -6339,13 +6327,13 @@ conformemente alla presente Convenzione; e
 
 b) le clausole dei contratti relativi alle attivita' nell'Area nelle questioni connesse a tali contralti.
 
-#### Articolo 39
+##### Articolo 39
 
 Esecuzione delle decisioni della Camera
 
 Le decisioni della Camera sono esecutive nel territorio degli Stati contraenti secondo le stesse modalita' delle sentenze od ordinanze delle piu' alte corti dello Stato contraente nel cui territorio e' richiesta l'esecuzione.
 
-#### Articolo 40
+##### Articolo 40
 
 Applicabilita' di altre sezioni del presente Allegato
 
@@ -6353,9 +6341,9 @@ Applicabilita' di altre sezioni del presente Allegato
 
 2\. Nell'esercizio delle sue funzioni connesse a pareri consultivi, la Camera si ispira alle disposizioni del presente Allegato relative al procedura innanzi al Tribunale, nella misura in cui essa 1e ritiene applicabili.
 
-## Sezione 5.Emendamenti
+### Sezione 5.Emendamenti
 
-#### Articolo 41
+##### Articolo 41
 
 Emendamenti
 
@@ -6369,13 +6357,13 @@ ALLEGATO VII
 
 ARBITRATO
 
-#### Articolo 1
+##### Articolo 1
 
 Apertura del procedimento
 
 Nel rispetto delle disposizioni della Parte XV, una qualsiasi delle parti di una controversia puo' sottoporre la controversia alla procedura di arbitrato di cui al presente Allegato, con notifica scritta indirizzata all'altra parte o parti della controversia. La notifica e' essere accompagnata dall'esposizione della domanda e dei motivi su cui essa si fonda.
 
-#### Articolo 2
+##### Articolo 2
 
 Elenco di arbitri
 
@@ -6385,7 +6373,7 @@ Elenco di arbitri
 
 3\. Il nome di un arbitro rimane sull'elenco fino a quando non sia ritirato dallo Stato contraente che lo ha nominato, fatto salvo che tale arbitro continua a svolgere le sue funzioni nel tribunale arbitrale in cui e' stato nominato fino a quando sia completato il procedimento innanzi a quel tribunale.
 
-#### Articolo 3
+##### Articolo 3
 
 Costituzione del tribunale arbitrale
 
@@ -6411,19 +6399,19 @@ g) Le parti che hanno un interesse comune ad agire nominano un membro del Tribun
 
 h) Nelle controversie che coinvolgono piu' di due parti, si applicano le disposizioni di cui alle lettere da a) ad f) per quanto possibile.
 
-#### Articolo 4
+##### Articolo 4
 
 Funzioni del tribunale arbitrale
 
 Un tribunale arbitrale costituito ai sensi del presente Allegato esercita le sue funzioni conformemente al presente Allegato ed alle altre disposizioni della presente Convenzione.
 
-#### Articolo 5
+##### Articolo 5
 
 Procedura
 
 Salvo che le parti non convengano diversamente, il tribunale arbitrale fissa la sua procedura, assicurando a ciascuna delle parti la piena opportunita' di essere sentita e di esporre il suo caso.
 
-#### Articolo 6
+##### Articolo 6
 
 Obblighi delle parti della controversia
 
@@ -6435,19 +6423,19 @@ pertinenti; e
 
 b) dargli la possibilita', quando cio' sia necessario, di chiamare dei testimoni o dei periti e di ricevere le loro deposizioni e di effettuare dei sopralluoghi nei posti cui il caso si riferisce.
 
-#### Articolo 7
+##### Articolo 7
 
 Spese
 
 Salvo che il tribunale arbitrale non decida diversamente a causa delle particolari circostanze del caso, le spese del tribunale compresa la rimunerazione dei suoi membri, sono a carico delle parti della controversia in eguale proporzione.
 
-#### Articolo 8
+##### Articolo 8
 
 Maggioranza richiesta per le decisioni
 
 Le decisioni del tribunale arbitrale sono adottate a maggioranza dei voti dei suoi membri. L'assenza o l'astensione di meno della meta' dei membri non costituisce un ostacolo per il raggiungimento di una decisione da parte del tribunale. In caso di parita' tra i voti, il voto del Presidente e' decisivo.
 
-#### Articolo 9
+##### Articolo 9
 
 Contumacia
 
@@ -6455,19 +6443,19 @@ Se una delle parti della controversia non compare innanzi al tribunale arbitrale
 
 L'assenza di una parte o la mancata difesa non costituiscono un ostacolo al procedimento. Prima di emettere la decisione arbitrale, il tribunale arbitrale accerta non solo di essere competente sulla controversia, ma anche che la domanda sia fondata in fatto ed in diritto.
 
-#### Articolo 10
+##### Articolo 10
 
 Decisione arbitrale
 
 La decisione del tribunale arbitrale, e' limitata all'oggetto della controversia ed e' motivata. Essa menziona i nomi dei membri che vi hanno partecipato e la data nella quale e' stata adottata. Ciascuno dei membri del Tribunale puo' allegare alla decisione la sua opinione individuale o dissidente.
 
-#### Articolo 11
+##### Articolo 11
 
 Carattere definitivo della decisione
 
 La decisione e' definitiva e non impugnabile, salvo che le parti della controversia non si siano accordate in anticipo su una procedura di impugnazione. Le parti della controversia vi si conformano.
 
-#### Articolo 12
+##### Articolo 12
 
 Interpretazione ed attuazione della decisione
 
@@ -6475,7 +6463,7 @@ Interpretazione ed attuazione della decisione
 
 2\. Qualsiasi contestazione di tale genere puo' essere sottoposta ad un'altra corte o tribunale ai sensi dell'articolo 287, se cosi' convengono tutte le parti della controversia.
 
-#### Articolo 13
+##### Articolo 13
 
 Applicazione a soggetti diversi dagli Stati contraenti
 
@@ -6483,13 +6471,13 @@ Le disposizioni del presente Allegato si applicano mutatis mutandis a qualsiasi 
 
 ALLEGATO VIII. ARBITRATO SPECIALE
 
-#### Articolo 1
+##### Articolo 1
 
 Apertura del procedimento
 
 Nel rispetto della Parte XV, ciascuna delle parti di una controversia relativa all'interpretazione od all'applicazione degli articoli della presente Convenzione relativi 1) alla pesca; 2) alla protezione e preservazione dell'ambiente marino; 3) alla ricerca scientifica marina; o 4) alla navigazione, incluso l'inquinamento da navi e da immissione, puo' sottoporre la controversia alla procedura speciale di arbitrato prevista dal presente Allegato con notifica scritta indirizzata all'altra parte o parti della controversia. La notifica e' accompagnata dall'esposizione delle conclusioni e dei motivi sui quali esse si fondano.
 
-#### Articolo 2
+##### Articolo 2
 
 Elenchi di esperti
 
@@ -6503,7 +6491,7 @@ Elenchi di esperti
 
 5\. Il nome di un esperto rimane nell'elenco fino a quando non sia ritirato dallo Stato contraente che ha effettuato la nomina, fatto salvo che tale esperto continua a partecipare a ciascun tribunale arbitrale speciale nel quale sia stato nominato fino a quando il procedimento innanzi a tale tribunale non sia concluso.
 
-#### Articolo 3
+##### Articolo 3
 
 Costituzione del tribunale arbitrale speciale
 
@@ -6527,13 +6515,13 @@ g) Le parti che hanno un interesse comune ad agire nominano congiuntamente due m
 
 h) Nelle controversie che coinvolgono piu' di due parti, si applicano, fin dove possibile, le disposizioni di cui alle lettere da a) ad f).
 
-#### Articolo 4
+##### Articolo 4
 
 Disposizioni generali
 
 L'Allegato VII, articoli da 4 a 13, si applica mutatis mutandis al procedimento speciale di arbitrato conformemente al presente Allegato.
 
-#### Articolo 5
+##### Articolo 5
 
 Accertamento dei fatti
 
@@ -6549,19 +6537,19 @@ ALLEGATO IX. PARTECIPAZIONE DELLE ORGANIZZAZIONI
 
 INTERNAZIONALI
 
-#### Articolo 1
+##### Articolo 1
 
 Uso dei termini
 
 Ai fini dell'articolo 305 e del presente Allegato, si intende per "organizzazione internazionale" una organizzazione intergovernativa costituita da Stati alla quale gli Stati che ne sono membri hanno trasferito competenza sulle materie di cui tratta la presente Convenzione, inclusa la competenza a concludere dei trattati su tali materie.
 
-#### Articolo 2
+##### Articolo 2
 
 Firma
 
 Le organizzazioni internazionali possono firmare la presente Convenzione se la maggioranza dei loro Stati membri ne sono firmatari. Al momento della firma, l'organizzazione internazionale effettua una dichiarazione nella quale specifica i settori retti dalla presente Convenzione rispetto ai quali la competenza e' stata trasferita a tale organizzazione dai suoi Stati membri che sono firmatari della presente Convenzione, e la natura e l'estensione di tale competenza.
 
-#### Articolo 3
+##### Articolo 3
 
 Conferma formale ed adesione
 
@@ -6569,7 +6557,7 @@ Conferma formale ed adesione
 
 2\. Gli strumenti depositati dalla organizzazione internazionale devono contenere gli impegni e le dichiarazioni richieste dagli articoli 4 e 5 del presente Allegato.
 
-#### Articolo 4
+##### Articolo 4
 
 Estensione della partecipazione, diritti ed obblighi
 
@@ -6585,7 +6573,7 @@ Estensione della partecipazione, diritti ed obblighi
 
 6\. Nel caso di conflitto tra gli obblighi di una organizzazione internazionale derivanti dalla presente Convenzione ed i suoi obblighi derivanti dall'accordo istitutivo o da altri atti connessi, prevalgono gli obblighi di cui alla presente Convenzione.
 
-#### Articolo 5
+##### Articolo 5
 
 Dichiarazioni, notifiche e comunicazioni
 
@@ -6601,7 +6589,7 @@ Dichiarazioni, notifiche e comunicazioni
 
 6\. Le dichiarazioni, notifiche e comunicazioni di informazioni di cui al presente articolo devono specificare la natura e l'estensione della competenza trasferita.
 
-#### Articolo 6
+##### Articolo 6
 
 Responsabilita'
 
@@ -6611,7 +6599,7 @@ Responsabilita'
 
 L'organizzazione e gli Stati membri coinvolti devono fornire queste informazioni. Se essi non le forniscono entro un termine ragionevole, o se essi comunicano delle informazioni contraddittorie, vengono considerati solidalmente responsabili.
 
-#### Articolo 7
+##### Articolo 7
 
 Soluzione delle controversie
 
@@ -6621,7 +6609,7 @@ Soluzione delle controversie
 
 3\. Quando una organizzazione internazionale e uno o piu' dei suoi Stati membri agiscono o sono convenuti rispetto alla stessa controversia, o hanno un interesse comune ad agire, si ritiene che l'organizzazione abbia accettato gli stessi procedimenti per la soluzione delle controversie degli Stati membri; quando, tuttavia, uno Stato membro ha scelto soltanto la Corte internazionale di giustizia ai sensi dell'articolo 287, si ritiene che l'organizzazione e lo Stato membro coinvolto abbiano accettato l'arbitrato previsto dall'Allegato VII, salvo che le parti della controversia non decidano diversamente.
 
-#### Articolo 8
+##### Articolo 8
 
 Applicazione della Parte XVII
 
@@ -6639,7 +6627,7 @@ c) i) una organizzazione internazionale non puo' denunciare la presente Convenzi
 
 ii) una organizzazione internazionale deve denunciare la presente Convenzione quando nessuno dei suoi Stati membri e' Stato contraente o se la organizzazione internazionale cessa di rispondere alle condizioni previste dall'articolo 1 del presente Allegato. La denuncia ha effetto immediatamente.
 
-#### Atto finale
+##### Atto finale
 
 ATTO FINALE DELLA TERZA CONFERENZA DELLE NAZIONI
 
@@ -7435,7 +7423,7 @@ Il rappresentante speciale del Segretario generale presso la Conferenza:
 
 Il segretario esecutivo della Conferenza.
 
-#### Allegato I
+##### Allegato I
 
 ANNESSI ALL'ATTO FINALE DELLA TERZA CONFERENZA DELLE NAZIONI UNITE SUL DIRITTO DEL MARE
 
@@ -8095,7 +8083,7 @@ Tenendo a mente che i movimenti di liberazione nazionale sono stati invitati a p
 
 Decide che i movimenti di liberazione nazionale che hanno partecipato alla Terza Conferenza sul Diritto del Mare hanno diritto a firmare l'Atto Finale della Conferenza, nella loro qualita' di osservatori.
 
-#### Allegato II
+##### Allegato II
 
 ALLEGATO II
 
@@ -8115,7 +8103,7 @@ Quando uno Stato stabilisce il bordo esterno del suo margine continentale applic
 
 La Conferenza chiede alla Commissione sui limiti della piattaforma continentale istituita conformemente all'Allegato II della presente Convenzione, di attenersi ai termini della presente dichiarazione nel formulare le sue raccomandazioni sulle questioni relative alla fissazione del bordo esterno dei margini continentali di tali Stati nella parte meridionale del Golfo del Bengala.
 
-#### Allegato III
+##### Allegato III
 
 ALLEGATO III
 
@@ -8129,7 +8117,7 @@ Considerando inoltre che il lavoro di Simon Bolivar il Liberatore, basato sui co
 
 Decide di rendere un omaggio pubblico di ammirazione e rispetto a Simon Bolivar il Liberatore, nella seduta plenaria della Terza Conferenza delle Nazioni Unite sul diritto del mare.
 
-#### Allegato IV
+##### Allegato IV
 
 ALLEGATO IV
 
@@ -8147,7 +8135,7 @@ Decide
 
 2\. Di dare voce alla sua speranza che gli ideali di giustizia sociale, uguaglianza tra le nazioni e solidarieta' tra i popoli difesi dal Liberatore Simon Bolivar servano a guidare il futuro lavoro della Conferenza.
 
-#### Allegato V
+##### Allegato V
 
 ALLEGATO V
 
@@ -8191,7 +8179,7 @@ Ritenendo che un accordo in merito all'attuazione della Parte XI sarebbe il modo
 
 Hanno convenuto quanto segue:
 
-#### Articolo 1
+##### Articolo 1
 
 Attuazione della Parte XI
 
@@ -8199,7 +8187,7 @@ Attuazione della Parte XI
 
 2\. L'Allegato e' parte integrante del presente Accordo.
 
-#### Articolo 2
+##### Articolo 2
 
 Rapporti tra il presente Accordo e la Parte XI
 
@@ -8207,13 +8195,13 @@ Rapporti tra il presente Accordo e la Parte XI
 
 2\. Gli Articoli da 309 a 319 della Convenzione si applicano al presente Accordo cosi' come si applicano alla Convenzione.
 
-#### Articolo 3
+##### Articolo 3
 
 Firma
 
 Il presente Accordo e' aperto alla firma presso la sede delle Nazioni Unite da parte degli Stati e dei soggetti di cui all'articolo 305, 1, a), c), d), e) ed f) della Convenzione per 12 mesi a partire dalla data della sua adozione.
 
-#### Articolo 4
+##### Articolo 4
 
 Consenso ad essere obbligati
 
@@ -8235,7 +8223,7 @@ d) adesione.
 
 5\. Gli strumenti di ratifica, conferma formale o adesione saranno depositati presso il Segretario generale delle Nazioni Unite.
 
-#### Articolo 5
+##### Articolo 5
 
 Procedura semplificata
 
@@ -8243,7 +8231,7 @@ Procedura semplificata
 
 2\. Nel caso che venisse fatta tale notifica, il consenso ad essere obbligati, dal presente Accordo e' determinato conformemente all'articolo 4, 3, b).
 
-#### Articolo 6
+##### Articolo 6
 
 Entrata in vigore
 
@@ -8251,7 +8239,7 @@ Entrata in vigore
 
 2\. Per ogni Stato o soggetto che consente ad essere obbligato dal presente Accordo dopo che sono state soddisfatte le condizioni disposte dal numero 1, il presente Accordo entrera' in vigore il trentesimo giorno successivo alla data in cui tale Stato o soggetto avranno manifestato il loro consenso ad essere obbligati.
 
-#### Articolo 7
+##### Articolo 7
 
 Applicazione provvisoria
 
@@ -8269,7 +8257,7 @@ d) Stati che aderiscono al presente Accordo.
 
 3\. L'applicazione provvisoria terminera' alla data dell'entrata in vigore del presente Accordo. In ogni caso, l'applicazione provvisoria terminera' il 16 novembre 1998 se a quella data non sara' stata soddisfatta la condizione di cui all'articolo 6, 1, che richiede il consenso ad essere obbligati dal presente Accordo di almeno sette degli Stati di cui al numero 1, a) della risoluzione II (dei quali almeno cinque devono essere Stati industrializzati).
 
-#### Articolo 8
+##### Articolo 8
 
 Stati Contraenti
 
@@ -8277,13 +8265,13 @@ Stati Contraenti
 
 2\. Il presente Accordo si applica mutatis mutandis, ai soggetti di cui all'articolo 305, 1, c), d), e) ed f) della Convenzione, che diventano parti del presente Accordo conformemente alle condizioni che li riguardano e nei limiti in cui "Stati contraenti" si riferisce a tali soggetti.
 
-#### Articolo 9
+##### Articolo 9
 
 Depositario
 
 Il Segretario generale delle Nazioni Unite e' il depositario del presente Accordo.
 
-#### Articolo 10
+##### Articolo 10
 
 Testi autentici
 
@@ -8293,7 +8281,7 @@ IN FEDE, i sottoscritti Plenipotenziari, debitamente autorizzati a farlo, hanno 
 
 FATTO A NEW YORK, il ventotto luglio millenovecentonovantaquattro.
 
-#### Allegato
+##### Allegato
 
 ALLEGATO
 
@@ -8601,7 +8589,7 @@ f) Le norme, i regolamenti e le procedure sull'equa distribuzione dei benefici f
 
 9\. Si ritiene che il requisito di cui all'art. 162, 2, y) della Convenzione, che contempla l'istituzione di un organo sussidiario che si occupi delle questioni finanziarie, sia soddisfatto dall'istituzione del Comitato finanziario conformemente a questa sezione.
 
-#### Dichiarazione
+##### Dichiarazione
 
 DICHIARAZIONE RILASCIATA DAL RAPPRESENTANTE
 

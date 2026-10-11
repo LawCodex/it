@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## CAPO I - DISPOSIZIONI IN MATERIA DI IMPOSTE
+## CAPO I - DISPOSIZIONI IN MATERIA DI IMPOSTE DIRETTE, SUL VALORE AGGIUNTO E DI ALTRE IMPOSTE INDIRETTE
 
-### DIRETTE, SUL VALORE AGGIUNTO E DI - ALTRE IMPOSTE INDIRETTE
-
-##### Art. 1 - Dividendi distribuiti da societa' non residenti
+### Art. 1 - Dividendi distribuiti da societa' non residenti
 
 1\. All'articolo 96-bis del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, concernente i dividendi distribuiti da societa' non residenti, dopo il comma 2, e' inserito il seguente:
 
@@ -98,7 +96,7 @@ la seguente legge:
 
 > L'eccedenza di cui al primo periodo si considera relativa ai dividendi di cui al comma 1 per ammontare pari a quello che non si sarebbe determinato in assenza dei predetti dividendi. Le disposizioni del presente comma si applicano ad ogni successivo percettore di utili direttamente o indirettamente formati con i dividendi di cui al comma 1".
 
-##### Art. 2
+### Art. 2
 
 (Disposizioni in materia di cessioni di beni
 
@@ -122,7 +120,7 @@ dalla legge n. 730 del 1976).
 
 > "Le disposizioni del presente articolo si applicano alle cessioni dei beni ed alle prestazioni di servizi effettuate nei confronti dei soggetti danneggiati dagli eventi sismici, risultanti tali da attestazione rilasciata dal comune competente nonche' alle cessioni di beni ed alle prestazioni di servizi effettuate nei confronti del commissario straordinario, di enti pubblici, di enti di assistenza e beneficenza e di associazioni di categoria che destinano i beni ed i servizi medesimi ai danneggiati. La destinazione deve risultare da certificazione del comune".
 
-##### Art. 3
+### Art. 3
 
 (Disposizioni in materia di imposta
 
@@ -154,11 +152,11 @@ comunale sugli immobili).
 
 > I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione".
 
-##### Art. 4 - Disposizioni in materia di imposta sul valore aggiunto relativamente alle operazioni creditizie e finanziarie
+### Art. 4 - Disposizioni in materia di imposta sul valore aggiunto relativamente alle operazioni creditizie e finanziarie
 
 1\. Le disposizioni di cui all'articolo 4, comma 1, lettere a) e b), della legge 18 febbraio 1997, n.28, si applicano anche alle operazioni effettuate anteriormente alla data di entrata in vigore della predetta legge. (( Agli effetti dell'imposta sul valore aggiunto le operazioni dipendenti da contratti pronti contro termine, che prevedono l'obbligo di rivendita a termine di titoli o valuta, si intendono unitariamente come prestazioni di servizi di finanziamento, aventi per base l'imponibile la differenza tra il corrispettivo a termine e quello a pronti)). Resta fermo in ogni caso il trattamento fiscale gia' applicato e non si fa luogo a rimborso di imposte gia' pagate ne' e' consentita la variazione di cui all'articolo 26 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633.
 
-##### Art. 5
+### Art. 5
 
 (( (Modifica alla disciplina in materia di imposta sul valore
 
@@ -172,7 +170,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 12 giugno 1998, n. 181, convertito con modificazioni dalla L. 3 agosto 1998, n. 271, ha disposto (con l'art. 1-bis, comma 1) che l'art. 5 e' sostituito con effetto dal 15 maggio 1998.
 
-##### Art. 6 - Disposizioni in materia di imposta di bollo
+### Art. 6 - Disposizioni in materia di imposta di bollo
 
 1\. All'articolo 13 della tariffa annessa al decreto del Presidente della Repubblica 26 ottobre 1972, n. 642, come sostituita dal decreto del Ministro delle finanze 20 agosto 1992, pubblicato nel supplemento ordinario n. 106 alla Gazzetta Ufficiale n. 196 del 21 agosto 1992, recante l'indicazione degli atti soggetti all'imposta di bollo, sono apportate le seguenti modificazioni:
 
@@ -416,7 +414,7 @@ b) nella nota 3-ter del comma 2-bis, come modificata dall'articolo 3, comma 12, 
 
 > "Titoli di debito pubblico, buoni del tesoro, certificati speciali di credito ed altri titoli obbligazionari emessi dallo Stato, nonche' le relative quietanze, libretti postali di risparmio, vaglia postali e relative quietanze, ricevute ed altri documenti relativi ai conti correnti postali non soggetti all'imposta di bollo sostitutiva di cui all'art. 13, comma 2-bis, della tariffa annessa al presente decreto; estratti di conti correnti postali intestati ad amministrazioni dello Stato; buoni fruttiferi ed infruttiferi da chiunque emessi, domande per operazioni comunque relative al debito pubblico e documenti esibiti a corredo delle domande stesse, procure speciali per ritiro di somme iscritte nei libretti postali nominativi di risparmio, polizze e ricevute di pegno rilasciate dai monti di credito su pegno, dai monti o societa' di soccorso e dalle casse di risparmio; libretti di risparmio e quietanze sui depositi e prelevamenti, anche se rilasciate separatamente".
 
-##### Art. 7
+### Art. 7
 
 (Trattamento tributario su talune
 
@@ -456,7 +454,7 @@ operazioni di credito).
 
 > 9\) credito peschereccio d'esercizio".
 
-##### Art. 8
+### Art. 8
 
 (Imposta sostitutiva dell'addizionale
 
@@ -464,7 +462,7 @@ regionale all'imposta di consumo sul gas metano).
 
 1\. Le disposizioni di cui al comma 9 dell'articolo 10 del decreto-legge 18 gennaio 1993, n.8, convertito, con modificazioni, dalla legge 19 marzo 1993, n.68, si interpretano nel senso che l'imposta regionale sostitutiva dell'addizionale regionale all'((accisa)) sul (( gas naturale )) a carico delle utenze esenti non si applica ai consumi di (( gas naturale )) impiegato negli usi di cantiere e nelle operazioni di campo per la coltivazione di idrocarburi, nonche' ai consumi di (( gas naturale )) impiegato nella produzione diretta o indiretta di energia elettrica, purche' la potenza installata non sia inferiore a 1 KW. Non si fa luogo a rimborso di quanto eventualmente gia' pagato.
 
-##### Art. 9 - Tasse automobilistiche
+### Art. 9 - Tasse automobilistiche
 
 1\. Nell'articolo 5 del decreto-legge 30 dicembre 1982, n. 953, convertito, con modificazioni, dalla legge 28 febbraio 1983, n. 53, e successive modificazioni, dopo il trentaduesimo comma e' inserito il seguente:
 
@@ -476,13 +474,9 @@ regionale all'imposta di consumo sul gas metano).
 
 > "Al pagamento delle tasse di cui al comma precedente sono tenuti coloro che, alla scadenza del termine utile per il pagamento stabilito con decreto del Ministro delle finanze da emanarsi ai sensi dell'art. 18 della legge 21 maggio 1955, n. 463, risultano essere proprietari dal pubblico registro automobilistico, per i veicoli in esso iscritti, e dai registri di immatricolazione per i rimanenti veicoli ed autoscafi. L'obbligo di corrispondere il tributo cessa con la cancellazione dei veicoli e degli autoscafi dai predetti registri. Sono altresi' soggetti al pagamento delle stesse tasse i proprietari dei ciclomotori, degli autoscafi non iscritti nei registri e dei motori fuoribordo applicati agli autoscafi, nonche' dei veicoli e degli autoscafi importati temporaneamente dall'estero, per i veicoli, gli autoscafi ed i motori fuoribordo applicati agli autoscafi, l'obbligo del pagamento sussiste solo per i periodi di imposta nei quali vengono utilizzati".
 
-## CAPO II - DISPOSIZIONI IN MATERIA DI ACCERTAMENTO,
+## CAPO II - DISPOSIZIONI IN MATERIA DI ACCERTAMENTO, DI RISCOSSIONE, DI CONTRASTO ALL'EVASIONE E DI FUNZIONAMENTO DELL'AMMINISTRAZIONE FINANZIARIA
 
-### DI RISCOSSIONE, DI CONTRASTO - ALL'EVASIONE E DI FUNZIONAMENTO
-
-#### DELL'AMMINISTRAZIONE FINANZIARIA
-
-##### Art. 10 - Modalita' di utilizzazione degli studi di settore in sede di accertamento
+### Art. 10 - Modalita' di utilizzazione degli studi di settore in sede di accertamento
 
 1\. Gli accertamenti basati sugli studi di settore, di cui all'articolo 62-sexies del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427, sono effettuati nei confronti dei contribuenti con le modalita' di cui al presente articolo qualora l'ammontare dei ricavi o compensi dichiarati risulta inferiore all'ammontare dei ricavi o compensi determinabili sulla base degli studi stessi. (10)
 
@@ -558,15 +552,15 @@ AGGIORNAMENTO (18)
 
 Il D.L. 24 aprile 2017, n. 50, convertito con modificazioni dalla L. 21 giugno 2017, n. 96, come modificato dal D.L. 24 febbraio 2023, n. 13, convertito con modificazioni dalla L. 21 aprile 2023, n. 41, ha disposto (con l'art. 9-bis, comma 15) che "La societa' indicata nell'articolo 10, comma 12, della legge 8 maggio 1998, n. 146, provvede, altresi', a porre in essere ogni altra attivita' idonea a sviluppare innovative tecniche di elaborazione dei dati, a potenziare le attivita' di analisi per contrastare la sottrazione all'imposizione delle basi imponibili, anche di natura contributiva, ad aggiornare la mappa del rischio di evasione e a individuare le relative aree territoriali e settoriali di intervento nonche', per favorire l'introduzione del concordato preventivo e l'implementazione dell'adempimento collaborativo di cui al decreto legislativo 5 agosto 2015, n. 128, a porre in essere le attivita' di progettazione, di sviluppo e di realizzazione dell'interoperabilita' delle banche dati, relativamente agli aspetti metodologici, fermi restando il coordinamento e l'indirizzo da parte dell'Agenzia delle entrate e la cura dei connessi aspetti tecnologici da parte della Sogei S.p.A.".
 
-##### Art. 10-bis
+### Art. 10-bis
 
 ((ARTICOLO ABROGATO DAL D.L. 24 APRILE 2017, N. 50, CONVERTITO CON MODIFICAZIONI DALLA L. 21 GIUGNO 2017, N. 96))
 
-##### Art. 10-ter
+### Art. 10-ter
 
 ((ARTICOLO ABROGATO DAL D.L. 6 DICEMBRE 2011, N. 201, CONVERTITO CON MODIFICAZIONI DALLA L. 22 DICEMBRE 2011, N. 214))
 
-##### Art. 11 - Regime fiscale estero privilegiato
+### Art. 11 - Regime fiscale estero privilegiato
 
 1\. Nell'articolo 76, comma 7-bis, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, le parole da: "in misura inferiore "a" della stessa natura" sono sostituite dalle seguenti: "nella misura determinata complessivamente con decreto del Presidente del Consiglio dei ministri, adottato su proposta del Ministro delle finanze di concerto con il Ministro del tesoro, del bilancio e della programmazione economica".
 
@@ -576,7 +570,7 @@ Il D.L. 24 aprile 2017, n. 50, convertito con modificazioni dalla L. 21 giugno 2
 
 > "7-bis. Non sono ammesse in deduzione le spese e gli altri componenti negativi derivanti da operazioni intercorse tra imprese residenti e societa' domiciliate fiscalmente in Stati o territori non appartenenti alla Comunita' economica europea aventi un regime fiscale privilegiato, le quali direttamente o indirettamente controllano l'impresa, ne sono controllate o sono controllate dalla stessa societa' che controlla l'impresa ai sensi dell'art. 2359 del codice civile. Si considera privilegiato il regime fiscale dello Stato o del territorio estero che esclude da imposte sul reddito o che sottopone i redditi conseguiti dalle predette societa' ad imposizione nella misura determinata complessivamente con decreto del Presidente del Consiglio dei Ministri, adottato su proposta del Ministro delle finanze di concerto con il Ministro del tesoro, del bilancio e della programmazione economica. Con decreti del Ministro delle finanze, sono indicati gli Stati o i territori esteri aventi un regime fiscale privilegiato".
 
-##### Art. 12
+### Art. 12
 
 (Disposizioni in materia di centri
 
@@ -656,7 +650,7 @@ di assistenza fiscale).
 
 > L'opzione ha effetto a partire dall'anno in cui e' esercitata e fino a quando non sia revocata. La revoca deve essere comunicata all'ufficio nella dichiarazione annuale ed ha effetto dall'anno in corso".
 
-##### Art. 13
+### Art. 13
 
 (Norme interpretative del decreto legislativo
 
@@ -688,7 +682,7 @@ di assistenza fiscale).
 
 > 3\. Gli atti di competenza dirigenziale non sono soggetti ad avocazione da parte del Ministro, se non per particolari motivi di necessita' ed urgenza specificamente indicati nel provvedimento di avocazione, da comunicare al Presidente del Consiglio dei Ministri".
 
-##### Art. 14 - Mantenimento in bilancio di fondi
+### Art. 14 - Mantenimento in bilancio di fondi
 
 1\. Le disponibilita' iscritte ai capitoli 1021, 1086, 1099, 3097, 3102, 3135, 3332, 3869, 7851, 7853 e 8205 dello stato di previsione della spesa del Ministero delle finanze per l'anno 1997, ivi comprese quelle derivanti da quanto previsto dall'articolo 7, comma 1, lettera 1), del decreto-legge 25 marzo 1997, n. 67, convertito, con modificazioni, dalla legge 23 maggio 1997, n. 135, possono essere impegnate nell'esercizio 1998.
 
@@ -704,7 +698,7 @@ di assistenza fiscale).
 
 > l) capitoli 191 e 193 dello stato di previsione della spesa dell'Amministrazione autonoma dei monopoli di Stato e capitoli 1109, 7851, 7853 e 8205 dello stato di previsione del Ministero delle finanze, anche se relative all'anno 1995, concernenti interventi di miglioramento, adeguamento, ampliamento, sistemazione e ristrutturazione delle strutture immobiliari destinate alla allocazione delle attivita' dell'amministrazione finanziaria orientate a prevenire e contrastare l'evasione fiscale, ad assicurare la tempestiva attuazione delle deleghe in materia fiscale contenute nella legge 23 dicembre 1996, n. 662, nonche' l'attivita' produttiva della predetta amministrazione autonoma".
 
-##### Art. 15
+### Art. 15
 
 (Norme in materia di omesso, ritardato
 
@@ -718,7 +712,7 @@ o insufficiente versamento delle imposte).
 
 > "1. La riscossione delle soprattasse e delle pene pecuniarie previste dalle leggi d'imposta in caso di omesso, ritardato o insufficiente versamento e' sospesa nei confronti del contribuente e del sostituto d'imposta qualora la violazione consegua alla condotta illecita, penalmente rilevante, di dottori commercialisti, ragionieri, consulenti del lavoro, avvocati, notai e altri professionisti, iscritti nei rispettivi albi, in dipendenza del loro mandato professionale".
 
-##### Art. 16 - Crediti tributari di modesta entita'
+### Art. 16 - Crediti tributari di modesta entita'
 
 1\. Con regolamento da emanare ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, tenuto conto dei costi per l'accertamento e la riscossione, sono stabiliti, per ciascun tributo erariale o locale, gli importi fino alla concorrenza dei quali i versamenti non sono dovuti o non sono effettuati i rimborsi. I tributi sono comunque dovuti o sono rimborsabili per l'intero ammontare se i relativi importi superano i predetti limiti.
 
@@ -730,7 +724,7 @@ o insufficiente versamento delle imposte).
 
 > "2. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il Consiglio di Stato, sono emanati i regolamenti per la disciplina delle materie, non coperte da riserva assoluta di legge prevista dalla Costituzione, per le quali le leggi della Repubblica, autorizzando l'esercizio della potesta' regolamentare del Governo, determinano le norme generali regolatrici della materia e dispongono l'abrogazione delle norme vigenti, con effetto dall'entrata in vigore delle norme regolamentari".
 
-##### Art. 17
+### Art. 17
 
 (Interessi per rapporti di credito e debito
 
@@ -810,7 +804,7 @@ relativi a tributi locati).
 
 > 3\. Il Ministro delle finanze e' autorizzato a determinare, con proprio decreto, di concerto con il Ministro del tesoro, la misura degli interessi di cui ai commi l e 2, dovuti a decorrere dal 1 gennaio 1995".
 
-##### Art. 18
+### Art. 18
 
 (Efficacia della definizione dei rapporti
 
@@ -862,7 +856,7 @@ della legge 30 dicembre 1991, n. 413).
 
 > "8. Il mancato o insufficiente pagamento nei termini comporta l'iscrizione a ruolo dell'imposta e della soprattassa di cui all'art. 44, primo comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, e degli interessi di mora nella misura del 15 per cento annuo. In tal caso la dichiarazione integrativa produce effetti a condizione che il contribuente effettui regolarmente il pagamento delle somme iscritte a ruolo".
 
-##### Art. 19
+### Art. 19
 
 (Termine per la soppressione
 
@@ -884,7 +878,7 @@ della commissione tributaria centrale).
 
 > 4\. Al reperimento delle sedi necessarie all'insediamento di cui al comma 1 si applicano le disposizioni dell'art. 48 del decreto del Presidente della Repubblica 27 marzo 1992, n. 287".
 
-##### Art. 20
+### Art. 20
 
 (Disposizioni in materia di notifica degli atti
 
@@ -898,7 +892,7 @@ dell'Amministrazione finanziaria).
 
 > "La notificazione degli avvisi e degli altri atti che per legge devono essere notificati al contribuente deve avvenire con l'impiego di plico sigillato e puo' eseguirsi a mezzo della posta direttamente dagli uffici finanziari, nonche' ove cio' risulti impossibile, a cura degli ufficiali giudiziari dei messi comunali ovvero dei messi speciali autorizzati dall'Amministrazione finanziaria secondo le modalita' previste dalla presente legge. Sono fatti salvi i disposti di cui agli articoli 62, 45 e seguenti del decreto del Presidente della Repubblica 29 settembre 1973, n. 602 e 60 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, nonche' le altre modalita' di notifica previste dalle norme relative alle singole leggi di imposta".
 
-##### Art. 21 - Disposizioni in materia di demanio
+### Art. 21 - Disposizioni in materia di demanio
 
 1\. All'articolo 20 del decreto del Presidente della Repubblica 20 aprile 1994, n. 367, al comma 1, sono aggiunte, in fine, le seguenti parole: "e nel regio decreto 17 giugno 1909, n. 454, recante norme per l'alienazione, la permuta e l'amministrazione dei beni immobili patrimoniali dello Stato."
 
@@ -910,7 +904,7 @@ AGGIORNAMENTO (5)
 
 La L. 24 novembre 2000, n. 340 ha disposto (con l'art. 1, commi 1 e 3) che sono abrogate le norme del presente articolo, comma 2, limitatamente alla parte disciplinante le procedure concernenti i fili a sbalzo o palorci, telefori e piccoli impianti montani ad esclusivo uso dell'economia montana.Conseguentemente, dalla stessa data, gli stessi procedimenti e adempimenti amministrativi sono soppressi.
 
-##### Art. 22
+### Art. 22
 
 (Abrogazione di norme della legge
 
@@ -924,7 +918,7 @@ La L. 24 novembre 2000, n. 340 ha disposto (con l'art. 1, commi 1 e 3) che sono 
 
 > "13. Entro il termine di novanta giorni dalla data di entrata in vigore della presente legge, i comuni che nel corso dell'anno 1993 non hanno presentato ricorso presso le commissioni censuarie provinciali possono presentare il suddetto ricorso, con riferimento alle tariffe d'estimo e alle rendite delle unita' immobiliari urbane vigenti, in relazione ad una o piu' categorie o classi e all'intero territorio comunale o a porzioni del medesimo, nonche' alla delimitazione delle zone censuarie. Per tali ricorsi si applicano le disposizioni di cui all'art. 2 del decreto-legge 23 gennaio 1993, n. 16, convertito, con modificazioni, dalla legge 24 marzo 1993, n. 75, e successive modificazioni".
 
-##### Art. 23
+### Art. 23
 
 (Disposizioni in materia di locazioni
 
@@ -936,7 +930,7 @@ degli immobili demaniali).
 
 > \- La legge 27 luglio 1978, n. 392, recante: "Disciplina delle locazioni di immobili urbani", e' stata pubblicata nella Gazzetta Ufficiale 29 luglio 1978, n. 211.
 
-##### Art. 24
+### Art. 24
 
 (Trasferimento alle regioni
 
@@ -980,7 +974,7 @@ di funzioni normative).
 
 > I terreni e le opere di proprieta' degli enti di sviluppo destinati e destinabili ad uso di pubblico generale interesse, o a fini di assistenza, di educazione, di culto, possono essere trasferiti gratuitamente, previa approvazione della regione, in proprieta' delle amministrazioni pubbliche o degli enti interessati".
 
-##### Art. 25
+### Art. 25
 
 (Disciplina tributaria della costituzione
 
@@ -1090,7 +1084,7 @@ di societa' con contestuale conferimento di azienda).
 
 > 6\. Per i documenti provenienti da pubbliche amministrazioni che non siano stati rilasciati entro il termine stabilito per la presentazione della dichiarazione, compresi l'attestazione di cui all'art. 13, comma 2, e le attestazioni o altri documenti relativi alle riduzioni e alle detrazioni di cui agli articoli 25 e 26, si applica, purche' alla dichiarazione sia allegata copia della domanda di rilascio, la disposizione dell'art. 23, comma 4".
 
-##### Art. 26 - Personale delle commissioni tributarie
+### Art. 26 - Personale delle commissioni tributarie
 
 1\. A decorrere dal 1 aprile 1996 al personale di segreteria delle commissioni tributarie nonche' al personale in servizio presso la segreteria della commissione tributaria centrale e' attribuita l'indennita' prevista dalla legge 22 giugno 1988, n. 221. A tale indennita' si applica la disciplina di cui ai commi 1 e 2 dell'articolo 1 della legge 10 ottobre 1996, n. 525.
 
@@ -1172,7 +1166,7 @@ di societa' con contestuale conferimento di azienda).
 
 > 3\. L'attribuzione dell'indennita' di cui al comma 2, nei casi stabiliti dall'art. 2 della legge 22 giugno 1988, n. 221, e' fatta con decreto del Ministro delle finanze, di concerto con il Ministro del tesoro".
 
-##### Art. 27
+### Art. 27
 
 (Modifica dell'articolo 218 del testo unico
 
@@ -1202,7 +1196,7 @@ delle disposizioni legislative in materia doganale).
 
 > Per l'esportazione definitiva consentita ai sensi del primo comma saranno pagati i diritti doganali di esportazione che sarebbero stati eventualmente dovuti sulle merci temporaneamente esportate alla data in cui fu accettata dalla dogana la dichiarazione di temporanea esportazione, nonche' gli interessi di mora di cui all'art. 218 per il tempo decorso da tale data a quella di accettazione della dichiarazione di esportazione definitiva".
 
-##### Art. 28
+### Art. 28
 
 (Ulteriori modifiche al testo unico delle
 
@@ -1292,7 +1286,7 @@ f) l'articolo 56 e' sostituito dal seguente:
 
 ## CAPO III - DISPOSIZIONI VARIE DI CARATTERE FINANZIARIO
 
-##### Art. 29
+### Art. 29
 
 (Vendita degli alloggi dello Stato ai sensi
 
@@ -1304,7 +1298,7 @@ della legge 6 gennaio 1983, n. 5).
 
 > \- La legge 6 gennaio 1983, n. 5, recante: "Norme per il rilascio delle case assegnate alle famiglie rimaste senza tetto in seguito all'alluvione del 4 novembre 1966 a Firenze", e' stata pubblicata nella Gazzetta Ufficiale 12 gennaio 1983, n. 10.
 
-##### Art. 30
+### Art. 30
 
 (Disposizioni in materia di movimenti e
 
@@ -1438,7 +1432,7 @@ L'individuazione degli aventi diritto e la ripartizione del fondo sono effettuat
 
 > b) Accantonamento collegato, ai sensi dell'articolo 11-bis, comma 2, della legge 5 agosto 1978, n. 468, e successive modificazioni, agli accantonamenti di segno positivo relativi alla Presidenza del Consiglio dei ministri e al Ministero del tesoro, del bilancio e della programmazione economica contrassegnati dalla medesima lettera (b) per i seguenti importi per ciascun accantonamento: 1998: --; 1999: 50.000; 2000: 75.000".
 
-##### Art. 31
+### Art. 31
 
 (Disposizioni in materia di idoneita'
 
@@ -1458,7 +1452,7 @@ c) articolazione della selezione in forma decentrata a livello territoriale.
 
 > \- La legge 11 gennaio 1951, n. 56, recante: "Norme per l'idoneita' alle funzioni di ufficiale esattoriale", e' stata pubblicata nella Gazzetta Ufficiale n. 44 del 22 febbraio 1951.
 
-##### Art. 32
+### Art. 32
 
 (Modifiche delle disposizioni finali e transitorie
 
@@ -1566,7 +1560,7 @@ Titolo III del decreto legislativo 31 dicembre
 
 > "2. La conciliazione puo' aver luogo solo davanti alla commissione provinciale e non oltre la prima udienza, nella quale il tentativo di conciliazione puo' essere esperito d'ufficio anche dalla commissione".
 
-##### Art. 33 - Proroga di termini
+### Art. 33 - Proroga di termini
 
 1\. Il termine del 31 ottobre 1995 di cui all'articolo 79, comma 2, del decreto legislativo 15 novembre 1993, n. 507, per l'adozione delle modificazioni alla classificazione delle categorie tassabili ed alle tariffe derivanti dall'attuazione dei criteri di commisurazione del tributo di cui all'articolo 65 del predetto decreto legislativo, e' differito al 31 ottobre 1998.
 
@@ -1582,7 +1576,7 @@ Titolo III del decreto legislativo 31 dicembre
 
 > 2\. Le tariffe per ogni categoria o sottocategoria omogenea sono determinate dal comune, secondo il rapporto di copertura del costo prescelto entro i limiti di legge, moltiplicando il costo di smaltimento per unita' di superficie imponibile accertata, previsto per l'anno successivo, per uno o piu' coefficienti di produttivita' quantitativa e qualitativa di rifiuti".
 
-##### Art. 34 - Abrogazione di norme
+### Art. 34 - Abrogazione di norme
 
 1\. E abrogato l'articolo 2 del decreto-legge 26 settembre 1995, n. 403, convertito dalla legge 20 novembre 1995, n.495.
 
@@ -1596,7 +1590,7 @@ Titolo III del decreto legislativo 31 dicembre
 
 > "8. Ai fini di cui al comma 7, nonche' allo scopo di consentire comunque la tempestiva attivazione dei rispettivi uffici, in sede di prima attuazione del presente regolamento i dirigenti delle strutture centrali, regionali e compartimentali dei dipartimenti debbono essere nominati almeno tre mesi prima dell'attivazione dei relativi uffici, i funzionari da destinare alla direzione degli uffici delle entrate e del territorio debbono essere nominati almeno sei mesi prima dell'attivazione degli uffici stessi. Durante il periodo intercorrente tra la data di nomina e quella di attivazione dei rispettivi uffici, i funzionari di cui al presente comma continuano ad esercitare le proprie funzioni, se gia' sono titolari di uffici esistenti alla data di entrata in vigore della citata legge n. 358 del 1991, salva restando la disciplina prevista per la frequenza di corsi presso la Scuola centrale tributaria, e sono invece, negli altri casi, sollevati dal prestare servizio presso gli uffici di rispettiva appartenenza, al fine di predisporre l'organizzazione degli uffici di nuova destinazione".
 
-##### Art. 35
+### Art. 35
 
 (Disposizioni in materia di personale
 
@@ -1610,7 +1604,7 @@ a tempo determinato).
 
 (( 3-bis. Le risorse non utilizzate per le finalita' di cui ai commi da 1 a 3 affluiscono al fondo unico di amministrazione del Ministero delle finanze per essere destinate, con i criteri e le modalita' stabiliti dalla contrattazione collettiva integrativa, al miglioramento della produttivita' individuale e collettiva ed alla formazione e alla incentivazione della mobilita' del personale)).
 
-##### Art. 36 - Modifica alla legge 27 dicembre 1997, n. 449
+### Art. 36 - Modifica alla legge 27 dicembre 1997, n. 449
 
 1\. Nell'articolo 4, comma 15, secondo periodo, della legge 27 dicembre 1997, n. 449, la parola: " inferiore " e' sostituita dalla seguente: " superiore".
 
@@ -1620,7 +1614,7 @@ a tempo determinato).
 
 > "15. Le agevolazioni previste per i progetti relativi all'avvio di attivita' autonome realizzate da inoccupati e disoccupati di cui all'articolo 9-septies del decreto-legge 1 ottobre 1996, n. 510, convertito, con modificazioni, dalla legge 28 novembre 1996, n. 608, sono estese alle aree che presentano rilevante squilibrio tra domanda e offerta di lavoro secondo quanto previsto dall'articolo 36, secondo comma, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, come individuate con il decreto del Ministro del lavoro e della previdenza sociale 14 marzo 1995, pubblicato nella Gazzetta Ufficiale n. 138 del 15 giugno 1995, ai sensi del decreto-legge 20 maggio 1993, n. 148, convertito, con modificazioni, dalla legge 19 luglio 1993, n. 236. Gli oneri derivanti dal presente comma fanno carico sulle quote che il CIPE, in sede di riparto delle risorse finanziarie destinate allo sviluppo delle aree depresse, riserva alle aree di cui al periodo precedente in una percentuale non superiore al 25 per cento delle risorse destinate per analoghe finalita' alle aree di cui all'obiettivo 1 del regolamento (CEE) n. 2052/88, e successive modilicazioni".
 
-##### Art. 37
+### Art. 37
 
 (Proroga della convenzione con il consorzio
 
@@ -1636,7 +1630,7 @@ del servizio di riscossione dei tributi).
 
 > "Art. 5-ter (Proroga della convenzione con il Consorzio nazionale obbligatorio tra i concessionari del servizio di riscossione dei tributi). - 1. In via transitoria, in attesa dell'emanazione delle disposizioni volte a semplificare gli adempimenti dei contribuenti, a modernizzare il sistema di gestione delle dichiarazioni e a riorganizzare il lavoro degli uffici finanziari, previste dall'articolo 3, comma 134, della legge 23 dicembre 1996, n. 662, per assicurare la continuita' delle informazioni derivanti dalle lavorazioni di acquisizione, registrazione, verifica, elaborazione, controllo, quadratura e fornitura di supporto magnetico dei dati relativi alle dichiarazioni e ai documenti pervenuti nel 1996 al Ministero delle finanze ovvero che perverranno entro il 31 dicembre 1997, e' data facolta' al Ministero delle finanze di prorogare al 31 dicembre 1998 la convenzione stipulata il 22 dicembre 1995 con il Consorzio nazionale obbligatorio tra i concessionari del servizio di riscossione dei tributi ed altre entrate di pertinenza dello Stato e di enti pubblici".
 
-##### Art. 38
+### Art. 38
 
 (Disposizioni in materia di redditi di pensione
 
@@ -1656,7 +1650,7 @@ AGGIORNAMENTO (4)
 
 La L. 17 maggio 1999, n. 144 ha disposto (con l'art. 45, comma 14) che i termini del 30 giugno 1998, stabiliti dal comma 1 del presente articolo, sono prorogati al 31 maggio 1999.
 
-##### Art. 39 - Entrata in vigore
+### Art. 39 - Entrata in vigore
 
 La presente legge, entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 

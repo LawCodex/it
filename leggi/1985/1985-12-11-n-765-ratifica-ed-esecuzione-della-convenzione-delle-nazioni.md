@@ -59,7 +59,7 @@ Parte di provvedimento in formato grafico
 
 ## PRIMA PARTE - CAMPO DI APPLICAZIONE E DISPOSIZIONI GENERALI
 
-### Capitolo I - Campo di applicazione
+## Capitolo I - Campo di applicazione
 
 TRADUZIONE NON UFFICIALE
 
@@ -239,7 +239,7 @@ Ai fini della presente parte della Convenzione, un'offerta, una dichiarazione di
 
 ## TERZA PARTE - VENDITA DI MERCI
 
-### Capitolo I - DISPOSIZIONI GENERALI
+## Capitolo I - DISPOSIZIONI GENERALI
 
 #### Articolo 25
 
@@ -269,7 +269,7 @@ Se, in conformita' alle disposizioni della presente Convenzione, una parte ha il
 
 Il venditore s'impegna, alle condizioni previste dal contratto e dalla presente Convenzione, a consegnare le merci, a trasferirne la proprieta' e, ove il caso, a consegnare tutti i relativi documenti.
 
-## Sezione I - Consegna delle merci e dei documenti
+### Sezione I - Consegna delle merci e dei documenti
 
 #### Articolo 31
 
@@ -303,7 +303,7 @@ c) in tutti gli altri casi, in un termine ragionevole a partire dalla conclusion
 
 Se il venditore e' tenuto a consegnare i documenti relativi alle merci, deve adempiere a tale obbligo nel momento, luogo e forma previsti dal contratto. In caso di consegna anticipata, il venditore conserva, fino al momento previsto per la consegna, il diritto di porre riparo ad un'eventuale non conformita' dei documenti, purche' l'esercizio di tale diritto non procuri all'acquirente ne' inconvenienti, ne' spese irragionevoli. Tuttavia, l'acquirente mantiene il diritto a chiedere il risarcimento dei danni interessi in conformita' alla presente Convenzione.
 
-## Sezione II - Conformita' delle merci e diritti o pretese di terzi
+### Sezione II - Conformita' delle merci e diritti o pretese di terzi
 
 #### Articolo 35
 
@@ -381,7 +381,7 @@ b) il diritto o la pretesa risultano dal fatto che il venditore si sia adeguato 
 
 Nonostante le disposizioni del paragrafo 1 dell'articolo 39 e del paragrafo 1 dell'articolo 43, l'acquirente puo' ridurre il prezzo in conformita' all'articolo 50 o richiedere danni-interessi, tranne che per guadagni mancati, se ha una scusa ragionevole per non avere effettuato la denuncia richiesta.
 
-## Sezione III - Mezzi di cui dispone l'acquirente in caso di inosservanza del contratto da parte del venditore
+### Sezione III - Mezzi di cui dispone l'acquirente in caso di inosservanza del contratto da parte del venditore
 
 #### Articolo 45
 
@@ -463,7 +463,7 @@ In caso di difetto di conformita' delle merci al contratto, sia che il prezzo si
 
 L'acquirente si assume l'obbligo, alle condizioni previste dal contratto e dalla presente Convenzione, a pagare il prezzo ed a prendere in consegna le merci.
 
-## Sezione I - Pagamento del prezzo
+### Sezione I - Pagamento del prezzo
 
 #### Articolo 54
 
@@ -499,7 +499,7 @@ b) se il pagamento deve essere fatto al momento della consegna delle merci o dei
 
 L'acquirente dovra' pagare il prezzo alla data fissata dal contratto o risultante dal contratto e dalla presente Convenzione, senza che vi sia necessita' di alcuna richiesta o altra formalita' da parte del venditore.
 
-## Sezione II - Presa in consegna
+### Sezione II - Presa in consegna
 
 #### Articolo 60
 
@@ -509,7 +509,7 @@ a) nel compiere qualsiasi atto che ci si possa da lui ragionevolmente attendere 
 
 b) nel ritirare le merci.
 
-## Sezione III - Mezzi di cui dispone il venditore in caso di inadempienza del contratto da parte dell'acquirente
+### Sezione III - Mezzi di cui dispone il venditore in caso di inadempienza del contratto da parte dell'acquirente
 
 #### Articolo 61
 
@@ -621,7 +621,7 @@ b) del modo con cui si prepara a dare esecuzione o esegue il contratto.
 
 3\. L'acquirente che dichiara il contratto rescisso per una consegna puo', nello stesso tempo, dichiararlo rescisso per le consegne gia' ricevute o quelle future se, a causa della loro interdipendenza, tali consegne non possono essere utilizzate ai fini previsti dalle parti al momento della conclusione del contratto.
 
-## Sezione II - Danni-interessi
+### Sezione II - Danni-interessi
 
 #### Articolo 74
 
@@ -641,13 +641,13 @@ In caso di risoluzione del contratto e se, in maniera ragionevole e entro un ter
 
 La parte che invoca l'inadempienza del contratto deve prendere misure ragionevoli, considerate le circostanze, al fine di limitare la perdita, ivi compreso il mancato guadagno, dovuto all'inadempienza. Se tralascia di farlo, la parte in difetto puo' chiedere una riduzione dei danni-interessi pari all'ammontare della perdita che avrebbe dovuto essere evitata.
 
-## Sezione III - Interessi
+### Sezione III - Interessi
 
 #### Articolo 78
 
 Se una parte non paga il prezzo o ogni altra somma dovuta, l'altra parte ha diritto a interessi su detta somma senza pregiudicare i danni-interessi che potrebbe richiedere in virtu' dell'articolo 74.
 
-## Sezione IV - Esonero
+### Sezione IV - Esonero
 
 #### Articolo 79
 
@@ -671,7 +671,7 @@ b) la terza parte ne sarebbe anch'essa esonerata qualora le disposizioni di tale
 
 Una parte non puo' avvalersi di un'inadempienza dell'altra parte nella misura in cui tale inadempienza e' dovuta ad un atto o omissione da parte sua.
 
-## Sezione V - Effetti della rescissione del contratto
+### Sezione V - Effetti della rescissione del contratto
 
 #### Articolo 81
 
@@ -707,7 +707,7 @@ a) quando deve restituirle tutte o in parte; o
 
 b) quando e' nell'impossibilita' di restituire tutte o parte delle merci o di restituirle tutte o in parte in uno stato pressoche' identico a quello in cui le ha ricevute, e tuttavia ha dichiarato il contratto rescisso o ha preteso dal venditore la consegna di merci sostitutive.
 
-## Sezione VI - Conservazione delle merci
+### Sezione VI - Conservazione delle merci
 
 #### Articolo 85
 

@@ -20,15 +20,13 @@ retrieved: 2026-10-11
 
 ## TITOLO I - Norme generali
 
-### CAPO I
+### CAPO I - ORDINAMENTO
 
-#### ORDINAMENTO
-
-##### Art. 1
+#### Art. 1
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 2
+#### Art. 2
 
 Piano di studi.
 
@@ -56,102 +54,102 @@ L'insegnamento di matematica, osservazioni ed elementi di scienze naturali assum
 
 Ha inoltre disposto (con l'art. 4, comma 1) che "La presente legge avra' effetto dall'inizio dell'anno scolastico 1977-78".
 
-##### Art. 3
+#### Art. 3
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-## CAPO II - ALUNNI ED ESAMI
+### CAPO II - ALUNNI ED ESAMI
 
-##### Art. 4
-
-((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
-
-##### Art. 5
+#### Art. 4
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 6
+#### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 7
+#### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-## CAPO III - OBBLIGO SCOLASTICO
-
-##### Art. 8
+#### Art. 7
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 9
+### CAPO III - OBBLIGO SCOLASTICO
+
+#### Art. 8
+
+((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+#### Art. 9
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
 ## TITOLO II - Norme particolari
 
-##### Art. 10
+#### Art. 10
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 11
+#### Art. 11
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 12
+#### Art. 12
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 13
+#### Art. 13
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 14
+#### Art. 14
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 15
+#### Art. 15
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
 ## TITOLO III - Disposizioni transitorie e finali
 
-##### Art. 16
+#### Art. 16
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 17
+#### Art. 17
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 18
+#### Art. 18
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 19
+#### Art. 19
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 20
+#### Art. 20
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 21
+#### Art. 21
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 22
+#### Art. 22
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 23
+#### Art. 23
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 24
+#### Art. 24
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 25
+#### Art. 25
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

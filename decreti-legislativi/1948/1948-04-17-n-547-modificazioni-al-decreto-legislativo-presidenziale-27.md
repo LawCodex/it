@@ -344,7 +344,7 @@ Il parere del Consiglio di amministrazione o del Comitato sostituisce a tutti gl
 
 ((Il parere del Consiglio di Stato deve essere richiesto sui progetti dei lavori e forniture d'importo superiore ai cento milioni quando s'intenda provvedere alla esecuzione per asta pubblica, licitazione privata o appalto-concorso, ed ai cinquanta milioni quando s'intenda provvedere a trattativa privata od in economia.))
 
-## CAPO II. - Personale dell'Azienda
+### CAPO II. - Personale dell'Azienda
 
 #### Art. 24
 

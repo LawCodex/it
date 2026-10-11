@@ -27,15 +27,15 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+#### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la convenzione sulla partecipazione degli stranieri alla vita pubblica a livello locale, fatta a Strasburgo il 5 febbraio 1992, limitatamente ai capitoli A e B.
 
-### Art. 2
+#### Art. 2
 
 1\. Piena ed intera esecuzione e' data alla convenzione di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore in conformita' a quanto disposto dall'articolo 12 della convenzione stessa.
 
-### Art. 3
+#### Art. 3
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -51,7 +51,7 @@ Visto, il Guardasigilli: CONSO
 
 ## Allegati
 
-### Convention
+#### Convention
 
 Parte di provvedimento in formato grafico
 
@@ -83,7 +83,7 @@ Consapevoli della partecipazione attiva dei residenti stranieri alla vita ed all
 
 Hanno convenuto quanto segue:
 
-### Articolo 1
+#### Articolo 1
 
 1\. Ciascuna Parte applica le disposizioni dei capitoli A, B e C.
 
@@ -93,13 +93,13 @@ capitolo B o del capitolo C o di entrambi i capitoli.
 
 2\. Ciascuna Parte che ha dichiarato che applichera' uno o due capitoli solamente puo' in ogni altro successivo momento, notificare al Segretario Generale che accetta di applicare le disposizioni del capitolo o dei capitoli che non aveva accettato all'atto del deposito del suo strumento di ratifica, di accettazione, di approvazione o di adesione.
 
-### Articolo 2
+#### Articolo 2
 
 Ai fini della presente Convenzione, l'espressione "residenti stranieri" indica le persone che non sono cittadine dello Stato in questione e che risiedono legalmente nel suo territorio.
 
-## Capitolo A - Liberta' di espressione, di riunione e di associazione
+### Capitolo A - Liberta' di espressione, di riunione e di associazione
 
-### Articolo 3
+#### Articolo 3
 
 Ciascuna Parte si impegna, con riserva delle disposizioni dell'articolo 9, a garantire ai residenti stranieri alle stesse condizioni che ai suoi cittadini:
 
@@ -107,13 +107,13 @@ a. il diritto alla liberta' di espressione; tale diritto comprende la liberta' d
 
 b. il diritto alla liberta' di riunirsi pacificamente, ed alla liberta' di associazione, compreso il diritto di fondare sindacati assieme ad altri, e di affiliarsi a sindacati per la difesa dei propri interessi. In particolar modo, il diritto alla liberta' di associazione implica il diritto per i residenti stranieri, di creare le loro associazioni locali a fini di assistenza reciproca, di conservazione e di espressione della loro identita' culturale o di difesa dei loro interessi riguardo a questioni di competenza della collettivita' locale, nonche' il diritto di aderire ad ogni associazione.
 
-### Articolo 4
+#### Articolo 4
 
 Ciascuna Parte fa in modo che sforzi effettivi siano posti in atto per associare i residenti stranieri alle inchieste pubbliche, alle procedure di pianificazione ed agli altri processi di consultazione sulle questioni locali.
 
-## Capitolo B - Organi consultivi volti a rappresentare i residenti stranieri a livello locale
+### Capitolo B - Organi consultivi volti a rappresentare i residenti stranieri a livello locale
 
-### Articolo 5
+#### Articolo 5
 
 1\. Le Parti si impegnano, con riserva delle disposizioni dell'articolo 9, paragrafo 1:
 
@@ -129,25 +129,25 @@ b) incoraggiare ed agevolare la costituzione di determinati organi consultivi o 
 
 2\. Ciascuna Parte vigila affinche' i rappresentanti dei residenti stranieri che partecipano agli organi consultivi o ad altri dispositivi di ordine istituzionale di cui al paragrafo 1 possano essere eletti dai residenti stranieri della collettivita' locale o nominati dalle varie associazioni di residenti stranieri.
 
-## Capitolo C - Diritto di voto alle elezioni locali
+### Capitolo C - Diritto di voto alle elezioni locali
 
-### Articolo 6
+#### Articolo 6
 
 l. Ciascuna Parte si impegna con riserva delle disposizioni dell'articolo 9 paragrafo 1, a concedere il diritto di voto e di eleggibilita' alle elezioni locali ad ogni residente straniero, a condizione che questi soddisfi alle stesse condizioni di quelle prescritte per i cittadini ed inoltre che abbia risieduto legalmente ed abitualmente nello Stato in questione nei cinque anni precedenti le elezioni.
 
 2\. Uno Stato contraente puo' tuttavia dichiarare all'atto del deposito del suo strumento di ratifica, di accettazione, di approvazione o di adesione che intende limitare l'applicazione del paragrafo 1 al solo diritto di voto.
 
-### Articolo 7
+#### Articolo 7
 
 Ciascuna Parte puo', unilateralmente o nel quadro di accordi bilaterali o multilaterali, stipulare che le condizioni di residenza specificate all'articolo 6 possono essere soddisfatte da un periodo di residenza piu' breve.
 
 ## Parte II
 
-### Articolo 8
+#### Articolo 8
 
 Ciascuna Parte fa in modo che i residenti stranieri possano avere accesso alle informazioni riguardanti i loro diritti ed i loro obblighi nell'ambito della vita pubblica locale.
 
-### Articolo 9
+#### Articolo 9
 
 1\. In caso di guerra o di altri pericoli pubblici che minacciano la vita della nazione, i diritti concessi ai residenti stranieri in conformita' con la parte I possono essere soggetti a limitazioni supplementari, rigorosamente nella misura in cui cio' sia richiesto dalla situazione, ed a condizione che tali misure non siano in contraddizione con gli altri obblighi della Parte derivanti dal diritto internazionale.
 
@@ -159,37 +159,37 @@ Ciascuna Parte fa in modo che i residenti stranieri possano avere accesso alle i
 
 5\. Nessuna disposizione della presente Convenzione sara' interpretata nel senso di limitare o di pregiudicare i diritti che potrebbero essere riconosciuti in conformita' con le leggi di ogni Parte o in base ad ogni altro trattato di cui e' Parte.
 
-### Articolo 10
+#### Articolo 10
 
 Ciascuna Parte informa il Segretario Generale del Consiglio d'Europa di ogni disposizione legislativa o di ogni altra misura adottata dalle autorita' competenti sul suo territorio relativa agli impegni da essa sottoscritti in base ai termini della presente Convenzione.
 
 ## PARTE III
 
-### Articolo 11
+#### Articolo 11
 
 La presente Convenzione e' aperta alla firma degli Stati membri del Consiglio d'Europa. Essa sara' soggetta a ratifica, accettazione o approvazione. Gli strumenti di ratifica, di accettazione o di approvazione saranno depositati presso il Segretario Generale del Consiglio d'Europa.
 
-### Articolo 12
+#### Articolo 12
 
 1\. La presente Convenzione entrera' in vigore il primo giorno del mese successivo allo scadere di un periodo di tre mesi dopo la data alla quale quattro Stati membri del Consiglio d'Europa avranno espresso il loro consenso ad essere vincolati dalla Convenzione, in conformita' con le disposizioni dell'articolo 11.
 
 2\. Per ogni Stato membro che esprima successivamente il suo consenso a far parte della Convenzione, questa entrera' in vigore il primo giorno del mese successivo allo scadere di un periodo di tre mesi dopo la data di deposito dello strumento di ratifica, di accettazione o di approvazione.
 
-### Articolo 13
+#### Articolo 13
 
 1\. Dopo l'entrata in vigore della presente Convenzione, il Comitato dei Ministri del Consiglio d'Europa potra' invitare ogni Stato non membro del Consiglio ad aderire alla presente Convenzione con una decisione adottata alla maggioranza prevista all'articolo 20.d dello Statuto del Consiglio d'Europa ed all'unanimita' dei rappresentanti degli Stati contraenti aventi diritto ad essere rappresentati al Comitato.
 
 2\. Per ogni Stato aderente, la Convenzione entrera' in vigore il primo giorno del mese successivo allo scadere di un periodo di tre mesi dopo la data del deposito dello strumenti di adesione presso il Segretario generale del Consiglio d'Europa.
 
-### Articolo l4
+#### Articolo l4
 
 Gli impegni sottoscritti successivamente dalle Parti alla Convenzione, in conformita' con l'articolo 1, paragrafo 2, saranno considerati come essendo parte integrante della ratifica, dell'accettazione dell'approvazione o dell'adesione della Parte che effettua la notifica ed avranno gli stessi effetti sin dal primo giorno del mese successivo allo scadere di un periodo di tre mesi dopo la data di ricevimento della notifica da parte del Segretario Generale.
 
-### Articolo 15
+#### Articolo 15
 
 Le disposizioni della presente Convenzione si applicano a tutte le categorie di collettivita' locali esistenti sul territorio di ciascuna Parte. Tuttavia, ciascun Stato contraente puo', all'atto del deposito del suo strumento di ratifica, di accettazione di approvazione o di adesione, designare le categorie di collettivita' territoriali per le quali intende limitare la sfera di applicazione o che intende escludere dalla sfera di applicazione della Convenzione.
 
-### Articolo 16
+#### Articolo 16
 
 1\. Ogni Stato puo', nel firmare o depositare il proprio strumento di ratifica, di accettazione di approvazione o di adesione, designare il territorio o i territori cui si applichera' la presente Convenzione.
 
@@ -197,17 +197,17 @@ Le disposizioni della presente Convenzione si applicano a tutte le categorie di 
 
 3\. Ogni dichiarazione resa in virtu' dei due paragrafi precedenti potra' essere ritirata per quanto concerne qualsiasi territorio designato in questa dichiarazione, mediante una notifica indirizzata al Segretario Generale. Il ritiro avra' luogo il primo giorno del mese successivo alla scadenza di un periodo di sei mesi dopo la data di ricevimento della notifica da parte del Segretario Generale .
 
-### Articolo l7
+#### Articolo l7
 
 Nessuna riserva e' ammessa alle disposizioni della presente Convenzione, oltre a quella menzionata all'articolo 1 paragrafo 1.
 
-### Articolo 18
+#### Articolo 18
 
 l. Ogni parte puo' in qualsiasi momento, denunciare la presente Convenzione indirizzando una notifica al Segretario Generale del Consiglio d'Europa.
 
 2 La denuncia avra' effetto il primo giorno del mese successivo allo scadere di un periodo di sei mesi dopo la data di ricevimento della notifica da parte del Segretario Generale.
 
-### Articolo 19
+#### Articolo 19
 
 Il Segretario Generale del Consiglio d'Europa notifichera' agli Stati membri del Consiglio e ad ogni Stato che ha aderito alla presente Convenzione:
 

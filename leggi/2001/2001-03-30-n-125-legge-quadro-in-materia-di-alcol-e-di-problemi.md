@@ -28,7 +28,7 @@ la seguente legge:
 
 ## Capo I - DISPOSIZIONI GENERALI
 
-#### Art. 1 - Oggetto - Definizioni
+### Art. 1 - Oggetto - Definizioni
 
 1\. La presente legge reca norme finalizzate alla prevenzione, alla cura ed al reinserimento sociale degli alcoldipendenti, ai sensi della risoluzione del Parlamento europeo del 12 marzo 1982 sui problemi dell'alcolismo nei Paesi della Comunita', della risoluzione del Consiglio e dei rappresentanti dei governi degli Stati membri riuniti in sede di consiglio, del 29 maggio 1986, concernente l'abuso di alcol, e delle indicazioni della Organizzazione mondiale della sanita', con particolare riferimento al piano d'azione europeo per l'alcol di cui alla risoluzione del 17 settembre 1992, adottata a Copenaghen dal Comitato regionale per l'Europa della Organizzazione stessa, ed alla Carta europea sull'alcol, adottata a Parigi nel 1995.
 
@@ -38,7 +38,7 @@ la seguente legge:
 
 > Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
-#### Art. 2 - Finalita
+### Art. 2 - Finalita
 
 La presente legge:
 
@@ -52,7 +52,7 @@ d) promuove la ricerca e garantisce adeguati livelli di formazione e di aggiorna
 
 e) favorisce le organizzazioni del privato sociale senza scopo di lucro e le associazioni di auto-mutuo aiuto finalizzate a prevenire o a ridurre i problemi alcolcorrelati.
 
-#### Art. 3 - Attribuzioni dello Stato
+### Art. 3 - Attribuzioni dello Stato
 
 1\. Con atto di indirizzo e coordinamento, adottato entro sessanta giorni dalla data di entrata in vigore della presente legge, ai sensi dell'articolo 8 della legge 15 marzo 1997, n. 59, sentita la Consulta di cui all'articolo 4, nel rispetto delle competenze attribuite allo Stato ed alle regioni dal decreto legislativo 31 marzo 1998, n. 112, e delle previsioni del piano sanitario nazionale, sono definiti:
 
@@ -98,7 +98,7 @@ d) le azioni di informazione e di prevenzione da realizzare nelle scuole, nelle 
 
 > \- Il decreto legislativo 31 marzo 1998, n. 112, concerne il "Conferimento di prestazioni e compiti amministrativi dello Stato alle Regioni ed agli enti locali, in attuazione del Capo I della legge 15 marzo 1997, n. 59.".
 
-#### Art. 4 - Consulta nazionale sull'alcol e sui problemi alcolcorrelati
+### Art. 4 - Consulta nazionale sull'alcol e sui problemi alcolcorrelati
 
 1\. E' istituita la Consulta nazionale sull'alcol e sui problemi alcolcorrelati, di seguito denominata "Consulta", composta da:
 
@@ -140,7 +140,7 @@ d) fornisce ai Ministri competenti, alle regioni ed alle province autonome di Tr
 
 6\. Per l'istituzione ed il funzionamento della Consulta e' autorizzata la spesa di lire 125 milioni annue a decorrere dall'anno 2001.
 
-#### Art. 5
+### Art. 5
 
 (Modifiche agli ordinamenti didattici
 
@@ -160,7 +160,7 @@ universitari)
 
 > c) modalita' di attivazione da parte di universita' italiane, in collaborazione con atenei stranieri, dei corsi universitari di cui al presente comma, nonche' di dottorati di ricerca, anche in deroga alle disposizioni di cui al Capo II del titolo III del Presidente della Repubblica 11 luglio 1968, n. 382.
 
-#### Art. 6 - Modifiche al codice della strada
+### Art. 6 - Modifiche al codice della strada
 
 1\. Al decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -212,7 +212,7 @@ b) all'articolo 186, comma 4, le parole: "In caso di incidente o" sono soppresse
 
 > 1\. L'accertamento dello stato di ebbrezza ai sensi dell'art. 186, comma 4, del codice, si effettua mediante l'analisi dell'aria alveolare espirata: qualora, in base al valore della concentrazione di alcool nell'aria alveolare espirata, la concentrazione alcoolemica corrisponda o superi 0,8 grammi per litro (g/l), il soggetto viene ritenuto in stato di ebbrezza.".
 
-#### Art. 7
+### Art. 7
 
 (Modifica all'articolo 2 del decreto
 
@@ -230,15 +230,13 @@ legislativo 30 dicembre 1992, n. 540)
 
 > g) eventuali avvertenze speciali ritenute necessarie per il medicinale in questione, con particolare riferimento alle controindicazioni provocate dall'interazione del medicinale con bevande alcoliche e superalcoliche, nonche' l'eventuale pericolosita' per la guida derivante dall'assunzione dello stesso medicinale;".
 
-#### Art. 8 - Relazione al Parlamento
+### Art. 8 - Relazione al Parlamento
 
 1\. Il Ministro della sanita' trasmette al Parlamento una relazione sugli interventi realizzati ai sensi della presente legge, predisposta sulla base delle relazioni inviate dalle regioni, ai sensi dell'articolo 9, comma 2.
 
-## Capo II - COMPETENZE DELLE REGIONI
+## Capo II - COMPETENZE DELLE REGIONI E DELLE PROVINCE AUTONOME DI TRENTO E DI BOLZANO
 
-### E DELLE PROVINCE AUTONOME - DI TRENTO E DI BOLZANO
-
-#### Art. 9
+### Art. 9
 
 (Attribuzioni delle regioni e delle province
 
@@ -248,7 +246,7 @@ autonome di Trento e di Bolzano)
 
 2\. Le regioni e le province autonome di Trento e di Bolzano trasmettono entro il 30 giugno di ogni anno una relazione al Ministero della sanita' sugli interventi realizzati ai sensi della presente legge.
 
-#### Art. 10 - Intervento ospedaliero
+### Art. 10 - Intervento ospedaliero
 
 1\. Il trattamento dei soggetti con problemi e patologie alcolcorrelati e' svolto nelle apposite unita' operative collocate presso le aziende ospedaliere e le strutture sanitarie pubbliche e private appositamente accreditate, ai sensi dell'articolo 8-bis del decreto legislativo 30 dicembre 1992, n. 502, introdotto dall'articolo 8 del decreto legislativo 19 giugno 1999, n. 229, nonche' presso le aziende ospedaliero-universitarie di cui al decreto legislativo 21 dicembre 1999, n. 517.
 
@@ -266,21 +264,19 @@ autonome di Trento e di Bolzano)
 
 > \- Il decreto legislativo 21 dicembre 1999, n. 517, reca la "Disciplina dei rapporti tra Servizio sanitario regionale ed Universita', a norma dell'art. 6 della legge 30 novembre 1998, n. 419 (delega al Governo per la razionalizzazione del Servizio sanitario nazionale e per l'adozione di un testo unico in materia di organizzazione e funzionamento del Servizio sanitario nazionale. Modifiche al decreto legislativo 30 dicembre 1992, n. 502).
 
-#### Art. 11 - Strutture di accoglienza
+### Art. 11 - Strutture di accoglienza
 
 1\. Nell'ambito della loro programmazione socio-sanitaria, le regioni e le province autonome di Trento e di Bolzano, fatte salve le strutture esistenti, possono realizzare, a seconda delle esigenze del territorio definite dalle regioni e dalle province stesse, strutture di accoglienza per pazienti alcoldipendenti che, nella fase successiva a quella acuta, necessitano di osservazione e cure prima dell'invio al trattamento domiciliare o in day-hospital.
 
 2\. La permanenza presso le strutture di cui al comma 1 non puo' essere superiore a trenta giorni.
 
-#### Art. 12 - Collaborazione con enti ed associazioni
+### Art. 12 - Collaborazione con enti ed associazioni
 
 1\. Le regioni, le aziende unita' sanitarie locali ed i servizi per lo svolgimento delle attivita' di prevenzione, cura, riabilitazione e reinserimento sociale dei soggetti con problemi e patologie alcolcorrelati possono svolgere la loro attivita' avvalendosi, anche mediante apposita convenzione, di enti ed associazioni pubbliche o private che operano per il perseguimento degli obiettivi di cui all'articolo 1 della presente legge.
 
-## Capo III - DISPOSIZIONI SULLA PUBBLICITA' E SUL CONSUMO DELLE BEVANDE
+## Capo III - DISPOSIZIONI SULLA PUBBLICITA' E SUL CONSUMO DELLE BEVANDE ALCOLICHE E IN MATERIA DI SICUREZZA SUL LAVORO
 
-### ALCOLICHE - E IN MATERIA DI SICUREZZA SUL LAVORO
-
-#### Art. 13 - Disposizioni in materia di pubblicita
+### Art. 13 - Disposizioni in materia di pubblicita
 
 1\. Entro sei mesi dalla data di entrata in vigore della presente legge, le emittenti radiotelevisive pubbliche e private e le agenzie pubblicitarie, unitariamente ai rappresentanti della produzione, tenuto conto anche dell'esigenza di valorizzare le produzioni tipiche ed a denominazione di origine controllata, adottano un codice di autoregolamentazione sulle modalita' e sui contenuti dei messaggi pubblicitari relativi alle bevande alcoliche e superalcoliche.
 
@@ -306,7 +302,7 @@ b) nelle sale cinematografiche in occasione della proiezione di film destinati p
 
 7\. La sanzione di cui al comma 6 si applica altresi' alle industrie produttrici ed ai responsabili delle emittenti radiotelevisive e degli organi di stampa nonche' ai proprietari delle sale cinematografiche.
 
-#### Art. 14
+### Art. 14
 
 (( (Vendita e somministrazione di bevande alcoliche e
 
@@ -322,7 +318,7 @@ superalcoliche sulle autostrade).
 
 5\. Qualora, nell'arco di un biennio, sia reiterata una delle violazioni delle disposizioni di cui ai commi 1 o 2, il prefetto territorialmente competente in relazione al luogo della commessa violazione dispone la sospensione della licenza relativa alla vendita e somministrazione di bevande alcoliche e superalcoliche per un periodo di trenta giorni)).
 
-#### Art. 14-bis
+### Art. 14-bis
 
 (Vendita e somministrazione di bevande alcoliche in
 
@@ -334,13 +330,13 @@ aree pubbliche)
 
 3\. Resta fermo quanto previsto dall'articolo 14 della presente legge, dall'articolo 6-bis del decreto-legge 27 giugno 2003, n. 151, convertito, con modificazioni, dalla legge 1° agosto 2003, n. 214, e dall'articolo 6 del decreto-legge 3 agosto 2007, n. 117, convertito, con modificazioni, dalla legge 2 ottobre 2007, n. 160, e successive modificazioni.
 
-#### Art. 14-ter - Introduzione del divieto di vendita di bevande alcoliche a minori
+### Art. 14-ter - Introduzione del divieto di vendita di bevande alcoliche a minori
 
 1\. Chiunque vende bevande alcoliche ha l'obbligo di chiedere all'acquirente, all'atto dell'acquisto, l'esibizione di un documento di identita', tranne che nei casi in cui la maggiore eta' dell'acquirente sia manifesta.
 
 2\. Salvo che il fatto non costituisca reato, si applica la sanzione amministrativa pecuniaria da 250 a 1.000 euro a chiunque vende ((o somministra)) bevande alcoliche ai minori di anni diciotto. Se il fatto e' commesso piu' di una volta si applica la sanzione amministrativa pecuniaria da 500 a 2.000 euro con la sospensione dell'attivita' ((da quindici giorni a tre mesi)).
 
-#### Art. 15 - Disposizioni per la sicurezza sul lavoro
+### Art. 15 - Disposizioni per la sicurezza sul lavoro
 
 1\. Nelle attivita' lavorative che comportano un elevato rischio di infortuni sul lavoro ovvero per la sicurezza, l'incolumita' o la salute dei terzi, individuate con decreto del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro della sanita', da emanare entro novanta giorni dalla data di entrata in vigore della presente legge, e' fatto divieto di assunzione e di somministrazione di bevande alcoliche e superalcoliche.
 
@@ -352,7 +348,7 @@ aree pubbliche)
 
 ## Capo IV - DISPOSIZIONI FINANZIARIE
 
-#### Art. 16 - Copertura finanziaria
+### Art. 16 - Copertura finanziaria
 
 1\. Agli oneri derivanti dall'attuazione della presente legge, pari a lire 4.125 milioni annue a decorrere dall'anno 2001, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2001-2003, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno finanziario 2001, parzialmente utilizzando l'accantonamento relativo al Ministero della sanita'.
 

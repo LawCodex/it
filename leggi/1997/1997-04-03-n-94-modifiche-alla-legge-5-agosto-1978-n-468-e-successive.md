@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I - STRUTTURA E FORMAZIONE
+## Capo I - STRUTTURA E FORMAZIONE DEL BILANCIO DELLO STATO
 
-### DEL BILANCIO DELLO STATO
-
-#### Art. 1
+### Art. 1
 
 1\. Il terzo comma dell'articolo 1 della legge 5 agosto 1978, n. 468, e' abrogato.
 
@@ -106,7 +104,7 @@ Sono escluse le variazioni compensative fra le unita' di spesa oggetto della del
 
 > 6\. In apposito allegato di ciascuno stato di previsione sono esposte, per capitoli, le previsioni di spesa destinate ai territori di cui all'articolo 1 del decreto del Presidente della Repubblica 6 marzo 1978, n. 218, relativamente alle categorie delle spese correnti concernenti spese per il personale in attivita' di servizio e per trasferimenti, nonche' per tutte le categorie delle spese in conto capitale con esclusione delle anticipazioni per finalita' non produttive".
 
-#### Art. 2
+### Art. 2
 
 1\. Il comma 2 dell'articolo 4 della legge 5 agosto 1978, n. 468, e successive modificazioni e integrazioni, e' sostituito dal seguente:
 
@@ -116,7 +114,7 @@ Sono escluse le variazioni compensative fra le unita' di spesa oggetto della del
 
 > \- Il testo del comma 2 dell'art. 4 della gia' citata legge n. 468/1978, era il seguente: "2. Il bilancio pluriennale e' redatto per categorie di entrata e categorie di spesa; nell'ambito di queste ultime vengono individuati i trasferimenti correnti e di conto capitale verso i principali settori di spesa decentrata. Il bilancio pluriennale non comporta autorizzazione a riscuotere le entrate ne' ad eseguire le spese ivi contemplate ed e' aggiornato annualmente".
 
-#### Art. 3
+### Art. 3
 
 1\. Dopo l'articolo 4 della legge 5 agosto 1978, n. 468, e' inserito il seguente:
 
@@ -144,7 +142,7 @@ Infine, il Ministro del tesoro predispone il progetto di bilancio di previsione"
 
 > \- Il testo del secondo comma dell'art. 36 del R.D. 18 novembre 1923, n. 2440 (Nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato), a seguito delle modificazioni apportate dalla presente legge, e' il seguente: "Le somme stanziate per spese in conto capitale non impegnate alla chiusura dell'esercizio possono essere mantenute in bilancio, quali residui, non oltre il terzo esercizio finanziario successivo alla prima iscrizione, salvo che non si tratti di stanziamenti iscritti in forza di disposizioni legislative entrate in vigore nell'ultimo quadrimestre dell'esercizio precedente. In tale caso, il periodo di conservazione e' protratto di un anno. Per le spese in annualita' il periodo di conservazione decorre dall'esercizio successivo a quello di iscrizione in bilancio di ciascun limite di impegno".
 
-#### Art. 4
+### Art. 4
 
 1\. I primi sei commi dell'articolo 6 della legge 5 agosto 1978, n. 468, e successive modificazioni e integrazioni, sono sostituiti dai seguenti:
 
@@ -258,11 +256,9 @@ La numerazione delle funzioni-obiettivo, delle unita' previsionali di base, dell
 
 > Le modalita' dell'accesso ai dati e della loro utilizzazione sono determinate sulla base delle direttive e sotto la responsabilita' delle presidenze delle competenti commissioni permanenti del Senato della Repubblica e della Camera dei deputati".
 
-## Capo II - DELEGA PER LA RISTRUTTURAZIONE DEL BILANCIO DELLO STATO E PER
+## Capo II - DELEGA PER LA RISTRUTTURAZIONE DEL BILANCIO DELLO STATO E PER L'ACCORPAMENTO DEL MINISTERO DEL TESORO E DEL MINISTERO DEL BILANCIO E DELLA PROGRAMMAZIONE ECONOMICA.
 
-### L'ACCORPAMENTO DEL MINISTERO DEL TESORO E DEL MINISTERO DEL BILANCIO - E DELLA PROGRAMMAZIONE ECONOMICA.
-
-#### Art. 5
+### Art. 5
 
 1\. Il Governo e' delegato ad emanare, entro centoventi giorni dalla data di entrata in vigore della presente legge, un decreto legislativo diretto ad individuare le unita' previsionali di base del bilancio. Il decreto si uniformera' ai seguenti principi e criteri direttivi, tenuto conto anche di quanto stabilito dalla legge 7 agosto 1990, n. 241, e dal decreto legislativo 3 febbraio 1993, n. 29, e successive integrazioni e modificazioni:
 
@@ -318,7 +314,7 @@ h) introdurre, ai fini della gestione e della rendicontazione, una contabilita' 
 
 > 11\. Nessun versamento a carico del bilancio dello Stato puo' essere effettuato agli enti di cui all'art. 25 della presente legge ed alle regioni se non risultano regolarmente adempiuti gli obblighi di cui ai precedenti commi".
 
-#### Art. 6
+### Art. 6
 
 1\. Entro un anno dalla data di entrata in vigore del decreto legislativo di cui all'articolo 5, con regolamento governativo, emanato ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, e successive modificazioni, si provvede a modificare ed integrare il regolamento di contabilita' generale dello Stato, in conformita' ai principi generali previsti dalla legge 7 agosto 1990, n. 241, e successive modificazioni ed integrazioni, dal regolamento approvato con decreto del Presidente della Repubblica 20 aprile 1994, n. 367, e dal decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni, nonche' sulla base dei criteri e principi direttivi di cui all'articolo 5 della presente legge.
 
@@ -336,7 +332,7 @@ AGGIORNAMENTO (2)
 
 La L. 24 novembre 2000, n. 340 ha disposto (con l'art. 18, comma 1) che i testi unici di cui al comma 4 del presente articolo sono emanati entro il 30 giugno 2002.
 
-#### Art. 7
+### Art. 7
 
 1\. Ai fini della razionalizzazione delle strutture amministrative e del potenziamento degli strumenti operativi a supporto dell'azione del Governo in materia di politica economica, finanziaria e di bilancio e' disposto l'accorpamento del Ministero del tesoro e del Ministero del bilancio e della programmazione economica in un'unica amministrazione, che assume la denominazione di "Ministero del tesoro, del bilancio e della programmazione economica", nel quale confluiscono tutte le funzioni, gli uffici, il personale e le risorse finanziarie dei due Ministeri interessati. In tutti gli atti normativi e gli atti ufficiali della Repubblica italiana le dizioni "Ministero del tesoro" e "Ministro del tesoro" e "Ministero del bilancio e della programmazione economica" e "Ministro del bilancio e della programmazione economica" sono sostituite dalle dizioni "Ministero del tesoro, del bilancio e della programmazione economica" e "Ministro del tesoro, del bilancio e della programmazione economica".
 
@@ -386,7 +382,7 @@ AGGIORNAMENTO (1)
 
 La L. 2 ottobre 1997, n. 337 ha disposto (con l'art. 1, comma 1) che i termini per l'emanazione dei decreti legislativi e dei regolamenti previsti, rispettivamente, dai commi 2 e 3 del presente articolo sono prorogati di sessanta giorni. E', altresi', prorogato di sessanta giorni il termine previsto dal comma 4 di cui al presente articolo.
 
-#### Art. 8
+### Art. 8
 
 1\. Dopo l'articolo 9 della legge 5 agosto 1978, n. 468, e' inserito il seguente:
 
@@ -436,11 +432,11 @@ In deroga all'articolo 3, comma 1, della legge 14 gennaio 1994, n. 20, i decreti
 
 > l) atti che il Presidente del Consiglio dei Ministri richieda di sottoporre temporaneamente a controllo preventivo o che la Corte dei conti deliberi di assoggettare, per un periodo determinato, a controllo preventivo in relazione a situazioni di diffusa e ripetuta irregolarita' rilevate in sede di controllo successivo".
 
-#### Art. 9
+### Art. 9
 
 1\. Entro trenta giorni dalla data di pubblicazione della presente legge nella Gazzetta Ufficiale della Repubblica italiana, e' istituita una Commissione composta da quindici senatori e quindici deputati, nominati rispettivamente dal Presidente del Senato della Repubblica e dal Presidente della Camera dei deputati, nel rispetto della proporzione esistente tra i gruppi parlamentari, sulla base delle designazioni dei gruppi medesimi, al fine dell'esame degli schemi di decreto trasmessi ai sensi degli articoli 5, comma 3, 6, comma 5, e 7, comma 4.
 
-#### Art. 10
+### Art. 10
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 

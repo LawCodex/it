@@ -30,7 +30,7 @@ la seguente legge:
 
 ## Capo 1 - DISPOSIZIONI GENERALI
 
-#### ART. 1
+### ART. 1
 
 1\. L'articolo 16 della legge 22 aprile 1941, n. 633, e' sostituito dal seguente:
 
@@ -44,7 +44,7 @@ la seguente legge:
 
 > \- La legge 22 aprile 1941, n. 633, recante "Protezione del diritto d'autore e di altri diritti connessi al suo esercizio" e' pubblicata nella Gazzetta Ufficiale della Repubblica italiana 16 luglio 1941, n. 166.
 
-#### Art. 2
+### Art. 2
 
 ART 2.
 
@@ -108,7 +108,7 @@ Le riproduzioni delle opere esistenti nelle biblioteche pubbliche, fatte all'int
 
 > \- La legge 22 maggio 1993, n. 159, reca: "Norme in materia di abusiva riproduzione di opere librarie e abrogazione del contributo sulle opere di pubblico dominio di cui agli articoli 177, 178 e 179 e all'ultimo comma dell'art. 172 della legge 22 aprile 1941, n. 633".
 
-#### ART. 3
+### ART. 3
 
 1\. Alla lettera b) del comma 1 dell'articolo 69 della legge 22 aprile 1941, n. 633, sono aggiunte, in fine, le parole: "ovvero, non essendo stato esercitato il diritto di distribuzione, decorsi almeno ventiquattro mesi dalla realizzazione delle dette opere e sequenze di immagini".
 
@@ -128,7 +128,7 @@ Le riproduzioni delle opere esistenti nelle biblioteche pubbliche, fatte all'int
 
 > 1-bis. Per i servizi delle biblioteche e discoteche di Stato e degli enti pubblici e' consentita la riproduzione in unico esemplare dei fonogrammi e videogrammi contenenti opere cinematografiche o audiovisive o sequenze di immagini in movimento, siano esse sonore o meno, esistenti presso le medesime biblioteche e discoteche dello Stato e degli enti pubblici".
 
-#### ART. 4
+### ART. 4
 
 1\. Nell'articolo 161 della legge 22 aprile 1941, n. 633, il primo comma e' sostituito dal seguente:
 
@@ -146,7 +146,7 @@ Le riproduzioni delle opere esistenti nelle biblioteche pubbliche, fatte all'int
 
 > Le disposizioni di questa sezione si applicano anche a chi mette in circolazione in qualsiasi modo, o detiene per scopi commerciali copie non autorizzate di programmi e qualsiasi mezzo inteso unicamente a consentire o facilitare la rimozione arbitraria o l'elusione funzionale dei dispositivi applicati a protezione di un programma per elaboratore".
 
-#### ART. 5
+### ART. 5
 
 1\. L'articolo 162 della legge 22 aprile 1941, n. 633, e' sostituito dal seguente:
 
@@ -190,7 +190,7 @@ Le riproduzioni delle opere esistenti nelle biblioteche pubbliche, fatte all'int
 
 > Non oltre il giorno successivo, a cura del cancelliere, deve essere fatta notificazione immediata del decreto alle parti non presenti all'assunzione".
 
-#### ART. 6
+### ART. 6
 
 1\. L'articolo 163 della legge 22 aprile 1941, n. 633, e' sostituito dal seguente:
 
@@ -198,7 +198,7 @@ Le riproduzioni delle opere esistenti nelle biblioteche pubbliche, fatte all'int
 
 2\. Pronunciando l'inibitoria, il giudice puo' fissare una somma dovuta per ogni violazione o inosservanza successivamente constatata o per ogni ritardo nell'esecuzione del provvedimento".
 
-#### ART. 7
+### ART. 7
 
 1\. Il numero 3) dell'articolo 164 della legge 22 aprile 1941, n. 633, e' sostituito dal seguente:
 
@@ -218,7 +218,7 @@ Le riproduzioni delle opere esistenti nelle biblioteche pubbliche, fatte all'int
 
 > \- La legge 5 febbraio 1992, n. 93, reca: "Norme a favore delle imprese fonografiche e compensi per le riproduzioni private senza scopo di lucro".
 
-#### ART. 8
+### ART. 8
 
 1\. Dopo l'articolo 174 della legge 22 aprile 1941, n. 633, sono inseriti i seguenti:
 
@@ -328,11 +328,11 @@ ART. 174-ter. - 1. Quando esercita l'azione penale per taluno dei reati non colp
 
 > 3\. Le violazioni alle disposizioni di cui agli articoli 76, salvo quanto previsto nel comma 1, 81, 83, 84. 108, 113, quinto comma, 120, salvo quanto previsto nel comma 1, 126, 128, escluse le attivita' previste dall'art. 126, 135, escluso il comma terzo e salvo quanto previsto nel comma 1, e 147 sono soggette alla sanzione amministrativa del pagamento di una somma da lire trecentomila a lire due milioni."
 
-#### ART. 9
+### ART. 9
 
 1\. Nel testo della legge 22 aprile 1941, n. 633, l'espressione: "Ente italiano per il diritto di autore" ovunque ricorra e' sostituita dall'espressione "Societa' italiana degli autori ed editori (SIAE)".
 
-#### ART. 10
+### ART. 10
 
 1\. Dopo l'articolo 181 della legge 22 aprile 1941, n. 633, e' inserito il seguente:
 
@@ -358,7 +358,7 @@ Ai fini della tempestiva apposizione del contrassegno, fuori dei casi in cui esi
 
 > \- Il decreto legislativo 29 dicembre 1992, n. 518, reca: "Attuazione della direttiva 91/250/CEE relativa alla tutela giuridica dei programmi per elaboratore".
 
-#### ART. 11
+### ART. 11
 
 1\. Dopo l'articolo 182 della legge 22 aprile 1941, n. 633, sono inseriti i seguenti:
 
@@ -438,7 +438,7 @@ ART. 182-ter - 1. Gli ispettori, in caso di accertamento di violazione delle nor
 
 > c) omissis".
 
-#### ART. 12
+### ART. 12
 
 1\. All'articolo 26 della legge 23 agosto 1988, n. 400, sono aggiunti i seguenti commi:
 
@@ -462,11 +462,11 @@ ART. 182-ter - 1. Gli ispettori, in caso di accertamento di violazione delle nor
 
 > \- Per il testo dell'art. 174-bis, comma 2, lettera b), della legge 22 aprile 1941, n. 633, e successive modificazioni, vedasi l'art. 8 della presente legge.
 
-## Capo II - CAPO II
+## Capo II
 
-### DISPOSIZIONI PENALI
+## CAPO II - DISPOSIZIONI PENALI
 
-#### ART. 13
+### ART. 13
 
 1\. L'articolo 171-bis della legge 22 aprile 1941, n. 633, e' sostituito dal seguente:
 
@@ -474,7 +474,7 @@ ART. 182-ter - 1. Gli ispettori, in caso di accertamento di violazione delle nor
 
 2\. Chiunque, al fine di trarne profitto, su supporti non contrassegnati SIAE riproduce, trasferisce su altro supporto, distribuisce, comunica, presenta o dimostra in pubblico il contenuto di una banca di dati in violazione delle disposizioni di cui agli articoli 64-quinquies e 64-sexies, ovvero esegue l'estrazione o il reimpiego della banca di dati in violazione delle disposizioni di cui agli articoli 102-bis e 102-ter, ovvero distribuisce, vende o concede in locazione una banca di dati, e' soggetto alla pena della reclusione da sei mesi a tre anni e della multa da lire cinque milioni a lire trenta milioni. La pena non e' inferiore nel minimo a due anni di reclusione e la multa a lire trenta milioni se il fatto e' di rilevante gravita'".
 
-#### ART. 14
+### ART. 14
 
 1\. L'articolo 171-ter della legge 22 aprile 1941, n. 633, e' sostituito dal seguente:
 
@@ -524,17 +524,17 @@ c) la sospensione per un periodo di un anno della concessione o autorizzazione d
 
 > Essa consegue ad ogni condanna alla reclusione non inferiore a sei mesi per delitti commessi con abuso dei poteri o violazione dei doveri inerenti all'ufficio".
 
-#### ART. 15
+### ART. 15
 
 1\. Dopo l'articolo 171-quater della legge 22 aprile 1941, n. 633, e' inserito il seguente:
 
 "ART, 171-quinquies. 1. Ai fini delle disposizioni di cui alla presente legge e' equiparata alla concessione in noleggio la vendita con patto di riscatto ovvero sotto condizione risolutiva quando sia previsto che nel caso di riscatto o di avveramento della condizione il venditore restituisca una somma comunque inferiore a quella pagata oppure quando sia previsto da parte dell'acquirente, al momento della consegna, il pagamento di una somma a titolo di acconto o ad altro titolo comunque inferiore al prezzo di vendita".
 
-#### Art. 16
+### Art. 16
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 APRILE 2003, N. 68))
 
-#### ART.17
+### ART.17
 
 1\. Dopo l'articolo 171-quinquies della legge 22 aprile 1941, n.633, introdotto dall'articolo 15 della presente legge, sono inseriti i seguenti:
 
@@ -580,7 +580,7 @@ ART. 171-nonies. - 1. La pena principale per i reati di cui agli articoli 171-bi
 
 > 3\. La parte, nel formulare la richiesta, puo' subordinarne l'efficacia, alla concessione della sospensione condizionale della pena. In questo caso il giudice, se ritiene che la sospensione condizionale non puo' essere concessa, rigetta la richiesta.".
 
-#### ART. 18
+### ART. 18
 
 1\. All'articolo 3 della legge 5 febbraio 1992, n. 93, dopo il comma 6 sono aggiunti i seguenti:
 
@@ -614,7 +614,7 @@ ART. 171-nonies. - 1. La pena principale per i reati di cui agli articoli 171-bi
 
 > 6-ter. Nel caso di inadempimento dell'obbligo di cui al comma 6-bis. ovvero se sussistono seri indizi che la dichiarazione presentata non corrisponda alla realta', la SIAE puo' ottenere che il giudice disponga l'esibizione delle scritture contabili del soggetto obbligato oppure che acquisisca da questi le necessarie informazioni".
 
-#### ART. 19
+### ART. 19
 
 1\. Presso la Presidenza del Consiglio dei ministri e' istituito il Comitato per la tutela della proprieta' intellettuale, di seguito denominato "Comitato".
 

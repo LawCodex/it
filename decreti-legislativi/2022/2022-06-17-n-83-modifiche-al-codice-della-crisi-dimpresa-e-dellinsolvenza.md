@@ -55,11 +55,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I - Modifiche al codice della crisi d'impresa e dell'insolvenza di cui al
+## Capo I - Modifiche al codice della crisi d'impresa e dell'insolvenza di cui al decreto legislativo 12 gennaio 2019, n. 14
 
-### decreto legislativo 12 gennaio 2019, n. 14
-
-#### Art. 1
+### Art. 1
 
 Modifiche alla Parte Prima, Titolo I, Capo I, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -241,7 +239,7 @@ l) la lettera u) e' abrogata.
 
 > u) Abrogata.».
 
-#### Art. 2
+### Art. 2
 
 Modifiche alla Parte Prima, Titolo I, Capo II, Sezione I, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -295,7 +293,7 @@ c) gestire il patrimonio o l'impresa durante i procedimenti nell'interesse prior
 
 4\. Le controversie in cui e' parte un organo nominato dall'autorita' giudiziaria o amministrativa nell'ambito degli strumenti di regolazione della crisi e dell'insolvenza o delle procedure di insolvenza o comunque un soggetto nei cui confronti e' aperta una procedura prevista dal presente codice sono trattate con priorita'. Il capo dell'ufficio trasmette annualmente al presidente della corte d'appello i dati relativi al numero e alla durata dei suddetti procedimenti, indicando le disposizioni adottate per assicurarne la celere trattazione. Il presidente della corte d'appello ne da' atto nella relazione sull'amministrazione della giustizia.».
 
-#### Art. 3
+### Art. 3
 
 Modifiche alla Parte Prima, Titolo I, Capo II, Sezione II, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -321,7 +319,7 @@ d) i crediti legalmente sorti durante le procedure concorsuali per la gestione d
 
 2\. La prededucibilita' permane anche nell'ambito delle successive procedure esecutive o concorsuali.».
 
-#### Art. 4
+### Art. 4
 
 Modifiche alla Parte Prima, Titolo I, Capo II, Sezione III, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -343,7 +341,7 @@ c) nella proposta siano espressamente indicate la convenienza per i creditori o,
 
 «Art. 8 (Durata massima delle misure protettive). - 1. 1. La durata complessiva delle misure protettive, fino alla omologazione dello strumento di regolazione della crisi e dell'insolvenza o alla apertura della procedura di insolvenza, non puo' superare il periodo, anche non continuativo, di dodici mesi, inclusi eventuali rinnovi o proroghe, tenuto conto delle misure protettive di cui all'articolo 18».
 
-#### Art. 5
+### Art. 5
 
 Modifiche alla Parte Prima, Titolo I, Capo II, Sezione IV, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -355,7 +353,7 @@ Modifiche alla Parte Prima, Titolo I, Capo II, Sezione IV, del decreto legislati
 
 3\. La giurisdizione italiana di cui al comma 1 sussiste anche per le azioni che derivano direttamente dalla procedura.».
 
-#### Art. 6
+### Art. 6
 
 Modifiche alla Parte Prima, Titolo II, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -733,13 +731,13 @@ Art. 25-undecies (Istituzione di programma informatico di verifica della sosteni
 
 3\. Le informazioni e i dati da inserire nel programma informatico, le specifiche tecniche per il suo funzionamento e le modalita' di calcolo del tasso di interesse applicabile ai crediti rateizzati sono definiti con decreto non regolamentare del Ministro dello sviluppo economico, di concerto con il Ministro della giustizia e con il Ministro delegato per l'innovazione tecnologica e la transizione digitale, da adottare entro sessanta giorni dalla data di entrata in vigore del presente decreto».
 
-#### Art. 7
+### Art. 7
 
 Modifiche alla Parte Prima, Titolo III, del decreto legislativo 12 gennaio 2019, n. 14
 
 1\. Dopo l'articolo 25-undecies, al Titolo III, le parole «Procedure di regolazione della crisi e dell'insolvenza» sono sostituite dalle seguenti: «Strumenti di regolazione della crisi e dell'insolvenza».
 
-#### Art. 8
+### Art. 8
 
 Modifiche alla Parte Prima, Titolo III, Capo I, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -761,7 +759,7 @@ b) il comma 2 e' sostituito dal seguente: «2. Il trasferimento del centro degli
 
 > 4\. Il tribunale, quando apre una procedura di insolvenza transfrontaliera ai sensi del regolamento (UE) 2015/848 del Parlamento europeo e del Consiglio del 20 maggio 2015, dichiara se la procedura e' principale, secondaria o territoriale.».
 
-#### Art. 9
+### Art. 9
 
 Modifiche alla Parte Prima, Titolo III, Capo II, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -795,13 +793,13 @@ c) al comma 3, lettere a) e c), le parole «attivita' impresa» sono sostituite 
 
 > c) per la persona giuridica e gli enti, anche non esercenti attivita' d'impresa, con la sede legale risultante dal registro delle imprese o, in mancanza, con la sede effettiva dell'attivita' abituale o, se sconosciuta, secondo quanto previsto nella lettera b), con riguardo al legale rappresentante.».
 
-#### Art. 10
+### Art. 10
 
 Modifiche alla Parte Prima, Titolo III, Capo IV, del decreto legislativo 12 gennaio 2019, n. 14
 
 1\. Alla parte prima, titolo III del decreto legislativo 12 gennaio 2019, n. 14, la rubrica del capo IV e' sostituita dalla seguente: «Accesso agli strumenti di regolazione della crisi e dell'insolvenza e alla liquidazione giudiziale».
 
-#### Art. 11
+### Art. 11
 
 Modifiche alla Parte Prima, Titolo III, Capo IV, Sezione I, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -847,7 +845,7 @@ c) la rubrica e' sostituita dalla seguente: «Obblighi del debitore che chiede l
 
 > 3\. Quando la domanda e' presentata ai sensi dell'art. 44, comma 1, lettera a), il debitore deposita unitamente alla domanda unicamente i bilanci relativi agli ultimi tre esercizi o, per le imprese non soggette all'obbligo di redazione del bilancio, le dichiarazioni dei redditi e le dichiarazioni IRAP concernenti i tre esercizi precedenti, l'elenco nominativo dei creditori con l'indicazione dei rispettivi crediti e delle cause di prelazione, oltre che con l'indicazione del loro domicilio digitale, se ne sono muniti. L'ulteriore documentazione prevista dai commi 1 e 2 deve essere depositata nel termine assegnato dal tribunale ai sensi dell'art. 44, comma 1, lettera a).».
 
-#### Art. 12
+### Art. 12
 
 Modifiche alla Parte Prima, Titolo III, Capo IV, Sezione II, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1117,7 +1115,7 @@ b) il comma 14 e' sostituito dal seguente: «14. Il ricorso per cassazione non s
 
 > 6\. Nel caso previsto dal comma 5, su istanza del debitore il tribunale, ove ricorrano gravi e giustificati motivi, puo' sospendere i termini per la proposizione delle impugnazioni dello stato passivo e l'attivita' di liquidazione fino al momento in cui la sentenza che pronuncia sulla revoca passa in giudicato.».
 
-#### Art. 13
+### Art. 13
 
 Modifiche alla Parte Prima, Titolo III, Capo IV, Sezione III, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1155,13 +1153,13 @@ All'udienza il giudice conferma, modifica o revoca i provvedimenti emanati con d
 
 7\. In caso di revoca o cessazione delle misure protettive, il divieto di acquisire diritti di prelazione, se non concordati con l'imprenditore, viene meno a far data dalla revoca o dalla cessazione delle misure protettive.».
 
-#### Art. 14
+### Art. 14
 
 Modifiche alla Parte Prima, Titolo IV, Capo I, Sezione I, del decreto legislativo 12 gennaio 2019, n. 14
 
 1\. Alla parte prima, titolo IV, capo I, del decreto legislativo 12 gennaio 2019, n. 14, la rubrica della sezione I e' sostituita dalla seguente: «Piano attestato di risanamento».
 
-#### Art. 15
+### Art. 15
 
 Modifiche alla Parte Prima, Titolo IV, Capo I, Sezione II, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1237,7 +1235,7 @@ b) alla rubrica, dopo le parole «Effetti degli accordi sulla disciplina societa
 
 > 4\. Fermo quanto previsto dal comma 3, i creditori interessati dalle misure protettive non possono, unilateralmente, rifiutare l'adempimento dei contratti essenziali in corso di esecuzione o provocarne la risoluzione, ne' possono anticiparne la scadenza o modificarli in danno dell'imprenditore per il solo fatto di non essere stati pagati dal debitore. Sono essenziali i contratti necessari per la continuazione della gestione corrente dell'impresa, inclusi i contratti relativi alle forniture la cui interruzione impedisce la prosecuzione dell'attivita' del debitore.».
 
-#### Art. 16
+### Art. 16
 
 Inserimento del Capo I-bis del Titolo IV della Parte Prima del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1281,7 +1279,7 @@ Art. 64-quater (Conversione del piano di ristrutturazione soggetto ad omologazio
 
 5\. Il debitore che ha presentato la domanda di concordato preventivo puo' modificarla chiedendo l'omologazione del piano di ristrutturazione sino a che non sono iniziate le operazioni di voto.».
 
-#### Art. 17
+### Art. 17
 
 Modifiche alla Parte Prima, Titolo IV, Capo II, Sezione II, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1297,7 +1295,7 @@ Modifiche alla Parte Prima, Titolo IV, Capo II, Sezione II, del decreto legislat
 
 > 8.-12. (Omissis).».
 
-#### Art. 18
+### Art. 18
 
 Modifiche alla Parte Prima, Titolo IV, Capo II, Sezione III, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1351,7 +1349,7 @@ c) al comma 4, dopo le parole «posta elettronica certificata» sono inserite le
 
 > 2\. - 7. (Omissis).».
 
-#### Art. 19
+### Art. 19
 
 Modifiche alla Parte Prima, Titolo IV, Capo III, Sezione I, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1477,7 +1475,7 @@ b) al comma 5, primo periodo, le parole «articolo 87, comma 2,» sono sostituit
 
 > 8\. Le proposte di concordato, ivi compresa quella presentata dal debitore, possono essere modificate fino a venti giorni prima della votazione dei creditori.».
 
-#### Art. 20
+### Art. 20
 
 Modifiche alla Parte Prima, Titolo IV, Capo III, Sezione II, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1501,7 +1499,7 @@ b) il comma 3 e' sostituito dal seguente: «3. Il commissario giudiziale vigila 
 
 > 5\. Il commissario giudiziale comunica senza ritardo al pubblico ministero i fatti che possono interessare ai fini delle indagini preliminari in sede penale e dei quali viene a conoscenza nello svolgimento delle sue funzioni.».
 
-#### Art. 21
+### Art. 21
 
 Modifiche alla Parte Prima, Titolo IV, Capo III, Sezione III, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1523,7 +1521,7 @@ Modifiche alla Parte Prima, Titolo IV, Capo III, Sezione III, del decreto legisl
 
 > 2\. Quando e' prevista la continuazione dell'attivita' aziendale, la disciplina di cui al comma 1 si applica, in deroga al disposto dell'art. 154, comma 2, al rimborso, alla scadenza convenuta, delle rate a scadere del contratto di mutuo con garanzia reale gravante su beni strumentali all'esercizio dell'impresa se il debitore, alla data della presentazione della domanda di concordato, ha adempiuto le proprie obbligazioni o se il tribunale lo autorizza al pagamento del debito per capitale ed interessi scaduto a tale data. Il professionista indipendente attesta anche che il credito garantito potrebbe essere soddisfatto integralmente con il ricavato della liquidazione del bene effettuata a valore di mercato e che il rimborso delle rate a scadere non lede i diritti degli altri creditori.».
 
-#### Art. 22
+### Art. 22
 
 Modifiche alla Parte Prima, Titolo IV, Capo III, Sezione IV, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1551,7 +1549,7 @@ b) al comma 3, come modificato dall'articolo 16, comma 2, lettera c), del decret
 
 > 3\. All'esito del procedimento, il tribunale, revocato il decreto di cui all'art. 47, su istanza del creditore o su richiesta del pubblico ministero, apre la procedura di liquidazione giudiziale dei beni del debitore.».
 
-#### Art. 23
+### Art. 23
 
 Modifiche alla Parte Prima, Titolo IV, Capo III, Sezione V, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1573,7 +1571,7 @@ Salvo quanto previsto, per il concordato in continuita' aziendale, dal comma 5, 
 
 7\. Il creditore che propone il concordato ovvero le societa' da questo controllate, le societa' controllanti o sottoposte a comune controllo, ai sensi dell'articolo 2359, primo comma, del codice civile possono votare soltanto se la proposta ne prevede l'inserimento in apposita classe.».
 
-#### Art. 24
+### Art. 24
 
 Modifiche alla Parte Prima, Titolo IV, Capo III, Sezione VI, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1675,7 +1673,7 @@ b) dopo il comma 5 e' aggiunto il seguente: «6. Conclusa l'esecuzione del conco
 
 > 8\. In deroga all'art. 2560 del codice civile, l'acquirente o cessionario dell'azienda non risponde dei debiti pregressi, salvo diversa previsione del piano di concordato.».
 
-#### Art. 25
+### Art. 25
 
 Inserimento della sezione VI-bis del Capo III del Titolo IV della Parte Prima del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1721,7 +1719,7 @@ Gli amministratori, nei trenta giorni successivi, possono ricorrere, per i provv
 
 3\. Le modificazioni della compagine sociale conseguenti all'esecuzione di uno strumento di regolazione della crisi e dell'insolvenza non costituiscono causa di risoluzione o di modificazione di contratti stipulati dalla societa'. Sono inefficaci eventuali patti contrari.».
 
-#### Art. 26
+### Art. 26
 
 Modifiche alla Parte Prima, Titolo V, Capo I, Sezione I, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1739,7 +1737,7 @@ b) il comma 2 e' abrogato.
 
 > 2\. Abrogato.».
 
-#### Art. 27
+### Art. 27
 
 Modifiche alla Parte Prima, Titolo V, Capo I, Sezione III, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1753,7 +1751,7 @@ Modifiche alla Parte Prima, Titolo V, Capo I, Sezione III, del decreto legislati
 
 > 2\. In deroga a quanto previsto dal comma 1, la rivalutazione dei crediti di lavoro e' ammessa anche dopo la domanda di accesso agli strumenti di regolazione della crisi e dell'insolvenza e dopo l'apertura di una procedura di insolvenza. La rivalutazione e' ammessa, negli strumenti di regolazione della crisi e dell'insolvenza, fino alla definitivita' della sentenza di omologazione e, nelle procedure di insolvenza, fino al decreto pronunciato ai sensi dell'articolo 204, comma 4, in relazione alle domande di ammissione al passivo depositate nel termine di cui all'articolo 201, comma 1.».
 
-#### Art. 28
+### Art. 28
 
 Modifiche alla Parte Prima, Titolo V, Capo I, Sezione IV, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1799,7 +1797,7 @@ b) alla lettera g), le parole «alle procedure di regolazione della crisi e dell
 
 > 4\. Le disposizioni di questo articolo non si applicano all'istituto di emissione, alle operazioni di credito su pegno e di credito fondiario; sono salve le disposizioni delle leggi speciali.».
 
-#### Art. 29
+### Art. 29
 
 Modifiche alla Parte Prima, Titolo V, Capo IV sezione I, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1839,7 +1837,7 @@ f) dopo il comma 8 e' aggiunto il seguente: «9. Se il curatore ha rispettato i 
 
 > 9\. Se il curatore ha rispettato i termini di cui al comma 5, nel calcolo dei termini di cui alla legge 24 marzo 2001, n. 89, non si tiene conto del tempo necessario per il completamento della liquidazione.».
 
-#### Art. 30
+### Art. 30
 
 Modifiche alla Parte Prima, Titolo V, Capo IV, sezione II, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1899,7 +1897,7 @@ f) dopo il comma 11 e' aggiunto il seguente: «12. Con regolamento del Ministro 
 
 > 12\. Con regolamento del Ministro della giustizia, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, entro il termine di sei mesi dalla data di entrata in vigore del presente decreto, sono stabiliti requisiti di onorabilita' e professionalita' dei soggetti specializzati dei quali il curatore puo' avvalersi ai sensi del comma 2.».
 
-#### Art. 31
+### Art. 31
 
 Modifiche alla Parte Prima, Titolo V, Capo VI, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1919,7 +1917,7 @@ Modifiche alla Parte Prima, Titolo V, Capo VI, del decreto legislativo 12 gennai
 
 > 5\. Con i decreti emessi ai sensi dei commi 1 e 3, sono impartite le disposizioni esecutive volte ad attuare gli effetti della decisione. Allo stesso modo si provvede a seguito del passaggio in giudicato della sentenza di revoca della procedura di liquidazione giudiziale o della definitivita' del decreto di omologazione del concordato proposto nel corso della procedura stessa.».
 
-#### Art. 32
+### Art. 32
 
 Modifiche alla Parte Prima, Titolo V, Capo VIII, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1941,7 +1939,7 @@ Modifiche alla Parte Prima, Titolo V, Capo VIII, del decreto legislativo 12 genn
 
 > e) tutte le altre azioni di responsabilita' che gli sono attribuite da singole disposizioni di legge.».
 
-#### Art. 33
+### Art. 33
 
 Modifiche alla Parte Prima, Titolo V, Capo IX, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -1975,7 +1973,7 @@ b) al secondo periodo, la parola «ventimila» e' sostituita dalla seguente: «c
 
 > 5\. Il deposito della domanda sospende, ai soli effetti del concorso, il corso degli interessi convenzionali o legali fino alla chiusura della liquidazione, a meno che i crediti non siano garantiti da ipoteca, pegno o privilegio e salvo quanto previsto dagli articoli 2749, 2788 e 2855, secondo e terzo comma, del codice civile.».
 
-#### Art. 34
+### Art. 34
 
 Modifiche alla Parte Prima, Titolo V, Capo X, Sezione I, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -2013,7 +2011,7 @@ Modifiche alla Parte Prima, Titolo V, Capo X, Sezione I, del decreto legislativo
 
 > 2\. Abrogato.
 
-#### Art. 35
+### Art. 35
 
 Modifiche alla Parte Prima, Titolo VI, Capo I, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -2043,7 +2041,7 @@ d) dopo il comma 4, e' inserito il seguente: «4-bis. Nell'ipotesi di cui al com
 
 > 5\. I soci possono far valere il pregiudizio arrecato alla redditivita' e al valore della partecipazione sociale dalle operazioni di cui ai commi 1 e 2, esclusivamente attraverso l'opposizione all'omologazione del concordato di gruppo. Il tribunale omologa il concordato se esclude la sussistenza del predetto pregiudizio in considerazione dei vantaggi compensativi derivanti alle singole imprese dal piano di gruppo.».
 
-#### Art. 36
+### Art. 36
 
 Modifiche alla Parte Prima, Titolo VI, Capo III, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -2057,7 +2055,7 @@ Modifiche alla Parte Prima, Titolo VI, Capo III, del decreto legislativo 12 genn
 
 > «Art. 289 (Domanda di accesso e obblighi di informazione e collaborazione). - 1. La domanda di accesso a uno strumento di regolazione della crisi e dell'insolvenza o a una procedura di insolvenza presentata da un'impresa appartenente ad un gruppo deve contenere informazioni analitiche sulla struttura del gruppo e sui vincoli partecipativi o contrattuali esistenti tra le societa' e imprese e indicare il registro delle imprese o i registri delle imprese in cui e' stata effettuata la pubblicita' ai sensi dell'articolo 2497-bis del codice civile. L'impresa deve, inoltre, depositare il bilancio consolidato di gruppo, ove redatto. In ogni caso il tribunale ovvero, successivamente, il curatore o il commissario giudiziale possono, al fine di accertare l'esistenza di collegamenti di gruppo, richiedere alla CONSOB o a qualsiasi altra pubblica autorita' e alle societa' fiduciarie le generalita' degli effettivi titolari di diritti sulle azioni o sulle quote ad esse intestate. Le informazioni sono fornite entro quindici giorni dalla richiesta.».
 
-#### Art. 37
+### Art. 37
 
 Modifiche alla Parte Prima, Titolo VII, Capo II, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -2087,7 +2085,7 @@ Modifiche alla Parte Prima, Titolo VII, Capo II, del decreto legislativo 12 genn
 
 > 2\. Il commissario e' dispensato dal formare il bilancio annuale, ma deve presentare alla fine di ogni semestre all'autorita' che vigila sulla liquidazione una relazione sulla situazione patrimoniale dell'impresa e sull'andamento della gestione, precisando la sussistenza di eventuali segnali di cui all'articolo 3, accompagnata da un rapporto del comitato di sorveglianza. Nello stesso termine, copia della relazione e' trasmessa al comitato di sorveglianza, unitamente agli estratti conto dei depositi postali o bancari relativi al periodo. Il comitato di sorveglianza o ciascuno dei suoi componenti possono formulare osservazioni scritte. Altra copia della relazione e' trasmessa, assieme alle eventuali osservazioni, per via telematica all'ufficio del registro delle imprese ed e' trasmessa a mezzo di posta elettronica certificata ai creditori e ai titolari di diritti sui beni.».
 
-#### Art. 38
+### Art. 38
 
 Modifiche alla Parte Prima, Titolo VII, Capo III, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -2109,7 +2107,7 @@ b) la lettera b) e' abrogata.
 
 > c) proporre domanda di accertamento dello stato di insolvenza con apertura della liquidazione coatta amministrativa.».
 
-#### Art. 39
+### Art. 39
 
 Modifiche alla Parte Prima, Titolo IX, Capo III, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -2143,7 +2141,7 @@ Modifiche alla Parte Prima, Titolo IX, Capo III, del decreto legislativo 12 genn
 
 > 3\. Se dal fatto consegue un danno per i creditori la pena e' aumentata fino alla meta'.».
 
-#### Art. 40
+### Art. 40
 
 Modifiche alla Parte Prima, Titolo IX, Capo IV, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -2151,7 +2149,7 @@ Modifiche alla Parte Prima, Titolo IX, Capo IV, del decreto legislativo 12 genna
 
 2\. L'articolo 345 del decreto legislativo 12 gennaio 2019, n. 14, e' abrogato.
 
-#### Art. 41
+### Art. 41
 
 Modifiche alla Parte Prima, Titolo X, Capo I, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -2177,7 +2175,7 @@ c) dopo le parole «titolo II» sono aggiunte le seguenti: «e degli strumenti d
 
 > 2\. Ai componenti dell'osservatorio non sono corrisposti compensi e gettoni di presenza, rimborsi spese ed altri emolumenti comunque denominati.».
 
-#### Art. 42
+### Art. 42
 
 Modifiche alla Parte Prima, Titolo X, Capo II, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -2237,7 +2235,7 @@ b) dopo la lettera d), e' aggiunta la seguente: «e) in caso di procedura che pr
 
 > e) in caso di procedura che presenta elementi transfrontalieri, delle correlate esperienze e competenze acquisite e, in particolare, della capacita' di rispettare gli obblighi di cui al regolamento (UE) 2015/848, di comunicare e cooperare con i professionisti che gestiscono le procedure di insolvenza e con le autorita' giudiziarie o amministrative di un altro Stato membro, nonche' delle risorse umane e amministrative necessarie per far fronte a casi potenzialmente complessi.».
 
-#### Art. 43
+### Art. 43
 
 Modifiche alla Parte Prima, Titolo X, Capo III, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -2255,7 +2253,7 @@ Modifiche alla Parte Prima, Titolo X, Capo III, del decreto legislativo 12 genna
 
 > «Art. 361 (Norma transitoria sul deposito telematico delle notifiche). - 1. Quando la notificazione telematica di cui all'articolo 40, comma 6, non risulta possibile o non ha esito positivo, per causa imputabile al destinatario e sino all'emanazione del decreto di cui all'articolo 359, si applicano le disposizioni di cui all'articolo 40, comma 8.».
 
-#### Art. 44
+### Art. 44
 
 Modifiche alla Parte Prima, Titolo X, Capo IV, del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -2301,7 +2299,7 @@ b) alla lettera d), capoverso «5-bis», terzo periodo, le parole «articolo 85,
 
 > f) all'articolo 11, comma 3, del decreto-legge 23 dicembre 2013, n. 145, convertito, con modificazioni, dalla legge 21 febbraio 2014, n. 9, le parole «dell'articolo 2, comma 19, della legge 28 giugno 2012, n. 92» sono sostituite dalle seguenti: "dell'articolo 8 del decreto legislativo 4 marzo 2015, n. 22".».
 
-#### Art. 45
+### Art. 45
 
 Modifiche alla Parte Seconda del
 
@@ -2317,11 +2315,9 @@ decreto legislativo 12 gennaio 2019, n. 14
 
 > 2\. All'articolo 2545-sexiesdecies, primo comma, del codice civile, il primo periodo e' sostituito dal seguente: "Fuori dai casi di cui all'articolo 2545-septiesdecies, in caso di irregolare funzionamento della societa' cooperativa, l'autorita' di vigilanza puo' revocare gli amministratori e i sindaci, affidare la gestione della societa' a un commissario, determinando i poteri e la durata, al fine di sanare le irregolarita' riscontrate e, nel caso di crisi o insolvenza, autorizzarlo a domandare l'accesso a una delle procedure regolatrici previste nel codice della crisi e dell'insolvenza.".».
 
-## Capo II - Disposizioni di coordinamento e abrogazioni e disposizioni
+## Capo II - Disposizioni di coordinamento e abrogazioni e disposizioni transitorie
 
-### transitorie
-
-#### Art. 46
+### Art. 46
 
 Abrogazioni e modifiche di disposizioni del
 
@@ -2381,7 +2377,7 @@ c) all'articolo 23:
 
 > 2\. Abrogato.».
 
-#### Art. 47
+### Art. 47
 
 Abrogazioni di disposizioni del
 
@@ -2389,7 +2385,7 @@ decreto-legge 6 novembre 2021, n. 152
 
 1\. Gli articoli 30-ter, 30-quater, 30-quinquies e 30-sexies del decreto-legge 6 novembre 2021, n. 152 sono abrogati.
 
-#### Art. 48
+### Art. 48
 
 Abrogazioni di disposizioni del
 
@@ -2487,7 +2483,7 @@ c) gli articoli 2, 3, 4, 5, 7, commi 5, 6, 7, 10, 11 e 12, articoli 13, commi 1,
 
 > 5\. All'articolo 91 del decreto legislativo 12 gennaio 2019, n. 14, il comma 1 e' sostituito dal seguente: "1. Il tribunale o il giudice da esso delegato, esclusivamente quando il piano di concordato comprende un'offerta irrevocabile da parte di un soggetto gia' individuato e avente ad oggetto il trasferimento in suo favore, anche prima dell'omologazione, verso un corrispettivo in denaro o comunque a titolo oneroso, dell'azienda o di uno o piu' rami d'azienda o di specifici beni, dispone che dell'offerta stessa sia data idonea pubblicita' al fine di acquisire offerte concorrenti. La stessa disciplina si applica in caso di affitto d'azienda.".».
 
-#### Art. 49
+### Art. 49
 
 Modifiche al decreto legislativo 8 luglio 1999, n. 270
 
@@ -2561,7 +2557,7 @@ e) dopo l'articolo 76 e' inserito il seguente:
 
 > 1-ter. Il debitore e i creditori ammessi possono altresi' chiedere al comitato di sorveglianza la revoca dell'autorizzazione concessa al commissario straordinario ai sensi dell'articolo 41, comma 2, alla nomina per la designazione di coadiutori in presenza di conflitto di interessi, indicandone nella richiesta le specifiche ragioni. Il comitato di sorveglianza provvede sentito il commissario straordinario.».
 
-#### Art. 50
+### Art. 50
 
 Disposizioni transitorie
 
@@ -2571,7 +2567,7 @@ Disposizioni transitorie
 
 3\. La disposizione di cui all'articolo 25-quinquies, comma 1, secondo periodo, del decreto legislativo 12 gennaio 2019, n. 14, non si applica nel caso in cui la rinuncia alle domande di cui al primo periodo del medesimo comma 1 sia intervenuta prima dell'entrata in vigore del presente decreto.
 
-#### Art. 51
+### Art. 51
 
 Entrata in vigore
 
@@ -2589,7 +2585,7 @@ Entrata in vigore
 
 > 3\. Le disposizioni di cui agli articoli 3 e 4 del decreto legislativo 20 giugno 2005, n. 122, come modificati dagli articoli 385 e 386 del presente codice, si applicano anche nelle more dell'adozione dei decreti di cui agli articoli 3, comma 7-bis, e 4, comma 1-bis, del predetto decreto legislativo e il contenuto della fideiussione e della polizza assicurativa e' determinato dalle parti nel rispetto di quanto previsto dalle richiamate disposizioni.».
 
-#### Art. 52
+### Art. 52
 
 Disposizioni finanziarie
 

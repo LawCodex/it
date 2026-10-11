@@ -25,7 +25,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 La tabella n. 34, allegata al regio decreto 11 novembre 1923, n. 2395, per la parte relativa al personale del Giardino coloniale di Palermo, e' modificata nel modo che segue:
 
@@ -41,17 +41,17 @@ Grado posti
 
 11° - 8° - Segretario contabile economo.................... 1
 
-### Art. 2
+## Art. 2
 
 Il vice direttore agronomo ed il segretario contabile economo raggiungono, rispettivamente, il grado 7° ed il grado 8°, dopo una permanenza minima di sei anni di lodevole servizio in ciascuno dei gradi inferiori.
 
 ## Disposizioni transitorie e finali
 
-### Art. 3
+## Art. 3
 
 Nella prima applicazione della presente legge, il periodo di permanenza nel grado iniziale degli attuali vice direttore agronomo e segretario contabile economo viene fissato in anni cinque.
 
-### Art. 4
+## Art. 4
 
 La maggiore spesa annua, derivante dalla presente legge, verra' compensata mediante riduzione di un pari importo dello stanziamento del capitolo n. 275 dello stato di previsione del Ministero della pubblica istruzione per l'esercizio 1951-1952.
 

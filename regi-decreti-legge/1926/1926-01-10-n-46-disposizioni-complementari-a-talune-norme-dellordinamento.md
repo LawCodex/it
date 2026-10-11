@@ -36,7 +36,7 @@ Abbiamo decretato e decretiamo:
 
 ## DISPOSIZIONI GENERALI - Disposizioni normali
 
-### Art. 1
+## Art. 1
 
 Al personale in servizio di prova, provvisto di assegno mensile, sono concesse le indennita' temporanee mensili nella misura e con le norme stabilite per il personale di ruolo.
 
@@ -52,7 +52,7 @@ AGGIORNAMENTO (1)
 
 Il Regio Decreto 25 febbraio 1926, n. 341 ha disposto (con l'art. 1, comma 1) che "Sono estese al personale della Corte dei conti le disposizioni contenute negli articoli 1, 2, 3, 4 (primo, secondo e terzo comma), 5, 6 (secondo, terzo e quarto comma), 13 e 19 (ultimo comma) del Nostro decreto 10 gennaio 1926, n. 46".
 
-### Art. 2
+## Art. 2
 
 Il trattamento, di cui agli articoli 1, 4 e 5 del Regio decreto 26 luglio 1925, n. 1256, non puo' eccedere l'importo complessivo dello stipendio massimo e del supplemento di servizio attivo inerenti al grado conferito all'atto della nomina in ruolo e delle indennita' temporanee mensili assegnate al personale civile di ruolo.
 
@@ -70,7 +70,7 @@ Il Regio Decreto 25 febbraio 1926, n. 341 ha disposto (con l'art. 1, comma 1) ch
 
 ## Disposizioni transitorie
 
-### Art. 3
+## Art. 3
 
 Il termine per l'ammisione agli esami di concorso di cui al secondo comma dell'articolo 45 del citato Regio decreto 11 novembre 1923, n. 2395, modificato col primo comma dell'articolo 48 del Regio decreto 30 dicembre 1923, n. 3084, e' ridotto a quattro anni per gli impiegati provvisti di laurea o di titolo equipollente e a sei anni per quelli che non posseggono tali titoli di studio, fermo il computo del servizio di combattente nei modi e nei limiti di cui all'articolo 9 del Regio decreto 8 maggio 1924, n. 843.
 
@@ -82,7 +82,7 @@ AGGIORNAMENTO (1)
 
 Il Regio Decreto 25 febbraio 1926, n. 341 ha disposto (con l'art. 1, comma 1) che "Sono estese al personale della Corte dei conti le disposizioni contenute negli articoli 1, 2, 3, 4 (primo, secondo e terzo comma), 5, 6 (secondo, terzo e quarto comma), 13 e 19 (ultimo comma) del Nostro decreto 10 gennaio 1926, n. 46".
 
-### Art. 4
+## Art. 4
 
 I posti disponibili nel grado undecimo dei ruoli appartenenti al gruppo C e quelli che si rendano vacanti nel grado medesimo entro il primo triennio dell'attuazione del Regio decreto 11 novembre 1923, n. 2395, sono conferiti in ragione:
 
@@ -102,7 +102,7 @@ AGGIORNAMENTO (1)
 
 Il Regio Decreto 25 febbraio 1926, n. 341 ha disposto (con l'art. 1, comma 1) che "Sono estese al personale della Corte dei conti le disposizioni contenute negli articoli 1, 2, 3, 4 (primo, secondo e terzo comma), 5, 6 (secondo, terzo e quarto comma), 13 e 19 (ultimo comma) del Nostro decreto 10 gennaio 1926, n. 46".
 
-### Art. 5
+## Art. 5
 
 Il personale assegnato al grado decimo, ai sensi dell'articolo 3 del Regio decreto 8 maggio 1924, n. 843, e' collocato in detto grado con anzianita' decorrente dalla nomina ad archivista di prima classe, tenuto altresi' conto degli aumenti di anzianita' e delle abbreviazioni di periodo, nonche' delle riduzioni e detrazioni valutabili, per il tempo decorso successivamente a detta nomina, nel grado ricoperto all'attuazione del Regio decreto 11 novembre 1923, n. 2395.
 
@@ -118,7 +118,7 @@ AGGIORNAMENTO (1)
 
 Il Regio Decreto 25 febbraio 1926, n. 341 ha disposto (con l'art. 1, comma 1) che "Sono estese al personale della Corte dei conti le disposizioni contenute negli articoli 1, 2, 3, 4 (primo, secondo e terzo comma), 5, 6 (secondo, terzo e quarto comma), 13 e 19 (ultimo comma) del Nostro decreto 10 gennaio 1926, n. 46".
 
-### Art. 6
+## Art. 6
 
 Agli effetti dell'applicazione dell'articolo 53 del Regio decreto 30 settembre 1922, n. 1290, gli impiegati ed agenti che aspirino a far passaggio in ruoli trasferiti, successivamente alla pubblicazione del decreto stesso, ad altra Amministrazione, si considerano appartenenti all' Amministrazione medesima.
 
@@ -136,19 +136,19 @@ Il Regio Decreto 25 febbraio 1926, n. 341 ha disposto (con l'art. 1, comma 1) ch
 
 ## DISPOSIZIONI SPECIALI - Disposizioni normali
 
-### Art. 7
+## Art. 7
 
 Il primo comma dell'articolo 55 del Regio decreto 11 novembre 1923, n. 2395, e' sostituito dal seguente:
 
 «Gli ispettori per i servizi del Tesoro sono nominati con decreto del Ministro per le finanze, a scelta, su designazione del Consiglio di amministrazione, tra i funzinari dello stesso ruolo, che abbiano compiuto almeno tre anni di effettivo servizio nel grado ottavo».
 
-### Art. 8
+## Art. 8
 
 L'articolo 6 del Regio decreto 29 giugno 1924, n. 1187, e' sostituito dal seguente:
 
 «Le promozioni al grado undecimo nel ruolo del personale appartenente al gruppo C sono conferite, su designazione del Consiglio di amministrazione, in ragione di un posto mediante graduatoria di merito e di due posti per anzianita' congiunta al merito, agli impiegati del grado dodicesimo del ruolo stesso, che abbiano compiuto tre o cinque anni di effettivo servizio, rispettivamente».
 
-### Art. 9
+## Art. 9
 
 Ai magazzinieri di vendita dei generi di privative e' concesso, a decorrere dal 1 luglio 1925, un supplemento di aggio nella seguente misura:
 
@@ -162,7 +162,7 @@ Il supplemento di aggio non e' utile ai fini di pensione ed e' regolato con le n
 
 ## Disposizioni transitorie
 
-### Art. 10
+## Art. 10
 
 Il primo comma dell'articolo 14 del Regio decreto 29 giugno 1924, n. 1187, e' modificato come segue:
 
@@ -178,13 +178,13 @@ Il terzo comma del predetto articolo 14 del Regio decreto 29 giugno 1924, n. 118
 
 Il presente articolo ha effetto a decorrere dal 1 dicembre 1923.
 
-### Art. 11
+## Art. 11
 
 I segretari dei ruoli dei monumenti, musei, gallerie e scavi di antichita', e degli istituti di belle arti, musica ed arte drammatica, a cui fu applicata la disposizione dell'articolo 25 del Regio decreto 30 settembre 1922, n. 1290, e che in base all'articolo 45 (primo comma) del Regio decreto 11 novembre 1923, n. 2395, siano stati assegnati al grado nono, sono collocati nel grado stesso, a decorrere dal 1 dicembre 1923, con anzianita' utile dalla data da cui conseguirono, prima dell'attuazione dei ruoli aperti, lo stipendio di L. 4000, al netto degli aumenti stabiliti coi decreti Luogotenenziali 10 febbraio 1918, n. 107, e 19 giugno 1919, n. 973, tenuto conto, altresi', dei benefici per abbreviazioni di periodo e per aumenti d'anzianita', ai sensi dell'articolo 50 del Regio decreto 30 dicembre 1923, n. 3084, e delle riduzioni e detrazioni applicate per qualsiasi titolo.
 
 ## Disposizioni varie
 
-### Art. 12
+## Art. 12
 
 Al primo comma dell'articolo 5 del Regio decreto 1 maggio 1924, n. 758, e' aggiunto il seguente periodo:
 
@@ -194,7 +194,7 @@ Il secondo comma del medesimo articolo 5 del Regio decreto 1º maggio 1924, n. 7
 
 «L'indennita' diretta o di riversibilita' sara' liquidata sulla media degli stipendi o degli aggi percepiti nei tre esercizi finanziari anteriori alla data di cessazione dal servizio, computando gli aggi nei modi stabiliti dal comma precedente».
 
-### Art. 13
+## Art. 13
 
 L'interruzione del servizio determinata da obblighi militari non esclude l'applicabilita' delle disposizioni relative alla sistemazione in ruolo nei riguardi del personale straordinario, avventizio, diurnista, giornaliero, cottimista o altro personale non di ruolo comunque denominato, in servizio anteriormente all'8 maggio 1924.
 
@@ -206,11 +206,11 @@ AGGIORNAMENTO (1)
 
 Il Regio Decreto 25 febbraio 1926, n. 341 ha disposto (con l'art. 1, comma 1) che "Sono estese al personale della Corte dei conti le disposizioni contenute negli articoli 1, 2, 3, 4 (primo, secondo e terzo comma), 5, 6 (secondo, terzo e quarto comma), 13 e 19 (ultimo comma) del Nostro decreto 10 gennaio 1926, n. 46".
 
-### Art. 14
+## Art. 14
 
 Le disposizioni del Regio decreto 2 marzo 1924, n. 319 non si applicano ai personali non di ruolo assunti in qualita' di giornalieri, diurnisti, cottimisti, o altra analoga, che non sia quella di avventizio o straordinario nominato con provvedimento Reale o ministeriale.
 
-### Art. 15
+## Art. 15
 
 L'aumento delle paghe, stabilito al numero 1 del terzo comma dell'articolo 1 del Regio decreto 31 marzo 1925 n. 363, non spetta quando il personale ivi contemplato si trovi in una delle posizioni che implichino, per il personale fornito di supplemento di servizio attivo, la sospensione del supplemento medesimo.
 
@@ -222,13 +222,13 @@ Ai fini dell'applicazione del secondo comma dell'articolo 4 del Regio decreto 5 
 
 Il presente articolo ha effetto dal 1 aprile 1925. Sono, peraltro, condonate le corresponsioni eventualmente avvenute, in contrasto col disposto del presente articolo, sino alla pubblicazione del presente decreto.
 
-### Art. 16
+## Art. 16
 
 Le disposizioni dei commi primo e secondo dell'articolo 189 del Regio decreto 11 novembre 1923, n. 2395, non si applicano all'indennita' d'alloggio assegnata al personale dell'amministrazione della Real Casa, passato in servizio dello Stato a norma dell'articolo 9 del Regio decreto 3 ottobre 1919, n. 1792.
 
 Il disposto del presente articolo ha effetto dal 1 dicembre 1923.
 
-### Art. 17
+## Art. 17
 
 All'articolo 1 del Regio decreto 30 dicembre 1923, n. 2958, sono aggiunti i seguenti commi:
 
@@ -238,7 +238,7 @@ All'articolo 1 del Regio decreto 30 dicembre 1923, n. 2958, sono aggiunti i segu
 
 «Nulla e' innovato alle vigenti disposizioni che autorizzano a provvedere, nei riguardi dei Presidenti e Consiglieri di Stato, nelle forme di cui all'articolo 6 della legge 30 giugno 1908, n. 304».
 
-### Art. 18
+## Art. 18
 
 Il Governo del Re e' autorizzato ad emanare, sentito il Consiglio di Stato, il testo unico delle disposizioni del Regio decreto 11 novembre 1923, n. 2395, e successive modificazioni, e di quelle, concernenti le materie regolate dal decreto stesso, approvate con altri provvedimenti, comprese le norme relative alle promozioni di grado, contenute nel Regio decreto 30 dicembre 1923, n. 2960.
 
@@ -246,7 +246,7 @@ Con la formazione del testo unico di cui al precedente comma sara' rettificata l
 
 E' data facolta' al Governo del Re di introdurre nel testo unico anzidetto norme complementari e integrative.
 
-### Art. 19
+## Art. 19
 
 Le disposizioni del presente decreto sono estese al personale di ruolo delle nuove provincie, in attivita' di servizio, proveniente dal cessato regime, in quanto non contrastino con le norme speciali in vigore per il personale medesimo.
 

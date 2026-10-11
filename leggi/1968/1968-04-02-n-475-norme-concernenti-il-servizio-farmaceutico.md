@@ -26,7 +26,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 L'autorizzazione ad aprire una farmacia e' rilasciata con provvedimento definitivo dell'autorita' sanitaria competente per territorio.
 
@@ -44,7 +44,7 @@ Ogni nuovo esercizio di farmacia deve essere situato ad una distanza dagli altri
 
 La distanza e' misurata per la via pedonale piu' breve tra soglia e soglia delle farmacie.
 
-### Art. 1-bis
+## Art. 1-bis
 
 ((1. In aggiunta alle sedi farmaceutiche spettanti in base al criterio di cui all'articolo 1 ed entro il limite del 5 per cento delle sedi, comprese le nuove, le regioni e le province autonome di Trento e di Bolzano, sentita l'azienda sanitaria locale competente per territorio, possono istituire una farmacia:
 
@@ -52,11 +52,11 @@ a) nelle stazioni ferroviarie, negli aeroporti civili a traffico internazionale,
 
 b) nei centri commerciali e nelle grandi strutture con superficie di vendita superiore a 10.000 metri quadrati, purche' non sia gia' aperta una farmacia a una distanza inferiore a 1.500 metri)).
 
-### Art. 1-ter
+## Art. 1-ter
 
 ((1. Le sedi farmaceutiche di cui all'articolo 1-bis sono considerate, agli effetti della normativa vigente, come sedi urbane, indipendentemente dalla popolazione residente nel comune in cui sono istituite)).
 
-### Art. 2
+## Art. 2
 
 1\. Ogni comune deve avere un numero di farmacie in rapporto a quanto disposto dall'articolo 1. Al fine di assicurare una maggiore accessibilita' al servizio farmaceutico, il comune, sentiti l'azienda sanitaria e l'Ordine provinciale dei farmacisti competente per territorio, identifica le zone nelle quali collocare le nuove farmacie, al fine di assicurare un'equa distribuzione sul territorio, tenendo altresi' conto dell'esigenza di garantire l'accessibilita' del servizio farmaceutico anche a quei cittadini residenti in aree scarsamente abitate.
 
@@ -64,31 +64,31 @@ b) nei centri commerciali e nelle grandi strutture con superficie di vendita sup
 
 ((2-bis. Fatta salva la procedura concorsuale di cui all'articolo 11 del decreto-legge 24 gennaio 2012, n. 1, convertito, con modificazioni, dalla legge 24 marzo 2012, n. 27, e successive modificazioni, nei comuni con popolazione inferiore a 6.600 abitanti, in cui le farmacie, non sussidiate, risultano essere soprannumerarie per decremento della popolazione, e' consentita al farmacista titolare della farmacia, previa presentazione di apposita istanza, la possibilita' di trasferimento presso i comuni della medesima regione ai quali, all'esito della revisione biennale di cui al comma 2 del presente articolo, spetta un numero di farmacie superiore al numero di farmacie esistenti nel territorio comunale, sulla base di una graduatoria regionale per titoli, che tenga conto anche dell'ordine cronologico delle istanze di trasferimento presentate, e che si perfezioni in data anteriore all'avvio della procedura biennale del concorso ordinario per sedi farmaceutiche, di cui all'articolo 4 della legge 8 novembre 1991, n. 362. Ove l'istanza del farmacista venga accolta, il trasferimento si perfeziona previo pagamento di una tassa di concessione governativa una tantum pari a 5.000 euro)).
 
-### Art. 3
+## Art. 3
 
 ((ARTICOLO ABROGATO DALLA L. 8 NOVEMBRE 1991, N. 362))
 
-### Art. 4
+## Art. 4
 
 ((ARTICOLO ABROGATO DALLA L. 8 NOVEMBRE 1991, N. 362))
 
-### Art. 5
+## Art. 5
 
 ((ARTICOLO ABROGATO DALLA L. 8 NOVEMBRE 1991, N. 362))
 
-### Art. 6
+## Art. 6
 
 ((ARTICOLO ABROGATO DALLA L. 8 NOVEMBRE 1991, N. 362))
 
-### Art. 7
+## Art. 7
 
 ((ARTICOLO ABROGATO DALLA L. 8 NOVEMBRE 1991, N. 362))
 
-### Art. 8
+## Art. 8
 
 ((ARTICOLO ABROGATO DALLA L. 8 NOVEMBRE 1991, N. 362))
 
-### Art. 9
+## Art. 9
 
 La titolarita' delle farmacie che si rendono vacanti e di quelle di nuova istituzione a seguito della revisione della pianta organica puo' essere assunta per la meta' dal comune. Le farmacie di cui sono titolari i comuni possono essere gestite, ai sensi della legge 8 giugno 1990, n. 142, nelle seguenti forme:
 
@@ -122,7 +122,7 @@ AGGIORNAMENTO (9)
 
 Il D.Lgs. 23 dicembre 2022, n. 201, ha disposto (con l'art. 34, comma 1) che "Il rinvio operato dal primo comma, secondo periodo, dell'articolo 9 della legge 2 aprile 1968, n. 475, alle modalita' di gestione di cui alla legge 8 giugno 1990, n. 142, e' da intendersi riferito alle corrispondenti norme del Capo II del Titolo III del presente decreto".
 
-### Art. 10
+## Art. 10
 
 Il medico provinciale da' notizia, mediante pubblicazione sul foglio degli annunzi legali della provincia, delle farmacie vacanti o di nuova istituzione.
 
@@ -138,7 +138,7 @@ Nel caso di assunzione della gestione di una farmacia resasi vacante o di nuova 
 
 E' in facolta' dell'amministrazione ospedaliera affidare la direzione della farmacia ad uno dei propri farmacisti iscritti all'albo professionale e sempreche' assunto a seguito di concorso per farmacisti ospedalieri.
 
-### Art. 11
+## Art. 11
 
 ((1. Il titolare della farmacia ha la responsabilita' del regolare esercizio e della gestione dei beni patrimoniali della farmacia.
 
@@ -168,7 +168,7 @@ g) per ferie.
 
 7\. E' in facolta' del titolare della farmacia conferire al sostituto la conduzione economica)).
 
-### Art. 12
+## Art. 12
 
 E' consentito il trasferimento della titolarita' della farmacia decorsi tre anni dalla conseguita titolarita'.
 
@@ -202,25 +202,25 @@ AGGIORNAMENTO (8)
 
 Il D.L. 31 dicembre 2014, n. 192 convertito con modificazioni dalla L. 27 febbraio 2015, n. 11 ha disposto (con l'art. 7, comma 4-quater) che "A decorrere dalla data di entrata in vigore della legge di conversione del presente decreto, ad esclusione delle sedi oggetto del concorso straordinario di cui all'articolo 11 del decreto-legge 24 gennaio 2012, n. 1, convertito, con modificazioni, dalla legge 24 marzo 2012, n. 27, e successive modificazioni, l'efficacia delle disposizioni in materia di requisiti per il trasferimento della titolarita' della farmacia, di cui all'articolo 12 della legge 2 aprile 1968, n. 475, e successive modificazioni, e' differita fino al 31 dicembre 2016. Fino a tale data, ai fini dell'acquisizione della titolarita' di una farmacia, e' richiesta esclusivamente l'iscrizione all'albo dei farmacisti".
 
-### Art. 13
+## Art. 13
 
 Il titolare di una farmacia ed il direttore responsabile, non possono ricoprire posti di ruolo nella amministrazione dello Stato, compresi quelli di assistente e titolare di cattedra universitaria, e di enti locali o comunque pubblici, ne' esercitare la professione di propagandista di prodotti medicinali.
 
 Il dipendente dello Stato o di un ente pubblico, qualora a seguito di pubblico concorso accetti la farmacia assegnatagli, dovra' dimettersi dal precedente impiego e l'autorizzazione alla farmacia sara' rilasciata dopo che sia intervenuto il provvedimento di accettazione delle dimissioni.
 
-### Art. 14
+## Art. 14
 
 La decadenza dall'autorizzazione, oltre che per i casi previsti dagli articoli 108, 111 e 113 del testo unico delle leggi sanitarie approvato con regio decreto 27 luglio 1934, n. 1265, viene dichiarata per effetto di condanna che comporti l'interdizione perpetua o temporanea dai pubblici uffici ovvero l'interdizione dalla professione, quando la condanna non sia stata pronunziata per reati di carattere politico.
 
-### Art. 15
+## Art. 15
 
 E' riconosciuto ad ogni cittadino, anche se assistito in regime mutualistico, il diritto di libera scelta della farmacia.
 
-### Art. 16
+## Art. 16
 
 ((ARTICOLO ABROGATO DALLA L. 8 NOVEMBRE 1991, N. 362))
 
-### Art. 17
+## Art. 17
 
 Al vincitore di pubblico concorso di farmacia precedentemente gestita in via provvisoria, fanno carico, nei confronti del cessante, tutte le obbligazioni previste dall'articolo 110 del testo unico delle leggi sanitarie approvato con regio decreto 27 luglio 1934, n. 1265.((2))
 
@@ -232,19 +232,19 @@ La Corte costituzionale, con sentenza 11-24 marzo 1988, n. 333 (in G.U. 1a s.s. 
 
 ## DISPOSIZIONI TRANSITORIE E FINALI
 
-### Art. 18
+## Art. 18
 
 Entro cinque anni dalla data di entrata in vigore della presente legge i titolari di farmacie e gli eredi di titolari deceduti le cui farmacie non sono state ancora conferite per concorso possono, per
 
 una volta tanto trasferire la titolarita' dell'esercizio a condizione che l'acquirente sia un farmacista iscritto all'albo professionale
 
-### Art. 19
+## Art. 19
 
 Entro sei mesi dalla data di entrata in vigore della presente legge i medici provinciali dovranno stabilire con proprio decreto, la pianta organica delle farmacie secondo le modalita' del precedente articolo 2.
 
 Entro due mesi dalla data di pubblicazione del decreto di cui al comma precedente i medici provinciali dovranno bandire il concorso per il conferimento delle residue farmacie vacanti e di nuova istituzione.
 
-### Art. 20
+## Art. 20
 
 Alle istituzioni di assistenza e beneficenza pubblica ed alle cooperative ed enti cooperativistici, in possesso dei requisiti mutualistici stabiliti dal decreto legislativo del Capo provvisorio dello Stato 14 dicembre 1947, n. 1577, ratificato con modificazioni con la legge 2 aprile 1951, n. 302, che siano titolari di farmacia alla data della entrata in vigore della presente legge, e' riconosciuto il diritto di continuare la gestione, senza possibilita' di trasferimento salvo il caso di motivi di forza maggiore non imputabili a responsabilita' della cooperativa.
 
@@ -252,27 +252,27 @@ Entro un anno dalla data di entrata in vigore della presente legge, le farmacie,
 
 Trascorso il termine senza che abbia avuto luogo il trasferimento, le farmacie anzidette verranno assegnate secondo le modalita' previste dall'articolo 9 e seguenti.
 
-### Art. 21
+## Art. 21
 
 Ai concorsi previsti nell'articolo precedente per il conferimento di farmacie urbane potranno partecipare tutti i farmacisti iscritti all'albo.
 
-### Art. 22
+## Art. 22
 
 Sono abrogati gli articoli 104, primo, secondo e quinto comma, 105, 106, 107, 109, terzo e quarto comma, 119, secondo comma, 371, 372, secondo comma, 373 e 375 del testo unico delle leggi sanitarie approvato con regio decreto 27 luglio 1934, n. 1265, l'articolo 27 della legge 9 giugno 1947, n. 530, e ogni altra disposizione in contrasto con la presente legge.
 
-### Art. 23
+## Art. 23
 
 Entro sei mesi dall'entrata in vigore del regolamento di cui all'articolo 26, il Ministero della sanita' istituira', anche ai fini dell'assolvimento dei suoi compiti di controllo e di vigilanza sul funzionamento del servizio farmaceutico, l'albo nazionale dei titolari di farmacia. Le modalita' della istituzione e della tenuta dell'albo saranno stabilite dal regolamento stesso.
 
-### Art. 24
+## Art. 24
 
 La norma di cui al primo comma dell'articolo 13 per la prima applicazione della legge si applica a partire dal terzo anno dalla sua pubblicazione; entro tale periodo le farmacie possono essere trasferite ad un farmacista iscritto all'albo secondo le modalita' previste dal precedente articolo 12.
 
-### Art. 25
+## Art. 25
 
 Nei cinque anni successivi all'entrata in vigore della presente legge sono ammessi al concorso per il conferimento delle farmacie di cui al primo comma dell'articolo 3 soltanto i farmacisti non titolari, i farmacisti rurali, i direttori e i farmacisti di farmacie ospedaliere e i farmacisti di cui alla lettera f) dell'articolo 3 medesimo.
 
-### Art. 26
+## Art. 26
 
 Entro sei mesi dalla data di entrata in vigore della presente legge sara' emanato il regolamento di esecuzione.
 

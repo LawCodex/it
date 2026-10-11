@@ -25,11 +25,11 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la convenzione sul diritto dei trattati, con annesso, adottata a Vienna il 23 maggio 1969.
 
-##### Art. 2
+#### Art. 2
 
 Piena ed intera esecuzione e' data alla convenzione di cui all'articolo precedente a decorrere dalla sua entrata in vigore, in conformita' dell'articolo 84 della convenzione stessa.
 
@@ -45,7 +45,7 @@ Visto, il Guardasigilli: ZAGARI
 
 ## Allegati
 
-##### Convention
+#### Convention
 
 CONVENTION DE VIENNE SUR LE DROIT DES TRAITES
 
@@ -79,13 +79,13 @@ Affermando che le norme del diritto internazionale consuetudinario continueranno
 
 Hanno convenuto quanto segue:
 
-##### Articolo 1
+#### Articolo 1
 
 Campo di applicazione della presente convenzione
 
 La presente convenzione si applica ai trattati tra Stati.
 
-##### Articolo 2
+#### Articolo 2
 
 Espressioni e termini usati
 
@@ -111,7 +111,7 @@ i) l'espressione "Organizzazione internazionale" indica una organizzazione fra g
 
 2\. Le disposizioni del paragrafo 1 concernenti i termini e le espressioni usati nella presente convenzione non pregiudicano l'impiego di tali espressioni ne' il senso che puo' venir loro dato nel diritto interno di uno Stato.
 
-##### Articolo 3
+#### Articolo 3
 
 Accordi internazionali che non rientrano nel quadro della presente convenzione
 
@@ -123,13 +123,13 @@ b) l'applicazione a tali accordi di ogni norma enunciata nella presente convenzi
 
 c) l'applicazione della convenzione ai rapporti fra Stati regolati da accordi internazionali dei quali sono egualmente parti altri soggetti di diritto internazionale.
 
-##### Articolo 4
+#### Articolo 4
 
 Irretroattivita' della presente convenzione
 
 Salva restando l'applicazione di qualsiasi norma enunciata nella presente convenzione alla quale i trattati sarebbero soggetti in base al diritto internazionale indipendentemente dalla predetta convenzione, questa si applica nei confronti di tali Stati, soltanto ai trattati conclusi dopo la sua entrata in vigore.
 
-##### Articolo 5
+#### Articolo 5
 
 Trattati costitutivi di organizzazioni internazionali e trattati adottati in seno ad un'organizzazione internazionale
 
@@ -137,17 +137,15 @@ La presente convenzione si applica ad ogni trattato che sia atto costitutivo di 
 
 ## PARTE II - CONCLUSIONE ED ENTRATA IN VIGORE DEI TRATTATI
 
-### Sezione prima
+### Sezione prima - CONCLUSIONE DEI TRATTATI
 
-#### CONCLUSIONE DEI TRATTATI
-
-##### Articolo 6
+#### Articolo 6
 
 Capacita' degli Stati di concludere trattati
 
 Ogni Stato ha la capacita' di concludere dei trattati.
 
-##### Articolo 7
+#### Articolo 7
 
 Pieni poteri
 
@@ -165,13 +163,13 @@ b) i capi di missioni diplomatiche, per l'adozione del testo di un trattato tra 
 
 c) i rappresentanti accreditati degli Stati ad una conferenza internazionale o uno dei suoi organi, per l'adozione del testo di un trattato nel corso di detta conferenza, presso detta organizzazione o detto organo.
 
-##### Articolo 8
+#### Articolo 8
 
 Conferma successiva di un atto compiuto senza autorizzazione
 
 Un atto concernente la conclusione di un trattato, compiuto da una persona che non puo', in base all'articolo 7, essere considerata come autorizzata a rappresentare uno Stato a tale scopo e' senza effetti giuridici, a meno che non sia confermato successivamente da tale Stato.
 
-##### Articolo 9
+#### Articolo 9
 
 Adozione del testo
 
@@ -179,7 +177,7 @@ Adozione del testo
 
 2\. L'adozione del testo di un trattato in una conferenza internazionale si compie con la maggioranza dei due terzi degli Stati presenti e votanti, a meno che detti Stati non decidano, con la stessa maggioranza, di applicare una norma diversa.
 
-##### Articolo 10
+#### Articolo 10
 
 Autenticazione del testo
 
@@ -189,13 +187,13 @@ a) in base alla procedura stabilita in tale testo o convenuto dagli Stati partec
 
 b) in mancanza di tale procedura, con la firma, la firma ad referendum o la parafatura, da parte dei rappresentanti di detti Stati, del testo del trattato o dell'atto finale di una conferenza nel quale il testo venga depositato.
 
-##### Articolo 11
+#### Articolo 11
 
 Modi di esprimere il consenso ad essere vincolati da un trattato
 
 Il consenso di uno Stato ad essere vincolato da un trattato puo' essere espresso con la firma, lo scambio di strumenti che formano il trattato, la ratifica, l'accettazione, l'approvazione o l'adesione, o con ogni altro mezzo convenuto.
 
-##### Articolo 12
+#### Articolo 12
 
 Espressione, mediante la firma, del consenso ad essere vincolati da un trattato
 
@@ -215,7 +213,7 @@ a) la parafatura di un testo equivale alla firma di un trattato quando sia accer
 
 b) la firma ad referendum di un trattato da parte del rappresentante di uno Stato, qualora venga confermata da quest'ultimo, equivale alla firma definitiva del trattato.
 
-##### Articolo 13
+#### Articolo 13
 
 Espressione del consenso ad essere vincolati da un trattato mediante lo scambio degli strumenti costituenti un trattato
 
@@ -225,7 +223,7 @@ a) quando gli strumenti prevedono che il loro scambio avra' tale effetto; o
 
 b) quando sia d'altro canto accertato che tali Stati avevano convenuto che lo scambio degli strumenti avrebbe avuto tale effetto.
 
-##### Articolo 14
+#### Articolo 14
 
 Espressione del consenso ad essere vincolati da un trattato con la ratifica, l'accettazione o l'approvazione
 
@@ -241,7 +239,7 @@ d) quando l'intenzione di tale Stato di firmare il trattato con riserva di ratif
 
 2\. Il consenso di uno Stato ad essere vincolato da un trattato si esprime con l'accettazione o l'approvazione in condizioni analoghe a quelle che si applicano per la ratifica.
 
-##### Articolo 15
+#### Articolo 15
 
 Espressione del consenso ad essere vincolati da un trattato con l'adesione
 
@@ -253,7 +251,7 @@ b) quando sia in qualche modo accertato che gli Stati che hanno partecipato ai n
 
 c) quando tutte le parti abbiano convenuto successivamente che il consenso avrebbe potuto essere espresso da tale Stato con l'adesione.
 
-##### Articolo 16
+#### Articolo 16
 
 Scambio o deposito degli strumenti di ratifica, di accettazione, di approvazione o di adesione
 
@@ -265,7 +263,7 @@ b) del loro deposito presso il depositario; o
 
 c) della loro notifica agli Stati contraenti o al depositario, se cosi' e' stato convenuto.
 
-##### Articolo 17
+#### Articolo 17
 
 Consenso ad essere vincolati da una parte di un trattato e scelta di disposizioni diverse
 
@@ -273,7 +271,7 @@ Fatte salve le disposizioni degli articoli da 19 a 23, il consenso di uno Stato 
 
 2\. Il consenso di uno Stato ad essere vincolato da un trattato che permetta di scegliere fra disposizioni diverse non produce effetti se le disposizioni sulle quali si basa non sono chiaramente indicate.
 
-##### Articolo 18
+#### Articolo 18
 
 Obbligo a non privare un trattato del suo oggetto e del suo scopo prima della sua entrata in vigore
 
@@ -283,9 +281,9 @@ a) quando ha firmato il trattato o scambiato gli strumenti costituenti il tratta
 
 b) quando ha espresso il proprio consenso ad essere vincolato da un trattato, nel periodo che precede l'entrata in vigore del trattato e a condizione che questa non sia indebitamente ritardata.
 
-## Sezione seconda - RISERVE
+### Sezione seconda - RISERVE
 
-##### Articolo 19
+#### Articolo 19
 
 Formulazione delle riserve
 
@@ -299,7 +297,7 @@ riserve, tra le quali non figura la riserva in questione; o
 
 c) in casi diversi da quelli previsti ai commi a) e b), la riserva sia incompatibile con l'oggetto e lo scopo del trattato.
 
-##### Articolo 20
+#### Articolo 20
 
 Accettazione delle riserve ed obiezioni alle stesse
 
@@ -319,7 +317,7 @@ c) un atto che esprima il consenso di uno Stato ad essere vincolato dal trattato
 
 5\. Ai fini dei paragrafi 2 e 4 e a meno che il trattato non preveda altrimenti, si ritiene che una riserva sia stata accettata da uno Stato qualora quest'ultimo non abbia formulato obiezioni alla riserva, sia allo scadere dei dodici mesi successivi alla data in cui ne ha ricevuto notifica, che alla data in cui ha espresso il proprio consenso ad essere vincolato dal trattato, quando quest'ultima sia posteriore.
 
-##### Articolo 21
+#### Articolo 21
 
 Effetti giuridici delle riserve e delle obiezioni alle riserve
 
@@ -335,7 +333,7 @@ b) modifica nella stessa misura tali disposizioni per quest'altra parte nelle su
 
 3\. Quando uno Stato che ha formulato un'obiezione ad una riserva non si e' opposto all'entrata in vigore del trattato tra se stesso e lo Stato autore della riserva, le disposizioni oggetto della riserva non si applicano tra i due Stati, nella misura prevista dalla riserva stessa.
 
-##### Articolo 22
+#### Articolo 22
 
 Ritiro delle riserve e delle obiezioni alle riserve
 
@@ -349,7 +347,7 @@ a) il ritiro di una riserva non ha efficacia nei confronti di un altro Stato con
 
 b) il ritiro di un'obiezione ad una riserva ha efficacia soltanto a partire dal momento in cui lo Stato che ha formulato la riserva ha ricevuto notifica di detto ritiro.
 
-##### Articolo 23
+#### Articolo 23
 
 Procedura relativa alle riserve
 
@@ -361,9 +359,9 @@ Procedura relativa alle riserve
 
 4\. Il ritiro di una riserva o di una obiezione ad una riserva deve essere formulato per iscritto.
 
-## Sezione terza - ENTRATA IN VIGORE DEI TRATTATI ED APPLICAZIONE A TITOLO PROVVISORIO
+### Sezione terza - ENTRATA IN VIGORE DEI TRATTATI ED APPLICAZIONE A TITOLO PROVVISORIO
 
-##### Articolo 24
+#### Articolo 24
 
 Entrata in vigore
 
@@ -375,7 +373,7 @@ Entrata in vigore
 
 4\. Le disposizioni di un trattato che regolamentano l'autenticazione del testo, l'accertamento del consenso degli Stati ad esserne vincolati, le modalita' o la data della sua entrata in vigore, le riserve, le funzioni del depositario, nonche' tutti gli altri problemi che vengono necessariamente a porsi prima dell'entrata in vigore del trattato stesso, sono applicabili a partire dalla data dell'adozione del testo.
 
-##### Articolo 25
+#### Articolo 25
 
 Applicazione a titolo provvisorio
 
@@ -389,37 +387,35 @@ b) quando gli Stati che hanno partecipato ai negoziati avevano in qualche altro 
 
 ## PARTE III - RISPETTO, APPLICAZIONE ED INTERPRETAZIONE DEI TRATTATI
 
-### Sezione prima
+### Sezione prima - RISPETTO DEI TRATTATI
 
-#### RISPETTO DEI TRATTATI
-
-##### Articolo 26
+#### Articolo 26
 
 Pacta sunt servanda
 
 Ogni trattato in vigore vincola le parti e queste devono eseguirlo in buona fede.
 
-##### Articolo 27
+#### Articolo 27
 
 Diritto interno e rispetto dei trattati
 
 Una parte non puo' invocare le disposizioni della propria legislazione interna per giustificare la mancata esecuzione di un trattato. Tale norma non pregiudica in alcun modo le disposizioni dell'articolo 46.
 
-## Sezione seconda - APPLICAZIONE DEI TRATTATI
+### Sezione seconda - APPLICAZIONE DEI TRATTATI
 
-##### Articolo 28
+#### Articolo 28
 
 Irretroattivita' dei trattati
 
 Salvo che una diversa intenzione non risulti dal trattato o non sia altrimenti accertata, le disposizioni di un trattato non vincolano una parte per quanto riguarda un atto o un fatto anteriore alla data di entrata in vigore del trattato stesso nei confronti di tale parte o una situazione che avesse cessato di esistere a tale data.
 
-##### Articolo 29
+#### Articolo 29
 
 Applicazione territoriale dei trattati
 
 Salvo che un diverso intendimento non risulti dal trattato o non sia stato altrimenti accertato, un trattato vincola ciascuna delle parti per tutto l'insieme del suo territorio.
 
-##### Articolo 30
+#### Articolo 30
 
 Applicazione di trattati successivi vertenti sulla stessa materia
 
@@ -437,9 +433,9 @@ b) nelle relazioni tra uno Stato parte di entrambi i trattati e uno Stato parte 
 
 5\. Il paragrafo 4 si applica, fatte salve le disposizioni dell'articolo 41, sia ad ogni problema relativo alla estinzione o alla sospensione dell'applicazione di un trattato ai sensi dell'articolo 60 che ad ogni questione di responsabilita' che puo' sorgere per uno Stato dalla conclusione o dall'applicazione di un trattato le cui disposizioni siano incompatibili con gli obblighi che ad esso incombono nei confronti di un altro Stato in base ad un altro trattato.
 
-## Sezione terza - INTERPRETAZIONE DEI TRATTATI
+### Sezione terza - INTERPRETAZIONE DEI TRATTATI
 
-##### Articolo 31
+#### Articolo 31
 
 Regola generale per l'interpretazione
 
@@ -461,7 +457,7 @@ c) di ogni norma di diritto internazionale pertinente, applicabile alle relazion
 
 4\. Si ritiene che un termine o una espressione abbiano un significato particolare se verra' accertato che tale era l'intenzione delle parti.
 
-##### Articolo 32
+#### Articolo 32
 
 Mezzi complementari di interpretazione
 
@@ -471,7 +467,7 @@ a) lasci il significato ambiguo od oscuro; o
 
 b) porti ad un risultato chiaramente assurdo od illogico.
 
-##### Articolo 33
+#### Articolo 33
 
 Interpretazione di trattati autenticati in due o piu' lingue
 
@@ -483,21 +479,21 @@ Interpretazione di trattati autenticati in due o piu' lingue
 
 4\. Ad eccezione del caso in cui un determinato testo prevalga in conformita' del paragrafo 1, quando il confronto fra i testi autentici renda evidente una differenza di significato che l'applicazione degli articoli 31 e 32 non permette di eliminare, verra' adottato il significato che, tenuto conto dell'oggetto e dello scopo del trattato, concili nel migliore dei modi i testi in questione.
 
-## Sezione quarta - TRATTATI E STATI TERZI
+### Sezione quarta - TRATTATI E STATI TERZI
 
-##### Articolo 34
+#### Articolo 34
 
 Norma generale riguardante gli Stati terzi
 
 Un trattato non crea ne' obblighi ne' diritti per uno Stato terzo senza il consenso di quest'ultimo.
 
-##### Articolo 35
+#### Articolo 35
 
 Trattati che prevedono degli obblighi per gli Stati terzi
 
 Da una disposizione di un trattato nasce un obbligo per uno Stato terzo quando le parti del trattato stesso intendano con quelle disposizioni creare tale obbligo e quando lo Stato terzo accetti esplicitamente per iscritto tale obbligo.
 
-##### Articolo 36
+#### Articolo 36
 
 Trattati che prevedono dei diritti per gli Stati terzi
 
@@ -505,7 +501,7 @@ Trattati che prevedono dei diritti per gli Stati terzi
 
 2\. Uno Stato che eserciti un diritto in base al paragrafo 1, e' tenuto a rispettare, per quanto riguarda l'esercizio del diritto stesso, le condizioni che sono previste dal trattato o che sono accertate in base alle disposizioni di questo.
 
-##### Articolo 37
+#### Articolo 37
 
 Revoca o modifica di obblighi o diritti di Stati terzi
 
@@ -513,7 +509,7 @@ Revoca o modifica di obblighi o diritti di Stati terzi
 
 2\. Nel caso in cui per uno Stato terzo sia nato un diritto in base all'articolo 36, tale diritto non potra' essere revocato o modificato dalle parti se non sara' stato accertato che detto diritto non avrebbe potuto essere revocato o modificato senza il consenso dello Stato terzo.
 
-##### Articolo 38
+#### Articolo 38
 
 Norme di un trattato che divengono obbligatorie per Stati terzi a seguito della creazione di una consuetudine internazionale
 
@@ -521,7 +517,7 @@ Nessuna delle disposizioni contenute negli articoli da 34 a 37 vieta che una nor
 
 ## PARTE IV - EMENDAMENTO E MODIFICA DEI TRATTATI
 
-##### Articolo 39
+#### Articolo 39
 
 Norma generale relativa all'emendamento dei trattati
 
@@ -529,7 +525,7 @@ Un trattato puo' essere emendato di comune intesa fra le parti.
 
 Salvo che nella misura in cui il trattato disponga altrimenti, vengono applicate a tale accordo le norme enunciate nella parte II.
 
-##### Articolo 40
+#### Articolo 40
 
 Emendamento dei trattati multilaterali
 
@@ -551,7 +547,7 @@ a) facente parte del trattato cosi' emendato; e
 
 b) facente parte del trattato non emendato nei confronti di ogni parte del trattato che non sia vincolata dall'accordo che reca gli emendamenti.
 
-##### Articolo 41
+#### Articolo 41
 
 Accordi aventi lo scopo di modificare dei trattati multilaterali soltanto nei rapporti fra alcune delle parti
 
@@ -573,11 +569,9 @@ ii) non verta su di una disposizione dalla quale non si possa derogare senza che
 
 ## PARTE V - NULLITA', ESTINZIONE E SOSPENSIONE DELL'APPLICAZIONE DEI TRATTATI
 
-### Sezione prima
+### Sezione prima - DISPOSIZIONI GENERALI
 
-#### DISPOSIZIONI GENERALI
-
-##### Articolo 42
+#### Articolo 42
 
 Validita' e mantenimento in vigore dei trattati
 
@@ -585,13 +579,13 @@ Validita' e mantenimento in vigore dei trattati
 
 2\. L'estinzione di un trattato, la sua denuncia o il ritiro di una parte non possono aver luogo che in applicazione delle disposizioni del trattato o della presente convenzione. La stessa regola vale per la sospensione dell'applicazione di un trattato.
 
-##### Articolo 43
+#### Articolo 43
 
 Obblighi imposti dal diritto internazionale indipendentemente dai trattati
 
 La nullita', l'estinzione o la denuncia di un trattato, il ritiro di una delle parti o la sospensione dell'applicazione del trattato, quando siano dovute all'applicazione della presente convenzione od alle disposizioni del trattato, non pregiudicano in alcun modo il dovere di uno Stato di adempiere ogni obbligo che sia enunciato nel trattato, al quale sia soggetto in base al diritto internazionale indipendentemente dal trattato stesso.
 
-##### Articolo 44
+#### Articolo 44
 
 Scindibilita' delle disposizioni di un trattato
 
@@ -611,7 +605,7 @@ c) non sia illegale continuare ad eseguire quanto rimane del trattato.
 
 5\. Nei casi previsti dagli articoli 51, 52 e 53, non e' ammessa scissione delle disposizioni di un trattato.
 
-##### Articolo 45
+#### Articolo 45
 
 Perdita del diritto di invocare un motivo di nullita' di un trattato o un motivo per porre termine ad esso, di ritirarsi dal trattato o di sospenderne l'applicazione
 
@@ -621,9 +615,9 @@ a) abbia esplicitamente accettato di considerare che il trattato sia o valido, o
 
 b) debba, a motivo della propria condotta, essere considerato come avente accettato, a seconda del caso, la validita' del trattato o il suo mantenimento in vigore o in applicazione.
 
-## Sezione seconda - NULLITA' DEI TRATTATI
+### Sezione seconda - NULLITA' DEI TRATTATI
 
-##### Articolo 46
+#### Articolo 46
 
 Disposizioni di diritto interno concernenti la competenza a concludere trattati
 
@@ -631,13 +625,13 @@ Disposizioni di diritto interno concernenti la competenza a concludere trattati
 
 2\. Una violazione e' manifesta quando essa appaia obiettivamente evidente ad ogni Stato che si comporti in materia, in base alla normale prassi ed in buona fede.
 
-##### Articolo 47
+#### Articolo 47
 
 Restrizione particolare del potere di esprimere il consenso di uno Stato
 
 Se il potere di un rappresentante di esprimere il consenso di uno Stato ad essere vincolato da un determinato trattato e' stato oggetto di particolari restrizioni, il fatto che detto rappresentante non ne abbia tenuto conto non puo' essere invocato come suscettibile di infirmare il consenso da lui espresso, a meno che la restrizione non sia stata notificata, prima che tale consenso venisse espresso, agli altri Stati che hanno partecipato al negoziato.
 
-##### Articolo 48
+#### Articolo 48
 
 Errore
 
@@ -647,39 +641,39 @@ Errore
 
 3\. Un errore che riguardi soltanto il modo in cui il testo di un trattato e' redatto non ne pregiudica la validita'; in tal caso viene applicato l'articolo 79.
 
-##### Articolo 49
+#### Articolo 49
 
 Dolo
 
 Ove uno Stato sia stato spinto a concludere un trattato dalla condotta fraudolenta di un altro Stato che ha partecipato ai negoziati, esso puo' invocare il dolo come suscettibile di viziare il proprio consenso ad essere vincolato dal trattato.
 
-##### Articolo 50
+#### Articolo 50
 
 Corruzione del rappresentante di uno Stato
 
 Ove l'espressione del consenso di uno Stato ad essere vincolato da un trattato sia stata ottenuta mediante la corruzione del suo rappresentante con azione diretta o indiretta di un altro Stato che ha partecipato ai negoziati, lo Stato puo' invocare detta corruzione come suscettibile di viziare il proprio consenso ad essere vincolato dal trattato.
 
-##### Articolo 51
+#### Articolo 51
 
 Violenza esercitata sul rappresentante di uno Stato
 
 Il consenso espresso da uno Stato ad essere vincolato da un trattato che sia ottenuto con la violenza esercitata sul suo rappresentante a mezzo di atti o minacce contro di lui dirette, e' privo di ogni effetto giuridico.
 
-##### Articolo 52
+#### Articolo 52
 
 Violenza esercitata su di uno Stato con le minacce o l'uso della forza
 
 Qualsiasi trattato la cui conclusione sia stata ottenuta con le minacce o con l'uso della forza in violazione dei principi di diritto internazionale incorporati nella Carta delle Nazioni Unite sara' ritenuto nullo.
 
-##### Articolo 53
+#### Articolo 53
 
 Trattati in contrasto con una norma imperativa del diritto internazionale generale (jus cogens)
 
 E' nullo qualsiasi trattato che, al momento della sua conclusione, sia in contrasto con una norma imperativa di diritto internazionale generale. Ai fini della presente convenzione, per norma imperativa di diritto internazionale generale si intende una norma che sia stata accettata e riconosciuta dalla Comunita' internazionale degli Stati nel suo insieme in quanto norma alla quale non e permessa alcuna deroga e che non puo' essere modificata che da una nuova norma di diritto internazionale generale avente lo stesso carattere.
 
-## Sezione terza - ESTINZIONE DEI TRATTATI E SOSPENSIONE DELLA LORO APPLICAZIONE
+### Sezione terza - ESTINZIONE DEI TRATTATI E SOSPENSIONE DELLA LORO APPLICAZIONE
 
-##### Articolo 54
+#### Articolo 54
 
 Estinzione di un trattato o ritiro da esso in base alle disposizioni del trattato stesso o con il consenso delle parti
 
@@ -689,7 +683,7 @@ a) in base alle disposizioni del trattato; o,
 
 b) in ogni momento, con il consenso di tutte le parti, previa consultazione degli altri Stati contraenti.
 
-##### Articolo 55
+#### Articolo 55
 
 Numero di parti di un trattato multilaterale inferiore al numero
 
@@ -697,7 +691,7 @@ necessario per la sua entrata in vigore
 
 A meno che il trattato non disponga altrimenti, ad un trattato multilaterale non si pone termine per il solo motivo che il numero delle parti e' inferiore al numero necessario per la sua entrata in vigore.
 
-##### Articolo 56
+#### Articolo 56
 
 Denuncia o ritiro nel caso di un trattato che non contenga disposizioni relative all'estinzione, alla denuncia o al ritiro.
 
@@ -711,7 +705,7 @@ b) il diritto alla denuncia o al ritiro non possa essere dedotto dalla natura de
 
 2\. Una parte deve notificare con almeno dodici mesi di anticipo la propria intenzione di denunciare un trattato o di ritirarsi da esso in base alle disposizioni del paragrafo 1.
 
-##### Articolo 57
+#### Articolo 57
 
 Sospensione dell'applicazione di un trattato in base alle disposizioni in esso contenute o con il consenso delle parti.
 
@@ -721,7 +715,7 @@ a) conformemente alle disposizioni del trattato; o,
 
 b) in ogni momento, con il consenso di tutte le parti, previa consultazione degli altri Stati contraenti.
 
-##### Articolo 58
+#### Articolo 58
 
 Sospensione dell'applicazione di un trattato multilaterale soltanto con l'accordo fra alcune delle parti
 
@@ -735,7 +729,7 @@ i) non rechi pregiudizio ne' al godimento dei diritti previsti dal trattato per 
 
 2\. A meno che, nel caso previsto al comma a) del paragrafo 1, il trattato non disponga altrimenti, le parti in questione dovranno notificare alle altre parti la loro intenzione di concludere l'accordo e le disposizioni del trattato delle quali intendono sospendere l'applicazione.
 
-##### Articolo 59
+#### Articolo 59
 
 Estinzione di un trattato o sospensione della sua applicazione implicite a motivo della conclusione di un trattato successivo.
 
@@ -749,7 +743,7 @@ b) se le disposizioni del trattato successivo sono incompatibili con quelle del 
 
 2\. Il trattato precedente viene considerato semplicemente sospeso quando risulti dal trattato successivo o sia in altro modo accertato che questa era l'intenzione delle parti.
 
-##### Articolo 60
+#### Articolo 60
 
 Estinzione di un trattato o sospensione della sua applicazione come conseguenza della sua violazione
 
@@ -777,7 +771,7 @@ b) la violazione di una disposizione essenziale per la realizzazione dell'oggett
 
 5\. I paragrafi da 1 a 3 non si applicano alle disposizioni riguardanti la protezione della persona umana che sono contenute nei trattati di carattere umanitario ed in particolare non si applicano alle disposizioni che escludono ogni forma di rappresaglia esercitata nei confronti di persone che sono protette dai summenzionati trattati.
 
-##### Articolo 61
+#### Articolo 61
 
 Sopravvenienza di una situazione che renda impossibile l'esecuzione
 
@@ -785,7 +779,7 @@ Sopravvenienza di una situazione che renda impossibile l'esecuzione
 
 2\. L'impossibilita' di dare esecuzione ad un trattato non puo' essere invocata da una parte come motivo per porre fine al trattato, per ritirarsene o per sospenderne l'applicazione se tale impossibilita' deriva da una violazione commessa dalla parte che la invoca, sia di un obbligo del trattato che di ogni altro obbligo internazionale nei confronti di ogni altra parte del trattato stesso.
 
-##### Articolo 62
+#### Articolo 62
 
 Mutamento fondamentale delle circostanze
 
@@ -805,21 +799,21 @@ b) quando il fondamentale mutamento derivi da una violazione, da parte della par
 
 3\. Se una parte puo', in base ai paragrafi precedenti, invocare un fondamentale mutamento delle circostanze quale motivo per porre termine ad un trattato o per ritirarsi da questo, essa puo' anche invocarla soltanto per sospendere l'applicazione del trattato.
 
-##### Articolo 63
+#### Articolo 63
 
 Rottura delle relazioni diplomatiche o consolari
 
 La rottura delle relazioni diplomatiche o consolari fra le parti di un trattato non influenza i rapporti giuridici stabiliti tra di esse in base al trattato, se non nella misura in cui l'esistenza di relazioni diplomatiche o consolari e' indispensabile all'applicazione del trattato.
 
-##### Articolo 64
+#### Articolo 64
 
 Sopravvenienza di una nuova norma imperativa di diritto internazionale generale (jus cogens)
 
 Qualora sopravvenga una nuova norma imperativa di diritto internazionale generale, qualsiasi trattato esistente che contrasti tale norma diventa nullo ed ha termine.
 
-## Sezione quarta. - PROCEDURA
+### Sezione quarta. - PROCEDURA
 
-##### Articolo 65
+#### Articolo 65
 
 Procedura da seguire per la nullita' di un trattato, la sua estinzione, il ritiro di una parte o la sospensione dell'applicazione del trattato.
 
@@ -833,7 +827,7 @@ Procedura da seguire per la nullita' di un trattato, la sua estinzione, il ritir
 
 5\. Fatte salve le disposizioni dell'articolo 45, il fatto che uno Stato non abbia inviato la notifica prescritta dal paragrafo 1 non impedisce di redigere detta notifica in risposta ad un'altra parte che chieda l'esecuzione del trattato o che ne adduca la violazione.
 
-##### Articolo 66
+#### Articolo 66
 
 Procedure di regolamento giudiziario, di arbitrato e di conciliazione
 
@@ -843,7 +837,7 @@ a) ogni parte di una controversia che riguardi la applicazione o l'interpretazio
 
 b) ogni parte di una controversia relativa all'applicazione o all'interpretazione di uno qualsiasi degli altri articoli della parte V della presente convenzione, puo' porre in atto la procedura indicata nell'allegato della convenzione inviando, a tale scopo, una richiesta al Segretario generale delle Nazioni Unite.
 
-##### Articolo 67
+#### Articolo 67
 
 Strumenti aventi lo scopo di dichiarare la nullita' di un trattato, di porvi termine, di effettuarne il ritiro o di sospenderne l'applicazione.
 
@@ -851,15 +845,15 @@ Strumenti aventi lo scopo di dichiarare la nullita' di un trattato, di porvi ter
 
 2\. Qualsiasi atto che dichiari la nullita' di un trattato, vi ponga termine o attui il ritiro o la sospensione dell'applicazione di un trattato in base alle disposizioni in esso contenute o in base alle disposizioni dei paragrafi 2 e 3 dell'articolo 65, deve essere redatto in uno strumento comunicato alle altre parti. Se lo strumento non e' firmato dal Capo dello Stato, dal Capo del Governo o dal Ministro degli affari esteri, il rappresentante dello Stato che fa la comunicazione puo' essere invitato ad esibire i suoi pieni poteri.
 
-##### Articolo 68
+#### Articolo 68
 
 Revoca delle notifiche e degli strumenti previsti negli articoli 65 e 67
 
 Le notifiche o gli strumenti previsti negli articoli 65 e 67 possono essere revocati in qualsiasi momento, prima che abbiano avuto effetto.
 
-## Sezione quinta - CONSEGUENZE DELLA NULLITA' DELL'ESTINZIONE O DELLA SOSPENSIONE DELL'APPLICAZIONE DI UN TRATTATO
+### Sezione quinta - CONSEGUENZE DELLA NULLITA' DELL'ESTINZIONE O DELLA SOSPENSIONE DELL'APPLICAZIONE DI UN TRATTATO
 
-##### Articolo 69
+#### Articolo 69
 
 Conseguenze della nullita' di un trattato
 
@@ -875,7 +869,7 @@ b) gli atti compiuti in buona fede prima che venisse invocata la nullita' non so
 
 4\. Nei casi in cui il consenso di un particolare Stato ad essere vincolato da un trattato multilaterale sia infirmato, le norme precedenti si applicano nelle relazioni fra il detto Stato e le parti del trattato.
 
-##### Articolo 70
+#### Articolo 70
 
 Conseguenze dell'estinzione di un trattato
 
@@ -887,7 +881,7 @@ b) non pregiudica alcun diritto, alcun obbligo ne' alcuna situazione giuridica d
 
 2\. Quando uno Stato denuncia un trattato multilaterale o si ritira da esso, il paragrafo 1 viene applicato nei rapporti fra Stato e ciascuna delle altre parti del trattato a partire dalla data in cui detta denuncia o ritiro entrano in vigore.
 
-##### Articolo 71
+#### Articolo 71
 
 Conseguenze della nullita' di un trattato in contrasto con una norma imperativa di diritto internazionale generale.
 
@@ -901,7 +895,7 @@ a) libera le parti dall'obbligo di continuare a dare esecuzione al trattato;
 
 b) non pregiudica alcun diritto, obbligo o situazione giuridica delle parti che si siano venuti a creare a motivo dell'esecuzione del trattato prima della cessazione della sua validita': tuttavia, detti diritti, obblighi o situazioni non possono essere conservati in seguito che nella misura in cui la loro conservazione non sia in contrasto con la nuova norma imperativa di diritto internazionale generale.
 
-##### Articolo 72
+#### Articolo 72
 
 Conseguenze della sospensione dell'applicazione di un trattato
 
@@ -915,19 +909,19 @@ b) non pregiudica altrimenti i rapporti giuridici stabiliti dal trattato fra le 
 
 ## PARTE VI - DISPOSIZIONI VARIE
 
-##### Articolo 73
+#### Articolo 73
 
 Casi di successione di Stati, di responsabilita' di uno Stato o di apertura delle ostilita'
 
 Le disposizioni della presente convenzione non pregiudicano nessuna delle questioni che potrebbero sorgere per il trattato da una successione di Stati o dalla responsabilita' internazionale di uno Stato o dall'apertura delle ostilita' tra Stati.
 
-##### Articolo 74
+#### Articolo 74
 
 Relazioni diplomatiche o consolari e conclusione dei trattati
 
 La rottura delle relazioni diplomatiche o consolari o l'assenza di tali relazioni fra due o piu' Stati non impedisce la conclusione di trattati fra i detti Stati. La conclusione di un trattato non influenza di per se stessa le relazioni diplomatiche o consolari.
 
-##### Articolo 75
+#### Articolo 75
 
 Caso di uno Stato aggressore
 
@@ -935,7 +929,7 @@ Le disposizioni della presente convenzione non pregiudicano in alcun modo gli ob
 
 ## PARTE VII - DEPOSITARI, NOTIFICHE, CORREZIONI E REGISTRAZIONE
 
-##### Articolo 76
+#### Articolo 76
 
 Depositari dei trattati
 
@@ -943,7 +937,7 @@ Depositari dei trattati
 
 2\. Le funzioni del depositario di un trattato hanno carattere internazionale ed il depositario deve essere imparziale nell'esercizio delle sue funzioni. In particolare, il fatto che un trattato non sia entrato in vigore tra alcune delle parti o che vi sia stata divergenza tra uno Stato ed il depositario circa l'esercizio delle funzioni di quest'ultimo non deve influire su tale obbligo.
 
-##### Articolo 77
+#### Articolo 77
 
 Funzioni dei depositari
 
@@ -967,7 +961,7 @@ h) adempiere le funzioni specificate nelle altre disposizioni della presente con
 
 2\. Nel caso in cui una controversia abbia a sorgere tra uno Stato ed il depositario circa l'adempimento delle funzioni di quest'ultimo, il depositario deve sottoporre la questione all'attenzione degli Stati firmatari e degli Stati contraenti o, se del caso, all'attenzione dell'organo competente dell'organizzazione internazionale in questione.
 
-##### Articolo 78
+#### Articolo 78
 
 Notifiche e comunicazioni
 
@@ -979,7 +973,7 @@ b) non si ritiene che sia stata fatta dallo Stato in questione che a partire dal
 
 c) se viene trasmessa ad un depositario, non viene considerata come ricevuta dallo Stato al quale e' destinata che a partire dal momento in cui tale Stato avra' ricevuto dal depositario l'informazione prevista al comma a) del paragrafo 1 dell'articolo 77.
 
-##### Articolo 79
+#### Articolo 79
 
 Correzione degli errori contenuti nei testi o nelle copie certificate conformi dei trattati
 
@@ -1007,7 +1001,7 @@ b) una obiezione e' stata sollevata, il depositario la comunica agli Stati firma
 
 6\. Quando venga rilevato un errore in una copia certificata conforme di un trattato, il depositario redige un processo verbale di rettifica e ne trasmette copia agli Stati firmatari e agli Stati contraenti.
 
-##### Articolo 80
+#### Articolo 80
 
 Registrazione e pubblicazione dei trattati
 
@@ -1017,13 +1011,13 @@ Registrazione e pubblicazione dei trattati
 
 ## PARTE VIII - DISPOSIZIONI FINALI
 
-##### Articolo 81
+#### Articolo 81
 
 Firma
 
 La presente convenzione sara' aperta alla firma di tutti gli Stati membri dell'Organizzazione delle Nazioni Unite o di un istituto specializzato o dell'Agenzia internazionale dell'energia atomica, nonche' di tutti gli Stati parti dello Statuto della Corte internazionale di giustizia e di ogni altro Stato che sia invitato dall'Assemblea generale delle Nazioni Unite a diventare parte della convenzione, nel modo seguente: sino al 30 novembre 1969 presso il Ministero federale degli affari esteri della Repubblica di Austria ed in seguito sino al 30 aprile 1970 presso la Sede dell'Organizzazione delle Nazioni Unite a New York.
 
-##### Articolo 82
+#### Articolo 82
 
 Ratifica
 
@@ -1031,13 +1025,13 @@ In presente convenzione sara' sottoposta a ratifica.
 
 Gli strumenti di ratifica saranno depositati presso il Segretario generale delle Nazioni Unite.
 
-##### Articolo 83
+#### Articolo 83
 
 Adesione
 
 La presente convenzione restera' aperta all'adesione di ogni Stato appartenente ad una delle categorie di cui all'articolo 81. Gli strumenti di adesione saranno depositati presso il Segretario generale delle Nazioni Unite.
 
-##### Articolo 84
+#### Articolo 84
 
 Entrata in vigore
 
@@ -1045,7 +1039,7 @@ Entrata in vigore
 
 2\. Per ogni Stato che ratifichera' la convenzione o vi aderira' dopo il deposito del trentacinquesimo strumento di ratifica o di adesione, la convenzione entrera' in vigore trenta giorni dopo il deposito, da parte di dello Stato, del proprio strumento di ratifica o di adesione.
 
-##### Articolo 85
+#### Articolo 85
 
 Testi autentici
 
@@ -1055,7 +1049,7 @@ IN FEDE DI CHE, i sottoscritti plenipotenziari, debitamente autorizzati dai risp
 
 FATTO a Vienna, il ventitre maggio millenovecentosessantanove.
 
-##### Allegato
+#### Allegato
 
 ALLEGATO
 

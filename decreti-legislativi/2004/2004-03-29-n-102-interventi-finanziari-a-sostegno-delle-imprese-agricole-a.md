@@ -52,7 +52,7 @@ Titolo I
 
 FONDO DI SOLIDARIETA' NAZIONALE
 
-### TITOLO I - Fondo di solidarietà nazionale
+## TITOLO I - Fondo di solidarietà nazionale
 
 #### Art. 1 - Finalita
 
@@ -70,7 +70,7 @@ c) interventi di ripristino delle infrastrutture connesse all'attivita' agricola
 
 3-bis. Gli interventi compensativi di cui al comma 3, lettera b), ove attivati a fronte di eventi i cui effetti non sono limitati ad una sola annualita', possono essere compensati per un periodo non superiore a tre anni.
 
-## Capo I - Aiuti per il pagamento di premi assicurativi
+### Capo I - Aiuti per il pagamento di premi assicurativi
 
 #### Art. 2
 
@@ -162,7 +162,7 @@ b) qualsiasi altro elemento ritenuto necessario per garantire un impiego efficac
 
 5-bis. Al fine di garantire continuita' alla copertura dei rischi, qualora entro la data stabilita al comma 2 non sia approvato un nuovo ((Piano)), continuano ad applicarsi le disposizioni del piano precedente.
 
-## Capo II - Interventi compensativi
+### Capo II - Interventi compensativi
 
 #### Art. 5
 
@@ -288,7 +288,7 @@ Pubblicita' degli interventi
 
 1\. Gli elenchi nominativi dei danneggiati, nonche' gli atti contenenti la valutazione dei danni e le provvidenze concesse, ai sensi degli articoli 5, 7 ((e 8, sono pubblicati sui siti internet delle Autorita' competenti)).
 
-## Capo III - ((Organismi collettivi)) di difesa
+### Capo III - ((Organismi collettivi)) di difesa
 
 #### Art. 11
 
@@ -348,7 +348,7 @@ Interventi a favore degli associati
 
 2\. ((gli Organismi collettivi di difesa)), per il raggiungimento delle finalita' associative, possono deliberare di far ricorso a forme assicurative, coerentemente con quanto disposto nel presente decreto legislativo, mediante contratti da stipulare, anche dagli stessi ((Organismi collettivi di difesa)) in nome e per conto dei soci qualora essi non vi provvedano direttamente, con societa' di assicurazione autorizzate.
 
-## Capo IV - Altre disposizioni
+### Capo IV - Altre disposizioni
 
 #### Art. 15
 
@@ -478,7 +478,7 @@ i) articoli 1, 1-bis, 2, comma 1, e 4 del decreto-legge 13 settembre 2002, n. 20
 
 > 2\. Per favorire l'ampliamento della base assicurativa a garanzia dei rischi agricoli e per agevolare l'adozione di polizze multirischio sulle rese, sui ricavi, sulle strutture e sul reddito complessivo aziendale, il fondo per la riassicurazione dei rischi di cui all'art. 127, comma 3, della legge 23 dicembre 2000, n. 388, cosi' come finanziato dall'art. 13, comma 4-sexies, del decreto-legge 8 luglio 2002, n. 138, convertito, con modificazioni, dalla legge 8 agosto 2002, n. 178, puo' assumere in riassicurazione e mantiene a proprio carico fino al 100 per cento dei rischi derivanti dalle predette polizze, per un periodo di sperimentazione di durata triennale a decorrere dalla data di entrata in vigore della legge di conversione del presente decreto, limitatamente alle disponibilita' annuali di bilancio. Il predetto contributo e' concesso a condizione che sia accertato il conseguimento di un adeguato vantaggio economico a favore delle imprese agricole.».
 
-## Capo V - Strumenti finanziari
+### Capo V - Strumenti finanziari
 
 #### Art. 17
 

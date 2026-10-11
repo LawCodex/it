@@ -30,7 +30,7 @@ la seguente legge:
 
 ## Capo I - DELEGA AL GOVERNO PER LA RIFORMA ORDINAMENTALE DELLA MAGISTRATURA
 
-##### Art. 1
+### Art. 1
 
 Oggetto e procedimento
 
@@ -50,7 +50,7 @@ d) al riordino della disciplina del collocamento fuori ruolo dei magistrati ordi
 
 4\. Il Governo, entro tre anni dalla scadenza del termine per l'esercizio della delega di cui al comma 1 del presente articolo, provvede alla raccolta delle disposizioni vigenti in materia di ordinamento giudiziario ai sensi dell'articolo 17-bis, commi 1 e 2, della legge 23 agosto 1988, n. 400.
 
-##### Art. 2
+### Art. 2
 
 Revisione dell'assetto ordinamentale della magistratura: criteri di assegnazione degli incarichi direttivi e semidirettivi, con rivisitazione del numero di questi ultimi; procedure di approvazione delle tabelle di organizzazione previste dall'articolo 7-bis dell'ordinamento giudiziario, di cui al regio decreto 30 gennaio 1941, n. 12; criteri di accesso alle funzioni di consigliere di cassazione e di sostituto procuratore generale presso la Corte di cassazione
 
@@ -254,7 +254,7 @@ n) prevedere l'applicazione dei principi di cui al comma 1, lettera a), ai proce
 
 > 6\. - 21. (Omissis).».
 
-##### Art. 3
+### Art. 3
 
 Modifiche del sistema di funzionamento del consiglio giudiziario e delle valutazioni di professionalita'
 
@@ -388,7 +388,7 @@ l) modificare la disciplina delle valutazioni di professionalita' prevedendo:
 
 > \- Per il testo dell'articolo 37 del citato decreto-legge 6 luglio 2011, n. 98, si vedano le note all'articolo 2.
 
-##### Art. 4
+### Art. 4
 
 Riduzione dei tempi per l'accesso in magistratura
 
@@ -560,7 +560,7 @@ e) prevedere una riduzione delle materie oggetto della prova orale del concorso 
 
 > 7\. Nulla e' innovato in ordine agli specifici requisiti previsti dal decreto del Presidente della Repubblica 26 luglio 1976, n. 752, e successive modificazioni, per la copertura dei posti di magistrato nella provincia di Bolzano, fermo restando, comunque, che la lingua straniera prevista dal comma 4, lettera m), del presente articolo deve essere diversa rispetto a quella obbligatoria per il conseguimento dell'impiego.».
 
-##### Art. 5
+### Art. 5
 
 Collocamento fuori ruolo dei magistrati ordinari, amministrativi e contabili
 
@@ -622,7 +622,7 @@ i) disciplinare specificamente, con regolamentazione autonoma che tenga conto de
 
 > (Omissis).».
 
-##### Art. 6
+### Art. 6
 
 Coordinamento con le disposizioni vigenti
 
@@ -636,7 +636,7 @@ Coordinamento con le disposizioni vigenti
 
 ## Capo II - MODIFICHE ALLE DISPOSIZIONI DELL'ORDINAMENTO GIUDIZIARIO
 
-##### Art. 7
+### Art. 7
 
 Modifiche alla pianta organica e alle competenze dell'ufficio del massimario e del ruolo della Corte di cassazione
 
@@ -650,7 +650,7 @@ Modifiche alla pianta organica e alle competenze dell'ufficio del massimario e d
 
 4\. A ciascun collegio non puo' essere applicato piu' di un magistrato addetto all'ufficio del massimario e del ruolo».
 
-##### Art. 8
+### Art. 8
 
 Ulteriori modifiche all'ordinamento giudiziario, di cui al regio decreto 30 gennaio 1941, n. 12
 
@@ -716,7 +716,7 @@ f) l'articolo 195 e' abrogato.
 
 > Per i magistrati che esercitano le funzioni presso la sede di prima assegnazione il termine di cui al primo comma e' di tre anni.».
 
-##### Art. 9
+### Art. 9
 
 Modifiche al regio decreto legislativo 31 maggio 1946, n. 511, in materia di aspettativa per infermita'
 
@@ -738,7 +738,7 @@ Modifiche al regio decreto legislativo 31 maggio 1946, n. 511, in materia di asp
 
 > Avverso il parere del Consiglio giudiziario previsto nei due precedenti commi puo' essere proposto ricorso al Consiglio superiore della magistratura cosi' dall'interessato come dal Ministro, entro dieci giorni dalla comunicazione. Il ricorso ha effetto sospensivo.».
 
-##### Art. 10
+### Art. 10
 
 Modifiche al decreto legislativo 30 gennaio 2006, n. 26, in materia di corsi di formazione per le funzioni direttive e semidirettive
 
@@ -830,7 +830,7 @@ h) all'articolo 26-bis, dopo il comma 5 e' aggiunto il seguente:
 
 > 5-bis. Specifici corsi di formazione con i contenuti di cui al comma 1 e per la durata di cui al comma 1-bis sono riservati ai magistrati ai quali e' stata conferita nell'anno precedente la funzione direttiva o semidirettiva.».
 
-##### Art. 11
+### Art. 11
 
 Modifiche al decreto legislativo 23 febbraio 2006, n. 109, in materia di illeciti disciplinari
 
@@ -1028,7 +1028,7 @@ f) al capo II, dopo l'articolo 25 e' aggiunto il seguente:
 
 > 5\. Si applica la sanzione della rimozione al magistrato che sia stato condannato in sede disciplinare per i fatti previsti dall'articolo 3, comma 1, lettera e), che incorre nella interdizione perpetua o temporanea dai pubblici uffici in seguito a condanna penale o che incorre in una condanna a pena detentiva per delitto non colposo non inferiore a un anno la cui esecuzione non sia stata sospesa, ai sensi degli articoli 163 e 164 del Codice penale o per la quale sia intervenuto provvedimento di revoca della sospensione ai sensi dell'articolo 168 dello stesso Codice.».
 
-##### Art. 12
+### Art. 12
 
 Modifiche al decreto legislativo 5 aprile 2006, n. 160
 
@@ -1110,7 +1110,7 @@ d) all'articolo 35, comma 1, al primo periodo, le parole: «da 10 a 13» sono so
 
 > 2\. Ai magistrati che non assicurano il periodo di servizio di cui al comma 1 non possono essere conferite funzioni direttive se non nell'ipotesi di conferma per un'ulteriore sola volta dell'incarico gia' svolto, di cui all'articolo 45.».
 
-##### Art. 13
+### Art. 13
 
 Modifiche al decreto legislativo 20 febbraio 2006, n. 106, in materia di riorganizzazione dell'ufficio del pubblico ministero
 
@@ -1166,7 +1166,7 @@ g) i gruppi di lavoro, salvo che la disponibilita' di risorse umane sia tale da 
 
 > 7\. Il progetto organizzativo dell'ufficio e' adottato ogni quattro anni, sentiti il dirigente dell'ufficio giudicante corrispondente e il presidente del consiglio dell'ordine degli avvocati, ed e' approvato dal Consiglio superiore della magistratura, previo parere del consiglio giudiziario e valutate le eventuali osservazioni formulate dal Ministro della giustizia ai sensi dell'articolo 11 della legge 24 marzo 1958, n. 195. Decorso il quadriennio, l'efficacia del progetto e' prorogata fino a che non sopravvenga il nuovo. Con le medesime modalita' di cui al primo periodo, il progetto organizzativo puo' essere variato nel corso del quadriennio per sopravvenute esigenze dell'ufficio.».
 
-##### Art. 14
+### Art. 14
 
 Modifiche all'articolo 37 del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111
 
@@ -1196,13 +1196,9 @@ b) il verificarsi di un rilevante aumento delle pendenze della sezione, indicand
 
 > \- Per il testo dell'articolo 37 del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111, come modificato dalla presente legge, si vedano le note all'articolo 2.
 
-## Capo III - DISPOSIZIONI IN MATERIA DI ELEGGIBILITA' E RICOLLOCAMENTO DEI
+## Capo III - DISPOSIZIONI IN MATERIA DI ELEGGIBILITA' E RICOLLOCAMENTO DEI MAGISTRATI IN OCCASIONE DI ELEZIONI POLITICHE E AMMINISTRATIVE NONCHE' DI ASSUNZIONE DI INCARICHI DI GOVERNO NAZIONALE, REGIONALE O LOCALE
 
-### MAGISTRATI IN OCCASIONE DI ELEZIONI POLITICHE E AMMINISTRATIVE - NONCHE' DI ASSUNZIONE DI INCARICHI DI GOVERNO NAZIONALE, REGIONALE O
-
-#### LOCALE
-
-##### Art. 15
+### Art. 15
 
 Eleggibilita' dei magistrati
 
@@ -1216,13 +1212,13 @@ Eleggibilita' dei magistrati
 
 5\. I magistrati non possono assumere le cariche indicate al comma 1 se, al momento in cui sono indette le elezioni, sono componenti del Consiglio superiore della magistratura o lo sono stati nei due anni precedenti.
 
-##### Art. 16
+### Art. 16
 
 Aspettativa per incarichi di governo nazionale, regionale o locale
 
 1\. ((I magistrati ordinari, amministrativi, contabili, militari e tributari)) non possono assumere l'incarico di Presidente del Consiglio dei ministri, di Vicepresidente del Consiglio dei ministri, di Ministro, di Viceministro, di Sottosegretario di Stato, di sottosegretario regionale e di assessore regionale o comunale se, all'atto dell'assunzione dell'incarico, non sono collocati in aspettativa senza assegni.
 
-##### Art. 17
+### Art. 17
 
 Status dei magistrati in costanza di mandato o di incarico di governo nazionale, regionale o locale
 
@@ -1248,7 +1244,7 @@ Il periodo trascorso in aspettativa e' computato a tutti gli effetti ai fini pen
 
 > «Art. 81 (Aspettative). - 1. I sindaci, i presidenti delle province, i presidenti dei consigli comunali e provinciali, i presidenti dei consigli circoscrizionali dei comuni di cui all'articolo 22, comma 1, i presidenti delle comunita' montane e delle unioni di comuni, nonche' i membri delle giunte di comuni e province che siano lavoratori dipendenti possono essere collocati a richiesta in aspettativa non retribuita per tutto il periodo di espletamento del mandato. Il periodo di aspettativa e' considerato come servizio effettivamente prestato, nonche' come legittimo impedimento per il compimento del periodo di prova. I consiglieri di cui all'articolo 77, comma 2, se a domanda collocati in aspettativa non retribuita per il periodo di espletamento del mandato, assumono a proprio carico l'intero pagamento degli oneri previdenziali, assistenziali e di ogni altra natura previsti dall'articolo 86.».
 
-##### Art. 18
+### Art. 18
 
 Ricollocamento in ruolo dei magistrati candidati e non eletti
 
@@ -1260,7 +1256,7 @@ Ricollocamento in ruolo dei magistrati candidati e non eletti
 
 4\. I limiti e i divieti di cui ai commi 1, 2 e 3 del presente articolo hanno una durata di tre anni, fermo restando, per l'elezione della Camera dei deputati e del Senato della Repubblica, quanto previsto dall'articolo 8, secondo comma, del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361.
 
-##### Art. 19
+### Art. 19
 
 Ricollocamento dei magistrati a seguito della cessazione di mandati elettivi
 
@@ -1268,7 +1264,7 @@ Ricollocamento dei magistrati a seguito della cessazione di mandati elettivi
 
 2\. Le disposizioni del presente articolo si applicano alle cariche di cui al comma 1 assunte dopo la data di entrata in vigore della presente legge.
 
-##### Art. 20
+### Art. 20
 
 Ricollocamento a seguito dell'assunzione di incarichi apicali e di incarichi di governo non elettivi
 
@@ -1286,11 +1282,9 @@ AGGIORNAMENTO (2)
 
 Il D.L. 10 agosto 2023, n. 104, convertito con modificazioni dalla L. 9 ottobre 2023, n. 136, ha disposto (con l'art. 18, comma 3) che "Al fine di consentire la continuita' nella gestione delle attivita' amministrative connesse all'attuazione del PNRR, fino al 31 agosto 2026 il termine di un anno di cui all'articolo 20, comma 3, della legge 17 giugno 2022, n. 71, e' aumentato a due anni in relazione agli incarichi di cui al comma 1 del medesimo articolo 20 assunti presso amministrazioni titolari di interventi previsti nel PNRR".
 
-## Capo IV - DISPOSIZIONI CONCERNENTI LA COSTITUZIONE E IL FUNZIONAMENTO DEL
+## Capo IV - DISPOSIZIONI CONCERNENTI LA COSTITUZIONE E IL FUNZIONAMENTO DEL CONSIGLIO SUPERIORE DELLA MAGISTRATURA
 
-### CONSIGLIO SUPERIORE DELLA MAGISTRATURA
-
-##### Art. 21
+### Art. 21
 
 Modifica del numero dei componenti del Consiglio superiore della magistratura
 
@@ -1314,7 +1308,7 @@ b) dopo il primo comma e' inserito il seguente:
 
 > Il Consiglio ha sede in Roma.».
 
-##### Art. 22
+### Art. 22
 
 Modifiche concernenti la composizione delle Commissioni
 
@@ -1322,7 +1316,7 @@ Modifiche concernenti la composizione delle Commissioni
 
 «Art. 3 (Commissioni). - 1. Il Presidente del Consiglio superiore, ogni sedici mesi, su proposta del Comitato di Presidenza, nomina le Commissioni previste dalla legge e dal regolamento generale, in conformita' ai criteri di composizione previsti dal regolamento medesimo. I componenti effettivi della sezione disciplinare possono essere assegnati a una sola Commissione e non possono comporre le commissioni per il conferimento degli incarichi direttivi e semidirettivi, per le valutazioni di professionalita' e in materia di incompatibilita' nell'esercizio delle funzioni giudiziarie e di applicazione dell'articolo 2, secondo comma, del regio decreto legislativo 31 maggio 1946, n. 511.».
 
-##### Art. 23
+### Art. 23
 
 Modifica del numero dei componenti della sezione disciplinare
 
@@ -1360,7 +1354,7 @@ d) e' aggiunto, in fine, il seguente comma:
 
 > Il Consiglio superiore determina i criteri per la sostituzione dei componenti della sezione disciplinare, che puo' essere disposta solo in caso di incompatibilita', di astensione o di altro motivato impedimento. Il presidente della sezione disciplinare predetermina i criteri per l'assegnazione dei procedimenti ai componenti effettivi della sezione e li comunica al Consiglio.».
 
-##### Art. 24
+### Art. 24
 
 Modifiche in materia di validita' delle deliberazioni del Consiglio superiore della magistratura
 
@@ -1374,7 +1368,7 @@ Modifiche in materia di validita' delle deliberazioni del Consiglio superiore de
 
 > Le deliberazioni sono prese a maggioranza di voti e, in caso di parita', prevale quello del Presidente.».
 
-##### Art. 25
+### Art. 25
 
 Selezione dei magistrati addetti alla segreteria
 
@@ -1394,7 +1388,7 @@ Le funzioni del segretario generale e del magistrato che lo coadiuva sono defini
 
 5\. Ove ai magistrati di cui ai commi 1 e 4 del presente articolo siano riconosciute indennita', il limite massimo retributivo onnicomprensivo non puo' superare quello indicato all'articolo 13 del decreto-legge 24 aprile 2014, n. 66, convertito, con modificazioni, dalla legge 23 giugno 2014, n. 89, come rideterminato ai sensi dell'articolo 1, comma 68, della legge 30 dicembre 2021, n. 234».
 
-##### Art. 26
+### Art. 26
 
 Modifica del decreto legislativo 14 febbraio 2000, n. 37, in materia di contratti di collaborazione continuativa del Consiglio superiore della magistratura
 
@@ -1418,7 +1412,7 @@ Modifica del decreto legislativo 14 febbraio 2000, n. 37, in materia di contratt
 
 9\. Agli adempimenti per l'attuazione di quanto previsto dal presente articolo e dall'articolo 60 del decreto legislativo 30 marzo 2001, n. 165, provvede il segretario generale».
 
-##### Art. 27
+### Art. 27
 
 Modifiche in materia di ufficio studi e documentazione
 
@@ -1440,7 +1434,7 @@ Modifiche in materia di ufficio studi e documentazione
 
 > 3-bis. Il Consiglio superiore della magistratura puo' assegnare all'ufficio studi e documentazione un numero non superiore a dodici componenti esterni, nei limiti delle proprie risorse finanziarie, selezionati mediante procedura di valutazione dei titoli e colloquio, aperta ai magistrati ordinari che abbiano conseguito la seconda valutazione di professionalita', ai professori e ricercatori universitari in materie giuridiche e agli avvocati con almeno dieci anni di esercizio effettivo. La commissione incaricata della selezione e' formata da due magistrati di legittimita' e da tre professori ordinari in materie giuridiche, individuati dal Comitato di presidenza. Almeno un terzo dei posti e' riservato a professori e ricercatori universitari in materie giuridiche e avvocati con almeno dieci anni di esercizio effettivo. I magistrati assegnati all'ufficio studi sono collocati fuori del ruolo organico della magistratura. I professori universitari sono collocati in aspettativa obbligatoria ai sensi dell'articolo 7 della legge 30 dicembre 2010, n. 240. La graduatoria degli idonei adottata in esito ad ogni procedura selettiva ha validita' di tre anni. Agli avvocati si applica l'articolo 20 della legge 31 dicembre 2012, n. 247. Fermo restando il limite massimo complessivo decennale di collocamento fuori ruolo per i magistrati, l'incarico di addetto all'ufficio studi ha una durata massima di sei anni. Ove ai magistrati di cui al presente comma siano riconosciute indennita', il limite massimo retributivo onnicomprensivo non puo' superare quello indicato all'articolo 13 del decreto-legge 24 aprile 2014, n. 66, convertito, con modificazioni, dalla legge 23 giugno 2014, n. 89, come integrato dall'articolo 1, comma 68, della legge 30 dicembre 2021, n. 234.».
 
-##### Art. 28
+### Art. 28
 
 Modifiche in materia di formazione
 
@@ -1460,7 +1454,7 @@ delle tabelle degli uffici giudiziari
 
 > Per la costituzione o la soppressione delle sezioni delle corti di assise e delle corti di assise di appello continuano ad osservarsi le disposizioni di cui all'articolo 2-bis della legge 10 aprile 1951, n. 287, aggiunto dall'articolo 1 della legge 21 febbraio 1984, n. 14.».
 
-##### Art. 29
+### Art. 29
 
 Regolamento generale
 
@@ -1488,7 +1482,7 @@ Regolamento generale
 
 > 7\) adotta il regolamento generale per la disciplina dell'organizzazione e del funzionamento del Consiglio.».
 
-##### Art. 30
+### Art. 30
 
 Eleggibilita' dei componenti eletti dal Parlamento
 
@@ -1508,7 +1502,7 @@ Eleggibilita' dei componenti eletti dal Parlamento
 
 > I componenti da eleggere dal Parlamento sono scelti tra professori ordinari di universita' in materie giuridiche e tra avvocati dopo quindici anni di esercizio effettivo, nel rispetto dell'articolo 104 della Costituzione, secondo procedure trasparenti di candidatura, da svolgere nel rispetto della parita' di genere di cui agli articoli 3 e 51 della Costituzione.».
 
-##### Art. 31
+### Art. 31
 
 Modifiche in materia di componenti eletti dai magistrati
 
@@ -1530,7 +1524,7 @@ d) in un collegio unico nazionale per cinque magistrati che esercitano le funzio
 
 4\. In ognuno dei collegi di cui al comma 2, lettere a), b) e c), deve essere espresso un numero minimo di sei candidature e ogni genere deve essere rappresentato in misura non inferiore alla meta' dei candidati effettivi».
 
-##### Art. 32
+### Art. 32
 
 Modifiche in materia di elettorato attivo e passivo
 
@@ -1588,7 +1582,7 @@ d) dopo il comma 2 e' aggiunto il seguente:
 
 > 2-bis. I magistrati eleggibili ai sensi del comma 2 possono candidarsi esclusivamente nel collegio nel cui territorio e' compreso il distretto di corte di appello al quale appartiene l'ufficio presso il quale esercitano le funzioni giudiziarie. Per il collegio unico nazionale di cui all'articolo 23, comma 2, lettera a), possono candidarsi esclusivamente i magistrati che esercitano le funzioni di legittimita' presso la Corte suprema di cassazione o la Procura generale presso la stessa Corte.».
 
-##### Art. 33
+### Art. 33
 
 Modifiche in materia di convocazione delle elezioni
 
@@ -1616,7 +1610,7 @@ Modifiche in materia di convocazione delle elezioni
 
 11\. I candidati estratti a sorte hanno diritto, per il periodo intercorrente tra l'estrazione e il giorno fissato per le elezioni, all'astensione dal lavoro giudiziario. Per le attivita' connesse alla promozione della propria candidatura e alla conoscenza degli uffici giudiziari compresi nel proprio collegio elettorale, ai candidati estratti a sorte che si recano presso uffici giudiziari diversi da quello di appartenenza e' riconosciuto il trattamento economico di missione».
 
-##### Art. 34
+### Art. 34
 
 Modifiche in materia di votazioni
 
@@ -1640,7 +1634,7 @@ Modifiche in materia di votazioni
 
 9\. E' nullo il voto espresso per magistrati eleggibili in collegi diversi da quello in cui e' espresso il voto, nonche' il voto espresso in difformita' da quanto previsto al comma 6».
 
-##### Art. 35
+### Art. 35
 
 Modifiche in materia di scrutinio
 
@@ -1672,7 +1666,7 @@ Nell'ambito del medesimo gruppo di candidati collegati sono eletti coloro che ha
 
 6\. Ciascun candidato puo' assistere alle operazioni di voto nel collegio di appartenenza e alle successive operazioni di scrutinio presso la commissione centrale elettorale».
 
-##### Art. 36
+### Art. 36
 
 Modifiche in materia di sostituzione
 
@@ -1684,7 +1678,7 @@ dei componenti eletti dai magistrati
 
 Il componente eletto dai magistrati che cessa dalla carica per qualsiasi ragione prima della scadenza del Consiglio superiore della magistratura e' sostituito dal magistrato non eletto che, nell'ambito dello stesso collegio, lo segue per numero di voti ovvero, nel caso in cui cessi dalla carica un componente eletto ai sensi dell'articolo 27, comma 4, secondo periodo, e' sostituito dal magistrato non eletto che lo segue per numero di voti computati ai sensi dell'articolo 27, comma 4, terzo periodo, fermo restando quanto disposto dall'articolo 27, comma 5. Le stesse regole si applicano in caso di cessazione dalla carica del magistrato subentrato. Esaurita la possibilita' di subentro ai sensi del primo periodo, per l'assegnazione del seggio o dei seggi rimasti vacanti, nel collegio da cui proviene il componente da sostituire sono indette elezioni suppletive, con le modalita' previste dagli articoli da 23 a 27, salvi i necessari adeguamenti ove sia rimasto vacante un solo seggio».
 
-##### Art. 37
+### Art. 37
 
 Modifiche in materia di indennita' dei componenti
 
@@ -1706,7 +1700,7 @@ del Consiglio superiore della magistratura
 
 > Ai componenti e' attribuita un'indennita' per ogni seduta e, inoltre, a coloro che risiedono fuori Roma, l'indennita' di missione per i giorni di viaggio e di permanenza a Roma. La misura dell'indennita' per le sedute e il numero massimo giornaliero delle sedute che danno diritto a indennita', nonche' la misura dell'indennita' di missione e qualunque altro emolumento comunque denominato sono determinati dal Consiglio superiore, secondo criteri stabiliti nel regolamento di amministrazione e contabilita' e, in ogni caso, nel rispetto del limite massimo retributivo onnicomprensivo di cui all'articolo 13 del decreto-legge 24 aprile 2014, n. 66, convertito, con modificazioni, dalla legge 23 giugno 2014, n. 89.».
 
-##### Art. 38
+### Art. 38
 
 Modifiche in materia di ricollocamento in ruolo dei magistrati componenti del Consiglio superiore della magistratura
 
@@ -1722,7 +1716,7 @@ Modifiche in materia di ricollocamento in ruolo dei magistrati componenti del Co
 
 > I magistrati componenti elettivi sono collocati fuori del ruolo organico della magistratura. Alla cessazione della carica il Consiglio superiore della magistratura dispone, eventualmente anche in soprannumero, il rientro in ruolo dei magistrati nella sede di provenienza e nelle funzioni precedentemente esercitate. Prima che siano trascorsi quattro anni dal giorno in cui ha cessato di far parte del Consiglio superiore della magistratura, il magistrato non puo' proporre domanda per un ufficio direttivo o semidirettivo, fatto salvo il caso in cui l'incarico direttivo o semidirettivo sia stato ricoperto in precedenza. Prima che siano trascorsi due anni dal giorno in cui ha cessato di far parte del Consiglio superiore della magistratura, il magistrato non puo' essere collocato fuori del ruolo organico per lo svolgimento di funzioni diverse da quelle giudiziarie ordinarie. Le disposizioni del presente comma non si applicano quando il collocamento fuori del ruolo organico e' disposto per consentire lo svolgimento di funzioni elettive.».
 
-##### Art. 39
+### Art. 39
 
 Disposizioni transitorie e per l'attuazione e il coordinamento del nuovo sistema elettorale del Consiglio superiore della magistratura
 
@@ -1754,7 +1748,7 @@ Disposizioni transitorie e per l'attuazione e il coordinamento del nuovo sistema
 
 ## Capo V - DELEGA AL GOVERNO IN MATERIA DI ORDINAMENTO GIUDIZIARIO MILITARE
 
-##### Art. 40
+### Art. 40
 
 Oggetto, principi e criteri direttivi, procedimento
 
@@ -2138,7 +2132,7 @@ Qualora il termine per l'espressione dei pareri parlamentari scada nei trenta gi
 
 ## Capo VI - DISPOSIZIONI FINANZIARIE E FINALI
 
-##### Art. 41
+### Art. 41
 
 Disposizioni finali
 
@@ -2170,7 +2164,7 @@ Disposizioni finali
 
 > 5-bis. Le amministrazioni pubbliche inserite nel conto economico consolidato individuate ai sensi dell'articolo 1, comma 3, della legge 31 dicembre 2009, n. 196, pubblicano nel proprio sito internet i dati completi relativi ai compensi percepiti da ciascun componente del consiglio di amministrazione in qualita' di componente di organi di societa' ovvero di fondi controllati o partecipati dalle amministrazioni stesse.».
 
-##### Art. 42
+### Art. 42
 
 Disposizioni finanziarie
 
@@ -2188,7 +2182,7 @@ Disposizioni finanziarie
 
 > (Omissis).».
 
-##### Art. 43
+### Art. 43
 
 Entrata in vigore
 

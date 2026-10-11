@@ -30,13 +30,13 @@ Il Senato e la Camera dei Deputati hanno approvato;
 
 Noi abbiamo sanzionato e promulghiamo quanto segue:
 
-### Art. 1
+## Art. 1
 
 E' convertito in legge il Regio decreto del 10 dicembre 1894, n. 532, costituente l'allegato A, che reca variazioni alla tariffa dei dazi doganali e delle tare, nonche' al regime fiscale delle fabbriche di glucosio, di cicoria e degli spiriti, ed impone una tassa sulla raffinazione degli olii minerali greggi di origine nazionale e sulla fabbricazione dei fiammiferi.
 
 Col giorno in cui entrera' in vigore la presente legge cessera' di aver effetto il decreto sopradetto in quanto esso sia modificato dalle disposizioni della legge stessa.
 
-### Art. 2
+## Art. 2
 
 Sono approvate le leggi costituenti gli allegati B, C, D ed E riguardanti rispettivamente:
 
@@ -48,7 +48,7 @@ Sono approvate le leggi costituenti gli allegati B, C, D ed E riguardanti rispet
 
 4° le disposizioni per l'applicazione della tassa sulla fabbricazione dei fiammiferi.
 
-### Art. 3
+## Art. 3
 
 Sono pure approvate le leggi costituenti gli allegati F, G ed H, riguardanti rispettivamente:
 
@@ -58,13 +58,13 @@ Sono pure approvate le leggi costituenti gli allegati F, G ed H, riguardanti ris
 
 3° disposizioni relative alle tasse sulle assicurazioni.
 
-### Art. 4
+## Art. 4
 
 La tassa interna di fabbricazione degli zuccheri e' stabilita nella misura di L. 70,15 per ogni quintale di zucchero di prima classe, e di L. 67,20 per ogni quintale di zucchero di seconda classe.
 
 Quando le materie prime, da cui si estrae 1o zucchero, non siano prodotti dell'agricoltura nazionale, spetta alla finanza la facolta', data dall'art. 1 della legge 15 luglio 1883, n. 1501, serie 3ª, ai fabbricanti di zucchero indigeno, di liquidare la tassa sulla quantita' di zucchero effettivamente prodotto.
 
-### Art. 5
+## Art. 5
 
 Con effetto dal giorno 11 marzo 1895 la restituzione della tassa sui prodotti contenenti zucchero, destinati alla esportazione, sara' conceduta nella misura indicata nella tabella che costituisce l'allegato I.
 
@@ -74,29 +74,29 @@ La restituzione sara' fatta nella misura di L. 4 per ogni quintale di cotone in 
 
 Il Governo potra' estendere la restituzione del dazio sul cotone greggio alle ovatte di cotone esportate, determinandone con decreto Reale la misura e stabilendo le condizioni alle quali la concessione dovra' essere subordinata.
 
-### Art. 6
+## Art. 6
 
 Nella tariffa generale dei dazi doganali sono introdotte le modificazioni ed aggiunte indicate nella tabella che costituisce l'allegato K.
 
-### Art. 7
+## Art. 7
 
 E' data facolta' al Governo del Re di rivedere, completare e riunire in testo unico, con decreto Reale da presentare al Parlamento per la conversione in
 
 legge non piu' tardi del 31 dicembre 1895, le disposizioni sulle tare per le merci che si importano dall'estero, determinando le discipline per la loro applicazione.
 
-### Art. 8
+## Art. 8
 
 Con decreto Reale, udito il Consiglio di Stato, sara' pubblicato il testo unico delle disposizioni preliminari alla tariffa e quello della tariffa generale dei dazi doganali, coordinandone e suddividendone le voci e sottovoci e sopprimendo e modificando le note in relazione con le disposizioni della presente legge, con quelle tuttora in vigore di leggi precedenti, coi trattati di commercio e con le modificazioni approvate col Regio decreto del 26 aprile 1893, n. 208.
 
 E' data parimenti facolta' al Governo del Re di pubblicare il repertorio della tariffa generale dei dazi doganali con decreto Reale, che sara' presentato al Parlamento per la conversione in legge, nel mese successivo a quello della sua pubblicazione.
 
-### Art. 9
+## Art. 9
 
 E' data facolta' al Governo del Re di rivedere e di coordinare in testo unico le disposizioni regolamentari per l'applicazione delle leggi relative a tutte le tasse interne di fabbricazione.
 
 E' parimenti autorizzato il ministro delle finanze, nei casi in cui non abbia luogo l'abbonamento con i fabbricanti, a fare accertare il prodotto da sottoporsi alla tassa di fabbricazione delle acque gassose, col sussidio di un congegno meccanico da applicarsi a spese dell'Amministrazione.
 
-### Art. 10
+## Art. 10
 
 Le tasse fisse di registro sulle sentenze dei tribunali, delle Corti d'appello e delle Corti di cassazione stabilite dagli articoli 123, 124, 126, 127, 128, 130 e 131 della tariffa annessa alla legge di registro 13 settembre 1874, n. 2076, sono aumentate della meta'.
 
@@ -110,49 +110,49 @@ Al decreto d'omologazione delle decisioni arbitrali si applica la sola tassa fis
 
 La sovrimposta dei decimi e' mantenuta anche per le tasse stabilite dal presente articolo.
 
-### Art. 11
+## Art. 11
 
 Gli Istituti di credito, le Societa', gli Enti e le Ditte che abbiano emesso od emetteranno cartelle, certificati, obbligazioni, azioni ed altri titoli di qualunque specie, tanto definitivi quanto provvisori, non potranno prendere qualsiasi nota nelle loro scritture, ne' addivenire ad altre operazioni in dipendenza di trasferimento di detti titoli a causa di morte, senza averne fatta prima denunzia all'Ufficio del registro.
 
 Omettendosi questa denunzia, i contravventori incorreranno in una pena uguale all'ammontare della tassa dovuta per legge sui titoli ed azioni, come e' stabilito pei detentori con l'articolo 5 della legge 12 luglio 1888, n. 5515; e salva la responsabilita' solidale anche per la tassa che fosse tuttora da recuperarsi a carico degli eredi e legatari sui detti titoli, azioni o certificati.
 
-### Art. 12
+## Art. 12
 
 La disposizione contenuta nel comma 3° dell'articolo 2 della legge 22 luglio 1894, n. 339, s'intende applicabile soltanto nel caso in cui il debitore avesse assunto genericamente l'obbligo di pagare l'imposta di ricchezza mobile. Non s'intendono pertanto invalidati dalla detta disposizione i patti speciali relativi all'obbligo assuntosi espressamente dal debitore, anteriormente alla pubblicazione di detta legge, di sostenere a suo carico qualsiasi futuro aumento dell'imposta di ricchezza mobile o di ogni imposta, garantendo al creditore un determinato interesse netto.
 
-### Art. 13
+## Art. 13
 
 Salvo il disposto dell'articolo 8 della legge 22 luglio 1894, n. 339, la indennita' di residenza in annua somma fissa stabilita dall'articolo 7 della legge 7 luglio 1876, n. 3212, a favore degli impiegati civili ed uscieri od inservienti di ruolo delle amministrazioni dello Stato con sede in Roma, e' da ritenersi dovuta rispettivamente nella somma di lire 400 e di lire 300 agli impiegati ed agli uscieri od inservienti ammogliati o vedovi con figli, ovvero scapoli con genitori se conviventi con essi, quando almeno uno dei figli o dei genitori conviva con l'impiegato od usciere e sia a carico di lui; altrimenti gli impiegati ed uscieri od inservienti anzidetti sono da considerarsi rispettivamente come ammogliati senza prole o come scapoli.
 
-### Art. 14
+## Art. 14
 
 Il Governo del Re e' autorizzato a stipulare con le Societa' italiane per le strade ferrate esercenti le reti Mediterranea, Adriatica e Sicula gli accordi necessari per esonerarle dal servizio delle obbligazioni ferroviarie 3 per cento considerate dalla legge 27 aprile 1885, n. 3048, serie 3ª, con effetto a datare dal 31 dicembre 1895.
 
 A partire dal 1° gennaio 1896 il detto servizio sara' affidato alla Direzione generale del debito pubblico.
 
-### Art. 15
+## Art. 15
 
 A compimento della facolta' data al Governo del Re con l'articolo 5 della legge 22 luglio 1894, n. 347, esso e' autorizzato a prendere accordi con le Societa' italiane delle strade ferrate del Mediterraneo e Meridionali per il pagamento anticipato delle annualita' complementari ancora dovute dal Tesoro, ai termini dell'articolo 9 delle convenzioni sottoscritte addi' 20 e 21 giugno 1888 ed approvate con la legge 20 luglio 1888, n. 5550.
 
-### Art. 16
+## Art. 16
 
 E' abrogata la facolta' concessa dall'articolo 5, comma primo, dell'allegato L, approvato con l'articolo 12 della legge 22 luglio 1894, n. 339, di provvedere alle spese per le costruzioni ferroviarie e per le Casse per gli aumenti patrimoniali mediante emissione di titoli di rendita consolidata 4.50 per cento netto.
 
 Nelle dette spese s'intendono comprese anche quelle che potranno essere eventualmente impegnate cogli appalti da fare dopo la pubblicazione della presente legge per il compimento delle linee ferroviarie indicate nell'articolo 4 della legge 24 luglio 1887, n. 4785, e nell'articolo 4 della legge 20 luglio 1888, n. 5550.
 
-### Art. 17
+## Art. 17
 
 Sono approvate le disposizioni contenute nell'allegato L, che forma parte integrante della presente legge, riguardanti la conversione di vari debiti dello Stato e di buoni del Tesoro a lunga scadenza in consolidato 4.50 per cento netto esente da ritenuta per qualsiasi imposta presente e futura.
 
-### Art. 18
+## Art. 18
 
 I titoli del consolidato 4.50 per cento netto, esente da ritenuta per qualsiasi imposta presente e futura, emessi a norma dell'allegato L, approvato con l'articolo 12 della legge 22 luglio 1894, n. 339, e per effetto della presente legge, non potranno essere assoggettati a conversione a tutto il 30 giugno 1900.
 
-### Art. 19
+## Art. 19
 
 E' convertito in legge il Regio decreto 21 novembre 1894, n. 517 (Allegato M alla presente legge), che disciplina il cambio dei certificati nominativi e misti del consolidato 5 per cento con quelli nominativi e misti del nuovo consolidato 4 per cento netto.
 
-### Art. 20
+## Art. 20
 
 Nel limite massimo di 800 milioni di lire, fissato dall'articolo 2 dell'allegato I, approvato con l'articolo 11 della legge 22 luglio 1894, n. 339, per qualsiasi emissione di biglietti di Stato, e' compreso anche il valore nominale dei buoni di cassa da 1 e 2 lire, creati secondo le disposizioni approvate con l'articolo 14 della citata legge ed emessi contro immobilizzazione di monete divisionali italiane di argento.
 
@@ -170,27 +170,27 @@ Il Regio Decreto 6 dicembre 1896, n. 520, ha disposto (con l'art. 2, delle dispo
 
 Ha disposto (con l'art. 1, comma 2) che "Siffatte disposizioni avranno applicazione dopo il 1° gennaio 1897".
 
-### Art. 21
+## Art. 21
 
 Entro un mese dalla pubblicazione della presente legge, il ministro del Tesoro provvedera' al deposito, presso la Cassa dei depositi e prestiti, come riserva speciale di 400 milioni in biglietti di Stato presentemente emessi; della somma di 80 milioni di lire in specie d'oro e in monete d'argento di conio italiano, di cui non piu' di 20 milioni in moneta divisionale d'argento ai termini dell'articolo precedente.
 
-### Art. 22
+## Art. 22
 
 Compiuta l'estinzione dei debiti redimibili della tabella A, e al termine dell'esercizio 1898-99, nel quale si chiudera' l'operazione sui debiti redimibili della tabella B, secondo le disposizioni contenute nell'allegato M, approvato con l'articolo 13 della legge 22 luglio 1894, n. 339, l'avanzo che, per le disposizioni medesime, sarebbe devoluto al Tesoro dello Stato, sara', invece, destinato a diminuzione del debito pubblico, mediante corrispondente annullamento di rendita sul Gran Libro.
 
 Non potra' quindi essere destinata a scopo diverso da quello previsto dalla legge mentovata qualsiasi parte della rendita messa a disposizione della Cassa dei depositi e prestiti per il servizio dei debiti redimibili descritti nelle tabelle citate; e la stessa rendita non potra' essere alienata se non nelle proporzioni strettamente necessarie in ogni esercizio per provvedere, nella misura dei rispettivi stanziamenti di bilancio, i fondi occorrenti per gl'interessi, i premi e l'ammortizzazione dei debiti redimibili indicati.
 
-### Art. 23
+## Art. 23
 
 Tutti i fondi della Cassa dei depositi e prestiti, provenienti dai depositi del risparmio e dai depositi volontari, saranno impiegati per non meno di una meta' in titoli di Stato o garantiti dallo Stato, e pel resto in prestiti alle provincie, ai comuni e ai consorzi, ai termini delle leggi vigenti, o in conto corrente col Tesoro.
 
-### Art. 24
+## Art. 24
 
 A deroga di quanto dispone l'articolo 5 della legge 27 maggio 1875, n. 2779, il ministro del tesoro, di concerto col ministro dell'agricoltura, industria e commercio, e col ministro delle poste e telegrafi, avra' facolta' di mutare, anche semestralmente, la ragione dell'interesse sulle somme depositate a titolo di risparmio, quando lo esigano le condizioni del mercato.
 
 Per la prima volta, dopo la promulgazione della presente legge, purche' entro trenta giorni dalla pubblicazione di essa, la detta facolta' potra' essere esercitata pel tempo che manchera' a compier l'anno 1895.
 
-### Art. 25
+## Art. 25
 
 La ragione dell'interesse, da stabilirsi con decreti Reali, registrati alla Corte dei conti, per i buoni del Tesoro di ogni specie, che saranno emessi dopo la promulgazione della presente legge, sara' esente da ritenuta per qualsiasi imposta presente e futura.
 
@@ -198,7 +198,7 @@ Il ministro del Tesoro accordera' sui buoni del Tesoro che vengano ceduti dirett
 
 L'applicazione dell'articolo 61 del testo unico approvato col Regio decreto 24 agosto 1877, n. 4021, per quanto riguarda i buoni del Tesoro emessi anteriormente alla pubblicazione della presente legge, avra' effetto dal 31 dicembre 1895 in poi, detraendo dall'accertamento dei redditi propri o dei depositanti soggetti all'imposta di ricchezza mobile delle Casse di risparmio sopra accennate una somma uguale agli interessi netti derivanti dai buoni medesimi.
 
-### Art. 26
+## Art. 26
 
 Sono convertiti in legge:
 
@@ -206,17 +206,17 @@ il Regio decreto 12 ottobre 1894, num. 442, col quale e' unificata nel Ministero
 
 i Regi decreti 10 dicembre 1894, n. 534, 16 maggio 1895, n. 334, e 30 maggio 1895, n. 343, che approvano ed emendano il regolamento per la vigilanza sugli Istituti di emissione, riprodotti nell'allegato O, alla presente legge, con le modificazioni determinate dalla legge che costituisce l'allegato P, per il regolamento unico di vigilanza sulla circolazione e sugli Istituti di emissione.
 
-### Art. 27
+## Art. 27
 
 E' abrogato l'articolo 24 della legge 7 aprile 1881, n. 133.
 
 Sui provvedimenti, intorno ai quali doveva essere sentita la Commissione di che agli articoli 24 e 26 della citata legge, dara' il suo avviso, quando ne sia richiesta dal ministro del Tesoro, la Commissione permanente per la vigilanza sugli Istituti di emissione e sulla circolazione, istituita con l'articolo 3 del regolamento unico per la vigilanza sugli Istituti di emissione, di cui nell'articolo precedente della presente legge.
 
-### Art. 28
+## Art. 28
 
 E' convertito in legge il Regio decreto del 10 dicembre 1894, n. 533, riprodotto nell'allegato Q, alla presente legge, con cui si approva la convenzione stipulata il di' 30 ottobre 1894 fra il ministro del Tesoro e la Banca d'Italia, e si provvede intorno al personale reso disponibile dal passaggio del servizio di tesoreria alla Banca d'Italia.
 
-### Art. 29
+## Art. 29
 
 Restano ferme le disposizioni del primo comma dell'articolo 26 e degli articoli 27, 28 (2° comma), 29 e prima parte dell'articolo 30 della legge 10 agosto 1893, n. 449, riguardanti la liquidazione della Banca Romana, e sono abrogati l'articolo 18, il 1° comma dell'articolo 28 e l'ultima parte dell'articolo 30 della legge medesima.
 
@@ -226,7 +226,7 @@ Agli stessi effetti la riduzione delle tasse di registro all'unica tassa fissa d
 
 Ad ogni altra operazione riguardante la liquidazione medesima saranno estese tutte le riduzioni di tasse e sopratasse di registro concesse agli Istituti di emissione con le disposizioni dell'allegato R, approvato con l'articolo 37 della presente legge, e limitatamente ai termini stabiliti nelle dette disposizioni.
 
-### Art. 30
+## Art. 30
 
 A deroga dell'articolo 21 della legge 10 agosto 1893, n. 449, e dell'articolo 11 dell'allegato I, approvato coll'articolo 11 della legge 22 luglio 1894, n. 339, la somma totale delle anticipazioni ordinarie che gli Istituti d'emissione debbono fare al Tesoro e' fissata in 135 milioni di lire, cosi' ripartite:
 
@@ -260,13 +260,13 @@ Banco di Sicilia . . . » 5,000,000
 
 Ha disposto (con l'art. 1, comma 2) che "Siffatte disposizioni avranno applicazione dopo il 1° gennaio 1897".
 
-### Art. 31
+## Art. 31
 
 La quota della riserva degli Istituti di emissione che, ai termini dell'articolo 6 della legge 10 agosto 1893, n. 449, puo', fino al limite del 7 per cento, essere composta di divisa estera, potra' essere costituita, oltreche' di cambiali sull'estero pagabili in oro o in valuta a pieno titolo dell'Unione monetaria latina, di certificati di somme depositate in conto corrente all'estero, e pagabili in oro o in valuta a pieno titolo dell'Unione monetaria latina, presso le grandi Banche di emissione, o presso i banchieri e le Banche corrispondenti del Tesoro.
 
 Saranno stabiliti con decreto Reale, da emanarsi entro due mesi dalla pubblicazione della presente legge, i requisiti delle cambiali sull'estero ammesse a far parte della riserva, la forma dei certificati di conto corrente all'estero e le norme per il riscontro dei relativi depositi attivi.
 
-### Art. 32
+## Art. 32
 
 Le somme che gli Istituti di emissione possono tenere impiegate in rendita italiana, ai termini dell'art. 12 della legge 10 agosto 1893, n. 449, sono elevate:
 
@@ -280,11 +280,11 @@ Gli Istituti di emissione sono autorizzati a comprendere nelle dette somme, oltr
 
 Essi sono pure autorizzati ad impiegare in rendita consolidata italiana o nei detti titoli la parte libera della rispettiva massa di rispetto, all'infuori delle scorte fissate nei limiti di che sopra, o con disposizioni speciali aventi forza di legge.
 
-### Art. 33
+## Art. 33
 
 Agli effetti della graduale riduzione della circolazione richiesta dall'art. 2 della legge 10 agosto 1893, n. 449, il termine di 4 anni di cui nei comma 2 e 3 del detto articolo, e quello di 14 anni, di cui nei comma 3, 4, 6 e 7 dello stesso articolo, sono rispettivamente prolungati di un anno.
 
-### Art. 34
+## Art. 34
 
 I limiti fissati dall'art. 12 della legge 10 agosto 1893, n. 449, per l'ammontare dai depositi in conto corrente fruttifero sono elevati:
 
@@ -294,13 +294,13 @@ per il Banco di Sicilia a . . . » 15,000,000
 
 Rimane fermo quanto dispone l'articolo 2 dell'allegato E, approvato con l'articolo 10 della legge 22 luglio 1894, n. 339, sostituendo alle somme dei conti correnti fruttiferi indicate per i Banchi di Napoli e di Sicilia dalla citata legge del 10 agosto 1893 quelle riportate sopra.
 
-### Art. 35
+## Art. 35
 
 Durante il corso legale, la ragione dell'interesse per le anticipazioni indicate al n. 2 dell'articolo 12 della legge 10 agosto 1893, n. 449, sara' uguale per tutti gli Istituti e la medesima non potra' variare senza l'autorizzazione del Governo.
 
 A deroga delle disposizioni contenute nell'articolo 4 della legge 10 agosto 1893, n. 449, riguardante la ragione dello sconto durante il corso legale, e' data facolta' al Governo del Re di determinare con decreto Reale, da emanarsi entro tre mesi dalla pubblicazione della presente legge, le condizioni nelle quali, indipendentemente dalle eccezioni contemplate dal citato articolo 4 della detta legge 10 agosto 1893 e dall'articolo 13 dell'allegato T, approvato con l'articolo 39 della legge presente, gli Istituti di emissione potranno concedere sconti di effetti cambiari ad un saggio inferiore a quello normale.
 
-### Art. 36
+## Art. 36
 
 Agli effetti della liquidazione delle immobilizzazioni degli Istituti di emissione, il termine di 10 anni, di cui al comma 1° dell'articolo 13 della legge 10 agosto 1893, e' prorogato fino a 15 anni, ed al termine del biennio per la liquidazione di ciascun quinto delle immobilizzazioni stesse e' sostituito quello di un triennio.
 
@@ -308,15 +308,15 @@ Tale concessione resta subordinata per la Banca d'Italia al mantenimento dell'ob
 
 Le prescrizioni e le sanzioni dell'articolo 13 della citata legge 10 agosto 1893, riferentisi ai termini di 10 anni e rispettivamente di 2 anni, restano applicabili ai nuovi termini accordati, e l'ispezione straordinaria di cui al 2° comma dell'articolo 15 della stessa legge avra' luogo ogni triennio.
 
-### Art. 37
+## Art. 37
 
 Al comma 1° dell'articolo 19 della legge 10 agosto 1893, n. 449, sono sostituite le disposizioni contenute nell'allegato R, che forma parte integrante della presente legge.
 
-### Art. 38
+## Art. 38
 
 Sono approvate le disposizioni contenuto nell'allegato S, che forma parte integrante della presente legge, riguardanti i Crediti fondiari degli Istituti d'emissione.
 
-### Art. 39
+## Art. 39
 
 E' data facolta' al Governo del Re di riformare con decreto Reale, da emanarsi non piu' tardi del 30 novembre 1895, gli statuti dei due Banchi di Napoli e di Sicilia e delle Amministrazioni dipendenti, conservandone integre le funzioni ai termini della legge 10 agosto 1893, n. 449, e in base alle disposizioni di cui all'allegato T, che forma parte integrante della presente legge. ((79))
 
@@ -326,19 +326,19 @@ AGGIORNAMENTO (79)
 
 Il D.L. Luogotenenziale 10 maggio 1917, n. 826, convertito senza modificazioni dalla L. 17 aprile 1925, n. 473, ha disposto (con l'art. 1, comma 1) che "A deroga dell'art. 12, ultimo comma, dell'allegato T all'art. 39 della legge 8 agosto 1895, n. 486, la Cassa di risparmio del Banco di Napoli e' autorizzata a concedere alla Camera di commercio e industria di Napoli il prolungamento ad anni 30, a decorrere dal 1° gennaio 1915, del termine stabilito dall'art. 6 della legge 7 luglio 1902, n. 318, per estinguere con una rata annuale posticipata e costante di L. 15.925,86, tra capitale ed interessi, il residuale debito di L. 275.390,51 per il mutuo ipotecario di L. 500.000, stipulato con istrumento del 3 gennaio 1895".
 
-### Art. 40
+## Art. 40
 
 E' prorogato sino al 30 giugno 1896 il termine stabilito dall'articolo 8 della legge 10 agosto 1893, n. 449, per la cessazione di ogni emissione dei biglietti di banca presentemente in corso.
 
-### Art. 41
+## Art. 41
 
 A deroga del primo comma dell'articolo 27 della legge 10 agosto 1893, n. 449, i biglietti della Banca Romana che entro il mese di dicembre 1895 non fossero presentati per il cambio alla sede della Banca d'Italia in Roma saranno prescritti.
 
-### Art. 42
+## Art. 42
 
 Per la liquidazione della pensione di riposo degl'impiegati civili e degli ufficiali dell'esercito e della marina, sono approvate le disposizioni contenute nell'allegato U, che forma parte integrante della presente legge.
 
-### Art. 43
+## Art. 43
 
 Per le conversioni previste all'articolo 8 dell'allegato L, approvato con l'articolo 12 della legge 22 luglio 1894, n. 339, e che siano richieste anteriormente al 1° luglio 1896, e' data facolta' al Governo del Re di assumere, con decreto Reale, a carico del bilancio del Tesoro, l'importo dei diritti di bollo riguardanti i nuovi titoli 4 per cento netto da darsi in cambio della rendita consolidata 5 per cento. ((7))
 
@@ -348,11 +348,11 @@ AGGIORNAMENTO (7)
 
 La L. 2 luglio 1896, n. 253 ha disposto (con l'art. 5, comma 1) che "Il termine del 1° luglio 1896, di cui nell'art. 43 della legge 8 agosto 1895 n. 486, e' prorogato al 31 dicembre 1897".
 
-### Art. 44
+## Art. 44
 
 Per le conversioni previste all'articolo 1 dell'allegato L, approvato con l'articolo 12 della legge 22 luglio 1894, n. 339, e agli articoli 1, 6 e 7 dell'allegato L, approvato con l'articolo 17 della legge presente, e' data facolta' al Governo del Re di assumere, con decreto Reale, a carico del bilancio del Tesoro, l'importo dei diritti di bollo riguardanti i nuovi titoli 4.50 per cento netto, da darsi in cambio dei titoli da convertire.
 
-### Art. 45
+## Art. 45
 
 E' data facolta' al Governo del Re di pubblicare in testo unico da approvarsi con decreto Reale, sentito il Consiglio di Stato, tutte le disposizioni di legge che riguardano gl'Istituti di emissione e la circolazione dei biglietti di Banca.
 
@@ -384,13 +384,13 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le Finanze, ed in seg
 
 Abbiamo decretato e decretiamo:
 
-### Art. 1
+## Art. 1
 
 Sono introdotte le seguenti modificazioni nella tariffa generale dei dazi doganali:
 
 Parte di provvedimento in formato grafico
 
-### Art. 2
+## Art. 2
 
 La tassa interna sulla fabbricazione di glucosio solido e' stabilita come segue:
 
@@ -400,23 +400,23 @@ Per ogni quintale di glucosio solido di 2ª classe, L. 34.
 
 E' abrogato l'art. 5 della legge 10 luglio 1887, numero 4665 (serie 3ª).
 
-### Art. 3
+## Art. 3
 
 Nelle fabbriche che producono glucosi soggetti a diverse misure di tassa, le relative lavorazioni devono essere eseguite in periodi distinti, e i prodotti devono essere custoditi in locali separati, secondo le norme che saranno stabilite con decreto Reale.
 
-### Art. 4
+## Art. 4
 
 La tara di chilogrammi 12,50 per cento stabilita dall'articolo 8 della legge del 14 luglio 1891, n. 391, per le cassette di legno con due recipienti di latta contenenti olii minerali, e' ridotta a 11,50 per cento.
 
-### Art. 5
+## Art. 5
 
 Durante il primo trimestre dall'applicazione del presente decreto la restituzione della tassa sui prodotti contenenti zucchero che si esportano, continuera' a farsi nella misura stabilita dalla legge del 30 dicembre 1892, n. 733.
 
-### Art. 6
+## Art. 6
 
 La restituzione del dazio pagato sulla materia prima impiegata nella fabbricazione dei filati e tessuti di cotone sara' fatta a decorrere dal 10 gennaio 1895, nella misura di lire 4 per ogni quintale di filati o di lire 4,50 per ogni quintale di tessuti che saranno esportati all'estero colle norme che saranno determinate, udito il Consiglio di Stato, con decreto Reale.
 
-### Art. 7
+## Art. 7
 
 La tassa sulla fabbricazione della cicoria preparata e di ogni altra sostanza, che nel consumo possa servire agli usi della cicoria preparata e del caffe', e' riscossa sul prodotto effettivo accertato in tutte le fabbriche direttamente dagli agenti della finanza, esclusa ogni convenzione d'abbonamento.
 
@@ -426,7 +426,7 @@ I pacchetti e recipienti devono essere introdotti e conservati nei depositi e ne
 
 Pero' negli esercizi di vendita al minuto potra' essere tenuto aperto un pacchetto o recipiente per ogni marca di fabbrica.
 
-### Art. 8
+## Art. 8
 
 La tassa interna di fabbricazione degli spiriti e la sopratassa di confine sugli spiriti importati dall'estero, sono stabilite nella misura di lire 180 per ogni ettolitro di alcool anidro alla temperatura di gradi 15,56 del termometro centesimale.
 
@@ -440,7 +440,7 @@ I medicamenti ed i prodotti chimici a base d'alcool, oltre il dazio proprio stab
 
 La misura di detto tributo e' determinata dal ministro delle finanze, sentito il collegio dei periti doganali.
 
-### Art. 9
+## Art. 9
 
 L'abbuono da concedersi sullo spirito di prima distillazione per cali, dispersioni ed ogni altra passivita', e' stabilito nella misura:
 
@@ -450,13 +450,13 @@ b) di 15 per cento per le distillerie che estraggono lo spirito dalle frutta, da
 
 c) di 18 per cento per le fabbriche che distillano le materie di cui alla lettera b), esercitate da Societa' cooperative.
 
-### Art. 10
+## Art. 10
 
 Alle merci che a termini dell'articolo 81 della legge doganale non possono circolare o detenersi in qualunque modo nelle zone di vigilanza se non siano munite di una bolletta di legittimazione, sono aggiunti gli spiriti in quantita' maggiore di 10 litri.
 
 Sono abrogate le disposizioni contenute nel titolo II del testo unico della legge sugli spiriti, in data 29 agosto 1889, n. 6358 (serie 3ª), eccezione fatta per quelle contenute nell'art. 56.
 
-### Art. 11
+## Art. 11
 
 La restituzione della tassa di fabbricazione e della sopratassa sugli spiriti e' fatta per intero esclusivamente per gli spiriti impiegati nella preparazione dei vini tipici, Marsala, Porto o Vermouth, all'infuori della vigilanza dell'amministrazione, e nella misura del 90 per cento per i liquori che si esportano all'estero.
 
@@ -470,7 +470,7 @@ pel Marsala a gradi 23;
 
 » Vermouth » 18.
 
-### Art. 12
+## Art. 12
 
 La restituzione della tassa di fabbricazione sugli spiriti esportati all'estero:
 
@@ -482,37 +482,37 @@ e' fatta esclusivamente con detrazione degli accertamenti di fabbrica o dal cari
 
 L'abbuono ha luogo in ragione del 90 per cento, per lo spirito esportato in natura, ed in ragione dell'intiera tassa per quello aggiunto ai vini, ai mosti ed alle frutta, e pel cognac estratto dai depositi sotto vincolo doganale. Sugli spiriti esteri aggiunti in presenza degli agenti dell'amministrazione ai vini comuni, ai mosti ed alle frutta nazionali esportati, sara' abbuonata la intera sopratassa di confine.
 
-### Art. 13
+## Art. 13
 
 Sono abrogate le disposizioni finora vigenti, che riguardano la restituzione sugli spiriti esportati all'estero, sia in natura, sia aggiunti ai vini, ai mosti ed alle frutta.
 
-### Art. 14
+## Art. 14
 
 Pei vini conciati all'infuori dell'assistenza dell'amministrazione ed esportati all'estero dal 1° luglio corrente anno fino all'attuazione del presente decreto, le restituzioni di tasse saranno accordate nella misura media delle aliquote risultate dal riparto del contingente fisso, di cui all'art. 5 della legge 30 giugno 1890, n. 6915 (serie 3ª), per gli esercizi 1890-91 al 1893-94 inclusivamente.
 
 Le domande per la restituzione della tassa non presentate entro due mesi dall'attuazione del presente decreto, saranno prescritte.
 
-### Art. 15
+## Art. 15
 
 Sugli spiriti che all'attuazione del presente decreto esisteranno nei magazzini delle fabbriche, in quelli dei commercianti all'ingrosso e negli opifici di rettificazione, sara' riscossa la tassa di fabbricazione nella misura di lire 180 per ettolitro di alcool anidro, esclusa la tassa di vendita. Se i detti spiriti fossero soggetti alla sola tassa di vendita, saranno riscosse lire 40 per ettolitro di alcool anidro, se invece fossero soggetti alla sola tassa di fabbricazione, saranno riscosse lire 140.
 
-### Art. 16
+## Art. 16
 
 Per i liquori ed i cognac fabbricati prima dell'attuazione del presente decreto ed esportati, la restituzione sara' fatta in base alla tassa di fabbricazione di lire 180 esclusa pero' la tassa di vendita.
 
 Pei vini tipici conciati senza l'assistenza degli agenti di finanza la restituzione in base alla nuova tassa di lire 180 sara' fatta per le esportazioni che avranno luogo dal 1° luglio 1895 in poi.
 
-### Art. 17
+## Art. 17
 
 E' stabilita una tassa interna sulla raffinazione degli olii minerali greggi nazionali, nella misura di lire 10 per ogni quintale di prodotto ottenuto che appartenga alla classe di quelli considerati sotto il n. 7 b) della tariffa generale dei dazi doganali.
 
-### Art. 18
+## Art. 18
 
 Nel giorno in cui entrera' in vigore il presente decreto, sara' proceduto all'inventario del prodotto esistente nelle raffinerie di olii minerali greggi.
 
 E' in facolta' del raffinatore di pagare la tassa a misura della estrazione del prodotto, purche' lo custodisca in magazzini assimilati ai doganali.
 
-### Art. 19
+## Art. 19
 
 E' imposta a favore dello Stato una tassa sui fiammiferi fabbricati nel Regno ed una sopratassa su quelli importati dall'estero, nella misura di un centesimo di lira:
 
@@ -526,7 +526,7 @@ I fiammiferi con due capocchie accensibili pagano doppia tassa.
 
 Non sono soggetti a tassa i fiammiferi esportati all'estero.
 
-### Art. 20
+## Art. 20
 
 Chiunque raffini olii minerali greggi e fabbrichi fiammiferi deve essere in possesso di una licenza d'esercizio rilasciata dall'ufficio tecnico di finanza.
 
@@ -534,7 +534,7 @@ Questa licenza e' soggetta alla tassa di lire 100 per le raffinerie di olii mine
 
 Le raffinerie di olii minerali greggi e le fabbriche di fiammiferi sono soggette alla vigilanza permanente della finanza, ed i prodotti, appena ultimati, devono essere immessi e custoditi in appositi magazzini ai quali sono applicabili tutte le disposizioni della legge doganale per i magazzini di proprieta' privata, escluso l'obbligo della cauzione.
 
-### Art. 21
+## Art. 21
 
 I fiammiferi importati dall'estero, o fabbricati all'interno, non si possono mettere in vendita se non racchiusi entro involti, ossia scatole, bossoli, buste, pacchetti od astucci che portino impressa l'indicazione della fabbrica, siano muniti di apposite marche, e ne contengano un numero compreso nei limiti:
 
@@ -548,7 +548,7 @@ Le dette marche, ossia contrassegni della tassa pagata, saranno distribuite dagl
 
 L'aggio da concedersi dallo Stato ai ricevitori del registro per la vendita delle marche suindicate verra' stabilito per decreto Reale.
 
-### Art. 22
+## Art. 22
 
 Entro otto giorni dopo quello della pubblicazione del presente decreto nella Gazzetta ufficiale del Regno i fabbricanti e venditori di fiammiferi e di oggetti che nell'uso possano ad essi sostituirsi, devono denunziare all'ufficio tecnico di finanza le quantita' che ne possiedono ove queste superino i tre chilogrammi al lordo, e pagare le relative tasse presso l'ufficio finanziario indicato dal Ministero delle finanze.
 
@@ -564,7 +564,7 @@ E' considerato come deposito il possesso di fiammiferi in quantita' eccedente un
 
 Trascorsi tre mesi non sara' tollerata la circolazione od il deposito di qualsivoglia quantita' di fiammiferi che non siano nelle condizioni stabilite dall'art. 21.
 
-### Art. 23
+## Art. 23
 
 Sono considerati in contrabbando:
 
@@ -580,17 +580,17 @@ La raffinazione clandestina degli olii minerali greggi e la fabbricazione clande
 
 Sono pure applicabili le disposizioni di detta legge a tutte le altre infrazioni relative alle discipline sulla fabbricazione della cicoria e dei fiammiferi.
 
-### Art. 24
+## Art. 24
 
 Non verranno considerate come prodotte in contrabbando la cicoria e le sostanze che nei consumi possono servire agli usi della cicoria preparata e del caffe' esistenti fuori le fabbriche, che nei tre mesi dall'attuazione di questo decreto non siano poste nelle condizioni prescritte dall'art. 7.
 
-### Art. 25
+## Art. 25
 
 I proventi della tassa sulla raffinazione degli olii minerali greggi e sulla fabbricazione dei fiammiferi si imputano al capitolo 28 Tasse di fabbricazione dello stato di previsione dell'entrata per l'esercizio 1894-95.
 
 Gli stanziamenti fatti ai capitoli 91, 92 e 94 dello stato di previsione delle spese del Ministero delle finanze per lo stesso esercizio per indennita' al personale, per aggio ai contabili incaricati della riscossione e per provvista di materiale, sono rispettivamente aumentati di lire sessantamila (L. 60,000), di lire venticinquemila (L. 25,000) e di lire centosettantamila (L. 170,000).
 
-### Art. 26
+## Art. 26
 
 Il presente decreto entrera' in vigore nel giorno successivo a quello della sua pubblicazione nella Gazzetta ufficiale del Regno e sara' presentato al Parlamento per essere convertito in legge.
 
@@ -614,7 +614,7 @@ Allegato B all'articolo 2.
 
 Riforma delle tasse sulla cicoria e sul glucosio.
 
-### Art. 1
+## Art. 1
 
 La tassa di lire 50 il quintale stabilita sulla fabbricazione della cicoria preparata e di ogni altra sostanza, che nel consumo possa servire agli usi della cicoria preparata o del caffe', e' riscossa sul prodotto effettivo, accertato in tutte le fabbriche direttamente dagli agenti della finanza.
 
@@ -650,7 +650,7 @@ i) le disposizioni legislative e regolamentari, vigenti nel Regno relative alle 
 
 4° Cicoria e surrogati del caffe'. - Legge 3 giugno 1874, n. 1950, legge 2 aprile 1886, n. 3754, legge 8 agosto 1895, n. 486 (allegato B), R. decreto-legge 16 novembre 1921, n. 1593, R. decreto 16 aprile 1896, n. 107, e successive norme modificatrici e complementari".
 
-### Art. 2
+## Art. 2
 
 Chiunque inizi, eseguisca o compia in frode operazioni per la fabbricazione della cicoria preparata, o di qualsivoglia altra sostanza, che nel consumo possa servire agli usi della cicoria preparata o del caffe', e' punito con una multa, dal doppio al decuplo della tassa di fabbricazione, commisurata alla somma delle quantita' del prodotto ultimato, di quello in corso di lavorazione e delle materie prime esistenti nel locale di fabbrica e nei locali annessi, senza eccezioni rispetto al loro uso o destinazione. Dalla quantita' di materie prime e' dedotto il 25 per cento a titolo di calo di trasformazione. Qualora la multa risulti inferiore a lire 1,000, sara' applicata in questa somma. I prodotti, le materie prime e gli apparecchi sono confiscati.
 
@@ -706,7 +706,7 @@ i) le disposizioni legislative e regolamentari, vigenti nel Regno relative alle 
 
 4° Cicoria e surrogati del caffe'. - Legge 3 giugno 1874, n. 1950, legge 2 aprile 1886, n. 3754, legge 8 agosto 1895, n. 486 (allegato B), R. decreto-legge 16 novembre 1921, n. 1593, R. decreto 16 aprile 1896, n. 107, e successive norme modificatrici e complementari".
 
-### Art. 3
+## Art. 3
 
 Chiunque contraffaccia i contrassegni, che saranno stabiliti con decreto Reale, per l'identificazione dei pacchetti, o gli strumenti per la fabbricazione o per l'applicazione dei detti contrassegni, ovvero faccia uso di strumenti o contrassegni contraffatti, o ponga in vendita o in circolazione pacchetti muniti di tali contrassegni, e chiunque detenga contrassegni o strumenti contraffatti, ovvero detenga o ponga in uso, senza autorizzazione, i veri strumenti o i veri contrassegni, od alteri in qualsivoglia modo i contrassegni per fare da essi sparire le traccie dell'uso gia' fattone, o faccia uso di contrassegni cosi alterati, e' punito con le pene stabilite dal capo II, titolo VI, libro II del Codice penale.
 
@@ -762,7 +762,7 @@ i) le disposizioni legislative e regolamentari, vigenti nel Regno relative alle 
 
 4° Cicoria e surrogati del caffe'. - Legge 3 giugno 1874, n. 1950, legge 2 aprile 1886, n. 3754, legge 8 agosto 1895, n. 486 (allegato B), R. decreto-legge 16 novembre 1921, n. 1593, R. decreto 16 aprile 1896, n. 107, e successive norme modificatrici e complementari".
 
-### Art. 4
+## Art. 4
 
 Le contravvenzioni, che non siano espressamente previste dagli articoli precedenti e le infrazioni alle discipline, che saranno stabilite per regolamento, sono punite con multa da lire 10 a lire 100. (20)(22)(27)(32)(41)(55)(81)(83)((90))
 
@@ -854,7 +854,7 @@ i) le disposizioni legislative e regolamentari, vigenti nel Regno relative alle 
 
 4° Cicoria e surrogati del caffe'. - Legge 3 giugno 1874, n. 1950, legge 2 aprile 1886, n. 3754, legge 8 agosto 1895, n. 486 (allegato B), R. decreto-legge 16 novembre 1921, n. 1593, R. decreto 16 aprile 1896, n. 107, e successive norme modificatrici e complementari".
 
-### Art. 5
+## Art. 5
 
 L'azione per il piu' o meno riscosso si prescrive nel termine di due anni, tanto per l'Amministrazione quanto per il contribuente; pero' l'Amministrazione conserva ancora per un anno il diritto al risarcimento del danno sofferto, verso l'impiegato al quale fosse imputata la mancata o la incompleta riscossione.
 
@@ -882,7 +882,7 @@ i) le disposizioni legislative e regolamentari, vigenti nel Regno relative alle 
 
 4° Cicoria e surrogati del caffe'. - Legge 3 giugno 1874, n. 1950, legge 2 aprile 1886, n. 3754, legge 8 agosto 1895, n. 486 (allegato B), R. decreto-legge 16 novembre 1921, n. 1593, R. decreto 16 aprile 1896, n. 107, e successive norme modificatrici e complementari".
 
-### Art. 6
+## Art. 6
 
 Oltre a quanto e' indicato negli art. 1 e 2, saranno determinati con decreto Reale:
 
@@ -924,7 +924,7 @@ i) le disposizioni legislative e regolamentari, vigenti nel Regno relative alle 
 
 4° Cicoria e surrogati del caffe'. - Legge 3 giugno 1874, n. 1950, legge 2 aprile 1886, n. 3754, legge 8 agosto 1895, n. 486 (allegato B), R. decreto-legge 16 novembre 1921, n. 1593, R. decreto 16 aprile 1896, n. 107, e successive norme modificatrici e complementari".
 
-### Art. 7
+## Art. 7
 
 La tassa di fabbricazione del glucosio liquido e' ridotta da lire 30 a lire 23.
 
@@ -950,7 +950,7 @@ i) le disposizioni legislative e regolamentari, vigenti nel Regno relative alle 
 
 4° Cicoria e surrogati del caffe'. - Legge 3 giugno 1874, n. 1950, legge 2 aprile 1886, n. 3754, legge 8 agosto 1895, n. 486 (allegato B), R. decreto-legge 16 novembre 1921, n. 1593, R. decreto 16 aprile 1896, n. 107, e successive norme modificatrici e complementari".
 
-### Art. 8
+## Art. 8
 
 Il Governo del Re e' autorizzato a rivedere e completare le disposizioni regolamentari vigenti sulla tassa di fabbricazione del glucosio, e a determinare:
 
@@ -994,7 +994,7 @@ Allegato C all'articolo 2.
 
 Disposizioni riguardanti la tassa sulla raffinazione degli olii minerali.
 
-### Art. 1
+## Art. 1
 
 E' imposta a favore dello Stato una tassa interna sulla trasformazione o rettificazione degli olii minerali greggi e sull'estrazione degli olii minerali, di resina o di catrame dai residui della distillazione degli olii minerali, dal catrame o residui di catrame e da ogni altra materia, di origine estera o nazionale.
 
@@ -1026,17 +1026,17 @@ AGGIORNAMENTO (89)
 
 Il Regio Decreto 21 ottobre 1923, n. 2553, ha disposto (con l'art. 2, comma 1) che "La tassa interna nella trasformazione o rettificazione degli oli minerali greggi e sulla estrazione degli oli minerali di resina o di catrame dai residui di distillazione degli oli minerali, dal catrame o da ogni altra materia, di origine estera, stabilita dall'art. 1, lett. b), dell'allegato C) alla legge 8 agosto 1895, n. 486, e' abolita".
 
-### Art. 2
+## Art. 2
 
 Chiunque intenda trasformare o rettificare olii minerali greggi o estrarre gli olii minerali, di resina o di catrame dalle materie indicate nel precedente articolo deve munirsi di licenza, soggetta alla tassa di lire 50.
 
-### Art. 3
+## Art. 3
 
 Gli opifici destinati alla trasformazione o rettificazione di olii minerali, di resina, o di catrame, nazionali od esteri, o alla estrazione di questi olii dalle materie indicate nell'articolo 1° sono sottoposti alla vigilanza permanente dell'Amministrazione.
 
 I fabbricanti sono inoltre tenuti a mettere gratuitamente a disposizione degli agenti di finanza un apposito locale nell'interno dello stabilimento, nelle condizioni che saranno stabilite dal Regolamento.
 
-### Art. 4
+## Art. 4
 
 La trasformazione, rettificazione o estrazione clandestina di olii minerali, di resina o di catrame, e' punita colla detenzione da tre mesi a due anni e con una multa non minore del doppio ne' maggiore del decuplo dei diritti dovuti sulla quantita' di prodotto ottenuto clandestinamente e sulla quantita' estraibile dalle materie greggie rinvenute nella fabbrica.
 
@@ -1072,7 +1072,7 @@ In ogni caso, se il fatto costituente la contravvenzione non sia in tutto od in 
 
 Per la ripartizione delle multe e per quanto non sia espressamente disposto riguardo alle contravvenzioni saranno osservate le norme della legge doganale e del relativo regolamento Pero' il provento della confisca dei generi sequestrati si devolve per intero all'erario.))
 
-### Art. 5
+## Art. 5
 
 Con decreto Reale saranno stabilite:
 
@@ -1082,7 +1082,7 @@ b) le discipline e le condizioni per l'accertamento e la riscossione della tassa
 
 c) le disposizioni atte a rimuovere i pericoli di frode a danno della Finanza.
 
-### Art. 6
+## Art. 6
 
 Sono abrogati gli articoli 3, 4, 5, 6 e 7 della legge n. 391 del 14 luglio 1891.
 
@@ -1096,7 +1096,7 @@ Allegato D all'articolo 2.
 
 Nuovo testo di legge sugli spiriti.
 
-### Art. 1
+## Art. 1
 
 Misura della tassa.
 
@@ -1112,7 +1112,7 @@ I generi medicinali, i medicamenti composti ed i prodotti chimici non specialmen
 
 La misura del detto tributo e' determinata dal ministro delle finanze, sentito il Collegio dei periti.
 
-### Art. 2
+## Art. 2
 
 Esenzioni - Adulterazione dei residui della rettificazione.
 
@@ -1124,7 +1124,7 @@ I residui della rettificazione non potranno essere messi in commercio, se prima 
 
 I residui adulterati godranno di un rimborso di tassa di lire 40 all'ettolitro.
 
-### Art. 3
+## Art. 3
 
 Classificazione delle fabbriche.
 
@@ -1140,7 +1140,7 @@ Per le fabbriche di nuovo impianto si avra' riguardo alla potenzialita' degli ap
 
 La produttivita' giornaliera sara' determinata avuto riguardo alla capacita' media utilizzata di ciascun lambicco, alle materie da adoperarsi ed al modo con cui ha luogo la distillazione, tenendo conto di tutte le circostanze che possono influire sulla quantita' del prodotto.
 
-### Art. 4
+## Art. 4
 
 Abbuoni per le perdite di fabbricazione.
 
@@ -1154,7 +1154,7 @@ c) di diciotto per cento per le fabbriche di seconda categoria esercitate dalle 
 
 La distillazione di materie, cui spetta abbuono diverso, potra' essere eseguita in una medesima fabbrica, purche' cio' avvenga in tempi diversi e con apparecchi diversi ed affatto disgiunti e collocati in locali non aventi tra loro alcuna comunicazione interna.
 
-### Art. 5
+## Art. 5
 
 Vigilanza.
 
@@ -1166,7 +1166,7 @@ Nelle fabbriche, che pagano la tassa in ragione della produttivita' giornaliera 
 
 Per quanto si riferisca alle perquisizioni domiciliari esse continueranno ad essere regolate dalle disposizioni vigenti.
 
-### Art. 6
+## Art. 6
 
 Liquidazione e pagamento della tassa.
 
@@ -1180,7 +1180,7 @@ I fabbricanti devono dare una cauzione corrispondente al presunto ammontare dell
 
 Qualora il fabbricante si obblighi a depositare lo spirito in un magazzino annesso alla fabbrica ed a pagare la tassa direttamente nella Tesoreria prima dell'estrazione dello spirito ed in ragione della quantita' da estrarre, la cauzione sara' limitata ad un decimo della tassa corrispondente alla quantita' massima dello spirito che sara' introdotta nel magazzino. Pero', anche in questo caso, il debito del fabbricante e' costituito dalla liquidazione della tassa fatta alla fine di ogni mese, giusta il comma primo.
 
-### Art. 7
+## Art. 7
 
 Trasporti vincolati a bolletta a cauzione.
 
@@ -1194,7 +1194,7 @@ c) dai magazzini dei commercianti all'ingrosso alle dogane ed ai depositi dogana
 
 Gli spiriti aggiunti ai vini, ai mosti ed alle frutta non che i cognac dovranno essere accompagnati da bolletta a cauzione dagli stabilimenti di concia o dai magazzini di preparazione alle dogane, per le quali avviene la loro esportazione.
 
-### Art. 8
+## Art. 8
 
 Magazzini dei rettificatori, dei commercianti all'ingrosso, degli esercenti stabilimenti per la concia dei vini, dei mosti e delle frutta.
 
@@ -1214,7 +1214,7 @@ I commercianti all'ingrosso, gli esercenti di stabilimenti per la concia dei vin
 
 E' pure dovuta una cauzione per l'esercizio dei magazzini annessi agli opifici di rettificazione, ma limitata ad un decimo della tassa come sopra calcolata.
 
-### Art. 9
+## Art. 9
 
 Magazzini per la preparazione del cognac.
 
@@ -1228,7 +1228,7 @@ Non si concedera' l'abbuono se lo spirito di vino non sara' rimasto in deposito 
 
 Per le frazioni di anno, al di la' dei tre anni, l'abbuono si liquida in ragione di mesi compiuti.
 
-### Art. 10
+## Art. 10
 
 Industria agevolata.
 
@@ -1240,7 +1240,7 @@ I fabbricanti di aceto dovranno custodire lo spirito loro concesso a tassa ridot
 
 Gli stessi fabbricanti presteranno una cauzione per la tassa o la sopratassa di fabbricazione non abbonata.
 
-### Art. 11
+## Art. 11
 
 Privilegio sugli spiriti vincolati alla tassa.
 
@@ -1248,7 +1248,7 @@ Gli spiriti esistenti nelle fabbriche e quelli introdotti nei magazzini sottopos
 
 Le cosidette teste e code non sono ammesso a guarentigia della tassa.
 
-### Art. 12
+## Art. 12
 
 Circolazione e deposito degli spiriti.
 
@@ -1262,7 +1262,7 @@ I caratteri delle bevande alcooliche saranno determinati con decreto Reale.
 
 Le controversie sul punto: se un liquido sia spirito o bevanda alcoolica, saranno definite colle norme fissate per la risoluzione delle controversie sulla applicazione della tariffa doganale.
 
-### Art. 13
+## Art. 13
 
 Restituzione di tassa pei vini tipici e pei liquori che si esportano.
 
@@ -1276,7 +1276,7 @@ Il limite massimo per la restituzione della tassa sullo spirito aggiunto ai dett
 
 Per i liquori esportati all'estero, la restituzione e' concessa nella misura del 90 per cento della tassa.
 
-### Art. 14
+## Art. 14
 
 Abbuoni per le esportazioni.
 
@@ -1294,7 +1294,7 @@ L'abbuono della tassa di fabbricazione e' di 90 per cento per lo spirito esporta
 
 Sugli spiriti esteri aggiunti, in presenza degli agenti dell'Amministrazione, ai vini od ai mosti esportati all'estero, sara' abbuonata la sopratassa di confine.
 
-### Art. 15
+## Art. 15
 
 Prescrizione delle restituzioni e degli abbuoni.
 
@@ -1302,7 +1302,7 @@ Le domande per ottenere l'abbuono o la restituzione dovranno essere sempre corre
 
 Gli abbuoni e le restituzioni di tassa, di cui nei due articoli precedenti, non domandati nel termine di anni due dalla data della bolletta doganale di uscita, rimarranno prescritti.
 
-### Art. 16
+## Art. 16
 
 Ingiunzione - Prescrizione dell'azione pel risarcimento degli errori di liquidasione.
 
@@ -1310,13 +1310,13 @@ Le disposizioni degli articoli 17 e 18 della legge doganale riguardanti i diritt
 
 La prescrizione biennale e' estesa ai rimborsi di tassa per sospensione di lavoro nelle fabbriche in causa di forza maggiore.
 
-### Art. 17
+## Art. 17
 
 Spese di vigilanza a carico degli interessati.
 
 Sono a carico degli interessati le indennita' di viaggio e di soggiorno agli agenti dell'Amministrazione delegati alla vigilanza sugli opifici di trasformazione, sugli stabilimenti per la concia dei vini, dei mosti e delle frutta da esportarsi, sulle fabbriche di liquori da esportarsi, sui magazzini dei commercianti all'ingrosso e sulle fabbriche di aceto.
 
-### Art. 18
+## Art. 18
 
 Pene per la fabbricazione clandestina.
 
@@ -1326,7 +1326,7 @@ Gli apparecchi, i prodotti e le materie alcooliche ed alcoolizzabili cadono in c
 
 La fabbricazione clandestina e' provata anche dalla sola presenza, in uno stesso locale od in locali annessi od attigui, dell'apparecchio di distillazione o di parte di esso, e di materie alcooliche od alcoolizzabili, prima che la fabbrica e gli apparecchi siano stati denunziati all'ufficio tecnico di finanza e da esso verificati.
 
-### Art. 19
+## Art. 19
 
 Contravvenzioni e pene.
 
@@ -1352,7 +1352,7 @@ Qualora col fatto che ha dato luogo alla contravvenzione sia stata o possa esser
 
 L'azione giudiziaria per le contravvenzioni si prescrive in un anno; pero' un atto giudiziario interrompe la prescrizione.
 
-### Art. 20
+## Art. 20
 
 Decisione amministrativa.
 
@@ -1360,7 +1360,7 @@ Prima che il giudice ordinario abbia emessa la sentenza e questa sia passata in 
 
 La decisione amministrativa spetta all'Intendenza di finanza senza limite di somma, e si estende alla confisca ed alle spese.
 
-### Art. 21
+## Art. 21
 
 Riparto delle multe.
 
@@ -1368,7 +1368,7 @@ La ripartizione del prodotto delle multe si fa con le norme dettate dalla legge 
 
 Il prodotto della vendita degli oggetti caduti in confisca appartiene allo Stato.
 
-### Art. 22
+## Art. 22
 
 Regolamento.
 
@@ -1404,7 +1404,7 @@ o) i provvedimenti di carattere transitorio;
 
 p) le disposizioni che, udito il Consiglio superiore di Sanita', siano necessarie a tutela della pubblica igiene, subordinando anche alla loro osservanza le concessioni di agevolezze, di restituzioni e di abbuoni stabilite dalla presente legge.
 
-### Art. 23
+## Art. 23
 
 Testo della legge sugli spiriti.
 
@@ -1420,7 +1420,7 @@ Allegato E all'articolo 2.
 
 Legge riguardante la tassa sulla fabbricazione dei fiammiferi.
 
-### Art. 1
+## Art. 1
 
 E' imposta a favore dello Stato una tassa sui fiammiferi fabbricati nel Regno ed una sopratassa su quelli importati dall'estero, nella misura di un centesimo di lira ogni 30 fiammiferi di cera oppure di legno o d'altra materia fini, cioe' parafinati, stearinati, ecc. e nella stessa misura ogni 3 fiammiferi di cera detti ascendiscala, ed ogni 60 di legno o d'altra materia, comuni, cioe' solforati.
 
@@ -1434,7 +1434,7 @@ AGGIORNAMENTO (85)
 
 Il Regio Decreto 11 marzo 1923, n. 560, ha disposto (con l'art. 8, comma 1) che "Restano in vigore le disposizioni riguardanti la fabbricazione e la vendita dei fiammiferi contenute nella legge 8 agosto 1895, n. 486, allegato E, e nel relativo regolamento in quanto siano applicabili e non contrarie a quelle fissate nel presente decreto".
 
-### Art. 2
+## Art. 2
 
 Sono considerati come fiammiferi e percio' sottoposti alle disposizioni di questa legge i bastoncini, i fuscelli e le listerelle di qualunque materia, preparati in modo da accendersi o produrre fuoco per sfregamento o per contatto con altra materia che non sia in combustione.
 
@@ -1456,7 +1456,7 @@ AGGIORNAMENTO (85)
 
 Il Regio Decreto 11 marzo 1923, n. 560, ha disposto (con l'art. 8, comma 1) che "Restano in vigore le disposizioni riguardanti la fabbricazione e la vendita dei fiammiferi contenute nella legge 8 agosto 1895, n. 486, allegato E, e nel relativo regolamento in quanto siano applicabili e non contrarie a quelle fissate nel presente decreto".
 
-### Art. 3
+## Art. 3
 
 Chiunque fabbrichi fiammiferi deve essere in possesso di licenza d'esercizio, soggetta alla tassa di L. 10 per la produzione esclusiva di quelli di legno o d'altra materia solforati, e di L. 20 per la produzione dei fiammiferi di ogni altra specie.
 
@@ -1478,7 +1478,7 @@ AGGIORNAMENTO (85)
 
 Il Regio Decreto 11 marzo 1923, n. 560, ha disposto (con l'art. 8, comma 1) che "Restano in vigore le disposizioni riguardanti la fabbricazione e la vendita dei fiammiferi contenute nella legge 8 agosto 1895, n. 486, allegato E, e nel relativo regolamento in quanto siano applicabili e non contrarie a quelle fissate nel presente decreto".
 
-### Art. 4
+## Art. 4
 
 I fiammiferi impostati dall'estero o fabbricati all'interno, non si possono mettere in vendita se non entro involucri, ossia scatole, bossoli, buste, pacchetti od astucci che portino impressa l'indicazione della fabbrica e siano chiusi con apposita marca, di valore corrispondente alla tassa dovuta sul numero dei fiammiferi in essi contenuti. Questo numero dovra' mantenersi nei limiti:
 
@@ -1522,7 +1522,7 @@ AGGIORNAMENTO (85)
 
 Il Regio Decreto 11 marzo 1923, n. 560, ha disposto (con l'art. 8, comma 1) che "Restano in vigore le disposizioni riguardanti la fabbricazione e la vendita dei fiammiferi contenute nella legge 8 agosto 1895, n. 486, allegato E, e nel relativo regolamento in quanto siano applicabili e non contrarie a quelle fissate nel presente decreto".
 
-### Art. 5
+## Art. 5
 
 Ai fabbricanti sara' concessa una dotazione a fido di marche in misura corrispondente ai bisogni della lavorazione per un periodo massimo di quaranta giorni, a condizione:
 
@@ -1540,7 +1540,7 @@ AGGIORNAMENTO (85)
 
 Il Regio Decreto 11 marzo 1923, n. 560, ha disposto (con l'art. 8, comma 1) che "Restano in vigore le disposizioni riguardanti la fabbricazione e la vendita dei fiammiferi contenute nella legge 8 agosto 1895, n. 486, allegato E, e nel relativo regolamento in quanto siano applicabili e non contrarie a quelle fissate nel presente decreto".
 
-### Art. 6
+## Art. 6
 
 Potra' essere consentita la estrazione dei fiammiferi dal magazzino sotto vincolo della finanza, senza soddisfare alla condizione di cui alla lettera b dell'articolo precedente, sempreche' il fabbricante guarentisca il fido con deposito, presso la Sezione di Tesoreria provinciale, di rendita pubblica o di numerario, o con cauzione da prestarsi nei modi che saranno determinati dal regolamento.
 
@@ -1558,7 +1558,7 @@ AGGIORNAMENTO (85)
 
 Il Regio Decreto 11 marzo 1923, n. 560, ha disposto (con l'art. 8, comma 1) che "Restano in vigore le disposizioni riguardanti la fabbricazione e la vendita dei fiammiferi contenute nella legge 8 agosto 1895, n. 486, allegato E, e nel relativo regolamento in quanto siano applicabili e non contrarie a quelle fissate nel presente decreto".
 
-### Art. 7
+## Art. 7
 
 I fabbricanti saranno indennizzati delle perdite loro cagionate:
 
@@ -1578,7 +1578,7 @@ AGGIORNAMENTO (85)
 
 Il Regio Decreto 11 marzo 1923, n. 560, ha disposto (con l'art. 8, comma 1) che "Restano in vigore le disposizioni riguardanti la fabbricazione e la vendita dei fiammiferi contenute nella legge 8 agosto 1895, n. 486, allegato E, e nel relativo regolamento in quanto siano applicabili e non contrarie a quelle fissate nel presente decreto".
 
-### Art. 8
+## Art. 8
 
 I fiammiferi, nonche' il macchinario e tutto il materiale mobile esistente nella fabbrica, guarentiscono la finanza dei suoi crediti a preferenza di ogni altro creditore.
 
@@ -1594,7 +1594,7 @@ AGGIORNAMENTO (85)
 
 Il Regio Decreto 11 marzo 1923, n. 560, ha disposto (con l'art. 8, comma 1) che "Restano in vigore le disposizioni riguardanti la fabbricazione e la vendita dei fiammiferi contenute nella legge 8 agosto 1895, n. 486, allegato E, e nel relativo regolamento in quanto siano applicabili e non contrarie a quelle fissate nel presente decreto".
 
-### Art. 9
+## Art. 9
 
 Per le visite degli Agenti governativi alle fabbriche di fuscelli o d'altro per ricavarne fiammiferi, alle fabbriche di fiammiferi, ed ovunque se ne eserciti la vendita, e per le relative perquisizioni domiciliari, sono applicabili le disposizioni contenute nell'art. 21 della legge sulle polveri piriche ed altri prodotti esplodenti del 14 luglio 1891, n. 682.
 
@@ -1606,7 +1606,7 @@ AGGIORNAMENTO (85)
 
 Il Regio Decreto 11 marzo 1923, n. 560, ha disposto (con l'art. 8, comma 1) che "Restano in vigore le disposizioni riguardanti la fabbricazione e la vendita dei fiammiferi contenute nella legge 8 agosto 1895, n. 486, allegato E, e nel relativo regolamento in quanto siano applicabili e non contrarie a quelle fissate nel presente decreto".
 
-### Art. 10
+## Art. 10
 
 La fabbricazione clandestina di fiammiferi e' punita con una multa fissa di lire mille e con una multa variabile dal doppio al decuplo della tassa sui fiammiferi preparati e su quelli in corso di preparazione o che si sarebbero potuti preparare colle materie prime rinvenute. Tale fabbricazione e' legalmente provata anche dalla sola presenza in un luogo qualunque di alcuna delle materie prime e di parte degli apparecchi atti alla preparazione di fiammiferi.
 
@@ -1662,7 +1662,7 @@ AGGIORNAMENTO (85)
 
 Il Regio Decreto 11 marzo 1923, n. 560, ha disposto (con l'art. 8, comma 1) che "Restano in vigore le disposizioni riguardanti la fabbricazione e la vendita dei fiammiferi contenute nella legge 8 agosto 1895, n. 486, allegato E, e nel relativo regolamento in quanto siano applicabili e non contrarie a quelle fissate nel presente decreto".
 
-### Art. 11
+## Art. 11
 
 I processi verbali di accertamento delle contravvenzioni sono compilati dagli agenti scopritori, e fanno fede in giudizio fino a prova contraria.
 
@@ -1684,7 +1684,7 @@ AGGIORNAMENTO (85)
 
 Il Regio Decreto 11 marzo 1923, n. 560, ha disposto (con l'art. 8, comma 1) che "Restano in vigore le disposizioni riguardanti la fabbricazione e la vendita dei fiammiferi contenute nella legge 8 agosto 1895, n. 486, allegato E, e nel relativo regolamento in quanto siano applicabili e non contrarie a quelle fissate nel presente decreto".
 
-### Art. 12
+## Art. 12
 
 Con decreto Reale, udito il parere del Consiglio di Stato, sara' provveduto mediante regolamento all'esecuzione di questa legge, determinando:
 
@@ -1720,7 +1720,7 @@ Allegato F all'articolo 3.
 
 Legge riguardante la tassa sul gas-luce e sull'energia elettrica a scopo di illuminazione e di riscaldamento.
 
-### Art. 1
+## Art. 1
 
 L'imposta sul consumo del gas e dell'energia elettrica e' stabilita nella misura:
 
@@ -1780,7 +1780,7 @@ i) le disposizioni legislative e regolamentari, vigenti nel Regno relative alle 
 
 5° Gas, luce ed energia elettrica. - Legge 8 agosto 1895, n. 486 (allegato F), R. decreto 29 settembre 1895, numero 624, e successive norme modificatrici e complementari".
 
-### Art. 2
+## Art. 2
 
 L'imposta e' pagata dal fabbricante direttamente in tesoreria con diritto di rivalsa sui consumatori.
 
@@ -1836,7 +1836,7 @@ i) le disposizioni legislative e regolamentari, vigenti nel Regno relative alle 
 
 5° Gas, luce ed energia elettrica. - Legge 8 agosto 1895, n. 486 (allegato F), R. decreto 29 settembre 1895, numero 624, e successive norme modificatrici e complementari".
 
-### Art. 3
+## Art. 3
 
 1\. - La liquidazione dell'imposta e' fatta dall'Ufficio tecnico di finanza in base:
 
@@ -1924,7 +1924,7 @@ i) le disposizioni legislative e regolamentari, vigenti nel Regno relative alle 
 
 5° Gas, luce ed energia elettrica. - Legge 8 agosto 1895, n. 486 (allegato F), R. decreto 29 settembre 1895, numero 624, e successive norme modificatrici e complementari".
 
-### Art. 4
+## Art. 4
 
 1\. - Il fabbricante, che fornisce energia elettrica a cottimo per usi soggetti a tassa per una determinata potenza in Kilowatt, e' ammesso, per tale fornitura, a pagare l'imposta con un canone annuo nei modi indicati dall'art. n. 1 sostituito all'art. 3 come sopra.
 
@@ -2002,7 +2002,7 @@ i) le disposizioni legislative e regolamentari, vigenti nel Regno relative alle 
 
 5° Gas, luce ed energia elettrica. - Legge 8 agosto 1895, n. 486 (allegato F), R. decreto 29 settembre 1895, numero 624, e successive norme modificatrici e complementari".
 
-### Art. 5
+## Art. 5
 
 E' affidata a Comitati peritali residenti nei capoluoghi di provincia o ad una Commissione centrale presso il Ministero delle finanze, da nominarsi con le modalita' stabilite dal regolamento, la risoluzione dei ricorsi cui diano luogo:
 
@@ -2050,7 +2050,7 @@ i) le disposizioni legislative e regolamentari, vigenti nel Regno relative alle 
 
 5° Gas, luce ed energia elettrica. - Legge 8 agosto 1895, n. 486 (allegato F), R. decreto 29 settembre 1895, numero 624, e successive norme modificatrici e complementari".
 
-### Art. 6
+## Art. 6
 
 La licenza di esercizio vale per la persona o la ditta, e per l'officina e per il Comune o i Comuni in essa indicati, e' efficace per l'anno solare nel quale e' rilasciata, ed e' soggetta al diritto:
 
@@ -2112,7 +2112,7 @@ i) le disposizioni legislative e regolamentari, vigenti nel Regno relative alle 
 
 5° Gas, luce ed energia elettrica. - Legge 8 agosto 1895, n. 486 (allegato F), R. decreto 29 settembre 1895, numero 624, e successive norme modificatrici e complementari".
 
-### Art. 7
+## Art. 7
 
 1\. - L'Amministrazione ha facolta' di applicare nelle officine di gas o di energia elettrica suggelli, bolli, ed apparecchi di sicurezza e di riscontro.
 
@@ -2182,7 +2182,7 @@ i) le disposizioni legislative e regolamentari, vigenti nel Regno relative alle 
 
 5° Gas, luce ed energia elettrica. - Legge 8 agosto 1895, n. 486 (allegato F), R. decreto 29 settembre 1895, numero 624, e successive norme modificatrici e complementari".
 
-### Art. 8
+## Art. 8
 
 1\. - Salve le maggiori pene stabilite dal codice penale, e' punito con la multa variabile da L. 100 a L. 1000, nonche' con la multa proporzionale dal doppio al decuplo della tassa frodata o che pote' essere frodata, il fabbricante od il rappresentante, di cui al secondo comma dell'art. n. 3 sostituito come sopra all'articolo 4, che:
 
@@ -2288,7 +2288,7 @@ i) le disposizioni legislative e regolamentari, vigenti nel Regno relative alle 
 
 5° Gas, luce ed energia elettrica. - Legge 8 agosto 1895, n. 486 (allegato F), R. decreto 29 settembre 1895, numero 624, e successive norme modificatrici e complementari".
 
-### Art. 9
+## Art. 9
 
 Con decreto Reale sara' fissato il giorno in cui, non piu' tardi di tre mesi dalla sua pubblicazione, andra' in vigore la presente legge.
 
@@ -2346,19 +2346,19 @@ Allegato G all'articolo 3.
 
 Disposizioni sulle tasse ipotecarie e gli emolumenti dei conservatori delle ipoteche.
 
-### Art. 1
+## Art. 1
 
 Gli emolumenti dei conservatori delle ipoteche, fissati dalla tariffa annessa alla legge 13 settembre 1874, n. 2079 (serie 2ª) per le formalita' ipotecarie e pel rilascio di stati o certificati ipotecari, copie od estratti, sono aboliti.
 
 Rimangono invariati a profitto dei conservatori gli altri emolumenti di che ai n. 3, 9, 10, 1l e 12 della tariffa stessa.
 
-### Art. 2
+## Art. 2
 
 Le tasse ipotecarie stabilite dagli articoli 1 a 5 della suddetta legge 13 settembre 1874, n. 2079 sono modificate come nella tariffa annessa alla presente legge.
 
 Le tasse medesime non sono soggette all'aumento dei due decimi.
 
-### Art. 3
+## Art. 3
 
 Gli stati o certificati generali e speciali delle iscrizioni, rinnovazioni o trascrizioni, le copie od estratti delle medesime, delle annotazioni e dei documenti depositati nell'Ufficio saranno scritti su carta col bollo di lire due e centesimi quaranta, qualunque sia il numero dei fogli impiegati.
 
@@ -2396,7 +2396,7 @@ Il Regio Decreto 20 maggio 1897, n. 217, ha disposto (con l'art. 153, comma 1) c
 
 Legge 8 agosto 1895, n. 486. allegato G, art. 3".
 
-### Art. 4
+## Art. 4
 
 Per ogni stato, certificato, copia od estratto di che nel precedente articolo 3 e parimente per ogni formalita' di annotamento, il richiedente deve presentare al conservatore una domanda sulla ordinaria carta col bollo da lire 1.20.
 
@@ -2404,7 +2404,7 @@ Saranno pero' scritte su carta senza bollo le domande suindicate quando le richi
 
 Nulla e' innovato circa la forma e le modalita' delle richieste di stati e certificati ipotecari, che si fanno dagli esattori delle imposte dirette e dagli Uffici governativi.
 
-### Art. 5
+## Art. 5
 
 I conservatori delle ipoteche e di ricevitori del registro incaricati del servizio ipotecario sono rispettivamente retribuiti con uno stipendio od un assegno fisso nella misura determinata dall'annessa tabella, ed inoltre con gli emolumenti lasciati a loro profitto dall'articolo 1 della presente legge.
 
@@ -2418,7 +2418,7 @@ Tuttavia per i titolari in carica al giorno dell'attuazione della presente legge
 
 Decreto 10 agosto 1893, n. 492.
 
-### Art. 6
+## Art. 6
 
 In compenso di tutte le spese d'ufficio designate nell'articolo 26 della legge 13 settembre 1874 n. 2079 (serie 2ª) e che rimangono ad esclusivo carico dei conservatori delle ipoteche, e' ad essi accordata una indennita' da stabilirsi in ragione del numero delle formalita' eseguite dall'uffizio, e nella misura e coi criteri che saranno determinati annualmente con decreto Reale, ed inoltre, una compartecipazione al prodotto della vendita della carta speciale per gli stati e certificati ipotecari di che all'articolo 3, parimente da determinarsi con decreto Reale.
 
@@ -2426,13 +2426,13 @@ Non saranno calcolate per la determinazione della suddetta indennita' le formali
 
 Delle formalita' eseguite a debito sara' tenuto conto soltanto all'epoca del recupero.
 
-### Art. 7
+## Art. 7
 
 Al posto di conservatore delle ipoteche potranno concorrere gli impiegati dipendenti dal Ministero delle finanze che coprano da non meno di quattro anni un grado non inferiore a quello di segretario capo, e gli ispettori e i capi degli uffici esecutivi dipendenti dallo stesso Ministero, che abbiano uno stipendio o rispettivamente un aggio medio, calcolato sulla base dell'ultimo triennio, non inferiore ad annue lire 3,500 al netto delle spese legali d'ufficio.
 
 I concorrenti potranno conseguire solamente la classe uguale o quella immediatamente superiore allo stipendio od aggio netto di cui sono provvisti.
 
-### Art. 8
+## Art. 8
 
 Col decorso di due anni dal pagamento della tassa ipotecaria sara' prescritta l'azione delle parti per la restituzione delle tasse pagate. ((78))
 
@@ -2446,11 +2446,11 @@ Il Decreto Luogotenenziale 1 aprile 1917, n. 558, ha disposto (con l'articolo un
 
 5\. Articolo 17 del testo unico delle leggi sulle tasse ipotecarie approvato con R. decreto 13 settembre 1874, n. 2079 (serie 2ª), ed art. 8 della legge 8 agosto 1895, n. 486, allegato G".
 
-### Art. 9
+## Art. 9
 
 Rimangono in vigore le disposizioni della legge 13 settembre 1874 n. 2079 (serie 2ª) che non sono contrarie alla presente legge ed annessa tariffa, e quelle in materia ipotecaria contenute in leggi speciali vigenti.
 
-### Art. 10
+## Art. 10
 
 Con decreto Reale sara' fissato il giorno in cui, non piu' tardi di tre mesi dalla sua pubblicazione, andra' in vigore la presente legge, e saranno altresi' stabilite le norme per la liquidazione dell'aggio spettante ai conservatori delle ipoteche dal 1° luglio 1895 al detto giorno. ((3))
 
@@ -2468,7 +2468,7 @@ AGGIORNAMENTO (3)
 
 Il Regio Decreto 25 settembre 1895, n. 601, ha disposto (con l'art. 1, comma 1) che "Le disposizioni sulle tasse ipotecarie e sugli emolumenti dei Conservatori delle ipoteche, approvate con la legge 8 agosto 1895, n. 486 alleg. G entreranno in vigore il 1° novembre 1895".
 
-### Tariffa
+## Tariffa
 
 Tariffe delle tasse ipotecarie.
 
@@ -2496,7 +2496,7 @@ AGGIORNAMENTO (76)
 
 Il Decreto Luogotenenziale 12 ottobre 1915, n. 1510, ha disposto (con l'art. 17, comma 1, dell'allegato C) che "Le tasse ipotecarie contemplate dalla tariffa annessa alla legge 8 agosto 1895, n. 486, allegato G, comprese quelle stabilite in misura ridotta con leggi speciali, sono aumentate di altri due decimi di guerra".
 
-### Tabella
+## Tabella
 
 Tabella degli stipendi ed assegni fissi dei conservatori
 
@@ -2508,7 +2508,7 @@ Allegato H all'articolo 3
 
 Disposizioni relative alle tasse sulle assicurazioni.
 
-### Art. 1
+## Art. 1
 
 Alle disposizioni dell'articolo 1, numeri III, IV, V e VI della legge 8 giugno 1874, n. 1947, titolo II, sono sostituite le seguenti:
 
@@ -2550,19 +2550,19 @@ Le dette tasse non sono soggette ad aumento di decimi.
 
 Per le assicurazioni mutue e' equiparato al premio, nei riguardi dell'applicazione della presente legge, ogni versamento che, con qualsiasi denominazione, venga fatto dagli assicurati.
 
-### Art. 2
+## Art. 2
 
 Le tasse stabilite nell'art. 1, divengono applicabili a misura che, nel Regno od all'estero, sia pagato od altrimenti soddisfatto il premio, e non cessano di essere dovute, ne' quando questo, per qualsiasi causa, venga in tutto od in parte restituito dall'assicuratore, ne' in qualunque altro evento.
 
 Nel determinare l'imponibile, il premio deve essere valutato nella sua integrita', con l'aggiunta dell'eventuale soprapremio, delle indennita', dei diritti di polizza, dei diritti di cancelleria come di ogni altro accessorio, e senza alcuna detrazione per spese di provvisione, per quota di compartecipazione agli utili che spetti all'assicurato o per qualsivoglia diverso titolo, in modo che nell'imponibile sia compreso qualsiasi importo corrisposto dall'assicurato, all'infuori soltanto della tassa che dal medesimo venga rifusa all'assicuratore.
 
-### Art. 3
+## Art. 3
 
 Nelle tasse stabilite dall'art. 1, s'intendono compenetrate per tutte le specie di assicurazioni ivi indicate, fatte da Societa' o Compagnie, come da singoli individui, le tasse di bollo dovute, sia sui registri e sugli atti contemplati per le Societa' o Compagnie dall'art. 19 della legge 8 giugno 1874, n. 1947, titolo II, che rimane percio' abrogato, sia sui registri ed atti corrispondenti per gli altri assicuratori.
 
 Rispetto alle assicurazioni di trasporti promiscui per mare e per terra, laghi o fiumi, quando, giusta l'art. 1, torni applicabile la tassa stabilita dall'art. 49 della legge 6 dicembre 1885, n. 3547, saranno pur dovute le tasse di bollo attualmente in vigore per le assicurazioni marittime.
 
-### Art. 4
+## Art. 4
 
 Le quietanze che dagli assicurati o loro aventi causa vengono rilasciate agli assicuratori per il pagamento di somme assicurate in dipendenza dei contratti d'assicurazione contemplati dall'articolo 1°, quando siano esenti dalla formalita' del registro, giusta la legge 13 settembre 1874, n. 2076, dovranno, entro venti giorni dalla data di esse, venire registrate all'Ufficio demaniale competente a riscuotere le tasse di assicurazione, nel cui distretto fu eseguito il pagamento.
 
@@ -2570,7 +2570,7 @@ Per tale registrazione sara' contemporaneamente percetta la tassa di centesimi t
 
 L'obbligo della registrazione e del pagamento della tassa incombe esclusivamente all'assicuratore, il quale, in caso di contravvenzione, incorrera' in una sopratassa uguale al triplo della tassa.
 
-### Art. 5
+## Art. 5
 
 Tutte le Compagnie o Societa', cosi' nazionali come estere, e tutti coloro in generale che fanno le assicurazioni assoggettate alle tasse stabilite nell'art. 1, e, quanto alle Compagnie, Societa' o ditte estere, i loro rappresentanti, mandatari e corrispondenti nello Stato, dovranno tenere per ogni esercizio annuale, secondo i rispettivi bilanci, un registro nel quale, colle modalita' e norme da stabilirsi con regolamento, registreranno tutte le somme state loro pagate od altrimenti soddisfatte nel Regno od all'estero direttamente, od a mezzo di agenti od incaricati per premi ed accessori in dipendenza di dette assicurazioni.
 
@@ -2586,7 +2586,7 @@ Il registro medesimo dovra' essere conservato per dieci anni, computabili dalla 
 
 Del pari, le Societa' o Compagnie e gli altri assicuratori saranno tenuti a conservare per cinque anni dal giorno in cui hanno cessato di avere effetto, le polizze originali delle assicurazioni assoggettate a tassa con l'art. 1°, e per cinque anni dalla data le quietanze di che nell'art. 4.
 
-### Art. 6
+## Art. 6
 
 Entro un mese dalla scadenza di ciascun trimestre, le Societa' o Compagnie e gli altri assicuratori dovranno presentare all'ufficio demaniale del luogo ove hanno la sede o la rappresentanza, presso la quale tengono il registro di che nel precedente articolo, la denunzia dell'ammontare complessivo, per ogni categoria d'assicurazioni e per ogni quotita' di tassa, dei premi ed accessori su cui e' dovuta la tassa, secondo le risultanze del registro medesimo per lo scaduto trimestre.
 
@@ -2596,7 +2596,7 @@ Il pagamento delle corrispondenti tasse dovra' essere fatto dalle Societa', Comp
 
 Parimente, entro due mesi dalla scadenza di detto esercizio, gli agenti od incaricati delle Societa', Compagnie od altri assicuratori avranno obbligo di fare all'ufficio demaniale del distretto nel quale risiedono, la denunzia dell'ammontare complessivo dei premi ed accessori su cui e' dovuta la tassa risultante per l'esercizio scaduto dal rispettivo registro tenuto a norma dell'articolo 5, distintamente per ogni categoria di assicurazioni e per ogni quotita' di tassa.
 
-### Art. 7
+## Art. 7
 
 Le Societa', Compagnie ed altri assicuratori ed i loro agenti od incaricati avranno obbligo di esibire ai funzionari dell'amministrazione finanziaria, ad ogni richiesta, il registro dei premi prescritto dall'articolo 5 e di permettere che ne facciano l'esame e lo pongano a riscontro coi rimanenti libri, colle polizze originali, con le quietanze e con tutti gli altri atti, scritti e carte dell'azienda d'assicurazione, oltreche' colle denunzie di cui nell'articolo 6.
 
@@ -2606,13 +2606,13 @@ In casa di rifiuto allo adempimento, anco solo parziale, di queste disposizioni 
 
 Per tale contravvenzione le Societa', Compagnie ed altri assicuratori incorreranno, ogni volta, nella pena di lire 1000, ed i loro agenti od incaricati in quella di lire 500.
 
-### Art. 8
+## Art. 8
 
 Sono abrogate le disposizioni contenute nell'articolo 9 della legge 8 giugno 1874, n. 1947, titolo II.
 
 Del pari, sono abrogate quelle dei successivi articoli 10 e 11 nella parte concernente le assicurazioni contemplate nell'articolo 1 della presente legge.
 
-### Art. 9
+## Art. 9
 
 Le Societa' o Compagnie e gli altri assicuratori incorreranno nelle seguenti pene:
 
@@ -2636,7 +2636,7 @@ Tutte le anzidette pene saranno dovute indipendentemente da quelle di che nel su
 
 Per l'infrazione al disposto dall'ultimo capoverso dell'articolo 5, i contravventori andranno soggetti alla pena di lire 10 per ogni polizza o quietanza non conservata.
 
-### Art. 10
+## Art. 10
 
 Le Societa' o Compagnie e gli altri assicuratori saranno sottoposti, per l'omessa presentazione nel termine utile delle denunzie prescritte dall'articolo 6, ad una pena, mai minore di lire 10, corrispondente al triplo della tassa sulla somma non denunziata.
 
@@ -2646,7 +2646,7 @@ Le stesse pene, con la diminuzione pero' della meta', saranno pur dovute dagli a
 
 Indipendentemente dalle suindicate pene, il ritardo al pagamento delle tasse oltre il termine prefisso dall'articolo 6 rendera' applicabile a carico delle Societa', Compagnie ed altri assicuratori una sopratassa uguale al decimo della tassa di cui fu ritardato il pagamento.
 
-### Art. 11
+## Art. 11
 
 Salve le contrarie convenzioni, le Societa' o Compagnie e gli altri assicuratori hanno diritto di rivalersi sugli assicurati delle somme dovute per le tasse stabilite dalla presente legge.
 
@@ -2656,7 +2656,7 @@ Quando abbia luogo detta rivalsa, nei contratti di assicurazione e nelle ricevut
 
 Oltre a questa pena, l'assicuratore che si faccia rifondere un importo maggiore di quello dovuto, incorrera' in altra pena di lire 5 per ogni contratto o ricevuta, nella quale siasi verificata l'indebita rifusione, oltre l'obbligo del rimborso all'assicurato della somma in piu' percetta.
 
-### Art. 12
+## Art. 12
 
 Le tasse stabilite dall'articolo 1 saranno dovute anco per le polizze in corso al giorno in cui entrera' in vigore la presente legge, e ne sara' fatta applicazione sull'ammontare dei premi ed accessori che andranno a scadere dopo quel giorno.
 
@@ -2666,7 +2666,7 @@ Eguale diritto e' riconosciuto nelle Societa', Compagnie od altri assicuratori p
 
 Anche per le dette polizze e quietanze dovra' essere osservato il disposto dall'articolo 5, ultimo capoverso.
 
-### Art. 13
+## Art. 13
 
 Con Decreto Reale sara' determinato il giorno in cui, non piu' tardi di sei mesi dalla sua pubblicazione, entrera' in vigore la presente legge e saranno altresi' date le disposizioni transitorie necessarie alla sua attuazione. ((4))
 
@@ -2684,7 +2684,7 @@ AGGIORNAMENTO (4)
 
 Il Regio Decreto 5 dicembre 1895, n. 678, ha disposto (con l'art. 1, comma 1) che "Le disposizioni della legge 8 agosto 1895, n. 486, allegato H, concernente le tasse sulle assicurazioni, entreranno in vigore il 1° gennaio 1896".
 
-### Allegato I
+## Allegato I
 
 Allegato I all'articolo 5.
 
@@ -2700,7 +2700,7 @@ AGGIORNAMENTO (14)
 
 Il Regio Decreto 27 giugno 1897, n. 311, ha disposto (con l'articolo unico, comma 1) che "Le disposizioni relative ai confetti, contenute nella tabella delle merci ammesse, quando si esportano, alla restituzione dei dazi pagati sulle materie prime, costituenti l'Alleg. I all'art. 5 della legge 8 agosto 1895 n. 486, sono applicabili anche alle caramelle, alle pastiglie ed ai lavori di zucchero in cui il saccarosio sia contenuto in proporzione non inferiore al 60 per cento".
 
-### Allegato K
+## Allegato K
 
 Allegato K all'articolo 6.
 
@@ -2720,7 +2720,7 @@ Allegato L all'articolo 17.
 
 Conversioni di debiti dello Stato.
 
-### Art. 1
+## Art. 1
 
 Alle condizioni indicate nella presente legge, e' data facolta' al ministro del Tesoro di convertire, contro rendita consolidata 4.50 per cento, esente da ritenuta per qualsiasi imposta presente e futura, a forma della legge 22 luglio 1894, n. 339, allegato L, i seguenti titoli di debito dello Stato:
 
@@ -2736,13 +2736,13 @@ e) Obbligazioni pei lavori di sistemazione del Tevere, emesse a norma delle legg
 
 f) Certificati nominativi definitivi trentennari, emessi per la costruzione delle ferrovie Eboli-Reggio, Messina-Patti-Cerda e Marina di Catanzaro allo stretto Veraldi, e dati in pagamento agli appaltatori, dopo il collaudo finale dei lavori, a norma dell'articolo 4 della legge 24 luglio 1887, n. 4785, e dell'articolo 4 della legge 20 luglio 1888, n. 5550.
 
-### Art. 2
+## Art. 2
 
 L'importo della rendita consolidata 4.50 per cento, esente da ritenuta per qualsiasi imposta presente e futura, da darsi in cambio dei titoli di rendita consolidata 5 e 3 per cento lordo, delle obbligazioni ferroviarie 3 per cento, delle obbligazioni pei lavori di risanamento della citta' di Napoli, e delle obbligazioni pei lavori di sistemazione del Tevere, di cui alle lettere a, b, c, d, e del precedente articolo, corrispondera' a quella della rendita netta alla quale venga sostituita.
 
 Il cambio dei certificati nominativi definitivi trentennari, dati agli appaltatori, dopo il collaudo finale dei lavori, ai termini dell'articolo 4 della legge 24 luglio 1887, n. 4785, e dell'articolo 4 della legge 20 luglio 1888, n. 5550, di cui alla lettera e dell'articolo precedente, sara' fatto mediante tanta rendita consolidata 4.50 per cento, esente da ritenuta per qualsiasi imposta presente e futura, quanta corrisponda a quella che sarebbe stata rappresentata, al netto, dalle obbligazioni del Tirreno da cedersi al presentatore, qualora gli stessi certificati fossero stati ammessi al cambio con questi titoli, secondo l'articolo 2 della legge 30 marzo 1890, n. 6751.
 
-### Art. 3
+## Art. 3
 
 La conversione in rendita consolidata 4.50 per cento, esente da ritenuta per qualsiasi imposta presente e futura, dei titoli redimibili indicati nella tabella A, annessa all'allegato L, approvato con l'articolo 12 della legge 22 luglio 1894, n. 339, e di quelli indicati all'articolo 1 della presente legge (allegato L), potra' essere fatta dal ministro del Tesoro anche a condizioni speciali, sempreche' i titoli dei debiti redimibili, presentati alla conversione, costituiscano una partita non inferiore a centomila lire di rendita annua al netto.
 
@@ -2750,17 +2750,17 @@ In ogni caso la rendita consolidata 4.50 per cento, esente da ritenuta per quals
 
 Di queste convenzioni sara' data particolare notizia al Parlamento con relazione da presentarsi insieme all'assestamento del bilancio.
 
-### Art. 4
+## Art. 4
 
 Sono estese alle conversioni dei debiti che verranno eseguite in virtu' della presente legge (allegato L), le disposizioni degli articoli 2, 3 e 4 della legge 8 marzo 1874, n. 1834 (serie 2ª), salvo che la rendita da inscrivere conformemente all'articolo 3 della legge 8 marzo 1874, sara' del consolidato 4.50 per cento netto, e che le variazioni al bilancio indicate nell'articolo 4 della detta legge dovranno introdursi nei capitoli del bilancio del Tesoro riguardanti il consolidato 4.50 per cento netto e non il 5 per cento soggetto a ritenuta per imposta di ricchezza mobile.
 
-### Art. 5
+## Art. 5
 
 Sono approvate le annesse due convenzioni (sub-allegato L) stipulate dal ministro del Tesoro, rispettivamente addi' 15 gennaio e 16 febbraio 1895, col sindaco della citta' di Napoli e col presidente della Deputazione provinciale di Roma, per regolare i rapporti fra il comune di Napoli, la provincia di Roma e il Tesoro dello Stato, agli effetti degli articoli 1, 2 e 3 della presente legge (allegato L).
 
 A cominciare dal 1° luglio 1895, il Governo del Re non potra' piu' valersi delle facolta' concesse dall'articolo 2 della legge 15 gennaio 1885, n. 2892, e dall'articolo 1 della legge 2 luglio 1890, n. 6936.
 
-### Art. 6
+## Art. 6
 
 I buoni del Tesoro a lunga scadenza, per i quali sia trascorso il triennio di che all'ultimo comma dell'articolo 2 della legge 7 aprile 1892, n. 111, potranno, sopra domanda del presentatore, essere rimborsati, a cominciare dall'esercizio finanziario 1895-96, mediante tanta rendita consolidata 4.50 per cento, esente da ritenuta per qualsiasi imposta presente e futura, in valor capitale, quanta, valutata al corso della Borsa di Roma del giorno in cui i buoni siano presentati per il rimborso, se ne possa acquistare col capitale rappresentato dai buoni medesimi, purche' il corso del 4.50 per cento non sia sotto la pari.
 
@@ -2768,7 +2768,7 @@ Il ministro del Tesoro e' autorizzato a procacciarsi i fondi che gli abbisognass
 
 Gli interessi non riscossi sui buoni del Tesoro a lunga scadenza ammessi al rimborso anticipato, mediante cessione di rendita consolidata 4.50 per cento, ovvero in contanti, saranno corrisposti a tutto il giorno anteriore a quello della presentazione.
 
-### Art. 7
+## Art. 7
 
 Il Governo del Re e' autorizzato a convertire, a parita' di rendita netta, in certificati di rendita nominativa non tramutabili in titoli al portatore 4.50 per cento esente da qualsiasi ritenuta per imposta presente e futura, i titoli dei seguenti debiti:
 
@@ -2780,7 +2780,7 @@ Il Governo del Re e' autorizzato a convertire, a parita' di rendita netta, in ce
 
 4° Titoli della rendita 3 per cento assegnata ai cosidetti creditori legali delle provincie napoletane, di cui alla legge 25 gennaio 1806.
 
-### Art. 8
+## Art. 8
 
 Le esenzioni dalle tasse di bollo e dalle tasse per concessioni governative e per atti e provvedimenti amministrativi portate dal Regio decreto legislativo del 26 gennaio 1882, n. 621 (serie 3ª), e confermate coll'articolo 21, lettera d, della legge 14 luglio 1887, n. 4702 (serie 3ª), sono pure estese alle operazioni di conversione e cambio che saranno richieste ai termini della presente legge (Allegato L). ((12))
 
@@ -2806,7 +2806,7 @@ Convenzione fra il ministro del Tesoro ed il sindaco di Napoli per la conversion
 
 Questo giorno 15 gennaio 1895 in Napoli, nel palazzo San Giacomo, ove ha sede il municipio di Napoli, fra il ministro del Tesoro rappresentato, per delegazione, dal cavaliere Antonio Monti, intendente di finanza della provincia di Napoli, ed il sig. conte Carlo Del Pezzo, sindaco del comune di Napoli, debitamente autorizzato per deliberazione del Consiglio comunale, emessa nella seduta del 5 dicembre 1894, vistata il 29 detto, n. 49203, viene convenuto quanto segue:
 
-### Art. 1
+## Art. 1
 
 A partire dal 1° luglio 1895, e pei quattro esercizi finanziari 1895-96, 1896-97, 1897-98, 1898-99, la somma di lire trentaseimilionicentotrentacinquemilacentosettantanove e centesimi venticinque, che rimane ancora da procurarsi a saldo delle lire 100,000,000, stabiliti dall'art. 2 della legge 15 gennaio 1885, n. 2892, pei lavori di risanamento della citta' di Napoli, sara' fronteggiata coi mezzi ordinari di bilancio, ovvero sara' provveduta con l'emissione di titoli di rendita consolidata 4.50 per cento, esente da ritenuta per qualsiasi imposta presente e futura, di cui nell'art. 2 dell'allegato L, approvato con l'art. 12 della legge 22 luglio 1894, n. 339.
 
@@ -2868,7 +2868,7 @@ Convenzione fra il ministro del Tesoro ed il presidente della Deputazione provin
 
 Questo giorno 16 febbraio milleottocentonovantacinque, in Roma, nel palazzo del Ministero delle finanze, fra S. E. il barone Sidney Sonnino, ministro dal Tesoro, ed il marchese Filippo Berardi, presidente della Deputazione provinciale di Roma, debitamente autorizzato per deliberazione del Consiglio provinciale, emessa nella seduta del 5 febbraio 1895, viene convenuto quanto segue:
 
-### Art. 1
+## Art. 1
 
 A partire dal 1° luglio 1895, e per gli esercizi finanziari 1895-96 a tutto il 1905-1906, giusta il riparto indicato nella tabella annessa alla legge 7 giugno 1894, n. 221, la somma ancora da procurarsi, a compimento dei lavori di sistemazione del Tevere, sara' fronteggiata coi mezzi ordinari di bilancio, ovvero sara' provveduta con l'emissione di titoli di rendita consolidata 4.50 per cento, esente da ritenuta per qualsiasi imposta presente e futura, di cui all'articolo 2 dell'allegato L, approvato con l'articolo 12 della legge 22 luglio 1894, n. 339.
 
@@ -2950,31 +2950,31 @@ Su proposta del Nostro ministro segretario di Stato per il Tesoro;
 
 Abbiamo decretato e decretiamo:
 
-### Art. 1
+## Art. 1
 
 Il cambio dei certificati nominativi e di quelli di rendita mista del consolidato 5 per cento, in altri nominativi e misti del consolidato al 4 per cento, esente da ritenuta per qualunque siasi imposta presente e futura, creato coll'allegato L, approvato con l'articolo 12 della legge 22 luglio 1894, n. 339, alle condizioni stabilite nell'articolo 8 del predetto allegato, potra' effettuarsi, quando il titolare ne abbia la libera disponibilita', sopra semplice sua domanda, accompagnata dal certificato di rendita.
 
-### Art. 2
+## Art. 2
 
 Il cambio dei certificati nominativi del consolidato 5 per cento, in quelli del consolidato 4 per cento intestati a persone incapaci o ad Enti morali sottoposti a tutela, e' considerato atto di semplice amministrazione, e si effettuera' a richiesta del genitore esercente la patria potesta', del tutore, del curatore ed amministratore o rappresentante, senza che questi siano tenuti a dar prova di alcuna speciale autorizzazione, o ad adempiere a qualunque formalita' giudiziaria, sulla semplice presentazione del titolo e della domanda.
 
 Per i certificali intestati a persone incapaci, la firma e la qualita' dei richiedenti dovra' essere riconosciuta e certificata da agente di cambio accreditato per le operazioni di debito pubblico o da notaio, e, per i certificati a favore di Enti morali, dalla autorita' competente.
 
-### Art. 3
+## Art. 3
 
 E' pure considerato atto di semplice amministrazione l'operazione di cambio dei certificati, sui quali siano annotati vincoli d'usufrutto, d'ipoteca o di altra natura, e l'operazione stessa sara' eseguita a richiesta della persona alla quale il titolo e' intestato, senza che occorra il consenso delle persone a favore delle quali i detti vincoli siano costituiti, o altra autorizzazione o formalita' qualsiasi, e mediante produzione della semplice domanda accompagnata dal titolo di rendita.
 
 Eseguita l'operazione di cambio, dovra' essere fatto invito alla persona, a favore della quale esista il vincolo di usufrutto, di ritirare il nuovo certificato, contro consegna di quello da essa posseduto.
 
-### Art. 4
+## Art. 4
 
 Qualora venga chiesto il cambio di piu' certificati nominativi intestati ad una stessa persona, o ad un solo Ente o Corpo morale, non gravati da vincoli o da ipoteche diverse, la Direzione generale del Debito pubblico, se non sara' fatta espressa dichiarazione contraria, accendera', sul consolidato 4 per cento, una sola iscrizione, a forma della persona o dell'Ente o Corpo morale titolare, per la rendita complessiva rappresentata dai detti certificati.
 
-### Art. 5
+## Art. 5
 
 Le disposizioni del presente decreto sono estese alla Cassa dei depositi e prestiti, che viene autorizzata a provvedere, sopra semplice domanda dei titolari dei depositi o loro aventi diritto, alla conversione in titoli del consolidato 4 per cento di quelli del consolidato 5 per cento depositati tanto presso l'Amministrazione centrale, quanto presso le Intendenze di finanza, sempre quando non vi siano liti pendenti e non esistano opposizioni od altri impedimenti.
 
-### Art. 6
+## Art. 6
 
 La Direzione generale del Debito pubblico e' autorizzata ad emettere le cartelle al portatore del consolidato 4 per cento netto per il cambio dei titoli del consolidato 5 per cento colle firme impresse mediante apposito marchio con fac-simile.
 
@@ -2988,7 +2988,7 @@ AGGIORNAMENTO (6)
 
 La L. 26 marzo 1896, n. 76, ha disposto (con l'art. 2, comma 2) che "La disposizione di cui all'art. 6 dell'allegato M alla legge 8 agosto 1895 n. 486, e' estesa alla emissione delle cartelle dipendente dalla presente legge".
 
-### Art. 7
+## Art. 7
 
 Il presente decreto sara' presentato al Parlamento per essere convertito in legge.
 
@@ -3040,17 +3040,17 @@ Sulla proposta del Nostro ministro segretario di Stato per il Tesoro, di concert
 
 Abbiamo decretato e decretiamo:
 
-### Art. 1
+## Art. 1
 
 In sino a quando i biglietti di banca conserveranno il corso legale ai termini dell'articolo 4 della legge 10 agosto 1893, n. 449, e rimarranno in vigore le disposizioni contenute negli articoli 1 e 6 dell'allegato I, approvato con l'articolo 11 della legge 22 luglio 1894, n. 339, la vigilanza permanente sugli Istituti di emissione, anche riguardo ai rispettivi crediti fondiari in liquidazione, e sulla Banca Romana in liquidazione, sara' esercitata esclusivamente dal ministro del Tesoro.
 
-### Art. 2
+## Art. 2
 
 Le modalita' per l'esercizio di tale vigilanza e le modificazioni da introdursi, per effetto della unificazione della detta vigilanza, nel regolamento approvato col Reale decreto 20 dicembre 1893, n. 670, saranno determinate, sulla proposta del Nostro ministro segretario di Stato per il Tesoro e udito il Consiglio dei ministri, con decreto Reale da emanarsi entro due mesi dalla data della pubblicazione del presente decreto.
 
 Infino a che non sia provveduto all'esercizio normale della detta vigilanza, il ministro del tesoro, di concerto col ministro di agricoltura, industria e commercio, potra' giovarsi anche dell'opera dei commissari di cui nel Nostro decreto del 6 luglio 1890, n. 6940.
 
-### Art. 3
+## Art. 3
 
 Il presente decreto sara' presentato al Parlamento per essere convertito in legge.
 
@@ -3094,15 +3094,15 @@ Sulla proposta del ministro Segretario di Stato per il Tesoro;
 
 Abbiamo decretato e decretiamo:
 
-### Art. 1
+## Art. 1
 
 E' approvato l'unito regolamento per la vigilanza sulla circolazione e sugli Istituti di emissione, visto, d'ordine Nostro, dal ministro proponente.
 
-### Art. 2
+## Art. 2
 
 E' abrogato il regolamento approvato col Nostro decreto 20 dicembre 1893, n. 670.
 
-### Art. 3
+## Art. 3
 
 Il presente decreto sara' presentato al Parlamento per essere convertito in legge.
 
@@ -3128,7 +3128,7 @@ I.
 
 Disposizioni generali.
 
-### Art. 1
+## Art. 1
 
 La vigilanza sugli Istituti di emissione, sui Crediti fondiari annessi, e sulla liquidazione della Banca Romana spetta al Ministero del Tesoro.
 
@@ -3390,7 +3390,7 @@ Sulla proposta del Nostro ministro Segretario di Stato per il Tesoro;
 
 Abbiamo decretato e decretiamo:
 
-### Art. 1
+## Art. 1
 
 Agli articoli 8, 9, 10, 11, 12, 13 e 15 del Regolamento approvato col Reale decreto 10 dicembre 1894, n. 534, sono sostituiti i seguenti:
 
@@ -3518,15 +3518,15 @@ Allegato P all'art. 26.
 
 Testo unico del regolamento per la vigilanza sulla circolazione e sugli Istituti di emissione.
 
-### Art. 1
+## Art. 1
 
 La vigilanza sugli Istituti di emissione, sui Crediti fondiari annessi e sulla liquidazione della Banca Romana, spetta al Ministero del Tesoro.
 
-### Art. 2
+## Art. 2
 
 La detta vigilanza e' esercitata dall'Ufficio centrale d'ispezione, instituito presso il Ministero del Tesoro.
 
-### Art. 3
+## Art. 3
 
 Agli effetti della vigilanza sugli Istituti di emissione e sulla circolazione di Stato e bancaria e' istituita una Commissione permanente presieduta dal ministro del Tesoro.
 
@@ -3548,13 +3548,13 @@ il direttore capo della Divisione del credito del Ministero di agricoltura, indu
 
 La Commissione elegge nel suo seno un vice presidente.
 
-### Art. 4
+## Art. 4
 
 Le spese occorrenti per la vigilanza sugli Istituti di emissione sono sostenute dagli Istituti medesimi.
 
 ## II. - Commissione permanente.
 
-### Art. 5
+## Art. 5
 
 La Commissione permanente per la vigilanza sulla circolazione e sugli Istituti di emissione, quando ne sia richiesta dal Ministro del Tesoro, dara' il suo avviso sopra:
 
@@ -3568,7 +3568,7 @@ d) le convenzioni speciali stipulate fra gli Istituti, e da approvarsi dal Gover
 
 La Commissione, inoltre, puo' essere chiamata a dare il suo avviso su tutte le norme intese a regolare la fabbricazione, la somministrazione, la custodia, il ritiro e l'annullamento dei biglietti di Banca, e su quelle da emanarsi per la determinazione tanto della quantita' quanto dell'uso dei biglietti di scorta, in applicazione degli articoli 8 e 9 della legge citata.
 
-### Art. 6
+## Art. 6
 
 La Commissione permanente, quando ne sia richiesta dal ministro del Tesoro, estendera' il suo esame sopra:
 
@@ -3580,11 +3580,11 @@ c) e, in generale, a tutti i provvedimenti indispensabili all'attuazione della l
 
 ## III. - Vigilanza permanente.
 
-### Art. 7
+## Art. 7
 
 La vigilanza permanente diretta sugli Istituti di emissione e' esercitata dall'Ufficio centrale di ispezione indicato nell'articolo 2 del presente regolamento.
 
-### Art. 8
+## Art. 8
 
 La Direzione generale della Banca d'Italia dove informare, volta per volta, ed in tempo utile, il ministro del Tesoro, del giorno e dell'ora fissati per la convocazione dell'assemblea generale degli azionisti, per le adunanze del Consiglio superiore e per quelle della Commissione liquidatrice della Banca Romana, inviando contemporaneamente un elenco degli affari da trattarsi.
 
@@ -3594,25 +3594,25 @@ Alle sedute dell'Assemblea, dei Consigli e della Commissione suddetti, assiste u
 
 Di questa sospensione deve essere immediatamente informato il ministro del Tesoro, il quale confermera' o revochera' la sospensione, dandone notizia all'Istituto interessato, nel termine di cinque giorni dall'avvenuta sospensione. Alla conferma della sospensione il ministro medesimo potra' far seguire l'annullamento della deliberazione quando questa sia riconosciuta contraria alle leggi, ai regolamenti e agli statuti.
 
-### Art. 9
+## Art. 9
 
 Qualora l'ispettore o il delegato, di cui all'articolo precedente, non abbia esercitata la facolta' di sospendere una deliberazione che il ministro del Tesoro creda contraria alle leggi, agli statuti od ai regolamenti, il ministro puo' direttamente sospenderla entro cinque giorni dalla adunanza, prendendo per base la relazione comunicata dall'ispettore e dandone comunicazione all'Istituto interessato.
 
 Alla sospensione il ministro potra' far seguire l'annullamento della deliberazione stessa, quando questa sia riconosciuta contraria alle leggi, ai regolamenti e agli statuti.
 
-### Art. 10
+## Art. 10
 
 L'ispettore, o il delegato, di cui agli articoli precedenti, deve trasmettere, entro due giorni, al ministro del Tesoro, un rapporto sugli affari discussi e sulle deliberazioni prese nell'adunanza alla quale egli abbia assistito.
 
 Entro lo stesso termine, la Direzione generale dell'Istituto deve comunicare un sunto delle accennate deliberazioni, salvo a spedire il verbale per esteso dopo che sia stato approvato.
 
-### Art. 11
+## Art. 11
 
 L'Ufficio centrale d'ispezione e' tenuto ad esaminare i bilanci annuali degl'Istituti d'emissione, e, ove lo reputi necessario, ad accertarne la corrispondenza con le scritture degli Istituti medesimi.
 
 A questo fine gli Istituti devono comunicare in tempo all'Ufficio stesso i bilanci, e i conti profitti e perdite, e devono fornirgli tutte quelle informazioni che all'uopo fossero ad essi richieste.
 
-### Art. 12
+## Art. 12
 
 Le situazioni delle operazioni di ciascun Istituto, compilate secondo i modelli approvati con speciale Regio decreto, devono riferirsi ai giorni 10, 20 ed ultimo di ogni mese.
 
@@ -3624,13 +3624,13 @@ L'Ufficio medesimo deve accertare, di tempo in tempo, la corrispondenza fra le s
 
 La situazione di ogni Istituto deve essere pubblicata, a cura dell'Ufficio d'ispezione, nella Gazzetta Ufficiale del Regno.
 
-### Art. 13
+## Art. 13
 
 Le cambiali sull'estero che gl'Istituti considerano come riserva, ai sensi di legge, devono essere verificate a brevi periodi dall'Ufficio d'ispezione, per accertarne il valore e per constatare che abbiano i requisiti che saranno indicati nel Regio decreto da emanarsi giusta l'articolo 31 della legge che approva il presente regolamento.
 
 Lo stesso Regio decreto fissera' le norme per il riscontro dei depositi in conto corrente all'estero, da computarsi come riserva ai termini del citato articolo 31.
 
-### Art. 14
+## Art. 14
 
 L'Ufficio d'ispezione deve accertare, a brevi intervalli, che le disposizioni riguardanti il movimento dei biglietti siano sempre rigorosamente osservate.
 
@@ -3644,7 +3644,7 @@ I verbali di queste verifiche, con una relazione riassuntiva, saranno trasmessi 
 
 Per queste verifiche il ministro del Tesoro potra' valersi, oltre che degli intendenti di finanza, di tutto il personale da essi dipendente.
 
-### Art. 15
+## Art. 15
 
 L'Ufficio centrale d'ispezione deve procedere a speciali verifiche nelle sedi e succursali degli Istituti, secondo le norme che saranno determinate con decreto ministeriale.
 
@@ -3652,17 +3652,17 @@ Tali verifiche hanno principalmente per iscopo di accertare la consistenza dei v
 
 I Direttori delle sedi e delle succursali predette hanno l'obbligo di esibire agli ispettori i registri e gli atti di cui avessero bisogno per compiere l'incarico loro affidato.
 
-### Art. 16
+## Art. 16
 
 Oltre le attribuzioni conferite all'ufficio d'ispezione dai precedenti articoli, gli spettano quelle indicate nel regolamento speciale in esecuzione delle disposizioni contenute nell'articolo 9 della legge 10 agosto 1893, per la fabbricazione e la custodia dei biglietti di Banca, per la loro sostituzione quando siano logori o danneggiati, per il loro annullamento e abbruciamento, e per disciplinare il movimento dei biglietti di scorta.
 
 ## IV. - Ispezioni periodiche e straordinarie.
 
-### Art. 17
+## Art. 17
 
 Alla fine di ciascun periodo fissato dalla legge, il ministro del Tesoro ordinera' una ispezione straordinaria degli Istituti di emissione a mezzo di ufficiali dello Stato, che non abbiano preso parte a precedenti ispezioni sull'Istituto, intorno al quale debbono riferire.
 
-### Art. 18
+## Art. 18
 
 Queste ispezioni hanno per oggetto:
 
@@ -3684,7 +3684,7 @@ h) di esaminare ogni altra condizione diretta ad assicurare la esatta e completa
 
 i) di esaminare l'andamento generale degli Istituti e quello di tutti i servizi che compiano, sia nell'interesse pubblico, sia in quello del Tesoro.
 
-### Art. 19
+## Art. 19
 
 Insino a che non sia stata compiuta la liquidazione ordinata dal comma primo dell'art. 13 della legge 10 agosto 1893, n. 449, modificato dall'articolo 36 della legge che approva il presente regolamento, le ispezioni di che all'art. 17 avranno pure per iscopo di accertare le operazioni di liquidazione e di riscontrare se l'importo di esse raggiunga la quota parte determinata dalla legge.
 
@@ -3694,35 +3694,35 @@ Le valutazioni saranno indicate per gruppi e classi di operazioni, a norma delle
 
 Qualora al termine di ciascun periodo non sia stata liquidata la quota parte fissata dalla legge, l'ispezione dovra' appurare se l'Istituto abbia provveduto a colmare la differenza conformemente alle disposizioni dell'articolo 13 della legge 10 agosto 1893, citato sopra.
 
-### Art. 20
+## Art. 20
 
 Il direttore dell'Istituto, chi ne fa le veci, e i funzionari che ne dipendono sono obbligati a fornire tutte le spiegazioni e a rendere ostensibili tutti i libri o i documenti richiesti dagli ufficiali dello Stato incaricati delle ispezioni. Il direttore o chi ne fa le veci puo' far intervenire alla ispezione il capo di quei servizi ai quali si riferisce la ispezione o la verifica in corso.
 
-### Art. 21
+## Art. 21
 
 I pubblici ufficiali incaricati delle ispezioni straordinarie di che all'articolo 17 devono presentare, entro un mese dal compimento della ispezione, al ministro del Tesoro una relazione particolareggiata intorno ai risultati della ispezione stessa.
 
 Nel caso che l'ispezione accerti fatti gravi, deve esserne data notizia sommaria immediatamente al ministro stesso.
 
-### Art. 22
+## Art. 22
 
 Il ministro del Tesoro puo' fare eseguire in qualunque tempo ispezioni straordinarie, generali e speciali, agli Istituti di emissione.
 
-### Art. 23
+## Art. 23
 
 Quando dalle ispezioni ordinarie e straordinarie e dalle verifiche speciali risultino le infrazioni considerate nell'ultimo comma dell'articolo 10, e negli articoli 14 e 16 della legge 10 agosto 1893, gli ufficiali incaricati di tali ispezioni e verifiche devono compilare apposito processo verbale e trasmetterlo immediatamente al ministro del Tesoro, il quale promuovera' i provvedimenti indicati in quegli articoli.
 
 Qualora risultino fatti aventi carattere di reato, gli ufficiali ne daranno denunzia all'autorita' giudiziaria, e immediata notizia al ministro predetto.
 
-### Art. 24
+## Art. 24
 
 Egualmente, il ministro del Tesoro, accertati i fatti di che all'articolo 20 della legge, ne fa regolare denunzia all'autorita' giudiziaria per l'applicazione delle pene con quell'articolo comminate.
 
-### Art. 25
+## Art. 25
 
 Non piu' tardi del mese di maggio di ciascun anno il ministro del Tesoro presentera' al Parlamento una relazione particolareggiata e documentata sull'andamento degli Istituti d'emissione e della circolazione di Stato e bancaria durante l'anno solare antecedente.
 
-### Art. 26
+## Art. 26
 
 In fino a che non sia ristabilito il corso fiduciario dei biglietti di Banca, l'ufficio di ispezione invigilera' per accertarsi che la ragione ufficiale dello sconto e quella dell'interesse siano applicate costantemente, e senza variazioni non consentite dalla legge, da tutti gli Istituti di emissione.
 
@@ -3756,25 +3756,25 @@ Sulla proposta del Nostro ministro segretario di Stato per il Tesoro;
 
 Abbiamo decretato decretiamo:
 
-### Art. 1
+## Art. 1
 
 E' approvata l'annessa convenzione stipulata, a nome del Governo, dal ministro del Tesoro coi rappresentanti della Banca d'Italia, e sottoscritta a Roma il di' 30 ottobre 1894.
 
-### Art. 2
+## Art. 2
 
 Gli impiegati di carriera che, per effetto del passaggio del servizio di tesoreria alla Banca d'Italia, contemplato dall'annessa convenzione, non troveranno collocamento in altri uffici dello Stato ne' verranno assunti eventualmente dalla Banca medesima, saranno collocati in disponibilita' con effetto dal 1° febbraio 1895. A tutti gl'impiegati che saranno collocati in disponibilita', e i quali potranno essere richiamati in servizio attivo, a scelta del ministro, in qualsiasi ufficio dipendente dal Ministero del Tesoro, sara' concesso pei primi cinque mesi un assegno pari allo stipendio di cui sono attualmente provvisti, e pel periodo successivo l'assegno sara' ridotto alla meta' dello stipendio medesimo, anche per quelli fra i detti impiegati che contino meno di 10 anni di servizio.
 
 La disponibilita' potra' durare trenta mesi, e tutto il tempo passato in detto stato sara' valido a fare acquistare il diritto al conseguimento della pensione di riposo o della indennita' per una volta tanto, congiungendosi all'uopo gli anni di effettivo servizio prestato prima del collocamento in disponibilita'.
 
-### Art. 3
+## Art. 3
 
 Quelli fra i detti impiegati, con sede in Roma, che durante il periodo della disponibilita' fossero richiamati in servizio di nuovo in Roma, rientreranno nel godimento delle indennita' di residenza che ora percepiscono.
 
-### Art. 4
+## Art. 4
 
 Il ministro del Tesoro e' autorizzato a prelevare la somma di L. 150,000 dal capitolo 74 del bilancio del Tesoro pel 1894-95 (Spese di ufficio delle Tesorerie), per ripartirla a titolo di gratificazione una volta tanto, e secondo criteri da determinarsi con decreto ministeriale, fra quegli impiegati privati degli attuali tesorieri, cioe': sostituti, cassieri, commessi ed inservienti, i quali cesseranno da ogni ulteriore servizio di tesoreria col 1° febbraio 1895.
 
-### Art. 5
+## Art. 5
 
 Il presente decreto sara' presentato al Parlamento per la conversione in legge.
 
@@ -3796,7 +3796,7 @@ Giuseppe Marchiori, direttore generale della Banca medesima, dai signori comm. a
 
 Tomaso Bertarelli, segretario del Consiglio stesso, autorizzati con deliberazione del detto Consiglio superiore nella tornata del di' 22 ottobre 1894, si convenne quanto segue:
 
-### Art. 1
+## Art. 1
 
 La liquidazione della Banca Romana, di cui all'articolo 25 della legge 10 agosto 1893, n. 449, sara' assunta dalla Banca d'Italia, a suo rischio e pericolo, liberando essa lo Stato dalle perdite che potessero derivare da tale liquidazione, ancorche' superassero tutta la somma da versarsi dalla Banca d'Italia al conto della liquidazione stessa, ai termini dell'articolo 29 della citata legge.
 
@@ -3930,7 +3930,7 @@ Allegato R all'articolo 37.
 
 Disposizioni per agevolare le mobilizzazioni agli Istituti di emissione.
 
-### Art. 1
+## Art. 1
 
 Agli effetti della liquidazione prevista nell'art. 13 della legge 10 agosto 1893, n. 449, sono accordate le riduzioni delle tasse e sopratasse di registro determinate negli articoli seguenti.
 
@@ -3990,7 +3990,7 @@ AGGIORNAMENTO (50)
 
 La L. 24 dicembre 1908, n. 723, ha disposto (con l'art. 3, comma 1) che "Sono prorogate fino al 31 dicembre 1909, limitatamente ai trasferimenti degli immobili, le agevolezze fiscali consentite dalle leggi 8 agosto 1895, n. 486 (allegato R), e 2 luglio 1896, n. 265, art. 2, in quanto non sieno modificate dagli articoli 59 e 60 del testo unico predetto".
 
-### Art. 2
+## Art. 2
 
 Fino al 30 giugno 1896:
 
@@ -4064,7 +4064,7 @@ AGGIORNAMENTO (50)
 
 La L. 24 dicembre 1908, n. 723, ha disposto (con l'art. 3, comma 1) che "Sono prorogate fino al 31 dicembre 1909, limitatamente ai trasferimenti degli immobili, le agevolezze fiscali consentite dalle leggi 8 agosto 1895, n. 486 (allegato R), e 2 luglio 1896, n. 265, art. 2, in quanto non sieno modificate dagli articoli 59 e 60 del testo unico predetto".
 
-### Art. 3
+## Art. 3
 
 Fino a tutto l'anno 1896 sara' ridotta all'1 per cento la tassa proporzionale:
 
@@ -4134,7 +4134,7 @@ AGGIORNAMENTO (50)
 
 La L. 24 dicembre 1908, n. 723, ha disposto (con l'art. 3, comma 1) che "Sono prorogate fino al 31 dicembre 1909, limitatamente ai trasferimenti degli immobili, le agevolezze fiscali consentite dalle leggi 8 agosto 1895, n. 486 (allegato R), e 2 luglio 1896, n. 265, art. 2, in quanto non sieno modificate dagli articoli 59 e 60 del testo unico predetto".
 
-### Art. 4
+## Art. 4
 
 Fino a tutto l'anno 1896 sara' ridotta a 2 per mille la tassa proporzionale di registro sopra gli atti di cessione di crediti ipotecari da parte degli Istituti di emissione o dei loro Crediti fondiari, e sopra gli atti di cessione di crediti ipotecari agli Istituti di emissione o ai loro crediti fondiari, in pagamento di crediti posseduti dai medesimi precedentemente alla pubblicazione della presente legge.
 
@@ -4200,7 +4200,7 @@ AGGIORNAMENTO (50)
 
 La L. 24 dicembre 1908, n. 723, ha disposto (con l'art. 3, comma 1) che "Sono prorogate fino al 31 dicembre 1909, limitatamente ai trasferimenti degli immobili, le agevolezze fiscali consentite dalle leggi 8 agosto 1895, n. 486 (allegato R), e 2 luglio 1896, n. 265, art. 2, in quanto non sieno modificate dagli articoli 59 e 60 del testo unico predetto".
 
-### Art. 5
+## Art. 5
 
 Fino a tutto l'anno 1897 sara' ridotta all'1 per cento la tassa proporzionale di registro:
 
@@ -4270,7 +4270,7 @@ AGGIORNAMENTO (50)
 
 La L. 24 dicembre 1908, n. 723, ha disposto (con l'art. 3, comma 1) che "Sono prorogate fino al 31 dicembre 1909, limitatamente ai trasferimenti degli immobili, le agevolezze fiscali consentite dalle leggi 8 agosto 1895, n. 486 (allegato R), e 2 luglio 1896, n. 265, art. 2, in quanto non sieno modificate dagli articoli 59 e 60 del testo unico predetto".
 
-### Art. 6
+## Art. 6
 
 Fino a tutto l'anno 1899 sara' ridotta all'1 per cento la tassa proporzionale di registro sopra gli atti di alienazione degli immobili che pervenissero agli Istituti di emissione, o ai loro Crediti fondiari, in conformita' degli articoli precedenti; purche' vengano sottoposti a registrazione entro tre anni dal precedente trasferimento.
 
@@ -4324,7 +4324,7 @@ AGGIORNAMENTO (50)
 
 La L. 24 dicembre 1908, n. 723, ha disposto (con l'art. 3, comma 1) che "Sono prorogate fino al 31 dicembre 1909, limitatamente ai trasferimenti degli immobili, le agevolezze fiscali consentite dalle leggi 8 agosto 1895, n. 486 (allegato R), e 2 luglio 1896, n. 265, art. 2, in quanto non sieno modificate dagli articoli 59 e 60 del testo unico predetto".
 
-### Art. 7
+## Art. 7
 
 Fino a tutto l'anno 1899 sara' ridotta al 2 per cento la tassa proporzionale di registro sul primo atto di ulteriore trasferimento a titolo di compra-vendita della proprieta' degli immobili di cui nei precedenti articoli 5 (comma 1) e 6; purche' venga a registrazione entro un anno dalla registrazione del precedente trasferimento.
 
@@ -4384,7 +4384,7 @@ AGGIORNAMENTO (50)
 
 La L. 24 dicembre 1908, n. 723, ha disposto (con l'art. 3, comma 1) che "Sono prorogate fino al 31 dicembre 1909, limitatamente ai trasferimenti degli immobili, le agevolezze fiscali consentite dalle leggi 8 agosto 1895, n. 486 (allegato R), e 2 luglio 1896, n. 265, art. 2, in quanto non sieno modificate dagli articoli 59 e 60 del testo unico predetto".
 
-### Art. 8
+## Art. 8
 
 Agli atti registrati in virtu' delle precedenti disposizioni non si applica l'aumento dei due decimi prescritto dall'articolo 158 della legge 13 settembre 1874, n. 2076 (serie 2ª).
 
@@ -4454,7 +4454,7 @@ Allegato S all'articolo 38.
 
 Disposizioni riguardanti i Crediti fondiari degli Istituti di emissione.
 
-### Art. 1
+## Art. 1
 
 I Crediti fondiari degli Istituti di emissione avranno facolta', per una volta tanto, di consentire ai mutuatari che, alla data della pubblicazione della presente legge, siano in arretrato di non piu' di otto semestralita', di prolungare i termini di rimborso dell'intero mutuo di tante nuove rate, quante sono le semestralita' scadute, ripartendo ugualmente su tutte le rate ancora da scadere l'ammontare degli interessi di mora gia' dovuti.
 
@@ -4462,15 +4462,15 @@ In tali casi non sara' dovuto alcun nuovo compenso all'erario, o l'atto relativo
 
 Con disposizioni regolamentari saranno determinate le norme per l'applicazione di questo articolo.
 
-### Art. 2
+## Art. 2
 
 Gli Istituti di Credito fondiario degli Istituti di emissione avranno la facolta' di cedere i propri crediti ad altri Istituti di Credito fondiario ordinari, o a privati, alle condizioni che reputeranno piu' convenienti, estinguendo integralmente il rispettivo credito nei modi di legge.
 
-### Art. 3
+## Art. 3
 
 Nessun diritto o compenso sara' dovuto all'erario nel caso di restituzione anticipata di mutuo, fatta mediante stipulazione di un nuovo mutuo con altri Istituti, purche' la somma e la durata del nuovo mutuo non siano inferiori al capitale ancora dovuto ed agli anni che rimangono a decorrere.
 
-### Art. 4
+## Art. 4
 
 Quando il Credito fondiario di un Istituto di emissione divenga deliberatario degli stabili ipotecati, potra' differire il rimborso del rispettivo mutuo residuo con l'obbligo di continuare l'ammortamento semestrale, per la durata del mutuo originario.
 
@@ -4478,13 +4478,13 @@ Nel caso di rivendita, il prezzo dovra' essere impiegato nella estinzione del de
 
 Le disposizioni del presente articolo non si applicano al Credito fondiario del Banco di Napoli, il servizio delle cui cartelle e' regolato dall'articolo 8 del presente allegato S alla legge.
 
-### Art. 5
+## Art. 5
 
 La facolta' attribuita al deliberatario dall'articolo 36 della legge 17 luglio 1890, n. 6955, potra' essere esercitata anche dal compratore dell'immobile aggiudicato al Credito fondiario di un Istituto di emissione.
 
 Il termine di 15 giorni, indicato dal detto articolo 36, e' esteso a 30 giorni a favore del deliberatario che intende di profittare del mutuo fondiario concesso al debitore espropriato.
 
-### Art. 6
+## Art. 6
 
 Dopo il terzo esperimento d'asta, gli Istituti di credito fondiario degli Istituti di emissione, potranno chiedere al Tribunale civile, in Camera di Consiglio, l'autorizzazione di vendere a trattativa privata i beni sottoposti ad espropriazione e ad essi ipotecati, per un prezzo non minore di quello in base al quale fu bandita l'ultima gara.
 
@@ -4492,11 +4492,11 @@ Il relativo provvedimento non potra' essere impugnato se non per nullita' di for
 
 Il prezzo sara' versato all'Istituto, il quale prelevera' l'importo del suo credito in conformita' all'articolo 23, lettera f, del testo unico delle leggi sul Credito fondiario, approvato col Regio decreto 22 febbraio 1885, n. 2922, tenendo in deposito la somma residuale agli effetti del giudizio di graduazione.
 
-### Art. 7
+## Art. 7
 
 Per la nomina, la revoca e la surrogazione del sequestratario di cui alla lettera b dell'articolo 23 del citato testo unico delle leggi sul Credito fondiario, e per la cauzione che possa da lui venir richiesta, il Presidente del Tribunale dovra' conformarsi alle proposte degli Istituti di Credito fondiario degli Istituti di emissione.
 
-### Art. 8
+## Art. 8
 
 A deroga dei comma 5 e 7 dell'articolo 9 del citato testo unico della legge sul Credito fondiario, l'estinzione delle cartelle del Credito fondiario del Banco di Napoli ancora in circolazione alla data della pubblicazione della presente legge, sara' eseguita dal Banco stesso, per conto del suo credito fondiario, a cominciare dal 1° agosto 1895, secondo le rate semestrali di ammortamento determinate nelle tabella annessa al presente allegato S.
 
@@ -4522,7 +4522,7 @@ Sidney Sonnino.
 
 P. Boselli.
 
-### Tabella
+## Tabella
 
 Tabella annessa all'articolo 8 dell'allegato S.
 
@@ -4532,7 +4532,7 @@ Allegato T all'articolo 39.
 
 Disposizioni riguardanti i Banchi di Napoli e di Sicilia.
 
-### Art. 1
+## Art. 1
 
 Il Banco di Napoli e il Banco di Sicilia sono pubblici stabilimenti di credito autonomi, sottoposti alla sorveglianza del ministro del Tesoro.
 
@@ -4544,7 +4544,7 @@ AGGIORNAMENTO (94)
 
 Il D.Lgs. 20 novembre 1990, n. 357, ha disposto (con l'art. 5, comma 1) che "Salvi gli effetti di cui agli articoli 2, 3 e 4, sono soppressi i regimi pensionistici esclusivi di cui all'allegato T, art. 39 della legge 8 agosto 1895, n. 486".
 
-### Art. 2
+## Art. 2
 
 L'Amministrazione centrale del Banco di Napoli e' in Napoli, e quella del Banco di Sicilia in Palermo.
 
@@ -4560,7 +4560,7 @@ AGGIORNAMENTO (94)
 
 Il D.Lgs. 20 novembre 1990, n. 357, ha disposto (con l'art. 5, comma 1) che "Salvi gli effetti di cui agli articoli 2, 3 e 4, sono soppressi i regimi pensionistici esclusivi di cui all'allegato T, art. 39 della legge 8 agosto 1895, n. 486".
 
-### Art. 3
+## Art. 3
 
 Le funzioni dei due Banchi sono ripartite nei seguenti rami:
 
@@ -4582,7 +4582,7 @@ AGGIORNAMENTO (94)
 
 Il D.Lgs. 20 novembre 1990, n. 357, ha disposto (con l'art. 5, comma 1) che "Salvi gli effetti di cui agli articoli 2, 3 e 4, sono soppressi i regimi pensionistici esclusivi di cui all'allegato T, art. 39 della legge 8 agosto 1895, n. 486".
 
-### Art. 4
+## Art. 4
 
 Il Consiglio generale del Banco di Napoli si compone:
 
@@ -4628,7 +4628,7 @@ AGGIORNAMENTO (94)
 
 Il D.Lgs. 20 novembre 1990, n. 357, ha disposto (con l'art. 5, comma 1) che "Salvi gli effetti di cui agli articoli 2, 3 e 4, sono soppressi i regimi pensionistici esclusivi di cui all'allegato T, art. 39 della legge 8 agosto 1895, n. 486".
 
-### Art. 5
+## Art. 5
 
 Il Consiglio generale del Banco di Sicilia si compone:
 
@@ -4660,7 +4660,7 @@ AGGIORNAMENTO (94)
 
 Il D.Lgs. 20 novembre 1990, n. 357, ha disposto (con l'art. 5, comma 1) che "Salvi gli effetti di cui agli articoli 2, 3 e 4, sono soppressi i regimi pensionistici esclusivi di cui all'allegato T, art. 39 della legge 8 agosto 1895, n. 486".
 
-### Art. 6
+## Art. 6
 
 I membri elettivi dei Consigli generali dei due Banchi si rinnovano ogni biennio.
 
@@ -4676,7 +4676,7 @@ AGGIORNAMENTO (94)
 
 Il D.Lgs. 20 novembre 1990, n. 357, ha disposto (con l'art. 5, comma 1) che "Salvi gli effetti di cui agli articoli 2, 3 e 4, sono soppressi i regimi pensionistici esclusivi di cui all'allegato T, art. 39 della legge 8 agosto 1895, n. 486".
 
-### Art. 7
+## Art. 7
 
 I Consigli generali dei due Banchi non potranno deliberare validamente sopra argomenti che escano dalla competenza attribuita loro dai rispettivi statuti.
 
@@ -4688,7 +4688,7 @@ AGGIORNAMENTO (94)
 
 Il D.Lgs. 20 novembre 1990, n. 357, ha disposto (con l'art. 5, comma 1) che "Salvi gli effetti di cui agli articoli 2, 3 e 4, sono soppressi i regimi pensionistici esclusivi di cui all'allegato T, art. 39 della legge 8 agosto 1895, n. 486".
 
-### Art. 8
+## Art. 8
 
 I Consigli centrali di amministrazione dei due Banchi si compongono:
 
@@ -4708,7 +4708,7 @@ AGGIORNAMENTO (94)
 
 Il D.Lgs. 20 novembre 1990, n. 357, ha disposto (con l'art. 5, comma 1) che "Salvi gli effetti di cui agli articoli 2, 3 e 4, sono soppressi i regimi pensionistici esclusivi di cui all'allegato T, art. 39 della legge 8 agosto 1895, n. 486".
 
-### Art. 9
+## Art. 9
 
 I Direttori generali dei due Banchi sono nominati con Regio decreto, sulla proposta del ministro del Tesoro, sentito il Consiglio dei ministri.
 
@@ -4720,7 +4720,7 @@ AGGIORNAMENTO (94)
 
 Il D.Lgs. 20 novembre 1990, n. 357, ha disposto (con l'art. 5, comma 1) che "Salvi gli effetti di cui agli articoli 2, 3 e 4, sono soppressi i regimi pensionistici esclusivi di cui all'allegato T, art. 39 della legge 8 agosto 1895, n. 486".
 
-### Art. 10
+## Art. 10
 
 Le sedi e succursali dei due Banchi sono amministrate dai Direttori, sotto la vigilanza dell'Amministrazione centrale.
 
@@ -4732,7 +4732,7 @@ AGGIORNAMENTO (94)
 
 Il D.Lgs. 20 novembre 1990, n. 357, ha disposto (con l'art. 5, comma 1) che "Salvi gli effetti di cui agli articoli 2, 3 e 4, sono soppressi i regimi pensionistici esclusivi di cui all'allegato T, art. 39 della legge 8 agosto 1895, n. 486".
 
-### Art. 11
+## Art. 11
 
 A cominciare dal 1° gennaio 1896 le pensioni, gli assegni di disponibilita' e di aspettativa e le indennita' di missione e di trasferta degli impiegati dei due Banchi saranno regolati dalle disposizioni vigenti per gl'impiegati dello Stato.
 
@@ -4768,7 +4768,7 @@ AGGIORNAMENTO (94)
 
 Il D.Lgs. 20 novembre 1990, n. 357, ha disposto (con l'art. 5, comma 1) che "Salvi gli effetti di cui agli articoli 2, 3 e 4, sono soppressi i regimi pensionistici esclusivi di cui all'allegato T, art. 39 della legge 8 agosto 1895, n. 486".
 
-### Art. 12
+## Art. 12
 
 La Cassa di risparmio del Banco di Napoli ha un patrimonio suo proprio, distinto da quello del Banco, e sopra di esso i creditori del Banco non possono mai avere alcuna ragione.
 
@@ -4808,7 +4808,7 @@ AGGIORNAMENTO (94)
 
 Il D.Lgs. 20 novembre 1990, n. 357, ha disposto (con l'art. 5, comma 1) che "Salvi gli effetti di cui agli articoli 2, 3 e 4, sono soppressi i regimi pensionistici esclusivi di cui all'allegato T, art. 39 della legge 8 agosto 1895, n. 486".
 
-### Art. 13
+## Art. 13
 
 Il limite dello sconto di favore concesso ai termini dell'articolo 4 della legge 10 agosto 1893, n. 449, e' elevato pel Banco di Sicilia a 6 milioni di lire; ma le anticipazioni sopra ordini in zolfi non potranno eccedere la meta' del valore della merce. (5)((94))
 
@@ -4832,19 +4832,19 @@ Il D.Lgs. 20 novembre 1990, n. 357, ha disposto (con l'art. 5, comma 1) che "Sal
 
 Allegato U all'articolo 42.
 
-### Art. 1
+## Art. 1
 
 ((ARTICOLO ABROGATO DALLA L. 8 APRILE 1906, N. 108))
 
-### Art. 2
+## Art. 2
 
 Nei casi di collocamento a riposo od in riforma per infermita' dipendenti o no da causa di servizio, il Governo dovra' far procedere allo accertamento di esse mediante visita collegiale e con le altre cautele da stabilirsi con regolamento.
 
-### Art. 3
+## Art. 3
 
 ((ARTICOLO ABROGATO DAL REGIO D.L. 14 DICEMBRE 1933, N. 1751, CONVERTITO SENZA MODIFICAZIONI DALLA L. 22 GENNAIO 1934, N. 136))
 
-### Art. 4
+## Art. 4
 
 La somma da stabilirsi annualmente per le pensioni di autorita', ai termini dell'articolo 172 del testo unico delle leggi sulle pensioni, non deve eccedere lire 500,000 complessivamente per tutti i Ministeri. Pero' per l'esercizio 1895-96 questa somma e' estesa a
 

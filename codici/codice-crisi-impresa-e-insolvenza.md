@@ -282,11 +282,9 @@ Comunicazioni telematiche
 
 3\. La giurisdizione italiana di cui al comma 1 sussiste anche per le azioni che derivano direttamente dalla procedura.))
 
-### (( Titolo II - (Composizione negoziata della crisi, piattaforma unica
+### (( Titolo II - (Composizione negoziata della crisi, piattaforma unica nazionale, concordato semplificato e segnalazioni per la anticipata emersione della crisi)
 
-#### nazionale, concordato semplificato e segnalazioni per la anticipata - emersione della crisi)
-
-##### Capo I - (Composizione negoziata della crisi) ))
+#### Capo I - (Composizione negoziata della crisi) ))
 
 ###### Art. 12 - Composizione negoziata per la soluzione della crisi d'impresa
 
@@ -908,11 +906,9 @@ Eredita' giacente e istituzione di erede sotto condizione sospensiva
 
 > In ogni caso l'autorita' giudiziaria, quando concorrono giusti motivi, puo' provvedere altrimenti.".
 
-#### Capo IV - ((Accesso agli strumenti di regolazione della crisi e dell'insolvenza
+#### Capo IV - ((Accesso agli strumenti di regolazione della crisi e dell'insolvenza e alla liquidazione giudiziale))
 
-##### e alla liquidazione giudiziale)) - Sezione I
-
-###### ((Iniziativa per l'accesso agli strumenti di regolazione - della crisi e dell'insolvenza e alla liquidazione giudiziale))
+##### Sezione I - ((Iniziativa per l'accesso agli strumenti di regolazione della crisi e dell'insolvenza e alla liquidazione giudiziale))
 
 ###### Art. 37
 
@@ -946,9 +942,7 @@ Tali elenchi devono contenere l'indicazione del domicilio digitale dei creditori
 
 3\. Quando la domanda e' presentata ai sensi dell'articolo 44, comma 1, lettera a) )) ((,il debitore deposita unitamente alla domanda unicamente i bilanci relativi agli ultimi tre esercizi o, per le imprese non soggette all'obbligo di redazione del bilancio, le dichiarazioni dei redditi e le dichiarazioni IRAP concernenti i tre esercizi precedenti, l'elenco nominativo dei creditori con l'indicazione dei rispettivi crediti e delle cause di prelazione, oltre che con l'indicazione del loro domicilio digitale, se ne sono muniti. L'ulteriore documentazione prevista dai commi 1 e 2 deve essere depositata nel termine assegnato dal tribunale ai sensi dell'articolo 44, comma 1, lettera a).
 
-##### Sezione II - ((Procedimento unitario per l'accesso agli strumenti di
-
-###### regolazione della crisi e dell'insolvenza e alla liquidazione - giudiziale))
+##### Sezione II - ((Procedimento unitario per l'accesso agli strumenti di regolazione della crisi e dell'insolvenza e alla liquidazione giudiziale))
 
 ###### Art. 40 - Domanda di accesso agli strumenti di regolazione della crisi e dell'insolvenza e alla liquidazione giudiziale
 
@@ -2444,7 +2438,7 @@ Annullamento del concordato
 
 3\. Il procedimento e' regolato ai sensi degli articoli 40 e 41.
 
-##### ((Capo III-bis - Strumenti di regolazione della crisi e dell'insolvenza delle società))
+#### ((Capo III-bis - Strumenti di regolazione della crisi e dell'insolvenza delle società))
 
 ###### Art. 120-bis - Accesso
 

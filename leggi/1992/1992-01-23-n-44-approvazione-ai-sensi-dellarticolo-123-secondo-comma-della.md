@@ -27,7 +27,7 @@ PROMULGA
 
 la seguente legge:
 
-###### Art. 1
+##### Art. 1
 
 1\. E' approvato, ai sensi dell'articolo 123, secondo comma, della Costituzione, lo statuto della regione Umbria, nel testo allegato alla presente legge.
 
@@ -47,7 +47,7 @@ Visto, il Guardasigilli: MARTELLI
 
 STATUTO DELLA REGIONE UMBRIA
 
-###### Art. 1
+##### Art. 1
 
 1\. L'Umbria e' la Regione autonoma nell'unita' della Repubblica italiana, con propri poteri e funzioni, secondo i principi e nei limiti della Costituzione.
 
@@ -57,7 +57,7 @@ STATUTO DELLA REGIONE UMBRIA
 
 4\. La Regione concorre allo sviluppo del processo di unificazione dell'Europa.
 
-###### Art. 2
+##### Art. 2
 
 1\. La Regione dell'Umbria comprende i territori delle attuali prov- ince di Perugia e di Terni ed ha per capoluogo la citta' di Perugia.
 
@@ -65,29 +65,27 @@ STATUTO DELLA REGIONE UMBRIA
 
 3\. Il gonfalone regionale viene esposto il 15 maggio di ogni anno in tutte le sedi dell'Amministrazione regionale ed in quelle delle province e dei comuni dell'Umbria.
 
-###### Art. 3
+##### Art. 3
 
 1\. Sono organi della Regione il Consiglio regionale, la Giunta regionale ed il suo Presidente.
 
 ## TITOLO II - PRINCIPI PROGRAMMATICI
 
-### Capo I
+### Capo I - RAPPORTI UMANO-SOCIALI
 
-#### RAPPORTI UMANO-SOCIALI
-
-###### Art. 4
+##### Art. 4
 
 1\. La Regione concorre a rimuovere gli ostacoli di ordine economico e sociale che impediscono il pieno sviluppo della persona umana ed il libero esercizio dei suoi diritti inviolabili. Informa la propria azione al fine di realizzare la piena parita' tra uomini e donne.
 
-###### Art. 5
+##### Art. 5
 
 1\. La Regione adotta, nell'ambito delle proprie competenze, ogni misura idonea a favorire l'adempimento dei compiti che la Costituzione riconosce ed affida alla comunita' familiare.
 
-###### Art. 6
+##### Art. 6
 
 1\. La Regione riconosce l'ambiente come bene essenziale della collettivita' e ne assume la tutela e la qualita' come obiettivi fondamentali della propria politica.
 
-###### Art. 7
+##### Art. 7
 
 1\. La Regione favorisce lo sviluppo di un sistema di sicurezza sociale fondato sui principi dell'uguaglianza e della solidarieta' ed ispirato all'esigenza di assicurare a tutti una esistenza libera e dignitosa.
 
@@ -95,7 +93,7 @@ STATUTO DELLA REGIONE UMBRIA
 
 3\. La Regione provvede ai compiti di prevenzione, cura e riabilitazione mediante il servizio sanitario regionale, assicurando la partecipazione dei cittadini, degli enti locali e delle associazioni di volontariato e garantendo un adeguato livello di prestazioni.
 
-###### Art. 8
+##### Art. 8
 
 1\. La Regione concorre a rimuovere gli ostacoli che di fatto limitano il diritto di accesso dei cittadini ad ogni ordine e grado dell'istruzione ed il conseguimento dei piu' alti livelli di formazione.
 
@@ -103,27 +101,27 @@ STATUTO DELLA REGIONE UMBRIA
 
 3\. La Regione predispone e favorisce servizi ed attivita' destinati alla formazione, al perfezionamento, alla riqualificazione ed all'orientamento professionale.
 
-###### Art. 9
+##### Art. 9
 
 1\. La Regione riconosce nel patrimonio storico, archeologico, artistico e paesistico un preminente contributo ai valori della civilta' ed un aspetto inalienabile della cultura e dell'identita' regionale.
 
-###### Art. 10
+##### Art. 10
 
 1\. La Regione riconosce nell'impiego culturale e sportivo del tempo libero un momento rilevante ed autonomo della formazione ed esplicazione della persona umana; ne favorisce la diffusione e lo sviluppo, promuovendo la realizzazione di strutture decentrate ed iniziative idonee e valorizzando l'attivita' di gruppi ed associazioni.
 
-###### Art. 11
+##### Art. 11
 
 1\. La Regione riconosce la ricerca scientifica nella sua piena autonomia come fattore essenziale del progresso civile e dello sviluppo economico e promuove forme di collaborazione con le Universita' e le istituzioni scientifiche e culturali.
 
-###### Art. 12
+##### Art. 12
 
 1\. La Regione riconosce la funzione sociale dell'associazionismo e ne favorisce la diffusione.
 
 2\. La Regione considera le associazioni di volontariato come soggetti di partecipazione e di contributo sociale autonomo al perseguimento degli interessi generali e ne agevola la formazione e l'attivita'.
 
-## Capo II - RAPPORTI POLITICO-COMUNITARI
+### Capo II - RAPPORTI POLITICO-COMUNITARI
 
-###### Art. 13
+##### Art. 13
 
 1\. La Regione riconosce nel diritto dei cittadini a partecipare all'esercizio delle funzioni legislative, amministrative e di indirizzo politico, un riferimento essenziale della propria azione.
 
@@ -137,7 +135,7 @@ STATUTO DELLA REGIONE UMBRIA
 
 6\. La legge determina forme e modalita' di attuazione del referen- dum consultivo.
 
-###### Art. 14
+##### Art. 14
 
 1\. La Regione riconosce nel diritto alla informazione il presupposto fondamentale della partecipazione ed un aspetto essenziale dei diritti del cittadino.
 
@@ -145,7 +143,7 @@ STATUTO DELLA REGIONE UMBRIA
 
 3\. La legge regola la pubblicita' ed il diritto di accesso agli atti della Regione.
 
-###### Art. 15
+##### Art. 15
 
 1\. La Regione ispira la propria azione al principio della collaborazione con i Comuni e le Province, per concorrere al pieno e coordinato sviluppo del sistema delle autonomie locali. A questo fine organizza la propria iniziativa secondo i principi della delega e del decentramento, predisponendo:
 
@@ -159,7 +157,7 @@ b) procedure per informare l'attivita' amministrativa ai criteri della semplicit
 
 4\. La Regione, in armonia con la Costituzione e per il conseguimento delle finalita' generali della programmazione, opera per realizzare forme di collegamento e di cooperazione fra gli organi statali e regionali.
 
-###### Art. 16
+##### Art. 16
 
 1\. La Regione esercita normalmente le funzioni amministrative proprie e quelle delegate dallo Stato, delegandole ai Comuni, alle Province o ad altri enti locali; in casi particolari si avvale dei loro uffici.
 
@@ -167,9 +165,9 @@ b) procedure per informare l'attivita' amministrativa ai criteri della semplicit
 
 3\. Allorche' per l'attuazione di specifici programmi e progetti sia necessario il coordinamento dell'iniziativa regionale con quella di istituzioni locali, di amministrazioni statali e di altri enti pubblici, la Regione puo' promuovere con tali amministrazioni accordi di programma, che definiscano il concorso di ciascun soggetto partecipante alla realizzazione dei progetti. A tali accordi possono partecipare anche enti, imprese ed altri soggetti privati.
 
-## Capo III - RAPPORTI ECONOMICO-SOCIALI
+### Capo III - RAPPORTI ECONOMICO-SOCIALI
 
-###### Art. 17
+##### Art. 17
 
 1\. La Regione riconosce nel lavoro una condizione di liberta' ed un diritto fondamentale della persona e promuove la realizzazione di pari opportunita' per uomini e donne.
 
@@ -181,7 +179,7 @@ Promuove investimenti pubblici a fini produttivi ed occupazionali; favorisce l'a
 
 4\. Promuove e sostiene le diverse forme di associazione e di cooperazione fra lavoratori dipendenti ed autonomi, per lo sviluppo dell'imprenditorialita' cooperativa.
 
-###### Art. 18
+##### Art. 18
 
 1\. La Regione favorisce l'equilibrato sviluppo dell'intero territorio regionale indirizzando a tal fine le risorse, la diffusione dei servizi e delle strutture civili e culturali, per impedire lo spopolamento del territorio ed i fenomeni di disgregazione sociale e familiare ad esso conseguenti.
 
@@ -189,7 +187,7 @@ Promuove investimenti pubblici a fini produttivi ed occupazionali; favorisce l'a
 
 3\. Promuove iniziative per il pieno inserimento sociale dei cittadini provenienti da paesi extracomunitari.
 
-###### Art. 19
+##### Art. 19
 
 1\. La Regione assume la programmazione come metodo della propria azione e come processo democratico per realizzare il concorso dei soggetti sociali ed istituzionali all'equilibrato sviluppo della comunita' regionale.
 
@@ -203,7 +201,7 @@ Promuove investimenti pubblici a fini produttivi ed occupazionali; favorisce l'a
 
 6\. Per l'attuazione degli indirizzi e delle scelte della programmazione la Regione predispone programmi pluriennali di attivita' e di spesa per le materie di sua competenza, nonche' per le materie ad essa delegate dallo Stato. 7. La legge detta norme per le procedure di formazione, aggiornamento ed attuazione degli strumenti programmatori, nonche' per la verifica dei loro risultati.
 
-###### Art. 20
+##### Art. 20
 
 1\. La Regione attraverso il piano regionale di sviluppo e il piano urbanistico territoriale, promuove la qualificazione degli insediamenti umani, produttivi e delle infrastrutture: provvede alla difesa dell'equilibrio ecologico ed alla tutela e valorizzazione delle risorse culturali e paesistiche.
 
@@ -211,13 +209,13 @@ Promuove investimenti pubblici a fini produttivi ed occupazionali; favorisce l'a
 
 3\. Adotta provvedimenti tesi alla salvaguardia dalle calamita' anche attraverso il concorso alla organizzazione di servizi e strutture di protezione civile.
 
-###### Art. 21
+##### Art. 21
 
 1\. La Regione concorre a promuovere un ordinato ed equilibrato sistema della viabilita' e delle comunicazioni, integrato con il sistema nazionale ed a realizzare ogni altra infrastruttura atta a favorire lo sviluppo economico e sociale della comunita'.
 
 2\. Organizza il sistema dei trasporti per garantire la piu' ampia mobilita', individuale e collettiva, all'interno del territorio regionale come area urbana diffusa.
 
-###### Art. 22
+##### Art. 22
 
 1\. La Regione, nell'ambito delle politiche nazionali e comunitarie e nella rigorosa tutela dell'equilibrio ecologico ed ambientale, promuove ed attua interventi per lo sviluppo dei settori agricolo, agro-alimentare, montano e forestale.
 
@@ -229,7 +227,7 @@ favorisce lo sviluppo dell'impresa agricola singola o associata; adotta programm
 
 4\. Coordina le proprie risorse per realizzare un efficiente sistema agro-industriale-alimentare, valorizzando la qualita' e tipicita' dei prodotti agricoli, zootecnici ed alimentari, in collaborazione con enti pubblici, organizzazioni professionali, associazioni di produttori ed organismi cooperativi, predisponendo a questi fini strumenti ed interventi di mercato.
 
-###### Art. 23
+##### Art. 23
 
 1\. La Regione riconosce il valore e la funzione dell'attivita' artigiana e ne promuove lo sviluppo imprenditoriale.
 
@@ -237,7 +235,7 @@ favorisce lo sviluppo dell'impresa agricola singola o associata; adotta programm
 
 3\. Adotta idonee misure per favorire la formazione professionale degli artigiani.
 
-###### Art. 24
+##### Art. 24
 
 1\. La Regione promuove il turismo come essenziale fattore di sviluppo economico e sociale dell'Umbria.
 
@@ -245,45 +243,43 @@ favorisce lo sviluppo dell'impresa agricola singola o associata; adotta programm
 
 3\. Adotta misure idonee alla diffusione delle attivita' agrituristiche.
 
-###### Art. 25
+##### Art. 25
 
 1\. La Regione, nel rispetto delle esigenze di conservazione, ricostituzione e valorizzazione della flora e della fauna e del riequilibrio dell'ambiente naturale, disciplina la caccia e la pesca.
 
-###### Art. 26
+##### Art. 26
 
 1\. La Regione concorre a favorire la realizzazione del diritto alla casa per tutti i cittadini, privilegiando, anche a tal fine, gli interventi di recupero nei centri storici.
 
 ## TITOLO III - ORGANI DELLA REGIONE
 
-### Capo I
+### Capo I - IL CONSIGLIO REGIONALE
 
-#### IL CONSIGLIO REGIONALE
+#### Sezione I - I Consiglieri regionali
 
-##### Sezione I - I Consiglieri regionali
-
-###### Art. 27
+##### Art. 27
 
 1\. L'elettorato attivo e passivo, il sistema di elezione, il numero ed i casi di ineleggibilita' e di incompatibilita' dei Consiglieri regionali, la durata in carica del Consiglio regionale e le modalita' per la convocazione dei comizi elettorali sono stabiliti con legge della Repubblica.
 
-###### Art. 28
+##### Art. 28
 
 1\. I Consiglieri regionali entrano nell'esercizio delle loro funzioni all'atto della proclamazione.
 
 2\. Alla convalida della elezione dei Consiglieri provvede, entro sessanta giorni dall'insediamento, a norma del suo Regolamento interno, il Consiglio regionale sulla base di una relazione dell'Ufficio di Presidenza.
 
-###### Art. 29
+##### Art. 29
 
 1\. I Consiglieri regionali rappresentano l'intera Regione senza vincolo di mandato.
 
 2\. Essi non possono essere chiamati a rispondere delle opinioni espresse e dei voti dati nell'esercizio delle loro funzioni.
 
-###### Art. 30
+##### Art. 30
 
 1\. I Consiglieri regionali hanno il dovere di intervenire alle sedute del Consiglio e di partecipare ai lavori delle Commissioni delle quali fanno parte.
 
 2\. I Consiglieri regionali che non partecipano alle sedute del Consiglio regionale sono soggetti alle sanzioni previste dal Regolamento interno.
 
-###### Art. 31
+##### Art. 31
 
 1\. I Consiglieri regionali hanno diritto di interrogazione, di interpellanza e di mozione. Hanno diritto altresi' di ricevere dall'Ufficio di Presidenza e dalla Giunta notizie, informazioni e documenti utili all'espletamento del loro mandato.
 
@@ -291,27 +287,27 @@ favorisce lo sviluppo dell'impresa agricola singola o associata; adotta programm
 
 3\. I Consiglieri regionali possono richiedere ed ottenere la visione degli atti e documenti che in base alla legge siano qualificati come riservati, fermo restando l'obbligo di mantenerne la riservatezza.
 
-###### Art. 32
+##### Art. 32
 
 1\. La legge regionale stabilisce l'entita' ed i titoli delle indennita' ai Consiglieri regionali a seconda delle loro funzioni ed attivita'.
 
-###### Art. 33
+##### Art. 33
 
 1\. La decadenza e' dichiarata dal Consiglio regionale a norma del Regolamento interno ed ha efficacia dal momento nel quale il Consiglio la dichiara.
 
-###### Art. 34
+##### Art. 34
 
 1\. Le dimissioni da Consigliere regionale devono essere presentate per iscritto al Presidente del Consiglio regionale ed hanno efficacia dal momento nel quale il Presidente le comunica al Consiglio nella sua prima riunione.
 
-###### Art. 35
+##### Art. 35
 
 1\. In caso di morte, decadenza o dimissioni di un Consigliere regionale, l'Ufficio di Presidenza del Consiglio lo sostituisce con chi ne ha diritto; la sostituzione ha efficacia dal momento in cui il Presidente la comunica al Consiglio nella sua prima riunione.
 
 2\. Per la convalida si procede ai sensi dell'articolo 28.
 
-## Sezione II - Il Consiglio regionale
+#### Sezione II - Il Consiglio regionale
 
-###### Art. 36
+##### Art. 36
 
 1\. Il Consiglio regionale tiene la sua prima seduta il primo giorno non festivo della terza settimana successiva alla proclamazione degli eletti su convocazione del Consigliere anziano e con preavviso di almeno sette giorni.
 
@@ -319,7 +315,7 @@ favorisce lo sviluppo dell'impresa agricola singola o associata; adotta programm
 
 3\. La Presidenza provvisoria del nuovo Consiglio e' assunta dal Consigliere piu' anziano di eta' fra i presenti, mentre i due Consiglieri piu' giovani fungono da segretari.
 
-###### Art. 37
+##### Art. 37
 
 1\. Nella prima seduta il Consiglio regionale procede all'elezione, nel proprio seno, dell'Ufficio di Presidenza, composto dal Presidente, da due Vicepresidenti e da due Segretari.
 
@@ -331,7 +327,7 @@ favorisce lo sviluppo dell'impresa agricola singola o associata; adotta programm
 
 5\. I componenti dell'Ufficio di Presidenza durano in carica 30 mesi e sono rieleggibili.
 
-###### Art. 38
+##### Art. 38
 
 1\. Il Presidente del Consiglio convoca e presiede l'assemblea, dirige i lavori e provvede all'insediamento delle Commissioni.
 
@@ -345,45 +341,45 @@ Convoca e presiede l'Ufficio di Presidenza.
 
 5\. L'Ufficio di Presidenza del Consiglio assume anche la qualifica e le funzioni di Giunta delle elezioni.
 
-###### Art. 39
+##### Art. 39
 
 1\. Il Consiglio regionale si riunisce in seduta ordinaria in quattro sessioni annuali nei mesi di febbraio, maggio, ottobre e dicembre.
 
 2\. Il Consiglio si riunisce, inoltre, ogni qualvolta il suo Presidente, d'intesa con l'Ufficio di Presidenza, lo ritenga opportuno, ovvero su richiesta del Presidente della Giunta o di almeno un quinto dei Consiglieri in carica.
 
-###### Art. 40
+##### Art. 40
 
 1\. I Consiglieri regionali si costituiscono in Gruppi.
 
 2\. L'Ufficio di Presidenza assicura ai Gruppi, per l'assolvimento delle loro funzioni, la disponibilita' di strutture, personale e servizi, ed assegna ad essi contributi a carico del bilancio del Consiglio, secondo modalita' e criteri stabiliti con legge.
 
-###### Art. 41
+##### Art. 41
 
 1\. Per quanto non previsto dal presente Statuto, il Consiglio delibera con la presenza della maggioranza dei Consiglieri assegnati alla Regione e con il voto favorevole della maggioranza dei presenti.
 
-###### Art. 42
+##### Art. 42
 
 1\. Le sedute del Consiglio regionale sono pubbliche eccettuati i casi previsti dal Regolamento interno.
 
 2\. Le votazioni sono effettuate con voto palese, eccettuati i casi previsti dal presente Statuto e dal Regolamento interno.
 
-###### Art. 43
+##### Art. 43
 
 1\. Il Consiglio regionale determina l'indirizzo politico e programmatico della Regione e ne verifica l'attuazione; esercita le potesta' legislative attribuite o demandate alla Regione e quelle regolamentari; controlla l'attivita' amministrativa della Regione; delibera altresi' gli atti amministrativi di indirizzo e di programmazione ed ogni altro atto attribuito con legge regionale; adempie alle altre funzioni ad esso attribuite dalla Costituzione, dalle leggi statali nonche' a quelle previste da normative comunitarie.
 
-###### Art. 44
+##### Art. 44
 
 1\. Il Consiglio regionale ha l'autonomia funzionale e contabile interna necessaria al libero esercizio delle sue funzioni, che esercita nel rispetto della Costituzione, del presente Statuto e sulla base del Regolamento interno.
 
-###### Art. 45
+##### Art. 45
 
 1\. Il Consiglio regionale designa, con votazione segreta, i delegati della Regione dell'Umbria previsti dall'articolo 83 della Costituzione. Ciascun Consigliere esprime un solo nominativo. Sono proclamati eletti i Consiglieri che riportano il maggior numero di voti. A parita' di voti e' proclamato eletto il Consigliere piu' anziano di eta'.
 
-###### Art. 46
+##### Art. 46
 
 1\. Il Consiglio regionale approva, a maggioranza assoluta dei Consiglieri assegnati alla Regione, il proprio Regolamento interno, il bilancio preventivo ed il conto consuntivo.
 
-###### Art. 47
+##### Art. 47
 
 1\. Il Consiglio regionale istituisce nel suo seno Commissioni permanenti. Il numero e l'organizzazione delle Commissioni sono stabiliti dal Regolamento interno.
 
@@ -401,11 +397,11 @@ Convoca e presiede l'Ufficio di Presidenza.
 
 8\. Per l'adempimento delle proprie funzioni legislative, amministrative e di controllo, le Commissioni promuovono audizioni dei soggetti sociali ed istituzionali.
 
-###### Art. 48
+##### Art. 48
 
 1\. Il Consiglio regionale puo' istituire Commissioni speciali per indagini e studi e per l'esame di particolari questioni, fissando il termine del loro mandato.
 
-###### Art. 49
+##### Art. 49
 
 1\. Il Consiglio regionale puo' disporre inchieste su materie che comunque interessino la Regione.
 
@@ -415,13 +411,13 @@ Convoca e presiede l'Ufficio di Presidenza.
 
 4\. Le Commissioni di inchiesta sono formate da Consiglieri regionali.
 
-## Capo II - LA GIUNTA ED IL SUO PRESIDENTE
+### Capo II - LA GIUNTA ED IL SUO PRESIDENTE
 
-###### Art. 50
+##### Art. 50
 
 1\. La Giunta e' composta dal Presidente e da otto membri, di cui uno con funzioni di Vice Presidente.
 
-###### Art. 51
+##### Art. 51
 
 1\. Il Consiglio regionale elegge il Presidente della Giunta nella prima seduta successiva agli adempimenti di cui all'articolo 37, con la presenza di almeno due terzi dei Consiglieri assegnati alla Regione.
 
@@ -433,7 +429,7 @@ Convoca e presiede l'Ufficio di Presidenza.
 
 5\. Nel caso di mancata elezione si procede ad altra votazione a distanza di otto giorni con lo stesso sistema di cui al comma precedente e cosi' successivamente.
 
-###### Art. 52
+##### Art. 52
 
 1\. Subito dopo l'elezione del Presidente il Consiglio regionale elegge la Giunta, a maggioranza assoluta dei Consiglieri assegnati alla Regione.
 
@@ -443,19 +439,19 @@ Convoca e presiede l'Ufficio di Presidenza.
 
 4\. Qualora la lista non sia approvata, l'elezione del Presidente si intende revocata.
 
-###### Art. 53
+##### Art. 53
 
 1\. La Giunta ed il suo Presidente rimangono in carica sino all'elezione del nuovo Presidente e della nuova Giunta.
 
 2\. La Giunta ed il suo Presidente, dopo la scadenza del Consiglio, l'approvazione di una mozione di sfiducia, l'accettazione delle dimissioni, o il voto negativo del Consiglio sulla proposta condizionata di cui all'articolo 55, provvedono solo agli affari di ordinaria amministrazione.
 
-###### Art. 54
+##### Art. 54
 
 1\. Il Presidente della Giunta e la Giunta cessano dalla carica in seguito ad una mozione di sfiducia approvata per appello nominale a maggioranza dei Consiglieri assegnati alla Regione.
 
 2\. La mozione di sfiducia deve essere motivata e puo' contenere l'indicazione di nuovi indirizzi politico-programmatici. La mozione, sottoscritta da almeno un quarto dei Consiglieri assegnati alla Regione, deve essere posta in discussione non prima di sette giorni e non oltre quindici giorni dalla presentazione.
 
-###### Art. 55
+##### Art. 55
 
 1\. In caso di dimissioni del Presidente della Giunta, la permanenza in carica della Giunta e' subordinata alla elezione, entro 15 giorni dall'accettazione delle dimissioni, a nuovo Presidente di un candidato che dichiari preventivamente di confermare gli indirizzi politico-programmatici e la composizione della Giunta in carica. La stessa norma si applica nel caso di decadenza o di morte del Presidente.
 
@@ -463,19 +459,19 @@ Convoca e presiede l'Ufficio di Presidenza.
 
 3\. Le dimissioni del Presidente e della Giunta, salvo la mancata approvazione del bilancio, non sono obbligatorie per voti contrari del Consiglio su una proposta della Giunta. Il Presidente puo' tuttavia, su delibera della Giunta, subordinare la sua permanenza in carica e quella della Giunta all'accoglimento di sue proposte, ove dichiari che esse sono essenziali all'attuazione del programma.
 
-###### Art. 56
+##### Art. 56
 
 1\. Il Presidente del Consiglio regionale, cui sia stato rivolto l'invito previsto dal primo comma dell'articolo 126 della Costituzione, dispone la convocazione del Consiglio in via straordinaria entro cinque giorni, fissando la seduta tra il decimo e il quindicesimo giorno dall'arrivo dell'invito stesso.
 
 2\. Ove non vi provveda il Presidente, la convocazione e' disposta da almeno un quinto dei Consiglieri eletti.
 
-###### Art. 57
+##### Art. 57
 
 1\. Nell'ipotesi di decadenza, dimissioni o morte di un componente la Giunta, il Presidente della Giunta ne propone la sostituzione al Consiglio, affidando nel frattempo le relative funzioni ad altro componente la Giunta o assumendole egli stesso.
 
 2\. Se la Giunta si riduce a meno della meta' dei propri membri, il Consiglio la rinnova per intero con le modalita' di cui all'articolo 52.
 
-###### Art. 58
+##### Art. 58
 
 1\. Il Presidente della Giunta:
 
@@ -501,7 +497,7 @@ l) esercita le altre attribuzioni conferitegli dalla Costituzione, dal presente 
 
 2\. Il Presidente della Giunta e' responsabile del proprio operato di fronte al Consiglio.
 
-###### Art. 59
+##### Art. 59
 
 1\. La Giunta regionale e' responsabile dell'indirizzo politico- amministrativo della Regione e ne risponde al Consiglio.
 
@@ -521,7 +517,7 @@ f) deliberare in materia di liti attive e passive, rinunzie e transazioni.
 
 3\. La Giunta regionale esercita le altre funzioni ad essa demandate dalla Costituzione, dal presente Statuto e dalla legge.
 
-###### Art. 60
+##### Art. 60
 
 1\. La Giunta delibera con l'intervento della maggioranza dei componenti in carica ed a maggioranza di voti.
 
@@ -531,13 +527,13 @@ f) deliberare in materia di liti attive e passive, rinunzie e transazioni.
 
 4\. La Giunta adotta un regolamento per l'esercizio della propria attivita'.
 
-###### Art. 61
+##### Art. 61
 
 1\. La Giunta esercita collegialmente le proprie funzioni.
 
 2\. La legge regionale determina le attribuzioni dei componenti la Giunta, definendo anche opportune forme di coordinamento.
 
-###### Art. 62
+##### Art. 62
 
 1\. Gli uffici di Presidente e di componente della Giunta sono incompatibili con quello di amministratore di ente pubblico comunque dipendente o controllato dalla Regione.
 
@@ -545,7 +541,7 @@ f) deliberare in materia di liti attive e passive, rinunzie e transazioni.
 
 ## TITOLO IV - PROCEDIMENTI DI FORMAZIONE DELLE LEGGI, DEI REGOLAMENTI E DEGLI ATTI AMMINISTRATIVI
 
-###### Art. 63
+##### Art. 63
 
 1\. L'iniziativa delle leggi, dei regolamenti e degli atti amministrativi di indirizzo e programmazione, di cui all'articolo 43, appartiene alla Giunta ed a ciascun membro del Consiglio. Appartiene altresi', secondo le modalita' stabilite con legge regionale, a ciascun Consiglio provinciale, ai Consigli comunali dei comuni che singolarmente o unitamente ad altri raggiungano una popolazione non inferiore a 10.000 abitanti o ad almeno cinque comuni, indipendentemente dalla consistenza demografica.
 
@@ -553,19 +549,19 @@ f) deliberare in materia di liti attive e passive, rinunzie e transazioni.
 
 3\. I cittadini della Regione e le loro associazioni ed organizzazioni esercitano l'iniziativa delle leggi, dei regolamenti regionali e degli atti amministrativi di indirizzo e programmazione, di cui all'articolo 43, mediante la proposta, da parte di almeno 3.000 elettori, di un progetto redatto secondo le modalita' stabilite dalla legge regionale.
 
-###### Art. 64
+##### Art. 64
 
 1\. Qualora sulle proposte di iniziativa popolare non sia stata presa alcuna decisione entro sei mesi dalla loro presentazione, la proposta e' iscritta di diritto all'ordine del giorno del Consiglio e discussa nella prima seduta con precedenza su ogni altro argomento.
 
 2\. Le proposte di iniziativa popolare sono in ogni caso sottoposte all'esame del Consiglio nel testo dei proponenti.
 
-###### Art. 65
+##### Art. 65
 
 1\. Ogni disegno di legge e' presentato secondo le norme del Regolamento interno all'Ufficio di Presidenza che lo trasmette per l'esame alle Commissioni competenti, costituite nelle forme e nei modi di cui al Regolamento medesimo. Il disegno di legge e' approvato dal Consiglio articolo per articolo e con votazione finale. Si puo' dar luogo ad un'unica votazione sul complesso della legge, nel testo approvato dalla Commissione competente, ove cio' sia richiesto dal relatore e approvato all'unanimita' dal Consiglio regionale.
 
 2\. Il Regolamento interno stabilisce i procedimenti abbreviati per disegni di legge per i quali sia dichiarata l'urgenza.
 
-###### Art. 66
+##### Art. 66
 
 1\. Il Presidente del Consiglio, entro cinque giorni dalla approvazione, invia la legge regionale al Commissario del Governo che, salvo il caso di opposizione da parte del Governo, deve vistarla nel termine di trenta giorni dalla comunicazione.
 
@@ -573,21 +569,21 @@ f) deliberare in materia di liti attive e passive, rinunzie e transazioni.
 
 3\. Nel caso di rinvio della legge, ove il Consiglio regionale l'approvi di nuovo a maggioranza assoluta dei suoi componenti, la legge stessa e' promulgata se, entro quindici giorni dalla comunicazione, il Governo della Repubblica non promuova la questione di legittimita' avanti la Corte Costituzionale, o quella di merito per contrasto d'interessi davanti alle Camere.
 
-###### Art. 67
+##### Art. 67
 
 1\. La legge regionale e' promulgata dal Presidente della Giunta entro dieci giorni dall'apposizione espressa o tacita del visto. Il testo e' preceduto e seguito dalle formule di rito.
 
-###### Art. 68
+##### Art. 68
 
 1\. Nel caso in cui una legge regionale venga, anche parzialmente, dichiarata illegittima dalla Corte Costituzionale o annullata a seguito di deliberazione del Parlamento ovvero abrogata in seguito a referendum, il Consiglio regionale delibera sui provvedimenti consequenziali da adottare nella prima seduta successiva alla pubblicazione della sentenza della Corte o della deliberazione del Parlamento ovvero alla proclamazione dei risultati del referendum.
 
-###### Art. 69
+##### Art. 69
 
 1\. La legge regionale subito dopo la promulgazione e' pubblicata nel Bollettino Ufficiale della Regione ed entra in vigore il quindicesimo giorno dalla pubblicazione, salvo che non sia fissata nella legge stessa una data successiva.
 
 2\. La promulgazione e l'entrata in vigore di una legge regionale possono avvenire anche prima della scadenza dei termini di cui agli articoli precedenti, qualora la legge stessa sia dichiarata urgente dal Consiglio a maggioranza dei Consiglieri assegnati alla Regione e il Governo della Repubblica lo consenta.
 
-###### Art. 70
+##### Art. 70
 
 1\. Le norme di attuazione di cui all'ultimo comma dell'articolo 117 della Costituzione sono approvate con legge regionale.
 
@@ -597,13 +593,13 @@ f) deliberare in materia di liti attive e passive, rinunzie e transazioni.
 
 ## TITOLO V - IL REFERENDUM
 
-###### Art. 71
+##### Art. 71
 
 1\. La Regione riconosce nel referendum il carattere di fondamentale istituto di democrazia e ne favorisce lo svolgimento.
 
 2\. Possono essere indetti nel territorio della Regione secondo le modalita' e forme stabilite dalla legge, referendum abrogativi di leggi, regolamenti ed atti amministrativi di competenza del Consiglio regionale ai sensi dell'articolo 43; possono essere altresi' indetti referendum consultivi al fine di conoscere gli orientamenti della comunita' regionale o di comunita' locali su specifici temi che comunque interessino l'iniziativa politica e amministrativa della Regione.
 
-###### Art. 72
+##### Art. 72
 
 1\. Il Presidente della Giunta regionale indice referendum popolare per deliberare l'abrogazione, totale o parziale, di una legge regionale, di un regolamento regionale o di un atto amministrativo di cui all'articolo 43, quando lo richiedano non meno di 10.000 elettori aventi il diritto di elettorato attivo per il Consiglio regionale umbro, o quando lo richiedano un Consiglio provinciale o tanti Consigli comunali che rappresentino almeno un quinto della popolazione della Regione, che deliberino la proposta a maggioranza di due terzi dei Consiglieri assegnati a ciascun Consiglio comunale o provinciale.
 
@@ -627,7 +623,7 @@ f) deliberare in materia di liti attive e passive, rinunzie e transazioni.
 
 11\. La legge regionale determina le ulteriori modalita' di attuazione del referendum, disciplinando anche, in forme che garantiscano l'imparzialita', il procedimento per la verifica della regolarita' e dell'ammissibilita' delle richieste di referendum.
 
-###### Art. 73
+##### Art. 73
 
 1\. L'istituzione di nuovi Comuni, anche in relazione a processi di unione e di fusione, nonche' i mutamenti delle circoscrizioni e delle denominazioni comunali hanno luogo con legge regionale, previa consultazione mediante referendum, delle popolazioni interessate.
 
@@ -635,11 +631,9 @@ f) deliberare in materia di liti attive e passive, rinunzie e transazioni.
 
 ## TITOLO VI - AMMINISTRAZIONE
 
-### Capo I
+### Capo I - DELEGHE E CONTROLLI
 
-#### DELEGHE E CONTROLLI
-
-###### Art. 74
+##### Art. 74
 
 1\. La delega di funzioni amministrative di cui all'articolo 118 della Costituzione, nonche' l'eventuale revoca, sono disposte con legge regionale e sono dirette, di norma, a tutti gli enti di eguale livello istituzionale.
 
@@ -653,7 +647,7 @@ f) deliberare in materia di liti attive e passive, rinunzie e transazioni.
 
 6\. La Regione puo' avvalersi degli uffici degli enti locali anche sulla base di apposite convenzioni, osservando, in quanto applicabili, i principi di cui ai precedenti commi.
 
-###### Art. 75
+##### Art. 75
 
 1\. Il controllo sugli atti degli enti locali, compresi quelli deliberati nell'esercizio delle funzioni delegate dalla Regione, e' esercitato da un organo della Regione, costituito nei modi previsti dalla legge dello Stato, a norma dell'articolo 130 della Costituzione.
 
@@ -661,25 +655,25 @@ f) deliberare in materia di liti attive e passive, rinunzie e transazioni.
 
 3\. La legge regionale puo' disporre che il controllo avvenga in forma ulteriormente decentrata.
 
-###### Art. 76
+##### Art. 76
 
 1\. Con legge regionale e' istituito l'Ufficio del difensore civico con il compito di contribuire ad assicurare l'imparzialita' e il buon andamento dell'azione amministrativa della Regione a tutela degli interessi dei cittadini. Il difensore civico riferisce annualmente al Consiglio regionale sullo svolgimento della propria attivita'.
 
 2\. La legge regionale determina i limiti e le modalita' di svolgimento dei compiti del difensore civico e le modalita' della sua nomina.
 
-## Capo II - FINANZE, DEMANIO E PATRIMONIO
+### Capo II - FINANZE, DEMANIO E PATRIMONIO
 
-###### Art. 77
+##### Art. 77
 
 1\. La Regione ha un proprio demanio e patrimonio.
 
 2\. La Regione istituisce con legge i tributi propri. Regola le rel- ative procedure amministrative di ricorso e le sanzioni nei limiti delle leggi della Repubblica.
 
-###### Art. 78
+##### Art. 78
 
 1\. La Regione disciplina con legge il proprio servizio di tesoreria e di esattoria.
 
-###### Art. 79
+##### Art. 79
 
 1\. L'esercizio finanziario della Regione decorre dal 1 gennaio al 31 dicembre.
 
@@ -691,7 +685,7 @@ Al bilancio preventivo della Regione devono essere allegati i bilanci di previsi
 
 4\. Il conto consuntivo deve essere presentato dalla Giunta regionale non oltre il 30 aprile. Il conto consuntivo deve essere accompagnato dalla relazione dei revisori dei conti ed approvato dal Consiglio.
 
-###### Art. 80
+##### Art. 80
 
 1\. Per il controllo della gestione finanziaria della Regione, il Consiglio regionale elegge nel proprio seno ed al di fuori dei membri della Giunta regionale, tre revisori dei conti.
 
@@ -701,13 +695,13 @@ Al bilancio preventivo della Regione devono essere allegati i bilanci di previsi
 
 4\. I revisori dei conti durano in carica tre esercizi finanziari e possono essere rieletti sino al termine della legislatura.
 
-###### Art. 81
+##### Art. 81
 
 1\. Le deliberazioni per l'approvazione del bilancio preventivo, del conto consuntivo, dell'esercizio provvisorio, dello storno dei fondi e dei mutui, sono adottate con legge regionale.
 
-## Capo III - PERSONALE
+### Capo III - PERSONALE
 
-###### Art. 82
+##### Art. 82
 
 1\. Gli uffici della Regione sono istituiti in base alla legge regionale.
 
@@ -715,7 +709,7 @@ Al bilancio preventivo della Regione devono essere allegati i bilanci di previsi
 
 3\. E'ammesso per questioni specifiche e per periodi determinati il conferimento di incarichi a persone di comprovata capacita' e professionalita'.
 
-###### Art. 83
+##### Art. 83
 
 1\. La legge regionale determina l'organico del personale regionale, anche in rapporto alle forme di autonomia organizzatoria del Consiglio regionale, regola lo stato giuridico, il trattamento economico e le responsabilita' dei dipendenti, nonche' i loro doveri nei confronti dell'Amministrazione e dei cittadini; stabilisce i criteri per la determinazione dei livelli funzionali e dei profili professionali; garantisce strumenti e modalita' per la formazione e l'aggiornamento professionale del personale della Regione e degli enti dipendenti.
 
@@ -723,7 +717,7 @@ Al bilancio preventivo della Regione devono essere allegati i bilanci di previsi
 
 3\. L'organizzazione, l'orario di lavoro ed i criteri di mobilita' sono determinati in base ad accordi con le organizzazioni sindacali.
 
-###### Art. 84
+##### Art. 84
 
 1\. La Regione disciplina con legge diritti, doveri, responsabilita' e compiti dei dirigenti regionali.
 
@@ -733,7 +727,7 @@ Al bilancio preventivo della Regione devono essere allegati i bilanci di previsi
 
 4\. La legge regionale puo' prevedere l'affidamento temporaneo di funzioni di coordinamento e di direzione di progetti di particolare complessita' tecnica o di servizi e strutture pubbliche, mediante contratto di diritto privato, a persone estranee all'amministrazione regionale dotate di specifica professionalita' ed esperienza.
 
-###### Art. 85
+##### Art. 85
 
 1\. Il procedimento amministrativo e' disciplinato con legge regionale, che prevede l'individuazione del responsabile del procedimento, il diritto al contraddittorio di soggetti interessati, le modalita' di consultazione dei soggetti portatori degli interessi coinvolti, favorendo la piu' ampia informazione.
 
@@ -741,7 +735,7 @@ Al bilancio preventivo della Regione devono essere allegati i bilanci di previsi
 
 ## TITOLO VII - REVISIONE E ABROGAZIONE DELLO STATUTO
 
-###### Art. 86
+##### Art. 86
 
 1\. Le leggi di revisione dello Statuto sono deliberate dal Consiglio regionale a maggioranza dei Consiglieri assegnati alla Regione.
 

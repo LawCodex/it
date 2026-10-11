@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I - Disposizioni in materia di libera circolazione di persone, beni e
+## Capo I - Disposizioni in materia di libera circolazione di persone, beni e servizi
 
-### servizi
-
-#### Art. 1
+### Art. 1
 
 Attuazione della direttiva n. 2014/54/UE del Parlamento europeo e del Consiglio, del 16 aprile 2014, relativa alle misure intese ad agevolare l'esercizio dei diritti conferiti ai lavoratori nel quadro della libera circolazione dei lavoratori. Caso ARES (2019) 1602365.
 
@@ -204,7 +202,7 @@ f) nel titolo, dopo le parole: «condizioni di lavoro» sono aggiunte le seguent
 
 > 4\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.».
 
-#### Art. 2
+### Art. 2
 
 Disposizioni in materia di circolazione in Italia di veicoli immatricolati all'estero. Caso ARES (2019) 4793003.
 
@@ -346,7 +344,7 @@ e) al comma 1 dell'articolo 196, l'ultimo periodo e' sostituito dal seguente: «
 
 > 4\. Nei casi di cui ai commi 1, 2 e 3, chi ha versato la somma stabilita per la violazione ha diritto di regresso per l'intero nei confronti dell'autore della violazione stessa.».
 
-#### Art. 3
+### Art. 3
 
 Disposizioni relative alle prestazioni sociali accessibili ai cittadini di Paesi terzi titolari di alcune categorie di permessi di soggiorno per lavoro, studio e ricerca. Procedura di infrazione n. 2019/2100.
 
@@ -424,7 +422,7 @@ b) all'articolo 75, comma 1, alinea, le parole: «ovvero in possesso di carta di
 
 > 1\.
 
-#### Art. 4
+### Art. 4
 
 Disposizioni in materia di cooperazione con i centri di assistenza per il riconoscimento delle qualifiche professionali. Procedura di infrazione n. 2018/2175.
 
@@ -484,7 +482,7 @@ Disposizioni in materia di cooperazione con i centri di assistenza per il ricono
 
 > 4\. Il mediatore che per l'esercizio della propria attivita' si avvalga di moduli o formulari, nei quali siano indicate le condizioni del contratto, deve preventivamente depositarne copia presso la commissione di cui all'art. 7.»
 
-#### Art. 5
+### Art. 5
 
 Disposizioni in materia di riconoscimento delle qualifiche professionali. Procedura di infrazione n. 2018/2295
 
@@ -716,7 +714,7 @@ l) all'articolo 36, il comma 4 e' sostituito dal seguente:
 
 > 6\. Il corso di formazione specifica in medicina generale, che si svolge a tempo pieno sotto il controllo delle regioni e province autonome, e' di natura piu' pratica che teorica.».
 
-#### Art. 6
+### Art. 6
 
 Disposizioni in materia di professioni ippiche.
 
@@ -782,7 +780,7 @@ Corretta attuazione della direttiva n. 2013/55/UE
 
 > f) il Ministero dei trasporti per le attivita' di cui all'allegato IV, Lista II e Lista III, nelle parti afferenti ad attivita' di trasporto.».
 
-#### Art. 7
+### Art. 7
 
 Disposizioni in materia di punto di contatto unico.
 
@@ -822,7 +820,7 @@ b) all'articolo 59-bis, dopo il comma 1 sono aggiunti i seguenti:
 
 > 1-ter. Il Coordinatore nazionale di cui all'art. 6 adotta ogni misura idonea a consentire al punto di contatto unico di fornire le informazioni di cui al comma 1 del presente articolo in un'altra lingua ufficiale dell'Unione europea.»
 
-#### Art. 8
+### Art. 8
 
 Disposizioni relative all'etichettatura dei succhi di frutta e di altri prodotti analoghi destinati all'alimentazione umana.
 
@@ -864,7 +862,7 @@ Attuazione della rettifica della direttiva n. 2001/112/CE.
 
 > 6-bis. Ai fini della preparazione e della denominazione di succhi di frutta, purea di frutta e nettari di frutta, si applica quanto disposto nell'allegato I, parte II, punto 1.».
 
-#### Art. 9
+### Art. 9
 
 Disposizioni per l'attuazione della direttiva (UE) n. 2019/633, in materia di pratiche commerciali sleali nella filiera agricola e alimentare.
 
@@ -918,7 +916,7 @@ Disposizioni per l'attuazione della direttiva (UE) n. 2019/633, in materia di pr
 
 > 2\. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni interessate provvedono all'adempimento dei compiti derivanti dall'esercizio della delega di cui al presente articolo con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.».
 
-#### Art. 10
+### Art. 10
 
 Disposizioni in materia di contratti pubblici.
 
@@ -1236,7 +1234,7 @@ f) all'articolo 174:
 
 > 2\. (abrogato)».
 
-#### Art. 11
+### Art. 11
 
 Disposizioni in materia di protezione dagli effetti extraterritoriali derivanti dall'applicazione di una normativa adottata da un Paese terzo e dalle azioni su di essa basate o da essa derivanti.
 
@@ -1258,7 +1256,7 @@ Attuazione del regolamento (CE) n. 2271/96.
 
 > 4\. Il Ministero degli affari esteri e della cooperazione internazionale, accerta l'osservanza delle disposizioni previste dagli articoli 2 e 5 del regolamento CE n. 2271/96 da parte dei soggetti di cui al comma 1 con le modalita' di cui all'art. 6, commi 2, 3 e 4, del decreto legislativo 24 febbraio 1997, n. 89, ed irroga le sanzioni previste dal presente articolo.».
 
-#### Art. 12
+### Art. 12
 
 Disposizioni relative alle procedure di autorizzazione all'esportazione di prodotti e di tecnologie a duplice uso e all'applicazione delle sanzioni in materia di embarghi commerciali, nonche' per ogni tipologia di operazione di esportazione di materiali proliferanti. Attuazione del regolamento (CE) n. 428/2009.
 
@@ -1294,7 +1292,7 @@ Disposizioni relative alle procedure di autorizzazione all'esportazione di prodo
 
 > 4\. Con decreto del Ministro degli affari esteri e della cooperazione internazionale, d'intesa con le amministrazioni interessate, sono determinate le modalita' attuative della collaborazione di cui al comma 3.».
 
-#### Art. 13
+### Art. 13
 
 Disposizioni in materia di immissione sul mercato e uso di precursori di esplosivi. Attuazione del regolamento (UE) 2019/1148
 
@@ -1406,7 +1404,7 @@ Disposizioni finali».
 
 ## Capo II - Disposizioni in materia di spazio di liberta', sicurezza e giustizia.
 
-#### Art. 14
+### Art. 14
 
 Disposizioni in materia di inammissibilita' delle domande di protezione internazionale. Sentenza pregiudiziale della Corte di giustizia dell'Unione europea nelle cause riunite C-297/17, C-318/17 e C-319/17.
 
@@ -1428,7 +1426,7 @@ b) dopo le parole: «Convenzione di Ginevra e» sono inserite le seguenti: «lo 
 
 > 1-bis. Nei casi di cui al comma 1, la domanda e' sottoposta ad esame preliminare da parte del Presidente della Commissione, diretto ad accertare se emergono o sono stati addotti, da parte del richiedente, nuovi elementi, rilevanti ai fini del riconoscimento della protezione internazionale. Nell'ipotesi di cui al comma 1, lettera a), il Presidente della Commissione procede anche all'audizione del richiedente sui motivi addotti a sostegno dell'ammissibilita' della domanda nel suo caso specifico.».
 
-#### Art. 15
+### Art. 15
 
 Disposizioni in materia di validita' e rinnovo del permesso di soggiorno UE per soggiornanti di lungo periodo. Attuazione della direttiva n. 2003/109/CE del Consiglio, del 25 novembre 2003, relativa allo status dei cittadini di paesi terzi che siano soggiornanti di lungo periodo, e del regolamento (UE) 2017/1954 del Parlamento europeo e del Consiglio, del 25 ottobre 2017, che modifica il regolamento (CE) n. 1030/2002 del Consiglio che istituisce un modello uniforme per i permessi di soggiorno rilasciati a cittadini di paesi terzi.
 
@@ -1462,7 +1460,7 @@ b) sono aggiunti, in fine, i seguenti periodi: «Il permesso di soggiorno UE per
 
 > 2\. (abrogato)»
 
-#### Art. 16
+### Art. 16
 
 Disposizioni in materia di proroga del visto d'ingresso per soggiorni di breve durata. Attuazione del regolamento (CE) n. 810/2009.
 
@@ -1656,7 +1654,7 @@ d) all'articolo 13, comma 2, lettera b):
 
 > c) appartiene a taluna delle categorie indicate negli articoli 1, 4 e 16, del decreto legislativo 6 settembre 2011, n. 159.»
 
-#### Art. 17
+### Art. 17
 
 Disposizioni in materia di rilascio dei documenti di viaggio europei per il rimpatrio dei cittadini di Paesi terzi il cui soggiorno e' irregolare. Attuazione del regolamento (UE) 2016/1953.
 
@@ -1686,7 +1684,7 @@ Disposizioni in materia di rilascio dei documenti di viaggio europei per il rimp
 
 > 7\. Prima dell'emanazione, lo schema di regolamento di cui al comma 6 e' trasmesso al Parlamento per l'acquisizione del parere delle Commissioni competenti per materia, che si esprimono entro trenta giorni. Decorso tale termine, il regolamento e' emanato anche in mancanza del parere.»
 
-#### Art. 18
+### Art. 18
 
 Attuazione della direttiva di esecuzione (UE) n. 2019/68 della Commissione, del 16 gennaio 2019, che stabilisce le specifiche tecniche per la marcatura delle armi da fuoco e dei loro componenti essenziali a norma della direttiva n. 91/477/CEE del Consiglio relativa al controllo dell'acquisizione e della detenzione di armi, e attuazione della direttiva di esecuzione (UE) 2019/69 della Commissione, del 16 gennaio 2019, che stabilisce le specifiche tecniche relative alle armi d'allarme o da segnalazione a norma della direttiva n. 91/477/CEE del Consiglio relativa al controllo dell'acquisizione e della detenzione di armi. Procedure di infrazione n. 2020/0211 e n. 2020/0212.
 
@@ -1784,7 +1782,7 @@ d) all'articolo 11, primo comma, e' aggiunto, in fine, il seguente periodo: «La
 
 > \- La direttiva 91/477/CEE del Consiglio relativa al controllo dell'acquisizione e della detenzione di armi e' pubblicata nella G.U.C.E. 13 settembre 1991, n. L 256.
 
-#### Art. 19
+### Art. 19
 
 Disposizioni per l'adeguamento alla direttiva n. 2013/40/UE del Parlamento europeo e del Consiglio, del 12 agosto 2013, relativa agli attacchi contro i sistemi di informazione e che sostituisce la decisione quadro 2005/ 222/GAI del Consiglio. Procedura di infrazione n. 2019/2033.
 
@@ -1868,7 +1866,7 @@ b) la rubrica e' sostituita dalla seguente: «Detenzione, diffusione e installaz
 
 > La pena e' della reclusione da uno a cinque anni nei casi previsti dal quarto comma dell'art. 617-quater.».
 
-#### Art. 20
+### Art. 20
 
 Disposizioni per l'adeguamento alla direttiva n. 2011/93/UE del Parlamento europeo e del Consiglio, del 13 dicembre 2011, relativa alla lotta contro l'abuso e lo sfruttamento sessuale dei minori e la pornografia minorile, e che sostituisce la decisione quadro 2004/68/GAI del Consiglio. Procedura di infrazione n. 2018/2335; caso EU Pilot 2018/9373.
 
@@ -2054,15 +2052,13 @@ f) all'articolo 609-undecies e' aggiunto, in fine, il seguente comma:
 
 > 4\) se dal fatto deriva pericolo di vita per il minore.»
 
-## Capo III - Disposizioni in materia di spazio di fiscalita', dogane e
+## Capo III - Disposizioni in materia di spazio di fiscalita', dogane e ravvicinamento delle legislazioni
 
-### ravvicinamento delle legislazioni
-
-#### Art. 21
+### Art. 21
 
 ((ARTICOLO ABROGATO DAL D.L. 27 GENNAIO 2022, N. 4))
 
-#### Art. 22
+### Art. 22
 
 Razionalizzazione della normativa sanzionatoria applicabile ai casi di introduzione nel territorio dello Stato di piccoli quantitativi di merce contraffatta da parte del consumatore finale. Attuazione del regolamento (UE) n. 608/2013.
 
@@ -2138,7 +2134,7 @@ Razionalizzazione della normativa sanzionatoria applicabile ai casi di introduzi
 
 > 15-septies. Per le spese di funzionamento delle unita' tecniche di cui all'art. 13, comma 5, della legge 26 febbraio 1987, n. 49, nelle more dell'accredito della successiva rimessa valutaria, il funzionario delegato puo' temporaneamente utilizzare fondi di analoga natura comunque disponibili, ove cio' sia indispensabile per assicurare la continuita' dei servizi. All'atto della ricezione dei fondi accreditati, e comunque improrogabilmente entro l'anno di riferimento, e' obbligatoria la sistemazione contabile della cassa temporaneamente utilizzata. I fondi di cui al presente comma sono accreditati dalla Direzione generale per la cooperazione allo sviluppo del Ministero degli affari esteri al capo della rappresentanza diplomatica.»
 
-#### Art. 23
+### Art. 23
 
 Disposizioni in materia di agenti in attivita' finanziaria e mediatori creditizi. Attuazione della direttiva n. 2014/17/UE del Parlamento europeo e del Consiglio, del 4 febbraio 2014, in merito ai contratti di credito ai consumatori relativi a beni immobili residenziali e recante modifica delle direttive n. 2008/48/CE e 2013/36/UE e del regolamento (UE) n. 1093/2010.
 
@@ -2480,7 +2476,7 @@ c) l'indirizzo, anche di posta elettronica, o un altro recapito».
 
 ## Capo IV - Disposizioni in materia di affari economici e monetari
 
-#### Art. 24
+### Art. 24
 
 Disposizioni in materia di bilancio di esercizio e consolidato.
 
@@ -2672,7 +2668,7 @@ c) all'articolo 39, dopo il comma 1 e' inserito il seguente:
 
 > (VII Direttiva, art. 34).»
 
-#### Art. 25
+### Art. 25
 
 Disposizioni in materia di marcatura e formato elettronico unico di comunicazione delle relazioni finanziarie annuali. Attuazione del regolamento delegato (UE) n. 2019/ 815 della Commissione, del 17 dicembre 2018, che integra la direttiva n. 2004/109/CE del Parlamento europeo e del Consiglio per quanto riguarda le norme tecniche di regolamentazione relative alla specificazione del formato elettronico unico di comunicazione.
 
@@ -2738,7 +2734,7 @@ b) al comma 6, dopo la lettera a) e' inserita la seguente:
 
 > \- Il regolamento delegato della Commissione n. 2019/815 che integra la direttiva n. 2004/109/CE del Parlamento europeo e del Consiglio per quanto riguarda le norme tecniche di regolamentazione relative alla specificazione del formato elettronico unico di comunicazione, e' pubblicato nella G.U.U.E. 29 maggio 2019, n. L 143.
 
-#### Art. 26
+### Art. 26
 
 Disposizioni sanzionatorie in materia di abusi di mercato. Procedura di infrazione n. 2019/2130
 
@@ -2836,7 +2832,7 @@ e) all'articolo 187, il comma 1 e' sostituito dal seguente:
 
 > 3\. Per quanto non stabilito nei commi 1 e 2 si applicano le disposizioni dell'art. 240 del codice penale.».
 
-#### Art. 27
+### Art. 27
 
 Attuazione della direttiva (UE) 2020/1504 del Parlamento europeo e del Consiglio, del 7 ottobre 2020, che modifica la direttiva 2014/65/UE relativa ai mercati degli strumenti finanziari.
 
@@ -2904,7 +2900,7 @@ Attuazione della direttiva (UE) 2020/1504 del Parlamento europeo e del Consiglio
 
 > \- Il regolamento (CE) del Parlamento europeo e del Consiglio n. 2020/1503/UE relativo ai fornitori europei di servizi di crowdfunding per le imprese, e che modifica il regolamento (UE) n. 2017/1129 e la direttiva (UE) n. 2019/1937, e' pubblicato nella G.U.U.E. 20 ottobre 2020, n. L 347.
 
-#### Art. 28
+### Art. 28
 
 Modifiche al codice delle assicurazioni private. Attuazione della direttiva (UE) 2019/2177 del Parlamento europeo e del Consiglio, del 18 dicembre 2019, che modifica la direttiva 2009/138/CE, in materia di accesso ed esercizio delle attivita' di assicurazione e di riassicurazione (solvibilita' II), la direttiva 2014/65/UE, relativa ai mercati degli strumenti finanziari, e la direttiva (UE) 2015/849, relativa alla prevenzione dell'uso del sistema finanziario a fini di riciclaggio o finanziamento del terrorismo.
 
@@ -3178,7 +3174,7 @@ l) all'articolo 217-ter, comma 4, il terzo periodo e' sostituito dal seguente: �
 
 ## Capo V - Disposizioni in materia di sanita'
 
-#### Art. 29
+### Art. 29
 
 Disposizioni relative alla vendita di medicinali veterinari per via telematica. Attuazione della direttiva 2004/28/CE del Parlamento europeo e del Consiglio, del 31 marzo 2004, che modifica la direttiva 2001/82/CE recante un codice comunitario relativo ai medicinali veterinari.
 
@@ -3268,7 +3264,7 @@ b) all'articolo 108, dopo il comma 18 e' aggiunto il seguente:
 
 > 18-bis. In caso di mancata ottemperanza ai provvedimenti di cui ai commi 5-bis e 5-quater dell'art. 92 entro il termine indicato nei medesimi provvedimenti, si applica la sanzione amministrativa pecuniaria di cui al comma 8.».
 
-#### Art. 30
+### Art. 30
 
 Modifica all'articolo 1, comma 536, della legge 30 dicembre 2018, n. 145. Caso NIF n. 2020/4008. Pubblicita' nel settore sanitario
 
@@ -3280,7 +3276,7 @@ Modifica all'articolo 1, comma 536, della legge 30 dicembre 2018, n. 145. Caso N
 
 > «536. In caso di violazione delle disposizioni sulle comunicazioni informative sanitarie di cui al comma 525, gli ordini professionali sanitari territoriali, anche su segnalazione delle rispettive Federazioni, procedono in via disciplinare nei confronti dei professionisti o delle societa' iscritti e segnalano tali violazioni all'Autorita' per le garanzie nelle comunicazioni ai fini dell'eventuale adozione dei provvedimenti sanzionatori di competenza. Le strutture sanitarie private di cura si dotano di un direttore sanitario che comunica il proprio incarico all'ordine territoriale competente per il luogo in cui ha sede la struttura. A tale ordine territoriale compete l'esercizio del potere disciplinare nei confronti del direttore sanitario limitatamente alle funzioni connesse all'incarico.».
 
-#### Art. 31
+### Art. 31
 
 Disposizioni relative alla vendita di prodotti cosmetici per via telematica. Attuazione del regolamento (CE) n. 1223/2009 del Parlamento europeo e del Consiglio, del 30 novembre 2009, sui prodotti cosmetici.
 
@@ -3338,7 +3334,7 @@ b) all'articolo 18, dopo il comma 1 sono aggiunti i seguenti:
 
 > 1-ter. In caso di pagamento della sanzione in misura ridotta ai sensi dell'art. 16 della legge 24 novembre 1981, n. 689, competente a ricevere il pagamento medesimo e' l'organo regionale di cui al comma 1 del presente articolo.».
 
-#### Art. 32
+### Art. 32
 
 Disposizioni relative alla vendita di biocidi per via telematica.
 
@@ -3384,7 +3380,7 @@ I medesimi provvedimenti sono pubblicati in apposita sottosezione afferente alla
 
 > \- Il regolamento (CE) n. 528/2012/UE, del Parlamento europeo e del Consiglio relativo alla messa a disposizione sul mercato e all'uso dei biocidi, e' pubblicato nella G.U.U.E. 27 giugno 2012, n. L 167.
 
-#### Art. 33
+### Art. 33
 
 Disposizioni sulla protezione degli animali utilizzati a fini scientifici. Procedura di infrazione n. 2016/2013
 
@@ -3572,7 +3568,7 @@ Disposizioni sulla protezione degli animali utilizzati a fini scientifici. Proce
 
 ## Capo VI - Disposizioni in materia di protezione dei consumatori
 
-#### Art. 34
+### Art. 34
 
 Designazione dell'autorita' competente per l'esecuzione del regolamento (UE) 2017/1128 del Parlamento europeo e del Consiglio, del 14 giugno 2017, relativo alla portabilita' transfrontaliera di servizi di contenuti online nel mercato interno.
 
@@ -3904,7 +3900,7 @@ Designazione dell'autorita' competente per l'esecuzione del regolamento (UE) 201
 
 > 41\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.».
 
-#### Art. 35
+### Art. 35
 
 Modifica all'articolo 7-bis del decreto legislativo 21 marzo 2005, n. 66, in materia di emissioni di gas ad effetto serra. Caso ARES (2019) 7142023.
 
@@ -3956,7 +3952,7 @@ Modifica all'articolo 7-bis del decreto legislativo 21 marzo 2005, n. 66, in mat
 
 > 12\. Il GSE redige e trasmette annualmente, entro il trenta maggio, al Ministero dell'ambiente e della tutela del territorio e del mare e, per conoscenza, ad ISPRA, un rapporto sulla esattezza, sulla completezza e sulla conformita' alle disposizioni di cui al comma 6 della relazione prevista al comma 2, nonche' sull'accertamento delle infrazioni agli obblighi previsti ai commi 7 e 8. Il GSE provvede ad assicurare al Ministero dell'ambiente e della tutela del territorio e del mare l'accesso alle informazioni contenute nella banca dati relativa ai biocarburanti al fine di garantire ulteriori approfondimenti.».
 
-#### Art. 36
+### Art. 36
 
 Modifiche al decreto legislativo 9 giugno 2020, n. 47, in materia di sistema europeo per lo scambio di quote di emissione dei gas a effetto serra.
 
@@ -3976,7 +3972,7 @@ b) alla rubrica dell'allegato I, le parole: «la presente direttiva» sono sosti
 
 > «Allegato I. Categorie di attivita' cui si applica il presente decreto legislativo.».
 
-#### Art. 37
+### Art. 37
 
 Designazione delle autorita' competenti per l'esecuzione del regolamento (UE) 2017/2394 del Parlamento europeo e del Consiglio, del 12 dicembre 2017, sulla cooperazione tra le autorita' nazionali responsabili dell'esecuzione della normativa che tutela i consumatori e che abroga il regolamento (CE) n. 2006/2004, e loro poteri minimi.
 
@@ -4186,7 +4182,7 @@ d) all'articolo 144-bis:
 
 ## Capo VII - Disposizioni in materia di energia
 
-#### Art. 38
+### Art. 38
 
 Disposizioni sulla metodologia di calcolo da utilizzare per la determinazione di energia prodotta dai biocarburanti e dai bioliquidi. Procedura di infrazione n. 2019/2095.
 
@@ -4436,7 +4432,7 @@ c) all'allegato 1, parte 2, recante «Calcolo della quota di energia da fonti ri
 
 ## Capo VIII - Altre disposizioni
 
-#### Art. 39
+### Art. 39
 
 Modifiche all'articolo 2 della legge 24 dicembre 2012, n. 234, concernente il Comitato interministeriale per gli affari europei
 
@@ -4470,7 +4466,7 @@ b) al comma 8, le parole: «appartenente alla terza area o qualifiche equiparate
 
 > 9-bis. Il Segretario del CIAE e' nominato con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro per gli affari europei, ai sensi dell'art. 19 del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni, e dell'art. 9 del decreto legislativo 30 luglio 1999, n. 303, e successive modificazioni, tra persone di elevata professionalita' e di comprovata esperienza.».
 
-#### Art. 40
+### Art. 40
 
 Modifiche alla legge 24 dicembre 2012, n. 234, concernenti il ruolo del Parlamento nel processo decisionale relativo alla posizione da assumere in sede europea.
 
@@ -4532,7 +4528,7 @@ b) all'articolo 7, comma 1, le parole: «coerente con gli» sono sostituite dall
 
 > 2\. Nel caso in cui il Governo non abbia potuto attenersi agli indirizzi delle Camere, il Presidente del Consiglio dei ministri o il Ministro competente riferisce tempestivamente ai competenti organi parlamentari, fornendo le adeguate motivazioni della posizione assunta.».
 
-#### Art. 41
+### Art. 41
 
 Modifica all'articolo 29 della legge 24 dicembre 2012, n. 234, concernente la legge di delegazione europea e la legge europea
 
@@ -4578,7 +4574,7 @@ Modifica all'articolo 29 della legge 24 dicembre 2012, n. 234, concernente la le
 
 > Per il disegno di legge di delegazione europea di cui al presente comma non e' prescritta la relazione illustrativa di cui al comma 7.».
 
-#### Art. 42
+### Art. 42
 
 Modifica all'articolo 43 della legge 24 dicembre 2012, n. 234, concernente il diritto di rivalsa dello Stato nei confronti di regioni o di altri enti pubblici responsabili di violazioni del diritto dell'Unione europea.
 
@@ -4630,7 +4626,7 @@ Modifica all'articolo 43 della legge 24 dicembre 2012, n. 234, concernente il di
 
 > 4\. La Conferenza unificata di cui al comma 1 e' convocata dal Presidente del Consiglio dei ministri. Le sedute sono presiedute dal Presidente del Consiglio dei ministri o, su sua delega, dal Ministro per gli affari regionali o, se tale incarico non e' conferito, dal Ministro dell'interno.».
 
-#### Art. 43
+### Art. 43
 
 Monitoraggio parlamentare sull'attuazione
 
@@ -4648,7 +4644,7 @@ del Piano nazionale di ripresa e resilienza
 
 > \- Il regolamento (UE) 2021/241 del Parlamento europeo e del Consiglio che istituisce il dispositivo per la ripresa e la resilienza, e' pubblicato nella G.U.U.E. 18 febbraio 2021, n. L 57.
 
-#### Art. 44
+### Art. 44
 
 Rafforzamento delle strutture del Ministero dell'economia e delle finanze preposte alle attivita' di gestione, monitoraggio e controllo degli interventi dell'Unione europea per il periodo di programmazione 2021-2027.
 
@@ -4656,7 +4652,7 @@ Rafforzamento delle strutture del Ministero dell'economia e delle finanze prepos
 
 2\. Agli oneri derivanti dall'attuazione del comma 1 del presente articolo, pari a euro 2.205.000 annui a decorrere dall'anno 2021, si provvede mediante corrispondente riduzione del fondo per il recepimento della normativa europea, di cui all'articolo 41-bis della legge 24 dicembre 2012, n. 234.
 
-#### Art. 45
+### Art. 45
 
 Assunzione di personale presso l'Autorita' nazionale anticorruzione
 
@@ -4692,7 +4688,7 @@ Alla compensazione in termini di indebitamento e fabbisogno, pari a euro 1.628.9
 
 > 2\. Nello stato di previsione del Ministero dell'economia e delle finanze e' istituito, con una dotazione, in termini di sola cassa, di 435 milioni di euro per l'anno 2010 e di 175 milioni di euro per l'anno 2011, un Fondo per la compensazione degli effetti finanziari non previsti a legislazione vigente conseguenti all'attualizzazione di contributi pluriennali, ai sensi del comma 177-bis dell'art. 4 della legge 24 dicembre 2003, n. 350, introdotto dall'art. 1, comma 512, della legge 27 dicembre 2006, n. 296, e, fino al 31 dicembre 2012, per le finalita' previste dall'art. 5-bis, comma 1, del decreto-legge 13 agosto 2011, n. 138, convertito, con modificazioni, dalla legge 14 settembre 2011, n. 148, limitatamente alle risorse del Fondo per lo sviluppo e la coesione, di cui all'art. 4 del decreto legislativo 31 maggio 2011, n. 88. All'utilizzo del Fondo per le finalita' di cui al primo periodo si provvede con decreto del Ministro dell'economia e delle finanze, da trasmettere al Parlamento, per il parere delle Commissioni parlamentari competenti per materia e per i profili finanziari, nonche' alla Corte dei conti.».
 
-#### Art. 46
+### Art. 46
 
 Sviluppo della funzione consultiva
 
@@ -4706,7 +4702,7 @@ Sviluppo della funzione consultiva
 
 > \- Il regolamento (UE) 2021/241 del Parlamento europeo e del Consiglio che istituisce il dispositivo per la ripresa e la resilienza, e' pubblicato nella G.U.U.E. 18 febbraio 2021, n. L 57.
 
-#### Art. 47
+### Art. 47
 
 Disposizioni relative al versamento delle risorse proprie dell'Unione europea. Anticipazione del fondo di rotazione e reintegro sui capitoli di bilancio dello Stato.
 
@@ -4732,7 +4728,7 @@ Disposizioni relative al versamento delle risorse proprie dell'Unione europea. A
 
 > 3\. Restano salvi i rapporti finanziari direttamente intrattenuti con le Comunita' europee dalle amministrazioni e dagli organismi di cui all'art. 2 del decreto del Presidente della Repubblica 16 aprile 1971, n. 321, ed alla legge 26 novembre 1975, n. 748.».
 
-#### Art. 48
+### Art. 48
 
 Clausola di invarianza finanziaria
 

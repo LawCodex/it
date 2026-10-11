@@ -188,11 +188,11 @@ Visto, il Guardasigilli: Orlando
 
 ## ALLEGATO 1 - CODICE DELLA GIUSTIZIA CONTABILE
 
-### PARTE I - DISPOSIZIONI GENERALI
+## PARTE I - DISPOSIZIONI GENERALI
 
-#### TITOLO I - PRINCIPI GENERALI E ORGANI DELLA GIURISDIZIONE
+### TITOLO I - PRINCIPI GENERALI E ORGANI DELLA GIURISDIZIONE
 
-##### CAPO I - Principi generali
+#### CAPO I - Principi generali
 
 ALLEGATO 1
 
@@ -244,7 +244,7 @@ CODICE DELLA GIUSTIZIA CONTABILE
 
 2\. Per quanto non disciplinato dal presente codice si applicano gli articoli 99, 100, 101, 110 e 111 del codice di procedura civile e le altre disposizioni del medesimo codice, in quanto espressione di principi generali.
 
-##### CAPO II - Organi
+#### CAPO II - Organi
 
 ###### Art. 8 - Organi della giurisdizione contabile
 
@@ -314,7 +314,7 @@ Successivamente la Corte Costituzionale, con sentenza 13 gennaio - 27 marzo 2026
 
 3\. Il procuratore generale coordina, anche dirimendo eventuali conflitti di competenza, l'attivita' dei procuratori regionali e questi ultimi quella dei magistrati assegnati ai loro uffici.
 
-##### CAPO III - Giurisdizione
+#### CAPO III - Giurisdizione
 
 ###### Art. 13
 
@@ -360,7 +360,7 @@ Successivamente la Corte Costituzionale, con sentenza 13 gennaio - 27 marzo 2026
 
 ((8-ter. Fuori dai casi di cui al comma 2, se il pubblico ministero notifica l'invito a dedurre di cui all'articolo 67 entro tre mesi dal passaggio in giudicato della pronuncia e ferme restando le preclusioni e le decadenze intervenute, sono comunque fatti salvi gli effetti sostanziali e processuali della domanda.))
 
-##### CAPO IV - Competenza
+#### CAPO IV - Competenza
 
 ###### Art. 18 - Competenza territoriale
 
@@ -400,7 +400,7 @@ d) altri giudizi interessanti la regione in materia contabile e pensionistica, a
 
 4\. In pendenza del regolamento di competenza, la richiesta di eventuali misure cautelari si propone al giudice ((...)) indicato come competente nell'ordinanza di cui al comma 3, che decide in ogni caso; ((esse perdono la loro efficacia trenta giorni dopo la pubblicazione del provvedimento che dichiara il difetto di competenza del giudice che le ha emanate. Le parti possono riproporre le domande cautelari al giudice competente)).
 
-##### CAPO V - Astensione e ricusazione del giudice
+#### CAPO V - Astensione e ricusazione del giudice
 
 ###### Art. 21 - Astensione
 
@@ -424,7 +424,7 @@ d) altri giudizi interessanti la regione in materia contabile e pensionistica, a
 
 8\. In caso di manifesta inammissibilita' o infondatezza, la sanzione pecuniaria e' stabilita tra un minimo di 500 e un massimo di 1.500 euro.
 
-##### CAPO VI - Ausiliari del giudice
+#### CAPO VI - Ausiliari del giudice
 
 ###### Art. 23 - Consulente tecnico
 
@@ -454,9 +454,9 @@ d) altri giudizi interessanti la regione in materia contabile e pensionistica, a
 
 1\. La disciplina della liquidazione dei compensi del consulente e del custode nominati dal pubblico ministero e' regolata dall'articolo 63.
 
-#### TITOLO II - PARTI E DIFENSORI
+### TITOLO II - PARTI E DIFENSORI
 
-##### CAPO I - Parti e difensori
+#### CAPO I - Parti e difensori
 
 ###### Art. 28 - Patrocinio
 
@@ -500,9 +500,9 @@ d) altri giudizi interessanti la regione in materia contabile e pensionistica, a
 
 6\. Per quanto non espressamente disciplinato dai commi da 1 a 5, il giudice nel regolare le spese applica gli articoli 92, 93, 94, 96 e 97 del codice di procedura civile.
 
-#### TITOLO III - ATTI PROCESSUALI
+### TITOLO III - ATTI PROCESSUALI
 
-##### CAPO I - Atti del processo
+#### CAPO I - Atti del processo
 
 ###### Art. 32 - Liberta' di forme
 
@@ -538,9 +538,9 @@ d) altri giudizi interessanti la regione in materia contabile e pensionistica, a
 
 2\. Il processo verbale e' sottoscritto ((da chi presiede l'udienza e dal segretario)). Se vi sono altri intervenuti, il segretario, quando la legge non dispone altrimenti, da' loro lettura del processo verbale.
 
-#### TITOLO IV - DEI PROVVEDIMENTI
+### TITOLO IV - DEI PROVVEDIMENTI
 
-##### CAPO I - Dei provvedimenti
+#### CAPO I - Dei provvedimenti
 
 ###### Art. 38 - Forma dei provvedimenti in generale
 
@@ -654,11 +654,11 @@ g) la sottoscrizione del presidente del collegio e dell'estensore ((o del giudic
 
 2\. Se la nullita' degli atti del processo e' imputabile al segretario, all'ufficiale giudiziario o alle parti il giudice, con il provvedimento con il quale la pronuncia, pone le spese della rinnovazione a carico ((del responsabile)).
 
-### PARTE II - GIUDIZI DI RESPONSABILITÀ
+## PARTE II - GIUDIZI DI RESPONSABILITÀ
 
-#### TITOLO I - FASE PREPROCESSUALE
+### TITOLO I - FASE PREPROCESSUALE
 
-##### CAPO I - Denuncia di danno
+#### CAPO I - Denuncia di danno
 
 ###### Art. 51 - Notizia di danno erariale
 
@@ -712,7 +712,7 @@ Resta salvo quanto disposto dall'articolo 129 delle norme di attuazione, di coor
 
 3\. Con il provvedimento che accoglie la dichiarazione di astensione, il magistrato del pubblico ministero astenuto e' sostituito con un altro magistrato del pubblico ministero appartenente al medesimo ufficio ovvero indicato dal procuratore generale nell'ipotesi di astensione di un procuratore regionale.))
 
-##### CAPO II - Attività istruttoria del pubblico ministero presso la Corte dei conti
+#### CAPO II - Attività istruttoria del pubblico ministero presso la Corte dei conti
 
 ###### Art. 55 - Richieste istruttorie
 
@@ -826,7 +826,7 @@ e) consulenze tecniche.
 
 1\. La omessa o apparente motivazione dei provvedimenti istruttori del pubblico ministero ((, ove espressamente prevista,)) ovvero l'audizione assunta in violazione dell'articolo 60, comma 4, ((secondo periodo,)) costituiscono causa di nullita' dell'atto istruttorio e delle operazioni conseguenti.
 
-##### CAPO III - Conclusione della fase istruttoria
+#### CAPO III - Conclusione della fase istruttoria
 
 ###### Art. 66 - Atti interruttivi della prescrizione
 
@@ -890,7 +890,7 @@ e) consulenze tecniche.
 
 ((1-bis. Della riapertura del fascicolo e' data notizia ai soggetti ai quali sia stata precedentemente comunicata l'archiviazione.))
 
-##### CAPO IV - Attività preprocessuali di parte
+#### CAPO IV - Attività preprocessuali di parte
 
 ###### Art. 71 - Accesso al fascicolo istruttorio
 
@@ -918,9 +918,9 @@ e) consulenze tecniche.
 
 ((5-bis. In caso di pluralita' di destinatari di invito a dedurre il nuovo termine di cui ai commi 3 e 5 e' ad essi comunicato ai soli effetti della proroga della scadenza per il deposito dell'atto di citazione.))
 
-#### TITOLO II - AZIONI A TUTELA DELLE RAGIONI DEL CREDITO ERARIALE
+### TITOLO II - AZIONI A TUTELA DELLE RAGIONI DEL CREDITO ERARIALE
 
-##### CAPO I - Azioni a tutela delle ragioni del credito erariale
+#### CAPO I - Azioni a tutela delle ragioni del credito erariale
 
 ###### Art. 73 - Mezzi di conservazione della garanzia patrimoniale e altre azioni
 
@@ -1004,9 +1004,9 @@ b) assegnare al procuratore regionale un termine perentorio non superiore a tren
 
 2\. Avverso il provvedimento di ritenuta e' ammesso ricorso nelle forme e nei termini previsti dalla Parte V.
 
-#### TITOLO III - RITO ORDINARIO
+### TITOLO III - RITO ORDINARIO
 
-##### CAPO I - ((Disposizioni generali))
+#### CAPO I - ((Disposizioni generali))
 
 ###### Art. 83
 
@@ -1030,7 +1030,7 @@ b) assegnare al procuratore regionale un termine perentorio non superiore a tren
 
 1\. Chiunque intenda sostenere le ragioni del pubblico ministero puo' intervenire in causa , quando vi ha un interesse ((qualificato)) meritevole di tutela, con atto notificato alle parti e depositato nella segreteria della sezione.
 
-##### CAPO II - Introduzione del giudizio
+#### CAPO II - Introduzione del giudizio
 
 ###### Art. 86 - Citazione
 
@@ -1110,7 +1110,7 @@ Restano ferme le decadenze maturate e salvi i diritti quesiti anteriormente alla
 
 3\. A pena di decadenza, il convenuto deve proporre le eccezioni processuali e di merito che non siano rilevabili d'ufficio tra cui la non corrispondenza tra invito a dedurre e citazione di cui all'articolo 87.
 
-##### CAPO III - Trattazione
+#### CAPO III - Trattazione
 
 ###### Art. 91 - Udienza pubblica
 
@@ -1174,7 +1174,7 @@ Restano ferme le decadenze maturate e salvi i diritti quesiti anteriormente alla
 
 13\. I provvedimenti previsti nel comma 12 sono pronunciati con ordinanza.
 
-##### CAPO IV - Ammissione e assunzione di mezzi di prova
+#### CAPO IV - Ammissione e assunzione di mezzi di prova
 
 ###### Art. 94 - Mezzi di prova
 
@@ -1262,7 +1262,7 @@ e) il deposito in segreteria della relazione finale, in cui il consulente tecnic
 
 12\. L'integrazione e' disposta dal presidente con decreto che e' comunicato a tutte le parti a cura della segreteria della sezione.
 
-##### CAPO V - Decisione della causa
+#### CAPO V - Decisione della causa
 
 ###### Art. 100 - Decisione del collegio
 
@@ -1320,7 +1320,7 @@ Tuttavia, quando sia stato proposto appello immediato contro una delle sentenze 
 
 3\. Il segretario da' atto del deposito in calce alla sentenza e vi appone la data e la firma, ed entro cinque giorni, mediante biglietto contenente il testo integrale della sentenza, ne da' notizia alle parti che si sono costituite. La comunicazione non e' idonea a far decorrere i termini per le impugnazioni di cui all'articolo 178.
 
-##### CAPO VI - Incidenti nel processo
+#### CAPO VI - Incidenti nel processo
 
 ###### Art. 104 - Incidenti formali in udienza
 
@@ -1432,7 +1432,7 @@ L'ordinanza, in questo caso fissa l'udienza per la prosecuzione del giudizio ed 
 
 8\. Le spese del giudizio estinto restano a carico delle parti che le hanno sostenute.
 
-##### CAPO VII - Correzione di errore materiale dei provvedimenti del giudice
+#### CAPO VII - Correzione di errore materiale dei provvedimenti del giudice
 
 ###### Art. 112 - Casi di correzione di errori materiali
 
@@ -1454,9 +1454,9 @@ L'ordinanza, in questo caso fissa l'udienza per la prosecuzione del giudizio ed 
 
 5\. Sull'istanza il giudice, all'esito dell'udienza, provvede con ordinanza, che e' annotata sull'originale del provvedimento.
 
-#### TITOLO IV - GIUDIZI INNANZI LE SEZIONI RIUNITE
+### TITOLO IV - GIUDIZI INNANZI LE SEZIONI RIUNITE
 
-##### CAPO I - Questioni di massima e questioni di particolare importanza
+#### CAPO I - Questioni di massima e questioni di particolare importanza
 
 ###### Art. 114 - Deferimento della questione
 
@@ -1492,7 +1492,7 @@ L'ordinanza, in questo caso fissa l'udienza per la prosecuzione del giudizio ed 
 
 1\. La sezione giurisdizionale di appello che ritenga di non condividere un principio di diritto di cui debba fare applicazione, gia' enunciato dalle sezioni riunite, rimette a queste ultime, con ordinanza motivata, la decisione dell'impugnazione.
 
-##### CAPO II - Regolamenti di competenza
+#### CAPO II - Regolamenti di competenza
 
 ###### Art. 118 - Conflitto di competenza territoriale
 
@@ -1532,7 +1532,7 @@ L'ordinanza, in questo caso fissa l'udienza per la prosecuzione del giudizio ed 
 
 2\. La mancata riassunzione in termini comporta, in ogni caso, l'estinzione del processo.
 
-##### CAPO III - Giudizi in unico grado
+#### CAPO III - Giudizi in unico grado
 
 ###### Art. 123 - Ricorso
 
@@ -1606,9 +1606,9 @@ c) in ogni caso, agli eventuali ulteriori controinteressati.
 
 1\. Per quanto non diversamente disciplinato nel presente Capo, si applicano le disposizioni di cui alla Parte VI relativa alle impugnazioni.
 
-#### TITOLO V - RITI SPECIALI
+### TITOLO V - RITI SPECIALI
 
-##### CAPO I - Rito abbreviato
+#### CAPO I - Rito abbreviato
 
 ###### Art. 130 - Ambito di applicazione e procedimento
 
@@ -1636,7 +1636,7 @@ Egualmente procede se il convenuto, nell'atto di parte, prospetta come ingiustif
 
 11\. Quando si procede con rito ordinario a seguito di mancato concorde parere del pubblico ministero e la sentenza che definisce il giudizio condanna ad una somma pari o inferiore a quella proposta ai sensi dei commi 1 e 2, il collegio ne tiene conto nel provvedere sulle spese.
 
-##### CAPO II - Rito monitorio
+#### CAPO II - Rito monitorio
 
 ###### Art. 131 - Ambito di applicazione
 
@@ -1656,7 +1656,7 @@ Egualmente procede se il convenuto, nell'atto di parte, prospetta come ingiustif
 
 5\. Nei giudizi di responsabilita' amministrativa, nel caso di piu' convenuti e di responsabilita' ripartita, se l'accettazione non e' data da tutti, il giudizio prosegue soltanto nei confronti dei non accettanti. Qualora invece si tratti di responsabilita' solidale, la causa prosegue anche nei confronti degli accettanti. A cura della segreteria questi saranno avvertiti della prosecuzione del giudizio.
 
-##### CAPO III - Rito relativo a fattispecie di responsabilità sanzionatoria pecuniaria
+#### CAPO III - Rito relativo a fattispecie di responsabilità sanzionatoria pecuniaria
 
 ###### Art. 133 - Giudizio per l'applicazione di sanzioni pecuniarie
 
@@ -1696,11 +1696,11 @@ Egualmente procede se il convenuto, nell'atto di parte, prospetta come ingiustif
 
 1\. Il collegio, sentite le parti presenti, e omessa ogni formalita' non essenziale al contraddittorio, procede ad eventuale ulteriore attivita' istruttoria, e definisce il giudizio con sentenza.
 
-### PARTE III - GIUDIZIO SUI CONTI
+## PARTE III - GIUDIZIO SUI CONTI
 
-#### TITOLO I - GIUDIZIO SUI CONTI
+### TITOLO I - GIUDIZIO SUI CONTI
 
-##### CAPO I - ((Disposizioni generali))
+#### CAPO I - ((Disposizioni generali))
 
 ###### Art. 137 - Ambito del giudizio di conto
 
@@ -1738,7 +1738,7 @@ Egualmente procede se il convenuto, nell'atto di parte, prospetta come ingiustif
 
 5\. Gli allegati e la correlata documentazione giustificativa della gestione non sono trasmessi alla Corte dei conti unitamente al conto, salvo che la Corte stessa lo richieda. La documentazione e' tenuta presso gli uffici dell'amministrazione a disposizione delle competenti sezioni giurisdizionali territoriali nei limiti di tempo necessari ai fini dell'estinzione del giudizio di conto.
 
-##### CAPO II - Giudizio per la resa del conto
+#### CAPO II - Giudizio per la resa del conto
 
 ###### Art. 141 - Ricorso
 
@@ -1786,7 +1786,7 @@ d) omissione del deposito del conto rilevata dalle risultanze dell'anagrafe di c
 
 2\. La sentenza, a cura della segreteria della sezione e' comunicata all'agente tenuto alla resa del conto, all'amministrazione da cui lo stesso dipende ((, al responsabile del procedimento)) e al pubblico ministero.
 
-##### CAPO III - Giudizio sul conto
+#### CAPO III - Giudizio sul conto
 
 ###### Art. 145 - Istruzione e relazione
 
@@ -1872,11 +1872,11 @@ e) i conti speciali di quegli agenti e di quelle gestioni, per cui non sussista 
 
 5\. L'estinzione del giudizio non estingue l'azione di responsabilita'.
 
-### PARTE IV - GIUDIZI PENSIONISTICI
+## PARTE IV - GIUDIZI PENSIONISTICI
 
-#### TITOLO I - GIUDIZI PENSIONISTICI
+### TITOLO I - GIUDIZI PENSIONISTICI
 
-##### CAPO I - ((Disposizioni generali e fase istruttoria))
+#### CAPO I - ((Disposizioni generali e fase istruttoria))
 
 ###### Art. 151 - Giudice competente
 
@@ -1990,7 +1990,7 @@ c) si ricorra avverso provvedimenti che definiscono domande di aggravamento in c
 
 4\. A tutte le notificazioni e comunicazioni occorrenti provvede la segreteria del giudice.))
 
-##### CAPO II - Procedimento cautelare
+#### CAPO II - Procedimento cautelare
 
 ###### Art. 161
 
@@ -2022,7 +2022,7 @@ c) si ricorra avverso provvedimenti che definiscono domande di aggravamento in c
 
 2\. Nel caso in cui l'amministrazione non abbia prestato ottemperanza alle misure cautelari concesse, o vi abbia adempiuto solo parzialmente, la parte interessata puo', con istanza motivata e notificata alle altre parti, chiedere al giudice le opportune disposizioni attuative. Il giudice adito esercita i poteri inerenti al giudizio di ottemperanza al giudicato di cui agli articoli 217 e 218.
 
-##### CAPO III - Trattazione della causa
+#### CAPO III - Trattazione della causa
 
 ###### Art. 164 - Udienza di discussione
 
@@ -2064,7 +2064,7 @@ c) si ricorra avverso provvedimenti che definiscono domande di aggravamento in c
 
 2\. Il consulente puo' essere autorizzato a riferire verbalmente e in tal caso le sue dichiarazioni sono integralmente raccolte a verbale.
 
-##### CAPO IV - Decisione
+#### CAPO IV - Decisione
 
 ###### Art. 167 - Pronuncia della sentenza
 
@@ -2098,7 +2098,7 @@ c) si ricorra avverso provvedimenti che definiscono domande di aggravamento in c
 
 6\. Se l'istanza per la sospensione di cui ai commi 3 e 5 e' inammissibile o manifestamente infondata il giudice, con ordinanza non impugnabile, puo' condannare la parte che l'ha proposta ad una pena pecuniaria non inferiore a 250 euro e non superiore a 10.000 euro. L'ordinanza e' revocabile con la sentenza che definisce il giudizio.
 
-##### CAPO V - Appello
+#### CAPO V - Appello
 
 ###### Art. 170 - Appello in materia pensionistica
 
@@ -2114,11 +2114,11 @@ c) si ricorra avverso provvedimenti che definiscono domande di aggravamento in c
 
 1\. In materia pensionistica il pubblico ministero puo' ricorrere in via principale innanzi alle sezioni giurisdizionali d'appello al fine di tutelare l'interesse oggettivo alla realizzazione dell'ordinamento giuridico, impedire la violazione della legge nell'applicazione di principi di diritto e ottenerne l'interpretazione uniforme.
 
-### PARTE V - ALTRI GIUDIZI AD ISTANZA DI PARTE
+## PARTE V - ALTRI GIUDIZI AD ISTANZA DI PARTE
 
-#### TITOLO I - ALTRI GIUDIZI AD ISTANZA DI PARTE
+### TITOLO I - ALTRI GIUDIZI AD ISTANZA DI PARTE
 
-##### CAPO I - Disciplina degli altri giudizi ad istanza di parte
+#### CAPO I - Disciplina degli altri giudizi ad istanza di parte
 
 ###### Art. 172 - Tipologie di giudizio
 
@@ -2166,11 +2166,11 @@ d) su altri giudizi ad istanza di parte, previsti dalla legge e comunque nelle m
 
 1\. Per quanto non espressamente disciplinato nella presente parte, si applicano le disposizioni previste per il rito ordinario, rispettivamente, nei giudizi di primo grado e di appello.
 
-### PARTE VI - IMPUGNAZIONI
+## PARTE VI - IMPUGNAZIONI
 
-#### TITOLO I - RIMEDI CONTRO LE DECISIONI
+### TITOLO I - RIMEDI CONTRO LE DECISIONI
 
-##### CAPO I - Rimedi contro le decisioni - disposizioni generali
+#### CAPO I - Rimedi contro le decisioni - disposizioni generali
 
 ###### Art. 177 - Mezzi di impugnazione e cosa giudicata formale
 
@@ -2276,7 +2276,7 @@ d) su altri giudizi ad istanza di parte, previsti dalla legge e comunque nelle m
 
 1\. L'estinzione del procedimento di appello o di revocazione per i motivi di cui all'articolo 202, comma 1, lettere f) e g) fa passare in giudicato la sentenza impugnata, salvo che ne siano stati modificati gli effetti con provvedimenti pronunciati nel procedimento estinto e ferma la disciplina dei limiti della trasmissibilita' agli eredi del debito risarcitorio.
 
-##### CAPO II - Appello
+#### CAPO II - Appello
 
 ###### Art. 189 - Legittimazione a proporre l'appello
 
@@ -2358,7 +2358,7 @@ c) quando riforma una sentenza che ha pronunciato l'estinzione del processo per 
 
 4\. Se il giudice d'appello dichiara la nullita' di altri atti compiuti in primo grado, ne ordina, in quanto possibile, la rinnovazione a norma dell'articolo 50.
 
-##### CAPO III - Opposizione del terzo
+#### CAPO III - Opposizione del terzo
 
 ###### Art. 200 - Casi di opposizione
 
@@ -2386,7 +2386,7 @@ c) quando riforma una sentenza che ha pronunciato l'estinzione del processo per 
 
 9\. Il giudice, se dichiara inammissibile o improcedibile la domanda o la rigetta per infondatezza dei motivi, puo' condannare l'opponente al pagamento di una pena pecuniaria equitativamente determinata.
 
-##### CAPO IV - Revocazione
+#### CAPO IV - Revocazione
 
 ###### Art. 202 - Casi di revocazione
 
@@ -2446,7 +2446,7 @@ g) la sentenza e' contraria ad altra precedente avente tra le parti autorita' di
 
 3\. Contro la sentenza pronunciata in sede di revocazione sono ammessi i mezzi di impugnazione ai quali era originariamente soggetta la sentenza impugnata per revocazione.
 
-##### CAPO V - Ricorso per cassazione
+#### CAPO V - Ricorso per cassazione
 
 ###### Art. 207 - Motivi di ricorso
 
@@ -2468,11 +2468,11 @@ g) la sentenza e' contraria ad altra precedente avente tra le parti autorita' di
 
 3\. Se la riassunzione non avviene entro il termine di cui al comma 1 o si avvera successivamente a essa una causa di estinzione del giudizio, l'intero processo si estingue; la sentenza della Corte di cassazione conserva il suo effetto vincolante anche nel nuovo processo che sia instaurato con la riproposizione della domanda.
 
-### PARTE VII - INTERPRETAZIONE DEL TITOLO GIUDIZIALE ED ESECUZIONE
+## PARTE VII - INTERPRETAZIONE DEL TITOLO GIUDIZIALE ED ESECUZIONE
 
-#### TITOLO I - INTERPRETAZIONE DEL TITOLO GIUDIZIALE ED ESECUZIONE
+### TITOLO I - INTERPRETAZIONE DEL TITOLO GIUDIZIALE ED ESECUZIONE
 
-##### CAPO I - Interpretazione del titolo giudiziale
+#### CAPO I - Interpretazione del titolo giudiziale
 
 ###### Art. 211 - Giudizio di interpretazione del titolo giudiziale
 
@@ -2480,7 +2480,7 @@ g) la sentenza e' contraria ad altra precedente avente tra le parti autorita' di
 
 2\. L'atto introduttivo si propone davanti al giudice che ha emesso la decisone. Il procedimento e' regolato dalle disposizioni che disciplinano il giudizio ad istanza di parte.
 
-##### CAPO II - Esecuzione delle sentenze di condanna
+#### CAPO II - Esecuzione delle sentenze di condanna
 
 ###### Art. 212 - Titolo esecutivo
 
@@ -2562,7 +2562,7 @@ c) mediante iscrizione a ruolo ai sensi della normativa concernente, rispettivam
 
 3\. Il credito erariale e' assistito da privilegio ai sensi dell'articolo 2750 del codice civile. Ai fini del grado di preferenza, il privilegio per il credito erariale derivante da condanna della Corte dei conti sui beni mobili e sui beni immobili segue, nell'ordine, quelli per i crediti indicati, rispettivamente, negli articoli 2778 e 2780 del codice civile.
 
-##### CAPO III - Giudizio di ottemperanza
+#### CAPO III - Giudizio di ottemperanza
 
 ###### Art. 217 - Giudice dell'ottemperanza
 
@@ -2598,11 +2598,11 @@ d) salvo che cio' sia manifestamente iniquo, e se non sussistono altre ragioni o
 
 8\. I provvedimenti giurisdizionali adottati dal giudice dell'ottemperanza sono impugnabili secondo quanto previsto dalla Parte VI del presente codice.
 
-### PARTE VIII - DISPOSIZIONI FINALI
+## PARTE VIII - DISPOSIZIONI FINALI
 
-#### TITOLO I - DISPOSIZIONI FINALI
+### TITOLO I - DISPOSIZIONI FINALI
 
-##### CAPO I - Norma finanziaria
+#### CAPO I - Norma finanziaria
 
 ###### Art. 219 - Norma finanziaria
 
@@ -2668,9 +2668,9 @@ Spostamenti di competenza per le istruttorie ed i procedimenti contabili nei qua
 
 ## ALLEGATO 2 - NORME DI ATTUAZIONE DEL CODICE DELLA GIUSTIZIA CONTABILE
 
-#### TITOLO I - DISPOSIZIONI GENERALI
+### TITOLO I - DISPOSIZIONI GENERALI
 
-##### CAPO I - DELLE ATTIVITÀ DEL PUBBLICO MINISTERO IN GIUDIZIO
+#### CAPO I - DELLE ATTIVITÀ DEL PUBBLICO MINISTERO IN GIUDIZIO
 
 ALLEGATO 2
 
@@ -2680,9 +2680,9 @@ NORME DI ATTUAZIONE DEL CODICE DELLA GIUSTIZIA CONTABILE
 
 1\. In ogni stato e grado del processo il pubblico ministero puo' richiedere al giudice la comunicazione degli atti per l'esercizio dei poteri a lui attributi dalla legge.
 
-##### CAPO II - DEGLI AUSILIARI DEL GIUDICE
+#### CAPO II - DEGLI AUSILIARI DEL GIUDICE
 
-###### SEZIONE I - Dei consulenti tecnici del giudice
+##### SEZIONE I - Dei consulenti tecnici del giudice
 
 ###### Art. 2 - Distribuzione degli incarichi
 
@@ -2702,7 +2702,7 @@ NORME DI ATTUAZIONE DEL CODICE DELLA GIUSTIZIA CONTABILE
 
 4\. Il presidente della sezione giurisdizionale di appello esercita la vigilanza prevista nel comma 1 per gli incarichi che vengono affidati dalla sezione d'appello.
 
-###### SEZIONE II - Dei registri di segreteria
+##### SEZIONE II - Dei registri di segreteria
 
 ###### Art. 4 - Registri di segreteria
 
@@ -2710,23 +2710,23 @@ NORME DI ATTUAZIONE DEL CODICE DELLA GIUSTIZIA CONTABILE
 
 2\. Ai registri di segreteria ed agli atti del segretario si applicano, in quanto compatibili, le norme delle disposizioni del ((Titolo II,)) Capo III delle disposizioni di attuazione del codice di procedura civile.
 
-###### SEZIONE III - Degli atti dell'ufficiale giudiziario
+##### SEZIONE III - Degli atti dell'ufficiale giudiziario
 
 ###### Art. 5 - Delle notificazioni dell'ufficiale giudiziario
 
 1\. Alle notificazioni di cui all'articolo 42 del codice compiute dall'ufficiale giudiziario si applicano le norme del Capo IV del Titolo II delle disposizioni di attuazione del codice di procedura civile.
 
-#### TITOLO II - DEI FASCICOLI DI PARTE E D'UFFICIO
+### TITOLO II - DEI FASCICOLI DI PARTE E D'UFFICIO
 
-##### CAPO I - DEPOSITO DEL FASCICOLO DI PARTE E FORMAZIONE DEL FASCICOLO D'UFFICIO
+#### CAPO I - DEPOSITO DEL FASCICOLO DI PARTE E FORMAZIONE DEL FASCICOLO D'UFFICIO
 
 ###### Art. 6 - Potere delle parti sui fascicoli
 
 1\. Le parti o i loro difensori muniti di procura possono esaminare gli atti e i documenti inseriti nel fascicolo d'ufficio e in quelli delle altre parti e farsene rilasciare copia dalla segreteria, a proprie spese ed osservate le leggi sul bollo.
 
-#### TITOLO III - DELLA FORMAZIONE DEI COLLEGI GIUDICANTI E DELLE UDIENZE
+### TITOLO III - DELLA FORMAZIONE DEI COLLEGI GIUDICANTI E DELLE UDIENZE
 
-##### CAPO I - DELLA FORMAZIONE DEI COLLEGI GIUDICANTI
+#### CAPO I - DELLA FORMAZIONE DEI COLLEGI GIUDICANTI
 
 ###### Art. 7 - Determinazione dei giorni d'udienza e composizione dei collegi
 
@@ -2738,7 +2738,7 @@ NORME DI ATTUAZIONE DEL CODICE DELLA GIUSTIZIA CONTABILE
 
 4\. Se all'udienza sono presenti giudici in numero superiore a quello stabilito, il collegio, per ciascun giudizio, e' formato dal presidente, dal relatore e dal giudice piu' anziano per i collegi di primo grado e dai giudici piu' anziani, fino al numero di cinque componenti, per i collegi d'appello.
 
-##### CAPO II - DELLE UDIENZE
+#### CAPO II - DELLE UDIENZE
 
 ###### Art. 8 - Ordine di discussione e svolgimento delle cause
 
@@ -2760,7 +2760,7 @@ NORME DI ATTUAZIONE DEL CODICE DELLA GIUSTIZIA CONTABILE
 
 1\. Il collegio puo' rinviare la discussione della causa per non piu' di una volta soltanto per grave impedimento di uno o piu' componenti del collegio o delle parti e per non piu' di sei mesi.
 
-##### CAPO III - DELL'ISTRUZIONE IN CORSO DI GIUDIZIO
+#### CAPO III - DELL'ISTRUZIONE IN CORSO DI GIUDIZIO
 
 ###### Art. 11 - Produzione dei documenti
 
@@ -2786,7 +2786,7 @@ NORME DI ATTUAZIONE DEL CODICE DELLA GIUSTIZIA CONTABILE
 
 1\. Le memorie sono inserite nel fascicolo d'ufficio, ferma restando la valutazione del collegio sulla loro ammissibilita'. Restano salve le disposizioni relative all'utilizzazione di strumenti informatici e telematici.
 
-##### CAPO IV - DELLA DECISIONE
+#### CAPO IV - DELLA DECISIONE
 
 ###### Art. 17 - Motivazione della sentenza
 
@@ -2812,7 +2812,7 @@ NORME DI ATTUAZIONE DEL CODICE DELLA GIUSTIZIA CONTABILE
 
 3\. L'atto di riassunzione e il decreto di fissazione dell'udienza sono notificati ai sensi dell'articolo 42 del codice ed alle parti non costituite devono essere notificati personalmente.
 
-##### CAPO V - DEL PROCESSO PENSIONISTICO
+#### CAPO V - DEL PROCESSO PENSIONISTICO
 
 ###### Art. 21 - Disposizioni particolari per il processo pensionistico
 
@@ -2820,7 +2820,7 @@ NORME DI ATTUAZIONE DEL CODICE DELLA GIUSTIZIA CONTABILE
 
 2\. Ai fini del calcolo di cui all'articolo 429, ultimo comma, del codice di procedura civile, il giudice applica l'indice dei prezzi al consumo per le famiglie di operai ed impiegati.
 
-##### CAPO VI - DEL PROCEDIMENTO IN APPELLO
+#### CAPO VI - DEL PROCEDIMENTO IN APPELLO
 
 ###### Art. 22 - Determinazione dei giorni d'udienza
 
@@ -2836,7 +2836,7 @@ NORME DI ATTUAZIONE DEL CODICE DELLA GIUSTIZIA CONTABILE
 
 3\. La scelta dell'estensore della sentenza e' fatta dal presidente tra i componenti il collegio che hanno espresso voto conforme alla decisione.
 
-##### CAPO VII - DELL'ESECUZIONE
+#### CAPO VII - DELL'ESECUZIONE
 
 ###### Art. 24 - Procedimento per indebito rilascio di copie esecutive
 

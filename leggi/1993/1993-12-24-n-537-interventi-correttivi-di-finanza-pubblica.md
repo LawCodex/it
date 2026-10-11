@@ -32,7 +32,7 @@ la seguente legge:
 
 ## CAPO I - DISPOSIZIONI IN MATERIA DI SPESA
 
-#### Art. 1
+### Art. 1
 
 Organizzazione della pubblica amministrazione
 
@@ -246,7 +246,7 @@ d) trasformazione in associazioni o persone giuridiche di diritto privato degli 
 
 > emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 14 marzo 1986, n. 217.
 
-#### Art. 2
+### Art. 2
 
 Semplificazione e accelerazione dei procedimenti amministrativi
 
@@ -304,7 +304,7 @@ h) individuazione delle responsabilita' e delle procedure di verifica e controll
 
 Restano in ogni caso in vigore le norme di cui al decreto del Presidente della Repubblica 30 settembre 1963, n. 1409, relative all'ordinamento e al personale degli Archivi di Stato, nonche' le norme che regolano la conservazione dei documenti originali di interesse storico, artistico e culturale.
 
-#### Art. 3
+### Art. 3
 
 Pubblico impiego
 
@@ -570,7 +570,7 @@ AGGIORNAMENTO (67)
 
 La L. 27 dicembre 2013, n. 147 ha disposto (con l'art. 1, comma 458) che "Ai pubblici dipendenti che abbiano ricoperto ruoli o incarichi, dopo che siano cessati dal ruolo o dall'incarico, e' sempre corrisposto un trattamento pari a quello attribuito al collega di pari anzianita'".
 
-#### Art. 4
+### Art. 4
 
 Pubblica istruzione
 
@@ -652,7 +652,7 @@ o) il potenziamento degli organi collegiali della scuola, come organi di parteci
 
 25\. Nelle materie disciplinate dal presente articolo, sono fatte salve le competenze delle province autonome di Trento e di Bolzano che provvedono a disciplinare un proprio ordinamento anche in relazione alle esigenze dei gruppi linguistici ed ai sensi delle norme di attuazione dello Statuto speciale per la regione Trentino- Alto Adige, approvate con decreto del Presidente della Repubblica 1 novembre 1973, n. 689, e successive modificazioni, e del testo unificato approvato con decreto del Presidente della Repubblica 10 febbraio 1983, n. 89.
 
-#### Art. 5
+### Art. 5
 
 Universita'
 
@@ -858,11 +858,11 @@ Il D.L. 19 maggio 2020, n. 34, ha disposto:
 
 \- (con l'art. 238, comma 5) che al fine di promuovere l'attivita' di ricerca svolta dalle universita' e valorizzare il contributo del sistema universitario alla competitivita' del paese, il Fondo per il finanziamento ordinario delle universita', di cui al comma 1, lettera a) del presente articolo, e' incrementato di 100 milioni di euro per l'anno 2021 e di 200 milioni di euro a decorrere dall'anno 2022.
 
-#### Art. 6
+### Art. 6
 
 (( ARTICOLO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163 ))
 
-#### Art. 7 - Aggiornamenti ed adeguamenti dei contributi concessori
+### Art. 7 - Aggiornamenti ed adeguamenti dei contributi concessori
 
 1\. Gli oneri di urbanizzazione di cui all'articolo 5 della legge 28 gennaio 1977, n. 10, sono aggiornati ogni quinquennio dai comuni, in conformita' alle relative disposizioni regionali, in relazione ai riscontri e prevedibili costi delle opere di urbanizzazione primaria, secondaria e generale.
 
@@ -876,7 +876,7 @@ Nei periodi intercorrenti tra le determinazioni regionali di cui al primo comma,
 
 Il contributo afferente alla concessione comprende una quota di detto costo, variabile dal 5 per cento al 20 per cento, che viene determinata dalle regioni in funzione delle caratteristiche e delle tipologie delle costruzioni e della loro destinazione ed ubicazione".
 
-#### Art. 8
+### Art. 8
 
 Disposizioni in materia di sanita'
 
@@ -1022,7 +1022,7 @@ AGGIORNAMENTO (66)
 
 Il D.L. 13 settembre 2012, n. 158, convertito con modificazioni dalla L. 8 novembre 2012, n. 189, ha disposto (con l'art. 12, comma 1) che "La domanda di classificazione di un medicinale fra i medicinali erogabili a carico del Servizio sanitario nazionale ai sensi dell'articolo 8, comma 10, della legge 24 dicembre 1993, n. 537, e successive modificazioni, e' istruita dall'Agenzia italiana del farmaco (AIFA) contestualmente alla contrattazione del relativo prezzo, ai sensi dell'articolo 48, comma 33, del decreto-legge 30 settembre 2003, n. 269, convertito, conmodificazioni, dalla legge 24 novembre 2003, n. 326."
 
-#### Art. 9 - Patrimonio pubblico
+### Art. 9 - Patrimonio pubblico
 
 1\. E' abrogata ogni disposizione che fa obbligo o consente alle amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 3 febbraio 1993, n. 29, in qualsiasi forma e a qualunque titolo, di attribuire risorse finanziarie pubbliche o di impiegare pubblici dipendenti in favore di associazioni e organizzazioni di dipendenti pubblici escluse quelle aventi natura previdenziale o assistenziale, nonche' gli enti con finalita' assistenziali a favore del personale delle Forze armate, delle Forze di polizia e del Corpo nazionale dei vigili del fuoco. (27)
 
@@ -1058,7 +1058,7 @@ AGGIORNAMENTO (27)
 
 Il D.L. 8 agosto 1996, n. 437, convertito con modificazioni dalla L. 24 ottobre 1996, n. 556, ha disposto (con l'art. 10, comma 2) che la modifica alle disposizioni del comma 1 del presente articolo si applicano a decorrere dal 1 gennaio 1994.
 
-#### Art. 10
+### Art. 10
 
 Prezzi e tariffe
 
@@ -1148,7 +1148,7 @@ a) 1 millesimo di euro a chilometro per le classi di pedaggio A e B e a 3 milles
 
 b) 2 millesimi di euro a chilometro per le classi di pedaggio A e B e a 6 millesimi di euro a chilometro per le classi di pedaggio 3, 4 e 5 a decorrere dal 1° gennaio 2011".
 
-#### Art. 11
+### Art. 11
 
 Previdenza e assistenza
 
@@ -1304,7 +1304,7 @@ AGGIORNAMENTO (8)
 
 La Corte Costituzionale con sentenza 4-13 luglio 1994, n. 288 (in G.U. 1a s.s. 20/7/1994, n. 30) ha dichiarato "l'illegittimita' costituzionale dell'art. 11, comma 23, primo periodo, della legge 24 dicembre 1993, n. 537 (Interventi correttivi di finanza pubblica), in relazione al tempo successivo alla data di entrata in vigore della legge citata n. 160 del 1988".
 
-#### Art. 12
+### Art. 12
 
 Trasferimenti alle regioni
 
@@ -1366,7 +1366,7 @@ AGGIORNAMENTO (12)
 
 La L. 23 dicembre 1994, n. 724 ha disposto (con l'art. 34, comma 3) che "Le misure del concorso delle regioni Sicilia, Sardegna e Friuli- Venezia Giulia al finanziamento del Servizio sanitario nazionale previste dall'articolo 12, comma 9, della legge 24 dicembre 1993, n. 537, sono elevate rispettivamente al 25 per cento, al 21 per cento e al 19,50 per cento."
 
-#### Art. 13
+### Art. 13
 
 Disposizioni varie
 
@@ -1418,11 +1418,9 @@ AGGIORNAMENTO (6)
 
 IL D.L. 29 aprile 1994, n. 260, convertito con modificazioni dalla L. 27 giugno 1994, n. 413 ha disposto (con l'art. 13, comma 1) che "La distribuzione primaria dei valori bollati, riservata, a norma dell'articolo 13, comma 3, della legge 24 dicembre 1993, n. 537, all'Ente poste italiane, ha inizio dal 1 gennaio 1995. Agli oneri conseguenti al differimento del termine, pari a lire 32,5 miliardi, si provvede utilizzando parte delle maggiori entrate derivanti dal decreto-legge 30 dicembre 1993, n. 557, convertito, con modificazioni, dalla legge 26 febbraio 1994, n. 133. Fino al 31 marzo 1995 il prelievo di valori bollati da parte dei rivenditori secondari puo' essere effettuato anche presso le banche gia' incaricate della distribuzione di detti valori".
 
-## Capo II - DISPOSIZIONI
+## Capo II - DISPOSIZIONI IN MATERIA DI ENTRATE
 
-### IN MATERIA DI ENTRATE
-
-#### Art. 14
+### Art. 14
 
 Razionalizzazione e soppressione di agevolazioni tributarie e recupero di imposte e di base imponibile
 
@@ -1544,7 +1542,7 @@ AGGIORNAMENTO (65)
 
 Il D.L. 2 marzo 2012, n. 16, convertito, con modificazioni, dalla L. 26 aprile 2012, n. 44 ha disposto (con l'art. 8, comma 3) che "Le disposizioni di cui ai commi 1 e 2 si applicano, in luogo di quanto disposto dal comma 4-bis dell'articolo 14 della legge 24 dicembre 1993, n. 537, previgente, anche per fatti, atti o attivita' posti in essere prima dell'entrata in vigore degli stessi commi 1 e 2, ove piu' favorevoli, tenuto conto anche degli effetti in termini di imposte o maggiori imposte dovute, salvo che i provvedimenti emessi in base al citato comma 4-bis previgente non si siano resi definitivi. Resta ferma l'applicabilita' delle previsioni di cui al periodo precedente ed ai commi 1 e 2 anche per la determinazione del valore della produzione netta ai fini dell'imposta regionale sulle attivita' produttive."
 
-#### Art. 15 - Trattamento tributario dell'abitazione principale
+### Art. 15 - Trattamento tributario dell'abitazione principale
 
 1\. Nell'articolo 34 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e' aggiunto, in fine, il seguente comma:
 
@@ -1578,7 +1576,7 @@ b) nell'articolo 17, comma 3, le parole: "si detraggono lire 120 mila" sono sost
 
 6\. Con effetto dall'anno 1994, al comma 3 dell'articolo 8 del decreto legislativo 30 dicembre 1992, n. 504, e' aggiunto, in fine, il seguente periodo: "Il consiglio comunale puo' deliberare un aumento della detrazione da lire 180.000 fino a lire 300.000 sulla base del livello medio dei valori patrimoniali rilevati sul territorio, nonche' in relazione a richieste documentate con particolari situazioni di carattere sociale; le deliberazioni del consiglio, da adottare entro il termine previsto dal comma 1 dell'articolo 6, hanno effetto solo per l'anno successivo a quello nel corso del quale vengono adottate".
 
-#### Art. 16
+### Art. 16
 
 Altre norme in materia di entrate
 
@@ -1652,7 +1650,7 @@ AGGIORNAMENTO (47)
 
 La Corte Costituzionale, con la sentenza 12-25 luglio 2001, n. 288 (in G.U. 1a s.s. 1/8/2001, n. 30) ha dichiarato l'illegittimita' costituzionale del comma 17, secondo periodo, del presente art. 16 "nella parte in cui detta disposizione, nello stabilire che le modalita' della sua attuazione sono definite con decreto del Ministro delle finanze, di concerto con il Ministro del tesoro, non prevede la partecipazione della Regione Sicilia al relativo procedimento".
 
-#### Art. 17 - Applicazione della legge
+### Art. 17 - Applicazione della legge
 
 1\. Le disposizioni della presente legge si applicano dal 1 gennaio 1994.
 
@@ -1672,11 +1670,9 @@ BARUCCI, Ministro del tesoro
 
 Visto, il Guardasigilli: CONSO
 
-## Capo II - DISPOSIZIONI
+## Capo II - DISPOSIZIONI IN MATERIA DI ENTRATE
 
-### IN MATERIA DI ENTRATE
-
-#### Elenco
+### Elenco
 
 ELENCO N. 1
 
@@ -2193,7 +2189,7 @@ AGGIORNAMENTO (20)
 
 Il D.L. 28 agosto 1995, n. 361, convertito con modificazioni dalla L. 27 ottobre 1995, n. 437, ha disposto (con l'art. 4, comma 4) che "Il termine per l'emanazione del regolamento relativo al procedimento di certificazione di prevenzione incendi, di cui al presente elenco , e' differito al centoventesimo giorno successivo alla data di entrata in vigore del presente decreto. Fino alla data di entrata in vigore di detto regolamento a morma dell'art. 2, comma 7, della medesima legge, e' consentita la prosecuzione dell'attivita' a coloro che hanno ottenuto il nulla-osta provvisorio di prevenzione incendi ai sensi della legge 7 dicembre 1984, n. 818, con validita', per effetto dell'art. 22 della legge 31 maggio 1990, n. 128, fino al 30 giugno 1994, nonche' a coloro che, ai sensi dell'art. 11 della legge 20 maggio 1991, n. 158, hanno presentato l'istanza completa delle prescritte certificazioni e documentazioni".
 
-#### Tabelle
+### Tabelle
 
 TABELLA A
 

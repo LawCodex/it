@@ -30,7 +30,7 @@ la seguente legge:
 
 ## Capo I - LOCAZIONE DI IMMOBILI ADIBITI AD USO ABITATIVO
 
-#### Art. 1
+### Art. 1
 
 Ambito di applicazione
 
@@ -50,7 +50,7 @@ A tali contratti non si applica l'articolo 56 della legge 27 luglio 1978, n. 392
 
 4\. A decorrere dalla data di entrata in vigore della presente legge, per la stipula di validi contratti di locazione e' richiesta la forma scritta.
 
-#### Art. 2
+### Art. 2
 
 Modalita' di stipula e di rinnovo dei contratti di locazione
 
@@ -112,7 +112,7 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 14 marzo 2011, n. 23, come modificato dalla L. 27 dicembre 2019, n. 160, ha disposto (con l'art. 3, comma 2) che "Per i contratti stipulati secondo le disposizioni di cui agli articoli 2, comma 3, e 8 della legge 9 dicembre 1998, n. 431, relativi ad abitazioni ubicate nei comuni di cui all'articolo 1, comma 1, lettere a) e b), del decreto-legge 30 dicembre 1988, n. 551, convertito, con modificazioni, dalla legge 21 febbraio 1989, n. 61, e negli altri comuni ad alta tensione abitativa individuati dal Comitato interministeriale per la programmazione economica, l'aliquota della cedolare secca calcolata sul canone pattuito dalle parti e' ridotta al 10 per cento".
 
-#### Art. 3 - Disdetta del contratto da parte del locatore
+### Art. 3 - Disdetta del contratto da parte del locatore
 
 1\. Alla prima scadenza dei contratti stipulati ai sensi del comma 1 dell'articolo 2 e alla prima scadenza dei contratti stipulati ai sensi del comma 3 del medesimo articolo, il locatore puo' avvalersi della facolta' di diniego del rinnovo del contratto, dandone comunicazione al conduttore con preavviso di almeno sei mesi, per i seguenti motivi:
 
@@ -192,11 +192,9 @@ g) quando il locatore intenda vendere l'immobile a terzi e non abbia la propriet
 
 > Il giudice, su istanza del ricorrente, alla prima udienza e comunque in ogni stato del giudizio valutate le ragioni addotte dalle parti e le prove raccolte, puo' disporre il rilascio dell'immobile con ordinanza costituente titolo esecutivo".
 
-## Capo II - CONTRATTI DI LOCAZIONE STIPULATI IN BASE AD ACCORDI
+## Capo II - CONTRATTI DI LOCAZIONE STIPULATI IN BASE AD ACCORDI DEFINITI IN SEDE LOCALE
 
-### DEFINITI IN SEDE LOCALE
-
-#### Art. 4
+### Art. 4
 
 Convenzione nazionale
 
@@ -208,7 +206,7 @@ Convenzione nazionale
 
 4\. Fermo restando quanto stabilito dall'articolo 60, comma 1, lettera e), del decreto legislativo 31 marzo 1998, n. 112, con apposito atto di indirizzo e coordinamento, da adottare con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, ai sensi dell'articolo 8 della legge 15 marzo 1997, n. 59, sono definiti, in sostituzione di quelli facenti riferimento alla legge 27 luglio 1978, n. 392, e successive modificazioni, criteri in materia di determinazione da parte delle regioni dei canoni di locazione per gli alloggi di edilizia residenziale pubblica. Gli attuali criteri di determinazione dei canoni restano validi fino all'adeguamento da parte delle regioni ai criteri stabiliti ai sensi del presente comma.
 
-#### Art. 4-bis
+### Art. 4-bis
 
 (( (Tipi di contratto). ))
 
@@ -218,7 +216,7 @@ Convenzione nazionale
 
 3\. In caso di mancanza di accordo delle parti, i tipi di contratto sono definiti con il decreto di cui all'articolo 4, comma 2)).
 
-#### Art. 5
+### Art. 5
 
 Contratti di locazione di natura transitoria
 
@@ -228,11 +226,9 @@ Contratti di locazione di natura transitoria
 
 3\. E' facolta' dei comuni sede di universita' o di corsi universitari distaccati, eventualmente d'intesa con comuni limitrofi, promuovere specifici accordi locali per la definizione, sulla base dei criteri stabiliti ai sensi del comma 2 dell'articolo 4, ((dei canoni di)) locazione di immobili ad uso abitativo per studenti universitari. Agli accordi partecipano, oltre alle organizzazioni di cui al comma 3 dell'articolo 2, le aziende per il diritto allo studio e le associazioni degli studenti, nonche' cooperative ed enti non lucrativi operanti nel settore.
 
-## Capo III - ESECUZIONE DEI PROVVEDIMENTI DI RILASCIO DEGLI IMMOBILI
+## Capo III - ESECUZIONE DEI PROVVEDIMENTI DI RILASCIO DEGLI IMMOBILI ADIBITI AD USO ABITATIVO
 
-### ADIBITI AD USO ABITATIVO
-
-#### Art. 6 - Rilascio degli immobili
+### Art. 6 - Rilascio degli immobili
 
 1\. Nei comuni indicati all'articolo 1 del decreto-legge 30 dicembre 1988, n. 551, convertito, con modificazioni, dalla legge 21 febbraio 1989, n. 61, e successive modificazioni, le esecuzioni dei provvedimenti di rilascio di immobili adibiti ad uso abitativo per finita locazione sono sospese per un periodo di centottanta giorni a decorrere dalla data di entrata in vigore della presente legge.
 
@@ -262,7 +258,7 @@ AGGIORNAMENTO (3)
 
 La Corte Costituzionale con sentenza 25 ottobre-9 novembre 2000, n. 482 (in G.U. 1a s.s. 15/11/2000, n. 47) ha dichiarato l'illegittimita' costituzionale dell'art. 6, comma 6, della legge 9 dicembre 1998, n. 431, "nella parte in cui esime il conduttore dall'obbligo di risarcire il maggior danno, ai sensi dell'art. 1591 del codice civile, anche nel periodo successivo alla scadenza del termine di sospensione della esecuzione stabilito ope legis o di quello giudizialmente fissato per il rilascio dell'immobile."
 
-#### Art. 7
+### Art. 7
 
 (Condizione per la messa in esecuzione del
 
@@ -284,7 +280,7 @@ La Corte Costituzionale, con sentenza 24 settembre-5 ottobre 2001, n. 333 (in G.
 
 ## Capo IV - MISURE DI SOSTEGNO AL MERCATO DELLE LOCAZIONI
 
-#### Art. 8 - Agevolazioni fiscali
+### Art. 8 - Agevolazioni fiscali
 
 1\. Nei comuni di cui all'articolo 1 del decreto-legge 30 dicembre 1988, n. 551, convertito, con modificazioni, dalla legge 21 febbraio 1989, n. 61, e successive modificazioni, il reddito imponibile derivante al proprietario dai contratti stipulati o rinnovati ai sensi del comma 3 dell'articolo 2 a seguito di accordo definito in sede locale e nel rispetto dei criteri indicati dal decreto di cui al comma 2 dell'articolo 4, ovvero nel rispetto delle condizioni fissate dal decreto di cui al comma 3 del medesimo articolo 4, determinato ai sensi dell'articolo 34 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, e' ulteriormente ridotto del 30 per cento. Per i suddetti contratti il corrispettivo annuo ai fini della determinazione della base imponibile per l'applicazione dell'imposta proporzionale di registro e' assunto nella misura minima del 70 per cento.
 
@@ -336,11 +332,11 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 14 marzo 2011, n. 23, come modificato dalla L. 27 dicembre 2019, n. 160, ha disposto (con l'art. 3, comma 2) che "Per i contratti stipulati secondo le disposizioni di cui agli articoli 2, comma 3, e 8 della legge 9 dicembre 1998, n. 431, relativi ad abitazioni ubicate nei comuni di cui all'articolo 1, comma 1, lettere a) e b), del decreto-legge 30 dicembre 1988, n. 551, convertito, con modificazioni, dalla legge 21 febbraio 1989, n. 61, e negli altri comuni ad alta tensione abitativa individuati dal Comitato interministeriale per la programmazione economica, l'aliquota della cedolare secca calcolata sul canone pattuito dalle parti e' ridotta al 10 per cento".
 
-#### Art. 9
+### Art. 9
 
 ((ARTICOLO ABROGATO DAL D. LGS. 18 FEBBRAIO 2000, N. 47))
 
-#### Art. 10 - Ulteriori agevolazioni fiscali
+### Art. 10 - Ulteriori agevolazioni fiscali
 
 1\. Con provvedimento collegato alla manovra finanziaria per il triennio 2000-2002 e' istituito, a decorrere dall'anno 2001, un fondo per la copertura delle minori entrate derivanti dalla concessione, secondo modalita' determinate dal medesimo provvedimento collegato, di una detrazione ai fini dell'imposta sul reddito delle persone fisiche in favore dei conduttori, appartenenti a determinate categorie di reddito, di alloggi locati a titolo di abitazione principale, da stabilire anche nell'ambito di una generale revisione dell'imposizione sugli immobili. Per gli esercizi successivi al triennio 2000-2002, alla dotazione del fondo si provvede con stanziamento determinato dalla legge finanziaria, ai sensi dell'articolo 11, comma 3, lettera d), della legge 5 agosto 1978, n. 468, e successive modificazioni.
 
@@ -356,7 +352,7 @@ Il D.Lgs. 14 marzo 2011, n. 23, come modificato dalla L. 27 dicembre 2019, n. 16
 
 > d) la determinazione, in apposita tabella, della quota da iscrivere nel bilancio di ciascuno degli anni considerati dal bilancio pluriennali per le leggi di spesa permanente la cui quantificazione e' rinviata alla legge finanziaria".
 
-#### Art. 11
+### Art. 11
 
 Fondo nazionale
 
@@ -390,7 +386,7 @@ Il D.L. 28 marzo 2014, n. 47, convertito con modificazioni dalla L. 23 maggio 20
 
 ## Capo V - DISPOSIZIONI FINALI
 
-#### Art. 12
+### Art. 12
 
 (Osservatorio della
 
@@ -414,7 +410,7 @@ condizione abitativa).
 
 > e) alla definizione dei criteri per favorire l'accesso al mercato delle locazioni dei nuclei familiari meno abbienti e agli interventi concernenti il sostegno finanziario al reddito".
 
-#### Art. 13
+### Art. 13
 
 (( (Patti contrari alla legge).))
 
@@ -434,7 +430,7 @@ condizione abitativa).
 
 8\. I riferimenti alla registrazione del contratto di cui alla presente legge non producono effetti se non vi e' obbligo di registrazione del contratto stesso)).
 
-#### Art. 14 - Disposizioni transitorie e abrogazione di norme
+### Art. 14 - Disposizioni transitorie e abrogazione di norme
 
 1\. In sede di prima applicazione dell'articolo 4 della presente legge, non trova applicazione il termine di novanta giorni di cui al comma 2 del medesimo articolo 4.
 
@@ -450,7 +446,7 @@ condizione abitativa).
 
 > \- Il decreto legislativo 19 febbraio 1998, n. 51, reca: "Norme in materia di istituzione del giudice unico di primo grado" ed e' pubblicato nella Gazzetta Ufficiale 20 marzo 1998, n. 66.
 
-#### Art. 15 - Copertura finanziaria
+### Art. 15 - Copertura finanziaria
 
 1\. All'onere derivante dall'attuazione dei commi da 1 a S dell'articolo 8, valutato in lire 4 miliardi per l'anno 1999 e in lire 420 miliardi a decorrere dall'anno 2000, si provvede mediante utilizzo delle proiezioni per i medesimi anni degli stanziamenti iscritti, ai fini del bilancio triennale 19982000, nell'ambito dell'unita' previsionale di base di parte corrente " Fondo speciale " dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno finanziario 1998, allo scopo parzialmente utilizzando, quanto a lire 4 miliardi per l'anno 1999 e quanto a lire 299 miliardi per l'anno 2000, l'accantonamento relativo al Ministero dei lavori pubblici, nonche', quanto a Lire 107 miliardi per l'anno 2000, l'accantonamento relativo alla Presidenza del Consiglio dei ministri e, quanto a lire 14 miliardi per l'anno 2000, l'accantonamento relativo al Ministero di grazia e giustizia.
 

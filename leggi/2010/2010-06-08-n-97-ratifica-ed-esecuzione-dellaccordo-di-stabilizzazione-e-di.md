@@ -527,7 +527,7 @@ paragrafo 4 a decorrere dalla data di applicazione della riduzione.
 
 dazi di base e le relative modifiche.
 
-## CAPITOLO I - PRODOTTI INDUSTRIALI
+### CAPITOLO I - PRODOTTI INDUSTRIALI
 
 ##### Articolo 19
 
@@ -597,7 +597,7 @@ Il consiglio di stabilizzazione e di associazione valuta la
 
 situazione e formula le raccomandazioni del caso.
 
-## CAPITOLO II - AGRICOLTURA E PESCA
+### CAPITOLO II - AGRICOLTURA E PESCA
 
 ##### Articolo 24
 
@@ -763,7 +763,7 @@ Bosnia-Erzegovina.
 
 1-5 di propria iniziativa o su richiesta di una parte interessata.
 
-## CAPITOLO III - DISPOSIZIONI COMUNI
+### CAPITOLO III - DISPOSIZIONI COMUNI
 
 ##### Articolo 32
 
@@ -995,9 +995,7 @@ delle disposizioni di diritto comunitario alle Isole Canarie.
 
 ## TITOLO V - CIRCOLAZIONE DEI LAVORATORI, STABILIMENTO,PRESTAZIONE DI SERVIZI, CIRCOLAZIONE DEI CAPITALI
 
-### CAPITOLO I
-
-#### CIRCOLAZIONE DEI LAVORATORI
+### CAPITOLO I - CIRCOLAZIONE DEI LAVORATORI
 
 ##### Articolo 47
 
@@ -1057,7 +1055,7 @@ c) ai lavoratori in questione sono versati gli assegni familiari per i membri de
 
 quello specificato al paragrafo 1, punti b) e c).
 
-## CAPITOLO II - STABILIMENTO
+### CAPITOLO II - STABILIMENTO
 
 ##### Articolo 50
 
@@ -1235,7 +1233,7 @@ b) la sede principale della societa' si trovi al di fuori rispettivamente della 
 
 societa' rispettivamente nello Stato membro o in Bosnia-Erzegovina.
 
-## CAPITOLO III - PRESTAZIONE DI SERVIZI
+### CAPITOLO III - PRESTAZIONE DI SERVIZI
 
 ##### Articolo 57
 
@@ -1305,7 +1303,7 @@ facilita la circolazione di viaggiatori e merci.
 
 prestazione dei servizi di trasporto aereo e terrestre.
 
-## CAPITOLO IV - PAGAMENTI CORRENTI E CIRCOLAZIONE DEI CAPITALI
+### CAPITOLO IV - PAGAMENTI CORRENTI E CIRCOLAZIONE DEI CAPITALI
 
 ##### Articolo 60
 
@@ -1357,7 +1355,7 @@ circolazione dei capitali.
 
 delle norme comunitarie in materia di circolazione dei capitali.
 
-## CAPITOLO V - DISPOSIZIONI DI CARATTERE GENERALE
+### CAPITOLO V - DISPOSIZIONI DI CARATTERE GENERALE
 
 ##### Articolo 63
 
@@ -6679,7 +6677,7 @@ nel quadro del comitato di stabilizzazione e di associazione
 
 istituito dal consiglio di stabilizzazione e di associazione.
 
-## CAPITOLO I - OBIETTIVO E AMBITO D'APPLICAZIONE
+### CAPITOLO I - OBIETTIVO E AMBITO D'APPLICAZIONE
 
 ##### Articolo 1
 
@@ -6741,9 +6739,9 @@ industriale e commerciale), e articolo 74, paragrafi 1, 2, primo
 
 comma, e da 3 a 6 (appalti pubblici).
 
-## CAPITOLO II PROCEDURE DI COMPOSIZIONE DELLE CONTROVERSIE - SEZIONE I
+### CAPITOLO II PROCEDURE DI COMPOSIZIONE DELLE CONTROVERSIE
 
-### PROCEDURA DI ARBITRATO
+#### SEZIONE I - PROCEDURA DI ARBITRATO
 
 ##### Articolo 3
 
@@ -6921,7 +6919,7 @@ ricorrente di chiedere successivamente la costituzione di un collegio
 
 per la stessa misura.
 
-## SEZIONE II - APPLICAZIONE DEL LODO ARBITRALE
+#### SEZIONE II - APPLICAZIONE DEL LODO ARBITRALE
 
 ##### Articolo 6
 
@@ -7115,7 +7113,7 @@ all'articolo 4. Anche in questo caso, il lodo deve essere notificato
 
 entro 45 giorni dalla costituzione del collegio.
 
-## SEZIONE III - DISPOSIZIONI COMUNI
+#### SEZIONE III - DISPOSIZIONI COMUNI
 
 ##### Articolo 11
 
@@ -7179,7 +7177,7 @@ associazione, che li mette a disposizione del pubblico, a meno che
 
 non decida all'unanimita' di non divulgarli.
 
-## CAPITOLO III - DISPOSIZIONI DI CARATTERE GENERALE
+### CAPITOLO III - DISPOSIZIONI DI CARATTERE GENERALE
 
 ##### Articolo 15
 

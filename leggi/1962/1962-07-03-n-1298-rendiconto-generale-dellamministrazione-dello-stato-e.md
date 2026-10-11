@@ -29,7 +29,7 @@ la seguente legge:
 
 ## ENTRATE E SPESE DI COMPETENZA DELL'ESERCIZIO FINANZIARIO 1949-50
 
-### Art. 1
+## Art. 1
 
 Le entrate ordinarie e straordinarie dello Stato, accertate nell'esercizio finanziario 1949-50, per la competenza propria dell'esercizio stesso, sono stabilite, quali risultano dal conto consuntivo del bilancio,
 
@@ -41,7 +41,7 @@ delle quali furono riscosse.............. L. 1.529.967.253.727,34
 
 e rimasero da riscuotere................. L. 240.781.710.606,14
 
-### Art. 2
+## Art. 2
 
 Le spese ordinarie e straordinarie dello Stato accertate nell'esercizio finanziario 1949-50 per la competenza propria dell'esercizio stesso sono stabilite, quali risultano dal conto consuntivo del bilancio,
 
@@ -53,7 +53,7 @@ delle quali furono pagate................ L. 1.202.216.929.430,34
 
 e rimasero da pagare..................... L. 745.556.770.574,37
 
-### Art. 3
+## Art. 3
 
 Il riassunto generale dei risultati delle entrate e delle, spese di competenza dell'esercizio finanziario 1949-50 rimane cosi' stabilito:
 
@@ -89,7 +89,7 @@ Disavanzo finanziario..... L. 177.024.735.691,23
 
 ## ENTRATE E SPESE RESIDUE DELL'ESERCIZIO 1948-49 ED ESERCIZI PRECEDENTI
 
-### Art. 4
+## Art. 4
 
 Le entrate rimaste da riscuotere alla chiusura dell'esercizio 1948-49 restano determinate, come dal conto consuntivo del bilancio, in....................................... L. 389.976.582.323,41
 
@@ -99,7 +99,7 @@ delle quali furono riscosse.............. L. 192.359.351.469,21
 
 e rimasero da riscuotere................. L. 197.617.230.854,20
 
-### Art. 5
+## Art. 5
 
 Le spese rimaste da pagare alla chiusura dell'esercizio 1948-49 restano determinate, come dal conto consuntivo del bilancio,
 
@@ -113,7 +113,7 @@ e rimasero da pagare..................... L. 928.164.077.275,12
 
 ## RESIDUI, ATTIVI E PASSIVI ALLA CHIUSURA DELL'ESERCIZIO FINANZIARIO 1949-50
 
-### Art. 6
+## Art. 6
 
 I residui attivi alla dell'esercizio finanziario 1949-50, sono stabiliti come dal conto consuntivo del bilancio, nelle seguenti somme:
 
@@ -137,7 +137,7 @@ Somme riscosse e non versate in Tesoreria.
 
 Residui attivi al 30 giugno 1950......... L. 542.513.771.040,93
 
-### Art. 7
+## Art. 7
 
 I residui passivi alla chiusura dell'esercizio finanziario 1949-50, sono stabiliti come dal conto consuntivo del bilancio, nelle seguenti somme
 
@@ -157,7 +157,7 @@ Residui passivi al 30 giugno 1950........ L. 1.673.720.847.849,49
 
 ## SITUAZIONE FINANZIARIA
 
-### Art. 8
+## Art. 8
 
 E' accertato nella somma di lire 3.082.399.099.684,56 il disavanzo finanziario del conto dei Tesoro alla fine dell'esercizio 1949-50 come risulta dai seguenti dati:
 
@@ -207,11 +207,11 @@ di contabilita generale................... L. 30,20
 
 ## DISPOSIZIONI SPECIALI
 
-### Art. 9
+## Art. 9
 
 Sono stabili nella somma di lire 30,20 i di scarichi consentiti, nell'esercizio 1949-50, ai ai tesorieri per casi di forza maggiore ai sensi dell'articolo 191 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato approvato con regio decreto 23 maggio 1924, n. 827.
 
-### Art. 10
+## Art. 10
 
 Sono approvate le eccedenze d'impegni risultate in sedi di consuntivo ai capitoli dello stato di previsione della spesa dei Ministeri sottoindicati per l'esercizio finanziario 1949-50 come dal dettaglio che segue:
 
@@ -219,7 +219,7 @@ Sono approvate le eccedenze d'impegni risultate in sedi di consuntivo ai capitol
 
 ## AMMINISTRAZIONI ED AZIENDE SPECIALI AMMINISTRAZIONE AUTONOMA DEL MONOPOLI DI STATO
 
-### Art. 11
+## Art. 11
 
 Le entrate ordinarie e straordinarie del bilancio dell'Amministrazione dei monopoli di Stato, accertate nell'esercizio finanziario 1949-50, per la competenza propria dell'esercizio medesimo, sono stabilite, quali risultano dal conto consuntivo dell'Amministrazione stessa, allegato al consuntivo della spesa del Ministero delle finanze,
 
@@ -229,7 +229,7 @@ in...................................... L. 87.480.852.750,26 delle quali furono
 
 e rimasero da riscuotere................ L. 7.235.770.447,89
 
-### Art. 12
+## Art. 12
 
 Le spese ordinarie e straordinarie del bilancio dell'Amministrazione predetta, accertate nell'esercizio finanziario 1949-50, per la competenza propria dell'esercizio stesso sono stabilite,
 
@@ -239,7 +239,7 @@ in...................................... L. 87.480.852.750,26 delle quali furono
 
 e rimasero da pagare.................... L. 41.428.569.948,22
 
-### Art. 13
+## Art. 13
 
 Le entrate del bilancio dell'Amministrazione medesima, rimaste da riscuotere alla chiusura dell'esercizio 1948-49 restano determinate, in ..................................... L. 50.312.921.608,78 delle quali furono riscosse............. L. 13.405.775.404,02
 
@@ -247,7 +247,7 @@ Le entrate del bilancio dell'Amministrazione medesima, rimaste da riscuotere all
 
 e rimasero da riscuotere................ L. 36.907.146.203,80
 
-### Art. 14
+## Art. 14
 
 Le spese del bilancio dell'Amministrazione medesima, rimaste da pagare alla chiusura dell'esercizio 1948-49, restano determinate
 
@@ -257,7 +257,7 @@ in...................................... L. 68.229.006.311,52 delle quali furono
 
 e rimasero da pagare.................... L. 32.529.771.862,07
 
-### Art. 15
+## Art. 15
 
 I residui attivi alla chiusura dell'esercizio finanziario 1949-50 sono stabilite nelle seguenti somme
 
@@ -279,7 +279,7 @@ del riepilogo dell'entrata)........... L. 1.571.946.134,43
 
 Residui attivi al 30 giugno 1950........ L. 45.714.862.780,18
 
-### Art. 16
+## Art. 16
 
 I residui passivi alla chiusura dell'esercizio finanziario 1949-50.
 
@@ -291,7 +291,7 @@ dell'esercizio finanziario 1949-50
 
 (articolo 12)......................... L. 41.428.569.948,22 (articolo 14)......................... L. 32.529.771.862,07
 
-### Art. 17
+## Art. 17
 
 La situazione finanziaria dell'Amministrazione autonoma dei Monopoli di Stato alla fine dell'esercizio finanziario 1949-50, risulta come appresso:
 
@@ -333,7 +333,7 @@ Totale delle passivita'.................. L. 87.559.305.797,32
 
 ## FONDO DI MASSA DEL CORPO DELLA GUARDIA DI FINANZA
 
-### Art. 18
+## Art. 18
 
 Le entrate ordinarie e straordinarie del bilancio del Fondo di massa del corpo della guardia di finanza, accertate nell'esercizio finanziario 1949-50, per la competenza propria dell'esercizio medesimo, sono stabilite quali risultano dal conto consuntivo di quella Amministrazione, allegato al conto consuntivo della spesa del Ministero delle finanze,
 
@@ -343,7 +343,7 @@ in ..................................... L. 1.957.255.454,60 delle quali furono 
 
 e rimasero da riscuotere................ L. 7.157.832,03
 
-### Art. 19
+## Art. 19
 
 Le spese ordinarie e straordinarie del bilancio dell'Amministrazione predetti accertate nell'esercizio finanziario 1949-50, per la competenza propria dell'esercizio medesimo, sono stabilite
 
@@ -353,7 +353,7 @@ in...................................... L. 1.734.621.955,28 delle quali furono 
 
 e rimasero da pagare.................... L. 575.737.219,69
 
-### Art. 20
+## Art. 20
 
 Le entrate rimaste da riscuotere alla chiusura dell'esercizio finanziario 1948-49, restano determinate
 
@@ -363,7 +363,7 @@ in...................................... L. 914.281.584,53 delle quali furono ri
 
 e rimasero da riscuotere................ L. -
 
-### Art. 21
+## Art. 21
 
 Le spese rimaste da pagare alla chiusura dell'esercizio finanziario 1948-49, restano determinate
 
@@ -373,7 +373,7 @@ in...................................... L. 632.614.247,41 delle quali furono pa
 
 e rimasero da pagare.................... L. 486.201.107,15
 
-### Art 22
+## Art 22
 
 I residui attivi alla chiusura dell'esercizio 1949-50 sono stabiliti nelle seguenti somme:
 
@@ -397,7 +397,7 @@ del riepilogo dell'entrata)........... L. -
 
 Residui attivi al 30 giugno 1950........ L. 7.157.832,03
 
-### Art. 23
+## Art. 23
 
 I residui passivi alla chiusura dell'esercizio 1949-50 sono stabiliti nelle seguenti somme:
 
@@ -417,7 +417,7 @@ degli esercizi precedenti
 
 Residui passivi al 30 giugno 1950....... L. 1.061.938.326,84
 
-### Art. 24
+## Art. 24
 
 E' accertata nella somma di lire 405.129.803,70 la differenza attiva del conto finanziario del Fondo massa del Corpo della guardia di finanza alla fine dell'esercizio 1949-50, risultante dai seguenti dati:
 
@@ -469,7 +469,7 @@ Totale a pareggio delle attivita ........ L. 2.339.759.740,18
 
 ## AZIENDA MONOPOLIO BANANE
 
-### Art. 25
+## Art. 25
 
 Le entrate ordinarie e straordinarie dell'Azienda monopolio banane accertate nell'esercizio finanziario 1949-50 per la competenza propria dell'esercizio medesimo, sono stabilite, quali risultano dal conto consuntivo dell'Amministrazione stessa al legato al conto consuntivo della spesa del Ministero dell'Africa italiana,
 
@@ -479,7 +479,7 @@ in...................................... L. 4.873.178.410,14 delle quali furono 
 
 e rimasero da riscuotere................ L. 6.092.549,-
 
-### Art. 26
+## Art. 26
 
 Le spese ordinarie e straordinarie dell'Azienda predetta, accertate nell'esercizio finanziario 1949-50, per la competenza propria dell'esercizio stesso, sono stabilite
 
@@ -489,7 +489,7 @@ in...................................... L. 4.873.178.410,14 delle quali furono 
 
 e rimasero da pagare.................... L. 2.187.387.529.74
 
-### Art. 27
+## Art. 27
 
 Le entrate rimaste da riscuotere alla chiusura dell'esercizio 1948-49 restano determinate
 
@@ -499,7 +499,7 @@ in...................................... L. 99.732.282,82 delle quali furono ris
 
 e rimasero da riscuotere................ L. 26.090.103,66
 
-### Art. 28
+## Art. 28
 
 Le spese rimaste da pagare alla chiusura dell'esercizio 1948-49 restano determinate
 
@@ -509,7 +509,7 @@ in...................................... L. 419.839.487,91 delle quali furono pa
 
 e rimasero da pagare.................... L. 262.059.677,41
 
-### Art. 29
+## Art. 29
 
 I residui attivi alla chiusura dell'esercizio finanziario 1949-50 sono stabiliti nelle seguenti somme:
 
@@ -533,7 +533,7 @@ entrata).............................. L. -
 
 Residui attivi al 30 giugno 1950........ L. 32.182.654,66
 
-### Art. 30
+## Art. 30
 
 I residui passivi alla chiusura dell'esercizio finanziario 1949-50 sono stabiliti nelle seguenti somme:
 
@@ -553,7 +553,7 @@ degli esercizi precedenti
 
 Residui passivi al 30 giugno 1950....... L. 2.449.447.207,15
 
-### Art. 31
+## Art. 31
 
 Sono approvate le eccedenze di impegni risultate in sede di consuntivo, sul conto della competenza, agli articoli dello stato di previsione della spesa dell'Azienda monopolio banane per l'esercizio finanziario 1949-50, come dal dettaglio che segue:
 
@@ -565,7 +565,7 @@ o la costruzione di navi ........... L. 33.054.536,
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-### Art. 32
+## Art. 32
 
 Le entrate ordinarie e straordinarie del bilancio dell'Amministrazione del Fondo per il culto, accertate nell'esercizio finanziario 1949-50, per la competenza propria dell'esercizio medesimo, sono stabilite, quali risultano dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo della spesa del Ministero dell'interno,
 
@@ -575,7 +575,7 @@ in...................................... L. 2.878.701.598,46 delle quali furono 
 
 e rimasero da riscuotere................ L. 2.848.559.604,83
 
-### Art. 33
+## Art. 33
 
 Le spese ordinarie e straordinarie del bilancio dell'Amministrazione predetta, accertate nell'esercizio finanziario 1949-50, per la competenza propria dell'esercizio stesso, sono stabilite
 
@@ -585,7 +585,7 @@ in ..................................... L. 8.071.420.951,05 delle quali furono 
 
 e rimasero da pagare.................... L. 982.837.233,72
 
-### Art. 34
+## Art. 34
 
 Le entrate rimaste da riscuotere alla chiusura dell'esercizio 1948-49, restano determinate
 
@@ -595,7 +595,7 @@ in...................................... L. 3.609.358.433,49 delle quali furono 
 
 e rimasero da riscuotere................ L. 1.917.617.123,06
 
-### Art. 35
+## Art. 35
 
 Le spese rimaste da pagare alla chiusura dell'esercizio 1948-49 restano determinate
 
@@ -605,7 +605,7 @@ in...................................... L. 1.166.517.182,95 delle quali furono 
 
 e rimasero da pagare.................... L. 810.345.106,69
 
-### Art. 36
+## Art. 36
 
 I residui attivi alla chiusura dell'esercizio finanziario 1949-50 sono stabiliti nelle seguenti somme:
 
@@ -629,7 +629,7 @@ entrata).............................. L. 38.776,79
 
 Residui attivi al 30 giugno 1950........ L. 4.766.137.931,10
 
-### Art. 37
+## Art. 37
 
 I residui passivi alla chiusura dell'esercizio finanziario 1949-50 sono stabiliti nelle seguenti somme:
 
@@ -649,7 +649,7 @@ degli esercizi precedenti
 
 Residui passivi al 30 giugno 1950 ...... L. 1.793.182.340,41
 
-### Art. 38
+## Art. 38
 
 E' accertata nella somma di lire 10.689.100,66 la differenza attiva del conto finanziario dell'Amministrazione del Fondo per il culto alla fine dell'esercizio 1949-50, come risulta dai seguenti dati:
 
@@ -695,13 +695,13 @@ Totale delle passivita'................... L.        3.071.917.777,59 Differenza
 
 Totale a pareggio delle attivita'......... L. 3.082.636.878,25
 
-### Art. 39
+## Art. 39
 
 E' approvata l'eccedenza d'impegni di lire 1.651.957 risultata in sede di consuntivo sul conto della competenza del capitolo n. 45 "Uscita di capitali per estinzione di debiti, ecc." dello stato di previsione della spesa dell'Amministrazione del Fondo per il culto per l'esercizio 1949-50.
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-### Art. 40
+## Art. 40
 
 Le entrate ordinarie e straordinarie del bilancio del Fondo di beneficenza e di religione nella citta' di torna accertate nell'esercizio finanziario 1949-50. per la competenza propria dell'esercizio medesimo, sono stabilite. quali risultano dal conto consuntivo di quell'Amministrazione, allegato al conto consuntivo della spesa del Ministero dello interno,
 
@@ -711,7 +711,7 @@ in...................................... L. 43.854.631,86 delle quali furono ris
 
 e rimasero da riscuotere................ L. 42.715.650,68
 
-### Art. 41
+## Art. 41
 
 Le spese ordinarie e straordinarie del bilancio dell'Amministrazione predetta accertate nell'esercizio finanziario 19-19-50, per la competenza propria dell'esercizio medesimo, sono stabilite
 
@@ -721,7 +721,7 @@ in ..................................... L. 44.854.716,08 delle quali furono pag
 
 e rimasero da pagare.................... L. 17.853.567,86
 
-### Art. 42
+## Art. 42
 
 Le entrate rimaste da riscuotere alla chiusura dell'esercizio 1948-49 restano determinate
 
@@ -731,7 +731,7 @@ in...................................... L. 35.464.559,06 delle quali furono ris
 
 e rimasero da riscuotere................ L. 21.861.276 -
 
-### Art. 43
+## Art. 43
 
 Le spese rimaste da pagare alla chiusura dell'esercizio 1948-49
 
@@ -741,7 +741,7 @@ restano determinate in.................. L. 19.944.691,94 delle quali furono pag
 
 e rimasero da pagare.................... L. 9.164.501,33
 
-### Art. 44
+## Art. 44
 
 I residui attivi alla chiusura dell'esercizio 1949-50 sono stabiliti nelle seguenti somme
 
@@ -765,7 +765,7 @@ del riepilogo della entrata).......... L. 2.092,23
 
 Residui attivi al 30 giugno 1950........ L. 64.579.018,91
 
-### Art. 45
+## Art. 45
 
 I residui passivi alla chiusura dell'esercizio finanziario 1949-50 sono stabiliti nelle seguenti somme:
 
@@ -785,7 +785,7 @@ degli esercizi precedenti
 
 Residui passivi via al 30 giugno 1950... L. 27.018.141,90
 
-### Art. 46
+## Art. 46
 
 E' accertata nella somma di lire 90.441.39 la differenza attiva, del conto finanziario ali Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1949.50, come risulta dai seguenti dati:
 
@@ -833,7 +833,7 @@ Totale a pareggio delle attivita ........ L. 44.955.370,25
 
 ## AZIENDA DEI PATRIMONI RIUNITI EX ECONOMALI
 
-### Art. 47
+## Art. 47
 
 Le entrate ordinarie e straordinarie dell'Azienda dei patrimoni riuniti ex economali accertate nell'esercizio finanziario 1949-50, per la competenza propria dell'esercizio stesso, sono stabilite, quali risultano dal conto consuntivo dell'Amministrazione medesima, allegato al conto consuntivo del Ministero dell'interno,
 
@@ -843,7 +843,7 @@ in...................................... L. 118.355.068,17 delle quali furono ri
 
 e rimasero da riscuotere................ L. 73.734.126,47
 
-### Art. 48
+## Art. 48
 
 Le spese ordinarie e straordinarie dell'Azienda predetta, accertate nell'esercizio finanziario 1949-50 per la competenza propria dell'esercizio stesso, sono stabilite, quali risultano dal conto consuntivo,
 
@@ -853,7 +853,7 @@ in ..................................... L. 122.406.577,52 delle quali furono pa
 
 e rimasero da pagare.................... L. 85.540.561,89
 
-### Art. 49
+## Art. 49
 
 Le entrate rimaste da riscuotere alla chiusura dell'esercizio 1948-49 restano determinate, come dal conto consuntivo della Azienda,
 
@@ -863,7 +863,7 @@ in...................................... L. 32.182.517,77 delle quali furono ris
 
 e rimasero da riscuotere................ L. 1.096.917,44
 
-### Art. 50
+## Art. 50
 
 Le spese rimaste da pagare alla chiusura dell'esercizio 1948-49 restano determinate, come dal conto consuntivo dell'Azienda,
 
@@ -873,7 +873,7 @@ in...................................... L. 35.082.107,43 delle quali furono pag
 
 e rimasero da pagare.................... L. 26.417.975,53
 
-### Art. 51
+## Art. 51
 
 I residui attivi alla chiusura dell'esercizio finanziario 1949-50, sono stabiliti, come dal conto consuntivo dell'azienda, nelle seguenti somme:
 
@@ -893,7 +893,7 @@ esercizi precedenti (articolo 49)..... L. 1.006.917,41 Somme riscosse e non vers
 
 Residui attivi al 30 giugno 1950........ L. 74.740.245,36
 
-### Art. 52
+## Art. 52
 
 I residui passivi alla chiusura dell'esercizio finanziario 1949-50 sono stabiliti, come dal conto consuntivo dell'Azienda, nelle seguenti somme:
 
@@ -911,7 +911,7 @@ degli esercizi precedenti
 
 Residui passivi al 30 giugno 1950....... L. 111.958.537,42
 
-### Art. 53
+## Art. 53
 
 E' accertata nella somma di lire 2.390.054,97 la differenza attiva del conto finanziario della Azienda dei patrimoni riuniti ex economali alla fine dell'esercizio 1949-50, come risulta dai seguenti dati Attivita':
 
@@ -955,7 +955,7 @@ Totale a pareggio delle attivita'........ L. 124.796.632,49
 
 ## AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### Art. 54
+## Art. 54
 
 Le entrate ordinarie straordinarie del bilancio dell'Azienda di Stato per le foreste demaniali accertate nell'esercizio 1949-50, per la competenza propria dell'esercizio medesimo, sono stabilite, quali risultano dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo della spesa del Ministero dell'agricoltura e foreste,
 
@@ -965,7 +965,7 @@ in...................................... L. 1.460.762.656,02 delle quali furono 
 
 e rimasero da riscuotere................ L. 128.853.093,91
 
-### Art. 55
+## Art. 55
 
 Le spese ordinarie e straordinarie del bilancio dell'Azienda predetta, accertate nell'esercizio finanziario 1949-50. per la competenza propria dell'esercizio medesimo, sono stabilite
 
@@ -975,7 +975,7 @@ in...................................... L. 1.460.762.65,02 delle quali furono p
 
 e rimasero da pagare.................... L. 263.664.376,02
 
-### Art. 56
+## Art. 56
 
 Le entrate rimaste da riscuotere alla chiusura dell'esercizio 1948-49 restano determinate
 
@@ -985,7 +985,7 @@ in...................................... L. 506.339.232,82 delle quali furono ri
 
 e rimasero da riscuotere................ L. 233.592.238,98
 
-### Art. 57
+## Art. 57
 
 Le spese rimaste da pagare alla chiusura dell'esercizio 1948-49 restano determinate
 
@@ -995,7 +995,7 @@ in...................................... L. 824.917.407,29 delle quali furono pa
 
 e rimasero da pagare.................... L. 626.702.802,59
 
-### Art. 58
+## Art. 58
 
 I residui attivi alla chiusura dell'esercizio finanziario 1949-50 sono stabiliti nelle seguenti somme:
 
@@ -1019,7 +1019,7 @@ entrata).............................. L. 174.081.267,50
 
 Residui attivi al 30 giugno 1950........ L. 536.526.600,39
 
-### Art. 59
+## Art. 59
 
 I residui passivi alla chiusura dell'esercizio finanziario 1949-50 sono stabiliti nelle seguenti somme:
 
@@ -1039,7 +1039,7 @@ degli esercizi precedenti
 
 Residui passivi al 30 giugno 1950....... L. 890.367.178,61
 
-### Art. 60
+## Art. 60
 
 E' accertata nella somma di lire 757.909.27 la differenza passiva del conto finanziario della Azienda di Stato per le foreste demaniali, alla fine dell'esercizio 1949-50, come risulta dai seguenti dati:
 
@@ -1073,7 +1073,7 @@ Differenza passiva al 1° luglio 1949.... L. 4.679.399,16 Spese dell'esercizio f
 
 Totale delle passivita ................. L. 1.465.442.055,18
 
-### Art. 61
+## Art. 61
 
 Sono approvate le eccedenze di impegni risultate in sede di consuntivo, sul conto della competenza, agli articoli dello stato di previsione della spesa dell'Azienda di Stato per le foreste demaniali, per l'esercizio finanziario 1949-50, come dal dettaglio che segue:
 
@@ -1085,7 +1085,7 @@ terreni, ecc.......................... L. 1.983.541,51
 
 ## ARCHIVI NOTARILI
 
-### Art. 62
+## Art. 62
 
 E' approvato il conto consuntivo degli Archivi notarili, per l'esercizio 1949-50, nelle risultanze seguenti:
 
@@ -1099,7 +1099,7 @@ Avanzo.................................. L. 46.770.103,27
 
 ## CORPO DEGLI AGENTI DI CUSTODIA DEGLI ISTITUTI DI PREVENZIONE E DI PENA
 
-### Art. 63
+## Art. 63
 
 E' approvato il conto consuntivo del Fondo generale del Corpo degli agenti di custodia degli Istituti di prevenzione e di pena, per l'esercizio 1949-50 nelle seguenti risultanze:
 
@@ -1113,7 +1113,7 @@ Avanzo.................................. L. 11.691,29
 
 ## ISTITUTO AGRONOMICO PER L'APRICA ITALIANA
 
-### Art. 64
+## Art. 64
 
 Le entrate dell'Istituto agronomico per l'Africa italiana, accertate nell'esercizio finanziario 1949-50, per la competenza propria dell'esercizio medesimo, sono stabilite, quali risultano dal conto consuntivo di quell'Istituto, allegato al conto consuntivo della spesa del Ministero dell'Africa italiana per l'esercizio finanziario predetto,
 
@@ -1125,7 +1125,7 @@ delle quali furono riscosse............. L. 21.843.466-
 
 e rimasero da riscuotere................ L. 3.186.916-
 
-### Art. 65
+## Art. 65
 
 Le spese dell'Istituto predetto, accertate nell'esercizio finanziario 1949-50, per la competenza propria dell'esercizio medesimo, sono stabilite
 
@@ -1137,7 +1137,7 @@ delle quali furono pagate............... L. 20.994.997-
 
 e rimasero da pagare.................... L. 4.128.385-
 
-### Art. 66
+## Art. 66
 
 Le entrate rimaste da riscuotere alla chiusura dell'esercizio 1948-49 restano determinate
 
@@ -1149,7 +1149,7 @@ delle quali furono riscosse............. L. 35.000-
 
 e rimasero da riscuotere................ L. 2.000.000-
 
-### Art. 67
+## Art. 67
 
 Le spese rimaste da pagare alla chiusura dell'esercizio 1948-49 restano determinate
 
@@ -1161,7 +1161,7 @@ delle quali furono pagate............... L. 705.548-
 
 e rimasero da pagare.................... L. 2.274.264-
 
-### Art. 68
+## Art. 68
 
 I residui attivi alla chiusura dell'esercizio 1949-50 sono stabiliti nelle seguenti somme:
 
@@ -1187,7 +1187,7 @@ Somme riscosse e non versate
 
 Residui attivi 30 giugno 1950........... L. 5.186.916-
 
-### Art. 69
+## Art. 69
 
 I residui passivi alla chiusura dell'esercizio 1949-50 sono stabiliti nelle seguenti somme:
 
@@ -1207,7 +1207,7 @@ degli esercizi precedenti
 
 Residui passivi al 30 giugno 1950....... L. 6.402.649 -
 
-### Art. 70
+## Art. 70
 
 Sono approvate le eccedenze di impegni risultate in sede di consuntivo, sul conto della Competenza, agli articoli dello stato di previsione della spesa dell'istituto agronomico per l'Africa italiana, per l'esercizio finanziario 1949-50, come dal dettaglio che segue:
 
@@ -1221,7 +1221,7 @@ della sezione agraria, ecc............ L. 441.228 -
 
 ## AZIENDA NAZIONALE AUTONOMIA DELLE STRADE STATALI
 
-### Art. 71
+## Art. 71
 
 Le entrate ordinarie e straordinarie del bilancio dell'Azienda nazionale autonoma delle strade statali, accertate nell'esercizio finanziario 1949-50 per la competenza propria dell'esercizio medesimo, quali risultano dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo della spesa del Ministero dei
 
@@ -1233,7 +1233,7 @@ in...................................... L. 26.224.972.588,87 delle quali furono
 
 e rimasero da riscuotere................ L. 7.184.466.632,45
 
-### Art. 72
+## Art. 72
 
 Le spese ordinarie e straordinarie del bilancio dell'Amministrazione predetta, accertate nell'esercizio finanziario 1949-50, per la competenza propria dell'esercizio medesimo, sono stabilite
 
@@ -1243,7 +1243,7 @@ in...................................... L. 26.224.972.588,87 delle quali furono
 
 e rimasero da pagare.................... L. 9.743.153.56,41
 
-### Art. 73
+## Art. 73
 
 Le entrate rimaste da riscuotere alla chiusura dell'esercizio 1948-49 restano determinate
 
@@ -1253,7 +1253,7 @@ in...................................... L. 3.255.092.137,19 delle quali furono 
 
 e rimasero da riscuotere................ L. 12.821.883.801,66
 
-### Art. 74
+## Art. 74
 
 Le spese rimaste da pagare alla chiusura dell'esercizio 1948-49 restano determinate
 
@@ -1263,7 +1263,7 @@ in...................................... L. 27.610.380.526,13 delle quali furono
 
 e rimasero da pagare.................... L. 15.651.293.838,69
 
-### Art. 75
+## Art. 75
 
 I residui attivi alla chiusura dell'esercizio 1949-50 sono stabiliti nelle seguenti somme:
 
@@ -1285,7 +1285,7 @@ degli esercizi precedenti
 
 Residui attivi al 30 giugno 1950........ L. 20.009.350.434,11
 
-### Art. 76
+## Art. 76
 
 I residui passivi alla chiusura dell'esercizio 1949-50 sono stabiliti nelle seguenti somme:
 
@@ -1307,7 +1307,7 @@ Residui passivi al 30 giugno 1950....... L. 25.394.447.400,10
 
 ## AMMINISTRAZIONE DELLE FERROVIE DELLO STATO
 
-### Art. 77
+## Art. 77
 
 Le entrata ordinarie e straordinarie del bilancio dell'Amministrazione delle ferrovie dello Stato, comprese quelle delle gestioni speciali ed autonome e per partite di giro, accertate nell'esercizio finanziario 1949-50, per la competenza propria dell'esercizio medesimo sono stabilite, come risulta dal conto consuntivo dell'Amministrazione stessa, allegato al rendiconto del
 
@@ -1319,7 +1319,7 @@ in...................................... L. 641.461.386.220 - delle quali furono
 
 e rimasero da riscuotere................ L. 45.865.844.737 -
 
-### Art. 78
+## Art. 78
 
 Le spese ordinarie e straordinarie del bilancio dell'Amministrazione predetta, comprese quelle delle gestioni speciali ed autonome e per partite di giro, accertate nell'esercizio finanziario 1949-50, per la competenza propria dell'esercizio medesimo, sono stabilite
 
@@ -1329,7 +1329,7 @@ in...................................... L. 641.461.586.220 - delle quali furono
 
 e rimasero da pagare.................... L. 50.551.625.892 -
 
-### Art. 79
+## Art. 79
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione della ferrovie dello Stato, di competenza dell'esercizio finanziario 1949-50, rimane cosi' stabilito:
 
@@ -1387,7 +1387,7 @@ Differenza coperta con sovvenzioni
 
 o somministrazioni del Tesoro ........ L. 120.230.000.000 -
 
-### Art. 80
+## Art. 80
 
 Le entrate rimaste da riscuotere alla chiusura dell'esercizio 1948-49 restano determinate
 
@@ -1399,7 +1399,7 @@ nell'esercizio 1949-50 ............... L. 15.612.891.851-
 
 e rimasero da riscuotere................ L. 193.435.784.700-
 
-### Art. 81
+## Art. 81
 
 Le spese rimaste da pagare alla chiusura dell'esercizio 1948-49 restano determinate
 
@@ -1413,7 +1413,7 @@ nell'esercizio 1949-50 ............... L. 52.019.913.682-
 
 e rimasero da pagare.................... L. 110.198.992.084 -
 
-### Art. 82
+## Art. 82
 
 I residui attivi alla chiusura dell'esercizio 1949-50 sono stabiliti nelle seguenti somme:
 
@@ -1431,7 +1431,7 @@ degli esercizi precedenti
 
 Residui attivi al 30 giugno 1950........ L. 239.301.629.437 -
 
-### Art. 83
+## Art. 83
 
 I residui passivi alla chiusura dell'esercizio 1949-50 sono stabiliti nelle seguenti somme:
 
@@ -1451,7 +1451,7 @@ degli esercizi precedenti
 
 Residui passivi al 30 giugno 1950....... L. 160.750.617.976 -
 
-### Art. 84
+## Art. 84
 
 Sono approvate le eccedenze di impegni risultate in sede di consuntivo, sul conto della competenza, ai capitoli dello stato di previsione della, spesa dell'Amministrazione delle ferrovie dello Stato, per l'esercizio finanziario 1949-50, come dal dettaglio che segue:
 
@@ -1583,7 +1583,7 @@ Versamento delle imposte, ecc......... L. 271.467.361 -
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Art. 85
+## Art. 85
 
 Le entrate ordinarie e straordinarie del bilancio dell'Azienda di Stato per i servizi telefonici, accertate nell'esercizio finanziario 1949-50, per la competenza dell'esercizio medesimo, sono stabilite, come risulta dal conto consuntivo dell'Amministrazione stessa, allegato al rendiconto del Ministero delle poste e delle telecomunicazioni per lo esercizio predetto,
 
@@ -1593,7 +1593,7 @@ in...................................... L. 10.702.616.435,99 delle quali furono
 
 e rimasero da riscuotere................ L. 4.967.497.856,25
 
-### Art. 86
+## Art. 86
 
 Le spese ordinarie e straordinarie del bilancio dell'Amministrazione predetta, accertate nell'esercizio finanziario 1949-50, per la competenza propria, dell'esercizio medesimo, sono stabilite
 
@@ -1603,7 +1603,7 @@ in...................................... L. 10.702.610.435,99 delle quali furono
 
 e rimasero da pagare.................... L. 8.027.772.761,99
 
-### Art. 87
+## Art. 87
 
 Le entrate rimaste da riscuotere alla chiusura dell'esercizio 1948-49 restano determinate
 
@@ -1613,7 +1613,7 @@ in...................................... L. 3.00.651.593,12 delle quali furono r
 
 e rimasero da riscuotere................ L. 500.247.750,67
 
-### Art. 88
+## Art. 88
 
 Le spese rimaste da pagare alla chiusura dell'esercizio 1948-49 restano determinate
 
@@ -1623,7 +1623,7 @@ in...................................... L. 13.619.584.181,52 delle quali furono
 
 e rimasero da pagare.................... L. 9.895.815.768,42
 
-### Art. 89
+## Art. 89
 
 I residui attivi alla chiusura dell'esercizio 1949-50, sono stabiliti nelle seguenti somme:
 
@@ -1643,7 +1643,7 @@ degli esercizi precedenti
 
 Residui attivi al 30 giugno 1950........ L. 5.590.006.649,40
 
-### Art. 90
+## Art. 90
 
 I residui passivi alla chiusura dell'esercizio 1949-50, sono stabiliti nelle seguenti somme
 
@@ -1661,13 +1661,13 @@ degli esercizi precedenti
 
 Residui passivi al 30 giugno 1950....... L. 17.923.588.530,41
 
-### Art. 91
+## Art. 91
 
 E' approvata l'eccedenza di impegni di lire 1.725.627 risultata in sede di consuntivo, sul conto della competenza, al capitolo n. 42 "Versamento al Tesoro da parte dei concessionari di zona dei canoni di affitto, ecc." dello stato di previsione della spesa dell'Azienda di Stato per i servizi telefonici, per l'esercizio finanziario 1949-50.
 
 ## AZIENDA AUTONOMA DELLE POSTE E DEI TELEGRAFI
 
-### Art. 92
+## Art. 92
 
 Le entrate ordinarie e straordinarie del bilancio dell'Azienda autonomia delle poste e dei telegrafi, accertate nell'esercizio 1949-50, per la competenza propria dell'esercizio medesimo, sono stabilite, come risulta dal conto consuntivo dell'Amministrazione stessa, allegato al rendiconto del Ministero delle poste e delle telecomunicazioni per lo esercizio finanziario predetto,
 
@@ -1677,7 +1677,7 @@ in...................................... L. 62.032.301.018,47 delle quali furono
 
 e rimasero da riscuotere................ L. 5.152.110.905,85
 
-### Art. 93
+## Art. 93
 
 Le spese ordinarie e straordinarie del bilancio dell'Azienda predetta accertate nell'esercizio 1949-50, per la competenza propria dello esercizio medesimo sono stabilite
 
@@ -1687,7 +1687,7 @@ in...................................... L. 62.032.301.018,47 delle quali furono
 
 e rimasero da pagare.................... L. 12.646.690.431,34
 
-### Art. 94
+## Art. 94
 
 Le entrate rimaste da riscuotere alla chiusura dell'esercizio 1948-49 restano determinate
 
@@ -1699,7 +1699,7 @@ delle quali furono riscosse............. L. 3.190.802.842 -
 
 e rimasero da riscuotere................ L. 5.427.800 -
 
-### Art. 95
+## Art. 95
 
 Le spese rimaste da pagare alla chiusura dell'esercizio 1948-49 restano determinate
 
@@ -1709,7 +1709,7 @@ in...................................... L. 13.328.900.194,58 delle quali furono
 
 e rimasero da pagare.................... L. 3.837.175.508,29
 
-### Art. 96
+## Art. 96
 
 I residui attivi alla chiusura dell'esercizio 1949-50 sono stabiliti nelle seguenti somme:
 
@@ -1727,7 +1727,7 @@ degli esercizi precedenti
 
 Residui attivi al 30 giugno 1950........ L. 5.157.538.705,85
 
-### Art. 97
+## Art. 97
 
 I residui passivi alla chiusura dell'esercizio 1949-50 sono stabiliti nelle seguenti somme:
 

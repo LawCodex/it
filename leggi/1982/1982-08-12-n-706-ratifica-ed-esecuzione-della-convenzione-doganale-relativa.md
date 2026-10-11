@@ -51,9 +51,7 @@ CONVENTION DOUANIERE RELATIVE AU TRANSPORT INTERNATIONAL DE MERCHANDISES SOUS LE
 
 Parte di provvedimento in formato grafico
 
-## CAPITOLO PRIMO - DISPOSIZIONI GENERALI
-
-### a) Definizioni
+### CAPITOLO PRIMO - DISPOSIZIONI GENERALI a) Definizioni
 
 TRADUZIONE NON UFFICIALE
 
@@ -149,9 +147,7 @@ Presso gli uffici doganali di passaggio, le merci trasportate nel regime TIR non
 
 2\. Per impedire abusi le autorita' doganali possono tuttavia, in casi straordinari ed in particolare allorche' c'e' sospetto di irregolarita', procedere alla visita delle merci presso detti uffici.
 
-## CAPITOLO II - RILASCIO DEI CARNET TIR
-
-### Responsabilita' delle associazioni garanti
+### CAPITOLO II - RILASCIO DEI CARNET TIR Responsabilita' delle associazioni garanti
 
 #### Articolo 6
 
@@ -203,9 +199,7 @@ Detta disposizione e' applicabile anche allorche' lo scarico e' stato ottenuto a
 
 3\. L'associazione garante deve pagare gli importi richiesti entro un termine di tre mesi, a contare dalla data della richiesta di pagamento. Gli importi pagati saranno restituiti all'associazione garante allorche' entro un termine di due anni, a decorrere dalla data di richiesta di pagamento, si comprovi a soddisfazione delle autorita' doganali che durante la rispettiva operazione di trasporto non e' stata commessa nessuna irregolarita'.
 
-## CAPITOLO III - TRASPORTO DI MERCI ACCOMPAGNATE DA UN CARNET TIR
-
-### a) Ammissione di veicoli e di contenitori
+### CAPITOLO III - TRASPORTO DI MERCI ACCOMPAGNATE DA UN CARNET TIR a) Ammissione di veicoli e di contenitori
 
 #### Articolo 12
 
@@ -339,7 +333,7 @@ Le autorita' degli uffici doganali di passaggio di ciascuna Parte contraente acc
 
 Se a cagione di una visita del carico, eseguita in corso di viaggio o presso un ufficio doganale di passaggio, le autorita' doganali sono costrette a rompere le chiusure doganali e/o i segni di riconoscimento, esse dovranno annotare nei tagliandi del carnet TIR realizzati nel loro Paese, nelle rispettive matrici e nei rimanenti tagliandi del carnet TIR, le nuove chiusure doganali e/o i nuovi segni di riconoscimento apposti.
 
-## CAPITOLO IV - IRREGOLARITA'
+### CAPITOLO IV - IRREGOLARITA'
 
 #### Articolo 36
 
@@ -375,13 +369,13 @@ Allorche' e accertato, a soddisfazione delle autorita' doganali, che le merci me
 
 Dietro domanda motivata di una Parte contraente, le autorita' competenti delle Parti contraenti interessate ad un'operazione TIR accetteranno di comunicare alla stessa tutte le informazioni disponibili, necessarie per l'applicazione degli articoli 39, 40 e 41 che precedono.
 
-## CAPITOLO V - NOTE ESPLICATIVE
+### CAPITOLO V - NOTE ESPLICATIVE
 
 #### Articolo 43
 
 Le note esplicative degli Allegati 6 e 7 (Parte III) contengono l'interpretazione di talune disposizioni della presente Convenzione e dei suoi Allegati. Esse menzionano parimenti talune pratiche raccomandate.
 
-## CAPITOLO VI - DISPOSIZIONI DIVERSE
+### CAPITOLO VI - DISPOSIZIONI DIVERSE
 
 #### Articolo 44
 
@@ -423,7 +417,7 @@ Le Parti contraenti si comunicheranno vicendevolmente, dietro domanda, le inform
 
 Gli Allegati alla presente Convenzione costituiscono parte integrante della Convenzione.
 
-## CAPITOLO VII - DISPOSIZIONI FINALI
+### CAPITOLO VII - DISPOSIZIONI FINALI
 
 #### Articolo 52
 

@@ -25,19 +25,19 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la Convenzione relativa alla costituzione della Societa' europea per il finanziamento di materiale ferroviario "Eurofimna", con annesso Statuto, ed il Protocollo addizionale alla Convenzione stessa, firmati in Berna il 20 ottobre 1955.
 
-### Art. 2
+## Art. 2
 
 Piena ed intera esecuzione e' data alla Convenzione, con annesso Statuto, ed al Protocollo addizionale di cui all'art. 1 nonche' al Protocollo di firma, firmato in Berna il 20 ottobre 1955.
 
-### Art. 3
+## Art. 3
 
 L'Amministrazione delle ferrovie dello Stato e' autorizzata ad oltrepassare, nella stipulazione dei contratti di noleggio vendita "Eurofima", il periodo di nove anni fissato dall'art. 12 della legge sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato.
 
-### Art. 4
+## Art. 4
 
 La spesa di lire 194 milioni relativa al primo versamento da effettuare all'"Eurofima" nell'esercizio 1956-1957, in esecuzione della Convenzione di cui al precedente art. 1, e quella annua di lire 92 milioni relativa ai successivi versamenti da effettuare dall'esercizio 1957-58 a quello 1965-66, faranno carico al bilancio dell'Amministrazione delle ferrovie dello Stato con imputazione al capitolo di spesa concernente la quota di partecipazione al capitale di enti e societa'.
 
@@ -89,7 +89,7 @@ considerato che il credito della Societa', che dovra' ricorrere a prestiti per i
 
 hanno designato i rappresentanti sottoscritti, i quali, debitamente autorizzati, hanno convenuto quanto segue:
 
-### Articolo 1
+## Articolo 1
 
 a) I Governi che partecipano alla presente Convenzione approvano la
 
@@ -99,7 +99,7 @@ b) Il Governo dello Stato ove si trova la sede prendera' i
 
 provvedimenti necessari per permettere la costituzione della Societa' non appena sara' entrata in vigore la presente Convenzione.
 
-### Articolo 2
+## Articolo 2
 
 a) Lo Statuto, come pure qualsiasi modifica allo stesso, apportata nelle condizioni ch'esso prevede, e tenuto conto delle seguenti disposizioni, sara' valevole e avra' effetto giuridico nonostante qualsiasi contraria disposizione del diritto dello Stato ove si trova la sede.
 
@@ -117,7 +117,7 @@ e) In caso d'opposizione da parte di in Governo, questo consultera'
 
 gli altri Governi, se uno di questi lo domanda, allo scopo di esaminare l'opportunita' delle modifiche in questione.
 
-### Articolo 3
+## Articolo 3
 
 a) Allorche' i contratti stipulati fra la Societa' e le
 
@@ -127,7 +127,7 @@ b) I tribunali dello Stato ove si trova la sede, quando saranno
 
 aditi, conosceranno i litigi riguardanti i contratti stipulati fra la Societa' e le Amministrazioni ferroviarie, e sottoposti alla legge dello Stato ove si trova la sede.
 
-### Articolo 4
+## Articolo 4
 
 a) I Governi accorderanno alle loro Amministrazioni ferroviarie le autorizzazioni richieste, per l'adempimento di tutti gli atti relativi alla costituzione della Societa'.
 
@@ -135,7 +135,7 @@ b) I Governi faciliteranno alle loro Amministrazioni ferroviarie
 
 l'adempimento di tutti gli atti riguardanti l'attivita' della Societa'.
 
-### Articolo 5
+## Articolo 5
 
 a) Se in virtu' di disposizioni nazionali esistenti, lo Stato non fosse vincolato dagli impegni contratti da un'Amministrazione ferroviaria del suo Paese, azionista della Societa', sia interamente, sia per una parte del suo patrimonio, il Governo garantira' gli impegni che tale Amministrazione ferroviaria ha assunto verso la Societa'.
 
@@ -143,7 +143,7 @@ b) Tuttavia, questa garanzia non sara' senz'altro accordata nel
 
 caso in cui detta Amministrazione ferroviaria avesse assunto la garanzia a favore dell'Amministrazione ferroviaria non azionista della Societa' o di altro organismo ferroviario. In quest'ultimo caso, in mancanza della garanzia del Governo cui appartiene l'Amministrazione azionista, gli altri Governi non assumono alcun obbligo di garanzia.
 
-### Articolo 6
+## Articolo 6
 
 a) Le decisioni della Societa' riguardanti la creazione di agenzie o di succursali devono essere approvate da tutti i Governi che partecipano alla presente Convenzione e di cui un'Amministrazione ferroviaria e' azionista della Societa'. La procedura prevista nei paragrafi d) ed e) del precedente articolo 2 sara' applicata alle decisioni della Societa' contemplate nel presente paragrafo.
 
@@ -151,7 +151,7 @@ b) Ogni anno, la Societa' informera' i Governi che partecipano alla
 
 presente Convenzione e di cui un'Amministrazione ferroviaria e' azionista, della Societa' sullo sviluppo della medesima, e sulla sua situazione finanziaria. Tali Governi si consulteranno su tutti i problemi d'interesse comune riguardanti il funzionamento della Societa' e sui provvedimenti che si rivelassero necessari in proposito.
 
-### Articolo 7
+## Articolo 7
 
 a) In caso di bisogno, i Governi che partecipano alla Convenzione prenderanno i provvedimenti necessari, affinche' le operazioni fatte dalla Societa' nell'assegnazione del materiale ferroviario alle Amministrazioni ferroviarie, in proprieta' immediata o differita, si svolgano senza che ne risultino oneri fiscali supplementari rispetto all'acquisto diretto dello stesso materiale da parte delle Amministrazioni ferroviarie.
 
@@ -163,21 +163,21 @@ c) I vantaggi speciali di carattere fiscale, consentiti dallo Stato
 
 ove si trova la sede, in vista della costituzione e del funzionamento della Societa', figurano nel Protocollo addizionale alla presente Convenzione, concluso fra il Governo dello Stato ove si trova la sede e gli altri Governi che partecipano alla presente Convenzione.
 
-### Articolo 8
+## Articolo 8
 
 I Governi che partecipano alla presente Convenzione prenderanno i provvedimenti necessari per facilitare, ove occorra, le importazioni e le esportazioni del materiale corrispondente all'attivita' della Societa'.
 
-### Articolo 9
+## Articolo 9
 
 I Governi che partecipano alla presente Convenzione prenderanno i provvedimenti necessari, nell'ambito della loro regolamentazione dei cambi, per assicurare il movimento di fondi risultante dalla costituzione e dall'attivita' della Societa'.
 
-### Articolo 10
+## Articolo 10
 
 Se in seguito si dovesse constatare che l'applicazione di
 
 disposizioni legali nel Paese ove si trova la sede, o nel Paese di un altro Governo che partecipa alla Convenzione, solleva difficolta' per il conseguimento degli scopi della Societa', il Governo in questione consultera' gli altri Governi, se uno di questi lo richiede, al fine di appianare tali difficolta' secondo lo spirito delle disposizioni della presente Convenzione e del Protocollo addizionale citato nel paragrafo c) del precedente articolo 7.
 
-### Articolo 11
+## Articolo 11
 
 a) A decorrere dall'applicazione della presente Convenzione, ogni Governo di un Paese europeo non firmatario potra' aderirvi mediante notifica indirizzata al Governo svizzero.
 
@@ -185,11 +185,11 @@ b) Tuttavia, l'adesione di un Governo non membro della Conferenza Europea dei Mi
 
 c) L'adesione alla presente Convenzione richiedera' l'adesione al Protocollo addizionale citato nel paragrafo c) del precedente articolo 7.
 
-### Articolo 12
+## Articolo 12
 
 La presente Convenzione e' stipulata per la durata della Societa'.
 
-### Articolo 13
+## Articolo 13
 
 a) Un Governo che partecipa alla presente Convenzione e di cui
 
@@ -199,13 +199,13 @@ b) Se un Governo si ritira dalla Convenzione conformemente al
 
 presente articolo, tale ritiro non modifica gli obblighi da lui assunti, giusta il precedente articolo 5, per quanto concerne gli impegni contratti dalla sua o dalle sue Amministrazioni ferroviarie in qualita' di azioniste della Societa'.
 
-### Articolo 14
+## Articolo 14
 
 Le divergenze che potessero sorgere tra Governi che fanno parte
 
 della presente Convenzione in merito alla interpretazione o all'applicazione della Convenzione stessa, saranno sottoposte alla decisione della Corte Internazionale di Giustizia, a meno che non sia stata concordata altra procedura.
 
-### Articolo 15
+## Articolo 15
 
 a) La presente Convenzione entrera' in vigore un mese dopo che il Governo svizzero l'avra' ratificata, unitamente al Protocollo addizionale citato nel paragrafo c) del precedente articolo 7, e sempre che le azioni appartenenti alle Amministrazioni ferroviarie dei Governi che l'hanno firmata, senza riserva di ratifica o che l'hanno firmata con riserva di ratifica e hanno depositato i loro strumenti di ratifica, rappresentino l'80 per cento del capitale sociale della Societa'.
 
@@ -215,7 +215,7 @@ Convenzione entrera' in vigore alla data del deposito dello strumento di ratific
 
 c) Gli strumenti di ratifica saranno depositati presso il Governo svizzero.
 
-### Articolo 16
+## Articolo 16
 
 a) Nonostante le disposizioni del precedente articolo, i firmatari convengono di applicare la presente Convenzione a titolo provvisorio nella misura compatibile con le loro norme costituzionali. All'atto della firma, ogni Governo fara' conoscere ai quali condizioni e in quale misura esso applichera' la presente Convenzione a titolo provvisorio.
 
@@ -223,7 +223,7 @@ b) Il presente articolo entrera', in vigore per tutti i Governi che
 
 hanno firmato la presente Convenzione, con riserva di ratifica, o no, allorche' il Governo svizzero avra' ratificato la Convenzione stessa e il Protocollo addizionale citato nel paragrafo c) del precedente articolo 7.
 
-### Articolo 17
+## Articolo 17
 
 Non appena ricevuto gli strumenti di ratifica, d'adesione o di
 
@@ -331,17 +331,17 @@ PELLA
 
 STATUTO
 
-### Articolo 1
+## Articolo 1
 
 Sotto la ragione sociale "Eurofima" Societa' europea per il
 
 finanziamento di materiale ferroviario ("Eurofima" Societe' europeenne pour le financement de materiel ferroviaire, "Eurofima" Europaische Gesellschaft fur die Finanzierung von Eisenbahnmaterial) e' costituita una Societa' per azioni, retta dalla Convenzione internazionale relativa alla costituzione di detta Societa', dal presente Statuto e, a titolo sussidiario, dalla legge dello Stato ove ha sede la Societa'.
 
-### Articolo 2
+## Articolo 2
 
 La Societa' ha sede a Basilea (Svizzera).
 
-### Articolo 3
+## Articolo 3
 
 La Societa' ha per oggetto di fornire, alle migliori condizioni
 
@@ -353,13 +353,13 @@ La Societa' si procurera' i concorsi finanziari necessari,
 
 indipendentemente dai propri capitali, a mezzo di prestiti ed effettuera' tutte le operazioni commerciali e finanziarie utili alla realizzazione del suo oggetto.
 
-### Articolo 4
+## Articolo 4
 
 La Societa' e' costituita per la durata di cinquanta anni.
 
 ## CAPITALE SOCIALE
 
-### Articolo 5
+## Articolo 5
 
 Il capitale sociale della Societa' e' fissato in 50 milioni di
 
@@ -403,7 +403,7 @@ lussemburghesi;
 
 10 azioni A alle Ferrovie norvegesi dello Stato.
 
-### Articolo 6
+## Articolo 6
 
 Le azioni della Societa' sono interamente liberate, le azioni A con
 
@@ -433,7 +433,7 @@ Le azioni B saranno convertite in azioni A, nel periodo di dieci
 
 anni, in ragione di un decimo alla scadenza di ognuno dei dieci primi esercizi sociali.
 
-### Articolo 7
+## Articolo 7
 
 Le azioni sono nominative.
 
@@ -445,7 +445,7 @@ La Societa' tiene il libro dei soci nel quale figurano il nome e il
 
 domicilio degli azionisti. La Societa' riconosce come azionisti soltanto coloro che sono iscritti in questo libro.
 
-### Articolo 8
+## Articolo 8
 
 Il capitale della Societa' puo' essere aumentato in seguito a
 
@@ -455,7 +455,7 @@ L'Assemblea generale fissa le condizioni d'emissione delle nuove
 
 azioni.
 
-### Articolo 9
+## Articolo 9
 
 Su decisione dell'Assemblea generale, ogni amministrazione
 
@@ -465,7 +465,7 @@ Spetta all'Assemblea generale di fissare il numero delle azioni o dei diritti di
 
 ## ASSEMBLEA GENERALE
 
-### Articolo 10
+## Articolo 10
 
 L'assemblea generale e' l'organo supremo della Societa'.
 
@@ -503,13 +503,13 @@ approvazione della relazione sulla gestione, del bilancio e del conto dei profit
 
 le vengono sottoposte dal Consiglio, di amministrazione.
 
-### Articolo 11
+## Articolo 11
 
 L'assemblea, generale ordinaria si riunisce ogni anno, entro sei
 
 mesi dalla chiusura dell'esercizio.
 
-### Articolo 12
+## Articolo 12
 
 Le Assemblee generali straordinarie sono convocate:
 
@@ -529,7 +529,7 @@ Per la convocazione di una Assemblea generale straordinaria e la
 
 sua organizzazione si seguono le stesse forme dell'Assemblea generale ordinaria.
 
-### Articolo 13
+## Articolo 13
 
 Gli azionisti sono convocati in Assemblea generale con lettera
 
@@ -543,11 +543,11 @@ figurino all'ordine del giorno, a meno che non si tratti di una proposta, fatta 
 
 Le assemblee generali si tengono presso la sede sociale salvo che il Consiglio d'amministrazione non decida altrimenti.
 
-### Articolo 14
+## Articolo 14
 
 Gli azionisti esercitano il diritto di voto all'Assemblea generale proporzionalmente al valore nominale di tutte le azioni che posseggono.
 
-### Articolo 15
+## Articolo 15
 
 L'Assemblea generale delibera validamente in prima convocazione se la maggioranza delle azioni e' rappresentata. Se questo quorum non e' raggiunto, sara' fatta una seconda convocazione, con un preavviso di almeno due settimane. Questa seconda Assemblea generale deliberera' validamente qualunque sia il numero delle azioni rappresentate.
 
@@ -555,7 +555,7 @@ L'Assemblea generale prende le sue deliberazioni a maggioranza di voti delle azi
 
 Le votazioni si fanno per alzata di mano, salvo il caso in cui un azionista domandi lo scrutinio segreto.
 
-### Articolo 16
+## Articolo 16
 
 L'assemblea generale e' presieduta dal presidente del Consiglio
 
@@ -565,7 +565,7 @@ L'Assemblea generale nomina, per alzata di mano, due scrutatori.
 
 Essa nomina pure un segretario che non deve necessariamente essere un azionista.
 
-### Articolo 17
+## Articolo 17
 
 Delle deliberazioni e decisioni dell'Assemblea generale deve essere
 
@@ -577,7 +577,7 @@ da uno dei vice-presidenti.
 
 ## CONSIGLIO D'AMMINISTRAZIONE
 
-### Articolo 18
+## Articolo 18
 
 Il Consiglio d'amministrazione e' incaricato di dirigere gli affari
 
@@ -591,7 +591,7 @@ Gli amministratori sono designati per un periodo di tre anni. Essi sono rieleggi
 
 Tutti gli amministratori posseggono uguale diritto di voto.
 
-### Articolo 19
+## Articolo 19
 
 Gli amministratori sono nominati dall'Assemblea generale ordinaria.
 
@@ -601,13 +601,13 @@ Se durante il periodo delle sue funzioni un amministratore cessa di
 
 far parte del Consiglio il suo successore gli subentra lino al termine del periodo residuo.
 
-### Articolo 20
+## Articolo 20
 
 Ogni azionista e' tenuto a depositare un'azione della Societa'
 
 presso la Societa' medesima, per la durata delle funzioni di ogni amministratore che lo rappresenta.
 
-### Articolo 21
+## Articolo 21
 
 L'Assemblea generale nomina, per la durata del loro mandato di
 
@@ -615,7 +615,7 @@ amministratori, il presidente e i vice-presidenti del Consiglio d'amministrazion
 
 In caso d'impedimento del presidente, la presidenza del Consiglio viene assunta da uno dei vice-presidenti o, in loro assenza, dall'amministratore piu' anziano presente alla riunione.
 
-### Articolo 22
+## Articolo 22
 
 Il Consiglio d'amministrazione delibera su tutti gli affari che non
 
@@ -647,7 +647,7 @@ specialmente di noleggio e di vendita, come pure delle relative ordinazioni di m
 
 5\) la compilazione della relazione sulla gestione, del bilancio annuale e delle proposte da sottoporre all'Assemblea generale. Esso fara' esaminare i conti da esperti contabili estranei alla gestione della Societa'.
 
-### Articolo 23
+## Articolo 23
 
 Il Consiglio d'amministrazione e' convocato dal suo presidente o da
 
@@ -669,7 +669,7 @@ In casi urgenti, le decisioni possono essere prese mediante lettere
 
 o telegrammi, a meno che uno degli amministratori non domandi che la decisione sia presa durante la seduta.
 
-### Articolo 24
+## Articolo 24
 
 Il Consiglio d'amministrazione non puo' deliberare ne' prendere
 
@@ -679,7 +679,7 @@ Le decisioni del Consiglio sono prese a maggioranza degli
 
 amministratori presenti o rappresentati. In caso di parita' di voti, quello del presidente della seduta e' prevalente. Fanno eccezione le decisioni concernenti il punto 3) dell'articolo 22, per le quali si richiede una maggioranza dei tre quarti.
 
-### Articolo 25
+## Articolo 25
 
 Delle deliberazioni e decisioni del Consiglio d'amministrazione
 
@@ -689,7 +689,7 @@ Le copie o gli estratti sono firmati dal presidente o da uno dei
 
 vice-presidenti.
 
-### Articolo 26
+## Articolo 26
 
 Gli amministratori non ricevono alcuna, retribuzione; tuttavia
 
@@ -697,7 +697,7 @@ possono essere loro corrisposti gettoni di presenza.
 
 ## GARANZIA DEGLI AZIONISTI
 
-### Articolo 27
+## Articolo 27
 
 Gli azionisti garantiscono alla Societa', ognuno in proporzione
 
@@ -717,7 +717,7 @@ rimborsati al pro-rata, fino a concorrenza delle somme che la Societa' avra' pot
 
 ## VERIFICA DEI CONTI
 
-### Articolo 28
+## Articolo 28
 
 I conti della Societa' sono verificati la un Collegio di tre
 
@@ -735,7 +735,7 @@ Essi presentano all'Assemblea generale, chiamata a deliberare sui conti, una rel
 
 ## CHIUSURA DEI CONTI E RIPARTIZIONE DEGLI UTILI
 
-### Articolo 29
+## Articolo 29
 
 I conti e il bilancio della Societa' sono chiusi alla fine di ogni anno civile.
 
@@ -743,7 +743,7 @@ Il bilancio dev'essere compilato conformemente ai principi
 
 riconosciuti di una sana gestione commerciale.
 
-### Articolo 30
+## Articolo 30
 
 Dall'utile ottenuto, dopo dedotti gli ammortamenti, sara' anzitutto
 
@@ -759,7 +759,7 @@ La rimanenza finale e' destinata a costituire una riserva speciale di garanzia, 
 
 ## LIQUIDAZIONE
 
-### Articolo 31
+## Articolo 31
 
 Raggiunto il termine fissato all'articolo 4 per la sua cessazione o
 
@@ -777,7 +777,7 @@ residuo disponibile viene ripartito fra gli azionisti in proporzione all'importo
 
 ## DISPOSIZIONI DIVERSE
 
-### Articolo 32
+## Articolo 32
 
 Le comunicazioni agli azionisti sono fatte per lettera
 
@@ -791,7 +791,7 @@ Per tutte le altre pubblicazioni il Consiglio d'amministrazione
 
 decide in quale maniera devono essere fatte e designa, all'occorrenza, i giornali sui quali dovranno apparire.
 
-### Articolo 33
+## Articolo 33
 
 Ogni modifica dello Statuto va notificata al Governo dello Stato
 
@@ -821,7 +821,7 @@ constatato che il Governo svizzero e disposto a concedere vantaggi particolari i
 
 hanno convenuto quanto segue:
 
-### Articolo 1
+## Articolo 1
 
 La Societa' fruira' in Svizzera, fin tanto che vi avra' la sua
 
@@ -847,7 +847,7 @@ registro di commercio.
 
 6\) Esonero dalle imposte cantonali e comunali sul reddito e sul patrimonio nel Cantone di Basilea-Citta'.
 
-### Articolo 2
+## Articolo 2
 
 Il presente Protocollo entrera' in vigore non appena sara'
 
@@ -951,7 +951,7 @@ Il Ministro per gli affari esteri
 
 PELLA
 
-### Protocollo
+## Protocollo
 
 Protocollo di firma della Convenzione per la costituzione di "Eurofima"
 

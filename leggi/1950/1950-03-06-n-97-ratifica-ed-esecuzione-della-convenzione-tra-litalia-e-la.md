@@ -26,15 +26,15 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la Convenzione relativa alle assicurazioni sociali ed Atto finale firmati a Berna, fra l'Italia e la Svizzera il 4 aprile 1949.
 
-### Art. 2
+## Art. 2
 
 Piena ed intera esecuzione e' data alla Convenzione ed Atto finale suddetti.
 
-### Art. 3
+## Art. 3
 
 La presente legge entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto dal 1 gennaio 1948, conformemente all'art. 18 della Convenzione.
 
@@ -76,7 +76,7 @@ assicurazioni sociali a Berna.
 
 i quali, dopo essersi scambiati i loro pieni poteri, trovati in regolare e prescritta forma, hanno concordato quanto appresso:
 
-### Art. 1
+## Art. 1
 
 Le Legislazioni applicabili
 
@@ -118,7 +118,7 @@ regolamento e gli altri decreti relativi, limitatamente alle disposizioni concer
 
 ## II - DISPOSIZIONI PARTICOLARI
 
-### Art. 2
+## Art. 2
 
 Diritto dei cittadini italiani alle rendite dell'assicurazione svizzera
 
@@ -132,7 +132,7 @@ b) b) abbiano soggiornato in Svizzera complessivamente per almeno 15 anni, siano
 
 3\. Le rendite di cui ai primo e al secondo paragrafo del presente articolo saranno ridotte di un terzo in conformita' dell'art. 40 della "legge federale".
 
-### Art. 3
+## Art. 3
 
 Diritto dei cittadini italiani al trasferimento dei contributi versati all'assicurazione svizzera.
 
@@ -144,7 +144,7 @@ Diritto dei cittadini italiani al trasferimento dei contributi versati all'assic
 
 4\. I cittadini italiani i cui contributi siano stati trasferiti in Italia e che non si trovino nelle condizioni previste dal paragrafo 3 del presente articolo perdono qualsiasi diritto nei confronti dell'assicurazione svizzera.
 
-### Art. 4
+## Art. 4
 
 Diritto dei cittadini svizzeri alle prestazioni e al rimborso dei contributi dell'assicurazione italiana
 
@@ -162,7 +162,7 @@ contributi in conformita' del secondo paragrafo del presente articolo potra' riv
 
 contributi e che non si trovino nelle condizioni previste dal paragrafo 3 del presente articolo perdono qualsiasi diritto nei confronti dell'assicurazione italiana.
 
-### Art. 5
+## Art. 5
 
 Assicurazione facoltativa svizzera
 
@@ -172,7 +172,7 @@ facoltativa dei cittadini svizzeri prevista dall'art. 2 della "legge federale".
 
 ## III. - DISPOSIZIONI D'APPLICAZIONE
 
-### Art. 6
+## Art. 6
 
 Fissazione e versamento delle rendite per i cittadini italiani
 
@@ -194,7 +194,7 @@ stabilita d'intesa tra le autorita' italiane e quelle svizzere, all'Ufficio cent
 
 all'Ufficio centrale di compensazione tutti i fatti (decesso, matrimonio, ecc.) che modifichino o facciano cessare il diritto alla rendita dei beneficiari italiani residenti in Italia o in qualunque altro Stato all'infuori della Svizzera.
 
-### Art. 7
+## Art. 7
 
 Richiesta di pensione per i cittadini svizzeri
 
@@ -210,7 +210,7 @@ beneficiano di una pensione a carico dell'Istituto nazionale della previdenza so
 
 competenti in Italia o da un'autorita' comunale, cantonale, diplomatica o consolare svizzera, dovranno essere vistati dalle competenti autorita' diplomatiche o consolari italiane.
 
-### Art. 8
+## Art. 8
 
 Trasferimento delle pensioni o rendite
 
@@ -218,7 +218,7 @@ Il trasferimento delle pensioni o rendite a carico delle
 
 assicurazioni italiana o svizzera, avra' luogo conformemente agli accordi in questa materia in vigore tra i due Stati al momento del trasferimento.
 
-### Art. 9
+## Art. 9
 
 Trasmissione, contenuto e portata, della domanda di trasferimento in favore dei cittadini italiani
 
@@ -238,7 +238,7 @@ cittadini italiani i cui contributi dovranno essere trasferiti; alla stessa sara
 
 l'importo dei contributi versati da ogni cittadino italiano che richiede il trasferimento dei contributi; esso comunichera' per iscritto detti importi alla Direzione generale dell'Istituto nazionale della previdenza sociale e procedera', entro la fine dell'anno, al trasferimento dei contributi, coi relativi interessi semplici al tasso del 3 per cento annuo, per il tramite del Dipartimento federale delle finanze e delle dogane, secondo gli accordi che dovranno essere conclusi in questa materia e che saranno in vigore al momento del trasferimento.
 
-### Art. 10
+## Art. 10
 
 Rimborso dei contributi ai cittadini svizzeri
 
@@ -250,7 +250,7 @@ contributi versati, prevista dall'art. 4: , secondo paragrafo, della presente Co
 
 contributi, con i relativi interessi semplici al tasso del 3 per cento annuo, direttamente ai cittadini svizzeri. Se il cittadino svizzero non risiede in Italia, il trasferimento di detti contributi avra' luogo secondo gli accordi finanziari in vigore al momento del trasferimento tra l'Italia e lo Stato in cui risiede il cittadino svizzero.
 
-### Art. 11
+## Art. 11
 
 Restituzione dei contributi trasferiti o rimborsati procedura
 
@@ -260,7 +260,7 @@ Restituzione dei contributi trasferiti o rimborsati procedura
 
 contributi e che non avrebbe pertanto piu' diritto alle pensioni della assicurazione italiana, presenta tuttavia domanda di pensione all'Istituto nazionale della previdenza sociale, l'Istituto stesso gli richiedera' la restituzione dei contributi rimborsati, maggiorati degli interessi semplici al tasso del 3 per cento annuo.
 
-### Art. 12
+## Art. 12
 
 Commissione consultiva mista
 
@@ -274,7 +274,7 @@ Governo, sia in Italia sia in Svizzera. Essa sara' composta, in numero pari, di 
 
 e il metodo di lavoro. Essa potra' corrispondere direttamente con le amministrazioni italiane o svizzere interessate.
 
-### Art. 13
+## Art. 13
 
 Collaborazione amministrativa
 
@@ -284,13 +284,13 @@ Collaborazione amministrativa
 
 comune accordo e, se del caso, sentito la Commissione consultiva mista, le disposizioni particolari che si rendessero necessarie per l'applicazione della presente Convenzione.
 
-### Art. 14
+## Art. 14
 
 Reclami
 
 I cittadini italiani o svizzeri che abbiano da proporre reclami in ordine all'applicazione della presente Convenzione si rivolgeranno Direzione generale dell'Istituto nazionale della previdenza sociale a Roma o all'Ufficio federale delle assicurazioni sociali a Berna.
 
-### Art. 15
+## Art. 15
 
 Osservanza dei termini
 
@@ -302,7 +302,7 @@ due Stati valgono anche quali istanze presentate presso gli enti assicuratori de
 
 termine ad una autorita' competente in materia di assicurazione sociale di uno dei due Stati saranno considerati ricevibili, anche se presentati entro tale termine a un corrispondente ufficio dell'altro Stato. Tale ufficio deve inviare senza indugio il ricorso all'autorita' competente.
 
-### Art. 16
+## Art. 16
 
 Modificazioni nelle legislazioni degli Stati contraenti
 
@@ -312,7 +312,7 @@ federale delle assicurazioni sociali a Berna si terranno di mano in mano informa
 
 2\. Le disposizioni prese unilateralmente da uno dei due Stati per l'applicazione della presente Convenzione nel proprio territorio saranno comunicate alle supreme autorita' amministrative dell'altro Stato.
 
-### Art. 17
+## Art. 17
 
 Esenzioni varie
 
@@ -322,7 +322,7 @@ prodotti in base alla presente Convenzione sono esenti dall'obbligo del visto o 
 
 ## IV. - DISPOSIZIONI FINALI
 
-### Art. 18
+## Art. 18
 
 Entrata in vigore e durata
 
@@ -330,7 +330,7 @@ Entrata in vigore e durata
 
 2\. La presente Convenzione sara' valida fino al 31 dicembre 1950 e si considerera' rinnovata tacitamente di anno in anno qualora essa non sia denunciata di una delle due parti tre mesi prima della scadenza del termine originale o rinnovato.
 
-### Art. 19
+## Art. 19
 
 Diritti acquisiti
 
@@ -362,7 +362,7 @@ Il Ministro per gli affari esteri
 
 SFORZA
 
-### Atto finale
+## Atto finale
 
 Atto finale
 

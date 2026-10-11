@@ -27,7 +27,7 @@ la seguente legge:
 
 ## TITOLO I - APPROVAZIONE DEI RENDICONTI
 
-##### Art. 1 - Rendiconti
+#### Art. 1 - Rendiconti
 
 1\. Il rendiconto generale delle Amministrazioni dello Stato e i rendiconti delle Amministrazioni e delle Aziende autonome per l'esercizio 2000 sono approvati nelle risultanze di cui ai seguenti articoli.
 
@@ -37,11 +37,9 @@ la seguente legge:
 
 ## TITOLO II - AMMINISTRAZIONI DELLO STATO
 
-### CAPO I
+### CAPO I - CONTO DEL BILANCIO
 
-#### CONTO DEL BILANCIO
-
-##### Art. 2 - Entrate
+#### Art. 2 - Entrate
 
 1\. Le entrate tributarie, extratributarie, per alienazione ed ammortamento di beni patrimoniali e riscossioni di crediti, e per accensione di prestiti, accertate nell'esercizio finanziario 2000 per la competenza propria dell'esercizio, risultano stabilite in lire 1.084.152.395.500.871.
 
@@ -51,7 +49,7 @@ la seguente legge:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-##### Art. 3 - Spese
+#### Art. 3 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di passivita' finanziarie, impegnate nell'esercizio finanziario 2000 per la competenza propria dell'esercizio, risultano stabilite in lire 1.093.901.804.363.326.
 
@@ -61,7 +59,7 @@ la seguente legge:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-##### Art. 4 - Disavanzo della gestione di competenza
+#### Art. 4 - Disavanzo della gestione di competenza
 
 1\. Il disavanzo della gestione di competenza dell'esercizio finanziario 2000, di lire 9.749.408.862.455, risulta stabilito come segue:
 
@@ -93,7 +91,7 @@ Disavanzo della gestione
 
 di competenza ............L. 9.749.408.862.455
 
-##### Art. 5 - Situazione finanziaria
+#### Art. 5 - Situazione finanziaria
 
 1\. Il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 2000, di lire 338.283.249.469.984, risulta stabilito come segue:
 
@@ -141,7 +139,7 @@ Disavanzo finanziario al 31 dicembre 2000 ...L. 338.283.249.469.984
  ======================
 ```
 
-##### Art. 6 - Approvazione degli allegati
+#### Art. 6 - Approvazione degli allegati
 
 1\. Sono approvati gli allegati n. 1 e n. 2, di cui all'articolo 9, ultimo comma, e all'articolo 12, ultimo comma, della legge 5 agosto 1978, n. 468.
 
@@ -155,7 +153,7 @@ Disavanzo finanziario al 31 dicembre 2000 ...L. 338.283.249.469.984
 
 > "Al disegno di legge di approvazione del rendiconto generale dello Stato e' allegato un elenco dei decreti di cui ai commi precedenti con le indicazioni dei motivi per i quali si e proceduto alle iscrizioni e integrazioni di cui al presente articolo".
 
-##### Art. 7 - Eccedenze
+#### Art. 7 - Eccedenze
 
 1\. Sono approvate le eccedenze di impegni e di pagamenti risultate in sede di consuntivo rispettivamente sul conto della competenza, sul conto dei residui e sul conto della cassa, relative alle unita' previsionali di base degli stati di previsione della spesa dei Ministeri sotto indicati per l'esercizio 2000, come risulta dal dettaglio che segue:
 
@@ -379,7 +377,7 @@ MINISTERO PER I BENI E LE ATTIVITA' CULTURALI
 
 6.1.1.0 Funzionamento 2.059.623.652 - 115.469.301
 
-##### Art. 8 - Conservazione fondi
+#### Art. 8 - Conservazione fondi
 
 1\. Le somme assegnate nell'esercizio finanziario 2000 al capitolo 2384 dello Stato di previsione del Ministero dell'interno, concernente il Fondo di rotazione per la solidarieta' alle vittime dei reati di tipo mafioso, previste dall'articolo 8 della legge n. 512 del 22 dicembre 1999, non utilizzate alla chiusura di tale esercizio possono esserlo nell'esercizio successivo.
 
@@ -393,9 +391,9 @@ MINISTERO PER I BENI E LE ATTIVITA' CULTURALI
 
 > 3\. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio".
 
-## CAPO II - CONTO GENERALE DEL PATRIMONIO
+### CAPO II - CONTO GENERALE DEL PATRIMONIO
 
-##### Art. 9 - Risultati generali della gestione patrimoniale
+#### Art. 9 - Risultati generali della gestione patrimoniale
 
 1\. La situazione patrimoniale dell'Amministrazione dello Stato, al 31 dicembre 2000, resta stabilita come segue:
 
@@ -427,11 +425,9 @@ Eccedenza passiva al
 
 ## TITOLO III - AZIENDE SPECIALI ED AUTONOME
 
-### CAPO I
+### CAPO I - ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-#### ISTITUTO AGRONOMICO PER L'OLTREMARE
-
-##### Art. 10 - Entrate
+#### Art. 10 - Entrate
 
 1\. Le entrate correnti del bilancio dell'istituto agronomico per l'Oltremare, accertate nell'esercizio finanziario 2000 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'istituto stesso, allegato al conto consuntivo del Ministero degli affari esteri, in lire 12.499.889.015.
 
@@ -439,7 +435,7 @@ Eccedenza passiva al
 
 3\. Al 31 dicembre 2000 non risultano residui attivi.
 
-##### Art. 11 - Spese
+#### Art. 11 - Spese
 
 1\. Le spese correnti ed in conto capitale del bilancio dell'istituto predetto, impegnate nell'esercizio finanziario 2000 per la competenza propria dell'esercizio, risultano stabilite in lire 12.499.889.015.
 
@@ -465,9 +461,9 @@ dell'esercizio 1999 4.875.053.890 2.768.944.639 7.643.998.529
  ==============
 ```
 
-## CAPO II - AMMINISTRAZiONE AUTONOMA DEI MONOPOLI DI STATO
+### CAPO II - AMMINISTRAZiONE AUTONOMA DEI MONOPOLI DI STATO
 
-##### Art 12 - Entrate
+#### Art 12 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione autonoma dei monopoli di Stato, comprese quelle delle gestioni speciali ed autonome, accertate nell'esercizio finanziario 2000 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero delle finanze, in lire 10.606.948.003.655.
 
@@ -477,7 +473,7 @@ dell'esercizio 1999 4.875.053.890 2.768.944.639 7.643.998.529
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-##### Art. 13 - Spese
+#### Art. 13 - Spese
 
 1\. Le spese correnti ed in conto capitale e per rimborso di passivita' finanziarie del bilancio dell'Amministrazione predetta, comprese quelle delle gestioni speciali ed autonome, impegnate nell'esercizio 2000 per la competenza propria dell'esercizio, risultano stabilite in lire 10.606.948.003.655.
 
@@ -487,7 +483,7 @@ dell'esercizio 1999 4.875.053.890 2.768.944.639 7.643.998.529
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-##### Art. 14 - Riassunto generale
+#### Art. 14 - Riassunto generale
 
 1\. Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione autonoma dei monopoli di Stato, di competenza dell'esercizio 2000, risulta cosi' stabilito:
 
@@ -511,7 +507,7 @@ Spese delle gestioni speciali.................L. 9.836.101.308.608
  ==================
 ```
 
-##### Art. 15 - Situazione finanziaria
+#### Art. 15 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dell'esercizio 2000, risulta come appresso:
 
@@ -523,9 +519,9 @@ Spese dell'esercizio 2000................L. 10.606.948.003.655
 
 Saldo della gestione di competenza.......L. --
 
-## CAPO III - ARCHIVI NOTARILI
+### CAPO III - ARCHIVI NOTARILI
 
-##### Art. 16 - Avanzo
+#### Art. 16 - Avanzo
 
 1\. L'avanzo della gestione del bilancio degli Archivi notarili, per l'esercizio finanziario 2000, risulta stabilito come segue:
 
@@ -537,9 +533,9 @@ Spese.....................L. 323.873.547.182
 
 L. 44.846.034.628
 
-## CAPO IV - FONDO EDIFICI DI CULTO
+### CAPO IV - FONDO EDIFICI DI CULTO
 
-##### Art 17 - Entrate
+#### Art 17 - Entrate
 
 1\. Le entrate correnti e in conto capitale del bilancio del Fondo edifici di culto, accertate nell'esercizio finanziario 2000 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'interno, in lire 73.087.112.176.
 
@@ -565,7 +561,7 @@ dell'esercizio 1999 5.920.116.075 1.471.227.714 7.391.341.789
  =============
 ```
 
-##### Art. 18 - Spese
+#### Art. 18 - Spese
 
 1\. Le spese correnti ed in conto capitale del bilancio dell'Amministrazione predetta, impegnate nell'esercizio 2000 per la competenza propria dell'esercizio, risultano stabilite in lire 76.499.708.020.
 
@@ -591,7 +587,7 @@ dell'esercizio 1999 13.120.751.640 10.592.235.610 23.712.987.214
  ==============
 ```
 
-##### Art. 19 - Situazione finanziaria
+#### Art. 19 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Amministrazione del Fondo edifici di culto, alla fine dell'esercizio 2000, risulta come appresso:
 
@@ -661,9 +657,9 @@ TREMONTI, Ministro dell'economia e delle finanze
 
 Visto, il Guardasigilli: CASTELLI
 
-## CAPO IV - FONDO EDIFICI DI CULTO
+### CAPO IV - FONDO EDIFICI DI CULTO
 
-##### Allegato n.1
+#### Allegato n.1
 
 ALLEGATO N. 1
 
@@ -1131,7 +1127,7 @@ Tenuto conto degli utilizzi sopra citati residuano lire 2.503.093.000 per la com
 
 > \- Il testo della legge 23 ottobre 2000, n. 317 (Disposizioni per l'assestamento del bilancio dello Stato e dei bilanci delle Amministrazioni autonome per l'anno finanziario 2000) e' pubblicato nella Gazzetta Ufficiale 3 novembre 2000, n. 257, supplemento ordinario.
 
-##### Allegato n.2
+#### Allegato n.2
 
 ALLEGATO N. 2
 

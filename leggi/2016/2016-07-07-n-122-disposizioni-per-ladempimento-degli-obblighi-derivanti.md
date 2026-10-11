@@ -410,7 +410,7 @@ c) all'articolo 32, comma 1, le parole: «le disposizioni di cui all'articolo 31
 
 > \- L'art. 41-bis della legge n. 234/2012 (Norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea.), introdotto dalla legge n. 115/2015 ( Legge europea 2014) pubblicata nella Gazzetta Ufficiale 3 agosto 2015, n. 178, ha istituito il Fondo per il recepimento della normativa europea.
 
-## Sezione II
+### Sezione II
 
 #### Art. 11
 

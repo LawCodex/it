@@ -32,11 +32,9 @@ la seguente legge:
 
 ## TITOLO I - TRATTAMENTO PENITENZIARIO
 
-### Capo I
+### Capo I - PRINCIPI DIRETTIVI
 
-#### PRINCIPI DIRETTIVI
-
-##### Art. 1
+#### Art. 1
 
 (( (Trattamento e rieducazione).
 
@@ -54,7 +52,7 @@ la seguente legge:
 
 7\. Il trattamento degli imputati deve essere rigorosamente informato al principio per cui essi non sono considerati colpevoli sino alla condanna definitiva. ))
 
-##### Art. 2
+#### Art. 2
 
 Spese per l'esecuzione delle pene e delle misure di sicurezza detentive
 
@@ -68,19 +66,19 @@ Sono spese di mantenimento quelle concernenti gli alimenti ed il corredo.
 
 Il rimborso delle spese di mantenimento ha luogo per una quota non superiore ai due terzi del costo reale. Il Ministro per la grazia e giustizia, al principio di ogni esercizio finanziario, determina, sentito il Ministro per il tesoro, la quota media di mantenimento dei detenuti in tutti gli stabilimenti della Repubblica.
 
-##### Art. 3
+#### Art. 3
 
 Parita' di condizioni fra i detenuti e gli internati
 
 Negli istituti penitenziari e' assicurata ai detenuti ed agli internati parita' di condizioni di vita. In particolare il regolamento stabilisce limitazioni in ordine all'ammontare del peculio disponibile e dei beni provenienti dall'esterno.
 
-##### Art. 4
+#### Art. 4
 
 Esercizio dei diritti dei detenuti e degli internati
 
 I detenuti e gli internati esercitano personalmente i diritti loro derivanti dalla presente legge anche se si trovano in stato di interdizione legale.
 
-##### Art. 4-bis - Divieto di concessione dei benefici e accertamento della pericolosita' sociale dei condannati per taluni delitti
+#### Art. 4-bis - Divieto di concessione dei benefici e accertamento della pericolosita' sociale dei condannati per taluni delitti
 
 1\. L'assegnazione al lavoro all'esterno, i permessi premio e le misure alternative alla detenzione previste dal capo VI, esclusa la liberazione anticipata, possono essere concessi ai detenuti e internati per i seguenti delitti solo nei casi in cui tali detenuti e internati collaborino con la giustizia a norma dell'articolo 58-ter della presente legge: delitti commessi per finalita' di terrorismo, anche internazionale, o di eversione dell'ordine democratico mediante il compimento di atti di violenza, delitti di cui agli articoli 416-bis e 416-ter del codice penale, delitti commessi avvalendosi delle condizioni previste dallo stesso articolo ovvero al fine di agevolare l'attivita' delle associazioni in esso previste, delitti di cui agli articoli 600, 600-bis, primo comma, 600-ter, primo e secondo comma, 601, 602, 609-octies e 630 del codice penale, agli articoli 12, commi 1 e 3, e 12-bis del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286, e successive modificazioni, all'articolo 291-quater del testo unico delle disposizioni legislative in materia doganale, di cui al decreto del Presidente della Repubblica 23 gennaio 1973, n. 43, e all'articolo 74 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309. Sono fatte salve le disposizioni degli articoli 16-nonies e 17-bis del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, e successive modificazioni. La disposizione del primo periodo si applica altresi' in caso di esecuzione di pene inflitte anche per delitti diversi da quelli ivi indicati, in relazione ai quali il giudice della cognizione o dell'esecuzione ha accertato che sono stati commessi per eseguire od occultare uno dei reati di cui al medesimo primo periodo ovvero per conseguire o assicurare al condannato o ad altri il prodotto o il profitto o il prezzo ovvero l'impunita' di detti reati. (80) (102) (100) (113)
 
@@ -176,9 +174,9 @@ AGGIORNAMENTO (130)
 
 La Corte Costituzionale, con sentenza 9 febbraio - 5 maggio 2026, n. 68 (in G.U. 1ª s.s. 6/5/2026, n. 18), ha dichiarato "l'illegittimita' costituzionale dell'art. 4-bis, comma 1-quater, della legge 26 luglio 1975, n. 354 (Norme sull'ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della liberta'), nella parte in cui si applica ai condannati per il delitto di cui all'art. 609-quater del codice penale cui sia stata riconosciuta la circostanza attenuante ad effetto speciale di cui al sesto comma del medesimo art. 609-quater cod. pen.".
 
-## Capo II - CONDIZIONI GENERALI
+### Capo II - CONDIZIONI GENERALI
 
-##### Art. 5
+#### Art. 5
 
 Caratteristiche degli edifici penitenziari
 
@@ -186,7 +184,7 @@ Gli istituti penitenziari devono essere realizzati in modo tale da accogliere un
 
 ((Gli edifici penitenziari devono essere dotati di locali per le esigenze di vita individuale e di locali per lo svolgimento di attivita' lavorative, formative e, ove possibile, culturali, sportive e religiose.))
 
-##### Art. 6
+#### Art. 6
 
 (( (Locali di soggiorno e di pernottamento). ))
 
@@ -210,7 +208,7 @@ AGGIORNAMENTO (92)
 
 Il D.Lgs. 2 ottobre 2018, n. 124 ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui agli articoli 6, comma 2, e 8, comma secondo, della legge 26 luglio 1975, n. 354, come modificate, rispettivamente, dall'articolo 1, comma 1, lettere b) e c), del presente decreto legislativo, acquistano efficacia a decorrere dal 31 dicembre 2021".
 
-##### Art. 7
+#### Art. 7
 
 Vestiario e corredo
 
@@ -226,7 +224,7 @@ Gli imputati e i condannati a pena detentiva inferiore ad un anno possono indoss
 
 I detenuti e gli internati possono essere ammessi a far uso di corredo di loro proprieta' e di oggetti che abbiano particolare valore morale o affettivo.
 
-##### Art. 8
+#### Art. 8
 
 Igiene personale
 
@@ -246,7 +244,7 @@ AGGIORNAMENTO (92)
 
 Il D.Lgs. 2 ottobre 2018, n. 124 ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui agli articoli 6, comma 2, e 8, comma secondo, della legge 26 luglio 1975, n. 354, come modificate, rispettivamente, dall'articolo 1, comma 1, lettere b) e c), del presente decreto legislativo, acquistano efficacia a decorrere dal 31 dicembre 2021".
 
-##### Art. 9
+#### Art. 9
 
 Alimentazione
 
@@ -264,7 +262,7 @@ Una rappresentanza dei detenuti o degli internati, designata mensilmente per sor
 
 Ai detenuti e agli internati e' consentito l'acquisto, a proprie spese, di generi alimentari e di conforto, entro i limiti fissati dal regolamento. La vendita dei generi alimentari o di conforto deve essere affidata di regola a spacci gestiti direttamente dall'amministrazione carceraria o da imprese che esercitano la vendita a prezzi controllati dall'autorita' comunale. I prezzi non possono essere superiori a quelli comunemente praticati nel luogo in cui e' sito l'istituto. La rappresentanza indicata nel precedente comma, integrata da un delegato del direttore, scelto tra il personale civile dell'istituto, controlla qualita' e prezzi dei generi venduti nell'istituto.
 
-##### Art. 10
+#### Art. 10
 
 Permanenza all'aperto
 
@@ -276,7 +274,7 @@ Gli spazi destinati alla permanenza all'aperto devono offrire possibilita' di pr
 
 La permanenza all'aria aperta e' effettuata in gruppi a meno che non ricorrano i casi indicati nell'articolo 33 e nei numeri 4) e 5) dell'articolo 39 ed e' dedicata, se possibile, ad esercizi fisici.
 
-##### Art. 11
+#### Art. 11
 
 (( (Servizio sanitario).
 
@@ -310,7 +308,7 @@ Durante la permanenza nell'istituto, l'assistenza sanitaria e' prestata con peri
 
 14\. Il direttore generale dell'azienda unita' sanitaria riferisce al Ministero della salute e al Ministero della giustizia sulle visite compiute e sui provvedimenti da adottare, informando altresi' i competenti uffici regionali, comunali e il magistrato di sorveglianza. ))
 
-##### Art. 11-bis
+#### Art. 11-bis
 
 (( (Comunicazioni al procuratore della Repubblica presso il tribunale per i minorenni). ))
 
@@ -320,7 +318,7 @@ Durante la permanenza nell'istituto, l'assistenza sanitaria e' prestata con peri
 
 3\. I pubblici ufficiali, gli incaricati di un pubblico servizio, gli esercenti un servizio di pubblica necessita' che entrano in contatto con il minore di cui al comma 1 debbono riferire al piu' presto al direttore dell'istituto su condotte del genitore pregiudizievoli al minore medesimo. Il direttore dell'istituto ne da' immediata comunicazione al procuratore della Repubblica presso il tribunale per i minorenni)).
 
-##### Art. 12
+#### Art. 12
 
 Attrezzature per attivita' di lavoro di istruzione e di ricreazione
 
@@ -330,9 +328,9 @@ Gli istituti devono inoltre essere forniti di una biblioteca costituita da libri
 
 Alla gestione del servizio di biblioteca partecipano rappresentanti dei detenuti e degli internati.
 
-## Capo III - MODALITA' DEL TRATTAMENTO
+### Capo III - MODALITA' DEL TRATTAMENTO
 
-##### Art. 13
+#### Art. 13
 
 Individualizzazione del trattamento
 
@@ -350,7 +348,7 @@ Le indicazioni generali e particolari del trattamento sono inserite, unitamente 
 
 Deve essere favorita la collaborazione dei condannati e degli internati alle attivita' di osservazione e di trattamento.
 
-##### Art. 13-bis
+#### Art. 13-bis
 
 (( (Trattamento psicologico per i condannati per reati sessuali, per maltrattamenti contro familiari o conviventi e per atti persecutori). ))
 
@@ -358,7 +356,7 @@ Deve essere favorita la collaborazione dei condannati e degli internati alle att
 
 ((1-bis. Le persone condannate per i delitti di cui al comma 1 possono essere ammesse a seguire percorsi di reinserimento nella societa' e di recupero presso enti o associazioni che si occupano di prevenzione, assistenza psicologica e recupero di soggetti condannati per i medesimi reati, organizzati previo accordo tra i suddetti enti o associazioni e gli istituti penitenziari)).
 
-##### Art. 14
+#### Art. 14
 
 Assegnazione, raggruppamento e categorie dei detenuti e degli internati
 
@@ -378,7 +376,7 @@ Alle madri e' consentito di tenere presso di se' i figli fino all'eta' di tre an
 
 L'assegnazione dei detenuti e degli internati, per i quali si possano temere aggressioni o sopraffazioni da parte della restante popolazione detenuta, in ragione solo dell'identita' di genere o dell'orientamento sessuale, deve avvenire, per categorie omogenee, in sezioni distribuite in modo uniforme sul territorio nazionale previo consenso degli interessati i quali, in caso contrario, saranno assegnati a sezioni ordinarie. E' in ogni caso garantita la partecipazione ad attivita' trattamentali, eventualmente anche insieme alla restante popolazione detenuta.))
 
-##### Art. 14-bis
+#### Art. 14-bis
 
 (((Regime di sorveglianza particolare).
 
@@ -400,7 +398,7 @@ c) che nella vita penitenziaria si avvalgono dello stato di soggezione degli alt
 
 6\. Il provvedimento che dispone il regime di cui al presente articolo e' comunicato immediatamente al magistrato di sorveglianza ai fini dell'esercizio del suo potere di vigilanza)).
 
-##### Art. 14-ter - Reclamo
+#### Art. 14-ter - Reclamo
 
 1\. Avverso il provvedimento che dispone o proroga il regime di sorveglianza particolare puo' essere proposto dall'interessato reclamo al tribunale di sorveglianza nel termine di dieci giorni dalla comunicazione del provvedimento definitivo. Il reclamo non sospende l'esecuzione del provvedimento.((24))
 
@@ -416,7 +414,7 @@ AGGIORNAMENTO (24)
 
 La Corte Costituzionale con sentenza 8-16 febbraio 1993, n. 53 (in G.U. 1a s.s. 24/02/1993, n. 9) ha dichiarato l'illegittimita' costituzionale dell'14-ter, primo, secondo e terzo comma, e 30-bis della legge 26 luglio 1975, n. 354 (Norme sull'ordinamento penitenziario e sull'esecuzione delle misure privative e limitative della liberta'), nella parte in cui non consentono l'applicazione degli artt. 666 e 678 del codice di procedura penale nel procedimento di reclamo avverso il decreto del magistrato di sorveglianza che esclude dal computo della detenzione il periodo trascorso in permesso-premio.
 
-##### Art. 14-quater
+#### Art. 14-quater
 
 (Contenuti del regime di sorveglianza
 
@@ -432,7 +430,7 @@ particolare).
 
 5\. Se il regime di sorveglianza particolare non e' attuabile nell'istituto ove il detenuto o l'internato si trova, l'amministrazione penitenziaria puo' disporre, con provvedimento motivato, il trasferimento in altro istituto idoneo, con il minimo pregiudizio possibile per la difesa e per i familiari, dandone immediato avviso al magistrato di sorveglianza. Questi riferisce al Ministro in ordine ad eventuali casi di infondatezza dei motivi posti a base del trasferimento.
 
-##### Art. 15
+#### Art. 15
 
 Elementi del trattamento
 
@@ -442,7 +440,7 @@ Ai fini del trattamento rieducativo, salvo casi di impossibilita', al condannato
 
 Gli imputati sono ammessi, a loro richiesta, a partecipare ad attivita' educative, culturali e ricreative e, salvo giustificati motivi o contrarie disposizioni dell'autorita' giudiziaria, a svolgere attivita' lavorativa di formazione professionale, possibilmente di loro scelta e, comunque, in condizioni adeguate alla loro posizione giuridica.
 
-##### Art. 15-bis
+#### Art. 15-bis
 
 (( (Giustizia riparativa). ))
 
@@ -450,7 +448,7 @@ Gli imputati sono ammessi, a loro richiesta, a partecipare ad attivita' educativ
 
 2\. La partecipazione al programma di giustizia riparativa e l'eventuale esito riparativo sono valutati ai fini dell'assegnazione al lavoro all'esterno, della concessione dei permessi premio e delle misure alternative alla detenzione previste dal capo VI, nonche' della liberazione condizionale. Non si tiene conto in ogni caso della mancata effettuazione del programma, dell'interruzione dello stesso o del mancato raggiungimento di un esito riparativo.))
 
-##### Art. 16
+#### Art. 16
 
 Regolamento dell'istituto
 
@@ -462,7 +460,7 @@ Il regolamento interno disciplina, altresi', i controlli cui devono sottoporsi t
 
 Il regolamento interno e le sue modificazioni sono approvati dal Ministro per la grazia e giustizia.
 
-##### Art. 17
+#### Art. 17
 
 Partecipazione della comunita' esterna all'azione rieducativa
 
@@ -472,7 +470,7 @@ Sono ammessi a frequentare gli istituti penitenziari con l'autorizzazione e seco
 
 Le persone indicate nel comma precedente operano sotto il controllo del direttore.
 
-##### Art. 18
+#### Art. 18
 
 Colloqui, corrispondenza e informazione
 
@@ -514,7 +512,7 @@ AGGIORNAMENTO (117)
 
 La Corte Costituzionale con sentenza 6 dicembre 2023 - 26 gennaio 2024, n. 10 (in G.U. 1ª s.s. 31/01/2024, n. 5) ha dichiarato "l'illegittimita' costituzionale dell'art. 18 della legge 26 luglio 1975, n. 354 (Norme sull'ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della liberta'), nella parte in cui non prevede che la persona detenuta possa essere ammessa, nei termini di cui in motivazione, a svolgere i colloqui con il coniuge, la parte dell'unione civile o la persona con lei stabilmente convivente, senza il controllo a vista del personale di custodia, quando, tenuto conto del comportamento della persona detenuta in carcere, non ostino ragioni di sicurezza o esigenze di mantenimento dell'ordine e della disciplina, ne', riguardo all'imputato, ragioni giudiziarie".
 
-##### Art. 18-bis - Colloqui a fini investigativi
+#### Art. 18-bis - Colloqui a fini investigativi
 
 1\. Il personale della Direzione investigativa antimafia di cui all'articolo 3 del decreto-legge 29 ottobre 1991, n. 345, convertito, con modificazioni, nella legge 30 dicembre 1991, n. 410, e dei servizi centrali e interprovinciali di cui all'articolo 12 del decreto-legge 13 maggio 1991, n. 152, convertito, con modificazioni, dalla legge 12 luglio 1991, n. 203, nonche' gli ufficiali di polizia giudiziaria designati dai responsabili, a livello centrale, delle predetta Direzione e dei predetti servizi, hanno facolta' di visitare gli istituti penitenziari e possono essere autorizzati, a norma del comma 2, del presente articolo, ad avere colloqui personali con detenuti e internati, al fine di acquisire informazioni utili per la prevenzione e repressione dei delitti di criminalita' organizzata.
 
@@ -532,7 +530,7 @@ b) quando si tratta di persone sottoposte ad indagini, dal pubblico ministero.
 
 5\. La facolta' di procedere a colloqui personali con detenuti e internati e' attribuita, senza necessita' di autorizzazione, altresi' al Procuratore nazionale antimafia ((e antiterrorismo)) ai fini dell'esercizio delle funzioni di impulso e di coordinamento previste dall'articolo 371-bis del codice di procedura penale; al medesimo Procuratore nazionale antimafia sono comunicati i provvedimenti di cui ai commi 2 e 4, qualora concernenti colloqui con persone sottoposte ad indagini, imputate o condannate per taluno dei delitti indicati ((nell'articolo 51, commi 3-bis e 3-quater)), del codice di procedura penale.
 
-##### Art. 18-ter - Limitazioni e controlli della corrispondenza
+#### Art. 18-ter - Limitazioni e controlli della corrispondenza
 
 1\. Per esigenze attinenti le indagini o investigative o di prevenzione dei reati, ovvero per ragioni di sicurezza o di ordine dell'istituto, possono essere disposti, nei confronti dei singoli detenuti o internati, per un periodo non superiore a sei mesi, prorogabile per periodi non superiori a tre mesi:
 
@@ -558,7 +556,7 @@ b) nei confronti degli imputati, dal giudice indicato nell'articolo 279 del codi
 
 7\. Nel caso previsto dalla lettera c) del comma 1, l'apertura delle buste che racchiudono la corrispondenza avviene alla presenza del detenuto o dell'internato.
 
-##### Art. 19
+#### Art. 19
 
 Istruzione
 
@@ -576,7 +574,7 @@ Con le procedure previste dagli ordinamenti scolastici possono essere istituite 
 
 E' favorito l'accesso alle pubblicazioni contenute nella biblioteca, con piena liberta' di scelta delle letture.
 
-##### Art. 20 - Lavoro
+#### Art. 20 - Lavoro
 
 1\. Negli istituti penitenziari e nelle strutture ove siano eseguite misure privative della liberta' devono essere favorite in ogni modo la destinazione dei detenuti e degli internati al lavoro e la loro partecipazione a corsi di formazione professionale. A tal fine, possono essere organizzati e gestiti, all'interno e all'esterno dell'istituto, lavorazioni e servizi attraverso l'impiego di prestazioni lavorative dei detenuti e degli internati. Possono, altresi', essere istituite lavorazioni organizzate e gestite direttamente da enti pubblici o privati e corsi di formazione professionale organizzati e svolti da enti pubblici o privati.
 
@@ -622,7 +620,7 @@ AGGIORNAMENTO (46)
 
 La Corte Costituzionale con sentenza 10-22 maggio 2001, n. 158 (in G.U. 1a s.s. 23/05/2001, n. 20) ha dichiarato l'illegittimita' costituzionale dell'art. 20, sedicesimo comma, della legge 26 luglio 1975, n. 354 (Norme sull'ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della liberta), nella parte in cui non riconosce il diritto al riposo annuale retribuito al detenuto che presti la propria attivita' lavorativa alle dipendenze dell'amministrazione carceraria.
 
-##### Art. 20-bis - Modalita' di organizzazione del lavoro
+#### Art. 20-bis - Modalita' di organizzazione del lavoro
 
 1\. Il provveditore regionale dell'Amministrazione penitenziaria puo' affidare, con contratto d'opera, la direzione tecnica delle lavorazioni a persone estranee all'Amministrazione penitenziaria, le quali curano anche la specifica formazione dei responsabili delle lavorazioni e concorrono alla qualificazione professionale dei detenuti, d'intesa con la regione. Possono essere inoltre istituite, a titolo sperimentale, nuove lavorazioni, avvalendosi, se necessario, dei servizi prestati da imprese pubbliche o private ed acquistando le relative progettazioni.
 
@@ -632,7 +630,7 @@ La Corte Costituzionale con sentenza 10-22 maggio 2001, n. 158 (in G.U. 1a s.s. 
 
 4\. Sono abrogati l'articolo 1 della legge 3 luglio 1942, n. 971 , e l'articolo 611 delle disposizioni approvate con regio decreto 16 maggio 1920, n. 1908.
 
-##### Art. 20-ter
+#### Art. 20-ter
 
 (( (Lavoro di pubblica utilita').
 
@@ -652,7 +650,7 @@ I detenuti e gli internati possono essere assegnati al lavoro di pubblica utilit
 
 7\. Il numero e la qualita' dei progetti di pubblica utilita' promossi dagli istituti penitenziari costituiscono titolo di priorita' nell'assegnazione agli stessi dei fondi di cui all'articolo 2, comma 2, lettere a) e d), del decreto del Presidente del Consiglio dei ministri 10 aprile 2017, n. 102, nei termini e secondo le modalita' stabilite dalle apposite disposizioni di attuazione adottate dalla Cassa delle ammende.))
 
-##### Art. 21 - Lavoro all'esterno
+#### Art. 21 - Lavoro all'esterno
 
 1\. I detenuti e gli internati possono essere assegnati al lavoro all'esterno in condizioni idonee a garantire l'attuazione positiva degli scopi previsti dall'articolo 15. Tuttavia, se si tratta di persona condannata alla pena della reclusione per uno dei delitti indicati nei commi 1, 1-ter e 1quater dell'articolo 4- bis, l'assegnazione al lavoro all'esterno puo' essere disposta dopo l'espiazione di almeno un terzo della pena e, comunque, di non oltre cinque anni. Nei confronti dei condannati all'ergastolo l'assegnazione puo' avvenire dopo l'espiazione di almeno dieci anni.
 
@@ -672,7 +670,7 @@ AGGIORNAMENTO (114)
 
 E' stato ripristinato il testo gia' in vigore dal 10-11-2018 a seguito della soppressione della lettera b), dell'art. 1, comma 1 del D.L. 31 ottobre 2022, n. 162, che disponeva la modifica del comma 4 del presente articolo, ad opera della L. 30 dicembre 2022, n. 199, di conversione del D.L. medesimo.
 
-##### Art. 21-bis - Assistenza all'esterno dei figli minori
+#### Art. 21-bis - Assistenza all'esterno dei figli minori
 
 1\. Le condannate e le internate possono essere ammesse alla cura e all'assistenza all'esterno dei figli di eta' non superiore agli anni dieci, alle condizioni previste dall'articolo 21.
 
@@ -688,7 +686,7 @@ AGGIORNAMENTO (89)
 
 La Corte Costituzionale , con sentenza 4 - 23 luglio 2018, n. 174 (in G.U. 1ª s.s. 25/7/2018, n. 30) ha dichiarato "l'illegittimita' costituzionale dell'art. 21-bis della legge 26 luglio 1975, n. 354 (Norme sull'ordinamento penitenziario e sull'esecuzione delle misure privative e limitative della liberta'), nella parte in cui, attraverso il rinvio al precedente art. 21, con riferimento alle detenute condannate alla pena della reclusione per uno dei delitti di cui all'art. 4-bis, commi 1, 1-ter e 1-quater, della legge n. 354 del 1975, non consente l'accesso all'assistenza all'esterno dei figli di eta' non superiore agli anni dieci oppure lo subordina alla previa espiazione di una frazione di pena, salvo che sia stata accertata la sussistenza delle condizioni previste dall'art. 58-ter della medesima legge".
 
-##### Art. 21-ter - Visite al minore infermo ((o al figlio, al coniuge o convivente affetto da handicap in situazione di gravita'))
+#### Art. 21-ter - Visite al minore infermo ((o al figlio, al coniuge o convivente affetto da handicap in situazione di gravita'))
 
 1\. In caso di imminente pericolo di vita o di gravi condizioni di salute del figlio minore, anche non convivente, ((ovvero nel caso in cui il figlio sia affetto da handicap in situazione di gravita', ai sensi dell'articolo 3, comma 3, della legge 5 febbraio 1992, n. 104, accertata ai sensi dell'articolo 4 della medesima legge,)) la madre condannata, imputata o internata, ovvero il padre che versi nelle stesse condizioni della madre, sono autorizzati, con provvedimento del magistrato di sorveglianza o, in caso di assoluta urgenza, del direttore dell'istituto, a recarsi, con le cautele previste dal regolamento, a visitare l'infermo ((o il figlio affetto da handicap grave)). In caso di ricovero ospedaliero, le modalita' della visita sono disposte tenendo conto della durata del ricovero e del decorso della patologia.
 
@@ -696,13 +694,13 @@ La Corte Costituzionale , con sentenza 4 - 23 luglio 2018, n. 174 (in G.U. 1ª s
 
 ((2-bis. Le disposizioni di cui ai commi 1 e 2 si applicano anche nel caso di coniuge o convivente affetto da handicap grave ai sensi dell'articolo 3, comma 3, della legge 5 febbraio 1992, n. 104)).
 
-##### Art. 22
+#### Art. 22
 
 (( (Determinazione della remunerazione).
 
 1\. La remunerazione per ciascuna categoria di detenuti e internati che lavorano alle dipendenze dell'amministrazione penitenziaria e' stabilita, in relazione alla quantita' e qualita' del lavoro prestato, in misura pari ai due terzi del trattamento economico previsto dai contratti collettivi.))
 
-##### Art. 23
+#### Art. 23
 
 Remunerazione e assegni familiari
 
@@ -722,7 +720,7 @@ AGGIORNAMENTO (20)
 
 La Corte Costituzionale con sentenza 3-18 febbraio 1992, n. 49 (in G.U. 1a s.s. 26/02/1992, n. 9) ha dichiarato l'illegittimita' costituzionale dell'art. 23 della legge 26 luglio 1975 n. 354 (Norme sull'ordinamento penitenziario e sull'esecuzione delle misure privative e limitative della liberta'), nella parte in cui stabilisce una riduzione dei tre decimi della mercede corrisposta per il lavoro dei detenuti da versarsi alla Cassa per il soccorso e l'assistenza alle vittime dei delitti e, dopo la sua soppressione, alle regioni ed agli enti locali (province e comuni).
 
-##### Art. 24
+#### Art. 24
 
 Pignorabilita' e sequestrabilita' della remunerazione
 
@@ -732,7 +730,7 @@ In ogni caso deve essere riservata a favore dei condannati una quota pari a tre 
 
 La remunerazione dovuta agli internati e agli imputati non e' soggetta a pignoramento o a sequestro, salvo che per obbligazioni derivanti da alimenti, o a prelievo per il risarcimento del danno arrecato alle cose mobili o immobili dell'amministrazione.
 
-##### Art. 25
+#### Art. 25
 
 Peculio
 
@@ -744,7 +742,7 @@ Il peculio e' tenuto in deposito dalla direzione dell'istituto.
 
 Il regolamento deve prevedere le modalita' del deposito e stabilire la parte di peculio disponibile dai detenuti e dagli internati per acquisti autorizzati di oggetti personali o invii ai familiari o conviventi, e la parte da consegnare agli stessi all'atto della dimissione dagli istituti.
 
-##### Art. 25-bis - Commissioni regionali per il lavoro penitenziario
+#### Art. 25-bis - Commissioni regionali per il lavoro penitenziario
 
 1\. Sono istituite le commissioni regionali per il lavoro penitenziario. ((Esse sono presiedute dal provveditore regionale dell'amministrazione penitenziaria e sono composte dal dirigente del centro per la giustizia minorile, dal direttore dell'ufficio interdistrettuale dell'esecuzione penale esterna, dai rappresentanti, in sede locale, delle associazioni imprenditoriali e delle associazioni cooperative, dai rappresentanti della regione che operino nel settore del lavoro e della formazione professionale e da un rappresentante di ANPAL. Ai componenti delle commissioni, come sopra individuate, non spetta la corresponsione di alcun compenso, gettoni di presenza, indennita', rimborsi spese e altri emolumenti comunque denominati.))
 
@@ -760,13 +758,13 @@ Il regolamento deve prevedere le modalita' del deposito e stabilire la parte di 
 
 7\. Nel regolamento di ciascun istituto sono indicate le attivita' lavorative che possono avere esecuzione in luoghi a sicurezza attenuata.
 
-##### Art. 25-ter
+#### Art. 25-ter
 
 (( (Assistenza per l'accesso alle prestazioni previdenziali e assistenziali).
 
 1\. L'amministrazione penitenziaria e' tenuta a rendere disponibile a favore dei detenuti e degli internati, anche attraverso apposite convenzioni non onerose con enti pubblici e privati, un servizio di assistenza all'espletamento delle pratiche per il conseguimento di prestazioni assistenziali e previdenziali e l'erogazione di servizi e misure di politica attiva del lavoro.))
 
-##### Art. 26
+#### Art. 26
 
 Religione e pratiche di culto
 
@@ -784,7 +782,7 @@ AGGIORNAMENTO (48)
 
 Il D.P.R. 30 maggio 2002, n. 115, come modificato dall'avviso di rettifica ha conseguentemente disposto la reintroduzione del presente articolo.
 
-##### Art. 27
+#### Art. 27
 
 Attivita' culturali, ricreative e sportive
 
@@ -792,13 +790,13 @@ Negli istituti devono essere favorite e organizzate attivita' culturali, sportiv
 
 Una commissione composta dal direttore dell'istituto, dagli educatori ((, dagli assistenti sociali, dai mediatori culturali che operano nell'istituto ai sensi dell'articolo 80, quarto comma,)) e dai rappresentanti dei detenuti e degli internati cura la organizzazione delle attivita' di cui al precedente comma, anche mantenendo contatti con il mondo esterno utili al reinserimento sociale.
 
-##### Art. 28
+#### Art. 28
 
 Rapporti con la famiglia
 
 Particolare cura e' dedicata a mantenere, migliorare o ristabilire le relazioni dei detenuti e degli internati con le famiglie.
 
-##### Art. 29
+#### Art. 29
 
 Comunicazioni dello stato di detenzione, dei trasferimenti, delle malattie e dei decessi
 
@@ -806,7 +804,7 @@ I detenuti e gli internati sono posti in grado d'informare immediatamente i cong
 
 In caso di decesso o di grave infermita' fisica o psichica di un detenuto o di un internato, deve essere data tempestiva notizia ai congiunti ed alle altre persone eventualmente da lui indicate; analogamente i detenuti e gli internati devono essere tempestivamente informati del decesso o della grave infermita' delle persone di cui al comma precedente.
 
-##### Art. 30
+#### Art. 30
 
 Permessi
 
@@ -818,7 +816,7 @@ Il detenuto che non rientra in istituto allo scadere del permesso senza giustifi
 
 L'internato che rientra in istituto dopo tre ore dalla scadenza del permesso senza giustificato motivo e' punito in via disciplinare.
 
-##### Art. 30-bis - Provvedimenti e reclami in materia di permessi
+#### Art. 30-bis - Provvedimenti e reclami in materia di permessi
 
 Prima di pronunciarsi sull'istanza di permesso, l'autorita' competente deve assumere informazioni sulla sussistenza dei motivi addotti, a mezzo delle autorita' di pubblica sicurezza, anche del luogo in cui l'istante chiede di recarsi. Nel caso di detenuti per uno dei delitti previsti dall'articolo 51, commi 3-bis e 3-quater, del codice di procedura penale, l'autorita' competente, prima di pronunciarsi, chiede altresi' il parere del procuratore della Repubblica presso il tribunale del capoluogo del distretto ove e' stata pronunciata la sentenza di condanna o ove ha sede il giudice che procede e, nel caso di detenuti sottoposti al regime previsto dall'articolo 41-bis, anche quello del procuratore nazionale antimafia e antiterrorismo in ordine all'attualita' dei collegamenti con la criminalita' organizzata ed alla pericolosita' del soggetto.Salvo ricorrano esigenze di motivata eccezionale urgenza, il permesso non puo' essere concesso prima di ventiquattro ore dalla richiesta dei predetti pareri.
 
@@ -852,7 +850,7 @@ AGGIORNAMENTO (125)
 
 La Corte Costituzionale, con sentenza 7 aprile - 3 giugno 2025, n. 78 (in G.U. 1ª s.s. 04/06/2025, n. 23), ha dichiarato "l'illegittimita' costituzionale dell'art. 30-bis, terzo comma, della legge 26 luglio 1975, n. 354 (Norme sull'ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della liberta'), nella parte in cui prevede che il provvedimento relativo ai permessi di cui all'art. 30 e' soggetto a reclamo, da parte del detenuto, entro ventiquattro ore dalla sua comunicazione, anziche' entro quindici giorni".
 
-##### Art. 30-ter - Permessi premio
+#### Art. 30-ter - Permessi premio
 
 1\. Ai condannati che hanno tenuto regolare condotta ai sensi del successivo comma 8 e che non risultano socialmente pericolose, il magistrato di sorveglianza, sentito il direttore dell'istituto, puo' concedere permessi premio di durata non superiore ogni volta a quindici giorni per consentire di coltivare interessi affettivi, culturali o di lavoro. La durata dei permessi non puo' superare complessivamente quarantacinque giorni in ciascun anno di espiazione. (114)
 
@@ -918,7 +916,7 @@ AGGIORNAMENTO (121)
 
 La Corte costituzionale con sentenza 30 gennaio - 7 marzo 2025, n. 24 (in G.U. 1ª s.s. 12/03/2025, n. 11) ha dichiarato "l'illegittimita' costituzionale dell'art. 30-ter, comma 5, della legge 26 luglio 1975, n. 354 (Norme sull'ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della liberta')".
 
-##### Art. 30-quater - Concessione dei permessi premio ai recidivi
+#### Art. 30-quater - Concessione dei permessi premio ai recidivi
 
 1\. I permessi premio possono essere concessi ai detenuti, ai quali sia stata applicata la recidiva prevista dall'articolo 99, quarto comma, del codice penale, nei seguenti casi previsti dal comma 4 dell'articolo 30-ter:
 
@@ -934,7 +932,7 @@ AGGIORNAMENTO (59)
 
 La Corte costituzionale, con sentenza 21 giugno - 4 luglio 2006, n. 257 (in G.U. 1a s.s. 12/07/2006, n. 28) ha dichiarato l'illegittimita' costituzionale dell'art. 30-quater della legge 26 luglio 1975, n. 354 (Norme sull'ordinamento penitenziario e sull'esecuzione delle misure privative e limitative della liberta), introdotto dall'art. 7 della legge 5 dicembre 2005, n. 251 (Modifiche al codice penale e alla legge 26 luglio 1975, n. 354, in materia di attenuanti generiche, di recidiva, di giudizio di comparazione delle circostanze di reato per i recidivi, di usura e di prescrizione), nella parte in cui non prevede che il beneficio del permesso premio possa essere concesso sulla base della normativa previgente nei confronti dei condannati che, prima della entrata in vigore della citata legge n. 251 del 2005, abbiano raggiunto un grado di rieducazione adeguato al beneficio richiesto.
 
-##### Art. 31
+#### Art. 31
 
 (( (Costituzione delle rappresentanze dei detenuti e degli internati).
 
@@ -942,9 +940,9 @@ La Corte costituzionale, con sentenza 21 giugno - 4 luglio 2006, n. 257 (in G.U.
 
 2\. Negli istituti penitenziari che ospitano sezioni femminili la rappresentanza comprende anche una detenuta o internata. ))
 
-## Capo IV - REGIME PENITENZIARIO
+### Capo IV - REGIME PENITENZIARIO
 
-##### Art. 32
+#### Art. 32
 
 Norme di condotta dei detenuti e degli internati Obbligo di risarcimento del danno
 
@@ -960,7 +958,7 @@ I detenuti e gli internati che arrecano danno alle cose mobili o immobili dell'a
 
 ((I detenuti e gli internati stranieri hanno l'obbligo di cooperare ai fini dell'accertamento dell'identita' e di esibire o produrre gli elementi in loro possesso, relativi all'eta', all'identita' e alla cittadinanza, nonche' ai Paesi in cui hanno soggiornato o sono transitati. Tali informazioni sono inserite nella cartella personale del detenuto o internato, prevista dall'articolo 26 del regolamento di esecuzione, di cui al decreto del Presidente della Repubblica 30 giugno 2000, n. 230. Nella medesima cartella sono altresi' annotate le informazioni relative al rispetto o meno dell'obbligo di cooperare e il mancato adempimento a tale obbligo costituisce un elemento di valutazione ai fini del giudizio espresso ai sensi del comma 5 del medesimo articolo 26.))
 
-##### Art. 33
+#### Art. 33
 
 (( (Isolamento).
 
@@ -978,7 +976,7 @@ c) per gli indagati e imputati se vi sono ragioni di cautela processuale; il pro
 
 4\. L'isolamento non preclude l'esercizio del diritto di effettuare colloqui visivi con i soggetti autorizzati.))
 
-##### Art. 34
+#### Art. 34
 
 Perquisizione personale
 
@@ -986,7 +984,7 @@ I detenuti e gli internati possono essere sottoposti a perquisizione personale p
 
 La perquisizione personale deve essere effettuata nel pieno rispetto della personalita'.
 
-##### Art. 35
+#### Art. 35
 
 (( (Diritto di reclamo).))
 
@@ -1010,7 +1008,7 @@ AGGIORNAMENTO (38)
 
 La Corte Costituzionale con sentenza del 8-11 febbraio 1999, n. 26 (in G.U. 1a s.s. 17/02/1999, n. 7) ha dichiarato l'illegittimita' costituzionale degli artt. degli artt. 35 e 69 della legge 26 luglio 1975, n. 354 (Norme sull'ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della liberta'), quest'ultimo come sostituito dall'art. 21 della legge 10 ottobre 1986, n. 663, nella parte in cui non prevedono una tutela giurisdizionale nei confronti degli atti della amministrazione penitenziaria lesivi di diritti di coloro che sono sottoposti a restrizione della liberta' personale.
 
-##### Art. 35-bis - Reclamo giurisdizionale
+#### Art. 35-bis - Reclamo giurisdizionale
 
 1\. Il procedimento relativo al reclamo di cui all'articolo 69, comma 6, si svolge ai sensi degli articoli 666 e 678 del codice di procedura penale. Salvi i casi di manifesta inammissibilita' della richiesta a norma dell'articolo 666, comma 2, del codice di procedura penale, il magistrato di sorveglianza fissa la data dell'udienza ((e ne fa dare avviso, oltre che al soggetto che ha proposto reclamo, anche all'amministrazione interessata, a cui e' comunicato contestualmente il reclamo, e che puo' comparire con un proprio dipendente ovvero trasmettere osservazioni e richieste)).
 
@@ -1038,7 +1036,7 @@ d) nomina, ove occorra, un commissario ad acta.
 
 8\. Avverso il provvedimento emesso in sede di ottemperanza e' sempre ammesso ricorso per cassazione per violazione di legge.
 
-##### Art. 35-ter
+#### Art. 35-ter
 
 (( (Rimedi risarcitori conseguenti alla violazione dell'articolo 3 della Convenzione europea per la salvaguardia dei diritti dell'uomo e delle liberta' fondamentali nei confronti di soggetti detenuti o internati). ))
 
@@ -1048,7 +1046,7 @@ d) nomina, ove occorra, un commissario ad acta.
 
 3\. Coloro che hanno subito il pregiudizio di cui al comma 1, in stato di custodia cautelare in carcere non computabile nella determinazione della pena da espiare ovvero coloro che hanno terminato di espiare la pena detentiva in carcere possono proporre azione, personalmente ovvero tramite difensore munito di procura speciale, di fronte al tribunale del capoluogo del distretto nel cui territorio hanno la residenza. L'azione deve essere proposta, a pena di decadenza, entro sei mesi dalla cessazione dello stato di detenzione o della custodia cautelare in carcere. Il tribunale decide in composizione monocratica nelle forme di cui agli articoli 737 e seguenti del codice di procedura civile. Il decreto che definisce il procedimento non e' soggetto a reclamo. Il risarcimento del danno e' liquidato nella misura prevista dal comma 2.))
 
-##### Art. 36
+#### Art. 36
 
 Regime disciplinare
 
@@ -1058,7 +1056,7 @@ Il regime disciplinare e' attuato in modo da stimolare il senso di responsabilit
 
 Esso e' adeguato alle condizioni fisiche e psichiche dei soggetti.
 
-##### Art. 37
+#### Art. 37
 
 Ricompense
 
@@ -1066,7 +1064,7 @@ Le ricompense costituiscono il riconoscimento del senso di responsabilita' dimos
 
 Le ricompense e gli organi competenti a concederle sono previsti dal regolamento.
 
-##### Art. 38
+#### Art. 38
 
 Infrazioni disciplinari
 
@@ -1078,7 +1076,7 @@ Nell'applicazione delle sanzioni bisogna tener conto, oltre che della natura e d
 
 Le sanzioni sono eseguite nel rispetto della personalita'.
 
-##### Art. 39
+#### Art. 39
 
 Sanzioni disciplinari
 
@@ -1098,7 +1096,7 @@ La sanzione della esclusione dalle attivita' in comune non puo' essere eseguita 
 
 L'esecuzione della sanzione della esclusione dalle attivita' in comune e' sospesa nei confronti delle donne gestanti e delle puerpere fino a sei mesi, e delle madri che allattino la propria prole fino ad un anno.
 
-##### Art. 40
+#### Art. 40
 
 Autorita' competente a deliberare le sanzioni
 
@@ -1106,7 +1104,7 @@ Le sanzioni del richiamo e della ammonizione sono deliberate dal direttore.
 
 ((Le altre sanzioni sono deliberate dal consiglio di disciplina, composto dal direttore o, in caso di suo legittimo impedimento, dall'impiegato piu' elevato in grado con funzioni di presidente, dall'educatore e da un professionista esperto nominato ai sensi dell'articolo 80.))
 
-##### Art. 41
+#### Art. 41
 
 Impiego della forza fisica e uso dei mezzi di coercizione
 
@@ -1120,7 +1118,7 @@ L'uso deve essere limitato al tempo strettamente necessario e deve essere costan
 
 Gli agenti in servizio nell'interno degli istituti non possono portare armi se non nei casi eccezionali in cui cio' venga ordinato dal direttore.
 
-##### Art. 41-bis - Situazioni di emergenza
+#### Art. 41-bis - Situazioni di emergenza
 
 1\. In casi eccezionali di rivolta o di altre gravi situazioni di emergenza, il Ministro della giustizia ha facolta' di sospendere nell'istituto interessato o in parte di esso l'applicazione delle normali regole di trattamento dei detenuti e degli internati. La sospensione deve essere motivata dalla necessita' di ripristinare l'ordine e la sicurezza e ha la durata strettamente necessaria al conseguimento del fine suddetto.
 
@@ -1216,7 +1214,7 @@ AGGIORNAMENTO (122)
 
 La Corte Costituzionale, con sentenza 25 febbraio - 18 marzo 2025 (in G.U. 1ª s.s. 19/03/2025, n. 12), ha dichiarato "l'illegittimita' costituzionale dell'art. 41-bis, comma 2-quater, lettera f), primo periodo, della legge 26 luglio 1975, n. 354 (Norme sull'ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della liberta'), limitatamente all'inciso «, ad una durata non superiore a due ore al giorno fermo restando il limite minimo di cui al primo comma dell'articolo 10»".
 
-##### Art. 42 - Trasferimenti
+#### Art. 42 - Trasferimenti
 
 I trasferimenti sono disposti per gravi e comprovati motivi di sicurezza, per esigenze dell'istituto, per motivi di giustizia, di salute, di studio e familiari.
 
@@ -1230,7 +1228,7 @@ COMMA ABROGATO DALLA L. 12 DICEMBRE 1992, N. 492.
 
 COMMA ABROGATO DALLA L. 12 DICEMBRE 1992, N. 492.
 
-##### Art. 42-bis
+#### Art. 42-bis
 
 (((Traduzioni).
 
@@ -1250,7 +1248,7 @@ E' vietato l'uso di qualsiasi altro mezzo di coercizione fisica.
 
 7\. Nelle traduzioni individuali e collettive e' consentito, nei casi indicati dal regolamento, l'uso di abiti civili. Le traduzioni dei soggetti di cui al comma 3 sono eseguite, di regola, in abiti civili)).
 
-##### Art. 43
+#### Art. 43
 
 Dimissione
 
@@ -1268,7 +1266,7 @@ I soggetti, che ne sono privi, vengono provvisti di un corredo di vestiario civi
 
 L'amministrazione penitenziaria a tal fine si avvale della collaborazione degli enti locali.))
 
-##### Art. 44
+#### Art. 44
 
 Nascite, matrimoni, decessi
 
@@ -1278,9 +1276,9 @@ La direzione dell'istituto deve dare immediata notizia del decesso di un detenut
 
 La salma e' messa immediatamente a disposizione dei congiunti.
 
-## Capo V - ASSISTENZA
+### Capo V - ASSISTENZA
 
-##### Art. 45
+#### Art. 45
 
 Assistenza alle famiglie ((e aiuti economico-sociali))
 
@@ -1292,7 +1290,7 @@ E' utilizzata, all'uopo, la collaborazione degli enti pubblici e privati qualifi
 
 ((Ai fini della realizzazione degli obiettivi indicati dall'articolo 3, commi 2 e 3, della legge 8 novembre 2000, n. 328, il detenuto o l'internato privo di residenza anagrafica e' iscritto, su segnalazione del direttore, nei registri della popolazione residente del comune dove e' ubicata la struttura. Al condannato e' richiesto di optare tra il mantenimento della precedente residenza anagrafica e quella presso la struttura ove e' detenuto o internato. L'opzione puo' essere in ogni tempo modificata.))
 
-##### Art. 46
+#### Art. 46
 
 Assistenza post-penitenziaria
 
@@ -1304,9 +1302,9 @@ I dimessi affetti da gravi infermita' fisiche o da infermita' o anormalita' psic
 
 ((Coloro che hanno terminato l'espiazione della pena o che non sono piu' sottoposti a misura di sicurezza detentiva e che versano in stato di disoccupazione ai sensi dell'articolo 19 del decreto legislativo 14 settembre 2015, n. 150, accedono, nei limiti delle risorse disponibili a legislazione vigente, all'assegno di ricollocazione di cui all'articolo 23 del citato decreto, se ne fanno richiesta nel termine di sei mesi dalla data della dimissione.))
 
-## Capo VI - MISURE ALTERNATIVE ALLA DETENZIONE E REMISSIONE DEL DEBITO
+### Capo VI - MISURE ALTERNATIVE ALLA DETENZIONE E REMISSIONE DEL DEBITO
 
-##### Art. 47 - Affidamento in prova al servizio sociale
+#### Art. 47 - Affidamento in prova al servizio sociale
 
 1\. Se la pena detentiva inflitta non supera tre anni, il condannato puo' essere affidato al servizio sociale fuori dell'istituto per un periodo uguale a quello della pena da scontare.(13) (22)
 
@@ -1374,11 +1372,11 @@ AGGIORNAMENTO (61)
 
 La Corte costituzionale, con sentenza 5 - 16 marzo 2007, n. 78 (in G.U. 1a s.s. 21.03.2007 n. 12) ha dichiarato l'illegittimita' costituzionale degli artt. 47, 48 e 50 della legge 26 luglio 1975, n. 354 (Norme sull'ordinamento penitenziario e sull'esecuzione delle misure privative e limitative della liberta), ove interpretati nel senso che allo straniero extracomunitario, entrato illegalmente nel territorio dello Stato o privo del permesso di soggiorno, sia in ogni caso precluso l'accesso alle misure alternative da essi previste.
 
-##### Art. 47-bis
+#### Art. 47-bis
 
 ((ARTICOLO ABROGATO DALLA LEGGE 27 MAGGIO 1998, N.165))
 
-##### Art. 47-ter - Detenzione domiciliare
+#### Art. 47-ter - Detenzione domiciliare
 
 01\. La pena della reclusione per qualunque reato, ad eccezione di quelli previsti dal libro II, titolo XII, capo III, sezione I, e dagli articoli 609-bis, 609-quater e 609-octies del codice penale, dall'articolo 51, comma 3-bis, del codice di procedura penale e dall'articolo 4-bis della presente legge, puo' essere espiata nella propria abitazione o in altro luogo pubblico di cura, assistenza ed accoglienza, quando trattasi di persona che, al momento dell'inizio dell'esecuzione della pena, o dopo l'inizio della stessa, abbia compiuto i settanta anni di eta' purche' non sia stato dichiarato delinquente abituale, professionale o per tendenza ne' sia stato mai condannato con l'aggravante di cui all'articolo 99 del codice penale. ((109))
 
@@ -1468,7 +1466,7 @@ AGGIORNAMENTO (109)
 
 La Corte Costituzionale, con sentenza 9 - 31 marzo 2021, n. 56 (in G.U. 1ª s.s. 07/04/2021, n. 14), ha dichiarato "l'illegittimita' costituzionale dell'art. 47-ter, comma 01, della legge 26 luglio 1975, n. 354 (Norme sull'ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della liberta'), limitatamente alle parole «ne' sia stato mai condannato con l'aggravante di cui all'articolo 99 del codice penale»".
 
-##### Art. 47-quater
+#### Art. 47-quater
 
 (((Misure alternative alla detenzione nei confronti
 
@@ -1496,7 +1494,7 @@ immunitaria).
 
 10\. Le disposizioni del presente articolo si applicano anche alle persone internate)).
 
-##### Art. 47-quinquies - Detenzione domiciliare speciale
+#### Art. 47-quinquies - Detenzione domiciliare speciale
 
 1\. Quando non ricorrono le condizioni di cui all'articolo 47-ter, le condannate madri di prole di eta' non superiore ad anni dieci, se non sussiste un concreto pericolo di commissione di ulteriori delitti e se vi e' la possibilita' di ripristinare la convivenza con i figli, possono essere ammesse ad espiare la pena nella propria abitazione, o in altro luogo di privata dimora, ovvero in luogo di cura, assistenza o accoglienza, al fine di provvedere alla cura e alla assistenza dei figli, dopo l'espiazione di almeno un terzo della pena ovvero dopo l'espiazione di almeno quindici anni nel caso di condanna all'ergastolo, secondo le modalita' di cui al comma 1-bis.(111)
 
@@ -1544,7 +1542,7 @@ AGGIORNAMENTO (124)
 
 La Corte Costituzionale, con sentenza 10 marzo - 18 aprile 2025, n. 52 (in G.U. 1ª s.s. 23/04/2025, n. 17), ha dichiarato "l'illegittimita' costituzionale dell'art. 47-quinquies, comma 7, della legge 26 luglio 1975, n. 354 (Norme sull'ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della liberta'), limitatamente alle parole «e non vi e' modo di affidare la prole ad altri che al padre»".
 
-##### Art. 47-sexies
+#### Art. 47-sexies
 
 (((Allontanamento dal domicilio senza giustificato
 
@@ -1558,7 +1556,7 @@ motivo).
 
 4\. Le disposizioni di cui al presente articolo si applicano al padre detenuto, qualora la detenzione domiciliare sia stata concessa a questi, ai sensi dell'articolo 47-quinquies, comma 7)).
 
-##### Art. 48
+#### Art. 48
 
 Regime di semiliberta'
 
@@ -1574,11 +1572,11 @@ AGGIORNAMENTO (61)
 
 La Corte Costituzionale con sentenza 5-16 marzo, n. 78 (in G.U. 1a s.s. 21/03/2007, n. 12) ha dichiarato l'illegittimita' costituzionale degli artt. 47, 48 e 50 della legge 26 luglio 1975, n. 354 (Norme sull'ordinamento penitenziario e sull'esecuzione delle misure privative e limitative della liberta), ove interpretati nel senso che allo straniero extracomunitario, entrato illegalmente nel territorio dello Stato o privo del permesso di soggiorno, sia in ogni caso precluso l'accesso alle misure alternative da essi previste.
 
-##### Art. 49
+#### Art. 49
 
 ((ARTICOLO ABROGATO DALLA L. 24 NOVEMBRE 1981, N. 689))
 
-##### Art. 50 - Ammissione alla semiliberta'
+#### Art. 50 - Ammissione alla semiliberta'
 
 1\. Possono essere espiate in regime di semiliberta' la pena dell'arresto e la pena della reclusione non superiore a sei mesi, se il condannato non e' affidato in prova al servizio sociale.
 
@@ -1606,13 +1604,13 @@ AGGIORNAMENTO (103)
 
 La Corte Costituzionale, con sentenza 7 - 24 aprile 2020, n. 74 (in G.U. 1ª s.s. 29/04/2020, n. 18), ha dichiarato "l'illegittimita' costituzionale dell'art. 50, comma 6, della legge 26 luglio 1975, n. 354 (Norme sull'ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della liberta'), nella parte in cui non consente al magistrato di sorveglianza di applicare in via provvisoria la semiliberta', ai sensi dell'art. 47, comma 4, ordin. penit., in quanto compatibile, anche nell'ipotesi prevista dal terzo periodo del comma 2 dello stesso art. 50".
 
-##### Art. 50-bis
+#### Art. 50-bis
 
 ((ARTICOLO ABROGATO DAL D.L. 1 LUGLIO 2013, N. 78,
 
 CONVERTITO CON MODIFICAZIONI DALLA L. 9 AGOSTO 2013, N. 94))
 
-##### Art. 51
+#### Art. 51
 
 Sospensione e revoca del regime di semiliberta'
 
@@ -1626,13 +1624,13 @@ La denuncia per il delitto di cui al precedente comma importa la sospensione del
 
 All'internato ammesso al regime di semiliberta' che rimane assente dall'istituto senza giustificato motivo, per oltre tre ore, si applicano le disposizioni dell'ultimo comma dell'articolo 53.
 
-##### Art. 51-bis - Sopravvenienza di nuovi titoli di privazione della liberta'
+#### Art. 51-bis - Sopravvenienza di nuovi titoli di privazione della liberta'
 
 ((1. Quando, durante l'esecuzione di una misura alternativa alla detenzione, sopravviene un titolo esecutivo di altra pena detentiva, il pubblico ministero competente ai sensi dell'articolo 655 del codice di procedura penale informa immediatamente il magistrato di sorveglianza formulando contestualmente le proprie richieste. Il magistrato di sorveglianza, tenuto conto del cumulo delle pene, se rileva che permangono le condizioni di applicabilita' della misura in esecuzione, ne dispone con ordinanza la prosecuzione; in caso contrario, ne dispone la cessazione e ordina l'accompagnamento del condannato in istituto.))
 
 2\. Avverso il provvedimento di cui al comma 1 e' ammesso reclamo ai sensi dell'articolo 69-bis.
 
-##### Art. 51-ter
+#### Art. 51-ter
 
 (( (Sospensione cautelativa delle misure alternative).
 
@@ -1640,7 +1638,7 @@ All'internato ammesso al regime di semiliberta' che rimane assente dall'istituto
 
 2\. Nell'ipotesi di cui al comma 1, il magistrato di sorveglianza puo' disporre con decreto motivato la provvisoria sospensione della misura alternativa e ordinare l'accompagnamento in istituto del trasgressore. Il provvedimento di sospensione perde efficacia se la decisione del tribunale non interviene entro trenta giorni dalla ricezione degli atti. ))
 
-##### Art. 51-quater
+#### Art. 51-quater
 
 (( (Disciplina delle pene accessorie in caso di concessione di misure alternative).
 
@@ -1648,7 +1646,7 @@ All'internato ammesso al regime di semiliberta' che rimane assente dall'istituto
 
 2\. In caso di revoca della misura, ove disposta l'applicazione delle pene accessorie ai sensi del comma 1, l'esecuzione ne viene sospesa, ma il periodo gia' espiato e' computato ai fini della loro durata. ))
 
-##### Art. 52
+#### Art. 52
 
 Licenza al condannato ammesso al regime di semiliberta'
 
@@ -1660,7 +1658,7 @@ Se il condannato durante la licenza trasgredisce agli obblighi impostigli, la li
 
 Al condannato che, allo scadere della licenza o dopo la revoca di essa, non rientra in istituto sono applicabili le disposizioni di cui al precedente articolo.
 
-##### Art. 53
+#### Art. 53
 
 Licenze agli internati
 
@@ -1676,7 +1674,7 @@ Se l'internato durante la licenza trasgredisce agli obblighi impostigli, la lice
 
 L'internato che rientra in istituto dopo tre ore dallo scadere della licenza, senza giustificato motivo, e' punito in via disciplinare e, se in regime di semiliberta', puo' subire la revoca della concessione.
 
-##### Art. 53-bis
+#### Art. 53-bis
 
 (((Computo del periodo di permesso o licenza)
 
@@ -1684,7 +1682,7 @@ L'internato che rientra in istituto dopo tre ore dallo scadere della licenza, se
 
 2\. Avverso il decreto puo' essere proposto dall'interessato reclamo al tribunale di sorveglianza secondo la procedura di cui all'articolo 14-ter. il magistrato che ha emesso il provvedimento non fa parte del Collegio)).
 
-##### Art. 54 - Liberazione anticipata
+#### Art. 54 - Liberazione anticipata
 
 1\. Al condannato a pena detentiva che ha dato prova di partecipazione all'opera di rieducazione e' concessa, quale riconoscimento di tale partecipazione, e ai fini del suo piu' efficace reinserimento nella societa', una detrazione di quarantacinque giorni per ogni singolo semestre di pena scontata. A tal fine e' valutato anche il periodo trascorso in stato di custodia cautelare o di detenzione domiciliare.
 
@@ -1712,7 +1710,7 @@ AGGIORNAMENTO (77)
 
 Il D.L. 23 dicembre 2013, n. 146, convertito con modificazioni dalla L. 21 febbraio 2014, n. 10, ha disposto (con l'art. 4, comma 1) che "Ad esclusione dei condannati per taluno dei delitti previsti dall'articolo 4-bis della legge 26 luglio 1975, n. 354, e successive modificazioni, per un periodo di due anni dalla data di entrata in vigore del presente decreto, la detrazione di pena concessa con la liberazione anticipata prevista dall'articolo 54 della legge 26 luglio 1975, n. 354 e' pari a settantacinque giorni per ogni singolo semestre di pena scontata".
 
-##### Art. 55
+#### Art. 55
 
 (((Interventi del servizio sociale nella liberta'
 
@@ -1720,17 +1718,17 @@ vigilata.)
 
 Nei confronti dei sottoposti alla liberta' vigilata, ferme restando le disposizioni di cui all'articolo 228 del codice penale, il servizio sociale svolge interventi di sostegno e di assistenza al fine del loro reinserimento sociale)).
 
-##### Art. 56
+#### Art. 56
 
 ((ARTICOLO ABROGATO DAL D.P.R 30 MAGGIO 2002, N. 115))
 
-##### Art. 57
+#### Art. 57
 
 (( (Legittimazione alla richiesta di misure).
 
 1\. Le misure alternative e quelle di cui agli articoli 30, 30-ter, 52, 53 e 54 nonche' all'articolo 6 del decreto del Presidente della Repubblica 30 maggio 2002, n. 115, possono essere richieste dal condannato, dall'internato, dai loro prossimi congiunti, dal difensore, ovvero proposte dal gruppo di osservazione e trattamento.))
 
-##### Art. 58
+#### Art. 58
 
 Comunicazione all'autorita' di pubblica sicurezza
 
@@ -1740,17 +1738,17 @@ Dei provvedimenti previsti dal presente capo ed adottati dal magistrato o dalla 
 
 Le attivita' di controllo sono svolte con modalita' tali da garantire il rispetto dei diritti dell'interessato e dei suoi familiari e conviventi, da recare il minor pregiudizio possibile al processo di reinserimento sociale e la minore interferenza con lo svolgimento di attivita' lavorative.))
 
-##### Art. 58-bis
+#### Art. 58-bis
 
 ((ARTICOLO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-##### Art. 58-ter - Persone che collaborano con la giustizia
+#### Art. 58-ter - Persone che collaborano con la giustizia
 
 1\. I limiti di pena previsti dalle disposizioni del comma 1 dell'articolo 21, del comma 4 dell'articolo 30- ter e del comma 2 dell'articolo 50, concernenti le persone condannate per taluno ((dei delitti indicati nei commi 1, 1-ter e 1quater)) dell'articolo 4- bis, non si applicano a coloro che, anche dopo la condanna, si sono adoperati per evitare che l'attivita' delittuosa sia portata a conseguenze ulteriori ovvero hanno aiutato concretamente l'autorita' di polizia o l'autorita' giudiziaria nella raccolta di elementi decisivi per la ricostruzione dei fatti e per l'individuazione o la cattura degli autori dei reati.
 
 2\. Le condotte indicate nel comma 1 sono accertate dal tribunale di sorveglianza, assunte le necessarie informazioni e sentito il pubblico ministero presso il giudice competente per i reati in ordine ai quali e' stata prestata la collaborazione.
 
-##### Art. 58-quater - Divieto di concessione di benefici
+#### Art. 58-quater - Divieto di concessione di benefici
 
 1\. L'assegnazione al lavoro all'esterno, i permessi premio, l'affidamento in prova al servizio sociale, nei casi previsti dall'articolo 47, la detenzione domiciliare e la semiliberta' non possono essere concessi al condannato che sia stato riconosciuto colpevole di una condotta punibile a norma dell'articolo 385 del codice penale. (62)(97)
 
@@ -1806,7 +1804,7 @@ AGGIORNAMENTO (131)
 
 La Corte Costituzionale, con sentenza 20 maggio - 24 luglio 2026, n. 149 (in G.U. 1ª s.s. 29/07/2026, n. 30) ha dichiarato "l'illegittimita' costituzionale dell'art. 58-quater, comma 3, della legge 26 luglio 1975, n. 354 (Norme sull'ordinamento penitenziario e sull'esecuzione delle misure privative e limitative della liberta'), nella parte in cui dispone che il divieto di concessione dei benefici ivi previsto opera per un periodo di tre anni dal momento in cui «e' stato emesso il provvedimento di revoca indicato nel comma 2», anziche' «per un periodo pari alla meta' della pena residua e, comunque, non superiore a tre anni, decorrente dal momento in cui e' stato emesso il provvedimento di revoca indicato nel comma 2»".
 
-##### Art. 58-quinquies
+#### Art. 58-quinquies
 
 (( (Particolari modalita' di controllo nell'esecuzione della detenzione domiciliare).
 
@@ -1818,7 +1816,7 @@ AGGIORNAMENTO (77)
 
 Il D.L. 23 dicembre 2013, n. 146, convertito con modificazioni dalla L. 21 febbraio 2014, n. 10, ha disposto (con l'art. 3, comma 2) che l'efficacia della modifica disposta al presente articolo "e' differita al giorno successivo a quello della pubblicazione nella Gazzetta Ufficiale della Repubblica italiana della legge di conversione del presente decreto".
 
-##### Art. 58-sexies
+#### Art. 58-sexies
 
 (( (Obblighi di comunicazione in favore della persona offesa e dei prossimi congiunti). ))
 
@@ -1828,11 +1826,9 @@ Il D.L. 23 dicembre 2013, n. 146, convertito con modificazioni dalla L. 21 febbr
 
 ## TITOLO II - DISPOSIZIONI RELATIVE ALLA ORGANIZZAZIONE PENITENZIARIA
 
-### Capo I
+### Capo I - ISTITUTI PENITENZIARI
 
-#### ISTITUTI PENITENZIARI
-
-##### Art. 59
+#### Art. 59
 
 Istituti per adulti
 
@@ -1846,7 +1842,7 @@ Gli istituti per adulti dipendenti dall'amministrazione penitenziaria si disting
 
 4\) centri di osservazione.
 
-##### Art. 60
+#### Art. 60
 
 Istituti di custodia preventiva
 
@@ -1860,7 +1856,7 @@ Le case mandamentali e circondariali assicurano altresi' la custodia delle perso
 
 Puo' essere istituita una sola casa mandamentale o circondariale rispettivamente per piu' mandamenti o circondari.
 
-##### Art. 61
+#### Art. 61
 
 Istituti per l'esecuzione delle pene
 
@@ -1876,7 +1872,7 @@ Sezioni di case di reclusione possono essere istituite presso le case di custodi
 
 Per esigenze particolari, e nei limiti e con le modalita' previste dal regolamento, i condannati alla pena dell'arresto o della reclusione possono essere assegnati alle case di custodia preventiva; i condannati alla pena della reclusione possono essere altresi' assegnati alle case di arresto.
 
-##### Art. 62
+#### Art. 62
 
 Istituti per l'esecuzione delle misure di sicurezza detentive
 
@@ -1900,7 +1896,7 @@ sezioni per l'esecuzione della misura di sicurezza della casa di cura e di custo
 
 sezioni per l'esecuzione delle misure di sicurezza della colonia agricola e della casa di lavoro presso le case di reclusione.
 
-##### Art. 63
+#### Art. 63
 
 Centri di osservazione
 
@@ -1914,13 +1910,13 @@ Su richiesta dell'autorita' giudiziaria possono essere assegnate ai detti centri
 
 I centri di osservazione svolgono, altresi', attivita' di ricerca scientifica.
 
-##### Art. 64
+#### Art. 64
 
 Differenziazione degli istituti per l'esecuzione delle pene e delle misure di sicurezza
 
 I singoli istituti devono essere organizzati con caratteristiche differenziate in relazione alla posizione giuridica dei detenuti e degli internati e alle necessita' di trattamento individuale o di gruppo degli stessi.
 
-##### Art. 65
+#### Art. 65
 
 Istituti per infermi e minorati
 
@@ -1928,13 +1924,13 @@ I soggetti affetti da infermita' o minorazioni fisiche o psichiche devono essere
 
 A tali istituti o sezioni sono assegnati i soggetti che, a causa delle loro condizioni, non possono essere sottoposti al regime degli istituti ordinari.
 
-##### Art. 66
+#### Art. 66
 
 Costituzione, trasformazione e soppressione degli istituti
 
 La costituzione, la trasformazione, la soppressione degli istituti penitenziari nonche' delle sezioni sono disposte con decreto ministeriale.
 
-##### Art. 67
+#### Art. 67
 
 Visite agli istituti
 
@@ -1972,15 +1968,15 @@ Gli ufficiali e gli agenti di polizia giudiziaria possono accedere agli istituti
 
 Possono accedere agli istituti, con l'autorizzazione del direttore, i ministri del culto cattolico e di altri culti.
 
-##### Art. 67-bis
+#### Art. 67-bis
 
 (( (Visite alle camere di sicurezza).
 
 1\. Le disposizioni di cui all'articolo 67 si applicano anche alle camere di sicurezza)).
 
-## Capo II - GIUDICI DI SORVEGLIANZA
+### Capo II - GIUDICI DI SORVEGLIANZA
 
-##### Art. 68 - Uffici di sorveglianza
+#### Art. 68 - Uffici di sorveglianza
 
 1\. Gli uffici di sorveglianza sono costituiti nelle sedi di cui alla tabella A allegata alla presente legge e hanno giurisdizione sulle circoscrizioni dei tribunali in essa indicati.
 
@@ -1990,7 +1986,7 @@ Possono accedere agli istituti, con l'autorizzazione del direttore, i ministri d
 
 4\. I magistrati che esercitano funzioni di sorveglianza non debbono essere adibiti ad altre funzioni giudiziarie. Possono altresi' avvalersi, con compiti meramente ausiliari nell'esercizio delle loro funzioni, di assistenti volontari individuati sulla base dei criteri indicati nell'articolo 78, la cui attivita' non puo' essere retribuita.
 
-##### Art. 69 - Funzioni e provvedimenti del magistrato di sorveglianza
+#### Art. 69 - Funzioni e provvedimenti del magistrato di sorveglianza
 
 1\. Il magistrato di sorveglianza vigila sulla organizzazione degli istituti di prevenzione e di pena e prospetta al Ministro le esigenze dei vari servizi, con particolare riguardo alla attuazione del trattamento rieducativo.
 
@@ -2030,7 +2026,7 @@ AGGIORNAMENTO (60)
 
 La Corte Costituzionale, con sentenza 23-27 ottobre 2006, n. 341 (in G.U. 1a s.s. 02/11/2006, n. 1000) come modificata dal Comunicato 23 ottobre 2006, n. 341 (in G.U. 1a s.s. 8/11/2006, n. 44) ha dichiarato l'illegittimita' costituzionale dell'art. 69, sesto comma, lettera a), della legge 26 luglio 1975, n. 354 (Norme sull'ordinamento penitenziario e sull'esecuzione delle misure privative e limitative della liberta).
 
-##### Art. 69-bis - Procedimento in materia di liberazione anticipata
+#### Art. 69-bis - Procedimento in materia di liberazione anticipata
 
 1\. In occasione di ogni istanza di accesso alle misure alternative alla detenzione o ad altri benefici analoghi, rispetto ai quali nel computo della misura della pena espiata e' rilevante la liberazione anticipata ai sensi dell'articolo 54, comma 4, il magistrato di sorveglianza accerta la sussistenza dei presupposti per la concessione della liberazione anticipata in relazione ad ogni semestre precedente. L'istanza di cui al periodo precedente puo' essere presentata a decorrere dal termine di novanta giorni antecedente al maturare dei presupposti per l'accesso alle misure alternative alla detenzione o agli altri benefici analoghi, come individuato computando le detrazioni previste dall'articolo 54.
 
@@ -2048,7 +2044,7 @@ AGGIORNAMENTO (127)
 
 La Corte Costituzionale, con sentenza 20 ottobre - 29 dicembre 2025, n. 201 (in G.U. 1ª s.s. 31/12/2025, n. 53), ha dichiarato "l'illegittimita' costituzionale dell'art. 69-bis, comma 3, della legge 26 luglio 1975, n. 354 (Norme sull'ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della liberta'), come sostituito dall'art. 5, comma 3, del decreto-legge 4 luglio 2024, n. 92 (Misure urgenti in materia penitenziaria, di giustizia civile e penale e di personale del Ministero della giustizia), convertito, con modificazioni, nella legge 8 agosto 2024, n. 112, limitatamente alle parole «quando vi abbia uno specifico interesse, diverso da quelli di cui ai commi 1 e 2, che deve essere indicato, a pena di inammissibilita', nell'istanza medesima»".
 
-##### Art. 70 - Funzioni e provvedimenti della sezione di sorveglianza
+#### Art. 70 - Funzioni e provvedimenti della sezione di sorveglianza
 
 1\. In ciascun distretto di corte d'appello e in ciascuna circoscrizione territoriale di sezione distaccata di corte d'appello e' costituito un tribunale di sorveglianza competente per l'affidamento in prova al servizio sociale, la detenzione domiciliare, la detenzione domiciliare speciale, la semiliberta', la liberazione condizionale, ((...)) la revoca o cessazione dei suddetti benefici ((nonche' della riduzione di pena per la liberazione anticipata)), il rinvio obbligatorio o facoltativo dell'esecuzione delle pene detentive ai sensi degli articoli 146 e 147, numeri 2) e 3), del codice penale, nonche' per ogni altro provvedimento ad esso attribuito dalla legge.
 
@@ -2068,7 +2064,7 @@ La Corte Costituzionale, con sentenza 20 ottobre - 29 dicembre 2025, n. 201 (in 
 
 9\. COMMA ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115.
 
-##### Art. 70-bis
+#### Art. 70-bis
 
 (((Presidente del tribunale di sorveglianza).
 
@@ -2088,7 +2084,7 @@ e) a proporre al Consiglio superiore della magistratura la nomina degli esperti 
 
 f) a svolgere tutte le altre attivita' a lui riservate dalla legge e dai regolamenti)).
 
-##### Art. 70-ter
+#### Art. 70-ter
 
 (((Nuove denominazioni).
 
@@ -2096,9 +2092,9 @@ f) a svolgere tutte le altre attivita' a lui riservate dalla legge e dai regolam
 
 2\. Per il funzionamento del tribunale di sorveglianza nonche' degli uffici di sorveglianza di cui all'articolo 68 si provvede con assegnazioni dirette di fondi e di attrezzature mediante prelievo delle somme necessarie dagli appositi capitoli del bilancio di previsione del Ministero di grazia e giustizia)).
 
-## ((Capo II-bis - PROCEDIMENTO DI SORVEGLIANZA))
+### ((Capo II-bis - PROCEDIMENTO DI SORVEGLIANZA))
 
-##### Art. 71
+#### Art. 71
 
 (((Norme generali).
 
@@ -2112,7 +2108,7 @@ f) a svolgere tutte le altre attivita' a lui riservate dalla legge e dai regolam
 
 5\. Le disposizioni contenute nel capo I del titolo V del libro IV del codice di procedura penale sono applicabili in quanto non diversamente disposto dalla presente legge. L'articolo 641 del codice di procedura penale resta in vigore limitatamente ai casi di cui all'articolo 212 dello stesso codice)).
 
-##### Art. 71-bis
+#### Art. 71-bis
 
 (((Udienza).
 
@@ -2124,23 +2120,23 @@ I provvedimenti della sezione e del magistrato di sorveglianza sono emessi sulla
 
 L'ordinanza che conclude il procedimento di sorveglianza e' comunicata al pubblico ministero, all'interessato e al difensore nel termine di dieci giorni dalla data della deliberazione)).
 
-##### Art. 71-ter
+#### Art. 71-ter
 
 (((Ricorso per cassazione).
 
 1\. Avverso le ordinanze del tribunale di sorveglianza e del magistrato di sorveglianza, il pubblico ministero, l'interessato e, nei casi di cui agli articoli 14-ter e 69, comma 6, l'amministrazione penitenziaria, possono proporre ricorso per cassazione per violazione di legge entro dieci giorni dalla comunicazione del provvedimento. Si applicano le disposizioni del terzo comma dell'articolo 640 del codice di procedura penale. Si applica, altresi', l'ultimo comma dell'articolo 631 del codice di procedura penale)).
 
-##### Art. 71-quater
+#### Art. 71-quater
 
 (((Comunicazioni).
 
 Le comunicazioni all'interessato degli avvisi e dei provvedimenti previsti negli articoli precedenti sono effettuati ai sensi dell'articolo 645 del codice di procedura penale)).
 
-##### Art. 71-quinquies
+#### Art. 71-quinquies
 
 ((ARTICOLO ABROGATO DALLA L. 10 OTTOBRE 1986, N. 663)).
 
-##### Art. 71-sexies
+#### Art. 71-sexies
 
 (((Inammissibilita').
 
@@ -2150,9 +2146,9 @@ Il decreto e' comunicato entro cinque giorni all'interessato, il quale ha facolt
 
 A seguito dell'opposizione, il presidente della sezione da' corso al procedimento di sorveglianza)).
 
-## Capo III - ((ESECUZIONE PENALE ESTERNA ED ASSISTENZA))
+### Capo III - ((ESECUZIONE PENALE ESTERNA ED ASSISTENZA))
 
-##### Art. 72 - Uffici locali di esecuzione penale esterna
+#### Art. 72 - Uffici locali di esecuzione penale esterna
 
 1\. Gli uffici locali di esecuzione penale esterna dipendono dal Ministero della giustizia e la loro organizzazione e' disciplinata con regolamento adottato dal Ministro ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, e successive modificazioni.
 
@@ -2170,7 +2166,7 @@ e) su richiesta delle direzioni degli istituti penitenziari, prestano consulenza
 
 f) svolgono ogni altra attivita' prescritta dalla legge e dal regolamento.
 
-##### Art. 73
+#### Art. 73
 
 Cassa per il soccorso e l'assistenza alle vittime del delitto
 
@@ -2196,7 +2192,7 @@ Il patrimonio della cassa e' costituito, oltre che dai lasciti, donazioni o altr
 
 I fondi della cassa sono destinati a soccorrere e ad assistere le vittime che a causa del delitto si trovino in condizioni di comprovato bisogno.
 
-##### Art. 74
+#### Art. 74
 
 Consigli di aiuto sociale
 
@@ -2226,7 +2222,7 @@ Alle spese necessarie per lo svolgimento dei compiti del consiglio di aiuto soci
 
 Il regolamento stabilisce l'organizzazione interna e le modalita' del funzionamento del consiglio di aiuto sociale, che delibera con la presenza di almeno sette componenti.
 
-##### Art. 75
+#### Art. 75
 
 Attivita' del consiglio di aiuto sociale per l'assistenza penitenziaria e post-penitenziaria
 
@@ -2250,13 +2246,13 @@ di addestramento e attivita' lavorative per i liberati che hanno bisogno di inte
 
 8\) collabora con i competenti organi per il coordinamento dell'attivita' assistenziale degli enti e delle associazioni pubbliche e private nonche' delle persone che svolgono opera di assistenza e beneficenza diretta ad assicurare il piu' efficace e appropriato intervento in favore dei liberati e dei familiari dei detenuti e degli internati.
 
-##### Art. 76
+#### Art. 76
 
 Attivita' del consiglio di aiuto sociale per il soccorso e l'assistenza alle vittime del delitto
 
 Il consiglio di aiuto sociale presta soccorso, con la concessione di sussidi in natura o in denaro, alle vittime del delitto e provvede all'assistenza in favore dei minorenni orfani a causa del delitto.
 
-##### Art. 77
+#### Art. 77
 
 Comitato per l'occupazione degli assistiti dal consiglio di aiuto sociale
 
@@ -2268,7 +2264,7 @@ I componenti del comitato sono nominati dal presidente del consiglio di aiuto so
 
 Il comitato delibera con la presenza di almeno cinque componenti.
 
-##### Art. 78
+#### Art. 78
 
 Assistenti volontari
 
@@ -2280,9 +2276,9 @@ L'attivita' prevista nei commi precedenti non puo' essere retribuita.
 
 Gli assistenti volontari possono collaborare coi centri di servizio sociale per l'affidamento in prova, per il regime di semiliberta' e per l'assistenza ai dimessi e alle loro famiglie.
 
-## Capo IV - DISPOSIZIONI FINALI E TRANSITORIE
+### Capo IV - DISPOSIZIONI FINALI E TRANSITORIE
 
-##### Art. 79
+#### Art. 79
 
 (((Minori degli anni diciotto sottoposti a misure penali.
 
@@ -2294,7 +2290,7 @@ Nei confronti dei minori di cui al comma precedente e dei soggetti maggiorenni c
 
 Al giudice di sorveglianza per i minorenni non si applica l'ultimo comma dell'articolo 68)).
 
-##### Art. 80
+#### Art. 80
 
 Personale dell'amministrazione degli istituti di prevenzione e di pena
 
@@ -2312,7 +2308,7 @@ A tal fine la dotazione organica degli operai dell'amministrazione degli istitut
 
 Le modalita' relative all'assunzione di detto personale saranno stabilite dal regolamento di esecuzione.
 
-##### Art. 81
+#### Art. 81
 
 Attribuzioni degli assistenti sociali
 
@@ -2320,7 +2316,7 @@ Gli assistenti sociali della carriera direttiva esercitano le attribuzioni previ
 
 ((Gli assistenti sociali della carriera di concetto esercitano le attivita' indicate nell'articolo 72 della presente legge nell'ambito dei centri di servizio sociale. Essi espletano compiti di vigilanza e di assistenza nei confronti dei sottoposti a misure alternative alla detenzione nonche' compiti di sostegno e di assistenza nei confronti dei sottoposti alla liberta' vigilata; partecipano, inoltre, alle attivita' di assistenza ai dimessi)).
 
-##### Art. 82
+#### Art. 82
 
 Attribuzioni degli educatori
 
@@ -2330,7 +2326,7 @@ Essi svolgono, quando sia consentito, attivita' educative anche nei confronti de
 
 Collaborano, inoltre, nella tenuta della biblioteca e nella distribuzione dei libri, delle riviste e dei giornali.
 
-##### Art. 83
+#### Art. 83
 
 Ruoli organici del personale di servizio sociale e degli educatori
 
@@ -2346,7 +2342,7 @@ Gli impiegati della carriera direttiva di servizio sociale che al 1 luglio 1970 
 
 La nomina e' effettuata, nei limiti dei posti disponibili, con decreto del Ministro, previo parere favorevole del consiglio di amministrazione sulla base dei rapporti informativi e dei giudizi complessivi conseguiti dagli interessati.
 
-##### Art. 84
+#### Art. 84
 
 Concorso per esame speciale per l'accesso al ruolo della carriera di concetto degli assistenti sociali per adulti
 
@@ -2392,19 +2388,19 @@ Nei confronti di coloro che sono inquadrati nella prima o nella seconda classe d
 
 Entro tre mesi dalla data di pubblicazione del decreto di nomina i vincitori del concorso hanno facolta' di chiedere il riscatto degli anni di servizio prestato ai sensi del terzo comma del presente articolo, ai fini del trattamento di quiescenza e della indennita' di buonuscita.
 
-##### Art. 85
+#### Art. 85
 
 Accesso alla carriera direttiva di servizio sociale
 
 Alla lettera e) dell'articolo 5 della legge 16 luglio 1962, n. 1085, sono soppresse le parole "istituita o autorizzata a norma di legge".
 
-##### Art. 86
+#### Art. 86
 
 Personale per gli uffici di sorveglianza
 
 Con decreti del Presidente della Repubblica, su proposta del Ministro per la grazia e giustizia, di concerto con il Ministro per il tesoro, e' determinato, entro sei mesi dalla entrata in vigore della presente legge, il contingente dai magistrati e del personale di cui all'articolo 68 da assegnare a ciascun ufficio di sorveglianza nei limiti delle attuali complessive dotazioni organiche.
 
-##### Art. 87
+#### Art. 87
 
 Norme di esecuzione
 
@@ -2416,23 +2412,23 @@ Entro il termine indicato nel primo comma dovranno essere emanate le norme che d
 
 Le disposizioni concernenti l'affidamento al servizio sociale e il regime di semiliberta' entreranno in vigore un anno dopo la pubblicazione della presente legge nella Gazzetta Ufficiale.
 
-##### Art. 88
+#### Art. 88
 
 Attuazione dei ruoli del personale
 
 L'istituzione del ruolo organico del personale di concetto di servizio sociale per adulti, l'ampliamento del ruolo organico del personale direttivo di servizio sociale, l'istituzione del ruolo organico della carriera di concetto degli educatori per adulti e l'ampliamento del ruolo degli operai specializzati addetti agli ospedali psichiatrici e alle case di cura e di custodia, previsti dalla presente legge, saranno attuati entro un periodo di sette anni.
 
-##### Art. 89
+#### Art. 89
 
 Norme abrogate
 
 Sono abrogati gli articoli 141, 142, 143, 144, 149 e l'ultimo capoverso dell'articolo 207 del codice penale, l'articolo 585 del codice di procedura penale nonche' ogni altra norma incompatibile con la presente legge.
 
-##### Art. 90
+#### Art. 90
 
 ((ARTICOLO ABROGATO DALLA L. 10 OTTOBRE 1986, N. 663))
 
-##### Art. 91
+#### Art. 91
 
 Copertura finanziaria
 
@@ -2450,9 +2446,9 @@ MORO - REALE - COLOMBO
 
 Visto, il Guardasigilli: REALE
 
-## Capo IV - DISPOSIZIONI FINALI E TRANSITORIE
+### Capo IV - DISPOSIZIONI FINALI E TRANSITORIE
 
-##### Tabelle
+#### Tabelle
 
 Tabella A
 

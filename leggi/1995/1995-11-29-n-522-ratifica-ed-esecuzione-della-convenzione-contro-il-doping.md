@@ -27,21 +27,21 @@ Promulga
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la convenzione contro il doping, con appendice, fatta a Strasburgo il 16 novembre 1989.
 
-### Art. 2
+## Art. 2
 
 1\. Piena ed intera esecuzione e' data alla convenzione di cui all'articolo 1 a decorrere dalla sua entrata in vigore , in conformita' a quanto disposto dall'articolo 15 della convenzione stessa.
 
-### Art. 3
+## Art. 3
 
 1\. All'onere derivante dall'applicazione della presente legge, valutato in lire 6 milioni annue a decorrere dal 1995, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1995-1997, del capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1995, all'uopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri.
 
 2\. Il Ministero del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-### Art. 4
+## Art. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -59,7 +59,7 @@ Visto, il Guardasigilli: Dini
 
 ## Allegati
 
-### Convention
+## Convention
 
 CONVENTION CONTRE LE DOPAGE
 
@@ -97,13 +97,13 @@ Determinati tuttavia a proseguire ed a rafforzare la loro cooperazione in vista 
 
 Hanno convenuto quanto segue:
 
-### Articolo 1
+## Articolo 1
 
 Finalita' della Convenzione
 
 Le Parti, in vista della riduzione e della successiva eliminazione del "doping" nello sport, si impegnano ad adottare, entro i limiti delle loro rispettive norme costituzionali, i provvedimenti necessari per dare effetto alle disposizioni della presente Convenzione.
 
-### Articolo 2
+## Articolo 2
 
 Definizione e portata della Convenzione
 
@@ -117,7 +117,7 @@ c. Per sportivi" si intendono le persone di entrambi i sessi che partecipano abi
 
 Fin quando una lista di classi farmacologiche vietate di agenti di doping e di metodi di doping non e' stata approvata dal gruppo di vigilanza in virtu' dell'articolo 11.1b) sara' applicabile la lista di riferimento contenuta nell'Annesso alla presente Convenzione.
 
-### Articolo 3
+## Articolo 3
 
 Coordinamento a livello interno
 
@@ -125,7 +125,7 @@ Coordinamento a livello interno
 
 2\. Esse vigilano affinche' sia realizzata l'applicazione pratica di detta Convenzione ed in particolare affinche' siano soddisfatti i requisiti prescritti dall'Art.7, demandando, se del caso l'attuazione di alcune disposizioni della presente Convenzione ad una Autorita' sportiva governativa o non governativa designata a tal fine oppure ad una Organizzazione sportiva.
 
-### Articolo 4
+## Articolo 4
 
 Misure destinate a limitare la disponibilita' e l'utilizzazione di agenti di doping e di metodi di doping vietati
 
@@ -145,7 +145,7 @@ c. incoraggiano ed agevolano la conclusione, da parte delle organizzazioni sport
 
 4\. Le Parti si riservano il diritto di adottare regolamenti anti-doping e di organizzare controlli anti-doping di loro iniziativa e sotto la loro responsabilita', a patto che siano compatibili con i principi pertinenti della presente Convenzione.
 
-### Articolo 5
+## Articolo 5
 
 Laboratorio
 
@@ -163,7 +163,7 @@ b. intraprendere appropriati programmi di ricerca e di sviluppo concernenti gli 
 
 c. pubblicare e diffondere rapidamente i nuovi dati derivanti dalle ricerche.
 
-### Articolo 6
+## Articolo 6
 
 Istruzione
 
@@ -171,7 +171,7 @@ Istruzione
 
 2\. Le Parti si impegnano ad incoraggiare ed a promuovere in collaborazione con le organizzazioni sportive, regionali nazionali ed internazionali interessate, ricerche relative alla elaborazione di programmi di addestramento fisiologico e psicologico fondati su basi scientifiche e che rispettino l'integrita' della persona umana.
 
-### Articolo 7
+## Articolo 7
 
 Collaborazione con le organizzazioni sportive concernente i provvedimenti che queste ultime devono adottare.
 
@@ -211,7 +211,7 @@ e. utilizzare pienamente ed efficacemente le attrezzature poste a loro disposizi
 
 f. ricercare metodi scientifici di addestramento ed elaborare principi direttivi volti a proteggere gli sportivi di ogni eta' adattati ad ogni sport.
 
-### Articolo 8
+## Articolo 8
 
 Cooperazione internazionale
 
@@ -227,13 +227,13 @@ c. istituire una cooperazione bilaterale e multilaterale tra i loro organismi, a
 
 3\. Le Parti, che dispongono di laboratori istituiti o funzionanti in conformita' con i criteri definiti all'articolo 5, s'impegnano ad aiutare le altre parti ad acquisire l'esperienza, la competenza e le tecniche necessarie alla creazione dei loro laboratori.
 
-### Articolo 9
+## Articolo 9
 
 Comunicazione di informazioni
 
 Ciascuna Parte trasmette al Segretario Generale del Consiglio d'Europa, in una delle lingue ufficiali del Consiglio d'Europa tutte le informazioni pertinenti relative ai provvedimenti legislativi o altri che essa avra' adottato al fine di conformarsi alle disposizioni della presente Convenzione.
 
-### Articolo 10
+## Articolo 10
 
 Gruppo di vigilanza
 
@@ -253,7 +253,7 @@ Gruppo di vigilanza
 
 8\. Fatte salve le disposizioni della presente Convenzione, il gruppo di vigilanza stabilisce il proprio regolamento interno e lo adotta per consenso.
 
-### Articolo 11
+## Articolo 11
 
 1\. Il gruppo di vigilanza e' incaricato di seguire l'applicazione della presente Convenzione. In particolare esso puo':
 
@@ -273,11 +273,11 @@ g. formulare ogni proposta volta a migliorare l'efficacia della presente Convenz
 
 2\. Ai fini dell'adempimento della sua missione, il gruppo di vigilanza puo', di sua iniziativa, prevedere riunioni di gruppi di esperti.
 
-### Articolo 12
+## Articolo 12
 
 Dopo ciascuna delle sue riunioni, il gruppo di vigilanza trasmette al Comitato dei Ministri del Consiglio d'Europa un rapporto sui suoi lavori e sul funzionamento della Convenzione.
 
-### Articolo 13
+## Articolo 13
 
 Emendamenti agli articoli della Convenzione
 
@@ -295,7 +295,7 @@ Emendamenti agli articoli della Convenzione
 
 ## CLAUSOLE FINALI
 
-### Articolo 14
+## Articolo 14
 
 1\. La presente Convenzione e' aperta alla firma degli Stati membri del Consiglio d'Europa, degli altri Stati Parte della Convenzione culturale europea e degli Stati non membri che hanno partecipato alla elaborazione della presente Convenzione, che possono esprimere il loro consenso ad essere vincolati da:
 
@@ -305,19 +305,19 @@ b. la firma con riserva di ratifica, di accettazione o di approvazione, seguita 
 
 2\. Gli strumenti di ratifica, di accettazione o di approvazione saranno depositati presso il Segretario Generale del Consiglio d'Europa.
 
-### Articolo 15
+## Articolo 15
 
 1\. La Convenzione entrera' in vigore il primo giorno del mese successivo allo scadere del termine di un mese dopo la data alla quale cinque Stati, di cui almeno quattro Stati membri del Consiglio d'Europa avranno manifestato il loro consenso ad essere vincolati dalla Convenzione secondo le disposizioni dell'articolo 14.
 
 2\. Per ogni Stato firmatario che manifestera' successivamente il suo consenso ad essere vincolato dalla Convenzione, quest'ultima entrera' in vigore il primo giorno del mese successivo alla scadere del termine di un mese dopo la data della firma o del deposito dello strumento di ratifica, di accettazione o di approvazione.
 
-### Articolo 16
+## Articolo 16
 
 1\. Dopo l'entrata in vigore della presente Convenzione, il Comitato dei Ministri del Consiglio d'Europa, dopo consultazione delle Parti, potra' invitare ogni Stato non membro ad aderire alla Convenzione, mediante decisione presa dalla maggioranza prevista all'articolo 20.d dello Statuto del Consiglio d'Europa ed alla unanimita' dei rappresentanti degli Stati contraenti aventi diritto ad essere rappresentati al Comitato.
 
 2\. Per ogni Stato aderente, la Convenzione entrera' in vigore il primo giorno del mese successivo allo scadere di un termine di un mese dopo la data di deposito dello strumento di adesione presso il Segretario generale del Consiglio d'Europa.
 
-### Articolo 17
+## Articolo 17
 
 1\. Ogni Stato puo' all'atto della firma o al momento del deposito del suo strumento di ratifica, di accettazione, di approvazione o di adesione, firmare il territorio o i territori ai quali si applichera' la presente Convenzione.
 
@@ -325,13 +325,13 @@ b. la firma con riserva di ratifica, di accettazione o di approvazione, seguita 
 
 3\. Ogni dichiarazione formulata in virtu' dei due paragrafi precedenti potra' essere ritirata, per quanto riguarda ogni territorio designato in questa dichiarazione per mezzo di notifica indirizzata al Segretario Generale. Il ritiro avra' effetto il primo giorno del mese successivo allo scadere di un termine di sei mesi dopo la data di ricevimento della notifica da parte del Segretario Generale.
 
-### Articolo 18
+## Articolo 18
 
 1\. Ogni Parte puo' in ogni tempo denunciare la presente Convenzione, indirizzando una notifica al Segretario Generale del Consiglio d'Europa.
 
 2\. La denuncia avra' effetto il primo giorno del mese successivo allo scadere di un termine di 6 mesi dopo la data di ricevimento della notifica da parte del Segretario generale.
 
-### Articolo 19
+## Articolo 19
 
 Il Segretario Generale del Consiglio d'Europa notifica alle Parti, agli altri Stati membri del Consiglio d'Europa agli altri Stati Parti alla Convenzione culturale europea, agli Stati aventi partecipato alla elaborazione della presente Convenzione e ad ogni Stato che vi ha aderito o che e' stato invitato ad aderirvi:
 
@@ -359,7 +359,7 @@ Strasburgo, il 5 dicembre 1989
 
 Il Direttore degli Affari Giuridici del Consiglio d'Europa
 
-### Appendice
+## Appendice
 
 APPENDICE
 

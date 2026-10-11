@@ -249,7 +249,7 @@ Qualora l'interessato non possa far valere nello stesso momento le condizioni ri
 
 Se l'interessato ha diritto a prestazioni a carico delle Istituzioni di entrambi gli Stati contraenti e se la somma di queste prestazioni non raggiunge l'importo minimo di pensione previsto dalla legislazione dello Stato in cui l'interessato risiede, l'Istituzione competente di detto Stato concede, in aggiunta, l'importo necessario per raggiungere il suddetto minimo di pensione.
 
-## CAPITOLO II - PRESTAZIONI IN CASO DI INFORTUNIO SUL LAVORO E MALATTIE PROFESSIONALI NONCHE' IN CASO DI MATERNITA', MALATTIA O INFORTUNIO NON PROFESSIONALE.
+### CAPITOLO II - PRESTAZIONI IN CASO DI INFORTUNIO SUL LAVORO E MALATTIE PROFESSIONALI NONCHE' IN CASO DI MATERNITA', MALATTIA O INFORTUNIO NON PROFESSIONALE.
 
 #### ARTICOLO 19
 

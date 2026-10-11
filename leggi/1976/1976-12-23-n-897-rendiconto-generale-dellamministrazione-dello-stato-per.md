@@ -25,13 +25,13 @@ PROMULGA
 
 la seguente legge:
 
-#### ART. 1
+## ART. 1
 
 Il conto consuntivo dello Stato per l'esercizio 1975 e' approvato secondo le risultanze degli articoli seguenti.
 
 ## ENTRATE E SPESE DI COMPETENZA DELL'ESERCIZIO FINANZIARIO 1975
 
-#### ART. 2
+## ART. 2
 
 Le entrate tributarie, extra-tributarie, per
 
@@ -56,7 +56,7 @@ rimasero da versare.. " 876.275.099.799
  ------------------ e rimasero da riscuotere...................... L. 896.807.543.122 ==================
 ```
 
-#### ART. 3
+## ART. 3
 
 Le spese correnti, in conto capitale e per
 
@@ -70,7 +70,7 @@ delle quali furono pagate..................... " 28.821.148.096.626
 
 ------------------ e rimasero da pagare.......................... L. 11.380.309.520.467 ==================
 
-#### ART. 4
+## ART. 4
 
 Il riepilogo generale delle entrate e delle spese di competenza dell'esercizio 1975 risulta stabilito come segue:
 
@@ -84,7 +84,7 @@ Entrate complessive......................... L. 32.312.962.131.310 Spese comples
 
 ## ENTRATE E SPESE RESIDUE DELL'ESERCIZIO FINANZIARIO 1974 ED ESERCIZI - PRECEDENTI
 
-#### ART. 5
+## ART. 5
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -101,7 +101,7 @@ rimasero da versare.. " 796.006.630.801
  ------------------ e rimasero da riscuotere al 31 dicembre 1975.. L. 1.244.974.471.416 ==================
 ```
 
-#### ART. 6
+## ART. 6
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -113,7 +113,7 @@ dei quali furono pagati nel 1975.............. " 5.665.617.701.467
 
 ## RESIDUI ATTIVI E PASSIVI ALLA CHIUSURA DELL'ESERCIZIO FINANZIARIO - 1975
 
-#### ART. 7
+## ART. 7
 
 I residui attivi alla chiusura dell'esercizio 1975 risultano stabiliti nelle seguenti somme:
 
@@ -129,7 +129,7 @@ gli esercizi precedenti (articolo 5).......... " 1.244.974.471.416 Somme riscoss
 
 ------------------ Residui attivi al 31 dicembre 1975... L. 3.814.063.745.138 ==================
 
-#### ART. 8
+## ART. 8
 
 I residui passivi alla chiusura dell'esercizio 1975 risultano stabiliti nelle seguenti somme:
 
@@ -145,7 +145,7 @@ esercizi precedenti (articolo 6).............. " 6.444.568.602.753
 
 ## SITUAZIONE FINANZIARIA
 
-#### ART. 9
+## ART. 9
 
 Il disavanzo finanziario del conto del tesoro alla fine dell'esercizio 1975 e' accertato nella somma di lire 35.812.087.122.087 come risulta dai seguenti dati:
 
@@ -200,17 +200,17 @@ generale dello Stato.......................... " 10.930
 
 ## DISPOSIZIONI SPECIALI
 
-#### ART. 10
+## ART. 10
 
 Sono stabiliti nella somma di lire 10.930 i discarichi consentiti, nell'esercizio 1975, ai tesorieri per casi di forza maggiore, ai sensi dell'articolo 194 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato approvato con regio decreto 23 maggio 1924, n. 827.
 
-#### ART. 11
+## ART. 11
 
 Alle spese di cui ai capitoli n. 3574 dello stato di previsione della spesa del Ministero della sanita' e n. 4032 dello stato di previsione della spesa del Ministero della difesa, si applicano, per l'anno finanziario 1975, le disposizioni contenute nel secondo e nel terzo comma dell'articolo 36 del regio decreto 18 novembre 1923, n. 2440, sulla contabilita' generale dello Stato.
 
 Al medesimo capitolo n. 4032 dello stato di previsione della spesa del Ministero della difesa si applicano, inoltre, per l'anno finanziario 1975, le disposizioni di cui all'articolo 61-bis del citato regio decreto.
 
-#### ART. 12
+## ART. 12
 
 Sono approvate le eccedenze di impegni risultate in sede di consuntivo sul conto della competenza e sul conto dei residui ai capitoli degli stati di previsione della spesa dei Ministeri sottoindicati per l'esercizio finanziario 1975, come risulta dal dettaglio che segue:
 
@@ -358,11 +358,9 @@ fissi al personale di ruolo
 
 e non di ruolo.............. " - " 586.546.056
 
-## AZIENDE SPECIALI ED AUTONOME
+## AZIENDE SPECIALI ED AUTONOME - AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### AZIENDA DI STATO PER LE FORESTE DEMANIALI
-
-#### ART. 13
+## ART. 13
 
 Le entrate correnti ed in conto capitale del
 
@@ -391,7 +389,7 @@ rimasero da versare.. " 564.579.652
  ------------------ e rimasero da riscuotere...................... L. 262.402.285 ==================
 ```
 
-#### ART. 14
+## ART. 14
 
 Le spese correnti ed in conto capitale del
 
@@ -407,7 +405,7 @@ delle quali furono pagate..................... " 4.985.591.125
 
 ------------------ e rimasero da pagare.......................... L. 1.580.556.782 ==================
 
-#### ART. 15
+## ART. 15
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -424,7 +422,7 @@ rimasero da versare.. " 6.391.993
  ------------------ e rimasero da riscuotere al 31 dicembre 1975.. L. 2.821.083.064 ==================
 ```
 
-#### ART. 16
+## ART. 16
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -434,7 +432,7 @@ dei quali furono pagati nel 1975.............. " 4.483.279.676
 
 ------------------ e rimasero da pagare al 31 dicembre 1975...... L. 15.207.954.166 ==================
 
-#### ART. 17
+## ART. 17
 
 I residui attivi alla chiusura dell'esercizio 1975 risultano stabiliti nelle seguenti somme:
 
@@ -450,7 +448,7 @@ riepilogo dell'entrata)....................... " 570.971.645
 
 ------------------ Residui attivi al 31 dicembre 1975... L. 3.654.456.994 ==================
 
-#### ART. 18
+## ART. 18
 
 I residui passivi alla chiusura dell'esercizio 1975 risultano stabiliti nelle seguenti somme:
 
@@ -464,7 +462,7 @@ esercizi precedenti (articolo 16)............ " 15.207.954.166
 
 ------------------ Residui passivi al 31 dicembre 1975... L. 16.788.510.948 ==================
 
-#### ART. 19
+## ART. 19
 
 La situazione finanziaria dell'Azienda di Stato per le foreste demaniali, alla fine dell'esercizio 1975, risulta come appresso:
 
@@ -510,7 +508,7 @@ al 31 dicembre 1975.. " 3.777.070.083
 
 ## ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-#### ART. 20
+## ART. 20
 
 Le entrate correnti dell'Istituto agronomico
 
@@ -530,7 +528,7 @@ delle quali furono riscosse e versate......... " 208.308.510
 
 ------------------ e rimasero da riscuotere...................... L. 336.000 ==================
 
-#### ART. 21
+## ART. 21
 
 Le spese correnti dell'Istituto predetto,
 
@@ -544,11 +542,11 @@ delle quali furono pagate..................... " 170.991.597
 
 ------------------ e rimasero da pagare.......................... L. 37.652.913 ==================
 
-#### ART. 22
+## ART. 22
 
 I residui attivi alla chiusura dell'esercizio 1974, stabiliti in lire 400.000 sono stati integralmente riscossi e versati.
 
-#### ART. 23
+## ART. 23
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -558,11 +556,11 @@ dei quali furono pagati nel 1975.............. " 35.963.610
 
 ------------------ e rimasero da pagare al 31 dicembre 1975...... L. 24.802.948 ==================
 
-#### ART. 24
+## ART. 24
 
 I residui attivi alla chiusura dell'esercizio 1975 risultano stabiliti in lire 336.000 relativi a somme rimaste da riscuotere sulle entrate accertate per la competenza propria dell'esercizio 1975 (articolo 20).
 
-#### ART. 25
+## ART. 25
 
 I residui passivi alla chiusura dell'esercizio 1975 risultano stabiliti nelle seguenti somme:
 
@@ -578,7 +576,7 @@ esercizi precedenti (articolo 23)............. " 24.802.948
 
 ## AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-#### ART. 26
+## ART. 26
 
 Le entrate correnti, in conto capitale e per
 
@@ -609,7 +607,7 @@ rimasero da versare.. " 10.901.998.761
  ------------------ e rimasero da riscuotere...................... L. 54.923.532.488 ==================
 ```
 
-#### ART. 27
+## ART. 27
 
 Le spese correnti, in conto capitale e per
 
@@ -627,7 +625,7 @@ delle quali furono pagate..................... " 398.647.541.162
 
 ------------------ e rimasero da pagare.......................... L. 47.025.880.414 ==================
 
-#### ART. 28
+## ART. 28
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -644,7 +642,7 @@ rimasero da versare.. " -
  ------------------ e rimasero da riscuotere al 31 dicembre 1975.. L. 25.058.771.693 ==================
 ```
 
-#### ART. 29
+## ART. 29
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -654,7 +652,7 @@ dei quali furono pagati nel 1975.............. " 117.120.183.124
 
 ------------------ e rimasero da pagare al 31 dicembre 1975...... L. 22.164.373.073 ==================
 
-#### ART. 30
+## ART. 30
 
 I residui attivi alla chiusura dell'esercizio 1975 risultano stabiliti nelle seguenti somme:
 
@@ -670,7 +668,7 @@ riepilogo dell'entrata)....................... " 10.901.998.761
 
 ------------------ Residui attivi al 31 dicembre 1975... L. 90.884.302.942 ==================
 
-#### ART. 31
+## ART. 31
 
 I residui passivi alla chiusura dell'esercizio 1975 risultano stabiliti nelle seguenti somme:
 
@@ -684,7 +682,7 @@ esercizi precedenti (articolo 29)............. " 22.164.373.073
 
 ------------------ Residui passivi al 31 dicembre 1975... L. 69.190.253.487 ==================
 
-#### ART. 32
+## ART. 32
 
 La situazione finanziaria dell'Amministrazione autonoma dei Monopoli di Stato, alla fine dell'esercizio 1975, risulta come appresso:
 
@@ -696,7 +694,7 @@ Passivo:
 
 Spese dell'esercizio 1975..................... L. 445.673.421.576 ==================
 
-#### ART. 33
+## ART. 33
 
 Per la copertura del disavanzo di gestione dell'esercizio finanziario 1975 accertato per l'Amministrazione autonoma dei monopoli di Stato, la Cassa depositi e prestiti e' autorizzata a concedere all'Amministrazione predetta sui fondi dei conti correnti postali, di cui all'articolo 1 del decreto legislativo luogotenenziale 22 novembre 1945, n. 822, anticipazioni per complessive lire 35.484.688.614, estinguibili in 35 anni al saggio vigente per i mutui all'epoca della concessione.
 
@@ -708,7 +706,7 @@ L'onere relativo fara' carico al bilancio dello Stato.
 
 ## ARCHIVI NOTARILI
 
-#### ART. 34
+## ART. 34
 
 E' approvato il conto consuntivo degli Archivi notarili per l'esercizio finanziario 1975, nelle risultanze seguenti:
 
@@ -718,7 +716,7 @@ Entrate..................................... L. 35.500.657.614 Spese............
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-#### Art. 35
+## Art. 35
 
 Le entrate correnti ed in conto capitale del
 
@@ -747,7 +745,7 @@ rimasero da versare.. " 3.294.790
  ------------------ e rimasero da riscuotere...................... L. 3.016.223.728 ==================
 ```
 
-#### ART. 36
+## ART. 36
 
 Le spese correnti ed in conto capitale del
 
@@ -763,7 +761,7 @@ delle quali furono pagate..................... " 33.072.177.377
 
 ------------------ e rimasero da pagare.......................... L. 4.235.313.810 ==================
 
-#### ART. 37
+## ART. 37
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -780,7 +778,7 @@ rimasero da versare.. " 2.559.303
  ------------------ e rimasero da riscuotere al 31 dicembre 1975.. L. 8.044.581.917 ==================
 ```
 
-#### Art. 38
+## Art. 38
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -790,7 +788,7 @@ dei quali furono pagati nel 1975.............. " 3.471.893.242
 
 ------------------ e rimasero da pagare al 31 dicembre 1975...... L. 7.701.611.118 ==================
 
-#### ART. 39
+## ART. 39
 
 I residui attivi alla chiusura dell'esercizio 1975 risultano stabiliti nelle seguenti somme:
 
@@ -806,7 +804,7 @@ riepilogo dell'entrata)....................... " 5.854.093
 
 ------------------ Residui attivi al 31 dicembre 1975... L. 11.066.659.738 ==================
 
-#### ART. 40
+## ART. 40
 
 I residui passivi alla chiusura dell'esercizio 1975 risultano stabiliti nelle seguenti somme:
 
@@ -820,7 +818,7 @@ esercizi precedenti (articolo 38)............. " 7.701.611.118
 
 ------------------ Residui passivi al 31 dicembre 1975... L. 11.936.924.928 ==================
 
-#### ART. 41
+## ART. 41
 
 La situazione finanziaria dell'Amministrazione del Fondo per il Culto, alla fine dell'esercizio 1975, risulta come segue:
 
@@ -864,7 +862,7 @@ al 31 dicembre 1975.. " 8.102.953.678
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-#### ART. 42
+## ART. 42
 
 Le entrate correnti ed in conto capitale del
 
@@ -893,7 +891,7 @@ rimasero da versare.. " 6.078
  ------------------ e rimasero da riscuotere...................... L. 59.932.558 ==================
 ```
 
-#### Art. 43
+## Art. 43
 
 Le spese correnti ed in conto capitale del
 
@@ -909,7 +907,7 @@ delle quali furono pagate..................... " 501.318.122
 
 ------------------ e rimasero da pagare.......................... L. 407.400.777 ==================
 
-#### ART. 44
+## ART. 44
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -926,7 +924,7 @@ rimasero da versare.. " -
  ------------------ e rimasero da riscuotere al 31 dicembre 1975.. L. 138.244.975 ==================
 ```
 
-#### ART. 45
+## ART. 45
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -936,7 +934,7 @@ dei quali furono pagati nel 1975.............. " 439.833.322
 
 ------------------ e rimasero da pagare al 31 dicembre 1975...... L. 167.364.438 ==================
 
-#### ART. 46
+## ART. 46
 
 I residui attivi alla chiusura dell'esercizio 1975 risultano stabiliti nelle seguenti somme:
 
@@ -952,7 +950,7 @@ riepilogo dell'entrata)....................... " 6.078
 
 ------------------ Residui attivi al 31 dicembre 1975... L. 198.183.611 ==================
 
-#### ART. 47
+## ART. 47
 
 I residui passivi alla chiusura dell'esercizio 1975 risultano stabiliti nelle seguenti somme:
 
@@ -966,7 +964,7 @@ esercizi precedenti (articolo 45)............. " 167.364.438
 
 ------------------ Residui passivi al 31 dicembre 1975... L. 574.765.215 ==================
 
-#### Art. 48
+## Art. 48
 
 La situazione finanziaria del Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1975, risulta come segue:
 
@@ -997,7 +995,7 @@ Spese dell'esercizio 1975..................... L. 908.718.899
 
 ## PATRIMONI RIUNITI EX ECONOMALI
 
-#### ART. 49
+## ART. 49
 
 Le entrate correnti ed in conto capitale
 
@@ -1024,7 +1022,7 @@ rimasero da versare.. " 20.205.323
  ------------------ rimasero da riscuotere........................ L. 118.556.714 ==================
 ```
 
-#### ART. 50
+## ART. 50
 
 Le spese correnti ed in conto capitale della
 
@@ -1038,7 +1036,7 @@ delle quali furono pagate..................... " 462.966.454
 
 ------------------ e rimasero da pagare.......................... L. 223.251.184 ==================
 
-#### ART. 51
+## ART. 51
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1048,7 +1046,7 @@ dei quali nell'esercizio 1975 furono versati.. " 23.535.545 rimasero da versare.
 
 ------------------ e rimasero da riscuotere al 31 dicembre 1975.. L. 84.807.794 ==================
 
-#### ART. 52
+## ART. 52
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1058,7 +1056,7 @@ dei quali furono pagati nel 1975.............. " 55.651.375
 
 ------------------ e rimasero da pagare al 31 dicembre 1975...... L. 98.871.655 ==================
 
-#### ART. 53
+## ART. 53
 
 I residui attivi alla chiusura dell'esercizio 1975 risultano stabiliti nelle seguenti somme:
 
@@ -1074,7 +1072,7 @@ riepilogo dell'entrata)....................... " 50.339.711
 
 ------------------ Residui attivi al 31 dicembre 1975... L. 253.704.219 ==================
 
-#### ART. 54
+## ART. 54
 
 I residui passivi alla chiusura dell'esercizio 1975 risultano stabiliti nelle seguenti somme:
 
@@ -1088,7 +1086,7 @@ esercizi precedenti (articolo 52)............. " 98.871.655
 
 ------------------ Residui passivi al 31 dicembre 1975... L. 322.122.839 ==================
 
-#### ART. 55
+## ART. 55
 
 La situazione finanziaria dell'Azienda dei patrimoni riuniti ex economali, alla fine dell'esercizio 1975, risulta come segue:
 
@@ -1134,7 +1132,7 @@ al 31 dicembre 1975.. " 138.477.727
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE
 
-#### ART. 56
+## ART. 56
 
 Le entrate correnti, in conto capitale e per
 
@@ -1156,7 +1154,7 @@ delle quali furono riscosse e versate......... " 435.356.522.957
 
 ------------------ e rimasero da riscuotere...................... L. 612.115.620.968 ==================
 
-#### ART. 57
+## ART. 57
 
 Le spese correnti, in conto capitale e per
 
@@ -1172,7 +1170,7 @@ delle quali furono pagate..................... " 393.667.434.114
 
 ------------------ e rimasero da pagare.......................... L. 653.804.709.811 ==================
 
-#### Art. 58
+## Art. 58
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1184,7 +1182,7 @@ e versati..................................... " 174.853.384.097
 
 ------------------ e rimasero da riscuotere al 31 dicembre 1975.. L. 540.629.959.906 ==================
 
-#### ART. 59
+## ART. 59
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1194,7 +1192,7 @@ dei quali furono pagati nel 1975.............. " 190.844.275.500
 
 ------------------ e rimasero da pagare al 31 dicembre 1975...... L. 315.120.583.450 ==================
 
-#### ART. 60
+## ART. 60
 
 I residui attivi alla chiusura dell'esercizio 1975 risultano stabiliti nelle seguenti somme:
 
@@ -1208,7 +1206,7 @@ gli esercizi precedenti (articolo 58)......... " 540.629.959.906
 
 ------------------ Residui attivi al 31 dicembre 1975... L. 1.152.745.580.874 ==================
 
-#### ART. 61
+## ART. 61
 
 I residui passivi alla chiusura dell'esercizio 1975 risultano stabiliti nelle seguenti somme:
 
@@ -1224,7 +1222,7 @@ esercizi precedenti (articolo 59)............. " 315.120.583.450
 
 ## AMMINISTRAZIONE DELLE POSTE E DELLE TELECOMUNICAZIONI
 
-#### ART. 62
+## ART. 62
 
 Le entrate correnti, in conto capitale e per
 
@@ -1248,7 +1246,7 @@ delle quali furono riscosse e versate......... " 678.863.005.364
 
 ------------------ e rimasero da riscuotere...................... L. 1.047.142.132.327 ==================
 
-#### ART. 63
+## ART. 63
 
 Le spese correnti, in conto capitale e per
 
@@ -1264,7 +1262,7 @@ delle quali furono pagate..................... " 968.937.220.943
 
 ------------------ e rimasero da pagare.......................... L. 757.067.916.748 ==================
 
-#### ART. 64
+## ART. 64
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1276,7 +1274,7 @@ e versati..................................... " 1.085.816.022.345
 
 ------------------ e rimasero da riscuotere al 31 dicembre 1975.. L. 539.168.612.459 ==================
 
-#### ART. 65
+## ART. 65
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1286,7 +1284,7 @@ dei quali nell'esercizio 1975 furono pagati... " 562.029.694.676
 
 ------------------ e rimasero da pagare al 31 dicembre 1975...... L. 243.969.357.596 ==================
 
-#### ART. 66
+## ART. 66
 
 I residui attivi alla chiusura dell'esercizio 1975 risultano stabiliti nelle seguenti somme:
 
@@ -1300,7 +1298,7 @@ gli esercizi precedenti (articolo 64)......... " 539.168.612.459
 
 ------------------ Residui attivi al 31 dicembre 1974... L. 1.586.310.744.786 ==================
 
-#### ART. 67
+## ART. 67
 
 I residui passivi alla chiusura dell'esercizio 1975 risultano stabiliti nelle seguenti somme:
 
@@ -1316,7 +1314,7 @@ esercizi precedenti (articolo 65)............. " 243.969.357.596
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-#### ART. 68
+## ART. 68
 
 Le entrate correnti, in conto capitale e per
 
@@ -1342,7 +1340,7 @@ furono riscosse e versate..................... " 426.164.094.724
 
 ------------------ e rimasero da riscuotere...................... L. 102.880.433.909 ==================
 
-#### ART. 69
+## ART. 69
 
 Le spese correnti, in conto capitale e per
 
@@ -1358,7 +1356,7 @@ delle quali furono pagate..................... " 248.170.061.687
 
 ------------------ e rimasero da pagare.......................... L. 280.874.466.946 ==================
 
-#### ART. 70
+## ART. 70
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1375,7 +1373,7 @@ rimasero da versare.. " 1.600.378.455
  ------------------ e rimasero da riscuotere al 31 dicembre 1975.. L. 124.700.142.341 ==================
 ```
 
-#### ART. 71
+## ART. 71
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1385,7 +1383,7 @@ dei quali nell'esercizio 1975 furono pagati... " 210.631.159.005
 
 ------------------ e rimasero da pagare al 31 dicembre 1975...... L. 147.928.594.242 ==================
 
-#### ART. 72
+## ART. 72
 
 I residui attivi alla chiusura dell'esercizio 1975 risultano stabiliti nelle seguenti somme:
 
@@ -1401,7 +1399,7 @@ riepilogo dell'entrata)....................... " 1.600.378.455
 
 ------------------ Residui attivi al 31 dicembre 1975... L. 229.180.954.705 ==================
 
-#### ART. 73
+## ART. 73
 
 I residui passivi alla chiusura dell'esercizio 1975 risultano stabiliti nelle seguenti somme:
 
@@ -1417,7 +1415,7 @@ esercizi precedenti (articolo 71)............. " 147.928.594.242
 
 ## AMMINISTRAZIONE DELLE FERROVIE DELLO STATO
 
-#### ART. 74
+## ART. 74
 
 Le entrate correnti, in conto capitale e per
 
@@ -1441,7 +1439,7 @@ delle quali furono riscosse e versate......... " 5.515.690.875.569
 
 ------------------ e rimasero da riscuotere...................... L. 1.151.230.930.777 ==================
 
-#### ART. 75
+## ART. 75
 
 Le spese correnti, in conto capitale e per
 
@@ -1459,7 +1457,7 @@ delle quali furono pagate..................... " 5.354.367.464.376
 
 ------------------ e rimasero da pagare.......................... L. 1.312.554.341.970 ==================
 
-#### ART. 76
+## ART. 76
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione delle ferrovie dello Stato, di competenza dell'esercizio 1975, risulta cosi' stabilito:
 
@@ -1475,7 +1473,7 @@ nome)..................................... L. 3.119.648.177.769 Spese delle gest
 
 ------------------ L. 6.666.921.806.346 ==================
 
-#### ART. 77
+## ART. 77
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1487,7 +1485,7 @@ e versati..................................... " 397.201.893.568
 
 ------------------ e rimasero da riscuotere al 31 dicembre 1975.. L. 340.235.518.946 ==================
 
-#### ART. 78
+## ART. 78
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1497,7 +1495,7 @@ dei quali nell'esercizio 1975 furono pagati... " 821.166.144.027
 
 ------------------ e rimasero da pagare al 31 dicembre 1975...... L. 564.029.238.367 ==================
 
-#### ART. 79
+## ART. 79
 
 I residui attivi alla chiusura dell'esercizio 1975 risultano stabiliti nelle seguenti somme:
 
@@ -1511,7 +1509,7 @@ gli esercizi precedenti (articolo 77)......... " 340.235.518.946
 
 ------------------ Residui attivi al 31 dicembre 1975... L. 1.491.466.449.723 ==================
 
-#### ART. 80
+## ART. 80
 
 I residui passivi alla chiusura dell'esercizio 1975 risultano stabiliti nelle seguenti somme:
 

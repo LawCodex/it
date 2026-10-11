@@ -29,19 +29,19 @@ la seguente legge:
 
 ## VARIAZIONI ALLA SPESA
 
-### Art. 1
+## Art. 1
 
 Negli stati di previsione della spesa dei Ministeri del tesoro, del bilancio e della programmazione economica, di grazia e giustizia, della pubblica istruzione, dell'interno, dei lavori pubblici, dei trasporti, dell'agricoltura e delle foreste, dell'industria, del commercio e dell'artigianato, del lavoro e della previdenza sociale, della marina mercantile, della sanita', del turismo e dello spettacolo e per i beni culturali e ambientali sono introdotte, per l'anno finanziario 1978, le variazioni di cui all'annessa tabella A.
 
 ## STATO DI PREVISIONE DEL MINISTERO DEL TESORO
 
-### Art. 2
+## Art. 2
 
 Il Ministro del tesoro e' autorizzato a trasferire, con propri decreti, dal capitolo 5926 dello stato di previsione della spesa del Ministero del tesoro per l'anno finanziario 1978 e dal capitolo 7081 dello stato di previsione della spesa del Ministero del bilancio e della programmazione economica per il medesimo anno finanziario, ai capitoli dei Ministeri interessati, le quote da attribuire alle regioni a statuto speciale dei fondi considerati ai predetti capitoli 5926 e 7081 ai sensi dell'ultimo comma dell'articolo 126 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616.
 
 ## STATO DI PREVISIONE DEL MINISTERO DEL BILANCIO E DELLA PROGRAMMAZIONE ECONOMICA
 
-### Art. 3
+## Art. 3
 
 L'articolo 70 della legge 27 aprile 1978, n. 143, e' sostituito dal seguente:
 
@@ -51,13 +51,13 @@ La quota di cui al predetto articolo 2, lettera c), corrisponde agli stanziament
 
 ## STATO DI PREVISIONE DEL MINISTERO DELLA PUBBLICA ISTRUZIONE
 
-### Art. 4
+## Art. 4
 
 L'assegnazione autorizzata dall'articolo 88 della legge 27 aprile 1978, n. 143, e' ridotta da L. 43.000.000 a L. 13.000.000.
 
 ## STATO DI PREVISIONE DEL MINISTERO DELL'INTERNO
 
-### Art. 5
+## Art. 5
 
 L'articolo 94 della legge 27 aprile 1978, n. 143, e' cosi' modificato:
 
@@ -65,23 +65,23 @@ L'articolo 94 della legge 27 aprile 1978, n. 143, e' cosi' modificato:
 
 ## STATO DI PREVISIONE DEL MINISTERO DEI LAVORI PUBBLICI
 
-### Art. 6
+## Art. 6
 
 L'autorizzazione di spesa di cui all'articolo 104 della legge 27 aprile 1978, n. 143, e' ridotta da L. 129.900.000.000 a L.
 
 115.400.000.000.
 
-### Art. 7
+## Art. 7
 
 L'autorizzazione di spesa di cui all'articolo 108 della legge 27 aprile 1978, n. 143, e' ridotta da L. 2.000.000.000 a L. 250.000.000.
 
-### Art. 8
+## Art. 8
 
 L'articolo 109 della legge 27 aprile 1978 n. 143, e' soppresso.
 
 ## GESTIONE DEI RESIDUI
 
-### Art. 9
+## Art. 9
 
 La gestione dei residui passivi risultanti dalla data del 1 gennaio 1978 sui capitoli di cui all'annessa tabella A e' autorizzata, per l'esercizio finanziario 1978, a carico dei capitoli medesimi, ancorche' la relativa denominazione risulti modificata.
 
@@ -97,7 +97,7 @@ Visto, il Guardasigilli: BONIFACIO
 
 ## GESTIONE DEI RESIDUI
 
-### Tabella
+## Tabella
 
 TABELLA
 

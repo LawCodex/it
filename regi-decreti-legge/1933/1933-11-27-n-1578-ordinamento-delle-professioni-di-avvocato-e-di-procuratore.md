@@ -40,7 +40,7 @@ Abbiamo decretato e decretiamo:
 
 ## TITOLO I. - Disposizioni generali.
 
-#### Art. 1
+### Art. 1
 
 Nessuno puo' assumere il titolo, ne' esercitare le funzioni di avvocato o di procuratore se non e' iscritto nell'albo professionale.
 
@@ -48,13 +48,13 @@ Conservano tuttavia Il titolo quegli avvocati e procuratori che, dopo averne acq
 
 La violazione della disposizione del primo comma di questo articolo, quando non costituisca piu' grave reato, e' punita, nel caso di usurpazione del titolo di avvocato o di procuratore, a norma dell'art. 498 del codice penale a nel caso di esercizio abusivo delle funzioni, a norma dell'art. 348 dello stesso codice.
 
-#### Art. 2
+### Art. 2
 
 ((COMMA ABROGATO DALLA L. 24 FEBBRAIO 1997, N. 27)).
 
 Non si puo' essere iscritti che in un solo albo di avvocati ed in un solo albo di procuratori.
 
-#### Art. 3
+### Art. 3
 
 L'esercizio delle professioni di avvocato e di procuratore e' incompatibile con l'esercizio della professione di notaio, con l'esercizio del commercio in nome proprio o in nome altrui, con la qualita' di ministro di qualunque culto avente giurisdizione o cura di anime, di giornalista professionista, di direttore di banca, di mediatore, di agente di cambio, di sensale, di ricevitore del lotto, di appaltatore di un pubblico servizio o di una pubblica fornitura, di esattore di pubblici tributi e di incaricato di gestioni esattoriali.
 
@@ -86,21 +86,21 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 2 febbraio 2001, n. 96 ha disposto (con l'art. 5, comma 2) che "All'avvocato stabilito e all'avvocato integrato si applicano le norme sulle incompatibilita' che riguardano l'esercizio della professione di avvocato. La disposizione di cui al quarto comma dell'art. 3 del regio decreto-legge n. 1578 del 1933 si applica anche agli avvocati legati da un contratto di lavoro ad un ente corrispondente, nello Stato membro di origine, a quelli indicati in detta disposizione".
 
-#### Art. 4
+### Art. 4
 
 Gli avvocati iscritti in un albo possono esercitare la professione davanti a tutte le Corti d'appello, i Tribunali e le Preture del Regno.
 
 Davanti alla Corte di cassazione, al Consiglio di Stato ed alla Corte dei conti in sede giurisdizionale, al Tribunale supremo militare al Tribunale superiore delle acque pubbliche ed alla Commissione centrale per le imposte dirette il patrocinio puo' essere assunto soltanto dagli avvocati iscritti nell'albo speciale di cui all'art. 33.
 
-#### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DALLA L. 24 FEBBRAIO 1997, N. 27))
 
-#### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DALLA L. 24 FEBBRAIO 1997, N. 27))
 
-#### Art. 7
+### Art. 7
 
 Davanti a qualsiasi giurisdizione speciale la rappresentanza, la difesa e l'assistenza possono essere assunte soltanto da un avvocato ovvero da un procuratore assegnato ad uno dei Tribunali del distretto della Corte d'appello e Sezioni distaccate, nel quale ha sede la giurisdizione speciale.
 
@@ -108,7 +108,7 @@ Nelle cause commerciali davanti al Tribunale la parte che comparisca personalmen
 
 Nulla e' innovato alle norme che disciplinano i procedimenti davanti ai conciliatori, a quelle che regolano la rappresentanza e la difesa delle Amministrazioni dello Stato e alle disposizioni particolari relative a determinati organi giurisdizionali.
 
-#### Art. 8
+### Art. 8
 
 I laureati in giurisprudenza, che svolgono la pratica prevista dall'articolo 17, sono iscritti, a domanda e previa certificazione del procuratore di cui frequentano lo studio, in un registro speciale tenuto dal consiglio dell'ordine degli avvocati e dei procuratori presso il tribunale nel cui circondario hanno la residenza, e sono sottoposti al potere disciplinare del consiglio stesso.
 
@@ -148,7 +148,7 @@ AGGIORNAMENTO (28)
 
 La Corte Costituzionale con sentenza 10-17 marzo 2010 n. 106 (in G.U. 1ª s.s. 24/3/2010 n. 12) ha dichiarato l'illegittimita' costituzionale del presente articolo, comma 2, ultimo periodo nella parte in cui prevede che i praticanti avvocati possono essere nominati difensori d'ufficio.
 
-#### Art. 9
+### Art. 9
 
 Con atto ricevuto dal cancelliere del Tribunale o della Corte d'appello, da comunicarsi in copia al Direttorio del Sindacato, il procuratore puo', sotto la sua responsabilita', procedere alla nomina di sostituti, in numero non superiore a tre, fra i procuratori compresi nell'albo in cui egli trovasi iscritto.
 
@@ -158,15 +158,15 @@ Il procuratore puo' anche, sotto la sua responsabilita', farsi rappresentare da 
 
 Nei giudizi davanti alle Preture la rappresentanza puo' essere conferita ad un praticante procuratore.
 
-#### Art. 10
+### Art. 10
 
 Il procuratore deve risiedere nel capoluogo del circondario del Tribunale al quale e' assegnato, ma il presidente del Tribunale, sentito il parere del Direttorio del Sindacato, puo' autorizzarlo a risiedere in un'altra localita' del circondario, purche' egli abbia nel capoluogo un ufficio presso un altro procuratore.
 
-#### Art. 11
+### Art. 11
 
 Il procuratore non puo', senza giusto motivo, rifiutare il suo ufficio.
 
-#### Art. 12
+### Art. 12
 
 Gli avvocati ed i procuratori debbono adempiere al loro ministero con dignita' e con decoro, come si conviene all'altezza della funzione che sono chiamati ad esercitare nell'amministrazione della giustizia.
 
@@ -174,11 +174,11 @@ Essi non possono esercitare la professione se prima non hanno giurato.
 
 Il giuramento e' prestato in una pubblica udienza della Corte d'appello o del Tribunale con la formula seguente: «Giuro di adempiere i miei doveri professionali con «lealta', onore e diligenza per i fini della giustizia e per gli «interessi superiori della Nazione».
 
-#### Art. 13
+### Art. 13
 
 Gli avvocati e i procuratori non possono essere obbligati a deporre nei giudizi di qualunque specie su cio' che a loro sia stato confidato o sia pervenuto a loro conoscenza per ragione del proprio ufficio, salvo quanto e' disposto nell'articolo 351, comma secondo, del codice di procedura penale.
 
-#### Art. 14
+### Art. 14
 
 I Sindacati Fascisti degli avvocati e dei procuratori, oltre ad adempiere tutti gli altri compiti, loro denunciati da questa o da altre leggi:
 
@@ -196,13 +196,13 @@ f) interpongono i propri uffici, a richiesta degli interessati, per procurare la
 
 Qualora i poteri del Direttorio siano stati affidati al Segretario o ad un Commissario, ai sensi dell'art. 8, comma terzo, della legge 3 aprile 193, n. 563, o dell'art. 30, comma secondo, del R. decreto 1° luglio 1926, n. 1130, le funzioni di cui alle lettere a) e d) sono esercitate da un Comitato presieduto dallo stesso Segretario o Commissario e composto di quattro membri, due avvocati e due procuratori, no. minati dal Ministro delle corporazioni di concerto con il (( Ministro della giustizia )) tra i professionisti iscritti negli albi della circoscrizione del Tribunale. Il Comitato e' composto di sei membri, tre avvocati e tre procuratori, qualora il numero complessivo degli iscritti negli albi anzidetti sia maggiore di duecento.
 
-#### Art. 15
+### Art. 15
 
 L'alta vigilanza sull'esercizio delle professioni di avvocato e di procuratore spetta al ((Ministro della giustizia)), che la esercita sia direttamente sia per mezzo dei Primi Presidenti e dei Procuratori Generali.
 
 ## TITOLO II. - Degli albi professionali e delle condizioni per esservi iscritti.
 
-#### Art. 16
+### Art. 16
 
 Per ogni Tribunale civile e penale sono costituiti un albo di avvocati e un albo di procuratori. La data dell'iscrizione stabilisce l'anzianita' per ciascun professionista.
 
@@ -218,7 +218,7 @@ Il Direttorio del Sindacato, inoltre, mantiene aggiornato il registro dei pratic
 
 Un elenco dei praticanti, con le annotazioni di cui al precedente comma, e' comunicato alle Preture del distretto della Corte d'appello ed e' affisso nelle sale di udienza delle Preture medesime.
 
-#### Art. 17
+### Art. 17
 
 Per l'iscrizione nell'albo dei procuratori e' necessario:
 
@@ -244,13 +244,13 @@ Per l'iscrizione nel registro speciale dei praticanti occorre il possesso dei re
 
 Non possono conseguire l'iscrizione nell'albo o nel registro dei praticanti coloro che abbiano riportato una delle condanne o delle pene accessorie o si' trovino sottoposti ad una delle misure di sicurezza che, a norma dell'art. 42, darebbero luogo alla radiazione dall'albo, e coloro che abbiano svolto una pubblica attivita' contraria agli interessi della nazione.
 
-#### Art. 18
+### Art. 18
 
 Nell'adempimento della pratica di cui all'articolo precedente puo' tenere luogo della frequenza dello studio di un procuratore, per un periodo non superiore ad un anno, la frequenza, per un uguale periodo di tempo, posteriormente alla laurea, e con profitto, di un Seminario o altro Istituto costituito presso un'Universita' del Regno, nei quali siano effettuati all'uopo speciali corsi, e che siano riconosciuti con decreto del ((Ministro della giustizia)).
 
 E' equiparato alla pratica il servizio prestato per almeno due anni dai magistrati dell'Ordine giudiziario, militare o amministrativo o del Tribunale speciale per la difesa dello Stato, dai vice pretori onorari, dagli avvocati dello Stato e del cessato Ufficio legale delle Ferrovie dello Stato, dagli aggiunti di procura della stessa Avvocatura dello Stato, nonche' il servizio prestato, per lo stesso periodo di tempo, nelle Prefetture dai funzionari del gruppo A dell'Amministrazione civile dell'Interno, con grado non inferiore a quello di consigliere.
 
-#### Art. 19
+### Art. 19
 
 Nel mese di ottobre di ogni anno i Direttori dei Sindacati degli avvocati e dei procuratori, ciascuno per la rispettiva circoscrizione, tenuto conto del numero degli iscritti, delle vacanze verificatesi e del complesso degli affari giudiziari, indicano, con parere motivato, al (( Ministro della giustizia )) il numero di coloro che potrebbero essere ammessi nell'anno seguente negli albi dei procuratori.
 
@@ -260,7 +260,7 @@ Con lo stesso provvedimento sono stabiliti i giorni in cui dovranno avere luogo 
 
 Agli esami possono partecipare i praticanti che abbiano compiuto la prescritta pratica entro il giorno 10 del mese di novembre.
 
-#### Art. 20
+### Art. 20
 
 L'esame di concorso per la professione di procuratore e' prevalentemente pratico, ed e' scritto ed orale. Esso ha valore di esame di Stato.
 
@@ -268,7 +268,7 @@ Le prove scritte sono tre: una per il diritto civile e commerciale, un'altra per
 
 La prova orale comprende il diritto civile, il commerciale, il penale, l'amministrativo, il corporativo e sindacale, il finanziario, la procedura civile e la procedura penale.
 
-#### Art. 21
+### Art. 21
 
 Il ((Ministro della giustizia)) stabilisce volta per volta se gli esami di procuratore debbano avere luogo presso il Ministero di grazia e giustizia in Roma ovvero presso le Corti d'appello.
 
@@ -292,7 +292,7 @@ AGGIORNAMENTO (25)
 
 Il D.L. 21 maggio 2003, n. 112, convertito con modificazioni dalla L. 18 luglio 2003, n. 180, ha disposto (con l'art. 5-bis, 1 comma) che "Salvo che sia diversamente previsto dal presente decreto e salvo i casi di abrogazione per incompatibilita', nel regio decreto-legge 27 novembre 1933, n. 1578, convertito, con modificazioni, dalla legge 22 gennaio 1934, n. 36, e nel regio decreto 22 gennaio 1934, n. 37, il riferimento alla commissione esaminatrice si intende alla sottocommissione esaminatrice".
 
-#### Art. 22
+### Art. 22
 
 1\. Gli esami di avvocato hanno luogo contemporaneamente presso ciascuna Corte di appello.
 
@@ -336,11 +336,11 @@ AGGIORNAMENTO (25)
 
 Il D.L. 21 maggio 2003, n. 112, convertito con la L. 18 luglio 2003, n. 180 (in G.U. 21/07/2003, n.167), ha disposto (con l'art. 1-bis, comma 2) che "Le disposizioni di cui al secondo e al terzo periodo del comma 6 dell'articolo 22 del regio decretolegge 27 novembre 1933, n. 1578, convertito, con modificazioni, dalla legge 22 gennaio 1934, n.36, come sostituito dal comma 1 del presente articolo, trovano applicazione con riferimento alla commissione e alle sottocommissioni nominate successivamente alla data di entrata in vigore del presente decreto".
 
-#### Art. 23
+### Art. 23
 
 ((ARTICOLO ABROGATO DALLA L. 4 MARZO 1991, N. 67))
 
-#### Art. 24
+### Art. 24
 
 L'iscrizione nell'albo dei procuratori deve essere chiesta, a pena di decadenza, da ciascuno dei vincitori del concorso al Direttorio del Sindacato degli avvocati e dei procuratori della sede per lui stabilita a norma dell'articolo precedente, entro il termine di trenta giorni dalla pubblicazione della graduatoria.
 
@@ -362,7 +362,7 @@ Le domande degli aspiranti, corredate dei documenti comprovatiti i requisiti sta
 
 Alle iscrizioni alle quali si faccia luogo a norma del comma settimo del presente articolo sono applicabili le disposizioni dell'art. 31.
 
-#### Art. 25
+### Art. 25
 
 ARTICOLO ABROGATO DALLA L. 4 MARZO 1991, N. 67 ((20))
 
@@ -372,7 +372,7 @@ AGGIORNAMENTO (20)
 
 La Corte Costituzionale, con sentenza 23 aprile - 7 maggio 1993, n. 224 (in G.U. 1ª s.s. 12/5/1993 n.20) ha dichiarato "l'illegittimita' dell'art. 3, secondo comma, della legge 24 luglio 1985, n. 406 (Modifiche alla disciplina del patrocinio davanti alle preture e degli esami per la professione di procuratore legale) in relazione all'art. 25 del regio decreto- legge 27 novembre 1933, n. 1578 (Ordinamento delle professioni di avvocato e procuratore), convertito, con modificazioni, con la legge 22 gennaio 1934, n. 36".
 
-#### Art. 26
+### Art. 26
 
 Hanno diritto di essere iscritti nell'albo dei procuratori presso il Tribunale nella cui giurisdizione hanno la loro residenza, purche' siano in possesso dei requisiti indicati nei numeri 1°, 2°, 3° e 4° dell'art. 17:
 
@@ -390,19 +390,19 @@ Le iscrizioni prevedute nel presente articolo non sono soggette a limitazioni di
 
 Coloro che siano stati magistrati dell'Ordine giudiziario non possono svolgere la professione di procuratore avanti l'autorita' giudiziaria presso la quale abbiano esercitato, negli ultimi tre anni, le loro funzioni, se non sia trascorso un biennio dalla cessazione dalle funzioni medesime.
 
-#### Art. 27
+### Art. 27
 
 ((ARTICOLO ABROGATO DALLA L. 24 FEBBRAIO 1997, N. 27))
 
-#### Art. 28
+### Art. 28
 
 ((ARTICOLO ABROGATO DALLA L. 24 FEBBRAIO 1997, N. 27))
 
-#### Art. 29
+### Art. 29
 
 ((ARTICOLO ABROGATO DALLA L. 24 FEBBRAIO 1997, N. 27))
 
-#### Art. 30
+### Art. 30
 
 Hanno diritto di essere iscritti nell'albo degli avvocati presso il Tribunale nella cui giurisdizione hanno la propria residenza, purche' siano in possesso dei requisiti indicati nei numeri 1°, 2°, 3° e 4° dell'art. 17:
 
@@ -418,7 +418,7 @@ d) i professori di ruolo di discipline giuridiche delle Universita' del Regno e 
 
 f) coloro che per almeno quindici anni siano stati vice pretori onorari e per i quali sia rilasciata attestazione dai capi della Corte d'appello nei sensi di cui all'art. 26, lettera e) )).
 
-#### Art. 31
+### Art. 31
 
 La domanda per l'iscrizione nell'albo degli avvocati e' rivolta al Direttorio del Sindacato degli avvocati e dei procuratori nella cui circoscrizione il richiedente ha la sua residenza (( o il suo domicilio professionale )), e deve essere corredata dei documenti comprovanti i requisiti stabiliti dalla legge.
 
@@ -432,11 +432,11 @@ La deliberazione e' motivata ed e' notificata in copia integrale entro quindici 
 
 (( Al procedimento per l'iscrizione nell'albo si applica l'articolo 45, commi 4 e 5, del decreto legislativo di attuazione della direttiva 2006/123/CE )).
 
-#### Art. 32
+### Art. 32
 
 ((ARTICOLO ABROGATO DALLA L. 4 MARZO 1991, N. 67))
 
-#### Art. 33
+### Art. 33
 
 Gli avvocati, per essere ammessi al patrocinio davanti alla Corte di cassazione e alle altre giurisdizioni indicate nell'articolo 4, secondo comma, debbono essere iscritti in un albo speciale, che e' tenuto dal Direttorio del Sindacato Nazionale degli avvocati e dei procuratori.
 
@@ -464,7 +464,7 @@ AGGIORNAMENTO (21)
 
 La L. 24 febbraio 1997, n. 27 ha disposto (con l'art. 4, comma 1) che "Il periodo di esercizio della professione di avvocato necessario per l'iscrizione nell'albo speciale per il patrocinio davanti alla Corte di cassazione ed alle altre giurisdizioni superiori ai sensi dell'articolo 33, secondo comma, del regio decreto-legge 27 novembre 1933, n. 1578, convertito, con modificazioni, dalla legge 22 gennaio 1934, n. 36, e successive modificazioni, e' di dodici anni".
 
-#### Art. 34
+### Art. 34
 
 Possono essere iscritti nell'albo speciale, a condizione che siano iscritti in un albo di avvocati, ancorche' non abbiano esercitato la professione per il periodo di tempo stabilito nell'articolo precedente:
 
@@ -484,7 +484,7 @@ AGGIORNAMENTO (4)
 
 La L. 28 maggio 1936, n. 1003 ha disposto (con l'art. 1, comma 2) che "E' inoltre ridotto da cinque a quattro anni ai fini dell'iscrizione suddetta il periodo rispettivamente d'insegnamento e di esercizio professionale per i professori di ruolo di discipline giuridiche delle Universita' del Regno e degli Istituti superiori ad esse parificati e per gli avvocati ex combattenti, previsto negli articoli 34 comma primo, lettera a) e 72, comma primo dello stesso R. decreto-legge 27 novembre 1933, n. 1578".
 
-#### Art. 35
+### Art. 35
 
 Le deliberazioni del Direttorio del Sindacato Nazionale in materia di iscrizione nell'albo speciale e di cancellazione dall'albo stesso devono essere motivate. Esse sono notificate, entro quindici giorni, agli interessati ed al pubblico ministero presso la Corte di cassazione, i quali possono ricorrere alla Commissione centrale nel termine di quindici giorni dalla notificazione.
 
@@ -492,13 +492,13 @@ Il ricorso del pubblico ministero ha effetto sospensivo.
 
 Ha parimenti effetto sospensivo il ricorso dell'interessato avverso il provvedimento di cancellazione.
 
-#### Art. 36
+### Art. 36
 
 Il (( Ministro della giustizia )) esercita l'alta sorveglianza sugli esami per la professione di avvocato e di procuratore ed ha facolta' di annullarli quando siano avvenute irregolarita'. Egli puo' intervenire in seno alle Commissioni esaminatrici, anche per mezzo di un proprio rappresentante al quale impartisce le disposizioni che debbono essere osservate per la disciplina e per lo svolgimento degli esami.
 
 ## TITOLO III. - Della cancellazione dagli albi.
 
-#### Art. 37
+### Art. 37
 
 La cancellazione dagli albi degli avvocati e dei procuratori e' pronunziata dal Direttorio del Sindacato, di ufficio o su richiesta del pubblico ministero:
 
@@ -532,7 +532,7 @@ L'avvocato riammesso nell'albo a termini del sesto comma del presente articolo e
 
 ## TITOLO IV. - Della disciplina degli avvocati e dei procuratori.
 
-#### Art. 38
+### Art. 38
 
 Salvo quanto e' stabilito negli articoli 130, 131 e 132 del Codice di procedura penale e salve le disposizioni relative alla polizia delle udienze, gli avvocati ed i procuratori che si rendano colpevoli di abusi o mancanze nell'esercizio della loro professione o comunque di fatti non conformi alla dignita' e al decoro professionale sono sottoposti a procedimento disciplinare.
 
@@ -544,11 +544,11 @@ Il potere disciplinare in confronto degli avvocati e dei procuratori che siano m
 
 Nel caso preveduto nell'art. 33, comma sesto, le funzioni inerenti al potere disciplinare, attribuite al Direttorio del Sindacato Nazionale, sono esercitate dal Comitato di cui allo stesso art. 33, comma sesto.
 
-#### Art. 39
+### Art. 39
 
 I discorsi, gli scritti ed in generale gli atti politici non possono formare oggetto di procedimento disciplinare, tranne il caso che costituiscano una manifestazione di attivita' contraria agli interessi della Nazione.
 
-#### Art. 40
+### Art. 40
 
 ((Le pene disciplinari, da applicarsi secondo i casi, sono:
 
@@ -562,11 +562,11 @@ I discorsi, gli scritti ed in generale gli atti politici non possono formare ogg
 
 5\) la radiazione dall'albo)).
 
-#### Art. 41
+### Art. 41
 
 ((La radiazione e' pronunciata contro l'avvocato o il procuratore che abbia comunque, con la sua condotta, compromesso la propria reputazione e la dignita' della classe forense)).
 
-#### Art. 42
+### Art. 42
 
 ((Importano di diritto la radiazione dagli albi degli avvocati e dei procuratori:
 
@@ -584,7 +584,7 @@ c) l'assegnazione ad una colonia agricola od a una casa di lavoro.
 
 I provvedimenti preveduti nel presente articolo sono adottati dal Consiglio dell'ordine, sentito il professionista)).
 
-#### Art. 43
+### Art. 43
 
 ((Oltre i casi di sospensione dall'esercizio della professione preveduti nel codice penale, importano di diritto la sospensione dall'esercizio della professione:
 
@@ -598,7 +598,7 @@ Il Consiglio puo' pronunciare, sentito il professionista, la sospensione dell'av
 
 Nei casi preveduti nel presente articolo la durata della sospensione non e' assoggettata al limite stabilito nell'articolo 40, n. 3)).
 
-#### Art. 44
+### Art. 44
 
 Salvo quanto e' stabilito negli articoli 42 e 43, l'avvocato o il procuratore che sia stato sottoposto a procedimento penale e' sottoposto anche, qualora non sia stato radiato a termini dell'art. 42, a procedimento disciplinare per il fatto che ha formato oggetto dell'imputazione, tranne il caso che sia intervenuta sentenza di proscioglimento perche' il fatto non sussiste o perche' l'imputato non lo ha commesso.
 
@@ -608,11 +608,11 @@ Parimenti e' sottoposto a procedimento disciplinare, indipendentemente dalla sos
 
 Se il Direttorio del Sindacato non ritiene di pronunciare la sospensione del professionista ammonito o assegnato al confino di polizia o contro il quale sia stato emesso mandato od ordine di comparizione o di accompagnamento, deve informarne senza ritardo il pubblico ministero presso il Tribunale con rapporto motivato)).
 
-#### Art. 45
+### Art. 45
 
 Fermo il disposto dell'art. 42, comma terzo, e dell'art. 43, comma secondo, il Direttorio del Sindacato non puo' infliggere nessuna pena disciplinare senza che l'incolpato sia stato citato a comparire davanti ad esso, con l'assegnazione di un termine non minore di dieci giorni, per essere sentito nelle sue discolpe.
 
-#### Art. 46
+### Art. 46
 
 I provvedimenti di radiazione sono comunicati a tutti i Sindacati degli avvocati e procuratori del Regno ed alle Autorita' giudiziarie del distretto al quale il professionista appartiene.
 
@@ -620,7 +620,7 @@ La radiazione da uno degli albi di avvocati o di procuratori importa di diritto 
 
 Le disposizioni dei precedenti commi si applicano anche nel caso di sospensione dal'esercizio di una delle due professioni.
 
-#### Art. 47
+### Art. 47
 
 Il professionista radiato dall'albo puo' esservi reiscritto purche' siano trascorsi almeno cinque anni dal provvedimento di radiazione, e, se questa derivo' da condanna, sia intervenuta la riabilitazione.
 
@@ -636,19 +636,19 @@ AGGIORNAMENTO (11)
 
 Il D.Lgs. del Capo Provvisorio dello Stato 28 maggio 1947, n. 597, nel modificare l'art. 1, comma 1, n. 17 della L. 23 marzo 1940, n. 254, ha conseguentemente disposto (con l'art. 4, comma 1) che "Fermi rimanendo i termini stabiliti dall'art. 1, n. 17, della legge 23 marzo 1940, n. 254, sulla domanda di reiscrizione del professionista radiato dall'albo e' competente in ogni caso a deliberare il Consiglio dell'ordine che tiene l'albo per il quale e' domandata la reiscrizione".
 
-#### Art. 48
+### Art. 48
 
 Per l'istruttoria nei procedimenti disciplinari il Direttorio del Sindacato ha facolta', di sentire testimoni.
 
 In confronto dei testimoni sono applicabili le disposizioni degli articoli 358 e 359 del Codice di procedura penale.
 
-#### Art. 49
+### Art. 49
 
 I componenti del Direttorio Nazionale e quelli del Direttorio di un Sindacato locale possono essere ricusati per i medesimi motivi, in quanto applicabili, indicati nell'articolo 116 del Codice di procedura civile e devono astenersi quando vi sia un motivo di ricusazione da essi conosciuto, anche se non proposto.
 
 Quando per la ricusazione di piu' componenti del Direttorio del Sindacato Nazionale o di quello di un Sindacato locale non ne rimanga il numero prescritto per decidere, spetta rispettivamente alla Commisione centrale o al Direttorio del Sindacato Nazionale, su ricorso della parte, di decidere sulla ricusazione e, qualora questo sia ammessa, di pronunciarsi nel merito.
 
-#### Art. 50
+### Art. 50
 
 ((Le decisioni del Direttorio dei Sindacato nazionale e dei Direttori dei Sindacati locali sono notificate in copia integrale entro quindici giorni all'interessato ed al pubblico ministero presso il Tribunale, al quale sono comunicati contemporaneamente anche gli atti del procedimento disciplinare.
 
@@ -664,13 +664,13 @@ Il ricorso incidentale mantiene efficacia nonostante la successiva rinunzia del 
 
 Gli effetti del ricorso sono limitati ai professionisti che l'hanno proposto.
 
-#### Art. 51
+### Art. 51
 
 L'azione disciplinare si prescrive in cinque anni.
 
 ## TITOLO V. - ((Del Consiglio superiore forense)).
 
-#### Art. 52
+### Art. 52
 
 Presso il ((Ministero della giustizia)) e' costituito il Consiglio superiore forense.
 
@@ -682,7 +682,7 @@ I componenti della Commissione centrale rimangono in carica cinque anni e posson
 
 Il ((Ministro della giustizia)) provvede al personale occorrente per la segreteria della Commissione centrale e ad ogni altra necessita', per il funzionamento di essa.
 
-#### Art. 53
+### Art. 53
 
 Con Regio decreto, su proposta del ((Ministro della giustizia)), di concerto con quello delle corporazioni, puo' essere revocata la nomina di uno o piu' dei componenti della Commissione centrale, qualora cio' si renda necessario per il migliore funzionamento di essa o per la dignita' della classe.
 
@@ -690,7 +690,7 @@ Alla sostituzione dei componenti dimissionari, defunti, cancellati, radiati dall
 
 Coloro che sono nominati in sostituzione di membri venuti a mancare rimangono in carica per il tempo della durata in carica dei membri che hanno sostituito.
 
-#### Art. 54
+### Art. 54
 
 La Commissione centrale per gli avvocati ed i procuratori:
 
@@ -698,13 +698,13 @@ La Commissione centrale per gli avvocati ed i procuratori:
 
 2° esercita il potere disciplinare nei confronti dei propri membri e dei membri del Direttorio del Sindacato Nazionale.
 
-#### Art. 55
+### Art. 55
 
 Alle decisioni della Commissione centrale sui ricorsi presentati contro provvedimenti del Sindacato Nazionale non possono prendere parte i componenti che abbiano la qualita' di segretario o di membro del Direttorio del Sindacato medesimo.
 
 Nello stesso modo non possono partecipare alle decisioni sui ricorsi proposti contro provvedimenti del Direttorio di un Sindacato locale coloro che abbiano la qualita' di segretario o di membro del Direttorio dello stesso Sindacato.
 
-#### Art. 56
+### Art. 56
 
 Le decisioni della Commissione centrale sono notificate, entro trenta giorni, all'interessato ed al pubblico ministero presso la Corte di appello ed il Tribunale della circoscrizione alla quale l'interessato appartiene. Nello stesso termine sono comunicate al Direttorio del Sindacato della circoscrizione stessa ed al Direttorio del Sindacato Nazionale.
 
@@ -718,17 +718,15 @@ Il ricorso deve essere deciso nel termine di 90 giorni)).
 
 Nel caso di annullamento con rinvio, il rinvio e' fatto alla Commissione centrale, la quale deve conformarsi alla decisione della Corte circa il punto di diritto sul quale essa pronunziato.
 
-## TITOLO VI. - Degli onorari degli avvocati e dei procuratori e del rimborso delle
+## TITOLO VI. - Degli onorari degli avvocati e dei procuratori e del rimborso delle spese.
 
-### spese.
-
-#### Art. 57
+### Art. 57
 
 Il Consiglio dell'ordine degli avvocati e dei procuratori stabilisce ogni due anni per la propria circoscrizione i criteri per la determinazione degli orari e delle indennita' dovute agli avvocati ed ai procuratori in materia penale e stragiudiziale. Nello stesso modo provvede il Consiglio nazionale forense per quanto concerne la determinazione degli onorari nei giudizi penali davanti alla Corte suprema di cassazione ed al Tribunale supremo militare.
 
 Le deliberazioni con le quali si stabiliscono i criteri di cui al comma precedente devono essere approvate dal ((Ministro della giustizia)), sentito il parere, per quelle dei Consigli degli ordini, del Consiglio nazionale forense.
 
-#### Art. 58
+### Art. 58
 
 I criteri di cui al precedente articolo, sono stabiliti con riferimento al valore delle controversie ed al grado dell'autorita' chiamata a conoscerne, e, per i giudizi penali, anche alla durata di essi.
 
@@ -736,7 +734,7 @@ Per ogni atto o serie di atti devono essere fissati i limiti di un massimo e di 
 
 Nelle materie stragiudiziali va tenuto conto dell'entita' dell'affare.
 
-#### Art. 59
+### Art. 59
 
 La sentenza che porti condanna nelle spese deve contenerne la tassazione.
 
@@ -748,7 +746,7 @@ I procuratori inadempienti sono condannati con la stessa sentenza al pagamento a
 
 ((Per quanto riguarda l'onorario di avvocato, alla nota delle spese puo' essere unito, all'atto della presentazione di essa ed in ogni caso non oltre dieci giorni dall'assegnazione della causa a sentenza, il parere del Direttorio del Sindacato degli avvocati e procuratori)).
 
-#### Art. 60
+### Art. 60
 
 La liquidazione degli onorari e' fatta dall'autorita' giudiziaria in base ai criteri stabiliti a termini dell'art. 57, tenuto conto della gravita' e del numero delle questioni trattate.
 
@@ -762,7 +760,7 @@ Tuttavia nei casi di eccezionale importanza, in relazione alla specialita' delle
 
 Le stesse norme si applicano nei giudizi arbitrali.
 
-#### Art. 61
+### Art. 61
 
 L'onorario dell'avvocato, nei confronti del proprio cliente, in materia sia giudiziale, sia stragiudiziale, e' determinato, salvo patto speciale, in base ai criteri di cui all'articolo 57, tenuto conto della gravita' e del numero delle questioni trattate.
 
@@ -772,23 +770,23 @@ Tale onorario, in relazione alla specialita' della controversia o al pregio o al
 
 Le convenzioni in contrario devono risultare da atto scritto)).
 
-#### Art. 62
+### Art. 62
 
 Quando piu' avvocati abbiano prestato simultaneamente l'opera loro nell'interesse della stessa parte, ciascuno ha diritto nei confronti di quest'ultima al proprio onorario, salva quella riduzione che fosse reputata giusta in rapporto al concorso degli altri avvocati.
 
 La stessa norma si applica nei giudizi penali.
 
-#### Art. 63
+### Art. 63
 
 Ai procuratori che davanti alle giurisdizioni speciali e nelle cause penali compiano opera di avvocato sono dovuti gli onorari che spetterebbero all'avvocato.
 
-#### Art. 64
+### Art. 64
 
 Gli onorari e gli altri diritti dei procuratori sono determinati dalle Norme generali della Tariffa e dalla Tabella unite al R. decreto-legge 27 ottobre 1918, n. 1774, e dalle successive modificazioni.
 
 Le tariffe per la determinazione degli onorari o degli altri diritti dei procuratori possono essere rivedute ogni cinque anni con decreto del ((Ministro della giustizia)), sentito il parere del Sindacato Nazionale.
 
-#### Art. 65
+### Art. 65
 
 Le spese e gli onorari dei giudizi arbitrali; qualora non siano stati tassati con la sentenza, sono liquidati dal
 
@@ -800,7 +798,7 @@ L'opposizione e' proposta con atto di citazione notificata alle altre parti inte
 
 Si applicano le norme dei procedimenti per ingiunzione.
 
-#### Art. 66
+### Art. 66
 
 Gli avvocati e i procuratori non possono ritenere gli atti della causa e le scritture ricevute dai clienti, per il mancato pagamento degli onorari e dei diritti loro dovuti o per il mancato rimborso delle spese da essi anticipate.
 
@@ -814,11 +812,11 @@ Nei casi di urgenza il segretario del Sindacato puo' adottare tutti i provvedime
 
 Le modalita' per il deposito degli atti, nel caso preveduto nel comma secondo, saranno stabilite con successive disposizioni da emanarsi ai sensi dell'art. 101.
 
-#### Art. 67
+### Art. 67
 
 Nel termine di tre anni dalla morte dell'avvocato o del procuratore i suoi eredi possono valersi delle speciali norme stabilite per il rimborso delle spese e per il pagamento degli onorari.
 
-#### Art. 68
+### Art. 68
 
 Quando un giudizio e' definito con transazione, tutte le parti che hanno transatto sono solidalmente obbligate al pagamento degli onorari e al rimborso delle spese di cui gli avvocati ed i procuratori che hanno partecipato al giudizio negli ultimi tre anni fossero tuttora creditori per il giudizio stesso.
 
@@ -830,27 +828,25 @@ Il testo del presente articolo e' gia' integrato con le correzioni apportate dal
 
 E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-## TITOLO VII. - Disposizioni a favore degli ex combattenti
+## TITOLO VII. - Disposizioni a favore degli ex combattenti e dei benemeriti della causa nazionale.
 
-### e dei benemeriti della causa nazionale.
-
-#### Art. 69
+### Art. 69
 
 Il periodo di pratica occorrente per l'ammissione agli esami e' ridotto a tre mesi per gli ex combattenti che siano stati iscritti per la pratica stessa anteriormente alla data di entrata in vigore del presente decreto.
 
 Tale periodo e' ridotto ad un anno per gli ex combattenti che si iscrivano per la pratica a decorrere dalla data predetta.
 
-#### Art. 70
+### Art. 70
 
 Gli ex combattenti i quali abbiano conseguito o conseguano l'idoneita' nell'esame di procuratore possono essere iscritti nell'albo senza limitazione di numero.
 
-#### Art. 71
+### Art. 71
 
 ((I procuratori laureati in giurisprudenza ex combattenti possono essere iscritti nell'albo degli avvocati dopo quattro anni di esercizio professionale, ovvero essere ammessi agli esami di avvocato dopo un anno di esercizio di procuratore.
 
 I procuratori ex combattenti iscritti nell'albo prima dell'entrata in vigore della legge 22 dicembre 1932-XI, n. 1674, possono essere iscritti nell'albo degli avvocati dopo tre anni di esercizio professionale)).
 
-#### Art. 72
+### Art. 72
 
 Gli avvocati ex combattenti possono essere iscritti nell'albo speciale preveduto nell'art. 33 dopo cinque anni di esercizio professionale. ((4))
 
@@ -862,15 +858,13 @@ AGGIORNAMENTO (4)
 
 La L. 28 maggio 1936, n. 1003 ha disposto (con l'art. 1, comma 2) che "E' inoltre ridotto da cinque a quattro anni ai fini dell'iscrizione suddetta il periodo rispettivamente d'insegnamento e di esercizio professionale per i professori di ruolo di discipline giuridiche delle Universita' del Regno e degli Istituti superiori ad esse parificati e per gli avvocati ex combattenti, previsto negli articoli 34 comma primo, lettera a) e 72, comma primo dello stesso R. decreto-legge 27 novembre 1933, n. 1578".
 
-#### Art. 73
+### Art. 73
 
 Per gli effetti del presente decreto sono considerati ex combattenti gli insigniti di medaglia al valore militare, i mutilati, gli invalidi di guerra che abbiano contratto l'invalidita' in zona di operazioni, i feriti in combattimento che siano stati autorizzati a fregiarsi dello speciale distintivo, i volontari di guerra appartenenti alle armi combattenti che abbiano conseguito la speciale medaglia di benemerenza, e tutti coloro che, per un anno almeno durante la guerra 1915-1918, abbiano prestato servizio, come militari o assimilati, in reparti combattenti ai sensi dell'art. 41, comma secondo, del R. decreto 30 settembre 1922, n. 1290, e dell'art. 1 del R. decreto-legge 18 dicembre 1922, n. 1637, ovvero nelle condizioni prevedute nell'art. 6 del R. decreto-legge 27 ottobre 1922, n. 1462, modificato dallo stesso art. 1 del R. decreto-legge 18 dicembre 1922, n. 1637.
 
-## TITOLO VIII. - Disposizioni per i territori annessi al Regno e per le isole italiane
+## TITOLO VIII. - Disposizioni per i territori annessi al Regno e per le isole italiane dell'Egeo.
 
-### dell'Egeo.
-
-#### Art. 74
+### Art. 74
 
 Per gli effetti del presente decreto sono equiparati agli ex combattenti i mutilati, gli invalidi ed i feriti per la causa nazionale, coloro che parteciparono alla Marcia su Roma, gli iscritti al Partito Nazionale Fascista da una data anteriore al 28 ottobre 1922 e coloro che militarono nelle legioni fiumane.
 
@@ -886,11 +880,11 @@ d) dagli iscritti al Partito Nazionale Fascista anteriormente al 28 ottobre 1922
 
 e) da coloro che militarono nelle legioni fiumane mediante il foglio di congedo, relativo a tale qualita' od altro documento equipollente rilasciato dalle autorita' del luogo e del tempo, ovvero mediante gli stati di servizio od i fogli matricolari, nei quali siano state riportate le annotazioni relative al periodo di servizio prestato nelle formazioni fiumane ovvero anche mediante attestazione del Comando del distretto militare a cui l'interessato appartiene, rilasciato in base agli anzidetti stati di servizio e fogli matricolari.
 
-#### Art. 75
+### Art. 75
 
 Nei procedimenti che, a norma del decreto 4 novembre 1928, n. 2325, sulla unificazione legislativa, siano tuttora regolati dalle leggi di procedura civile, contenziosa e non contenziosa, vigenti prima dell'unificazione medesima nei territori annessi al Regno in virtu' delle leggi 26 settembre 1920, n. 1322, 19 dicembre 1920, n. 1778, e del R. decreto-legge 22 febbraio 1924, n. 211, l'avvocato iscritto in uno degli albi dei territori stessi puo' esercitare il ministero di rappresentanza e di difesa della parte, senza che occorra l'assistenza di un procuratore.
 
-#### Art. 76
+### Art. 76
 
 Nei procedimenti indicati nell'articolo precedente il procuratore e' ammesso a rappresentare le parti davanti alla Corte d'appello ed ai Tribunali del distretto in tutti i casi nei quali il ministero di avvocato non e' assolutamente obbligatorio a termini del paragrafo 27 della legge 1° agosto 1895, B. L. I., n. 113, nonche' davanti alle Preture nei casi preveduti dal paragrafo 29, comma primo, ultima parte, della legge medesima.
 
@@ -898,65 +892,65 @@ I procuratori, possono rappresentare le parti anche nei giudizi arbitamentali di
 
 Essi sono dispensati dall'obbligo di farsi rappresentare da un avvocato nell'ipotesi preveduta nel paragrafo 28, comma primo, della legge predetta.
 
-#### Art. 77
+### Art. 77
 
 Nei procedimenti indicati nell'art. 75 rimane ferma la facolta' di sostituzione riconosciuta all'avvocato dalle leggi che erano in vigore nei territori annessi prima dell'unificazione legislativa.
 
 Tuttavia l'avvocato puo' farsi sostituire soltanto da un altro avvocato o da un procuratore.
 
-#### Art. 78
+### Art. 78
 
 Per gli atti processuali regolati dalle leggi che vigevano nei territori annessi prima dell'unificazione legislativa, anche se compiuti da un procuratore, rimangono ferme le disposizioni delle stesse leggi, relative alla determinazione e alla liquidazione degli onorari e al rimborso delle spese, nonche' le tariffe ivi in vigore anteriormente all'unificazione anzidetta.
 
-#### Art. 79
+### Art. 79
 
 Alla laurea in giurisprudenza conseguita o confermata in una Universita' del Regno e' equiparata, agli effetti del presente decreto, la laurea in giurisprudenza conseguita in una Universita' della cessata monarchia austro-ungarica entro l'anno 1922.
 
-#### Art. 80
+### Art. 80
 
 La pratica forense e giudiziaria compiuta secondo le norme che vigevano nei territori annessi prima del 12 ottobre 1926 e' valida per gli effetti del presente decreto.
 
-#### Art. 81
+### Art. 81
 
 Coloro che al 12 ottobre 1926 erano ammessi alla pratica forense e giudiziaria come candidati avvocati possono essere iscritti nell'albo dei procuratori senza limitazione di numero, purche' abbiano conseguito l'idoneita', nell'esame per l'abilitazione all'esercizio della professione di procuratore: o la conseguano entro il 31 dicembre 1935.
 
-#### Art. 82
+### Art. 82
 
 Hanno diritto alla iscrizione in un albo di avvocati, purche' siano in possesso dei requisiti di cui ai numeri 2° e 3° dell'art. 17, coloro i quali, residenti al 12 ottobre 1926 nel territorio della Dalmazia non appartenente al Regno d'Italia, hanno acquistato la cittadinanza italiana in seguito ad opzione o ad elezione, a norma dei trattati di pace, e, secondo le disposizioni vigenti prima della data anzidetta nei territori annessi, potevano conseguire, trasferendo ivi la propria residenza, l'iscrizione in un albo di avvocati nei territori medesimi.
 
-#### Art. 83
+### Art. 83
 
 I magistrati dell'ordine giudiziario in servizio al 9 aprile 1926, i quali, provenienti dai ruoli della cessata monarchia austro-ungarica oppure originari dei territori annessi, siano sprovvisti della laurea in giurisprudenza, hanno diritto alla iscrizione in un albo di avvocati purche' siano in possesso degli altri requisiti prescritti dal presente decreto.
 
-#### Art. 84
+### Art. 84
 
 Rimane ferma per i difensori penali la disposizione dell'art. 1 del R. decreto 29 giugno 1922, n. 960.
 
 I difensori penali, i quali, alla data di entrata in vigore del presente decreto, abbiano oltre dieci anni di esercizio professionale, hanno diritto all'iscrizione in un albo di avvocati purche' siano in possesso dei requisiti di cui ai numeri 1°, 2°, 3° e 4° dell'art. 17.
 
-#### Art. 85
+### Art. 85
 
 Coloro che, essendo candidati avvocati, avevano compiuto un biennio di pratica entro il 9 aprile 1926 ed abbiano conseguito l'idoneita' nell'esame di procuratore entro il 12 ottobre 1928, qualora alla data di entrata in vigore del presente decreto si trovino iscritti nell'albo dei procuratori, possono patrocinare in materia penale davanti a tutti i Tribunali e le Corti d'appello e di assise del Regno per il tempo che ancora occorresse ad integrare il periodo di esercizio professionale richiesto per l'iscrizione nell'albo degli avvocati.
 
-#### Art. 86
+### Art. 86
 
 Gli avvocati che si trovavano iscritti negli albi dei territori annessi al 12 ottobre 1926 possono ottenere l'iscrizione nell'albo speciale preveduto nell'art. 33 dopo cinque anni di esercizio professionale.
 
-#### Art. 87
+### Art. 87
 
 L'acquisto di una cittadinanza straniera, a termini dei trattati e delle convenzioni internazionali in vigore, in seguito ad opzione o a mancato esercizio del diritto di opzione per quella italiana, oppure il rifiuto dell'autorita' di riconoscere la cittadinanza italiana, o anche la perdita di questa dopo che sia stata acquistata, producono di diritto la cancellazione dall'albo nei riguardi di coloro che, quali pertinenti ad uno dei Comuni dei territori annessi, hanno ottenuto l'iscrizione in un albo di avvocati o di procuratori.
 
-#### Art. 88
+### Art. 88
 
 Agli effetti del presente decreto sono equiparati agli ex combattenti coloro che durante la guerra 1915-1918, essendo sudditi della cessata monarchia austro-ungarica, hanno prestato servizio militare come volontari nel Regio esercito italiano o nella Regia marina italiana.
 
 Quelli tra essi che all'atto dell'arruolamento erano praticanti avvocati ed avevano compiuto sei anni di pratica, di cui uno almeno di pratica giudiziaria, hanno ,diritto di essere iscritti in un albo di avvocati, purche' siano in possesso dei requisiti di cui ai numeri 2° e 3° dell'art. 17.
 
-#### Art. 89
+### Art. 89
 
 Per gli effetti del presente decreto l'esercizio del patrocinio presso le magistrature delle isole italiane dell'Egeo, in conformita' alle norme ivi vigenti, puo', col parere favorevole del Governatore, essere considerato come pratica forense.
 
-#### Art. 90
+### Art. 90
 
 L'avvocato o il procuratore iscritto in un albo del Regno, il quale sia ammesso ad esercitare ed eserciti effettivamente il patrocinio presso le magistrature delle isole italiane dell'Egeo, secondo le norme ivi vigenti, puo' mantenere l'iscrizione nell'albo stesso ma non puo' esercitare contemporaneamente la professione nel Regno.
 
@@ -966,11 +960,11 @@ Coloro i quali alla data di entrata in vigore del presente decreto esercitano da
 
 ## TITOLO IX - Disposizioni finali e transitorie.
 
-#### Art. 91
+### Art. 91
 
 Alle professioni di avvocato ,e di procuratore non si applicano le norme che disciplinano la qualifica di specialista nei vari rami di esercizio professionale.
 
-#### Art. 92
+### Art. 92
 
 E' data facolta' ai Direttori dei Sindacati di stabilire tasse speciali per i pareri sulle liquidazioni degli onorari di avvocato e per il rilascio dei certificati e delle copie degli atti e documenti relativi ai procedimenti disciplinari. Il provento di queste tasse e' attribuito ai Sindacati.
 
@@ -978,7 +972,7 @@ Le deliberazioni riguardanti le tasse prevedute nel precedente comma devono esse
 
 Non puo' essere imposta alcuna tassa relativamente alla iscrizione negli albi professionali e nei registri dei praticanti.
 
-#### Art. 93
+### Art. 93
 
 I candidati agli esami di procuratore che ottengano l'idoneita' e abbiano diritto alla iscrizione nell'albo senza limitazione di numero non sono compresi nelle graduatorie da formarsi a norma dell'art. 23.
 
@@ -992,7 +986,7 @@ AGGIORNAMENTO (25)
 
 Il D.L. 21 maggio 2003, n. 112, convertito con modificazioni dalla L. 18 luglio 2003, n. 180, ha disposto (con l'art. 5-bis, 1 comma) che "Salvo che sia diversamente previsto dal presente decreto e salvo i casi di abrogazione per incompatibilita', nel regio decreto-legge 27 novembre 1933, n. 1578, convertito, con modificazioni, dalla legge 22 gennaio 1934, n. 36, e nel regio decreto 22 gennaio 1934, n. 37, il riferimento alla commissione esaminatrice si intende alla sottocommissione esaminatrice".
 
-#### Art. 94
+### Art. 94
 
 Salvo quanto e' disposto nell'art. 16, comma secondo, conservano l'iscrizione negli albi gli avvocati e i procuratori che la conseguirono in conformita' alle disposizioni anteriori alla legge 25 marzo 1926, n. 453.
 
@@ -1000,19 +994,19 @@ L'incompatibilita' preveduta nell'art. 3, comma secondo, non si applica agli imp
 
 ((COMMA ABROGATO DALLA L. 23 NOVEMBRE 1939, N. 1949)).
 
-#### Art. 95
+### Art. 95
 
 Gli avvocati iscritti nell'albo anteriormente alla data di entrata in vigore della legge 25 marzo 1926, n. 453, conservano, ancorche' non iscritti nell'albo speciale di cui all'articolo 33, la facolta' di patrocinare dinanzi al Tribunale superiore delle acque pubbliche, alla Corte dei conti in sede giurisdizionale, al Tribunale Supremo Militare ed alla Commissione centrale per le imposte dirette. Eguale facolta' e' riconosciuta ai procuratori iscritti nell'alba prima della data predetta.
 
 Per gli avvocati indicati nel precedente comma il periodo di esercizio professionale ai fini dell'iscrizione nell'albo speciale e' stabilito in cinque anni.
 
-#### Art. 96
+### Art. 96
 
 I procuratori iscritti nell'albo prima della data di entrata in vigore della legge 25 marzo 1926, n. 453, i quali abbiano conseguito la laurea in giurisprudenza anteriormente al 1° gennaio 1930, conservano la facolta' di patrocinare in materia penale davanti a tutti i Tribunali e le Corti d'appello e di assise del Regno per il tempo che occorresse ad integrare il periodo di esercizio professionale richiesto per l'iscrizione nell'albo degli avvocati.
 
 ((La facolta' di patrocinare in materia penale dinanzi alle Corti di appello e di assise del Regno, accordata ai procuratori di cui all'art. 68 della legge 25 marzo 1926-IV, numero 453, cessa con l'entrata in vigore della presente legge)).
 
-#### Art. 97
+### Art. 97
 
 Il periodo di pratica compiuto anteriormente alla data di entrata in vigore del presente decreto e' calcolato ai fini del l'adempimento della pratica prescritta dal decreto medesimo.
 
@@ -1030,11 +1024,11 @@ AGGIORNAMENTO (3)
 
 Il Regio D.L. 20 gennaio 1936, n. 163, convertito senza modificazioni dalla L. 11 maggio 1936, n. 889, ha disposto (con l'art. 2, comma 1) che "I praticanti avvocati preveduti nell'art. 97, comma terzo, del R. decreto-legge 27 novembre 1933, n. 1578, convertito nella logge 22 gennaio 1934, n. 36, i quali, perche' richiamati alle armi o comunque a causa del servizio militare, non possano sostenere l'esame di avvocato entro il 31 dicembre 1938, sono ammessi a parteciparvi anche dopo tale data ma in ogni caso non oltre il termine di quattro anni dal loro congedamento dalle armi".
 
-#### Art. 98
+### Art. 98
 
 I Seminari ed altri Istituti costituiti presso un'Universita' del Regno che siano stati gia' riconosciuti agli effetti della pratica di avvocato sono senz'altro autorizzati ad istituire speciali corsi per la pratica di procuratore ai sensi dell'articolo 18, comma primo.
 
-#### Art. 99
+### Art. 99
 
 Gli esami di procuratore per l'anno 1934 che non siano stati indetti alla data di pubblicazione del presente decreto saranno banditi entro un mese dalla data di entrata in vigore del decreto medesimo. Per i detti esami il ((Ministro della giustizia)) ha facolta' di prescindere dalle indicazioni e dai' pareri preveduti nell'art. 19.
 
@@ -1048,7 +1042,7 @@ Con la stessa data i beni spettanti alle Commissioni Reali sono devoluti di diri
 
 A decorrere dal giorno della pubblicazione del presente decreto le Commissioni Reali non possono assumere nuove obbligazioni se non previa autorizzazione del ((Ministro della giustizia)).
 
-#### Art. 100
+### Art. 100
 
 ((Le norme relative alla determinazione degli onorari di avvocato, attualmente vigenti, avranno efficacia fino alla entrata in vigore del nuovo Codice di procedura civile)).
 
@@ -1064,7 +1058,7 @@ AGGIORNAMENTO (6)
 
 Il Regio D.L. 27 ottobre 1937, n. 2034, convertito senza modificazioni dalla L. 19 maggio 1938, n. 725, nel modificare l'art. 1, comma 1 del Regio D.L. 21 dicembre 1936, n. 2160, convertito senza modificazioni dalla L. 7 giugno 1937, n. 1001, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' prorogato fino al 30 giugno 1939 il termine fissato nell'art. 1 del R. decreto-legge 21 dicembre 1936, n. 2160, convertito nella legge 7 giugno 1937, n. 1001, per l'efficacia delle norme gia' in vigore relative alla determinazione degli onorari di avvocato".
 
-#### Art. 101
+### Art. 101
 
 Il presente decreto entrera' in vigore il 1° febbraio 1934, salvo le disposizioni dei commi seguenti, dell'art. 98 e dei commi primo, quarto e sesto dell'art. 99, la cui entrata in vigore avra' luogo con la pubblicazione del decreto stesso nella Gazzetta Ufficiale del Regno.
 

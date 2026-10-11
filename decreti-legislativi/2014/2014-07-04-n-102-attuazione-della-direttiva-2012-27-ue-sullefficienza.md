@@ -50,17 +50,15 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I
+## Titolo I - FINALITA' E OBIETTIVI
 
-### FINALITA' E OBIETTIVI
-
-#### Art. 1
+### Art. 1
 
 Finalita'
 
 1\. Il presente decreto, in attuazione della direttiva 2012/27/UE ((, come modificata dalla direttiva (UE) 2018/2002,)) e nel rispetto dei criteri fissati dalla legge 6 agosto 2013, n. 96, stabilisce un quadro di misure per la promozione e il miglioramento dell'efficienza energetica che concorrono al conseguimento dell'obiettivo nazionale di risparmio energetico indicato all'articolo 3 ((e che contribuiscono all'attuazione del principio europeo che pone l'efficienza energetica "al primo posto")). Il presente decreto, inoltre, detta norme finalizzate a rimuovere gli ostacoli sul mercato dell'energia e a superare le carenze del mercato che frenano l'efficienza nella fornitura e negli usi finali dell'energia.
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -180,7 +178,7 @@ uu) tonnellata equivalente di petrolio (Tep): unita' di misura dell'energia pari
 
 vv) UNI: Ente nazionale italiano di unificazione.
 
-#### Art. 3
+### Art. 3
 
 Obiettivo nazionale di risparmio energetico
 
@@ -192,11 +190,9 @@ b) nel contributo nazionale minimo di efficienza energetica al 2030 notificato a
 
 2\. Le Regioni, in attuazione dei propri strumenti di programmazione energetica possono concorrere, con il coinvolgimento degli Enti Locali, al raggiungimento dell'obiettivo nazionale di cui al comma 1.
 
-## Titolo II
+## Titolo II - EFFICIENZA NELL'USO DELL'ENERGIA
 
-### EFFICIENZA NELL'USO DELL'ENERGIA
-
-#### Art. 4
+### Art. 4
 
 Promozione dell'efficienza energetica negli edifici
 
@@ -210,7 +206,7 @@ Promozione dell'efficienza energetica negli edifici
 
 Ai componenti della cabina non spetta alcun compenso comunque denominato ne' rimborso spese, e all'attuazione del presente comma si provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente, senza nuovi o maggiori oneri per il bilancio dello Stato.))
 
-#### Art. 5
+### Art. 5
 
 Miglioramento della prestazione energetica degli immobili della Pubblica Amministrazione
 
@@ -272,7 +268,7 @@ b) di provvedimenti volti a favorire l'introduzione di un sistema di gestione de
 
 17\. Le imprese che effettuano la fornitura di energia per utenze intestate a una pubblica amministrazione locale, su specifica richiesta della Regione o Provincia autonoma interessata, comunicano alla stessa, i consumi annuali, suddivisi per vettore energetico, delle utenze oggetto della richiesta. La suddetta richiesta contiene i riferimenti delle utenze e i relativi codici di fornitura. Le Regioni e le Province Autonome, rendono disponibili le informazioni di cui al presente comma sui propri siti istituzionali.
 
-#### Art. 6
+### Art. 6
 
 Acquisti delle Pubbliche amministrazioni centrali
 
@@ -304,7 +300,7 @@ Tutte le stazioni appaltanti dovranno applicare il criterio del presente articol
 
 9\. Le amministrazioni diverse da quelle di cui al comma 1, comprese le Regioni, le Province Autonome di Trento e Bolzano, gli Enti Locali, ciascuno nell'ambito delle proprie competenze, adeguano i propri ordinamenti ai principi contenuti nel presente articolo.
 
-#### Art. 7
+### Art. 7
 
 ((Obiettivo)) obbligatorio di efficienza energetica
 
@@ -360,7 +356,7 @@ c) all'articolo 7, comma 3, dopo le parole: «immediatamente esecutivo» sono in
 
 ((8. I risparmi di energia per i quali non siano stati riconosciuti titoli di efficienza energetica o altri incentivi, rispetto all'anno precedente e in condizioni normalizzate, riscontrabili dai bilanci energetici predisposti da imprese che attuano un sistema di gestione dell'energia conforme alla norma ISO 50001, e dagli audit previsti dal presente decreto, nonche' dagli enti pubblici che abbiano aderito ad una convenzione CONSIP relativa a servizio energia, illuminazione o energy management sono comunicati dalle imprese all'ENEA e concorrono al raggiungimento degli obiettivi di cui al presente articolo.))
 
-#### Art. 8
+### Art. 8
 
 Diagnosi energetiche e sistemi di gestione dell'energia
 
@@ -398,7 +394,7 @@ All'attuazione delle attivita' previste dal presente comma si provvede, nel limi
 
 11\. ((All'attuazione delle attivita' previste dai commi 5, 6 e 10-ter)) del presente articolo si provvede nel limite massimo di 0,3 milioni di euro per ciascuno degli anni dal 2014 al 2020 ((e di 0,4 milioni di euro per ciascuno degli anni dal 2021-2030)), a valere sulla quota spettante al Ministero dello sviluppo economico dei proventi annui delle aste delle quote di emissione di CO2 di cui all'articolo 19 del decreto legislativo 13 marzo 2013, n. 30, destinati ai progetti energetico ambientali, con le modalita' e nei limiti di cui ai commi 3 e 6 dello stesso articolo 19, previa verifica dell'entita' dei proventi disponibili annualmente.
 
-#### Art. 9
+### Art. 9
 
 Misurazione e fatturazione dei consumi energetici
 
@@ -514,11 +510,9 @@ L'Autorita' per l'energia elettrica, il gas e il sistema idrico assicura, altres
 
 8-quater. I costi derivanti dallo svolgimento delle attivita' di cui al comma 8-ter, e concernenti la contabilizzazione, la ripartizione e il calcolo del consumo individuale effettivo nei condomini e negli edifici polifunzionali, possono essere fatturati agli utenti nella misura in cui tali costi sono ragionevoli. Al fine di garantire la ragionevolezza dei costi di cui al presente comma l'ENEA, in collaborazione con il CTI, entro centoventi giorni dalla data di entrata in vigore della presente disposizione, pubblica un rapporto contenente un'analisi del mercato e dei costi di tali servizi a livello nazionale, se del caso suddiviso per aree geografiche.
 
-## Titolo III
+## Titolo III - EFFICIENZA NELLA FORNITURA DELL'ENERGIA
 
-### EFFICIENZA NELLA FORNITURA DELL'ENERGIA
-
-#### Art. 10
+### Art. 10
 
 Promozione dell'efficienza per il riscaldamento e il raffreddamento
 
@@ -618,7 +612,7 @@ e) stabilisce le tariffe di cessione del calore, in modo da armonizzare gli obie
 
 L'Autorita' per l'energia elettrica, il gas ed il sistema idrico esercita i poteri di controllo, ispezione e sanzione previsti dalla legge 14 novembre 1995, n. 481.
 
-#### Art. 11
+### Art. 11
 
 Trasformazione, trasmissione e distribuzione dell'energia
 
@@ -640,11 +634,9 @@ f) ad adottare disposizioni affinche', nei vincoli derivanti dalle esigenze di s
 
 3\. Con uno o piu' provvedimenti e con riferimento ai clienti domestici, l'((Autorita' per l'energia elettrica, il gas e il sistema idrico)) adegua le componenti della tariffa elettrica da essa stessa definite, con l'obiettivo di superare la struttura progressiva rispetto ai consumi e adeguare le predette componenti ai costi del relativo servizio, secondo criteri di gradualita'. L'adeguamento della struttura tariffaria deve essere tale da stimolare comportamenti virtuosi da parte dei cittadini, favorire il conseguimento degli obiettivi di efficienza energetica e non determina impatti sulle categorie di utenti con struttura tariffaria non progressiva. Su proposta della stessa Autorita', il Ministro dello sviluppo economico, in relazione alla valutazione ex-ante dell'impatto conseguente all'adeguamento e al fine di tutelare i clienti appartenenti a fasce economicamente svantaggiate, definisce eventuali nuovi criteri per la determinazione delle compensazioni della spesa sostenuta per la fornitura di energia elettrica, di cui al decreto del Ministro dello sviluppo economico 28 dicembre 2007, pubblicato nella Gazzetta Ufficiale n. 41 del 18 febbraio 2008, recante determinazione dei criteri per la definizione delle compensazioni della spesa sostenuta per la fornitura di energia elettrica per i clienti economicamente svantaggiati e per i clienti in gravi condizione di salute.
 
-## Titolo IV
+## Titolo IV - DISPOSIZIONI ORIZZONTALI
 
-### DISPOSIZIONI ORIZZONTALI
-
-#### Art. 12
+### Art. 12
 
 Disponibilita' di regimi di qualificazione, accreditamento e certificazione
 
@@ -668,7 +660,7 @@ c) organizzazioni certificate ISO 50001;
 
 d) ((LETTERA SOPPRESSA DAL D.LGS. 14 LUGLIO 2020, N. 73)).
 
-#### Art. 13
+### Art. 13
 
 (( (Programma nazionale di informazione e formazione sull'efficienza energetica).))
 
@@ -700,7 +692,7 @@ l) promuovere e predisporre una guida facile, riepilogativa, aggiornata annualme
 
 4\. All'attuazione del programma di cui al comma 1, si provvede nel limite massimo di 3 milioni di euro per ciascuno degli anni dal 2021 al 2030, a valere sulla quota spettante al Ministero dello sviluppo economico, dei proventi annui delle aste delle quote di emissione di CO2 di cui all'articolo 19 del decreto legislativo 13 marzo 2013, n. 30, destinati ai progetti energetico-ambientali, con le modalita' e nei limiti di cui ai commi 3 e 6 dello stesso articolo 19, previa verifica dell'entita' dei proventi disponibili annualmente.))
 
-#### Art. 14
+### Art. 14
 
 Servizi energetici ed altre misure per promuovere l'efficienza energetica
 
@@ -752,7 +744,7 @@ iv. in tutti i casi, posizionare i terminali di scarico in conformita' alla vige
 
 12-bis. Lo Stato, le regioni e gli enti locali, anche con il supporto dell'ANCI, favoriscono l'eliminazione degli ostacoli di ordine regolamentare e non regolamentare all'efficienza energetica, attraverso la massima semplificazione delle procedure amministrative, l'adozione di orientamenti e comunicazioni interpretative e la messa a disposizione di informazioni chiare e precise per la promozione dell'efficienza energetica.
 
-#### Art. 15
+### Art. 15
 
 Fondo nazionale per l'efficienza energetica
 
@@ -810,7 +802,7 @@ e) realizzare reti per il teleriscaldamento e per il teleraffrescamento in ambit
 
 10\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 16
+### Art. 16
 
 Sanzioni
 
@@ -892,15 +884,13 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 18 luglio 2016, n. 141 ha disposto (con l'art. 11, comma 1, lettera d)) che "al comma 5, le parole: «L'impresa di fornitura del servizio di energia termica tramite teleriscaldamento o teleriscaldamento o tramite un sistema di fornitura centralizzato che alimenta una pluralita' di edifici», sono sostituite dalle seguenti parole: «L'esercente l'attivita' di misura»".
 
-## Titolo V
+## Titolo V - DISPOSIZIONI FINALI
 
-### DISPOSIZIONI FINALI
-
-#### Art. 17
+### Art. 17
 
 ((ARTICOLO ABROGATO DAL D.LGS. 14 LUGLIO 2020, N. 73))
 
-#### Art. 18
+### Art. 18
 
 Abrogazioni
 
@@ -1098,7 +1088,7 @@ b) l'articolo 7, comma 2, del decreto del Ministro dello sviluppo economico 28 d
 
 > 3\. Il GSE comunica con cadenza annuale al Ministero dello sviluppo economico e al Ministero dell'ambiente e della tutela del territorio e del mare e alle regioni e province autonome la ragione sociale delle societa' operanti nel settore dei servizi energetici che rispondono alla definizione contenuta nelle linee guida di cui all'art. 6, comma 2, e che hanno presentato richieste di verifica e di certificazione dei risparmi realizzati da specifici progetti.".
 
-#### Art. 19
+### Art. 19
 
 Disposizioni finali e clausola di invarianza finanziaria
 
@@ -1114,7 +1104,7 @@ Disposizioni finali e clausola di invarianza finanziaria
 
 > Per i riferimenti normativi della direttiva 2012/27/UE, si veda nelle note alle premesse.
 
-#### Art. 20
+### Art. 20
 
 Entrata in vigore
 
@@ -1146,11 +1136,9 @@ Madia, Ministro per la semplificazione e la pubblica amministrazione
 
 Visto, il Guardasigilli: Orlando
 
-## Titolo V
+## Titolo V - DISPOSIZIONI FINALI
 
-### DISPOSIZIONI FINALI
-
-#### Allegato 1
+### Allegato 1
 
 ALLEGATO 1
 
@@ -1235,7 +1223,7 @@ Prodotti, servizi ed edifici disciplinati da legislazione comunitaria
 +-----------------------+------------------+------------------------+
 ```
 
-#### Allegato 2
+### Allegato 2
 
 ((ALLEGATO 2
 
@@ -1253,13 +1241,13 @@ d) sono proporzionati e sufficientemente rappresentativi per consentire di tracc
 
 Gli audit energetici consentono calcoli dettagliati e convalidati per le misure proposte in modo da fornire informazioni chiare sui potenziali risparmi. I dati utilizzati per gli audit energetici possono essere conservati per le analisi storiche e per il monitoraggio della prestazione.))
 
-#### Allegato 3
+### Allegato 3
 
 ALLEGATO 3
 
 ((ALLEGATO ABROGATO DAL D.LGS. 14 LUGLIO 2020, N. 73))
 
-#### Allegato 4
+### Allegato 4
 
 ALLEGATO 4
 
@@ -1289,7 +1277,7 @@ Ai fini del confronto, si tiene conto della domanda di energia termica e delle t
 
 I progetti con risultati positivi in termini di costi-benefici sono quelli in cui la somma dei benefici attualizzati nell'analisi supera la somma dei costi attualizzati (surplus costi-benefici).
 
-#### Allegato 5
+### Allegato 5
 
 ((ALLEGATO 5
 
@@ -1315,7 +1303,7 @@ h) l'indice PES, calcolato conformemente agli allegati al decreto legislativo 20
 
 i) eventuali forme di sostegno di cui abbia beneficiato l'unita'.))
 
-#### Allegato 6
+### Allegato 6
 
 ((ALLEGATO 6
 
@@ -1349,7 +1337,7 @@ c) tariffazione in tempo reale; e
 
 d) tariffazione ridotta in ora di punta.))
 
-#### Allegato 7
+### Allegato 7
 
 ALLEGATO 7
 
@@ -1371,7 +1359,7 @@ c) definire procedure standardizzate e semplificate per facilitare la connession
 
 Le norme standard di cui alla lettera a) si basano su criteri oggettivi, trasparenti e non discriminatori che tengono conto in particolare di tutti i costi e i benefici della connessione di tali produttori alla rete. Esse possono prevedere diversi tipi di connessione.
 
-#### Allegato 8
+### Allegato 8
 
 ((ALLEGATO 8
 
@@ -1401,7 +1389,7 @@ k) Disposizioni che chiariscono la procedura per gestire modifiche delle condizi
 
 l) Informazioni dettagliate sugli obblighi di ciascuna delle parti contraenti e sulle sanzioni in caso di inadempienza.))
 
-#### Allegato 9
+### Allegato 9
 
 ((ALLEGATO 9
 

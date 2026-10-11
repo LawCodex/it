@@ -29,7 +29,7 @@ la seguente legge:
 
 ## Capo I - Disposizioni generali
 
-#### Art. 1
+### Art. 1
 
 Oggetto della delega al Governo e procedure per l'esercizio della stessa
 
@@ -55,7 +55,7 @@ Oggetto della delega al Governo e procedure per l'esercizio della stessa
 
 > \- La raccomandazione 2014/135/UE del 12 marzo 2014 su un nuovo approccio al fallimento delle imprese e all'insolvenza, e' pubblicata nella GUUE n. L 74/65 del 14 marzo 2014.
 
-#### Art. 2
+### Art. 2
 
 Principi generali
 
@@ -167,11 +167,9 @@ p) armonizzare le procedure di gestione della crisi e dell'insolvenza del datore
 
 > \- La direttiva 2001/23/CE del Consiglio del 12 marzo 2001 concerne il ravvicinamento delle legislazioni degli Stati membri relative al mantenimento dei diritti dei lavoratori in caso di trasferimenti di imprese, di stabilimenti o di parti di imprese o di stabilimenti, e' pubblicata nella GUUE n. L 283/36 del 28 ottobre 2008.
 
-## Capo II - Principi e criteri direttivi per la riforma della disciplina delle
+## Capo II - Principi e criteri direttivi per la riforma della disciplina delle procedure di crisi e dell'insolvenza
 
-### procedure di crisi e dell'insolvenza
-
-#### Art. 3
+### Art. 3
 
 Gruppi di imprese
 
@@ -265,7 +263,7 @@ d) la disciplina di eventuali proposte di concordato liquidatorio giudiziale, in
 
 > Le cooperative aderenti ad un gruppo sono tenute a depositare in forma scritta l'accordo di partecipazione presso l'albo delle societa' cooperative.».
 
-#### Art. 4
+### Art. 4
 
 Procedure di allerta e di composizione assistita della crisi
 
@@ -303,7 +301,7 @@ i) regolare i rapporti tra la procedura di composizione assistita della crisi av
 
 > Nel caso in cui i fatti indicati nel primo comma hanno cagionato un danno patrimoniale di speciale tenuita', le pene sono ridotte fino al terzo.».
 
-#### Art. 5
+### Art. 5
 
 Accordi di ristrutturazione dei debiti e piani attestati di risanamento
 
@@ -369,7 +367,7 @@ f) imporre la rinnovazione delle prescritte attestazioni nel caso di successive 
 
 > La relazione dell'ausiliario e' trasmessa a norma dell'art. 161, quinto comma.».
 
-#### Art. 6
+### Art. 6
 
 Procedura di concordato preventivo
 
@@ -499,7 +497,7 @@ c) prevedere che, in caso di operazioni di trasformazione, fusione o scissione p
 
 > Resta salvo il diritto al risarcimento del danno eventualmente spettante ai soci o ai terzi danneggiati dalla fusione.».
 
-#### Art. 7
+### Art. 7
 
 Procedura di liquidazione giudiziale
 
@@ -643,7 +641,7 @@ d) disciplinare e incentivare le proposte di concordato liquidatorio giudiziale 
 
 > \- Per l'art. 2497 del Codice civile, si veda nelle note all'art. 3.
 
-#### Art. 8
+### Art. 8
 
 Esdebitazione
 
@@ -655,7 +653,7 @@ b) introdurre particolari forme di esdebitazione di diritto riservate alle insol
 
 c) prevedere anche per le societa' l'ammissione al beneficio della liberazione dai debiti residui nei confronti dei creditori concorsuali non soddisfatti, previo riscontro dei presupposti di meritevolezza in capo agli amministratori e, nel caso di societa' di persone, in capo ai soci.
 
-#### Art. 9
+### Art. 9
 
 Sovraindebitamento
 
@@ -709,13 +707,13 @@ m) attribuire anche ai creditori e al pubblico ministero l'iniziativa per la con
 
 > 3-quater. Il deposito della proposta di accordo o di piano del consumatore sospende, ai soli effetti del concorso, il corso degli interessi convenzionali o legali, a meno che i crediti non siano garantiti da ipoteca, da pegno o privilegio, salvo quanto previsto dagli articoli 2749, 2788 e 2855, commi secondo e terzo, del codice civile.».
 
-#### Art. 10
+### Art. 10
 
 Privilegi
 
 1\. Nell'esercizio della delega di cui all'articolo 1, il Governo procede al riordino e alla revisione del sistema dei privilegi, principalmente con l'obiettivo di ridurre le ipotesi di privilegio generale e speciale, con particolare riguardo ai privilegi retentivi, eliminando quelle non piu' attuali rispetto al tempo in cui sono state introdotte e adeguando in conformita' l'ordine delle cause legittime di prelazione.
 
-#### Art. 11
+### Art. 11
 
 Garanzie non possessorie
 
@@ -733,7 +731,7 @@ e) prevedere forme di pubblicita' e di controllo giurisdizionale dell'esecuzione
 
 2\. Per l'attuazione delle disposizioni di cui al comma 1, lettera a), e' autorizzata la spesa di euro 150.000 per l'anno 2017. Al relativo onere si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2017-2019, nell'ambito del programma «Fondi di riserva e speciali» della missione «Fondi da ripartire» dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2017, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero della giustizia.
 
-#### Art. 12
+### Art. 12
 
 Garanzie in favore degli acquirenti di immobili da costruire
 
@@ -775,7 +773,7 @@ b) prevedere che dall'inadempimento dell'obbligo assicurativo di cui all'articol
 
 > «Art. 4 (Assicurazione dell'immobile). - 1. Il costruttore e' obbligato a contrarre ed a consegnare all'acquirente all'atto del trasferimento della proprieta' una polizza assicurativa indennitaria decennale a beneficio dell'acquirente e con effetto dalla data di ultimazione dei lavori a copertura dei danni materiali e diretti all'immobile, compresi i danni ai terzi, cui sia tenuto ai sensi dell'art. 1669 del codice civile, derivanti da rovina totale o parziale oppure da gravi difetti costruttivi delle opere, per vizio del suolo o per difetto della costruzione, e comunque manifestatisi successivamente alla stipula del contratto definitivo di compravendita o di assegnazione.».
 
-#### Art. 13
+### Art. 13
 
 Rapporti tra liquidazione giudiziale e misure penali
 
@@ -789,7 +787,7 @@ Rapporti tra liquidazione giudiziale e misure penali
 
 > \- Il decreto legislativo 8 giugno 2001, n. 231 (Disciplina della responsabilita' amministrativa delle persone giuridiche, delle societa' e delle associazioni anche prive di personalita' giuridica, a norma dell'art. 11 della legge 29 settembre 2000, n. 300), e' pubblicato nella Gazzetta Ufficiale n. 32 dell'8 febbraio 2012.
 
-#### Art. 14
+### Art. 14
 
 Modifiche al codice civile
 
@@ -893,7 +891,7 @@ i) che l'obbligo di nomina dell'organo di controllo o del revisore cessi, per la
 
 > «Art. 2545-duodecies (Scioglimento). - La societa' cooperativa si scioglie per le cause indicate ai numeri 1), 2), 3), 5), 6) e 7) dell'art. 2484, nonche' per la perdita del capitale sociale.».
 
-#### Art. 15
+### Art. 15
 
 Liquidazione coatta amministrativa
 
@@ -915,7 +913,7 @@ b) attribuire alle autorita' amministrative di vigilanza le competenze in tema d
 
 ## Capo III - Disposizioni finanziarie
 
-#### Art. 16
+### Art. 16
 
 Disposizioni finanziarie
 

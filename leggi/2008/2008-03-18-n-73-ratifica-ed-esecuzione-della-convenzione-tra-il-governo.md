@@ -27,19 +27,19 @@ Promulga
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la Convenzione tra il Governo della Repubblica italiana e il Governo della Repubblica di Lettonia per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio e per prevenire le evasioni fiscali, con Protocollo aggiuntivo, fatta a Riga il 21 maggio 1997, e relativo Scambio di Note, effettuato a Roma il 9 dicembre 2004.
 
-#### Art. 2
+### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data alla Convenzione di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 32 della Convenzione stessa.
 
-#### Art. 3
+### Art. 3
 
 Copertura finanziaria
 
@@ -49,7 +49,7 @@ Copertura finanziaria
 
 3\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 4
+### Art. 4
 
 Entrata in vigore
 
@@ -73,9 +73,7 @@ D'Alema, Ministro degli affari esteri
 
 Visto, Il Guardasigilli: Scotti
 
-## Capitolo I - Campo di applicazione
-
-### della Convenzione
+## Capitolo I - Campo di applicazione della Convenzione
 
 Allegato
 
@@ -91,13 +89,13 @@ desiderosi di concludere una Convenzione per evitare le doppie imposizioni in ma
 
 Hanno convenuto quanto segue:
 
-#### Articolo 1
+### Articolo 1
 
 SOGGETTI
 
 La presente Convenzione si applica alle persone che sono residenti di uno o di entrambi gli Stati contraenti.
 
-#### Articolo 2
+### Articolo 2
 
 IMPOSTE CONSIDERATE
 
@@ -123,7 +121,7 @@ IMPOSTE CONSIDERATE
 
 ## Capitolo II - Definizioni
 
-#### Articolo 3
+### Articolo 3
 
 DEFINIZIONI GENERALI
 
@@ -157,7 +155,7 @@ DEFINIZIONI GENERALI
 
 2\. Per l'applicazione della presente Convenzione da parte di uno Stato contraente, le espressioni non diversamente definite hanno il significato che ad esse e' attribuito dalla legislazione di detto Stato relativa alle imposte oggetto della Convenzione, a meno che il contesto non richieda una diversa interpretazione.
 
-#### Articolo 4
+### Articolo 4
 
 RESIDENTI
 
@@ -175,7 +173,7 @@ RESIDENTI
 
 3\. Quando, in base alle disposizioni del paragrafo I, una persona diversa da una persona fisica e' considerata residente di entrambi gli Stati contraenti, le autorita' competenti degli Stati contraenti faranno del loro meglio per risolvere la questione di comune accordo con particolare riguardo alla sede di sua direzione effettiva, al luogo in cui e' stata costituita o altrimenti creata e ad ogni altro elemento pertinente e per determinare le modalita' di applicazione della Convenzione a tale persona. In mancanza di tale accordo, detta persona non e' considerata residente di alcuno degli Stati contraenti ai fini dell'applicazione degli articoli da 6 a 24 incluso e dell'articolo 26.
 
-#### Articolo 5
+### Articolo 5
 
 STABILE ORGANIZZAZIONE
 
@@ -215,7 +213,7 @@ Tuttavia, se le attivita' di detto intermediario sono esercitate esclusivamente 
 
 ## Capitolo III - Imposizione dei redditi
 
-#### Articolo 6
+### Articolo 6
 
 REDDITI IMMOBILIARI
 
@@ -231,7 +229,7 @@ L'espressione comprende in ogni caso gli accessori, le scorte morte o vive delle
 
 5\. Le disposizioni dei paragrafi 1, 3 e 4 si applicano anche ai redditi derivanti dai beni immobili di un'impresa nonche' ai redditi dei beni immobili utilizzati per l'esercizio di una professione indipendente.
 
-#### Articolo 7
+### Articolo 7
 
 UTILI DELLE IMPRESE
 
@@ -249,7 +247,7 @@ UTILI DELLE IMPRESE
 
 7\. Quando gli utili comprendono elementi di reddito considerati separatamente in altri articoli della presente Convenzione, le disposizioni di tali articoli non vengono modificate da quelle del presente articolo.
 
-#### Articolo 8
+### Articolo 8
 
 NAVIGAZIONE MARITTIMA ED AEREA
 
@@ -257,7 +255,7 @@ NAVIGAZIONE MARITTIMA ED AEREA
 
 2\. Le disposizioni del paragrafo 1 si applicano parimenti agli utili derivanti dalla partecipazione a un fondo comune (pool), a un esercizio in comune o ad un organismo internazionale di esercizio.
 
-#### Articolo 9
+### Articolo 9
 
 IMPRESE ASSOCIATE
 
@@ -269,7 +267,7 @@ Allorche'
 
 e, nell'uno e nell'altro caso, le due imprese, nelle loro relazioni commerciali o finanziarie, sono vincolate da condizioni accettate o imposte, diverse da quelle che sarebbero state convenute tra imprese indipendenti, gli utili che, in mancanza di tali condizioni, sarebbero stati realizzati da una delle imprese, ma che, a causa di dette condizioni, non lo sono stati, possono essere inclusi da parte di uno Stato contraente negli utili di questa impresa e tassati in conseguenza.
 
-#### Articolo 10
+### Articolo 10
 
 DIVIDENDI
 
@@ -291,7 +289,7 @@ In tal caso, i. dividendi sono imponibili in detto altro Stato contraente second
 
 5\. Qualora una societa' residente di uno Stato contraente ricavi utili o redditi dall'altro Stato contraente, detto altro Stato non puo' applicare alcuna imposta sui dividendi pagati dalla societa', a meno che tali dividendi siano pagati ad un residente di detto altro Stato o che la partecipazione generatrice dei dividendi si ricolleghi effettivamente ad una stabile organizzazione o a una base fissa situate in detto altro Stato, ne' prelevare alcuna imposta, a titolo di imposizione degli utili non distribuiti, sugli utili non distribuiti della societa', anche se i dividendi pagati o gli utili non distribuiti costituiscono in tutto o in parte utili o redditi realizzati in detto altro Stato.
 
-#### Articolo 11
+### Articolo 11
 
 INTERESSI
 
@@ -311,7 +309,7 @@ Tuttavia, quando il debitore degli interessi, sia esso residente o no di uno Sta
 
 7\. Se, in conseguenza di particolari relazioni esistenti tra il debitore e il beneficiario effettivo o tra ciascuno di essi e terze persone, l'ammontare degli interessi, tenuto conto del credito per il quale sono pagati, eccede quello che sarebbe stato convenuto tra il debitore e il beneficiario effettivo in assenza di simili relazioni, le disposizioni del presente articolo si applicano soltanto a quest'ultimo ammontare. In tal caso, la parte eccedente dei pagamenti e' imponibile in conformita' della legislazione di ciascuno Stato contraente e tenuto conto delle altre disposizioni della presente Convenzione.
 
-#### Articolo 12
+### Articolo 12
 
 CANONI
 
@@ -333,7 +331,7 @@ Tuttavia, quando il debitore dei canoni, sia esso residente o no di uno Stato co
 
 6\. Se, in conseguenza di particolari relazioni esistenti tra il debitore e il beneficiario effettivo o tra ciascuno di essi e terze persone, l'ammontare dei canoni, tenuto conto dell'uso, diritto o informazione per la quale sono pagati, eccede quello che sarebbe stato convenuto tra debitore e beneficiario effettivo in assenza di simili relazioni, le disposizioni del presente articolo si applicano soltanto a quest'ultimo ammontare. In tal caso, la parte eccedente dei pagamenti e' imponibile in conformita' della legislazione di ciascuno Stato contraente e tenuto conto delle altre disposizioni della presente Convenzione.
 
-#### Articolo. 13
+### Articolo. 13
 
 UTILI DI CAPITALE
 
@@ -345,7 +343,7 @@ UTILI DI CAPITALE
 
 4\. Gli utili derivanti dall'alienazione di ogni altro bene diverso da quelli menzionati ai paragrafi I, 2 e 3, sono imponibili soltanto nello Stato contraente di cui l'alienante e' residente.
 
-#### Articolo 14
+### Articolo 14
 
 PROFESSIONI INDIPENDENTI
 
@@ -353,7 +351,7 @@ PROFESSIONI INDIPENDENTI
 
 2\. L'espressione "libera professione" comprende in particolare le attivita' indipendenti di carattere scientifico, letterario, artistico, educativo o pedagogico, nonche' le attivita' indipendenti di medici, avvocati, ingegneri, architetti, dentisti e contabili.
 
-#### Articolo 15
+### Articolo 15
 
 LAVORO SUBORDINATO
 
@@ -369,13 +367,13 @@ LAVORO SUBORDINATO
 
 3\. Nonostante le disposizioni precedenti del. presente articolo, le remunerazioni percepite in corrispettivo di un lavoro subordinato svolto a bordo di navi o di aeromobili impiegati da un'impresa di uno Stato contraente in traffico internazionale, sono imponibili in detto Stato.
 
-#### Articolo 16
+### Articolo 16
 
 COMPENSI E GETTONI DI PRESENZA
 
 I compensi, i gettoni di presenza e le altre retribuzioni analoghe che un residente di uno Stato contraente riceve in qualita' di membro del consiglio di amministrazione di una societa' residente dell'altro Stato contraente, sono imponibili in detto altro Stato.
 
-#### Articolo 17
+### Articolo 17
 
 ARTISTI ED ATLETI
 
@@ -385,13 +383,13 @@ ARTISTI ED ATLETI
 
 3\. Le disposizioni dei paragrafi 1 e 2 non si applicano ai redditi derivanti da attivita' esercitate in uno Stato contraente da un artista di spettacolo o da uno sportivo se il soggiorno in detto Stato e' interamente o prevalentemente finanziato per mezzo di fondi pubblici dell'altro Stato contraente, o di una sua suddivisione politica o amministrativa o di un suo ente locale. In tal caso, il reddito e' imponibile soltanto nello Stato contraente di cui e' residente l'artista di spettacolo o lo sportivo.
 
-#### Articolo 18
+### Articolo 18
 
 PENSIONI
 
 Fatte salve le disposizioni del paragrafo 2 dell'articolo 19, le pensioni e le altre remunerazioni analoghe, pagate ad un residente di uno Stato contraente in relazione ad un cessato impiego, sono imponibili soltanto in questo Stato.
 
-#### Articolo 19
+### Articolo 19
 
 FUNZIONI PUBBLICHE
 
@@ -407,7 +405,7 @@ FUNZIONI PUBBLICHE
 
 3\. Le disposizioni degli articoli 15, 16 e 18 si applicano a stipendi, salari e altre remunerazioni analoghe, ed alle pensioni, pagate in corrispettivo di servizi resi nell'ambito di una attivita' industriale o commerciale esercitata da uno Stato contraente o da una sua suddivisione politica o amministrativa o da un suo ente locale.
 
-#### Articolo 20
+### Articolo 20
 
 PROFESSORI E RICERCATORI
 
@@ -415,13 +413,13 @@ PROFESSORI E RICERCATORI
 
 2\. Le disposizioni del paragrafo 1 del presente articolo non si applicano ai redditi di ricerca se questa non e' effettuata nell'interesse pubblico ma principalmente in quello privato di una o di piu' persone in particolare.
 
-#### Articolo 21
+### Articolo 21
 
 STUDENTI
 
 Le somme che uno studente o apprendista il quale e', o era immediatamente prima di recarsi in uno Stato contraente, residente dell'altro Stato contraente e che soggiorna nel primo Stato contraente al solo scopo di compiervi i suoi studi o di completarvi la propria formazione professionale, riceve per sopperire alle spese di mantenimento, di istruzione o di formazione professionale, non sono imponibili in detto Stato, a condizione che tali somme provengano da fonti situate fuori di detto Stato.
 
-#### Articolo 22
+### Articolo 22
 
 ATTIVITA' OFFSHORE
 
@@ -455,7 +453,7 @@ sono imponibili in detto altro Stato.
 
 Nel presente paragrafo l'espressione "diritti di esplorazione o sfruttamento" designa i diritti agli attivi patrimoniali derivanti dalla esplorazione o dello sfruttamento del fondo e del sottosuolo marino e delle loro risorse naturali nell'altro Stato contraente, inclusi i diritti a interessi oppure a benefici relativi a tali attivi patrimoniali.
 
-#### Articolo 23
+### Articolo 23
 
 ALTRI REDDITI
 
@@ -467,7 +465,7 @@ In tal caso gli elementi di reddito sono imponibili nell'altro Stato contraente 
 
 ## Capitolo IV - IMPOSIZIONE DEL PATRIMONIO
 
-#### Articolo 24
+### Articolo 24
 
 PATRIMONIO
 
@@ -481,7 +479,7 @@ PATRIMONIO
 
 ## Capitolo V - ELIMINAZIONE DELLA DOPPIA IMPOSIZIONE
 
-#### Articolo 25
+### Articolo 25
 
 ELIMINAZIONE DELLA DOPPIA IMPOSIZIONE,
 
@@ -507,7 +505,7 @@ Tale deduzione in ogni caso non puo' eccedere la frazione d'imposta sul reddito 
 
 ## Capitolo VI - DISPOSIZIONI PARTICOLARI
 
-#### Articolo 26
+### Articolo 26
 
 NON DISCRIMINAZIONE
 
@@ -521,7 +519,7 @@ NON DISCRIMINAZIONE
 
 5 Le disposizioni del presente articolo si applicano, nonostante le disposizioni dell'articolo 2, alle imposte di ogni genere e denominazione.
 
-#### Articolo 27
+### Articolo 27
 
 PROCEDURA AMICHEVOLE
 
@@ -533,7 +531,7 @@ PROCEDURA AMICHEVOLE
 
 4\. Le autorita' competenti degli Stati contraenti potranno comunicare direttamente tra loro al fine di pervenire ad un accordo come indicato nei paragrafi precedenti. Qualora venga ritenuto che degli scambi verbali di opinioni possano facilitare il raggiungimento di tale accordo, essi potranno aver luogo in seno ad una Commissione formata da rappresentanti delle autorita' competenti degli Stati contraenti.
 
-#### Articolo 28
+### Articolo 28
 
 SCAMBIO DI INFORMAZIONI
 
@@ -547,13 +545,13 @@ SCAMBIO DI INFORMAZIONI
 
 (c) di fornire informazioni che potrebbero rivelare un segreto commerciale, industriale, professionale o un processo commerciale oppure informazioni la cui comunicazione sarebbe contraria all'ordine pubblico.
 
-#### Articolo 29
+### Articolo 29
 
 MEMBRI DI MISSIONI DIPLOMATICHE E DI UFFICI CONSOLARI
 
 1\. Le disposizioni della presente Convenzione non pregiudicano i privilegi fiscali di cui beneficiano i membri di missioni diplomatiche o di uffici consolari in virtu' delle regole generali del diritto internazionale o delle disposizioni di accordi particolari.
 
-#### Articolo 30
+### Articolo 30
 
 LIMITAZIONE DEI BENEFICI
 
@@ -561,7 +559,7 @@ LIMITAZIONE DEI BENEFICI
 
 2\. Le disposizioni della presente Convenzione non pregiudicano l'applicazione delle disposizioni della legislazione interna per la prevenzione dell'evasione e l'elusione fiscale concernenti la limitazione delle spese e delle deduzioni derivanti da transazioni tra imprese di uno Stato contraente e imprese situate nell'altro Stato contraente, qualora lo scopo principale o uno degli scopi principali della creazione di tali imprese o delle transazioni intraprese tra di esse, fosse l'ottenimento, ai sensi della presente Convenzione, di agevolazioni non altrimenti fruibili.
 
-#### Articolo 31
+### Articolo 31
 
 RIMBORSI
 
@@ -573,7 +571,7 @@ RIMBORSI
 
 ## Capitolo VII - DISPOSIZIONI FINALI
 
-#### Articolo 32
+### Articolo 32
 
 ENTRATA IN VIGORE
 
@@ -585,7 +583,7 @@ ENTRATA IN VIGORE
 
 (b) con riferimento ad altre imposte su reddito o patrimonio, sulle imposte applicabili per i periodi d'imposta che iniziano il, o successivamente al, 1° gennaio dell'anno solare successivo a quello in cui la Convenzione entrera' in vigore.
 
-#### Articolo 33
+### Articolo 33
 
 DENUNCIA
 
@@ -607,7 +605,7 @@ REPUBBLICA ITALIANA REPUBBLICA DI LETTONIA
 
 Parte di provvedimento in formato grafico
 
-#### Protocollo Aggiuntivo
+### Protocollo Aggiuntivo
 
 PROTOCOLLO AGGIUNTIVO
 
@@ -733,7 +731,7 @@ della Repubblica Italiana
 
 Roma
 
-#### Convention
+### Convention
 
 CONVENTION BETWEEN THE GOVERNMENT OF THE ITALIAN REPUBLIC AND THE GOVERNMENT OF THE REPUBLIC OF LATVIA FOR THE AVOIDANCE OF DOUBLE TAXATION WITH RESPECT TO TAXES ON INCOME AND ON CAPITAL AND THE PREVENTION OF FISCAL EVASION
 

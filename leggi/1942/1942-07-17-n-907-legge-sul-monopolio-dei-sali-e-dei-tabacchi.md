@@ -34,11 +34,9 @@ Noi abbiamo sanzionato e promulghiamo quanto segue:
 
 ## TITOLO PRIMO - MONOPOLIO DEL SALE
 
-### CAPO I
+### CAPO I - ESTENSIONE DEL MONOPOLIO
 
-#### ESTENSIONE DEL MONOPOLIO
-
-###### Art. 1
+##### Art. 1
 
 Oggetto del monopolio.
 
@@ -56,7 +54,7 @@ AGGIORNAMENTO (14)
 
 Il D.P.R. 30 dicembre 1969, n. 1131 ha disposto (con l'art. 1) che "In deroga alle disposizioni dell'articolo 1 della legge 17 luglio 1952, n. 907, e' ammessa l'introduzione, nel territorio della Repubblica soggetto a monopolio, di sale proveniente dagli Stati membri della Comunita' economica europea, nonche' dalla Sicilia e dalla Sardegna, previo nulla osta dell'Amministrazione autonoma dei monopoli di Stato quando trattasi di quantitativi eccedenti i 5 chilogrammi".
 
-###### Art. 2
+##### Art. 2
 
 (( Definizione del sale agli effetti fiscali. ))
 
@@ -64,9 +62,9 @@ Il D.P.R. 30 dicembre 1969, n. 1131 ha disposto (con l'art. 1) che "In deroga al
 
 Ai soli effetti dell'introduzione nel territorio della Repubblica, soggetto a monopolio, sono equiparati al sale i prodotti non destinati ad uso alimentare che contengono cloruro di sodio in quantita' superiore al 25 per cento)).
 
-## CAPO II - DEROGHE AL DIVIETO DI PRODUZIONE
+### CAPO II - DEROGHE AL DIVIETO DI PRODUZIONE
 
-###### Art. 3
+##### Art. 3
 
 Estrazione e fabbricazione di sale da parte di privati.
 
@@ -80,7 +78,7 @@ La concessione ((, ad eccezione di quella relativa all'estrazione del sale dai g
 
 3\) la produzione di sale col metodo idrolitico nella preparazione degli estratti alimentari e dei condimenti per minestra. Sull'intero quantitativo di sale in essi contenuto e' dovuto un diritto di monopolio da stabilirsi con decreto del Presidente della Repubblica, da emanare su proposta del Ministro per le finanze, sentito il Consiglio dei Ministri. Per la riscossione del diritto di monopolio il Ministro per le finanze puo' consentire l'abbonamento annuo.
 
-###### Art. 4
+##### Art. 4
 
 Estrazione del sale a scopi terapeutici.
 
@@ -92,21 +90,21 @@ Sul cloruro sodico contenuto nei sali e sulle miscele e' dovuto un diritto di mo
 
 L'Amministrazione puo' sempre disporre che i detti sali o le miscele saline siano resi inadatti uso commestibile mediante trattamento da essa determinato, sentito il Consiglio Superiore di Sanita'.
 
-###### Art. 5
+##### Art. 5
 
 Preparazione di sale speciale per l'esportazione.
 
 L'Amministrazione dei Monopoli puo' autorizzare la preparazione, per l'esportazione, di sali speciali da tavola, con sale da essa venduto a prezzo speciale.
 
-###### Art. 6
+##### Art. 6
 
 Produzione del cloruro di sodio chimicamente puro.
 
 La produzione e la vendita del cloruro di sodio chimicamente puro sono consentite, a condizione che esse sia fabbricato con l'impiego di sale raffinato ceduto dall'Amministrazione dei Monopoli e sia destinato a scopi scientifici o terapeutici.
 
-## CAPO III - DEROGHE AL DIVIETO DI INTRODUZIONE
+### CAPO III - DEROGHE AL DIVIETO DI INTRODUZIONE
 
-###### Art. 7
+##### Art. 7
 
 (( Introduzione di sale per le industrie. ))
 
@@ -114,7 +112,7 @@ La produzione e la vendita del cloruro di sodio chimicamente puro sono consentit
 
 Gli esercenti le industrie, esistenti nel territorio della Repubblica soggetto a monopolio, prevedute nei commi primo e secondo dell'art. 21 possono essere autorizzati dalla Amministrazione dei monopoli ad introdurre il sale comune direttamente dalla Sicilia, dalla Sardegna, dalle isole minori ad esse adiacenti e dalle Colonie soltanto nella quantita' occorrente per le rispettive industrie)).
 
-###### Art. 8
+##### Art. 8
 
 Cautele per l'introduzione del sale indicato nel precedente articolo.
 
@@ -122,19 +120,19 @@ Il sale direttamente introdotto dagli esercenti le industrie indicate nell'artic
 
 L'Amministrazione puo' dispensare dall'obbligo di rendere il sale non commestibile gli stabilimenti industriali che offrono garanzia per l'esercizio della vigilanza.
 
-###### Art. 9
+##### Art. 9
 
 Introduzione di sale per stabilimenti industriali dei punti franchi e negli stabilimenti a regime di deposito franco.
 
 Gli stabilimenti industriali situati nei punti franchi e gli stabilimenti a regime di deposito franco possono introdurre direttamente dalle isole non soggette a monopolio, dall'Africa italiana e dagli altri territori soggetti alla. sovranita' dello Stato, il sale occorrente allo esercizio della loro industria, in esenzione da diritto di monopolio.
 
-###### Art. 10
+##### Art. 10
 
 Introduzione di sale per uso personale.
 
 L'Amministrazione dei Monopoli puo' autorizzare, esclusivamente per uso personale, la introduzione nel territorio del Regno soggetto a monopolio, di sali speciali da tavola, nella quantita' non eccedente 5 chilogrammi, col pagamento di un diritto di monopolio nella misura del 150 per cento del prezzo fissato per la vendita al pubblico del sale superiore da tavola.
 
-###### Art. 11
+##### Art. 11
 
 Introduzione di sale estratto da acque minerali e da sorgenti per uso igienico e curativo.
 
@@ -142,13 +140,13 @@ L'autorizzazione, indicata nel precedente articolo, puo' essere data senza limit
 
 Il diritto di monopolio e' dovuto sull'intera quantita' di cloruro di sodio contenuta nei detti sali, ed e' pari al prezzo di vendita al pubblico del sale comune.
 
-###### Art. 12
+##### Art. 12
 
 Introduzione di tipi speciali di sale alimentare.
 
 Fuori del caso preveduto nell'articolo 10, l'introduzione di tipi speciali di sale alimentare puo' essere autorizzata dall'Amministrazione dei Monopoli purche' vendita ne sia fatta per mezzo dell'Amministrazione medesima ed alle condizioni da essa stabilite.
 
-###### Art. 13
+##### Art. 13
 
 (( Introduzione di prodotti contenenti piu' del 25 per cento di sale. ))
 
@@ -156,7 +154,7 @@ Fuori del caso preveduto nell'articolo 10, l'introduzione di tipi speciali di sa
 
 Sulla quantita' di cloruro di sodio contenuta nei detti prodotti e' dovuto un diritto di monopolio uguale al prezzo stabilito per il sale ad uso industriale)).
 
-###### Art. 14
+##### Art. 14
 
 (( Introduzione di prodotti salati. ))
 
@@ -164,13 +162,13 @@ Sulla quantita' di cloruro di sodio contenuta nei detti prodotti e' dovuto un di
 
 L'introduzione dei prodotti suindicati e' subordinata al pagamento di un diritto di monopolio nella stessa misura e per la medesima quantita' stabilite per la restituzione del prezzo del sale per gli stessi prodotti destinati alla esportazione ai sensi del successivo art. 23)).
 
-###### Art. 15
+##### Art. 15
 
 Introduzione del presame o caglio.
 
 Il presame o caglio, contenente piu' del 25 per cento di cloruro di sodio, e' ammesso all'introduzione nel territorio del Regno soggetto a monopolio. Sulla. intera quantita' di cloruro di sodio in esso contenuta e' dovuto un diritto di monopolio, nella misura del prezzo di vendita al pubblico del sale raffinato.
 
-###### Art. 15-bis
+##### Art. 15-bis
 
 (( Introduzione delle budella salate. ))
 
@@ -178,13 +176,13 @@ Il presame o caglio, contenente piu' del 25 per cento di cloruro di sodio, e' am
 
 Il tenore salino medio delle budella introdotte, sul quale e' dovuto il diritto di monopolio di cui al precedente comma, e' determinato con decreto da emanarsi dal Presidente della Repubblica, su proposta del Ministro per le finanze, sentito il Consiglio dei Ministri)).
 
-###### Art. 16
+##### Art. 16
 
 Introduzione del cloruro di sodio puro.
 
 L'Amministrazione dei Monopoli puo' autorizzare l'introduzione nel territorio del Regno soggetto a monopolio del cloruro di sodio puro destinato, per uso scientifico, ai laboratori chimici di pubblici istituti. L'autorizzazione e' subordinata al pagamento di un diritto di monopolio, nella misura del prezzo di vendita al pubblico del sale raffinato.
 
-###### Art. 17
+##### Art. 17
 
 (( Introduzione dei sali potassici per concimazione agricola. ))
 
@@ -192,21 +190,21 @@ L'Amministrazione dei Monopoli puo' autorizzare l'introduzione nel territorio de
 
 Sulla quantita' di cloruro di sodio eccedente il 25 per cento e' dovuto un diritto di monopolio nella misura da stabilire con decreto del Presidente della Repubblica, da emanare su proposta del Ministro per le finanze, sentito il Consiglio dei Ministri)).
 
-###### Art. 18
+##### Art. 18
 
 Introduzione dei colori.
 
 I colori di qualsiasi sorta, che non contengono piu' del 50 per cento di cloruro di sodio, ed i colori organici sintetici, anche se contengono piu' del 50 per cento di cloruro di sodio, sono ammessi all'introduzione nel territorio del Regno soggetto a monopolio. Sulla quantita' di cloruro di sodio eccedente il 25 per cento e' dovuto un diritto di monopolio, nella misura eguale al prezzo per la vendita al pubblico del sale industriale.
 
-## CAPO IV - DELLA VENDITA
+### CAPO IV - DELLA VENDITA
 
-###### Art. 19
+##### Art. 19
 
 (( Prezzo dei sali per uso alimentare. ))
 
 ((Il prezzo di vendita al pubblico di ciascun tipo di sale per uso alimentare prodotto dall'Amministrazione dei monopoli e esitato tramite le rivendite generi di monopolio e' stabilito con decreto del Ministro delle finanze, sentito il consiglio di amministrazione dei monopoli di Stato)).
 
-###### Art. 20
+##### Art. 20
 
 (( Prezzo dei sali per usi industriali. ))
 
@@ -222,7 +220,7 @@ AGGIORNAMENTO (1)
 
 Il Regio Decreto 3 gennaio 1944, n. 17 ha disposto (con l'art. 1, comma 1) che la presente modifica decorre dal 15 gennaio 1944.
 
-###### Art. 21
+##### Art. 21
 
 (( Disposizioni inerenti alla commercializzazione dei sali per usi industriali. ))
 
@@ -230,45 +228,45 @@ Il Regio Decreto 3 gennaio 1944, n. 17 ha disposto (con l'art. 1, comma 1) che l
 
 E' in facolta' dell'Amministrazione dei monopoli, sentito il proprio consiglio di amministrazione, consentire dilazioni nel pagamento dei sali venduti per usi industriali)).
 
-###### Art. 22
+##### Art. 22
 
 Sale per esperimenti industriali.
 
 L'Amministrazione dei Monopoli puo' vendere il salo a prezzo speciale e industriale quando occorre per importanti esperimenti di nuove industrie o di nuovi processi industriali.
 
-###### Art. 23
+##### Art. 23
 
 ((ARTICOLO ABROGATO DAL D.L. 18 DICEMBRE 1972, N. 787, CONVERTITO CON MODIFICAZIONI DALLA L. 16 FEBBRAIO 1973, N. 10))
 
-###### Art. 24
+##### Art. 24
 
 ((ARTICOLO ABROGATO DAL D.L. 18 DICEMBRE 1972, N. 787, CONVERTITO CON MODIFICAZIONI DALLA L. 16 FEBBRAIO 1973, N. 10))
 
-## CAPO V - TUTELA PREVENTIVA DEL MONOPOLIO
+### CAPO V - TUTELA PREVENTIVA DEL MONOPOLIO
 
-###### Art. 25
+##### Art. 25
 
 Vigilanza intorno alle saline.
 
 Intorno alle saline situate nel territorio del Regno soggetto a monopolio, per la estensione di dieci chilometri, a partire dal perimetro di esse, e' stabilita una speciale zona di vigilanza.
 
-###### Art. 26
+##### Art. 26
 
 Divieto di accesso alle saline.
 
 Senza il permesso dell'Amministrazione dei Monopoli e' vietato l'introdursi nel perimetro delle saline delimitato da apposite tabelle.
 
-###### Art. 27
+##### Art. 27
 
 ((ARTICOLO ABROGATO DALLA L. 6 OTTOBRE 1978, N. 636))
 
-###### Art. 28
+##### Art. 28
 
 Rilascio della bolletta di legittimazione.
 
 La bolletta di legittimazione prescritta dall'articolo precedente e' rilasciata soltanto a chi provi di aver acquistato sali dagli organi autorizzati alla vendita dall'Amministrazione dei Monopoli.
 
-###### Art. 29
+##### Art. 29
 
 Validita' della bolletta di legittimazione.
 
@@ -276,7 +274,7 @@ La bolletta di legittimazione per il trasporto e' valida soltanto per raggiunger
 
 Il termine di validita' della bolletta di legittimazione per il deposito e la detenzione non puo' eccedere la durata di quattro mesi.
 
-###### Art. 30
+##### Art. 30
 
 Introduzione dei sali nei depositi franchi e nei punti franchi.
 
@@ -284,11 +282,11 @@ E' vietato introdurre sali nei depositi franchi.
 
 L'introduzione ed il deposito del sale nei punti franchi sono ammessi con l'osservanza delle norme da stabilire con decreto Reale su proposta del Ministro per le finanze. Il decreto e' pubblicato nella Gazzetta Ufficiale del Regno.
 
-###### Art. 31
+##### Art. 31
 
 ((ARTICOLO ABROGATO DAL D.L. 18 DICEMBRE 1972, N. 787, CONVERTITO CON MODIFICAZIONI DALLA L. 16 FEBBRAIO 1973, N. 10))
 
-###### Art. 32
+##### Art. 32
 
 Transito dei sali, divieto del trasporto di sale dai luoghi non soggetti a monopolio in quelli che vi sono soggetti.
 
@@ -296,21 +294,21 @@ Il transito dei sali nel territorio del Regno soggetto a monopolio e' permesso a
 
 I sali non possono essere trasportati dal territorio del Regno non soggetto a monopolio in altri luoghi che vi sono soggetti, senza autorizzazione dell'Amministrazione dei Monopoli.
 
-###### Art. 33
+##### Art. 33
 
 ((ARTICOLO ABROGATO DAL D.L. 18 DICEMBRE 1972, N. 787, CONVERTITO CON MODIFICAZIONI DALLA L. 16 FEBBRAIO 1973, N. 10))
 
-###### Art. 34
+##### Art. 34
 
 ((ARTICOLO ABROGATO DAL D.L. 18 DICEMBRE 1972, N. 787, CONVERTITO CON MODIFICAZIONI DALLA L. 16 FEBBRAIO 1973, N. 10))
 
-###### Art. 33
+##### Art. 33
 
 Caricamento, scaricamento, ancoraggio e partenza delle navi.
 
 Il caricamento, lo scaricamento del sale, l'ancoraggio, l'entrata e l'uscita delle navi con carico totale o parziale di sale sono soggetti alle disposizioni della legge doganale, tranne per quanto riguarda la presentazione del manifesto, la quale deve avvenire entro le dodici ore da quella dell'arrivo nei porti ove e' permesso lo sbarco, ed entro quattro ore nei casi di approdo, per forza maggiore, nei porti dove non e' permesso lo sbarco.
 
-###### Art. 36
+##### Art. 36
 
 Provviste di bordo delle navi ancorate.
 
@@ -322,7 +320,7 @@ AGGIORNAMENTO (16)
 
 Il D.L. 18 dicembre 1972, n. 787 convertito con modificazioni dalla L. 16 febbraio 1973, n. 10 ha disposto (con l'art. 2, comma 1) che "La norma dell'art. 36 della legge 17 luglio 1942, n. 907, si applica esclusivamente ai tabacchi".
 
-###### Art. 37
+##### Art. 37
 
 Trasporti marittimi di sale per conto dell'Amministrazione dei Monopoli.
 
@@ -332,7 +330,7 @@ A carico ultimato, e' accertata, con altra visita, la chiusura dei boccaporti e 
 
 Con apposito verbale, redatto in contraddittorio col comandante della nave e da allegare al manifesto di carico, sono descritte le caratteristiche dei piombi o suggelli ed e' fatta menzione delle formalita' compiute alla partenza della nave.
 
-###### Art. 38
+##### Art. 38
 
 Trasporti marittimi del sale per conto di privati.
 
@@ -342,7 +340,7 @@ Se la nave e' caricata solo parzialmente di sale, l'obbligo della chiusura e del
 
 Quando la spedizione del sale e' fatta a mezzo di sacchi o di altri recipienti, ciascuno di questi deve essere suggellato o piombato prima della partenza della nave.
 
-###### Art. 39
+##### Art. 39
 
 Attingimento di acqua da sorgenti e polle salse ed asportazione di sabbie marine, terre salifere ed acqua del mare.
 
@@ -350,17 +348,17 @@ E' vietato di attingere, senza autorizzazione dell'Amministrazione dei Monopoli,
 
 E' vietata l'asportazione dell'acqua del mare quando puo' ledere interessi del monopolio, negli altri casi l'asportazione e' permessa con l'osservanza delle disposizioni del regolamento.
 
-###### Art. 40
+##### Art. 40
 
 Divieto di cessione dei sali venduti a prezzo speciale o industriale.
 
 Non possono essere ceduti senza l'autorizzazione dell'Amministrazione dei Monopoli i sali venduti a prezzo speciale o a prezzo industriale. I detti sali non possono essere adoperati per uso diverso da quello per cui furono venduti dall'Amministrazione dei Monopoli.
 
-###### Art. 41
+##### Art. 41
 
 ((ARTICOLO ABROGATO DAL D.L. 18 DICEMBRE 1972, N. 787, CONVERTITO CON MODIFICAZIONI DALLA L. 16 FEBBRAIO 1973, N. 10))
 
-###### Art. 42
+##### Art. 42
 
 Autorizzazione per la vendita del sale al pubblico e condizioni nelle quali il sale deve essere venduto.
 
@@ -368,13 +366,13 @@ E' proibito di vendere sale al pubblico senza autorizzazione dell'Amministrazion
 
 Il sale deve essere venduto nelle condizioni nelle quali esce dagli stabilimenti e dai magazzini del monopolio senza alterazione e senza mescolanza di qualita'.
 
-###### Art. 43
+##### Art. 43
 
 Prescrizioni da osservarsi nelle autorizzazioni, concessioni e deroghe alle norme generali sul monopolio.
 
 Nei casi in cui l'Amministrazione dei Monopoli si vale delle facolta' consentitele dalla legge di concedere deroghe alle prescrizioni dalla legge stessa stabilite ovvero di accordare autorizzazioni o concessioni, l'Amministrazione stessa puo' subordinare la deroga, la concessione o l'autorizzazione a quelle particolari cautele, vincoli o formalita' che ritiene opportune.
 
-###### Art. 44
+##### Art. 44
 
 Spese di vigilanza.
 
@@ -384,11 +382,9 @@ La precedente disposizione si applica quando gli accertamenti o i servizi specia
 
 ## TITOLO SECONDO - MONOPOLIO DEL TABACCO
 
-### CAPO I
+### CAPO I - ESTENSIONE DEL MONOPOLIO
 
-#### ESTENSIONE DEL - MONOPOLIO
-
-###### Art. 45
+##### Art. 45
 
 Oggetto del monopolio.
 
@@ -416,7 +412,7 @@ AGGIORNAMENTO (17)
 
 La L. 10 dicembre 1975, n. 724 ha disposto (con l'art. 1, comma 1) che "In deroga alle disposizioni di cui al primo comma dell'articolo 45 della legge 17 luglio 1942, n. 907, e' ammessa l'importazione nel territorio della Repubblica di tabacchi lavorati (voce doganale 24.02) di provenienza dai Paesi delle Comunita' economiche europee, destinati ad essere introdotti in depositi di distribuzione all'ingrosso, diversi da quelli dell'Amministrazione dei monopoli di Stato".
 
-###### Art. 46
+##### Art. 46
 
 Definizione del tabacco agli effetti fiscali.
 
@@ -424,7 +420,7 @@ Agli effetti di questa legge e' considerato tabacco il prodotto di qualsiasi pia
 
 Sono considerate succedanei del tabacco le sostanze preparate atte a surrogare il tabacco da fumo o da fiuto.
 
-###### Art. 47
+##### Art. 47
 
 Limiti alla liberta' di fabbricazione, importazione e vendita dei tabacchi nei territori non soggetti a monopolio.
 
@@ -436,41 +432,41 @@ E' tuttavia in facolta' dell'Amministrazione di consentire la importazione e la 
 
 Contro i provvedimenti adottati dall'Amministrazione dei Monopoli, a termini del presente articolo, e' dato ricorso, entro trenta giorni dalla loro comunicazione, al Ministro per le finanze, il quale provvede in via definitiva. Il ricorso non ha effetto sospensivo.
 
-###### Art. 48
+##### Art. 48
 
 Poteri degli organi di polizia tributaria.
 
 Salve le disposizioni della legge 7 gennaio 1929-VII, n. 4, per quanto concerne le attribuzioni degli ufficiali e degli agenti della polizia tributaria, gli ispettori e gli altri funzionari incaricati dall'Amministrazione dei Monopoli possono sempre accedere negli stabilimenti o locali di lavorazione, depositi e magazzini situati nei territori non soggetti a monopolio e verificare la merce in corso di lavorazione ed i prodotti finiti.
 
-###### Art. 49
+##### Art. 49
 
 ((ARTICOLO ABROGATO DAL D.L. 30 NOVEMBRE 1970, N. 870, CONVERTITO CON MODIFICAZIONI DALLA L. 27 GENNAIO 1971, N. 3)).
 
-## CAPO II - DEROGHE AI DIVIETI DI FABBRICAZIONE E DI IMPORTAZIONE
+### CAPO II - DEROGHE AI DIVIETI DI FABBRICAZIONE E DI IMPORTAZIONE
 
-###### Art. 50
+##### Art. 50
 
 Preparazione dei prodotti derivati del tabacco.
 
 L'Amministrazione dei Monopoli puo' autorizzare, in deroga alle disposizioni contenute nell'articolo 45, la preparazione dei prodotti derivati del tabacco.
 
-###### Art. 51
+##### Art. 51
 
 ((ARTICOLO ABROGATO DALLA L. 13 LUGLIO 1965, N. 825))
 
-###### Art. 52
+##### Art. 52
 
 Importazione dell'haschish.
 
 Puo' essere autorizzata l'importazione dell'haschish per uso medicinale, con l'osservanza delle norme stabilite dal Ministro per le finanze, previo parere del Ministro dell'interno.
 
-###### Art. 53
+##### Art. 53
 
 ((ARTICOLO ABROGATO DALLA L. 13 LUGLIO 1965, N. 825))
 
-## CAPO III - DELLA VENDITA
+### CAPO III - DELLA VENDITA
 
-###### Art. 54
+##### Art. 54
 
 Qualita' e specie di tabacchi e determinazione del prezzo.
 
@@ -480,9 +476,9 @@ I prezzi dei prodotti derivati del tabacco ed i prezzi di vendita al pubblico de
 
 L'Amministrazione dei Monopoli puo' consentire che, negli alberghi, ristoratori, stabilimenti balneari e negli altri luoghi di pubblico ritrovo, i quali siano classificati di lusso, nei vagoni ristoratori e nei grandi magazzini, al prezzo di vendita al pubblico dei tabacchi, dei quali vi sia autorizzato lo smercio, venga aggiunto un sopraprezzo nella misura e con le condizioni stabilite dall'Amministrazione stessa.
 
-## CAPO IV - TUTELA PREVENTIVA DEL MONOPOLIO
+### CAPO IV - TUTELA PREVENTIVA DEL MONOPOLIO
 
-###### Art. 55
+##### Art. 55
 
 Divieto ((...)) della costruzione e detenzione di meccanismi preordinati alla lavorazione di esso.
 
@@ -490,7 +486,7 @@ Divieto ((...)) della costruzione e detenzione di meccanismi preordinati alla la
 
 E' altresi' vietato di costruire e detenere, senza autorizzazione dell'Amministrazione dei Monopoli, meccanismi ed utensili preordinati alla lavorazione del tabacco.
 
-###### Art. 56
+##### Art. 56
 
 Depositi e Punti franchi. Introduzione e lavorazione del tabacco.
 
@@ -500,7 +496,7 @@ L'introduzione ed il deposito dei tabacchi nei punti franchi sono ammessi con l'
 
 ((COMMA ABROGATO DAL D.L. 30 NOVEMBRE 1970, N. 870, CONVERTITO CON MODIFICAZIONI DALLA L. 27 GENNAIO 1971, N. 3)).
 
-###### Art. 57
+##### Art. 57
 
 Trasporto, deposito e detenzione dei tabacchi nazionali.
 
@@ -510,7 +506,7 @@ Fuori delle zone suddette, il trasporto, il deposito ovvero la detenzione dei ta
 
 In ogni caso la spedizione di tabacchi a mezzo di pacco postale da un punto all'altro del Regno e' sottoposto a bolletta di legittimazione.
 
-###### Art. 58
+##### Art. 58
 
 Trasporto, deposito e detenzione di tabacchi lavorati esteri.
 
@@ -522,13 +518,13 @@ La bolletta e' valida:
 
 2° per sei mesi dalla sua data per i tabacchi introdotti in quantita' maggiore.
 
-###### Art. 59
+##### Art. 59
 
 Rilascio della bolletta di legittimazione.
 
 La bolletta di legittimazione prescritta dall'articolo 57 e' rilasciata soltanto a chi provi di aver acquistato i tabacchi dagli organi autorizzati alla vendita dall'Amministrazione dei Monopoli.
 
-###### Art. 60
+##### Art. 60
 
 Validita' della bolletta di legittimazione.
 
@@ -536,13 +532,13 @@ La bolletta di legittimazione per il trasporto e' valida soltanto per raggiunger
 
 Il termine di validita' della bolletta di legittimazione per la detenzione ed il deposito e' stabilito di volta in volta dall'Amministrazione dei Monopoli.
 
-###### Art. 61
+##### Art. 61
 
 Transito dei tabacchi.
 
 Il transito dei tabacchi nel territorio del Regno soggetto a monopolio e' permesso alle condizioni e con cautele stabilite nel regolamento.
 
-###### Art. 62
+##### Art. 62
 
 Approdo e ancoraggio di navi cariche di tabacco.
 
@@ -552,7 +548,7 @@ Non e' considerata parte del carico la provvista di bordo.
 
 Sono del pari stabiliti con decreto del Ministro per le finanze, da pubblicare nella Gazzetta Ufficiale del Regno, i porti dove e' permesso l'approdo delle navi che trasportano tabacchi destinati al deposito od alla esportazione.
 
-###### Art. 63
+##### Art. 63
 
 Applicazione al monopolio dei tabacchi di disposizioni stabilite per il monopolio del sale.
 
@@ -560,73 +556,69 @@ Le norme degli articoli n. 35, 36, 42, 43 e 44, relative al monopolio del sale, 
 
 ## TITOLO TERZO - DEI REATI
 
-### CAPO I
+### CAPO I - DEL CONTRABBANDO
 
-#### DEL CONTRABBANDO
+#### SEZIONE I - Dei casi di contrabbando
 
-##### SEZIONE I - Dei casi
-
-###### di contrabbando
-
-###### Art. 64
+##### Art. 64
 
 ((ARTICOLO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-###### Art. 65
+##### Art. 65
 
 ((ARTICOLO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-###### Art. 66
+##### Art. 66
 
 ((ARTICOLO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-###### Art. 67
+##### Art. 67
 
 ((ARTICOLO ABROGATO DAL D.L. 18 DICEMBRE 1972, N. 787, CONVERTITO CON MODIFICAZIONI DALLA L. 16 FEBBRAIO 1973, N. 10))
 
-###### Art. 68
+##### Art. 68
 
 Contrabbando nei Depositi franchi e nei Punti franchi.
 
 Commette contrabbando chiunque introduce ((...)) tabacchi nei depositi franchi ovvero, fuori dei casi preveduti dall'articolo 56, lavora o manipola tabacchi in foglia nei punti franchi.
 
-###### Art. 69
+##### Art. 69
 
 ((ARTICOLO ABROGATO DAL D.L. 18 DICEMBRE 1972, N. 787, CONVERTITO CON MODIFICAZIONI DALLA L. 16 FEBBRAIO 1973, N. 10))
 
-###### Art. 70
+##### Art. 70
 
 ((ARTICOLO ABROGATO DAL D.L. 18 DICEMBRE 1972, N. 787, CONVERTITO CON MODIFICAZIONI DALLA L. 16 FEBBRAIO 1973, N. 10))
 
-###### Art. 71
+##### Art. 71
 
 Alterazione o mescolanza di generi di monopolio.
 
 Commette contrabbando il ricevitore, il magazziniere, la persona autorizzata alla vendita al pubblico dei generi di monopolio, il conduttore o l'appaltatore di trasporti, il quale altera i generi di monopolio o ne mescola le qualita' ovvero vende i generi alterati o mescolati.
 
-###### Art. 72
+##### Art. 72
 
 Detenzione di meccanismi ed utensili preordinati alla lavorazione del tabacco.
 
 E' colpevole di contrabbando chiunque, senza l'autorizzazione dell'Amministrazione dei Monopoli, detiene meccanismi o utensili, che, avuto riguardo alla persona del colpevole, al modo come gli oggetti sono rinvenuti o alle altre circostanze del fatto, debbono ritenersi preordinati alla lavorazione del tabacco.
 
-###### Art. 73
+##### Art. 73
 
 ((ARTICOLO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-###### Art. 74
+##### Art. 74
 
 Equiparazione del delitto tentato a quello consumato.
 
 Per il tentativo di contrabbando si applica la stessa pena stabilita per il reato consumato.
 
-## SEZIONE II - Delle pene per il contrabbando
+#### SEZIONE II - Delle pene per il contrabbando
 
-###### Art. 75
+##### Art. 75
 
 ((ARTICOLO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-###### Art. 76
+##### Art. 76
 
 (( Pena per l'alterazione e mescolanza dei generi di monopolio. ))
 
@@ -640,15 +632,15 @@ Chiunque coltiva abusivamente piante di tabacco e punito con la multa da L. 2500
 
 Il colpevole di trapiantamento abusivo che ha anche abusivamente seminato le piante trapiantate, e' soggetto soltanto alla pena stabilita per il trapiantamento abusivo. Se il colpevole di coltivazione abusiva ha anche abusivamente seminato e trapiantato le piante coltivate e' soggetto soltanto alla pena stabilita per la coltivazione abusiva)).
 
-###### Art. 77
+##### Art. 77
 
 ((ARTICOLO ABROGATO DAL D.L. 30 NOVEMBRE 1970, N. 870, CONVERTITO CON MODIFICAZIONI DALLA L. 27 GENNAIO 1971, N. 3)).
 
-###### Art. 78
+##### Art. 78
 
 ((ARTICOLO ABROGATO DAL D.L. 30 NOVEMBRE 1970, N. 870, CONVERTITO CON MODIFICAZIONI DALLA L. 27 GENNAIO 1971, N. 3)).
 
-###### Art. 79
+##### Art. 79
 
 Pene per la detenzione di meccanismi e utensili.
 
@@ -668,7 +660,7 @@ AGGIORNAMENTO (15)
 
 La L. 3 gennaio 1951, n. 27 come modificato dal D.L. 30 novembre 1970, n. 870, convertito con modificazioni dalla L. 27 gennaio 1971, n. 3 ha disposto (con l'art. 3) che "E' decuplicata la multa stabilita dall'art. 79 della legge 17 luglio 1942, n. 907, e successivamente aumentata a norma del decreto legislativo luogotenenziale 24 aprile 1946, n. 401".
 
-###### Art. 80
+##### Art. 80
 
 Circostanze aggravanti del contrabbando.
 
@@ -678,7 +670,7 @@ Per i delitti di contrabbando la multa e' annientata da un terzo alla meta' quan
 
 2° adopera mezzi di trasporto appartenenti a persona estranea al reato.
 
-###### Art. 81
+##### Art. 81
 
 Altre circostanze aggravanti.
 
@@ -692,7 +684,7 @@ Alla multa e' aggiunta la reclusione da sei mesi a tre anni:
 
 4° quando il colpevole sia un associato per commettere delitti di contrabbando e il delitto commesso sia fra quelli per cui l'associazione e' stata costituita.
 
-###### Art. 82
+##### Art. 82
 
 Recidiva nel contrabbando.
 
@@ -702,21 +694,21 @@ Se il recidivo in delitto di contrabbando preveduto da questa legge o da altra l
 
 In ogni altro caso la recidiva nel contrabbando e' regolata dal Codice penale.
 
-## SEZIONE III - Delle misure di sicurezza
+#### SEZIONE III - Delle misure di sicurezza
 
-###### Art. 83
+##### Art. 83
 
 Contrabbando abituale.
 
 E' dichiarato delinquente abituale in contrabbando chi riporta condanna per delitto di contrabbando preveduto da questa legge, dopo essere stato condannato per tre delitti di contrabbando preveduti da questa o da altra legge speciale, commessi entro dieci anni e non contestualmente, quando per alcuno di tali delitti sia stata applicata la pena della reclusione ovvero quando l'ammontare complessivo delle pene della multa per essi applicate non sia inferiore a L. 20.000.
 
-###### Art. 84
+##### Art. 84
 
 Contrabbando professionale.
 
 Chi, dopo aver riportato quattro condanne per delitto di contrabbando preveduto da questa legge o da altra legge speciale, riporta condanna per un altro delitto di contrabbando preveduto da questa legge e' dichiarato delinquente professionale in contrabbando, qualora, avuto riguardo alla condotta e al genere di vita del colpevole ed alle altre circostanze indicate nel capoverso dell'articolo 133 del Codice penale, debba, ritenersi che egli viva abitualmente, anche in parte soltanto, dei proventi del reato.
 
-###### Art. 85
+##### Art. 85
 
 Contrabbando abituale o professionale secondo il Codice penale.
 
@@ -724,7 +716,7 @@ Gli effetti della dichiarazione di abitualita' e di professionalita' nel contrab
 
 Le disposizioni dei due articoli precedenti non pregiudicano l'applicazione degli articoli 102 e 105 del Codice penale, quando ricorrano le condizioni ivi prevedute.
 
-###### Art. 86
+##### Art. 86
 
 Liberta' vigilata.
 
@@ -732,7 +724,7 @@ Quando per il delitto di contrabbando sia applicata la pena della reclusione sup
 
 Ad assicurare l'esecuzione di tale misura concorre la Regia guardia di finanza.
 
-###### Art. 87
+##### Art. 87
 
 Delle misure di sicurezza patrimoniali: confisca.
 
@@ -746,9 +738,9 @@ AGGIORNAMENTO (16a)
 
 La Corte Costituzionale con sentenza 9 - 17 luglio 1974 n. 229 (in G.U. 1 a s.s. 24/07/1974 n. 194) ha dichiarato "ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87, dichiara, altresi', limitatamente alla medesima parte, la illegittimita' costituzionale dell'art. 301, primo comma, del d.P.R. 23 gennaio 1973, n. 43 (testo unico delle disposizioni legislative in materia doganale), e dell'art. 87, primo comma, della legge 17 luglio 1942, n. 907 (legge sul monopolio dei sali e tabacchi)".
 
-## CAPO II - DELLE CONTRAVVENZIONI
+### CAPO II - DELLE CONTRAVVENZIONI
 
-###### Art. 88
+##### Art. 88
 
 (( Attingimento di acque salse - Asportazione di sabbia, di terre salifere, di acqua del mare. ))
 
@@ -756,7 +748,7 @@ La Corte Costituzionale con sentenza 9 - 17 luglio 1974 n. 229 (in G.U. 1 a s.s.
 
 E' punito con la stessa pena chiunque asporta acqua dal mare o sabbie marine o terre salifere senza l'osservanza delle norme stabilite nel regolamento)).
 
-###### Art. 89
+##### Art. 89
 
 Bagnatura dei generi di monopolio.
 
@@ -770,19 +762,19 @@ La L. 3 gennaio 1951, n. 27 ha disposto (con l'art. 9) che "Le ammende stabilite
 
 Ha inoltre disposto (con l'art. 13, comma 1) che "Le disposizioni piu' favorevoli della presente legge si applicano in deroga all'art. 20 della legge 7 gennaio 1929, n. 4, anche ai reati commessi sotto l'impero del decreto legislativo 7 maggio 1948, n. 726".
 
-###### Art. 90
+##### Art. 90
 
 Mancanza di sale nei trasporti marittimi.
 
 Nei trasporti marittimi di sale eseguiti a norma degli articoli 37 e 35 se all'arrivo della nave si riscontra che le stive non si trovano in condizioni di perfetta chiusura o si constata effrazione od alterazione dei piombi o suggelli, il comandante della nave e' punito per ogni chilogramma di sale mancante, oltre il calo del 2 per cento, con l'ammenda non inferiore all'ammontare del prezzo di vendita al pubblico e non superiore al triplo dell'ammontare stesso.
 
-###### Art. 91
+##### Art. 91
 
 Mancanza di sale nei magazzini doganali di proprieta' privata.
 
 Quando nel sale custodito in magazzini doganali di proprieta', privata, si accerta una mancanza che superi il calo del 2 per cento il concessionario del magazzino e' punito, per ogni chilogramma di sale mancante oltre il detto calo, con l'ammenda non inferiore all'ammontare del prezzo di vendita, al pubblico del sale custodito e non superiore al doppio dell'ammontare stesso.
 
-###### Art. 92
+##### Art. 92
 
 Mancanza di tabacco in confronto delle quantita' indicate nel manifesto.
 
@@ -806,7 +798,7 @@ AGGIORNAMENTO (15)
 
 Il D.L. 30 novembre 1970, n. 870, convertito con modificazioni dalla L. 27 gennaio 1971, n. 3 ha disposto (con l'art. 3, comma 2, numero 1)) che sono soppresse le parole da L. 6.000 a L. 20.000 per chilogrammo se trattasi di tabacco in foglia e" dal 1° comma dell'art. 92.
 
-###### Art. 93
+##### Art. 93
 
 Differenza di peso o di quantita' della dichiarazione di tabacco.
 
@@ -830,7 +822,7 @@ AGGIORNAMENTO (15)
 
 Il D.L. 30 novembre 1970, n. 870, convertito con modificazioni dalla L. 27 gennaio 1971, n. 3 ha disposto (con l'art. 3, comma 2, numero 1)) che sono soppresse le parole da L. 10.000 a L. 15.000 per ogni chilogrammo in piu', se si tratta di tabacco in foglia, e" dal 1 comma dell'art. 93.
 
-###### Art. 94
+##### Art. 94
 
 Ommessa dichiarazione di tabacchi lavorati da parte di viaggiatori.
 
@@ -848,7 +840,7 @@ La L. 3 gennaio 1951, n. 27 ha disposto (con l'art. 9) che "Le ammende stabilite
 
 Ha inoltre disposto (con l'art. 13, comma 1) che "Le disposizioni piu' favorevoli della presente legge si applicano in deroga all'art. 20 della legge 7 gennaio 1929, n. 4, anche ai reati commessi sotto l'impero del decreto legislativo 7 maggio 1948, n. 726".
 
-###### Art. 95
+##### Art. 95
 
 Trasporto di sale e tabacco in transito.
 
@@ -868,11 +860,11 @@ La L. 3 gennaio 1951, n. 27 ha disposto (con l'art. 9) che "Le ammende stabilite
 
 Ha inoltre disposto (con l'art. 13, comma 1) che "Le disposizioni piu' favorevoli della presente legge si applicano in deroga all'art. 20 della legge 7 gennaio 1929, n. 4, anche ai reati commessi sotto l'impero del decreto legislativo 7 maggio 1948, n. 726".
 
-###### Art. 96
+##### Art. 96
 
 ((ARTICOLO ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141))
 
-###### Art. 97
+##### Art. 97
 
 Fabbricazione non autorizzata di tabacchi lavorati nei territori non soggetti a monopolio.
 
@@ -890,7 +882,7 @@ La L. 3 gennaio 1951, n. 27 ha disposto (con l'art. 9) che "Le ammende stabilite
 
 Ha inoltre disposto (con l'art. 13, comma 1) che "Le disposizioni piu' favorevoli della presente legge si applicano in deroga all'art. 20 della legge 7 gennaio 1929, n. 4, anche ai reati commessi sotto l'impero del decreto legislativo 7 maggio 1948, n. 726".
 
-###### Art. 98
+##### Art. 98
 
 Fabbricazione, importazione e vendita nei territori non soggetti a monopolio di tabacchi similari a quelli del monopolio.
 
@@ -912,7 +904,7 @@ La L. 3 gennaio 1951, n. 27 ha disposto (con l'art. 9) che "Le ammende stabilite
 
 Ha inoltre disposto (con l'art. 13, comma 1) che "Le disposizioni piu' favorevoli della presente legge si applicano in deroga all'art. 20 della legge 7 gennaio 1929, n. 4, anche ai reati commessi sotto l'impero del decreto legislativo 7 maggio 1948, n. 726".
 
-###### Art. 99
+##### Art. 99
 
 Inosservanza di prescrizioni stabilite a tutela del monopolio del sale.
 
@@ -928,7 +920,7 @@ E' punito con l'ammenda da L. 600 a L. 6000 chiunque viola le norme di questa le
 
 5\) ((NUMERO ABROGATO DALLA L. 6 OTTOBRE 1978, N. 636))
 
-###### Art. 100
+##### Art. 100
 
 Inosservanza di prescrizioni stabilite a tutela del monopolio dei tabacchi.
 
@@ -952,7 +944,7 @@ La L. 3 gennaio 1951, n. 27 ha disposto (con l'art. 9) che "Le ammende stabilite
 
 Ha inoltre disposto (con l'art. 13, comma 1) che "Le disposizioni piu' favorevoli della presente legge si applicano in deroga all'art. 20 della legge 7 gennaio 1929, n. 4, anche ai reati commessi sotto l'impero del decreto legislativo 7 maggio 1948, n. 726".
 
-###### Art. 101
+##### Art. 101
 
 Violazione per cui non e' stabilita una speciale pena.
 
@@ -968,23 +960,23 @@ La L. 3 gennaio 1951, n. 27 ha disposto (con l'art. 9) che "Le ammende stabilite
 
 Ha inoltre disposto (con l'art. 13, comma 1) che "Le disposizioni piu' favorevoli della presente legge si applicano in deroga all'art. 20 della legge 7 gennaio 1929, n. 4, anche ai reati commessi sotto l'impero del decreto legislativo 7 maggio 1948, n. 726".
 
-###### Art. 102
+##### Art. 102
 
 ((ARTICOLO ABROGATO DAL D.L. 18 DICEMBRE 1972, N. 787, CONVERTITO CON MODIFICAZIONI DALLA L. 16 FEBBRAIO 1973, N. 10))
 
-## CAPO III - DISPOSIZIONI GENERALI
+### CAPO III - DISPOSIZIONI GENERALI
 
-###### Art. 103
+##### Art. 103
 
 Norma particolare per il computo della pena.
 
 Quando la legge determina la pena in ragione del peso del genere di monopolio la frazione di quintale o di chilogramma e' calcolata per quintale o chilogramma intero.
 
-###### Art. 104
+##### Art. 104
 
 ((ARTICOLO ABROGATO DAL D.L. 30 NOVEMBRE 1970, N. 870, CONVERTITO CON MODIFICAZIONI DALLA L. 27 GENNAIO 1971, N. 3)).
 
-###### Art. 105
+##### Art. 105
 
 Obbligazione civile in dipendenza di delitti di contrabbando.
 
@@ -998,7 +990,7 @@ Le precedenti disposizioni non si applicano:
 
 2° ai soprastanti all'esercizio di trasporti per delitti di contrabbando commessi dai viaggiatori.
 
-###### Art. 106
+##### Art. 106
 
 Solidarieta' di enti e privati. Conversione della pena.
 
@@ -1008,13 +1000,13 @@ Qualora anche le persone e gli enti menzionati in questo articolo e nel preceden
 
 Si osservano, in quanto siano applicabili, le disposizioni della legge 7 gennaio 1929-VII, n. 4, e quelle del Codice di procedura penale relative alla citazione ed all'intervento delle persone o degli enti civilmente obbligati per le ammende inflitte a persone dipendenti.
 
-###### Art. 107
+##### Art. 107
 
 Obbligazione civile in dipendenza di contravvenzioni.
 
 Ai fini dell'applicazione dell'articolo 9 della legge 7 gennaio 1929-VII, n. 4, le persone rivestite dell'autorita' o incaricate della direzione o vigilanza sono tenute a far osservare dai loro dipendenti le disposizioni di questa legge per la cui violazione e' stabilita la pena dell'ammenda.
 
-###### Art. 108
+##### Art. 108
 
 Casi di arresto.
 
@@ -1032,7 +1024,7 @@ AGGIORNAMENTO (20)
 
 La Corte Costituzionale con sentenza 1 - 18 luglio 1983 n. 215 (in G.U. 1a s.s. 27-7-1983 n. 205) ha dichiarato in applicazione dell'art. 27 della legge 11 marzo 1953, n. 87, l'illegittimita' costituzionale dell'art. 108, primo comma, della legge 17 luglio 1942, n. 907 (Legge sul monopolio dei sali e dei tabacchi), relativamente alle parole: "ovvero quando si tratta di straniero che non da' idonea cauzione o malleveria per il pagamento delle multe o delle ammende" e in applicazione dell'art. 27 della legge 11 marzo 1953, n. 87, l'illegittimita' costituzionale dell'art. 108, secondo comma, della legge 17 luglio 1942, n. 907 (Legge sul monopolio dei sali e dei tabacchi), relativamente alle parole: "o, trattandosi di straniero, fino a che questi non ha prestato la cauzione o la malleveria".
 
-###### Art. 109
+##### Art. 109
 
 (( Trasporto, restituzione o vendita delle cose sequestrate. ))
 
@@ -1056,7 +1048,7 @@ I mezzi di trasporto con caratteristiche particolarmente adatte al contrabbando 
 
 In ogni caso l'Amministrazione dei monopoli non e' responsabile delle avarie e dei deperimenti naturali delle cose custodite a norma delle disposizioni precedenti, ne' dei casi di forza maggiore)).
 
-###### Art. 110
+##### Art. 110
 
 Estinzione dei delitti di contrabbando punibili con la sola multa.
 
@@ -1068,7 +1060,7 @@ Il pagamento della somma anzidetta estingue il reato. ma non impedisce l'applica
 
 Peri delitti di contrabbando aventi per oggetto generi di monopolio di provenienza estera si osservano le disposizioni dell'articolo 141 della legge doganale 25 settembre 1940-XVIII, n. 1424.
 
-###### Art. 111
+##### Art. 111
 
 Invio dei processi verbali all'Amministrazione dei Monopoli.
 
@@ -1076,7 +1068,7 @@ Per l'applicazione delle norme contenute nel precedente articolo, il processo ve
 
 Trascorso tale termine senza che il pagamento sia stato eseguito, l'Amministrazione dei Monopoli invia il processo verbale all'intendente di finanza, il quale, entro trenta giorni dal ricevimento, lo trasmette al Procuratore del Re Imperatore con le osservazioni che ritiene opportune.
 
-###### Art. 112
+##### Art. 112
 
 Riscossione delle multe, delle ammende o delle spese. Vendita delle cose confiscate e sequestrate.
 
@@ -1086,13 +1078,13 @@ Gli altri oggetti che, dopo la chiusura del procedimento, devono restare sequest
 
 Gli oggetti predetti sono restituiti agli aventi diritto qualora prima della vendita sia effettuato il pagamento dei diritti, delle pene e delle spese.
 
-###### Art. 113
+##### Art. 113
 
 Ripartizione delle multe e delle ammende.
 
 Per la ripartizione dei proventi delle multe e delle ammende si osservano le disposizioni della legge doganale.
 
-###### Art. 114
+##### Art. 114
 
 Deroga legislativa espressa.
 
@@ -1104,13 +1096,13 @@ La sanzione preveduta nell'art. 102 e' stabilita in aggiunta a quelle indicate n
 
 ## TITOLO QUARTO - DISPOSIZIONI FINALI
 
-###### Art. 115
+##### Art. 115
 
 Norme regolamentari.
 
 Fino a quando non sia emanato il regolamento per l'esecuzione di questa legge, restano in vigore le norme regolamentari attuali, in quanto applicabili, e, agli effetti dell'art. 113, le norme contenute negli articoli 119 e 120 del testo unico delle leggi doganali appostato con R. decreto 26 gennaio 1896, n. 20, e successivamente modificate. Peraltro per i proventi dipendenti da reati commessi fuori degli spazi doganali alla competenza della Direzione generale delle dogane e' sostituita la competenza dell'Amministrazione dei Monopoli.
 
-###### Art. 116
+##### Art. 116
 
 Entrata in vigore della legge.
 

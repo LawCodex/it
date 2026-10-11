@@ -29,7 +29,7 @@ la seguente legge:
 
 ## AMMINISTRAZIONI DELLO STATO
 
-#### ARTICOLO 1 - Entrate
+## ARTICOLO 1 - Entrate
 
 1\. Le entrate tributarie, extratributarie, per alienazione ed ammortamento di beni patrimoniali e riscossione di crediti, e per accensione di prestiti, accertate nell'esercizio finanziario 1988 per competenza propria dell'esercizio, risultano stabilite in lire 442.976.377.962.628.
 
@@ -45,7 +45,7 @@ Parte di provvedimento in formato grafico
 
 > Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura della disposizione di legge alla quale e' operato il rinvio e della quale restano invariati il valore e l'efficacia.
 
-#### ARTICOLO 2 - Spese
+## ARTICOLO 2 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di prestiti, impegnate nell'esercizio finanziario 1988 per la competenza propria dell'esercizio, risultano stabilite in lire 545.085.498.786.727.
 
@@ -55,13 +55,13 @@ Parte di provvedimento in formato grafico
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### ARTICOLO 3 - Disavanzo della gestione di competenza
+## ARTICOLO 3 - Disavanzo della gestione di competenza
 
 1\. Il disavanzo della gestione di competenza dell'esercizio finanziario 1988 di lire 102.109.120.824.099 risulta stabilito come segue:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### ARTICOLO 4 - Situazione finanziaria
+## ARTICOLO 4 - Situazione finanziaria
 
 1\. Il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 1988 di lire 499.559.780.470.679 risulta stabilito come segue:
 
@@ -69,7 +69,7 @@ Parte di provvedimento in formato grafico
 
 ## DISPOSIZIONI SPECIALI
 
-#### ARTICOLO 5 - Prelevamenti dal Fondo di riserva per le spese impreviste
+## ARTICOLO 5 - Prelevamenti dal Fondo di riserva per le spese impreviste
 
 1\. E' approvato l'allegato di cui all'articolo 9, ultimo comma, della legge 5 agosto 1978, n. 468, concernente i prelevamenti dal Fondo di riserva per le spese impreviste per l'anno 1988.
 
@@ -79,23 +79,21 @@ Parte di provvedimento in formato grafico
 
 > "Alla legge di approvazione del rendiconto generale dello Stato e' allegato un elenco dei decreti di cui al secondo comma, con le indicazioni dei motivi per i quali si e' proceduto ai prelevamenti dal fondo di cui al presente articolo".
 
-#### ARTICOLO 6 - Eccedenze
+## ARTICOLO 6 - Eccedenze
 
 1\. Sono approvate le eccedenze di impegni e di pagamenti risultate in sede di consuntivo rispettivamente sul conto della competenza, sul conto dei residui e sul conto della cassa, relative ai capitoli degli stati di previsione della spesa dei Ministeri sotto indicati per l'esercizio 1988, come risulta dal dettaglio che segue:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### ARTICOLO 7 - Conservazione fondi
+## ARTICOLO 7 - Conservazione fondi
 
 1\. La somma iscritta al capitolo n. 1538 dello stato di previsione del Ministero della sanita' per l'anno finanziario 1988, non impegnata alla chiusura dell'esercizio 1988, puo' esserlo nell'esercizio successivo.
 
 2\. Alla spesa di cui al capitolo n. 4554 dello stato di previsione del Ministero del tesoro iscritta in bilancio in applicazione dell'articolo 19, comma 2, della legge 28 febbraio 1986, n. 41, si applicano le disposizioni contenute nel secondo comma dell'articolo 36 del regio decreto 18 novembre 1923, n. 2440, e successive modificazioni e integrazioni.
 
-## AZIENDE SPECIALI ED AUTONOME
+## AZIENDE SPECIALI ED AUTONOME - GESTIONE DELL'EX AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### GESTIONE DELL'EX AZIENDA DI STATO PER LE FORESTE DEMANIALI
-
-#### ARTICOLO 8 - Entrate
+## ARTICOLO 8 - Entrate
 
 1\. Le entrate correnti ed in conto capitale del bilancio della gestione dell'ex Azienda di Stato per le foreste demaniali, accertate nell'esercizio finanziario 1988 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo della gestione stessa, allegato al conto consuntivo del Ministero dell'agricoltura e delle foreste, in lire 36.387.813.209.
 
@@ -105,7 +103,7 @@ Parte di provvedimento in formato grafico
 
 Parte di provvedimento in formato grafico
 
-#### ARTICOLO 9 - Spese
+## ARTICOLO 9 - Spese
 
 1\. Le spese correnti ed in conto capitale del bilancio della gestione predetta, impegnate nell'esercizio finanziario 1988 per la competenza propria dell'esercizio, risultano stabilite in lire 34.698.262.875.
 
@@ -115,7 +113,7 @@ Parte di provvedimento in formato grafico
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### ARTICOLO 10 - Situazione finanziaria
+## ARTICOLO 10 - Situazione finanziaria
 
 1\. La situazione finanziaria della gestione dell'ex Azienda di Statu per le foreste demaniali alla fine dell'esercizio 1988 risulta come appresso:
 
@@ -123,13 +121,13 @@ Parte di provvedimento in formato grafico
 
 ## ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-#### ARTICOLO 11 - Entrate
+## ARTICOLO 11 - Entrate
 
 1\. Le entrate correnti del bilancio dell'Istituto agronomico per l'Oltremare, accertate nell'esercizio finanziario 1988 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Istituto stesso, allegato al conto consuntivo del Ministero degli affari esteri, in lire 11.235.705.415 interamente versate.
 
 2\. Al 31 dicembre 1988 non risultano residui attivi.
 
-#### ARTICOLO 12 - Spese
+## ARTICOLO 12 - Spese
 
 1\. Le spese correnti del bilancio dell'Istituto predetto, impegnate nell'esercizio finanziarlo 1988 per la competenza propria dell'esercizio, risultano stabilite in lire 11.235.705.415.
 
@@ -141,7 +139,7 @@ Parte di provvedimento in formato grafico
 
 ## AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-#### ARTICOLO 13 - Entrate
+## ARTICOLO 13 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione autonoma dei monopoli di Stato, comprese quelle delle gestioni speciali, accertate nell'esercizio finanziario 1988 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero delle finanze, in lire 2.663.743.520.329.
 
@@ -151,7 +149,7 @@ Parte di provvedimento in formato grafico
 
 Parte di provvedimento in formato grafico
 
-#### ARTICOLO 14 - Spese
+## ARTICOLO 14 - Spese
 
 1\. Le spese correnti ed in conto capitale e per rimborso di prestiti del bilancio dell'Amministrazione predetta, comprese quelle delle gestioni speciali, impegnate nell'esercizio 1988 per la competenza propria dell'esercizio, risultano stabilite in lire 2.663.743.520.329.
 
@@ -161,7 +159,7 @@ Parte di provvedimento in formato grafico
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### ARTICOLO 15 - Riassunto generale
+## ARTICOLO 15 - Riassunto generale
 
 1\. Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione autonoma dei monopoli di Stato, di competenza dell'esercizio 1988, risulta cosi' stabilito:
 
@@ -173,7 +171,7 @@ Spese (escluse le gestioni speciali) L. 2.663.450.340.329 Spese delle gestioni s
  -------------------- L. 2.663.743.520.329
 ```
 
-#### ARTICOLO 16 - Situazione finanziaria
+## ARTICOLO 16 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dell'esercizio 1988, risulta come appresso:
 
@@ -181,7 +179,7 @@ Spese (escluse le gestioni speciali) L. 2.663.450.340.329 Spese delle gestioni s
 
 ## ARCHIVI NOTARILI
 
-#### ARTICOLO 17 - Avanzo
+## ARTICOLO 17 - Avanzo
 
 1\. L'avanzo della gestione del bilancio degli Archivi notarili, per l'esercizio finanziario 1988, risulta stabilito come segue:
 
@@ -191,7 +189,7 @@ Entrate L. 220.088.483.431 Spese " 201.486.695.763
 
 ## FONDO EDIFICI DI CULTO
 
-#### ARTICOLO 18 - Entrate
+## ARTICOLO 18 - Entrate
 
 1\. Le entrate correnti e in conto capitale del bilancio del Fondo edifici di culto, accertate nell'esercizio finanziario 1988 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'interno, in lire 4.675.502.049.
 
@@ -201,7 +199,7 @@ Entrate L. 220.088.483.431 Spese " 201.486.695.763
 
 Parte di provvedimento in formato grafico
 
-#### ARTICOLO 19 - Spese
+## ARTICOLO 19 - Spese
 
 1\. Le spese correnti ed in conto capitale del bilancio dell'Amministrazione predetta. impegnate nell'esercizio 1988 per la competenza propria dell'esercizio, risultano stabilite in lire 3.123.607.854.
 
@@ -211,7 +209,7 @@ Parte di provvedimento in formato grafico
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### ARTICOLO 20 - Situazione finanziaria
+## ARTICOLO 20 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Amministrazione del Fondo edifici di culto, alla fine dell'esercizio 1988 risulta come appresso:
 
@@ -219,7 +217,7 @@ Parte di provvedimento in formato grafico
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE
 
-#### ARTICOLO 21 - Entrate
+## ARTICOLO 21 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Azienda autonoma delle strade, accertate nell'esercizio finanziario 1988 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero dei lavori pubblici, in lire 6.445.311.664.546.
 
@@ -229,7 +227,7 @@ Parte di provvedimento in formato grafico
 
 Parte di provvedimento in formato grafico
 
-#### ARTICOLO 22 - Spese
+## ARTICOLO 22 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Azienda predetta, impegnate nell'esercizio finanziario 1988 per la competenza propria dell'esercizio, risultano stabilite in lire 6.445.311.664.546.
 
@@ -241,7 +239,7 @@ Parte di provvedimento in formato grafico
 
 ## AMMINISTRAZIONE DELLE POSTE E DELLE TELECOMUNICAZIONI
 
-#### ARTICOLO 23 - Entrate
+## ARTICOLO 23 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione delle poste e delle telecomunicazioni, accertate nell'esercizio finanziario 1988 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero delle poste e delle telecomunicazioni, in lire 12.534.271.844.004.
 
@@ -251,7 +249,7 @@ Parte di provvedimento in formato grafico
 
 Parte di provvedimento in formato grafico
 
-#### ARTICOLO 24 - Spese
+## ARTICOLO 24 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Amministrazione predetta, impegnate nell'esercizio finanziario 1988 per la competenza propria dell'esercizio, risultano stabilite in lire 12.534.271.844.004.
 
@@ -263,7 +261,7 @@ Parte di provvedimento in formato grafico
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-#### ARTICOLO 25 - Entrate
+## ARTICOLO 25 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Azienda di Stato per i servizi telefonici, accertate nell'esercizio finanziario 1988 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero delle poste e delle telecomunicazioni, in lire 3.806.276.017.090.
 
@@ -273,7 +271,7 @@ Parte di provvedimento in formato grafico
 
 Parte di provvedimento in formato grafico
 
-#### ARTICOLO 26 - Spese
+## ARTICOLO 26 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Azienda predetta, impegnate nell'esercizio finanziario 1988 per la competenza propria dell'esercizio, risultano stabilite in lire 3.806.276.017.090.
 
@@ -283,13 +281,13 @@ Parte di provvedimento in formato grafico
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### ARTICOLO 27
+## ARTICOLO 27
 
 1\. Il conto consuntivo dello Stato per l'esercizio 1988 e' approvato.
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-#### Allegato n. 1
+## Allegato n. 1
 
 ALLEGATO N. 1.
 
@@ -485,7 +483,7 @@ Le suddette integrazioni hanno interessato la Presidenza del Consiglio dei minis
 
 Tenuto conto degli utilizzi sopra citati, residuano lire 178.000, che costituiscono economie di spese.
 
-#### Allegato n. 2
+## Allegato n. 2
 
 ALLEGATO n. 2
 

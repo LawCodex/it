@@ -28,17 +28,17 @@ la seguente legge:
 
 ## DISPOSIZIONI DI CARATTERE - FINANZIARIO
 
-### Art. 1
+## Art. 1
 
 Il limite massimo del saldo netto da finanziare per l'anno 1982 resta determinato, in termini di competenza, in lire 63.125.801.485.000 e l'ammontare delle operazioni per rimborso di prestiti in lire 26.333.804.639.000.
 
 Conseguentemente, il livello massimo del ricorso al mercato finanziario di cui all'articolo 11 della legge 5 agosto 1978, n. 468, resta fissato, in termini di competenza, in lire 89.459.606.124.000 per l'anno finanziario 1982.
 
-### Art. 2
+## Art. 2
 
 Gli importi da iscrivere in relazione alle autorizzazioni di spesa recate da leggi a carattere pluriennale restano determinati, per ciascuno degli anni 1982, 1983 e 1984, nelle misure indicate nella tabella A allegata alla presente legge.
 
-### Art. 3
+## Art. 3
 
 Gli importi da iscrivere nei fondi speciali di cui all'articolo 10 della legge 5 agosto 1978, n. 468, per il finanziamento dei provvedimenti legislativi che si prevede possano essere approvati nell'anno 1982, restano determinati in lire 3.217.673.000.000 per il fondo speciale destinato alle spese correnti, e in lire 9.701.717.000.000 per il fondo speciale destinato alle spese in conto capitale, secondo il dettaglio di cui agli elenchi n. 6 e n. 7 allegati allo stato di previsione del Ministero del tesoro per lo stesso anno finanziario.
 
@@ -52,7 +52,7 @@ AGGIORNAMENTO (1)
 
 La L. 2 agosto 1982, n.526 ha disposto (con l'art.51 comma 1) che" Le disponibilita' del Fondo investimenti e occupazione di cui al secondo comma dell'articolo 3 della legge 26 aprile 1982, n. 181, sono ripartite, secondo le disposizioni degli articoli seguenti, in: 1) lire 1.400 miliardi per la costituzione presso la Cassa depositi e prestiti di un fondo di rotazione per investimenti mobiliari; 2) lire 1.000 miliardi all'Ente nazionale per l'energia elettrica; 3) lire 300 miliardi per maggiori detrazioni sulla imposta sul valore aggiunto; 4) lire 870 miliardi per finanziamento di interventi infrastrutturali o sul territorio o di rilevante interesse economico anche per l'agricoltura; 5) lire 1.180 miliardi per interventi nel settore industriale pubblico e privato; 6) lire 100 miliardi per interventi, ai sensi della legge 12 agosto 1977, n. 675, a favore di imprese cooperative; 7) lire 50 miliardi per la meccanizzazione in agricoltura; 8) lire 100 miliardi per la concessione del concorso nel pagamento degli interessi sui prestiti agrari di esercizio di cui all'articolo 2 del regio decreto-legge 29 luglio 1927, n. 1509, convertito, con modificazioni, nella legge 5 luglio 1928, n. 1760; 9) lire 100 miliardi per interventi nel settore agricolo ai sensi dell'articolo 1 della legge 1 luglio 1977, n. 403; 10) lire 50 miliardi per interventi a favore della cooperazione agricola, ai sensi dell'articolo 5 della legge 10 luglio 1977, n. 403; 11) lire 70 miliardi per il pagamento delle garanzie gia' escusse di cui all'articolo 3 della legge 31 marzo 1982, n. 119; 12) lire 100 miliardi per l'incremento del fondo speciale rotativo per l'innovazione tecnologica, di cui all'articolo 14 della legge 17 febbraio 1982, n. 46; 13) lire 30 miliardi ad incremento dei fondi di dotazione degli istituti di mediocredito regionali del Mezzogiorno, da ripartirsi con delibera del Comitato interministeriale per il credito e il risparmio."
 
-### Art. 4
+## Art. 4
 
 ((COMMA ABROGATO DAL D.P.R. 20 FEBBRAIO 1998, N. 38))
 
@@ -82,21 +82,21 @@ Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occor
 
 ## DISPOSIZIONI DI CARATTERE FISCALE
 
-### Art. 5
+## Art. 5
 
 (( ARTICOLO ABROGATO DAL D.LGS. 21 NOVEMBRE 1997, N. 461 ))
 
-### Art. 6
+## Art. 6
 
 (( ARTICOLO ABROGATO DAL D.LGS. 21 NOVEMBRE 1997, N. 461 ))
 
 ## DISPOSIZIONI IN MATERIA DI FINANZA LOCALE E REGIONALE
 
-### Art. 7
+## Art. 7
 
 Per l'anno 1982 lo Stato concorre al finanziamento dei bilanci comunali e provinciali mediante l'erogazione di contributi per un ammontare complessivo di lire 17.380 miliardi.
 
-### Art. 8
+## Art. 8
 
 Per l'anno 1982 la quota del 15 per cento dell'imposta di fabbricazione sugli oli minerali, loro derivati e prodotti analoghi indicata alla lettera a) del primo comma dell'articolo 8 della legge 16 maggio 1970, numero 281, e' elevata al 49,90 per cento.
 
@@ -108,15 +108,15 @@ b) delle somme spettanti alle regioni a statuto ordinario ai sensi dell'articolo
 
 Il fondo comune regionale viene ripartito tra le regioni a statuto ordinario in proporzione alle somme attribuite a ciascuna regione per l'anno 1981 ai sensi dell'articolo 1 della legge 10 maggio 1976, n. 356, e delle disposizioni di cui alle lettere a) e b) del precedente comma.
 
-### Art. 9
+## Art. 9
 
 II limite del 20 per cento, previsto dall'articolo 10 della legge 16 maggio 1970, n. 281, modificato dall'articolo 22 della legge 19 maggio 1976, n. 335, e' elevato al 25 per cento.
 
-### Art. 10
+## Art. 10
 
 Le somme spettanti alle regioni a statuto speciale e alle province autonome di Trento e di Bolzano ai sensi dell'articolo 5 della legge 29 luglio 1975, n. 405, dell'articolo 103 della legge 22 dicembre 1975, n. 685, dell'articolo 10 della legge 23 dicembre 1975, n. 698, e dell'articolo 3 della legge 22 maggio 1978, n. 194, vengono corrisposte per l'anno 1982 dal Ministero del tesoro secondo le ripartizioni al medesimo titolo effettuate per l'anno 1981 maggiorate del 16 per cento.
 
-### Art. 11
+## Art. 11
 
 La quota del fondo per il finanziamento dei programmi regionali di sviluppo di cui all'articolo 9 della legge 16 maggio 1970, n. 281, per l'anno finanziario 1982 e' stabilita in lire 623.868.069.000.
 
@@ -126,7 +126,7 @@ Il vincolo di destinazione settoriale sulle assegnazioni disposte a favore delle
 
 ## DISPOSIZIONI IN MATERIA - SANITARIA
 
-### Art. 12
+## Art. 12
 
 La prescrizione di specialita' medicinali a base di antibiotici in confezione monodose e' limitata ad un numero massimo di otto pezzi per ricetta. Per gli altri farmaci la prescrizione e' limitata ad un numero massimo di tre pezzi per ricetta.
 
@@ -170,7 +170,7 @@ AGGIORNAMENTO (6)
 
 Il D.L. 30 ottobre 1987, n.443 convertito con modificazioni dalla L. 29 dicembre 1987, n.531 ha disposto (con l'art.1) che"A decorrere dal 1 gennaio 1987 e' soppressa la partecipazione alla spesa da parte degli assistiti sulle prestazioni di diagnostica strumentale e di laboratorio disposta dall'articolo 12 della legge 26 aprile 1982, n. 181."
 
-### Art. 13
+## Art. 13
 
 Le regioni, per il tramite dei propri uffici ed avvalendosi anche di un apposito servizio ispettivo, sanitario e finanziario, sono tenute a verificare, in relazione ai rendiconti trimestrali, l'andamento delle attivita' assistenziali e della gestione dei fondi assegnati a ciascuna unita' sanitaria locale.
 
@@ -208,7 +208,7 @@ AGGIORNAMENTO (4)
 
 La Corte Costituzionale con sentenza 27 giugno-7 luglio 1986, n.177 ( in G.U. 1a s.s. 16/7/1986, n.34) ha dichiarato" costituzionalmente illegittimo nei confronti delle Province di Trento e di Bolzano il comma quinto aggiunto, all'art. 13 della legge 26 aprile 1982, n. 181, dall'art. 11, comma decimo, del decreto - legge 12 settembre 1983, n. 463 (decreto convertito in legge con modificazioni con la legge 11 novembre 1983, n. 638) nella parte in cui, nel richiamare il comma precedente, comma quarto aggiunto all'art. 13 della legge n. 181 del 1982 dall'art. 11, comma decimo, del decreto - legge n. 463 del 1983 (come sopra convertito), comprende il riferimento fatto dal detto comma precedente agli artt. 3, comma secondo, e 5, comma secondo, della legge 7 agosto 1982, n. 526; dichiara non fondate sotto ogni altro aspetto le questioni di legittimita' del comma quinto aggiunto all'art. 13 della legge n. 181 del 1982 dall'art. 11, comma decimo, del decreto - legge n. 463 del 1983 (come sopra convertito), sollevate, in riferimento agli artt. 5, 9, n. 1O, 16 e 54, n. 5, dello Statuto speciale del Trentino - Alto Adige approvato con d.P.R. 31 agosto 1972, n. 670, dalle Province autonome di Trento e di Bolzano con i rispettivi ricorsi."
 
-### Art. 14
+## Art. 14
 
 A decorrere dal 1 gennaio 1982 il contributo sociale di malattia dovuto in misura fissa dagli artigiani, dagli esercenti attivita' commerciali, dai coltivatori diretti e dai liberi professionisti previsto per l'anno 1982 e' maggiorato rispettivamente di lire 100 mila per gli artigiani e gli esercenti attivita' commerciali, di lire 75 mila per i liberi professionisti e di lire 61.370 per i coltivatori diretti.
 
@@ -224,7 +224,7 @@ Ferme rimanendo le aliquote aggiuntive di cui all'articolo 4 del decreto-legge 8
 
 Nulla e' innovato circa la misura del contributo di malattia a carico del datore di lavoro.
 
-### Art. 15
+## Art. 15
 
 Il Governo della Repubblica e' delegato ad emanare, entro 120 giorni dalla entrata in vigore della presente legge, con uno o piu' decreti aventi valore di legge ordinaria, norme dirette a potenziare le strutture dell'ufficio centrale della programmazione sanitaria, nel rispetto dei seguenti principi e criteri direttivi:
 
@@ -250,7 +250,7 @@ AGGIORNAMENTO (6)
 
 La L. 19 febbraio 1992, n.142 ha disposto (con l'art.15) che" l'articolo 15, secondo comma, della legge 26 aprile 1982, n. 181, e' abrogato limitatamente alla parte in cui obbligatoriamente prevedono l'affidamento delle prestazioni ivi contemplate a societa' costituite con prevalente partecipazione statale, anche indiretta."
 
-### Art. 16
+## Art. 16
 
 La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica.
 
@@ -266,7 +266,7 @@ Visto, il Guardasigilli: DARIDA
 
 ## DISPOSIZIONI IN MATERIA - SANITARIA
 
-### Tabella A
+## Tabella A
 
 TABELLA A
 

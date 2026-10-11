@@ -26,47 +26,43 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I
+## TITOLO I - Istituzione e e funzionamento dei Conservatori di musica, delle Accademie di belle arti e Licei artistici, delle Accademie nazionali d'arte drammatica e di danza.
 
-### Istituzione e e funzionamento dei Conservatori di musica, delle - Accademie di belle arti e Licei artistici, delle Accademie
-
-#### nazionali d'arte drammatica e di danza.
-
-##### Art. 1
+### Art. 1
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 2
+### Art. 2
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 3
+### Art. 3
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 4
+### Art. 4
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
 ## TITOLO II - Carriera e ruoli del personale amministrativo
 
-##### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 8
+### Art. 8
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 9
+### Art. 9
 
 ((COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212)).
 
@@ -74,25 +70,25 @@ la seguente legge:
 
 COMMA ABROGATO DALLA L. 15 NOVEMBRE 1973, N. 734.
 
-##### Art. 10
+### Art. 10
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
 ## Disposizioni transitorie e finali
 
-##### Art. 11
+### Art. 11
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 12
+### Art. 12
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 13
+### Art. 13
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 14
+### Art. 14
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
@@ -108,7 +104,7 @@ Visto, il Guardasigilli: - BOSCO
 
 ## Disposizioni transitorie e finali
 
-##### Tabelle
+### Tabelle
 
 TABELLA A
 

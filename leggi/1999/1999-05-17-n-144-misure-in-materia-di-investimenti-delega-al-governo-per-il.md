@@ -30,11 +30,9 @@ PROMULGA
 
 la seguente legge
 
-## CAPO I - DISPOSIZIONI IN MATERIA
+## CAPO I - DISPOSIZIONI IN MATERIA DI INVESTIMENTI
 
-### DI INVESTIMENTI
-
-#### ART. 1 - Costituzione di unita' tecniche di supporto alla programmazione, alla valutazione e al monitoraggio degli investimenti pubblici
+### ART. 1 - Costituzione di unita' tecniche di supporto alla programmazione, alla valutazione e al monitoraggio degli investimenti pubblici
 
 1\. Al fine di migliorare e dare maggiore qualita' ed efficienza al processo di programmazione delle politiche di sviluppo, le amministrazioni centrali e regionali, previa intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, istituiscono e rendono operativi, entro il 31 ottobre 1999, propri nuclei di valutazione e verifica degli investimenti pubblici che, in raccordo fra loro e con il Nucleo di valutazione e verifica degli investimenti pubblici del Ministero del tesoro, del bilancio e della programmazione economica, garantiscono il supporto tecnico nelle fasi di programmazione, valutazione, attuazione e verifica di piani, programmi e politiche di intervento promossi e attuati da ogni singola amministrazione. E' assicurata l'integrazione dei nuclei di valutazione e verifica degli investimenti pubblici con il Sistema statistico nazionale, secondo quanto previsto dall'articolo 6 del decreto legislativo 31 marzo 1998, n. 112.
 
@@ -72,11 +70,11 @@ AGGIORNAMENTO (4)
 
 La Corte Costituzionale, con sentenza 12-27 luglio 2001, n. 314 (in G.U. 1a s.s. 1/8/2001, n. 30) ha dichiarato l'illegittimita' costituzionale del comma 4 del presente art. 1 "nella parte in cui ricomprende, fra i propri destinatari, la regione Trentino-Alto Adige e le province autonome di Trento e di Bolzano".
 
-#### ART. 2
+### ART. 2
 
 ((ARTICOLO ABROGATO DALLA L. 28 DICEMBRE 2015, N. 208))
 
-#### ART. 3 - Compiti del CIPE
+### ART. 3 - Compiti del CIPE
 
 1\. Il comma 2 dell'articolo 1 del decreto legislativo 5 dicembre 1997, n. 430, e' sostituito dal seguente:
 
@@ -84,7 +82,7 @@ La Corte Costituzionale, con sentenza 12-27 luglio 2001, n. 314 (in G.U. 1a s.s.
 
 2\. Gli assetti finali dei piani progettuali dei contratti di programma stipulati ai sensi della legge 1 marzo 1986, n. 64, sono sottoposti al CIPE, pena la revoca del finanziamento, entro il 31 dicembre 2000. I provvedimenti provvisori di concessione adottati entro il 31 dicembre 1995 possono essere rimodulati dal Ministero del tesoro, del bilancio e della programmazione economica sulla base delle determinazioni del CIPE; i provvedimenti di concessione definitiva sono adottati dallo stesso Ministero con le modalita' previste dall'articolo 4, comma 4, del decreto-legge 8 febbraio 1995, n. 32, convertito dalla legge 7 aprile 1995, n. 104. Al fine di garantire il raccordo con le deliberazioni del CIPE le commissioni incaricate degli accertamenti sulla realizzazione delle iniziative comprese nei contratti di programma sono assistite da un funzionario del Dipartimento per le politiche di sviluppo e di coesione del Ministero del tesoro, del bilancio e della programmazione economica con compiti di segretario, al quale com- pete un compenso forfettario pari all'onorario base riconosciuto al singolo componente la commissione, ridotto del 60 per cento.
 
-#### Art. 4
+### Art. 4
 
 ((Finanziamento della progettazione))
 
@@ -110,7 +108,7 @@ AGGIORNAMENTO (28)
 
 La L. 30 dicembre 2018, n. 145 ha disposto (con l'art. 1, comma 175) che "Fino alla data di entrata in vigore del decreto di cui al comma 174, lettera d), per la gestione delle operazioni di finanziamento a valere sul fondo di cui all'articolo 4 della legge 17 maggio 1999, n. 144, si applicano le vigenti disposizioni fino a compimento degli ultimi atti di erogazione e rendicontazione. Le disponibilita' finanziarie del predetto fondo, non oggetto di domanda di utilizzo alla data di entrata in vigore del decreto di cui al comma 174, lettera d), sono riassegnate al medesimo fondo senza vincoli di ripartizione".
 
-#### Art. 5 - Intese istituzionali di programma
+### Art. 5 - Intese istituzionali di programma
 
 1\. In ciascuno stato di previsione della spesa e' istituita una unita' previsionale di base per gli interventi di conto capitale denominata a Intesa istituzionale di programma ", cui affluiscono le risorse provenienti dalle autorizzazioni di spesa iscritte nel medesimo stato di previsione da destinare alla realizzazione degli interventi previsti nelle intese istituzionali di programma da stipulare ai sensi dell'articolo' 2, comma 203, della legge 23 dicembre 1996, n. 662, e con la modalita' di cui alla delibera CIPE del 21 marzo 1997, pubblicata nella Gazzetta Ufficiale n. 105 dell'8 maggio 1997.
 
@@ -126,13 +124,13 @@ La L. 30 dicembre 2018, n. 145 ha disposto (con l'art. 1, comma 175) che "Fino a
 
 7\. Le regioni sottoscrittrici di intese istituzionali di programma adeguano le strutture dei rispettivi bilanci in sintonia con le previsioni del presente articolo.
 
-#### ART. 6 - Esecuzione diretta di lavori e servizi
+### ART. 6 - Esecuzione diretta di lavori e servizi
 
 1\. All'articolo 37-quinquies della legge 11 febbraio 1994, n. 109, e successive modificazioni, e' aggiunto, in fine, il seguente comma:
 
 " 1-bis. I lavori da eseguire e i servizi da prestare da parte delle societa' disciplinate dal comma 1 si intendono realizzati e prestati in proprio anche nel caso siano affidati direttamente dalle suddette societa' ai propri soci, sempre che essi siano in possesso dei requisiti stabiliti dalle vigenti norme legislative e regolamentari. Restano ferme le disposizioni legislative, regolamentari e contrattuali che prevedano obblighl di affidamento dei lavori o dei servizi a soggetti terzi ".
 
-#### ART. 7 - Istituzione dell'Unita' tecnica - Finanza di progetto
+### ART. 7 - Istituzione dell'Unita' tecnica - Finanza di progetto
 
 1\. E istituita, nell'ambito del CIPE, l'Unita' tecnica - Finanza di progetto. di seguito denominata " Unita' ".
 
@@ -164,7 +162,7 @@ AGGIORNAMENTO (26)
 
 La L. 28 dicembre 2015, n. 208 ha disposto (con l'art. 1, comma 589) che "Al fine di razionalizzare e ridurre i costi delle strutture tecniche del Dipartimento per la programmazione e il coordinamento della politica economica della Presidenza del Consiglio dei ministri, l'Unita' tecnica - Finanza di progetto, di cui all'articolo 7 della legge 17 maggio 1999, n. 144, e' soppressa e le relative funzioni e competenze sono trasferite al medesimo Dipartimento. Il Dipartimento, per lo svolgimento delle funzioni trasferite e di quelle esercitate a supporto del Nucleo di consulenza per l'attuazione delle linee guida per la regolazione dei servizi di pubblica utilita', previste dal decreto del Presidente del Consiglio dei ministri 25 novembre 2008, pubblicato nella Gazzetta Ufficiale n. 42 del 20 febbraio 2009, puo' avvalersi complessivamente di un massimo di diciotto esperti in materia di investimenti pubblici e finanza di progetto. Con decreto del Presidente del Consiglio dei ministri, da emanare entro sessanta giorni dalla data di entrata in vigore della presente legge, sono definiti i requisiti professionali, i criteri per l'attribuzione degli incarichi, la durata, le cause di incompatibilita' e il trattamento economico degli esperti. I richiami all'Unita' tecnica - Finanza di progetto contenuti in atti normativi devono intendersi riferiti al Dipartimento per la programmazione e il coordinamento della politica economica".
 
-#### ART. 8
+### ART. 8
 
 (Utilizzazione delle economie verificatesi
 
@@ -174,7 +172,7 @@ nella realizzazioni delle opere pubbliche.
 
 "1. Le economie verificatesi nella realizzazione di opere pubbliche, finanziate con ricorso a mutui con ammortamento a carico del bilancio statale in base a specifiche disposizioni legislative, possono essere utilizzate per il finanziamento di ulteriori lavori afferenti al progetto originario ovvero a un nuovo progetto di opere della stessa tipologia di quelle previste dalla legge originaria di finanziamento, previa autorizzazione del Ministero competente".
 
-#### ART. 9
+### ART. 9
 
 (Affidamento in concessione di costruzione e
 
@@ -186,7 +184,7 @@ gestione dell'autostrada Salerno-Reggio Calabria).
 
 3\. Il Ministro dei lavori pubblici, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, sentite le regioni interessate, valutata positivamente la sostenibilita' economica, finanziaria e tecnica dell'affidamento in concessione di costruzione e gestione dell'autostrada Salerno-Reggio Calabria, impartisce le disposizioni necessarie affinche' l'ANAS bandisca, entro i trenta giorni suc cessivi la gara per l'affidamento della concessione di costruzione e gestione dell'autostrada Salerno- Reggio Calabria, ivi comprese la realizzazione e la gestione dei servizi ad essa connessi stabilendo requisii di qualificazione adeguati alla natura ed all'importanza della concessione. Nel bando di gara e' altresi' specificato che i progetti dei lavori da appaltare predisposti a cura dell'ANAS formano parte integrante dell'oggetto della concessione di costruzione e gestione e devono, di conseguenza, essere fatti propri dal soggetto aggiudicatario della gara.
 
-#### ART. 10
+### ART. 10
 
 (Affidamento in concessione di costruzione
 
@@ -198,19 +196,19 @@ e gestione dell'autostrada Pedemontana Veneta).
 
 3\. Il Ministro dei lavori pubblici, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, valutata positivamente la sostenibilita' economica, finanziaria e tecnica dell'affidamento in concessione di costruzione e gestione dell'autostrada Pedemontana Veneta, impartisce le disposizioni necessarie affinche' l'ANAS bandisca, entro i trenta giorni successivi, la gara per l'affidamento della concessione di costruzione e gestione dell'autostrada Pedemontana Veneta, stabilendo requisiti di qualificazione adeguati alla natura ed all'importanza della concessione. Nel bando di gara e', altresi, specificato che i progetti dei lavori da appaltare predisposti a cura dell'ANAS formano parte integrante dell'oggetto della concessione di costruzione e gestione e devono, di conseguenza, essere fatti propri dal soggetto aggiudicatario della gara.
 
-#### ART. 11 - Raddoppio della strada statale Ragusa-Catania
+### ART. 11 - Raddoppio della strada statale Ragusa-Catania
 
 1\. Per la realizzazione del raddoppio della strada statale n. 514 tra Ragusa e Catania e' autorizzato il limite di impegno decennale di lire 10 miliardi a decorrere dall'anno 2001.
 
 2\. All'onere derivante dall'attuazione del presente articolo, pari a lire 10 miliardi per 2001 2001 si prevede mediamente utilizzo lizzo della proiezione per il medesimo anno dello stanziamento iscritto, ai fini del bilancio triennale 1999-2001, nell'ambito dell'unita' previsionale di base di conto capitale " Fondo speciale "" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 1999, allo scopo parzialmente utilizzando l'accantonamento relativo alla Presidenza del Consiglio dei ministri.
 
-#### ART. 12 - Perenzione
+### ART. 12 - Perenzione
 
 1\. All'articolo 36, terzo comma, del regio decreto 18 novembre 1923, n. 2440, come modificato dall'articolo 39 della legge 7 agosto 1982, n. 526, le parole: " quinto esercizio " sono sostituite dalle seguenti: " settimo esercizio ".
 
 2\. La disposizione di cui al comma 1 si applica in via transitoria anche ai residui in scadenza al 31 dicembre 1998.
 
-#### ART. 13 - Modifiche alla disciplina del Fondo per la progettazione istituito presso il Ministero dei lavori pubblici
+### ART. 13 - Modifiche alla disciplina del Fondo per la progettazione istituito presso il Ministero dei lavori pubblici
 
 1\. I commi 2 e 2-bis dell'articolo 9 del decreto-legge 25 marzo
 
@@ -236,7 +234,7 @@ e gestione dell'autostrada Pedemontana Veneta).
 
 2\. Il 30 per cento della tariffa professionale relativa alla redazione di un atto di pianificazione comunque denominato e' ripartito, con le modalita' ed i criteri previsti nel regolamento di cui al comma 1, tra i dipendenti dell'amministrazione aggiudicatrice che lo abbiano redatto".
 
-#### ART. 14 - Snellimento delle procedure di cui al decreto-legge 25 marzo 1997, n 67, ed al decreto-legge 23 giugno 1995, n. 244
+### ART. 14 - Snellimento delle procedure di cui al decreto-legge 25 marzo 1997, n 67, ed al decreto-legge 23 giugno 1995, n. 244
 
 1\. Gli oneri derivanti dall'affidamento disposto dai commissari
 
@@ -258,7 +256,7 @@ milioni di lire" sono sostituite dalle seguenti : "200.000 ECU"
 
 6\. I limiti di cui ai commi 3, 4 e S sono aggiornati con cadenza triennale dal Ministro dei lavori pubblici, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica.
 
-#### ART. 15
+### ART. 15
 
 (Snellimento delle procedure concernenti il
 
@@ -294,7 +292,7 @@ e altre disposizioni agevolative).
 
 8\. Gli indirizza generali di gestione del Fondo centrale di garanzia, istituito dall'articolo 1 della legge 14 ottobre 1964, n. 1068, sono defini dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano.
 
-#### ART. 16
+### ART. 16
 
 (Disposizioni in materia di contabilita'
 
@@ -302,7 +300,7 @@ dell'ufficio nazionale per il servizio civile).
 
 1\. Ai fondi di contabilita' speciale a disposizione dell'Ufficio nazionale per il servizio civile nonche' alle aperture di credito effettuate dall'Ufficio nazionale per il servizio civile a favore di funzionari delegati degli cuti militari, si applicano le disposizioni di cui all'articolo 1 del decretolegge 25 maggio 1994, n. 313, convertito, con modificazioni, dalla legge 22 luglio 1994, n. 460, e successive modificazioni, recante la disciplina dei pignoramenti sulla contabilita' speciale delle prefetture, delle direzioni di amministrazione delle Forze armate e della Guardia di finanza.
 
-#### Art. 17
+### Art. 17
 
 (Interventi del Fondo di rotazione
 
@@ -324,7 +322,7 @@ per le politiche comunitarie).
 
 8\. Fermi restando i limiti e i divieti imposti dagli articoli 2, comma 91, della legge 23 dicembre 1996, n. 662, e 5, comma 1, del decreto-legge 28 marzo 1997, n. 79, convertito, con modificazioni, dalla legge 28 maggio 1997, n. 140, sono fatte salve le anticipazioni concesse dall'ANAS fino al 31 dicembre 1997, per i contratti di appalto di lavori oggetto di cofinanziamento europeo, in misura superiore al limite attualmente previsto.
 
-#### ART. 18
+### ART. 18
 
 (Accesso delle universita' agli accordi di
 
@@ -332,7 +330,7 @@ programma).
 
 1\. L'articolo 6, comma 1, del decreto- legge 21 aprile 1995, n. 120, convertito, con modificazioni, dalla legge 21 giugno 1995, n. 236, si interpreta nel senso che le universita' possono accedere ai finanziamenti oggetto degli accordi di programma di cui all'articolo 5 della legge 24 dicembre 1993, n. 537, e al decreto- legge 31 gennaio 1995, n. 26, convertito, con modificazioni, dalla legge 29 marzo 1995, n. 95, a condizione in ogni caso che siano entrati in vigore gli statuti di autonomia da adottare ai sensi della legge 9 maggio 1989, n. 168.
 
-#### ART. 19 - Adeguamento dei sistemi informatici all'anno 2000
+### ART. 19 - Adeguamento dei sistemi informatici all'anno 2000
 
 1\. Le pubbliche amministrazioni, le autorita' amministrative indipendenti, l'Autorita' per l'informatica nella pubblica amministrazione, la Banca d'Italia, la Commissione nazionale per le societa' e la borsa (CONSOB), le imprese e le associazioni di categoria rappresentate nel Consiglio nazionale dell'economia e del lavoro, le imprese ed i soggetti privati sono tenuti a fornire al Comitato di studio ed indirizzo per l'adeguamento dei sistemi informatici e computerizzati all'anno 2000 (Comitato anno 2000), istituito con decreto del Presidente del Consiglio dei ministri del 14 dicembre 1998, e successive modificazioni, le informazioni ed i dati necessari al perseguimento dei compiti affidati al Comitato medesimo e dallo stesso richiesti, anche in via telematica. Il Comitato anno 2000 si avvale delle strutture di comunicazione predisposte dal Comitato di indirizzo e coordinamento per l'attuazione dell'euro del Ministero del tesoro, del bilancio e della programmazione economica.
 
@@ -352,7 +350,7 @@ c) alla elaborazione di piani di contingenza per i diversi livelli delle possibi
 
 Agli oneri derivanti dal presente articol, pari a lire 5 miliardi per l'anno 1999, si provvede mediante riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1999-2001, nell'ambito dell'unita' previsionale di base di parte corrente " Fondo speciale " dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 1999, parzialmente utilizzando l'accantonamento relativo alla Presidenza del Consiglio dei ministri.
 
-#### Art. 20 - Relazioni sugli interventi nelle aree depresse
+### Art. 20 - Relazioni sugli interventi nelle aree depresse
 
 1\. E' soppressa la previsione di relazioni relative alle aree depresse contenuta nelle seguenti disposizioni:
 
@@ -364,11 +362,11 @@ c) articolo 3, comma 2, e articolo 16, comma 2, del decreto legislativo 3 aprile
 
 2\. ((COMMA ABROGATO DAL D.L. 30 SETTEMBRE 2003, N. 269, CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326)).
 
-#### ART. 21 - Modifiche alla legge 27 dicembre 1997, n. 449
+### ART. 21 - Modifiche alla legge 27 dicembre 1997, n. 449
 
 1\. Al comma 2 dell'articolo 4 della legge 27 dicembre 1997. n. 449, sono soppresse la parola: " seguenti ", nell'alinea, e le lettere a), b), c) e d). Al comma 3 del medesimo articolo 4 della legge n. 449 del 1997, le parole: " Per le aree di cui alla lettera d) del comma 2 " sono sostituite dalle seguenti: "Per le isole, con esclusione della Sicilia e della Sartegna, appartenenti ai territori di cui al comma 2 ".
 
-#### ART. 22
+### ART. 22
 
 (Ristrutturazione finanziaria dell'lstituto
 
@@ -376,7 +374,7 @@ poligrafico e zecca dello Stato).
 
 1\. All'Istituto poligrafico e zecca dello Stato e' concesso un contributo ventennale di lire 80 miliardi annue a decorrere dal 2000, quale concorso dello Stato a fronte degli oneri di ammortamento, per capitale ed interessi, derivanti da mutui o altre operazioni finanziarie che l'Istituto stesso e' autorizzato ad effettuare al fine di pervenire alla propria ristrutturazione finanziaria. Tale contributo e' concesso a condizione che l'Istituto abbia predisposto un programma di ristrutturazione organizzativa e finanziaria e tale programma sia stato approvato tal Ministro del tesoro, del bilancio e della programmazione economica. Il programma, comprensivo del piano di ristrutturazione delle cartiere delle Marche al fine del loro sviluppo e della tutela dei posti di lavoro, attraverso il reinserimento stabile e competitivo nel mercato, e' predisposto entro tre mesi dalla data di entrata in vigore della presente legge ed e' trasmesso al Parlamento. Il Governo riferisce ogni sei mesi alle Camere sullo stato di attuazione del programma medesimo. A1 relativo onere si provvede, per gli anni 2000 e 2001, mediante utilizzo delle proiezioni per i medesimi anni dello stanziamento iscritto, ai fini del bilancio triennale 1999-2001, nell'ambito dell'unita' previsionale di base di conto, capitale "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 1999, utilizzando l'accantona" mento relativo al medesimo Ministero.
 
-#### ART. 23
+### ART. 23
 
 (Personale del Consorzio universitario a
 
@@ -384,7 +382,7 @@ distanza).
 
 1\. I1 personale dipendente dal Consorzio universitario a distanza, per il quale e' stato dichiarato il fallimento con sentenza depositata il 30 aprile 1998, ancorche' in cassa integrazione alla medesima data, partecipa a domanda ad appositi concorsi che possono essere banditi dalle universita' statali di Cosenza, Catanzaro e Reggio Calabria ai fini dell'inquadramento nei ruoli del personale tecnico-amministrativo delle universita' stesse, nel rispetto delle professionalita' acquisite, senza oneri aggiuntivi a carico del bilancio dello Stato.
 
-#### ART. 24
+### ART. 24
 
 (Divieto di estensione di decisioni giurisdizionali
 
@@ -392,7 +390,7 @@ nella materia del pubblico impiego).
 
 1\. Per il triennio 1999-2001 e' fatto divieto a tutte le pubbliche amministrazioni di cui all'articolo I, comma 2, del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni, di adottare provvedimenti per l'estensione di decisioni giurisdizionali aventi forza di giudicato, o comunque divenute esecutive, nella materia del pubblico impiego. La disposizione del presente comma non si applica alle controversie nelle quali siano parti pubblici impiegati ricorrenti o resistenti in grado di appello, qualora questioni identiche a quelle dedotte in giudizio siano gia' state decise in sede giurisdizionale in senso favorevole ad altri soggetti versanti nella medesima posizione giuridica dei ricorrenti o resistenti.
 
-#### ART. 25 - Fondo per lo sviluppo in agricoltura
+### ART. 25 - Fondo per lo sviluppo in agricoltura
 
 1\. Al fine di promuovere il rafforzamento del sistema agricolo e agro-alimentare, attraverso l'ammodernamento delle strutture, il rinnovo del capitale agrario, la ricomposizione fondiaria, il sostegno e la promozione di settori innovativi quali l'agricoltura biologica, il riequilibrio territoriale, lo sviluppo delle zone montane e la crescita dell'occupazione, nonche' la qualificazione delle produzioni, le risorse finanziarie destinate al finanziamento dei regimi di aiuto previsti dagli articoli 1, commi 3 e 4, 2, 6, 10, comma 4, e 13, comma 1, del decreto legislativo 30 aprile 1998, n. 173, affluiscono ad un apposito Fondo per lo sviluppo in agricoltura, istituito nello stato di previsione della spesa del Ministero per le politiche agricole.
 
@@ -410,7 +408,7 @@ b) all'articolo 29 e' aggiunto il seguente comma:
 
 5\. Restano ferme le disposizioni relative agli adempimenti successivi all'approvazione dei piani di cui al comma 4 a carico delle regioni e degli enti concessionari. I conguagli, di cui agli articoli 26 e 32 delle citate norme approvate con regio decreto n. 215 del 1933, vengono riscossi mediante l'emissione di ruoli esattoriali.
 
-#### ART. 26
+### ART. 26
 
 (Disposizioni riguardanti i consorzi di mi
 
@@ -420,7 +418,7 @@ glioramento fondiario).
 
 2\. Ai consorzi di miglioramento fondiario di secondo grado gia' operanti si applicano le disposizioni dell'articolo 55 delle norme approvate con il citato regio decreto n. 215 del 1933, e la loro costituzione viene riconosciuta dall'origine.
 
-#### ART. 27
+### ART. 27
 
 (Variazioni compensative tra risorse
 
@@ -428,7 +426,7 @@ destinate ad investimenti).
 
 1\. Al comma 4-quinquies dell'articolo 2 della legge 5 agosto 1978, n. 468, e successive modificazioni, dopo il quarto periodo, e' inserito il seguente: "Al fine di favorire una maggiore flessibilita' nell'uso delle risorse destinate agli investimenti e di consentire la determinazione delle dotazioni di cassa e di competenza in misura tale da limitare la formazione di residui di stanziamento, possono essere effettuate variazioni compensative, nell'ambito della stessa unita' previsionale di base, di conto capitale, anche tra stanziamenti disposti da leggi diverse, a condizione che si tratti di leggi che finanzino o rifinanzino lo stesso intervento".
 
-#### ART. 28
+### ART. 28
 
 (Completamento del programma di
 
@@ -458,13 +456,13 @@ c) la concessione di contributi in conto capitale per la realizzazione degli add
 
 5-quinquies. Il programma di metanizzazione della Sardegna e' attuato anche attraverso la realizzazione di reti comunali di distribuzione del gas metano esercibili, in via transitoria, con fluidi diversi dal metano. Si applicano le disposizioni delle leggi concernenti il programma ti metanizzazione del Mezzogiorno ".
 
-#### ART. 29 - Trasporti rapidi di massa
+### ART. 29 - Trasporti rapidi di massa
 
 1\. I soggetti di cui agli articoli 9 e 10 della legge 26 febbraio 1992, n. 211, e successive modificazioni, sono tenuti, a pena di revoca del contributo, a presentare i progetti definitivi, relativi agli interventi di competenza gia' approvati dal CIPE prima del 31 dicembre 1995, entro il termine del 31 luglio 1999, e per i progetti approvati entro il 31 dicembre 1998 non oltre il 31 ottobre 1999. A tal fine le disponibilita' finanziarie al 31 dicembre 1998 di cui ai medesimi articoli 9 e 10 della legge n. 211 del 1992 sono mantenute in bilancio per essere utilizzate negli esercizi successivi.
 
 2\. Al fine di consentire la realizzazione di un programma di interventi concernenti i sistemi di trasporto rapido di massa, il Ministro dei trasporti e della navigazione, d'intesa con il Ministro per i problemi delle aree urbane, formula proposte al CIPE per l'allocazione delle risorse disponibili anche a seguito dell'abbassamento del tasso di sconto e dei ribassi d'asta.
 
-#### ART. 30
+### ART. 30
 
 (Fondo speciale per la ricerca nei settori dei
 
@@ -474,11 +472,11 @@ trasporti aereo, marittimo e terrestre).
 
 2\. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### ART. 31 - Societa' di gestione dei servizi ferroviari
+### ART. 31 - Societa' di gestione dei servizi ferroviari
 
 1\. Al fine di accelerare il conferimento alle regioni delle funzioni previste dall'articolo 2 della legge 23 dicembre 1996, n. 662, e dall'articolo 8 del decreto legislativo 19 novembre 1997, n. 422, le ferrovie in gestione commissariale governativa, attualmente gestite dalle Ferrovie dello Stato spa, possono costituire o partecipare a societa' con apporto di capitale non superiore a lire duecento milioni ricorrendo per la relativa copertura ai fondi destinati alle spese di esercizio.
 
-#### Art. 32
+### Art. 32
 
 Attuazione del Piano nazionale della sicurezza stradale
 
@@ -502,7 +500,7 @@ AGGIORNAMENTO (23)
 
 La L. 12 novembre 2011, n. 183, ha disposto (con l'art. 4, comma 60) che "Gli oneri previsti dall'articolo 32, comma 5, della legge 17 maggio 1999, n. 144, e successive modificazioni, sono ridotti di euro 135.000 a decorrere dall'anno 2012".
 
-#### ART. 33 - Comitato per l'intervento nella SIR
+### ART. 33 - Comitato per l'intervento nella SIR
 
 1\. La partecipazione azionaria acquisita dal Comitato per l'intervento nella SIR ai sensi dell'articolo 2 del decreto-legge 25 marzo 1993, n. 79, convertito dalla legge 22 maggio 1993, n. 157, e' trasferita, a titolo gratuito, al Ministero del tesoro, del bilancio e della programmazione economica - Dipartimento del tesoro.
 
@@ -518,7 +516,7 @@ La L. 12 novembre 2011, n. 183, ha disposto (con l'art. 4, comma 60) che "Gli on
 
 7\. ((COMMA ABROGATO DAL D.L. 31 MAGGIO 2010, N. 78, CONVERTITO CON MODIFICAZIONI DALLA L. 30 LUGLIO 2010, N. 122)).
 
-#### ART. 34 - Fondo nazionale per la montagna
+### ART. 34 - Fondo nazionale per la montagna
 
 1\. Al comma 2 dell'articolo 25 della legge 31 gennaio 1994, n. 97, dopo le parole: "regioni a statuto ordinario", sono aggiunte le seguenti: "alle regioni e province a statuto di autonomia speciale".
 
@@ -532,7 +530,7 @@ AGGIORNAMENTO (24)
 
 La L. 24 dicembre 2012, n. 228 ha disposto (con l'art. 1, comma 7) che " Le risorse disponibili per gli interventi recati dalle autorizzazioni di spesa di cui all'elenco n. 2, allegato alla presente legge, sono ridotte per ciascuno degli anni 2013, 2014, 2015 e successivi per gli importi ivi indicati."
 
-#### ART. 35
+### ART. 35
 
 (Disposizioni sulla trasformazione dell'Ente
 
@@ -540,7 +538,7 @@ nazionale di assistenza al volo in societa' per azioni
 
 1\. In deroga a quanto previsto al comma 2 dell'articolo 1 della legge 21 dicembre 1996, n. 665, l'Ente nazionale di assistenza al volo e' trasformato in societa' per azioni entro il 31 dicembre 2000, previa verifica delle condizioni della trasformazione medesima e acquisito il parere delle competenti Commissioni parlamentari. Le azioni della societa' per azioni che derivera' dalla trasformazione dell'Ente nazionale di assistenza al volo sono attribuite al Ministro del tesoro, del bilancio e della programmazione economica, che esercita i diritti dell'azionista d'intesa con il Ministro dei trasporti e della navigazione.
 
-#### Art. 36
+### Art. 36
 
 Continuita' territoriale per la Sardegna ((...)) ((29))
 
@@ -594,7 +592,7 @@ AGGIORNAMENTO (29)
 
 La L. 27 dicembre 2019, n. 160 ha disposto (con l'art. 1, comma 708) che "Sono fatti salvi gli atti ed i procedimenti gia' in essere alla data di entrata in vigore della presente legge ai sensi delle disposizioni modificate dai commi 706 e 707".
 
-#### ART. 37 - Disposizioni in materia di censimenti
+### ART. 37 - Disposizioni in materia di censimenti
 
 l. L'ISTAT provvede all'esecuzione del quinto Censimento generale dell'agricoltura, che avra' luogo nel corso dell'anno 2000, allo scopo utilizzando le risorse gia' autorizzate dalla tabella C della legge 23 dicembre 1998, n. 449.
 
@@ -614,11 +612,11 @@ e) le modalita' di diffusione dei dati relativi alla struttura socio-demografica
 
 4\. Gli oneri di spesa previsti dal presente articolo restano a carico delle risorse destinate ai censimenti.
 
-#### ART. 38 - Forestazione ambientale
+### ART. 38 - Forestazione ambientale
 
 1\. Per il conseguimento di specifici Obiettivi nell'ambito dell'attivita' di forestazione come definita dal Ministero per le politiche agricole, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, nei termini stabiliti dall'articolo 45, comma 26, della legge 23 dicembre 1998, n. 448, la gestione liquidatoria dell'Ente nazionale per la cellulosa e per la carta puo' costituire una societa' per azioni. Per tale finalita' e per le ulteriori necessita' della liquidazione, in attuazione delle disposizioni di cui all'articolo 61, comma 3, della medesima legge 23 dicembre 1998, n. 448, e' autorizzata la contrazione con la Cassa depositi e prestiti di un mutuo decennale integrativo nei limiti dell'onere di ammortamento annuo complessivo stabilito dall'articolo 6 del decreto-legge 17 giugno 1996, n. 321, convertito, con modificazioni, dalla legge 8 agosto 1996, n. 421.
 
-#### ART. 39
+### ART. 39
 
 (Modifiche agli articoli 8 e 31 della legge 23
 
@@ -632,7 +630,7 @@ b) al comma 12, al secondo periodo, la parola: "compensazioni" e' sostituita dal
 
 2\. All'articolo 31, comma 29, della legge 23 dicembre 1998, n. 448, al primo periodo, sono soppresse le parole: "fino a tale data restano in vigore le tariffe deliberate per il 1998" e l'ultimo periodo e sostituito dai seguenti: "Per l'anno 1999 detta deliberazione e' adottata entro il 28 febbraio 1999 e fino a tale data restano in vigore le tariffe deliberate per il 1998. Il termine entro il quale i comuni interessati possono assumere le delibere per adeguare le tariffe dei predetti servizi in conformita' ai parametri, ai criteri e limiti stabiliti dal CIPE e' fissato al 15 maggio 1999".
 
-#### ART. 40
+### ART. 40
 
 (Sicurezza idraulica dei territori
 
@@ -640,7 +638,7 @@ del Bacino del Po).
 
 1\. Al solo fine della totale realizzazione dl interventi necessari alla sicurezza idraulica dei territori del Bacino del Po interessati dal rischio di eventi alluvionali e calamitosi, e' autorizzata l'esecuzione dei lotti di completamento da parte delle imprese esecutrici di lotti precedenti, compresi nella progettazione generale redatta dalle imprese stesse entro il 31 dicembre 1994, approvata dal Magistrato del Po di Parma.
 
-#### ART. 41 - Norme per il mercato del gas naturale
+### ART. 41 - Norme per il mercato del gas naturale
 
 1\. Al fine di promuovere la liberalizzazione del mercato del gas
 
@@ -662,7 +660,7 @@ g) stabilire misure perche' l'apertura del mercato nazionale del gas avvenga nel
 
 2\. Gli schemi dei decreti legislativi di cui al comma 1, deliberati dal Consiglio dei ministri e corredati da una apposita relazione, sono trasmessi alle Camere per l'espressione del parere da parte delle competenti commissioni parlamentari permanenti entro nove mesi dalla data di entrata in vigore della presente legge. In caso di mancato rispetto del termine per la trasmissione, il Governo decade dall'esercizio della delega. Le competenti Commissioni parlamentari esprimono il parere entro sessanta giorni dalla data di trasmissione. Qualora il termine per l'espressione del parere decorra inutilmente, i decreti legislativi possono essere comunque emanati.
 
-#### ART. 42
+### ART. 42
 
 (Disposizioni concernenti il titolo VIII della legge
 
@@ -886,7 +884,7 @@ Il D.L. 14 marzo 2025, n. 25, convertito con modificazioni dalla L. 9 maggio 202
 
 Ha inoltre disposto (con l'art. 10-bis, comma 3) che "A decorrere dalla data di entrata in vigore della legge di conversione del presente decreto, il gruppo di supporto tecnico-giuridico di cui all'articolo 42, comma 4, della legge 17 maggio 1999, n. 144, e' soppresso. Per lo svolgimento dei compiti di cui al comma 1, il Capo dell'Unita' Tecnica-Amministrativa si avvale dell'Avvocatura dello Stato ai sensi del testo unico di cui al regio decreto 30 ottobre 1933, n. 1611".
 
-#### Art. 43
+### Art. 43
 
 Misure in materia di programmazione negoziata
 
@@ -902,15 +900,13 @@ Misure in materia di programmazione negoziata
 
 "25-bis. Le disposizioni della lettera c) del comma 25 non si applicano alle fattispecie previste dall'articolo 2, comma 203, della legge 23 dicembre 1996, n. 662".
 
-#### ART. 44 - Disposizione interpretativa
+### ART. 44 - Disposizione interpretativa
 
 1\. Il comma 3 dell'articolo 2 della legge 12 agosto 1993, n. 317, va interpretato nel senso che per le concessioni di lavori relativi ai lotti di piani di ricostruzione gia' affidati con atti ti concessione annullati con decreto del Ministro dei lavori pubblici del 7 ottobre 1992, resta confermata la perdita di efficacia e che la loro definizione contabile va effettuata con riferimento allo stato di avanzamento alla data di emanazione del decreto di annullamento, data di cessazione dei lavori.
 
-## Capo II - DISPOSIZIONI IN MATERIA
+## Capo II - DISPOSIZIONI IN MATERIA DI OCCUPAZIONE E DI PREVIDENZA
 
-### DI OCCUPAZIONE E DI PREVIDENZA
-
-#### Art. 45
+### Art. 45
 
 (Riforma degli incentivi all'occupazione e
 
@@ -1054,7 +1050,7 @@ AGGIORNAMENTO (2)
 
 La L. 23 dicembre 1999, n. 488 ha disposto (con l'art. 62, comma 1, lettere h ed i)) che in attesa della riforma degli ammortizzatori sociali e comunque non oltre il 31 dicembre 2000 sono prorogate le indennita' di mobilita' di cui alla lettera f), comma 17, del presente articolo 45 nel limite di lire 10 miliardi, di cui alla lettera c), comma 17, del medesimo articolo 45 nel limite di lire 21 miliardi, di cui 10,5 miliardi per i soggetti di cui al primo periodo della citata lettera c) e lire 10,5 miliardi per i soggetti di cui al secondo periodo della medesima lettera c).
 
-#### Art. 46 - Interventi straordinari a sostegno delle difficolta' occupazionali derivanti dalla chiusura del traforo del Monte Bianco
+### Art. 46 - Interventi straordinari a sostegno delle difficolta' occupazionali derivanti dalla chiusura del traforo del Monte Bianco
 
 1\. Ai lavoratori dipendenti da datori di lavoro privati operanti nella regione Valle l'Aosta, non rientranti nel campo di applicazione degli interventi ordinari di cassa integrazione, sospesi dal lavoro o con orario ridotto per effetto della crisi causata nelle attivita' connesse con i flussi internazionali di traffico interrotti per la chiusura del traforo del Monte Bianco, sono corrisposti, per il periodo di sospensione o ti riduzione dell'orario, e comunque non oltre il ((31 dicembre 2000)), una indennita' pari al trattamento straordinario di integrazione salariale previsto dalle vigenti disposizioni ovvero proporzionata alla predetta riduzione di orario, nonche' gli assegni per il nucleo familiare, ove spettanti.
 
@@ -1070,7 +1066,7 @@ La L. 23 dicembre 1999, n. 488 ha disposto (con l'art. 62, comma 1, lettere h ed
 
 7\. All'onere derivante dal presente articolo, valutato in lire 4 miliardi, si provvede a carico del Fondo per l'occupazione di cui all'articolo 1, comma 7, del decreto-legge 20 maggio 1993,n. 148, convertito, con modificazioni, dalla legge I 9 luglio 1993, n. 236.
 
-#### ART. 47
+### ART. 47
 
 (Delega al Governo in materia di revisione
 
@@ -1100,7 +1096,7 @@ e) previsione di meccanismi e strumenti di monitoraggio e valutazione dei risult
 
 4\. L'attuazione della delega di cui al presente articolo deve essere esercitata nel limite delle risorse disponibili nel Fondo per le attivita' dei consiglieri di parita' di cui al comma 1, lettera d).
 
-#### ART. 48
+### ART. 48
 
 (Norme in materia di incompatibilita' del
 
@@ -1112,7 +1108,7 @@ personale docente degli enti locali).
 
 3\. Avverso il diniego di autorizzazione di cui al comma 15 dell'articolo 508 del testo unico approvato con decreto legislativo 16 aprile 1994, n. 297, e' ammesso ricorso al sindaco o al presidente della provincia, che decide in ma definitiva.
 
-#### ART. 49
+### ART. 49
 
 (Disposizioni in materia del personale degli
 
@@ -1120,7 +1116,7 @@ Enti Parco).
 
 1\. Gli Enti Parco, nell'ambito della programmazione triennale del fabbisogno di personale, prevista dall'articolo 39, comma 1, della legge 27 dicembre 1997, n. 449, e nel pieno rispetto dei commi 18 e 20 dell'articolo 39 della medesima legge, nei limiti delle piante organiche esistenti ed approvate e compatibilmente con le proprie disponibilita' finanziarie e di bilancio qualora si siano avvalsi, in fase di bilancio, ti personale assunto a tempo determinato a seguito di pubblico concorso, per titoli ed esami, espletato mediante prove selettive, che abbia ricoperto per un periodo continuativo di almeno dodici mesi profili professionali contemplati dalle rispettive piante organiche, possono bandire, entro il 31 dicembre 1999, concorsi riservati per titoli per la trasformazione dei predetti rapporti di lavoro a tempo determinato in rapporti a tempo indeterminato, secondo le procedure previste dall'articolo 4-bis del decretolegge 20 maggio 1993, n. 148, convertito, con modificazioni, dalla legge 19 luglio 1993, n. 236.
 
-#### ART. 50
+### ART. 50
 
 (Modifche agli articoli 65 e 66 della legge 23
 
@@ -1142,7 +1138,7 @@ c) dopo il comma 5, e' inserito il seguente:
 
 "5-bis. L'assegno di cui al comma 1, ferma restando la titolarita' concessiva in capo ai comuni, a erogato dall'Istituto nazionale della previdenza sociale (INPS) sulla base dei dati forniti dai comuni, secondo modalita' da definire nell'ambito dei decreti di cui al comma 6. A tal fine sono trasferite dal bilancio dello Stato all'INPS le somme indicate al comma 5, con conguaglio, alla fine di ogni esercizio, sulla base di specifica rendicontazione".
 
-#### ART. 51
+### ART. 51
 
 (Associzione per lo sviluppo dell'industria
 
@@ -1156,7 +1152,7 @@ per il Mezzogiorno).
 
 2\. Allo stesso fine, per la prosecuzione delle attivita' di studio e di ricerche e per incrementare l'attivita' formativa avanzata, e' destinata una somma pari a 300 milioni di lire per ciascuno degli anni 1999, 2000 e 2001 al Centro di specializzazione e ricerche economico-agrarie per il Mezzogiorno a carico del Fondo per le aree depresse di cui all'articolo 19, comma 5, del decreto legislativo 3 aprile 1993, n. 96, e successive modificazioni.
 
-#### ART. 52
+### ART. 52
 
 (Disposizioni in materia di indennita' di
 
@@ -1172,7 +1168,7 @@ accompagnamento).
 
 4\. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### ART. 53
+### ART. 53
 
 (Disposizioni in materia di attivita'
 
@@ -1182,7 +1178,7 @@ socio-sanitarie)
 
 2\. Alle prestazioni lavorative, comunque effettuate alla data di entrata in vigore della presente legge, anche erogate da organizzazioni non lucrative di utilita' sociale per l'assolvimento delle attivita' socio- sanitarie di cui al comma 1 non trovano applicazione le disposizioni della legge 23 ottobre 1960, n. 1369; i giudizi e i contenziosi di qualunque natura pendenti alla medesima data aventi ad oggetto questioni ad esse relative sono dichiarati estinti d'ufficio con compensazione delle spese tra le parti e i provvedimenti giudiziari non passati in giudicato restano privi di effetto.
 
-#### ART. 54 - Fondi disponibili degli enti previdenziali
+### ART. 54 - Fondi disponibili degli enti previdenziali
 
 1\. Ai fini dell'applicazione della disposizione di cui all'articolo 1, comma 7, della legge 7 agosto 1997, n. 270, l'importo dei fondi disponibili degli enti previdenziali relativo all'anno 1996 da destinare agli interventi rientranti nel piano di cui al comma 1 dello stesso articolo 1 si intende riferito ai complessivi fondi disponibili per l'anno medesimo al netto di quelli finalizzati alle quote di cui all'articolo 2, comma 6, della legge 28 dicembre 1995, n. 549, e all'articolo 11 , comma 4, del decreto legislativo 16 febbraio 1996, n. 104, ed e' utilizzabile per quote anche negli anni successivi secondo le effettive disponibilita' di tesoreria.
 
@@ -1190,7 +1186,7 @@ Gli interventi sono destinati ad investimenti in immobili per finalita' di pubbl
 
 Limitatamente ai predetti interventi, il termine del 31 ottobre 1999 di cui all'articolo 1, comma 4, lettera d), della predetta legge n. 270 del 1997 e' prorogato al 31 dicembre 1999.
 
-#### Art. 55
+### Art. 55
 
 Disposizioni in materia di assicurazione contro gli infortuni sul lavoro e le malattie professionali
 
@@ -1282,7 +1278,7 @@ AGGIORNAMENTO (21)
 
 Il D.L. 29 dicembre 2010, n. 225, convertito con modificazioni dalla L. 26 febbraio 2011, n. 10, ha disposto (con l'art. 2, comma 4-duodecies) che "Per l'anno 2011, il termine di cui all'articolo 55, comma 5, della legge 17 maggio 1999, n. 144, e successive modificazioni, per il versamento dei premi assicurativi da parte delle imprese di autotrasporto di merci in conto terzi, e' fissato al 16 giugno".
 
-#### ART. 56
+### ART. 56
 
 (Fondo per l'ammortamento dei titoli di
 
@@ -1290,7 +1286,7 @@ Stato).
 
 1\. Il comma 3 dell'articolo 2 della legge 27 ottobre 1993, n. 432, e successive modificazioni, si interpreta nel senso che alla gestione del " Fondo per l'ammortamento dei titoli di Stato" non si applicano le disposizioni della legge 25 novembre 1971, n. 1041, e successive modificazioni.
 
-#### ART. 57 - Riordino degli enti pubblici di previdenza e di assistenza
+### ART. 57 - Riordino degli enti pubblici di previdenza e di assistenza
 
 1\. Il Governo e' delegato ad emanare, sentite le organizzazioni sindacali comparativamente piu' rappresentative dei datori di lavoro e dei lavoratori, entro dodici mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi diretti a riordinare gli enti pubblici di previdenza e di assistenza, perseguendo l'obiettivo di una complessiva riduzione dei costi amministrativi ed attenendosi, oltreche' ai principi generali desumibili dalla legge 7 agosto 1990, n. 241, e successive modificazioni, dal decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni, e dalla legge 14 gennaio 1994, n. 20, ai seguenti principi e criteri direttivi:
 
@@ -1324,7 +1320,7 @@ o) promozione delle sinergie tra gli enti e, in particolare, della mobilita' e d
 
 3\. L'attuazione delle deleghe di cui al presente articolo non deve comportare oneri aggiuntivi a carico della finanza pubblica.
 
-#### ART. 58 - Disposizioni in materia previdenziale
+### ART. 58 - Disposizioni in materia previdenziale
 
 1\. Al decreto legislativo 16 settembre 1996, n. 565, sono apportate le seguenti modificazioni:
 
@@ -1398,7 +1394,7 @@ b) al comma 7 e' aggiunto, in fine, il seguente periodo: "I progetti di cui all'
 
 18\. Le imposte risultanti dalle operazioni di conguaglio di cui all'articolo 23, comma 3, del decreto del Presidente della Repubblica 29 settembre 1973 n. 600, e successive modificazioni, relative ai redditi percepiti nell'anno 1998 dai soggetti impegnati in lavori socialmente utili in conformita' a specifiche disposizioni normative e da quelli impegnati nei piani di inserimento professionale sono trattenute in sei rate ovvero nel numero piu' elevato di rate consentito dalla durata del rapporto con il sostituto d'imposta se questo e' inferiore al periodo necessario a trattenere le predette imposte in sei rate.
 
-#### Art. 59
+### Art. 59
 
 (Utilizzo dei proventi derivanti da
 
@@ -1412,7 +1408,7 @@ Con decreto del Ministro del lavoro e della previdenza sociale sono stabilite le
 
 ((2. Ai complessivi oneri derivanti dall'attuazione del presente articolo, valutati in lire tre miliardi annui dall'anno 1999 al 2005 ed in tre milioni di euro annui a decorrere dall'anno 2006, si provvede mediante corrispondente riduzione del Fondo per l'occupazione di cui all'articolo 1, comma 7, del decreto-legge 20 maggio 1993, n. 148, convertito, con modificazioni, dalla legge 19 luglio 1993, n. 236)).
 
-#### ART. 60
+### ART. 60
 
 (Regime contributivo delle erogazioni previste
 
@@ -1420,7 +1416,7 @@ dai contratti di secondo livello).
 
 1\. Con effetto dalla data di entrata in vigore dei decreti del Presidente del Consiglio dei ministri di cui all'articolo 8, comma 5, della legge 23 dicembre 1998, n. 448, emanati successivamente alla data di entrata in vigore della presente legge, la percentuale del 2 per cento di cui all'articolo 2, comma 2, del decreto-legge 25 marzo 1997, n. 67, convertito, con modificazioni, dalla legge 23 maggio 1997, n. 135, e' elevata al 3 per cento. All'onere, valutato in lire 250 miliardi annue, si provvede con una quota parte delle maggiori entrate derivanti dai predetti decreti del Presidente del Consiglio dei ministri di cui all'articolo 8 della citata legge n. 448 del 1998. All'articolo 2, comma 2, del citato decreto-legge n. 67 del 1997, l'ultimo periodo e' soppresso.
 
-#### ART. 61 - Disposizioni organizzative per l'attuazione delle deleghe
+### ART. 61 - Disposizioni organizzative per l'attuazione delle deleghe
 
 l. Ai fini dell'attuazione dei provvedimenti delegati di cui al presente Capo, ((nonche' per l'espletamento di funzioni di collaborazione e di studio)) il Ministro del lavoro e della previdenza sociale, in deroga ad ogni altra disposizione, e' autorizzato ad utilizzare ((fino al 31 dicembre 2001:))
 
@@ -1432,11 +1428,11 @@ c) un contingente non superiore a otto unita' di dipendenti delle amministrazion
 
 2\. Il personale di cui al comma lettera a), se appartenente ad una amministrazione pubblica, e lettera c), mantiene la posizione giuridica, anche di comando o di fuori ruolo, e il trattamento economico fondamentale ed accessorio in godimento ed i relativi oneri rimangono a carico delle amministrazioni presso le quali il personale prestava servizio Agli esperti, anche estranei all'amministrazione, e' corrisposto un compenso determinato con decreto del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica. aL relativo onere, valutato in lire 800 milioni per ciascuno degli anni 1999, 2000 e 2001, si provvede mediante riduzione dell'autorizzazione di spesa di cui all'articolo 29-quater del decreto-legge 31 dicembre 1996, n. 669, convertito, con modificazioni, dalla legge 28 febbraio 1997, n. 30.
 
-#### Art. 62
+### Art. 62
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-#### ART. 63
+### ART. 63
 
 (Integrazione dell'articolo 66 della legge 23
 
@@ -1446,7 +1442,7 @@ dicembre 1998, n.448).
 
 "1-bis. Con decreto da emanare entro il 30 maggio 1999, il Ministro del lavoro e della previdenza sociale provvede ad assicurare il coordinamento tra le disposizioni di cui al comma 1 del presente articolo, quelle di cui all'articolo 59, comma 16, della legge 27 dicembre 1997, n. 449, e quelle di cui al decreto del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, del 27 maggio 1998, pubblicato nella Gazzetta Ufficiale n. 171 del 24 luglio 1998, recante estensione della tutela della maternita' e dell'assegno al nucleo familiare".
 
-#### ART. 64
+### ART. 64
 
 (Disposizioni in materia di previdenza integrativa degli Enti di cui alla legge
 
@@ -1476,7 +1472,7 @@ AGGIORNAMENTO (22)
 
 Il D.L. 6 luglio 2011, n.98, convertito con modificazioni dalla L. 15 luglio 2011, n. 111, ha disposto (con l'art. 18, comma 19) che le disposizioni di cui al comma 5 del presente articolo si' interpretano nel senso che il contributo di solidarieta' sulle prestazioni integrative dell'assicurazione generale obbligatoria e' dovuto sia dagli ex-dipendenti gia' collocati a riposo che dai lavoratori ancora in servizio. In questo ultimo caso il contributo e' calcolato sul maturato di pensione integrativa alla data del 30 settembre 1999 ed e' trattenuto sulla retribuzione percepita in costanza di attivita' lavorativa.
 
-#### ART. 65
+### ART. 65
 
 (Modifiche al decreto-legge 20 giugno 1996,
 
@@ -1484,7 +1480,7 @@ n. 323).
 
 1\. All'articolo 6, comma 1, del decreto-legge 20 giugno 1996, n. 323, convertito con modificazioni, dalla legge 8 agosto 1996, n. 425, le parole "1997 e 1998" sono sostituite dalle seguenti "1997, 1998 e 1999" e le parole "1996 e 1997" sono sostituite dalle seguenti: "1996, 1997 e 1998".
 
-#### Art. 66 - Integrazione del Fondo per l'occupazione e interventi in materia di formazione continua
+### Art. 66 - Integrazione del Fondo per l'occupazione e interventi in materia di formazione continua
 
 1\. Il Fondo di cui all'articolo 1, comma 7, del decreto-legge 20 maggio 1993, n. 148 convertito, con modificazioni, dalla legge 19 luglio 1993, n. 236, e' incrementato di lire 900 miliardi per l'anno 1999 e di lire 800 miliardi a decorrere dall'anno 2000. (3)
 
@@ -1502,7 +1498,7 @@ AGGIORNAMENTO (3)
 
 La L. 23 dicembre 2000, n. 388 ha disposto (con l'art. 78, comma 21) che l'autorizzazione di spesa di cui al comma 1 del presente articolo, e' ridotta di lire 227 miliardi per l'anno 2001 e di lire 317 miliardi a decorrere dall'anno 2002.
 
-#### ART. 67
+### ART. 67
 
 (Modifiche all'articolo 17 della legge
 
@@ -1520,7 +1516,7 @@ d) la lettera g) e' sostituita dalla seguente:
 
 " g) semplificazione delle procedure, ivi compresa la eventuale sostituzione della garanzia fideiussoria prevista dall'articolo 56 della legge 6 febbraio 1996, n. 52, per effetto delle disposizioni di cui ai commi 3 e seguenti, definite a livello nazionale anche attraverso parametri standart con deferimento ad atti delle amministrazioni competenti, adottati anche ai sensi dell'articolo 17, comma 3, della legge agosto 1988, n. 400, e successive modificazioni, ed a strumenti convenzionali oltre che delle disposizioni di natura integrativa, esecutiva e organizzatoria anche della disciplina di specifici aspetti nei casi previsti dalle disposizioni regolamentari emanate ai sensi del comma 2, con particolare riferimento alla possibilita' di stabilire requisiti minimi e criteri di valutazione delle sedi operative ai fini dell'accreditamento".
 
-#### Art. 68 - Obbligo di frequenza di attivita' formative
+### Art. 68 - Obbligo di frequenza di attivita' formative
 
 1\. COMMA ABROGATO DAL D.LGS. 17 OTTOBRE 2005, N. 226.
 
@@ -1550,7 +1546,7 @@ AGGIORNAMENTO (27)
 
 Il D.Lgs. 14 settembre 2015, n. 150, come modificato dal D.Lgs. 24 settembre 2016, n. 185, ha disposto (con l'art. 32, comma 3) che "Ai sensi degli articoli 41, comma 3, e 43, comma 1, del decreto legislativo 15 giugno 2015, n. 81, a titolo sperimentale per gli anni 2015 e 2016, le risorse di cui all'articolo 68, comma 4, lettera a), della legge n. 144 del 1999, sono incrementate di 27 milioni di euro per l'anno 2015 e di 27 milioni di euro per l'anno 2016 da destinare al finanziamento dei percorsi formativi rivolti all'apprendistato per la qualifica e il diploma professionale, il diploma di istruzione secondaria superiore e il certificato di specializzazione tecnica superiore e dei percorsi formativi rivolti all'alternanza scuola lavoro ai sensi dell'articolo 1, comma 7, lettera d), della legge n. 183 del 2014 e del decreto legislativo 15 aprile 2005, n. 77".
 
-#### ART. 69 - Istruzione e formazione tecnica superiore
+### ART. 69 - Istruzione e formazione tecnica superiore
 
 1\. Per riqualificare e ampliare l'offerta formativa destinata ai giovani e agli adulti, occupati e non occupati, nell'ambito del sistema di formazione integrata superiore (FIS), e' istituito il sistema della istruzione e formazione tecnica superiore (IFTS), al quale si accede di norma con il possesso del diploma di scuola secondaria superiore. Con decreto adottato di concerto dai Ministri della pubblica istruzione, del lavoro e della previdenza sociale e dell'universita' e della ricerca scientifica e tecnologica, sentita la Conferenza unificata di cui al decreto legislativo 28 agosto 1997, n. 281, sono definite le condizioni di accesso ai corsi per coloro che non sono in possesso del diploma ti scuola secondaria superiore, gli standard dei diversi percorsi dell'IFTS, le modalita' che favoriscono l'integrazione tra i sistemi formativi di cui all'articolo 68 e determinano i criteri per l'equipollenza dei rispettivi percorsi e titoli; con il medesimo decreto sono altresi' definiti i criteri formativi che vi si acquisiscono e le modalita' della loro certificazione e utilizzazione, a norma dell'articolo 142, comma 1, lettera c), del decreto legislativo 31 marzo 1998, n. 112.
 
@@ -1560,7 +1556,7 @@ Il D.Lgs. 14 settembre 2015, n. 150, come modificato dal D.Lgs. 24 settembre 201
 
 4\. Gli interventi di cui al presente articolo sono programmabili a valere sul Fondo di cui all'articolo 4 della legge 18 dicembre 1997, n. 440, nei limiti delle risorse preordinate allo scopo dal Ministero della pubblica istruzione, nonche' sulle risorse finalizzate a tale scopo dalle regioni nei limiti delle proprie disponibilita' di bilancio. Possono concorrere allo scopo anche altre risorse pubbliche e private. Alle finalita' di cui al presente articolo la regione Valle d'Aosta e le province autonome di Trento e di Bolzano provvedono, in relazione alle competenze e alle funzioni ad esse attribuite, secondo quanto disposto dagli statuti speciali e dalle relative norme di attuazione; a tal fine accedono al Fondo di cui al presente comma e la certificazione rilasciata in esito ai corsi da esse istituiti e' valida in ambito nazionale.
 
-#### ART. 70 - Soppressione di fondi speciali di previdenza INA
+### ART. 70 - Soppressione di fondi speciali di previdenza INA
 
 1\. A decorrere dal 30 giugno 1999 i fondi speciali di previdenza per gli impiegati gestiti dall'Istituto nazionale assicurazioni spa (INA spa), per effetto di contratti collettivi nazionali di lavoro, sono soppressi. Dalla stessa data cessa l'obbligo della contribuzione e le disponibilita' economiche esistenti presso i fondi soppressi sono trasferite al Fondo pensioni lavoratori dipendenti in apposita evidenza contabile. Con decreto del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica e con il Ministro dell'industria, del commercio e dell'artigianato, da emanare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n.400, e successive modificazioni, sono determinati le modalita' ed i criteri per l'attuazione del presente articolo e in particolare per la regolamentazione delle posizioni maturate. ((9a))
 
@@ -1582,11 +1578,9 @@ e) Fondo di accantonamento dell'indennita' di licenziamento per i dipendenti da 
 
 f) Fondo di accantonamento dell'indennita' di licenziamento per i farmacisti collaboratori."
 
-## CAPO III - DISPOSIZIONI IN MATERIA DI TRATTAMENTO
+## CAPO III - DISPOSIZIONI IN MATERIA DI TRATTAMENTO DI FINE RAPPORTO
 
-### DI FINE RAPPORTO
-
-#### ART. 71 - Trasformazione in titoli del trattamento di fine rapporto
+### ART. 71 - Trasformazione in titoli del trattamento di fine rapporto
 
 1\. Il Governo e' delegato ad emanare, entro tre mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi aventi per oggetto l'utilizzo dell'accantonamento annuale al trattamento di fine rapporto (TFR), di cui all'articolo 2120 del codice civile, per sviluppare le forme pensionistiche integrative di cui al decreto legislativo 21 aprile 1993, n. 124, ed alla legge 8 agosto 1995, n. 335, di seguito denominate " Fondi pensione ", secondo i seguenti principi e criteri direttivi:
 
@@ -1634,7 +1628,7 @@ e con periodicita' triennale negli anni successivi
 
 ## CAPO IV - DISPOSIZIONI FINALI
 
-#### ART. 72 - Disposizioni finali
+### ART. 72 - Disposizioni finali
 
 1\. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le variazioni di bilancio, anche nel conto dei residui, occorrenti per l'attuazione della presente legge.
 

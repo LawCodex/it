@@ -52,11 +52,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Principi generali
 
-### Principi generali
-
-#### Art. 1
+### Art. 1
 
 Principio generale di trasparenza
 
@@ -66,7 +64,7 @@ Principio generale di trasparenza
 
 3\. Le disposizioni del presente decreto, nonche' le norme di attuazione adottate ai sensi dell'articolo 48, integrano l'individuazione del livello essenziale delle prestazioni erogate dalle amministrazioni pubbliche a fini di trasparenza, prevenzione, contrasto della corruzione e della cattiva amministrazione, a norma dell'articolo 117, secondo comma, lettera m), della Costituzione e costituiscono altresi' esercizio della funzione di coordinamento informativo statistico e informatico dei dati dell'amministrazione statale, regionale e locale, di cui all'articolo 117, secondo comma, lettera r), della Costituzione.
 
-#### Art. 2
+### Art. 2
 
 Oggetto
 
@@ -74,7 +72,7 @@ Oggetto
 
 2\. Ai fini del presente decreto, per pubblicazione si intende la pubblicazione, in conformita' alle specifiche e alle regole tecniche di cui all'allegato A, nei siti istituzionali delle pubbliche amministrazioni dei documenti, delle informazioni e dei dati concernenti l'organizzazione e l'attivita' delle pubbliche amministrazioni, cui corrisponde il diritto di chiunque di accedere ai siti direttamente ed immediatamente, senza autenticazione ed identificazione.
 
-#### Art. 2-bis - Ambito soggettivo di applicazione
+### Art. 2-bis - Ambito soggettivo di applicazione
 
 1\. Ai fini del presente decreto, per "pubbliche amministrazioni" si intendono tutte le amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni, ivi comprese le autorita' portuali, nonche' le autorita' amministrative indipendenti di garanzia, vigilanza e regolazione.
 
@@ -96,7 +94,7 @@ AGGIORNAMENTO (5)
 
 Il D.Lgs. 25 maggio 2016, n. 97 ha disposto (con l'art. 42, comma 1) che "I soggetti di cui all'articolo 2-bis del decreto legislativo n. 33 del 2013 si adeguano alle modifiche allo stesso decreto legislativo, introdotte dal presente decreto, e assicurano l'effettivo esercizio del diritto di cui all'articolo 5, comma 2, del decreto legislativo n. 33 del 2013, come modificato dall'articolo 6 del presente decreto, entro sei mesi dalla data di entrata in vigore del presente decreto."
 
-#### Art. 3
+### Art. 3
 
 Pubblicita' e diritto alla conoscibilita'
 
@@ -106,11 +104,11 @@ Pubblicita' e diritto alla conoscibilita'
 
 1-ter. L'Autorita' nazionale anticorruzione puo', con il Piano nazionale anticorruzione, nel rispetto delle disposizioni del presente decreto, precisare gli obblighi di pubblicazione e le relative modalita' di attuazione, in relazione alla natura dei soggetti, alla loro dimensione organizzativa e alle attivita' svolte, prevedendo in particolare modalita' semplificate per i comuni con popolazione inferiore a 15.000 abitanti, per gli ordini e collegi professionali.))
 
-#### Art. 4
+### Art. 4
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 MAGGIO 2016, N. 97))
 
-#### Art. 4-bis
+### Art. 4-bis
 
 (( (Trasparenza nell'utilizzo delle risorse pubbliche). ))
 
@@ -122,11 +120,9 @@ Pubblicita' e diritto alla conoscibilita'
 
 4\. Dalle disposizioni di cui ai commi 1 e 2 non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni interessate provvedono ai relativi adempimenti nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente.))
 
-## ((Capo I-bis
+## ((Capo I-bis - Diritto di accesso a dati e documenti))
 
-### Diritto di accesso a dati e documenti))
-
-#### Art. 5
+### Art. 5
 
 (( (Accesso civico a dati e documenti). ))
 
@@ -168,7 +164,7 @@ Qualora tale organo non sia stato istituito, la competenza e' attribuita al dife
 
 11\. Restano fermi gli obblighi di pubblicazione previsti dal Capo II, nonche' le diverse forme di accesso degli interessati previste dal Capo V della legge 7 agosto 1990, n. 241.))
 
-#### Art. 5-bis - Esclusioni e limiti all'accesso civico
+### Art. 5-bis - Esclusioni e limiti all'accesso civico
 
 1\. L'accesso civico di cui all'articolo 5, comma 2, e' rifiutato se il diniego e' necessario per evitare un pregiudizio concreto alla tutela di uno degli interessi pubblici inerenti a:
 
@@ -204,7 +200,7 @@ c) gli interessi economici e commerciali di una persona fisica o giuridica, ivi 
 
 6\. Ai fini della definizione delle esclusioni e dei limiti all'accesso civico di cui al presente articolo, l'Autorita' nazionale anticorruzione, d'intesa con il Garante per la protezione dei dati personali e sentita la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, adotta linee guida recanti indicazioni operative.
 
-#### Art. 5-ter - Accesso per fini scientifici ai dati elementari raccolti per finalita' statistiche
+### Art. 5-ter - Accesso per fini scientifici ai dati elementari raccolti per finalita' statistiche
 
 1\. Gli enti e uffici del Sistema statistico nazionale ai sensi del decreto legislativo 6 settembre 1989, n. 322, di seguito Sistan, possono consentire l'accesso per fini scientifici ai dati elementari, privi di ogni riferimento che permetta l'identificazione diretta delle unita' statistiche, raccolti nell'ambito di trattamenti statistici di cui i medesimi soggetti siano titolari, a condizione che:
 
@@ -232,11 +228,9 @@ e) le conseguenze di eventuali violazioni degli impegni assunti dall'ente di ric
 
 5\. Il presente articolo si applica anche ai dati relativi a persone giuridiche, enti od associazioni.
 
-## ((Capo I-ter
+## ((Capo I-ter - Pubblicazione dei dati, delle informazioni e dei documenti))
 
-### Pubblicazione dei dati, delle informazioni e dei documenti))
-
-#### Art. 6
+### Art. 6
 
 Qualita' delle informazioni
 
@@ -252,7 +246,7 @@ AGGIORNAMENTO (5)
 
 Il D.Lgs. 25 maggio 2016, n. 97 ha disposto (con l'art. 6, comma 3) che "Dopo l'articolo 5-ter, come inserito dal comma 2, e' inserito il seguente Capo: «CAPO I-TER - PUBBLICAZIONE DEI DATI, DELLE INFORMAZIONI E DEI DOCUMENTI»".
 
-#### Art. 7
+### Art. 7
 
 Dati aperti e riutilizzo
 
@@ -266,7 +260,7 @@ AGGIORNAMENTO (5)
 
 Il D.Lgs. 25 maggio 2016, n. 97 ha disposto (con l'art. 6, comma 3) che "Dopo l'articolo 5-ter, come inserito dal comma 2, e' inserito il seguente Capo: «CAPO I-TER - PUBBLICAZIONE DEI DATI, DELLE INFORMAZIONI E DEI DOCUMENTI»".
 
-#### Art. 7-bis
+### Art. 7-bis
 
 (( (Riutilizzo dei dati pubblicati). ))
 
@@ -286,7 +280,7 @@ Il D.Lgs. 25 maggio 2016, n. 97 ha disposto (con l'art. 6, comma 3) che "Dopo l'
 
 8\. Sono esclusi dall'ambito di applicazione del presente decreto i servizi di aggregazione, estrazione e trasmissione massiva degli atti memorizzati in banche dati rese disponibili sul web.))
 
-#### Art. 8
+### Art. 8
 
 Decorrenza e durata dell'obbligo di pubblicazione
 
@@ -298,7 +292,7 @@ Decorrenza e durata dell'obbligo di pubblicazione
 
 ((3-bis. L'Autorita' nazionale anticorruzione, sulla base di una valutazione del rischio corruttivo, delle esigenze di semplificazione e delle richieste di accesso, determina, anche su proposta del Garante per la protezione dei dati personali, i casi in cui la durata della pubblicazione del dato e del documento puo' essere inferiore a 5 anni.))
 
-#### Art. 9
+### Art. 9
 
 Accesso alle informazioni pubblicate nei siti
 
@@ -306,7 +300,7 @@ Accesso alle informazioni pubblicate nei siti
 
 2\. ((COMMA ABROGATO DAL D.LGS. 25 MAGGIO 2016, N. 97)).
 
-#### Art. 9-bis
+### Art. 9-bis
 
 (( (Pubblicazione delle banche dati). ))
 
@@ -326,7 +320,7 @@ AGGIORNAMENTO (5)
 
 Il D.Lgs. 25 maggio 2016, n. 97 ha disposto (con l'art. 42, comma 2) che "Gli obblighi di pubblicazione di cui all'articolo 9-bis del decreto legislativo n. 33 del 2013, introdotto dall'articolo 9, comma 2, del presente decreto, acquistano efficacia decorso un anno dalla data di entrata in vigore del presente decreto. Ai fini dell'applicazione del predetto articolo, le pubbliche amministrazioni e gli altri soggetti di cui all'articolo 2-bis del predetto decreto legislativo n. 33 del 2013, entro un anno dalla data di entrata in vigore del presente decreto, verificano la completezza e la correttezza dei dati gia' comunicati alle pubbliche amministrazioni titolari delle banche dati di cui all'Allegato B del decreto legislativo n. 33 del 2013, e, ove necessario, trasmettono alle predette amministrazioni i dati mancanti o aggiornati. A decorrere dalla medesima data, nelle more dell'adozione del decreto legislativo di attuazione dell'articolo 17, comma 1, lettera u), della legge 7 agosto 2015, n. 124, i soggetti di cui al citato articolo 9-bis possono adempiere in forma associata agli obblighi di comunicazione e di pubblicazione con le modalita' di cui al medesimo articolo 9-bis, comma 2, del decreto legislativo n. 33 del 2013."
 
-#### Art. 10
+### Art. 10
 
 ((Coordinamento con il Piano triennale per la prevenzione della corruzione))
 
@@ -356,11 +350,11 @@ d) ((LETTERA SOPPRESSA DAL D.LGS. 25 MAGGIO 2016, N. 97)).
 
 9\. La trasparenza rileva, altresi', come dimensione principale ai fini della determinazione degli standard di qualita' dei servizi pubblici da adottare con le carte dei servizi ai sensi dell'articolo 11 del decreto legislativo 30 luglio 1999, n. 286, cosi' come modificato dall'articolo 28 del decreto legislativo 27 ottobre 2009, n. 150.
 
-#### Art. 11
+### Art. 11
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 MAGGIO 2016, N. 97))
 
-#### Art. 12
+### Art. 12
 
 Obblighi di pubblicazione concernenti gli atti di carattere normativo e amministrativo generale
 
@@ -370,11 +364,9 @@ Obblighi di pubblicazione concernenti gli atti di carattere normativo e amminist
 
 2\. Con riferimento agli statuti e alle norme di legge regionali, che regolano le funzioni, l'organizzazione e lo svolgimento delle attivita' di competenza dell'amministrazione, sono pubblicati gli estremi degli atti e dei testi ufficiali aggiornati.
 
-## Capo II
+## Capo II - Obblighi di pubblicazione concernenti l'organizzazione e l'attivita' delle pubbliche amministrazioni
 
-### Obblighi di pubblicazione concernenti l'organizzazione e l'attivita' - delle pubbliche amministrazioni
-
-#### Art. 13
+### Art. 13
 
 Obblighi di pubblicazione concernenti l'organizzazione delle pubbliche amministrazioni
 
@@ -388,7 +380,7 @@ c) all'illustrazione in forma semplificata, ai fini della piena accessibilita' e
 
 d) all'elenco dei numeri di telefono nonche' delle caselle di posta elettronica istituzionali e delle caselle di posta elettronica certificata dedicate, cui il cittadino possa rivolgersi per qualsiasi richiesta inerente i compiti istituzionali.
 
-#### Art. 14
+### Art. 14
 
 Obblighi di pubblicazione concernenti i titolari di incarichi politici, di amministrazione, di direzione o di governo e i titolari di incarichi dirigenziali
 
@@ -424,7 +416,7 @@ AGGIORNAMENTO (9)
 
 La Corte Costituzionale, con sentenza 23 gennaio - 21 febbraio 2019 n. 20 (in G.U. 1ª s.s. 27/2/2019 n. 9), ha dichiarato "l'illegittimita' costituzionale dell'art. 14, comma 1-bis, del decreto legislativo 14 marzo 2013, n. 33 (Riordino della disciplina riguardante il diritto di accesso civico e gli obblighi di pubblicita', trasparenza e diffusione di informazioni da parte delle pubbliche amministrazioni), nella parte in cui prevede che le pubbliche amministrazioni pubblicano i dati di cui all'art. 14, comma 1, lettera f), dello stesso decreto legislativo anche per tutti i titolari di incarichi dirigenziali, a qualsiasi titolo conferiti, ivi inclusi quelli conferiti discrezionalmente dall'organo di indirizzo politico senza procedure pubbliche di selezione, anziche' solo per i titolari degli incarichi dirigenziali previsti dall'art. 19, commi 3 e 4, del decreto legislativo 30 marzo 2001, n. 165 (Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche)".
 
-#### Art. 15
+### Art. 15
 
 ((Obblighi di pubblicazione concernenti i titolari di incarichi di collaborazione o consulenza))
 
@@ -448,7 +440,7 @@ Le amministrazioni pubblicano e mantengono aggiornati sui rispettivi siti istitu
 
 5\. ((COMMA ABROGATO DAL D.LGS. 25 MAGGIO 2016, N. 97)).
 
-#### Art. 15-bis
+### Art. 15-bis
 
 (( (Obblighi di pubblicazione concernenti incarichi conferiti nelle societa' controllate).))
 
@@ -464,7 +456,7 @@ d) il tipo di procedura seguita per la selezione del contraente e il numero di p
 
 2\. La pubblicazione delle informazioni di cui al comma 1, relativamente ad incarichi per i quali e' previsto un compenso, e' condizione di efficacia per il pagamento stesso. In caso di omessa o parziale pubblicazione, il soggetto responsabile della pubblicazione ed il soggetto che ha effettuato il pagamento sono soggetti ad una sanzione pari alla somma corrisposta.))
 
-#### Art. 15-ter
+### Art. 15-ter
 
 (( (Obblighi di pubblicazione concernenti gli amministratori e gli esperti nominati da organi giurisdizionali o amministrativi). ))
 
@@ -476,7 +468,7 @@ d) il tipo di procedura seguita per la selezione del contraente e il numero di p
 
 4\. Le prefetture pubblicano i provvedimenti di nomina e di quantificazione dei compensi degli amministratori e degli esperti nominati ai sensi dell'articolo 32 del decreto-legge 24 giugno 2014, n. 90.))
 
-#### Art. 16
+### Art. 16
 
 Obblighi di pubblicazione concernenti la dotazione organica e il costo del personale con rapporto di lavoro a tempo indeterminato.
 
@@ -494,7 +486,7 @@ AGGIORNAMENTO (5)
 
 Il D.Lgs. 25 maggio 2016, n. 97 ha disposto (con l'art. 42, comma 3) che "Le forme di pubblicita' di cui all'articolo 16, comma 3-bis, del decreto legislativo n. 33 del 2013, inserito dall'articolo 15 del presente decreto, sono dovute anche per i processi di mobilita' di cui all'articolo 1, commi da 421 a 428 della legge 23 dicembre 2014, n. 190."
 
-#### Art. 17
+### Art. 17
 
 Obblighi di pubblicazione dei dati relativi al personale non a tempo indeterminato
 
@@ -502,13 +494,13 @@ Obblighi di pubblicazione dei dati relativi al personale non a tempo indetermina
 
 2\. ((Fermo restando quanto previsto dall'articolo 9-bis, le pubbliche amministrazioni)) pubblicano trimestralmente i dati relativi al costo complessivo del personale di cui al comma 1, ((...)) con particolare riguardo al personale assegnato agli uffici di diretta collaborazione con gli organi di indirizzo politico.
 
-#### Art. 18
+### Art. 18
 
 Obblighi di pubblicazione dei dati relativi agli incarichi conferiti ai dipendenti pubblici
 
 1\. ((Fermo restando quanto previsto dall'articolo 9-bis, le pubbliche amministrazioni)) pubblicano l'elenco degli incarichi conferiti o autorizzati a ciascuno dei propri dipendenti, con l'indicazione della durata e del compenso spettante per ogni incarico.
 
-#### Art. 19
+### Art. 19
 
 Bandi di concorso
 
@@ -518,7 +510,7 @@ Bandi di concorso
 
 ((2-bis. I soggetti di cui all'articolo 2-bis assicurano, tramite il Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri, la pubblicazione del collegamento ipertestuale dei dati di cui al presente articolo, ai fini dell'accessibilita' ai sensi dell'articolo 4, comma 5, del decreto-legge 31 agosto 2013, n. 101, convertito, con modificazioni, dalla legge 30 ottobre 2013, n. 125)).
 
-#### Art. 20
+### Art. 20
 
 Obblighi di pubblicazione dei dati relativi alla valutazione della performance e alla distribuzione dei premi al personale.
 
@@ -528,7 +520,7 @@ Obblighi di pubblicazione dei dati relativi alla valutazione della performance e
 
 3\. ((COMMA ABROGATO DAL D.LGS. 25 MAGGIO 2016, N. 97)).
 
-#### Art. 21
+### Art. 21
 
 Obblighi di pubblicazione concernenti i dati sulla contrattazione collettiva
 
@@ -536,7 +528,7 @@ Obblighi di pubblicazione concernenti i dati sulla contrattazione collettiva
 
 2\. Fermo restando quanto previsto ((dall'articolo 9-bis e)) dall'articolo 47, comma 8, del decreto legislativo 30 marzo 2001, n. 165, le pubbliche amministrazioni pubblicano i contratti integrativi stipulati, con la relazione tecnico-finanziaria e quella illustrativa certificate dagli organi di controllo di cui all'articolo 40-bis, comma 1, del decreto legislativo n. 165 del 2001, nonche' le informazioni trasmesse annualmente ai sensi del comma 3 dello stesso articolo. La relazione illustrativa, fra l'altro, evidenzia gli effetti attesi in esito alla sottoscrizione del contratto integrativo in materia di produttivita' ed efficienza dei servizi erogati, anche in relazione alle richieste dei cittadini.
 
-#### Art. 22
+### Art. 22
 
 Obblighi di pubblicazione dei dati relativi agli enti pubblici vigilati, e agli enti di diritto privato in controllo pubblico, nonche' alle partecipazioni in societa' di diritto privato.
 
@@ -562,7 +554,7 @@ d) una o piu' rappresentazioni grafiche che evidenziano i rapporti tra l'amminis
 
 ((6. Le disposizioni di cui al presente articolo non trovano applicazione nei confronti delle societa', partecipate da amministrazioni pubbliche, con azioni quotate in mercati regolamentati italiani o di altri paesi dell'Unione europea, e loro controllate.))
 
-#### Art. 23
+### Art. 23
 
 Obblighi di pubblicazione concernenti i provvedimenti amministrativi
 
@@ -578,7 +570,7 @@ d) accordi stipulati dall'amministrazione con soggetti privati o con altre ammin
 
 2\. ((COMMA ABROGATO DAL D.LGS. 25 MAGGIO 2016, N. 97)).
 
-#### Art. 23-bis
+### Art. 23-bis
 
 (( (Obblighi di pubblicazione concernenti i controlli sulle attivita' economiche).))
 
@@ -586,15 +578,15 @@ d) accordi stipulati dall'amministrazione con soggetti privati o con altre ammin
 
 2\. L'elenco di cui al comma precedente e' aggiornato almeno a cadenza triennale.))
 
-#### Art. 24
+### Art. 24
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 MAGGIO 2016, N. 97))
 
-#### Art. 25
+### Art. 25
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 MAGGIO 2016, N. 97))
 
-#### Art. 26
+### Art. 26
 
 Obblighi di pubblicazione degli atti di concessione di sovvenzioni, contributi, sussidi e attribuzione di vantaggi economici a persone fisiche ed enti pubblici e privati.
 
@@ -624,7 +616,7 @@ La L. 4 agosto 2017, n. 124 come modificata dal D.L. 30 aprile 2019, n. 34, ha d
 
 \- (con l' art. 1, comma 128) che "All'articolo 26, comma 2, del decreto legislativo 14 marzo 2013, n. 33, dopo il secondo periodo, e' aggiunto il seguente: «Ove i soggetti beneficiari siano controllati di diritto o di fatto dalla stessa persona fisica o giuridica ovvero dagli stessi gruppi di persone fisiche o giuridiche, vengono altresi' pubblicati i dati consolidati di gruppo.»".
 
-#### Art. 27
+### Art. 27
 
 Obblighi di pubblicazione dell'elenco
 
@@ -646,7 +638,7 @@ f) il link al progetto selezionato e al curriculum del soggetto incaricato.
 
 2\. Le informazioni di cui al comma 1 sono riportate, nell'ambito della sezione «Amministrazione trasparente» e secondo modalita' di facile consultazione, in formato tabellare aperto che ne consente l'esportazione, il trattamento e il riutilizzo ai sensi dell'articolo 7 e devono essere organizzate annualmente in unico elenco per singola amministrazione.
 
-#### Art. 28
+### Art. 28
 
 Pubblicita' dei rendiconti dei gruppi consiliari regionali e provinciali
 
@@ -654,11 +646,9 @@ Pubblicita' dei rendiconti dei gruppi consiliari regionali e provinciali
 
 2\. La mancata pubblicazione dei rendiconti comporta la riduzione del 50 per cento delle risorse da trasferire o da assegnare nel corso dell'anno.
 
-## Capo III
+## Capo III - Obblighi di pubblicazione concernenti l'uso delle risorse pubbliche
 
-### Obblighi di pubblicazione concernenti l'uso delle risorse pubbliche
-
-#### Art. 29
+### Art. 29
 
 Obblighi di pubblicazione del bilancio, preventivo e consuntivo, e del Piano degli indicatori e risultati attesi di bilancio, nonche' dei dati concernenti il monitoraggio degli obiettivi.
 
@@ -668,23 +658,21 @@ Obblighi di pubblicazione del bilancio, preventivo e consuntivo, e del Piano deg
 
 2\. Le pubbliche amministrazioni pubblicano il Piano di cui all'articolo 19 del decreto legislativo 31 maggio 2011, n. 91, con le integrazioni e gli aggiornamenti di cui all'articolo 22 del medesimo decreto legislativo n. 91 del 2011.
 
-#### Art. 30
+### Art. 30
 
 Obblighi di pubblicazione concernenti i beni immobili e la gestione del patrimonio.
 
 1\. ((Fermo restando quanto previsto dall'articolo 9-bis, le pubbliche amministrazioni)) pubblicano le informazioni identificative degli immobili posseduti ((e di quelli detenuti)), nonche' i canoni di locazione o di affitto versati o percepiti.
 
-#### Art. 31
+### Art. 31
 
 Obblighi di pubblicazione concernenti i dati relativi ai controlli sull'organizzazione e sull'attivita' dell'amministrazione.
 
 ((1. Le pubbliche amministrazioni pubblicano gli atti degli organismi indipendenti di valutazione o nuclei di valutazione, procedendo all'indicazione in forma anonima dei dati personali eventualmente presenti. Pubblicano, inoltre, la relazione degli organi di revisione amministrativa e contabile al bilancio di previsione o budget, alle relative variazioni e al conto consuntivo o bilancio di esercizio nonche' tutti i rilievi ancorche' non recepiti della Corte dei conti riguardanti l'organizzazione e l'attivita' delle amministrazioni stesse e dei loro uffici.))
 
-## Capo IV
+## Capo IV - Obblighi di pubblicazione concernenti le prestazioni offerte e i servizi erogati
 
-### Obblighi di pubblicazione concernenti le prestazioni offerte e i - servizi erogati
-
-#### Art. 32
+### Art. 32
 
 Obblighi di pubblicazione concernenti i servizi erogati
 
@@ -696,17 +684,17 @@ a) i costi contabilizzati ((...)) e il relativo andamento nel tempo;
 
 b) ((LETTERA ABROGATA DAL D.LGS. 25 MAGGIO 2016, N. 97)).
 
-#### Art. 33
+### Art. 33
 
 Obblighi di pubblicazione concernenti i tempi di pagamento dell'amministrazione
 
 1\. ((Fermo restando quanto previsto dall'articolo 9-bis, le pubbliche amministrazioni)) pubblicano, con cadenza annuale, un indicatore dei propri tempi medi di pagamento relativi agli acquisti di beni, servizi ((prestazioni professionali)) e forniture, denominato 'indicatore annuale di tempestivita' dei pagamenti' ((, nonche' l'ammontare complessivo dei debiti e il numero delle imprese creditrici)). A decorrere dall'anno 2015, con cadenza trimestrale, le pubbliche amministrazioni pubblicano un indicatore, avente il medesimo oggetto, denominato 'indicatore trimestrale di tempestivita' dei pagamenti' ((, nonche' l'ammontare complessivo dei debiti e il numero delle imprese creditrici)). Gli indicatori di cui al presente comma sono elaborati e pubblicati, anche attraverso il ricorso a un portale unico, secondo uno schema tipo e modalita' definiti con decreto del Presidente del Consiglio dei ministri da adottare sentita la Conferenza unificata.
 
-#### Art. 34
+### Art. 34
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 MAGGIO 2016, N. 97))
 
-#### Art. 35
+### Art. 35
 
 Obblighi di pubblicazione relativi ai procedimenti amministrativi e ai controlli sulle dichiarazioni sostitutive e l'acquisizione d'ufficio dei dati.
 
@@ -746,7 +734,7 @@ b) ((LETTERA SOPPRESSA DAL D.LGS. 25 MAGGIO 2016, N. 97));
 
 c) ((LETTERA SOPPRESSA DAL D.LGS. 25 MAGGIO 2016, N. 97)).
 
-#### Art. 36
+### Art. 36
 
 Pubblicazione delle informazioni necessarie
 
@@ -782,11 +770,9 @@ per l'effettuazione di pagamenti informatici
 
 > 5\. Le attivita' previste dal presente articolo si svolgono con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.».
 
-## Capo V
+## Capo V - Obblighi di pubblicazione in settori speciali
 
-### Obblighi di pubblicazione in settori speciali
-
-#### Art. 37
+### Art. 37
 
 (( (Obblighi di pubblicazione concernenti i contratti pubblici di lavori, servizi e forniture) ))
 
@@ -802,7 +788,7 @@ AGGIORNAMENTO (15)
 
 Il D.Lgs. 31 marzo 2023, n. 36 ha disposto (con l'art. 229, comma 2) che la presente modifica acquista efficacia il 1° luglio 2023.
 
-#### Art. 38
+### Art. 38
 
 Pubblicita' dei processi di pianificazione, realizzazione e valutazione delle opere pubbliche
 
@@ -818,7 +804,7 @@ AGGIORNAMENTO (15)
 
 Il D.Lgs. 31 marzo 2023, n. 36 ha disposto (con l'art. 229, comma 2) che la presente modifica acquista efficacia il 1° luglio 2023.
 
-#### Art. 39
+### Art. 39
 
 Trasparenza dell'attivita' di pianificazione e governo del territorio
 
@@ -834,7 +820,7 @@ b) ((LETTERA ABROGATA DAL D.LGS. 25 MAGGIO 2016, N. 97)).
 
 4\. Restano ferme le discipline di dettaglio previste dalla vigente legislazione statale e regionale.
 
-#### Art. 40
+### Art. 40
 
 Pubblicazione e accesso alle informazioni ambientali
 
@@ -944,7 +930,7 @@ Pubblicazione e accesso alle informazioni ambientali
 
 > d) le modalita' di produzione della relazione annuale sull'applicazione del presente decreto.».
 
-#### Art. 41
+### Art. 41
 
 Trasparenza del servizio sanitario nazionale
 
@@ -962,7 +948,7 @@ Trasparenza del servizio sanitario nazionale
 
 6\. Gli enti, le aziende e le strutture pubbliche e private che erogano prestazioni per conto del servizio sanitario sono tenuti ad indicare nel proprio sito, in una apposita sezione denominata «Liste di attesa», i criteri di formazione delle liste di attesa, il tempi di attesa previsti e i tempi medi effettivi di attesa per ciascuna tipologia di prestazione erogata. ((Sono altresi' tenuti a pubblicare nel proprio sito internet istituzionale i bilanci certificati e i dati sugli aspetti qualitativi e quantitativi dei servizi erogati e sull'attivita' medica svolta)).
 
-#### Art. 42
+### Art. 42
 
 Obblighi di pubblicazione concernenti gli interventi straordinari e di emergenza che comportano deroghe alla legislazione vigente.
 
@@ -978,11 +964,9 @@ d) ((LETTERA ABROGATA DAL D.LGS. 25 MAGGIO 2016, N. 97)).
 
 1-bis. I Commissari delegati di cui all'articolo 5, della legge 24 febbraio 1992, n. 225, svolgono direttamente le funzioni di responsabili per la prevenzione della corruzione di cui all'articolo 1, comma 7, della legge 6 novembre 2012, n. 190 e di responsabili per la trasparenza di cui all' articolo 43 del presente decreto.
 
-## Capo VI
+## Capo VI - Vigilanza sull'attuazione delle disposizioni e sanzioni
 
-### Vigilanza sull'attuazione delle disposizioni e sanzioni
-
-#### Art. 43
+### Art. 43
 
 Responsabile per la trasparenza
 
@@ -996,13 +980,13 @@ Responsabile per la trasparenza
 
 5\. In relazione alla loro gravita', il responsabile segnala i casi di inadempimento o di adempimento parziale degli obblighi in materia di pubblicazione previsti dalla normativa vigente, all'ufficio di disciplina, ai fini dell'eventuale attivazione del procedimento disciplinare. Il responsabile segnala altresi' gli inadempimenti al vertice politico dell'amministrazione, all'OIV ai fini dell'attivazione delle altre forme di responsabilita'.
 
-#### Art. 44
+### Art. 44
 
 Compiti degli organismi indipendenti di valutazione
 
 1\. L'organismo indipendente di valutazione verifica la coerenza tra gli obiettivi previsti nel ((Piano triennale per la prevenzione della corruzione)) e quelli indicati nel Piano della performance, valutando altresi' l'adeguatezza dei relativi indicatori. I soggetti deputati alla misurazione e valutazione delle performance, nonche' l'OIV, utilizzano le informazioni e i dati relativi all'attuazione degli obblighi di trasparenza ai fini della misurazione e valutazione delle performance sia organizzativa, sia individuale del responsabile e dei dirigenti dei singoli uffici responsabili della trasmissione dei dati.
 
-#### Art. 45
+### Art. 45
 
 Compiti della Commissione per la valutazione, l'integrita' e la trasparenza delle pubbliche amministrazioni (CIVIT). ((5))
 
@@ -1020,7 +1004,7 @@ AGGIORNAMENTO (5)
 
 Il D.Lgs. 25 maggio 2016, n. 97 ha disposto (con l'art. 36, comma 1, lettera a)) che ovunque ricorrano le parole «la CIVIT» sono sostituite dalle seguenti: «L'autorita' nazionale anticorruzione».
 
-#### Art. 46
+### Art. 46
 
 Responsabilita' derivante dalla violazione delle disposizioni in materia di obblighi di pubblicazione e di accesso civico
 
@@ -1028,7 +1012,7 @@ Responsabilita' derivante dalla violazione delle disposizioni in materia di obbl
 
 2\. Il responsabile non risponde dell'inadempimento degli obblighi di cui al comma 1 se prova che tale inadempimento e' dipeso da causa a lui non imputabile.
 
-#### Art. 47
+### Art. 47
 
 Sanzioni per la violazione degli obblighi di trasparenza per casi specifici
 
@@ -1040,11 +1024,9 @@ Sanzioni per la violazione degli obblighi di trasparenza per casi specifici
 
 3\. Le sanzioni ((di cui al presente articolo)) sono irrogate dall'Autorita' nazionale anticorruzione. L'Autorita' nazionale anticorruzione disciplina con proprio regolamento, nel rispetto delle norme previste dalla legge 24 novembre 1981, n. 689, il procedimento per l'irrogazione delle sanzioni.
 
-## Capo VII
+## Capo VII - Disposizioni finali e transitorie
 
-### Disposizioni finali e transitorie
-
-#### Art. 48
+### Art. 48
 
 Norme sull'attuazione degli obblighi di pubblicita' e trasparenza
 
@@ -1068,7 +1050,7 @@ AGGIORNAMENTO (4)
 
 Il D.L. 24 giugno 2014, n. 90, convertito con modificazioni dalla L. 11 agosto 2014, n. 114 ha disposto (con l'art. 19, comma 15) che "Le funzioni del Dipartimento della funzione pubblica della Presidenza del Consiglio dei Ministri in materia di trasparenza e prevenzione della corruzione di cui [...] all'articolo 48 del decreto legislativo 14 marzo 2013, n. 33, sono trasferite all'Autorita' nazionale anticorruzione."
 
-#### Art. 49
+### Art. 49
 
 Norme transitorie e finali
 
@@ -1094,7 +1076,7 @@ Norme transitorie e finali
 
 > La legge provvede all'ordinamento della Presidenza del Consiglio e determina il numero, le attribuzioni e l'organizzazione dei Ministeri.».
 
-#### Art. 50
+### Art. 50
 
 Tutela giurisdizionale
 
@@ -1104,13 +1086,13 @@ Tutela giurisdizionale
 
 > Il decreto legislativo 2 luglio 2010, n. 104, recante (Attuazione dell'articolo 44 della legge 18 giugno 2009, n. 69, recante delega al governo per il riordino del processo amministrativo), e' pubblicata nella Gazzetta Ufficiale 7 luglio 2010, n. 156.
 
-#### Art. 51
+### Art. 51
 
 Invarianza finanziaria
 
 1\. Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni interessate provvedono agli adempimenti previsti con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-#### Art. 52
+### Art. 52
 
 Modifiche alla legislazione vigente
 
@@ -1148,7 +1130,7 @@ e) all'articolo 133, comma 1, lettera a), n. 6), dopo la parola: «amministrativ
 
 5\. Dalla data di entrata in vigore del presente decreto, qualsiasi rinvio al Programma triennale per la trasparenza e l'integrita' di cui all'articolo 11 del decreto legislativo 27 ottobre 2009, n. 150, si intende riferito all'articolo 10.
 
-#### Art. 53
+### Art. 53
 
 Abrogazione espressa di norme primarie
 
@@ -1272,7 +1254,7 @@ Visto, il Guardasigilli: Severino
 
 ## Allegati
 
-#### Allegato
+### Allegato
 
 Allegato
 
@@ -1491,7 +1473,7 @@ L'elenco dei contenuti indicati per ogni sotto-sezione sono da considerarsi i co
 
 Nel caso in cui sia necessario pubblicare nella sezione "Amministrazione trasparente" informazioni, documenti o dati che sono gia' pubblicati in altre parti del sito, e' possibile inserire, all'interno della sezione "Amministrazione trasparente", un collegamento ipertestuale ai contenuti stessi, in modo da evitare duplicazione di informazioni all'interno del sito dell'amministrazione. L'utente deve comunque poter accedere ai contenuti di interesse dalla sezione "Amministrazione trasparente" senza dover effettuare operazioni aggiuntive.
 
-#### Allegato B
+### Allegato B
 
 ((ALLEGATO B (articolo 9-bis)
 

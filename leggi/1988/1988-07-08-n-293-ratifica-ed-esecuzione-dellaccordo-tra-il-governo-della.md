@@ -25,15 +25,15 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'accordo fra il Governo della Repubblica italiana ed il Governo dell'Unione delle Repubbliche socialiste sovietiche sui trasporti internazionali di viaggiatori e merci su strada, con protocollo esplicativo, firmato a Mosca il 19 giugno 1984.
 
-### Art. 2
+## Art. 2
 
 1\. Piena ed intera esecuzione e' data all'accordo di cui all'articolo 1 a decorrere dalla sua entrata in vigore in conformita' all'articolo 23 dell'accordo stesso.
 
-### Art. 3
+## Art. 3
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -61,19 +61,19 @@ Il Governo della Repubblica italiana ed il Governo dell'Unione delle Repubbliche
 
 hanno deciso di stipulare il presente Accordo:
 
-### Articolo 1
+## Articolo 1
 
 In conformita' a quanto stabilito dal presente Accordo vengono effettuati tra i due Paesi, compreso il transito attraverso il loro territorio, trasporti regolari ed occasionali di viaggiatori su autobus e trasporti di merci su autocarri, rimorchi, trattori stradali, semirimorchi lungo gli itinerari aperti al traffico automobilistico internazionale, che saranno indicati da ciascuna delle due Parti contraenti per il proprio territorio.
 
 ## I - TRASPORTO DI VIAGGIATORI
 
-### Articolo 2
+## Articolo 2
 
 1\. I servizi regolari di viaggiatori per mezzo di autobus verranno istituiti previ accordi tra le competenti Autorita' delle Parti contraenti.
 
 2\. Le domande relative all'istituzione di tali trasporti verranno scambiate tra le Autorita' competenti delle Parti contraenti in tempo utile. Tali domande dovranno contenere i seguenti dati: denominazione del trasportatore (ditta), itinerario, orario degli spostamenti, tariffe, fermate alle quali il trasportatore effettuera' il carico e lo scarico dei viaggiatori e, altresi', il periodo e la frequenza dell'effettuazione dei trasporti.
 
-### Articolo 3
+## Articolo 3
 
 1\. Per l'effettuazione di trasporti occasionali di viaggiatori per mezzo autobus, tra i due Paesi e in transito attraverso il loro territorio, ad eccezione dei trasporti previsti dall'articolo 4 del presente Accordo, sono richieste le autorizzazioni rilasciate dalle Autorita' competenti delle Parti contraenti.
 
@@ -83,7 +83,7 @@ In conformita' a quanto stabilito dal presente Accordo vengono effettuati tra i 
 
 4\. Le autorizzazioni di cui al paragrafo 1 del presente articolo, saranno valide ciascuna per un solo viaggio di andata e ritorno.
 
-### Articolo 4
+## Articolo 4
 
 1\. L'autorizzazione di cui al paragrafo 1 dell'articolo 3 non e' richiesta per l'effettuazione di trasporti occasionali di viaggiatori a mezzo di autobus nei seguenti casi:
 
@@ -97,7 +97,7 @@ b) se uno stesso gruppo di viaggiatori viene trasportato nella sua composizione 
 
 ## II - TRASPORTO DI MERCI
 
-### Articolo 5
+## Articolo 5
 
 1\. I trasporti di merci tra i due Paesi o in transito attraverso il loro territorio vengono effettuati per mezzo di autocarri con o senza rimorchio e trattori stradali con semirimorchio sulla base delle autorizzazioni rilasciate dalle Autorita' competenti delle Parti contraenti.
 
@@ -109,7 +109,7 @@ b) se uno stesso gruppo di viaggiatori viene trasportato nella sua composizione 
 
 5\. Le autorizzazioni necessarie per gli automezzi sovietici che circolano sul territorio italiano vengono rilasciate dall'Autorita' competente sovietica su moduli pervenuti dall'Autorita' competente italiana nel limite dei contingenti fissati di comune accordo dagli Organi competenti dei due Paesi.
 
-### Articolo 6
+## Articolo 6
 
 Le autorizzazioni di cui al precedente articolo 5 sono di due specie:
 
@@ -119,7 +119,7 @@ b) autorizzazioni valevoli esclusivamente per il transito sul territorio dell'al
 
 La validita' delle autorizzazioni di cui alle lettere a) e b) del presente articolo e' limitata a 3 mesi dalla data del rilascio all'autotrasportatore da parte delle Autorita' competenti del proprio Paese.
 
-### Articolo 7
+## Articolo 7
 
 1\. Le Autorita' competenti delle Parti contraenti rilasciano reciprocamente senza limitazioni e fuori del quantitativo stabilito all'articolo 5 paragrafo 3 autorizzazioni per i trasporti sottoindicati:
 
@@ -139,7 +139,7 @@ g) autoveicoli danneggiati.
 
 2\. Le eccezioni previste alle lettere c), d), e) al paragrafo 1 del presente articolo sono valide soltanto nel caso in cui la merce trasportata debba essere reimportata nel Paese di immatricolazione del veicolo.
 
-### Articolo 8
+## Articolo 8
 
 1\. Nel caso in cui le dimensioni o il peso del veicolo con o senza carico superino i limiti stabiliti dalle norme vigenti nel territorio dell'altra Parte contraente, il trasportatore deve ottenere un'autorizzazione speciale rilasciata dalle Autorita' competenti dell'altra Parte contraente.
 
@@ -147,33 +147,33 @@ g) autoveicoli danneggiati.
 
 3\. Se l'autorizzazione di cui al paragrafo 1 e paragrafo 2 del presente articolo prevede che il mezzo di autotrasporto percorra un itinerario determinato, il trasporto dovra' essere effettuato lungo l'itinerario indicato.
 
-### Articolo 9
+## Articolo 9
 
 I trasporti di merci previsti dal presente Accordo dovranno essere effettuati con lettere di vettura corrispondenti al modello internazionale riconosciuto.
 
 ## III - DISPOSIZIONI GENERALI
 
-### Articolo 10
+## Articolo 10
 
 1\. I trasporti internazionali previsti dal presente Accordo possono essere effettuati soltanto dai trasportatori che, conformemente alla legislazione interna del proprio Paese, sono autorizzati ad effettuare tali trasporti.
 
 2\. I veicoli che effettuano i trasporti internazionali di cui al presente Accordo devono essere muniti della targa nazionale e di un segno distintivo che indichi il Paese di provenienza.
 
-### Articolo 11
+## Articolo 11
 
 Il trasportatore non e' autorizzato ad effettuare trasporti di passeggeri o di merci tra due punti situati nel territorio dell'altra Parte contraente.
 
-### Articolo 12
+## Articolo 12
 
 1\. Il conducente del veicolo deve essere munito di patente di guida nazionale o internazionale e dei documenti nazionali di immatricolazione del mezzo di trasporto.
 
 2\. Le patenti di guida nazionali o internazionali devono essere conformi al modello adottato dalla Convenzione internazionale sulla circolazione stradale.
 
-### Articolo 13
+## Articolo 13
 
 Nell'effettuazione dei trasporti internazionali sulla base del presente Accordo dovranno essere osservate le norme della circolazione, nonche' tutte le altre leggi e norme ivi comprese quelle tributarie in vigore nel Paese sul cui territorio viene effettuato il trasporto.
 
-### Articolo 14
+## Articolo 14
 
 I trasferimenti valutari determinati dai trasporti effettuati in virtu' del presente Accordo sono regolati dagli Accordi di pagamento in vigore tra i due Paesi al momento dei rispettivi pagamenti.
 
@@ -181,11 +181,11 @@ In mancanza di tali Accordi di pagamento i suddetti trasferimenti saranno effett
 
 Le relative somme verranno liberamente trasferite e non verranno sottoposte a nessun tipo di imposizione o a qualsiasi limitazione.
 
-### Articolo 15
+## Articolo 15
 
 I trasporti internazionali previsti dal presente Accordo vengono consentiti a condizione che al momento dell'ingresso nel territorio di ciascuna delle Parti contraenti ogni veicolo che effettua il trasporto sia assicurato per la responsabilita' civile per i danni da esso eventualmente causati.
 
-### Articolo 16
+## Articolo 16
 
 1\. In occasione dell'effettuazione di trasporti sulla base del presente Accordo, vengono reciprocamente svincolati da tasse doganali, dazi e visti, in quanto importati sul territorio dell'altra Parte contraente:
 
@@ -197,33 +197,33 @@ c) le parti di ricambio e gli strumenti destinati alla riparazione del mezzo di 
 
 2\. Le parti di ricambio non utilizzate sono soggette alla riesportazione e le parti di ricambio sostituite devono essere riesportate o distrutte sotto la vigilanza doganale o dichiarate per l'importazione definitiva in conformita' alle norme stabilite sul territorio della corrispondente Parte contraente.
 
-### Articolo 17
+## Articolo 17
 
 Le questioni ivi comprese quelle doganali, sanitarie e di frontiera, che non sono regolate dal presente Accordo nonche' dagli Accordi internazionali a cui aderiscono ambedue le Parti contraenti, verranno risolte secondo la legislazione interna di ciascuna delle Parti contraenti.
 
-### Articolo 18
+## Articolo 18
 
 1\. Per il controllo doganale, sanitario e di frontiera saranno applicate le disposizioni degli Accordi internazionali a cui aderiscono ambedue le Parti contraenti e per la soluzione delle questioni non regolate da questi Accordi saranno applicate le leggi interne di ognuna delle Parti contraenti.
 
 2\. I trasporti di malati gravi, i trasporti regolari di viaggiatori a mezzo autobus, nonche' i trasporti di animali e merci deperibili avranno la precedenza al controllo doganale, sanitario e di frontiera.
 
-### Articolo 19
+## Articolo 19
 
 Le Parti contraenti risolveranno tutte le controversie concernenti l'interpretazione del presente Accordo, per canali diplomatici e qualora necessario attraverso trattative e consultazioni.
 
-### Articolo 20
+## Articolo 20
 
 Nel caso di violazione di una disposizione del presente Accordo avvenuta sul territorio di una delle Parti contraenti, l'Autorita' competente del Paese d'immatricolazione dei veicoli, su richiesta dell'Autorita' competente dell'altra Parte contraente, adottera' tutte le misure e le sanzioni necessarie ad assicurare il rispetto del presente Accordo. Delle misure adottate, l'Autorita' competente informera' l'Autorita' competente dell'altro Paese.
 
-### Articolo 21
+## Articolo 21
 
 Gli Organi competenti delle Parti contraenti si manterranno in contatto e si incontreranno periodicamente per l'esame dei problemi connessi all'attuazione del presente Accordo.
 
-### Articolo 22
+## Articolo 22
 
 Nessuna disposizione del presente Accordo pregiudichera' la realizzazione di accordi e trattati bilaterali e multilaterali conclusi dalle due Parti contraenti.
 
-### Articolo 23
+## Articolo 23
 
 1\. Il presente Accordo entrera' in vigore 15 giorni dopo che le Parti contraenti si saranno comunicate per via diplomatica l'espletamento delle procedure previste dai rispettivi ordinamenti.
 
@@ -241,7 +241,7 @@ Visto, il Ministro degli affari esteri
 
 ANDREOTTI
 
-### Protocollo
+## Protocollo
 
 PROTOCOLLO
 

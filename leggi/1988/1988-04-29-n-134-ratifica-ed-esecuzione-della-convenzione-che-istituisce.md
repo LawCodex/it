@@ -25,19 +25,19 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la convenzione che istituisce l'Agenzia multilaterale di garanzia degli investimenti (MIGA), adottata a Seul l'11 ottobre 1985.
 
-#### Art. 2
+### Art. 2
 
 1\. Piena ed intera esecuzione e' data dalla convenzione di cui all'articolo 1 a deccorrere dalla sua entrata in vigore in conformita' all'articolo 61 della convenzione stessa
 
-#### Art. 3
+### Art. 3
 
 1\. La quota di sottoscrizione italiana del capitale dell'Agenzia e' determinata in 28.200.000 diritti speciali di prelievo pari a dollari USA 30.512.400, al tasso di cambio fissato all'articolo 5 della convenzione (1 DSP = 1,082 dollari USA).
 
-#### Art. 4
+### Art. 4
 
 1\. All'onere derivante dall'attuazione della presente legge, valutato per l'anno finanziario 1988 in lire 11.000 milioni, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1988-1990, al capitolo n. 9001 dello stato di previsione del Ministero del tesoro per l'anno 1988, all'uopo parzialmente utilizzando la voce "Partecipazione a banche e fondi nazionali ed internazionali".
 
@@ -45,11 +45,11 @@ la seguente legge:
 
 3\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorenti variazioni di bilancio.
 
-#### Art. 5
+### Art. 5
 
 1\. L'Agenzia multilaterale di garanzia degli investimenti comunichera', ai sensi e per gli effetti dell'articolo 38 della convenzione di cui all'articolo 1, per tutto quanto attiene all'attuazione della convenzione stessa, con il Ministro del tesoro.
 
-#### Art. 6
+### Art. 6
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -69,7 +69,7 @@ Visto,il Guardasigilli:VASSALLI
 
 ## Allegati
 
-#### Convention
+### Convention
 
 CONVENTION ESTABLISHING THE MULTILATERAL
 
@@ -79,7 +79,7 @@ Parte di provvedimento in formato grafico
 
 ## CAPITOLO I - ISTITUZIONE, STATO GIURIDICO, FINALITA' E DEFINIZIONI.
 
-#### art. 1
+### art. 1
 
 TRADUZIONE NON UFFICIALE
 
@@ -115,7 +115,7 @@ b) L'Agenzia avra' piena personalita' giuridica ed in particolare la capacita' d
 
 (iii) intentare azioni legali.
 
-#### Articolo 2. Obiettivi e finalita'
+### Articolo 2. Obiettivi e finalita'
 
 Obiettivo dell'Agenzia sara' di favorire il flusso di investimenti a fini produttivi tra i paesi membri ed in particolare verso i paesi membri in via di sviluppo, integrando in tale maniera le attivita' della Banca Internazionale per la Ricostruzione e lo Sviluppo (qui di seguito denominata "Banca"), della Internazional Finance Corporation e di altre istituzione finanziarie internazionali per il finanziamento dello sviluppo.
 
@@ -127,7 +127,7 @@ Per attuare il proprio obiettivo, l'Agenzia:
 
 L'Agenzia seguira' le disposizioni del presente articolo in tutte le sue decisioni.
 
-#### Articolo 3. Definizioni
+### Articolo 3. Definizioni
 
 Ai fini della presente Convenzione:
 
@@ -143,13 +143,13 @@ e) Per "valuta convertibile" si intende (1) qualsiasi valuta designata come tale
 
 ## CAPITOLO II - MEMBRI E CAPITALE
 
-#### Articolo 4. Membri
+### Articolo 4. Membri
 
 a) Potranno divenire membri dell'Agenzia tutti i membri della Banca e la Confederazione Elvetica.
 
 b) Saranno membri fondatori gli Stati figuranti all'Allegato (A) alla presente e che saranno divenuti parti alla presente Convenzione alla data del 30 ottobre 1987 o prima della stessa.
 
-#### Articolo 5. Capitale
+### Articolo 5. Capitale
 
 a) Il capitale sociale autorizzato dell'Agenzia ammontera' ad un miliardo di Diritti speciali di Prelievo (Ds.p. 1.000.000.000). Il capitale sociale sara' suddiviso in n. 100.000 azioni del valor nominale ognuna di 10.000 diritti speciali di prelievo, che potranno essere messe a disposizione per la sottoscrizione da parte dei membri. Tutti gli obblighi di pagamento dei Paesi membri relativamente al capitale sociale dovranno essere saldati in base al valore medio del D.s P. espresso in dollari statunitensi per il periodo 1 gennaio 1981-30 giugno 1985, tale valore essendo pari a 1,082 dollari USA per D.s P.
 
@@ -157,13 +157,13 @@ b) Il capitale sociale aumentera' con l'emissione di un nuovo membro qualora le 
 
 (c) Il Consiglio, a maggioranza qualificata, potra' in qualsiasi momento aumentare il capitale sociale dell'Agenzia.
 
-#### art. 6
+### art. 6
 
 Articolo 6. Sottoscrizione delle azioni.
 
 Ciascun membro fondatore dell'Agenzia sottoscrivera' alla pari il numero delle azioni di capitale sociale menzionate accanto al suo nome all'allegato (A) alla presente. Ogni altro membro sottoscrivera' il numero di azioni di capitale sociale secondo le disposizioni e condizioni decise dal Consiglio, ma in nessun caso ad un prezzo di emissione inferiore alla pari. Nessun membro potra' sottoscrivere meno di cinquanta azioni. Il Consiglio puo' decidere le norme in base alle quali i membri sottoscrivono titoli addizionali del capitale sociale autorizzato.
 
-#### art. 7
+### art. 7
 
 Articolo 7. divisioni e chiamate sul capitale sottoscritto
 
@@ -171,7 +171,7 @@ La sottoscrizione iniziale di ogni membro sara' pagata come segue:
 
 (i) entro novanta giorni dalla data in cui la presente Convenzione entra in vigore nei confronti di detto membro, il dieci per cento del costo di ogni azione sara' pagato in contanti come convenuto all'Articolo 8, paragrafo (a) ed un altro dieci per cento sara' versato in forma di garanzie senza interessi non negoziabili o di obbligazioni analoghe da essere riscosse conformemente alla delibera presa dal Consiglio per soddisfare gli impegni assunti dall'Agenzia. (ii) La rimanenza sara' esatta dall'Agenzia quando questa sara' sollecitata ad ampiere alle proprie obbligazioni.
 
-#### art. 8
+### art. 8
 
 Articolo 8. Pagamento delle sottoscrizioni azionarie
 
@@ -183,11 +183,11 @@ c) se, a seguito di chiamata, l'ammonatare ricevuto dall'Agenzia si rivelasse in
 
 d) la responsabilita' relativa alle azioni sara' limitata alla porzione di quota non pagata del costo di emissione.
 
-#### Articolo 9. Valutazione delle monete
+### Articolo 9. Valutazione delle monete
 
 Ogni qualvolta si riveli necessario determinare, per gli scopi di questa Convenzione, il tasso di cambio di una moneta rispetto ad un'altra, detto valore sara' ragionevolmente determinato dall'Agenzia dopo consultazioni con il Fondo Monetario Internazionale.
 
-#### Articolo 10. Rimborsi
+### Articolo 10. Rimborsi
 
 a) L'Agenzia dovra', non appena praticabile, rimborsare ai Paesi membri, le somme pagate a seguito di chiamata sul capitale sottoscritto, se e nella misura in cui:
 
@@ -203,7 +203,7 @@ c) L'equivalente delle somme rimborsate ad un membro in base al presente Articol
 
 ## CAPITOLO III - OPERAZIONI
 
-#### Articolo 11; Rischi coperti
+### Articolo 11; Rischi coperti
 
 a) Facendo valere le disposizioni dei paragrafi (b) e (c) qui di seguito, l'Agenzia puo' garantire investimenti contro perdita risultante dai seguenti tipi di rischio:
 
@@ -231,7 +231,7 @@ Qualsiasi azione militare o disordine civile nel territorio del paese ospite cui
 
 (ii) azioni od omissioni del governo ospite o altri eventi verificatesi prima della conclusione del contratto di garanzia.
 
-#### art. 12
+### art. 12
 
 Articolo 12. Investimenti aventi diritto a coperture
 
@@ -255,7 +255,7 @@ Articolo 12. Investimenti aventi diritto a coperture
 
 (iv) le condizioni che regolano gli investimenti nel paese ospite ivi compresa la possibilita' di avvalersi di un giusto ed equo trattamento e di una tutela giuridica degli investimenti.
 
-#### art. 13
+### art. 13
 
 Articolo 13. Investitori aventi diritto alla copertura.
 
@@ -271,29 +271,29 @@ Articolo 13. Investitori aventi diritto alla copertura.
 
 (c) Su richiesta congiunta dell'investitore e del paese ospite, il Consiglio di amministrazione, a maggioranza qualificata, potra' estendere il diritto alla copertura ad una persona fisica che abbia la nazionalita' del paese ospite ovvero ad una persona giuridica costituita in societa' per azioni nel paese ospite o la cui maggioranza di capitale sia posseduta da cittadini del paese ospite purche' i beni investiti non provengano da paese ospite.
 
-#### art. 14
+### art. 14
 
 Articolo 14. Paesi ospiti aventi diritto alla copertura assicurativa.
 
 Gli investimenti saranno garantiti in base al presente Capitolo solo se effettuati nel territorio di un paese membro in via di sviluppo.
 
-#### art. 15
+### art. 15
 
 Articolo 15. Approvazione del paese ospite
 
 L'Agenzia non stipulera' nessun contratto di garanzia prima che il governo ospite abbia autorizzato l'emissione da parte dell'Agenzia del titolo di garanzia contro i rischi rientranti nella copertura assicurativa.
 
-#### Articolo 16. Termini e condizioni
+### Articolo 16. Termini e condizioni
 
 I termini e le condizioni di ogni contratto di garanzia saranno determinati dall'Agenzia conformemente alle norme ed ai regolamenti fissati dal Consiglio di amministrazione, purche' l'Agenzia non copra la totalita' delle perdite dell'investimento assicurato. I contratti di garanzia saranno approvati dal Presidente secondo le direttive del Consiglio di amministrazione.
 
-#### art. 17
+### art. 17
 
 Articolo 17. Pagamento delle richieste di indennizzo.
 
 Il Presidente, su direttive di amministrazione, decidera' il pagamento dell'indennizzo a favore di un assicurato conformemente al contratto di garanzia ed alle polizze approvate dal Consiglio di amministrazione. I contratti di garanzia contempleranno che gli assicurati ricerchino, prima che l'Agenzia effettui il pagamento, le soluzioni amministrative piu' opportune, purche' queste possano essere prontamente attuabili in base alle leggi vigenti nel paese ospite. Tali contratti prevederanno che un ragionevole periodo di tempo intercorra fra gli eventi che hanno originato la richiesta di indennizzo ed il pagamento dello stesso.
 
-#### Articolo 18. Surrogazione
+### Articolo 18. Surrogazione
 
 (a) Successivamente all'avvenuto pagamento o all'autorizzazione dello stesso a favore di un assicurato, l'Agenzia potra' subentrare nei diritti o nelle richieste di indennizzo relativi all'investimento garantito che l'assicurato vantava nei confronti del paese ospite o di altri debitori. Il contratto di garanzia completera' i termini e le condizioni di tale surrogazione.
 
@@ -301,13 +301,13 @@ Il Presidente, su direttive di amministrazione, decidera' il pagamento dell'inde
 
 (c) Le somme in valute del paese ospite acquisite dall'Agenzia in veste di surrogante conformemente al paragrafo (a) di cui sopra otterranno, da parte col paese ospite, relativamente al loro utilizzo e conversione, un trattamento favorevole analogo a quello spettante ai fondi in possesso dell'assicurato. In ogni caso, tali somme potranno essere utilizzate dall'Agenzia per far fronte alle sue spese amministrative e ad altri costi. L'Agenzia cerchera' inoltre di accordarsi con i paesi ospiti per altri impieghi di tali valute nella misura in cui esse non siano convertibili.
 
-#### art. 19
+### art. 19
 
 Articolo 19. Rapporti con enti nazionali e regionali
 
 L'Agenzia cooperera' ed integrera' l'opera di enti anzionali di paesi membri o di enti regionali la maggioranza del cui capitale sia posseduta da membri che svolgano attivita' analoghe a quelle dell'Agenzia, al fine di rendere piu' efficaci i rispettivi servizi e contribuire ad incrementare il flusso degli investimenti esteri. A tale fine, l'Agenzia potra' trattare con tali enti i dettagli di simile cooperazione, incluse in particolare le modalita' relative alla riassicurazione e co-assicurazione.
 
-#### art. 20
+### art. 20
 
 Articolo 20. Riassicurazione di enti nazionali e regionali
 
@@ -323,7 +323,7 @@ Termini e condizioni riassicurative contempleranno il ricorso a strumenti ammini
 
 L'Agenzia includera' nei contratti riassicurativi disposizioni che prevedano l'obbligo per il riassicurato di far diligentemente valere i diritti e le rivendicazioni relativi all'investimento riassicurato.
 
-#### art. 21
+### art. 21
 
 Articolo 21. Cooperazione con assicuratori privati e riassicuratori (a) L'agenzia potra' stipulare accordi con assicuratori privati di paesi membri al fine di incrementare le proprie attivita' e incoraggiare gli assicuratori a fornire la copertura assicurativa contro rischi non commerciali nei paesi membri in via di sviluppo condizioni analoghe a quelle applicate dall'Agenzia. Tali accordi includeranno le modalita' di riassicurazione da parte dell'Agenzia alle condizioni e secondo le procedure specificate all'articolo 20.
 
@@ -331,7 +331,7 @@ Articolo 21. Cooperazione con assicuratori privati e riassicuratori (a) L'agenzi
 
 (c) In particolare, l'Agenzia cercera' di garantire quegli investimenti per i quali - a condizioni ragionevoli non esiste analoga copertuara da parte di assicuratori e riassicuratori.
 
-#### Articolo 22. Limiti di garanzia
+### Articolo 22. Limiti di garanzia
 
 (a) Salvo diversamente disposto dal Consiglio a maggioranza qualificata, l'ammontare complessivo dell'eventuale responsabilita' che puo' essere assunta dall'Agenzia in base al presente Capitolo non eccedera' il 150% del totale dell'intero capitale sottoscritto, delle risertve e delle quote di copertura riassicurativa dell'Agenzia come stabilito dal Consiglio di Amministrazione. Il Consiglio di amministrazione rivedra' peridoicamente il coefficiente rischio del portafoglio detenuto dall'Agenzia alla luce dell'esperienza acquisita relativamente alle richieste di indennizzo, grado di diversificazione del rischio, copertura riassicurativa ed altri fattori rilevanti, onde accertare se raccomandare o meno al Consiglio ritocchi all'ammontare complessivo delle eventuali responsabilita' globali. Il tetto massimo stabilito dal Consiglio non dovra' mai in nessun caso superare il quintuplo dell'ammontare dell'intero capitale sottoscritto dall'Agenzia, delle riserve e di quelle quote di copertura riassicurativa ritenute appropriate.
 
@@ -343,7 +343,7 @@ Nel determinare detti tetti massimi, il Consiglio di amministrazione terra' debi
 
 (ii) i tetti massimi di eventuale responsabilita' assumibili dall'Agenzia in relazione ai fattori di diversificazione del rischi o quali progetti individuali, singoli paesi ospiti e tipi di investimento o rischio.
 
-#### art. 23
+### art. 23
 
 Articolo 23. Promozione degli investimenti
 
@@ -365,7 +365,7 @@ Articolo 23. Promozione degli investimenti
 
 (c) L'Agenzia prestera' particolare attenzione, nei suoi sforzi promozionali, all'importanza di accrescere il flusso di investimenti tra i paesi in via di sviluppo.
 
-#### art. 24
+### art. 24
 
 Articolo 24. Garanzie degli investimenti sponsorizzati
 
@@ -373,15 +373,15 @@ Oltre alle operazioni di garanzia effettuato dall'Agenzia in base al presente Ca
 
 ## CAPITOLO IV - DISPOSIZIONI FINANZIARIE
 
-#### Articolo 25. Gestione Finanziaria
+### Articolo 25. Gestione Finanziaria
 
 L'Agenzia svolgera' le proprie attivita' secondo una sana gestione imprenditoriale ed una prudente gestione finanziaria per essere sempre in grado di far fronte ai propri impegni finanziari.
 
-#### Articolo 26. Premi e oneri
+### Articolo 26. Premi e oneri
 
 L'Agenzia stabilira' e rivedra' peridodicamente i tassi dei premi, oneri ed altre spese applicabili ad ogni tipo di rischio.
 
-#### art. 27
+### art. 27
 
 Articolo 27. Destinazione dell'utile netto
 
@@ -391,13 +391,13 @@ Articolo 27. Destinazione dell'utile netto
 
 Ogni distribuzione dell'utile netto ai membri dell'agenzia avverra' sempre proporzionalemente alla quota di capitale sottoscritto da ciascun membro conformemente a quanto deliberato dal Consiglio a maggioranza qualificata.
 
-#### Articolo 28. Bilancio preventivo
+### Articolo 28. Bilancio preventivo
 
 Il presidente redigera' un bilancio annuale di previsione delle
 
 entrate e delle uscite dell'Agenzia da sottoporre all'approvazione del consiglio di Amministrazione.
 
-#### Articolo 29. Conti finanziari
+### Articolo 29. Conti finanziari
 
 L'Agenzia pubblichera' un Rapporto Annuale con i rendiconti delle proprie operazioni e di quelle dello Sponsorship Trust Fund (Fondo fiduciario di sponsorizzazione) previsto dall'Alllegato I alla presente Convenzione, debitamente verificati dai revisori esterni.
 
@@ -405,11 +405,11 @@ L'Agenzia inviera', ad intervalli regolari, ai propri membri una sintesi della p
 
 ## CAPITOLO V - ORGANIZZAZIONE E GESTIONE
 
-#### Articolo 30. Struttura dell'Agenzia
+### Articolo 30. Struttura dell'Agenzia
 
 L'Agenzia avra' un Consiglio dei Governatori, un Consiglio di amministrazione, un Presidente e il personale necessario ad assolvere i compiti fissati dall'Agenzia.
 
-#### art. 31
+### art. 31
 
 Articolo 31. Il Consiglio dei Governatori
 
@@ -441,7 +441,7 @@ Il Consiglio dei Governatori potra' demandare al Consiglio di amministrazione l'
 
 (c) Il Consiglio terra' una riunione annuale ed altre riunioni che riterra' opportune o che saranno convocate dal consiglio di amministrazione. Il Consiglio di amministrazione convochera' una riunione del consiglio (dei Govenatori) ogni qulavolta cinque membri o dei membri che detengono il 25% dei voti complessivi lo richiedono.
 
-#### art. 32
+### art. 32
 
 Articolo 32. Il Consiglio di amministrazione
 
@@ -455,7 +455,7 @@ Articolo 32. Il Consiglio di amministrazione
 
 (e) Fintanto che il Consiglio (dei Governatori) non decidera' che l'Agenzia deve disporre di un consiglio di amministrazione in loco operante su base permanente, gli amministratori ed i loro supplenti riceveranno un compenso solo per la loro partecipazione alle riunioni del Consiglio di amministrazione e per l'assolvimento di altri compiti ufficiali per conto dell'Agenzia. Una volta istituito un consiglio di amministrazione permanente, gli amministratori ed i loro supplenti saranno remunerati come stabilito dal Consiglio dei governatori.
 
-#### Articolo 33. Presidente e personale
+### Articolo 33. Presidente e personale
 
 (a) Il Presidente, sotto il controllo generale del consiglio di amministrazione dirigera' l'ordinaria amministrazione dell'Agenzia.
 
@@ -469,7 +469,7 @@ Sara' responsabile dell'organizzazione, nomina, licenziamento del personale.
 
 (e) Presidente e personale manterranno in ogni circostanza il massimo grado di riservatezza relativamente alle informazioni raccolte nell'espletamento delle attivita' dell'Agenzia.
 
-#### art. 34
+### art. 34
 
 Articolo 34. Divieto di attivita' politica
 
@@ -477,13 +477,13 @@ L'Agenzia, il suo Presidente ed il suo personale non interferiranno negli affari
 
 Qualsiasi considerazione pertinente alle loro decisioni dovra' essere vagliate in modo imparziale onde soddisfare gli scopi contemplati all'articolo 2.
 
-#### art. 35
+### art. 35
 
 Articolo 35. Rapporti con le Organizzazioni Internazionali
 
 L'Agenzia, nei termini previsti dalla presente convenzione, cooperera' con le Nazioni Unite e con qualsiasi organizzazione intergovernativa avente specifiche responsabilita' nei suoi relativi campi),ed in particolare con la Banca e con la International Finance Corporation.
 
-#### art. 36
+### art. 36
 
 Articolo 36. Ubicazione della sede principale
 
@@ -491,23 +491,21 @@ Articolo 36. Ubicazione della sede principale
 
 (b) L'Agenzia, ove necessario, potra' dotarsi di altri uffici per l'espletamento delle sue attivita'.
 
-#### art. 37
+### art. 37
 
 Articolo 37. Banche depositarie delle attivita'
 
 Ogni membro designera' la propria banca centrale quale banca depositaria presso la quale l'Agenzia potra' mantenere i propri beni nella valuta del paese membro o altre sue disponibilita' e, in mancanza di una banca centrale, designera' all'uopo un altro istituto accettabile per l'Agenzia.
 
-#### Articolo 38. Canali di comunicazione
+### Articolo 38. Canali di comunicazione
 
 (a) Ogni membro designera' l'autorita' competente cui l'Agenzia potra' rivolgersi per qualsiasi questione inerente la presente Convenzione.
 
 L'Agenzia considerera' le dichiarazioni di dette autorita' come se fossero rese dal paese membro. L'Agenzia, su richiesta di un membro, consultera' lo stesso paese membro per qualsiasi questione di cui agli articoli 19-21 inerenti od istituiti assicurativi dello stesso. (b) Qualora sia richiesta l'autorizzazione di ogni membro prima di qualsiasi atto dell'Agenzia, l'autorizzazione si riterra' accordata salvo obiezione avanzata da un paese membro entro un periodo di tempo ragionevole fissato dall'Agenzia all'atto della notifica dell'atto proposto.
 
-## CAPITOLO VI - VOTAZIONE, ADEGUAMENTI DELLE SOTTOSCRIZIONI
+## CAPITOLO VI - VOTAZIONE, ADEGUAMENTI DELLE SOTTOSCRIZIONI E RAPPRESENTAZIONE
 
-### E RAPPRESENTAZIONE
-
-#### art. 39
+### art. 39
 
 Articolo 39. Votazione e Adeguamenti delle sottoscrizioni
 
@@ -529,7 +527,7 @@ Articolo 39. Votazione e Adeguamenti delle sottoscrizioni
 
 (f) Il consiglio (dei governatori) emanera' norme relative alle ulteriori sottoscrizioni previste al paragrafo (e) del presente articolo. Tali norme contempleranno adeguati limiti di tempo per la presentazione da parte dei membri delle richieste relative a dette sottoscrizioni.
 
-#### art. 40
+### art. 40
 
 Articolo 40 - Voto in seno al Consiglio (dei Governatori)
 
@@ -539,13 +537,13 @@ Articolo 40 - Voto in seno al Consiglio (dei Governatori)
 
 (c) Il Consiglio potra' disporre che il Consiglio di amministrazione, nell'interesse supremo dell'Agenzia, possa chiedere al Consiglio di deliberare sua di una specifica questione senza che sia necessario indire una sua convocazione.
 
-#### art. 41
+### art. 41
 
 Articolo 41. Elezione degli amministratori.
 
 (a) Gli amministratori sono eletti in conformita' alla Tabella B. (b) Gli amministratori rimangono in carica fin quando non vengano eletti i loro successori. Se la carica di un amministratore si rende vacante oltre novanta giorni prima del termine del suo mandato, i Governatori che avevano eletto l'ex amministratore eleggono un altro ammnistratore per il resto del mandato. Ai fini dell'elezione e' richiesta la maggioranza dei voti. Mentre la carica rimane vacante, il sostituto dell'ex ammnistratore esercita i suoi poteri, tranne quello di nominare un sostituto.
 
-#### art. 42
+### art. 42
 
 Articolo 42. Voto in seno alla Commissione.
 
@@ -557,15 +555,15 @@ Articolo 42. Voto in seno alla Commissione.
 
 ## CAPITOLO VII - PRIVILEGI ED IMMUNITA'
 
-#### Articolo 43 - Scopi del capitolo
+### Articolo 43 - Scopi del capitolo
 
 Onde consentire all'Agenzia di svolgere le proprie funzioni, verranno ad essa accordati immunita' e privilegi stabiliti nel presente capitolo nel territorio di ogni membro.
 
-#### Articolo 44. Procedimenti legali
+### Articolo 44. Procedimenti legali
 
 Azioni di versa natura rispetto a quelle di cui agli articoli 57 e 58 possono essere intentate contro l'Agenzia solo presso una corte avente giurisdizione nel territorio di un paese membro in cui l'Agenzia abbia un suo ufficio o abbia provveduto a nominare un proprio rappresentante cha la assista e le notifichi eventuali procedimenti. Nessuna azione puo' essere intentata contro l'Agenzia (i) da parte di membri o persone che agiscano o avanziono rivendicazioni per conto di membrri o (ii) relativamente a questioni inerenti al personale. Le proprieta' e le attivita' finanziaria dell'agenzia - ovunque ubicate o da chiunque detenute - saranno esenti da qualsiasi forma di confisca, sequestro o esecuzione fino all'emissione della sentenza o giudizio finale contrario all'Agenzia.
 
-#### Articolo 45. Attivita' finanziarie
+### Articolo 45. Attivita' finanziarie
 
 (a) Le proprieta' e le attivita' finanziarie dell'agenzia, ovunque ubicate e da chiunque detenute, saranno esenti da perquisizioni, requisizioni, confische o altre forme di sequestro a seguito di procedimento esecutivo o legislativo.
 
@@ -573,13 +571,13 @@ Azioni di versa natura rispetto a quelle di cui agli articoli 57 e 58 possono es
 
 (c) Ai fini del presente capitolo, il termine "attivita' finanziaria" include le attivita' del Sponsorship Trus Fund (Fondo fiduciario di sponsorizzazione) di cui e' menzione nell'allegato I alla presente Convenzione, nonche' altre attivita' amministrate dall'Agenzia nel perseguimento dei propri obiettivi.
 
-#### Articolo 46. Archivi e Comunicazioni
+### Articolo 46. Archivi e Comunicazioni
 
 (a) Gli archivi dell'Agenzia saranno inviolabili, a prescindere da dove possano essere situati.
 
 (b) Alle comunicazioni ufficali dell'agenzia sara' accordato - da parte di ciascun membro lo stesso trattamento che viene accordato alle comunicazioni ufficiali della Banca.
 
-#### Articolo 47. Tasse
+### Articolo 47. Tasse
 
 (a) L'Agenzia, le sue attivita' finanziarie, le sue proprieta' ed entrate, le sue operazioni o transazioni autorizzate dalla presente Convenzione saranno esenti da qualsiasi tassa e dazio doganale.
 
@@ -589,7 +587,7 @@ L'Agenzia sara' inoltre esentata da ogni responsabilita' per l'esazione o il pag
 
 (c) Nessun tipo di tassazione sara' imposto sugli investimenti garantiti o riassicurati dall'agenzia (inclusi i relativi guadagni) o sulle polizze assicurative riassicurate dall'Agenzia (compresi i premi ed altri proventi) da chiunque detenuti: (i) tali da discriminare detti investimenti o polizze assicurative solo in quanto garantite o riassicurate dall'Agenzia; o (ii) se l'unica base giurisdizionale di detta tassazione sia quella della presenza di un ufficio o di una sede dell'Agenzia.
 
-#### Articolo 48. Funzionari dell'Agenzia
+### Articolo 48. Funzionari dell'Agenzia
 
 Tutti i Governatori, gli amministratori, i supplenti, il Presidente e il personale dell'agenzia:
 
@@ -599,25 +597,23 @@ Tutti i Governatori, gli amministratori, i supplenti, il Presidente e il persona
 
 (iii) godranno dello stesso trattamento, per quanto concerne le facilitazioni di viaggio, concesso dai paesi membri interessati ai rappresentanti, funzionari ed impiegati di rango analogo di altri paesi membri.
 
-#### art. 49
+### art. 49
 
 Articolo 49. Applicazione del presente capitolo
 
 Ogni membro adottera' nel proprio territorio le misure necessarie per attuare, in conformita' alla propria legislazione, i principi stabiliti dal presente capitolo ed informera' l'Agenzia dagli specifici provvedimenti adottati.
 
-#### Articolo 50. Rinuncia
+### Articolo 50. Rinuncia
 
 Immunita', esenzioni e privilegi contemplati dal presente capitolo sono concessi nell'interesse dell'Agenzia; vi si puo' rinunciare nella misura e nei termini stabiliti dall'Agenzia, quale tale rinuncia non pregiudichi gli interessi della stessa. L'Agenzia potra' rinunciare alla immunita' di un membro del suo personale qualora ritenga che essa ostacoli il corso della giustizia e che la sua rinuncia non sia di pregiudizio agli interessi dell'Agenzia.
 
-## CAPITOLO VIII - RITIRO, SOSPENSIONE DI UN MEMBRO E CESSAZIONE DELLE
+## CAPITOLO VIII - RITIRO, SOSPENSIONE DI UN MEMBRO E CESSAZIONE DELLE ATTIVITA'
 
-### ATTIVITA'
-
-#### Articolo 51. Ritiro
+### Articolo 51. Ritiro
 
 Qualsiasi membro potra', allo scadere del terzo anno successivo alla data di entrata in vigore della presente Convenzione nei confronti di detto membro, ritirarsi dall'Agenzia in qualsiasi momento informandone per iscritto la sede centrale dell'agenzia. L'Agenzia notifichera' alla Banca, in qualita' di depositaria della presente Convenzione, l'avvenuta ricezione di tale comunicazione. Qualsiasi ritiro diverra' effettivo novanta giorni dopo la data di ricezione della comunicazione da parte dell'Agenzia. Un membro potra' revocare tale notifica fintanto che non sara' divenuta effettiva.
 
-#### Articolo 52. Sospensione di un membro
+### Articolo 52. Sospensione di un membro
 
 (a) Qualora un membro omette di ottemperare ai propri obblighi di cui alla presente Convenzione, il Consiglio potra' sospenderlo con decisione adottata a maggioranza semplice.
 
@@ -627,7 +623,7 @@ Qualsiasi membro potra', allo scadere del terzo anno successivo alla data di ent
 
 (d) Un membro sospeso cessera' automaticamente di essere membro dell'Agenzia dopo un anno dalla data della sua sospensione salvo che il Consiglio non decida di estendere il periodo di sospensione o di riabilitarlo.
 
-#### art. 53
+### art. 53
 
 Articolo 53. Diritti e doveri degli stati che cessino di essere
 
@@ -637,7 +633,7 @@ membri
 
 (b) Fatto salvo il paragrafo (a) di cui sopra, l'Agenzia concordera' con tale Stato la composizione delle rivendicazioni ed obblighi rispettivi. Qualsiasi accordo dovra' essere approvato dal Consiglio di amministrazione.
 
-#### art. 54
+### art. 54
 
 Articolo 54. Sospensione delle operazioni
 
@@ -647,7 +643,7 @@ Articolo 54. Sospensione delle operazioni
 
 (c) La decisione di sospendere le operazioni non incidera' sugli obblighi assunti dai membri in base alla presente Convenzione ne' sugli obblighi assunti dall'Agenzia nei confronti dei detentori di una garanzia o di una polizza riassicurativa o nei confronti di terzi.
 
-#### Articolo 55. Liquidazione
+### Articolo 55. Liquidazione
 
 (a) Il Consiglio, a maggioranza qualificata, potra' deliberare di cessare le operazioni e di liquidare l'Agenzia. Dopo di che, l'Agenzia cessera' immediatamente tutte le proprie attivita', fatte salve quelle inerenti al regolare realizzo, mantenimento e tutela delle attivita' finanziarie ed all'assolvimento degli obblighi. Fino a completa liquidazione e distribuzione delle attivita' finanziarie, l'Agenzia rimarra' in essere e tutti i diritti e gli obblighi dei membri previsti dalla presente Convenzione rimarranno intatti.
 
@@ -657,7 +653,7 @@ Articolo 54. Sospensione delle operazioni
 
 ## CAPITOLO IX - COMPOSIZIONE DELLE CONTROVERSIE
 
-#### art. 56
+### art. 56
 
 Articolo 56. Interpretazione ed applicazione della Convenzione
 
@@ -665,7 +661,7 @@ Articolo 56. Interpretazione ed applicazione della Convenzione
 
 (b) Ogni qualvolta il consiglio di amministrazione deliberi conformemente al paragrafo (a) di cui sopra, qualunque membro potra' richiedere che la questione sia demandata al Consiglio (dei Governatori); la cui decisione sara' inappellabile. Nell'attesa che il consiglio deliberi, l'agenzia potra', se necessario, agire sulla base della delibera dal Consiglio di amministrazione.
 
-#### art. 57
+### art. 57
 
 Articolo 57. Controversie fra l'Agenzia e suoi membri
 
@@ -673,7 +669,7 @@ Articolo 57. Controversie fra l'Agenzia e suoi membri
 
 (b) Le controversie riguardanti le rivendicazioni dell'Agenzia agente per surrogazione di un investitore saranno composte conformemente (i) alla procedure previste dall'allegato II alla presente convenzione, o (ii) tramite accordo da stipularsi fra l'Agenzia ed il membro in questione quale prassi alternativa per la composizione di simili controversie. In quest'ultimo caso, l'allegato II alla presente Convenzione servira' da base per tale accordo che dovra', ad ogni modo, essere approvato dal consiglio di amministrazione a maggioranza qualificata prima che l'Agenzia avvii qualsiasi operazione nel territorio del paese interessato.
 
-#### art. 58
+### art. 58
 
 Articolo 58. Controversie tra detentori di garanzia o di una polizza riassicurativa.
 
@@ -681,7 +677,7 @@ Qualsiasi controversia che dovesse insorgere fra le parti per un contratto di ga
 
 ## CAPITOLO X - EMENDAMENTI
 
-#### art. 59
+### art. 59
 
 Articolo 59. Emendamenti da parte del Consiglio (dai Governatori)
 
@@ -695,13 +691,13 @@ Articolo 59. Emendamenti da parte del Consiglio (dai Governatori)
 
 (c) Qualora un emendamento incida su di una disposizione prevista dall'allegato I alla presente Convenzione, il totale dei voti comprendera' i voti aggiuntivi attribuiti in virtu' dell'articolo 7 di detto allegato ai membri sponsorizzatori ed ai paesi che accolgono investimenti sponsorizzati.
 
-#### Articolo 60. Procedura
+### Articolo 60. Procedura
 
 Qualsiasi proposta intesa ad emendare la presente Convenzione, presentata da un membro, da un Governatore o da un amministratore, dovra' essere inoltrata al Presidente del Consiglio di amministrazione che la sottoporra' a quest'ultimo. Qualora l'emendamento proposto sia raccomandato dal Consiglio di amministrazione sara' sottoposto al Consiglio ( dei Governatori) per essere approvato conformemente all'articolo 59. Una volta che un emendamento stato sia debitamente approvato dal Consiglio, l'Agenzia lo notifichera' formalmente a tutti i membri. Gli emendamenti entreranno in vigore per tutti i membri novanta giorni dopo la data della loro notifica, salvo che il Consiglio non specifichi una diversa data.
 
 ## CAPITOLO XI - DISPOSIZIONI FINALI
 
-#### Articolo 61. Entrata in vigore
+### Articolo 61. Entrata in vigore
 
 (a) La presente Convenzione sara' posta alla firma di tutti i membri della Banca e della Svizzera e sara' sottoposta a ratifica, accettazione o approvazione da parte degli Stati firmatari conformemente alle loro prassi costituzionali.
 
@@ -711,19 +707,19 @@ Qualsiasi proposta intesa ad emendare la presente Convenzione, presentata da un 
 
 (d) Qualora la presente Convenzione non sia entrata in vigore entro due anni dalla data in cui e' stata posta alla firma, il Presidente della Banca convochera' una conferenza dei paesi interessati per determinare quale linea di condotta seguire.
 
-#### Articolo 62. Assemblea inaugurale
+### Articolo 62. Assemblea inaugurale
 
 All'entrata in vigore della presente Convenzione, il Presidente della Banca convochera' il Consiglio (dei Governatori) per l'assemblea inaugurale. Detta assemblea si terra' presso la sede centrale della Agenzia entro sessanta giorni dalla data di entrata in vigore della presente Convenzione o in data successiva non appena possibile.
 
-#### Articolo 63. Depositario
+### Articolo 63. Depositario
 
 Gli strumenti di ratifica, accettazione o approvazione della presente Convenzione nonche' gli emendamenti alla stessa saranno depositati presso la Banca che operera' quale depositario della presente Convenzione. Il depositario provvedera' a trasmettere copie auten- ticata della presente Convenzione agli Stati membri della Banca ed alla Svizzera.
 
-#### Articolo 64. Registrazione
+### Articolo 64. Registrazione
 
 Il depositario provvedera' a registrare la presente Convenzione presso il Segretariato delle Nazioni Unite conformente all'articolo 102 della Carta delle Nazioni Unite ed ai relativi Regolamenti adottati dall'assemblea generale.
 
-#### Articolo 65. Notifica
+### Articolo 65. Notifica
 
 Il depositario provvedera' a notificare quanto segue a tutti gli stati firmatari e, a partire dalla sua entrata in vigore, all'Agenzia stessa:
 
@@ -737,11 +733,11 @@ Il depositario provvedera' a notificare quanto segue a tutti gli stati firmatari
 
 (e) ritiro di un membro dall'Agenzia conformemente all'articolo 51.
 
-#### Articolo 66. Applicazione territoriale
+### Articolo 66. Applicazione territoriale
 
 La presente Convenzione trovera' applicazione in tutti i territori posti sotto la giurisdizione di un memebro, inclusi i territori di cui un membro sia responsabile per le relazioni internazionali, fatta eccezione per quei territori espressamente esclusi da detto membro con notifica scritta al depositario della presente convenzione al momento della ratifica, accettazione o approvazione della Convenzione stessa, o in data successiva.
 
-#### Articolo 67. Revisioni periodiche
+### Articolo 67. Revisioni periodiche
 
 (a) Il Consiglio procedera' periodicamente a una revisione generale delle attivita' dell'Agenzia come pure dei risultati conseguiti al fine di introdurre quei correttivi atti a rilanciare le capacita' dell'Agenzia di soddisfare i propri obiettivi.
 
@@ -753,7 +749,7 @@ ALLEGATO I
 
 GARANZIE DI INVESTIMENTI SPONSORIZZATI IN BASE ALL'ARTICOLO 24
 
-#### Articolo 1. Sponsorizzazione
+### Articolo 1. Sponsorizzazione
 
 (a) Ogni membro potra' sponsorizzare per garanzia un investimento che un investitore di una qualunque nazionalita', o che investitori di diverse nazionalita' intendano effettuare.
 
@@ -763,7 +759,7 @@ GARANZIE DI INVESTIMENTI SPONSORIZZATI IN BASE ALL'ARTICOLO 24
 
 (d) L'Agenzia consultera' periodicamente i membri sponsorizzatori relativamente alle operazioni oggetto del presente Allegato.
 
-#### art. 2
+### art. 2
 
 Articolo 2. Fondo Fiduciario di Sponsorizzazione
 
@@ -773,7 +769,7 @@ Articolo 2. Fondo Fiduciario di Sponsorizzazione
 
 (c) Le disponibilita' del Fondo Fiduciario di Sponsorizzazione saranno raccolte e gestite in un conto congiunto dei membri sponsorizzatori e saranno tenute separate dalle altre disponibilita' dell'Agenzia.
 
-#### art. 3
+### art. 3
 
 Articolo 3. Appelli ai membri sponsorizzatori
 
@@ -789,13 +785,13 @@ La responsabilita' dei membri conformemente al presente paragrafo sara' soggetta
 
 (e) Qualsiasi versamento da parte di un membro sponsorizzatore successivo ad una richiesta conforme al presente articolo avverra' tempestivamente ed in valuta convertibile.
 
-#### art. 4
+### art. 4
 
 Articolo 4. Corso delle valute e rimborsi
 
 Le disposizioni riguardanti il corso delle valute ed i rimborsi contenute nella presente Convenzione relativamente alle sottoscrizioni di capitale troveranno applicazione mutatis mutandis nei confronti dei fondi versati dai membri in ragione degli investimenti sponsorizzati.
 
-#### Articolo 5. Riassicurazione
+### Articolo 5. Riassicurazione
 
 (a) L'Agenzia potra', in base alle condizioni previste all'articolo 1 del presente allegato, provvedere alla riassicurazione di un membro, di un'agenzia del medesimo, di un'agenzia regionale come previsto all'articolo 20, paragrafo (a) della presente convenzione, o di una compagnia privata di assicurazione operante in un paese membro. Le disposizioni di cui al presente allegato relativmente alle garanzie e di cui agli articoli 20 e 21 della Convenzione saranno applicate mutatis mutandis alla riassicurazione contemplata dal presente paragrafo.
 
@@ -803,11 +799,11 @@ Le disposizioni riguardanti il corso delle valute ed i rimborsi contenute nella 
 
 Il Consiglio di amministrazione stabilira' se e in qual misura l'obbligo di ripartizione delle perdite fra i membri sponsorizzatori di cui all'articolo 1, paragrafo (b) del presente allegato puo' essere ridotto in ragione della copertura riassicurativa ottenuta.
 
-#### Articolo 6. Principi operativi
+### Articolo 6. Principi operativi
 
 Fatte salve le disposizioni del peresente allegato, le disposizioni relative alle operazioni di garanzia di cui al Capitolo III della presente Convenzione e quelle relative alla gestione finanziaria di cui al Capitolo IV della presente Convenzione troveranno applicazione mutatis mutandis nei confronti delle garanzie di investimenti sponsorizzati; salvo che (i) tali investimenti avranno diritto a sponsorizzazione se effettuati nei territori di un paese membro, ed in particolare da un paese membro in via di sviluppo; da un investitore o da investitori che ne abbiano diritto in base all'articolo 1, paragrafo (a) del presente Allegato; e (ii) l'Agenzia non rispondera' con il proprio attivo di una garanzia o polizza riassicurativa emessa in base al presente Allegato ed ogni contratto di garanzia o polizza riassicurativa concluse conformemente al presente allegato dovra' prevederlo espressamente.
 
-#### Articolo 7. Votazione
+### Articolo 7. Votazione
 
 Per ogni delibera relativa ad investimenti sponsorizzati, ogni membro sponsorizzatore disporra' di un voto supplementare ogni diecimila Diritti Speciali di Prelievo equivalenti alla somma garantita o riassicurata in base alla sponsorizzazione; ogni membro che accolga un investimento sponsorizzato dispporra' di un voto supplementare ogni diecimile Diritti Speciali di Prelievo equivalenti alla somma garantita o riassicurata per un investimento sponsorizzato che esso abbia accolto. Tali voti supplementari saranno espressi solo per delibere relative ad investimenti sponsorizzati, e saranno altrimenti tralasciati nella determinazione del potere di voto dei membri.
 
@@ -817,15 +813,15 @@ COMPOSIZIONE DELLE CONTROVERSIE TRA UN MEMBRO E L'AGENZIA
 
 IN BASE ALL'ARTICOLO 57
 
-#### Articolo 1. Applicazione dell'Allegato
+### Articolo 1. Applicazione dell'Allegato
 
 Tutte le controversie che rientrano nell'ambito dell'Articolo 57 della Convenzione saranno composte in conformita' con la procedura contemplata dal presente Allegato, fatti salvi i casi in cui l'Agenzia abbia concluso un accordi con un membro conformemente all'articolo 57, capoverso (b) (iii).
 
-#### Articolo 2. Negoziato
+### Articolo 2. Negoziato
 
 Le parti coinvolte in una controversia che rientri nell'ambito del presente Allegato dovranno tentare di comporrre la stessa per via negoziale prima di ricorrere alla conciliazione o all'arbitrato. I negoziati dovranno ritenersi esauriti se le parti non avranno raggiunto un'intesa entro centoventi giorni dalla data della richiesta di negoziato.
 
-#### Articolo 3. Conciliazione
+### Articolo 3. Conciliazione
 
 (a) Qualora la controversia non venga composta per via negoziale, una delle parti potra' sottoporla ad arbitrato conformemente alle disposizioni dell'Articolo 4 del presente Allegato, a meno che le parti non abbiano deciso di comune accordo di ricorrere inizialmente alla procedura conciliativa contemplata dal presente articolo
 
@@ -853,7 +849,7 @@ La procedura conciliativa decadra' qualora il conciliatore non sia stato nominat
 
 Ciascuna parte sosterra' le proprie spese.
 
-#### Articolo 4. Arbitrato - a) Le procedure di arbitrato potranno essere avviate tramite una notifica inoltrata dalla parte che richiede l'arbitrato (il richiedente) alla o alle controparti implicate nella controversia (il convenuto). La notifica dovra' specificare l'oggetto della controveria, la soluzione auspicata nonche' il nome dell'arbitro designato dal richiedente. Il convenuto dovra', entro trenta giorni dalla data di ricevimento della notifica notificare al richiedente il nome dell'arbitro da essa designato. Le due parti dovranno, entro trenta giorni dalla data della designazione del secondo arbitro, scegliere un terzo arbitro, il quale fungera' da Presidente del Tribunale Arbitrale (qui di seguito denominato Tribunale
+### Articolo 4. Arbitrato - a) Le procedure di arbitrato potranno essere avviate tramite una notifica inoltrata dalla parte che richiede l'arbitrato (il richiedente) alla o alle controparti implicate nella controversia (il convenuto). La notifica dovra' specificare l'oggetto della controveria, la soluzione auspicata nonche' il nome dell'arbitro designato dal richiedente. Il convenuto dovra', entro trenta giorni dalla data di ricevimento della notifica notificare al richiedente il nome dell'arbitro da essa designato. Le due parti dovranno, entro trenta giorni dalla data della designazione del secondo arbitro, scegliere un terzo arbitro, il quale fungera' da Presidente del Tribunale Arbitrale (qui di seguito denominato Tribunale
 
 (b) Qualora il Tribunale non sia stato costituito entro sessanta giorni dalla data della notifica, l'arbitro non ancora nominato o il Presidente non ancora prescelto dovranno essere nominati su istanza congiunta delle parti dal Segretario Generale dell'ICSID. Indifetto di un'istanza congiunta, o qualora il Segretario Generale non abbia proceduto alla nomina entro trenta giorni dall'istanza a lui inoltrata, una della parti potra' chiedere al Presidente della Corte Internazionale di Giustizia di procedere alla nomina.
 
@@ -877,13 +873,13 @@ L'esecuzione della decisione sara' regolata dalle leggi relative all'esecuzione 
 
 (k) Salvo diversa intesa tra le parti, le spese, gli emolumenti da corrispondere ai giudici arbitrali saranno fissati in base alle tariffe applicabili agli arbitrati dell'ICSID. Ognuna delle parti sosterra' le proprie spese relative alle procedure arbitrali. Le spese del tribunale saranno equamente sostenute dalle parti, salvo diversa decisione del Tribunale. Per qualsiasi questione concernente la ripartizione delle spese del Tribunale o la procedura di pagamento di tali spese decidera' il Tribunale.
 
-#### Articolo 5. Notifica
+### Articolo 5. Notifica
 
 La trasmissione di qualsiasi notifica o procedura relativa a procedimenti contemplati dal presente Allegato avverra' per iscritto.
 
 Verra' inoltrata dall'Agenzia all'autorita' designata del paese membro interessato conformemente all'Articolo 38 della presente Convenzione e da quel membro sede centrale dell'Agenzia.
 
-#### Tabella A
+### Tabella A
 
 TABELLA A
 
@@ -1223,7 +1219,7 @@ Zimbabwe 236 2,36
 
 100.000 1.000,00
 
-#### Tabella B
+### Tabella B
 
 TABELLA B
 

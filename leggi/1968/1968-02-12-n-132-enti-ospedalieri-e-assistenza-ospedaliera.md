@@ -28,7 +28,7 @@ la seguente legge:
 
 ## TITOLO I - L'ENTE OSPEDALIERO
 
-#### Art. 1
+### Art. 1
 
 Assistenza ospedaliera pubblica
 
@@ -44,7 +44,7 @@ Salva la vigilanza tecnico-sanitaria spettante al Ministero della sanita', nulla
 
 Gli istituti e gli enti di cui al quinto comma, ove posseggano i requisiti prescritti dalla presente legge, possono ottenere, a domanda, che i loro ospedali siano classificati in una delle categorie di cui agli articoli 20 e seguenti anche ai fini dell'applicazione delle disposizioni contenute nel titolo IV della presente legge.
 
-#### Art. 2
+### Art. 2
 
 Concetti e compiti dell'ente ospedaliero
 
@@ -58,7 +58,7 @@ Possono, inoltre, istituire, anche fuori della sede dell'ospedale, ambulatori, d
 
 La facolta' prevista dal comma precedente deve essere esercitata nel quadro delle prescrizioni del piano regionale ospedaliero ed in applicazione delle norme di cui al terzo comma dell'articolo 29.
 
-#### Art. 3
+### Art. 3
 
 Costituzione degli enti ospedalieri
 
@@ -68,7 +68,7 @@ Sono pure costituiti in enti ospedalieri tutti gli ospedali appartenenti ad enti
 
 Ai fini del trattamento tributario gli enti ospedalieri sono equiparati all'amministrazione dello Stato.
 
-#### Art. 4
+### Art. 4
 
 Riconoscimento di enti ospedalieri esistenti
 
@@ -78,7 +78,7 @@ Con lo stesso decreto e' indicata la composizione del consiglio di amministrazio
 
 Il decreto del Presidente della Regione deve essere emanato entro sei mesi dalla data di entrata in vigore della presente legge.
 
-#### Art. 5
+### Art. 5
 
 Costituzione di enti ospedalieri mediante distacco
 
@@ -102,7 +102,7 @@ Nel termine di due mesi dall'emanazione del decreto indicato nel primo comma il 
 
 Se gli ospedali di cui al secondo comma dell'articolo 3 non sono gestiti direttamente dall'ente pubblico, vengono compresi nell'ente al quale e' affidata la gestione purche' questo abbia i requisiti propri di ente ospedaliero.
 
-#### Art. 6
+### Art. 6
 
 Costituzione, fusione e concentrazione di nuovi enti
 
@@ -112,11 +112,9 @@ La Regione promuove e attua la istituzione di nuovi enti ospedalieri e la fusion
 
 L'ente ospedaliero e' costituito con decreto del presidente della Regione su conforme deliberazione della giunta regionale.
 
-## TITOLO II - STRUTTURA E AMMINISTRAZIONE
+## TITOLO II - STRUTTURA E AMMINISTRAZIONE DEGLI ENTI OSPEDALIERI
 
-### DEGLI ENTI OSPEDALIERI
-
-#### Art. 7
+### Art. 7
 
 Struttura dell'ente ospedaliero
 
@@ -124,13 +122,13 @@ Ciascun ente ospedaliero comprende uno o piu' ospedali, quali stabilimenti dotat
 
 Gli ospedali si distinguono secondo la classificazione contenuta nel titolo III della presente legge.
 
-#### Art. 8
+### Art. 8
 
 Organi dell'ente ospedaliero
 
 Sono organi dell'ente ospedaliero il consiglio di amministrazione, il presidente, il collegio dei revisori ed il consiglio dei sanitari oppure il consiglio sanitario centrale.
 
-#### Art. 9
+### Art. 9
 
 Consiglio di amministrazione
 
@@ -178,7 +176,7 @@ Al presidente ed ai componenti del consiglio di amministrazione con voto deliber
 
 In caso di fusione o concentrazione di piu' enti ospedalieri, nel consiglio di amministrazione del nuovo ente entrano a far parte un rappresentante degli originari interessi di ciascuno degli enti che vengono a fusione o concentrazione. Ove la fusione o concentrazione avvenga tra tre o piu' enti ospedalieri, i membri eletti dal consiglio regionale, per gli enti comprendenti ospedali regionali, dal consiglio provinciale, per gli enti comprendenti ospedali provinciali, e dal consiglio comunale del comune ove ha sede l'ente comprendente ospedali di zona, vengono aumentati delle unita' necessarie a mantenere inalterato il rapporto tra il numero complessivo dei rappresentanti elettivi e quello dei rappresentanti degli originari interessi, stabilito dalle altre disposizioni del presente articolo; se dall'operazione residui una frazione, questa e' riportata all'unita' superiore. I consigli regionali, provinciali o comunali procedono alla votazione con schede limitate alla meta' piu' una unita', o, se il numero e' dispari, alla meta' arrotondata al numero intero immediatamente superiore, del numero dei rappresentanti da eleggere.
 
-#### Art. 10
+### Art. 10
 
 Funzioni del consiglio di amministrazione
 
@@ -216,7 +214,7 @@ Il consiglio di amministrazione delibera validamente a maggioranza dei presenti 
 
 In caso di parita' di voti prevale il voto del presidente. Nei verbali dovra' darsi atto del voto consultivo espresso dai membri di cui all'articolo 9, quinto comma.
 
-#### Art. 11
+### Art. 11
 
 Nomina e funzioni del presidente
 
@@ -226,13 +224,13 @@ Il presidente ha la legale rappresentanza dell'ente ospedaliero, convoca e presi
 
 Ogni atto dell'ente ospedaliero deve essere controfirmato dal segretario generale o direttore amministrativo che partecipa alle responsabilita' degli amministratori a norma dell'art. 32, ultimo comma, della legge 17 luglio 1890, n. 6972. Da tale responsabilita' deve intendersi esonerato nei casi in cui egli abbia fatto constare espressamente il suo motivato dissenso e possa dimostrare di aver contributo agli atti medesimi soltanto in seguito ad esplicito invito.
 
-#### Art. 12
+### Art. 12
 
 Collegio dei revisori
 
 Il collegio dei revisori, con funzioni di vigilanza sulla attivita' amministrativa dell'ente ospedaliero, e' composto da un rappresentante del Ministero del tesoro con funzioni di presidente e da un rappresentante per ciascuno dei Ministeri della sanita' e del lavoro e della previdenza sociale nominati dai rispettivi Ministri, nonche' da un rappresentante della Regione nominato dalla Giunta regionale.
 
-#### Art. 13
+### Art. 13
 
 Il consiglio dei sanitari e il consiglio sanitario centrale
 
@@ -248,7 +246,7 @@ Negli enti ospedalieri da cui dipendono due o piu' ospedali e' istituito il cons
 
 Il consiglio dei sanitari e il consiglio sanitario centrale durano in carica cinque anni.
 
-#### Art. 14
+### Art. 14
 
 Funzioni del consiglio dei sanitari e
 
@@ -266,7 +264,7 @@ Esprime, inoltre, parere su ogni altra questione che gli viene sottoposta dal pr
 
 E' in facolta' del presidente dell'ente ospedaliero di intervenire alle adunanze del consiglio dei sanitari o del consiglio sanitario centrale delle cui convocazioni deve essergli data preventiva comunicazione.
 
-#### Art. 15
+### Art. 15
 
 Alla sorveglianza
 
@@ -276,7 +274,7 @@ A tali fini il Ministero della sanita' ha il potere di vigilanza sulla piena ris
 
 Il Ministero della sanita' esercita l'alta sorveglianza sugli altri istituti pubblici di ricovero e cura previsti dall'articolo 1, esclusi gli ospedali psichiatrici, per quanto attiene al loro funzionamento igienico-sanitario ed a tal fine puo' acquisire tutte le informazioni e svolgere le opportune indagini ed ispezioni anche attraverso i medici provinciali.
 
-#### Art. 16
+### Art. 16
 
 Vigilanza e tutela
 
@@ -286,7 +284,7 @@ Il comitato previsto dall'articolo 55 e le speciali sezioni di esso previste all
 
 Sono sottoposte al controllo di merito del comitato le deliberazioni dello statuto, quelle previste alle lettere a), b), c), d), e), g) ed i) del precedente articolo 10 e nell'ultimo comma dell'articolo 40, nonche' le deliberazioni relative a contratti di locazione di durata superiore a nove anni.
 
-#### Art. 17
+### Art. 17
 
 Sospensione e scioglimento del consiglio di amministrazione
 
@@ -296,7 +294,7 @@ Con lo stesso decreto viene nominato un commissario straordinario per la provvis
 
 Il consiglio di amministrazione deve essere ricostituito nel termine di sei mesi dalla data di notifica del decreto di scioglimento al consiglio disciolto.
 
-#### Art. 18
+### Art. 18
 
 Alta vigilanza sugli istituti ed enti ecclesiastici
 
@@ -308,7 +306,7 @@ I comitati della programmazione sono tenuti a consultare un rappresentante degli
 
 ## TITOLO III - REQUISITI E CLASSIFICAZIONE DEGLI OSPEDALI
 
-#### Art. 19
+### Art. 19
 
 Requisiti degli ospedali
 
@@ -338,7 +336,7 @@ m) sala mortuaria e di autopsia secondo le prescrizioni del regolamento di poliz
 
 In base agli accertamenti sui requisiti previsti dal presente articolo e dai successivi articoli da 20 a 25, compiuti dal medico provinciale competente per territorio, sentito il consiglio provinciale di sanita', la Giunta regionale classifica l'ospedale, attribuendogli la relativa qualifica.
 
-#### Art. 20
+### Art. 20
 
 Categorie di ospedali
 
@@ -358,7 +356,7 @@ Gli ospedali specializzati provvedono al ricovero e alla cura degli infermi di m
 
 Per le specialita' non ufficialmente riconosciute la qualifica di ospedale specializzato e' determinata con decreto del Ministro per la sanita', sentito il Consiglio superiore di sanita'.
 
-#### Art. 21
+### Art. 21
 
 Ospedali generali di zona
 
@@ -366,7 +364,7 @@ Sono ospedali generali di zona quelli dotati di distinte divisioni di medicina e
 
 Il piano regionale ospedaliero puo' prevedere in questi ospedali, in relazione alle esigenze particolari di alcune zone, sezioni di ortopedia-traumatologia.
 
-#### Art. 22
+### Art. 22
 
 Ospedali generali provinciali
 
@@ -376,7 +374,7 @@ Possono inoltre avere: servizi di recupero e rieducazione funzionale, servizi di
 
 Devono, altresi', provvedere all'assistenza dei convalescenti che puo' essere affidata anche ad ospedali viciniori.
 
-#### Art. 23
+### Art. 23
 
 Ospedali generali regionali
 
@@ -388,7 +386,7 @@ Inoltre gli ospedali regionali devono possedere distinti servizi di virologia, d
 
 Ogni Regione deve avere almeno un ospedale regionale.
 
-#### Art. 24
+### Art. 24
 
 Ospedali specializzati provinciali e regionali
 
@@ -396,7 +394,7 @@ Gli ospedali specializzati sono classificati come ospedali provinciali o regiona
 
 Gli ospedali specializzati devono, inoltre, possedere servizi di consulenza di medicina generale e chirurgia generale e ogni altro servizio previsto per le corrispondenti categorie degli ospedali generali in quanto necessari alla particolare natura dell'ospedale specializzato.
 
-#### Art. 25
+### Art. 25
 
 Ospedali per lungodegenti e per convalescenti
 
@@ -406,7 +404,7 @@ Gli ospedali per lungodegenti e per convalescenti devono, inoltre, possedere ogn
 
 ## TITOLO IV - PROGRAMMAZIONE OSPEDALIERA
 
-#### Art. 26
+### Art. 26
 
 Legge di programma ospedaliero
 
@@ -426,7 +424,7 @@ Con la predetta legge verranno altresi' indicati i mezzi finanziari dello Stato 
 
 Il disegno della legge di programma di cui ai precedenti commi e' presentato al Parlamento dal Ministro per la sanita' di concerto con i Ministri per il bilancio e la programmazione economica, per il tesoro e per la pubblica istruzione, per la parte di rispettiva competenza. Sul relativo schema di disegno di legge e' sentito il comitato nazionale per la programmazione ospedaliera di cui al successivo articolo 28.
 
-#### Art. 27
+### Art. 27
 
 Piano nazionale ospedaliero
 
@@ -444,7 +442,7 @@ Al piano nazionale ospedaliero, con decreto del Presidente della Repubblica, su 
 
 Tali varianti possono comprendere aumenti dei postiletto in misura non superiore al 15 per cento del fabbisogno stabilito per le universita'. Al finanziamento della spesa occorrente per la realizzazione di tale eccedenza, si provvede con i fondi a disposizione del Ministero della pubblica istruzione.
 
-#### Art. 28
+### Art. 28
 
 Comitato nazionale per la programmazione ospedaliera
 
@@ -468,7 +466,7 @@ Disimpegna le funzioni di segretario un funzionario della carriera direttiva amm
 
 Il comitato dura in carica cinque anni.
 
-#### Art. 29
+### Art. 29
 
 Piano regionale ospedaliero
 
@@ -490,7 +488,7 @@ Nella legge regionale devono essere indicati i mezzi finanziari per la costruzio
 
 Qualora la Regione non provveda a quanto disposto dal presente articolo il Ministro per la sanita' promuove gli atti necessari per la convocazione d'ufficio del consiglio regionale.
 
-#### Art. 30
+### Art. 30
 
 Comitato provinciale di coordinamento
 
@@ -498,7 +496,7 @@ In ogni provincia e' istituito un comitato provinciale di coordinamento nominato
 
 Il comitato ha il compito di coordinare l'attivita' ospedaliera nell'ambito della provincia in relazione anche alle attivita' in essa esercitate dagli altri presidi sanitari.
 
-#### Art. 31
+### Art. 31
 
 Finanziamento del piano regionale ospedaliero
 
@@ -506,11 +504,9 @@ Nei bilanci delle singole Regioni devono essere stanziate, in relazione ai mezzi
 
 La realizzazione delle opere indicate nel precedente comma sara' effettuata secondo le norme che saranno emanate dalla Regione.
 
-## TITOLO V - DISPOSIZIONI FINANZIARIE
+## TITOLO V - DISPOSIZIONI FINANZIARIE PER GLI ENTI OSPEDALIERI
 
-### PER GLI ENTI OSPEDALIERI
-
-#### Art. 32
+### Art. 32
 
 Retta di degenza
 
@@ -530,7 +526,7 @@ Per i ricoverati in camere speciali il consiglio di amministrazione di ciascun e
 
 Le tariffe per le prestazioni professionali nei riguardi dei ricoverati in sale speciali sono di massima quelle previste dalla tariffa minima nazionale per le prestazioni medico-chirurgiche.
 
-#### Art. 33
+### Art. 33
 
 Fondo nazionale ospedaliero
 
@@ -546,7 +542,7 @@ Al fondo previsto dal presente articolo affluiscono altresi' i proventi di donaz
 
 Il fondo nazionale ospedaliero viene inoltre annualmente incrementato a partire dal 1968 con somme stanziate con la legge ordinaria di bilancio e destinate alla concessione da parte del Ministero della sanita' di contributi diretti a fronteggiare esigenze funzionali degli enti ospedalieri in condizioni di particolari necessita' in rapporto alle finalita' di cui all'articolo 2.
 
-#### Art. 34
+### Art. 34
 
 Garanzia per l'assunzione dei mutui
 
@@ -558,13 +554,13 @@ Gli enti di previdenza sono autorizzati nei limiti del dieci per cento delle dis
 
 ## TITOLO VI - ORDINAMENTO DEI SERVIZI E DEL PERSONALE
 
-#### Art. 35
+### Art. 35
 
 Struttura interna degli ospedali
 
 Gli ospedali sono costituiti da sezioni, divisioni, servizi speciali per diagnosi e cura e servizi generali.
 
-#### Art. 36
+### Art. 36
 
 Struttura interna degli ospedali generali
 
@@ -580,7 +576,7 @@ Negli stessi ospedali le divisioni di specialita' possono comprendere anche un n
 
 I servizi speciali di diagnosi e cura forniscono prestazioni specializzate e di norma non dispongono di letti di degenza o ne hanno un numero che, comunque, non puo' essere superiore a quello previsto per le sezioni di specialita'.
 
-#### Art. 37
+### Art. 37
 
 Struttura interna degli ospedali specializzati
 
@@ -588,7 +584,7 @@ Negli ospedali specializzati le sezioni devono comprendere non meno di quindici 
 
 Negli stessi ospedali le divisioni devono comprendere non meno di trenta posti-letto e non piu' di ottanta.
 
-#### Art. 38
+### Art. 38
 
 Struttura interna per gli ospedali per lungodegenti e convalescenti
 
@@ -596,7 +592,7 @@ Negli ospedali per lungodegenti e per convalescenti le sezioni devono comprender
 
 Negli stessi ospedali le divisioni devono comprendere non meno di 80 e non piu' di 120 posti-letto.
 
-#### Art. 39
+### Art. 39
 
 Personale degli enti ospedalieri
 
@@ -616,7 +612,7 @@ Possono essere istituiti altri ruoli speciali di personale sanitario e tecnico c
 
 Il personale di assistenza religiosa e' costituito da ministri del culto cattolico, per l'assistenza religiosa agli infermi di confessione cattolica. Gli infermi di altre confessioni hanno diritto all'assistenza dei ministri dei rispettivi culti.
 
-#### Art. 40
+### Art. 40
 
 Norme delegate sull'ordinamento dei servizi degli
 
@@ -636,7 +632,7 @@ Il Governo della Repubblica, sentita una commissione parlamentare di 10 senatori
 
 Il rapporto di lavoro, per quanto riguarda il trattamento e gli istituti normativi di carattere economico, e' stabilito, previ accordi nazionali tra i sindacati e le associazioni rappresentanti gli enti ospedalieri, dai singoli enti ospedalieri con delibere soggette ai controlli di legge.
 
-#### Art. 41
+### Art. 41
 
 Principi e criteri direttivi per l'ordinamento
 
@@ -650,7 +646,7 @@ b) il rapporto numerico tra il personale sanitario e i posti-letto ispirandosi a
 
 c) l'organizzazione e ripartizione dei servizi ospedalieri, ispirandosi al principio del migliore soddisfacimento delle esigenze della cura e delle nuove funzioni medico-sociali attribuite agli ospedali ed alla necessita' di assicurare la direzione, il coordinamento ed il controllo dei servizi e di ogni altra attivita' ospedaliera.
 
-#### Art. 42
+### Art. 42
 
 Principi direttivi per lo stato giuridico del personale
 
@@ -662,7 +658,7 @@ Le norme delegate di cui all'articolo 40 concernenti l'assunzione e lo stato giu
 
 In ogni caso dovranno essere riconosciute le posizioni giuridiche ed economiche acquisite dal personale gia' in servizio.
 
-#### Art. 43
+### Art. 43
 
 Principi e criteri direttivi per lo stato giuridico ed il trattamento economico del personale sanitario medico dipendente dagli enti ospedalieri.
 
@@ -688,19 +684,19 @@ e) nel passaggio da un ospedale ad un altro, il servizio di ruolo precedentement
 
 f) ai sanitari ospedalieri eletti a cariche pubbliche si applicano le stesse norme che regolano il collocamento in aspettativa dei professori universitari.
 
-#### Art. 44
+### Art. 44
 
 Scuole ospedaliere di specializzazione
 
 Negli ospedali regionali puo' essere svolta, a cura di personale medico ospedaliero particolarmente qualificato, attivita' didattica di carattere applicativo complementare di quella universitaria nei confronti dei medici iscritti alle scuole di specializzazione delle universita', con trattamento economico del personale medico ospedaliero insegnante non inferiore a quello degli altri docenti, osservate le particolari disposizioni degli ordinamenti delle singole universita' e secondo modalita' che saranno stabilite con decreto del Ministro per la pubblica istruzione di concerto con il Ministro per la sanita', entro un anno dalla entrata in vigore della presente legge.
 
-#### Art. 45
+### Art. 45
 
 Tirocinio obbligatorio Per essere ammessi a sostenere l'esame di Stato di abilitazione all'esercizio professionale, i laureati in medicina e chirurgia devono aver compiuto un anno di tirocinio, in qualita' di interno, presso gli istituti clinici universitari o presso gli ospedali regionali o presso altri ospedali riconosciuti idonei a tal fine con decreto del Ministro per la sanita' di concerto con il Ministro per la pubblica istruzione.
 
 Per gli allievi-ufficiali medici che hanno frequentato la scuola di sanita' militare di Firenze la durata del tirocinio, limitatamente alla clinica medica ed alla clinica chirurgica, e' ridotta rispettivamente di due mesi e di un mese.
 
-#### Art. 46
+### Art. 46
 
 Posti di internato
 
@@ -710,7 +706,7 @@ Con decreto dei Ministri per la pubblica istruzione e per la sanita', i posti di
 
 Con lo stesso decreto saranno stabilite le modalita' circa l'ammissione all'internato e lo svolgimento del tirocinio.
 
-#### Art. 47
+### Art. 47
 
 Trattamento economico e certificato dell'avvenuto tirocinio
 
@@ -722,7 +718,7 @@ Il tirocinio deve essere svolto per almeno quattro mesi in medicina e per tre me
 
 Il certificato di compiuto tirocinio sara' rilasciato dal rettore dell'universita' competente, sentiti i direttori degli istituti clinici universitari o dal presidente del consiglio di amministrazione dell'ente ospedaliero presso il cui ospedale viene compiuto il tirocinio, su proposta del direttore sanitario, sentiti i primari competenti.
 
-#### Art. 48
+### Art. 48
 
 Copertura delle spese
 
@@ -732,13 +728,13 @@ Le spese per il pagamento degli assegni possono essere sostenute fino ad un mass
 
 Per il pagamento degli assegni agli interni degli istituti clinici, direttamente gestiti dalle universita', il Ministro per la pubblica istruzione, con suo decreto, provvede annualmente a ripartire tra le universita' le somme occorrenti alla copertura delle spese non coperte col fondo ospedaliero, prelevandole dal fondo destinato a borse di studio, di cui all'articolo 32 della legge 31 ottobre 1966, n. 942, sino ad un importo massimo del 10 per cento del fondo stesso.
 
-#### Art. 49
+### Art. 49
 
 Sottocommissioni esami di Stato di abilitazione
 
 I primari degli ospedali regionali e degli ospedali ritenuti idonei al tirocinio saranno chiamati a far parte delle sottocommissioni di esami di Stato di abilitazione all'esercizio della professione di medico chirurgico.
 
-#### Art. 50
+### Art. 50
 
 Convenzioni tra universita' ed enti ospedalieri
 
@@ -746,7 +742,7 @@ Qualora, in ordine alla stipula di convenzioni tra universita' ed enti ospedalie
 
 ## TITOLO VII - CASE DI CURA PRIVATE
 
-#### Art. 51
+### Art. 51
 
 Requisiti da determinarsi con decreto del Ministro per la sanita'
 
@@ -768,7 +764,7 @@ AGGIORNAMENTO (5)
 
 La L. 23 dicembre 1978, n. 833 ha disposto (con l'art. 43, comma 5) che "Sino alla emanazione della legge regionale di cui al primo comma rimangono in vigore gli articoli 51, 52 e 53, primo e secondo comma, della legge 12 febbraio 1968, n. 132".
 
-#### Art. 52
+### Art. 52
 
 Autorizzazione all'apertura di case di cura private - Infrazioni
 
@@ -790,7 +786,7 @@ AGGIORNAMENTO (5)
 
 La L. 23 dicembre 1978, n. 833 ha disposto (con l'art. 43, comma 5) che "Sino alla emanazione della legge regionale di cui al primo comma rimangono in vigore gli articoli 51, 52 e 53, primo e secondo comma, della legge 12 febbraio 1968, n. 132".
 
-#### Art. 53
+### Art. 53
 
 Direttore sanitario responsabile - Convenzioni
 
@@ -810,19 +806,19 @@ La L. 23 dicembre 1978, n. 833 ha disposto (con l'art. 43, comma 5) che "Sino al
 
 ## TITOLO VIII - DISPOSIZIONI FINALI E TRANSITORIE
 
-#### Art. 54
+### Art. 54
 
 Istituzione, riconoscimento e concentrazione di enti ospedalieri e altre norme transitorie
 
 Fino a quando non saranno costituite le Regioni a statuto ordinario e nei territori di esse, i provvedimenti di competenza del Presidente della Regione previsti negli articoli 4, 5, 6 e 17 sono adottati dal Presidente della Repubblica, su proposta del Ministro per la sanita' di concerto col Ministro per l'interno per i provvedimenti di cui agli articoli 4, 5 e 17 e, relativamente ai provvedimenti di cui all'articolo 6, sulla base delle indicazioni contenute nei piani regionali ospedalieri in armonia col piano nazionale ospedaliero transitorio; l'atto di approvazione di cui all'articolo 9, decimo comma, e' di competenza del Ministro per la sanita'; l'atto di classificazione degli ospedali previsto dall'articolo 19 viene adottato dal medico provinciale, sentito il Consiglio provinciale di sanita'; e il rappresentante della Regione nel collegio dei revisori previsto dall'articolo 12 e' sostituito da un rappresentante della provincia, ove ha sede l'ente ospedaliero.
 
-#### Art. 55
+### Art. 55
 
 Norme sull'amministrazione degli enti ospedalieri
 
 Entro due anni dalla data di entrata in vigore della presente legge, il Governo della Repubblica, sentita una apposita Commissione parlamentare composta da dieci deputati e dieci senatori, e' delegato a emanare con decreto avente valore di legge formale le norme fondamentali sull'amministrazione e contabilita' dell'ente ospedaliero integrando e coordinando le disposizioni contenute nella legge 17 luglio 1890, n. 6972, e nel relativo regolamento di esecuzione di cui al regio decreto 5 febbraio 1891, n. 99, e successive modificazioni e quelle contenute nel regio decreto 3 marzo 1934, n. 383, con le norme contenute nella presente legge, avendo di mira il conseguimento di un'effettiva autonomia nonche' la salvaguardia delle competenze conseguenti e dei rapporti tra gli istituendi enti ospedalieri e lo Stato, le Regioni, le province e i comuni, lasciando, comunque, impregiudicata la competenza legislativa dell'ente regione.
 
-#### Art. 56
+### Art. 56
 
 Amministrazione dell'ente ospedaliero
 
@@ -834,19 +830,19 @@ Esercita la funzione di segretario un funzionario della carriera direttiva ammin
 
 Per le Regioni non ancora costituite i sei membri di cui al punto 1) del primo comma dell'articolo 9 sono designati dal Consiglio provinciale della provincia dove ha sede l'ente ospedaliero.
 
-#### Art. 57
+### Art. 57
 
 Gestione finanziaria delle attivita' diverse da quella ospedaliera
 
 Per il periodo intercorrente tra l'entrata in vigore della presente legge e la nomina del commissario per la provvisoria gestione di cui al comma sesto dell'articolo 5, gli enti pubblici contemplati nel secondo comma dell'articolo 3 devono tenere una distinta gestione per le attivita' diverse da quelle ospedaliere, alla quale non possono essere destinati i mezzi finanziari previsti nel titolo V della presente legge.
 
-#### Art. 58
+### Art. 58
 
 Finanziamento per le costruzioni ed attrezzature ospedaliere
 
 Fino a quando non saranno istituite le Regioni a statuto ordinario, il Ministro per i lavori pubblici di concerto con il Ministro per la sanita', sulla base delle previsioni contenute nel piano nazionale ospedaliero e nel piano regionale ospedaliero, concede agli enti ospedalieri i contributi previsti dalla legge 3 agosto 1949, numero 589, e dalla legge 30 maggio 1965, n. 574, nei limiti da questa stabiliti.
 
-#### Art. 59
+### Art. 59
 
 Trasferimento del personale dipendente dagli enti pubblici al nuovo ente ospedaliero
 
@@ -860,13 +856,13 @@ AGGIORNAMENTO (2)
 
 La L. 14 giugno 1974, n. 303 ha disposto (con l'art. 5, comma 1) che "Salvo quanto gia' disposto in materia dai singoli enti di provenienza in forza dei rispettivi ordinamenti, il personale a rapporto d'impiego delle istituzioni sanitarie dell'INPS costituite in enti ospedalieri ha facolta' di chiedere di rimanere alle dipendenze dell'INPS medesimo in deroga all'articolo 59 della legge 12 febbraio 1968, n. 132, entro centoventi giorni dalla data di entrata in vigore della presente legge o, se successiva, dalla data di pubblicazione del decreto di costituzione degli enti ospedalieri".
 
-#### Art. 60
+### Art. 60
 
 Composizione transitoria del comitato nazionale di programmazione ospedaliera
 
 Per le Regioni non ancora costituite i membri di cui alla lettera a) dell'articolo 28 sono sostituiti dai presidenti dei comitati regionali per la programmazione ospedaliera di cui all'articolo 62.
 
-#### Art. 61
+### Art. 61
 
 Piano nazionale ospedaliero transitorio
 
@@ -876,7 +872,7 @@ Il piano nazionale ospedaliero transitorio e' elaborato, nel quadro della legge 
 
 Il piano nazionale ospedaliero transitorio stabilisce altresi' i criteri per la ripartizione nel territorio delle Regioni a statuto speciale dei mezzi finanziari dello Stato da destinare agli interventi per la costruzione di nuovi ospedali, per l'ampliamento, la trasformazione e l'ammodernamento di quelli esistenti e per l'acquisto delle relative attrezzature di primo impianto, ad integrazione degli interventi delle Regioni nelle medesime attivita'.
 
-#### Art. 62
+### Art. 62
 
 Comitato regionale per la programmazione ospedaliera
 
@@ -924,7 +920,7 @@ Il comitato elegge nel proprio seno il presidente.
 
 Il comitato viene nominato, entro 40 giorni dall'entrata in vigore della presente legge, con decreto del Ministro per la sanita' e dura in carica 4 anni.
 
-#### Art. 63
+### Art. 63
 
 Norme transitorie riguardanti il tirocinio
 
@@ -932,13 +928,13 @@ Sono abrogate le norme relative al tirocinio di pratica semestrale di cui alla t
 
 Le disposizioni della presente legge non si applicano a coloro che abbiano gia' compiuto il tirocinio di pratica semestrale in base alle norme della tabella XVIII del regio decreto 30 settembre 1938, n. 1652, o che conseguiranno la laurea in medicina e chirurgia entro l'anno accademico 1968-1969. Questi ultimi, per altro, possono essere ammessi, a domanda, a compiere il tirocinio secondo le norme della presente legge.
 
-#### Art. 64
+### Art. 64
 
 Norme transitorie riguardanti i sanitari non di ruolo
 
 Le norme delegate di cui agli articoli 40 e 43 dovranno prendere in adeguata considerazione, in base alla loro particolare natura, i servizi prestati dagli aiuti e dagli assistenti non di ruolo, ospedalieri ed universitari, attualmente in servizio sia di ruolo sia straordinario, volontario e incaricato, ai fini della ammissione agli esami di idoneita' ed ai fini della valutazione come titolo nei concorsi, che saranno banditi entro tre anni dalla data di entrata in vigore delle norme delegate.
 
-#### Art. 65
+### Art. 65
 
 Trasformazione degli istituti pubblici di ricovero e cura
 
@@ -948,35 +944,35 @@ Gli istituti di ricovero e cura e le infermerie, per i quali non venga ravvisata
 
 Gli enti ospedalieri di cui al presente articolo sono equiparati, ai fini della costituzione del consiglio di amministrazione, agli enti ospedalieri comprendenti ospedali di zona.
 
-#### Art. 66
+### Art. 66
 
 Estensione delle disposizioni sul mantenimento in servizio previsto dalla legge 10 maggio 1964, n. 336
 
 Le disposizioni di cui all'articolo 6 della legge 10 maggio 1964, n. 336, relative al mantenimento in servizio fino al compimento del 70° anno di eta' dei sovrintendenti e direttori sanitari, dei direttori di farmacia e dei primari ospedalieri, si applicano anche nei confronti del predetto personale che sia stato successivamente trasferito da un ospedale ad altro di pari o superiore categoria.
 
-#### Art. 67
+### Art. 67
 
 Regioni a statuto speciale
 
 Le Regioni a statuto speciale, ad eccezione di quelle che hanno in materia sanitaria potesta' legislativa primaria, devono adeguare la propria legislazione nella materia predetta ai principi stabiliti dalla presente legge e dalla legge di programmazione di cui al precedente articolo 26.
 
-#### Art. 68
+### Art. 68
 
 Durata in carica dei consigli di amministrazione esistenti
 
 Fino al momento dell'insediamento dei nuovi consigli di amministrazione degli enti ospedalieri, restano in carica i consigli di amministrazione esistenti all'entrata in vigore della presente legge.
 
-#### Art. 69
+### Art. 69
 
 Pio Istituto di S. Spirito e ospedali riuniti di Roma Al Pio Istituto di S. Spirito ed ospedali riuniti di Roma si applicano tutte le disposizioni previste dalla presente legge. Peraltro, sino alla costituzione delle Regioni a statuto ordinario, continuano ad aver vigore le attuali norme relative agli organi di vigilanza e di tutela, alle modalita' di esercizio del controllo e agli atti sottoposti al controllo.
 
-#### Art. 70
+### Art. 70
 
 Disposizione finanziaria
 
 ((Le somme di cui all'articolo 33 assegnate negli anni 1967, 1968 e 1969, che non siano state impegnate nei rispettivi esercizi di competenza, potranno essere utilizzate anche in quelli successivi e, comunque, non oltre l'anno 1970)).
 
-#### Art. 71
+### Art. 71
 
 Abrogazione di norme incompatibili
 

@@ -38,11 +38,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Principi generali
 
-### Principi generali
-
-##### Art. 1
+### Art. 1
 
 Definizioni
 
@@ -86,7 +84,7 @@ AGGIORNAMENTO (4)
 
 La Corte Costituzionale, con sentenza 5 marzo - 4 giugno 2024, n. 98 (in G.U. 1ª s.s. 05/06/2024, n. 23), ha dichiarato "l'illegittimita' costituzionale degli artt. 1, comma 2, lettera f), e 7, comma 2, lettera d), del decreto legislativo 8 aprile 2013, n. 39 (Disposizioni in materia di inconferibilita' e incompatibilita' di incarichi presso le pubbliche amministrazioni e presso gli enti privati in controllo pubblico, a norma dell'articolo 1, commi 49 e 50, della legge 6 novembre 2012, n. 190), nella parte in cui non consentono di conferire l'incarico di amministratore di ente di diritto privato - che si trovi sottoposto a controllo pubblico da parte di una provincia, di un comune con popolazione superiore a quindicimila abitanti o di una forma associativa tra comuni avente la medesima popolazione - in favore di coloro che, nell'anno precedente, abbiano ricoperto la carica di presidente o amministratore delegato di enti di diritto privato controllati da amministrazioni locali (provincia, comune o loro forme associative in ambito regionale)".
 
-##### Art. 2
+### Art. 2
 
 Ambito di applicazioni
 
@@ -96,11 +94,9 @@ Ambito di applicazioni
 
 2-bis. ((Le cause di inconferibilita' di cui all'articolo 7, comma 1, lettera b), del presente decreto si applicano esclusivamente agli incarichi di cui all'articolo 19, comma 6, del decreto legislativo 30 marzo 2001, n. 165, e all'articolo 110, comma 1, del testo unico delle leggi sull'ordinamento degli enti locali, di cui al decreto legislativo 18 agosto 2000, n. 267)).
 
-## Capo II
+## Capo II - Inconferibilita' di incarichi in caso di condanna per reati contro la pubblica amministrazione
 
-### Inconferibilita' di incarichi in caso di condanna per reati contro la - pubblica amministrazione
-
-##### Art. 3
+### Art. 3
 
 Inconferibilita' di incarichi in caso di condanna per reati contro la pubblica amministrazione
 
@@ -128,11 +124,9 @@ e) gli incarichi di direttore generale, direttore sanitario e direttore amminist
 
 7\. Agli effetti della presente disposizione, la sentenza di applicazione della pena ai sensi dell'art. 444 c.p.p., e' equiparata alla sentenza di condanna.
 
-## Capo III
+## Capo III - Inconferibilita' di incarichi a soggetti provenienti da enti di diritto privato regolati o finanziati dalle pubbliche amministrazioni
 
-### Inconferibilita' di incarichi a soggetti provenienti da enti di - diritto privato regolati o finanziati dalle pubbliche amministrazioni
-
-##### Art. 4
+### Art. 4
 
 Inconferibilita' di incarichi nelle amministrazioni statali, regionali e locali a soggetti provenienti da enti di diritto privato regolati o finanziati
 
@@ -148,17 +142,15 @@ c) gli incarichi dirigenziali esterni, comunque denominati, nelle pubbliche ammi
 
 1-ter. I presidi organizzativi di cui al comma 1-bis si applicano anche ai componenti dell'organo collegiale delle autorita' amministrative indipendenti)).
 
-##### Art. 5
+### Art. 5
 
 Inconferibilita' di incarichi di direzione nelle Aziende sanitarie locali a soggetti provenienti da enti di diritto privato regolati o finanziati
 
 1\. Gli incarichi di direttore generale, direttore sanitario e direttore amministrativo nelle aziende sanitarie locali non possono essere conferiti a coloro che, nei due anni precedenti, abbiano svolto incarichi e ricoperto cariche in enti di diritto privato regolati o finanziati dal servizio sanitario regionale.
 
-## Capo IV
+## Capo IV - Inconferibilita' di incarichi a componenti di organi di indirizzo politico
 
-### Inconferibilita' di incarichi a componenti di organi di indirizzo - politico
-
-##### Art. 6
+### Art. 6
 
 Inconferibilita' di incarichi a componenti di organo politico di livello nazionale
 
@@ -172,11 +164,11 @@ Inconferibilita' di incarichi a componenti di organo politico di livello naziona
 
 > La legge 20 luglio 2004, n. 215 (Norme in materia di risoluzione dei conflitti di interessi), e' pubblicato nella Gazzetta Ufficiale 18 agosto 2004, n. 193.
 
-##### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DALLA L. 8 AGOSTO 2025, N. 122))
 
-##### Art. 8
+### Art. 8
 
 Inconferibilita' di incarichi di direzione nelle Aziende sanitarie locali
 
@@ -190,13 +182,9 @@ Inconferibilita' di incarichi di direzione nelle Aziende sanitarie locali
 
 5\. Gli incarichi di direttore generale, direttore sanitario e direttore amministrativo nelle aziende sanitarie locali non possono essere conferiti a coloro che, nei due anni precedenti, abbiano fatto parte della giunta o del consiglio di una provincia, di un comune con popolazione superiore ai 15.000 o di una forma associativa tra comuni avente la medesima popolazione, il cui territorio e' compreso nel territorio della ASL.
 
-## Capo V
+## Capo V - Incompatibilita' tra incarichi nelle pubbliche amministrazioni e negli enti privati in controllo pubblico e cariche in enti di diritto privato regolati o finanziati dalle pubbliche amministrazioni nonche' lo svolgimento di attivita' professionale
 
-### Incompatibilita' tra incarichi nelle pubbliche amministrazioni e - negli enti privati in controllo pubblico e cariche in enti di diritto
-
-#### privato regolati o finanziati dalle pubbliche amministrazioni nonche' - lo svolgimento di attivita' professionale
-
-##### Art. 9
+### Art. 9
 
 Incompatibilita' tra incarichi e cariche in enti di diritto privato regolati o finanziati nonche' tra gli stessi incarichi e le attivita' professionali
 
@@ -204,7 +192,7 @@ Incompatibilita' tra incarichi e cariche in enti di diritto privato regolati o f
 
 2\. Gli incarichi amministrativi di vertice e gli incarichi dirigenziali, comunque denominati, nelle pubbliche amministrazioni, gli incarichi di amministratore negli enti pubblici e di presidente e amministratore delegato negli enti di diritto privato in controllo pubblico sono incompatibili con lo svolgimento in proprio, da parte del soggetto incaricato, di un'attivita' professionale, se questa e' regolata, finanziata o comunque retribuita dall'amministrazione o ente che conferisce l'incarico.
 
-##### Art. 10
+### Art. 10
 
 Incompatibilita' tra le cariche direttive nelle aziende sanitarie locali, le cariche in enti di diritto privato regolati o finanziati e lo svolgimento di attivita' professionali
 
@@ -216,13 +204,9 @@ b) con lo svolgimento in proprio, da parte del soggetto incaricato, di attivita'
 
 2\. L'incompatibilita' sussiste altresi' allorche' gli incarichi, le cariche e le attivita' professionali indicate nel presente articolo siano assunte o mantenute dal coniuge e dal parente o affine entro il secondo grado.
 
-## Capo VI
+## Capo VI - Incompatibilita' tra incarichi nelle pubbliche amministrazioni e negli enti privati in controllo pubblico e cariche di componenti di organi di indirizzo politico
 
-### Incompatibilita' tra incarichi nelle pubbliche amministrazioni e - negli enti privati in controllo pubblico e cariche di componenti di
-
-#### organi di indirizzo politico
-
-##### Art. 11
+### Art. 11
 
 Incompatibilita' tra incarichi amministrativi di vertice e di amministratore di ente pubblico e cariche di componenti degli organi di indirizzo nelle amministrazioni statali, regionali e locali
 
@@ -248,7 +232,7 @@ c) con la carica di componente di organi di indirizzo negli enti di diritto priv
 
 > Per il riferimento al citato articolo 11 della legge 23 agosto 1988, n. 400, vedasi nelle note all'articolo 1.
 
-##### Art. 12
+### Art. 12
 
 Incompatibilita' tra incarichi dirigenziali interni e esterni e cariche di componenti degli organi di indirizzo nelle amministrazioni statali, regionali e locali
 
@@ -274,7 +258,7 @@ c) con la carica di componente di organi di indirizzo negli enti di diritto priv
 
 4-bis. ((Le incompatibilita' di cui al presente articolo non si applicano ai dipendenti di ruolo di livello dirigenziale della stessa amministrazione o dello stesso ente pubblico o ente di diritto privato in controllo pubblico che conferisce l'incarico)).
 
-##### Art. 13
+### Art. 13
 
 Incompatibilita' tra incarichi di amministratore di ente di diritto privato in controllo pubblico e cariche di componenti degli organi di indirizzo politico nelle amministrazioni statali, regionali e locali
 
@@ -294,7 +278,7 @@ c) con la carica di presidente e amministratore delegato di enti di diritto priv
 
 > Per il riferimento al citato articolo 11 della legge 23 agosto 1988, n. 400, vedasi nelle note all'articolo 1.
 
-##### Art. 14
+### Art. 14
 
 Incompatibilita' tra incarichi di direzione nelle Aziende sanitarie locali e cariche di componenti degli organi di indirizzo politico nelle amministrazioni statali, regionali e locali
 
@@ -312,11 +296,9 @@ c) con la carica di presidente e amministratore delegato di enti di diritto priv
 
 > Per il riferimento al citato articolo 11 della legge 23 agosto 1988, n. 400, vedasi nelle note all'articolo 1.
 
-## Capo VII
+## Capo VII - Vigilanza e sanzioni
 
-### Vigilanza e sanzioni
-
-##### Art. 15
+### Art. 15
 
 Vigilanza sul rispetto delle disposizioni in materia di inconferibilita' e incompatibilita' nelle pubbliche amministrazioni e negli enti di diritto privato in controllo pubblico
 
@@ -330,7 +312,7 @@ Vigilanza sul rispetto delle disposizioni in materia di inconferibilita' e incom
 
 > Per il riferimento alla citata legge 20 luglio 2004, n. 215, vedasi nelle note all'articolo 6.
 
-##### Art. 16
+### Art. 16
 
 Vigilanza dell'Autorita' nazionale anticorruzione
 
@@ -340,13 +322,13 @@ Vigilanza dell'Autorita' nazionale anticorruzione
 
 ((3. L'Autorita' nazionale anticorruzione esprime pareri obbligatori sulle direttive e le circolari ministeriali concernenti l'interpretazione delle disposizioni del presente decreto e la loro applicazione alle diverse fattispecie di inconferibilita' degli incarichi e di incompatibilita')).
 
-##### Art. 17
+### Art. 17
 
 Nullita' degli incarichi conferiti in violazione delle disposizioni del presente decreto
 
 1\. Gli atti di conferimento di incarichi adottati in violazione delle disposizioni del presente decreto e i relativi contratti sono nulli.
 
-##### Art. 18
+### Art. 18
 
 Sanzioni
 
@@ -380,7 +362,7 @@ Sanzioni
 
 > 6\. Il Governo puo' promuovere la stipula di intese in sede di Conferenza Stato-Regioni o di Conferenza unificata, dirette a favorire l'armonizzazione delle rispettive legislazioni o il raggiungimento di posizioni unitarie o il conseguimento di obiettivi comuni; in tale caso e' esclusa l'applicazione dei commi 3 e 4 dell'articolo 3 del decreto legislativo 28 agosto 1997, n. 281. Nelle materie di cui all'articolo 117, terzo e quarto comma, della Costituzione non possono essere adottati gli atti di indirizzo e di coordinamento di cui all'articolo 8 della legge 15 marzo 1997, n. 59, e all'articolo 4 del decreto legislativo 31 marzo 1998, n. 112.».
 
-##### Art. 19
+### Art. 19
 
 Decadenza in caso di incompatibilita'
 
@@ -388,11 +370,9 @@ Decadenza in caso di incompatibilita'
 
 2\. Restano ferme le disposizioni che prevedono il collocamento in aspettativa dei dipendenti delle pubbliche amministrazioni in caso di incompatibilita'.
 
-## Capo VIII
+## Capo VIII - Norme finali e transitorie
 
-### Norme finali e transitorie
-
-##### Art. 20
+### Art. 20
 
 Dichiarazione sulla insussistenza di cause di inconferibilita' o incompatibilita'
 
@@ -406,7 +386,7 @@ Dichiarazione sulla insussistenza di cause di inconferibilita' o incompatibilita
 
 5\. Ferma restando ogni altra responsabilita', la dichiarazione mendace, accertata dalla stessa amministrazione, nel rispetto del diritto di difesa e del contraddittorio dell'interessato, comporta la inconferibilita' di qualsivoglia incarico di cui al presente decreto per un periodo di 5 anni.
 
-##### Art. 21
+### Art. 21
 
 Applicazione dell'articolo 53, comma 16-ter,
 
@@ -422,7 +402,7 @@ del decreto legislativo n. 165 del 2001
 
 > 16-ter. I dipendenti che, negli ultimi tre anni di servizio, hanno esercitato poteri autoritativi o negoziali per conto delle pubbliche amministrazioni di cui all'articolo 1, comma 2, non possono svolgere, nei tre anni successivi alla cessazione del rapporto di pubblico impiego, attivita' lavorativa o professionale presso i soggetti privati destinatari dell'attivita' della pubblica amministrazione svolta attraverso i medesimi poteri. I contratti conclusi e gli incarichi conferiti in violazione di quanto previsto dal presente comma sono nulli ed e' fatto divieto ai soggetti privati che li hanno conclusi o conferiti di contrattare con le pubbliche amministrazioni per i successivi tre anni con obbligo di restituzione dei compensi eventualmente percepiti e accertati ad essi riferiti.».
 
-##### Art. 22
+### Art. 22
 
 Prevalenza su diverse disposizioni in materia di inconferibilita' e incompatibilita'
 
@@ -444,7 +424,7 @@ Prevalenza su diverse disposizioni in materia di inconferibilita' e incompatibil
 
 > Per il riferimento alla citata legge 20 luglio 2004, n. 215, vedasi nelle note all'articolo 6.
 
-##### Art. 23
+### Art. 23
 
 Abrogazioni
 

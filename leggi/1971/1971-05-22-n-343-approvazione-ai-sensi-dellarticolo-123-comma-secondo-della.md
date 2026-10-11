@@ -42,7 +42,7 @@ COLOMBO
 
 Visto, il Guardasigilli: COLOMBO
 
-## TITOLO I - LA REGIONE TOSCANA
+### TITOLO I - LA REGIONE TOSCANA
 
 ALLEGATO
 
@@ -124,11 +124,9 @@ La Regione, allo scopo di garantire il carattere democratico della programmazion
 
 La Regione adegua la propria organizzazione alle esigenze della programmazione.
 
-## TITOLO II - IL CONSIGLIO REGIONALE
+### TITOLO II - IL CONSIGLIO REGIONALE
 
-### Capo I
-
-#### L'ORGANIZZAZIONE
+#### Capo I - L'ORGANIZZAZIONE
 
 ##### Art. 6
 
@@ -272,7 +270,7 @@ Il Consiglio dispone di propri uffici per garantire ai suoi organi, ai gruppi ed
 
 L'ufficio di presidenza assicura che gli uffici del Consiglio prestino assistenza a tutti i titolari dei poteri di iniziativa.
 
-## Capo II - LE FUNZIONI E IL PROCEDIMENTO
+#### Capo II - LE FUNZIONI E IL PROCEDIMENTO
 
 ##### Art. 21
 
@@ -432,7 +430,7 @@ Il Consiglio, a maggioranza dei Consiglieri assegnati alla Regione, delibera di 
 
 La proposta e' iscritta all'ordine del giorno della prima seduta successiva alla data della presentazione.
 
-## TITOLO III - LA GIUNTA E IL SUO PRESIDENTE
+### TITOLO III - LA GIUNTA E IL SUO PRESIDENTE
 
 ##### art. 36
 
@@ -580,7 +578,7 @@ f) designa uno dei componenti la Giunta a sostituirlo in caso di impedimento, co
 
 g) esercita le altre attribuzioni espressamente conferitegli dalla Costituzione, dallo Statuto e dalle leggi regionali.
 
-## TITOLO IV - PROGRAMMAZIONE, FINANZE, DEMANIO E PATRIMONIO REGIONALE
+### TITOLO IV - PROGRAMMAZIONE, FINANZE, DEMANIO E PATRIMONIO REGIONALE
 
 ##### Art. 48
 
@@ -652,7 +650,7 @@ Tributi regionali
 
 La Regione istituisce e regola con legge i tributi propri ad essa attribuiti a norma dell'articolo 119 della Costituzione.
 
-## TITOLO V - L'AMMINISTRAZIONE REGIONALE
+### TITOLO V - L'AMMINISTRAZIONE REGIONALE
 
 ##### Art. 57
 
@@ -716,7 +714,7 @@ La legge regionale puo' prevedere che, per compiti speciali richiedenti particol
 
 Il personale regionale non puo' valersi del segreto d'ufficio nei confronti dei Consiglieri regionali.
 
-## TITOLO VI - GLI ENTI LOCALI
+### TITOLO VI - GLI ENTI LOCALI
 
 ##### Art. 63
 
@@ -790,7 +788,9 @@ La competenza dell'organo regionale e delle sue sezioni decentrate e' stabilita 
 
 La legge regionale determina le modalita' del controllo e i rapporti dell'organo di controllo con il Consiglio e la Giunta.
 
-## TITOLO VII - PARTECIPAZIONE, INIZIATIVA E REFERENDUM
+### TITOLO VII
+
+## PARTECIPAZIONE, INIZIATIVA E REFERENDUM
 
 ##### Art. 71
 
@@ -890,7 +890,7 @@ Il giudizio sull'ammissibilita' dell'iniziativa popolare ai sensi dell'articolo 
 
 L'iniziativa e il referendum sono ammessi se il Consiglio entro trenta giorni non ne dichiara l'inammissibilita' mediante mozione motivata approvata a maggioranza dei Consiglieri assegnati alla Regione.
 
-## TITOLO VIII - REVISIONE DELLO STATUTO
+### TITOLO VIII - REVISIONE DELLO STATUTO
 
 ##### Art. 83
 

@@ -26,11 +26,9 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I - COORDINAMENTO E PROGRAMMAZIONE
+## CAPO I - COORDINAMENTO E PROGRAMMAZIONE DEGLI INTERVENTI
 
-### DEGLI INTERVENTI
-
-#### Art. 1 - Interventi aggiuntivi per la Calabria
+### Art. 1 - Interventi aggiuntivi per la Calabria
 
 Al fine di contribuire al raggiungimento di un equilibrato sviluppo economico e sociale della Calabria, il Governo della Repubblica e' autorizzato ad attuare nella regione, per il periodo 1 luglio 1967-31 dicembre 1980, interventi organici diretti in particolare alla sistemazione idrogeologica del suolo e all'istituzione di parchi nazionali, in armonia con il programma economico nazionale.
 
@@ -40,7 +38,7 @@ Gli interventi si intendono in aggiunta e ad integrazione di tutti gli altri, si
 
 Le direttive di cui al secondo comma dovranno assicurare, altresi', il coordinamento degli interventi previsti dalla presente legge con gli altri interventi pubblici derivanti dalle leggi vigenti, anche al fine di garantire l'aggiuntivita' di cui al terzo comma del presente articolo.
 
-#### Art. 2 - Contenuto degli interventi
+### Art. 2 - Contenuto degli interventi
 
 Gli interventi aggiuntivi e integrativi per la Calabria comprendono:
 
@@ -64,11 +62,11 @@ Agli effetti dell'attuazione degli interventi di cui alla lettera a) del primo c
 
 Le opere pubbliche da realizzare in Calabria ai sensi della presente legge, sono a totale carico dello Stato e gravano sui fondi di cui all'articolo 18.
 
-#### Art. 3 - Attuazione degli interventi
+### Art. 3 - Attuazione degli interventi
 
 La cassa per il Mezzogiorno ed il comitato tecnico di coordinamento di cui all'articolo 5 provvedono, nell'ambito delle rispettive competenze, all'attuazione della presente legge.
 
-#### Art. 4 - Programmi degli interventi e relazione al Parlamento
+### Art. 4 - Programmi degli interventi e relazione al Parlamento
 
 I programmi degli interventi da eseguirsi dalla cassa per il Mezzogiorno, in attuazione della presente legge e delle direttive del piano di coordinamento di cui all'articolo 1, sono predisposti dalla cassa stessa, di intesa con il comitato tecnico di coordinamento di cui all'articolo 5 e sono approvati dal Ministro per gli interventi straordinari nel Mezzogiorno e nelle zone depresse del centro-nord, sentito il comitato dei ministri per il Mezzogiorno.
 
@@ -76,7 +74,7 @@ La cassa presenta entro il 15 febbraio di ciascun anno al Ministro per gli inter
 
 In sede di prima applicazione della presente legge, sia i programmi che la relazione si riferiscono al periodo 10 luglio 1967-31 dicembre 1968.
 
-#### Art. 5 - Disposizioni concernenti il comitato tecnico di coordinamento
+### Art. 5 - Disposizioni concernenti il comitato tecnico di coordinamento
 
 Al coordinato raggiungimento dei fini di cui alla presente legge, provvede, in sostituzione del comitato costituito ai sensi dell'articolo 6 della legge 26 novembre 1955, n. 1177, un comitato tecnico di coordinamento costituito presso il provveditorato regionale alle opere pubbliche e composto dal presidente del comitato regionale per la programmazione economica, dai presidenti delle amministrazioni provinciali e delle Camere di commercio, industria, artigianato ed agricoltura di Catanzaro, Reggio Calabria e Cosenza, dal provveditore alle opere pubbliche, dal direttore della ragioneria regionale dello Stato, dall'ispettore compartimentale agrario, dal capo dell'ispettorato per le foreste della Calabria, dal presidente dell'Opera Sila, ente di sviluppo in Calabria, e dal rappresentante della circoscrizione calabrese dell'associazione nazionale delle bonifiche, nonche' da tre docenti universitari di materie pertinenti ai settori idraulico, geologico e forestale nominati con decreto del Ministro per gli interventi straordinari nel Mezzogiorno e nelle zone depresse del centro-nord, di concerto con i Ministri per la pubblica istruzione e per i lavori pubblici.
 
@@ -108,7 +106,7 @@ Alle spese necessarie per il funzionamento del comitato tecnico di coordinamento
 
 Con la medesima procedura si provvede all'approvazione del rendiconto consuntivo.
 
-#### Art. 6 - Coordinamento degli interventi nei bacini
+### Art. 6 - Coordinamento degli interventi nei bacini
 
 Per la coordinata programmazione ed esecuzione degli interventi da effettuare, ai sensi della presente legge, nell'ambito di ogni singolo bacino sia nella parte montana che in quella valliva, e' istituita, presso il comitato di coordinamento di cui all'articolo 5, una commissione tecnica permanente composta da funzionari designati dai Ministeri dei lavori pubblici, dell'agricoltura e delle foreste, dalla Cassa per il Mezzogiorno e presieduta dal presidente del comitato di coordinamento medesimo, con i seguenti compiti:
 
@@ -118,11 +116,9 @@ b) controllare che la realizzazione dei progetti esecutivi, di competenza delle 
 
 c) controllare lo svolgimento delle opere di manutenzione, affinche' queste siano effettuate in modo coordinato ed efficace da parte delle singole amministrazioni ed enti pubblici, nell'ambito delle rispettive competenze.
 
-## CAPO II - NORME CONCERNENTI LA REALIZZAZIONE
+## CAPO II - NORME CONCERNENTI LA REALIZZAZIONE DEGLI INTERVENTI
 
-### DEGLI INTERVENTI
-
-#### Art. 7
+### Art. 7
 
 (Agevolazioni per i comprensori di bonifica
 
@@ -148,7 +144,7 @@ Soltanto gli oneri per la elevazione dei contributi nelle misure fissate al seco
 
 Ai terreni oggetto di attivita' forestali di rimboschimento, di miglioramento e di ricostituzione boschiva, effettuate volontariamente dai privati interessati, si applicano le agevolazioni fiscali previste dall'articolo 33 della citata legge 27 ottobre 1966, n. 910.
 
-#### Art. 8 - Trasferimento degli abitati
+### Art. 8 - Trasferimento degli abitati
 
 Con decreto del Ministro per i lavori pubblici, di concerto con i Ministri per l'interno e per il tesoro, saranno determinati gli abitati non compresi nelle tabelle C della legge 25 giugno 1906, n. 255, e D della legge 9 luglio 1908, n. 445, e nelle leggi successive, che siano da consolidare o da trasferire, ivi compresi gli abitati da trasferire ai sensi del quarto comma dell'articolo 2.
 
@@ -168,21 +164,21 @@ Il Ministro per i lavori pubblici di concerto con il Ministro per gli interventi
 
 Nella nuova sede degli abitati da trasferire e' autorizzata anche la costruzione dell'acquedotto, delle fognature, delle strade interne, delle chiese parrocchiali e relative canoniche, delle scuole e degli impianti sportivi connessi, dell'impianto per l'illuminazione elettrica e del cimitero a carico dei fondi previsti dall'articolo 18.
 
-#### Art. 9 - Approvazione dei progetti esecutivi delle opere
+### Art. 9 - Approvazione dei progetti esecutivi delle opere
 
 I progetti esecutivi delle opere da eseguirsi ai sensi della presente legge, muniti del parere del comitato tecnico di coordinamento di cui all'articolo 5, sono approvati dal consiglio di amministrazione della cassa per il Mezzogiorno con la partecipazione del presidente del comitato medesimo.
 
 Quando l'importo superi i 500 milioni di lire, e' necessario il parere della delegazione del Consiglio superiore dei lavori pubblici, prevista dall'articolo 4 della legge 10 agosto 1950, n. 646.
 
-#### Art. 10 - Esecuzione delle opere
+### Art. 10 - Esecuzione delle opere
 
 L'esecuzione delle opere di cui alla presente legge e' affidata dalla cassa per il Mezzogiorno normalmente ad organi dello Stato, ad aziende autonome statali, ad enti pubblici, all'Opera Sila, ente di sviluppo in Calabria, ad enti locali e loro consorzi, a consorzi di bonifica e di irrigazione e a consorzi di miglioramento fondiario, sentito il comitato tecnico di coordinamento di cui all'articolo 5.
 
-#### Art. 11 - Pubblica utilita' ed urgenza e indifferibilita' delle opere
+### Art. 11 - Pubblica utilita' ed urgenza e indifferibilita' delle opere
 
 Tutte le opere che a norma della presente legge sono eseguite a cura e spese dello Stato, con l'approvazione dei relativi progetti, sono dichiarate di pubblica utilita' e urgenti e indifferibili, ai sensi e per gli effetti della legge 25 giugno 1865, n. 2359, e successive modificazioni.
 
-#### Art. 12
+### Art. 12
 
 (Agevolazioni fiscali per gli atti
 
@@ -190,13 +186,13 @@ e contratti relativi all'attuazione della legge)
 
 A tutti gli atti e contratti stipulati ai fini e in attuazione della presente legge si applicano le disposizioni contenute nell'articolo 31 della legge 29 luglio 1957, numero 634.
 
-#### Art. 13 - Manutenzione delle opere
+### Art. 13 - Manutenzione delle opere
 
 Le opere realizzate dalla cassa per il Mezzogiorno in attuazione della presente legge sono trasferite, entro 6 mesi dal loro collaudo, alle amministrazioni statali e locali e agli enti tenuti per legge ad assumerne la manutenzione, salva l'applicazione delle disposizioni di cui all'articolo 8 della legge 26 giugno 1965, n. 717, e successive integrazioni.
 
 Fino al 31 dicembre 1980 la spesa di manutenzione delle opere forestali e di quelle idrauliche ad esse connesse, comprese quelle vallive, e' assunta a carico dello Stato e grava sullo stanziamento autorizzato dalla presente legge.
 
-#### Art. 14
+### Art. 14
 
 (Intervento per contribuire alla realizzazione
 
@@ -204,7 +200,7 @@ dell'istituenda Universita' della Calabria)
 
 Nell'ambito degli interventi previsti nei settori della formazione civica, culturale e professionale, di cui all'articolo 2, lettera d), la somma di 15 miliardi di lire, a carico dei fondi di cui all'articolo 18, e' destinata agli impianti ed alle attrezzature scientifiche e didattiche e all'arredamento dell'istituenda Universita' degli studi della Calabria, nonche' all'arredamento e al funzionamento dell'annesso centro residenziale.
 
-#### Art. 15
+### Art. 15
 
 (Procedura per l'occupazione temporanea
 
@@ -220,7 +216,7 @@ Tale pubblicazione equivale a tutti gli effetti alla notificazione prevista dall
 
 ## CAPO III - NORME FINANZIARIE TRANSITORIE E FINALI
 
-#### Art. 16 - Uffici speciali per l'attuazione della legge
+### Art. 16 - Uffici speciali per l'attuazione della legge
 
 La cassa per il Mezzogiorno provvede all'attuazione degli interventi previsti dalla presente legge, avvalendosi degli appositi uffici dei Ministeri dei lavori pubblici e dell'agricoltura e delle foreste, gia' costituiti in Calabria, a cura dei Ministeri anzidetti, ai sensi dell'articolo 11 della legge 26 novembre 1955, n. 1177.
 
@@ -228,7 +224,7 @@ Alle spese necessarie per il funzionamento degli uffici anzidetti si provvede, c
 
 Le spese di funzionamento dei predetti uffici, relative al periodo precedente al 10 luglio 1967, gravano sullo stanziamento previsto dall'articolo 18 per l'anno finanziario 1967, in misura comunque non superiore a lire 250 milioni.
 
-#### Art. 17 - Personale degli uffici speciali
+### Art. 17 - Personale degli uffici speciali
 
 Il personale assunto successivamente alla entrata in vigore della legge 26 novembre 1955, n. 1177, o comunque non oltre il 31 dicembre 1963, da organi periferici del Ministero dell'agricoltura e delle foreste e del Ministero dei lavori pubblici, per essere addetto a servizi inerenti all'attuazione della legge medesima, per il cui espletamento la cassa ha erogato le relative somme, che sia in servizio alla data di entrata in vigore della presente legge, e' inquadrato, presso le rispettive amministrazioni, con decorrenza dal 10 luglio 1967, nelle categorie del personale non di ruolo corrispondenti al titolo di studio posseduto.
 
@@ -240,7 +236,7 @@ Agli oneri derivanti dall'applicazione del presente articolo dal 10 luglio 1967 
 
 A tal uopo, con decreto del Ministro per il tesoro, si proposta dei Ministri interessati, nei singoli anni finanziari sara' provveduto al trasferimento, dai fondi medesimi agli stati di previsione della spesa dei Ministeri della agricoltura e delle foreste e dei lavori pubblici, delle somme occorrenti.
 
-#### Art. 18 - Disposizioni di carattere finanziario
+### Art. 18 - Disposizioni di carattere finanziario
 
 Per far fronte agli oneri derivanti dalla presente legge e' autorizzata la spesa di lire 345 miliardi.
 
@@ -254,21 +250,21 @@ Per l'applicazione della presente legge, la cassa terra' gestione separata di tu
 
 Lo stesso rendiconto sara' comunicato al comitato tecnico di coordinamento di cui all'articolo 5.
 
-#### Art. 19 - Copertura degli stanziamenti
+### Art. 19 - Copertura degli stanziamenti
 
 Per la copertura dell'onere derivante dall'applicazione della presente legge si fa fronte, negli anni finanziari 1967 e 1968, con corrispondenti riduzioni del fondo iscritto al capitolo 5381 dello stato di previsione della spesa del Ministero del tesoro, per ciascuno degli anni medesimi.
 
 Il Ministro per il tesoro e' autorizzato a provvedere con propri decreti alle occorrenti variazioni di bilancio.
 
-#### Art. 20 - Completamento delle opere previste dal precedente piano
+### Art. 20 - Completamento delle opere previste dal precedente piano
 
 Gli adempimenti per la realizzazione delle opere programmate e finanziate ai sensi delle leggi 26 novembre 1955, n. 1177, e 10 luglio 1962, n. 890, effettuati nel periodo successivo al 30 giugno 1967 e fino all'entrata in vigore della presente legge, hanno efficacia a tutti gli effetti di legge.
 
-#### Art. 21
+### Art. 21
 
 Entro sei mesi dall'istituzione della regione della Calabria con successiva legge saranno emanate le norme per il coordinamento delle disposizioni della presente legge con quelle concernenti le funzioni e le competenze attribuite alla Regione stessa dalle leggi costituzionali.
 
-#### Art. 22 - Entrata in vigore della legge
+### Art. 22 - Entrata in vigore della legge
 
 La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 

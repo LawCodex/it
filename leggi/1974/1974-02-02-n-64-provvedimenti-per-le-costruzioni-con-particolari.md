@@ -28,7 +28,7 @@ la seguente legge:
 
 ## TITOLO I - DISPOSIZIONI GENERALI
 
-##### Art. 1 - Tipo di strutture e norme tecniche
+#### Art. 1 - Tipo di strutture e norme tecniche
 
 In tutti i comuni della Repubblica le costruzioni sia pubbliche che private debbono essere realizzate in osservanza delle norme tecniche riguardanti i vari elementi costruttivi che saranno fissate con successivi decreti del Ministro per i lavori pubblici, di concerto con il Ministro per l'interno, sentito il Consiglio superiore dei lavori pubblici, che si avvarra' anche della collaborazione del Consiglio nazionale delle ricerche. Tali decreti dovranno essere emanati entro un anno dalla entrata in vigore della presente legge.
 
@@ -48,7 +48,7 @@ e) protezione delle costruzioni dagli incendi.
 
 Qualora vengano usati sistemi costruttivi diversi da quelli in muratura o con ossatura portante in cemento armato normale e precompresso, acciaio o sistemi combinati dei predetti materiali, per edifici con quattro o piu' piani entro e fuori terra, la idoneita' di tali sistemi deve essere comprovata da una dichiarazione rilasciata dal presidente del Consiglio superiore dei lavori pubblici su conforme parere dello stesso Consiglio.
 
-##### Art. 2 - Abitati da consolidare
+#### Art. 2 - Abitati da consolidare
 
 In tutti i territori comunali o loro parti, nei quali siano intervenuti od intervengano lo Stato o la Regione per opere di consolidamento di abitato ai sensi della legge 9 luglio 1908, n. 445 e successive modificazioni ed integrazioni, nessuna opera e nessun lavoro, salvo quelli di manutenzione ordinaria e di rifinitura, possono essere eseguiti senza la preventiva autorizzazione dell'ufficio tecnico della Regione o dell'ufficio del genio civile secondo le competenze vigenti.
 
@@ -56,13 +56,11 @@ Le opere di consolidamento, nei casi di urgenza riconosciuta con ordinanza del s
 
 Avverso il provvedimento relativo alla domanda di autorizzazione e' ammesso ricorso, rispettivamente, al presidente della giunta regionale o al provveditore regionale alle opere pubbliche, che decidono con provvedimento definitivo.
 
-## TITOLO II - NORME PER LE COSTRUZIONI
+## TITOLO II - NORME PER LE COSTRUZIONI IN ZONE SISMICHE
 
-### IN ZONE SISMICHE
+### Capo I - NUOVE COSTRUZIONI
 
-#### Capo I - NUOVE COSTRUZIONI
-
-##### Art. 3 - Opere disciplinate e gradi di sismicita
+#### Art. 3 - Opere disciplinate e gradi di sismicita
 
 Tutte le costruzioni la cui sicurezza possa comunque interessare la pubblica incolumita', da realizzarsi in zone dichiarate sismiche ai sensi del secondo comma lettera a) del presente articolo, sono disciplinate, oltre che dalle norme di cui al precedente articolo 1, da specifiche norme tecniche che verranno emanate con successivi decreti dal Ministro per i lavori pubblici, di concerto col Ministro per l'interno, sentito il Consiglio superiore dei lavori pubblici, che si avvarra' anche della collaborazione del Consiglio nazionale delle ricerche, entro sei mesi dalla entrata in vigore della presente legge ed aggiornate con la medesima procedura ogni qualvolta occorra in relazione al progredire delle conoscenze dei fenomeni sismici.
 
@@ -76,7 +74,7 @@ c) all'eventuale necessario aggiornamento successivo degli elenchi delle zone si
 
 I decreti di cui alle lettere a) e b) del precedente comma saranno emanati entro sei mesi dall'entrata in vigore della presente legge.
 
-##### Art. 4 - Contenuto delle norme tecniche
+#### Art. 4 - Contenuto delle norme tecniche
 
 Le norme tecniche di cui al precedente articolo 3, da adottare sulla base dei criteri generali indicati dagli articoli successivi e in funzione dei diversi gradi di sismicita', riguarderanno:
 
@@ -96,7 +94,7 @@ Per le costruzioni su pendii gli accertamenti devono essere convenientemente est
 
 Le norme tecniche di cui al primo comma potranno stabilire l'entita' degli accertamenti in funzione della morfologia e della natura dei terreni e del grado di sismicita'.
 
-##### Art. 5 - Sistemi costruttivi
+#### Art. 5 - Sistemi costruttivi
 
 Gli edifici possono essere costruiti con:
 
@@ -108,13 +106,13 @@ c) struttura in muratura;
 
 d) struttura in legname.
 
-##### Art. 6 - Edifici in muratura
+#### Art. 6 - Edifici in muratura
 
 S'intendono per costruzioni in muratura quelle nelle quali la muratura ha funzione portante.
 
 Esse devono presentare adeguate caratteristiche di solidarieta' fra gli elementi strutturali che le compongono e di rigidezza complessiva secondo le indicazioni delle norme tecniche di cui al precedente articolo 3.
 
-##### Art. 7 - Edifici con struttura a pannelli portanti
+#### Art. 7 - Edifici con struttura a pannelli portanti
 
 S'intendono per strutture a pannelli portanti quelle formate con l'associazione di pannelli verticali prefabbricati (muri), di altezza pari ad un piano e di larghezza superiore ad un metro, resi solidali a strutture orizzontali (solai) prefabbricate o costruite in opera.
 
@@ -126,7 +124,7 @@ La trasmissione delle azioni mutue tra i diversi elementi deve essere assicurata
 
 L'idoneita' di tali sistemi costruttivi, anche in funzione del grado di sismicita', deve essere comprovata da una dichiarazione rilasciata dal presidente del Consiglio superiore dei lavori pubblici, su conforme parere dello stesso Consiglio.
 
-##### Art. 8 - Edifici con strutture intelaiate
+#### Art. 8 - Edifici con strutture intelaiate
 
 S'intendono per strutture intelaiate quelle costituite da aste rettilinee o curvilinee, comunque vincolate fra loro ed esternamente.
 
@@ -142,7 +140,7 @@ Il complesso resistente deve essere proporzionato in modo da assorbire le azioni
 
 Le murature di tamponamento delle strutture intelaiate devono essere efficacemente collegate alle aste della struttura stessa secondo le modalita' specificate dalle norme tecniche di cui al precedente articolo 3.
 
-##### Art. 9 - Azioni sismiche
+#### Art. 9 - Azioni sismiche
 
 L'edificio deve essere progettato e costruito in modo che sia in grado di resistere alle azioni verticali e orizzontali, ai momenti torcenti e ribaltanti indicati rispettivamente alle successive lettere a), b), c) e d) e definiti dalle norme tecniche di cui al precedente articolo 3:
 
@@ -162,31 +160,31 @@ d) Momenti ribaltanti.
 
 Per le verifiche dei pilastri e delle fondazioni gli sforzi normali provocati dall'effetto ribaltante delle azioni sismiche orizzontali devono essere valutati secondo le indicazioni delle norme tecniche di cui al precedente articolo 3.
 
-##### Art. 10 - Verifica delle strutture
+#### Art. 10 - Verifica delle strutture
 
 L'analisi delle sollecitazioni dovute alle azioni sismiche di cui al precedente articolo e' effettuata tenendo conto della ripartizione di queste fra gli elementi resistenti dell'intera struttura.
 
 Si devono verificare detti elementi resistenti per le possibili combinazioni degli effetti sismici con tutte le altre azioni esterne, senza alcuna riduzione dei sovraccarichi, ma con l'esclusione dell'azione del vento.
 
-##### Art. 11 - Verifica delle fondazioni
+#### Art. 11 - Verifica delle fondazioni
 
 I calcoli di stabilita' del complesso terreno-opera di fondazione si eseguono con i metodi ed i procedimenti della geotecnica, tenendo conto, tra le forze agenti, delle azioni sismiche orizzontali applicate alla costruzione e valutate come specificato dalle norme tecniche di cui al precedente articolo 3.
 
-##### Art. 12 - Deroghe
+#### Art. 12 - Deroghe
 
 Possono essere concesse deroghe all'osservanza delle norme tecniche di cui al precedente articolo 3 dal Ministro per i lavori pubblici previa apposita istruttoria da parte dell'ufficio periferico competente del Ministero dei lavori pubblici e parere favorevole del Consiglio superiore dei lavori pubblici, quando sussistano ragioni particolari, che ne impediscano in tutto o in parte l'osservanza, dovute all'esigenza di salvaguardare le caratteristiche ambientali dei centri storici.
 
 Tali deroghe devono essere previste nei piani particolareggiati.
 
-##### Art. 13 - Parere delle sezioni a competenza statale degli uffici del genio civile sugli strumenti urbanistici
+#### Art. 13 - Parere delle sezioni a competenza statale degli uffici del genio civile sugli strumenti urbanistici
 
 Tutti i comuni nei quali sono applicabili le norme di cui al titolo II della presente legge e quelli di cui al precedente articolo 2, devono richiedere il parere delle sezioni a competenza statale del competente ufficio del genio civile sugli strumenti urbanistici generali e particolareggiati prima della delibera di adozione nonche' sulle lottizzazioni convenzionate prima della delibera di approvazione, e loro varianti ai fini della verifica della compatibilita' delle rispettive previsioni con le condizioni geomorfologiche del territorio.
 
 Le sezioni a competenza statale degli uffici del genio civile devono pronunciarsi entro sessanta giorni dal ricevimento della richiesta dell'amministrazione comunale.
 
-## Capo II - RIPARAZIONI E SOPRAELEVAZIONI
+### Capo II - RIPARAZIONI E SOPRAELEVAZIONI
 
-##### Art. 14 - Sopraelevazioni
+#### Art. 14 - Sopraelevazioni
 
 E' consentita, nel rispetto degli strumenti urbanistici vigenti:
 
@@ -194,19 +192,19 @@ a) la sopraelevazione di un piano negli edifici in muratura, purche' nel comples
 
 b) la sopraelevazione di edifici in cemento armato normale e precompresso, in acciaio o a pannelli portanti, purche' il complesso della struttura sia conforme alle norme della presente legge.
 
-##### Art. 15 - Riparazioni
+#### Art. 15 - Riparazioni
 
 Le riparazioni degli edifici debbono tendere a conseguire un maggiore grado di sicurezza alle azioni sismiche di cui ai precedenti articoli.
 
 I criteri sono fissati nelle norme tecniche di cui al precedente articolo 3.
 
-##### Art. 16 - Edifici di speciale importanza artistica
+#### Art. 16 - Edifici di speciale importanza artistica
 
 Per l'esecuzione di qualsiasi lavoro di riparazione in edifici o manufatti di carattere monumentale o aventi, comunque, interesse archeologico, storico o artistico, siano essi pubblici o di privata proprieta', restano ferme le disposizioni vigenti in materia.
 
-## Capo III - VIGILANZA SULLE COSTRUZIONI
+### Capo III - VIGILANZA SULLE COSTRUZIONI
 
-##### Art. 17 - Denuncia dei lavori, presentazione ed esame dei progetti
+#### Art. 17 - Denuncia dei lavori, presentazione ed esame dei progetti
 
 Nelle zone sismiche di cui all'articolo 3 della presente legge, chiunque intenda procedere a costruzioni, riparazioni e sopraelevazioni, e' tenuto a darne preavviso scritto, notificato a mezzo del messo comunale o mediante lettera raccomandata con ricevuta di ritorno, contemporaneamente, al sindaco ed all'ufficio tecnico della regione o all'ufficio del genio civile secondo le competenze vigenti, indicando il proprio domicilio, il nome e la residenza del progettista, del direttore dei lavori e dell'appaltatore.
 
@@ -220,7 +218,7 @@ La relazione sulla fondazione deve essere corredata da grafici o da documentazio
 
 L'Azienda autonoma delle ferrovie dello Stato non e' tenuta all'osservanza delle disposizioni di cui ai precedenti commi, sempreche' non trattisi di manufatto per la cui realizzazione e' richiesto il preventivo rilascio della licenza edilizia.
 
-##### Art. 18 - Autorizzazione per l'inizio dei lavori
+#### Art. 18 - Autorizzazione per l'inizio dei lavori
 
 Fermo restando l'obbligo della licenza di costruzione prevista dalla vigente legge urbanistica, nelle localita' sismiche, ad eccezione di quelle a bassa sismicita' all'uopo indicate nei decreti di cui al secondo comma del precedente articolo 3, non si possono iniziare lavori senza preventiva autorizzazione scritta dell'ufficio tecnico della regione o dell'ufficio del genio civile secondo le competenze vigenti.
 
@@ -232,7 +230,7 @@ Avverso il provvedimento relativo alla domanda di autorizzazione e' ammesso rico
 
 I lavori devono essere diretti da un ingegnere, architetto, geometra o perito edile iscritto nell'albo, nei limiti delle rispettive competenze.
 
-##### Art. 19 - Registro delle denunzie dei lavori
+#### Art. 19 - Registro delle denunzie dei lavori
 
 In ogni comune deve essere tenuto un registro delle denunzie dei lavori di cui al precedente articolo 17.
 
@@ -240,17 +238,17 @@ Il registro deve essere esibito, costantemente aggiornato, a semplice richiesta,
 
 ## TITOLO III - REPRESSIONE DELLE VIOLAZIONI
 
-##### Art. 20 - Sanzioni penali
+#### Art. 20 - Sanzioni penali
 
 Chiunque violi le prescrizioni contenute nella presente legge e nei decreti interministeriali di cui agli articoli 1 e 3 e' punito con l'ammenda da lire 200 mila a lire 10 milioni.
 
-##### Art. 21 - Accertamento delle violazioni
+#### Art. 21 - Accertamento delle violazioni
 
 I funzionari, gli ufficiali ed agenti indicati nel successivo articolo 29, appena accertato un fatto costituente violazione delle presenti norme, compilano processo verbale trasmettendolo immediatamente all'ufficio tecnico della regione o all'ufficio del genio civile secondo le competenze vigenti.
 
 L'ingegnere capo di detto ufficio, previ, occorrendo, ulteriori accertamenti di carattere tecnico, trasmette il processo verbale al pretore con le sue deduzioni.
 
-##### Art. 22 - Sospensione dei lavori
+#### Art. 22 - Sospensione dei lavori
 
 L'ingegnere capo dell'ufficio tecnico della regione o dell'ufficio del genio civile secondo le competenze vigenti, contemporaneamente agli adempimenti di cui all'articolo precedente, ordina, con decreto motivato, notificato a mezzo di messo comunale, al proprietario, nonche' al direttore o appaltatore od esecutore delle opere, la sospensione dei lavori.
 
@@ -260,7 +258,7 @@ Il prefetto, su richiesta dell'ingegnere capo dell'ufficio di cui al primo comma
 
 L'ordine di sospensione produce i suoi effetti sino alla data in cui la pronuncia dell'autorita' giudiziaria diviene irrevocabile.
 
-##### Art. 23 - Procedimento
+#### Art. 23 - Procedimento
 
 Se nel corso del procedimento penale il pretore ravvisa la necessita' di ulteriori accertamenti tecnici, nomina uno o piu' periti, scegliendoli fra gli ingegneri dello Stato.
 
@@ -268,17 +266,17 @@ Deve esser in ogni caso citato per il dibattimento l'ingegnere capo dell'ufficio
 
 Con il decreto o con la sentenza di condanna il pretore ordina la demolizione delle opere o delle parti di esse costruite in difformita' alle norme della presente legge o dei decreti interministeriali di cui agli articoli 1 e 3, ovvero impartisce le prescrizioni necessarie per rendere le opere conformi alle norme stesse, fissando il relativo termine.
 
-##### Art. 24 - Esecuzione d'ufficio
+#### Art. 24 - Esecuzione d'ufficio
 
 Qualora il condannato non ottemperi all'ordine o alle prescrizioni di cui all'articolo precedente, dati con sentenza irrevocabile o con decreto esecutivo, l'ufficio tecnico della regione o l'ufficio del genio civile secondo le competenze vigenti provvedono, se del caso con l'assistenza della forza pubblica, a spese del condannato.
 
-##### Art. 25 - Competenza del presidente della giunta regionale
+#### Art. 25 - Competenza del presidente della giunta regionale
 
 Qualora il reato sia estinto per qualsiasi causa, il presidente della giunta regionale ordina, con provvedimento definitivo, sentito l'organo tecnico consultivo della regione, la demolizione delle opere o delle parti di esse eseguite in violazione delle norme della presente legge e delle norme tecniche di cui agli articoli 1 e 3 ovvero l'esecuzione di modifiche idonee a renderle conformi alle norme stesse.
 
 In caso di inadempienza si applica il disposto dell'articolo precedente.
 
-##### Art. 26
+#### Art. 26
 
 (Comunicazione del provvedimento all'ufficio tecnico
 
@@ -286,7 +284,7 @@ della regione o al genio civile)
 
 Copia della sentenza irrevocabile o del decreto esecutivo emessi in base alle precedenti disposizioni deve essere comunicata, a cura del cancelliere, all'ufficio tecnico della regione o all'ufficio del genio civile secondo le competenze vigenti entro quindici giorni da quello in cui la sentenza e' divenuta irrevocabile o il decreto e' diventato esecutivo.
 
-##### Art. 27 - Modalita' per la esecuzione di ufficio
+#### Art. 27 - Modalita' per la esecuzione di ufficio
 
 Per gli adempimenti di cui al precedente articolo 24 e' iscritta annualmente in apposito capitolo dello stato di previsione della spesa del Ministero dei lavori pubblici, la spesa di lire 50 milioni.
 
@@ -296,11 +294,11 @@ La riscossione delle somme dai contravventori, per il titolo suindicato e con l'
 
 Il versamento delle somme stesse e' fatto con imputazione ad apposito capitolo del bilancio dell'entrata.
 
-##### Art. 28 - Utilizzazione di edifici
+#### Art. 28 - Utilizzazione di edifici
 
 Il rilascio da parte dei prefetti della licenza d'uso per gli edifici costruiti in cemento armato e delle licenze di abitabilita' da parte dei comuni e' condizionato all'esibizione di un certificato da rilasciarsi dall'ufficio tecnico della regione o dall'ufficio del genio civile secondo le competenze vigenti, che attesti la perfetta rispondenza dell'opera eseguita alle presenti norme.
 
-##### Art. 29 - Vigilanza per l'osservanza delle norme tecniche
+#### Art. 29 - Vigilanza per l'osservanza delle norme tecniche
 
 Nelle localita' di cui all'articolo 2 della presente legge e in quelle sismiche di cui all'articolo 3 gli ufficiali di polizia giudiziaria, gli ingegneri e geometri degli uffici del Ministero dei lavori pubblici e degli uffici tecnici regionali, provinciali e comunali, le guardie doganali e forestali, gli ufficiali e sottufficiali del Corpo nazionale dei vigili del fuoco e in generale tutti gli agenti giurati a servizio dello Stato, delle province e dei comuni sono tenuti ad accertare che chiunque inizi costruzioni, riparazioni e sopraelevazioni sia in possesso dell'autorizzazione rilasciata dall'ufficio tecnico della regione o dall'ufficio del genio civile a norma degli articoli 2 e 18.
 
@@ -310,7 +308,7 @@ Eguale obbligo spetta agli ingegneri e geometri degli uffici tecnici succitati q
 
 ## TITOLO IV - DISPOSIZIONI TRANSITORIE E FINALI
 
-##### Art. 30 - Costruzioni in corso in zone sismiche di nuova classificazione
+#### Art. 30 - Costruzioni in corso in zone sismiche di nuova classificazione
 
 Non sono tenuti al rispetto delle presenti norme, nelle zone sismiche di nuova classificazione, tutti coloro che abbiano iniziato una costruzione prima dell'entrata in vigore del provvedimento di classificazione purche' la costruzione sia ultimata entro due anni dalla data del provvedimento stesso.
 
@@ -326,23 +324,23 @@ L'ufficio di cui al comma precedente entro 30 giorni dalla ricezione della denun
 
 In caso di violazione degli obblighi stabiliti nel presente articolo si applicano le disposizioni del titolo III.
 
-##### Art. 31 - Provvedimenti sostitutivi del prefetto
+#### Art. 31 - Provvedimenti sostitutivi del prefetto
 
 Quando concorrano ragioni di particolare gravita' ed urgenza, il prefetto puo', per le modificazioni richieste dall'osservanza delle presenti norme, valersi del procedimento stabilito dall'articolo 378 della legge 20 marzo 1865, n. 2248, sui lavori pubblici.
 
 In tal caso, il prefetto fa rapporto al pretore per il procedimento penale in ordine alle violazioni accertate.
 
-##### Art. 32 - Costruzioni in corso e progetti gia' approvati
+#### Art. 32 - Costruzioni in corso e progetti gia' approvati
 
 Le norme tecniche di cui agli articoli 1 e 3 entrano in vigore trenta giorni dopo la pubblicazione dei rispettivi decreti nella Gazzetta Ufficiale della Repubblica italiana.
 
 Fino all'entrata in vigore delle norme tecniche di cui al comma precedente continuano ad applicarsi le norme della legge 25 novembre 1962, n. 1684, che, successivamente, si applicheranno solo alle costruzioni in corso e ai progetti gia' approvati alla data di entrata in vigore delle norme tecniche, salvo il disposto del precedente articolo 30.
 
-##### Art. 33 - Costruzioni eseguite col sussidio dello Stato
+#### Art. 33 - Costruzioni eseguite col sussidio dello Stato
 
 L'inosservanza delle norme della presente legge, nel caso di edifici per i quali sia stato gia' concesso il sussidio dello Stato, importa, oltre le sanzioni penali, anche la decadenza dal beneficio del sussidio statale, qualora l'interessato non si sia attenuto alle prescrizioni di cui all'ultimo comma dell'articolo 23.
 
-##### Art. 34
+#### Art. 34
 
 Le disposizioni contenute nel capo terzo del titolo II e nel titolo III non si applicano alle opere che, ai sensi delle vigenti norme, si eseguono a cura del genio militare.
 

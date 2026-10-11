@@ -56,7 +56,7 @@ Sulla proposta del Ministro Segretario di Stato per la guerra, di concerto con i
 
 Abbiamo decretato e decretiamo:
 
-### Art. 1
+## Art. 1
 
 I tribunali militari territoriali sono sei ed hanno sede nelle seguenti localita': Torino, Bologna, Trieste, Roma, Napoli, Palermo.
 
@@ -66,13 +66,13 @@ Essi esercitano la giurisdizione nel territorio del Regno a ciascuno assegnato s
 
 Con decreto Reale, in caso di necessita', possono istituirsi sezioni di tribunale.
 
-### Art. 2
+## Art. 2
 
 Con decreto del Ministro per la guerra saranno stabilite: la data di inizio del funzionamento dei tribunali militari territoriali e di quello supremo militare costituiti secondo le norme del presente decreto; quella sotto cui cesseranno di funzionare i tribunali militari soppressi e le norme relative ai procedimenti che a tale data risulteranno presso di questi pendenti.
 
 Per i tribunali militari marittimi il decreto sara' emanato dal Ministro per la marina di concerto con quello per la guerra.
 
-### Art. 3
+## Art. 3
 
 I tribunali militari territoriali sono costituiti:
 
@@ -88,7 +88,7 @@ In caso di mancanza o di impedimento del presidente ne fara' le veci il giudice 
 
 Il presidente ed i giudici potranno avere di massima altri incarichi, tenute ferme le incompatibilita' di cui all'art. 6 del presente decreto.
 
-### Art. 4
+## Art. 4
 
 I tribunali militari marittimi sono composti di un presidente avente grado di contrammiraglio o di capitano di vascello, di un giudice relatore e di altri tre giudici militari, dei quali due saranno scelti fra gli ufficiali dei vari corpi della Regia marina ed uno fra gli ufficiali di vascello.
 
@@ -98,11 +98,11 @@ Quando l'imputato sia ufficiale di vascello o il fatto sul quale deve cadere il 
 
 I giudici supplenti sono normalmente ridotti a tre.
 
-### Art. 5
+## Art. 5
 
 ((Il presidente e i giudici effettivi e supplenti sono nominati con decreto Reale. Essi durano in carica due anni dalla data della nomina e possono essere riconfermati)).
 
-### Art. 6
+## Art. 6
 
 Ferme restando le incompatibilita' di cui agli articoli 308 e 309 del Codice penale per l'esercito e agli articoli 335 e 336 del Codice penale militare marittimo non possono far parte dei tribunali militari:
 
@@ -174,11 +174,11 @@ buono con punti due o qualifiche analoghe da stabilirsi
 
 dal competente Ministero.
 
-### Art. 7
+## Art. 7
 
 ((I tribunali militari territoriali o marittimi giudicano con l'intervento del presidente, del giudice relatore e di tre giudici militari, designati dal presidente fra quelli appartenenti al tribunale, e dei quali almeno due aventi grado di ufficiale superiore)).
 
-### Art. 8
+## Art. 8
 
 Nei giudizi a carico dei militari del Regio esercito o della Regia aeronautica uno almeno dei giudici militari, che compongono il collegio giudicante deve appartenere alla forza armata del giudicabile.
 
@@ -188,13 +188,13 @@ Qualora si debbano giudicare coimputati appartenenti a corpi militarmente organi
 
 I militari della Regia aeronautica, infine, come quelli del Regio esercito, sono sottoposti alla giurisdizione militare marittima a tenore degli articoli 363 e 386 del Codice penale militare marittimo.
 
-### Art. 9
+## Art. 9
 
 ((Per il giudizio a carico degli ufficiali rimangono ferme le disposizioni di cui agli articoli 5 e 7 del R. decreto 30 dicembre 1923, n. 2903; ma faranno parte di diritto del tribunale che dovra' giudicarli, sempre che il grado lo consenta, e su designazione del presidente del tribunale militare nella cui giurisdizione il giudizio deve celebrarsi, i giudici effettivi e supplenti a questo appartenenti, nonche' lo stesso presidente del tribunale militare, sia in tale sua qualita', sia in quella di giudice a seconda dei casi.
 
 Nei giudizi a carico degli ufficiali della Regia aeronautica i due giudici di grado meno elevato dovranno sempre appartenere alla forza armata del giudicabile. Ove i medesimi non possano essere tratti dal tribunale militare territoriale, saranno estratti a sorte, con le modalita', di cui all'art. 6 del R. decreto 30 dicembre 1923, n. 2903, fra coloro che risiedono nel territorio della Z. A. T. in cui sono compresi i tribunali militari)).
 
-### Art. 10
+## Art. 10
 
 In sostituzione di un consigliere di Stato, agli effetti dell'art. 317 del Codice penale per l'esercito (338 Codice penale militare marittimo) e successive modificazioni, e' chiamato a far parte del tribunale supremo militare in qualita' di giudice effettivo con le funzioni e la qualifica di «consigliere relatore del tribunale supremo militare» un magistrato di ruolo della giustizia militare di grado corrispondente a quello di Regio sostituto avvocato generale militare. (2)
 
@@ -208,7 +208,7 @@ AGGIORNAMENTO (2)
 
 Il Regio D.L. 14 giugno 1931, n. 1310, convertito senza modificazioni dalla L. 28 dicembre 1931, n. 1768, ha disposto (con l'art. 8, comma 2) che "Il presente decreto, nella parte che non contiene disposizioni di carattere interpretativo, ha effetto dal giorno della sua data e sara' presentato al Parlamento per la conversione in legge".
 
-### Art. 11
+## Art. 11
 
 Il consigliere relatore del tribunale supremo militare fa parte della Commissione per il personale della giustizia militare di cui all'art. 17 del R. decreto 19 ottobre 1923, n. 2316, quale membro effettivo appartenente al personale della giustizia militare.
 
@@ -224,7 +224,7 @@ Il Regio avvocato generale militare e' vice presidente della Commissione.
 
 La Commissione delibera a maggioranza di voti; in caso di parita' prevale il giudizio favorevole al funzionario.
 
-### Art. 12
+## Art. 12
 
 Il ruolo del personale della giustizia militare risulta dalla tabella C annessa al presente decreto. Esso comprende tutti i funzionari (magistrati e cancellieri), che prestano servizio presso il tribunale supremo militare, presso i tribunali militari territoriali e presso i tribunali militari marittimi.
 
@@ -236,13 +236,13 @@ Il numero dei magistrati e quello dei cancellieri da destinare a ciascun tribuna
 
 Con decreto del Ministro per la guerra e su proposta del Regio avvocato generale militare sara' provveduto all'assegnazione del personale alle singole funzioni nonche' alle sedi territoriali. Per l'assegnazione del personale alle sedi dei tribunali militari marittimi sara' provveduto con decreto del Ministro per la guerra su proposta del Regio avvocato generale militare e di concerto col Ministro per la marina.
 
-### Art. 13
+## Art. 13
 
 Le promozioni dei Regi sostituti avvocati militari o giudici istruttori e dei cancellieri da una classe all'altra hanno luogo con decreto Ministeriale, a scelta sulla base del merito comparativo e per anzianita' congiunta ad operosita' ed intelligenza, rispettivamente nella misura della meta' dei posti vacanti.
 
 Le promozioni ai gradi di Regio avvocato militare o consigliere relatore aggiunto del tribunale supremo militare, Regio vice avvocato militare o giudice relatore, cancelliere capo del tribunale supremo militare, cancelliere capo di tribunale militare, hanno luogo esclusivamente a scelta sulla base del merito comparativo e si effettuano con decreto Reale.
 
-### Art. 14
+## Art. 14
 
 Per le promozioni dei magistrati lo scrutinio viene promosso e si attua con le modalita' di cui al R. decreto 30 dicembre 1923, n. 2903, a turno di anzianita' fra quelli del grado inferiore i quali abbiano almeno due anni di permanenza in esso.
 
@@ -276,7 +276,7 @@ AGGIORNAMENTO (9)
 
 La L. 22 maggio 1971, n. 368 ha disposto (con l'art. 8, comma 1) che "Sono abrogati, nella parte che si riferisce ai magistrati, gli articoli 14, secondo comma, 15, 16 e 17 del regio decreto-legge 26 gennaio 1931, n. 122, convertito nella legge 18 giugno 1931, n. 919, e l'articolo 2, secondo e terzo comma, della legge 9 ottobre 1967, n. 943".
 
-### Art. 15
+## Art. 15
 
 L'esame di cui all'articolo precedente ha luogo in Roma, si effettua di regola ogni due anni e consiste in una prova scritta ed in una prova orale.
 
@@ -292,7 +292,7 @@ AGGIORNAMENTO (9)
 
 La L. 22 maggio 1971, n. 368 ha disposto (con l'art. 8, comma 1) che "Sono abrogati, nella parte che si riferisce ai magistrati, gli articoli 14, secondo comma, 15, 16 e 17 del regio decreto-legge 26 gennaio 1931, n. 122, convertito nella legge 18 giugno 1931, n. 919, e l'articolo 2, secondo e terzo comma, della legge 9 ottobre 1967, n. 943".
 
-### Art. 16
+## Art. 16
 
 Per superare con buon esito l'esame i candidati dovranno riportare almeno sei decimi in ciascuna delle prove scritte ed orali e non meno di sette decimi nell'insieme delle prove.
 
@@ -306,7 +306,7 @@ AGGIORNAMENTO (9)
 
 La L. 22 maggio 1971, n. 368 ha disposto (con l'art. 8, comma 1) che "Sono abrogati, nella parte che si riferisce ai magistrati, gli articoli 14, secondo comma, 15, 16 e 17 del regio decreto-legge 26 gennaio 1931, n. 122, convertito nella legge 18 giugno 1931, n. 919, e l'articolo 2, secondo e terzo comma, della legge 9 ottobre 1967, n. 943".
 
-### Art. 17
+## Art. 17
 
 I funzionari che per due volte non avranno superato con buon esito le prove di esame oppure non si saranno presentati all'esame senza giustificato motivo dopo sei anni di permanenza nel grado, oppure, trascorsi quattro anni dall'insuccesso del primo esame, non avranno ritentato senza giustificato motivo la prova, non potranno piu' presentarsi all'esame e saranno ogni biennio giudicati dalla Commissione del personale per l'accertamento della loro idoneita' alle funzioni del grado che ricoprono.
 
@@ -320,7 +320,7 @@ AGGIORNAMENTO (9)
 
 La L. 22 maggio 1971, n. 368 ha disposto (con l'art. 8, comma 1) che "Sono abrogati, nella parte che si riferisce ai magistrati, gli articoli 14, secondo comma, 15, 16 e 17 del regio decreto-legge 26 gennaio 1931, n. 122, convertito nella legge 18 giugno 1931, n. 919, e l'articolo 2, secondo e terzo comma, della legge 9 ottobre 1967, n. 943".
 
-### Art. 18
+## Art. 18
 
 I limiti di eta' per la cessazione dal servizio dei funzionari della giustizia militare sono i seguenti:
 
@@ -360,21 +360,21 @@ Cancelliere di tribunale militare di 2a classe . . . . . » 60
 
 Cancelliere di tribunale militare di 3a classe . . . . . » 58
 
-### Art. 19
+## Art. 19
 
 Nello stato di previsione della spesa del Ministero della guerra saranno introdotte con decreto del Ministro per le finanze le variazioni occorrenti per l'esecuzione del presente decreto.
 
-### Art. 20
+## Art. 20
 
 Salvo quanto e' disposto negli articoli precedenti, nulla e' innovato rispetto alle altre norme attualmente in vigore che riguardano la costituzione dei tribunali militari territoriali, dei tribunali militari marittimi e del tribunale supremo militare nonche' l'ordinamento del personale della giustizia militare.
 
-### Art. 20-bis
+## Art. 20-bis
 
 ((All'art. 2 della legge 18 dicembre 1930, n. 1878, e' aggiunto, in fine, il comma seguente:
 
 Non trovandosi nel dipartimento un numero di ufficiali rivestiti dei gradi prescritti sono compresi nell'estrazione a sorte tutti gli ufficiali aventi gradi medesimi del dipartimento vicino designato dal comandante in capo del dipartimento dove siede il tribunale)).
 
-### Art. 20-ter
+## Art. 20-ter
 
 ((Dopo l'art. 2 della legge 18 dicembre 1930, n. 1878, e' aggiunto il seguente art. 2-bis:
 
@@ -384,7 +384,7 @@ Qualora tali ufficiali non si trovino a far parte della Commissione d'inchiesta,
 
 ## Disposizioni transitorie.
 
-### Art. 21
+## Art. 21
 
 Per l'attuazione del presente decreto il Ministro per la guerra e' autorizzato a collocare a riposo, non oltre i limiti delle eccedenze di fatto esistenti nell'organico vigente della giustizia militare, rispetto a quello di cui alla tabella C e senza vincolo in ordine al grado dei posti soppressi:
 
@@ -408,7 +408,7 @@ b) i funzionari che ne facciano domanda entro trenta giorni dalla data di entrat
 
 tale domanda sia da lui accolta.
 
-### Art. 22
+## Art. 22
 
 Il Ministro per la guerra e' altresi' autorizzato a dispensare dal servizio, sempre nei limiti e con la condizione di cui all'articolo precedente:
 
@@ -426,21 +426,21 @@ oppure che diano minore rendimento di lavoro.
 
 Resta tuttavia in facolta' del Ministro per la guerra di sostituire al collocamento a riposo dei funzionari di cui alla lettera b) dell'art. 21 e alla dispensa del servizio dei funzionari di cui alla lettera a) del presente articolo il loro trasferimento nell'Amministrazione centrale della guerra oppure, di concerto con i Ministri competenti, il loro passaggio in altre Amministrazioni dello Stato, sempre che concorra il loro consenso.
 
-### Art. 23
+## Art. 23
 
 Ad occupare i posti che nella prima attuazione del presente decreto risulteranno vacanti nei singoli gradi, ferma restando la disposizione di cui all'art. 11 del R. decreto 19 ottobre 1923, n.2316, e tenuto conto anche delle esigenze del ruolo di cui al R. decreto 23 dicembre 1929, n. 2377, sara' provveduto unicamente mediante promozione per merito comparativo dei funzionari del grado rispettivamente inferiore.
 
-### Art. 24
+## Art. 24
 
 I funzionari, di grado inferiore a quello, rispettivamente, di Regio avvocato militare e di cancelliere capo, i quali, nell'attuazione dei nuovi organici, non troveranno collocamento nel grado che rivestono, saranno conservati in soprannumero nel grado stesso sino a riassorbimento con le successive vacanze assumendo le funzioni del grado inferiore nel quale restera' per conseguenza scoperto un egual numero di posti.
 
-### Art. 25
+## Art. 25
 
 Al collocamento a riposo dei funzionari di cui alla lettera b) dell'art. 21 e alla dispensa dal servizio dei funzionari di cui all'art. 22, nonche' alle promozioni di cui all'art. 23 il Ministro per la guerra provvedera' dopo di aver inteso una speciale Commissione da lui nominata, composta di due membri e presieduta dal Sottosegretario di Stato alla guerra, la quale giudichera' i funzionari in base ai rapporti informativi riservati che su ciascuno di essi le saranno inviati dai superiori diretti con revisione del Regio avvocato generale militare, nonche' ai precedenti di carriera di ciascuno, assumendo anche direttamente, ove lo creda, le informazioni del caso e tenendo particolarmente conto del grado di rendimento del funzionario nonche', per i gradi che lo esigono, della capacita' di ciascuno ad esercitare funzioni direttive.
 
 Per i funzionari i quali risultassero meno idonei all'esercizio delle funzioni giudiziarie per riduzione di capacita' fisica la Commissione avra' facolta' di disporre opportuni accertamenti sanitari.
 
-### Art. 26
+## Art. 26
 
 I funzionari collocati a riposo e quelli dispensati dal servizio a norma degli articoli precedenti sono ammessi a liquidare la pensione che loro compete in conformita' delle disposizioni vigenti.
 
@@ -448,19 +448,19 @@ Coloro che compiranno entro il 31 dicembre 1931-X, 15 anni di effettivo servizio
 
 Inoltre sara' a tutti i funzionari, che in virtu' delle disposizioni precedenti cesseranno dal servizio, corrisposta una indennita' di buona uscita pari a tanti quindicesimi dell'ultimo stipendio quanti sono gli anni di servizio utile alla pensione, purche' il suo importo non sia superiore ad una annualita' di stipendio.
 
-### Art. 27
+## Art. 27
 
 Gli organici di cui al presente decreto dovranno essere attuati entro il 30 giugno 1931-IX.
 
-### Art. 28
+## Art. 28
 
 Contro i provvedimenti di cui al presente decreto e' concesso soltanto il ricorso per violazione di legge al Consiglio di Stato od in via straordinaria al Re, escluso ogni altro gravame in sede amministrativa o giudiziaria.
 
-### Art. 29
+## Art. 29
 
 Il Governo del Re e' autorizzato a raccogliere e a coordinare in testo unico, sentito il Consiglio di Stato, le disposizioni di legge riguardanti i tribunali militari e il personale della giustizia militare, introducendovi le modificazioni che risultassero necessarie ai fini del coordinamento stesso.
 
-### Art. 30
+## Art. 30
 
 E' abrogata ogni disposizione contraria o incompatibile con il presente decreto il quale entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno.
 
@@ -484,7 +484,7 @@ Atti del Governo, registro 305, foglio 98. - Mancini.
 
 ## Disposizioni transitorie.
 
-### Tabelle
+## Tabelle
 
 TABELLA A.
 

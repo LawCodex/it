@@ -52,7 +52,7 @@ Il seguente decreto legislativo:
 
 ## TITOLO I - BILANCIO DI PREVISIONE DELLO STATO
 
-#### Art. 1 - Unita' previsionali di base
+### Art. 1 - Unita' previsionali di base
 
 1\. A decorrere dall'anno finanziario 1998 il bilancio di previsione dello Stato e' ripartito, per l'entrata e per la spesa, in unita' previsionali di base, che formano oggetto di approvazione parlamentare. Le unita' previsionali di base costituiscono l'insieme organico delle risorse finanziarie affidate alla gestione di un unico centro di responsabilita' amministrativa. La determinazione delle unita' previsionali di base deve assicurare la piena rispondenza della gestione finanziaria agli obiettivi posti all'azione amministrativa dello Stato, nell'ambito del criterio della ripartizione delle risorse per funzioni, individuate con riferimento agli obiettivi generali perseguiti dalle politiche pubbliche di settore ed all'esigenza di verificare la congruenza delle attivita' amministrative agli obiettivi medesimi, anche in termini di servizi finali resi ai cittadini. 2.
 
@@ -148,7 +148,7 @@ Per l'entrata, le unita' previsionali di base sono articolate per titoli ai sens
 
 > \- Il decreto del Presidente della Repubblica 20 aprile 1994, n. 367, contiene il regolamento recante semplificazione e accelerazione delle procedure di spesa contabili.
 
-#### Art. 2 - Criteri e parametri di formazione delle previsioni
+### Art. 2 - Criteri e parametri di formazione delle previsioni
 
 1\. In sede di formazione del bilancio di previsione ai sensi dell'articolo 4-bis della legge 5 agosto 1978, n. 468, e successive integrazioni e modificazioni, gli stanziamenti dei singoli stati di previsione sono determinati esclusivamente in relazione alle esigenze funzionali e agli obiettivi concretamente perseguibili, nell'ambito dell'esercizio delle funzioni di cui all'articolo 3 del decreto legislativo 3 febbraio 1993,n. 29, e successive modificazioni e integrazioni, nel periodo cui si riferisce il bilancio, tenuto conto degli oneri delle funzioni e dei servizi istituzionali e dei programmi e progetti presentati da ciascuna amministrazione, rimanendo preclusa ogni quantificazione basata sul mero calcolo della spesa storica incrementale. Le somme stanziate per spese in conto capitale e non impegnate alla fine dell'esercizio sono conservate in bilancio come residui previa verifica dello stato di attuazione dei programmi in corso e soltanto ove sussista l'effettiva necessita' di conservazione delle somme per motivate esigenze connesse all'attuazione degli investimenti ai quali gli stanziamenti sono preordinati.
 
@@ -182,7 +182,7 @@ Per l'entrata, le unita' previsionali di base sono articolate per titoli ai sens
 
 > "Il Fondo di cui all'art. 9-bis della legge 5 agosto 1978, n. 468, introdotto dal comma 1, in sede di prima applicazione e' determinato in lire 5.000 miliardi per l'anno 1997".
 
-#### Art. 3 - Gestione del bilancio
+### Art. 3 - Gestione del bilancio
 
 1\. Contestualmente all'entrata in vigore della legge di approvazione del bilancio il Ministro del tesoro, del bilancio e della programmazione economica, con proprio decreto, d'intesa con le amministrazioni interessate, provvede a ripartire le unita' previsionali di base in capitoli, ai fini della gestione e della rendicontazione.
 
@@ -248,7 +248,7 @@ Per l'entrata, le unita' previsionali di base sono articolate per titoli ai sens
 
 > l) propongono l'adozione delle misure di cui all'articolo 20, comma 5, nei confronti dei dirigenti".
 
-#### Art. 4 - Gestione unificata delle spese strumentali
+### Art. 4 - Gestione unificata delle spese strumentali
 
 1\. Al fine del contenimento dei costi e di evitare duplicazioni di strutture, la gestione di talune spese a carattere strumentale, comuni a piu' centri di responsabilita' amministrativa nell'ambito dello stesso Ministero, puo' essere affidata ad un unico ufficio o struttura di servizio.
 
@@ -256,15 +256,13 @@ Per l'entrata, le unita' previsionali di base sono articolate per titoli ai sens
 
 3\. I titolari dei centri di responsabilita' amministrativa ai quali le spese comuni sono riferite provvedono a quanto necessario affinche' l'ufficio di gestione unificata, possa procedere, anche in via continuativa, all'esecuzione delle spese e all'imputazione delle stesse all'unita' previsionale di rispettiva pertinenza.
 
-#### Art. 5 - Revisione dei capitoli di spesa
+### Art. 5 - Revisione dei capitoli di spesa
 
 1\. Al fine di razionalizzare la gestione finanziaria e l'azione amministrativa, il Ministro del tesoro, del bilancio e della programmazione economica, in sede di predisposizione del bilancio di previsione, procede alla revisione degli oggetti dei capitoli di spesa secondo il loro contenuto economico e funzionale in modo che in ciascun capitolo siano incluse esclusivamente spese della medesima categoria, assicurando inoltre che ogni capitolo corrisponda ad un unico centro di responsabilita' e riorganizzando, ove necessario, la normativa di supporto alle autorizzazioni di bilancio.
 
-## TITOLO II - INTEGRAZIONE DEI FLUSSI INFORMATIVI DELLE GESTIONI DI BILANCIO
+## TITOLO II - INTEGRAZIONE DEI FLUSSI INFORMATIVI DELLE GESTIONI DI BILANCIO E DI TESORERIA E RIORDINO DEL SISTEMA DELLA TESORERIA UNICA
 
-### E DI TESORERIA E RIORDINO DEL SISTEMA DELLA TESORERIA UNICA
-
-#### Art. 6
+### Art. 6
 
 (Integrazione dei flussi informativi
 
@@ -272,11 +270,11 @@ delle gestioni di bilancio e di tesoreria)
 
 1\. Con decreti del Ministro del tesoro, del bilancio e della programmazione economica sono stabilite, entro il 31 dicembre 1998, le modalita' di integrazione dei flussi informativi delle gestioni di bilancio e di tesoreria e sono riorganizzati i conti di tesoreria e la prospettazione dei conti riassuntivi del tesoro, in modo da consentire il raccordo tra il conto di cassa del settore statale e il conto della pubblica amministrazione, tenuto conto, fra l'altro, dell'esigenza di dare separata evidenza ai conti alimentati soltanto con mezzi provenienti dal bilancio dello Stato ed a quelli nei quali confluiscono entrate proprie degli enti e delle amministrazioni interessate.
 
-#### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DALLA L. 30 DICEMBRE 2024, N. 207))
 
-#### Art. 8 - Gradualita' dell'applicazione dei nuovi criteri
+### Art. 8 - Gradualita' dell'applicazione dei nuovi criteri
 
 1\. Le disposizioni di cui all'articolo 7 si applicano gradualmente secondo i seguenti criteri e modalita':
 
@@ -286,7 +284,7 @@ b) per gli enti locali, a decorre dal 1 gennaio 1999, limitatamente ai comuni co
 
 c) all'ulteriore adeguamento del sistema di tesoreria unica alle (( modifiche introdotte dall'articolo 7)) si provvede con decreti del Presidente del Consiglio dei Ministri, su proposta del Ministro del tesoro, del bilancio e della programmazione economica con le decorrenze e le modalita' dagli stessi previste. Per le regioni l'adeguamento riguarda l'individuazione degli ulteriori tributi propri che non concorrono alla formazione delle liquidita' detenibili ai sensi della legge 29 ottobre 1984, n. 720 e la graduale riduzione del limite di detenibilita' e della base di calcolo. Per gli enti locali, l'adeguamento riguarda ulteriori tipologie di enti. Sugli schemi dei decreti e' acquisito il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano e della Conferenza Stato-Citta' e autonomie locali. Il parere deve essere espresso entro 60 giorni dalla richiesta. Decorso inutilmente tale termine i decreti possono essere comunque emanati.
 
-#### Art. 9 - Sperimentazione operativa
+### Art. 9 - Sperimentazione operativa
 
 1\. Al fine di sperimentare gli effetti del totale superamento del sistema di tesoreria unica il Ministro del tesoro, del bilancio e della programmazione economica, sentite la Conferenza permanente per i rapporti tra lo Stato, le regioni e le provincie autonome di Trento e di Bolzano e la Conferenza Stato-Citta' e autonomie locali, individua una o piu' regioni e gli enti locali nei quali, a partire dal 1 gennaio 1999 e per la durata di due anni, i trasferimenti statali e le entrate proprie affluiscono direttamente ai tesorieri degli enti. Per tali enti i trasferimenti e quanto altro proveniente dal bilancio dello Stato sono erogati direttamente ai tesorieri ad avvenuto esaurimento delle disponibilita' esistenti nei conti di tesoreria unica e non si tiene conto delle date stabilite dalla normativa vigente per l'erogazione dei trasferimenti stessi.
 
@@ -302,7 +300,7 @@ E' possibile visualizzare il testo originario accedendo alla versione pdf della 
 
 ## TITOLO III - CONTABILITA' ANALITICA PER CENTRI DI COSTO
 
-#### Art. 10
+### Art. 10
 
 (Sistema di contabilita' economica delle pubbliche amministrazioni) 1. Al fine di consentire la valutazione economica dei servizi e delle attivita' prodotti, le pubbliche amministrazioni adottano, anche in applicazione dell'articolo 64 del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni ed integrazioni, e dell'articolo 25 della legge 5 agosto 1978, n. 468, e successive modificazioni e integrazioni, un sistema di contabilita' economica fondato su rilevazioni analitiche per centri di costo. Esso collega le risorse umane, finanziarie e strumentali impiegate con i risultati conseguiti e le connesse responsabilita' dirigenziali, allo scopo di realizzare il monitoraggio dei costi, dei rendimenti e dei risultati dell'azione svolta dalle singole amministrazioni.
 
@@ -358,11 +356,11 @@ Queste ultime provvedono alle rilevazioni analitiche riguardanti le attivita' di
 
 > \- Il testo dell'art. 4-bis della citata legge n. 468/1978, aggiunto dall'art. 3, comma 1 della legge n. 94/1997, e' riportato in nota all'art. 2.
 
-#### Art. 11 - Raccordo tra contabilita' economica e contabilita' finanziaria
+### Art. 11 - Raccordo tra contabilita' economica e contabilita' finanziaria
 
 1\. Al fine di collegare il risultato economico scaturente dalla contabilita' analitica dei costi con quello della gestione finanziaria delle spese risultante dal rendiconto generale dello Stato devono essere evidenziate le poste integrative e rettificative che esprimono le diverse modalita' di contabilizzazione dei fenomeni di gestione.
 
-#### Art. 12 - Armonizzazione dei flussi informativi
+### Art. 12 - Armonizzazione dei flussi informativi
 
 1\. Le amministrazioni pubbliche di cui all'articolo 1, comma 2 del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni ed integrazioni, adottano le misure organizzative necessarie per la rilevazione e per l'analisi dei costi e dei rendimenti dell'attivita' amministrativa e della gestione dei singoli centri di costo, secondo il sistema pubblico di contabilita' economica di cui all'articolo 10.
 
@@ -372,11 +370,11 @@ Queste ultime provvedono alle rilevazioni analitiche riguardanti le attivita' di
 
 ## TITOLO IV - RENDICONTO GENERALE DELLO STATO
 
-#### Art. 13 - Conto del bilancio
+### Art. 13 - Conto del bilancio
 
 1\. Il rendiconto generale dello Stato espone, nel conto del bilancio, le risultanze della gestione delle entrate e delle spese secondo la stessa struttura del bilancio di previsione. Esso e' costruito, ai fini della valutazione delle politiche pubbliche di settore, sulla base della classificazione incrociata per funzioni-obiettivo, di cui all'articolo 1, comma 9, e per unita' previsionali di base, suddivise per capitoli, in modo da consentire la valutazione economica e finanziaria delle risultanze di entrata e di spesa in relazione agli obiettivi stabiliti, agli indicatori di efficacia e di efficienza ed agli scopi delle principali leggi di spesa.
 
-#### Art. 14 - Conto generale del patrimonio
+### Art. 14 - Conto generale del patrimonio
 
 1\. Ferma restando l'attuale distinzione in categorie dei beni dello Stato, al fine di consentire l'individuazione di quelli suscettibili di utilizzazione economica e' introdotta nel conto generale del patrimonio un'ulteriore classificazione secondo la tipologia esposta nella tabella C allegata al presente decreto legislativo. Con decreto del Ministro del tesoro, del bilancio e della programmazione economica di concerto con i Ministri interessati possono essere apportate modifiche e integrazioni alla predetta tabella.
 
@@ -388,7 +386,7 @@ Queste ultime provvedono alle rilevazioni analitiche riguardanti le attivita' di
 
 5\. Con successivi decreti del Ministro del tesoro, del bilancio e della programmazione economica, di concerto con i Ministri interessati, si provvede a dettare norme applicative per l'attuazione delle disposizioni di cui ai commi 2, 3 e 4.
 
-#### Art. 15 - Disposizione transitoria
+### Art. 15 - Disposizione transitoria
 
 1\. Le disposizioni di cui agli articoli 4, 5, 6, 13, 16, 17, 18, e 21 del decreto del Presidente della Repubblica 20 aprile 1994, n. 367, si applicano, a regime, dal 1 gennaio 1999. Nel corso dell'esercizio 1998, il Ministro del tesoro, del bilancio e della programmazione economica, con proprio decreto, avvia un programma sperimentale di graduale applicazione delle procedure del mandato informatico previste dalle disposizioni di cui sopra, al fine di rendere pienamente operativa, dalla predetta data del 1 gennaio 1999, anche sotto il profilo dell'adeguamento delle strumentazioni informatiche e della modulistica di servizio, l'attuazione delle procedure medesime in coerenza con la nuova struttura del bilancio dello Stato prevista dal presente decreto legislativo.
 
@@ -680,7 +678,7 @@ Visto: il Guardasigilli: FLICK
 
 ## TITOLO IV - RENDICONTO GENERALE DELLO STATO
 
-#### Tabella A
+### Tabella A
 
 ALLEGATO
 
@@ -692,7 +690,7 @@ Unita' previsionali di base per il bilancio di previsione per l'anno finanziario
 
 Parte di provvedimento in formato grafico
 
-#### Tabella B
+### Tabella B
 
 ALLEGATO
 
@@ -706,7 +704,7 @@ AGGIORNAMENTO (11)
 
 Il Decreto 13 novembre 2020 pubblicato in G.U. 07/01/2020, n. 4, ha disposto (con l'art. 2, comma 1) che la presente modifica decorre a partire dalla revisione del budget dei costi per centri di costo delle amministrazioni centrali dello Stato per l'esercizio 2021, effettuata ai sensi dell'art. 33, comma 4-octies della legge 31 dicembre 2009, n. 196 e dalla successiva formulazione del budget per l'esercizio 2022 e per il triennio 2022-2024, effettuata ai sensi dell'art. 21, comma 11, lettera f) della medesima legge.
 
-#### Tabella C
+### Tabella C
 
 BENI PATRIMONIALI SUSCETTIBILI DI UTILIZZAZIONE ECONOMICA
 

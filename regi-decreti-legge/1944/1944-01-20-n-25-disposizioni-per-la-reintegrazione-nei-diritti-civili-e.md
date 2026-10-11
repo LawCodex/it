@@ -60,7 +60,7 @@ Sulla proposta del Capo del Governo, di intesa con i Sottosegretari di Stato per
 
 Abbiamo decretato e decretiamo:
 
-### Art. 1
+## Art. 1
 
 Sono abrogati i seguenti Regi decreti-legge e le seguenti leggi:
 
@@ -88,17 +88,17 @@ Sono altresi' abrogate tutte quelle disposizioni, che, per qualsiasi atto o rapp
 
 I cittadini italiani che l'art. 8 del R. decreto-legge 17 novembre 1938, n. 1728, dichiarava essere di razza ebraica o considerati di razza ebraica, sono reintegrati nel pieno godimento dei diritti civili e politici eguali a quelli di tutti gli altri cittadini dei quali hanno eguali doveri.
 
-### Art. 2
+## Art. 2
 
 Sono nulli di pieno diritto i provvedimenti di revoca di cittadinanza emanati in dipendenza dell'art. 3 del R. decreto-legge 7 settembre 1938, n. 1381, e 23 del R. decreto-legge 17 novembre 1938, n. 1728.
 
 Coloro ai quali sia stata revocata la concessione della cittadinanza in dipendenza delle disposizioni di cui al comma precedente, la riacquistano di pieno diritto.
 
-### Art. 3
+## Art. 3
 
 Le annotazioni di carattere razziale iscritte nei registri dello stato civile ed in quelli della popolazione sono da considerarsi inesistenti. Nel rilascio di estratti, o di copie di atti dello stato civile o di certificati anagrafici, tali annotazioni non dovranno mai essere riprodotte, salvo che per espressa richiesta della Autorita' giudiziaria o in seguito a specifica autorizzazione del procuratore del Re su domanda dell'interessato.
 
-### Art. 4
+## Art. 4
 
 Tutti coloro che furono dispensati dal servizio in applicazione del R. decreto-legge 15 novembre 1938, n. 1779, del R. decreto-legge 17 novembre 1938, n. 1728, o di qualsiasi altra disposizione o norma di carattere razziale emanata sotto qualsiasi forma, sono riammessi in servizio.
 
@@ -108,11 +108,11 @@ La riammissione avverra' invece a domanda dell'interessato per i dipendenti dell
 
 Restano ferme, in quanto applicabili, tutte le altre disposizioni impartite per tali riammissioni col R. decreto-legge 6 gennaio 1944, n. 9.
 
-### Art. 5
+## Art. 5
 
 Agli effetti dei limiti di eta' fissata o da fissarsi in bandi di concorso di ogni genere, per i concorrenti gia' colpiti dalle leggi razziali, non viene computato il lasso di tempo intercorso tra il 5 settembre 1938 e sei mesi dopo l'entrata in vigore del presente decreto.
 
-### Art. 6
+## Art. 6
 
 Agli effetti del conseguimento di titoli di studio in scuole italiane di ogni grado, su richiesta degli interessati e con provvedimento del Ministro per l'educazione nazionale, gli esami superati in scuole estere dopo il 5 settembre 1938 e fino a sei mesi dopo la conclusione della pace, da cittadini italiani gia' colpiti dalle leggi razziali, verranno considerati validi per le materie che il Ministro per l'educazione nazionale stabilira' a suo giudizio insindacabile.
 
@@ -122,7 +122,7 @@ Ove esistano limiti di eta' non verra' computato il lasso di tempo intercorso fr
 
 ## Disposizioni transitorie e di attuazione
 
-### Art. 7
+## Art. 7
 
 Tutti i procedimenti penali in corso per violazioni delle leggi razziali sono estinti.
 
@@ -130,7 +130,7 @@ Le condanne pronunciate con sentenza passata in giudicato, relative alle suddett
 
 Le schede riguardanti tali condanne non debbono essere compilate; quelle gia' compilate debbono essere eliminate dal casellario giudiziario nel termine di un mese dalla data di entrata in vigore del presente decreto.
 
-### Art. 8
+## Art. 8
 
 Il Capo del Governo e' autorizzato ad emanare con propri decreti, sentiti i Ministri per la grazia e giustizia e per le finanze le norme complementari, integrative e regolamentari per l'attuazione del presente decreto che entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale.
 

@@ -38,13 +38,13 @@ Sulla proposta del Nostro Ministro Segretario di Stato per l'agricoltura e le fo
 
 Abbiamo decretato e decretiamo:
 
-### Art. 1
+## Art. 1
 
 ((E' costituito l'Ente Nazionale Risi con sede in Milano.
 
 L'Ente ha lo scopo di provvedere alla tutela della produzione risicola nazionale e delle attivita' industriali e commerciali che vi sono connesse, agevolando la distribuzione ed il consumo del prodotto e promovendo e sostenendo iniziative rivolte al miglioramento della produzione, della trasformazione e del consumo del prodotto)).
 
-### Art. 2
+## Art. 2
 
 ((l'Ente e' amministrato da un Consiglio nominato dal Ministro per l'agricoltura e per le foreste, di concerto con il Ministro per le corporazioni e composto di un presidente, del presidente del settore cerealicoltura della Federazione nazionale dei Consorzi provinciali tra i produttori dell'agricoltura, di tre risicoltori designati dalla Confederazione fascista degli agricoltori, di un rappresentante del Sindacato nazionale tecnici agricoli, di tre rappresentanti della Confederazione fascista lavoratori dell'agricoltura, di due rappresentanti della Confederazione fascista dell'industria, di due rappresentanti della Confederazione fascista dei lavoratori dell'industria, di un rappresentante della Confederazione fascista del commercio e di un rappresentante della Confederazione fascista dei lavoratori del commercio.
 
@@ -54,7 +54,7 @@ I membri del Consiglio durano in carica un anno e possono essere riconfermati.
 
 L'Ente e' retto da uno statuto approvato con decreto del Ministro per l'agricoltura e per le foreste di concerto con quelli per le finanze e per le corporazioni)).
 
-### Art. 3
+## Art. 3
 
 E' fatto obbligo a tutti i risicultori di denunciare all'Ente entro il 20 luglio di ogni anno la superficie da loro coltivata a riso, specificando la varieta' e distinguendo la semina diretta dal trapianto. ((4))
 
@@ -74,15 +74,15 @@ Art. 1 sub 3: nel primo comma, dopo le parole «e' fatto obbligo a tutti i risic
 
 Uguale modificazione e' introdotta nel secondo comma dopo le parole «i produttori stessi devono denunziare»".
 
-### Art. 4
+## Art. 4
 
 ((L'Ente Nazionale Risi ha facolta' di eseguire, a mezzo di propri incaricati, il controllo delle denuncie di cui all'articolo precedente. Qualora dai detti controlli le denuncie risultassero inesatte, le spese relative saranno a carico dei produttori inadempienti, ferme restando le sanzioni di cui all'art. 11)).
 
-### Art. 5
+## Art. 5
 
 ((ARTICOLO SOPPRESSO DAL REGIO D.L. 15 OTTOBRE 1936, N. 2151, CONVERTITO SENZA MODIFICAZIONI DALLA L. 7 GIUGNO 1937, N. 1263))
 
-### Art. 6
+## Art. 6
 
 ((I quantitativi denunciati come raccolto effettuato, o quelli maggiori comunque accertati secondo le precedenti disposizioni, sono soggetti al pagamento dei « diritti di contratto » stabiliti dall'art. 9.
 
@@ -92,11 +92,11 @@ Le giacenze di risone constatate al 15 settembre presso i produttori sono iscrit
 
 ## Disposizioni transitorie.
 
-### Art. 7
+## Art. 7
 
 L'elenco dei crediti dell'Ente in confronto dei produttori, compratori ((...)), per il pagamento dei « diritti di contratto » stabiliti dal presente decreto, firmato dal presidente dell'Ente o da un suo delegato, con dichiarazione che le somme ivi indicate sono dovute in relazione a quantita' di merce effettivamente prodotta o commerciata, costituisce titolo che autorizza il procedimento per ingiunzione, a norma delle leggi vigenti.
 
-### Art. 8
+## Art. 8
 
 ((COMMA SOPPRESSO DAL REGIO D.L. 11 AGOSTO 1933, N. 1183, CONVERTITO SENZA MODIFICAZIONI DALLA L. 28 DICEMBRE 1933, N. 1932, COME MODIFICATO DAL REGIO D.L. 12 OTTOBRE 1939, N. 1682, CONVERTITO CON MODIFICAZIONI DALLA L. 29 APRILE 1940, N. 497)).
 
@@ -116,7 +116,7 @@ Ultimato l'uso per il quale venne rilasciato il certificato, debitamente firmato
 
 I firmatari del certificato sono responsabili della esattezza elle indicazioni in esso contenute.
 
-### Art. 9
+## Art. 9
 
 Sopra ogni contratto di vendita di risone, deve essere versato all'Ente, da parte del compratore, all'atto della denuncia, il « diritto di contratto » di cui all'articolo precedente, nella misura fissata dall'Ente con approvazione del Ministro per l'agricoltura e per le foreste di concerto con quelli per le corporazioni e per le finanze.
 
@@ -140,7 +140,7 @@ Il produttore e il partecipante sono esenti dal pagamento dei «diritti di contr
 
 Il fondo che verra' a costituirsi con la riscossione dei «diritti» indicati nel presente articolo sara' dall'Ente adoperato per il raggiungimento dei suoi fini istituzionali.
 
-### Art. 10
+## Art. 10
 
 I produttori o detentori di riso greggio, semilavorato o lavorato debbono, a richiesta degli incaricati dell'Ente ((o del settore della cerealicoltura)), fornire tutti i documenti in loro possesso che possono agevolare il controllo delle prescritte denuncie o registrazioni. Gli organi di polizia giudiziaria, di loro iniziativa od a richiesta degli incaricati dell'Ente ((o del settore della cerealicoltura)), provvedono agli accertamenti delle violazioni del presente decreto punite ai termini dell'articolo seguente.
 
@@ -158,7 +158,7 @@ Registrato alla Corte dei conti, addi' 10 ottobre 1931 - Anno IX
 
 Atti del Governo, registro 313, foglio 22. - Mancini.
 
-### Art. 11
+## Art. 11
 
 ((Chiunque contravvenga alle disposizioni del presente decreto e' punito con l'ammenda da L. 50 a L. 5000.
 
@@ -168,10 +168,10 @@ In caso di recidiva, dopo che la sentenza di condanna sia divenuta irrevocabile,
 
 L'Ente ha facolta' di sospendere temporaneamente dall'usufruire delle disposizioni che in vista della presente legge o di altri provvedimenti fossero stabilite a favore di determinate categorie interessate, coloro che non si atterranno allo disposizioni del presente decreto, nonche' coloro che avranno rapporto di commercio con gli stessi. Tale sospensione puo' essere applicata dall'Ente anche pendente giudizio)).
 
-### Art. 12
+## Art. 12
 
 ((ARTICOLO SOPPRESSO DAL REGIO D.L. 11 AGOSTO 1933, N. 1183, CONVERTITO SENZA MODIFICAZIONI DALLA L. 28 DICEMBRE 1933, N. 1932, COME MODIFICATO DAL REGIO D.L. 12 OTTOBRE 1939, N. 1682, CONVERTITO CON MODIFICAZIONI DALLA L. 29 APRILE 1940, N. 497))
 
-### ((Art. 13))
+## ((Art. 13))
 
 ((Con decreto Reale su proposta del Ministro per l'agricoltura e per le foreste di concerto con gli altri Ministeri competenti saranno dettate norme integrative e regolamentari per l'esecuzione del presente decreto)).

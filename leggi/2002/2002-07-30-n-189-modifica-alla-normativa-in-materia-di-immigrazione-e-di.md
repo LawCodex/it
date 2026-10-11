@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## CAPO I - DISPOSIZIONI IN MATERIA
+## CAPO I - DISPOSIZIONI IN MATERIA DI IMMIGRAZIONE
 
-### DI IMMIGRAZIONE
-
-#### Art. 1 - Cooperazione con Stati stranieri
+### Art. 1 - Cooperazione con Stati stranieri
 
 1\. Al fine di favorire le elargizioni in favore di iniziative di sviluppo umanitario, di qualunque natura, al testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -68,7 +66,7 @@ b) all'articolo 65, comma 2, lettera c-sexies), dopo le parole: "a favore delle 
 
 > (Omissis).
 
-#### Art. 2
+### Art. 2
 
 (Comitato per il coordinamento
 
@@ -112,7 +110,7 @@ e il monitoraggio)
 
 > d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge".
 
-#### Art. 3 - Politiche migratorie
+### Art. 3 - Politiche migratorie
 
 1\. Al testo unico di cui al decreto legislativo n. 286 del 1998, all'articolo 3, al comma 1, dopo le parole: "ogni tre anni" sono inserite le seguenti: "salva la necessita' di un termine piu' breve".
 
@@ -144,7 +142,7 @@ e il monitoraggio)
 
 > 8\. Lo schema del documento programmatico di cui al comma 7 e' trasmesso al Parlamento per l'acquisizione del parere delle commissioni competenti per materia che si esprimono entro trenta giorni. Decorso tale termine, il decreto e' emanato anche in mancanza del parere".
 
-#### Art. 4 - Ingresso nel territorio dello Stato
+### Art. 4 - Ingresso nel territorio dello Stato
 
 1\. Al testo unico di cui al decreto legislativo n. 286 del 1998, all'articolo 4, sono apportate le seguenti modificazioni:
 
@@ -182,7 +180,7 @@ b) al comma 3, l'ultimo periodo e' sostituito dal seguente: "Non e' ammesso in I
 
 > \- La legge 7 agosto 1990, n. 241, reca: "Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi".
 
-#### Art. 5 - Permesso di soggiorno
+### Art. 5 - Permesso di soggiorno
 
 1\. Al testo unico di cui al decreto legislativo n. 286 del 1998, all'articolo 5 sono apportate le seguenti modificazioni:
 
@@ -288,7 +286,7 @@ i) dopo il comma 8, e' inserito il seguente:
 
 > 9\. Il permesso di soggiorno e' rilasciato, rinnovato o convertito entro venti giorni dalla data in cui e' stata presentata la domanda, se sussistono i requisiti e le condizioni previsti dal presente testo unico e dal regolamento di attuazione per il permesso di soggiorno richiesto ovvero, in mancanza di questo, per altro tipo di permesso da rilasciare in applicazione del presente testo unico".
 
-#### Art. 6 - Contratto di soggiorno per lavoro subordinato
+### Art. 6 - Contratto di soggiorno per lavoro subordinato
 
 1\. Al testo unico di cui al decreto legislativo n. 286 del 1998, dopo l'articolo 5 e' inserito il seguente:
 
@@ -316,7 +314,7 @@ b) l'impegno al pagamento da parte del datore di lavoro delle spese di viaggio p
 
 > b) gli stranieri regolarmente soggiornanti o che abbiano chiesto il rinnovo del titolo di soggiorno, per lavoro subordinato, per lavoro autonomo, per motivi familiari, per asilo politico, per asilo umanitario, per richiesta di asilo, per attesa adozione, per affidamento, per acquisto della cittadinanza."
 
-#### Art. 7 - Facolta' inerenti il soggiorno
+### Art. 7 - Facolta' inerenti il soggiorno
 
 1\. Al testo unico di cui al decreto legislativo n. 286 del 1998, all'articolo 6, sono apportate le seguenti modificazioni:
 
@@ -352,7 +350,7 @@ b) al comma 4, le parole: "puo' essere sottoposto a rilievi segnaletici" sono so
 
 > \- Per il testo vigente dell'art. 26 del decreto legislativo 25 luglio 1998, n. 286, v. nelle note all'art. 21.
 
-#### Art. 8
+### Art. 8
 
 (Sanzioni per l'inosservanza degli obblighi
 
@@ -372,7 +370,7 @@ di comunicazione dell'ospitante e del datore di lavoro)
 
 > 2-bis. Le violazioni delle disposizioni di cui al presente articolo sono soggette alla sanzione amministrativa del pagamento di una somma da 160 a 1.100 euro.".
 
-#### Art. 9 - Carta di soggiorno
+### Art. 9 - Carta di soggiorno
 
 1\. Al testo unico di cui al decreto legislativo n. 286 del 1998, all'articolo 9, comma 1, le parole: "cinque anni" sono sostituite dalle seguenti: "sei anni".
 
@@ -382,7 +380,7 @@ di comunicazione dell'ospitante e del datore di lavoro)
 
 > "1. Lo straniero regolarmente soggiornante nel territorio dello Stato da almeno sei anni, titolare di un permesso di soggiorno per un motivo che consente un numero indeterminato di rinnovi, il quale dimostri di avere un reddito sufficiente per il sostentamento proprio e dei familiari, puo' richiedere al questore il rilascio della carta di soggiorno, per se', per il coniuge e per i figli minori conviventi. La carta di soggiorno e' a tempo indeterminato.".
 
-#### Art. 10 - Coordinamento dei controlli di frontiera
+### Art. 10 - Coordinamento dei controlli di frontiera
 
 1\. Al testo unico di cui al decreto legislativo n. 286 del 1998, all'articolo 11, dopo il comma 1 e' inserito il seguente:
 
@@ -408,7 +406,7 @@ di comunicazione dell'ospitante e del datore di lavoro)
 
 > \- La legge 30 settembre 1993, n. 388, reca: "Ratifica ed esecuzione: a) del protocollo di adesione del Governo della Repubblica italiana all'accordo di Schengen del 14 giugno 1985 tra i Governi degli Stati dell'Unione economica del Benelux, della Repubblica federale di Germania e della Repubblica francese relativo all'eliminazione graduale dei controlli alle frontiere comuni, con due dichiarazioni comuni; b) dell'accordo di adesione della Repubblica italiana alla convenzione del 19 giugno 1990 di applicazione del summenzionato accordo di Schengen, con allegate due dichiarazioni unilaterali dell'Italia e della Francia, nonche' la convenzione, il relativo atto finale, con annessi l'atto finale, il processo verbale e la dichiarazione comune dei Ministri e Segretari di Stato firmati in occasione della firma della citata convenzione del 1990, e la dichiarazione comune relativa agli articoli 2 e 3 dell'accordo di adesione summenzionato; c) dell'accordo tra il Governo della Repubblica italiana ed il Governo della Repubblica francese relativo agli articoli 2 e 3 dell'accordo di cui alla lettera b); tutti atti firmati a Parigi il 27 novembre 1990".
 
-#### Art. 11 - Disposizioni contro le immigrazioni clandestine
+### Art. 11 - Disposizioni contro le immigrazioni clandestine
 
 1\. All'articolo 12 del testo unico di cui al decreto legislativo n. 286 del 1998, sono apportate le seguenti modificazioni:
 
@@ -518,7 +516,7 @@ applicano, in quanto compatibili, anche per i controlli concernenti il traffico 
 
 > "1. Fermo quanto stabilito dall'art. 13-ter del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, nella legge 15 marzo 1991, n. 82, l'assegnazione al lavoro all'esterno, i permessi premio, e le misure alternative alla detenzione previste dal capo VI della legge 26 luglio 1975, n. 354, fatta eccezione per la liberazione anticipata, possono essere concessi ai detenuti e internati per delitti commessi avvalendosi delle condizioni previste dall'art. 416-bis del codice penale ovvero al fine di agevolare l'attivita' delle associazioni previste dallo stesso articolo nonche' per i delitti di cui agli articoli 416-bis e 630 del codice penale, 291-quater del testo unico approvato con decreto del Presidente della Repubblica 23 gennaio 1973, n. 43 e all'art. 74, decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, solo nei casi in cui tali detenuti e internati collaborano con la giustizia a norma dell'art. 58-ter. Quando si tratta di detenuti o internati per uno dei predetti delitti, ai quali sia stata applicata una delle circostanze attenuanti previste dagli articoli 62, numero 6), anche qualora il risarcimento del danno sia avvenuto dopo la sentenza di condanna, o 114 del codice penale, ovvero la disposizione dell'art. 116, secondo comma, dello stesso codice, i benefici suddetti possono essere concessi anche se la collaborazione che viene offerta risulti oggettivamente irrilevante purche' siano stati acquisiti elementi tali da escludere in maniera certa l'attualita' dei collegamenti con la criminalita' organizzata. Quando si tratta di detenuti o internati per delitti commessi per finalita' di terrorismo o di eversione dell'ordinamento costituzionale ovvero di detenuti o internati per i delitti di cui agli articoli 575, 628, terzo comma, 629, secondo comma del codice penale, 291-ter del testo unico approvato con decreto del Presidente della Repubblica 23 gennaio 1973, n. 43, 416 realizzato allo scopo di commettere delitti previsti dal libro II, titolo XII, capo III, sezione I e dagli articoli 609-bis, 609-quater, 609-quinquies, 609-octies del codice penale nonche' dall'art. 12, commi 3, 3-bis e 3-ter del testo unico di cui al decreto legislativo 25 luglio 1998, n. 286 e all'art. 73, limitatamente alle ipotesi aggravate ai sensi dell'art. 80, comma 2, del predetto testo unico approvato con decreto del Presidente della Repubblica n. 309 del 1990, i benefici suddetti possono essere concessi solo se non vi sono elementi tali da far ritenere la sussistenza di collegamenti con la criminalita' organizzata o eversiva".
 
-#### Art. 12 - Espulsione amministrativa
+### Art. 12 - Espulsione amministrativa
 
 1\. All'articolo 13 del testo unico di cui al decreto legislativo n. 286 del 1998, sono apportate le seguenti modificazioni:
 
@@ -628,7 +626,7 @@ h) il comma 14 e' sostituito dal seguente:
 
 > 16\. L'onere derivante dal comma 10 del presente articolo e' valutato in lire 4 miliardi per l'anno 1997 e in lire 8 miliardi annui a decorrere dall'anno 1998.
 
-#### Art. 13 - Esecuzione dell'espulsione
+### Art. 13 - Esecuzione dell'espulsione
 
 1\. All'articolo 14 del testo unico di cui al decreto legislativo n. 286 del 1998, sono apportate le seguenti modificazioni:
 
@@ -680,7 +678,7 @@ b) dopo il comma 5, sono inseriti i seguenti:
 
 > Il Ministro dell'interno promuove inoltre le intese occorrenti per gli interventi di competenza di altri Ministri.".
 
-#### Art. 14 - Ulteriori disposizioni per l'esecuzione dell'espulsione
+### Art. 14 - Ulteriori disposizioni per l'esecuzione dell'espulsione
 
 1\. All'articolo 15 del testo unico di cui al decreto legislativo n. 286 del 1998, dopo il comma 1, e' aggiunto il seguente:
 
@@ -696,7 +694,7 @@ b) dopo il comma 5, sono inseriti i seguenti:
 
 > 1-bis. Della emissione del provvedimento di custodia cautelare o della definitiva sentenza di condanna ad una pena detentiva nei confronti di uno straniero proveniente da Paesi extracomunitari viene data tempestiva comunicazione al questore ed alla competente autorita' consolare al fine di avviare la procedura di identificazione dello straniero e consentire, in presenza dei requisiti di legge, l'esecuzione della espulsione subito dopo la cessazione del periodo di custodia cautelare o di detenzione.
 
-#### Art. 15
+### Art. 15
 
 (Espulsione a titolo di sanzione sostitutiva
 
@@ -734,7 +732,7 @@ o alternativa alla detenzione)
 
 > Se il reato e' stato commesso da persona di eta' superiore agli anni diciotto ma inferiore agli anni ventuno o da chi ha compiuto gli anni settanta, la sospensione puo' essere ordinata quando si infligga una pena restrittiva della liberta' personale non superiore a due anni e sei mesi ovvero una pena pecuniaria che, sola o congiunta alla pena detentiva e ragguagliata a norma dell'art. 135, sia equivalente ad una pena privativa della liberta' personale per un tempo non superiore, nel complesso, a due anni e sei mesi.
 
-#### Art. 16 - Diritto di difesa
+### Art. 16 - Diritto di difesa
 
 1\. All'articolo 17, comma 1, del testo unico di cui al decreto legislativo n. 286 del 1998, dopo le parole: "Lo straniero" sono inserite le seguenti: "parte offesa ovvero" e dopo la parola: "richiesta" sono inserite le seguenti: "della parte offesa o".
 
@@ -744,7 +742,7 @@ o alternativa alla detenzione)
 
 > "Art. 17 (Diritto di difesa) - 1. Lo straniero parte offesa ovvero sottoposto a procedimento penale e' autorizzato a rientrare in Italia per il tempo strettamente necessario per l'esercizio del diritto di difesa, al solo fine di partecipare al giudizio o al compimento di atti per i quali e' necessaria la sua presenza. L'autorizzazione e' rilasciata dal questore anche per il tramite di una rappresentanza diplomatica o consolare su documentata richiesta della parte offesa o dell'imputato o del difensore.".
 
-#### Art. 17 - Determinazione dei flussi di ingresso
+### Art. 17 - Determinazione dei flussi di ingresso
 
 1\. All'articolo 21 del testo unico di cui al decreto legislativo n. 286 del 1998, sono apportate le seguenti modificazioni:
 
@@ -782,7 +780,7 @@ c) dopo il comma 4 sono inseriti i seguenti:
 
 > 8\. L'onere derivante dal presente articolo e' valutato in lire 350 milioni annui a decorrere dall'anno 1998.".
 
-#### Art. 18
+### Art. 18
 
 (Lavoro subordinato a tempo determinato
 
@@ -886,7 +884,7 @@ Decorsi venti giorni senza che sia stata presentata alcuna domanda da parte di l
 
 > \- La legge 30 marzo 2001, n. 152, reca: "Nuova disciplina per gli istituti di patronato e di assistenza sociale".
 
-#### Art. 19 - Titoli di prelazione
+### Art. 19 - Titoli di prelazione
 
 1\. L'articolo 23 del testo unico di cui al decreto legislativo n. 286 del 1998 e' sostituito dal seguente:
 
@@ -908,7 +906,7 @@ c) allo sviluppo delle attivita' produttive o imprenditoriali autonome nei Paesi
 
 > \- Per il testo vigente dell'art. 22, commi 3, 4 e 5, del decreto legislativo 25 luglio 1998, n. 286, v. l'art 18 della presente legge.
 
-#### Art. 20 - Lavoro stagionale
+### Art. 20 - Lavoro stagionale
 
 1\. L'articolo 24 del testo unico di cui al decreto legislativo n. 286 del 1998 e' sostituito dal seguente:
 
@@ -932,7 +930,7 @@ Puo', inoltre, convertire il permesso di soggiorno per lavoro stagionale in perm
 
 > \- Per il testo dell'art. 4, comma 1, del decreto legislativo 23 dicembre 1997, n. 469, v. nelle note all'art. 18.
 
-#### Art. 21 - Ingresso e soggiorno per lavoro autonomo
+### Art. 21 - Ingresso e soggiorno per lavoro autonomo
 
 1\. Al testo unico di cui al decreto legislativo n. 286 del 1998, all'articolo 26, dopo il comma 7, e' aggiunto, in fine, il seguente:
 
@@ -960,7 +958,7 @@ Puo', inoltre, convertire il permesso di soggiorno per lavoro stagionale in perm
 
 > 7-bis. La condanna con provvedimento irrevocabile per alcuno dei reati previsti dalle disposizioni del Titolo III, Capo III, Sezione II, della legge 22 aprile 1941, n. 633, e successive modificazioni, relativi alla tutela del diritto di autore, e dagli articoli 473 e 474 del codice penale comporta la revoca del permesso di soggiorno rilasciato allo straniero e l'espulsione del medesimo con accompagnamento alla frontiera a mezzo della forza pubblica".
 
-#### Art. 22 - Attivita' sportive
+### Art. 22 - Attivita' sportive
 
 1\. Al testo unico di cui al decreto legislativo n. 286 del 1998, all'articolo 27, sono apportate le seguenti modificazioni:
 
@@ -1024,7 +1022,7 @@ b) dopo il comma 5 e' aggiunto, in fine, il seguente:
 
 > 5-bis. Con decreto del Ministro per i beni e le attivita' culturali, su proposta del Comitato olimpico nazionale italiano (CONI), sentiti i Ministri dell'interno e del lavoro e delle politiche sociali, e' determinato il limite massimo annuale d'ingresso degli sportivi stranieri che svolgono attivita' sportiva a titolo professionistico o comunque retribuita, da ripartire tra le federazioni sportive nazionali. Tale ripartizione e' effettuata dal CONI con delibera da sottoporre all'approvazione del Ministro vigilante. Con la stessa delibera sono stabiliti i criteri generali di assegnazione e di tesseramento per ogni stagione agonistica anche al fine di assicurare la tutela dei vivai giovanili".
 
-#### Art. 23 - Ricongiungimento familiare
+### Art. 23 - Ricongiungimento familiare
 
 1\. All'articolo 29 del testo unico di cui al decreto legislativo n. 286 del 1998, sono apportate le seguenti modificazioni:
 
@@ -1082,7 +1080,7 @@ b) i commi 7, 8 e 9 sono sostituiti dai seguenti:
 
 > 9\. Le rappresentanze diplomatiche e consolari italiane rilasciano altresi' il visto di ingresso al seguito nei casi previsti dal comma 5.".
 
-#### Art. 24 - Permesso di soggiorno per motivi familiari
+### Art. 24 - Permesso di soggiorno per motivi familiari
 
 1\. All'articolo 30 del testo unico di cui al decreto legislativo n. 286 del 1998, al comma 5, prima delle parole: "In caso di separazione", sono inserite le seguenti: "In caso di morte del familiare in possesso dei requisiti per il ricongiungimento e".
 
@@ -1114,7 +1112,7 @@ b) i commi 7, 8 e 9 sono sostituiti dai seguenti:
 
 > 6\. Contro il diniego del nulla osta al ricongiungimento familiare e del permesso di soggiorno per motivi familiari, nonche' contro gli altri provvedimenti dell'autorita' amministrativa in materia di diritto all'unita' familiare, l'interessato puo' presentare ricorso al pretore del luogo in cui risiede, il quale provvede, sentito l'interessato, nei modi di cui agli articoli 737 e seguenti del codice di procedura civile. Il decreto che accoglie il ricorso puo' disporre il rilascio del visto anche in assenza del nulla osta. Gli atti del procedimento sono esenti da imposta di bollo e di registro e da ogni altra tassa. L'onere derivante dall'applicazione del presente comma e' valutato in lire 150 milioni annui a decorrere dall'anno 1998".
 
-#### Art. 25 - Minori affidati al compimento della maggiore eta
+### Art. 25 - Minori affidati al compimento della maggiore eta
 
 1\. All'articolo 32 del testo unico di cui al decreto legislativo n. 286 del 1998, dopo il comma 1 sono aggiunti i seguenti:
 
@@ -1166,7 +1164,7 @@ b) i commi 7, 8 e 9 sono sostituiti dai seguenti:
 
 > 3\. Non possono essere iscritti nel registro le associazioni, enti o altri organismi privati il cui rappresentante legale o uno o piu' componenti degli organi di amministrazione e di controllo, siano sottoposti a procedimenti per l'applicazione di una misura di prevenzione o a procedimenti penali per uno dei reati previsti dal testo unico o risultino essere stati sottoposti a misure di prevenzione o condannati, ancorche' con sentenza non definitiva, per uno dei delitti di cui agli articoli 380 e 381 del codice di procedura penale, salvo che i relativi procedimenti si siano conclusi con un provvedimento che esclude il reato o la responsabilita' dell'interessato, e salvi in ogni caso gli effetti della riabilitazione.".
 
-#### Art. 26 - Accesso ai corsi delle universita
+### Art. 26 - Accesso ai corsi delle universita
 
 1\. Il comma 5 dell'articolo 39 del testo unico di cui al decreto legislativo n. 286 del 1998 e' sostituito dal seguente:
 
@@ -1200,7 +1198,7 @@ b) i commi 7, 8 e 9 sono sostituiti dai seguenti:
 
 > 5\. E' comunque consentito l'accesso ai corsi universitari, a parita' di condizioni con gli studenti italiani, agli stranieri titolari di carta di soggiorno, ovvero di permesso di soggiorno per lavoro subordinato o per lavoro autonomo, per motivi familiari, per asilo politico, per asilo umanitario, o per motivi religiosi, ovvero agli stranieri regolarmente soggiornanti da almeno un anno in possesso di titolo di studio superiore conseguito in Italia, nonche' agli stranieri, ovunque residenti, che sono titolari dei diplomi finali delle scuole italiane all'estero o delle scuole straniere o internazionali, funzionanti in Italia o all'estero, oggetto di intese bilaterali o di normative speciali per il riconoscimento dei titoli di studio e soddisfino le condizioni generali richieste per l'ingresso per studio".
 
-#### Art. 27 - Centri di accoglienza e accesso all'abitazione
+### Art. 27 - Centri di accoglienza e accesso all'abitazione
 
 1\. Al testo unico di cui al decreto legislativo n. 286 del 1998, all'articolo 40, sono apportate le seguenti modificazioni:
 
@@ -1260,7 +1258,7 @@ d) il comma 6 e' sostituito dal seguente:
 
 > \- Per il testo vigente dell'art. 26, del decreto legislativo 25 luglio 1998, n. 286, v. nelle note all'art. 21.
 
-#### Art. 28 - Aggiornamenti normativi
+### Art. 28 - Aggiornamenti normativi
 
 1\. Nel testo unico di cui al decreto legislativo n. 286 del 1998, ovunque ricorrano, le parole: "ufficio periferico del Ministero del lavoro e della previdenza sociale" sono sostituite dalle seguenti: "prefettura-ufficio territoriale del Governo" e le parole: "il pretore" sono sostituite dalle seguenti: "il tribunale in composizione monocratica".
 
@@ -1268,7 +1266,7 @@ d) il comma 6 e' sostituito dal seguente:
 
 3\. All'articolo 26 del testo unico di cui al decreto legislativo n. 286 del 1998, nel comma 3, le parole da: "o di corrispondente garanzia" fino alla fine del comma sono soppresse.
 
-#### Art. 29
+### Art. 29
 
 (Matrimoni contratti al fine di eludere le norme sull'ingresso
 
@@ -1282,7 +1280,7 @@ e sul soggiorno dello straniero)
 
 > \- Per il testo vigente dell'art. 30 del decreto legislativo 25 luglio 1998, n. 286, v., nelle note all'art. 24.
 
-#### Art. 30
+### Art. 30
 
 (Misure di potenziamento delle rappresentanze diplomatiche
 
@@ -1306,7 +1304,7 @@ e degli uffici consolari)
 
 ## Capo II - DISPOSIZIONI IN MATERIA DI ASILO
 
-#### Art. 31 - Permesso di soggiorno per i richiedenti asilo
+### Art. 31 - Permesso di soggiorno per i richiedenti asilo
 
 1\. L'ultimo periodo del comma 5 dell'articolo 1 del decreto-legge 30 dicembre 1989, n. 416, convertito, con modificazioni, dalla legge 28 febbraio 1990, n. 39, e' sostituito dal seguente: "Il questore territorialmente competente, quando non ricorrano le ipotesi previste negli articoli 1-bis e 1-ter, rilascia, su richiesta, un permesso di soggiorno temporaneo valido fino alla definizione della procedura di riconoscimento".
 
@@ -1348,7 +1346,7 @@ e degli uffici consolari)
 
 > 11\. I richiedenti asilo che hanno fatto ricorso alle disposizioni previste per la sanatoria dei lavoratori immigrati non perdono il diritto al riconoscimento dello status di rifugiato. Nei loro confronti non si fa luogo a interventi di prima assistenza.".
 
-#### Art. 32 - Procedura semplificata
+### Art. 32 - Procedura semplificata
 
 1\. Al decreto-legge 30 dicembre 1989, n. 416, convertito, con modificazioni, dalla legge 28 febbraio 1990, n. 39, sono apportate le seguenti modificazioni:
 
@@ -1536,7 +1534,7 @@ c) i contributi e le donazioni eventualmente disposti da privati, enti o organiz
 
 > 4-bis. Non e' consentito l'arresto della persona richiesta di fornire informazioni dalla polizia giudiziaria o dal pubblico ministero per reati concernenti il contenuto delle informazioni o il rifiuto di fornirle".
 
-#### Art. 33
+### Art. 33
 
 Dichiarazione di emersione di lavoro irregolare
 
@@ -1590,7 +1588,7 @@ La Corte Costituzionale con sentenza 10-18 febbraio 2005, n. 78 (in G.U. 1a s.s.
 
 ## Capo III - DISPOSIZIONI DI COORDINAMENTO
 
-#### Art. 34
+### Art. 34
 
 Norme transitorie e finali
 
@@ -1608,7 +1606,7 @@ c) promuovere le opportune iniziative per la riorganizzazione degli archivi esis
 
 4\. Fino al completamento di un adeguato programma di realizzazione di una rete di centri di permanenza temporanea e assistenza, accertato con decreto del Ministro dell'interno, sentito il Comitato di cui al comma 2 dell'articolo 2-bis del testo unico di cui al decreto legislativo n. 286 del 1998, introdotto dall'articolo 2 della presente legge, il sindaco, in particolari situazioni di emergenza, puo' disporre l'alloggiamento, nei centri di accoglienza di cui all'articolo 40 del citato testo unico di cui al decreto legislativo n. 286 del 1998, di stranieri non in regola con le disposizioni sull'ingresso e sul soggiorno nel territorio dello Stato, fatte salve le disposizioni sul loro allontanamento dal territorio medesimo.
 
-#### Art. 35
+### Art. 35
 
 (Istituzione della Direzione centrale dell'immigrazione
 
@@ -1690,7 +1688,7 @@ e della polizia delle frontiere)
 
 > e) previsione di decreti ministeriali di natura non regolamentare per la definizione dei compiti delle unita' dirigenziali nell'ambito degli uffici dirigenziali generali".
 
-#### Art. 36 - Esperti della Polizia di Stato
+### Art. 36 - Esperti della Polizia di Stato
 
 1\. Nell'ambito delle strategie finalizzate alla prevenzione dell'immigrazione clandestina, il Ministero dell'interno, d'intesa con il Ministero degli affari esteri, puo' inviare presso le rappresentanze diplomatiche e gli uffici consolari funzionari della Polizia di Stato in qualita' di esperti nominati secondo le procedure e le modalita' previste dall'articolo 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18. A tali fini il contingente previsto dal citato articolo 168 e' aumentato sino ad un massimo di ulteriori undici unita', riservate agli esperti della Polizia di Stato, corrispondenti agli esperti nominati ai sensi del presente comma.
 
@@ -1716,7 +1714,7 @@ e della polizia delle frontiere)
 
 > Gli esperti che l'Amministrazione degli affari esteri puo' utilizzare a norma del presente articolo non possono complessivamente superare il numero di ottanta. Le disposizioni del presente articolo non si applicano al personale comandato o collocato fuori ruolo presso il Ministero degli affari esteri in virtu' di altre disposizioni ne' a quello inviato all'estero in missione temporanea".
 
-#### Art. 37
+### Art. 37
 
 (Disposizioni relative al Comitato parlamentare di controllo
 
@@ -1742,7 +1740,7 @@ sull'attuazione dell'accordo di Schengen, di vigilanza sull'attivita' di Europol
 
 > 7\. Le spese per il funzionamento del comitato parlamentare sono poste per meta' a carico del bilancio interno del Senato della Repubblica e per meta' a carico del bilancio interno della Camera dei deputati".
 
-#### Art. 38 - Norma finanziaria
+### Art. 38 - Norma finanziaria
 
 1\. Dall'applicazione degli articoli 2, 5, 17, 18, 19, 20, 25 e 34 non devono derivare oneri aggiuntivi a carico del bilancio dello Stato.
 

@@ -30,29 +30,27 @@ la seguente legge:
 
 ## CAPO I - LE SANZIONI AMMINISTRATIVE
 
-### SEZIONE I
+### SEZIONE I - PRINCIPI GENERALI
 
-#### PRINCIPI GENERALI
-
-##### Art. 1 - Principio di legalita'
+#### Art. 1 - Principio di legalita'
 
 Nessuno puo' essere assoggettato a sanzioni amministrative se non in forza di una legge che sia entrata in vigore prima della commissione della violazione.
 
 Le leggi che prevedono sanzioni amministrative si applicano soltanto nei casi e per i tempi in esse considerati.
 
-##### Art. 2 - Capacita' di intendere e di volere
+#### Art. 2 - Capacita' di intendere e di volere
 
 Non puo' essere assoggettato a sanzione amministrativa chi, al momento in cui ha commesso il fatto, non aveva compiuto i diciotto anni o non aveva, in base ai criteri indicati nel codice penale, la capacita' di intendere e di volere, salvo che lo stato di incapacita' non derivi da sua colpa o sia stato da lui preordinato.
 
 Fuori dei casi previsti dall'ultima parte del precedente comma, della violazione risponde chi era tenuto alla sorveglianza dell'incapace, salvo che provi di non aver potuto impedire il fatto.
 
-##### Art. 3 - Elemento soggettivo
+#### Art. 3 - Elemento soggettivo
 
 Nelle violazioni cui e' applicabile una sanzione amministrativa ciascuno e' responsabile della propria azione od omissione, cosciente e volontaria, sia essa dolosa o colposa.
 
 Nel caso in cui la violazione e' commessa per errore sul fatto, l'agente non e' responsabile quando l'errore non e' determinato da sua colpa.
 
-##### Art. 4 - Cause di esclusione della responsabilita'
+#### Art. 4 - Cause di esclusione della responsabilita'
 
 Non risponde delle violazioni amministrative chi ha commesso il fatto nell'adempimento di un dovere o nell'esercizio di una facolta' legittima ovvero in stato di necessita' o di legittima difesa.
 
@@ -60,11 +58,11 @@ Se la violazione e' commessa per ordine dell'autorita', della stessa risponde il
 
 ((I comuni, le province, le comunita' montane e i loro consorzi, le istituzioni pubbliche di assistenza e beneficenza (IPAB), gli enti non commerciali senza scopo di lucro che svolgono attivita' socio- assistenziale e le istituzioni sanitarie operanti nel Servizio sanitario nazionale ed i loro amministratori non rispondono delle sanzioni amministrative e civili che riguardano l'assunzione di lavoratori, le assicurazioni obbligatorie e gli ulteriori adempimenti, relativi a prestazioni lavorative stipulate nella forma del contratto d'opera e successivamente riconosciute come rapporti di lavoro subordinato, purche' esaurite alla data del 31 dicembre 1997)).
 
-##### Art. 5 - Concorso di persone
+#### Art. 5 - Concorso di persone
 
 Quando piu' persone concorrono in una violazione amministrativa, ciascuna di esse soggiace alla sanzione per questa disposta, salvo che sia diversamente stabilito dalla legge.
 
-##### Art. 6 - Solidarieta'
+#### Art. 6 - Solidarieta'
 
 Il proprietario della cosa che servi' o fu destinata a commettere la violazione o, in sua vece, l'usufruttuario o, se trattasi di bene immobile, il titolare di un diritto personale di godimento, e' obbligato in solido con l'autore della violazione al pagamento della somma da questo dovuta se non prova che la cosa e' stata utilizzata contro la sua volonta'.
 
@@ -74,11 +72,11 @@ Se la violazione e' commessa dal rappresentante o dal dipendente di una persona 
 
 Nei casi previsti dai commi precedenti chi ha pagato ha diritto di regresso per l'intero nei confronti dell'autore della violazione.
 
-##### Art. 7 - Non trasmissibilita' dell'obbligazione
+#### Art. 7 - Non trasmissibilita' dell'obbligazione
 
 L'obbligazione di pagare la somma dovuta per la violazione non si trasmette agli eredi.
 
-##### Art. 8 - Piu' violazioni di disposizioni che prevedono sanzioni amministrative
+#### Art. 8 - Piu' violazioni di disposizioni che prevedono sanzioni amministrative
 
 Salvo che sia diversamente stabilito dalla legge, chi con un'azione od omissione viola diverse disposizioni che prevedono sanzioni amministrative o commette piu' violazioni della stessa disposizione, soggiace alla sanzione prevista per la violazione piu' grave, aumentata sino al triplo.
 
@@ -86,7 +84,7 @@ Salvo che sia diversamente stabilito dalla legge, chi con un'azione od omissione
 
 La disposizione di cui al precedente comma si applica anche alle violazioni commesse anteriormente all'entrata in vigore della legge di conversione del decreto-legge 2 dicembre 1985, n. 688, per le quali non sia gia' intervenuta sentenza passata in giudicato)).
 
-##### Art. 8-bis
+#### Art. 8-bis
 
 (((Reiterazione delle violazioni).
 
@@ -106,7 +104,7 @@ Gli effetti conseguenti alla reiterazione possono essere sospesi fino a quando i
 
 Gli effetti della reiterazione cessano di diritto, in ogni caso, se il provvedimento che accerta la precedente violazione e' annullato.))
 
-##### Art. 9 - Principio di specialita'
+#### Art. 9 - Principio di specialita'
 
 Quando uno stesso fatto e' punito da una disposizione penale e da una disposizione che prevede una sanzione amministrativa, ovvero da una pluralita' di disposizioni che prevedono sanzioni amministrative, si applica la disposizione speciale.
 
@@ -114,7 +112,7 @@ Tuttavia quando uno stesso fatto e' punito da una disposizione penale e da una d
 
 ((Ai fatti puniti dagli articoli 5, 6 e 12 della legge 30 aprile 1962, n. 283, e successive modificazioni ed integrazioni, si applicano soltanto le disposizioni penali, anche quando i fatti stessi sono puniti con sanzioni amministrative previste da disposizioni speciali in materia di produzione, commercio e igiene degli alimenti e delle bevande.))
 
-##### Art. 10 - Sanzione amministrativa pecuniaria e rapporto tra limite minimo e limite massimo
+#### Art. 10 - Sanzione amministrativa pecuniaria e rapporto tra limite minimo e limite massimo
 
 La sanzione amministrativa pecuniaria consiste nel pagamento di una somma ((non inferiore a euro 10)) e ((non superiore a euro 15.000)).
 
@@ -122,17 +120,17 @@ Le sanzioni proporzionali non hanno limite massimo.
 
 Fuori dei casi espressamente stabiliti dalla legge, il limite massimo della sanzione amministrativa pecuniaria non puo', per ciascuna violazione, superare il decuplo del minimo.
 
-##### Art. 11 - Criteri per l'applicazione delle sanzioni ammistrative pecuniarie
+#### Art. 11 - Criteri per l'applicazione delle sanzioni ammistrative pecuniarie
 
 Nella determinazione della sanzione amministrativa pecuniaria fissata dalla legge tra un limite minimo ed un limite massimo e nell'applicazione delle sanzioni accessorie facoltative, si ha riguardo alla gravita' della violazione, all'opera svolta dall'agente per la eliminazione o attenuazione delle conseguenze della violazione, nonche' alla personalita' dello stesso e alle sue condizioni economiche.
 
-##### Art. 12 - Ambito di applicazione
+#### Art. 12 - Ambito di applicazione
 
 Le disposizioni di questo Capo si osservano, in quanto applicabili e salvo che non sia diversamente stabilito, per tutte le violazioni per le quali e' prevista la sanzione amministrativa del pagamento di una somma di denaro, anche quando questa sanzione non e' prevista in sostituzione di una sanzione penale. Non si applicano alle violazioni disciplinari.
 
-## SEZIONE II - APPLICAZIONE
+### SEZIONE II - APPLICAZIONE
 
-##### Art. 13 - Atti di accertamento
+#### Art. 13 - Atti di accertamento
 
 Gli organi addetti al controllo sull'osservanza delle disposizioni per la cui violazione e' prevista la sanzione amministrativa del pagamento di una somma di denaro possono, per l'accertamento delle violazioni di rispettiva competenza, assumere informazioni e procedere a ispezioni di cose e di luoghi diversi dalla privata dimora, a rilievi segnaletici, descrittivi e fotografici e ad ogni altra operazione tecnica.
 
@@ -144,7 +142,7 @@ All'accertamento delle violazioni punite con la sanzione amministrativa del paga
 
 E' fatto salvo l'esercizio degli specifici poteri di accertamento previsti dalle leggi vigenti.
 
-##### Art. 14 - Contestazione e notificazione
+#### Art. 14 - Contestazione e notificazione
 
 La violazione, quando e possibile, deve essere contestata immediatamente tanto al trasgressore quanto alla persona che sia obbligata in solido al pagamento della somma dovuta per la violazione stessa.
 
@@ -158,7 +156,7 @@ Per i residenti all'estero, qualora la residenza, la dimora o il domicilio non s
 
 L'obbligazione di pagare la somma dovuta per la violazione si estingue per la persona nei cui confronti e' stata omessa la notificazione nel termine prescritto.
 
-##### Art. 15 - Accertamenti mediante analisi di campioni
+#### Art. 15 - Accertamenti mediante analisi di campioni
 
 Se per l'accertamento della violazione sono compiute analisi di campioni, il dirigente del laboratorio deve comunicare all'interessato, a mezzo di lettera raccomandata con avviso di ricevimento, l'esito dell'analisi.
 
@@ -174,7 +172,7 @@ Ove non sia possibile effettuare la comunicazione all'interessato nelle forme di
 
 Con il decreto o con la legge regionale indicati nell'ultimo comma dell'articolo 17 sara' altresi' fissata la somma di denaro che il richiedente la revisione dell'analisi e' tenuto a versare e potranno essere indicati, anche a modifica delle vigenti disposizioni di legge, gli istituti incaricati della stessa analisi.
 
-##### Art. 16 - Pagamento in misura ridotta
+#### Art. 16 - Pagamento in misura ridotta
 
 E' ammesso il pagamento di una somma in misura ridotta pari alla terza parte del massimo della sanzione prevista per la violazione commessa o, se piu favorevole e qualora sia stabilito il minimo della sanzione edittale, pari al doppio del relativo importo , oltre alle spese del procedimento, entro il termine di sessanta giorni dalla contestazione immediata o, se questa non vi e' stata, dalla notificazione degli estremi della violazione. ((45))
 
@@ -194,7 +192,7 @@ AGGIORNAMENTO (45)
 
 Il D.Lgs. 10 agosto 2018, n. 101 ha disposto (con l'art. 18, comma 1) che "In deroga all'articolo 16 della legge 24 novembre 1981, n. 689, per i procedimenti sanzionatori riguardanti le violazioni di cui agli articoli 161, 162, 162-bis, 162-ter, 163, 164, 164-bis, comma 2, del Codice in materia di protezione dei dati personali, di cui al decreto legislativo 30 giugno 2003, n. 196, e le violazioni delle misure di cui all'articolo 33 e 162, comma 2-bis, del medesimo Codice, che, alla data di applicazione del Regolamento, risultino non ancora definiti con l'adozione dell'ordinanza-ingiunzione, e' ammesso il pagamento in misura ridotta di un somma pari a due quinti del minimo edittale. Fatti salvi i restanti atti del procedimento eventualmente gia' adottati, il pagamento potra' essere effettuato entro novanta giorni dalla data di entrata in vigore del presente decreto".
 
-##### Art. 17 - Obbligo del rapporto
+#### Art. 17 - Obbligo del rapporto
 
 Qualora non sia stato effettuato il pagamento in misura ridotta, il funzionario o l'agente che ha accertato la violazione, salvo che ricorra l'ipotesi prevista nell'articolo 24, deve presentare rapporto, con la prova delle eseguite contestazioni o notificazioni, all'ufficio periferico cui sono demandati attribuzioni e compiti del Ministero nella cui competenza rientra la materia alla quale si riferisce la violazione o, in mancanza, al prefetto.
 
@@ -218,7 +216,7 @@ AGGIORNAMENTO (40)
 
 La L. 13 agosto 2010, n. 136, come modificata dal D.L. 12 novembre 2010, n. 187, convertito con modificazioni dalla L. 17 dicembre 2010, n. 217, ha disposto (con l'art. 6, comma 5) che "In deroga a quanto previsto dall'articolo 17, quinto comma, della legge 24 novembre 1981, n. 689, le sanzioni amministrative pecuniarie per le violazioni di cui ai precedenti commi sono applicate dal prefetto della provincia ove ha sede la stazione appaltante o l'amministrazione concedente".
 
-##### Art. 18 - Ordinanza-ingiunzione
+#### Art. 18 - Ordinanza-ingiunzione
 
 Entro il termine di trenta giorni dalla data della contestazione o notificazione della violazione, gli interessati possono far pervenire all'autorita' competente a ricevere il rapporto a norma dell'articolo 17 scritti difensivi e documenti e possono chiedere di essere sentiti dalla medesima autorita'.
 
@@ -234,7 +232,7 @@ Il termine per il pagamento e' di sessanta giorni se l'interessato risiede all'e
 
 L'ordinanza-ingiunzione costituisce titolo esecutivo. Tuttavia l'ordinanza che dispone la confisca diventa esecutiva dopo il decorso del termine per proporre opposizione, o, nel caso in cui l'opposizione e' proposta, con il passaggio in giudicato della sentenza con la quale si rigetta l'opposizione, o quando l'ordinanza con la quale viene dichiarata inammissibile l'opposizione o convalidato il provvedimento opposto diviene inoppugnabile o e' dichiarato inammissibile il ricorso proposto avverso la stessa.
 
-##### Art. 18-bis
+#### Art. 18-bis
 
 (( (Blocco ufficiale temporaneo) ))
 
@@ -244,7 +242,7 @@ L'ordinanza-ingiunzione costituisce titolo esecutivo. Tuttavia l'ordinanza che d
 
 3\. ((Qualora la documentazione di cui al comma 2 sia idonea a sanare la violazione contestata, l'organo accertatore svincola il prodotto agroalimentare o i mezzi tecnici di produzione, dandone comunicazione al custode. In caso di mancata trasmissione della documentazione nei termini indicati o di trasmissione di documentazione non idonea, l'organo accertatore provvede a convertire il blocco ufficiale temporaneo in sequestro amministrativo nei casi previsti dalla presente legge)).
 
-##### Art. 19 - Sequestro
+#### Art. 19 - Sequestro
 
 Quando si e' proceduto a sequestro, gli interessati possono, anche immediatamente, proporre opposizione all'autorita' indicata nel primo comma dell'articolo 18, con atto esente da bollo. Sull'opposizione la decisione e' adottata con ordinanza motivata emessa entro il decimo giorno successivo alla sua proposizione. Se non e' rigettata entro questo termine, l'opposizione si intende accolta.
 
@@ -260,7 +258,7 @@ AGGIORNAMENTO (44)
 
 Il D.L. 24 giugno 2014, n. 91 convertito con modificazioni dalla L. 11 agosto 2014, n. 116 ha disposto (con l'art. 4, comma 4) che "La procedura prevista dall'articolo 19 della legge 24 novembre 1981, n. 689, si applica anche all'opposizione all'inibizione all'uso della denominazione protetta".
 
-##### Art. 20 - Sanzioni amministrative accessorie
+#### Art. 20 - Sanzioni amministrative accessorie
 
 L'autorita' amministrativa con l'ordinanza - ingiunzione o il giudice penale con la sentenza di condanna nel caso previsto dall'articolo 24, puo' applicare, come sanzioni amministrative, quelle previste dalle leggi vigenti, per le singole violazioni, come sanzioni penali accessorie, quando esse consistono nella privazione o sospensione di facolta' e diritti derivanti da provvedimenti dell'amministrazione.
 
@@ -274,7 +272,7 @@ E' sempre disposta la confisca amministrativa delle cose, la fabbricazione, l'us
 
 La disposizione indicata nel comma precedente non si applica se la cosa appartiene a persona estranea alla violazione amministrativa e la fabbricazione, l'uso, il porto, la detenzione o l'alienazione possono essere consentiti mediante autorizzazione amministrativa.
 
-##### Art. 21 - Casi speciali di sanzioni amministrative accessorie
+#### Art. 21 - Casi speciali di sanzioni amministrative accessorie
 
 Quando e' accertata la violazione del primo comma dell'articolo 32 della legge 24 dicembre 1969, n. 990, e' sempre disposta la confisca del veicolo a motore o del natante che appartiene alla persona a cui e' ingiunto il pagamento, se entro il termine fissato con l'ordinanza-ingiunzione non viene pagato, oltre alla sanzione pecuniaria applicata, anche il premio di assicurazione per almeno sei mesi.
 
@@ -290,7 +288,7 @@ AGGIORNAMENTO (14)
 
 La Corte Costituzionale con sentenza 24-27 ottobre, n.371 (in G.U. 1a s.s. 2/1/1994, n.45) ha dichiarato "l'illegittimita' costituzionale dell'art. 21, terzo comma, della legge 24 novembre 1981, n. 689 (Modifiche al sistema penale), nella parte in cui prevede la confisca del veicolo privo della carta di circolazione, anche se gia' immatricolato."
 
-##### Art. 22 - Opposizione all'ordinanza-ingiunzione
+#### Art. 22 - Opposizione all'ordinanza-ingiunzione
 
 ((Salvo quanto previsto dall'articolo 133 del decreto legislativo 2 luglio 2010, n. 104, e da altre disposizioni di legge, contro l'ordinanza-ingiunzione di pagamento e contro l'ordinanza che dispone la sola confisca gli interessati possono proporre opposizione dinanzi all'autorita' giudiziaria ordinaria. L'opposizione e' regolata dall'articolo 6 del decreto legislativo 1° settembre 2011, n. 150.)) ((42))
 
@@ -338,7 +336,7 @@ Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, commi 1 e 2) che 
 
 2\. Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
 
-##### Art. 22-bis
+#### Art. 22-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 2011, N. 150)) ((42))
 
@@ -350,7 +348,7 @@ Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, commi 1 e 2) che 
 
 2\. Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
 
-##### Art. 23
+#### Art. 23
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 2011, N. 150)) ((42))
 
@@ -362,7 +360,7 @@ Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, commi 1 e 2) che 
 
 2\. Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
 
-##### Art. 24 - Connessione obiettiva con un reato
+#### Art. 24 - Connessione obiettiva con un reato
 
 Qualora l'esistenza di un reato dipenda dall'accertamento di una violazione non costituente reato, e per questa non sia stato effettuato il pagamento in misura ridotta, il giudice penale competente a conoscere del reato e' pure competente a decidere sulla predetta violazione e ad applicare con la sentenza di condanna la sanzione stabilita dalla legge per la violazione stessa.
 
@@ -378,7 +376,7 @@ Il pretore, quando provvede con decreto penale, con lo stesso decreto applica, n
 
 La competenza del giudice penale in ordine alla violazione non costituente reato cessa se il procedimento penale si chiude per estinzione del reato o per difetto di una condizione di procedibilita'.
 
-##### Art. 25 - Impugnabilita' del provvedimento del giudice penale
+#### Art. 25 - Impugnabilita' del provvedimento del giudice penale
 
 La sentenza del giudice penale, relativamente al capo che, ai sensi dell'articolo precedente, decide sulla violazione non costituente reato, e' impugnabile, oltre che dall'imputato e dal pubblico ministero, anche dalla persona che sia stata solidalmente condannata al pagamento della somma dovuta per la violazione.
 
@@ -386,13 +384,13 @@ Avverso il decreto penale, relativamente al capo che dichiara la responsabilita'
 
 Si osservano, in quanto applicabili, le disposizioni del codice di procedura penale concernenti l'impugnazione per i soli interessi civili.
 
-##### Art. 26 - Pagamento rateale della sanzione pecuniaria
+#### Art. 26 - Pagamento rateale della sanzione pecuniaria
 
 L'autorita' giudiziaria o amministrativa che ha applicato la sanzione pecuniaria puo' disporre, su richiesta dell'interessato che si trovi in condizioni economiche disagiate, che la sanzione medesima venga pagata in rate mensili da tre a trenta; ciascuna rata non puo' essere inferiore a lire trentamila. In ogni momento il debito puo' essere estinto mediante un unico pagamento.
 
 Decorso inutilmente, anche per una sola rata, il termine fissato dall'autorita' giudiziaria o amministrativa, l'obbligato e' tenuto al pagamento del residuo ammontare della sanzione in un'unica soluzione.
 
-##### Art. 27 - Esecuzione forzata
+#### Art. 27 - Esecuzione forzata
 
 Salvo quanto disposto nell'ultimo comma dell'articolo 22, decorso inutilmente il termine fissato per il pagamento, l'autorita' che ha emesso l'ordinanza-ingiunzione procede alla riscossione delle somme dovute in base alle norme previste per la esazione delle imposte dirette, trasmettendo il ruolo all'intendenza di finanza che lo da' in carico all'esattore per la riscossione in unica soluzione, senza l'obbligo del non riscosso come riscosso.
 
@@ -410,13 +408,13 @@ La maggiorazione assorbe gli interessi eventualmente previsti dalle disposizioni
 
 Le disposizioni relative alla competenza dell'esattore si applicano fino alla riforma del sistema di riscossione delle imposte dirette.
 
-##### Art. 28 - Prescrizione
+#### Art. 28 - Prescrizione
 
 Il diritto a riscuotere le somme dovute per le violazioni indicate dalla presente legge si prescrive nel termine di cinque anni dal giorno in cui e' stata commessa la violazione.
 
 L'interruzione della prescrizione e' regolata dalle norme del codice civile.
 
-##### Art. 29 - Devoluzione dei proventi
+#### Art. 29 - Devoluzione dei proventi
 
 I proventi delle sanzioni sono devoluti agli enti a cui era attribuito, secondo le leggi anteriori, l'ammontare della multa o dell'ammenda.
 
@@ -426,7 +424,7 @@ Nei casi previsti dal terzo comma dell'articolo 17 i proventi spettano alle regi
 
 Continuano ad applicarsi, se previsti, i criteri di ripartizione attualmente vigenti. Sono tuttavia escluse dalla ripartizione le autorita' competenti ad emanare l'ordinanza-ingiunzione di pagamento e la quota loro spettante e' ripartita tra gli altri aventi diritto, nella proporzione attribuita a ciascuno di essi.
 
-##### Art. 30 - Valutazione delle violazioni in materia di circolazione stradale
+#### Art. 30 - Valutazione delle violazioni in materia di circolazione stradale
 
 Agli effetti della sospensione e della revoca della patente di guida e del documento di circolazione, si tiene conto anche delle violazioni non costituenti reato previste, rispettivamente, dalle norme del testo unico sulla circolazione stradale, approvato con decreto del Presidente della Repubblica 15 giugno 1959, n. 393, e dalle norme della legge 20 giugno 1935, n. 1349, sui servizi di trasporto merci.
 
@@ -436,15 +434,15 @@ Il provvedimento di sospensione e' revocato, qualora l'autorita' giudiziaria, pr
 
 Nei casi sopra previsti e in ogni altro caso di revoca o sospensione del documento di circolazione da parte del prefetto o di altra autorita', il provvedimento e' immediatamente comunicato al competente ufficio provinciale della motorizzazione civile.
 
-##### Art. 31 - Provvedimenti dell'autorita' regionale
+#### Art. 31 - Provvedimenti dell'autorita' regionale
 
 I provvedimenti emessi dall'autorita' regionale per l'applicazione della sanzione amministrativa del pagamento di una somma di danaro non sono soggetti al controllo della Commissione prevista dall'articolo 41 della legge 10 febbraio 1953, n. 62.
 
 L'opposizione contro l'ordinanza-ingiunzione e' regolata dagli articoli 22 e 23.
 
-## SEZIONE III - DEPENALIZZAZIONE DI DELITTI E CONTRAVVENZIONI
+### SEZIONE III - DEPENALIZZAZIONE DI DELITTI E CONTRAVVENZIONI
 
-##### Art. 32 - Sostituzione della sanzione amministrativa pecuniaria alla multa o alla ammenda
+#### Art. 32 - Sostituzione della sanzione amministrativa pecuniaria alla multa o alla ammenda
 
 Non costituiscono reato e sono soggette alla sanzione amministrativa del pagamento di una somma di denaro tutte le violazioni per le quali e' prevista la sola pena della multa o dell'ammenda, salvo quanto disposto, per le violazioni finanziarie, dall'articolo 39.
 
@@ -452,7 +450,7 @@ La disposizione del precedente comma non si applica ai reati in esso previsti ch
 
 La disposizione del primo comma non si applica, infine, ai delitti in esso previsti che siano punibili a querela.
 
-##### Art. 33 - Altri casi di depenalizzazione
+#### Art. 33 - Altri casi di depenalizzazione
 
 Non costituiscono reato e sono soggette alla sanzione amministrativa del pagamento di una somma di denaro le contravvenzioni previste:
 
@@ -466,7 +464,7 @@ d) dagli articoli 8, 58, comma ottavo, 72, 83, comma sesto, 88, comma sesto, del
 
 e) dal primo comma dell'articolo 32 della legge 24 dicembre 1969, n. 990, sull'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti.
 
-##### Art. 34 - Esclusione della depenalizzazione
+#### Art. 34 - Esclusione della depenalizzazione
 
 La disposizione del primo comma dell'articolo 32 non si applica ai reati previsti:
 
@@ -496,7 +494,7 @@ n) dalle leggi relative alla prevenzione degli infortuni sul lavoro ed all'igien
 
 o) dall'articolo 108 del decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e dall'articolo 89 del decreto del Presidente della Repubblica 16 maggio 1960 n. 570, in materia elettorale.
 
-##### Art. 35 - Violazioni in materia di previdenza ed assistenza obbligatorie
+#### Art. 35 - Violazioni in materia di previdenza ed assistenza obbligatorie
 
 Non costituiscono reato e sono soggette alla sanzione amministrativa del pagamento di una somma di denaro tutte le violazioni previste dalle leggi in materia di previdenza ed assistenza obbligatorie, punite con la sola ammenda.
 
@@ -516,7 +514,7 @@ La disposizione del primo comma non si applica alle violazioni previste dagli ar
 
 ((IL D.LGS. 24 MARZO 2025, N. 33 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE COMMA)).
 
-##### Art. 36
+#### Art. 36
 
 (Omissione o ritardo nel versamento di contributi e premi
 
@@ -530,7 +528,7 @@ b) non provvede al pagamento delle somme dovute entro venti giorni dalla comunic
 
 Per gli effetti previsti dalla lettera b) del precedente comma la mancata comunicazione dell'accoglimento della domanda di dilazione entro novanta giorni dalla sua presentazione equivale a rigetto della medesima.
 
-##### Art. 37
+#### Art. 37
 
 (((Omissione o falsita' di registrazione o denuncia obbligatorie)
 
@@ -542,7 +540,7 @@ Per gli effetti previsti dalla lettera b) del precedente comma la mancata comuni
 
 4\. Entro novanta giorni l'ente impositore e' tenuto a dare comunicazione all'autorita' giudiziaria dell'avvenuta regolarizzazione o dell'esito del ricorso amministrativo o giudiziario)).
 
-##### Art. 38 - Entita' della somma dovuta
+#### Art. 38 - Entita' della somma dovuta
 
 La somma dovuta ai sensi del primo comma dell'articolo 32 e' pari all'ammontare della multa o dell'ammenda stabilita dalle disposizioni che prevedono le singole violazioni.
 
@@ -562,7 +560,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 13 luglio 1994, n. 480 ha disposto (con l'art. 14, comma 1) che "Le disposizioni del presente decreto legislativo si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore determinata dall'art. 15, salvo che il relativo procedimento penale sia stato definito".
 
-##### Art. 39 - Violazioni finanziarie
+#### Art. 39 - Violazioni finanziarie
 
 Non costituiscono reato e sono soggette alla sanzione amministrativa del pagamento di una somma di denaro le violazioni previste da leggi in materia finanziaria punite solo con la multa o con l'ammenda.
 
@@ -588,13 +586,13 @@ AGGIORNAMENTO (52)
 
 Il D.L. 31 dicembre 2025, n. 200, nel modificare l'art. 102, comma 1 del D.Lgs. 5 novembre 2024, n. 173, ha conseguentemente disposto (con l'art. 4, comma 1) che la modifica del comma 6 del presente articolo, disposta dall'art. 101, comma 2, lettera b) del D.Lgs. 173/2024 medesimo, decorre dal 1° gennaio 2027.
 
-## SEZIONE IV - DISPOSIZIONI TRANSITORIE E FINALI
+### SEZIONE IV - DISPOSIZIONI TRANSITORIE E FINALI
 
-##### Art. 40 - Violazioni commesse anteriormente alla legge di depenalizzazione
+#### Art. 40 - Violazioni commesse anteriormente alla legge di depenalizzazione
 
 Le disposizioni di questo Capo si applicano anche alle violazioni commesse anteriormente all'entrata in vigore della presente legge che le ha depenalizzate, quando il relativo procedimento penale non sia stato definito.
 
-##### Art. 41 - Norme processuali transitorie
+#### Art. 41 - Norme processuali transitorie
 
 L'autorita' giudiziaria, in relazione ai procedimenti penali per le violazioni non costituenti piu' reato, pendenti alla data di entrata in vigore della presente legge, se non deve pronunciare decreto di archiviazione o sentenza di proscioglimento, dispone la trasmissione degli atti all'autorita' competente. Da tale momento decorre il termine di cui al secondo comma dell'articolo 14 per la notifica delle violazioni, quando essa non e' prevista dalle leggi vigenti.
 
@@ -602,41 +600,41 @@ Le multe e le ammende inflitte con sentenze divenute irrevocabili o con decreti 
 
 Restano salve le pene accessorie e la confisca, nei casi in cui le stesse sono applicabili a norma dell'articolo 20. Restano salvi, altresi', i provvedimenti adottati in ordine alla patente di guida ed al documento di circolazione, ai sensi del testo unico delle norme sulla circolazione stradale, approvato con decreto del Presidente della Repubblica 15 giugno 1959, n. 393, e della legge 20 giugno 1935, n. 1349, sui servizi di trasporto merci. Per ogni altro effetto si applica il secondo comma dell'articolo 2 del codice penale.
 
-##### Art. 42 - Disposizioni abrogate
+#### Art. 42 - Disposizioni abrogate
 
 Sono abrogati la legge 3 maggio 1967, n. 317, gli articoli 4 e 5 della legge 9 ottobre 1967, n. 950, gli articoli 14 e 15 del decreto del Presidente della Repubblica 29 dicembre 1969, n. 1228, l'articolo 13 della legge 29 ottobre 1971, n. 889, la legge 24 dicembre 1975, n. 706, nonche' ogni altra disposizione incompatibile con la presente legge.
 
-##### Art. 43 - Entrata in vigore
+#### Art. 43 - Entrata in vigore
 
 Le norme di questo Capo entrano in vigore il centottantesimo giorno dalla data della pubblicazione della presente legge nella Gazzetta Ufficiale della Repubblica italiana.
 
 ## CAPO II - AGGRAVAMENTO DI PENE E NUOVE DISPOSIZIONI PENALI
 
-##### Art. 44 - Pubblicazione di discussioni o deliberazioni segrete delle Camere
+#### Art. 44 - Pubblicazione di discussioni o deliberazioni segrete delle Camere
 
 L'articolo 683 del codice penale e' sostituito dal seguente:
 
 "Art. 683. - (Pubblicazione delle discussioni o delle deliberazioni segrete di una delle Camere). - Chiunque, senza autorizzazione, pubblica col mezzo della stampa, o con un altro dei mezzi indicati nell'articolo 662, anche per riassunto, il contenuto delle discussioni o delle deliberazioni segrete del Senato o della Camera dei deputati e' punito, qualora il fatto non costituisca un piu' grave reato, con l'arresto fino a trenta giorni o con l'ammenda da lire centomila a cinquecentomila".
 
-##### Art. 45 - Pubblicazione arbitraria di atti di un procedimento penale
+#### Art. 45 - Pubblicazione arbitraria di atti di un procedimento penale
 
 L'articolo 684 del codice penale e sostituito dal seguente:
 
 "Art. 684. - (Pubblicazione arbitraria di atti di un procedimento penale). - Chiunque pubblica, in tutto o in parte, anche per riassunto o a guisa d'informazione, atti o documenti di un procedimento penale, di cui sia vietata per legge la pubblicazione, e' punito con l'arresto fino a trenta giorni o con l'ammenda da lire centomila a cinquecentomila".
 
-##### Art. 46 - Indebita pubblicazione di notizie concernenti un procedimento penale
+#### Art. 46 - Indebita pubblicazione di notizie concernenti un procedimento penale
 
 L'articolo 685 del codice penale e' sostituito dal seguente:
 
 "Art. 685. - (Indebita pubblicazione di notizie concernenti un procedimento penale). - Chiunque pubblica i nomi dei giudici, con l'indicazione dei voti individuali che ad essi si attribuiscono nelle deliberazioni prese in un procedimento penale, e' punito con l'arresto fino a quindici giorni o con l'ammenda da lire cinquantamila a duecentomila".
 
-##### Art. 47 - Modifica all'articolo 697 del codice penale in materia di denuncia di armi all'autorita
+#### Art. 47 - Modifica all'articolo 697 del codice penale in materia di denuncia di armi all'autorita
 
 Il secondo comma dell'articolo 697 del codice penale e' sostituito dal seguente:
 
 "Chiunque, avendo notizia che in un luogo da lui abitato si trovano armi o munizioni, omette di farne denuncia all'autorita', e' punito con l'arresto fino a due mesi o con l'ammenda fino a lire cinquecentomila".
 
-##### Art. 48 - Omessa trasmissione dell'elenco dei protesti cambiari
+#### Art. 48 - Omessa trasmissione dell'elenco dei protesti cambiari
 
 L'articolo 235 del regio-decreto 16 marzo 1942, n. 267, modificato per effetto della legge 24 dicembre 1975, n. 706, e' sostituito dal seguente:
 
@@ -644,25 +642,25 @@ L'articolo 235 del regio-decreto 16 marzo 1942, n. 267, modificato per effetto d
 
 La stessa pena si applica al procuratore del registro che nel termine prescritto non trasmette l'elenco delle dichiarazioni di rifiuto di pagamento a norma dell'articolo 13, secondo comma, o trasmette un elenco incompleto".
 
-##### Art. 49 - Modifica dell'articolo 3 delle disposizioni relative al mercato mobiliare ed al trattamento fiscale dei titoli azionari
+#### Art. 49 - Modifica dell'articolo 3 delle disposizioni relative al mercato mobiliare ed al trattamento fiscale dei titoli azionari
 
 L'ultimo comma dell'articolo 3 del decreto-legge 8 aprile 1974, n. 95, convertito con modificazioni nella legge 7 giugno 1974, n. 216, modificato per effetto della legge 24 dicembre 1975, n. 706, e' sostituito dal seguente:
 
 "Gli amministratori, i sindaci o revisori e i direttori generali di societa' o enti che non ottemperano alle richieste, non si uniformano alle prescrizioni della Commissione o comunque ostacolano l'esercizio delle sue funzioni sono puniti con l'arresto fino a tre mesi o con l'ammenda da lire 2 milioni a lire 40 milioni".
 
-##### Art. 50 - Modifica dell'articolo 5 delle disposizioni relative al mercato mobiliare ed al trattamento fiscale dei titoli azionari
+#### Art. 50 - Modifica dell'articolo 5 delle disposizioni relative al mercato mobiliare ed al trattamento fiscale dei titoli azionari
 
 Il sesto comma dell'articolo 5 del decreto-legge 8 aprile 1974, n. 95, convertito con modificazioni nella legge 7 giugno 1974, n. 216, modificato per effetto della legge 24 dicembre 1975, n. 706, e' sostituito dal seguente:
 
 "Gli amministratori delle societa' sono puniti con l'arresto fino a tre mesi o con l'ammenda da lire 2 milioni a lire 20 milioni ove omettano le comunicazioni previste dal presente articolo; ove le eseguano con un ritardo non superiore a trenta giorni sono puniti con l'ammenda da lire 1 milione a lire 20 milioni; ove eseguano comunicazioni false sono puniti con l'arresto fino a tre anni, salvo che il fatto non costituisca reato piu' grave. Per la violazione dell'obbligo di alienazione delle azioni o quote eccedenti si applicano le pene stabilite nel secondo comma dell'articolo 2630 del codice civile".
 
-##### Art. 51 - Modifica dell'articolo 17 delle disposizioni relative al mercato mobiliare ed al trattamento fiscale dei titoli azionari
+#### Art. 51 - Modifica dell'articolo 17 delle disposizioni relative al mercato mobiliare ed al trattamento fiscale dei titoli azionari
 
 L'ultimo comma dell'articolo 17 del decreto-legge 8 aprile 1974, n. 95, convertito con modificazioni nella legge 7 giugno 1974 n. 216, modificato per effetto della legge 24 dicembre 1975, n. 706, e' sostituito dal seguente:
 
 "I soggetti indicati nel primo comma che non eseguano le dichiarazioni e comunicazioni prescritte dal presente articolo nei termini ivi stabiliti sono puniti con l'arresto fino a tre mesi o con l'ammenda da lire 2 milioni a lire 40 milioni; ove le eseguano con un ritardo non superiore a trenta giorni sono puniti con l'ammenda da lire 1 milione a lire 20 milioni; ove eseguano dichiarazioni e comunicazioni false sono puniti con l'arresto fino a tre anni".
 
-##### Art. 52 - Modifica dell'articolo 18 delle disposizioni relative al mercato mobiliare ed al trattamento fiscale dei titoli azionari
+#### Art. 52 - Modifica dell'articolo 18 delle disposizioni relative al mercato mobiliare ed al trattamento fiscale dei titoli azionari
 
 L'ultimo comma dell'articolo 18 del decreto-legge 8 aprile 1974, n. 95, convertito con modificazioni nella legge 7 giugno 1974, n. 216, modificato per effetto della legge 24 dicembre 1975, n. 706, e' sostituito dal seguente:
 
@@ -670,11 +668,9 @@ L'ultimo comma dell'articolo 18 del decreto-legge 8 aprile 1974, n. 95, converti
 
 ## CAPO III - ((PENE SOSTITUTIVE DELLE PENE DETENTIVE BREVI))
 
-### SEZIONE I
+### SEZIONE I - APPLICAZIONE DELLE SANZIONI SOSTITUTIVE
 
-#### APPLICAZIONE DELLE SANZIONI SOSTITUTIVE
-
-##### Art. 53
+#### Art. 53
 
 (( (Sostituzione delle pene detentive brevi). ))
 
@@ -696,11 +692,11 @@ AGGIORNAMENTO (46)
 
 La Corte Costituzionale, con sentenza 12 gennaio - 1 febbraio 2022, n. 28 (in G.U. 1ª s.s. 2/2/2022, n. 5), ha dichiarato "l'illegittimita' costituzionale dell'art. 53, secondo comma, della legge 24 novembre 1981 n. 689 (Modifiche al sistema penale), nella parte in cui prevede che «[i]l valore giornaliero non puo' essere inferiore alla somma indicata dall'art. 135 del codice penale e non puo' superare di dieci volte tale ammontare», anziche' «[i]l valore giornaliero non puo' essere inferiore a 75 euro e non puo' superare di dieci volte la somma indicata dall'art. 135 del codice penale»".
 
-##### Art. 54
+#### Art. 54
 
 ((ARTICOLO ABROGATO DAL D.L. 14 GIUGNO 1993, N.187))
 
-##### Art. 55
+#### Art. 55
 
 (( (Semiliberta' sostitutiva). ))
 
@@ -714,7 +710,7 @@ L'ufficio di esecuzione penale esterna e' incaricato della vigilanza e dell'assi
 
 Si applicano, in quanto compatibili, le disposizioni previste dall'articolo 101, commi 1, 2 e da 5 a 9, del decreto del Presidente della Repubblica 30 giugno 2000, n. 230. Al condannato alla pena sostitutiva della semiliberta' non si applica l'articolo 120 del decreto legislativo 30 aprile 1992, n. 285.))
 
-##### Art. 56
+#### Art. 56
 
 (( (Detenzione domiciliare sostitutiva). ))
 
@@ -728,7 +724,7 @@ Il giudice, se lo ritiene necessario per prevenire il pericolo di commissione di
 
 Si applica, in quanto compatibile, l'articolo 100 del decreto del Presidente della Repubblica 30 giugno 2000, n. 230. Al condannato alla pena sostitutiva della detenzione domiciliare non si applica l'articolo 120 del decreto legislativo 30 aprile 1992, n. 285.))
 
-##### Art. 56-bis
+#### Art. 56-bis
 
 (( (Lavoro di pubblica utilita' sostitutivo). ))
 
@@ -744,7 +740,7 @@ In caso di decreto penale di condanna o di sentenza di applicazione della pena a
 
 Al condannato alla pena sostitutiva del lavoro di pubblica utilita' non si applica l'articolo 120 del decreto legislativo 30 aprile 1992, n. 285.))
 
-##### Art. 56-ter
+#### Art. 56-ter
 
 (( (Prescrizioni comuni). ))
 
@@ -762,7 +758,7 @@ Al condannato alla pena sostitutiva del lavoro di pubblica utilita' non si appli
 
 Al fine di prevenire la commissione di ulteriori reati, il giudice puo' altresi' prescrivere il divieto di avvicinamento ai luoghi frequentati dalla persona offesa. Si applica l'articolo 282-ter del codice di procedura penale, in quanto compatibile.))
 
-##### Art. 56-quater
+#### Art. 56-quater
 
 (( (Pena pecuniaria sostitutiva). ))
 
@@ -770,7 +766,7 @@ Al fine di prevenire la commissione di ulteriori reati, il giudice puo' altresi'
 
 Alla sostituzione della pena detentiva con la pena pecuniaria si applica l'articolo 133-ter del codice penale.))
 
-##### Art. 57
+#### Art. 57
 
 (( (Durata ed effetti delle pene sostitutive e criteri di ragguaglio). ))
 
@@ -778,7 +774,7 @@ Alla sostituzione della pena detentiva con la pena pecuniaria si applica l'artic
 
 La pena pecuniaria si considera sempre come tale, anche se sostitutiva della pena detentiva.))
 
-##### Art. 58 - Potere discrezionale del giudice nell'applicazione e nella scelta delle pene sostitutive
+#### Art. 58 - Potere discrezionale del giudice nell'applicazione e nella scelta delle pene sostitutive
 
 Il giudice, nei limiti fissati dalla legge e tenuto conto dei criteri indicati nell'articolo 133 del codice penale, se non ordina la sospensione condizionale della pena, puo' applicare le pene sostitutive della pena detentiva quando risultano piu' idonee alla rieducazione del condannato e quando, anche attraverso opportune prescrizioni, assicurano la prevenzione del pericolo di commissione di altri reati. La pena detentiva non puo' essere sostituita quando sussistono fondati motivi per ritenere che le prescrizioni non saranno adempiute dal condannato.
 
@@ -790,7 +786,7 @@ Quando applica la semiliberta' o la detenzione domiciliare, il giudice deve indi
 
 In ogni caso, nella scelta tra la semiliberta', la detenzione domiciliare o il lavoro di pubblica utilita', il giudice tiene conto delle condizioni legate all'eta', alla salute fisica o psichica, alla maternita', o alla paternita' nei casi di cui all'articolo 47-quinquies, comma 7, della legge 26 luglio 1975, n. 354, fermo quanto previsto dall'articolo 69, terzo e quarto comma. Il giudice tiene altresi' conto delle condizioni di disturbo da uso di sostanze stupefacenti, psicotrope o alcoliche ovvero da gioco d'azzardo, certificate dai servizi pubblici o privati autorizzati indicati all'articolo 94, comma 1, del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, nonche' delle condizioni di persona affetta da AIDS conclamata o da grave deficienza immunitaria, certificate dai servizi indicati dall'articolo 47-quater, comma 2, della legge 26 luglio 1975, n. 354.
 
-##### Art. 59
+#### Art. 59
 
 (( (Condizioni soggettive per la sostituzione della pena detentiva). ))
 
@@ -812,23 +808,23 @@ AGGIORNAMENTO (22)
 
 La Corte Costituzionale con sentenza 12-18 febbraio 1998, n.16 (in G.U. 1a s.s. 25/2/1998, n.8) ha dichiarato "l'illegittimita' costituzionale dell'art. 59 della legge 24 novembre 1981, n. 689 (Modifiche al sistema penale), nella parte in cui non esclude che le condizioni soggettive in esso prevedute per l'applicazione delle sanzioni sostitutive si estendano agli imputati minorenni."
 
-##### Art. 60
+#### Art. 60
 
 ((ARTICOLO ABROGATO DALLA L. 12 GIUGNO 2003, N.134))
 
-##### Art. 61
+#### Art. 61
 
 (( (Condanna a pena sostitutiva). ))
 
 ((Nel dispositivo della sentenza di condanna, della sentenza di applicazione della pena e del decreto penale, il giudice indica la specie e la durata della pena detentiva sostituita e la specie, la durata ovvero l'ammontare della pena sostitutiva.))
 
-##### Art. 61-bis
+#### Art. 61-bis
 
 (( (Esclusione della sospensione condizionale della pena). ))
 
 ((Le disposizioni di cui agli articoli 163 e seguenti del codice penale, relative alla sospensione condizionale della pena, non si applicano alle pene sostitutive previste dal presente Capo.))
 
-##### Art. 62
+#### Art. 62
 
 (( (Esecuzione della semiliberta' e della detenzione domiciliare sostitutive). ))
 
@@ -840,7 +836,7 @@ Se il condannato e' detenuto o internato, l'ordinanza del magistrato di sorvegli
 
 Cessata l'esecuzione della pena, le cose ritirate e custodite ai sensi del terzo comma sono restituite a cura dello stesso organo di polizia; vengono inoltre annullate le annotazioni effettuate ai sensi dello stesso terzo comma. Di tutti gli adempimenti espletati e' redatto processo verbale ed e' data notizia al questore e agli altri uffici interessati, nonche' al direttore dell'istituto presso cui si trova il condannato alla semiliberta'.))
 
-##### Art. 63
+#### Art. 63
 
 (( (Esecuzione del lavoro di pubblica utilita' sostitutivo). ))
 
@@ -852,7 +848,7 @@ Con la sentenza o con il decreto penale, il giudice incarica l'ufficio di esecuz
 
 Al termine del lavoro di pubblica utilita', l'ufficio di esecuzione penale esterna riferisce al giudice che, fuori dai casi previsti dall'articolo 66, dichiara eseguita la pena ed estinto ogni altro effetto penale, ad eccezione delle pene accessorie perpetue, e dispone la revoca della confisca nei casi di cui all'articolo 56-bis, quinto comma.))
 
-##### Art. 64
+#### Art. 64
 
 (( (Modifica delle modalita' di esecuzione delle pene sostitutive). ))
 
@@ -864,7 +860,7 @@ I provvedimenti di cui al primo e al secondo comma sono immediatamente trasmessi
 
 Non possono essere modificate le prescrizioni di cui all'articolo 56-ter, primo comma, numeri 1, 2, 4 e 5.))
 
-##### Art. 65 - Controllo sull'adempimento delle prescrizioni ((...))
+#### Art. 65 - Controllo sull'adempimento delle prescrizioni ((...))
 
 L'ufficio di pubblica sicurezza del luogo in cui il condannato sconta ((le pene sostitutive della semiliberta', della detenzione domiciliare o del lavoro di pubblica utilita' ovvero)), in mancanza di questo, il comando dell'Arma dei carabinieri territorialmente competente ((, e il nucleo di Polizia penitenziaria presso l'ufficio di esecuzione penale esterna verificano)) periodicamente che il condannato adempia alle prescrizioni impostegli e ((tengono)) un registro nominativo ed un fascicolo per ogni condannato sottoposto a controllo.
 
@@ -872,7 +868,7 @@ Nel fascicolo individuale sono ((custodite la)) sentenza di condanna ((che appli
 
 Il controllo sull'osservanza dell'obbligo prescritto dal primo comma dell'articolo 55 viene effettuato dal direttore dell'istituto ((...)).
 
-##### Art. 66
+#### Art. 66
 
 (( (Revoca per inosservanza delle prescrizioni). ))
 
@@ -882,7 +878,7 @@ Gli ufficiali e gli agenti della polizia giudiziaria, il direttore dell'istituto
 
 Il magistrato di sorveglianza compie, ove occorra, sommari accertamenti e, qualora ritenga doversi disporre la revoca della semiliberta' o della detenzione domiciliare e la conversione previste dal primo comma, procede a norma dell'articolo 666 del codice di procedura penale. Allo stesso modo procede il giudice che ha applicato il lavoro di pubblica utilita'.))
 
-##### Art. 67
+#### Art. 67
 
 (( (Inapplicabilita' delle misure alternative alla detenzione). ))
 
@@ -896,7 +892,7 @@ AGGIORNAMENTO (20)
 
 La Corte Costituzionale con sentenza 9-22 aprile 1997, n.109 (in G.U. 1a s.s. 30/4/1997, n.18) ha dichiarato "l'illegittimita' costituzionale dell'art. 67 della legge 24 novembre 1981, n. 689 (Modifiche al sistema penale), nella parte in cui si applica ai condannati minori di eta' al momento della condanna."
 
-##### Art. 68
+#### Art. 68
 
 (( (Sospensione dell'esecuzione delle pene sostitutive). ))
 
@@ -908,7 +904,7 @@ Nei casi previsti dal primo comma, il giudice ovvero il magistrato di sorveglian
 
 La pena sostitutiva riprende a decorrere dal giorno successivo a quello della cessazione della esecuzione della pena detentiva ovvero dal secondo giorno successivo, in relazione alle necessita' di viaggio e alle condizioni dei trasporti.))
 
-##### Art. 69
+#### Art. 69
 
 (( (Licenze ai condannati alla semiliberta' e alla detenzione domiciliare. Sospensione e rinvio delle pene sostitutive). ))
 
@@ -922,7 +918,7 @@ Quando le condizioni di cui agli articoli 146 e 147 del codice penale non sono c
 
 Nelle medesime forme di cui al terzo e al quarto comma si provvede quando occorre disporre la proroga del termine del rinvio dell'esecuzione.))
 
-##### Art. 70
+#### Art. 70
 
 (( (Esecuzione di pene sostitutive concorrenti). ))
 
@@ -936,7 +932,7 @@ Le pene sostitutive sono sempre eseguite dopo le pene detentive e, nell'ordine, 
 
 Per l'esecuzione delle pene sostitutive concorrenti si applica, in quanto compatibile, l'articolo 663 del codice di procedura penale. E' tuttavia fatta salva, limitatamente all'esecuzione del lavoro di pubblica utilita', anche concorrente con pene sostitutive di specie diversa, la competenza del giudice che ha applicato tale pena.))
 
-##### Art. 71
+#### Art. 71
 
 (( (Esecuzione della pena pecuniaria sostitutiva. Revoca e conversione per mancato pagamento). ))
 
@@ -946,7 +942,7 @@ Il mancato pagamento della pena pecuniaria sostitutiva, entro il termine di cui 
 
 Quando le condizioni economiche e patrimoniali del condannato al momento dell'esecuzione rendono impossibile il pagamento entro il termine indicato nell'ordine di esecuzione, la pena pecuniaria sostitutiva e' revocata e convertita nel lavoro di pubblica utilita' sostitutivo o, se il condannato si oppone, nella detenzione domiciliare sostitutiva. Si applicano le disposizioni del terzo periodo del secondo comma.))
 
-##### Art. 72 - Ipotesi di responsabilita' penale e revoca
+#### Art. 72 - Ipotesi di responsabilita' penale e revoca
 
 Il condannato alla pena sostitutiva della semiliberta' o della detenzione domiciliare che per piu' di dodici ore, senza giustificato motivo, rimane assente dall'istituto di pena ovvero si allontana da uno dei luoghi indicati nell'articolo 56 e' punito ai sensi del primo comma dell'articolo 385 del codice penale. Si applica la disposizione del quarto comma dell'articolo 385 del codice penale.
 
@@ -958,37 +954,37 @@ La condanna a pena detentiva per un delitto non colposo commesso ((dopo l'applic
 
 La cancelleria del giudice che ha pronunciato la sentenza di cui al quarto comma informa senza indugio il magistrato di sorveglianza competente per la detenzione domiciliare sostitutiva o per la semiliberta' sostitutiva, ovvero il giudice che ha applicato il lavoro di pubblica utilita' sostitutivo.
 
-##### Art. 73
+#### Art. 73
 
 ((ARTICOLO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N.313))
 
-##### Art. 74 - Iscrizione nel casellario giudiziale
+#### Art. 74 - Iscrizione nel casellario giudiziale
 
 Dopo l'articolo 58 della legge 26 luglio 1975, n. 354, e' inserito il seguente:
 
 "Art. 58-bis. - (Iscrizione nel casellario giudiziale). - Nel casellario giudiziale sono iscritti i provvedimenti della sezione di sorveglianza relativi alla irrogazione e alla revoca delle misure alternative alla pena detentiva".
 
-##### Art. 75
+#### Art. 75
 
 (( (Disposizioni relative ai minorenni). ))
 
 ((Le disposizioni del presente Capo si applicano anche, in quanto compatibili, agli imputati minorenni. Si applica l'articolo 30 del decreto del Presidente della Repubblica 22 settembre 1988, n. 448.))
 
-##### Art. 75-bis
+#### Art. 75-bis
 
 (( (Disposizioni relative ai reati militari). ))
 
 ((Le disposizioni del presente Capo si applicano, in quanto compatibili, ai reati militari quando le prescrizioni risultano in concreto compatibili con la posizione soggettiva del condannato.))
 
-##### Art. 76
+#### Art. 76
 
 (( (Norme applicabili). ))
 
 ((Alle pene sostitutive previste dal presente Capo si applicano, in quanto compatibili, gli articoli 47, comma 12-bis, 51-bis, 51-quater e 53-bis della legge 26 luglio 1975, n. 354.))
 
-## SEZIONE II - APPLICAZIONE DI SANZIONI SOSTITUTIVE SU RICHIESTA DELL'IMPUTATO
+### SEZIONE II - APPLICAZIONE DI SANZIONI SOSTITUTIVE SU RICHIESTA DELL'IMPUTATO
 
-##### Art. 77 - Ambito e modalita' d'applicazione
+#### Art. 77 - Ambito e modalita' d'applicazione
 
 Nel corso dell'istruzione e fino a quando non sono compiute per la prima volta le formalita' di apertura del dibattimento, il giudice, quando ritiene, in seguito all'esame degli atti e agli accertamenti eventualmente disposti, che sussistono elementi per applicare per il reato per cui procede la sanzione sostitutiva della liberta' controllata o della pena pecuniaria puo' disporre con sentenza, su richiesta dell'imputato e con il parere favorevole del pubblico ministero, l'applicazione della sanzione sostitutiva, con esclusione di ogni pena accessoria e misura di sicurezza, ad eccezione della confisca nei casi previsti dal secondo comma dell'articolo 240 del codice penale. In tal caso, con la stessa sentenza, dichiara estinto il reato per intervenuta applicazione della sanzione sostitutiva su richiesta dell'imputato.
 
@@ -1006,7 +1002,7 @@ che:"
 
 Salvo quanto stabilito dall'articolo 248 comma 4, sono abrogati gli articoli 77, 78, 79 e 80 della legge 24 novembre 1981 n. 689." Ha inoltre disposto con l'art.248 comma 4 che:" Continuano ad osservarsi le disposizioni relative alla applicazione di sanzioni sostitutive su richiesta dell'imputato, a norma della legge 24 novembre 1981 n. 689, se la richiesta medesima e' stata formulata anteriormente all'entrata in vigore del codice e sempre che l'interessato non si avvalga delle facolta' previste dall'articolo 247 e dal presente articolo."
 
-##### Art. 78 - Competenza
+#### Art. 78 - Competenza
 
 Sulla richiesta formulata dall'imputato prima dell'emissione del decreto di citazione a giudizio, della richiesta di citazione a giudizio o dell'ordinanza di rinvio a giudizio, provvede il pretore per i procedimenti dinanzi a lui pendenti ed il giudice istruttore negli altri casi; il parere del pubblico ministero e' espresso dal procuratore della Repubblica.
 
@@ -1020,7 +1016,7 @@ Il D.Lgs. 28 luglio 1989, n. 271 ha disposto (con l'art. 234 comma 1) che:"
 
 Salvo quanto stabilito dall'articolo 248 comma 4, sono abrogati gli articoli 77, 78, 79 e 80 della legge 24 novembre 1981 n. 689." Ha inoltre disposto con l'art.248 comma 4 che:" Continuano ad osservarsi le disposizioni relative alla applicazione di sanzioni sostitutive su richiesta dell'imputato, a norma della legge 24 novembre 1981 n. 689, se la richiesta medesima e' stata formulata anteriormente all'entrata in vigore del codice e sempre che l'interessato non si avvalga delle facolta' previste dall'articolo 247 e dal presente articolo."
 
-##### Art. 79 - Applicazione nell'ulteriore corso del procedimento
+#### Art. 79 - Applicazione nell'ulteriore corso del procedimento
 
 Il giudice puo' procedere ai sensi dell'articolo 77 in ogni stato e grado del procedimento, quando l'imputato ha formulato la richiesta di cui allo stesso articolo nel termine ivi previsto.((5))
 
@@ -1034,7 +1030,7 @@ che:"
 
 Salvo quanto stabilito dall'articolo 248 comma 4, sono abrogati gli articoli 77, 78, 79 e 80 della legge 24 novembre 1981 n. 689." Ha inoltre disposto con l'art.248 comma 4 che:" Continuano ad osservarsi le disposizioni relative alla applicazione di sanzioni sostitutive su richiesta dell'imputato, a norma della legge 24 novembre 1981 n. 689, se la richiesta medesima e' stata formulata anteriormente all'entrata in vigore del codice e sempre che l'interessato non si avvalga delle facolta' previste dall'articolo 247 e dal presente articolo."
 
-##### Art. 80 - Esclusioni soggettive
+#### Art. 80 - Esclusioni soggettive
 
 Il provvedimento di cui all'articolo 77 non puo' essere emesso nei confronti di chi in precedenza ne ha gia' beneficiato o nei confronti di chi ha riportato condanna a pena detentiva.(2)((5))
 
@@ -1054,31 +1050,31 @@ Il D.Lgs. 28 luglio 1989, n. 271 ha disposto (con l'art. 234 comma 1) che:"
 
 Salvo quanto stabilito dall'articolo 248 comma 4, sono abrogati gli articoli 77, 78, 79 e 80 della legge 24 novembre 1981 n. 689." Ha inoltre disposto con l'art.248 comma 4 che:" Continuano ad osservarsi le disposizioni relative alla applicazione di sanzioni sostitutive su richiesta dell'imputato, a norma della legge 24 novembre 1981 n. 689, se la richiesta medesima e' stata formulata anteriormente all'entrata in vigore del codice e sempre che l'interessato non si avvalga delle facolta' previste dall'articolo 247 e dal presente articolo."
 
-##### Art. 81
+#### Art. 81
 
 ((ARTICOLO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N.313))
 
-##### Art. 82 - Esecuzione delle sanzioni sostitutive
+#### Art. 82 - Esecuzione delle sanzioni sostitutive
 
 Per l'esecuzione delle sanzioni sostitutive si applicano le disposizioni della Sezione I di questo Capo.
 
-##### Art. 83 - Violazione degli obblighi
+#### Art. 83 - Violazione degli obblighi
 
 Colui il quale viola, in tutto o in parte, gli obblighi impostigli con la sentenza pronunciata a norma dell'articolo 77 e' punito con la reclusione da sei mesi a tre anni.
 
 In caso di condanna la pena non puo' essere sostituita a norma di questo Capo.
 
-##### Art. 84 - Comunicazione all'imputato
+#### Art. 84 - Comunicazione all'imputato
 
 Quando per il reato per il quale si procede e' ammessa l'oblazione o puo' trovare applicazione la disposizione prevista dallo articolo 77 ne va fatta menzione nella comunicazione giudiziaria.
 
-##### Art. 85 - Entrata in vigore
+#### Art. 85 - Entrata in vigore
 
 Le disposizioni contenute nella presente Sezione si applicano anche ai reati commessi prima dell'entrata in vigore della presente legge.
 
 ## CAPO IV - ESTENSIONE DELLA PERSEGUIBILITA' A QUERELA
 
-##### Art. 86 - Nuovo testo degli articoli 334 e 335 del codice penale
+#### Art. 86 - Nuovo testo degli articoli 334 e 335 del codice penale
 
 Gli articoli 334 e 335 del codice penale sono sostituiti dai seguenti:
 
@@ -1090,7 +1086,7 @@ La pena e' della reclusione da un mese ad un anno e della multa fino a lire seic
 
 "Art. 335. - (Violazione colposa di doveri inerenti alla custodia di cose sottoposte a sequestro disposto nel corso di un procedimento penale o dall'autorita' amministrativa). - Chiunque, avendo in custodia una cosa sottoposta a sequestro disposto nel corso di un procedimento penale o dall'autorita' amministrativa, per colpa ne cagiona la distruzione o la dispersione, ovvero ne agevola la sottrazione o la soppressione, e' punito con la reclusione fino a sei mesi o con la multa fino a lire seicentomila".
 
-##### Art. 87 - Sottrazione, distruzione o danneggiamento di cose sottoposte a pignoramento, sequestro giudiziario o conservativo
+#### Art. 87 - Sottrazione, distruzione o danneggiamento di cose sottoposte a pignoramento, sequestro giudiziario o conservativo
 
 Il terzo comma dell'articolo 388 del codice penale e' sostituito dai seguenti commi:
 
@@ -1102,13 +1098,13 @@ Il custode di una cosa sottoposta a pignoramento ovvero a sequestro giudiziario 
 
 Il colpevole e' punito a querela della persona offesa".
 
-##### Art. 88 - Violazione colposa dei doveri inerenti alla custodia di cose sottoposte a pignoramento o sequestro giudiziario o conservativo
+#### Art. 88 - Violazione colposa dei doveri inerenti alla custodia di cose sottoposte a pignoramento o sequestro giudiziario o conservativo
 
 Dopo l'articolo 388 del codice penale e' inserito il seguente:
 
 "Art. 388-bis. - (Violazione colposa dei doveri inerenti alla custodia di cose sottoposte a pignoramento ovvero a sequestro giudiziario o conservativo). - Chiunque, avendo in custodia una cosa sottoposta a pignoramento ovvero a sequestro giudiziario o conservativo, per colpa ne cagiona la distruzione o la dispersione, ovvero ne agevola la soppressione o la sottrazione, e' punito, a querela della persona offesa, con la reclusione fino a sei mesi o con la multa fino a lire seicentomila".
 
-##### Art. 89 - Casi di perseguibilita' a querela
+#### Art. 89 - Casi di perseguibilita' a querela
 
 Dopo l'articolo 493 del codice penale e' inserito il seguente:
 
@@ -1116,43 +1112,43 @@ Dopo l'articolo 493 del codice penale e' inserito il seguente:
 
 Si procede d'ufficio, se i fatti previsti dagli articoli di cui al precedente comma riguardano un testamento olografo".
 
-##### Art. 90 - Modifica dell'articolo 570 del codice penale in materia di violazione degli obblighi di assistenza familiare
+#### Art. 90 - Modifica dell'articolo 570 del codice penale in materia di violazione degli obblighi di assistenza familiare
 
 Nell'articolo 570 del codice penale dopo il secondo comma e' inserito il seguente:
 
 "Il delitto e' punibile a querela della persona offesa salvo nei casi previsti dal numero 1 e, quando il reato e' commesso nei confronti dei minori, dal numero 2 del precedente comma".
 
-##### Art. 91 - Modifica dell'articolo 582 del codice penale in materia di lesione personale
+#### Art. 91 - Modifica dell'articolo 582 del codice penale in materia di lesione personale
 
 Il secondo comma dell'articolo 582 del codice penale e' sostituito dal seguente:
 
 "Se la malattia ha una durata non superiore ai venti giorni e non concorre alcuna delle circostanze aggravanti previste negli articoli 583 e 585, ad eccezione di quelle indicate nel numero 1 e nell'ultima parte dell'articolo 577, il delitto e' punibile a querela della persona offesa".
 
-##### Art. 92 - Modifica dell'articolo 590 del codice penale in materia di lesioni personali colpose
+#### Art. 92 - Modifica dell'articolo 590 del codice penale in materia di lesioni personali colpose
 
 L'ultimo comma dell'articolo 590 del codice penale e' sostituito dal seguente:
 
 "Il delitto e' punibile a querela della persona offesa, salvo nei casi previsti nel primo e secondo capoverso, limitatamente ai fatti commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro o relative all'igiene del lavoro o che abbiano determinato una malattia professionale".
 
-##### Art. 93 - Modifica dell'articolo 627 del codice penale in materia di sottrazione di cose comuni
+#### Art. 93 - Modifica dell'articolo 627 del codice penale in materia di sottrazione di cose comuni
 
 Il primo comma dell'articolo 627 del codice penale e' sostituito dal seguente:
 
 "Il comproprietario, socio o coerede che, per procurare a se' o ad altri un profitto, si impossessa della cosa comune, sottraendola a chi la detiene, e' punito, a querela della persona offesa, con la reclusione fino a due anni o con la multa da lire quarantamila a quattrocentomila".
 
-##### Art. 94 - Usurpazione
+#### Art. 94 - Usurpazione
 
 L'articolo 631 del codice penale e' sostituito dal seguente:
 
 "Art. 631. - (Usurpazione). - Chiunque, per appropriarsi, in tutto o in parte, dell'altrui cosa immobile, ne rimuove o altera i termini e' punito, a querela della persona offesa, con la reclusione fino a tre anni e con la multa fino a lire quattrocentomila".
 
-##### Art. 95 - Deviazione di acque e modificazione dello stato dei luoghi
+#### Art. 95 - Deviazione di acque e modificazione dello stato dei luoghi
 
 L'articolo 632 del codice penale e' sostituito dal seguente:
 
 "Art. 632. - (Deviazione di acque e modificazione dello stato dei luoghi). - Chiunque, per procurare a se' o ad altri un ingiusto profitto, devia acque, ovvero immuta nell'altrui proprieta' lo stato dei luoghi, e' punito, a querela della persona offesa, con la reclusione fino a tre anni e con la multa fino a lire quattrocentomila".
 
-##### Art. 96
+#### Art. 96
 
 (Modifica dell'articolo 636 del codice penale in materia di
 
@@ -1162,19 +1158,19 @@ Nell'articolo 636 del codice penale e' aggiunto in fine il seguente comma:
 
 "Il delitto e' punibile a querela della persona offesa".
 
-##### Art. 97 - Casi di esclusione della perseguibilita' a querela
+#### Art. 97 - Casi di esclusione della perseguibilita' a querela
 
 Dopo l'articolo 639 del codice penale e' inserito il seguente:
 
 "Art. 639-bis. - (Casi di esclusione della perseguibilita' a querela). - Nei casi previsti dagli articoli 631, 632, 633 e 636 si procede d'ufficio se si tratta di acque, terreni, fondi o edifici pubblici o destinati ad uso pubblico".
 
-##### Art. 98 - Modifica dell'articolo 640 del codice penale in materia di truffa
+#### Art. 98 - Modifica dell'articolo 640 del codice penale in materia di truffa
 
 Nell'articolo 640 del codice penale e' aggiunto in fine il seguente comma:
 
 "Il delitto e' punibile a querela della persona offesa, salvo che ricorra taluna delle circostanze previste dal capoverso precedente o un'altra circostanza aggravante".
 
-##### Art. 99 - Norma transitoria
+#### Art. 99 - Norma transitoria
 
 Per i reati perseguibili a querela ai sensi delle disposizioni precedenti, connessi prima del giorno dell'entrata in vigore della presente legge, il termine per presentare la querela decorre dal giorno suddetto, se la persona offesa ha avuto in precedenza notizie del fatto costituente reato.
 
@@ -1182,7 +1178,7 @@ Se e' pendente il procedimento, il giudice informa la persona offesa dal reato d
 
 ## CAPO V - DISPOSIZIONI IN MATERIA DI PENE PECUNIARIE
 
-##### Art. 100 - Condizioni economiche del reo; valutazione agli effetti della pena pecuniaria - Pagamento rateale della multa o della ammenda
+#### Art. 100 - Condizioni economiche del reo; valutazione agli effetti della pena pecuniaria - Pagamento rateale della multa o della ammenda
 
 Dopo l'articolo 133 del codice penale sono inseriti i seguenti:
 
@@ -1196,7 +1192,7 @@ Ciascuna rata tuttavia non puo' essere inferiore a lire trentamila".
 
 In ogni momento il condannato puo' estinguere la pena mediante un unico pagamento".
 
-##### Art. 101 - Nuovo testo degli articoli 24, 26, 66, 78, 135 e 136 del codice penale
+#### Art. 101 - Nuovo testo degli articoli 24, 26, 66, 78, 135 e 136 del codice penale
 
 Gli articoli 24, 26, 66, 78, 135, 136 del codice penale sono sostituiti dai seguenti:
 
@@ -1228,7 +1224,7 @@ Nel caso di concorso di reati preveduto dall'articolo 74, la durata delle pene d
 
 "Art. 136. - (Modalita' di conversione di pene pecuniarie). - Le pene della multa e dell'ammenda, non eseguite per insolvibilita' del condannato, si convertono a norma di legge".
 
-##### Art. 102 - Conversione delle pene pecuniarie principali per mancato pagamento
+#### Art. 102 - Conversione delle pene pecuniarie principali per mancato pagamento
 
 Il mancato pagamento della multa o dell'ammenda entro il termine di cui all'articolo 660 del codice di procedura penale indicato nell'ordine di esecuzione ne comporta la conversione nella semiliberta' sostitutiva.
 
@@ -1264,7 +1260,7 @@ AGGIORNAMENTO (53)
 
 La Corte Costituzionale, con sentenza 9 febbraio - 17 aprile 2026, n. 54 (in G.U. 1ª s.s. 22/04/2026, n. 16), ha dichiarato "l'illegittimita' costituzionale degli artt. 102 della legge 24 novembre 1981, n. 689 (Modifiche al sistema penale) e 660, comma 3, del codice di procedura penale, nella parte in cui, in caso di insolvenza nel pagamento delle pene pecuniarie principali, non prevedono la conversione anche nella detenzione domiciliare sostitutiva".
 
-##### Art. 103
+#### Art. 103
 
 (( (Mancato pagamento della pena pecuniaria per insolvibilita' del condannato). ))
 
@@ -1276,19 +1272,19 @@ Se e' stato disposto il pagamento rateale, ai sensi dell'articolo 133-ter del co
 
 Il condannato puo' in ogni caso far cessare l'esecuzione del lavoro di pubblica utilita' sostitutiva o della detenzione domiciliare sostitutiva pagando la multa o l'ammenda, dedotta la somma corrispondente alla durata della pena da conversione espiata. A tal fine puo' essere ammesso al pagamento rateale, ai sensi dell'articolo 133-ter del codice penale.))
 
-##### Art. 103-bis
+#### Art. 103-bis
 
 (( (Inapplicabilita' delle misure alternative alla detenzione). ))
 
 ((Le misure alternative alla detenzione, di cui al Capo VI del Titolo I della legge 26 luglio 1975 n. 354, non si applicano al condannato alla semiliberta' sostitutiva o alla detenzione domiciliare sostitutiva derivanti da conversione della pena pecuniaria ai sensi del presente Capo.))
 
-##### Art. 103-ter
+#### Art. 103-ter
 
 (( (Disposizioni applicabili). ))
 
 ((Alla semiliberta' sostitutiva, alla detenzione domiciliare sostitutiva e al lavoro di pubblica utilita' sostitutivo, quali pene da conversione della multa e dell'ammenda ai sensi del presente Capo, si applicano, in quanto compatibili e non espressamente derogate, le disposizioni del Capo III della presente legge e le ulteriori disposizioni di legge, ovunque previste, che si riferiscono alle corrispondenti pene sostitutive.))
 
-##### Art. 103-quater
+#### Art. 103-quater
 
 (( (Disposizioni relative ai minorenni). ))
 
@@ -1298,7 +1294,7 @@ La durata della pena da conversione non puo' superare un anno, se la pena conver
 
 Si applicano, in quanto compatibili, gli articoli 71, 102 e 103, nonche' l'articolo 103-ter. Si applica altresi', in quanto compatibile, l'articolo 660 del codice di procedura penale. Non si applica l'articolo 103-bis e il minore, nel corso dell'esecuzione della detenzione domiciliare sostitutiva, puo' essere affidato in prova al servizio sociale ai sensi dell'articolo 5 del decreto legislativo 2 ottobre 2018, n. 121.))
 
-##### Art. 104 - Nuovo testo degli articoli 163, 175 e 237 del codice penale
+#### Art. 104 - Nuovo testo degli articoli 163, 175 e 237 del codice penale
 
 Gli articoli 163, 175 e 237 del codice penale sono sostituiti dai seguenti:
 
@@ -1322,15 +1318,15 @@ In luogo del deposito, e' ammessa la prestazione di una garanzia mediante ipotec
 
 La durata della misura di sicurezza non puo' essere inferiore a un anno, ne' superiore a cinque, e decorre dal giorno in cui la cauzione fu prestata".
 
-##### Art. 105
+#### Art. 105
 
 ((ARTICOLO ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 150))
 
-##### Art. 106
+#### Art. 106
 
 ((ARTICOLO ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 150))
 
-##### Art. 107
+#### Art. 107
 
 (( (Esecuzione delle pene conseguenti alla conversione della multa o dell'ammenda). ))
 
@@ -1338,7 +1334,7 @@ La durata della misura di sicurezza non puo' essere inferiore a un anno, ne' sup
 
 Competente e' il magistrato di sorveglianza, che provvede ai sensi dell'articolo 678, comma 1-bis, del codice di procedura penale.))
 
-##### Art. 108
+#### Art. 108
 
 (( (Inosservanza delle prescrizioni inerenti alle pene conseguenti alla conversione della multa o della ammenda). ))
 
@@ -1350,29 +1346,29 @@ Competente per la conversione e' il magistrato di sorveglianza, che provvede ai 
 
 Si applicano le disposizioni di cui al primo e al secondo comma dell'articolo 72.))
 
-##### Art. 109 - Mancata esecuzione dolosa di sanzioni pecuniarie
+#### Art. 109 - Mancata esecuzione dolosa di sanzioni pecuniarie
 
 Dopo l'articolo 388-bis del codice penale e' inserito il seguente:
 
 "Art. 388-ter. - (Mancata esecuzione dolosa di sanzioni pecuniarie). - Chiunque, per sottrarsi all'esecuzione di una multa o di una ammenda o di una sanzione amministrativa pecuniaria, compie, sui propri o sugli altrui beni, atti simulati o fraudolenti, o commette allo stesso scopo altri fatti fraudolenti, e' punito, qualora non ottemperi nei termini all'ingiunzione di pagamento contenuta nel precetto, con la reclusione da sei mesi a tre anni".
 
-##### Art. 110 - Abrogazione di norma
+#### Art. 110 - Abrogazione di norma
 
 E' abrogato l'articolo 49 della legge 26 luglio 1975, n. 354.
 
-##### Art. 111 - Disposizioni transitorie
+#### Art. 111 - Disposizioni transitorie
 
 Le norme sulla conversione delle pene pecuniarie si applicano ai reati commessi successivamente all'entrata in vigore della presente legge.
 
 In deroga a quanto disposto dall'articolo 172 del codice penale, la pena della multa inflitta, anche congiuntamente a quella della reclusione, per reati commessi prima della entrata in vigore della presente legge, si estingue col decorso del termine di dieci anni dalla data di entrata in vigore della presente legge; tuttavia, se la sentenza di condanna e divenuta irrevocabile successivamente alla data di entrata in vigore della presente legge, la pena della multa si estingue col decorso di dieci anni dal passaggio in giudicato della sentenza.
 
-##### Art. 112 - Perdono giudiziale
+#### Art. 112 - Perdono giudiziale
 
 L'articolo 19 del regio decreto-legge 20 luglio 1934, n. 1404, convertito, con modificazioni, nella legge 27 maggio 1935, n. 835, e' sostituito dal seguente:
 
 "Art. 19. - (Perdono giudiziale). - Se per il reato commesso da minore degli anni diciotto il tribunale per i minorenni ritiene che si possa applicare una pena restrittiva della liberta' personale non superiore a due anni, ovvero una pena pecuniaria non superiore a lire tre milioni, anche se congiunta a detta pena, puo' applicare il perdono giudiziale, sia quando provvede a norma dell'articolo 14 sia nel giudizio".
 
-##### Art. 113 - Aumento delle pene pecuniarie
+#### Art. 113 - Aumento delle pene pecuniarie
 
 Le pene pecuniarie comminate per i reati previsti dal codice penale o dalle leggi speciali, nonche' le sanzioni pecuniarie comminate per le infrazioni previste dal codice di procedura penale, aumentate per effetto della legge 12 luglio 1961, n. 603, sono moltiplicate per cinque.
 
@@ -1390,7 +1386,7 @@ AGGIORNAMENTO (4)
 
 La L. 24 marzo 1989, n. 122 (in G.U. 6/4/1989, n.80) ha disposto (con l'art. 20 comma 3) che:"La disposizione risultante dal combinato disposto dell'articolo 11 della legge 14 febbraio 1974, n. 62 e degli articoli 113 e 114 della legge 24 novembre 1981, n. 689, in relazione alla disposizione del quarto comma del citato articolo 11, deve essere interpretata nel senso che la somma di lire 5.000 era dovuta soltanto fino alla vigenza delle sanzioni edittali previste prima degli aumenti operati dagli stessi articolo 113 e 114."
 
-##### Art. 114 - Aumento delle sanzioni amministrative pecuniarie
+#### Art. 114 - Aumento delle sanzioni amministrative pecuniarie
 
 Le disposizioni dell'articolo precedente si applicano a tutte le sanzioni amministrative pecuniarie originariamente previste come sanzioni penali.
 
@@ -1404,11 +1400,11 @@ AGGIORNAMENTO (4)
 
 La L. 24 marzo 1989, n. 122 (in G.U. 6/4/1989, n.80) ha disposto (con l'art. 20 comma 3) che:"La disposizione risultante dal combinato disposto dell'articolo 11 della legge 14 febbraio 1974, n. 62 e degli articoli 113 e 114 della legge 24 novembre 1981, n. 689, in relazione alla disposizione del quarto comma del citato articolo 11, deve essere interpretata nel senso che la somma di lire 5.000 era dovuta soltanto fino alla vigenza delle sanzioni edittali previste prima degli aumenti operati dagli stessi articolo 113 e 114."
 
-##### Art. 115 - Pene proporzionali
+#### Art. 115 - Pene proporzionali
 
 Le disposizioni degli articoli 113 e 114 non si applicano alle pene e sanzioni amministrative pecuniarie quando l'ammontare delle stesse o della pena base che viene assunta per la loro determinazione non e' fissato direttamente dalla legge ma e' diversamente stabilito.
 
-##### Art. 116 - Nuovo testo degli articoli 196 e 197 del codice penale
+#### Art. 116 - Nuovo testo degli articoli 196 e 197 del codice penale
 
 Gli articoli 196 e 197 del codice penale sono sostituiti dai seguenti:
 
@@ -1420,15 +1416,13 @@ Qualora la persona preposta risulti insolvibile, si applicano al condannato le d
 
 Se tale obbligazione non puo' essere adempiuta, si applicano al condannato le disposizioni dell'articolo 136".
 
-##### Art. 117 - Persona civilmente obbligata per l'ammenda e per la multa
+#### Art. 117 - Persona civilmente obbligata per l'ammenda e per la multa
 
 Tutte le disposizioni processuali relative alla persona civilmente obbligata per l'ammenda si intendono riferite anche alla persona civilmente obbligata per la multa.
 
-## CAPO VI - DISPOSIZIONI IN MATERIA DI PENE ACCESSORIE, PRESCRIZIONE, OBLAZIONE,
+## CAPO VI - DISPOSIZIONI IN MATERIA DI PENE ACCESSORIE, PRESCRIZIONE, OBLAZIONE, SOSPENSIONE CONDIZIONALE DELLA PENA E CONFISCA
 
-### SOSPENSIONE CONDIZIONALE DELLA PENA E CONFISCA
-
-##### Art. 118 - Modifiche dell'articolo 19 del codice penale, in materia di pene accessorie - Specie
+#### Art. 118 - Modifiche dell'articolo 19 del codice penale, in materia di pene accessorie - Specie
 
 I primi due commi dell'articolo 19 del codice penale sono sostituiti dai seguenti:
 
@@ -1452,7 +1446,7 @@ Le pene accessorie per le contravvenzioni sono:
 
 2\) la sospensione dagli uffici direttivi delle persone giuridiche e delle imprese".
 
-##### Art. 119 - Modifiche dell'articolo 32 del codice penale in materia di interdizione legale
+#### Art. 119 - Modifiche dell'articolo 32 del codice penale in materia di interdizione legale
 
 Il secondo ed il terzo comma dell'articolo 32 del codice penale sono sostituiti dai seguenti:
 
@@ -1460,7 +1454,7 @@ Il secondo ed il terzo comma dell'articolo 32 del codice penale sono sostituiti 
 
 Il condannato alla reclusione per un tempo non inferiore a cinque anni e', durante la pena, in stato d'interdizione legale; la condanna produce altresi', durante la pena, la sospensione dall'esercizio della potesta' dei genitori, salvo che il giudice disponga altrimenti".
 
-##### Art. 120
+#### Art. 120
 
 (Nuove norme in materia di interdizione temporanea dagli uffici
 
@@ -1478,13 +1472,13 @@ Essa non puo' avere durata inferiore ad un anno ne' superiore a tre anni".
 
 "Art. 32-quater. - (Casi nei quali alla condanna consegue la incapacita' di contrattare con la pubblica amministrazione). - Ogni condanna per i delitti previsti dagli articoli 317, 318, 319, 320, 321, 353, 355, 356, 416, 437, 501, 501-bis, 640, n. 1 del capoverso, commessi a causa o in occasione dell'esercizio di un'attivita' imprenditoriale, importa l'incapacita' di contrattare con la pubblica amministrazione".
 
-##### Art. 121 - Modifica dell'articolo 33 del codice penale in materia di condanna per delitto colposo
+#### Art. 121 - Modifica dell'articolo 33 del codice penale in materia di condanna per delitto colposo
 
 Il primo comma dell'articolo 33 del codice penale e' sostituito dal seguente:
 
 "Le disposizioni dell'articolo 29 e del secondo capoverso dell'articolo 32 non si applicano nel caso di condanna per delitto colposo".
 
-##### Art. 122 - Decadenza dalla potesta' dei genitori e sospensione dal suo esercizio
+#### Art. 122 - Decadenza dalla potesta' dei genitori e sospensione dal suo esercizio
 
 L'articolo 34 del codice penale e' sostituito dal seguente:
 
@@ -1496,7 +1490,7 @@ La decadenza dalla potesta' dei genitori importa anche la privazione di ogni dir
 
 La sospensione dall'esercizio della potesta' dei genitori importa anche l'incapacita' di esercitare, durante la sospensione, qualsiasi diritto che al genitore spetti sui beni del figlio in base alle norme del titolo IX del libro I del codice civile".
 
-##### Art. 123 - Sospensione dall'esercizio degli uffici direttivi delle persone giuridiche e delle imprese
+#### Art. 123 - Sospensione dall'esercizio degli uffici direttivi delle persone giuridiche e delle imprese
 
 Dopo l'articolo 35 del codice penale e' inserito il seguente:
 
@@ -1504,7 +1498,7 @@ Dopo l'articolo 35 del codice penale e' inserito il seguente:
 
 Essa non puo' avere una durata inferiore a quindici giorni ne' superiore a due anni e consegue ad ogni condanna all'arresto per contravvenzioni commesse con abuso dei poteri o violazione dei doveri inerenti all'ufficio".
 
-##### Art. 124 - Applicazione provvisoria di pene accessorie
+#### Art. 124 - Applicazione provvisoria di pene accessorie
 
 L'articolo 140 del codice penale e' sostituito dal seguente:
 
@@ -1516,13 +1510,13 @@ La sospensione provvisoria non si applica agli uffici elettivi ricoperti per dir
 
 La pena accessoria provvisoriamente applicata non puo' avere durata superiore alla meta' della durata massima prevista dalla legge ed e' computata nella durata della pena accessoria conseguente alla condanna".
 
-##### Art. 125 - Modifica dell'articolo 157 del codice penale in materia di prescrizione e tempo necessario a prescrivere
+#### Art. 125 - Modifica dell'articolo 157 del codice penale in materia di prescrizione e tempo necessario a prescrivere
 
 Il numero 6 del primo comma dell'articolo 157 del codice penale e' sostituito dal seguente:
 
 "6) in due anni, se si tratta di contravvenzione per cui la legge stabilisce la pena dell'ammenda".
 
-##### Art. 126 - Oblazione nelle contravvenzioni punite con pene alternative
+#### Art. 126 - Oblazione nelle contravvenzioni punite con pene alternative
 
 Dopo l'articolo 162 del codice penale e' inserito il seguente:
 
@@ -1538,11 +1532,11 @@ La domanda puo' essere riproposta sino all'inizio della discussione finale del d
 
 Il pagamento delle somme indicate nella prima parte del presente articolo estingue il reato".
 
-##### Art. 127 - Applicazione di norme
+#### Art. 127 - Applicazione di norme
 
 Le disposizioni dell'articolo 162-bis del codice penale si applicano anche ai reati indicati nelle lettere f), h), i), n) del primo comma dell'articolo 34.
 
-##### Art. 128 - Obblighi del condannato
+#### Art. 128 - Obblighi del condannato
 
 L'articolo 165 del codice penale e' sostituito dal seguente:
 
@@ -1552,7 +1546,7 @@ La sospensione condizionale della pena, quando e' concessa a persona che ne ha g
 
 Il giudice nella sentenza stabilisce il termine entro il quale gli obblighi devono essere adempiuti".
 
-##### Art. 129 - Inosservanza di pene accessorie
+#### Art. 129 - Inosservanza di pene accessorie
 
 L'articolo 389 del codice penale e' sostituito dal seguente:
 
@@ -1560,13 +1554,13 @@ L'articolo 389 del codice penale e' sostituito dal seguente:
 
 La stessa pena si applica a chi trasgredisce agli obblighi o ai divieti inerenti ad una pena accessoria provvisoriamente applicata".
 
-##### Art. 130 - Modifiche dell'articolo 200 del codice di procedura penale in materia di impugnazione di ordinanze emesse in giudizio
+#### Art. 130 - Modifiche dell'articolo 200 del codice di procedura penale in materia di impugnazione di ordinanze emesse in giudizio
 
 Dopo il primo comma dell'articolo 200 del codice di procedura penale e' inserito il seguente:
 
 "L'impugnazione dell'ordinanza che decide sulla domanda di oblazione puo' essere proposta soltanto con l'impugnazione contro la sentenza".
 
-##### Art. 131 - Applicazione provvisoria di pene accessorie o di misure di sicurezza
+#### Art. 131 - Applicazione provvisoria di pene accessorie o di misure di sicurezza
 
 L'articolo 301 del codice di procedura penale e' sostituito dal seguente:
 
@@ -1580,7 +1574,7 @@ Contro il provvedimento emesso dalla sezione istruttoria puo' essere proposto ri
 
 L'impugnazione non sospende l'esecuzione del provvedimento".
 
-##### Art. 132
+#### Art. 132
 
 (Modificazioni dell'articolo 400 del codice di procedura penale in
 
@@ -1592,7 +1586,7 @@ Dopo l'ultimo comma dell'articolo 400 del codice di procedura penale sono aggiun
 
 L'impugnazione non sospende l'esecuzione del provvedimento".
 
-##### Art. 133 - Esecuzione provvisoria di misure di sicurezza
+#### Art. 133 - Esecuzione provvisoria di misure di sicurezza
 
 L'articolo 485 del codice di procedura penale e' sostituito dal seguente:
 
@@ -1600,7 +1594,7 @@ L'articolo 485 del codice di procedura penale e' sostituito dal seguente:
 
 La sentenza e' impugnabile anche per il capo che dispone l'esecuzione provvisoria della misura di sicurezza; ma l'impugnazione non ne sospende l'esecuzione".
 
-##### Art. 134 - Appello contro sentenze del pretore
+#### Art. 134 - Appello contro sentenze del pretore
 
 L'articolo 512 del codice di procedura penale e' sostituito dal seguente:
 
@@ -1612,7 +1606,7 @@ L'articolo 512 del codice di procedura penale e' sostituito dal seguente:
 
 3\) il rappresentante del pubblico ministero nel dibattimento davanti al pretore e il procuratore della Repubblica nel caso di proscioglimento, se l'imputazione riguardava un delitto o una contravvenzione punibile con l'arresto; e nel caso di condanna per delitto ovvero per contravvenzione punita con pena alternativa o per la quale non e' ammessa l'oblazione".
 
-##### Art. 135 - Appello contro sentenze del tribunale e della corte d'assise
+#### Art. 135 - Appello contro sentenze del tribunale e della corte d'assise
 
 L'articolo 513 del codice di procedura penale e' sostituito dal seguente:
 
@@ -1624,17 +1618,17 @@ L'articolo 513 del codice di procedura penale e' sostituito dal seguente:
 
 3\) il procuratore della Repubblica e il procuratore generale presso la corte di appello nel caso di proscioglimento, se la imputazione riguardava un delitto o una contravvenzione punibile con l'arresto, e nel caso di condanna per delitto ovvero per contravvenzione punita con pena alternativa o per la quale non e' ammessa la oblazione".
 
-##### Art. 136 - Modifiche dell'articolo 522 del codice di procedura penale in materia di questioni di nullita'
+#### Art. 136 - Modifiche dell'articolo 522 del codice di procedura penale in materia di questioni di nullita'
 
 All'articolo 522 del codice di procedura penale e' aggiunto in fine il seguente comma:
 
 "Quando il giudice di primo grado ha respinto la domanda di oblazione, il giudice di appello, se riconosce erronea tale decisione, accoglie la domanda e sospende il dibattimento fissando un termine massimo non superiore a dieci giorni per il pagamento delle somme dovute. Se il pagamento avviene nel termine, il giudice di appello pronuncia sentenza di proscioglimento".
 
-##### Art. 137 - Modifiche dell'articolo 604 del codice di procedura penale in materia di provvedimenti da iscrivere nel casellario
+#### Art. 137 - Modifiche dell'articolo 604 del codice di procedura penale in materia di provvedimenti da iscrivere nel casellario
 
 Nell'articolo 604 del codice di procedura penale, al capoverso del numero 1, dopo le parole: "Non sono iscritti nel casellario giudiziale: le sentenze e i decreti di condanna concernenti contravvenzioni per le quali e' ammessa la definizione in via amministrativa o l'oblazione, salvo che", sono inserite le seguenti: "si tratti di contravvenzioni punite con la pena alternativa dell'arresto o dell'ammenda o che".
 
-##### Art. 138 - Modifiche alle disposizioni di attuazione, di coordinamento e transitorie del codice di procedura penale
+#### Art. 138 - Modifiche alle disposizioni di attuazione, di coordinamento e transitorie del codice di procedura penale
 
 Dopo l'articolo 48 delle disposizioni di attuazione del codice di procedura penale, approvate con regio decreto 28 maggio 1931, n. 602, sono inseriti i seguenti articoli:
 
@@ -1644,7 +1638,7 @@ Scaduto il termine, se le prescrizioni non sono adempiute, il giudice provvede a
 
 "Art. 48-ter. - Nei casi previsti dall'ultimo capoverso dell'articolo 345 e dal primo capoverso dell'articolo 625 del codice di procedura penale, il giudice, prima di ordinare la vendita o la distruzione delle cose sequestrate, dispone, osservate le formalita' di cui agli articoli 304-bis e 304-ter del codice di prosedura penale, il prelievo di campioni, quando cio' e' possibile ed utile per l'ulteriore corso del procedimento".
 
-##### Art. 139
+#### Art. 139
 
 (Modifica dell'articolo 116 delle norme sugli assegni bancari,
 
@@ -1654,7 +1648,7 @@ Nell'articolo 116 del regio decreto 21 dicembre 1933, n. 1736, dopo il primo com
 
 "Nei casi piu' gravi la condanna per uno dei delitti previsti nei numeri 1 e 2 del comma precedente importa, indipendentemente dall'applicazione dell'articolo 69 del codice penale, la pubblicazione della sentenza di condanna e il divieto di emettere assegni bancari o postali per un periodo da uno a tre anni".
 
-##### Art. 140
+#### Art. 140
 
 (Disposizioni aggiuntive alle norme in materia di assegni bancari,
 
@@ -1668,7 +1662,7 @@ Si applica la reclusione da sei mesi a due anni e la multa da lire centomila a l
 
 La condanna importa la pubblicazione della sentenza e il divieto di emettere assegni bancari e postali per la durata di due anni".
 
-##### Art. 141
+#### Art. 141
 
 (Ulteriori disposizioni aggiuntive alle norme in materia di assegni
 
@@ -1684,7 +1678,7 @@ Il richiedente che dichiara il falso e' punito con la reclusione da sei mesi a d
 
 Il dipendente che consegna moduli di assegno bancario o postale a chi abbia dichiarato di essere stato interdetto dalla emissione di assegni bancari o postali, e' punito, salvo che il fatto costituisca piu' grave reato, con la reclusione da sei mesi a due anni".
 
-##### Art. 142 - Modifiche al testo unico delle norme sulla circolazione stradale
+#### Art. 142 - Modifiche al testo unico delle norme sulla circolazione stradale
 
 Dopo l'articolo 80 del testo unico delle norme sulla circolazione stradale, approvato con decreto del Presidente della Repubblica 15 giugno 1959, n. 393, modificato dall'articolo 2 della legge 14 febbraio 1974, n. 62, sono inseriti i seguenti articoli:
 
@@ -1694,25 +1688,25 @@ L'autorita' giudiziaria competente e, in caso di flagranza, anche gli ufficiali 
 
 "Art. 80-ter. - (Pena accessoria). - Con la sentenza di condanna per il reato previsto dal dodicesimo comma dell'articolo 80 il giudice, quando non sia possibile ordinare la confisca del veicolo, dispone la sospensione della patente di guida del condannato per la stessa durata della pena principale".
 
-##### Art. 143 - Disposizioni aggiuntive alla legge sulla disciplina degli stupefacenti e sostanze psicotrope
+#### Art. 143 - Disposizioni aggiuntive alla legge sulla disciplina degli stupefacenti e sostanze psicotrope
 
 Dopo l'articolo 80 della legge 22 dicembre 1975, n. 685, e' inserito il seguente:
 
 "Art. 80-bis. - (Destinazione delle sostanze confiscate dal giudice e confiscabili dal Ministro della sanita'). - Le sostanze confiscate e quelle da confiscare in base all'articolo precedente sono immediatamente versate al Ministero della sanita'".
 
-##### Art. 144 - Modifica alla legge recante norme per la tutela delle acque dall'inquinamento
+#### Art. 144 - Modifica alla legge recante norme per la tutela delle acque dall'inquinamento
 
 Al terzo comma dell'articolo 21 della legge 10 maggio 1976, n. 319, e' aggiunto in fine il seguente periodo: "La condanna importa la incapacita' di contrattare con la pubblica amministrazione".
 
-##### Art. 145
+#### Art. 145
 
 ((ARTICOLO ABROGATO DAL D.P.R. 31 MARZO 1988, N.148))
 
-##### Art. 146 - Norma di coordinamento
+#### Art. 146 - Norma di coordinamento
 
 Ogniqualvolta nel codice penale o in altre leggi ricorre l'espressione "patria potesta'", la medesima e' sostituita dalla espressione "potesta' dei genitori".
 
-##### Art. 147
+#### Art. 147
 
 (Modifica dell'articolo 2638 del codice civile in materia di
 
@@ -1722,7 +1716,7 @@ Il secondo comma dell'articolo 2638 del codice civile e' sostituito dal seguente
 
 "Nei casi piu' gravi puo' inoltre essere disposta l'interdizione dagli uffici direttivi delle persone giuridiche e delle imprese".
 
-##### Art. 148 - Disposizioni abrogative e di coordinamento
+#### Art. 148 - Disposizioni abrogative e di coordinamento
 
 L'articolo 2641 del codice civile e' abrogato.
 

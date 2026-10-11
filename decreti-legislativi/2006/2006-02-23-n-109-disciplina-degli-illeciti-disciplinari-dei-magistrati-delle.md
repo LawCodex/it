@@ -202,7 +202,7 @@ d) qualunque fatto costituente reato idoneo a ledere l'immagine del magistrato, 
 
 > 3\. La parte, nel formulare la richiesta, puo' subordinarne l'efficacia, alla concessione della sospensione condizionale della pena. In questo caso il giudice, se ritiene che la sospensione condizionale non puo' essere concessa, rigetta la richiesta.».
 
-## Sezione II - Delle sanzioni disciplinari
+### Sezione II - Delle sanzioni disciplinari
 
 #### Art. 5
 
@@ -584,9 +584,7 @@ c) il giudizio di responsabilita' e l'applicazione della relativa sanzione sono 
 
 4\. Il Consiglio superiore della magistratura stabilisce le forme e i modi per l'accertamento delle condizioni previste per la riabilitazione di cui al presente articolo, comunque assicurando che vi si provveda in occasione del primo procedimento in cui cio' sia rilevante)).
 
-## Capo III - Modifica della disciplina in tema di incompati-bilita', dispensa dal
-
-### servizio e trasferimento di ufficio.
+## Capo III - Modifica della disciplina in tema di incompati-bilita', dispensa dal servizio e trasferimento di ufficio.
 
 #### Art. 26
 

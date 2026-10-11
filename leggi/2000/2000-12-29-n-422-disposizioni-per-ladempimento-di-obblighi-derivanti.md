@@ -30,11 +30,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I - DISPOSIZIONI GENERALI SUI PROCEDIMENTI PER L'ADEMPIMENTO DEGLI
+## Capo I - DISPOSIZIONI GENERALI SUI PROCEDIMENTI PER L'ADEMPIMENTO DEGLI OBBLIGHI COMUNITARI
 
-### OBBLIGHI COMUNITARI
-
-#### Art. 1 - Delega al Governo per l'attuazione di direttive comunitarie
+### Art. 1 - Delega al Governo per l'attuazione di direttive comunitarie
 
 1\. Il Governo e' delegato ad emanare, entro il termine di un anno dalla data di entrata in vigore della presente legge, i decreti legislativi recanti le norme occorrenti per dare attuazione alle direttive comprese negli elenchi di cui agli allegati A e B.
 
@@ -64,7 +62,7 @@ la seguente legge:
 
 > 4\. In ogni caso, qualora il termine previsto per l'esercizio della delega ecceda i due anni, il Governo e' tenuto a richiedere il parere delle Camere sugli schemi dei decreti delegati. Il parere e' espresso dalle Commissioni permanenti delle due Camere competenti per materia entro sessanta giorni, indicando specificamente le eventuali disposizioni non ritenute corrispondenti alle direttive della legge di delegazione. Il Governo, nei trenta giorni successivi, esaminato il parere, ritrasmette, con le sue osservazioni e con eventuali modificazioni, i testi alle Commissioni per il parere definitivo che deve essere espresso entro trenta giorni.".
 
-#### Art. 2 - Principi e criteri direttivi generali della delega legislativa
+### Art. 2 - Principi e criteri direttivi generali della delega legislativa
 
 1\. Salvi gli specifici principi e criteri direttivi stabiliti negli articoli seguenti ed in aggiunta a quelli contenuti nelle direttive da attuare, i decreti legislativi di cui all'articolo 1 saranno informati ai seguenti principi e criteri direttivi generali:
 
@@ -144,7 +142,7 @@ h) quando si verifichino sovrapposizioni di competenze fra amministrazioni diver
 
 > "Art. 2 (Rapporti internazionali e con l'Unione europea). - 1. Lo Stato assicura la rappresentanza unitaria nelle sedi internazionali e il coordinamento dei rapporti con l'Unione europea. Spettano allo Stato i compiti preordinati ad assicurare l'esecuzione a livello nazionale degli obblighi derivanti dal Trattato sull'Unione europea e dagli accordi internazionali. Ogni altra attivita' di esecuzione e' esercitata dallo Stato ovvero dalle regioni e dagli enti locali secondo la ripartizione delle attribuzioni risultante dalle norme vigenti e dalle disposizioni del presente decreto legislativo.".
 
-#### Art. 3 - Attuazione di direttive comunitarie con regolamento autorizzato
+### Art. 3 - Attuazione di direttive comunitarie con regolamento autorizzato
 
 1\. Il Governo e' autorizzato a dare attuazione alle direttive comprese nell'elenco di cui all'allegato C con uno o piu' regolamenti ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, attenendosi a principi e criteri direttivi corrispondenti a quelli enunciati nelle lettere b), e), f) e g) del comma 1 dell'articolo 2.
 
@@ -162,7 +160,7 @@ h) quando si verifichino sovrapposizioni di competenze fra amministrazioni diver
 
 > "1. Fermo quanto previsto dall'articolo 20 della legge 16 aprile 1987, n. 183, la legge comunitaria puo' disporre che, all'attuazione di ciascuna modifica delle direttive da attuare mediante regolamento a norma dell'articolo 4, si provveda con la procedura di cui ai commi 4 e 5 del medesimo articolo.".
 
-#### Art. 4
+### Art. 4
 
 Delega al Governo per la disciplina sanzionatoria di violazioni di
 
@@ -188,7 +186,7 @@ di esportazione di prodotti e tecnologie a duplice uso
 
 9\. ((COMMA ABROGATO DAL D.LGS. 9 APRILE 2003, N. 96)).
 
-#### Art. 5 - Riordinamento normativo nelle materie interessate dalle direttive comunitarie
+### Art. 5 - Riordinamento normativo nelle materie interessate dalle direttive comunitarie
 
 1\. Il Governo e' delegato ad emanare, con le modalita' di cui ai commi 2 e 3 dell'articolo 1, entro diciotto mesi dalla data di entrata in vigore della presente legge, testi unici delle disposizioni dettate in attuazione delle deleghe conferite per il recepimento di direttive comunitarie, al fine di coordinare le medesime con le norme legislative vigenti nelle stesse materie, apportando le sole integrazioni e modificazioni necessarie a garantire la semplificazione e la coerenza logica, sistematica e lessicale della normativa, fatto salvo quanto previsto al comma 3.
 
@@ -206,7 +204,7 @@ di esportazione di prodotti e tecnologie a duplice uso
 
 > "6. Le disposizioni contenute in un testo unico non possono essere abrogate, derogate, sospese o comunque modificate se non in modo esplicito, mediante l'indicazione precisa delle fonti da abrogare, derogare, sospendere o modificare. La Presidenza del Consiglio dei Ministri adotta gli opportuni atti di indirizzo e di coordinamento per assicurare che i successivi interventi normativi incidenti sulle materie oggetto di riordino siano attuati esclusivamente mediante la modifica o l'integrazione delle disposizioni contenute nei testi unici.".
 
-#### Art. 6 - Modifiche alla legge 9 marzo 1989, n. 86
+### Art. 6 - Modifiche alla legge 9 marzo 1989, n. 86
 
 1\. Alla legge 9 marzo 1989, n. 86, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -236,11 +234,9 @@ b) all'articolo 9, comma 2-bis, le parole: "Le leggi" sono sostituite dalle segu
 
 > \- La legge 16 giugno 1998, n. 209, reca: "Ratifica ed esecuzione del Trattato di Amsterdam che modifica il Trattato sull'Unione europea, i trattati che istituiscono le Comunita' europee ed alcuni atti connessi, con allegato e protocolli, fatto ad Amsterdam il 2 ottobre 1997.".
 
-## Capo II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO, CRITERI SPECIFICI DI DELEGA
+## Capo II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO, CRITERI SPECIFICI DI DELEGA LEGISLATIVA
 
-### LEGISLATIVA
-
-#### Art. 7 - Delega al Governo per la revisione del decreto legislativo 27 gennaio 1992, n. 129
+### Art. 7 - Delega al Governo per la revisione del decreto legislativo 27 gennaio 1992, n. 129
 
 1\. Al fine di pervenire alla piena attuazione della direttiva 85/384/CEE del Consiglio, del 10 giugno 1985, recante norme in materia di riconoscimento dei diplomi, delle certificazioni ed altri titoli nel settore dell'architettura, il Governo e' delegato ad emanare, entro il termine di cui all'articolo 1, comma 1, un decreto legislativo recante modifiche ed integrazioni al decreto legislativo 27 gennaio 1992, n. 129.
 
@@ -258,11 +254,11 @@ c) disciplina della procedura di riconoscimento automatica dei titoli rilasciati
 
 > \- La direttiva n. 85/348/CEE e' pubblicata in GUCE n. L 223 del 21 agosto 1985.
 
-#### Art. 8 - Istituzione di un comitato aziendale europeo: criteri di delega
+### Art. 8 - Istituzione di un comitato aziendale europeo: criteri di delega
 
 1\. L'attuazione della direttiva 94/45/CE del Consiglio, del 22 settembre 1994, riguardante l'istituzione di un comitato aziendale europeo o di una procedura per l'informazione e la consultazione dei lavoratori nelle imprese e nei gruppi di imprese di dimensioni comunitarie, sara' informata al principio e criterio direttivo di prevedere una rappresentanza specifica per i lavoratori ad alta qualificazione tramite l'assegnazione di un seggio supplementare, con elettorato attivo e passivo separato, per ciascuno Stato membro in cui sia impiegato almeno il 15 per cento dei lavoratori con qualifica di dirigente e di quadro dell'impresa o del gruppo di imprese.
 
-#### Art. 9 - Apparecchiature di telecomunicazione: criteri di delega
+### Art. 9 - Apparecchiature di telecomunicazione: criteri di delega
 
 1\. L'attuazione della direttiva 1999/5/CE del Parlamento europeo e del Consiglio, del 9 marzo 1999, riguardante le apparecchiature radio e le apparecchiature terminali di telecomunicazione e il reciproco riconoscimento della loro conformita', sara' informata ai seguenti principi e criteri direttivi:
 
@@ -282,11 +278,11 @@ g) promuovere l'uso efficace di risorse limitate, in particolare per quanto rigu
 
 h) specificare che le attivita' inerenti alla vigilanza, al controllo, all'accertamento delle violazioni e all'irrogazione delle relative sanzioni sono di competenza del Ministero delle comunicazioni.
 
-#### Art. 10 - Sostanze e prodotti indesiderabili nell'alimentazione degli animali: criteri di delega
+### Art. 10 - Sostanze e prodotti indesiderabili nell'alimentazione degli animali: criteri di delega
 
 1\. L'attuazione della direttiva 1999/29/CE del Consiglio, del 22 aprile 1999, relativa alle sostanze ed ai prodotti indesiderabili nell'alimentazione degli animali, sara' informata al principio e criterio direttivo del divieto di utilizzazione nell'alimentazione degli animali destinati al consumo alimentare di antibiotici ad azione auxinica e di organismi geneticamente modificati (OGM), nonche', per tutti gli animali da allevamento, di mangimi contenenti proteine derivanti da tessuti animali incompatibili con l'alimentazione naturale ed etologica delle singole specie. Negli allevamenti ittici sara' consentita la somministrazione di mangimi contenenti proteine di pesci.
 
-#### Art. 11 - Integrazioni e modifiche al decreto legislativo 17 marzo 1995, n. 194, di attuazione della direttiva 91/414/CEE, relativa all'immissione in commercio di prodotti fitosanitari
+### Art. 11 - Integrazioni e modifiche al decreto legislativo 17 marzo 1995, n. 194, di attuazione della direttiva 91/414/CEE, relativa all'immissione in commercio di prodotti fitosanitari
 
 1\. All'articolo 3, comma 2, del decreto legislativo 17 marzo 1995, n. 194, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -312,7 +308,7 @@ b) la lettera d) e' sostituita dalla seguente:
 
 > d) siano trasportati nel rispetto delle cautele prescritte in relazione alla natura del prodotto, accompagnati dalla documentazione prevista dalle norme vigenti e nel rispetto delle disposizioni vigenti in materia di sicurezza e di controllo.".
 
-#### Art. 12 - Discariche di rifiuti: criteri di delega
+### Art. 12 - Discariche di rifiuti: criteri di delega
 
 1\. L'attuazione della direttiva 1999/31/CE del Consiglio, del 26 aprile 1999, relativa alle discariche di rifiuti, sara' informata ai seguenti principi e criteri direttivi:
 
@@ -340,7 +336,7 @@ i) definire le modalita' di prestazione e di gestione delle garanzie finanziarie
 
 > \- Il regolamento (CEE) n. 1836/93 e' pubblicato in GUCE n. L 168 del 17 luglio 1993.
 
-#### Art. 13 - Reti di telecomunicazioni e reti televisive via cavo: criteri di delega
+### Art. 13 - Reti di telecomunicazioni e reti televisive via cavo: criteri di delega
 
 1\. L'attuazione della direttiva 1999/64/CE della Commissione, del 23 giugno 1999, che modifica la direttiva 90/388/CEE al fine di garantire che le reti di telecomunicazioni e le reti televisive via cavo appartenenti ad un unico proprietario siano gestite da persone giuridiche distinte, sara' informata ai seguenti principi e criteri direttivi:
 
@@ -354,7 +350,7 @@ a) prevedere un regime di separazione societaria nei confronti degli organismi c
 
 b) prevedere la possibilita' di modifica delle disposizioni a seguito delle decisioni della Commissione europea assunte ai sensi dell'articolo 2, paragrafo 4, della direttiva.
 
-#### Art. 14 - Attuazione della direttiva 96/48/CE, relativa all'interoperabilita' del sistema ferroviario transeuropeo ad alta velocita'
+### Art. 14 - Attuazione della direttiva 96/48/CE, relativa all'interoperabilita' del sistema ferroviario transeuropeo ad alta velocita'
 
 1\. Il Governo e' delegato ad emanare, entro sei mesi dalla data di entrata in vigore della presente legge, un decreto legislativo per l'attuazione della direttiva 96/48/CE del Consiglio, del 23 luglio 1996, di cui all'articolo 1, comma 1, della legge 5 febbraio 1999, n. 25, secondo i principi e i criteri direttivi di cui all'articolo 18 della citata legge n. 25 del 1999, coordinando e adeguando l'ordinamento interno in materia di trasporto ferroviario anche in base ai principi e ai criteri desumibili dalla stessa direttiva 96/48/CE, nonche' dalle direttive 91/440/CEE, 95/18/CE e 95/19/CE.
 
@@ -382,7 +378,7 @@ b) prevedere la possibilita' di modifica delle disposizioni a seguito delle deci
 
 > \- La direttiva n. 95/19/CE e' pubblicata in GUCE L n. 143 del 27 giugno 1995.
 
-#### Art. 15 - Attuazione della direttiva 97/36/CE sull'esercizio delle attivita' televisive
+### Art. 15 - Attuazione della direttiva 97/36/CE sull'esercizio delle attivita' televisive
 
 1\. L'ultimo periodo del comma 3 dell'articolo 3 della legge 30 aprile 1998, n. 122, e' abrogato.
 
@@ -394,7 +390,7 @@ b) prevedere la possibilita' di modifica delle disposizioni a seguito delle deci
 
 > "3. La trasmissione di opere audiovisive, ivi compresi i lungometraggi cinematografici ed i film prodotti per la televisione, fatta eccezione per le serie, i romanzi a puntate, i programmi ricreativi ed i documentari, di durata programmata superiore a quarantacinque minuti, puo' essere interrotta soltanto una volta per ogni periodo di quarantacinque minuti. E' autorizzata un'altra interruzione se la durata programmata delle predette opere supera di almeno venti minuti due o piu' periodi completi di quarantacinque minuti.".
 
-#### Art. 16 - Modifica alla legge 9 febbraio 1963, n. 82, in materia di disciplina delle tasse e dei diritti marittimi
+### Art. 16 - Modifica alla legge 9 febbraio 1963, n. 82, in materia di disciplina delle tasse e dei diritti marittimi
 
 1\. Al fine di conformare la disciplina delle tasse e dei diritti marittimi al principio della libera prestazione dei servizi di trasporto marittimo tra gli Stati membri dell'Unione europea, e' abrogato, a decorrere dal 1o gennaio 2001, il capo II del titolo II della legge 9 febbraio 1963, n. 82, concernente la revisione delle tasse e dei diritti marittimi.
 
@@ -406,11 +402,11 @@ b) prevedere la possibilita' di modifica delle disposizioni a seguito delle deci
 
 > \- La legge 9 febbraio 1963, n. 82, reca: "Revisione delle tasse e dei diritti marittimi".
 
-#### Art. 17
+### Art. 17
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-#### Art. 18 - Modifiche al decreto del Presidente della Repubblica 8 giugno 1982, n. 470, di attuazione della direttiva 76/160/CEE, relativa alla qualita' delle acque di balneazione
+### Art. 18 - Modifiche al decreto del Presidente della Repubblica 8 giugno 1982, n. 470, di attuazione della direttiva 76/160/CEE, relativa alla qualita' delle acque di balneazione
 
 1\. Al decreto del Presidente della Repubblica 8 giugno 1982, n. 470, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -518,7 +514,7 @@ l) nell'allegato 1:
 
 > Nel caso si verifichino due analisi favorevoli per tutti i parametri previsti nella tabella allegata, analisi effettuate su due campioni consecutivi prelevati almeno con la frequenza prevista nella tabella (allegato 1), le acque interessate potranno essere nuovamente adibite alla balneazione con il provvedimento di cui all'articolo 5, punto c)".
 
-#### Art. 19 - Modifica all'articolo 3 della legge 10 luglio 1991, n. 210
+### Art. 19 - Modifica all'articolo 3 della legge 10 luglio 1991, n. 210
 
 1\. Il comma 3 dell'articolo 3 della legge 10 luglio 1991, n. 210, recante norme di attuazione della convenzione delle Nazioni Unite relativa ad un codice di condotta delle conferenze per la navigazione marittima, adottata a Ginevra il 6 aprile 1974, e' sostituito dal seguente:
 
@@ -540,7 +536,7 @@ l) nell'allegato 1:
 
 > 3\. Le compagnie marittime che beneficiano del diritto di stabilimento ai sensi del Trattato istitutivo della Comunita' europea hanno trattamento identico a quello delle compagnie di navigazione marittime nazionali italiane".
 
-#### Art. 20
+### Art. 20
 
 Modifica all'articolo 8 del decreto legislativo 2 maggio 1994, n. 319).
 
@@ -564,7 +560,7 @@ Modifica all'articolo 8 del decreto legislativo 2 maggio 1994, n. 319).
 
 > c-bis) se riguarda le attivita' di maestro di sci e di guida alpina".
 
-#### Art. 21 - Modifiche al decreto legislativo 19 settembre 1994, n. 626
+### Art. 21 - Modifiche al decreto legislativo 19 settembre 1994, n. 626
 
 1\. Al decreto legislativo 19 settembre 1994, n. 626, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -620,7 +616,7 @@ c) l'articolo 58 e' sostituito dal seguente:
 
 > 5\. La spesa relativa alla dotazione di dispositivi speciali di correzione in funzione dell'attivita' svolta e' a carico del datore di lavoro".
 
-#### Art. 22 - Modifiche all'articolo 12 del decreto legislativo 22 maggio 1999, n. 196, recante attuazione della direttiva 97/12/CE che modifica e aggiorna la direttiva 64/432/CEE relativa ai problemi di polizia sanitaria in materia di scambi intracomunitari di animali delle specie bovina e suina
+### Art. 22 - Modifiche all'articolo 12 del decreto legislativo 22 maggio 1999, n. 196, recante attuazione della direttiva 97/12/CE che modifica e aggiorna la direttiva 64/432/CEE relativa ai problemi di polizia sanitaria in materia di scambi intracomunitari di animali delle specie bovina e suina
 
 1\. In attuazione della direttiva 2000/15/CE del Parlamento europeo e del Consiglio, del 10 aprile 2000, che modifica la direttiva 64/432/CEE del Consiglio, del 26 giugno 1964, relativa a problemi di polizia sanitaria in materia di scambi intracomunitari di animali delle specie bovina e suina, all'articolo 12 del decreto legislativo 22 maggio 1999, n. 196, sono apportate le seguenti modificazioni:
 
@@ -702,7 +698,7 @@ c) e' aggiunto, in fine, il seguente comma:
 
 > 6-bis. Limitatamente alla movimentazione degli animali della specie suina, la registrazione nella banca dati di cui al comma 1 deve comprendere almeno: il numero di suini spostati, il numero di identificazione dell'azienda o dell'allevamento di partenza, il numero di identificazione dell'azienda o dell'allevamento di arrivo, la data di partenza o la data di arrivo".
 
-#### Art. 23 - Modifica all'articolo 1751-bis del codice civile
+### Art. 23 - Modifica all'articolo 1751-bis del codice civile
 
 1\. In attuazione dell'articolo 20 della direttiva 86/653/CEE del Consiglio, del 18 dicembre 1986, all'artico1o 1751-bis del codice civile e' aggiunto il seguente comma:
 
@@ -738,7 +734,7 @@ L'indennita' va commisurata alla durata, non superiore a due anni dopo l'estinzi
 
 > 4\) all'esistenza o meno del vincolo di esclusiva per un solo preponente".
 
-#### Art. 24 - Domanda di autorizzazione ai sensi della direttiva 85/337/CEE concernente la valutazione dell'impatto ambientale di determinati progetti pubblici e privati
+### Art. 24 - Domanda di autorizzazione ai sensi della direttiva 85/337/CEE concernente la valutazione dell'impatto ambientale di determinati progetti pubblici e privati
 
 1\. Le domande di autorizzazione alle quali continuano ad applicarsi le disposizioni della direttiva 85/337/CEE del Consiglio, del 27 giugno 1985, nel testo vigente prima della data di entrata in vigore della direttiva 97/11/CE del Consiglio, del 3 marzo 1997, sono unicamente quelle per le quali sia formalmente iniziata l'istruttoria, con la protocollazione della domanda presso il servizio competente dell'autorita' che deve rilasciare l'autorizzazione, prima del 14 marzo 1999.
 
@@ -748,7 +744,7 @@ L'indennita' va commisurata alla durata, non superiore a due anni dopo l'estinzi
 
 > La direttiva 97/11/CE e' pubblicata in GUCE L 073 del 14 marzo 1997.
 
-#### Art. 25 - Contratti a tempo determinato stipulabili dall'Autorita' per l'energia elettrica e il gas
+### Art. 25 - Contratti a tempo determinato stipulabili dall'Autorita' per l'energia elettrica e il gas
 
 1\. Al fine di far fronte ai nuovi compiti derivanti dall'attuazione delle direttive 96/ 92/CE del Parlamento europeo e del Consiglio, del 19 dicembre 1996 e 98/30/CE del Parlamento europeo e del Consiglio, del 22 giugno 1998 e dalla conseguente liberalizzazione del mercato di cui ai decreti legislativi 16 marzo 1999, n. 79, e 23 maggio 2000, n. 164, l'Autorita' per l'energia elettrica e il gas puo' procedere per una sola volta alla stipula di contratti a tempo determinato ai sensi dell'articolo 2, comma 30, della legge 14 novembre 1995, n. 481, nel limite di 30 unita', a carico delle proprie risorse e senza oneri per la finanza pubblica.
 
@@ -770,7 +766,7 @@ Ai contratti a tempo determinato stipulati dall'Autorita' per l'energia elettric
 
 > "30. Ciascuna autorita' puo' assumere, in numero non superiore a quaranta unita', dipendenti con contratto a tempo determinato di durata non superiore a due anni nonche' esperti e collaboratori esterni, in numero non superiore a dieci, per specifici obiettivi e contenuti professionali, con contratti a tempo determinato di durata non superiore a due anni che possono essere rinnovati per non piu' di due volte".
 
-#### Art. 26 - Modifiche all'articolo 1 della legge 23 giugno 2000, n. 178
+### Art. 26 - Modifiche all'articolo 1 della legge 23 giugno 2000, n. 178
 
 1\. All'articolo 1 della legge 23 giugno 2000, n. 178, sono apportate le seguenti modificazioni:
 
@@ -818,7 +814,7 @@ b) al comma 6, le parole: "1.500 milioni di lire" sono sostituite dalle seguenti
 
 > 7\. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.".
 
-#### Art. 27 - Modifica all'articolo 11 della legge 21 dicembre 1999, n. 526
+### Art. 27 - Modifica all'articolo 11 della legge 21 dicembre 1999, n. 526
 
 1\. All'articolo 11 della legge 21 dicembre 1999, n. 526, recante la legge comunitaria 1999, dopo il comma 3 e' inserito il seguente:
 
@@ -926,11 +922,9 @@ Visto, il Guardasigilli: Fassino
 
 > \- La direttiva 1999/94/CE e' pubblicata in G.U.C.E. n. L. 12 del 18 gennaio 2000.
 
-## Capo II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO, CRITERI SPECIFICI DI DELEGA
+## Capo II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO, CRITERI SPECIFICI DI DELEGA LEGISLATIVA
 
-### LEGISLATIVA
-
-#### Allegato A
+### Allegato A
 
 Allegato A
 
@@ -952,7 +946,7 @@ Allegato A
 
 1999/105/CE: direttiva del Consiglio, del 22 dicembre 1999, relativa alla commercializzazione dei materiali forestali di moltiplicazione.
 
-#### Allegato B
+### Allegato B
 
 Allegato B
 
@@ -988,7 +982,7 @@ Allegato B
 
 1999/79/CE: direttiva della Commissione, del 27 luglio 1999, recante modifica alla terza direttiva 72/199/CEE che fissa i metodi di analisi comunitari per i controlli degli alimenti per gli animali.
 
-#### Allegato C
+### Allegato C
 
 Allegato C
 

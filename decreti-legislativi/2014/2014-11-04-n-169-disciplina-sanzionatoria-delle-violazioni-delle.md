@@ -56,9 +56,7 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
-
-### DISPOSIZIONI GENERALI
+## Capo I - DISPOSIZIONI GENERALI
 
 #### Art. 1
 
@@ -810,9 +808,7 @@ Con successivo decreto del Ministro delle infrastrutture e dei trasporti, su pro
 
 > I provvedimenti emessi dall'autorita' regionale per l'applicazione della sanzione amministrativa del pagamento di una somma di danaro non sono soggetti al controllo della Commissione prevista dall'art. 41 della legge 10 febbraio 1953, n. 62.".
 
-## Sezione I
-
-### Sanzioni in materia di contratto di trasporto
+### Sezione I - Sanzioni in materia di contratto di trasporto
 
 #### Art. 5
 
@@ -828,9 +824,7 @@ Inefficacia di clausole derogatorie
 
 1\. Sono inefficaci le clausole derogatorie o restrittive degli obblighi che siano introdotte nel contratto di trasporto in violazione dell'articolo 6, paragrafo 1, del regolamento.
 
-## Sezione II
-
-### Sanzioni in materia di assistenza in caso di incidente
+### Sezione II - Sanzioni in materia di assistenza in caso di incidente
 
 #### Art. 7
 
@@ -838,9 +832,7 @@ Assistenza per le esigenze pratiche del passeggero
 
 1\. Il vettore, che non presta un'assistenza ragionevole e proporzionata per le esigenze pratiche e immediate dei passeggeri in violazione dell'articolo 8 del regolamento, e' soggetto ad una sanzione amministrativa pecuniaria da euro 2.000 a euro 40.000 per ciascun incidente.
 
-## Sezione III
-
-### Sanzioni per la violazione degli obblighi - relativi a persone con disabilita' o a mobilita' ridotta
+### Sezione III - Sanzioni per la violazione degli obblighi relativi a persone con disabilita' o a mobilita' ridotta
 
 #### Art. 8
 
@@ -880,9 +872,7 @@ Formazione
 
 1\. Il vettore o l'ente di gestione della stazione, che violano gli obblighi attinenti alla formazione di cui all'articolo 16, paragrafo 1, del regolamento, sono soggetti ad una sanzione amministrativa pecuniaria da euro 1.000 a euro 30.000.
 
-## Sezione IV
-
-### Sanzioni per la violazione dei diritti del passeggero - in caso di cancellazione o ritardo
+### Sezione IV - Sanzioni per la violazione dei diritti del passeggero in caso di cancellazione o ritardo
 
 #### Art. 13
 
@@ -906,9 +896,7 @@ o ritardo alla partenza
 
 1\. Il vettore che, per il viaggio la cui durata prevista supera le tre ore, in caso di cancellazione o ritardo alla partenza da una stazione superiore a novanta minuti viola gli obblighi di assistenza previsti dall'articolo 21 del regolamento, e' soggetto ad una sanzione amministrativa pecuniaria da euro 150 a euro 900 per ciascun passeggero.
 
-## Sezione V
-
-### Sanzioni in materia di informazione e reclami
+### Sezione V - Sanzioni in materia di informazione e reclami
 
 #### Art. 16
 
@@ -928,9 +916,7 @@ Reclami
 
 2\. Il vettore, che non notifica al passeggero che il reclamo e' accolto, respinto o ancora in esame, ovvero che non fornisce una risposta definitiva, ai sensi dell'articolo 27 del regolamento, e' soggetto ad una sanzione amministrativa pecuniaria da euro 300 a euro 1.500.
 
-## Capo III
-
-### DISPOSIZIONI TRANSITORIE E FINALI
+## Capo III - DISPOSIZIONI TRANSITORIE E FINALI
 
 #### Art. 18
 

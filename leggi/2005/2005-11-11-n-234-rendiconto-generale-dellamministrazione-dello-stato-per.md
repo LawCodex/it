@@ -29,7 +29,7 @@ la seguente legge:
 
 ## TITOLO I - APPROVAZIONE DEI RENDICONTI
 
-##### Art. 1 - Rendiconti
+#### Art. 1 - Rendiconti
 
 1\. Il rendiconto generale dell'Amministrazione dello Stato e i rendiconti delle Amministrazioni e delle Aziende autonome per l'esercizio 2004 sono approvati nelle risultanze di cui ai seguenti articoli.
 
@@ -39,11 +39,9 @@ la seguente legge:
 
 ## TITOLO II - AMMINISTRAZIONE DELLO STATO
 
-### Capo I
+### Capo I - CONTO DEL BILANCIO
 
-#### CONTO DEL BILANCIO
-
-##### Art. 2 - Entrate
+#### Art. 2 - Entrate
 
 1\. Le entrate tributarie, extratributarie, per alienazione ed ammortamento di beni patrimoniali e riscossione di crediti, e per accensione di prestiti, accertate nell'esercizio finanziario 2004 per la competenza propria dell'esercizio, risultano stabilite in euro 636.454.218.629,57.
 
@@ -53,7 +51,7 @@ la seguente legge:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-##### Art. 3 - Spese
+#### Art. 3 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di passivita' finanziarie, impegnate nell'esercizio finanziario 2004 per la competenza propria dell'esercizio, risultano stabilite in euro 640.853.165.109,37.
 
@@ -63,7 +61,7 @@ la seguente legge:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-##### Art. 4 - Disavanzo della gestione di competenza
+#### Art. 4 - Disavanzo della gestione di competenza
 
 1\. Il disavanzo della gestione di competenza dell'esercizio finanziario 2004, di euro 4.398.946.479,80, risulta stabilito come segue:
 
@@ -87,7 +85,7 @@ Rimborso passivita' finanziarie.......... " 192.928.577.522,26
 
 Totale Spese................................. " 640.853.165.109,37 Disavanzo della gestione di competenza.......  4.398.946.479,80
 
-##### Art. 5 - Situazione finanziaria
+#### Art. 5 - Situazione finanziaria
 
 1\. Il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 2004, di euro 301.676.329.356,47, risulta stabilito come segue:
 
@@ -117,7 +115,7 @@ al 31 dicembre 2004......................." 105.302.032.795,61
 
 Disavanzo al 31 dicembre 2003.................... 297.277.382.876,67 Disavanzo finanziario al 31 dicembre 2004 ....... 301.676.329.356,47
 
-##### Art. 6 - Approvazione allegato
+#### Art. 6 - Approvazione allegato
 
 1\. E approvato l'allegato n. 1, di cui all' articolo 9, ultimo comma, della legge 5 agosto 1978, n. 468.
 
@@ -135,7 +133,7 @@ Disavanzo al 31 dicembre 2003.................... 297.277.382.876,67 Disavanzo
 
 > Alla legge di approvazione del rendiconto generale dello Stato e' allegato un elenco dei decreti di cui al secondo comma, con le indicazioni dei motivi per i quali si e' proceduto ai prelevamenti dal fondo di cui al presente articolo».
 
-##### Art. 7 - Eccedenze
+#### Art. 7 - Eccedenze
 
 1\. Sono approvate le eccedenze di impegni e di pagamenti risultate in sede di consuntivo rispettivamente sul conto della competenza, sul conto dei residui e sul conto della cassa, relative alle unita' previsionali di base degli stati di previsione della spesa dei Ministeri sotto indicati per l'esercizio 2004, come risulta dal dettaglio che segue:
 
@@ -343,9 +341,9 @@ ISTITUTO AGRONOMICO PER L'OLTREMARE
 ---------------------------------------------------------------------
 ```
 
-## CAPO II - CONTO GENERALE DEL PATRIMONIO
+### CAPO II - CONTO GENERALE DEL PATRIMONIO
 
-##### Art. 8 - Risultati generali della gestione patrimoniale
+#### Art. 8 - Risultati generali della gestione patrimoniale
 
 1\. La situazione patrimoniale dell'Amministrazione dello Stato, al 31 dicembre 2004, resta stabilita come segue:
 
@@ -377,9 +375,9 @@ dicembre 2004          | 1.338.834.381.967,85 |
 
 ## TITOLO III - AZIENDE SPECIALI ED AUTONOME
 
-#### CAPO I - ISTITUTO AGRONOMICO PER L'OLTREMARE
+### CAPO I - ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-##### Art. 9 - Entrate
+#### Art. 9 - Entrate
 
 1\. Le entrate correnti del bilancio dell'Istituto agronomico per l'Oltremare, accertate nell'esercizio finanziario 2004 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Istituto stesso, allegato al conto consuntivo del Ministero degli affari esteri, in euro 3.562.884,66.
 
@@ -402,7 +400,7 @@ dell'esercizio 2003       |           -   |   300.981,00|  300.981,00
 ---------------------------------------------------------------------
 ```
 
-##### Art. 10 - Spese
+#### Art. 10 - Spese
 
 1\. Le spese correnti ed in conto capitale del bilancio dell'Istituto predetto, impegnate nell'esercizio finanziario 2004 per la competenza propria dell'esercizio, risultano stabilite in euro 3.562.884,66.
 
@@ -427,7 +425,7 @@ Residui passivi dell'esercizio|            |             |
 
 ## Caro II - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-##### Art. 11 - Entrate
+#### Art. 11 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione autonoma dei monopoli di Stato, comprese quelle delle gestioni speciali ed autonome, accertate nell'esercizio finanziario 2004 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'economia e delle finanze, in euro 10.776.939.032,42.
 
@@ -437,7 +435,7 @@ Residui passivi dell'esercizio|            |             |
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-##### Art. 12 - Spese
+#### Art. 12 - Spese
 
 1\. Le spese correnti ed in conto capitale e per rimborso di passivita' finanziarie del bilancio dell'Amministrazione predetta, comprese quelle delle gestioni speciali ed autonome, impegnate nell'esercizio 2004 per la competenza propria dell'esercizio, risultano stabilite in euro 10.776.939.032,42.
 
@@ -461,7 +459,7 @@ dell'esercizio   |                |                |
 ---------------------------------------------------------------------
 ```
 
-##### Art. 13 - Riassunto generale
+#### Art. 13 - Riassunto generale
 
 1\. Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione autonoma dei monopoli di Stato, di competenza dell'esercizio 2004, risulta cosi' stabilito:
 
@@ -469,23 +467,23 @@ Entrate (escluse le gestioni speciali)...........  784.646.397,16 Entrate dell
 
 Spese (escluse le gestioni speciali) ............. 784.646.397,16 Spese delle gestioni speciali....................." 9.992.292.635,26  10.776.939.032,42
 
-##### Art. 14 - Situazione finanziaria
+#### Art. 14 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dell'esercizio 2004, risulta come appresso:
 
 Entrate dell'esercizio 2004 ...................... 10.776.939.032,42 Spese dell'esercizio 2004 ........................" 10.776.939.032,42 Saldo della gestione di competenza ............... -
 
-## CAPO III - ARCHIVI NOTARILI
+### CAPO III - ARCHIVI NOTARILI
 
-##### Art. 15 - Avanzo
+#### Art. 15 - Avanzo
 
 1\. L'avanzo della gestione del bilancio degli Archivi notarili, per l'esercizio finanziario 2004, risulta stabilito come segue:
 
 Entrate ............................................ 387.177.708,34 Spese .............................................." 380.247.651,59 .................................................... 6.930.056,75
 
-## CAPO IV - FONDO EDIFICI DI CULTO
+### CAPO IV - FONDO EDIFICI DI CULTO
 
-##### Art. 16 - Entrate
+#### Art. 16 - Entrate
 
 1\. Le entrate correnti e in conto capitale del bilancio del Fondo edifici di culto, accertate nell'esercizio finanziario 2004 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'interno, in euro 13.105.699,72.
 
@@ -495,7 +493,7 @@ Entrate ............................................ 387.177.708,34 Spese ....
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-##### Art. 17 - Spese
+#### Art. 17 - Spese
 
 1\. Le spese correnti ed in conto capitale del bilancio dell'Amministrazione predetta, impegnate nell'esercizio 2004 per la competenza propria dell'esercizio, risultano stabilite in euro 21.738.419,20.
 
@@ -505,7 +503,7 @@ Entrate ............................................ 387.177.708,34 Spese ....
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-##### Art. 18 - Situazione finanziaria
+#### Art. 18 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Amministrazione del Fondo edifici di culto, alla fine dell'esercizio 2004, risulta come appresso:
 
@@ -523,9 +521,9 @@ Accertati:
 
 al 1° gennaio 2004 ................................... 19.795.884,26 al 31 dicembre 2004 .................................." 19.715.857,88 ...................................................... 80.026,38 Saldo effettivo dell'esercizio 2003 .................. 9.510.315,12 Saldo attivo al 31 dicembre 2004...................... 877.595,64
 
-## CAPO IV - FONDO EDIFICI DI CULTO
+### CAPO IV - FONDO EDIFICI DI CULTO
 
-##### Allegato n. 1
+#### Allegato n. 1
 
 ALLEGATO N. 1
 

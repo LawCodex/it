@@ -28,7 +28,7 @@ la seguente legge:
 
 ## CAPO I. - MODIFICAZIONI ALLE LEGGI SULLA CORTE DI ASSISE
 
-#### Art. 1
+### Art. 1
 
 Gli articoli 3, 4, 22, 23, 24, 25, 26, 27 e 30 della legge 10 aprile 1951, n. 287, modificata dalla legge 5 maggio 1952, n. 405, sono sostituiti dai seguenti:
 
@@ -112,7 +112,7 @@ Giuro altresi' di conservare il segreto".
 
 Dell'avvenuta prestazione del giuramento e' compilato processo verbale, e deve farsene menzione, a pena di nullita', nel verbale di dibattimento di ciascuna causa della sessione.
 
-#### Art. 2
+### Art. 2
 
 Non oltre il trentesimo giorno dalla data di entrata in vigore della presente legge saranno iniziate le operazioni previste dal capo secondo della legge 10 aprile 1951, n. 287, modificata dalla legge 5 maggio 1952, n. 405, per la formazione dei primi albi separati delle donne che possono assumere l'ufficio di giudice popolare e delle relative liste generali.
 
@@ -120,15 +120,13 @@ Detti albi saranno unificati ed aggiornati con quelli dei giudici popolari uomin
 
 Fino a quando non saranno state completate le operazioni per la inclusione delle donne ai sensi del primo comma, continueranno ad applicarsi le norme delle leggi sopra citate.
 
-#### Art. 3
+### Art. 3
 
 Il Governo e' delegato a, stabilire, entro sei mesi dalla data di pubblicazione della presente legge, il numero dei giudici popolari delle liste delle Corti di assise e delle Corti di assise di appello, distinte per gli uomini e per le donne, in sostituzione delle liste determinate con la tabella N allegata al decreto presidenziale 30 agosto 1951, n. 757, avuto riguardo al numero dei giudizi, alla, popolazione ed allo sviluppo dei mezzi di comunicazione.
 
-## CAPO II. - MODIFICAZIONI ALLE NORME RIGUARDANTI LA COMPOSIZIONE DEL TRIBUNALE
+## CAPO II. - MODIFICAZIONI ALLE NORME RIGUARDANTI LA COMPOSIZIONE DEL TRIBUNALE PER I MINORENNI E DELLA SEZIONE DI CORTE DI APPELLO PER I MINORENNI.
 
-### PER I MINORENNI E DELLA SEZIONE DI CORTE DI APPELLO PER I - MINORENNI.
-
-#### Art. 4
+### Art. 4
 
 Gli articoli 2 e 5 del regio decreto-legge 20 luglio 1934, n. 1404, convertito con modificazioni nella legge 27 maggio 1935, n. 835, sono sostituiti dai seguenti:
 
@@ -142,7 +140,7 @@ La sezione funziona con l'intervento di due privati cittadini, un uomo ed una do
 
 Alla presidenza e alla composizione della sezione sono destinati, consentendolo le esigenze di servizio, magistrati che gia' esercitano funzioni nei tribunali per i minorenni.
 
-#### Art. 5
+### Art. 5
 
 Gli articoli 50 e 58 del regio decreto 30 gennaio 1941, n. 12, sono sostituiti dai seguenti:
 
@@ -154,11 +152,11 @@ Art. 58. (Sezione per i minorenni). - Una sezione della Corte giudica sulle impu
 
 La sezione giudica con l'intervento di due esperti, un uomo ed una donna, aventi i requisiti prescritti dalla legge, i quali sostituiscono due dei magistrati della sezione Agli esperti della sezione per i minorenni e' conferito il titolo di consigliere onorario della sezione della Corte di appello per i minorenni; ad essi e' applicabile il disposto dell'ultimo comma dell'art. 50 Le funzioni di consigliere delegato per la sorveglianza sono, per i minorenni, esercitate da uno dei magistrati della sezione di Corte di appello per i minorenni.
 
-#### Art. 6
+### Art. 6
 
 La nuova composizione del Tribunale e della sezione per i minorenni della Corte di appello dovra' essere attuata entro quattro mesi dall'entrata in vigore della presente legge.
 
-#### Art. 7
+### Art. 7
 
 Alla maggiore spesa derivante dall'aumento del numero dei componenti, privati nei Tribunali e nelle sezioni di Corte di appello per i minorenni, per effetto dell'ammissione delle donne, prevista in annue lire 1.200.000, si provvedera', per l'esercizio finanziario 1956-57, a carico del capitolo n. 495 dello stato di previsione della spesa del Ministero del tesoro per l'esercizio medesimo.
 

@@ -51,7 +51,7 @@ il seguente decreto legislativo:
 
 ## Capo I - DISPOSIZIONI RELATIVE ALLE NOTIFICAZIONI
 
-#### Art. 1
+### Art. 1
 
 1\. Il comma 5 dell'articolo 148 del codice di procedura penale e' sostituito dal seguente:
 
@@ -65,7 +65,7 @@ Il testo delle premesse e' riportato gia' integrato con le correzioni apportate 
 
 E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-#### Art. 2
+### Art. 2
 
 1\. L'articolo 151 del codice di procedura penale e' cosi' modificato:
 
@@ -75,11 +75,11 @@ a) il comma 3 e' sostituito dal seguente:
 
 b) il comma 4 e' soppresso.
 
-#### Art. 3
+### Art. 3
 
 1\. Nell'articolo 159 del codice di procedura penale, al comma 1, primo e secondo periodo, le parole "il giudice" sono sostituite dalle seguenti: "l'autorita' giudiziaria".
 
-#### Art. 4
+### Art. 4
 
 1\. L'articolo 160 del codice di procedura penale e' sostituito dal seguente:
 
@@ -91,7 +91,7 @@ b) il comma 4 e' soppresso.
 
 4\. Ogni decreto di irreperibilita' deve essere preceduto da nuove ricerche nei luoghi indicati nell'articolo 159.".
 
-#### Art. 5
+### Art. 5
 
 1\. L'articolo 161 del codice di procedura penale e' sostituito dal seguente:
 
@@ -105,19 +105,17 @@ L'imputato e' avvertito che deve comunicare ogni mutamento del domicilio dichiar
 
 4\. Se la notificazione nel domicilio determinato a norma del comma 2 diviene impossibile, le notificazioni sono eseguite mediante consegna al difensore. Nello stesso modo si procede quando, nei casi previsti dai commi 1 e 3, la dichiarazione o l'elezione di domicilio mancano o sono insufficienti o inidonee. Tuttavia, quando risulta che, per caso fortuito o forza maggiore, l'imputato non e' stato nella condizione di comunicare il mutamento del luogo dichiarato o eletto, si applicano le disposizioni degli articoli 157 e 159.".
 
-#### Art. 6
+### Art. 6
 
 1\. Nel comma 2 dell'articolo 169 del codice di procedura penale, le parole: "emesso a norma degli articoli 151 e 159" sono sostituite dalle seguenti: "emesso a norma dell'articolo 159".
 
-#### Art. 7
+### Art. 7
 
 1\. Nella lettera e) del comma 1 dell'articolo 171 del codice di procedura penale, le parole: "dall'articolo 161 commi 2 e 3" sono sostituite dalle seguenti: "dall'articolo 161 commi 1, 2 e 3".
 
-## Capo II - DISPOSIZIONI RELATIVE
+## Capo II - DISPOSIZIONI RELATIVE AI RAPPORTI TRA DIVERSI UFFICI DEL PUBBLICO MINISTERO
 
-### AI RAPPORTI TRA DIVERSI UFFICI DEL PUBBLICO MINISTERO
-
-#### Art. 8
+### Art. 8
 
 1\. L'articolo 54 del codice di procedura penale e' cosi' modificato:
 
@@ -127,7 +125,7 @@ b) dopo il comma 3 e' aggiunto il seguente:
 
 "3-bis. Le disposizioni dei commi 1 e 2 si applicano in ogni altro caso di contrasto negativo fra pubblici ministeri.".
 
-#### Art. 9
+### Art. 9
 
 1\. Dopo l'articolo 118 del decreto legislativo 28 luglio 1989, n. 271 e' inserito il seguente:
 
@@ -139,7 +137,7 @@ b) dopo il comma 3 e' aggiunto il seguente:
 
 ## Capo III - DISPOSIZIONI RELATIVE ALLE PROVE
 
-#### Art. 10
+### Art. 10
 
 1\. L'articolo 263 del codice di procedura penale e' cosi' modificato:
 
@@ -149,23 +147,23 @@ a) il comma 4 e' sostituito dal seguente:
 
 b) nel comma 5, dopo le parole "che dispone la restituzione" sono inserite le seguenti: "o respinge la relativa richiesta".
 
-#### Art. 11
+### Art. 11
 
 1\. Nel comma 2 dell'articolo 67 del decreto legislativo 28 luglio 1989, n. 271, la parola "grafologia" e' sostituita con le seguenti: "analisi e comparazione della grafia".
 
 ## Capo IV - DISPOSIZIONI RELATIVE ALLE MISURE CAUTELARI
 
-#### Art. 12
+### Art. 12
 
 1\. Dopo il comma 1 dell'articolo 291 del codice di procedura penale e' inserito il seguente:
 
 "1-bis. Nel corso delle indagini preliminari, il giudice puo' disporre misure meno gravi solo se il pubblico ministero non ha espressamente richiesto di provvedere esclusivamente in ordine alle misure indicate.".
 
-#### Art. 13
+### Art. 13
 
 1\. Nel comma 1 dell'articolo 294 del codice di procedura penale, dopo le parole "il giudice", sono inserite le seguenti, comprese tra due virgole: "se non vi ha proceduto nel corso dell'udienza di convalida dell'arresto o del fermo di indiziato di delitto".
 
-#### Art. 14
+### Art. 14
 
 1\. L'articolo 299 del codice di procedura penale e' cosi' modificato:
 
@@ -179,7 +177,7 @@ b) dopo il comma 4 sono aggiunti i seguenti:
 
 4-ter. In ogni stato e grado del procedimento, quando non e' in grado di decidere allo stato degli atti, il giudice dispone, anche di ufficio e senza formalita', accertamenti sulle condizioni di salute o su altre condizioni o qualita' personali dell'imputato. Gli accertamenti sono eseguiti al piu' presto e comunque entro quindici giorni da quello in cui la richiesta e' pervenuta al giudice. Durante tale periodo e' sospeso il termine previsto dal comma 3.".
 
-#### Art. 15
+### Art. 15
 
 1\. L'articolo 321 del codice di procedura penale e' cosi' modificato:
 
@@ -193,11 +191,11 @@ b) dopo il comma 3 sono aggiunti i seguenti:
 
 Copia dell'ordinanza e' immediatamente notificata alla persona alla quale le cose sono state sequestrate.".
 
-#### Art. 16
+### Art. 16
 
 1\. Nel comma 1 dell'articolo 322 del codice di procedura penale, le parole "Contro il decreto di sequestro" sono sostituite dalle seguenti: "Contro il decreto di sequestro emesso dal giudice".
 
-#### Art. 17
+### Art. 17
 
 1\. Dopo l'articolo 322 del codice di procedura penale e' inserito il seguente:
 
@@ -205,11 +203,11 @@ Copia dell'ordinanza e' immediatamente notificata alla persona alla quale le cos
 
 2\. L'appello non sospende l'esecuzione del provvedimento. Si applicano, in quanto compatibili, le disposizioni dell'articolo 310.".
 
-#### Art. 18
+### Art. 18
 
 1\. Al comma 2 dell'articolo 324 del codice di procedura penale e' aggiunto il seguente periodo: "Se la richiesta e' proposta dall'imputato non detenuto ne' internato, questi, ove non abbia gia' dichiarato o eletto domicilio o non si sia proceduto a norma dell'articolo 161 comma 2, deve indicare il domicilio presso il quale intende ricevere l'avviso previsto dal comma 6; in mancanza, l'avviso e' notificato mediante consegna al difensore. Se la richiesta e' proposta da un'altra persona e questa abbia omesso di dichiarare il proprio domicilio, l'avviso e' notificato mediante deposito in cancelleria.".
 
-#### Art. 19
+### Art. 19
 
 1\. L'articolo 325 del codice di procedura penale e' cosi' modificato:
 
@@ -217,25 +215,23 @@ a) nel comma 1, le parole "Contro le ordinanze emesse a norma dell'articolo 324"
 
 b) nel comma 2, le parole "contro il provvedimento di sequestro" sono sostituite dalle seguenti: "contro il decreto di sequestro emesso dal giudice".
 
-#### Art. 20
+### Art. 20
 
 1\. Dopo il comma 3 dell'articolo 129 del decreto legislativo 28 luglio 1989, n. 271 e' aggiunto il seguente:
 
 "3-bis. Il pubblico ministero invia la informazione contenente la indicazione delle norme di legge che si assumono violate anche quando taluno dei soggetti indicati nei commi 1 e 2 e' stato arrestato o fermato ovvero si trova in stato di custodia cautelare.".
 
-## Capo V - DISPOSIZIONI RELATIVE ALL'ARRESTO IN FLAGRANZA
+## Capo V - DISPOSIZIONI RELATIVE ALL'ARRESTO IN FLAGRANZA E AL FERMO
 
-### E AL FERMO
-
-#### Art. 21
+### Art. 21
 
 1\. L'alinea del comma 2 dell'articolo 381 del codice di procedura penale e' sostituito dal seguente: "Gli ufficiali e gli agenti di polizia giudiziaria hanno altresi' facolta' di arrestare chiunque e' colto in flagranza di uno dei seguenti delitti:".
 
-#### Art. 22
+### Art. 22
 
 1\. Nella lettera c) del comma 2 dell'articolo 381 del codice di procedura penale, sono soppresse le parole "seconda ipotesi".
 
-#### Art. 23
+### Art. 23
 
 1\. L'articolo 386 del codice di procedura penale e' cosi' modificato:
 
@@ -249,13 +245,13 @@ b) il comma 4 e' sostituto dal seguente:
 
 c) nel comma 7, le parole "dai commi 3 e 4" sono sostituite dalle seguenti: "dal comma 3".
 
-#### Art. 24
+### Art. 24
 
 1\. Dopo il comma 3 dell'articolo 390 del codice di procedura penale e' aggiunto il seguente:
 
 "3-bis. Se non ritiene di comparire, il pubblico ministero trasmette al giudice, per l'udienza di convalida, le richieste in ordine alla liberta' personale con gli elementi su cui le stesse si fondano.".
 
-#### Art. 25
+### Art. 25
 
 1\. L'articolo 391 del codice di procedura penale e' cosi' modificato:
 
@@ -277,11 +273,11 @@ e) il comma 7 e' sostituito dal seguente:
 
 ## Capo VI - DISPOSIZIONI RELATIVE AI PROCEDIMENTI SPECIALI
 
-#### Art. 26
+### Art. 26
 
 1\. Al comma 3 dell'articolo 375 del codice di procedura penale e' aggiunto il seguente periodo: "L'invito puo' inoltre contenere, ai fini di quanto previsto dall'articolo 453 comma 1, l'indicazione degli elementi e delle fonti di prova e l'avvertimento che potra' essere presentata richiesta di giudizio immediato.".
 
-#### Art. 27
+### Art. 27
 
 1\. Il comma 1 dell'articolo 453 del codice di procedura penale e' sostituito dal seguente:
 
@@ -289,7 +285,7 @@ e) il comma 7 e' sostituito dal seguente:
 
 ## Capo VII - DISPOSIZIONI RELATIVE ALLA ESECUZIONE
 
-#### Art. 28
+### Art. 28
 
 1\. L'articolo 667 del codice di procedura penale e' cosi' modificato:
 
@@ -301,13 +297,13 @@ b) il comma 4 e' sostituito dal seguente:
 
 " 4. Il giudice dell'esecuzione provvede in ogni caso senza formalita' con ordinanza comunicata al pubblico ministero e notificata all'interessato. Contro l'ordinanza possono proporre opposizione davanti allo stesso giudice il pubblico ministero, l'interessato e il difensore; in tal caso si procede a norma dell'articolo 666. L'opposizione e' proposta, a pena di decadenza, entro quindici giorni dalla comunicazione o dalla notificazione dell'ordinanza.".
 
-#### Art. 29
+### Art. 29
 
 1\. Il comma 1 dell'articolo 672 del codice di procedura penale e' sostituito dal seguente:
 
 " 1. Per l'applicazione dell'amnistia o dell'indulto il giudice dell'esecuzione procede a norma dell'articolo 667 comma 4.".
 
-#### Art. 30
+### Art. 30
 
 1\. Il comma 1 dell'articolo 676 del codice di procedura penale e' sostituito dal seguente:
 
@@ -315,13 +311,13 @@ b) il comma 4 e' sostituito dal seguente:
 
 In questi casi il giudice dell'esecuzione procede a norma dell'articolo 667 comma 4.".
 
-#### Art. 31
+### Art. 31
 
 1\. Il numero 3) della lettera b) del comma 1 dell'articolo 686 del codice di procedura penale e' sostituito dal seguente:
 
 "3) le sentenze di omologazione del concordato fallimentare e quelle che hanno dichiarato la riabilitazione del fallito;".
 
-#### Art. 32
+### Art. 32
 
 1\. Dopo il comma 3 dell'articolo 687 del codice di procedura penale e' aggiunto il seguente:
 
@@ -331,7 +327,7 @@ a) ai provvedimenti indicati nell'articolo 686 comma 1 lettera b) numeri 2) e 4)
 
 b) ai provvedimenti indicati nell'articolo 686 comma 1 lettera c) quando sono stati annullati con provvedimento amministrativo o con sentenza passata in giudicato.".
 
-#### Art. 33
+### Art. 33
 
 1\. L'articolo 689 del codice di procedura penale e' sostituito dal seguente:
 
@@ -365,23 +361,21 @@ c) certificato civile, nel quale sono riportate le iscrizioni indicate nell'arti
 
 3\. Quando e' menzionata una condanna, nel certificato e' indicata anche l'eventuale applicazione di misure alternative alla detenzione o l'avvenuta estinzione della pena per una delle cause indicate nell'articolo 686 comma 3.".
 
-#### Art. 34
+### Art. 34
 
 1\. L'articolo 198 del decreto legislativo 28 luglio 1989, n. 271 e' soppresso.
 
 ## Capo VIII - DISPOSIZIONI RELATIVE ALLA ESTRADIZIONE
 
-#### Art. 35
+### Art. 35
 
 1\. Il comma 4 dell'articolo 714 del codice di procedura penale e' sostituito dal seguente:
 
 " 4. Le misure coercitive sono revocate se dall'inizio della loro esecuzione e' trascorso un anno senza che la corte di appello abbia pronunciato la sentenza favorevole all'estradizione ovvero, in caso di ricorso per cassazione contro tale sentenza, un anno e sei mesi senza che sia stato esaurito il procedimento davanti all'autorita' giudiziaria. A richiesta del procuratore generale, detti termini possono essere prorogati, anche piu' volte, per un periodo complessivamente non superiore a tre mesi, quando e' necessario procedere ad accertamenti di particolare complessita'.".
 
-## Capo IX - DISPOSIZIONI RELATIVE AL PROCESSO
+## Capo IX - DISPOSIZIONI RELATIVE AL PROCESSO A CARICO DI IMPUTATI MINORENNI
 
-### A CARICO DI IMPUTATI MINORENNI
-
-#### Art. 36
+### Art. 36
 
 1\. L'articolo 16 del decreto del Presidente della Repubblica 22 settembre 1988, n. 448 e' cosi' modificato:
 
@@ -389,13 +383,13 @@ a) il comma 2 e' soppresso;
 
 b) nel comma 3, le parole "delle facolta' previste dai commi 1 e 2" sono sostituite dalle seguenti: "della facolta' prevista dal comma 1".
 
-#### Art. 37
+### Art. 37
 
 1\. L'articolo 17 del decreto del Presidente della Repubblica 22 settembre 1988, n. 448 e' sostituito dal seguente:
 
 "Art. 17 (Fermo di minorenne indiziato di delitto). - 1. E' consentito il fermo del minorenne indiziato di un delitto per il quale, a norma dell'articolo 23, puo' essere disposta la misura della custodia cautelare, sempre che, quando la legge stabilisce la pena della reclusione, questa non sia inferiore nel minimo a due anni.".
 
-#### Art. 38
+### Art. 38
 
 1\. L'articolo 18 del decreto del Presidente della Repubblica 22 settembre 1988, n. 448 e' sostituito dal seguente:
 
@@ -409,7 +403,7 @@ b) nel comma 3, le parole "delle facolta' previste dai commi 1 e 2" sono sostitu
 
 5\. Si applicano in ogni caso le disposizioni degli articoli 390 e 391 del codice di procedura penale.".
 
-#### Art. 39
+### Art. 39
 
 1\. Dopo l'articolo 18 del decreto del Presidente della Repubblica 22 settembre 1988, n. 448 e' inserito il seguente:
 
@@ -423,17 +417,17 @@ b) nel comma 3, le parole "delle facolta' previste dai commi 1 e 2" sono sostitu
 
 5\. Si applicano le disposizioni degli articoli 16 comma 3, 18 commi 2 secondo periodo, 3, 4 e 5 e 19 comma 5.".
 
-#### Art. 40
+### Art. 40
 
 1\. Nel comma 4 dell'articolo 19 del decreto del Presidente della Repubblica 22 settembre 1988, n. 448, dopo la parola "pena" sono inserite le parole "dell'ergastolo o".
 
-#### Art. 41
+### Art. 41
 
 1\. Il comma 4 dell'articolo 21 del decreto del Presidente della Repubblica 22 settembre 1988, n. 448 e' sostituito dal seguente:
 
 " 4. Il minorenne al quale e' imposta la permanenza in casa e' considerato in stato di custodia cautelare, ai soli fini del computo della durata massima della misura, a decorrere dal momento in cui la misura e' eseguita ovvero dal momento dell'arresto, del fermo o dell'accompagnamento. Il periodo di permanenza in casa e' computato nella pena da eseguire, a norma dell'articolo 657 del codice di procedura penale.".
 
-#### Art. 42
+### Art. 42
 
 1\. L'articolo 23 del decreto del Presidente della Repubblica 22 settembre 1988, n. 448 e' sostituito dal seguente:
 
@@ -449,23 +443,23 @@ c) se, per specifiche modalita' e circostanze del fatto e per la personalita' de
 
 3\. I termini previsti dall'articolo 303 del codice di procedura penale sono ridotti della meta' per i reati commessi da minori degli anni diciotto e dei due terzi per quelli commessi da minori degli anni sedici e decorrono dal momento della cattura, dell'arresto, del fermo o dell'accompagnamento.".
 
-#### Art. 43
+### Art. 43
 
 1\. Dopo il comma 2 dell'articolo 25 del decreto del Presidente della Repubblica 22 settembre 1988, n. 448 e' aggiunto il seguente:
 
 "2-bis. Salvo quanto previsto dal comma 2, il pubblico ministero puo' procedere al giudizio direttissimo anche nei confronti del minorenne accompagnato a norma dell'articolo 18-bis.".
 
-#### Art. 44
+### Art. 44
 
 1\. Nel comma 1 dell'articolo 28 del decreto del Presidente della Repubblica 22 settembre 1988, n. 448, dopo la parola "pena" sono inserite le parole "dell'ergastolo o".
 
-#### Art. 45
+### Art. 45
 
 1\. Il comma 5 dell'articolo 31 del decreto del Presidente della Repubblica 22 settembre 1988, n. 448 e' sostituito dal seguente:
 
 " 5. La persona offesa partecipa all'udienza preliminare ai fini di quanto previsto dall'articolo 90 del codice di procedura penale. Il minorenne, quando e' presente, e' sentito dal giudice. Le altre persone citate o convocate sono sentite se risulta necessario ai fini indicati dall'articolo 9.".
 
-#### Art. 46
+### Art. 46
 
 1\. L'articolo 32 del decreto del Presidente della Repubblica 22 settembre 1988, n. 448 e' cosi' modificato:
 
@@ -487,7 +481,7 @@ Il testo del presente articolo e' gia' integrato con le correzioni apportate dal
 
 E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-#### Art. 47
+### Art. 47
 
 1\. Dopo l'articolo 32 del decreto del Presidente della Repubblica 22 settembre 1988, n. 448 e' inserito il seguente:
 
@@ -511,41 +505,39 @@ Il testo del presente articolo e' gia' integrato con le correzioni apportate dal
 
 E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-#### Art. 48
+### Art. 48
 
 1\. Nel comma 1 dell'articolo 9 del decreto legislativo 28 luglio 1989, n. 272, le parole "22 comma 1" sono sostituite dalle seguenti:
 
 "18- bis comma 4 del decreto del Presidente della Repubblica 22 settembre 1988 n. 448.".
 
-#### Art. 49
+### Art. 49
 
 1\. L'articolo 16 del decreto legislativo 28 luglio 1989, n. 272 e' soppresso.
 
-#### Art. 50
+### Art. 50
 
 1\. Dopo il comma 1 dell'articolo 20 del decreto legislativo 28 luglio 1989, n. 272 e' aggiunto il seguente:
 
 "1- bis. Il minorenne condotto presso gli uffici di polizia giudiziaria in esecuzione di un arresto, di un fermo o di un accompagnamento e' trattenuto in locali separati da quelli dove si trovano maggiorenni arrestati o fermati.".
 
-#### Art. 51
+### Art. 51
 
 1\. Dopo l'articolo 20 del decreto legislativo 28 luglio 1989, n. 272 e' inserito il seguente:
 
 "Art. 20-bis (Verbale di consegna). - 1. Nei casi previsti dagli articoli 18 comma 2 e 18- bis comma 3 del decreto del Presidente della Repubblica 22 settembre 1988 n. 448, la polizia giudiziaria redige verbale con l'indicazione delle generalita' dell'esercente la potesta' dei genitori, dell'eventuale affidatario e della persona da questi incaricata alla quale il minore e' consegnato. Nel verbale e' fatta menzione dell'avvertimento previsto dall'articolo 18- bis comma 3.".
 
-#### Art. 52
+### Art. 52
 
 1\. L'articolo 21 del decreto legislativo 28 luglio 1989, n. 272 e' soppresso.
 
-#### Art. 53
+### Art. 53
 
 1\. L'articolo 22 del decreto legislativo 28 luglio 1989, n. 272 e' soppresso.
 
-## Capo X - DISPOSIZIONI RELATIVE
+## Capo X - DISPOSIZIONI RELATIVE ALL'ORDINAMENTO GIUDIZIARIO
 
-### ALL'ORDINAMENTO GIUDIZIARIO
-
-#### Art. 54
+### Art. 54
 
 1\. L'articolo 9 del decreto legislativo 28 luglio 1989, n. 273 e' sostituito dal seguente:
 
@@ -557,7 +549,7 @@ E' possibile visualizzare il testo originario accedendo alla versione pdf della 
 
 4\. I magistrati che, per effetto dei trasferimenti disposti all'esito delle procedure previste dal comma 2 e di quelli che saranno disposti entro i tre anni successivi alla data di entrata in vigore del codice di procedura penale, siano destinati in prima assegnazione o su domanda alle procure della Repubblica presso i tribunali o presso le preture circondariali non possono essere trasferiti ad altro ufficio prima di tre anni dal giorno in cui hanno avuto effettivo possesso dell'ufficio, salvo che ricorrano specifici motivi di salute.".
 
-#### Art. 55
+### Art. 55
 
 1\. Dopo l'articolo 9 del decreto legislativo 28 luglio 1989, n. 273 sono inseriti i seguenti:
 
@@ -575,7 +567,7 @@ Art. 9-ter. - 1. Salvo il ricorso alle applicazioni previste dall'articolo 110 d
 
 ## Capo XI - DISPOSIZIONE FINALE
 
-#### Art. 56
+### Art. 56
 
 1\. Il presente decreto entra in vigore il trentesimo giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 

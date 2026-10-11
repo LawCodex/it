@@ -26,23 +26,21 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - MODIFICAZIONI DELLA STRUTTURA
+## TITOLO I - MODIFICAZIONI DELLA STRUTTURA DEL GRAN LIBRO DEL DEBITO PUBBLICO
 
-### DEL GRAN LIBRO DEL DEBITO PUBBLICO
-
-#### Art. 1
+### Art. 1
 
 Abolizione delle matrici
 
 I titoli al portatore e misti dei prestiti da iscrivere nel Gran Libro del debito pubblico sono emessi senza matrici.
 
-#### Art. 2
+### Art. 2
 
 Eliminazione delle matrici preesistenti
 
 Alla eliminazione delle matrici e delle contromatrici dei titoli al portatore e misti dei prestiti preesistenti alla entrata in vigore della presente legge provvedera', su motivata determinazione, la Commissione istituita con decreto del Ministro per le finanze 26 maggio 1941, pubblicato nella Gazzetta Ufficiale n. 151, del 30 giugno 1941.
 
-#### Art. 3
+### Art. 3
 
 Nuova struttura del Gran Libro
 
@@ -50,13 +48,13 @@ Nel Gran Libro del debito pubblico, per ciascun prestito, sono riportati gli est
 
 Le variazioni successive sono riportate su appositi registri integrativi.
 
-#### Art. 4
+### Art. 4
 
 Firme da apporre sul Gran Libro
 
 Le indicazioni riportate nel Gran Libro del debito pubblico e nei registri integrativi, sono firmate dal direttore generale del Debito pubblico e dal direttore della divisione Gran Libro e munite del visto della Corte dei conti. -
 
-#### Art. 5
+### Art. 5
 
 Schede per opposizioni
 
@@ -64,11 +62,9 @@ Per ciascuna iscrizione dei titoli al portatore di prestiti vigenti o estinti ch
 
 Le notizie di cui al citato comma si riferiscono all'impedimento notificato o alle altre circostanze di qualsiasi specie, aventi lo stesso fine, venute a conoscenza dell'Amministrazione posteriormente alla data della notifica.
 
-## TITOLO II - TRAMUTAMENTI
+## TITOLO II - TRAMUTAMENTI TRASFERIMENTI E RIMBORSI
 
-### TRASFERIMENTI E RIMBORSI
-
-#### Art. 6
+### Art. 6
 
 Intestazione
 
@@ -78,7 +74,7 @@ Possono iscriversi al nome di piu' minori o di altri amministrati, purche' unica
 
 Possono anche iscriversi a favore di una amministrazione fallimentare o degli aventi diritto ad una determinata successione ovvero di eredi o donatari indivisi; al nome dei coniugi, se trattasi di rendite di proprieta' di entrambi costituite in patrimonio familiare, e, infine, a favore della prole nascitura da determinata persona, a condizione che sia indicata la provenienza della rendita, oppure sia specificato a chi la rendita debba devolversi nel caso in cui la prole non sopravvenga.
 
-#### Art. 7
+### Art. 7
 
 Richiesta di trasferimento o tramutamento
 
@@ -98,7 +94,7 @@ In ogni caso devono depositarsi i titoli dei quali si chiede il trasferimento o 
 
 Per le autenticazioni di cui alla precedente lettera c) possono essere accreditati presso la Direzione generale del debito pubblico o presso gli uffici provinciali del Tesoro anche notai.
 
-#### Art. 8
+### Art. 8
 
 Autenticazione
 
@@ -114,13 +110,13 @@ Qualunque sia la forma di manifestazione della volonta', non e' necessario l'int
 
 Le disposizioni del presente articolo valgono anche per tutti gli altri casi in cui sia prescritta l'autenticazione della firma nella domanda.
 
-#### Art. 9
+### Art. 9
 
 Impossibilita' di sottoscrivere
 
 Chi non puo' sottoscrivere deve prestare il consenso al trasferimento o al tramutamento mediante atto pubblico, con l'intervento di due testimoni.
 
-#### Art. 10
+### Art. 10
 
 Operazioni a mezzo di istituti di credito
 
@@ -128,7 +124,7 @@ Le operazioni di tramutamento in titoli al portatore, di trasferimento o di rimb
 
 Non occorre che la firma del titolare nella dichiarazione e quella dei rappresentanti dell'istituto o della azienda nella domanda siano autenticate.
 
-#### Art. 11
+### Art. 11
 
 Aziende di credito abilitate
 
@@ -140,7 +136,7 @@ Agli effetti dell'applicazione del primo comma, le aziende di credito debbono pr
 
 Per quanto concerne le singole operazioni, le domande debbono essere presentate dalle sedi centrali dell'istituto di emissione o delle aziende di credito oppure dalle rispettive filiali stabilite nei capoluoghi di Provincia.
 
-#### Art. 12
+### Art. 12
 
 Consegna di titoli e pagamento di somme
 
@@ -150,7 +146,7 @@ L'istituto di emissione o l'azienda di credito richiedente, per effetto del riti
 
 Le modalita' stabilite nel primo comma sono applicabili anche se i titoli e le somme provengono da operazioni diverse da quelle considerate nell'art. 10, sempre che la consegna o il pagamento debba farsi all'istituto ((di emissione o ad una delle aziende)) di credito di cui all'art. 11.
 
-#### Art. 13
+### Art. 13
 
 Riscossioni di capitali con reimpiego
 
@@ -164,7 +160,7 @@ Nei casi di cui ai precedenti commi il giudice designa persona di fiducia per l'
 
 ## TITOLO III - SUCCESSIONI
 
-#### Art. 14
+### Art. 14
 
 Prova del diritto a succedere
 
@@ -186,7 +182,7 @@ b) nel caso di successione intestata:
 
 Sia per le successioni testamentarie che per quelle intestate deve farsi constare dall'attestazione di notorieta' il luogo dove il defunto ebbe l'ultimo suo domicilio.
 
-#### Art. 15
+### Art. 15
 
 Documenti integrativi
 
@@ -196,7 +192,7 @@ L'Amministrazione puo' anche chiedere un certificato del cancelliere della pretu
 
 L'Amministrazione puo' chiedere inoltre un certificato rilasciato dal sindaco del luogo di apertura della successione, in base alle risultanze anagrafiche e ad informazioni assunte, per accertare lo stato di famiglia del defunto.
 
-#### Art. 16
+### Art. 16
 
 Successione aperta all'estero
 
@@ -204,7 +200,7 @@ Se la successione del titolare siasi aperta all'estero, il diritto a succedere d
 
 Qualora si tratti di straniero, la prova della successione deve essere fornita coi documenti prescritti dalla legge nazionale del defunto ovvero, se si tratti di apolide, con quelli della legge del luogo di residenza. In aggiunta ai documenti medesimi, l'Amministrazione del debito pubblico puo' chiedere un certificato dell'autorita' consolare, attestante la loro regolarita' formale e sostanziale in rapporto alle leggi predette.
 
-#### Art. 17
+### Art. 17
 
 Provvedimento giudiziale
 
@@ -214,7 +210,7 @@ Nel caso di successione apertasi all'estero, il decreto di attribuzione delle re
 
 L'Amministrazione del debito pubblico puo' chiedere che la prova della successione sia fornita nella forma indicata nel presente articolo, quando sull'operazione domandata sorgano dubbi che l'Amministrazione non ritenga di poter essa risolvere.
 
-#### Art. 18
+### Art. 18
 
 Successioni di eredi del titolare
 
@@ -226,13 +222,13 @@ Occorre pero' il decreto della Corte di appello di Roma, se alcuna delle success
 
 In ogni caso, sia il Tribunale che la Corte di appello devono tenere conto di tutti i passaggi verificatisi a causa delle varie successioni.
 
-#### Art. 19
+### Art. 19
 
 Operazioni d'importo limitato
 
 Qualora le rendite di pertinenza della stessa eredita' rappresentino un capitale nominale complessivo non superiore alle lire duecentomila, oppure la somma da corrispondere non superi le lire duecentomila, gli aventi diritto possono in tutti i casi dimostrare la loro qualita' anziche' nei modi indicati nei precedenti articoli, mediante l'estratto dell'atto di morte dell'autore o degli autori delle successioni e una attestazione di notorieta' ricevuta dal sindaco del luogo di apertura di ciascuna successione o, se trattisi di successione aperta all'estero, dal console italiano.
 
-#### Art. 20
+### Art. 20
 
 Legato di specie
 
@@ -240,7 +236,7 @@ Il legatario puo' ottenere, senza intervento dell'erede, il trasferimento o il t
 
 Nel caso pero' di perdita o spossessamento del certificato, il legatario non puo' essere ammesso ad esperire la procedura di ammortamento, se non documenti di essere venuto legittimamente in possesso del titolo.
 
-#### Art. 21
+### Art. 21
 
 Intervento degli aventi diritto
 
@@ -250,7 +246,7 @@ Tuttavia, qualora taluno di essi non intervenga e di sua quota non superi le lir
 
 Ove la quota del non intervenuto sia inferiore al minimo iscrivibile al nome o lasci una frazione non iscrivibile, si provvede nel modo stabilito al terzo comma ((dell'art. 47.))
 
-#### Art. 22
+### Art. 22
 
 Successione dell'avente causa
 
@@ -258,7 +254,7 @@ Le disposizioni contenute nei precedenti articoli si applicano anche nei casi di
 
 ## TITOLO IV - VINCOLI
 
-#### Art. 23
+### Art. 23
 
 Oggetto dei vincoli
 
@@ -266,7 +262,7 @@ Le ipoteche e gli altri vincoli possono gravare soltanto su rendite nominative.
 
 Non sono ammesse ipoteche all'infuori di quelle volontarie.
 
-#### Art. 24
+### Art. 24
 
 Costituzione del vincolo
 
@@ -284,7 +280,7 @@ In ogni caso deve essere depositato il certificato di iscrizione della rendita d
 
 Qualora siano da tramutare titoli al portatore in nominativi, questi possono essere vincolati in base a semplice domanda dell'esibitore.
 
-#### Art. 25
+### Art. 25
 
 Annotazione
 
@@ -292,7 +288,7 @@ Dell'ipoteca o altro vincolo e' fatta specifica annotazione sulla iscrizione e s
 
 Il vincolo o l'ipoteca non hanno effetto finche' non siano annotati sulla iscrizione e sul certificato. Nemmeno il vincolo di usufrutto che si fonda sulla legge ottiene il suo effetto prima di tale duplice annotazione.
 
-#### Art. 26
+### Art. 26
 
 Limitazione dei vincoli
 
@@ -302,13 +298,13 @@ Le rendite annotate d'ipoteca o altro vincolo possono tuttavia essere gravate d'
 
 Parimenti le rendite dotali e quelle costituenti patrimonio familiare possono essere, previe le formalita' e le autorizzazioni prescritte, sottoposte ad ipoteca con tutti gli effetti di legge, e le rendite gia' sottoposte ad ipoteca o altro vincolo, quando siano costituite in dote oppure in patrimonio familiare, possono essere annotate anche del nuovo carattere ((ad esse attribuito)).
 
-#### Art. 27
+### Art. 27
 
 Trasporto delle annotazioni
 
 Nei trasferimenti delle rendite, le annotazioni di ipoteca o altro vincolo sono integralmente riportate sulle nuove iscrizioni e sui relativi certificati.
 
-#### Art. 28
+### Art. 28
 
 Modificazioni del vincolo
 
@@ -316,7 +312,7 @@ A margine delle iscrizioni di rendita nominativa gravate di ipoteca e sui corris
 
 Sulle rendite vincolate per cauzione di contabili dello Stato o di altri enti pubblici o per cauzione a favore del pubblico possono pero' annotarsi le estensioni di ipoteca a garanzia della gestione di altro contabile in essa subentrato, ovvero a garanzia di gestioni successive, anche quando siano diversi i cauzionati o i contabili, nonche' il diritto di prelazione a favore di altri enti.
 
-#### Art. 29
+### Art. 29
 
 Usufrutto
 
@@ -324,7 +320,7 @@ L'usufrutto vitalizio non e' ammesso a favore di piu' persone se non congiuntame
 
 Quando il vincolo di usufrutto sia a favore di una persona giuridica non puo' durare piu' di trent'anni.
 
-#### Art. 30
+### Art. 30
 
 Rinnovazione dell'ipoteca
 
@@ -336,7 +332,7 @@ Le rinnovazioni eseguite sulle iscrizioni del Gran Libro hanno effetto anche se 
 
 Un esemplare della domanda viene restituito all'interessato munito di dichiarazione attestante che l'ipoteca e' stata rinnovata.
 
-#### Art. 31
+### Art. 31
 
 Ipoteche non soggette a rinnovazione
 
@@ -344,7 +340,7 @@ Non sono soggette a rinnovazione le iscrizioni di ipoteca per cauzioni dovute ne
 
 Le iscrizioni di ipoteca a favore della moglie su rendite del marito, a garanzia della dote e dei lucri dotali, conservano il loro effetto senza la rinnovazione durante il matrimonio e per l'anno successivo allo scioglimento di esso.
 
-#### Art. 32
+### Art. 32
 
 Liberazione dei vincoli
 
@@ -356,7 +352,7 @@ b) per provvedimento dell'autorita' competente;
 
 c) per sentenza, passata in giudicato, che espressamente ordini la cancellazione.
 
-#### Art. 33
+### Art. 33
 
 Cancellazione dei vincoli senza consenso
 
@@ -368,7 +364,7 @@ Le annotazioni di ipoteca o di altro vincolo possono essere cancellate senza spe
 
 3\) quando non sia stata domandata la rinnovazione dell'ipoteca entro il termine indicato nell'art. 30.
 
-#### Art. 34
+### Art. 34
 
 Cancellazione del vincolo di usufrutto
 
@@ -384,7 +380,7 @@ d) per prescrizione, quando non siano stati richiesti gli interessi per lo spazi
 
 ## TITOLO V - OPPOSIZIONI
 
-#### Art. 35
+### Art. 35
 
 Titoli al portatore
 
@@ -396,7 +392,7 @@ In nessun caso sono ammessi sequestri, impedimenti od opposizioni sulle iscrizio
 
 L'Amministrazione del debito pubblico riconosce come proprietario dei titoli corrispondenti a siffatte iscrizioni soltanto il portatore di essi.
 
-#### Art. 36
+### Art. 36
 
 Iscrizioni nominative
 
@@ -414,7 +410,7 @@ All'infuori dei casi previsti, le iscrizioni nominative non sono soggette a sequ
 
 L'opposizione di cui al n. 2 non puo' essere mossa che dall'erede del titolare o del suo avente causa e dal legatario al quale la rendita sia stata dal titolare o dal suo avente causa espressamente attribuita.
 
-#### Art. 37
+### Art. 37
 
 Perdita di titoli nominativi
 
@@ -430,7 +426,7 @@ Nel termine di sei mesi dalla data di pubblicazione dell'avviso nella Gazzetta U
 
 La revoca della sospensione del pagamento degli interessi di cui al precedente comma puo' essere disposta soltanto in base ad accordo' fra le parti o a provvedimento dell'autorita' giudiziaria)).
 
-#### Art. 38
+### Art. 38
 
 Esecuzione sulle rendite nominative
 
@@ -438,7 +434,7 @@ L'esecuzione derivante dall'ipoteca o altro vincolo ha effetto per virtu' ed in 
 
 Le rendite sottoposte ad ipoteca nell'interesse dello Stato e delle pubbliche Amministrazioni sono rese libere e trasferite in tutto o in parte per determinazione della competente autorita' amministrativa.
 
-#### Art. 39
+### Art. 39
 
 Titoli misti
 
@@ -446,7 +442,7 @@ Le iscrizioni relative a titoli misti sono soggette ad opposizione nei casi cons
 
 Adempiute le formalita' prescritte, l'opponente puo' ottenere dall'Amministrazione certificati provvisori comprovanti il suo diritto ai nuovi titoli, i quali non verranno emessi che dopo esaurita la serie delle cedole annesse ai vecchi titoli.
 
-#### Art. 40
+### Art. 40
 
 Effetti impeditivi sulle rendite
 
@@ -456,7 +452,7 @@ Qualora l'Amministrazione del debito pubblico sia chiamata a partecipare al giud
 
 Trascorsi pero' quattro mesi dalla data della citazione, senza che sia intervenuta l'autorizzazione di cui allo stesso art. 36, cessa ogni effetto inibitorio della citazione nei riguardi del pagamento della rendita e dell'operazione eventualmente domandata.
 
-#### Art. 41
+### Art. 41
 
 Pignoramento e sequestro di titoli
 
@@ -464,7 +460,7 @@ E' fatto salvo l'esperimento di pignoramenti o sequestri sui titoli di rendita, 
 
 Gli atti di pignoramento o di sequestro di titoli esistenti presso gli uffici provinciali del Tesoro o presso le Sezioni di tesoreria provinciale devono essere, in ogni caso notificati oltre che al direttore generale del Debito pubblico, anche all'Ufficio o Tesoriera presso cui i titoli si trovano.
 
-#### Art. 42
+### Art. 42
 
 Comunicazioni al giudice penale
 
@@ -472,7 +468,7 @@ Qualora i titoli di rendita siano presentati all'Amministrazione del debito pubb
 
 ## TITOLO VI - PRESCRIZIONE
 
-#### Art. 43
+### Art. 43
 
 Prescrizione degli interessi e del capitale
 
@@ -484,19 +480,19 @@ La disposizione del comma precedente si applica, anche al capitale dei prestiti 
 
 Sono annullate le iscrizioni delle rendite dei prestiti irredimibili delle quali non siasi reclamato il pagamento nel corso di dieci anni, o, se trattasi di rendite annotate di ipoteca o altro vincolo, nel corso di venti anni. Per il caso considerato nella lettera d) dell'art 34, il termine di dieci anni decorre dal giorno in cui puo' essere fatta valere la prescrizione.
 
-#### Art. 44
+### Art. 44
 
 Prescrizione dei premi
 
 I premi assegnati ai titoli di Debito pubblico si prescrivono se non reclamati nel corso di cinque anni dalla data di pagabilita'.
 
-#### Art. 45
+### Art. 45
 
 Interruzione della prescrizione
 
 La prescrizione puo' essere interrotta nei modi e con gli effetti indicati negli articoli 2943, 2944 e 2945 del Codice civile, nonche' mediante semplice domanda o altro atto valevole a dimostrare la volonta' dell'istante di conservare il proprio diritto, con effetto dal giorno in cui la domanda o l'atto risultino pervenuti alla Direzione generale del debito pubblico ovvero anche ad uno degli uffici che, nel territorio nazionale o all'estero, hanno facolta' di ricevere domande per operazioni su titoli di debito pubblico o di provvedere al pagamento dei relativi interessi.
 
-#### Art. 46
+### Art. 46
 
 Titoli provvisori
 
@@ -504,7 +500,7 @@ La validita' delle ricevute o degli altri titoli provvisori, rilasciati in occas
 
 ## TITOLO VII - DISPOSIZIONI VARIE
 
-#### Art. 47
+### Art. 47
 
 Divisione di rendite
 
@@ -514,7 +510,7 @@ Il nuovo certificato per le quote degli altri contitolari e' consegnato allo ste
 
 Ove tali quote siano inferiori al minimo iscrivibile al nome o lascino frazioni non iscrivibili, il relativo importo e' versato in un libretto di risparmio postale, da consegnare al richiedente.
 
-#### Art. 48
+### Art. 48
 
 Revoca tacita del mandato
 
@@ -522,37 +518,37 @@ Salva contraria dichiarazione, il mandato a compiere operazioni di debito pubbli
 
 In ogni caso pero' il mandante deve essere in possesso dei titoli sui quali l'operazione va eseguita, ovvero della ricevuta di deposito di essi rilasciata dall'Amministrazione.
 
-#### Art. 49
+### Art. 49
 
 Prescrizione e decadenza
 
 I termini di prescrizione e di decadenza previsti dagli articoli precedenti decorrono dalla data di entrata in vigore della presente legge, purche', a norma delle leggi anteriori, non rimanga a decorrere un termine minore.
 
-#### Art. 50
+### Art. 50
 
 Pagamento dei premi
 
 I premi assegnati a titoli del Debito pubblico sono corrisposti a coloro che alla data della domanda di pagamento si trovano in possesso dei titoli al portatore premiati, ovvero hanno la pertinenza dei titoli nominativi comprensivi di quelli al portatore premiati senza verun riguardo allo stato di diritto del momento in cui i premi vennero conferiti.
 
-#### Art. 51
+### Art. 51
 
 Atti esenti da registrazione
 
 Sono esenti da registrazione, salvo quanto e' previsto in nota all'art. 3 della tariffa allegato d) alla legge del registro (testo unico approvato con regio decreto 30 dicembre 1923, n. 3269), i titoli di Debito pubblico, le corrispondenti cedole o tagliandi di ricevuta, i mandati e gli ordini di pagamento o consegna, le quietanze degli interessi, dei premi e dei rimborsi, i trasferimenti dei titoli fatti in base a dichiarazione sui medesimi o sui registri dell'Amministrazione del debito pubblico ovvero in base a domanda a norma della presente legge.
 
-#### Art. 52
+### Art. 52
 
 Buoni del Tesoro poliennali
 
 Salve rimanendo le norme tributarie stabilite per i buoni del Tesoro poliennali, sono estese ad essi le disposizioni di legge e di regolamento vigenti per gli altri titoli di Debito pubblico, nonche' quelle della presente legge.
 
-#### Art. 53
+### Art. 53
 
 Conservazione dei documenti
 
 I documenti prodotti restano in deposito presso l'Amministrazione, a giustificazione delle operazioni eseguite, per un periodo di dieci anni; se riguardanti annotazioni di ipoteca o di altro vincolo, per un periodo di venti anni. L'Amministrazione stessa ha facolta' di microfilmare i documenti dei quali ritenga opportuna la conservazione.
 
-#### Art. 54
+### Art. 54
 
 Abrogazione di norme
 

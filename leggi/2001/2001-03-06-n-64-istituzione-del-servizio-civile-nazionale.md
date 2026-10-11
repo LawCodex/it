@@ -30,11 +30,9 @@ Promulga
 
 la seguente legge:
 
-## CAPO I - DISPOSIZIONI RELATIVE
+## CAPO I - DISPOSIZIONI RELATIVE ALLA ISTITUZIONE DEL SERVIZIO CIVILE NAZIONALE
 
-### ALLA ISTITUZIONE DEL SERVIZIO - CIVILE NAZIONALE
-
-#### Art. 1 - Principi e finalita'
+### Art. 1 - Principi e finalita'
 
 1\. E' Istituito il servizio civile nazionale finalizzato a:
 
@@ -52,7 +50,7 @@ e) contribuire alla formazione civica, sociale, culturale e professionale dei gi
 
 > Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
-#### Art. 2 - Delega al Governo
+### Art. 2 - Delega al Governo
 
 1\. A decorrere dalla data della sospensione del servizio obbligatorio militare di leva, il servizio civile e' prestato su base esclusivamente volontaria.
 
@@ -92,7 +90,7 @@ l) previsione del diritto per gli appartenenti alle minoranze linguistiche di sv
 
 > \- La legge 12 novembre 1999, n. 424, reca: "Conversione in legge, con modificazioni, del decreto-legge 16 settembre 1999, n. 324, recante disposizioni urgenti in materia di servizio civile".
 
-#### Art. 3 - Enti e organizzazioni privati
+### Art. 3 - Enti e organizzazioni privati
 
 1.Gli enti e le organizzazioni privati che intendono presentare progetti per il servizio civile volontario devono possedere i seguenti requisiti:
 
@@ -108,7 +106,7 @@ cui all'articolo 1;
 
 d) svolgimento di un'attività continuativa da almeno tre anni.
 
-#### Art. 3-bis - Sanzioni amministrative
+### Art. 3-bis - Sanzioni amministrative
 
 1\. Gli enti di cui all'articolo 3 sono tenuti a cooperare per l'efficiente gestione del servizio civile e la corretta realizzazione dei progetti.
 
@@ -130,11 +128,11 @@ Il D.Lgs. 6 marzo 2017, n. 40 ha disposto (con l'art. 26, comma 3) che "Ai fini 
 
 ## CAPO II - DISCIPLINA DEL PERIODO TRANSITORIO
 
-#### Art. 4 - Ambito di applicazione
+### Art. 4 - Ambito di applicazione
 
 1\. Le disposizioni del presente Capo disciplinano il servizio civile nazionale fino alla data di efficacia dei decreti legislativi di cui all'articolo 2.
 
-#### Art. 5 - Ammissione al servizio civile
+### Art. 5 - Ammissione al servizio civile
 
 1\. Nel periodo di cui all'articolo 4, sono soggetti all'obbligo di prestare servizio civile, oltre ai cittadini di cui alla legge 8 luglio 1998, n. 230, i cittadini, abili al servizio militare di leva, che dichiarino la loro preferenza a prestare il servizio civile piuttosto che il servizio militare, purche' non risultino necessari al soddisfacimento delle esigenze qualitative e quantitative delle Forze armate, ivi comprese quelle del servizio ausiliario di leva delle Forze di polizia e del Corpo nazionale dei vigili del fuoco e comunque nei limiti del contingente definito ai sensi dell'articolo 6.
 
@@ -152,7 +150,7 @@ b) i cittadini riformati per inabilita' al servizio militare, anche successivame
 
 > \- Per la legge 8 luglio 1998, n. 230, vedasi la nota all'art. 2, comma 3, lettera g).
 
-#### Art. 6 - Determinazione del contingente
+### Art. 6 - Determinazione del contingente
 
 1\. Con decreto del Presidente del Consiglio dei ministri, da adottare ai sensi dell'articolo 9, comma 2-quater, della legge 8 luglio 1998, n. 230, e successive modificazioni, e' stabilita, nei limiti delle disponibilita' finanziarie del Fondo nazionale per il servizio civile, la consistenza del contingente dei giovani ammessi al servizio civile nel periodo previsto dall'articolo 4, includendovi prioritariamente i giovani che hanno optato per l'obiezione di coscienza ai sensi della predetta legge n. 230 del 1998.
 
@@ -166,7 +164,7 @@ b) i cittadini riformati per inabilita' al servizio militare, anche successivame
 
 > \- Per la legge 8 luglio 1998, n. 230, vedasi la nota all'art. 2, comma 3, lettera g).
 
-#### Art. 7 - Ufficio nazionale per il servizio civile
+### Art. 7 - Ufficio nazionale per il servizio civile
 
 1\. L'Ufficio nazionale per il servizio civile, di cui all'articolo 8 della legge 8 luglio 1998, n. 230, cura l'organizzazione, l'attuazione e lo svolgimento del servizio civile nazionale, fino alla costituzione dell'Agenzia per il servizio civile di cui all'articolo 10, comma 7, del decreto legislativo 30 luglio 1999, n. 303.
 
@@ -258,7 +256,7 @@ b) i cittadini riformati per inabilita' al servizio militare, anche successivame
 
 > \- Per il testo dell'art. 10, comma 7, del decreto legislativo 30 luglio 1999, n. 303, vedasi la nota all'art. 7, comma 1.
 
-#### Art. 8 - Disposizioni integrative ed attuative
+### Art. 8 - Disposizioni integrative ed attuative
 
 1\. Con regolamento, da adottare ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, e successive modificazioni, sono determinati: le caratteristiche e gli standard di utilita' sociale dei progetti di impiego; i criteri per la ripartizione dei finanziamenti necessari all'attuazione degli stessi, tenendo conto delle capacita' finanziarie dell'ente proponente, del numero dei giovani in servizio civile impegnati nei progetti e dell'estensione dell'area geografica interessata al progetto, nonche' della garanzia di accesso ai finanziamenti da parte di ogni regione e provincia autonoma, al fine di consentire che la ripartizione dei finanziamenti sia effettuata in funzione delle esigenze oggettivamente prioritarie e non soltanto della presentazione dei progetti; le procedure e le modalita' per le attivita' di monitoraggio, controllo e verifica della corretta gestione dei progetti approvati; i criteri in base ai quali il Servizio sanitario nazionale valuta l'idoneita' alla prestazione del servizio civile dei giovani di cui all'articolo 5, comma 4.
 
@@ -286,7 +284,7 @@ b) i cittadini riformati per inabilita' al servizio militare, anche successivame
 
 > \- Per il testo dell'art. 8 della legge 8 luglio 1998, n. 230, vedasi la nota all'art. 7, comma 1.
 
-#### Art. 9 - Servizio civile all'estero
+### Art. 9 - Servizio civile all'estero
 
 1\. Il servizio civile puo' essere svolto all'estero presso sedi ove sono realizzati progetti di servizio civile da parte di amministrazioni ed enti, di cui all'articolo 7, comma 2, nell'ambito di iniziative assunte dall'Unione europea in materia di servizio civile, nonche' in strutture per interventi di pacificazione e cooperazione fra i popoli, istituite dalla stessa Unione europea o da organismi internazionali operanti con le medesime finalita' ai quali l'Italia partecipa. Resta salvo quanto previsto dalla legge 8 luglio 1998, n. 230.
 
@@ -296,7 +294,7 @@ b) i cittadini riformati per inabilita' al servizio militare, anche successivame
 
 > \- Per la legge 8 luglio 1998, n. 230, vedasi la nota all'art. 2, comma 3, lettera g).
 
-#### Art. 10 - Benefici culturali e professionali
+### Art. 10 - Benefici culturali e professionali
 
 1\. Per il periodo di cui all'articolo 4, ai cittadini che prestano il servizio civile a qualsiasi titolo si applicano le disposizioni di cui all'articolo 6 della legge 8 luglio 1998, n. 230.
 
@@ -306,7 +304,7 @@ b) i cittadini riformati per inabilita' al servizio militare, anche successivame
 
 ## CAPO III - NORME FINANZIARIE E FINALI
 
-#### Art. 11 - Fondo nazionale per il servizio civile
+### Art. 11 - Fondo nazionale per il servizio civile
 
 1\. Il Fondo nazionale per il servizio civile e' costituito:
 
@@ -324,7 +322,7 @@ c) dalle donazioni di soggetti pubblici e privati.
 
 5\. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 12 - Norme abrogate
+### Art. 12 - Norme abrogate
 
 1\. All'articolo 4, comma 3, della legge 8 luglio 1998, n. 230, sono abrogate le parole: "Fino al 31 dicembre 1999".
 

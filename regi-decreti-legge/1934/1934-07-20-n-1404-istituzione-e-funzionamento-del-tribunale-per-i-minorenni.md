@@ -38,11 +38,9 @@ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la gra
 
 Abbiamo decretato e decretiamo:
 
-## PARTE I. - ORGANIZZAZIONE GIUDIZIARIA E PENITENZIARIA
+## PARTE I. - ORGANIZZAZIONE GIUDIZIARIA E PENITENZIARIA SERVIZI AUSILIARI.
 
-### SERVIZI AUSILIARI.
-
-#### Art. 1
+### Art. 1
 
 Composizione dei centri di rieducazione per minorenni.
 
@@ -106,7 +104,7 @@ AGGIORNAMENTO (25)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
-#### Art. 2
+### Art. 2
 
 ((ARTICOLO ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149))
 
@@ -130,7 +128,7 @@ AGGIORNAMENTO (25)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 18 ottobre 2024 al 18 ottobre 2027.
 
-#### Art. 3
+### Art. 3
 
 ((ARTICOLO ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149))
 
@@ -154,7 +152,7 @@ AGGIORNAMENTO (25)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 18 ottobre 2024 al 18 ottobre 2027.
 
-#### Art. 4
+### Art. 4
 
 ((ARTICOLO ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149))
 
@@ -178,7 +176,7 @@ AGGIORNAMENTO (25)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 18 ottobre 2024 al 18 ottobre 2027.
 
-#### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149))
 
@@ -202,7 +200,7 @@ AGGIORNAMENTO (25)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 18 ottobre 2024 al 18 ottobre 2027.
 
-#### Art. 6 - Nomina dei giudici onorari esperti e dei consiglieri onorari esperti
+### Art. 6 - Nomina dei giudici onorari esperti e dei consiglieri onorari esperti
 
 I componenti privati del tribunale per le persone, per i minorenni e per le famiglie e della sezione di corte di appello per le persone, per i minorenni e per le famiglie sono scelti fra i cultori di biologia, di psichiatria, di antropologia criminale, di pedagogia, di psicologia, che abbiano compiuto il trentesimo anno di eta'.
 
@@ -240,7 +238,7 @@ AGGIORNAMENTO (25)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
-#### Art. 6-bis - Disposizioni in materia di incompatibilita' dei giudici onorari minorili
+### Art. 6-bis - Disposizioni in materia di incompatibilita' dei giudici onorari minorili
 
 1\. Non possono essere nominati giudice onorario esperto o consigliere onorario esperto coloro che rivestono cariche rappresentative in strutture o comunita' pubbliche o private ove vengono inseriti i minori da parte dell'autorita' giudiziaria, che partecipano alla gestione complessiva delle medesime strutture, che prestano a favore di esse attivita' professionale anche a titolo gratuito o che fanno parte degli organi sociali di societa' che le gestiscono. (20) (21) (23) (24) ((25))
 
@@ -280,7 +278,7 @@ AGGIORNAMENTO (25)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
-#### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149))
 
@@ -304,7 +302,7 @@ AGGIORNAMENTO (25)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 18 ottobre 2024 al 18 ottobre 2027.
 
-#### Art. 8
+### Art. 8
 
 ((Istituti di osservazione.))
 
@@ -314,7 +312,7 @@ Essi hanno lo scopo precipuo di fare l'esame della personalita' del minore e seg
 
 ## PARTE II. - COMPETENZA PENALE.
 
-#### Art. 9
+### Art. 9
 
 Determinazione della competenza.
 
@@ -350,7 +348,7 @@ AGGIORNAMENTO (15)
 
 La Corte Costituzionale, con sentenza 22 febbraio - 3 marzo 1989, n. 78 (in G.U. 1ª s.s. 8/3/1989, n. 10), ha dichiarato l'illegittimita' costituzionale del presente articolo nella parte in cui sottrae al tribunale per i minorenni la cognizione dei reati militari commessi dai minori degli anni diciotto appartenenti alle forze armate.
 
-#### Art. 10
+### Art. 10
 
 Rimessione di procedimenti al pretore.
 
@@ -366,7 +364,7 @@ AGGIORNAMENTO (8)
 
 La Corte Costituzionale, con sentenza 3-7 luglio 1962, n. 88 (in G.U. 1ª s.s. 14/7/1962, n. 177), ha dichiarato, in applicazione dell'art. 27 della legge 11 marzo 1953, n. 87, la illegittimita' costituzionale del presente articolo.
 
-#### Art. 11
+### Art. 11
 
 Forme del procedimento; indagini sulla personalita' del minore.
 
@@ -374,7 +372,7 @@ Nei procedimenti a carico dei minori, speciali ricerche devono essere rivolte ad
 
 Il pubblico ministero, il tribunale e la sezione della Corte d'appello possono assumere informazioni e sentire pareri di tecnici senza alcuna formalita' di procedura, quando si tratta di determinare la personalita' del minore e le cause della sua irregolare condotta.
 
-#### Art. 12
+### Art. 12
 
 Difesa dei minorenni.
 
@@ -384,7 +382,7 @@ Difesa dei minorenni.
 
 Durante l'istruzione, quando sono terminati gli interrogatori, il pubblico ministero puo' autorizzare il difensore a conferire con l'imputato minorenne detenuto. Dopo la richiesta di citazione il difensore puo' conferire con l'imputato stesso senza bisogno di autorizzazione.
 
-#### Art. 13
+### Art. 13
 
 Istruzione.
 
@@ -396,7 +394,7 @@ Quando e' necessario uno dei provvedimenti indicati nell'art. 301 del codice di 
 
 Lo stesso tribunale per i minorenni in camera di consiglio pronuncia gli altri provvedimenti che, a norma di legge, il pubblico ministero richiede al giudice istruttore, e giudica sulle impugnazioni ammesse contro le sentenze pronunciate dal pretore nella istruzione.
 
-#### Art. 14
+### Art. 14
 
 Definizione dell'istruzione.
 
@@ -404,7 +402,7 @@ Il procuratore del Re o il procuratore generale, se ritiene che non si debba pro
 
 Il tribunale, se accoglie la richiesta, pronuncia sentenza di non doversi procedere; se crede necessari ulteriori atti, dispone che il pubblico ministero li compia; se crede doversi rinviare il minorenne a giudizio, ordina con decreto la citazione per il dibattimento.
 
-#### Art. 15
+### Art. 15
 
 Impugnazioni e altri provvedimenti.
 
@@ -412,7 +410,7 @@ Alla sezione di Corte d'appello per i minorenni, in camera di consiglio, e' devo
 
 Alla stessa sezione di Corte d'appello sono devoluti i provvedimenti di competenza della sezione istruttoria nella ipotesi di dubbi sulla identita', dell'imputato, sorti nel giudizio di cassazione, nonche' in materia di estradizione, di riconoscimento delle sentenze penali straniere e di rogatorie.
 
-#### Art. 16
+### Art. 16
 
 Udienze del tribunale per i minori.
 
@@ -420,7 +418,7 @@ Le udienze del tribunale per i minorenni e della sezione di Corte d'appello per 
 
 Il presidente puo' disporre che l'imputato sia allontanato durante l'esecuzione di qualche mezzo di prova e durante la discussione della causa.
 
-#### Art. 17
+### Art. 17
 
 Provvedimenti conseguenti alla contumacia dei minorenni.
 
@@ -428,7 +426,7 @@ Il decreto di citazione dei minori degli anni 18 e' notificato per conoscenza an
 
 Quando il tribunale o la sezione di Corte d'appello dispone, a norma dell'art. 498 del codice di procedura penale, che si proceda nel giudizio in contumacia dell'imputato, puo' condannare l'esercente la patria potesta' o la tutela, al quale fu notificato il decreto di citazione del minore, al pagamento di una somma da lire 100 a 2000 a favore della cassa delle ammende, se non e' dimostrato che egli non potette impedire la mancata comparizione del minore.
 
-#### Art. 18
+### Art. 18
 
 Perizia nel dibattimento.
 
@@ -440,7 +438,7 @@ Le parti hanno facolta' di presentare un loro consulente tecnico senza che l'ese
 
 All'udienza di ripresa del dibattimento il perito e i consulenti tecnici presentano le loro conclusioni ed osservazioni per iscritto, e forniscono i chiarimenti richiesti dal tribunale.
 
-#### Art. 19
+### Art. 19
 
 (( (Perdono giudiziale). ))
 
@@ -452,7 +450,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. del Capo Provvisorio dello Stato 21 ottobre 1947, n. 1250 ha disposto (con l'art. 7, comma 1) che il limite della pena pecuniaria preveduta nel presente articolo, per la concessione del perdono giudiziale, e' elevato a lire centoventimila.
 
-#### Art. 20
+### Art. 20
 
 (( (Sospensione condizionale della pena). ))
 
@@ -464,7 +462,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. del Capo Provvisorio dello Stato 21 ottobre 1947, n. 1250 ha disposto (con l'art. 7, comma 1) che e' elevato a lire centoventimila il limite stabilito dal presente articolo per la concessione della sospensione condizionale della pena.
 
-#### Art. 21
+### Art. 21
 
 Liberazione condizionale.
 
@@ -474,13 +472,13 @@ Il Ministro puo' stabilire, col decreto di concessione, che, in luogo della libe
 
 Se per il liberato condizionalmente fu disposto l'internamento in un riformatorio giudiziario, in una colonia agricola o in una casa di lavoro, il tempo trascorso in tali stabilimenti e' computato nella durata della pena.
 
-#### Art. 22
+### Art. 22
 
 ((Provvedimenti con seguenti alla liberazione dei minori.))
 
 ((La scarcerazione del minore o la sua dimissione da uno stabilimento per misure di sicurezza, deve essere comunicata dal procuratore della Repubblica al Tribunale per i minorenni perche' esamini se sia necessaria una delle misure previste dall'art. 25)).
 
-#### Art. 23
+### Art. 23
 
 Liberta' vigilata.
 
@@ -496,7 +494,7 @@ Le condizioni prescritte devono essere rivedute ed eventualmente modificate, sec
 
 Se i risultati non sono soddisfacenti, il giudice di sorveglianza ordina l'internamento del minore in un riformatorio giudiziario.
 
-#### Art. 24
+### Art. 24
 
 Per i fatti commessi dai minori degli anni 18, sia che abbiano dato luogo a condanna, sia a proscioglimento, e' ammessa una riabilitazione speciale, che fa cessare le pene accessorie e tutti gli altri effetti preveduti da leggi e regolamenti penali, civili e amministrativi, salvo le limitazioni stabilite per la concessione della sospensione condizionale della pena e del perdono giudiziale.
 
@@ -524,7 +522,7 @@ La Corte Costituzionale, con sentenza 12 - 26 luglio 1979, n. 95 (in G.U. 1ª s.
 
 ## PARTE III. - COMPETENZA AMMINISTRATIVA.
 
-#### Art. 25
+### Art. 25
 
 (( (Misure rieducative). ))
 
@@ -554,7 +552,7 @@ AGGIORNAMENTO (20)
 
 Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi due anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
-#### Art. 25-bis - Minori che esercitano la prostituzione o vittime di reati a carattere sessuale
+### Art. 25-bis - Minori che esercitano la prostituzione o vittime di reati a carattere sessuale
 
 1\. Il pubblico ufficiale o l'incaricato di pubblico servizio, qualora abbia notizia che un minore degli anni diciotto esercita la prostituzione, ne da' immediata notizia alla procura della Repubblica presso il tribunale per le persone, per i minorenni e per le famiglie, che promuove i procedimenti per la tutela del minore e puo' proporre al tribunale per le persone, per i minorenni e per le famiglie la nomina di un curatore. Il tribunale adotta i provvedimenti utili all'assistenza, anche di carattere psicologico, al recupero e al reinserimento del minore. Nei casi di urgenza il tribunale per le persone, per i minorenni e per le famiglie procede d'ufficio. (20) (23) (24) ((25))
 
@@ -584,7 +582,7 @@ AGGIORNAMENTO (25)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
-#### Art. 26
+### Art. 26
 
 Misure applicabili ai minori sottoposti a procedimento penale ed ai minori il cui genitore serba condotta pregiudizievole.
 
@@ -594,7 +592,7 @@ Quando e' stato conceduto il perdono giudiziale o la sospensione condizionale de
 
 La misura ((di cui ai commi 1, 2 e 3 dell'articolo 25 o la misura di cui al numero 3) del comma 4 del medesimo articolo 25)) puo' altresi' essere disposta quando il minore si trovi nella condizione prevista dall'art. 333 del Codice civile.
 
-#### Art. 27
+### Art. 27
 
 Disposizioni particolari alla liberta' assistita.
 
@@ -608,7 +606,7 @@ L'ufficio di servizio sociale minorile controlla la condotta del minore e lo aiu
 
 L'ufficio predetto riferisce periodicamente per iscritto o a voce al componente del tribunale designato, fornendogli dettagliate notizie sul comportamento del minore, delle persone che si sono prese cura di lui e sull'osservanza da parte di essi delle prescrizioni stabilite, nonche' su quant'altro interessi il riadattamento sociale del minore medesimo, proponendo, se del caso, la modifica delle prescrizioni o altro dei provvedimenti previsti dall'art. 29.
 
-#### Art. 28
+### Art. 28
 
 Informazioni sui minori collocati presso comunita' e rapporti con la famiglia e con l'ambiente.
 
@@ -640,7 +638,7 @@ AGGIORNAMENTO (25)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 49, comma 1) che "Le disposizioni previste dalla sezione settima del capo IV hanno effetto decorsi cinque anni dalla data della pubblicazione del presente decreto nella Gazzetta Ufficiale e si applicano ai procedimenti introdotti successivamente a tale data".
 
-#### Art. 29
+### Art. 29
 
 Modificazioni, trasformazioni e cessazione delle misure.
 
@@ -652,7 +650,7 @@ Per i minori assoggettati ((alla misura prevista dall'articolo 25, comma 4, nume
 
 La cessazione delle misure disposte e' ordinata in ogni tempo dal tribunale allorche' il minore appaia interamente riadattato, o quando per le sue condizioni fisiche o psichiche nessuna misura rossa considerarsi idonea alla sua rieducazione. La cessazione e' in ogni caso ordinata al compimento del ventunesimo anno di eta' o per servizio militare di leva.
 
-#### Art. 30
+### Art. 30
 
 ((Pensionati giovanili.))
 
@@ -660,7 +658,7 @@ La cessazione delle misure disposte e' ordinata in ogni tempo dal tribunale allo
 
 L'organizzazione di tali pensionati deve consentire e favorire il collocamento dei minorenni al lavoro, presso stabilimenti o ditte esistenti nella medesima localita' o in altra viciniore)).
 
-#### Art. 31
+### Art. 31
 
 ((Informazioni della pubblica sicurezza.))
 
@@ -668,7 +666,7 @@ L'organizzazione di tali pensionati deve consentire e favorire il collocamento d
 
 ## PARTE IV. - COMPETENZA CIVILE.
 
-#### Art. 32
+### Art. 32
 
 ((ARTICOLO ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149))
 
@@ -694,19 +692,19 @@ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dal D.L. 12 giugno 2026, n. 1
 
 ## PARTE V. - DISPOSIZIONI FINALI.
 
-#### Art. 33
+### Art. 33
 
 Norme di esecuzione, di integrazione e di coordinamento.
 
 Il Governo del Re e' autorizzato ad emanare con decreti Reali, su proposta del Guardasigilli, di concerto col Ministro per l'interno e col Ministro per le finanze, le norme transitorie, di attuazione, di esecuzione del presente decreto, nonche' quelle di coordinamento dello stesso con le leggi che si occupano della tutela morale, fisica ed economica dei minorenni, e tutte le altre norme integrative che il nuovo ordinamento rendera' necessarie.
 
-#### Art. 34
+### Art. 34
 
 Limiti dell'efficacia derogativa della legge.
 
 Nelle materie prevedute nel presente decreto, in quanto non sia disposto o modificato dal decreto medesimo, continueranno ad osservarsi le norme dei codici, delle leggi e dei regolamenti in vigore.
 
-#### Art. 35
+### Art. 35
 
 Decorrenza dell'applicazione della legge.
 

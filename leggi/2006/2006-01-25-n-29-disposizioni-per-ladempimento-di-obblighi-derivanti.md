@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I - DISPOSIZIONI GENERALI SUI PROCEDIMENTI
+## Capo I - DISPOSIZIONI GENERALI SUI PROCEDIMENTI PER L'ADEMPIMENTO DEGLI OBBLIGHI COMUNITARI
 
-### PER L'ADEMPIMENTO DEGLI OBBLIGHI COMUNITARI
-
-#### Art. 1 - Delega al Governo per l'attuazione di direttive comunitarie
+### Art. 1 - Delega al Governo per l'attuazione di direttive comunitarie
 
 1\. Il Governo e' delegato ad adottare, entro il termine di diciotto mesi dalla data di entrata in vigore della presente legge, i decreti legislativi recanti le norme occorrenti per dare attuazione alle direttive comprese negli elenchi di cui agli allegati A e B.
 
@@ -54,7 +52,7 @@ Decorsi quaranta giorni dalla data di trasmissione, i decreti sono emanati anche
 
 9\. Il Governo, quando non intende conformarsi ai pareri parlamentari di cui al comma 3, relativi a sanzioni penali contenute negli schemi di decreti legislativi recanti attuazione delle direttive comprese negli allegati A e B, ritrasmette con le sue osservazioni e con eventuali modificazioni i testi alla Camera dei deputati e al Senato della Repubblica. Decorsi trenta giorni dalla data di ritrasmissione, i decreti sono emanati anche in mancanza di nuovo parere.
 
-#### Art. 2 - Modifica all'articolo 10 della legge 4 febbraio 2005, n. 11
+### Art. 2 - Modifica all'articolo 10 della legge 4 febbraio 2005, n. 11
 
 1\. Il comma 4 dell'articolo 10 della legge 4 febbraio 2005, n. 11, e' sostituito dal seguente:
 
@@ -74,7 +72,7 @@ Decorsi quaranta giorni dalla data di trasmissione, i decreti sono emanati anche
 
 > 5\. La disposizione di cui al comma 4 si applica, altresi', all'emanazione di testi unici per il riordino e l'armonizzazione di normative di settore nel rispetto delle competenze delle regioni e delle province autonome.».
 
-#### Art. 3 - Principi e criteri direttivi generali della delega legislativa
+### Art. 3 - Principi e criteri direttivi generali della delega legislativa
 
 1\. Salvi gli specifici principi e criteri direttivi stabiliti dalle disposizioni di cui al capo II e in aggiunta a quelli contenuti nelle direttive da attuare, i decreti legislativi di cui all'articolo 1 sono informati ai seguenti principi e criteri direttivi generali:
 
@@ -120,7 +118,7 @@ g) quando si verifichino sovrapposizioni di competenze fra amministrazioni diver
 
 > 3\. Restano salvi i rapporti finanziari direttamente intrattenuti con le Comunita' europee dalle amministrazioni e dagli organismi di cui all'art. 2 del decreto del Presidente della Repubblica 16 aprile 1971, n. 321, ed alla legge 26 novembre 1975, n. 748.».
 
-#### Art. 4 - Delega al Governo per la disciplina sanzionatoria di violazioni a disposizioni in materia di Politica agricola comune e di Politica dello sviluppo rurale
+### Art. 4 - Delega al Governo per la disciplina sanzionatoria di violazioni a disposizioni in materia di Politica agricola comune e di Politica dello sviluppo rurale
 
 1\. Al fine di garantire la parita' di trattamento tra agricoltori
 
@@ -140,7 +138,7 @@ b) le sanzioni reintegratorie o interdittive, determinate anche in funzione dell
 
 > \- Per l'art. 14 della legge 23 agosto 1988, n. 400, vedi note all'art. 1.
 
-#### Art. 5
+### Art. 5
 
 (Delega al Governo per la disciplina sanzionatoria
 
@@ -156,7 +154,7 @@ di violazioni di disposizioni comunitarie)
 
 > \- Per l'art. 14 della legge 23 agosto 1988, n. 400, vedi note all'art. 1.
 
-#### Art. 6 - Oneri relativi a prestazioni e controlli
+### Art. 6 - Oneri relativi a prestazioni e controlli
 
 1\. In relazione agli oneri per prestazioni e controlli si applicano le disposizioni di cui all'articolo 9, comma 2, della legge 4 febbraio 2005, n. 11.
 
@@ -172,7 +170,7 @@ di violazioni di disposizioni comunitarie)
 
 > \- Il decreto del Presidente della Repubblica 10 novembre 1999, n. 469, reca: «Regolamento recante norme di semplificazione del procedimento per il versamento di somme all'entrata e la riassegnazione alle unita' previsionali di base per la spesa del bilancio dello Stato, con particolare riferimento ai finanziamenti dell'Unione europea, ai sensi dell'art. 20, comma 8, della legge 15 marzo 1997, n. 59».
 
-#### Art. 7 - Attuazione di direttive comunitarie con regolamento autorizzato
+### Art. 7 - Attuazione di direttive comunitarie con regolamento autorizzato
 
 1\. Il Governo e' autorizzato a dare attuazione alle direttive comprese nell'elenco di cui all'allegato C con uno o piu' regolamenti da adottare ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, secondo quanto disposto dagli articoli 9 e 11 della legge 4 febbraio 2005, n. 11, e con le procedure ivi previste, previo parere dei competenti organi parlamentari ai quali gli schemi di regolamento sono trasmessi con apposite relazioni cui e' allegato il parere del Consiglio di Stato e che si esprimono entro quaranta giorni dall'assegnazione. Decorso il predetto termine, i regolamenti sono emanati anche in mancanza di detti pareri.
 
@@ -236,7 +234,7 @@ di violazioni di disposizioni comunitarie)
 
 > 8\. In relazione a quanto disposto dall'art. 117, quinto comma, della Costituzione, gli atti normativi di cui al presente articolo possono essere adottati nelle materie di competenza legislativa delle regioni e delle province autonome al fine di porre rimedio all'eventuale inerzia dei suddetti enti nel dare attuazione a norme comunitarie. In tale caso, gli atti normativi statali adottati si applicano, per le regioni e le province autonome nelle quali non sia ancora in vigore la propria normativa di attuazione, a decorrere dalla scadenza del termine stabilito per l'attuazione della rispettiva normativa comunitaria, perdono comunque efficacia dalla data di entrata in vigore della normativa di attuazione di ciascuna regione e provincia autonoma e recano l'esplicita indicazione della natura sostitutiva del potere esercitato e del carattere cedevole delle disposizioni in essi contenute. I predetti atti normativi sono sottoposti al preventivo esame della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano.».
 
-#### Art. 8
+### Art. 8
 
 (Delega al Governo per il riordino normativo
 
@@ -254,11 +252,9 @@ AGGIORNAMENTO (2)
 
 La L. 25 febbraio 2008, n.34 ha disposto che "Il termine di cui all'articolo 8, comma 1, della legge 25 gennaio 2006, n. 29, per l'adozione di un testo unico di coordinamento delle disposizioni attuative della direttiva 2005/60/CE del Parlamento europeo e del Consiglio, del 26 ottobre 2005, con le norme legislative vigenti nella stessa materia, e' prorogato al 30 giugno 2008."
 
-## Capo II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO, CRITERI SPECIFICI
+## Capo II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO, CRITERI SPECIFICI DI DELEGA LEGISLATIVA
 
-### DI DELEGA LEGISLATIVA
-
-#### Art. 9 - Modifiche all'articolo 55 del testo unico delle leggi di pubblica sicurezza, di cui al regio decreto 18 giugno 1931, n. 773, a parziale recepimento della direttiva 2004/57/CE della Commissione, del 23 aprile 2004
+### Art. 9 - Modifiche all'articolo 55 del testo unico delle leggi di pubblica sicurezza, di cui al regio decreto 18 giugno 1931, n. 773, a parziale recepimento della direttiva 2004/57/CE della Commissione, del 23 aprile 2004
 
 1\. All'articolo 55 del testo unico delle leggi di pubblica
 
@@ -294,7 +290,7 @@ b) dopo il quinto comma e' inserito il seguente:
 
 > L'acquirente o cessionario di materie esplodenti in violazione delle norme del presente articolo e' punito con l'arresto sino a diciotto mesi e con l'ammenda sino a lire 300.000.».
 
-#### Art. 10 - Modifica all'articolo 5 della legge 18 aprile 1975, n. 110
+### Art. 10 - Modifica all'articolo 5 della legge 18 aprile 1975, n. 110
 
 1\. All'articolo 5, primo comma, della legge 18 aprile 1975, n. 110, le parole: "e dei giocattoli pirici" sono soppresse.
 
@@ -316,7 +312,7 @@ b) dopo il quinto comma e' inserito il seguente:
 
 > Quando l'uso o il porto d'armi e' previsto quale elemento costitutivo o circostanza aggravante del reato, il reato stesso sussiste o e' aggravato anche qualora si tratti di arma per uso scenico o di giocattoli riproducenti armi la cui canna non sia occlusa a norma del quarto comma.».
 
-#### Art. 11 - Adempimenti in materia di rifiuti pericolosi
+### Art. 11 - Adempimenti in materia di rifiuti pericolosi
 
 1\. I produttori di rifiuti pericolosi che non sono inquadrati in un'organizzazione di ente o di impresa adempiono all'obbligo della tenuta del registro di carico e scarico di cui all'articolo 12 del decreto legislativo 5 febbraio 1997, n. 22, e successive modificazioni, attraverso la conservazione, in ordine cronologico, delle copie del formulario proprie del detentore, di cui all'articolo 15 del citato decreto legislativo n. 22 del 1997.
 
@@ -380,13 +376,13 @@ b) dopo il quinto comma e' inserito il seguente:
 
 > «3. Chiunque effettua a titolo professionale attivita' di raccolta e di trasporto di rifiuti, compresi i commercianti e gli intermediari di rifiuti, ovvero svolge le operazioni di recupero e di smaltimento dei rifiuti, nonche' le imprese e gli enti che producono rifiuti pericolosi e le imprese e gli enti che producono rifiuti non pericolosi di cui all'art. 7, comma 3, lettere c), d) e g), sono tenuti a comunicare annualmente con le modalita' previste dalla legge 25 gennaio 1994, n. 70, le quantita' e le caratteristiche qualitative dei rifiuti oggetto delle predette attivita'. Sono esonerati da tale obbligo gli imprenditori agricoli di cui all'art. 2135 del codice civile con un volume di affari annuo non superiore a lire quindicimilioni e, limitatamente alla produzione di rifiuti non pericolosi, i piccoli imprenditori artigiani di cui all'art. 2083 del codice civile che non hanno piu' di tre dipendenti. Nel caso in cui i produttori di rifiuti conferiscano i medesimi al servizio pubblico di raccolta, la comunicazione e' effettuata dal gestore del servizio limitatamente alla quantita' conferita.».
 
-#### Art. 12 - Valutazione di titoli e certificazioni comunitarie
+### Art. 12 - Valutazione di titoli e certificazioni comunitarie
 
 1\. Fatta salva la normativa vigente in materia, in caso di procedimento nel quale e' richiesto quale requisito il possesso di un titolo di studio, corso di perfezionamento, certificazione di esperienze professionali e ogni altro attestato che certifichi competenze acquisite dall'interessato, l'ente responsabile valuta la corrispondenza agli indicati requisiti dei titoli e delle certificazioni acquisiti in altri Stati membri dell'Unione europea o in Stati aderenti all'Accordo sullo Spazio economico europeo o nella Confederazione elvetica.
 
 2\. La valutazione dei titoli di studio e' subordinata alla preventiva acquisizione sugli stessi del parere favorevole espresso dal Ministero dell'istruzione, dell'universita' e della ricerca tenuto conto dell'oggetto del procedimento. Il parere deve essere comunque reso entro centottanta giorni dal ricevimento della documentazione completa.
 
-#### Art. 13
+### Art. 13
 
 (Modifiche al testo unico di cui al decreto
 
@@ -428,7 +424,7 @@ b) l'articolo 380 e' abrogato.
 
 > 9\. (Abrogato).».
 
-#### Art. 14 - Modifiche al decreto legislativo 9 maggio 2001, n. 269, recante attuazione della direttiva 1999/5/CE riguardante le apparecchiature radio, le apparecchiature terminali di telecomunicazione ed il reciproco riconoscimento della loro conformita
+### Art. 14 - Modifiche al decreto legislativo 9 maggio 2001, n. 269, recante attuazione della direttiva 1999/5/CE riguardante le apparecchiature radio, le apparecchiature terminali di telecomunicazione ed il reciproco riconoscimento della loro conformita
 
 1\. All'articolo 1, comma 1, lettera c), del decreto legislativo 9 maggio 2001, n. 269, le parole: "l'emissione e" sono sostituite dalle seguenti: "l'emissione ovvero".
 
@@ -492,7 +488,7 @@ g) al comma 6, le parole: "da lire 10 milioni a lire 60 milioni" sono sostituite
 
 > 9\. Gli apparecchi sono confiscati qualora, nei sei mesi successivi alla esecuzione del sequestro, non si e' proceduto alla regolarizzazione delle situazioni indicate nel comma 8 ovvero al ritiro dal mercato degli apparecchi medesimi.».
 
-#### Art. 15 - Attuazione della decisione C (2004) 4746 della Commissione, del 14 dicembre 2004
+### Art. 15 - Attuazione della decisione C (2004) 4746 della Commissione, del 14 dicembre 2004
 
 1\. In attuazione della decisione C (2004) 4746 della Commissione,
 
@@ -530,7 +526,7 @@ b) l'importo corrispondente all'eventuale imposta sul reddito non dovuta per eff
 
 > \- Il regolamento (CE) n. 70/2001 e' pubblicato nella GUCE n. L 10 del 13 gennaio 2001.
 
-#### Art. 16 - Modifiche all'articolo 1 della legge 18 aprile 2005, n. 62
+### Art. 16 - Modifiche all'articolo 1 della legge 18 aprile 2005, n. 62
 
 1\. All'articolo 1 della legge 18 aprile 2005, n. 62, dopo il comma 5 e' inserito il seguente:
 
@@ -562,7 +558,7 @@ b) l'importo corrispondente all'eventuale imposta sul reddito non dovuta per eff
 
 > \- La direttiva 2004/25/CE e' pubblicata nella GUCE n. L 142 del 30 aprile 2004.
 
-#### Art. 17
+### Art. 17
 
 (Modifiche all'articolo 38 del regolamento di cui al decreto del
 
@@ -584,7 +580,7 @@ Presidente della Repubblica 23 aprile 2001, n. 290)
 
 > 6\. Entro la medesima data di cui al comma 5, il Ministero della sanita' predispone un elenco dei prodotti di cui al comma 4. Nelle more della predisposizione dell'elenco di cui al presente comma, detti prodotti, purche' siano rispondenti ai requisiti di cui all'art. 3, comma 1, lettera h), del decreto legislativo n. 110 del 1995, possono essere commercializzati anche oltre il termine del 31 dicembre 2003, a condizione che la somministrazione venga effettuata secondo le modalita' prescritte mediante ricetta rilasciata da un medico veterinario in copia unica non ripetibile.».
 
-#### Art. 18
+### Art. 18
 
 (Introduzione dell'articolo 29-bis della
 
@@ -626,7 +622,7 @@ d) disciplinare le forme di collaborazione e lo scambio di informazioni fra le i
 
 > \- La direttiva 2003/41/CE e' pubblicata nella GUCE n. L 235 del 23 settembre 2003.
 
-#### Art. 19 - Modifica al decreto legislativo 13 gennaio 1999, n. 18
+### Art. 19 - Modifica al decreto legislativo 13 gennaio 1999, n. 18
 
 1\. L'articolo 20 del decreto legislativo 13 gennaio 1999, n. 18, recante attuazione della direttiva 96/67/CE relativa al libero accesso al mercato dei servizi di assistenza a terra negli aeroporti della Comunita', e' abrogato.
 
@@ -636,7 +632,7 @@ d) disciplinare le forme di collaborazione e lo scambio di informazioni fra le i
 
 > \- La direttiva 96/67/CE e' pubblicata nella GUCE n. L 272 del 25 ottobre 1996.
 
-#### Art. 20 - Modifiche al testo unico delle disposizioni legislative e regolamentari in materia di circolazione e soggiorno dei cittadini degli Stati membri dell'Unione europea, di cui al decreto del Presidente della Repubblica 18 gennaio 2002, n. 54
+### Art. 20 - Modifiche al testo unico delle disposizioni legislative e regolamentari in materia di circolazione e soggiorno dei cittadini degli Stati membri dell'Unione europea, di cui al decreto del Presidente della Repubblica 18 gennaio 2002, n. 54
 
 1\. Al fine di interrompere le procedure di infrazione 2003/2134 e
 
@@ -770,7 +766,7 @@ c) all'articolo 6 (R):
 
 > 5\. Fatte salve le disposizioni piu' favorevoli del decreto legislativo 25 luglio 1998, n. 286, e del relativo regolamento di attuazione, le interruzioni del soggiorno non superiori a sei mesi consecutivi o le assenze dal territorio della Repubblica motivate dall'assolvimento di obblighi militari non infirmano la validita' della carta di soggiorno. La carta di soggiorno in corso di validita' non puo' essere ritirata ai cittadini di cui all'art. 3, comma 1, lettere a) e b) per il solo fatto che non esercitino piu' un'attivita' in seguito ad incapacita' temporanea dovuta a malattia o infortunio.
 
-#### Art. 21 - Modifiche al decreto legislativo 20 febbraio 2004, n. 56
+### Art. 21 - Modifiche al decreto legislativo 20 febbraio 2004, n. 56
 
 1\. All'articolo 2, comma 1, del decreto legislativo 20 febbraio 2004, n. 56, recante attuazione della direttiva 2001/97/CE in materia di prevenzione dell'uso del sistema finanziario a scopo di riciclaggio dei proventi da attivita' illecite, dopo la lettera s) e' inserita la seguente:
 
@@ -868,7 +864,7 @@ c) all'articolo 6 (R):
 
 > 10\. Dall'attuazione del presente decreto legislativo non devono derivare nuovi o maggiori oneri a carico del bilancio dello Stato.».
 
-#### Art. 22 - Attuazione della direttiva 2005/60/CE del Parlamento europeo e del Consiglio, del 26 ottobre 2005, relativa alla prevenzione dell'uso del sistema finanziario a scopo di riciclaggio dei proventi di attivita' criminose e di finanziamento del terrorismo, e previsione di modalita' operative per eseguire le misure di congelamento di fondi e risorse economiche stabilite dalle risoluzioni del Consiglio di sicurezza delle Nazioni Unite, dai regolamenti (CE) n. 2580/2001 e n. 881/2002 nonche' dai regolamenti comunitari emanati ai sensi degli articoli 60 e 301 del Trattato istitutivo della Comunita' europea per il contrasto del finanziamento del terrorismo e dell'attivita' di Paesi che minacciano la pace e la sicurezza internazionale
+### Art. 22 - Attuazione della direttiva 2005/60/CE del Parlamento europeo e del Consiglio, del 26 ottobre 2005, relativa alla prevenzione dell'uso del sistema finanziario a scopo di riciclaggio dei proventi di attivita' criminose e di finanziamento del terrorismo, e previsione di modalita' operative per eseguire le misure di congelamento di fondi e risorse economiche stabilite dalle risoluzioni del Consiglio di sicurezza delle Nazioni Unite, dai regolamenti (CE) n. 2580/2001 e n. 881/2002 nonche' dai regolamenti comunitari emanati ai sensi degli articoli 60 e 301 del Trattato istitutivo della Comunita' europea per il contrasto del finanziamento del terrorismo e dell'attivita' di Paesi che minacciano la pace e la sicurezza internazionale
 
 1\. Il Governo e' delegato ad adottare, entro il termine e con le
 
@@ -990,7 +986,7 @@ bb) prevedere una disciplina organica di sanzioni amministrative per le violazio
 
 > La pena e' diminuita nell'ipotesi di cui al secondo comma dell'art. 648. Si applica l'ultimo comma dell'art. 648.».
 
-#### Art. 23 - Modifica al decreto legislativo 29 luglio 2003, n. 267, recante attuazione della direttiva 1999/74/CE e della direttiva 2002/4/CE, per la protezione delle galline ovaiole e la registrazione dei relativi stabilimenti di allevamento
+### Art. 23 - Modifica al decreto legislativo 29 luglio 2003, n. 267, recante attuazione della direttiva 1999/74/CE e della direttiva 2002/4/CE, per la protezione delle galline ovaiole e la registrazione dei relativi stabilimenti di allevamento
 
 1\. Il comma 5 dell'articolo 8 del decreto legislativo 29 luglio
 
@@ -1010,7 +1006,7 @@ bb) prevedere una disciplina organica di sanzioni amministrative per le violazio
 
 > 5\. (Abrogato).».
 
-#### Art. 24 - Attuazione della decisione n. 2005/315/CE della Commissione, del 20 ottobre 2004, notificata con il numero C (2004) 3893
+### Art. 24 - Attuazione della decisione n. 2005/315/CE della Commissione, del 20 ottobre 2004, notificata con il numero C (2004) 3893
 
 1\. In attuazione della decisione n. 2005/315/CE della Commissione,
 
@@ -1054,7 +1050,7 @@ c) l'importo corrispondente all'eventuale imposta sul reddito non dovuta per eff
 
 > «Art. 41-bis (Accertamento parziale). - 1. Senza pregiudizio dell'ulteriore azione accertatrice nei termini stabiliti dall'art. 43, i competenti uffici dell'Agenzia delle entrate, qualora dagli accessi, ispezioni e verifiche nonche' dalle segnalazioni effettuati dalla Direzione centrale accertamento, da una Direzione regionale ovvero da un ufficio della medesima Agenzia ovvero di altre Agenzie fiscali, dalla Guardia di finanza o da pubbliche amministrazioni ed enti pubblici oppure dai dati in possesso dell'anagrafe tributaria, risultino elementi che consentono di stabilire l'esistenza di un reddito non dichiarato o il maggiore ammontare di un reddito parziale dichiarato, che avrebbe dovuto concorrere a formare il reddito imponibile, compresi i redditi da partecipazioni in societa', associazioni ed imprese di cui all'art. 5 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, o l'esistenza di deduzioni, esenzioni ed agevolazioni in tutto o in parte non spettanti, nonche' l'esistenza di imposte o di maggiori imposte non versate, escluse le ipotesi di cui agli articoli 36-bis e 36-ter, possono limitarsi ad accertare, in base agli elementi predetti, il reddito o il maggior reddito imponibili, ovvero la maggiore imposta da versare, anche avvalendosi delle procedure previste dal decreto legislativo 19 giugno 1997, n. 218. Non si applica la disposizione dell'art. 44. 2.».
 
-#### Art. 25
+### Art. 25
 
 (Modifica al decreto legislativo 30 aprile 1992,
 
@@ -1072,7 +1068,7 @@ n. 285, recante il nuovo codice della strada)
 
 > 2\. Chiunque circola con la carta di circolazione di cui al comma 1 scaduta di validita' e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 71 a euro 286. Dalla violazione consegue la sanzione amministrativa accessoria della confisca del veicolo, secondo le norme del capo I, sezione II, del titolo VI. La sanzione accessoria non si applica qualora al veicolo, successivamente all'accertamento, venga rilasciata la carta di circolazione, ai sensi dall'art. 93.».
 
-#### Art. 26 - Modifica alla legge 20 ottobre 1999, n. 380
+### Art. 26 - Modifica alla legge 20 ottobre 1999, n. 380
 
 1\. All'articolo 1 della legge 20 ottobre 1999, n. 380, il comma 6 e' sostituito dal seguente:
 
@@ -1116,7 +1112,7 @@ Visto, il Guardasigilli: Castelli
 
 > 9\. In deroga alle previsioni del comma 1, le cittadine italiane possono partecipare, su base volontaria, anche ai concorsi per ufficiali piloti di complemento delle Forze armate. Questi ultimi devono essere reclutati con le modalita' e le procedure di cui all'art. 3 della legge 19 maggio 1986, n. 224.».
 
-#### Art. 26-bis
+### Art. 26-bis
 
 ((Attuazione della direttiva 2005/14/CE del Parlamento europeo
 
@@ -1146,11 +1142,9 @@ b) prevedere un periodo transitorio di cinque anni, dalla data dell'11 giugno 20
 
 c) prevedere, ai fini del risarcimento da parte del Fondo di garanzia per le vittime della strada costituito presso la Concessionaria servizi assicurativi pubblici - CONSAP Spa, in caso di danni alle cose causati da un veicolo non identificato, una franchigia di importo pari a euro 500 a carico della vittima che ha subito i danni alle cose, qualora nello stesso incidente il Fondo sia intervenuto per gravi danni alle persone.))
 
-## Capo II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO, CRITERI SPECIFICI
+## Capo II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO, CRITERI SPECIFICI DI DELEGA LEGISLATIVA
 
-### DI DELEGA LEGISLATIVA
-
-#### Allegato A
+### Allegato A
 
 Allegato A
 
@@ -1174,7 +1168,7 @@ Allegato A
 
 2005/50/CE della Commissione, dell'11 agosto 2005, relativa alla riclassificazione delle protesi articolari dell'anca, del ginocchio e della spalla nel quadro della direttiva 93/42/CEE concernente i dispositivi medici.
 
-#### Allegato B
+### Allegato B
 
 Allegato B
 
@@ -1222,7 +1216,7 @@ Allegato B
 
 2005/60/CE del Parlamento europeo e del Consiglio, del 26 ottobre 2005, relativa alla prevenzione dell'uso del sistema finanziario a scopo di riciclaggio dei proventi di attivita' criminose e di finanziamento del terrorismo.
 
-#### Allegato C
+### Allegato C
 
 ALLEGATO C
 

@@ -32,33 +32,33 @@ Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commiss
 
 Noi abbiamo sanzionato e promulghiamo quanto segue:
 
-### Art. 1
+## Art. 1
 
 Il ruolo organico dei cancellieri giudiziari militari risulta dalla tabella annessa alla presente legge.
 
-### Art. 2
+## Art. 2
 
 La promozione al grado di cancelliere capo del Tribunale Supremo militare e' conferita, per merito comparativo, ai cancellieri capi di Tribunale militare di 1a classe, che abbiano almeno cinque anni di anzianita' nel grado.
 
-### Art. 3
+## Art. 3
 
 La promozione al grado di cancelliere capo di Tribunale militare di 1ª classe e' conferita, per merito comparativo, ai cancellieri capi di Tribunale militare di 2ª classe, che abbiano almeno cinque anni di anzianita' nel grado.
 
 ## Disposizioni transitorie.
 
-### Art. 4
+## Art. 4
 
 La commissione del personale per i cancellieri della giustizia militare procede al giudizio di conferma in carica dell'attuale cancelliere capo del Tribunale Supremo militare. Se il giudizio e' favorevole, il predetto funzionario e' collocato nel 6° grado gerarchico, a decorrere dalla data della entrata in vigore della presente legge. In caso diverso, si provvede nei modi ordinari di legge.
 
-### Art. 5
+## Art. 5
 
 Sino a quando non sara' provveduto in conformita' dell'articolo precedente, l'attuale cancelliere capo del Tribunale Supremo militare conserva la qualifica e le funzioni di cancelliere capo del Tribunale medesimo.
 
-### Art. 6
+## Art. 6
 
 Salvo quanto e' disposto dagli articoli 4 e 5, i cancellieri giudiziari militari, in attivita' di servizio al momento della entrata in vigore della presente legge, sono collocati nel nuovo ruolo, con la rispettiva anzianita' e con il grado gerarchico e la qualifica corrispondenti al grado gerarchico da essi attualmente rivestito, salvo a essere scrutinati per l'eventuale avanzamento, ai sensi delle disposizioni che regolano le promozioni.
 
-### Art. 7
+## Art. 7
 
 Con successivo Regio decreto, da emanare ai sensi dell'art. 1, n. 1, della legge 31 gennaio 1926-IV, n. 100, saranno stabilite le norme per il coordinamento della presente legge con il R. decreto-legge 28 novembre 1935, n. 2397, e successive modificazioni, relativamente ai gradi e al numero degli ufficiali appartenenti alla categoria cancellieri del ruolo ordinario del Corpo della giustizia militare.
 

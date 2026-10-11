@@ -25,11 +25,11 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare l'accordo tra la Repubblica italiana e gli Stati Uniti d'America in materia di sicurezza sociale, concluso a Washington il 23 maggio 1973.
 
-#### Art. 2
+### Art. 2
 
 Piena ed intera esecuzione e' data all'accordo di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 24 dell'accordo stesso.
 
@@ -65,7 +65,7 @@ Caspar W. WEINBERGER, Ministro della sanita', educazione, e previdenza sociale,
 
 i quali, dopo essersi scambiati i loro pieni poteri, riconosciuti in buona e debita forma, hanno concordato le disposizioni seguenti:
 
-#### Articolo 1
+### Articolo 1
 
 Ai fini dell'applicazione del presente accordo:
 
@@ -97,7 +97,7 @@ k. Il termine "importo della prestazione" ("basic benefit amount") designa per q
 
 l. Il termine "beneficiario" designa tutti i lavoratori, i familiari o i superstiti che abbiano titolo a prestazioni o a pensioni.
 
-#### Articolo 2
+### Articolo 2
 
 1\. Il presente accordo si applica alle legislazioni di sicurezza sociale relative alle prestazioni per l'invalidita', la vecchiaia e i superstiti e precisamente:
 
@@ -111,27 +111,27 @@ tuttavia, per quanto riguarda gli Stati Uniti, la totalizzazione dei periodi di 
 
 3\. Il presente accordo si applichera' anche a future legislazioni che apportino modificazioni o integrazioni alle legislazioni indicate nel presente articolo.
 
-#### Articolo 3
+### Articolo 3
 
 1\. Il presente accordo si applica ai lavoratori, che possano far valere periodi di assicurazione in base alle legislazioni, e ai loro familiari o superstiti.
 
 2\. Il presente accordo non si applica ai periodi di servizio prestato in qualita' di agente diplomatico e consolare di carriera, o di agente di cancelleria, ne', salvo quanto disposto all'articolo 2, paragrafo 2, ai periodi di servizio coperti da regimi speciali istituiti per i dipendenti dello Stato o di enti pubblici (government agencies or instrumentalities).
 
-#### Articolo 4
+### Articolo 4
 
 Le persone alle quali si applicano le disposizioni del presente accordo sono sottoposte agli obblighi e sono ammesse ai benefici della legislazione di sicurezza sociale di ciascuno Stato contraente alle stesse condizioni delle persone che sono soggette unicamente alla legislazione di sicurezza sociale di tale Stato, sia che risiedano sul territorio di uno Stato contraente sia che risiedano sul territorio di uno Stato terzo.
 
-#### Articolo 5
+### Articolo 5
 
 Ai fini dell'ammissione all'assicurazione volontaria in base alle disposizioni della legislazione di uno Stato contraente, i periodi di assicurazione compiuti in base alla legislazione di tale Stato saranno totalizzati, ove necessario, con i periodi di assicurazione compiuti in base alla legislazione dell'altro Stato.
 
-#### Articolo 6
+### Articolo 6
 
 Salvo quanto diversamente stabilito nel presente accordo, le persone che hanno diritto alle prestazioni in base alla legislazione di uno Stato contraente, incluse le prestazioni derivanti dal presente accordo, le riceveranno integralmente e senza limitazione o restrizione mentre risiedono nel territorio dell'altro Stato. Tali prestazioni saranno corrisposte da ogni Stato alle persone cui si applicano le disposizioni del presente accordo, che risiedono in uno Stato terzo alle stesse condizioni e nella stessa misura in cui tali prestazioni sarebbero corrisposte se tali persone fossero state soggette unicamente alla legislazione dello Stato debitore.
 
 ## Parte II - DISPOSIZIONI RELATIVE ALLA LEGISLAZIONE APPLICABILE
 
-#### Articolo 7
+### Articolo 7
 
 1\. Salvo quanto diversamente disposto nel presente articolo, le persone alle quali si applica il presente accordo, che svolgono la loro attivita' sul territorio di uno Stato contraente, sono soggette alla legislazione di tale Stato.
 
@@ -151,11 +151,9 @@ c. la persona, che non e' cittadino di nessuno dei due Stati e per lo stesso per
 
 6\. Le autorita' competenti dei due Stati, possono concordare nell'interesse di un lavoratore o di categorie di lavoratori altre eccezioni alla regola prevista nel paragrafo 1.
 
-## Parte III - DISPOSIZIONI PARTICOLARI
+## Parte III - DISPOSIZIONI PARTICOLARI INVALIDITA', VECCHIAIA, SUPERSTITI
 
-### INVALIDITA', VECCHIAIA, SUPERSTITI
-
-#### Articolo 8
+### Articolo 8
 
 1\. Qualora un periodo di lavoro risulta coperto da un periodo di assicurazione in base alla legislazione di ambedue gli Stati contraenti, l'istituzione di ciascuno Stato prendera' in considerazione, ai fini dell'articolo 8 paragrafo 2 e dell'articolo 9 paragrafo 2, il periodo di assicurazione che risulta compiuto in base alla propria legislazione.
 
@@ -167,7 +165,7 @@ Tale istituzione prendera' in considerazione tutti i periodi di assicurazione ri
 
 4\. L'istituzione degli Stati Uniti non e' obbligata ad applicare le disposizioni del presente articolo nel caso di un lavoratore che ha compiuto meno di sei trimestri di assicurazione (six quarters of coverage) secondo la legislazione degli Stati Uniti; l'istituzione italiana non e' obbligata ad applicare le disposizioni del presente articolo nel caso di un lavoratore, il quale ha compiuto meno di un anno di assicurazione secondo la legislazione italiana.
 
-#### Articolo 9
+### Articolo 9
 
 1\. Quando un lavoratore, un suo familiare o un superstite soddisfi alle condizioni stabilite dalla legislazione di uno Stato contraente per l'acquisizione del diritto alle prestazioni, senza che sia necessario ricorrere alle disposizioni dell'articolo 8, l'istituzione di detto Stato stabilira', secondo le disposizioni della propria legislazione, l'importo della prestazione in base al totale dei periodi di assicurazione compiuti dal lavoratore in virtu' della legislazione di tale Stato.
 
@@ -181,7 +179,7 @@ L'istituzione in questione stabilira' quindi l'importo della prestazione in pro 
 
 5\. Salvo i casi previsti dall'articolo 11, le opzioni di cui ai paragrafi 3 e 4 sono definitive.
 
-#### Articolo 10
+### Articolo 10
 
 1\. Ai fini del calcolo dell'importo della prestazione teorica, le istituzioni di ciascuno Stato contraente operano rispettivamente come segue:
 
@@ -191,7 +189,7 @@ b. da parte italiana, per i periodi di assicurazione compiuti in base alla legis
 
 2\. Se, in virtu' della legislazione di uno Stato, l'importo delle prestazioni varia in relazione al numero dei familiari o superstiti, l'istituzione di tale Stato prendera' in considerazione anche i familiari o superstiti, che risiedono sul territorio dell'altro Stato.
 
-#### Articolo 11
+### Articolo 11
 
 1\. A richiesta, le prestazioni concesse in virtu' delle disposizioni dell'articolo 9 paragrafo 2 saranno ricalcolate da parte di entrambi gli Stati secondo le disposizioni dell'articolo 9 paragrafo 2 per prendere in considerazione ulteriori periodi di assicurazione compiuti in virtu' della legislazione dell'uno o dell'altro Stato contraente.
 
@@ -203,27 +201,27 @@ b. nella legislazione di uno Stato vengono introdotte modifiche al sistema di ca
 
 3\. Nonostante le disposizioni dell'articolo 9 paragrafo 5 se il diritto dei beneficiari che ricevono prestazioni in virtu' dell'articolo 9 viene meno, le prestazioni delle persone che successivamente divengono titolari di prestazioni in virtu' di periodi di assicurazione dello stesso lavoratore saranno calcolate in virtu' delle disposizioni dell'articolo 9.
 
-#### Articolo 12
+### Articolo 12
 
 Se il beneficiario ha diritto a prestazioni in virtu' dell'articolo 9 paragrafo 2 da parte delle istituzioni di entrambi gli Stati contraenti e se la somma di tali prestazioni e' inferiore all'importo della prestazione minima prevista dalla legislazione dello Stato in cui il beneficiario risiede, l'istituzione di questo Stato corrisponde, a proprio carico, un complemento pari alla differenza tra la somma delle prestazioni dovute in base all'articolo 9 paragrafo 2 e l'importo della prestazione minima suddetta.
 
 ## Parte IV - DISPOSIZIONE VARIE, TRANSITORIE E FINALI
 
-#### Articolo 13
+### Articolo 13
 
 Le autorita' competenti e le istituzioni dei due Stati contraenti si prestano reciproca assistenza per l'applicazione del presente accordo come se applicassero le rispettive legislazioni; tale assistenza e' gratuita.
 
-#### Articolo 14
+### Articolo 14
 
 1\. Le autorita' competenti dei due Stati contraenti stabiliranno di comune accordo le disposizioni amministrative necessarie per l'applicazione del presente accordo e ciascuna di tali autorita' designera' una istituzione di collegamento per facilitare l'applicazione del presente accordo.
 
 2\. Le autorita' competenti dei due Stati si comunicano l'un l'altra tutte le informazioni concernenti regolamenti, provvedimenti amministrativi e modifiche alle proprie legislazioni che possano influire sull'applicazione del presente accordo.
 
-#### Articolo 15
+### Articolo 15
 
 Le autorita' diplomatiche e consolari di ciascuno Stato contraente possono rivolgersi direttamente alle autorita' competenti od istituzioni dell'altro Stato per ottenere informazioni utili alla tutela degli interessi dei propri cittadini, e possono rappresentarli senza speciale mandato.
 
-#### Articolo 16
+### Articolo 16
 
 1\. Le esenzioni da imposte, tasse e diritti previste dalla legislazione di uno dei due Stati, valgono anche per l'applicazione del presente accordo, indipendentemente dalla cittadinanza degli interessati.
 
@@ -231,15 +229,15 @@ Le autorita' diplomatiche e consolari di ciascuno Stato contraente possono rivol
 
 3\. L'attestazione relativa all'autenticita' di un certificato o di un documento, oppure di una copia, da parte delle autorita' competenti o delle istituzioni di uno Stato sara' ritenuta valida da parte della autorita' competente o delle istituzioni dell'altro Stato.
 
-#### Articolo 17
+### Articolo 17
 
 Le autorita' competenti e le istituzioni designate per il collegamento dei due Stati contraenti possono corrispondere direttamente l'una con l'altra e con ogni persona dovunque questa possa risiedere, tutte le volte che tale corrispondenza sia necessaria per l'applicazione del presente accordo. La corrispondenza puo' essere redatta nella lingua ufficiale dello scrivente.
 
-#### Articolo 18
+### Articolo 18
 
 Le istanze che i beneficiari indirizzano alle autorita' competenti o alle istituzioni dell'uno o dell'altro Stato contraente per l'applicazione del presente accordo non possono essere respinte per il solo fatto di essere redatte nella lingua ufficiale dell'altro Stato.
 
-#### Articolo 19
+### Articolo 19
 
 1\. Le istanze ed altri documenti presentati per iscritto alle autorita' competenti o alle istituzioni di uno Stato contraente hanno lo stesso effetto come se fossero presentate alle corrispondenti autorita' od istituzioni dell'altro Stato.
 
@@ -247,7 +245,7 @@ Le istanze che i beneficiari indirizzano alle autorita' competenti o alle istitu
 
 3\. Un ricorso che debba essere presentato entro un dato termine all'autorita' competente od istituzione di uno degli Stati sara' considerato come presentato entro tale termine se il ricorso e' stato presentato entro lo stesso termine all'autorita' competente o all'istituzione dell'altro Stato. In tal caso l'autorita' od istituzione cui il ricorso e' stato presentato trasmette senza indugio detto ricorso all'autorita' competente o all'istituzione dell'altro Stato e comunica all'interessato la ricezione del ricorso.
 
-#### Articolo 20
+### Articolo 20
 
 1\. Le autorita' competenti dei due Stati contraenti stabiliranno di comune accordo i procedimenti per risolvere ogni questione o controversia che potra' sorgere circa l'applicazione o l'interpretazione del presente accordo.
 
@@ -255,7 +253,7 @@ Le istanze che i beneficiari indirizzano alle autorita' competenti o alle istitu
 
 3\. L'organo arbitrale istituito in virtu' del paragrafo 2 consistera' di tre membri. Le autorita' competenti dei due Stati designeranno ciascuna un membro. Il terzo membro verra' designato concordemente dalle due autorita' competenti.
 
-#### Articolo 21
+### Articolo 21
 
 1\. Nelle more della definizione dei diritti di un beneficiario in base al presente accordo compresa la definizione di ogni questione di cui all'articolo 20 tra le autorita' competenti e le istituzioni dei due Stati contraenti, il beneficiario i cui diritti sono in contestazione, ricevera' prestazioni provvisorie secondo il presente articolo fino a che non sia intervenuta tale definizione.
 
@@ -265,13 +263,13 @@ Le istanze che i beneficiari indirizzano alle autorita' competenti o alle istitu
 
 b. nel dare corso a tali procedure, l'istituzione di uno Stato tratterra' dai pagamenti che effettua, basati sui diritti liquidati definitivamente al beneficiario, gli importi permessi dalla legislazione di tale Stato sufficienti per rimborsare all'istituzione dell'altro Stato gli importi pagati a titolo di prestazioni provvisorie eccedenti gli importi definitivamente spettanti al beneficiario.
 
-#### Articolo 22
+### Articolo 22
 
 1\. Le istituzioni di uno Stato contraente debitrici di prestazioni da corrispondere nell'altro Stato in virtu' del presente accordo, si liberano validamente di tali obbligazioni nella valuta del proprio Stato.
 
 2\. Nel caso che disposizioni intese a sottoporre a restrizioni lo scambio di valute siano emanate nell'uno o nell'altro Stato, entrambi i Governi adotteranno immediatamente le misure necessarie per assicurare, in conformita' con le disposizioni del presente accordo, il trasferimento di somme dovute dall'una o dall'altra Parte.
 
-#### Articolo 23
+### Articolo 23
 
 1\. Le disposizioni del presente accordo si applicano a tutte le domande di prestazione che verranno presentate dalla data di entrata in vigore del presente accordo (incluse le nuove domande di coloro che avevano gia' precedentemente presentato domanda di prestazione).
 
@@ -281,7 +279,7 @@ b. nel dare corso a tali procedure, l'istituzione di uno Stato tratterra' dai pa
 
 4\. Il presente accordo non da' diritto a pagamenti di prestazioni per periodi anteriori alla sua entrata in vigore.
 
-#### Articolo 24
+### Articolo 24
 
 1\. Il presente accordo sara' ratificato e gli strumenti di ratifica saranno scambiati appena possibile.
 
@@ -305,7 +303,7 @@ Per il Governo degli Stati Uniti d'America
 
 Caspar W. WEINBERGER
 
-#### Agreement
+### Agreement
 
 AGREEMENT BETWEEN THE ITALIAN REPUBLIC AND THE UNITED STATES OF AMERICA ON THE MATTER OF SOCIAL SECURITY.
 

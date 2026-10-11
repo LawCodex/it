@@ -260,9 +260,7 @@ Gestione, coordinamento e vigilanza
 
 3\. Il trattamento economico del personale di cui al presente capo rimane a carico dell'amministrazione di appartenenza e continua ad essere corrisposto dagli uffici che vi provvedevano all'atto del collocamento fuori ruolo.
 
-## Capo II - Requisiti e formazione del personale da destinare all'estero e
-
-### valutazione del sistema della formazione italiana nel mondo
+## Capo II - Requisiti e formazione del personale da destinare all'estero e valutazione del sistema della formazione italiana nel mondo
 
 #### Art. 14
 
@@ -492,7 +490,7 @@ Foro competente
 
 1\. Per le controversie di lavoro del personale di cui al presente capo e' competente il foro di Roma.
 
-## Sezione II - Trattamento economico
+### Sezione II - Trattamento economico
 
 #### Art. 28
 
@@ -604,7 +602,7 @@ Legge regolatrice dei contratti
 
 4\. E' in ogni caso escluso il transito nei ruoli del personale di cui alla presente sezione.
 
-## Sezione II - Altre situazioni particolari
+### Sezione II - Altre situazioni particolari
 
 #### Art. 34
 

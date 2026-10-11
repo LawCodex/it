@@ -30,11 +30,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I - NORME IN MATERIA
+## Capo I - NORME IN MATERIA DI SEMPLIFICAZIONE
 
-### DI SEMPLIFICAZIONE
-
-#### Art. 1
+### Art. 1
 
 Delegificazione di norme e regolamenti di semplificazione
 
@@ -132,25 +130,25 @@ a) le disposizioni abrogate a seguito della sottoscrizione dei contratti collett
 
 b) le norme generali e speciali del pubblico impiego che hanno cessato di produrre effetti, ai sensi dell'articolo 72 del citato decreto legislativo n. 29 del 1993, e successive modificazioni, dal momento della sottoscrizione, per ciascun ambito di riferimento, del secondo contratto collettivo previsto dal medesimo decreto.
 
-#### Art. 2
+### Art. 2
 
 ((ARTICOLO ABROGATO DAL D.P.R. 28 DICEMBRE 2000, N. 445))
 
-#### Art. 3
+### Art. 3
 
 ((ARTICOLO ABROGATO DAL D.P.R. 28 DICEMBRE 2000, N. 445))
 
-#### Art. 4 - Rilascio e rinnovi dei passaporti
+### Art. 4 - Rilascio e rinnovi dei passaporti
 
 1\. Il Ministro degli affari esteri puo' delegare per il rilascio e i rinnovi dei passaporti, oltre che i questori, i sindaci dei comuni di residenza dei richiedenti.
 
-#### Art. 5 - Tutela dei consumatori e degli utenti
+### Art. 5 - Tutela dei consumatori e degli utenti
 
 1\. Dopo la lettera g) del comma 4 dell'articolo 4 della legge 30 luglio 1998, n. 281, e' aggiunta la seguente:
 
 "g-bis) segnalare alla Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica, eventuali difficolta', impedimenti od ostacoli, relativi all'attuazione delle disposizioni in materia di semplificazione procedimentale e documentale nelle pubbliche amministrazioni. Le segnalazioni sono verificate dal predetto Dipartimento anche mediante l'Ispettorato della funzione pubblica".
 
-#### Art. 6
+### Art. 6
 
 (Attivita' istruttorie in materia
 
@@ -160,7 +158,7 @@ di sportello unico delle imprese)
 
 "Art. 27-bis. - (Misure organizzative per lo sportello unico delle imprese) - 1. Le amministrazioni, gli enti e le autorita' competenti a svolgere, ai sensi degli articoli da 23 a 27, attivita' istruttorie nell'ambito del procedimento di cui al regolamento previsto dall'articolo 20, comma 8, della legge 15 marzo 1997, n. 59, per la realizzazione, l'ampliamento, la ristrutturazione, la riconversione di impianti produttivi e per l'esecuzione di opere interne ai fabbricati, nonche' per la determinazione delle aree destinate agli investimenti produttivi, provvedono all'adozione delle misure organizzative necessarie allo snellimento delle predette attivita' istruttorie, al fine di assicurare il coordinamento dei termini di queste con i termini di cui al citato regolamento".
 
-#### Art. 7
+### Art. 7
 
 (Testo unico relativo ai contratti
 
@@ -174,7 +172,7 @@ e ai contratti d'area)
 
 2\. Nella predisposizione del testo unico di cui all'allegato 3, numero 9-bis), della legge n. 50 del 1999, introdotto dal comma 1 del presente articolo, il Governo prevede anche l'attribuzione al CIPE della competenza ad emanare le deliberazioni attuative ed integrative al fine di ulteriormente semplificare, riordinare e coordinare la disciplina del settore.
 
-#### Art. 8
+### Art. 8
 
 ((ARTICOLO ABROGATO DALLA L. 23 LUGLIO 2009, N. 99)) ((12))
 
@@ -184,11 +182,9 @@ AGGIORNAMENTO (12)
 
 La L. 23 luglio 2009, n. 99 ha disposto (con l'art. 27, comma 33) che "L'articolo 8 della legge 24 novembre 2000, n. 340, e' abrogato, fatta salva la sua applicazione ai procedimenti in corso alla data di entrata in vigore della presente legge per i quali non e' esercitata l'opzione di cui al comma 32 del presente articolo".
 
-## Capo II - MODIFICHE ALLA LEGGE 7 AGOSTO 1990, N. 241,
+## Capo II - MODIFICHE ALLA LEGGE 7 AGOSTO 1990, N. 241, E ULTERIORI NORME IN MATERIA DI CONFERENZA DI SERVIZI
 
-### E ULTERIORI NORME IN MATERIA DI CONFERENZA DI SERVIZI
-
-#### Art. 9 - Ricorso alla conferenza di servizi
+### Art. 9 - Ricorso alla conferenza di servizi
 
 1\. L'articolo 14 della legge 7 agosto 1990, n. 241, e successive modificazioni, e' sostituito dal seguente:
 
@@ -206,7 +202,7 @@ In tal caso, la conferenza e' indetta dall'amministrazione o, previa informale i
 
 2\. Per l'approvazione di progetti di opere concernenti reti ferroviarie la conferenza di servizi e' indetta dal Ministro dei trasporti e della navigazione ai sensi dell'articolo 10 del decreto-legge 30 dicembre 1997, n. 457, convertito, con modificazioni, dalla legge 27 febbraio 1998, n. 30. La conferenza di servizi viene indetta e convocata dalla Ferrovie dello Stato spa, ai sensi della presente legge e con riferimento all'articolo 25, comma secondo, della legge 17 maggio 1985, n. 210, in caso di opere per la soppressione di passaggi a livello su linee delle Ferrovie stesse localizzati nell'ambito regionale.
 
-#### Art. 10
+### Art. 10
 
 (Conferenza di servizi su istanze
 
@@ -224,7 +220,7 @@ o progetti preliminari)
 
 5\. Nel caso di cui al comma 2, il responsabile unico del procedimento trasmette alle amministrazioni interessate il progetto definitivo, redatto sulla base delle condizioni indicate dalle stesse amministrazioni in sede di conferenza di servizi sul progetto preliminare, e convoca la conferenza tra il trentesimo e il sessantesimo giorno successivi alla trasmissione. In caso di affidamento mediante appalto concorso o concessione di lavori pubblici, l'amministrazione aggiudicatrice convoca la conferenza di servizi sulla base del solo progetto preliminare, secondo quanto previsto dalla legge 11 febbraio 1994, n. 109, e successive modificazioni".
 
-#### Art. 11 - Procedimento della conferenza di servizi
+### Art. 11 - Procedimento della conferenza di servizi
 
 1\. L'articolo 14-ter della legge 7 agosto 1990, n. 241, introdotto dall'articolo 17, comma 6, della legge 15 maggio 1997, n. 127, e' sostituito dal seguente:
 
@@ -250,7 +246,7 @@ o progetti preliminari)
 
 Dalla data della pubblicazione nella Gazzetta Ufficiale decorrono i termini per eventuali impugnazioni in sede giurisdizionale da parte dei soggetti interessati".
 
-#### Art. 12
+### Art. 12
 
 (Dissensi espressi in sede di conferenza
 
@@ -268,7 +264,7 @@ di servizi)
 
 5\. Nell'ipotesi in cui l'opera sia sottoposta a VIA e in caso di provvedimento negativo trova applicazione l'articolo 5, comma 2, lettera c-bis), della legge 23 agosto 1988, n. 400, introdotta dall'articolo 12, comma 2, del decreto legislativo 30 luglio 1999, n. 303".
 
-#### Art. 13
+### Art. 13
 
 (Disposizioni in materia di trasferimento
 
@@ -278,13 +274,13 @@ di funzioni amministrative)
 
 Tale disposizione non si applica ove si tratti di funzioni attribuite da specifiche norme di legge ad autorita' preposte alla tutela ambientale, paesaggistico-territoriale, del patrimonio storico-artistico o alla tutela della salute; in tali casi, l'amministrazione procedente e' sempre tenuta a convocare una conferenza di servizi ai sensi degli articoli 14 e seguenti della legge 7 agosto 1990, n. 241, e successive modificazioni.
 
-#### Art. 14 - Abrogazioni e norma di raccordo
+### Art. 14 - Abrogazioni e norma di raccordo
 
 1\. All'articolo 7 della legge 11 febbraio 1994, n. 109, come da ultimo sostituito dall'articolo 5 della legge 18 novembre 1998, n. 415, i commi da 7 a 14 sono abrogati ((. . .)).
 
 2\. Il regolamento di cui all'articolo 3, comma 2, della legge 11 febbraio 1994, n. 109, e successive modificazioni, e le leggi regionali prevedono forme di pubblicita' dei lavori della conferenza di servizi, nonche' degli atti assunti da ciascuna amministrazione interessata.
 
-#### Art. 15
+### Art. 15
 
 (Norme in materia di accesso
 
@@ -294,11 +290,9 @@ ai documenti amministrativi)
 
 "4. Decorsi inutilmente trenta giorni dalla richiesta, questa si intende respinta. In caso di rifiuto, espresso o tacito, o di differimento ai sensi dell'articolo 24, comma 6, dell'accesso, il richiedente puo' presentare ricorso al tribunale amministrativo regionale ai sensi del comma 5 del presente articolo, ovvero chiedere, nello stesso termine, al difensore civico competente che sia riesaminata la suddetta determinazione. Se il difensore civico ritiene illegittimo il diniego o il differimento, lo comunica a chi l'ha disposto. Se questi non emana il provvedimento confermativo motivato entro trenta giorni dal ricevimento della comunicazione del difensore civico, l'accesso e' consentito. Qualora il richiedente l'accesso si sia rivolto al difensore civico, il termine di cui al comma 5 decorre dalla data del ricevimento, da parte del richiedente, dell'esito della sua istanza al difensore civico".
 
-## Capo III - NORME IN MATERIA DI ATTIVITA'
+## Capo III - NORME IN MATERIA DI ATTIVITA' DELLE PUBBLICHE AMMINISTRAZIONI
 
-### DELLE PUBBLICHE AMMINISTRAZIONI
-
-#### Art. 16
+### Art. 16
 
 (Commissione per la ricostituzione
 
@@ -310,11 +304,11 @@ di atti di morte o di nascita)
 
 3\. Il regio decreto-legge 18 ottobre 1942, n. 1520, il decreto legislativo luogotenenziale 5 aprile 1946, n. 216, e la legge 17 febbraio 1971, n. 90, sono abrogati.
 
-#### Art. 17 - Programmazione negoziata
+### Art. 17 - Programmazione negoziata
 
 1\. Al testo unico in materia di interventi nelle aree depresse del territorio nazionale, previsto dal combinato disposto degli articoli 4 e 20 della legge 15 marzo 1997, n. 59, e successive modificazioni, e dell'articolo 7, comma 1, lettera a), della legge 8 marzo 1999, n. 50, sono allegati, previo coordinamento formale fra le norme legislative e regolamentari che disciplinano la materia, le deliberazioni del Comitato interministeriale per la programmazione economica che hanno ad oggetto la disciplina organizzativa e procedimentale degli istituti della programmazione negoziata e tutti gli altri atti ad essa collegati, pubblicati nella Gazzetta Ufficiale.
 
-#### Art. 18 - Termini
+### Art. 18 - Termini
 
 1\. I testi unici di cui al comma 4 dell'articolo 6 della legge 3 aprile 1997, n. 94, sono emanati entro il 30 giugno 2002.
 
@@ -332,7 +326,7 @@ di atti di morte o di nascita)
 
 6\. I termini per il deposito di atti ovvero per la presentazione di domande al registro delle imprese di cui all'articolo 8 della legge 29 dicembre 1993, n. 580, e di denunce al repertorio delle notizie economiche ed amministrative (REA) di cui all'articolo 9 del regolamento emanato con decreto del Presidente della Repubblica 7 dicembre 1995, n. 581, sono unificati in giorni trenta.
 
-#### Art. 19
+### Art. 19
 
 (Disposizioni per la razionalizzazione
 
@@ -342,11 +336,11 @@ degli interventi pubblici a favore delle imprese)
 
 2\. Al fine di garantire, nell'ambito del programma di cui all'articolo 17 del decreto-legge 8 febbraio 1995, n. 32, convertito dalla legge 7 aprile 1995, n. 104, il necessario coordinamento delle attivita' di supporto tecnico svolte dall'Istituto per la promozione industriale (IPI) per l'attuazione di quanto previsto al comma 1, il Ministero dell'industria, del commercio e dell'artigianato e' autorizzato ad utilizzare il finanziamento concesso nell'esercizio 2000 entro un limite di spesa di lire 200 milioni, ai sensi del citato articolo 17, per acquisire la partecipazione maggioritaria in detta associazione e sostenere i relativi oneri associativi.
 
-#### Art. 20 - Rete autostradale e stradale nazionale
+### Art. 20 - Rete autostradale e stradale nazionale
 
 1\. Alla lettera b) del comma 4 dell'articolo 1 della legge 15 marzo 1997, n. 59, e' aggiunto, in fine, il seguente periodo: "Alle modifiche della rete autostradale e stradale classificata di interesse nazionale ai sensi dei predetti decreti, fatte salve le norme in materia di programmazione e realizzazione di opere autostradali, si provvede, su proposta della regione interessata, con decreto del Presidente del Consiglio dei ministri previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sentite le Commissioni parlamentari competenti per materia".
 
-#### Art. 21
+### Art. 21
 
 (Disposizioni in materia
 
@@ -358,7 +352,7 @@ di infrastrutture autostradali e viarie)
 
 3\. Gli articoli da 37-bis a 38 della legge 11 febbraio 1994, n. 109, e successive modificazioni, si applicano anche alla realizzazione di nuove infrastrutture viarie di interesse nazionale per le quali sono utilizzabili sistemi di pedaggiamento, procedendosi, ove occorra, ai sensi del comma 2 del presente articolo.
 
-#### Art. 22 - Piani urbani di mobilita'
+### Art. 22 - Piani urbani di mobilita'
 
 1\. Al fine di soddisfare i fabbisogni di mobilita' della popolazione, assicurare l'abbattimento dei livelli di inquinamento atmosferico ed acustico, la riduzione dei consumi energetici, l'aumento dei livelli di sicurezza del trasporto e della circolazione stradale, la minimizzazione dell'uso individuale dell'automobile privata e la moderazione del traffico, l'incremento della capacita' di trasporto, l'aumento della percentuale di cittadini trasportati dai sistemi collettivi anche con soluzioni di car pooling e car sharing e la riduzione dei fenomeni di congestione nelle aree urbane, sono istituiti appositi piani urbani di mobilita' (PUM) intesi come progetti del sistema della mobilita' comprendenti l'insieme organico degli interventi sulle infrastrutture di trasporto pubblico e stradali, sui parcheggi di interscambio, sulle tecnologie, sul parco veicoli, sul governo della domanda di trasporto attraverso la struttura dei mobility manager, i sistemi di controllo e regolazione del traffico, l'informazione all'utenza, la logistica e le tecnologie destinate alla riorganizzazione della distribuzione delle merci nelle citta'. Le autorizzazioni legislative di spesa, da individuare con il regolamento di cui al comma 4, recanti limiti di impegno decorrenti dall'anno 2002, concernenti fondi finalizzati, da leggi settoriali in vigore, alla costruzione e sviluppo di singole modalita' di trasporto e mobilita', a decorrere dall'anno finanziario medesimo sono iscritte in apposito fondo dello stato di previsione del Ministero dei trasporti e della navigazione.
 
@@ -370,21 +364,21 @@ di infrastrutture autostradali e viarie)
 
 5\. Le risorse finanziarie sono erogate ai soggetti promotori dei progetti presentati, fino a concorrenza delle somme disponibili sulla base dei criteri di valutazione di cui al comma 4.
 
-#### Art. 23 - Diritti per la partecipazione a concorsi
+### Art. 23 - Diritti per la partecipazione a concorsi
 
 1\. All'articolo 27, comma 6, del decreto-legge 28 febbraio 1983, n. 55, convertito, con modificazioni, dalla legge 26 aprile 1983, n. 131, le parole: "sono stabilite in lire 7.500" sono sostituite dalle seguenti: "sono eventualmente previste dalle predette amministrazioni in base ai rispettivi ordinamenti e comunque fino ad un massimo di lire 20.000".
 
-#### Art. 24
+### Art. 24
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-#### Art. 25 - Accesso alle banche dati pubbliche
+### Art. 25 - Accesso alle banche dati pubbliche
 
 1\. Le pubbliche amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 3 febbraio 1993, n. 29, che siano titolari di programmi applicativi realizzati su specifiche indicazioni del committente pubblico, hanno facolta' di darli in uso gratuito ad altre amministrazioni pubbliche, che li adattano alle proprie esigenze.
 
 2\. Le pubbliche amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo n. 29 del 1993 hanno accesso gratuito ai dati contenuti in pubblici registri, elenchi, atti o documenti da chiunque conoscibili.
 
-#### Art. 26 - Istituzione dell'Ufficiale elettorale
+### Art. 26 - Istituzione dell'Ufficiale elettorale
 
 1\. Dopo l'articolo 4 del testo unico delle leggi per la disciplina dell'elettorato attivo e per la tenuta e la revisione delle liste elettorali, approvato con decreto del Presidente della Repubblica 20 marzo 1967, n. 223, di seguito denominato "decreto del Presidente della Repubblica 20 marzo 1967, n. 223," e' inserito il seguente:
 
@@ -448,7 +442,7 @@ b) al terzo comma, le parole: "dal presidente della Commissione elettorale comun
 
 14\. Le disposizioni di cui al presente articolo hanno effetto a decorrere dal 1° gennaio 2002.
 
-#### Art. 27 - Accelerazione del procedimento di controllo della Corte dei conti
+### Art. 27 - Accelerazione del procedimento di controllo della Corte dei conti
 
 1\. Gli atti trasmessi alla Corte dei conti per il controllo preventivo di legittimita' divengono in ogni caso esecutivi trascorsi sessanta giorni dalla loro ricezione, senza che sia intervenuta una pronuncia della Sezione del controllo, salvo che la Corte, nel predetto termine, abbia sollevato questione di legittimita' costituzionale, per violazione dell'articolo 81 della Costituzione, delle norme aventi forza di legge che costituiscono il presupposto dell'atto, ovvero abbia sollevato, in relazione all'atto, conflitto di attribuzione. PERIODO SOPPRESSO DAL D.L. 14 AGOSTO 2013, N. 93, CONVERTITO CON MODIFICAZIONI DALLA L. 15 OTTOBRE 2013, N. 119.
 
@@ -474,7 +468,7 @@ AGGIORNAMENTO (20)
 
 Il D.L. 25 marzo 2020, n. 19, ha disposto (con l'articolo 2, comma 4) che "Per gli atti adottati ai sensi del presente decreto i termini per il controllo preventivo della Corte dei conti, di cui all'articolo 27, comma 1, della legge 24 novembre 2000, n. 340, sono dimezzati. In ogni caso i provvedimenti adottati in attuazione del presente decreto, durante lo svolgimento della fase del controllo preventivo della Corte dei conti, sono provvisoriamente efficaci, esecutori ed esecutivi, a norma degli articoli 21-bis, 21-ter e 21-quater della legge 7 agosto 1990, n. 241".
 
-#### Art. 28
+### Art. 28
 
 (Norma di semplificazione del procedimento di esecuzione
 
@@ -488,7 +482,7 @@ del novembre 1980, febbraio 1981 e marzo 1982)
 
 "6. Ogni stanziamento proveniente dal fondo previsto dall'articolo 3 del testo unico approvato con decreto legislativo 30 marzo 1990, n. 76, tuttora disponibile presso i comuni e' utilizzato per il ripristino del patrimonio edilizio privato e pubblico danneggiato dagli eventi sismici nonche' per le necessarie opere di urbanizzazione e per le strutture scolastiche, nel rispetto delle priorita' sancite dall'articolo 3 della legge 23 gennaio 1992, n. 32, e dei costi massimi stabiliti dal CIPE".
 
-#### Art. 29
+### Art. 29
 
 (Delega al Governo per la predisposizione di un testo unico
 
@@ -500,7 +494,7 @@ a) riunire e coordinare tutte le disposizioni legislative in materia di commerci
 
 b) coordinare le misure di intervento di competenza dello Stato con quelle delle regioni e degli altri soggetti operanti nel settore dell'internazionalizzazione delle imprese.
 
-#### Art. 30
+### Art. 30
 
 (Pubblicita' delle fusioni e scissioni
 
@@ -526,7 +520,7 @@ delle societa')
 
 7\. Il comma quinto dell'articolo 2504-octies del codice civile e' abrogato.
 
-#### Art. 31
+### Art. 31
 
 Soppressione dei fogli annunzi legali e regolamento sugli strumenti di pubblicita'
 
@@ -554,7 +548,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 24 giugno 2003, n. 147, convertito con modificazioni dalla L. 1 agosto 2003, n. 200, ha disposto (con l'art. 8-bis, comma 1) che la facolta' prevista dal comma 2-bis del presente articolo e' prorogata al 31 ottobre 2003.
 
-#### Art. 32
+### Art. 32
 
 (Semplificazione della fase costitutiva e
 
@@ -580,7 +574,7 @@ Tutti i termini previsti in disposizioni speciali con riferimento all'omologazio
 
 2\. Con sanzione amministrativa pari a quella di cui al comma 1 e' punito il notaio che chiede l'iscrizione nel registro delle imprese di un atto costitutivo di societa' di capitali, da lui rogato, quando risultino manifestamente inesistenti le condizioni richieste dalla legge".
 
-#### Art. 33 - Ulteriori semplificazioni in materia societaria
+### Art. 33 - Ulteriori semplificazioni in materia societaria
 
 1\. Il comma secondo dell'articolo 2196, il secondo periodo del comma secondo dell'articolo 2197, il comma secondo dell'articolo 2298, il comma terzo dell'articolo 2299, il comma secondo dell'articolo 2309, il secondo periodo del comma quarto dell'articolo 2383 e il comma secondo dell'articolo 2450-bis del codice civile sono abrogati. Nel comma primo dell'articolo 2506 del codice civile sono soppresse le parole: "e depositarne nel registro delle imprese le firme autografe". L'articolo 49 del testo unico approvato con regio decreto 20 settembre 1934, n. 2011, e' abrogato. Nel comma secondo dell'articolo 2354 del codice civile le parole: "l'originale sia depositato presso l'ufficio del registro delle imprese ove e' iscritta la societa'" sono sostituite dalla seguente: "autenticata".
 
@@ -596,7 +590,7 @@ Nel comma quarto dell'articolo 2420-bis del codice civile e' soppresso il terzo 
 
 4\. Nel comma primo dell'articolo 2309, nel comma quarto dell'articolo 2383, nel comma terzo dell'articolo 2385, nel comma terzo dell'articolo 2400, nel comma secondo dell'articolo 2417, nel comma settimo dell'articolo 2449, nel comma primo dell'articolo 2450-bis, e nel comma quarto dell'articolo 2475-bis del codice civile le parole "quindici giorni" sono sostituite dalle seguenti: "trenta giorni".
 
-#### Art. 34 - Semplificazione in materia di libri fondiari e di procedure di intavolazione
+### Art. 34 - Semplificazione in materia di libri fondiari e di procedure di intavolazione
 
 1\. All'allegato al regio decreto 28 marzo 1929, n. 499, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -644,7 +638,7 @@ e) dopo l'articolo 130-bis, e' inserito il seguente:
 
 "Art. 130-ter. - 1. Avverso il decreto tavolare del conservatore dei libri fondiari, emesso per delega del giudice tavolare, e' ammesso reclamo con le modalita' previste dagli articoli 126 e seguenti".
 
-#### Art. 35 - Controversie in materia di masi chiusi
+### Art. 35 - Controversie in materia di masi chiusi
 
 1\. In tutte le controversie in materia di masi chiusi concernenti la determinazione dell'assuntore del maso chiuso e la determinazione del prezzo di assunzione si osservano le disposizioni dettate dal capo I del titolo IV del libro secondo del codice di procedura civile. Il tentativo di conciliazione previsto dall'articolo 410 del codice di procedura civile e' esperito dinanzi alla Ripartizione agricoltura della provincia autonoma di Bolzano.
 
@@ -654,7 +648,7 @@ e) dopo l'articolo 130-bis, e' inserito il seguente:
 
 3-bis. Le disposizioni del comma 3 si applicano per i periodi di imposta per i quali non siano ancora scaduti i termini di accertamento e di riscossione ai sensi della normativa vigente.
 
-#### Art. 36
+### Art. 36
 
 (Disposizioni in materia di atti pubblici,
 
@@ -672,7 +666,7 @@ e loro copia certificata conforme)
 
 5\. E' abrogata ogni norma in contrasto con tale disposizione.
 
-#### Art. 37 - Comunicazione di violazioni tributarie
+### Art. 37 - Comunicazione di violazioni tributarie
 
 1\. All'articolo 36 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, sono apportate le seguenti modificazioni:
 
@@ -680,7 +674,7 @@ a) la rubrica e' sostituita dalla seguente: "Comunicazione di violazioni tributa
 
 b) i commi primo, secondo e terzo sono abrogati.
 
-#### Art. 38 - Trasferimento di impianti, beni e attivita' alle societa' costituite a seguito della liberalizzazione del mercato elettrico
+### Art. 38 - Trasferimento di impianti, beni e attivita' alle societa' costituite a seguito della liberalizzazione del mercato elettrico
 
 1\. Alle societa' per azioni, costituite in applicazione degli articoli 9 e 13, commi 1 e 2, del decreto legislativo 16 marzo 1999, n. 79, nonche' del combinato disposto del comma 1 dell'articolo 8 del citato decreto legislativo n. 79 del 1999 e del decreto del Presidente del Consiglio dei ministri 4 agosto 1999, pubblicato nella Gazzetta Ufficiale n. 207 del 3 settembre 1999, a far data dall'efficacia degli atti di conferimento di impianti, beni e attivita' alle societa' stesse, sono trasferiti le concessioni, le autorizzazioni, le licenze, i nulla osta e tutti i provvedimenti amministrativi, compresi quelli in via di perfezionamento, concernenti gli impianti, i beni e le attivita' conferiti e gia' intestati alla originaria societa' conferente e alle societa' conferenti successive.
 
@@ -708,11 +702,9 @@ Il testo delle firme e' gia' integrato con le correzioni apportate dall'errata-c
 
 E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-## Capo III - NORME IN MATERIA DI ATTIVITA'
+## Capo III - NORME IN MATERIA DI ATTIVITA' DELLE PUBBLICHE AMMINISTRAZIONI
 
-### DELLE PUBBLICHE AMMINISTRAZIONI
-
-#### Allegato A
+### Allegato A
 
 Allegato A (Articolo 1, commi 1 e 2)
 
@@ -1086,7 +1078,7 @@ AGGIORNAMENTO (11)
 
 Il D.Lgs. 24 aprile 2006, n. 166 ha disposto (con l'art. 16, comma 2) che "Le disposizioni di cui agli articoli 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, comma 1, e 15 si applicano con decorrenza dalla data di emanazione del prossimo bando di concorso per la nomina a notaio".
 
-#### Allegato B
+### Allegato B
 
 Allegato B
 

@@ -24,7 +24,7 @@ Promulga la seguente legge approvata dall'Assemblea Costituente:
 
 ## TITOLO I - DISPOSIZIONI GENERALI
 
-#### Art. 1
+### Art. 1
 
 ((1. Il Senato della Repubblica e' eletto su base regionale. I seggi sono ripartiti tra le regioni a norma dell'articolo 57 della Costituzione, con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri.
 
@@ -34,25 +34,25 @@ Promulga la seguente legge approvata dall'Assemblea Costituente:
 
 4\. I collegi uninominali della regione Trentino-Alto Adige sono definiti dalla legge 30 dicembre 1991, n.422)).
 
-#### Art. 2
+### Art. 2
 
 ((1. Il Senato della Repubblica e' eletto a suffragio universale, favorendo l'equilibrio della rappresentanza tra donne e uomini, con voto diretto, libero e segreto, sulla base dei voti espressi nei collegi uninominali. I seggi nei collegi uninominali sono attribuiti con sistema maggioritario. Gli ulteriori seggi sono attribuiti proporzionalmente in circoscrizioni regionali tra i gruppi di candidati concorrenti nei collegi uninominali)).
 
-#### Art. 3
+### Art. 3
 
 ((1. Le elezioni per il Senato della Repubblica si svolgono in un solo giorno)).
 
-#### Art. 4
+### Art. 4
 
 I comizi elettorali sono convocati con decreto del Presidente della Repubblica, su deliberazione del Consiglio dei Ministri.
 
-#### Art. 5
+### Art. 5
 
 Sono eleggibili a senatori gli elettori che, al giorno delle elezioni, hanno compiuto il quarantesimo anno di eta' e non si trovano in alcuna delle condizioni d'ineleggibilita' previste dagli articoli 6, 7, 8 e 93 del testo unico delle leggi per l'elezione della Camera dei deputati, approvato con decreto Presidenziale 5 febbraio 1948, n. 26.
 
 ## TITOLO II - DEGLI UFFICI ELETTORALI CIRCOSCRIZIONALI E REGIONALI
 
-#### Art. 6
+### Art. 6
 
 Il Tribunale nella cui giurisdizione si trovano uno o piu' collegi previsti dalla tabella delle circoscrizioni si costituisce in tanti uffici elettorali circoscrizionali quanti sono i collegi medesimi.
 
@@ -60,19 +60,17 @@ Se in un collegio si trovano le sedi di due o piu' Tribunali, l'ufficio si costi
 
 Ogni ufficio elettorale circoscrizionale esercita le sue funzioni con l'intervento di tre magistrati, di cui uno presiede, nominati dal presidente entro dieci giorni dalla pubblicazione del decreto di convocazione dei comizi.
 
-#### Art. 7
+### Art. 7
 
 La Corte d'appello o il Tribunale del capoluogo della Regione si costituisce in ufficio elettorale regionale con l'intervento di cinque magistrati, dei quali uno presiede, nonche', di quattro esperti con attribuzioni esclusivamente tecniche, nominati dal primo presidente o dal presidente ((entro tre giorni)) dalla pubblicazione del decreto di convocazione dei comizi.
 
-## TITOLO III - DELL CANDIDATURE, DEI DELEGATI, DEI RAPPRESENTANTI DEI CANDIDATI E
+## TITOLO III - DELL CANDIDATURE, DEI DELEGATI, DEI RAPPRESENTANTI DEI CANDIDATI E DEI RAPPRESENTANTI DI GRUPPI DI CANDIDATI
 
-### DEI RAPPRESENTANTI DI GRUPPI DI CANDIDATI
-
-#### Art. 8
+### Art. 8
 
 ((I partiti o gruppi politici organizzati che intendono presentare candidature per la elezione del Senato debbono depositare presso il Ministero dell'interno il contrassegno o i contrassegni con i quali dichiarano di voler distinguere le candidature medesime, con l'osservanza delle norme di cui agli articoli 14, 15, 16 e 17 del decreto del Presidente della Repubblica 30 marzo 1957, n. 361)).
 
-#### Art. 9
+### Art. 9
 
 La presentazione delle candidature per i singoli collegi e fatta per gruppi ai quali i candidati, aderiscono con l'accettazione della candidatura. Ciascun gruppo deve comprendere un numero di candidati ((...)) non inferiore a tre e non superiore al numero dei collegi della regione. ((La presentazione puo' avvenire anche per singoli candidati che non partecipano al riparto dei seggi in ragione proporzionale)).
 
@@ -98,7 +96,7 @@ La documentazione relativa ai gruppi dei candidati deve essere presentata per ci
 
 La presentazione del gruppo di candidature va fatta, nel caso di pluralita' di contrassegni, congiuntamente dai rispettivi rappresentanti di cui all'articolo 17 del decreto del Presidente della Repubblica 30 marzo 1957, n. 361.
 
-#### Art. 10
+### Art. 10
 
 ((L'ufficio elettorale regionale verifica se le candidature siano state presentate in termini e nelle forme prescritte.
 
@@ -112,15 +110,15 @@ Contro le decisioni di eliminazione dei gruppi di candidati o delle candidature,
 
 Per le modalita' ed i termini per la presentazione dei ricorsi nonche' per le decisioni degli stessi e per le conseguenti comunicazioni ai ricorrenti ed agli uffici elettorali regionali si osservano le norme di cui all'articolo 23 del predetto decreto del Presidente della Repubblica)).
 
-#### Art. 11
+### Art. 11
 
 ((ARTICOLO ABROGATO DALLA L. 23 APRILE 1976, N. 136))
 
-#### Art. 12
+### Art. 12
 
 ((ARTICOLO ABROGATO DALLA L. 23 APRILE 1976, N. 136))
 
-#### Art. 13
+### Art. 13
 
 L'ufficio elettorale regionale, appena scaduto il termine stabilito per la presentazione dei ricorsi o, nel caso in cui sia stato presentato ricorso, appena ricevuta la comunicazione della decisione dell'ufficio centrale nazionale, compie le seguenti operazioni:
 
@@ -138,7 +136,7 @@ Le schede sono di carta consistente, di identico tipo e colore per ogni collegio
 
 Le schede devono pervenire agli uffici elettorali debitamente piegate.
 
-#### Art. 14
+### Art. 14
 
 ((La designazione dei rappresentanti dei gruppi di candidati presso gli uffici elettorali regionali e dei rappresentanti dei candidati presso l'ufficio elettorale circoscrizionale e le singole sezioni e' effettuata dai delegati di gruppo dei candidati con le modalita' e nei termini previsti dall'articolo 25 del decreto del Presidente della Repubblica 30 marzo 1957, n. 361.
 
@@ -146,13 +144,13 @@ I rappresentanti presso gli uffici elettorali regionali devono essere iscritti n
 
 ## TITOLO IV - DELLA VOTAZIONE
 
-#### Art. 15
+### Art. 15
 
 All'elezione dei senatori partecipano gli elettori che hanno compiuto il venticinquesimo anno di eta'.
 
 Gli elettori, di cui all'articolo 37 del testo unico delle leggi per l'elezione della Camera dei deputati, e gli appartenenti alle forze armate e a corpi organizzati militarmente per il servizio dello Stato, sono ammessi a votare nella sezione, presso la quale esercitano le loro funzioni o nel comune in cui si trovano per cause di servizio.
 
-#### Art. 16
+### Art. 16
 
 Il voto si esprime tracciando un segno con la matita copiativa sul contrassegno o, comunque, sul rettangolo che lo contiene o sul nominativo del candidato prescelto.
 
@@ -160,7 +158,7 @@ Il voto e' valido anche se espresso in piu' di uno dei modi predetti.
 
 ## TITOLO V - DELLE OPERAZIONI DELL'UFFICIO ELETTORALE CIRCOSCRIZIONALE
 
-#### Art. 17
+### Art. 17
 
 L'Ufficio elettorale circoscrizionale, costituito ai termini dell'art. 6, procede con l'assistenza del cancelliere alle operazioni seguenti:
 
@@ -174,7 +172,7 @@ Dell'avvenuta proclamazione il presidente dell'Ufficio elettorale circoscriziona
 
 L'Ufficio elettorale circoscrizionale da immediata notizia della proclamazione del senatore eletto all'ufficio elettorale regionale.
 
-#### Art. 18
+### Art. 18
 
 Di tutte le operazioni dell'Ufficio elettorale circoscrizionale viene redatto, in duplice esemplare, apposito verbale: uno degli esemplari e' inviato subito ((...)) alla cancelleria della Corte di appello o del Tribunale sede dell'Ufficio elettorale regionale.
 
@@ -182,7 +180,7 @@ Il secondo esemplare e' depositato nella cancelleria del Tribunale, dove ha sede
 
 ## TITOLO VI - DELLE OPERAZIONI DELL'UFFICIO ELETTORALE REGIONALE
 
-#### Art. 19
+### Art. 19
 
 ((1. Per l'assegnazione dei seggi spettanti a ciascuna regione non assegnati nei collegi uninominali, l'ufficio elettorale regionale, costituito presso la corte d'appello o il tribunale ai sensi dell'articolo 7, appena in possesso delle comunicazioni o dei verbali trasmessi da tutti gli uffici elettorali circoscrizionali della regione, procede, con l'assistenza del cancelliere e alla presenza dei rappresentanti dei gruppi di candidati, alla determinazione della cifra elettorale di ciascun gruppo di candidati e della cifra individuale dei singoli candidati di ciascun gruppo non risultati eletti ai sensi dell'articolo 17.
 
@@ -194,17 +192,17 @@ Il secondo esemplare e' depositato nella cancelleria del Tribunale, dove ha sede
 
 5\. Dell'avvenuta proclamazione il presidente dell'ufficio elettorale regionale invia attestato al senatore proclamato e da' immediata notizia alla segreteria del Senato, nonche' alla prefettura o alle prefetture della regione, perche', a mezzo dei sindaci, sia portata a conoscenza degli elettori)).
 
-#### Art. 20
+### Art. 20
 
 Di tutte le operazioni dell'Ufficio elettorale regionale viene redatto, in duplice esemplare, apposito verbale: un esemplare e' inviato subito alla segreteria del Senato, che ne rilascia ricevuta; l'altro e' depositato nella cancelleria della Corte d'appello o del Tribunale sede dell'Ufficio elettorale regionale, con facolta' agli elettori della Regione di prenderne visione nei successivi quindici giorni.
 
-#### Art. 21
+### Art. 21
 
 ((ARTICOLO ABROGATO DALLA L. 4 AGOSTO 1993, N. 276))
 
 ## TITOLO VII - DISPOSIZIONI SPECIALI PER IL COLLEGIO DELLA "VALLE D'AOSTA"
 
-#### Art. 22
+### Art. 22
 
 L'elezione uninominale nel collegio della Valle d'Aosta regolata dalle disposizioni dei precedenti articoli, in quanto applicabili, e dalle norme seguenti:
 
@@ -212,7 +210,7 @@ L'elezione uninominale nel collegio della Valle d'Aosta regolata dalle disposizi
 
 2\) la dichiarazione di candidatura e' depositata, insieme con il contrassegno, ((dalle ore 8 del trentacinquesimo giorno alle ore 20 del trentaquattresimo giorno)) antecedenti quello della votazione, presso la cancelleria del Tribunale di Aosta.
 
-#### Art. 23
+### Art. 23
 
 I Tribunale di Aosta, costituito in ufficio elettorale circoscrizionale ai sensi dell'art. 6, esercita le sue funzioni con l'intervento di tre magistrati.
 
@@ -222,11 +220,11 @@ In caso di parita' di voti, e' eletto il candidato piu' anziano di eta'.
 
 ## TITOLO VIII - DISPOSIZIONI TRANSITORIE E PINALI
 
-#### Art. 24
+### Art. 24
 
 ((Il decreto di convocazione dei comizi per la elezione dei senatori deve essere pubblicato nella Gazzetta Ufficiale non oltre il 45° giorno antecedente quello della votazione)).
 
-#### Art. 25
+### Art. 25
 
 ((Per l'esercizio del diritto di voto)) e per tutto cio' che non e' disciplinato dalla presente legge si osservano, in quanto applicabili, le disposizioni del testo unico delle leggi per l'elezione della Camera dei deputati.
 
@@ -234,7 +232,7 @@ Per i senatori di diritto i casi di ineleggibilita' per pubblico ufficio, previs
 
 I detti senatori, precedentemente alla prima riunione del Senato, devono dimettersi dall'altro ufficio ricoperto.
 
-#### Art. 26
+### Art. 26
 
 Nel caso di coincidenza delle elezioni della Camera dei deputati con quelle del Senato, esse sono indette per il medesimo giorno.
 
@@ -258,27 +256,27 @@ I verbali delle operazioni per l'elezione del Senato devono essere compilati dis
 
 Se non e' possibile l'immediato recapito i plichi contenenti i verbali e i documenti allegati devono rimanere nella sala della votazione che viene chiusa e custodita secondo le prescrizioni di cui all'articolo 64 sopra richiamato, per essere recapitati, con ogni urgenza, a cura del presidente, al mattino.
 
-#### Art. 27
+### Art. 27
 
 Nell'ipotesi prevista dall'articolo precedente, la Commissione elettorale comunale, entro quindici giorni dalla data di pubblicazione nella Gazzeta Ufficiale, del decreto di convocazione dei comizi, oppone sull'esemplare della lista di sezione, depositato presso il Comune, apposita annotazione, mediante stampigliatura, a fianco dei nominativi degli elettori che possono votare soltanto per l'elezione della Camera dei deputati. L'elenco di detti nominativi e' trasmesso, a cura, del sindaco, immediatamente alla Commissione elettorale mandamentale, che provvede ad apporre analoga annotazione stampigliata sull'esemplare della lista destinato all'ufficio elettorale di sezione,
 
-#### Art. 28
+### Art. 28
 
 ((ARTICOLO ABROGATO DALLA L. 4 AGOSTO 1993, N. 276))
 
-#### Art. 29
+### Art. 29
 
 Se le due elezioni per il Senato e per la Camera dei deputati non sono contemporanee, il membro della Camera ancora in funzione, che accetta la candidatura per l'altra Camera, decade dal mandato.
 
-#### Art. 30
+### Art. 30
 
 Per le aperture di credito inerenti al pagamento delle spese per la elezione del Senato della Repubblica, e della Camera dei deputati e' autorizzata la deroga alle limitazioni previste dall'articolo 56 del regio decreto 18 novembre 1923, n. 2440.
 
-#### Art. 31
+### Art. 31
 
 Gli emigrati per motivi di lavoro, che rimpatriano per le elezioni, hanno diritto al trasporto ferroviario gratuito dalla stazione di confine al Comune in cui votano e viceversa.
 
-#### Art. 32
+### Art. 32
 
 La presente legge entra in vigore lo stesso giorno della sua pubblicazione nella Gazzetta Ufficiale della Repubblica.
 
@@ -294,7 +292,7 @@ Visto, il Guardasigilli: GRASSI
 
 ## TITOLO VIII - DISPOSIZIONI TRANSITORIE E PINALI
 
-#### Tabelle
+### Tabelle
 
 TABELLA A
 

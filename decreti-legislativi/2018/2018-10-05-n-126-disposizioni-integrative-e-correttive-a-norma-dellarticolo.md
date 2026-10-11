@@ -104,7 +104,7 @@ Emana
 
 il seguente decreto legislativo:
 
-#### Art. 1
+### Art. 1
 
 Oggetto
 
@@ -212,11 +212,9 @@ Oggetto
 
 > 4\. La Conferenza unificata di cui al comma 1 e' convocata dal Presidente del Consiglio dei Ministri. Le sedute sono presiedute dal Presidente del Consiglio dei Ministri o, su sua delega, dal Ministro per gli affari regionali o, se tale incarico non e' conferito, dal Ministro dell'interno.».
 
-## Capo I - Modifiche alla revisione dei ruoli del personale della Polizia di
+## Capo I - Modifiche alla revisione dei ruoli del personale della Polizia di Stato
 
-### Stato
-
-#### Art. 2
+### Art. 2
 
 Modifiche al decreto del Presidente della Repubblica 24 aprile 1982, n. 335
 
@@ -472,7 +470,7 @@ Art. 75-ter (Armonizzazione della disciplina in materia di riconoscimento per at
 
 > Un'ulteriore promozione per merito straordinario non puo' essere conferita se, tra i fatti che vi danno luogo e quelli che hanno dato luogo alla precedente proposta di promozione, non siano trascorsi almeno tre anni. In tal caso, qualora si verifichino le condizioni previste dai precedenti articoli, al personale interessato possono essere attribuiti, o la classe superiore di stipendio, o se piu' favorevoli, tre scatti di anzianita'.».
 
-#### Art. 3
+### Art. 3
 
 Modifiche al decreto del Presidente della Repubblica 24 aprile 1982, n. 337
 
@@ -626,7 +624,7 @@ g) all'articolo 44:
 
 > All'inizio di ogni anno le commissioni propongono al consiglio di amministrazione di cui all'art. 68 del D.P.R. 24 aprile 1982, n. 335, per l'approvazione, i criteri di massima che verranno seguiti negli scrutini per merito comparativo e per merito assoluto.».
 
-#### Art. 4
+### Art. 4
 
 Modifiche al decreto del Presidente della Repubblica 24 aprile 1982, n. 338
 
@@ -656,7 +654,7 @@ b) all'articolo 20, lettera b), le parole: «i medici e» e le parole «i medici
 
 > b) per i medici principali, per i medici veterinari principali, rispettivamente, dal primo dirigente medico o dal primo dirigente medico veterinario dal quale direttamente dipendono. Nel caso in cui il personale stesso non dipenda da un primo dirigente medico o da un primo dirigente medico veterinario, il rapporto informativo e' compilato dal vice questore vicario, per il personale in servizio in questura, e, negli altri casi, dal dirigente dell'ufficio o reparto presso il quale presta servizio, previa acquisizione degli elementi di valutazione professionale forniti dal competente dirigente medico o medico veterinario, individuati con il regolamento di semplificazione previsto dall'articolo 1 della legge 8 marzo 1999, n. 50. Il giudizio complessivo e' espresso dal direttore della direzione centrale di sanita'. Fino all'emanazione del suddetto regolamento, le modalita' di attuazione di cui alla presente lettera sono individuate con decreto del capo della polizia-direttore generale della pubblica sicurezza.».
 
-#### Art. 5
+### Art. 5
 
 Modifiche al decreto del Presidente della Repubblica 30 aprile 1987, n. 240
 
@@ -698,7 +696,7 @@ d) alla Tabella G:
 
 > 3-bis. Fuori dalle ipotesi di cui al comma 3, il personale del ruolo degli orchestrali ritenuto inidoneo all'espletamento delle attivita' musicali, ma giudicato dal competente organo medico-legale ulteriormente impiegabile nei ruoli tecnici, puo' presentare domanda di transito nella corrispondente qualifica del ruolo degli ispettori tecnici, settore di supporto logistico-amministrativo, entro il termine di trenta giorni dalla data di notifica del provvedimento della Commissione medica ospedaliera, e puo' essere destinato anche alle attivita' di supporto logistico della banda musicale.».
 
-#### Art. 6
+### Art. 6
 
 Modifiche al decreto legislativo 5 ottobre 2000, n. 334
 
@@ -800,11 +798,9 @@ aa) all'articolo 63, comma 1:
 
 2\) dopo l'ultimo periodo e' aggiunto il seguente: «Non puo' conseguire la promozione per merito straordinario alle qualifiche di vice questore aggiunto e vice questore e qualifiche equiparate il funzionario che riporti un punteggio inferiore al sessanta per cento del coefficiente totale massimo attribuibile al personale scrutinato ai sensi dei vigenti criteri di massima.».
 
-## Capo II - Modifiche alla revisione dei ruoli del personale dell'Arma dei
+## Capo II - Modifiche alla revisione dei ruoli del personale dell'Arma dei carabinieri
 
-### carabinieri
-
-#### Art. 7
+### Art. 7
 
 Modifiche al decreto legislativo 15 marzo 2010, n. 66
 
@@ -1930,11 +1926,9 @@ aaa) all'articolo 2253-septies:
 
 > 6\. Il personale che consegue la qualifica speciale ai sensi dei commi 4 e 5 prende posto in ruolo dopo i militari di cui ai commi 1 e 2.».
 
-## Capo III - Modifiche alla revisione dei ruoli del personale del Corpo della
+## Capo III - Modifiche alla revisione dei ruoli del personale del Corpo della guardia di finanza
 
-### guardia di finanza
-
-#### Art. 8
+### Art. 8
 
 Modifiche al decreto legislativo 12 maggio 1995, n. 199
 
@@ -2574,7 +2568,7 @@ u) dopo l'articolo 80-bis e' inserito il seguente: «Art. 80-ter (Ripartizione d
 
 > Omissis.».
 
-#### Art. 9
+### Art. 9
 
 Modifiche al decreto legislativo 19 marzo 2001, n. 69
 
@@ -2794,7 +2788,7 @@ l) alla tabella 5, colonna 3, la parola: «60» in corrispondenza del grado di s
 
 > 2\. Al maestro direttore sono attribuite le funzioni specifiche di concertazione, strumentazione, cura del repertorio, direzione artistica e musicale con le responsabilita' ad esse attinenti.».
 
-#### Art. 10
+### Art. 10
 
 Altre modifiche normative
 
@@ -3194,11 +3188,9 @@ c) all'articolo 2145, comma 2, dopo le parole: «Comandante generale» sono aggi
 
 > \- Per l'articolo 7 del decreto legislativo 27 febbraio 1991, n. 79, v. nota all'articolo 9.
 
-## Capo IV - Modifiche alla revisione dei ruoli del personale del Corpo di polizia
+## Capo IV - Modifiche alla revisione dei ruoli del personale del Corpo di polizia penitenziaria
 
-### penitenziaria
-
-#### Art. 11
+### Art. 11
 
 Modifiche al decreto legislativo 30 ottobre 1992, n. 443
 
@@ -3366,7 +3358,7 @@ l) all'articolo 54, comma 3, le parole: «non oltre sei mesi dal verificarsi dei
 
 > Omissis.».
 
-#### Art. 12
+### Art. 12
 
 Modifiche al decreto legislativo 9 settembre 2010, n. 162
 
@@ -3556,7 +3548,7 @@ n) all'articolo 34, comma 5, le parole: «dei revisori» sono sostituite dalle s
 
 > Omissis.».
 
-#### Art. 13
+### Art. 13
 
 Modifiche al decreto legislativo 21 maggio 2000, n. 146
 
@@ -3630,7 +3622,7 @@ d) all'articolo 15:
 
 ## Capo V - Modifiche al decreto legislativo 29 maggio 2017, n. 95
 
-#### Art. 14
+### Art. 14
 
 Modifiche all'articolo 2 decreto legislativo 29 maggio 2017, n. 95
 
@@ -3942,7 +3934,7 @@ aaaa-sexies) al fine di corrispondere alle contingenti esigenze di funzionalita'
 
 > aaaa-sexies) al fine di corrispondere alle contingenti esigenze di funzionalita' determinate dall'elevato numero di partecipanti ai concorsi interni, anche banditi prima della data dell'entrata in vigore della presente disposizione, per l'accesso al ruolo degli ispettori e ai ruoli corrispondenti, per i candidati dei concorsi di cui alle lettere c), d), mm), mm-bis), zzz), aaaa-bis), aaaa-ter) e aaaa-quater), nella fase transitoria non si applicano le disposizioni, previste dalla legislazione vigente per il personale della Polizia di Stato, che prevedono l'accertamento dei requisiti attitudinali.
 
-#### Art. 15
+### Art. 15
 
 Modifiche all'articolo 3 del decreto legislativo 29 maggio 2017,
 
@@ -4012,7 +4004,7 @@ d) al comma 15, sono aggiunti, in fine, i seguenti periodi: «Ogni riferimento, 
 
 > 15\. Dalla data di entrata in vigore del presente decreto, ogni riferimento ai ruoli dei commissari e dei dirigenti e ruoli corrispondenti, ai ruoli dei direttivi e dei dirigenti ovvero alle qualifiche direttive e dirigenziali della Polizia di Stato si intende inerente alle carriere dei funzionari di Polizia introdotte dal presente decreto. Ogni riferimento, contenuto in disposizioni normative vigenti il giorno precedente alla data di entrata in vigore del presente decreto, alla qualifica di vice questore aggiunto, direttore tecnico capo e medico capo si intende, inoltre, inerente anche alla qualifica, rispettivamente, di vice questore, di direttore tecnico superiore e di medico superiore. Ogni riferimento, contenuto in disposizioni normative vigenti il giorno precedente alla data di entrata in vigore del presente decreto, alle qualifiche di vice direttore tecnico, direttore tecnico e direttore tecnico principale della Polizia di Stato si intende riferito, rispettivamente, alle qualifiche di vice commissario tecnico, di commissario tecnico e di commissario capo tecnico.
 
-#### Art. 16
+### Art. 16
 
 Modifiche all'articolo 36 del decreto legislativo 29 maggio 2017, n. 95
 
@@ -4192,7 +4184,7 @@ h) sono aggiunti, in fine, i seguenti commi:
 
 > \- Per il testo vigente della tabella n. 1 allegata al decreto legislativo 19 marzo 2001, n. 69, v. nota all'articolo 9.
 
-#### Art. 17
+### Art. 17
 
 Modifiche all'articolo 44 del decreto legislativo 29 maggio 2017, n. 95
 
@@ -4312,7 +4304,7 @@ g) dopo il comma 34 e' inserito il seguente:
 
 > 34-bis. Dalla data di entrata in vigore del presente decreto, i direttori tecnici ed i direttori tecnici capo assumono la qualifica rispettivamente di commissario tecnico e commissario tecnico capo.».
 
-#### Art. 18
+### Art. 18
 
 Modifiche all'articolo 45 del decreto legislativo 29 maggio 2017, n. 95
 
@@ -4458,7 +4450,7 @@ g) al comma 30, lettera d), dopo la parola «articoli» e' inserita la seguente:
 
 > 31\. A decorrere dal 2018, il Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato effettua un monitoraggio delle spese di personale delle amministrazioni interessate dal presente riordino delle carriere. Qualora dal predetto monitoraggio risulti uno scostamento dell'andamento degli oneri rispetto agli oneri previsti dal presente provvedimento, alla copertura finanziaria del maggior onere risultante dall'attivita' di monitoraggio si provvede, su proposta del Ministro dell'economia e delle finanze, con decreto del Presidente del Consiglio dei ministri, previa deliberazione del Consiglio dei ministri, mediante riduzione degli stanziamenti iscritti negli stati di previsione della spesa delle amministrazioni interessate dal provvedimento, nel rispetto dei vincoli di spesa derivanti dall'articolo 21, comma 5, lettera a), della legge 31 dicembre 2009, n. 196, ivi compresa la riduzione delle facolta' assunzionali delle amministrazioni interessate.».
 
-#### Art. 19
+### Art. 19
 
 Modifiche all'articolo 46 del decreto legislativo 29 maggio 2017, n. 95
 
@@ -4502,7 +4494,7 @@ Modifiche all'articolo 46 del decreto legislativo 29 maggio 2017, n. 95
 
 > 7\. Fino all'adozione, rispettivamente, del primo decreto di recepimento delle procedure negoziali di cui al comma 1 e del decreto di cui al comma 6, al personale dirigente delle Forze di polizia ad ordinamento civile ed a quello delle Forze di polizia ad ordinamento militare e delle Forze armate continuano ad applicarsi le disposizioni vigenti.».
 
-#### Art. 20
+### Art. 20
 
 Modifiche all'articolo 47 del decreto legislativo 29 maggio 2017, n. 95
 
@@ -4536,13 +4528,13 @@ Modifiche all'articolo 47 del decreto legislativo 29 maggio 2017, n. 95
 
 > 2-bis. A decorrere dal 1° gennaio 2019 e' abrogato l'ultimo comma dell'articolo 60 della legge 1° aprile 1981, n. 121.».
 
-#### Art. 21
+### Art. 21
 
 Modifiche alle tabelle allegate al decreto legislativo 29 maggio 2017, n. 95
 
 1\. Alla TABELLA G, allegata al decreto, le parole «Articolo 46» sono sostituite dalle seguenti: «Articolo 45».
 
-#### Art. 22
+### Art. 22
 
 Copertura finanziaria
 
@@ -4582,7 +4574,7 @@ Visto, il Guardasigilli: Bonafede
 
 ## Allegati
 
-#### Tabelle
+### Tabelle
 
 TABELLE ALLEGATE AL CAPO I (POLIZIA DI STATO)
 
@@ -5730,7 +5722,7 @@ Commissario Medico
 
 Vice commissario -
 
-#### Tabelle
+### Tabelle
 
 TABELLE ALLEGATE AL CAPO II (ARMA DEI CARABINIERI)
 
@@ -5800,7 +5792,7 @@ TABELLA 16
 
 Parte di provvedimento in formato grafico
 
-#### Tabelle
+### Tabelle
 
 TABELLE ALLEGATE AL CAPO IV (POLIZIA PENITENZIARIA)
 

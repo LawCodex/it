@@ -441,7 +441,7 @@ artistiche - 16.901.877.845 -
 
 1\. Le disponibilita' in conto residui esistenti al 31 dicembre 2001 sul capitolo 4910 dello stato di previsione dell'ex Ministero del Tesoro, del bilancio e della programmazione economica, relative al Fondo da ripartire per la costituzione di unita' tecniche di supporto alla programmazione, alla valutazione ed al monitoraggio degli investimenti pubblici, sono conservate nel conto dei predetti residui passivi per essere utilizzate nell'esercizio successivo.
 
-## Capo II - CONTO GENERALE DEL PATRIMONIO
+### Capo II - CONTO GENERALE DEL PATRIMONIO
 
 #### Art. 9 - Risultati generali della gestione patrimoniale
 
@@ -525,7 +525,7 @@ a lire 36.547.000.
 +--------------------+--------------+--------------+--------------+
 ```
 
-## Capo II - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
+### Capo II - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
 #### Art. 12 - Entrate
 
@@ -605,7 +605,7 @@ Spese dell'esercizio 2001 " 10.225.923.668.140
 
 Saldo della gestione di competenza L. -
 
-## Capo III - ARCHIVI NOTARILI
+### Capo III - ARCHIVI NOTARILI
 
 #### Art. 16 - Avanzo
 
@@ -621,7 +621,7 @@ Spese " 428.909.962.720
  ===============
 ```
 
-## Capo IV - FONDO EDIFICI DI CULTO
+### Capo IV - FONDO EDIFICI DI CULTO
 
 #### Art. 17 - Entrate
 
@@ -729,7 +729,7 @@ Tremonti, Ministro dell'economia e delle finanze
 
 Visto, il Guardasigilli: Castelli
 
-## Capo IV - FONDO EDIFICI DI CULTO
+### Capo IV - FONDO EDIFICI DI CULTO
 
 #### Allegato 1
 

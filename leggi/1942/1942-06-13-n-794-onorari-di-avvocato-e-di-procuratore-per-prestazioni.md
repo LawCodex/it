@@ -34,27 +34,27 @@ Noi abbiamo sanzionato e promulghiamo quanto segue:
 
 ## NORME GENERALI
 
-### TITOLO I - ONORARI DI AVVOCATO
+## TITOLO I - ONORARI DI AVVOCATO
 
-#### Art. 1
+### Art. 1
 
 Onorari dovuti agli avvocati.
 
 Agli avvocati, oltre al rimborso delle spese giustificate, sono dovuti, per le prestazioni giudiziali in materia civile ed equiparate, gli onorari stabiliti dalla presente legge e dalla tabella A ad essa allegata.
 
-#### Art. 2
+### Art. 2
 
 Onere del pagamento.
 
 Gli onorari' sono sempre dovuti dal cliente all'avvocato anche quando non sono stati posti dal giudice a carico del soccombente.
 
-#### Art. 3
+### Art. 3
 
 Onorari a carico della parte soccombente.
 
 Gli onorari a carico della parte soccombente sono liquidati tenendo conto della natura e del valore della controversia, del numero e dell'importanza delle questioni trattate, del grado dell'autorita' adita, con speciale riguardo all'attivita' dall'avvocato personalmente svolta davanti al giudice.
 
-#### Art. 4
+### Art. 4
 
 Poteri del giudice nella liquidazione a carico della parte soccombente.
 
@@ -64,13 +64,13 @@ Nelle cause di particolare semplicita' gli onorari possono essere ridotti fino a
 
 Gli onorari di avvocato non possono essere esclusi tranne che nelle cause davanti al conciliatore ed in quelle di cui all'articolo 449 del codice di procedura civile.
 
-#### Art. 5
+### Art. 5
 
 Onorari a carico del cliente.
 
 Nella liquidazione degli onorari a carico del cliente, oltre che dei criteri enunciati nell'articolo 3, si tiene conto del pregio dell'opera prestata e dell'esito della causa.
 
-#### Art. 6
+### Art. 6
 
 Pluralita' di avvocati in causa.
 
@@ -78,13 +78,13 @@ Se piu' avvocati sono incaricati della difesa, ciascuno di essi ha diritto, nei 
 
 Dalla parte soccombente sono dovuti, pero', gli onorari per un solo avvocato.
 
-#### Art. 7
+### Art. 7
 
 Cause non giunte a compimento.
 
 Per le cause iniziate ma non compiute ovvero nel caso di revoca della procura o di rinunzia alla stessa il cliente deve all'avvocato gli onorari corrispondenti all'opera prestata.
 
-#### Art. 8
+### Art. 8
 
 Definizione delle cause per conciliazione.
 
@@ -92,7 +92,7 @@ Nelle cause definite mediante conciliazione in qualunque fase del giudizio il gi
 
 L'onorario globale non puo', in ogni caso, essere inferiore al totale degli onorari minimi stabiliti nel paragrafo della tabella da applicare.
 
-#### Art. 9
+### Art. 9
 
 Determinazione del valore delle cause.
 
@@ -106,7 +106,7 @@ Nei giudizi di divisione si tiene conto del valore delle quote o dei supplementi
 
 Nelle cause aventi per oggetto pagamento di somme o liquidazione di danni si ha riguardo, per la liquidazione degli onorari a carico della parte soccombente, alla somma attribuita alla parte vincitrice piuttosto che a quella domandata.
 
-#### Art. 10
+### Art. 10
 
 Cause in materia corporativa.
 
@@ -118,7 +118,7 @@ Per le cause in grado di appello nella stessa materia sono dovuti gli onorari st
 
 Per le cause concernenti controversie collettive sono dovuti gli onorari stabiliti per le cause davanti alla corte d'appello.
 
-#### Art. 11
+### Art. 11
 
 Cause davanti a giudici speciali.
 
@@ -128,19 +128,19 @@ Per le cause davanti ai commissari per la liquidazione degli usi civici, davanti
 
 Per lo cause davanti a giudici speciali, la competenza dei quali per ragione di valore non eccede quella del pretore, sono dovuti gli onorari stabiliti per le cause davanti al pretore.
 
-#### Art. 12
+### Art. 12
 
 Cause davanti agli arbitri.
 
 Per le cause davanti agli arbitri sono dovuti gli onorari stabiliti per le cause davanti ai giudici ordinari o speciali che sarebbero competenti a conoscere della controversia.
 
-#### Art. 13
+### Art. 13
 
 Procedimenti speciali.
 
 Gli onorari per i procedimenti in camera di consiglio o davanti al giudice tutelare ed in genere per i procedimenti non contenziosi sono liquidati tenendo conto dell'opera occorsa per lo studio degli atti e per la compilazione del ricorso e di qualunque scritto esplicativo dello stesso.
 
-#### Art. 14
+### Art. 14
 
 Trasferte.
 
@@ -150,31 +150,31 @@ Se per il viaggio puo' farsi uso di mezzi di trasporto distinti in classi e' dov
 
 ## TITOLO II - ONORARI E DIRITTI DI PROCURATORE
 
-#### Art. 15
+### Art. 15
 
 Onorari e diritti dovuti ai procuratori.
 
 Ai procuratori, oltre al rimborso delle spese giustificate, sono dovuti, per le prestazioni giudiziali in materia civile ed equiparate, gli onorari ed i diritti stabiliti dalla presente legge e dalla tabella B ad essa allegata.
 
-#### Art. 16
+### Art. 16
 
 Onere del pagamento.
 
 Gli onorari ed i diritti sono sempre dovuti dal cliente al procuratore anche quando non sono stati posti dal giudice a carico del soccombente,
 
-#### Art. 17
+### Art. 17
 
 Misura degli onorari quando non vi e' avvocato in causa o l'onorario di avvocato e' escluso.
 
 Quando non vi e' avvocato in causa o quando l'onorario di avvocato non viene posto dal giudico a carico del soccombente a norma dell'articolo 449 del codice di procedura civile, gli onorari ed i diritti sono raddoppiati relativamente alle prestazioni di cui ai numeri 1, 2, 9, 19 e 29 della tabella B.
 
-#### Art. 18
+### Art. 18
 
 Misura degli onorari per il procuratore-avvocato.
 
 Quando il procuratore esercita nella causa anche le funzioni di avvocato gli sono dovuti, oltre gli onorari di avvocato, gli onorari ed i diritti di cui alla tabella B tranne quelli di cui ai numeri 1, 9, 15 e 19.
 
-#### Art. 19
+### Art. 19
 
 Aumento degli onorari secondo il valore della causa.
 
@@ -186,13 +186,13 @@ Aumento degli onorari secondo il valore della causa.
 
 Nei procedimenti esecutivi si ha riguardo al credito della parte nel cui interesse vengono compiuti i relativi atti o alla, somma da distribuire se essa e' minore.
 
-#### Art. 20
+### Art. 20
 
 Riduzione degli onorari e dei diritti per le cause in materia corporativa.
 
 ((Per le cause di controversie individuali di lavoro, il valore delle quali non supera le L. 20.000, gli onorari ed i diritti sono ridotti ad un quarto; per quelle il cui valore e' compreso fra le L. 20.000 e le L. 100.000 gli onorari sono ridotti alla meta')).
 
-#### Art. 21
+### Art. 21
 
 Onorari e diritti dovuti ai non iscritti
 
@@ -200,7 +200,7 @@ nell'albo dei procuratori o nel registro dei praticanti.
 
 Gli onorari ed i diritti sono ridotti di un terzo per coloro che, senza essere iscritti nell'albo dei procuratori o nel registro dei praticanti procuratori, sono ammessi ad esercitare il patrocinio davanti ai pretori ed ai giudici conciliatori.
 
-#### Art 22
+### Art 22
 
 Vacazioni.
 
@@ -210,7 +210,7 @@ Non sono ammesse piu' di quattro vacazioni al giorno per la stessa causa o per l
 
 Gli atti ed i verbali, in relazione ai quali e' dovuto il diritto di vacazione, indicano l'ora di apertura e di chiusura di essi. In difetto di tali indicazioni e' dovuto il diritto per una sola vacazione.
 
-#### Art. 23
+### Art. 23
 
 Trasferte.
 
@@ -220,7 +220,7 @@ Se per il viaggio puo' farsi uso di mezzi di trasporto distinti in classi, e' do
 
 ## TITOLO III - NORME COMUNI
 
-#### Art. 24
+### Art. 24
 
 Inderogabilita' convenzionali degli onorari e dei diritti.
 
@@ -228,19 +228,19 @@ Gli onorari e i diritti stabiliti per le prestazioni dei procuratori e gli onora
 
 Ogni convenzione contraria e' nulla.
 
-#### Art. 25
+### Art. 25
 
 Applicazione analogica.
 
 Quando gli onorari e i diritti non possono essere determinati in virtu' di una precisa disposizione si ha riguardo alle disposizioni contenute nella presente legge e nelle tabelle allegate che regolano casi simili o materie analoghe.
 
-#### Art. 26
+### Art. 26
 
 Efficacia vincolante del parere del sindacato.
 
 L'accordo con il quale l'avvocato o il procuratore ed il cliente stabiliscono, a giudizio o ad affare esaurito, che il parere del ((consiglio dell'ordine)) sulla parcella degli onorari ha efficacia vincolante deve essere comunicato al ((consiglio)) prima che esso deliberi sulla parcella. In mancanza di tale comunicazione, il parere non ha effetto vincolante.
 
-#### Art. 27
+### Art. 27
 
 Presentazione obbligatoria della parcella.
 
@@ -252,7 +252,7 @@ Qualora l'avvocato o il procuratore non ottemperi all'invito, il ((consiglio)) r
 
 Le spese di procedura per la liquidazione giudiziale delle spese, degli onorari e dei diritti sono a carico dell'avvocato o del procuratore che non ha ottemperato all'invito, salvo che l'omissione sia giustificata da impossibilita' derivante da causa non imputabile al professionista.
 
-#### Art. 28
+### Art. 28
 
 ((Per la liquidazione delle spese, degli onorari e dei diritti nei confronti del proprio cliente l'avvocato, dopo la decisione della causa o l'estinzione della procura, se non intende seguire il procedimento di cui agli articoli 633 e seguenti del codice di procedura civile, procede ai sensi dell'articolo 14 del decreto legislativo 1° settembre 2011, n. 150.)) ((5))
 
@@ -262,7 +262,7 @@ AGGIORNAMENTO (5)
 
 Il D.Lgs. 1 settembre 2011, n. 150, ha disposto (con l'art. 36, comma 2) che "Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso".
 
-#### Art. 29
+### Art. 29
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 2011, N. 150)) ((5))
 
@@ -272,7 +272,7 @@ AGGIORNAMENTO (5)
 
 Il D.Lgs. 1 settembre 2011, n. 150, ha disposto (con l'art. 36, comma 2) che "Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso".
 
-#### Art. 30
+### Art. 30
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 2011, N. 150)) ((5))
 
@@ -282,7 +282,7 @@ AGGIORNAMENTO (5)
 
 Il D.Lgs. 1 settembre 2011, n. 150, ha disposto (con l'art. 36, comma 2) che "Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso".
 
-#### Art. 31
+### Art. 31
 
 Attuazione.
 
@@ -300,7 +300,7 @@ Visto, il Guardasigilli: Grandi
 
 ## TITOLO III - NORME COMUNI
 
-#### Tabelle
+### Tabelle
 
 TABELLA A
 

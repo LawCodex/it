@@ -30,19 +30,19 @@ Promulga
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo fra il Governo della Repubblica italiana ed il Governo della Repubblica tunisina sullo sviluppo di una infrastruttura per la trasmissione elettrica finalizzata a massimizzare gli scambi di energia tra l'Europa ed il Nord Africa, fatto a Tunisi il 30 aprile 2019.
 
-### Art. 2
+## Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto e alle condizioni tecniche e finanziarie stabilite dall'Accordo stesso.
 
-### Art. 3
+## Art. 3
 
 Disposizioni finanziarie
 
@@ -56,7 +56,7 @@ Disposizioni finanziarie
 
 5\. Dall'attuazione della presente legge, ad eccezione dell'onere derivante dall'articolo 4 dell'Accordo, non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
-### Art. 4
+## Art. 4
 
 Entrata in vigore
 
@@ -124,7 +124,7 @@ s. La realizzazione dell'infrastruttura da parte dei Co-Promotori rimane subordi
 
 Hanno concordato quanto segue:
 
-### Articolo 1
+## Articolo 1
 
 1\. Le Parti, avendo considerato le attivita' svolte dai Co-Promotori, anche attraverso la societa' a controllo congiunto ELMED Etudes S.a.r.l., per lo sviluppo del Nuovo progetto, riconoscono quanto segue:
 
@@ -144,7 +144,7 @@ g) i Co-Promotori intendono condividere in eguale misura qualsiasi finanziamento
 
 h) laddove necessario, i Co-Promotori intendono modificare le disposizioni di ogni accordo preesistente tra di loro qualora non siano conformi al presente Accordo e al Nuovo Progetto.
 
-### Articolo 2
+## Articolo 2
 
 l. Sulla base delle informazioni sopra riportate, le Parti, nel rispetto delle normative e dei regolamenti applicabili, garantiranno supporto istituzionale ai Co-Promotori per le tempestive autorizzazioni, per lo sviluppo, la costruzione e il funzionamento della nuova rete di interconnessione elettrica tra Italia e Tunisia.
 
@@ -160,7 +160,7 @@ b) la capacita' di trasmissione del "Nuovo Progetto" sara' offerta al mercato se
 
 ## Finanziamento del Progetto
 
-### Articolo 3
+## Articolo 3
 
 1\. Le Parti riconoscono il Nuovo Progetto come una linea pubblica, che in quanto tale dovra' essere realizzata dai Co-Promotori, e che la sua realizzazione continuera' ad essere soggetta alle Condizioni Finanziarie indicate alla lettera s) del preambolo del presente Accordo.
 
@@ -168,7 +168,7 @@ b) la capacita' di trasmissione del "Nuovo Progetto" sara' offerta al mercato se
 
 ## Comitato di Monitoraggio
 
-### Articolo 4
+## Articolo 4
 
 1\. Le Parti istituiranno un Comitato di Monitoraggio composto da un totale di 6 membri, 3 membri nominati rispettivamente per la parte italiana dal Ministero dello Sviluppo Economico e per la parte tunisina dal Ministero dell'Industria e delle Piccole e Medie Imprese, con lo scopo di promuovere tutte le misure necessarie per raggiungere gli obiettivi del presente Accordo, monitorare e valutare l'attuazione del "Nuovo Progetto". Il Comitato di Monitoraggio sara' coadiuvato, come Segretariato operativo, dalla Elmed Etudes S.a.r.l..
 
@@ -176,13 +176,13 @@ Il Comitato di Monitoraggio, entro due mesi dall'entrata in vigore del presente 
 
 ## Risoluzione delle controversie
 
-### Articolo 5
+## Articolo 5
 
 1\. Qualsiasi controversia derivante dall'interpretazione e/o applicazione del presente Accordo sara' risolta mediante consultazioni dirette e negoziazioni tra le Parti attraverso i canali diplomatici.
 
 ## Entrata in vigore
 
-### Articolo 6
+## Articolo 6
 
 1\. Il presente Accordo entrera' in vigore alla data di ricezione dell'ultima notifica scritta con cui le Parti si informano vicendevolmente, attraverso i canali diplomatici, che le rispettive condizioni giuridiche nazionali per l'entrata in vigore dell'Accordo sono state adempiute.
 
@@ -212,7 +212,7 @@ e delle Piccole e Economico, del Lavoro e
 
 Medie imprese Politiche Sociali
 
-### Agreement
+## Agreement
 
 AGREEMENT
 

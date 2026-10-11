@@ -25,15 +25,15 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la convenzione tra la Repubblica italiana e l'Australia per evitare le doppie imposizioni e prevenire le evasioni fiscali in materia di imposte sul reddito, con protocollo finale, firmata a Canberra il 14 dicembre 1982.
 
-#### Art. 2
+### Art. 2
 
 Piena ed intera esecuzione e' data alla convenzione di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 29 della convenzione stessa.
 
-#### Art. 3
+### Art. 3
 
 La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -49,19 +49,17 @@ ANDREOTTI, Ministro degli affari esteri
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-## CAPITOLO I
-
-### CAMPO DI APPLICAZIONE DELLA CONVENZIONE
+## CAPITOLO I - CAMPO DI APPLICAZIONE DELLA CONVENZIONE
 
 CONVENZIONE TRA LA REPUBBLICA ITALIANA E L'AUSTRALIA PER EVITARE LE DOPPIE IMPOSIZIONI E PREVENIRE LE EVASIONI FISCALI IN MATERIA DI IMPOSTE SUL REDDITO
 
 Il Governo della Repubblica italiana ed il Governo australiano, desiderosi di concludere una Convenzione per evitare le doppie imposizioni e prevenire le evasioni fiscali in materia di imposte sul reddito, hanno convenuto quanto segue:
 
-#### ARTICOLO 1 - I soggetti
+### ARTICOLO 1 - I soggetti
 
 La presente Convenzione si applica alle persone che sono residenti di uno o di entrambi gli Stati contraenti.
 
-#### ARTICOLO 2 - L'oggetto
+### ARTICOLO 2 - L'oggetto
 
 1\. La presente Convenzione si applica esclusivamente alle imposte sul reddito prelevate per conto di ciascuno degli Stati contraenti, qualunque sia il sistema di prelevamento.
 
@@ -81,11 +79,9 @@ ancorche' riscosse mediante ritenuta alla fonte.
 
 3\. La Convenzione si applichera' anche alle imposte di natura identica o analoga che verranno istituite dopo la firma della Convenzione in aggiunta o in sostituzione delle imposte esistenti. Le autorita' competenti degli Stati contraenti si comunicheranno le modifiche importanti apportate alle rispettive legislazioni relativamente alle imposte cui si applica la presente Convenzione.
 
-## CAPITOLO II
+## CAPITOLO II - DEFINIZIONI
 
-### DEFINIZIONI
-
-#### ARTICOLO 3 - Definizioni generali
+### ARTICOLO 3 - Definizioni generali
 
 1\. Ai fini della presente Convenzione, a meno che il contesto non richieda una diversa interpretazione:
 
@@ -123,7 +119,7 @@ i) il termine "autorita' competente" designa, per quanto concerne l'Australia, i
 
 3\. Per l'applicazione della presente Convenzione da parte di uno Stato contraente, le espressioni non diversamente definite hanno il significato che ad esse e' attribuito dalla legislazione di detto Stato contraente relativa alle imposte cui si applica la presente Convenzione, a meno che il contesto non richieda una diversa interpretazione.
 
-#### ARTICOLO 4 - Residenza
+### ARTICOLO 4 - Residenza
 
 1\. Ai fini della presente Convenzione, una persona e' residente di uno degli Stati contraenti:
 
@@ -143,7 +139,7 @@ c) se detta persona soggiorna abitualmente in entrambi gli Stati contraenti, ovv
 
 4\. Quando, in base alle disposizioni del paragrafo I, una persona diversa da una persona fisica e' considerata residente di entrambi gli Stati contraenti, si ritiene che essa e' residente soltanto dello Stato contraente in cui si trova la sede della sua direzione effettiva.
 
-#### ARTICOLO 5 - Stabile organizzazione
+### ARTICOLO 5 - Stabile organizzazione
 
 1\. Ai fini della presente Convenzione, l'espressione "stabile organizzazione" designa una sede fissa di affari in cui l'impresa esercita in tutto o in parte la sua attivita'.
 
@@ -195,11 +191,9 @@ b) nell'ambito di tale attivita', essa fabbrica oppure trasforma in detto Stato 
 
 8\. I principi esposti nei paragrafi dall'1 al 7 incluso si applicano per stabilire ai fini della presente Convenzione se esista una stabile organizzazione al di fuori di entrambi gli Stati contraenti e se un'impresa, che non sia un'impresa di uno degli Stati contraenti, abbia una stabile organizzazione in uno degli Stati contraenti.
 
-## CAPITOLO III
+## CAPITOLO III - IMPOSIZIONE DEI REDDITI
 
-### IMPOSIZIONE DEI REDDITI
-
-#### ARTICOLO 6 - Redditi immobiliari
+### ARTICOLO 6 - Redditi immobiliari
 
 1\. I redditi derivanti da beni immobili sono imponibili nello Stato contraente in cui tali beni sono situati.
 
@@ -211,7 +205,7 @@ b) nell'ambito di tale attivita', essa fabbrica oppure trasforma in detto Stato 
 
 5\. Le disposizioni dei paragrafi 1, 3 e 4 si applicano anche ai redditi derivanti dai beni immobili di un'impresa nonche' ai redditi dei beni immobili utilizzati per l'esercizio di una libera professione.
 
-#### ARTICOLO 7 - Utili delle imprese
+### ARTICOLO 7 - Utili delle imprese
 
 1\. Gli utili di un'impresa di uno degli Stati contraenti sono imponibili soltanto in detto Stato, a meno che l'impresa non svolga la sua attivita' nell'altro Stato contraente per mezzo di una stabile organizzazione ivi situata. Se l'impresa svolge in tal modo la sua attivita', gli utili dell'impresa sono imponibili nell'altro Stato ma soltanto nella misura in cui detti utili sono attribuibili alla stabile organizzazione.
 
@@ -225,7 +219,7 @@ b) nell'ambito di tale attivita', essa fabbrica oppure trasforma in detto Stato 
 
 6\. Ai fini del presente articolo, gli utili di un'impresa non comprendono elementi di reddito considerati separatamente in altri articoli della presente Convenzione e le disposizioni di tali articoli non vengono modificate da quelle del presente articolo.
 
-#### ARTICOLO 8 - Navigazione marittima ed aerea
+### ARTICOLO 8 - Navigazione marittima ed aerea
 
 1\. Se un residente di uno degli Stati contraenti ritrae utili dall'esercizio di navi e la sede della direzione effettiva dell'impresa di navigazione e' situata in detto Stato, i predetti utili sono imponibili soltanto in questo Stato.
 
@@ -239,7 +233,7 @@ b) nell'ambito di tale attivita', essa fabbrica oppure trasforma in detto Stato 
 
 6\. Le disposizioni della presente Convenzione non pregiudicano l'operativita' dell'Accordo tra i Governi degli Stati contraenti diretto ad evitare la doppia imposizione sui redditi derivanti dall'esercizio del trasporto aereo internazionale firmato a Canberra il 13 aprile 1972.
 
-#### ARTICOLO 9 - Imprese associate
+### ARTICOLO 9 - Imprese associate
 
 Allorche':
 
@@ -249,7 +243,7 @@ un'impresa dell'altro Stato contraente, o
 
 b) le medesime persone partecipano, direttamente o indirettamente, alla direzione, al controllo o al capitale di un'impresa di uno Stato contraente e di un'impresa dell'altro Stato contraente, e, nell'uno e nell'altro caso, le relazioni commerciali o finanziarie delle due imprese sono vincolate da condizioni diverse da quelle che sarebbero intervenute tra imprese indipendenti, gli utili che in mancanza di tali condizioni sarebbero stati realizzati da una delle imprese, ma che, a causa di dette condizioni, non lo sono stati, possono essere inclusi negli utili di questa impresa e tassati in conseguenza.
 
-#### ARTICOLO 10 - Dividendi
+### ARTICOLO 10 - Dividendi
 
 1\. I dividendi pagati da una societa', residente di uno degli Stati contraenti ai fini delle proprie imposte, ad un residente dell'altro Stato contraente, beneficiario effettivo dei dividendi stessi, sono imponibili in detto altro Stato.
 
@@ -261,7 +255,7 @@ b) le medesime persone partecipano, direttamente o indirettamente, alla direzion
 
 5\. I dividendi pagati da una societa' residente di uno degli Stati contraenti ad una persona non residente dell'altro Stato contraente, beneficiario effettivo dei dividendi stessi, sono esenti da imposta in detto altro Stato eccettuato il caso in cui la partecipazione generatrice dei dividendi si ricolleghi effettivamente ad una stabile organizzazione o ad una base fissa situate in detto altro Stato. Il presente paragrafo non si applica, tuttavia, ai dividendi pagati da una societa' che sia residente dell'Australia ai fini delle imposte australiane e residente dell'Italia ai fini delle imposte italiane.
 
-#### ARTICOLO 11 - Interessi
+### ARTICOLO 11 - Interessi
 
 1\. Gli interessi provenienti da uno Stato contraente dei quali un residente dell'altro Stato contraente e' il beneficiario effettivo sono imponibili in detto altro Stato.
 
@@ -277,7 +271,7 @@ b) le medesime persone partecipano, direttamente o indirettamente, alla direzion
 
 7\. Se in conseguenza di particolari relazioni esistenti tra debitore e beneficiario degli interessi o tra entrambi e terze persone, l'ammontare degli interessi pagati, tenuto conto del credito per il quale sono pagati, eccede quello che sarebbe stato convenuto tra debitore e beneficiario effettivo in assenza di simili relazioni, le disposizioni del presente articolo si applicano soltanto a quest'ultimo ammontare. In tal caso, la parte eccedente dell'ammontare degli interessi e' imponibile in conformita' della legislazione di ciascuno Stato contraente e tenuto conto delle altre disposizioni della presente Convenzione.
 
-#### ARTICOLO 12 - Canoni
+### ARTICOLO 12 - Canoni
 
 1\. I canoni provenienti da uno Stato contraente dei quali un residente dell'altro Stato contraente e' il beneficiario effettivo sono imponibili in detto altro Stato.
 
@@ -291,7 +285,7 @@ b) le medesime persone partecipano, direttamente o indirettamente, alla direzion
 
 6\. Se, in conseguenza di particolari relazioni esistenti tra debitore e beneficiario effettivo dei canoni o tra entrambi e terze persone, l'ammontare dei canoni pagati, tenuto conto del motivo per il quale sono pagati, eccede quello che sarebbe stato convenuto tra debitore e beneficiario effettivo in assenza di simili relazioni, le disposizioni del presente articolo si applicano soltanto a quest'ultimo ammontare. In tal caso, la parte eccedente dell'ammontare dei canoni pagati e' imponibile in conformita' della legislazione di ciascuno Stato contraente e tenuto conto delle altre disposizioni della presente Convenzione.
 
-#### ARTICOLO 13 - Alienazione di beni
+### ARTICOLO 13 - Alienazione di beni
 
 1\. Gli utili derivanti dall'alienazione di beni immobili sono imponibili nello Stato contraente in cui detti beni sono situati.
 
@@ -313,7 +307,7 @@ ii) qualora siano costituiti da diritti di sfruttamento o di ricerca di risorse 
 
 3\. Gli utili derivanti dall'alienazione di azioni o di quote di partecipazione in societa' residenti dell'Italia, ai fini dell'imposta italiana, realizzati da una persona fisica residente dell'Australia, sono imponibili in Italia.
 
-#### ARTICOLO 14 - Professioni indipendenti
+### ARTICOLO 14 - Professioni indipendenti
 
 1\. I redditi che una persona fisica residente di uno degli Stati contraenti ritrae dall'esercizio di una libera professione o da altre attivita' indipendenti di carattere analogo sono imponibili soltanto in detto Stato a meno che egli non disponga abitualmente nell'altro Stato contraente di una base fissa per l'esercizio della sua attivita'.
 
@@ -321,7 +315,7 @@ Se egli dispone di tale base fissa, i redditi sono imponibili nell'altro Stato m
 
 2\. L'espressione "Libera professione" comprende in particolare i servizi prestati nell'esercizio di attivita' indipendenti di carattere scientifico, letterario, artistico, educativo o pedagogico, nonche' nell'esercizio delle attivita' indipendenti dei medici, avvocati, ingegneri, architetti, dentisti e contabili.
 
-#### ARTICOLO 15 - Lavoro subordinato
+### ARTICOLO 15 - Lavoro subordinato
 
 1\. Salve le disposizioni degli articoli 16, 18, 19 e 20, i salari, gli stipendi e le altre remunerazioni analoghe che una persona fisica residente di uno degli Stati contraenti riceve in corrispettivo di un'attivita' dipendente sono imponibili soltanto in detto Stato, a meno che tale attivita' non venga svolta nell'altro Stato contraente.
 
@@ -337,17 +331,17 @@ b) le remunerazioni sono pagate da o a nome di un datore di lavoro che non e' re
 
 3\. Nonostante le disposizioni precedenti del presente articolo, le remunerazioni percepite da un residente di uno degli Stati contraenti e relative a lavoro subordinato svolto a bordo di navi o di aeromobili utilizzati in traffico internazionale sono imponibili soltanto in detto Stato contraente.
 
-#### ARTICOLO 16 - Compensi e gettoni di presenza
+### ARTICOLO 16 - Compensi e gettoni di presenza
 
 La partecipazione agli utili, i gettoni di presenza e le altre retribuzioni analoghe che un residente di uno degli Stati contraenti riceve in qualita' di membro del consiglio di amministrazione di una societa' residente dell'altro Stato contraente sono imponibili in detto altro Stato.
 
-#### ARTICOLO 17 - Artisti
+### ARTICOLO 17 - Artisti
 
 1\. Nonostante le disposizioni degli articoli 14 e 15, i redditi che un artista dello spettacolo (quale un artista di teatro, del cinema, della radio o della televisione o un musicista, nonche' uno sportivo) ritrae dalle sue prestazioni personali in tale qualita' sono imponibili nello Stato contraente in cui dette attivita' sono esercitate.
 
 2\. Quando il reddito proveniente dalle prestazioni personali di un artista in tale qualita' e' attribuito ad una persona diversa dall'artista medesimo, detto reddito puo' essere tassato nello Stato contraente dove dette prestazioni sono svolte, nonostante le disposizioni degli articoli 7, 14 e 15.
 
-#### ARTICOLO 18 - Pensioni e annualita'
+### ARTICOLO 18 - Pensioni e annualita'
 
 1\. Le pensioni (comprese quelle pubbliche) e le annualita' pagate ad un residente di uno degli Stati contraenti sono imponibili soltanto in detto Stato.
 
@@ -355,7 +349,7 @@ La partecipazione agli utili, i gettoni di presenza e le altre retribuzioni anal
 
 3\. Gli alimenti od altre sovvenzioni di carattere alimentare provenienti da uno Stato contraente e pagate ad un residente dell'altro Stato contraente, sono imponibili soltanto in detto primo Stato.
 
-#### ARTICOLO 19 - Funzioni pubbliche
+### ARTICOLO 19 - Funzioni pubbliche
 
 1\. Le remunerazioni (diverse dalle pensioni o dalle annualita) pagate da uno degli Stati contraenti o da una sua suddivisione politica o amministrativa o da un suo ente locale ad una persona fisica, in corrispettivo di servizi resi a detto Stato o a detta suddivisione od ente locale, sono imponibili soltanto in detto Stato.
 
@@ -367,37 +361,33 @@ ii) non sia divenuto residente di detto Stato al solo scopo di rendervi i serviz
 
 2\. Le disposizioni del paragrafo 1 non si applicano alle remunerazioni pagate in corrispettivo di servizi resi nell'ambito di un'attivita' industriale o commerciale esercitata da uno degli Stati contraenti o da una sua suddivisione politica o amministrativa o da un suo ente locale. In tal caso si applicano le disposizioni degli articoli 15 e 16.
 
-#### ARTICOLO 20 - Professori e insegnanti
+### ARTICOLO 20 - Professori e insegnanti
 
 Un professore o un insegnante che soggiorna in uno degli Stati contraenti per un periodo non superiore a due anni allo scopo di insegnare o di condurre studi superiori o ricerche presso una universita', collegio, scuola o altro istituto di istruzione di detto Stato e che era, immediatamente prima di tale soggiorno, un residente dell'altro Stato contraente, e' esente da imposizione nel detto primo Stato per le remunerazioni che riceve in dipendenza di tali attivita' di insegnamento, di studi superiori o di ricerca in considerazione dei quali egli sia, o lo sara' in applicazione del presente articolo, assoggettato ad imposizione nell'altro Stato.
 
-#### ARTICOLO 21 - Studenti
+### ARTICOLO 21 - Studenti
 
 Se uno studente, residente di uno degli Stati contraenti o che era tale immediatamente prima di soggiornare nell'altro Stato contraente, e che soggiorna temporaneamente nell'altro Stato al solo scopo di compiervi i suoi studi, riceve somme da fonti situate al di fuori dell'altro Stato per sopperire alle spese di mantenimento o di istruzione, le predette somme sono esenti da imposizione nell'altro Stato.
 
-#### ARTICOLO 22 - Redditi delle persone con doppia residenza
+### ARTICOLO 22 - Redditi delle persone con doppia residenza
 
 Se una persona che, in forza delle disposizioni del paragrafo 1 dell'articolo 4, e' residente di entrambi gli Stati contraenti ma che in forza delle disposizioni dei paragrafi 3 o 4 di detto articolo e' considerata, ai fini della presente Convenzione, residente di uno solo degli Stati contraenti, ritrae redditi da fonti situate in questo Stato contraente o al di fuori di entrambi gli Stati contraenti, detti redditi sono imponibili soltanto in detto Stato contraente.
 
-#### ARTICOLO 23 - Fonte dei redditi
+### ARTICOLO 23 - Fonte dei redditi
 
 I redditi realizzati da un residente di uno Stato contraente i quali, ai sensi di uno o piu' articoli dal 6 all'8 e dal 10 al 17, sono imponibili nell'altro Stato contraente, si considerano, ai fini dell'articolo 24 e della legislazione sull'imposizione dei redditi di detto altro Stato, redditi derivanti da fonti situate in detto altro Stato.
 
-## CAPITOLO IV
+## CAPITOLO IV - METODI PER EVITARE LE DOPPIE IMPOSIZIONI
 
-### METODI PER EVITARE LE DOPPIE IMPOSIZIONI
-
-#### ARTICOLO 24
+### ARTICOLO 24
 
 1\. Fatte salve le disposizioni della legislazione australiana di volta in volta in vigore, concernenti la concessione di una deduzione dall'imposta australiana dell'imposta prelevata in un paese diverso dall'Australia (senza che ne siano modificati i principi generali), l'imposta italiana prelevata, sia direttamente che per detrazione, sui redditi provenienti dall'Italia ad una persona residente dell'Australia, e' ammessa in deduzione dall'imposta australiana dovuta sugli stessi redditi.
 
 2\. Se un residente dell'Italia possiede elementi di reddito che sono imponibili in Australia, l'Italia, nel calcolare le proprie imposte sul reddito specificate nell'articolo 2 della presente Convenzione, puo' includere nella base imponibile di tali imposte detti elementi di reddito, a meno che espresse disposizioni della presente Convenzione non stabiliscano diversamente. In tal caso, l'Italia deve dedurre dalle imposte cosi' calcolate l'imposta australiana sul reddito, ma l'ammontare della deduzione non puo' eccedere la quota dell'anzidetta imposta italiana attribuibile ai predetti elementi di reddito nella proporzione di cui gli stessi concorrono alla formazione del reddito complessivo. Nessuna deduzione sara', invece, accordata ove l'elemento di reddito venga assoggettato in Italia ad imposizione mediante ritenuta a titolo di imposta su richiesta del beneficiario del reddito in base alla legislazione italiana.
 
-## CAPITOLO V
+## CAPITOLO V - DISPOSIZIONI PARTICOLARI
 
-### DISPOSIZIONI PARTICOLARI
-
-#### ARTICOLO 25 - Procedura amichevole
+### ARTICOLO 25 - Procedura amichevole
 
 1\. Quando un residente di uno degli Stati contraenti ritiene che le misure adottate da uno o da entrambi gli Stati contraenti comportano o comporteranno per lui una imposizione non conforme alle disposizioni della presente Convenzione, egli puo', indipendentemente dai ricorsi previsti dalla legislazione nazionale di detti Stati, sottoporre il suo caso all'autorita' competente dello Stato contraente di cui e' residente. Il caso dovra' essere sottoposto entro i due anni che seguono la prima notificazione della misura adottata.
 
@@ -407,7 +397,7 @@ I redditi realizzati da un residente di uno Stato contraente i quali, ai sensi d
 
 4\. Le autorita' competenti degli Stati contraenti potranno comunicare direttamente tra loro al fine di rendere applicabili le disposizioni della presente Convenzione.
 
-#### ARTICOLO 26 - Scambio di informazioni
+### ARTICOLO 26 - Scambio di informazioni
 
 1\. Le autorita' competenti degli Stati contraenti si scambieranno le informazioni necessarie per applicare la presente Convenzione o le leggi interne degli Stati contraenti concernenti le imposte previste dalla presente Convenzione, nella misura in cui la tassazione che tali leggi prevedono non e' contraria alla presente Convenzione, o per prevenire le evasioni fiscali di tali imposte. Lo scambio di informazioni non viene limitato dall'articolo 1. Le informazioni ricevute da uno Stato contraente saranno tenute segrete, analogamente alle informazioni ottenute in base alla legislazione interna di detto Stato e saranno comunicate soltanto alle persone od autorita' (ivi compresi l'autorita' giudiziaria e gli organi amministrativi) incaricate dell'accertamento o della riscossione delle imposte previste dalla presente Convenzione, delle procedure o dei procedimenti concernenti tali imposte o delle decisioni di ricorsi presentati per tali imposte. Le persone od autorita' sopracitate utilizzeranno tali informazioni soltanto per questi fini.
 
@@ -419,11 +409,11 @@ b) di fornire informazioni che non possono essere ottenute in base alla propria 
 
 c) di trasmettere informazioni che potrebbero rivelare un segreto commerciale, industriale, professionale o un processo commerciale oppure informazioni la cui comunicazione sarebbe contraria all'ordine pubblico.
 
-#### ARTICOLO 27 - Funzionari diplomatici e consolari
+### ARTICOLO 27 - Funzionari diplomatici e consolari
 
 Le disposizioni della presente Convenzione non pregiudicano i privilegi fiscali di cui beneficiano i funzionari diplomatici o consolari in virtu' delle regole generali di diritto internazionale o di accordi particolari.
 
-#### ARTICOLO 28 - Rimborsi
+### ARTICOLO 28 - Rimborsi
 
 1\. Le imposte riscosse in uno degli Stati contraenti mediante ritenuta alla fonte sono rimborsate a richiesta del contribuente o dello Stato di cui esso e' residente qualora il diritto alla percezione di dette imposte sia limitato dalle disposizioni della presente Convenzione.
 
@@ -431,11 +421,9 @@ Le disposizioni della presente Convenzione non pregiudicano i privilegi fiscali 
 
 3\. Le autorita' competenti degli Stati contraenti stabiliranno di comune accordo, conformemente alle disposizioni dell'articolo 25 della presente Convenzione, le modalita' di applicazione del presente articolo.
 
-## CAPITOLO VI
+## CAPITOLO VI - DISPOSIZIONI FINALI
 
-### DISPOSIZIONI FINALI
-
-#### ARTICOLO 29 - Entrata in vigore
+### ARTICOLO 29 - Entrata in vigore
 
 1\. La presente Convenzione sara' ratificata e gli strumenti di ratifica saranno scambiati a Roma non appena possibile.
 
@@ -453,7 +441,7 @@ con riferimento ai redditi imponibili per i periodi d'imposta che iniziano il, o
 
 3\. Le domande di rimborso e di accreditamento, cui da' diritto la presente Convenzione con riferimento alle imposte dovute dai residenti di ciascuno degli Stati contraenti per i redditi che siano stati realizzati prima della entrata in vigore della presente Convenzione ed assoggettati ad imposizione ed ai quali si applica la presente Convenzione ai sensi del paragrafo 2 del presente articolo, devono essere presentate entro tre anni dalla entrata in vigore della presente Convenzione o, se posteriore, dalla data in cui l'imposta e' stata prelevata.
 
-#### ARTICOLO 30 - Denuncia
+### ARTICOLO 30 - Denuncia
 
 La presente Convenzione rimarra' in vigore fino alla denuncia da parte di uno degli Stati contraenti. Ciascuno Stato contraente puo' denunciare la Convenzione, per via diplomatica, non prima di cinque anni dalla sua entrata in vigore notificandone la cessazione almeno sei mesi prima della fine dell'anno solare.
 
@@ -481,7 +469,7 @@ Visto, il Ministro degli affari esteri
 
 ANDREOTTI
 
-#### Protocollo
+### Protocollo
 
 PROTOCOLLO
 

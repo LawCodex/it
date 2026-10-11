@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I
+## Capo I - PRINCIPI FONDAMENTALI E FINALITA'
 
-### PRINCIPI FONDAMENTALI E FINALITA'
-
-#### Art. 1
+### Art. 1
 
 Oggetto e finalita'
 
@@ -58,7 +56,7 @@ c) prevenire i conflitti, sostenere i processi di pacificazione, di riconciliazi
 
 > \- Il testo dell'art. 11 della Costituzione e' il seguente: "L'Italia ripudia la guerra come strumento di offesa alla liberta' degli altri popoli e come mezzo di risoluzione delle controversie internazionali; consente, in condizioni di parita' con gli altri Stati, alle limitazioni di sovranita' necessarie ad un ordinamento che assicuri la pace e la giustizia fra le Nazioni; promuove e favorisce le organizzazioni internazionali rivolte a tale scopo.".
 
-#### Art. 2
+### Art. 2
 
 Destinatari e criteri
 
@@ -78,7 +76,7 @@ b) di criteri di efficienza, trasparenza ed economicita', da garantire attravers
 
 6\. La politica di cooperazione italiana, promuovendo lo sviluppo locale, anche attraverso il ruolo delle comunita' di immigrati e le loro relazioni con i Paesi di origine, contribuisce a politiche migratorie condivise con i Paesi partner, ispirate alla tutela dei diritti umani ed al rispetto delle norme europee e internazionali.
 
-#### Art. 3
+### Art. 3
 
 Ministero degli affari esteri e della cooperazione internazionale
 
@@ -120,11 +118,9 @@ Ministero degli affari esteri e della cooperazione internazionale
 
 > 13\) Ministero della salute.".
 
-## Capo II
+## Capo II - AMBITI DI APPLICAZIONE
 
-### AMBITI DI APPLICAZIONE
-
-#### Art. 4
+### Art. 4
 
 Ambiti di applicazione della cooperazione pubblica allo sviluppo
 
@@ -144,7 +140,7 @@ f) interventi internazionali di emergenza umanitaria;
 
 g) contributi ad iniziative della societa' civile di cui al capo VI.
 
-#### Art. 5
+### Art. 5
 
 Iniziative in ambito multilaterale
 
@@ -158,7 +154,7 @@ Iniziative in ambito multilaterale
 
 5\. Il Ministro dell'economia e delle finanze, d'intesa con il Ministro degli affari esteri e della cooperazione internazionale, cura le relazioni con le banche e i fondi di sviluppo a carattere multilaterale e assicura la partecipazione finanziaria alle risorse di detti organismi, nel rispetto delle finalita' e degli indirizzi di cui agli articoli 11, commi 1 e 2, e 12.
 
-#### Art. 6
+### Art. 6
 
 Partecipazione ai programmi dell'Unione europea
 
@@ -170,7 +166,7 @@ Partecipazione ai programmi dell'Unione europea
 
 4\. Sulla base degli indirizzi contenuti nel documento triennale di programmazione di cui all'articolo 12, al Ministro degli affari esteri e della cooperazione internazionale sono altresi' attribuite la definizione e l'attuazione delle politiche del Fondo europeo di sviluppo.
 
-#### Art. 7
+### Art. 7
 
 Iniziative a dono nell'ambito di relazioni bilaterali
 
@@ -182,7 +178,7 @@ Per assicurare la qualita' degli interventi e rafforzare la responsabilita' dei 
 
 3\. Il Ministro degli affari esteri e della cooperazione internazionale provvede alla negoziazione ed alla stipula degli accordi che regolano le iniziative di cui al presente articolo, avuto riguardo al riconoscimento e alla valorizzazione delle espressioni della societa' civile operanti nei Paesi partner nel campo dei servizi alla persona, in coerenza con il principio di sussidiarieta'.
 
-#### Art. 8
+### Art. 8
 
 Iniziative di cooperazione con crediti concessionali
 
@@ -194,7 +190,7 @@ Iniziative di cooperazione con crediti concessionali
 
 2-bis. Le risorse dei fondi di cui al presente articolo sono impignorabili e pertanto, in caso di ricezione di un atto di pignoramento presso terzi da parte della Cassa depositi e prestiti Spa, questa rende una dichiarazione negativa ai sensi dell'articolo 547 del codice di procedura civile.
 
-#### Art. 9
+### Art. 9
 
 Partenariato territoriale
 
@@ -210,7 +206,7 @@ Partenariato territoriale
 
 > "Le Regioni e le Province autonome di Trento e di Bolzano, nelle materie di loro competenza, partecipano alle decisioni dirette alla formazione degli atti normativi comunitari e provvedono all'attuazione e all'esecuzioni degli accordi internazionali e deli atti dell'unione europea, nel rispetto delle norme di procedura stabilite da legge dello Stato, che disciplina le modalita' di esercizio del potere sostitutivo in caso di inadempienza".
 
-#### Art. 10
+### Art. 10
 
 Interventi internazionali di emergenza umanitaria
 
@@ -218,11 +214,9 @@ Interventi internazionali di emergenza umanitaria
 
 2\. Il Consiglio dei ministri, su proposta del Ministro degli affari esteri e della cooperazione internazionale, puo' affidare gli interventi di soccorso nell'ambito degli interventi internazionali di emergenza umanitaria di cui al comma 1 ad altre amministrazioni, ivi incluso il Dipartimento della protezione civile della Presidenza del Consiglio dei ministri, che, a tale fine, agiscono secondo le proprie procedure operative e di spesa e organizzano gli interventi di primo soccorso affidati, definendone la tipologia e la durata d'intesa con il Ministero degli affari esteri e della cooperazione internazionale e con l'Agenzia di cui all'articolo 17. Resta ferma la disciplina vigente in materia di interventi di primo soccorso all'estero del Dipartimento della protezione civile della Presidenza del Consiglio dei ministri, di cui all'articolo ((29 del decreto legislativo 2 gennaio 2018, n. 1.))
 
-## Capo III
+## Capo III - INDIRIZZO POLITICO, GOVERNO E CONTROLLO DELLA COOPERAZIONE ALLO SVILUPPO
 
-### INDIRIZZO POLITICO, GOVERNO E CONTROLLO DELLA - COOPERAZIONE ALLO SVILUPPO
-
-#### Art. 11
+### Art. 11
 
 Competenze del Ministro degli affari esteri e della cooperazione internazionale e del vice Ministro della cooperazione allo sviluppo
 
@@ -238,7 +232,7 @@ Competenze del Ministro degli affari esteri e della cooperazione internazionale 
 
 > "3. I sottosegretari di Stato coadiuvano il ministro ed esercitano i compiti ad essi delegati con decreto ministeriale pubblicato nella Gazzetta Ufficiale. Fermi restando la responsabilita' politica e i poteri di indirizzo politico dei Ministri ai sensi dell'articolo 95 della Costituzione, a non piu' di dieci Sottosegretari puo' essere attribuito il titolo di vice ministro, se ad essi sono conferite deleghe relative ad aree o progetti di competenza di una o piu' strutture dipartimentali ovvero di piu' direzioni generali. In tale caso la delega, conferita dal Ministro competente, e' approvata dal Consiglio dei Ministri, su proposta del Presidente del Consiglio dei Ministri.".
 
-#### Art. 12
+### Art. 12
 
 Documento triennale di programmazione e di indirizzo e relazione sulle attivita' di cooperazione
 
@@ -252,7 +246,7 @@ Documento triennale di programmazione e di indirizzo e relazione sulle attivita'
 
 5\. Al fine della programmazione degli impegni internazionali a livello bilaterale e multilaterale, le proposte degli stanziamenti per la cooperazione allo sviluppo sono quantificate sulla base di una programmazione triennale, compatibilmente con le esigenze di finanza pubblica, con riferimento al documento di cui al comma 1.
 
-#### Art. 13
+### Art. 13
 
 Poteri di indirizzo e controllo del Parlamento
 
@@ -260,7 +254,7 @@ Poteri di indirizzo e controllo del Parlamento
 
 2\. Le Commissioni parlamentari competenti esaminano altresi', ai fini dell'espressione del parere, gli schemi dei regolamenti di cui all'articolo 17, comma 13, e all'articolo 20, comma 1. Le Commissioni si esprimono nel termine di quarantacinque giorni dalla richiesta.
 
-#### Art. 14
+### Art. 14
 
 Allegati al bilancio e al rendiconto generale dello Stato sulla cooperazione allo sviluppo
 
@@ -268,7 +262,7 @@ Allegati al bilancio e al rendiconto generale dello Stato sulla cooperazione all
 
 2\. Al rendiconto generale dello Stato e' allegata una relazione curata dal Ministero degli affari esteri e della cooperazione internazionale contenente i dati e gli elementi informativi sull'utilizzo degli stanziamenti di cui al presente articolo, riferiti all'anno precedente, e l'illustrazione dei risultati conseguiti rispetto agli obiettivi e alle priorita' indicati nel documento triennale di programmazione e di indirizzo di cui all'articolo 12.
 
-#### Art. 15
+### Art. 15
 
 Comitato interministeriale per la cooperazione allo sviluppo
 
@@ -292,7 +286,7 @@ Comitato interministeriale per la cooperazione allo sviluppo
 
 10\. All'attuazione del presente articolo le amministrazioni interessate provvedono con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-#### Art. 16
+### Art. 16
 
 Consiglio nazionale per la cooperazione allo sviluppo
 
@@ -304,11 +298,9 @@ Consiglio nazionale per la cooperazione allo sviluppo
 
 4\. All'attuazione del presente articolo le amministrazioni interessate provvedono con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-## Capo IV
+## Capo IV - AGENZIA PER LA COOPERAZIONE ALLO SVILUPPO E DIREZIONE GENERALE PER LA COOPERAZIONE ALLO SVILUPPO
 
-### AGENZIA PER LA COOPERAZIONE ALLO SVILUPPO E DIREZIONE GENERALE PER LA - COOPERAZIONE ALLO SVILUPPO
-
-#### Art. 17
+### Art. 17
 
 Agenzia italiana per la cooperazione allo sviluppo
 
@@ -470,7 +462,7 @@ o) la previsione che il bilancio dell'Agenzia sia pubblicato nel sito internet d
 
 > \- Il decreto legislativo 30 marzo 2001, n. 165, reca: "Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche".
 
-#### Art. 18
+### Art. 18
 
 Disciplina di bilancio dell'Agenzia italiana per la cooperazione allo sviluppo
 
@@ -494,7 +486,7 @@ e) da una quota pari al 20 per cento della quota a diretta gestione statale dell
 
 4\. Le risorse finanziarie dell'Agenzia destinate ad attivita' che, in base alle statistiche elaborate dai competenti organismi internazionali, rientrano nella CPS sono impignorabili.
 
-#### Art. 19
+### Art. 19
 
 Personale dell'Agenzia italiana per la cooperazione allo sviluppo
 
@@ -530,7 +522,7 @@ AGGIORNAMENTO (12)
 
 Il D.L. 30 dicembre 2019, n. 162, ha disposto (con l'art. 14, comma 4) che "I comandi di cui all'articolo 19, comma 5, della legge 11 agosto 2014, n. 125, in essere alla data di entrata in vigore del presente decreto, possono essere prorogati fino al 31 dicembre 2020".
 
-#### Art. 20
+### Art. 20
 
 Direzione generale per la cooperazione allo sviluppo
 
@@ -542,7 +534,7 @@ Direzione generale per la cooperazione allo sviluppo
 
 ((2-ter. Per l'attuazione dell'attivita' e dei servizi di comunicazione e dell'attivita' di valutazione d'impatto delle iniziative di cooperazione di cui al comma 2, e' autorizzata, in favore del Ministero degli affari esteri e della cooperazione internazionale, la spesa di euro 1.000.000 annui a decorrere dall'anno 2022)).
 
-#### Art. 21
+### Art. 21
 
 Comitato congiunto per la cooperazione allo sviluppo
 
@@ -554,11 +546,9 @@ Comitato congiunto per la cooperazione allo sviluppo
 
 4\. Al funzionamento del Comitato congiunto si provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-## Capo V
+## Capo V - ISTITUZIONE FINANZIARIA PER LA COOPERAZIONE INTERNAZIONALE ALLO SVILUPPO
 
-### ISTITUZIONE FINANZIARIA PER LA COOPERAZIONE INTERNAZIONALE ALLO - SVILUPPO
-
-#### Art. 22
+### Art. 22
 
 Istituzione finanziaria per la cooperazione internazionale allo sviluppo
 
@@ -574,11 +564,9 @@ Istituzione finanziaria per la cooperazione internazionale allo sviluppo
 
 5\. Con la convenzione di cui al comma 2 sono definite le modalita' di attuazione del presente articolo.
 
-## Capo VI
+## Capo VI - SOGGETTI DELLA COOPERAZIONE ALLO SVILUPPO, PARTECIPAZIONE DELLA SOCIETA' CIVILE E PARTENARIATI INTERNAZIONALI
 
-### SOGGETTI DELLA COOPERAZIONE ALLO SVILUPPO, PARTECIPAZIONE - DELLA SOCIETA' CIVILE E PARTENARIATI INTERNAZIONALI
-
-#### Art. 23
+### Art. 23
 
 Sistema della cooperazione italiana allo sviluppo
 
@@ -594,7 +582,7 @@ c) le organizzazioni della societa' civile e gli altri soggetti senza finalita' 
 
 d) i soggetti con finalita' di lucro, qualora agiscano con modalita' conformi ai principi della presente legge, aderiscano agli standard comunemente adottati sulla responsabilita' sociale e alle clausole ambientali, nonche' rispettino le norme sui diritti umani per gli investimenti internazionali.
 
-#### Art. 24
+### Art. 24
 
 Amministrazioni dello Stato, camere di commercio, universita' ed enti pubblici
 
@@ -604,7 +592,7 @@ Amministrazioni dello Stato, camere di commercio, universita' ed enti pubblici
 
 3\. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri per la finanza pubblica. Le istituzioni pubbliche coinvolte nell'attuazione di iniziative di cooperazione allo sviluppo vi provvedono con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-#### Art. 25
+### Art. 25
 
 Regioni ed enti locali
 
@@ -612,7 +600,7 @@ Regioni ed enti locali
 
 Nel rispetto dell'articolo 17, comma 2, l'Agenzia puo' concedere contributi al finanziamento delle iniziative di cui al comma 2 dell'articolo 9. ((I contributi di cui al presente comma possono essere erogati in forma anticipata)).
 
-#### Art. 26
+### Art. 26
 
 Organizzazioni della societa' civile ed altri soggetti senza finalita' di lucro
 
@@ -640,7 +628,7 @@ Questi ultimi sono tenuti a rendicontare, per via telematica, i progetti benefic
 
 5\. COMMA ABROGATO DALLA L. 20 NOVEMBRE 2017, N. 167.
 
-#### Art. 27
+### Art. 27
 
 Soggetti aventi finalita' di lucro
 
@@ -666,7 +654,7 @@ c) le condizioni in base alle quali possono essere concessi i finanziamenti sott
 
 5\. All'istituto gestore di cui all'articolo 8 sono affidate, con convenzione stipulata dal Ministero dell'economia e delle finanze, l'erogazione e la gestione dei ((finanziamenti sotto qualsiasi forma)) di cui al presente articolo, ciascuno dei quali e' valutato dall'Agenzia congiuntamente all'istituto gestore. Le iniziative di cui al comma 3 del presente articolo sono soggette alle medesime procedure di cui all'articolo 8.
 
-#### Art. 28
+### Art. 28
 
 Personale impiegato all'estero nelle attivita' di cooperazione internazionale allo sviluppo. Collocamento in aspettativa dei pubblici dipendenti
 
@@ -704,23 +692,21 @@ AGGIORNAMENTO (5)
 
 Il D.Lgs. 6 marzo 2017, n. 40 ha disposto (con l'art. 26, comma 4) che "Il rinvio all'articolo 9, commi 1 e 2, del decreto legislativo 5 aprile 2002, n. 77, contenuto nell'articolo 28, comma 2, della legge 11 agosto 2014, n. 125, si intende riferito all'articolo 16, comma 1, e all'articolo 17, comma 1, del presente decreto".
 
-#### Art. 29
+### Art. 29
 
 Partner internazionali
 
 1\. L'Italia favorisce l'instaurazione sul piano internazionale di collaborazioni istituzionali, nel rispetto dei principi di piena appropriazione dei processi di sviluppo da parte dei Paesi partner e di efficacia degli aiuti, con i Governi dei Paesi partner, nonche' con gli organismi internazionali, con le banche di sviluppo, con i fondi internazionali, con l'Unione europea e con gli altri Paesi donatori, favorendo anche forme di collaborazione triangolare.
 
-## Capo VII
+## Capo VII - NORME TRANSITORIE E FINALI
 
-### NORME TRANSITORIE E FINALI
-
-#### Art. 30
+### Art. 30
 
 Riallineamento dell'Italia agli impegni internazionali assunti in materia di cooperazione allo sviluppo
 
 1\. A partire dal primo esercizio finanziario successivo alla data di entrata in vigore della presente legge, il Consiglio dei ministri, su proposta del Ministro degli affari esteri e della cooperazione internazionale, d'intesa con il Ministro dell'economia e delle finanze, individua un percorso definito di graduale adeguamento degli stanziamenti annuali per la cooperazione internazionale allo sviluppo, tale da porre l'Italia in linea con gli impegni e gli obiettivi assunti a livello europeo e internazionale alla fine di tale periodo.
 
-#### Art. 31
+### Art. 31
 
 Abrogazioni e modifiche di disposizioni vigenti
 
@@ -974,7 +960,7 @@ b) dopo il comma 11 e' inserito il seguente:
 
 > 26\. Il rapporto di lavoro del personale alle dipendenze della Cassa depositi e prestiti al momento della trasformazione prosegue con la CDP S.p.A. ed e' disciplinato dalla contrattazione collettiva e dalle leggi che regolano il rapporto di lavoro privato. Sono fatti salvi i diritti quesiti e gli effetti, per i dipendenti della Cassa, rivenienti dalla originaria natura pubblica dell'ente di appartenenza, ivi inclusa l'ammissibilita' ai concorsi pubblici per i quali sia richiesta una specifica anzianita' di servizio, ove conseguita. I trattamenti vigenti alla data di entrata in vigore del presente decreto continuano ad applicarsi al personale gia' dipendente della Cassa depositi e prestiti fino alla stipulazione di un nuovo contratto. In sede di prima applicazione, non puo' essere attribuito al predetto personale un trattamento economico meno favorevole di quello spettante alla data di entrata in vigore del presente decreto. Per il personale gia' dipendente dalla Cassa depositi e prestiti, che ne fa richiesta, entro sessanta giorni (33) dalla trasformazione si attivano, sentite le organizzazioni sindacali, le procedure di mobilita', con collocamento prioritario al Ministero dell'economia e delle finanze. Il personale trasferito e' inquadrato, in base all'ex livello di appartenenza e secondo le equipollenze definite dal D.P.R. 4 agosto 1984 e successive modificazioni e D.P.R. 4 agosto 1986 e successive modificazioni, nella corrispondente area e posizione economica, o in quella eventualmente ricoperta in precedenti servizi prestati presso altre pubbliche amministrazioni, se superiore. Al personale trasferito o reinquadrato nelle pubbliche amministrazioni ai sensi del presente comma e' riconosciuto un assegno personale pensionabile, riassorbibile con qualsiasi successivo miglioramento, pari alla differenza tra la retribuzione globale percepibile al momento della trasformazione, come definita dal vigente CCNL, e quella spettante in base al nuovo inquadramento; le indennita' spettanti presso l'amministrazione di destinazione sono corrisposte nella misura eventualmente eccedente l'importo del predetto assegno personale. Entro cinque anni dalla trasformazione, il personale gia' dipendente della Cassa depositi e prestiti che ha proseguito il rapporto di lavoro dipendente con CDP S.p.A. puo' richiedere il reinquadramento nei ruoli delle amministrazioni pubbliche secondo le modalita' e i termini previsti dall'articolo 54 del CCNL per il personale non dirigente della Cassa depositi e prestiti per il quadriennio normativo 1998-2001. I dipendenti in servizio all'atto della trasformazione mantengono il regime pensionistico e quello relativo all'indennita' di buonuscita secondo le regole vigenti per il personale delle pubbliche amministrazioni. Entro sei mesi dalla data di trasformazione, i predetti dipendenti possono esercitare, con applicazione dell'articolo 6 della legge 7 febbraio 1979, n. 29, opzione per il regime pensionistico applicabile ai dipendenti assunti in data successiva alla trasformazione, i quali sono iscritti all'assicurazione obbligatoria gestita dall'INPS e hanno diritto al trattamento di fine rapporto ai sensi dell' articolo 2120 del codice civile.".
 
-#### Art. 32
+### Art. 32
 
 Disposizioni transitorie
 
@@ -1010,7 +996,7 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 3 luglio 2017, n. 117, come modificato dal D.L. 17 giugno 2025, n. 84, ha disposto (con l'art. 104, comma 2) che "Le disposizioni del titolo X, salvo quanto previsto dal comma 1, si applicano agli enti iscritti nel Registro unico nazionale del Terzo settore a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2025".
 
-#### Art. 33
+### Art. 33
 
 Copertura finanziaria
 
@@ -1030,7 +1016,7 @@ Copertura finanziaria
 
 > b) spese rimodulabili."
 
-#### Art. 34
+### Art. 34
 
 Entrata in vigore
 

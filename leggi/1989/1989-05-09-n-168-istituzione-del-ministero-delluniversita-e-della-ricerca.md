@@ -30,7 +30,7 @@ la seguente legge:
 
 ## TITOLO I - ISTITUZIONE E FUNZIONI DEL MINISTERO
 
-#### Art. 1 - Istituzione
+### Art. 1 - Istituzione
 
 1\. E' istituito il Ministero dell'universita' e della ricerca scientifica e tecnologica, di seguito denominato "Ministero", con il compito di promuovere, in attuazione dell'articolo 9 della Costituzione, la ricerca scientifica e tecnologica, nonche' lo sviluppo delle universita' e degli istituti di istruzione superiore di grado universitario, di seguito compresi nella denominazione "universita'".
 
@@ -66,7 +66,7 @@ la seguente legge:
 
 > \- La legge n. 400/1988 reca: "Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri".
 
-#### Art. 2 - Funzioni
+### Art. 2 - Funzioni
 
 1\. Il Ministro:
 
@@ -100,7 +100,7 @@ c) al Ministro e al Ministero della pubblica istruzione.
 
 3\. ((COMMA SOPPRESSO DAL D.LGS. 5 GIUGNO 1998, N. 204)).
 
-#### Art. 3 - Programmazione e coordinamento della ricerca
+### Art. 3 - Programmazione e coordinamento della ricerca
 
 1\. ((COMMA SOPPRESSO DAL D.LGS. 5 GIUGNO 1998, N. 204)).
 
@@ -110,7 +110,7 @@ c) al Ministro e al Ministero della pubblica istruzione.
 
 4\. Le norme relative alle procedure di formazione degli accordi, alla loro applicazione, nonche' agli strumenti amministrativi e contabili sono fissate con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica, emanato di concerto con il Ministro del tesoro, anche in deroga alle norme dell'ordinamento contabile dello Stato e degli enti pubblici.
 
-#### Art. 4
+### Art. 4
 
 (Coordinamento dell'istruzione universitaria
 
@@ -146,15 +146,13 @@ g) tre esperti designati dal Ministro, con esperienza in campo formativo.
 
 6\. Le disposizioni attuative del comma 5 sono dettate con decreto interministeriale.
 
-#### Art. 5 - Denominazioni
+### Art. 5 - Denominazioni
 
 1\. In tutti gli atti riguardanti le funzioni trasferite al Ministero le parole: "Ministro incaricato della ricerca scientifica e tecnologica", "Ministero della ricerca scientifica", "Ministro per il coordinamento della ricerca scientifica e tecnologica", "Ministro per il coordinamento delle iniziative per la ricerca scientifica e tecnologica" o consimili, "Presidenza o presidente del Consiglio dei Ministri" e "Ministero o Ministro della pubblica istruzione" sono sostituite con le altre: "Ministero o Ministro dell'universita' e della ricerca scientifica e tecnologica".
 
-## TITOLO II - AUTONOMIA DELLE UNIVERSITA'
+## TITOLO II - AUTONOMIA DELLE UNIVERSITA' E DEGLI ENTI DI RICERCA
 
-### E DEGLI ENTI DI RICERCA
-
-#### Art. 6 - Autonomia delle universita'
+### Art. 6 - Autonomia delle universita'
 
 1\. Le universita' sono dotate di personalita' giuridica e, in attuazione dell'articolo 33 della Costituzione, hanno autonomia didattica, scientifica, organizzativa, finanziaria e contabile; esse si danno ordinamenti autonomi con propri statuti e regolamenti.
 
@@ -182,7 +180,7 @@ b) possono partecipare a programmi di ricerca promossi da amministrazioni dello 
 
 11\. Gli statuti delle universita' sono pubblicati nella Gazzetta Ufficiale, i regolamenti ((nel sito internet istituzionale delle universita')).
 
-#### Art. 7 - Autonomia finanziaria e contabile delle universita'
+### Art. 7 - Autonomia finanziaria e contabile delle universita'
 
 1\. Le entrate delle universita' sono costituite da:
 
@@ -220,21 +218,21 @@ Dalla stessa data la gestione finanziaria delle universita' e' soggetta, sulla b
 
 11\. Fino alla emanazione del regolamento di cui al comma 7, per ciascuna universita' continuano ad applicarsi le norme ed i regolamenti vigenti in materia. Per ciascuna universita', con l'emanazione del regolamento di ateneo, cessano di avere efficacia le disposizioni legislative e regolamentari con lo stesso incompatibili.
 
-#### Art. 8
+### Art. 8
 
 ((ARTICOLO SOPPRESSO DAL D.LGS. 25 NOVEMBRE 2016, N. 218))
 
-#### Art. 9
+### Art. 9
 
 (( IL D. LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## TITOLO III - ORGANIZZAZIONE DEL MINISTERO
 
-#### Art. 10 - Organi collegiali - CUN
+### Art. 10 - Organi collegiali - CUN
 
 1\. Il CUN e i relativi comitati consultivi, il Consiglio nazionale geofisico ed il Consiglio per le ricerche astronomiche sono organi del Ministero e continuano a svolgere le competenze previste dalla normativa vigente sino alla entrata in vigore delle norme di attuazione dei principi dell'autonomia universitaria e degli enti di ricerca. Tali norme definiranno la composizione e le competenze del CUN, affinche' esso possa, quale organo elettivo di rappresentanza universitaria, concorrere al coordinamento delle sedi, alla qualificazione ed aggiornamento degli ordinamenti didattici, all'incentivazione della ricerca universitaria e allo sviluppo equilibrato e programmato delle universita'. Con tali norme saranno, altresi', compiutamente precisate le funzioni della Conferenza permanente dei rettori delle univesita' italiane.
 
-#### Art. 11
+### Art. 11
 
 ((ARTICOLO SOPPRESSO DAL D. LGS. 5 GIUGNO 1998, N. 204)) ((4))
 
@@ -244,7 +242,7 @@ AGGIORNAMENTO (4)
 
 Il D. Lgs. 5 giugno 1998, n. 204 ha disposto (con l'art. 7, comma 3) che "A decorrere dalla data di entrata in vigore del presente decreto legislativo il Consiglio nazionale della scienza e tecnologia (CNST), di cui all'articolo 11 della legge 9 maggio 1989, n. 168, e' soppresso. Sono fatti salvi le deliberazioni e gli atti adottati dal predetto organo fino alla data di entrata in vigore del presente decreto."
 
-#### Art. 12 - Organizzazione
+### Art. 12 - Organizzazione
 
 1\. L'organizzazione del Ministero e' articolata in dipartimenti e servizi. I dipartimenti, in numero di quattro, esercitano le funzioni del Ministero previste dall'articolo 2. I servizi, in numero di sei, esercitano funzioni di supporto al complesso delle competenze dei dipartimenti.
 
@@ -288,7 +286,7 @@ c) la preposizione agli uffici e l'assegnazione del personale.
 
 8\. Ogni cinque anni l'organizzazione del Ministero e' sottoposta a verifica al fine di accertarne la rispondenza alle funzioni e al mutare delle esigenze. Dell'esito della verifica il Ministro riferisce alle competenti Commissioni della Camera dei deputati e del Senato della Repubblica, anche al fine dell'adozione delle conseguenti modifiche organizzative.
 
-#### Art. 13 - Personale
+### Art. 13 - Personale
 
 1\. La dotazione organica dei posti dirigenziali del Ministero e le relative funzioni sono stabilite nella allegata tabella A.
 
@@ -304,7 +302,7 @@ c) la preposizione agli uffici e l'assegnazione del personale.
 
 ## TITOLO IV - NORME TRANSITORIE E FINALI
 
-#### Art. 14 - Ragioneria centrale
+### Art. 14 - Ragioneria centrale
 
 1\. Presso il Ministero e' istituita una Ragioneria centrale dipendente dal Ministro del tesoro.
 
@@ -390,7 +388,7 @@ c) la preposizione agli uffici e l'assegnazione del personale.
 
 > Si applicano le norme previste nel comma terzo del precedente art. 1".
 
-#### Art. 15 - Trasferimento di fondi
+### Art. 15 - Trasferimento di fondi
 
 1\. Fino all'approvazione dello stato di previsione del Ministero, alle spese si provvede:
 
@@ -420,7 +418,7 @@ b) con gli stanziamenti gia' iscritti nella rubrica n. 18 dello stato di previsi
 
 12\. Le somme non impegnate entro il 31 dicembre 1989 sugli stanziamenti indicati nel presente articolo e nell'articolo 19 possono essere impegnate e pagate nell'esercizio successivo.
 
-#### Art. 16 - Universita'
+### Art. 16 - Universita'
 
 1\. Fino alla data di entrata in vigore della legge di attuazione dei principi di autonomia di cui all'articolo 6, gli statuti sono emanati con decreto del rettore, nel rispetto delle disposizioni e delle procedure previste dalla normativa vigente.
 
@@ -468,7 +466,7 @@ AGGIORNAMENTO (7)
 
 La L. 30 dicembre 2010, n. 240 ha disposto (con l'art. 2, comma 13, lettera a)) che a decorrere dalla data di entrata in vigore delle modifiche statutarie, adottate dall'ateneo ai sensi del presente articolo, perdono efficacia nei confronti dello stesso le disposizioni dell'articolo 16, comma 4, lettere b) ed f), della legge 9 maggio 1989, n. 168.
 
-#### Art. 17 - Enti di ricerca
+### Art. 17 - Enti di ricerca
 
 1\. Fino alla data di entrata in vigore della legge di attuazione dei principi di autonomia di cui all'articolo 8, comma 4, i regolamenti degli enti sono emanati nel rispetto delle disposizioni e delle procedure previste dalla normativa vigente.
 
@@ -476,7 +474,7 @@ La L. 30 dicembre 2010, n. 240 ha disposto (con l'art. 2, comma 13, lettera a)) 
 
 3\. Fino alla data di entrata in vigore della legge di attuazione dei principi di autonomia, per la ripartizione e il trasferimento dei mezzi finanziari destinati dallo Stato agli enti di ricerca di cui all'articolo 8, comma 1, continua ad applicarsi la normativa vigente.
 
-#### Art. 18 - Organizzazione
+### Art. 18 - Organizzazione
 
 1\. Fino alla data di entrata in vigore del regolamento di organizzazione di cui all'articolo 12, comma 4, il Ministro esercita le funzioni trasferite ai sensi dell'articolo 2, comma 2, lettera c), avvalendosi degli uffici della Direzione generale per l'istruzione universitaria, che e' soppressa. Tali uffici sono a tal fine trasferiti al Ministero, che potra' utilizzarne le attuali strutture e sedi; essi mantengono in via transitoria le proprie competenze ed agli stessi rimane addetto il personale con le attuali mansioni.
 
@@ -488,7 +486,7 @@ La L. 30 dicembre 2010, n. 240 ha disposto (con l'art. 2, comma 13, lettera a)) 
 
 > Il D.P.R. n. 359/1985 approva il regolamento per i lavori, le provviste e i servizi da eseguirsi in economia da parte della Presidenza del Consiglio dei Ministri.
 
-#### Art. 19 - Personale
+### Art. 19 - Personale
 
 1\. Nella prima applicazione della presente legge alla copertura dei posti di organico si provvede mediante inquadramento nei ruoli, del Ministero, con la conservazione della qualifica acquisita e dell'anzianita' di servizio complessivamente maturata:
 
@@ -530,15 +528,15 @@ AGGIORNAMENTO (2)
 
 Il D.L. 16 marzo 1993, n. 61, convertito, con modificazioni, dalla L. 14 maggio 1993, n. 138 ha disposto (con l'art. 1, comma 2-ter) che "L'articolo 19, comma 10, della legge 9 maggio 1989, n. 168, si interpreta nel senso che i posti vacanti e disponibili del ruolo ispettivo possono essere utilizzati per la copertura dei posti necessari per l'espletamento delle altre funzioni dirigenziali previste dalla tabella A allegata alla citata legge n. 168 del 1989. "
 
-#### Art. 20
+### Art. 20
 
 ((ARTICOLO ABROGATO DAL D. L.GS. 30 GENNAIO 1999, N. 19))
 
-#### Art. 21 - Norma abrogativa
+### Art. 21 - Norma abrogativa
 
 1\. Sono abrogate tutte le disposizioni incompatibili con la presente legge. Restano in ogni caso in vigore le norme riguardanti le forme specifiche di autonomia delle universita' non statali autorizzate a rilasciare titoli di studio aventi valore legale.
 
-#### Art. 22 - Copertura finanziaria
+### Art. 22 - Copertura finanziaria
 
 1\. Alle spese derivanti dall'applicazione della presente legge si provvede con le modalita' di cui all'articolo 15, all'uopo utilizzando i relativi stanziamenti iscritti ai fini del bilancio pluriennale 1989-1991, nonche' con l'ulteriore stanziamento di lire 4.500 milioni per ciascuno degli anni 1989, 1990 e 1991 da iscrivere in apposito fondo nella rubrica da istituire nello stato di previsione della Presidenza del Consiglio dei ministri, al fine della successiva ripartizione, con decreti del Ministro del tesoro, su proposta dei Ministri interessati.
 
@@ -564,7 +562,7 @@ Visto, Il Guardasigilli: VASSALLI
 
 ## TITOLO IV - NORME TRANSITORIE E FINALI
 
-#### Tabella A
+### Tabella A
 
 TABELLA A (prevista dall'articolo 13, comma 1, e dall'articolo 19, comma 10
 
@@ -602,7 +600,7 @@ riale aggiunto 32
 
 \_\_\_\_ \_\_\_\_ 55 55
 
-#### Tabella B
+### Tabella B
 
 TABELLA B
 

@@ -90,11 +90,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I
+## Titolo I - FINALITA' E OBIETTIVI
 
-### FINALITA' E OBIETTIVI
-
-###### Art. 1
+#### Art. 1
 
 Finalita'
 
@@ -224,7 +222,7 @@ Il presente decreto inoltre detta norme relative ai trasferimenti statistici tra
 
 > \- per la direttiva 2009/28/CE e la legge 4 giugno 2010 n. 96 si veda note alle premesse.
 
-###### Art. 2
+#### Art. 2
 
 Definizioni
 
@@ -282,7 +280,7 @@ q-nonies) "biocarburanti e bioliquidi a basso rischio di cambiamento indiretto d
 
 q-decies) "biocarburanti avanzati": biocarburanti da materie prime e altri carburanti rinnovabili di cui all'allegato I, parte 2-bis, parte A.))
 
-###### Art. 3
+#### Art. 3
 
 Obiettivi nazionali
 
@@ -296,15 +294,11 @@ Obiettivi nazionali
 
 4\. Le modalita' di calcolo degli obiettivi di cui ai commi 1, 2 e 3 sono indicate nell'allegato 1.
 
-## Titolo II
+## Titolo II - PROCEDURE AMMINISTRATIVE, REGOLAMENTAZIONI E CODICI
 
-### PROCEDURE AMMINISTRATIVE, REGOLAMENTAZIONI E CODICI
+### Capo I - AUTORIZZAZIONI E PROCEDURE AMMINISTRATIVE
 
-##### Capo I
-
-###### AUTORIZZAZIONI E PROCEDURE AMMINISTRATIVE
-
-###### Art. 4
+#### Art. 4
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 NOVEMBRE 2024, N. 190)) ((47))
 
@@ -314,7 +308,7 @@ AGGIORNAMENTO (47)
 
 Il D.Lgs. 25 novembre 2024, n. 190 ha disposto (con l'art. 15, comma 2) che "A far data dall'entrata in vigore del presente decreto ai sensi dell'articolo 17, le disposizioni di cui all'allegato D continuano ad applicarsi alle procedure in corso, fatta salva la facolta' del soggetto proponente di optare per l'applicazione delle disposizioni di cui al presente decreto. Ai fini di cui al primo periodo, per procedure in corso si intendono quelle abilitative o autorizzatorie per le quali la verifica di completezza della documentazione presentata a corredo del progetto risulti compiuta alla data di entrata in vigore del presente decreto".
 
-###### Art. 5
+#### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 NOVEMBRE 2024, N. 190)) ((47))
 
@@ -324,7 +318,7 @@ AGGIORNAMENTO (47)
 
 Il D.Lgs. 25 novembre 2024, n. 190 ha disposto (con l'art. 15, comma 2) che "A far data dall'entrata in vigore del presente decreto ai sensi dell'articolo 17, le disposizioni di cui all'allegato D continuano ad applicarsi alle procedure in corso, fatta salva la facolta' del soggetto proponente di optare per l'applicazione delle disposizioni di cui al presente decreto. Ai fini di cui al primo periodo, per procedure in corso si intendono quelle abilitative o autorizzatorie per le quali la verifica di completezza della documentazione presentata a corredo del progetto risulti compiuta alla data di entrata in vigore del presente decreto".
 
-###### Art. 6
+#### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 NOVEMBRE 2024, N. 190)) ((47))
 
@@ -334,7 +328,7 @@ AGGIORNAMENTO (47)
 
 Il D.Lgs. 25 novembre 2024, n. 190 ha disposto (con l'art. 15, comma 2) che "A far data dall'entrata in vigore del presente decreto ai sensi dell'articolo 17, le disposizioni di cui all'allegato D continuano ad applicarsi alle procedure in corso, fatta salva la facolta' del soggetto proponente di optare per l'applicazione delle disposizioni di cui al presente decreto. Ai fini di cui al primo periodo, per procedure in corso si intendono quelle abilitative o autorizzatorie per le quali la verifica di completezza della documentazione presentata a corredo del progetto risulti compiuta alla data di entrata in vigore del presente decreto".
 
-###### Art. 6-bis
+#### Art. 6-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 NOVEMBRE 2024, N. 190)) ((47))
 
@@ -344,11 +338,11 @@ AGGIORNAMENTO (47)
 
 Il D.Lgs. 25 novembre 2024, n. 190 ha disposto (con l'art. 15, comma 2) che "A far data dall'entrata in vigore del presente decreto ai sensi dell'articolo 17, le disposizioni di cui all'allegato D continuano ad applicarsi alle procedure in corso, fatta salva la facolta' del soggetto proponente di optare per l'applicazione delle disposizioni di cui al presente decreto. Ai fini di cui al primo periodo, per procedure in corso si intendono quelle abilitative o autorizzatorie per le quali la verifica di completezza della documentazione presentata a corredo del progetto risulti compiuta alla data di entrata in vigore del presente decreto".
 
-###### Art. 7
+#### Art. 7
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 199))
 
-###### Art. 7-bis
+#### Art. 7-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 NOVEMBRE 2024, N. 190)) ((47))
 
@@ -358,7 +352,7 @@ AGGIORNAMENTO (47)
 
 Il D.Lgs. 25 novembre 2024, n. 190 ha disposto (con l'art. 15, comma 2) che "A far data dall'entrata in vigore del presente decreto ai sensi dell'articolo 17, le disposizioni di cui all'allegato D continuano ad applicarsi alle procedure in corso, fatta salva la facolta' del soggetto proponente di optare per l'applicazione delle disposizioni di cui al presente decreto. Ai fini di cui al primo periodo, per procedure in corso si intendono quelle abilitative o autorizzatorie per le quali la verifica di completezza della documentazione presentata a corredo del progetto risulti compiuta alla data di entrata in vigore del presente decreto".
 
-###### Art. 8
+#### Art. 8
 
 Disposizioni per la promozione dell'utilizzo del biometano
 
@@ -366,7 +360,7 @@ Disposizioni per la promozione dell'utilizzo del biometano
 
 2\. Al fine di incentivare l'utilizzo del biometano nei trasporti, gli impianti di distribuzione di metano e le condotte di allacciamento che li collegano alla rete esistente dei metanodotti sonodichiarati opere di pubblica utilita' e rivestono carattere di indifferibilita' e di urgenza.
 
-###### Art. 8-bis
+#### Art. 8-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 NOVEMBRE 2024, N. 190)) ((47))
 
@@ -376,7 +370,7 @@ AGGIORNAMENTO (47)
 
 Il D.Lgs. 25 novembre 2024, n. 190 ha disposto (con l'art. 15, comma 2) che "A far data dall'entrata in vigore del presente decreto ai sensi dell'articolo 17, le disposizioni di cui all'allegato D continuano ad applicarsi alle procedure in corso, fatta salva la facolta' del soggetto proponente di optare per l'applicazione delle disposizioni di cui al presente decreto. Ai fini di cui al primo periodo, per procedure in corso si intendono quelle abilitative o autorizzatorie per le quali la verifica di completezza della documentazione presentata a corredo del progetto risulti compiuta alla data di entrata in vigore del presente decreto".
 
-###### Art. 9
+#### Art. 9
 
 Disposizioni specifiche in materia di energia geotermica
 
@@ -562,19 +556,17 @@ f) all'articolo 16, dopo il comma 5, e' aggiunto il seguente:
 
 > Il contributo e' adottato salvo riduzioni apportate da specifica norma regionale.
 
-## Capo II
+### Capo II - REGOLAMENTAZIONE TECNICA
 
-### REGOLAMENTAZIONE TECNICA
-
-###### Art. 10
+#### Art. 10
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 199))
 
-###### Art. 11
+#### Art. 11
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 199))
 
-###### Art. 12
+#### Art. 12
 
 Misure di semplificazione
 
@@ -642,7 +634,7 @@ h) definire, con riferimento all'obbligo di rimessa in pristino del sito di cui 
 
 > \- Per l'articolo 12 del decreto legislativo 29 dicembre 2003, n. 387, si veda nelle note all'articolo 4.
 
-###### Art. 13
+#### Art. 13
 
 Certificazione energetica degli edifici
 
@@ -738,11 +730,9 @@ c) all'articolo 6, dopo il comma 2-bis, sono inseriti i seguenti:
 
 > 9\. Entro centottanta giorni dalla data di entrata in vigore del presente decreto, il Ministro delle attivita' produttive, di concerto con i Ministri dell'ambiente e della tutela del territorio, delle infrastrutture e dei trasporti, d'intesa con la Conferenza unificata, avvalendosi delle metodologie di calcolo definite con i decreti di cui all'articolo 4, comma 1, e tenuto conto di quanto previsto nei commi precedenti, predispone Linee guida nazionali per la certificazione energetica degli edifici, sentito il CNCU, prevedendo anche metodi semplificati che minimizzino gli oneri."
 
-## Titolo III
+## Titolo III - INFORMAZIONE E FORMAZIONE
 
-### INFORMAZIONE E FORMAZIONE
-
-###### Art. 14
+#### Art. 14
 
 Disposizioni in materia di informazione
 
@@ -772,7 +762,7 @@ e) informazioni di sintesi in merito ai procedimenti autorizzativi adottati nell
 
 > 1\. Per lo svolgimento dei servizi specialistici in campo energetico, le amministrazioni di cui all' articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni, possono rivolgersi, nell'ambito delle risorse disponibili, al Gestore dei servizi elettrici Spa e alle societa' da esso controllate. Il Gestore dei servizi elettrici Spa e le societa' da esso controllate forniscono tale supporto secondo modalita' stabilite con atto di indirizzo del Ministro dello sviluppo economico e, entro novanta giorni dalla data di entrata in vigore della presente legge, adeguano lo statuto societario."
 
-###### Art. 15
+#### Art. 15
 
 Sistemi di qualificazione degli installatori
 
@@ -798,15 +788,11 @@ Sistemi di qualificazione degli installatori
 
 7\. Al fine di garantire uniformita' e tracciabilita' della formazione e dell'aggiornamento professionale dei responsabili tecnici delle imprese operanti nel settore dell'installazione e manutenzione di impianti alimentati da fonti di energia rinnovabile (FER), gli enti di formazione sono tenuti ad utilizzare la modulistica standard di cui al secondo periodo e a trasmettere l'attestato entro dieci giorni dalla data di conclusione del corso. ((Con decreto del Ministro delle imprese e del made in Italy, di concerto con il Ministro dell'ambiente e della sicurezza energetica, sentita l'Unione italiana delle camere di commercio, industria, artigianato e agricoltura (Unioncamere) )), e' adottato, previa intesa in sede di Conferenza Unificata di cui all' articolo 8 del decreto legislativo 28 agosto 1997, n. 281, entro sei mesi dalla data di entrata in vigore della presente disposizione, un modulo unico per la trasmissione in via telematica degli attestati da parte degli enti di formazione accreditati ((presso le camere di commercio, industria, artigianato e agricoltura)) competenti ((,)) in modo da garantire l'aggiornamento automatico delle qualifiche professionali. Le amministrazioni interessate provvedono all'attuazione della presente disposizione nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri per la finanza pubblica.
 
-## Titolo IV
+## Titolo IV - RETI ENERGETICHE
 
-### RETI ENERGETICHE
+### Capo I - RETE ELETTRICA
 
-#### Capo I
-
-##### RETE ELETTRICA
-
-###### Art. 16
+#### Art. 16
 
 Autorizzazione degli interventi per lo sviluppo delle reti elettriche
 
@@ -832,7 +818,7 @@ Autorizzazione degli interventi per lo sviluppo delle reti elettriche
 
 > c) della determinazione delle modalita' di esercizio del potere sostitutivo del Governo ai sensi dell'articolo 120 della Costituzione nei casi di inadempienza delle regioni per il raggiungimento degli obiettivi individuati".
 
-###### Art. 17
+#### Art. 17
 
 Interventi per lo sviluppo delle reti elettriche di trasmissione
 
@@ -884,7 +870,7 @@ Interventi per lo sviluppo delle reti elettriche di trasmissione
 
 > 4\. L'Autorita' per l'energia elettrica e il gas adotta i provvedimenti eventualmente necessari per garantire che la tariffazione dei costi di trasmissione e di distribuzione non penalizzi l'elettricita' prodotta da fonti energetiche rinnovabili, compresa quella prodotta in zone periferiche, quali le regioni insulari e le regioni a bassa densita' di popolazione."
 
-###### Art. 18
+#### Art. 18
 
 Interventi per lo sviluppo della rete di distribuzione
 
@@ -906,7 +892,7 @@ L'ARERA puo' richiedere al Gestore del sistema di distribuzione modifiche rispet
 
 Il presente comma non si applica ai gestori dei sistemi di distribuzione, ivi inclusi i gestori di sistemi di distribuzione chiusi, alla cui rete sono connessi meno di 100.000 clienti finali o che riforniscono piccoli sistemi isolati.))
 
-###### Art. 19
+#### Art. 19
 
 Ulteriori compiti dell'Autorita' per l'energia elettrica e il gas in materia di accesso alle reti elettriche
 
@@ -914,11 +900,9 @@ Ulteriori compiti dell'Autorita' per l'energia elettrica e il gas in materia di 
 
 2\. ((Per la prima volta entro il 30 giugno 2012 e successivamente)) Con la medesima periodicita' di cui al comma 1, l'Autorita' per l'energia elettrica e il gas effettua un'analisi quantitativa degli oneri di sbilanciamento gravanti sul sistema elettrico connessi al dispacciamento di ciascuna delle fonti rinnovabili non programmabili, valutando gli effetti delle disposizioni di cui al presente Capo. ((In esito alla predetta analisi, l'Autorita' per l'energia elettrica e il gas adotta con propria delibera, entro i successivi sessanta giorni, le misure sui sistemi di protezione e di difesa delle reti elettriche necessarie per garantire la sicurezza del sistema, nonche' definisce le modalita' per la rapida installazione di ulteriori dispositivi di sicurezza sugli impianti di produzione, almeno nelle aree ad elevata concentrazione di potenza non programmabile)).
 
-## Capo II
+### Capo II - RETE DEL GAS NATURALE
 
-### RETE DEL GAS NATURALE
-
-###### Art. 20 - Collegamento degli impianti di produzione di biometano alla rete del gas naturale
+#### Art. 20 - Collegamento degli impianti di produzione di biometano alla rete del gas naturale
 
 1\. Le imprese che svolgono attivita' di trasporto e distribuzione di gas naturale sono tenute ad allacciare alla propria rete sia gli impianti di produzione di biometano realizzati ex novo sia quelli risultanti dalla riqualificazione di preesistenti impianti di produzione di biogas, secondo le regole stabilite dall'Autorita' di regolazione per energia reti e ambienti (ARERA).
 
@@ -954,7 +938,7 @@ m-ter) ((stabiliscono che i costi e gli oneri di connessione siano pubblicati ne
 
 m-quater) ((tengono conto dei principi di trasparenza e non discriminazione, della necessita' di quadri finanziari stabili per gli investimenti esistenti, dello stato di avanzamento della diffusione del gas rinnovabile e del gas a basse emissioni di carbonio e dell'esistenza di meccanismi di sostegno alternativi per potenziare l'uso del gas rinnovabile o del gas a basse emissioni di carbonio, se del caso.))
 
-###### Art. 21
+#### Art. 21
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 199))
 
@@ -966,11 +950,9 @@ AGGIORNAMENTO (28)
 
 Il D.Lgs. 8 novembre 2021, n. 199 ha disposto (con l'art. 11, comma 5) che "A decorrere dalla data di entrata in vigore del presente decreto, l'articolo 21 del decreto legislativo 3 marzo 2011, n. 28, e' abrogato. Sono fatti salvi i diritti acquisiti e gli effetti prodotti, ivi inclusi quelli derivanti dall'attuazione del decreto di cui al comma 4".
 
-## Capo III
+### Capo III - RETI DI TELERISCALDAMENTO E TELERAFFRESCAMENTO
 
-### RETI DI TELERISCALDAMENTO E TELERAFFRESCAMENTO
-
-###### Art. 22
+#### Art. 22
 
 Sviluppo dell'infrastruttura per il teleriscaldamento e il teleraffrescamento
 
@@ -1002,15 +984,11 @@ AGGIORNAMENTO (4)
 
 Il D.Lgs. 19 agosto 2005, n. 192, come modificato dal D.L. 4 giugno 2013, n. 63, convertito con modificazioni dalla L. 3 agosto 2013, n. 90, ha disposto (con l'art. 4-ter, comma 2) che "Al fine di promuovere la realizzazione di servizi energetici e di misure di incremento dell'efficienza energetica degli edifici di proprieta' pubblica, con particolare attenzione agli edifici scolastici e agli ospedali, anche attraverso le ESCO, il ricorso a forme di partenariato tra pubblico e privato, societa' private appositamente costituite o lo strumento del finanziamento tramite terzi, il fondo di garanzia cui all'articolo 22, comma 4, del decreto legislativo 3 marzo 2011, n. 28, e' utilizzato anche per il sostegno della realizzazione di progetti di miglioramento dell'efficienza energetica nell'edilizia pubblica, ivi inclusa l'attestazione della prestazione energetica dell'intervento successiva a tale realizzazione, entro i limiti delle risorse del fondo stesso. La dotazione del fondo e' incrementata attraverso i proventi delle aste delle quote di emissione di CO2 di cui all'articolo 19 del decreto legislativo 13 marzo 2013, n.30, destinati ai progetti energetico ambientali, con le modalita' e nei limiti di cui ai commi 3 e 6 dello stesso articolo 19".
 
-## Titolo V
+## Titolo V - REGIMI DI SOSTEGNO
 
-### REGIMI DI SOSTEGNO
+### Capo I - PRINCIPI GENERALI
 
-#### Capo I
-
-##### PRINCIPI GENERALI
-
-###### Art. 23
+#### Art. 23
 
 Principi generali
 
@@ -1040,13 +1018,9 @@ AGGIORNAMENTO (11)
 
 La Corte Costituzionale, con sentenza 21 febbraio - 10 marzo 2017, n. 51 (in G.U. 1ª s.s. 15/03/2017, n. 11), ha dichiarato "l'illegittimita' costituzionale degli artt. 23, comma 3, e 43, comma 1, del decreto legislativo 3 marzo 2011, n. 28 (Attuazione della direttiva 2009/28/CE sulla promozione dell'uso dell'energia da fonti rinnovabili, recante modifica e successiva abrogazione delle direttive 2001/77/CE e 2003/30/CE)".
 
-## Capo II
+### Capo II - REGIMI DI SOSTEGNO PER LA PRODUZIONE DI ENERGIA ELETTRICA DA FONTI RINNOVABILI
 
-### REGIMI DI SOSTEGNO PER LA PRODUZIONE DI ENERGIA - ELETTRICA
-
-#### DA FONTI - RINNOVABILI
-
-###### Art. 24
+#### Art. 24
 
 Meccanismi di incentivazione
 
@@ -1188,7 +1162,7 @@ i) il tendenziale di spesa per gli impianti a biogas e biomasse di cui alla lett
 
 9\. Con decreto del Ministro dello sviluppo economico, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare, sono definiti specifici incentivi per la produzione di energia da fonti rinnovabili mediante impianti che facciano ricorso a tecnologie avanzate e non ancora pienamente commerciali, compresi gli impianti sperimentali di potenza fino a 5 MW alimentati da fluidi geotermici a media ed alta entalpia.
 
-###### Art. 25 - Disposizione transitorie e abrogazioni
+#### Art. 25 - Disposizione transitorie e abrogazioni
 
 1\. La produzione di energia elettrica da impianti alimentati da fonti rinnovabili, entrati in esercizio entro il 31 dicembre 2012, e' incentivata con i meccanismi vigenti alla data di entrata in vigore del presente decreto, con i correttivi di cui ai commi successivi. ((8))
 
@@ -1254,7 +1228,7 @@ AGGIORNAMENTO (8)
 
 La L. 28 dicembre 2015, n. 221 ha disposto (con l'art. 15, comma 1) che "La disposizione di cui all'articolo 25, comma 1, del decreto legislativo 3 marzo 2011, n. 28, per gli impianti di cui all'articolo 3, comma 4-bis, del decreto-legge 1° luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102, si interpreta nel senso che, ai fini della verifica circa il possesso del requisito temporale ivi indicato, ovvero l'entrata in esercizio entro il 31 dicembre 2012, non soltanto deve essere avvenuta l'entrata in esercizio commerciale dell'energia elettrica ma anche l'entrata in esercizio commerciale dell'energia termica. A tal fine, per la transizione dal vecchio al nuovo meccanismo di incentivazione ricadente nella tipologia di cui all'articolo 24, comma 5, lettera c), del decreto legislativo 3 marzo 2011, n. 28, in modo da garantire la redditivita' degli investimenti effettuati, il conseguente residuo periodo di diritto si calcola sottraendo ai quindici anni di durata degli incentivi il tempo gia' trascorso dalla data di entrata in esercizio commerciale dell'energia sia elettrica che termica".
 
-###### Art. 26 - Cumulabilita' degli incentivi
+#### Art. 26 - Cumulabilita' degli incentivi
 
 1\. Gli incentivi di cui all'articolo 24 non sono cumulabili con altri incentivi pubblici comunque denominati, fatte salve le disposizioni di cui ai successivi commi.
 
@@ -1318,11 +1292,9 @@ e) per gli impianti cogenerativi e trigenerativi alimentati da fonte solare ovve
 
 > 2\. Con decreto del Ministro delle politiche agricole e forestali possono essere definite, per singole filiere, modalita' di stipula dei contratti quadro in mancanza di intesa di filiera, che prevedano una rappresentativita' specifica, determinata in percentuale al volume di produzione commercializzata, da parte dei soggetti economici di cui al capo I."
 
-## Capo III
+### Capo III - REGIMI DI SOSTEGNO PER LA PRODUZIONE DI ENERGIA TERMICA DA FONTI RINNOVABILI E PER L'EFFICIENZA ENERGETICA
 
-### REGIMI DI SOSTEGNO PER LA PRODUZIONE DI ENERGIA TERMICA DA FONTI - RINNOVABILI E PER L'EFFICIENZA ENERGETICA
-
-###### Art. 27
+#### Art. 27
 
 Regimi di sostegno
 
@@ -1332,7 +1304,7 @@ a) mediante contributi a valere sulle tariffe del gas naturale per gli intervent
 
 b) mediante il rilascio dei certificati bianchi per gli interventi che non ricadono fra quelli di cui alla lettera a), alle condizioni e secondo le modalita' previste dall'articolo 29.
 
-###### Art. 28
+#### Art. 28
 
 Contributi per la produzione di energia termica da fonti rinnovabili e per interventi di efficienza energetica di piccole dimensioni
 
@@ -1376,7 +1348,7 @@ ii. i nuovi valori si applicano agli interventi realizzati decorso un anno dalla
 
 6\. L'articolo 9 del decreto legislativo 30 maggio 2008, n. 115, e' abrogato.
 
-###### Art. 29
+#### Art. 29
 
 Certificati bianchi
 
@@ -1440,7 +1412,7 @@ f) sono stabiliti i criteri per la determinazione del contributo tariffario per 
 
 > "11. Il regime di sostegno previsto per la cogenerazione ad alto rendimento di cui al secondo periodo del comma 1 dell' articolo 6 del decreto legislativo 8 febbraio 2007, n. 20, e' riconosciuto per un periodo non inferiore a dieci anni, limitatamente alla nuova potenza entrata in esercizio dopo la data di entrata in vigore del medesimo decreto legislativo, a seguito di nuova costruzione o rifacimento nonche' limitatamente ai rifacimenti di impianti esistenti. Il medesimo regime di sostegno e' riconosciuto sulla base del risparmio di energia primaria, anche con riguardo all'energia autoconsumata sul sito di produzione, assicurando che il valore economico dello stesso regime di sostegno sia in linea con quello riconosciuto nei principali Stati membri dell'Unione europea al fine di perseguire l'obiettivo dell'armonizzazione ed evitare distorsioni della concorrenza. Con decreto del Ministro dello sviluppo economico, da emanare entro sei mesi dalla data di entrata in vigore della presente legge, sono definiti i criteri e le modalita' per il riconoscimento dei benefici di cui al presente comma, nonche', con decreto del Ministro dello sviluppo economico, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare, da adottare entro la medesima data, dei benefici di cui all' articolo 14 del decreto legislativo 8 febbraio 2007, n. 20, garantendo la non cumulabilita' delle forme incentivanti."
 
-###### Art. 30
+#### Art. 30
 
 Misure in materia di efficienza energetica
 
@@ -1492,7 +1464,7 @@ b) provvede a pubblicare casi studio e parametri standard come guida per facilit
 
 > e) assicura, anche in coerenza con i programmi di intervento delle regioni, l'informazione a cittadini, alle imprese, alla pubblica amministrazione e agli operatori economici, sugli strumenti per il risparmio energetico, nonche' sui meccanismi e sul quadro finanziario e giuridico predisposto per la diffusione e la promozione dell'efficienza energetica, provvedendo inoltre a fornire sistemi di diagnosi energetiche in conformita' a quanto previsto dall'articolo 18."
 
-###### Art. 31
+#### Art. 31
 
 Fondo rotativo di cui all'articolo 1, comma 1110, della legge 27 dicembre 2006, n. 296
 
@@ -1510,7 +1482,7 @@ Fondo rotativo di cui all'articolo 1, comma 1110, della legge 27 dicembre 2006, 
 
 > "1115. Il Fondo di cui al comma 1110 e' istituito presso la Cassa depositi e prestiti Spa e con apposita convenzione ne sono definite le modalita' di gestione. La Cassa depositi e prestiti Spa puo' avvalersi per l'istruttoria, l'erogazione e per tutti gli atti connessi alla gestione dei finanziamenti concessi di uno o piu' istituti di credito scelti sulla base di gare pubbliche in modo da assicurare una omogenea e diffusa copertura territoriale."
 
-###### Art. 32
+#### Art. 32
 
 Interventi a favore dello sviluppo tecnologico e industriale
 
@@ -1536,11 +1508,9 @@ iv.2 ad attivita' strumentali funzionali al raggiungimento degli obiettivi di de
 
 3\. L'Autorita' per l'energia elettrica e il gas stabilisce le modalita' con le quali le risorse di cui al comma 2 trovano copertura a valere sulle componenti delle tariffe elettriche e del gas, dando annualmente comunicazione al Ministero dello sviluppo economico delle relative disponibilita'.
 
-## Capo IV - REGIMI DI SOSTEGNO PER L'UTILIZZO DELLE FONTI
+### Capo IV - REGIMI DI SOSTEGNO PER L'UTILIZZO DELLE FONTI RINNOVABILI NEI TRASPORTI
 
-### RINNOVABILI - NEI TRASPORTI
-
-###### Art. 33
+#### Art. 33
 
 Disposizioni in materia di biocarburanti
 
@@ -1576,11 +1546,9 @@ AGGIORNAMENTO (28)
 
 Il D.Lgs. 8 novembre 2021, n. 199 ha disposto (con l'art. 39, comma 11) che "A decorrere dalla data di entrata in vigore del presente decreto, il Comitato tecnico consultivo di cui all'articolo 33, comma 5-sexies del decreto legislativo 3 marzo 2011, n. 28, opera presso il Ministero della transizione ecologica nella composizione e con le competenze di cui al medesimo comma 5-sexies, ivi incluse quelle in materia di combustibili e carburanti da biomassa, bioliquidi e carburanti rinnovabili liquidi e gassosi di origine non biologica, come definiti dall'articolo 2. I componenti del comitato di cui al primo periodo sono nominati dal Ministro della transizione ecologica".
 
-## Titolo VI
+## Titolo VI - GARANZIE DI ORIGINE, TRASFERIMENTI STATISTICI E PROGETTI COMUNI
 
-### GARANZIE DI ORIGINE, TRASFERIMENTI STATISTICI E PROGETTI COMUNI
-
-###### Art. 34
+#### Art. 34
 
 Garanzia di origine dell'elettricita' prodotta da fonti rinnovabili
 
@@ -1608,23 +1576,21 @@ AGGIORNAMENTO (28)
 
 Il D.Lgs. 8 novembre 2021, n. 199 ha disposto (con l'art. 46, comma 10) che "A decorrere dalla data di entrata in vigore del provvedimento di cui al comma 1 e' abrogato l'articolo 34 del decreto legislativo n. 28 del 2011".
 
-###### Art. 35
+#### Art. 35
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 199))
 
-###### Art. 36
+#### Art. 36
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 199))
 
-###### Art. 37
+#### Art. 37
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 199))
 
-## Titolo VII
+## Titolo VII - SOSTENIBILITA' DI BIOCARBURANTI E BIOLIQUIDI
 
-### SOSTENIBILITA' DI BIOCARBURANTI E BIOLIQUIDI
-
-###### Art. 38
+#### Art. 38
 
 ARTICOLO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 199 ((30))
 
@@ -1634,7 +1600,7 @@ AGGIORNAMENTO (30)
 
 La L. 23 dicembre 2021, n. 238, ha disposto (con l'art. 38, comma 1, lettera a)) che "all'articolo 38, comma 1, le parole: «di cui al provvedimento di attuazione della direttiva 2009/30/CE del Parlamento europeo e del Consiglio, del 23 aprile 2009» sono sostituite dalle seguenti: «di cui al decreto legislativo 21 marzo 2005, n. 66»".
 
-###### Art. 39
+#### Art. 39
 
 ARTICOLO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 199 ((30))
 
@@ -1644,29 +1610,23 @@ AGGIORNAMENTO (30)
 
 La L. 23 dicembre 2021, n. 238, ha disposto (con l'art. 38, comma 1, lettera b)) che "all'articolo 39, comma 1, le parole: «di cui al provvedimento di attuazione della direttiva 2009/30/CE» sono sostituite dalle seguenti: «di cui al decreto legislativo 21 marzo 2005, n. 66»".
 
-## Titolo VIII
+## Titolo VIII - MONITORAGGIO, CONTROLLO E RELAZIONE
 
-### MONITORAGGIO, CONTROLLO E RELAZIONE
+### Capo I - MONITORAGGIO E RELAZIONI
 
-#### Capo I
-
-##### MONITORAGGIO E RELAZIONI
-
-###### Art. 40
+#### Art. 40
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 199))
 
-###### Art. 41
+#### Art. 41
 
 Relazione al Parlamento
 
 1\. Il Ministro dello sviluppo economico, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare, trasmette al Parlamento, dopo i primi due anni di applicazione del meccanismo di incentivazione di cui al commi 3 e 4 dell'articolo 24, una relazione sui risultati ottenuti e le eventuali criticita' rilevate.
 
-## Capo II
+### Capo II - CONTROLLI E SANZIONI
 
-### CONTROLLI E SANZIONI
-
-###### Art. 42
+#### Art. 42
 
 Controlli e sanzioni in materia di incentivi
 
@@ -1732,7 +1692,7 @@ AGGIORNAMENTO (25)
 
 La Corte Costituzionale, con sentenza 22 ottobre - 13 novembre 2020 n. 237 (in G.U. 1ª s.s. 18/11/2020 n. 47), ha dichiarato "l'illegittimita' costituzionale dell'art. 42, comma 4-sexies, del decreto legislativo 3 marzo 2011, n. 28 (Attuazione della direttiva 2009/28/CE sulla promozione dell'uso dell'energia da fonti rinnovabili, recante modifica e successiva abrogazione delle direttive 2001/77/CE e 2003/30/CE), nella parte in cui non prevede la riammissione agli incentivi in favore anche di altri impianti di produzione di energia elettrica da fonti rinnovabili di cui al medesimo decreto del Ministro dello sviluppo economico 6 luglio 2012 (Attuazione dell'art. 24 del decreto legislativo 3 marzo 2011, n. 28, recante incentivazione della produzione di energia elettrica da impianti a fonti rinnovabili diversi dai fotovoltaici), collocati utilmente nella graduatoria relativa ad altro registro informatico, a condizione che l'errata indicazione della data del titolo autorizzativo o concessorio, quale unica causa del diniego di accesso agli incentivi, non abbia effettivamente portato all'impianto alcun vantaggio in relazione alla loro posizione in graduatoria".
 
-###### Art. 43
+#### Art. 43
 
 Disposizioni specifiche per l'attuazione dell'articolo 2-sexies del decreto-legge 25 gennaio 2010, n. 3, convertito, con modificazioni, dalla legge 22 marzo 2010, n. 41
 
@@ -1758,7 +1718,7 @@ AGGIORNAMENTO (11)
 
 La Corte Costituzionale, con sentenza 21 febbraio - 10 marzo 2017, n. 51 (in G.U. 1ª s.s. 15/03/2017, n. 11), ha dichiarato "l'illegittimita' costituzionale degli artt. 23, comma 3, e 43, comma 1, del decreto legislativo 3 marzo 2011, n. 28 (Attuazione della direttiva 2009/28/CE sulla promozione dell'uso dell'energia da fonti rinnovabili, recante modifica e successiva abrogazione delle direttive 2001/77/CE e 2003/30/CE)".
 
-###### Art. 44
+#### Art. 44
 
 Sanzioni amministrative in materia di autorizzazione alla costruzione e all'esercizio
 
@@ -1776,17 +1736,15 @@ Alla sanzione di cui al presente comma sono tenuti i soggetti di cui ai commi 1 
 
 4\. Sono fatte salve le altre sanzioni previste dalla normativa vigente per le fattispecie di cui ai commi 1, 2 e 3, nonche' la potesta' sanzionatoria, diversa da quella di cui al presente articolo, in capo alle Regioni, alle Province Autonome e agli enti locali.
 
-## Titolo IX
+## Titolo IX - DISPOSIZIONI FINALI
 
-### DISPOSIZIONI FINALI
-
-###### Art. 45
+#### Art. 45
 
 Disposizioni specifiche per le Regioni a statuto speciale e per le Province autonome di Trento e Bolzano
 
 1\. Sono fatte salve le competenze delle Regioni a statuto speciale e delle Province autonome di Trento e di Bolzano, che provvedono alle finalita' del presente decreto legislativo ai sensi dei rispettivi statuti speciali e delle relative norme di attuazione.
 
-###### Art. 46
+#### Art. 46
 
 Disposizioni finali e clausola di invarianza finanziaria
 
@@ -1802,7 +1760,7 @@ Disposizioni finali e clausola di invarianza finanziaria
 
 > \- Per i riferimenti della direttiva 2009/28/CE, si veda nelle note alle premesse.
 
-###### Art. 47
+#### Art. 47
 
 Entrata in vigore
 
@@ -1834,11 +1792,9 @@ Calderoli, Ministro per la semplificazione normativa
 
 Visto, il Guadasigilli: Alfano
 
-## Titolo IX
+## Titolo IX - DISPOSIZIONI FINALI
 
-### DISPOSIZIONI FINALI
-
-###### Allegato 1
+#### Allegato 1
 
 ALLEGATO 1
 
@@ -1992,19 +1948,19 @@ Nel caso di pompe di calore a gas µ e' posto pari a 1 fino alla determinazione 
 
 Parte di provvedimento in formato grafico
 
-###### Allegato 2
+#### Allegato 2
 
 ALLEGATO 2
 
 ((ALLEGATO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 199))
 
-###### Allegato 3
+#### Allegato 3
 
 ALLEGATO 3
 
 ((ALLEGATO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 199))
 
-###### Allegato 4
+#### Allegato 4
 
 ALLEGATO 4
 

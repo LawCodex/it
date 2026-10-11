@@ -26,15 +26,15 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato ad aderire alla convenzione relativa ad un codice di condotta delle conferenze marittime, adottata a Ginevra il 6 aprile 1974, con atto finale ed allegati.
 
-##### Art. 2
+#### Art. 2
 
 1\. Piena ed intera esecuzione e' data alla convenzione di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore in conformita a quanto disposto dall'articolo 49 della convenzione stessa.
 
-##### Art. 3
+#### Art. 3
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -52,17 +52,13 @@ Visto, il Guardasigilli: VASSALLI
 
 ## Allegati
 
-##### Convention
+#### Convention
 
 Convention
 
 Parte di provvedimento in formato grafico
 
-## PARTE PRIMA - Cap. I
-
-### Definizioni - Cap II
-
-#### RELAZIONI TRA LE COMPAGNIE MEMBRI DI UNA CONFERENZA
+## PARTE PRIMA - Cap. I Definizioni Cap II RELAZIONI TRA LE COMPAGNIE MEMBRI DI UNA CONFERENZA
 
 TRADUZIONE NON UFFICIALE
 
@@ -116,7 +112,7 @@ Tassi di nolo promozionali: tassi di nolo introdotti per promuovere il trasporto
 
 Tassi di nolo speciali: tassi di nolo preferenziali diversi dai tassi di nolo promozionali, che possono essere negoziati tra le parti interessate.
 
-##### Art. 1 - Ammissione alla conferenza
+#### Art. 1 - Ammissione alla conferenza
 
 1\) Ogni compagnia di navigazione nazionale ha il diritto di diventare membro effettivo di una conferenza che serva il commercio con l'estero del suo Paese, nel rispetto dei criteri del paragrafo 2) del presente articolo. Le compagnie di navigazione non nazionali operanti su una delle rotte della Conferenza avranno il diritto di diventare membri effettivi di tale Conferenza, nel rispetto dei criteri enunciati nei par. 2) e 3) del presente articolo e le norme riguardanti la partecipazione al traffico di cui all'art.2 per quanto concerne le compagnie di navigazione di paesi terzi.
 
@@ -144,7 +140,7 @@ Nel caso di rifiuto dell'ammissione o della riammissione, la Conferenza da' cont
 
 6\) In aggiunta ai criteri per l'ammissione fissati nel paragrafo 2) del presente articolo, una compagnia di navigazione che richieda la riammissione fornisce anche la prova di avere ottemperato ai suoi obblighi a norma dell'art.4 (1) e (4). La Conferenza puo'' procedere ad una minuziosa inchiesta sulle circostanze che portano la compagnia a lasciare la Conferenza.
 
-##### Art. 2 - Partecipazione al traffico
+#### Art. 2 - Partecipazione al traffico
 
 1\) Una compagnia di navigazione ammessa ad una Conferenza avra' diritto di effettuare partenze e carichi nei traffici coperti da tale Conferenza.
 
@@ -188,11 +184,11 @@ Se tuttavia questa richiesta non e' soddisfatta, le autorita' competenti dei due
 
 17\) Le disposizioni dei paragrafi da 1) a 16) incluso del presente articolo riguardano tutte le merci senza distinzione circa la loro origine, la loro destinazione o l'uso cui sono destinati, ad eccezione dei materiali militari trasportati per scopi di difesa nazionale.
 
-##### Art. 3 - Procedure decisionali
+#### Art. 3 - Procedure decisionali
 
 Le procedure decisionali stabilite in un accordo di Conferenza devono essere basate sul principio dell'egualianza di tutti i membri effettivi. Tali procedure dovranno assicurare che le norme di votazione non intralcino il buon funzionamento della Conferenza e lo svolgimento del traffico, stabilendo le questioni sulle quali le decisioni saranno prese all'unanimita'. Tuttavia nessuna decisione potra' essere presa nei confronti di questioni definite in un accordo di Conferenza relativo al traffico tra due paesi senza il consenso delle compagnie di navigazione nazionale di quei due paesi.
 
-##### Art. 4 - Sanzioni
+#### Art. 4 - Sanzioni
 
 1\) Una compagnia di navigazione associata ad una Conferenza ha il diritto, subordinatamente alle disposizioni riguardanti il recesso di cui agli accordi di pool e/o di partecipazione al traffico, di ritirarsi dalla Conferenza senza penalita' dopo averne dato un preavviso di tre mesi a meno che l'accordo di Conferenza non preveda un diverso periodo di tempo, ma essa e' tenuta ad osservare i suoi obblighi quale membro della Conferenza fino alla data del suo recesso.
 
@@ -204,7 +200,7 @@ Le procedure decisionali stabilite in un accordo di Conferenza devono essere bas
 
 La compagnia non sara' liberata dai propri obblighi finanziari derivanti dall'accordo di Conferenza ne' da qualsiasi obbligo verso i caricatori.
 
-##### Art. 5 - Disciplina interna
+#### Art. 5 - Disciplina interna
 
 Le Conferenze devono adottare e tenere aggiornata una lista indicativa che dovra' essere la piu' completa possibile di tutte le pratiche ritenute irregolari e/o delle infrazioni dell'accordo di Conferenza e devono istituire idonei strumenti di disciplina interna applicabili a queste pratiche con specifiche disposizioni che prevedano:
 
@@ -214,13 +210,13 @@ c) che le competenti autorita' dei paesi il cui traffico e' servito dalla Confer
 
 2\) Le compagnie di navigazione e le Conferenze hanno dirtto alla piena cooperazione dei caricatori e delle organizzazioni di caricatori, nella lotta alle irregolarita' ed alle infrazioni.
 
-##### Art. 6 - Accordi di Conferenza
+#### Art. 6 - Accordi di Conferenza
 
 Tutti gli accordi di Conferenza, di pool, e accordi sui diritti di approdo e di partenza, cosi' come gli emendamenti e gli altri documenti direttamente ad essi riferentisi e che possono influire su di essi, saranno, a richiesta, messi a disposizione delle autorita' competenti dei paesi i cui traffici sono serviti dalla Conferenza e dei paesi le cui compagnie di navigazione sono membri della Conferenza.
 
 ## Cap. III - RAPPORTI CON I CARICATORI
 
-##### Art. 7 - Accordi di fedelta'
+#### Art. 7 - Accordi di fedelta'
 
 1\) Le compagnie di navigazione conferenziate hanno il diritto di concludere ed applicare accordi di fedelta' con i caricatori nella forma e nei termini che saranno stabiliti a mezzo di consultazione tra la Conferenza e le organizzazioni di caricatori o rappresentanti di caricatori. Questi accordi di fedelta' devono contenere delle garanzie, prevedendo esplicitamente i diritti dei caricatori e dei membri della Conferenza. Essi sono basati sul sistema contrattuale o su qualsiasi altro sistema egualmente legittimo.
 
@@ -252,23 +248,23 @@ d) l'accordo di fedelta' dovra' contenere:
 
 4\) In caso di controversia tra una Conferenza e una organizzazione di caricatori e/o di caricatori sulla forma e sul contenuto di un progetto di accordo di fedelta', ciascuna delle due parti puo'' far risolvere la controversia in conformita' delle procedure appropriate stabilite in questo Codice.
 
-##### Art. 8 - Deroghe
+#### Art. 8 - Deroghe
 
 1\) Le Conferenze disporranno, nel quadro degli accordi di fedelta', che le richieste di deroga dei caricatori siano esaminate e che una decisione sia presa rapidamente, dando, se richiesto, per iscritto le ragioni del rifiuto quando la deroga e' rifiutata. Se una Conferenza dovesse mancare di confermare entro un periodo specificato nell'accordo di fedelta' lo spazio sufficiente per imbarcare la merce di un caricatore entro un periodo anche specificato nell'accordo di fedelta', il caricatore avra' diritto, senza essere penalizzato, di utilizzare qualsiasi altra nave per il carico in questione.
 
 2\) Nei porti dove i servizi della Conferenza sono condizionati al raggiungimento di un determinato minimo di carico, sia che la compagnia di navigazione non faccia scalo malgrado sia stato dato debito preavviso da parte dei caricatori, sia che la suddetta compagnia non risponda entro il termine convenuto al preavviso dei caricatori, questi avranno automaticamente diritto,senza pregiudizio per il loro stato di fedelta', di usare qualsiasi nave disponibile per il trasporto delle loro merci.
 
-##### art. 9
+#### art. 9
 
 Art. 9 - Pubblicazione dei tariffari, delle condizioni e/o dei regolamenti relativi.
 
 I tariffari, le condizioni relative, i regolamenti e qualsiasi emendamento ad essi introdotto sono messi, su loro richiesta, a disposizione dei caricatori, organizzazioni di caricatori e delle altre parti interessate a un costo ragionevole e potranno essere consultati negli uffici delle compagnie e dei loro agenti. Essi devono contenere tutte le condizioni concernenti l'applicazione dei tassi di nolo e il trasporto di qualsiasi carico coperto da essi.
 
-##### Art. 10 - Rapporti annuali
+#### Art. 10 - Rapporti annuali
 
 Le Conferenze forniranno annualmente alle organizzazioni di caricatori e ai rappresentanti dei caricatori dei rapporti sulle loro attivita', per fornire informazioni di carattere generale su ogni questione di loro interesse, incluse specifiche informazioni sulle consultazioni condotte con i caricatori e le loro organizzazioni, sul seguito dato ai reclami, sui mutamenti nella composizione della Conferenza, e sui cambiamenti significativi nei servizi, nelle tariffe e nelle condizioni di trasporto. Tali rapporti annuali saranno trasmessi, a richiesta, alle autorita' competenti dei paesi il cui traffico e' servito dalla Conferenza interessata.
 
-##### Art. 11 - Meccanismo di consultazione
+#### Art. 11 - Meccanismo di consultazione
 
 1\) Sulle questioni di comune interesse devono aver luogo consultazioni tra la Conferenza, le organizzazioni di caricatori, i rappresentanti dei caricatori e, per quanto possibile, i caricatori che l'autorita' competente puo'' designare a tale scopo, se lo ritiene opportuno. Tali consultazioni avranno luogo tutte le volte che ne giunga richiesta da una qualsiasi delle parti sunnominate.
 
@@ -310,7 +306,7 @@ d) adeguatezza e qualita' dei servizi di trasporto marittimo, compresa l'influen
 
 ## Cap. IV - TASSI DI NOLO
 
-##### art. 12
+#### art. 12
 
 Art. 12 - Criteri per la determinazione dei tassi di nolo.
 
@@ -324,7 +320,7 @@ Nel determinare i noli, si terra' anche conto, tra gli altri fattori, della natu
 
 c) nel fissare tassi promozionali e/o tassi speciali di nolo per determinare merci, saranno prese in considerazione le condizioni di mercato di queste merci nei paesi serviti dalla Conferenza, particolarmente se in via di sviluppo e senza sbocchi sul mare.
 
-##### art. 13
+#### art. 13
 
 Art. 13 - Tariffe conferenziali e classificazione dei tassi di nolo.
 
@@ -332,7 +328,7 @@ Art. 13 - Tariffe conferenziali e classificazione dei tassi di nolo.
 
 2\) Le tariffe conferenziali dovrebbero essere redatte in termini semplici e chiari indicando il numero piu' limitato possibile di classi o categorie in relazione alle particolari esigenze dei traffici, e specificando un tasso di nolo per ogni merce e, quando conveniente, per ogni classe o categorie di merce. Esse dovrebbero anche indicare, per quanto possibile al fine di facilitare rilevazioni ad analisi statistiche, il numero di codice corrispondente al prodotto nella classificazione Standard del Commercio Internazionale, alla nomenclatura doganale di Bruxelles, oppure ad ogni altra nomenclatura adottata in sede internazionale. La classificazione delle merci nei tariffari dovrebbe essere preparata, per quanto possibile, in collaborazione con le organizzazioni dei caricatori o con altre organizzazioni nazionali o internazionali interessate.
 
-##### art. 14
+#### art. 14
 
 Art. 14 - Aumenti generali dei tassi di nolo.
 
@@ -358,7 +354,7 @@ Le consultazioni avranno per oggetto i motivi e l'ammontare dell'aumento previst
 
 9\) Le Conferenze dovrebbero prevedere che ogni aumento generale dei tassi di nolo divenuto valido a termini del presente Codice e' applicabile per un periodo prestabilito di durata minima, tenendo in ogni caso conto delle norme riguardanti i soprannoli e gli aggiustamenti dei tassi conseguenti a fluttuazioni dei tassi di cambio. La durata di applicazione di un aumento generale dei tassi e' specifica materia da considerare nel corso delle consultazioni condotte a termine del par. 2) del presente articolo, ma, salvo che non sia diversamente stabilito tra le parti interessate durante le consultazioni, il periodo minimo di tempo fra la data alla quale un aumento generale dei tassi di nolo diventa effettivo e la data di preavviso per il seguente aumento generale, indicata a termini del par. 1) del presente articolo, non dovra' essere inferiore a 10 mesi.
 
-##### Art. 15 - Tassi di nolo promozionali
+#### Art. 15 - Tassi di nolo promozionali
 
 1\) Le Conferenze dovrebbero introdurre tassi di nolo promozionali per esportazioni non tradizionali.
 
@@ -378,7 +374,7 @@ Una chiara distinzione sara' fatta tra queste e le procedure generali per vaglia
 
 8\) Le singole compagnie di navigazione associate che servono gli specifici porti conferenziati dovranno accettare e non rifiutare irragionevolmente il trasporto di una adeguata quantita' di merci per la quale sia stato stabilito un tasso promozionale.
 
-##### Art. 16 Sopprannoli
+#### Art. 16 Sopprannoli
 
 1\) I soprannoli imposti da una Conferenza per coprire aumenti di costi o perdite di introiti improvvisi o straordinari saranno considerati temporanei. Essi saranno ridotti in concomitanza con il miglioramento della situazione e delle circostanze che ne imposero l'adozione e saranno soppressi, fermo restando il paragrafo 6) del presente articolo, non appena la situazione o le circostanze che ne imposero l'azione saranno cessate. Questo dovra' essere indicato al momento della loro imposizione, insieme, per quanto possibile, con la descrizione del mutamento della situazione o delle circostanze che comporteranno l'aumento, la riduzione o la soppressione del soprannolo.
 
@@ -392,7 +388,7 @@ Una chiara distinzione sara' fatta tra queste e le procedure generali per vaglia
 
 6\) Le perdite sostenute dalle compagnie di navigazione associate a seguito di ritardi derivanti da consultazioni e/o altre procedure destinate a risolvere controversie per l'imposizione dei soprannoli a termini del presente Codice, in relazione alla data alla quale il soprannolo avrebbe dovuto essere imposto secondo il preavviso dato a norma del par. 3) del presente articolo, possono essere compensati con un prolungamento equivalente della durata dell'applicazione del soprannolo prima della sua soppressione. Inversamente, per un soprannolo imposto dalla Conferenza e successivamente giudicato di comune accordo ingiustificato o eccessivo in seguito alle consultazioni o alle altre procedure prescritte nel presente Codice, le somme riscosse o la parte in eccesso come sopra determinata, sono restituite, su richiesta, alle parti interessate, entro un periodo di 30 giorni da tale richiesta, a meno che non sia diversamente convenuto.
 
-##### Art. 17 Variazioni dei cambi
+#### Art. 17 Variazioni dei cambi
 
 1\) Le variazioni dei cambi e le rivalutazioni ufficiali che comportino variazioni nel complesso dei costi e/o introiti globali di esercizio delle compagnie di navigazione conferenziate per le loro attivita' nell'ambito conferenziale, offrono ragioni valide per introdurre un coefficiente di aggiustamente monetario o di variazione dei tassi di nolo. Tali aggiustamenti o variazioni devono essere di entita' tale da non comportare, per quanto possibile, per le compagnie conferenziate - nell'insieme - ne' guadagno, ne' perdita.
 
@@ -408,11 +404,11 @@ L'aggiornamento o la variazione puo' prendere la forma di sovrannoli, di sconti 
 
 ## Cap. V - ALTRE QUESTIONI
 
-##### Art. 18 - Navi disturbo
+#### Art. 18 - Navi disturbo
 
 I membri di una Conferenza non useranno nel traffico servito dalla Conferenza navi disturbo per escludere, impedire o ridurre la concorrenza forzando una Compagnia di navigazione non associata alla Conferenza a ritirarsi dal traffico.
 
-##### Art. 19 - Adeguatezza dei servizi
+#### Art. 19 - Adeguatezza dei servizi
 
 1\) Le Conferenze dovrebbero adottare le misure necessarie ed appropriate affinche' le compagnie loro associate assicurino un servizio regolare, adeguato ed efficiente con la frequenza richiesta sulle rotte che esse servono e organizzano tali servizi in modo tale da evitare, per quanto possibile, partenze troppo ravvicinate o troppo distanziate. Le Conferenze dovranno anche prendere in considerazione qualsiasi misura speciale che sia necessaria per organizzare i servizi in modo da far fronte a variazioni stagionali di traffico.
 
@@ -420,25 +416,23 @@ I membri di una Conferenza non useranno nel traffico servito dalla Conferenza na
 
 3\) Nei porti che sono serviti dalle Conferenze soltanto a condizione che il carico raggiunga una consistenza minima determinata, detto "minimo di carico" dovra' essere specificato nelle tariffe. I caricatori dovrebbero dare un preavviso adeguato circa la disponibilita' di tale carico.
 
-##### Art. 20 - Sede della Conferenza
+#### Art. 20 - Sede della Conferenza
 
 La Conferenza dovra' normalmente stabilire la sua sede principale in un paese il cui traffico e' servito dalla Conferenza a meno che sia concordato diversamente dalle compagnie di navigazione conferenziate.
 
-##### Art. 21 - Rappresentanze
+#### Art. 21 - Rappresentanze
 
 Le Conferenze stabiliscono rappresentanze locali in tutti i paesi serviti eccettuati quelli dove esistano ragioni pratiche per una rappresentanza su base regionale. I nomi e gli indirizzi dei rappresentanti saranno prontamente disponibili e questi rappresentanti assicureranno che i rispettivi punti di vista dei caricatori e delle Conferenze siano fatti rapidamente conoscere a ciascuno al fine di raggiungere pronte decisioni. Quando la Conferenza lo considera conveniente, fornira' una adeguata delega di poteri decisionali ai suoi rappresentanti.
 
-##### art. 22
+#### art. 22
 
 Art. 22 - Contenuto degli accordi conferenziali, di partecipazione al traffico di fedelta'.
 
 Gli accordi conferenziali, gli accordi di partecipazione al traffico e di fedelta' devono essere conformi alle norme pertinenti del presente Codice e posssono comprendere ogni altra norma eventualmente convenuta, che non sia incompatibile con il presente Codice.
 
-## Parte seconda - Cap. VI
+## Parte seconda - Cap. VI Norme e procedure per la soluzione delle controversie A. Disposizioni generali
 
-### Norme e procedure per la soluzione delle controversie - A. Disposizioni generali
-
-##### Art. 23
+#### Art. 23
 
 1\) - Le norme del presente articolo si applicheranno ogni qualvolta si abbia una controversia sull'applicazione e sulla esecuzione delle disposizioni del presente Codice fra le seguenti parti:
 
@@ -476,7 +470,7 @@ h) partecipazione al traffico;
 
 i) forma e contenuto di nuovi accordi di fedelta' che non siano state risolte attraverso scambi di vedute o negoziati diretti fra le parti, sono a richiesta di una delle parti deferite alla conciliazione internazionale obbligatoria secondo le norme stabilite nel presente capitolo.
 
-##### art. 24
+#### art. 24
 
 Art. 24 - La procedura di conciliazione e' iniziata su richiesta di una delle parti alla controversia
 
@@ -502,7 +496,7 @@ d) per le controversie relative alle variazioni dei tassi di nolo o all'imposizi
 
 7\) Qualora non vi sia stata alcuna richiesta entro i termini di tempo fissati nei par. 2) o 5) del presente articolo, la decisione della Conferenza sara' definitiva e nessuna delle parti in causa potra' iniziare un procedimento invocando le norme del presente capitolo, per modificare le decisioni.
 
-##### Art. 25
+#### Art. 25
 
 1\) Quando le parti abbiano concordato che le controversie di cui all'art. 23, par. 4), lett. a), b), c), h), i) siano risolte con procedure diverse da quelle stabilite dal citato articolo, o si accordino su procedure per risolvere una controversia particolare insorta tra di loro, tali controversie sono, a richiesta di una qualsiasi delle parti, risolte in conformita' di tale intese.
 
@@ -510,7 +504,7 @@ d) per le controversie relative alle variazioni dei tassi di nolo o all'imposizi
 
 3\) Le procedure di conciliazione, una volta iniziate, hanno la precedenza sui rimedi offerti dalla legislazione nazionale. Se una parte invoca le norme di diritto internazionale per la risoluzione di una controversia alla quale il presente capitolo si applica, senza avere preventivamente esperito la procedura in esso prevista, il procedimento e' sospeso a richiesta del convenuto, e la controversia e' sottoposta alle procedure definite nel presente capitolo dalla Corte e dall'autorita' presso la quale siano state invocate le norme nazionali.
 
-##### Art. 26
+#### Art. 26
 
 1\) Le parti contraenti conferiranno alle Conferenze ed alle organizzazioni dei caricatori la capacita' necessaria per l'applicazione delle norme di questo capitolo. In particolare:
 
@@ -522,7 +516,7 @@ c) una notifica rivolta ad una Conferenza o ad una organizzazione di caricatori 
 
 2\) L'accettazione o il rifiuto di una raccomandazione dei conciliatori da parte di una Conferenza o di una organizzazione di caricatori sara' considerata come accettazione o rifiuto di detta raccomandazione da parte di ciascun membro della Conferenza o dell'organizzazione.
 
-##### Art. 27
+#### Art. 27
 
 A meno che le parti non concordino diversamento, i conciliatori possono decidere di formulare una raccomandazione basandosi su comunicazioni scritte, senza procedura orale.
 
@@ -530,17 +524,17 @@ A meno che le parti non concordino diversamento, i conciliatori possono decidere
 
 B - Conciliazione obbligatoria internazionale
 
-##### Art. 28
+#### Art. 28
 
 Nella conciliazione obbligatoria internazionale le autorita' competenti di una parte contraente potranno, a loro richiesta, partecipare alle procedure di conciliazione a sostegno di una parte che ne abbia la nazionalita' o che abbia una controversia riguardante il commercio estero della detta parte contraente. Le Autorita' competenti possono anche partecipare a detta procedura di conciliazione in qualita' di osservatori.
 
-##### Art. 29
+#### Art. 29
 
 1 - Nella conciliazione obbligatoria internazionale, il procedimento si terra' nel luogo concordato all'unanimita' delle parti o, in difetto di unanimita', nel luogo scelto dai conciliatori.
 
 2 - Nel fissare il luogo della procedura di conciliazione, le parti e i conciliatori terranno conto, tra l'altro, dei Paesi che sono strettamente interessati alla controversia, avendo riguardo al Paese della compagnia di navigazione interessata e, specialmente quando la controversia e' riferita al carico, al Paese da dove proviene il carico.
 
-##### Art. 30
+#### Art. 30
 
 1 - Ai fini del presente capitolo sara' costituito un ruolo internazionale di conciliatori, formato da esperti di chiara fama nel campo legale o dell'economia dei trasporti marittimi o del commercio estero e della finanza, i quali scelti dalle parti contraenti, dovranno svolgere il loro incarico in piena autonomia.
 
@@ -548,7 +542,7 @@ Nella conciliazione obbligatoria internazionale le autorita' competenti di una p
 
 3 - Il Segretario terra' il ruolo aggiornato e informera' regolamente le Parti contraenti della sua composizione.
 
-##### Art. 31
+#### Art. 31
 
 1- Scopo della riconciliazione e' di raggiungere un'amichevole soluzione della controversia a mezzo di raccomandazioni formulate da conciliatori indipendenti.
 
@@ -558,7 +552,7 @@ Nella conciliazione obbligatoria internazionale le autorita' competenti di una p
 
 4 - Salvo le norme dell'art. 25, par. 2), le Parti controvertenti possono in qualsiasi momento durante il procedimento di conciliazione accordarsi per ricorrere ad una diversa procedura per la soluzione della loro controversia. Le parti di una controversia che e' stata sottoposta ad una procedura diversa da quella prevista dal presente capitolo possono decidere di comune accordo di fare ricorso alla conciliazione obbligatoria internazionale.
 
-##### Art. 32
+#### Art. 32
 
 1 - La procedura di conciliazione sara' esperita da un solo conciliatore o da un numero dispari di conciliatori concordati o designati dalle Parti.
 
@@ -574,13 +568,13 @@ a) nessun membro del ruolo dei conciliatori che abbia la stessa nazionalita' di 
 
 b) ognuno dei due conciliatori nominati potra' escludere dal ruolo dei conciliatori un numero eguale di conciliatori sempre che ne rimangano almeno 30 eleggibili per estrazione a sorte.
 
-##### Art. 33
+#### Art. 33
 
 1 - Quando piu' Parti richiedono diversi procedimenti di conciliazione con la stessa Parte convenuta per una stessa materia o per materie strettamente collegate, il convenuto puo' chiedere di unificare le procedure.
 
 2 - La richiesta di unificazione dovra' essere esaminata e decisa a maggioranza dai Presidenti dei conciliatori gia' eletti. Nel caso di accoglimento della richiesta, i presidenti designeranno i conciliatori incaricati di esaminare i ricorsi unificati fra i conciliatori gia' nominati o sorteggiati purche' in numero dispari e a condizione che il primo conciliatore nominato da ciascuna delle Parti sia uno dei conciliatori incaricato di giudicare i ricorsi unificati.
 
-##### Art. 34
+#### Art. 34
 
 Nel caso che la procedura di riconciliazione sia stata gia' iniziata, qualsiasi Parte, che non sia l'autorita' competente citata nell'art. 28, puo'' intervenire nel procedimento:
 
@@ -588,7 +582,7 @@ a) come "Parte" se ha un interesse economico diretto nel caso;
 
 b) a sostegno di una delle Parti originarie, se ha un interesse economico indiretto; a meno che una delle Parti originarie non si opponga a tale intervento.
 
-##### Art. 35
+#### Art. 35
 
 1 - Le raccomandazioni dei conciliatori saranno fatte a termini del presente Codice.
 
@@ -600,11 +594,11 @@ b) a sostegno di una delle Parti originarie, se ha un interesse economico indire
 
 5 - I conciliatori possono raccomandare le misure correttive ed i risarcimenti previsti dalla legge applicabile alla controversia.
 
-##### Art. 36
+#### Art. 36
 
 Le raccomandazioni dei conciliatori saranno motivate.
 
-##### art. 37
+#### art. 37
 
 "Art. 37
 
@@ -620,13 +614,13 @@ Le raccomandazioni dei conciliatori saranno motivate.
 
 6 - Una parte puo'' subordinare la sua accettazione all'accettazione di tutte le Parti o di una qualsiasi delle altre Parti alla controversia.
 
-##### Art. 38
+#### Art. 38
 
 1 - Una raccomandazione costituisce la decisione finale di una controversia per le le Parti che l'accettano fatti salvi i limiti entro i quali essa non e' riconosciuta e messa in vigore a norma dell'art. 39.
 
 2 - Il termine "Raccomandazione" comprende l'interpretazione, la chiarificazione o la revisione della raccomandazione fatta dai Conciliatori prima dell'accettazione della raccomandazione.
 
-##### Art. 39
+#### Art. 39
 
 1 - Ciascuna delle Parti contraenti dovra' riconoscere una raccomandazione come vincolante fra le Parti che l'hanno accettata e, tranne che nei casi previsti dai par. 2) e 3) del presente articolo, dovra' fare eseguire, su richiesta di una delle Parti, tutte le obbligazioni stabilite nella raccomandazione come se si trattasse di sentenza definitiva di un Tribunale di quella Parte contraente.
 
@@ -642,7 +636,7 @@ d) la composizione del collegio dei Conciliatori, o la procedura della conciliaz
 
 3 - Una qualsiasi parte della raccomandazione non sara' resa esecutiva e riconosciuta valida se il Tribunale o ogni altra autorita' competente accerti che tale parte ricada in uno dei casi di cui ai commi del precedente part. 2) e possa essere separata dal resto della raccomandazione. Se tale parte non puo'' essere separata, tutta intera la raccomandazione non sara' ne' resa esecutiva ne' riconosciuta valida.
 
-##### Art. 40
+#### Art. 40
 
 1 - Ove una raccomandazione sia stata accettata da tutte le Parti, essa con le sue motivazioni puo'' essere resa pubblica con il consenso di tutte le Parti.
 
@@ -654,17 +648,17 @@ b) la Parte che ha accettato la raccomandazione puo' rendere pubblico il testo e
 
 3 - Quando una raccomandazione non e' stata accettata da nessuna delle Parti, puo'' essere resa pubblica insieme con i motivi, da ciascuna di esse, come puo'' essere reso pubblico il suo rifiuto, insieme con i motivi addotti.
 
-##### Art. 41
+#### Art. 41
 
 1 - I documenti e le dichiarazioni contenenti informazioni sui fatti forniti da una qualsiasi Parte ai Conciliatori potranno essere ressi pubblici a meno che una Parte o la maggioranza dei Conciliatori disponga diversamente.
 
 2 - Tali documenti ed informazioni forniti da una Parte possono essere dalla medesima presentati in appoggio al proprio caso nei procedimenti successivi insorgenti dalla stessa controversia e tra le stesse Parti.
 
-##### Art. 42
+#### Art. 42
 
 Se una raccomandazione non e' diventata vincolante per le Parti, nessuna considerazione o motivazione fornita dai Conciliatori e nessuna concessione o offerta fatta dalle Parti al fine delle procedure di conciliazione pregiudicheranno i diritti e gli obblighi legali di una qualsiasi delle Parti.
 
-##### Art. 43
+#### Art. 43
 
 1 - a) A meno che non sia diversamente convenuto le spese per i Conciliatori e quelle per il procedimento saranno divise in quote eguali fra le Parti al procedimento.
 
@@ -674,7 +668,7 @@ b) quando la procedura di conciliazione e' stata iniziata, i Conciliatori avrann
 
 3 - In deroga alle norme dei par. (1) e (2) precedenti, i Conciliatori, ove abbiano unanimemente deciso che una parte ha intentato un'azione vessatoria o senza alcun serio fondamento, possono porre a carico di quella parte il pagamento parziale o totale delle spese sostenute dalle altre parti nel procedimento. Tale decisione sara' definitiva e vincolanta per tutte le parti.
 
-##### Art. 44
+#### Art. 44
 
 1 - La mancata comparizione o la mancata presentazione di conclusione di una parte in qualsiasi stadio del procedimento non sara' intesa come riconoscimento delle pretese dell'altra. In tale caso, l'altra parte puo', a sua scelta, chiedere ai Consiliatori di concludere il procedimento o di risolvere le questioni ad essi presentate e formulare una raccomandazione in conformita' delle norme previste nel presente Codice.
 
@@ -684,7 +678,7 @@ b) quando la procedura di conciliazione e' stata iniziata, i Conciliatori avrann
 
 4 - Nel caso di un procedimento concluso a causa della mancata comparizione o di mancata conclusione di una delle Parti, i Conciliatori redigeranno un processo verbale nel quale constateranno la predetta mancanza.
 
-##### Art. 45
+#### Art. 45
 
 1 - I conciliatori seguiranno le norme procedurali stabilite nel presente Codice.
 
@@ -696,7 +690,7 @@ considerate "regole tipo" per guida dei Conciliatori. I Conciliatori possono, di
 
 5 - Il procedimento di conciliazione dovra' avere termine e la raccomandazione dei Conciliatori dovra' essere emessa non oltre sei mesi dalla data alla quale i conciliatori sono stati nominati salvo che nei casi di cui all'art. 23 par. (4), lettera e), f), g), per i quali saranno validi i termini disposti negli art. 14 par (1) e 16 par. (4). Tale periodo di sei mesi potra' essere prorogata per accordo delle parti.
 
-##### Art. 46
+#### Art. 46
 
 C. Meccanismo istituzionale
 
@@ -718,9 +712,9 @@ e) rendere disponibile informazioni di natura non riservata su casi conclusi di 
 
 f) tutte le altre funzioni attribuite al Segretario dagli artt. 26 par. (1), lett. c) e 30 par. (2) e (3).
 
-## CAPITOLO VII - CLAUSOLE FINALI
+### CAPITOLO VII - CLAUSOLE FINALI
 
-##### Art. 47
+#### Art. 47
 
 Esecuzione
 
@@ -728,7 +722,7 @@ Esecuzione
 
 2 - Ciascuna delle parti contraenti comunichera' il Segretario Generale delle Nazioni Unite, che ne sara' il depositario, il testo delle disposizioni legislative o degli altri provvedimenti da essa adottati allo scopo di dare esecuzione alla presente Convenzione.
 
-##### Art. 48
+#### Art. 48
 
 Firma, ratifica, accettazione, approvazione, adesione.
 
@@ -746,7 +740,7 @@ c) adesione.
 
 3 - La ratifica, l'accettazione, l'approvazione o l'adesione saranno effettuate a mezzo deposito di uno strumento a tal effetto presso l'Ufficio del depositario.
 
-##### Art. 49
+#### Art. 49
 
 Entrata in vigore.
 
@@ -764,7 +758,7 @@ a) parte della presente Convenzione emendata;
 
 b) parte della Convenzione non emendata nei confronti di qualsiasi altra parte della presente Convenzione non vincolante dall'emendamento.
 
-##### Art. 50
+#### Art. 50
 
 Denuncia.
 
@@ -772,7 +766,7 @@ Denuncia.
 
 2 - La denuncia sara' effettuata mediante notifica al depositario per iscritto, e avra' effetto un anno dopo la data di ricezione da parte del depositario o della scadenza di un periodo piu' lungo specificato nello strumento di denuncia.
 
-##### Art. 51
+#### Art. 51
 
 Emendamenti.
 
@@ -782,7 +776,7 @@ Emendamenti.
 
 3\) Se non e' stata comunicata alcuna obiezione, l'emendamento entrera' in vigore per tutte le Parti Contraenti sei mesi dopo che sia scaduto il periodo di 12 mesi di cui al paragrafo precedente.
 
-##### Art. 52 - Conferenza di revisione
+#### Art. 52 - Conferenza di revisione
 
 1\) Una Conferenza di revisione sara' convocata dal depositario 5 anni dopo che la presente Convenzione sara' entrata in vigore per riesaminare il funzionamento della Convenzione, in particolare alla luce della sua applicazione, e per studiare ed adottare gli emendamenti opportuni.
 
@@ -794,7 +788,7 @@ aventi titolo a partecipare alla conferenza di revisione, e dovra' sulla base de
 
 4\) Nonostante questo previsto nell'art.52 par. (1), se la presente Convenzione non sara' entrata in vigore entro cinque anni dalla data di adozione dell'atto finale della Conferenza dei Plenipotenziari delle Nazioni Unite su un Codice di condotta per le Conferenze marittime di linea, una Conferenza di revisione sara' convocata, su richiesta di un terzo degli Stati aventi titolo a diventare parti della Convenzione, dal Segretario Generale delle Nazioni Unite, con riserva di approvazione dell'Assemblea Generale, al fine di esaminare le norme del presente Codice e del suo Annesso e esaminare e adottare gli emendamenti opportuni.
 
-##### Art. 53 - Funzioni del Depositario
+#### Art. 53 - Funzioni del Depositario
 
 1\) Il depositario notifichera' agli Stati firmatari e aderenti:
 
@@ -814,11 +808,11 @@ g) l'entrata in vigore degli emendamenti ai sensi dell'art. 51 par. (3);
 
 2\) Il depositario adottera' anche le disposizioni che si renderanno necessarie per l'applicazione dell'art. 52.
 
-##### Art. 54 - Testi autentici - Deposito
+#### Art. 54 - Testi autentici - Deposito
 
 I testi originali della presente Convenzione nelle edizioni in Cinese, Inglese, Francese, Russo e Spagnolo sono egualmente autentici e saranno depositati presso il Segretario Generale delle Nazioni Unite.
 
-##### Annesso
+#### Annesso
 
 ANNESSO ALLA CONVENZIONE PER UN CODICE
 
@@ -962,7 +956,7 @@ Regola 13
 
 Le raccomandazioni dei conciliatori terranno conto anche di casi analoghi precedenti, ove cio' serva a facilitare una piu' uniforme attuazione del Codice e l'osservanza delle raccomandazioni dei conciliatori.
 
-##### Atto finale
+#### Atto finale
 
 ATTO FINALE DELLA CONFERENZA DI PLENIPOTENZIARI DELLE NAZIONI UNITE SU UN CODICE DI CONDOTTA DELLE CONFERENZE DI LINEA SVOLTASI PRESSO L'UFFICIO DELLE NAZIONI UNITE, A GINEVRA, DAL 12 NOVEMBRE AL 15 DICEMBRE 1973 E DALL'11 MARZO AL 6 APRILE 1974.
 

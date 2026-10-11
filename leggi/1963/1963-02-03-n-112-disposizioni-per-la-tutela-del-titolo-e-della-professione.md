@@ -26,13 +26,13 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Titolo professionale
 
 Il titolo di geologo spetta a coloro che, in possesso del titolo accademico valido per l'ammissione all'esame di Stato, per l'esercizio della professione di geologo, abbiano conseguito l'abilitazione all'esercizio di tale.
 
-### Art. 2
+## Art. 2
 
 Obbligatorieta' dell'iscrizione nell'albo
 
@@ -44,7 +44,7 @@ I pubblici impiegati ai quali sia invece consentito l'esercizio della libera pro
 
 Il geologo iscritto nell'albo ha la facolta' di esercitare la professione in tutto il territorio dello Stato.
 
-### Art. 3
+## Art. 3
 
 Oggetto della professione
 
@@ -70,13 +70,13 @@ i) le ricerche di carattere paleontologico, petrografico, mineralogico relative 
 
 L'elencazione, di cui al presente articolo non limita l'esercizio di ogni altra, attivita' professionale consentita ai geologi, iscritti all'albo, ne' pregiudica, quanto puo' formare oggetto dell'attivita' di altre categorie di professionisti, a norma di leggi e, di regolamenti.
 
-### Art. 4
+## Art. 4
 
 Albo ed elenco speciale dei geologi
 
 Il Consiglio nazionale dell'Ordine dei geologi provvede alla tenuta dell'albo e dell'elenco speciale e deve, almeno ogni due anni, curarne la revisione.
 
-### Art. 5
+## Art. 5
 
 Requisiti per l'iscrizione nell'albo e nell'elenco speciale
 
@@ -96,7 +96,7 @@ sensi del Titolo III, del decreto legislativo 9 novembre 2007, n. 206, costituis
 
 Al procedimento per l'iscrizione nell'albo si applica l'articolo 45, commi 4 e 5, del decreto legislativo di attuazione della direttiva 2006/123/CE.))
 
-### Art. 6
+## Art. 6
 
 Iscrizione all'albo di professori universitari e liberi docenti
 
@@ -104,19 +104,19 @@ All'albo professionale dei geologi possono essere iscritti, anche indipendenteme
 
 Possono altresi' essere iscritti i laureati in scienze naturali che abbiano esercitato attivita' di specialisti in campo paleontologico per almeno tre anni.
 
-### Art. 7
+## Art. 7
 
 Iscrizione dei cittadini italiani residenti all'estero
 
 I cittadini italiani residenti all'estero possono essere esonerati dal requisito per la iscrizione all'albo di cui alla lettera e) dell'articolo 5 qualora dimostrino di risiedere all'estero al servizio, in qualita' di geologi, di enti o imprese nazionali che operino fuori del territorio dello Stato.
 
-### Art. 8
+## Art. 8
 
 Ordine nazionale dei geologi
 
 Gli iscritti all'albo costituiscono l'Ordine nazionale dei geologici ed eleggono il Consiglio nazionale dell'Ordine.
 
-### Art. 9
+## Art. 9
 
 Attribuzione del Consiglio nazionale dell'Ordine il Consiglio nazionale dell'Ordine esercita le seguenti attribuzioni, oltre quelle demandategli da altre norme:
 
@@ -142,11 +142,11 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 26 marzo 2010, n. 59 ha disposto (con l'art. 58 comma 2) che nella presente legge "L'espressione: "Ministro per la grazia e la giustizia", ovunque ricorra, e' sostituita dalla seguente: "Ministro della giustizia""
 
-### Art. 10
+## Art. 10
 
 ((ARTICOLO ABROGATO DALLA L. 12 NOVEMBRE 1990, N. 339)).
 
-### Art. 11
+## Art. 11
 
 Scioglimento del Consiglio nazionale dell'Ordine
 
@@ -168,11 +168,11 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 26 marzo 2010, n. 59 ha disposto (con l'art. 58 comma 2) che nella presente legge "L'espressione: "Ministro per la grazia e la giustizia", ovunque ricorra, e' sostituita dalla seguente: "Ministro della giustizia""
 
-### Art. 12
+## Art. 12
 
 ((ARTICOLO ABROGATO DALLA L. 12 NOVEMBRE 1990, N. 339)).
 
-### Art. 13
+## Art. 13
 
 Vigilanza del Ministro di grazia e giustizia
 
@@ -186,7 +186,7 @@ Il D.Lgs. 26 marzo 2010, n. 59 ha disposto (con l'art. 58 comma 2) che nella pre
 
 ## DISPOSIZIONI TRANSITORIE
 
-### Art. 14
+## Art. 14
 
 Pratica professionale
 
@@ -194,7 +194,7 @@ Sino a quando non saranno emanate le disposizioni sull'esame di Stato, il requis
 
 Laureati in ingegneria scienze naturali, fisica e chimica Nella prima attuazione della presente legge possono essere iscritti all'albo i laureati in ingegneria, in scienze naturali, in fisica, i quali dimostrano di avere esercitato effettivamente come attivita' esclusiva o almeno prevalente per almeno 5 anni l'attivita' che forma oggetto della professione di geologo e presentino domanda di iscrizione all'albo entro il termine perentorio di un anno dell'entrata in vigore della presente legge
 
-### Art. 15
+## Art. 15
 
 Con decreto del Capo dello Stato saranno emanate entro un anno le norme regolamentari per l'attuazione della presente legge
 

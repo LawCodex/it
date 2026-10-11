@@ -25,15 +25,15 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 1.Il Presidente della Repubblica e' autorizzato a ratificare la convenzione n. 108 sulla protezione delle persone rispetto al trattamento automatizzato di dati di carattere personale, adottata a Strasburgo il 28 gennaio 1981.
 
-#### Art. 2
+### Art. 2
 
 1\. Piena ed intera esecuzione e' data alla convenzione di cui all'articolo 1 a decorrere dalla sua entrata in vigore in conformita' a quanto disposto dall'articolo 22 della convenzione stessa.
 
-#### Art. 3
+### Art. 3
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -55,15 +55,13 @@ Visto, il Guardasigilli: VASSALLI
 
 ## Allegati
 
-#### Convention
+### Convention
 
 Convention
 
 Parte di provvedimento in formato grafico
 
-## CAPITOLO I
-
-### DISPOSIZIONI GENERALI
+## CAPITOLO I - DISPOSIZIONI GENERALI
 
 TRADUZIONI NON UFFICIALE
 
@@ -85,13 +83,13 @@ Riconoscendo la necessita' di conciliare i valori fondamentali del rispetto dell
 
 Hanno convenuto quanto segue:
 
-#### Articolo 1
+### Articolo 1
 
 Oggetto e scopo
 
 Scopo della presente convenzione e' quello di garantire, sul territorio di ogni Parte, ad ogni persona fisica, qualunque siano la sua cittadinanza o residenza, il rispetto dei diritti e delle liberta' fondamentali, ed in particolare del diritto alla vita privata, nei confronti dell'elaborazione automatizzata dei dati di carattere personale che la riguardano ("protezione dei dati").
 
-#### Articolo 2
+### Articolo 2
 
 Definizioni
 
@@ -109,7 +107,7 @@ estrazione o diffusione
 
 d. "responsabile del casellario" significa: la persona fisica o giuridica, l'autorita' pubblica, l'ente o altro organismo competente, secondo il diritto nazionale, a decidere quale debba essere la finalita' del casellario automatizzato, quali categorie di dati a carattere personale debbano essere registrati e quali operazioni siano ad essi applicabili.
 
-#### Articolo 3
+### Articolo 3
 
 Campo di applicazione
 
@@ -135,11 +133,9 @@ c. che applichera' le presente convenzione anche ai casellari di dati a caratter
 
 6\. Le dichiarazioni di cui al paragrafo 2 del presente articolo avranno effetto dal momento dell'entrata in vigore della convenzione nei confronti dello Stato che le ha formulate, se detto Stato le ha espresse al momento della firma o del deposito del suo strumento di ratifica, di accettazione, di approvazione e di adesione, ovvero tre mesi dopo che queste siano state ricevute dal Segretario Generale del Consiglio d'Europa nel caso in cui siano state formulate in un momento successivo. Dette dichiarazioni potranno essere ritirate in tutto o in parte con notifica rivolta al Segretario Generale del Consiglio di Europa. Il ritiro avra' effetto tre mesi dopo la data di ricevimento di una notifica di tal genere.
 
-## CAPITOLO II
+## CAPITOLO II - PRINCIPI FONDAMENTALI PER LA PROTEZIONE DEI DATI
 
-### PRINCIPI FONDAMENTALI PER LA PROTEZIONE DEI DATI
-
-#### Articolo 4
+### Articolo 4
 
 Obbligo delle Parti
 
@@ -147,7 +143,7 @@ Obbligo delle Parti
 
 2\. Dette misure debbono essere adottate al piu' tardi al momento dell'entrata in vigore della presente convenzione nei suoi confronti.
 
-#### Articolo 5
+### Articolo 5
 
 Qualita' dei dati
 
@@ -165,19 +161,19 @@ d. esatti e, se necessario, aggiornati;
 
 e. conservati in una forma che consenta l'identificazione delle persone interessate per una durata non superiore a quella necessaria ai fini per i quali sono registrati.
 
-#### Articolo 6
+### Articolo 6
 
 Categorie speciali di dati
 
 I dati di carattere personale indicanti l'origine razziale, le opinioni politiche, le convinzioni religiose o altri credo, nonche' i dati a carattere personale relativi allo stato di salute ed alla vita sessuale, non possono essere elaborati automaticamente a meno che il diritto interno non preveda garanzie adatte. Lo stesso dicasi dei dati di carattere personale relativi alle condanne penali.
 
-#### Articolo 7
+### Articolo 7
 
 Sicurezza dei dati
 
 Adeguate misure di sicurezza vengono adottate per la protezione di dati di carattere personale registrati nei casellari automatizzati contro la distribuzione accidentale o non autorizzata, ovvero la perdita accidentale cosi' come contro l'accesso ai dati, la modifica o la diffusione non autorizzate.
 
-#### Articolo 8
+### Articolo 8
 
 Ulteriori garanzie per la persona interessata
 
@@ -195,7 +191,7 @@ d. di disporre di una possibilita' di ricorso qualora non venga dato seguito ad 
 
 del presente articolo.
 
-#### Articolo 9
+### Articolo 9
 
 Eccezioni e restrizioni
 
@@ -209,23 +205,21 @@ b. alla protezione della persona interessata e dei diritti e delle liberta' altr
 
 3\. Restrizioni all'esercizio dei diritti di cui ai paragrafi b. c. e d. dell'articolo 8 possono essere previste dalla legge per i casellari automatizzati di dati di carattere personale impiegati a fini statistici o per ricerche scientifiche, laddove non esista manifestamente il rischio di violare la vita privata delle persone interessate.
 
-#### Articolo 10
+### Articolo 10
 
 Sanzioni e ricorsi
 
 Ogni Parte si impegna a fissare sanzioni e ricorsi adeguati relativi alle violazioni alle disposizioni del diritto interno di esecuzione dei principi fondamentali per la protezione dei dati enunciati nel presente capitolo.
 
-#### Articolo 11
+### Articolo 11
 
 Estensione della protezione
 
 Nessuna disposizione del presente capitolo verra' interpretata come limitante o pregiudicante la facolta' di ogni Parte di accordare alle persone interessate una protezione piu' estesa di quella prevista dalla presente Convenzione.
 
-## CAPITOLO III
+## CAPITOLO III - MOVIMENTO DI DATI OLTRE FRONTIERA
 
-### MOVIMENTO DI DATI OLTRE FRONTIERA
-
-#### Articolo 12
+### Articolo 12
 
 Movimento oltre frontiera di dati a carattere personale e diritto
 
@@ -241,11 +235,9 @@ a. nella misura in cui la sua legislazione prevede una regolamentazione specific
 
 b. se il trasferimento e' effettuato a partire dal proprio territorio verso il territorio di uno Stato non contraente tramite il territorio di un'altra Parte, al fine di evitare che simili trasferimenti si traducano in un aggiramento della legislazione della Parte di cui all'inizio del presente paragrafo.
 
-## CAPITOLO IV
+## CAPITOLO IV - ASSISTENZA RECIPROCA
 
-### ASSISTENZA RECIPROCA
-
-#### Articolo 13
+### Articolo 13
 
 Cooperazione tra le Parti
 
@@ -265,7 +257,7 @@ amministrativa in materia di protezione dati
 
 b. adottera', conformemente al suo diritto interno ed ai soli fini della protezione della vita privata, tutte le misure adeguate per fornire informazioni di fatto relative ad una data elaborazione effettuata sul suo territorio, ad eccezione tuttavia dei dati di carattere personale oggetto di tale elaborazione.
 
-#### Articolo 14
+### Articolo 14
 
 Assistenza alle persone interessate residenti all'estero.
 
@@ -285,7 +277,7 @@ domanda si riferisce o il responsabile di tale casellario
 
 c. lo scopo della domanda.
 
-#### Articolo 15
+### Articolo 15
 
 Garanzie relative all'assistenza prestata dalle Autorita' designate 1. Una autorita' designata da una Parte che ha ricevuto alcune informazioni da un'autorita' designata da un'altra Parte, a corredo di una domanda di assistenza o in risposta ad una domanda di assistenza inoltrata da essa stessa, non potra' far uso di tali informazioni per fini diversi da quelli specificati nella domanda di assistenza.
 
@@ -293,7 +285,7 @@ Garanzie relative all'assistenza prestata dalle Autorita' designate 1. Una autor
 
 3\. In nessun caso una autorita' designata sara' autorizzata a presentare, ai sensi dell'articolo 14, paragrafo 2, una domanda di assistenza in nome di una persona interessata che sia residente all'estero, di sua propria iniziativa e senza il consenso espresso di detta persona.
 
-#### Articolo 16
+### Articolo 16
 
 Rigetto delle domande di assistenza
 
@@ -311,7 +303,7 @@ Convenzione
 
 c. il dar seguito alla domanda sarebbe incompatibile con la sovranita', la sicurezza o l'ordine pubblico della Parte che l'ha designata, o con i diritti e le liberta' fondamentali delle persone che ricadono sotto la giurisdizione di tale Parte.
 
-#### Articolo 17
+### Articolo 17
 
 Spese e procedure di assistenza
 
@@ -321,11 +313,9 @@ Spese e procedure di assistenza
 
 3\. Le altre modalita' relative all'assistenza concernenti in particolare la forma e le procedure nonche' le lingue da impiegare saranno stabilite direttamente tra le Parti interessate.
 
-## CAPITOLO V
+## CAPITOLO V - COMITATO CONSULTIVO
 
-### COMITATO CONSULTIVO
-
-#### Articolo 18
+### Articolo 18
 
 Composizione del Comitato
 
@@ -335,7 +325,7 @@ Composizione del Comitato
 
 3\. Il Comitato consultivo puo', con decisione presa all'unanimita', invitare ogni Stato membro del Consiglio d'Europa che non sia Parte alla convenzione a farsi rappresentare da un osservatore ad una delle sue riunioni.
 
-#### Articolo 19
+### Articolo 19
 
 Funzioni del Comitato
 
@@ -355,7 +345,7 @@ paragrafo 3
 
 d. puo', dietro domanda di una Parte, esprimere un parere su ogni questione relativa all'applicazione della presente Convenzione.
 
-#### Articolo 2O
+### Articolo 2O
 
 Procedura
 
@@ -367,11 +357,9 @@ Procedura
 
 4\. Fatte salve le disposizioni della presente convenzione, il Comitato consultivo redige il suo regolamento interno.
 
-## CAPITOLO VI
+## CAPITOLO VI - EMENDAMENTI
 
-### EMENDAMENTI
-
-#### Articolo 21
+### Articolo 21
 
 Emendamenti
 
@@ -387,11 +375,9 @@ Emendamenti
 
 6\. Ogni emendamento approvato conformemente al paragrafo 4 del presente articolo entrera' in vigore trenta giorni dopo che tutte le Parti abbiano informato il Segretario Generale circa la loro approvazione dello stesso.
 
-## CAPITOLO VII
+## CAPITOLO VII - CLAUSOLE FINALI
 
-### CLAUSOLE FINALI
-
-#### Articolo 22
+### Articolo 22
 
 Entrata in vigore
 
@@ -401,7 +387,7 @@ Entrata in vigore
 
 3\. Per ogni Stato membro che esprimera' il proprio assenso ad essere vincolato dalla convenzione, successivamente essa entrera' in vigore il primo giorno del mese successivo allo scadere del termine di tre mesi dalla data del deposito dello strumento di ratifica, di accettazione o di approvazione.
 
-#### Articolo 23
+### Articolo 23
 
 Adesione di Stati non membri
 
@@ -409,7 +395,7 @@ Adesione di Stati non membri
 
 2\. Per ogni Stato aderente, la convenzione entrera' in vigore il primo giorno del mese successivo allo scadere del periodo di tre mesi dalla data del deposito dello strumento di adesione presso il Segretario Generale del Consiglio d'Europa.
 
-#### Articolo 24
+### Articolo 24
 
 Clausola territoriale
 
@@ -419,13 +405,13 @@ Clausola territoriale
 
 3\. Ogni dichiarazione fatta conformemente ai due paragrafi precedenti potra' essere ritirata, per quel che concerne ogni territorio in essa indicato, con notifica rivolta al Segretario Generale. Il ritiro avra' effetto il primo giorno del mese successivo allo scadere del periodo di sei mesi dalla data di ricevimento della notifica da parte del Segretario Generale.
 
-#### Articolo 25
+### Articolo 25
 
 Riserve
 
 Non sono ammesse riserve alle disposizioni della presente convenzione.
 
-#### Articolo 26
+### Articolo 26
 
 Denuncia
 
@@ -433,7 +419,7 @@ Denuncia
 
 2\. La denuncia prende effetto il primo giorno del mese successivo allo scadere del termine di sei mesi dalla data di ricevimento della notifica da parte del Segretario Generale.
 
-#### Articolo 27
+### Articolo 27
 
 Notifiche
 

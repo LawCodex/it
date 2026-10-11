@@ -66,11 +66,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - DISPOSIZIONI GENERALI
 
-### DISPOSIZIONI GENERALI
-
-#### Art. 1
+### Art. 1
 
 Oggetto e ambito di applicazione
 
@@ -270,7 +268,7 @@ a) utilizzati o destinati a essere utilizzati nelle procedure, o appositamente a
 
 > \- Per il regolamento (CE) n. 1223/2009 del Parlamento europeo e del Consiglio del 30 novembre 2009, sui prodotti cosmetici, si veda nelle note alle premesse.
 
-#### Art. 2
+### Art. 2
 
 Fattispecie escluse dalla disciplina
 
@@ -288,7 +286,7 @@ e) alle pratiche utilizzate principalmente per l'identificazione di un animale;
 
 f) alle pratiche non suscettibili di causare dolore, sofferenza, distress o danno prolungato equivalente o superiore a quello provocato dall'inserimento di un ago secondo le buone prassi veterinarie.
 
-#### Art. 3
+### Art. 3
 
 Definizioni
 
@@ -324,7 +322,7 @@ p) distress, condizione di non adattamento dell'animale a stimoli stressanti;
 
 q) xenotrapianto, trapianto di uno o piu' organi effettuato tra animali di specie diverse.
 
-#### Art. 4
+### Art. 4
 
 Autorita' competenti
 
@@ -342,7 +340,7 @@ Autorita' competenti
 
 > \- Per la legge 24 novembre 1981, n. 689, e successive modificazioni, si veda nelle note alle premesse.
 
-#### Art. 5
+### Art. 5
 
 Finalita' delle procedure
 
@@ -382,7 +380,7 @@ e) ((LETTERA ABROGATA DAL D.L. 31 DICEMBRE 2025, N. 200));
 
 f) nel corso delle esercitazioni didattiche svolte nelle scuole primarie, secondarie e nei corsi universitari, ad eccezione della formazione universitaria in medicina veterinaria nonche' dell'alta formazione universitaria dei medici e dei medici veterinari.
 
-#### Art. 6
+### Art. 6
 
 Metodi di soppressione
 
@@ -406,11 +404,9 @@ b) se e' scientificamente provato che e' impossibile raggiungere lo scopo della 
 
 4\. Quando permangono condizioni di sofferenza insostenibili, si procede immediatamente alla soppressione dell'animale con metodi umanitari sotto la responsabilita' del medico veterinario designato di cui all'articolo 24. E' considerata sofferenza insostenibile quella che nella normale pratica veterinaria costituisce indicazione per l'eutanasia.
 
-## Capo II
+## Capo II - DISPOSIZIONI SULL'USO DI TALUNI ANIMALI NELLE PROCEDURE
 
-### DISPOSIZIONI SULL'USO DI TALUNI ANIMALI NELLE PROCEDURE
-
-#### Art. 7
+### Art. 7
 
 Specie minacciate di estinzione
 
@@ -428,13 +424,13 @@ b) e' scientificamente provato che e' impossibile raggiungere lo scopo della pro
 
 > \- Per il regolamento UE n. 750/2013 della Commissione del 29 luglio 2013, che modifica il regolamento (CE) n. 338/97 del Consiglio relativo alla protezione di specie della flora e della fauna selvatiche mediante il controllo del loro commercio, si veda in note alle premesse.
 
-#### Art. 8
+### Art. 8
 
 Primati non umani
 
 1\. Il Ministero puo' autorizzare, in via eccezionale, l'impiego di primati non umani di cui all'allegato I, quando e' scientificamente provato che e' impossibile raggiungere lo scopo della procedura utilizzando specie diverse dai primati non umani e nell'ambito delle procedure che perseguono uno degli scopi di cui all'articolo 5, comma 1, lettera a), quando condotta nell'interesse della salute dell'uomo o delle specie animali di cui al presente articolo ovvero lettera b), numero 1), relativamente alla profilassi, alla prevenzione, alla diagnosi o alla cura delle malattie, del cattivo stato di salute o di altre anomalie o dei loro effetti sugli esseri umani, ovvero lettera c) quando e' condotta allo scopo di evitare, prevenire, diagnosticare o curare affezioni umane debilitanti o potenzialmente letali ovvero lettera e).
 
-#### Art. 9
+### Art. 9
 
 Animali prelevati allo stato selvatico
 
@@ -446,7 +442,7 @@ Animali prelevati allo stato selvatico
 
 4\. Qualsiasi animale venga ritrovato ferito o in salute precaria o lo diventa dopo la cattura e' esaminato da un medico veterinario che adotta le misure necessarie per limitare il piu' possibile la sofferenza dell'animale.
 
-#### Art. 10
+### Art. 10
 
 Animali utilizzati nelle procedure
 
@@ -460,7 +456,7 @@ Animali utilizzati nelle procedure
 
 5\. E' vietato l'allevamento di cani, gatti e primati non umani per le finalita' di cui al presente decreto.
 
-#### Art. 11
+### Art. 11
 
 Animali randagi e selvatici
 
@@ -470,11 +466,9 @@ delle specie domestiche, cani, gatti
 
 2\. Il Ministero puo' autorizzare, in via eccezionale, l'impiego di cani e gatti di cui all'allegato I, nell'ambito delle procedure quando e' scientificamente provato che e' impossibile raggiungere lo scopo della procedura utilizzando specie diverse e nell'ambito delle procedure che perseguono uno degli scopi di cui all'articolo 5, comma 1, lettera a), quando condotta nell'interesse della salute dell'uomo o delle specie animali di cui al presente articolo ovvero lettera b), numero 1), relativamente alla profilassi, alla prevenzione, alla diagnosi o alla cura delle malattie, del cattivo stato di salute o di altre anomalie o dei loro effetti sugli esseri umani, ovvero lettera c) quando e' condotta allo scopo di evitare, prevenire, diagnosticare o curare affezioni umane debilitanti o potenzialmente letali, ovvero lettera e).
 
-## Capo III
+## Capo III - PROCEDURE
 
-### PROCEDURE
-
-#### Art. 12
+### Art. 12
 
 Procedure
 
@@ -484,7 +478,7 @@ Procedure
 
 3\. E' vietato eseguire sugli animali interventi che li rendono afoni e sono altresi' vietati il commercio, l'acquisto e l'uso di animali resi afoni.
 
-#### Art. 13
+### Art. 13
 
 Scelta dei metodi
 
@@ -510,7 +504,7 @@ a) comportare la morte del minor numero possibile di animali;
 
 b) ridurre al minimo la durata e l'intensita' della sofferenza dell'animale, garantendo per quanto possibile una morte senza dolore.
 
-#### Art. 14
+### Art. 14
 
 Anestesia
 
@@ -524,7 +518,7 @@ Anestesia
 
 5\. Al termine della procedura sono intraprese azioni appropriate allo scopo di ridurre al minimo la sofferenza dell'animale.
 
-#### Art. 15
+### Art. 15
 
 Classificazione della gravita' delle procedure
 
@@ -540,7 +534,7 @@ d) gravi.
 
 2\. Non sono autorizzabili procedure sugli animali che comportano dolori, sofferenze o distress intensi che possono protrarsi e non possono essere alleviati.
 
-#### Art. 16
+### Art. 16
 
 Riutilizzo degli animali impiegati nelle procedure
 
@@ -558,7 +552,7 @@ e) il veterinario designato di cui all'articolo 24, ha espresso parere positivo 
 
 2\. In deroga a quanto previsto dal comma 1, lettera a), il Ministero, previo parere favorevole del veterinario designato di cui al comma 1, lettera e), puo' eccezionalmente autorizzare il riutilizzo di un animale gia' impiegato in procedure classificate come gravi nelle procedure di cui al comma 1, lettera c), fino al 31 dicembre 2016 e, a decorrere dal 1° gennaio 2017, nelle procedure di cui al comma 1, lettera d).
 
-#### Art. 17
+### Art. 17
 
 Fine della procedura
 
@@ -566,13 +560,13 @@ Fine della procedura
 
 2\. Al termine della procedura o per qualsiasi eventuale interruzione della stessa il medico veterinario di cui all'articolo 24 decide se l'animale deve essere tenuto in vita o soppresso. Si procede comunque alla sua soppressione quando nell'animale permangono condizioni di dolore, sofferenza, distress o danno prolungato moderati o intensi. Qualora un animale debba essere mantenuto in vita, esso riceve la cura e la sistemazione adeguate alle sue condizioni di salute.
 
-#### Art. 18
+### Art. 18
 
 Condivisione di organi e tessuti
 
 1\. Al fine di ridurre il numero degli animali impiegati nelle procedure, il Ministero promuove la definizione di programmi, senza nuovi o maggiori oneri per la finanza pubblica, per la condivisione, tra gli utilizzatori interessati, di organi e tessuti di animali soppressi ai fini sperimentali.
 
-#### Art. 19
+### Art. 19
 
 Liberazione e reinserimento degli animali
 
@@ -588,11 +582,9 @@ d) e' stato predisposto un programma di reinserimento che assicura la socializza
 
 2\. Con decreto del Ministro, sono individuati i requisiti strutturali e gestionali per lo svolgimento delle attivita' di cui al comma 1.
 
-## Capo IV
+## Capo IV - AUTORIZZAZIONE - Requisiti per gli allevatori, i fornitori e gli utilizzatori
 
-### AUTORIZZAZIONE - Requisiti per gli allevatori, i fornitori e gli - utilizzatori
-
-#### Art. 20
+### Art. 20
 
 Autorizzazione degli allevatori, dei fornitori e degli utilizzatori
 
@@ -618,7 +610,7 @@ d) il medico veterinario di cui all'articolo 24.
 
 7\. Salvo diversa previsione dei singoli ordinamenti regionali, il comune tiene un elenco aggiornato degli stabilimenti di allevamento e di fornitura autorizzati e ne trasmette copia al Ministero e alla regione o provincia autonoma.
 
-#### Art. 21
+### Art. 21
 
 Sospensione e revoca dell'autorizzazione
 
@@ -626,7 +618,7 @@ Sospensione e revoca dell'autorizzazione
 
 2\. La sospensione o la revoca dell'autorizzazione non determinano conseguenze negative sul benessere degli animali alloggiati nello stabilimento.
 
-#### Art. 22
+### Art. 22
 
 Requisiti per impianti, attrezzature,
 
@@ -654,7 +646,7 @@ e) gli animali sono trasportati in condizioni appropriate tali da ridurre al min
 
 4\. Per motivi scientifici legati al benessere o alla salute degli animali, l'autorita' competente secondo gli ambiti di cui all'articolo 4 puo' rilasciare specifici provvedimenti di autorizzazione adottati ai sensi dell'articolo 20, commi 1 e 2, mediante disposizioni di deroga rispetto a quanto previsto dal comma 3, lettera a).
 
-#### Art. 23
+### Art. 23
 
 Disciplina del personale abilitato
 
@@ -678,13 +670,13 @@ b) la realizzazione dei progetti in conformita' all'autorizzazione concessa o, n
 
 4\. Il personale nell'espletamento delle funzioni di cui alle lettere a), c) o d) del comma 2, opera sotto la supervisione della persona responsabile del benessere, dell'assistenza degli animali e del funzionamento delle attrezzature di cui all'articolo 20, comma 4, lettera c), finche' non abbia dato prova del possesso delle competenze richieste.
 
-#### Art. 24
+### Art. 24
 
 Veterinario designato
 
 1\. Ciascun allevatore, fornitore o utilizzatore deve disporre di un medico veterinario designato, esperto in medicina degli animali da laboratorio, in possesso di requisiti di esperienza e di formazione specifica, che prescrive le modalita' per il benessere e il trattamento terapeutico degli animali.
 
-#### Art. 25
+### Art. 25
 
 Organismo preposto al benessere degli animali
 
@@ -696,7 +688,7 @@ Organismo preposto al benessere degli animali
 
 4\. Nel caso in cui uno stabilimento utilizzatore e' autorizzato anche come stabilimento allevatore o fornitore, i compiti di cui all'articolo 26 possono essere assolti mediante l'istituzione di un unico organismo preposto al benessere animale.
 
-#### Art. 26
+### Art. 26
 
 Compiti dell'organismo preposto
 
@@ -736,7 +728,7 @@ f) la valutazione del danno/beneficio.
 
 4\. L'organismo riporta in appositi registri, messi a disposizione dell'autorita' competente, le consulenze fornite e le relative decisioni e provvede alla loro conservazione per un periodo di almeno sei anni.
 
-#### Art. 27
+### Art. 27
 
 Registri degli animali
 
@@ -760,7 +752,7 @@ g) nel caso degli utilizzatori, le date di inizio e di termine delle procedure e
 
 3\. Il registro di cui al comma 1, aggiornato a cadenza settimanale, e' messo a disposizione dell'autorita' competente ed e' tenuto per un minimo di cinque anni.
 
-#### Art. 28
+### Art. 28
 
 Informazioni ulteriori su cani, gatti
 
@@ -782,7 +774,7 @@ d) per i primati non umani, se discendono da primati non umani nati in cattivita
 
 3\. Il fascicolo e' tenuto per un minimo di tre anni dalla morte dell'animale o dal suo reinserimento ed e' messo a disposizione dell'autorita' competente. In caso di reinserimento, le informazioni pertinenti sulle cure veterinarie e sulla situazione sociale tratte dal fascicolo accompagnano l'animale.
 
-#### Art. 29
+### Art. 29
 
 Marcatura e identificazione di cani,
 
@@ -798,7 +790,7 @@ a) l'allevatore, il fornitore o l'utilizzatore da cui proviene l'animale provved
 
 b) l'allevatore, il fornitore od l'utilizzatore che prende in consegna l'animale provvede, tenuto conto dello stato di salute dello stesso, alla marcatura non appena possibile e nel modo meno doloroso.
 
-#### Art. 30
+### Art. 30
 
 Attivita' ispettiva
 
@@ -822,7 +814,7 @@ d) per gli utilizzatori il numero e i tipi di progetti realizzati.
 
 6\. L'autorita' competente conserva per almeno cinque anni i verbali delle ispezioni effettuate.
 
-#### Art. 31
+### Art. 31
 
 Autorizzazione dei progetti
 
@@ -914,7 +906,7 @@ e) eventuali condizioni specifiche assunte in sede di valutazione del progetto, 
 
 16\. Nel caso di revoca dell'autorizzazione del progetto e' comunque garantito dal responsabile di cui all'articolo 3, comma 1, lettera g), il benessere degli animali utilizzati o destinati a essere utilizzati nel progetto.
 
-#### Art. 32
+### Art. 32
 
 Valutazione retrospettiva
 
@@ -932,7 +924,7 @@ c) gli elementi che possono contribuire a potenziare l'applicazione dei requisit
 
 4\. Al di fuori dei casi di cui al comma 3, il Ministero puo' esentare dalla valutazione retrospettiva i progetti che prevedono procedure classificate come «lievi» o «non risveglio».
 
-#### Art. 33
+### Art. 33
 
 Procedura amministrativa semplificata
 
@@ -970,7 +962,7 @@ d) non sono soggetti alla valutazione retrospettiva di cui all'articolo 32.
 
 > 5-bis.».
 
-#### Art. 34
+### Art. 34
 
 Sintesi non tecniche dei progetti
 
@@ -982,7 +974,7 @@ b) la dimostrazione della conformita' ai requisiti di sostituzione, riduzione e 
 
 2\. Il Ministero pubblica le sintesi non tecniche dei progetti e le eventuali relative revisioni entro tre mesi dal rilascio dell'autorizzazione di cui all'articolo 31.
 
-#### Art. 35
+### Art. 35
 
 Documentazione
 
@@ -990,17 +982,15 @@ Documentazione
 
 2\. La documentazione di cui al comma 1 e' comunque conservata sino al completamento della valutazione retrospettiva, ove prevista.
 
-## Capo V
+## Capo V - MISURE PER EVITARE DUPLICAZIONI E APPROCCI ALTERNATIVI
 
-### MISURE PER EVITARE DUPLICAZIONI E APPROCCI ALTERNATIVI
-
-#### Art. 36
+### Art. 36
 
 Misure per evitare duplicazioni di procedure
 
 1\. Al fine di evitare duplicazioni di procedure, il Ministero accetta i dati provenienti da altri Stati membri ottenuti da procedure riconosciute dall'Unione europea, a meno che non siano necessarie ulteriori integrazioni a fini di tutela della salute pubblica, la sicurezza e l'ambiente.
 
-#### Art. 37
+### Art. 37
 
 Approcci alternativi
 
@@ -1010,7 +1000,7 @@ Approcci alternativi
 
 3\. Gli studi di convalida di metodi alternativi sono effettuati da laboratori specializzati e qualificati individuati dalla Commissione europea in collaborazione con il Ministero.
 
-#### Art. 38
+### Art. 38
 
 Comitato nazionale per la protezione
 
@@ -1044,11 +1034,9 @@ f) un rappresentante del Centro di referenza per i metodi alternativi benessere 
 
 6\. I risultati dell'attivita' del Comitato sono pubblicati sul portale del Ministero.
 
-## Capo VI
+## Capo VI - DISPOSIZIONI FINALI
 
-### DISPOSIZIONI FINALI
-
-#### Art. 39
+### Art. 39
 
 Disposizioni di attuazione e relazioni
 
@@ -1074,7 +1062,7 @@ Disposizioni di attuazione e relazioni
 
 > \- Per il decreto del Ministro della sanita' 19 luglio 1993, si veda nelle note alle premesse.
 
-#### Art. 40
+### Art. 40
 
 Disciplina sanzionatoria ai sensi
 
@@ -1138,7 +1126,7 @@ della legge 6 agosto 2013, n. 96
 
 > \- Per la legge 24 novembre 1981, n. 689, e successive modificazioni, si veda nelle note alle premesse.
 
-#### Art. 41
+### Art. 41
 
 Disposizioni finanziarie
 
@@ -1164,7 +1152,7 @@ c-bis) con un importo annuale pari ad ((euro 2.000.000)) per ciascuno degli anni
 
 3\. Le spese relative alle ispezioni e ai controlli necessari per il rilascio delle autorizzazioni, ivi comprese le attivita' di cui all'articolo 33, previste dal presente decreto sono a carico del richiedente.
 
-#### Art. 42
+### Art. 42
 
 Disposizioni transitorie e finali
 
@@ -1224,7 +1212,7 @@ La L. 23 dicembre 2021, n. 238 ha disposto (con l'art. 33, comma 5) che "All'art
 
 ## Allegati
 
-#### Allegato I
+### Allegato I
 
 Allegato I
 
@@ -1254,7 +1242,7 @@ Elenco degli animali di cui all'articolo 10, comma 1
 
 12\. Pesce zebra (Danio rerio)
 
-#### Allegato II
+### Allegato II
 
 Allegato II
 
@@ -1293,7 +1281,7 @@ Elenco delle specie di primati non umani e delle date di cui all'articolo 10, co
 
 Le date riportate al presente allegato per le quali e' previsto uno studio di fattibilita' sono fissate e aggiornate attraverso atti delegati emanati dalla Commissione UE.
 
-#### Allegato III
+### Allegato III
 
 ((Allegato III
 
@@ -3129,7 +3117,7 @@ AGGIORNAMENTO (11))
 
 Il D.Lgs. 2 dicembre 2025, n. 183 ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 4 dicembre 2026.
 
-#### Allegato IV
+### Allegato IV
 
 ((Allegato IV
 
@@ -3207,7 +3195,7 @@ AGGIORNAMENTO (11)
 
 Il D.Lgs. 2 dicembre 2025, n. 183 ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 4 dicembre 2026.
 
-#### Allegato V
+### Allegato V
 
 Allegato V
 
@@ -3235,7 +3223,7 @@ Elenco degli elementi di cui all'articolo 23, comma 2
 
 11\. Concezione di procedure e progetti, se del caso.
 
-#### Allegato VI
+### Allegato VI
 
 Allegato VI
 
@@ -3243,7 +3231,7 @@ Schema per la presentazione di un progetto di ricerca ai sensi dell'articolo 31
 
 Parte di provvedimento in formato grafico
 
-#### Allegato VII
+### Allegato VII
 
 Allegato VII
 
@@ -3405,7 +3393,7 @@ l) stress da immobilizzazione per indurre ulcere gastriche o insufficienze cardi
 
 m) nuoto forzato o altri esercizi in cui il punto finale e' l'esaurimento.
 
-#### Allegato VIII
+### Allegato VIII
 
 Allegato VIII
 
@@ -3439,7 +3427,7 @@ Modalita' e documentazione per ottenere l'autorizzazione di stabilimento di alle
 
 ((...))
 
-#### Allegato IX
+### Allegato IX
 
 ((Allegato IX))
 

@@ -203,7 +203,7 @@ a) dall'intervento di un ufficiale ministeriale o di una persona competente seco
 
 b) dall'adozione di un particolare mezzo di notificazione.
 
-## SEZIONE II - ALTRI MEZZI DI TRASMISSIONE E NOTIFICAZIONE DI ATTI GIUDIZIARI
+### SEZIONE II - ALTRI MEZZI DI TRASMISSIONE E NOTIFICAZIONE DI ATTI GIUDIZIARI
 
 #### ARTICOLO 12
 

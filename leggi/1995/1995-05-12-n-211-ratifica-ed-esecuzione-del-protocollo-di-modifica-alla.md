@@ -27,15 +27,15 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare il protocollo di modifica alla convenzione relativa ai trasporti internazionali ferroviari (COTIF) del 9 maggio 1980, fatto a Berna il 20 dicembre 1990.
 
-### Art. 2
+## Art. 2
 
 1\. Piena ed intera esecuzione e' data al protocollo di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo V del protocollo stesso.
 
-### Art. 3
+## Art. 3
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -51,7 +51,7 @@ Visto, il Guardasigilli: MANCUSO
 
 ## Allegati
 
-### Protocole
+## Protocole
 
 PROTOCOLE 1990
 
@@ -71,7 +71,7 @@ le Parti contraenti hanno convenuto quanto segue:
 
 MODIFICHE DECISE DALL'ASSEMBLEA GENERALE
 
-### Articolo I
+## Articolo I
 
 Modifiche relative alla Convenzione propriamente detta
 
@@ -213,7 +213,7 @@ Esso puo' inoltre presentare ogni commento che riterra' appropriato riguardo al 
 
 9\. Qualora il Revisore abbia effettuato una revisione sommaria o non abbia potuto ottenere documenti giustificativi sufficienti, egli deve menzionare cio' nel suo attestato e nel suo rapporto precisando i motivi delle sue osservazioni nonche' le conseguenze che ne derivano per la situazione finanziaria e le operazioni finanziarie contabilizzate".
 
-### Articolo II
+## Articolo II
 
 Modifiche relative alle Regole uniformi CIV
 
@@ -303,7 +303,7 @@ Completare il testo del Par. 2, capoverso 2, come segue:
 
 Cancellare le lettere a) e b).
 
-### Articolo III
+## Articolo III
 
 Modifiche relative alle Regole Uniformi CIM
 
@@ -371,7 +371,7 @@ La lettera e) diviene la lettera d)
 
 ## DISPOSIZIONI FINALI
 
-### Articolo IV
+## Articolo IV
 
 Firma, ratifica, accettazione, approvazione
 
@@ -379,25 +379,25 @@ Par. 1 Il presente Protocollo rimane aperto a Berna, presso il Governo svizzero,
 
 Par. 2 In conformita' con le disposizioni dell'articolo 20, par. 1 della COTIF, il presente Protocollo e' soggetto a ratifica, accettazione o approvazione; gli strumenti di ratifica, di accettazione o di approvazione sono depositati il prima possibile presso il Governo depositario.
 
-### Articolo V
+## Articolo V
 
 Entrata in vigore
 
 Le decisioni contenute nel presente Protocollo entrano in vigore il primo giorno del dodicesimo mese successivo a quello durante il quale il Governo depositario avra' notificato agli Stati membri il deposito dello strumento con il quale sono soddisfatte le condizioni dell'articolo 20, Par. 2 della COTIF.
 
-### Articolo VI
+## Articolo VI
 
 Adesione
 
 Gli Stati che, invitati alla seconda Assemblea generale dell'OTIF non hanno firmato il presente Protocollo entro il termine previsto all'articolo IV Par. 1, possono aderirvi depositando uno strumento di adesione presso il Governo depositario.
 
-### Articolo VII
+## Articolo VII
 
 Rapporto tra la COTIF ed il Protocollo
 
 Solo gli Stati parti alla COTIF possono divenire Parti al presente Protocollo.
 
-### Articolo VIII
+## Articolo VIII
 
 Testi del Protocollo
 

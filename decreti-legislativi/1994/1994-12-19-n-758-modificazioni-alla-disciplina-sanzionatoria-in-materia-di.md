@@ -44,7 +44,7 @@ il seguente decreto legislativo:
 
 ## Capo I - TRASFORMAZIONE DI REATI IN ILLECITI AMMINISTRATIVI
 
-#### Art. 1
+### Art. 1
 
 Inosservanza degli obblighi derivanti da contratti collettivi
 
@@ -72,7 +72,7 @@ c) il secondo comma e' abrogato.
 
 > rapporti di lavoro). - Il datore di lavoro o il lavoratore, il quale non adempie gli obblighi che gli derivano da un contratto collettivo (o dalle norme emanate dagli organi corporativi), e' punito con la sanzione amministrativa da lire duecentomila a lire un milione".
 
-#### Art. 2
+### Art. 2
 
 Inosservanza di disposizioni sul lavoro straordinario
 
@@ -106,7 +106,7 @@ Inosservanza di disposizioni sul lavoro straordinario
 
 > Il secondo comma e' stato abrogato dall'art. 231 del d.Lgs. 30 aprile 1992, n. 285, per la parte relativa al D.P.R. n. 393/1959.
 
-#### Art. 3
+### Art. 3
 
 Inosservanza di disposizioni sull'orario di lavoro
 
@@ -120,7 +120,7 @@ Inosservanza di disposizioni sull'orario di lavoro
 
 > \- Per il testo dell'art. 16 della legge 24 novembre 1981, n. 689 (Modifiche al sistema penale), vedi nelle note all'art. 2.
 
-#### Art. 4
+### Art. 4
 
 Orario di lavoro nelle aziende industriali
 
@@ -150,7 +150,7 @@ c) da lire centomila a lire ottocentomila per le violazioni delle altre disposiz
 
 > Se costoro si rifiutino di firmare il processo verbale, ne viene fatta menzione, indicandone le ragioni.".
 
-#### Art. 5
+### Art. 5
 
 Orario di lavoro nelle aziende agricole
 
@@ -178,7 +178,7 @@ b) il quarto comma e' abrogato.
 
 > \- Per il testo dell'art. 16 della legge 24 novembre 1981, n. 689 (Modifiche al sistema penale), vedi nelle note all'art. 2.
 
-#### Art. 6
+### Art. 6
 
 Riposo domenicale e settimanale
 
@@ -190,7 +190,7 @@ Riposo domenicale e settimanale
 
 > \- La legge 22 febbraio 1934, n. 370, disciplina il "Riposo domenicale e settimanale".
 
-#### Art. 7
+### Art. 7
 
 Riposo settimanale degli addetti alla vendita di giornali
 
@@ -208,7 +208,7 @@ Riposo settimanale degli addetti alla vendita di giornali
 
 > Ferme restando le disposizioni del codice penale, in caso di recidiva il magistrato puo' ordinare la sospensione del giornale per un periodo di tempo determinato.".
 
-#### Art. 8
+### Art. 8
 
 Libretto di lavoro
 
@@ -248,11 +248,11 @@ b) il quarto comma e' sostituito dal seguente:
 
 > Per la inosservanza di queste potra' essere stabilita con lo stesso decreto una ammenda fino al massimo di lire 400.000.".
 
-#### Art. 9
+### Art. 9
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-#### Art. 10
+### Art. 10
 
 Prospetti paga
 
@@ -264,7 +264,7 @@ Prospetti paga
 
 > \- La legge 5 gennaio 1953, n. 4, reca: "Norme concernenti l'obbligo di corrispondere le retribuzioni ai lavoratori a mezzo di prospetti di paga".
 
-#### Art. 11
+### Art. 11
 
 Inosservanza dei provvedimenti dell'organo di vigilanza
 
@@ -278,7 +278,7 @@ Inosservanza dei provvedimenti dell'organo di vigilanza
 
 > \- Il D.P.R. 19 marzo 1955, n. 520 reca: "Riorganizzazione centrale e periferica del Ministero del lavoro e della previdenza sociale".
 
-#### Art. 12
+### Art. 12
 
 Conservazione del posto di lavoro per richiamo alle armi
 
@@ -292,7 +292,7 @@ Conservazione del posto di lavoro per richiamo alle armi
 
 > \- La legge 3 maggio 1955, n. 370, reca: "Conservazione del posto ai lavoratori richiamati o trattenuti alle armi".
 
-#### Art. 13
+### Art. 13
 
 Minimi di trattamento economico e normativo
 
@@ -304,7 +304,7 @@ Minimi di trattamento economico e normativo
 
 > \- La legge 14 luglio 1959, n. 741, reca: "Norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori".
 
-#### Art. 14
+### Art. 14
 
 Contratto di lavoro a tempo determinato
 
@@ -316,7 +316,7 @@ Contratto di lavoro a tempo determinato
 
 > \- La legge 18 aprile 1962, n. 230, reca: "Disciplina del contratto di lavoro a tempo determinato".
 
-#### Art. 15
+### Art. 15
 
 Assicurazione obbligatoria contro gli infortuni sul lavoro
 
@@ -324,7 +324,7 @@ Assicurazione obbligatoria contro gli infortuni sul lavoro
 
 "Art. 195. - 1. I datori di lavoro che contravvengono alle disposizioni del presente titolo sono puniti con la sanzione amministrativa da lire cinquantamila a lire trecentomila, salvo i casi nei quali siano stabilite nel titolo medesimo specifiche sanzioni.".
 
-#### Art. 16
+### Art. 16
 
 Riposo settimanale degli addetti alla produzione di pane
 
@@ -336,7 +336,7 @@ Riposo settimanale degli addetti alla produzione di pane
 
 > \- La legge 13 luglio 1966, n. 611, reca: "Disposizioni sul riposo settimanale degli addetti alla produzione e alla vendita del pane".
 
-#### Art. 17
+### Art. 17
 
 Autorita' competente
 
@@ -350,7 +350,7 @@ Il testo del presente articolo e' gia' integrato con le correzioni apportate dal
 
 E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-#### Art. 18
+### Art. 18
 
 Disposizioni transitorie
 
@@ -366,11 +366,9 @@ Il testo del presente articolo e' gia' integrato con le correzioni apportate dal
 
 E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-## Capo II - ESTINZIONE DELLE CONTRAVVENZIONI
+## Capo II - ESTINZIONE DELLE CONTRAVVENZIONI IN MATERIA DI SICUREZZA E DI IGIENE DEL LAVORO
 
-### IN MATERIA DI SICUREZZA E DI IGIENE DEL LAVORO
-
-#### Art. 19
+### Art. 19
 
 Definizioni
 
@@ -502,7 +500,7 @@ E' possibile visualizzare il testo originario accedendo alla versione pdf della 
 
 > Il delitto e' punibile a querela della persona offesa, salvo nei casi previsti nel primo e secondo capoverso, limitatamente ai fatti commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro o relative all'igiene del lavoro o che abbiano determinato una malattia professionale".
 
-#### Art. 20
+### Art. 20
 
 Prescrizione
 
@@ -536,7 +534,7 @@ Prescrizione
 
 > 4\. Con la comunicazione, la polizia giudiziaria indica il giorno e l'ora in cui ha acquisito la notizia".
 
-#### Art. 21
+### Art. 21
 
 Verifica dell'adempimento
 
@@ -546,7 +544,7 @@ Verifica dell'adempimento
 
 3\. Quando risulta l'inadempimento alla prescrizione, l'organo di vigilanza ne da' comunicazione al pubblico ministero e al contravventore entro novanta giorni dalla scadenza del termine fissato nella prescrizione.
 
-#### Art. 22
+### Art. 22
 
 Notizie di reato non pervenute dall'organo di vigilanza
 
@@ -554,7 +552,7 @@ Notizie di reato non pervenute dall'organo di vigilanza
 
 2\. Nel caso previsto dal comma 1, l'organo di vigilanza informa il pubblico ministero delle proprie determinazioni entro sessanta giorni dalla data in cui ha ricevuto comunicazione della notizia di reato dal pubblico ministero.
 
-#### Art. 23
+### Art. 23
 
 Sospensione del procedimento penale
 
@@ -572,7 +570,7 @@ Il testo del presente articolo e' gia' integrato con le correzioni apportate dal
 
 E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-#### Art. 24
+### Art. 24
 
 Estinzione del reato
 
@@ -598,7 +596,7 @@ Estinzione del reato
 
 > Il pagamento delle somme indicate nella prima parte del presente articolo estingue il reato".
 
-#### Art. 25
+### Art. 25
 
 Norme di coordinamento e transitorie
 
@@ -614,11 +612,9 @@ Il testo del presente articolo e' gia' integrato con le correzioni apportate dal
 
 E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-## Capo III - SANZIONI IN MATERIA DI SICUREZZA
+## Capo III - SANZIONI IN MATERIA DI SICUREZZA E DI IGIENE DEL LAVORO
 
-### E DI IGIENE DEL LAVORO
-
-#### Art. 26
+### Art. 26
 
 Sanzioni penali
 
@@ -1604,7 +1600,7 @@ maggio 1979, n. 886, le parole: "con l'arresto fino a quindici giorni o con l'am
 
 > comma; 6, quarto, quinto, e ottavo comma; 7, quinto comma; 8, terzo comma; 9, ottavo e nono comma; 18, secondo comma; 41, primo comma; 42, quinto comma; 45, terzo comma; 56; 65; 70; 71; 72, quarto comma; 74; 75, terzo comma; 78, secondo comma; 79, secondo comma ed ogni altra violazione di precetti stabiliti dal presente decreto non altrimenti sanzionati".
 
-#### Art. 27
+### Art. 27
 
 Altre sanzioni penali
 
@@ -1806,7 +1802,7 @@ b) nella lettera b) sono inserite all'inizio le seguenti parole: "con l'arresto 
 
 > b) con l'arresto fino a quindici giorni o con l'ammenda da lire duecentomila a lire seicentomila per la violazione degli articoli 67, comma 2; 84, comma 1".
 
-#### Art. 28
+### Art. 28
 
 Rifiuto di fornire notizie
 
@@ -1848,7 +1844,7 @@ Rifiuto di fornire notizie
 
 ## Capo IV - DISPOSIZIONI FINALI
 
-#### Art. 29
+### Art. 29
 
 Entrata in vigore
 
@@ -1872,7 +1868,7 @@ Visto, il Guardasigilli: BIONDI
 
 ## Capo IV - DISPOSIZIONI FINALI
 
-#### Allegato I
+### Allegato I
 
 ALLEGATO I
 

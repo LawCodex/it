@@ -27,21 +27,21 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la convenzione tra gli Stati membri delle Comunita' europee sulla semplificazione delle procedure relative al recupero dei crediti alimentari, fatta a Roma il 6 novembre 1990.
 
-### Art. 2
+## Art. 2
 
 1\. Piena ed intera esecuzione e' data alla convenzione di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore in conformita' a quanto disposto dall'articolo 10 della convenzione medesima.
 
-### Art. 3
+## Art. 3
 
 1\. Il Ministro di grazia e giustizia - Ufficio centrale per la giustizia minorile - e' autorita' centrale ai sensi e per gli effetti della convenzione di cui all'articolo 1.
 
 2\. L'autorita' centrale, nello svolgimento dei suoi compiti, puo' essere assistita o rappresentata dall'Avvocatura dello Stato e puo' avvalersi dei servizi minorili dell'Amministrazione di grazia e giustizia e degli organi di polizia.
 
-### Art. 4
+## Art. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -75,7 +75,7 @@ Desiderosi a tal fine di organizzare una cooperazione amministrativa per l'attua
 
 Hanno convenuto le seguenti disposizioni:
 
-### Art. 1
+## Art. 1
 
 1\. Questa convenzione puo' essere applicata a qualsiasi sentenza relativa agli obblighi alimentari che rientri nel campo d'applicazione della convenzione concernente la competenza giudiziaria e l'esecuzione delle sentenze in materia civile e commerciale, firmata a Bruxelles il 27 settembre 1968, successivamente modificata (in appresso denominata "Convenzione di Bruxelles").
 
@@ -89,7 +89,7 @@ Hanno convenuto le seguenti disposizioni:
 
 ## Autorità centrali
 
-### Art. 2
+## Art. 2
 
 1\. Ogni Stato contraente designa un'autorita' centrale incaricata di applicare o di fare applicare le disposizioni della presente convenzione.
 
@@ -97,7 +97,7 @@ Hanno convenuto le seguenti disposizioni:
 
 3\. Le autorita' centrali non esigono pagamento per i servizi resi ai sensi della presente convenzione.
 
-### Art. 3
+## Art. 3
 
 1\. Le autorita' centrali cooperano fra di loro e favoriscono la collaborazione fra le autorita' competenti dei loro rispettivi Stati allo scopo di facilitare la riscossione dei crediti alimentari.
 
@@ -113,13 +113,13 @@ IV) facilitare il trasferimento della obbligazione alimentare al creditore o all
 
 3\. L'autorita' centrale dello Stato richiesto informa l'autorita' centrale dello Stato d'origine delle misure prese in virtu' del paragrafo 2 e dei loro risultati.
 
-### Art. 4
+## Art. 4
 
 Ogni Stato contraente adotta le misure amministrative e giudiziarie, ivi compresa la previsione di concrete misure di esecuzione, necessarie per permettere all'autorita' centrale di adempiere i propri obblighi ai sensi della presente convenzione.
 
 ## Domande
 
-### Art. 5
+## Art. 5
 
 1\. Se il creditore di una obbligazione alimentare o un organismo menzionato all'articolo 1, paragrafo 5, ottiene in uno Stato contraente una sentenza in materia di obbligo alimentare e desidera che essa venga riconosciuta e messa in esecuzione in un altro Stato contraente, il suddetto creditore o organismo puo' presentare una domanda in tal senso all'autorita' centrale dello Stato d'origine.
 
@@ -137,19 +137,19 @@ IV) i documenti richiesti nella sezione 3 del titolo III della convenzione di Br
 
 ## Lingue
 
-### Art. 6
+## Art. 6
 
 Salvo accordo contrario fra le autorita' centrali interessate, i documenti di cui all'articolo 5 e la corrispondenza scambiata fra le autorita' centrali in merito alla domanda sono redatti o corredati di una traduzione nella lingua ufficiale o in una delle lingue ufficiali dello Stato richiesto o in qualsiasi altra lingua che questo Stato abbia dichiarato di accettare.
 
 ## Relazioni con le altre convenzioni
 
-### Art. 7
+## Art. 7
 
 Le disposizioni della presente convenzione sono complementari alle disposizioni della convenzione di Bruxelles e non pregiudicano altri strumenti internazionali esistenti.
 
 ## Comitato permanente
 
-### Art. 8
+## Art. 8
 
 1\. E' istituito un Comitato permanente destinato a permenttere uno scambio di opinioni sul funzionamento della convenzione ed a risolvere le difficolta' pratiche che si dovessero eventualmente presentare. Il comitato puo' formulare raccomandazioni sull'attuazione della convenzione o raccomandare modifiche a questa.
 
@@ -159,7 +159,7 @@ Le disposizioni della presente convenzione sono complementari alle disposizioni 
 
 ## Disposizioni finali
 
-### Art. 9
+## Art. 9
 
 1\. La presente convenzione e' aperta alla firma degli Stati membri. Essa e' soggetta a ratifica, accettazione o approvazione. Gli strumenti di ratifica, di accettazione o di approvazione sono depositati presso il Ministero degli affari esteri della Repubblica italiana.
 
@@ -181,7 +181,7 @@ II) Qualsiasi designazione o dichiarazione cosi' effettuata puo' essere successi
 
 6\. Il Ministero degli affari esteri della Repubblica italiana notifica a tutti gli Stati membri qualsiasi firma, deposito di strumenti, dichiarazione o designazione.
 
-### Art. 10
+## Art. 10
 
 1\. La presente convenzione e' aperta all'adesione di qualsiasi Stato che divenga membro delle Comunita' europee. Gli strumenti di adesione sono depositati presso il Ministero degli affari esteri della Repubblica italiana.
 

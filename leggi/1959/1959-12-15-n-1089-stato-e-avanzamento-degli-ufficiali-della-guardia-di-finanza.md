@@ -28,31 +28,29 @@ la seguente legge:
 
 ## DISPOSIZIONI GENERALI
 
-##### Art. 1
+#### Art. 1
 
 Agli ufficiali della Guardia di finanza si applicano le disposizioni sullo stato e l'avanzamento degli ufficiali dell'Esercito (Arma dei carabinieri) contenute nelle leggi 10 aprile 1954, n. 113, 12 novembre 1955, n. 1137, 3 febbraio 1957, n. 34, 18 febbraio 1958, n. 160 e 27 febbraio 1958, n. 295, con le varianti di cui agli articoli seguenti.
 
-##### Art. 2
+#### Art. 2
 
 Le attribuzioni devolute, per gli ufficiali dell'Esercito, al Ministro per la difesa ed ai comandanti di Corpo d'armata o ai comandanti militari territoriali dalle leggi indicate nel precedente art. 1, sono rispettivamente conferite, per gli ufficiali della Guardia di finanza, al Ministro per le finanze e al comandante generale del Corpo, salvo i casi in cui la presente legge stabilisca diversamente.
 
-##### Art. 3
+#### Art. 3
 
 La tabella n. 1 allegata alla legge 10 aprile 1954, n. 113, e le tabelle n. 1 e n. 4 allegate alla legge 12 novembre 1955, n. 1137, debbono intendersi sostituite, ai fini dell'applicazione agli ufficiali della Guardia di finanza delle disposizioni delle leggi anzidette che vi fanno riferimento, dalle tabelle numeri 1, 2 e 3 allegate alla presente legge.
 
 ## TITOLO I - STATO DEGLI UFFICIALI
 
-### Capo I
+### Capo I - Ufficiali in congedo
 
-#### Ufficiali in congedo
-
-##### Art. 4
+#### Art. 4
 
 Il divieto posto dal secondo comma dell'art. 55 della legge 10 aprile 1954, n. 113, s'intende riferito, per l'ufficiale in ausiliaria della Guardia di finanza, allo esercizio di qualsiasi attivita' presso imprese che abbiano rapporti contrattuali con l'Amministrazione finanziaria.
 
-## Capo II - Disciplina
+### Capo II - Disciplina
 
-##### Art. 5
+#### Art. 5
 
 Il Consiglio di disciplina per gli ufficiali della Guardia di finanza si compone di ufficiali ((in servizio permanente)) del Corpo di grado superiore a quello rivestito dal giudicando, o anche di sola anzianita' superiore se trattasi di ufficiale generale.
 
@@ -60,7 +58,7 @@ Il Consiglio di disciplina per gli ufficiali della Guardia di finanza si compone
 
 ((3. In caso di indisponibilita' di ufficiali in servizio permanente del Corpo, sono chiamati a far parte del consiglio di disciplina, per i generali e i colonnelli, ufficiali generali della Guardia di finanza appartenenti all'ausiliaria o alla riserva ovvero, in caso di indisponibilita' anche di costoro, ufficiali generali o di grado corrispondente in servizio permanente delle altre Forze armate.))
 
-##### Art. 6
+#### Art. 6
 
 Quando vi e' corresponsabilita' fra ufficiali della Guardia di finanza e ufficiali dell'Esercito, della Marina, dell'Aeronautica, oppure connessione tra i fatti ad essi ascritti, la decisione di sottoporre gli ufficiali ad inchiesta formale spetta al Ministro per la difesa.
 
@@ -70,11 +68,9 @@ Se i giudicandi sono piu' di tre ed appartengono allo Esercito, alla Marina, all
 
 ## TITOLO II - AVANZAMENTO DEGLI UFFICIALI
 
-### Capo I
+### Capo I - Autorita' competenti ad esprimere giudizi sull'avanzamento
 
-#### Autorita' competenti ad esprimere giudizi sull'avanzamento
-
-##### Art. 7
+#### Art. 7
 
 ((Esprimono giudizi sull'avanzamento: la Commissione superiore d'avanzamento e la Commissione ordinaria d'avanzamento.
 
@@ -82,9 +78,9 @@ La Commissione superiore di avanzamento esprime giudizi sull'avanzamento degli u
 
 La Commissione ordinaria di avanzamento esprime giudizi sull'avanzamento degli ufficiali aventi grado da sottotenente a maggiore. Essa e' composta del generale di Corpo di armata comandante generale, che la presiede, del generale di divisione comandante in 2ª e di quattro ufficiali generali o colonnelli della Guardia di finanza designati dal Ministro su proposta del comandante generale)).
 
-## Capo II - Valutazione per l'avanzamento
+### Capo II - Valutazione per l'avanzamento
 
-##### Art. 8
+#### Art. 8
 
 Il punto di merito di cui al secondo comma dello art. 25 della legge 12 novembre 1955, n. 1137, e' attribuito dalla Commissione con l'osservanza delle norme che seguono.
 
@@ -102,29 +98,27 @@ Le somme dei punti assegnati per ciascun complesso di elementi di cui alle lette
 
 Quando il giudizio riguardi ufficiali aventi grado di generale di brigata, ogni componente della Commissione assegna all'ufficiale un punto da uno a trenta in relazione agli elementi indicati nelle precedenti lettere a), b), c) e d), considerati nel loro insieme: la somma dei punti cosi' assegnati e' divisa per il numero dei votanti, calcolando il quoziente al centesimo. Detto quoziente costituisce il punto di merito attribuito allo ufficiale dalla Commissione.
 
-## Capo III - Disposizioni relative alla valutazione degli ufficiali in servizio
+### Capo III - Disposizioni relative alla valutazione degli ufficiali in servizio permanente effettivo
 
-### permanente effettivo
-
-##### Art. 9
+#### Art. 9
 
 Nei gradi in cui l'avanzamento ha, luogo a scelta, le aliquote di ruolo degli ufficiali da valutare per la formazione dei quadri di avanzamento per l'anno successivo comprendono, oltre gli ufficiali gia' valutati, giudicati idonei e non iscritti in quadro, un numero di ufficiali, non ancora valutati, a partire dal primo di essi, pari al triplo delle vacanze prevedibili, se si tratta di generali, colonnelli e tenenti colonnelli, o al doppio delle vacanze prevedibili, se si tratta di capitani.
 
 Qualora nel corso dell'anno di validita' di un quadro di avanzamento si verifichino vacanze in numero superiore a quello previsto, il Ministro ha facolta' di disporre che sia valutato per l'avanzamento ad anzianita' o a scelta un ulteriore numero di ufficiali per la formazione di quadri suppletivi. Tuttavia, nei casi in cui l'avanzamento ha luogo a scelta, finche' vi sono ufficiali gia', valutati, giudicati idonei e non iscritti in quadro, il Ministro procede alla formazione di quadri suppletivi, iscrivendovi detti ufficiali, senza disporre nuove valutazioni.
 
-## Capo IV - Promozioni degli ufficiali in servizio permanente effettivo
+### Capo IV - Promozioni degli ufficiali in servizio permanente effettivo
 
-##### Art. 10
+#### Art. 10
 
 Gli ufficiali iscritti in quadro d'avanzamento a scelta che non conseguano la promozione nell'anno di validita' del quadro, sono iscritti nel medesimo ordine, senza che occorra una nuova valutazione, in testa al quadro dello anno successivo.
 
-##### Art. 11
+#### Art. 11
 
 Quando nel grado di generale di divisione non si verificano vacanze per quattro anni, alla data di scadenza di tale periodo viene formata vacanza collocando a, disposizione il generale di divisione avente maggiore permanenza nel grado o, a parita' di permanenza, quello piu' vicino al limite di eta'.
 
-## Capo V - Avanzamento per meriti eccezionali
+### Capo V - Avanzamento per meriti eccezionali
 
-##### Art. 12
+#### Art. 12
 
 L'avanzamento per meriti eccezionali puo' aver luogo, fino al grado di tenente colonnello, nei riguardi dello ufficiale che nell'esercizio di attribuzioni proprie della Guardia di finanza abbia reso eccezionali servizi e che abbia dimostrato di possedere qualita' intellettuali, di cultura, professionali, tali da dare sicuro affidamento di adempiere in modo eminente le funzioni del grado superiore.
 
@@ -132,21 +126,21 @@ Per essere proposto per l'avanzamento per meriti eccezionali l'ufficiale deve es
 
 La proposta e direttamente sottoposta all'esame della Commissione ordinaria di avanzamento.
 
-## Capo VI - Avanzamento nei vari gradi
+### Capo VI - Avanzamento nei vari gradi
 
-##### Art. 13
+#### Art. 13
 
 I generali di brigata, i colonnelli, i tenenti colonnelli e i capitani da iscrivere nei quadri di avanzamento ai sensi dell'art. 30, primo comma, lettera b), della legge 12 novembre 1955, n. 1137, sono iscritti in quadro nello ordine della graduatoria di merito.
 
-## Capo VII - Vantaggi di carriera
+### Capo VII - Vantaggi di carriera
 
-##### Art. 14
+#### Art. 14
 
 Il vantaggio di carriera spettante ai tenenti e ai capitani, che, in possesso del brevetto aeronautica militare, abbiano compiuto i periodi di volo indicati nella tabella n. 3 annessa alla presente legge, e attribuito in seguito a giudizio favorevole della Commissione ordinaria di avanzamento, espresso a maggioranza di voti.
 
-## Capo VIII - Avanzamento in tempo di guerra
+### Capo VIII - Avanzamento in tempo di guerra
 
-##### Art. 15
+#### Art. 15
 
 Per i gradi nei quali l'avanzamento si effettua a scelta l'iscrizione in quadro degli ufficiali ha luogo sempre nell'ordine di ruolo.
 
@@ -154,7 +148,7 @@ Il parere sulle proposte di promozione e di avanzamento per merito di guerra, fo
 
 ## TITOLO III - DISPOSIZIONI TRANSITORIE
 
-##### Art. 16
+#### Art. 16
 
 La posizione di "fuori quadro" e di e "fuori organico" e la categoria del congedo provvisorio, previsto dalla legge 16 giugno 1935, n. 1026, e successive modificazioni, sono soppresse.
 
@@ -162,23 +156,23 @@ Agli ufficiali che alla data di entrata in vigore della presente legge si trovan
 
 Gli ufficiali che alla data di entrata in vigore della presente legge si trovano in congedo provvisorio, sono trasferiti nella riserva, ed ottengono la liquidazione della pensione come se avessero copiuto venti anni di servizio effettivo; ma se vengono a percepire un trattamento economico inferiore a quello goduto nel congedo provvisorio, essi conservano la differenza del trattamento economico quale assegno ad personam per il tempo in cui avrebbero dovuto rimanere nella categoria del congedo provvisorio.
 
-##### Art. 17
+#### Art. 17
 
 Gli ufficiali nei cui riguardi ha trovato applicazione, prima della data di entrata in vigore della presente legge, l'art. 45 della legge 16 giugno 1935, n. 1026, continuano a rimanere nella posizione di servizio permanente.
 
-##### Art. 18
+#### Art. 18
 
 La categoria degli ufficiali maestri di scherma e' conservata fino ad esaurimento.
 
 Per l'avanzamento degli ufficiali anzidetti restano ferme le disposizioni contenute nelle leggi 26 gennaio 1942, n. 52, e 24 luglio 1951, n. 625.
 
-##### Art. 19
+#### Art. 19
 
 Nell'applicare agli ufficiali della Guardia di finanza disposizioni delle leggi 10 aprile 1954, n. 113, e 12 novembre 1955, n. 1137, e successive modificazioni, che stabiliscono termini riferiti alla data di entrata in vigore delle leggi stesse, si intende sostituita, alla data predetta, quella di entrata in vigore della presente legge.
 
 Restano fermi, pero', i diversi termini stabiliti espressamente per singole disposizioni della presente legge o da altre leggi con cui e' stata parzialmente estesa alla Guardia di finanza la legge 10 aprile 1954, n. 113.
 
-##### Art. 20
+#### Art. 20
 
 Oltre quanto e' stabilito dal precedente art. 19, per la estensione agli ufficiali della Guardia di finanza, in quanto applicabili, delle disposizioni transitorie contenute nella legge 12 novembre 1955, n. 1137, e successive modificazioni, si osservano le seguenti norme.
 
@@ -194,7 +188,7 @@ Il richiamo al testo unico approvato con regio decreto 1 agosto 1936, n. 1493, c
 
 Le disposizioni contenute negli articoli 148 e 150 si applicano anche all'ufficiale in ausiliaria della Guardia di finanza che si trova nelle condizioni previste dagli articoli stessi.
 
-##### Art. 21
+#### Art. 21
 
 Gli esami per l'avanzamento a scelta speciale continuano a svolgersi fino al 31 ottobre dell'anno successivo a quello di entrata in vigore della presente legge.
 
@@ -204,21 +198,21 @@ L'ufficiale che acquisisce titolo a vantaggio di carriera in seguito alla freque
 
 Gli ufficiali, che nella prima applicazione della presente legge, abbiano gia' titolo a vantaggio di carriera per aver compiuto i prescritti periodi di volo, possono usufruirne per una sola volta e limitatamente al ruolo del proprio grado; il titolo si considera acquisito alla data di entrata in vigore della presente legge. Resta salva per essi la possibilita' di usufruire dell'ulteriore vantaggio consentito, se successivamente ne acquisiscono il titolo.
 
-##### Art. 22
+#### Art. 22
 
 I tenenti colonnelli e i maggiori che al 1 gennaio dell'anno successivo a quello di entrata in vigore della presente legge si trovano mantenuti in servizio permanente effettivo ai sensi dell'art. 1 della legge 27 febbraio 1955, n. 84, sono collocati a disposizione nella data anzidetta e vi rimangono per il residuo periodo di tempo che avrebbero ancora dovuto trascorrere in servizio permanente effettivo in applicazione della predetta legge 27 febbraio 1955, n. 81.
 
 ## TITOLO IV - DISPOSIZIONI FINALI
 
-##### Art. 23
+#### Art. 23
 
 Per l'avanzamento del maestro direttore di banda restano ferme le disposizioni delle leggi 26 gennaio 1942, n. 52, e 7 maggio 1949, n. 217.
 
-##### Art. 24
+#### Art. 24
 
 Non si applicano agli ufficiali, della Guardia di finanza le disposizioni contenute nell'art. 114 della legge 10 aprile 1954, n. 113, e negli articoli 46, 47, 48, 184 e 185 della legge 12 novembre 1955, n. 1137.
 
-##### Art. 25
+#### Art. 25
 
 La presente legge entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale della Repubblica.
 
@@ -286,7 +280,7 @@ Si riporta di seguito la seguente Tabella n. 5:
 
 Tabella n. 5
 
-##### Art. 36 comma 1
+#### Art. 36 comma 1
 
 LIMITI DI ETÀ PER LA CESSAZIONE DAL SERVIZIO PERMANENTE
 

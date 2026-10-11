@@ -27,15 +27,15 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'accordo tra il Governo della Repubblica italiana ed il Governo della Repubblica di Cipro sui trasporti internazionali su strada, firmato a Nicosia il 2 maggio 1981 e lo scambio di note interpretativo effettuato a Nicosia il 28 marzo e il 1 aprile 1986.
 
-### Art. 2
+## Art. 2
 
 2\. Piena ed intera esecuzione e' data agli atti internazionali di cui all'articolo 1 a decorrere dalla loro entrata in vigore in conformita' all'articolo 24 dell'accordo.
 
-### Art. 3
+## Art. 3
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -61,7 +61,7 @@ desiderosi di promuovere le relazioni amichevoli tra i due Stati; allo scopo di 
 
 hanno convenuto quanto segue:
 
-### Articolo 1
+## Articolo 1
 
 1\. Le Parti Contraenti si concedono il diritto di effettuare trasporti di merci, compreso il traffico in transito, sul territorio dei due Stati, a mezzo di autoveicoli immatricolati nel rispettivo territorio secondo le modalita' stabilite nel presente Accordo.
 
@@ -69,11 +69,11 @@ hanno convenuto quanto segue:
 
 ## I - TRASPORTO DI MERCI
 
-### Articolo 2
+## Articolo 2
 
 Tutti i trasporti di merci effettuati per conto di terzi o per conto proprio tra i due Stati, ovvero in transito sul loro territorio, sono sottoposti al regime dell'autorizzazione.
 
-### Articolo 3
+## Articolo 3
 
 1\. L'autorizzazione ad effettuare i trasporti internazionali di merci consente ogni volta l'ingresso ovvero il transito sul territorio dell'altra Parte Contraente di un solo veicolo, carico o vuoto.
 
@@ -83,7 +83,7 @@ A tal fine, per veicolo si intende ogni autocarro o trattore ed ogni rimorchio o
 
 3\. I trasportatori domiciliati nel territorio di una Parte Contraente non sono autorizzati a caricare sul territorio dell'altra Parte Contraente merci destinate ad un Paese terzo, ne' a scaricarvi merci provenienti da un Paese terzo.
 
-### Articolo 4
+## Articolo 4
 
 1\. Sono sottoposti al regime dell'autorizzazione, ma accordati fuori contingente, i seguenti trasporti:
 
@@ -101,7 +101,7 @@ f) trasporti di materiale destinato a registrazioni radiofoniche e a riprese cin
 
 2\. Per i trasporti di cui alle lettere c), d), e) ed f) la disposizione del paragrafo 1, si applica a condizione che gli oggetti e gli animali siano successivamente trasportati di nuovo nello Stato di immatricolazione.
 
-### Articolo 5
+## Articolo 5
 
 1\. Le autorizzazioni necessarie ai veicoli della Repubblica di Cipro che circolano nel territorio della Repubblica Italiana sono rilasciate dalle competenti autorita' cipriote sui formulari inviati dalle competenti Autorita' italiane entro i limiti dei contingenti fissati dalla Commissione Mista.
 
@@ -109,7 +109,7 @@ f) trasporti di materiale destinato a registrazioni radiofoniche e a riprese cin
 
 3\. Ciascuna Parte Contraente dispone di un uguale contingente globale.
 
-### Articolo 6
+## Articolo 6
 
 1\. Le autorizzazioni di cui all'articolo 5 sono di due tipi:
 
@@ -119,13 +119,13 @@ b) autorizzazioni per un solo viaggio di andata e ritorno esclusivamente in tran
 
 2\. Durante il viaggio di transito non possono essere caricate o scaricate merci sul territorio del Paese di transito.
 
-### Articolo 7
+## Articolo 7
 
 Le autorizzazioni di cui al presente Accordo devono essere vidimate, all'ingresso e all'uscita, delle Autorita' dello Stato per il quale sono state rilasciate.
 
 ## DISPOSIZIONI GENERALI
 
-### Articolo 8
+## Articolo 8
 
 1\. I veicoli adibiti al trasporto di merci devono essere idonei al trasporto da effettuare. Le loro dimensioni, il peso complessivo e il loro equipaggiamento, allorche' essi vengano impegnati sul territorio dell'altro Stato, devono essere conformi a quanto previsto dalle norme vigenti in detto Stato.
 
@@ -133,21 +133,21 @@ Le autorizzazioni di cui al presente Accordo devono essere vidimate, all'ingress
 
 3\. Se il permesso speciale indicato al paragrafo 2 prevede che il veicolo in questione debba percorrere un itinerario determinato, il trasporto deve essere effettuato lungo tale itinerario.
 
-### Articolo 9
+## Articolo 9
 
 I trasportatori, i conducenti, e gli altri membri dell'equipaggio, nonche' i veicoli e le merci trasportate sono sottoposti alle leggi ed ai regolamenti della Parte Contraente sul territorio della quale essi si trovano.
 
-### Articolo 10
+## Articolo 10
 
 I trasportatori domiciliati nel territorio di una delle parti Contraenti non sono autorizzati ad effettuare trasporti di merci fra due punti situati sul territorio dell'altra Parte Contraente.
 
-### Articolo 11
+## Articolo 11
 
 1\. Ciascuna Parte Contraente autorizza l'ingresso nel suo territorio degli autoveicoli immatricolati nel territorio dell'altra parte Contraente in franchigia dai diritti doganali e dalle tasse dovute all'importazione, senza divieti o restrizioni, e a condizione che i siano riesportati dal suo territorio.
 
 2\. Le Parti Contraentri possono esigere che tali veicoli siano sottoposti alle formalita' doganali richieste per la temporanea importazione nel loro rispettivo territorio.
 
-### Articolo 12
+## Articolo 12
 
 1\. Il conducente e gli altri membri dell'equipaggio del veicolo possono importare temporaneamente in franchigia dai diritti doganali e dalle tasse di entrata una quantita' ragionevole di oggetti necessari ai loro bisogni personali in misura proporzionata alla durata del loro soggiorno nel Paese di importazione.
 
@@ -155,31 +155,31 @@ I trasportatori domiciliati nel territorio di una delle parti Contraenti non son
 
 3\. Questi benefici sono accordati alle condizioni fissate dalle convenzioni doganali relative all'importazione temporanea dei veicoli commerciali.
 
-### Articolo 13
+## Articolo 13
 
 Sono ammessi in franchigia dai diritti doganali e dalle tasse di entrata, senza limiti ne' restrizioni, i combustibili ed i carburanti contenuti nei serbatoi normali del veicolo, restando inteso che il serbatoio normale e' quello previsto dal costruttore per il tipo di veicolo di cui trattasi.
 
-### Articolo 14
+## Articolo 14
 
 1\. I pezzi di ricambio destinati alla riparazione di un veicolo gia' importato temporaneamente che effettua uno dei trasporti previsti dal presente accordo, sono ammessi in franchi gia' dai diritti doganali e dalle tasse di entrata, senza divieti ne' restrizioni, salvo l'osservanza delle formalita' doganali previste dagli ordinamenti delle Parti Contraenti.
 
 2\. Per le parti sostituite e non riesportate e' dovuto il pagamento dei diritti doganali e delle tasse di entrata, a meno che, in conformita' alle disposizioni della legislazione del Paese di importazione, dette parti siano state cedute gratuitamente a questo Stato oppure distrutte a spese degli interessati sotto controllo doganale.
 
-### Articolo 15
+## Articolo 15
 
 1\. I trasportatori di una delle Parti Contraenti che effettuano il trasporto nel territorio dell'altra Parte Contraente sono tenuti al pagamento delle imposte e tasse relative ai veicoli alla circolazione e ai trasporti, previste dalla legislazione dell'altra Parte Contraente.
 
 2\. Allo scopo di pervenire ad una uguaglianza di trattamento la Commissine Mista esaminera' la possibilita' di concedere delle facilitazioni fiscali basate sul principio della reciprocita' e che siano campatibili con le disposizoini vigenti in ciascuno dei due Stati.
 
-### Articolo 16
+## Articolo 16
 
 I conducenti sono tenuti ad esibire i documenti che, in conformita' alle disposizioni interne dei due Stati, sono necessari per varcare la frontiera, nonche' i documenti che, secondo le disposizioni interne dello Stato di immatricolazione, sono necessari per condurre il veicolo e per individuarne le caratteristiche tecniche. Tali documenti devono essere esibiti su richiesta degli organi competenti dell'altra Parte Contraente.
 
-### Articolo 17
+## Articolo 17
 
 Le Autorita' competenti delle Parti Contraenti stabiliranno di comune accordo, e se necessario tramite la Commissione Mista, le modalita' relative allo scambio dei documenti necessari e dei dati statistici.
 
-### Articolo 18
+## Articolo 18
 
 1\. Allorche' le Autorita' competenti di una delle Parti Contraenti constatino che un trasportatore o un conducente di un veicolo immatricolato nel territorio dell'altro Stato contravviene alle disposizioni del presente Accordo o alle disposizioni interne, esse possono chiedere alle Autorita' competenti di tale Stato di adottare una delle sanzioni supplementari seguenti:
 
@@ -189,7 +189,7 @@ b) ritiro, a titolo temporaneo ovvero definitivo, parziale o totale, del diritto
 
 2\. Le Autorita' competenti ad applicare la sanzione sono tenute a comunicare alle Autorita' richiedenti se e quali sanzioni siano state applicate.
 
-### Articolo 19
+## Articolo 19
 
 1\. Le Parti Contraenti si notificheranno per via diplomatica quali siano le autorita' competenti a regolare le questioni relative all'applicazione del presente accordo.
 
@@ -207,25 +207,25 @@ d) risolvere le difficolta' che potranno eventualmente
 
 4\. Le proposte della Commissione Mista sono soggette all'approvazione delle Autorita' competenti delle due Parti Contraenti di cui al paragrafo 1.
 
-### Articolo 20
+## Articolo 20
 
 I veicoli utilizzati per i trasporti previsti dal presente Accordo devono, al momento dell'ingresso nel territorio di ciascuna Parte Contraente, essere coperti da una assicurazione di responsabilita' civile per danni arrecati a terzi sul territorio dell'altra Parte Contraente.
 
-### Articolo 21
+## Articolo 21
 
 1\. Le fatturazioni ed i trasferimenti valutari dei pagamenti previsti per i trasporti effettuati in base al presente Accordo devono essere effettuati in una valuta convertibile nei due Stati e liberamente trasferibile.
 
 2\. Qualora dovesse essere concluso un accordo di pagamento tra le due Parti Contraenti, i pagamenti di cui al paragrafo 1. saranno effettuati secondo le disposizioni di tale accordo di pagamento.
 
-### Articolo 22
+## Articolo 22
 
 Tutte le controversie relative alla interpretazione o all'applicazione del presente Accordo, non risolte dalla Commissione Mista, saranno risolte per via diplomatica.
 
-### Articolo 23
+## Articolo 23
 
 Nessuna disposizione del presente accordo pregiudica l'esecuzione di impegni alle Parti derivanti o che potrebbero derivare dall'appartenenza ad organismi di integrazione economica.
 
-### Articolo 24
+## Articolo 24
 
 1\. Il presente Accordo entrera' in vigore 30 giorni dopo che le Parti Contraenti si saranno notificate per via diplomatica l'espletamento delle procedure previste a tal fine dalle rispettive legislazioni.
 
@@ -243,13 +243,13 @@ Visto, il Ministro degli affari esteri
 
 DE MICHELIS
 
-### Accord
+## Accord
 
 ACCORD
 
 Parte di provvedimento in formato grafico
 
-### Nota 1
+## Nota 1
 
 TRADUZIONE NON UFFICIALE
 
@@ -269,7 +269,7 @@ Repubblica di Cipro
 
 NICOSIA
 
-### Nota 2
+## Nota 2
 
 REPUBBLICA DI CIPRO
 

@@ -29,23 +29,23 @@ la seguente legge:
 
 ## Disposizioni generali
 
-### Art. 1
+## Art. 1
 
 Nello stato di previsione dell'entrata, degli stati di previsione dei Ministeri e nei bilanci delle amministrazioni e aziende autonome, approvati con la legge 30 aprile 1980, n. 149, e assestati con la legge 17 ottobre 1980, n. 655, sono introdotte, per l'anno finanziario 1980, le variazioni di cui alle annesse tabelle.
 
 ## Stato di previsione del Ministro del tesoro
 
-### Art. 2
+## Art. 2
 
 L'autorizzazione di spesa, di cui all'articolo 27 della legge 30 aprile 1980, n. 149, per l'assegnazione a favore dell'istituto centrale di statistica e' aumentata di L. 2.215.000.000.
 
-### Art. 3
+## Art. 3
 
 Il primo comma dell'articolo 13 della legge 30 aprile 1980, n. 149 sostituito dall'articolo 2 della legge 17 ottobre 1980, n. 655 e ulteriormente sostituita dal seguente:
 
 "Ai sensi dell'articolo 51 della legge 23 dicembre 1978, n. 833, il fondo sanitario nazionale e' determinato per l'anno finanziario 1980, in L. 18.444.700.000.000 ed e' iscritto per L. 17.998.700.000.000, al capitolo 5941 dello stato di previsione del Ministrero del tesoro per la parte corrente e per L. 446.000.000.000 al capitolo 7082 dello stato di previsione del Ministrero del bilancio e della programmazione economica per la parte in conto capitale".
 
-### Art. 4
+## Art. 4
 
 L'autorizzazione di spesa di cui al primo comma dell'articolo 7 della legge 30 aprile 1980, n. 149, e' aumentata di L.
 
@@ -53,17 +53,17 @@ L'autorizzazione di spesa di cui al primo comma dell'articolo 7 della legge 30 a
 
 ## Stato di previsione del Ministro della sanita'
 
-### Art. 5
+## Art. 5
 
 L'assegnazione di spesa prevista dalla legge 21 aprile 1977, n. 164, determinata con la Tabella B, della legge 30 aprile 1980, n. 149, e' aumentata di L. 370.000.000.
 
 ## Disposizioni finali
 
-### Art. 6
+## Art. 6
 
 Sugli stanziamenti di cui alla presente legge possono essere assunti impegni entro il termine di venti giorni della data di pubblicazione della legge medesima.
 
-### Art. 7
+## Art. 7
 
 La presente legge entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -81,7 +81,7 @@ Visto, il Guardasigilli: SARTI
 
 ## Disposizioni finali
 
-### Tabelle
+## Tabelle
 
 TABELLA A
 

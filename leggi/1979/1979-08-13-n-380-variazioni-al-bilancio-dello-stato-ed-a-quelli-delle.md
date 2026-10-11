@@ -27,19 +27,19 @@ la seguente legge:
 
 ## VARIAZIONI ALL'ENTRATA
 
-### ART. 1
+## ART. 1
 
 Nello stato di previsione dell'entrata per l'anno finanziario 1979, sono apportate le variazioni di cui all'annessa Tabella A.
 
 ## VARIAZIONI ALLA SPESA
 
-### ART. 2
+## ART. 2
 
 Negli stati di previsione della spesa dei Ministeri del tesoro, delle finanze, del bilancio e della programmazione economica, di grazia e giustizia, degli affari esteri, della pubblica istruzione, dell'interno, dei lavori pubblici, dei trasporti, delle poste e delle telecomunicazioni, della difesa, dell'agricoltura e delle foreste, dell'industria, del commercio e dell'artigianato, del lavoro e della previdenza sociale, del commercio con l'estero, della marina mercantile, delle partecipazioni statali, della sanita', del turismo e dello spettacolo, per i beni culturali e ambientali, sono introdotte, per l'anno finanziario 1979, le variazioni di cui all'annessa Tabella B.
 
 ## STATO DI PREVISIONE - DEL MINISTERO DEL TESORO
 
-### ART. 3
+## ART. 3
 
 Al primo comma dell'articolo 199 della legge 28 marzo 1979, n. 88, le parole "dell'articolo 113" sono sostituite dalle altre "degli articoli 113, 114 e 115".
 
@@ -49,41 +49,41 @@ Le disposizioni contenute nei commi secondo e terzo del predetto articolo 199 so
 
 Con decreto del Ministro del tesoro sara' provveduto alle occorrenti variazioni di bilancio mediante trasferimento di fondi dal capitolo n. 5936 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1979 ai predetti capitoli della rubrica 15 del medesimo stato di previsione".
 
-### ART. 4
+## ART. 4
 
 Le somme anticipate dall'Ufficio liquidazioni del Ministero del tesoro per il pagamento delle retribuzioni relative al personale di cui all'articolo 115 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, per il periodo dal 1 aprile 1979 fino alla data di cui al secondo comma del precedente articolo 3, saranno rimborsate, allo stesso Ufficio liquidazioni, dalla Segreteria dei ruoli unici con ordini di pagamento emessi sulla contabilita' speciale ad essa intestata.
 
-### ART. 5
+## ART. 5
 
 Le disponibilita' residue esistenti sul conto corrente infruttifero istituito presso la Tesoreria centrale dello Stato ai sensi del terzo comma dell'articolo 199 della legge 28 marzo 1979, n. 88, saranno fatte affluire al capitolo n. 2368 dello stato di previsione delle entrate per la contemporanea riassegnazione, con decreto del Ministro del tesoro, al capitolo n. 5936 dello stato di previsione del Ministero del tesoro.
 
-### ART. 6
+## ART. 6
 
 L'autorizzazione di spesa di cui allo articolo 9 della legge 28 marzo 1979, n. 88, per i contributi da corrispondere alle gestioni previdenziali per porre le stesse in condizioni di provvedere alle erogazioni delle prestazioni agli aventi diritto e' elevata di lire 10.754.716.000.
 
-### ART. 7
+## ART. 7
 
 L'importo massimo delle anticipazioni che il Ministro del tesoro e' autorizzato a concedere all'Azienda autonoma delle ferrovie dello Stato per l'anno finanziario 1979, fissato in lire 1.229.985.946.000 dall'articolo 24 della legge 28 marzo 1979, n. 88, e' aumentato di lire 10.000.000.000 in relazione all'applicazione della legge 25 gennaio 1979, n. 33, tenuto conto del disposto del sesto e settimo comma dell'articolo 10 della legge 5 agosto 1978, n. 468.
 
-### ART. 8
+## ART. 8
 
 L'importo delle anticipazioni da concedere all'Amministrazione delle poste e telecomunicazioni a copertura del disavanzo di gestione per l'anno 1977, fissato dall'articolo 20 della legge 23 dicembre 1976, n. 874, modificato dall'articolo 2 della legge 23 maggio 1977, n. 232, e' aumentato di lire 50.636.274.000.
 
-### ART. 9
+## ART. 9
 
 L'autorizzazione di spesa di cui all'articolo 16 della legge 28 marzo 1979, n. 88, relativa alle somme occorrenti per fronteggiare le spese relative al programma europeo di cooperazione scientifica e tecnologica (COST), e' aumentata di lire 500.000.000.
 
-### ART. 10
+## ART. 10
 
 L'articolo 15 della legge 28 marzo 1979, n. 88, e' sostituito dal seguente:
 
 "A seguito degli impegni derivanti dal decreto-legge 10 febbraio 1977, n. 19, convertito nella legge 6 aprile 1977, n. 106, per l'anno finanziario 1979 e' autorizzato il versamento della somma di lire 62.607.622.000 al Fondo centrale di garanzia per le autostrade e le ferrovie metropolitane, relativa all'ammortamento dei mutui contratti dalla Societa' autostrade romane ed abruzzesi (SARA), per la costruzione delle autostrade Roma-Alba Adriatica e Torano-Pescara, scadenti nello stesso anno 1979 e precedenti".
 
-### ART. 11
+## ART. 11
 
 Ai sensi dell'articolo 17, lettera b), della legge 24 maggio 1977, n. 227, concernente disposizioni sull'assicurazione e sul finanziamento dei crediti inerenti alle esportazioni di merci e servizi, all'esecuzione di lavori all'estero, nonche' alla cooperazione economica e finanziaria in campo internazionale, il limite degli impegni assumibili in garanzia ai sensi dell'articolo 3 della legge stessa, e' elevato, per l'anno finanziario 1979 a lire 4.500 miliardi per le garanzie di durata superiore a ventiquattro mesi.
 
-### ART. 12
+## ART. 12
 
 L'articolo 21 della legge 28 marzo 1979, n. 88, e' sostituito dal seguente:
 
@@ -91,7 +91,7 @@ L'articolo 21 della legge 28 marzo 1979, n. 88, e' sostituito dal seguente:
 
 ## STATO DI PREVISIONE DEL MINISTERO DEL BILANCIO E DELLA PROGRAMMAZIONE - ECONOMICA
 
-### ART. 13
+## ART. 13
 
 L'articolo 70 della legge 28 marzo 1979, n. 88, e' sostituito dal seguente:
 
@@ -99,43 +99,43 @@ L'articolo 70 della legge 28 marzo 1979, n. 88, e' sostituito dal seguente:
 
 La quota di cui al predetto articolo 2, lettera c), corrisponde agli stanziamenti previsti per l'anno finanziario 1979, dalle leggi 28 marzo 1968, n. 437; 6 giugno 1974, n. 317; 1 marzo 1975, n. 47; 9 maggio 1975, n. 153; 5 agosto 1975, n. 412; 16 ottobre 1975, n. 493; 10 maggio 1976, n. 261; 10 maggio 1976, n. 352; 1 luglio 1977, n. 403.
 
-### ART. 14
+## ART. 14
 
 Gli importi dei versamenti effettuati con imputazione ai capitoli nn. 3345, 3346, 3347 e 4561 dello stato di previsione dell'entrata sono correlativamente iscritti, con decreti del Ministro del tesoro, al capitolo n. 7081 dello stato di previsione del Ministero del bilancio e della programmazione economica.
 
 ## STATO DI PREVISIONE DEL MINISTERO DEGLI AFFARI ESTERI
 
-### ART. 15
+## ART. 15
 
 L'autorizzazione di spesa di cui all'articolo 82 della legge 28 marzo 1979, n. 88, relativa al funzionamento del Comitato previsto dall'articolo 7 della legge 14 marzo 1977, n. 73, viene ridotta da lire 200 milioni a lire 160 milioni.
 
 ## STATO DI PREVISIONE DEL MINISTERO DELL'AGRICOLTURA E DELLE FORESTE
 
-### ART. 16
+## ART. 16
 
 La Cassa depositi e prestiti, incaricata del servizio di tesoreria della gestione dell'ex Azienda di Stato per le foreste demaniali, e' autorizzata a versare al capitolo n. 3589 del capo XVII dello stato di previsione dell'entrata la somma di lire 3.116.444.781 corrispondente all'ammontare dei residui passivi eliminati dal bilancio della predetta gestione alla chiusura dell'esercizio 1978 per intervenuta perenzione amministrativa.
 
 ## STATO DI PREVISIONE DEL MINISTERO DEL COMMERCIO CON L'ESTERO
 
-### ART. 17
+## ART. 17
 
 I contributi dello Stato nelle spese di funzionamento dell'Istituto nazionale per il commercio con l'estero e per le spese relative all'organizzazione ed al funzionamento degli uffici all'estero, per l'anno finanziario 1979, stabiliti dall'articolo 173 della legge 28 marzo 1979, n. 88, sono elevati, rispettivamente, a lire 27.500 milioni ed a lire 18.000 milioni.
 
 ## STATO DI PREVISIONE DEL MINISTERO DELLA SANITA'
 
-### ART. 18
+## ART. 18
 
 Il contributo di lire 275.000.000 dovuto dall'Italia al Centro internazionale per le ricerche sul cancro per l'anno finanziario 1979, stabilito dall'articolo 184 della legge 28 marzo 1979, n. 88, e' elevato di lire 70.000.000.
 
 ## DISPOSIZIONI DIVERSE
 
-### ART. 19
+## ART. 19
 
 Le spese di cui ai capitoli nn. 2532 e 2533 dello stato di previsione del Ministero del tesoro, ai capitoli nn. 1116 e 1117 dello stato di previsione del Ministero dell'interno ed ai capitoli nn. 1123 e 1124 dello stato di previsione del Ministero della difesa non impegnate nell'anno finanziario 1979 possono essere impegnate nell'esercizio successivo.
 
 ## VARIAZIONI AI BILANCI DELLE AZIENDE AUTONOME
 
-### ART. 20
+## ART. 20
 
 Nei bilanci dell'Istituto agronomico per l'oltremare, dell'Amministrazione dei monopoli di Stato, dell'Amministrazione del Fondo per il culto, dell'Azienda nazionale autonoma delle strade, dell'Azienda autonoma delle ferrovie dello Stato, dell'Amministrazione delle poste e delle telecomunicazioni, dell'Azienda di Stato per i servizi telefonici sono introdotte, per l'anno finanziario 1979, le variazioni di cui all'annessa Tabella C.
 
@@ -151,7 +151,7 @@ Visto, il Guardasigilli: MORLINO
 
 ## VARIAZIONI AI BILANCI DELLE AZIENDE AUTONOME
 
-### Tabella A
+## Tabella A
 
 TABELLA A
 
@@ -429,7 +429,7 @@ speciali relativi alla riserva bancaria ob-
 
 bligatoria
 
-### Tabella B
+## Tabella B
 
 TABELLA B
 
@@ -4275,7 +4275,7 @@ la conservazione, eccetera. . . . . . . . . . " 150.000.000
  =================
 ```
 
-### Tabella C
+## Tabella C
 
 TABELLA C
 

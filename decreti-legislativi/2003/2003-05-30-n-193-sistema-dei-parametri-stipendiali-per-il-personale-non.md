@@ -42,11 +42,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I - Introduzione del sistema dei parametri stipendiali per il personale
+## Capo I - Introduzione del sistema dei parametri stipendiali per il personale non dirigente delle Forze di polizia e delle Forze armate
 
-### non dirigente delle Forze di polizia e delle Forze armate
-
-#### Art. 1
+### Art. 1
 
 Ambito di applicazione
 
@@ -128,7 +126,7 @@ Ambito di applicazione
 
 > \- Il decreto legislativo 12 maggio 1995, n. 195, reca: «Attuazione dell'art. 2 della legge 6 marzo 1992, n. 216, in materia di procedure per disciplinare i contenuti del rapporto di impiego del personale delle Forze di polizia e delle Forze armate.».
 
-#### Art. 2
+### Art. 2
 
 Sistema dei parametri stipendiali
 
@@ -360,7 +358,7 @@ Il D.P.R. 24 marzo 2025, n. 53 ha disposto:
 
 \- (con l'art. 26, comma 3) che "A decorrere dal 1° gennaio 2024, il valore del punto parametrale di cui all'articolo 2 del decreto legislativo 30 maggio 2003, n. 193, e' fissato in euro 195,50 annui lordi".
 
-#### Art. 3
+### Art. 3
 
 Effetti del sistema dei parametri stipendiali
 
@@ -400,7 +398,7 @@ Effetti del sistema dei parametri stipendiali
 
 > \- Il decreto legislativo 30 aprile 1965, n. 165, reca: «Attuazione delle deleghe conferite dall'art. 2, comma 23, della legge 8 agosto 1995, n. 335, e dall'art. 1, commi 97, lettera g), e 99, della legge 23 dicembre 1996, n. 662, in materia di armonizzazione al regime previdenziale generale dei trattamenti pensionistici del personale militare, delle Forze di polizia e del Corpo nazionale dei vigili del fuoco, nonche' del personale non contrattualizzato del pubblico impiego».
 
-#### Art. 4
+### Art. 4
 
 Effetti sulla retribuzione individuale di anzianita'
 
@@ -410,7 +408,7 @@ Effetti sulla retribuzione individuale di anzianita'
 
 ## Capo II - Disposizioni transitorie e finali
 
-#### Art. 5
+### Art. 5
 
 Anticipazioni dei nuovi trattamenti stipendiali
 
@@ -426,7 +424,7 @@ Anticipazioni dei nuovi trattamenti stipendiali
 
 > \- La legge 29 aprile 1976, n. 177, reca: «Collegamento delle pensioni del settore pubblico alla dinamica delle retribuzioni. Miglioramento del trattamento di quiescenza del personale statale e degli iscritti alle casse pensioni degli istituti di previdenza».
 
-#### Art. 6
+### Art. 6
 
 Effetti sui trattamenti economici
 
@@ -434,7 +432,7 @@ Effetti sui trattamenti economici
 
 2\. In deroga a quanto previsto dall'articolo 2, comma 3, e fino a quando non interverranno i miglioramenti stipendiali derivanti dai rinnovi degli accordi sindacali e dalle procedure di concertazione, il parametro attribuito al personale con qualifica di agente e gradi corrispondenti, indicato nelle tabelle 1 e 2, non modifica il trattamento stipendiale, comprensivo dell'indennita' integrativa speciale, in godimento per il medesimo personale alla data di entrata in vigore del presente decreto e riportato nelle tabelle 3, 4 e 5.
 
-#### Art. 7
+### Art. 7
 
 Clausola di salvaguardia economica per gli ispettori capo
 
@@ -444,7 +442,7 @@ e qualifiche e gradi corrispondenti
 
 2\. Il trattamento di cui al comma 1 e' riassorbito all'atto dell'acquisizione della qualifica o del grado superiore.
 
-#### Art. 8
+### Art. 8
 
 Disposizioni per il personale
 
@@ -600,7 +598,7 @@ c) il comma 1 dell'articolo 15-quinquies del decreto del Presidente della Repubb
 
 > 5\. Le modalita' di svolgimento della selezione di cui al comma 1, l'individuazione dei titoli valutabili, la composizione della commissione esaminatrice, nonche' i punteggi da attribuire a ciascuno di essi e le modalita' di formazione della graduatoria finale sono determinati con decreto del Ministro dell'interno».
 
-#### Art. 9
+### Art. 9
 
 Disposizioni per il personale
 
@@ -766,7 +764,7 @@ e) al decreto legislativo 28 febbraio 2001, n. 83, e' aggiunta la tabella C alle
 
 > 7\. (Comma abrogato)».
 
-#### Art. 10
+### Art. 10
 
 Disposizioni per il personale
 
@@ -910,7 +908,7 @@ f) la tabella B allegata al decreto legislativo 28 febbraio 2001, n. 67, e' sost
 
 > «Nei confronti del personale del ruolo "esecutori" si applicano le disposizioni di cui all'art. 58-ter del decreto legislativo 12 maggio 1995, n. 199, e successive modificazioni. Fermo restando il possesso dei requisiti di cui all'art. 58-quater, comma 1, del medesimo decreto legislativo, tale personale consegue la qualifica di luogotenente, a ruolo aperto, previo giudizio di idoneita' espresso dalla competente commissione di avanzamento».
 
-#### Art. 11
+### Art. 11
 
 Disposizioni per il personale
 
@@ -992,7 +990,7 @@ del Corpo di polizia penitenziaria
 
 > 5\. Le modalita' di svolgimento della selezione di cui al comma 1, il numero degli ispettori superiori "sostituti commissario" da individuare annualmente, la composizione della commissione esaminatrice, i titoli valutabili, nonche' i punteggi da attribuire a ciascuno di essi e la specificita' delle mansioni da attribuire ai predetti ispettori superiori "sostituti commissario" sono stabiliti con decreto del Ministro della giustizia».
 
-#### Art. 12
+### Art. 12
 
 Disposizioni per il personale
 
@@ -1148,7 +1146,7 @@ b) il comma 1 dell'articolo 47-ter del decreto legislativo 12 maggio 1995, n. 20
 
 > 6\. Ai periti superiori "scelti" possono essere affidate, nell'ambito delle funzioni di cui all'art. 40, funzioni vicarie del responsabile di unita' organiche operative in cui, oltre al funzionario preposto, non vi siano altri direttivi. Con decreto del capo del Corpo forestale dello Stato sono individuate le unita' nell'ambito delle quali ai periti superiori scelti possono essere affidate le funzioni predette, nonche' ulteriori funzioni di particolare rilevanza tra quelle di cui al medesimo art. 40».
 
-#### Art. 13
+### Art. 13
 
 Disposizioni per il personale
 
@@ -1274,11 +1272,11 @@ quanto compatibili al personale del ruolo dei musicisti.
 
 > Il personale appartenente ai ruoli dei marescialli e dei sergenti giudicato non idoneo e' valutato nuovamente e a tal fine e' incluso nell'aliquota di valutazione dell'anno successivo. Lo stesso, qualora giudicato per la seconda volta non idoneo, potra' essere ulteriormente valutato nel quarto anno successivo ad ogni giudizio negativo. A tal fine e' incluso in aliquota di valutazione e, se giudicato idoneo, promosso a scelta con le stesse modalita' e con le stesse decorrenze attribuite ai pari grado con i quali e' stato portato in avanzamento».
 
-#### Art. 14
+### Art. 14
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-#### Art. 15
+### Art. 15
 
 Abrogazioni
 
@@ -1578,7 +1576,7 @@ s) l'articolo 30, comma 7, del decreto legislativo 28 febbraio 2001, n. 87.
 
 > 10\. Ai fini dell'applicazione dei precedenti commi, si osservano le disposizioni di cui agli articoli 21-bis, 21-ter, 21-quater, 47-bis, 47-ter, 47-quater e 49, commi 1-bis, 1-ter, 1-quater, 1-quinquies, 1-sexies, 1-septies, 1-octies e 1-nonies del decreto legislativo 12 maggio 1995, n. 201, introdotti dal presente decreto, ad eccezione di quella relativa al requisito dell'anzianita' minima richiesta nella qualifica.
 
-#### Art. 16
+### Art. 16
 
 Clausola finanziaria
 
@@ -1618,7 +1616,7 @@ Visto, il Guardasigilli: Castelli
 
 ## Capo II - Disposizioni transitorie e finali
 
-#### Tabelle
+### Tabelle
 
 Tabella 1
 

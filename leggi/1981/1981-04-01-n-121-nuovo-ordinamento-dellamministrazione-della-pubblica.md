@@ -26,11 +26,9 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I - AMMINISTRAZIONE DELLA PUBBLICA SICUREZZA E COORDINAMENTO DELLE FORZE
+## CAPO I - AMMINISTRAZIONE DELLA PUBBLICA SICUREZZA E COORDINAMENTO DELLE FORZE DI POLIZIA
 
-### DI POLIZIA
-
-#### ART. 1 - Attribuzioni del Ministro dell'interno
+### ART. 1 - Attribuzioni del Ministro dell'interno
 
 Il Ministro dell'interno e' responsabile della tutela dell'ordine e della sicurezza pubblica ed e' autorita' nazionale di pubblica sicurezza. Ha l'alta direzione dei servizi di ordine e sicurezza pubblica e coordina in materia i compiti e le attivita' delle forze di polizia.
 
@@ -38,11 +36,11 @@ Il Ministro dell'interno adotta i provvedimenti per la tutela dell'ordine e dell
 
 Restano ferme le competenze del Consiglio dei ministri previste dalle leggi vigenti.
 
-#### ART. 2 - Tutela dell'ordine e della sicurezza pubblica
+### ART. 2 - Tutela dell'ordine e della sicurezza pubblica
 
 Il Ministro dell'interno espleta i propri compiti in materia di tutela dell'ordine e della sicurezza pubblica avvalendosi dell'Amministrazione della pubblica sicurezza.
 
-#### ART. 3 - Amministrazione della pubblica sicurezza
+### ART. 3 - Amministrazione della pubblica sicurezza
 
 L'Amministrazione della pubblica sicurezza e' civile ed ha un ordinamento speciale.
 
@@ -60,7 +58,7 @@ AGGIORNAMENTO (31)
 
 La L. 31 marzo 2000 n. 78 ha disposto (con l'art. 6 comma 3) che la modifica decorre dalla data di entrata in vigore del regolamento di cui all'articolo 6 della suddetta legge.
 
-#### ART. 4 - Dipartimento della pubblica sicurezza
+### ART. 4 - Dipartimento della pubblica sicurezza
 
 Nell'ambito dell'Amministrazione della pubblica sicurezza e' istituito il dipartimento della pubblica sicurezza che provvede, secondo le direttive e gli ordini del Ministro dell'interno:
 
@@ -72,7 +70,7 @@ Nell'ambito dell'Amministrazione della pubblica sicurezza e' istituito il dipart
 
 4\) alla direzione e gestione dei supporti tecnici, anche per le esigenze generali del Ministero dell'interno.
 
-#### ART. 5 - Organizzazione del dipartimento della pubblica sicurezza
+### ART. 5 - Organizzazione del dipartimento della pubblica sicurezza
 
 Il dipartimento della pubblica sicurezza si articola nei seguenti uffici e direzioni centrali:
 
@@ -120,7 +118,7 @@ AGGIORNAMENTO (52)
 
 Il D.P.C.M. 11 giugno 2019, n. 78 ha disposto (con l'art. 4, comma 5) che "L'Ufficio centrale interforze per la sicurezza personale, di cui all'articolo 2 del decreto-legge 6 maggio 2002, n. 83, convertito, con modificazioni, dalla legge 2 luglio 2002, n. 133, e la Direzione centrale per gli istituti di istruzione di cui all'articolo 5, primo comma, della legge n. 121 del 1981, sono soppressi e i relativi compiti sono attribuiti all'Ufficio per il coordinamento e la pianificazione delle Forze di polizia e alla Direzione centrale per gli affari generali e le politiche del personale della Polizia di Stato nonche' alla Direzione centrale per i servizi di ragioneria".
 
-#### ART. 6 - Coordinamento e direzione unitaria delle forze di polizia
+### ART. 6 - Coordinamento e direzione unitaria delle forze di polizia
 
 Il dipartimento della pubblica sicurezza, ai fini dell'attuazione delle direttive impartite dal Ministro dell'interno nell'esercizio delle attribuzioni di coordinamento e di direzione unitaria in materia di ordine e di sicurezza pubblica, espleta compiti di:
 
@@ -148,7 +146,7 @@ Per l'osservanza dei predetti limiti l'incaricando e' tenuto a dichiarare per is
 
 Il compenso e' stabilito, in relazione all'importanza ed alla durata dell'incarico, con decreto del Ministro dell'interno, di concerto con il Ministro del tesoro.
 
-#### ART. 7 - Natura e entita' dei dati e delle informazioni raccolti
+### ART. 7 - Natura e entita' dei dati e delle informazioni raccolti
 
 Le informazioni e i dati di cui all'articolo 6, lettera a), devono riferirsi a notizie risultanti da documenti che comunque siano conservati dalla pubblica amministrazione o da enti pubblici, o risultanti da sentenze o provvedimenti dell'autorita' giudiziaria o da atti concernenti l'istruzione penale acquisibili ai sensi dell'articolo 165-ter del codice di procedura penale o da indagini di polizia.
 
@@ -160,7 +158,7 @@ Possono essere altresi' acquisiti le informazioni e i dati di cui all'articolo 6
 
 Possono essere inoltre comunicati alle polizie indicate al precedente comma le informazioni e i dati di cui all'articolo 6, che non siano coperti da segreto istruttorio.
 
-#### ART. 8 - Istituzione del Centro elaborazione dati
+### ART. 8 - Istituzione del Centro elaborazione dati
 
 E' istituito presso il Ministero dell'interno, nell'ambito dell'ufficio ((di cui alla lettera c) del primo comma dell'articolo 5)), il Centro elaborazione dati, per la raccolta delle informazioni e dei dati di cui all'articolo 6, lettera a), e all'articolo 7.
 
@@ -172,7 +170,7 @@ IL D. LGS. 30 GIUGNO 2003 N. 196 HA RICONFERMATO L'ABROGAZIONE DEL PRESENTE COMM
 
 Il proprietario o responsabile dell'archivio magnetico che ometta la denuncia e' punito con la multa da trecentomila lire a tre milioni.
 
-#### ART. 9 - Accesso ai dati ed informazioni e loro uso
+### ART. 9 - Accesso ai dati ed informazioni e loro uso
 
 L'accesso ai dati e alle informazioni conservati negli archivi automatizzati del Centro di cui all'articolo precedente e loro utilizzazione sono consentiti agli ufficiali di polizia giudiziaria appartenenti alle forze di polizia, agli ufficiali di pubblica sicurezza e ai funzionari dei servizi di sicurezzanonche' agli agenti di polizia giudiziaria delle forze di polizia debitamente autorizzati ai sensi del secondo comma del successivo articolo 11. (43) ((50))
 
@@ -196,7 +194,7 @@ AGGIORNAMENTO (50)
 
 Il D.L. 4 ottobre 2018, n. 113, convertito con modificazioni dalla L. 1 dicembre 2018, n. 132, ha disposto (con l'art. 18, comma 1) che "Fermo restando quanto previsto dall'articolo 16-quater del decreto-legge 18 gennaio 1993, n. 8, convertito, con modificazioni, dalla legge 19 marzo 1993, n. 68, il personale dei Corpi e servizi di polizia municipale dei comuni con popolazione superiore ai centomila abitanti, addetto ai servizi di polizia stradale, in possesso della qualifica di agente di pubblica sicurezza, quando procede al controllo ed all'identificazione delle persone, accede, in deroga a quanto previsto dall'articolo 9 della legge 1° aprile 1981, n. 121, al Centro elaborazione dati di cui all'articolo 8 della medesima legge al fine di verificare eventuali provvedimenti di ricerca o di rintraccio esistenti nei confronti delle persone controllate. La presente disposizione si applica progressivamente, nell'anno 2019, agli altri comuni capoluogo di provincia".
 
-#### ART. 10 - Controlli
+### ART. 10 - Controlli
 
 1\. Il controllo sul Centro elaborazione dati e' esercitato dal Garante per la protezione dei dati personali, nei modi previsti dalla legge e dai regolamenti.
 
@@ -214,19 +212,19 @@ AGGIORNAMENTO (49)
 
 Il D.Lgs. 18 maggio 2018, n. 51 ha disposto (con l'art. 48, comma 2) che "Le disposizioni di cui all'articolo 10, commi 3, 4 e 5, della legge n. 121 del 1981, si applicano, oltre ai dati destinati a confluire nel Centro elaborazione dati di cui al comma 1, ai dati trattati con l'ausilio di strumenti elettronici da organi, uffici o comandi delle Forze di polizia di cui all'articolo 16 della predetta legge n. 121 del 1981".
 
-#### ART. 11 - Procedure
+### ART. 11 - Procedure
 
 Mediante regolamento, da emanarsi entro sei mesi dall'entrata in vigore della presente legge, con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, su proposta del Ministro dell'interno, di concerto con il Ministro di grazia e giustizia, sono stabilite le procedure per la raccolta dei dati e delle informazioni di cui all'articolo 6, lettera a), e all'articolo 7, per l'accesso e la comunicazione dei dati stessi ai soggetti previsti dall'articolo 9, nonche' per la correzione o cancellazione dei dati erronei e la integrazione di quelli incompleti.
 
 Un particolare regime di autorizzazioni da parte dei capi dei rispettivi uffici e servizi, quando non siano questi stessi a fare diretta richiesta dei dati e delle informazioni, deve essere previsto dal regolamento per i soggetti indicati nel primo comma dell'articolo 9.
 
-#### ART. 12 - Sanzioni
+### ART. 12 - Sanzioni
 
 Il pubblico ufficiale che comunica o fa uso di dati ed informazioni in violazione delle disposizioni della presente legge, o al di fuori dei fini previsti dalla stessa, e' punito, salvo che il fatto costituisca piu' grave reato, con la reclusione da uno a tre anni.
 
 Se il fatto e' commesso per colpa, la pena e' della reclusione fino a sei mesi.
 
-#### ART. 13 - Prefetto
+### ART. 13 - Prefetto
 
 Il prefetto e' autorita' provinciale di pubblica sicurezza.
 
@@ -240,7 +238,7 @@ Il prefetto trasmette al Ministro dell'interno relazioni sull'attivita' delle fo
 
 Il prefetto tiene informato il commissario del Governo nella regione sui provvedimenti che adotta nell'esercizio dei poteri ad esso attribuiti dalla presente legge.
 
-#### ART. 14 - Questore
+### ART. 14 - Questore
 
 Il questore e' autorita' provinciale di pubblica sicurezza.
 
@@ -248,7 +246,7 @@ Il questore ha la direzione, la responsabilita' e il coordinamento, a livello te
 
 A tale scopo il questore deve essere tempestivamente informato dai comandanti locali dell'Arma dei carabinieri e della Guardia di finanza su quanto comunque abbia attinenza con l'ordine e la sicurezza pubblica.
 
-#### ART. 15 - Autorita' locali di pubblica sicurezza
+### ART. 15 - Autorita' locali di pubblica sicurezza
 
 Sono autorita' locali di pubblica sicurezza il questore nel capoluogo di provincia e i funzionari preposti ai commissariati di polizia aventi competenza negli altri comuni.
 
@@ -258,7 +256,7 @@ Quando eccezionali esigenze di servizio lo richiedono, il prefetto, o il questor
 
 Le autorita' provinciali di pubblica sicurezza, ai fini dell'ordine e della sicurezza pubblica e della prevenzione e difesa dalla violenza eversiva, sollecitano la collaborazione delle amministrazioni locali e mantengono rapporti con i sindaci dei comuni.
 
-#### ART. 16 - Forze di polizia
+### ART. 16 - Forze di polizia
 
 Ai fini della tutela dell'ordine e della sicurezza pubblica, oltre alla polizia di Stato sono forze di polizia, fermi restando i rispettivi ordinamenti e dipendenze:
 
@@ -270,11 +268,11 @@ Fatte salve le rispettive attribuzioni e le normative dei vigenti ordinamenti, s
 
 Le forze di polizia possono essere utilizzate anche per il servizio di pubblico soccorso.
 
-#### ART. 17 - Funzioni e servizi di polizia giudiziaria
+### ART. 17 - Funzioni e servizi di polizia giudiziaria
 
 Le funzioni di polizia giudiziaria sono svolte alla dipendenza e sotto la direzione dell'autorita' giudiziaria, in conformita' a quanto stabilito dal codice di procedura penale. A tal fine, il dipartimento della pubblica sicurezza provvede, nei contingenti necessari, determinati dal Ministro dell'interno, di concerto con il Ministro di grazia e giustizia, all'istituzione e all'organizzazione dei servizi di polizia giudiziaria anche in base alle direttive impartite dal Ministro dell'interno nell'esercizio delle sue attribuzioni di coordinamento.
 
-#### ART. 18 - Comitato nazionale dell'ordine e della sicurezza pubblica
+### ART. 18 - Comitato nazionale dell'ordine e della sicurezza pubblica
 
 Presso il Ministero dell'interno e' istituito il Comitato nazionale dell'ordine e della sicurezza pubblica quale organo ausiliario di consulenza del Ministro dell'interno per l'esercizio delle sue attribuzioni di alta direzione e di coordinamento in materia di ordine e sicurezza pubblica.
 
@@ -284,7 +282,7 @@ Il Ministro dell'interno puo' chiamare a partecipare alle riunioni del Comitato 
 
 Un funzionario con qualifica dirigenziale espleta le funzioni di segretario del Comitato.
 
-#### ART. 19 - Attribuzioni del Comitato nazionale
+### ART. 19 - Attribuzioni del Comitato nazionale
 
 II Comitato esamina ogni questione di carattere generale relativa alla tutela dell'ordine e della sicurezza pubblica e all'ordinamento ed organizzazione delle forze di polizia ad esso sottoposta dal Ministro dell'interno.
 
@@ -302,7 +300,7 @@ e) sulla pianificazione della dislocazione e del coordinamento delle forze di po
 
 f) sulle linee generali per l'istruzione, l'addestramento, la formazione e la specializzazione del personale delle forze di polizia.
 
-#### ART. 20 - Comitato provinciale per l'ordine e la sicurezza pubblica
+### ART. 20 - Comitato provinciale per l'ordine e la sicurezza pubblica
 
 Presso la prefettura e' istituito il comitato provinciale per l'ordine e la sicurezza pubblica, quale organo ausiliario di consulenza del prefetto per l'esercizio delle sue attribuzioni di autorita' provinciale di pubblica sicurezza.
 
@@ -314,11 +312,11 @@ Il prefetto puo' invitare alle stesse riunioni componenti dell'ordine giudiziari
 
 Alla convocazione e alla formazione dell'ordine del giorno del comitato provvede il prefetto. La convocazione e' in ogni caso disposta quando lo richiede il sindaco del comune capoluogo di provincia per la trattazione di questioni attinenti alla sicurezza della comunita' locale o per la prevenzione di tensioni o conflitti sociali che possono comportare turbamenti dell'ordine o della sicurezza pubblica in ambito comunale. Per la trattazione delle medesime questioni, su richiesta del sindaco, e' altresi' integrato, ove occorra, l'ordine del giorno del comitato.
 
-#### ART. 21 - Collegamenti e sale operative comuni tra le forze di polizia
+### ART. 21 - Collegamenti e sale operative comuni tra le forze di polizia
 
 Il Ministro dell'interno, nell'esercizio delle sue attribuzioni di coordinamento, impartisce direttive ed emana provvedimenti per stabilire collegamenti tra le sale operative delle forze di polizia e istituisce, in casi di particolare necessita', con proprio decreto, di concerto con i Ministri interessati, sale operative comuni.
 
-#### ART. 22 - Scuola di perfezionamento per le forze di polizia
+### ART. 22 - Scuola di perfezionamento per le forze di polizia
 
 E' istituita, presso il dipartimento della pubblica sicurezza, la scuola di perfezionamento per le forze di polizia.
 
@@ -330,7 +328,7 @@ Con regolamento da emanarsi con decreto del Presidente della Repubblica, previa 
 
 ## CAPO II - ORDINAMENTO DELL'AMMINISTRAZIONE DELLA PUBBLICA SICUREZZA
 
-#### ART. 23 - Personale dell'Amministrazione della pubblica sicurezza
+### ART. 23 - Personale dell'Amministrazione della pubblica sicurezza
 
 Il Corpo delle guardie di pubblica sicurezza e il Corpo di polizia femminile sono disciolti.
 
@@ -344,43 +342,43 @@ Al personale appartenente ai ruoli dell'Amministrazione della pubblica sicurezza
 
 Il personale appartenente ai ruoli degli operai permanenti delle scuole di polizia ed al ruolo degli operai dei magazzini del Corpo delle guardie di pubblica sicurezza entra a far parte dei ruoli dell'Amministrazione civile dell'interno secondo le disposizioni di cui all'articolo 40.
 
-#### ART. 24 - Compiti istituzionali della Polizia di Stato
+### ART. 24 - Compiti istituzionali della Polizia di Stato
 
 La Polizia di Stato esercita le proprie funzioni al servizio delle istituzioni democratiche e dei cittadini sollecitandone la collaborazione. Essa tU tela l'esercizio delle liberta' e dei diritti dei cittadini; vigila sull'osservanza delle leggi, dei regolamenti e dei provvedimenti della pubblica autorita'; tutela l'ordine e la sicurezza pubblica; provvede alla prevenzione e alla repressione dei reati; presta soccorso in caso di calamita' ed infortuni.
 
-#### ART. 25 - Personale della Polizia di Stato
+### ART. 25 - Personale della Polizia di Stato
 
 La Polizia di Stato espleta i servizi di istituto con personale maschile e femminile con parita' di attribuzioni, di funzioni, di trattamento economico e di progressione di carriera.
 
 I requisiti psico-fisici e attitudinali, di cui debbono essere in possesso gli appartenenti ai ruoli della Polizia di Stato, che esplicano funzioni di polizia, sono stabiliti con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, su proposta del Ministro dell'interno.
 
-#### ART. 26 - Trasferimento di compiti e attribuzioni
+### ART. 26 - Trasferimento di compiti e attribuzioni
 
 I compiti e le attribuzioni svolti dalla direzione generale della pubblica sicurezza del Ministero dell'interno, dagli uffici da essa dipendenti e dai disciolti corpi di cui all'articolo 23 sono esercitati dall'Amministrazione della pubblica sicurezza e dagli uffici da essa dipendenti, secondo le disposizioni della presente legge.
 
-#### ART. 27 - Bandiere e decorazioni
+### ART. 27 - Bandiere e decorazioni
 
 Le bandiere appartenenti e le decorazioni concesse al Corpo delle guardie di pubblica sicurezza e al Corpo della polizia femminile sono attribuite alla Polizia di Stato.
 
-#### ART. 28 - Dotazioni
+### ART. 28 - Dotazioni
 
 Le attrezzature, i mezzi, gli strumenti, gli equipaggiamenti, i beni immobili ed ogni altra dotazione appartenenti ai corpi di cui all'articolo 23 sono attribuiti all'Amministrazione della pubblica sicurezza.
 
-#### ART. 29 - Accordi e convenzioni con le forze armate
+### ART. 29 - Accordi e convenzioni con le forze armate
 
 Gli accordi per l'uso delle attrezzature militari, gli impegni di assistenza e le convenzioni con enti e con le forze armate, vigenti per il personale civile di pubblica sicurezza e per il Corpo delle guardie di pubblica sicurezza, si applicano all'Amministrazione della pubblica sicurezza, salvo che sia diversamente disposto dal Ministro dell'interno, di concerto con il Ministro competente.
 
-#### ART. 30 - Armamento e divise
+### ART. 30 - Armamento e divise
 
 I criteri per la determinazione dell'armamento in dotazione all'Amministrazione della pubblica sicurezza e al personale dei ruoli della suddetta Amministrazione che svolge funzioni di polizia sono stabiliti, anche in difformita' alle vigenti norme in materia di armi, con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, su proposta del Ministro dell'interno, di concerto con i Ministri della difesa e delle finanze, sentito il Comitato nazionale dell'ordine e della sicurezza pubblica.
 
 Il Ministro dell'interno con proprio decreto determina le caratteristiche delle divise degli appartenenti alla Polizia di Stato nonche' i criteri generali concernenti l'obbligo e le modalita' d'uso.
 
-#### ART. 31
+### ART. 31
 
 ((ARTICOLO ABROGATO DAL D.P.R. 22 MARZO 2001 N. 208))
 
-#### ART. 32 - Questura e uffici dipendenti
+### ART. 32 - Questura e uffici dipendenti
 
 La questura e' ufficio provinciale, che assolve compiti di direzione e organizzazione dei servizi operativi, nonche' le funzioni attribuite dalle leggi e dai regolamenti vigenti.
 
@@ -388,7 +386,7 @@ I commissariati e i posti di polizia sono istituiti in relazione ad appositi ind
 
 Il dipartimento della pubblica sicurezza puo' autorizzare i questori a delegare funzioni di polizia amministrativa, con esclusione di quelle attinenti alle misure di prevenzione, ai dirigenti dei commissariati.
 
-#### ART. 33 - Reparti mobili
+### ART. 33 - Reparti mobili
 
 I reparti mobili sono istituiti per la tutela dell'ordine pubblico e per esigenze di pubblico soccorso.
 
@@ -400,11 +398,11 @@ L'obbligo di permanenza in caserma e' stabilito con apposite norme contenute nel
 
 I reparti mobili debbono disporre di attrezzature atte a prestare soccorso in caso di calamita'; il personale che vi presta servizio dovra' essere preparato allo speciale impiego.
 
-#### ART. 34
+### ART. 34
 
 ((ARTICOLO ABROGATO DAL D.P.R. 22 MARZO 2001 N. 208))
 
-#### ART. 35 - Soppressione dell'Ufficio antidroga
+### ART. 35 - Soppressione dell'Ufficio antidroga
 
 Fermi restando i compiti del Ministro dell'interno in materia di coordinamento e di pianificazione delle forze di polizia, di cui all'articolo 6 della presente legge, e' abrogato l'articolo 7 della legge 22 dicembre 1975, n. 685.
 
@@ -412,7 +410,7 @@ I compiti e le attribuzioni gia' conferite all'ufficio di cui all'articolo 7 del
 
 ## CAPO III - ORDINAMENTO DEL PERSONALE
 
-#### ART. 36 - Ordinamento del personale
+### ART. 36 - Ordinamento del personale
 
 Il Governo della Repubblica e' delegato ad emanare, entro dodici mesi dall'entrata in vigore della presente legge, uno o piu' decreti aventi valore di legge ordinaria per provvedere alla determinazione dell'ordinamento del personale dell'Amministrazione della pubblica sicurezza, da armonizzarsi, con gli opportuni adattamenti, alle previsioni di cui agli articoli 2, 3 e 4 della legge 11 luglio 1980, n. 312, con l'osservanza dei seguenti principi e criteri direttivi:
 
@@ -608,7 +606,7 @@ AGGIORNAMENTO (3)
 
 La L. 12 agosto 1982 n. 569 ha disposto (con l'art. 1) che " dalla data di entrata in vigore dei decreti legislativi del 24 aprile 1982, numeri 335, 336 e 337, di attuazione dell'articolo 36 della legge 1 aprile 1981, n. 121, il ruolo degli agenti e quello degli assistenti sono unificati nel ruolo degli agenti e degli assistenti".
 
-#### ART. 37 - Qualifiche del ruolo degli ispettori e relativa dotazione organica
+### ART. 37 - Qualifiche del ruolo degli ispettori e relativa dotazione organica
 
 Il ruolo degli ispettori e' articolato in quattro qualifiche, che assumono le denominazioni di: vice ispettore, ispettore, ispettore principale e ispettore capo.
 
@@ -618,11 +616,11 @@ vice ispettore . . . . . . . . . . . . . . . . . . . . . unita' 2.500 ispettore.
 
 La consistenza organica del ruolo degli agenti, degli assistenti e dei sovrintendenti sara', rispetto alla dotazione dei disciolti Corpi delle guardie di pubblica sicurezza e della polizia femminile, proporzionalmente ridotta di 7.000 unita'.
 
-#### ART. 38 - Inquadramento del personale
+### ART. 38 - Inquadramento del personale
 
 All'inquadramento del personale previsto dal precedente articolo 36 si provvede con decreto del Ministro dell'interno, sentita una commissione presieduta da un Sottosegretario di Stato, delegato dal Ministro e composta dal capo della polizia direttore generale della pubblica sicurezza, o per sua delega da un vice direttore generale, da quattro dirigenti, in rappresentanza dell'amministrazione, e da quattro rappresentanti del personale, designati dai sindacati di polizia piu' rappresentativi sul piano nazionale.
 
-#### ART. 39 - Attribuzione delle qualifiche
+### ART. 39 - Attribuzione delle qualifiche
 
 Agli appartenenti al ruolo degli agenti della Polizia di Stato e' attribuita la qualita' di agente di pubblica sicurezza e di agente di polizia giudiziaria.
 
@@ -632,7 +630,7 @@ Agli appartenenti ai ruoli dirigenziali e direttivi del personale che esplica fu
 
 Salvo che ai primi dirigenti che assolvono alla funzione di vice questore vicario, agli appartenenti ai ruoli direttivi e ai primi dirigenti del personale che svolge funzioni di polizia e' attribuita la qualita' di ufficiale di polizia giudiziaria.
 
-#### ART. 40 - Ruoli dell'Amministrazione civile dell'interno
+### ART. 40 - Ruoli dell'Amministrazione civile dell'interno
 
 In relazione alla particolarita' dei compiti attribuiti dalle vigenti disposizioni e dalla presente legge all'Amministrazione civile dell'interno, anche per l'attivita' di supporto degli uffici centrali e periferici del Ministero dipendenti dalle autorita' di pubblica sicurezza, il Governo della Repubblica e' delegato a provvedere, entro dodici mesi dall'entrata in vigore della legge stessa, con decreto avente valore di legge ordinaria, alla determinazione dell'ordinamento del personale ed all'organizzazione degli uffici dell'Amministrazione civile dell'interno, osservando i seguenti principi e criteri direttivi.
 
@@ -646,11 +644,11 @@ Sono dettate speciali norme che escludano ogni tipo di mobilita' esterna all'Amm
 
 Sono dettate, sentite le organizzazioni sindacali, norme che, nel rispetto delle liberta' sindacali, consentano di evitare turbative alla continuita' dei servizi essenziali per la tutela dell'ordine e della sicurezza pubblica, ai quali siano preposti o addetti i dipendenti dell'Amministrazione civile dell'interno. Le norme delegate stabiliscono il quadro dei servizi essenziali la cui interruzione pregiudichi la tutela dell'ordine e della sicurezza pubblica.
 
-#### ART. 41 - Rappresentanze del personale nel consiglio di amministrazione
+### ART. 41 - Rappresentanze del personale nel consiglio di amministrazione
 
 I rappresentanti del personale di cui alla lettera d) del primo comma dell'articolo 146 del testo unico approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, modificato dall'articolo 7 della legge 28 ottobre 1970, n. 775, sono eletti direttamente dal personale della Polizia di Stato.
 
-#### ART. 42 - Nomina a dirigente generale di pubblica sicurezza di livello B e nomina e inquadramento a prefetto
+### ART. 42 - Nomina a dirigente generale di pubblica sicurezza di livello B e nomina e inquadramento a prefetto
 
 1\. Nell'ambito della dotazione organica di cui alla tabella B allegata al decreto legislativo 19 maggio 2000, n. 139, alla copertura fino al massimo ((di 14 posti)) di prefetto si provvede mediante nomina e inquadramento riservati ai dirigenti della Polizia di Stato che espletano funzioni di polizia.
 
@@ -666,7 +664,7 @@ I rappresentanti del personale di cui alla lettera d) del primo comma dell'artic
 
 6\. In relazione a quanto previsto al comma 3 e ai provvedimenti da adottarsi a norma dell'articolo 20 del decreto legislativo 19 maggio 2000, n. 139, la qualifica di prefetto di cui all'articolo 2, comma 1, del decreto n. 139 del 2000, deve intendersi di rango non inferiore a livello dirigenziale B.
 
-#### ART. 43 - Trattamento economico
+### ART. 43 - Trattamento economico
 
 Il trattamento economico del personale della Polizia di Stato, esclusi i dirigenti, e' stabilito sulla base di accordi di cui all'articolo 95, con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, ferma restando la necessita' di approvazione per legge delle spese incidenti sul bilancio dello Stato.
 
@@ -964,7 +962,7 @@ Il D.P.R. 20 aprile 2022, n. 57, nel modificare l'art. 20, comma 1 del D.P.R. 15
 
 Parte di provvedimento in formato grafico".
 
-#### ART. 43-bis
+### ART. 43-bis
 
 1\. A decorrere dal 1 settembre 1995, al personale delle Forze di polizia di cui alla Tabella di equiparazione allegata al presente articolo e' attribuito lo stipendio del livello retributivo e l'indennita' mensile pensionabile risultanti dalla medesima tabella, nonche' gli scatti stipendiali ivi previsti in luogo di ogni altro scatto aggiuntivo, comunque denominato, previsto in caso di promozione o nomina al grado o qualifica superiore, nell'ambito dello stesso livello retribuitivo, nonche', ove spettanti, di quelli stabiliti dall'articolo 1 del decreto-legge 6 maggio 1994, n. 271, convertito, con modificazioni, dalla legge 6 luglio 1994, n. 433.
 
@@ -974,11 +972,11 @@ Parte di provvedimento in formato grafico".
 
 ----&gt; ((Parte di provvedimento in formato grafico)) &lt;----
 
-#### ART. 43-ter
+### ART. 43-ter
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-#### ART. 44 - Obblighi di leva
+### ART. 44 - Obblighi di leva
 
 Ferme restando le norme di cui alla legge 8 luglio 1980, n. 343, il servizio prestato per non meno di due anni nella Polizia di Stato, ivi compreso il periodo di frequenza dei corsi, da parte del personale ((assunto nei ruoli del personale della Polizia di Stato)) e' considerato ad ogni effetto come adempimento degli obblighi di leva.(1)
 
@@ -990,7 +988,7 @@ La L. 24 novembre 1981 n. 675 ha disposto (con l'art. 4) che "Il riferimento, di
 
 ## CAPO IV - AMMISSIONE, ISTRUZIONE E FORMAZIONE DEL PERSONALE.
 
-#### ART. 45 - Limiti di eta'
+### ART. 45 - Limiti di eta'
 
 Per l'ammissione ai concorsi pubblici per l'assunzione del personale che esplica funzioni di polizia non si applicano:
 
@@ -1000,7 +998,7 @@ b) le norme previste dagli articoli 26-quater e 26-quinquies del decreto-legge 3
 
 ((Per l'ammissione ai concorsi per l'assunzione degli ispettori e dei commissari degli appartenenti ai ruoli dell'Amministrazione civile dell'Interno, i limiti di eta' previsti dall'articolo 52, primo comma, e dall'articolo 55, primo comma, sono elevati a 40 anni)).
 
-#### ART. 46 - Idoneita' psico-fisica e attitudinale
+### ART. 46 - Idoneita' psico-fisica e attitudinale
 
 Gli accertamenti per l'idoneita' psico-fisica e attitudinale dei candidati ai concorsi per il personale che esplica funzioni di polizia sono svolti dai medici e da un centro psico-tecnico specializzato nella selezione del personale, appartenenti all'Amministrazione della pubblica sicurezza.
 
@@ -1008,7 +1006,7 @@ Al di fuori dei casi di cui al comma precedente, per particolari esigenze l'Ammi
 
 ((Fino a quando non sara' attuato il punto IV dell'articolo 36, per gli accertamenti di cui al primo comma, l'Amministrazione della pubblica sicurezza puo' avvalersi anche di medici o di strutture specializzate di altri corpi di polizia o delle forze armate)).
 
-#### ART. 47 - Nomina ad allievo agente di polizia
+### ART. 47 - Nomina ad allievo agente di polizia
 
 L'assunzione degli agenti di polizia avviene con le modalita' stabilite dall'ordinamento del personale della Polizia di Stato che espleta funzioni di polizia.
 
@@ -1048,47 +1046,47 @@ AGGIORNAMENTO (33a)
 
 La L. 31 marzo 2000, n. 78, come modificata dalla L. 29 marzo 2001, n. 86, non prevede piu', nel nuovo testo dell'art. 6, comma 5, l'abrogazione del presente articolo.
 
-#### ART. 48
+### ART. 48
 
 ((ARTICOLO ABROGATO DAL D. LGS. 28 FEBBRAIO 2001 N. 53))
 
-#### ART. 49
+### ART. 49
 
 ((ARTICOLO ABROGATO DAL D. LGS. 28 FEBBRAIO 2001 N. 53))
 
-#### ART. 50
+### ART. 50
 
 ((ARTICOLO ABROGATO DAL D. LGS. 28 FEBBRAIO 2001 N. 53))
 
-#### ART. 51 - Nomina a sovrintendente di polizia
+### ART. 51 - Nomina a sovrintendente di polizia
 
 Il concorso interno e il corso di formazione tecnico-professionale per l'accesso al ruolo di sovrintendente si svolgono secondo le modalita' di cui al terzo comma dell'articolo 59 e al penultimo comma dell'articolo 60.
 
-#### ART. 52
+### ART. 52
 
 ((ARTICOLO ABROGATO DAL D. LGS. 28 FEBBRAIO 2001 N. 53))
 
-#### ART. 53
+### ART. 53
 
 ((ARTICOLO ABROGATO DAL D. LGS. 28 FEBBRAIO 2001 N. 53))
 
-#### ART. 54
+### ART. 54
 
 ((ARTICOLO ABROGATO DAL D. LGS. 28 FEBBRAIO 2001 N. 53))
 
-#### ART. 55
+### ART. 55
 
 ((ARTICOLO ABROGATO DAL D. LGS. 5 OTTOBRE 2000 N. 334))
 
-#### ART. 56
+### ART. 56
 
 ((ARTICOLO ABROGATO DAL D. LGS. 5 OTTOBRE 2000 N. 334))
 
-#### ART. 57
+### ART. 57
 
 ((ARTICOLO ABROGATO DAL D. LGS. 5 OTTOBRE 2000 N. 334))
 
-#### ART. 58 - Istituto superiore di polizia
+### ART. 58 - Istituto superiore di polizia
 
 Il Governo della Repubblica e' delegato a provvedere, entro dodici mesi dall'entrata in vigore della presente legge, con decreto avente valore di legge ordinaria, alla istituzione di una scuola nazionale con sede a Roma per la formazione e specializzazione dei quadri direttivi dell'Amministrazione della pubblica sicurezza, che assume la denominazione di Istituto superiore di polizia, secondo i seguenti principi e criteri direttivi:
 
@@ -1112,7 +1110,7 @@ i) determinazione di modalita' per garantire l'osservanza dell'obbligo, che deve
 
 l) previsione di norme che consentano, a coloro che hanno ottenuto il diploma, di conseguire, mediante il superamento di esami integrativi, il diploma di laurea.
 
-#### ART. 59 - Trattamento economico degli allievi e modalita' dei concorsi
+### ART. 59 - Trattamento economico degli allievi e modalita' dei concorsi
 
 Il trattamento economico degli allievi dei corsi di cui agli articoli precedenti e' determinato, in misura proporzionale alle retribuzioni delle qualifiche iniziali cui danno accesso i rispettivi corsi, con decreto del Ministro dell'interno, di concerto con il Ministro del tesoro.
 
@@ -1126,7 +1124,7 @@ AGGIORNAMENTO (7)
 
 Il D.L. 19 dicembre 1984 n. 858, convertito con modificazioni dalla L. 17 febbraio 1985 n. 19, ha disposto (con l'art. 4-bis comma 1) che: "In deroga a quanto previsto dall'articolo 59 della legge 1 aprile 1981, n. 121, e per la durata di un quinquennio, per la copertura dei posti nelle qualifiche iniziali dei ruoli degli agenti ed assistenti, degli ispettori, nonche' nelle qualifiche iniziali dei corrispondenti ruoli del personale che espleta attivita' tecnico-scientifica o tecnica, il Ministro dell'interno e' autorizzato a bandire pubblici concorsi per una o piu' regioni o province ed a costituire una o piu' commissioni per l'accertamento dell'idoneita' psicofisica e attitudinale dei candidati e una commissione esaminatrice per ogni singolo concorso, stabilendo, altresi', le prove d'esame e le modalita' ad esse relative anche in deroga alle vigenti disposizioni".
 
-#### ART. 60 - Istruzione e formazione professionale
+### ART. 60 - Istruzione e formazione professionale
 
 Gli istituti di istruzione per la formazione del personale della Polizia di Stato sono i seguenti:
 
@@ -1154,13 +1152,13 @@ Fuori dei casi previsti dal quinto comma, per l'insegnamento o per l'addestramen
 
 COMMA ABROGATO DAL D. LGS. 28 FEBBRAIO 2001 N. 53.
 
-#### Art. 60-bis
+### Art. 60-bis
 
 (( (Equipollenza dei titoli conseguiti). ))
 
 ((1. Con decreto del Ministro dell'istruzione, dell'universita' e della ricerca, di concerto con i Ministri dell'interno, del lavoro e delle politiche sociali e dell'economia e delle finanze, e' stabilita, sulla base degli insegnamenti impartiti, la equipollenza dei titoli conseguiti al termine dei corsi di formazione generale, di quelli di aggiornamento professionale e di quelli di perfezionamento e specialistici, frequentati dagli appartenenti ai ruoli non dirigenziali e non direttivi del personale della Polizia di Stato, con quelli rilasciati dagli istituti professionali, ivi compresi quelli conseguibili con la frequenza dei corsi sperimentali di cui al decreto del Presidente della Repubblica 19 marzo 1970, n. 253, anche ai fini dell'ammissione agli esami di maturita' professionale. In relazione al suddetto decreto sono rilasciati agli interessati i relativi titoli)).
 
-#### ART. 61 - Accesso ai ruoli diversi da quelli del personale che esplica funzioni di polizia
+### ART. 61 - Accesso ai ruoli diversi da quelli del personale che esplica funzioni di polizia
 
 L'accesso alla qualifica iniziale dei ruoli per il personale che svolge attivita' tecnico-scientifica o tecnica anche di carattere esecutivo attinente ai servizi di polizia e ai ruoli per il personale che esplica mansioni di carattere professionale attinenti ai servizi di polizia, per il cui esercizio occorre l'iscrizione in albi professionali, avviene mediante pubblico concorso per titoli ed esami, al quale sono ammessi a partecipare i cittadini italiani che abbiano i requisiti generali per la partecipazione ai pubblici concorsi e siano in possesso dei titoli di studio richiesti e delle necessarie abilitazioni professionali.
 
@@ -1182,13 +1180,13 @@ La L. 31 marzo 2000, n. 78, come modificata dalla L. 29 marzo 2001, n. 86, non p
 
 ## CAPO V - DIRITTI E DOVERI.
 
-#### ART. 62 - Promessa solenne e giuramento
+### ART. 62 - Promessa solenne e giuramento
 
 I cittadini che entrano a far parte dell'Amministrazione della pubblica sicurezza debbono prestare promessa solenne e giuramento di cui all'articolo 11 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
 
 Il rifiuto comporta la decadenza dall'impiego.
 
-#### ART. 63 - Orario di servizio
+### ART. 63 - Orario di servizio
 
 L'orario di servizio per il personale della pubblica sicurezza e' fissato in quaranta ore settimanali, ripartite in turni giornalieri secondo le esigenze di servizio.
 
@@ -1204,7 +1202,7 @@ Ove per particolari esigenze di servizio il giorno di riposo non possa essere us
 
 Il personale di cui al precedente comma che presta servizio in un giorno festivo non domenicale, ha diritto di godere di un giorno di riposo stabilito dall'Amministrazione entro le quattro settimane successive.
 
-#### ART. 64 - Obbligo di permanenza e reperibilita'
+### ART. 64 - Obbligo di permanenza e reperibilita'
 
 Per esigenze di ordine e di sicurezza pubblica o di pubblico soccorso puo' essere fatto obbligo agli appartenenti ai ruoli della Polizia di Stato di permanere in caserma od in ufficio, ovvero di mantenere la reperibilita', secondo le modalita' stabilite dal regolamento di servizio di cui all'articolo 111.
 
@@ -1212,7 +1210,7 @@ Il personale che esplica funzioni di polizia ha l'obbligo di alloggiare presso g
 
 Per il mantenimento delle mense non obbligatorie di servizio verra' concesso un contributo nella misura stabilita per le mense di eguale natura delle forze annate dello Stato.
 
-#### ART. 65 - Doveri di subordinazione
+### ART. 65 - Doveri di subordinazione
 
 Gli appartenenti ai ruoli dell'Amministrazione della pubblica sicurezza hanno doveri di subordinazione gerarchica nei confronti:
 
@@ -1224,7 +1222,7 @@ c) del capo della polizia-direttore generale della pubblica sicurezza.
 
 Restano salvi i doveri di subordinazione funzionali degli, appartenenti all'Amministrazione della pubblica sicurezza verso il prefetto e, nei casi previsti dalla legge, verso le altre autorita' dello Stato.
 
-#### ART. 66 - Ordine gerarchico e rapporti funzionali
+### ART. 66 - Ordine gerarchico e rapporti funzionali
 
 L'appartenente ai ruoli dell'Amministrazione della pubblica sicurezza e' tenuto ad eseguire gli ordini impartiti dal superiore gerarchico od operativo.
 
@@ -1242,7 +1240,7 @@ Fermo restando il disposto degli articoli 13 e 14, al personale del ruolo dei co
 
 L'inosservanza di quanto disposto nel presente articolo comporta responsabilita' disciplinari, salva la eventuale responsabilita' penale.
 
-#### ART. 67
+### ART. 67
 
 (Impiego degli appartenenti alla Polizia
 
@@ -1250,11 +1248,11 @@ di Stato)
 
 Gli appartenenti alla Polizia di Stato non possono essere impiegati in compiti che non siano attinenti al servizio di istituto.
 
-#### ART. 68 - Doveri fuori servizio per gli appartenenti all'Amministrazione della pubblica sicurezza
+### ART. 68 - Doveri fuori servizio per gli appartenenti all'Amministrazione della pubblica sicurezza
 
 Gli appartenenti ai ruoli dell'Amministrazione della pubblica sicurezza sono comunque tenuti, anche fuori dal servizio, ad osservare i doveri inerenti alla loro funzione.
 
-#### ART. 69 - Assistenza religiosa
+### ART. 69 - Assistenza religiosa
 
 Al personale della Polizia di Stato che risieda presso alloggi collettivi di servizio o scuole, e' assicurata l'assistenza religiosa, nel rispetto dei principi costituzionali.
 
@@ -1262,7 +1260,7 @@ Per assicurare l'assistenza religiosa e' escluso il ricorso ai cappellani milita
 
 ## CAPO VI - NORME DISCIPLINARI E PENALI
 
-#### ART. 70 - Disciplina e procedimento disciplinare
+### ART. 70 - Disciplina e procedimento disciplinare
 
 Il Governo della Repubblica e' delegato a provvedere, entro sei mesi dall'entrata in vigore della presente legge, con decreto avente valore di legge ordinaria, alla determinazione delle sanzioni disciplinari per il personale dell'Amministrazione della pubblica sicurezza e alla regolamentazione del relativo procedimento, con l'osservanza dei seguenti principi e criteri direttivi:
 
@@ -1288,11 +1286,11 @@ previsione che detti organi abbiano carattere collegiale per le sanzioni piu' gr
 
 10\) previsione di norme transitorie per il trasferimento ai nuovi organi disciplinari dei procedimenti pendenti alla entrata in vigore delle norme delegate.
 
-#### ART. 71 - Giurisdizione
+### ART. 71 - Giurisdizione
 
 Gli appartenenti all'Amministrazione della pubblica sicurezza sono soggetti alla giurisdizione penale dell'autorita' giudiziaria ordinaria, secondo le norme vigenti e quelle contenute nei successivi articoli.
 
-#### ART. 72 - Abbandono del posto di servizio
+### ART. 72 - Abbandono del posto di servizio
 
 L'appartenente alla Polizia di Stato che, nel corso di operazioni di polizia o durante l'impiego in reparti organici, abbandona il posto o il servizio, o viola l'ordine o le disposizioni generali o particolari impartite, e' punito con la reclusione fino a tre anni.
 
@@ -1314,7 +1312,7 @@ munizioni o materie infiammabili od esplosive;
 
 Se dal fatto deriva l'interruzione del servizio o grave danno la pena e' della reclusione da due a cinque anni.
 
-#### ART. 73 - Rivolta
+### ART. 73 - Rivolta
 
 Fuori della ipotesi prevista dall'articolo 284 del codice penale, sono puniti con la reclusione da tre a dieci anni gli appartenenti alla Polizia di Stato che, riuniti in numero di cinque o piu':
 
@@ -1324,17 +1322,17 @@ Fuori della ipotesi prevista dall'articolo 284 del codice penale, sono puniti co
 
 La pena per chi ha promosso, organizzato o diretto la rivolta e' della reclusione non inferiore a cinque anni.
 
-#### ART. 74 - Associazione al fine di commettere il delitto di rivolta
+### ART. 74 - Associazione al fine di commettere il delitto di rivolta
 
 Quando cinque o piu' appartenenti alla Polizia di Stato si associano allo scopo di commettere il delitto di rivolta, se il delitto non e' commesso la pena e' della reclusione da uno a quattro anni.
 
 Non sono punibili coloro che impediscono l'esecuzione del delitto.
 
-#### ART. 75 - Movimento non autorizzato di reparto
+### ART. 75 - Movimento non autorizzato di reparto
 
 Il comandante di un reparto organico di polizia che, senza speciale incarico o autorizzazione ovvero senza necessita', contravvenendo alle norme sull'impiego dei reparti, ordina il movimento del reparto e' punito con la reclusione fino ad un anno, sempre che il fatto non costituisca reato piu' grave.
 
-#### ART. 76 - Manifestazioni collettive con mezzi od armi della polizia
+### ART. 76 - Manifestazioni collettive con mezzi od armi della polizia
 
 Gli appartenenti all'Amministrazione della pubblica sicurezza che compiono manifestazioni collettive pubbliche mediante l'uso di mezzi della polizia sono puniti con la reclusione sino a sei mesi o con la multa da lire cinquantamila a lire un milione.
 
@@ -1342,17 +1340,17 @@ La pena e' aumentata fino a nove mesi e la multa fino ad un milione e mezzo di l
 
 Gli appartenenti all'Amministrazione della pubblica sicurezza che partecipano alla manifestazione con il possesso di armi sono puniti con la reclusione da sei mesi a due anni.
 
-#### ART. 77 - Alterazione di armi o munizioni, porto di armi non in dotazione
+### ART. 77 - Alterazione di armi o munizioni, porto di armi non in dotazione
 
 L'appartenente alla Polizia di Stato che altera in qualsiasi modo le caratteristiche delle armi proprie o del munizionamento in dotazione o che porta in servizio armi diverse da quelle in dotazione e' punito con la reclusione fino a tre anni e con la multa fino a lire due milioni.
 
 Alle stesse pene e' sottoposto il superiore gerarchico che consente i fatti di cui al comma precedente.
 
-#### ART. 78 - Arbitraria utilizzazione di prestazioni lavorative
+### ART. 78 - Arbitraria utilizzazione di prestazioni lavorative
 
 Salvo che il fatto costituisca piu' grave reato, il pubblico ufficiale che utilizza arbitrariamente le prestazioni lavorative di personale dell'Amministrazione della pubblica sicurezza, in contrasto con i compiti di istituto, al fine di realizzare un profitto proprio o di altri, e' punito con la reclusione fino a due anni.
 
-#### ART. 79
+### ART. 79
 
 ((Esecuzione delle pene detentive e delle misure
 
@@ -1364,7 +1362,7 @@ A richiesta del condannato, la pena detentiva inflitta per qualsiasi reato agli 
 
 In questi casi la richiesta puo' essere proposta agli ufficiali o agenti della polizia giudiziaria o della forza pubblica nel processo verbale di cui all'articolo 266 del codice di procedura penale)).
 
-#### ART. 80 - Giudizio direttissimo
+### ART. 80 - Giudizio direttissimo
 
 Per i delitti di cui agli articoli 72, 73, 74, 75, 76 e 77 della presente legge si procede, in ogni caso, col giudizio direttissimo, salvo che siano necessarie speciali indagini.
 
@@ -1372,7 +1370,7 @@ Per i reati connessi si procede previa separazione dei giudizi.
 
 ## CAPO VII - NORME DI COMPORTAMENTO POLITICO - RAPPRESENTANZE E DIRITTI SINDACALI
 
-#### ART. 81 - Norme di comportamento politico
+### ART. 81 - Norme di comportamento politico
 
 Gli appartenenti alle forze di polizia debbono in ogni circostanza mantenersi al di fuori delle competizioni politiche e non possono assumere comportamenti che compromettano l'assoluta imparzialita' delle loro funzioni. Agli appartenenti alle forze di polizia e' fatto divieto di partecipare in uniforme, anche se fuori servizio, a riunioni e manifestazioni di partiti, associazioni e organizzazioni politiche o sindacali, salvo quanto disposto dall'articolo seguente.
 
@@ -1380,7 +1378,7 @@ E' fatto altresi' divieto di svolgere propaganda a favore o contro partiti, asso
 
 Gli appartenenti alle forze di polizia candidati ad elezioni politiche o amministrative sono posti in aspettativa speciale con assegni dal momento della accettazione della candidatura per la durata della campagna elettorale e possono svolgere attivita' politica e di propaganda, al di fuori dell'ambito dei rispettivi uffici e in abito civile. Essi, comunque, non possono prestare servizio nell'ambito della circoscrizione nella quale si sono presentati come candidati alle elezioni, per un periodo di tre anni dalla data delle elezioni stesse.
 
-#### ART. 82 - Diritti sindacali
+### ART. 82 - Diritti sindacali
 
 Gli appartenenti alla Polizia di Stato hanno diritto di associarsi in sindacati.
 
@@ -1394,17 +1392,17 @@ b) in luoghi aperti al pubblico.
 
 Possono tenersi riunioni durante l'orario di servizio nei limiti di dieci ore annue. I dirigenti della Polizia di Stato hanno facolta' di fissare speciali modalita' di tempo e di luogo per il loro svolgimento.
 
-#### ART. 83 - Sindacati della Polizia di Stato
+### ART. 83 - Sindacati della Polizia di Stato
 
 I sindacati del personale della Polizia di Stato sono formati, diretti e rappresentati da appartenenti alla Polizia di Stato, in attivita' di servizio ((o in quiescenza)), e ne tutelano gli interessi, senza interferire nella direzione dei servizi o nei compiti operativi.
 
 Essi non possono aderire, affiliarsi o avere relazioni di carattere organizzativo con altre associazioni sindacali.
 
-#### ART. 84 - Divieto di esercizio del diritto di sciopero
+### ART. 84 - Divieto di esercizio del diritto di sciopero
 
 Gli appartenenti alla Polizia di Stato non esercitano il diritto di sciopero ne' azioni sostitutive di esso che, effettuate durante il servizio, possano pregiudicarle esigenze di tutela dell'ordine e della sicurezza pubblica o le attivita' di polizia giudiziaria.
 
-#### ART. 85 - Consiglio nazionale di polizia
+### ART. 85 - Consiglio nazionale di polizia
 
 E' istituito il Consiglio nazionale di polizia quale organismo consultivo del Ministro dell'interno nelle seguenti materie, concernenti la Amministrazione della pubblica sicurezza:
 
@@ -1422,7 +1420,7 @@ Il regolamento del Consiglio nazionale e' approvato dal Ministro, su proposta de
 
 Per la validita' delle sedute e' necessaria la presenza di almeno due terzi dei componenti in prima convocazione e della meta' in seconda convocazione.
 
-#### ART. 86 - Composizione del Consiglio nazionale di polizia
+### ART. 86 - Composizione del Consiglio nazionale di polizia
 
 Il Consiglio nazionale di polizia e' presieduto dal Ministro dell'interno o da un Sottosegretario da lui delegato.
 
@@ -1434,7 +1432,7 @@ b) trenta eletti secondo le norme dell'articolo seguente.
 
 Il Consiglio nazionale dura in carica tre anni. I suoi membri non sono immediatamente riconfermabili dopo due mandati consecutivi.
 
-#### ART. 87 - Elezione dei delegati e dei componenti del Consiglio nazionale di polizia
+### ART. 87 - Elezione dei delegati e dei componenti del Consiglio nazionale di polizia
 
 Al fine di procedere alle elezioni di cui all'articolo precedente, gli appartenenti alla Polizia di Stato sono suddivisi nelle seguenti fasce elettorali:
 
@@ -1486,7 +1484,7 @@ Per la prima elezione del Consiglio, da tenersi entro tre mesi dall'entrata in v
 
 Si procede a nuove elezioni del Consiglio entro sei mesi dall'entrata in vigore dei decreti di cui all'articolo 109.
 
-#### ART. 88 - Aspettativa per motivi sindacali
+### ART. 88 - Aspettativa per motivi sindacali
 
 Gli appartenenti alla Polizia di Stato, che ricoprono cariche direttive in seno alle proprie organizzazioni sindacali a carattere nazionale maggiormente rappresentative, sono, a domanda da presentare tramite la competente organizzazione, collocati in aspettativa per motivi sindacali. ((27))
 
@@ -1502,7 +1500,7 @@ AGGIORNAMENTO (27)
 
 Il D.P.R. 31 luglio 1995 n. 395 ha disposto (con l'art. 27 comma 6) che "a partire dal 1 gennaio 1996 cessano di avere efficacia gli articoli 88, commi 1, 2 e 3".
 
-#### ART. 89 - Trattamento economico del personale in aspettativa per motivi sindacali
+### ART. 89 - Trattamento economico del personale in aspettativa per motivi sindacali
 
 Al personale collocato in aspettativa ai sensi dell'articolo precedente sono corrisposti, a carico della amministrazione, tutti gli assegni spettanti ai sensi delle vigenti disposizioni, nella qualifica e classe di appartenenza, escluse soltanto le indennita' che retribuiscono il lavoro straordinario o servizi e funzioni di natura speciale in relazione alle prestazioni effettivamente rese.
 
@@ -1518,7 +1516,7 @@ AGGIORNAMENTO (27)
 
 Il D.P.R. 31 luglio 1995 n. 395 ha disposto (con l'art. 27 comma 6) che "a partire dal 1 gennaio 1996 cessa di avere efficacia l'art. 89 della legge 1 aprile 1981, n. 121".
 
-#### ART. 90 - Assenze dall'ufficio autorizzate per motivi sindacali
+### ART. 90 - Assenze dall'ufficio autorizzate per motivi sindacali
 
 Gli appartenenti alla Polizia di Stato di cui all'articolo 88, che siano componenti degli organi collegiali statutari delle organizzazioni sindacali e che non siano collocati in aspettativa per motivi sindacali, sono, a richiesta della rispettiva organizzazione, autorizzati, salvo che vi ostino eccezionali ed inderogabili esigenze di servizio, ad assentarsi dall'ufficio per il tempo necessario per presenziare alle riunioni dell'organo collegiale o per l'espletamento della normale attivita' sindacale. In ciascuna provincia e per ciascuna organizzazione sindacale, l'autorizzazione e' concessa per tre dipendenti e per una durata media non superiore a tre giorni al mese. A tale fine non si computano le assenze dal servizio per la partecipazione a congressi e convegni nazionali ovvero per la partecipazione a trattative sindacali su convocazione dell'amministrazione. Ove ricorrano particolari esigenze delle organizzazioni, l'amministrazione puo' eccezionalmente autorizzare assenze oltre i limiti predetti.((27))
 
@@ -1528,7 +1526,7 @@ AGGIORNAMENTO (27)
 
 Il D.P.R. 31 luglio 1995 n. 395 ha disposto (con l'art. 28 comma 9) che a partire dal 1 gennaio 1996, cessa di avere efficacia l' articolo 90 della legge 1 aprile 1981, n. 121.
 
-#### ART. 91 - Trattamento economico dei rappresentanti che si assentano dal servizio per motivi sindacali
+### ART. 91 - Trattamento economico dei rappresentanti che si assentano dal servizio per motivi sindacali
 
 Al personale di cui all'articolo precedente competono, oltre al trattamento ordinario, i compensi e le indennita' per servizi e funzioni di carattere speciale in relazione alle prestazioni effettivamente rese.
 
@@ -1540,13 +1538,13 @@ AGGIORNAMENTO (27)
 
 Il D.P.R. 31 luglio 1995 n. 395 ha disposto (con l'art. 28 comma 6) che "a partire dal 1 gennaio 1996, cessa di avere efficacia l' articolo 91 della legge 1 aprile 1981, n. 121".
 
-#### ART. 92 - Disponibilita' di spazi murali e di locali per attivita' sindacali
+### ART. 92 - Disponibilita' di spazi murali e di locali per attivita' sindacali
 
 Negli uffici centrali e periferici della Polizia di Stato e' concesso alle varie organizzazioni sindacali l'uso gratuito di appositi spazi per l'affissione di giornali murali, notiziari, circolari, manifesti e altri scritti o stampati conformi alle disposizioni generali sulla stampa e concernenti notizie esclusivamente sindacali, in locali distinti da quelli in cui e' generalmente ammesso il pubblico.
 
 A ciascuna delle organizzazioni sindacali a carattere nazionale maggiormente rappresentative e' altresi' concesso, nella sede centrale ((ed in ogni provincia )), l'uso gratuito di un locale da adibire ad ufficio sindacale, tenuto conto delle disponibilita' obiettive e secondo le modalita' determinate dall'amministrazione, sentite le organizzazioni sindacali.
 
-#### ART. 93 - Delega per la riscossione di contributi sindacali
+### ART. 93 - Delega per la riscossione di contributi sindacali
 
 Gli appartenenti alla Polizia di Stato hanno facolta' di rilasciare delega, esente da tassa di bollo e dalla registrazione, a favore della propria organizzazione sindacale, per la riscossione di una quota mensile dello stipendio, paga o retribuzione, per il pagamento dei contributi sindacali nella misura stabilita dai competenti organi statutari. Resta fermo il disposto di cui all'articolo 70 del testo unico approvato con decreto del Presidente della Repubblica 5 gennaio 1950, n. 180.
 
@@ -1554,7 +1552,7 @@ La delega ha validita' dal primo giorno del mese successivo a quello del rilasci
 
 Le trattenute operate dall'amministrazione sulle retribuzioni, in base alle deleghe presentate dalle organizzazioni sindacali, sono versate alle stesse organizzazioni secondo modalita' da concordare.
 
-#### ART. 94 - Utilizzazione del personale invalido per cause di servizio
+### ART. 94 - Utilizzazione del personale invalido per cause di servizio
 
 Fermo restando il disposto di cui al punto XX dell'articolo 36, il Governo della Repubblica e' delegato ad emanare, entro sei mesi dall'entrata in vigore della presente legge, un decreto avente valore di legge ordinaria per provvedere ad una organica disciplina sull'utilizzazione, nell'ambito della stessa amministrazione, degli appartenenti alle forze di polizia che abbiano subito una invalidita', la quale non comporti l'inidoneita' assoluta ai servizi di istituto, per effetto di ferite, lesioni o altre infermita' riportate in conseguenza di eventi connessi all'espletamento di compiti di istituto, con l'osservanza dei seguenti criteri:
 
@@ -1578,7 +1576,7 @@ AGGIORNAMENTO (33a)
 
 La L. 31 marzo 2000, n. 78, come modificata dalla L. 29 marzo 2001, n. 86, non prevede piu', nel nuovo testo dell'art. 6, comma 5, l'abrogazione del presente articolo.
 
-#### ART. 95 - Accordi sindacali
+### ART. 95 - Accordi sindacali
 
 Gli accordi sindacali previsti dalla presente legge vengono stipulati da una delegazione composta dal Ministro per la funzione pubblica, che la presiede, dal Ministro dell'interno e dal Ministro del tesoro, o dai Sottosegretari, rispettivamente delegati, e da una delegazione composta da rappresentanti dei sindacati di polizia maggiormente rappresentativi su scala nazionale.
 
@@ -1594,7 +1592,7 @@ La L. 15 dicembre 1990 n. 395 ha disposto (con l'art. 13 comma 2) che "Le delega
 
 ## CAPO VIII - NORME TRANSITORIE E FINALI
 
-#### ART. 96 - Disciplina provvisoria del personale
+### ART. 96 - Disciplina provvisoria del personale
 
 Fino all'entrata in vigore del nuovo ordinamento del personale dell'Amministrazione della pubblica sicurezza, lo stato giuridico, l'avanzamento, il trattamento economico e di quiescenza sono disciplinati, per il personale facente parte della Amministrazione della pubblica sicurezza, dalle disposizioni vigenti, salvo quanto appresso stabilito:
 
@@ -1636,7 +1634,7 @@ r) nella prima applicazione della presente legge, il vice capo della polizia che
 
 ((s) nelle commissioni di avanzamento di cui all'articolo 8 della legge 13 dicembre 1965, n. 1366, il tenente generale ispettore del disciolto Corpo delle guardie di pubblica sicurezza e' sostituito dal direttore centrale del personale presso il Dipartimento della pubblica sicurezza)).
 
-#### ART. 97 - Tabelle organiche dei dirigenti
+### ART. 97 - Tabelle organiche dei dirigenti
 
 Nel quadro A della tabella III dell'allegato II al decreto del Presidente della Repubblica 30 giugno 1972, n. 748, le parole:
 
@@ -1648,15 +1646,15 @@ Dieci posti di dirigente generale della pubblica sicurezza di cui al quadro C de
 
 I dirigenti generali di pubblica sicurezza e i tenenti generali del Corpo delle guardie di pubblica sicurezza, sono inquadrati nel ruolo dei dirigenti generali dell'Amministrazione civile dell'interno secondo le modalita' previste dall'articolo precedente.
 
-#### ART. 98 - Banda musicale
+### ART. 98 - Banda musicale
 
 Il Governo e' delegato ad emanare, entro sei mesi dall'entrata in vigore della presente legge, un decreto avente valore di legge ordinaria per adeguare l'ordinamento della banda musicale del Corpo delle guardie di pubblica sicurezza al nuovo ordinamento della Polizia di Stato, apportando le necessarie modificazioni per qualificare adeguatamente le capacita', i titoli professionali del personale nonche' il valore artistico del complesso.
 
-#### ART. 99 - Rapporti informativi e schede valutative. Disciplina transitoria
+### ART. 99 - Rapporti informativi e schede valutative. Disciplina transitoria
 
 Fino all'entrata in vigore del nuovo ordinamento del personale dell'Amministrazione della pubblica sicurezza, per quanto occorrente, sono dettate, con decreto del Ministro dell'interno, sentiti i sindacati di polizia piu' rappresentativi sul piano nazionale, le norme sulla compilazione dei rapporti informativi delle schede valutative, dei giudizi complessivi e dei giudizi di revisione, previsti dagli attuali ordinamenti.
 
-#### ART. 100 - Amministrazione e contabilita'
+### ART. 100 - Amministrazione e contabilita'
 
 Sino all'emanazione delle norme di amministrazione e di contabilita' dell'Amministrazione della pubblica sicurezza restano operanti le norme di contabilita' previste per il Corpo delle guardie di pubblica sicurezza, nonche' quelle sulla contabilita' generale dello Stato ed ogni altra norma di contabilita' applicate nei confronti del Corpo stesso.
 
@@ -1670,11 +1668,11 @@ AGGIORNAMENTO (14)
 
 Il D.L. 21 settembre 1987 n. 387, convertito con modificazioni dalla L. 20 novembre 1987 n. 472 ha disposto (con l'art. 5 comma 5) che "il regolamento di amministrazione e di contabilita' dell'Amministrazione della pubblica sicurezza previsto dall'articolo 100 della legge 1 aprile 1981, n. 121, contiene disposizioni anche in deroga alle norme di contabilita' generale dello Stato al fine di garantire la maggiore snellezza delle procedure".
 
-#### ART. 101 - Matrimonio per gli appartenenti all'Amministrazione della pubblica sicurezza
+### ART. 101 - Matrimonio per gli appartenenti all'Amministrazione della pubblica sicurezza
 
 Le norme che disciplinano per il personale dell'Amministrazione della pubblica sicurezza la facolta' di contrarre matrimonio sono abrogate.
 
-#### ART. 102 - Concorso pubblico straordinario per ispettore
+### ART. 102 - Concorso pubblico straordinario per ispettore
 
 Per la copertura di un quinto dei posti disponibili nella qualifica iniziale del ruolo degli ispettori e ove non determinati per non piu' di 500 posti, il Ministro dell'interno e' autorizzato a bandire, entro 30 giorni dalla entrata in vigore della presente legge, un pubblico concorso stabilendo il numero dei posti messi a concorso in ciascuna regione e nell'ambito di esse per ciascuna provincia.
 
@@ -1702,7 +1700,7 @@ anni dall'ingresso in carriera.
 
 Per quanto non diversamente previsto dai commi precedenti, si applicano le disposizioni dettate dalla presente legge per il personale del ruolo degli ispettori.
 
-#### ART. 103 - Personale amministrativo
+### ART. 103 - Personale amministrativo
 
 Per esigenze di carattere amministrativo dell'Amministrazione della pubblica sicurezza, nelle more della revisione degli organici di cui all'articolo 40, gli organici dell'Amministrazione civile dell'interno sono aumentati di 1.200 posti per gli impiegati della carriera esecutiva del ruolo degli uffici copia, di 1.100 posti del ruolo di archivio, di 650 posti della carriera di concetto amministrativa e di 50 posti della carriera direttiva amministrativa per un totale di tremila unita'. Per la copertura dei posti suddetti si provvedera' con i seguenti criteri:
 
@@ -1714,23 +1712,23 @@ Per la copertura fino al 30 per cento dei posti derivanti dall'ampliamento dei r
 
 La consistenza organica del ruolo degli agenti, degli assistenti e dei sovraintendenti e' proporzionalmente ridotta di 2.500 unita' a compensazione della spesa di cui ai precedenti commi.
 
-#### ART. 104 - Norme transitorie in materia di giurisdizione
+### ART. 104 - Norme transitorie in materia di giurisdizione
 
 I procedimenti pendenti a carico del personale del disciolto Corpo delle guardie di pubblica sicurezza davanti ai tribunali militari sono trasferiti all'autorita' giudiziaria competente per territorio e per materia.
 
 I procedimenti pendenti presso il tribunale supremo militare sono trasferiti alla corte di appello o alla corte di assise di appello competenti per territorio.
 
-#### ART. 105 - Condono disciplinare
+### ART. 105 - Condono disciplinare
 
 Le sanzioni disciplinari e di stato inflitte ai funzionari civili della pubblica sicurezza, agli appartenenti al Corpo delle guardie di pubblica sicurezza e al Corpo di polizia femminile per fatti connessi con iniziative per la costituzione di rappresentanze sindacali o per la tutela degli interessi del personale sono condonate con provvedimenti del Ministro dell'interno.
 
 Sono escluse dal condono le sanzioni connesse a procedimenti penali.
 
-#### ART. 106 - Organico dei ruoli direttivi e dirigenziali
+### ART. 106 - Organico dei ruoli direttivi e dirigenziali
 
 Sino a che non saranno stabilite le nuove dotazioni organiche dei ruoli direttivi e dirigenziali, l'organico, fermo quanto stabilito dall'articolo 97, e' costituito dalla somma degli attuali organici previsti per i funzionari dell'Amministrazione della pubblica sicurezza, degli ufficiali del Corpo delle guardie di pubblica sicurezza e delle ispettrici del Corpo della polizia femminile.
 
-#### ART. 107 - Passaggio ad altre amministrazioni civili o ad altri corpi militari dello Stato
+### ART. 107 - Passaggio ad altre amministrazioni civili o ad altri corpi militari dello Stato
 
 Il Governo della Repubblica e' delegato ad emanare, entro tre mesi dall'entrata in vigore della presente legge, uno o piu' decreti aventi valore di legge ordinaria per l'eventuale passaggio degli attuali appartenenti all'Amministrazione della pubblica sicurezza ad altre amministrazioni dello Stato e degli attuali appartenenti al Corpo delle guardie di pubblica sicurezza ad altri corpi militari dello Stato, con l'osservanza dei seguenti criteri:
 
@@ -1740,7 +1738,7 @@ Il Governo della Repubblica e' delegato ad emanare, entro tre mesi dall'entrata 
 
 3\) possibilita', per gli aventi diritto, di esercitare le facolta' di cui sopra non oltre tre mesi dall'attuazione dei decreti delegati di cui agli articoli 36 e 40 della presente legge.
 
-#### ART. 108 - Cessazione anticipata dal servizio
+### ART. 108 - Cessazione anticipata dal servizio
 
 Il Governo della Repubblica e' delegato a provvedere, entro tre mesi dall'entrata in vigore della presente legge, con decreto avente valore di legge ordinaria, per l'eventuale anticipata cessazione dal servizio di alcune categorie di funzionari dell'attuale Amministrazione della pubblica sicurezza e di appartenenti al Corpo delle guardie di pubblica sicurezza con l'osservanza dei seguenti criteri:
 
@@ -1758,17 +1756,17 @@ Nel caso in cui non esista grado o qualifica superiore vengono attribuiti tre sc
 
 L'attribuzione dei benefici di cui ai commi precedenti non e' cumulabile con altri benefici salvo l'eventuale trattamento privilegiato di quiescenza.
 
-#### ART. 109 - Emanazione dei decreti delegati
+### ART. 109 - Emanazione dei decreti delegati
 
 Le norme delegate sono emanate con decreto del Presidente della Repubblica, su proposta del Presidente del Consiglio dei ministri, di concerto con il Ministro dell'interno e con il Ministro del tesoro, previo parere delle competenti Commissioni permanenti della Camera dei deputati e del Senato della Repubblica. Dal parere delle Commissioni si prescinde qualora esso non sia espresso entro sessanta giorni dalla richiesta. Acquisito il parere o trascorsi sessanta giorni, lo schema di decreto delegato e' sottoposto all'esame preliminare del Consiglio dei ministri ed inviato alle Camere per il parere delle competenti Commissioni permanenti, che deve essere espresso entro trenta giorni dalla richiesta del Governo.
 
 Acquisito tale parere o trascorsi i trenta giorni, le norme sono deliberate dal Consiglio dei ministri in via definitiva.
 
-#### ART. 110 - Mutamento di denominazioni
+### ART. 110 - Mutamento di denominazioni
 
 Le denominazioni Corpo delle guardie di pubblica sicurezza e Corpo della polizia femminile, previste dalle leggi vigenti, sono sostituite dalla denominazione Polizia di Stato.
 
-#### ART. 111
+### ART. 111
 
 (Regolamento di servizio della amministrazione della pubblica
 
@@ -1780,17 +1778,17 @@ Nel periodo intercorrente tra l'entrata in vigore della presente legge e quella 
 
 In dette disposizioni la denominazione Corpo delle guardie di pubblica sicurezza si intende sostituita da Amministrazione della pubblica sicurezza.
 
-#### ART. 112 - Trattamento pensionistico nella fase di transizione
+### ART. 112 - Trattamento pensionistico nella fase di transizione
 
 Al personale che cessa dal servizio dopo l'entrata in vigore della presente legge e prima dell'attuazione dell'ordinamento previsto dall'articolo 36 si applica, qualora piu' favorevole ed ai soli fini pensionistici, l'inquadramento ed il relativo trattamento economico spettante al personale in servizio avente la stessa qualifica.
 
 Al personale del Corpo delle guardie di pubblica sicurezza che all'atto dell'entrata in vigore della presente legge si trovi nella posizione di ausiliaria, di riserva e di congedo assoluto spetta lo stesso trattamento normale ed eventuale, dei parigrado dell'Arma dei carabinieri in analoga posizione.
 
-#### ART. 113 - Relazione del Ministro dell'interno
+### ART. 113 - Relazione del Ministro dell'interno
 
 Il Ministro dell'interno presenta annualmente al Parlamento una relazione sull'attivita' delle forze di polizia e sullo stato dell'ordine e della sicurezza pubblica nel territorio nazionale.
 
-#### ART. 114 - Divieto di iscrizione ai partiti politici
+### ART. 114 - Divieto di iscrizione ai partiti politici
 
 Fino a che non intervenga una disciplina piu' generale della materia di cui al terzo comma dell'articolo 98 della Costituzione, e comunque non oltre un anno dall'entrata in vigore della presente legge, gli appartenenti alle forze di polizia di cui all'articolo 16 della presente legge non possono iscriversi ai partiti politici.(2)(5)(6)(8)(9)(13)(15)(16)((17))
 
@@ -1848,7 +1846,7 @@ AGGIORNAMENTO (17)
 
 Il D.L. 2 aprile 1990 n. 81, convertito con modificazioni dalla L. 20 giugno 1990 n. 159 ha disposto (con l'art. 1) che "Il termine di cui all'articolo 114 della legge 1 aprile 1981, n. 121, concernente nuovo ordinamento della Amministrazione della pubblica sicurezza, prorogato da ultimo dall'articolo 1 del decreto-legge 21 aprile 1989, n. 135, convertito dalla legge 14 giugno 1989, n. 235, e' ulteriormente prorogato fino al 31 dicembre 1990."
 
-#### ART. 115 - Copertura dell'onere finanziario
+### ART. 115 - Copertura dell'onere finanziario
 
 All'onere derivante dall'applicazione della presente legge, valutato in ragione di anno in lire 205 miliardi, si provvede nell'anno finanziario 1981 mediante corrispondente riduzione del capitolo 6856 dello stato di previsione della spesa del Ministero del tesoro per il medesimo anno finanziario, all'uopo utilizzando, quanto a lire 200 miliardi, lo specifico accantonamento e quanto a lire 5 miliardi una quota dell'accantonamento: "Revisione del trattamento economico dei pubblici dipendenti".
 
@@ -1874,7 +1872,7 @@ Visto, il Guardasigilli: SARTI
 
 ## CAPO VIII - NORME TRANSITORIE E FINALI
 
-#### Tabella C
+### Tabella C
 
 TABELLA C
 

@@ -38,11 +38,9 @@ E M A N A
 
 il seguente decreto legislativo:
 
-## TITOLO I - REGIME DELL'ASSICURAZIONE
+## TITOLO I - REGIME DELL'ASSICURAZIONE GENERALE OBBLIGATORIA
 
-### GENERALE OBBLIGATORIA
-
-#### Art. 1
+### Art. 1
 
 Eta' per il pensionamento di vecchiaia
 
@@ -70,7 +68,7 @@ AGGIORNAMENTO (10)
 
 La Corte costituzionale, con sentenza 5-6 maggio 1997, n. 117 (in G.U. 1a s.s. 14.05.1997, n. 20) ha dichiarato "l'illegittimita' costituzionale dell'art. 1, comma 2, ultima proposizione, del d.lgs. 30 dicembre 1992, n. 503 (Norme per il riordinamento del sistema previdenziale dei lavoratori privati e pubblici, a norma dell'art. 3 della legge 23 ottobre 1992, n. 421), nella parte in cui non prevede che il termine per l'esercizio della facolta' di opzione non possa comunque scadere prima che siano trascorsi sei mesi dalla data di entrata in vigore del decreto legislativo medesimo".
 
-#### Art. 2
+### Art. 2
 
 Requisiti assicurativi e contributivi per il pensionamento di vecchiaia
 
@@ -86,7 +84,7 @@ b) per i lavoratori subordinati che possono far valere un'anzianita' assicurativ
 
 c) nei casi di lavoratori dipendenti che hanno maturato al 31 dicembre 1992 una anzianita' assicurativa e contributiva tale che, anche se incrementata dai periodi intercorrenti tra la predetta data e quella riferita all'eta' per il pensionamento di vecchiaia, non consentirebbe loro di conseguire i requisiti di cui ai commi 1 e 2, questi ultimi sono corrispondentemente ridotti fino al limite minimo previsto dalla previgente normativa.
 
-#### Art. 3
+### Art. 3
 
 Retribuzione pensionabile
 
@@ -114,7 +112,7 @@ AGGIORNAMENTO (8)
 
 La L. 8 agosto 1995, n. 335 ha disposto (con l'art. 1, comma 17) che con decorrenza dal 1 gennaio 1996, per i casi regolati dal presente articolo 3 comma 3, l'incremento delle settimane di riferimento delle retribuzioni pensionabili, gia' previsto nella misura del 50 per cento, e' sostituito dalla misura del 66,6 per cento del numero delle settimane intercorrenti tra il 1 gennaio 1996 e la data di decorrenza della pensione, con arrotondamento per difetto.
 
-#### Art. 4
+### Art. 4
 
 Requisiti reddituali per l'integrazione al trattamento minimo
 
@@ -132,11 +130,9 @@ b) nel caso di persona coniugata, non legalmente ed effettivamente separata, red
 
 2\. Rimane in vigore la previgente disciplina per i pensionati in essere alla data del (( 31 dicembre 1993 )).
 
-## TITOLO II - FORME DI PREVIDENZA SOSTITUTIVE
+## TITOLO II - FORME DI PREVIDENZA SOSTITUTIVE ED ESCLUSIVE
 
-### ED ESCLUSIVE
-
-#### Art. 5
+### Art. 5
 
 Eta' per il pensionamento di vecchiaia
 
@@ -188,7 +184,7 @@ AGGIORNAMENTO (19)
 
 La L. 30 settembre 2004, n. 252 ha disposto (con l'art. 5, comma 1) che "L'articolo 5, comma 3, del decreto legislativo 30 dicembre 1992, n. 503, relativamente al personale del Corpo nazionale dei vigili del fuoco si interpreta nel senso che al predetto personale non si applica l'articolo 16 del medesimo decreto legislativo".
 
-#### Art. 6
+### Art. 6
 
 Requisiti assicurativi e contributivi del pensionamento di vecchiaia
 
@@ -196,7 +192,7 @@ Requisiti assicurativi e contributivi del pensionamento di vecchiaia
 
 2\. Per i lavoratori dello spettacolo il requisito della annualita' di contribuzione, da valere ai fini degli articoli 6 e 9 del decreto del Presidente della Repubblica 31 dicembre 1971, n. 1420, si considera soddisfatto con riferimento a 120 contributi giornalieri per le categorie indicate dal n. 1 al n. 14 dell'articolo 3 del decreto legislativo del Capo provvisorio dello Stato 16 luglio 1947, n. 708, ratificato, con modificazioni, dalla legge 29 novembre 1952, n. 2388, e con riferimento a 260 contributi giornalieri per le altre categorie previste dal medesimo articolo.
 
-#### Art. 7
+### Art. 7
 
 Retribuzione pensionabile
 
@@ -228,7 +224,7 @@ AGGIORNAMENTO (8)
 
 La L. 8 agosto 1995, n. 335 ha disposto (con l'art. 1, comma 17) che con decorrenza dal 1 gennaio 1996, per i casi regolati dal presente articolo 3 comma 3, l'incremento delle settimane di riferimento delle retribuzioni pensionabili, gia' previsto nella misura del 50 per cento, e' sostituito dalla misura del 66,6 per cento del numero delle settimane intercorrenti tra il 1 gennaio 1996 e la data di decorrenza della pensione, con arrotondamento per difetto.
 
-#### Art. 8
+### Art. 8
 
 Pensionamenti di anzianita'
 
@@ -238,7 +234,7 @@ Pensionamenti di anzianita'
 
 3\. Negli altri casi, il periodo mancante per acquisire i requisiti per il pensionamento di cui al comma 1 e' determinato applicando al numero degli anni mancanti secondo la disciplina dei singoli ordinamenti i coefficienti di moltiplicazione di cui alla tabella C allegata.
 
-#### Art. 9
+### Art. 9
 
 Trattamenti di pensione ai lavoratori di cui al decreto legislativo 20 novembre 1990, n. 357
 
@@ -258,7 +254,7 @@ All'assicurazione generale obbligatoria fa esclusivamente carico la perequazione
 
 ## TITOLO III - DISPOSIZIONI A CARATTERE GENERALE
 
-#### Art. 10
+### Art. 10
 
 Disciplina del cumulo tra pensioni e redditi da lavoro dipendente ed autonomo
 
@@ -282,7 +278,7 @@ Disciplina del cumulo tra pensioni e redditi da lavoro dipendente ed autonomo
 
 (( 8-bis. Fermo restando quanto previsto dall'articolo 40 del decreto del Presidente della Repubblica 27 aprile 1968, n. 488, i titolari di pensione che omettano di produrre la dichiarazione prevista dal comma 4, sono tenuti a versare all'ente previdenziale di appartenenza una somma pari all'importo annuo della pensione percepita nell'anno cui si riferisce la dichiarazione medesima. Detta somma sara' prelevata dall'ente previdenziale competente sulle rate di pensione dovute al trasgressore )).
 
-#### Art. 11
+### Art. 11
 
 Perequazione automatica delle pensioni
 
@@ -296,7 +292,7 @@ AGGIORNAMENTO (7)
 
 La L. 23 dicembre 1994, n. 724 ha disposto (con l'art. 14, comma 1) che "Con effetto dal 1995 il termine stabilito, ai fini della perequazione automatica delle pensioni, dall'articolo 11, comma 1, del decreto legislativo 30 dicembre 1992, n. 503, e successive modificazioni ed integrazioni, e' differito al 1 gennaio successivo di ogni anno.
 
-#### Art. 12
+### Art. 12
 
 Aliquote di rendimento
 
@@ -322,7 +318,7 @@ Sino al 33 per cento . . . . . . . . . . .. 1,60 Dal 33 per cento al 66 per cent
 
 3.((COMMA ABROGATO DALLA L. 27 DICEMBRE 1997, N. 449)).
 
-#### Art. 13
+### Art. 13
 
 Norma transitoria per il calcolo delle pensioni
 
@@ -332,7 +328,7 @@ a) della quota di pensione corrispondente all'importo relativo alle anzianita' c
 
 b) della quota di pensione corrispondente all'importo del trattamento pensionistico relativo alle anzianita' contributive acquisite a decorrere dal 1 gennaio 1993, calcolato secondo le norme di cui al presente decreto.
 
-#### Art. 14
+### Art. 14
 
 Riscatto di periodo non coperti da assicurazione
 
@@ -348,7 +344,7 @@ AGGIORNAMENTO (26)
 
 La L. 28 dicembre 2015, n. 208, ha disposto (con l'art. 1, comma 298) che "La conseguente cumulabilita' opera anche con riferimento a periodi antecedenti alla data di entrata in vigore della presente legge".
 
-#### Art. 15
+### Art. 15
 
 Accredito dei contributi figurativi
 
@@ -356,11 +352,11 @@ Accredito dei contributi figurativi
 
 2\. Le disposizioni di cui al comma 1 si applicano anche alle pensioni di anzianita' delle forme di previdenza sostitutive dell'assicurazione generale obbligatoria, nonche' a quelle anticipate rispetto all'eta' per il collocamento a riposo d'ufficio a carico delle forme di previdenza esclusive.
 
-#### Art. 16
+### Art. 16
 
 ((ARTICOLO ABROGATO DAL D.L. 24 GIUGNO 2014, N. 90, CONVERTITO CON MODIFICAZIONI DALLA L. 11 AGOSTO 2014, N. 114))
 
-#### Art. 17
+### Art. 17
 
 Norme in materia di finanziamento
 
@@ -370,7 +366,7 @@ Con decreto del Ministro del lavoro e della previdenza sociale di concerto con i
 
 3\. I dipendenti giornalisti professionisti iscritti nell'apposito albo di categoria e i dipendenti praticanti giornalisti iscritti nell'apposito registro di categoria, i cui rapporti di lavoro siano regolati dal contratto nazionale giornalistico, sono obbligatoriamente iscritti presso l'Istituto nazionale di previdenza dei giornalisti italiani "Giovanni Amendola".
 
-#### Art. 18
+### Art. 18
 
 Entrata in vigore
 
@@ -394,7 +390,7 @@ Visto, il Guardasigilli: MARTELLI
 
 ## TITOLO III - DISPOSIZIONI A CARATTERE GENERALE
 
-#### Tabella A
+### Tabella A
 
 TABELLA A.
 
@@ -422,7 +418,7 @@ dal 1 luglio 1998 al
 
 dal 1 gennaio 2000 in poi 65 anno 60 anno))
 
-#### Tabella B
+### Tabella B
 
 TABELLA B
 
@@ -442,7 +438,7 @@ Dal 1 gennaio 1999 al 31 dicembre 2000 19
 
 Dal 1 gennaio 2001 in poi 20
 
-#### Tabella C
+### Tabella C
 
 TABELLA C
 

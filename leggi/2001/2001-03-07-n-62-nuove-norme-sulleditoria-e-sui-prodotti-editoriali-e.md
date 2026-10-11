@@ -32,7 +32,7 @@ la seguente legge:
 
 ## Capo I - DISPOSIZIONI GENERALI
 
-#### Art. 1 - Definizioni e disciplina del prodotto editoriale
+### Art. 1 - Definizioni e disciplina del prodotto editoriale
 
 1\. Per "prodotto editoriale", ai fini della presente legge, si intende il prodotto realizzato su supporto cartaceo, ivi compreso il libro, o su supporto informatico, destinato alla pubblicazione o, comunque, alla diffusione di informazioni presso il pubblico con ogni mezzo, anche elettronico, o attraverso la radiodiffusione sonora o televisiva, con esclusione dei prodotti discografici o cinematografici.
 
@@ -62,7 +62,7 @@ AGGIORNAMENTO (8)
 
 La L. 26 ottobre 2016, n. 198 ha disposto (con l'art. 3, comma 4, alinea) che le presenti modifiche si applicano a decorrere dal 1 gennaio successivo a quello in corso.
 
-#### Art. 2
+### Art. 2
 
 (Disposizioni sulla proprieta' delle imprese editrici ed in
 
@@ -174,7 +174,7 @@ d) e' aggiunto, in fine, il seguente comma:
 
 > 5\) cura la tenuta del registro degli operatori di comunicazione al quale si devono iscrivere in virtu' della presente legge i soggetti destinatari di concessione ovvero di autorizzazione in base alla vigente normativa da parte dell'Autorita' o delle amministrazioni competenti, le imprese concessionarie di pubblicita' da trasmettere mediante impianti radiofonici o televisivi o da diffondere su giornali quotidiani o periodici, le imprese di produzione e distribuzione dei programmi radiofonici e televisivi, nonche' le imprese editrici di giornali quotidiani, di periodici o riviste e le agenzie di stampa di carattere nazionale, nonche' le imprese fornitrici di servizi telematici e di telecomunicazioni ivi compresa l'editoria elettronica e digitale; nel registro sono altresi' censite le infrastrutture di diffusione operanti nel territorio nazionale. L'Autorita' adotta apposito regolamento per l'organizzazione e la tenuta del registro e per la definizione dei criteri di individuazione dei soggetti tenuti all'iscrizione diversi da quelli gia' iscritti al registro alla data di entrata in vigore della presente legge.".
 
-#### Art. 3
+### Art. 3
 
 Modalita' di erogazione delle
 
@@ -184,11 +184,9 @@ provvidenze in favore dell'editoria
 
 2\. Alle imprese editrici di giornali quotidiani che abbiano attivato sistemi di teletrasmissione in facsimile delle testate edite in Paesi diversi da quelli membri dell'Unione europea e' concesso un contributo pari al 50 per cento dei costi annui documentati di acquisto carta, stampa e distribuzione relativi alla diffusione nei suddetti Paesi delle copie delle testate teletrasmesse. Sono esclusi dal calcolo del contributo i costi relativi a tirature inferiori a 10.000 copie medie giornaliere, o effettuate per meno di un anno, in un singolo Paese di destinazione. Sono altresi' esclusi dal calcolo del contributo i costi relativi a testate il cui contenuto redazionale sia inferiore al 50 per cento di quello dell'edizione diffusa nella citta' italiana presso il cui tribunale sono registrate. L'ammontare complessivo del contributo di cui al presente comma non puo' superare lire 4 miliardi annue. Nel caso in cui il contributo complessivo in base alle domande presentate superi tale ammontare, lo stanziamento sara' ripartito tra gli aventi diritto in proporzione al numero delle copie stampate e diffuse nei suddetti Paesi.
 
-## Capo II - INTERVENTI PER LO SVILUPPO
+## Capo II - INTERVENTI PER LO SVILUPPO DEL SETTORE EDITORIALE
 
-### DEL SETTORE EDITORIALE
-
-#### Art. 4
+### Art. 4
 
 (Tipologie di interventi
 
@@ -196,7 +194,7 @@ nel settore editoriale)
 
 1\. Alle imprese operanti nel settore editoriale sono concesse le agevolazioni di credito di cui agli articoli 5, 6 e 7, nonche' il credito di imposta di cui all'articolo 8.
 
-#### Art. 5
+### Art. 5
 
 (Fondo per le agevolazioni di credito
 
@@ -234,7 +232,7 @@ AGGIORNAMENTO (3)
 
 Il D.P.R. 25 novembre 2010, n. 223 ha disposto (con l'art. 22, comma 2) che "Ai sensi del comma 1 dell'articolo 56 della legge 23 luglio 2009, n. 99, il presente regolamento entra in vigore a decorrere dal bilancio d'esercizio delle imprese beneficiarie successivo a quello in corso alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana".
 
-#### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.P.R. 25 NOVEMBRE 2010, N. 223))
 
@@ -246,7 +244,7 @@ AGGIORNAMENTO (3)
 
 Il D.P.R. 25 novembre 2010, n. 223 ha disposto (con l'art. 22, comma 2) che "Ai sensi del comma 1 dell'articolo 56 della legge 23 luglio 2009, n. 99, il presente regolamento entra in vigore a decorrere dal bilancio d'esercizio delle imprese beneficiarie successivo a quello in corso alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana".
 
-#### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DAL D.P.R. 25 NOVEMBRE 2010, N. 223))
 
@@ -258,7 +256,7 @@ AGGIORNAMENTO (3)
 
 Il D.P.R. 25 novembre 2010, n. 223 ha disposto (con l'art. 22, comma 2) che "Ai sensi del comma 1 dell'articolo 56 della legge 23 luglio 2009, n. 99, il presente regolamento entra in vigore a decorrere dal bilancio d'esercizio delle imprese beneficiarie successivo a quello in corso alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana".
 
-#### Art. 8 - Credito di imposta
+### Art. 8 - Credito di imposta
 
 1\. Alle imprese produttrici di prodotti editoriali che effettuano entro il 31 dicembre 2004 gli investimenti di cui al comma 2, relativi a strutture situate nel territorio dello Stato, e' riconosciuto, a richiesta, secondo le modalita' previste dal decreto del Presidente del Consiglio dei ministri di cui al comma 4, un credito di imposta di importo pari al 3 per cento del costo sostenuto, con riferimento al periodo di imposta in cui l'investimento e' effettuato ed in ciascuno dei quattro periodi di imposta successivi.
 
@@ -294,7 +292,7 @@ b) programmi di ristrutturazione economico-produttiva riguardanti, congiuntament
 
 > I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.".
 
-#### Art. 9
+### Art. 9
 
 (Fondo per la promozione del libro e dei prodotti editoriali
 
@@ -332,7 +330,7 @@ b) nei casi diversi da quelli indicati alla lettera a), per la ristrutturazione 
 
 > Dei quattordici sindaci designati dall'ANCI, cinque rappresentano le citta' individuate dall'art. 17 della legge 8 giugno 1990, n. 142. Alle riunioni possono essere invitati altri membri del Governo, nonche' rappresentanti di amministrazioni statali, locali o di enti pubblici.".
 
-#### Art. 10
+### Art. 10
 
 (( (Messaggi pubblicitari di promozione
 
@@ -340,13 +338,13 @@ del libro e della lettura) ))
 
 ((1. I messaggi pubblicitari facenti parte di iniziative, promosse da istituzioni, enti, associazioni di categoria, produttori editoriali e librai, volte a sensibilizzare l'opinione pubblica nei confronti del libro e della lettura, trasmessi gratuitamente o a condizioni di favore da emittenti televisive e radiofoniche pubbliche e private, non sono considerati ai fini del calcolo dei limiti massimi di cui a ll'articolo 8 della legge 6 agosto 1990, n. 223, e successive modificazioni.))
 
-#### Art. 11
+### Art. 11
 
 ((ARTICOLO ABROGATO DALLA L. 27 LUGLIO 2011, N. 128))
 
 ## Capo III - ULTERIORI INTERVENTI A SOSTEGNO DEL SETTORE EDITORIALE
 
-#### Art. 12
+### Art. 12
 
 (Trattamento straordinario
 
@@ -402,13 +400,13 @@ b) il quarto comma e' sostituito dal seguente:
 
 > Il trattamento speciale di disoccupazione di cui all'art. 8 della legge 5 novembre 1968, n. 1115, ed all'art. 4 della legge 8 agosto 1972, n. 464, sostituisce, in caso di malattia, l'indennita' a carico degli enti gestori dell'assicurazione contro le malattie.".
 
-#### Art. 13 - Risoluzione del rapporto di lavoro
+### Art. 13 - Risoluzione del rapporto di lavoro
 
 1\. L'articolo 36 della legge 5 agosto 1981, n. 416, e' sostituito dal seguente:
 
 "Art. 36. - (Risoluzione del rapporto di lavoro). - 1. I dipendenti delle aziende di cui all'articolo 35 per le quali sia stata dichiarata dal Ministero del lavoro e della previdenza sociale la situazione di crisi occupazionale, in caso di risoluzione del rapporto di lavoro per dimissioni nel periodo di godimento del trattamento di integrazione salariale, ovvero per licenziamento al termine del periodo di integrazione salariale di cui al citato articolo 35, hanno diritto, in aggiunta alle normali competenze di fine rapporto, ad una indennita' pari all'indennita' di mancato preavviso e, per i giornalisti, ad una indennita' pari a quattro mensilita' di retribuzione. I dipendenti di cui al presente comma sono esonerati dall'obbligo del preavviso in caso di dimissioni".
 
-#### Art. 14 - Esodo e prepensionamento
+### Art. 14 - Esodo e prepensionamento
 
 1\. L'articolo 37 della legge 5 agosto 1981, n. 416, e' sostituito dal seguente:
 
@@ -442,7 +440,7 @@ b) per i giornalisti professionisti iscritti all'INPGI, dipendenti dalle imprese
 
 > \- Il decreto del Presidente della Repubblica n. 488/1968 (in Gazzetta Ufficiale 30 aprile 1968, n. 109) reca: "Aumento e nuovo sistema di calcolo delle pensioni a carico dell'assicurazione generale obbligatoria".
 
-#### Art. 15
+### Art. 15
 
 (Fondo per la mobilita' e la riqualificazione professionale
 
@@ -472,7 +470,7 @@ c) progetti, concordati dalle imprese con il sindacato di categoria, per il coll
 
 ## Capo IV - SEMPLIFICAZIONE AMMINISTRATIVA
 
-#### Art. 16 - Semplificazioni
+### Art. 16 - Semplificazioni
 
 1\. I soggetti tenuti all'iscrizione al registro degli operatori di comunicazione, ai sensi dell'articolo 1, comma 6, lettera a), numero 5), della legge 31 luglio 1997, n. 249, sono esentati dall'osservanza degli obblighi previsti dall'articolo 5 della legge 8 febbraio 1948, n. 47. L'iscrizione e' condizione per l'inizio delle pubblicazioni.
 
@@ -482,11 +480,9 @@ c) progetti, concordati dalle imprese con il sindacato di categoria, per il coll
 
 > \- Per il testo dell'art. 5 della legge n. 47/1948 si veda la precedente nota all'art. 1.
 
-## Capo V - DISPOSIZIONI FINALI
+## Capo V - DISPOSIZIONI FINALI E TRANSITORIE
 
-### E TRANSITORIE
-
-#### Art. 17 - Copertura finanziaria
+### Art. 17 - Copertura finanziaria
 
 1\. All'onere derivante dall'attuazione della presente legge, valutato in lire 32,7 miliardi per l'anno 2001, in lire 62,1 miliardi per l'anno 2002 e in lire 89,5 miliardi per l'anno 2003, si provvede, quanto a lire 23,2 miliardi per l'anno 2001, lire 41,6 miliardi per l'anno 2002 e lire 36 miliardi per l'anno 2003, mediante corrispondente riduzione dell'autorizzazione di spesa di cui alla legge 14 agosto 1991, n. 278, e quanto a lire 9,5 miliardi per l'anno 2001, lire 20,5 miliardi per l'anno 2002 e lire 53,5 miliardi per l'anno 2003, mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2001-2003, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e programmazione economica per l'anno 2001, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero medesimo. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
@@ -584,7 +580,7 @@ c) progetti, concordati dalle imprese con il sindacato di categoria, per il coll
 
 > "Art. 52 (Cooperative nel settore giornalistico). - Ai fini della presente legge si intendono per cooperative giornalistiche anche quelle che entro il 31 dicembre 1980 risultano gia' costituite tra giornalisti e poligrafici nonche' le cooperative femminili aderenti alle associazioni nazionali di rappresentanza del movimento cooperativo anche se costituite da non giornalisti professionisti, editrici di giornali regolarmente registrati presso la cancelleria del tribunale entro la stessa data.".
 
-#### Art. 18
+### Art. 18
 
 Modifica all'articolo 3 della
 
@@ -616,7 +612,7 @@ h) la testata edita sia posta in vendita a un prezzo non inferiore alla media da
 
 2-quater. Le norme previste dal presente articolo per i quotidiani per quanto attiene ai requisiti e ai contributi si applicano anche ai periodici editi da cooperative giornalistiche ivi comprese quelle di cui all'articolo 52 della legge 5 agosto 1981, n. 416".
 
-#### Art. 19
+### Art. 19
 
 (Interventi a sostegno della lettura
 
@@ -652,7 +648,7 @@ nelle scuole)
 
 > 4\. Ai fini dei titoli I e V del presente decreto si intende per reddito l'ammontare dei ricavi, delle plusvalenze e di ogni altro provento comunque percepiti dalla fondazione. Concorrono in ogni caso alla determinazione del reddito le quote di utili realizzati dalle societa' strumentali controllate dalla fondazione ai sensi dell'art. 6, comma 1, ancorche' non distribuiti.
 
-#### Art. 20 - Disposizione finale
+### Art. 20 - Disposizione finale
 
 1\. Per quanto non previsto dalla presente legge si applicano, in quanto compatibili, le disposizioni di cui alla legge 7 agosto 1990, n. 250, e successive modificazioni. In particolare si applicano l'ultimo periodo del comma 2, nel testo in vigore antecedentemente alle modifiche apportate dall'articolo 18 della presente legge, e i commi 6, 13 e 14 dell'articolo 3 della medesima legge.
 
@@ -664,7 +660,7 @@ nelle scuole)
 
 > \- Per il testo dei commi 6, 13 e 14 dell'art. 3 della legge n. 250/1990, vedi nelle note all'art. 18 della presente legge.
 
-#### Art. 21 - Disposizione transitoria e abrogazioni
+### Art. 21 - Disposizione transitoria e abrogazioni
 
 1\. Sono abrogati gli articoli 9 e 54 della legge 5 agosto 1981, n. 416, nelle parti in cui dispongono rispettivamente l'obbligo del Dipartimento per l'informazione e l'editoria - Ufficio per l'editoria e la stampa di comunicare all'Autorita' per le garanzie nelle comunicazioni le tirature dei giornali quotidiani e l'espressione di un parere su tali tirature da parte della commissione tecnica consultiva di cui allo stesso articolo 54. ((PERIODO SOPPRESSO DAL D.LGS. 15 MAGGIO 2017, N. 70)).
 

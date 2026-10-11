@@ -39,7 +39,7 @@ COLOMBO
 
 Visto, il Guardasigilli: COLOMBO
 
-## TITOLO I - LA REGIONE
+### TITOLO I - LA REGIONE
 
 ##### Art. 1
 
@@ -69,7 +69,7 @@ La Regione riconosce tale partecipazione come elemento fondamentale e qualifican
 
 La Regione promuove le autonomie locali ed informa la propria attivita' legislativa, regolamentare ed amministrativa alle esigenze del piu' ampio decentramento.
 
-## TITOLO II - OBIETTIVI DELLA REGIONE
+### TITOLO II - OBIETTIVI DELLA REGIONE
 
 ##### Art. 4
 
@@ -137,7 +137,7 @@ Emigrazione
 
 La Regione riconosce fra i propri obiettivi la risoluzione del problema della emigrazione, operando per la cessazione del fenomeno e per il rientro degli emigrati.
 
-## TITOLO III - POTESTA' DELLA REGIONE
+### TITOLO III - POTESTA' DELLA REGIONE
 
 ##### Art. 9
 
@@ -245,13 +245,13 @@ Con la legge di approvazione del bilancio non si possono stabilire nuovi tributi
 
 Ogni legge regionale che importi nuove o maggiori spese deve indicare i mezzi per farvi fronte.
 
-## TITOLO IV - ORGANI DELLA REGIONE
+### TITOLO IV - ORGANI DELLA REGIONE
 
 ##### Art. 18
 
 Sono organi della Regione: il Consiglio, la Giunta ed il suo Presidente.
 
-## Capo I - CONSIGLIO REGIONALE
+#### Capo I - CONSIGLIO REGIONALE
 
 ##### Art. 19
 
@@ -403,7 +403,7 @@ Autonomia funzionale, organizzativa e contabile
 
 Il Consiglio, per l'esercizio delle sue funzioni e in particolare per assicurare il regolare funzionamento degli uffici, delle Commissioni e dei Gruppi consiliari, ha, nell'ambito degli stanziamenti assegnati nel bilancio, piena autonomia funzionale, organizzativa e contabile, che esercita sulla base del proprio regolamento interno.
 
-## Capo II - LA GIUNTA
+#### Capo II - LA GIUNTA
 
 ##### Art. 31
 
@@ -517,7 +517,7 @@ In caso di parita' dei voti prevale il voto del Presidente.
 
 Le sedute della Giunta non sono pubbliche.
 
-## Capo III - IL PRESIDENTE DELLA GIUNTA
+#### Capo III - IL PRESIDENTE DELLA GIUNTA
 
 ##### Art. 40
 
@@ -533,7 +533,7 @@ Il Presidente della Giunta:
 
 \- esercita le altre attribuzioni conferitegli dalla Costituzione, dal presente Statuto, dalle leggi e dai regolamenti.
 
-## TITOLO V - PROCEDIMENTO LEGISLATIVO
+### TITOLO V - PROCEDIMENTO LEGISLATIVO
 
 ##### Art. 41
 
@@ -591,11 +591,11 @@ Nell'ipotesi di cui al terzo comma dell'articolo 127 della Costituzione il Gover
 
 La legge e' promulgata, se il Governo della Repubblica, entro quindici giorni dalla nuova comunicazione, non promuova la questione di legittimita' davanti alla Corte costituzionale o quella di merito, per contrasto di interessi, davanti alle Camere.
 
-## TITOLO VI - LA REGIONE E I CITTADINI
+### TITOLO VI - LA REGIONE E I CITTADINI
 
-### Capo I
+#### Capo I
 
-#### PARTECIPAZIONE POPOLARE
+## PARTECIPAZIONE POPOLARE
 
 ##### Art. 47
 
@@ -625,7 +625,7 @@ La Regione consulta gli Enti locali, i Sindacati, le Associazioni cooperativisti
 
 La Regione promuove altresi' indagini, inchieste, incontri e conferenze su problemi specifici dei settori di sua competenza.
 
-## Capo II - L'INIZIATIVA POPOLARE
+#### Capo II - L'INIZIATIVA POPOLARE
 
 ##### Art. 50
 
@@ -657,7 +657,7 @@ Tutti i cittadini possono rivolgere petizioni al Consiglio regionale per chieder
 
 Gli Enti locali, i Sindacati, le Associazioni cooperativistiche, le organizzazioni di categoria, le istituzioni culturali e tutte le organizzazioni sociali possono rivolgere al Consiglio voti, istanze, richieste di intervento su questioni di interesse collettivo, secondo le modalita' previste dal regolamento.
 
-## Capo III - IL REFERENDUM
+#### Capo III - IL REFERENDUM
 
 ##### Art. 54
 
@@ -711,7 +711,7 @@ Il referendum consultivo e' deliberato dal Consiglio regionale a maggioranza ass
 
 Le modalita' per il ricorso al referendum consultivo, per il suo espletamento e per applicarne l'esito sono disciplinate da legge regionale approvata a maggioranza assoluta dei Consiglieri in carica.
 
-## TITOLO VII - REGIONE ED ENTI LOCALI
+### TITOLO VII - REGIONE ED ENTI LOCALI
 
 ##### Art. 61
 
@@ -747,7 +747,7 @@ I Comuni, le Province e gli altri Enti locali hanno il diritto di rivolgere al C
 
 Il diritto di iniziativa e quello di richiesta del referendum si esercitano in conformita' di quanto previsto nel precedente articolo 56.
 
-## TITOLO VIII - PROGRAMMAZIONE
+### TITOLO VIII - PROGRAMMAZIONE
 
 ##### Art. 65
 
@@ -771,7 +771,7 @@ La Regione puo' istituire un istituto regionale di studi e ricerche per la progr
 
 Le strutture, l'organizzazione ed i compiti sono regolati con leggi regionali, in modo da assicurare alla Regione, agli Enti locali, alle organizzazioni regionali confederali dei Sindacati dei lavoratori dipendenti ed autonomi, alle organizzazioni regionali giuridicamente riconosciute, alle organizzazioni di categoria, alle Associazioni cooperativistiche, alle istituzioni culturali e alle altre formazioni sociali, la informazione, i dati e gli apporti specializzati necessari per la elaborazione e per la verifica dei piani di sviluppo globali e settoriali.
 
-## TITOLO IX - ORDINAMENTO AMMINISTRATIVO
+### TITOLO IX - ORDINAMENTO AMMINISTRATIVO
 
 ##### Art. 68
 
@@ -803,7 +803,7 @@ Il personale degli enti e delle aziende dipendenti dalla Regione e' equiparato a
 
 Il Consiglio approva i bilanci di previsione degli enti, aziende ed altre forme di organizzazione dipendenti dalla Regione nei termini e nella forma previsti dalla legge regionale e ratifica i conti consuntivi.
 
-## TITOLO X - REVISIONE DELLO STATUTO
+### TITOLO X - REVISIONE DELLO STATUTO
 
 ##### Art. 70
 

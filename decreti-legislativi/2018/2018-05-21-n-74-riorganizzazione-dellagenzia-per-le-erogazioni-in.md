@@ -20,11 +20,9 @@ retrieved: 2026-10-11
 
 *Entrata in vigore del provvedimento: 08/07/2018*
 
-## Titolo I
+## Titolo I - ((RIORDINO DELLE FUNZIONI DEL MINISTERO DELLE POLITICHE AGRICOLE ALIMENTARI E FORESTALI E DELL'AGENZIA PER LE EROGAZIONI IN AGRICOLTURA))
 
-### ((RIORDINO DELLE FUNZIONI DEL MINISTERO DELLE POLITICHE AGRICOLE ALIMENTARI E FORESTALI E DELL'AGENZIA PER LE EROGAZIONI IN AGRICOLTURA))
-
-#### Art. 01 - Attribuzione di funzioni al Ministero delle politiche agricole alimentari e forestali
+### Art. 01 - Attribuzione di funzioni al Ministero delle politiche agricole alimentari e forestali
 
 1\. COMMA ABROGATO DAL D.L. 22 GIUGNO 2023, N. 75, CONVERTITO CON MODIFICAZIONI DALLA L. 10 AGOSTO 2023, N. 112.
 
@@ -82,7 +80,7 @@ Emana
 
 il seguente decreto legislativo:
 
-#### Art. 1
+### Art. 1
 
 Riordino dell'Agenzia per le erogazioni in agricoltura
 
@@ -386,7 +384,7 @@ Riordino dell'Agenzia per le erogazioni in agricoltura
 
 > Le disposizioni di cui ai precedenti commi sono estese agli enti regionali, previa deliberazione degli organi competenti.».
 
-#### Art. 2
+### Art. 2
 
 Funzioni dell'Agenzia per le erogazioni in agricoltura
 
@@ -400,7 +398,7 @@ Funzioni dell'Agenzia per le erogazioni in agricoltura
 
 5\. L'Agenzia prosegue la gestione di tutti i rapporti attivi e passivi gia' afferenti all'AIMA, soppressa con decreto legislativo 27 maggio 1999, n. 165.
 
-#### Art. 3
+### Art. 3
 
 Funzioni dell'organismo di coordinamento
 
@@ -454,7 +452,7 @@ p) promozione dell'applicazione uniforme delle attivita' di competenza delle reg
 
 q) ogni altro compito attribuito all'Agenzia dalla normativa nazionale, anche in attuazione di quella dell'Unione europea e che gli organismi pagatori intendano delegare all'organismo di coordinamento.
 
-#### Art. 4
+### Art. 4
 
 Funzioni dell'organismo pagatore
 
@@ -486,7 +484,7 @@ f) gli adempimenti connessi con la gestione degli aiuti disposti dal Ministero, 
 
 > \- Per i riferimenti al citato regolamento delegato (UE) n. 907/2014 della Commissione dell'11 marzo 2014 si veda nelle note all'articolo 2.
 
-#### Art. 5
+### Art. 5
 
 Organismi pagatori riconosciuti
 
@@ -498,7 +496,7 @@ Organismi pagatori riconosciuti
 
 4\. Gli organismi pagatori sono responsabili della tempestiva e completa trasmissione all'Agenzia delle dichiarazioni destinate alla Commissione. Tali dichiarazioni sono basate su informazioni provenienti da fonti debitamente autorizzate, sottoposte a procedure di controllo adeguate e archiviate in modo sicuro, in formato elettronico, secondo le disposizioni appositamente impartite dall'Agenzia, in qualita' di organismo di coordinamento, al fine di garantire la completezza e l'affidabilita' del Sistema integrato di gestione e controllo.
 
-#### Art. 6
+### Art. 6
 
 Centri autorizzati di assistenza agricola
 
@@ -528,7 +526,7 @@ e) interrogare nell'interesse degli utenti le banche dati del SIAN ai fini della
 
 7\. Gli organismi pagatori, sentito l'organismo di coordinamento, nel rispetto della normativa dell'Unione europea e fatti salvi i controlli obbligatori da questa previsti, nonche' le previsioni contenute nelle convenzioni di cui al comma 1, possono prevedere procedure semplificate per l'istruttoria delle istanze presentate per il tramite dei CAA, anche avvalendosi di sistemi automatizzati di valutazione delle stesse.
 
-#### Art. 6-bis
+### Art. 6-bis
 
 (( (Illeciti amministrativi). ))
 
@@ -536,7 +534,7 @@ e) interrogare nell'interesse degli utenti le banche dati del SIAN ai fini della
 
 2\. ((L'Agenzia e' l'autorita' competente per l'accertamento delle violazioni di cui al presente articolo nonche' per l'irrogazione delle relative sanzioni che si applicano secondo le modalita' di cui alla legge 24 novembre 1981, n. 689. I proventi del pagamento delle sanzioni amministrative pecuniarie sono versati all'entrata del bilancio dello Stato per essere riassegnati ai pertinenti capitoli di spesa del bilancio del Ministero dell'agricoltura, della sovranita' alimentare e delle foreste)).
 
-#### Art. 7
+### Art. 7
 
 Organi dell'Agenzia
 
@@ -550,13 +548,13 @@ b) il Collegio dei revisori dei conti, composto da tre membri effettivi e due su
 
 3\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 8
+### Art. 8
 
 Poteri del Direttore
 
 1\. Il Direttore e' il legale rappresentante dell'Agenzia, la dirige, ne e' responsabile e coordina le funzioni, garantendone la separazione. Il Direttore svolge gli altri compiti attribuitigli dallo statuto.
 
-#### Art. 9
+### Art. 9
 
 Comitato tecnico
 
@@ -572,7 +570,7 @@ Comitato tecnico
 
 6\. Il Comitato esprime altresi' un parere non vincolante sul bilancio di previsione dell'Agenzia, limitatamente alle poste relative all'organismo di coordinamento.
 
-#### Art. 10
+### Art. 10
 
 Entrate dell'Agenzia
 
@@ -588,7 +586,7 @@ c) dai proventi realizzati nell'espletamento delle gestioni di intervento.
 
 3\. Con decreto del Ministro dell'economia e delle finanze, di concerto con il Ministro, sono determinate le modalita' per l'accreditamento delle somme destinate agli aiuti comunitari sui sottoconti infruttiferi intestati agli organismi pagatori regionali.
 
-#### Art. 11
+### Art. 11
 
 Ordinamento contabile
 
@@ -608,7 +606,7 @@ Ordinamento contabile
 
 > «Art. 12. Il controllo previsto dall'art. 100 della Costituzione sulla gestione finanziaria degli enti pubblici ai quali l'Amministrazione dello Stato o un'azienda autonoma statale contribuisca con apporto al patrimonio in capitale o servizi o beni ovvero mediante concessione di garanzia finanziaria, e' esercitato, anziche' nei modi previsti dagli artt. 5 e 6, da un magistrato della Corte dei conti, nominato dal Presidente della Corte stessa, che assiste alle sedute degli organi di amministrazione e di revisione.».
 
-#### Art. 12
+### Art. 12
 
 Statuto e norme di funzionamento
 
@@ -616,7 +614,7 @@ Statuto e norme di funzionamento
 
 2\. Il regolamento del personale e' adottato dal Direttore e approvato con decreto del Ministro, di concerto con il Ministro dell'economia e delle finanze e con il Ministro per la semplificazione e la pubblica amministrazione.
 
-#### Art. 13
+### Art. 13
 
 Beni e dotazioni finanziarie dell'Agenzia
 
@@ -624,7 +622,7 @@ Beni e dotazioni finanziarie dell'Agenzia
 
 2\. Nella dotazione di cui al comma 1 sono comprese le assegnazioni a carico dello Stato occorrenti ad assicurare il funzionamento dell'Agenzia.
 
-#### Art. 14
+### Art. 14
 
 Vigilanza
 
@@ -644,7 +642,7 @@ Vigilanza
 
 > q) previsione delle ipotesi di commissariamento dell'ente e dei poteri del commissario straordinario, nominato dall'autorita' di vigilanza, ovvero, per gli enti di notevole rilievo o dimensione organizzativa e finanziaria, con decreto del Presidente del Consiglio dei Ministri, su proposta dell'autorita' di vigilanza; previsione, per i soli enti di notevole rilievo o dimensione organizzativa o finanziaria, della possibilita' di nominare uno o piu' sub-commissari; previsione di termini perentori di durata massima del commissariamento, a pena di scioglimento dell'ente.».
 
-#### Art. 15
+### Art. 15
 
 Sistema informativo agricolo nazionale
 
@@ -670,7 +668,7 @@ b) e' fatto divieto ai terzi fornitori di servizi ed eventuali terzi aventi caus
 
 6-quater. Resta salva la possibilita' per AGEA, le regioni, le Province autonome di Trento e di Bolzano e gli organismi pagatori di accedere al SIAN e di operare e sviluppare lo stesso al fine di esercitare le funzioni agli stessi attribuite. E' fatta comunque salva in ogni caso la possibilita' per i CAA di utilizzare i dati presenti nel SIAN ai quali abbiano accesso su mandato delle imprese agricole, per lo svolgimento delle attivita' di assistenza alle medesime imprese.))
 
-#### Art. 15-bis - Trasformazione della societa' SIN S.p.a.
+### Art. 15-bis - Trasformazione della societa' SIN S.p.a.
 
 1\. La SIN - Sistema Informativo Nazionale per lo sviluppo dell'Agricoltura - S.p.a., costituita ai sensi dell'articolo 14, comma 10-bis, del decreto legislativo 29 marzo 2004, n. 99, previa adozione dei necessari provvedimenti e delle modifiche statutarie che ne permettano la qualificazione quale societa' in house del Ministero e di AGEA, puo' svolgere le seguenti attivita':
 
@@ -690,31 +688,27 @@ f) conclusione di accordi, sentito il Ministero, con altri soggetti pubblici, iv
 
 3\. Al fine di quanto previsto dai commi 1 e 2, le azioni di SIN S.p.a. detenute da AGEA sono trasferite da quest'ultima al Ministero a titolo gratuito al termine della procedura di cui al comma 2.
 
-## Titolo II
+## Titolo II - ((TITOLO SOPPRESSO DAL D.L. 22 GIUGNO 2023, N. 75, CONVERTITO CON MODIFICAZIONI DALLA L. 10 AGOSTO 2023, N. 112))
 
-### ((TITOLO SOPPRESSO DAL D.L. 22 GIUGNO 2023, N. 75, CONVERTITO CON MODIFICAZIONI DALLA L. 10 AGOSTO 2023, N. 112))
-
-#### Art. 16
+### Art. 16
 
 ((ARTICOLO ABROGATO DAL D.L. 22 GIUGNO 2023, N. 75, CONVERTITO CON MODIFICAZIONI DALLA L. 10 AGOSTO 2023, N. 112))
 
-#### Art. 17
+### Art. 17
 
 ((ARTICOLO ABROGATO DAL D.LGS. 4 OTTOBRE 2019, N. 116))
 
-#### Art. 18
+### Art. 18
 
 ((ARTICOLO ABROGATO DAL D.LGS. 4 OTTOBRE 2019, N. 116))
 
-#### Art. 19
+### Art. 19
 
 ((ARTICOLO ABROGATO DAL D.LGS. 4 OTTOBRE 2019, N. 116))
 
-## Titolo III
+## Titolo III - DISPOSIZIONI TRANSITORIE E FINALI
 
-### DISPOSIZIONI TRANSITORIE E FINALI
-
-#### Art. 20
+### Art. 20
 
 Disposizioni transitorie e finali
 
@@ -728,7 +722,7 @@ Disposizioni transitorie e finali
 
 5\. Qualora la normativa vigente faccia riferimento a disposizioni abrogate dall'articolo 21, e fuori dai casi di abrogazione per incompatibilita', il riferimento si intende effettuato alle corrispondenti disposizioni del presente decreto.
 
-#### Art. 21
+### Art. 21
 
 Abrogazioni
 

@@ -25,11 +25,11 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la convenzione tra la Repubblica italiana ed il Principato del Liechtenstein in materia di sicurezza sociale, con protocollo finale, firmato a Vaduz l'11 novembre 1976.
 
-##### Art. 2
+#### Art. 2
 
 Piena ed intera esecuzione e' data alla convenzione di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 33 della convenzione stessa.
 
@@ -61,7 +61,7 @@ Liechtenstein
 
 I Plenipotenziari, dopo lo scambio dei pieni poteri in buona e debita forma, hanno deciso quanto segue:
 
-##### Articolo 1
+#### Articolo 1
 
 Ai fini della presente Convenzione i termini sottoindicati hanno i seguenti significati:
 
@@ -83,7 +83,7 @@ Ai fini della presente Convenzione i termini sottoindicati hanno i seguenti sign
 
 9\) "superstiti", "figli", e "familiari" si intendono le persone indicate come tali dalla legislazione applicabile.
 
-##### Articolo 2
+#### Articolo 2
 
 1.- Ove la presente Convenzione non stabilisca altrimenti, essa si applica:
 
@@ -109,27 +109,27 @@ a) dalle leggi e dai regolamenti concernenti un nuovo ramo della sicurezza socia
 
 b) dalle leggi e dai regolamenti che estenderanno i regimi esistenti a nuove categorie di persone, sempreche' non vi sia al riguardo opposizione dalla Parte interessata, notificata al Governo dell'altra Parte, entro tre mesi dalla ricezione di tali atti.
 
-##### Articolo 3
+#### Articolo 3
 
 La presente Convenzione si applica, ove di seguito non si disponga altrimenti, ai cittadini del Liechtenstein ed ai cittadini italiani nonche' ai loro superstiti, indipendentemente dalla cittadinanza di questi ultimi.
 
-##### Articolo 4
+#### Articolo 4
 
 Le persone elencate all'articolo 3 godono della parita' di trattamento per quanto concerne i diritti e gli obblighi derivanti dalle disposizioni delle legislazioni di cui all'articolo 2, ove nella presente Convenzione e nel suo protocollo finale non sia disposto altrimenti.
 
-##### Articolo 5
+#### Articolo 5
 
 Fatta riserva delle disposizioni della presente Convenzione e del suo Protocollo finale, le persone elencate all'articolo 3, che a norma delle legislazioni di cui all'articolo 2 hanno diritto a prestazioni, ottengono tali prestazioni integralmente e senza limitazioni finche' risiedono nel territorio di uno dei due Stati contraenti. Con la stessa riserva le prestazioni elencate vengono concesse da uno Stato contraente ai cittadini dell'altro Stato contraente ed ai loro superstiti residenti in un terzo Stato, alle stesse condizioni e nella stessa misura che ai propri cittadini ed ai loro superstiti che sono residenti in tale terzo Stato.
 
 ## PARTE SECONDA - LEGISLAZIONE APPLICABILE
 
-##### Articolo 6
+#### Articolo 6
 
 1\. - La legislazione applicabile e' di regola quella della Parte contraente sul cui territorio viene esercitata l'attivita' determinante ai fini dell'assicurazione.
 
 2\. - Nei casi in cui, per le attivita' esercitate nel territorio di ambedue le Parti contraenti, sia applicabile, in base alla regola enunciata al paragrafo 1, la legislazione delle due Parti, i contributi alle assicurazioni di ciascuna delle due Parti sono dovuti unicamente sulla quota di reddito realizzata sul rispettivo territorio.
 
-##### Articolo 7
+#### Articolo 7
 
 1\. - Il principio stabilito all'articolo 6, paragrafo 1, e' soggetto alle seguenti eccezioni:
 
@@ -147,17 +147,15 @@ La stessa regola si applica agli impiegati appartenenti ai ruoli delle canceller
 
 2\. - Le disposizioni del paragrafo 1, dalla lettera a) alla lettera d) valgono indipendentemente dalla cittadinanza dei lavoratori.
 
-##### Articolo 8
+#### Articolo 8
 
 Su richiesta congiunta del lavoratore e del datore di lavoro, le Autorita' competenti delle due Parti contraenti possono stabilire di comune accordo altre eccezioni al principio della legislazione applicabile, oltre a quelle previste dall'articolo 7.
 
 ## PARTE TERZA - DISPOSIZIONI PARTICOLARI
 
-### Capitolo primo
+### Capitolo primo - ASSICURAZIONE INVALIDITA', VECCHIAIA E SUPERSTITI
 
-#### ASSICURAZIONE INVALIDITA', VECCHIAIA E SUPERSTITI
-
-##### Articolo 9
+#### Articolo 9
 
 1\. - I cittadini italiani hanno diritto alle rendite ordinarie dell'assicurazione invalidita' del Liechtenstein se al verificarsi dell'evento assicurato sono stati versati a tale assicurazione contributi per almeno 5 anni interi.
 
@@ -167,15 +165,15 @@ Su richiesta congiunta del lavoratore e del datore di lavoro, le Autorita' compe
 
 I figli minorenni di cittadini italiani residenti nel Liechtenstein possono beneficiare dei provvedimenti di integrazione, sussistendo i requisiti di legge, a condizione che il padre o la madre al verificarsi dell'invalidita' abbia pagato i contributi all'assicurazione invalidita' per almeno 5 anni oppure abbia risieduto nel Liechtenstein per 5 anni interi.
 
-##### Articolo 10
+#### Articolo 10
 
 I cittadini italiani hanno diritto alle rendite straordinarie, ai sensi della legislazione del Liechtenstein fino a quando conservano la residenza nel Liechtenstein, e se immediatamente prima del mese a partire dal quale domandano la rendita vi abbiano risieduto ininterrottamente per 10 anni, quando si tratta di una rendita di vecchiaia, e per 5 anni quando si tratta di una rendita di invalidita' o di superstiti o di una rendita di vecchiaia che le sostituisce.
 
-##### Articolo 11
+#### Articolo 11
 
 I cittadini italiani hanno diritto agli assegni per grandi invalidi in base alla legislazione del Liechtenstein finche' risiedono nel Liechtenstein e se hanno versato contributi per 5 anni interi oppure nel caso che immediatamente prima del mese a partire dal quale si chiede l'assegno essi vi abbiano soggiornato ininterrottamente per 5 anni.
 
-##### Articolo 12
+#### Articolo 12
 
 1\. - Qualora l'ammontare della rendita ordinaria parziale cui puo' aver diritto un cittadino italiano che non risiede in Liechtenstein non raggiunga il dieci per cento della rendita ordinaria completa, a detto cittadino italiano verra' corrisposta, in luogo della suddetta rendita parziale, una indennita' forfettaria uguale al valore attuale della rendita dovuta.
 
@@ -185,7 +183,7 @@ Gli interessati possono rinunciare al pagamento di tale indennita' e chiedere ch
 
 2\. - Qualora l'indennita' forfettaria sia stata versata dall'assicurazione del Liechtenstein ne' il beneficiario ne' i suoi superstiti possono piu' far valere alcun diritto nei confronti dell'assicurazione del Liechtenstein in virtu' dei contributi precedentemente versati.
 
-##### Articolo 13
+#### Articolo 13
 
 1\. - Verificatosi l'evento assicurato in caso di vecchiaia secondo la legislazione italiana, i cittadini italiani hanno la facolta' di chiedere il trasferimento alle assicurazioni italiane dei contributi versati da loro stessi e dai loro datori di lavoro alla assicurazione vecchiaia e superstiti del Liechtenstein in base ai quali non abbiano ancora beneficiato di alcuna prestazione dell'assicurazione vecchiaia e superstiti e invalidita' del Liechtenstein, a condizione tuttavia che essi abbiano lasciato il Liechtenstein per stabilirsi definitivamente in Italia o in un terzo Paese.
 
@@ -197,7 +195,7 @@ Detti contributi possono, tuttavia, a domanda, formare oggetto di trasferimento 
 
 3\. - Le assicurazioni sociali italiane utilizzano a favore dell'assicurato o dei superstiti i contributi trasferiti al fine di far loro conseguire i vantaggi derivanti dalla legislazione italiana, citata all'articolo 2 della Convenzione, secondo le disposizioni particolari emanate dalle Autorita' italiane. Se in base alle disposizioni della legislazione italiana non derivi all'assicurato o ai suoi superstiti dal trasferimento dei contributi alcun vantaggio nel regime delle pensioni, le assicurazioni sociali italiane rimborsano agli interessati i contributi trasferiti.
 
-##### Articolo 14
+#### Articolo 14
 
 1\. - Ai fini del diritto alle rendite ordinarie dell'assicurazione invalidita', in base alla legislazione del Liechtenstein, sono considerati assicurati anche i cittadini italiani che:
 
@@ -225,7 +223,7 @@ c) durante i seguenti periodi assimilati secondo la legislazione italiana, nella
 
 \- i periodi di disoccupazione durante i quali e' concessa l'indennita' ordinaria di disoccupazione per una durata massima di centottanta giorni consecutivi.
 
-##### Articolo 15
+#### Articolo 15
 
 1\. - Quando in base ai soli periodi di assicurazione e ai periodi equivalenti compiuti secondo la legislazione italiana un assicurato non puo' far valere un diritto ad una prestazione per l'invalidita', la vecchiaia e i superstiti ai sensi di questa legislazione, i periodi compiuti nell'assicurazione vecchiaia e superstiti del Liechtenstein (periodi contributivi e periodi equivalenti) saranno totalizzati con i periodi compiuti nell'assicurazione italiana per l'acquisizione del diritto alle prestazioni suddette, in quanto questi periodi non si sovrappongono.
 
@@ -239,21 +237,21 @@ Tuttavia per i periodi di assicurazione compiuti in virtu' della legislazione de
 
 b) in base a questo ammontare l'organismo assicuratore italiano determina la prestazione dovuta al pro rata della durata dei periodi di assicurazione compiuti nelle assicurazioni italiane, in relazione alla durata totale dei periodi compiuti nelle assicurazioni delle due Parti, tenendo conto, tuttavia dei periodi compiuti nella assicurazione del Liechtenstein solo in quanto non si sovrappongano ai periodi italiani.
 
-##### Articolo 16
+#### Articolo 16
 
 1\. - I cittadini del Liechtenstein i quali, verificatosi l'evento assicurato in caso di vecchiaia ai sensi della legislazione italiana, nonostante l'applicazione dell'articolo 15 non possono far valere un diritto ad una prestazione delle assicurazioni sociali italiane, hanno diritto al rimborso dei contributi versati da loro stessi e dai loro datori di lavoro a tali assicurazioni.
 
 2\. - Il cittadino del Liechtenstein che abbia ottenuto il rimborso dei contributi non puo' piu' far valere diritti nei riguardi delle assicurazioni sociali italiane in base a detti contributi.
 
-##### Articolo 17
+#### Articolo 17
 
 1\. - I requisiti per l'ammissione alla prosecuzione volontaria dell'assicurazione obbligatoria italiana per la invalidita', la vecchiaia ed i superstiti possono essere soddisfatti dai cittadini italiani anche sulla base dei soli periodi compiuti nell'assicurazione del Liechtenstein per la vecchiaia ed i superstiti.
 
 2\. - Per la determinazione della categoria e della classe di contribuzione alle quali deve essere assegnato l'interessato, ai sensi della legislazione italiana in materia di versamenti volontari, si tiene conto della retribuzione assoggettata a contribuzione nella assicurazione del Liechtenstein per la vecchiaia e i superstiti.
 
-## Capitolo secondo - PRESTAZIONI FAMILIARI
+### Capitolo secondo - PRESTAZIONI FAMILIARI
 
-##### Articolo 18
+#### Articolo 18
 
 1\. - I cittadini italiani che svolgono un'attivita' lavorativa nel Liechtenstein hanno in materia di prestazioni familiari gli stessi diritti dei cittadini del Liechtenstein residenti nel Liechtenstein indipendentemente dal luogo di residenza dei figli.
 
@@ -263,11 +261,9 @@ I cittadini del Liechtenstein che svolgono un'attivita' lavorativa in Italia han
 
 ## PARTE QUARTA - DISPOSIZIONI VARIE
 
-### Capitolo primo
+### Capitolo primo - COLLABORAZIONE AMMINISTRATIVA
 
-#### COLLABORAZIONE AMMINISTRATIVA
-
-##### Articolo 19
+#### Articolo 19
 
 1\. - Le Autorita' e gli organismi delle Parti contraenti si presteranno reciproca collaborazione per l'applicazione della presente Convenzione, come se si trattasse dell'applicazione della propria legislazione.
 
@@ -275,13 +271,13 @@ La collaborazione e' gratuita, ad eccezione delle spese sostenute in contanti.
 
 2\. - Tale collaborazione vale anche per le visite mediche. La ripartizione delle spese per tali visite, comprese le spese di viaggio, di soggiorno per il periodo di osservazione nonche' delle altre in contanti verra' regolata nell'accordo di applicazione.
 
-##### Articolo 20
+#### Articolo 20
 
 1\. - Se i documenti o altre scritture da produrre agli organismi di cui all'articolo 19, paragrafo 1 di una Parte contraente sono esenti o parzialmente esenti da imposte o tasse, comprese le tasse consolari e spese amministrative, tale esenzione e' estesa anche ai documenti o altre scritture da produrre, per l'applicazione delle legislazioni di cui all'articolo 2, paragrafo 1, ad un organismo corrispondente dell'altra Parte contraente.
 
 2\. - I documenti da produrre, per l'applicazione delle legislazioni indicate all'articolo 2, paragrafo 1, agli organismi di una Parte contraente di cui all'articolo 19, paragrafo 1, non sono soggetti a legalizzazione ai fini dell'utilizzazione presso organismi dell'altra Parte contraente.
 
-##### Articolo 21
+#### Articolo 21
 
 1\. - Per l'attuazione della presente Convenzione le Autorita' e gli organismi di cui all'articolo 19, paragrafo 1, possono corrispondere direttamente tra loro, con l'assicurato ed i suoi rappresentanti.
 
@@ -291,15 +287,15 @@ La collaborazione e' gratuita, ad eccezione delle spese sostenute in contanti.
 
 4\. - Le Autorita' e gli organismi di una Parte contraente di cui all'articolo 19, paragrafo 1, non possono respingere richieste ed altri documenti per il fatto di essere redatti nella lingua ufficiale dell'altra Parte contraente.
 
-##### Articolo 22
+#### Articolo 22
 
 1\. - Le domande, dichiarazioni e mezzi d'impugnativa da presentarsi in virtu' della legislazione di una Parte contraente ad una Autorita', un organismo assicuratore oppure ad altro ufficio, sono considerati presentati all'ufficio competente se vengono presentati ad un corrispondente ufficio dell'altra Parte contraente; la data in cui le domande, dichiarazioni e mezzi d'impugnativa pervengono a questo ufficio vale come data di arrivo presso l'ufficio competente.
 
 2\. - Le domande, le dichiarazioni e i mezzi d'impugnativa vengono trasmessi immediatamente dall'ufficio al quale sono stati presentati all'ufficio competente dell'altra Parte contraente.
 
-## Capitolo secondo - APPLICAZIONE ED INTERPRETAZIONE DELLA CONVENZIONE
+### Capitolo secondo - APPLICAZIONE ED INTERPRETAZIONE DELLA CONVENZIONE
 
-##### Articolo 23
+#### Articolo 23
 
 1\. - Le Autorita' competenti delle due Parti contraenti stabiliranno in un accordo le disposizioni amministrative necessarie per l'applicazione della presente Convenzione.
 
@@ -307,17 +303,17 @@ La collaborazione e' gratuita, ad eccezione delle spese sostenute in contanti.
 
 3\. - Per facilitare l'applicazione della presente Convenzione possono essere istituiti organismi di collegamento che saranno indicati nell'accordo di applicazione.
 
-##### Articolo 24
+#### Articolo 24
 
 1\. - Gli organismi obbligati ad effettuare pagamenti in base alla presente Convenzione se ne liberano validamente nella moneta del loro Paese.
 
 2\. - Le Autorita' competenti possono stabilire, di comune accordo, altri modi di pagamento.
 
-##### Articolo 25
+#### Articolo 25
 
 Se l'organismo di una Parte contraente ha versato per un determinato periodo di tempo anticipi o somme non dovute, il relativo importo potra' essere trattenuto soltanto sugli arretrati della corrispondente prestazione dovuti dall'organismo dell'altra Parte contraente.
 
-##### Articolo 26
+#### Articolo 26
 
 1\. - I Governi delle due Parti contraenti designeranno una Commissione mista che sara' incaricata di curare la retta applicazione della presente Convenzione, di comporre le eventuali controversie relative alla sua applicazione e di discutere ogni questione relativa alla sicurezza sociale. Detta Commissione puo', ove occorra, far proposte per la revisione della Convenzione, del Protocollo finale e dell'Accordo amministrativo relativi.
 
@@ -329,7 +325,7 @@ Ogni delegazione potra' farsi assistere da esperti.
 
 4\. - La Commissione mista stabilira' la propria organizzazione e la procedura da seguire nei lavori.
 
-##### Articolo 27
+#### Articolo 27
 
 1\. - Nel caso che una controversia non possa essere risolta tramite la Commissione mista, essa verra' sottoposta ad un tribunale arbitrale composto di un rappresentante di ciascuna delle Parti contraenti e di un presidente appartenente ad un terzo Paese.
 
@@ -341,7 +337,7 @@ Ogni delegazione potra' farsi assistere da esperti.
 
 ## PARTE QUINTA - DISPOSIZIONI TRANSITORIE E FINALI
 
-##### Articolo 28
+#### Articolo 28
 
 1\. - La presente Convenzione si applica, fatta riserva per l'articolo 29 anche agli eventi assicurati verificatisi prima della sua entrata in vigore.
 
@@ -351,29 +347,29 @@ Ogni delegazione potra' farsi assistere da esperti.
 
 4\. - La presente Convenzione non si applica a diritti soddisfatti mediante rimborso di contributi.
 
-##### Articolo 29
+#### Articolo 29
 
 Le pensioni ordinarie dell'assicurazione di vecchiaia e per i superstiti del Liechtenstein vengono concesse in base alla presente Convenzione solo se l'evento assicurato si e' verificato dopo il 31 dicembre 1959 e se i contributi non sono stati rimborsati.
 
-##### Articolo 30
+#### Articolo 30
 
 Le pensioni o rendite determinate prima dell'entrata in vigore della presente Convenzione saranno ricalcolate a domanda, in conformita' con le disposizioni della presente Convenzione. La nuova liquidazione puo' anche essere fatta d'ufficio. Una riliquidazione non puo' mai comportare una riduzione dei diritti precedenti.
 
-##### Articolo 31
+#### Articolo 31
 
 Nei casi in cui in base alla legislazione applicabile la cittadinanza oppure la residenza dell'avente diritto non consente la concessione delle prestazioni ed in cui la presente Convenzione rimuova tale ostacolo, i termini per l'esercizio dei diritti nonche' i termini di prescrizione previsti dalle leggi delle Parti contraenti decorrono non prima dell'entrata in vigore della presente Convenzione.
 
-##### Articolo 32
+#### Articolo 32
 
 Il Protocollo finale allegato costituisce parte integrante della presente Convenzione.
 
-##### Articolo 33
+#### Articolo 33
 
 1\. - La presente Convenzione sara' ratificata; gli strumenti di ratifica verranno scambiati appena possibile a Vaduz.
 
 2\. - Essa entrera' in vigore il primo giorno del secondo mese successivo a quello in cui gli strumenti di ratifica saranno scambiati.
 
-##### Articolo 34
+#### Articolo 34
 
 1\. - La presente Convenzione viene stipulata per la durata di un anno. Essa si considera rinnovata tacitamente di anno in anno se non viene denunciata da una delle due Parti contraenti tre mesi prima della scadenza del termine annuale.
 
@@ -389,7 +385,7 @@ Repubblica italiana Principato del Liechtenstein
 
 G. VINCENTI MARERI W. KIEBER
 
-##### Protocollo
+#### Protocollo
 
 PROTOCOLLO FINALE
 

@@ -28,7 +28,7 @@ la seguente legge:
 
 ## TITOLO I - PROVVEDIMENTI STRAORDINARI A FAVORE DELL'EDILIZIA SCOLASTICA.
 
-#### Art. 1 - Misura dei contributi - Enti ammessi al godimento
+### Art. 1 - Misura dei contributi - Enti ammessi al godimento
 
 Sono autorizzati il limite d'impegno di lire 1500 milioni per l'esercizio 1954-55, comprensivi degli 800 milioni autorizzati con l'art. 6, lettera d) della legge che approva lo stato di previsione della spesa del Ministero dei lavori pubblici per l'esercizio medesimo, e il limite d'impegno annuo di lire 1.500.000.000 per ciascuno degli esercizi dal 1955-50 al 1963-64 per la corresponsione, da parte del Ministero dei lavori pubblici agli Enti obbligati, di contributi trentacinquennali nelle seguenti misure sulla spesa riconosciuta ammissibile per la costruzione, il completamento, l'ampliamento, il riattamento e l'arredamento principale di edifici scolastici:
 
@@ -46,19 +46,19 @@ I Comuni di cui alle lettere a) e b) sono autorizzati a contrarre mutui per frui
 
 Le somme non impegnate in un esercizio possono essere utilizzate negli esercizi successivi.
 
-#### Art. 2 - Stanziamento in bilancio
+### Art. 2 - Stanziamento in bilancio
 
 Le somme occorrenti per il pagamento dei contributi previsti dal precedente articolo saranno stanziate nello stato di previsione della spesa del Ministero dei lavori pubblici per gli esercizi dal 1954-55 al 1998-99.
 
 Le somme predette saranno ripartite regionalmente in proporzione alle aule scolastiche mancanti.
 
-#### Art. 3 - Garanzia prestata dallo Stato
+### Art. 3 - Garanzia prestata dallo Stato
 
 Nei casi previsti dalle lettere a) e b) del precedente art. 1, i mutui richiesti sono garantiti dallo Stato.
 
 In relazione alla garanzia prestata dallo Stato ai sensi del comma precedente il Ministero del tesoro, nel caso di mancato pagamento da parte dei Comuni alle scadenze stabilite, dietro semplice notifica dell'inadempienza, senza obbligo preventivo di escussione del debitore da parte dell'istituto mutuante, provvedera' ad eseguire il pagamento delle rate scadute aumentate degli interessi nella misura stabilita dall'art. 4 della legge 11 aprile 1938, n. 498, rimanendo sostituito all'Istituto mutuante in tutte le ragioni di diritto nei confronti dei Comuni.
 
-#### Art. 4
+### Art. 4
 
 (Presentazione delle domande di contributo
 
@@ -78,7 +78,7 @@ Gli Enti, per i quali il Ministero dei lavori pubblici in data
 
 anteriore all'entrata in vigore della presente legge ha emesso l'impegno di contributo ma non ancora il decreto Ministeriale, sono parimenti ammessi, su loro richiesta, a godere dei maggiori benefici, intendendosi integrati con le disponibilita' della presente legge i fondi ad essi assegnati.
 
-#### Art. 5 - Espletamento delle pratiche e progettazione
+### Art. 5 - Espletamento delle pratiche e progettazione
 
 Le Prefetture e gli Uffici del genio civile sono autorizzati ad espletare, secondo la rispettiva competenza, le pratiche necessarie per la concessione del contributo e del mutuo e la progettazione delle opere occorrenti per la costruzione dell'edificio scolastico ove ne vengano richiesti da Comuni con popolazione inferiore a 5000 abitanti.
 
@@ -86,11 +86,11 @@ Nel caso che l'Ufficio del genio civile non sia in condizione di provvedere dire
 
 Alla spesa relativa si provvede con la percentuale per spese tecniche prevista per l'esecuzione dell'opera.
 
-#### Art. 6 - Approvazione dei progetti
+### Art. 6 - Approvazione dei progetti
 
 L'approvazione dei progetti e la concessione dei contributi assegnati in applicazione della presente legge hanno luogo, in conformita' dei programmi di cui al precedente art. 4, con decreto del Ministro per i lavori pubblici, sentito il parere del Consiglio superiore dei lavori pubblici, ovvero del Comitato tecnico amministrativo del Provveditorato alle opere pubbliche ai sensi dell'art. 7 della legge 15 febbraio 1953, n. 184.
 
-#### Art. 7
+### Art. 7
 
 (Integrazione del Consiglio superiore dei lavori
 
@@ -100,7 +100,7 @@ Il capo del Servizio centrale per l'edilizia scolastica del Ministero della pubb
 
 Il provveditore agli studi competente per territorio e' chiamato a partecipare alle riunioni dei Comitati tecnico-amministrativi dei Provveditorati alle opere pubbliche, quando siano trattati argomenti attinenti all'edilizia scolastica.
 
-#### Art. 8
+### Art. 8
 
 (Giudizio sull'idoneita' delle aree
 
@@ -110,11 +110,11 @@ Il giudizio sull'idoneita' delle aree, su cui dovranno sorgere gli edifici da co
 
 Entro cinque mesi dalla pubblicazione della presente legge, saranno emanate nuove norme per la compilazione dei progetti per la costruzione degli edifici scolastici. Frattanto il Ministro per i lavori pubblici, d'intesa con i Ministri per la pubblica istruzione e per il tesoro, stabilira' le modalita' per la compilazione dei progetti stessi, tenendo presenti le particolari esigenze dei Comuni, frazioni di Comuni e sedi scolastiche nei quali gli edifici dovranno sorgere.
 
-#### Art. 9 - Spese ammesse al contributo
+### Art. 9 - Spese ammesse al contributo
 
 Nelle spese per le quali e' ammesso il contributo sono incluse quelle relative all'arredamento principale - compresi i sussidi audiovisivi - degli edifici da costruire, completare e riattare, quelle per l'alloggio degli insegnanti, quando l'abitazione nei locali della scuola sia obbligatoria per legge, e quelle occorrenti per la progettazione e la direzione dei lavori.
 
-#### Art. 10
+### Art. 10
 
 ((ARTICOLO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N. 327)) ((6))
 
@@ -130,19 +130,17 @@ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122
 
 Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 1 gennaio 2002 al 30 giugno 2003.
 
-#### Art. 11 - Benefici di legge precedenti
+### Art. 11 - Benefici di legge precedenti
 
 Restano fermi i benefici contenuti in leggi precedenti, purche' non contrastino con quanto dispone la presente legge.
 
-#### Art. 12 - Concessione dei mutui da parte di Casse di risparmio e Aziende di credito
+### Art. 12 - Concessione dei mutui da parte di Casse di risparmio e Aziende di credito
 
 Le Casse di risparmio e le altre Aziende di credito indicate nell'art. 5 del regio decreto 12 marzo 1936, n. 375, sono autorizzate a concedere, anche in deroga ai propri statuti, i mutui previsti dalla presente legge.
 
-## TITOLO II - REVISIONE DELLA MISURA DELLE TASSE SCOLASTICHE E PROVVIDENZE A FAVORE
+## TITOLO II - REVISIONE DELLA MISURA DELLE TASSE SCOLASTICHE E PROVVIDENZE A FAVORE DEGLI ALUNNI
 
-### DEGLI ALUNNI
-
-#### Art. 13 - Misura delle tasse - Modalita' e termini per il pagamento
+### Art. 13 - Misura delle tasse - Modalita' e termini per il pagamento
 
 Le tasse dovute per le scuole e gli istituti di istruzione media, classica, scientifica, magistrale e tecnica sono stabilite, per l'anno scolastico 1954-55, come dall'annessa tabella A.
 
@@ -154,7 +152,7 @@ Le tasse di frequenza possono essere pagate in piu' rate.
 
 Con decreto del Ministro per le finanze, di concerto con quelli per la pubblica istruzione e per il tesoro, saranno stabiliti i modi e i termini di pagamento delle tasse di cui alla presente legge.
 
-#### Art. 14 - Esoneri per merito
+### Art. 14 - Esoneri per merito
 
 Gli alunni e i candidati appartenenti a famiglie di disagiata condizione economica sono esonerati:
 
@@ -174,7 +172,7 @@ AGGIORNAMENTO (1)
 
 La L. 7 febbraio 1958, n. 88 ha disposto (con l'art. 4, comma 1) che "In deroga alle disposizioni dell'art. 10 del decreto legislativo luogotenenziale 7 settembre 1945, n. 816, e del terzo comma dell'art. 14 della legge 9 agosto 1954, n. 645, per gli alunni degli Istituti magistrali il voto di educazione fisica e' compreso nel calcolo della media dei punti ai fini dell'ammissione agli esami, dell'iscrizione e della dispensa dal pagamento delle tasse".
 
-#### Art. 15 - Esoneri a favore di determinate categorie
+### Art. 15 - Esoneri a favore di determinate categorie
 
 Sono esonerati dalle tasse scolastiche, di cui alle annesse tabelle, e dall'imposta di bollo, gli alunni e i candidati che appartengano a famiglie di disagiata condizione economica e rientrino in una delle seguenti categorie:
 
@@ -190,7 +188,7 @@ E' condizione per l'esonero il voto in condotta non inferiore ad otto decimi.
 
 Il beneficio dell'esonero previsto dal presente articolo e' sospeso per ripetenti, tranne in casi di comprovata infermita'.
 
-#### Art. 16 - Esoneri a favore di alunni di famiglia numerosa
+### Art. 16 - Esoneri a favore di alunni di famiglia numerosa
 
 E' concesso l'esonero dalle tasse di cui alle annesse tabelle e dall'imposta di bollo, ai giovani appartenenti a famiglie di disagiata condizione economica, che abbiano a carico non meno di sette figli. E' concesso il semi-esonero quando i figli a carico siano non meno di cinque. E' condizione per l'esonero il voto in condotta non inferiore ad otto decimi.
 
@@ -200,17 +198,17 @@ I figli caduti in guerra o per la lotta di liberazione si considerano viventi e 
 
 Il beneficio di cui al presente articolo e' sospeso per i ripetenti, tranne in casi di comprovata infermita'.
 
-#### Art. 17 - Esoneri a favore di stranieri o di figli di italiani all'estero
+### Art. 17 - Esoneri a favore di stranieri o di figli di italiani all'estero
 
 Gli studenti stranieri che si iscrivano negli istituti statali di istruzione media ed i figli di cittadini italiani residenti all'estero che vengano a compiere i loro studi in Italia, sono dispensati dal pagamento delle tasse stabilite dalla presente legge.
 
 Il beneficio e' sospeso per i ripetenti, tranne in casi di comprovata infermita'.
 
-#### Art. 18 - Perdita dell'esonero
+### Art. 18 - Perdita dell'esonero
 
 I benefici previsti dai precedenti articoli si perdono dagli alunni che incorrano nelle punizioni disciplinari di cui alla lettera d) e seguenti dell'art. 19 del regio decreto 4 maggio 1025, n. 653.
 
-#### Art. 19 - Borse di studio e assistenza scolastica
+### Art. 19 - Borse di studio e assistenza scolastica
 
 A decorrere dall'anno scolastico 1954-55 sono istituite borse di studio annuali, per l'importo complessivo di lire 500 milioni, da conferirsi per concorso, ad alunni d'istituti di istruzione secondaria, capaci e meritevoli e appartenenti a famiglie particolarmente bisognose, con speciale riguardo al numero dei figli a carico.
 
@@ -226,15 +224,15 @@ Con la stessa procedura, le somme eventualmente non assegnate per borse di studi
 
 ## TITOLO III - ISTITUZIONE DI NUOVE SCUOLE ELEMENTARI E VARIAZIONI DI BILANCIO.
 
-#### Art. 20 - Istituzione di nuove scuole elementari
+### Art. 20 - Istituzione di nuove scuole elementari
 
 Lo stanziamento di cui al capitolo 43 dello stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio finanziario 1954-55 e' aumentato della somma di lire 1.500.000.000 per consentire l'istituzione di nuove scuole elementari nell'anno scolastico 1954-55.
 
-#### Art. 21 - Devoluzione dell'aumento allo Stato
+### Art. 21 - Devoluzione dell'aumento allo Stato
 
 L'importo dell'aumento delle tasse scolastiche di cui alla presente legge ed alle tabelle annesse va integralmente devoluto allo Stato.
 
-#### Art. 22 - Variazioni del bilancio
+### Art. 22 - Variazioni del bilancio
 
 Il Ministro per il tesoro e' autorizzato a provvedere con propri decreti alle occorrenti variazioni di bilancio.
 
@@ -252,7 +250,7 @@ Visto, il Guardasigilli: DE PIETRO
 
 ## TITOLO III - ISTITUZIONE DI NUOVE SCUOLE ELEMENTARI E VARIAZIONI DI BILANCIO.
 
-#### Tabelle
+### Tabelle
 
 TABELLA A
 

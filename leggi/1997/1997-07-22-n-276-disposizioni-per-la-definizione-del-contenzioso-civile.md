@@ -32,7 +32,7 @@ la seguente legge:
 
 ## CAPO I - Dei giudici onorari aggregati
 
-#### Art. 1
+### Art. 1
 
 Ambito di applicazione e finalita' della legge;
 
@@ -58,7 +58,7 @@ Il D.L. 21 settembre 1998, n. 328, convertito, con modificazioni dalla L. 19 nov
 
 onorari aggregati gia' nominati."
 
-#### Art. 2
+### Art. 2
 
 Requisiti per la nomina e titoli di preferenza
 
@@ -110,7 +110,7 @@ AGGIORNAMENTO (2)
 
 Il D.L. 21 settembre 1998, n. 328, convertito con modificazioni dalla L. 19 novembre 1998, n. 399, ha disposto (con l'art. 1, comma 15) che "Le disposizioni della legge 22 luglio 1997, n. 276, come modificata dal presente articolo, si applicano anche ai giudici onorari aggregati gia' nominati".
 
-#### Art. 3
+### Art. 3
 
 Procedimento per la nomina
 
@@ -134,7 +134,7 @@ AGGIORNAMENTO (2)
 
 Il D.L. 21 settembre 1998, n. 328, convertito, con modificazioni dalla L. 19 novembre 1998, n. 399 ha disposto (con l'art. 1, comma 15) che "Le disposizioni della legge 22 luglio 1997, n. 276, come modificata dal presente articolo, si applicano anche ai giudici onorari aggregati gia' nominati."
 
-#### Art. 4
+### Art. 4
 
 Durata dell'ufficio
 
@@ -150,7 +150,7 @@ Durata dell'ufficio
 
 6\. Qualora non sia possibile operare ai sensi del comma 5, i posti vengono coperti facendo ricorso alle graduatorie del singolo ufficio e, nel caso di esaurimento, mediante nuova pubblicazione dei posti.
 
-#### Art. 5
+### Art. 5
 
 Incompatibilita' ed ineleggibilita'
 
@@ -168,7 +168,7 @@ AGGIORNAMENTO (2)
 
 Il D.L. 21 settembre 1998, n. 328, convertito, con modificazioni dalla L. 19 novembre 1998, n. 399 ha disposto (con l'art. 1, comma 15) che "Le disposizioni della legge 22 luglio 1997, n. 276, come modificata dal presente articolo, si applicano anche ai giudici onorari aggregati gia' nominati."
 
-#### Art. 6
+### Art. 6
 
 Astensione e ricusazione
 
@@ -182,7 +182,7 @@ AGGIORNAMENTO (2)
 
 Il D.L. 21 settembre 1998, n. 328, convertito, con modificazioni dalla L. 19 novembre 1998, n. 399 ha disposto (con l'art. 1, comma 15) che "Le disposizioni della legge 22 luglio 1997, n. 276, come modificata dal presente articolo, si applicano anche ai giudici onorari aggregati gia' nominati."
 
-#### Art. 7
+### Art. 7
 
 Decadenza, dimissioni e revoca
 
@@ -194,7 +194,7 @@ Decadenza, dimissioni e revoca
 
 4\. I provvedimenti di cessazione sono adottati con decreto del ministro di Grazia e giustizia e su deliberazione del Consiglio superiore della magistratura.
 
-#### Art. 8
+### Art. 8
 
 Stato giuridico, indennita' e trattamento previdenziale
 
@@ -220,7 +220,7 @@ AGGIORNAMENTO (3)
 
 La Corte costituzionale, con sentenza 6-8 giugno 2005, n. 220, (in G.U. 1a s.s. 15/06/2005 n. 24) ha dichiarato "l'illegittimita' costituzionale dell'art. 8, comma 3, della legge 22 luglio 1997, n. 276 (Disposizioni per la definizione del contenzioso civile pendente: nomina di giudici onorari aggregati e istituzione delle sezioni stralcio nei tribunali ordinari)".
 
-#### Art. 9
+### Art. 9
 
 Cancellazione dall'albo, cessazione dagli incarichi
 
@@ -238,11 +238,9 @@ AGGIORNAMENTO (2)
 
 Il D.L. 21 settembre 1998, n. 328, convertito, con modificazioni dalla L. 19 novembre 1998, n. 399 ha disposto (con l'art. 1, comma 15) che "Le disposizioni della legge 22 luglio 1997, n. 276, come modificata dal presente articolo, si applicano anche ai giudici onorari aggregati gia' nominati."
 
-## CAPO II - Disposizioni per la definizione
+## CAPO II - Disposizioni per la definizione del contenzioso civile pendente istituzione delle sezioni stralcio nei tribunali ordinari
 
-### del contenzioso civile pendente istituzione - delle sezioni stralcio nei tribunali ordinari
-
-#### Art. 10
+### Art. 10
 
 Ufficio spoglio per la ricognizione
 
@@ -256,7 +254,7 @@ All'ufficio spoglio e' assegnato, dal presidente del tribunale, il personale amm
 
 3\. Entro dieci giorni dalla pubblicazione nella Gazzetta Ufficiale del decreto di cui all'articolo 1, comma 3, sono predisposte le modifiche tabellari.
 
-#### Art. 11
+### Art. 11
 
 Istituzione delle sezioni stralcio
 
@@ -294,7 +292,7 @@ e assegnazione delle cause pendenti
 
 > \- Per il testo dell'art. 48 dell'ordinamento giudiziario approvato con regio decreto 30 gennaio 1941, n. 12, come modificato dall'art. 88 della legge 26 novembre 1990, n. 353, v. nota all'art. 1.
 
-#### Art. 12
+### Art. 12
 
 Norme applicabili
 
@@ -310,7 +308,7 @@ AGGIORNAMENTO (1)
 
 La L. 2 ottobre 1997, n. 333 ha disposto (con l'art. 1, comma 1) che Le disposizioni di cui all'articolo 12 della legge 22 luglio 1997, n. 276, si applicano a decorrere dalla data di entrata in funzione delle sezioni stralcio, da fissare con decreto del Ministro di grazia e giustizia."
 
-#### Art. 13
+### Art. 13
 
 Tentativo di conciliazione. Esenzione fiscale
 
@@ -326,7 +324,7 @@ Tentativo di conciliazione. Esenzione fiscale
 
 6\. Il processo verbale di conciliazione, nelle cause pendenti anche in istruttoria alla data del 30 aprile 1995, e' esente dall'imposta di registro quando il valore non supera i cinquanta milioni. Oltre tale limite l'imposta di registro e' ridotta della meta'.
 
-#### Art. 14
+### Art. 14
 
 Personale amministrativo e strutture mobiliari
 
@@ -348,7 +346,7 @@ b) 500 della V qualifica funzionale, profilo professionale di operatore amminist
 
 7\. Per l'approntamento delle strutture mobiliari necessarie all'attivita' delle sezioni stralcio e' autorizzata la spesa di lire 10.000 milioni per ciascuno degli anni 1997, 1998, 1999 e 2000.
 
-#### Art. 15
+### Art. 15
 
 Norma di copertura
 
@@ -356,7 +354,7 @@ Norma di copertura
 
 2\. Il ministro del Tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 16
+### Art. 16
 
 Entrata in vigore
 

@@ -40,7 +40,7 @@ il seguente decreto legislativo:
 
 ## Titolo I - Imposta sugli intrattenimenti
 
-#### Art. 1
+### Art. 1
 
 Presupposto dell'imposta
 
@@ -72,7 +72,7 @@ Presupposto dell'imposta
 
 > Successivamente il decreto legislativo n. 504 del 1998 ne ha disposto l'abrogazione.
 
-#### Art. 2
+### Art. 2
 
 Soggetti d'imposta
 
@@ -82,7 +82,7 @@ Soggetti d'imposta
 
 2\. Nei casi in cui l'esercizio di case da gioco e' riservato per legge ad un ente pubblico, questi e' soggetto d'imposta anche se ne delega ad altri la gestione.".
 
-#### Art. 3
+### Art. 3
 
 Base imponibile
 
@@ -110,7 +110,7 @@ c) sul prezzo dei titoli di accesso e dei posti riservati e sulle somme o valori
 
 5\. Sono escluse dal computo dell'ammontare imponibile le somme dovute a titolo di rivalsa obbligatoria dell'imposta sugli intrattenimenti e di quanto e' dovuto agli enti pubblici concedenti, a cui e' riservato per legge l'esercizio delle case da gioco.".
 
-#### Art. 4
+### Art. 4
 
 A l i q u o t e
 
@@ -118,7 +118,7 @@ A l i q u o t e
 
 "Art. 4 (Aliquote). - 1. Le aliquote dell'imposta sono quelle stabilite dalla tariffa annessa al presente decreto in vigore al momento iniziale dell'intrattenimento.".
 
-#### Art. 5
+### Art. 5
 
 Finalita' di beneficenza
 
@@ -226,7 +226,7 @@ Finalita' di beneficenza
 
 > Con decreti del Ministro per le finanze potranno essere determinate modalita' semplificative per la tenuta del registro dei beni ammortizzabili e del registro riepilogativo di magazzino, in considerazione delle caratteristiche dei vari settori di attivita'".
 
-#### Art. 6
+### Art. 6
 
 Titoli di accesso per gli intrattenimenti
 
@@ -244,7 +244,7 @@ e le altre attivita' soggette ad imposta
 
 > \- La legge 26 gennaio 1983, n. 18, reca: "Obbligo da parte di determinate categorie di contribuenti dell'imposta sul valore aggiunto di rilasciare uno scontrino fiscale mediante l'uso di speciali registratori di cassa" ed e' pubblicata nella Gazzetta Ufficiale n. 29 del 31 gennaio 1983.
 
-#### Art. 7
+### Art. 7
 
 Abbonamenti
 
@@ -256,7 +256,7 @@ Abbonamenti
 
 3\. Con decreto del Ministero delle finanze sono emanate le disposizioni di attuazione del presente articolo.".
 
-#### Art. 8
+### Art. 8
 
 Imponibili medi
 
@@ -272,7 +272,7 @@ b) per le attivita' di minima importanza e per quelle soggette ad imposta svolte
 
 3\. E' data facolta' di optare per la determinazione dell'imponibile in via ordinaria.".
 
-#### Art. 9
+### Art. 9
 
 Apparecchi da divertimento e intrattenimento
 
@@ -286,7 +286,7 @@ Per gli apparecchi da divertimento e intrattenimento, con esclusione degli appar
 
 3\. Per gli apparecchi meccanici, la base imponibile e' stabilita forfettariamente con decreto del Ministero delle finanze, in relazione alle caratteristiche tecniche degli apparecchi medesimi.".
 
-#### Art. 10
+### Art. 10
 
 Semplificazione degli adempimenti dei contribuenti
 
@@ -302,7 +302,7 @@ Per quanto riguarda gli adempimenti contabili previsti per i soggetti d'imposta 
 
 > "136. Al fine della razionalizzazione e della tempestiva semplificazione delle procedure di attuazione delle norme tributarie, gli adempimenti contabili e formali dei contribuenti sono disciplinati con regolamenti da emanare ai sensi dell'art. 17, comma 2, della legge 23 agosto 1988, n. 400, tenuto conto dell'adozione di nuove tecnologie per il trattamento e la conservazione delle informazioni e del progressivo sviluppo degli studi di settore".
 
-#### Art. 11
+### Art. 11
 
 Concessione del servizio
 
@@ -322,7 +322,7 @@ b) nel comma 2, e' aggiunto, in fine, il seguente periodo: "Annualmente il Minis
 
 > I tributi riscossi dalla Societa' sono versati allo Stato al netto del compenso ad essa riconosciuto con la convenzione di cui al primo comma. Annualmente il Ministero delle finanze provvede alla relativa regolazione contabile".
 
-#### Art. 12
+### Art. 12
 
 V i g i l a n z a
 
@@ -356,7 +356,7 @@ V i g i l a n z a
 
 > Le tessere e gli ingressi contemplati dai precedenti commi del presente articolo sono esenti dall'imposta".
 
-#### Art. 13
+### Art. 13
 
 Dichiarazione di effettuazione di attivita'
 
@@ -374,7 +374,7 @@ Dichiarazione di effettuazione di attivita'
 
 > "Art. 69 (Art. 68 T.U. 1926). - Senza licenza della autorita' locale di pubblica sicurezza e' vietato dare, anche temporaneamente, per mestiere, pubblici trattenimenti, esporre alla pubblica vista rarita', persone, animali, gabinetti ottici o altri oggetti di curiosita', ovvero dare audizioni all'aperto".
 
-#### Art. 14
+### Art. 14
 
 Titoli di ingresso a riduzione
 
@@ -388,7 +388,7 @@ Titoli di ingresso a riduzione
 
 > Per i titoli di accesso venduti a prezzo ridotto a favore di categorie di partecipanti determinate dall'organizzatore, l'imposta e' commisurata al prezzo pagato in misura ridotta".
 
-#### Art. 15
+### Art. 15
 
 Titoli di accesso gratuiti
 
@@ -404,7 +404,7 @@ Titoli di accesso gratuiti
 
 5\. Nelle percentuali e nei quantitativi di cui ai commi precedenti non vanno computate le tessere e i titoli di accesso rilasciati alle autorita' investite, a norma delle vigenti disposizioni, di particolari funzioni o compiti di istituto.".
 
-#### Art. 16
+### Art. 16
 
 Termini di decadenza - Rimborsi
 
@@ -414,11 +414,9 @@ Termini di decadenza - Rimborsi
 
 2\. Entro cinque anni dal giorno in cui e' stato effettuato il pagamento, il contribuente puo' chiedere, a pena di decadenza, la restituzione delle imposte erroneamente od indebitamente pagate.".
 
-## Titolo II - Disposizioni in materia di imposta
+## Titolo II - Disposizioni in materia di imposta sul valore aggiunto
 
-### sul valore aggiunto
-
-#### Art. 17
+### Art. 17
 
 Modifiche al regime I.V.A.
 
@@ -526,7 +524,7 @@ per il settore degli intrattenimenti e dei giochi
 
 > \- Il decreto del Presidente della Repubblica 10 novembre 1997, n. 442, richiamato nell'art. 74 del decreto del Presidente della Repubblica n. 633 del 1972, reca: "Regolamento recante norme per il riordino della disciplina delle opzioni in materia di imposta sul valore aggiunto e di imposte dirette", ed e' pubblicato nella Gazzetta Ufficiale 23 dicembre 1997, n. 298.
 
-#### Art. 18
+### Art. 18
 
 Regime I.V.A. per le attivita' spettacolistiche
 
@@ -550,7 +548,7 @@ Le facolta' di cui all'articolo 52 sono esercitate dal personale del concessiona
 
 ((2-bis. Con regolamento da emanare entro centottanta giorni dalla data di entrata in vigore della presente disposizione, ai sensi dell'articolo 3, comma 136, della legge 23 dicembre 1996, n. 662, sono dettate modalita' semplificate di certificazione dei corrispettivi per le societa' sportive dilettantistiche)).
 
-#### Art. 19
+### Art. 19
 
 Disposizioni di coordinamento
 
@@ -626,11 +624,11 @@ d) dall'Automobile club d'Italia e da altri enti e associazioni a carattere nazi
 
 > \- Si riporta il testo del quarto comma dell'art. 36 del citato decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, come modificato dal presente decreto: "L'imposta si applica in ogni caso separatamente, secondo le rispettive disposizioni e con riferimento al volume di affari di ciascuna di esse, per le attivita' di commercio al minuto di cui al terzo comma dell'art. 24, comprese le attivita' ad esse accessorie e quelle non rientranti nell'attivita' propria dell'impresa, nonche' per le attivita' di cui all'art. 34, fermo restando il disposto dei commi secondo e terzo dello stesso articolo e per quelle di cui all'articolo 74, sesto comma, per le quali la detrazione prevista dall'art. 19 sia applicata forfettariamente e per quelle di cui al comma 5 dell'articolo 74-quater".
 
-#### Art. 20
+### Art. 20
 
 ((ARTICOLO ABROGATO DALLA L. 14 NOVEMBRE 2016, N. 220))
 
-#### Art. 21
+### Art. 21
 
 Norma di copertura a norma dell'articolo 1
 
@@ -642,7 +640,7 @@ comma 1, lettera o), della legge di delega
 
 3\. Il comma 1 dell'articolo 3 della legge 29 dicembre 1988, n. 555, e' abrogato.
 
-#### Art. 22
+### Art. 22
 
 Disposizioni transitorie e finali
 
@@ -678,11 +676,9 @@ Visto, il Guardasigilli: Diliberto
 
 > \- Per il titolo del decreto del Presidente della Repubblica n. 640/1972, vedi in nota all'art. 11.
 
-## Titolo II - Disposizioni in materia di imposta
+## Titolo II - Disposizioni in materia di imposta sul valore aggiunto
 
-### sul valore aggiunto
-
-#### Allegato A
+### Allegato A
 
 ALLEGATO A
 
@@ -729,7 +725,7 @@ NOTE:
 
 3\. Per l'utilizzazione degli apparecchi da divertimento e intrattenimento di cui all'articolo 14-bis, comma 1, l'aliquota e' fissata al 6 per cento.
 
-#### Allegato B
+### Allegato B
 
 ALLEGATO B
 

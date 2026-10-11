@@ -28,7 +28,7 @@ la seguente legge:
 
 ## TITOLO I - CONTRIBUTI PER LAVORI NAVALI
 
-#### Art. 1 - Contributo per nuove costruzioni navali
+### Art. 1 - Contributo per nuove costruzioni navali
 
 Per la costruzione di nuove navi mercantili complete a scafo metallico puo' essere concesso ai cantieri navali nazionali costruttori un contributo calcolato con le seguenti percentuali sul prezzo contrattuale:
 
@@ -58,7 +58,7 @@ AGGIORNAMENTO (3)
 
 La L. 25 maggio 1978, n. 231 ha disposto (con l'art. 1, comma 4) che "Ai fini dell'applicazione dei commi precedenti sono prorogate le disposizioni dei titoli I e III della legge 27 dicembre 1973, n. 878, ad eccezione dell'articolo 23 della medesima legge".
 
-#### Art. 2 - Cantieri ammessi al contributo per nuove costruzioni navali
+### Art. 2 - Cantieri ammessi al contributo per nuove costruzioni navali
 
 Possono ottenere la concessione del contributo di cui all'articolo precedente i cantieri costruttori di navi per la navigazione marittima che, in effettivo esercizio al 31 dicembre 1963, abbiano continuato la propria attivita', anche se con temporanee sospensioni, fino al 31 dicembre 1971; sono in ogni caso esclusi dalla concessione i cantieri ai quali siano stati concessi i benefici del titolo III della legge 4 gennaio 1968, n. 19, per la conversione dell'attivita' di costruzione navale. (2) ((3))
 
@@ -74,7 +74,7 @@ AGGIORNAMENTO (3)
 
 La L. 25 maggio 1978, n. 231 ha disposto (con l'art. 1, comma 4) che "Ai fini dell'applicazione dei commi precedenti sono prorogate le disposizioni dei titoli I e III della legge 27 dicembre 1973, n. 878, ad eccezione dell'articolo 23 della medesima legge".
 
-#### Art. 3 - Campo di applicazione del contributo per nuove costruzioni navali
+### Art. 3 - Campo di applicazione del contributo per nuove costruzioni navali
 
 Sono escluse dal contributo di cui all'articolo 1:
 
@@ -98,7 +98,7 @@ AGGIORNAMENTO (3)
 
 La L. 25 maggio 1978, n. 231 ha disposto (con l'art. 1, comma 4) che "Ai fini dell'applicazione dei commi precedenti sono prorogate le disposizioni dei titoli I e III della legge 27 dicembre 1973, n. 878, ad eccezione dell'articolo 23 della medesima legge".
 
-#### Art. 4 - Domanda di concessione del contributo per nuove costruzioni navali
+### Art. 4 - Domanda di concessione del contributo per nuove costruzioni navali
 
 Nella domanda di concessione del contributo il cantiere deve indicare:
 
@@ -122,7 +122,7 @@ AGGIORNAMENTO (3)
 
 La L. 25 maggio 1978, n. 231 ha disposto (con l'art. 1, comma 4) che "Ai fini dell'applicazione dei commi precedenti sono prorogate le disposizioni dei titoli I e III della legge 27 dicembre 1973, n. 878, ad eccezione dell'articolo 23 della medesima legge".
 
-#### Art. 5 - Provvedimento di concessione del contributo per nuove costruzioni navali
+### Art. 5 - Provvedimento di concessione del contributo per nuove costruzioni navali
 
 Il contributo e' concesso con decreto del Ministro per la marina mercantile.
 
@@ -144,7 +144,7 @@ AGGIORNAMENTO (3)
 
 La L. 25 maggio 1978, n. 231 ha disposto (con l'art. 1, comma 4) che "Ai fini dell'applicazione dei commi precedenti sono prorogate le disposizioni dei titoli I e III della legge 27 dicembre 1973, n. 878, ad eccezione dell'articolo 23 della medesima legge".
 
-#### Art. 6 - Classificazione delle navi
+### Art. 6 - Classificazione delle navi
 
 Le navi di nuova costruzione per conto di armatori nazionali, per le quali sia stato concesso il contributo, devono essere iscritte nella piu' alta classe del registro italiano navale nei casi in cui la classificazione sia obbligatoria.
 
@@ -164,7 +164,7 @@ AGGIORNAMENTO (3)
 
 La L. 25 maggio 1978, n. 231 ha disposto (con l'art. 1, comma 4) che "Ai fini dell'applicazione dei commi precedenti sono prorogate le disposizioni dei titoli I e III della legge 27 dicembre 1973, n. 878, ad eccezione dell'articolo 23 della medesima legge".
 
-#### Art. 7 - Termine di ultimazione dei lavori di nuove costruzioni navali
+### Art. 7 - Termine di ultimazione dei lavori di nuove costruzioni navali
 
 Le costruzioni navali per le quali sia stata chiesta la concessione del contributo devono essere ultimate entro 24 mesi dal loro inizio.
 
@@ -184,7 +184,7 @@ AGGIORNAMENTO (3)
 
 La L. 25 maggio 1978, n. 231 ha disposto (con l'art. 1, comma 4) che "Ai fini dell'applicazione dei commi precedenti sono prorogate le disposizioni dei titoli I e III della legge 27 dicembre 1973, n. 878, ad eccezione dell'articolo 23 della medesima legge".
 
-#### Art. 8 - Apprestamenti difensivi
+### Art. 8 - Apprestamenti difensivi
 
 Ferme restando le disposizioni del regio decreto-legge 19 settembre 1935, n. 1836, convertito nella legge 9 gennaio 1936, n. 147, e successive modificazioni, sulle navi mercantili nazionali da carico secco, deve essere installato e mantenuto in efficienza a spese dei proprietari in corrispondenza del boccaporto di maggiori dimensioni un picco da carico di portata non inferiore a:
 
@@ -218,7 +218,7 @@ AGGIORNAMENTO (3)
 
 La L. 25 maggio 1978, n. 231 ha disposto (con l'art. 1, comma 4) che "Ai fini dell'applicazione dei commi precedenti sono prorogate le disposizioni dei titoli I e III della legge 27 dicembre 1973, n. 878, ad eccezione dell'articolo 23 della medesima legge".
 
-#### Art. 9 - Liquidazione del contributo per nuove costruzioni navali
+### Art. 9 - Liquidazione del contributo per nuove costruzioni navali
 
 In corrispondenza del 25 per cento, del 50 per cento e del 75 per cento dell'avanzamento globale dei lavori di nuove costruzioni navali possono essere corrisposti tre anticipi ciascuno uguale al 25 per cento del contributo risultante dal provvedimento di concessione di cui all'articolo 5.
 
@@ -238,7 +238,7 @@ AGGIORNAMENTO (3)
 
 La L. 25 maggio 1978, n. 231 ha disposto (con l'art. 1, comma 4) che "Ai fini dell'applicazione dei commi precedenti sono prorogate le disposizioni dei titoli I e III della legge 27 dicembre 1973, n. 878, ad eccezione dell'articolo 23 della medesima legge".
 
-#### Art. 10 - Contributo per lavori diversi dalle nuove costruzioni navali
+### Art. 10 - Contributo per lavori diversi dalle nuove costruzioni navali
 
 Per i lavori navali diversi da quelli di costruzione puo' essere concesso alle imprese assuntrici dei medesimi un contributo calcolato sul prezzo dei lavori stessi nei limiti, alle condizioni e con le esclusioni seguenti:
 
@@ -270,7 +270,7 @@ AGGIORNAMENTO (3)
 
 La L. 25 maggio 1978, n. 231 ha disposto (con l'art. 1, comma 4) che "Ai fini dell'applicazione dei commi precedenti sono prorogate le disposizioni dei titoli I e III della legge 27 dicembre 1973, n. 878, ad eccezione dell'articolo 23 della medesima legge".
 
-#### Art. 11
+### Art. 11
 
 (Campo di applicazione del contributo per lavori
 
@@ -292,7 +292,7 @@ AGGIORNAMENTO (3)
 
 La L. 25 maggio 1978, n. 231 ha disposto (con l'art. 1, comma 4) che "Ai fini dell'applicazione dei commi precedenti sono prorogate le disposizioni dei titoli I e III della legge 27 dicembre 1973, n. 878, ad eccezione dell'articolo 23 della medesima legge".
 
-#### Art. 12
+### Art. 12
 
 (Provvedimento di concessione e liquidazione del contributo
 
@@ -314,17 +314,15 @@ AGGIORNAMENTO (3)
 
 La L. 25 maggio 1978, n. 231 ha disposto (con l'art. 1, comma 4) che "Ai fini dell'applicazione dei commi precedenti sono prorogate le disposizioni dei titoli I e III della legge 27 dicembre 1973, n. 878, ad eccezione dell'articolo 23 della medesima legge".
 
-## TITOLO II - INCENTIVAZIONE DELLE INIZIATIVE DI NUOVI INVESTIMENTI DELLE IMPRESE
+## TITOLO II - INCENTIVAZIONE DELLE INIZIATIVE DI NUOVI INVESTIMENTI DELLE IMPRESE CANTIERISTICHE.
 
-### CANTIERISTICHE.
-
-#### Art. 13 - Contributo per nuovi investimenti
+### Art. 13 - Contributo per nuovi investimenti
 
 Per la realizzazione di nuovi impianti e opere relative, predisposti dalle imprese di costruzione di navi per la navigazione marittima e dalle imprese addette ai lavori diversi rispettivamente previste dagli articoli 2 e 10, ed approvati dal Ministro per la marina mercantile, destinati ad accrescere la capacita' competitiva delle imprese attraverso il potenziamento dell'assetto impiantistico o il miglioramento dell'organizzazione produttiva relativi ai lavori navali, puo' essere concesso un contributo del 10 per cento sul totale degli investimenti ammessi.
 
 Sono esclusi dal contributo i lavori compresi nei piani di ristrutturazione per i quali sia stato concesso il contributo previsto dal titolo II della legge 4 gennaio 1968, n. 19.
 
-#### Art. 14 - Provvedimento di concessione e liquidazione del contributo per nuovi investimenti
+### Art. 14 - Provvedimento di concessione e liquidazione del contributo per nuovi investimenti
 
 L'approvazione delle iniziative e i contributi di cui all'articolo precedente sono concessi con decreto del Ministro per la marina mercantile.
 
@@ -334,7 +332,7 @@ La liquidazione finale del contributo e' disposta previo accertamento tecnico de
 
 Le iniziative di cui al primo comma sono approvate sulla base di un piano di sviluppo globale della cantieristica italiana che dovra' essere approvato dal CIPE e presentato dal Governo al Parlamento entro il 30 giugno 1974.
 
-#### Art. 15 - Termine di ultimazione dei lavori di nuovi impianti e attrezzature
+### Art. 15 - Termine di ultimazione dei lavori di nuovi impianti e attrezzature
 
 Le richieste per la realizzazione di nuovi impianti e opere relative di cui all'articolo 13 debbono essere presentate per l'approvazione entro il 30 giugno 1975 ed i lavori ultimati nel termine di 24 mesi dalla data di scadenza della presente legge.
 
@@ -342,7 +340,7 @@ Qualora per fondati motivi si preveda che le iniziative approvate non possano es
 
 ## TITOLO III - DISPOSIZIONI COMUNI E TRANSITORIE
 
-#### Art. 16 - Controllo e vigilanza
+### Art. 16 - Controllo e vigilanza
 
 Ai fini dell'applicazione della presente legge, spettano al Ministero della marina mercantile il controllo e la vigilanza sull'attivita' delle imprese ammesse alle provvidenze della legge stessa.
 
@@ -370,7 +368,7 @@ AGGIORNAMENTO (3)
 
 La L. 25 maggio 1978, n. 231 ha disposto (con l'art. 1, comma 4) che "Ai fini dell'applicazione dei commi precedenti sono prorogate le disposizioni dei titoli I e III della legge 27 dicembre 1973, n. 878, ad eccezione dell'articolo 23 della medesima legge".
 
-#### Art. 17 - Accertamento dell'esecuzione dei lavori
+### Art. 17 - Accertamento dell'esecuzione dei lavori
 
 L'accertamento relativo alla esecuzione dei lavori per i quali siano stati chiesti i contributi previsti dagli articoli 1 e 10 e' effettuato dal registro italiano navale con l'intervento eventuale di rappresentanti dell'Amministrazione della marina mercantile. (2) ((3))
 
@@ -386,7 +384,7 @@ AGGIORNAMENTO (3)
 
 La L. 25 maggio 1978, n. 231 ha disposto (con l'art. 1, comma 4) che "Ai fini dell'applicazione dei commi precedenti sono prorogate le disposizioni dei titoli I e III della legge 27 dicembre 1973, n. 878, ad eccezione dell'articolo 23 della medesima legge".
 
-#### Art. 18 - Termine per la presentazione dei documenti relativi alla liquidazione finale dei contributi
+### Art. 18 - Termine per la presentazione dei documenti relativi alla liquidazione finale dei contributi
 
 I documenti per la liquidazione definitiva dei contributi di cui agli articoli 1, 10 e 13, devono essere presentati, a pena di decadenza, entro un anno dalla data di ultimazione dei lavori.
 
@@ -406,7 +404,7 @@ AGGIORNAMENTO (3)
 
 La L. 25 maggio 1978, n. 231 ha disposto (con l'art. 1, comma 4) che "Ai fini dell'applicazione dei commi precedenti sono prorogate le disposizioni dei titoli I e III della legge 27 dicembre 1973, n. 878, ad eccezione dell'articolo 23 della medesima legge".
 
-#### Art. 19 - Termine per la presentazione della domanda di concessione del contributo per alcune costruzioni navali
+### Art. 19 - Termine per la presentazione della domanda di concessione del contributo per alcune costruzioni navali
 
 Il contributo calcolato con l'aliquota dell'anno 1972 puo' essere concesso per le nuove costruzioni navali per le quali, nell'ultimo trimestre del 1971, sia stato stipulato il contratto di costruzione ma i lavori relativi non siano stati iniziati ovvero, pur essendo stati iniziati i lavori nel trimestre suddetto, non sia stata presentata entro il 1971, la domanda per la concessione del contributo previsto dalla legge 4 gennaio 1968, n. 19.
 
@@ -420,7 +418,7 @@ AGGIORNAMENTO (3)
 
 La L. 25 maggio 1978, n. 231 ha disposto (con l'art. 1, comma 4) che "Ai fini dell'applicazione dei commi precedenti sono prorogate le disposizioni dei titoli I e III della legge 27 dicembre 1973, n. 878, ad eccezione dell'articolo 23 della medesima legge".
 
-#### Art. 20 - Contributo per la creazione di nuovi stabilimenti di motori navali iniziata durante la validita' della legge 4 gennaio 1968, n. 19
+### Art. 20 - Contributo per la creazione di nuovi stabilimenti di motori navali iniziata durante la validita' della legge 4 gennaio 1968, n. 19
 
 Alle imprese costruttrici di motori navali che abbiano iniziato durante la validita' della legge 4 gennaio 1968, n. 19, i lavori per la creazione di nuovi stabilimenti produttivi di rilevante importanza puo' essere concesso, sull'investimento ritenuto ammissibile, un contributo del 6 per cento.
 
@@ -432,7 +430,7 @@ AGGIORNAMENTO (3)
 
 La L. 25 maggio 1978, n. 231 ha disposto (con l'art. 1, comma 4) che "Ai fini dell'applicazione dei commi precedenti sono prorogate le disposizioni dei titoli I e III della legge 27 dicembre 1973, n. 878, ad eccezione dell'articolo 23 della medesima legge".
 
-#### Art. 21 - Contributo per investimenti in corso nel secondo semestre del 1971
+### Art. 21 - Contributo per investimenti in corso nel secondo semestre del 1971
 
 Il contributo di cui all'articolo 13, con le modalita' nel medesimo stabilite, puo' essere concesso anche per l'esecuzione di opere o l'installazione di impianti e attrezzature la cui realizzazione non sia avvenuta anteriormente al secondo semestre del 1971.
 
@@ -450,7 +448,7 @@ AGGIORNAMENTO (3)
 
 La L. 25 maggio 1978, n. 231 ha disposto (con l'art. 1, comma 4) che "Ai fini dell'applicazione dei commi precedenti sono prorogate le disposizioni dei titoli I e III della legge 27 dicembre 1973, n. 878, ad eccezione dell'articolo 23 della medesima legge".
 
-#### Art. 22 - Proroga del termine per la presentazione dei documenti per la liquidazione finale dei contributi
+### Art. 22 - Proroga del termine per la presentazione dei documenti per la liquidazione finale dei contributi
 
 Il periodo di un anno stabilito dall'articolo 18 per la presentazione dei documenti per ottenere la liquidazione finale dei contributi di cui agli articoli 1, 10 e 13, limitatamente ai lavori che siano stati ultimati anteriormente alla data di entrata in vigore del decreto previsto dall'articolo 18 medesimo si computa dalla data suddetta. (2) ((3))
 
@@ -466,11 +464,11 @@ AGGIORNAMENTO (3)
 
 La L. 25 maggio 1978, n. 231 ha disposto (con l'art. 1, comma 4) che "Ai fini dell'applicazione dei commi precedenti sono prorogate le disposizioni dei titoli I e III della legge 27 dicembre 1973, n. 878, ad eccezione dell'articolo 23 della medesima legge".
 
-#### Art. 23 - Lavori navali non ammessi ai contributi della legge 4 gennaio 1968, n. 19
+### Art. 23 - Lavori navali non ammessi ai contributi della legge 4 gennaio 1968, n. 19
 
 Sugli stanziamenti di cui alla presente legge possono essere concessi i contributi di cui al titolo primo della legge 4 gennaio 1968, n. 19, qualora non sia stato possibile accogliere le relative domande, debitamente documentate, per l'esaurimento degli stanziamenti di detta legge.
 
-#### Art. 24 - Norme regolamentari
+### Art. 24 - Norme regolamentari
 
 Le norme regolamentari per l'esecuzione della presente legge sono emanate con decreto del Presidente della Repubblica, su proposta del Ministro per la marina mercantile di concerto con i Ministri per il tesoro, per l'industria, il commercio e l'artigianato, per la difesa e per le partecipazioni statali.
 
@@ -482,7 +480,7 @@ AGGIORNAMENTO (3)
 
 La L. 25 maggio 1978, n. 231 ha disposto (con l'art. 1, comma 4) che "Ai fini dell'applicazione dei commi precedenti sono prorogate le disposizioni dei titoli I e III della legge 27 dicembre 1973, n. 878, ad eccezione dell'articolo 23 della medesima legge".
 
-#### Art. 25 - Durata della legge e stanziamenti
+### Art. 25 - Durata della legge e stanziamenti
 
 La presente legge ha effetto dal 1 gennaio 1972 al 31 dicembre 1976.
 

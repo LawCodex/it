@@ -29,11 +29,9 @@ la seguente legge:
 
 ## TITOLO I - RENDICONTO GENERALE DELLO STATO
 
-### Capo I
+### Capo I - CONTO DEL BILANCIO
 
-#### CONTO DEL BILANCIO
-
-##### Art. 1 - Entrate
+#### Art. 1 - Entrate
 
 1\. Le entrate tributarie, extratributarie, per alienazione ed ammortamento di beni patrimoniali e riscossione di crediti, nonche' per accensione di prestiti, accertate nell'esercizio finanziario 2012 per la competenza propria dell'esercizio, risultano stabilite in euro 785.574.708.385,19.
 
@@ -43,7 +41,7 @@ la seguente legge:
 
 Parte di provvedimento in formato grafico
 
-##### Art. 2 - Spese
+#### Art. 2 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di passivita' finanziarie, impegnate nell'esercizio finanziario 2012 per la competenza propria dell'esercizio, risultano stabilite in euro 749.337.266.930,37.
 
@@ -53,25 +51,25 @@ Parte di provvedimento in formato grafico
 
 Parte di provvedimento in formato grafico
 
-##### Art. 3 - Avanzo della gestione di competenza
+#### Art. 3 - Avanzo della gestione di competenza
 
 1\. L'avanzo della gestione di competenza dell'esercizio finanziario 2012, di euro 36.237.441.454,82, risulta stabilito come segue:
 
 Parte di provvedimento in formato grafico
 
-##### Art. 4 - Situazione finanziaria
+#### Art. 4 - Situazione finanziaria
 
 1\. Il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 2012, di euro 213.824.280.524,71, risulta stabilito come segue:
 
 Parte di provvedimento in formato grafico
 
-##### Art. 5 - Allegati
+#### Art. 5 - Allegati
 
 1\. E' approvato l'Allegato n. 1, annesso alla presente legge, previsto dall'articolo 28, comma 4, della legge 31 dicembre 2009, n. 196, e successive modificazioni e integrazioni, nonche' l'Allegato n. 2 relativo alle eccedenze di impegni e di pagamenti risultate in sede di consuntivo per l'esercizio 2012 rispettivamente sul conto della competenza, sul conto dei residui e sul conto della cassa, relative alle unita' di voto degli stati di previsione della spesa dei Ministeri.
 
-## Capo II - CONTO GENERALE DEL PATRIMONIO
+### Capo II - CONTO GENERALE DEL PATRIMONIO
 
-##### Art. 6 - Risultati generali della gestione patrimoniale
+#### Art. 6 - Risultati generali della gestione patrimoniale
 
 1\. La situazione patrimoniale dell'Amministrazione dello Stato, al 31 dicembre 2012, resta stabilita come segue:
 
@@ -79,7 +77,7 @@ Parte di provvedimento in formato grafico
 
 ## TITOLO II - AMMINISTRAZIONI E AZIENDE AUTONOME
 
-##### Art. 7 - Istituto Agronomico per l'Oltremare
+#### Art. 7 - Istituto Agronomico per l'Oltremare
 
 1\. Le entrate correnti del bilancio dell'Istituto agronomico per l'Oltremare, accertate nell'esercizio finanziario 2012 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Istituto stesso, allegato al conto consuntivo del Ministero degli affari esteri, in euro 3.844.058,85.
 
@@ -97,7 +95,7 @@ Parte di provvedimento in formato grafico
 
 Parte di provvedimento in formato grafico
 
-##### Art. 8 - Amministrazione Autonoma dei Monopoli di Stato
+#### Art. 8 - Amministrazione Autonoma dei Monopoli di Stato
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione autonoma dei Monopoli di Stato, comprese quelle delle gestioni speciali ed autonome, accertate nell'esercizio finanziario 2012 per la competenza propria dell'esercizio, risultano stabilite nel conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'economia e delle finanze in euro 14.935.548.015,13.
 
@@ -123,13 +121,13 @@ Parte di provvedimento in formato grafico
 
 Parte di provvedimento in formato grafico
 
-##### Art. 9 - Archivi Notarili
+#### Art. 9 - Archivi Notarili
 
 1\. L'avanzo della gestione del bilancio degli Archivi notarili, per l'esercizio finanziario 2012, risulta stabilito come segue:
 
 Parte di provvedimento in formato grafico
 
-##### Art. 10 - Fondo Edifici di Culto
+#### Art. 10 - Fondo Edifici di Culto
 
 1\. Le entrate correnti e in conto capitale del bilancio del Fondo edifici di culto, accertate nell'esercizio finanziario 2012 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo del Fondo stesso, allegato al conto consuntivo del Ministero dell'interno, in euro 7.162.627,77.
 
@@ -153,7 +151,7 @@ Parte di provvedimento in formato grafico
 
 ## TITOLO III - APPROVAZIONE DEI RENDICONTI
 
-##### Art. 11 - Rendiconti
+#### Art. 11 - Rendiconti
 
 1\. Il rendiconto generale dell'Amministrazione dello Stato e i rendiconti delle Amministrazioni e delle Aziende autonome per l'esercizio 2012 sono approvati nelle risultanze di cui ai precedenti articoli.
 
@@ -187,7 +185,7 @@ Visto, il Guardasigilli: Cancellieri
 
 ## Allegati
 
-##### Allegato n. 1
+#### Allegato n. 1
 
 Allegato N. 1
 

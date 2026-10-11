@@ -325,7 +325,7 @@ a) all'articolo 125, dopo il comma 3-bis sono inseriti i seguenti:
 
 > 5\. Dalle violazioni di cui ai commi 3 e 4 consegue la sanzione amministrativa accessoria della sospensione della patente da uno a sei mesi, secondo le norme del capo I, sezione II, del titolo VI.».
 
-## Capo II - Della sospensione della patente di guida
+### Capo II - Della sospensione della patente di guida
 
 #### Art. 4
 
@@ -507,7 +507,7 @@ c) alla tabella dei punteggi prevista all'articolo 126-bis, il capoverso «Art. 
 
 > Per le patenti rilasciate successivamente al 1° ottobre 2003 a soggetti che non siano gia' titolari di altra patente di categoria B o superiore, i punti riportati nella presente tabella, per ogni singola violazione, sono raddoppiati qualora le violazioni siano commesse entro i primi tre anni dal rilascio. Per gli stessi tre anni, la mancanza di violazioni di una norma di comportamento da cui derivi la decurtazione del punteggio determina l'attribuzione, fermo restando quanto previsto dal comma 5, di un punto all'anno fino ad un massimo di tre punti.».
 
-## Capo III - Della formazione, dei titoli abilitativi e dei relativi requisiti e del rafforzamento del controllo
+### Capo III - Della formazione, dei titoli abilitativi e dei relativi requisiti e del rafforzamento del controllo
 
 #### Art. 5
 
@@ -1133,7 +1133,7 @@ m) dopo il comma 75-vicies ter sono inseriti i seguenti:
 
 > \- Il titolo VI, capo I, sezione II, del citato decreto legislativo 30 aprile 1992, n. 285 recano, rispettivamente: «Degli illeciti previsti dal presente codice e delle relative sanzioni», «Degli illeciti amministrativi e delle relative sanzioni» e «Delle sanzioni amministrative accessorie a sanzioni amministrative pecuniarie.».
 
-## Capo II - Delle regole di circolazione
+### Capo II - Delle regole di circolazione
 
 #### Art. 15
 
@@ -2149,7 +2149,7 @@ delle gallerie ferroviarie
 
 > Omissis.».
 
-## Capo II - Auto di sicurezza - safety car, pannelli con valore prescrittivo e osservanza rigorosa dell'obbligo di circolazione a destra
+### Capo II - Auto di sicurezza - safety car, pannelli con valore prescrittivo e osservanza rigorosa dell'obbligo di circolazione a destra
 
 #### Art. 20
 
@@ -2609,7 +2609,7 @@ Modifica alla legge 24 novembre 1981, n. 689
 
 > Le disposizioni relative alla competenza dell'esattore si applicano fino alla riforma del sistema di riscossione delle imposte dirette.».
 
-## Capo II - Della circolazione in casi particolari e delle strade
+### Capo II - Della circolazione in casi particolari e delle strade
 
 #### Art. 27
 

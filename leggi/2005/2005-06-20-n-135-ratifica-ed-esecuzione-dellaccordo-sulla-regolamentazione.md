@@ -27,19 +27,19 @@ Promulga
 
 la seguente legge:
 
-#### Art. 1
+## Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo sulla regolamentazione reciproca dell'autotrasporto internazionale di passeggeri e merci tra il Governo della Repubblica italiana ed il Governo della Repubblica del Kazakhstan, fatto a Roma il 5 febbraio 2003.
 
-#### Art. 2
+## Art. 2
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 26 dell'Accordo stesso.
 
-#### Art. 3
+## Art. 3
 
 1\. Per l'attuazione della presente legge e' autorizzata la spesa di euro 15.960 annui ad anni alterni a decorrere dall'anno 2005. Al relativo onere si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2005-2007, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2005, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri. 2. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 4
+## Art. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -75,21 +75,19 @@ e in considerazione degli interessi reciproci,
 
 hanno concordato quanto segue:
 
-#### ARTICOLO 1
+## ARTICOLO 1
 
 in conformita' con il presente Accordo, i veicoli stradali di ciascuna Parte Contraente hanno il diritto di effettuare il trasporto di passeggeri e merci verso il o in provenienza dal territorio nazionale dell'altra Parte contraente, come pure in transito attraverso i loro territori, a patto che essi siano registrati sul territorio di una delle Parti Contraenti.
 
-## I. TRASPORTO VIAGGIATORI
+## I. TRASPORTO VIAGGIATORI - 1.1 CAMPO DI APPLICAZIONE
 
-### 1.1 CAMPO DI APPLICAZIONE
-
-#### ARTICOLO 2
+## ARTICOLO 2
 
 in accordo con quanto disposto dalla legislazione nazionale delle Parti Contraenti, che regola l'ingresso, l'uscita ed il soggiorno delle persone nei territori delle due Parti Contraenti, il presente Accordo si applica ai trasporti internazionali di viaggiatori effettuati tra i territori dei due Paesi anche in transito mediante autoveicoli destinati al trasporto di persone equipaggiati con piu' di nove posti, compreso quello del conducente.
 
 ## 1.2. SERVIZI REGOLARI TRA I DUE PAESI
 
-#### ARTICOLO 3
+## ARTICOLO 3
 
 1\. Agli effetti del presente Accordo e' considerato "servizio regolare" il trasporto di viaggiatori effettuato con autobus su itinerario determinato secondo orari e tariffe prestabiliti, previamente pubblicati.
 
@@ -97,11 +95,11 @@ in accordo con quanto disposto dalla legislazione nazionale delle Parti Contraen
 
 3\. Ai fini dei servizio si e' obbligati ad accettare sui veicoli qualsiasi viaggiatore che si presenti nei luoghi di partenza e di fermata a condizione che vi siano posti a sedere nel rispetto delle disposizioni del presente Accordo e delle leggi nazionali delle Parti Contraenti che regolano i servizi di linea per trasporto di persone.
 
-#### ARTICOLO 4
+## ARTICOLO 4
 
 I servizi regolari tra le Parti Contraenti sono istituiti di comune accordo dall'Autorita' ompetenti delie Parti Contraenti indicate nell'articolo 22 del presente Accordo e sulla base delle determinazioni della Commissione Mista prevista dall'art. 23 del presente Accordo.
 
-#### ARTICOLO 5
+## ARTICOLO 5
 
 1\. Il servizio regolare di trasporto di viaggiatori dovra' essere eseguito in base ad apposita autorizzazione rilasciata dalle Autorita' competenti delle Parti Contraenti e non cedibile.
 
@@ -119,13 +117,13 @@ I servizi regolari tra le Parti Contraenti sono istituiti di comune accordo dall
 
 8\. Durante tutti i viaggi, a bordo dei veicoli adibiti a servizi regolari deve trovarsi l'originale dell'autorizzazione.
 
-#### ARTICOLO 6
+## ARTICOLO 6
 
 I vettori di una delle Parti Contraenti non possono effettuare trasporto interno di viaggiatori nel territorio dell'altra Parte Contraente.
 
 ## 1.3 SERVIZI REGOLARI DI TRANSITO
 
-#### ARTICOLO 7
+## ARTICOLO 7
 
 1\. Agli effetti dei presente Accordo, e' considerato "servizio regolare di transito" il trasporto di viaggiatori effettuato con autobus su itinerario determinato secondo orari e tariffe prestabiliti, previamente pubblicati, in partenza dal territorio di una delle Parti Contraenti che attraversa il territorio dell'altra Parte Contraente con destinazione in un terzo Paese senza che alcun passeggero sia preso o deposto nel territorio dell'altra parte Contraente.
 
@@ -133,7 +131,7 @@ I vettori di una delle Parti Contraenti non possono effettuare trasporto interno
 
 ## 1.4 SERVIZI OCCASIONALI
 
-#### ARTICOLO 8
+## ARTICOLO 8
 
 Agli effetti del presente Accordo e' considerato "servizio occasionale":
 
@@ -143,7 +141,7 @@ Agli effetti del presente Accordo e' considerato "servizio occasionale":
 
 3\) viaggio di ingresso a vuoto sul territorio dell'altra Parte Contraente per trasportare nel paese di immatricolazione del veicolo gruppi formati in base ad un accordo preventivo stabilito tra il vettore ed un committente.
 
-#### ARTICOLO 9
+## ARTICOLO 9
 
 1\. I servizi previsti ai punti 1) e 2) dei precedente art. 8 del presente Accordo, anche se in transito, sono effettuati senza alcuna autorizzazione.
 
@@ -157,7 +155,7 @@ Agli effetti del presente Accordo e' considerato "servizio occasionale":
 
 ## 1.5 ALTRI SERVIZI SU STRADA
 
-#### ARTICOLO 10
+## ARTICOLO 10
 
 1\. Per tutti gli altri servizi con autobus non previsti dagli articoli precedenti del presente Accordo, e' necessario ottenere preventivamente di volta in volta l'autorizzazione rilasciata dall'Autorita' competente dell'altra Parte Contraente.
 
@@ -171,11 +169,9 @@ Agli effetti del presente Accordo e' considerato "servizio occasionale":
 
 6\. Dopo aver ricevuto il parere favorevole dell'altra Parte Contraente, l'Autorita' del Paese nel quale ha sede il vettore richiedente deve rilasciare l'autorizzazione.
 
-## II. TRASPORTO DI MERCI
+## II. TRASPORTO DI MERCI - 2.1 TRASPORTI TRA I DUE PAESI E TRASPORTI IN TRANSITO
 
-### 2.1 TRASPORTI TRA I DUE PAESI E TRASPORTI IN TRANSITO
-
-#### ARTICOLO 11
+## ARTICOLO 11
 
 1 Un vettore con sede sociale nel territorio di una delle due Parti Contraenti che effettua il trasporto di merci deve essere munito, per i trasporti tra i due Paesi, di un'autorizzazione rilasciata dall'Autorita' competente dell'altro Paese, salvo quanto disposto dall'art. 12 del presente Accordo e salvo diversa decisione adottata dalla Commissione Mista sull'esenzione dall'autorizzazione nei trasporti bilaterali. L'autorizzazione e' valida per un viaggio di andata e ritorno.
 
@@ -185,7 +181,7 @@ Agli effetti del presente Accordo e' considerato "servizio occasionale":
 
 4 Per il trasporto di transito il vettore dovra' essere munito di autorizzazione, rilasciata dall'Autorita' competente dell'altra Parte Contraente, ad eccezione dei casi previsti nell'art. 12 dei presente Accordo, salvo diverso accordo delle Autorita' competenti delle Parti Contraenti.
 
-#### ARTICOLO 12
+## ARTICOLO 12
 
 1\. Fatte salve le norme in vigore che regolano l'ingresso e l'eventuale uscita delle merci di cui al seguente elenco di trasporto nei e dai territori delle due Parti Contraenti, non sono soggetti all'autorizzazione prevista nell'art. 11 del presente Accordo:
 
@@ -213,11 +209,11 @@ Agli effetti del presente Accordo e' considerato "servizio occasionale":
 
 3\. Nell'effettuazione delle operazioni di trasporto previste nel presente articolo, sono fatte salve le esigenze di varia natura regolate da particolari norme e disposizioni in vigore nel territorio delle Parti Contraenti.
 
-#### ARTICOLO 13
+## ARTICOLO 13
 
 L'autorizzazione non e' cedibile a terzi e puo' essere utilizzata solo dal vettore al quale e' stata rilasciata. Tale autorizzazione da' diritto al vettore di effettuare il trasporto con un veicolo o complesso di veicoli (veicolo con rimorchio/semi-rimorchio, senza rimorchio, articolato), durante il periodo di validita' specificato nell'autorizzazione, comunque non superiore ad un anno.
 
-#### ARTICOLO 14
+## ARTICOLO 14
 
 1\. I vettori di una delle Parti Contraenti non possono eseguire trasporto di merci tra due luoghi all'interno del territorio dell'altra Parte Contraente.
 
@@ -225,17 +221,17 @@ L'autorizzazione non e' cedibile a terzi e puo' essere utilizzata solo dal vetto
 
 ## III. DISPOSIZIONI DI CARATTERE GENERALE
 
-#### ARTICOLO 15
+## ARTICOLO 15
 
 1\. Le Autorita' competenti delle due Parti Contraenti determinano, in conformita' con la legislazione nazionale, i requisiti di capacita' tecnica e professionale che i vettori di trasporto debbono soddisfare, l'idoneita' dei veicolo, il contenuto dei documenti di circolazione dei veicoli, l'idoneita' alla guida dei conducenti, la copertura assicurativa ed i massimali contro i rischi di responsabilita' civile verso i terzi e verso i passeggeri trasportati.
 
 2\. Le condizioni di polizza debbono comunque essere conformi alle disposizioni di legge vigenti nel Paese in cui si effettua il trasporto.
 
-#### ARTICOLO 16
+## ARTICOLO 16
 
 Le modalita' per il rilascio dei biglietti, per la compilazione dei documenti richiesti per il trasporto dei viaggiatori e delle merci, per la tenuta dei registri e per la rilevazione dei dati statistici da scambiare fra le Autorita' competenti, sono fissate di comune accordo dai rispettivi organi delle Parti Contraenti.
 
-#### ARTICOLO 17
+## ARTICOLO 17
 
 1\. Le autorizzazioni ed altri documenti di trasporto richiesti in virtu' del presente Accordo, devono essere tenuti a bordo del veicolo durante i viaggi e soggetti al controllo da parte dei rappresentanti delle Autorita' competenti delle Parti Contraenti.
 
@@ -247,7 +243,7 @@ Le modalita' per il rilascio dei biglietti, per la compilazione dei documenti ri
 
 5\. In caso di violazione delle norme e delle disposizioni di cui al punto 4 del presente articolo, si risponde davanti alle Autorita' del Paese Contraente nel territorio della quale le violazioni sono state commesse.
 
-#### ARTICOLO 18
+## ARTICOLO 18
 
 1\. Sono ammessi in esenzione dai diritti doganali e dalle tasse di entrata quando importati nel territorio di una delle Parti Contraenti:
 
@@ -263,7 +259,7 @@ Le modalita' per il rilascio dei biglietti, per la compilazione dei documenti ri
 
 4\. Le Parti Contraenti possono esigere che tali veicoli siano sottoposti alle formalita' doganali richieste per la temporanea importazione nei rispettivi territori nazionali.
 
-#### ARTICOLO 19
+## ARTICOLO 19
 
 1\. La fatturazione ed i pagamenti per i servizi di trasporto effettuati ai sensi del presente Accordo dovranno essere eseguiti in valuta liberamente convertibile al tasso di cambio di mercato vigente il giorno dei pagamenti stessi.
 
@@ -271,11 +267,11 @@ Le modalita' per il rilascio dei biglietti, per la compilazione dei documenti ri
 
 3\. Qualora dovesse essere concluso un accordo di' pagamento tra le Parti Contraenti, i pagamenti effettuati in virtu' del presente articolo avranno luogo secondo le disposizioni di quest'ultimo accordo.
 
-#### ARTICOLO 20
+## ARTICOLO 20
 
 Le Parti Contraenti, nel rispetto dei controlli di natura doganale, di frontiera e sanitaria, applicheranno le disposizioni degli Accordi internazionali da esse firmate, mentre, al fine di regolamentare le questioni non coperte dai suddetti Accordi, si dovra' applicare la legislazione di ciascuna Parte Contraente.
 
-#### ARTICOLO 21
+## ARTICOLO 21
 
 1\. Ferme restando le sanzioni irrogate nel Paese in cui l'infrazione e' rilevata, in caso di violazione delle disposizioni del presente Accordo commessa nel territorio dell'altra Parte Contraente, l'Autorita' competente della Parte Contraente nel territorio della quale il veicolo e' immatricolato, decide - su segnalazione dell'Autorita' competente dell'altra Parte Contraente, l'applicazione di una delle seguenti sanzioni:
 
@@ -289,7 +285,7 @@ Le Parti Contraenti, nel rispetto dei controlli di natura doganale, di frontiera
 
 2\. Le Autorita' competenti di entrambe le Parti Contraenti dovranno darsi reciproca informazione delle misure intraprese.
 
-#### ARTICOLO 22
+## ARTICOLO 22
 
 1\. Le divergenze sull'applicazione e sull'interpretazione delle disposizioni del presente Accordo verranno risolte per via di consultazioni e negoziazioni bilaterali fra le Autorita' competenti delle Parti Contraenti.
 
@@ -303,7 +299,7 @@ da parte della Repubblica dei Kazakhstan:
 
 Il Ministero dei Trasporti e delle Comunicazioni.
 
-#### ARTICOLO 23
+## ARTICOLO 23
 
 1\. Al fine della realizzazione e dell'applicazione delle disposizioni del presente Accordo, nonche' per la soluzione dei problemi correnti, si istituisce una Commissione mista, composta da rappresentanti delle Autorita' competenti, con queste principali funzioni:
 
@@ -321,11 +317,11 @@ Il Ministero dei Trasporti e delle Comunicazioni.
 
 2\. Le Autorita' competenti delle Parti Contraenti designano i rappresentanti che si riuniranno in Commissione Mista, alternativamente sul territorio dei due Paesi, a richiesta di una delle Parti Contraenti.
 
-#### ARTICOLO 24
+## ARTICOLO 24
 
 Le questioni che non sono regolamentate dal presente Accordo, ne' dagli Accordi internazionali ai quali aderiscono entrambe le Parti Contraenti, saranno risolte secondo la legislazione interna di ciascuna delle Parti Contraenti.
 
-#### ARTICOLO 25
+## ARTICOLO 25
 
 1\. I conducenti ed il personale impiegato sui veicoli adibiti al trasporto di persone e di merci ai sensi del presente Accordo sono tenuti a rispettare la legislazione in vigore nella Parte Contraente in cui si svolge il trasporto e in particolare le norme nazionali che regolano l'entrata e la permanenza nei rispettivi territori.
 
@@ -333,7 +329,7 @@ Le questioni che non sono regolamentate dal presente Accordo, ne' dagli Accordi 
 
 ## IV. DISPOSIZIONI FINALI
 
-#### ARTICOLO 26
+## ARTICOLO 26
 
 1\. Il presente Accordo avra' durata illimitata ed entrera' in vigore alla data della ricezione dell'ultima notifica con cui le Parti Contraenti si saranno comunicate l'avvenuto espletamento delle rispettive procedure costituzionali necessarie all'uopo previste.
 

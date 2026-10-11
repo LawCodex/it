@@ -68,9 +68,7 @@ il seguente decreto legislativo:
 
 ## PARTE I - DISPOSIZIONI GENERALI
 
-### Titolo I
-
-#### Oggetto e definizioni
+### Titolo I - Oggetto e definizioni
 
 ###### ART. 1 (L) - Oggetto
 
@@ -86,7 +84,7 @@ Disciplinano, inoltre, il patrocinio a spese dello Stato, la riscossione delle s
 
 ###### ART. 3 (R) - Definizioni
 
-## Titolo II - Disposizioni generali relative al processo penale
+### Titolo II - Disposizioni generali relative al processo penale
 
 ###### ART. 4 (L) - Anticipazione delle spese
 
@@ -134,9 +132,7 @@ b) le spese relative alle trasferte dei magistrati professionali di corte di ass
 
 ###### ART. 7 (R) - Rogatorie all'estero
 
-## Titolo III - Disposizioni generali relative al processo civile, amministrativo,
-
-### contabile e tributario
+### Titolo III - Disposizioni generali relative al processo civile, amministrativo, contabile e tributario
 
 ###### ART. 8 (L) - Onere delle spese
 
@@ -226,9 +222,7 @@ f) euro 930 per i processi di valore superiore a euro 516.457.
 
 2\. La disciplina sull'imposta di bollo e' invariata per le istanze e domande sotto qualsiasi forma presentate da terzi, nonche' per gli atti non giurisdizionali compiuti dagli uffici, compreso il rilascio di certificati, sempre che non siano atti antecedenti, necessari o funzionali ai processi di cui al comma 1.
 
-## Titolo II - Spese di spedizione, diritti e indennita' di trasferta degli
-
-### ufficiali giudiziari
+### Titolo II - Spese di spedizione, diritti e indennita' di trasferta degli ufficiali giudiziari
 
 #### Capo I - Disposizioni generali
 
@@ -246,11 +240,9 @@ f) euro 930 per i processi di valore superiore a euro 516.457.
 
 ###### ART. 22 (R) - Equiparazioni alla notifica a richiesta d'ufficio
 
-## Capo II - Notificazioni nel processo penale
+#### Capo II - Notificazioni nel processo penale
 
-### Sezione I
-
-#### Norme generali
+##### Sezione I - Norme generali
 
 ###### ART. 23 (L) - Diritti
 
@@ -260,7 +252,7 @@ f) euro 930 per i processi di valore superiore a euro 516.457.
 
 1\. Per gli atti di notificazione relativi allo stesso processo, spetta una sola indennita' di trasferta se i luoghi dove la notificazione deve essere eseguita distano fra di loro meno di cinquecento metri.
 
-## Sezione II - Notificazioni a richiesta dell'ufficio
+##### Sezione II - Notificazioni a richiesta dell'ufficio
 
 ###### ART. 25 (L) - Importo dei diritti
 
@@ -276,7 +268,7 @@ f) euro 930 per i processi di valore superiore a euro 516.457.
 
 3\. L'indennita' di trasferta e' corrisposta dall'erario; le spese di spedizione sono a carico dell'erario.
 
-## Sezione III - Notificazioni a richiesta delle parti
+##### Sezione III - Notificazioni a richiesta delle parti
 
 ###### ART. 27 (L) - Notificazioni a richiesta delle parti
 
@@ -284,11 +276,9 @@ f) euro 930 per i processi di valore superiore a euro 516.457.
 
 2\. Il diritto unico e l'indennita' di trasferta sono dovuti in misura pari a quella prevista dagli articoli 34 e 35.
 
-## Capo III - Notificazioni nel processo civile, amministrativo, contabile e
+#### Capo III - Notificazioni nel processo civile, amministrativo, contabile e tributario
 
-### tributario
-
-#### Sezione I - Norme generali
+##### Sezione I - Norme generali
 
 ###### ART. 28 (L) - Contestualita' di trasferte
 
@@ -298,7 +288,7 @@ f) euro 930 per i processi di valore superiore a euro 516.457.
 
 1\. Per la notificazione degli atti e' dovuto all'ufficiale giudiziario il diritto unico di cui all'articolo 34, fatta eccezione per le notificazioni a richiesta d'ufficio.
 
-## Sezione II - Notificazioni a richiesta dell'ufficio
+##### Sezione II - Notificazioni a richiesta dell'ufficio
 
 ###### ART. 30 (L) - Anticipazioni forfettarie dai privati all'erario nel processo civile
 
@@ -312,7 +302,7 @@ f) euro 930 per i processi di valore superiore a euro 516.457.
 
 2\. Le spese di spedizione sono a carico dell'erario.
 
-## Sezione III - Notificazioni a richiesta delle parti
+##### Sezione III - Notificazioni a richiesta delle parti
 
 ###### ART. 32 (L) - Notificazioni a richiesta delle parti
 
@@ -360,7 +350,7 @@ d) oltre i diciotto chilometri, per ogni percorso di sei chilometri o di frazion
 
 4\. La richiesta, con l'indicazione della data, puo' farsi solo per atti in scadenza nello stesso termine per espressa disposizione di legge o per volonta' delle parti.
 
-## Capo IV - Atti di esecuzione nel processo civile
+#### Capo IV - Atti di esecuzione nel processo civile
 
 ###### ART. 37 (L) - Diritto di esecuzione
 
@@ -376,19 +366,17 @@ c) per gli atti relativi ad affari di valore superiore a euro 2.582,28 o di valo
 
 1\. Per gli atti di esecuzione, l'indennita' di trasferta e' dovuta, per il viaggio di andata e per quello di ritorno, nella misura doppia a quella prevista dall'articolo 35.
 
-## Titolo III - Spese di spedizione
+### Titolo III - Spese di spedizione
 
 ###### ART. 39 (R) - Spese di spedizione
 
-## Titolo IV - Diritto di copia e diritto di certificato
+### Titolo IV - Diritto di copia e diritto di certificato
 
 ###### ART. 40 (L) - Determinazione di nuovi supporti e degli importi
 
 1\. Con decreto del Presidente della Repubblica, ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, su proposta del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze, sono disciplinati, anche con riferimento a nuovi mezzi tecnologici, il diritto di copia e il diritto di certificato e ne sono individuati gli importi sulla base dei costi del servizio e dei costi per l'incasso dei diritti.
 
-## Titolo V - Trasferte per il compimento di atti fuori dalla sede in cui si svolge
-
-### il processo penale e civile
+### Titolo V - Trasferte per il compimento di atti fuori dalla sede in cui si svolge il processo penale e civile
 
 ###### ART. 41 (L) - Trasferte di magistrati professionali e onorari
 
@@ -410,7 +398,7 @@ ed agenti di polizia giudiziaria)
 
 1\. All'ufficiale giudiziario, che accompagna il magistrato o l'appartenente all'ufficio per l'assistenza ad atti, spetta, in aggiunta alle spese di viaggio e all'indennita' di trasferta secondo le norme che disciplinano la missione per i dipendenti statali, in relazione al trattamento economico di cui gode ai sensi degli articoli 148 e 169 del decreto del Presidente della Repubblica 15 dicembre 1959, n. 1229, un diritto di importo pari a euro 0,52 per ogni ora o frazione di ora superiore a trenta minuti, in ragione del tempo impiegato nella redazione degli atti ai quali assiste.
 
-## Titolo VI - Testimoni nel processo penale, civile, amministrativo e contabile
+### Titolo VI - Testimoni nel processo penale, civile, amministrativo e contabile
 
 ###### ART. 45 (L) - Indennita' per testimoni residenti
 
@@ -436,9 +424,7 @@ ed agenti di polizia giudiziaria)
 
 1\. Ai dipendenti pubblici, chiamati come testimoni per fatti inerenti al servizio, spettano il rimborso spese e le indennita' di cui agli articoli 45 e 46, salva l'integrazione, sino a concorrenza dell'ordinario trattamento di missione, corrisposta dall'amministrazione di appartenenza.
 
-## Titolo VII - Ausiliari del magistrato nel processo penale, civile, amministrativo,
-
-### contabile e tributario
+### Titolo VII - Ausiliari del magistrato nel processo penale, civile, amministrativo, contabile e tributario
 
 ###### ART. 49 (L) - Elenco delle spettanze
 
@@ -502,9 +488,7 @@ di quelli fissi e variabili)
 
 del magistrato)
 
-## Titolo VIII - Indennita' di custodia nel processo penale, civile, amministrativo,
-
-### contabile e tributario
+### Titolo VIII - Indennita' di custodia nel processo penale, civile, amministrativo, contabile e tributario
 
 ###### ART. 58 (L) - Indennita' di custodia
 
@@ -522,9 +506,7 @@ del magistrato)
 
 3\. Le tabelle prevedono, altresi', le riduzioni percentuali dell'indennita' in relazione allo stato di conservazione del bene.
 
-## Titolo IX - Pubblicazione dei provvedimenti del magistrato
-
-### nel processo penale e civile
+### Titolo IX - Pubblicazione dei provvedimenti del magistrato nel processo penale e civile
 
 ###### ART. 60 (R)
 
@@ -532,9 +514,7 @@ del magistrato)
 
 del magistrato nel processo penale e civile)
 
-## Titolo X - Demolizione di opere abusive e riduzione in pristino dei luoghi
-
-### nel processo penale e amministrativo
+### Titolo X - Demolizione di opere abusive e riduzione in pristino dei luoghi nel processo penale e amministrativo
 
 ###### ART. 61 (R)
 
@@ -552,9 +532,7 @@ dei luoghi)
 
 in pristino dei luoghi)
 
-## Titolo XI - Indennita' dei magistrati onorari, dei giudici popolari
-
-### e degli esperti componenti degli uffici giudiziari penali e civili
+### Titolo XI - Indennita' dei magistrati onorari, dei giudici popolari e degli esperti componenti degli uffici giudiziari penali e civili
 
 ###### ART. 64 (L) - Indennita' dei magistrati onorari
 
@@ -594,7 +572,7 @@ Indennita' degli esperti dei tribunali di sorveglianza
 
 2\. Nel caso in cui l'udienza si svolge in luogo diverso da quello in cui l'esperto risiede, sono dovute le spese di viaggio e le indennita' di trasferta nella misura prevista per i dipendenti statali aventi qualifica di dirigente di seconda fascia del ruolo unico, ai sensi dell'articolo 15, del decreto legislativo 30 marzo 2001, n. 165.
 
-## Titolo XII - Spese escluse e spese straordinarie nel processo penale
+### Titolo XII - Spese escluse e spese straordinarie nel processo penale
 
 ###### ART. 69 (L) - Spese escluse
 
@@ -612,7 +590,7 @@ d) il trasporto degli atti processuali e degli oggetti che servono al processo.
 
 1\. Sono spese straordinarie quelle non previste nel presente testo unico e ritenute indispensabili dal magistrato che procede, il quale applichera', in quanto compatibili, le disposizioni di cui agli articoli 61, 62 e 63 e dell'articolo 277 e per l'importo utilizzera' prezzari analoghi. Il decreto di pagamento e' disciplinato dagli articoli 168, 169, 170 e 171.
 
-## Titolo XIII - Domanda di liquidazione e decadenza
+### Titolo XIII - Domanda di liquidazione e decadenza
 
 ###### ART. 71 (L)
 
@@ -628,21 +606,15 @@ ausiliari del magistrato e aventi titolo alle trasferte)
 
 ###### ART. 72 (R) - Domanda di liquidazione di acconti dell'indennita' di custodia
 
-## Titolo XIV - Registrazione degli atti giudiziari nel processo civile
-
-### e amministrativo
+### Titolo XIV - Registrazione degli atti giudiziari nel processo civile e amministrativo
 
 ###### ART. 73 (R) - Procedura per la registrazione degli atti giudiziari
 
 ## PARTE III - PATROCINIO A SPESE DELLO STATO
 
-### Titolo I
+### Titolo I - Disposizioni generali sul patrocinio a spese dello Stato nel processo penale, civile, amministrativo, contabile e tributario
 
-#### Disposizioni generali sul patrocinio a spese dello Stato - nel processo penale, civile, amministrativo, contabile e tributario
-
-##### Capo I
-
-###### Istituzione del patrocinio
+#### Capo I - Istituzione del patrocinio
 
 ###### ART. 74 (L) - Istituzione del patrocinio
 
@@ -656,7 +628,7 @@ ausiliari del magistrato e aventi titolo alle trasferte)
 
 2\. La disciplina del patrocinio si applica, in quanto compatibile, anche nella fase dell'esecuzione, nel processo di revisione, nei processi di revocazione e opposizione di terzo, nonche' nei processi relativi all'applicazione di misure di sicurezza, di prevenzione e nei processi di competenza del tribunale di sorveglianza, sempre che l'interessato debba o possa essere assistito da un difensore o da un consulente tecnico.
 
-## Capo II - Condizioni per l'ammissione al patrocinio
+#### Capo II - Condizioni per l'ammissione al patrocinio
 
 ###### ART. 76 (L) - Condizioni per l'ammissione
 
@@ -672,7 +644,7 @@ ausiliari del magistrato e aventi titolo alle trasferte)
 
 1\. I limiti di reddito sono adeguati ogni due anni in relazione alla variazione, accertata dall'ISTAT, dell'indice dei prezzi al consumo per le famiglie di operai e impiegati, verificatasi nel biennio precedente, con decreto dirigenziale del Ministero della giustizia, di concerto con il Ministero dell'economia e delle finanze.
 
-## Capo III - Istanza per l'ammissione al patrocinio
+#### Capo III - Istanza per l'ammissione al patrocinio
 
 ###### ART. 78 (L) - Istanza per l'ammissione
 
@@ -696,7 +668,7 @@ d) l'impegno a comunicare, fino a che il processo non sia definito, le variazion
 
 3\. Gli interessati, se il giudice procedente o il consiglio dell'ordine degli avvocati competente a provvedere in via anticipata lo richiedono, sono tenuti, a pena di inammissibilita' dell'istanza, a produrre la documentazione necessaria ad accertare la veridicita' di quanto in essa indicato.
 
-## Capo IV - Difensori, ausiliari del magistrato e consulenti tecnici di parte
+#### Capo IV - Difensori, ausiliari del magistrato e consulenti tecnici di parte
 
 ###### ART. 80 (L) - Nomina del difensore
 
@@ -752,13 +724,13 @@ e del consulente tecnico di parte)
 
 3\. La violazione del divieto costituisce grave illecito disciplinare professionale.
 
-## Capo V - Recupero delle somme da parte dello Stato
+#### Capo V - Recupero delle somme da parte dello Stato
 
 ###### ART. 86 (L) - Recupero delle somme da parte dello Stato
 
 1\. Lo Stato ha, in ogni caso, diritto di recuperare in danno dell'interessato le somme eventualmente pagate successivamente alla revoca del provvedimento di ammissione.
 
-## Capo VI - Norme finali
+#### Capo VI - Norme finali
 
 ###### ART. 87 (L) - Servizio al pubblico in materia di patrocinio a spese dello Stato
 
@@ -772,9 +744,7 @@ e del consulente tecnico di parte)
 
 1\. Con decreto del Presidente della Repubblica, ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, sono emanate le norme di attuazione delle disposizioni della parte III del presente testo unico.
 
-## Titolo II - Disposizioni particolari sul patrocinio a spese dello Stato
-
-### nel processo penale
+### Titolo II - Disposizioni particolari sul patrocinio a spese dello Stato nel processo penale
 
 #### Capo I - Istituzione del patrocinio
 
@@ -782,7 +752,7 @@ e del consulente tecnico di parte)
 
 1\. Il trattamento previsto per il cittadino italiano e' assicurato altresi' allo straniero e all'apolide residente nello Stato.
 
-## Capo II - Condizioni per l'ammissione al patrocinio
+#### Capo II - Condizioni per l'ammissione al patrocinio
 
 ###### ART. 91 (L) - Esclusione dal patrocinio
 
@@ -796,7 +766,7 @@ b) se il richiedente e' assistito da piu' di un difensore; in ogni caso gli effe
 
 1\. Se l'interessato all'ammissione al patrocinio convive con il coniuge o con altri familiari, si applicano le disposizioni di cui all'articolo 76, comma 2, ma i limiti di reddito indicati dall'articolo 76, comma 1, sono elevati di euro 1.032,91 per ognuno dei familiari conviventi.
 
-## Capo III - Istanza di ammissione al patrocinio
+#### Capo III - Istanza di ammissione al patrocinio
 
 ###### ART. 93 (L) - Presentazione dell'istanza al magistrato competente
 
@@ -822,7 +792,7 @@ ad accertare la veridicita)
 
 1\. La falsita' o le omissioni nella dichiarazione sostitutiva di certificazione, nelle dichiarazioni, nelle indicazioni e nelle comunicazioni previste dall'articolo 79, comma 1, lettere b), c) e d) sono punite con la reclusione da uno a cinque anni e con la multa da euro 309,87 a euro 1.549,37. La pena e' aumentata se dal fatto consegue l'ottenimento o il mantenimento dell'ammissione al patrocinio; la condanna importa la revoca, con efficacia retroattiva, e il recupero a carico del responsabile delle somme corrisposte dallo Stato.
 
-## Capo IV - Decisione sull'istanza di ammissione
+#### Capo IV - Decisione sull'istanza di ammissione
 
 ###### ART. 96 (L) - Decisione sull'istanza di ammissione al patrocinio
 
@@ -864,7 +834,7 @@ all'ammissione)
 
 4\. L'ordinanza che decide sul ricorso e' notificata entro dieci giorni, a cura dell'ufficio del magistrato che procede, all'interessato e all'ufficio finanziario, i quali, nei venti giorni successivi, possono proporre ricorso per cassazione per violazione di legge. Il ricorso non sospende l'esecuzione del provvedimento.
 
-## Capo V - Difensori, investigatori e consulenti tecnici di parte
+#### Capo V - Difensori, investigatori e consulenti tecnici di parte
 
 ###### ART. 100 (L) - Nomina di un secondo difensore
 
@@ -908,7 +878,7 @@ e al consulente tecnico di parte)
 
 2\. Non possono essere liquidate le spese sostenute per le consulenze tecniche di parte che, all'atto del conferimento dell'incarico, apparivano irrilevanti o superflue ai fini della prova.
 
-## Capo VI - Effetti dell'ammissione al patrocinio
+#### Capo VI - Effetti dell'ammissione al patrocinio
 
 ###### ART. 107 (L) - Effetti dell'ammissione
 
@@ -964,7 +934,7 @@ d) l'imposta ipotecaria e catastale ai sensi dell'articolo 16, comma 1, lettera 
 
 1\. Le spese di cui all'articolo 107 sono recuperate nei confronti dell'imputato in caso di revoca dell'ammissione al patrocinio, ai sensi dell'articolo 112, comma 1, lettera d), e comma 2.
 
-## Capo VII - Revoca del decreto di ammissione al patrocinio
+#### Capo VII - Revoca del decreto di ammissione al patrocinio
 
 ###### ART. 112 (L) - Revoca del decreto di ammissione
 
@@ -994,9 +964,7 @@ d) su richiesta dell'ufficio finanziario competente, presentata in ogni momento,
 
 2\. Negli altri casi previsti dall'articolo 112, la revoca del decreto di ammissione ha efficacia retroattiva.
 
-## Titolo III - Estensione, a limitati effetti, della disciplina del patrocinio
-
-### a spese dello Stato prevista per il processo penale
+### Titolo III - Estensione, a limitati effetti, della disciplina del patrocinio a spese dello Stato prevista per il processo penale
 
 ###### ART. 115 (L)
 
@@ -1034,9 +1002,7 @@ del minore)
 
 3\. Lo Stato ha diritto di ripetere le somme anticipate nei confronti del minorenne e dei familiari, se il magistrato, con decreto, accerta il superamento dei limiti di reddito previsti per l'ammissione al beneficio del patrocinio nei processi penali, sulla base della documentazione richiesta ai beneficiari o sulla base degli accertamenti finanziari.
 
-## Titolo IV - Disposizioni particolari sul patrocinio a spese dello Stato
-
-### nel processo civile, amministrativo, contabile e tributario
+### Titolo IV - Disposizioni particolari sul patrocinio a spese dello Stato nel processo civile, amministrativo, contabile e tributario
 
 #### Capo I - Istituzione del patrocinio
 
@@ -1048,13 +1014,13 @@ del minore)
 
 1\. La parte ammessa rimasta soccombente non puo' giovarsi dell'ammissione per proporre impugnazione, salvo che per l'azione di risarcimento del danno nel processo penale.
 
-## Capo II - Condizioni per l'ammissione al patrocinio
+#### Capo II - Condizioni per l'ammissione al patrocinio
 
 ###### ART. 121 (L) - Esclusione dal patrocinio
 
 1\. L'ammissione al patrocinio e' esclusa nelle cause per cessione di crediti e ragioni altrui, ad eccezione del caso in cui la cessione appare indubbiamente fatta in pagamento di crediti o ragioni preesistenti.
 
-## Capo III - Istanza di ammissione al patrocinio
+#### Capo III - Istanza di ammissione al patrocinio
 
 ###### ART. 122 (L) - Contenuto integrativo dell'istanza
 
@@ -1080,7 +1046,7 @@ necessaria ad accertare la veridicita)
 
 2\. Le pene previste al comma 1 si applicano nei confronti di chiunque, al fine di mantenere l'ammissione al patrocinio a spese dello Stato, omette di formulare le comunicazioni di cui all'articolo 79, comma 1, lettera d).
 
-## Capo IV - Decisione sull'istanza di ammissione al patrocinio
+#### Capo IV - Decisione sull'istanza di ammissione al patrocinio
 
 ###### ART. 126 (L)
 
@@ -1108,7 +1074,7 @@ all'ammissione al patrocinio)
 
 4\. La effettivita' e la permanenza delle condizioni previste per l'ammissione al patrocinio e' in ogni tempo, anche successivo all'ammissione, verificata su richiesta dell'autorita' giudiziaria, ovvero su iniziativa dell'ufficio finanziario o della Guardia di finanza.
 
-## Capo V - Difensori e consulenti tecnici di parte
+#### Capo V - Difensori e consulenti tecnici di parte
 
 ###### ART. 128 (L) - Obbligo a carico del difensore
 
@@ -1128,7 +1094,7 @@ e del consulente tecnico di parte)
 
 1\. Gli importi spettanti al difensore, all'ausiliario del magistrato e al consulente tecnico di parte sono ridotti della meta'.
 
-## Capo VI - Effetti dell'ammissione al patrocinio
+#### Capo VI - Effetti dell'ammissione al patrocinio
 
 ###### ART. 131 (L) - Effetti dell'ammissione al patrocinio
 
@@ -1192,7 +1158,7 @@ Ogni patto contrario e' nullo.
 
 2\. Le spese relative ai processi esecutivi, mobiliari e immobiliari, hanno diritto di prelazione, ai sensi degli articoli 2755 e 2770 del codice civile, sul prezzo ricavato dalla vendita o sul prezzo dell'assegnazione o sulle rendite riscosse dall'amministratore giudiziario.
 
-## Capo VII - Revoca del provvedimento di ammissione al patrocinio
+#### Capo VII - Revoca del provvedimento di ammissione al patrocinio
 
 ###### ART. 136 (L) - Revoca del provvedimento di ammissione
 
@@ -1202,9 +1168,7 @@ Ogni patto contrario e' nullo.
 
 3\. La revoca ha effetto dal momento dell'accertamento delle modificazioni reddituali, indicato nel provvedimento del magistrato; in tutti gli altri casi ha efficacia retroattiva.
 
-## Capo VIII - Disposizioni particolari per il patrocinio a spese dello Stato nel
-
-### processo tributario
+#### Capo VIII - Disposizioni particolari per il patrocinio a spese dello Stato nel processo tributario
 
 ###### ART. 137 (L) - Ambito temporale di applicabilita
 
@@ -1228,9 +1192,7 @@ Ogni patto contrario e' nullo.
 
 1\. L'onorario e le spese spettanti al difensore sono liquidati ai sensi dell'articolo 82; per gli iscritti agli elenchi di cui all'articolo 12, comma 2, del decreto legislativo 31 dicembre 1992, n. 546 e successive modificazioni, si applica la tariffa vigente per i ragionieri ed il parere e' richiesto al relativo consiglio dell'ordine; gli importi sono ridotti della meta'.
 
-## Titolo V - Estensione, a limitati effetti, della disciplina del patrocinio a
-
-### spese dello Stato prevista nel titolo IV.
+### Titolo V - Estensione, a limitati effetti, della disciplina del patrocinio a spese dello Stato prevista nel titolo IV.
 
 ###### ART. 142 (L) - Processo avverso il provvedimento di espulsione del cittadino di Stati non appartenenti all'Unione europea
 
@@ -1272,9 +1234,7 @@ del pubblico ministero)
 
 ## PARTE IV - PROCESSI PARTICOLARI
 
-### Titolo I
-
-#### Procedura fallimentare
+### Titolo I - Procedura fallimentare
 
 ###### ART. 146 (L) - Prenotazioni a debito, anticipazioni e recupero delle spese
 
@@ -1308,7 +1268,7 @@ d) le spese per gli strumenti di pubblicita' dei provvedimenti dell'autorita' gi
 
 1\. In caso di revoca della dichiarazione di fallimento, le spese della procedura fallimentare e il compenso al curatore sono a carico del creditore istante, se condannato ai danni per aver chiesto la dichiarazione di fallimento con colpa; sono a carico del fallito persona fisica, se con il suo comportamento ha dato causa alla dichiarazione di fallimento.
 
-## Titolo II - Eredita' giacente attivata d'ufficio
+### Titolo II - Eredita' giacente attivata d'ufficio
 
 ###### ART. 148 (L) - Prenotazioni a debito, anticipazioni e recupero delle spese
 
@@ -1332,9 +1292,7 @@ c) le spese per gli strumenti di pubblicita' dei provvedimenti dell'autorita' gi
 
 4\. Il magistrato pone le spese della procedura a carico dell'erede, in caso di accettazione successiva; a carico del curatore, nella qualita', se la procedura si conclude senza che intervenga accettazione.
 
-## Titolo III - Restituzione e vendita di beni sequestrati e spese nella procedura di
-
-### vendita di beni sequestrati e di beni confiscati nel processo penale
+### Titolo III - Restituzione e vendita di beni sequestrati e spese nella procedura di vendita di beni sequestrati e di beni confiscati nel processo penale
 
 #### Capo I - Restituzione e vendita di beni sequestrati
 
@@ -1370,9 +1328,7 @@ dei beni sequestrati e delle somme e dei valori sequestrati)
 
 1\. Decorsi tre mesi dalla rituale comunicazione dell'ordinanza di cui all'articolo 151, se nessuno ha provato di avervi diritto, le somme o i valori e le somme ricavate dalla vendita sono, su disposizione del magistrato, devoluti alla cassa delle ammende, dedotte le spese di cui all'articolo 155.
 
-## Capo II - Spese nella procedura di vendita di beni sequestrati e di beni
-
-### confiscati
+#### Capo II - Spese nella procedura di vendita di beni sequestrati e di beni confiscati
 
 ###### ART. 155 (L) - Spese nella procedura di vendita di beni sequestrati
 
@@ -1396,13 +1352,11 @@ d) le spese per gli strumenti di pubblicita' dei provvedimenti dell'autorita' gi
 
 ###### ART. 156 (R) - Spese nella procedura di vendita di beni confiscati
 
-## Titolo IV - Spese processuali della procedura esecutiva attivata dal
-
-### concessionario per la riscossione delle entrate iscritte a ruolo
+### Titolo IV - Spese processuali della procedura esecutiva attivata dal concessionario per la riscossione delle entrate iscritte a ruolo
 
 ###### ART. 157 (R) - Spese processuali della procedura esecutiva attivata dal concessionario per la riscossione delle entrate iscritte a ruolo
 
-## Titolo V - Processo in cui e' parte l'amministrazione pubblica
+### Titolo V - Processo in cui e' parte l'amministrazione pubblica
 
 ###### ART. 158 (L) - Spese nel processo in cui e' parte l'amministrazione pubblica ammessa alla prenotazione a debito e recupero delle stesse
 
@@ -1440,11 +1394,9 @@ e) le spese forfettizzate per le notificazioni a richiesta d'ufficio nel process
 
 ## PARTE VI - PAGAMENTO
 
-### Titolo I
+### Titolo I - Titoli di pagamento delle spese
 
-#### Titoli di pagamento delle spese
-
-##### Capo I - Ordine di pagamento emesso dal funzionario
+#### Capo I - Ordine di pagamento emesso dal funzionario
 
 ###### ART. 165 (L) - Ordine di pagamento emesso dal funzionario
 
@@ -1464,7 +1416,7 @@ agli ufficiali giudiziari)
 
 2\. L'ordine di pagamento e' emesso in favore dell'UNEP.
 
-## Capo II - Decreto di pagamento emesso dal magistrato
+#### Capo II - Decreto di pagamento emesso dal magistrato
 
 ###### ART. 168 (L) - Decreto di pagamento delle spettanze agli ausiliari del magistrato e dell'indennita' di custodia
 
@@ -1490,17 +1442,15 @@ agli ufficiali giudiziari)
 
 ###### ART. 171 (R) - Effetti del decreto di pagamento
 
-## Capo III - Responsabilita'
+#### Capo III - Responsabilita'
 
 ###### ART. 172 (L) - Responsabilita
 
 1\. I magistrati e i funzionari amministrativi sono responsabili delle liquidazioni e dei pagamenti da loro ordinati e sono tenuti al risarcimento del danno subito dall'erario a causa degli errori e delle irregolarita' delle loro disposizioni, secondo la disciplina generale in tema di responsabilita' amministrativa.
 
-## Titolo II - Pagamento delle spese per conto dell'erario
+### Titolo II - Pagamento delle spese per conto dell'erario
 
-### Capo I
-
-#### Soggetti abilitati e modalita' di pagamento
+#### Capo I - Soggetti abilitati e modalita' di pagamento
 
 ###### ART. 173 (L) - Soggetti abilitati ad eseguire il pagamento delle spese
 
@@ -1514,13 +1464,13 @@ agli ufficiali giudiziari)
 
 ###### ART. 176(R) - Modalita' di pagamento
 
-## Capo II - Adempimenti degli uffici che dispongono il pagamento
+#### Capo II - Adempimenti degli uffici che dispongono il pagamento
 
 ###### ART. 177 (R) - Modello di pagamento
 
 ###### ART. 178 (R) - Adempimenti preliminari da parte dell'ufficio che dispone il pagamento
 
-## Capo III - Adempimenti dei soggetti che eseguono il pagamento
+#### Capo III - Adempimenti dei soggetti che eseguono il pagamento
 
 ###### ART. 179 (R) - Adempimenti comuni al concessionario e all'ufficio postale
 
@@ -1530,7 +1480,7 @@ agli ufficiali giudiziari)
 
 ###### ART. 182 (R) - Prospetto riepilogativo dei pagamenti
 
-## Capo IV - Controllo sui pagamenti eseguiti e regolazioni contabili
+#### Capo IV - Controllo sui pagamenti eseguiti e regolazioni contabili
 
 ###### ART. 183 (R) - Regolazione e rimborso dei pagamenti
 
@@ -1542,7 +1492,7 @@ agli ufficiali giudiziari)
 
 ###### ART. 187 (R) - Recupero delle somme indebitamente pagate a terzi
 
-## Capo V - Compensi ai soggetti che eseguono il pagamento
+#### Capo V - Compensi ai soggetti che eseguono il pagamento
 
 ###### ART. 188 (L) - Compensi ai concessionari
 
@@ -1552,15 +1502,13 @@ agli ufficiali giudiziari)
 
 ###### ART. 189 (R) - Compensi a Poste Italiane S.p.a
 
-## Capo VI - Pagamenti con modalita' telematica
+#### Capo VI - Pagamenti con modalita' telematica
 
 ###### ART. 190 (R) - Determinazione delle regole tecniche telematiche
 
-## Titolo III - Pagamento delle spese a carico dei privati
+### Titolo III - Pagamento delle spese a carico dei privati
 
-### Capo I
-
-#### Pagamento del contributo unificato nel processo civile e - amministrativo
+#### Capo I - Pagamento del contributo unificato nel processo civile e amministrativo
 
 ###### ART. 191 (L) - Determinazione delle modalita' di pagamento
 
@@ -1574,15 +1522,13 @@ agli ufficiali giudiziari)
 
 ###### ART. 195 (R) - Determinazione delle regole tecniche telematiche
 
-## Capo II - Pagamento del diritto di copia, del diritto di certificato, nonche'
-
-### delle spese per le notificazioni a richiesta d'ufficio nel processo - civile
+#### Capo II - Pagamento del diritto di copia, del diritto di certificato, nonche' delle spese per le notificazioni a richiesta d'ufficio nel processo civile
 
 ###### ART. 196 (L) - Determinazione delle modalita' di pagamento
 
 1\. Con decreto del Presidente della Repubblica, ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, su proposta del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze, sono disciplinate le modalita' di pagamento, anche con riferimento all'estensione dei collegamenti telematici, del diritto di copia, del diritto di certificato, nonche' delle spese per le notificazioni a richiesta d'ufficio nel processo civile.
 
-## Capo III - Pagamento delle spese dai privati agli ufficiali giudiziari
+#### Capo III - Pagamento delle spese dai privati agli ufficiali giudiziari
 
 ###### ART. 197 (L) - Pagamento delle spettanze degli ufficiali giudiziari relative a notifiche a richiesta di parte nel processo penale, civile, amministrativo, contabile e tributario
 
@@ -1594,9 +1540,7 @@ agli ufficiali giudiziari)
 
 ###### ART. 198 (R) - Determinazione delle regole tecniche telematiche
 
-## Capo IV - Pagamento delle spese di viaggio e indennita' spettanti a testimoni e
-
-### consulenti tecnici citati a richiesta di parte nel processo penale
+#### Capo IV - Pagamento delle spese di viaggio e indennita' spettanti a testimoni e consulenti tecnici citati a richiesta di parte nel processo penale
 
 ###### ART. 199 (L) - Pagamento delle spese di viaggio e indennita' spettanti a testimoni e consulenti tecnici citati a richiesta di parte nel processo penale
 
@@ -1604,11 +1548,9 @@ agli ufficiali giudiziari)
 
 ## PARTE VII - RISCOSSIONE
 
-### Titolo I
+### Titolo I - Disposizioni generali
 
-#### Disposizioni generali
-
-##### Capo I - Ambito di applicabilita'
+#### Capo I - Ambito di applicabilita'
 
 ###### ART. 200 (L) - Applicabilita' della procedura nel processo penale
 
@@ -1624,7 +1566,7 @@ agli ufficiali giudiziari)
 
 ###### ART. 203 (R) - Esclusione della procedura per alcuni processi
 
-## Capo II - Principi per il processo penale
+#### Capo II - Principi per il processo penale
 
 ###### ART. 204 (R) - Recupero delle spese
 
@@ -1640,13 +1582,11 @@ agli ufficiali giudiziari)
 
 di custodia cautelare)
 
-## Capo III - Principi per il processo civile, amministrativo, contabile e
-
-### tributario
+#### Capo III - Principi per il processo civile, amministrativo, contabile e tributario
 
 ###### ART. 207 (R) - Recupero delle spese
 
-## Capo IV - Definizioni
+#### Capo IV - Definizioni
 
 ###### ART. 208 (R) - Ufficio competente
 
@@ -1654,19 +1594,15 @@ di custodia cautelare)
 
 ###### ART. 210 (R) - Discarico automatico
 
-## Titolo II - Disposizioni generali per spese processuali, spese di mantenimento,
+### Titolo II - Disposizioni generali per spese processuali, spese di mantenimento, pene pecuniarie, sanzioni amministrative pecuniarie e sanzioni pecuniarie processuali
 
-### pene pecuniarie, sanzioni amministrative pecuniarie e sanzioni - pecuniarie processuali
-
-#### Capo I
-
-##### Adempimento spontaneo
+#### Capo I - Adempimento spontaneo
 
 ###### ART. 211 (R) - Quantificazione dell'importo dovuto
 
 ###### ART. 212 (R) - Invito al pagamento
 
-## Capo II - Riscossione mediante ruolo
+#### Capo II - Riscossione mediante ruolo
 
 ###### ART. 213 (R) - Iscrizione a ruolo
 
@@ -1676,23 +1612,23 @@ di custodia cautelare)
 
 ###### ART. 216 (R) - Rimborso al concessionario delle spese relative alle procedure esecutive e rimborso delle somme versate al debitore per indebiti pagamenti
 
-## Capo III - Disposizioni comuni a piu' fasi della riscossione
+#### Capo III - Disposizioni comuni a piu' fasi della riscossione
 
 ###### ART. 217 (R) - Dati contenuti nel modello di pagamento e nel ruolo
 
 ###### ART. 218 (R) - Dilazione o rateizzazione del credito
 
-## Capo IV - Annullamento del credito
+#### Capo IV - Annullamento del credito
 
 ###### ART. 219 (R) - Annullamento per irreperibilita
 
 ###### ART. 220 (R) - Annullamento per insussistenza
 
-## Capo V - Comunicazioni per reati finanziari
+#### Capo V - Comunicazioni per reati finanziari
 
 ###### ART. 221 (R) - Comunicazioni tra uffici relative a reati finanziari
 
-## Capo VI - Rinvio a disposizioni relative ad altre entrate dello Stato
+#### Capo VI - Rinvio a disposizioni relative ad altre entrate dello Stato
 
 ###### ART. 222 (L) - Adempimento spontaneo
 
@@ -1722,9 +1658,7 @@ e giurisdizionale della riscossione)
 
 1\. Per l'affidamento in concessione del servizio, la vigilanza sui concessionari, il recesso, la decadenza e la revoca, il commissario governativo delegato, la remunerazione del servizio, l'accesso agli uffici pubblici, il discarico per inesigibilita', la procedura di discarico e reiscrizione nei ruoli, il recupero crediti, gli obblighi contabili e di garanzia, gli obblighi di versamento, la cauzione, il segreto d'ufficio, la trasmissione dei flussi informativi, la conservazione degli atti, la delega, la chiamata in causa dell' ente creditore, i giorni festivi, il personale addetto al servizio di riscossione, le sanzioni, il regime fiscale degli atti di affidamento delle concessioni, le potesta' legislative delle Regioni a statuto speciale e province autonome, si applicano gli articoli 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, eccetto il comma 5 bis, 18, 19, 20, eccetto il comma 5, 21, 22, 23, 25, 26, 27, 28, 29, 30, 31, 32, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 52 bis, 53, 54, 55, 56, e 70, del decreto legislativo 13 aprile 1999, n. 112; nonche' l'articolo 4 bis, del decreto legislativo 9 luglio 1997, n. 237; l'articolo 16 quinquies, del decreto-legge 28 dicembre 2001, n. 452, convertito in legge 27 febbraio 2002, n. 16; l'articolo 46, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602 e l'articolo 9, del decreto-legge 28 marzo 1997, n. 79, convertito in legge 28 maggio 1997, n. 140 e successive modificazioni.
 
-## Titolo III - Disposizioni particolari per spese processuali, spese di mantenimento
-
-### e sanzioni pecuniarie processuali
+### Titolo III - Disposizioni particolari per spese processuali, spese di mantenimento e sanzioni pecuniarie processuali
 
 #### Capo I - Estinzione legale
 
@@ -1740,7 +1674,7 @@ e giurisdizionale della riscossione)
 
 pecuniarie processuali)
 
-## Capo II - Discarico e reiscrizione a ruolo
+#### Capo II - Discarico e reiscrizione a ruolo
 
 ###### ART. 230 (L) - Discarico automatico per inesigibilita' di crediti relativi a spese processuali e di mantenimento
 
@@ -1750,7 +1684,7 @@ pecuniarie processuali)
 
 ###### ART. 231 (R) - Reiscrizione a ruolo
 
-## Capo III - Dilazione e rateizzazione
+#### Capo III - Dilazione e rateizzazione
 
 ###### ART. 232 (L) - Dilazione e rateizzazione del pagamento
 
@@ -1766,13 +1700,11 @@ pecuniarie processuali)
 
 ###### ART. 233 (R) - Procedura per la concessione della dilazione e rateizzazione
 
-## Capo IV - Spese relative alle procedure esecutive attivate dal concessionario
-
-### per la riscossione delle entrate iscritte a ruolo
+#### Capo IV - Spese relative alle procedure esecutive attivate dal concessionario per la riscossione delle entrate iscritte a ruolo
 
 ###### ART. 234 (R) - Riscossione delle spese
 
-## Titolo IV - Disposizioni particolari per pene pecuniarie
+### Titolo IV - Disposizioni particolari per pene pecuniarie
 
 ###### ART. 235 (L)
 
@@ -1836,7 +1768,7 @@ La Corte Costituzionale, con sentenza 4-18 giugno 2003, n. 212 (in G.U. 1a s.s. 
 
 ###### ART. 239 (R) - Comunicazioni
 
-## Titolo V - Disposizioni particolari per sanzioni amministrative pecuniarie
+### Titolo V - Disposizioni particolari per sanzioni amministrative pecuniarie
 
 ###### ART. 240 (L) - Dilazione e rateizzazione del pagamento
 
@@ -1852,7 +1784,7 @@ e possibile reviviscenza)
 
 ###### ART. 242 (R) - Raccordo
 
-## Titolo VI - Riversamento del riscosso
+### Titolo VI - Riversamento del riscosso
 
 ###### ART. 243 (R) - Versamenti di somme agli ufficiali giudiziari
 
@@ -1864,7 +1796,7 @@ e possibile reviviscenza)
 
 ###### ART. 246 (R) - Versamento agli ufficiali giudiziari della percentuale sul riscosso
 
-## Titolo VII - Riscossione del contributo unificato
+### Titolo VII - Riscossione del contributo unificato
 
 ###### ART. 247 (R) - Ufficio competente
 
@@ -1872,25 +1804,19 @@ e possibile reviviscenza)
 
 ###### ART. 249 (R) - Norme applicabili
 
-## PARTE VIII - DISPOSIZIONI SPECIALI PER IL PROCESSO AMMINISTRATIVO,
+## PARTE VIII - DISPOSIZIONI SPECIALI PER IL PROCESSO AMMINISTRATIVO, CONTABILE E TRIBUTARIO
 
-### CONTABILE E TRIBUTARIO
-
-#### Titolo I - Disposizioni relative al processo amministrativo, contabile
-
-##### e tributario
+### Titolo I - Disposizioni relative al processo amministrativo, contabile e tributario
 
 ###### ART. 250 (R) - Esclusione del diritto di certificato
 
-## Titolo II - Disposizioni relative al processo amministrativo
+### Titolo II - Disposizioni relative al processo amministrativo
 
-### Capo I
-
-#### Disposizioni generali
+#### Capo I - Disposizioni generali
 
 ###### ART. 251 (R) - Ordine di pagamento emesso dal funzionario
 
-## Capo II - Diritto di copia
+#### Capo II - Diritto di copia
 
 ###### ART. 252 (L) - Costo per il rilascio di copia conforme in casi particolari
 
@@ -1898,11 +1824,9 @@ e possibile reviviscenza)
 
 ###### ART. 253 (R) - Determinazione dell'importo e pagamento
 
-## Titolo III - Disposizioni relative al processo contabile
+### Titolo III - Disposizioni relative al processo contabile
 
-### Capo I
-
-#### Disposizioni generali
+#### Capo I - Disposizioni generali
 
 ###### ART. 254 (R) - Imposta di bollo
 
@@ -1910,7 +1834,7 @@ e possibile reviviscenza)
 
 ###### ART. 256 (R) - Ordine di pagamento emesso dal funzionario
 
-## Capo II - Tassa fissa
+#### Capo II - Tassa fissa
 
 ###### ART. 257(L) - Tassa fissa
 
@@ -1920,17 +1844,15 @@ e possibile reviviscenza)
 
 ###### ART. 258 (R) - Modalita' di pagamento
 
-## Capo III - Pubblicazione di provvedimenti del magistrato
+#### Capo III - Pubblicazione di provvedimenti del magistrato
 
 ###### ART. 259 (L) - Pubblicazione gratuita di provvedimenti del magistrato
 
 1\. Nei processi in materia pensionistica la pubblicazione dell'avviso di cui all'articolo 5, comma 3, della legge 21 luglio 2000, n. 205, e' gratuita.
 
-## Titolo IV - Disposizioni relative al processo tributario
+### Titolo IV - Disposizioni relative al processo tributario
 
-### Capo I
-
-#### Disposizioni generali
+#### Capo I - Disposizioni generali
 
 ###### ART. 260 (R) - Imposta di bollo
 
@@ -1940,7 +1862,7 @@ e possibile reviviscenza)
 
 alla Corte di cassazione)
 
-## Capo II - Diritto di copia
+#### Capo II - Diritto di copia
 
 ###### ART. 262 (L) - Diritto di copia
 
@@ -1954,11 +1876,9 @@ alla Corte di cassazione)
 
 ## PARTE IX - NORME TRANSITORIE
 
-### Titolo I
+### Titolo I - Voci di spesa
 
-#### Voci di spesa
-
-##### Capo I - Contributo unificato nel processo civile e amministrativo
+#### Capo I - Contributo unificato nel processo civile e amministrativo
 
 ###### ART. 265 (L) - Contributo unificato
 
@@ -1976,9 +1896,7 @@ alla Corte di cassazione)
 
 7\. Per i processi iscritti a ruolo o per i quali e' stato depositato il ricorso dal 1 marzo 2002 al giorno antecedente a quello di entrata in vigore della legge 10 maggio 2002, n. 91, sono fatti salvi gli atti compiuti e non si fa luogo a rimborso, a ripetizioni o a integrazioni di quanto pagato.
 
-## Capo II - Diritto di copia nel processo penale, civile, amministrativo
-
-### e contabile
+#### Capo II - Diritto di copia nel processo penale, civile, amministrativo e contabile
 
 ###### ART. 266 (R) - Raccordo
 
@@ -2014,7 +1932,7 @@ e dell'articolo 137 del regio decreto 18 dicembre 1941, n. 1368)
 
 2\. Se il diritto di copia non e' pagato spontaneamente dall'impugnante, il funzionario addetto all'ufficio procede alla riscossione mediante iscrizione a ruolo, secondo le disposizioni della parte VII, e relative norme transitorie, in solido nei confronti dell'impugnante e del difensore.
 
-## Capo III - Diritto di certificato nel processo civile e penale
+#### Capo III - Diritto di certificato nel processo civile e penale
 
 ###### ART. 273 (L) - Diritto di certificato
 
@@ -2024,21 +1942,21 @@ a) per ogni certificato richiesto dalle parti, compreso il certificato del casel
 
 b) per il certificato del casellario giudiziale, per quello dei carichi pendenti e per quello delle sanzioni amministrative dipendenti da reato, se si richiede il rilascio immediato e si ottiene il certificato nel medesimo giorno della richiesta, e' dovuto un ulteriore diritto di euro 3,10.
 
-## Capo IV - Disposizioni comuni al diritto di copia e al diritto di certificato
+#### Capo IV - Disposizioni comuni al diritto di copia e al diritto di certificato
 
 ###### ART. 274 (L) - Adeguamento periodico degli importi
 
 1\. La misura degli importi del diritto di copia e del diritto di certificato e' adeguata ogni tre anni, in relazione alla variazione, accertata dall'ISTAT, dell'indice dei prezzi al consumo per le famiglie di operai ed impiegati verificatasi nel triennio precedente, con decreto dirigenziale del Ministero della giustizia, di concerto con il Ministero dell'economia e delle finanze.
 
-## Capo V - Ausiliari del magistrato
+#### Capo V - Ausiliari del magistrato
 
 ###### ART. 275 (R) - Onorari degli ausiliari del magistrato
 
-## Capo VI - Indennita' di custodia
+#### Capo VI - Indennita' di custodia
 
 ###### ART. 276 (R) - Determinazione dell'indennita' di custodia
 
-## Capo VII - Demolizione di opere abusive e riduzione in pristino dei luoghi
+#### Capo VII - Demolizione di opere abusive e riduzione in pristino dei luoghi
 
 ###### ART. 277 (R)
 
@@ -2046,7 +1964,7 @@ b) per il certificato del casellario giudiziale, per quello dei carichi pendenti
 
 del Ministero della difesa)
 
-## Capo VIII - Registrazione degli atti giudiziari
+#### Capo VIII - Registrazione degli atti giudiziari
 
 ###### ART. 278 (R)
 
@@ -2054,7 +1972,7 @@ del Ministero della difesa)
 
 e amministrativo)
 
-## Titolo II - Patrocinio a spese dello Stato
+### Titolo II - Patrocinio a spese dello Stato
 
 ###### ART. 279 (L)
 
@@ -2064,7 +1982,7 @@ amministrativo, contabile e tributario)
 
 1\. L'ammissione al gratuito patrocinio nel processo civile, amministrativo, contabile e tributario, deliberato secondo le leggi precedenti anteriormente al 1 luglio 2002, rimane valida e i suoi effetti sono disciplinati dalla parte III.
 
-## Titolo III - Registri
+### Titolo III - Registri
 
 ###### ART. 280 (R) - Foglio delle notizie e rubrica alfabetica
 
@@ -2072,17 +1990,13 @@ amministrativo, contabile e tributario)
 
 ###### ART. 282 (R) - Sopravvivenza delle disposizioni vigenti
 
-## Titolo IV - Pagamento
+### Titolo IV - Pagamento
 
-### Capo I
-
-#### Ordine di pagamento delle spese postali per notificazioni
+#### Capo I - Ordine di pagamento delle spese postali per notificazioni
 
 ###### ART. 283 (R) - Ordine di pagamento delle spese postali per notificazioni
 
-## Capo II - Pagamento del diritto di copia, del diritto di certificato, nonche'
-
-### delle spese per le notificazioni a richiesta d'ufficio nel processo - civile
+#### Capo II - Pagamento del diritto di copia, del diritto di certificato, nonche' delle spese per le notificazioni a richiesta d'ufficio nel processo civile
 
 ###### ART. 284 (R) - Raccordo
 
@@ -2090,11 +2004,9 @@ amministrativo, contabile e tributario)
 
 ###### ART. 286 (R) - Modalita' di pagamento della copia su compact disk
 
-## Titolo V - Riscossione
+### Titolo V - Riscossione
 
-### Capo I
-
-#### Disposizioni su crediti di importo determinato
+#### Capo I - Disposizioni su crediti di importo determinato
 
 ###### ART. 287 (R)
 
@@ -2108,7 +2020,7 @@ e di mantenimento di un certo importo)
 
 2\. L'importo massimo e' adeguato ogni biennio, in relazione alla variazione, accertata dall'ISTAT, dell'indice dei prezzi al consumo per le famiglie di operai e di impiegati verificatasi nel biennio precedente, con decreto dirigenziale del Ministero della giustizia, di concerto con il Ministero dell'economia e delle finanze.
 
-## Capo II - Riversamento del riscosso dall'erario a terzi
+#### Capo II - Riversamento del riscosso dall'erario a terzi
 
 ###### ART. 289 (L) - Percentuale spettante alla cassa di previdenza dei cancellieri
 

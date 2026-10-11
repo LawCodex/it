@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I
+## Capo I - DISPOSIZIONI GENERALI
 
-### DISPOSIZIONI GENERALI
-
-#### Art. 1
+### Art. 1
 
 Obbligo di cooperazione
 
@@ -46,7 +44,7 @@ Obbligo di cooperazione
 
 > \- La legge 12 luglio 1999, n. 232, reca: «Ratifica ed esecuzione dello statuto istitutivo della Corte penale internazionale, con atto finale ed allegati, adottato dalla Conferenza diplomatica delle Nazioni unite a Roma, il 17 luglio 1998».
 
-#### Art. 2
+### Art. 2
 
 Attribuzioni del Ministro della giustizia
 
@@ -64,7 +62,7 @@ AGGIORNAMENTO (1)
 
 La Corte costituzionale con sentenza 19 maggio - 23 luglio 2026, n. 143 (in G.U. 1ª s.s. 29/7/2026, n. 30) ha dichiarato "l'illegittimita' costituzionale degli artt. 2 e 4 della legge 20 dicembre 2012, n. 237 (Norme per l'adeguamento alle disposizioni dello statuto istitutivo della Corte penale internazionale), nella parte in cui non prevedono che il Ministro della giustizia debba immediatamente trasmettere al Procuratore generale presso la Corte d'appello di Roma le richieste di cooperazione della Corte penale internazionale, salvo che comunichi alla stessa Corte d'appello la dichiarazione motivata di non dare corso a tali richieste per l'esigenza di tutela di principi costituzionali preminenti".
 
-#### Art. 3
+### Art. 3
 
 Norme applicabili
 
@@ -82,7 +80,7 @@ Norme applicabili
 
 > \- Il titolo IV del codice di procedura penale reca: «Effetti delle sentenze penali straniere esecuzione all'estero di sentenze penali italiane».
 
-#### Art. 4
+### Art. 4
 
 Modalita' di esecuzione della cooperazione giudiziaria
 
@@ -106,7 +104,7 @@ AGGIORNAMENTO (1)
 
 La Corte costituzionale con sentenza 19 maggio - 23 luglio 2026, n. 143 (in G.U. 1ª s.s. 29/7/2026, n. 30) ha dichiarato "l'illegittimita' costituzionale degli artt. 2 e 4 della legge 20 dicembre 2012, n. 237 (Norme per l'adeguamento alle disposizioni dello statuto istitutivo della Corte penale internazionale), nella parte in cui non prevedono che il Ministro della giustizia debba immediatamente trasmettere al Procuratore generale presso la Corte d'appello di Roma le richieste di cooperazione della Corte penale internazionale, salvo che comunichi alla stessa Corte d'appello la dichiarazione motivata di non dare corso a tali richieste per l'esigenza di tutela di principi costituzionali preminenti".
 
-#### Art. 5
+### Art. 5
 
 Trasmissione di atti e documenti
 
@@ -172,7 +170,7 @@ Trasmissione di atti e documenti
 
 > b) il divieto di pubblicare il contenuto di singoli atti o notizie specifiche relative a determinate operazioni.».
 
-#### Art. 6
+### Art. 6
 
 Immunita' temporanea nel territorio dello Stato
 
@@ -184,13 +182,13 @@ Immunita' temporanea nel territorio dello Stato
 
 > \- Per il testo dell'art. 133 del codice di procedura penale si veda nelle note all'art. 4.
 
-#### Art. 7
+### Art. 7
 
 Patrocinio a spese dello Stato
 
 1\. Le disposizioni sul patrocinio a spese dello Stato si applicano anche alle procedure di esecuzione di richieste della Corte penale internazionale da adempiere nel territorio dello Stato, in favore della persona nei cui confronti la Corte procede.
 
-#### Art. 8
+### Art. 8
 
 Richieste alla Corte penale internazionale
 
@@ -208,13 +206,13 @@ Richieste alla Corte penale internazionale
 
 > 5\. - 5-ter. (Omissis).».
 
-#### Art. 9
+### Art. 9
 
 Partecipazione del procuratore generale presso la corte d'appello di Roma e del procuratore generale militare presso la corte militare d'appello alle consultazioni con la Corte penale internazionale
 
 1\. Il procuratore generale presso la corte d'appello di Roma e il procuratore generale militare presso la corte militare d'appello assistono, se richiesti, alle consultazioni con la Corte penale internazionale previste dallo statuto.
 
-#### Art. 10
+### Art. 10
 
 Delitti contro la Corte penale internazionale
 
@@ -330,11 +328,9 @@ b) nella rubrica, sono aggiunte, in fine, le seguenti parole: «o alla Corte pen
 
 > «Art. 380 (Patrocinio o consulenza infedele). - Il patrocinatore o il consulente tecnico, che, rendendosi infedele ai suoi doveri professionali, arreca nocumento agli interessi della parte da lui difesa, assistita o rappresentata dinanzi all'autorita' giudiziaria o alla Corte penale internazionale, e' punito con la reclusione da uno a tre anni e con la multa non inferiore a euro 516.».
 
-## Capo II
+## Capo II - CONSEGNA
 
-### CONSEGNA
-
-#### Art. 11
+### Art. 11
 
 Applicazione della misura cautelare
 
@@ -406,7 +402,7 @@ Sulla richiesta di concessione della liberta' provvisoria, nonche' sull'eventual
 
 > 2\. Al fine di provvedere agli adempimenti previsti dal comma 1, il presidente della corte di appello invita l'interessato a nominare un difensore di fiducia designando, in difetto di tale nomina, un difensore di ufficio a norma dell'art. 97 comma 3. Il difensore deve essere avvisato, almeno ventiquattro ore prima, della data fissata per i predetti adempimenti e ha diritto di assistervi.».
 
-#### Art. 12
+### Art. 12
 
 Revoca della misura cautelare
 
@@ -436,7 +432,7 @@ d) se sono decorsi quindici giorni dalla data fissata per la presa in consegna d
 
 > 5\. La competenza a provvedere a norma dei commi precedenti appartiene alla corte di appello o, nel corso del procedimento davanti alla corte di cassazione, alla corte medesima.».
 
-#### Art. 13
+### Art. 13
 
 Procedura per la consegna
 
@@ -524,7 +520,7 @@ d) per lo stesso fatto e nei confronti della stessa persona e' stata pronunciata
 
 > 2\. Il Ministro puo' inoltre, osservate le disposizioni del capo II del titolo IV, convenire che la pena da scontare abbia esecuzione nello Stato richiedente.».
 
-#### Art. 14
+### Art. 14
 
 Applicazione provvisoria della misura cautelare
 
@@ -564,11 +560,9 @@ Essa e' revocata se entro trenta giorni dalla comunicazione non perviene la rich
 
 > \- Per il testo dell'art. 91 della citata legge 12 luglio 1999, n. 232, si veda nelle note all'art. 13.
 
-## Capo III
+## Capo III - ESECUZIONE DEI PROVVEDIMENTI DELLA CORTE PENALE INTERNAZIONALE
 
-### ESECUZIONE DEI PROVVEDIMENTI DELLA CORTE PENALE INTERNAZIONALE
-
-#### Art. 15
+### Art. 15
 
 Giudice competente
 
@@ -580,7 +574,7 @@ Giudice competente
 
 > «Art. 665 (Giudice competente). - 1. Salvo diversa disposizione di legge, competente a conoscere dell'esecuzione di un provvedimento e' il giudice che lo ha deliberato.».
 
-#### Art. 16
+### Art. 16
 
 Esecuzione delle pene detentive
 
@@ -614,7 +608,7 @@ c) per lo stesso fatto e nei confronti della stessa persona e' stata pronunciata
 
 > 2\. La sentenza e' soggetta a ricorso per cassazione da parte del procuratore generale presso la corte di appello e dell'interessato.».
 
-#### Art. 17
+### Art. 17
 
 Regime penitenziario
 
@@ -696,7 +690,7 @@ Regime penitenziario
 
 > 7\. Se nel dibattimento occorre procedere a confronto o ricognizione dell'imputato o ad altro atto che implica l'osservazione della sua persona, il giudice, ove lo ritenga indispensabile, sentite le parti, dispone la presenza dell'imputato nell'aula di udienza per il tempo necessario al compimento dell'atto.».
 
-#### Art. 18
+### Art. 18
 
 Controllo sull'esecuzione della pena
 
@@ -708,7 +702,7 @@ Controllo sull'esecuzione della pena
 
 4\. Se la Corte penale internazionale ritiene che il condannato non possa beneficiare del provvedimento richiesto, il Ministro della giustizia puo' chiedere alla stessa Corte il trasferimento del condannato in altro Stato.
 
-#### Art. 19
+### Art. 19
 
 Informazioni alla Corte penale internazionale
 
@@ -718,13 +712,13 @@ Informazioni alla Corte penale internazionale
 
 3\. I procedimenti penali e ogni altra circostanza rilevante che concerne il condannato sono tempestivamente comunicati alla Corte penale internazionale.
 
-#### Art. 20
+### Art. 20
 
 Luogo di detenzione
 
 1\. Per i delitti previsti dalla presente legge, la detenzione sia per fini cautelari che in espiazione della pena puo' avere luogo in una sezione speciale di un istituto penitenziario, ovvero in un carcere militare, conformemente alle disposizioni vigenti in materia.
 
-#### Art. 21
+### Art. 21
 
 Esecuzione di pene pecuniarie
 
@@ -792,7 +786,7 @@ e degli ordini di riparazione
 
 > 3\. In circostanze eccezionali, qualora la Corte scopra sulla base di elementi affidabili che e' stato commesso un errore giudiziario grave e manifesto essa puo', a sua discrezione concedere un risarcimento secondo i criteri enunciati nelle regole procedurali e di ammissibilita' delle prove, ad una persona che era stata liberata a seguito di un proscioglimento definitivo o in quanto il procedimento giudiziario aveva cessato per via di questo fatto.».
 
-#### Art. 22
+### Art. 22
 
 Consultazioni con la Corte penale internazionale per l'esecuzione di pene pecuniarie, di misure patrimoniali e degli ordini di riparazione
 
@@ -804,7 +798,7 @@ Consultazioni con la Corte penale internazionale per l'esecuzione di pene pecuni
 
 > 21\.
 
-#### Art. 23
+### Art. 23
 
 Disposizioni in materia di giurisdizione
 
@@ -814,7 +808,7 @@ Disposizioni in materia di giurisdizione
 
 3\. Limitatamente ai fatti di cui al comma 2, le funzioni attribuite dalla presente legge al Ministro della giustizia sono esercitate d'intesa con il Ministro della difesa. Resta salva la competenza esclusiva del Ministero della difesa per quanto attiene all'ordinamento penitenziario militare.
 
-#### Art. 24
+### Art. 24
 
 Clausola di neutralita' finanziaria
 

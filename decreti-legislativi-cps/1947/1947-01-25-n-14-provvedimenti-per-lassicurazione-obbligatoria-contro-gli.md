@@ -38,11 +38,9 @@ Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto c
 
 HA SANZIONATO E PROMULGA:
 
-## TITOLO I. - Modifiche ed integrazioni al regio decreto 17 agosto 1935, n. 1765, e
+## TITOLO I. - Modifiche ed integrazioni al regio decreto 17 agosto 1935, n. 1765, e disposizioni successive.
 
-### disposizioni successive.
-
-#### Art. 1
+### Art. 1
 
 L'art. 18 del regio decreto 17 agosto 1935, n. 1765, e' sostituito dal seguente:
 
@@ -60,7 +58,7 @@ Sono altresi' compresi tra le persone assicurate i soci delle cooperative.
 
 Per quanto riguarda la navigazione marittima e la pesca marittima sono comprese nell'assicurazione le persone componenti l'equipaggio retribuite con salario o stipendio o con compartecipazione agli utili o al prodotto".
 
-#### Art. 2
+### Art. 2
 
 L'art. 24 del regio decreto 17 agosto 1935, n. 1765, e successive modificazioni sono sostituiti dal seguente:
 
@@ -80,7 +78,7 @@ Le quote integrative della rendita seguono le variazioni della rendita e cessano
 
 Nel regolamento saranno stabiliti i criteri per determinare i gradi della invalidita' permanente parziale".
 
-#### Art. 3
+### Art. 3
 
 L'art. 27 del regio decreto 17 agosto 1935, n. 1765; e successive modificazioni sono sostituiti dal seguente:
 
@@ -108,7 +106,7 @@ Per gli addetti alla navigazione marittima ed alla pesca marittima l'assegno e' 
 
 Agli effetti del presente articolo sono equiparati ai figli gli altri discendenti viventi a carico del defunto che siano orfani di ambedue i genitori o figli di genitori inabili al lavoro, gli affiliati e gli esposti regolarmente affidati, e sono equiparati agli ascendenti gli affiliati e le persone a cui gli esposti sono regolari mente affidati".
 
-#### Art. 4
+### Art. 4
 
 L'art. 39 del regio decreto 17 agosto 1935, n. 1765, e successive modificazioni sono sostituiti dal seguente:
 
@@ -122,7 +120,7 @@ In ogni caso il salario annuo e' computato da un minimo di lire quattromila fino
 
 Per la liquidazione delle indennita' per inabilita' temporanea il salario da assumere come base e' uguale ai trecento trecentosessantesimi del salario giornaliero che si ottiene col procedimento di cui all'ultima parte del secondo comma del presente articolo, calcolando, pero', il guadagno medio orario degli ultimi quindici giorni immediatamente precedenti quello dell'infortunio".
 
-#### Art. 5
+### Art. 5
 
 L'art. 42 del regio decreto 17 agosto 1935, n. 1765, e' sostituito dal seguente:
 
@@ -132,7 +130,7 @@ L'istituto stesso e' inoltre tenuto a corrispondere una indennita' supplementare
 
 Le disposizioni del presente articolo non sono applicabili ai casi previsti dall'art. 40".
 
-#### Art. 6
+### Art. 6
 
 L'art. 49 del regio decreto 17 agosto 1935, n. 1765, e' sostituito dal seguente:
 
@@ -146,7 +144,7 @@ Contro l'applicazione della tariffa dei premi il datore di lavoro puo' ricorrere
 
 Avverso le decisioni della suddetta Commissione e' ammesso ricorso al Ministero del lavoro e della previdenza sociale".
 
-#### Art. 7
+### Art. 7
 
 L'art. 62 del regio decreto 17 agosto 1935, n. 1765, e' sostituito dal seguente:
 
@@ -158,7 +156,7 @@ b) con un contributo da parte delle singole Casse, Aziende e Amministrazioni di 
 
 c) con l'apporto eventuale derivante da donazioni, lasciti ed erogazioni di terzi".
 
-#### Art. 8
+### Art. 8
 
 L'art. 1 del decreto legislativo luogotenenziale 19 aprile 1946, n. 238, e' sostituito dal seguente:
 
@@ -166,43 +164,43 @@ L'art. 1 del decreto legislativo luogotenenziale 19 aprile 1946, n. 238, e' sost
 
 Le indennita' dell'assicurazione predetta assorbono e sostituiscono, fino alla concorrenza del loro ammontare, gli assegni e le indennita' che debbono per legge o per contratti o per accordi collettivi essere direttamente corrisposte o sono di fatto corrisposte dal datore di lavoro al lavoratore in caso di infortunio o di malattia professionale, salvo nei casi in cui in virtu' di contratti o di accordi collettivi i datori di lavoro sono tenuti a corrispondere direttamente ai propri dipendenti un supplemento di indennita' sino alla copertura dell'intera retribuzione".
 
-#### Art. 9
+### Art. 9
 
 Per il funzionamento della Commissione dei ricorsi contro l'applicazione delle tariffe dei premi di cui al 3ª comma dell'art. 49 del regio decreto 17 agosto 1935, n. 1765, modificato dal presente decreto, nonche' per la osservanza delle modalita' e dei termini dei ricorsi predetti, si applicano le norme approvate dal regio decreto 25 novembre 1940, n. 1732.
 
-#### Art. 10
+### Art. 10
 
 I valori capitali attuali relativi alle indennita' per infortuni sul lavoro e malattie professionali versate all'Istituto nazionale della previdenza sociale ai sensi e per gli effetti di cui all'art. 15 della legge testo unico 31 gennaio 1904, n. 51, e all'art. 111 del regolamento 21 novembre 1918, n. 1889, per l'esecuzione del decreto legge luogotenenziale 23 agosto 1917, n. 1450, sono trasferiti dall'Istituto predetto all'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro, il quale continuera' a corrispondere agli aventi diritto le rendite vitalizie relative.
 
 ## TITOLO II. - Disposizioni complementari di carattere temporaneo.
 
-#### Art. 11
+### Art. 11
 
 ((COMMA ABROGATO DAL D.P.R. 3 MARZO 1949, N. 52)).
 
 L'assegno integrativo di cui al comma precedente assorbe nei confronti dei beneficiari di esso l'assegno straordinario previsto dall'art. 3 del decreto legislativo 23 agosto 1946, n. 202; per coloro invece che non beneficiano dell'assegno integrativo, l'assegno straordinario predetto viene conservato come assegno personale sino a nuova disposizione.
 
-#### Art. 12
+### Art. 12
 
 ((ARTCOLO ABROGATO DAL D.P.R. 3 MARZO 1949, N. 52))
 
-#### Art. 13
+### Art. 13
 
 ((ARTCOLO ABROGATO DAL D.P.R. 3 MARZO 1949, N. 52))
 
-#### Art. 14
+### Art. 14
 
 ((ARTCOLO ABROGATO DAL D.P.R. 3 MARZO 1949, N. 52))
 
-#### Art. 15
+### Art. 15
 
 ((ARTCOLO ABROGATO DAL D.P.R. 3 MARZO 1949, N. 52))
 
-#### Art. 16
+### Art. 16
 
 Ai titolari di rendita per infortunio avvenuti sino al 31 maggio 1946 con inabilita' permanente inferiore al quaranta per cento non si applica, la disposizione per l'aumento delle quote integrative delle rendite eventualmente dovute per la moglie e i figli di cui al quinto comma dell'art. 24 del regio decreto 17 agosto 1935, n. 1765, modificato con l'art. 2 del presente decreto, ferma restando per essi la regolamentazione precedente nell'assegnazione delle quote integrative predette.
 
-#### Art. 17
+### Art. 17
 
 Con decreto del Capo dello Stato, su proposta del Ministro per il lavoro e la previdenza sociale di concerto con il Ministro per il tesoro, saranno determinate le modalita' per l'assunzione degli oneri derivanti all'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro dal risarcimento degli infortuni determinati dal rischio di guerra.
 
@@ -212,21 +210,21 @@ L'importo di essi e' tuttavia, computato ai fini dei pagamenti da effettuarsi in
 
 ## TITOLO III. - Disposizioni finali.
 
-#### Art. 18
+### Art. 18
 
 Le modifiche apportate dagli articoli 2, 3 e 4 del presente decreto, rispettivamente al terzo e quinto comma dell'art. 24 del regio decreto 17 agosto 1935, n. 1765, al terzultimo e penultimo comma dell'art. 27 del citato decreto, ed al penultimo comma dell'art. 39 del regio decreto medesimo saranno applicate per gli infortuni avvenuti e per le malattie professionali manifestatesi successivamente al 31 maggio 1946.
 
-#### Art. 19
+### Art. 19
 
 Le disposizioni di cui al presente decreto si applicano anche ai dipendenti delle Aziende autonome dei Ministeri dei trasporti e delle poste e telecomunicazioni di cui al n. 2 dell'art. 48 del regio decreto 17 agosto 1935, n. 1765.
 
 Oltre alle modifiche e integrazioni previste dagli articoli da 1 a 10 del presente decreto, sono parimenti applicabili agli addetti alla navigazione marittima e alla pesca marittima gli articoli 11, 12, 13 e 16 del presente decreto.
 
-#### Art. 20
+### Art. 20
 
 Con decreto del Ministro per il tesoro sara' provveduto alle variazioni di bilancio occorrenti per la esecuzione del presente decreto.
 
-#### Art. 21
+### Art. 21
 
 Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 

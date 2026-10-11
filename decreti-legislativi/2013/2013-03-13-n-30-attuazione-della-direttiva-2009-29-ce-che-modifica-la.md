@@ -90,19 +90,17 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - DISPOSIZIONI GENERALI
 
-### DISPOSIZIONI GENERALI
-
-#### Art. 1
+### Art. 1
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 2
+### Art. 2
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 3
+### Art. 3
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
@@ -114,11 +112,9 @@ AGGIORNAMENTO (8)
 
 Il D.Lgs. 9 giugno 2020, n. 47 ha disposto (con l'art. 47, comma 2) che ai sensi dell'articolo 4 della direttiva (UE) 2018/410, il comma 1, lettere a) e cc) del presente articolo continua ad applicarsi fino al 31 dicembre 2020.
 
-## Capo II
+## Capo II - AUTORITA' NAZIONALE COMPETENTE
 
-### AUTORITA' NAZIONALE COMPETENTE
-
-#### Art. 4
+### Art. 4
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
@@ -130,71 +126,67 @@ AGGIORNAMENTO (8)
 
 Il D.Lgs. 9 giugno 2020, n. 47 ha disposto (con l'art. 47, comma 3) che "Il Comitato di cui all'articolo 4 del decreto legislativo 13 marzo 2013, n. 30, continua ad operare fino alla costituzione del Comitato di cui all'articolo 4, anche ai fini dell'applicazione del presente decreto".
 
-## Capo III
+## Capo III - TRASPORTO AEREO
 
-### TRASPORTO AEREO
-
-#### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 8
+### Art. 8
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 9
+### Art. 9
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 10
+### Art. 10
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 11
+### Art. 11
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-## Capo IV
+## Capo IV - IMPIANTI FISSI
 
-### IMPIANTI FISSI
-
-#### Art. 12
+### Art. 12
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 13
+### Art. 13
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 14
+### Art. 14
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 15
+### Art. 15
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 16
+### Art. 16
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 17
+### Art. 17
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 18
+### Art. 18
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 19
+### Art. 19
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
@@ -206,7 +198,7 @@ AGGIORNAMENTO (8)
 
 Il D.Lgs. 9 giugno 2020, n. 47 ha disposto (con l'art. 47, comma 2) che ai sensi dell'articolo 4 della direttiva (UE) 2018/410, il presente articolo continua ad applicarsi fino al 31 dicembre 2020.
 
-#### Art. 20
+### Art. 20
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
@@ -218,7 +210,7 @@ AGGIORNAMENTO (8)
 
 Il D.Lgs. 9 giugno 2020, n. 47 ha disposto (con l'art. 47, comma 2) che ai sensi dell'articolo 4 della direttiva (UE) 2018/410, il comma 1, lettera c) del presente articolo continua ad applicarsi fino al 31 dicembre 2020.
 
-#### Art. 21
+### Art. 21
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
@@ -230,7 +222,7 @@ AGGIORNAMENTO (8)
 
 Il D.Lgs. 9 giugno 2020, n. 47 ha disposto (con l'art. 47, comma 2) che ai sensi dell'articolo 4 della direttiva (UE) 2018/410, i commi 3 e 4 del presente articolo continuano ad applicarsi fino al 31 dicembre 2020.
 
-#### Art. 22
+### Art. 22
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
@@ -242,23 +234,23 @@ AGGIORNAMENTO (8)
 
 Il D.Lgs. 9 giugno 2020, n. 47 ha disposto (con l'art. 47, comma 2) che ai sensi dell'articolo 4 della direttiva (UE) 2018/410, il comma 4 del presente articolo continua ad applicarsi fino al 31 dicembre 2020.
 
-#### Art. 23
+### Art. 23
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 24
+### Art. 24
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 25
+### Art. 25
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 26
+### Art. 26
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 27
+### Art. 27
 
 Misure a favore dei settori o sottosettori esposti ad un rischio elevato di rilocalizzazione delle emissioni di carbonio.
 
@@ -272,15 +264,13 @@ AGGIORNAMENTO (8)
 
 Il D.Lgs. 9 giugno 2020, n. 47 ha disposto (con l'art. 47, comma 2) che ai sensi dell'articolo 4 della direttiva (UE) 2018/410, il comma 1 del presente articolo continua ad applicarsi fino al 31 dicembre 2020.
 
-## Capo V
+## Capo V - DISPOSIZIONI APPLICABILI AL TRASPORTO AEREO E AGLI IMPIANTI FISSI
 
-### DISPOSIZIONI APPLICABILI AL TRASPORTO AEREO E AGLI IMPIANTI FISSI
-
-#### Art. 28
+### Art. 28
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 29
+### Art. 29
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
@@ -292,23 +282,11 @@ AGGIORNAMENTO (8)
 
 Il D.Lgs. 9 giugno 2020, n. 47 ha disposto (con l'art. 47, comma 2) che ai sensi dell'articolo 4 della direttiva (UE) 2018/410, i commi 3 e 4 del presente articolo continuano ad applicarsi fino al 31 dicembre 2020.
 
-#### Art. 30
+### Art. 30
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 31
-
-((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
-
-((8))
-
------------
-
-AGGIORNAMENTO (8)
-
-Il D.Lgs. 9 giugno 2020, n. 47 ha disposto (con l'art. 47, comma 2) che ai sensi dell'articolo 4 della direttiva (UE) 2018/410, il presente articolo continua ad applicarsi fino al 31 dicembre 2020.
-
-#### Art. 32
+### Art. 31
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
@@ -320,63 +298,73 @@ AGGIORNAMENTO (8)
 
 Il D.Lgs. 9 giugno 2020, n. 47 ha disposto (con l'art. 47, comma 2) che ai sensi dell'articolo 4 della direttiva (UE) 2018/410, il presente articolo continua ad applicarsi fino al 31 dicembre 2020.
 
-#### Art. 33
+### Art. 32
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 34
+((8))
+
+-----------
+
+AGGIORNAMENTO (8)
+
+Il D.Lgs. 9 giugno 2020, n. 47 ha disposto (con l'art. 47, comma 2) che ai sensi dell'articolo 4 della direttiva (UE) 2018/410, il presente articolo continua ad applicarsi fino al 31 dicembre 2020.
+
+### Art. 33
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 35
+### Art. 34
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 36
+### Art. 35
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 37
+### Art. 36
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 38
+### Art. 37
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-## Capo VI
-
-### DISPOSIZIONI TRANSITORIE FINALI
-
-#### Art. 39
+### Art. 38
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 40
+## Capo VI - DISPOSIZIONI TRANSITORIE FINALI
+
+### Art. 39
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 41
+### Art. 40
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 42
+### Art. 41
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 43
+### Art. 42
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 44
+### Art. 43
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 45
+### Art. 44
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Art. 46
+### Art. 45
+
+((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
+
+### Art. 46
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
@@ -422,43 +410,43 @@ Visto, il Guardasigilli: Severino
 
 ## Allegati
 
-#### Allegato I
+### Allegato I
 
 Allegato I
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Allegato II
+### Allegato II
 
 Allegato II
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Allegato III
+### Allegato III
 
 Allegato III
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Allegato IV
+### Allegato IV
 
 Allegato IV
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Allegato V
+### Allegato V
 
 Allegato V
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Allegato VI
+### Allegato VI
 
 Allegato VI
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 GIUGNO 2020, N. 47))
 
-#### Allegato VII
+### Allegato VII
 
 Allegato VII
 

@@ -25,7 +25,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1 - Estensione al personale maschile dell'esercizio della professione sanitaria ausiliaria di infermiere professionale. Abolizione dell'internato obbligatorio
+## Art. 1 - Estensione al personale maschile dell'esercizio della professione sanitaria ausiliaria di infermiere professionale. Abolizione dell'internato obbligatorio
 
 L'esercizio della professione sanitaria ausiliaria di infermiere professionale e' esteso ai cittadini di sesso maschile che siano in possesso del prescritto diploma.
 
@@ -37,19 +37,19 @@ Su domanda degli allievi e tenuto conto delle esigenze di carattere sociale e lo
 
 Il numero massimo degli allievi da ammettere nelle scuole viene determinato dalle singole regioni, tenendo presenti, di norma, la capacita' dei locali, la disponibilita' dei servizi e le attrezzature didattiche della scuola.
 
-### Art. 2 - Requisiti per l'ammissione
+## Art. 2 - Requisiti per l'ammissione
 
 Gli aspiranti all'ammissione alle scuole per infermieri professionali debbono fare domanda nei termini e con le modalita' fissate dal regolamento speciale della scuola.
 
 Gli aspiranti all'ammissione alle scuole di cui al precedente articolo debbono essere in possesso del diploma di istruzione secondaria di primo grado, e, a partire dall'inizio dell'anno scolastico 1973-74, anche di un certificato attestante l'ammissione al terzo anno di scuola secondaria di secondo grado o titolo equipollente dopo il conseguimento del diploma di istruzione secondaria di primo grado. Devono altresi' aver compiuto il diciassettesimo anno di eta' alla data del 31 dicembre dell'anno scolastico cui si riferisce la domanda di ammissione.
 
-### Art. 3 - Titolo di studio per l'accesso alle scuole per infermiere ed infermieri generici
+## Art. 3 - Titolo di studio per l'accesso alle scuole per infermiere ed infermieri generici
 
 A partire dall'entrata in vigore della presente legge, ai fini dell'ammissione alle scuole per infermiere ed infermieri generici di cui alla legge 29 ottobre 1954, n. 1046, gli aspiranti devono essere in possesso del diploma di istruzione secondaria di primo grado. Sono esentati dal possesso di tale titolo, fino all'inizio dello anno scolastico 1973-1974, i candidati che per ragioni di eta' non erano tenuti a frequentare, come scuola dell'obbligo, la scuola media di primo grado, purche' siano in possesso della licenza elementare.
 
 ## DISPOSIZIONI TRANSITORIE
 
-### Art. 4 - Corsi di qualificazione per dipendenti da enti ospedalieri
+## Art. 4 - Corsi di qualificazione per dipendenti da enti ospedalieri
 
 Fino a tutto il 1973 le scuole per infermiere ed infermieri generici, aventi sede presso enti ospedalieri, possono istituire corsi speciali per conseguire il certificato di abilitazione all'esercizio dell'arte ausiliaria di infermiere generico di cui all'articolo 9 della legge 29 ottobre 1954, n. 1046. Tali corsi della durata di quattro mesi devono essere autorizzati dal Ministero della sanita', sentito il parere delle singole regioni.
 
@@ -61,11 +61,11 @@ a) eta' inferiore ai 50 anni;
 
 b) licenza di scuola media di primo grado, ad eccezione dei candidati che per ragioni di eta' non erano tenuti a frequentare, come scuola dell'obbligo, la scuola media di primo grado, purche' siano in possesso della licenza elementare.
 
-### Art. 5 - Entita' numerica degli allievi
+## Art. 5 - Entita' numerica degli allievi
 
 Il numero massimo degli allievi che possono partecipare ai corsi di cui al precedente articolo viene determinato dal consiglio di amministrazione dell'ente ospedaliero presso cui ha sede la scuola, su proposta della regione e in relazione alle esigenze assistenziali e al fabbisogno del personale.
 
-### Art. 6 - Ammissione ai corsi - Programmi
+## Art. 6 - Ammissione ai corsi - Programmi
 
 Per l'ammissione ai corsi previsti dai precedenti articoli gli aspiranti devono presentare alla direzione della scuola domanda unitamente ai documenti comprovanti il possesso dei requisiti prescritti dal precedente articolo 4.
 
@@ -93,13 +93,13 @@ Con decreto del Ministro per la sanita' di concerto col Ministro per la pubblica
 
 Gli insegnanti dei corsi devono essere scelti tra i docenti delle scuole per infermieri.
 
-### Art. 7 - Esame di idoneita'
+## Art. 7 - Esame di idoneita'
 
 Al termine dei corsi di cui ai precedenti articoli, gli allievi devono sostenere un esame di idoneita' dinanzi ad una commissione esaminatrice, avente la stessa composizione di quella prevista dall'articolo 8 della legge 29 ottobre 1954, n. 1046.
 
 Il componente di cui alla lettera e) del menzionato articolo 8 della legge 29 ottobre 1954, n. 1046, e' sostituito da un rappresentante designato dalla commissione interna di cui all'articolo 54 del decreto del Presidente della Repubblica 27 marzo 1969, n. 130, di qualifica non inferiore a quella di caposala.
 
-### Art. 8 - Ammissione al secondo anno del corso per infermieri professionali
+## Art. 8 - Ammissione al secondo anno del corso per infermieri professionali
 
 Fino all'inizio dell'anno scolastico 1973-1974 gli enti debitamente autorizzati, ai sensi delle norme vigenti, alla gestione di scuole-convitto per infermiere professionali e per vigilatrici d'infanzia, con sede presso enti ospedalieri, possono ammettere senza obbligo di internato al secondo anno del corso per infermieri, professionali, gli infermieri generici, le ostetriche e le vigilatrici d'infanzia e, al secondo anno del corso per vigilatrici di infanzia, le puericultrici, per un numero massimo di allievi non superiore a quello fissato dai regolamenti speciali delle scuole stesse per l'ammissione ali primo anno del corso.
 
@@ -121,13 +121,13 @@ L'ammissione e' subordinata al superamento di un esame, consistente in una prova
 
 Il primo trimestre del corso e' destinato all'accertamento della idoneita' degli allievi alla ulteriore frequenza. La valutazione della idoneita' spetta al collegio degli insegnanti.
 
-### Art. 9
+## Art. 9
 
 Coloro i quali, alla data di entrata in vigore della presente legge, sono in possesso dell'attestato di idoneita' all'esercizio dell'assistenza infermiera professionale e all'esercizio delle funzioni direttive unicamente presso gli ospedali di cui all'articolo 89 del regio decreto 30 settembre 1938, n. 1631, possono, a domanda, ottenere dal medico provinciale rispettivamente il diploma di infermiere professionale e il certificato di abilitazione a funzioni direttive.
 
 E' abrogato l'articolo 89 del regio decreto 30 settembre 1938, n. 1631.
 
-### Art. 10
+## Art. 10
 
 Ai sottufficiali infermieri della carriera continuativa dell'Esercito, della Marina e dell'Aeronautica, che abbiano frequentato corsi biennali e superato i relativi esami e' rilasciato diploma di Stato di infermiere professionale.
 
@@ -143,7 +143,7 @@ Con decreto del Ministro per la difesa, di concerto con quelli per la sanita' e 
 
 Le domande di cui al primo comma debbono essere presentate entro sei mesi dalla data di pubblicazione del decreto di cui al precedente comma.
 
-### Art. 11 - Spese per corsi e commissioni
+## Art. 11 - Spese per corsi e commissioni
 
 Le spese per lo svolgimento dei corsi ed il funzionamento delle commissioni previste dalla presente legge sono a carico dell'ente ospedaliero, che provvede, altresi', alla loro determinazione e liquidazione.
 

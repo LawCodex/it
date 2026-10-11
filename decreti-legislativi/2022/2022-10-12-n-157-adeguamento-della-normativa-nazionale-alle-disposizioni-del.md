@@ -130,7 +130,7 @@ d) «Uffici territoriali»: le articolazioni o i soggetti di cui si avvalgono le
 
 > \- Il regolamento (UE) 2019/1020 del Parlamento europeo e del Consiglio, del 20 giugno 2019, sulla vigilanza del mercato e sulla conformita' dei prodotti e che modifica la direttiva 2004/42/CE e i regolamenti (CE) n. 765/2008 e (UE) n. 305/2011 e' pubblicato nella GUUE del 25.6.2019 n. L 169.
 
-## Capo II - Sistema di vigilanza e conformità dei prodotti
+### Capo II - Sistema di vigilanza e conformità dei prodotti
 
 #### Art. 3
 

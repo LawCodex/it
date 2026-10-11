@@ -40,13 +40,11 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I - Esercizio permanente della professione di avvocato
+## Titolo I - Esercizio permanente della professione di avvocato da parte di avvocati cittadini di uno Stato membro dell'Unione europea.
 
-### da parte di avvocati cittadini di uno Stato membro - dell'Unione europea.
+### Capo I - Disposizioni generali
 
-#### Capo I - Disposizioni generali
-
-###### Art. 1
+#### Art. 1
 
 Ambito di applicazione
 
@@ -108,7 +106,7 @@ Ambito di applicazione
 
 > \- La legge 9 febbraio 1982, n. 31 reca: "Libera prestazione di servizi da parte degli avvocati cittadini degli Stati membri delle Comunita' europee.".
 
-###### Art. 2
+#### Art. 2
 
 ((Qualifica professionale))
 
@@ -166,7 +164,7 @@ advokat (Svezia);
 
 advocate-barrister-solicitor (Regno Unito) )).
 
-###### Art. 3
+#### Art. 3
 
 Definizioni
 
@@ -182,7 +180,7 @@ d) avvocato stabilito, il cittadino di uno degli Stati membri dell'Unione europe
 
 e) avvocato integrato, il cittadino di uno degli Stati membri dell'Unione europea che ha acquisito il diritto di utilizzare in Italia il titolo di avvocato.
 
-###### Art. 4
+#### Art. 4
 
 Esercizio delle attivita' professionali
 
@@ -200,7 +198,7 @@ Esercizio delle attivita' professionali
 
 > \- La legge 24 febbraio 1997, n. 27, reca: "Soppressione dell'albo dei procuratori legali e norme in materia di esercizio della professione forense.".
 
-###### Art. 5
+#### Art. 5
 
 Norme applicabili
 
@@ -224,15 +222,11 @@ Norme applicabili
 
 > b) gli avvocati ed i procuratori degli uffici legali istituiti sotto qualsiasi denominazione ed in qualsiasi modo presso gli enti di cui allo stesso secondo comma, per quanto concerne le cause e gli affari propri dell'ente presso il quale prestano la loro opera. Essi sono iscritti nell'elenco speciale annesso all'albo".
 
-## Titolo I - Esercizio permanente della professione di avvocato
+## Titolo I - Esercizio permanente della professione di avvocato da parte di avvocati cittadini di uno Stato membro dell'Unione europea.
 
-### da parte di avvocati cittadini di uno Stato membro - dell'Unione europea.
+### Capo II - Esercizio permanente della professione di avvocato con il titolo professionale di origine
 
-#### Capo II - Esercizio permanente della professione di avvocato
-
-##### con il titolo professionale di origine
-
-###### Art. 6
+#### Art. 6
 
 Iscrizione
 
@@ -272,7 +266,7 @@ b) attestato di iscrizione alla organizzazione professionale dello Stato membro 
 
 > \- Per la legge 22 gennaio 1934, n. 36, vedi note all'articolo 4.
 
-###### Art. 7
+#### Art. 7
 
 Uso del titolo
 
@@ -282,7 +276,7 @@ Uso del titolo
 
 3\. L'avvocato stabilito, se esercita la professione quale membro di una societa' costituita nello Stato membro di origine, e' tenuto ad aggiungere al titolo professionale la denominazione di tale studio, nonche' la forma giuridica e i nominativi dei membri che operano in Italia.
 
-###### Art. 8
+#### Art. 8
 
 Prestazioni giudiziali
 
@@ -290,7 +284,7 @@ Prestazioni giudiziali
 
 2\. L'intesa di cui al comma 1 deve risultare da scrittura privata autenticata o da dichiarazione resa da entrambi gli avvocati al giudice adito o all'autorita' procedente, anteriormente alla costituzione della parte rappresentata ovvero al primo atto di difesa dell'assistito.
 
-###### Art. 9
+#### Art. 9
 
 Patrocinio davanti alle giurisdizioni superiori
 
@@ -304,13 +298,13 @@ AGGIORNAMENTO (5)
 
 La L. 20 novembre 2017, n. 167 ha disposto (con l'art. 1, comma 2) che "Coloro che alla data di entrata in vigore della presente legge sono iscritti nella sezione speciale dell'albo di cui all'articolo 9, comma 1, del decreto legislativo 2 febbraio 2001, n. 96, conservano l'iscrizione. Possono altresi' chiedere di essere iscritti nella stessa sezione speciale coloro che alla data di entrata in vigore della presente legge abbiano maturato i requisiti per l'iscrizione secondo la normativa vigente prima della medesima data".
 
-###### Art. 10
+#### Art. 10
 
 Prestazioni stragiudiziali
 
 1\. L'avvocato stabilito ha diritto di esercitare, senza le limitazioni di cui all'articolo 8, l'attivita' professionale stragiudiziale, fornendo in particolare consulenza legale sul diritto dello Stato membro di origine, sul diritto comunitario ed internazionale, nonche' sul diritto nazionale.
 
-###### Art. 11
+#### Art. 11
 
 Procedimenti disciplinari
 
@@ -328,13 +322,11 @@ Procedimenti disciplinari
 
 7\. Se il procedimento disciplinare riguarda un avvocato che esercita stabilmente la professione in altro Stato membro con il titolo di avvocato, il Consiglio dell'ordine da' le comunicazioni di cui ai commi 2 e 5 all'organizzazione dello Stato membro presso la quale l'avvocato e' iscritto.
 
-## Titolo I - Esercizio permanente della professione di avvocato
+## Titolo I - Esercizio permanente della professione di avvocato da parte di avvocati cittadini di uno Stato membro dell'Unione europea.
 
-### da parte di avvocati cittadini di uno Stato membro - dell'Unione europea.
+### Capo III - Integrazione nella professione di avvocato
 
-#### Capo III - Integrazione nella professione di avvocato
-
-###### Art. 12
+#### Art. 12
 
 Condizioni
 
@@ -360,7 +352,7 @@ Condizioni
 
 > \- La direttiva 89/48/CEE e' pubblicata in GUCE n. L 019 del 24 gennaio 1989.
 
-###### Art. 13
+#### Art. 13
 
 Procedimento per la dispensa
 
@@ -380,7 +372,7 @@ Quest'ultimo e l'interessato possono presentare, entro venti giorni dalla notifi
 
 7\. Tutti i soggetti che, in ragione del loro ufficio, vengono a conoscenza degli elementi e delle informazioni comunque acquisiti nel corso dell'istruttoria della domanda di dispensa sono tenuti al segreto.
 
-###### Art. 14
+#### Art. 14
 
 Attivita' di durata inferiore
 
@@ -394,7 +386,7 @@ nel diritto nazionale
 
 4\. Il procedimento per la dispensa e' disciplinato dalle disposizioni di cui all'articolo 13.
 
-###### Art. 15
+#### Art. 15
 
 Uso del doppio titolo
 
@@ -404,7 +396,7 @@ Uso del doppio titolo
 
 ### Capo I - Della societa' tra avvocati
 
-###### Art. 16
+#### Art. 16
 
 Disposizioni generali
 
@@ -426,7 +418,7 @@ Disposizioni generali
 
 > \- La legge 23 novembre 1939, n. 1815, reca: "Disciplina giuridica degli studi di assistenza e di consulenza".
 
-###### Art. 17
+#### Art. 17
 
 Costituzione e oggetto
 
@@ -434,7 +426,7 @@ Costituzione e oggetto
 
 2\. La societa' tra avvocati ha per oggetto esclusivo l'esercizio in comune della professione dei propri soci. La societa' puo' rendersi acquirente di beni e diritti che siano strumentali all'esercizio della professione e compiere qualsiasi attivita' diretta a tale scopo.
 
-###### Art. 18
+#### Art. 18
 
 Ragione sociale
 
@@ -442,13 +434,13 @@ Ragione sociale
 
 2\. Non e' consentita la indicazione del nome di un socio avvocato dopo la cessazione della sua appartenenza alla societa', salvo diverso accordo tra la societa' e il socio cessato o i suoi eredi. In tal caso la utilizzazione del nome e' consentita con la indicazione "ex socio" o "socio fondatore" accanto al nominativo utilizzato, purche' non sia mutata l'intera compagine dei soci professionisti presenti al momento della cessazione della qualita' di socio.
 
-###### Art. 19
+#### Art. 19
 
 Modificazioni
 
 1\. L'atto costitutivo puo' essere modificato con deliberazione adottata da tutti i soci o con deliberazione della maggioranza di essi qualora l'atto costitutivo lo preveda e ne stabilisca le modalita'.
 
-###### Art. 20
+#### Art. 20
 
 Invalidita' della societa'
 
@@ -462,7 +454,7 @@ Invalidita' della societa'
 
 5\. La responsabilita' dei soci non e' esclusa dalla dichiarazione di nullita' o dall'annullamento dell'atto costitutivo.
 
-###### Art. 21
+#### Art. 21
 
 Requisiti soggettivi dei soci
 
@@ -478,7 +470,7 @@ e situazioni di incompatibilita'
 
 La sospensione di un socio dall'albo e' causa legittima di esclusione dalla societa'.
 
-###### Art. 22
+#### Art. 22
 
 Subentro di nuovi soci
 
@@ -486,7 +478,7 @@ Subentro di nuovi soci
 
 2\. In caso di morte di uno dei soci, gli altri devono liquidare la quota agli eredi, a meno che preferiscano sciogliere la societa' ovvero continuarla con gli eredi e questi abbiano i requisiti professionali richiesti e vi acconsentano.
 
-###### Art. 23
+#### Art. 23
 
 Amministrazione
 
@@ -494,7 +486,7 @@ Amministrazione
 
 2\. Salvo diversa pattuizione, l'amministrazione della societa' spetta a ciascuno dei soci disgiuntamente dagli altri.
 
-###### Art. 24
+#### Art. 24
 
 Incarico professionale
 
@@ -508,7 +500,7 @@ e obblighi di informazione
 
 4\. La prova dell'adempimento degli obblighi di informazione prescritti dai commi 2 e 3 e il nome del socio o dei soci indicati dal cliente devono risultare da atto scritto.
 
-###### Art. 25
+#### Art. 25
 
 Compensi
 
@@ -516,7 +508,7 @@ Compensi
 
 2\. Se la prestazione e' svolta da piu' soci, si applica il compenso spettante ad un solo professionista, salvo espressa deroga pattuita con clausola approvata per iscritto dal cliente.
 
-###### Art. 26
+#### Art. 26
 
 Responsabilita' professionale
 
@@ -532,7 +524,7 @@ Responsabilita' professionale
 
 ### Capo II - Dell'iscrizione nell'albo e della responsabilita' disciplinare
 
-###### Art. 27
+#### Art. 27
 
 Iscrizione
 
@@ -542,7 +534,7 @@ Iscrizione
 
 3\. La societa' deve mantenere nella propria sede e nelle eventuali sedi secondarie un ufficio nel quale almeno uno dei soci svolga in tale qualita' l'attivita' professionale.
 
-###### Art. 28
+#### Art. 28
 
 Procedimento di iscrizione
 
@@ -558,7 +550,7 @@ b) certificato di iscrizione nell'albo dei soci non iscritti presso il Consiglio
 
 4\. L'avvenuta iscrizione deve essere annotata nella sezione speciale del registro delle imprese, su richiesta dei socio che ha la rappresentanza della societa'.
 
-###### Art. 29
+#### Art. 29
 
 Annotazioni
 
@@ -566,7 +558,7 @@ Annotazioni
 
 2\. Il Consiglio dell'ordine, verificata l'osservanza delle disposizioni di legge, nel termine di trenta giorni dispone l'annotazione della variazione nella sezione speciale dell'albo.
 
-###### Art. 30
+#### Art. 30
 
 Responsabita' disciplinare
 
@@ -578,7 +570,7 @@ Responsabita' disciplinare
 
 4\. La previsione di cui al comma 3 si applica anche nel caso in cui l'illecito disciplinare contestato riguardi un'attivita' professionale svolta dal socio nell'ambito di una sede secondaria.
 
-###### Art. 31
+#### Art. 31
 
 Situazioni di incompatibilita'
 
@@ -590,7 +582,7 @@ o di conflitto
 
 3\. l provvedimenti previsti dal presente articolo possono essere adottati anche su richiesta del Pubblico ministero.
 
-###### Art. 32
+#### Art. 32
 
 Cancellazione dall'albo per
 
@@ -598,7 +590,7 @@ difetto sopravvenuto di un requisito
 
 1\. Il Consiglio dell'ordine presso il quale e' iscritta la societa' provvede alla cancellazione della stessa dall'albo, qualora sia venuto meno uno dei requisiti previsti dal presente titolo e la situazione di irregolarita' non sia stata sanata nel termine perentorio di tre mesi dal momento in cui si e' verificata.
 
-###### Art. 33
+#### Art. 33
 
 Elezioni dei consigli locali e nazionali
 
@@ -606,13 +598,11 @@ Elezioni dei consigli locali e nazionali
 
 2\. Non puo' essere eletto contemporaneamente nel Consiglio locale e nel Consiglio nazionale piu' di un socio della stessa societa'.
 
-## Titolo III - Esercizio della professione in forma associata o societaria
+## Titolo III - Esercizio della professione in forma associata o societaria da parte degli avvocati stabiliti
 
-### da parte degli avvocati stabiliti - Capo I
+### Capo I - Dell'esercizio in forma associata
 
-#### Dell'esercizio in forma associata
-
-###### Art. 34
+#### Art. 34
 
 Disposizioni generali
 
@@ -630,17 +620,11 @@ Disposizioni generali
 
 > \- Per la legge 23 novembre 1939, n. 1815, vedi note all'articolo 16.
 
-## Titolo III - Esercizio della professione in forma associata
+## Titolo III - Esercizio della professione in forma associata o societaria da parte degli avvocati stabiliti
 
-### o - societaria
+### Capo II - Dell'esercizio in forma societaria
 
-#### da parte degli avvocati stabiliti - Capo
-
-##### II - Dell'esercizio
-
-###### in forma societaria
-
-###### Art. 35
+#### Art. 35
 
 Partecipazione a societa' tra avvocati
 
@@ -650,7 +634,7 @@ Partecipazione a societa' tra avvocati
 
 3\. La societa' tra avvocati cui partecipano avvocati stabiliti e' soggetta alle disposizioni del titolo II del presente decreto e a tutte le disposizioni legislative, professionali e deontologiche ivi richiamate.
 
-###### Art. 36
+#### Art. 36
 
 Sede secondaria di societa'
 
@@ -662,7 +646,7 @@ Sede secondaria di societa'
 
 4\. Per l'attivita' di rappresentanza, assistenza e difesa in giudizio il socio che sia avvocato stabilito e' tenuto ad agire d'intesa con altro ((professionista in possesso del titolo di avvocato)), abilitato ad esercitare davanti all'autorita' adita o procedente.
 
-###### Art. 37
+#### Art. 37
 
 Norme applicabili
 
@@ -670,13 +654,11 @@ Norme applicabili
 
 2\. Ai soci che esercitano con il titolo professionale di origine nell'ambito della sede secondaria con rappresentanza stabile, nonche' alle sedi secondarie si applicano rispettivamente le disposizioni di cui ai titoli I e II del presente decreto e le altre disposizioni che disciplinano l'istituzione di una o piu' sedi secondarie in Italia da parte di societa' costituite all'estero.
 
-## Titolo III - Esercizio della professione in forma associata o societaria
+## Titolo III - Esercizio della professione in forma associata o societaria da parte degli avvocati stabiliti
 
-### da parte degli avvocati stabiliti - Capo III
+### Capo III - Disposizioni transitorie e finali
 
-#### Disposizioni transitorie e finali
-
-###### Art. 38
+#### Art. 38
 
 Attivita' professionale pregressa
 

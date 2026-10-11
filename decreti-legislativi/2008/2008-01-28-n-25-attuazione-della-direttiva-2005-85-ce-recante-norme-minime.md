@@ -50,17 +50,15 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Disposizioni generali
 
-### Disposizioni generali
-
-#### Art. 1
+### Art. 1
 
 Finalita'
 
 1\. Il presente decreto stabilisce le procedure per l'esame delle domande di protezione internazionale presentate nel territorio nazionale ((comprese le frontiere, e le relative zone di transito, nonche' le acque territoriali)) da cittadini di Paesi non appartenenti alla Unione europea o da apolidi, di seguito denominati: «stranieri», e le procedure per la revoca e la cessazione degli status riconosciuti.
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -92,7 +90,7 @@ i-bis) «EASO»: european asylum support office/ufficio europeo di sostegno per 
 
 m) LETTERA SOPPRESSA DAL D.LGS. 18 AGOSTO 2015, N. 142.
 
-#### Art. 2-bis - Paesi di origine sicuri
+### Art. 2-bis - Paesi di origine sicuri
 
 ((1. In applicazione dei criteri di qualificazione stabiliti dalla normativa dell'Unione europea e dei riscontri rinvenuti dalle fonti di informazione fornite dalle organizzazioni internazionali competenti, sono considerati Paesi di origine sicuri i seguenti:
 
@@ -116,7 +114,7 @@ d) un sistema di ricorsi effettivi contro le violazioni di tali diritti e libert
 
 5\. Un Paese designato di origine sicuro ai sensi del presente articolo puo' essere considerato Paese di origine sicuro per il richiedente solo se questi ha la cittadinanza di quel Paese o e' un apolide che in precedenza soggiornava abitualmente in quel Paese e non ha invocato gravi motivi per ritenere che quel Paese non e' sicuro per la situazione particolare in cui lo stesso richiedente si trova.
 
-#### Art. 3
+### Art. 3
 
 Autorita' competenti
 
@@ -162,7 +160,7 @@ AGGIORNAMENTO (22)
 
 E' stato ripristinato il testo gia' in vigore dal 5-10-2018 a seguito della soppressione del numero 1) della lettera a) dell'art. 17, comma 1 del D.L. 11 ottobre 2024, n. 145, che disponeva la modifica del comma 3-septies del presente articolo, ad opera della L. 9 dicembre 2024, n. 187, di conversione del D.L. medesimo.
 
-#### Art. 4
+### Art. 4
 
 Commissioni territoriali per il riconoscimento della protezionen internazionale
 
@@ -198,7 +196,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 22 dicembre 2017, n. 220, ha disposto (con l'art. 4, comma 1) che "Fino alla nomina dei componenti di cui al contingente di personale altamente qualificato per l'esercizio di funzioni di carattere specialistico di cui all'articolo 12 del decreto-legge 17 febbraio 2017, n. 13, convertito, con modificazioni, dalla legge 13 aprile 2017, n. 46, le Commissioni territoriali per il riconoscimento della protezione internazionale di cui all'articolo 4 del decreto legislativo 28 gennaio 2008, n. 25, continuano ad operare nella composizione e con le modalita' vigenti alla data di entrata in vigore del presente decreto".
 
-#### Art. 5
+### Art. 5
 
 Commissione nazionale per il diritto di asilo
 
@@ -218,11 +216,9 @@ L'incarico ha durata triennale ed e' rinnovabile. La Commissione e' validamente 
 
 3\. Con decreto del Presidente del Consiglio dei Ministri, su proposta dei Ministri dell'interno e degli affari esteri, possono essere istituite una o piu' sezioni della Commissione nazionale. I componenti di ciascuna sezione sono individuati e nominati secondo quanto previsto al comma 2. Le sezioni della Commissione nazionale sono validamente costituite e deliberano con le medesime modalita' previste per la Commissione nazionale.
 
-## Capo II
+## Capo II - Principi fondamentali e garanzie
 
-### Principi fondamentali e garanzie
-
-#### Art. 6
+### Art. 6
 
 Accesso alla procedura
 
@@ -234,13 +230,13 @@ Accesso alla procedura
 
 3-bis. Nel caso in cui lo straniero non si presenti presso l'ufficio di polizia territorialmente competente per la verifica dell'identita' dal medesimo dichiarata e la formalizzazione della domanda di protezione internazionale, la manifestazione di volonta' precedentemente espressa non costituisce domanda secondo le procedure previste dal presente decreto e il procedimento non e' instaurato.
 
-#### Art. 7
+### Art. 7
 
 (( (Diritto di rimanere nel territorio dello Stato durante l'esame della domanda).))
 
 1\. ((Il richiedente ha diritto di rimanere nel territorio dello Stato fino alla decisione della Commissione territoriale adottata ai sensi dell'articolo 32 e, se ha presentato ricorso giurisdizionale, fino alla decisione di primo grado, fatta eccezione per i casi previsti dall'articolo 10, paragrafi 3 e 4, del regolamento (UE) 2024/1348 e fatto salvo quanto previsto dall'articolo 35-bis, commi 3 e 5, e dall'articolo 35-ter, commi 1, 4 e 6.))
 
-#### Art. 8
+### Art. 8
 
 Criteri applicabili all'esame delle domande
 
@@ -252,7 +248,7 @@ Criteri applicabili all'esame delle domande
 
 ((3-bis. Ove necessario ai fini dell'esame della domanda, la Commissione territoriale puo' consultare esperti su aspetti particolari come quelli di ordine sanitario, culturale, religioso, di genere o inerenti ai minori. La Commissione, sulla base degli elementi forniti dal richiedente, puo' altresi' disporre, previo consenso del richiedente, visite mediche dirette ad accertare gli esiti di persecuzioni o danni gravi subiti effettuate secondo le linee guida di cui all'articolo 27, comma 1-bis, del decreto legislativo 19 novembre 2007, n. 251, e successive modificazioni. Se la Commissione non dispone una visita medica, il richiedente puo' effettuare la visita medica a proprie spese e sottoporne i risultati alla Commissione medesima ai fini dell'esame della domanda.))
 
-#### Art. 9
+### Art. 9
 
 Criteri applicabili alle decisioni dell'autorita' accertante
 
@@ -262,7 +258,7 @@ Criteri applicabili alle decisioni dell'autorita' accertante
 
 ((2-bis. La decisione con cui e' rigettata la domanda presentata dal richiedente di cui all'articolo 2-bis, comma 5, e' motivata dando atto esclusivamente che il richiedente non ha dimostrato la sussistenza di gravi motivi per ritenere non sicuro il Paese designato di origine sicuro in relazione alla situazione particolare del richiedente stesso)).
 
-#### Art. 10
+### Art. 10
 
 Garanzie per i richiedenti asilo
 
@@ -296,7 +292,7 @@ Ove necessario, si provvede alla traduzione della documentazione prodotta dal ri
 
 5\. In caso di impugnazione della decisione in sede giurisdizionale, allo straniero, durante lo svolgimento del relativo giudizio, sono assicurate le stesse garanzie di cui al presente articolo.
 
-#### Art. 10-bis
+### Art. 10-bis
 
 (( (Informazione e servizi di accoglienza ai valichi di frontiera).))
 
@@ -304,7 +300,7 @@ Ove necessario, si provvede alla traduzione della documentazione prodotta dal ri
 
 2\. E' assicurato l'accesso ai valichi di frontiera dei rappresentanti dell'UNHCR e degli enti di tutela dei titolari di protezione internazionale con esperienza consolidata nel settore. Per motivi di sicurezza, ordine pubblico o comunque per ragioni connesse alla gestione amministrativa, l'accesso puo' essere limitato, purche' non impedito completamente.))
 
-#### Art. 11
+### Art. 11
 
 Obblighi del richiedente asilo
 
@@ -332,7 +328,7 @@ AGGIORNAMENTO (8)
 
 Il D.L. 17 febbraio 2017, n. 13, convertito con modificazioni dalla L. 13 aprile 2017, n. 46, ha disposto (con l'art. 21, comma 3) che ai fini dell'adeguamento delle specifiche tecniche connesse all'attuazione delle presenti modifiche, le notificazioni degli atti e dei provvedimenti del procedimento per il riconoscimento della protezione internazionale effettuate fino al centottantesimo giorno successivo alla data di entrata in vigore del suindicato D.L. sono effettuate con le modalita' in vigore prima della predetta data.
 
-#### Art. 12
+### Art. 12
 
 Colloquio personale
 
@@ -358,7 +354,7 @@ AGGIORNAMENTO (8)
 
 Il D.L. 17 febbraio 2017, n. 13, convertito con modificazioni dalla L. 13 aprile 2017, n. 46, ha disposto (con l'art. 21, comma 3) che ai fini dell'adeguamento delle specifiche tecniche connesse all'attuazione della presente modifica, le notificazioni degli atti e dei provvedimenti del procedimento per il riconoscimento della protezione internazionale effettuate fino al centottantesimo giorno successivo alla data di entrata in vigore del suindicato D.L. sono effettuate con le modalita' in vigore prima della predetta data.
 
-#### Art. 13
+### Art. 13
 
 Criteri applicabili al colloquio personale
 
@@ -372,7 +368,7 @@ Criteri applicabili al colloquio personale
 
 4\. Se il cittadino straniero e' assistito da un avvocato ai sensi dell'articolo 16, questi e' ammesso ad assistere al colloquio e puo' chiedere di prendere visione del verbale e di acquisirne copia.
 
-#### Art. 14
+### Art. 14
 
 (( (Verbale del colloquio personale). ))
 
@@ -406,7 +402,7 @@ AGGIORNAMENTO (8)
 
 Il D.L. 17 febbraio 2017, n. 13, convertito con modificazioni dalla L. 13 aprile 2017, n. 46, ha disposto (con l'art. 21, comma 2) che la presente modifica si applica relativamente alle domande di protezione internazionale presentate dopo il centottantesimo giorno dalla data di entrata in vigore del suindicato D.L. Per le domande di protezione internazionale presentate anteriormente alla scadenza del termine di cui al periodo precedente si continuano ad applicare le disposizioni vigenti prima della data di entrata in vigore del medesimo D.L.
 
-#### Art. 15
+### Art. 15
 
 Formazione delle commissioni territoriali e del personale
 
@@ -416,7 +412,7 @@ Formazione delle commissioni territoriali e del personale
 
 1-bis. La formazione di cui al comma 1 e' effettuata anche in collaborazione con l'((UNHCR)) e con l'Ufficio europeo di sostegno per l'asilo di cui al regolamento (UE) n. 439/2010 del Parlamento europeo e del Consiglio, del 19 maggio 2010.
 
-#### Art. 16
+### Art. 16
 
 Diritto all'assistenza e alla rappresentanza legali
 
@@ -424,13 +420,13 @@ Diritto all'assistenza e alla rappresentanza legali
 
 2\. Nel caso di impugnazione delle decisioni in sede giurisdizionale, il cittadino straniero e' assistito da un avvocato ed e' ammesso al gratuito patrocinio ove ricorrano le condizioni previste dal decreto del Presidente della Repubblica 30 maggio 2002, n. 115. In ogni caso per l'attestazione dei redditi prodotti all'estero si applica l'articolo 94 del medesimo decreto.
 
-#### Art. 17
+### Art. 17
 
 Ambito di applicazione dell'assistenza e della rappresentanza legali
 
 1\. Al cittadino straniero o al suo legale rappresentante, nonche' all'avvocato che eventualmente lo assiste, e' garantito l'accesso a tutte le informazioni relative alla procedura ((, alle fonti di prova utilizzate e agli elementi di valutazione adottati,)) che potrebbero formare oggetto di giudizio in sede di ricorso avverso la decisione della Commissione territoriale o della Commissione nazionale, con le modalita' di cui all'articolo 18.
 
-#### Art. 18
+### Art. 18
 
 Applicazione della legge 7 agosto 1990, n. 241
 
@@ -482,7 +478,7 @@ Applicazione della legge 7 agosto 1990, n. 241
 
 > b) di presentare memorie scritte e documenti, che l'amministrazione ha l'obbligo di valutare ove siano pertinenti all'oggetto del procedimento.».
 
-#### Art. 19
+### Art. 19
 
 Garanzie per i minori non accompagnati
 
@@ -494,25 +490,25 @@ Garanzie per i minori non accompagnati
 
 4\. Il minore partecipa al colloquio personale secondo quanto previsto dall'articolo 13, comma 3, ed allo stesso e' garantita adeguata informazione sul significato e le eventuali conseguenze del colloquio personale.
 
-#### Art. 20
+### Art. 20
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 142))
 
-#### Art. 21
+### Art. 21
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 142))
 
-#### Art. 22
+### Art. 22
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 142))
 
-#### Art. 23
+### Art. 23
 
 Ritiro della domanda
 
 1\. Nel caso in cui il richiedente decida di ritirare la domanda prima dell'audizione presso la competente Commissione territoriale, il ritiro e' formalizzato per iscritto e comunicato alla Commissione territoriale che dichiara l'estinzione del procedimento.
 
-#### Art. 23-bis
+### Art. 23-bis
 
 (( (Ritiro implicito della domanda).))
 
@@ -522,7 +518,7 @@ Ritiro della domanda
 
 3\. ((Alle decisioni di cui ai commi 1 e 2 si applicano le disposizioni di cui all'articolo 32, commi 4 e 4-bis.))
 
-#### Art. 24
+### Art. 24
 
 Ruolo dell'((UNHCR))
 
@@ -530,7 +526,7 @@ Ruolo dell'((UNHCR))
 
 2\. L'((UNHCR)) svolge in relazione ai propri compiti istituzionali attivita' di consulenza e di supporto a favore del Dipartimento per le liberta' civili e l'immigrazione del Ministero dell'interno e delle Commissioni territoriali e nazionale, su richiesta del Ministero dell'interno.
 
-#### Art. 25
+### Art. 25
 
 Raccolta di informazioni su singoli casi
 
@@ -538,11 +534,9 @@ Raccolta di informazioni su singoli casi
 
 2\. Le Commissioni territoriali e la Commissione nazionale in nessun caso forniscono informazioni circa la domanda di protezione internazionale presentata dal richiedente ovvero altre informazioni che possano nuocere all'incolumita' del richiedente e delle persone a suo carico, ovvero alla liberta' e alla sicurezza dei suoi familiari che ancora risiedono nel Paese di origine.
 
-## Capo III
+## Capo III - Procedure di primo grado
 
-### Procedure di primo grado
-
-#### Art. 26
+### Art. 26
 
 ((Presentazione della domanda di protezione internazionale))
 
@@ -572,7 +566,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 22 dicembre 2017, n. 220, ha disposto (con l'art. 4, comma 2) che "Le disposizioni di cui all'articolo 2, comma 1, lettera b), e comma 2, si applicano in relazione alle comunicazioni effettuate dopo il trentesimo giorno dalla data di entrata in vigore del presente decreto; le disposizioni di cui all'articolo 2, comma 1, lettera c), numero 2), si applicano in relazione agli esami socio-sanitari disposti dopo la data di entrata in vigore del presente decreto".
 
-#### Art. 26-bis
+### Art. 26-bis
 
 (( (Registrazione della domanda di protezione internazionale).))
 
@@ -582,7 +576,7 @@ Il D.Lgs. 22 dicembre 2017, n. 220, ha disposto (con l'art. 4, comma 2) che "Le 
 
 3\. ((All'esito della procedura di registrazione, la questura rilascia il documento di cui all'articolo 4, comma 1, del decreto legislativo 18 agosto 2015, n. 142.))
 
-#### Art. 26-ter
+### Art. 26-ter
 
 (( (Formalizzazione della domanda di protezione internazionale).)) 1. ((La domanda di protezione internazionale e' formalizzata dal richiedente presso le Commissioni territoriali per il riconoscimento della protezione internazionale per il tramite dei soggetti esterni convenzionati di cui all'articolo 26, comma 1, che, a tal fine, accedono al portale informatico messo a disposizione dal Dipartimento per le liberta' civili e l'immigrazione del Ministero dell'interno.
 
@@ -590,7 +584,7 @@ Nel caso in cui sia accolto presso i centri di cui agli articoli 9 e 11 del decr
 
 2\. ((Fatto salvo quanto previsto dall'articolo 29, paragrafo 5, del regolamento (UE) 2024/1348, a seguito della formalizzazione della domanda, al richiedente e' rilasciato il documento di cui all'articolo 4, comma 4, del decreto legislativo 18 agosto 2015, n. 142.))
 
-#### Art. 27
+### Art. 27
 
 Procedure di esame
 
@@ -612,7 +606,7 @@ c) il ritardo e' da attribuire all'inosservanza da parte del richiedente degli o
 
 3-bis. In casi eccezionali, debitamente motivati, il termine di nove mesi di cui al comma 3 puo' essere ulteriormente prorogato di tre mesi ove necessario per assicurare un esame adeguato e completo della domanda.
 
-#### Art. 28 - Esame prioritario
+### Art. 28 - Esame prioritario
 
 1\. Il presidente della Commissione territoriale, previo esame preliminare delle domande, determina i casi di trattazione prioritaria, ((ai sensi dell'articolo 34, paragrafo 5, del regolamento (UE) 2024/1348)), e quelli per i quali applicare la procedura accelerata, ((ai sensi dell'articolo 42, paragrafo 1, del regolamento (UE) 2024/1348)). La Commissione territoriale informa tempestivamente il richiedente delle determinazioni procedurali assunte ai sensi del periodo precedente.
 
@@ -626,7 +620,7 @@ AGGIORNAMENTO (12)
 
 Il D.L. 21 ottobre 2020, n. 130, convertito con modificazioni dalla L. 18 dicembre 2020, n. 173, ha disposto (con l'art. 15, comma 2) che "Le disposizioni di cui all'articolo 2, comma 1, lettere a), b, c), d) ed e) si applicano anche ai procedimenti pendenti alla data di entrata in vigore del presente decreto avanti alle commissioni territoriali".
 
-#### Art. 28-bis - ((Individuazione delle zone di frontiera e di transito))
+### Art. 28-bis - ((Individuazione delle zone di frontiera e di transito))
 
 1\. ((COMMA ABROGATO DAL D.L. 12 GIUGNO 2026, N. 100)).
 
@@ -642,13 +636,13 @@ Il D.L. 21 ottobre 2020, n. 130, convertito con modificazioni dalla L. 18 dicemb
 
 6\. ((COMMA ABROGATO DAL D.L. 12 GIUGNO 2026, N. 100)).
 
-#### Art. 28-bis.1
+### Art. 28-bis.1
 
 (( (Termini per lo svolgimento della procedura di asilo alla frontiera). )).
 
 1\. ((Nel rispetto dei termini stabiliti dagli articoli 51 e 73 del regolamento (UE) 2024/1348, qualora sia stata determinata l'applicazione della procedura accelerata in frontiera, la Commissione territoriale competente per l'esame adotta e comunica la decisione sulla domanda entro quattro settimane.))
 
-#### Art. 28-bis.2
+### Art. 28-bis.2
 
 (( (Trasferimento del richiedente sottoposto alla procedura di asilo alla frontiera). )).
 
@@ -656,13 +650,13 @@ Il D.L. 21 ottobre 2020, n. 130, convertito con modificazioni dalla L. 18 dicemb
 
 2\. ((Il trasferimento verso le strutture di cui al comma 1 e l'accoglienza nelle medesime non costituiscono autorizzazione all'ingresso nel territorio nazionale e non determinano la cessazione dell'obbligo del richiedente di restare a disposizione delle competenti autorita'.))
 
-#### Art. 28-ter
+### Art. 28-ter
 
 (( (Domanda manifestamente infondata).))
 
 1\. ((La Commissione territoriale respinge la domanda per manifesta infondatezza, ai sensi dell'articolo 39 del regolamento (UE) 2024/1348 se, al momento della conclusione dell'esame, ricorre una delle fattispecie di cui all'articolo 42, paragrafo 1, lettere a), b), c), d), e), f), g), h), i) e j), e paragrafo 3, del suddetto regolamento.))
 
-#### Art. 29
+### Art. 29
 
 Casi di inammissibilita' della domanda
 
@@ -676,7 +670,7 @@ b) ((si tratta di una domanda reiterata ai sensi dell'articolo 38, paragrafo 2, 
 
 Nell'ipotesi di cui al comma 1, lettera a), il presidente della Commissione procede anche all'audizione del richiedente sui motivi addotti a sostegno dell'ammissibilita' della domanda nel suo caso specifico.
 
-#### Art. 29-bis - Domanda reiterata in fase di esecuzione di un provvedimento di allontanamento
+### Art. 29-bis - Domanda reiterata in fase di esecuzione di un provvedimento di allontanamento
 
 1\. Se lo straniero presenta una prima domanda reiterata nella fase di esecuzione di un provvedimento che ne comporterebbe l'imminente allontanamento dal territorio nazionale, la domanda e' trasmessa con immediatezza al presidente della Commissione territoriale competente, che procede all'esame preliminare entro tre giorni, valutati anche i rischi di respingimento diretti e indiretti, e contestualmente ne dichiara l'inammissibilita' ove non siano stati addotti nuovi elementi, ai sensi dell'articolo 29, comma 1, lettera b).
 
@@ -690,7 +684,7 @@ AGGIORNAMENTO (12)
 
 Il D.L. 21 ottobre 2020, n. 130, convertito con modificazioni dalla L. 18 dicembre 2020, n. 173, ha disposto (con l'art. 15, comma 2) che "Le disposizioni di cui all'articolo 2, comma 1, lettere a), b, c), d) ed e) si applicano anche ai procedimenti pendenti alla data di entrata in vigore del presente decreto avanti alle commissioni territoriali".
 
-#### Art. 30
+### Art. 30
 
 Casi soggetti alla procedura di cui al regolamento (CE) n. 343/2003 ((7))
 
@@ -706,13 +700,13 @@ AGGIORNAMENTO (7)
 
 Il D.Lgs. 18 agosto 2015, n. 142 ha disposto (con l'art. 26, comma 1) che "Nel decreto legislativo 28 gennaio 2008, n. 25, le parole: "regolamento (CE) n. 343/2003, del Consiglio, del 18 febbraio 2003," ovunque presenti, sono sostituite dalle seguenti: "regolamento (UE) n. 604//2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013"."
 
-#### Art. 31
+### Art. 31
 
 Acquisizione di ulteriori dichiarazioni o di nuovi elementi
 
 1\. Il richiedente puo' inviare alla Commissione territoriale memorie e documentazione in ogni fase del procedimento. Nel caso in cui il richiedente reitera la domanda prima della decisione della Commissione territoriale, gli elementi che sono alla base della nuova domanda sono esaminati nell'ambito della precedente domanda.
 
-#### Art. 32
+### Art. 32
 
 Decisione
 
@@ -758,11 +752,9 @@ AGGIORNAMENTO (12)
 
 Il D.L. 21 ottobre 2020, n. 130 ha disposto (con l'art. 15, comma 2) che "Le disposizioni di cui all'articolo 2, comma 1, lettere a), b, c), d) ed e) si applicano anche ai procedimenti pendenti alla data di entrata in vigore del presente decreto avanti alle commissioni territoriali".
 
-## Capo IV
+## Capo IV - Revoca, cessazione e rinuncia della protezione internazionale
 
-### Revoca, cessazione e rinuncia della protezione internazionale
-
-#### Art. 33
+### Art. 33
 
 Revoca e cessazione della protezione internazionale riconosciuta
 
@@ -786,17 +778,15 @@ AGGIORNAMENTO (8)
 
 Il D.L. 17 febbraio 2017, n. 13, convertito con modificazioni dalla L. 13 aprile 2017, n. 46, ha disposto (con l'art. 21, comma 3) che ai fini dell'adeguamento delle specifiche tecniche connesse all'attuazione della presente modifica, le notificazioni degli atti e dei provvedimenti del procedimento per il riconoscimento della protezione internazionale effettuate fino al centottantesimo giorno successivo alla data di entrata in vigore del suindicato D.L. sono effettuate con le modalita' in vigore prima della predetta data.
 
-#### Art. 34
+### Art. 34
 
 Rinuncia agli status riconosciuti
 
 1\. La rinuncia espressa allo status di rifugiato o di soggetto ammesso alla protezione sussidiaria determina la decadenza dal medesimo status.
 
-## Capo V
+## Capo V - Procedure di impugnazione
 
-### Procedure di impugnazione
-
-#### Art. 35
+### Art. 35
 
 Impugnazione
 
@@ -844,7 +834,7 @@ AGGIORNAMENTO (8)
 
 Il D.L. 17 febbraio 2017, n. 13, convertito con modificazioni dalla L. 13 aprile 2017, n. 46, ha disposto (con l'art. 21, comma 1) che le presenti modifiche si applicano alle cause e ai procedimenti giudiziari sorti dopo il centottantesimo giorno dalla data di entrata in vigore del suindicato D.L. Alle cause e ai procedimenti giudiziari introdotti anteriormente alla scadenza del termine di cui al periodo precedente si continuano ad applicare le disposizioni vigenti prima dell'entrata in vigore del medesimo D.L.
 
-#### Art. 35-bis - Delle controversie in materia di riconoscimento della protezione internazionale
+### Art. 35-bis - Delle controversie in materia di riconoscimento della protezione internazionale
 
 1\. Le controversie aventi ad oggetto l'impugnazione dei provvedimenti previsti dall'articolo 35 anche per mancato riconoscimento dei presupposti per la protezione speciale a norma dell'articolo 32, comma 3, sono regolate dalle disposizioni di cui agli articoli 737 e seguenti del codice di procedura civile, ove non diversamente disposto dal presente articolo ((e, quanto alle procedure di frontiera, dall'articolo 35-ter)).
 
@@ -922,19 +912,19 @@ AGGIORNAMENTO (20)
 
 Il D.L. 11 ottobre 2024, n. 145, convertito con modificazioni dalla L. 9 dicembre 2024, n. 187, ha disposto (con l'art. 19, comma 1) che "Le disposizioni del capo IV si applicano decorsi trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto".
 
-#### Art. 35-bis.1
+### Art. 35-bis.1
 
 ((ARTICOLO NON PIU' PREVISTO DAL D.L. 11 OTTOBRE 2024, N. 145, CONVERTITO CON MODIFICAZIONI DALLA L. 9 DICEMBRE 2024, N. 187))
 
-#### Art. 35-bis.2
+### Art. 35-bis.2
 
 ((ARTICOLO NON PIU' PREVISTO DAL D.L. 11 OTTOBRE 2024, N. 145, CONVERTITO CON MODIFICAZIONI DALLA L. 9 DICEMBRE 2024, N. 187))
 
-#### Art. 35-bis.3
+### Art. 35-bis.3
 
 ((ARTICOLO NON PIU' PREVISTO DAL D.L. 11 OTTOBRE 2024, N. 145, CONVERTITO CON MODIFICAZIONI DALLA L. 9 DICEMBRE 2024, N. 187))
 
-#### Art. 35-ter
+### Art. 35-ter
 
 (( (Delle controversie in materia di riconoscimento della protezione internazionale nella procedura di frontiera).))
 
@@ -952,21 +942,19 @@ Il D.L. 11 ottobre 2024, n. 145, convertito con modificazioni dalla L. 9 dicembr
 
 8\. ((Il ricorrente non e' autorizzato e non ha diritto di rimanere quando e' rigettata l'istanza presentata ai sensi del comma 3 o quando e' rigettato il ricorso con il decreto previsto dal comma 6.))
 
-#### Art. 36
+### Art. 36
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 142))
 
-## Capo VI
+## Capo VI - Disposizioni finali e transitorie
 
-### Disposizioni finali e transitorie
-
-#### Art. 37
+### Art. 37
 
 Riservatezza
 
 1\. Tutti i soggetti coinvolti nei procedimenti disciplinati nel presente decreto sono soggetti all'obbligo di riservatezza relativamente a tutte le informazioni ottenute nel corso del procedimento.
 
-#### Art. 38
+### Art. 38
 
 Regolamenti di attuazione
 
@@ -1024,7 +1012,7 @@ Regolamenti di attuazione
 
 > \- Per il decreto del Presidente della Repubblica 16 settembre 2004, n. 303, si vedano le note alle premesse.
 
-#### Art. 39
+### Art. 39
 
 Disposizioni finanziarie
 
@@ -1050,7 +1038,7 @@ AGGIORNAMENTO (7)
 
 Il D.Lgs. 18 agosto 2015, n. 142 ha disposto (con l'art. 28, comma 3) che "Il riferimento agli articoli 20, commi 2, 3 e 4, nonche' agli articoli 35 e 36, del decreto legislativo 28 gennaio 2008, n. 25, contenuto nell'articolo 39, comma 5, del medesimo decreto legislativo, deve intendersi sostituito dal riferimento, rispettivamente, agli articoli 9 e 14, comma 4, del presente decreto".
 
-#### Art. 40
+### Art. 40
 
 Abrogazioni
 

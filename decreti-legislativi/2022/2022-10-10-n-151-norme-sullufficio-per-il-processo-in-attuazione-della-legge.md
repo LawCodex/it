@@ -64,7 +64,7 @@ il seguente decreto legislativo:
 
 ## Capo I - Disposizioni generali
 
-#### Art. 1
+### Art. 1
 
 Ufficio per il processo e ufficio spoglio, analisi e documentazione
 
@@ -78,13 +78,13 @@ Ufficio per il processo e ufficio spoglio, analisi e documentazione
 
 5\. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri per la finanza pubblica. Le amministrazioni interessate alla relativa attuazione vi provvedono con le sole risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
-#### Art. 2
+### Art. 2
 
 Finalita'
 
 1\. Gli uffici per il processo e l'ufficio spoglio, analisi e documentazione sono costituiti al fine di garantire la ragionevole durata del processo attraverso l'innovazione dei modelli organizzativi e un piu' efficiente impiego delle tecnologie dell'informazione e della comunicazione.
 
-#### Art. 3
+### Art. 3
 
 Costituzione, direzione e coordinamento degli uffici
 
@@ -92,7 +92,7 @@ Costituzione, direzione e coordinamento degli uffici
 
 2-bis. ((Le attivita' di cui ai commi 1 e 2 sono svolte nel rispetto delle disposizioni dettate dal decreto legislativo n. 240 del 2006.))
 
-#### Art. 4
+### Art. 4
 
 Componenti degli uffici per il processo e dell'ufficio spoglio, analisi e documentazione
 
@@ -122,11 +122,9 @@ h) ogni altra figura professionale istituita dalla legge per lo svolgimento di u
 
 5\. I componenti dell'ufficio per il processo sono tenuti all'obbligo di riservatezza rispetto ai dati, alle informazioni e alle notizie acquisite nel corso dell'attivita' prestata presso l'ufficio stesso, con obbligo di mantenere il segreto su quanto appreso in ragione della loro attivita' e di astenersi dalla deposizione testimoniale.
 
-## Capo II - Compiti degli uffici per il processo e dell'ufficio spoglio, analisi
+## Capo II - Compiti degli uffici per il processo e dell'ufficio spoglio, analisi e documentazione
 
-### e documentazione
-
-#### Art. 5
+### Art. 5
 
 Compiti dell'ufficio per il processo civile presso i tribunali e le corti d'appello
 
@@ -148,7 +146,7 @@ g) supporto per l'attuazione dei progetti organizzativi finalizzati ad increment
 
 1-bis. ((Il personale di cui all'articolo 4, comma 1, lettera f), e' impiegato nelle attivita' di cui al comma 1, lettere a), b), c) e d), nelle altre attivita' previste dalla contrattazione collettiva di comparto e, in via residuale, al presidio delle attivita' che la legge attribuisce alle cancellerie, al fine di assicurare un qualificato supporto all'attivita' giurisdizionale.))
 
-#### Art. 6
+### Art. 6
 
 Compiti dell'ufficio per il processo penale presso i tribunali e le corti d'appello
 
@@ -166,7 +164,7 @@ d) fornire supporto al magistrato nell'accelerazione dei processi di innovazione
 
 2\. L'ufficio per il processo penale istituito presso la corte di appello effettua prioritariamente uno spoglio mirato dei fascicoli al fine di individuare la prossima scadenza dei termini e la maturazione dell'improcedibilita' per superamento dei termini di durata massima del giudizio di impugnazione.
 
-#### Art. 7
+### Art. 7
 
 Compiti dell'ufficio per il processo civile
 
@@ -204,7 +202,7 @@ f) raccolta di materiale e documentazione anche per le attivita' necessarie per 
 
 > Se entro il termine indicato al secondo comma la parte chiede la decisione, la Corte procede ai sensi dell'articolo 380-bis.1, e quando definisce il giudizio in conformita' alla proposta applica il terzo e il quarto comma dell'articolo 96.».
 
-#### Art. 8
+### Art. 8
 
 Compiti dell'ufficio per il processo penale
 
@@ -282,7 +280,7 @@ e) raccolta di materiale e documentazione anche per le attivita' necessarie per 
 
 > 2\. Nel caso di ricorso per cassazione, a cura della cancelleria del giudice che ha emesso il provvedimento impugnato, e' inserita in separato fascicolo allegato al ricorso, qualora non gia' contenuta negli atti trasmessi, copia degli atti specificamente indicati da chi ha proposto l'impugnazione ai sensi dell'articolo 606, comma 1, lettera e), del codice; della loro mancanza e' fatta attestazione.».
 
-#### Art. 9
+### Art. 9
 
 Compiti dell'ufficio spoglio, analisi e documentazione
 
@@ -312,7 +310,7 @@ d) raccolta di materiale e documentazione per la predisposizione dell'intervento
 
 > La pronuncia della Corte non ha effetto sul provvedimento del giudice di merito.».
 
-#### Art. 10
+### Art. 10
 
 Compiti dell'ufficio per il processo penale
 
@@ -330,7 +328,7 @@ d) raccolta di materiale e documentazione per la predisposizione dell'intervento
 
 2\. L'ufficio per il processo penale presso la Procura generale della Corte di cassazione opera sotto la direzione e il coordinamento degli avvocati generali e dei magistrati dell'ufficio.
 
-#### Art. 11
+### Art. 11
 
 Ulteriori compiti degli uffici per il processo e
 
@@ -338,11 +336,9 @@ dell'ufficio spoglio, analisi e documentazione
 
 1\. Fermo quanto previsto dall'articolo 4, comma 2, gli uffici per il processo e l'ufficio spoglio, analisi e documentazione svolgono anche le ulteriori attivita' di supporto all'esercizio della funzione giudiziaria e di raccordo con le cancellerie e i servizi amministrativi degli uffici giudiziari, previste dai documenti organizzativi degli uffici giudiziari.
 
-## Capo III - Ufficio per il processo presso il tribunale per le persone, per i
+## Capo III - Ufficio per il processo presso il tribunale per le persone, per i minorenni e per le famiglie
 
-### minorenni e per le famiglie
-
-#### Art. 12
+### Art. 12
 
 Ufficio per il processo presso le sezioni distrettuali
 
@@ -356,7 +352,7 @@ e le sezioni circondariali
 
 > \- Per l'articolo 6 del citato regio decreto-legge 20 luglio 1934, n. 1404, si vedano le note alle premesse.
 
-#### Art. 13
+### Art. 13
 
 Costituzione dell'ufficio per il processo
 
@@ -364,7 +360,7 @@ Costituzione dell'ufficio per il processo
 
 2\. I componenti dell'ufficio per il processo possono essere autorizzati allo svolgimento di specifiche attivita' connesse all'esercizio dell'attivita' giudiziaria, e nei limiti della stessa, fuori dalle sedi del tribunale. L'autorizzazione e' concessa dal presidente della sezione, o da altro magistrato da questi delegato, nell'ambito delle rispettive competenze.
 
-#### Art. 14
+### Art. 14
 
 Funzioni e compiti dei giudici onorari di pace
 
@@ -374,7 +370,7 @@ Funzioni e compiti dei giudici onorari di pace
 
 > \- Per gli articoli 10, 11, 13 e 14 del citato decreto legislativo 13 luglio 2017, n. 116, si vedano le note all'articolo 4 del presente decreto.
 
-#### Art. 15
+### Art. 15
 
 Funzioni e compiti dei giudici onorari esperti
 
@@ -392,7 +388,7 @@ Funzioni e compiti dei giudici onorari esperti
 
 ## Capo IV - Disposizioni finali, transitorie e abrogazioni
 
-#### Art. 16
+### Art. 16
 
 Disposizioni finanziarie
 
@@ -408,13 +404,13 @@ Disposizioni finanziarie
 
 > \- Per l'articolo 1, comma 41, della citata legge 26 novembre 2021, n. 206, si vedano le note alle premesse.
 
-#### Art. 17
+### Art. 17
 
 Disposizioni transitorie
 
 1\. I giudici onorari assegnati ai tribunali per i minorenni al momento dell'istituzione del tribunale per le persone, per i minorenni e per le famiglie, ferme le disposizioni che prevedono la loro presenza nella composizione dei collegi per i minorenni e per le famiglie nella sezione distrettuale, sono assegnati all'ufficio per il processo, oltre che nella sua articolazione distrettuale in relazione alle sue competenze, anche nelle articolazioni circondariali, per lo svolgimento delle loro funzioni.
 
-#### Art. 18
+### Art. 18
 
 Modifiche e abrogazioni
 
@@ -466,7 +462,7 @@ b) all'articolo 126, dopo il comma 1, e' aggiunto il seguente:
 
 > 5\. Ai giudici onorari di pace inseriti nell'ufficio per il processo puo' essere assegnata, nei limiti e con le modalita' di cui all'articolo 11, la trattazione di procedimenti civili e penali, di competenza del tribunale ordinario.».
 
-#### Art. 19
+### Art. 19
 
 Entrata in vigore
 

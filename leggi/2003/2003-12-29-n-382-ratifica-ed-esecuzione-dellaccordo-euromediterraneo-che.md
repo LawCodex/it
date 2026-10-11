@@ -27,21 +27,21 @@ Promulga
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 1\. Il Presidente della Repubblica e autorizzato a ratificare l'Accordo euromediterraneo che istituisce un'associazione tra le Comunita europee e i loro Stati membri, da una parte, e la Repubblica araba d'Egitto, dall'altra, con cinque Protocolli, Allegati, Dichiarazioni e Atto finale, fatto a Lussemburgo il 25 giugno 2001.
 
-##### Art. 2
+#### Art. 2
 
 1\. Piena ed intera esecuzione e data all'Accordo di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore, in conformita a quanto disposto dall'articolo 92 dell'Accordo stesso.
 
-##### Art. 3
+#### Art. 3
 
 1\. Per l'attuazione della presente legge e autorizzata la spesa di 9.490 euro annui a decorrere dal 2003. Al relativo onere si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2003-2005, nell'ambito dell'unita previsionale di base di parte corrente °Fondo speciale1/2 dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2003, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri.
 
 2\. Il Ministro dell'economia e delle finanze e autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 4
+#### Art. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -125,7 +125,7 @@ PERSUASI che l'accordo di associazione creera' un nuovo clima per le loro relazi
 
 HANNO CONVENUTO QUANTO SEGUE:
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 1\. E' istituita un'associazione tra la Comunita' e i suoi Stati membri, da una parte, e l'Egitto, dall'altra.
 
@@ -143,13 +143,13 @@ HANNO CONVENUTO QUANTO SEGUE:
 
 \- promuovere la cooperazione in altri settori di reciproco interesse.
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Le relazioni tra le Parti, cosi' come tutte le disposizioni dell'accordo stesso, si fondano sul rispetto dei principi democratici e dei diritti umani fondamentali enunciati nella dichiarazione universale dei diritti dell'uomo, cui si ispira la loro politica interna e internazionale e che costituisce un elemento essenziale del presente accordo.
 
 ## TITOLO I - DIALOGO POLITICO
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 1\. Tra le Parti si istituisce un dialogo politico continuativo che consolida le loro relazioni, contribuisce allo sviluppo di un partenariato duraturo e favorisce la solidarieta' e la comprensione reciproca.
 
@@ -163,11 +163,11 @@ Le relazioni tra le Parti, cosi' come tutte le disposizioni dell'accordo stesso,
 
 \- promuovere iniziative comuni.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Il dialogo politico riguarda qualsiasi aspetto di comune interesse, in particolare la pace, la sicurezza, la democrazia e lo sviluppo regionale.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 1\. Il dialogo politico si svolge a scadenze regolari e
 
@@ -183,25 +183,23 @@ d) con qualsiasi altro mezzo che possa utilmente contribuire a consolidare, a sv
 
 2\. Si instaura un dialogo politico tra il Parlamento europeo e l'Assemblea popolare egiziana.
 
-## TITOLO II - LIBERA CIRCOLAZIONE DELLE MERCI
+## TITOLO II - LIBERA CIRCOLAZIONE DELLE MERCI PRINCIPI FONDAMENTALI
 
-### PRINCIPI FONDAMENTALI
-
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 Nel corso di un periodo transitorio della durata massima di dodici anni a decorrere dall'entrata in vigore del presente accordo, la Comunita' e l'Egitto istituiscono progressivamente una zona di libero scambio, secondo le modalita' di cui al presente titolo e in conformita' con le disposizioni dell'accordo generale sulle tariffe doganali e sul commercio del 1994 e con gli altri accordi multilaterali sugli scambi di merci allegati all'accordo che istituisce l'Organizzazione mondiale del commercio (OMC), in appresso denominati GATT.
 
-## CAPITOLO I - PRODOTTI INDUSTRIALI
+### CAPITOLO I - PRODOTTI INDUSTRIALI
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 Le disposizioni del presente capitolo si applicano ai prodotti originari della Comunita' e dell'Egitto che rientrano nei capitoli da 25 a 97 della nomenclatura combinata e della tariffa doganale egiziana, fatta eccezione per i prodotti elencati nell'allegato I.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 I prodotti originari dell'Egitto sono ammessi all'importazione nella Comunita' in esenzione dai dazi doganali e da qualsiasi altro onere di effetto equivalente, nonche' dalle restrizioni quantitative e da qualsiasi altra misura di effetto equivalente.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 1\. I dazi doganali e gli oneri di effetto equivalente applicabili all'importazione in Egitto dei prodotti originari della Comunita' elencati nell'allegato II sono progressivamente aboliti secondo il seguente calendario:
 
@@ -275,11 +273,11 @@ I prodotti originari dell'Egitto sono ammessi all'importazione nella Comunita' i
 
 7\. Per ciascun prodotto, il dazio di base rispetto al quale si devono operare le riduzioni successive di cui ai paragrafi 1, 2, 3 e 4 consiste nelle aliquote di cui all'articolo 18.
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 Le disposizioni relative all'abolizione dei dazi doganali all'importazione si applicano anche ai dazi doganali di carattere fiscale.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 1\. L'Egitto puo' adottare misure eccezionali di durata limitata, in deroga alle disposizioni dell'articolo 9, maggiorando o reintroducendo dazi doganali.
 
@@ -295,19 +293,17 @@ Le disposizioni relative all'abolizione dei dazi doganali all'importazione si ap
 
 7\. In deroga alle disposizioni del paragrafo 4, il Comitato di associazione puo', in via eccezionale, per tener conto delle difficolta' attinenti alla creazione di nuove industrie, autorizzare l'Egitto a mantenere le misure gia' adottate ai sensi del paragrafo 1 per un periodo massimo di quattro anni oltre il periodo di transizione di dodici anni.
 
-## CAPITOLO 2 - PRODOTTI AGRICOLI, PRODOTTI DELLA PESCA
+### CAPITOLO 2 - PRODOTTI AGRICOLI, PRODOTTI DELLA PESCA E PRODOTTI AGRICOLI TRASFORMATI
 
-### E PRODOTTI AGRICOLI TRASFORMATI
-
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 Le disposizioni del presente capitolo si applicano ai prodotti originari della Comunita' e dell'Egitto che rientrano nei capitoli da 1 a 24 della nomenclatura combinata e, della tariffa doganale egiziana, nonche' ai prodotti elencati nell'allegato I.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 La Comunita' e l'Egitto procedono alla progressiva liberalizzazione dei loro scambi di prodotti agricoli, di prodotti della pesca e di prodotti agricoli trasformati che interessano entrambe le Parti.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 1\. Ai prodotti agricoli originari dell'Egitto elencati nel protocollo n. 1 importati nella Comunita' si applicano le disposizioni ivi contenute.
 
@@ -315,13 +311,13 @@ La Comunita' e l'Egitto procedono alla progressiva liberalizzazione dei loro sca
 
 3\. Agli scambi di prodotti agricoli trasformati di cui al presente capitolo si applicano le disposizioni del protocollo n. 3.
 
-##### ARTICOLO 15
+#### ARTICOLO 15
 
 1\. Nel corso del terzo anno di applicazione dell'accordo, la Comunita' e l'Egitto esaminano la situazione onde determinare le misure che la Comunita' e l'Egitto dovranno applicare dopo tre anni dall'entrata in vigore dell'accordo conformemente all'obiettivo di cui all'articolo 13.
 
 2\. Fatte salve le disposizioni del paragrafo 1, e tenendo conto del volume dei loro scambi di prodotti agricoli, di prodotti della pesca e di prodotti agricoli trasformati, nonche' della particolare sensibilita' di tali prodotti, la Comunita' e l'Egitto esaminano nell'ambito del Consiglio di associazione, prodotto per prodotto e su basi metodiche e reciproche, la possibilita' di accordarsi ulteriori concessioni.
 
-##### ARTICOLO 16
+#### ARTICOLO 16
 
 1\. Qualora, a seguito dell'attuazione della sua politica agricola o di una modifica delle normative in vigore, sia introdotta una normativa specifica o in caso di qualsiasi modifica o ampliamento delle disposizioni relative all'attuazione della sua politica agricola, la Parte interessata puo' modificare, per i prodotti interessati, il regime stabilito dall'accordo.
 
@@ -331,9 +327,9 @@ La Comunita' e l'Egitto procedono alla progressiva liberalizzazione dei loro sca
 
 4\. L'applicazione del presente articolo puo' essere oggetto di consultazioni in seno al Consiglio di associazione.
 
-## CAPITOLO 3 - DISPOSIZIONI COMUNI
+### CAPITOLO 3 - DISPOSIZIONI COMUNI
 
-##### ARTICOLO 17
+#### ARTICOLO 17
 
 1\. Negli scambi tra la Comunita' e l'Egitto non si introducono nuove restrizioni quantitative all'importazione ne' altre restrizioni di effetto equivalente.
 
@@ -341,7 +337,7 @@ La Comunita' e l'Egitto procedono alla progressiva liberalizzazione dei loro sca
 
 3\. La Comunita' e l'Egitto non applicano alle reciproche esportazioni ne' dazi doganali o oneri di effetto equivalente, ne' restrizioni quantitative o misure di effetto equivalente.
 
-##### ARTICOLO 18
+#### ARTICOLO 18
 
 1\. Alle importazioni tra le Parti si applica l'aliquota consolidata in sede di OMC oppure, qualora sia inferiore, l'aliquota in vigore il 1 gennaio 1999. In caso di riduzione tariffaria applicata erga omnes dopo il 1 gennaio 1999, si applica l'aliquota ridotta.
 
@@ -349,35 +345,35 @@ La Comunita' e l'Egitto procedono alla progressiva liberalizzazione dei loro sca
 
 3\. Le Parti si comunicano reciprocamente le aliquote rispettive in vigore il 1 gennaio 1999.
 
-##### ARTICOLO 19
+#### ARTICOLO 19
 
 1\. I prodotti originari dell'Egitto non beneficiano all'importazione nella Comunita' di un trattamento piu' favorevole di quello che gli Stati membri si applicano reciprocamente.
 
 2\. Le disposizioni del presente accordo si applicano senza pregiudizio delle disposizioni speciali per l'applicazione del diritto comunitario alle Isole Canarie.
 
-##### ARTICOLO 20
+#### ARTICOLO 20
 
 1\. Le Parti si astengono dall'introdurre qualsiasi misura o prassi di natura fiscale interna che istituisca, direttamente o indirettamente, discriminazioni tra i prodotti di una Parte e i prodotti analoghi originari del territorio dell'altra Parte.
 
 2\. I prodotti esportati verso il territorio di una delle Parti non possono beneficiare di un rimborso delle imposte indirette interne superiore all'ammontare delle imposte indirette cui sono stati direttamente o indirettamente assoggettati.
 
-##### ARTICOLO 21
+#### ARTICOLO 21
 
 1\. Il presente accordo non osta al mantenimento o all'istituzione di unioni doganali, di zone di libero scambio o di accordi sugli scambi transfrontalieri, se non nella misura in cui essi alterano il regime commerciale previsto dal presente accordo.
 
 2\. Nell'ambito del Consiglio di associazione si tengono consultazioni tra le Parti in merito agli accordi istitutivi di unioni doganali o di zone di libero scambio e, se del caso, in merito ad altre importanti questioni relative alle loro rispettive politiche commerciali con i paesi terzi. In particolare, nel caso in cui un paese terzo entri a far parte dell'Unione, si avviano consultazioni di questo tipo per garantire che si tenga conto dei reciproci interessi delle Parti.
 
-##### ARTICOLO 22
+#### ARTICOLO 22
 
 Qualora una delle Parti constati che negli scambi con l'altra Parte si verificano pratiche di dumping ai sensi dell'articolo VI del GATT 1994, essa puo' adottare le misure del caso contro tali pratiche in conformita' dell'accordo OMC relativo all'applicazione dell'articolo VI del GATT 1994 e della propria pertinente legislazione interna.
 
-##### ARTICOLO 23
+#### ARTICOLO 23
 
 Fatto salvo l'articolo 34, si applica tra le Parti l'accordo OMC sulle sovvenzioni e sulle misure compensative.
 
 In attesa che vengano adottate le norme di cui all'articolo 34, paragrafo 2, se una Parte rileva l'esistenza di sovvenzioni negli scambi con l'altra Parte, ai sensi degli articoli VI e XVI del GATT 1994, puo' invocare le misure appropriate contro questa pratica in conformita' dell'accordo OMC sulle sovvenzioni e sulle misure compensative e della relativa legislazione interna.
 
-##### ARTICOLO 24
+#### ARTICOLO 24
 
 1\. Si applicano tra le Parti le disposizioni dell'articolo XIX del GATT 1994 e dell'accordo OMC sulle misure di salvaguardia.
 
@@ -389,7 +385,7 @@ Le Parti avviano immediatamente consultazioni nell'ambito del Comitato di associ
 
 4\. Le misure di salvaguardia vengono notificate senza indugio al Comitato di associazione e formano oggetto di consultazioni periodiche in questa sede, con l'obiettivo specifico di abolirle non appena le circostanze lo consentano.
 
-##### ARTICOLO 25
+#### ARTICOLO 25
 
 1\. Qualora l'osservanza dell'articolo 17, paragrafo 3 comporti:
 
@@ -407,21 +403,21 @@ e qualora le circostanze di cui sopra diano luogo, o possano dar luogo, a gravi 
 
 2\. Le difficolta' derivanti dalle situazioni di cui al paragrafo 1 vengono sottoposte al Comitato di associazione, che puo' prendere tutte le decisioni necessarie per porvi rimedio. Qualora il Comitato non abbia preso una decisione in tal senso entro i trenta giorni successivi alla notifica della questione, la Parte esportatrice puo' applicare le misure del caso alle esportazioni del prodotto interessato. Deve trattarsi di misure non discriminatorie, da abolire quando la situazione non ne giustifichi piu' il mantenimento in vigore.
 
-##### ARTICOLO 26
+#### ARTICOLO 26
 
 Nessuna disposizione del presente accordo osta ai divieti o alle restrizioni all'importazione, all'esportazione o al transito di merci giustificati da motivi di moralita' pubblica, di ordine pubblico, di pubblica sicurezza, di tutela della salute e della vita delle persone e degli animali o di preservazione dei vegetali, di protezione del patrimonio artistico, storico o archeologico nazionale o di tutela della proprieta' intellettuale, industriale e commerciale o dalle norme relative all'oro e all'argento. Tuttavia, tali divieti o restrizioni non devono costituire un mezzo di discriminazione arbitraria, ne' una restrizione dissimulata al commercio tra le Parti.
 
-##### ARTICOLO 27
+#### ARTICOLO 27
 
 La nozione di "prodotti originari" ai fini dell'applicazione delle disposizioni del presente titolo e i relativi metodi di cooperazione amministrativa sono definiti nel protocollo n. 4.
 
-##### ARTICOLO 28
+#### ARTICOLO 28
 
 Per classificare le merci importate nella Comunita' e in Egitto si utilizzano, rispettivamente, la nomenclatura combinata e la tariffa doganale egiziana.
 
 ## TITOLO III - DIRITTO DI STABILIMENTO E PRESTAZIONE DI SERVIZI
 
-##### ARTICOLO 29
+#### ARTICOLO 29
 
 1\. Le Parti ribadiscono i loro obblighi rispettivi a norma dell'accordo generale sugli scambi di servizi (GATS) allegato all'accordo che istituisce l'OMC, in particolare l'impegno di concedersi reciprocamente il trattamento della nazione piu' favorita per gli scambi nei settori terziari oggetto di detti impegni.
 
@@ -431,7 +427,7 @@ a) ai vantaggi concessi dall'una o dall'altra Parte a norma delle disposizioni d
 
 b) agli altri vantaggi concessi conformemente all'elenco delle esenzioni dalla clausola della nazione piu' favorita allegato dall'una o dall'altra Parte all'accordo GATS.
 
-##### ARTICOLO 30
+#### ARTICOLO 30
 
 1\. Le Parti prenderanno in considerazione la possibilita' di inserire nel campo di applicazione dell'accordo il diritto di stabilimento delle societa' di una Parte nel territorio dell'altra Parte e la liberalizzazione dei servizi prestati dalle societa' di una Parte a utenti dell'altra Parte.
 
@@ -441,29 +437,27 @@ Nel formulare tali raccomandazioni, il Consiglio di associazione tiene conto del
 
 3\. L'obiettivo di cui al paragrafo 1 e' oggetto di un primo esame da parte del Consiglio di associazione al piu' tardi cinque anni dopo l'entrata in vigore del presente accordo.
 
-## TITOLO IV - MOVIMENTI DI CAPITALI
+## TITOLO IV - MOVIMENTI DI CAPITALI E ALTRE QUESTIONI ECONOMICHE
 
-### E ALTRE QUESTIONI ECONOMICHE - CAPITOLO 1
+### CAPITOLO 1 - PAGAMENTI E MOVIMENTI DI CAPITALI
 
-#### PAGAMENTI E MOVIMENTI DI CAPITALI
-
-##### ARTICOLO 31
+#### ARTICOLO 31
 
 Nel rispetto delle disposizioni dell'articolo 33, le Parti si impegnano ad autorizzare tutti i pagamenti correnti in moneta pienamente convertibile.
 
-##### ARTICOLO 32
+#### ARTICOLO 32
 
 1\. A decorrere dall'entrata in vigore dell'accordo, la Comunita' e l'Egitto garantiranno la libera circolazione dei capitali connessi agli investimenti diretti effettuati per societa' costituite in conformita' delle leggi del paese ospitante, nonche' la liquidazione o il rimpatrio di detti investimenti e di tutti gli utili che ne derivano.
 
 2\. Le Parti terranno coasultazioni per agevolare la circolazione dei capitali tra la Comunita' e l'Egitto e giungere alla completa liberalizzazione dei movimenti di capitali non appena saranno soddisfatte le condizioni necessarie.
 
-##### ARTICOLO 33
+#### ARTICOLO 33
 
 Qualora uno o piu' Stati membri della Comunita' o l'Egitto abbiano, o rischino di avere, gravi difficolta' di bilancia dei pagamenti, la Comunita' o l'Egitto, a seconda dei casi, possono adottare, alle condizioni di cui all'accordo GATT e agli articoli VIII e XIV dello statuto del Fondo monetario internazionale, misure restrittive per quanto riguarda i pagamenti correnti, sempreche' dette misure siano strettamente necessarie. La Comunita' o l'Egitto, secondo il caso, ne informa immediatamente l'altra Parte e le presenta il piu' rapidamente possibile un calendario per l'abolizione di tali misure.
 
-## CAPITOLO 2 - CONCORRENZA E ALTRE QUESTIONI ECONOMICHE
+### CAPITOLO 2 - CONCORRENZA E ALTRE QUESTIONI ECONOMICHE
 
-##### ARTICOLO 34
+#### ARTICOLO 34
 
 1\. Sono incompatibili con il corretto funzionamento dell'accordo, nella misura in cui possono incidere sugli scambi tra la Comunita' e l'Egitto:
 
@@ -497,27 +491,27 @@ Nel caso di pratiche incompatibili ai sensi del paragrafo 1, punto iii), le misu
 
 6\. Fatte salve eventuali disposizioni contrarie adottate a norma del paragrafo 2, le Parti si scambiano informazioni tenendo conto delle limitazioni imposte dal rispetto del segreto professionale e del segreto aziendale.
 
-##### ARTICOLO 35
+#### ARTICOLO 35
 
 Gli Stati membri e l'Egitto adeguano progressivamente, senza pregiudizio degli impegni rispettivamente assunti o da assumere in sede di GATT, gli eventuali monopoli di Stato di natura commerciale per garantire che, al termine del quinto anno successivo all'entrata in vigore del presente accordo, non esistano piu' discriminazioni tra cittadini degli Stati membri e dell'Egitto rispetto alle condizioni di approvvigionamento e di commercializzazione delle merci. Il Comitato di associazione sara' informato delle misure adottate a tal fine.
 
-##### ARTICOLO 36
+#### ARTICOLO 36
 
 Per quanto riguarda le imprese pubbliche o le imprese cui sono stati concessi diritti speciali o esclusivi, il Consiglio di associazione provvede affinche', a decorrere dal quinto anno successivo alla data di entrata in vigore del presente accordo, non venga adottata ne' mantenuta alcuna misura che possa distorcere gli scambi tra la Comunita' e l'Egitto in misura tale da ledere gli interessi delle Parti. La presente disposizione non osta all'esecuzione, di diritto o di fatto, dei compiti particolari assegnati a tali imprese.
 
-##### ARTICOLO 37
+#### ARTICOLO 37
 
 1\. A norma delle disposizioni del presente articolo e dell'allegato VI, le Parti concedono e assicurano un'adeguata ed efficace tutela dei diritti di proprieta' intellettuale, industriale e commerciale, conformemente ai massimi standard internazionali, ivi compresi strumenti efficaci per far valere tali diritti.
 
 2\. L'attuazione del presente articolo e dell'allegato VI e' periodicamente esaminata dalle Parti. In caso di difficolta' nel settore della proprieta' intellettuale, industriale e commerciale che incidano sulle condizioni degli scambi commerciali si tengono, su richiesta dell'una o dell'altra Parte, consultazioni urgenti per giungere a soluzioni reciprocamente soddisfacenti.
 
-##### ARTICOLO 38
+#### ARTICOLO 38
 
 Le Parti decidono di puntare alla progressiva liberalizzazione degli appalti pubblici. Il Consiglio di associazione tiene consultazioni per il conseguimento di tale obiettivo.
 
 ## TITOLO V - COOPERAZIONE ECONOMICA
 
-##### ARTICOLO 39
+#### ARTICOLO 39
 
 Obiettivi
 
@@ -531,7 +525,7 @@ Obiettivi
 
 \- sostenere l'azione dell'Egitto volta a conseguire uno sviluppo economico e sociale sostenibile.
 
-##### ARTICOLO 40
+#### ARTICOLO 40
 
 Ambito di applicazione
 
@@ -545,7 +539,7 @@ Ambito di applicazione
 
 5\. Le Parti possono concordare di estendere la cooperazione economica ad altri settori non contemplati dalle disposizioni del presente titolo.
 
-##### ARTICOLO 41
+#### ARTICOLO 41
 
 Metodi e modalita'
 
@@ -561,7 +555,7 @@ d) l'esecuzione di iniziative congiunte, quali seminari e incontri di lavoro;
 
 e) l'assistenza tecnica, amministrativa e normativa.
 
-##### ARTICOLO 42
+#### ARTICOLO 42
 
 Istruzione e formazione
 
@@ -569,7 +563,7 @@ Le Parti cooperano al fine di individuare e utilizzare gli strumenti piu' effica
 
 La cooperazione agevola inoltre l'istituzione di legami tra organismi specializzati della Comunita' e dell'Egitto e promuove lo scambio di informazioni e di esperienze e la condivisione di risorse tecniche.
 
-##### ARTICOLO 43
+#### ARTICOLO 43
 
 Cooperazione scientifica e tecnologica
 
@@ -587,7 +581,7 @@ b) consolidare la capacita' di ricerca dell'Egitto;
 
 c) stimolare l'innovazione tecnologica, il trasferimento di nuove tecnologie e la divulgazione del know-how.
 
-##### ARTICOLO 44
+#### ARTICOLO 44
 
 Ambiente
 
@@ -615,7 +609,7 @@ Ambiente
 
 \- educazione e sensibilizzazione ambientale.
 
-##### ARTICOLO 45
+#### ARTICOLO 45
 
 Cooperazione industriale
 
@@ -635,7 +629,7 @@ La cooperazione promuove e incoraggia in particolare:
 
 \- l'accesso al mercato finanziario per il finanziamento degli investimenti produttivi.
 
-##### ARTICOLO 46
+#### ARTICOLO 46
 
 Investimenti e promozione degli investimenti
 
@@ -653,7 +647,7 @@ La cooperazione punta ad incrementare i trasferimenti di capitali, di esperienze
 
 La cooperazione puo' estendersi alla redazione e alla realizzazione di progetti intesi a dimostrare l'effettivo acquisto e l'uso di tecnologie di base, l'uso di standard, lo sviluppo di risorse umane e la creazione di posti di lavoro in loco.
 
-##### ARTICOLO 47
+#### ARTICOLO 47
 
 Normalizzazione e valutazione della conformita'
 
@@ -665,13 +659,13 @@ b) innalzare il livello degli organismi di valutazione della conformita' egizian
 
 c) sviluppare strutture responsabili della tutela dei diritti di proprieta' intellettuale, industriale e commerciale, della normalizzazione e della fissazione degli standard di qualita'.
 
-##### ARTICOLO 48
+#### ARTICOLO 48
 
 Ravvicinamento delle legislazioni
 
 Le Parti fanno il possibile per ravvicinare le loro rispettive legislazioni onde agevolare l'attuazione del presente accordo.
 
-##### ARTICOLO 49
+#### ARTICOLO 49
 
 Servizi finanziari
 
@@ -681,7 +675,7 @@ a) consolidare e ristrutturare il settore finanziario dell'Egitto;
 
 b) migliorare i sistemi contabili, di vigilanza e di regolamentazione dei settori bancario e assicurativo e degli altri settori finanziari dell'Egitto.
 
-##### ARTICOLO 50
+#### ARTICOLO 50
 
 Agricoltura e pesca
 
@@ -693,7 +687,7 @@ b) diversificare la produzione e gli sbocchi esterni promuovendo, tra l'altro, l
 
 c) promuovere la cooperazione per le questioni veterinarie e fitosanitarie e per le tecniche colturali onde agevolare il commercio tra le Parti, che si scambiano informazioni al riguardo.
 
-##### ARTICOLO 51
+#### ARTICOLO 51
 
 Trasporti
 
@@ -709,7 +703,7 @@ La cooperazione si prefigge:
 
 \- il miglioramento dei dispositivi di ausilio alla navigazione.
 
-##### ARTICOLO 52
+#### ARTICOLO 52
 
 Societa' dell'informazione e telecomunicazioni
 
@@ -729,7 +723,7 @@ La cooperazione tra le Parti in questo settore prevede:
 
 \- l'interconnessione fra le reti e l'interoperativita' dei servizi telematici nella Comunita' e in Egitto.
 
-##### ARTICOLO 53
+#### ARTICOLO 53
 
 Energia
 
@@ -743,7 +737,7 @@ I settori di cooperazione prioritari sono i seguenti:
 
 \- sostegno per l'ammodernamento e lo sviluppo delle reti energetiche e per la loro interconnessione con le reti della Comunita' europea.
 
-##### ARTICOLO 54
+#### ARTICOLO 54
 
 Turismo
 
@@ -763,7 +757,7 @@ Le priorita' della cooperazione sono le seguenti:
 
 \- rendere il turismo piu' concorrenziale sostenendo una maggiore professionalita'.
 
-##### ARTICOLO 55
+#### ARTICOLO 55
 
 Dogane
 
@@ -775,13 +769,13 @@ b) l'introduzione del documento amministrativo unico e di un sistema che collegh
 
 2\. Fatte salve le ulteriori forme di cooperazione previste nel presente accordo, in particolare per la lotta contro gli stupefacenti e il riciclaggio del denaro, le amministrazioni delle Parti si prestano reciproca assistenza secondo le disposizioni del protocollo n. 5.
 
-##### ARTICOLO 56
+#### ARTICOLO 56
 
 Cooperazione nel settore statistico
 
 Il principale obiettivo della cooperazione in questo settore e' l'armonizzazione delle metodologie al fine di creare una base attendibile per la gestione delle statistiche in tutti i settori contemplati dal presente accordo che si prestino all'elaborazione di statistiche.
 
-##### ARTICOLO 57
+#### ARTICOLO 57
 
 Riciclaggio del denaro
 
@@ -789,7 +783,7 @@ Riciclaggio del denaro
 
 2\. La cooperazione nel settore comprende in particolare un'assistenza tecnica e amministrativa finalizzata alla definizione di norme per combattere il riciclaggio del denaro conformi agli standard internazionali.
 
-##### ARTICOLO 58
+#### ARTICOLO 58
 
 Lotta contro la droga
 
@@ -811,7 +805,7 @@ Possono partecipare a tali azioni le istituzioni pubbliche e private del settore
 
 \- alla definizione di norme relative alla prevenzione dell'utilizzazione abusiva di precursori e di altre sostanze chimiche essenziali utilizzate per la produzione illecita di stupefacenti e di sostanze psicotrope in conformita' degli standard internazionali.
 
-##### ARTICOLO 59
+#### ARTICOLO 59
 
 Lotta contro il terrorismo
 
@@ -823,7 +817,7 @@ Le Parti collaborano in questo settore in conformita' delle convenzioni internaz
 
 \- la ricerca e gli studi congiunti sulla prevenzione del terrorismo.
 
-##### ARTICOLO 60
+#### ARTICOLO 60
 
 Cooperazione regionale
 
@@ -841,7 +835,7 @@ La cooperazione regionale si concentrera' sui seguenti aspetti:
 
 \- questioni ambientali.
 
-##### ARTICOLO 61
+#### ARTICOLO 61
 
 Tutela dei consumatori
 
@@ -855,15 +849,15 @@ La cooperazione in questo campo dovrebbe cercare di rendere compatibili i sistem
 
 \- attuare programmi di formazione e fornire assistenza tecnica.
 
-## TITOLO VI - CAPITOLO 1
+## TITOLO VI
 
-### DIALOGO E COOPERAZIONE IN CAMPO SOCIALE
+### CAPITOLO 1 - DIALOGO E COOPERAZIONE IN CAMPO SOCIALE
 
-##### ARTICOLO 62
+#### ARTICOLO 62
 
 Le Parti ribadiscono l'importanza da esse attribuita a un equo trattamento dei lavoratori che risiedono e sono occupati legalmente sul territorio dell'altra Parte. Su richiesta di uno degli Stati membri o dell'Egitto, si avvieranno colloqui sugli accordi bilaterali reciproci riguardanti le condizioni di lavoro e i diritti previdenziali dei lavoratori dell'Egitto e degli Stati membri che risiedono e sono occupati legalmente sui rispettivi territori.
 
-##### ARTICOLO 63
+#### ARTICOLO 63
 
 1\. Tra le Parti si instaura un dialogo continuativo su tutte le questioni sociali di reciproco interesse.
 
@@ -879,11 +873,11 @@ c) all'immigrazione clandestina;
 
 d) alle azioni volte a promuovere la parita' di trattamento tra cittadini dell'Egitto e della Comunita', la conoscenza delle reciproche culture e civilta', lo sviluppo della tolleranza e l'eliminazione delle discriminazioni.
 
-##### ARTICOLO 64
+#### ARTICOLO 64
 
 Il dialogo sulle questioni sociali si svolge secondo le procedure di cui al titolo I del presente accordo.
 
-##### ARTICOLO 65
+#### ARTICOLO 65
 
 Per consolidare la cooperazione tra le Parti in campo sociale, si intraprendono progetti e programmi relativi a qualsiasi settore di reciproco interesse.
 
@@ -903,19 +897,17 @@ f) migliorare le condizioni di vita nelle zone piu' povere;
 
 g) attuare e finanziare programmi di scambio e di svago a favore di gruppi misti di giovani egiziani ed europei residenti negli Stati membri onde promuovere la conoscenza delle reciproche culture e favorire la tolleranza.
 
-##### ARTICOLO 66
+#### ARTICOLO 66
 
 I progetti di cooperazione possono essere realizzati in coordinamento con gli Stati membri e con le organizzazioni internazionali competenti.
 
-##### ARTICOLO 67
+#### ARTICOLO 67
 
 Entro il termine del primo anno successivo all'entrata in vigore del presente accordo il Consiglio di associazione istituisce un gruppo di lavoro incaricato di valutare sistematicamente l'attuazione delle disposizioni dei capitoli da 1 a 3.
 
-## CAPITOLO 2 - COOPERAZIONE PER LA PREVENZIONE
+### CAPITOLO 2 - COOPERAZIONE PER LA PREVENZIONE E IL CONTROLLO DELL'IMMIGRAZIONE CLANDESTINA E LE ALTRE QUESTIONI CONSOLARI
 
-### E IL CONTROLLO DELL'IMMIGRAZIONE CLANDESTINA - E LE ALTRE QUESTIONI CONSOLARI
-
-##### ARTICOLO 68
+#### ARTICOLO 68
 
 Le Parti concordano di cooperare per prevenire e controllare l'immigrazione clandestina. A tal fine:
 
@@ -929,21 +921,19 @@ Per quanto riguarda gli Stati membri dell'Unione europea, gli obblighi di cui al
 
 Per quanto riguarda l'Egitto, gli obblighi di cui al presente articolo si applicano unicamente in relazione alle persone che devono essere considerate sue cittadine in conformita' del sistema giuridico egiziano e di tutte le leggi pertinenti in materia di cittadinanza.
 
-##### ARTICOLO 69
+#### ARTICOLO 69
 
 Dopo l'entrata in vigore dell'accordo, le Parti negoziano e concludono, su richiesta di una di esse, accordi bilaterali che stabiliscano obblighi particolari per la riammissione dei loro cittadini. Se una delle Parti lo ritiene necessario, tali accordi comprendono anche disposizioni per la riammissione di cittadini di paesi terzi. Detti accordi precisano le categorie di persone a cui si applicano queste disposizioni nonche' le modalita' della loro riammissione.
 
 L'Egitto fornira' un'adeguata assistenza finanziaria e tecnica per l'attuazione di questi accordi.
 
-##### ARTICOLO 70
+#### ARTICOLO 70
 
 Il Consiglio di associazione esamina le ulteriori iniziative comuni atte a prevenire e a combattere l'immigrazione clandestina, nonche' a risolvere le altre questioni consolari.
 
-## CAPITOLO 3 - COOPERAZIONE PER LE QUESTIONI CULTURALI,
+### CAPITOLO 3 - COOPERAZIONE PER LE QUESTIONI CULTURALI, I MEZZI AUDIOVISIVI E L'INFORMAZIONE
 
-### I MEZZI AUDIOVISIVI E L'INFORMAZIONE
-
-##### ARTICOLO 71
+#### ARTICOLO 71
 
 1\. Le Parti decidono di promuovere la cooperazione culturale nei settori di mutuo interesse, nel rispetto delle reciproche culture, e avviano un dialogo culturale continuativo. La cooperazione in questo settore riguarda in particolare:
 
@@ -979,7 +969,7 @@ Il Consiglio di associazione esamina le ulteriori iniziative comuni atte a preve
 
 ## TITOLO VII - COOPERAZIONE FINANZIARIA
 
-##### ARTICOLO 72
+#### ARTICOLO 72
 
 Per conseguire gli obiettivi del presente accordo, si mette a disposizione dell'Egitto un pacchetto di cooperazione finanziaria secondo le procedure adeguate e con le risorse finanziarie richieste.
 
@@ -1001,19 +991,19 @@ La cooperazione finanziaria verte sui seguenti aspetti:
 
 \- misure di accompagnamento per l'adozione e l'attuazione della legislazione sulla concorrenza.
 
-##### ARTICOLO 73
+#### ARTICOLO 73
 
 Per garantire l'adozione di un'impostazione coordinata nei confronti di eventuali problemi macroeconomici e finanziari a carattere eccezionale che dovessero derivare dall'attuazione del presente accordo, le Parti seguono con particolare attenzione l'andamento degli scambi commerciali e delle relazioni finanziarie tra la Comunita' e l'Egitto nel quadro del dialogo economico continuativo istituito ai sensi del titolo V.
 
 ## TITOLO VIII - DISPOSIZIONI ISTITUZIONALI, GENERALI E FINALI
 
-##### ARTICOLO 74
+#### ARTICOLO 74
 
 E' istituito un Consiglio di associazione che si riunisce a livello ministeriale una volta all'anno e ogniqualvolta le circostanze lo richiedano, su iniziativa del suo presidente e alle condizioni previste nel suo regolamento interno.
 
 Esso esamina tutte le questioni importanti inerenti al presente accordo e ogni altra questione bilaterale o internazionale di reciproco interesse.
 
-##### ARTICOLO 75
+#### ARTICOLO 75
 
 1\. Il Consiglio di associazione e' composto da membri del Consiglio dell'Unione europea e della Commissione delle Comunita' europee, da una parte, e da membri del governo egiziano, dall'altra.
 
@@ -1023,7 +1013,7 @@ Esso esamina tutte le questioni importanti inerenti al presente accordo e ogni a
 
 4\. Il Consiglio di associazione e' presieduto a turno da un membro del Consiglio dell'Unione europea e da un membro del governo egiziano, secondo le disposizioni stabilite nel suo regolamento interno.
 
-##### ARTICOLO 76
+#### ARTICOLO 76
 
 Per conseguire gli obiettivi stabiliti del presente accordo, il Consiglio di associazione ha il potere di prendere decisioni nei casi ivi specificati.
 
@@ -1031,13 +1021,13 @@ Le decisioni adottate sono vincolanti per le Parti, che prendono le misure neces
 
 Le decisioni e le raccomandazioni del Consiglio di associazione sono adottate di comune accordo tra le Parti.
 
-##### ARTICOLO 77
+#### ARTICOLO 77
 
 1\. Fatte salve le competenze attribuite al Consiglio di associazione, e' istituito un Comitato di associazione incaricato dell'attuazione dell'accordo.
 
 2\. Il Consiglio di associazione puo' delegare, integralmente o in parte, le proprie competenze al Comitato di associazione.
 
-##### ARTICOLO 78
+#### ARTICOLO 78
 
 1\. Il Comitato di associazione, che si riunisce a livello di funzionari, e' composto da rappresentanti dei membri del Consiglio dell'Unione europea e della Commissione delle Comunita' europee, da una parte, e da rappresentanti del governo egiziano, dall'altra.
 
@@ -1045,21 +1035,21 @@ Le decisioni e le raccomandazioni del Consiglio di associazione sono adottate di
 
 3\. Il Comitato di associazione e' presieduto a turno da un rappresentante della Presidenza del Consiglio dell'Unione europea e da un rappresentante del governo egiziano.
 
-##### ARTICOLO 79
+#### ARTICOLO 79
 
 1\. Il Comitato di associazione e' abilitato ad adottare decisioni per la gestione dell'accordo, nonche' nei settori per i quali il Consiglio gli ha delegato le proprie competenze.
 
 2\. Le decisioni del Comitato di associazione sono adottate di comune accordo tra le Parti e sono vincolanti per queste ultime, che adottano le misure necessarie per la loro esecuzione.
 
-##### ARTICOLO 80
+#### ARTICOLO 80
 
 Il Consiglio di associazione puo' decidere di costituire qualsiasi gruppo di lavoro o organismo necessario per l'attuazione dell'accordo Detti gruppi di lavoro o organismi fanno capo al Consiglio di associazione, che ne definisce il mandato.
 
-##### ARTICOLO 81
+#### ARTICOLO 81
 
 Il Consiglio di associazione prende tutte le misure utili per agevolare la cooperazione e i contatti tra il Parlamento europeo e l'Assemblea popolare egiziana.
 
-##### ARTICOLO 82
+#### ARTICOLO 82
 
 1\. Ciascuna delle Parti puo' sottoporre al Consiglio di associazione qualsiasi controversia relativa all'applicazione o all'interpretazione del presente accordo.
 
@@ -1075,7 +1065,7 @@ Le decisioni arbitrali sono pronunciate a maggioranza.
 
 Ciascuna delle Parti in causa deve adottare le misure richieste per l'applicazione del lodo arbitrale.
 
-##### ARTICOLO 83
+#### ARTICOLO 83
 
 Nessuna disposizione del presente accordo impedisce a una Parte di prendere qualsiasi misura:
 
@@ -1085,7 +1075,7 @@ b) inerente alla produzione o al commercio di armi, munizioni o materiale bellic
 
 c) ritenuta essenziale per la propria sicurezza in caso di gravi disordini interni che compromettano il mantenimento dell'ordine pubblico, in tempo di guerra o in occasione di gravi tensioni internazionali che possano sfociare in una guerra o ai fini del rispetto di impegni assunti per il mantenimento della pace e della sicurezza internazionale.
 
-##### ARTICOLO 84
+#### ARTICOLO 84
 
 Nei settori contemplati dal presente accordo, e fatta salva qualsiasi disposizione speciale ivi contenuta:
 
@@ -1093,7 +1083,7 @@ Nei settori contemplati dal presente accordo, e fatta salva qualsiasi disposizio
 
 \- il regime applicato dalla Comunita' nei confronti dell'Egitto non puo' dar luogo ad alcuna discriminazione tra cittadini o societa' dell'Egitto.
 
-##### ARTICOLO 85
+#### ARTICOLO 85
 
 Per quanto riguarda le imposte dirette, nessuna disposizione del presente accordo avra' l'effetto:
 
@@ -1103,7 +1093,7 @@ Per quanto riguarda le imposte dirette, nessuna disposizione del presente accord
 
 \- di ostacolare il diritto di una Parte di applicare le disposizioni pertinenti della sua legislazione fiscale ai contribuenti che non si trovano in una situazione identica, in particolare per quanto riguarda la loro residenza.
 
-##### ARTICOLO 86
+#### ARTICOLO 86
 
 1\. Le Parti prendono qualsiasi misura generale o particolare necessaria per l'adempimento degli obblighi che incombono loro ai sensi del presente accordo. Esse si adoperano per il conseguimento degli obiettivi fissati dal presente accordo.
 
@@ -1115,29 +1105,29 @@ La violazione di una clausola sostanziale del presente accordo consiste in una d
 
 Le misure decise sono comunicate senza indugio al Consiglio di associazione e, qualora l'altra Parte ne faccia richiesta, sono oggetto di consultazioni in questa sede. Qualora una Parte adotta una misura in seguito alla violazione di una clausola sostanziale del presente accordo ai sensi del paragrafo 2, l'altra Parte puo' invocare la procedura di composizione delle controversie.
 
-##### ARTICOLO 87
+#### ARTICOLO 87
 
 I protocolli nn. 1-5 e gli allegati da I a VI costituiscono parte integrante del presente accordo.
 
-##### ARTICOLO 88
+#### ARTICOLO 88
 
 Ai fini del presente accordo, per "Parti" si intendono l'Egitto, da una parte, e la Comunita', o gli Stati membri, o la Comunita' e gli Stati membri, secondo le loro rispettive competenze, dall'altra.
 
-##### ARTICOLO 89
+#### ARTICOLO 89
 
 Il presente accordo e' concluso per un periodo illimitato.
 
 Ciascuna delle Parti puo' denunciare il presente accordo dandone notifica all'altra Parte. Esso cessa di applicarsi dopo sei mesi dalla data di tale notifica.
 
-##### ARTICOLO 90
+#### ARTICOLO 90
 
 Il presente accordo si applica ai territori in cui si applicano i trattati che istituiscono la Comunita' europea e la Comunita' europea del carbone e dell'acciaio, alle condizioni ivi indicate, da una parte, e al territorio dell'Egitto, dall'altra.
 
-##### ARTICOLO 91
+#### ARTICOLO 91
 
 Il presente accordo e' redatto in due esemplari in lingua danese, finlandese, francese, greca, inglese, italiana, olandese, portoghese, spagnola, svedese, tedesca e araba, ciascun testo facente ugualmente fede.
 
-##### ARTICOLO 92
+#### ARTICOLO 92
 
 1\. Il presente accordo sara' approvato dalle Parti secondo le rispettive procedure.
 
@@ -1147,7 +1137,7 @@ Il presente accordo entra in vigore il primo giorno del secondo mese successivo 
 
 Parte di provvedimento in formato grafico
 
-##### Atto finale
+#### Atto finale
 
 ATTO FINALE
 
@@ -1267,7 +1257,7 @@ Per le Comunita' europee
 
 Parte di provvedimento in formato grafico
 
-##### Dichiarazioni
+#### Dichiarazioni
 
 DICHIARAZIONI COMUNI
 
@@ -1343,7 +1333,7 @@ DICHIARAZIONE DELLA COMUNITA' EUROPEA
 
 Le disposizioni dell'accordo che rientrano nell'ambito di applicazione della parte III, titolo IV del trattato che istituisce la Comunita' europea vincolano il Regno Unito e l'Irlanda in quanto Parti contraenti distinte e non in quanto membri della Comunita' europea, fino al momento in cui il Regno Unito ovvero l'Irlanda notifichino alla Repubblica araba d'Egitto che essi sono vincolati in quanto membri della Comunita' europea, conformemente al protocollo sulla posizione del Regno Unito e dell'Irlanda allegato al trattate sull'Unione europea e al trattato che istituisce la Comunita' europea. Le stesse disposizioni si applicano alla Danimarca, conformemente al protocollo sulla posizione della Danimarca allegato a detti trattati.
 
-##### Lettere
+#### Lettere
 
 ACCORDO IN FORMA DI SCAMBIO DI LETTERE TRA LA COMUNITA' E L'EGITTO RELATIVO ALLE IMPORTAZIONI NELLA COMUNITA' DI FIORI E BOCCIOLI DI FIORI RECISI, FRESCHI, DI CUI ALLA SOTTOVOCE 0603 10 DELLA TARIFFA DOGANALE COMUNE
 
@@ -1421,7 +1411,7 @@ Bruxelles
 
 Per il Segretario Genenrale del Consiglio dell'Unione europea
 
-##### Allegato I
+#### Allegato I
 
 ELENCO DEGLI ALLEGATI E DEI PROTOCOLLI
 
@@ -1533,7 +1523,7 @@ Voce SA 53.01 (lino greggio)
 
 Voce SA 53.02 (canapa greggia)
 
-##### Allegato II
+#### Allegato II
 
 ALLEGATO II
 
@@ -2439,7 +2429,7 @@ ELENCO DEI PRODOTTI INDUSTRIALI ORIGINARI DELLA COMUNITA' AI QUALI SI APPLICA, A
 
 9032810 9506590
 
-##### Allegato III
+#### Allegato III
 
 ALLEGATO III
 
@@ -3045,7 +3035,7 @@ ELENCO DEI PRODOTTI INDUSTRIALI ORIGINARI DELLA COMUNITA' AI QUALI SI APPLICA, A
 
 9617000
 
-##### Allegato IV
+#### Allegato IV
 
 ALLEGATO IV
 
@@ -3851,7 +3841,7 @@ SMANTELLAMENTO TARIFFARIO DI CUI ALL'ARTICOLO 9, PARAGRAFO 3
 
 9612200
 
-##### Allegato V
+#### Allegato V
 
 ALLEGATO V
 
@@ -3885,7 +3875,7 @@ DI CUI ALL'ARTICOLO 9, PARAGRAFO 4
 
 87161000
 
-##### Allegato VI
+#### Allegato VI
 
 ALLEGATO VI
 
@@ -3917,7 +3907,7 @@ DIRITTI DI PROPRIETA' INTELLETTUALE DI CUI ALL'ARTICOLO 37
 
 3\. Il Consiglio di associazione puo' decidere che il paragrafo 1 si applichi ad altre convenzioni multilaterali in questo settore.
 
-##### Protocollo 1
+#### Protocollo 1
 
 PROTOCOLLO N. 1
 
@@ -3947,7 +3937,7 @@ Per il primo anno di applicazione, i volumi dei contingenti tariffari vengono ca
 
 Se il prezzo di entrata per una spedizione e' inferiore del 2, 4, 6 o 8% al prezzo di entrata concordato, il dazio doganale specifico equivale, rispettivamente, al 2, 4, 6 o 8% del prezzo di entrata concordato Se il prezzo di entrata per una spedizione e' inferiore al 92% del prezzo di entrata concordato, si applica il dazio doganale specifico consolidato in sede di OMC.
 
-##### Allegato
+#### Allegato
 
 ALLEGATO al protocollo 1
 
@@ -4599,7 +4589,7 @@ ALLEGATO al protocollo 1
 +------------------------------------------------------------------+
 ```
 
-##### Protocollo 2
+#### Protocollo 2
 
 PROTOCOLLO N. 2
 
@@ -4619,7 +4609,7 @@ secondo quanto indicato nella colonna A.
 
 dei contingenti tariffari indicati nella colonna B.
 
-##### Allegato
+#### Allegato
 
 Allegato al protocollo 2
 
@@ -4809,7 +4799,7 @@ PROTOCOLLO N. 3
 
 RELATIVO AL REGIME APPLICABILE AI PRODOTTI AGRICOLI TRASFORMATI
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 1\. I dazi doganali e gli oneri di effetto equivalente applicabili
 
@@ -4849,7 +4839,7 @@ presente protocollo si applicano ai dazi di base di cui all'articolo 18.
 
 \- aumentare o abolire i contingenti tariffari.
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 1\. I dazi applicati a norma dell'articolo 1 possono essere ridotti
 
@@ -4863,7 +4853,7 @@ con decisione del Comitato di associazione:
 
 riduzioni di cui al primo trattino vengono calcolate in rapporto alla parte del dazio designata come elemento agricolo, che corrisponde ai prodotti agricoli effettivamente utilizzati per ottenere i prodotti agricoli trasformati in questione, e detratte dai dazi applicati a questi prodotti agricoli di base.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 La Comunita' e l'Egitto si informano delle disposizioni
 
@@ -4875,7 +4865,7 @@ le parti interessate ed essere per quanto possibile semplici e
 
 flessibili
 
-##### Allegato I
+#### Allegato I
 
 Allegato I al protocollo 3
 
@@ -5473,7 +5463,7 @@ Tabella 3
 +----------+------------------------------------+------------------+
 ```
 
-##### Allegato II
+#### Allegato II
 
 Allegato II al protocollo 3
 
@@ -6255,7 +6245,7 @@ Tabella 3
 +-----------------------------------------------------+
 ```
 
-##### Indice
+#### Indice
 
 PROTOCOLLO N. 4
 
@@ -6413,7 +6403,7 @@ ALLEGATO VI: Dichiarazioni comuni
 
 ## TITOLO I - DISPOSIZIONI DI CARATTERE GENERALE
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 Definizioni
 
@@ -6447,7 +6437,7 @@ m) il termine "territori" comprende le acque territoriali.
 
 ## TITOLO II - DEFINIZIONE DELLA NOZIONE DI "PRODOTTI ORIGINARI"
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Requisiti di carattere generale
 
@@ -6463,7 +6453,7 @@ a) i prodotti interamente ottenuti in Egitto ai sensi dell'articolo 5 del presen
 
 b) i prodotti ottenuti in Egitto in cui sono incorporati materiali non interamente ottenuti sul suo territorio, a condizione che detti materiali siano stati oggetto in Egitto di lavorazioni o trasformazioni sufficienti ai sensi dell'articolo 6 del presente protocollo.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 Cumulo bilaterale dell'origine
 
@@ -6471,7 +6461,7 @@ Cumulo bilaterale dell'origine
 
 2\. I materiali originari dell'Egitto incorporati in un prodotto ottenuto nella Comunita' si considerano materiali originari della Comunita' anche qualora non siano stati oggetto di lavorazioni o trasformazioni sufficienti, purche' siano stati oggetto di lavorazioni o trasformazioni che vanno al di la' di quelle previste dall'articolo 7, paragrafo 1 del presente protocollo.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Cumulo diagonale dell'origine
 
@@ -6483,7 +6473,7 @@ Cumulo diagonale dell'origine
 
 4\. Una volta soddisfatti i requisiti di cui al paragrafo 3, e sempreche' sia stata fissata una data per l'entrata in vigore delle presenti disposizioni, ciascuna delle Parti adempie i propri obblighi in termini di notifica e di informazione.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 Prodotti interamente ottenuti
 
@@ -6523,7 +6513,7 @@ d) il cui comandante e i cui ufficiali sono tutti cittadini di Stati membri dell
 
 e) e il cui equipaggio e' composto, almeno per il 75%, di cittadini di Stati membri della Comunita' o dell'Egitto.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 Prodotti sufficientemente lavorati o trasformati
 
@@ -6545,7 +6535,7 @@ Il presente paragrafo non si applica ai prodotti contemplati dai capitoli 50-63 
 
 4\. Si applicano i paragrafi 1, 2 e 3, fatte salve le disposizioni dell'articolo 7.
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 Lavorazioni o trasformazioni insufficienti
 
@@ -6571,7 +6561,7 @@ h) la macellazione degli animali.
 
 2\. Nel determinare se la lavorazione o trasformazione cui e' stato sottoposto un determinato prodotto debba essere considerata insufficiente ai sensi del paragrafo 1, si tiene complessivamente conto di tutte le operazioni eseguite nella Comunita' o in Egitto su quel prodotto.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 Unita' da prendere in considerazione
 
@@ -6585,19 +6575,19 @@ b) quando una spedizione consiste in un certo numero di prodotti fra loro identi
 
 2\. Ogniqualvolta, conformemente alla regola generale 5 del sistema armonizzato, si considera che l'imballaggio formi un tutto unico con il prodotto ai fini della classificazione, detto imballaggio viene preso in considerazione anche per la determinazione dell'origine.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 Accessori, pezzi di ricambio e utensili
 
 Gli accessori, i pezzi di ricambio e gli utensili che vengono consegnati con un'attrezzatura, una macchina, un apparecchio o un veicolo, che fanno parte del suo normale equipaggiamento e il cui prezzo e' compreso nel suo o per i quali non viene emessa una fattura distinta si considerano un tutto unico con l'attrezzatura, la macchina, l'apparecchio o il veicolo in questione.
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 Assortimenti
 
 Gli assortimenti, definiti ai sensi della regola generale 3 del sistema armonizzato, si considerano originari a condizione che tutti i prodotti che li compongono siano originari. Tuttavia, un assortimento composto di prodotti originari e non originari e' considerato originario nel suo insieme a condizione che il valore dei prodotti non originari non superi il 15% del prezzo franco fabbrica dell'assortimento.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 Elementi neutri
 
@@ -6613,7 +6603,7 @@ d) merci che non entrano, ne' sono destinate a entrare, nella composizione final
 
 ## TITOLO III - REQUISITI TERRITORIALI
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 Principio della territorialita'
 
@@ -6625,7 +6615,7 @@ a) che le merci reimportate sono le stesse merci che erano state esportate, e
 
 b) che esse non sono state sottoposte ad alcuna operazione, oltre a quelle necessarie per conservarle in buono stato durante la loro permanenza nel paese in questione o nel corso dell'esportazione.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 Trasporto diretto
 
@@ -6643,7 +6633,7 @@ b) un certificato rilasciato dalle autorita' doganali del paese di transito cont
 
 c) in mancanza di questi documenti, qualsiasi documento probatorio.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 Esposizioni
 
@@ -6663,7 +6653,7 @@ d) dal momento in cui sono stati inviati all'esposizione, i prodotti non sono st
 
 ## TITOLO IV - RESTITUZIONE O ESENZIONE
 
-##### ARTICOLO 15
+#### ARTICOLO 15
 
 Divieto di restituzione dei dazi doganali o di esenzione da tali dazi
 
@@ -6689,7 +6679,7 @@ Le disposizioni del presente paragrafo saranno rivedute prima che scada il perio
 
 ## TITOLO V - PROVA DELL'ORIGINE
 
-##### ARTICOLO 16
+#### ARTICOLO 16
 
 Requisiti di carattere generale
 
@@ -6701,7 +6691,7 @@ b) nei casi di cui all'articolo 21, paragrafo 1, di una dichiarazione, il cui te
 
 2\. In deroga al paragrafo 1, nei casi di cui all'articolo 26 i prodotti originari ai sensi del presente protocollo beneficiano delle disposizioni del presente accordo senza che sia necessario presentare alcuno dei documenti di cui sopra.
 
-##### ARTICOLO 17
+#### ARTICOLO 17
 
 Procedura di rilascio dei certificati di circolazione EUR.1
 
@@ -6721,7 +6711,7 @@ Le autorita' doganali che rilasciano il certificato devono inoltre accertarsi ch
 
 7\. Il certificato di circolazione delle merci EUR.1 e' rilasciato dalle autorita' doganali e tenuto a disposizione dell'esportatore dal momento in cui l'esportazione ha effettivamente luogo o e' assicurata.
 
-##### ARTICOLO 18
+#### ARTICOLO 18
 
 Rilascio a posteriori del certificato di circolazione EUR. 1
 
@@ -6739,7 +6729,7 @@ a) non e' stato rilasciato al momento dell'esportazione a causa di errori, omiss
 
 5\. Le diciture di cui al paragrafo 4 devono figurare nella casella "Osservazioni" del certificato EUR.1.
 
-##### ARTICOLO 19
+#### ARTICOLO 19
 
 Rilascio di duplicati del certificato di circolazione EUR.1
 
@@ -6753,13 +6743,13 @@ Rilascio di duplicati del certificato di circolazione EUR.1
 
 4\. Il duplicato, sul quale deve figurare la data di rilascio del certificato di circolazione EUR.1 originale, e' valido a decorrere da tale data.
 
-##### ARTICOLO 20
+#### ARTICOLO 20
 
 Rilascio dei certificati di circolazione EUR.1 sulla base di una prova dell'origine rilasciata o compilata in precedenza
 
 Se i prodotti originarii sono posti sotto il controllo di un ufficio doganale nella Comunita' o in Egitto, si puo' sostituire l'originale della prova dell'origine con uno o piu' certificati EUR.1 al fine di inviare tutti i prodotti, o parte di essi, altrove nella Comunita' o in Egitto. I certificati di circolazione EUR.1 sostitutivi sono rilasciati dall'ufficio doganale sotto il cui controllo sono posti i prodotti.
 
-##### ARTICOLO 21
+#### ARTICOLO 21
 
 Condizioni per la compilazione di una dichiarazione su fattura
 
@@ -6777,7 +6767,7 @@ a) da un esportatore autorizzato ai sensi dell'articolo 22, oppure b) da qualsia
 
 6\. La dichiarazione su fattura puo' essere compilata dall'esportatore al momento dell'esportazione dei prodotti cui si riferisce o successivamente, purche' sia presentata nel paese d'importazione non piu' tardi di due anni dall'importazione dei prodotti cui si riferisce.
 
-##### ARTICOLO 22
+#### ARTICOLO 22
 
 Esportatore autorizzato
 
@@ -6791,7 +6781,7 @@ Esportatore autorizzato
 
 5\. Le autorita' doganali possono ritirare l'autorizzazione in qualsiasi momento. Esse lo faranno se l'esportatore autorizzato non offre piu' le garanzie di cui al paragrafo 1, non soddisfa le condizioni di cui al paragrafo 2 o fa comunque un uso scorretto dell'autorizzazione.
 
-##### ARTICOLO 23
+#### ARTICOLO 23
 
 Validita' della prova dell'origine
 
@@ -6801,19 +6791,19 @@ Validita' della prova dell'origine
 
 3\. Negli altri casi di presentazione tardiva, le autorita' doganali del paese d'importazione possono accettare le prove dell'origine se i prodotti sono stati presentati prima della scadenza di tale termine.
 
-##### ARTICOLO 24
+#### ARTICOLO 24
 
 Presentazione della prova dell'origine
 
 Le prove dell'origine sono presentate alle autorita' doganali del paese d'importazione conformemente alle procedure applicabili in tale paese. Dette autorita' possono richiedere che la prova dell'origine sia tradotta e che la dichiarazione di importazione sia accompagnata da una dichiarazione dell'importatore secondo la quale i prodotti soddisfano le condizioni previste per l'applicazione del presente accordo.
 
-##### ARTICOLO 25
+#### ARTICOLO 25
 
 Importazioni con spedizioni scaglionate
 
 Quando, su richiesta dell'importatore e alle condizioni stabilite dalle autorita' doganali del paese d'importazione, vengono importati con spedizioni scaglionate prodotti smontati o non assemblati ai sensi della regola generale 2, lettera a) del sistema armonizzato, di cui alle sezioni XVI e XVII o alle voci 7308 e 9406 del sistema armonizzato, per tali prodotti viene presentata alle autorita' doganali un'unica prova dell'origine al momento dell'importazione della prima spedizione parziale.
 
-##### ARTICOLO 26
+#### ARTICOLO 26
 
 Esonero dalla prova dell'origine
 
@@ -6823,7 +6813,7 @@ Esonero dalla prova dell'origine
 
 3\. Inoltre, il valore complessivo dei prodotti non deve superare i 500 EUR se si tratta di piccole spedizioni, oppure i 1.200 EUR se si tratta del contenuto dei bagagli personali dei viaggiatori.
 
-##### ARTICOLO 27
+#### ARTICOLO 27
 
 Documenti giustificativi
 
@@ -6837,7 +6827,7 @@ c) documenti comprovanti la lavorazione o la trasformazione di cui sono stati og
 
 d) certificati di circolazione EUR.1 o dichiarazioni su fattura comprovanti il carattere originario dei materiali utilizzati, rilasciati o compilati nella Comunita', in Egitto o in uno degli altri paesi di cui all'articolo 4 in conformita' del presente protocollo.
 
-##### ARTICOLO 28
+#### ARTICOLO 28
 
 Conservazione delle prove dell'origine e dei documenti giustificativi
 
@@ -6849,7 +6839,7 @@ Conservazione delle prove dell'origine e dei documenti giustificativi
 
 4\. Le autorita' doganali del paese d'importazione devono conservare per almeno tre anni i certificati di circolazione EUR.1 e le dichiarazioni su fattura loro presentati.
 
-##### ARTICOLO 29
+#### ARTICOLO 29
 
 Discordanze ed errori formali
 
@@ -6857,7 +6847,7 @@ Discordanze ed errori formali
 
 2\. In caso di errori formali evidenti, come errori di battitura, sulla prova dell'origine, il documento non viene respinto se detti errori non sono tali da destare dubbi sulla correttezza delle indicazioni in esso riportate.
 
-##### ARTICOLO 30
+#### ARTICOLO 30
 
 Importi espressi in euro
 
@@ -6871,7 +6861,7 @@ Importi espressi in euro
 
 ## TITOLO VI - MISURE DI COOPERAZIONE AMMINISTRATIVA
 
-##### ARTICOLO 31
+#### ARTICOLO 31
 
 Assistenza reciproca
 
@@ -6879,7 +6869,7 @@ Assistenza reciproca
 
 2\. Al fine di garantire la corretta applicazione del presente protocollo, la Comunita' e l'Egitto si prestano reciproca assistenza, mediante le amministrazioni doganali competenti, nel controllo dell'autenticita' dei certificati di circolazione EUR.1 o delle dichiarazioni su fattura e della correttezza delle informazioni riportate in tali documenti.
 
-##### ARTICOLO 32
+#### ARTICOLO 32
 
 Controllo delle prove dell'origine
 
@@ -6895,7 +6885,7 @@ Controllo delle prove dell'origine
 
 6\. Qualora, in caso di ragionevole dubbio, non sia pervenuta alcuna risposta entro dieci mesi dalla data della richiesta di controllo o qualora la risposta non contenga informazioni sufficienti per determinare l'autenticita' del documento in questione o l'effettiva origine dei prodotti, le autorita' doganali che hanno richiesto il controllo li escludono dal trattamento preferenziale, salvo circostanze eccezionali.
 
-##### ARTICOLO 33
+#### ARTICOLO 33
 
 Composizione delle controversie
 
@@ -6903,13 +6893,13 @@ Le controversie riguardanti le procedure di controllo di cui all'articolo 32 che
 
 La composizione delle controversie tra l'importatore e le autorita' doganali del paese d'importazione e' comunque soggetta alla legislazione del suddetto paese.
 
-##### ARTICOLO 34
+#### ARTICOLO 34
 
 Sanzioni
 
 Chiunque compili o faccia compilare un documento contenente dati non rispondenti a verita' allo scopo di ottenere un trattamento preferenziale per i prodotti e' assoggettato a sanzioni.
 
-##### ARTICOLO 35
+#### ARTICOLO 35
 
 Zone franche
 
@@ -6919,7 +6909,7 @@ Zone franche
 
 ## TITOLO VII - CEUTA E MELILLA
 
-##### ARTICOLO 36
+#### ARTICOLO 36
 
 Applicazione del protocollo
 
@@ -6929,7 +6919,7 @@ Applicazione del protocollo
 
 3\. Ai fini dell'applicazione del paragrafo 2 per quanto riguarda i prodotti originari di Ceuta e Melilla, il presente protocollo si applica, mutatis mutandis, fatte salve le condizioni particolari di cui all'articolo 37.
 
-##### ARTICOLO 37
+#### ARTICOLO 37
 
 Condizioni particolari
 
@@ -6975,25 +6965,25 @@ Nel caso dei prodotti originari di Ceuta e Melilla, inoltre, tale indicazione va
 
 ## TITOLO VIII - DISPOSIZIONI FINALI
 
-##### ARTICOLO 38
+#### ARTICOLO 38
 
 Modifiche del protocollo
 
 Il Consiglio di associazione puo' decidere di modificare le disposizioni del presente protocollo.
 
-##### ARTICOLO 39
+#### ARTICOLO 39
 
 Esecuzione del protocollo
 
 La Comunita' e l'Egitto adottano le misure necessarie all'esecuzione del presente protocollo.
 
-##### ARTICOLO 40
+#### ARTICOLO 40
 
 Merci in transito o in deposito
 
 Le disposizioni dell'accordo possono applicarsi alle merci rispondenti alle disposizioni del presente protocollo che, alla data dell'entrata in vigore dell'accordo, si trovano in transito nel territorio della Comunita' o dell'Egitto oppure in regime di deposito provvisorio, di deposito doganale o di zona franca, a condizione che vengano presentati - entro un termine di quattro mesi a decorrere da tale data - alle autorita' doganali dello Stato di importazione un certificato EUR. 1, rilasciato a posteriori dalle autorita' competenti dello Stato di esportazione, nonche' i documenti dai quali risulta che le merci sono state oggetto di trasporto diretto.
 
-##### Allegato I
+#### Allegato I
 
 Allegato I del Protocollo n. 4
 
@@ -7213,7 +7203,7 @@ o) solo per gli oli pesanti diversi dal gasolio e dagli oli combustibili della v
 
 24\. Ai sensi delle voci ex 2707, da 2713 a 2715, ex 2901, ex 2902 e ex 3403, le operazioni semplici quali la pulitura, la decantazione, la desalificazione, la disidratazione, il filtraggio, la colorazione, la marcatura, l'ottenimento di un tenore di zolfo mescolando prodotti con tenori di zolfo diversi, qualsiasi combinazione di queste operazioni o di operazioni analoghe non conferiscono l'origine.
 
-##### Allegato II
+#### Allegato II
 
 Allegato II del protocollo n. 4
 
@@ -16849,7 +16839,7 @@ brica del prodotto
 
 --------------------------------------------------------------------
 
-##### Allegato II
+#### Allegato II
 
 ex capitolo Reattori nucle- Fabbricazione in Fabbricazione in
 
@@ -20681,7 +20671,7 @@ capitolo 32.
 
 separata dal resto da un punto e virgola.
 
-##### Allegato III
+#### Allegato III
 
 Allegato III del protocollo n. 4
 
@@ -20899,7 +20889,7 @@ Capitolo 23
 
 5301 e 5302
 
-##### Allegato IV
+#### Allegato IV
 
 Allegato IV del protocollo n. 4
 
@@ -21203,7 +21193,7 @@ ai prodotti utilizzati per la fabbricazione o alle merci rie- sportate tali e qu
 
 Parte di provvedimento in formato grafico
 
-##### Allegato V
+#### Allegato V
 
 Allegato V del protocollo n. 4
 
@@ -21229,7 +21219,7 @@ scritto in modo leggibile
 
 Parte di provvedimento in formato grafico
 
-##### Allegato VI
+#### Allegato VI
 
 Allegato VI del protocollo n. 4
 
@@ -21339,7 +21329,7 @@ RELATIVO ALL'ASSISTENZA RECIPROCA TRA LE AUTORITA' AMMINISTRATIVE NEL
 
 SETTORE DOGANALE
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 Definizioni
 
@@ -21375,7 +21365,7 @@ e) "operazione che viola la legislazione doganale": tutte le
 
 violazioni o i tentativi di violazione della legislazione doganale
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Campo di applicazione
 
@@ -21385,7 +21375,7 @@ Campo di applicazione
 
 3\. L'assistenza in materia di riscossione di diritti, tasse o ammende non rientra nel presente protocollo.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 Assistenza su richiesta
 
@@ -21407,7 +21397,7 @@ c) le merci che vengono o potrebbero venire trasportate in modo da fare legittim
 
 d) i mezzi di trasporto per i quali vi sono fondati motivi di ritenere che siano destinati ad operazioni contrarie alla legislazione doganale.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Assistenza spontanea
 
@@ -21423,7 +21413,7 @@ Le Parti si prestano assistenza reciproca, di propria iniziativa e in conformita
 
 \- mezzi di trasporto che si possa ragionevolmente ritenere siano stati, siano o possano essere utilizzati per effettuare operazioni contrarie alla legislazione doganale;
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 Comunicazione/Notifica
 
@@ -21437,7 +21427,7 @@ che rientrano nell'ambito di applicazione del presente protocollo a un destinata
 
 Le domande di consegna di documenti e di notifica di decisioni devono essere presentate per iscritto nella lingua ufficiale dell'autorita' interpellata o in una lingua accettabile per quest'ultima.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 Forma e contenuto delle domande di assistenza
 
@@ -21461,7 +21451,7 @@ f) una sintesi dei fatti e delle indagini gia' svolte.
 
 4\. Se la domanda non risponde ai requisiti formali stabiliti se ne puo' richiedere la correzione o il completamento; nel frattempo, possono essere disposte misure cautelative.
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 Adempimento delle domande
 
@@ -21473,7 +21463,7 @@ Adempimento delle domande
 
 4\. I funzionari debitamente autorizzati di una Parte possono, d'intesa con l'altra Parte e alle condizioni da essa stabilite, presenziare alle indagini condotte nel territorio di quest'ultima.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 Forma in cui devono essere comunicate le informazioni
 
@@ -21483,7 +21473,7 @@ Forma in cui devono essere comunicate le informazioni
 
 3\. Gli originali dei documenti sono trasmessi soltanto su richiesta qualora le copie autenticate risultassero insufficienti. Gli originali sono restituiti quanto prima.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 Deroghe all'obbligo di fornire assistenza
 
@@ -21501,7 +21491,7 @@ c) violi un segreto industriale, commerciale o professionale.
 
 4\. Nei casi di cui ai paragrafi 1 e 2, la decisione dell'autorita' interpellata e le relative motivazioni devono essere comunicate senza indugio all'autorita' richiedente.
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 Scambi di informazioni e riservatezza
 
@@ -21517,7 +21507,7 @@ Pertanto, nei documenti probatori, nelle relazioni e testimonianze, nonche' nei 
 
 4\. Le informazioni ottenute sono utilizzate soltanto ai fini del presente protocollo. Una Parte che voglia utilizzare tali informazioni per altri fini deve ottenere l'accordo scritto preliminare dell'autorita' che le ha fornite. Tale utilizzazione e' quindi soggetta a tutte le restrizioni imposte da detta autorita'.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 Esperti e testimoni
 
@@ -21539,13 +21529,13 @@ amministrativa tale funzionario deve comparire, nonche' per quale
 
 causa e a quale titolo sara' ascoltato.
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 Spese di assistenza
 
 Le parti rinunciano reciprocamente a tutte le richieste di rimborso delle spese sostenute in virtu' del presente protocollo, escluse, a seconda dei casi, le spese per esperti e testimoni nonche' per gli interpreti e traduttori che non dipendono da pubblici servizi.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 Attuazione
 
@@ -21553,7 +21543,7 @@ Attuazione
 
 2\. Le Parti si consultano e si tengono reciprocamente informate in merito alle norme specifiche di esecuzione adottate conformemente alle disposizioni del presente protocollo.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 Altri accordi
 

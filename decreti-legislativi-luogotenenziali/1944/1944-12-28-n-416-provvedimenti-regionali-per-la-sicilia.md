@@ -46,7 +46,7 @@ Abbiamo sanzionato e promulghiamo quanto segue:
 
 ## CAPO I. - Alto Commissariato e Consulta regionale
 
-#### Art. 1
+### Art. 1
 
 L'art. 2 del R. decreto-leggo 18 marzo 1944, n. 91, e' modificato come segue:
 
@@ -62,7 +62,7 @@ Resta in ogni caso riservata alle rispettive amministrazioni, ai sensi delle dis
 
 d) interviene senza voto deliberativo al Consiglio dei Ministri, su convocazione del Presidente del Consiglio, limitatamente agli affari riguardanti la Sicilia».
 
-#### Art. 2
+### Art. 2
 
 Rientrano nella competenza dell'Alto Commissario:
 
@@ -74,7 +74,7 @@ Sempre entro i limiti di spesa fissati dai Ministeri competenti, l'Alto Commissa
 
 b) la facolta' di emanare, sentita la Consulta regionale, norme per l'attuazione, in relazione alle condizioni particolari della Sicilia, delle disposizioni concernenti l'agricoltura, le foreste, l'industria, il commercio, il lavoro, le comnunicazioni e gli approvvigionamenti.
 
-#### Art. 3
+### Art. 3
 
 L'art. 7 del R. decreto-legge 18 marzo 1944, n. 91, e' modificato come segue:
 
@@ -84,33 +84,33 @@ I membri della Consulta sono nominati dal Presidente del Consiglio dei Ministri,
 
 Possono inoltre essere chiamati a partecipare ai lavori della Consulta, per determinati argomenti, altri esperti, funzionari e rappresentanti di pubbliche amministrazioni».
 
-#### Art. 4
+### Art. 4
 
 La Consulta regionale esamina i problemi dell'Isola, formula proposte per l'ordinamento regionale ed assiste l'Alto Commissario nell'esercizio delle sue funzioni, pronunciandosi sui provvedimenti che saranno sottoposti al suo esame.
 
-#### Art. 5
+### Art. 5
 
 A decorrere dall'esercizio finanziario 1945-46 sara' istituita negli stati di previsione delle spese dei Ministeri competenti una rubrica, speciale, nella quale saranno raggruppate le spese di gestione nelle materie di competenza dell'Alto Commissariato per la Sicilia.
 
 Per i prescritti controlli saranno istituiti, presso l'Alto Commissariato per la Sicilia, un ufficio del Ministero del tesoro, con le funzioni delle Ragionerie centrali, ed una delegazione della Corte dei conti.
 
-#### Art. 6
+### Art. 6
 
 Per quanto non innovato o modificato dal presente decreto, restano ferme le disposizioni del R. decreto-legge 18 marzo 1944, n. 91.
 
 ## CAPO II. - Procedimenti per lo sviluppo agricolo.
 
-#### Art. 7
+### Art. 7
 
 E' istituito presso l'Alto Commissariato per la Sicilia un Comitato regionale per la bonifica, e la colonizzazione siciliana, presieduto dall'Alto Commissario, e composto del provveditore alle opere pubbliche, dell'ispettore agrario compartimentale, del rappresentante dell'ente di colonizzazione del latifondo siciliano, di due agricoltori e di due lavoratori agricoli nominati dall'Alto Commissario, sentita la Consulta regionale.
 
 Il Comitato coordina l'azione degli organi statali, dell'Ente di colonizzazione, dei consorzi di bonifica e di miglioramento fondiario e delle cooperative di lavoro e di produzione agraria, con lo scopo di promuovere ed aiutare lo sviluppo delle opere di bonifica e di colonizzazione.
 
-#### Art. 8
+### Art. 8
 
 Il comitato regionale predispone i programmi complessivi delle opere di cui all'art. 2 del R. decreto 13 febbraio 1933, n. 215, e delle conseguenti trasformazioni dell'agricoltura, stabilendo il loro ordine graduale di svolgimento. Determina inoltre criteri di massime per le opere previste dagli articoli 38 e 43 del citalo decreto.
 
-#### Art. 9
+### Art. 9
 
 Il Comitato regionale, oltre a predisporre la trasformazione radicale del latifondo, ha, per il periodo di emergenza, i compiti:
 
@@ -120,7 +120,7 @@ b) di stabilire i criteri e le forme di utilizzazione agraria e di miglioramento
 
 c) di favorire la costituzione di associazioni e di cooperative agricole, con speciale riguardo a quelle di lavoratori della terra per la conduzione diretta di aziende agrarie.
 
-#### Art. 10
+### Art. 10
 
 Sulla base delle determinazioni di cui alla lettera b) dall'articolo precedente, gli ispettori agrari provinciali prescrivono la compilazione dei piani di utilizzazione e di miglioramento da attuare nei terreni incolti o insufficientemente coltivati e, qualora gli interessati non li presentino nei termini stabiliti, li redigono direttamente.
 
@@ -130,11 +130,11 @@ Il compito di vigilane sull'osservanza degli obblighi imposti spetta all'ispetto
 
 L'ispettore agrario provinciale, per l'espletamento delle attribuzioni demandategli dal presente articolo, puo' anche valersi dell'opera dell'Ente di colonizzazione e dei consorzi di bonifica.
 
-#### Art. 11
+### Art. 11
 
 La concessione di terre non coltivate o insufficientemente coltivate a cooperative ed altri enti, a norma del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 279, e' subordinata all'obbligo di attuare i piani approvati.
 
-#### Art. 12
+### Art. 12
 
 Anche nel caso in cui non abbiano luogo le concessioni previste dall'articolo precedente, i proprietari dei fondi, per i quali sono stati prescritti i piani di coltivazione e di miglioramento, sono tenuti ad attuarli.
 
@@ -142,11 +142,11 @@ Qualora i proprietari non assumano impegno di dare esecuzione ai piani loro impo
 
 Per l'esecuzione dei miglioramenti di cui al presente articolo potranno essere accordati sussidi o mutui col concorso statale nel pagamento degli interessi a norma del R. decreto 13 febbraio 1933, n. 215.
 
-#### Art. 13
+### Art. 13
 
 L'Alto Commissario, sentita la Consulta regionale, promuovera' il riordinamento dell'Ente di colonizzazione del latifondo siciliano.
 
-#### Art. 14
+### Art. 14
 
 Per l'esecuzione in Sicilia delle opere, pubbliche o private, di bonifica, di colonizzazione e di miglioramento fondiario a norma del R. decreto 13 febbraio 1933, n. 215, e' autorizzata la spesa di un miliardo, ivi compresa la disponibilita' esistente alla data del presente decreto sul fondo autorizzato dall'art. 2 della legge 2 gennaio 1940, n. 1.
 
@@ -154,87 +154,87 @@ Con decreti del Ministro per il tesoro, di concerto con il Ministro per l'agrico
 
 ## CAPO III. - Provvedimenti per lo sviluppo industriale.
 
-### ((CAPO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+## ((CAPO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 15
-
-((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
-
-#### Art. 16
+### Art. 15
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 17
+### Art. 16
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 18
+### Art. 17
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 19
+### Art. 18
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 20
+### Art. 19
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 21
+### Art. 20
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 22
+### Art. 21
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 23
+### Art. 22
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 24
+### Art. 23
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 25
+### Art. 24
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 26
+### Art. 25
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 27
+### Art. 26
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 28
+### Art. 27
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 29
+### Art. 28
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 30
+### Art. 29
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 31
+### Art. 30
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 32
+### Art. 31
+
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+
+### Art. 32
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
 ## CAPO IV. - Disposizioni finali.
 
-#### Art. 33
+### Art. 33
 
 Con decreti del Ministro per il tesoro sara' provveduto alle variazioni di bilancio occorrenti per l'attuazione del presente decreto.
 
-#### Art. 34
+### Art. 34
 
 Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno.
 

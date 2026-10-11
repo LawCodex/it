@@ -25,15 +25,15 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la convenzione recante revisione della convenzione relativa alla creazione di un Istituto universitario europeo, con atto finale, fatta a Firenze il 18 giugno 1992 ed il 17 settembre 1992.
 
-### Art. 2
+## Art. 2
 
 2\. Piena ed intera esecuzione e' data alla convenzione di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore in conformita' a quanto disposto dall'articolo 13 della convenzione medesima.
 
-### Art. 3
+## Art. 3
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
@@ -173,7 +173,7 @@ I QUALI, dopo aver scambiato i loro pieni poteri, riconosciuti in buona e debita
 
 HANNO CONVENUTO LE SEGUENTI DISPOSIZIONI:
 
-### ARTICOLO 1
+## ARTICOLO 1
 
 1\. All'articolo 2, paragrafo 1, comma 1, la terza frase e' sostituita dal testo seguente:
 
@@ -185,7 +185,7 @@ HANNO CONVENUTO LE SEGUENTI DISPOSIZIONI:
 
 con la costruzione europea."
 
-### ARTICOLO 2
+## ARTICOLO 2
 
 1\. All'articolo 6, paragrafo 5, la lettera d) diventa la lettera f).
 
@@ -195,7 +195,7 @@ con la costruzione europea."
 
 e) istituisce o sopprime centri interdisciplinari interni all'Istituto previa consultazione del consiglio accademico e del consiglio di ricerca;".
 
-### ARTICOLO 3
+## ARTICOLO 3
 
 All'articolo 7, paragrafo 2, il terzo comma e' sostituito dal testo seguente:
 
@@ -203,7 +203,7 @@ All'articolo 7, paragrafo 2, il terzo comma e' sostituito dal testo seguente:
 
 lettera e) e dell'articolo 9, paragrafo 2."
 
-### ARTICOLO 4
+## ARTICOLO 4
 
 All'articolo 7, il paragrafo 3 e' sostituito dal testo seguente:
 
@@ -215,7 +215,7 @@ Le disposizioni regolamentari di cui all'articolo 6 paragrafo 5, lettera a) dete
 
 suo mandato, su iniziativa sua o dell'Istituto."
 
-### ARTICOLO 5
+## ARTICOLO 5
 
 1\. All'articolo 9 i paragrafi 2, 3, 4 e 5 sono sostituiti dalle disposizioni seguenti:
 
@@ -275,11 +275,11 @@ g) esamina il progetto di relazione di attivita' elaborato dal presidente dell'I
 
 2\. All'articolo 9, il paragrafo 7 e' soppresso.
 
-### ARTICOLO 6
+## ARTICOLO 6
 
 All'articolo 10, le parole "e nell'ambito delle quali sono raggruppati seminari" sono soppresse.
 
-### ARTICOLO 7
+## ARTICOLO 7
 
 L'articolo 11 e' completato dal paragrafo seguente:
 
@@ -287,9 +287,9 @@ L'articolo 11 e' completato dal paragrafo seguente:
 
 accademico e del consiglio di ricerca."
 
-### ARTICOLO 8 - non concerne il testo italiano
+## ARTICOLO 8 - non concerne il testo italiano
 
-### ARTICOLO 9
+## ARTICOLO 9
 
 1\. All'articolo 14 paragrafo 1 i termini "paragrafo 3" sono sostituiti con i termini "paragrafo 4".
 
@@ -305,7 +305,7 @@ accademico e del consiglio di ricerca."
 
 4\. All'articolo 14, il paragrafo 3 diventa paragrafo 4 e i termini, "del titolo" sono sostituiti con i termini "dei titoli"
 
-### art. 10
+## art. 10
 
 ARTICOLI 10
 
@@ -315,7 +315,7 @@ All'articolo 15, il paragrafo 1 primo comma e' sostituito dal testo seguente:
 
 assistenti e dagli altri docenti."
 
-### ARTICOLO 11
+## ARTICOLO 11
 
 All'articolo 23, paragrafo 1, il primo comma e' sostituito dal testo seguente:
 
@@ -325,11 +325,11 @@ verificatori non e' rinnovabile."
 
 ## DISPOSIZIONI TRANSITORIE E FINALI
 
-### ARTICOLO 12
+## ARTICOLO 12
 
 Il consiglio superiore puo' portare da tre a quattro anni, la durata del mandato dei verificatori dei conti in carica all'entrata in vigore della presente convenzione.
 
-### ARTICOLO 13
+## ARTICOLO 13
 
 La convenzione e' sottoposta alla ratifica, all'accettazione o all'approvazione, conformemente alle norme costituzionali degli Stati contraenti.
 
@@ -337,7 +337,7 @@ Essa entra in vigore il primo giorno del mese successivo alla data in cui il Gov
 
 La convenzione, redatta in un unico esemplare in lingua danese, francese, greca, inglese, irlandese, italiana, olandese, portoghese spagnola e tedesca, i dieci testi facenti tutti ugualmente fede, e' depositata negli archivi del Governo della Repubblica italiana che provvede a rimetterne copia certificata conforme a ciascuno dei Governi degli altri Stati contraenti.
 
-### Atto finale
+## Atto finale
 
 ATTO FINALE
 

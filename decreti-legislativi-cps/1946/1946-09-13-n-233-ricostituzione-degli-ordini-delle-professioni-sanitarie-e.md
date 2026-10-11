@@ -40,7 +40,7 @@ HA SANZIONATO E PROMULGA:
 
 ## CAPO I. - ((Degli Ordini delle professioni sanitarie)).
 
-#### Art. 1
+### Art. 1
 
 (( (Ordini delle professioni sanitarie).))
 
@@ -72,7 +72,7 @@ A tal fine, in ogni regione sono costituiti uffici istruttori di albo, composti 
 
 l) vigilano sugli iscritti agli albi, in qualsiasi forma giuridica svolgano la loro attivita' professionale, compresa quella societaria, irrogando sanzioni disciplinari secondo una graduazione correlata alla volontarieta' della condotta, alla gravita' e alla reiterazione dell'illecito, tenendo conto degli obblighi a carico degli iscritti, derivanti dalla normativa nazionale e regionale vigente e dalle disposizioni contenute nei contratti e nelle convenzioni nazionali di lavoro.))
 
-#### Art. 2
+### Art. 2
 
 (( (Organi).))
 
@@ -110,7 +110,7 @@ b) la commissione di albo, che, per la professione odontoiatrica, e' costituita 
 
 Il vice presidente sostituisce il presidente in caso di necessita' ed esercita le funzioni a lui delegate, comprese quelle inerenti alla segreteria della commissione in relazione agli albi con un numero di iscritti pari o inferiore a mille.))
 
-#### Art. 3
+### Art. 3
 
 (( (Compiti del Consiglio direttivo e della commissione di albo).))
 
@@ -146,7 +146,7 @@ e) dare il proprio concorso alle autorita' locali nello studio e nell'attuazione
 
 4\. Contro i provvedimenti per le materie indicate ai commi 1, lettera a), e 2, lettere a) e c), e quelli adottati ai sensi del comma 3 nelle medesime materie, e' ammesso ricorso alla Commissione centrale per gli esercenti le professioni sanitarie.))
 
-#### Art. 4
+### Art. 4
 
 (( (Scioglimento dei Consigli direttivi e delle commissioni di albo).))
 
@@ -160,7 +160,7 @@ e) dare il proprio concorso alle autorita' locali nello studio e nell'attuazione
 
 ## CAPO II. - ((Degli albi professionali)).
 
-#### Art. 5 - Albi professionali
+### Art. 5 - Albi professionali
 
 1\. Ciascun Ordine ha uno o piu' albi permanenti, in cui sono iscritti i professionisti della rispettiva professione, ed elenchi per categorie di professionisti laddove previsti da specifiche norme.
 
@@ -184,7 +184,7 @@ AGGIORNAMENTO (14)
 
 L'aggiornamento in calce, precedentemente disposto dall'art. 29, comma 1 del D.L. 2 marzo 2020, n. 9, e' stato eliminato; la modifica ha perso efficacia per effetto dell'abrogazione del D.L. medesimo ad opera della L. 24 aprile 2020, n. 27, la quale ne ha contestualmente fatti salvi gli effetti.
 
-#### Art. 6
+### Art. 6
 
 (( (Cancellazione dall'albo professionale).))
 
@@ -204,7 +204,7 @@ e) di trasferimento all'estero, salvo quanto previsto dall'articolo 5, comma 5.
 
 ## CAPO III. - ((Delle Federazioni nazionali)).
 
-#### Art. 7 - Federazioni nazionali
+### Art. 7 - Federazioni nazionali
 
 1\. Gli Ordini territoriali sono riuniti in Federazioni nazionali con sede in Roma, che assumono la rappresentanza esponenziale delle rispettive professioni presso enti e istituzioni nazionali, europei e internazionali.
 
@@ -212,7 +212,7 @@ e) di trasferimento all'estero, salvo quanto previsto dall'articolo 5, comma 5.
 
 3\. Le Federazioni nazionali emanano il codice deontologico, approvato nei rispettivi Consigli nazionali da almeno tre quarti dei consiglieri presidenti di Ordine e rivolto a tutti gli iscritti agli Ordini territoriali, che lo recepiscono con delibera dei Consigli direttivi.
 
-#### Art. 8
+### Art. 8
 
 (( (Organi delle Federazioni nazionali).))
 
@@ -292,43 +292,41 @@ AGGIORNAMENTO (12)
 
 La L. 11 gennaio 2018, n. 3 ha disposto (con l'art. 4, comma 2) che "I presidenti delle Federazioni nazionali di cui all'articolo 8, comma 1, lettera a), del decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, n. 233, come modificato dal comma 1 del presente articolo, sono membri di diritto del Consiglio superiore di sanita'".
 
-#### Art. 9
+### Art. 9
 
 ((LA L. 11 GENNAIO 2018, N. 3 HA DISPOSTO LA RISTRUTTURAZIONE DEI CAPI I, II E III DEL PRESENTE PROVVEDIMENTO)).
 
-#### Art. 10
+### Art. 10
 
 ((LA L. 11 GENNAIO 2018, N. 3 HA DISPOSTO LA RISTRUTTURAZIONE DEI CAPI I, II E III DEL PRESENTE PROVVEDIMENTO)).
 
-#### Art. 11
+### Art. 11
 
 ((LA L. 11 GENNAIO 2018, N. 3 HA DISPOSTO LA RISTRUTTURAZIONE DEI CAPI I, II E III DEL PRESENTE PROVVEDIMENTO)).
 
-#### Art. 12
+### Art. 12
 
 ((LA L. 11 GENNAIO 2018, N. 3 HA DISPOSTO LA RISTRUTTURAZIONE DEI CAPI I, II E III DEL PRESENTE PROVVEDIMENTO)).
 
-#### Art. 13
+### Art. 13
 
 ((LA L. 11 GENNAIO 2018, N. 3 HA DISPOSTO LA RISTRUTTURAZIONE DEI CAPI I, II E III DEL PRESENTE PROVVEDIMENTO)).
 
-#### Art. 14
+### Art. 14
 
 ((LA L. 11 GENNAIO 2018, N. 3 HA DISPOSTO LA RISTRUTTURAZIONE DEI CAPI I, II E III DEL PRESENTE PROVVEDIMENTO)).
 
-#### Art. 15
+### Art. 15
 
 ((LA L. 11 GENNAIO 2018, N. 3 HA DISPOSTO LA RISTRUTTURAZIONE DEI CAPI I, II E III DEL PRESENTE PROVVEDIMENTO)).
 
-#### Art. 16
+### Art. 16
 
 ((LA L. 11 GENNAIO 2018, N. 3 HA DISPOSTO LA RISTRUTTURAZIONE DEI CAPI I, II E III DEL PRESENTE PROVVEDIMENTO)).
 
-## CAPO IV. - Della Commissione centrale per gli esercenti
+## CAPO IV. - Della Commissione centrale per gli esercenti le professioni sanitarie.
 
-### le professioni - sanitarie.
-
-#### Art. 17
+### Art. 17
 
 Presso l'Alto Commissariato per l'igiene e la sanita' pubblica e' costituita, per i professionisti di cui al presente decreto, una Commissione centrale, nominata con decreto del Capo dello Stato, su proposta del Presidente del Consiglio dei Ministri, di concerto con il Ministro per la grazia e giustizia, presieduta da un consigliere di Stato e costituita da un membro del Consiglio superiore di sanita' e da un funzionario dell'Amministrazione civile dell'interno di grado non inferiore al 6°. (10) (11)
 
@@ -382,7 +380,7 @@ AGGIORNAMENTO (11)
 
 La Corte Costituzioanle con sentenza 21 settembre - 7 ottobre 2016, n. 215 (in G.U. 1ª s.s. 12/10/2016, n. 41) ha dichiarato "l'illegittimita' costituzionale dell'art. 17, primo e secondo comma, lettera e), del decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, n. 233 (Ricostituzione degli Ordini delle professioni sanitarie e per la disciplina dell'esercizio delle professioni stesse), nelle parti in cui si fa riferimento alla nomina dei componenti di derivazione ministeriale", e "in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e sul funzionamento della Corte costituzionale), l'illegittimita' costituzionale dell'art. 17, primo e secondo comma, lettere a), b), c) e d) del citato d.lgs. C.p.S. n. 233 del 1946, nelle parti in cui si fa riferimento alla nomina dei componenti di derivazione ministeriale".
 
-#### Art. 18
+### Art. 18
 
 La Commissione centrale:
 
@@ -390,13 +388,13 @@ a) decide sui ricorsi ad essa proposti a norma del presente decreto;
 
 b) esercita il potere disciplinare nei confronti dei propri membri professionisti e dei membri dei Comitati centrali delle Federazioni nazionali.
 
-#### Art. 19
+### Art. 19
 
 Avverso le decisioni della Commissione centrale e' ammesso ricorso alle Sezioni unite della Corte Suprema di cassazione, a norma dell'art. 362 del Codice di procedura civile.
 
 ## CAPO V. - Disposizioni transitorie e finali.
 
-#### Art. 20
+### Art. 20
 
 I presidenti degli Ordini e dei Collegi ed i presidenti delle Federazioni nazionali sono membri di diritto rispettivamente dei Consigli provinciali e del Consiglio superiore di sanita'.
 
@@ -408,7 +406,7 @@ AGGIORNAMENTO (12)
 
 La L. 11 gennaio 2018, n. 3 ha disposto (con l'art. 4, comma 8) che "A decorrere dalla data di entrata in vigore dei regolamenti e degli statuti di cui rispettivamente ai commi 5 e 6, sono abrogati gli articoli 20, 22, 23, 24, 25, 26, 27 e 28 del decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, n. 233".
 
-#### Art. 21
+### Art. 21
 
 Gli iscritti agli albi sono tenuti anche all'iscrizione ed al pagamento dei relativi Contributi all'Ente nazionale di previdenza ed assistenza istituito o da istituirsi per ciascuna categoria.
 
@@ -420,7 +418,7 @@ AGGIORNAMENTO (5)
 
 La L. 2 aprile 1980, n. 127 ha disposto (con l'art. 3, comma 4) che "le ostetriche iscritte ad altre forme di previdenza obbligatoria, a decorrere dalla data di entrata in vigore della presente legge non possono essere iscritte all'ENPAO, in deroga a quanto previsto dall'articolo 21 del decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, n. 233".
 
-#### Art. 22
+### Art. 22
 
 Entro un mese dalla data di entrata in vigore del presente decreto i prefetti, sentito l'ufficio sanitario provinciale, nomineranno per ciascuno degli Ordini e Collegi dei sanitari della provincia una Commissione straordinaria composta di tre membri, iscritti ai rispettivi albi, con l'incarico di amministrare gli Ordini o Collegi fino a quando non saranno eletti i Consigli direttivi. Tale elezione dovra' essere compiuta non oltre il termine di due mesi dalla data di entrata in vigore del regolamento di esecuzione del presente decreto.
 
@@ -434,7 +432,7 @@ AGGIORNAMENTO (12)
 
 La L. 11 gennaio 2018, n. 3 ha disposto (con l'art. 4, comma 8) che "A decorrere dalla data di entrata in vigore dei regolamenti e degli statuti di cui rispettivamente ai commi 5 e 6, sono abrogati gli articoli 20, 22, 23, 24, 25, 26, 27 e 28 del decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, n. 233".
 
-#### Art. 23
+### Art. 23
 
 Restano fermi i provvedimenti relativi alla iscrizione ed alla cancellazione dagli albi professionali nonche' i provvedimenti disciplinari a carico degli iscritti, adottati dagli organi indicati nell'art. 22.
 
@@ -446,7 +444,7 @@ AGGIORNAMENTO (12)
 
 La L. 11 gennaio 2018, n. 3 ha disposto (con l'art. 4, comma 8) che "A decorrere dalla data di entrata in vigore dei regolamenti e degli statuti di cui rispettivamente ai commi 5 e 6, sono abrogati gli articoli 20, 22, 23, 24, 25, 26, 27 e 28 del decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, n. 233".
 
-#### Art. 24
+### Art. 24
 
 Entro un mese dalla data di entrata in vigore del presente decreto, l'Alto Commissario per l'igiene e la sanita' pubblica nominera', per ciascuna delle categorie professionali dei sanitari, una Commissione straordinaria composta di cinque membri iscritti nei rispettivi albi professionali con l'incarico di amministrare le Federazioni nazionali fino a quando non saranno eletti i Comitati centrali. Tale elezione dovra' essere compiuta non oltre il termine di sei mesi dalla data di entrata in vigore del regolamento di esecuzione del presente decreto.
 
@@ -460,7 +458,7 @@ AGGIORNAMENTO (12)
 
 La L. 11 gennaio 2018, n. 3 ha disposto (con l'art. 4, comma 8) che "A decorrere dalla data di entrata in vigore dei regolamenti e degli statuti di cui rispettivamente ai commi 5 e 6, sono abrogati gli articoli 20, 22, 23, 24, 25, 26, 27 e 28 del decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, n. 233".
 
-#### Art. 25
+### Art. 25
 
 L'attuale Commissione centrale per gli esercenti le professioni sanitarie e' sciolta, Essa sara' ricostituita secondo le norme del presente decreto.
 
@@ -472,7 +470,7 @@ AGGIORNAMENTO (12)
 
 La L. 11 gennaio 2018, n. 3 ha disposto (con l'art. 4, comma 8) che "A decorrere dalla data di entrata in vigore dei regolamenti e degli statuti di cui rispettivamente ai commi 5 e 6, sono abrogati gli articoli 20, 22, 23, 24, 25, 26, 27 e 28 del decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, n. 233".
 
-#### Art. 26
+### Art. 26
 
 Fino a quando non verra' provveduto alla ricostituzione del Consiglio superiore di sanita', in luogo del membro del Consiglio stesso, il segretario generale presso l'Alto Commissariato per l'igiene e la sanita' pubblica fa parte della Commissione centrale di cui all'art. 17.
 
@@ -484,7 +482,7 @@ AGGIORNAMENTO (12)
 
 La L. 11 gennaio 2018, n. 3 ha disposto (con l'art. 4, comma 8) che "A decorrere dalla data di entrata in vigore dei regolamenti e degli statuti di cui rispettivamente ai commi 5 e 6, sono abrogati gli articoli 20, 22, 23, 24, 25, 26, 27 e 28 del decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, n. 233".
 
-#### Art. 27
+### Art. 27
 
 Con separato provvedimento saranno emanate norme relative alla disciplina professionale dell'attivita infermieristica.
 
@@ -496,7 +494,7 @@ AGGIORNAMENTO (12)
 
 La L. 11 gennaio 2018, n. 3 ha disposto (con l'art. 4, comma 8) che "A decorrere dalla data di entrata in vigore dei regolamenti e degli statuti di cui rispettivamente ai commi 5 e 6, sono abrogati gli articoli 20, 22, 23, 24, 25, 26, 27 e 28 del decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, n. 233".
 
-#### Art. 28
+### Art. 28
 
 Con il regolamento di esecuzione del presente decreto, il Governo provvedera' a dettare le norme relative alla elezione dei componenti dei Consigli direttivi degli Ordini e Collegi provinciali e dei Comitati centrali delle Federazioni nazionali, alla tenuta degli albi, alle iscrizioni ed alle cancellazioni degli albi stessi, alla riscossione ed erogazione dei contributi, alla gestione amministrativa e contabile degli Ordini, Collegi e Federazioni, alle sanzioni ed ai procedimenti disciplinari, ai ricorsi ed alla procedura davanti alla Commissione centrale, nonche' a quanto altro possa occorrere per l'applicazione del presente decreto.
 

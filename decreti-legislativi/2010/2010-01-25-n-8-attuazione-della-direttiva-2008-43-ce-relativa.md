@@ -46,11 +46,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - DISPOSIZIONI GENERALI
 
-### DISPOSIZIONI GENERALI
-
-#### Art. 1
+### Art. 1
 
 Oggetto e campo di applicazione
 
@@ -78,11 +76,9 @@ e-quater) agli inneschi a percussione, costituiti da una capsula di metallo o di
 
 4\. Per gli esplosivi di cui alle lettere d), ed e) del comma 3, continuano ad applicarsi le disposizioni di cui all'articolo 8 del decreto-legge 27 luglio 2005, n. 144, convertito, con modificazioni, dalla legge 31 luglio 2005, n. 155, e quelle adottate in attuazione del medesimo articolo, fermo restando il divieto di immissione sul territorio nazionale ed impiego da parte di soggetti diversi da quelli individuati dalle predette disposizioni.
 
-## Capo II
+## Capo II - DISPOSIZIONI PARTICOLARI RIGUARDANTI L'IDENTIFICAZIONE DEL PRODOTTO
 
-### DISPOSIZIONI PARTICOLARI RIGUARDANTI L'IDENTIFICAZIONE - DEL PRODOTTO
-
-#### Art. 2
+### Art. 2
 
 Identificazione univoca
 
@@ -122,11 +118,9 @@ g) per i bidoni ed i fusti contenenti esplosivi, l'identificazione univoca e' co
 
 8\. Il Ministero dell'interno adotta, senza nuovi o maggiori oneri per il bilancio dello Stato, tutti i provvedimenti, anche con mezzi adeguati di pubblicita', necessari a richiamare l'attenzione dei distributori che riconfezionano gli esplosivi e degli utilizzatori sulla necessita' che l'esplosivo e le confezioni elementari rechino sempre l'identificazione univoca di cui al comma 1.
 
-## Capo III
+## Capo III - DISPOSIZIONI RIGUARDANTI LA RACCOLTA E L'ARCHIVIAZIONE DEI DATI
 
-### DISPOSIZIONI RIGUARDANTI LA RACCOLTA E L'ARCHIVIAZIONE - DEI DATI
-
-#### Art. 3
+### Art. 3
 
 Sistema informatico di raccolta dei dati
 
@@ -154,11 +148,9 @@ AGGIORNAMENTO (2)
 
 Il D.L. 18 febbraio 2015, n. 7, convertito con modificazioni dalla L. 17 aprile 2015, n. 43, ha disposto (con l'art. 3, comma 3-quater) che "Gli obblighi per le imprese, previsti dalle disposizioni di cui al comma 3-ter, si applicano dalla data di entrata in vigore della legge di conversione del presente decreto".
 
-## Capo IV
+## Capo IV - DISPOSIZIONI FINALI
 
-### DISPOSIZIONI FINALI
-
-#### Art. 4
+### Art. 4
 
 Disciplina sanzionatoria
 
@@ -180,7 +172,7 @@ e) mancata indicazione ed aggiornamento dei recapiti delle persone tenute, al di
 
 4\. Nei casi piu' gravi o in caso di recidiva delle violazioni di cui al comma 3, puo' essere, altresi', disposta la revoca o la sospensione dell'autorizzazione di polizia, ai sensi dell'articolo 10 del testo unico delle leggi di pubblica sicurezza.
 
-#### Art. 5
+### Art. 5
 
 Disposizioni finali
 
@@ -188,7 +180,7 @@ Disposizioni finali
 
 1\. Fermo restando quanto previsto dal testo unico delle leggi di pubblica sicurezza, dall'articolo 8 del decreto-legge 27 luglio 2005, n. 144, convertito, con modificazioni, dalla legge 31 luglio 2005, n. 155, e dalle disposizioni adottate in attuazione del medesimo articolo, con decreto del Ministro dell'interno, di concerto con il Ministro dell'economia e delle finanze e con il Ministro dello sviluppo economico, adottato, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, ((entro il 5 aprile 2015, sono emanate disposizioni)) al fine di garantire la sicurezza dei depositi, l'univoca identificazione dei titolari delle licenze di importazione, produzione e deposito degli esplosivi e della sorveglianza del mercato, la verifica periodica del sistema di raccolta e trasmissione dei dati per assicurarne l'efficacia, la qualita' e la protezione dal danneggiamento e dalla distruzione accidentale o dolosa dei dati registrati e la loro sicura conservazione nonche' al fine di definire le modalita' dell'assunzione, da parte delle imprese, delle spese di funzionamento del sistema G.E.A., ai sensi dell'articolo 3, comma 4.
 
-#### Art. 6
+### Art. 6
 
 Disposizioni finanziarie
 
@@ -232,11 +224,9 @@ e delle finanze
 
 Visto, il Guardasigilli: Alfano
 
-## Capo IV
+## Capo IV - DISPOSIZIONI FINALI
 
-### DISPOSIZIONI FINALI
-
-#### Allegato 1
+### Allegato 1
 
 ALLEGATO 1
 

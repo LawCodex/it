@@ -27,7 +27,7 @@ la seguente legge:
 
 ## ENTRATE E SPESE DI COMPETENZA DELL'ESERCIZIO FINANZIARIO 1963-64
 
-### Art. 1
+## Art. 1
 
 Le entrate ordinarie e straordinarie dello
 
@@ -56,7 +56,7 @@ e rimasero da riscuotere................... L. 434.406.716.836
  -------------------
 ```
 
-### Art. 2
+## Art. 2
 
 Le spese ordinarie e straordinarie dello
 
@@ -78,7 +78,7 @@ e rimasero da pagare....................... L. 1.896.058.878.405
  -------------------
 ```
 
-### Art. 3
+## Art. 3
 
 Il riepilogo generale dei risultati delle entrate e delle spese di competenza dell'esercizio finanziario 1963-64 rimane cosi' stabilito:
 
@@ -122,7 +122,7 @@ Spese...................................... " 6.781.611.109.152
 
 ## ENTRATE E SPESE RESIDUE DELL'ESERCIZIO 1962-63 ED ESERCIZI PRECEDENTI
 
-### Art. 4
+## Art. 4
 
 I residui attivi alla chiusura dell'eser-
 
@@ -143,7 +143,7 @@ e rimasero da riscuotere al 30 giugno 1964. L. 347.516.550.597
  -------------------
 ```
 
-### Art. 5
+## Art. 5
 
 I residui passivi alla chiusura dell'eser-
 
@@ -161,7 +161,7 @@ e rimasero da pagare al 30 giugno 1964..... L. 1.519.877.853.300
 
 ## RESIDUI ATTIVI E PASSIVI ALLA CHIUSURA DELL'ESERCIZIO FINANZIARIO - 1963-64
 
-### Art. 6
+## Art. 6
 
 I residui attivi alla chiusura dell'esercizio finanziario 1963-64, sono stabiliti, come dal conto consuntivo del bilancio, nelle seguenti somme:
 
@@ -185,7 +185,7 @@ Somme riscosse e non versate in Tesoreria
  -------------------
 ```
 
-### Art. 7
+## Art. 7
 
 I residui passivi alla chiusura dell'esercizio finanziario 1963-64, sono stabiliti, come dal conto consuntivo del bilancio, nelle seguenti somme:
 
@@ -207,7 +207,7 @@ esercizi precedenti (articolo 5)........... " 1.519.877.853.300
 
 ## SITUAZIONE FINANZIARIA
 
-### Art. 8
+## Art. 8
 
 E' accertato nella somma di lire 5.935.681.715.227 il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 1963-64 come risulta dai seguenti dati:
 
@@ -271,11 +271,11 @@ n. 1045................................. " 0,95
 
 ## DISPOSIZIONI SPECIALI
 
-### Art. 9
+## Art. 9
 
 Sono stabiliti, nell'esercizio 1963-64, nella somma di lire 56.360 i discarichi consentiti ai tesorieri per casi di forza maggiore, ai sensi dell'articolo 194 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato approvato con regio decreto 23 maggio 1924, n. 827, e nella somma di lire 0,95 l'eliminazione centesimale in applicazione del decreto legislativo del Capo provvisorio dello Stato 31 dicembre 1947, n. 1734 e della legge 29 ottobre 1954, n. 1045.
 
-### Art. 10
+## Art. 10
 
 Sono approvate le eccedenze d'impegno risultate in sede di consuntivo sul conto della competenza e sul conto dei residui ai capitoli degli stati di previsione della spesa dei Ministeri sottoindicati per l'esercizio finanziario 1963-64, come dal dettaglio che segue:
 
@@ -349,7 +349,7 @@ fisse e obbligatorie)..... - L. 11.461.333
 
 ## AMMINISTRAZIONI ED AZIENDE SPECIALI - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-### Art. 11
+## Art. 11
 
 Per la copertura del maggior disavanzo di gestione dell'esercizio finanziario 1963-64 accertato per l'Amministrazione autonoma dei monopoli di Stato, la Cassa depositi e prestiti e' autorizzata a concedere all'amministrazione predetta sui fondi dei conti correnti postali, di cui all'articolo 1 del decreto legislativo luogotenenziale 22 novembre 1945, n. 822, anticipazioni per complessive lire 4.528.901.272, estinguibili in 35 anni al saggio vigente per mutui all'epoca della concessione.
 
@@ -359,7 +359,7 @@ L'ammortamento delle anticipazioni, aumentate degli interessi capitalizzati, avr
 
 L'onere relativo fara' carico al bilancio dell'Amministrazione dei monopoli di Stato.
 
-### Art. 12
+## Art. 12
 
 Le entrate ordinarie e straordinarie del
 
@@ -392,7 +392,7 @@ e rimasero da riscuotere................... L. 8.776.784.800
  -------------------
 ```
 
-### Art. 13
+## Art. 13
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -412,7 +412,7 @@ e rimasero da pagare....................... L. 20.169.778.955
  -------------------
 ```
 
-### Art. 14
+## Art. 14
 
 I residui attivi alla chiusura dell'eser-
 
@@ -431,7 +431,7 @@ e rimasero da riscuotere al 30 giugno 1964. L. 4.438.943
  -------------------
 ```
 
-### Art. 15
+## Art. 15
 
 I residui passivi alla chiusura dell'eser-
 
@@ -445,7 +445,7 @@ e rimasero da pagare al 30 giugno 1964..... L. 6.455.057.597
  -------------------
 ```
 
-### Art. 16
+## Art. 16
 
 I residui attivi alla chiusura dell'esercizio finanziario 1963-64 sono stabiliti nelle seguenti somme:
 
@@ -469,7 +469,7 @@ del riepilogo dell'entrata)................ " 168.941.113
  -------------------
 ```
 
-### Art. 17
+## Art. 17
 
 I residui passivi alla chiusura dell'esercizio finanziario 1963-64 sono stabiliti nelle seguenti somme:
 
@@ -489,7 +489,7 @@ esercizi precedenti (articolo 15).......... " 6.455.057.597
  -------------------
 ```
 
-### Art. 18
+## Art. 18
 
 La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dello esercizio finanziario 1963-64, risulta come appresso:
 
@@ -503,7 +503,7 @@ Spese dell'esercizio 1963-64............... L. 160.554.162.213
 
 ## AZIENDA MONOPOLIO BANANE
 
-### Art. 19
+## Art. 19
 
 Le entrate ordinarie e straordinarie del-
 
@@ -529,7 +529,7 @@ e rimasero da riscuotere................... L. 475.329.395
  -------------------
 ```
 
-### Art. 20
+## Art. 20
 
 Le spese ordinarie e straordinarie dell'a-
 
@@ -549,7 +549,7 @@ e rimasero da pagare....................... L. 11.652.980.983
  -------------------
 ```
 
-### Art. 21
+## Art. 21
 
 I residui attivi alla chiusura dell'eser-
 
@@ -565,7 +565,7 @@ e rimasero da riscuotere al 30 giugno 1964. L. 19.985.780
  -------------------
 ```
 
-### Art. 22
+## Art. 22
 
 I residui passivi alla chiusura dell'eser-
 
@@ -579,7 +579,7 @@ e rimasero da pagare al 30 giugno 1964..... L. 6.163.196
  -------------------
 ```
 
-### Art. 23
+## Art. 23
 
 I residui attivi alla chiusura dell'esercizio finanziario 1963-64 sono stabiliti nelle seguenti somme:
 
@@ -603,7 +603,7 @@ del riepilogo dell'entrata) " -
  -------------------
 ```
 
-### Art. 24
+## Art. 24
 
 I residui passivi alla chiusura dell'esercizio finanziario 1963-64 sono stabiliti nelle seguenti somme:
 
@@ -625,7 +625,7 @@ esercizi precedenti (articolo 22).......... " 6.163.196
 
 ## ARCHIVI NOTARILI
 
-### Art. 25
+## Art. 25
 
 Approvato il conto consuntivo degli Archivi notarili, per l'esercizio 1963-64, nelle risultanze seguenti:
 
@@ -638,7 +638,7 @@ Entrate................................... L. 10.191.640.506 Spese..............
 
 ## ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-### Art. 26
+## Art. 26
 
 Le entrate dell'Istituto agronomico per
 
@@ -664,7 +664,7 @@ e rimasero da riscuotere................... L. 10.375.000
  -------------------
 ```
 
-### Art. 27
+## Art. 27
 
 Le spese dell'istituto predetto, accertate
 
@@ -682,7 +682,7 @@ e rimasero da pagare....................... L. 11.941.441
  -------------------
 ```
 
-### Art. 28
+## Art. 28
 
 I residui attivi alla chiusura dell'eser-
 
@@ -698,7 +698,7 @@ e rimasero da riscuotere al 30 giugno 1964. L. 3.713.325
  -------------------
 ```
 
-### Art. 29
+## Art. 29
 
 I residui passivi alla chiusura dell'eser-
 
@@ -712,7 +712,7 @@ e rimasero da pagare al 30 giugno 1964..... L. 10.435.281
  -------------------
 ```
 
-### Art. 30
+## Art. 30
 
 I residui attivi alla chiusura dell'esercizio 1963-64 sono stabiliti nelle seguenti somme:
 
@@ -736,7 +736,7 @@ del riepilogo dell'entrata) -
  -------------------
 ```
 
-### Art. 31
+## Art. 31
 
 I residui passivi alla chiusura dell'esercizio 1963-64 sono stabiliti nelle seguenti somme:
 
@@ -758,7 +758,7 @@ esercizi precedenti (articolo 29).......... " 10.435.281
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-### Art. 32
+## Art. 32
 
 Le entrate ordinarie e straordinarie del
 
@@ -789,7 +789,7 @@ e rimasero da riscuotere................... L. 17.524.685.571
  -------------------
 ```
 
-### Art. 33
+## Art. 33
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -809,7 +809,7 @@ e rimasero da pagare....................... L. 1.108.733.487
 
 -------------------
 
-### Art. 34
+## Art. 34
 
 I residui attivi alla chiusura dell'eser-
 
@@ -828,7 +828,7 @@ e rimasero da riscuotere al 30 giugno 1964. L. 15.051.460.561
  -------------------
 ```
 
-### Art. 35
+## Art. 35
 
 I residui passivi alla chiusura dell'eser-
 
@@ -842,7 +842,7 @@ e rimasero da pagare al 30 giugno 1964..... L. 201.956.980
  -------------------
 ```
 
-### Art. 36
+## Art. 36
 
 I residui attivi alla chiusura dell'esercizio finanziario 1963-64 sono stabiliti nelle seguenti somme:
 
@@ -866,7 +866,7 @@ del riepilogo delle entrate)............... " 139.279
  -------------------
 ```
 
-### Art. 37
+## Art. 37
 
 I residui passivi alla chiusura dell'esercizio finanziario 1963-64 sono stabiliti nelle seguenti somme:
 
@@ -886,7 +886,7 @@ esercizi precedenti (articolo 35).......... " 201.956.980
  -------------------
 ```
 
-### Art. 38
+## Art. 38
 
 E' accertato nella somma di lire 36.686.565,30 il saldo attivo del conto finanziario dell'Amministrazione del Fondo per il culto alla fine dell'esercizio 1963-64, come risulta dai seguenti dati:
 
@@ -925,7 +925,7 @@ al 30 giugno 1964..... " 15.066.907.040
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-### Art. 39
+## Art. 39
 
 Le entrate ordinarie e straordinarie del
 
@@ -955,7 +955,7 @@ rimasero da versare........ " 1.300
  ----------------------
 ```
 
-### Art. 40
+## Art. 40
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -975,7 +975,7 @@ e rimasero da pagare....................... L. 145.294.197
  -------------------
 ```
 
-### Art. 41
+## Art. 41
 
 I residui attivi alla chiusura dell'eser-
 
@@ -994,7 +994,7 @@ e rimasero da riscuotere al 30 giugno 1964. L. 382.706.707
  -------------------
 ```
 
-### Art. 42
+## Art. 42
 
 I residui passivi alla chiusura dell'eser-
 
@@ -1008,7 +1008,7 @@ e rimasero da pagare al 30 giugno 1964..... L. 48.315.577
  -------------------
 ```
 
-### Art. 43
+## Art. 43
 
 I residui attivi alla chiusura dell'esercizio 1963-64 sono stabiliti nelle seguenti somme:
 
@@ -1032,7 +1032,7 @@ del riepilogo dell'entrata)................ " 1.340
  -------------------
 ```
 
-### Art. 44
+## Art. 44
 
 I residui passivi alla chiusura dell'esercizio finanziario 1963-64 sono stabiliti nelle seguenti somme:
 
@@ -1052,7 +1052,7 @@ esercizi precedenti (articolo 42).......... " 48.315.577
  -------------------
 ```
 
-### Art. 45
+## Art. 45
 
 E' accertato nella somma di lire 4.424.670,58, il saldo attivo del conto finanziario del Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1963-64, come risulta dai seguenti dati:
 
@@ -1094,7 +1094,7 @@ Spese dell'esercizio finanziario 1963-64... L. 425.605.717 - Saldo attivo al 30 
 
 ## AZIENDA DEI PATRIMONI RIUNITI EX ECONOMALI
 
-### Art. 46
+## Art. 46
 
 Le entrate ordinarie e straordinarie del-
 
@@ -1125,7 +1125,7 @@ e rimasero da riscuotere................... L. 51.700.730
  --------------------
 ```
 
-### Art. 47
+## Art. 47
 
 Le spese ordinarie e straordinarie dell'a-
 
@@ -1145,7 +1145,7 @@ e rimasero da pagare........................ L. 79.514.729
  -------------------
 ```
 
-### Art. 48
+## Art. 48
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1163,7 +1163,7 @@ e rimasero da riscuotere al 30 giugno 1964. L. 46.550.436
  -------------------
 ```
 
-### Art. 49
+## Art. 49
 
 I residui passivi alla chiusura dell'eser-
 
@@ -1179,7 +1179,7 @@ e rimasero da pagare al 30 giugno 1964..... L. 53.647.738
  -------------------
 ```
 
-### Art. 50
+## Art. 50
 
 I residui attivi alla chiusura dell'esercizio finanziario 1963-64 sono stabiliti, come dal conto consuntivo dell'azienda, nelle seguenti somme:
 
@@ -1203,7 +1203,7 @@ Somme riscosse e non versate in tesoreria
  -------------------
 ```
 
-### Art. 51
+## Art. 51
 
 I residui passivi alla chiusura dell'esercizio finanziario 1963-64 sono stabiliti, come dal conto consuntivo dell'azienda, nelle seguenti somme:
 
@@ -1223,7 +1223,7 @@ esercizi precedenti (articolo 49).......... " 53.647.738
  -------------------
 ```
 
-### Art. 52
+## Art. 52
 
 E' accertato nella somma di lire 12.791.372,88 il saldo attivo del conto finanziario della Azienda dei patrimoni riuniti ex economali, alla fine dell'esercizio 1963-64, come risulta dai seguenti dati:
 
@@ -1262,7 +1262,7 @@ al 30 giugno 1964........ " 77.445.080
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE
 
-### Art. 53
+## Art. 53
 
 Le entrate ordinarie e straordinarie del
 
@@ -1288,7 +1288,7 @@ e rimasero da riscuotere................... L. 188.904.177.934
  -------------------
 ```
 
-### Art. 54
+## Art. 54
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -1308,7 +1308,7 @@ e rimasero da pagare....................... L. 159.983.620.712
  -------------------
 ```
 
-### Art. 55
+## Art. 55
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1324,7 +1324,7 @@ e rimasero da riscuotere al 30 giugno 1964. L. 104.162.048.962
  -------------------
 ```
 
-### Art. 56
+## Art. 56
 
 I residui passivi alla chiusura dell'eser-
 
@@ -1338,7 +1338,7 @@ e rimasero da pagare al 30 giugno 1964..... L. 124.465.823.350
  -------------------
 ```
 
-### Art. 57
+## Art. 57
 
 I residui attivi alla chiusura dell'esercizio 1963-64 sono stabiliti nelle seguenti somme:
 
@@ -1362,7 +1362,7 @@ del riepilogo dell'entrata) -
  -------------------
 ```
 
-### Art. 58
+## Art. 58
 
 I residui passivi alla chiusura dell'esercizio 1963-64 sono stabiliti nelle seguenti somme:
 
@@ -1384,7 +1384,7 @@ esercizi precedenti (articolo 56).......... " 124.465.823.350
 
 ## AMMINISTRAZIONE DELLE POSTE E DEI TELEGRAFI
 
-### Art. 59
+## Art. 59
 
 Le entrate ordinarie e straordinarie del
 
@@ -1414,7 +1414,7 @@ e rimasero da riscuotere................... L. 140.082.246.105
  -------------------
 ```
 
-### Art. 60
+## Art. 60
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -1434,7 +1434,7 @@ e rimasero da pagare....................... L. 144.343.983.233
  -------------------
 ```
 
-### Art. 61
+## Art. 61
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1450,7 +1450,7 @@ e rimasero da riscuotere al 30 giugno 1964. L. 40.805.586.052
  -------------------
 ```
 
-### Art. 62
+## Art. 62
 
 I residui passivi alla chiusura dell'eser-
 
@@ -1466,7 +1466,7 @@ e rimasero da pagare al 30 giugno 1964..... L. 43.494.748.907
  -------------------
 ```
 
-### Art. 63
+## Art. 63
 
 I residui attivi alla chiusura dell'esercizio 1963-64 sono stabiliti nelle seguenti somme:
 
@@ -1486,7 +1486,7 @@ degli esercizi precedenti (articolo 61).... " 40.805.586.052
  -------------------
 ```
 
-### Art. 64
+## Art. 64
 
 I residui passivi alla chiusura dell'esercizio 1963-64 sono stabiliti nelle seguenti somme:
 
@@ -1508,7 +1508,7 @@ esercizi precedenti (articolo 62).......... " 43.494.748.907
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Art. 65
+## Art. 65
 
 Le entrate ordinarie e straordinarie del
 
@@ -1539,7 +1539,7 @@ e rimasero da riscuotere................... L. 13.024.703.244
  --------------------
 ```
 
-### Art. 66
+## Art. 66
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -1559,7 +1559,7 @@ e rimasero da pagare....................... L. 61.997.683.090
  -------------------
 ```
 
-### Art. 67
+## Art. 67
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1580,7 +1580,7 @@ e rimasero da riscuotere al 30 giugno 1964. L. 1.319.764.655
  -------------------
 ```
 
-### Art. 68
+## Art. 68
 
 I residui passivi alla chiusura dell'eser-
 
@@ -1596,7 +1596,7 @@ e rimasero da pagare al 30 giugno 1964..... L. 46.725.525.588
  -------------------
 ```
 
-### Art. 69
+## Art. 69
 
 I residui attivi alla chiusura dell'esercizio 1963-64 sono stabiliti nelle seguenti somme:
 
@@ -1620,7 +1620,7 @@ del riepilogo dell'entrata)................ " 42.491.597.225
  -------------------
 ```
 
-### Art. 70
+## Art. 70
 
 I residui passivi alla chiusura dell'esercizio 1963-64 sono stabiliti nelle seguenti somme:
 
@@ -1642,7 +1642,7 @@ esercizi precedenti (articolo 68).......... " 46.725.525.588
 
 ## AMMINISTRAZIONE DELLE FERROVIE DELLO STATO
 
-### Art. 71
+## Art. 71
 
 Le entrate ordinarie e straordinarie del
 
@@ -1674,7 +1674,7 @@ e rimasero da riscuotere................... L. 352.835.685.157
  -------------------
 ```
 
-### Art. 72
+## Art. 72
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -1698,7 +1698,7 @@ e rimasero da pagare....................... L. 275.790.132.881
  -------------------
 ```
 
-### Art. 73
+## Art. 73
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione delle ferrovie dello Stato, di competenza dell'esercizio finanziario 1963-64, rimane cosi' stabilito:
 
@@ -1734,7 +1734,7 @@ Partite di giro............................ " 40.741.207.144
  -------------------
 ```
 
-### Art. 74
+## Art. 74
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1750,7 +1750,7 @@ e rimasero da riscuotere al 30 giugno 1964. L. 84.753.004.827
  -------------------
 ```
 
-### Art. 75
+## Art. 75
 
 I residui passivi alla chiusura dell'eser-
 
@@ -1766,7 +1766,7 @@ e rimasero da pagare al 30 giugno 1964..... L. 93.157.407.174
  -------------------
 ```
 
-### Art 76
+## Art 76
 
 I residui attivi alla chiusura dell'esercizio 1963-64 sono stabiliti nelle seguenti somme:
 
@@ -1786,7 +1786,7 @@ degli esercizi precedenti (articolo 74).... " 84.753.004.827
  -------------------
 ```
 
-### Art. 77
+## Art. 77
 
 I residui passivi alla chiusura dell'esercizio 1963-64 sono stabiliti nelle seguenti somme:
 
@@ -1806,13 +1806,13 @@ esercizi precedenti (articolo 75).......... " 93.157.407.174
  --------------------
 ```
 
-### Art. 78
+## Art. 78
 
 E' approvata l'eccedenza di impegni di lire 561.487, risultata, in sede di consuntivo, sul conto della competenza del capitolo n. 161 "Spese per acquisti e diverse", dello stato di previsione della spesa dell'Amministrazione delle ferrovie dello Stato, per l'esercizio finanziario 1963-64.
 
 ## AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### Art. 79
+## Art. 79
 
 Le entrate ordinarie e straordinarie del
 
@@ -1845,7 +1845,7 @@ e rimasero da riscuotere................... L. 2.531.719.331
  --------------------
 ```
 
-### Art. 80
+## Art. 80
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -1865,7 +1865,7 @@ e rimasero da pagare....................... L. 7.256.534.387
  -------------------
 ```
 
-### Art. 81
+## Art. 81
 
 I residui attivi alla chiusura dell'esercizio 1962-63 restano stabiliti in L. 2.692.244.305 dei quali nell'esercizio 1963-64:
 
@@ -1880,7 +1880,7 @@ e rimasero da riscuotere al 30 giugno 1964. L. 366.710.900
  -------------------
 ```
 
-### Art. 82
+## Art. 82
 
 I residui passivi alla chiusura dell'eser-
 
@@ -1894,7 +1894,7 @@ e rimasero da pagare al 30 giugno 1964..... L. 1.854.113.823
  -------------------
 ```
 
-### Art. 83
+## Art. 83
 
 I residui attivi alla chiusura dell'esercizio finanziario 1963-64 sono stabiliti nelle seguenti somme:
 
@@ -1918,7 +1918,7 @@ del riepilogo dell'entrata)................ " 489.813.361
  -------------------
 ```
 
-### Art. 84
+## Art. 84
 
 I residui passivi alla chiusura dell'esercizio finanziario 1963-64 sono stabiliti nelle seguenti somme:
 
@@ -1938,7 +1938,7 @@ esercizi precedenti (articolo 82).......... " 1.854.113.823
  -------------------
 ```
 
-### Art. 85
+## Art. 85
 
 E' accertato nella somma di lire 601.847 il saldo attivo del conto finanziario dell'Azienda di Stato per le foreste demaniali, alla fine dell'esercizio 1963-64, come risulta dai seguenti dati:
 

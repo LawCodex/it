@@ -36,7 +36,7 @@ il seguente decreto legislativo:
 
 ## CAPITOLO I - DISPOSIZIONI GENERALI
 
-##### Art. 1
+#### Art. 1
 
 1\. Il presente decreto stabilisce:
 
@@ -52,7 +52,7 @@ b) l'impiego di rifiuti di cucina e dei pasti;
 
 c) la produzione di alimenti composti per (( animali )) contenenti componenti di prodotti animali e vegetali nonche' di alimenti per animali contenenti sostanze unicamente di origine vegetale.
 
-##### Art. 2
+#### Art. 2
 
 1\. Ai fini del presente decreto si intende per:
 
@@ -74,13 +74,11 @@ c) la produzione di alimenti composti per (( animali )) contenenti componenti di
 
 9\) autorita' competente: il Ministro della sanita' e le altre autorita' sanitarie individuate secondo quanto stabilito dal presente decreto.
 
-## CAPITOLO II - NORME CONCERNENTI IL TRATTAMENTO DEI RIFIUTI DI ORIGINE ANIMALE E
+## CAPITOLO II - NORME CONCERNENTI IL TRATTAMENTO DEI RIFIUTI DI ORIGINE ANIMALE E L'IMMISSIONE DEI PRODOTTI FINALI SUL MERCATO.
 
-### L'IMMISSIONE DEI PRODOTTI FINALI SUL MERCATO. - Sezione prima
+### Sezione prima - MATERIALI AD ALTO RISCHIO
 
-#### MATERIALI AD ALTO RISCHIO
-
-##### Art. 3
+#### Art. 3
 
 1\. Sono materiali ad alto rischio:
 
@@ -122,7 +120,7 @@ e) la quantita' e la distanza non giustificano la raccolta di rifiuti.
 
 4\. Qualora si ricorra al sotterramento dei materiali di cui al comma 1, questi devono essere sotterrati in un terreno adeguato per evitare contaminazioni delle falde freatiche o danni all'ambiente ed a una profondita' sufficiente ad impedire a carnivori di accedervi; prima del sotterramento, detti materiali devono essere cosparsi, se necessario, con un oppotuno disinfettante stabilito dal servizio veterinario dell'unita' sanitaria locale di competenza.
 
-##### Art. 4
+#### Art. 4
 
 1\. Il Ministro della sanita' riconosce gli stabilimenti incaricati della raccolta e della trasformazione dei materiali ad alto rischio a condizione che:
 
@@ -138,13 +136,11 @@ c) i prodotti ottenuti dalla trasformazione siano conformi ai requisiti di cui a
 
 4\. Il Ministro (( ... )) della sanita' puo' individuare uno stabilimento di trasformazione ad alto rischio situato in un altro Stato membro, previo accordo con detto Stato membro o consentire che altro Stato membro lo individui nel territorio nazionale.
 
-## CAPITOLO II - NORME CONCERNENTI IL TRATTAMENTO DEI RIFIUTI DI ORIGINE ANIMALE E
+## CAPITOLO II - NORME CONCERNENTI IL TRATTAMENTO DEI RIFIUTI DI ORIGINE ANIMALE E L'IMMISSIONE DEI PRODOTTI FINALI SUL MERCATO.
 
-### L'IMMISSIONE DEI PRODOTTI FINALI SUL MERCATO. - Sezione seconda
+### Sezione seconda - MATERIALI A BASSO RISCHIO
 
-#### MATERIALI A BASSO RISCHIO
-
-##### Art. 5
+#### Art. 5
 
 1\. I materiali a basso rischio devono essere trattati in uno stabilimento di trasformazione riconosciuto a basso o alto rischio, in una fabbrica di alimenti per animali familiari o di prodotti farmaceutici o tecnici, oppure essere eliminati mediante incenerimento o sotterramento conformemente all'art. 3, commi 3 e 4.
 
@@ -184,11 +180,11 @@ c) dispongano di impianti adeguati per provvedere alla distruzione di rifiuti ri
 
 10\. Le regioni e le province autonome esercitano sugli stabilimenti di cui al presente decreto le competenze previste dagli articoli 7 e 11 della legge 23 dicembre 1978, n. 833.
 
-##### Art. 6
+#### Art. 6
 
 (( ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 1996, N. 674 ))
 
-##### Art. 7
+#### Art. 7
 
 1\. Il Ministero della sanita' puo' consentire, a condizione che sia esercitata la vigilanza di cui all'art. 7 della legge 23 dicembre 1978, n. 833, che:
 
@@ -198,13 +194,11 @@ b) siano utilizzati per l'alimentazione di animali dei giardini zoologici o dei 
 
 c) ove non risultino rischi per la salute degli uomini e degli animali siano distribuiti su scala locale, da parte di intermediari gia' autorizzati alla data di entrata in vigore del presente decreto, piccoli quantitativi di rifiuti di cui alla lettera b) per l'alimentazione di animali la cui carne non e' destinata al consumo umano.
 
-## CAPITOLO II - NORME CONCERNENTI IL TRATTAMENTO DEI RIFIUTI DI ORIGINE ANIMALE E
+## CAPITOLO II - NORME CONCERNENTI IL TRATTAMENTO DEI RIFIUTI DI ORIGINE ANIMALE E L'IMMISSIONE DEI PRODOTTI FINALI SUL MERCATO.
 
-### L'IMMISSIONE DEI PRODOTTI FINALI SUL MERCATO. - Sezione terza
+### Sezione terza - DISPOSIZIONI GENERALI
 
-#### DISPOSIZIONI GENERALI
-
-##### Art. 8
+#### Art. 8
 
 1\. L'unita' sanitaria locale competente per territorio controlla che i materiali ad alto e basso rischio di cui al presente decreto siano raccolti e trasportati in conformita' alle prescrizioni stabilite all'allegato I.
 
@@ -212,11 +206,9 @@ c) ove non risultino rischi per la salute degli uomini e degli animali siano dis
 
 3\. Il titolare dello stabilimento di cui agli articoli 4 e 5, che si avvale di trasportatore autonomo, deve assicurare che quest'ultimo osservi le prescrizioni di cui all'allegato I, nonche' quelle appli- cative stabilite dal decreto ministeriale di cui al comma 2.
 
-## CAPITOLO III - CONTROLLI ED ISPEZIONI CHE DEVONO ESSERE EFFETTUATI SUGLI
+## CAPITOLO III - CONTROLLI ED ISPEZIONI CHE DEVONO ESSERE EFFETTUATI SUGLI STABILIMENTI DI TRASFORMAZIONE A BASSO E ALTO RISCHIO.
 
-### STABILIMENTI DI TRASFORMAZIONE A BASSO E ALTO RISCHIO.
-
-##### Art. 9
+#### Art. 9
 
 1\. Il responsabile ed il proprietario di stabilimenti di trasformazione a basso rischio o ad alto rischio o i loro rappresentanti adottano sotto la propria responsabilita' tutte le misure necessarie per conformarsi ai requisiti previsti dal presente decreto: essi devono in particolare:
 
@@ -236,7 +228,7 @@ b) ricercarne le cause;
 
 c) curare che nessun materiale contaminato o sospetto di esserlo sia rimosso dai locali prima di essere stato nuovamente trasformato sotto il controllo diretto dell'autorita' competente e si sia proceduto ufficialmente ad un nuovo campionamento in osservanza dei controlli biologici di cui all'allegato II, capitolo III; qualora, per qualsiasi ragione, non sia possibile procedere ad una sua nuova trasformazione, il materiale contaminato in questione deve essere utilizzato per fini diversi dall'alimentazione degli animali.
 
-##### Art. 10
+#### Art. 10
 
 1\. I servizi veterinari delle unita' sanitarie locali procedono regolarmente ad ispezioni e controlli casuali presso gli stabilimenti di trasformazione a basso o ad alto rischio e accertano, fatto salvo quanto previsto dall'art. 17:
 
@@ -258,17 +250,15 @@ d) esaminare i rapporti sulle materie prime corrispondenti al campione prodotto 
 
 e) procedere ad una adeguata decontaminazione e ripulitura dello stabilimento.
 
-##### Art. 11
+#### Art. 11
 
 1\. Il Ministero della sanita' compila l'elenco degli stabilimenti riconosciuti idonei alla trasformazione di rifiuti di origine animale all'interno del territorio nazionale. A ciascuno stabilimento e' assegnato un numero ufficiale che permette di individuare se esso trasforma materiale a basso o ad alto rischio, se produce alimenti per animali familiari o prodotti farmaceutici o tecnici derivati da rifiuti di origine animale.
 
 2\. Il Ministero della sanita' comunica l'elenco di cui al comma 1, e gli aggiornamenti agli altri (( Stati )) membri e alla Commissione delle Comunita' europee.
 
-## CAPITOLO IV - CONTROLLI ED ISPEZIONI
+## CAPITOLO IV - CONTROLLI ED ISPEZIONI DEGLI ORGANI COMUNITARI
 
-### DEGLI ORGANI COMUNITARI
-
-##### Art. 12
+#### Art. 12
 
 1\. Il Ministero della sanita' fornisce tutta l'assistenza necessaria per l'espletamento dei compiti affidati agli esperti comunitari che eseguono ispezioni nel territorio nazionale in base alle procedure comunitarie.
 
@@ -278,17 +268,17 @@ e) procedere ad una adeguata decontaminazione e ripulitura dello stabilimento.
 
 ## CAPITOLO V - DISPOSIZIONI FINALI
 
-##### Art. 13
+#### Art. 13
 
 1\. Il Ministero della sanita', conformemente al decreto legislativo che attua la direttiva n. 90/425/CEE, dispone tutti i controlli necessari sugli scambi di prodotti ottenuti dalla trasformazione dei rifiuti, in particolare di quelli provenienti da altri stati membri e dispone altresi' le misure conseguenti a tali controlli e le misure di salvaguardia da applicare.
 
-##### Art. 14
+#### Art. 14
 
 1\. Gli allegati del presente decreto, ed in particolare le disposizioni relative ai trattamenti contemplati nell'allegato II, capitolo II, punto 6, lettere a) e c) sono modificate con decreto del Ministro della sanita' conformemente alle disposizioni comunitarie in materia.
 
 2\. Il Ministro della sanita' con proprio decreto puo' riconoscere i cicli di trattamento alternativi approvati dalle Comunita' europee.
 
-##### Art. 15
+#### Art. 15
 
 1\. Fino all'applicazione delle norme comunitarie relative all'importazione di rifiuti di origine animale e di alimenti per animali familiari fabbricati con tali rifiuti, il Ministero della sanita' applica a tali importazioni condizioni almeno equivalenti a quelle previste dal presente decreto, escluse quelle relative ai requisiti per il riconoscimento.
 
@@ -298,11 +288,11 @@ e) procedere ad una adeguata decontaminazione e ripulitura dello stabilimento.
 
 4\. I posti di ispezione frontaliera di cui al decreto legislastivo che attua le direttive n. 90/675/CEE e n. 91/496/CEE accertano mediante controlli all'importazione che vengano rispettati i requisiti minimi previsti dal presente decreto.
 
-##### Art. 16
+#### Art. 16
 
 1\. Le modalita' di applicazione degli articoli 9, 10 e 12 del presente decreto sono stabilite conformemente alle procedure comunitarie con decreto del Ministro della sanita'.
 
-##### Art. 17
+#### Art. 17
 
 1\. Gli stabilimenti di trasformazione di materiali ad alto rischio esistenti alla data di entrata in vigore del presente decreto, sono tenuti a presentare la domanda di riconoscimento al Ministero della sanita' entro centoventi giorni dalla predetta data.
 
@@ -318,7 +308,7 @@ e) procedere ad una adeguata decontaminazione e ripulitura dello stabilimento.
 
 7\. Trascorso il termine di cui al comma 6, il riconoscimento si intende rifiutato.
 
-##### Art. 18
+#### Art. 18
 
 1\. Chi inizia l'attivita' di raccolta e trasformazione di materiali ad alto rischio senza aver ottenuto il preventivo riconoscimento, previsto dall'art. 4, ovvero con riconoscimento sospeso, rifiutato o revocato e' punito con l'arresto sino a due anni o con l'ammenda sino a lire 100 milioni.
 
@@ -328,7 +318,7 @@ e) procedere ad una adeguata decontaminazione e ripulitura dello stabilimento.
 
 4\. Chi non osserva gli obblighi stabiliti dall'art. 9 e' punito con la sanzione amministrativa pecunaria da lire 2 milioni a lire 12 milioni.
 
-##### Art. 19
+#### Art. 19
 
 1\. Chi, esercitando alla data di entrata in vigore del presente decreto, l'attivita' di cui all'art. 17, comma 1, non presenta la domanda nel termine e nei modi prescritti dai (( commi 1 e 3 dell'articolo 17 )), ovvero non osserva le ulteriori condizioni fissate nel comma 3 del medesimo articolo, ovvero non realizza il progetto di adeguamento nel termine fissato dall' art. 17, comma 2, ovvero continua l'attivita' dopo il rifiuto, la revoca o la sospensione del riconoscimento e' punito con l' arresto sino a due anni o con l'ammenda sino a lire 100 milioni.
 
@@ -368,7 +358,7 @@ Visto, il Guardasigilli: MARTELLI
 
 ## CAPITOLO V - DISPOSIZIONI FINALI
 
-##### Allegato I
+#### Allegato I
 
 ALLEGATO I
 
@@ -384,7 +374,7 @@ ANIMALE
 
 4\. Ove alcuni prodotti a base di carni, lattiero-caseari o di pesce, non destinati al consumo umano e derivati da animali o pesci di cui la carne e il latte sono stati approvati per il consumo umano, vengano trasportati sfusi direttamente ad uno stabilimento di trasformazione, devono essere indicati, su un'etichetta apposta sul contenitore, sui cartoni o sugli altri imballaggi, in caratteri aventi un'altezza minima di 2 cm, le informazioni relative all'origine, al nome e al tipo dei rifiuti di origine animale e i termini "Non destinato al consumo umano".
 
-##### Allegato II
+#### Allegato II
 
 ALLEGATO II
 

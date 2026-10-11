@@ -214,9 +214,7 @@ Modalita' di erogazione e termine per il rimborso delle prestazioni
 
 2-bis. ((Il lavoratore che fruisce del trattamento di integrazione salariale deve informare immediatamente il datore di lavoro, che ha richiesto il relativo intervento, di aver intrapreso un'attivita' lavorativa in relazione alla quale ha provveduto a fornire all'INPS la comunicazione di cui al comma 2)).
 
-## Capo II
-
-### Integrazioni salariali ordinarie
+### Capo II - Integrazioni salariali ordinarie
 
 #### Art. 9
 
@@ -496,9 +494,7 @@ per le imprese del settore agricolo
 
 > 28\. I contributi dovuti per l'anno 1972, in base agli articoli 7 e 20, sono applicati per dodicesimi a partire dal mese successivo a quello di entrata in vigore della presente legge, sulle giornate di lavoro impiegate nell'anno da ciascuna azienda agricola.".
 
-## Capo III
-
-### Integrazioni salariali straordinarie
+### Capo III - Integrazioni salariali straordinarie
 
 #### Art. 19
 
@@ -850,9 +846,7 @@ Il D.Lgs. 15 maggio 2017, n. 69 ha disposto (con l'art. 1, comma 2) che "Le disp
 
 4\. Le modalita' di attuazione delle iniziative di carattere formativo o di riqualificazione di cui al comma 1 sono definite con decreto del Ministro del lavoro e delle politiche sociali, previa intesa in sede di Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, da adottare entro sessanta giorni dalla data di entrata in vigore della presente disposizione.
 
-## Titolo II
-
-### FONDI DI SOLIDARIETA'
+## Titolo II - FONDI DI SOLIDARIETA'
 
 #### Art. 26
 
@@ -1208,9 +1202,7 @@ Fondo territoriale intersettoriale delle Province autonome di Trento e di Bolzan
 
 (( 1. A decorrere dal 1° gennaio 2022, la regolarita' del versamento dell'aliquota di contribuzione ordinaria ai fondi di solidarieta' bilaterali di cui agli articoli 26, 27 e 40 e' condizione per il rilascio del documento unico di regolarita' contributiva (DURC) )).
 
-## Titolo III
-
-### ((CONTRATTO DI ESPANSIONE))
+## Titolo III - ((CONTRATTO DI ESPANSIONE))
 
 #### Art. 41 - Contratto di espansione
 
@@ -1268,9 +1260,7 @@ AGGIORNAMENTO (124)
 
 Il D.L. 25 maggio 2021, n. 73 ha disposto (con l'art. 39, comma 1) che i limiti di spesa di cui ai commi 5-bis e 7 sono incrementati rispettivamente di 35 milioni di euro per l'anno 2021, 91 milioni di euro per l'anno 2022 e 50,5 milioni di euro per l'anno 2023 e di 66,7 milioni di euro per l'anno 2021 e 134,5 milioni di euro per l'anno 2022.
 
-## Titolo IV
-
-### DISPOSIZIONI TRANSITORIE E FINALI
+## Titolo IV - DISPOSIZIONI TRANSITORIE E FINALI
 
 #### Art. 42
 
@@ -1464,9 +1454,7 @@ delle finanze
 
 Visto, il Guardasigilli: Orlando
 
-## Titolo IV
-
-### DISPOSIZIONI TRANSITORIE E FINALI
+## Titolo IV - DISPOSIZIONI TRANSITORIE E FINALI
 
 #### Allegato I
 

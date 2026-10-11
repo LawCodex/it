@@ -41,11 +41,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I - Modifiche al titolo I
+## Capo I - Modifiche al titolo I del regio decreto 16 marzo 1942, n. 267
 
-### del regio decreto 16 marzo 1942, n. 267
-
-#### Art. 1
+### Art. 1
 
 Sostituzione dell'articolo 1
 
@@ -139,7 +137,7 @@ I limiti di cui alle lettere a) e b) del secondo comma possono essere aggiornati
 
 > \- Il regio decreto 16 marzo 1942, n. 267 (Disciplina del fallimento, del concordato preventivo, dell'amministrazione controllata e della liquidazione coatta amministrativa.) e' pubblicato nella Gazzetta Ufficiale 6 aprile 1942, n. 81.
 
-#### Art. 2
+### Art. 2
 
 Modifiche all'articolo 3
 
@@ -153,7 +151,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 > «Art. 3 (Liquidazione coatta amministrativa, concordato preventivo e amministrazione controllata). - Se la legge non dispone diversamente, le imprese soggette a liquidazione coatta amministrativa possono essere ammesse alla procedura di concordato preventivo e di amministrazione controllata, osservate per le imprese escluse dal fallimento le norme del settimo comma dell'art. 195.».
 
-#### Art. 3
+### Art. 3
 
 Abrogazione dell'articolo 4
 
@@ -165,11 +163,9 @@ del regio decreto 16 marzo 1942, n. 267
 
 > \- L'art. 4 del citato regio decreto 16 marzo 1942, n. 267, abrogato dal presente decreto legislativo, recava: «Rinvio a leggi speciali».
 
-## Capo II - Modifiche al titolo II, capo I
+## Capo II - Modifiche al titolo II, capo I del regio decreto 16 marzo 1942, n. 267
 
-### del regio decreto 16 marzo 1942, n. 267
-
-#### Art. 4
+### Art. 4
 
 Sostituzione dell'articolo 6
 
@@ -181,7 +177,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 Nel ricorso di cui al primo comma l'istante puo' indicare il recapito telefax o l'indirizzo di posta elettronica presso cui dichiara di voler ricevere le comunicazioni e gli avvisi previsti dalla presente legge.".
 
-#### Art. 5
+### Art. 5
 
 Sostituzione dell'articolo 7
 
@@ -195,7 +191,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 2\) quando l'insolvenza risulta dalla segnalazione proveniente dal giudice che l'abbia rilevata nel corso di un procedimento civile.".
 
-#### Art. 6
+### Art. 6
 
 Abrogazione dell'articolo 8
 
@@ -207,7 +203,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 > \- L'art. 8 del citato regio decreto 16 marzo 1942, n. 267, abrogato dal presente decreto legislativo, recava: «Stato d'insolvenza risultante in giudizio civile.».
 
-#### Art. 7
+### Art. 7
 
 Modifiche all'articolo 9
 
@@ -237,7 +233,7 @@ Il trasferimento della sede dell'impresa all'estero non esclude la sussistenza d
 
 > Il trasferimento della sede dell'impresa all'estero non esclude la sussistenza della giurisdizione italiana, se e' avvenuto dopo il deposito del ricorso di cui all'art. 6 o la presentazione della richiesta di cui all'art. 7.».
 
-#### Art. 8
+### Art. 8
 
 Integrazioni al regio decreto 16 marzo 1942, n. 267
 
@@ -257,7 +253,7 @@ Art. 9-ter (Conflitto positivo di competenza). - Quando il fallimento e' stato d
 
 Il tribunale che si e' pronunciato successivamente, se non richiede d'ufficio il regolamento di competenza ai sensi dell'articolo 45 del codice di procedura civile, dispone la trasmissione degli atti al tribunale che si e' pronunziato per primo. Si applica l'articolo 9-bis, in quanto compatibile.".
 
-#### Art. 9
+### Art. 9
 
 Sostituzione dell'articolo 10
 
@@ -269,7 +265,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 In caso di impresa individuale o di cancellazione di ufficio degli imprenditori collettivi, e' fatta salva la facolta' di dimostrare il momento dell'effettiva cessazione dell'attivita' da cui decorre il termine del primo comma.".
 
-#### Art. 10
+### Art. 10
 
 Modifiche all'articolo 11
 
@@ -289,7 +285,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 > Con la dichiarazione di fallimento cessano di diritto gli effetti della separazione dei beni ottenuta dai creditori del defunto a norma del codice civile.».
 
-#### Art. 11
+### Art. 11
 
 Abrogazione dell'articolo 13
 
@@ -301,7 +297,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 > \- L'art. 13 del citato regio decreto 16 marzo 1942, n. 267, abrogato dal presente decreto legislativo, recava: «Obbligo di trasmissione dell'elenco dei protesti».
 
-#### Art. 12
+### Art. 12
 
 Sostituzione dell'articolo 14
 
@@ -311,7 +307,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 "Art. 14 (Obbligo dell'imprenditore che chiede il proprio fallimento). - L'imprenditore che chiede il proprio fallimento deve depositare presso la cancelleria del tribunale le scritture contabili e fiscali obbligatorie concernenti i tre esercizi precedenti ovvero l'intera esistenza dell'impresa, se questa ha avuto una minore durata. Deve inoltre depositare uno stato particolareggiato ed estimativo delle sue attivita', l'elenco nominativo dei creditori e l'indicazione dei rispettivi crediti, l'indicazione dei ricavi lordi per ciascuno degli ultimi tre anni, l'elenco nominativo di coloro che vantano diritti reali e personali su cose in suo possesso e l'indicazione delle cose stesse e del titolo da cui sorge il diritto.".
 
-#### Art. 13
+### Art. 13
 
 Sostituzione dell'articolo 15
 
@@ -339,7 +335,7 @@ Non si fa luogo alla dichiarazione di fallimento se l'ammontare dei debiti scadu
 
 Tale importo e' periodicamente aggiornato con le modalita' di cui al terzo comma dell'articolo 1.".
 
-#### Art. 14
+### Art. 14
 
 Modifiche all'articolo 16
 
@@ -381,7 +377,7 @@ c) il quarto comma e' abrogato.
 
 > La sentenza produce i suoi effetti dalla data della pubblicazione ai sensi dell'art. 133, primo comma, del codice di procedura civile. Gli effetti nei riguardi dei terzi si producono dalla data di iscrizione della sentenza nel registro delle imprese ai sensi dell'art. 17, secondo comma.
 
-#### Art. 15
+### Art. 15
 
 Sostituzione dell'articolo 17
 
@@ -397,7 +393,7 @@ La sentenza e' altresi' annotata presso l'ufficio del registro delle imprese ove
 
 A tale fine, il cancelliere, entro il termine di cui al primo comma, trasmette, anche per via telematica, l'estratto della sentenza all'ufficio del registro delle imprese indicato nel comma precedente.".
 
-#### Art. 16
+### Art. 16
 
 Sostituzione dell'articolo 18
 
@@ -423,7 +419,7 @@ Se il fallimento e' revocato, restano salvi gli effetti degli atti legalmente co
 
 Le spese della procedura ed il compenso al curatore sono liquidati dal tribunale, su relazione del giudice delegato, con decreto non soggetto a reclamo.".
 
-#### Art. 17
+### Art. 17
 
 Sostituzione dell'articolo 19
 
@@ -437,7 +433,7 @@ Se e' proposto ricorso per cassazione i provvedimenti di cui al primo comma o la
 
 L'istanza si propone con ricorso. Il presidente, con decreto in calce al ricorso, ordina la comparizione delle parti dinanzi al collegio in camera di consiglio. Copia del ricorso e del decreto sono notificate alle altre parti ed al curatore.".
 
-#### Art. 18
+### Art. 18
 
 Abrogazione dell'articolo 21
 
@@ -449,7 +445,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 > \- L'art. 21 del citato regio decreto 16 marzo 1942, n. 267 abrogato dal presente decreto, recava: «Revoca della dichiarazione di fallimento.».
 
-#### Art. 19
+### Art. 19
 
 Sostituzione dell'articolo 22
 
@@ -467,11 +463,9 @@ Se la Corte d'appello accoglie il reclamo del creditore ricorrente o del pubblic
 
 I termini di cui agli articoli 10 e 11 si computano con riferimento al decreto della Corte d'appello.".
 
-## Capo III - Modifiche al titolo II, capo II
+## Capo III - Modifiche al titolo II, capo II del regio decreto 16 marzo 1942, n. 267
 
-### del regio decreto 16 marzo 1942, n. 267
-
-#### Art. 20
+### Art. 20
 
 Sostituzione dell'articolo 23
 
@@ -483,7 +477,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 I provvedimenti del tribunale nelle materie previste da questo articolo sono pronunciate con decreto, salvo che non sia diversamente disposto.".
 
-#### Art. 21
+### Art. 21
 
 Sostituzione dell'articolo 24
 
@@ -495,7 +489,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 Salvo che non sia diversamente previsto, alle controversie di cui al primo comma si applicano le norme previste dagli articoli da 737 a 742 del codice di procedura civile. Non si applica l'articolo 40, terzo comma, del codice di procedura civile.".
 
-#### Art. 22
+### Art. 22
 
 Sostituzione dell'articolo 25
 
@@ -525,7 +519,7 @@ Il giudice delegato non puo' trattare i giudizi che abbia autorizzato, ne' puo' 
 
 I provvedimenti del giudice delegato sono pronunciati con decreto motivato.".
 
-#### Art. 23
+### Art. 23
 
 Sostituzione dell'articolo 26
 
@@ -553,7 +547,7 @@ Nel corso dell'udienza il collegio, sentiti il reclamante, il curatore e gli eve
 
 Entro trenta giorni dall'udienza di convocazione delle parti, il collegio provvede con decreto motivato con il quale conferma, modifica o revoca il provvedimento reclamato.".
 
-#### Art. 24
+### Art. 24
 
 Sostituzione dell'articolo 27
 
@@ -563,7 +557,7 @@ del regio-decreto 16 marzo 1942, n. 267
 
 "Art. 27 (Nomina del curatore). - Il curatore e' nominato con la sentenza di fallimento, o in caso di sostituzione o di revoca, con decreto del tribunale.".
 
-#### Art. 25
+### Art. 25
 
 Sostituzione dell'articolo 28
 
@@ -583,7 +577,7 @@ Nel provvedimento di nomina, il tribunale indica le specifiche caratteristiche e
 
 Non possono essere nominati curatore il coniuge, i parenti e gli affini entro il quarto grado del fallito, i creditori di questo e chi ha concorso al dissesto dell'impresa durante i due anni anteriori alla dichiarazione di fallimento, nonche' chiunque si trovi in conflitto di interessi con il fallimento.".
 
-#### Art. 26
+### Art. 26
 
 Modifiche all'articolo 29
 
@@ -599,7 +593,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 > Se il curatore non osserva questo obbligo, il tribunale, in camera di consiglio, provvede d'urgenza alla nomina di altro curatore.».
 
-#### Art. 27
+### Art. 27
 
 Sostituzione dell'articolo 31
 
@@ -613,7 +607,7 @@ Egli non puo' stare in giudizio senza l'autorizzazione del giudice delegato, sal
 
 Il curatore non puo' assumere la veste di avvocato nei giudizi che riguardano il fallimento.".
 
-#### Art. 28
+### Art. 28
 
 Sostituzione dell'articolo 32
 
@@ -625,7 +619,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 Il curatore puo' essere autorizzato dal comitato dei creditori, a farsi coadiuvare da tecnici o da altre persone retribuite, compreso il fallito, sotto la sua responsabilita'. Del compenso riconosciuto a tali soggetti si tiene conto ai fini della liquidazione del compenso finale del curatore.".
 
-#### Art. 29
+### Art. 29
 
 Modifiche all'articolo 33 del regio decreto 16 marzo 1942, n. 267 1. All'articolo 33 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
 
@@ -659,7 +653,7 @@ Il curatore, ogni sei mesi successivi alla presentazione della relazione di cui 
 
 > Copia del rapporto e' trasmessa al comitato dei creditori, unitamente agli estratti conto dei depositi postali o bancari relativi al periodo. Il comitato dei creditori o ciascuno dei suoi componenti possono formulare osservazioni scritte. Altra copia del rapporto e' trasmessa, assieme alle eventuali osservazioni, per via telematica all'ufficio del registro delle imprese, nei quindici giorni successivi alla scadenza del termine per il deposito delle osservazioni nella cancelleria del tribunale.».
 
-#### Art. 30
+### Art. 30
 
 Sostituzione dell'articolo 34
 
@@ -675,7 +669,7 @@ Se e' prevedibile che le somme disponibili non possano essere immediatamente des
 
 Il prelievo delle somme e' eseguito su copia conforme del mandato di pagamento del giudice delegato.".
 
-#### Art. 31
+### Art. 31
 
 Sostituzione dell'articolo 35
 
@@ -689,7 +683,7 @@ Se gli atti suddetti sono di valore superiore a cinquantamila euro e in ogni cas
 
 Il limite di cui al secondo comma puo' essere adeguato con decreto del Ministro della giustizia.".
 
-#### Art. 32
+### Art. 32
 
 Sostituzione dell'articolo 36
 
@@ -703,7 +697,7 @@ Contro il decreto del giudice delegato e' ammesso ricorso al tribunale entro ott
 
 Se e' accolto il reclamo concernente un comportamento omissivo del curatore, questi e' tenuto a dare esecuzione al provvedimento della autorita' giudiziaria. Se e' accolto il reclamo concernente un comportamento omissivo del comitato dei creditori, il giudice delegato provvede in sostituzione di quest'ultimo con l'accoglimento del reclamo.".
 
-#### Art. 33
+### Art. 33
 
 Integrazione del regio decreto 16 marzo 1942, n. 267
 
@@ -711,7 +705,7 @@ Integrazione del regio decreto 16 marzo 1942, n. 267
 
 "Art. 36-bis (Termini processuali). - Tutti i termini processuali previsti negli articoli 26 e 36 non sono soggetti alla sospensione feriale.".
 
-#### Art. 34
+### Art. 34
 
 Modifiche all'articolo 37
 
@@ -733,7 +727,7 @@ b) dopo il secondo comma, e' aggiunto, in fine, il seguente: "Contro il decreto 
 
 > Contro il decreto di revoca o di rigetto dell'istanza di revoca, e' ammesso reclamo alla corte di appello ai sensi dell'art. 26; il reclamo non sospende l'efficacia del decreto.».
 
-#### Art. 35
+### Art. 35
 
 Integrazioni al regio decreto 16 marzo 1942, n. 267
 
@@ -745,7 +739,7 @@ Dal computo dei crediti, su istanza di uno o piu' creditori, sono esclusi quelli
 
 Nella stessa adunanza, i creditori che rappresentano la maggioranza di quelli allo stato ammessi, indipendentemente dall'entita' dei crediti vantati, possono stabilire che ai componenti del comitato dei creditori sia attribuito, oltre al rimborso delle spese di cui all'articolo 41, un compenso per la loro attivita', in misura non superiore al dieci per cento di quello liquidato al curatore.".
 
-#### Art. 36
+### Art. 36
 
 Modifiche all'articolo 38
 
@@ -767,7 +761,7 @@ b) al secondo comma, sono aggiunte, in fine, le seguenti parole: ", ovvero del c
 
 > Il curatore che cessa dal suo ufficio, anche durante il fallimento, deve rendere il conto della gestione a norma dell'art. 116.».
 
-#### Art. 37
+### Art. 37
 
 Modifiche all'articolo 39
 
@@ -793,7 +787,7 @@ c) al terzo comma, le parole: ",se vi e' luogo" sono soppresse.
 
 > Nessun compenso, oltre quello liquidato dal tribunale, puo' essere preteso dal curatore, nemmeno per rimborso di spese. Le promesse e i pagamenti fatti contro questo divieto sono nulli, ed e' sempre ammessa la ripetizione di cio' che e' stato pagato, indipendentemente dall'esercizio dell'azione penale.».
 
-#### Art. 38
+### Art. 38
 
 Sostituzione dell'articolo 40
 
@@ -815,7 +809,7 @@ Il componente del comitato che si trova in conflitto di interessi si astiene dal
 
 Ciascun componente del comitato dei creditori puo' delegare in tutto o in parte l'espletamento delle proprie funzioni ad uno dei soggetti aventi i requisiti indicati nell'articolo 28, previa comunicazione al giudice delegato.".
 
-#### Art. 39
+### Art. 39
 
 Sostituzione dell'articolo 41 del regio decreto 16 marzo 1942, n. 267
 
@@ -843,11 +837,9 @@ Il testo del presente articolo e' gia' integrato con le correzioni apportate dal
 
 E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-## Capo IV - Modifiche al titolo II, capo III
+## Capo IV - Modifiche al titolo II, capo III del regio decreto 16 marzo 1942, n. 267
 
-### del regio decreto 16 marzo 1942, n. 267
-
-#### Art. 40
+### Art. 40
 
 Modifiche all'articolo 42
 
@@ -867,7 +859,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 > Il curatore, previa autorizzazione del comitato dei creditori, puo' rinunciare ad acquisire i beni che pervengono al fallito durante la procedura fallimentare qualora i costi da sostenere per il loro acquisto e la loro conservazione risultino superiori al presumibile valore di realizzo dei beni stessi.».
 
-#### Art. 41
+### Art. 41
 
 Modifiche all'articolo 43
 
@@ -887,7 +879,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 > L'apertura del fallimento determina l'interruzione del processo.».
 
-#### Art. 42
+### Art. 42
 
 Modifiche all'articolo 44
 
@@ -907,7 +899,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 > Fermo quanto previsto dall'art. 42, secondo comma, sono acquisite al fallimento tutte le utilita' che il fallito consegue nel corso della procedura per effetto degli atti di cui al primo e secondo comma.».
 
-#### Art. 43
+### Art. 43
 
 Modifiche all'articolo 46
 
@@ -939,7 +931,7 @@ c) il secondo comma e' sostituito dal seguente: "I limiti previsti nel primo com
 
 > I limiti previsti nel numero 2) del presente articolo sono fissati con decreto motivato del giudice delegato che deve tener conto della condizione personale del fallito e di quella della sua famiglia.».
 
-#### Art. 44
+### Art. 44
 
 Modifiche all'articolo 47
 
@@ -957,7 +949,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 > \- L'art. 50 del citato regio decreto 16 marzo 1942, n. 267 abrogato dal presente decreto legislativo, recava: «Pubblico registro dei falliti».
 
-#### Art. 45
+### Art. 45
 
 Sostituzione dell'articolo 48
 
@@ -967,7 +959,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 "Art. 48 (Corrispondenza diretta al fallito). - L'imprenditore del quale sia stato dichiarato il fallimento, nonche' gli amministratori o i liquidatori di societa' o enti soggetti alla procedura di fallimento sono tenuti a consegnare al curatore la propria corrispondenza di ogni genere, inclusa quella elettronica, riguardante i rapporti compresi nel fallimento.".
 
-#### Art. 46
+### Art. 46
 
 Sostituzione dell'articolo 49
 
@@ -981,7 +973,7 @@ Se occorrono informazioni o chiarimenti ai fini della gestione della procedura, 
 
 In caso di legittimo impedimento o di altro giustificato motivo, il giudice puo' autorizzare l'imprenditore o il legale rappresentante della societa' o enti soggetti alla procedura di fallimento a comparire per mezzo di mandatario.".
 
-#### Art. 47
+### Art. 47
 
 Abrogazione dell'articolo 50
 
@@ -989,7 +981,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 1\. L'articolo 50 del regio decreto 16 marzo 1942, n. 267, e' abrogato.
 
-#### Art. 48
+### Art. 48
 
 Sostituzione dell'articolo 51
 
@@ -999,7 +991,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 "Art. 51 (Divieto di azioni esecutive e cautelari individuali). - Salvo diversa disposizione della legge, dal giorno della dichiarazione di fallimento nessuna azione individuale esecutiva o cautelare, anche per crediti maturati durante il fallimento, puo' essere iniziata o proseguita sui beni compresi nel fallimento.".
 
-#### Art. 49
+### Art. 49
 
 Modifiche all'articolo 52
 
@@ -1017,7 +1009,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 > Ogni credito, anche se munito di diritto di prelazione o trattato ai sensi dell'art. 111, primo comma, n. 1), nonche' ogni diritto reale o personale, mobiliare o immobiliare, deve essere accertato secondo le norme stabilite dal Capo V, salvo diverse disposizioni della legge.».
 
-#### Art. 50
+### Art. 50
 
 Modifiche all'articolo 54
 
@@ -1037,7 +1029,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 > L'estensione del diritto di prelazione agli interessi e' regolata dagli articoli 2749, 2788 e 2855, commi secondo e terzo, del codice civile, intendendosi equiparata la dichiarazione di fallimento all'atto di pignoramento. Per i crediti assistiti da privilegio generale, il decorso degli interessi cessa alla data del deposito del progetto di riparto nel quale il credito e' soddisfatto anche se parzialmente.».
 
-#### Art. 51
+### Art. 51
 
 Modifiche all'articolo 55
 
@@ -1055,7 +1047,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 > I crediti condizionali partecipano al concorso a norma degli articoli 96, 113 e 113-bis. Sono compresi tra i crediti condizionali quelli che non possono farsi valere contro il fallito, se non previa escussione di un obbligato principale.».
 
-#### Art. 52
+### Art. 52
 
 Sostituzione dell'articolo 58
 
@@ -1065,7 +1057,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 "Art. 58 (Obbligazioni e titoli di debito). - I crediti derivanti da obbligazioni e da altri titoli di debito sono ammessi al passivo per il loro valore nominale detratti i rimborsi gia' effettuati; se e' previsto un premio da estrarre a sorte, il suo valore attualizzato viene distribuito tra tutti i titoli che hanno diritto al sorteggio.".
 
-#### Art. 53
+### Art. 53
 
 Integrazioni al regio decreto 16 marzo 1942, n. 267
 
@@ -1073,7 +1065,7 @@ Integrazioni al regio decreto 16 marzo 1942, n. 267
 
 "Art. 67-bis (Patrimoni destinati ad uno specifico affare). - Gli atti che incidono su un patrimonio destinato ad uno specifico affare previsto dall'articolo 2447-bis, primo comma, lettera a) del codice civile, sono revocabili quando pregiudicano il patrimonio della societa'. Il presupposto soggettivo dell'azione e' costituito dalla conoscenza dello stato d'insolvenza della societa'.".
 
-#### Art. 54
+### Art. 54
 
 Sostituzione dell'articolo 69
 
@@ -1083,7 +1075,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 "Art. 69 (Atti compiuti tra i coniugi). - Gli atti previsti dall'articolo 67, compiuti tra coniugi nel tempo in cui il fallito esercitava un'impresa commerciale e quelli a titolo gratuito compiuti tra coniugi piu' di due anni prima della dichiarazione di fallimento, ma nel tempo in cui il fallito esercitava un'impresa commerciale sono revocati se il coniuge non prova che ignorava lo stato d'insolvenza del coniuge fallito.".
 
-#### Art. 55
+### Art. 55
 
 Integrazioni al regio decreto 16 marzo 1942, n. 267
 
@@ -1091,7 +1083,7 @@ Integrazioni al regio decreto 16 marzo 1942, n. 267
 
 "Art. 69-bis (Decadenza dall'azione). - Le azioni revocatorie disciplinate nella presente sezione non possono essere promosse decorsi tre anni dalla dichiarazione di fallimento e comunque decorsi cinque anni dal compimento dell'atto.".
 
-#### Art. 56
+### Art. 56
 
 Abrogazione dell'articolo 71
 
@@ -1103,7 +1095,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 > \- L'art. 71 del citato regio decreto 16 marzo 1942, n. 267, abrogato dal presente decreto legislativo, recava: «Effetti della revocazione.».
 
-#### Art. 57
+### Art. 57
 
 Sostituzione dell'articolo 72
 
@@ -1125,7 +1117,7 @@ Sono inefficaci le clausole negoziali che fanno dipendere la risoluzione del con
 
 Qualora l'immobile sia stato oggetto di preliminare di vendita trascritto ai sensi dell'articolo 2645-bis del codice civile e il curatore, ai sensi del precedente comma, scelga lo scioglimento del contratto, l'acquirente ha diritto di far valere il proprio credito nel passivo, senza che gli sia dovuto il risarcimento del danno e gode del privilegio di cui all'articolo 2775-bis del codice civile, a condizione che gli effetti della trascrizione del contratto preliminare non siano cessati anteriormente alla data della dichiarazione di fallimento.".
 
-#### Art. 58
+### Art. 58
 
 Sostituzione dell'articolo 72-bis
 
@@ -1143,7 +1135,7 @@ In caso di situazione di crisi del costruttore ai sensi dell'articolo 2, comma 1
 
 In ogni caso, la fideiussione non puo' essere escussa dopo che il curatore ha comunicato di voler dare esecuzione al contratto.".
 
-#### Art. 59
+### Art. 59
 
 Integrazioni al regio decreto 16 marzo 1942, n. 267
 
@@ -1167,7 +1159,7 @@ Il concedente ha diritto ad insinuarsi nello stato passivo per la differenza fra
 
 In caso di fallimento delle societa' autorizzate alla concessione di finanziamenti sotto forma di locazione finanziaria, il contratto prosegue; l'utilizzatore conserva la facolta' di acquistare, alla scadenza del contratto, la proprieta' del bene, previo pagamento dei canoni e del prezzo pattuito.".
 
-#### Art. 60
+### Art. 60
 
 Modifiche all'articolo 73
 
@@ -1183,7 +1175,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 > Nella vendita a rate con riserva della proprieta' il fallimento del venditore non e' causa di scioglimento del contratto.».
 
-#### Art. 61
+### Art. 61
 
 Modifiche all'articolo 74
 
@@ -1203,7 +1195,7 @@ b) il secondo comma e' sostituito dal seguente: "Se il curatore subentra, deve p
 
 > Se il curatore subentra, deve pagare integralmente il prezzo anche delle consegne gia' avvenute o dei servizi gia' erogati.».
 
-#### Art. 62
+### Art. 62
 
 Modifiche all'articolo 76
 
@@ -1217,7 +1209,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 > «Art. 76 (Contratto di borsa a termine)). - Il contratto di borsa a termine, se il termine scade dopo la dichiarazione di fallimento di uno dei contraenti, si scioglie alla data della dichiarazione di fallimento. La differenza fra il prezzo contrattuale e i valore delle cose o dei titoli alla data di dichiarazione di fallimento e' versata nel fallimento se il fallito risulta in credito, o e' ammessa al passivo del fallimento nel caso contrario.».
 
-#### Art. 63
+### Art. 63
 
 Modifiche all'articolo 77
 
@@ -1235,7 +1227,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 > Nei suoi confronti e' applicata la procedura prevista dall'art. 150.».
 
-#### Art. 64
+### Art. 64
 
 Sostituzione dell'articolo 78
 
@@ -1249,7 +1241,7 @@ Il contratto di mandato si scioglie per il fallimento del mandatario.
 
 Se il curatore del fallimento del mandante subentra nel contratto, il credito del mandatario e' trattato a norma dell'articolo 111, primo comma, n. 1), per l'attivita' compiuta dopo il fallimento.".
 
-#### Art. 65
+### Art. 65
 
 Modifiche all'articolo 79
 
@@ -1271,7 +1263,7 @@ b) al secondo comma, sono aggiunte, in fine, le seguenti parole: "e il credito e
 
 > Sono salve le disposizioni dell'art. 1706 del codice civile.».
 
-#### Art. 66
+### Art. 66
 
 Sostituzione dell'articolo 80
 
@@ -1283,7 +1275,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 In caso di fallimento del conduttore, il curatore puo' in qualunque tempo recedere dal contratto, corrispondendo al locatore un equo indennizzo per l'anticipato recesso, che nel dissenso fra le parti, e' determinato dal giudice delegato, sentiti gli interessati. Il credito per l'indennizzo e' regolato dall'articolo 111, primo comma, n. 1), e dall'articolo 2764 del codice civile.".
 
-#### Art. 67
+### Art. 67
 
 Integrazioni al regio decreto 16 marzo 1942, n. 267
 
@@ -1291,7 +1283,7 @@ Integrazioni al regio decreto 16 marzo 1942, n. 267
 
 "Art. 80-bis (Contratto di affitto d'azienda). - Il fallimento non e' causa di scioglimento del contratto di affitto d'azienda, ma entrambe le parti possono recedere entro sessanta giorni, corrispondendo alla controparte un equo indennizzo, che, nel dissenso tra le parti, e' determinato dal giudice delegato, sentiti gli interessati. L'indennizzo dovuto dalla curatela e' regolato dall'articolo 111, primo comma, n. 1).".
 
-#### Art. 68
+### Art. 68
 
 Sostituzione dell'articolo 81
 
@@ -1303,7 +1295,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 Nel caso di fallimento dell'appaltatore, il rapporto contrattuale si scioglie se la considerazione della qualita' soggettiva e' stata un motivo determinante del contratto, salvo che il committente non consenta, comunque, la prosecuzione del rapporto. Sono salve le norme relative al contratto di appalto per le opere pubbliche.".
 
-#### Art. 69
+### Art. 69
 
 Integrazioni al regio decreto 16 marzo 1942, n. 267
 
@@ -1311,11 +1303,9 @@ Integrazioni al regio decreto 16 marzo 1942, n. 267
 
 "Art. 83-bis (Clausola arbitrale). - Se il contratto in cui e' contenuta una clausola compromissoria e' sciolto a norma delle disposizioni della presente sezione, il procedimento arbitrale pendente non puo' essere proseguito.".
 
-## Capo V - Modifiche al titolo II, capo IV
+## Capo V - Modifiche al titolo II, capo IV del regio decreto 16 marzo 1942, n. 267
 
-### del regio decreto 16 marzo 1942, n. 267
-
-#### Art. 70
+### Art. 70
 
 Sostituzione dell'articolo 84
 
@@ -1333,7 +1323,7 @@ l'immediato completamento delle operazioni, l'apposizione dei sigilli puo' esser
 
 Per i beni e le cose sulle quali non e' possibile apporre i sigilli si procede a norma dell'articolo 758 del codice di procedura civile.".
 
-#### Art. 71
+### Art. 71
 
 Abrogazione dell'articolo 85
 
@@ -1345,7 +1335,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 > \- L'art. 85 del citato regio decreto 16 marzo 1942, n. 267, abrogato dal presente decreto, recava: «Apposizione dei sigilli da parte del pretore.».
 
-#### Art. 72
+### Art. 72
 
 Sostituzione dell'articolo 86
 
@@ -1365,7 +1355,7 @@ Il giudice delegato puo' autorizzarne il deposito in luogo idoneo, anche presso 
 
 Puo' essere richiesto il rilascio di copia, previa autorizzazione del giudice delegato, a cura e spese del richiedente.".
 
-#### Art. 73
+### Art. 73
 
 Sostituzione dell'articolo 87
 
@@ -1381,7 +1371,7 @@ Prima di chiudere l'inventario il curatore invita il fallito o, se si tratta di 
 
 L'inventario e' redatto in doppio originale e sottoscritto da tutti gli intervenuti. Uno degli originali deve essere depositato nella cancelleria del tribunale.
 
-#### Art. 74
+### Art. 74
 
 Integrazioni al regio decreto 16 marzo 1942, n. 267
 
@@ -1393,7 +1383,7 @@ I beni di cui al primo comma possono non essere inclusi nell'inventario.
 
 Sono inventariati i beni di proprieta' del fallito per i quali il terzo detentore ha diritto di rimanere nel godimento in virtu' di un titolo negoziale opponibile al curatore. Tali beni non sono soggetti alla presa in consegna a norma dell'articolo 88.".
 
-#### Art. 75
+### Art. 75
 
 Modifiche all'articolo 89
 
@@ -1411,7 +1401,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 > Il curatore deve inoltre redigere il bilancio dell'ultimo esercizio, se non e' stato presentato dal fallito nel termine stabilito, ed apportare le rettifiche necessarie e le eventuali aggiunte ai bilanci e agli elenchi presentati dal fallito a norma dell'art. 14.».
 
-#### Art. 76
+### Art. 76
 
 Sostituzione dell'articolo 90
 
@@ -1425,11 +1415,9 @@ Il comitato dei creditori e ciascun suo componente hanno diritto di prendere vis
 
 Gli altri creditori ed i terzi hanno diritto di prendere visione e di estrarre copia degli atti e dei documenti per i quali sussiste un loro specifico ed attuale interesse, previa autorizzazione del giudice delegato, sentito il curatore.".
 
-## Capo VI - Modifiche al titolo II, capo V
+## Capo VI - Modifiche al titolo II, capo V del regio decreto 16 marzo 1942, n. 267
 
-### del regio decreto 16 marzo 1942, n. 267
-
-#### Art. 77
+### Art. 77
 
 Sostituzione dell'articolo 92
 
@@ -1447,7 +1435,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 Se il creditore ha sede o risiede all'estero, la comunicazione puo' essere effettuata al suo rappresentante in Italia, se esistente.".
 
-#### Art. 78
+### Art. 78
 
 Sostituzione dell'articolo 93
 
@@ -1485,7 +1473,7 @@ Il ricorso puo' essere presentato dal rappresentante comune degli obbligazionist
 
 Il giudice ad istanza della parte puo' disporre che il cancelliere prenda copia dei titoli al portatore o all'ordine presentati e li restituisca con l'annotazione dell'avvenuta domanda di ammissione al passivo.".
 
-#### Art. 79
+### Art. 79
 
 Sostituzione dell'articolo 94
 
@@ -1495,7 +1483,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 "Art. 94 (Effetti della domanda). - La domanda di cui all'articolo 93 produce gli effetti della domanda giudiziale per tutto il corso del fallimento.".
 
-#### Art. 80
+### Art. 80
 
 Sostituzione dell'articolo 95
 
@@ -1513,7 +1501,7 @@ Il fallito puo' chiedere di essere sentito.
 
 Delle operazioni si redige processo verbale.".
 
-#### Art. 81
+### Art. 81
 
 Sostituzione dell'articolo 96
 
@@ -1539,7 +1527,7 @@ Terminato l'esame di tutte le domande, il giudice delegato forma lo stato passiv
 
 Il decreto che rende esecutivo lo stato passivo e le decisioni assunte dal tribunale all'esito dei giudizi di cui all'articolo 99, producono effetti soltanto ai fini del concorso.
 
-#### Art. 82
+### Art. 82
 
 Sostituzione dell'articolo 97
 
@@ -1551,7 +1539,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 La comunicazione e' data a mezzo raccomandata con avviso di ricevimento, ovvero tramite telefax o posta elettronica quando il creditore abbia indicato tale modalita' di comunicazione.".
 
-#### Art. 83
+### Art. 83
 
 Sostituzione dell'articolo 98
 
@@ -1571,7 +1559,7 @@ La revocazione e' proposta nei confronti del creditore concorrente, la cui doman
 
 Gli errori materiali contenuti nello stato passivo sono corretti con decreto del giudice delegato su istanza del creditore o del curatore, sentito il curatore o la parte interessata.".
 
-#### Art. 84
+### Art. 84
 
 Sostituzione dell'articolo 99
 
@@ -1609,7 +1597,7 @@ Il tribunale ammette con decreto in tutto o in parte, anche in via provvisoria, 
 
 Il decreto e' comunicato dalla cancelleria alle parti che, nei successivi trenta giorni, possono proporre ricorso per cassazione.".
 
-#### Art. 85
+### Art. 85
 
 Abrogazione dell'articolo 100
 
@@ -1621,7 +1609,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 > \- L'art. 100 del citato regio decreto 16 marzo 1942, n. 267, abrogato dal presente decreto, recava: «Impugnazione dei crediti ammessi.».
 
-#### Art. 86
+### Art. 86
 
 Sostituzione dell'articolo 101
 
@@ -1637,7 +1625,7 @@ Il creditore ha diritto di concorrere sulle somme gia' distribuite nei limiti di
 
 Decorso il termine di cui al primo comma, e comunque fino a quando non siano esaurite tutte le ripartizioni dell'attivo fallimentare, le domande tardive sono ammissibili se l'istante prova che il ritardo e' dipeso da causa a lui non imputabile.".
 
-#### Art. 87
+### Art. 87
 
 Sostituzione dell'articolo 102
 
@@ -1651,7 +1639,7 @@ Il tribunale dispone in conformita' a quanto previsto nel primo comma anche se l
 
 Il curatore comunica il decreto di cui al primo comma ai creditori che abbiano presentato domanda di ammissione al passivo ai sensi degli articoli 93 e 101, i quali, nei quindici giorni successivi, possono presentare reclamo alla corte di appello, che provvede con decreto in camera di consiglio, sentito il reclamante, il curatore, il comitato dei creditori ed il fallito.".
 
-#### Art. 88
+### Art. 88
 
 Sostituzione dell'articolo 103
 
@@ -1661,11 +1649,9 @@ del regio decreto 16 marzo 1942, n. 267
 
 "Art. 103 (Procedimenti relativi a domande di rivendica e restituzione). - Ai procedimenti che hanno ad oggetto domande di restituzione o di rivendicazione, si applica il regime probatorio previsto nell'articolo 621 del codice di procedura civile. Se il bene non e' stato acquisito all'attivo della procedura, il titolare del diritto, anche nel corso dell'udienza di cui all'articolo 95, puo' modificare l'originaria domanda e chiedere l'ammissione al passivo del controvalore del bene alla data di apertura del concorso. Se il curatore perde il possesso della cosa dopo averla acquisita, il titolare del diritto puo' chiedere che il controvalore del bene sia corrisposto in prededuzione.".
 
-## Capo VII - Modifiche al titolo II, capo VI
+## Capo VII - Modifiche al titolo II, capo VI del regio decreto 16 marzo 1942, n. 267
 
-### del regio decreto 16 marzo 1942, n. 267
-
-#### Art. 89
+### Art. 89
 
 Sostituzione alla rubrica del titolo II, capo VI,
 
@@ -1673,7 +1659,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 1\. La rubrica del titolo II, capo VI, del regio decreto 16 marzo 1942, n. 267, e' sostituita dalla seguente: "Dell'esercizio provvisorio e della liquidazione dell'attivo.".
 
-#### Art. 90
+### Art. 90
 
 Sostituzione dell'articolo 104
 
@@ -1699,7 +1685,7 @@ I crediti sorti nel corso dell'esercizio provvisorio sono soddisfatti in prededu
 
 Al momento della cessazione dell'esercizio provvisorio si applicano le disposizioni di cui alla sezione IV del capo III del titolo II.".
 
-#### Art. 91
+### Art. 91
 
 Integrazioni al regio decreto 16 marzo 1942, n. 267
 
@@ -1743,7 +1729,7 @@ Prima della approvazione del programma, il curatore puo' procedere alla liquidaz
 
 Il curatore, previa autorizzazione del comitato dei creditori, puo' non acquisire all'attivo o rinunciare a liquidare uno o piu' beni, se l'attivita' di liquidazione appaia manifestamente non conveniente. In questo caso, il curatore ne da' comunicazione ai creditori i quali, in deroga a quanto previsto nell'articolo 51, possono iniziare azioni esecutive o cautelari sui beni rimessi nella disponibilita' del debitore.".
 
-#### Art. 92
+### Art. 92
 
 Sostituzione dell'articolo 105
 
@@ -1769,7 +1755,7 @@ Il curatore puo' procedere alla liquidazione anche mediante il conferimento in u
 
 Il pagamento del prezzo puo' essere effettuato mediante accollo di debiti da parte dell'acquirente solo se non viene alterata la graduazione dei crediti.".
 
-#### Art. 93
+### Art. 93
 
 Sostituzione dell'articolo 106
 
@@ -1783,7 +1769,7 @@ Per la vendita della quota di societa' a responsabilita' limitata si applica l'a
 
 In alternativa alla cessione di cui al primo comma, il curatore puo' stipulare contratti di mandato per la riscossione dei crediti.".
 
-#### Art. 94
+### Art. 94
 
 Sostituzione dell'articolo 107
 
@@ -1803,7 +1789,7 @@ Se alla data di dichiarazione di fallimento sono pendenti procedure esecutive, i
 
 Con regolamento del Ministro della giustizia, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono stabiliti requisiti di onorabilita' e professionalita' dei soggetti specializzati e degli operatori esperti dei quali il curatore puo' avvalersi ai sensi del primo comma, nonche' i mezzi di pubblicita' e trasparenza delle operazioni di vendita.".
 
-#### Art. 95
+### Art. 95
 
 Sostituzione dell'articolo 108
 
@@ -1815,7 +1801,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 Per i veicoli iscritti nel pubblico registro automobilistico e per i beni immobili, una volta eseguita la vendita e riscosso interamente il prezzo, il giudice delegato ordina, con decreto, la cancellazione delle iscrizioni relative ai diritti di prelazione, nonche' delle trascrizioni dei pignoramenti e dei sequestri conservativi e di ogni altro vincolo.".
 
-#### Art. 96
+### Art. 96
 
 Integrazioni al regio decreto 16 marzo 1942, n. 267
 
@@ -1825,7 +1811,7 @@ Integrazioni al regio decreto 16 marzo 1942, n. 267
 
 "Art. 108-ter (Modalita' della vendita di diritti sulle opere dell'ingegno; sulle invenzioni industriali; sui marchi). - Il trasferimento dei diritti di utilizzazione economica delle opere dell'ingegno, il trasferimento dei diritti nascenti delle invenzioni industriali, il trasferimento dei marchi e la cessione di banche di dati sono fatte a norma delle rispettive leggi speciali.".
 
-#### Art. 97
+### Art. 97
 
 Modifiche all'articolo 109
 
@@ -1841,11 +1827,9 @@ del regio decreto 16 marzo 1942, n. 267
 
 > Il tribunale stabilisce con decreto la somma da attribuire, se del caso, al curatore in conto del compenso finale da liquidarsi a norma dell'art. 39. Tale somma e' prelevata sul prezzo insieme alle spese di procedura e di amministrazione.».
 
-## Capo VIII - Modifiche al titolo II, capo VII
+## Capo VIII - Modifiche al titolo II, capo VII del regio decreto 16 marzo 1942, n. 267
 
-### del regio decreto 16 marzo 1942, n. 267
-
-#### Art. 98
+### Art. 98
 
 Sostituzione dell'articolo 110
 
@@ -1861,7 +1845,7 @@ I creditori, entro il termine perentorio di quindici giorni dalla ricezione dell
 
 Decorso tale termine, il giudice delegato, su richiesta del curatore, dichiara esecutivo il progetto di ripartizione. Se sono proposti reclami, il progetto di ripartizione e' dichiarato esecutivo con accantonamento delle somme corrispondenti ai crediti oggetto di contestazione. Il provvedimento che decide sul reclamo dispone in ordine alla destinazione delle somme accantonate.".
 
-#### Art. 99
+### Art. 99
 
 Modifiche all'articolo 111
 
@@ -1891,7 +1875,7 @@ b) il secondo comma e' sostituito dal seguente:
 
 > Sono considerati debiti prededucibili quelli cosi' qualificati da una specifica disposizione di legge, e quelli sorti in occasione o in funzione delle procedure concorsuali di cui alla presente legge; tali debiti sono soddisfatti con preferenza ai sensi del primo comma n. 1).».
 
-#### Art. 100
+### Art. 100
 
 Integrazioni al regio decreto 16 marzo 1942, n. 267
 
@@ -1917,7 +1901,7 @@ Il curatore deve tenere un conto autonomo delle vendite dei singoli beni immobil
 
 I crediti garantiti da ipoteca e pegno e quelli assistiti da privilegio speciale hanno diritto di prelazione per il capitale, le spese e gli interessi, nei limiti di cui agli articoli 54 e 55, sul prezzo ricavato dai beni vincolati alla loro garanzia.".
 
-#### Art. 101
+### Art. 101
 
 Sostituzione dell'articolo 112
 
@@ -1927,7 +1911,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 "Art. 112 (Partecipazione dei creditori ammessi tardivamente). - I creditori ammessi a norma dell'articolo 101 concorrono soltanto alle ripartizioni posteriori alla loro ammissione in proporzione del rispettivo credito, salvo il diritto di prelevare le quote che sarebbero loro spettate nelle precedenti ripartizioni se assistiti da cause di prelazione o se il ritardo e' dipeso da cause ad essi non imputabili.".
 
-#### Art. 102
+### Art. 102
 
 Sostituzione dell'articolo 113
 
@@ -1949,7 +1933,7 @@ Le somme ritenute necessarie per spese future, per soddisfare il compenso al cur
 
 Devono essere altresi' trattenute e depositate nei modi stabiliti dal giudice delegato le somme ricevute dalla procedura per effetto di provvedimenti provvisoriamente esecutivi e non ancora passati in giudicato.".
 
-#### Art. 103
+### Art. 103
 
 Integrazioni al regio decreto 16 marzo 1942, n. 267
 
@@ -1957,7 +1941,7 @@ Integrazioni al regio decreto 16 marzo 1942, n. 267
 
 "Art. 113-bis (Scioglimento delle ammissioni con riserva). - Quando si verifica l'evento che ha determinato l'accoglimento di una domanda con riserva, su istanza del curatore o della parte interessata, il giudice delegato modifica lo stato passivo, con decreto, disponendo che la domanda deve intendersi accolta definitivamente.".
 
-#### Art. 104
+### Art. 104
 
 Sostituzione dell'articolo 114
 
@@ -1969,7 +1953,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 I creditori che hanno percepito pagamenti non dovuti, devono restituire le somme riscosse, oltre agli interessi legali dal momento del pagamento effettuato a loro favore.".
 
-#### Art. 105
+### Art. 105
 
 Sostituzione dell'articolo 115
 
@@ -1981,7 +1965,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 Se prima della ripartizione i crediti ammessi sono stati ceduti, il curatore attribuisce le quote di riparto ai cessionari, qualora la cessione sia stata tempestivamente comunicata, unitamente alla documentazione che attesti, con atto recante le sottoscrizioni autenticate di cedente e cessionario, l'intervenuta cessione. In questo caso, il curatore provvede alla rettifica formale dello stato passivo.".
 
-#### Art. 106
+### Art. 106
 
 Sostituzione dell'articolo 116
 
@@ -1997,7 +1981,7 @@ Dell'avvenuto deposito e della fissazione dell'udienza, il curatore da' immediat
 
 Se all'udienza stabilita non sorgono contestazioni o su queste viene raggiunto un accordo, il giudice approva il conto con decreto; altrimenti, fissa l'udienza innanzi al collegio che provvede in camera di consiglio.".
 
-#### Art. 107
+### Art. 107
 
 Sostituzione dell'articolo 117
 
@@ -2015,11 +1999,9 @@ Per i creditori che non si presentano o sono irreperibili le somme dovute sono n
 
 Il giudice, anche se e' intervenuta l'esdebitazione del fallito, omessa ogni formalita' non essenziale al contraddittorio, su ricorso dei creditori rimasti insoddisfatti che abbiano presentato la richiesta di cui al quarto comma, dispone la distribuzione delle somme non riscosse in base all'articolo 111 fra i soli richiedenti.".
 
-## Capo IX - Modifiche al titolo II, capo VIII
+## Capo IX - Modifiche al titolo II, capo VIII del regio decreto 16 marzo 1942, n. 267
 
-### del regio decreto 16 marzo 1942, n. 267
-
-#### Art. 108
+### Art. 108
 
 Modifiche all'articolo 118
 
@@ -2055,7 +2037,7 @@ d) dopo il primo comma e' aggiunto, in fine, il seguente:
 
 > Ove si tratti di fallimento di societa' il curatore ne chiede la cancellazione dal registro delle imprese. La chiusura della procedura di fallimento della societa' determina anche la chiusura della procedura estesa ai soci ai sensi dell'art. 147, salvo che nei confronti del socio non sia stata aperta una procedura di fallimento come imprenditore individuale.».
 
-#### Art. 109
+### Art. 109
 
 Modifiche all'articolo 119
 
@@ -2083,7 +2065,7 @@ Con i decreti emessi ai sensi del primo e del terzo comma del presente articolo,
 
 > Allo stesso modo si provvede a seguito del passaggio in giudicato della sentenza di revoca del fallimento o della definitivita' del decreto di omologazione del concordato fallimentare.».
 
-#### Art. 110
+### Art. 110
 
 Modifiche all'articolo 120
 
@@ -2109,7 +2091,7 @@ Il decreto o la sentenza con la quale il credito e' stato ammesso al passivo cos
 
 > Il decreto o la sentenza con la quale il credito e' stato ammesso al passivo costituisce prova scritta per gli effetti di cui all'art. 634 del codice di procedura civile.».
 
-#### Art. 111
+### Art. 111
 
 Modifiche all'articolo 121
 
@@ -2147,7 +2129,7 @@ c) dopo il secondo comma, e' aggiunto, in fine, il seguente:
 
 > Per le altre operazioni si seguono le norme stabilite nei capi precedenti.».
 
-#### Art. 112
+### Art. 112
 
 Modifiche all'articolo 122
 
@@ -2165,7 +2147,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 > Restano ferme le precedenti statuizioni a norma del Capo V.».
 
-#### Art. 113
+### Art. 113
 
 Modifiche all'articolo 123
 
@@ -2187,7 +2169,7 @@ b) il secondo comma e' sostituito dal seguente:
 
 > Sono privi di effetto nei confronti dei creditori gli atti a titolo gratuito e quelli di cui all'art. 69, posteriori alla chiusura e anteriori alla riapertura del fallimento.».
 
-#### Art. 114
+### Art. 114
 
 Sostituzione dell'articolo 124
 
@@ -2209,7 +2191,7 @@ La proposta puo' prevedere che i creditori muniti di diritto di prelazione non v
 
 La proposta presentata da un terzo puo' prevedere la cessione, oltre che dei beni compresi nell'attivo fallimentare, anche delle azioni di pertinenza della massa, purche' autorizzate dal giudice delegato, con specifica indicazione dell'oggetto e del fondamento della pretesa. Il terzo puo' limitare gli impegni assunti con il concordato ai soli creditori ammessi al passivo, anche provvisoriamente, e a quelli che hanno proposto opposizione allo stato passivo o domanda di ammissione tardiva al tempo della proposta. In tale caso, verso gli altri creditori continua a rispondere il fallito, fermo quanto disposto dagli articoli 142 e seguenti in caso di esdebitazione.".
 
-#### Art. 115
+### Art. 115
 
 Sostituzione dell'articolo 125
 
@@ -2225,7 +2207,7 @@ Una volta espletati tali adempimenti preliminari, il giudice delegato, acquisito
 
 Se la societa' fallita ha emesso obbligazioni o strumenti finanziari oggetto della proposta di concordato, la comunicazione e' inviata agli organi che hanno il potere di convocare le rispettive assemblee, affinche' possano esprimere il loro eventuale dissenso. Il termine previsto dal terzo comma e' prolungato per consentire l'espletamento delle predette assemblee.".
 
-#### Art. 116
+### Art. 116
 
 Sostituzione dell'articolo 126
 
@@ -2235,7 +2217,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 "Art. 126 (Concordato nel caso di numerosi creditori). - Ove le comunicazioni siano dirette ad un rilevante numero di destinatari, il giudice delegato puo' autorizzare il curatore a dare notizia della proposta di concordato, anziche' con comunicazione ai singoli creditori, mediante pubblicazione del testo integrale della medesima su uno o piu' quotidiani a diffusione nazionale o locale.".
 
-#### Art. 117
+### Art. 117
 
 Sostituzione dell'articolo 127
 
@@ -2257,7 +2239,7 @@ La stessa disciplina si applica ai crediti delle societa' controllanti o control
 
 I trasferimenti di crediti avvenuti dopo la dichiarazione di fallimento non attribuiscono diritto di voto, salvo che siano effettuati a favore di banche o altri intermediari finanziari.".
 
-#### Art. 118
+### Art. 118
 
 Sostituzione dell'articolo 128
 
@@ -2273,7 +2255,7 @@ I creditori che non fanno pervenire il loro dissenso nel termine fissato dal giu
 
 La variazione del numero dei creditori ammessi o dell'ammontare dei singoli crediti, che avvenga per effetto di una sentenza emessa successivamente alla scadenza del termine fissato dal giudice delegato per le votazioni, non influisce sul calcolo della maggioranza.".
 
-#### Art. 119
+### Art. 119
 
 Sostituzione dell'articolo 129
 
@@ -2297,7 +2279,7 @@ Quando sono previste diverse classi di creditori, il tribunale, riscontrato il r
 
 Al fine di quanto previsto dal settimo comma, le classi di creditori non ammessi al voto ai sensi del secondo comma dell'articolo 127 sono considerate favorevoli ai soli fini del requisito della maggioranza delle classi.".
 
-#### Art. 120
+### Art. 120
 
 Sostituzione dell'articolo 130
 
@@ -2309,7 +2291,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 Quando il decreto di omologazione diventa definitivo, il curatore rende conto della gestione ai sensi dell'articolo 116 ed il tribunale dichiara chiuso il fallimento.".
 
-#### Art. 121
+### Art. 121
 
 Sostituzione dell'articolo 131
 
@@ -2329,7 +2311,7 @@ All'udienza il collegio, nel contraddittorio delle parti, assunte anche d'uffici
 
 Il decreto, comunicato al debitore e pubblicato a norma dell'articolo 17, puo' essere impugnato entro il termine di trenta giorni avanti la corte di cassazione.".
 
-#### Art. 122
+### Art. 122
 
 Abrogazione degli articoli 132, 133 e 134
 
@@ -2347,7 +2329,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 > «Art. 134. Rendiconto del curatore.».
 
-#### Art. 123
+### Art. 123
 
 Modifiche all'articolo 136
 
@@ -2373,7 +2355,7 @@ b) il terzo comma e' sostituito dal seguente:
 
 > Il provvedimento e' pubblicato ed affisso ai sensi dell'art. 17. Le spese sono a carico del debitore.».
 
-#### Art. 124
+### Art. 124
 
 Sostituzione dell'articolo 137
 
@@ -2393,7 +2375,7 @@ Le disposizioni di questo articolo non si applicano quando gli obblighi derivant
 
 Non possono proporre istanza di risoluzione i creditori del fallito verso cui il terzo, ai sensi dell'articolo 124, non abbia assunto responsabilita' per effetto del concordato.".
 
-#### Art. 125
+### Art. 125
 
 Modifiche all'articolo 138
 
@@ -2423,7 +2405,7 @@ c) il terzo comma e' sostituito dal seguente:
 
 > Il ricorso per l'annullamento deve proporsi nel termine di sei mesi dalla scoperta del dolo e, in ogni caso, non oltre due anni dalla scadenza del termine fissato per l'ultimo adempimento previsto nel concordato.».
 
-#### Art. 126
+### Art. 126
 
 Sostituzione dell'articolo 139
 
@@ -2433,7 +2415,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 "Art. 139 (Provvedimenti conseguenti alla riapertura). - La sentenza che riapre la procedura a norma degli articoli 137 e 138 provvede ai sensi dell'articolo 121.".
 
-#### Art. 127
+### Art. 127
 
 Sostituzione dell'articolo 141
 
@@ -2443,11 +2425,9 @@ del regio decreto 16 marzo 1942, n. 267
 
 "Art. 141 (Nuova proposta di concordato). - Reso esecutivo il nuovo stato passivo, il proponente e' ammesso a presentare una nuova proposta di concordato. Questo non puo' tuttavia essere omologato se prima dell'udienza a cio' destinata non sono depositate, nei modi stabiliti del giudice delegato, le somme occorrenti per il suo integrale adempimento o non sono prestate garanzie equivalenti.".
 
-## Capo X - Modifiche al titolo II, capo IX
+## Capo X - Modifiche al titolo II, capo IX del regio decreto 16 marzo 1942, n. 267
 
-### del regio decreto 16 marzo 1942, n. 267
-
-#### Art. 128
+### Art. 128
 
 Modifiche al titolo II, capo IX,
 
@@ -2491,7 +2471,7 @@ Art. 144 (Esdebitazione per i crediti concorsuali non concorrenti).
 
 \- Il decreto di accoglimento della domanda di esdebitazione produce effetti anche nei confronti dei creditori anteriori alla apertura della procedura di liquidazione che non hanno presentato la domanda di ammissione al passivo; in tale caso, l'esdebitazione opera per la sola eccedenza rispetto a quanto i creditori avrebbero avuto diritto di percepire nel concorso.".
 
-#### Art. 129
+### Art. 129
 
 Abrogazione dell'articolo 145
 
@@ -2503,11 +2483,9 @@ del regio decreto 16 marzo 1942, n. 267
 
 > \- L'art. 145 del citato regio decreto 16 marzo 1942, n. 267, abrogato dal presente decreto recava: «Condanne penali che ostano alla riabilitazione».
 
-## Capo XI - Modifiche al titolo II, capo X,
+## Capo XI - Modifiche al titolo II, capo X, del regio decreto 16 marzo 1942, n. 267
 
-### del regio decreto 16 marzo 1942, n. 267
-
-#### Art. 130
+### Art. 130
 
 Sostituzione dell'articolo 146
 
@@ -2523,7 +2501,7 @@ a) le azioni di responsabilita' contro gli amministratori, i componenti degli or
 
 b) l'azione di responsabilita' contro i soci della societa' a responsabilita' limitata, nei casi previsti dall'articolo 2476, comma settimo, del codice civile.".
 
-#### Art. 131
+### Art. 131
 
 Sostituzione dell'articolo 147
 
@@ -2545,7 +2523,7 @@ Contro la sentenza del tribunale e' ammesso appello a norma dell'articolo 18.
 
 In caso di rigetto della domanda, contro il decreto del tribunale l'istante puo' proporre reclamo alla corte d'appello a norma dell'articolo 22.".
 
-#### Art. 132
+### Art. 132
 
 Sostituzione dell'articolo 148
 
@@ -2565,7 +2543,7 @@ I creditori particolari partecipano soltanto al fallimento dei soci loro debitor
 
 Ciascun creditore puo' contestare i crediti dei creditori con i quali si trova in concorso.
 
-#### Art. 133
+### Art. 133
 
 Modifiche all'articolo 150
 
@@ -2583,7 +2561,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 > Contro il decreto emesso a norma del primo comma puo' essere proposta opposizione ai sensi dell\`art. 645 del codice di procedura civile.».
 
-#### Art. 134
+### Art. 134
 
 Sostituzione dell'articolo 151
 
@@ -2593,7 +2571,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 "Art. 151 (Fallimento di societa' a responsabilita' limitata: polizza assicurativa e fideiussione bancaria). - Nei fallimenti di societa' a responsabilita' limitata il giudice, ricorrendone i presupposti, puo' autorizzare il curatore ad escutere la polizza assicurativa o la fideiussione bancaria rilasciata ai sensi dell'articolo 2464, quarto e sesto comma, dei codice civile.".
 
-#### Art. 135
+### Art. 135
 
 Modifiche all'articolo 152
 
@@ -2623,7 +2601,7 @@ In ogni caso, la decisione o la deliberazione di cui alla lettera b), del second
 
 > In ogni caso, la decisione o la deliberazione di cui alla lettera b) del secondo comma deve risultare da verbale redatto da notaio ed e' depositata ed iscritta nel registro delle imprese a norma dell'art. 2436 del codice civile.».
 
-#### Art. 136
+### Art. 136
 
 Modifiche all'articolo 153
 
@@ -2645,11 +2623,9 @@ b) il secondo comma e' sostituito dal seguente:
 
 > Contro il decreto di chiusura del fallimento del socio e' ammesso reclamo a norma dell'art. 26.».
 
-## Capo XII - Modifiche al titolo II, capo XI,
+## Capo XII - Modifiche al titolo II, capo XI, del regio decreto 16 marzo 1942, n. 267
 
-### del regio decreto 16 marzo 1942, n. 267
-
-#### Art. 137
+### Art. 137
 
 Sostituzione della rubrica del capo XI, del titolo II,
 
@@ -2657,7 +2633,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 1\. La rubrica del capo XI del titolo II del regio decreto 16 marzo 1942, n. 267, e' sostituita dalla seguente: "Dei patrimoni destinati ad uno specifico affare.".
 
-#### Art. 138
+### Art. 138
 
 Sostituzione dell'articolo 155
 
@@ -2673,7 +2649,7 @@ Se la cessione non e' possibile, il curatore provvede alla liquidazione del patr
 
 Il corrispettivo della cessione al netto dei debiti del patrimonio o il residuo attivo della liquidazione sono acquisiti dal curatore nell'attivo fallimentare, detratto quanto spettante ai terzi che vi abbiano effettuato apporti, ai sensi dell'articolo 2447-ter, primo comma, lettera d), del codice civile.".
 
-#### Art. 139
+### Art. 139
 
 Sostituzione dell'articolo 156
 
@@ -2687,7 +2663,7 @@ I creditori particolari del patrimonio destinato possono presentare domanda di i
 
 Se risultano violate le regole di separatezza fra uno o piu' patrimoni destinati costituiti dalla societa' e il patrimonio della societa' medesima, il curatore puo' agire in responsabilita' contro gli amministratori e i componenti degli organi di controllo della societa' ai sensi dell'articolo 146.".
 
-#### Art. 140
+### Art. 140
 
 Abrogazione degli articoli 157, 158 e 159
 
@@ -2705,11 +2681,9 @@ del regio decreto 16 marzo 1942, n. 267
 
 > «Art. 159 Concordato».
 
-## Capo XIII - Modifiche al titolo III, capo I
+## Capo XIII - Modifiche al titolo III, capo I del regio decreto 16 marzo 1942, n. 267
 
-### del regio decreto 16 marzo 1942, n. 267
-
-#### Art. 141
+### Art. 141
 
 Sostituzione dell'articolo 164
 
@@ -2719,7 +2693,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 "Art. 164 (Decreti del giudice delegato). - I decreti del giudice delegato sono soggetti a reclamo a norma dell'articolo 26.".
 
-#### Art. 142
+### Art. 142
 
 Sostituzione dell'articolo 166
 
@@ -2731,11 +2705,9 @@ del regio decreto 16 marzo 1942, n. 267
 
 Se il debitore possiede beni immobili o altri beni soggetti a pubblica registrazione, si applica la disposizione dell'articolo 88, secondo comma.".
 
-## Capo XIV - Modifiche al titolo III, capo II
+## Capo XIV - Modifiche al titolo III, capo II del regio decreto 16 marzo 1942, n. 267
 
-### del regio decreto 16 marzo 1942, n. 267
-
-#### Art. 143
+### Art. 143
 
 Modifiche all'articolo 167
 
@@ -2759,7 +2731,7 @@ b) dopo il secondo comma, e' aggiunto, in fine, il seguente:
 
 > Con il decreto previsto dall'art. 163 o con successivo decreto, il tribunale puo' stabilire un limite di valore al di sotto del quale non e' dovuta l'autorizzazione di cui al secondo comma.».
 
-#### Art. 144
+### Art. 144
 
 Modifiche all'articolo 169
 
@@ -2773,11 +2745,9 @@ del regio decreto 16 marzo 1942, n. 267
 
 > «Art. 169 (Norme applicabili). - Si applicano, con riferimento alla data di presentazione della domanda di concordato, le disposizioni degli articoli 45, 55, 56, 57, 58, 59, 60, 61, 62, 63.».
 
-## Capo XV - Modifiche al titolo III, capo V,
+## Capo XV - Modifiche al titolo III, capo V, del regio decreto 16 marzo 1942, n. 267
 
-### del regio decreto 16 marzo 1942, n. 267
-
-#### Art. 145
+### Art. 145
 
 Modifiche alla rubrica del capo V del titolo III
 
@@ -2785,7 +2755,7 @@ del regio decreto 16 marzo 1942, n. 267
 
 1\. La rubrica del capo V del titolo III del regio decreto 16 marzo 1942, n. 267, e' sostituita dalla seguente: "Dell'omologazione e dell'esecuzione del concordato preventivo. Degli accordi di ristrutturazione di debiti.".
 
-#### Art. 146
+### Art. 146
 
 Integrazioni al regio decreto 16 marzo 1942, n. 267
 
@@ -2803,11 +2773,9 @@ La chiusura della procedura di concordato ai sensi dell'articolo 181, determina 
 
 Ai debiti tributari amministrati dalle agenzie fiscali non si applicano le disposizioni di cui all'articolo 182-bis.".
 
-## Capo XVI - Abrogazione del titolo IV
+## Capo XVI - Abrogazione del titolo IV del regio decreto 16 marzo 1942, n. 267
 
-### del regio decreto 16 marzo 1942, n. 267
-
-#### Art. 147
+### Art. 147
 
 Abrogazione del titolo IV
 
@@ -2821,11 +2789,9 @@ regio decreto 16 marzo 1942, n. 267
 
 > \- Il Titolo IV del citato regio decreto 16 marzo 1942, n. 267, abrogato dal presente decreto, recava: «Dell'Amministrazione controllata».
 
-## Capo XVII - Modifiche al titolo V
+## Capo XVII - Modifiche al titolo V del regio decreto 16 marzo 1942, n. 267
 
-### del regio decreto 16 marzo 1942, n. 267
-
-#### Art. 148
+### Art. 148
 
 Sostituzione dell'articolo 195
 
@@ -2849,7 +2815,7 @@ Il tribunale provvede su istanza del commissario giudiziale alla dichiarazione d
 
 Le disposizioni di questo articolo non si applicano agli enti pubblici.".
 
-#### Art. 149
+### Art. 149
 
 Modifiche all'articolo 213
 
@@ -2871,17 +2837,15 @@ b) al terzo comma, le parole: "2456 e 2457" sono sostituite dalle seguenti: "249
 
 > Decorso il termine indicato senza che siano proposte osservazioni, il bilancio, il conto di gestione e il piano di reparto si intendono approvati, e il commissario provvede alle ripartizioni finali tra i creditori. Si applicano le norme dell'art. 117, e se del caso degli articoli 2494 e 2495 del codice civile».
 
-## Capo XVIII - Disciplina transitoria,
+## Capo XVIII - Disciplina transitoria, abrogazioni ed entrata in vigore
 
-### abrogazioni ed entrata in vigore
-
-#### Art. 150
+### Art. 150
 
 Disciplina transitoria
 
 1\. I ricorsi per dichiarazione di fallimento e le domande di concordato fallimentare depositate prima dell'entrata in vigore del presente decreto, nonche' le procedure di fallimento e di concordato fallimentare pendenti alla stessa data, sono definiti secondo la legge anteriore.
 
-#### Art. 151
+### Art. 151
 
 Abrogazione in materia di transazione fiscale
 
@@ -2975,7 +2939,7 @@ Abrogazione in materia di transazione fiscale
 
 > 13-quater. La riscossione coattiva dei fondi a disposizione del Corpo delle capitanerie di porto avviene ai sensi dell'art. 1, comma 1, del decreto-legge 25 maggio 1994, n. 313, convertito, con modificazioni, dalla legge 22 luglio 1994, n. 460.».
 
-#### Art. 152
+### Art. 152
 
 Disposizioni abrogative
 
@@ -3037,7 +3001,7 @@ b) art. 3, comma 1, lettera e), della legge 8 agosto 1991, n. 264, limitatamente
 
 > 4-bis. L'autorizzazione non e' richiesta per l'esercente attivita' di servizi tecnico-amministrativi di altro Stato membro dell'Unione europea secondo le disposizioni di quest'ultimo, che fornisca occasionalmente in Italia, per conto della propria clientela, le prestazioni di consulenza di cui alla presente legge.».
 
-#### Art. 153
+### Art. 153
 
 Entrata in vigore
 

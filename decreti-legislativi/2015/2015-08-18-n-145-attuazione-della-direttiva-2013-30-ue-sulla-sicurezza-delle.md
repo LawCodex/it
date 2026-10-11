@@ -120,7 +120,7 @@ il seguente decreto legislativo:
 
 ## Capo I - FINALITÀ ED AMBITO DI APPLICAZIONE
 
-#### Art. 1
+### Art. 1
 
 Oggetto e ambito di applicazione
 
@@ -938,7 +938,7 @@ Oggetto e ambito di applicazione
 
 > Per i riferimenti al decreto del Presidente della Repubblica 9 aprile 1959, n. 128, al decreto del Presidente della Repubblica 24 maggio 1979, n. 886, al decreto del Presidente della Repubblica 8 novembre 1991, n. 435, al decreto legislativo 25 novembre 1996, n. 624, al decreto legislativo 9 aprile 2008, n. 81 , al decreto legislativo 25 novembre 1996, n. 625, al decreto legislativo 3 aprile 2006, n. 152 e al decreto legislativo 19 agosto 2005, n. 195 si vedano le note alle premesse.
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -1112,7 +1112,7 @@ tt) zona di sicurezza: l'area situata entro cinquecento metri da qualsiasi parte
 
 ## Capo II - PREVENZIONE DEI GRANDI INCIDENTI LEGATI ALLE OPERAZIONI IN MARE NEL SETTORE DEGLI IDROCARBURI
 
-#### Art. 3
+### Art. 3
 
 Principi generali di gestione del rischio nelle operazioni in mare nel settore degli idrocarburi
 
@@ -1124,7 +1124,7 @@ Principi generali di gestione del rischio nelle operazioni in mare nel settore d
 
 4\. Gli operatori effettuano le operazioni in mare nel settore degli idrocarburi sulla base di una gestione del rischio sistematica, tale che i rischi residui di incidenti gravi per le persone, l'ambiente e gli impianti in mare siano accettabili.
 
-#### Art. 4
+### Art. 4
 
 Requisiti di sicurezza e ambiente in materia di licenze
 
@@ -1216,7 +1216,7 @@ d) le informazioni disponibili riguardanti le prestazioni del richiedente in mat
 
 > La direttiva 2009/147/CE e' pubblicata nella G.U.U.E. 26 gennaio 2010, n. L 20.
 
-#### Art. 5
+### Art. 5
 
 Partecipazione del pubblico riguardo agli effetti sull'ambiente delle operazioni esplorative in mare programmate nel settore degli idrocarburi
 
@@ -1262,7 +1262,7 @@ Partecipazione del pubblico riguardo agli effetti sull'ambiente delle operazioni
 
 > 10\. Sul suo sito web, l'autorita' competente pubblica la documentazione presentata, ivi comprese le osservazioni, le eventuali controdeduzioni e le modifiche eventualmente apportate al progetto, disciplinate dai commi 4, 8, 9, e 9-bis."
 
-#### Art. 6
+### Art. 6
 
 Operazioni in mare nel settore degli idrocarburi all'interno delle aree autorizzate
 
@@ -1350,7 +1350,7 @@ h) per operazioni di pattugliamento e sorveglianza delle unita' navali delle For
 
 > All'onere relativo si provvede a carico del capitolo 8051 dello stato di previsione della spesa del Ministero della marina mercantile per l'anno 1982."
 
-#### Art. 7
+### Art. 7
 
 Responsabilita' per danno ambientale
 
@@ -1360,7 +1360,7 @@ Responsabilita' per danno ambientale
 
 > Per i riferimenti al decreto legislativo 3 aprile 2006, n. 152 si vedano le note alle premesse.
 
-#### Art. 8
+### Art. 8
 
 Designazione dell'autorita' competente
 
@@ -1410,7 +1410,7 @@ f) cooperare con le autorita' competenti o con i punti di contatto degli Stati m
 
 11\. All'attuazione del presente articolo, le amministrazioni interessate provvedono, senza nuovi o maggiori oneri a carico della finanza pubblica, con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-#### Art. 9
+### Art. 9
 
 Funzionamento del Comitato
 
@@ -1430,7 +1430,7 @@ f) fonda la propria organizzazione e le proprie procedure operative sui principi
 
 2\. Il Comitato informa tempestivamente delle proprie motivate decisioni l'operatore e le autorita' che sono state interessate dal rilascio dell'autorizzazione o della concessione delle operazioni in mare in questione.
 
-#### Art. 10
+### Art. 10
 
 Collaborazione dell'Agenzia europea
 
@@ -1444,7 +1444,7 @@ per la sicurezza marittima
 
 ## Capo III - PREPARAZIONE E EFFETTUAZIONE DELLE OPERAZIONI IN MARE NEL SETTORE DEGLI IDROCARBURI
 
-#### Art. 11
+### Art. 11
 
 Documenti da presentare per lo svolgimento
 
@@ -1490,7 +1490,7 @@ m) qualsiasi altro documento pertinente richiesto dal Comitato.
 
 > Per i riferimenti al decreto legislativo 25 novembre 1996, n. 625, si vedano le note alle premesse.
 
-#### Art. 12
+### Art. 12
 
 Relazione sui grandi rischi
 
@@ -1510,7 +1510,7 @@ per un impianto di produzione
 
 7\. La relazione sui grandi rischi per un impianto di produzione e' soggetta a riesame periodico approfondito da parte dell'operatore almeno ogni cinque anni o prima quando cio' sia richiesto dal Comitato. I risultati del riesame sono comunicati al Comitato.
 
-#### Art. 13
+### Art. 13
 
 Relazione sui grandi rischi
 
@@ -1530,7 +1530,7 @@ per un impianto non destinato alla produzione
 
 7\. La relazione sui grandi rischi per un impianto non destinato alla produzione e' soggetta a un riesame periodico approfondito da parte dell'operatore almeno ogni cinque anni o prima quando cio' sia richiesto dal Comitato. I risultati del riesame sono comunicati al Comitato.
 
-#### Art. 14
+### Art. 14
 
 Piani interni di risposta alle emergenze
 
@@ -1542,7 +1542,7 @@ Se il piano interno di risposta alle emergenze deve essere modificato a causa de
 
 3\. Se un impianto non destinato alla produzione deve essere usato per effettuare operazioni combinate, il piano interno di risposta alle emergenze e' modificato per farvi rientrare le operazioni combinate e presentato al Comitato, a corredo della pertinente comunicazione di operazioni combinate.
 
-#### Art. 15
+### Art. 15
 
 Comunicazione di operazioni
 
@@ -1558,7 +1558,7 @@ di pozzo e relative informazioni
 
 5\. L'operatore presenta le relazioni periodiche inerenti le operazioni di pozzo al Comitato conformemente a quanto previsto dall'allegato II. Le relazioni sono presentate a intervalli di una settimana a partire dal giorno di inizio delle operazioni di pozzo.
 
-#### Art. 16
+### Art. 16
 
 Comunicazione di operazioni combinate
 
@@ -1568,7 +1568,7 @@ Comunicazione di operazioni combinate
 
 3\. L'operatore che ha presentato la comunicazione informa tempestivamente il Comitato di qualsiasi modifica sostanziale della comunicazione presentata. L'UNMIG esamina le modifiche e, se lo ritiene necessario, adotta le misure appropriate.
 
-#### Art. 17
+### Art. 17
 
 Verifica indipendente
 
@@ -1592,7 +1592,7 @@ b) per quanto concerne le comunicazioni di operazioni di pozzo, per offrire una 
 
 8\. Nel caso di un impianto di produzione, il sistema di verifica e' posto in essere prima del completamento della progettazione. Per un impianto non destinato alla produzione, il sistema e' istituito prima dell'avvio delle operazioni.
 
-#### Art. 18
+### Art. 18
 
 Poteri del Comitato in relazione
 
@@ -1612,7 +1612,7 @@ e) chiede miglioramenti e, se necessario, vieta la prosecuzione dell'esercizio d
 
 ## Capo IV - POLITICA DI PREVENZIONE
 
-#### Art. 19
+### Art. 19
 
 Prevenzione degli incidenti gravi
 
@@ -1670,7 +1670,7 @@ L'operatore comunica al Comitato, tempestivamente e comunque entro ventiquattro 
 
 > 4\. I piani di cui al comma 3 sono adottati da ciascuna amministrazione sulla base di appositi e dettagliati studi di fattibilita' tecnica; su tali studi e' obbligatoriamente acquisito il parere di DigitPA."
 
-#### Art. 20
+### Art. 20
 
 Operazioni in mare nel settore degli idrocarburi
 
@@ -1680,7 +1680,7 @@ svolte al di fuori dell'Unione
 
 2\. Nella richiesta di relazione di cui al comma 1, il Comitato specifica i dettagli delle informazioni richieste. Tali relazioni sono scambiate con gli altri Stati membri conformemente all'articolo 27, comma 1.
 
-#### Art. 21
+### Art. 21
 
 Garanzia di conformita' con il quadro normativo
 
@@ -1692,7 +1692,7 @@ per la prevenzione degli incidenti gravi
 
 3\. Il Comitato elabora piani annuali mirati a un controllo efficace, anche per mezzo di ispezioni, dei grandi rischi basandosi sulla gestione del rischio ed esaminando con particolare attenzione la conformita' alle relazioni sui grandi rischi e ad altri documenti presentati a norma dell'articolo 11. L'efficacia dei piani e' rivista ogni 3 anni e il Comitato adotta tutte le eventuali misure necessarie a migliorarli.
 
-#### Art. 22
+### Art. 22
 
 Segnalazione confidenziale dei problemi di sicurezza
 
@@ -1704,11 +1704,9 @@ b) per l'approfondimento di tali segnalazioni, mantenendo al contempo l'anonimat
 
 2\. Gli operatori comunicano informazioni dettagliate sulle disposizioni nazionali per il meccanismo di cui al comma 1, lettera b), ai propri dipendenti, e a contraenti incaricati che partecipano alle operazioni e ai relativi dipendenti. Nelle comunicazioni e nelle formazioni pertinenti l'operatore fa riferimento anche alle segnalazioni confidenziali.
 
-## Capo V - TRASPARENZA E CONDIVISIONE
+## Capo V - TRASPARENZA E CONDIVISIONE DELLE INFORMAZIONI
 
-### DELLE INFORMAZIONI
-
-#### Art. 23
+### Art. 23
 
 Condivisione delle informazioni
 
@@ -1720,7 +1718,7 @@ Condivisione delle informazioni
 
 > Il regolamento di esecuzione (UE) n. 1112/2014 e' pubblicato nella G.U.U.E. 22 ottobre 2014, n. L 302.
 
-#### Art. 24
+### Art. 24
 
 Trasparenza
 
@@ -1732,7 +1730,7 @@ Trasparenza
 
 > Per i riferimenti al regolamento di esecuzione (UE) n. 1112/2014, si vedano le note all'art. 23.
 
-#### Art. 25
+### Art. 25
 
 Relazioni sulla sicurezza
 
@@ -1742,7 +1740,7 @@ Relazioni sulla sicurezza
 
 3\. Il Ministero dell'ambiente e della tutela del territorio e del mare, anche avvalendosi dell'ISPRA, trasmette annualmente alle Commissioni parlamentari competenti un rapporto sugli effetti per l'ecosistema marino della tecnica dell'airgun.
 
-#### Art. 26
+### Art. 26
 
 Indagini a seguito di un incidente grave
 
@@ -1752,11 +1750,9 @@ Indagini a seguito di un incidente grave
 
 3\. A seguito delle inchieste a norma del comma 1, il Comitato attua tutte le raccomandazioni, frutto delle indagini, che rientrano nell'ambito dei suoi poteri.
 
-## Capo VI
+## Capo VI - COOPERAZIONE
 
-### COOPERAZIONE
-
-#### Art. 27
+### Art. 27
 
 Cooperazione tra Stati membri
 
@@ -1770,7 +1766,7 @@ Cooperazione tra Stati membri
 
 ## Capo VII - PREPARAZIONE E RISPOSTA ALLE EMERGENZE
 
-#### Art. 28
+### Art. 28
 
 Prescrizioni relative ai piani interni
 
@@ -1792,7 +1788,7 @@ b) in linea con il piano esterno di risposta alle emergenze di cui all'articolo 
 
 > Per il testo dell'art. 11 della legge 31 dicembre 1982, n. 979 si vedano le note alle premesse.
 
-#### Art. 29
+### Art. 29
 
 Piani esterni di risposta alle emergenze
 
@@ -1818,7 +1814,7 @@ e preparazione alle emergenze
 
 > Il decreto del Presidente della Repubblica 28 settembre 1994, n. 662 (Regolamento di attuazione della L. 3 aprile 1989, n. 147, concernente adesione alla convenzione internazionale sulla ricerca ed il salvataggio marittimo, adottata ad Amburgo il 27 aprile 1979.) e' pubblicato nella Gazzetta Ufficiale 1° dicembre 1994, n. 281.
 
-#### Art. 30
+### Art. 30
 
 Risposta alle emergenze
 
@@ -1834,7 +1830,7 @@ Tale comunicazione descrive le circostanze, inclusi, se possibile, l'origine, i 
 
 ## Capo VIII - EFFETTI TRANSFRONTALIERI
 
-#### Art. 31
+### Art. 31
 
 Preparazione e risposta alle emergenze a livello transfrontaliero di Stati membri nell'ambito della cui giurisdizione si svolgono operazioni in mare nel settore degli idrocarburi
 
@@ -1854,7 +1850,7 @@ Preparazione e risposta alle emergenze a livello transfrontaliero di Stati membr
 
 ## Capo IX - DISPOSIZIONI FINALI
 
-#### Art. 32
+### Art. 32
 
 Sanzioni
 
@@ -1888,7 +1884,7 @@ Sanzioni
 
 > La legge 24 novembre 1981, n. 689 (Modifiche al sistema penale) e' pubblicata nella Gazzetta Ufficiale 30 novembre 1981, n. 329, S.O.
 
-#### Art. 33
+### Art. 33
 
 Modifica decreto legislativo 3 aprile 2006, n. 152
 
@@ -1922,7 +1918,7 @@ Modifica decreto legislativo 3 aprile 2006, n. 152
 
 > d) al terreno, mediante qualsiasi contaminazione che crei un rischio significativo di effetti nocivi, anche indiretti, sulla salute umana a seguito dell'introduzione nel suolo, sul suolo o nel sottosuolo di sostanze, preparati, organismi o microrganismi nocivi per l'ambiente."
 
-#### Art. 34
+### Art. 34
 
 Disposizioni transitorie e finali
 
@@ -1930,13 +1926,13 @@ Disposizioni transitorie e finali
 
 2\. In relazione agli impianti esistenti, l'applicazione delle disposizioni legislative, regolamentari e amministrative da adottare conformemente al presente decreto, avviene entro il 19 luglio 2018.
 
-#### Art. 35
+### Art. 35
 
 Clausola di invarianza finanziaria
 
 1\. Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni interessate provvedono all'attuazione del presente decreto con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-#### Art. 36
+### Art. 36
 
 Entrata in vigore
 
@@ -1974,7 +1970,7 @@ Visto, il Guardasigilli: Orlando
 
 ## Allegati
 
-#### Allegato I
+### Allegato I
 
 Allegato I
 
@@ -2266,7 +2262,7 @@ e) altre condizioni ambientali note suscettibili di influire sull'efficienza del
 
 12\) le valutazioni preventive sulle sostanze chimiche utilizzabili come disperdenti, autorizzate ai sensi della normativa vigente.
 
-#### Allegato II
+### Allegato II
 
 Allegato II
 
@@ -2294,7 +2290,7 @@ b) delle tubazioni di rivestimento installate;
 
 7\) nel caso di operazioni relative a un pozzo esistente, il suo stato operativo attuale.
 
-#### Allegato III
+### Allegato III
 
 Allegato III
 
@@ -2370,7 +2366,7 @@ i) il sistema di gestione della sicurezza e dell'ambiente descritto nella relazi
 
 l) il sistema di verifica indipendente sia spiegato con chiarezza.
 
-#### Allegato IV
+### Allegato IV
 
 Allegato IV
 
@@ -2400,7 +2396,7 @@ e) prestino particolare attenzione a costruire e mantenere una solida cultura de
 
 2\) Gli operatori del settore collaborano con le autorita' competenti per stabilire e attuare un piano di priorita' per lo sviluppo di normative, linee guida e regolamenti che conducono alle migliori pratiche nella prevenzione degli incidenti gravi e nella limitazione delle conseguenze di questi ultimi nel caso in cui si verifichino comunque.
 
-#### Allegato V
+### Allegato V
 
 Allegato V
 
@@ -2424,7 +2420,7 @@ d) il verificatore indipendente sia dotato di sufficiente autorita' affinche' po
 
 3\) Le modifiche sostanziali sono comunicate al verificatore indipendente per verifiche aggiuntive in ossequio a quanto previsto dal sistema di verifica indipendente, e i risultati di tali verifiche aggiuntive sono comunicati, su richiesta, al Comitato.
 
-#### Allegato VI
+### Allegato VI
 
 Allegato VI
 
@@ -2452,7 +2448,7 @@ Gli aspetti da prendere in considerazione nella definizione delle priorita' per 
 
 10\) l'integrazione efficace dei sistemi di gestione della sicurezza e ambientale tra diversi operatori e i proprietari e altre entita' coinvolte in operazioni nel settore degli idrocarburi.
 
-#### Allegato VII
+### Allegato VII
 
 Allegato VII
 
@@ -2478,7 +2474,7 @@ I piani esterni di risposta alle emergenze predisposti a norma dell'art. 29 comp
 
 8\) disposizioni per la mitigazione degli impatti negativi sulla fauna sia sulla terraferma sia in mare aperto comprese le situazioni in cui gli animali ricoperti di petrolio raggiungano la riva prima della fuoriuscita vera e propria.
 
-#### Allegato VIII
+### Allegato VIII
 
 Allegato VIII
 
@@ -2514,7 +2510,7 @@ c) procedure per attivare il meccanismo di protezione civile dell'Unione;
 
 d) l'organizzazione di esercitazioni transfrontaliere relative alla risposta esterna alle emergenze.
 
-#### Allegato IX
+### Allegato IX
 
 Allegato IX
 

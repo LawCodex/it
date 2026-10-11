@@ -320,7 +320,7 @@ Il consiglio di cooperazione esamina in che modo sia possibile migliorare le con
 
 Il consiglio di cooperazione formula raccomandazioni per l'applicazione degli articoli 20 e 21.
 
-## CAPITOLO II - CONDIZIONI PER LO STABILIMENTO E L'ATTIVITA' DELLE SOCIETA'
+### CAPITOLO II - CONDIZIONI PER LO STABILIMENTO E L'ATTIVITA' DELLE SOCIETA'
 
 #### ARTICOLO 23
 
@@ -410,7 +410,7 @@ c) Per "persona trasferita all'interno della societa'" si intende una persona fi
 
 4\. Qualora l'introduzione nella Repubblica di Azerbaigian di nuove leggi o di nuovi regolamenti renda le condizioni per l'attivita' delle controllate e sedi secondarie di societa' comunitarie stabilite nella Repubblica di Azerbaigian piu' restrittive rispetto alla situazione esistente il giorno della firma del presente accordo, dette leggi o detti regolamenti non si applicano, per i tre anni successivi all'entrata in vigore dell'atto in questione, alle controllate e sedi secondarie gia' stabilite nella Repubblica di Azerbaigian al momento dell'entrata in vigore dell'atto stesso.
 
-## CAPITOLO III - FORNITURA TRANSNAZIONALE DI SERVIZI TRA LA COMUNITA' E LA REPUBBLICA DI AZERBAIGIAN
+### CAPITOLO III - FORNITURA TRANSNAZIONALE DI SERVIZI TRA LA COMUNITA' E LA REPUBBLICA DI AZERBAIGIAN
 
 #### ARTICOLO 30
 
@@ -448,7 +448,7 @@ d) all'entrata in vigore dell'accordo aboliscono tutte le misure unilaterali, no
 
 Al fine di garantire uno sviluppo coordinato dei trasporti tra le Parti in funzione delle loro esigenze commerciali, le condizioni del reciproco accesso al mercato nonche' la fornitura di servizi di trasporto stradale, ferroviario, fluviale e, se del caso, aereo potranno essere trattate da specifici accordi, negoziati se necessario dalle Parti, dopo l'entrata in vigore del presente accordo.
 
-## CAPITOLO IV - DISPOSIZIONI GENERALI
+### CAPITOLO IV - DISPOSIZIONI GENERALI
 
 #### ARTICOLO 34
 
@@ -512,7 +512,7 @@ Fatto salvo il disposto dell'articolo 28, nessuna disposizione dei capitoli II, 
 
 7\. Fatti salvi i paragrafi 1 e 2, qualora, in circostanze eccezionali, la circolazione dei capitali tra la Comunita' e la Repubblica di Azerbaigian provochi o minacci di provocare gravi difficolta' per la gestione delle politiche valutarie o monetarie nella Comunita' o nella Repubblica di Azerbaigian, ciascuna Parte rispettivamente puo' adottare misure di salvaguardia in merito per un periodo non superiore a sei mesi, a condizione che dette misure siano assolutamente necessarie.
 
-## CAPITOLO VI - TUTELA DELLA PROPRIETA' INTELLETTUALE, INDUSTRIALE E COMMERCIALE
+### CAPITOLO VI - TUTELA DELLA PROPRIETA' INTELLETTUALE, INDUSTRIALE E COMMERCIALE
 
 #### ARTICOLO 42
 

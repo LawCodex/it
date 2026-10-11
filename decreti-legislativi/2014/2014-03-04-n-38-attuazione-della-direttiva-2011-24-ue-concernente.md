@@ -71,11 +71,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Disposizioni generali
 
-### Disposizioni generali
-
-#### Art. 1
+### Art. 1
 
 Oggetto e ambito di applicazione
 
@@ -285,7 +283,7 @@ c) ad eccezione del capo IV del presente decreto, ai programmi pubblici di vacci
 
 > 87\. Dall'attuazione dei commi da 82 a 84 sono previsti risparmi di spesa quantificati in euro 22.000.000 per l'anno 2013, in euro 30.000.000 per l'anno 2014 e in euro 35.000.000 a decorrere dall'anno 2015.».
 
-#### Art. 2
+### Art. 2
 
 Rapporto con altre disposizioni nazionali e dell'Unione europea
 
@@ -431,7 +429,7 @@ aa) il regolamento (UE) n. 1231/2010 del Parlamento europeo e del Consiglio, del
 
 > Per il regolamento (UE) n. 1231/2010 del Parlamento europeo e del Consiglio, del 24 novembre 2010, che estende il regolamento (CE) n. 883/2004 e il regolamento (CE) n. 987/2009 ai cittadini di paesi terzi cui tali regolamenti non siano gia' applicabili unicamente a causa della nazionalita', si veda in note alle premesse.
 
-#### Art. 3
+### Art. 3
 
 Definizioni
 
@@ -595,7 +593,7 @@ r) «Portale del Ministero della salute»: il principale strumento attraverso il
 
 > La direttiva 98/79/CE del Parlamento europeo e del Consiglio, del 27 ottobre 1998, relativa ai dispositivi medico-diagnostici in vitro", e' stata pubblicata nella G.U.C.E. 7 dicembre 1998, n. L 331.
 
-#### Art. 4
+### Art. 4
 
 Principi generali dell'assistenza sanitaria transfrontaliera
 
@@ -607,11 +605,9 @@ b) degli standard e degli orientamenti di qualita' e sicurezza definiti dalla no
 
 c) della normativa dell'Unione europea in materia di standard di sicurezza.
 
-## Capo II
+## Capo II - Garanzie e mezzi di tutela dei pazienti
 
-### Garanzie e mezzi di tutela dei pazienti
-
-#### Art. 5
+### Art. 5
 
 Garanzie e mezzi di tutela dei pazienti di un altro Stato membro dell'Unione europea
 
@@ -631,7 +627,7 @@ Garanzie e mezzi di tutela dei pazienti di un altro Stato membro dell'Unione eur
 
 8\. Qualora sia giustificato da motivi imperativi di interesse generale, quali le esigenze di pianificazione riguardanti l'obiettivo di assicurare, nel territorio nazionale, la possibilita' di un accesso sufficiente e permanente ad una gamma equilibrata di cure di elevata qualita' o la volonta' di garantire un controllo dei costi e di evitare, per quanto possibile, ogni spreco di risorse finanziarie, tecniche e umane, con decreto del Ministro della salute, di concerto con il Ministro dell'economia e delle finanze, previa intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, possono essere adottate misure sull'accesso alle cure. Tali misure possono essere limitate al territorio di una o piu' regioni, o a singole aziende o enti del servizio sanitario nazionale, e possono essere adottate anche su richiesta delle regioni e delle province autonome di Trento e di Bolzano. Le predette misure sono limitate a quanto e' necessario e proporzionato e non possono costituire un mezzo di discriminazione arbitraria. Esse sono tempestivamente pubblicate sul portale del Ministero della salute e sui siti web delle regioni e delle province autonome interessate e sono oggetto delle informazioni rese dal Punto di contatto nazionale ai sensi dell'articolo 7.
 
-#### Art. 6
+### Art. 6
 
 Garanzie e mezzi di tutela delle persone assicurate in Italia
 
@@ -647,7 +643,7 @@ Garanzie e mezzi di tutela delle persone assicurate in Italia
 
 > Per il regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativo al coordinamento dei sistemi di sicurezza sociale, si veda nelle note alle premesse.
 
-#### Art. 7
+### Art. 7
 
 Punto di contatto nazionale per l'assistenza sanitaria transfrontaliera
 
@@ -669,11 +665,9 @@ Il Punto di Contatto Nazionale fornisce, inoltre, informazioni relative ai dati 
 
 8\. Il Ministero della salute attiva le necessarie procedure volte ad assicurare che le informazioni di cui al presente articolo siano facilmente accessibili e siano rese disponibili per via elettronica sul portale del Ministero della salute e in formati accessibili alle persone con disabilita'.
 
-## Capo III
+## Capo III - Rimborso dei costi dell'assistenza sanitaria transfrontaliera
 
-### Rimborso dei costi dell'assistenza sanitaria transfrontaliera
-
-#### Art. 8
+### Art. 8
 
 Principi generali per il rimborso dei costi
 
@@ -793,7 +787,7 @@ b) se l'assistenza sanitaria prestata a norma del presente decreto non e' sogget
 
 > Per il regolamento (CE) n. 987/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, che stabilisce le modalita' di applicazione del regolamento (CE) n. 883/2004 relativo al coordinamento dei sistemi di sicurezza sociale, si veda nelle note alle premesse.
 
-#### Art. 9
+### Art. 9
 
 Assistenza sanitaria transfrontaliera soggetta ad autorizzazione preventiva
 
@@ -921,7 +915,7 @@ Nelle more dell'adozione del predetto decreto, sono soggette ad autorizzazione p
 
 > 8\. Gli elenchi di cui ai commi 2 e 5 del presente articolo possono essere aggiornati o variati con la medesima procedura anche su richiesta delle singole regioni o province autonome o del Consiglio universitario nazionale.».
 
-#### Art. 10
+### Art. 10
 
 Procedure amministrative relative alla richiesta di autorizzazione preventiva e alla richiesta di rimborso dei costi dell'assistenza sanitaria transfrontaliera.
 
@@ -951,11 +945,9 @@ b) il luogo prescelto per la prestazione e il prestatore di assistenza sanitaria
 
 11\. La ASL dovra' corrispondere il rimborso nel termine di 60 giorni dal ricevimento della richiesta.
 
-## Capo IV
+## Capo IV - Cooperazione in materia di assistenza sanitaria
 
-### Cooperazione in materia di assistenza sanitaria
-
-#### Art. 11
+### Art. 11
 
 Mutua assistenza e cooperazione
 
@@ -979,7 +971,7 @@ Mutua assistenza e cooperazione
 
 > «25-bis. Ai fini della attivazione dei programmi nazionali di valutazione sull'applicazione delle norme di cui al presente articolo, il Ministero della salute provvede alla modifica ed integrazione di tutti i sistemi informativi del Servizio sanitario nazionale, anche quando gestiti da diverse amministrazioni dello Stato, ed alla interconnessione a livello nazionale di tutti i flussi informativi su base individuale. Il complesso delle informazioni e dei dati individuali cosi' ottenuti e' reso disponibile per le attivita' di valutazione esclusivamente in forma anonima ai sensi dell'art. 35 del decreto legislativo 23 giugno 2011, n. 118. Il Ministero della salute si avvale dell'AGENAS per lo svolgimento delle funzioni di valutazione degli esiti delle prestazioni assistenziali e delle procedure medico-chirurgiche nell'ambito del Servizio sanitario nazionale. A tal fine, AGENAS accede, in tutte le fasi della loro gestione, ai sistemi informativi interconnessi del Servizio sanitario nazionale di cui al presente comma in modalita' anonima.».
 
-#### Art. 12
+### Art. 12
 
 Riconoscimento delle prescrizioni rilasciate in un altro Stato membro
 
@@ -1011,7 +1003,7 @@ Riconoscimento delle prescrizioni rilasciate in un altro Stato membro
 
 > 2\. Ferma restando la disciplina del testo unico richiamato al comma 1, i medicinali soggetti a prescrizione medica speciale possono essere sottoposti anche ad altre limitazioni previste dal presente decreto e dalle disposizioni che ne assicurano l'attuazione.».
 
-#### Art. 13
+### Art. 13
 
 Partecipazione dell'Italia allo sviluppo delle reti di riferimento europee «ERN»
 
@@ -1089,7 +1081,7 @@ f) diffondere le informazioni relative alle opportunita' derivanti dalle ERN ai 
 
 > 6\. Le misure adottate conformemente al presente articolo non armonizzano alcuna disposizione legislativa o regolamentare degli Stati membri e rispettano pienamente le competenze di questi ultimi in materia di organizzazione e prestazione di servizi sanitari e assistenza medica.».
 
-#### Art. 14
+### Art. 14
 
 Malattie rare
 
@@ -1103,23 +1095,21 @@ b) rendere i pazienti, i professionisti sanitari e gli organismi responsabili de
 
 > Per il regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativo al coordinamento dei sistemi di sicurezza sociale, si veda nelle note alle premesse.
 
-#### Art. 15
+### Art. 15
 
 Assistenza sanitaria online
 
 1\. L'Italia si impegna nella cooperazione e nello scambio di informazioni con gli altri Stati membri operanti nell'ambito di una rete volontaria che collega le autorita' nazionali responsabili dell'assistenza sanitaria online.
 
-#### Art. 16
+### Art. 16
 
 Cooperazione nella valutazione delle tecnologie sanitarie
 
 1\. L'Italia si impegna nella cooperazione e nello scambio di informazioni scientifiche con gli altri Stati membri nell'ambito di una rete volontaria che collega fra loro le autorita' o gli organismi nazionali responsabili della valutazione delle tecnologie sanitarie.
 
-## Capo V
+## Capo V - Disposizioni finali
 
-### Disposizioni finali
-
-#### Art. 17
+### Art. 17
 
 Relazioni e comunicazioni
 
@@ -1153,7 +1143,7 @@ d) i nominativi e le coordinate delle autorita' o degli organismi nazionali resp
 
 > La Commissione controlla e riferisce regolarmente sull'effetto dell'art. 3, lettera c), punto i), e dell'art. 8 della presente direttiva. Una prima relazione e' presentata entro il 25 ottobre 2013. In base alle relazioni, la Commissione, se opportuno, presenta proposte per contenere eventuali eccessi.».
 
-#### Art. 18
+### Art. 18
 
 Clausola di cedevolezza
 
@@ -1179,7 +1169,7 @@ Clausola di cedevolezza
 
 > 5\. Il Presidente del Consiglio dei Ministri o il Ministro per gli affari europei ogni sei mesi informa le Camere sullo stato di recepimento delle direttive europee da parte delle regioni e delle province autonome nelle materie di loro competenza, secondo modalita' di individuazione di tali direttive da definire con accordo in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano. A tal fine la Presidenza del Consiglio dei Ministri - Dipartimento per le politiche europee convoca annualmente le regioni e le province autonome nell'ambito della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, nella sessione europea dedicata alla predisposizione del disegno di legge di delegazione europea e del disegno di legge europea di cui all'art. 29.».
 
-#### Art. 19
+### Art. 19
 
 Disposizioni finali
 
@@ -1221,7 +1211,7 @@ Visto, il Guardasigilli: Orlando
 
 ## Allegati
 
-#### Allegato
+### Allegato
 
 Allegato
 

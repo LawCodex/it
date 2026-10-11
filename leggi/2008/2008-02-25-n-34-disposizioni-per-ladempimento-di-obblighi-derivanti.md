@@ -28,11 +28,9 @@ promulga
 
 la seguente legge:
 
-## CAPO I - DISPOSIZIONI GENERALI SUI PROCE
+## CAPO I - DISPOSIZIONI GENERALI SUI PROCE DIMENTI PER L'ADEMPIMENTO DEGLI OBBLIGHI COMUNITARI
 
-### DIMENTI PER L'ADEMPIMENTO DEGLI - OBBLIGHI COMUNITARI
-
-##### ART. 1
+### ART. 1
 
 (Delega al Governo per l'attuazione
 
@@ -666,7 +664,7 @@ Decorsi quaranta giorni dalla data di trasmissione, i decreti sono emanati anche
 
 > \- Per la decisione quadro 2005/214/GAI, vedi note all'art. 28.
 
-##### ART. 2
+### ART. 2
 
 (Principi e criteri direttivi generali
 
@@ -692,7 +690,7 @@ g) quando si verifichino sovrapposizioni di competenze fra amministrazioni diver
 
 h) qualora non siano d'ostacolo i diversi termini di recepimento, vengono attuate con unico decreto legislativo le direttive che riguardano le stesse materie o comunque comportano modifiche degli stessi atti normativi.
 
-##### ART. 3
+### ART. 3
 
 (Delega al Governo per la disciplina
 
@@ -706,11 +704,11 @@ disposizioni comunitarie)
 
 3\. Gli schemi di decreto legislativo di cui al presente articolo sono trasmessi alla Camera dei deputati e al Senato della Repubblica per l'espressione del parere da parte dei competenti organi parlamentari con le modalita' e nei termini previsti dai commi 3 e 8 dell'articolo 1.
 
-##### ART. 4 - Oneri relativi a prestazioni e controlli
+### ART. 4 - Oneri relativi a prestazioni e controlli
 
 1\. In relazione agli oneri per prestazioni e controlli di cui all'articolo 9, comma 2, della legge 4 febbraio 2005, n. 11, le entrate derivanti dalle tariffe determinate ai sensi del predetto articolo, qualora riferite all'attuazione delle direttive di cui agli allegati A e B, nonche' di quelle da recepire con lo strumento regolamentare, sono attribuite alle amministrazioni che effettuano le prestazioni e i controlli, mediante riassegnazione ai sensi del regolamento di cui al decreto del Presidente della Repubblica 10 novembre 1999, n. 469.
 
-##### ART. 5 - Delega al Governo per il riordino normativo nelle materie interessate dalle direttive comunitarie
+### ART. 5 - Delega al Governo per il riordino normativo nelle materie interessate dalle direttive comunitarie
 
 1\. Il Governo e' delegato ad adottare, senza nuovi o maggiori oneri a carico della finanza pubblica, con le modalita' e secondo i principi ed i criteri di cui all'articolo 20 della legge 15 marzo 1997, n. 59, e successive modificazioni, entro il termine di diciotto mesi dalla data di entrata in vigore della presente legge, testi unici o codici di settore delle disposizioni dettate in attuazione delle deleghe conferite dalla presente legge per il recepimento di direttive comunitarie, al fine di coordinare le medesime con le altre norme legislative vigenti nelle stesse materie.
 
@@ -718,7 +716,7 @@ disposizioni comunitarie)
 
 3\. I testi unici e i codici di settore di cui al comma 1 riguardano materie o settori omogenei. Le disposizioni contenute nei testi unici o nei codici di settore non possono essere abrogate, derogate, sospese o comunque modificate, se non in modo esplicito mediante l'indicazione puntuale delle disposizioni da abrogare, derogare, sospendere o modificare.
 
-##### ART. 6 - Modifiche alla legge 4 febbraio 2005, n. 11
+### ART. 6 - Modifiche alla legge 4 febbraio 2005, n. 11
 
 1\. Alla legge 4 febbraio 2005, n. 11, sono apportate le seguenti modifiche:
 
@@ -768,11 +766,9 @@ c) nelle vie ordinarie, qualora l'obbligato sia un soggetto equiparato ed in ogn
 
 2\. I commi da 1213 a 1223 dell'articolo 1 della legge 27 dicembre 2006, n. 296, sono abrogati.
 
-## Capo II - DISPOSIZIONI PARTICOLARI DI
+## Capo II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO E CRITERI SPECIFICI DI DELEGA LEGISLATIVA
 
-### ADEMPIMENTO E CRITERI SPECIFICI - DI DELEGA LEGISLATIVA
-
-##### ART. 7
+### ART. 7
 
 (Modifiche all'articolo 18 del decreto legislativo 29 marzo 2004,
 
@@ -788,7 +784,7 @@ n. 99, in materia di controlli e di frodi alimentari)
 
 1-quinquies. Il Ministro delle politiche agricole alimentari e forestali puo', con apposito decreto, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, aggiungere altri settori merceologici a quello di cui al comma 1-bis, una volta verificata la compatibilita' con le risorse umane, strumentali e finanziarie disponibili di AGEA e Agecontrol S.p.a.".
 
-##### ART. 8
+### ART. 8
 
 (Applicazione del regolamento (CE) n. 102&amp;
 
@@ -812,7 +808,7 @@ applicabili alle uova)
 
 7\. Le spese relative alle autorizzazioni di cui al comma 1 sono poste a carico dei richiedenti, secondo tariffe basate sul costo del servizio e modalita' di versamento da stabilire con disposizioni delle regioni e delle province autonome competenti per territorio. I soggetti pubblici interessati all'attuazione delle disposizioni di cui ai commi precedenti provvedono ai rispettivi adempimenti nell'ambito delle attuali dotazioni strumentali, finanziarie e di risorse umane disponibili a legislazione vigente.
 
-##### ART. 9 - Modifiche alla legge 6 febbraio 2007, n. 13
+### ART. 9 - Modifiche alla legge 6 febbraio 2007, n. 13
 
 1\. Alla legge 6 febbraio 2007, n. 13, sono apportate le seguenti modifiche:
 
@@ -820,7 +816,7 @@ a) all'articolo 20, comma 1, dopo le parole: "centri autorizzati di assistenza f
 
 b) all'articolo 25, le parole: "del 21 ottobre 2001", ovunque ricorrano, sono sostituite dalle seguenti: "del 15 ottobre 2001".
 
-##### ART. 10
+### ART. 10
 
 (Modifica all'articolo 3 della legge 8 luglio 1997, n. 213,
 
@@ -830,7 +826,7 @@ delle carcasse bovine, in applicazione di regolamenti comunitari)
 
 1\. All'articolo 3, comma 4, della legge 8 luglio 1997, n. 213, e successive modificazioni, le parole: "5 per cento" sono sostituite dalle seguenti: "10 per cento".
 
-##### ART. 11
+### ART. 11
 
 (Modifica all'articolo 150, comma 2, lettera a),
 
@@ -842,7 +838,7 @@ connessi al suo esercizio)
 
 1\. All'articolo 150, comma 2, lettera a), della legge 22 aprile 1941, n. 633, e successive modificazioni, come sostituito dall'articolo 8 del decreto legislativo 13 febbraio 2006, n. 118, le parole: "compresa tra 3.000 euro e 50.000 euro;" sono sostituite dalle seguenti: "fino a 50.000 euro;".
 
-##### ART. 12
+### ART. 12
 
 (Modifica al decreto del Presidente della Repubblica
 
@@ -854,7 +850,7 @@ di talune sostanze e preparati pericolosi)
 
 "articoli di puericultura: qualsiasi prodotto destinato a conciliare il sonno, il rilassamento, l'igiene, il nutrimento e il succhiare dei bambini, ovverosia destinato alla cura delle attivita' giornaliere dei bambini e le cui parti accessibili possono essere messe in bocca".
 
-##### ART. 13
+### ART. 13
 
 (Modifica dell'articolo 2449
 
@@ -872,7 +868,7 @@ Alle societa' che fanno ricorso al capitale di rischio si applicano le disposizi
 
 2\. Il consiglio di amministrazione, nelle societa' che ricorrono al capitale di rischio e nelle quali sia prevista la nomina di amministratori ai sensi dell'articolo 2449 del codice civile, nel testo vigente anteriormente alla data di entrata in vigore della presente legge, adegua lo statuto entro otto mesi da tale data, prevedendo che i diritti amministrativi siano rappresentati da strumenti finanziari, non trasferibili e condizionati alla persistenza della partecipazione dello Stato o dell'ente pubblico, ai sensi dell'articolo 2346, sesto comma, del codice civile. Scaduto il predetto termine di otto mesi, perdono efficacia le disposizioni statutarie non conformi alle disposizioni dell'articolo 2449, come sostituito dal comma I.
 
-##### ART. 14
+### ART. 14
 
 (Delega al Governo per la modifica
 
@@ -890,7 +886,7 @@ e contro la loro diffusione nella Comunita)
 
 1\. Il Governo e' delegato ad adottare, entro diciotto mesi dalla data di entrata in vigore della presente legge, nel rispetto dei principi e criteri direttivi generali di cui all'articolo 2, previo parere dei competenti organi parlamentari e secondo le procedure di cui all'articolo 1, commi 2, 3 e 4, su proposta del Ministro delle politiche agricole alimentari e forestali e del Ministro per le politiche europee, disposizioni integrative e correttive del decreto legislativo 19 agosto 2005, n. 214. Tali disposizioni devono contenere misure efficaci per evitare che siano messe in commercio sostanze pericolose, con particolare riferimento alla fase dell'importazione e dello stoccaggio, anche mediante l'adozione di etichettature che possano consentire la tracciabilita' dei prodotti sin dalla loro produzione.
 
-##### ART. 15
+### ART. 15
 
 (Disposizioni occorrenti per modifiche di norme
 
@@ -918,7 +914,7 @@ e) riordinare il regime sanzionatorio, garantendo l'effettivita' dell'obbligo di
 
 3\. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
-##### ART. 16
+### ART. 16
 
 (Disposizioni concernenti l'attuazione del regolamento (CE)
 
@@ -942,13 +938,13 @@ d) determinazione dell'importo di una tassa e sua destinazione a integrale coper
 
 3\. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri, ne' minori entrate a carico della finanza pubblica.
 
-##### ART. 17 - Attuazione della direttiva 2006/112/CE
+### ART. 17 - Attuazione della direttiva 2006/112/CE
 
 1\. L'articolo 2 del decreto legislativo 1° agosto 2003, n. 273, e' sostituito dal seguente:
 
 " ART. 2. - (Periodo di applicazione). - 1. Le disposizioni di cui all'articolo 1 si applicano nei limiti temporali previsti dalla direttiva 2006/138/CE del Consiglio, del 19 dicembre 2006, che modifica la direttiva 2006/112/CE relativa al sistema comune di imposta sul valore aggiunto relativamente al periodo di applicazione del regime di imposta sul valore aggiunto applicabile ai servizi di radiodiffusione e di televisione e a determinati servizi prestati tramite mezzi elettronici".
 
-##### ART. 18
+### ART. 18
 
 (Delega al Governo per la modifica dell'articolo 3, comma 1,
 
@@ -960,7 +956,7 @@ di sostegno dello sviluppo rurale)
 
 1\. Il Governo e' delegato ad adottare, entro diciotto mesi dalla data di entrata in vigore della presente legge e nel rispetto dei principi e criteri direttivi di cui all'articolo 2, su proposta del Ministro delle politiche agricole alimentari e forestali, di concerto con il Ministro della giustizia, disposizioni integrative e correttive per adeguare la disciplina sanzionatoria di cui all'articolo 3, comma 1, della legge 23 dicembre 1986, n. 898, ai principi di proporzionalita' della sanzione in base alla gravita', entita' e durata dell'inadempienza, in applicazione del regolamento (CE) n. 1975/2006 della Commissione, del 7 dicembre 2006, ed in particolare degli articoli 18 e 31.
 
-##### ART. 19
+### ART. 19
 
 (Irregolarita' nella circolazione
 
@@ -970,7 +966,7 @@ dei prodotti soggetti ad accisa)
 
 "d) se i prodotti spediti dal territorio dello Stato non giungono a destinazione in un altro Stato membro e non e' possibile stabilire il luogo in cui sono stati messi in consumo, l'irregolarita' o l'infrazione si considera commessa nel territorio dello Stato e si procede alla riscossione dei diritti di accisa con l'aliquota in vigore alla data di spedizione dei prodotti, salvo che la prova della regolarita' dell'operazione ovvero la prova che l'irregolarita' o l'infrazione e' stata effettivamente commessa fuori dal territorio dello Stato non venga fornita nel termine di quattro mesi decorrenti dalla data di spedizione o da quella in cui il mittente e' venuto a conoscenza che e' stata commessa una irregolarita' o un'infrazione".
 
-##### ART. 20
+### ART. 20
 
 (Delega al Governo per la modifica del decreto legislativo
 
@@ -988,7 +984,7 @@ e di informazione sul traffico navale)
 
 3\. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
-##### ART. 21
+### ART. 21
 
 (Delega al Governo per introdurre disposizioni correttive
 
@@ -1006,7 +1002,7 @@ nonche' allo smaltimento dei rifiuti)
 
 2\. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
-##### ART. 22
+### ART. 22
 
 (Disposizioni occorrenti per l'attuazione
 
@@ -1036,7 +1032,7 @@ f) prevedere adeguate misure di controllo relative alla destinazione dei rifiuti
 
 3\. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
-##### ART. 23
+### ART. 23
 
 (Delega al Governo per il recepimento della direttiva 2006/68/CE
 
@@ -1058,7 +1054,7 @@ c) avvalersi, con riguardo alle societa' che fanno ricorso al mercato dei capita
 
 d) consentire che le societa' anticipino fondi, accordino prestiti o forniscano garanzie per l'acquisto di proprie azioni da parte di un terzo o per la sottoscrizione da parte di un terzo di azioni emesse nel quadro di un aumento di capitale alle condizioni indicate all'articolo 23, paragrafo 1, e all'articolo 23-bis della direttiva 77/91/CEE come modificata dalla direttiva 2006/68/CE, mantenendo la deroga di cui all'articolo 2358, terzo comma, del codice civile e confermando, altresi', la disciplina della fusione a seguito di acquisizione con indebitamento di cui all'articolo 2501-bis del codice civile.
 
-##### ART. 24
+### ART. 24
 
 (Delega al Governo per l'attuazione della direttiva 2006/43/CE
 
@@ -1092,7 +1088,7 @@ i) riordino della disciplina sanzionatoria in materia di revisione, in modo da r
 
 2\. Dall'esercizio della delega di cui al comma 1 non devono derivare oneri o minori entrate per il bilancio dello Stato.
 
-##### ART. 25
+### ART. 25
 
 (Deleghe al Governo per il completamento dell'attuazione
 
@@ -1126,7 +1122,7 @@ g) modificazione della normativa fiscale in materia di reddito d'impresa al fine
 
 3\. Dall'esercizio delle deleghe di cui al presente articolo non devono derivare oneri o minori entrate per il bilancio dello Stato.
 
-##### ART. 26
+### ART. 26
 
 (Delega al Governo per introdurre disposizioni per l'attuazione
 
@@ -1154,7 +1150,7 @@ f) previsione della pena della reclusione da due a sei anni per i soggetti che v
 
 4\. Dall'esercizio della delega di cui al presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
-##### ART. 27
+### ART. 27
 
 (Delega al Governo per l'adozione di un decreto legislativo
 
@@ -1170,13 +1166,9 @@ b) porre a totale carico degli operatori del settore alimentare, dei mangimi e d
 
 2\. Fino alla data di entrata in vigore del decreto legislativo di cui al comma 1, si applicano, ove di misura superiore a quelle stabilite dal regolamento (CE) n. 882/2004, le tariffe fissate dal decreto legislativo 19 novembre 1998, n. 432, o quelle eventualmente rideterminate con disposizione regionale, ai fini dell'integrale copertura dei costi effettivi del servizio prestato.
 
-## CAPO III - DISPOSIZIONI OCCORRENTI PER DARE
+## CAPO III - DISPOSIZIONI OCCORRENTI PER DARE ATTUAZIONE A DECISIONI QUADRO, ADOTTATE NELL'AMBITO DELLA COOPERAZIONE DI POLIZIA E GIUDIZIARIA IN MATERIA PENALE
 
-### ATTUAZIONE A DECISIONI QUADRO, - ADOTTATE NELL'AMBITO DELLA
-
-#### COOPERAZIONE DI POLIZIA E GIUDIZIARIA IN MATERIA PENALE
-
-##### ART. 28
+### ART. 28
 
 (Delega al Governo per l'attuazione
 
@@ -1202,7 +1194,7 @@ d) decisione quadro 2005/214/GAI del Consiglio, del 24 febbraio 2005, relativa a
 
 6\. Il Governo, quando non intende conformarsi ai pareri delle Commissioni parlamentari di cui al comma 3, ritrasmette con le sue osservazioni e con eventuali modificazioni i testi alla Camera dei deputati e al Senato della Repubblica; decorsi venti giorni dalla data di ritrasmissione, i decreti sono adottati anche in mancanza di nuovo parere.
 
-##### ART. 29
+### ART. 29
 
 (Principi e criteri direttivi di attuazione
 
@@ -1220,7 +1212,7 @@ b) prevedere la punibilita' con la stessa pena anche di colui che, intenzionalme
 
 c) introdurre fra i reati di cui alla sezione 111 del capo I del decreto legislativo 8 giugno 2001, n. 231, le fattispecie criminose di cui alle lettere a) e b), con la previsione di adeguate sanzioni pecuniarie e interdittive nei confronti delle entita' nel cui interesse o vantaggio sia stato posto in essere il reato.
 
-##### ART. 30
+### ART. 30
 
 (Principi e criteri direttivi di attuazione
 
@@ -1280,7 +1272,7 @@ t) prevedere l'esperibilita' dei rimedi di impugnazione ordinari previsti dal co
 
 u) prevedere, in caso di responsabilita' dello Stato italiano per i danni causati dall'esecuzione di un provvedimento di blocco o sequestro richiesto dall'autorita' giudiziaria dello Stato membro, l'attivazione senza ritardo del procedimento per il rimborso degli importi versati, a titolo di risarcimento per tale responsabilita', alla parte lesa.
 
-##### ART. 31
+### ART. 31
 
 (Principi e criteri direttivi di attuazione
 
@@ -1318,7 +1310,7 @@ f) adeguare la disciplina della confisca nei confronti degli enti, di cui al dec
 
 g) prevedere che in ogni caso la confisca non pregiudichi i diritti di terzi in buona fede sulle cose che ne sono oggetto.
 
-##### ART. 32
+### ART. 32
 
 (Principi e criteri direttivi di attuazione
 
@@ -1362,13 +1354,9 @@ q) disciplinare i casi in cui la competente autorita' dello Stato della decision
 
 r) prevedere la possibilita' per l'autorita' italiana competente di rifiutare l'esecuzione qualora sussistano elementi oggettivi per ritenere che le sanzioni pecuniarie si prefiggono di punire una persona per motivi di sesso, razza, religione, origine etnica, nazionalita', lingua, opinione politica o tendenze sessuali, oppure che la posizione di tale persona possa risultare pregiudicata per uno di tali motivi.
 
-## CAPO III - DISPOSIZIONI OCCORRENTI PER DARE
+## CAPO III - DISPOSIZIONI OCCORRENTI PER DARE ATTUAZIONE A DECISIONI QUADRO, ADOTTATE NELL'AMBITO DELLA COOPERAZIONE DI POLIZIA E GIUDIZIARIA IN MATERIA PENALE
 
-### ATTUAZIONE A DECISIONI QUADRO, - ADOTTATE NELL'AMBITO DELLA
-
-#### COOPERAZIONE DI POLIZIA E GIUDIZIARIA IN MATERIA PENALE
-
-##### Allegato A
+### Allegato A
 
 ALLEGATO A
 
@@ -1376,7 +1364,7 @@ ALLEGATO A
 
 2006/137/CE del Parlamento europeo e del Consiglio, del 18 dicembre 2006, che modifica la direttiva 2006/87/CE che fissa i requisiti tecnici per le navi della navigazione interna.
 
-##### Allegato B
+### Allegato B
 
 ALLEGATO B
 

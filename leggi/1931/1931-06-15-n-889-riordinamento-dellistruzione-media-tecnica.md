@@ -32,7 +32,7 @@ Noi abbiamo sanzionato e promulghiamo quanto segue:
 
 ## CAPO I. - Dei fini e dell'ordinamento dell'istruzione media tecnica.
 
-#### Art. 1
+### Art. 1
 
 L'istruzione media tecnica ha per fine di fornire ai giovani la preparazione necessaria alle professioni pratiche che attengono alla vita economica della Nazione e viene impartita:
 
@@ -50,7 +50,7 @@ Al perfezionamento degli operai provvedono i corsi per maestranze.
 
 Gli istituti di cui ai numeri 2°, 3°, 4° e 5° sono, nella presente legge, complessivamente indicati con l'espressione: «scuole ed istituti d'istruzione tecnica».
 
-#### Art. 2
+### Art. 2
 
 Ai fini di cui al precedente articolo si provvede con insegnamenti e con esercitazioni pratiche.
 
@@ -58,7 +58,7 @@ Le esercitazioni pratiche costituiscono parte integrante ed essenziale degli ins
 
 Le scuole tecniche, le scuole professionali femminili, le scuole di magistero professionale per la donna e i corsi superiori degli istituti tecnici debbono avere a piena disposizione aziende, officine, laboratori di esercitazione pratica, in relazione ai fini propri di ciascun istituto.
 
-#### Art. 3
+### Art. 3
 
 Le scuole ed istituti di cui ai numeri 2°, 3°, 4° e 5° dell'articolo 1 sono Regi, allorche' come tali vengono istituiti nelle forme stabilite dall'articolo 22.
 
@@ -72,11 +72,11 @@ Le attribuzioni che, a termini delle leggi vigenti, sono conferite ai Regi provv
 
 ((COMMA ABROGATO DAL REGIO D.L. 26 SETTEMBRE 1935, N. 1845, CONVERTITO CON MODIFICAZIONI DALLA L. 16 MARZO 1936, N. 489)).
 
-#### Art. 4
+### Art. 4
 
 Le Regie scuole ed i Regi istituti d'istruzione tecnica sono regolati dalle disposizioni della presente legge e da quelle del proprio statuto.
 
-#### Art. 5
+### Art. 5
 
 La durata dell'insegnamento nelle scuole tecniche e' di due o tre anni, secondo le particolari esigenze dell'attivita' cui la scuola e' indirizzata.
 
@@ -90,7 +90,7 @@ I due corsi di istituto tecnico costituiscono un tutto unico ed inscindibile.
 
 La durata dei corsi per maestranze e' determinata, caso per caso, in rapporto alle esigenze delle attivita' cui il corso e' indirizzato, col decreto che ne autorizza l'istituzione.
 
-#### Art. 6
+### Art. 6
 
 La scuola tecnica ha lo scopo di completare la specifica preparazione pratica dei licenziati dalle scuole secondarie di avviamento al lavoro e contribuire, con la formazione di idonee maestranze, allo sviluppo della economia nazionale.
 
@@ -150,13 +150,13 @@ conduttori termici.
 
 Le specializzazioni previste dal presente articolo potranno attuarsi sempre che sia consentito di far fronte alla relativa spesa con i fondi disponibili nel bilancio dell'istituto.
 
-#### Art. 7
+### Art. 7
 
 La scuola professionale femminile ha lo scopo di preparare le giovinette all'esercizio delle professioni proprie della donna e al buon governo della casa.
 
 Nella scuola professionale femminile si insegnano: cultura generale (italiano, storia, geografia, cultura fascista), matematica, nozioni di contabilita', scienze naturali, merceologia, disegno, nozioni di storia dell'arte, economia domestica, igiene, lavori donneschi, lingua straniera, religione.
 
-#### Art. 8
+### Art. 8
 
 La scuola di magistero professionale per la donna ha lo scopo di dare la preparazione teorica e pratica necessaria per l'insegnamento dei lavori femminili o della economia domestica.
 
@@ -164,7 +164,7 @@ In essa si insegnano: italiano, storia, geografia, pedagogia, scienze naturali, 
 
 Gli orari ed i programmi sono diversamente fissati per le alunne che aspirano all'insegnamento di lavori femminili e per quelle che aspirano all'insegnamento dell'economia domestica.
 
-#### Art. 9
+### Art. 9
 
 L'istituto tecnico ha lo scopo di preparare all'esercizio di alcune professioni e all'esercizio di funzioni tecniche o amministrative nel campo dell'agricoltura, dell'industria e del commercio.
 
@@ -234,11 +234,11 @@ AGGIORNAMENTO (6)
 
 Il D.Lgs. Luogotenenziale 7 settembre 1945, n. 816 ha disposto (con l'art. 16, comma 1) che la presente abrogazione decorre dall'inizio dell'anno scolastico 1944-45.
 
-#### Art. 10
+### Art. 10
 
 Nell'istituto tecnico inferiore si insegnano: lingua Italiana, lingua latina, storia, geografia, cultura fascista, matematica, scienze naturali, disegno, una lingua straniera, stenografia, religione.
 
-#### Art. 11
+### Art. 11
 
 Nella sezione agraria dell'istituto tecnico si insegnano: lettere italiane, storia, geografia, matematica, fisica, agricoltura, economia ed estimo rurale, contabilita' agraria, zootecnia, scienze naturali, patologia vegetale, chimica generale inorganica ed organica, chimica agraria, industrie agrarie, meccanica agraria, elementi di costruzioni rurali e disegno relativo, elementi di topografia e disegno relativo, elementi di diritto agrario, religione.
 
@@ -274,7 +274,7 @@ Botanica e patologia del tabacco, coltivazione e tecnologia del tabacco, estimo,
 
 Gli stessi gruppi di materie proprie delle singole specializzazioni si insegnano nei corsi specializzati aggiunti, a norma del quart'ultimo comma dell'articolo 9, a sezioni agrarie non aventi indirizzo specializzato.
 
-#### Art. 12
+### Art. 12
 
 Nella sezione industriale dell'istituto tecnico si insegnano: italiano, storia, una lingua straniera, matematica, meccanica, macchine, chimica, scienze naturali, geografia, fisica, elementi di diritto industriale, disegno, religione.
 
@@ -292,15 +292,15 @@ nella, sezione ad indirizzo specializzato per chimici: fisico-chimica, elettro-c
 
 nella sezione ad indirizzo specializzato per radiotecnici: tecnologia meccanica, elettrotecnica, telegrafia, telefonia, strumenti ed esercitazioni di misura, misure radioelettriche, radiotecnica generale, montaggio di apparecchi radiotecnici, legislazione e norme per la radiotecnica.
 
-#### Art. 13
+### Art. 13
 
 Nella sezione commerciale dell'istituto tecnico, si insegnano: italiano, storia, matematica, fisica, scienze naturali, chimica, merceologia, geografia generale ed economica, computisteria, ragioneria, istituzioni di diritto, tecnica commerciale e bancaria, dogane e trasporti, lingua straniera, altra lingua straniera, economia politica, elementi di scienza finanziaria, statistica, calligrafia, stenografia e dattilografia (facoltative), religione.
 
-#### Art. 14
+### Art. 14
 
 Nella sezione per geometri dell'istituto tecnico, si insegnano: italiano, storia, matematica, fisica, chimica, scienze naturali, geografia, elementi di agronomia, di economia tecnologia rurale, estimo catastale, contabilita' dei lavori, costruzione e disegno di costruzioni, topografia, disegno topografico, disegno architettonico e ornamentale, elementi di diritto civile, religione.
 
-#### Art. 15
+### Art. 15
 
 Nella sezione nautica dell'istituto tecnico, si insegnano: italiano, storia, geografia, fisica, elementi di chimica, matematica, meccanica, macchine, una lingua straniera, altra lingua straniera, disegno, attrezzatura, manovra, religione.
 
@@ -312,7 +312,7 @@ nella sezione ad indirizzo specializzato per macchinisti: disegno di descrittiva
 
 nella sezione ad indirizzo specializzato per costruttori: disegno di descrittiva, teoria della nave, costruzione navale e disegno relativo, meccanica applicata, elementi di macchine, elementi di diritto ed economia.
 
-#### Art. 16
+### Art. 16
 
 La scuola tecnica, la scuola professionale femminile, la scuola di magistero professionale per la donna, il corso superiore dell'istituto tecnico, in relazione alle particolari esigenze della vita economica locale o nazionale, possono avere indirizzi specializzati, oltre quelli indicati per la scuola tecnica e l'istituto tecnico negli artcoli 6 e 9, sempre che enti e privati sovventori s'impegnino a sostenere la relativa maggiore spesa o questa possa essere sostenuta dal bilancio della scuola.
 
@@ -320,7 +320,7 @@ In aggiunta agli insegnamenti propri di ciascun tipo di scuola ed istituto e rel
 
 La specializzazione e gli insegnamenti specializzati devono essere soppressi quando non risultino piu' rispondenti alle esigenze per le quali furono istituiti o quando vengano meno i corrispondenti contributi degli enti e dei privati e non possa provvedersi alla relativa spesa sul bilancio della scuola.
 
-#### Art. 17
+### Art. 17
 
 Con decreti Reali, su proposta del Ministro per l'educazione nazionale, sentita la 3ª sezione del Consiglio superiore, saranno fissati:
 
@@ -338,7 +338,7 @@ Quando particolari esigenze lo richiedano, lo statuto di ciascun istituto puo' s
 
 Tali modificazioni sono adottate, sentito il parere della 3ª sezione del Consiglio superiore dell'educazione nazionale.
 
-#### Art. 18
+### Art. 18
 
 Possono essere istituiti corsi completi in aggiunta al corso normale, sempre che non ne derivi maggior onere per l'erario.
 
@@ -348,7 +348,7 @@ L'istituzione di nuovi corsi completi sara' disposta con decreto del Ministro pe
 
 Salvo il disposto di cui al quarto comma dell'art. 69, e' vietata la istituzione di classi aggiunte oltre i corsi completi.
 
-#### Art. 19
+### Art. 19
 
 I corsi per maestranze (a orario ridotto serale, o festivo) hanno il fine di accrescere, con insegnamenti culturali, tecnologici, grafici e pratici, la capacita', di lavoro, tecnica e produttiva, dei prestatori d'opera, e sono, di regola, istituiti presso istituti Regi di istruzione tecnica.
 
@@ -358,13 +358,13 @@ Dove tali corsi sono istituiti con orario confacente con l'orario di lavoro dell
 
 Le sanzioni per l'inosservanza degli obblighi anzidetti sono quelle previste dall'art. 205 del regolamento approvato con R. decreto 3 giugno 1924, n. 969.
 
-#### Art. 20
+### Art. 20
 
 Alle Regie scuole ed ai Regi istituti di istruzione tecnica e particolarmente a quelli ad indirizzo agrario, possono essere annessi convitti per gli alunni che frequentano la scuola o l'istituto, sempre che non ne derivi maggior onere per l'erario.
 
 Le norme sull'ordinamento, il funzionamento e l'amministrazione di ciascun convitto sono stabilite nello statuto della scuola od istituto.
 
-#### Art. 21
+### Art. 21
 
 Le scuole e gli istituti d'istruzione tecnica, al cui mantenimento lo Stato non contribuisce, possono essere istituiti soltanto previa autorizzazione del Ministero dell'educazione nazionale, e sono sottoposti alla sua vigilanza didattica, amministrativa e disciplinare.
 
@@ -380,11 +380,9 @@ Con Regio decreto, su proposta del Ministro per l'educazione nazionale, di conce
 
 ((Gli Istituti privati, parificati e pareggiati, possono, udito il parere dell'Ente nazionale per l'insegnamento medio, essere sussidiati dal Ministero dell'educazione nazionale)).
 
-## CAPO II. - Istituzione e Mantenimento delle Regie scuole
+## CAPO II. - Istituzione e Mantenimento delle Regie scuole e dei Regi istituti d'istruzione tecnica.
 
-### e dei Regi istituti d'istruzione tecnica.
-
-#### Art. 22
+### Art. 22
 
 Le Regie scuole ed i Regi istituti d'istruzione tecnica sono istituiti con decreto Reale, promosso dal Ministro per l'educazione nazionale, di concerto coi Ministri per l'interno e per le finanze e con quelli degli altri Dicasteri eventualmente interessati, previo parere della 3ª sezione del Consiglio superiore dell'educazione nazionale, quando l'istituzione sia necessaria in relazione alle esigenze dell'economia locale e quando, a norma degli articoli seguenti, siano assicurati i mezzi per l'impianto ed il funzionamento alla scuola od istituto.
 
@@ -394,13 +392,13 @@ Le scuole e gli istituti predetti, quando non rispondano piu' ai fini della loro
 
 I locali e tutto quanto costituisce il patrimonio e le dotazioni della scuola od istituto soppresso vengono destinati all'incremento di altri istituti d'istruzione tecnica esistenti, all'istituzione di nuovi o altrimenti utilizzati per i fini dell'istruzione tecnica.
 
-#### Art. 23
+### Art. 23
 
 Gli enti pubblici locali sono tenuti a fornire permanentemente i locali e il relativo arredamento, il materiale didattico e scientifico, l'azienda, l'officina o il laboratorio convenientemente attrezzati e ad assumersi ogni altra spesa relativa agli impianti in rapporto al tipo e alla finalita' della scuola o dell'istituto.
 
 In casi di riconosciuta necessita', ed entro i limiti delle disponibilita' di bilancio, il Ministero dell'educazione nazionale puo' assumersi, per una volta tanto, una parte della spesa occorrente, in misura non superiore al terzo del contributo annuo dello Stato per le spese di mantenimento.
 
-#### Art. 24
+### Art. 24
 
 Gli enti locali devono provvedere:
 
@@ -414,7 +412,7 @@ al riscaldamento.
 
 Devono fornire il personale di segreteria, assistente e di servizio per gli istituti tecnici, per i quali non vigano speciali disposizioni che mettano tale personale a carico dello Stato.
 
-#### Art. 25
+### Art. 25
 
 A sgravio totale o parziale degli obblighi assunti dagli enti per l'istituzione e il mantenimento di scuole e istituti, possono essere accettati gli eventuali contributi di altri enti o di privati.
 
@@ -422,15 +420,15 @@ Tali contributi debbono essere garantiti dagli enti che inizialmente li avevano 
 
 Oltre che nel caso di mutui con la Cassa depositi e prestiti, il Ministero dell'educazione nazionale puo', nei limiti degli stanziamenti di bilancio, assumere l'onere parziale degli interessi quando le scuole, gli istituti o gli enti che contribuiscono al loro mantenimento, contraggono mutui, a condizioni di favore, con istituti di credito, per provvedere alla costruzione, all'acquisto, all'adattamento, all'ampliamento dei locali per le Regie scuole e i Regi istituti d'istruzione tecnica ed al loro arredamento.
 
-#### Art. 26
+### Art. 26
 
 Altri enti, associazioni e privati, all'infuori di quelli indicati nel decreto di cui all'articolo 22, possono contribuire all'incremento ed al miglior funzionamento delle scuole e degli istituti predetti.
 
-#### Art. 27
+### Art. 27
 
 Le Casse di risparmio ed i Monti di pieta' che ricevono depositi fruttiferi, possono deliberare, nei limiti degli utili netti determinati per ogni esercizio e non devoluti ai fondi patrimoniali, contributi continuativi per il mantenimento delle Regie scuole e dei Regi istituti di istruzione tecnica. Il pagamento dei contributi stessi e' subordinato alla disponibilita' degli utili, ma, salvo le particolari disposizioni statutarie, ha la precedenza su ogni altra elargizione.
 
-#### Art. 28
+### Art. 28
 
 I contributi che, a norma dello statuto sono dovuti da enti o da privati pel mantenimento di ciascuna scuola o istituto, devono essere versati all'erario, in rate bimestrali posticipate.
 
@@ -440,7 +438,7 @@ I contributi dello Stato sono corrisposti alle scuole e agli istituti in rate tr
 
 ## CAPO III. - Del governo didattico, disciplinare e amministrativo delle Regie scuole e dei Regi istituti d'istruzione tecnica.
 
-#### Art. 29
+### Art. 29
 
 La direzione didattica e disciplinare delle scuole tecniche e delle scuole professionali femminili e' affidata ad un direttore; quella degli istituti tecnici e delle scuole di magistero professionale per la donna e' affidata ad un preside.
 
@@ -450,7 +448,7 @@ Il preside ed il direttore sono assistiti dal Collegio, dei professori, nei casi
 
 All'amministrazione delle Regie scuole e dei Regi istituti d'istruzione tecnica provvede un Consiglio d'amministrazione, nel quale sono rappresentati il Ministero dell'educazione nazionale e gli enti e le persone che contribuiscono in notevole misura al mantenimento della scuola od istituto. Il preside o direttore fa, di diritto, parte del Consiglio ed ha voto deliberativo.
 
-#### Art. 30
+### Art. 30
 
 I presidi degli istituti a doppio grado sono esonerati dall'insegnamento; quelli degli istituti tecnici a solo corso superiore, di cui al successivo articolo 68 (terz'ultimo comma) ed i direttori delle altre scuole sono tenuti all'insegnamento, salvo che il numero degli alunni sia superiore da un biennio a 250. In tali casi, la cattedra lasciata libera dai capi di istituto e' assegnata per incarico, o, altrimenti, viene conferita per trasferimento ad un insegnante di ruolo, il quale sara' sostituito da un incaricato.
 
@@ -460,7 +458,7 @@ Per circostanze eccezionali, l'incarico della direzione puo' essere affidato ad 
 
 Tale nomina deve riportare l'approvazione del Ministro per l'educazione nazionale, udito il parere della competente sezione del Consiglio superiore dell'educazione nazionale.
 
-#### Art. 31
+### Art. 31
 
 In quanto non sia diversamente stabilito dalla presente legge, si applicano, ai presidi e ai direttori delle Regie scuole e dei Regi istituti di istruzione tecnica, le disposizioni riguardanti i capi degli istituti di istruzione media classica, scientifica e magistrale, contenute nel Regio decreto 6 maggio 1923, n. 1054, e successive modificazioni.
 
@@ -470,11 +468,11 @@ Per la nomina dei presidi e dei direttori saranno, con decreto Reale, su propost
 
 Le disposizioni di cui ai precedenti comma sono applicabili per la nomina dei presidi degli istituti tecnici con indirizzo minerario, quando alla direzione dei predetti istituti non possa provvedersi nel modo previsto dall'articolo 14 del Regio decreto 15 dicembre 1927, n. 2800.
 
-#### Art. 32
+### Art. 32
 
 Quando nello stesso locale coesistano istituti di istruzione tecnica di diverso grado ma dello stesso tipo, la direzione entrambi e' affidata al capo dell'istituto di grado superiore.
 
-#### Art. 33
+### Art. 33
 
 Il servizio di cassa delle Regie scuole e dei Regi istituti di istruzione tecnica e' affidato, previa autorizzazione del Ministero dell'educazione nazionale, o all'Istituto di emissione, o ad una Cassa di risparmio o ad altro Istituto di credito di notoria solidita', il quale deve assumere anche la custodia dei valori e la riscossione delle tasse scolastiche.
 
@@ -482,23 +480,23 @@ Tutte le entrate sono inscritte in un conto corrente; i pagamenti sono effettuat
 
 ## CAPO IV. - Del personale insegnante.
 
-#### Art. 34
+### Art. 34
 
 Agli insegnanti di ruolo delle Regie scuole e dei Regi istituti d'istruzione tecnica si applicano, in quanto non sia diversamente stabilito dalla presente legge, le disposizioni sullo stato giuridico degli insegnanti degli istituti di istruzione media classica, scientifica e magistrale, contenute nel Regio decreto 6 maggio 1923, n. 1054, e successive modificazioni.
 
 Il loro trattamento economico e' stabilito dall'annessa tabella B.
 
-#### Art. 35
+### Art. 35
 
 Con decreto Reale, saranno estese alle Regie scuole ed ai Regi istituti d'istruzione tecnica, con le opportune modificazioni ed aggiunte e salvo il disposto dell'articolo seguente, le disposizioni del R. decreto 9 dicembre 1926, n. 2480, e successive modificazioni, concernenti i concorsi a cattedre dei Regi istituti di istruzione media classica, scientifica magistrale e l'abilitazione all'esercizio professionale insegnamento medio.
 
-#### Art. 36
+### Art. 36
 
 Le cattedre per l'insegnamento di materie tecniche di carattere speciale possono, dal Ministro per l'educazione nazionale, essere conferite, senza concorso, a persone di riconosciuta singolare perizia, su conforme parere della 3ª sezione del Consiglio superiore.
 
 Per l'insegnamento di materie professionali e di lavorazioni richiedenti particolare perizia e specializzazione pratica, il Ministro per l'educazione nazionale, su proposta del Consiglio d'amministrazione della scuola od istituto interessato, puo' consentire l'assunzione di insegnanti temporanei.
 
-#### Art. 37
+### Art. 37
 
 Lo statuto di ciascuna Regia scuola o Regio istituto di istruzione tecnica stabilisce il numero dei corsi completi, nonche' quello delle cattedre per le varie materie o gruppi di materie, gli insegnamenti da conferirsi per incarico, le classi nelle quali ciascun insegnante e' tenuto ad insegnare. Gli insegnanti di ruolo sono tenuti a prestare l'opera loro per il numero di ore richiesto dai rispettivi insegnamenti; essi possono inoltre essere incaricati dell'insegnamento di materie affini, purche' l'orario non superi complessivamente le 24 ore settimanali.
 
@@ -506,17 +504,17 @@ Ogni biennio si procede alla revisione ed alla eventuale modificazione del numer
 
 Tale modificazione viene disposta con decreto del Ministro per l'educazione nazionale, di concerto con quello per le finanze. Per effetto di tale decreto s'intendono modificate le tabelle organiche stabilite dagli statuti delle Regie scuole ed istituti.
 
-#### Art. 38
+### Art. 38
 
 Il Ministro per l'educazione nazionale puo' trasferire, per servizio o su domanda, il personale direttivo ed insegnante delle Regie scuole e dei Regi istituti di istruzione tecnica ad istituti di istruzione media classica, scientifica e magistrale ed il personale direttivo ed insegnante di questi istituti alle Regie scuole ed ai Regi istituti di istruzione tecnica, secondo le norme che saranno stabilite con decreto Reale, su proposto del Ministro per l'educazione nazionale, di concerto con quello per le finanze.
 
-#### Art. 39
+### Art. 39
 
 Gli insegnanti incaricati sono nominati dal preside o direttore, udito il Consiglio di amministrazione, per la durata dell'anno scolastico, nei limiti previsti dalle piante organiche e possono essere confermati.
 
 Agli incaricati e' dovuta la retribuzione di L. 385 per ogni ora settimanale di insegnamento nel corso superiore dell'istituto tecnico e nella scuola di magistero professionale per la donna; e di L. 330 per ogni ora settimanale di insegnamento nel corso inferiore dell'istituto tecnico e nella scuola tecnica, eccetto che per la calligrafia, la dattilografia e la stenografia che dovranno essere retribuite col compenso di L. 220 annue per ogni ora settimanale di lezione, salva la applicazione alle suindicate retribuzioni delle riduzioni previste dalle vigenti disposizioni.
 
-#### Art. 40
+### Art. 40
 
 Quando manchino l'insegnante di ruolo o l'incaricato titolare di un insegnamento, l'insegnamento stesso puo' essere affidato ad un supplente. La nomina e' conferita dal preside o dal direttore, sentito il Consiglio d'amministrazione, ed ha carattere temporaneo.
 
@@ -524,7 +522,7 @@ I supplenti sono retribuiti nella stessa misura degli incaricati per il periodo 
 
 ## CAPO V. - Del personale tecnico, amministrativo, di vigilanza e subalterno.
 
-#### Art. 41
+### Art. 41
 
 All'addestramento degli alunni al lavoro nelle aziende, nelle officine e nei laboratori ed alla tenuta dei gabinetti provvede il personale tecnico (assistenti, tecnici agrari, capi officina, sottocapi officina, maestre di laboratori femminili, sottomaestre di laboratori femminili). Tale personale, che e' tenuto ad un servizio di 8 ore giornaliere, ha il trattamento economico stabilito dall'annessa tabella C. Ad esso, quando non sia fornito per legge da enti locali, si applicano tutte le disposizioni relative agli impiegati civili dello Stato. Continuano a rimanere a carico dello Stato gli assistenti dei Regi istituti tecnici di Cagliari, Melfi, Modica, Sassari ed Udine, conservando le attuali condizioni economiche e di carriera. ((7))
 
@@ -540,7 +538,7 @@ Il Regio D.Lgs. 1 giugno 1946, n. 539 ha disposto (con l'art. 11, comma 1) che l
 
 Ha inoltre disposto (con l'art. 13, comma 1) che la presente modifica ha effetto dal 1° ottobre 1945.
 
-#### Art. 42
+### Art. 42
 
 In ogni istituto tecnico, nelle scuole la cui popolazione raggiunga i 200 alunni ed in quelle che, pur avendo un minor numero di alunni, siano fornite di azienda, officina o laboratorio, le mansioni amministrative e contabili sono disimpegnate da un segretario economo, da nominarsi per concorso.
 
@@ -552,7 +550,7 @@ Continuano a rimanere a carico dello Stato i segretari dei Regi istituti tecnici
 
 Le norme per l'assunzione del personale amministrativo saranno stabilite con decreto Reale, da emanarsi su proposta del Ministro per l'educazione nazionale, di concerto con quello per le finanze.
 
-#### Art. 43
+### Art. 43
 
 Ai convitti di cui all'articolo 20 e' addetto un personale di vigilanza (censori di disciplina e prefetti di disciplina). Ai prefetti di disciplina ed a censori di disciplina e' fatto il trattamento economico stabilito nell'annessa tabella E.
 
@@ -560,7 +558,7 @@ A tale personale sono applicabili le disposizioni relative agli impiegati civili
 
 Le norme per l'assunzione del suddetto personale di vigilanza saranno stabilite con decreto Reale, da emanarsi su proposta del Ministro per l'educazione nazionale, di concerto con quello per le finanze.
 
-#### Art. 44
+### Art. 44
 
 Le mansioni di servizio sono affidate al personale subalterno (macchinisti, bidelli, custodi, inservienti) il quale, quando non sia a carico degli enti locali, e' assunto come personale non di ruolo, dal Consiglio d'amministrazione della scuola od istituto.
 
@@ -572,17 +570,17 @@ Continuano a rimanere a carico dello Stato i macchinisti dei Regi istituti tecni
 
 ## CAPO VI. - Disposizioni generali relative al personale di ruolo.
 
-#### Art. 45
+### Art. 45
 
 Il personale di ruolo direttivo, insegnante, amministrativo, tecnico e di vigilanza delle Regie scuole e dei Regi istituti d'istruzione tecnica, che non sia fornito dagli enti pubblici locali, e' personale statale e fa parte del ruolo proprio di ciascuna scuola od istituto.
 
 Il Ministero dell'educazione nazionale ne regola lo svolgimento della carriera e la cessazione dal servizio con provvedimenti da registrarsi alla Corte dei conti, e cura la compilazione e la tenuta della matricola di tale personale.
 
-#### Art. 46
+### Art. 46
 
 Il pagamento degli stipendi, assegni, indennita' e compensi di ogni natura al personale di qualsiasi categoria, addetto alle Regie scuole ed ai Regi istituti d'istruzione tecnica, che non sia fornito dagli enti pubblici locali e a loro carico, e' effettuato direttamente da ciascuna scuola od istituto a carico del proprio bilancio, in base ai provvedimenti ministeriali relativi alla nomina, allo svolgimento della carriera e alla cessazione dal servizio di tale personale.
 
-#### Art. 47
+### Art. 47
 
 Il Ministro per l'educazione nazionale ha facolta' di trasferire il personale di ruolo, direttivo, insegnante, tecnico, amministrativo, di vigilanza da una ad altra Regia scuola o Regio istituto d'istruzione tecnica.
 
@@ -594,7 +592,7 @@ Si applicano, per tali trasferimenti, le disposizioni vigenti per il personale s
 
 Le indennita' di trasferimento, quando siano dovute, sono pagate sul proprio bilancio dalla scuola od istituto presso cui il personale e' stato trasferito.
 
-#### Art. 48
+### Art. 48
 
 Il personale insegnante, tecnico, amministrativo e di vigilanza, quando non debba essere fornito da altri enti, e' nominato esclusivamente in seguito a pubblico concorso, salvo il disposto degli articoli 36 e 41 della presente legge.
 
@@ -604,7 +602,7 @@ Le spese dei concorsi fanno carico al bilancio delle scuole o degli istituti int
 
 Gli insegnanti di nazionalita' italiana, forniti del titolo di studio richiesto per l'insegnamento nelle scuole ed istituti d'istruzione tecnica i quali, per almeno un quinquennio abbiano prestato lodevole servizio, quali insegnanti provvisori, con nomina ministeriale, presso le Regie scuole italiane all'estero, potranno far passaggio nelle scuole ed istituti di istruzione tecnica, a norma dell'art. 4 del Regio decreto 20 maggio 1926, n. 1259.
 
-#### Art. 49
+### Art. 49
 
 I Consigli d'amministrazione delle scuole e degli istituti d'istruzione tecnica possono concedere annualmente, nei limiti delle disponibilita' del proprio bilancio, al personale direttivo, insegnante, tecnico ed amministrativo, assegni speciali non computabili agli effetti della pensione. La concessione di tali assegni e' subordinata all'esistenza di una o piu' delle condizioni seguenti:
 
@@ -630,13 +628,13 @@ La L. 30 luglio 1973, n. 477 ha disposto (con l'art. 12, commi 1 e 2) che "Al pe
 
 Detto assegno e' sostitutivo degli attuali trattamenti accessori [...] per assegni speciali previsti dall'articolo 49 della legge 15 giugno 1931, n. 889".
 
-#### Art. 50
+### Art. 50
 
 Il personale di ruolo di ogni ordine e grado, escluso quello di cui ai primi tre comma dell'art. 44, addetto alle Regie scuole ed ai Regi istituti di istruzione tecnica, godra', a carico dello Stato, del trattamento di riposo stabilito dal testo unico sulle pensioni approvato con R. decreto 21 febbraio 1895, n. 70, e successive modificazioni ed aggiunte.
 
 ## CAPO VII. - Degli esami, degli alunni e delle tasse.
 
-#### Art. 51
+### Art. 51
 
 Nelle Regie scuole e nei Regi istituti di istruzione tecnica si sostengono i seguenti esami:
 
@@ -654,7 +652,7 @@ f) di abilitazione tecnica, al termine del corso superiore dell'istituto tecnico
 
 g) di profitto, al termine del corso di perfezionamento degli istituti industriali.
 
-#### Art. 52
+### Art. 52
 
 Possono essere inscritti:
 
@@ -680,7 +678,7 @@ c) coloro che, avendo conseguito la promozione o l'idoneita' alla quinta classe 
 
 d) per le sezioni agraria e industriale, coloro che abbiano compiuto il primo anno di scuola tecnica di corrispondente indirizzo o il corso preparatorio di cui all'art. 9, e superino un esame di ammissione in relazione agli studi compiuti.
 
-#### Art. 53
+### Art. 53
 
 Possono essere inscritti:
 
@@ -690,7 +688,7 @@ b) alla seconda classe delle sezioni agraria, industriale e commerciale del cors
 
 c) alla seconda classe della scuola di magistero professionale per la donna, coloro che siano provviste del diploma di maturita' o di abilitazione conseguito in una scuola media di secondo grado, e superino uno speciale esame di idoneita' sulle materie che saranno determinate con decreto del Ministro per l'educazione nazionale.
 
-#### Art. 54
+### Art. 54
 
 Alle classi successive alla prima delle Regie scuole e dei Regi istituti d'istruzione tecnica si accede, per promozione, dalla classe immediatamente inferiore, in base al risultato di uno scrutinio collegiale al termine del corso delle lezioni.
 
@@ -700,7 +698,7 @@ All'esame d'idoneita' e' ammesso chi abbia conseguito il titolo necessario all'i
 
 Le disposizioni dei comma secondo e terzo del presente articolo non si applicano nelle scuole tecniche a indirizzo agrario e industriale e nelle sezioni agrarie e industriali del corso superiore dell'istituto tecnico, per le quali vale la norma che alle classi successive alla prima possono essere inscritti soltanto gli alunni che abbiano conseguito la promozione dalla classe precedente, salvo quanto e' disposto alla lettera b) dell'art. 53.
 
-#### Art. 55
+### Art. 55
 
 Gli esami hanno luogo in due sessioni.
 
@@ -710,11 +708,11 @@ Allo stesso modo si classificano il profitto e la condotta nel corso e alla fine
 
 Per la religione si applicano le disposizioni dell'art. 4 della legge 5 giugno 1930, n. 824.
 
-#### Art. 56
+### Art. 56
 
 Al termine di ciascun trimestre e al termine dei corsi di lezioni, il Collegio dei professori delibera i voti di profitto e di condotta degli alunni.
 
-#### Art. 57
+### Art. 57
 
 Chi nello scrutinio finale per la promozione o in qualsiasi esame della prima sessione abbia conseguito meno di sei decimi in non piu' di due delle materie o gruppi di materie che verranno fissati con decreto del Ministro per l'educazione nazionale, o non abbia potuto, nella sessione stessa, cominciare o compiere l'esame scritto, grafico o pratico, o presentarsi all'orale, e' ammesso a sostenere o ripetere le relative prove di esame nella seconda sessione.
 
@@ -722,7 +720,7 @@ Una stessa classe di istituto tecnico inferiore o superiore non puo' frequentars
 
 In casi assolutamente eccezionali, il Collegio dei professori, quando particolari gravi circostanze lo giustifichino, puo', con deliberazione motivata, consentire l'inscrizione per un terzo anno.
 
-#### Art. 58
+### Art. 58
 
 Gli alunni della scuola tecnica e della scuola professionale femminile sostengono, alla fine del corso, un esame di licenza.
 
@@ -730,13 +728,13 @@ Possono sostenere l'esame di licenza anche gli alunni provenienti da scuola pubb
 
 La disposizione del comma secondo del presente articolo non si applica nelle scuole tecniche a indirizzo agrario e industriale, per le quali vale la norma che agli esami di licenza possono presentarsi soltanto coloro che abbiano regolarmente frequentato l'intero corso.
 
-#### Art. 59
+### Art. 59
 
 Le alunne della scuola di magistero professionale per la donna, al termine dell'ultimo anno di corso, sostengono un esame di abilitazione all'insegnamento.
 
 All'esame possono partecipare anche le alunne provenienti da scuola pubblica non pareggiata o da scuola privata o paterna, che abbiano conseguito da almeno due anni il titolo necessario per l'ammissione alla scuola.
 
-#### Art. 60
+### Art. 60
 
 Gli alunni del corso inferiore dell'istituto tecnico sostengono, al termine dell'ultimo anno di corso, l'esame di ammissione al corso superiore.
 
@@ -748,7 +746,7 @@ A questo esame possono presentarsi anche gli alunni provenienti da scuola pubbli
 
 La disposizione del comma quarto del presente articolo non si applica per le sezioni agraria ed industriale del corso superiore dell'istituto tecnico, per le quali vale la norma che possono presentarsi agli esami di abilitazione soltanto coloro che abbiano regolarmente frequentato l'intero corso, salvo quanto e' detto alla lettera b) dell'art. 53.
 
-#### Art. 61
+### Art. 61
 
 Coloro che abbiano compiuto o compiano nell'anno in corso i 23 anni di eta', possono presentarsi a qualunque esame, con dispensa dall'obbligo dell'intervallo e della presentazione del titolo di studio di cui ai precedenti articoli.
 
@@ -756,7 +754,7 @@ I candidati, sprovvisti del titolo di studio richiesto, possono essere sottopost
 
 Le disposizioni dei comma primo e secondo del presente articolo, non si applicano nelle scuole tecniche a indirizzo agrario e industriale e nelle sezioni agrarie e industriali del corso superiore dell'istituito tecnico, per le quali vale la norma che possono presentarsi agli esami di licenza o di abilitazione soltanto coloro che abbiano regolarmente frequentato l'intero corso, salvo il disposto dell'art 53, lettera b).
 
-#### Art. 62
+### Art. 62
 
 Per ottenere l'ammissione, la promozione, l'idoneita', la licenza e l'abilitazione e' necessario aver conseguito, nel relativo esame, voto non inferiore a sei decimi in ciascuna materia o gruppo di materie.
 
@@ -764,7 +762,7 @@ La promozione e' conferita senza esami agli alunni che nello scrutinio finale ab
 
 Gli alunni che nello scrutinio finale abbiano conseguito voto inferiore agli otto decimi nella condotta possono sostenere gli esami di promozione, di ammissione, di licenza e di abilitazione soltanto nella seconda sessione.
 
-#### Art. 63
+### Art. 63
 
 Chi abbia superato l'esame di licenza dalla scuola tecnica consegue:
 
@@ -776,11 +774,11 @@ per l'indirizzo commerciale: il diploma di computista commerciale.
 
 Chi abbia superato l'esame di licenza dalla scuola professionale femminile consegue il diploma di idoneita' professionale per la relativa specializzazione.
 
-#### Art. 64
+### Art. 64
 
 Chi abbia superato l'esame di abilitazione professionale presso la scuola di magistero professionale per la donna consegue il diploma di maestra per la relativa specializzazione.
 
-#### Art. 65
+### Art. 65
 
 Chi abbia superato l'esame di abilitazione di cui all'articolo 51, presso l'istituto tecnico, consegue un diploma di abilitazione tecnica alle diverse professioni e precisamente:
 
@@ -796,7 +794,7 @@ all'esercizio professionale e all'impiego nei pubblici uffici;
 
 per la sezione nautica: il diploma di aspirante al comando di navi mercantili per la sezione a indirizzo specializzato per capitani, il diploma di aspirante alla direzione di macchine di navi mercantili, per la sezione a indirizzo specializzato per macchinisti, e il diploma di aspirante alla professione di costruttore navale per la sezione a indirizzo specializzato per costruttori; tutti e tre i diplomi aprono anche l'accesso, ai pubblici uffici relativi.
 
-#### Art. 66
+### Art. 66
 
 Nello statuto di ciascuna Regia scuola o Regio istituto di istruzione tecnica e' stabilita la misura delle tasse che devono essere pagate per la inscrizione, la frequenza, gli esami e per il rilascio del relativo diploma e le condizioni per esonero totale o parziale da tale pagamento.
 
@@ -822,7 +820,7 @@ Il Regio D.L. 16 aprile 1936, n. 837, convertito, senza modificazioni, dalla L. 
 
 ## CAPO VIII. - Disposizioni transitorie.
 
-#### Art. 67
+### Art. 67
 
 Le attuali scuole pratiche di agricoltura consorziali di Caltagirone, Caluso, Cerignola, Cosenza, Eboli, Fabriano, Pierdimonte d'Alife, Pozzuolo del Friuli, San Placido Calonero', Sant'Ilario Ligure e Scerni sono trasformate in Regie scuole tecniche a indirizzo agrario.
 
@@ -836,7 +834,7 @@ Le attuali scuole di tirocinio ad orario ridotto e gli attuali laboratori scuola
 
 Le altre scuole ed istituti d'istruzione tecnica non contemplati dalla presente legge, costituite come organismi autonomi con particolari compiti, continuano a funzionare con le norme fissate dai rispettivi decreti di istituzione e sotto la vigilanza del Ministero della educazione nazionale.
 
-#### Art. 68
+### Art. 68
 
 Le attuali Regie scuole medie agrarie sono trasformate in Regi istituti tecnici agrari.
 
@@ -860,7 +858,7 @@ Gli attuali corsi di magistero femminile sono trasformati in Regie scuole di mag
 
 I corsi per maestranze esistenti saranno disciplinati in conformita' della presente legge.
 
-#### Art. 69
+### Art. 69
 
 Per ciascuna scuola o istituto la trasformazione di cui ai due precedenti articoli, sara' disposta con decreto Reale su proposta del Ministro per l'educazione nazionale, di concerto con quello per le finanze.
 
@@ -874,19 +872,19 @@ Fino a quando non sia stata disposta la trasformazione, ciascuna scuola od istit
 
 ((Le trasformazioni avranno effetto a decorrere dal giorno che sara' indicato, per ciascuna scuola o istituto, nel relativo decreto e, ad ogni modo, non piu' tardi dell'inizio dell'anno scolastico successivo alla data del decreto stesso)).
 
-#### Art. 70
+### Art. 70
 
 L'importo delle spese effettivamente sostenute dallo Stato per le scuole agrarie medie, per gli istituti tecnici e per quelli nautici, nell'esercizio precedente a quello in cui viene disposta la trasformazione delle scuole e degli istituti medesimi, sara', con decreto del Ministro per le finanze, di concerto con quello per l'educazione nazionale, trasportato dai rispettivi capitoli a quelli dai quali debbono essere prelevati i contributi dello Stato per le scuole e gli istituti d'istruzione tecnica.
 
 Dalla somma, di cui al precedente comma, sara', pero', detratto l'importo complessivo delle tasse scolastiche riscosse dallo Stato per gli istituti tecnici e nautici nell'anno scolastico precedente l'esercizio finanziario in cui viene disposta la trasformazione degli istituti stessi, e tale importo verra' portato in economia col consuntivo dell'esercizio finanziario in cui avviene la detrazione.
 
-#### Art. 71
+### Art. 71
 
 Tutti gli oneri, obblighi e contributi di qualsiasi specie, posti a carico di enti e di privati, risultanti da disposizioni di legge, o comunque vincolative, da speciali convenzioni o da deliberazioni impegnative per il matenimento e funzionamento delle scuole e degli istituti indicati negli articoli 67 e 68, e di tutti i corsi comunque annessi alle scuole e istituti predetti, nonche' per il completamento degli edifici scolastici e delle dotazioni di terreno, materiale didattico ed altro, rimangono fermi entro i limiti in essere alla data in cui hanno luogo le trasformazioni previste dalla presente legge e sono devoluti alle scuole e agli istituti di istruzione tecnica, che avranno origine dalle trasformazioni medesime.
 
 Le disposizioni di cui al comma precedente si applicano anche nei riguardi dello Stato ed entro i limiti della spesa effettivamente sostenuta dallo Stato per gli stessi istituti nell'esercizio finanziario precedente quello in cui sono disposte le trasformazioni ai sensi dei suindicati articoli 67 e 68, salvo, pero', quanto e' stabilito al secondo comma dell'articolo 70 e salve altresi' le riduzioni previste dal Regio decreto-legge 20 novembre 1930, n. 1491.
 
-#### Art. 72
+### Art. 72
 
 Il personale direttivo, insegnante, amministrativo, tecnico e di laboratorio, di vigilanza e di servizio dei Regi istituti tecnici, delle Regie scuole agrarie medie, delle Regie scuole industriali maschili e femminili, dei Regi laboratori-scuola maschili e femminili, dei Regi istituti industriali, del Regio istituto professionale femminile «Elena di Savoia» di Napoli, delle Regie scuole minerarie, dei Regi istituti nautici, delle Regie scuole e dei Regi istituti commerciali e quello delle scuole pratiche di agricoltura regificate ai sensi dello art. 67, viene assegnato alle Regie scuole e ai Regi istituti di istruzione tecnica contemplati dalla presente legge a mano a mano che si effettuino le trasformazioni di cui agli articoli 67 e 68.
 
@@ -904,13 +902,13 @@ Gli insegnanti di ruolo che risultino eventualmente esuberanti possono, in via t
 
 I bidelli e custodi delle attuali scuole e degli attuali istituti industriali, che siano stati nominati anteriormente al R. decreto 31 ottobre 1923, n. 2523, e godano del trattamento di cui alla tabella D, annessa al Regio decreto 8 febbraio 1923, n. 410, sono mantenuti in servizio fino a cessazione, con l'attuale trattamento economico e di carriera.
 
-#### Art. 73
+### Art. 73
 
 Gli impiegati di ruolo che prestano attualmente servizio presso le Regie scuole agrarie medie, con le funzioni di censore di disciplina da un anno almeno, possono, su domanda, essere assunti nel ruolo dei censori di disciplina dei convitti, purche' possiedano uno dei titoli di studio indicati nella lettera b) dell'art. 16 del R. decreto 11 novembre 1923, numero 2395, o, altrimenti, appartengano ad un ruolo di gruppo B.
 
 Per il computo dell'anzianita' di servizio, ai fini dell'inquadramento, si applicano le disposizioni del Regio decreto 11 novembre 1923, n. 2395.
 
-#### Art. 74
+### Art. 74
 
 Il servizio prestato dal personale di segreteria, tecnico e di vigilanza presso le scuole pratiche di agricoltura consorziali, a decorrere dal 1° ottobre 1924, e' riconosciuto utile ai fini di pensione.
 
@@ -922,11 +920,11 @@ L'Istituto nazionale delle assicurazioni versera' al Tesoro dello Stato le riser
 
 L'attuale personale inserviente delle stesse scuole pratiche di agricoltura mantiene, ai fini del trattamento di quiescenza, l'iscrizione presso la Cassa nazionale per le assicurazioni sociali.
 
-#### Art. 75
+### Art. 75
 
 Con decreti del Ministro per le finanze sara' provveduto alle variazioni di bilancio in dipendenza della presente legge.
 
-#### Art. 76
+### Art. 76
 
 Con decreto Reale, su proposta del Ministro per l'educazione nazionale, di concerto con quelli per l'interno, per le finanze e per l'agricoltura e le foreste, saranno stabilite, a complemento delle disposizioni della presente legge, le norme interpretative ed integrative, eventualmente necessarie.
 
@@ -948,7 +946,7 @@ Visto, il Guardasigilli: Rocco.
 
 ## CAPO VIII. - Disposizioni transitorie.
 
-#### Tabelle
+### Tabelle
 
 TABELLA A (Art. 31).
 

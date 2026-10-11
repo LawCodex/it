@@ -25,11 +25,11 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+#### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo istituitivo di un'Associazione tra la Comunita' Economica Europea e la Turchia con Protocolli e Atto finale, firmati in Ankara il 12 settembre 1963.
 
-### Art. 2
+#### Art. 2
 
 Sono approvati i seguenti Accordi internazionali relativi all'Associazione tra la Comunita' Economica Europea e la Turchia, firmati in Ankara il 12 settembre 1963:
 
@@ -39,15 +39,15 @@ b) Accordo relativo al Protocollo finanziario allegato all'Accordo di associazio
 
 ed Atti connessi.
 
-### Art. 3
+#### Art. 3
 
 Piena ed intera esecuzione e' data agli Accordi internazionali indicati negli articoli precedenti a decorrere dal giorno della loro entrata in vigore in conformita' all'articolo 32 dell'Accordo indicato all'articolo 1 e gli articoli 6 e 11 degli Accordi rispettivamente indicati nelle lettere a) e b) dell'articolo 2.
 
-### Art. 4
+#### Art. 4
 
 Il Governo e' autorizzato, fino alla scadenza del periodo preparatorio stabilito dall'articolo 3, secondo comma dell'Accordo di Associazione, ad emanare, con decreti aventi valore di legge ordinaria e secondo i principi direttivi contenuti negli Accordi specificati negli articoli 1 e 2 della presente legge, le norme necessarie a dare esecuzione agli obblighi derivanti dagli Accordi stessi.
 
-### Art. 5
+#### Art. 5
 
 All'onere di lire 2 miliardi derivante dall'attuazione della presente legge per il periodo 1 luglio-31 dicembre 1964, si fara' fronte mediante riduzione del fondo speciale inscritto nello stato di previsione della spesa del Ministero del tesoro per il periodo stesso, relativo al finanziamento di oneri recati da provvedimenti legislativi in corso.
 
@@ -141,13 +141,13 @@ il Sig. FERIDUN CEMAL ERKIN, ministro degli affari esteri
 
 I quali, dopo aver scambiato i loro pieni poteri, riconosciuti in buona e debita forma, hanno convenuto le disposizioni che seguono.
 
-### Articolo 1
+#### Articolo 1
 
 Con il presente Accordo e' istituita un'Associazione tra la
 
 Comunita' Economica Europea e la Turchia.
 
-### Articolo 2
+#### Articolo 2
 
 1\. - L'Accordo ha lo scopo di promuovere un rafforzamento continuo ed equilibrato delle relazioni commerciali ed economiche tra le Parti, tenendo pienamente conto della necessita' di assicurare un piu' rapido sviluppo dell'economia turca ed il miglioramento del livello dell'occupazione e del tenore di vita del popolo turco.
 
@@ -163,7 +163,7 @@ b) una fase transitoria;
 
 c) una fase definitiva.
 
-### Articolo 3
+#### Articolo 3
 
 1\. - Durante la fase preparatoria la Turchia rafforza la propria
 
@@ -179,7 +179,7 @@ Il passaggio alla fase transitoria avviene alle condizioni e
 
 secondo le modalita' previste all'articolo 1 del Protocollo provvisorio.
 
-### Articolo 4
+#### Articolo 4
 
 1\. - Durante la fase transitoria, le parti contraenti assicurano, sulla base di obblighi reciproci ed equilibrati:
 
@@ -195,19 +195,19 @@ quelle della Comunita', per assicurare il buon funzionamento dell'Associazione n
 
 fatte salve le eccezioni che potranno essere previste di comune accordo. Tali eccezioni non devono ostacolare la realizzazione completa dell'unione doganale entro un termine ragionevole.
 
-### Articolo 5
+#### Articolo 5
 
 La fase definitiva e' basata sull'unione doganale ed implica il
 
 rafforzamento della coordinazione delle politiche economiche delle parti contraenti.
 
-### Articolo 6
+#### Articolo 6
 
 Per assicurare l'applicazione ed il progressivo sviluppo del regime
 
 di Associazione, le parti contraenti si riuniscono in un Consiglio di associazione che agisce nei limiti delle attribuzioni conferitegli dall'Accordo.
 
-### Articolo 7
+#### Articolo 7
 
 Le parti contraenti adottano tutte le misure di carattere generale o particolare atte ad assicurare l'esecuzione degli obblighi che discendono dall'Accordo.
 
@@ -217,21 +217,21 @@ realizzazione degli scopi dell'Accordo.
 
 ## TITOLO II - Attuazione della fase transitoria
 
-### Articolo 8
+#### Articolo 8
 
 Per realizzare gli obiettivi enunciati dall'art. 4, il Consiglio di
 
 Associazione stabilisce, prima che abbia inizio la fase transitoria e secondo la procedura prevista dall'articolo 1 del Protocollo provvisorio, le condizioni, le modalita' e il ritmo di applicazione delle disposizioni riguardanti i settori contemplati nel Trattato istitutivo della Comunita' che dovranno essere presi in considerazione, e in particolare quelli menzionati nel presente titolo, nonche' ogni clausula di salvaguardia che risultasse utile.
 
-### Articolo 9
+#### Articolo 9
 
 Le parti contraenti riconoscono che nel campo di applicazione
 
 dell'Accordo, e senza pregiudizio delle disposizioni particolari eventualmente fissate in applicazione dell'articolo 8, qualsiasi discriminazione fondata sulla nazionalita' e' vietata in conformita' del principio enunciato nell'articolo 7 del Trattato che istituisce la Comunita'.
 
-## CAPITOLO 1. - UNIONE DOGANALE
+### CAPITOLO 1. - UNIONE DOGANALE
 
-### Articolo 10
+#### Articolo 10
 
 1\. - L'unione doganale prevista dall'articolo 2, paragrafo 2
 
@@ -247,9 +247,9 @@ nelle relazioni tra la Turchia ed i Paesi terzi, la adozione
 
 della tariffa doganale comune della Comunita', nonche' un riavvicinamento alle altre regolamentazioni applicate dalla Comunita' in materia di commercio estero.
 
-## CAPITOLO 2. - AGRICOLTURA
+### CAPITOLO 2. - AGRICOLTURA
 
-### Articolo 11
+#### Articolo 11
 
 1\. - Il regime di Associazione si estende all'agricoltura e agli
 
@@ -259,35 +259,35 @@ scambi di prodotti agricoli, secondo modalita' particolari che tengono conto del
 
 nell'elenco che costituisce l'Allegato II del Trattato che istituisce la Comunita', come attualmente completato in applicazione delle disposizioni dell'articolo 38, paragrafo 3 del Trattato stesso.
 
-## CAPITOLO 3. - ALTRE DISPOSIZIONI DI CARATTERE ECONOMICO
+### CAPITOLO 3. - ALTRE DISPOSIZIONI DI CARATTERE ECONOMICO
 
-### Articolo 12
+#### Articolo 12
 
 Le parti contraenti convengono di ispirarsi agli articoli 48, 49 e 50 del Trattato che istituisce la Comunita' per realizzare gradualmente tra di loro la libera circolazione dei lavoratori.
 
-### Articolo 13
+#### Articolo 13
 
 Le parti contraenti convengono d'ispirarsi agli articoli da 52 a 56
 
 inclusi e all'articolo 58 del Trattato che istituisce la Comunita' per eliminare tra loro le restrizioni alla liberta' di stabilimento.
 
-### Articolo 14
+#### Articolo 14
 
 Le parti contraenti convengono di ispirarsi agli articoli 55, 56 e da 58 a 65 inclusi del Trattato clic istituisce la Comunita' per eliminare tra loro le restrizioni alla libera prestazione dei servizi.
 
-### Articolo 15
+#### Articolo 15
 
 Le condizioni e le modalita' di estensione alla Turchia delle
 
 disposizioni del Trattato che istituisce la Comunita' e degli atti adottati in applicazione di tali disposizioni in materia di trasporti saranno stabilite tenendo conto della situazione geografica, della Turchia.
 
-### Articolo 16
+#### Articolo 16
 
 Le parti contrenti riconono che i principi enunciati nelle
 
 disposizioni relative alla concorrenza, alla fiscalita' ed al ravvicinamento delle legislazioni, contenute nei Titolo I della Parte terza del Trattato che istituisce la Comunita', devono essere resi applicabili ai loro rapporti di associazione.
 
-### Articolo 17
+#### Articolo 17
 
 Ogni Stato, parte all'Accordo, attua la politica economica
 
@@ -297,19 +297,19 @@ Esso attua la politica di congiuntura ed in particolare la politica
 
 finanziaria e monetaria per raggiungere questi obiettivi.
 
-### Articolo 18
+#### Articolo 18
 
 Ogni Stato, parte all'Accordo, pratica, in materia di tassi di
 
 cambio una politica che consenta di assicurare la realizzazione degli obiettivi dell'Associazione.
 
-### Articolo 19
+#### Articolo 19
 
 Gli Stati membri della Comunita' e la Turchia autorizzano, nella
 
 moneta del Paese nel quale risiedono il creditore o i beneficiari, i pagamenti o trasferimenti relativi agli scambi di merci, di servizi e di capitali, nonche' i trasferimenti di capitali e di salari, nella misura in cui la circolazione delle merci, dei servizi, dei capitali e delle persone sia liberalizzata tra essi in applicazione dell'Accordo.
 
-### Articolo 20
+#### Articolo 20
 
 Le parti contraenti si consutano al fine di facilitare tra gli
 
@@ -323,7 +323,7 @@ I residenti di ciascuno Stato membro beneficiano di tutti i
 
 vantaggi, particolarmente in materia di cambi e in materia fiscale, accordati dalla Turchia ad un altro Stato membro o ad un Turchia terzo, relativi al trattamento dei capitali stranieri.
 
-### Articolo 21
+#### Articolo 21
 
 Le parti contraenti convengono di elaborare una procedura di
 
@@ -331,7 +331,7 @@ consultazione che consenta di assicurare il coordinamento delle loro politiche c
 
 ## TITOLO III - Disposizioni generali e finali
 
-### Articolo 22
+#### Articolo 22
 
 1\. - Per il raggiungimento degli obiettivi fissati dall'Accordo e nei casi da questo previsti, il Consiglio di associazione dispone di un potere di decisione. Ognuna delle due parti e' tenuta a prendere le misure necessarie all'esecuzione delle decisioni adottate. il Consiglio di Associazione puo' inoltre formulare, le raccomandazioni che ritenga utili.
 
@@ -345,7 +345,7 @@ associazione prende le decisioni del caso quando si riveli necessaria un'azione 
 
 allo
 
-### Art. 23
+#### Art. 23
 
 Il Consiglio di associazione si compone, da un lato, di membri dei Governi degli Stati membri, del Consiglio e della Commissione della Comunita', e, dall'altro, di membri del Governo turco.
 
@@ -353,7 +353,7 @@ I membri del Consiglio di associazione possono farsi rappresentare alle condizio
 
 Il Consiglio di associazione delibera all'unanimita'.
 
-### Articolo 24
+#### Articolo 24
 
 La presidenza del Consiglio di associazione e' esercitata a turno per una durata di sei mesi da un rappresentante della Comunita' e da un rappresentante della Turchia. La durata del primo turno di presidenza puo' essere abbreviata per decisione del Consiglio di associazione.
 
@@ -367,7 +367,7 @@ Il Consiglio di associazione determina i compiti e la competenza di
 
 questi comitati.
 
-### Articolo 25
+#### Articolo 25
 
 1\. - Ciascuna parte contraente puo' ricorrere al Consiglio di
 
@@ -381,13 +381,13 @@ mediante decisione; esso puo' ugualmente decidere di sottoporre la controversia 
 
 4\. - In conformita' dell'articolo 8 dell'Accordo, il Consiglio di associazione stabilisce le modalita' di una procedura di arbitrato o di qualsiasi altra procedura giurisdizionale cui le parti contraenti potranno ricorrere durante le fasi transitoria e definitiva dell'Accordo, nel caso in cui la controversia non avesse potuto essere regolata conformemente al paragrafo 2 del presente articolo.
 
-### Articolo 26
+#### Articolo 26
 
 Le disposizioni dell'Accordo non si applicano ai prodotti di
 
 competenza della Comunita' Europea del Carbone e dell'Acciaio.
 
-### Articolo 27
+#### Articolo 27
 
 Il Consiglio di associazione prende ogni misura utile a favorire la
 
@@ -395,13 +395,13 @@ cooperazione ed i contatti necessari tra il Parlamento europeo, il Comitato econ
 
 Nella fase preparatoria, tuttavia, tali contatti si limitano alle relazioni tra il Parlamento europeo e il Parlamento turco.
 
-### Articolo 28
+#### Articolo 28
 
 Quando il funzionamento dell'Accordo consentira' di prevedere
 
 l'accettazione integrale da parte della Turchia degli obblighi derivanti dal Trattato che istituisce la Comunita', le parti contraenti esamineranno la possibilita' di adesione della Turchia alla Comunita'.
 
-### Articolo 29
+#### Articolo 29
 
 1\. - L'Accordo si applica, da un lato, ai territori europei del
 
@@ -413,13 +413,13 @@ Le condizioni di applicazione a questi territori delle disposizioni
 
 dell'Accordo concernenti gli altri settori saranno fissate successivamente mediante accordo tra le parti contraenti.
 
-### Articolo 30
+#### Articolo 30
 
 I Protocolli che le parti contraenti convengono di allegare
 
 all'Accordo ne costituiscono parte integrante.
 
-### Articolo 31
+#### Articolo 31
 
 L'Accordo sara' ratificato dagli Stati firmatari conformemente alle
 
@@ -429,13 +429,13 @@ Gli strumenti di ratifica e l'atto di notifica della conclusione
 
 sopra previsti saranno scambiati a Bruxelles.
 
-### Articolo 32
+#### Articolo 32
 
 L'Accordo entrera' in vigore il primo giorno del secondo mese
 
 successivo alla data dello scambio degli strumenti di ratifica e dell'atto di notifica di cui all'articolo 31.
 
-### Articolo 33
+#### Articolo 33
 
 L'Accordo e' redatto in duplice esemplare in lingua francese,
 
@@ -455,7 +455,7 @@ dall'articolo 3 dell'Accordo di associazione;
 
 Hanno convenuto le disposizioni che seguono:
 
-### Articolo 1
+#### Articolo 1
 
 1\. - Quattro anni dopo l'entrata in vigore dell'Accordo, il
 
@@ -473,7 +473,7 @@ Se alla fine del nono anno il Protocollo addizionale non avra'
 
 potuto essere stabilito, il Consiglio di associazione decide in merito al regime successivo della fase preparatoria da applicare a decorrere dalla fine del decimo anno.
 
-### Articolo 2
+#### Articolo 2
 
 Dall'entrata in vigore del presente Protocollo, gli Stati membri
 
@@ -543,7 +543,7 @@ Per questo prodotto, inoltre, gli Stati membri della Comunita', sin
 
 dall'entrata in vigore dell'Accordo, aboliscono totalmente i dazi doganali intracomunitari ed applicano integralmente la tariffa doganale comune.
 
-### Articolo 3
+#### Articolo 3
 
 A decorrere dalla ravvicinamento finale dei dazi nazionali degli
 
@@ -553,43 +553,43 @@ Tuttavia, per quanto riguarda le nocciole, questa procedura si
 
 applica, soltanto al momento in cui sara' stato effettuato, per l'insieme degli altri tre prodotti, l'allineamento dei dazi tradizionali degli Stati membri della Comunita' sulla la tariffa doganale comune.
 
-### Articolo 4
+#### Articolo 4
 
 A decorrere, dal secondo anno successivo all'entrata in vigore
 
 dell'Articolo Consiglio di associazione puo' decidere di aumentare il volume dei contingenti tariffari di cui agli articoli 2 e 3. Salvo contraria decisione del Consiglio di associazione, tali aumenti rimangono acquisiti. Qualsiasi aumento ha effetto soltanto a decorrere dall'anno civile successivo.
 
-### Articolo 5
+#### Articolo 5
 
 Qualora la data dell'entrata in vigore dell'Accordo non coincidesse con l'inizio dell'anno civile, gli Stati membri della Comunita' aprono, per il periodo compreso tra la data dell'entrata in vigore dell'Accordo e l'inizio dell'anno civile successivo, contingenti tariffari per un volume corrispondente ad un dodicesimo delle quantita' indicate nell'articolo 2, per ciascun mese che intercorre tra la data dell'entrata in vigore dell'Accordo e l'inizio dell'anno civile successivo.
 
 Tuttavia, sin dall'entrata in vigore dell'Accordo, il Consiglio di associazione puo' decidere di aumentare i volumi dei contingenti tariffari che risultano dall'applicazione del comma precedente, allo scopo di tener conto del carattere stagionale delle esportazioni dei prodotti di cui trattasi.
 
-### Articolo 6
+#### Articolo 6
 
 Allo scadere del terzo anno dall'entrata in vigore dell'Accordo, il
 
 Consiglio di associazione puo' decidere in merito a misurare idonee a favorire lo smercio sul mercato della Comunita' di prodotti diversi da quelli di cui allo articolo 2.
 
-### Articolo 7
+#### Articolo 7
 
 Sin dall'attuazione della politica agricola comune per il tabacco, le nocciole o i fichi secchi la Comunita' adotta le misure eventualmente necessarie per conservare alla Turchia, tenendo conto del regime previsto per detta politica agricola comune, possibilita' di esportazione equivalente a quelle che le sono assicurate a norma del presente Protocollo.
 
-### Articolo 8
+#### Articolo 8
 
 Qualora la Comunita' aprisse contingenti tariffari per i prodotti di cui all'articolo 2 del presente Protocollo, la Turchia non sara' trattata meno favorevolmente, per quanto riguarda il livello dei dazi doganali applicabili nel quadro di tali contingenti tariffari, di un paese che non sia parte all'Accordo.
 
-### Articolo 9
+#### Articolo 9
 
 La Turchia fa il possibile per estendere a tutti gli Stati membri della Comunita' il trattamento piu' favorevole che essa riserva ad uno o piu' di essi.
 
-### Articolo 10
+#### Articolo 10
 
 Sin dalla fase preparatoria ognuna delle Parti contraenti puo'
 
 sottoporre al Consiglio di associazione ogni difficolta' inerente al diritto di stabilimento, alla prestazione dei servizi, ai trasporti ed alla concorrenza. Il Consiglio di associazione potra', se del caso, rivolgere alle Parti contraenti ogni raccomandazione utile ad eliminare dette difficolta'.
 
-### art. 11
+#### art. 11
 
 Artitolo 11.
 
@@ -603,25 +603,25 @@ Sollecite di favorire lo sviluppo accellerato dell'economia turca al fine di fac
 
 Hanno convenuto le disposizioni che seguono:
 
-### Articolo 1
+#### Articolo 1
 
 Domande di finanziamento per progetti d'investimento che
 
 contribuiscano all'aumento della produttivita' dell'economia turca, favoriscano la realizzazione degli obiettivi dell'Accordo e si inseriscano nel piano di sviluppo turco, possono essere presentate dallo Stato e dalle imprese turche alla Banca europea, per gli investimenti, che li infirma del seguito riservato alle loro domande.
 
-### Articolo 2
+#### Articolo 2
 
 Le domande che vengono accolte favorevolmente sono finanziate a
 
 mezzo di prestiti. L'ammontare totale di tali prestiti puo' raggiungere 175 milioni di unita' di conto ed essere impegnato nel corso dei cinque anni successivi all'entrata in vigore dell'Accordo.
 
-### Articolo 3
+#### Articolo 3
 
 Le domande di finanziamento presentate da imprese turche possono
 
 essere accolte favorevolmente soltanto con l'accordo del Governo turco.
 
-### Articolo 4
+#### Articolo 4
 
 1\. - I prestiti sono concessi sulla base delle caratteristiche
 
@@ -635,7 +635,7 @@ investimenti a redditivita' diffusa o differita, possono essere stabilite condiz
 
 pubblico diverso dallo Stato turco e' subordinata ad una garanzia dello Stato turco.
 
-### Articolo 5
+#### Articolo 5
 
 1\. - La Banca puo' subordinare la concessione dei prestiti
 
@@ -647,23 +647,23 @@ spese di importazione, come anche delle spese interne necessarie all'attuazione 
 
 3\. - La Banca vigila a che i fondi siano utilizzati nella maniera piu' razionale e in conformita' delle finalita' dell'Accordo.
 
-### Articolo 6
+#### Articolo 6
 
 La Turchia si impegna a consentire ai debitori beneficiari di tali prestiti l'acquisto delle divise necessarie al rimborso, per capitale e interessi, dei prestiti stessi.
 
-### Articolo 7
+#### Articolo 7
 
 Il concorso che ai sensi del presente Protocollo viene dato alla
 
 realizzazione di taluni progetti puo' assumere la forma di una partecipazione a finanziamenti in cui intervengano in particolare Stati terzi, organismi finanziari internazionali oppure autorita' ed istituti di credito e di sviluppo della Turchia o degli Stati membri della Comunita';
 
-### Articolo 8
+#### Articolo 8
 
 L'aiuto fornito allo sviluppo economico e sociale della Turchia,
 
 alle condizioni indicate nell'Accordo e nel presente Protocollo costituisce uno sforzo complementare rispetto a quello compiuto dallo Stato turco.
 
-### Articolo 9
+#### Articolo 9
 
 Il presente Protocollo e' allegato all'Accordo.
 
@@ -709,7 +709,7 @@ Per il presidente della Repubblica Turca:
 
 FERIDUM CEMAL ERRIN
 
-### Atto finale
+#### Atto finale
 
 ATTO FINALE
 
@@ -857,7 +857,7 @@ L'Accordo di Associazione si applica ugualmente al Land di Berlino,
 
 salvo che il Governo della Repubblica federale di Germania non faccia alle parti contraenti, entro tre mesi, una dichiarazione contraria.
 
-### Scambio di lettere
+#### Scambio di lettere
 
 SCAMBIO DI LETTERE TRA I PRESIDENTI DELLE DELEGAZIONI DELLA COMUNITA' E DELLA TURCHIA.
 
@@ -945,7 +945,7 @@ Europea,
 
 Hanno convenuto le disposizioni che seguono:
 
-### Articolo 1
+#### Articolo 1
 
 La posizione comune che i rappresentanti della Comunita' e degli
 
@@ -957,7 +957,7 @@ b) negli altri casi, la posizione comune e' adottata
 
 all'unanimita', dal Consiglio o dai rappresentanti dei Governi degli Stati membri riuniti in seno al Consiglio, previa consultazione della Commissione.
 
-### Articolo 2
+#### Articolo 2
 
 1\. - Le decisioni e raccomandazioni adottate dal Consiglio di
 
@@ -967,13 +967,13 @@ Associazione in quei settori che, ai termini del Trattato che istituisce la Comu
 
 Associazione vertano su un settore che, ai termini del Trattato che istituisce la Comunita', non e' di competenza della Comunita' stessa, gli Stati membri prendono i provvedimenti d'applicazione necessari.
 
-### Articolo 3
+#### Articolo 3
 
 Le procedure definite nei precedenti articoli 1 e 2 non
 
 pregiudicano la ripartizione delle competenze tra gli Stati membri e la Comunita', quale e' stabilita dal Trattato che istituisce la Comunita'.
 
-### Articolo 4
+#### Articolo 4
 
 Uno Stato membro che ritenga necessario fare ricorso all'articolo 25 dell'Accordo di Associazione nei settori che non sono di competenza della Comunita' consulta preventivamente gli altri Stati membri.
 
@@ -981,7 +981,7 @@ Se il Consiglio di Associazione e' indotto a prendere posizione
 
 sull'azione dello Stato membro di cui al comma precedente, la posizione presentata dalla Comunita' e' quella dello Stato membro interessato, a meno che i rappresentanti degli Stati membri, riuniti in seno al Consiglio, non decidano altrimenti all'unanimita'.
 
-### Articolo 5
+#### Articolo 5
 
 1\. - Il Consiglio, qualora lo ritenga necessario, potra' in
 
@@ -991,13 +991,13 @@ qualsiasi momento procedere all'esame delle disposizioni del presente Accordo. L
 
 b), e 2, paragrafo 1 del presente Accordo al piu' tardi al termine della seconda tappa del periodo transitorio previsto dall'articolo 8 del Trattato che istituisce la Comunita'. Le modifiche sono adottate dal Consiglio secondo la procedura di cui al paragrafo 1 del presente articolo.
 
-### Articolo 6
+#### Articolo 6
 
 Il presente Accordo sara' approvato da ciascuno Stato membro
 
 conformemente alle proprie norme costituzionali. Il Governo di ciascuno Stato membro notifichera' al Segretario dei Consigli delle Comunita' europee lo adempimento delle procedure richieste per l'entrata in vigore del presente Accordo. Quest'ultimo entrera' in vigore alla data della notifica effettuata dal Governo che procedera' per ultimo a detta notifica.
 
-### Articolo 7
+#### Articolo 7
 
 Il presente Accordo, redatto in unico esemplare in lingua francese,
 
@@ -1079,11 +1079,11 @@ Considerando che e' necessario fissare le modalita' per assicurare la gestione d
 
 Hanno convenuto le seguenti disposizioni:
 
-### Articolo 1
+#### Articolo 1
 
 I prestiti previsti dal Protocollo finanziario sono concessi dalla Banca europea per gli investimenti che agisce in virtu' di un mandato degli Stati membri.
 
-### Articolo 2
+#### Articolo 2
 
 Le operazioni derivanti dal mandato sono effettuate dalla Banca per
 
@@ -1093,7 +1093,7 @@ Il rischio su ciascun prestito e' ripartito tra gli Stati membri
 
 proporzionalmente alla rispettiva quota, fissata dall'articolo 4.
 
-### Articolo 3
+#### Articolo 3
 
 Il finanziamento dei prestiti previsti dal presente Accordo e'
 
@@ -1111,7 +1111,7 @@ b) mediante risorse che la Banca puo' raccogliere con:
 
 2\. L'accensione di mutui diretti presso investitori pubblici o parastatali.
 
-### Articolo 4
+#### Articolo 4
 
 L'importo di 175 milioni di unita' di conto previsto dall'articolo 2 del Protocollo finanziario e' ripartito fra gli Stati membri nel modo seguente:
 
@@ -1129,7 +1129,7 @@ Paesi Bassi . . . . . . . . . . . 12,7 milioni di unita' di conto
 
 Ogni Stato membro si impegna a mettere a disposizione della Banca, alle condizioni previste dall'articolo 5, le risorse necessarie per la concessione di prestiti fino a concorrenza della propria quota.
 
-### Articolo 5
+#### Articolo 5
 
 Nella misura in cui uno Stato membro fornisce alla Banca la propria
 
@@ -1157,7 +1157,7 @@ impiegati dalla Banca e il ricavato degli interessi dei prestiti concessi.
 
 Per l'importo e le condizioni delle operazioni di cui all'articolo 3, lettera b), e' necessario l'accordo preventivo dello Stato membro sulla cui quota saranno imputate queste operazioni.
 
-### Articolo 6
+#### Articolo 6
 
 L'ammontare delle somme da impegnare ogni anno a fronte dei
 
@@ -1173,7 +1173,7 @@ Queste previsioni sono oggetto di una ricapitolazione semestrale il
 
 30 giugno e il 31 dicembre di ogni anno.
 
-### Articolo 7
+#### Articolo 7
 
 Gli importi forniti da ogni Stato membro o raccolti per suo conto sono imputati alla quota di detto Stato in base alle parita' rispetto all'unita' di conto in vigore alla data del ritiro dei fondi in vista del versamento al mutuatari.
 
@@ -1185,7 +1185,7 @@ I ritiri di fondi da parte della Banca hanno luogo man mano che
 
 detti fondi vengano effettivamente utilizzati.
 
-### Articolo 8
+#### Articolo 8
 
 Gli importi delle linee di credito corrispondenti ad ogni singolo prestito accordato dalla Banca sono espressi in unita' di conto ed imputati nel giorno della firma di ogni contratto di prestito, sull'ammontare globale dell'aiuto finanziario, quale e' fissato nell'articolo 2 del Protocollo finanziario.
 
@@ -1205,7 +1205,7 @@ Gli importi incassati dalla Banca in capitale ed interessi su
 
 ciascun prestito sono ripariti fra gli Stati membri proporzionalmente al capitale di tale prestito imputato alla loro quota. Tali importi vengono restituiti secondo modalita' da convenire tra la Banca e ciascuno Stato membro.
 
-### Articolo 9
+#### Articolo 9
 
 I principi generali concernenti la scelta dei progetti e le
 
@@ -1215,7 +1215,7 @@ Il Consiglio dei governatori della Banca stabilisce le direttive
 
 relative alla politica che la Banca dovra' seguire tenendo particolarmente conto, degli obiettivi fissati dall'Accordo di associazione.
 
-### Articolo 10
+#### Articolo 10
 
 I prestiti accordati dalla Banca secondo la stessa procedura
 
@@ -1249,13 +1249,13 @@ Lussemburgo . . . . . . . . . . . . . . . . . . . . . . . . . . 1
 
 Paesi Bassi . . . . . . . . . . . . . . . . . . . . . . . . . . 7
 
-### Articolo 11
+#### Articolo 11
 
 Il presente Accordo sara' approvato da ciascuno Stato membro
 
 conformemente alle proprie norme costituzionali. Il Governo di ciascuno Stato membro notifichera' al Segretariato dei Consigli delle Comunita' Europee l'adempimento delle procedure richieste per l'entrata in vigore del presente Accordo. Quest'ultimo entrera' in vigore alla data della notifica effettuata dal Governo che procedera' per ultimo a detta notifica.
 
-### Articolo 12
+#### Articolo 12
 
 Il presente Accordo, redatto in unico esemplare in lingua francese,
 

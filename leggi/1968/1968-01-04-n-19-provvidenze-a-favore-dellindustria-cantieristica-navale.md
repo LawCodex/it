@@ -26,11 +26,9 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I.
+## TITOLO I. - CONTRIBUTI PER LAVORI NAVALI
 
-### CONTRIBUTI PER LAVORI NAVALI
-
-#### Art. 1 - Contributo per nuove costruzioni navali
+### Art. 1 - Contributo per nuove costruzioni navali
 
 Per la costruzione, allestimento e arredamento di navi mercantili a scafo metallico possono essere corrisposti, per il quinquennio 1967-1971, ai cantieri navali costruttori contributi decrescenti riferiti al costo di produzione.
 
@@ -42,13 +40,13 @@ Per il calcolo del contributo si applica la percentuale corrispondente all'anno 
 
 L'ammontare del contributo indicato nel provvedimento di concessione non puo' essere modificato per successive richieste di variazione degli elementi forniti dal cantiere in base ai quali il contributo stesso e' calcolato.
 
-#### Art. 2 - Massimali di costi per alcuni tipi di classi di navi
+### Art. 2 - Massimali di costi per alcuni tipi di classi di navi
 
 Tenuto conto della finalita' di stimolare i cantieri a realizzare le misure necessarie per ridurre i propri costi, per i tipi e classi di navi indicati nelle tabelle n. 2, 2-bis, 2-ter e 2-quater allegate alla presente legge il contributo di cui all'articolo 1 non potra' essere commisurato a costi di costruzione maggiori di quelli risultanti dall'applicazione delle tabelle stesse.
 
 Le tabelle di cui al precedente comma potranno essere modificate o integrate in modo da adeguarle alle variazioni dei costi. Le modificazioni e integrazioni delle tabelle sono adottate con decreto del Presidente della Repubblica su proposta del Ministro per la marina mercantile previa deliberazione del Consiglio dei Ministri.
 
-#### Art. 3 - Riduzione del contributo per prodotti esteri importati in franchigia doganale o usati
+### Art. 3 - Riduzione del contributo per prodotti esteri importati in franchigia doganale o usati
 
 Qualora nella costruzione siano impiegati prodotti finiti di provenienza estera importati in franchigia doganale o usati, il contributo di cui all'articolo 1 e' ridotto di un importo pari al 10 per cento del loro valore.
 
@@ -60,7 +58,7 @@ Non si fa luogo a riduzione qualora i prodotti finiti esteri siano stati naziona
 
 In ogni caso il contributo e' ridotto dell'importo risultante dall'applicazione della tabella n. 3 qualora nella costruzione sia impiegato un apparato motore di propulsione avente potenza normale non superiore a 250 cavalli asse o un apparato motore di propulsione di potenza normale compresa tra 251 e 500 cavalli asse avente un numero di giri superiore a 500 al minuto primo.
 
-#### Art. 4 - Domanda di concessione del contributo per nuove costruzioni navali
+### Art. 4 - Domanda di concessione del contributo per nuove costruzioni navali
 
 Le domande di concessione del contributo di cui all'articolo 1 devono essere presentate al Ministero della marina mercantile.
 
@@ -74,7 +72,7 @@ Il contributo e' concesso con decreto del Ministro per la marina mercantile.
 
 All'inizio di ogni anno, il Ministro per la marina mercantile, puo' stabilire con proprio decreto, sentito il Comitato interministeriale per la programmazione economica, criteri preferenziali per l'ammissione delle nuove domande al contributo di cui all'articolo 1.
 
-#### Art. 5 - Inizio e ultimazione dei lavori
+### Art. 5 - Inizio e ultimazione dei lavori
 
 I lavori di costruzione delle navi dichiarati in proprio dai cantieri debbono essere perentoriamente iniziati entro 4 mesi dalla data di presentazione delle domande.
 
@@ -98,13 +96,13 @@ I termini suindicati, sia per l'inizio che per l'ultimazione delle costruzioni, 
 
 Il cantiere che non abbia osservato i termini di inizio e quelli di ultimazione dei lavori decade dal contributo.
 
-#### Art. 6 - Contratto di commessa
+### Art. 6 - Contratto di commessa
 
 Qualora il cantiere abbia dichiarato che la costruzione viene eseguita su commessa dovra' presentare al Ministero della marina mercantile, entro due mesi dalla data di ricevimento della comunicazione di cui al quarto comma del precedente articolo 4, copia autentica del contratto debitamente registrato, dal quale risulti la commessa della nave.
 
 In caso di mancata presentazione del contratto il cantiere decade dal contributo.
 
-#### Art. 7 - Classificazione delle navi
+### Art. 7 - Classificazione delle navi
 
 Le navi di nuova costruzione per conto di nazionali, per le quali sia stato concesso il contributo, devono essere iscritte nella piu' alta classe del Registro italiano navale nei casi in cui la classificazione sia obbligatoria.
 
@@ -114,7 +112,7 @@ Le prove suddette non devono essere eseguite per le navi costruite su prototipi 
 
 L'inosservanza delle disposizioni dei primi due commi determina la decadenza dal contributo.
 
-#### Art. 8 - Liquidazione dei contributi per nuove costruzioni navali
+### Art. 8 - Liquidazione dei contributi per nuove costruzioni navali
 
 Sul contributo previsto dall'articolo 1 possono essere corrisposti tre anticipi pari ciascuno al 25 per cento dell'ammontare indicato nel provvedimento di concessione e pagabili al raggiungimento di un grado di avanzamento totale della costruzione rispettivamente del 25, del 50 e del 75 per cento.
 
@@ -122,7 +120,7 @@ A lavori ultimati il Ministro per la marina mercantile determina per ciascuna co
 
 Qualora il contributo, risultante dalla suddetta determinazione, sia inferiore ai nove decimi di quello indicato nel provvedimento di concessione di cui all'articolo 1, l'importo complessivo del contributo medesimo e' liquidato in misura pari alla differenza tra il doppio dell'ammontare calcolato a lavori ultimati e i nove decimi di quello stabilito nel provvedimento di concessione.
 
-#### Art. 9 - Contributo per trasformazioni di navi mercantili a scafo metallico
+### Art. 9 - Contributo per trasformazioni di navi mercantili a scafo metallico
 
 Per la trasformazione di navi mercantili a scafo metallico puo' essere concesso all'assuntore dei lavori un contributo nei limiti e con i criteri indicati negli articoli 1 e 3 riferito al costo complessivo della trasformazione.
 
@@ -132,7 +130,7 @@ Il contributo di cui al primo comma non e' cumulabile con quelli previsti dagli 
 
 Per la concessione del contributo l'assuntore della trasformazione deve presentare domanda al Ministero della marina mercantile indicando le caratteristiche della nave, la descrizione e il costo complessivo dei lavori.
 
-#### Art. 10 - Installazione di nuovi apparati motori di propulsione
+### Art. 10 - Installazione di nuovi apparati motori di propulsione
 
 Fuori dal caso previsto dall'articolo 9 per l'installazione di nuovi apparati motori di propulsione su navi mercantili in esercizio e su navi di nuova costruzione con scafo diverso dal ferro puo' essere concesso un contributo integrativo nella misura di cui alla tabella n. 3.
 
@@ -142,13 +140,13 @@ Qualora nell'apparato motore di propulsione vengano incorporati prodotti finiti 
 
 Il contributo non puo' essere concesso per gli apparati motori di propulsione di potenza normale non superiore a 250 cavalli asse e per quelli con un numero di giri superiore a 500 al minuto primo, di potenza compresa tra 251 e 500 cavalli asse e nel caso previsto dal terzo comma dell'articolo 3.
 
-#### Art. 11 - Contributo per lavori di riparazione, modificazione e trasformazione di navi mercantili
+### Art. 11 - Contributo per lavori di riparazione, modificazione e trasformazione di navi mercantili
 
 Fuori dai casi previsti dagli articoli 9 e 10 per la riparazione e modificazione di navi mercantili e dei relativi macchinari e per la trasformazione di navi mercantili a scafo in legno puo' essere concesso agli assuntori dei lavori un contributo integrativo di lire 60 per chilogrammo sui materiali metallici e di lire 50 per chilogrammo sui materiali legnosi o di plastica o ignifughi impiegati, con esclusione della zavorra fissa.
 
 Il contributo non puo' essere concesso se il peso complessivo dei materiali impiegati e' inferiore a 10.000 chilogrammi.
 
-#### Art. 12 - Apprestamenti difensivi
+### Art. 12 - Apprestamenti difensivi
 
 Ferme restando le disposizioni del regio decreto-legge 19 settembre 1935, n. 1836, convertito nella legge 9 gennaio 1936, n. 147, e successive modificazioni, sulle navi mercantili nazionali da carico secco, deve essere installato e mantenuto in efficienza a spese dei proprietari in corrispondenza del boccaporto di maggiori dimensioni un picco da carico di portata non inferiore a:
 
@@ -170,7 +168,7 @@ I costruttori debbono sottoporre, almeno 30 giorni prima dell'inizio della costr
 
 Per le navi non ritenute atte a ricevere gli apprestamenti e le attrezzature di cui ai commi precedenti, il Ministro per la difesa, su conforme parere del capo di Stato maggiore della marina, puo' concedere deroghe ai relativi obblighi.
 
-#### Art. 13 - Termine per la presentazione dei documenti di liquidazione
+### Art. 13 - Termine per la presentazione dei documenti di liquidazione
 
 I documenti per la liquidazione definitiva dei contributi previsti dal presente titolo debbono essere presentati, a pena di decadenza:
 
@@ -182,7 +180,7 @@ c) per i lavori diversi da quelli indicati alle lettere a) e b) non oltre sei me
 
 In caso di decadenza dal contributo per inosservanza dei termini di cui al precedente comma e in ogni altro caso di decadenza devono essere restituiti gli importi eventualmente corrisposti maggiorati degli interessi commisurati al tasso legale dalla data della loro riscossione.
 
-#### Art. 14 - Campo di applicazione della legge
+### Art. 14 - Campo di applicazione della legge
 
 I benefici della presente legge non si applicano:
 
@@ -202,17 +200,15 @@ In ogni caso il contributo di cui all'articolo 1 puo' essere concesso soltanto a
 
 Per i lavori diversi dalle nuove costruzioni i corrispondenti contributi possono essere concessi soltanto alle imprese gia' in esercizio al 1 gennaio 1967.
 
-## TITOLO II.
+## TITOLO II. - PROVVIDENZE PER LA RISTRUTTURAZIONE E LA RIORGANIZZAZIONE DELLE INDUSTRIE CANTIERISTICHE E COSTRUTTRICI DI MOTORI NAVALI
 
-### PROVVIDENZE PER LA RISTRUTTURAZIONE E LA RIORGANIZZAZIONE DELLE - INDUSTRIE CANTIERISTICHE E COSTRUTTRICI DI MOTORI NAVALI
-
-#### Art. 15 - Piani di ristrutturazione e riorganizzazione aziendale
+### Art. 15 - Piani di ristrutturazione e riorganizzazione aziendale
 
 Entro due anni dall'entrata in vigore della presente legge, le imprese cantieristiche e le imprese costruttrici di motori navali possono sottoporre all'approvazione del Ministro per la marina mercantile piani di ristrutturazione e riorganizzazione aziendale destinati a migliorare la produzione ed accrescerne la capacita' competitiva.
 
 L'approvazione e' data in base alla valutazione della rispondenza del piano alle finalita' sopra indicate, sentito il parere del comitato previsto dall'articolo 24.
 
-#### Art. 16 - Contenuto dei piani
+### Art. 16 - Contenuto dei piani
 
 Il piano, presentato da una o piu' imprese esercenti attivita' di cui al precedente articolo, deve prevedere, congiuntamente o alternativamente:
 
@@ -224,17 +220,17 @@ c) operazioni di trasformazione, fusione, concentrazione mediante apporto di com
 
 L'impresa risultante dalle operazioni di cui alla lettera c) deve avere per oggetto l'esercizio di attivita' relative alla produzione navale.
 
-#### Art. 17 - Agevolazioni tributarie per la trasformazione, fusione e concentrazione delle imprese
+### Art. 17 - Agevolazioni tributarie per la trasformazione, fusione e concentrazione delle imprese
 
 Alle operazioni di cui alla lettera c) dell'articolo 16 ed agli aumenti di capitale consequenziali alle operazioni predette, posti in essere in attuazione dei piani approvati dal Ministero della marina mercantile, si applicano per il periodo di efficacia della presente legge le agevolazioni previste dagli articoli 1 e 2 della legge 18 marzo 1965, n. 170.
 
-#### Art. 18 - Trattamento di plusvalenze
+### Art. 18 - Trattamento di plusvalenze
 
 Le plusvalenze derivanti dal realizzo di beni immobili in esecuzione dei piani di cui all'articolo 15 sono esenti dall'imposta di ricchezza mobile categoria B alle condizioni e modalita' previste dall'articolo 1 della legge 15 settembre 1964, n. 754, purche' siano reinvestite nei due anni successivi all'approvazione dei piani.
 
 I beni immobili suddetti devono essere posseduti anteriormente al 1 gennaio 1963.
 
-#### Art. 19 - Contributo sugli investimenti
+### Art. 19 - Contributo sugli investimenti
 
 ((Per gli investimenti attuati in esecuzione dei piani di cui all'articolo 16 puo' essere corrisposto alle imprese cantieristiche un contributo del 25 per cento calcolato sugli investimenti stessi nei limiti determinati dal Ministro per la marina mercantile sentito il comitato previsto dall'articolo 24.
 
@@ -250,7 +246,7 @@ Qualora la realizzazione del piano non avvenga nel termine suddetto l'impresa de
 
 ## TITOLO III - CONVERSIONE DELL'ATTIVITA' CANTIERISTICA
 
-#### Art. 20 - Piani di conversione dell'attivita' cantieristica
+### Art. 20 - Piani di conversione dell'attivita' cantieristica
 
 Entro tre anni dall'entrata in vigore della presente legge i cantieri navali possono sottoporre all'approvazione del Ministro per la marina mercantile piani di conversione della loro produzione in altra attivita' industriale.
 
@@ -258,11 +254,11 @@ La facolta' di cui al comma precedente e' limitata ai cantieri che nel quinquenn
 
 L'approvazione dei piani e' data sentito il parere del comitato di cui all'articolo 24; tale approvazione non puo' essere data se i piani non prevedono il reimpiego di personale addetto all'attivita' cantieristica nelle attivita' sostitutive o in altre della stessa zona geografica
 
-#### Art. 21 - Agevolazioni tributarie
+### Art. 21 - Agevolazioni tributarie
 
 Alle operazioni di conversione in esecuzione dei piani di cui all'articolo precedente si applicano le disposizioni contenute negli articoli 17 e 18.
 
-#### Art. 22 - Contributo per conversione dell'attivita' cantieristica
+### Art. 22 - Contributo per conversione dell'attivita' cantieristica
 
 Ai cantieri navali che procedano alla esecuzione dei piani approvati ai sensi dell'articolo 20 puo' essere concesso un contributo non superiore ai due quinti dei contributi liquidati complessivamente per nuove costruzioni navali ultimate nel quinquennio 1962-1966.
 
@@ -282,7 +278,7 @@ La L. 27 dicembre 1973, n.878 ha disposto (con l'art. 21, comma 5) l'abrogazione
 
 ## TITOLO IV - DISPOSIZIONI COMUNI E TRANSITORIE
 
-#### Art. 23 - Controllo e vigilanza
+### Art. 23 - Controllo e vigilanza
 
 Ai fini dell'applicazione della presente legge, spetta al Ministero della marina mercantile il controllo e la vigilanza sull'attivita' dei cantieri navali ammessi alle provvidenze della legge stessa.
 
@@ -298,7 +294,7 @@ Per l'esercizio della vigilanza e' assegnato al Registro italiano navale un quin
 
 Il Ministro per la marina mercantile e' autorizzato a corrispondere altresi', a carico dei fondi di cui al quinto comma, speciali contributi a favore di enti ed istituti di studio in materia di costruzione, di architettura e di istruzione navale.
 
-#### Art. 24 - Comitato consultivo
+### Art. 24 - Comitato consultivo
 
 Presso il Ministero della marina mercantile e' costituito un comitato consultivo composto da:
 
@@ -340,23 +336,23 @@ e) esamina ogni altra questione relativa all'applicazione della presente legge s
 
 Annualmente il comitato redige una relazione sullo svolgimento della propria attivita' che, a cura del Ministro per la marina mercantile, viene trasmessa al Comitato interministeriale per la programmazione economica.
 
-#### Art. 25 - Norme regolamentari
+### Art. 25 - Norme regolamentari
 
 Le norme regolamentari per l'esecuzione della presente legge sono emanate con decreto del Presidente della Repubblica, su proposta del Ministro per la marina mercantile, di concerto con i Ministri per il tesoro, per le finanze, per l'industria, il commercio e l'artigianato, per la difesa e per le partecipazioni statali.
 
 Fino all'emanazione del regolamento previsto dal precedente comma, si applicano, in quanto compatibili, le disposizioni del regio decreto 13 aprile 1939, n. 1101 e successive modificazioni, e le disposizioni esplicative ed adeguative che si rendessero necessarie da emanarsi con decreto del Ministro per la marina mercantile.
 
-#### Art. 26 - Lavori navali non ammessi ai contributi della legge 29 novembre 1965 n. 1372
+### Art. 26 - Lavori navali non ammessi ai contributi della legge 29 novembre 1965 n. 1372
 
 Sugli stanziamenti di cui alla presente legge possono essere concessi i contributi, previsti dagli articoli 1, 9 e 10 della legge 29 novembre 1965, n. 1372, per i lavori navali cui si riferiscono le domande, debitamente documentate, presentate entro il 31 dicembre 1966 qualora le domande medesime non siano state accolte per l'esaurimento degli stanziamenti della stessa legge 29 novembre 1965, n. 1372.
 
 Inoltre, per i lavori previsti dagli articoli 9 e 10 della legge 29 novembre 1965, n. 1372, iniziati entro il 31 dicembre 1966 e per i quali non sia stata presentata la domanda di ammissione entro la data suddetta, potranno essere concessi i relativi contributi purche' le domande di ammissione siano presentate entro tre mesi dalla data di entrata in vigore della presente legge.
 
-#### Art. 27 - Lavori in corso di esecuzione di piani gia' predisposti
+### Art. 27 - Lavori in corso di esecuzione di piani gia' predisposti
 
 Qualora i piani di cui all'articolo 15 siano stati predisposti anteriormente all'entrata in vigore della presente legge e concernano lavori iniziati dopo il 1 gennaio 1965 ed in corso al 31 dicembre 1966, i piani medesimi devono essere presentati entro 6 mesi dalla entrata in vigore della legge stessa.
 
-#### Art. 28 - Durata della legge e stanziamenti
+### Art. 28 - Durata della legge e stanziamenti
 
 La presente legge ha effetto dal 1 gennaio 1967 al 31 dicembre 1971.
 
@@ -398,7 +394,7 @@ Visto, il Guardasigilli: REALE
 
 ## TITOLO IV - DISPOSIZIONI COMUNI E TRANSITORIE
 
-#### Tabelle
+### Tabelle
 
 TABELLA. N. 1
 

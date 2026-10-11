@@ -710,7 +710,7 @@ f) dopo l'articolo 90-bis, e' inserito il seguente:
 
 > p-ter) al fatto che la partecipazione del querelante a un programma di giustizia riparativa, concluso con un esito riparativo e con il rispetto degli eventuali impegni comportamentali assunti da parte dell'imputato, comporta la remissione tacita di querela.".
 
-## Capo II - Modifiche al Libro II del codice di procedura penale
+### Capo II - Modifiche al Libro II del codice di procedura penale
 
 ##### Art. 6
 
@@ -1356,7 +1356,7 @@ Il ripristino del corretto funzionamento e' certificato, attestato e comunicato 
 
 > 8-bis Se la restituzione nel termine e' concessa a norma del comma 2.1, non si tiene conto, ai fini della improcedibilita' di cui all'articolo 344-bis, del tempo intercorso tra il novantesimo giorno successivo alla scadenza del termine previsto dall'articolo 544, come eventualmente prorogato ai sensi dell'articolo 154 delle norme di attuazione, di coordinamento e transitorie del presente codice, e la notificazione alla parte dell'avviso di deposito dell'ordinanza che concede la restituzione.".
 
-## Capo III - Modifiche al Libro III del codice di procedura penale
+### Capo III - Modifiche al Libro III del codice di procedura penale
 
 ##### Art. 12
 
@@ -1370,7 +1370,7 @@ Modifiche al Titolo III del Libro III del codice di procedura penale
 
 3\. Il giudice accoglie l'opposizione quando accerta che la perquisizione e' stata disposta fuori dei casi previsti dalla legge.».
 
-## Capo IV - Modifiche al Libro IV del codice di procedura penale
+### Capo IV - Modifiche al Libro IV del codice di procedura penale
 
 ##### Art. 13
 
@@ -1624,7 +1624,7 @@ c) all'articolo 320:
 
 > 2\. Salva l'azione per ottenere con le forme ordinarie il pagamento delle somme che rimangono ancora dovute, l'esecuzione forzata sui beni sequestrati ha luogo nelle forme prescritte dal codice di procedura civile. Sul prezzo ricavato dalla vendita dei beni sequestrati e sulle somme depositate a titolo di cauzione e non devolute alla cassa delle ammende, sono pagate, nell'ordine, le somme dovute alla parte civile a titolo di risarcimento del danno e di spese processuali, le spese di procedimento e ogni altra somma dovuta all'erario dello Stato.".
 
-## Capo V - Modifiche al Libro V del codice di procedura penale
+### Capo V - Modifiche al Libro V del codice di procedura penale
 
 ##### Art. 15
 
@@ -2620,7 +2620,7 @@ n) all'articolo 429, al comma 1:
 
 > 4\. ABROGATO.".
 
-## Capo VI - Modifiche al Libro VI del codice di procedura penale
+### Capo VI - Modifiche al Libro VI del codice di procedura penale
 
 ##### Art. 24
 
@@ -3028,7 +3028,7 @@ c) all'articolo 464-septies, al comma 2, la parola «processo» e' sostituita da
 
 > 2\. In caso di esito negativo della prova, il giudice dispone con ordinanza che il procedimento riprenda il suo corso.".
 
-## Capo VII - Modifiche al Libro VII del codice di procedura penale
+### Capo VII - Modifiche al Libro VII del codice di procedura penale
 
 ##### Art. 30
 
@@ -3204,7 +3204,7 @@ Agli stessi fini, il giudice puo' acquisire altresi', dai soggetti indicati dall
 
 4\. Quando il processo e' sospeso ai sensi del comma 1, la lettura della motivazione redatta a norma dell'articolo 544, comma 1, segue quella del dispositivo integrato o confermato e puo' essere sostituita con un'esposizione riassuntiva. Fuori dai casi di cui all'articolo 544, comma 1, i termini per il deposito della motivazione decorrono, ad ogni effetto di legge, dalla lettura del dispositivo, confermato o integrato, di cui al comma 3.».
 
-## Capo VIII - Modifiche al Libro VIII del codice di procedura penale
+### Capo VIII - Modifiche al Libro VIII del codice di procedura penale
 
 ##### Art. 32
 
@@ -3386,7 +3386,7 @@ f) dopo l'articolo 558, e' inserito il seguente:
 
 > 5\. Per tutto cio' che non e' espressamente previsto si osservano le disposizioni contenute nel libro settimo, in quanto compatibili.".
 
-## Capo IX - Modifiche al Libro IX del codice di procedura penale
+### Capo IX - Modifiche al Libro IX del codice di procedura penale
 
 ##### Art. 33
 
@@ -3688,7 +3688,7 @@ Modifiche al Titolo IV del Libro IX del codice di procedura penale
 
 4\. Si applicano gli articoli 635 e 640.».
 
-## Capo X - Modifiche al Libro X del codice di procedura penale
+### Capo X - Modifiche al Libro X del codice di procedura penale
 
 ##### Art. 38
 
@@ -3874,7 +3874,7 @@ c) all'articolo 678, al comma 1-bis, le parole: «della semidetenzione e della l
 
 > 3.2. L'avviso di fissazione dell'udienza, notificato all'interessato, contiene, a pena di nullita', l'avvertimento della facolta' di parteciparvi personalmente. Se l'interessato detenuto o internato ne fa richiesta, il giudice dispone la traduzione. Si applicano in ogni caso le forme e le modalita' di partecipazione a distanza nei procedimenti in camera di consiglio previste dalla legge. La partecipazione all'udienza avviene a distanza anche quando l'interessato, detenuto o internato, ne fa richiesta ovvero quando lo stesso e' detenuto o internato in un luogo posto fuori dalla circoscrizione del giudice. Ove lo ritenga opportuno, il giudice dispone la traduzione dell'interessato.".
 
-## Capo XI - Modifiche al Libro XI del codice di procedura penale
+### Capo XI - Modifiche al Libro XI del codice di procedura penale
 
 ##### Art. 40
 
@@ -3908,9 +3908,7 @@ b) all'articolo 717, al comma 2, dopo il secondo periodo sono inseriti i seguent
 
 > 2-bis. La rinuncia dell'estradato alla garanzia del principio di specialita' e' irrevocabile, salvo l'intervento di fatti nuovi che modifichino la situazione esistente al momento della rinuncia.".
 
-## Titolo III - Modifiche alle norme di attuazione, di coordinamento e transitorie
-
-### del codice di procedura penale
+## Titolo III - Modifiche alle norme di attuazione, di coordinamento e transitorie del codice di procedura penale
 
 ##### Art. 41
 
@@ -4340,7 +4338,7 @@ h) la garanzia del tempo necessario allo svolgimento di ciascun programma.
 
 4\. L'accesso ai programmi di giustizia riparativa e' sempre favorito, senza discriminazioni e nel rispetto della dignita' di ogni persona. Puo' essere limitato soltanto in caso di pericolo concreto per i partecipanti, derivante dallo svolgimento del programma.
 
-## Sezione II - Accesso ai programmi di giustizia riparativa
+#### Sezione II - Accesso ai programmi di giustizia riparativa
 
 ##### Art. 44
 
@@ -4366,7 +4364,7 @@ c) altri soggetti appartenenti alla comunita', quali familiari della vittima del
 
 d) chiunque altro vi abbia interesse.
 
-## Sezione III - Persone minori di eta'
+#### Sezione III - Persone minori di eta'
 
 ##### Art. 46
 
@@ -4382,9 +4380,9 @@ Diritti e garanzie per le persone minori di eta'
 
 > "Art. 3. - 1. In tutte le decisioni relative ai fanciulli, di competenza sia delle istituzioni pubbliche o private di assistenza sociale, dei tribunali, delle autorita' amministrative o degli organi legislativi, l'interesse superiore del fanciullo deve essere una considerazione preminente.".
 
-## Capo II - Garanzie dei programmi di giustizia riparativa
+### Capo II - Garanzie dei programmi di giustizia riparativa
 
-### Sezione I - Disposizioni in materia di diritti dei partecipanti
+#### Sezione I - Disposizioni in materia di diritti dei partecipanti
 
 ##### Art. 47
 
@@ -4500,7 +4498,7 @@ Diritto all'assistenza linguistica
 
 > 4\. Sulla dichiarazione di ricusazione o di astensione decide il giudice con ordinanza.".
 
-## Sezione II - Doveri e garanzie dei mediatori e dei partecipanti
+#### Sezione II - Doveri e garanzie dei mediatori e dei partecipanti
 
 ##### Art. 50
 
@@ -4550,9 +4548,9 @@ Tutela del segreto
 
 > 3\. Le disposizioni previste dai commi 1 e 2 si applicano ai giornalisti professionisti iscritti nell'albo professionale, relativamente ai nomi delle persone dalle quali i medesimi hanno avuto notizie di carattere fiduciario nell'esercizio della loro professione. Tuttavia se le notizie sono indispensabili ai fini della prova del reato per cui si procede e la loro veridicita' puo' essere accertata solo attraverso l'identificazione della fonte della notizia, il giudice ordina al giornalista di indicare la fonte delle sue informazioni.".
 
-## Capo III - Programmi di giustizia riparativa
+### Capo III - Programmi di giustizia riparativa
 
-### Sezione I - Svolgimento dei programmi di giustizia riparativa
+#### Sezione I - Svolgimento dei programmi di giustizia riparativa
 
 ##### Art. 53
 
@@ -4600,7 +4598,7 @@ Disciplina degli esiti riparativi
 
 5\. I difensori della persona indicata come autore dell'offesa e della vittima del reato hanno facolta' di assistere i partecipanti nella definizione degli accordi relativi all'esito materiale.
 
-## Sezione II - Valutazione dell'autorita' giudiziaria
+#### Sezione II - Valutazione dell'autorita' giudiziaria
 
 ##### Art. 57
 
@@ -4640,9 +4638,9 @@ Valutazione dell'esito del programma di giustizia riparativa
 
 > 4\. dalle condizioni di vita individuale, familiare e sociale del reo.".
 
-## Capo IV - Formazione dei mediatori esperti in programmi di giustizia riparativa e requisiti per l'esercizio dell'attività
+### Capo IV - Formazione dei mediatori esperti in programmi di giustizia riparativa e requisiti per l'esercizio dell'attività
 
-### Sezione I - Formazione dei mediatori esperti
+#### Sezione I - Formazione dei mediatori esperti
 
 ##### Art. 59
 
@@ -4668,7 +4666,7 @@ Formazione dei mediatori esperti in programmi di giustizia riparativa
 
 10\. Con decreto del Ministro della giustizia, adottato di concerto con il Ministro del lavoro e delle politiche sociali e con il Ministro dell'universita' e della ricerca, entro sei mesi dalla data di entrata in vigore del presente decreto, sono disciplinati le forme e i tempi della formazione pratica e teorica di cui al comma 7, nonche' le modalita' delle prove di cui ai commi 8 e 9. Gli oneri per la partecipazione alle attivita' di formazione ed alla prova finale teorico-pratica sono posti a carico dei partecipanti.
 
-## Sezione II - Requisiti per l'esercizio dell'attivita'
+#### Sezione II - Requisiti per l'esercizio dell'attivita'
 
 ##### Art. 60
 
@@ -4680,9 +4678,9 @@ Requisiti per l'esercizio dell'attivita' di mediatore esperto. Elenco dei mediat
 
 3\. L'istituzione e la tenuta dell'elenco di cui al comma 2 avvengono nell'ambito delle risorse umane, finanziarie e strumentali gia' esistenti e disponibili a legislazione vigente, presso il Ministero della giustizia, senza nuovi o maggiori oneri per il bilancio dello Stato.
 
-## Capo V - Servizi per la giustizia riparativa
+### Capo V - Servizi per la giustizia riparativa
 
-### Sezione I - Coordinamento dei servizi e livelli essenziali delle prestazioni
+#### Sezione I - Coordinamento dei servizi e livelli essenziali delle prestazioni
 
 ##### Art. 61
 
@@ -4712,7 +4710,7 @@ Livelli essenziali delle prestazioni
 
 > \- Per l'articolo 8 del decreto legislativo 28 agosto 1997, n. 281 (Definizione ed ampliamento delle attribuzioni della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano ed unificazione, per le materie ed i compiti di interesse comune delle regioni, delle province e dei comuni, con la Conferenza Stato-citta' ed autonomie locali) si vedano le note alle premesse del presente decreto.
 
-## Sezione II - Centri di giustizia riparativa
+#### Sezione II - Centri di giustizia riparativa
 
 ##### Art. 63
 
@@ -4894,7 +4892,7 @@ Modifiche al decreto legislativo 8 giugno 2001, n. 231
 
 > 4\. Si osservano le disposizioni del titolo V del libro sesto e dell'articolo 557 del codice di procedura penale, in quanto compatibili.".
 
-## Capo II - Modifiche in materia di giustizia digitale
+### Capo II - Modifiche in materia di giustizia digitale
 
 ##### Art. 69
 
@@ -4976,9 +4974,7 @@ d) il comma 8 e' sostituito dal seguente: «8. Quando non e' possibile procedere
 
 > 17\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.".
 
-## Capo III - Modifiche in materia di estinzione delle contravvenzioni, di pene
-
-### sostitutive delle pene detentive brevi e di pene pecuniarie
+### Capo III - Modifiche in materia di estinzione delle contravvenzioni, di pene sostitutive delle pene detentive brevi e di pene pecuniarie
 
 ##### Art. 70
 
@@ -5602,7 +5598,7 @@ Relazione annuale al Parlamento sullo stato dell'esecuzione delle pene pecuniari
 
 > Per la decorrenza del termine si applicano le disposizioni del terzo, quarto e quinto capoverso dell'articolo precedente.".
 
-## Capo IV - Modifiche in materia di spese di giustizia
+### Capo IV - Modifiche in materia di spese di giustizia
 
 ##### Art. 80
 
@@ -5660,7 +5656,7 @@ Modifiche alla legge 24 dicembre 2007, n. 244
 
 > c)".
 
-## Capo V - Modifiche in materia di iscrizione nel ((casellario giudiziale))
+### Capo V - Modifiche in materia di iscrizione nel ((casellario giudiziale))
 
 ##### Art. 82
 
@@ -5718,7 +5714,7 @@ Modifiche al decreto del Presidente della Repubblica 14 novembre 2002, n. 313
 
 > u) qualsiasi altro provvedimento che concerne a norma di legge i provvedimenti gia' iscritti, come individuato con decreto del Presidente della Repubblica, ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, su proposta del Ministro della giustizia.".
 
-## Capo VI - Modifiche in materia di giustizia riparativa in ambito minorile
+### Capo VI - Modifiche in materia di giustizia riparativa in ambito minorile
 
 ##### Art. 83
 

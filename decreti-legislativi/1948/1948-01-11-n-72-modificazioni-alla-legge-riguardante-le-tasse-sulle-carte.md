@@ -32,7 +32,7 @@ PROMULGA
 
 il seguente decreto legislativo, approvato dal Consiglio dei Ministri con deliberazione del 30 dicembre 1947:
 
-### Art. 1
+## Art. 1
 
 Al regio decreto 30 dicembre 1923, n. 3277, riguardante le tasse sulle carte da giuoco solo apportate le seguenti modificazioni:
 
@@ -56,7 +56,7 @@ Il bollo da L. 100 e' circolare e quello da L. 200 ottagonale; tutti sono stampa
 
 ## Disposizioni transitorie.
 
-### Art. 2
+## Art. 2
 
 Per i mazzi gia' bollati con la tassa di L. 20 e L. 30 il complemento della tassa dovuta nella misura stabilita dal presente decreto deve essere effettuato mediante applicazione di marche da bollo di qualunque tipo ad unica sezione, sull'involucro che contiene le carte.
 
@@ -64,13 +64,13 @@ L'annullamento delle marche complementari sui mazzi in giacenza presso i fabbric
 
 In ogni caso il complemento della tassa deve essere effettuato prima della distribuzione o della vendita o dell'uso nei pubblici esercizi dei mazzi di carte.
 
-### Art. 3
+## Art. 3
 
 I funzionari dell'Amministrazione finanziaria, gli ufficiali, sottufficiali ed agenti della Guardia di finanza, gli ufficiali ed agenti della polizia giudiziaria ordinaria hanno facolta' di accedere in qualunque tempo, nei locali delle fabbriche di carte da giuoco e nei relativi uffici, magazzini e depositi nonche' nei locali, esercizi e depositi degli importatori e rivenditori e nei locali degli esercizi pubblici per provvedere alle opportune verifiche di controllo agli effetti del complemento della tassa dovuta.
 
 La mancata applicazione delle marche complementari e' punita con la multa da, L. 4000 a L. 10.000 e l'inosservanza delle disposizioni prescritte per l'annullamento delle marche complementari con la pena pecuniaria da L. 1000 a L. 5000.
 
-### Art. 4
+## Art. 4
 
 Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 

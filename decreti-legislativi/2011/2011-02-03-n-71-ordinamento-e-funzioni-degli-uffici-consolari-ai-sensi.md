@@ -74,11 +74,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I
+## Titolo I - Disposizioni introduttive
 
-### Disposizioni introduttive
-
-###### Art. 1
+#### Art. 1
 
 Ordinamento degli uffici consolari
 
@@ -304,7 +302,7 @@ Ordinamento degli uffici consolari
 
 > \- Il decreto legislativo 15 marzo 2010, n. 66 (Codice dell'ordinamento militare) e' stato pubblicato nella Gazzetta Ufficiale 8 maggio 2010, n. 106 Supplemento Ordinario n.84.
 
-###### Art. 2
+#### Art. 2
 
 Funzioni degli uffici consolari
 
@@ -330,7 +328,7 @@ Funzioni degli uffici consolari
 
 > L'ufficio consolare esercita, in conformita' al diritto internazionale, le altre funzioni ad esso attribuite dall'ordinamento italiano, in particolare in materia di stato civile, notariato, amministrativa e giurisdizionale.».
 
-###### Art. 3
+#### Art. 3
 
 Esercizio delle funzioni consolari
 
@@ -356,7 +354,7 @@ Esercizio delle funzioni consolari
 
 > La circoscrizione e, ove del caso, la dipendenza degli uffici consolari sono determinate con decreto del Ministro per gli affari esteri da pubblicare nella Gazzetta Ufficiale.».
 
-###### Art. 4
+#### Art. 4
 
 Delega di funzioni consolari
 
@@ -364,7 +362,7 @@ Delega di funzioni consolari
 
 2\. Non possono tuttavia formare oggetto di delega a personale non appartenente alla carriera diplomatica, alla dirigenza amministrativa o alla terza area funzionale, le funzioni consolari inerenti alla giurisdizione o comunque connesse con questa, quelle disciplinari in materia di navigazione, quelle notarili salvo le autenticazioni e le procure generali e speciali, nonche' quelle il cui esercizio e', a norma degli articoli seguenti, esplicitamente attribuito al capo dell'ufficio consolare.
 
-###### Art. 5
+#### Art. 5
 
 Atti di delega
 
@@ -372,21 +370,17 @@ Atti di delega
 
 2\. La delega in materia di stato civile e' redatta in duplice originale: uno e' conservato negli archivi dell'ufficio consolare, un secondo presso il Ministero degli affari esteri. Una copia e' trasmessa, con modalita' informatica, al Ministero dell'interno.
 
-## Titolo II
+## Titolo II - Funzioni consolari
 
-### Funzioni consolari
+### Capo I - Funzioni relative allo stato civile
 
-#### Capo I
-
-##### Funzioni relative allo stato civile
-
-###### Art. 6
+#### Art. 6
 
 Ufficiale di stato civile
 
 1\. Il capo dell'ufficio consolare esercita nei confronti dei cittadini le funzioni di ufficiale di stato civile, attenendosi alla legislazione nazionale.
 
-###### Art. 7
+#### Art. 7
 
 Domicilio e residenza
 
@@ -428,7 +422,7 @@ Domicilio e residenza
 
 > Questa elezione deve farsi espressamente per iscritto.».
 
-###### Art. 8
+#### Art. 8
 
 Schedario consolare
 
@@ -438,13 +432,13 @@ Schedario consolare
 
 3\. Nello schedario e' presa nota, oltre che dei dati anagrafici e professionali, anche degli atti o fatti che producono la perdita della cittadinanza o dei diritti civili od una restrizione nell'esercizio dei medesimi, nonche' di ogni altro elemento utile ai fini della tutela degli interessi del connazionale.
 
-###### Art. 9
+#### Art. 9
 
 Anagrafe degli italiani residenti all'estero - AIRE
 
 1\. Sulla base dei dati contenuti nello schedario previsto dall'articolo 8, l'ufficio consolare della circoscrizione di immigrazione o di residenza provvede a trasmettere al comune italiano competente i dati richiesti dalla legislazione in materia di anagrafe degli italiani residenti all'estero (AIRE). I dati sono relativi alle dichiarazioni fornite dai cittadini italiani che trasferiscono la propria residenza da un comune italiano all'estero, ovvero a quelle relative alla residenza all'estero, nonche' a quelle concernenti il cambiamento di residenza o di abitazione all'estero.
 
-###### Art. 10
+#### Art. 10
 
 (( (Cittadinanza italiana).))
 
@@ -470,13 +464,13 @@ Il numero massimo di cui al secondo periodo non e' in ogni caso inferiore a cent
 
 7\. ((Il termine per la conclusione dei procedimenti di cui ai commi 2 e 6 e' fissato in trentasei mesi)).
 
-###### Art. 11
+#### Art. 11
 
 Comunicazioni agli uffici in Italia
 
 1\. L'ufficio consolare da' comunicazione ai competenti uffici in Italia di tutti gli atti o fatti suscettibili di influire sullo stato di cittadinanza dei cittadini residenti nella circoscrizione, ai fini dei conseguenti provvedimenti.
 
-###### Art. 12
+#### Art. 12
 
 Matrimonio
 
@@ -484,13 +478,13 @@ Matrimonio
 
 2\. La celebrazione del matrimonio puo' essere rifiutata quando vi si oppongono le leggi locali o quando le parti non risiedono nella circoscrizione.
 
-###### Art. 12-bis
+#### Art. 12-bis
 
 (( (Unione civile).))
 
 ((1. Il capo dell'ufficio consolare riceve le dichiarazioni di cui all'articolo 1, commi 2 e 10, della legge 20 maggio 2016, n. 76, rese da cittadini italiani o da un cittadino e un non cittadino. Le dichiarazioni di costituzione di unione civile possono essere rifiutate alle condizioni di cui all'articolo 12, comma 2.))
 
-###### Art. 13
+#### Art. 13
 
 Pubblicazioni matrimoniali
 
@@ -538,7 +532,7 @@ Pubblicazioni matrimoniali
 
 > Lo straniero che ha domicilio o residenza nella Repubblica deve inoltre far fare la pubblicazione secondo le disposizioni di questo codice.».
 
-###### Art. 14
+#### Art. 14
 
 Dispensa dalle pubblicazioni e ammissione al matrimonio
 
@@ -586,7 +580,7 @@ b) le domande di ammissione al matrimonio ai sensi dell'articolo 84, secondo com
 
 > L'ufficiale dello stato civile dichiara nell'atto di matrimonio il modo con cui ha accertato l'imminente pericolo di vita.».
 
-###### Art. 15
+#### Art. 15
 
 Modalita' di celebrazione del matrimonio
 
@@ -610,7 +604,7 @@ Puo' essere eccezionalmente celebrato fuori della sede consolare per impedimento
 
 > «Art. 110 (Celebrazione fuori della casa comunale). - Se uno degli sposi, per infermita' o per altro impedimento giustificato all'ufficio dello stato civile, e' nell'impossibilita' di recarsi alla casa comunale, l'ufficiale si trasferisce col segretario nel luogo in cui si trova lo sposo impedito, e ivi, alla presenza di quattro testimoni, procede alla celebrazione del matrimonio secondo l'articolo 107.».
 
-###### Art. 15-bis
+#### Art. 15-bis
 
 (( (Modalita' di costituzione dell'unione civile).))
 
@@ -618,7 +612,7 @@ Puo' essere eccezionalmente celebrato fuori della sede consolare per impedimento
 
 2\. Se del caso, il capo dell'ufficio consolare, prima di ricevere le dichiarazioni delle parti, porta a loro conoscenza, alla presenza dei testimoni, la possibile inefficacia della loro unione civile nell'ordinamento locale.))
 
-###### Art. 16
+#### Art. 16
 
 Matrimonio per procura
 
@@ -648,7 +642,7 @@ Matrimonio per procura
 
 > «Art. 17 (Trasmissione di atti). - L'autorita' diplomatica o consolare trasmette ai fini della trascrizione copia degli atti e dei provvedimenti relativi al cittadino italiano formati all'estero all'ufficiale dello stato civile del comune in cui l'interessato ha o dichiara che intende stabilire la propria residenza, o a quello del comune di iscrizione all'Anagrafe degli italiani residenti all'estero o, in mancanza, a quello del comune di iscrizione o trascrizione dell'atto di nascita, ovvero, se egli e' nato e residente all'estero, a quello del comune di nascita o di residenza della madre o del padre di lui, ovvero dell'avo materno o paterno. Gli atti di matrimonio, se gli sposi risiedono in comuni diversi, saranno inviati ad entrambi i comuni, dando ad essi comunicazione del doppio invio. Nel caso in cui non e' possibile provvedere con i criteri sopra indicati, l'interessato, su espresso invito dell'autorita' diplomatica o consolare, dovra' indicare un comune a sua scelta.».
 
-###### Art. 17
+#### Art. 17
 
 Tribunale competente
 
@@ -656,7 +650,7 @@ Tribunale competente
 
 ((1-bis. Sui ricorsi, sulle opposizioni e sulle impugnazioni in materia di unioni civili richieste o costituite all'estero e' competente a decidere il tribunale del luogo di ultima residenza in Italia dell'una o dell'altra parte, ovvero il tribunale nel cui circondario si trova il Comune di iscrizione anagrafica dell'una o dell'altra.))
 
-###### Art. 18
+#### Art. 18
 
 Trasmissione di atti di matrimonio ((e di atti di unione civile))
 
@@ -664,13 +658,13 @@ Trasmissione di atti di matrimonio ((e di atti di unione civile))
 
 2\. Sono trasmessi anche gli atti relativi a matrimoni celebrati in forma religiosa quando la legge locale li riconosce agli effetti civili.
 
-###### Art. 19
+#### Art. 19
 
 Rettificazione degli atti di stato civile
 
 1\. Le domande di rettificazione degli atti di stato civile ricevuti dall'ufficio consolare sono rivolte al tribunale nel cui circondario trovasi trascritto o avrebbe dovuto essere trascritto l'atto da rettificarsi.
 
-###### Art. 20
+#### Art. 20
 
 Cambiamento ed aggiunte di nomi e cognomi
 
@@ -694,11 +688,9 @@ Cambiamento ed aggiunte di nomi e cognomi
 
 > \- Per il testo dell'art. 32 della legge 18 luglio 2009, n. 69, si vedano le note all'art. 13.
 
-## Capo II
+### Capo II - Funzioni relative ai passaporti e documenti di viaggio
 
-### Funzioni relative ai passaporti e documenti di viaggio
-
-###### Art. 21
+#### Art. 21
 
 Passaporti
 
@@ -708,7 +700,7 @@ Passaporti
 
 3\. Venute meno le motivazioni che ne hanno determinato l'adozione, i decreti di cui al comma 2 sono revocati.
 
-###### Art. 22
+#### Art. 22
 
 Carte d'identita'
 
@@ -720,7 +712,7 @@ AGGIORNAMENTO (16)
 
 La L. 19 gennaio 2026, n. 11, ha disposto (con l'art. 5, comma 3) che "Il secondo periodo del comma 1 dell'articolo 22 del decreto legislativo 3 febbraio 2011, n. 71, come sostituito dal comma 2 del presente articolo, si applica a decorrere dal 1° giugno 2026".
 
-###### Art. 23
+#### Art. 23
 
 Documenti di viaggio provvisori
 
@@ -736,11 +728,9 @@ b) in tutti i casi in cui il capo dell'ufficio consolare lo ritiene necessario o
 
 4\. Quando lo ritiene opportuno, il capo dell'ufficio consolare da' notizia all'autorita' di frontiera italiana o degli altri Paesi dell'Unione europea del documento di viaggio da lui rilasciato.
 
-## Capo III
+### Capo III - Funzioni di protezione ed assistenza, sussidi e rimpatri
 
-### Funzioni di protezione ed assistenza, sussidi e rimpatri
-
-###### Art. 24
+#### Art. 24
 
 Sussidi, erogazioni in danaro e rimpatrio di cittadini
 
@@ -762,7 +752,7 @@ L'autorita' consolare trasmette al Ministero degli affari esteri copia dell'obbl
 
 4\. Il Ministero competente in materia, in conformita' all'articolo 363, terzo comma, del codice della navigazione, emette ingiunzione a carico dell'armatore per il rimborso delle spese sostenute dallo Stato per il rimpatrio in favore della gente di mare.
 
-###### Art. 25
+#### Art. 25
 
 Rimpatrio su navi ed aeromobili militari nazionali
 
@@ -770,7 +760,7 @@ Rimpatrio su navi ed aeromobili militari nazionali
 
 2\. Il comandante, se ritiene di non poter aderire alla richiesta, e' tenuto ad indicare per iscritto all'ufficio consolare i motivi del rifiuto.
 
-###### Art. 26
+#### Art. 26
 
 Rimpatri, evacuazioni e trasferimenti in circostanze eccezionali
 
@@ -788,17 +778,15 @@ L'evacuazione e' coordinata, laddove possibile, con le iniziative adottate dalle
 
 > \- Per i riferimenti del decreto legislativo 15 marzo 2010, n. 66 si vedano le note alle premesse.
 
-###### Art. 27
+#### Art. 27
 
 Assistenza a persone prive di cittadinanza italiana
 
 1\. L'ufficio consolare presta assistenza ai cittadini dell'Unione europea ed ai non cittadini, ai sensi delle vigenti disposizioni.
 
-## Capo IV
+### Capo IV - Funzioni notarili e di volontaria giurisdizione
 
-### Funzioni notarili e di volontaria giurisdizione
-
-###### Art. 28
+#### Art. 28
 
 Funzioni notarili
 
@@ -808,7 +796,7 @@ Funzioni notarili
 
 3\. Non e' necessario il requisito della residenza in Italia, richiesto dalle vigenti disposizioni per i testimoni non cittadini.
 
-###### Art. 29
+#### Art. 29
 
 Interdizione, inabilitazione e amministrazione di sostegno
 
@@ -830,7 +818,7 @@ Interdizione, inabilitazione e amministrazione di sostegno
 
 > Dopo l'esame, qualora sia ritenuto opportuno, puo' essere nominato un tutore provvisorio all'interdicendo o un curatore provvisorio all'inabilitando.».
 
-###### Art. 30
+#### Art. 30
 
 (( Riconoscimento dei figli nati fuori del matrimonio ))
 
@@ -838,7 +826,7 @@ Interdizione, inabilitazione e amministrazione di sostegno
 
 2\. ((COMMA ABROGATO DAL D.LGS. 28 DICEMBRE 2013, N. 154)).
 
-###### Art. 31
+#### Art. 31
 
 Adozione internazionale di minori
 
@@ -870,7 +858,7 @@ Adozione internazionale di minori
 
 > «Art. 38. - Ai fini indicati dall'articolo 6 della Convenzione e' costituita presso la Presidenza del Consiglio dei ministri la Commissione per le adozioni internazionali.».
 
-###### Art. 32
+#### Art. 32
 
 Adozione di persone di maggiore eta'
 
@@ -888,7 +876,7 @@ Adozione di persone di maggiore eta'
 
 > 2\) se l'adozione conviene all'adottando.».
 
-###### Art. 33
+#### Art. 33
 
 Tutela, curatela, amministrazione di sostegno
 
@@ -898,13 +886,13 @@ Tutela, curatela, amministrazione di sostegno
 
 3\. I cittadini residenti nella circoscrizione hanno l'obbligo di accettare le nomine di cui al comma 2.
 
-###### Art. 34
+#### Art. 34
 
 Altri provvedimenti di volontaria giurisdizione
 
 1\. Il capo dell'ufficio consolare, anche al di fuori delle ipotesi previste dal presente decreto, emana nei confronti dei cittadini residenti nella circoscrizione i provvedimenti di volontaria giurisdizione, in materia di diritto di famiglia e di successioni, che per le leggi dello Stato sono di competenza del giudice tutelare, del tribunale e del presidente di tribunale, ivi compreso quello per i minorenni.
 
-###### Art. 35
+#### Art. 35
 
 Tribunali competenti
 
@@ -912,11 +900,9 @@ Tribunali competenti
 
 2\. Se l'interessato non e' iscritto all'AIRE ed e' stato residente in Italia, e' competente il tribunale del luogo di ultima residenza.
 
-## Capo V
+### Capo V - Funzioni in materia di controversie, di polizia giudiziaria e di assistenza giudiziaria
 
-### Funzioni in materia di controversie, di polizia giudiziaria e di - assistenza giudiziaria
-
-###### Art. 36
+#### Art. 36
 
 Amichevole composizione di controversie ed arbitrato
 
@@ -948,7 +934,7 @@ b) esplica le funzioni di arbitro unico nelle, controversie fra cittadini purche
 
 > Gli artt. 828-831 completano il Capo V del codice di procedura civile (Delle Impugnazioni) e disciplinano i vari mezzi d'impugnazione.
 
-###### Art. 37
+#### Art. 37
 
 Notificazioni, atti istruttori, dichiarazioni ed istanze
 
@@ -960,7 +946,7 @@ b) compie gli atti istruttori ad esso delegati dalle autorita' nazionali compete
 
 2\. L'ufficio consolare trasmette direttamente gli atti espletati o ricevuti all'autorita' nazionale competente.
 
-###### Art. 38
+#### Art. 38
 
 Funzioni di polizia giudiziaria
 
@@ -968,13 +954,13 @@ Funzioni di polizia giudiziaria
 
 2\. Egli cura, altresi', che sia assicurata dalle autorita' locali la custodia delle persone delle quali sia richiesta l'estradizione e, ove sia del caso, di quelle ad essa consegnate dai comandanti di navi mercantili e di aeromobili civili italiani, per reati commessi a bordo.
 
-###### Art. 39
+#### Art. 39
 
 Esercizio di funzioni giurisdizionali
 
 1\. Le norme relative ai doveri ed alle prerogative dell'autorita' giudiziaria si applicano ai funzionari consolari quando questi esercitano funzioni attribuite in Italia alla magistratura.
 
-###### Art. 40
+#### Art. 40
 
 Esecuzione di rogatorie consolari
 
@@ -984,23 +970,21 @@ Esecuzione di rogatorie consolari
 
 3\. Copia delle comunicazioni e delle convocazioni e' allegata agli atti.
 
-###### Art. 41
+#### Art. 41
 
 Luogo di compimento degli atti istruttori
 
 1\. Le deposizioni testimoniali e gli altri atti istruttori hanno luogo, se non e' altrimenti richiesto dalla natura dell'atto da compiersi, nella sede dell'ufficio. Puo' essere scelta altra sede ove particolari circostanze lo suggeriscano.
 
-###### Art. 42
+#### Art. 42
 
 Consulenti e difensori
 
 1\. Quando la legislazione nazionale prevede la presenza ad atti istruttori di consulenti o difensori, l'appartenenza a tali categorie professionali puo' essere accertata anche in base alle leggi locali.
 
-## Capo VI
+### Capo VI - Funzioni relative all'amministrazione di interessi privati
 
-### Funzioni relative all'amministrazione di interessi privati
-
-###### Art. 43
+#### Art. 43
 
 Deposito consolare
 
@@ -1018,7 +1002,7 @@ Deposito consolare
 
 > \- Gli artt. 1798 e seguenti del Codice Civile disciplinano l'istituto del sequestro convenzionale.
 
-###### Art. 44
+#### Art. 44
 
 Termine del deposito
 
@@ -1030,13 +1014,13 @@ Termine del deposito
 
 4\. Per quanto non previsto dal codice civile, con provvedimento del Ministero degli affari esteri sono disciplinati il luogo di restituzione dei beni depositati presso l'ufficio consolare, nonche' le modalita' di conservazione e di verbalizzazione dei depositi consolari.
 
-###### Art. 45
+#### Art. 45
 
 Vendita di beni
 
 1\. Quando, in materia di volontaria giurisdizione, di amministrazione di interessi privati, di navigazione, di successioni, ed in ogni altro caso in cui tale potere e' a lui conferito, il capo dell'ufficio consolare autorizza la vendita di beni e vi procede, la vendita stessa e' effettuata, con le opportune cautele, su istruzioni del Ministero degli affari esteri, tenuto anche conto della legislazione locale.
 
-###### Art. 46
+#### Art. 46
 
 Successioni
 
@@ -1046,7 +1030,7 @@ Successioni
 
 3\. Su richiesta di un tribunale italiano presso cui si e' aperta una successione, l'Ufficio consolare provvede a disporre, nell'interesse degli aventi diritto, ogni possibile misura atta alla custodia dei beni relativi alla successione pervenuti all'Ufficio stesso.
 
-###### Art. 47
+#### Art. 47
 
 Imputazione di spese e cauzione
 
@@ -1056,17 +1040,15 @@ A tale fine puo' essere esercitato diritto di ritenzione sulle somme a questi ev
 
 2\. L'ufficio consolare puo' chiedere il preventivo versamento di una cauzione a copertura delle spese di cui al comma 1.
 
-## Capo VII
+### Capo VII - Funzioni in materia di navigazione
 
-### Funzioni in materia di navigazione
-
-###### Art. 48
+#### Art. 48
 
 Funzioni di amministrazione marittima
 
 1\. Il capo dell'ufficio consolare esercita le funzioni di autorita' marittima, attenendosi alla legislazione nazionale.
 
-###### Art. 49
+#### Art. 49
 
 Attribuzione di polizia giudiziaria, polizia della navigazione e poteri disciplinari
 
@@ -1078,7 +1060,7 @@ b) esercita il potere di polizia della navigazione nei confronti delle navi merc
 
 c) esercita il potere disciplinare nei confronti del personale delle navi mercantili e degli aeromobili civili italiani.
 
-###### Art. 50
+#### Art. 50
 
 Assistenza da parte di navi o aeromobili militari nazionali
 
@@ -1086,17 +1068,15 @@ Assistenza da parte di navi o aeromobili militari nazionali
 
 2\. Il comandante, se ritiene di non poter aderire alla richiesta, indica per iscritto al funzionario consolare i motivi del rifiuto.
 
-###### Art. 51
+#### Art. 51
 
 Dichiarazioni giurate del comandante per il rilascio di passavanti provvisorio
 
 1\. In caso di smarrimento o di distruzione dell'atto di nazionalita', e prima di rilasciare il passavanti provvisorio, il capo dell'ufficio consolare accerta, mediante giuramento deferito al comandante, se sull'atto di nazionalita' smarrito o distrutto non esistessero annotazioni relative ad atti costitutivi, traslativi od estintivi di proprieta' o di altri diritti reali. L'ufficio consolare appone sul passavanti provvisorio il contenuto delle annotazioni la cui esistenza, sull'atto smarrito o distrutto, risultasse dalle dichiarazioni giurate del comandante e ne informa la capitaneria di porto del compartimento marittimo di iscrizione della nave.
 
-## Capo VIII
+### Capo VIII - Funzioni in materia di documentazione amministrativa
 
-### Funzioni in materia di documentazione amministrativa
-
-###### Art. 52
+#### Art. 52
 
 Certificati, legalizzazioni, vidimazioni
 
@@ -1136,7 +1116,7 @@ i) puo' rilasciare e certificare traduzioni di atti dalla lingua italiana in que
 
 > Le firme sugli atti e documenti formati all'estero da autorita' estere e da valere nello Stato sono legalizzate dalle rappresentanze diplomatiche o consolari italiane all'estero. Le firme apposte su atti e documenti dai competenti organi delle rappresentanze diplomatiche o consolari italiane o dai funzionari da loro delegati non sono soggette a legalizzazione. Si osserva l'articolo 31.».
 
-###### Art. 53
+#### Art. 53
 
 Attestazione di condizione economica
 
@@ -1144,39 +1124,35 @@ Attestazione di condizione economica
 
 2\. L'attestazione puo' venir rilasciata, per ogni uso consentito dalla legislazione nazionale, anche a non cittadini.
 
-###### Art. 54
+#### Art. 54
 
 Non applicazione agli atti consolari delle norme sulla legalizzazione
 
 1\. Le firme apposte dal funzionario consolare su atti da valere in Italia non sono soggette a legalizzazione.
 
-## Capo IX
+### Capo IX - Funzioni in materia elettorale, scolastica e di servizio militare
 
-### Funzioni in materia elettorale, scolastica e di servizio militare
-
-###### Art. 55
+#### Art. 55
 
 Funzioni in materia elettorale
 
 1\. L'ufficio consolare assicura gli adempimenti previsti, in base alla legislazione vigente, per l'esercizio del diritto di voto all'estero da parte dei cittadini che ne abbiano titolo.
 
-###### Art. 56
+#### Art. 56
 
 Funzioni in materia scolastica
 
 1\. Il capo dell'ufficio consolare, nei riguardi delle scuole italiane e di tutte le altre istituzioni e attivita' d'assistenza scolastica, operanti nella circoscrizione, a carico dello Stato o sussidiate, esercita, in conformita' alla legislazione nazionale ed in armonia con la legislazione locale, le funzioni che competono ai dirigenti generali degli uffici scolastici regionali, fatte salve le funzioni spettanti al Direttore generale per la promozione e cooperazione culturale del Ministero degli affari esteri.
 
-###### Art. 57
+#### Art. 57
 
 Funzioni in materia di servizio militare
 
 1\. L'ufficio consolare esplica ogni attivita' in materia di servizio militare, relativamente alle persone residenti nella circoscrizione, attenendosi alla vigente legislazione nazionale.
 
-## Capo X
+### Capo X - Funzioni in materia di visti
 
-### Funzioni in materia di visti
-
-###### Art. 58
+#### Art. 58
 
 Rilascio dei visti
 
@@ -1184,33 +1160,29 @@ Rilascio dei visti
 
 2\. Se non sussistono i requisiti previsti per il rilascio del visto, l'ufficio consolare comunica per iscritto al cittadino straniero il diniego indicando, altresi', il termine e l'autorita' cui e' possibile ricorrere.
 
-## Capo XI
+### Capo XI - Funzioni in favore dello sviluppo delle attivita' culturali e della promozione economica
 
-### Funzioni in favore dello sviluppo delle attivita' culturali e della - promozione economica
-
-###### Art. 59
+#### Art. 59
 
 Sviluppo delle attivita' culturali
 
 1\. L'ufficio consolare promuove la diffusione della lingua e della cultura italiana, secondo le indicazioni delle competenti strutture del Ministero degli affari esteri e con il coordinamento dell'ambasciata.
 
-###### Art. 60
+#### Art. 60
 
 Promozione delle attivita' economiche e commerciali
 
 1\. L'ufficio consolare promuove e stimola le attivita' economiche e commerciali che interessano l'Italia e le imprese italiane, secondo le indicazioni delle competenti strutture del Ministero degli affari esteri e con il coordinamento dell'ambasciata.
 
-## Titolo III
+## Titolo III - Albo e registri consolari
 
-### Albo e registri consolari
-
-###### Art. 61
+#### Art. 61
 
 Albo consolare
 
 1\. Nella sede dell'ufficio consolare, in luogo accessibile al pubblico, e' collocato apposito albo, per l'affissione degli atti ufficiali.
 
-###### Art. 62
+#### Art. 62
 
 Registri dell'ufficio consolare
 
@@ -1242,7 +1214,7 @@ c) delle operazioni in materia di servizio militare.
 
 6\. Per quanto concerne gli altri registri, il Ministero degli affari esteri, d'intesa con gli altri Ministeri eventualmente interessati, impartisce le disposizioni generali e quelle speciali, tenuto conto delle diverse situazioni locali, per la loro tenuta, per la loro riunione o suddivisione o per l'istituzione di altri, nonche' per la loro eventuale sostituzione con schedari o altri idonei sistemi di repertorio.
 
-###### Art. 63
+#### Art. 63
 
 Raccolta delle firme delle autorita' locali
 
@@ -1250,11 +1222,9 @@ Raccolta delle firme delle autorita' locali
 
 2\. Se la firma e' compresa nella raccolta, l'ufficio consolare provvede direttamente alla sua legalizzazione; in caso contrario, fa uso di altri opportuni mezzi di accertamento.
 
-## Titolo IV
+## Titolo IV - Diritti consolari
 
-### Diritti consolari
-
-###### Art. 64
+#### Art. 64
 
 Tariffa dei diritti consolari
 
@@ -1278,7 +1248,7 @@ AGGIORNAMENTO (11)
 
 Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-###### Art. 65
+#### Art. 65
 
 Valuta di riscossione
 
@@ -1286,7 +1256,7 @@ Valuta di riscossione
 
 2\. Se sussistono particolari ragioni, il Ministero degli affari esteri puo' autorizzare con proprio decreto la riscossione dei diritti in valuta diversa da quella locale.
 
-###### Art. 66
+#### Art. 66
 
 Atti rilasciati gratuitamente
 
@@ -1304,7 +1274,7 @@ e) da eminenti personalita' estere e, eccezionalmente, nazionali, a titolo di co
 
 2\. La gratuita' di cui al comma 1 non si applica ai diritti d'urgenza previsti dalla tariffa.
 
-###### Art. 67
+#### Art. 67
 
 Modifica o esenzione dei diritti stabiliti dalla tariffa
 
@@ -1316,7 +1286,7 @@ Modifica o esenzione dei diritti stabiliti dalla tariffa
 
 4\. L'ufficio consolare, su direttiva del Ministro degli affari esteri, rilascia gratuitamente atti consolari a favore di operatori economici italiani, dei Paesi membri dell'Unione europea o anche di altri Paesi per fini di interesse nazionale.
 
-###### Art. 68
+#### Art. 68
 
 Tasso di cambio consolare
 
@@ -1326,7 +1296,7 @@ Tasso di cambio consolare
 
 3\. Esso e' valido anche per tutti gli uffici dipendenti.
 
-###### Art. 69
+#### Art. 69
 
 Modalita' di fissazione del tasso di cambio consolare
 
@@ -1338,7 +1308,7 @@ Modalita' di fissazione del tasso di cambio consolare
 
 4\. Copia del decreto consolare e' affissa nella sede dell'ufficio che deve applicarlo, unitamente alla tariffa.
 
-###### Art. 70
+#### Art. 70
 
 Percezione dei diritti consolari
 
@@ -1352,17 +1322,15 @@ Percezione dei diritti consolari
 
 5\. Se non e' stato possibile provvedere in tutto o in parte alla percezione dei diritti consolari, ai crediti relativi si provvede, nei riguardi degli obbligati, in base alle norme generali sul recupero dei crediti dello Stato.
 
-## Titolo V
+## Titolo V - Disposizioni generali e finali
 
-### Disposizioni generali e finali
-
-###### Art. 71
+#### Art. 71
 
 Collaborazione con le autorita' locali
 
 1\. L'ufficio consolare presta ogni possibile collaborazione alle autorita' locali cui e' affidata la cura di interessi che concernono cittadini nonche', a condizione di reciprocita', a quelle che curano interessi che concernono loro cittadini in Italia.
 
-###### Art. 71-bis
+#### Art. 71-bis
 
 (( (Tutela consolare a cittadini europei non rappresentati).))
 
@@ -1394,7 +1362,7 @@ f) qualora il richiedente necessiti di documenti di viaggio provvisori di cui al
 
 8\. Su richiesta delle autorita' di uno Stato membro dell'Unione europea che presta assistenza a un cittadino italiano non rappresentato, l'ufficio consolare fornisce alle medesime autorita' tutte le informazioni sul caso in questione. L'ufficio consolare e' responsabile dei contatti con i familiari, con altre persone significative o con le autorita' in Italia)).
 
-###### Art. 71-ter
+#### Art. 71-ter
 
 (( (Rimborso dei costi della tutela consolare prestata a cittadini italiani da altri Stati membri dell'Unione europea).))
 
@@ -1402,13 +1370,13 @@ f) qualora il richiedente necessiti di documenti di viaggio provvisori di cui al
 
 2\. Se un cittadino italiano riceve in un Paese in cui l'Italia non e' rappresentata erogazioni analoghe a quelle di cui all'articolo 24, comma 2, la promessa di restituzione allo Stato italiano, redatta in una delle lingue ufficiali dell'Unione europea secondo i moduli comuni previsti dalle vigenti disposizioni europee, ha efficacia di titolo esecutivo relativamente alle obbligazioni di somme di denaro determinate o determinabili in essa contenute. Il Ministero degli affari esteri e della cooperazione internazionale puo' chiedere il rimborso delle erogazioni anche nel caso in cui non sia stata firmata una promessa di restituzione in situazioni di crisi)).
 
-###### Art. 72
+#### Art. 72
 
 Corrispondenza degli uffici consolari
 
 1\. Gli uffici consolari corrispondono direttamente con le altre amministrazioni nazionali, per quanto riguarda le materie di loro competenza.
 
-###### Art. 73
+#### Art. 73
 
 Inapplicabilita' di norme nazionali
 
@@ -1420,13 +1388,13 @@ Inapplicabilita' di norme nazionali
 
 > Se una controversia non puo' essere decisa con una precisa disposizione, si ha riguardo alle disposizioni che regolano casi simili o materie analoghe; se il caso rimane ancora dubbio, si decide secondo i principi generali dell'ordinamento giuridico dello Stato».
 
-###### Art. 74
+#### Art. 74
 
 Poteri in circostanze eccezionali
 
 1\. In circostanze eccezionali il capo dell'ufficio consolare adotta, su istruzione del Ministero degli affari esteri o di iniziativa propria nei casi di emergenza, tutte le misure necessarie per la difesa degli interessi nazionali e per la protezione di quelli dei cittadini.
 
-###### Art. 74-bis
+#### Art. 74-bis
 
 (( (Tutela dei cittadini non rappresentati in caso di crisi).))
 
@@ -1440,7 +1408,7 @@ Poteri in circostanze eccezionali
 
 5\. Nel caso di cui al comma 3, l'ufficio consolare, su istruzioni del Ministero degli affari esteri e della cooperazione internazionale, puo' chiedere il sostegno di strumenti quali le strutture di risposta alle crisi del Servizio europeo per l'azione esterna e del meccanismo unionale di protezione civile.))
 
-###### Art. 75
+#### Art. 75
 
 Ricorsi avverso i provvedimenti consolari
 
@@ -1484,7 +1452,7 @@ Ricorsi avverso i provvedimenti consolari
 
 > 9\. La mancata emanazione del provvedimento nei termini costituisce elemento di valutazione della responsabilita' dirigenziale.».
 
-###### Art. 76
+#### Art. 76
 
 Trasmissione di atti e documenti ad autorita' nazionali
 
@@ -1496,19 +1464,19 @@ Trasmissione di atti e documenti ad autorita' nazionali
 
 > \- Per il testo dell'art. 17 del decreto del Presidente della Repubblica 3 novembre 2000, n. 396 si vedano le note all'art.16.
 
-###### Art. 77
+#### Art. 77
 
 Rimessione ad altro ufficio consolare
 
 1\. Se l'ufficio consolare delegato ad atti istruttori, o che deve provvedere a notificazioni, viene a conoscenza che l'interessato si trova nella circoscrizione di altro ufficio, rimette gli atti a quest'ultimo per competenza, avvertendone l'autorita' delegante.
 
-###### Art. 78
+#### Art. 78
 
 Esecuzione diretta delle notificazioni
 
 1\. Le notificazioni cui l'ufficio consolare provvede direttamente sono eseguite mediante sistema di comunicazione idoneo alla conferma dell'avvenuto invio.
 
-###### Art. 79
+#### Art. 79
 
 Abrogazioni
 
@@ -1522,7 +1490,7 @@ b) legge 2 maggio 1983, n. 185.
 
 > \- Per i riferimenti al decreto del Presidente della Repubblica 5 gennaio 1967, n. 200, e alla legge 2 maggio 1983, n. 185 si vedano le note alle premesse.
 
-###### Art. 80
+#### Art. 80
 
 Clausola di invarianza finanziaria
 
@@ -1544,11 +1512,9 @@ Calderoli, Ministro per la semplificazione normativa
 
 Visto, il Guardasigilli: Alfano
 
-## Titolo V
+## Titolo V - Disposizioni generali e finali
 
-### Disposizioni generali e finali
-
-###### Allegato
+#### Allegato
 
 Allegato (Previsto dall'art. 64, comma 1)
 

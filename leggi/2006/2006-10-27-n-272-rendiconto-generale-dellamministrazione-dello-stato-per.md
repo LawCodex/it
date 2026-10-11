@@ -29,7 +29,7 @@ la seguente legge:
 
 ## TITOLO I - APPROVAZIONE DEI RENDICONTI
 
-##### Art. 1 - Rendiconti
+#### Art. 1 - Rendiconti
 
 1\. Il rendiconto generale dell'Amministrazione dello Stato e i rendiconti delle Amministrazioni e delle Aziende autonome per l'esercizio 2005 sono approvati nelle risultanze di cui ai seguenti articoli.
 
@@ -39,11 +39,9 @@ la seguente legge:
 
 ## TITOLO II - AMMINISTRAZIONE DELLO STATO
 
-### CAPO I
+### CAPO I - CONTO DEL BILANCIO
 
-#### CONTO DEL BILANCIO
-
-##### Art. 2 - Entrate
+#### Art. 2 - Entrate
 
 1\. Le entrate tributarie, extratributarie, per alienazione ed ammortamento di beni patrimoniali e riscossione di crediti, e per accensione di prestiti, accertate nell'esercizio finanziario 2005 per la competenza propria dell'esercizio, risultano stabilite in euro 627.413.137.119,28.
 
@@ -53,7 +51,7 @@ la seguente legge:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-##### Art. 3 - Spese
+#### Art. 3 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di passivita' finanziarie, impegnate nell'esercizio finanziario 2005 per la competenza propria dell'esercizio, risultano stabilite in euro 635.556.358.451,14.
 
@@ -63,7 +61,7 @@ la seguente legge:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-##### Art. 4 - Disavanzo della gestione di competenza
+#### Art. 4 - Disavanzo della gestione di competenza
 
 1\. Il disavanzo della gestione di competenza dell'esercizio finanziario 2005, di euro 8.143.221.331,86, risulta stabilito come segue:
 
@@ -99,7 +97,7 @@ finanziarie                |" 168.313.050.042,01|
 gestione di competenza     |                    |    8.143.221.331,86
 ```
 
-##### Art. 5 - Situazione finanziaria
+#### Art. 5 - Situazione finanziaria
 
 1\. Il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 2005, di euro 292.602.698.379,44, risulta stabilito come segue:
 
@@ -137,7 +135,7 @@ al 31 dicembre 2005 " 110.179.781.612,08
 
 Disavanzo al 31 dicembre 2004  284.459.477.047,58 Disavanzo finanziario al 31 dicembre 2005  292.602.698.379,44
 
-##### Art. 6 - Approvazione allegato
+#### Art. 6 - Approvazione allegato
 
 1\. E' approvato l'allegato n. 1, di cui all'articolo 9, ultimo comma, della legge 5 agosto 1978, n. 468.
 
@@ -153,7 +151,7 @@ Disavanzo al 31 dicembre 2004  284.459.477.047,58 Disavanzo finanziario al 31 
 
 > Alla legge di approvazione del rendiconto generale dello Stato e' allegato un elenco dei decreti di cui al secondo comma, con le indicazioni dei motivi per i quali si e' proceduto ai prelevamenti dal fondo di cui al presente articolo."
 
-##### Art. 7 - Eccedenze
+#### Art. 7 - Eccedenze
 
 1\. Sono approvate le eccedenze di impegni e di pagamenti risultate in sede di consuntivo rispettivamente sul conto della competenza, sul conto dei residui e sul conto della cassa, relative alle unita' previsionali di base degli stati di previsione della spesa dei Ministeri sotto indicati per l'esercizio 2005, come risulta dal dettaglio che segue:
 
@@ -329,9 +327,9 @@ all'estero | - | - |36.214,31|
 1.2.3.2 Edilizia                      |  -  |     |      -  |6.120,00
 ```
 
-## CAPO II - CONTO GENERALE DEL PATRIMONIO
+### CAPO II - CONTO GENERALE DEL PATRIMONIO
 
-##### Art. 8 - Risultati generali della gestione patrimoniale
+#### Art. 8 - Risultati generali della gestione patrimoniale
 
 1\. La situazione patrimoniale dell'Amministrazione dello Stato, al 31 dicembre 2005, resta stabilita come segue:
 
@@ -359,11 +357,9 @@ al 31 dicembre 2005  1.354.047.455.849,60
 
 ## TITOLO III - AZIENDE SPECIALI ED AUTONOME
 
-### CAPO I
+### CAPO I - ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-#### ISTITUTO AGRONOMICO PER L'OLTREMARE
-
-##### Art. 9 - Entrate
+#### Art. 9 - Entrate
 
 1\. Le entrate correnti del bilancio dell'Istituto agronomico per l'Oltremare, accertate nell'esercizio finanziario 2005 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Istituto stesso, allegato al conto consuntivo del Ministero degli affari esteri, in euro 5.184.417,54.
 
@@ -381,7 +377,7 @@ da riscuotere
 
 Accertamenti 5.184.417,54 - 5.184.417,54
 
-##### Art. 10 - Spese
+#### Art. 10 - Spese
 
 1\. Le spese correnti ed in conto capitale del bilancio dell'Istituto predetto, impegnate nell'esercizio finanziario 2005 per la competenza propria dell'esercizio, risultano stabilite in euro 5.184.417,54.
 
@@ -405,9 +401,9 @@ dell'esercizio 2004 1.124.713,77 595.614,55 1.720.328,32
 
 2.042.609,69
 
-## CAPO II - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
+### CAPO II - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-##### Art. 11 - Entrate
+#### Art. 11 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione autonoma dei monopoli di Stato, comprese quelle delle gestioni speciali ed autonome, accertate nell'esercizio finanziario 2005 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'economia e delle finanze, in euro 9.406.824.886,47.
 
@@ -417,7 +413,7 @@ dell'esercizio 2004 1.124.713,77 595.614,55 1.720.328,32
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-##### Art. 12. (Spese)
+#### Art. 12. (Spese)
 
 1\. Le spese correnti ed in conto capitale e per rimborso di passivita' finanziarie del bilancio dell'Amministrazione predetta, comprese quelle delle gestioni speciali ed autonome, impegnate nell'esercizio 2005 per la competenza propria dell'esercizio, risultano stabilite in euro 9.406.824.886,47.
 
@@ -427,7 +423,7 @@ dell'esercizio 2004 1.124.713,77 595.614,55 1.720.328,32
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-##### Art. 13 - Riassunto generale
+#### Art. 13 - Riassunto generale
 
 1\. Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione autonoma dei monopoli di Stato, di competenza dell'esercizio 2005, risulta cosi' stabilito:
 
@@ -436,7 +432,7 @@ Entrate (escluse le gestioni speciali) |  611.086.015,94 Entrate delle gestion
 Spese (escluse le gestioni speciali) |  611.086.015,94 Spese delle gestioni speciali | " 8.795.198.870,53 |  9.406.284.886,47
 ```
 
-##### Art. 14 - Situazione finanziaria
+#### Art. 14 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dell'esercizio 2005, risulta come appresso:
 
@@ -446,9 +442,9 @@ Spese dell'esercizio 2005 " 9.406.284.886,47
 
 Saldo della gestione di competenza 
 
-## CAPO III - ARCHIVI NOTARILI
+### CAPO III - ARCHIVI NOTARILI
 
-##### Art. 15 - Avanzo
+#### Art. 15 - Avanzo
 
 1\. L'avanzo della gestione del bilancio degli Archivi notarili, per l'esercizio finanziario 2005, risulta stabilito come segue:
 
@@ -458,9 +454,9 @@ Spese " 331.434.018,28
 
  9.038.171,52
 
-## CAPO IV - FONDO EDIFICI DI CULTO
+### CAPO IV - FONDO EDIFICI DI CULTO
 
-##### Art. 16 - Entrate
+#### Art. 16 - Entrate
 
 1\. Le entrate correnti e in conto capitale del bilancio del Fondo edifici di culto, accertate nell'esercizio finanziario 2005 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'interno, in euro 17.192.640,64.
 
@@ -486,7 +482,7 @@ dell'esercizio |             |            |            |
                |            -|2.117.405,04|            |
 ```
 
-##### Art. 17 - Spese
+#### Art. 17 - Spese
 
 1\. Le spese correnti ed in conto capitale del bilancio dell'Amministrazione predetta, impegnate nell'esercizio 2005 per la competenza propria dell'esercizio, risultano stabilite in euro 17.338.337,89.
 
@@ -513,7 +509,7 @@ dell'esercizio 2004         |10.058.577,26|2.902.024,21|12.960.601,47
 
 ^
 
-##### Art. 18 - Situazione finanziaria
+#### Art. 18 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Amministrazione del Fondo edifici di culto, alla fine dell'esercizio 2005, risulta come appresso:
 
@@ -559,9 +555,9 @@ PADOA Schioppa, Ministro dell'economia e delle finanze
 
 Visto, il Guardasigilli: MASTELLA
 
-## CAPO IV - FONDO EDIFICI DI CULTO
+### CAPO IV - FONDO EDIFICI DI CULTO
 
-##### Allegato
+#### Allegato
 
 Allegato
 

@@ -36,7 +36,7 @@ Sulla proposta del Ministro Segretario di Stato per la grazia e giustizia, di co
 
 HA SANZIONATO E PROMULGA:
 
-### Art. 1
+## Art. 1
 
 Il ruolo organico del Corpo degli agenti di custodia, determinato dalla tabella A annessa al decreto legislativo luogotenenziale 21 agosto 1945, n. 508, e' aumentato, nei vari gradi, delle seguenti unita':
 
@@ -72,7 +72,7 @@ AGGIORNAMENTO (5)
 
 La L. 31 dicembre 1962, n. 1867 ha disposto (con l'articolo unico, comma 1) che gli aumenti di organico del Corpo degli agenti di custodia, di cui all'art. 1 del decreto legislativo del Capo provvisorio dello Stato 5 maggio 1947, n. 381, hanno vigore fino al 31 dicembre 1964.
 
-### Art. 2
+## Art. 2
 
 Il limite massimo di eta' per l'ammissione nel Corpo degli agenti di custodia di cui all'art. 4 del decreto legislativo luogotenenziale 21 agosto 1945, n. 508, nonche' per la partecipazione al concorso per il grado di sottotenente previsto nell'art. 28 dello stesso decreto, e' elevato a 35 anni per coloro che si trovino in una delle seguenti condizioni:
 
@@ -86,7 +86,7 @@ In deroga alla disposizione contenuta nel n. 3 dell'art. 4 del decreto legislati
 
 I reduci dalla deportazione (militari o patrioti civili) possono essere arruolati in quanto non abbiano aderito a servire nelle forze armate fasciste o tedesche.
 
-### Art. 3
+## Art. 3
 
 Gli aspiranti appartenenti ad una delle categorie indicate nell'articolo precedente devono presentare alla Procura della Repubblica, del circondario nel quale risiedono, domanda in carta da bollo da L. 32 diretta al Ministero di grazia e giustizia, corredata dei seguenti documenti:
 
@@ -114,7 +114,7 @@ Gli aspiranti appartenenti ad una delle categorie indicate nell'articolo precede
 
 Qualora, per effetto della distruzione dei relativi atti, non sia possibile presentare, in tutto o in parte, i documenti previsti ai numeri 1, 3, 4, 6, 7 e 8, gli aspiranti possono supplirvi con atti notori ai sensi dell'art. 1 del decreto legislativo luogotenenziale 3 agosto 1944, n. 254.
 
-### Art. 4
+## Art. 4
 
 In deroga alle disposizioni vigenti, meta' dei posti di guardia scelta, di vicebrigadiere e brigadiere, di cui all'art. 1, e' conferito, mediante arruolamento straordinario, ai combattenti, partigiani e reduci indicati nell'art. 2, secondo le norme seguenti:
 
@@ -124,17 +124,17 @@ In deroga alle disposizioni vigenti, meta' dei posti di guardia scelta, di viceb
 
 3\) per i posti di brigadiere, a coloro che, in possesso del titolo di studio di ammissione all'ultimo corso di una scuola media superiore, abbiano appartenuto alle Forze armato dello Stato con un grado non inferiore a quello di sergente maggiore, o abbiano esercitato analoghe funzioni di comando nelle formazioni partigiane.
 
-### Art. 5
+## Art. 5
 
 Coloro che intendono partecipare all'arruolamento straordinario di cui all'articolo precedente, devono, nel termine di 60 giorni dalla data di entrata in vigore del presente decreto, presentare alla Procura della Repubblica del circondario nel quale risiedono domanda in carta da bollo da L. 32 diretta al Ministero di grazia e giustizia, corredata dei documenti comprovanti il possesso delle condizioni richieste per il posto cui concorrono e di tutti gli altri indicati nell'art. 3, oltre che degli eventuali altri titoli atti a comprovare la cultura, la capacita' e le particolari benemerenze acquisite.
 
-### Art. 6
+## Art. 6
 
 Gli aspiranti ai posti di guardia scelta o di vicebrigadiere o brigadiere ai sensi dell'art. 4, ove non possano essere utilmente collocati, in relazione al numero dei posti loro riservati, nel grado cui concorrono, possono essere inquadrati nei gradi immediatamente inferiori o nel grado di guardia.
 
 A tale fine, nella domanda di arruolamento, devono fare espressa menzione degli altri gradi nei quali sono disposti ad essere inquadrati.
 
-### Art. 7
+## Art. 7
 
 L'esame delle domande di arruolamento di cui all'art. 5, e demandato ad una Commissione nominata dal Ministero di grazia e giustizia e composta del direttore dell'Ufficio 2ª della Direzione generale per gli Istituti di prevenzione e di pena, che la presiede, da un magistrato addetto alla Direzione generale per gli Istituti di prevenzione e di pena di grado non inferiore al 7ª, da un funzionario del ruolo amministrativo, degli Istituti di prevenzione e di pena di grado non inferiore al 7°, da un rappresentante della Presidenza del Consiglio dei Ministri e da un ufficiale delle Forze armate dello Stato di grado non inferiore a capitano.
 
@@ -142,7 +142,7 @@ Le funzioni di segretario sono esercitate da un magistrato addetto alla Direzion
 
 La Commissione, vagliati i documenti e i titoli presentati, forma, per ciascun grado, la graduatoria degli aspiranti secondo la votazione riportata e, a parita' di voti, con le preferenze stabilite dal regio decreto-legge 5 luglio 1934, n. 1176, convertito nella legge 27 dicembre 1934, n. 2125, e successive modificazioni. A tal fine, ciascun componente la Commissione dispone di un voto da zero a dieci.
 
-### Art. 8
+## Art. 8
 
 I primi della graduatoria, nei limiti dei posti disponibili, sono nominati allievi nei diversi gradi e vengono destinati a frequentare un corso di addestramento della durata di tre mesi, tenuto, per i singoli gradi, in Roma od in altre sedi da stabilirsi dal Ministero di grazia e giustizia, da insegnanti scelti dallo stesso Ministero fra magistrati e funzionari pubblici di grado non superiore al quinto.
 
@@ -150,7 +150,7 @@ Nel corso per guardia scelta e in quelli per vicebrigadiere e brigadiere, e' imp
 
 Alla fine del corso si fa luogo agli esami orali sulle materie sopra accennate.
 
-### Art. 9
+## Art. 9
 
 Gli esami di cui all'articolo precedente, hanno luogo nella sede in cui si e' svolto il corso avanti una Commissione composta da un magistrato di grado quinto, che la presiede, e dagli insegnanti delle singole materie.
 
@@ -162,7 +162,7 @@ La Commissione, riconosciuta la regolarita' degli esami, forma la graduatoria de
 
 Sono dichiarati idonei ed inquadrati definitivamente nel rispettivo grado, secondo l'ordine di graduatoria, gli allievi che riportino una media di voti non minore di sette decimi e non meno di sei decimi in ciascuna prova.
 
-### Art. 10
+## Art. 10
 
 Le guardie scelte, i vicebrigadieri e brigadieri che nell'esame non siano riconosciuti idonei per il grado ove sono stati provvisoriamente inquadrati, ma che, avendo riportato un voto non inferiore a cinque decimi in ciascuna prova, potrebbero conseguire l'idoneita' per un grado inferiore, possono, a richiesta, aspirare ad essere inquadrati in tale grado.
 
@@ -174,13 +174,13 @@ Gli allievi guardie scelte che siano stati ritenuti idonei soltanto al grado di 
 
 Gli allievi che, per qualsivoglia motivo non sostengano l'esame o nell'esame siano dichiarati non idonei in qualsiasi grado, o, nel caso previsto nei commi primo e secondo, non conseguano la idoneita' neppure nel secondo esame, sono licenziati e possono aspirare soltanto alla nomina a guardia.
 
-### Art. 11
+## Art. 11
 
 Ove per gli allievi di un medesimo grado si svolgano, ai sensi dell'art. 8, piu' corsi in diverse sedi, la graduatoria definitiva fra tutti gli allievi del medesimo grado e' formata dalla Commissione centrale, di cui all'art. 3 del regolamento per ii Corpo, approvato con regio decreto 30 dicembre 1937, n. 2584.
 
 La graduatoria e' fatta esclusivamente in base alla votazione attribuita a ciascun allievo dalle varie commissioni esaminatrici, e, a parita' di voti, con le preferenze stabilite dal regio decreto-legge 5 luglio 1934, n. 1176, convertito nella legge 27 dicembre 1934, n. 2125 e successive modificazioni.
 
-### Art. 12
+## Art. 12
 
 E' in facolta' del Ministero di grazia e giustizia, di ridurre la durata dei corsi di addestramento a due mesi o di inviare direttamente agli istituti penitenziari gli allievi dei vari gradi quando necessita' contingenti richiedano di impiegare d'urgenza la loro opera. In quest'ultima ipotesi, gli allievi medesimi sono soggetti ad un periodo di esperimento della durata di tre mesi, che puo' essere prorogato di altri tre mesi. Durante tale periodo che e' computato nella ferma, agli allievi sara' impartita una conveniente istruzione teorico pratica, tenute presenti le materie di insegnamento di cui all'art. 19 del regolamento per il Corpo.
 
@@ -188,17 +188,17 @@ Dopo l'esperimento, ai medesimi, su rapporto motivato del direttore dell'istitut
 
 Il rapporto deve riferire dettagliatamente sulla capacita' specifica, sulla condotta morale e politica in servizio e sulla vita privata di ciascun allievo.
 
-### Art. 13
+## Art. 13
 
 Durante i corsi di addestramento o il periodo di esperimento, gli allievi dei vari gradi che non tengano regolare condotta o risultino inetti al servizio, sono proposti per il licenziamento dalla direzione della scuola o dello stabilimento presso il quale prestano servizio.
 
 Il Ministero di grazia e giustizia puo' procedere al licenziamento degli allievi stessi anche senza la proposta della direzione, tenendo presenti i risultati della frequenza alla scuola o le informazioni sul servizio prestato nell'istituto carcerario.
 
-### Art. 14
+## Art. 14
 
 Ove, per qualsiasi motivo, non vengano coperti tutti i posti da conferire ai sensi dell'art. 4, l'eventuale eccedenza va aggiunta ai rimanenti posti, riservati alle guardie scelte, ai vicebrigadieri e brigadieri dell'attuale ruolo organico degli agenti di custodia.
 
-### Art. 15
+## Art. 15
 
 Gli esami di cui al secondo comma dell'art. 27 del decreto legislativo luogotenenziale 21 agosto 1945, numero 508, sono scritti ed orali.
 
@@ -226,13 +226,13 @@ Le prove orali vertono sulle materie di cui ai numeri precedenti ed inoltre sull
 
 9\) armi e tiro.
 
-### Art. 16
+## Art. 16
 
 La Commissione per gli esami di cui all'articolo precedente, e' nominata dal Ministro per la grazia e giustizia ed e' composta da un magistrato di grado non inferiore al quarto, che la presiede, dai direttori degli Uffici 1ª e 2ª della Direzione generale per gli Istituti di prevenzione e di pena, da un magistrato di grado non inferiore al 6ª, da un funzionario di gruppo A del ruolo amministrativo degli Istituti di prevenzione e di pena di grado non inferiore al 6°, da un procuratore militare e da un ufficiale superiore delle Forze armate dello Stato.
 
 Le funzioni di segretario sono esercitate da un magistrato addetto alla Direzione generale per gli Istituti di prevenzione e di pena di grado non superiore al settimo.
 
-### Art. 17
+## Art. 17
 
 Gli esami di cui al primo comma dell'art. 28 dei decreto legislativo luogotenenziale 21 agosto 1945, numero 508, sono scritti ed orali.
 
@@ -268,13 +268,13 @@ Le prove orali vertono sulle materie di cui ai numeri precedenti ed inoltre sull
 
 11\) armi e tiro.
 
-### Art. 18
+## Art. 18
 
 La Commissione per gli esami di cui all'articolo precedente, e' nominata dal Ministro per la grazia e giustizia ed e' composta dal direttore generale per gli Istituti di prevenzione e di pena, che la presiede, dai direttori degli Uffici 1ª e 2ª della Direzione generale per gli Istituti di prevenzione e di pena, da un magistrato di grado non inferiore al 5ª o da un professore di diritto della Universita' di Roma, da un funzionario di gruppo A del ruolo amministrativo degli Istituti di prevenzione e di pena di grado non inferiore al 6ª, da un procuratore militare e da un ufficiale superiore delle Forze armate dello Stato.
 
 Le funzioni di segretario sono esercitate da un magistrato addetto alla Direzione generale per gli Istituti di prevenzione e di pena di grado non superiore al settimo.
 
-### Art. 19
+## Art. 19
 
 Alle prove orali degli esami di cui agli articoli 15 e 17 sono ammessi soltanto quei candidati che abbiano riportato in ciascuna prova scritta non meno di sei decimi. Sono dichiarati idonei al grado di sottotenente i candidati che hanno riportato una media di voti non minore di sette decimi e non meno di sei decimi in ciascuna prova.
 
@@ -282,25 +282,25 @@ La Commissione, riconosciuta la regolarita' degli esami, forma la graduatoria, d
 
 Sono dichiarati vincitori i primi della graduatoria, nei limiti dei posti messi a concorso.
 
-### Art. 20
+## Art. 20
 
 La Commissione, di cui al primo comma, dell'art. 39 del decreto legislativo luogotenenziale 21 agosto 1945, n. 508, e' nominata dal Ministro per la grazia, e giustizia ed e' composta dal direttore generale degli Istituti di prevenzione e di pena, che la presiede, dai direttori degli Uffici 1ª e 2ª della Direzione generale per gli Istituti di prevenzione e di pena, da un funzionario di gruppo A del ruolo amministrativo degli Istituti di prevenzione e di pena di grado non inferiore al 6ª e da un ufficiale superiore delle Forze armate dello Stato.
 
 Le funzioni di segretario sono esercitate da un magistrato addetto alla Direzione generale per gli Istituti di prevenzione e di pena di grado non superiore al settimo.
 
-### Art. 21
+## Art. 21
 
 In deroga al disposto dell'art. 7 del regolamento per il Corpo, approvato con il regio decreto 30 dicembre 1937, n. 2584, le nomine ad allievi a favore degli aspiranti prescelti hanno decorrenza da qualsiasi giorno del mese.
 
-### Art. 22
+## Art. 22
 
 Ai fini delle promozioni a guardia scelta ed a brigadiere, da conferire nei limiti della meta' dei posti di cui all'aumento organico per i detti gradi previsto nel precedente art. 1, la permanenza nel grado inferiore per i periodi di tempo indicati nel regolamento per il Corpo, approvato con regio decreto 30 dicembre 1937, n. 2584, sono ridotti alla meta'. Ferme rimanendo le altre condizioni di cui al regolamento stesso.
 
-### Art. 23
+## Art. 23
 
 Il limite di eta' stabilito nell'art. 22 del regolamento per il Corpo, approvato con regio decreto 30 dicembre 1937, n. 2584, per poter partecipare agli esami per vicebrigadiere, e' elevato, ferme rimanendo le altre disposizioni dell'articolo stesso, a 40 anni.
 
-### Art. 24
+## Art. 24
 
 L'art. 36 del regolamento per il Corpo, approvato con il regio decreto 30 dicembre 1937, n. 2584, e' sostituito dal seguente:
 
@@ -312,13 +312,13 @@ La proposta e' sottoposta all'esame della Commissione centrale per il personale 
 
 La promozione ha luogo indipendentemente dall'esistenza di vacanze nell'organico del grado o della classe superiore. Le conseguenti eccedenze che si verificassero nel grado o nella classe superiore saranno assorbite con le corrispondenti vacanze che si verificheranno immediatamente dopo".
 
-### Art. 25
+## Art. 25
 
 La speciale indennita' giornaliera di cui all'art. 12 del decreto legislativo luogotenenziale 21 agosto 1945, n. 508, e' dovuta, nella misura prevista per le guardie e alle condizioni stabilite nel successivo art. 13, anche agli allievi agenti di custodia quando, ai sensi del terzo comma dell'art. 7 dello stesso decreto, siano inviati direttamente a prestare servizio negli istituti penitenziari.
 
 La medesima indennita' spetta altresi', nella misura stabilita per i singoli gradi, agli allievi nominati a seguito dell'arruolamento straordinario di cui all'articolo 4 del presente decreto, quando essi, ai sensi del primo comma dell'art. 11, siano inviati direttamente a prestare servizio negli istituti penitenziari.
 
-### Art. 26
+## Art. 26
 
 All'art. 41 del decreto legislativo luogotenenziale 21 agosto 1945, n. 508, sono aggiunti i seguenti comma:
 
@@ -328,11 +328,11 @@ Questi ultimi ufficiali, fino a quando saranno distaccati a prestare servizio pr
 
 Ai medesimi ufficiali sono applicabili le disposizioni di cui agli articoli 22 e 33 del decreto legislativo luogotenenziale 21 agosto 1945, n. 508".
 
-### Art. 27
+## Art. 27
 
 Entro i limiti dei posti di organico, risultanti dall'aumento di cui all'art. 1, e' concessa sanatoria per gli arruolamenti effettuati eventualmente in eccedenza al numero di cui alla tabella A annessa al decreto legislativo luogotenenziale 21 agosto 1945, n. 508.
 
-### Art. 28
+## Art. 28
 
 L'art. 10 del decreto legislativo luogotenenziale 21 agosto 1945, n. 508, e' modificato come segue:
 
@@ -342,23 +342,23 @@ Per la fornitura sono costituiti presso le scuole di Portici e Roma appositi mag
 
 Sono soppresse le indennita' vestiario previste dalle norme in vigore prima dell'attuazione del presente decreto ".
 
-### Art. 29
+## Art. 29
 
 II Ministro per le finanze e il tesoro e' autorizzato a introdurre, con propri decreti, le variazioni di bilancio occorrenti per l'attuazione del presente decreto.
 
-### Art. 30
+## Art. 30
 
 La tabella A annessa al decreto legislativo luogotenenziale 21 agosto 1945, n. 508, che stabilisce l'organico e i gradi gerarchici del Corpo degli agenti di custodia, e' sostituita da quella annessa al presente decreto, ferme restando tutte le altre condizioni stabilite negli articoli 1 e seguenti del decreto stesso e nelle altre norme in vigore.
 
 ## Disposizione transitoria.
 
-### Art. 31
+## Art. 31
 
 Gli agenti ausiliari di custodia, che all'atto dell'assunzione in servizio non avevano compiuto il 35° anno di eta', e che siano reduci, combattenti o partigiani.
 
 potranno essere nominati guardie in esperimento, anche se all'atto dell'entrata in vigore del presente decreto abbiano oltrepassato detta eta', purche' siano in possesso degli altri requisiti previsti dalle norme in vigore ad eccezione di quello di essere celibe o vedovo senza prole.
 
-### Art. 32
+## Art. 32
 
 Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica.
 
@@ -380,7 +380,7 @@ Atti del Governo, registro n. 8, foglio n. 143. - FRASCA
 
 ## Disposizione transitoria.
 
-### Tabella A
+## Tabella A
 
 TABELLA A
 

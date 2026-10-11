@@ -28,11 +28,9 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I. - DISPOSIZIONI
+## CAPO I. - DISPOSIZIONI DI CARATTERE FINANZIARIO
 
-### DI CARATTERE FINANZIARIO
-
-#### Art. 1
+### Art. 1
 
 1\. Per l'anno 1996, il limite massimo del saldo netto da finanziare resta determinato in termini di competenza in lire 147.900 miliardi, al netto di lire 12.400 miliardi per regolazioni debitorie. Tenuto conto delle operazioni di rimborso di prestiti, il livello massimo del ricorso al mercato finanziario di cui all'articolo 11 della legge 5 agosto 1978, n. 468, come sostituito dall'articolo 5 della legge 23 agosto 1988, n. 362 - ivi compreso l'indebitamento all'estero per un importo complessivo non superiore a lire 4.000 miliardi relativo ad interventi non considerati nel bilancio di previsione per il 1996 - resta fissato, in termini di competenza, in lire 368.200 miliardi per l'anno finanziario 1996.
 
@@ -42,7 +40,7 @@ la seguente legge:
 
 > In supplemento ordinario alla Gazzetta Ufficiale - serie generale - del 30 gennaio 1996 si procedera' alla ripubblicazione del testo della presente legge corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del presidente della Repubblica 14 marzo 1986, n. 217.
 
-#### Art. 2
+### Art. 2
 
 1\. Per ciascuno degli anni 1996, 1997 e 1998, l'eventuale maggiore gettito rispetto alle previsioni derivanti dalla normativa vigente e' interamente utilizzato per la riduzione del saldo netto da finanziare, salvo che si tratti di assicurare la copertura finanziaria di interventi urgenti ed imprevisti necessari per fronteggiare calamita' naturali o improrogabili esigenze connesse con la tutela della sicurezza del Paese ovvero situazioni di emergenza economico-finanziaria.
 
@@ -76,11 +74,9 @@ AGGIORNAMENTO (3)
 
 La L. 2 ottobre 1997, n. 334 ha disposto (con l'art. 3, comma 1) che "L'articolo 2, comma 11, della legge 28 dicembre 1995, n. 550, si interpreta nel senso che l'erogazione dei buoni pasto e' dovuta, secondo le modalita' previste negli specifici accordi, anche ai dipendenti civili delle Amministrazioni e loro articolazioni del comparto Ministeri, nelle quali, per le particolari esigenze fatte salve dall'articolo 22 della legge 23 dicembre 1994, n. 724, non sia attivato l'orario di servizio e di lavoro su cinque giorni."
 
-## CAPO II. - DISPOSIZIONI IN MATERIA
+## CAPO II. - DISPOSIZIONI IN MATERIA DI ENTRATA E PER LA FAMIGLIA
 
-### DI ENTRATA E PER LA FAMIGLIA
-
-#### Art. 3
+### Art. 3
 
 1\. In relazione al decreto del Presidente del Consiglio dei ministri da emanare, per l'anno 1996, in applicazione dell'articolo 3, comma 2, del decreto-legge 2 marzo 1989, n. 69, convertito, con modificazioni, dalla legge 27 aprile 1989, n. 154, e tenendo conto del disposto dell'articolo 9, comma 1, del decreto-legge 19 settembre 1992, n. 384, convertito, con modificazioni, dalla legge 14 novembre 1992, n. 438, il drenaggio fiscale e' riconosciuto esclusivamente con riferimento alla detrazione per i redditi di lavoro autonomo di cui al comma 1 dell'articolo 49 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, o di impresa di cui all'articolo 79 del predetto testo unico. Con lo stesso decreto del Presidente del Consiglio dei ministri, in luogo della restituzione del drenaggio fiscale e' riconosciuto un incremento della detrazione per il coniuge a carico per un ammontare complessivo di lire 990 miliardi nelle seguenti misure: lire 240.000 annue per i titolari di reddito imponibile fino a lire 30 milioni; lire 144.000 per i redditi imponibili compresi fra lire 30 e 60 milioni; lire 72.000 per i redditi imponibili compresi fra lire 60 e 100 milioni. Tali misure potranno essere proporzionalmente variate al fine di rispettare il predetto limite di lire 990 miliardi.
 
@@ -90,11 +86,9 @@ La L. 2 ottobre 1997, n. 334 ha disposto (con l'art. 3, comma 1) che "L'articolo
 
 4\. Per l'anno 1996 il canone di concessione a carico della RAI-Radiotelevisione italiana spa, e' determinato nella misura di lire 40 miliardi.
 
-## CAPO III. - DISPOSIZIONI PER IL SETTORE
+## CAPO III. - DISPOSIZIONI PER IL SETTORE DEI TRASPORTI
 
-### DEI TRASPORTI
-
-#### Art. 4
+### Art. 4
 
 1\. Ai sensi delle disposizioni di cui alla legge 17 maggio 1985, n. 210, e dei principi di cui alla direttiva 91/440/CEE del Consiglio del 29 luglio 1991, concernente lo sviluppo delle ferrovie comunitarie, per il potenziamento, la velocizzazione ed una moderna distribuzione della rete ferroviaria nazionale e locale, lo Stato concorre all'aumento del capitale sociale dell'impresa Ferrovie dello Stato spa per un importo di lire 8.940 miliardi mediante il versamento di due rate annuali di lire 1.770 miliardi ciascuna per gli anni 1997 e 1998 e di tre rate annuali di lire 1.800 miliardi ciascuna per gli anni 1999, 2000 e 2001. Tale programma di ulteriori investimenti, nel rispetto delle indicazioni approvate dal Parlamento e dell'articolo 5 della decisione CEE n. C(94) 3581 del 16 dicembre 1994, riserva:
 
@@ -132,11 +126,9 @@ AGGIORNAMENTO (2)
 
 La L. 23 dicembre 1996, n. 662 ha disposto (con l'art. 2, comma 136) che "L'autorizzazione di spesa prevista dall'articolo 4, comma 6, della legge 28 dicembre 1995, n. 550 (legge finanziaria 1996), e' ridotta di lire 370 miliardi per l'anno 1996, di lire 550 miliardi per l'anno 1997 e di lire 600 miliardi per l'anno 1998."
 
-## CAPO IV. - DISPOSIZIONI IN MATERIA
+## CAPO IV. - DISPOSIZIONI IN MATERIA DI PREVIDENZA
 
-### DI PREVIDENZA
-
-#### Art. 5
+### Art. 5
 
 1\. L'importo dei versamenti dello Stato all'INPS, per il concorso agli oneri della gestione degli interventi assistenziali e di sostegno alle gestioni previdenziali, ai fini della progressiva assunzione degli oneri stessi a carico del bilancio dello Stato, ai sensi dell'articolo 37 della legge 9 marzo 1989, n. 88, e' complessivamente stabilito a decorrere dall'anno 1996 in lire 1.000 miliardi, al netto degli effetti di cui all'articolo 3, comma 2, della legge 8 agosto 1995, n. 335, di cui lire 450 miliardi a titolo di adeguamento della quota parte di mensilita' delle pensioni erogate dal fondo pensioni lavoratori dipendenti, dalle gestioni dei lavoratori autonomi, dalla gestione speciale minatori e dall'ENPALS, ai sensi del comma 3, lettera c), del suddetto articolo 37.
 
@@ -146,7 +138,7 @@ Conseguentemente, la somma di cui all'articolo 21, comma 3, della legge 11 marzo
 
 ## CAPO V. - NORME FINALI
 
-#### Art. 6
+### Art. 6
 
 1\. La copertura della presente legge per le nuove o maggiori spese correnti, per le riduzioni di entrata e per le nuove finalizzazioni nette da iscrivere nel fondo speciale di parte corrente viene assicurata, ai sensi dell'articolo 11, comma 5, della legge 5 agosto 1978, n. 468, come sostituito dall'articolo 5 della legge 23 agosto 1988, n. 362, come da prospetto allegato.
 
@@ -166,7 +158,7 @@ Visto, il Guardasigilli: DINI
 
 ## Allegati
 
-#### Prospetto di Copertura
+### Prospetto di Copertura
 
 PROSPETTO DI COPERTURA
 
@@ -268,7 +260,7 @@ fondo speciale di parte
 
 corrente ...................... 2.955 5.700 4.049 =============================
 
-#### Tabella A
+### Tabella A
 
 TABELLA A
 
@@ -476,7 +468,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 20 giugno 1996, n. 323, convertito, con modificazioni dalla L. 8 agosto 1996, n. 425 ha disposto (con l'art. 3, comma 1) che "Nelle tabelle A e B approvate con l'articolo 2, comma 2, della legge 28 dicembre 1995, n. 550, sono eliminati gli accantonamenti di segno negativo per incrementi di entrate tributarie ancora da realizzare ed i corrispondenti accantonamenti di segno positivo, collegati ai sensi dell'articolo 11-bis, comma 2, della legge 5 agosto 1978, n. 468, e successive modificazioni, contrassegnati dalle medesime lettere alfabetiche."
 
-#### Tabella B
+### Tabella B
 
 TABELLA B
 
@@ -838,7 +830,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 20 giugno 1996, n. 323, convertito, con modificazioni dalla L. 8 agosto 1996, n. 425 ha disposto (con l'art. 3, comma 1) che "Nelle tabelle A e B approvate con l'articolo 2, comma 2, della legge 28 dicembre 1995, n. 550, sono eliminati gli accantonamenti di segno negativo per incrementi di entrate tributarie ancora da realizzare ed i corrispondenti accantonamenti di segno positivo, collegati ai sensi dell'articolo 11-bis, comma 2, della legge 5 agosto 1978, n. 468, e successive modificazioni, contrassegnati dalle medesime lettere alfabetiche."
 
-#### Tabella C
+### Tabella C
 
 TABELLA C
 
@@ -1973,7 +1965,7 @@ decreto-legge n. 483 del 1995
                 TOTALE GENERALE ...  58.013.332 57.287.332 58.975.480=====================================================================
 ```
 
-#### Tabella D
+### Tabella D
 
 TABELLA D
 
@@ -2223,7 +2215,7 @@ Tesoro) ............................................. 90.000
 
 -------------- 3.177.800=====================================================================
 
-#### Tabella E
+### Tabella E
 
 TABELLA E
 
@@ -2342,7 +2334,7 @@ Universita' e ricerca)........... -10.000 --- ---
 
 NOTA: Tutte le autorizzazioni di spesa sono soppresse in via permanente.
 
-#### Tabella F
+### Tabella F
 
 TABELLA F
 

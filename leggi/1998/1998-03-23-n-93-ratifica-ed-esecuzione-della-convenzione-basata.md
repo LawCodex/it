@@ -27,15 +27,15 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la convenzione basata sull'articolo K3 del trattato sull'Unione europea che istituisce un Ufficio europeo di polizia (EUROPOL), con allegati, fatta a Bruxelles il 26 luglio 1995, ed il protocollo concernente l'interpretazione, in via pregiudiziale, della medesima convenzione, da parte della Corte di giustizia delle Comunita' europee, con dichiarazione, fatto a Bruxelles il 24 luglio 1996.
 
-#### Art. 2
+### Art. 2
 
 1\. Piena ed intera esecuzione e' data alla convenzione di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 45 della stessa convenzione.
 
-#### Art. 3
+### Art. 3
 
 1\. L'unita' nazionale incaricata di svolgere le funzioni elencate nell'articolo 4 della convenzione e' l'Unita' nazionale EUROPOL, istituita nell'ambito del Dipartimento della pubblica sicurezza.
 
@@ -43,13 +43,13 @@ la seguente legge:
 
 3\. Il servizio prestato dagli ufficiali dell'Arma dei carabinieri e della Guardia di finanza nell'ambito dell'EUROPOL, dell'Unita' nazionale e degli altri organismi istituiti presso il Dipartimento della pubblica sicurezza con compiti di coordinamento e di cooperazione internazionale e' equivalente, agli effetti dello sviluppo della carriera, al periodo di comando, nei rispettivi gradi, presso i Corpi di appartenenza.
 
-#### Art. 4
+### Art. 4
 
 1\. Restano ferme le disposizioni previste dalle leggi 31 dicembre 1996, n. 675, e n. 676, per quanto riguarda la protezione dei dati trattati in attuazione della convenzione di cui all'articolo 1 della presente legge.
 
 2\. Il Garante per la protezione dei dati personali svolge le funzioni di controllo previste dall'articolo 23 della convenzione medesima.
 
-#### Art. 5
+### Art. 5
 
 1\. Il direttore, i vice direttori, gli agenti dell'EUROPOL, i membri del consiglio di amministrazione e degli altri organi dell'EUROPOL, gli ufficiali di collegamento presso l'EUROPOL, i soggetti vincolati al segreto ed alla riservatezza in ragione delle funzioni o del servizio svolti presso l'EUROPOL, nonche' gli appartenenti alle forze di polizia in rapporto con l'EUROPOL, che, violando i doveri inerenti alla funzione o al servizio, rivelino notizie di ufficio le quali debbano rimanere segrete o riservate, ovvero ne agevolino in qualsiasi modo la conoscenza, sono puniti con la reclusione da sei mesi a tre anni.
 
@@ -59,7 +59,7 @@ la seguente legge:
 
 4\. La cessazione della carica o della qualita' riferite ai soggetti indicati nel comma 1 non esclude l'esistenza dei reati.
 
-#### Art. 6
+### Art. 6
 
 1\. Dalla data di entrata in vigore della presente legge, il comitato parlamentare di controllo sull'attuazione e sul funzionamento della convenzione di applicazione dell'accordo di Schengen, di cui all'articolo 18 della legge 30 settembre 1993, n. 388, assume anche funzioni di vigilanza sull'attivita' dell'Unita' nazionale EUROPOL.
 
@@ -67,13 +67,13 @@ la seguente legge:
 
 3\. Il regolamento del comitato disciplina l'attivita' di vigilanza esercitata ai sensi del comma 1.
 
-#### Art. 7
+### Art. 7
 
 1\. All'onere derivante dall'attuazione della presente legge, valutato in lire 2.750 milioni per l'anno 1997, in lire 3.975 milioni per l'anno 1998 ed in lire 7.315 milioni annue a decorrere dal 1999, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1998-2000, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 1998, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri.
 
 2\. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 8
+### Art. 8
 
 1\. La presente legge entra in vigore il giorno successivo, a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
@@ -121,7 +121,7 @@ CONSIDERANDO che l'attivita' svolta dall'Europol in base alla presente convenzio
 
 HANNO CONVENUTO quanto segue:
 
-#### ARTICOLO 1
+### ARTICOLO 1
 
 ISTITUZIONE
 
@@ -129,7 +129,7 @@ ISTITUZIONE
 
 2\. L'Europol e' in contatto in ogni Stato membro con un'unica unita' nazionale creata o designata ai sensi dell'articolo 4.
 
-#### ARTICOLO 2
+### ARTICOLO 2
 
 OBIETTIVO
 
@@ -155,7 +155,7 @@ Si considerano connessi e vengono presi in considerazione secondo le modalita' p
 
 5\. Per "traffico illecito di stupefacenti" di cui ai paragrafi 1 e 2 si intendono i reati elencati nell'articolo 3, paragrafo 1 della convenzione delle Nazioni Unite contro il traffico illecito di stupefacenti e di sostanze psicotrope, del 20 dicembre 1988, nonche' nelle disposizioni che modificano o integrano detta convenzione.
 
-#### ARTICOLO 3
+### ARTICOLO 3
 
 FUNZIONI
 
@@ -189,7 +189,7 @@ FUNZIONI
 
 4\) metodi di polizia tecnica e scientifica e metodi di indagine.
 
-#### ARTICOLO 4
+### ARTICOLO 4
 
 UNITA' NAZIONALI
 
@@ -227,7 +227,7 @@ UNITA' NAZIONALI
 
 7\. I capi delle unita' nazionali si riuniscono ove necessario per assistere l'Europol fornendo le loro consulenze.
 
-#### ARTICOLO 5
+### ARTICOLO 5
 
 UFFICIALI DI COLLEGAMENTO
 
@@ -255,7 +255,7 @@ UFFICIALI DI COLLEGAMENTO
 
 9\. Nel suo edificio l'Europol mette a disposizione degli Stati membri, a titolo gratuito, i locali necessari per l'attivita' degli ufficiali di collegamento. Tutte le altre spese connesse con l'invio degli ufficiali di collegamento sono a carico dello Stato membro di origine; cio' vale anche per le spese relative alla loro attrezzatura, salvo i casi particolari in cui il consiglio di amministrazione, all'unanimita', raccomandi una deroga nell'ambito della stesura del bilancio dell'Europol.
 
-#### ARTICOLO 6
+### ARTICOLO 6
 
 SISTEMA INFORMATIZZATO DI RACCOLTE DI INFORMAZIONI
 
@@ -271,7 +271,7 @@ SISTEMA INFORMATIZZATO DI RACCOLTE DI INFORMAZIONI
 
 ## TITOLO II - SISTEMA DI INFORMAZIONE
 
-#### ARTICOLO 7
+### ARTICOLO 7
 
 ISTITUZIONE DEL SISTEMA DI INFORMAZIONE
 
@@ -287,7 +287,7 @@ L'accesso diretto delle unita' nazionali al sistema di informazione per quanto r
 
 3\. Negli Stati membri l'unita' nazionale e' responsabile della comunicazione con il sistema di informazione. Essa e' competente in particolare per le misure di sicurezza di cui all'articolo 25 applicabili alle attrezzature utilizzate per il trattamento dei dati nel territorio dello Stato membro interessato, per il controllo di cui all'articolo 21 ed inoltre, sempreche' cio' sia necessario in base alle disposizioni legislative, regolamentari ed amministrative nonche' alle procedure di tale Stato membro, per la corretta attuazione della presente convenzione in qualsiasi altro settore.
 
-#### ARTICOLO 8
+### ARTICOLO 8
 
 CONTENUTO DEL SISTEMA DI INFORMAZIONE
 
@@ -329,7 +329,7 @@ Nel caso in cui tali informazioni complementari si riferiscano ad uno o piu' rea
 
 5\. Se il procedimento contro l'interessato e' definitivamente archiviato o se quest'ultimo e' assolto, i dati oggetto di questa decisione devono essere cancellati.
 
-#### ARTICOLO 9
+### ARTICOLO 9
 
 DIRITTO DI ACCESSO AL SISTEMA DI INFORMAZIONE
 
@@ -345,7 +345,7 @@ tale unita' deve poter essere individuata. La comunicazione delle informazioni t
 
 ## TITOLO III - ARCHIVI DI LAVORO PER FINI DI ANALISI
 
-#### ARTICOLO 10
+### ARTICOLO 10
 
 RILEVAMENTO, TRATTAMENTO E USO DI DATI DI CARATTERE PERSONALE
 
@@ -417,7 +417,7 @@ Se sono sollevate obiezioni in seno al gruppo di analisi, tale associazione a pi
 
 8\. Del grado e delle possibili variazioni del carattere sensibile di un'informazione e' unico giudice lo Stato membro che l'ha trasmessa all'Europol. La diffusione o l'utilizzazione operativa di un dato di analisi e' subordinata ad una concertazione di coloro che partecipano all'analisi stessa. Uno Stato membro che ha accesso ad un'analisi in corso non puo' segnatamente diffonderne o utilizzarne i dati senza ottenere preventivamente il consenso degli Stati membri in primo luogo interessati.
 
-#### ARTICOLO 11
+### ARTICOLO 11
 
 SISTEMA DI INDICE
 
@@ -429,7 +429,7 @@ L'accesso da parte degli ufficiali di collegamento e' concepito in modo che sia 
 
 3\. Le modalita' relative alla struttura del sistema di indice sono definite dal consiglio di amministrazione che delibera all'unanimita'.
 
-#### ARTICOLO 12
+### ARTICOLO 12
 
 DECISIONE COSTITUTIVA DEGLI ARCHIVI
 
@@ -459,13 +459,13 @@ L'autorita' di controllo comune di cui all'articolo 24 e' immediatamente avverti
 
 ## TITOLO IV - DISPOSIZIONI COMUNI PER IL TRATTAMENTO DELLE INFORMAZIONI
 
-#### ARTICOLO 13
+### ARTICOLO 13
 
 OBBLIGO DI INFORMAZIONE
 
 L'Europol comunica senza indugio alle unita' nazionali, e, su richiesta delle stesse, ai loro ufficiali di collegamento, le informazioni che concernono i rispettivi Stati membri, compresi i collegamenti accertati tra reati per i quali l'Europol e' competente ai sensi dell'articolo 2. Possono inoltre essere comunicate informazioni su altri reati gravi di cui l'Europol viene a conoscenza nell'espletamento delle sue funzioni.
 
-#### ARTICOLO 14
+### ARTICOLO 14
 
 LIVELLO DI PROTEZIONE DEI DATI
 
@@ -477,7 +477,7 @@ LIVELLO DI PROTEZIONE DEI DATI
 
 L'Europol rispetta questi principi anche per i dati non automatizzati che detiene in forma di archivi, ossia qualsiasi insieme strutturato di dati personali accessibile secondo criteri determinati.
 
-#### ARTICOLO 15
+### ARTICOLO 15
 
 RESPONSABILITA' PER LA PROTEZIONE DEI DATI
 
@@ -491,13 +491,13 @@ RESPONSABILITA' PER LA PROTEZIONE DEI DATI
 
 3\. L'Europol memorizza i dati in modo che sia possibile individuare gli Stati membri o i terzi che li hanno trasmessi oppure accertare se essi rappresentano il risultato dell'analisi dell'Europol.
 
-#### ARTICOLO 16
+### ARTICOLO 16
 
 DISPOSIZIONI RELATIVE ALLA STESURA DELLE RELAZIONI
 
 In media l'Europol stende una relazione per almeno un richiamo su dieci e per tutti i richiami effettuati nell'ambito del sistema di informazione di cui all'articolo 7, al fine di controllare la legittimita' dei richiami di dati di carattere personale. I dati contenuti nelle relazioni possono essere utilizzati dall'Europol e dalle autorita' di controllo di cui agli articoli 23 e 24 soltanto allo scopo sopra indicato e debbono essere cancellati dopo sei mesi, a meno che i dati non siano necessari per un controllo in corso. Il consiglio di amministrazione disciplina i dettagli, sentito il parere dell'autorita' di controllo comune.
 
-#### ARTICOLO 17
+### ARTICOLO 17
 
 NORME DI UTILIZZAZIONE
 
@@ -511,7 +511,7 @@ L'Europol puo' utilizzare dati di cui al paragrafo 1 solo per lo svolgimento del
 
 3\. L'utilizzazione dei dati a scopi diversi o da parte di autorita' diverse da quanto previsto all'articolo 2 e' possibile solo previa autorizzazione dello Stato membro che ha trasmesso i dati sempre che la sua legislazione nazionale lo permetta.
 
-#### ARTICOLO 18
+### ARTICOLO 18
 
 TRASMISSIONE DI DATI A STATI ED ORGANISMI TERZI
 
@@ -547,7 +547,7 @@ Se i dati non sono stati trasmessi da uno Stato membro, l'Europol si accerta che
 
 6\. Ove la trasmissione ai sensi del paragrafo 1 riguardi informazioni che devono essere tenute segrete, essa e' permessa solo se tra l'Europol e il destinatario esiste un accordo sulla protezione del segreto.
 
-#### ARTICOLO 19
+### ARTICOLO 19
 
 DIRITTO DI ACCESSO
 
@@ -595,7 +595,7 @@ Qualora il ricorso riguardi la verifica dei dati introdotti dall'Europol nel sis
 
 8\. Le disposizioni che precedono si applicano per analogia ai dati non automatizzati detenuti dall'Europol in forma di archivi, ossia a qualsiasi insieme strutturato di dati personali accessibile secondo criteri determinati.
 
-#### ARTICOLO 20
+### ARTICOLO 20
 
 RETTIFICA E CANCELLAZIONE DEI DATI
 
@@ -609,7 +609,7 @@ RETTIFICA E CANCELLAZIONE DEI DATI
 
 L'Europol informa il richiedente che i dati che lo riguardano sono stati rettificati o cancellati. Se la risposta dell'Europol non soddisfa il richiedente o se questi non ha ottenuto alcuna risposta entro tre mesi, egli puo' rivolgersi all'autorita' di controllo comune.
 
-#### ARTICOLO 21
+### ARTICOLO 21
 
 TERMINI PREVISTI PER LA CONSERVAZIONE
 
@@ -627,7 +627,7 @@ L'Europol stesso procede alla verifica dei dati conservati negli altri suoi arch
 
 5\. La cancellazione non ha luogo qualora ne risulti pregiudizio per interessi degni di tutela della persona considerata. In tal caso i dati possono essere utilizzati solo con il consenso della persona interessata.
 
-#### ARTICOLO 22
+### ARTICOLO 22
 
 RETTIFICA E CONSERVAZIONE DI DATI
 
@@ -641,7 +641,7 @@ Un dossier puo' non essere distrutto qualora vi sia motivo di supporre che con c
 
 3\. Qualsiasi persona oggetto di un dossier dell'Europol dispone nei confronti dello stesso di un diritto di rettifica, distruzione del dossier o inserimento di un'indicazione. Si applicano l'articolo 20, paragrafo 4 e l'articolo 24, paragrafi 2 e 7.
 
-#### ARTICOLO 23
+### ARTICOLO 23
 
 AUTORITA' DI CONTROLLO NAZIONALE
 
@@ -655,7 +655,7 @@ Inoltre, conformemente alle procedure nazionali applicabili, le autorita' di con
 
 Tale diritto viene esercitato secondo la legislazione nazionale dello Stato membro alla cui autorita' di controllo nazionale la richiesta e' rivolta.
 
-#### ARTICOLO 24
+### ARTICOLO 24
 
 AUTORITA' DI CONTROLLO COMUNE
 
@@ -693,7 +693,7 @@ L'autorita' di controllo comune decide di rendere pubblica o non rendere pubblic
 
 10\. Essa e' assistita da un segretariato i cui compiti sono determinati dal regolamento interno.
 
-#### ARTICOLO 25
+### ARTICOLO 25
 
 SICUREZZA DEI DATI
 
@@ -721,11 +721,9 @@ SICUREZZA DEI DATI
 
 10\) a garantire che le funzioni del sistema non siano difettose, che eventuali errori di funzionamento siano segnalati immediatamente (affidabilita') e che i dati memorizzati non possano essere falsati da un errore di funzionamento del sistema (autenticita').
 
-## TITOLO V - STATUS GIURIDICO,
+## TITOLO V - STATUS GIURIDICO, ORGANIZZAZIONE E DISPOSIZIONI FINANZIARIE
 
-### ORGANIZZAZIONE E - DISPOSIZIONI FINANZIARIE
-
-#### ARTICOLO 26
+### ARTICOLO 26
 
 CAPACITA' GIURIDICA
 
@@ -735,7 +733,7 @@ CAPACITA' GIURIDICA
 
 3\. L'Europol, ha facolta' di concludere un accordo sulla sede con il Regno dei Paesi Bassi e di concludere gli accordi sulla protezione del segreto richiesti a norma dell'articolo 18, paragrafo 6, nonche' altri accordi con gli Stati e organismi terzi di cui all'articolo 10, paragrafo 4 nell'ambito delle norme adottate all'unanimita' dal Consiglio sulla base della presente convenzione e del titolo VI del trattato sull'Unione europea.
 
-#### ARTICOLO 27
+### ARTICOLO 27
 
 ORGANI DELL'EUROPOL
 
@@ -749,7 +747,7 @@ Gli organi dell'Europol sono:
 
 4\) il comitato finanziario.
 
-#### ARTICOLO 28
+### ARTICOLO 28
 
 CONSIGLIO DI AMMINISTRAZIONE
 
@@ -825,7 +823,7 @@ CONSIGLIO DI AMMINISTRAZIONE
 
 Queste relazioni sono presentate al Consiglio, secondo la procedura prevista dal titolo VI del trattato sull'Unione europea.
 
-#### ARTICOLO 29
+### ARTICOLO 29
 
 DIRETTORE
 
@@ -855,7 +853,7 @@ DIRETTORE
 
 7\. In deroga ai paragrafi 1 e 2, il primo mandato dopo l'entrata in vigore della convenzione ha una durata di cinque anni per il direttore, di quattro anni per il vicedirettore e di tre anni per il secondo vicedirettore.
 
-#### ARTICOLO 30
+### ARTICOLO 30
 
 ORGANICO
 
@@ -867,7 +865,7 @@ Nella selezione degli agenti egli, oltre a tener conto dell'idoneita' personale 
 
 3\. I particolari sono disciplinati dallo statuto del personale, adottato dal Consiglio che delibera all'unanimita' previo parere del consiglio di amministrazione, secondo la procedura prevista dal titolo VI del trattato sull'Unione europea.
 
-#### ARTICOLO 31
+### ARTICOLO 31
 
 SEGRETEZZA
 
@@ -877,7 +875,7 @@ SEGRETEZZA
 
 3\. Ogni Stato membro e l'Europol possono designare per il trattamento dei dati in sede di Europol soltanto persone specificamente qualificate e sottoposte ad un controllo di sicurezza.
 
-#### ARTICOLO 32
+### ARTICOLO 32
 
 OBBLIGO DEL SEGRETO E DELLA RISERVATEZZA
 
@@ -901,7 +899,7 @@ Tale obbligo rimane anche dopo la cessazione del servizio o del rapporto di lavo
 
 Se del caso ogni Stato introduce al piu' tardi alla data dell'entrata in vigore della presente convenzione le norme di diritto nazionale o le disposizioni richieste ai fini delle azioni giudiziarie contro le violazioni degli obblighi di riservatezza o di protezione del segreto di cui ai paragrafi 2 e 3. Esso provvede affinche' queste norme e disposizioni si applichino anche ai suoi propri agenti che nell'ambito delle loro attivita' sono in rapporto con l'Europol.
 
-#### ARTICOLO 33
+### ARTICOLO 33
 
 LINGUE
 
@@ -909,7 +907,7 @@ LINGUE
 
 2\. I servizi di traduzione necessari per i lavori dell'Europol sono assicurati dal centro di traduzione delle istituzioni dell'Unione europea.
 
-#### ARTICOLO 34
+### ARTICOLO 34
 
 INFORMAZIONE DEL PARLAMENTO EUROPEO
 
@@ -919,7 +917,7 @@ INFORMAZIONE DEL PARLAMENTO EUROPEO
 
 3\. Gli obblighi previsti dal presente articolo lasciano impregiudicati i diritti dei Parlamenti nazionali, l'articolo K.6 del trattato sull'Unione europea ed i principi generali applicabili alle relazioni con il Parlamento europeo ai sensi del titolo VI del trattato sull'Unione europea.
 
-#### ARTICOLO 35
+### ARTICOLO 35
 
 BILANCIO
 
@@ -945,7 +943,7 @@ Unitamente al bilancio viene elaborato un piano finanziario quinquennale.
 
 9\. Il Consiglio che delibera in base alla procedura prevista dal titolo VI del trattato sull'Unione europea, adotta all'unanimita' il regolamento finanziario determinando in particolare le modalita' relative alla stesura, alla modifica e all'esecuzione del bilancio nonche' al controllo di tale esecuzione, nonche' le modalita' di pagamento dei contributi finanziari degli Stati membri.
 
-#### ARTICOLO 36
+### ARTICOLO 36
 
 REVISIONE DEI CONTI
 
@@ -971,7 +969,7 @@ Gli eventuali costi della revisione dei conti sono imputati al bilancio previsto
 
 6\. I particolari sono disciplinati dal regolamento finanziario.
 
-#### ARTICOLO 37
+### ARTICOLO 37
 
 ACCORDO SULLA SEDE
 
@@ -979,7 +977,7 @@ Le disposizioni relative all'insediamento dell'Europol nello Stato che ospita la
 
 ## TITOLO VI - RESPONSABILITA' E TUTELA GIURIDICA
 
-#### ARTICOLO 38
+### ARTICOLO 38
 
 RESPONSABILITA' IN CASO DI
 
@@ -991,7 +989,7 @@ TRATTAMENTO DI DATI ILLECITO O EFFETTUATO IN MODO NON CORRETTO
 
 3\. Qualsiasi disaccordo tra questo Stato membro e l'Europol o un altro Stato membro, relativo al principio o all'importo di detto rimborso, deve essere sottoposto al consiglio d'amministrazione, che delibera alla maggioranza dei due terzi.
 
-#### ARTICOLO 39
+### ARTICOLO 39
 
 ALTRI TIPI DI RESPONSABILITA'
 
@@ -1003,7 +1001,7 @@ ALTRI TIPI DI RESPONSABILITA'
 
 4\. Le giurisdizioni nazionali degli Stati membri competenti a conoscere delle controversie che coinvolgono la responsabilita' dell'Europol di cui al presente articolo sono determinate con riferimento alle pertinenti disposizioni della convenzione di Bruxelles del 27 settembre 1968 relativa alla competenza giurisdizionale e all'esecuzione di decisioni in materia civile e commerciale, successivamente adattata da convenzioni relative all'adesione.
 
-#### ARTICOLO 40
+### ARTICOLO 40
 
 COMPOSIZIONE DELLE CONTROVERSIE
 
@@ -1013,7 +1011,7 @@ COMPOSIZIONE DELLE CONTROVERSIE
 
 3\. Le disposizioni sui mezzi di ricorso di cui alla regolamentazione relativa al regime applicabile agli agenti temporanei e ausiliari delle Comunita' europee si applicano, per analogia, al personale dell'Europol.
 
-#### ARTICOLO 41
+### ARTICOLO 41
 
 PRIVILEGI E IMMUNITA'
 
@@ -1025,7 +1023,7 @@ PRIVILEGI E IMMUNITA'
 
 ## TITOLO VII - DISPOSIZIONI FINALI
 
-#### ARTICOLO 42
+### ARTICOLO 42
 
 RELAZIONI CON GLI STATI ED ORGANISMI TERZI
 
@@ -1035,7 +1033,7 @@ L'articolo 10, paragrafi 4 e 5 e l'articolo 18, paragrafo 2 restano impregiudica
 
 2\. Qualora cio' sia necessario per svolgere le funzioni definite all'articolo 3, l'Europol puo' inoltre instaurare e mantenere relazioni con gli Stati e gli altri organismi terzi di cui all'articolo 10, paragrafo 4, punti 4-7. Il Consiglio, che delibera all'unanimita' secondo la procedura prevista dal titolo VI del trattato sull'Unione europea, previo parere del consiglio di amministrazione, stabilisce norme che disciplinano le relazioni di cui alla prima frase. Si applica per analogia il disposto dell'articolo 1, terza frase.
 
-#### ARTICOLO 43
+### ARTICOLO 43
 
 MODIFICA DELLA CONVENZIONE
 
@@ -1047,13 +1045,13 @@ MODIFICA DELLA CONVENZIONE
 
 4\. Il Segretario Generale del Consiglio dell'Unione europea notifica a tutti gli Stati membri la data di entrata in vigore delle modifiche.
 
-#### ARTICOLO 44
+### ARTICOLO 44
 
 RISERVE
 
 Non sono ammesse riserve in merito alla presente convenzione.
 
-#### ARTICOLO 45
+### ARTICOLO 45
 
 ENTRATA IN VIGORE
 
@@ -1069,7 +1067,7 @@ ENTRATA IN VIGORE
 
 6\. A decorrere dall'adozione da parte del Consiglio dell'atto che stabilisce la presente convenzione, gli Stati membri adottano, nel quadro della rispettiva legislazione nazionale, separatamente o di comune accordo, tutte le misure preparatorie necessarie all'avvio delle attivita' dell'Europol.
 
-#### ARTICOLO 46
+### ARTICOLO 46
 
 ADESIONE DI NUOVI STATI MEMBRI
 
@@ -1081,7 +1079,7 @@ ADESIONE DI NUOVI STATI MEMBRI
 
 4\. La presente convenzione entra in vigore nei confronti dello Stato membro aderente il primo giorno del mese successivo allo scadere di un periodo di tre mesi a decorrere dalla data del deposito del suo strumento d'adesione ovvero alla data dell'entrata in vigore della convenzione, se questa non e' ancora entrata in vigore al momento dello scadere di detto periodo.
 
-#### ARTICOLO 47
+### ARTICOLO 47
 
 DEPOSITARIO
 
@@ -1091,7 +1089,7 @@ DEPOSITARIO
 
 FATTO a Bruxelles, addi' ventisei luglio millenovecentonovantacinque, in unico esemplare in lingua danese, finlandese, francese, greca, inglese, irlandese, italiana, olandese, portoghese, spagnola, svedese e tedesca, i testi di ciascuna di queste lingue facenti ugualmente fede, esemplare depositato negli archivi del Segretariato generale dell'Unione europea.
 
-#### Allegato
+### Allegato
 
 ALLEGATO
 
@@ -1161,7 +1159,7 @@ Le forme di criminalita' di cui all'articolo 2 e al presente allegato sono valut
 
 DICHIARAZIONI
 
-#### Articolo 10, paragrafo 1
+### Articolo 10, paragrafo 1
 
 "All'atto dell'elaborazione delle disposizioni di esecuzione dell'articolo 10, paragrafo 1, la Repubblica federale di Germania e la Repubblica d'Austria continueranno a vigilare affinche' sia affermato il seguente principio:
 
@@ -1205,11 +1203,11 @@ Le Alte Parti contraenti,
 
 hanno convenuto le disposizioni che seguono, che sono allegate alla convenzione:
 
-#### Articolo 1
+### Articolo 1
 
 La Corte di giustizia delle Comunita' europee e' competente, alle condizioni stabilite dal presente protocollo, a pronunciarsi in via pregiudiziale sull'interpretazione della convenzione che istituisce un Ufficio europeo di polizia, in appresso denominata "convenzione Europol".
 
-#### Articolo 2
+### Articolo 2
 
 1\. Ciascuno Stato membro puo', tramite una dichiarazione presentata all'atto della firma del presente protocollo o in qualsiasi altro momento successivo a detta firma, accettare la competenza della Corte di giustizia delle Comunita' europee a pronunciarsi, in via pregiudiziale, sull'interpretazione della convenzione Europol alle condizioni definite al paragrafo 2, lettere a) o b).
 
@@ -1219,13 +1217,13 @@ a) ogni organo giurisdizionale di detto Stato membro, avverso le cui decisioni n
 
 b) ogni organo giurisdizionale di detto Stato membro ha la facolta' di chiedere alla Corte di giustizia delle Comunita' europee di pronunciarsi, in via pregiudiziale, su una questione sollevata in un giudizio pendente dinanzi ad essa e relativa all'interpretazione della convenzione Europol, qualora tale organo giurisdizionale reputi necessaria una decisione su questo punto per emanare la sua sentenza.
 
-#### Articolo 3
+### Articolo 3
 
 1\. Si applicano il protocollo sullo statuto della Corte di giustizia delle Comunita' europee e il regolamento di procedura della Corte stessa.
 
 2\. In base allo statuto della Corte di giustizia delle Comunita' europee qualsiasi Stato membro ha la facolta' di presentare memorie o osservazioni scritte alla Corte di giustizia delle Comunita' europee nelle cause di cui e' investita a norma dell'articolo 1, indipendentemente dal fatto che si sia avvalso o meno della dichiarazione di cui all'articolo 2.
 
-#### Articolo 4
+### Articolo 4
 
 1\. Il presente protocollo e' sottoposto agli Stati membri per l'adozione secondo le rispettive norme costituzionali.
 
@@ -1233,7 +1231,7 @@ b) ogni organo giurisdizionale di detto Stato membro ha la facolta' di chiedere 
 
 3\. Il presente protocollo entra in vigore novanta giorni dopo la notifica di cui al paragrafo 2 da parte dello Stato membro dell'Unione europea alla data dell'adozione da parte del Consiglio dell'atto che stabilisce il presente protocollo, che proceda per ultimo a tale formalita'. Tuttavia, la sua entrata in vigore avverra' non prima di quella della convenzione Europol.
 
-#### Articolo 5
+### Articolo 5
 
 1\. Il presente protocollo e' aperto alla firma di ogni Stato che divenga membro dell'Unione europea.
 
@@ -1243,11 +1241,11 @@ b) ogni organo giurisdizionale di detto Stato membro ha la facolta' di chiedere 
 
 4\. Il presente protocollo entra in vigore nei confronti dello Stato membro aderente novanta giorni dopo la data di deposito del suo strumento di adesione, oppure alla data di entrata in vigore del presente protocollo, se quest'ultimo non e' ancora entrato in vigore allo scadere del suddetto periodo di novanta giorni.
 
-#### Articolo 6
+### Articolo 6
 
 Qualsiasi Stato che divenga membro dell'Unione europea e che aderisca alla convenzione Europol a norma dell'articolo 46 di tale convenzione e' tenuto ad accettare le disposizioni del presente protocollo.
 
-#### Articolo 7
+### Articolo 7
 
 1\. Ogni Stato membro, Alta Parte contraente, puo' proporre emendamenti del presente protocollo. Qualsiasi proposta di emendamento e' trasmessa al depositario che la comunica al Consiglio.
 
@@ -1255,13 +1253,13 @@ Qualsiasi Stato che divenga membro dell'Unione europea e che aderisca alla conve
 
 3\. Gli emendamenti cosi' adottati entrano in vigore a norma delle disposizioni dell'articolo 4.
 
-#### Articolo 8
+### Articolo 8
 
 1\. Il Segretario Generale del Consiglio dell'Unione europea e' depositario del presente protocollo.
 
 2\. Il depositario pubblica nella Gazzetta ufficiale delle Comunita' europee le notifiche, gli strumenti o le comunicazioni relativi al presente protocollo.
 
-#### Dichiarazione
+### Dichiarazione
 
 DICHIARAZIONE relativa all'adozione simultanea della convenzione che istituisce un Ufficio europeo di polizia e del protocollo concernente l'interpretazione in via pregiudiziale da parte della Corte di giustizia delle Comunita' europee di detta convenzione
 

@@ -26,7 +26,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+##### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare:
 
@@ -34,11 +34,11 @@ a) la convenzione europea sulla protezione degli animali negli allevamenti, adot
 
 b) la convenzione europea sulla protezione degli animali da macello, adottata a Strasburgo il 10 maggio 1979.
 
-### Art. 2
+##### Art. 2
 
 Piena ed intera esecuzione e' data alle convenzioni di cui all'articolo 1 con decorrenza dalla loro entrata in vigore in conformita' a quanto disposto rispettivamente dall'articolo 14 e dall'articolo 20.
 
-### Art. 3
+##### Art. 3
 
 Con delibera adottata dal Consiglio dei Ministri su proposta del Presidente del Consiglio d'intesa con i Ministri dell'agricoltura e delle foreste e della sanita', sentiti il Consiglio sanitario nazionale e la commissione di cui all'articolo 4 della presente legge, al fine di assicurare sul territorio nazionale un regime uniforme di protezione degli animali da allevamento e da macello, sono emanate, ai sensi dell'articolo 5 della legge 23 dicembre 1978, n. 833, norme di indirizzo e di coordinamento dell'attivita' amministrativa delle regioni in base ai principi contenuti nelle convenzioni europee di cui all'articolo 1, nonche' nelle raccomandazioni approvate dal comitato di cui all'articolo 8 della convenzione europea sulla protezione degli animali negli allevamenti, in particolare per quanto riguarda i seguenti aspetti:
 
@@ -54,7 +54,7 @@ e) attivita' relative alla macellazione;
 
 f) autorizzazioni e vigilanza nelle materie sopra indicate.
 
-### Art. 4
+##### Art. 4
 
 E' istituita con decreto del Ministro della sanita' una commissione tecnica nazionale per la protezione degli animali da allevamento e da macello, con funzioni consultive, presieduta dal direttore generale dei servizi veterinari del Ministero della sanita' o da un funzionario da lui delegato e composta come segue:
 
@@ -100,7 +100,7 @@ AGGIORNAMENTO (1)
 
 Il D.P.R. 28 marzo 2013, n. 44 ha disposto (con l'art. 2, comma 2, lettera f)) che sono trasferite ad un unico organo collegiale, denominato «Comitato tecnico per la nutrizione e la sanita' animale», le funzioni in atto esercitate dalla Commissione tecnica nazionale per la protezione degli animali da allevamento e da macello, di cui al presente articolo.
 
-### Art. 5
+##### Art. 5
 
 Per le violazioni delle sottoelencate norme delle convenzioni di cui all'articolo 1 saranno comminate con leggi regionali sanzioni amministrative pecuniarie, ai sensi della legge 24 novembre 1931, n. 689, comprese tra i limiti minimo e massimo di seguito indicati:
 
@@ -110,7 +110,7 @@ da L. 300.000 a L. 3.000.000 a chiunque trascuri di assicurare agli animali le c
 
 da L. 500.000 a L. 5.000.000 a chiunque non assicuri agli animali da allevamento la liberta' di movimento e lo spazio appropriati in relazione ai loro bisogni fisiologici ed etologici considerati all'articolo 4 della convenzione sulla protezione degli animali negli allevamenti o a chiunque contravvenga alle norme previste dall'articolo 4, comma terzo, e dagli articoli 5, 12, 13, 14, 15, e 16 della convenzione sulla protezione degli animali da macello.
 
-### Art. 6
+##### Art. 6
 
 Ai fini di cui alla presente legge le competenti amministrazioni regionali possono avvalersi dell'opera di associazioni di volontariato che perseguono fini analoghi, secondo le modalita' previste dall'articolo 45 della legge 23 dicembre 1978, n. 833.
 
@@ -128,7 +128,7 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 ## Allegati
 
-### Convention
+##### Convention
 
 CONVENTION EUROPEENNE SUR LA PROTECTION DES ANIMAUX DANS LES ELEVAGES
 
@@ -146,33 +146,33 @@ Gli Stati membri del Consiglio d'Europa, firmatari della presente Convenzione,
 
 Ritenendo auspicabile adottare disposizioni comuni per proteggere gli animali negli allevamenti, in particolare nei sistemi moderni di allevamento intensivo, Hanno convenuto su quanto segue:
 
-### Articolo 1
+##### Articolo 1
 
 La presente Convenzione si applica all'alimentazione, alle cure ed al ricovero degli animali specie nei sistemi moderni di allevamento intensivo. Ai sensi della presente Convenzione, per "animali" si intende quelli che sono allevati o custoditi per la produzione di derrate alimentari, di lana, di pelli, di pellicce o per altri scopi agricoli; per "sistemi moderni d'allevamento intensivo" s'intende gli allevamenti che utilizzano soprattutto installazioni tecniche che vengono sfruttate principalmente mediante dispositivi meccanici.
 
-### Articolo 2
+##### Articolo 2
 
 Ciascuna Parte Contraente da' effetto ai principi relativi alla protezione degli animali fissati negli articoli da 3 a 7 della presente Convenzione.
 
-### Articolo 3
+##### Articolo 3
 
 Ogni animale deve beneficiare di un ricovero, di una alimentazione e di cure che - tenuto conto della specie, del suo grado di sviluppo, d'adattamento e di addomesticamento - siano appropriate ai suoi bisogni fisiologici ed etologici, conformemente all'esperienza acquisita ed alle conoscenze scientifiche.
 
-### Articolo 4
+##### Articolo 4
 
 1\. La liberta' di movimento peculiare all'animale, tenuto conto della sua specie e conformemente all'esperienza acquisita ed alle conoscenze scientifiche, non deve essere ostacolata in maniera che cio' possa procurargli sofferenze o danni inutili.
 
 2\. Se un animale viene continuamente o abitualmente legato, incatenato o tenuto costretto, bisogna assicurargli sufficiente spazio per i suoi bisogni fisiologici ed etologici, conformemente a quanto dettato dall'esperienza acquisita e dalle conoscenze scientifiche.
 
-### Articolo 5
+##### Articolo 5
 
 L'illuminazione, la temperatura, il tasso di umidita', la circolazione dell'aria, l'aerazione del ricovero dell'animale e le altre condizioni ambientali quali la concentrazione dei gas o l'intensita' del rumore devono essere appropriati - tenuto conto della specie, del suo grado di sviluppo, di adattamento e di addomesticamento - ai suoi bisogni fisiologici ed etologici, in conformita' con l'esperienza acquisita e le cognizioni scientifiche.
 
-### Articolo 6
+##### Articolo 6
 
 Nessun animale deve essere alimentato in modo tale che ne risultino sofferenze e danni inutili; inoltre la sua alimentazione non deve contenere sostanze che possano causargli sofferenze o danni inutili.
 
-### Articolo 7
+##### Articolo 7
 
 1\. Le condizioni e lo stato di salute dell'animale devono essere oggetto di una accurata ispezione da effettuarsi a ragionevoli intervalli per evitargli sofferenze inutili, e comunque almeno una volta al giorno nel caso di animali tenuti nei moderni sistemi di allevamento intensivo.
 
@@ -180,7 +180,7 @@ Nessun animale deve essere alimentato in modo tale che ne risultino sofferenze e
 
 ## TITOLO II - Disposizioni dettagliate per la messa in opera
 
-### Articolo 8
+##### Articolo 8
 
 1\. Nell'anno susseguente all'entrata in vigore della presente Convenzione e' istituito un Comitato Permanente.
 
@@ -200,7 +200,7 @@ c) adozione del rapporto di cui all'articolo 13, rapporto che, all'occasione, ma
 
 6\. Con riserva delle disposizioni della presente Convenzione, il Comitato Permanente stabilisce il proprio regolamento interno.
 
-### Articolo 9
+##### Articolo 9
 
 1\. Il Comitato Permanente ha il compito di elaborare e di adottare le raccomandazioni rivolte alle Parti Contraenti che contengano disposizioni dettagliate in vista dell'applicazione dei principi enunciati al Titolo I della presente Convenzione; tali disposizioni devono essere fondate sulle conoscenze scientifiche relative alle diverse specie.
 
@@ -210,25 +210,25 @@ c) adozione del rapporto di cui all'articolo 13, rapporto che, all'occasione, ma
 
 4\. Qualora due o piu' Parti Contraenti o la Comunita' Economica Europea, essa stessa Parte Contraente, abbiano notificato, conformemente al paragrafo 3 del presente articolo, la loro decisione di non dare attuazione o non dare piu' attuazione ad una raccomandazione, la raccomandazione medesima cessa di avere effetto.
 
-### Articolo 10
+##### Articolo 10
 
 Il Comitato Permanente facilita per quanto necessario la composizione amichevole di qualsiasi difficolta' che possa sorgere fra le Parti Contraenti in merito all'applicazione della presente Convenzione.
 
-### Articolo 11
+##### Articolo 11
 
 Il Comitato Permanente puo', su richiesta di una delle Parti Contraenti, esprimere parere consultivo su qualsiasi questione che abbia attinenza con la protezione degli animali.
 
-### Articolo 12
+##### Articolo 12
 
 Al fine di assistere il Comitato Permanente nei suoi lavori, ciascuna Parte Contraente puo' designare uno o piu' organi ai quali il Comitato stesso potra' rivolgersi per consigli ed informazioni. Le Parti Contraenti comunicano al Segretario Generale del Consiglio d'Europa il nome e l'indirizzo degli organi in questione.
 
-### Articolo 13
+##### Articolo 13
 
 Il Comitato Permanente sottopone al Comitato dei Ministri del Consiglio d'Europa, allo scadere del terzo anno dopo l'entrata in vigore della presente Convenzione ed allo scadere di ogni ulteriore triennio, un rapporto sul lavoro svolto e sul funzionamento della Convenzione, includendovi, se lo ritiene opportuno, proposte miranti ad emendare la Convenzione.
 
 ## TITOLO III - Disposizioni finali
 
-### Articolo 14
+##### Articolo 14
 
 1\. La presente Convenzione e' aperta alla firma degli Stati membri del Consiglio d'Europa nonche' alla firma della Comunita' Economica Europea. Essa sara' ratificata, accettata o approvata. Gli strumenti di ratifica, accettazione o approvazione saranno depositati presso il Segretario Generale del Consiglio d'Europa.
 
@@ -236,13 +236,13 @@ Il Comitato Permanente sottopone al Comitato dei Ministri del Consiglio d'Europa
 
 3\. Essa entrera' in vigore nei confronti di ogni Parte firmataria che l'abbia ratificata, accettata o approvata dopo la data prevista al paragrafo 2 del presente articolo, sei mesi dopo a partire dalla data in cui avra' depositato il proprio strumento di ratifica, accettazione o approvazione.
 
-### Articolo 15
+##### Articolo 15
 
 1\. Dopo l'entrata in vigore della presente Convenzione, il Comitato dei Ministri del Consiglio d'Europa potra' invitare, secondo le modalita' che riterra' opportune, gli Stati non membri del Consiglio ad aderire alla presente Convenzione.
 
 2\. L'adesione avverra' mediante deposito presso il Segretario Generale del Consiglio d'Europa, di uno strumento d'adesione che avra' effetto sei mesi dopo a partire dalla data in cui lo strumento stesso sara' depositato.
 
-### Articolo 16
+##### Articolo 16
 
 1\. Ciascuna Parte Contraente puo' designare, al momento della firma o al momento in cui deposita il proprio strumento di ratifica, accettazione, approvazione o adesione il o i territori ai quali la presente Convenzione si applichera'.
 
@@ -250,13 +250,13 @@ Il Comitato Permanente sottopone al Comitato dei Ministri del Consiglio d'Europa
 
 3\. Ogni dichiarazione fatta in virtu' del paragrafo precedente potra' essere ritirata per quel che riguarda il territorio indicato nella detta dichiarazione, secondo le modalita' previste dall'articolo 17 della presente Convenzione.
 
-### Articolo 17
+##### Articolo 17
 
 1\. Ciascuna Parte Contraente potra', per quel che la riguarda, denunciare la presente Convenzione indirizzando una notifica al Segretario Generale del Consiglio d'Europa.
 
 2\. La denuncia avra' effetto sei mesi dopo a partire dalla data in cui la notifica sara' pervenuta nelle mani del Segretario Generale.
 
-### Articolo 18
+##### Articolo 18
 
 Il Segretario Generale del Consiglio d'Europa notifichera' agli Stati membri del Consiglio nonche' a tutte le Parti Contraenti non membri del Consiglio:
 
@@ -280,13 +280,13 @@ IN FEDE di quanto sopra, i sottoscritti, debitamente autorizzati in tale senso, 
 
 FATTO a Strasburgo il 10 marzo 1976, in inglese e francese, entrambi i testi facendo fede, in un unico esemplare che sara' depositato presso gli archivi del Consiglio d'Europa. Il Segretario Generale del Consiglio d'Europa ne comunichera' copia certificata conforme a ciascuna delle Parti firmatarie ed aderenti.
 
-### Convention
+##### Convention
 
 CONVENTION EUROPEENNE SUR LA PROTECTION DES ANIMAUX D'ABATTAGE
 
 Parte di provvedimento in formato grafico
 
-## CAPITOLO I - Principi generali
+### CAPITOLO I - Principi generali
 
 TRADUZIONE NON UFFICIALE
 
@@ -302,7 +302,7 @@ Tenuto conto che i metodi di abbattimento che risparmiano nei limiti del possibi
 
 Tenuto conto che la paura, la tensione, i dolori e le sofferenze di un animale al momento dell'abbattimento rischiano di influenzare la qualita' della carne, Convengono su quanto segue:
 
-### Articolo 1
+##### Articolo 1
 
 1\. La presente Convenzione si applica all'avviamento, al ricovero, all'immobilizzazione, allo stordimento e all'abbattimento degli animali domestici appartenenti alle seguenti specie: solipedi, ruminanti, suini, conigli e pollame.
 
@@ -316,7 +316,7 @@ Stordimento: ogni procedimento conforme alle disposizioni della presente Convenz
 
 Macellazione: la messa a morte di un animale dopo l'immobilizzazione, lo stordimento e scannamento, salvo le eccezioni previste al Capitolo III della presente Convenzione.
 
-### Articolo 2
+##### Articolo 2
 
 1\. Ciascuna Parte Contraente prende le misure necessarie al fine di assicurare l'effettiva applicazione delle disposizioni della presente Convenzione.
 
@@ -326,17 +326,17 @@ Macellazione: la messa a morte di un animale dopo l'immobilizzazione, lo stordim
 
 4\. Ciascuna Parte Contraente vigila per risparmiare agli animali abbattuti nei macelli o fuori di essi qualsiasi dolore o sofferenze evitabili.
 
-## CAPITOLO II - Consegna degli animali ai mattatoi e ricovero dei medesimi fino alla loro macellazione
+### CAPITOLO II - Consegna degli animali ai mattatoi e ricovero dei medesimi fino alla loro macellazione
 
-### Articolo 3
+##### Articolo 3
 
 1\. Gli animali devono essere scaricati nel piu' breve tempo possibile. Durante le attese nei mezzi di trasporto essi devono essere posti al riparo da condizioni climatiche eccessive e beneficiare altresi' di una aerazione adeguata.
 
 2\. Il personale addetto all'avviamento ed al ricovero degli animali deve possedere necessarie conoscenze e capacita' e deve altresi' rispettare le esigenze enunciate nella presente Convenzione.
 
-## SEZIONE I - Avviamento degli animali verso il recinto del mattatoio
+#### SEZIONE I - Avviamento degli animali verso il recinto del mattatoio
 
-### Articolo 4
+##### Articolo 4
 
 1\. Gli animali devono essere scaricati ed avviati con ogni cura.
 
@@ -346,7 +346,7 @@ Macellazione: la messa a morte di un animale dopo l'immobilizzazione, lo stordim
 
 4\. Se necessario, gli animali devono essere condotti singolarmente; se vengono spostati utilizzando corridoi, questi ultimi devono essere concepiti in modo tale che gli animali non possano ferirsi.
 
-### Articolo 5
+##### Articolo 5
 
 1\. Gli animali devono essere spostati utilizzando la loro natura gregale. Gli strumenti destinati a dirigere gli animali non devono essere impiegati altro che a questo fine ed unicamente in tempi brevi. E' proibito, in particolare, colpire gli animali sulle parti del corpo piu' sensibili o di spingerli toccando le suddette parti.
 
@@ -358,15 +358,15 @@ Le apparecchiature a scarica elettrica non possono essere utilizzate che per i b
 
 4\. Gli animali consegnati in gabbie, cesti o cassoni con fondo perforato o flessibile devono essere scaricati con particolare cura per evitare che si verifichino ferite alle estremita' degli animali stessi. Se del caso, gli animali devono essere scaricati singolarmente.
 
-### Articolo 6
+##### Articolo 6
 
 1\. Non si devono avviare gli animali verso i locali di macellazione se non quando il loro abbattimento puo' essere praticato al piu' presto.
 
 2\. Se gli animali non vengono abbattuti immediatamente dopo il loro arrivo, si deve provvedere al loro ricovero.
 
-## SEZIONE II - Ricovero degli animali
+#### SEZIONE II - Ricovero degli animali
 
-### Articolo 7
+##### Articolo 7
 
 1\. Gli animali devono essere tenuti al riparo degli effetti meteorologici o climatici sfavorevoli. I mattatoi devono disporre di installazioni sufficienti per la stabulazione o stabbiatura degli animali e capaci di offrire loro una protezione contro le intemperie.
 
@@ -384,9 +384,9 @@ Le apparecchiature a scarica elettrica non possono essere utilizzate che per i b
 
 8\. Allorche' le condizioni climatiche lo esigono (ad esempio forte umidita', basse temperature) gli animali devono essere posti in stabulazione. Le stalle devono essere arieggiate. Durante il foraggiamento le stalle devono essere sufficientemente illuminate.
 
-## SEZIONE III - Cura degli animali
+#### SEZIONE III - Cura degli animali
 
-### Articolo 8
+##### Articolo 8
 
 1\. Gli animali devono avere a disposizione l'acqua, a meno che non siano avviati nei locali di macellazione al piu' presto possibile.
 
@@ -394,41 +394,41 @@ Le apparecchiature a scarica elettrica non possono essere utilizzate che per i b
 
 3\. Quando non sono legati, gli animali devono poter disporre di mangiatoie per foraggiarsi senza essere disturbati.
 
-### Articolo 9
+##### Articolo 9
 
 1\. Le condizioni e lo stato di salute degli animali devono costituire l'oggetto di una ispezione da eseguirsi almeno due volte al giorno, mattina e sera.
 
 2\. Gli animali malati, indeboliti o feriti devono essere immediatamente abbattuti. Se cio' non e' possibile, devono essere separati dagli altri, in attesa di essere abbattuti.
 
-## SEZIONE IV - Altre disposizioni
+#### SEZIONE IV - Altre disposizioni
 
-### Articolo 10
+##### Articolo 10
 
 Ciascuna delle Parti Contraenti puo' autorizzare deroghe alle disposizioni di cui al Capitolo II della presente Convenzione per quanto riguarda le renne.
 
-### Articolo 11
+##### Articolo 11
 
 Ciascuna delle Parti Contraenti puo' prevedere affinche' le disposizioni del Capitolo II della presente Convenzione vengano applicate, mutatis mutandis, alla consegna ed al ricovero degli animali al di fuori dei mattatoi.
 
-## CAPITOLO III - Macellazione degli animali
+### CAPITOLO III - Macellazione degli animali
 
-### Articolo 12
+##### Articolo 12
 
 Gli animali devono essere immobilizzati, se necessario, immediatamente prima di essere abbattuti e, salvo le eccezioni previste dall'articolo 17, storditi secondo procedimenti appropriati.
 
-### Articolo 13
+##### Articolo 13
 
 Nel caso di abbattimento rituale, e' obbligatorio immobilizzare gli animali della specie bovina prima dell'abbattimento, mediante un procedimento meccanico, allo scopo di evitare all'animale ogni dolore, sofferenza ed eccitazione, come anche ogni ferita o contusione.
 
-### Articolo 14
+##### Articolo 14
 
 E' proibito impiegare mezzi di contenzione che causino sofferenze evitabili, legare le membra posteriori degli animali o appenderli prima della fase di stordimento; e nel caso di abbattimento rituale, prima che il sangue sia completamente sgorgato. Tuttavia la proibizione di appendere gli animali non si applica alla macellazione del pollame e dei conigli, a condizione che la sospensione preceda immediatamente la fase di stordimento.
 
-### Articolo 15
+##### Articolo 15
 
 Le operazioni di abbattimento diverse da quelle previste al paragrafo 2 dell'articolo 1 non possono avere inizio se non dopo la morte dell'animale.
 
-### Articolo 16
+##### Articolo 16
 
 1\. Secondo i procedimenti di stordimento autorizzati dalle Parti Contraenti, gli animali devono cadere in uno stato di incoscienza nel quale vanno mantenuti sino al momento dell'abbattimento, risparmiando comunque loro ogni sofferenza evitabile.
 
@@ -444,7 +444,7 @@ anestesia con il gas.
 
 4\. Ciascuna Parte Contraente puo' autorizzare deroghe alle disposizioni dei paragrafi 2 e 3 del presente articolo nel caso di abbattimento di un animale da parte dell'allevatore e per suo uso e consumo nel luogo stesso in cui l'animale si trova.
 
-### Articolo 17
+##### Articolo 17
 
 1\. Ciascuna Parte Contraente puo' autorizzare deroghe alle disposizioni relative alla fase preliminare di stordimento nei seguenti casi:
 
@@ -458,19 +458,19 @@ abbattimento di animali per ragioni di disciplina sanitaria, purche' motivato da
 
 2\. Le Parti Contraenti che faranno ricorso alle deroghe di cui al paragrafo 1 del presente articolo devono aver cura, tuttavia, a che nel caso di simili abbattimenti venga risparmiato agli animali ogni sofferenza o dolore evitabili.
 
-### Articolo 18
+##### Articolo 18
 
 1\. Ciascuna Parte Contraente deve accertarsi delle capacita' professionali delle persone addette all'immobilizzazione, stordimento e abbattimento degli animali.
 
 2\. Ciascuna Parte Contraente deve avere cura che gli strumenti, gli apparecchi e le installazioni necessarie ad immobilizzare e stordire gli animali corrispondano ai requisiti posti dalla Convenzione.
 
-### Articolo 19
+##### Articolo 19
 
 Ciascuna Parte Contraente che autorizzi abbattimenti secondo riti religiosi deve assicurarsi dell'abilitazione dei sacrificatori da parte degli organismi religiosi, a meno che non sia la Parte Contraente stessa a rilasciare le autorizzazioni necessarie.
 
-## CAPITOLO IV - Disposizioni finali
+### CAPITOLO IV - Disposizioni finali
 
-### Articolo 20
+##### Articolo 20
 
 1\. La presente Convenzione e' aperta alla firma degli Stati membri del Consiglio d'Europa nonche' alla firma della Comunita' Economica Europea. Essa sara' ratificata, accettata o approvata. Gli strumenti di ratifica, accettazione o approvazione saranno depositati presso il Segretario Generale del Consiglio d'Europa.
 
@@ -478,13 +478,13 @@ Ciascuna Parte Contraente che autorizzi abbattimenti secondo riti religiosi deve
 
 3\. Essa entrera' in vigore nei confronti di ogni Parte firmataria che l'abbia ratificata, accettata o approvata dopo la data di cui al paragrafo 2 del presente articolo, sei mesi dopo la data di deposito del proprio strumento di ratifica, accettazione o approvazione.
 
-### Articolo 21
+##### Articolo 21
 
 1\. Dopo l'entrata in vigore della presente Convenzione, il Comitato dei Ministri del Consiglio d'Europa potra' invitare, secondo le modalita' che riterra' opportune, gli Stati non membri del Consiglio d'Europa ad aderire alla presente Convenzione.
 
 2\. L'adesione si effettuera' mediante deposito, presso il Segretario Generale del Consiglio d'Europa, dello strumento di adesione, che avra' effetto sei mesi dopo la data del deposito stesso.
 
-### Articolo 22
+##### Articolo 22
 
 1\. Ciascuno Stato puo', al momento della firma o al momento del deposito del proprio strumento di ratifica, accettazione, approvazione o adesione, designare il territorio o i territori ai quali la presente Convenzione si applichera'.
 
@@ -492,13 +492,13 @@ Ciascuna Parte Contraente che autorizzi abbattimenti secondo riti religiosi deve
 
 3\. Ogni dichiarazione fatta in virtu' del paragrafo precedente potra' essere ritirata, per quel che concerne il territorio designato nella detta dichiarazione, mediante notifica indirizzata al Segretario Generale. Il ritiro avra' effetto sei mesi dopo la data in cui il Segretario Generale riceve la notifica.
 
-### Articolo 23
+##### Articolo 23
 
 1\. Ciascuna Parte Contraente potra', per quello che la riguarda, denunciare la presente Convenzione indirizzando una notifica al Segretario Generale del Consiglio d'Europa.
 
 2\. La denuncia avra' effetto sei mesi dopo la data in cui il Segretario Generale riceve la notifica.
 
-### Articolo 24
+##### Articolo 24
 
 Il Segretario Generale del Consiglio d'Europa notifichera' agli Stati Membri del Consiglio e ad ogni Parte Contraente non membro del Consiglio:
 

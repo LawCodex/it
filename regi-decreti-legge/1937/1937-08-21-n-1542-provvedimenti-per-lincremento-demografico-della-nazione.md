@@ -40,75 +40,73 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e del Mi
 
 Abbiamo decretato e decretiamo:
 
-## Capo I
+## Capo I - Prestiti matrimoniali.
 
-### Prestiti matrimoniali. - ((CAPO ABROGATO DALLA L. 12 FEBBRAIO
+## ((CAPO ABROGATO DALLA L. 12 FEBBRAIO - 1955, N. 46))
 
-#### 1955, N. 46))
-
-###### Art. 1
+### Art. 1
 
 ((ARTICOLO ABROGATO DALLA L. 12 FEBBRAIO 1955, N. 46))
 
-###### Art. 2
+### Art. 2
 
 ((ARTICOLO ABROGATO DALLA L. 12 FEBBRAIO 1955, N. 46))
 
-###### Art. 3
+### Art. 3
 
 ((ARTICOLO ABROGATO DALLA L. 12 FEBBRAIO 1955, N. 46))
 
-###### Art. 4
+### Art. 4
 
 ((ARTICOLO ABROGATO DALLA L. 12 FEBBRAIO 1955, N. 46))
 
-###### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DALLA L. 12 FEBBRAIO 1955, N. 46))
 
-###### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DALLA L. 12 FEBBRAIO 1955, N. 46))
 
-###### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DALLA L. 12 FEBBRAIO 1955, N. 46))
 
-###### Art. 8
+### Art. 8
 
 ((ARTICOLO ABROGATO DALLA L. 12 FEBBRAIO 1955, N. 46))
 
-###### Art. 9
+### Art. 9
 
 ((ARTICOLO ABROGATO DALLA L. 12 FEBBRAIO 1955, N. 46))
 
-###### Art. 10
+### Art. 10
 
 ((ARTICOLO ABROGATO DALLA L. 12 FEBBRAIO 1955, N. 46))
 
-###### Art. 11
+### Art. 11
 
 ((ARTICOLO ABROGATO DALLA L. 12 FEBBRAIO 1955, N. 46))
 
-###### Art. 12
+### Art. 12
 
 ((ARTICOLO ABROGATO DALLA L. 12 FEBBRAIO 1955, N. 46))
 
-###### Art. 13
+### Art. 13
 
 ((ARTICOLO ABROGATO DALLA L. 12 FEBBRAIO 1955, N. 46))
 
 ## Capo II. - Provvedimenti in materia tributaria.
 
-###### Art. 14
+### Art. 14
 
 ((ARTICOLO ABROGATO DAL D.P.R. 29 GENNAIO 1958, N. 645))
 
-###### Art. 15
+### Art. 15
 
 ((Alla imposta sul celibato, istituita col R. decreto-legge 19 dicembre 1926, n. 2132, nella misura specificata nel R. decreto-legge 6 febbraio 1936, n. 265, sono soggetti, a decorrere dal 1° gennaio 1938, gli ufficiali e sottufficiali delle Forze armate dello Stato, esclusi coloro per i quali non si siano ancora verificate le condizioni prescritte dalle disposizioni in vigore per poter contrarre matrimonio)).
 
-###### Art. 16
+### Art. 16
 
 ((L'esenzione dalle tasse e sopratasse per ogni ordine e grado di scuole e di istituti di cui al n. 5 della lettera c) dell'art. 1 della legge 14 giugno 1928-VI, n. 1312, comprese le Universita' e gli Istituti superiori, e' concessa in base alla sola condizione dei figli nati vivi di nazionalita' italiana e indipendentemente dal numero dei figli rimasti a carico nella misura seguente:
 
@@ -124,7 +122,7 @@ AGGIORNAMENTO (2)
 
 La L. 20 marzo 1940, n. 224 ha disposto (con l'art. 6, comma 1) che la presente modifica ha effetto dal 23 marzo 1939-XVII.
 
-###### Art. 17
+### Art. 17
 
 Agli articoli 120, 121, 122 del R. decreto 4 maggio 1925, n. 653, che approva il regolamento sugli alunni, gli esami e le tasse negli Istituti medi di istruzione sono sostituiti i seguenti:
 
@@ -140,11 +138,11 @@ a) agli alunni figli unici che abbiano riportato non meno di otto decimi di punt
 
 b) agli alunni appartenenti a famiglie di cui il padre abbia avuto non meno di due figli nati vivi e vitali e di nazionalita' italiana se abbiano riportato non meno di sette decimi dei punti complessivamente assegnati all'esame o alla scrutinio finale e non meno di otto nel voto di condotta».
 
-###### Art. 18
+### Art. 18
 
 I provvedimenti di cui ai precedenti articoli 16 e 17 avranno effetto a cominciare dall'anno scolastico 1937-38.
 
-###### Art. 19
+### Art. 19
 
 Tra il primo ed il secondo comma dell'art. 106 del testo unico per la finanza locale approvato con R. decreto 14 settembre 1931, n. 1175, e' inserito il seguente comma:
 
@@ -156,7 +154,7 @@ b) del 35% per le famiglie aventi almeno sei figli minori e conviventi a carico;
 
 c) del 50% per le famiglie aventi almeno sette figli minori e conviventi a carico».
 
-###### Art. 20
+### Art. 20
 
 Dopo il primo comma dell'art. 107 del predetto testo unico 14 settembre 1931, n. 1175, sono aggiunti i commi seguenti:
 
@@ -170,17 +168,15 @@ dell'8% per ogni figlio di eta' inferiore ai 21 anni, convivente ed a carico, qu
 
 La riduzione non puo' superare, in ogni caso, L. 100 di imposta per ogni figlio a carico».
 
-###### Art. 21
+### Art. 21
 
 La disposizione contenuta nella lettera a) dell'art. 118 del testo unico per la finanza locale sopracitato e' sostituita come appresso:
 
 « a) i minimi redditi imponibili. Questi pero' sono aumentati della meta' quando i componenti della famiglia a carico del contribuente eccedono il numero di quattro, sono aumentati del 75% quando i componenti della famiglia a carico del contribuente eccedono il numero di sei e sono raddoppiati quando i componenti della famiglia a carico del contribuente eccedono il numero di sette; sono, per contro, ridotti di un quarto quando il contribuente non abbia persona di famiglia a suo carico».
 
-## Capo III. - Provvedimenti speciali nei riguardi dei dipendenti dello
+## Capo III. - Provvedimenti speciali nei riguardi dei dipendenti dello Stato e di altri Enti pubblici.
 
-### Stato e di - altri Enti pubblici.
-
-###### Art. 22
+### Art. 22
 
 ((Nei riguardi dei dipendenti delle Amministrazioni statali, comprese quelle con ordinamento autonomo, forniti di stipendio, paga o retribuzione, suscettibile, secondo le disposizioni vigenti, di aumenti periodici, il periodo in corso di maturazione alla data di nascita di un figlio si considera compiuto dal 1° del mese in cui avviene la nascita, se questa si verifica entro il giorno 15 e in caso diverso dal 1° del mese successivo.
 
@@ -202,7 +198,7 @@ Nel caso in cui l'aumento periodico per anzianita' di servizio, dovuto secondo l
 
 La decorrenza degli aumenti periodici di stipendio successivi e quella delle promozioni che, ai sensi delle vigenti disposizioni, siano da conferire in dipendenza del raggiungimento di un determinato aumento periodico di stipendio, paga o retribuzione, non restano modificate per effetto della concessione di cui ai commi precedenti)).
 
-###### Art. 23
+### Art. 23
 
 Il limite massimo di eta' stabilito dalle disposizioni vigenti per l'ammissione ai pubblici concorsi di nomina agli impieghi nelle Amministrazioni statali, comprese quelle con ordinamento autonomo e' elevato:
 
@@ -214,13 +210,13 @@ L'elevazione di cui alla lettera a) si cumula con quella di cui alla lettera b) 
 
 Le disposizioni del presente articolo si applicano anche ai concorsi di nomina agli impieghi nelle Amministrazioni statali comprese quelle con ordinamento autonomo, quando i posti da conferire siano riservati ai dipendenti delle Amministrazioni medesime e per l'ammissione a detti concorsi siano stabiliti limiti di eta'.
 
-###### Art. 24
+### Art. 24
 
 Nei concorsi indicati al precedente articolo 23, esclusi quelli di nomina ad impieghi dei gruppi A e B ed equiparabili, un decimo dei posti messi a concorso e' riservato ai candidati che si trovino nelle condizioni di cui alle lettere a) e b) del cennato articolo e consegnano l'idoneita'.
 
 L'indicata aliquota e' elevata fino a non oltre la meta' dei posti messi a concorso in corrispondenza ad altrettanti posti non coperti da altri candidati idonei nello stesso concorso a favore dei quali sia gia' prevista analoga riserva dalle disposizioni ora in vigore.
 
-###### Art. 24-bis
+### Art. 24-bis
 
 ((I periodi minimi di anzianita' richiesti dalle vigenti disposizioni:
 
@@ -234,7 +230,7 @@ sono ridotti di un anno per i coniugati, o vedovi, aventi un figlio e di due ann
 
 La riduzione di cui al comma precedente e' cumulabile con quelle eventualmente spettanti ai sensi di altre disposizioni: fermo peraltro, in ogni caso, il limite di due anni di servizio effettivo, ove trattisi di ruolo di gruppo A, e di quattro anni, ove trattisi di ruolo di gruppo B, fissato dall'art. 104 del R. decreto 30 dicembre 1923, n. 3084, per la promozione al grado 10° nei predetti ruoli; e fermo altresi' il limite di almeno due anni di appartenenza al proprio ruolo, fissato dagli articoli 9 e 11 del R. decreto 8 maggio 1924, n. 843, e successive estensioni, per le promozioni al grado 8° di gruppo A, al 9° di gruppo B ed al grado 11° di gruppo C)).
 
-###### Art. 25
+### Art. 25
 
 Gli articoli 4, 5, 6, 7, 8, 9, 10 e 11 del R. decreto-legge 12 marzo 1936-XIV, n. 1030, convertito nella legge 1° febbraio l937-XV, n. 455, recanti norme per la costituzione della rendita dotale da parte degli ufficiali delle Forze armate dello Stato che intendono contrarre matrimonio, sono abrogati.
 
@@ -244,15 +240,15 @@ Con decreto Reale da emanarsi, ai sensi dell'art. 1, n. 3 della legge 31 gennaio
 
 Agli ufficiali di completamento con famiglia oppure vedovi con figli minori o inabili al lavoro conviventi ed a carico, iscritti nel ruolo speciale della Regia marina e richiamati in servizio attivo ai sensi della legge 6 giugno 1935, n. 1098, spetta, durante il periodo di richiamo, l'aumento dell'indennita' militare assegnata per la famiglia ai sensi dell'ultimo comma dell'art. 1 del R decreto-legge 10 febbraio 1926, n. 206, convertito nella legge 25 giugno 1926, n. 1135.
 
-###### Art. 26
+### Art. 26
 
 Nella concessione da parte delle gestioni all'uopo costituite presso le Amministrazioni dello Stato, secondo gli ordinamenti in vigore, di mutui contro cessione dello stipendio, e' riservata in ogni caso la preferenza, salva la necessaria giustificazione della richiesta, ai dipendenti che abbiano prole piu' numerosa e, a parita' di numero di figli, a quelli coniugati da minore tempo.
 
-###### Art. 27
+### Art. 27
 
 ((ARTICOLO ABROGATO DAL D.LGS. LUOGOTENENZIALE 9 GIUGNO 1945, N. 387))
 
-###### Art. 28
+### Art. 28
 
 Le disposizioni dei precedenti articoli 22 e 27 si applicano anche al personale nelle isole italiane dell'Egeo, in Colonia ed all'Estero.
 
@@ -260,17 +256,9 @@ Quelle degli articoli 22, 23, 24, sono estese, in quanto applicabili, al persona
 
 Con decreti del Capo del Governo di concerto con i Ministri per le finanze e per la grazia e giustizia, e col Ministro competente, le disposizioni dei medesimi articoli 22, 23 e 24 potranno essere estese ad altri enti di diritto pubblico.
 
-## Capo IV. - Norme per la tutela del personale femminile in servizio
+## Capo IV. - Norme per la tutela del personale femminile in servizio presso le Amministrazioni statali durante lo stato di gravidanza e di puerperio. a) Personale delle Amministrazioni statali escluse quelle ferroviarie, delle poste e dei telegrafi e dei telefoni.
 
-### presso le - Amministrazioni statali durante lo stato di gravidanza e
-
-#### di - puerperio.
-
-##### a) Personale delle Amministrazioni statali escluse - quelle
-
-###### ferroviarie, delle poste e dei telegrafi e dei telefoni.
-
-###### Art. 29
+### Art. 29
 
 Alle impiegate non di ruolo in servizio presso le Amministrazioni statali escluse quelle delle ferrovie dello Stato e delle poste e telegrafi e dei telefoni, e' usato, durante lo stato di gravidanza e di puerperio, il trattamento di cui al R. decreto-legge 22 marzo 1934-XII, n. 654, convertito nella legge 5 luglio 1934-XII, n. 1347, per quanto riguarda:
 
@@ -294,13 +282,13 @@ Le impiegate non di ruolo di cui al presente articolo, che si trovino in stato d
 
 Lo stesso obbligo e' fatto al personale femminile di ruolo in servizio nelle Amministrazioni statali eccetto quelle ferroviarie, delle poste e dei telegrafi e dei telefoni trovati lesi in analoghe condizioni.
 
-###### Art. 30
+### Art. 30
 
 All'art. 95 del R. decreto 30 dicembre 1923-II. n. 2960, e' aggiunto il seguente comma: « Per causa di gravidanza e di puerperio la proroga del congedo e' di un mese e mezzo e l'impiegata conserva, anche durante il periodo di proroga, del congedo concessa per la cennata causa, il supplemento di servizio attivo ».
 
 E' integrato in conformita' anche l'art. 5 del R. decreto 11 novembre 1923-II, n. 2395.
 
-###### Art. 31
+### Art. 31
 
 ((Le disposizioni di cui all'articolo 29 del presente decreto sono applicabili anche alle insegnanti elementari non di ruolo che si trovino nelle condizioni ivi previste e che prestino servizio presso le scuole amministrate dai Regi provveditorati agli studi o, per delega dello Stato, dagli Enti di cultura, nonche' presso le Regie scuole coloniali, le Regie scuole italiane all'estero, le scuole parificate e presso quelle degli Istituti per ciechi e sordomuti; e alle insegnanti non di ruolo delle Regie scuole magistrali e annesse classi del grado preparatorio e della Regia scuola di metodo per educatori dei ciechi)).
 
@@ -316,7 +304,7 @@ Ai fini del compimento del periodo minimo di servizio richiesto, per la validita
 
 Nulla e' innovato alle disposizioni legislative e regolamentari gia' in vigore a favore delle insegnanti elementari.
 
-###### Art. 32
+### Art. 32
 
 L'art. 107 del regolamento per l'applicazione del R. decreto 30 dicembre 1923-II, n. 2994, sullo stato giuridico ed il tracciamento economico dei salariati dipendenti dalle Amministrazioni dello Stato, approvato con R. decreto 31 dicembre 1924-III, n. 2262, e' sostituito dal seguente:
 
@@ -332,17 +320,17 @@ c) durante sei settimane dopo il parto.
 
 « Il periodo di interdizione dal lavoro precedente la data presunta del parto e quello successivo al parto potranno, su richiesta dell'operaia, ridursi fino a tre settimane ciascuno, quando, in base a certificato medico cio' risulti consentito dalle sue condizioni di salute senza pregiudizio proprio e del figlio ».
 
-###### Art. 33
+### Art. 33
 
 Nulla e' innovato al disposto dell'art. 49 del testo unico approvato con R. decreto 24 dicembre 1924-III, n, 2114, riguardante la concessione agli operai di sussidi giornalieri nelle assenze per infermita'.
 
-###### Art. 34
+### Art. 34
 
 Il disposto della lettera c) dell'art. 177 del regolamento per l'applicazione del R. decreto 30 dicembre 1923-II, n. 2994, sullo stato giuridico ed il trattamento economico dei salariati dipendenti dalle Amministrazioni dello Stato, approvato con R. decreto 31 dicembre 1924-III, n. 2262, nel quale sono indicate le assenze da considerarsi determinate da infermita' non dipendenti da cause di servizio agli effetti della concessione del sussidio, e' modificato come segue:
 
 « c) da gravidanza e da puerperio nei periodi di cui al precedente articolo 107 ».
 
-###### Art. 35
+### Art. 35
 
 L'art. 179 del regolamento per l'applicazione del R. decreto 30 dicembre 1923-II, n. 2994, sullo stato giuridico ed il trattamento economico dei salariati dipendenti dalle Amministrazioni dello Stato approvato con R. decreto 31 dicembre 1924-III, n. 2262, modificato con l'art. 5 del R. decreto 7 giugno 1928-VI, n. 1536, e' sostituito dal seguente:
 
@@ -354,13 +342,13 @@ L'art. 179 del regolamento per l'applicazione del R. decreto 30 dicembre 1923-II
 
 « Le leggi relative alla assicurazione obbligatoria per la Maternita' non si applicano alle operaie dello Stato ».
 
-###### Art. 36
+### Art. 36
 
 Sono applicabili alle operaie temporanee e giornaliere le norme di cui agli articoli 8, primo comma, 10, primo e secondo comma, 11 e 12 del R. decreto 22 marzo 1934-XII, n. 654, concernenti la conservazione del posto ed altri benefici conseguenti allo stato di gravidanza, e di puerperio.
 
 b) Personale dell'Amministrazione delle ferrovie dello Stato.
 
-###### Art. 37
+### Art. 37
 
 Le agenti di ruolo dell'Amministrazione delle ferrovie dello Stato che vengono a trovarsi in stato di gravidanza, e di puerperio saranno considerate malate durante il periodo di un mese precedente la data premiata del parto, e, ove il parto avvenga, oltre questa data per tutto il successivo periodo che precede il parto e durante il periodo di sei settimane dopo il parto con diritto a, fruire del trattamento di malattia previsto dalle norme vigenti.
 
@@ -368,7 +356,7 @@ I periodi predetti vanno computati agli effetti dell'applicazione dell'art. 67 d
 
 L'assegno di cui al R. decreto-legge 4 ottobre 1935 XIII, n. 1988, sara' corrisposto per i suindicati periodi senza detrazione di quindici giorni, e la spesa relativa sara' a carico dell'Opera di previdenza anche per i detti quindici giorni.
 
-###### Art. 38
+### Art. 38
 
 La agente, durante il sesto mese di gravidanza e' tenuta a farsi rilasciare dai sanitari dell'Amministrazione il « certificato di gravidanza » nel girale sara' indicata la data presunta del parto.
 
@@ -378,39 +366,37 @@ Quando la agente si trovi in evidente stato di gravidanza l'Amministrazione dell
 
 Il rifiuto di assoggettarsi a tale visita costituisce rifiuto d'obbedienza, a termini del regolamento del personale ferroviario e per le agenti avventizie determina l'immediato licenziamento.
 
-###### Art. 39
+### Art. 39
 
 Il parto che avvenga prima della presentazione del certificato di gravidanza ed il parto prematuro che si verifichi dopo il sesto mese di gravidanza danno diritto al trattamento di malattia per il periodo di sei settimane dopo il parto senza compensazione per il periodo non fruito precedentemente.
 
-###### Art. 40
+### Art. 40
 
 Il periodo di trattamento per gravidanza potra' ridursi a tre settimane sia prima che dopo il parto, a richiesta della interessata quando, a giudizio dei sanitari dell'Amministrazione, cio' sia consentito dalle condizioni di salute della agente, dal genere di lavoro e dall'ambiente in cui questo deve svolgersi.
 
-###### Art. 41
+### Art. 41
 
 La gestante avra' facolta' di assentarsi dal servizio anche durante le due settimane che precedono il mese antecedente la data presunta del parto e per le due settimane avra' il trattamento di malattia o di congedo a seconda che il sanitario dell'Amministrazione si pronunci favorevolmente o meno all'anticipazione dell'assenza.
 
-###### Art. 42
+### Art. 42
 
 Le disposizioni contenute nell'art. 37, per quanto riguarda l'allontanamento dal servizio durante i periodi precedente e seguente il parto e quelle degli articoli da 38 a 41, sono applicabili anche alle agenti avventizie.
 
 Per quanto riguarda sia il periodo massimo di assenza, durante il quale l'Amministrazione e' tenuta a conservare il posto, sia i sussidi di puerperio o per il caso di aborto, sia la corresponsione della meta' della retribuzione complessiva durante l'astensione obbligatoria dal lavoro, valgono per le avventizie medesime le disposizioni di cui all'art. 29 del presente decreto.
 
-###### Art. 43
+### Art. 43
 
 Le disposizioni dei precedenti articoli, dal 37, primo comma, al 41, si applicano anche alle impiegate ed agenti di ruolo dell'Amministrazione delle poste e dei telegrafi, nonche' a quelle a stipendio dell'Azienda di Stato per i servizi telefonici; quelle dell'art. 42 al personale femminile avventizio o a contratto della Amministrazione postale e telegrafica ed al personale diurnista, o a contratto a paga giornaliera dell'anzidetta Azienda telefonica di Stato.
 
 c) Norme comuni a tutte le Amministrazioni.
 
-###### Art. 44
+### Art. 44
 
 Per il personale femminile di ruolo e non di ruolo in servizio presso la Amministrazioni statali, comprese quelle delle ferrovie dello Stato, delle poste e dei telegrafi e dei telefoni, il quale allatti direttamente i propri figli, la concessione dei periodi di riposo durante la giornata per provvedere all'allettamento nel primo anno dalla nascita dei figli, sara' disposta e regolata a proprio apprezzamento dalle singole Amministrazioni, in limiti in ogni caso non eccedenti quelli previsti dagli articoli 14 e 15 del R. decreto-legge 22 marzo 1934-XII, n. 654, in relazione all'orario ed alle esigenze del servizio ed al modo ed all'ambiente in cui detto personale puo' attendere all'allattamento.
 
-## ((Capo IV-bis.
+## ((Capo IV-bis. - Norme per la tutela del personale femminile dipendente dalle Amministrazioni degli enti ausiliari durante lo stato di gravidanza e di puerperio)).
 
-### Norme per la tutela del personale femminile dipendente dalle Amministrazioni degli enti ausiliari durante lo stato di gravidanza e di puerperio)).
-
-###### Art. 44-bis
+### Art. 44-bis
 
 ((Per causa di gravidanza e puerperio il personale femminile dipendente dalle Amministrazioni comunali, provinciali, consorziali e delle Istituzioni pubbliche di assistenza e beneficenza ha diritto ad ottenere, in aggiunta al congedo ordinario previsto dai rispettivi regolamenti organici, un ulteriore periodo di congedo per la durata di un mese e mezzo, e conserva anche durante tale periodo, il supplemento di servizio attivo.
 
@@ -420,11 +406,11 @@ A tutto il personale femminile in servizio presso le Amministrazioni di cui al p
 
 ## Capo V. - Disposizioni generali.
 
-###### Art. 45
+### Art. 45
 
 Ai fini dei precedenti articoli 11 e seguenti, la prole naturale e' equiparata a quella legittima dal giorno del legale riconoscimento.
 
-###### Art. 46
+### Art. 46
 
 Il presente decreto ha vigore, in quanto non sia diversamente disposto nei singoli articoli, dal 1° luglio 1937-XV, e sara' presentato al Parlamento per la conversione in legge.
 

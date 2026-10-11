@@ -27,11 +27,11 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la Convenzione tra l'Italia e la Svizzera per l'utilizzazione della forza idraulica dello Spol, con Protocollo addizionale, conclusa in Berna il 27 maggio 1957.
 
-### Art. 2
+## Art. 2
 
 Piena ed intera esecuzione e' data alla Convenzione ed al Protocollo indicati nell'articolo precedente a decorrere dalla loro entrata in vigore, in conformita' dell'art. 20 della Convenzione.
 
@@ -85,17 +85,17 @@ il Signor Max PETITPIERRE, Consigliere federale, Capo del
 
 Dipartimento politico federale, i quali, dopo di essersi scambiati i loro pieni poteri, riconosciuti in buona; e debita forma, hanno convenuto le seguenti disposizioni:
 
-### Articolo 1
+## Articolo 1
 
 Il Governo svizzero da' il suo consenso a che il Governo italiano assenta la concessione di derivare dal loro corso naturale una parte delle acque dello Spoel che scorrono successivamente dal territorio italiano in quello svizzero, e di utilizzare la corrispondente forza idraulica sul versante italiano dell'Adda, in conformita' delle clausole della presente Convenzione e mediante la concessione complementare del Governo svizzero, per la parte di forza idraulica ricavabile sul territorio svizzero.
 
-### Articolo 2
+## Articolo 2
 
 La concessione complementare svizzera sara' accordata e, se del
 
 caso, trasferita al beneficiario designato dal Governo italiano.
 
-### Articolo 3
+## Articolo 3
 
 Il concessionario costruira', nel bacino superiore dello Spol, un canale derivatore situato al di sopra della quota 1.960 (I. G. M. s.
 
@@ -107,7 +107,7 @@ Resta inteso che la Confederazione svizzera non si assume alcun
 
 obbligo, verso la Repubblica italiana, di compensare le perdite d'acqua e di energia elettrica che potrebbero prodursi in caso di cattivo funzionamento delle opere di presa e di derivazione o per qualsiasi altra causa.
 
-### Articolo 4
+## Articolo 4
 
 Tenuto conto della derivazione di 97 milioni di mc. di acqua verso l'Adda e del salto disponibile in Svizzera a valle della localita', "Ponte del Gallo" resta convenuto che la potenza idraulica media spettante alla Svizzera e' di 26.850 cavalli teorici.
 
@@ -125,19 +125,19 @@ potranno essere utilizzate fuori del suo territorio se non conformemente alle no
 
 ## II. INVASO DI LIVIGNO
 
-### Articolo 5
+## Articolo 5
 
 Il diritto di utilizzare la forza idraulica dello Spol, mediante
 
 la creazione un serbatoio nelle valli di Livigno e de l'Ova dal Gall, sara' concesso, per il territorio di ciascuno dei due Stati contraenti, dalle rispettive autorita' competenti.
 
-### Articolo 6
+## Articolo 6
 
 La concessione italiana sara' accordata al beneficiario designato dal Governo svizzero. Essa si estendera' alla parte italiana delle sezioni di corso d'acqua, il cui salto e la cui portata saranno valorizzati nell'impianto detto di Livigno.
 
 In caso di cambiamento del beneficiario della concessione svizzera il Governo italiano trasferira' la concessione italiana al nuovo beneficiario designato dal Governo svizzero.
 
-### Articolo 7
+## Articolo 7
 
 Il concessionario dei due Stati contraenti costruira', presso la
 
@@ -145,7 +145,7 @@ confluenza dello Spol e de l'Ova dal Gall, al di fuori del Parco nazionale svizz
 
 Il serbatoio sara' alimentato dalle acque naturalmente afferenti e che non saranno state derivate, in conformita' al Capitolo I della presente Convenzione, e da quelle che vi saranno immesse per mezzo di un impianto di pompaggio.
 
-### Articolo 8
+## Articolo 8
 
 Lo sbarramento sara' costruito in modo da garantire il massimo di sicurezza per la Svizzera, in conformita' della legislazione svizzera in vigore. Esso sara' disposto in modo da consentire alle acque uno sbocco libero sufficiente perche' le piene possano defluire in qualsiasi momento senza che il livello del lago si elevi oltre la quota stabilita nel precedente articolo.
 
@@ -153,7 +153,7 @@ L'ubicazione della centrale idroelettrica sara' determinata
 
 nell'atto di concessione svizzera o anche al momento dell'approvazione del progetto esecutivo.
 
-### Articolo 9
+## Articolo 9
 
 Spettera' al concessionario designato dal Governo svizzero
 
@@ -167,7 +167,7 @@ Il Governo svizzero si riserva di imporre al concessionario gli
 
 obblighi necessari per proteggere il Parco nazionale svizzero.
 
-### Articolo 10
+## Articolo 10
 
 Tenuto conto della portata e del salto utilizzabili sui rispettivi territori dei due Stati, resta convenuto che la potenza idraulica media valorizzata nell'impianto a serbatoio di Livigno e di spettanza dell'Italia e' di 8.750 cavalli teorici.
 
@@ -187,7 +187,7 @@ Resta inteso che il Governo italiano non porra' ostacoli all'impiego in Svizzera
 
 ## III. DISPOSIZIONI COMUNI
 
-### Articolo 11
+## Articolo 11
 
 Sia il progetto di massima che quello esecutivo delle opere saranno
 
@@ -199,7 +199,7 @@ giustificative, ai Governi dei due Stati contraenti e non potranno essere esegui
 
 Tutte le opere saranno esercite e mantenute dai concessionari.
 
-### Articolo 12
+## Articolo 12
 
 I Governi dei due Stati contraenti si comunicheranno le loro
 
@@ -211,7 +211,7 @@ partire dalla data fissata negli atti di concessione per la messa in servizio de
 
 La limitazione ulteriore o la revoca di una delle concessioni non potra' essere decisa che a seguito di accordo fra i due Governi.
 
-### Articolo 13
+## Articolo 13
 
 I due Stati contraenti s'impegnano a facilitare, del loro meglio, nel quadro delle rispettive legislazioni; la costruzione e l'esercizio delle opere progettate e ad adottare le disposizioni necessarie a tale scopo, specialmente per quanto riguarda la materia doganale, l'importazione ed esportazione dei materiali da costruzione, il finanziamento ed il servizio dei pagamenti.
 
@@ -221,13 +221,13 @@ imposte dirette statali e degli enti locali.
 
 In caso di doppia imposizione le autorita' italiane e svizzere si consulteranno al fine di stipulare un accordo per evitare la doppia imposizione.
 
-### Articolo 14
+## Articolo 14
 
 In caso di mancata ultimazione delle opere, d'interruzione
 
 dell'esercizio o di qualsiasi altra causa di decadenza prevista negli atti di concessione, i Governi dei due Stati contraenti prenderanno, di comune accordo, i provvedimenti che riterranno piu' appropriati alla situazione ed, eventualmente, accorderanno nuove concessioni.
 
-### Articolo 15
+## Articolo 15
 
 Dieci anni prima della scadenza delle concessioni, saranno iniziate
 
@@ -249,7 +249,7 @@ Il diritto di riversione si applica, per ciascuno Stato, alle
 
 installazioni situate sul proprio territorio.
 
-### Articolo 16
+## Articolo 16
 
 Durante il periodo di costruzione i due Governi si riservano di
 
@@ -259,13 +259,13 @@ Detta Commissione controllera' l'esecuzione dei lavori e
 
 presentera' le proprie osservazioni sotto forma di rapporto alle competenti autorita' svizzere e italiane.
 
-### Articolo 17
+## Articolo 17
 
 Durante il periodo di esercizio, il controllo sara' esercitato
 
 nelle condizioni previste dagli atti di concessione. Ogni Governo concedera' ogni facilitazione affinche' i funzionari dell'altro Stato, incaricati di tale controllo, nonche' il personale del concessionario possano svolgere il loro compito. I nomi dei funzionari saranno comunicati reciprocamente.
 
-### Articolo 18
+## Articolo 18
 
 Se tra i due Governi dovesse nascere qualche vertenza circa
 
@@ -287,11 +287,11 @@ Resta inteso che il presente articolo sara' applicabile ad ogni
 
 vertenza che, secondo l'avviso di uno dei due Governi, riguardi sia l'applicazione o l'interpretazione della Convenzione o di una delle concessioni contemplate dalla Convenzione stessa, che l'interpretazione o l'esecuzione della sentenza arbitrale.
 
-### Articolo 19
+## Articolo 19
 
 La presente Convenzione restera' valida anche in tempo di guerra.
 
-### Articolo 20
+## Articolo 20
 
 La presente Convenzione sara' ratificata e gli strumenti di
 
@@ -319,7 +319,7 @@ Il Ministro per gli affari esteri
 
 PELLA
 
-### Protocollo
+## Protocollo
 
 Protocollo addizionale alla Convenzione tra la Repubblica italiana e la Confederazione Svizzera per l'utilizzazione della forza
 

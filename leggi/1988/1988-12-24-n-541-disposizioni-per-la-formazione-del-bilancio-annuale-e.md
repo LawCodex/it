@@ -28,7 +28,7 @@ la seguente legge:
 
 ## CAPO I - DISPOSIZIONI DI CARATTERE FINANZIARIO
 
-#### Art. 1
+### Art. 1
 
 1\. Per l'anno 1989, il limite massimo del saldo netto da finanziare resta determinato in termini di competenza in lire 147.392 miliardi, comprese lire 11.822 miliardi relative a trasferimenti di bilancio sostitutivi di anticipazioni di tesoreria all'INPS. Tenuto conto anche delle operazioni di rimborso di prestiti, il livello massimo del ricorso al mercato finanziario di cui all'articolo 11 della legge 5 agosto 1978, n. 468, da ultimo modificata dalla legge 23 agosto 1988, n. 362 - ivi compreso l'indebitamento all'estero per un importo complessivo non superiore a lire 4.000 miliardi relativo ad interventi non condiderati nel bilancio di previsione per il 1989, resta fissato, in termini di competenza, in lire 179.191 miliardi per l'anno finanziario 1989.
 
@@ -112,7 +112,7 @@ la seguente legge:
 
 > Ogni altra legge che importi nuove o maggiori spese deve indicare i mezz per farvi fronte».
 
-#### Art. 2
+### Art. 2
 
 1\. Il maggior gettito eventualmente derivante in ciascuno degli anni 1989, 1990 e 1991 per effetto di nuove o maggiori entrate, rispetto alle previsioni iniziali di entrate tributarie per ciascuno di detti anni, e' destinato almeno nella misura del settantacinque per cento alla riduzione del saldo netto da finanziare nell'anno corrispondente, quale indicato nell'articolo 1.
 
@@ -144,11 +144,9 @@ AGGIORNAMENTO (1)
 
 Il D.L. 2 marzo 1989, n. 69, convertito con modificazioni dalla L. 27 aprile 1989, n. 154, ha disposto (con l'art. 35, comma 1) che la percentuale di compensazione stabilita nella misura del 10 per cento dal comma 2 del presente articolo e' fissata, per l'anno 1989, nella misura del 12 per cento.
 
-## CAPO II - DISPOSIZIONI
+## CAPO II - DISPOSIZIONI PER I SETTORI DEI TRASPORTI E DELLE COMUNICAZIONI
 
-### PER I SETTORI DEI TRASPORTI - E DELLE COMUNICAZIONI
-
-#### Art. 3
+### Art. 3
 
 1\. Per l'anno 1989, il fondo nazionale per il ripiano dei disavanzi di esercizio delle aziende di trasporto pubbliche e private e' stabilito in lire 4.828.7 miliardi, ivi compresa la variazione da determinarsi ai sensi dell'articolo 9 della legge 10 aprile 1981, n. 151, modificato dall'articolo 27-quarter del decreto-legge 22 dicembre 1981, n. 786, convertito, con modificazioni, dalle legge 26 febbraio 1982, n. 51.
 
@@ -232,11 +230,9 @@ h) da lire 150 miliardi a lire 250 miliardi per il risanamento delle sedi e degl
 
 > L'ammortamento delle singole anticipazioni della Cassa depositi e prestiti e' effettuato in non piu' di 35 anni al tasso del 3,70 per cento annuo. Le rate di ammortamento, per capitale ed interessi, delle anticipazioni e dei mutui iscritte, con distinta imputazione, nel bilancio dell'Amministrazione delle poste e delle telecomunicazioni e specificatamente vincolate a favore della Cassa depositi e prestiti e degli enti mutuanti. L'Amministrazione delle poste e delle telecomunicazioni ha facolta' di avvalersi delle disposizioni del presente articolo per la realizzazione dei programmi previsti dalla legge 7 giugno 1975, n. 227, relativamente alla parte dei programmi stessi non ancora finanziata. Art. 6 (Ammortamenti). - Le quote di capitale delle rate di ammortamento delle anticipazioni e dei mutui di cui alla presente legge sono rimborsate dal Ministero del tesoro all'Amministrazione delle poste e delle telecomunicazioni e i corrispondenti importi sono iscritti negli stati di previsione della spesa di detto Ministero e, correlativamente, negli stati di previsione dell'entrata e della spesa dell'Amministrazione delle poste e delle telecomunicazioni. La quota relativa alle operazioni di indebitamento effettuate nell'anno 1982, valutata in lire 10,500 milioni, sara' iscritta nel bilancio dello Stato per l'anno finanziario 1983".
 
-## CAPO III - DISPOSIZIONI
+## CAPO III - DISPOSIZIONI IN MATERIA DI PREVIDENZA
 
-### IN MATERIA DI PREVIDENZA
-
-#### Art. 4
+### Art. 4
 
 1\. Il complesso dei trasferimenti dello Stato all'INPS, a titolo di pagamenti di bilancio e di anticipazioni di tesoreria, e' fissato per l'anno 1989 in lire 37.500 miliardi. Le anticipazioni di tesoreria sono autorizzate senza oneri di interessi.
 
@@ -266,7 +262,7 @@ h) da lire 150 miliardi a lire 250 miliardi per il risanamento delle sedi e degl
 
 ## CAPO IV - DISPOSIZIONI DIVERSE
 
-#### Art. 5
+### Art. 5
 
 1\. Le disposizioni della presente legge sono applicabili nelle regioni a statuto speciale e nelle province autonome di Trento e Bolzano compatibilmente con le norme dei rispettivi statuti.
 
@@ -286,7 +282,7 @@ Visto, il Guardasigilli: VASSALLI
 
 ## CAPO IV - DISPOSIZIONI DIVERSE
 
-#### Tabella A
+### Tabella A
 
 TABELLA A
 
@@ -1506,7 +1502,7 @@ bilancio annuale e pluriennale dello Stato (legge finanziaria 1985):
 
 (b) Comprende milioni 100.000 relativi all'anno 1986 e milioni 200.000 relativi all'anno 1987.
 
-#### Tabella B
+### Tabella B
 
 TABELLA B
 
@@ -2286,7 +2282,7 @@ l'anno 1989, per lire 810 miliardi per il 1990 e per lire
 
 440 miliardi per il 1991.
 
-#### Tabella C
+### Tabella C
 
 TABELLA C
 
@@ -2754,7 +2750,7 @@ Totale Tabella C
 
 =================================
 
-#### Tabella D
+### Tabella D
 
 TABELLA D
 
@@ -3140,7 +3136,7 @@ Legge 8 luglio 1986, n. 349: Istituzione del Ministero dell'ambiente e norme in 
 
 =================================
 
-#### Tabella E
+### Tabella E
 
 TABELLA E
 
@@ -3175,7 +3171,7 @@ Legge n. 67 del 1988: Disposizioni per la formazione del bilancio annuale e plur
  ==========
 ```
 
-#### Tabella F
+### Tabella F
 
 TABELLA F
 

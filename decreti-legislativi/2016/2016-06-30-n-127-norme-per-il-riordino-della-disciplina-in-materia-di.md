@@ -53,11 +53,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I
+## Titolo I - Disciplina generale della conferenza di servizi
 
-### Disciplina generale della conferenza di servizi
-
-#### Art. 1
+### Art. 1
 
 Modifiche alla disciplina generale
 
@@ -357,11 +355,9 @@ Art. 14-quinquies (Rimedi per le amministrazioni dissenzienti). - 1. Avverso la 
 
 > 1-ter. Ove la revoca di un atto amministrativo ad efficacia durevole o istantanea incida su rapporti negoziali, l'indennizzo liquidato dall'amministrazione agli interessati e' parametrato al solo danno emergente e tiene conto sia dell'eventuale conoscenza o conoscibilita' da parte dei contraenti della contrarieta' dell'atto amministrativo oggetto di revoca all'interesse pubblico, sia dell'eventuale concorso dei contraenti o di altri soggetti all'erronea valutazione della compatibilita' di tale atto con l'interesse pubblico.».
 
-## Titolo II
+## Titolo II - Disposizioni di coordinamento con le discipline settoriali della conferenza di servizi
 
-### Disposizioni di coordinamento con le discipline settoriali della - conferenza di servizi
-
-#### Art. 2
+### Art. 2
 
 Modifiche al Testo unico delle disposizioni legislative e regolamentari in materia edilizia
 
@@ -491,7 +487,7 @@ b) e' aggiunto in fine il seguente periodo «Qualora sia necessario acquisire ul
 
 > 13\. Ove il fatto non costituisca piu' grave reato, chiunque, nelle dichiarazioni o attestazioni o asseverazioni di cui al comma 1, dichiara o attesta falsamente l'esistenza dei requisiti o dei presupposti di cui al medesimo comma e' punito con la reclusione da uno a tre anni. In tali casi, il responsabile del procedimento informa il competente ordine professionale per l'irrogazione delle sanzioni disciplinari.».
 
-#### Art. 3
+### Art. 3
 
 Modifiche alla disciplina dello Sportello unico
 
@@ -551,7 +547,7 @@ d) al comma 6, le parole «a 14-ter» sono sostituite dalle seguenti «a 14-quin
 
 > 7\. Il rispetto dei termini per la conclusione del procedimento costituisce elemento di valutazione del responsabile del SUAP e degli altri soggetti pubblici partecipanti alla conferenza di servizi.».
 
-#### Art. 4
+### Art. 4
 
 Modifiche alla disciplina dell'Autorizzazione
 
@@ -589,7 +585,7 @@ b) al comma 5, l'ultimo periodo e' soppresso.
 
 > 8\. L'autorita' competente trasmette, in modalita' telematica, ogni comunicazione al gestore tramite il SUAP e mette a disposizione del medesimo tutte le informazioni sulla documentazione da presentare e sull'iter relativo alla procedura di autorizzazione unica ambientale. Il SUAP assicura a tutti gli interessati le informazioni sugli adempimenti in materia secondo quanto previsto dall'art. 6 del decreto-legge 13 maggio 2011, n. 70, convertito, con modificazioni, dalla legge 12 luglio 2011, n. 106, e dall'art. 54 del decreto legislativo 7 marzo 2005, n. 82.».
 
-#### Art. 5
+### Art. 5
 
 Modifiche al decreto legislativo 3 aprile 2006, n. 152, recante norme in materia ambientale
 
@@ -657,7 +653,7 @@ d) all'articolo 269, comma 3, primo periodo, le parole «comma 3» sono soppress
 
 > \- Il testo dell'art. 269 del citato decreto legislativo n. 152 del 2006, modificato dal presente decreto, e' pubblicato nella Gazzetta Ufficiale 14 aprile 2006, n. 88, S.O. n. 96.
 
-#### Art. 6
+### Art. 6
 
 Disposizioni di coordinamento con la disciplina in materia di autorizzazione paesaggistica
 
@@ -709,13 +705,13 @@ Disposizioni di coordinamento con la disciplina in materia di autorizzazione pae
 
 > 16\. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.».
 
-#### Art. 7
+### Art. 7
 
 Disposizione transitoria
 
 1\. Le disposizioni del presente decreto trovano applicazione ai procedimenti avviati successivamente alla data della sua entrata in vigore.
 
-#### Art. 8
+### Art. 8
 
 Clausola generale di coordinamento
 

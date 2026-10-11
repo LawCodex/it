@@ -50,31 +50,19 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I - COORDINAMENTO DEI DECRETI LEGISLATIVI 17 GENNAIO 2003, NN. 5 E 6,
+## Capo I - COORDINAMENTO DEI DECRETI LEGISLATIVI 17 GENNAIO 2003, NN. 5 E 6, RECANTI LA RIFORMA DEL DIRITTO SOCIETARIO CON IL TESTO UNICO DELLE LEGGI IN MATERIA BANCARIA E CREDITIZIA, DI CUI AL DECRETO LEGISLATIVO 1° SETTEMBRE 1993, n. 385, E CON IL TESTO UNICO DELL'INTERMEDIAZIONE FINANZIARIA, DI CUI AL DECRETO LEGISLATIVO 24 FEBBRAIO 1998, n. 58
 
-### RECANTI LA RIFORMA DEL DIRITTO SOCIETARIO CON IL TESTO UNICO DELLE - LEGGI IN MATERIA BANCARIA E CREDITIZIA, DI CUI AL DECRETO
+### Sezione I - Norme generali
 
-#### LEGISLATIVO 1° SETTEMBRE 1993, n. 385, E CON IL TESTO UNICO - DELL'INTERMEDIAZIONE FINANZIARIA, DI CUI AL DECRETO LEGISLATIVO 24
-
-##### FEBBRAIO 1998, n. 58 - Sezione I
-
-###### Norme generali
-
-###### Art. 1
+#### Art. 1
 
 Definizioni
 
 1\. Nei decreti legislativi numero 385 del 1993 e numero 58 del 1998, le espressioni: «Ministro del tesoro» e: «Ministro del tesoro, del bilancio e della programmazione economica», ovunque ricorrano, sono sostituite dalle parole: «Ministro dell'economia e delle finanze» e le parole: «Ministero del tesoro» e: «Ministero del tesoro, del bilancio e della programmazione economica», ovunque ricorrano, sono sostituite dalle parole: «Ministero dell'economia e delle finanze».
 
-## Sezione II - Disposizioni di coordinamento del decreto legislativo 17 gennaio
+### Sezione II - Disposizioni di coordinamento del decreto legislativo 17 gennaio 2003, numero 6, recante riforma organica delle societa' di capitali e societa' cooperative, in attuazione della legge 3 ottobre 2001, n. 366, con il decreto legislativo 1° settembre 1993, numero 385, recante testo unico delle leggi in materia bancaria e creditizia
 
-### 2003, numero 6, recante riforma organica delle societa' di - capitali e societa' cooperative, in attuazione della legge 3
-
-#### ottobre 2001, n. 366, con il decreto legislativo 1° settembre - 1993, numero 385, recante testo unico delle leggi in materia
-
-##### bancaria e creditizia
-
-###### Art. 2
+#### Art. 2
 
 Norme di coordinamento con il testo unico bancario
 
@@ -480,15 +468,9 @@ Art. 9.47 (Modifiche all'articolo 140 del decreto legislativo numero 385 del 199
 
 "(Comunicazioni relative alle partecipazioni in banche, in societa' appartenenti ad un gruppo bancario ed in intermediari finanziari).".».
 
-## Sezione III - Disposizioni di coordinamento del decreto legislativo 17 gennaio
+### Sezione III - Disposizioni di coordinamento del decreto legislativo 17 gennaio 2003, n. 6, recante riforma organica delle societa' di capitali e societa' cooperative, in attuazione della legge 3 ottobre 2001, n. 366, con il decreto legislativo 24 febbraio 1998, n. 58, recante testo unico delle disposizioni in materia di intermediazione finanziaria ai sensi degli articoli 9 e 21 della legge 6 febbraio 1996, n. 52.
 
-### 2003, n. 6, recante riforma organica delle societa' di capitali e - societa' cooperative, in attuazione della legge 3 ottobre 2001, n.
-
-#### 366, con il decreto legislativo 24 febbraio 1998, n. 58, recante - testo unico delle disposizioni in materia di intermediazione
-
-##### finanziaria ai sensi degli articoli 9 e 21 della legge 6 febbraio - 1996, n. 52.
-
-###### Art. 3
+#### Art. 3
 
 Norme di coordinamento con il testo unico della finanza
 
@@ -898,13 +880,9 @@ Art. 9.92 (Modifiche all'articolo 189 del decreto legislativo numero 58 del 1998
 
 "2. La stessa sanzione si applica in caso di violazione dei divieti di esercizio dei diritti ed in caso di inadempimento degli obblighi di alienazione previsti dagli articoli 14, commi 4 e 7, 16, commi 1, 2 e 4, 61, comma 7, e 80, comma 8."".
 
-## Capo II - DISPOSIZIONI CORRETTIVE DEL DECRETO LEGISLATIVO 17 GENNAIO 2003, N.
+## Capo II - DISPOSIZIONI CORRETTIVE DEL DECRETO LEGISLATIVO 17 GENNAIO 2003, N. 5, RECANTE DEFINIZIONE DEI PROCEDIMENTI IN MATERIA DI DIRITTO SOCIETARIO E DI INTERMEDIAZIONE FINANZIARIA, NONCHE¨ IN MATERIA BANCARIA E CREDITIZIA, IN ATTUAZIONE DELL'ARTICOLO 12 DELLA LEGGE 3 OTTOBRE 2001, n. 366.
 
-### 5, RECANTE DEFINIZIONE DEI PROCEDIMENTI IN MATERIA DI DIRITTO - SOCIETARIO E DI INTERMEDIAZIONE FINANZIARIA, NONCHE¨ IN MATERIA
-
-#### BANCARIA E CREDITIZIA, IN ATTUAZIONE DELL'ARTICOLO 12 DELLA LEGGE - 3 OTTOBRE 2001, n. 366.
-
-###### Art. 4
+#### Art. 4
 
 Modifiche al decreto legislativo n. 5 del 2003
 
@@ -1002,11 +980,9 @@ s) all'articolo 37, comma 2, le parole: «stabilite nello statuto stesso» sono 
 
 t) all'articolo 40, comma 2, primo periodo, le parole: «Il procedimento di conciliazione, ove le parti non raggiungano un accordo» sono sostituite dalle parole: «Se entrambe le parti lo richiedono, il procedimento di conciliazione, ove non sia raggiunto l'accordo».
 
-## Capo III - DISPOSIZIONI CORRETTIVE DEL DECRETO LEGISLATIVO 17 GENNAIO 2003, N.
+## Capo III - DISPOSIZIONI CORRETTIVE DEL DECRETO LEGISLATIVO 17 GENNAIO 2003, N. 6, RECANTE RIFORMA ORGANICA DELLE SOCIETA' DI CAPITALI E SOCIETA' COOPERATIVE, IN ATTUAZIONE DELLA LEGGE 3 OTTOBRE 2001, N. 366.
 
-### 6, RECANTE RIFORMA ORGANICA DELLE SOCIETA' DI CAPITALI E SOCIETA' - COOPERATIVE, IN ATTUAZIONE DELLA LEGGE 3 OTTOBRE 2001, N. 366.
-
-###### Art. 5
+#### Art. 5
 
 Modifiche al decreto legislativo n. 6 del 2003
 
@@ -1170,7 +1146,7 @@ mmm) all'articolo 223-quinquiesdecies delle disposizioni di attuazione e transit
 
 ## Capo IV - NORME DI COORDINAMENTO TRANSITORIE E FINALI
 
-###### Art. 6
+#### Art. 6
 
 Disciplina transitoria
 
@@ -1180,7 +1156,7 @@ Disciplina transitoria
 
 3\. All'articolo 2250, ultimo comma, del codice civile, dopo le parole: «delle societa» sono inserite le parole: «per azioni ed».
 
-###### Art. 7
+#### Art. 7
 
 Modifiche al decreto legislativo n. 87 del 1992
 
@@ -1194,7 +1170,7 @@ b) all'articolo 15 il comma 3 e' abrogato;
 
 c) all'articolo 39 il comma 2 e' abrogato.
 
-###### Art. 8
+#### Art. 8
 
 Modifiche alla legge n. 91 del 1981
 
@@ -1208,7 +1184,7 @@ c) l'articolo 13 e' sostituito dal seguente:
 
 «13 (Controllo giudiziario). - Il procedimento di cui all'articolo 2409 del codice civile si applica alle societa' di cui all'articolo 10, comprese quelle aventi forma di societa' a responsabilita' limitata; il potere di denuncia spetta anche alle federazioni sportive nazionali.».
 
-###### Art. 9
+#### Art. 9
 
 Abrogazioni
 

@@ -30,13 +30,13 @@ Il Senato e la Camera dei deputati hanno approvato;
 
 Noi abbiamo sanzionato e promulghiamo quanto segue:
 
-### Art. 1
+## Art. 1
 
 Per gli Istituti di belle arti di Bologna, Firenze, Lucca, Modena, Napoli, Palermo, Parma, Roma, Venezia; per le Accademie di belle arti di Carrara, di Milano, di Torino; per lo stabilimento teorico-pratico di belle arti di Massa; per la scuola di disegno in Reggio Emilia; per i Conservatori di musica di Milano, Napoli, Palermo e Parma; per l'Istituto musicale di Firenze; per il liceo musicale di Santa Cecilia in Roma, in quanto concerne lo stipendio del direttore a carico dello Stato; per le scuole di recitazione di Firenze e di Roma, sono approvati i rispettivi ruoli organici del personale insegnante e il ruolo comune del personale amministrativo, disciplinare e di servizio, secondo le tabelle A, B, C, annesse alla presente legge.
 
 ((COMMA ABROGATO DAL DECRETO LUOGOTENENZIALE 31 DICEMBRE 1915, N. 1945)).
 
-### Art. 2
+## Art. 2
 
 Gli insegnanti negli Istituti di belle arti e di musica si distinguono in: a) titolari che presiedono alle singole scuole; b) aggiunti, che sono di aiuto ai titolari; c) incaricati di discipline speciali, sieno di ruolo o straordinari, e di classi aggiunte a quelle normali e principali.
 
@@ -44,7 +44,7 @@ Per i corsi liberi superiori vi saranno maestri e liberi insegnanti temporanei, 
 
 All'insegnamento superiore dell'architettura sara' provveduto mediante scuole speciali.
 
-### Art. 3
+## Art. 3
 
 Il numero dei professori titolari e degli incaricati rimarra' invariabile quando pure il ministro usi della facolta' di assegnare professori agl'insegnamenti che, a norma di dette tabelle, siano da affidare ad incaricati, ed incaricati a quelli pei quali e' preveduta l'assegnazione di professori.
 
@@ -52,11 +52,11 @@ Il numero degli aggiunti e' contenuto nei limiti della disponibilita' del bilanc
 
 Le nomine dei capi (presidenti e direttori) degli Istituti di belle arti e musicali si fanno secondo le norme stabilite dai rispettivi statuti o regolamenti organici.
 
-### Art. 4
+## Art. 4
 
 La nomina ai posti di professori negli Istituti di belle arti e di musica si fa in seguito a concorso per titoli oppure per titoli e per esame. La nomina e' fatta, la prima volta, per un periodo di tre anni. In seguito ai risultati dell'insegnamento, impartito in questo tempo, da accertarsi nel modo indicato dall'art. 13, il professore viene confermato stabilmente, o pure esonerato.
 
-### Art. 5
+## Art. 5
 
 Al concorso per i posti di professore degli Istituti, di cui all'art. 1, non sono ammessi coloro che abbiano meno di 21 anni di eta' o abbiano superato i 40.
 
@@ -70,29 +70,29 @@ Per le cattedre di storia dell'arte, e storia generale a parita' di merito nei c
 
 E' in facolta' del ministro di coprire i posti d'insegnante di storia dell'arte nelle RR. accademie e nei RR. Istituti di belle arti, con incaricati che saranno retribuiti con assegno di lire duemilacinquecento.
 
-### Art. 6
+## Art. 6
 
 I professori incaricati possono essere nominati, anche senza concorso, dal ministro della pubblica istruzione in seguito a proposta del Consiglio dell'istituto e sentito il parere della sezione III del Consiglio superiore per i monumenti e per le opere di antichita' e d'arte o della Commissione permanente d'arte musicale e drammatica.
 
-### Art. 7
+## Art. 7
 
 Il ministro potra' proporre al Re per la nomina a professore titolare od aggiunto, prescindendo da ogni concorso, le persone che per opere o per insegnamenti dati, saranno venute in meritata fama di singolare perizia nelle materie che dovrebbero insegnare.
 
 Pei professori degli Istituti di belle arti, sara' inteso il parere della sezione III del Consiglio superiore di antichita' e belle arti; pei professori degli Istituti musicali si sentira' il parere del direttore dell'Istituto e quello della competente sezione della Commissione permanente per le arti musicale e drammatica.
 
-### Art. 8
+## Art. 8
 
 Il personale di amministrazione, di biblioteca e disciplinare degli Istituti di belle arti e di musica e' nominato in seguito a concorso.
 
 Per essere ammesso al concorso pei posti di segretario e' necessario avere non meno di 21 e non piu' di 40 anni di eta' e possedere la laurea in lettere o in filosofia o in legge; per i posti di ispettore o di bibliotecario si richiedono le stesse condizioni di eta' e la licenza del Liceo o dell'Istituto tecnico; per i posti di economo-cassiere si richiedono le stesse condizioni di eta' e il diploma di ragioniere conseguito in uno degli Istituti tecnici governativi o pareggiati del Regno o il diploma conseguito in una scuola superiore di commercio; per i posti di aggiunti di segreteria sono necessarie le stesse condizioni di eta' e la promozione alla quarta classe di ginnasio o la licenza tecnica o la licenza della scuola complementare.
 
-### Art. 9
+## Art. 9
 
 Il vincitore del concorso e' nominato in esperimento per due anni, dopo il qual termine, se avra' dato prova di idoneita', sara' confermato stabilmente su proposta del capo dell'Istituto.
 
 Negli Istituti nei quali manchi l'economo-cassiere, un segretario, su proposta del capo Istituto, potra' essere incaricato anche delle funzioni di economo con una retribuzione dalle L. 200 alle L. 500 secondo l'importanza dell'ufficio.
 
-### Art. 10
+## Art. 10
 
 Il personale di servizio e' nominato dal ministro dell'istruzione, sentito il parere dei capi d'Istituto.
 
@@ -100,13 +100,13 @@ Per essere nominato ad un posto di servizio negli Istituti di belle arti e di mu
 
 Per detti militari il limite di eta' e' esteso sino a 35 anni.
 
-### Art. 11
+## Art. 11
 
 Ciascun insegnante, compreso nelle tabelle dei ruoli organici annessi alla presente legge, godra', per effetto di anzianita' senza demerito, di un aumento quinquennale del decimo sull'ammontare del suo stipendio di ruolo. Si accumuleranno fino a quattro di questi aumenti quinquennali.
 
 I funzionari, che abbiano stipendi superiori alle settemila lire, non godranno degli aumenti quinquennali.
 
-### Art. 12
+## Art. 12
 
 I funzionari amministrativi, di biblioteca e disciplinari e il personale di servizio godranno dell'aumento quinquennale, quando nel quinquennio stesso non abbiano avuta promozione di classe. Gli aumenti quinquennali non potranno eccedere il numero di quattro.
 
@@ -114,17 +114,17 @@ Il personale di servizio godra' di quattro aumenti quinquennali di L. 150 ciascu
 
 Nelle promozioni del personale di servizio, se il nuovo stipendio risulta inferiore all'antecedente unito agli aumenti quinquennali, la differenza sara' data come assegno ad personam.
 
-### Art. 13
+## Art. 13
 
 Al termine del triennio di prova effettiva di un insegnante, nominato per concorso giusta l'art. 4, si procedera', mediante ispezione, allo accertamento dei risultati dati dal suo insegnamento.
 
 Il ministro avra' facolta', sentito il parere della sezione III del Consiglio superiore di belle arti o della Commissione permanente per le arti musicale e drammatica, di prolungare di un anno il periodo di prova e ripetere l'accertamento dei risultati, che sara' allora definitivo.
 
-### Art. 14
+## Art. 14
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 21 DICEMBRE 1922, N. 1726))
 
-### Art. 15
+## Art. 15
 
 Con regolamento, da approvarsi con decreto Reale sentito il parere della sezione III del Consiglio superiore di antichita' e belle arti o della Commissione permanente per le arti musicale e drammatica, saranno determinati, per ciascuna disciplina, il numero massimo degli alunni a cui l'insegnante e' tenuto di attendere, e le ore settimanali di lezione, nonche' le altre modalita', che saranno ritenute necessarie.
 
@@ -132,19 +132,19 @@ Allorquando ai corsi di un Istituto per una determinata disciplina e' iscritto r
 
 La classe aggiunta sara' soppressa appena il numero degli alunni non raggiunga piu' il limite fissato dal regolamento.
 
-### Art. 16
+## Art. 16
 
 Le classi aggiunte potranno venire affidate, su proposta del capo dell'Istituto, agli insegnanti delle classi normali, sempreche' vi sia compatibilita' di orario; o ad incaricati temporanei e straordinari, nominati dal ministro su proposta del capo dell'Istituto. La nomina e' sempre temporanea e cessa col 31 luglio di ogni anno.
 
 Quando la supplenza e' affidata all'insegnante della classe normale, l'ammontare dell'assegno non potra' superare il terzo dello stipendio del posto di ruolo; agli incaricati straordinari potra', invece, venir corrisposto un assegno non superiore ai due terzi dello stipendio del posto di ruolo.
 
-### Art. 17
+## Art. 17
 
 Non e' consentito il cumulo di due posti di insegnante effettivo di ruolo negli istituti di belle arti e di musica.
 
 E' consentito, ove siavi affinita' di materia e l'orario complessivo delle lezioni non superi le 24 ore settimanali, che un titolare od aggiunto negli istituti di belle arti o di musica possa avere l'incarico di un secondo insegnamento. Sara' anche concesso ad un incaricato di avere un altro incarico.
 
-### Art. 18
+## Art. 18
 
 Gli insegnanti degli istituti di bello arti e di musica, quando abbiano compiuto il 70° anno di eta', saranno collocati a riposo.
 
@@ -166,7 +166,7 @@ AGGIORNAMENTO (17)
 
 Il Regio Decreto 21 dicembre 1922, n. 1726 ha disposto (con l'art. 5, comma 1) che "Le competenze ora devolute alla Sezione III del Consiglio superiore delle antichita' e belle arti ed alla Commissione permanente per le arti musicale e drammatica saranno esercitate dal Consiglio di amministrazione del Ministero dell'istruzione pubblica, al quale sara' aggregato con voto deliberativo un capo di Istituto dell'ordine di scuole alle quali appartiene l'insegnante cui si riferisce il provvedimento da adottare".
 
-### Art. 19
+## Art. 19
 
 L'insegnante che sia riconosciuto inabile al servizio puo' esserne dispensato. La dispensa puo' inoltre essere decretata quando sia necessaria nell'interesse del servizio. Essa deve estere preceduta dal parere della sezione III del Consiglio superiore di belle arti o della sezione competente della Commissione permanente per le arti musicale e drammatica e da deliberazione del Consiglio dei ministri.
 
@@ -178,7 +178,7 @@ AGGIORNAMENTO (17)
 
 Il Regio Decreto 21 dicembre 1922, n. 1726 ha disposto (con l'art. 5, comma 1) che "Le competenze ora devolute alla Sezione III del Consiglio superiore delle antichita' e belle arti ed alla Commissione permanente per le arti musicale e drammatica saranno esercitate dal Consiglio di amministrazione del Ministero dell'istruzione pubblica, al quale sara' aggregato con voto deliberativo un capo di Istituto dell'ordine di scuole alle quali appartiene l'insegnante cui si riferisce il provvedimento da adottare".
 
-### Art. 20
+## Art. 20
 
 Le pene disciplinari, a cui vanno soggetti gl'insegnanti degli Istituti di belle arti e di musica, sono:
 
@@ -202,7 +202,7 @@ AGGIORNAMENTO (17)
 
 Il Regio Decreto 21 dicembre 1922, n. 1726 ha disposto (con l'art. 5, comma 1) che "Le competenze ora devolute alla Sezione III del Consiglio superiore delle antichita' e belle arti ed alla Commissione permanente per le arti musicale e drammatica saranno esercitate dal Consiglio di amministrazione del Ministero dell'istruzione pubblica, al quale sara' aggregato con voto deliberativo un capo di Istituto dell'ordine di scuole alle quali appartiene l'insegnante cui si riferisce il provvedimento da adottare".
 
-### Art. 21
+## Art. 21
 
 Per tutte le mancanze ai doveri d'ufficio, che non sieno tali da diminuire la stima per l'insegnante o che non costituiscano gravi insubordinazioni, si applicano, secondo i casi, le pene dell'ammonizione o della censura.
 
@@ -218,7 +218,7 @@ AGGIORNAMENTO (17)
 
 Il Regio Decreto 21 dicembre 1922, n. 1726 ha disposto (con l'art. 5, comma 1) che "Le competenze ora devolute alla Sezione III del Consiglio superiore delle antichita' e belle arti ed alla Commissione permanente per le arti musicale e drammatica saranno esercitate dal Consiglio di amministrazione del Ministero dell'istruzione pubblica, al quale sara' aggregato con voto deliberativo un capo di Istituto dell'ordine di scuole alle quali appartiene l'insegnante cui si riferisce il provvedimento da adottare".
 
-### Art. 22
+## Art. 22
 
 L'ammonizione e' data dai capi di istituti ed ha carattere di semplice avvertimento. Puo' anche essere data dal ministro. Della prima non si prende nota nello stato di servizio.
 
@@ -234,7 +234,7 @@ AGGIORNAMENTO (17)
 
 Il Regio Decreto 21 dicembre 1922, n. 1726 ha disposto (con l'art. 5, comma 1) che "Le competenze ora devolute alla Sezione III del Consiglio superiore delle antichita' e belle arti ed alla Commissione permanente per le arti musicale e drammatica saranno esercitate dal Consiglio di amministrazione del Ministero dell'istruzione pubblica, al quale sara' aggregato con voto deliberativo un capo di Istituto dell'ordine di scuole alle quali appartiene l'insegnante cui si riferisce il provvedimento da adottare".
 
-### Art. 23
+## Art. 23
 
 Per le pene di quarto, quinto e sesto grado, la sezione III del Consiglio superiore di belle arti o la competente sezione della Commissione permanente musicale e drammatica, prima di dare parere, potra' chiedere che si proceda ad una ispezione.
 
@@ -248,7 +248,7 @@ AGGIORNAMENTO (17)
 
 Il Regio Decreto 21 dicembre 1922, n. 1726 ha disposto (con l'art. 5, comma 1) che "Le competenze ora devolute alla Sezione III del Consiglio superiore delle antichita' e belle arti ed alla Commissione permanente per le arti musicale e drammatica saranno esercitate dal Consiglio di amministrazione del Ministero dell'istruzione pubblica, al quale sara' aggregato con voto deliberativo un capo di Istituto dell'ordine di scuole alle quali appartiene l'insegnante cui si riferisce il provvedimento da adottare".
 
-### Art. 24
+## Art. 24
 
 Quando la gravita' dei fatti lo richieda, la sospensione puo' essere immediatamente ordinata dal ministro a tempo indeterminato, provvedendo a deferire subito l'insegnante alla sezione III del Consiglio superiore di belle arti o alla competente sezione della Commissione permanente musicale e drammatica.
 
@@ -262,11 +262,11 @@ AGGIORNAMENTO (17)
 
 Il Regio Decreto 21 dicembre 1922, n. 1726 ha disposto (con l'art. 5, comma 1) che "Le competenze ora devolute alla Sezione III del Consiglio superiore delle antichita' e belle arti ed alla Commissione permanente per le arti musicale e drammatica saranno esercitate dal Consiglio di amministrazione del Ministero dell'istruzione pubblica, al quale sara' aggregato con voto deliberativo un capo di Istituto dell'ordine di scuole alle quali appartiene l'insegnante cui si riferisce il provvedimento da adottare".
 
-### Art. 25
+## Art. 25
 
 Al personale amministrativo, di biblioteca e disciplinare degli Istituti di belle arti e di musica si applicano le disposizioni del testo unico delle leggi sullo stato giuridico degli impiegati civili, approvato con R. decreto 22 novembre 1908, n. 693, in quanto non e' disposto diversamente dalla presente legge.
 
-### Art. 26
+## Art. 26
 
 E' approvato per il R. opificio dello pietre dure in Firenze il ruolo organico del personale secondo la tabella F annessa alla presente legge.
 
@@ -276,7 +276,7 @@ Il direttore dell'opificio sara' nominato dal Re su proposta del ministro della 
 
 Il personale amministrativo e quello delle officine e di servizio sara' nominato dal ministro, sentito il parere del direttore dell'opificio.
 
-### Art. 27
+## Art. 27
 
 A cominciare dall'anno scolastico 1912-913 le tasse scolastiche per gli Istituti di belle arti e di musica sono fissate secondo le tabelle D, E annesse alla presente legge.
 
@@ -284,7 +284,7 @@ Nel regolamento per l'esecuzione della presente legge saranno fissate le norme e
 
 ## Disposizioni transitorie.
 
-### Art. 28
+## Art. 28
 
 Nell'applicazione delle tabelle organiche A, B, C e F, cessano e vengono assorbiti gli aumenti sessennali in via di maturazione o gia' conseguiti.
 
@@ -298,11 +298,11 @@ Con l'applicazione della presente legge cessera' il diritto all'uso gratuito del
 
 Tutti gli assegni ad personam conferiti in forza della presente legge sono valutabili agli effetti della pensione od indennita' di riposo.
 
-### Art. 29
+## Art. 29
 
 Nella prima applicazione di questa legge, e cioe' sino a che non si sara' provveduto per tutti i posti portati dalle tabelle organiche vacanti all'atto dell'applicazione della legge, il Governo avra' facolta' di derogare dalle norme di cui agli articoli 4, 5, 6, 7, 8, 9, 10, rispetto alla nomina e alla promozione del personale (comunque nominato come personale di ruolo o straordinario) in servizio all'atto della pubblicazione della presente legge. Il ministro, udito il parere delle competenti sezioni del Consiglio superiore di belle arti o della Commissione permanente per le arti musicale e drammatica per il personale direttivo e insegnante e del Consiglio d'amministrazione del Ministero della pubblica istruzione per il personale amministrativo, disciplinare e di biblioteca, potra' ordinare, nell'interesse del servizio, e pei gravi e comprovati motivi non attinti soltanto alle informazioni dei capi degli Istituti, nella prima applicazione di questa legge, la dispensa o il collocamento a riposo di taluni insegnanti e funzionari od il loro trasferimento dall'uno all'altro Istituto, purche' non abbiano in quest'ultimo caso, ad avere nel nuovo ufficio uno stipendio inferiore a quello goduto fino allora.
 
-### Art. 30
+## Art. 30
 
 I posti conservati ad personam nella tabella transitoria annessa alla presente legge restano soppressi al momento in cui i rispettivi titolari cesseranno dal coprirli.
 
@@ -340,7 +340,7 @@ Il D.L. Luogotenenziale 19 settembre 1918, n. 1549, convertito senza modificazio
 
 Ha inoltre disposto (con l'articolo unico, comma 2) che "In conseguenza di cio', restano parimenti prorogate tutte le disposizioni della stessa legge, compresavi la tabella transitoria ad essa allegata, emanata in applicazione della cessazione suddetta".
 
-### Art. 31
+## Art. 31
 
 Entro il periodo di due anni dalla pubblicazione della presente legge, il Governo del Re ha facolta' di stipulare cogli enti locali che ne facciano domanda, delle convenzioni, dirette a rendere autonomi i convitti di cui all'art. 30 contribuendo da sua parte una somma fissa corrispondente:
 
@@ -350,19 +350,19 @@ b) all'ammontare delle tasse scolastiche in media pagate dai convittori nell'ult
 
 c) all'ammontare delle borse di studio non superiori a venti, che possono essere assegnate alla regione.
 
-### Art. 32
+## Art. 32
 
 E' mantenuto come beneficio personale, in deroga alle disposizioni dell'art. 17 della presente legge, il cumulo di due posti di insegnanti effettivi di ruolo negli Istituti di belle arti e musicale per quei professori che, insegnando in un medesimo Istituto, ne godano al momento della pubblicazione della presente legge, ma i benefici finanziari della presente legge si estendono a un solo posto.
 
-### Art. 33
+## Art. 33
 
 I professori e funzionari non aventi ufficio direttivo i quali, all'atto dell'applicazione della presente legge, abbiano superato il 70° anno di eta' ed abbiano piu' di 25 anni di servizio saranno collocati a riposo.
 
-### Art. 34
+## Art. 34
 
 Il Governo del Re e' autorizzato ad introdurre nello stato di previsione della spesa del Ministero della pubblica istruzione ed in quello dell'entrata le variazioni dipendenti dall'applicazione della presente legge.
 
-### Art. 35
+## Art. 35
 
 Il Governo del Re provvedera' a riformare gli statuti ed i regolamenti degli Istituti d'arte e di musica in relazione ai provvedimenti recati dalla presente legge ed avra' facolta' di mantenere in carica gli attuali presidenti e governatori ad honorem.
 
@@ -372,7 +372,7 @@ E' poi consentito, in via transitoria, che la detta abilitazione si continui a c
 
 Le abilitazioni cosi' conseguite varranno per l'ammissione ai concorsi a cattedre di disegno nelle scuole medie, giusta le disposizioni della legge 8 aprile 1906, n. 141.
 
-### Art. 36
+## Art. 36
 
 Dopo un biennio dall'attuazione della presente legge, Governo del Re avra' facolta' di modificare con decreto Reale gli organici approvati colla presente legge, a norma degli eccessi e dei difetti che saranno rilevati nel funzionamento dei diversi Istituti.
 
@@ -390,7 +390,7 @@ Visto, Il guardasigilli: Finocchiaro-Aprile.
 
 ## Disposizioni transitorie.
 
-### Tabelle
+## Tabelle
 
 Tabella A.
 

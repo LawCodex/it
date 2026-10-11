@@ -32,7 +32,7 @@ Noi abbiamo sanzionato e promulghiamo quanto segue:
 
 ## Campo di applicazione.
 
-### Art. 1
+## Art. 1
 
 Il lavoro delle donne e dei fanciulli alla dipendenza di datori di lavoro e' disciplinato dalle norme della presente legge.
 
@@ -56,7 +56,7 @@ g) dei fanciulli occupati a bordo delle navi;
 
 h) del personale femminile religioso addetto agli Istituti pubblici di assistenza e di beneficenza.
 
-### Art. 2
+## Art. 2
 
 Il Ministro per le corporazioni puo' estendere l'applicazione, in tutto o in parte, delle disposizioni della presente legge ai laboratori-scuola che non siano eserciti con fine di speculazione, tenendo conto della durata del lavoro manuale, delle condizioni in cui esso si svolge e delle esigenze dell'insegnamento professionale.
 
@@ -70,7 +70,7 @@ AGGIORNAMENTO (4)
 
 Il D.P.R. 19 marzo 1955, n. 520 ha disposto (con l'art. 30, comma 1) che "Le attribuzioni spettanti al Ministro per il lavoro e la previdenza sociale, ai sensi dell'art. 2, ultimo comma, art. 7, art. 16, della legge 26 aprile 1934, n. 653, sulla tutela del lavoro delle donne e dei fanciulli, [...] sono demandate all'Ispettorato del lavoro".
 
-### Art. 3
+## Art. 3
 
 Salvo una diversa specificazione si intendono:
 
@@ -80,7 +80,7 @@ b) per «donne minorenni» quelle che, compiuti i 15 anni, non hanno compiuto i 
 
 Gli esercenti di laboratori-scuola sono considerati datori di lavoro.
 
-### Art. 4
+## Art. 4
 
 Si presumono addetti al lavoro le donne, i fanciulli, ed i minori, di cui agli articoli seguenti, che si trovino nei luoghi di lavoro ai quali e' applicabile la presente legge, a meno che non venga giustificata la loro presenza con motivi attendibili.
 
@@ -88,11 +88,11 @@ La giustificazione deve essere data dal datore di lavoro.
 
 ## Requisiti di età.
 
-### Art. 5
+## Art. 5
 
 ((ARTICOLO ABROGATO DALLA L. 29 NOVEMBRE 1961, N. 1325))
 
-### Art. 6
+## Art. 6
 
 E' vietato adibire:
 
@@ -124,13 +124,13 @@ La L. 29 novembre 1961, n. 1325, ha disposto (con l'art. 3, comma 1) che "A modi
 
 ## Requisiti di istruzioni.
 
-### Art. 7
+## Art. 7
 
 ((ARTICOLO ABROGATO DALLA L. 29 NOVEMBRE 1961, N. 1325))
 
 ## Idoneità fisica, visita medica preventiva e certificato medico.
 
-### Art. 8
+## Art. 8
 
 I fanciulli e le donne minorenni non possono essere addetti al lavoro ove non risulti, in base a certificato medico, che sono sani e adatti al lavoro.
 
@@ -138,7 +138,7 @@ Qualora il sanitario ritenga che non siano fisicamente idonei a tutti o ad alcun
 
 Non possono essere addetti al lavoro fanciulli e donne minorenni che non siano forniti di un libretto di lavoro, le cui norme saranno determinate dal Ministro per le corporazioni con apposito decreto, e nel quale sara' inserita fra gli altri elementi la scheda sanitaria.
 
-### Art. 9
+## Art. 9
 
 Gli ufficiali sanitari sono tenuti ad eseguire le visite mediche ed a rilasciare gratuitamente i certificati previsti dal precedente articolo.
 
@@ -146,13 +146,13 @@ Possono essere autorizzati dal Ministro per le corporazioni ad eseguire visite e
 
 ## Lavori faticosi, pericolosi ed insalubri.
 
-### Art. 10
+## Art. 10
 
 Con decreto Reale, sentiti il Consiglio superiore di sanita' e il Consiglio nazionale delle corporazioni, saranno determinati i lavori pericolosi, faticosi ed insalubri per i quali e' vietata l'occupazione dei fanciulli e delle donne minorenni e quelli per i quali ne e' consentita l'occupazione, con le cautele e le condizioni necessarie.
 
 ## Trasporto e sollevamento di pesi.
 
-### Art. 11
+## Art. 11
 
 I carichi, di cui possono essere gravati i fanciulli, i minori degli anni diciassette e le donne di qualunque eta' adibiti ai lavori di trasporto e sollevamento di pesi, anche se inerenti ai lavori agricoli, non possono superare i seguenti limiti:
 
@@ -176,7 +176,7 @@ Per quanto riguarda le donne in istato di gravidanza si applica il divieto presc
 
 ## Lavoro notturno.
 
-### Art. 12
+## Art. 12
 
 Nelle aziende industriali e nelle loro dipendenze e' vietato il lavoro di notte per le donne di qualunque eta' e per i minori degli anni diciotto, salvo le eccezioni previste dagli articoli seguenti:((6))
 
@@ -190,7 +190,7 @@ AGGIORNAMENTO (6)
 
 La Corte Costituzionale con sentenza 9 luglio 1986, n. 210 (in G.U. 1ª s.s. 1/8/1986, n. 38) ha dichiarato l'illegittimita' costituzionale del primo comma del presente articolo limitatamente alle parole: "per le donne di qualunque eta' e..."."
 
-### Art. 13
+## Art. 13
 
 Col termine «notte» si intende un periodo di almeno 11 ore consecutive, comprendente l'intervallo tra le ore 22 e le ore 5 salvo le disposizioni della legge sulla panificazione. ((3))
 
@@ -200,7 +200,7 @@ AGGIORNAMENTO (3)
 
 La L. 7 dicembre 1951, n. 1630, ha disposto (con l'articolo unico, comma 1) che "Il rinvio alle disposizioni della, legge sulla panificazione, contenuto nell'art. 13 della legge 26 aprile 1934, n. 653, si riferisce soltanto ai lavoratori di sesso maschile e di eta' inferiore ai diciotto anni".
 
-### Art. 14
+## Art. 14
 
 Il divieto del lavoro notturno non si applica per coloro che abbiano compiuto gli anni 16, adibiti, nelle seguenti industrie, a lavori che per la loro natura devono essere necessariamente continuati giorno e notte:
 
@@ -214,7 +214,7 @@ d) zuccherifici in cui si elabora lo zucchero grezzo;
 
 e) riduzione del minerale d'oro; nonche' adibiti eventualmente nelle altre industrie determinate con decreto del Ministro per le corporazioni, sentite le organizzazioni sindacali.
 
-### Art. 15
+## Art. 15
 
 Il divieto di lavoro notturno non si applica per coloro che abbiano compiuto gli anni 16 e per le donne di qualunque eta', quando si verifichi un caso di forza maggiore che ostacoli il funzionamento normale dell'azienda.
 
@@ -226,7 +226,7 @@ L'Ispettorato corporativo potra' imporre la limitazione o la sospensione del lav
 
 Contro il provvedimento dell'Ispettorato e' ammesso ricorso al Ministero delle corporazioni.
 
-### Art. 16
+## Art. 16
 
 Il Ministro per le corporazioni ha facolta':
 
@@ -248,7 +248,7 @@ Il D.P.R. 19 marzo 1955, n. 520 ha disposto (con l'art. 30, comma 1) che "Le att
 
 ## Orario di lavoro.
 
-### Art. 17
+## Art. 17
 
 Nei casi in cui dalle leggi sulla limitazione degli orari di lavoro e' consentito superare le otto ore giornaliere, l'orario di lavoro non puo' superare le 10 ore al giorno per i fanciulli e le 11 ore al giorno per le donne che hanno compiuto i 15 anni, ferme restando le maggiori limitazioni stabilite da dette leggi.
 
@@ -272,17 +272,17 @@ La L. 16 luglio 1940, n. 1109, ha disposto (con l'art. 4, comma 1) che "Il Minis
 
 ## Riposi intermedi.
 
-### Art. 18
+## Art. 18
 
 ((ARTICOLO ABROGATO DAL D.LGS. 26 MARZO 2001, N. 151))
 
-### Art. 19
+## Art. 19
 
 ((ARTICOLO ABROGATO DAL D.LGS. 26 MARZO 2001, N. 151))
 
 ## Provvedimenti a tutela della igiene, della sicurezza - e della moralità.
 
-### Art. 20
+## Art. 20
 
 Nei casi in cui non si applichino le disposizioni del regolamento di igiene sul lavoro, i locali di lavoro e le relative dipendenze, i dormitori ed i refettori:
 
@@ -298,7 +298,7 @@ Contro i provvedimenti dell'Ispettorato e' ammesso il ricorso al Ministero delle
 
 ## Visite mediche periodiche.
 
-### Art. 21
+## Art. 21
 
 Per le categorie di attivita' o di aziende che saranno determinate con decreto del Ministro per le corporazioni, e' fatto obbligo al datore di lavoro di sottoporre le donne minorenni ed i fanciulli a visite mediche periodiche per accertare che siano fisicamente atti a sostenere il lavoro nel quale sono occupati.
 
@@ -306,7 +306,7 @@ Per i lavori di cui all'art. 10 l'obbligo del datore di lavoro di fare eseguire 
 
 Le suddette visite sono eseguite da medici incaricati dal datore di lavoro.
 
-### Art. 22
+## Art. 22
 
 L'Ispettorato corporativo puo' prescrivere che la visita sia ripetuta, quando reputi che lo stato di salute della donna, del fanciullo o del minore degli anni 18 non permetta che continuino nel lavoro al quale sono addetti.
 
@@ -314,11 +314,11 @@ L'Ispettorato potra' anche fare eseguire direttamente la suddetta visita dai pro
 
 La visita medica e' gratuita.
 
-### Art. 23
+## Art. 23
 
 Coloro che dalle visite mediche, previste dagli articoli 21 e 22, risultino non idonei per un determinato lavoro, non possono essere a questo ulteriormente addetti.
 
-### Art. 24
+## Art. 24
 
 ((Salvo che il fatto costituisca reato, chiunque viola le disposizioni contenute nei primi 19 articoli della presente legge, nonche' alle norme del decreto ministeriale di cui all'ultimo comma dell'articolo 8 e' punito con la sanzione amministrativa pecuniaria da lire trentamila a centottantamila per ogni donna occupata nel lavoro e alla quale l'illecito si riferisce.
 
@@ -326,7 +326,7 @@ La sanzione amministrativa pecuniaria non puo' essere complessivamente superiore
 
 Le violazioni dell'articolo 20 sono punite con la sanzione amministrativa pecuniaria da lire quattrocentomila a due milioni quattrocentomila e quelle agli articoli 21, 22 e 23 sono punite con la sanzione amministrativa pecuniaria da lire duecentomila a lire un milione duecentomila.))
 
-### Art. 25
+## Art. 25
 
 Dalla entrata in vigore della presente legge sono abrogati:
 
@@ -346,7 +346,7 @@ Dalla entrata in vigore della presente legge sono abrogati:
 
 8° l'art. 12, comma 1°, del R. decreto-legge 21 ottobre 1926, n. 1904, che modifica la legge 10 dicembre 1925, n. 2277, sulla protezione e l'assistenza della maternita' e dell'infanzia.
 
-### Art. 26
+## Art. 26
 
 La presente legge entra in vigore novanta giorni dopo la pubblicazione nella Gazzetta Ufficiale del decreto Ministeriale di cui all'art. 8, ultimo comma. ((1))
 

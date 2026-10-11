@@ -40,11 +40,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - DISPOSIZIONI GENERALI
 
-### DISPOSIZIONI GENERALI
-
-#### Art. 1
+### Art. 1
 
 Disposizioni di principio e attuazione
 
@@ -168,7 +166,7 @@ Disposizioni di principio e attuazione
 
 > \- Per la decisione quadro 2008/909/GAI, si veda nelle note alle premesse.
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -204,7 +202,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 15 febbraio 2016, n. 31 (con l'art. 3, comma 1, lettera a)) che "l'allegato II al presente decreto sostituisce il certificato richiamato dal decreto legislativo 7 settembre 2010, n. 161".
 
-#### Art. 3
+### Art. 3
 
 Autorita' competenti
 
@@ -214,11 +212,9 @@ Autorita' competenti
 
 3\. Nei limiti indicati dal presente decreto, e' consentita la corrispondenza diretta tra le autorita' giudiziarie. In tale caso, l'autorita' giudiziaria italiana competente informa immediatamente il Ministero della giustizia della trasmissione o della ricezione di una sentenza di condanna.
 
-## Capo II
+## Capo II - TRASMISSIONE ALL'ESTERO
 
-### TRASMISSIONE ALL'ESTERO
-
-#### Art. 4
+### Art. 4
 
 Competenza
 
@@ -248,7 +244,7 @@ b) dal pubblico ministero individuato ai sensi dell'articolo 658 del codice di p
 
 > «Esecuzione all'estero di sentenze penali italiane».
 
-#### Art. 5
+### Art. 5
 
 Condizioni di emissione
 
@@ -314,7 +310,7 @@ c) verso lo Stato membro dell'Unione europea che ha acconsentito alla trasmissio
 
 > 2\. I provvedimenti relativi alle misure di sicurezza diverse dalla confisca sono eseguiti dal pubblico ministero presso il giudice di sorveglianza che li ha adottati. Il pubblico ministero comunica in copia il provvedimento all'autorita' di pubblica sicurezza e, quando ne e' il caso, emette ordine di esecuzione, con il quale dispone la consegna o la liberazione dell'interessato.».
 
-#### Art. 6
+### Art. 6
 
 Procedimento
 
@@ -344,7 +340,7 @@ d) conoscere le disposizioni applicabili nello Stato di esecuzione in materia di
 
 9\. In caso di mancato riconoscimento della sentenza di condanna, il Ministero della giustizia ne da' comunicazione all'autorita' giudiziaria che ha emesso il provvedimento di trasmissione all'estero.
 
-#### Art. 7
+### Art. 7
 
 Trasferimento delle persone condannate
 
@@ -366,7 +362,7 @@ Trasferimento delle persone condannate
 
 > L'assenso e' rilasciato quando il reato per il quale e' richiesto consente la consegna di una persona ai sensi della decisione quadro. La corte rifiuta l'assenso quando ricorre uno dei casi di cui all'articolo 18.».
 
-#### Art. 8
+### Art. 8
 
 Arresto provvisorio
 
@@ -374,11 +370,9 @@ Arresto provvisorio
 
 2\. La richiesta di arresto e' formulata mediante la compilazione del riquadro e) del certificato.
 
-## Capo III
+## Capo III - TRASMISSIONE DALL'ESTERO
 
-### TRASMISSIONE DALL'ESTERO
-
-#### Art. 9
+### Art. 9
 
 Competenza
 
@@ -392,7 +386,7 @@ Competenza
 
 5\. In caso di arresto della persona condannata ai sensi dell'articolo 15, la competenza appartiene alla corte di appello del distretto in cui e' avvenuto l'arresto.
 
-#### Art. 10
+### Art. 10
 
 Condizioni per il riconoscimento
 
@@ -418,7 +412,7 @@ f) la durata e la natura della pena o della misura di sicurezza applicate nello 
 
 5\. Se la durata e la natura della pena o della misura di sicurezza applicate con la sentenza di condanna sono incompatibili con quelle previste in Italia per reati simili, la corte di appello procede al loro adattamento. La durata e la natura della pena o della misura di sicurezza adattate non possono essere inferiori alla pena o alla misura di sicurezza previste dalla legge italiana per reati simili, ne' piu' gravi di quelle applicate dallo Stato di emissione con la sentenza di condanna. La pena detentiva e la misura di sicurezza restrittiva della liberta' personale non possono essere convertite in pena pecuniaria.
 
-#### Art. 11
+### Art. 11
 
 Deroghe alla doppia punibilita'
 
@@ -494,7 +488,7 @@ Deroghe alla doppia punibilita'
 
 > mm) provocare illegalmente e intenzionalmente danni ingenti a strutture statali, altre strutture pubbliche, sistemi di trasporto pubblico o altre infrastrutture, che comportano o possono comportare una notevole perdita economica.».
 
-#### Art. 12
+### Art. 12
 
 Procedimento
 
@@ -542,7 +536,7 @@ Procedimento
 
 > 6\. Quando la Corte di cassazione annulla con rinvio, gli atti vengono trasmessi al giudice di rinvio, il quale decide entro venti giorni dalla ricezione.».
 
-#### Art. 13
+### Art. 13
 
 Motivi di rifiuto del riconoscimento
 
@@ -584,7 +578,7 @@ n) la sentenza di condanna si riferisce a reati che, in base alla legge italiana
 
 3\. Le disposizioni di cui al presente articolo si applicano, in quanto compatibili, anche alla sentenza con cui e' applicata una misura di sicurezza.
 
-#### Art. 14
+### Art. 14
 
 Misure coercitive
 
@@ -636,7 +630,7 @@ Misure coercitive
 
 > 2\. Al fine di provvedere agli adempimenti previsti dal comma 1, il presidente della corte di appello invita l'interessato a nominare un difensore di fiducia designando, in difetto di tale nomina, un difensore di ufficio a norma dell'articolo 97 comma 3. Il difensore deve essere avvisato, almeno ventiquattro ore prima, della data fissata per i predetti adempimenti e ha diritto di assistervi.».
 
-#### Art. 15
+### Art. 15
 
 Arresto
 
@@ -660,7 +654,7 @@ Arresto
 
 > 4\. All'attuazione del presente articolo si provvede mediante l'utilizzo degli ordinari stanziamenti del Ministero della giustizia.».
 
-#### Art. 16
+### Art. 16
 
 Esecuzione conseguente al riconoscimento
 
@@ -674,7 +668,7 @@ Esecuzione conseguente al riconoscimento
 
 5\. Le disposizioni di cui al presente articolo si applicano, in quanto compatibili, anche all'esecuzione della sentenza con cui e' applicata una misura di sicurezza.
 
-#### Art. 17
+### Art. 17
 
 Provvedimenti adottati dallo Stato di emissione
 
@@ -682,7 +676,7 @@ Provvedimenti adottati dallo Stato di emissione
 
 2\. La revisione della sentenza di condanna trasmessa per l'esecuzione spetta esclusivamente all'autorita' dello Stato di emissione.
 
-#### Art. 18
+### Art. 18
 
 Principio di specialita'
 
@@ -710,7 +704,7 @@ g) fuori dei casi precedenti, lo Stato di emissione ha dato il suo consenso nell
 
 > \- Per l'articolo 26, comma 3, della legge 22 aprile 2005, n. 69, si veda nelle note all'articolo 7.
 
-#### Art. 19
+### Art. 19
 
 Transito
 
@@ -722,11 +716,9 @@ Transito
 
 4\. La persona condannata puo' essere trattenuta in custodia dall'autorita' di polizia per il tempo strettamente necessario al transito e, comunque, non oltre quarantotto ore dal momento del suo arrivo nel territorio dello Stato.
 
-## Capo IV
+## Capo IV - DISPOSIZIONI COMUNI AI PROCEDIMENTI DI TRASMISSIONE
 
-### DISPOSIZIONI COMUNI AI PROCEDIMENTI DI TRASMISSIONE
-
-#### Art. 20
+### Art. 20
 
 Informazioni
 
@@ -758,23 +750,21 @@ n) della scarcerazione per la completa esecuzione della pena o della misura di s
 
 2\. Il Ministero della giustizia cura altresi' la corrispondenza relativa alle richieste e alle decisioni di cui agli articoli 7, commi 4 e 5, e 17.
 
-#### Art. 21
+### Art. 21
 
 Spese
 
 1\. Sono a carico dello Stato italiano le spese sostenute nel territorio nazionale per il trasferimento all'estero della persona condannata e per l'esecuzione della sentenza di condanna. Tutte le altre spese sono a carico dello Stato membro verso il quale la persona condannata e' trasferita o che ha chiesto la trasmissione della sentenza di condanna.
 
-## Capo V
+## Capo V - DISPOSIZIONI TRANSITORIE E FINALI
 
-### DISPOSIZIONI TRANSITORIE E FINALI
-
-#### Art. 22
+### Art. 22
 
 Obblighi internazionali
 
 1\. Il presente decreto non pregiudica gli obblighi internazionali dello Stato italiano quando la persona condannata deve essere trasferita da o verso uno Stato terzo.
 
-#### Art. 23
+### Art. 23
 
 Disposizioni finanziarie
 
@@ -782,7 +772,7 @@ Disposizioni finanziarie
 
 2\. Le Amministrazioni interessate provvedono agli adempimenti previsti dal presente decreto con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
-#### Art. 24
+### Art. 24
 
 Norme applicabili
 
@@ -812,7 +802,7 @@ Norme applicabili
 
 > «Sospensione dei termini processuali nel periodo feriale» pubblicata nella Gazzetta Ufficiale 6 novembre 1969, n. 281.
 
-#### Art. 25
+### Art. 25
 
 Disposizioni transitorie
 

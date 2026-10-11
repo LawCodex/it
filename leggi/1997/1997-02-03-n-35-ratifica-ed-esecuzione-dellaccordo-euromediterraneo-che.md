@@ -27,21 +27,21 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'accordo euromediterraneo che istituisce un'Associazione tra la Comunita' europea ed i suoi Stati membri, da una parte, e la Repubblica tunisina, dall'altra, con cinque protocolli, sette allegati e atto finale, fatto a Bruxelles il 17 luglio 1995.
 
-##### Art. 2
+#### Art. 2
 
 1\. Piena ed intera esecuzione e' data all'accordo di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore in conformita' a quanto disposto dall'articolo 96 dell'accordo stesso.
 
-##### Art. 3
+#### Art. 3
 
 1\. All'onere derivante dall'attuazione della presente legge, valutato in lire 7 milioni annue a decorrere dal 1996, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1996-1998, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1996, allo scopo parzialmente utilizzando l'accantonamento riguardante il Ministero degli affari esteri.
 
 2\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 4
+#### Art. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -139,7 +139,7 @@ CONVINTI che il presente accordo creera' un clima propizio allo sviluppo delle l
 
 HANNO CONVENUTO QUANTO SEGUE:
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 1\. E' istituita un'associazione tra la Comunita' e i suoi Stati membri, da una parte, e la Tunisia, dall'altra.
 
@@ -155,13 +155,13 @@ HANNO CONVENUTO QUANTO SEGUE:
 
 \- promuovere la cooperazione in campo economico, sociale, culturale e finanziario.
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Le relazioni tra le Parti, cosi' come tutte le disposizioni del presente accordo, si fondano sul rispetto dei principi democratici e dei diritti dell'uomo, cui si ispira la loro politica interna e internazionale e che costituiscono un elemento essenziale dell'accordo.
 
 ## TITOLO I - DIALOGO POLITICO
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 1\. Si istituisce un dialogo politico continuativo tra le Parti al fine di instaurare duraturi vincoli di solidarieta' che contribuiranno alla prosperita', alla stabilita' e alla sicurezza della regione mediterranea e svilupperanno un clima di comprensione e tolleranza tra culture.
 
@@ -175,11 +175,11 @@ c) promuovere il consolidamento della sicurezza e della stabilita' nella regione
 
 d) consentire la messa a punto di iniziative comuni.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Il dialogo politico riguarda qualsiasi aspetto di comune interesse per le Parti e, piu' in particolare, le condizioni atte a garantire la pace, la sicurezza e lo sviluppo regionale sostenendo gli sforzi finalizzati alla cooperazione, soprattutto nell'ambito del Magreb.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 Il dialogo politico si svolgera' a scadenze regolari e ogniqualvolta sara' necessario, in particolare
 
@@ -193,25 +193,25 @@ d) se necessario, attraverso qualsiasi altra modalita' che possa contribuire all
 
 ## TITOLO II - LIBERA CIRCOLAZIONE DELLE MERCI
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 Nel corso di un periodo transitorio della durata massima di dodici anni a decorrere dall'entrata in vigore del presente accordo, la Comunita' e la Tunisia istituiscono progressivamente una zona di libero scambio, secondo le modalita' indicate in appresso e in conformita' con le disposizioni dell'Accordo generale sulle tariffe doganali e sul commercio del 1994 e degli altri accordi multilaterali sugli scambi di merci allegati all'accordo che istituisce l'Organizzazione mondiale del commercio, in appresso denominati GATT.
 
-## CAPITOLO I - PRODOTTI INDUSTRIALI
+### CAPITOLO I - PRODOTTI INDUSTRIALI
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 Le disposizioni del presente capitolo si applicano ai prodotti originari della Comunita' e della Tunisia diversi da quelli specificati nell'allegato II del trattato che istituisce la Comunita' europea.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 Negli scambi tra la Comunita' e la Tunisia non sono introdotti nuovi dazi doganali all'importazione ne' tasse di effetto equivalente.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 I prodotti originari della Tunisia sono ammessi all'importazione nella Comunita' in esenzione da dazi doganali e dalle tasse d'effetto equivalente e senza restrizioni quantitative o misure d'effetto equivalente.
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 1\. Le disposizioni del presente capitolo non ostano al mantenimento, da parte della Comunita', di un elemento agricolo all'importazione delle merci elencate nell'allegato 1 originarie della Tunisia.
 
@@ -235,7 +235,7 @@ Per i prodotti di cui agli elenchi n. 1 e 3 dell'allegato 2 originari della Comu
 
 6\. La riduzione di cui al paragrafo 5, l'elenco dei prodotti interessati e, se del caso, i contingenti tariffari entro il cui limite si applica la riduzione sono stabiliti dal Consiglio di associazione.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 1\. A decorrere dall'entrata in vigore dell'accordo sono soppressi i dazi doganali e le tasse di effetto equivalente applicabili all'importazione in Tunisia ai prodotti originari della Comunita' diversi da quelli elencati negli allegati da 3 a 6.
 
@@ -311,15 +311,15 @@ Dodici anni dopo l'entrata in vigore dell'accordo, i dazi rimanenti sono elimina
 
 7\. La Tunisia comunica alla Comunita' i suoi dazi di base.
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 Le disposizioni degli articoli 10, 11 e 19, lettera b) non si applicano ai prodotti elencati nell'allegato 6. Il regime applicabile a tali prodotti sara' riesaminato dal Consiglio di associazione quattro anni dopo l'entrata in vigore dell'accordo.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 Le disposizioni relative all'abolizione dei dazi doganali sulle importazioni si applicano anche ai dazi doganali di carattere fiscale.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 1\. La Tunisia puo' adottare misure eccezionali di durata limitata, in deroga alle disposizioni dell'articolo 11, maggiorando o reintroducendo dazi doganali.
 
@@ -335,31 +335,31 @@ La Tunisia informa il Comitato di associazione di ogni misura eccezionale che in
 
 2\. In deroga alle disposizioni del paragrafo 1, quarto capoverso, il Comitato di associazione puo', a titolo eccezionale, per tener conto delle difficolta' attinenti alla creazione di una nuova industria, autorizzare la Tunisia a mantenere le misure gia' adottate ai sensi del paragrafo 1 per un periodo massimo di tre anni oltre il periodo di transizione di dodici anni.
 
-## CAPITOLO II - PRODOTTI AGRICOLI E PRODOTTI DELLA PESCA
+### CAPITOLO II - PRODOTTI AGRICOLI E PRODOTTI DELLA PESCA
 
-##### ARTICOLO 15
+#### ARTICOLO 15
 
 Le disposizioni del presente capitolo si applicano ai prodotti originari della Comunita' e della Tunisia elencati nell'allegato II del trattato che istituisce la Comunita' europea.
 
-##### ARTICOLO 16
+#### ARTICOLO 16
 
 La Comunita' e la Tunisia attuano progressivamente una maggiore liberalizzazione nei reciproci scambi di prodotti agricoli e di prodotti della pesca.
 
-##### ARTICOLO 17
+#### ARTICOLO 17
 
 1\. I prodotti agricoli e i prodotti della pesca originari della Tunisia beneficiano all'importazione nella Comunita' delle disposizioni di cui rispettivamente ai protocolli n. 1 e 2.
 
 2\. I prodotti agricoli originari della Comunita' beneficiano all'importazione in Tunisia delle disposizioni di cui al protocollo n. 3.
 
-##### ARTICOLO 18
+#### ARTICOLO 18
 
 1\. A decorrere dal 1 gennaio 2000, la Comunita' e la Tunisia esaminano la situazione al fine di fissare le misure di liberalizzazione che la Comunita' e la Tunisia dovranno applicare a decorrere dal 1 gennaio 2001 conformemente all'obiettivo di cui all'articolo 16.
 
 2\. Fatte salve le disposizioni del paragrafo precedente e tenendo conto dei flussi di scambio dei prodotti agricoli tra le Parti, nonche' della particolare importanza di determinati prodotti, la Comunita' e la Tunisia esaminano, nell'ambito del Consiglio di associazione, prodotto per prodotto e su basi di reciprocita', la possibilita' di accordarsi adeguate concessioni.
 
-## CAPITOLO III - DISPOSIZIONI COMUNI
+### CAPITOLO III - DISPOSIZIONI COMUNI
 
-##### ARTICOLO 19
+#### ARTICOLO 19
 
 Fatte salve le disposizioni del GATT,
 
@@ -369,7 +369,7 @@ b) le restrizioni quantitative e le misure d'effetto equivalente applicabili all
 
 c) la Comunita' e la Tunisia non applicano alle reciproche esportazioni ne' dazi doganali e tasse d'effetto equivalente, ne' restrizioni quantitative e misure d'effetto equivalente.
 
-##### ARTICOLO 20
+#### ARTICOLO 20
 
 1\. Qualora sia emanata una normativa specifica come conseguenza dell'attuazione delle loro politiche agricole o siano modificate le normative esistenti o in caso di modifica o di sviluppo delle disposizioni relative all'attuazione delle loro politiche agricole, la Comunita' e la Tunisia possono modificare, per i prodotti che ne costituiscono oggetto, il regime stabilito dall'accordo.
 
@@ -379,29 +379,29 @@ La Parte che procede a tale modifica ne informa il Comitato di associazione. Su 
 
 3\. La modifica del regime istituito dall'accordo costituira' oggetto, su richiesta dell'altra Parte contraente, di consultazioni in seno al Consiglio di associazione.
 
-##### ARTICOLO 21
+#### ARTICOLO 21
 
 I prodotti originari della Tunisia non beneficiano all'importazione nella Comunita' di un trattamento piu' favorevole di quello che gli Stati membri si applicano reciprocamente.
 
 Le disposizioni del presente accordo si applicano senza pregiudizio di quelle di cui al regolamento (CEE) n. 1191/91 del Consiglio del 26 giugno 1991, relativo all'applicazione delle disposizioni del diritto comunitario alle isole Canarie.
 
-##### ARTICOLO 22
+#### ARTICOLO 22
 
 1\. Le due Parti si astengono dall'introdurre qualsiasi misura o prassi di natura fiscale interna che istituisca, direttamente o indirettamente, discriminazioni tra i prodotti di una Parte e i prodotti analoghi originari dell'altra Parte.
 
 2\. I prodotti esportati verso il territorio di una delle due Parti non possono beneficiare di un rimborso delle imposte interne indirette superiore all'ammontare delle imposte indirette cui sono stati direttamente o indirettamente assoggettati.
 
-##### ARTICOLO 23
+#### ARTICOLO 23
 
 1\. Il presente accordo non osta al mantenimento o all'istituzione di unioni doganali, di zone di libero scambio o di accordi sugli scambi transfrontalieri se non nella misura in cui essi alterano le condizioni commerciali previste dal presente accordo.
 
 2\. Nell'ambito del Comitato di associazione si tengono consultazioni tra le Parti in merito agli accordi istitutivi di unioni doganali o zone di libero scambio e, se del caso, in merito ad altre importanti questioni relative alle loro rispettive politiche commerciali con i paesi terzi. In particolare, nel caso in cui un paese terzo entri a far parte della Comunita', si tengono consultazioni di questo tipo per garantire che si tenga conto dei reciproci interessi della Comunita' e della Tunisia sanciti dal presente accordo.
 
-##### ARTICOLO 24
+#### ARTICOLO 24
 
 Qualora una delle Parti constati che negli scambi con l'altra Parte si verificano pratiche di dumping, ai sensi dell'articolo VI dell'Accordo generale sulle tariffe doganali e sul commercio, essa puo' adottare le misure adeguate contro tali pratiche in conformita' dell'Accordo relativo all'applicazione dell'articolo VI dell'Accordo generale sulle tariffe doganali e sul commercio e della propria pertinente legislazione interna, alle condizioni e secondo le procedure di cui all'articolo 27.
 
-##### ARTICOLO 25
+#### ARTICOLO 25
 
 Qualora un prodotto sia importato in quantita' maggiorate e in condizioni tali da provocare o minacciare di provocare:
 
@@ -411,7 +411,7 @@ Qualora un prodotto sia importato in quantita' maggiorate e in condizioni tali d
 
 la Comunita' o la Tunisia possono adottare le opportune misure alle condizioni e secondo le procedure specificate nell'articolo 27.
 
-##### ARTICOLO 26
+#### ARTICOLO 26
 
 Qualora l'osservanza delle disposizioni dell'articolo 19, lettera c) comporti:
 
@@ -419,7 +419,7 @@ i) la riesportazione verso un paese terzo di un prodotto oggetto nella Parte esp
 
 e qualora le circostanze di cui sopra diano luogo, o possano dar luogo, a gravi difficolta' per la Parte esportatrice, quest'ultima puo' adottare le opportune misure, alle condizioni e secondo le procedure specificate nell'articolo 27. Dette misure hanno carattere non discriminatorio e sono eliminate quando la situazione non ne giustifica piu' il mantenimento.
 
-##### ARTICOLO 27
+#### ARTICOLO 27
 
 1\. Nel caso in cui la Comunita' o la Tunisia assoggettino le importazioni di prodotti suscettibili di creare le difficolta' di cui all'articolo 25 a una procedura amministrativa finalizzata a fornire tempestive informazioni sull'andamento dei flussi commerciali, essa ne informa l'altra parte.
 
@@ -457,25 +457,23 @@ notifica della questione, la Parte esportatrice puo' applicare le misure adeguat
 
 d) Qualora circostanze eccezionali che richiedono un intervento immediato rendano impossibile un'informazione o, a seconda dei casi, un esame preventivo, la Comunita' o la Tunisia puo' applicare immediatamente, nelle situazioni specificate negli articoli 24, 25 e 26, le misure di salvaguardia strettamente necessarie per far fronte alla situazione. Essa ne informa immediatamente l'altra Parte.
 
-##### ARTICOLO 28
+#### ARTICOLO 28
 
 Il presente accordo lascia impregiudicati i divieti o le restrizioni all'importazione, all'esportazione o al transito giustificati da motivi di moralita' pubblica, di ordine pubblico, di pubblica sicurezza, di tutela della salute e della vita delle persone e degli animali o di preservazione dei vegetali, di protezione del patrimonio artistico, storico o archeologico nazionale o di tutela della proprieta' intellettuale, industriale e commerciale o dalle norme relative all'oro e all'argento. Tuttavia, tali divieti o restrizioni non devono costituire un mezzo di discriminazione arbitraria, ne' una restrizione dissimulata al commercio tra le Parti.
 
-##### ARTICOLO 29
+#### ARTICOLO 29
 
 La nozione di "prodotti originari", ai fini dell'applicazione delle disposizioni del presente titolo e i relativi metodi di cooperazione amministrativa, e' definita nel protocollo n. 4.
 
-##### ARTICOLO 30
+#### ARTICOLO 30
 
 Per classificare le merci negli scambi tra le Parti si utilizza la nomenclatura combinata delle merci.
 
 ## TITOLO VI - COOPERAZIONE SOCIALE E CULTURALE
 
-### CAPITOLO I
+### CAPITOLO I - DISPOSIZIONI RELATIVE AI LAVORATORI
 
-#### DISPOSIZIONI RELATIVE AI LAVORATORI
-
-##### ARTICOLO 31
+#### ARTICOLO 31
 
 1\. Le Parti convengono di estendere il campo di applicazione dell'accordo per comprendere il diritto di stabilimento delle societa' di una Parte sul territorio dell'altra e la liberalizzazione della prestazione di servizi ad opera delle societa' di una Parte a favore di destinatari dei servizi situati nell'altra Parte.
 
@@ -485,7 +483,7 @@ Nel formulare dette raccomandazioni, il Consiglio di associazione tiene conto de
 
 3\. Il perseguimento di detto obiettivo costituira' oggetto di un primo esame da parte del Consiglio di associazione entro cinque anni a decorrere dall'entrata in vigore dell'accordo.
 
-##### ARTICOLO 32
+#### ARTICOLO 32
 
 1\. In una prima fase, le Parti ribadiscono i loro rispettivi obblighi ai sensi del GATS, in particolare il reciproco riconoscimento del trattamento della nazione piu' favorita per i settori dei servizi contemplati da tale obbligo.
 
@@ -497,27 +495,25 @@ b) agli altri vantaggi accordati conformemente all'elenco delle esenzioni alla c
 
 ## TITOLO III - DIRITTO DI STABILIMENTO E SERVIZI
 
-##### ARTICOLO 33
+#### ARTICOLO 33
 
 Fatte salve le disposizioni dell'articolo 35, le Parti si impegnano ad autorizzare, in una moneta liberamente convertibile, tutti i pagamenti correnti relativi a operazioni correnti.
 
-##### ARTICOLO 34
+#### ARTICOLO 34
 
 1\. Per quanto riguarda le operazioni in conto capitale, a decorrere dall'entrata in vigore del presente accordo la Comunita' e la Tunisia garantiscono la libera circolazione dei capitali relativi ad investimenti diretti in Tunisia effettuati da societa' costituite secondo la normativa in vigore, nonche' la liquidazione e il rimpatrio dei profitti di detti investimenti e di qualsiasi beneficio che ne derivi.
 
 2\. Le Parti si consultano reciprocamente per facilitare il movimento dei capitali tra la Comunita' e la Tunisia e per liberalizzarlo integralmente quando ricorreranno le necessarie condizioni.
 
-##### ARTICOLO 35
+#### ARTICOLO 35
 
 Qualora uno o piu' Stati membri della Comunita' o la Tunisia abbiano, o corrano un imminente rischio di avere, gravi difficolta' di bilancia dei pagamenti, la Comunita' o la Tunisia, a seconda dei casi, possono adottare, alle condizioni di cui all'Accordo generale sulle tariffe doganali e sul commercio e agli articoli VIII e XIV degli Statuti del Fondo Monetario Internazionale, misure restrittive di durata limitata alle operazioni correnti, la cui portata non deve eccedere quella strettamente necessaria per ovviare alla situazione della bilancia dei pagamenti. La Comunita' o la Tunisia, secondo il caso, ne informa immediatamente l'altra Parte e le presenta il piu' rapidamente possibile un calendario per l'abolizione di tali misure.
 
 ## TITOLO IV - PAGAMENTI, CAPITALI, CONCORRENZA E ALTRE DISPOSIZIONI ECONOMICHE
 
-### CAPITOLO I
+### CAPITOLO I - PAGAMENTI CORRENTI E MOVIMENTO DI CAPITALI
 
-#### PAGAMENTI CORRENTI E MOVIMENTO DI CAPITALI
-
-##### ARTICOLO 36
+#### ARTICOLO 36
 
 1\. Sono incompatibili con il corretto funzionamento del presente accordo, nella misura in cui possono incidere sugli scambi tra la Comunita' e la Tunisia:
 
@@ -565,37 +561,37 @@ Nel caso di pratiche incompatibili ai sensi del paragrafo 1, lettera c) del pres
 
 7\. Fatte salve eventuali disposizioni contrarie adottate in conformita' del paragrafo 3, le Parti si scambiano informazioni tenendo conto delle limitazioni imposte dal rispetto del segreto professionale e dal segreto aziendale.
 
-##### ARTICOLO 37
+#### ARTICOLO 37
 
 Gli Stati membri e la Tunisia adeguano progressivamente, senza pregiudizio degli impegni assunti in sede di GATT, gli eventuali monopoli di Stato di natura commerciale per garantire che, alla scadenza del quinto anno successivo all'entrata in vigore del presente accordo, non esistano piu' discriminazioni tra cittadini degli Stati membri e della Tunisia rispetto alle condizioni di approvvigionamento e di commercializzazione delle merci. Il Comitato di associazione e' informato delle misure adottate a tal fine.
 
-##### ARTICOLO 38
+#### ARTICOLO 38
 
 Per quanto riguarda le imprese pubbliche o le imprese cui sono stati concessi diritti speciali o esclusivi, il Consiglio di associazione provvede affinche', a decorrere dal quinto anno successivo alla data di entrata in vigore del presente accordo, non venga adottata ne' mantenuta alcuna misura che possa ripercuotersi sugli scambi tra la Comunita' e la Tunisia in senso contrario agli interessi delle Parti.
 
 La presente disposizione non osta all'esecuzione, di diritto o di fatto, di compiti particolari assegnati a tali imprese.
 
-##### ARTICOLO 39
+#### ARTICOLO 39
 
 1\. Le Parti assicurano un'adeguata ed efficace tutela dei diritti di proprieta' intellettuale, industriale e commerciale, conformemente ai massimi standard internazionali, ivi compresi strumenti efficaci per far valere tali diritti.
 
 2\. L'attuazione del presente articolo e dell'allegato 7 e' periodicamente esaminata dalle Parti. In caso di difficolta' nel settore della proprieta' intellettuale, industriale e commerciale che si ripercuotano sugli scambi commerciali si tengono, su richiesta dell'una o dell'altra Parte, consultazioni urgenti per giungere a soluzioni reciprocamente soddisfacenti.
 
-##### ARTICOLO 40
+#### ARTICOLO 40
 
 1\. Le Parti adottano le disposizioni atte a promuovere l'utilizzo, da parte della Tunisia, delle normative tecniche della Comunita' e delle norme europee relative alla qualita' dei prodotti industriali e agroalimentari, nonche' le procedure di certificazione.
 
 2\. Sulla base dei principi di cui al paragrafo 1, le Parti concludono accordi di reciproco riconoscimento delle certificazioni, quando ricorrono le necessarie condizioni.
 
-##### ARTICOLO 41
+#### ARTICOLO 41
 
 1\. Le Parti si prefiggono l'obiettivo della reciproca e progressiva liberalizzazione degli appalti pubblici.
 
 2\. Il Consiglio di associazione adotta le misure necessarie per l'attuazione delle disposizioni di cui al paragrafo 1.
 
-## CAPITOLO II - CONCORRENZA E ALTRE DISPOSIZIONI ECONOMICHE
+### CAPITOLO II - CONCORRENZA E ALTRE DISPOSIZIONI ECONOMICHE
 
-##### ARTICOLO 42
+#### ARTICOLO 42
 
 Obiettivi
 
@@ -603,7 +599,7 @@ Obiettivi
 
 2\. Obiettivo della cooperazione economica e' sostenere l'azione della Tunisia per favorirne un duraturo sviluppo economico e sociale.
 
-##### ARTICOLO 43
+#### ARTICOLO 43
 
 Ambito di applicazione
 
@@ -617,7 +613,7 @@ Ambito di applicazione
 
 5\. Se del caso, le Parti determinano, di comune accordo altri settori di cooperazione economica.
 
-##### ARTICOLO 44
+#### ARTICOLO 44
 
 Strumenti e modalita'
 
@@ -633,7 +629,7 @@ d) l'esecuzione di iniziative congiunte;
 
 e) l'assistenza tecnica, amministrativa e regolamentare.
 
-##### ARTICOLO 45
+#### ARTICOLO 45
 
 Cooperazione regionale
 
@@ -653,7 +649,7 @@ f) le questioni doganali;
 
 g) le istituzioni regionali e l'attuazione di programmi e politiche comuni o armonizzati.
 
-##### ARTICOLO 46
+#### ARTICOLO 46
 
 Istruzione e formazione
 
@@ -665,7 +661,7 @@ b) piu' in particolare, promuovere l'accesso della popolazione femminile all'ist
 
 c) favorire l'instaurazione di vincoli duraturi tra organismi specializzati delle Parti al fine di mettere in comune e scambiare esperienze e risorse.
 
-##### ARTICOLO 47
+#### ARTICOLO 47
 
 Cooperazione scientifica, tecnica e tecnologica
 
@@ -691,7 +687,7 @@ c) stimolare l'innovazione tecnologica, il trasferimento di nuove tecnologie e d
 
 d) promuovere tutte le iniziative finalizzate a creare sinergie d'impatto regionale.
 
-##### ARTICOLO 48
+#### ARTICOLO 48
 
 Ambiente
 
@@ -705,7 +701,7 @@ b) conseguenze dello sviluppo, in particolare dello sviluppo industriale (sicure
 
 c) controllo e prevenzione dell'inquinamento marino.
 
-##### ARTICOLO 49
+#### ARTICOLO 49
 
 Cooperazione industriale
 
@@ -721,7 +717,7 @@ d) valorizzare le risorse umane e il potenziale industriale della Tunisia attrav
 
 e) facilitare l'accesso al credito per il finanziamento degli investimenti.
 
-##### ARTICOLO 50
+#### ARTICOLO 50
 
 Promozione e tutela degli investimenti
 
@@ -731,7 +727,7 @@ a) l'istituzione di procedure armonizzate e semplificate, di meccanismi di inves
 
 b) se del caso, la definizione di un quadro giuridico che favorisca gli investimenti, in particolare attraverso la conclusione, tra la Tunisia e gli Stati membri, di accordi di tutela degli investimenti e di accordi contro la doppia imposizione.
 
-##### ARTICOLO 51
+#### ARTICOLO 51
 
 Cooperazione in materia di normalizzazione e di valutazione della conformita'
 
@@ -743,13 +739,13 @@ b) l'adeguamento dei laboratori tunisini che consenta di concludere, in futuro, 
 
 c) le strutture tunisine responsabili della proprieta' intellettuale, industriale e commerciale, della normalizzazione e della qualita'.
 
-##### ARTICOLO 52
+#### ARTICOLO 52
 
 Ravvicinamento delle legislazioni
 
 Obiettivo della cooperazione e' aiutare la Tunisia a ravvicinare la sua legislazione a quella della Comunita' nei settori contemplati dal presente accordo.
 
-##### ARTICOLO 53
+#### ARTICOLO 53
 
 Servizi finanziari
 
@@ -759,7 +755,7 @@ a) consolidare e ristrutturare i settori finanziari della Tunisia;
 
 b) migliorare i sistemi contabili, di revisione dei conti, di vigilanza, di regolamentazione dei servizi finanziari e di controllo finanziario della Tunisia.
 
-##### ARTICOLO 54
+#### ARTICOLO 54
 
 Agricoltura e pesca
 
@@ -771,7 +767,7 @@ b) la diversificazione delle produzioni e degli sbocchi all'estero;
 
 c) la cooperazione in campo sanitario e fitosanitario e nel settore delle tecniche di coltura.
 
-##### ARTICOLO 55
+#### ARTICOLO 55
 
 Trasporti
 
@@ -785,7 +781,7 @@ c) il rinnovamento delle attrezzature tecniche in linea con tali standard comuni
 
 d) il progressivo miglioramento delle condizioni di transito stradale e della gestione degli aeroporti, del traffico aereo e delle ferrovie.
 
-##### ARTICOLO 56
+#### ARTICOLO 56
 
 Telecomunicazioni e tecnologie dell'informazione
 
@@ -799,7 +795,7 @@ c) la diffusione delle nuove tecnologie dell'informazione, in particolare nel ca
 
 d) lo stimolo della ricerca e della definizione di nuovi mezzi di comunicazione e di tecnologie dell'informazione al fine di sviluppare il mercato delle attrezzature, dei servizi e delle applicazioni connesse alle tecnologie dell'informazione e alle comunicazioni, ai servizi e alle installazioni.
 
-##### ARTICOLO 57
+#### ARTICOLO 57
 
 Energia
 
@@ -813,7 +809,7 @@ c) la ricerca applicata relativa alle reti di banche-dati tra operatori economic
 
 d) il sostegno ai programmi di ammodernamento e di sviluppo delle reti energetiche e delle loro interconnessioni con le reti della Comunita'.
 
-##### ARTICOLO 58
+#### ARTICOLO 58
 
 Turismo
 
@@ -825,7 +821,7 @@ b) lo sviluppo del marketing;
 
 c) il potenziamento del turismo giovanile.
 
-##### ARTICOLO 59
+#### ARTICOLO 59
 
 Cooperazione nel settore doganale
 
@@ -837,13 +833,13 @@ b) l'introduzione del documento amministrativo unico e di una connessione tra i 
 
 2\. Fatte salve le ulteriori forme di cooperazione previste nel presente accordo, in particolare agli articoli 61 e 62, le autorita' amministrative delle Parti contraenti si prestano reciproca assistenza secondo le disposizioni del protocollo n. 5.
 
-##### ARTICOLO 60
+#### ARTICOLO 60
 
 Cooperazione nel settore statistico
 
 La cooperazione e' finalizzata al ravvicinamento delle metodologie utilizzate dalle Parti e all'impiego dei dati statistici relativi a tutti i settori contemplati dal presente accordo che si prestino all'elaborazione di statistiche.
 
-##### ARTICOLO 61
+#### ARTICOLO 61
 
 Riciclaggio del denaro
 
@@ -851,7 +847,7 @@ Riciclaggio del denaro
 
 2\. La cooperazione nel settore comprende un'assistenza amministrativa e tecnica finalizzata all'adozione di norme adeguate per combattere il riciclaggio del denaro, equivalenti a quelle adottate in materia dalla Comunita' e dai consessi internazionali, ivi compresa la Task Force internazionale "Azione finanziaria" (FATF).
 
-##### ARTICOLO 62
+#### ARTICOLO 62
 
 Lotta contro gli stupefacenti
 
@@ -873,13 +869,13 @@ b) attuazione di progetti di prevenzione, di informazione, di formazione e di ri
 
 c) definizione di norme relative alla prevenzione dell'utilizzazione abusiva di precursori e di altre sostanze chimiche essenziali utilizzate per la produzione illecita di stupefacenti e sostanze psicotrope, equivalenti a quelle adottate dalla Comunita' e dagli organismi internazionali competenti, in particolare la "Chemical Action Task Force" (CATF).
 
-##### ARTICOLO 63
+#### ARTICOLO 63
 
 Le due Parti determinano congiuntamente le modalita' necessarie per l'attuazione della cooperazione nei settori di cui al presente Titolo.
 
 ## TITOLO V - COOPERAZIONE ECONOMICA
 
-##### ARTICOLO 64
+#### ARTICOLO 64
 
 1\. Ogni Stato membro concede al lavoratori di cittadinanza tunisina occupati nel suo territorio un regime che, per quanto riguarda le condizioni di lavoro, di retribuzione e di licenziamento, e' caratterizzato dall'assenza di qualsiasi discriminazione basata sulla nazionalita' rispetto ai propri cittadini.
 
@@ -887,7 +883,7 @@ Le due Parti determinano congiuntamente le modalita' necessarie per l'attuazione
 
 3\. La Tunisia concede lo stesso regime ai lavoratori cittadini degli Stati membri occupati nel suo territorio.
 
-##### ARTICOLO 65
+#### ARTICOLO 65
 
 1\. Fatte salve le disposizioni dei paragrafi seguenti, i lavoratori di cittadinanza tunisina ed i loro familiari conviventi godono, in materia di previdenza sociale, di un regime caratterizzato dall'assenza di qualsiasi discriminazione basata sulla cittadinanza rispetto ai cittadini degli Stati membri nei quali essi sono occupati.
 
@@ -903,23 +899,23 @@ La presente disposizione, tuttavia, non puo' avere l'effetto di rendere applicab
 
 5\. La Tunisia concede ai lavoratori cittadini degli Stati membri occupati sul suo territorio e ai loro familiari un regime analogo a quello di cui ai paragrafi 1, 3 e 4.
 
-##### ARTICOLO 66
+#### ARTICOLO 66
 
 Le disposizioni del presente capitolo non si applicano ai cittadini di una delle Parti che risiedono o lavorano illegalmente nel territorio del paese ospite.
 
-##### ARTICOLO 67
+#### ARTICOLO 67
 
 1\. Entro il termine del primo anno successivo all'entrata in vigore del presente accordo il Consiglio di associazione adotta le disposizioni per l'applicazione dei principi enunciati nell'articolo 65.
 
 2\. Il Consiglio di associazione precisa le modalita' di una cooperazione amministrativa che offra le garanzie di gestione e di controllo necessarie all'applicazione delle disposizioni di cui al paragrafo 1.
 
-##### ARTICOLO 68
+#### ARTICOLO 68
 
 Le disposizioni emanate dal Consiglio di associazione a norma dell'articolo 67 non pregiudicano i diritti e gli obblighi derivanti dagli accordi bilaterali che vincolano la Tunisia e gli Stati membri, qualora essi prevedano un regime piu' favorevole per i cittadini tunisini o per i cittadini degli Stati membri.
 
-## CAPITOLO II - DIALOGO IN CAMPO SOCIALE
+### CAPITOLO II - DIALOGO IN CAMPO SOCIALE
 
-##### ARTICOLO 69
+#### ARTICOLO 69
 
 1\. Tra le Parti si instaura un dialogo periodico su tutti gli aspetti del settore sociale cui esse siano interessate.
 
@@ -935,13 +931,13 @@ c) all'immigrazione clandestina e alle condizioni di rimpatrio delle persone la 
 
 d) alle azioni e ai programmi per la promozione della parita' di trattamento tra cittadini della Tunisia e della Comunita', della reciproca conoscenza delle culture e delle civilta', dello sviluppo della tolleranza e dell'abolizione delle discriminazioni.
 
-##### ARTICOLO 70
+#### ARTICOLO 70
 
 Il dialogo nel settore sociale avviene agli stessi livelli e secondo le stesse modalita' di quelli previsti al Titolo I del presente accordo, che puo' anche essere utilizzato come quadro di riferimento.
 
-## CAPITOLO III - AZIONI DI COOPERAZIONE IN CAMPO SOCIALE
+### CAPITOLO III - AZIONI DI COOPERAZIONE IN CAMPO SOCIALE
 
-##### ARTICOLO 71
+#### ARTICOLO 71
 
 1\. Per consolidare la cooperazione tra le Parti in campo sociale, si istituiscono azioni e programmi relativi a qualsiasi argomento di interesse per esse.
 
@@ -963,17 +959,17 @@ g) il miglioramento delle condizioni di vita nelle zone svantaggiate a forte con
 
 h) l'attuazione e il finanziamento di programmi di scambio e di svago a favore di gruppi misti di giovani d'origine europea e tunisina residenti negli Stati membri per promuovere la reciproca conoscenza delle culture e favorire la tolleranza.
 
-##### ARTICOLO 72
+#### ARTICOLO 72
 
 Le azioni di cooperazione possono essere realizzate in coordinamento con gli Stati membri e con gli organismi internazionali competenti.
 
-##### ARTICOLO 73
+#### ARTICOLO 73
 
 Entro il termine del primo anno successivo alla data di entrata in vigore del presente accordo il Consiglio di associazione crea un gruppo di lavoro incaricato di valutare in modo permanente e a scadenze regolari l'attuazione delle disposizioni dei capitoli 1-3.
 
-## CAPITOLO IV - COOPERAZIONE IN CAMPO CULTURALE
+### CAPITOLO IV - COOPERAZIONE IN CAMPO CULTURALE
 
-##### ARTICOLO 74
+#### ARTICOLO 74
 
 1\. Al fine di migliorare la reciproca conoscenza e comprensione, e tenendo conto delle azioni gia' svolte, le Parti si impegnano nel rispetto reciproco delle culture a definire meglio le condizioni di un dialogo culturale duraturo e a promuovere tra loro una cooperazione culturale continuativa, dalla quale non sia escluso a priori alcun settore di attivita'.
 
@@ -983,7 +979,7 @@ Entro il termine del primo anno successivo alla data di entrata in vigore del pr
 
 ## TITOLO VII - COOPERAZIONE FINANZIARIA
 
-##### ARTICOLO 75
+#### ARTICOLO 75
 
 Al fine di contribuire alla piena attuazione degli obiettivi dell'accordo, si istituisce una cooperazione finanziaria a favore della Tunisia secondo le modalita' e con gli strumenti finanziari adeguati.
 
@@ -1001,23 +997,23 @@ Gli ambiti di applicazione di tale cooperazione, oltre agli aspetti contemplati 
 
 \- misure di accompagnamento delle politiche istituite nei settori sociali.
 
-##### ARTICOLO 76
+#### ARTICOLO 76
 
 Nel quadro degli strumenti comunitari destinati a sostenere il programma di adeguamento strutturale nei paesi mediterranei, e in stretto coordinamento con le autorita' tunisine e gli altri donatori, in particolare le istituzioni finanziarie internazionali, la Comunita' studiera' gli strumenti piu' adeguati per sostenere le politiche strutturali della Tunisia finalizzate a ristabilire i grandi equilibri finanziari e a creare un ambiente economico propizio all'accelerazione della crescita, assicurandosi nel contempo di migliorare il benessere sociale della popolazione.
 
-##### ARTICOLO 77
+#### ARTICOLO 77
 
 Per garantire un'impostazione coordinata nei confronti del problemi macroeconomici e finanziari a carattere eccezionale che potrebbero derivare dalla progressiva attuazione delle disposizioni dell'accordo, le Parti seguono con particolare attenzione l'evoluzione dei reciproci scambi commerciali e delle relazioni finanziarie tra la Comunita' e la Tunisia nel quadro del dialogo economico continuativo istituito ai sensi del Titolo V.
 
 ## TITOLO VIII - DISPOSIZIONI ISTITUZIONALI, GENERALI E FINALI
 
-##### ARTICOLO 78
+#### ARTICOLO 78
 
 E' istituito un Consiglio di associazione che si riunisce a livello ministeriale una volta all'anno e ogniqualvolta le circostanze lo richiedono, su iniziativa del suo presidente e alle condizioni previste nel suo regolamento interno.
 
 Esso esamina le questioni importanti inerenti al presente accordo e qualunque altro problema bilaterale o internazionale di reciproco interesse.
 
-##### ARTICOLO 79
+#### ARTICOLO 79
 
 1\. Il Consiglio di associazione e' composto da membri del Consiglio dell'Unione europea e da membri della Commissione delle Comunita' europee, da una parte, e da membri del governo della Repubblica tunisina, dall'altra.
 
@@ -1027,7 +1023,7 @@ Esso esamina le questioni importanti inerenti al presente accordo e qualunque al
 
 4\. Il Consiglio di associazione e' presieduto a turno da un membro del Consiglio dell'Unione europea e da un membro del governo della Repubblica tunisina, secondo le disposizioni da stabilirsi nel suo regolamento interno.
 
-##### ARTICOLO 80
+#### ARTICOLO 80
 
 Ai fini della realizzazione degli obiettivi stabiliti del presente accordo, il Consiglio di associazione ha il potere di prendere decisioni.
 
@@ -1035,13 +1031,13 @@ Le decisioni adottate sono vincolanti per le Parti, che prendono le misure neces
 
 Le decisioni e raccomandazioni sono adottate di comune accordo tra le Parti.
 
-##### ARTICOLO 81
+#### ARTICOLO 81
 
 1\. E' istituito un Comitato di associazione, incaricato della gestione dell'accordo fatte salve le competenze attribuite al Consiglio.
 
 2\. Il Consiglio di associazione puo' delegare al Comitato la totalita' o una parte delle proprie competenze.
 
-##### ARTICOLO 82
+#### ARTICOLO 82
 
 1\. Il Comitato di associazione che si riunisce a livello di funzionari e' composto da rappresentanti dei membri del Consiglio dell'Unione europea e della Commissione delle Comunita' europee, da una parte, e da rappresentanti del governo della Repubblica tunisina, dall'altra.
 
@@ -1051,21 +1047,21 @@ Le decisioni e raccomandazioni sono adottate di comune accordo tra le Parti.
 
 In linea di massima, il Comitato di associazione si riunisce a turni alterni nella Comunita' e in Tunisia.
 
-##### ARTICOLO 83
+#### ARTICOLO 83
 
 Il Comitato di associazione e' abilitato ad adottare decisioni per la gestione dell'accordo, nonche' nei settori per i quali il Consiglio gli ha delegato le proprie competenze.
 
 Le decisioni sono adottate di comune accordo tra le Parti e sono vincolanti per le Parti, che sono tenute ad adottare le misure necessarie per la loro esecuzione.
 
-##### ARTICOLO 84
+#### ARTICOLO 84
 
 Il Consiglio di associazione puo' decidere di costituire qualsiasi gruppo di lavoro o organismo necessario per l'attuazione dell'accordo.
 
-##### ARTICOLO 85
+#### ARTICOLO 85
 
 Il Consiglio di associazione adotta tutte le misure utili per agevolare la cooperazione e i contatti tra il Parlamento europeo e la Camera dei Deputati della Repubblica tunisina, nonche' tra il Comitato economico e sociale della Comunita' e il Consiglio economico e sociale della Repubblica tunisina.
 
-##### ARTICOLO 86
+#### ARTICOLO 86
 
 1\. Ciascuna delle Parti puo' sottoporre al Consiglio di associazione qualsiasi controversia relativa all'applicazione o all'interpretazione del presente accordo.
 
@@ -1081,7 +1077,7 @@ Le decisioni arbitrali sono pronunciate a maggioranza.
 
 Ciascuna delle Parti in causa deve adottare le misure richieste per l'applicazione del lodo arbitrale.
 
-##### ARTICOLO 87
+#### ARTICOLO 87
 
 Nessuna disposizione del presente accordo impedisce a una Parte contraente di adottare qualsiasi misura:
 
@@ -1091,7 +1087,7 @@ b) inerente alla produzione o al commercio di armi, munizioni o materiale bellic
 
 c) ritenute essenziali per la propria sicurezza in caso di gravi disordini interni che compromettano il mantenimento dell'ordine pubblico, in tempo di guerra o in occasione di gravi tensioni internazionali che possano sfociare in una guerra o ai fini del rispetto di impegni assunti per il mantenimento della pace e della sicurezza internazionale.
 
-##### ARTICOLO 88
+#### ARTICOLO 88
 
 Nei settori contemplati dal presente accordo e fatta salva qualsiasi disposizione speciale ivi contenuta:
 
@@ -1099,7 +1095,7 @@ Nei settori contemplati dal presente accordo e fatta salva qualsiasi disposizion
 
 \- il regime applicato dalla Comunita' nei confronti della Repubblica tunisina non puo' dar luogo ad alcuna discriminazione tra i cittadini tunisini o le loro societa'.
 
-##### ARTICOLO 89
+#### ARTICOLO 89
 
 Nessuna disposizione dell'accordo avra' come effetto:
 
@@ -1109,7 +1105,7 @@ Nessuna disposizione dell'accordo avra' come effetto:
 
 \- di ostacolare il diritto di una parte di applicare le disposizioni pertinenti della sua legislazione fiscale ai contribuenti che non si trovano in una situazione identica per quanto riguarda la loro residenza.
 
-##### ARTICOLO 90
+#### ARTICOLO 90
 
 1\. Le Parti adottano qualsiasi misura generale o particolare necessaria per l'adempimento degli obblighi che incombono loro ai sensi del presente accordo. Esse si adoperano per la realizzazione degli obiettivi fissati dal presente accordo.
 
@@ -1117,29 +1113,29 @@ Nessuna disposizione dell'accordo avra' come effetto:
 
 Nella scelta delle misure, si privilegiano quelle meno lesive per il funzionamento del presente accordo. Le misure decise sono comunicate senza indugio al Consiglio di associazione e, qualora l'altra Parte ne faccia richiesta, sono oggetto di consultazioni in seno al Consiglio di associazione.
 
-##### ARTICOLO 91
+#### ARTICOLO 91
 
 I protocolli 1-5 e gli allegati 1-7, nonche' le dichiarazioni, costituiscono parte integrante dell'accordo.
 
-##### ARTICOLO 92
+#### ARTICOLO 92
 
 Ai fini del presente accordo, per "Parti" si intende la Comunita', gli Stati membri, o la Comunita' e i suoi Stati membri, secondo le loro rispettive competenze, da una parte, e la Tunisia, dall'altra.
 
-##### ARTICOLO 93
+#### ARTICOLO 93
 
 Il presente accordo e' concluso per un periodo illimitato.
 
 Ciascuna delle Parti puo' denunciare il presente accordo dandone notifica all'altra Parte. L'accordo cessa di applicarsi sei mesi dopo la data di tale notifica.
 
-##### ARTICOLO 94
+#### ARTICOLO 94
 
 Il presente accordo si applica ai territori in cui si applicano i trattati che istituiscono la Comunita' europea e la Comunita' europea del carbone e dell'acciaio, alle condizioni in essi indicate, da una parte, al territorio della Repubblica tunisina, dall'altra.
 
-##### ARTICOLO 95
+#### ARTICOLO 95
 
 Il presente accordo e' redatto in due esemplari in lingua danese, finnica, francese, greca, inglese, italiana, olandese, portoghese, spagnola, svedese, tedesca e araba, ciascun testo facente ugualmente fede.
 
-##### ARTICOLO 96
+#### ARTICOLO 96
 
 1\. Il presente accordo e' approvato dalle Parti contraenti secondo le loro rispettive procedure.
 
@@ -1153,7 +1149,7 @@ RELATIVO AL REGIME APPLICABILE ALL'IMPORTAZIONE
 
 NELLA COMUNITA' DI PRODOTTI AGRICOLI ORIGINARI DELLA TUNISIA
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 1\. I prodotti figuranti in allegato originari della Tunisia sono ammessi all'importazione nella Comunita' alle condizioni indicate in appresso e in allegato.
 
@@ -1191,13 +1187,13 @@ nella sua totalita' o ridotto nelle proporzioni indicate alla colonna c per i qu
 
 Per alcuni prodotti diversi da quelli di cui ai paragrafi 3 e 4 indicati alla colonna e, la Comunita' puo' fissare un quantitativo di riferimento ai sensi del paragrafo 4 se, in base al bilancio annuale degli scambi da essa stabilito, constata che i quantitativi importati rischiano di creare difficolta' sul mercato comunitario. Se successivamente il prodotto e' assoggettato a un contingente tariffario, nelle condizioni indicate al paragrafo 4, il dazio della tariffa doganale comune e', secondo i prodotti, applicato nella sua totalita' o ridotto nelle proporzioni indicate alla colonna c per i quantitativi importati eccedenti il contingente.
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Per i vini di uve fresche della voce 2204 della nomenclatura combinata originari dalla Tunisia che beneficiano di una denominazione d'origine, le disposizioni dell'articolo 1 si applicano ai vini presentati in recipienti contenenti non piu' di due litri e hanno un titolo alcolometrico acquisito non superiore a 15% vol.
 
 Conformemente alla legislazione tunisina, questi vini portano le denominazioni seguenti: Coteaux de Teboura, Coteaux d'Utique, Sidi Salem, Kelibia, Thibar, Mornag, Grand cru Mornag.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 1\. Per ogni campagna, nel periodo compreso tra il 1 gennaio 1996 e il 31 dicembre 1999, e nel limite di un quantitativo di 46.000 tonnellate per campagna, si percepisce un dazio doganale di 7,81 Ecu/100 kg all'importazione nella Comunita' di olio d'oliva non trattato, delle sottovoci 1509 10 10 e 1509 10 90 della nomenclatura combinata, interamente ottenuto in Tunisia e trasportato direttamente da tale paese nella Comunita'.
 
@@ -1205,7 +1201,7 @@ Conformemente alla legislazione tunisina, questi vini portano le denominazioni s
 
 3\. Le Parti riesamineranno la situazione nel corso del secondo semestre del 1999 al fine di fissare il regime da adottare a decorrere dal 1 gennaio 2000.
 
-##### Allegato
+#### Allegato
 
 ALLEGATO
 
@@ -2955,7 +2951,7 @@ RELATIVO AL REGIME APPLICABILE ALL'IMPORTAZIONE
 
 NELLA COMUNITA' DEI PRODOTTI DELLA PESCA ORIGINARI DELLA TUNISIA
 
-##### ARTICOLO UNICO
+#### ARTICOLO UNICO
 
 I prodotti elencati qui di seguito originari dalla Tunisia sono ammessi all'importazione nella Comunita' in esenzione da dazi doganali.
 
@@ -3052,7 +3048,7 @@ RELATIVO AL REGIME APPLICABILE ALL'IMPORTAZIONE IN TUNISIA
 
 DI PRODOTTI AGRICOLI ORIGINARI DELLA COMUNITA'
 
-##### ARTICOLO UNICO
+#### ARTICOLO UNICO
 
 Per i prodotti originari della comunita' elencati in allegato, i dazi doganali all'importazione in Tunisia non sono superiori a quelli indicati alla colonna a) nei limiti dei contingenti tariffari indicati alla colonna b).
 
@@ -3337,7 +3333,7 @@ PROTOCOLLO N. 4
 
 RELATIVO ALLA DEFINIZIONE DELLA NOZIONE DI "PRODOTTI ORIGINARI" E AI METODI DI COOPERAZIONE AMMINISTRATIVA
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 Definizioni
 
@@ -3367,7 +3363,7 @@ k) con il termine "spedizione" si intendono i prodotti spediti contemporaneament
 
 ## TITOLO II - DEFINIZIONE DELLA NOZIONE DI "PRODOTTI ORIGINARI"
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Criteri d'origine
 
@@ -3395,7 +3391,7 @@ totalmente ottenuti sul suo territorio, a condizione che detti materiali siano s
 
 trasformazioni sufficienti ai sensi dell'articolo 7 del presente protocollo.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 Cumulo bilaterale
 
@@ -3403,7 +3399,7 @@ Cumulo bilaterale
 
 2\. In deroga all'articolo 2, paragrafo 2, lettera b), i prodotti originari della Comunita' ai sensi del presente protocollo sono considerati prodotti originari della Tunisia e non si richiede che tali prodotti siano stati oggetto, in Tunisia, di lavorazioni o trasformazioni sufficienti, purche' siano stati oggetto di lavorazioni o trasformazioni che vanno aldila' di quelle previste dall'articolo 8 del presente protocollo.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Cumulo con materiali originari dell'Algeria o del Marocco
 
@@ -3415,7 +3411,7 @@ Cumulo con materiali originari dell'Algeria o del Marocco
 
 4\. Le disposizioni di cui ai paragrafi 1 e 2 relative ai materiali originari del Marocco si applicano unicamente a condizione che gli scambi effettuati tra la Comunita' e il Marocco e quelli tra la Tunisia e il Marocco siano disciplinati da norme d'origine identiche.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 Cumulo della lavorazione o delle trasformazioni
 
@@ -3425,7 +3421,7 @@ Cumulo della lavorazione o delle trasformazioni
 
 3\. Qualora, in applicazione delle disposizioni dei paragrafi 1 e 2, i prodotti originari siano ottenuti in due o piu' degli Stati di cui alle presenti disposizioni o nella Comunita', tali prodotti si considerano originari dello Stato o della Comunita' dove e' stata effettuata l'ultima lavorazione o trasformazione, a condizione che detta lavorazione o trasformazione vada aldila' di quelle di cui all'articolo 8.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 Prodotti totalmente ottenuti
 
@@ -3471,7 +3467,7 @@ k) le merci ottenute esclusivamente a partire dai prodotti indicati alle lettere
 
 Le navi operanti in alto mare, comprese le "navi officina" a bordo delle quali viene effettuata la trasformazione o la lavorazione dei prodotti della loro pesca, sono considerate parte del territorio della Comunita' o della Tunisia, purche' ricorrano le condizioni di cui al paragrafo 2.
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 Prodotti sufficientemente lavorati o trasformati
 
@@ -3485,7 +3481,7 @@ Quando, nell'elenco dell'allegato II, viene applicata una regola percentuale per
 
 3\. Le suddette condizioni stabiliscono, per tutti i prodotti contemplati dall'accordo, la lavorazione o la trasformazione cui devono essere sottoposti i materiali non originari impiegati nella fabbricazione di questi prodotti, e si applicano solo a detti materiali. Ne consegue pertanto che, se un prodotto che ha acquisito il carattere originario, perche' soddisfa le condizioni indicate nell'elenco per detto prodotto, e' impiegato nella fabbricazione di un altro prodotto, le condizioni applicabili al prodotto in cui esso e' incorporato non gli si applicano, e non si prendono in considerazione i materiali non originari eventualmente impiegati nella sua fabbricazione.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 Lavorazioni o trasformazioni insufficienti
 
@@ -3513,7 +3509,7 @@ g) il cumulo di due o piu' operazioni indicate nelle lettere da a) a f);
 
 h) la macellazione degli animali.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 Unita' da prendere in considerazione
 
@@ -3527,19 +3523,19 @@ b) quando una spedizione consiste in vari prodotti fra loro identici, classifica
 
 2\. Ogniqualvolta, conformemente alla regola generale 5 del sistema armonizzato, si considera che l'imballaggio formi un tutto unico con il prodotto ai fini della classificazione, detto imballaggio viene preso in considerazione anche per la determinazione dell'origine.
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 Accessori, pezzi di ricambio e utensili
 
 Gli accessori, pezzi di ricambio e utensili che vengono consegnati con un'attrezzatura, una macchina, un apparecchio o un veicolo, fanno parte del loro normale equipaggiamento e il cui prezzo e' compreso in quello di questi ultimi o non e' fatturato a parte sono considerati un tutto unico con l'attrezzatura, la macchina, l'apparecchio o il veicolo in questione.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 Assortimenti
 
 Gli assortimenti, ai sensi della regola generale 3 del sistema armonizzato, sono considerati originari a condizione che tutti i prodotti che li compongono siano originari. Tuttavia, un assortimento composto di prodotti originari e non originari e' considerato originario nel suo insieme, a condizione che il valore dei prodotti non originari non superi il 15% del prezzo franco fabbrica dell'assortimento.
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 Elementi neutri
 
@@ -3547,13 +3543,13 @@ Allo scopo di determinare se un prodotto e' originario della Comunita' o della T
 
 ## TITOLO III - REQUISITI TERRITORIALI
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 Principio della territorialita'
 
 Le condizioni stabilite nel titolo II, relative all'acquisizione del carattere di prodotto originario, vanno rispettate senza interruzione nella Comunita' o in Tunisia, fatte salve le disposizioni degli articoli 4 e 5.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 Reimportazione delle merci
 
@@ -3563,7 +3559,7 @@ a) che le merci reimportate sono le stesse che erano state esportate, e
 
 b) che esse non sono state sottoposte ad alcuna operazione, oltre a quelle necessarie per conservarle in buono stato durante la loro permanenza nel paese in questione o nel corso dell'esportazione.
 
-##### ARTICOLO 15
+#### ARTICOLO 15
 
 Trasporto diretto
 
@@ -3589,7 +3585,7 @@ ovvero,
 
 c) in mancanza di questi documenti, qualsiasi documento probatorio.
 
-##### ARTICOLO 16
+#### ARTICOLO 16
 
 Eposizioni
 
@@ -3615,7 +3611,7 @@ dogana.
 
 ## TITOLO IV - PROVA DELL'ORIGINE
 
-##### ARTICOLO 17
+#### ARTICOLO 17
 
 Certificato di circolazione EUR.1
 
@@ -3625,7 +3621,7 @@ protocollo, viene dimostrato mediante un certificato di circolazione EUR.1, il c
 
 protocollo.
 
-##### ARTICOLO 18
+#### ARTICOLO 18
 
 Normale procedure di rilascio dei certificati di circolazione EUR.1 1. Il certificato EUR.1 viene rilasciato dalle autorita' doganali del paese esportatore su richiesta scritta compilata dall'esportatore o, sotto la sua responsabilita', dal suo rappresentante autorizzato.
 
@@ -3669,7 +3665,7 @@ autorita' doganali.
 
 8\. Il certificato di circolazione delle merci EUR.1 e' rilasciato dalle autorita' doganali del paese d'esportazione al momento dell'esportazione dei prodotti ai quali si riferisce. esso e' tenuto a disposizione dell'esportatore dal momento in cui l'esportazione ha effettivamente luogo o e' assicurata.
 
-##### ARTICOLO 19
+#### ARTICOLO 19
 
 Rilascio a posteriori del certificato di circolazione EUR.1
 
@@ -3697,7 +3693,7 @@ Parte di provvedimento in formato grafico
 
 "Osservazioni" del certificato di circolazione delle merci EUR.1.
 
-##### Articolo 20
+#### Articolo 20
 
 Rilascio di duplicati del certificato di circolazione EUR.1
 
@@ -3735,7 +3731,7 @@ Parte di provvedimento in formato grafico
 
 questa data.
 
-##### Articolo 21
+#### Articolo 21
 
 Sostituzione dei certificati
 
@@ -3749,7 +3745,7 @@ controllo delle merci.
 
 figurare nella casella n. 7.
 
-##### ARTICOLO 22
+#### ARTICOLO 22
 
 Procedura semplificata per il rilascio dei certificati
 
@@ -3809,7 +3805,7 @@ esportatori autorizzati; gli esportatori devono sottostarvi.
 
 documenti doganali.
 
-##### ARTICOLO 23
+#### ARTICOLO 23
 
 Scheda informativa e dichiarazione
 
@@ -3825,7 +3821,7 @@ informazioni complementari.
 
 dall'ufficio che l'ha rilasciato.
 
-##### ARTICOLO 24
+#### ARTICOLO 24
 
 Validita' della prova d'origine
 
@@ -3839,7 +3835,7 @@ circostanze eccezionali.
 
 3\. A parte tali casi, le autorita' doganali del paese importatore possono accettare i certificati di circolazione EUR.1 se i prodotti sono stati presentati loro prima della scadenza di detto termine.
 
-##### ARTICOLO 25
+#### ARTICOLO 25
 
 Presentazione della prova d'origine
 
@@ -3847,7 +3843,7 @@ I certificati di circolazione delle merci EUR.1 sono presentati alle autorita' d
 
 dell'accordo.
 
-##### ARTICOLO 26
+#### ARTICOLO 26
 
 Importazioni con spedizioni scaglionate
 
@@ -3855,7 +3851,7 @@ Quando, su richiesta dell'importatore e alle condizioni stabilite dalle autorita
 
 parziale.
 
-##### ARTICOLO 27
+#### ARTICOLO 27
 
 Dichiarazione su fattura
 
@@ -3877,7 +3873,7 @@ tale dichiarazione.
 
 mutandis alla dichiarazione su fattura.
 
-##### ARTICOLO 28
+#### ARTICOLO 28
 
 Esonero della prova formale dell'origine
 
@@ -3889,7 +3885,7 @@ natura e quantita', consentano di escludere ogni fine commerciale.
 
 3\. Inoltre, il valore complessivo dei prodotti non deve superare 500 ECU se si tratta di piccole spedizioni oppure 1.200 ECU se si tratta del contenuto dei bagagli personali dei viaggiatori.
 
-##### ARTICOLO 29
+#### ARTICOLO 29
 
 Conservazione delle prove dell'origine e dei documenti giustificativi 1. L'esportatore che presenta domanda per il rilascio di un certificato di circolazione delle merci EUR.1 conserva per almeno tre
 
@@ -3905,7 +3901,7 @@ domanda di cui all'articolo 18, paragrafo 2.
 
 4\. Le autorita' doganali del paese importatore conservano per almeno tre anni i certificati EUR.1 che sono stati loro presentati.
 
-##### ARTICOLO 30
+#### ARTICOLO 30
 
 Discordanze ed errori formali
 
@@ -3915,7 +3911,7 @@ Discordanze ed errori formali
 
 destare dubbi sull'esattezza delle diciture in esso contenute.
 
-##### ARTICOLO 31
+#### ARTICOLO 31
 
 Importi espressi in ECU
 
@@ -3941,13 +3937,13 @@ gli importi espressi in ECU.
 
 ## TITOLO V - MODALITA' DI COOPERAZIONE AMMINISTRATIVA
 
-##### ARTICOLO 32
+#### ARTICOLO 32
 
 Comunicazione dell'impronta dei timbri e degli indirizzi
 
 Le autorita' doganali degli Stati membri della Tunisia si comunicano a vicenda, tramite la Commissione delle Comunita' europee, il facsimile dell'impronta dei timbri utilizzati nei loro uffici per il rilascio dei certificati EUR.1 e l'indirizzo delle autorita' doganali competenti per il rilascio dei certificati EUR.1 e per il controllo di detti certificati e delle dichiarazioni su fattura.
 
-##### ARTICOLO 33
+#### ARTICOLO 33
 
 Controllo dei certificati di circolazione delle merci EUR.1, delle dichiarazioni su fattura e delle schede informative
 
@@ -3979,7 +3975,7 @@ maggiore o di circostanze eccezionali.
 
 7\. Il controllo a posteriori delle schede informative di cui all'articolo 23 e' effettuato nei casi previsti al paragrafo 1 e con modalita' analoghe a quelle stabilite ai paragrafi da 2 a 6.
 
-##### ARTICOLO 34
+#### ARTICOLO 34
 
 Soluzione delle controversie
 
@@ -3989,7 +3985,7 @@ Per la soluzione delle controversie tra l'importatore e le autorita' doganali de
 
 legislazione di tale Stato.
 
-##### ARTICOLO 35
+#### ARTICOLO 35
 
 Sanzioni
 
@@ -3997,7 +3993,7 @@ Si applicano sanzioni nei confronti di chiunque rediga o faccia redigere un docu
 
 ottenere un trattamento preferenziale per i prodotti.
 
-##### ARTICOLO 36
+#### ARTICOLO 36
 
 Zone franche
 
@@ -4011,7 +4007,7 @@ disposizioni del presente protocollo.
 
 ## TITOLO VI - CEUTA E MELILLA
 
-##### ARTICOLO 37
+#### ARTICOLO 37
 
 Applicazione del protocollo
 
@@ -4021,7 +4017,7 @@ Applicazione del protocollo
 
 particolari di cui all'articolo 38.
 
-##### ARTICOLO 38
+#### ARTICOLO 38
 
 Condizioni particolari
 
@@ -4071,7 +4067,7 @@ presente protocollo a Ceuta e Melilla.
 
 ## TITOLO VII - DISPOSIZIONI FINALI
 
-##### ARTICOLO 39
+#### ARTICOLO 39
 
 Modifiche del protocollo
 
@@ -4079,7 +4075,7 @@ Il Consiglio di associazione puo' decidere di modificare, a richiesta di una del
 
 l'applicazione delle disposizioni del presente protocollo.
 
-##### ARTICOLO 40
+#### ARTICOLO 40
 
 Comitato di cooperazione doganale
 
@@ -4091,7 +4087,7 @@ altro compito che possa venirgli affidato nel settore doganale.
 
 materia doganale della Tunisia.
 
-##### ARTICOLO 41
+#### ARTICOLO 41
 
 Allegati
 
@@ -4099,13 +4095,13 @@ Gli allegati del presente protocollo ne costituiscono parte
 
 integrante.
 
-##### ARTICOLO 42
+#### ARTICOLO 42
 
 Esecuzione del protocollo
 
 La Comunita' e la Tunisia prendono, ciascuna per quanto riguarda, le misure necessarie all'esecuzione del presente protocollo.
 
-##### ARTICOLO 43
+#### ARTICOLO 43
 
 Intese con l'Algeria e il Marocco
 
@@ -4113,7 +4109,7 @@ Le Parti contraenti prendono tutte le misure necessarie per la conclusione di in
 
 reciprocamente le misure prese a tal fine.
 
-##### ARTICOLO 44
+#### ARTICOLO 44
 
 Merci in transito o in deposito
 
@@ -4121,7 +4117,7 @@ Le disposizioni dell'accordo possono applicarsi alle merci rispondenti alle disp
 
 di trasporto diretto.
 
-##### Allegato I
+#### Allegato I
 
 ALLEGATO I
 
@@ -4343,7 +4339,7 @@ combustibili della voce 2710) voltolizzazione ad alta frequenza.
 
 7.3. Ai sensi delle voci ex 2707, da 2713 a 2715, ex 2901, ex 2902 e ex 3403, le operazioni semplici quali la pulitura, la decantazione, la desalificazione, la disidratazione, il filtraggio, la colorazione, la marcatura, l'ottenimento di un tenore di zolfo mescolando prodotti con tenori di zolfo diversi, qualsiasi combinazione di queste operazioni o di operazioni analoghe non conferiscono l'origine.
 
-##### Allegato II
+#### Allegato II
 
 Elenco delle lavorazioni o trasformazioni di cui devono essere oggetto i materiali non originari per conferire un carattere originario al prodotto finito
 
@@ -10817,7 +10813,7 @@ riali utilizzati non eccede il
 
 del prodotto
 
-##### Allegato II
+#### Allegato II
 
 7801 Piombo greggio:
 
@@ -15065,7 +15061,7 @@ parti fabbrica del prodotto
 
 Parte di provvedimento in formato grafico
 
-##### Allegato III
+#### Allegato III
 
 ALLEGATO III
 
@@ -15133,7 +15129,7 @@ Fatto a addi'
 
 (1) Ad esempio: i documenti d'importazione, certificati di circolazione, fatture, dichiarazioni del fabbricante, ecc., relativi ai prodotti messi in opera o alle merci riesportate tal quali.
 
-##### Allegato IV
+#### Allegato IV
 
 ALLEGATO IV
 
@@ -15157,7 +15153,7 @@ della Tunisia/della Comunita' europea (2) (3)
 
 (3) Si puo' fare riferimento a una specifica colonna della fattura in cui sia indicato il paese d'origine di ciascun prodotto.
 
-##### Allegato V
+#### Allegato V
 
 ALLEGATO V
 
@@ -15184,7 +15180,7 @@ Modello dell'impronta del timbro di cui all'articolo 21, paragrafo 3, lettera b)
 
 (2) Indicazioni che permettono di identificare l'esportatore autorizzato.
 
-##### Allegato VI
+#### Allegato VI
 
 ALLEGATO VI
 
@@ -15230,7 +15226,7 @@ Fatto a . . . . . . . . . . , il . . . . . . . . . . . . . . .
 
 \- se le merci sono originarie di un altro paese: indicare "paese terzo".
 
-##### Allegato VII
+#### Allegato VII
 
 ALLEGATO VII
 
@@ -15255,7 +15251,7 @@ ALLEGATO VII
 
 (\*) Il valore deve essere indicato conformemente alle disposizioni sulle norme di origine.
 
-##### Allegato VIII
+#### Allegato VIII
 
 ALLEGATO VIII
 
@@ -15277,7 +15273,7 @@ RELATIVO ALL'ASSISTENZA RECIPROCA
 
 TRA LE AUTORITA' AMMINISTRATIVE IN MATERIA DOGANALE
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 Definizioni
 
@@ -15291,7 +15287,7 @@ c) "autorita' interpellata": l'autorita' amministrativa competente all'uopo desi
 
 d) "dati a carattere personale": qualsiasi informazione relativa a una persona fisica identificata o identificabile.
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Ambito di applicazione
 
@@ -15299,7 +15295,7 @@ Ambito di applicazione
 
 2\. L'assistenza in materia doganale prevista dal presente protocollo si applica ad ogni autorita' amministrativa delle Parti contraenti competente per l'applicazione dello stesso. Essa non pregiudica le norme che disciplinano l'assistenza reciproca in materia penale ne' copre le informazioni ottenute grazie a poteri esercitati su richiesta dell'autorita' giudiziaria salvo accordo di detta autorita'.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 Assistenza su richiesta
 
@@ -15317,7 +15313,7 @@ c) i movimenti di merci per i quali sia stata segnalata la possibilita' che dian
 
 d) i mezzi di trasporto per i quali vi sono fondati motivi di ritenere che siano stati, siano ovvero possano essere utilizzati per effettuare operazioni contrarie alla legislazione doganale.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Assistenza spontanea
 
@@ -15333,7 +15329,7 @@ Le Parti contraenti si prestano assistenza reciproca, in conformita' delle rispe
 
 \- mezzi di trasporto che si possa ragionevolmente ritenere siano stati, siano o possano essere utilizzati per effettuare operazioni contrarie alla legislazione doganale;
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 Comunicazione/Notifica
 
@@ -15347,7 +15343,7 @@ necessarie per
 
 che rientrano nell'ambito di applicazione del presente protocollo a un destinatario, residente o stabilito sul suo territorio. In tal caso, si applica l'articolo 6, paragrafo 3.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 Forma e contenuto delle domande di assistenza
 
@@ -15371,7 +15367,7 @@ f) una sintesi dei fatti e delle indagini gia' svolte, salvo per i casi di cui a
 
 4\. Se la domanda non risponde ai requisiti formali stabiliti se ne puo' richiedere la correzione o il completamento; tuttavia possono essere disposte misure cautelative.
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 Adempimento delle domande
 
@@ -15383,7 +15379,7 @@ Adempimento delle domande
 
 4\. I funzionari di una Parte contraente, d'intesa con l'altra Parte contraente interessata e alle condizioni stabilite da quest'ultima, possono essere presenti alle indagini condotte nel territorio di quest'ultima.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 Forma in cui devono essere comunicate le informazioni
 
@@ -15391,7 +15387,7 @@ Forma in cui devono essere comunicate le informazioni
 
 2\. La consegna dei documenti di cui al paragrafo 1 puo' essere sostituita dalla fornitura di informazioni computerizzate prodotte in qualsiasi forma per gli stessi fini.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 Eccezioni all'obbligo di fornire assistenza
 
@@ -15409,7 +15405,7 @@ d) implichi una violazione di un segreto industriale, commerciale o professional
 
 3\. Se l'assistenza e' rifiutata, la decisione e le sue motivazioni devono essere notificate senza indugio all'autorita' richiedente.
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 Obbligo di osservare la riservatezza
 
@@ -15417,7 +15413,7 @@ Obbligo di osservare la riservatezza
 
 2\. La comunicazione di dati a carattere personale puo' avvenire unicamente se il livello di tutela delle persone previsto dalla legislazione delle Parti contraenti e' equivalente. Le Parti contraenti devono quantomeno garantire un livello di tutela che si ispiri ai principi delle disposizioni riportate in allegato al presente protocollo.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 Uso delle informazioni
 
@@ -15427,7 +15423,7 @@ Uso delle informazioni
 
 3\. Nei loro documenti probatori, nelle loro relazioni e testimonianze, nonche' nei procedimenti e nelle azioni penali promossi dinanzi agli organi giurisdizionali, le Parti contraenti possono utilizzare come prova le informazioni ottenute e i documenti consultati conformemente alle disposizioni del presente protocollo.
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 Esperti e testimoni
 
@@ -15435,13 +15431,13 @@ Esperti e testimoni
 
 2\. Il funzionario autorizzato beneficia, sul territorio dell'autorita' richiedente, della tutela accordata ai suoi funzionari dalla legislazione in vigore.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 Spese di assistenza
 
 Le Parti contraenti rinunciano reciprocamente a tutte le richieste di rimborso delle spese sostenute in virtu' dell'applicazione del presente protocollo, escluse, se del caso, le spese per esperti, testimoni, interpreti e traduttori che non dipendono da pubblici servizi.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 Esecuzione
 
@@ -15449,7 +15445,7 @@ Esecuzione
 
 2\. Le Parti contraenti si consultano e si tengono reciprocamente informate in merito alle modalita' di applicazione adottate conformemente alle disposizioni del presente protocollo.
 
-##### ARTICOLO 15
+#### ARTICOLO 15
 
 Complementarita'
 
@@ -15459,7 +15455,7 @@ Inoltre esso non osta alla fornitura di un'assistenza reciproca piu' vasta ai se
 
 2\. Fatto salvo l'articolo 11, detti accordi non recano pregiudizio alle disposizioni della Comunita' che disciplinano la comunicazione, tra i competenti servizi della Commissione e le autorita' doganali degli Stati membri, di tutte le informazioni raccolte in materia doganale che possano interessare la Comunita'.
 
-##### Allegato
+#### Allegato
 
 Allegato al Protocollo
 
@@ -15553,7 +15549,7 @@ o i diritti e le liberta' di altre persone.
 
 6\. Nessuna disposizione del presente allegato dev'essere interpretata come una limitazione o un ostacolo alla possibilita', per una Parte contraente, di accordare alle persone cui si riferiscono i dati in questione una tutela superiore a quella prevista dal presente allegato.
 
-##### Allegato 1
+#### Allegato 1
 
 ALLEGATO 1
 
@@ -16063,7 +16059,7 @@ uguale a 2%, in peso, calcolata sul tenore di D-glu- citolo
 
 3823 60 99 -- altro
 
-##### Allegato 2
+#### Allegato 2
 
 ALLEGATO 2
 
@@ -16307,7 +16303,7 @@ altrove:
 
 Conformemente all'articolo 10, paragrafo 3, secondo comma, nel corso dell'eliminazione dell'elemento industriale dei dazi, conformemente alle disposizioni dell'articolo 10, paragrafo 4, le aliquote dei dazi da applicare ai prodotti per i quali saranno soppressi i contingenti tariffari non potranno essere superiori a quelle in vigore al 1 gennaio 1995.
 
-##### Elenco n. 2
+#### Elenco n. 2
 
 Elenco n. 2
 
@@ -16459,7 +16455,7 @@ D-glucitolo
 
 3823 60 99 -- altro
 
-##### Elenco n. 3
+#### Elenco n. 3
 
 Elenco n. 3
 
@@ -16539,7 +16535,7 @@ venienti dai prodotti delle voci NC da 0401 a 0404
 
 2202 90 99 - uguale o superiore a 2%
 
-##### Allegato n. 3
+#### Allegato n. 3
 
 ALLEGATO 3
 
@@ -17195,7 +17191,7 @@ ALLEGATO 3
 --------+---------+----------+-----------+----------+-----------+------------
 ```
 
-##### Allegato n. 4
+#### Allegato n. 4
 
 ALLEGATO 4
 
@@ -17307,7 +17303,7 @@ ALLEGATO 4
 
 9611000
 
-##### Allegato n. 5
+#### Allegato n. 5
 
 ALLEGATO 5
 
@@ -17418,7 +17414,7 @@ ALLEGATO 5
 
 8715001 9503410
 
-##### Allegato n. 6
+#### Allegato n. 6
 
 ALLEGATO 6
 
@@ -17514,7 +17510,7 @@ ALLEGATO 6
 
 6309000
 
-##### Allegato n. 7
+#### Allegato n. 7
 
 ALLEGATO 7
 
@@ -17540,7 +17536,7 @@ relativo alla proprieta' intellettuale industriale e commerciale
 
 \- Convenzione di Berna per la protezione delle opere letterarie e artistiche (atto di Parigi del 24 luglio 1971).
 
-##### Atto finale
+#### Atto finale
 
 ATTO FINALE
 
@@ -17652,7 +17648,7 @@ Dichiarazione relativa alla salvaguardia degli interessi della Tunisia.
 
 Dichiarazione relativa all'articolo 69 dell'accordo.
 
-##### Dichiarazioni
+#### Dichiarazioni
 
 DICHIARAZIONI COMUNI
 

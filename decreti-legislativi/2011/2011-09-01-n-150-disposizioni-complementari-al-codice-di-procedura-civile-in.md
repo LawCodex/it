@@ -40,11 +40,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Disposizioni Generali
 
-### Disposizioni Generali
-
-##### Art. 1
+### Art. 1
 
 Definizioni
 
@@ -70,7 +68,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-##### Art. 2
+### Art. 2
 
 Disposizioni comuni alle controversie disciplinate
 
@@ -202,7 +200,7 @@ dal rito del lavoro
 
 > «Art. 439 (Cambiamento del rito in appello). - La corte di appello, se ritiene che il procedimento in primo grado non si sia svolto secondo il rito prescritto, procede a norma degli articoli 426 e 427.».
 
-##### Art. 3
+### Art. 3
 
 Disposizioni comuni alle controversie disciplinate dal rito semplificato di cognizione (12) ((13))
 
@@ -228,7 +226,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-##### Art. 4
+### Art. 4
 
 Mutamento del rito
 
@@ -256,7 +254,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-##### Art. 5
+### Art. 5
 
 Sospensione dell'efficacia esecutiva
 
@@ -266,11 +264,9 @@ del provvedimento impugnato
 
 2\. In caso di pericolo imminente di un danno grave e irreparabile, la sospensione puo' essere disposta con decreto pronunciato fuori udienza. La sospensione diviene inefficace se non e' confermata, entro la prima udienza successiva, con l'ordinanza di cui al comma 1.
 
-## Capo II
+## Capo II - Delle controversie regolate dal rito del lavoro
 
-### Delle controversie regolate dal rito del lavoro
-
-##### Art. 6
+### Art. 6
 
 Dell'opposizione ad ordinanza-ingiunzione
 
@@ -384,7 +380,7 @@ b) quando l'opponente o il suo difensore non si presentano senza addurre alcun l
 
 > 6-bis. Nei procedimenti di cui all' articolo 23 della legge 24 novembre 1981, n. 689, e successive modificazioni, gli atti del processo sono soggetti soltanto al pagamento del contributo unificato, nonche' delle spese forfetizzate secondo l'importo fissato all'articolo 30 del presente testo unico. Nelle controversie di cui all'articolo unico della legge 2 aprile 1958, n. 319, e successive modificazioni, e in quelle in cui si applica lo stesso articolo, e' in ogni caso dovuto il contributo unificato.».
 
-##### Art. 7
+### Art. 7
 
 Dell'opposizione al verbale di accertamento
 
@@ -448,7 +444,7 @@ Il pagamento della somma deve avvenire entro i trenta giorni successivi alla not
 
 > Per il testo dell'articolo 10 del decreto del Presidente della Repubblica 30 maggio 2002, n. 115 vedasi nelle note all'articolo 6.
 
-##### Art. 8
+### Art. 8
 
 Dell'opposizione a sanzione amministrativa
 
@@ -470,7 +466,7 @@ in materia di stupefacenti
 
 > commi 10 - 14 (omissis).».
 
-##### Art. 9
+### Art. 9
 
 Dell'opposizione ai provvedimenti di recupero
 
@@ -516,7 +512,7 @@ b) pericolo di un pregiudizio imminente e irreparabile.
 
 > I ricorsi proposti alla Corte di giustizia dell'Unione europea non hanno effetto sospensivo. Tuttavia, la Corte puo', quando reputi che le circostanze lo richiedano, ordinare la sospensione dell'esecuzione dell'atto impugnato.».
 
-##### Art. 10
+### Art. 10
 
 (( (Delle controversie in materia di applicazione delle disposizioni in materia di protezione dei dati personali). ))
 
@@ -540,7 +536,7 @@ b) pericolo di un pregiudizio imminente e irreparabile.
 
 10\. La sentenza che definisce il giudizio non e' appellabile e puo' prescrivere le misure necessarie anche in deroga al divieto di cui all'articolo 4 della legge 20 marzo 1865, n. 2248, allegato E), anche in relazione all'eventuale atto del soggetto pubblico titolare o responsabile dei dati, nonche' il risarcimento del danno.))
 
-##### Art. 11
+### Art. 11
 
 Delle controversie agrarie
 
@@ -580,7 +576,7 @@ Delle controversie agrarie
 
 > L'istanza si propone con ricorso al giudice di pace, al tribunale in composizione monocratica o al presidente del collegio, il quale, con decreto in calce al ricorso, ordina la comparizione delle parti rispettivamente dinanzi a se' o al collegio in camera di consiglio. Copia del ricorso e del decreto sono notificate al procuratore dell'altra parte, ovvero alla parte stessa, se questa sia stata in giudizio senza ministero di difensore o non si sia costituita nel giudizio definito con la sentenza impugnata. Con lo stesso decreto, in caso di eccezionale urgenza puo' essere disposta provvisoriamente l'immediata sospensione dell'esecuzione.».
 
-##### Art. 12
+### Art. 12
 
 Dell'impugnazione dei provvedimenti in materia
 
@@ -604,7 +600,7 @@ di registro dei protesti
 
 > 5\. Per la presentazione dell'istanza di cui al comma 1 e' dovuto alla camera di commercio, industria, artigianato e agricoltura un diritto pari, per ogni protesto, a L. 15.000 per il primo anno successivo alla data di entrata in vigore della presente disposizione, rivalutato annualmente, con decreto del Ministro dell'industria, del commercio e dell'artigianato, in base agli indici ISTAT dei prezzi al consumo per le famiglie di operai e impiegati.».
 
-##### Art. 13
+### Art. 13
 
 Dell'opposizione ai provvedimenti in materia di riabilitazione del debitore protestato
 
@@ -652,11 +648,9 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-## Capo III
+## Capo III - Delle controversie regolate dal rito ((semplificato)) di cognizione
 
-### Delle controversie regolate dal rito - ((semplificato)) di cognizione
-
-##### Art. 14
+### Art. 14
 
 Delle controversie in materia di liquidazione degli onorari e dei diritti di avvocato
 
@@ -682,7 +676,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-##### Art. 15
+### Art. 15
 
 Dell'opposizione a decreto di pagamento di spese di giustizia
 
@@ -714,7 +708,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-##### Art. 16
+### Art. 16
 
 Delle controversie in materia di mancato riconoscimento del diritto di soggiorno sul territorio nazionale in favore dei cittadini degli altri Stati membri dell'Unione europea o dei loro familiari
 
@@ -742,7 +736,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-##### Art. 17
+### Art. 17
 
 Delle controversie in materia di espulsione per gravi motivi di pubblica sicurezza ((degli stranieri)) in possesso del permesso di soggiorno UE per soggiornanti di lungo periodo, nonche' allontanamento dei cittadini degli altri Stati membri dell'Unione europea o dei loro familiari
 
@@ -778,7 +772,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-##### Art. 18
+### Art. 18
 
 Delle controversie in materia di espulsione dei cittadini di Stati che non sono membri dell'Unione europea
 
@@ -814,11 +808,11 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-##### Art. 19
+### Art. 19
 
 ((ARTICOLO ABROGATO DAL D.L. 17 FEBBRAIO 2017, N. 13, CONVERTITO CON MODIFICAZIONI DALLA L. 13 APRILE 2017, N. 46))
 
-##### Art. 19-bis
+### Art. 19-bis
 
 ((Controversie in materia di accertamento dello stato di apolidia e di cittadinanza italiana))
 
@@ -852,7 +846,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-##### Art. 19-ter - Controversie in materia di diniego o di revoca dei permessi di soggiorno temporanei per esigenze di carattere umanitario)((17)
+### Art. 19-ter - Controversie in materia di diniego o di revoca dei permessi di soggiorno temporanei per esigenze di carattere umanitario)((17)
 
 1\. Le controversie di cui all'articolo 3, comma 1, lettere d) e d-bis), del decreto-legge 17 febbraio 2017, n. 13, convertito, con modificazioni, dalla legge 13 aprile 2017, n. 46, sono regolate dal rito semplificato di cognizione. (12) (13)
 
@@ -888,7 +882,7 @@ AGGIORNAMENTO (17)
 
 E' stato ripristinato il testo gia' in vigore dal 1-1-2023 a seguito della modifica dell'art. 18, comma 1, lettere a), b) e c) del D.L. 11 ottobre 2024, n. 145, che disponeva la modifica del comma 6 e rubrica e l'abrogazione del comma 3 del presente articolo, ad opera della L. 9 dicembre 2024, n. 187, di conversione del D.L. medesimo.
 
-##### Art. 20
+### Art. 20
 
 Dell'opposizione al diniego del nulla osta al ricongiungimento familiare e del permesso di soggiorno per motivi familiari, nonche' agli altri provvedimenti dell'autorita' amministrativa in materia di diritto all'unita' familiare
 
@@ -920,7 +914,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-##### Art. 21
+### Art. 21
 
 Dell'opposizione alla convalida del trattamento sanitario obbligatorio
 
@@ -952,7 +946,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-##### Art. 22
+### Art. 22
 
 Delle azioni popolari e delle controversie in materia di eleggibilita', decadenza ed incompatibilita' nelle elezioni comunali, provinciali e regionali
 
@@ -1002,7 +996,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-##### Art. 23
+### Art. 23
 
 Delle azioni in materia di eleggibilita' e incompatibilita' nelle elezioni per il Parlamento europeo
 
@@ -1038,7 +1032,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-##### Art. 24
+### Art. 24
 
 Dell'impugnazione delle decisioni della Commissione elettorale circondariale in tema di elettorato attivo
 
@@ -1074,7 +1068,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-##### Art. 25
+### Art. 25
 
 Delle controversie in materia di riparazione a seguito di illecita diffusione del contenuto di intercettazioni telefoniche
 
@@ -1094,7 +1088,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-##### Art. 26
+### Art. 26
 
 Dell'impugnazione dei provvedimenti disciplinari a carico dei notai
 
@@ -1124,7 +1118,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-##### Art. 27
+### Art. 27
 
 Dell'impugnazione delle deliberazioni del Consiglio nazionale dell'Ordine dei giornalisti
 
@@ -1152,7 +1146,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-##### Art. 28
+### Art. 28
 
 Delle controversie in materia di discriminazione
 
@@ -1184,7 +1178,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-##### Art. 29
+### Art. 29
 
 Delle controversie in materia di opposizione alla stima nelle espropriazioni per pubblica utilita'
 
@@ -1210,7 +1204,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-##### Art. 30
+### Art. 30
 
 Delle controversie in materia di attuazione di sentenze e provvedimenti stranieri di giurisdizione volontaria e contestazione del riconoscimento
 
@@ -1232,7 +1226,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-##### Art. 30-bis - Dei procedimenti in materia di efficacia di decisioni straniere previsti dal diritto dell'Unione europea e dalle convenzioni internazionali
+### Art. 30-bis - Dei procedimenti in materia di efficacia di decisioni straniere previsti dal diritto dell'Unione europea e dalle convenzioni internazionali
 
 1\. Si svolgono in camera di consiglio, in assenza di contraddittorio, i procedimenti volti ad ottenere la dichiarazione di esecutivita' e in via principale l'accertamento della sussistenza dei presupposti per il riconoscimento di decisioni emesse dalle autorita' giurisdizionali degli Stati membri dell'Unione europea in conformita' al diritto eurounitario. In particolare, sono introdotti con tale rito i procedimenti previsti dagli atti indicati di seguito:
 
@@ -1282,13 +1276,9 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-## Capo IV
+## Capo IV - ((Delle controversie regolate dal rito ordinario di cognizione e dal rito dei procedimenti in materia di persone, minorenni e famiglie))
 
-### ((Delle controversie regolate dal rito ordinario - di cognizione e dal rito dei procedimenti
-
-#### in materia di persone, minorenni e famiglie))
-
-##### Art. 31
+### Art. 31
 
 Delle controversie in materia di rettificazione di attribuzione di sesso
 
@@ -1324,7 +1314,7 @@ AGGIORNAMENTO (18)
 
 Il D.Lgs. 31 ottobre 2024, n. 164, ha disposto (con l'art. 7, comma 1) che "Ove non diversamente previsto, le disposizioni del presente decreto si applicano ai procedimenti introdotti successivamente al 28 febbraio 2023".
 
-##### Art. 32
+### Art. 32
 
 Dell'opposizione a procedura coattiva per la riscossione delle entrate patrimoniali dello Stato e degli altri enti pubblici
 
@@ -1340,7 +1330,7 @@ AGGIORNAMENTO (9)
 
 La Corte Costituzionale, con sentenza 8 maggio - 25 giugno 2019, n. 158 (in G.U. 1ª s.s. 03/07/2019, n. 27), ha dichiarato "l'illegittimita' costituzionale dell'art. 32, comma 2, del decreto legislativo 1° settembre 2011, n. 150 (Disposizioni complementari al codice di procedura civile in materia di riduzione e semplificazione dei procedimenti civili di cognizione, ai sensi dell'articolo 54 della legge 18 giugno 2009, n. 69), nella parte in cui dopo le parole «E' competente il giudice del luogo in cui ha sede l'ufficio che ha emesso il provvedimento opposto» non prevede le parole «ovvero, nel caso di concessionario della riscossione delle entrate patrimoniali, del luogo in cui ha sede l'ente locale concedente»".
 
-##### Art. 33
+### Art. 33
 
 Delle controversie in materia di liquidazione
 
@@ -1368,11 +1358,9 @@ degli usi civici
 
 > commi 2 - 5 (abrogati).».
 
-## Capo V
+## Capo V - Disposizioni finali ed abrogazioni
 
-### Disposizioni finali ed abrogazioni
-
-##### Art. 34
+### Art. 34
 
 Modificazioni e abrogazioni
 
@@ -2102,13 +2090,13 @@ b) i commi dal secondo al quinto sono abrogati.
 
 > 15\. Con regolamento da approvarsi con Regio decreto saranno emanate le norme per la esecuzione delle presenti disposizioni.».
 
-##### Art. 35
+### Art. 35
 
 Clausola di invarianza finanziaria
 
 1\. Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni interessate provvedono agli adempimenti previsti dal presente decreto con l'utilizzo delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-##### Art. 36
+### Art. 36
 
 Disposizioni transitorie e finali
 

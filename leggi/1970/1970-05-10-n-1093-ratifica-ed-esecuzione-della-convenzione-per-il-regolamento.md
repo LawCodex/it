@@ -25,11 +25,11 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la Convenzione per il regolamento delle controversie relative agli investimenti tra Stati e cittadini di altri Stati, adottata a Washington il 18 marzo 1965.
 
-##### Art. 2
+#### Art. 2
 
 Piena ed intera esecuzione e' data alla Convenzione indicata nell'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 68 della Convenzione stessa.
 
@@ -45,7 +45,7 @@ Visto, il Guardasigilli: REALE
 
 ## Allegati
 
-##### Convention
+#### Convention
 
 Convention on the settlement of investment disputes between States and nationals of other States
 
@@ -53,9 +53,7 @@ Parte di provvedimento in formato grafico
 
 ## CAPITOLO I - CENTRO INTERNAZIONALE PER IL REGOLAMENTO DELLE CONTROVERSIE RELATIVE AD INVESTIMENTI
 
-### Sezione 1
-
-#### Istituzione e organizzazione
+### Sezione 1 - Istituzione e organizzazione
 
 TRADUZIONE NON UFFICIALE
 
@@ -83,31 +81,31 @@ Dichiarando che nessuno Stato Contraente, per il solo fatto di aver ratificato, 
 
 Hanno convenuto quanto segue:
 
-##### Articolo 1 - 1) In virtu' della presente Convenzione e' istituito il Centro Internazionale per la risoluzione delle controversie relative a investimenti (in seguito denominato il Centro
+#### Articolo 1 - 1) In virtu' della presente Convenzione e' istituito il Centro Internazionale per la risoluzione delle controversie relative a investimenti (in seguito denominato il Centro
 
 (2) Scopo del Centro e' di mettere a disposizione i mezzi per la conciliazione e l'arbitrato per regolare le controversie relative a investimenti insorte tra Stati Contraenti e cittadini di altri Stati Contraenti, conformemente alle disposizioni della presente Convenzione.
 
-##### Articolo 2
+#### Articolo 2
 
 La sede del Centro e' quella della sede centrale della Banca Internazionale per la Ricostruzione e lo Sviluppo (in seguito denominata la Banca). La sede puo' essere trasferita altrove su decisione del Consiglio di amministrazione, presa a maggioranza dei due terzi dei suoi membri.
 
-##### Articolo 3
+#### Articolo 3
 
 Il Centro si compone del Consiglio di amministrazione e di un Segretario e tiene una lista di conciliatori e una lista di arbitri.
 
-## Sezione 2 - Il Consiglio d'amministrazione
+### Sezione 2 - Il Consiglio d'amministrazione
 
-##### Articolo 4
+#### Articolo 4
 
 (1) Il Consiglio d'amministrazione e' composto di un rappresentante di ciascuno Stato Contraente. Un sostituto puo' agire in qualita' di rappresentante nel caso di assenza del titolare da una riunione o di sua impossibilita' di agire.
 
 (2) Salvo diversa designazione, il governatore e il sostituto-governatore della Banca, nominati dallo Stato Contraente, esercitano di diritto le funzioni rispettive di rappresentante e di sostituto.
 
-##### Articolo 5
+#### Articolo 5
 
 Il Presidente della Banca e' di diritto Presidente del Consiglio di amministrazione (in seguito denominato il Presidente) senza avere diritto di voto. Se egli e' assente o impedito o se la presidenza della Banca e' vacante, la persona che lo sostituisce alla Banca esercita le funzioni di Presidente del Consiglio di amministrazione.
 
-##### Articolo 6
+#### Articolo 6
 
 (1) Senza pregiudizio dei poteri e delle funzioni attribuitigli dalle altre disposizioni della presente Convenzione, il Consiglio d'amministrazione:
 
@@ -131,7 +129,7 @@ Le decisioni di cui alle lettere (a), (b), (c) e (f) di cui sopra, sono prese a 
 
 (3) Il Consiglio d'amministrazione esercita egualmente ogni altra funzione che esso considera necessaria ai fini dell'esecuzione delle disposizioni della presente Convenzione.
 
-##### Articolo 7
+#### Articolo 7
 
 (1) Il Consiglio d'amministrazione si riunisce una volta all'anno ed ogniqualvolta sia cosi' deciso dal Consiglio stesso, nonche' quando il Presidente o il Segretario Generale, a seguito di richiesta di almeno cinque membri del Consiglio, abbiano provveduto a convocarlo.
 
@@ -141,17 +139,17 @@ Le decisioni di cui alle lettere (a), (b), (c) e (f) di cui sopra, sono prese a 
 
 (4) Il Consiglio d'amministrazione puo' adottare, a maggioranza dei due terzi dei suoi membri, una procedura che autorizzi il Presidente a chiedere al Consiglio un voto per corrispondenza. La votazione sara' considerata valida soltanto se la maggioranza dei membri del Consiglio vi avra' partecipato entro i termini stabiliti da detta procedura.
 
-##### Articolo 8
+#### Articolo 8
 
 Le funzioni di membro del Consiglio di amministrazione e di Presidente non sono remunerate dal Centro.
 
-## Sezione 3 - Il Segretariato
+### Sezione 3 - Il Segretariato
 
-##### Articolo 9
+#### Articolo 9
 
 Il Segretariato si compone del Segretario Generale, di uno o piu' Segretari Generali aggiunti e del personale.
 
-##### Articolo 10
+#### Articolo 10
 
 (1) Il Segretario Generale e i Segretari Generali aggiunti sono eletti, su designazione del Presidente, dal Consiglio d'amministrazione, con la maggioranza dei due terzi dei suoi membri, per un periodo che non puo' eccedere i sei anni, e possono essere rieletti.
 
@@ -159,29 +157,29 @@ Il Presidente, dopo aver consultato i membri del Consiglio d'amministrazione, de
 
 (3) In caso di assenza o di impedimento del Segretario Generale o se il posto e' vacante, il Segretario Generale aggiunto esercita le funzioni di Segretario Generale. Se vi e' piu' di un Segretario Generale aggiunto, il Consiglio d'amministrazione determina in anticipo l'ordine secondo il quale essi saranno chiamati ad esercitare tali funzioni.
 
-##### Articolo 11
+#### Articolo 11
 
 Il Segretario Generale rappresenta legalmente il Centro, lo dirige ed e' responsabile della sua amministrazione, ivi compreso il reclutamento del personale, conformemente alle disposizioni della presente Convenzione ed ai regolamenti adottati dal Consiglio di amministrazione. Egli esercita le funzioni di cancelliere ed ha il potere di autenticare le sentenze arbitrali rese in virtu' della presente Convenzione e di certificarne la conformita' delle copie.
 
-## Sezione 4 - Le liste
+### Sezione 4 - Le liste
 
-##### Articolo 12
+#### Articolo 12
 
 La lista dei conciliatori e la lista degli arbitri sono composte di persone qualificate, che siano state designate come previsto qui di seguito e che accettino di figurare in tali liste.
 
-##### Articolo 13
+#### Articolo 13
 
 (1) Ciascuno Stato Contraente puo' designare, per lo inserimento in ciascuna delle liste; quattro persone che non debbono essere necessariamente suoi cittadini.
 
 (2) Il Presidente puo' designare dieci persone da inserire in ciascuna lista. Le persone cosi' designate per figurare nella medesima lista, devono essere ciascuna di nazionalita' diversa.
 
-##### Articolo 14
+#### Articolo 14
 
 (1) Le persone designate per l'inserimento nelle liste devono godere di un'alta reputazione morale, possedere una riconosciuta competenza in materia giuridica, commerciale, industriale e finanziaria e offrire ogni garanzia di indipendenza nell'esercizio delle loro funzioni. E' particolarmente importante, per le persone designate per la lista degli arbitri, la competenza in materia giuridica.
 
 (2) Il Presidente, nel fare le proprie designazioni, tiene anche conto dell'interesse a che siano rappresentati nelle dette liste i principali sistemi giuridici del mondo ed i principali settori della attivita' economica.
 
-##### Articolo 15
+#### Articolo 15
 
 (1) Le designazioni sono fatte per un periodo di sei anni e sono rinnovabili.
 
@@ -189,7 +187,7 @@ La lista dei conciliatori e la lista degli arbitri sono composte di persone qual
 
 (3) Le persone inserite nelle liste continuano a figurarvi sino alla designazione del loro successore.
 
-##### Articolo 16
+#### Articolo 16
 
 (1) Una stessa persona puo' figurare nelle due liste.
 
@@ -197,15 +195,15 @@ La lista dei conciliatori e la lista degli arbitri sono composte di persone qual
 
 (3) Tutte le designazioni sono notificate al Segretario Generale ed hanno effetto a decorrere dalla data di ricezione della notifica.
 
-## Sezione 5 - Finanziamento del Centro
+### Sezione 5 - Finanziamento del Centro
 
-##### Articolo 17
+#### Articolo 17
 
 Se le spese di funzionamento del Centro non possono essere coperte dai diritti percepiti per l'utilizzazione dei propri servizi o mediante altre fonti di entrata, il disavanzo sara' a carico degli Stati. Contraenti, proporzionalmente alla loro sottoscrizione al capitale della Banca per quelli che ne sono membri e conformemente ai regolamenti adottati dal Consiglio d'amministrazione per quelli che non ne sono membri.
 
-## Sezione 6 - Statuto, immunita' e privilegi
+### Sezione 6 - Statuto, immunita' e privilegi
 
-##### Articolo 18
+#### Articolo 18
 
 Il Centro ha piena personalita' giuridica internazionale. La capacita' giuridica del Centro comprende la capacita':
 
@@ -215,15 +213,15 @@ Il Centro ha piena personalita' giuridica internazionale. La capacita' giuridica
 
 (c) di stare in giudizio.
 
-##### Articolo 19
+#### Articolo 19
 
 Allo scopo di assolvere i propri compiti, il Centro gode, sul territorio di ciascuno Stato Contraente, delle immunita' e dei privilegi definiti nella presente Sezione.
 
-##### Articolo 20
+#### Articolo 20
 
 Il Centro, i suoi beni ed i suoi averi non possono formare oggetto di alcuna azione giudiziaria, salvo che esso non rinunci a questa immunita'.
 
-##### Articolo 21
+#### Articolo 21
 
 Il Presidente, i membri del Consiglio d'amministrazione, le persone che agiscono in qualita' di conciliatori, di arbitri o di membri del comitato previsto dall'articolo 52, par. (3) ed i funzionari e gli impiegati del Segretariato.
 
@@ -231,17 +229,17 @@ Il Presidente, i membri del Consiglio d'amministrazione, le persone che agiscono
 
 (b) godono, quando non sono cittadini dello Stato in cui esercitano le loro funzioni, delle stesse immunita' in materia di immigrazione, di registrazione degli stranieri, di obblighi militari o di prestazioni analoghe, e godono dello stesso trattamento, per quanto riguarda le restrizioni valutarie ed in materia di viaggi, che sono accordati dagli Stati Contraenti ai rappresentanti, funzionari ed impiegati di rango comparabile di altri Stati Contraenti.
 
-##### Articolo 22
+#### Articolo 22
 
 Le disposizioni dell'articolo 21 si applicano alle persone che partecipano ai procedimenti in conformita' di questa Convenzione in qualita' di parti, agenti; consiglieri, avvocati, testimoni o esperti; tuttavia, quanto disposto alla lettera (b) dello stesso articolo si applica soltanto in relazione ai loro trasferimenti ed al loro soggiorno nel Paese nel quale si svolge il procedimento.
 
-##### Articolo 23
+#### Articolo 23
 
 (1) Gli archivi del Centro sono inviolabili ovunque essi si trovino.
 
 (2) Ciascuno Stato Contraente accorda al Centro, per le sue comunicazioni ufficiali, un trattamento non meno favorevole di quello accordato alle altre organizzazioni internazionali.
 
-##### Articolo 24
+#### Articolo 24
 
 (1) Il Centro, i suoi averi, i suoi beni, i suoi introiti come pure le sue operazioni autorizzate dalla presente Convenzione sono esenti da ogni imposta e diritto doganale. Il Centro e inoltre esente da ogni obbligo relativo all'esazione o al pagamento di imposte o di diritti doganali.
 
@@ -251,7 +249,7 @@ Le disposizioni dell'articolo 21 si applicano alle persone che partecipano ai pr
 
 ## CAPITOLO II - COMPETENZA DEL CENTRO
 
-##### Articolo 25
+#### Articolo 25
 
 (1) Rientrano nella competenza del Centro le controversie di natura giuridica, tra uno Stato Contraente (o ente pubblico od organismo dipendente dallo Stato stesso, che esso indica al Centro) e il cittadino di un altro Stato Contraente, le quali siano in relazione diretta con un investimento e che le parti abbiano consentito per iscritto di sottoporre al Centro. Quando le parti hanno dato il loro consenso, nessuna di esse puo' ritirarlo unilateralmente.
 
@@ -267,11 +265,11 @@ Le disposizioni dell'articolo 21 si applicano alle persone che partecipano ai pr
 
 La notifica in questione non e' assimilabile al consenso richiesto ai sensi del par. (1).
 
-##### Articolo 26
+#### Articolo 26
 
 Il consenso delle parti a sottoporsi ad arbitrato nel quadro della presente Convenzione viene considerato, salvo stipulazione contraria, come implicante la rinuncia ad ogni altra forma di ricorso. Uno Stato Contraente puo' esigere, come condizione al suo consenso a sottoporsi ad arbitrato nel quadro della presente Convenzione, che siano esauriti i ricorsi amministrativi o giudiziari interni.
 
-##### Articolo 27
+#### Articolo 27
 
 (1) Nessuno Stato Contraente accordera' la protezione diplomatica o avanzera' rivendicazioni internazionali in relazione ad una controversia che uno dei suoi cittadini ed un altro Stato Contraente hanno convenuto di sottoporre o hanno sottoposto ad arbitrato nel quadro della presente Convenzione, salvo il caso in cui l'altro Stato Contraente non si conformi alla sentenza resa rispetto a tale controversia.
 
@@ -279,11 +277,9 @@ Il consenso delle parti a sottoporsi ad arbitrato nel quadro della presente Conv
 
 ## CAPITOLO III - LA CONCILIAZIONE
 
-### Sezione 1
+### Sezione 1 - La domanda di conciliazione
 
-#### La domanda di conciliazione
-
-##### Articolo 28
+#### Articolo 28
 
 (1) Uno Stato Contraente o il cittadino di uno Stato Contraente che desideri istituire un procedimento di conciliazione deve indirizzare una domanda scritta in tal senso al Segretario Generale, che ne invia copia all'altra parte.
 
@@ -291,9 +287,9 @@ Il consenso delle parti a sottoporsi ad arbitrato nel quadro della presente Conv
 
 (3) Il Segretario Generale deve registrare la domanda, salvo il caso in cui, sulla base delle informazioni contenute nella domanda, egli ritenga che la controversia ecceda manifestamente la competenza del Centro. Egli deve notificare immediatamente alle parti la registrazione o il rifiuto di registrazione.
 
-## Sezione 2 - Costituzione della Commissione di conciliazione
+### Sezione 2 - Costituzione della Commissione di conciliazione
 
-##### Articolo 29
+#### Articolo 29
 
 (1) La Commissione di conciliazione (in seguito denominata la Commissione) e' costituita non appena possibile dopo la registrazione della domanda di cui allo articolo 28.
 
@@ -301,45 +297,43 @@ Il consenso delle parti a sottoporsi ad arbitrato nel quadro della presente Conv
 
 (b) In caso di mancato accordo tra le parti sul numero dei conciliatori e sulle modalita' della loro nomina, la Commissione comprende tre conciliatori; ciascuna parte nomina un conciliatore ed il terzo, che funge da Presidente della Commissione, e' nominato d'accordo tra le parti.
 
-##### Articolo 30
+#### Articolo 30
 
 Se la Commissione non viene costituita entro i 90 giorni successivi alla notifica della registrazione della domanda da parte del Segretario Generale conformemente all'articolo 28, par. (3) o entro il diverso termine convenuto tra le parti, il Presidente, su richiesta della parte piu' diligente e, se possibile, dopo consultazione delle parti, nomina il conciliatore o i conciliatori non ancora designati.
 
-##### Articolo 31
+#### Articolo 31
 
 (1) I conciliatori possono essere scelti, al di fuori della lista dei conciliatori, salvo il caso di nomina da parte del Presidente, previsto dall'articolo 30.
 
 (2) I conciliatori nominati al di fuori della lista dei conciliatori devono possedere le qualita' previste dallo articolo 14, par. (1).
 
-## Sezione 3 - Procedura di conciliazione
+### Sezione 3 - Procedura di conciliazione
 
-##### Articolo 32
+#### Articolo 32
 
 (1) La Commissione e' giudice della propria competenza.
 
 (2) Ogni eccezione di competenza sollevata da una delle parti e fondata sul motivo che la controversia non rientra nella competenza del Centro o, per una qualsiasi altra ragione, in quella della Commissione, deve essere esaminata dalla Commissione, che decide se essa debba essere trattata come questione pregiudiziale o se il suo esame vada fatto congiuntamente a quello delle questioni di merito.
 
-##### Articolo 33
+#### Articolo 33
 
 Ogni procedura di conciliazione e' condotta in conformita' con le disposizioni della presente Sezione e, salvo diverso accordo tra le parti, col Regolamento di conciliazione in vigore alla data in cui esse hanno convenuto il ricorso alla conciliazione. La Commissione risolve ogni questione procedurale non prevista dalla presente Sezione o dal Regolamento di conciliazione o da qualsiasi regola concordata tra le parti.
 
-##### Articolo 34
+#### Articolo 34
 
 (1) E' compito della Commissione di chiarire i punti di contrasto tra le parti e di sforzarsi di condurle ad una soluzione reciprocamente accettabile. A tale scopo la Commissione puo', in una qualsiasi fase della procedura e ripetutamente, raccomandare alle parti i termini di una soluzione. Le parti debbono collaborare in buona fede con la Commissione al fine di consentirle di adempiere il proprio compito e debbono tenere nel massimo conto le sue raccomandazioni.
 
 (2) Se le parti si mettono d'accordo, la Commissione redige un verbale in cui si indicano i punti in contestazione e si prende atto dell'accordo fra le parti. Se, in una qualsiasi fase del procedimento la Commissione stima che non vi sia alcuna possibilita' di accordo tra le parti, essa chiude la procedura e redige un verbale in cui annota che la controversia e' stata sottoposta alla conciliazione e constata che le parti non hanno raggiunto un accordo. Se una delle parti non si presenta o manca di partecipare al procedimento, la Commissione chiude la procedura e redige un verbale in cui constata che una delle parti e' stata assente o si e' astenuta dal partecipare al procedimento.
 
-##### Articolo 35
+#### Articolo 35
 
 Salvo diverso accordo fra le parti, nessuna di esse, in occasione di un'altra procedura, che si svolga dinanzi ad arbitri, ad un tribunale od in altro modo, puo' invocare le opinioni espresse, le dichiarazioni o le offerte di composizione fatte dall'altra parte durante la procedura, come pure il verbale o le raccomandazioni della Commissione.
 
 ## CAPITOLO IV - L'ARBITRATO
 
-### Sezione 1
+### Sezione 1 - Domanda di arbitrato
 
-#### Domanda di arbitrato
-
-##### Articolo 36
+#### Articolo 36
 
 (1) Uno Stato Contraente o il cittadino di uno Stato Contraente che desideri iniziare una procedura di arbitrato deve indirizzare domanda scritta in tal senso al Segretario Generale, che ne invia copia all'altra parte.
 
@@ -347,37 +341,37 @@ Salvo diverso accordo fra le parti, nessuna di esse, in occasione di un'altra pr
 
 (3) Il Segretario Generale deve registrare la domanda, salvo che, in considerazione delle informazioni ivi contenute, egli ritenga che la domanda ecceda manifestamente la competenza del Centro. Egli deve notificare immediatamente alle parti la registrazione o il rifiuto di registrazione.
 
-## Sezione 2 - Costituzione del Tribunale
+### Sezione 2 - Costituzione del Tribunale
 
-##### Articolo 37
+#### Articolo 37
 
 (1) Il Tribunale arbitrale (in seguito denominato il Tribunale) e' costituito non appena possibile dopo la registrazione della domanda conformemente all'articolo 36.
 
 (2) (a) Il Tribunale si compone di un arbitro unico o di un numero dispari di arbitri nominati conformemente all'accordo tra le parti. (b) In difetto di accordo tra le parti sul numero degli arbitri e sulle modalita' della loro nomina, il Tribunale e' composto di tre arbitri; ciascuna parte nomina un arbitro ed il terzo, che funge da presidente del Tribunale, e' nominato d'accordo tra le parti.
 
-##### Articolo 38
+#### Articolo 38
 
 Se il Tribunale non e' stato costituito nei 90 giorni successivi alla notifica della registrazione della domanda da parte del Segretario Generale, conformemente all'articolo 36, paragrafo (3) o nel diverso termine concordato tra le parti, il Presidente, su istanza della parte piu' diligente e, se possibile, dopo aver consultato le parti, nomina l'arbitro o gli arbitri non ancora designati. Gli arbitri nominati dal Presidente conformemente alle disposizioni del presente articolo non devono essere cittadini dello Stato Contraente parte nella controversia o dello Stato Contraente il cui cittadino e' parte nella controversia.
 
-##### Articolo 39
+#### Articolo 39
 
 La maggioranza degli arbitri deve essere costituita da cittadini di Stati diversi dallo Stato Contraente parte nella controversia e dello Stato Contraente il cui cittadino e' parte nella controversia; tuttavia tale disposizione non si applica se l'arbitro unico o ciascuno dei membri del Tribunale sono nominati d'accordo tra le parti.
 
-##### Articolo 40
+#### Articolo 40
 
 (1) Gli arbitri possono essere scelti al di fuori della lista degli arbitri, salvo nel caso di nomina da parte del Presidente, conformemente all'articolo 38.
 
 (2) Gli arbitri nominati al di fuori della lista degli arbitri debbono possedere i requisiti previsti dallo articolo 14, par. (1).
 
-## Sezione 3 - Poteri e funzioni del Tribunale
+### Sezione 3 - Poteri e funzioni del Tribunale
 
-##### Articolo 41
+#### Articolo 41
 
 (1) Il Tribunale e' giudice della propria competenza.
 
 (2) Ogni eccezione di competenza sollevata da una delle parti e fondata sul motivo che la controversia non rientra nella competenza del Centro o, per una qualsiasi altra ragione, in quella del Tribunale, deve essere esaminata dal Tribunale, che decide se essa debba essere trattata come questione pregiudiziale o se il suo esame vada fatto congiuntamente a quello delle questioni di merito.
 
-##### Articolo 42
+#### Articolo 42
 
 (1) Il Tribunale si pronuncia sulla controversia conformemente alle norme di diritto convenute tra le parti. In difetto di accordo tra le parti, il Tribunale applica la legge dello Stato Contraente parte nella controversia - ivi comprese le norme relative ai conflitti di legge - come pure i principi di diritto internazionale in materia.
 
@@ -385,7 +379,7 @@ La maggioranza degli arbitri deve essere costituita da cittadini di Stati divers
 
 (3) Le disposizioni dei precedenti paragrafi non pregiudicano la facolta' del Tribunale, se le parti sono d'accordo in tal senso, di statuire ex aequo et bono.
 
-##### Articolo 43
+#### Articolo 43
 
 Salvo diverso accordo tra le parti, il Tribunale, se lo stima necessario, puo', in qualsiasi fase del procedimento:
 
@@ -395,27 +389,27 @@ prova, e
 
 (b) fare i sopralluoghi e procedere alle indagini che esso ritenga necessari.
 
-##### Articolo 44
+#### Articolo 44
 
 Ogni procedimento arbitrale e' condotto in conformita' con le disposizioni della presente Sezione e, salvo diverso accordo tra le parti, col Regolamento di arbitrato in vigore alla data in cui esse hanno convenuto il ricorso all'arbitrato. Il Tribunale risolve ogni questione procedurale non prevista dalla presente Sezione o dal Regolamento di arbitrato o da qualsiasi regola concordata tra le parti.
 
-##### Articolo 45
+#### Articolo 45
 
 (1) Il fatto che una delle parti non si presenti o si astenga dal far valere le proprie ragioni, non puo' essere interpretato come ammissione delle pretese della controparte.
 
 (2) Se una parte non si presenta o si astiene dal far valere le proprie ragioni in ogni fase della procedura, la controparte puo' chiedere al Tribunale di considerare le deduzioni sottopostegli e di rendere la sentenza. Il Tribunale, nel notificare alla parte assente o astenuta la richiesta rivoltagli, deve accordarle un termine di grazia prima di emettere la sentenza, a meno che esso non sia convinto che la parte stessa non ha l'intenzione di presentarsi o di far valere le proprie ragioni.
 
-##### Articolo 46
+#### Articolo 46
 
 Salvo diverso accordo tra le parti, il Tribunale, su istanza di una di esse, deve decidere su tutte le domande incidentali, addizionali o riconvenzionali, riferentesi direttamente all'oggetto della controversia, a condizione che tali domande rientrino nei limiti dello accordo tra le parti nonche' nella competenza del Centro.
 
-##### Articolo 47
+#### Articolo 47
 
 Salvo diverso accordo tra le parti, il Tribunale, se ritiene che le circostanze lo esigano, puo' raccomandare tutte le misure cautelari atte a salvaguardare i diritti delle parti.
 
-## Sezione 4 - La sentenza
+### Sezione 4 - La sentenza
 
-##### Articolo 48
+#### Articolo 48
 
 (1) Il Tribunale decide su tutte le questioni a maggioranza dei voti dei suoi membri.
 
@@ -427,15 +421,15 @@ Salvo diverso accordo tra le parti, il Tribunale, se ritiene che le circostanze 
 
 (5) Il Centro non pubblica alcuna sentenza senza il consenso delle parti.
 
-##### Articolo 49
+#### Articolo 49
 
 (1) Il Segretario Generale invia sollecitamente alle parti copie certificate conformi della sentenza. Si considera che la sentenza sia stata resa il giorno dell'invio di tali copie.
 
 (2) Su istanza di una delle parti, da presentarsi entro 45 giorni dall'emanazione della sentenza, il Tribunale, dopo notifica all'altra parte, puo' statuire su tutte le questioni sulle quali abbia omesso di pronunciarsi nella sentenza e correggere ogni errore materiale contenuto nella sentenza. La sua decisione fa parte integrante della sentenza ed e' notificata alle parti nelle stesse forme previste per la sentenza. I termini previsti all'articolo 51, par. (2) e all'articolo 52, par. (2) decorrono dalla data in cui e' stata presa la decisione corrispondente.
 
-## Sezione 5 - Interpretazione, revisione e annullamento della sentenza
+### Sezione 5 - Interpretazione, revisione e annullamento della sentenza
 
-##### Articolo 50
+#### Articolo 50
 
 (1) Ogni controversia che insorga tra le parti circa il significato o la portata della sentenza puo' formare oggetto di una domanda di interpretazione, da inviarsi per iscritto al Segretario Generale da una o dall'altra parte.
 
@@ -443,7 +437,7 @@ Salvo diverso accordo tra le parti, il Tribunale, se ritiene che le circostanze 
 
 Il Tribunale se stima che le circostanze lo esigano, puo' decidere di sospendere l'esecuzione della sentenza sino a che esso non si sia pronunciato sulla domanda d'interpretazione.
 
-##### Articolo 51
+#### Articolo 51
 
 (1) Ciascuna delle parti puo' chiedere per iscritto a Segretario Generale la revisione della sentenza sul fondamento della scoperta di un fatto di natura tale de esercitare un'influenza decisiva sulla sentenza a condizione che, prima della pronuncia della sentenza, tale fatto fosse ignoto al Tribunale e alla parte istante e che l'ignoranza, da parte di quest'ultima, non fosse dovuta a sua negligenza.
 
@@ -451,7 +445,7 @@ Il Tribunale se stima che le circostanze lo esigano, puo' decidere di sospendere
 
 (3) Se possibile, la domanda e' sottoposta allo stesso Tribunale che ha emesso la sentenza. In caso d'impossibilita', e' costituito un nuovo Tribunale conformemente alla Sezione 2 del presente Capitolo. (4) Il Tribunale, se stima che le circostanze lo esigano, puo' decidere di sospendere l'esecuzione della sentenza sino a che esso non si sia pronunciato sulla domanda di revisione. Se, nella sua domanda, la parte ricorrente chiede la sospensione dell'esecuzione della sentenza, l'esecuzione e' provvisoriamente sospesa sino a che il Tribunale non abbia pronunciato la propria decisione sulla domanda.
 
-##### Articolo 52
+#### Articolo 52
 
 (1) Ciascuna delle parti puo' domandare, per iscritto al Segretario Generale l'annullamento delle sentenze per uno o piu' dei seguenti motivi:
 
@@ -475,15 +469,15 @@ Il Tribunale se stima che le circostanze lo esigano, puo' decidere di sospendere
 
 (6) Se la sentenza e' annullata, la controversia, su domanda della parte piu' diligente, e' sottoposta ad un nuovo Tribunale costituito conformemente alla Sezione 2ª del presente capitolo.
 
-## Sezione 6 - Riconoscimento ed esecuzione della sentenza
+### Sezione 6 - Riconoscimento ed esecuzione della sentenza
 
-##### Articolo 53
+#### Articolo 53
 
 (1) La sentenza e' vincolante per le parti e non puo' formare oggetto di appello od altro ricorso, al di fuori di quelli previsti dalla presente Convenzione. Ciascuna parte deve eseguire la sentenza nei termini stabiliti, salvo che l'esecuzione della stessa sia sospesa in virtu' delle disposizioni della presente Convenzione.
 
 (2) Ai fini della presente Sezione, il termine "sentenza" comprende ogni decisione concernente l'interpretazione, revisione o annullamento della sentenza pronunciata ai sensi degli articoli 50, 51 o 52.
 
-##### Articolo 54
+#### Articolo 54
 
 (1) Ogni Stato Contraente riconosce come vincolante ogni sentenza resa in conformita' alla presente Convenzione e assicura, sul proprio territorio, l'esecuzione delle obbligazioni pecuniarie disposte dalla sentenza, come se si trattasse di una sentenza definitiva di un tribunale funzionante sul territorio dello Stato stesso. Uno Stato Contraente che abbia una costituzione federale puo' assicurare l'esecuzione della sentenza per il tramite dei suoi tribunali federali e puo' disporre che tali tribunali considerino la sentenza alla stregua di un giudizio definitivo dei tribunali di uno degli Stati costituenti la federazione.
 
@@ -491,13 +485,13 @@ Il Tribunale se stima che le circostanze lo esigano, puo' decidere di sospendere
 
 (3) L'esecuzione della sentenza e' disciplinata dalle norme sulla esecuzione delle sentenze in vigore nello Stato nel territorio del quale l'esecuzione e' richiesta.
 
-##### Articolo 55
+#### Articolo 55
 
 Nessuna disposizione dell'articolo 54 puo' essere interpretata come eccezione al diritto vigente in uno Stato Contraente in materia di immunita' dello Stato stesso, o di uno Stato estero, dall'esecuzione.
 
 ## CAPITOLO V - SOSTITUZIONE E RICUSAZIONE DEI CONCILIATORI E DEGLI ARBITRI
 
-##### Articolo 56
+#### Articolo 56
 
 (1) La composizione della Commissione o del Tribunale, dopo la loro costituzione e l'inizio del procedimento, non puo' essere modificata.
 
@@ -507,29 +501,29 @@ Tuttavia, in caso di decesso, incapacita' o dimissioni di un conciliatore o di u
 
 (3) Se un conciliatore o un arbitro nominato da una parte si dimette senza il consenso della Commissione o del Tribunale di cui e' membro, il Presidente provvede alla vacanza scegliendo una persona nell'apposita lista.
 
-##### Articolo 57
+#### Articolo 57
 
 Una parte puo' domandare alla Commissione o al Tribunale la ricusazione d'uno dei suoi membri per ogni motivo che implichi una mancanza manifesta dei requisiti previsti dall'articolo 14, par. (1).
 
 Una parte in un procedimento arbitrale puo', inoltre, domandare la ricusazione di un arbitro se egli non soddisfa le condizioni previste dalla Sezione 2ª del capitolo IV per la nomina nel Tribunale Arbitrale.
 
-##### Articolo 58
+#### Articolo 58
 
 Gli altri membri della Commissione o del Tribunale, secondo il caso, si pronunciano sulla domanda di ricusazione di un conciliatore o di un arbitro. Tuttavia, in caso di parita' di voti o qualora la domanda di ricusazione riguardi un conciliatore od un arbitro unico ovvero la maggioranza della Commissione o del Tribunale, la decisione e' presa dal Presidente. Se la domanda e' riconosciuta fondata, il conciliatore o l'arbitro oggetto della decisione e' sostituito conformemente alle disposizioni del capitolo III, Sezione 2 o del capitolo IV, Sezione 2.
 
 ## CAPITOLO VI - SPESE DI PROCEDURA
 
-##### Articolo 59
+#### Articolo 59
 
 I diritti a carico delle parti per l'utilizzazione dei servizi del Centro sono fissati dal Segretario Generale conformemente ai regolamenti adottati in materia dal Consiglio d'amministrazione.
 
-##### Articolo 60
+#### Articolo 60
 
 (1) Ciascuna Commissione e ciascun Tribunale fissa gli onorari e le spese dei suoi membri entro i limiti stabiliti dal Consiglio d'amministrazione e dopo consultazione col Segretario Generale.
 
 (2) In deroga alle disposizioni di cui al paragrafo precedente, le parti possono fissare in anticipo, d'accordo con la Commissione o il Tribunale, gli onorari e le spese dei rispettivi membri.
 
-##### Articolo 61
+#### Articolo 61
 
 (1) Nei procedimenti di conciliazione gli onorari e le spese dei membri della Commissione come pure i diritti dovuti per l'utilizzazione dei servizi del Centro sono ripartiti in egual misura tra le parti. Ciascuna parte sostiene tutte le altre spese in cui essa incorre in relazione al procedimento.
 
@@ -537,11 +531,11 @@ I diritti a carico delle parti per l'utilizzazione dei servizi del Centro sono f
 
 ## CAPITOLO VII - LUOGO DELLA PROCEDURA
 
-##### Articolo 62
+#### Articolo 62
 
 I procedimenti di conciliazione e di arbitrato si svolgono presso la sede del Centro, salvo quanto qui appresso disposto.
 
-##### Articolo 63
+#### Articolo 63
 
 Se le parti cosi' decidono, i procedimenti di conciliazione e di arbitrato possono svolgersi:
 
@@ -551,17 +545,17 @@ Se le parti cosi' decidono, i procedimenti di conciliazione e di arbitrato posso
 
 ## CAPITOLO VIII - CONTROVERSIE TRA STATI CONTRAENTI
 
-##### Articolo 64
+#### Articolo 64
 
 Ogni controversia che insorga fra Stati Contraenti in merito alla interpretazione o applicazione della presente Convenzione e che non sia risolta in via amichevole e' portata innanzi alla Corte Internazionale di Giustizia su domanda di una qualsiasi parte nella controversia, a meno che gli Stati interessati non convengano in un'altra procedura di risoluzione.
 
 ## CAPITOLO IX - MODIFICHE
 
-##### Articolo 65
+#### Articolo 65
 
 Ogni Stato Contraente puo' proporre modifiche alla presente Convenzione. Il testo delle modifiche proposte deve essere comunicato al Segretario Generale almeno 90 giorni prima della riunione del Consiglio d'amministrazione, nel corso della quale le proposte modifiche verranno esaminate, e deve essere da lui immediatamente trasmesso a tutti i membri del Consiglio d'amministrazione.
 
-##### Articolo 66
+#### Articolo 66
 
 (1) Se il Consiglio d'amministrazione lo decide a maggioranza dei due terzi dei suoi membri, la modifica proposta e' distribuita a tutti gli Stati Contraenti per la ratifica, accettazione o approvazione. Ciascuna modifica entra in vigore 30 giorni dopo che il depositario della presente Convenzione ha inviato agli Stati Contraenti una notifica per informarli che tutti gli Stati Contraenti hanno ratificato, accettato o approvato la modifica.
 
@@ -569,41 +563,41 @@ Ogni Stato Contraente puo' proporre modifiche alla presente Convenzione. Il test
 
 ## CAPITOLO X - DISPOSIZIONI FINALI
 
-##### Articolo 67
+#### Articolo 67
 
 La presente Convenzione e' aperta alla firma degli Stati membri della Banca. Essa e' inoltre aperta alla firma di ogni altro Stato parte dello Statuto della Corte Internazionale di Giustizia che il Consiglio d'amministrazione, a maggioranza di due terzi dei suoi membri, abbia invitato a firmare la Convenzione.
 
-##### Articolo 68
+#### Articolo 68
 
 (1) La presente Convenzione e' sottoposta alla ratifica, accettazione o approvazione degli Stati firmatari conformemente alle rispettive procedure costituzionali.
 
 (2) La presente Convenzione entrera' in vigore 30 giorni dopo la data del deposito del ventesimo strumento di ratifica, accettazione o approvazione. Per ogni Stato che depositera' successivamente il suo strumento di ratifica, accettazione o approvazione, essa entrera' in vigore 30 giorni dopo la data di detto deposito.
 
-##### Articolo 69
+#### Articolo 69
 
 Ogni Stato Contraente deve adottare le misure legislative o di altra natura che siano necessarie allo scopo di dare esecuzione sul proprio territorio alle disposizioni della presente Convenzione.
 
-##### Articolo 70
+#### Articolo 70
 
 La presente Convenzione si applica a tutti i territori che uno Stato Contraente rappresenta sul piano internazionale, fatta eccezione per quelli esclusi dallo Stato stesso mediante notifica indirizzata al depositario della presente Convenzione sia al momento della ratifica, accettazione o approvazione, sia ulteriormente
 
-##### Articolo 71
+#### Articolo 71
 
 Ciascuno Stato Contraente puo' denunciare la presente Convenzione mediante notifica indirizzata al depositario della presente Convenzione. La denuncia avra' effetto sei mesi dopo la ricezione di tale notifica.
 
-##### Articolo 72
+#### Articolo 72
 
 Nessuna notifica effettuata da uno Stato Contraente in virtu' degli articoli 70 e 71 puo' portare pregiudizio ai diritti e agli obblighi derivanti dalla presente Convenzione allo Stato in questione, ad un ente pubblico od organismo da detto Stato dipendente o ad un suo cittadino, in seguito alla accettazione della competenza del Centro, data da uno di essi prima della ricezione della suddetta notifica da parte del depositario.
 
-##### Articolo 73
+#### Articolo 73
 
 Gli strumenti di ratifica, accettazione o approvazione della presente Convenzione e di ogni modifica alla stessa devono essere depositati presso la Banca, la quale agira' quale depositario della presente Convenzione. Il depositario trasmettera' copia della presente Convenzione, certificata conforme, a tutti gli Stati membri della Banca e ad ogni altro Stato invitato a firmare la Convenzione.
 
-##### Articolo 74
+#### Articolo 74
 
 Il depositario registrera' la presente Convenzione presso il Segretariato delle Nazioni Unite in conformita' dell'articolo 102 della Carta delle Nazioni Unite e dei relativi regolamenti adottati dall'Assemblea Generale.
 
-##### Articolo 75
+#### Articolo 75
 
 Il depositario notifichera' a tutti gli Stati firmatari le informazioni riguardanti:
 

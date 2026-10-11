@@ -27,19 +27,19 @@ Promulga
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo tra la Repubblica italiana e la Repubblica di Albania, aggiuntivo alla Convenzione europea di estradizione del 13 dicembre 1957 ed alla Convenzione europea di assistenza giudiziaria in materia penale del 20 aprile 1959, ed inteso a facilitarne l'applicazione, fatto a Tirana il 3 dicembre 2007, con Scambio di Note effettuato a Tirana il 18 e 19 settembre 2008.
 
-##### Art. 2
+#### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo XXIII dell'Accordo stesso.
 
-##### Art. 3
+#### Art. 3
 
 Copertura finanziaria
 
@@ -49,7 +49,7 @@ Copertura finanziaria
 
 3\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 4
+#### Art. 4
 
 Entrata in vigore
 
@@ -67,9 +67,7 @@ Frattini, Ministro degli affari esteri
 
 Visto, il Guardasigilli: Alfano
 
-## TITOLO I
-
-### RAPPORTI CON ALTRE CONVENZIONI DI ASSISTENZA GIUDIZIARIA ED ESTRADIZIONE
+## TITOLO I - RAPPORTI CON ALTRE CONVENZIONI DI ASSISTENZA GIUDIZIARIA ED ESTRADIZIONE
 
 Allegato
 
@@ -95,7 +93,7 @@ RICONOSCENDO che le disposizioni previste dalla convenzione europea di assistenz
 
 HANNO CONVENUTO LE SEGUENTI DISPOSIZIONI:
 
-##### Articolo I
+#### Articolo I
 
 Rapporti con altre convenzioni in materia di assistenza giudiziaria ed estradizione.
 
@@ -109,11 +107,9 @@ c) della convenzione europea di estradizione del 13 dicembre 1957, in prosieguo 
 
 ## TITOLO II - DISPOSIZIONI RELATIVE ALLA CONVENZIONE EUROPEA DI ASSISTENZA GIUDIZIARIA
 
-### CAPO I
+### CAPO I - DISPOSIZIONI GENERALI
 
-#### DISPOSIZIONI GENERALI
-
-##### Articolo II
+#### Articolo II
 
 Formalita' e procedure inerenti alle richieste di assistenza giudiziaria.
 
@@ -125,7 +121,7 @@ Formalita' e procedure inerenti alle richieste di assistenza giudiziaria.
 
 4\. Se prevedibilmente i termini stabiliti dalla Parte richiedente per dare esecuzione alla richiesta non possono essere rispettati e se le ragioni di cui al paragrafo 2, seconda frase, indicano concretamente che un eventuale ritardo costituira' un sostanziale impedimento al procedimento in corso nella Parte richiedente, le autorita' della Parte richiesta indicano prontamente una stima dei tempi necessari per dare esecuzione alla richiesta. Le autorita' della Parte richiedente comunicano prontamente se la richiesta deve comunque essere considerata. Le autorita' della Parte richiedente e della Parte richiesta possono successivamente accordarsi sul seguito da riservare alla richiesta.
 
-##### Articolo III
+#### Articolo III
 
 Invio a mezzo posta e consegna degli atti del procedimento.
 
@@ -149,7 +145,7 @@ Il paragrafo 3 si applica parimenti a questo avviso.
 
 5\. Il presente articolo non incide sull'applicazione degli articoli 8, 9 e 12 della convenzione europea di assistenza giudiziaria.
 
-##### Articolo IV
+#### Articolo IV
 
 Trasmissione di richieste di assistenza giudiziaria.
 
@@ -177,7 +173,7 @@ a) richieste di trasferimento temporaneo o transito di persone detenute di cui a
 
 b) notifiche di informazioni relative a condanne di cui all'articolo 22 della convenzione europea di assistenza giudiziaria. Tuttavia, le richieste delle copie delle sentenze e delle misure di cui all'articolo 4 del protocollo aggiuntivo alla convenzione europea di assistenza giudiziaria possono essere inviate direttamente alle autorita' competenti.
 
-##### Articolo V
+#### Articolo V
 
 Scambio spontaneo di informazioni.
 
@@ -189,9 +185,9 @@ Scambio spontaneo di informazioni.
 
 4\. Tra le autorita' giudiziarie competenti previste dal paragrafo 1, per la parte Italiana la Direzione Nazionale Antimafia procede allo scambio di informazioni ed alle altre attivita' ad essa attribuite dal diritto interno.
 
-## CAPO II - RICHIESTA DI FORME SPECIFICHE DI ASSISTENZA GIUDIZIARIA
+### CAPO II - RICHIESTA DI FORME SPECIFICHE DI ASSISTENZA GIUDIZIARIA
 
-##### Articolo VI
+#### Articolo VI
 
 Restituzione
 
@@ -201,7 +197,7 @@ Restituzione
 
 3\. Nel caso di una rinuncia alla restituzione dei beni prima della loro consegna alla Parte richiedente, la Parte richiesta non fa valere alcun diritto di garanzia o alcun altro diritto all'impugnazione a norma delle disposizioni di legge in materia tributaria o doganale nei confronti di tali beni. Una rinuncia di cui al paragrafo 2 non pregiudica il diritto della Parte richiesta di riscuotere imposte o diritti dal legittimo proprietario.
 
-##### Articolo VII
+#### Articolo VII
 
 Audizione mediante videoconferenza.
 
@@ -235,7 +231,7 @@ Questo documento e' trasmesso dall'autorita' competente della Parte richiesta al
 
 9\. Le disposizioni del presente articolo si applicano anche alle audizioni degli imputati, nonche' degli altri soggetti e parti del procedimento. In questo caso, la decisione di tenere la videoconferenza, nonche' le condizioni alle quali essa e' effettuata, sono concordate dalle Parti contraenti, secondo il loro diritto nazionale e i pertinenti strumenti internazionali, compresa la convenzione europea per la salvaguardia dei diritti dell'uomo e delle liberta' fondamentali del 1950. Si applicano, in quanto compatibili, le disposizioni previste dai paragrafi da 2 a 8.
 
-##### Articolo VIII
+#### Articolo VIII
 
 Audizione dei testimoni e dei periti mediante conferenza telefonica.
 
@@ -257,7 +253,7 @@ c) verificare che il testimone o perito consenta all'audizione per telefono.
 
 6\. Si applicano le disposizioni pertinenti di cui all'articolo VII, paragrafo 5 e paragrafo 8. Salvo che non sia stato diversamente convenuto, si applicano, mutatis mutandis, le disposizioni di cui all'articolo VII, paragrafo 7.
 
-##### Articolo IX
+#### Articolo IX
 
 Consegne sorvegliate.
 
@@ -267,7 +263,7 @@ Consegne sorvegliate.
 
 3\. Le consegne sorvegliate sono effettuate secondo le procedure vigenti nella Parte richiesta. Le autorita' competenti di tale Parte mantengono il diritto di iniziativa, la direzione e il controllo dell'operazione.
 
-##### Articolo X
+#### Articolo X
 
 Squadre investigative comuni.
 
@@ -319,7 +315,7 @@ d) per altri scopi entro i limiti convenuti dalle Parti contraenti che hanno cos
 
 11\. Il presente articolo lascia impregiudicata ogni altra vigente disposizione o intesa concernente la costituzione o l'attivita' di squadre investigative comuni.
 
-##### Articolo XI
+#### Articolo XI
 
 Operazioni sotto copertura.
 
@@ -329,13 +325,13 @@ Operazioni sotto copertura.
 
 3\. Le operazioni sotto copertura sono effettuate secondo il diritto e le procedure nazionali della Parte contraente nel cui territorio e' effettuata l'operazione. Le Parti contraenti collaborano per provvedere alla preparazione e al controllo dell'operazione sotto copertura e per prendere disposizioni al fine di garantire la sicurezza degli agenti infiltrati o sotto falsa identita'.
 
-##### Articolo XII
+#### Articolo XII
 
 Responsabilita' penale riguardo ai funzionari.
 
 Nel corso delle operazioni di cui agli articoli IX, X e XI, i funzionari della parte diversa da quella in cui si svolge l'operazione sono assimilati ai funzionari di quest'ultima per quanto riguarda i reati che dovessero subire o commettere.
 
-##### Articolo XIII
+#### Articolo XIII
 
 Responsabilita' civile riguardo ai funzionari.
 
@@ -347,7 +343,7 @@ Responsabilita' civile riguardo ai funzionari.
 
 4\. Fatto salvo l'esercizio dei propri diritti nei confronti, di terzi e fatto salvo il paragrafo 3, ciascuna Parte contraente rinuncia, nel caso previsto al paragrafo 1, a chiedere all'altra il risarcimento dei danni da esso subiti.
 
-##### Articolo XIV
+#### Articolo XIV
 
 Richiesta di informazioni sui conti bancari e sulle operazioni bancarie.
 
@@ -375,7 +371,7 @@ c) inserisce qualsiasi informazione disponibile che possa facilitare l'esecuzion
 
 8\. Le Parti contraenti possono subordinare l'esecuzione di una richiesta a norma del presente articolo alle stesse condizioni che applicano per le richieste di perquisizione e sequestro.
 
-##### Articolo XV
+#### Articolo XV
 
 Richiesta di controllo sulle operazioni bancarie.
 
@@ -387,13 +383,13 @@ Richiesta di controllo sulle operazioni bancarie.
 
 4\. Le modalita' pratiche del controllo sono concordate dalle autorita' competenti delle Parti contraenti.
 
-##### Articolo XVI
+#### Articolo XVI
 
 Riservatezza.
 
 Le Parti contraenti adottano le misure necessarie per assicurare che le banche non rivelino al cliente interessato o a terzi il fatto che sono state trasmesse informazioni a norma degli articoli XIV e XV, o che e' in corso un'indagine.
 
-##### Articolo XVII
+#### Articolo XVII
 
 Segreto bancario.
 
@@ -401,7 +397,7 @@ Le Parti contraenti non invocano il segreto bancario quale motivo per rifiutarsi
 
 ## TITOLO III - DISPOSIZIONI RELATIVE ALLA ESTRADIZIONE DEI CITTADINI
 
-##### Articolo XVIII
+#### Articolo XVIII
 
 Estradizione dei cittadini.
 
@@ -413,7 +409,7 @@ Estradizione dei cittadini.
 
 ## TITOLO IV - DISPOSIZIONI RELATIVE AL TRASFERIMENTO DEI PROCEDIMENTI PENALI
 
-##### Articolo XIX
+#### Articolo XIX
 
 Trasferimento dei procedimenti penali.
 
@@ -421,7 +417,7 @@ Le parti contraenti si impegnano a regolare il trasferimento dei procedimenti pe
 
 ## TITOLO V - PROTEZIONE DI DATI PERSONALI
 
-##### Articolo XX
+#### Articolo XX
 
 Principi generali.
 
@@ -429,7 +425,7 @@ Principi generali.
 
 2\. In ogni caso, il presente accordo non pregiudica gli obblighi posti a carico delle Parti contraenti in forza di altri accordi multilaterali, gia' esistenti o futuri, in materia di protezione dei dati personali, ivi compresi gli strumenti adottati dall'Unione Europea in forza dell'art. 34 paragrafo 2 del trattato istitutivo della Unione Europea.
 
-##### Articolo XXI
+#### Articolo XXI
 
 Trattamento dei dati personali.
 
@@ -449,7 +445,7 @@ d) per qualsiasi altra finalita', soltanto previa autorizzazione della Parte con
 
 4\. Il presente articolo non si applica ai dati personali ottenuti da una Parte contraente ai sensi del presente accordo e originari di tale Parte.
 
-##### Articolo XXII
+#### Articolo XXII
 
 Protezione dei dati nell'ambito dello scambio di informazioni.
 
@@ -477,7 +473,7 @@ i) le Parti contraenti prendono le adeguate misure colte a garantire il rispetto
 
 ## TITOLO VI - DISPOSIZIONI FINALI
 
-##### Articolo XXIII
+#### Articolo XXIII
 
 Entrata in vigore.
 
@@ -499,7 +495,7 @@ Per il Consiglio dei Ministri Per il Governo della Repubblica della Repubblica I
 
 Parte di provvedimento in formato grafico
 
-##### Nota verbale
+#### Nota verbale
 
 Ambasciata d'Italia
 

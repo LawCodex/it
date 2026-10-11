@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I
+## Capo I - FINALITA' E PRINCIPI
 
-### FINALITA' E PRINCIPI
-
-#### Art. 1
+### Art. 1
 
 Finalita'
 
@@ -92,7 +90,7 @@ h) ad adeguare l'intervento pubblico e l'attivita' della pubblica amministrazion
 
 > Sono materie di legislazione concorrente quelle relative a: rapporti internazionali e con l'Unione europea delle Regioni; commercio con l'estero; tutela e sicurezza del lavoro; istruzione, salva l'autonomia delle istituzioni scolastiche e con esclusione della istruzione e della formazione professionale; professioni; ricerca scientifica e tecnologica e sostegno all'innovazione per i settori produttivi; tutela della salute; alimentazione; ordinamento sportivo; protezione civile; governo del territorio; porti e aeroporti civili; grandi reti di trasporto e di navigazione; ordinamento della comunicazione; produzione, trasporto e distribuzione nazionale dell'energia; previdenza complementare e integrativa; armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica e del sistema tributario; valorizzazione dei beni culturali e ambientali e promozione e organizzazione di attivita' culturali; casse di risparmio, casse rurali, aziende di credito a carattere regionale; enti di credito fondiario e agrario a carattere regionale. Nelle materie di legislazione concorrente spetta alle Regioni la potesta' legislativa, salvo che per la determinazione dei principi fondamentali, riservata alla legislazione dello Stato.».
 
-#### Art. 2
+### Art. 2
 
 Principi generali
 
@@ -130,7 +128,7 @@ p) il riconoscimento e la valorizzazione degli statuti delle imprese ispirati a 
 
 3\. Le disposizioni di cui ai commi 1, lettere d), l), m), n) e o), e 2 si applicano purche' non comportino nuovi o maggiori oneri finanziari e amministrativi.
 
-#### Art. 3
+### Art. 3
 
 Liberta' associativa
 
@@ -142,7 +140,7 @@ Liberta' associativa
 
 4\. Entro un anno dalla data di entrata in vigore della presente legge, le associazioni di imprese integrano i propri statuti con un codice etico con il quale si prevede che le imprese associate e i loro rappresentanti riconoscono, tra i valori fondanti dell'associazione, il rifiuto di ogni rapporto con organizzazioni criminali o mafiose e con soggetti che fanno ricorso a comportamenti contrari alla legge, al fine di contrastare e ridurre le forme di controllo delle imprese e dei loro collaboratori che alterano di fatto la libera concorrenza. Le imprese che aderiscono alle suddette associazioni respingono e contrastano ogni forma di estorsione, usura o altre tipologie di reato, poste in essere da organizzazioni criminali o mafiose, e collaborano con le forze dell'ordine e le istituzioni, denunciando, anche con l'assistenza dell'associazione, ogni episodio di attivita' illegale di cui sono soggetti passivi. Il mancato rispetto del codice etico dell'associazione e dei doveri degli associati e' sanzionato nei termini previsti dallo statuto e dallo stesso codice etico dell'associazione.
 
-#### Art. 4
+### Art. 4
 
 Legittimazione ad agire delle associazioni
 
@@ -150,7 +148,7 @@ Legittimazione ad agire delle associazioni
 
 2\. Le associazioni di categoria maggiormente rappresentative a livello nazionale, regionale e provinciale sono legittimate ad impugnare gli atti amministrativi lesivi degli interessi diffusi.
 
-#### Art. 5
+### Art. 5
 
 Definizioni
 
@@ -222,11 +220,9 @@ o) si definisce «seed capital» il finanziamento utilizzato da un imprenditore 
 
 > 2-septies. L'agevolazione di cui al comma 2-quater e' subordinata all'autorizzazione della Commissione europea, con le procedure previste dall' articolo 108, paragrafo 3, del Trattato sul funzionamento dell'Unione europea.».
 
-## Capo II
+## Capo II - RAPPORTI CON LE ISTITUZIONI
 
-### RAPPORTI CON LE ISTITUZIONI
-
-#### Art. 6
+### Art. 6
 
 Procedure di valutazione
 
@@ -258,7 +254,7 @@ c) dopo il comma 5, e' inserito il seguente:
 
 6\. ((COMMA ABROGATO DAL D.LGS. 14 MARZO 2013, N. 33)).
 
-#### Art. 7
+### Art. 7
 
 Riduzione e trasparenza degli adempimenti amministrativi a carico di cittadini e imprese
 
@@ -270,7 +266,7 @@ Riduzione e trasparenza degli adempimenti amministrativi a carico di cittadini e
 
 4\. Con il regolamento di cui al comma 2, ai fini della valutazione degli eventuali profili di responsabilita' dei dirigenti preposti agli uffici interessati, sono individuate le modalita' di presentazione dei reclami da parte dei cittadini e delle imprese per la mancata applicazione delle disposizioni del presente articolo.
 
-#### Art. 8
+### Art. 8
 
 Compensazione degli oneri regolatori, informativi e amministrativi
 
@@ -302,7 +298,7 @@ e) coordinamento delle attivita' di controllo al fine di evitare duplicazioni e 
 
 2-septies. Le disposizioni del presente articolo non si applicano con riferimento agli atti normativi in materia tributaria, creditizia e di giochi pubblici.
 
-#### Art. 9
+### Art. 9
 
 Rapporti con la pubblica amministrazione e modifica dell'articolo 2630 del codice civile
 
@@ -358,7 +354,7 @@ Se si tratta di omesso deposito dei bilanci, la sanzione amministrativa pecuniar
 
 > c) l'attestazione della sussistenza dei requisiti previsti dalla normativa per la realizzazione, la trasformazione, il trasferimento e la cessazione dell'esercizio dell'attivita' di impresa puo' essere affidata a soggetti privati accreditati («Agenzie per le imprese»). In caso di istruttoria con esito positivo, tali soggetti privati rilasciano una dichiarazione di conformita' che costituisce titolo autorizzatorio per l'esercizio dell'attivita'. Qualora si tratti di procedimenti che comportino attivita' discrezionale da parte dell'Amministrazione, i soggetti privati accreditati svolgono unicamente attivita' istruttorie in luogo e a supporto dello sportello unico;».
 
-#### Art. 10
+### Art. 10
 
 Delega al Governo in materia di disposizioni integrative e correttive del decreto legislativo 9 ottobre 2002, n. 231, nonche' differimento di termini per l'esercizio di deleghe legislative in materia di incentivi e di internazionalizzazione delle imprese
 
@@ -438,7 +434,7 @@ b) all'articolo 12, comma 2, alinea, le parole: «diciotto mesi» sono sostituit
 
 > e) complementarita' degli incentivi rispetto ad analoghe misure di competenza regionale.".
 
-#### Art. 11
+### Art. 11
 
 Certificazione sostitutiva e procedura di verifica
 
@@ -472,15 +468,15 @@ Certificazione sostitutiva e procedura di verifica
 
 > 9\. La mancata emanazione del provvedimento nei termini costituisce elemento di valutazione della responsabilita' dirigenziale.».
 
-#### Art. 12
+### Art. 12
 
 ((ARTICOLO ABROGATO DAL D.L. 6 DICEMBRE 2011, N. 201, CONVERTITO CON MODIFICAZIONI DALLA L. 22 DICEMBRE 2011, N. 214))
 
-#### Art. 13
+### Art. 13
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50, COME MODIFICATO DAL D.LGS. 19 APRILE 2017, N. 56))
 
-#### Art. 14
+### Art. 14
 
 Consorzio obbligatorio nel settore dei laterizi
 
@@ -498,17 +494,15 @@ Consorzio obbligatorio nel settore dei laterizi
 
 7\. Il COSL e' sottoposto alla vigilanza del Ministero dello sviluppo economico, secondo modalita' idonee ad assicurare che la gestione sia efficace ed efficiente in rapporto all'oggetto consortile. A questo scopo, il COSL provvede ad inviare al Ministero dello sviluppo economico il piano operativo annuale ed il bilancio.
 
-#### Art. 15
+### Art. 15
 
 Contratti di fornitura con posa in opera
 
 1\. La disposizione prevista dall'articolo 118, comma 3, secondo periodo, del codice di cui al decreto legislativo 12 aprile 2006, n. 163, e successive modificazioni, si applica anche alle somme dovute agli esecutori in subcontratto di forniture ((. . .)) le cui prestazioni sono pagate in base allo stato di avanzamento lavori ovvero stato di avanzamento forniture.
 
-## Capo III
+## Capo III - DISPOSIZIONI IN MATERIA DI MICRO, PICCOLE E MEDIE IMPRESE E DI POLITICHE PUBBLICHE
 
-### DISPOSIZIONI IN MATERIA DI MICRO, PICCOLE E MEDIE IMPRESE E DI - POLITICHE PUBBLICHE
-
-#### Art. 16
+### Art. 16
 
 Politiche pubbliche per la competitivita'
 
@@ -550,7 +544,7 @@ b) l'attuazione del piano straordinario per la conciliazione tra tempi di vita e
 
 4\. Per le imprese presenti nelle aree sottoutilizzate, lo Stato garantisce inoltre l'adozione di misure volte a garantire e rendere piu' effettivo il principio di equita' e di libera concorrenza nel pieno rispetto della normativa dell'Unione europea.
 
-#### Art. 17
+### Art. 17
 
 Garante per le micro, piccole e medie imprese
 
@@ -582,11 +576,9 @@ g) coordinare i garanti delle micro, piccole e medie imprese istituiti presso le
 
 6\. Il Garante di cui al comma 1 e' nominato con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro dello sviluppo economico, tra i dirigenti di prima fascia del Ministero dello sviluppo economico, si avvale per il proprio funzionamento delle strutture del medesimo Ministero e svolge i compiti di cui al presente articolo senza compenso aggiuntivo rispetto all'incarico dirigenziale attribuito. All'attuazione del presente articolo si provvede nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri a carico della finanza pubblica.
 
-## Capo IV
+## Capo IV - LEGGE ANNUALE PER LE MICRO, LE PICCOLE E LE MEDIE IMPRESE
 
-### LEGGE ANNUALE PER LE MICRO, LE PICCOLE E LE MEDIE IMPRESE
-
-#### Art. 18
+### Art. 18
 
 Legge annuale per le micro, le piccole e le medie imprese
 
@@ -628,27 +620,23 @@ d) le specifiche misure da adottare per favorire la competitivita' e lo sviluppo
 
 > 4\. La Conferenza unificata di cui al comma 1 e' convocata dal Presidente del Consiglio dei Ministri. Le sedute sono presiedute dal Presidente del Consiglio dei Ministri o, su sua delega, dal Ministro per gli affari regionali o, se tale incarico non e' conferito, dal Ministro dell'interno.».
 
-## Capo V
+## Capo V - COMPETENZE REGIONALI E DEGLI ENTI LOCALI
 
-### COMPETENZE REGIONALI E DEGLI ENTI LOCALI
-
-#### Art. 19
+### Art. 19
 
 Rapporti tra lo Stato, le regioni e le autonomie locali
 
 1\. Le regioni promuovono la stipula di accordi e di intese in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, al fine di favorire il coordinamento dell'esercizio delle competenze normative in materia di adempimenti amministrativi delle imprese, nonche' il conseguimento di ulteriori livelli minimi di liberalizzazione degli adempimenti connessi allo svolgimento dell'attivita' d'impresa sul territorio nazionale, previe individuazione delle migliori pratiche e verifica dei risultati delle iniziative sperimentali adottate dalle regioni e dagli enti locali.
 
-## Capo VI
+## Capo VI - NORME FINALI
 
-### NORME FINALI
-
-#### Art. 20
+### Art. 20
 
 Norma finanziaria
 
 1\. Le amministrazioni pubbliche interessate provvedono all'attuazione della presente legge avvalendosi delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri per la finanza pubblica.
 
-#### Art. 21
+### Art. 21
 
 Entrata in vigore
 

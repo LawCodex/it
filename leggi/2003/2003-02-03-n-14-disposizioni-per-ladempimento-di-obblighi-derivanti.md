@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I - DISPOSIZIONI GENERALI SUI PROCEDIMENTI PER L'ADEMPIMENTO DEGLI
+## Capo I - DISPOSIZIONI GENERALI SUI PROCEDIMENTI PER L'ADEMPIMENTO DEGLI OBBLIGHI COMUNITARI
 
-### OBBLIGHI COMUNITARI
-
-#### Art 1 - Delega al Governo per l'attuazione di direttive comunitarie
+### Art 1 - Delega al Governo per l'attuazione di direttive comunitarie
 
 1\. Il Governo e' delegato ad adottare, entro il termine di un anno dalla data di entrata in vigore della presente legge, i decreti legislativi recanti le norme occorrenti per dare attuazione alle direttive comprese negli elenchi di cui agli allegati A e B.
 
@@ -68,7 +66,7 @@ Qualora il termine previsto per il parere dei competenti organi parlamentari sca
 
 > "Le regioni e le province autonome di Trento e di Bolzano, nelle materie di loro competenza, partecipano alle decisioni dirette alla formazione degli atti normativi comunitari e provvedono all'attuazione e all'esecuzione degli accordi internazionali e degli atti dell'Unione europea, nel rispetto delle norme di procedura stabilite da legge dello Stato, che disciplina le modalita' di esercizio del potere sostitutivo in caso di inadempienza.".
 
-#### Art 2 - Principi e criteri direttivi generali della delega legislativa
+### Art 2 - Principi e criteri direttivi generali della delega legislativa
 
 1\. Salvi gli specifici principi e criteri direttivi stabiliti dalle disposizioni di cui al capo II ed in aggiunta a quelli contenuti nelle direttive da attuare nonche' a quelli, per quanto compatibili, contenuti nell'articolo 20 della legge 15 marzo 1997, n. 59, e successive modificazioni, i decreti legislativi di cui all'articolo 1 sono informati ai seguenti principi e criteri direttivi generali:
 
@@ -176,7 +174,7 @@ g) quando si verifichino sovrapposizioni di competenze fra amministrazioni diver
 
 > 3\. Restano salvi i rapporti finanziari direttamente intrattenuti con le Comunita' europee dalle amministrazioni e dagli organismi di cui all'art. 2 del decreto del Presidente della Repubblica 16 aprile 1971, n. 321, ed alla legge 26 novembre 1975, n. 748.".
 
-#### Art 3 - Delega al Governo per la disciplina sanzionatoria di violazioni di disposizioni comunitarie
+### Art 3 - Delega al Governo per la disciplina sanzionatoria di violazioni di disposizioni comunitarie
 
 1\. Al fine di assicurare la piena integrazione delle norme comunitarie nell'ordinamento nazionale, il Governo, fatte salve le norme penali vigenti, e' delegato ad adottare, entro due anni dalla data di entrata in vigore della presente legge, disposizioni recanti sanzioni penali o amministrative per le violazioni di direttive comunitarie attuate in via regolamentare o amministrativa ai sensi della legge 22 febbraio 1994, n. 146, della legge 24 aprile 1998, n. 128, e della presente legge, e di regolamenti comunitari vigenti alla data di entrata in vigore della presente legge, per i quali non siano gia' previste sanzioni penali o amministrative.
 
@@ -192,11 +190,11 @@ g) quando si verifichino sovrapposizioni di competenze fra amministrazioni diver
 
 > \- Per l'art. 14 della legge 23 agosto 1988, n. 400, vedi le note all'art. 1.
 
-#### Art 4 - Oneri relativi a prestazioni e controlli
+### Art 4 - Oneri relativi a prestazioni e controlli
 
 1\. Nell'attuazione delle normative comunitarie, gli oneri derivanti da prestazioni e controlli a carico degli uffici pubblici ricadono sui soggetti interessati in relazione al costo effettivo del servizio, ove cio' non risulti in contrasto con la disciplina comunitaria. Le suddette tariffe sono predeterminate e pubbliche.
 
-#### Art 5 - Riordinamento normativo nelle materie interessate dalle direttive comunitarie
+### Art 5 - Riordinamento normativo nelle materie interessate dalle direttive comunitarie
 
 1\. Il Governo e' delegato ad adottare, con le modalita' di cui ai commi 2 e 3 dell'articolo 1, entro diciotto mesi dalla data di entrata in vigore della presente legge, testi unici delle disposizioni dettate in attuazione delle deleghe conferite per il recepimento di direttive comunitarie, al fine di coordinare le medesime con le norme legislative vigenti nelle stesse materie, apportando le sole integrazioni e modificazioni necessarie a garantire la semplificazione e la coerenza logica, sistematica e lessicale della normativa, applicando, per quanto compatibili, i principi ed i criteri direttivi contenuti nell'articolo 20 della legge 15 marzo 1997, n. 59, e successive modificazioni.
 
@@ -210,11 +208,9 @@ g) quando si verifichino sovrapposizioni di competenze fra amministrazioni diver
 
 > \- Per l'art. 20 della legge 15 marzo 1997, n. 59, vedi note all'art. 2.
 
-## Capo II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO,
+## Capo II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO, CRITERI SPECIFICI DI DELEGA LEGISLATIVA
 
-### CRITERI SPECIFICI DI DELEGA LEGISLATIVA
-
-#### Art 6 - Modifica all'articolo 1469-sexies del codice civile, in esecuzione della sentenza della Corte di giustizia delle Comunita' europee del 24 gennaio 2002, nella causa C-372/99
+### Art 6 - Modifica all'articolo 1469-sexies del codice civile, in esecuzione della sentenza della Corte di giustizia delle Comunita' europee del 24 gennaio 2002, nella causa C-372/99
 
 1\. All'articolo 1469-sexies, primo comma, del codice civile, dopo le parole: "che utilizzano" sono inserite le seguenti: "o che raccomandano l'utilizzo di".
 
@@ -222,7 +218,7 @@ g) quando si verifichino sovrapposizioni di competenze fra amministrazioni diver
 
 > \- Il testo dell'art. 1469-sexies, primo comma, del codice civile, come modificato dalla legge qui pubblicata, cosi' recita: "Le associazioni rappresentative dei consumatori e dei professionisti e le camere di commercio, industria, artigianato e agricoltura, possono convenire in giudizio il professionista o l'associazione di professionisti che utilizzano o che raccomandano l'utilizzo di condizioni generali di contratto e richiedere al giudice competente che inibisca l'uso delle condizioni di cui sia accertata l'abusivita' ai sensi del presente capo".
 
-#### Art 7 - Modifica all'articolo 55 del decreto legislativo 19 settembre 1994, n. 626
+### Art 7 - Modifica all'articolo 55 del decreto legislativo 19 settembre 1994, n. 626
 
 1\. Il comma 5 dell'articolo 55 del decreto legislativo 19 settembre 1994, n. 626, e' sostituito dal seguente:
 
@@ -250,7 +246,7 @@ g) quando si verifichino sovrapposizioni di competenze fra amministrazioni diver
 
 > 5\. Il datore di lavoro fornisce, a sue spese, ai lavoratori i dispositivi speciali di correzione, in funzione dell'attivita' svolta, qualora i risultati degli esami di cui ai commi 1, 3-ter e 4 ne evidenzino la necessita' e non sia possibile utilizzare i dispositivi normali di correzione".
 
-#### Art 8 - Delega al Governo per la piena attuazione della direttiva 91/414/CEE del Consiglio del 15 luglio 1991, concernente i prodotti fitosanitari
+### Art 8 - Delega al Governo per la piena attuazione della direttiva 91/414/CEE del Consiglio del 15 luglio 1991, concernente i prodotti fitosanitari
 
 1\. Al fine di pervenire alla piena attuazione della direttiva 91/414/CEE del Consiglio, del 15 luglio 1991, recante norme in materia di immissione in commercio di prodotti fitosanitari, il Governo e' delegato, fatte salve le norme penali vigenti, ad adottare, entro un anno dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi recanti sanzioni penali o amministrative per violazioni al decreto legislativo 17 marzo 1995, n. 194, e al regolamento di cui al decreto del Presidente della Repubblica 23 aprile 2001, n. 290, concernenti l'attuazione della suddetta direttiva.
 
@@ -264,7 +260,7 @@ g) quando si verifichino sovrapposizioni di competenze fra amministrazioni diver
 
 > \- Il decreto del Presidente della Repubblica 23 aprile 2001, n. 290, reca: "Regolamento di semplificazione dei procedimenti di autorizzazione alla produzione, alla immissione in commercio e alla vendita di prodotti fitosanitari e relativi coadiuvanti".
 
-#### Art 9 - Modifica all'articolo 36 del decreto legislativo 5 febbraio 1997, n. 22, recante attuazione delle direttive 91/156/CEE sui rifiuti, 91/689/CEE sui rifiuti pericolosi e 94/62/CE sugli imballaggi e sui rifiuti di imballaggio
+### Art 9 - Modifica all'articolo 36 del decreto legislativo 5 febbraio 1997, n. 22, recante attuazione delle direttive 91/156/CEE sui rifiuti, 91/689/CEE sui rifiuti pericolosi e 94/62/CE sugli imballaggi e sui rifiuti di imballaggio
 
 1\. All'articolo 36, comma 5, del decreto legislativo 5 febbraio 1997, n. 22, e successive modificazioni, il secondo periodo e' soppresso.
 
@@ -306,7 +302,7 @@ g) quando si verifichino sovrapposizioni di competenze fra amministrazioni diver
 
 > 5\. Tutti gli imballaggi devono essere opportunamente etichettati secondo le modalita' stabilite con decreto del Ministro dell'ambiente e del Ministro dell'industria, del commercio e dell'artigianato in conformita' alle determinazioni adottate dalla Commissione dell'Unione europea, per facilitare la raccolta, il riutilizzo, il recupero ed il riciclaggio degli imballaggi, nonche' per dare una corretta informazione ai consumatori sulle destinazioni finali degli imballaggi.".
 
-#### Art 10 - Modifica all'articolo 15 del decreto legislativo 17 aprile 2001, n. 239, di attuazione della direttiva 98/78/CE relativa alla vigilanza supplementare sulle imprese di assicurazione appartenenti ad un gruppo assicurativo
+### Art 10 - Modifica all'articolo 15 del decreto legislativo 17 aprile 2001, n. 239, di attuazione della direttiva 98/78/CE relativa alla vigilanza supplementare sulle imprese di assicurazione appartenenti ad un gruppo assicurativo
 
 1\. All'articolo 15, comma 2, del decreto legislativo 17 aprile 2001, n. 239, le parole: "la lettera a), punto 1), del comma 1" sono sostituite dalle seguenti: "la lettera b), punto 1), del comma 1".
 
@@ -316,7 +312,7 @@ g) quando si verifichino sovrapposizioni di competenze fra amministrazioni diver
 
 > "2. Nel caso di partecipazione nell'impresa di assicurazione controllata o partecipata detenuta indirettamente, la lettera b), punto 1), del comma 1, comprende il valore contabile dell'impresa di assicurazione detenuta indirettamente iscritto nel bilancio dell'impresa controllante o partecipante diretta, determinato in base alla quota di interessenza risultante dai successivi rapporti di partecipazione con detta impresa controllante o partecipante diretta. Inoltre, la lettera a), punto 2), e la lettera b), punto 3), del comma 1, includono le quote di interessenza risultanti dai successivi rapporti di partecipazione, rispettivamente, degli elementi ammessi a costituire il margine di solvibilita' dell'impresa di assicurazione controllata o partecipata, nonche' del margine di solvibilita' minimo dell'impresa di assicurazione controllata o partecipata.".
 
-#### Art 11 - Modifiche al regolamento di cui al decreto del Presidente della Repubblica 19 maggio 1958, n. 719
+### Art 11 - Modifiche al regolamento di cui al decreto del Presidente della Repubblica 19 maggio 1958, n. 719
 
 1\. Il Governo e' autorizzato a modificare, entro sessanta giorni dalla data di entrata in vigore della presente legge, il terzo comma dell'articolo 15 del regolamento di cui al decreto del Presidente della Repubblica 19 maggio 1958, n. 719, in base ai seguenti criteri direttivi:
 
@@ -336,7 +332,7 @@ c) prevedere che l'aggiunta delle sostanze di cui alla lettera a) sia consentita
 
 > L'aggiunta di sostanze diverse da quelle indicate nel presente regolamento, che non siano state gia' consentite dall'Alto Commissariato per la igiene e la sanita' pubblica, deve essere autorizzata di volta in volta dallo stesso Alto Commissariato su proposta dell'autorita' sanitaria della provincia, nella quale ha sede la fabbrica e previo parere del Consiglio provinciale di sanita'".
 
-#### Art 12 - Modifiche al regolamento di cui al decreto del Presidente della Repubblica 9 febbraio 2001, n. 187
+### Art 12 - Modifiche al regolamento di cui al decreto del Presidente della Repubblica 9 febbraio 2001, n. 187
 
 1\. Il Governo e' autorizzato a modificare, entro novanta giorni dalla data di entrata in vigore della presente legge, l'articolo 9 del regolamento di cui al decreto del Presidente della Repubblica 9 febbraio 2001, n. 187, in base ai seguenti criteri direttivi:
 
@@ -368,7 +364,7 @@ b) stabilire che le diciture "paste alimentari fresche" e "paste alimentari fres
 
 > 6\. Sono denominate paste stabilizzate le paste alimentari che hanno un tenore di umidita' non inferiore al 20 per cento e un'attivita' dell'acqua libera (Aw) non superiore a 0,92 e che sono state sottoposte a trattamenti termici e a tecnologie di produzione che consentono il trasporto e la conservazione a temperatura ambiente.".
 
-#### Art 13 - Modifiche alla legge 24 luglio 1985, n. 409, in esecuzione della sentenza della Corte di giustizia delle Comunita' europee del 29 novembre 2001, nella causa C-202/99
+### Art 13 - Modifiche alla legge 24 luglio 1985, n. 409, in esecuzione della sentenza della Corte di giustizia delle Comunita' europee del 29 novembre 2001, nella causa C-202/99
 
 1\. All'articolo 1 della legge 24 luglio 1985, n. 409, dopo la parola: "Stato" sono soppresse le seguenti parole: ", nonche' dai laureati in medicina e chirurgia che siano in possesso della relativa abilitazione all'esercizio professionale e di un diploma di specializzazione in campo odontoiatrico".
 
@@ -392,7 +388,7 @@ b) stabilire che le diciture "paste alimentari fresche" e "paste alimentari fres
 
 > L'odontoiatra iscritto all'Albo ha la facolta' di esercitare la professione in tutto il territorio dello Stato.".
 
-#### Art 14 - Attuazione della direttiva 2001/83/CE del Parlamento europeo e del Consiglio, del 6 novembre 2001 recante un codice comunitario relativo ai medicinali per uso umano
+### Art 14 - Attuazione della direttiva 2001/83/CE del Parlamento europeo e del Consiglio, del 6 novembre 2001 recante un codice comunitario relativo ai medicinali per uso umano
 
 1\. Per l'attuazione della direttiva 2001/83/CE del Parlamento europeo e del Consiglio, del 6 novembre 2001, recante un codice comunitario relativo ai medicinali per uso umano, il Governo puo' tenere distinte le disposizioni relative ai bollini farmaceutici per le confezioni di medicinali erogabili dal Servizio sanitario nazionale e per le confezioni dei farmaci non soggetti a prescrizione medica di cui all'articolo 3, comma 1, del decreto legislativo 30 dicembre 1992, n. 539, prevedendo per queste ultime idonei sistemi che garantiscano i consumatori dal rischio di contraffazione, sentite le categorie interessate della produzione dei farmaci di automedicazione e le associazioni di consumatori. Tali sistemi sono adottati entro il 30 giugno 2004.
 
@@ -404,7 +400,7 @@ b) stabilire che le diciture "paste alimentari fresche" e "paste alimentari fres
 
 > "1. I medicinali non soggetti a prescrizione medica di cui all'art. 2, lettera a), sono i medicinali che non rispondono ai criteri indicati negli articoli 4, 5, 6, 7, 8, 9 e 10. Nell'ambito di questi, si definiscono medicinali da banco o di automedicazione i medicinali che, per la loro composizione e il loro obiettivo terapeutico, sono concepiti e realizzati per essere utilizzati senza intervento di un medico per la diagnosi, la prescrizione o la sorveglianza nel corso del trattamento e, se necessario, con il consiglio del farmacista.".
 
-#### Art 15 - Pubblicita' dei dispositivi medici e dei presidi medico-chirurgici e modifica all'articolo 23 del decreto legislativo 24 febbraio 1997, n. 46, di attuazione della direttiva 93/42/CEE concernente i dispositivi medici
+### Art 15 - Pubblicita' dei dispositivi medici e dei presidi medico-chirurgici e modifica all'articolo 23 del decreto legislativo 24 febbraio 1997, n. 46, di attuazione della direttiva 93/42/CEE concernente i dispositivi medici
 
 1\. Decorsi quarantacinque giorni dalla presentazione della domanda di autorizzazione alla pubblicita' dei presidi medico-chirurgici disciplinati dall'articolo 1 del regolamento di cui al decreto del Presidente della Repubblica 6 ottobre 1998, n. 392, prevista dall'articolo 201 del testo unico delle leggi sanitarie, di cui al regio decreto 27 luglio 1934, n. 1265, e successive modificazioni, ovvero dei dispositivi medici di cui al comma 2 dell'articolo 21 del decreto legislativo 24 febbraio 1997, n. 46, la mancata comunicazione all'interessato del provvedimento di accoglimento o di reiezione della domanda medesima equivale a tutti gli effetti al rilascio dell'autorizzazione richiesta. In detta ipotesi, nel messaggio pubblicitario dovranno essere indicati gli estremi della domanda di autorizzazione.
 
@@ -460,7 +456,7 @@ b) stabilire che le diciture "paste alimentari fresche" e "paste alimentari fres
 
 > 2\. La pubblicita' presso il pubblico dei dispositivi diversi da quelli di cui al comma 1 e' soggetta ad autorizzazione del Ministero della sanita'. Sulle domande di autorizzazione esprime parere la commissione prevista dall'art. 6, comma 3, del decreto legislativo 30 dicembre 1992, n. 541, che a tal fine e' integrata da un rappresentante del Dipartimento del Ministero della sanita' competente in materia di dispositivi medici e da uno del Ministero dell'industria, del commercio e dell'artigianato".
 
-#### Art 16 - Modifica al decreto legislativo 27 gennaio 1992, n. 129, recante attuazione delle direttive 85/384/CEE, 85/614/CEE e 86/17/CEE, in materia di riconoscimento di diplomi, certificati e altri titoli nel settore dell'architettura
+### Art 16 - Modifica al decreto legislativo 27 gennaio 1992, n. 129, recante attuazione delle direttive 85/384/CEE, 85/614/CEE e 86/17/CEE, in materia di riconoscimento di diplomi, certificati e altri titoli nel settore dell'architettura
 
 1\. L'articolo 1 del decreto legislativo 27 gennaio 1992, n. 129, e' sostituito dal seguente:
 
@@ -594,7 +590,7 @@ e) gli attestati rilasciati dalle autorita' competenti della Repubblica Federale
 
 > 2-quinquies. Il Ministro dell'istruzione, dell'universita' e della ricerca comunica alla Commissione europea e contemporaneamente a tutti gli altri Stati membri dell'Unione europea e agli altri Stati aderenti all'Accordo sullo spazio economico europeo, i diplomi, i certificati e gli altri titoli rilasciati in Italia e che rispondono ai requisiti di cui ai commi 1 e 2, con l'indicazione delle Universita' che li rilasciano".
 
-#### Art 17 - Modifica all'articolo 2 della legge 24 giugno 1997, n. 196, recante norme in materia di promozione dell'occupazione, in esecuzione della sentenza della Corte di giustizia delle Comunita' europee del 7 febbraio 2002, nella causa C-279/00
+### Art 17 - Modifica all'articolo 2 della legge 24 giugno 1997, n. 196, recante norme in materia di promozione dell'occupazione, in esecuzione della sentenza della Corte di giustizia delle Comunita' europee del 7 febbraio 2002, nella causa C-279/00
 
 1\. All'articolo 2, comma 2, della legge 24 giugno 1997, n. 196, e successive modificazioni, alla lettera c) sono aggiunte, in fine, le seguenti parole: "Sono esonerate dalla prestazione delle garanzie di cui alla presente lettera le societa' che abbiano assolto ad obblighi analoghi fissati per le stesse finalita' dalla legislazione di altro Stato membro dell'Unione europea".
 
@@ -614,7 +610,7 @@ e) gli attestati rilasciati dalle autorita' competenti della Repubblica Federale
 
 > d) in capo agli amministratori, ai direttori generali, ai dirigenti muniti di rappresentanza e ai soci accomandatari: assenza di condanne penali, anche non definitive, ivi comprese le sanzioni sostitutive di cui alla legge 24 novembre 1981, n. 689, per delitti contro il patrimonio, per delitti contro la fede pubblica o contro l'economia pubblica, per il delitto previsto dall'art. 416-bis del codice penale, o per delitti non colposi per i quali la legge commini la pena della reclusione non inferiore nel massimo a tre anni, per delitti o contravvenzioni previsti da leggi dirette alla prevenzione degli infortuni sul lavoro o, in ogni caso, previsti da leggi in materia di lavoro o di previdenza sociale; assenza, altresi', di sottoposizione alle misure di prevenzione disposte ai sensi della legge 27 dicembre 1956, n. 1423, o della legge 31 maggio 1965, n. 575, o della legge 13 settembre 1982, n. 646, e successive modificazioni".
 
-#### Art 18 - Esecuzione della sentenza della Corte di giustizia delle Comunita' europee del 7 marzo 2002, nella causa C-145/99
+### Art 18 - Esecuzione della sentenza della Corte di giustizia delle Comunita' europee del 7 marzo 2002, nella causa C-145/99
 
 1\. L'articolo 2, secondo comma, della legge 9 febbraio 1982, n. 31, in materia di libera prestazione di servizi da parte di avvocati cittadini degli Stati membri delle Comunita' europee, e' abrogato.
 
@@ -648,7 +644,7 @@ e) gli attestati rilasciati dalle autorita' competenti della Repubblica Federale
 
 > Non possono conseguire l'iscrizione nell'albo o nel registro dei praticanti coloro che abbiano riportato una delle condanne o delle pene accessorie o si trovino sottoposti ad una delle misure di sicurezza che, a norma dell'art. 42, darebbero luogo alla radiazione dall'albo e coloro che abbiano svolto una pubblica attivita' contraria agli interessi della Nazione."
 
-#### Art 19
+### Art 19
 
 Delega al Governo per l'attuazione della direttiva 2002/39/CE del
 
@@ -678,7 +674,7 @@ f) assicurare il mantenimento delle prestazioni del servizio universale a livell
 
 > \- La direttiva 97/67/CE e' pubblicata nella G.U.C.E. 21 gennaio 1998, n. L 15.
 
-#### Art 20 - Delega al Governo per la modifica della legge 23 luglio 1991, n. 223, recante norme in materia di cassa integrazione, mobilita', trattamenti di disoccupazione, attuazione di direttive della Comunita' europea, avviamento al lavoro ed altre disposizioni in materia di mercato del lavoro, in relazione alla causa C-32/02
+### Art 20 - Delega al Governo per la modifica della legge 23 luglio 1991, n. 223, recante norme in materia di cassa integrazione, mobilita', trattamenti di disoccupazione, attuazione di direttive della Comunita' europea, avviamento al lavoro ed altre disposizioni in materia di mercato del lavoro, in relazione alla causa C-32/02
 
 1\. Il Governo e' delegato ad adottare, su proposta del Ministro per le politiche comunitarie e del Ministro del lavoro e delle politiche sociali, entro dodici mesi dalla data di entrata in vigore della presente legge, un decreto legislativo per la completa attuazione della direttiva 98/59/CE del Consiglio, del 20 luglio 1998, concernente il ravvicinamento delle legislazioni degli Stati membri in materia di licenziamenti collettivi, apportando alla legge 23 luglio 1991, n. 223, le modifiche necessarie per adeguarne l'ambito soggettivo di applicazione ai vincoli comunitari.
 
@@ -690,7 +686,7 @@ f) assicurare il mantenimento delle prestazioni del servizio universale a livell
 
 > \- La direttiva 98/59/CE e' pubblicata nella G.U.C.E. 12 agosto 1998 n. L 225.
 
-#### Art 21 - Modifiche al decreto legislativo 26 novembre 1999, n. 532, e alla legge 19 gennaio 1955, n. 25, in materia di lavoro notturno
+### Art 21 - Modifiche al decreto legislativo 26 novembre 1999, n. 532, e alla legge 19 gennaio 1955, n. 25, in materia di lavoro notturno
 
 1\. All'articolo 4, comma 1, del decreto legislativo 26 novembre 1999, n. 532, e' aggiunto, in fine, il seguente periodo: "E' fatto salvo quanto previsto dall'articolo 10 della legge 19 gennaio 1955, n. 25".
 
@@ -716,7 +712,7 @@ f) assicurare il mantenimento delle prestazioni del servizio universale a livell
 
 > E' in ogni caso vietato il lavoro fra le ore 22 e le ore 6 ad eccezione di quello svolto dagli apprendisti di eta' superiore ai 18 anni nell'ambito delle aziende artigianali di pianificazione e di pasticceria, delle aziende del comparto turistico e dei pubblici esercizi".
 
-#### Art 22
+### Art 22
 
 Delega al Governo per l'attuazione delle direttive 2001/107/CE
 
@@ -748,7 +744,7 @@ g) concedere un periodo massimo di sessanta mesi dalla data del 13 febbraio 2002
 
 4\. Dall'attuazione delle disposizioni di cui al presente articolo non devono derivare nuovi o maggiori oneri per la finanza pubblica.
 
-#### Art 23 - Attuazione della raccomandazione 2001/331/CE del Parlamento europeo e del Consiglio, del 4 aprile 2001, che stabilisce i criteri minimi per le ispezioni ambientali
+### Art 23 - Attuazione della raccomandazione 2001/331/CE del Parlamento europeo e del Consiglio, del 4 aprile 2001, che stabilisce i criteri minimi per le ispezioni ambientali
 
 1\. Per dare completa attuazione alla raccomandazione 2001/331/CE del Parlamento europeo e del Consiglio, del 4 aprile 2001, che stabilisce i criteri minimi per le ispezioni ambientali, il Governo e' autorizzato ad adottare apposito regolamento, ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, che preveda in particolare:
 
@@ -770,7 +766,7 @@ d) l'introduzione di una banca dati relativa alle ispezioni effettuate facilment
 
 > "2. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il Consiglio di Stato, sono emanati i regolamenti per la disciplina delle materie, non coperte da riserva assoluta di legge prevista dalla Costituzione, per le quali le leggi della Repubblica, autorizzando l'esercizio della potesta' regolamentare del Governo, determinano le norme generali regolatrici della materia e dispongono l'abrogazione delle norme vigenti, con effetto dall'entrata in vigore delle norme regolamentari".
 
-#### Art 24 - Modifica all'articolo 50 del decreto legislativo 30 aprile 1992, n. 285, recante nuovo codice della strada
+### Art 24 - Modifica all'articolo 50 del decreto legislativo 30 aprile 1992, n. 285, recante nuovo codice della strada
 
 1\. All'articolo 50 del decreto legislativo 30 aprile 1992, n. 285, il comma 1 e' sostituito dal seguente:
 
@@ -786,7 +782,7 @@ d) l'introduzione di una banca dati relativa alle ispezioni effettuate facilment
 
 > 2\. I velocipedi non possono superare 1,30 m di larghezza, 3 m di lunghezza e 2,20 m di altezza".
 
-#### Art 25 - Modifica all'articolo 207 del decreto legislativo 30 aprile 1992, n. 285, recante nuovo codice della strada, in esecuzione della sentenza della Corte di giustizia delle Comunita' europee del 19 marzo 2002, nella causa C-224/00
+### Art 25 - Modifica all'articolo 207 del decreto legislativo 30 aprile 1992, n. 285, recante nuovo codice della strada, in esecuzione della sentenza della Corte di giustizia delle Comunita' europee del 19 marzo 2002, nella causa C-224/00
 
 1\. Dopo il comma 2 dell'articolo 207 del decreto legislativo 30 aprile 1992, n. 285, e' inserito il seguente:
 
@@ -806,7 +802,7 @@ d) l'introduzione di una banca dati relativa alle ispezioni effettuate facilment
 
 > 4\. Le disposizioni del presente articolo non si applicano ai veicoli di proprieta' dci cittadini italiani residenti nel comune di Campione d'Italia".
 
-#### Art 26 - Modifica all'articolo 1 della legge 24 marzo 2001, n. 127
+### Art 26 - Modifica all'articolo 1 della legge 24 marzo 2001, n. 127
 
 1\. All'articolo 1, comma 4, della legge 24 marzo 2001, n. 127, le parole: "Il Governo emana, entro dodici mesi" sono sostituite dalle seguenti: "Il Governo, al fine di consentire il previo recepimento della direttiva 2002/58/CE del Parlamento europeo e del Consiglio, del 12 luglio 2002, relativa al trattamento dei dati personali, emana, entro diciotto mesi".
 
@@ -818,7 +814,7 @@ d) l'introduzione di una banca dati relativa alle ispezioni effettuate facilment
 
 > \- La direttiva 2002/58/CE e' pubblicata nella G.U.C.E. 31 luglio 2002, n. L 201.
 
-#### Art 27 - Modifica all'articolo 13 del decreto legislativo 2 maggio 1994, n. 319
+### Art 27 - Modifica all'articolo 13 del decreto legislativo 2 maggio 1994, n. 319
 
 1\. All'articolo 13, comma 1, del decreto legislativo 2 maggio 1994, n. 319, dopo la lettera f) e' inserita la seguente:
 
@@ -848,7 +844,7 @@ d) l'introduzione di una banca dati relativa alle ispezioni effettuate facilment
 
 > g) il Ministero del lavoro e della previdenza sociale, di concerto con il Ministero della pubblica istruzione, in ogni altro caso".
 
-#### Art 28 - Modifiche al decreto legislativo 27 gennaio 1992, n. 111, concernente i prodotti alimentari destinati ad una alimentazione particolare
+### Art 28 - Modifiche al decreto legislativo 27 gennaio 1992, n. 111, concernente i prodotti alimentari destinati ad una alimentazione particolare
 
 1\. Al decreto legislativo 27 gennaio 1992, n. 111, sono apportate le seguenti modificazioni:
 
@@ -902,7 +898,7 @@ d) all'articolo 15, il comma 3 e' abrogato.
 
 > 5\. Salvo che il fatto costituisca reato chiunque contravvenga alle disposizioni di cui all'art. 10, commi 1 e 5, e' punito con la sanzione amministrativa pecuniaria consistente nel pagamento di una somma da lire 3 milioni a lire 12 milioni".
 
-#### Art 29 - Attuazione della direttiva 2001/24/CE del Parlamento europeo e del Consiglio, del 4 aprile 2001, in materia di risanamento e liquidazione degli enti creditizi
+### Art 29 - Attuazione della direttiva 2001/24/CE del Parlamento europeo e del Consiglio, del 4 aprile 2001, in materia di risanamento e liquidazione degli enti creditizi
 
 1\. Ai fini del recepimento della direttiva 2001/24/CE del Parlamento europeo e del Consiglio, del 4 aprile 2001, in materia di risanamento e liquidazione degli enti creditizi, il termine di cui all'articolo 1, comma 1, della legge 1º marzo 2002, n. 39, e' prorogato di un anno.
 
@@ -938,7 +934,7 @@ e) prevedere, ai fini di quanto previsto alla lettera a) e per assicurare organi
 
 > \- Il decreto legislativo 8 giugno 2001, n. 231, reca "Disciplina della responsabilita' amministrativa delle persone giuridiche, delle societa' e delle associazioni anche prive di personalita' giuridica, a norma dell'art. 11 della legge 29 settembre 2000, n. 300".
 
-#### Art 30
+### Art 30
 
 Attuazione della direttiva 2001/65/CE del Parlamento europeo e del
 
@@ -966,7 +962,7 @@ altre istituzioni finanziarie
 
 > \- Per la legge 1 marzo 2002, n. 39 vedi note all'art. 29.
 
-#### Art 31 - Delega al Governo per l'attuazione della direttiva 2002/47/CE del Parlamento europeo e del Consiglio, del 6 giugno 2002, relativa ai contratti di garanzia finanziaria
+### Art 31 - Delega al Governo per l'attuazione della direttiva 2002/47/CE del Parlamento europeo e del Consiglio, del 6 giugno 2002, relativa ai contratti di garanzia finanziaria
 
 1\. Il Governo, su proposta del Ministro dell'economia e delle finanze, e' delegato ad adottare, entro il termine di cui all'articolo 1, comma 1, uno o piu' decreti legislativi recanti le norme per l'attuazione della direttiva 2002/47/CE del Parlamento europeo e del Consiglio, del 6 giugno 2002, relativa ai contratti di garanzia finanziaria.
 
@@ -996,11 +992,9 @@ Visto, il Guardasigilli: Castelli
 
 > \- La direttiva 2002/47/CE e' pubblicata nella G.U.C.E. 27 giugno 2002, n. L 168.
 
-## Capo II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO,
+## Capo II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO, CRITERI SPECIFICI DI DELEGA LEGISLATIVA
 
-### CRITERI SPECIFICI DI DELEGA LEGISLATIVA
-
-#### Allegato A
+### Allegato A
 
 Allegato A
 
@@ -1094,7 +1088,7 @@ Allegato A
 
 > \- La direttiva 2002/68/CE e' pubblicata nella G.U.C.E. 24 luglio 2002, n. L 195.
 
-#### Allegato B
+### Allegato B
 
 Allegato B
 

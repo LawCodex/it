@@ -84,7 +84,7 @@ il seguente decreto legislativo:
 
 ## Capo I - Principi fondamentali
 
-#### Art. 1
+### Art. 1
 
 Principi e finalita'
 
@@ -400,7 +400,7 @@ Principi e finalita'
 
 > \- Il decreto del Ministro dei beni e delle attivita' culturali e del turismo 23 dicembre 2014, recante «Organizzazione e funzionamento dei musei statali», e' pubblicato nella Gazzetta Ufficiale 10 marzo 2015, n. 57.
 
-#### Art. 2
+### Art. 2
 
 Promozione dell'arte e della cultura umanistica
 
@@ -410,7 +410,7 @@ nel sistema scolastico
 
 2\. La progettualita' delle istituzioni scolastiche, espressa nel Piano triennale dell'offerta formativa, si realizza mediante percorsi curricolari, anche in verticale, in alternanza scuola-lavoro o con specifiche iniziative extrascolastiche, e puo' essere programmata in rete con altre scuole e attuata con la collaborazione di istituti e luoghi della cultura, nonche' di enti locali e di altri soggetti pubblici e privati, ivi inclusi i soggetti del terzo settore operanti in ambito artistico e musicale.
 
-#### Art. 3
+### Art. 3
 
 I «temi della creativita'»
 
@@ -424,11 +424,9 @@ c) artistico-visivo, tramite la conoscenza della storia dell'arte e la pratica d
 
 d) linguistico-creativo, tramite il rafforzamento delle competenze logico-linguistiche e argomentative e la conoscenza e la pratica della scrittura creativa, della poesia e di altre forme simili di espressione, della lingua italiana, delle sue radici classiche, delle lingue e dei dialetti parlati in Italia.
 
-## Capo II - Organizzazione per la promozione della cultura umanistica, della
+## Capo II - Organizzazione per la promozione della cultura umanistica, della conoscenza del patrimonio artistico e della creativita'
 
-### conoscenza del patrimonio artistico e della creativita'
-
-#### Art. 4
+### Art. 4
 
 Sistema coordinato per la promozione dei «temi della creativita'» nel sistema nazionale di istruzione e formazione
 
@@ -436,7 +434,7 @@ Sistema coordinato per la promozione dei «temi della creativita'» nel sistema 
 
 2\. Fanno parte del sistema di cui al comma 1 anche altri soggetti pubblici e privati, in particolare quelli del terzo settore operanti in ambito artistico e musicale, specificatamente accreditati dal Ministero dell'istruzione, dell'universita' e della ricerca e dal Ministero dei beni e delle attivita' culturali e del turismo. Con decreto del Ministro dell'istruzione, dell'universita' e della ricerca, di concerto con il Ministro dei beni e delle attivita' culturali e del turismo, adottato entro centottanta giorni dalla data di entrata in vigore del presente decreto, sono definiti i requisiti per l'accreditamento.
 
-#### Art. 5
+### Art. 5
 
 Piano delle arti
 
@@ -462,7 +460,7 @@ h) agevolazioni per la fruizione, da parte delle alunne e degli alunni e delle s
 
 i) incentivazione di tirocini e stage artistici di studentesse e studenti all'estero e promozione internazionale di giovani talenti, attraverso progetti e scambi tra istituzioni formative artistiche italiane e straniere, con particolare riferimento ai licei musicali, coreutici e artistici.
 
-#### Art. 6
+### Art. 6
 
 Collaborazione con INDIRE
 
@@ -478,7 +476,7 @@ Collaborazione con INDIRE
 
 5\) diffusione delle buone pratiche piu' efficaci al fine del conseguimento, da parte delle studentesse e degli studenti, di abilita', conoscenze e competenze relative ai temi della creativita'.
 
-#### Art. 7
+### Art. 7
 
 Reti di scuole
 
@@ -504,7 +502,7 @@ g) attivazione di percorsi comuni per ampliare l'utilizzo delle tecnologie, del 
 
 > «56. Al fine di sviluppare e di migliorare le competenze digitali degli studenti e di rendere la tecnologia digitale uno strumento didattico di costruzione delle competenze in generale, il Ministero dell'istruzione, dell'universita' e della ricerca adotta il Piano nazionale per la scuola digitale, in sinergia con la programmazione europea e regionale e con il Progetto strategico nazionale per la banda ultralarga.».
 
-#### Art. 8
+### Art. 8
 
 Sistema formativo delle arti e competenze
 
@@ -526,7 +524,7 @@ del personale docente
 
 ## Capo III - Promozione dell'arte nel primo ciclo
 
-#### Art. 9
+### Art. 9
 
 Promozione della pratica artistica e musicale
 
@@ -540,7 +538,7 @@ nella scuola dell'infanzia e nella scuola primaria
 
 > \- Per il testo dei commi 20 e 85 della legge n. 107 del 2015, si veda nelle note all'art. 8.
 
-#### Art. 10
+### Art. 10
 
 Promozione della pratica artistica e musicale
 
@@ -552,7 +550,7 @@ nella scuola secondaria di primo grado
 
 3\. Allo sviluppo dei temi della creativita' e il potenziamento della pratica musicale sono destinati i docenti facenti parte dell'organico dell'autonomia e del contingente di cui all'articolo 17, comma 3.
 
-#### Art. 11
+### Art. 11
 
 Poli a orientamento artistico e performativo
 
@@ -574,7 +572,7 @@ d) i criteri per la valutazione delle attivita' espletate dalle istituzioni scol
 
 5\. Le istituzioni scolastiche costituite in poli sono destinatarie di specifiche misure finanziarie per lo sviluppo dei temi della creativita', previste dal Piano delle arti di cui all'articolo 5, nei limiti della dotazione finanziaria del Fondo di cui all'articolo 17 del presente decreto.
 
-#### Art. 12
+### Art. 12
 
 Scuole secondarie di primo grado
 
@@ -592,11 +590,9 @@ b) gli orari;
 
 c) i criteri per il monitoraggio dei percorsi a indirizzo musicale.
 
-## Capo IV - Promozione dell'arte nel secondo ciclo ed armonizzazione dei percorsi
+## Capo IV - Promozione dell'arte nel secondo ciclo ed armonizzazione dei percorsi formativi della filiera artistico-musicale
 
-### formativi della filiera artistico-musicale
-
-#### Art. 13
+### Art. 13
 
 Promozione della pratica artistica e musicale
 
@@ -610,7 +606,7 @@ nella scuola secondaria di secondo grado
 
 4\. Allo sviluppo dei temi della creativita' e il potenziamento della pratica artistica e musicale sono destinati i docenti facenti parte del contingente di cui all'articolo 17, comma 3.
 
-#### Art. 14
+### Art. 14
 
 Licei musicali, coreutici e artistici
 
@@ -640,7 +636,7 @@ Licei musicali, coreutici e artistici
 
 > 5\. Le disposizioni del presente articolo si applicano anche alle Accademie gia' abilitate a rilasciare titoli secondo il previgente ordinamento didattico.».
 
-#### Art. 15
+### Art. 15
 
 Armonizzazione dei percorsi formativi
 
@@ -728,7 +724,7 @@ Le studentesse e gli studenti, gia' iscritti ai corsi di formazione musicale e c
 
 ## Capo V - Disposizioni finali
 
-#### Art. 16
+### Art. 16
 
 Abrogazioni e disposizioni transitorie
 
@@ -792,7 +788,7 @@ Abrogazioni e disposizioni transitorie
 
 > c) al comma 5, secondo periodo, le parole: "il 40 per cento" sono sostituite dalle seguenti: "il 50 per cento".».
 
-#### Art. 17
+### Art. 17
 
 Copertura finanziaria e fabbisogno di organico
 

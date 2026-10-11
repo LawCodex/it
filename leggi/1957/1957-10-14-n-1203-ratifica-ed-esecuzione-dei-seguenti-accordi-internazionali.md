@@ -75,7 +75,7 @@ ZOLI - PELLA - TAMBRONI - GONELLA - ANDREOTTI - MEDICI - MORO - COLOMBO - ANGELI
 
 Visto, il Guardasigilli: GONELLA
 
-## TITOLO PRIMO - COMPITI DELLA COMUNITA'
+### TITOLO PRIMO - COMPITI DELLA COMUNITA'
 
 TRATTATO CHE ISTITUISCE LA COMUNITA' EUROPEA DELL'ENERGIA ATOMICA (EURATOM)
 
@@ -171,9 +171,9 @@ Ciascuna istituzione agisce nei limiti delle attribuzioni che le sono conferite 
 
 2\. Il Consiglio e la Commissione sono assistiti da un Comitato economico e Sociale che svolge funzioni consultive.
 
-## TITOLO SECONDO - DISPOSIZIONI INTESE A FAVORIRE IL PROGRESSO NEL CAMPO DELL'ENERGIA NUCLEARE
+### TITOLO SECONDO - DISPOSIZIONI INTESE A FAVORIRE IL PROGRESSO NEL CAMPO DELL'ENERGIA NUCLEARE
 
-### CAPO I - SVILUPPO DELLE RICERCHE
+#### CAPO I - SVILUPPO DELLE RICERCHE
 
 ###### Art. 4
 
@@ -249,9 +249,9 @@ La Commissione puo' affidare per contratto l'esecuzione di determinate parti del
 
 La Commissione pubblica i programmi di ricerche contemplati dagli articoli 7, 8 e 10, nonche' relazioni periodiche sullo stato di avanzamento dei lavori relativi alla loro esecuzione.
 
-## CAPO II - DIFFUSIONE DELLE COGNIZIONI
+#### CAPO II - DIFFUSIONE DELLE COGNIZIONI
 
-### SEZIONE I - Cognizioni di cui la Comunita' ha la disponibilita'
+##### SEZIONE I - Cognizioni di cui la Comunita' ha la disponibilita'
 
 ###### Art. 12
 
@@ -271,9 +271,7 @@ Tuttavia, la Commissione puo' subordinare la comunicazione di tali cognizioni al
 
 La Commissione non puo' comunicare le cognizioni acquisite con riserva di restrizioni relative al loro uso e diffusione - come nel caso delle cognizioni cosiddette classificate - se non assicurando l'osservanza delle restrizioni stesse.
 
-## SEZIONE II - Altre cognizioni
-
-### a) Diffusione mediante trattative private
+##### SEZIONE II - Altre cognizioni a) Diffusione mediante trattative private
 
 ###### Art. 14
 
@@ -391,7 +389,7 @@ Trascorso il termine di un anno e sempreche' nuove circostanze lo giustifichino,
 
 La revisione spetta all'organo da cui emana la decisione.
 
-## SEZIONE III - Disposizioni relative al segreto
+##### SEZIONE III - Disposizioni relative al segreto
 
 ###### Art. 24
 
@@ -457,7 +455,7 @@ Qualora piu' Stati membri abbiano provocato, sia l'inasprimento o il prolungamen
 
 La Comunita' non puo' pretendere alcun indennizzo a mente del presente articolo.
 
-## SEZIONE IV - Disposizioni particolari
+##### SEZIONE IV - Disposizioni particolari
 
 ###### Art. 28
 
@@ -471,7 +469,7 @@ Qualsiasi accordo o contratto avente per oggetto uno scambio di cognizioni scien
 
 Tuttavia, la Commissione puo' autorizzare uno Stato membro, una persona o un'impresa a concludere accordi di tale natura, alle condizioni che essa giudica appropriate, fatta salva l'applicazione del disposto degli articoli 103 e 104.
 
-## CAPO III - PROTEZIONE SANITARIA
+#### CAPO III - PROTEZIONE SANITARIA
 
 ###### Art. 30
 
@@ -543,7 +541,7 @@ La Commissione crea nell'ambito del Centro comune di ricerche nucleari, e non ap
 
 Tale sezione ha in particolare l'incarico di raccogliere la documentazione e le informazioni di cui agli articoli 33, 37 e 38, e di assistere la Commissione nell'esecuzione dei compiti che le sono affidati a norma del presente capo.
 
-## CAPO IV - INVESTIMENTI
+#### CAPO IV - INVESTIMENTI
 
 ###### Art. 40
 
@@ -573,7 +571,7 @@ Essa comunica il suo punto di vista allo Stato membro interessato.
 
 Con l'accordo degli Stati membri, delle persone e delle imprese interessate, la Commissione puo' pubblicare i progetti d'investimenti che le sono comunicati.
 
-## CAPO V - IMPRESE COMUNI
+#### CAPO V - IMPRESE COMUNI
 
 ###### Art. 45
 
@@ -645,7 +643,7 @@ Tuttavia, tali modificazioni non possono entrare in vigore che dopo approvazione
 
 La Commissione provvede all'esecuzione di tutte le decisioni del Consiglio relative alla costituzione delle Imprese comuni fino all'insediamento degli organi incaricati del loro funzionamento.
 
-## CAPO VI - APPROVVIGIONAMENTO
+#### CAPO VI - APPROVVIGIONAMENTO
 
 ###### Art. 52
 
@@ -659,7 +657,7 @@ b) e' costituita un'Agenzia che dispone di un diritto d'opzione sui minerali, ma
 
 L'Agenzia non puo' operare tra gli utilizzatori alcuna discriminazione fondata sull'uso che questi si propongono di fare delle forniture richieste, salvo che tale uso sia illecito o si riveli contrario alle condizioni poste dai fornitori esterni alla Comunita' per la consegna di cui trattasi.
 
-## SEZIONE I - L'Agenzia
+##### SEZIONE I - L'Agenzia
 
 ###### Art. 53
 
@@ -689,7 +687,7 @@ Gli Stati membri garantiscono il libero esercizio delle funzioni dell'Agenzia su
 
 Essi possono costituire l'organismo o gli organismi competenti a rappresentare, nelle relazioni con l'Agenzia, i produttori e gli utilizzatori dei territori non europei sottoposti alla loro giurisdizione.
 
-## SEZIONE II - Minerali, materie grezze e materie fissili speciali provenienti dalla Comunita'
+##### SEZIONE II - Minerali, materie grezze e materie fissili speciali provenienti dalla Comunita'
 
 ###### Art. 57
 
@@ -761,7 +759,7 @@ c) sia per essere messe a disposizione, nei limiti del loro fabbisogno, di impre
 
 I minerali, materie grezze o materie fissili speciali prodotte dalle Imprese comuni sono assegnati agli utilizzatori secondo le norme statuarie o convenzionali in vigore per tali Imprese.
 
-## SEZIONE III - Minerali, materie grezze e materie fissili speciali non provenienti dalla Comunita'.
+##### SEZIONE III - Minerali, materie grezze e materie fissili speciali non provenienti dalla Comunita'.
 
 ###### Art. 64
 
@@ -781,7 +779,7 @@ Tale diritto e' accordato per un anno, con possibilita' di rinnovazione qualora 
 
 Gli utilizzatori che si avvalgono del diritto previsto dal presente articolo sono tenuti a comunicare alla Commissione i contratti diretti in progetto. Questa puo', nel termine di un mese, opporsi alla loro conclusione quando siano in contrasto con gli obbiettivi del presente Trattato.
 
-## SEZIONE IV - Prezzi
+##### SEZIONE IV - Prezzi
 
 ###### Art. 67
 
@@ -801,7 +799,7 @@ Il Consiglio, deliberando all'unanimita' su proposta della Commissione, puo' fis
 
 Quando l'Agenzia, in applicazione dell'art. 60, stabilisce le condizioni alle quali le ordinazioni possono essere soddisfatte, ha facolta' di proporre una perequazione di prezzi agli utilizzatori che hanno effettuato ordinazioni.
 
-## SEZIONE V - Disposizioni relative alla politica di approvvigionamento
+##### SEZIONE V - Disposizioni relative alla politica di approvvigionamento
 
 ###### Art. 70
 
@@ -823,7 +821,7 @@ L'Agenzia puo' costituire, in base alle disponibilita' esistenti all'interno o a
 
 La Commissione puo' decidere l'eventuale costituzione di scorte di sicurezza. Le modalita' di finanziamento di tali scorte sono approvate dal Consiglio, che delibera a maggioranza qualificata su proposta della Commissione.
 
-## SEZIONE VI - Disposizioni particolari
+##### SEZIONE VI - Disposizioni particolari
 
 ###### Art. 73
 
@@ -857,7 +855,7 @@ Le disposizioni del presente capo, specie quando circostanze impreviste venisser
 
 Allo scadere di un periodo di sette anni a decorrere dall'entrata in vigore del Trattato, il Consiglio puo' confermare l'insieme di tali disposizioni. In caso di mancata conferma, nuove disposizioni relative all'oggetto del presente capo sono stabilite conformemente alla procedura definita dal comma precedente.
 
-## CAPO VII - CONTROLLO DI SICUREZZA
+#### CAPO VII - CONTROLLO DI SICUREZZA
 
 ###### Art. 77
 
@@ -945,7 +943,7 @@ Il controllo non puo' estendersi alle materie destinate alle necessita' della di
 
 Qualora nuove circostanze lo richiedano, le modalita' di applicazione del controllo previste dal presente capo possono subire degli adattamenti su iniziativa di uno Stato membro o della Commissione, ad opera del Consiglio, che delibera all'unanimita' su proposta della Commissione e previa consultazione dell'Assemblea. La Commissione e' tenuta ad istruire qualsiasi domanda formulata da uno Stato membro.
 
-## CAPO VIII - REGIME DELLA PROPRIETA'
+#### CAPO VIII - REGIME DELLA PROPRIETA'
 
 ###### Art. 86
 
@@ -983,7 +981,7 @@ Qualora nuove circostanze lo richiedessero, le disposizioni del presente capo re
 
 Il regime di proprieta' applicabile a tutti gli oggetti, materie e beni nei confronti dei quali non sussista un diritto di proprieta' della Comunita', a mente del presente capo, e' determinato dalla legislazione dei singoli Stati membri.
 
-## CAPO IX - MERCATO COMUNE NUCLEARE
+#### CAPO IX - MERCATO COMUNE NUCLEARE
 
 ###### Art. 92
 
@@ -1039,7 +1037,7 @@ La Commissione puo' formulare tutte le raccomandazioni intese a facilitare il mo
 
 Ogni Stato membro s'impegna ad autorizzare che i pagamenti concernenti gli scambi di merci, di servizi e di capitali siano effettuati nella moneta dello Stato membro nel quale risiede il creditore o il beneficiario; s'impegna altresi' ad autorizzare i trasferimenti di capitali e di salari, nella misura in cui la circolazione delle merci, dei servizi, dei capitali e delle persone e' liberalizzata fra gli Stati membri in applicazione del presente Trattato.
 
-## CAPO X - RELAZIONI CON L'ESTERNO
+#### CAPO X - RELAZIONI CON L'ESTERNO
 
 ###### Art. 101
 
@@ -1081,11 +1079,11 @@ Gli stati membri che, anteriormente all'entrata in vigore del presente Trattato,
 
 Ogni nuovo accordo risultante da tali trattative richiede il consenso dello Stato o degli Stati membri, firmatari degli accordi summenzionati, e l'approvazione del Consiglio che delibera a maggioranza qualificata.
 
-## TITOLO TERZO - DISPOSIZIONI ISTITUZIONALI
+### TITOLO TERZO - DISPOSIZIONI ISTITUZIONALI
 
-### CAPO I - LE ISTITUZIONI DELLA COMUNITA'
+#### CAPO I - LE ISTITUZIONI DELLA COMUNITA'
 
-#### SEZIONE I - L'Assemblea
+##### SEZIONE I - L'Assemblea
 
 ###### Art. 107
 
@@ -1141,7 +1139,7 @@ L'Assemblea, cui sia presentata una mozione di censura sull'operato della Commis
 
 Se la mozione di censura e' approvata a maggioranza di due terzi dei voti espressi e a maggioranza dei membri che compongono l'Assemblea, i membri della Commissione devono abbandonare collettivamente le loro funzioni. Essi continuano a curare gli affari di ordinaria amministrazione fino alla loro sostituzione conformemente all'art. 127.
 
-## SEZIONE II - Il Consiglio
+##### SEZIONE II - Il Consiglio
 
 ###### Art. 115
 
@@ -1199,7 +1197,7 @@ Il Consiglio puo' chiedere alla Commissione di procedere a tutti gli studi che e
 
 Il Consiglio, deliberando a maggioranza qualificata, fissa gli stipendi, indennita' e pensioni del presidente e dei membri della Commissione, del presidente, dei giudici, degli avvocati generali e del cancelliere della Corte di giustizia. Esso fissa altresi', sempre a maggioranza qualificata, tutte le indennita' sostitutive di retribuzione.
 
-## SEZIONE III - La Commissione
+##### SEZIONE III - La Commissione
 
 ###### Art. 124
 
@@ -1295,7 +1293,7 @@ Il Comitato scientifico e tecnico designa tra i suoi membri ogni anno il preside
 
 La Commissione puo' procedere a tutte le consultazioni e istituire tutti i Comitati di studi necessari all'adempimento della sua missione.
 
-## SEZIONE IV - La Corte di giustizia
+##### SEZIONE IV - La Corte di giustizia
 
 ###### Art. 136
 
@@ -1461,7 +1459,7 @@ Lo Statuto della Corte di giustizia e' stabilito con un Protocollo separato.
 
 La Corte di giustizia stabilisce il proprio regolamento di procedura. Tale regolamento e' sottoposto all'approvazione unanime del Consiglio.
 
-## CAPO II - DISPOSIZIONI COMUNI A PIU' ISTITUZIONI
+#### CAPO II - DISPOSIZIONI COMUNI A PIU' ISTITUZIONI
 
 ###### Art. 161
 
@@ -1493,7 +1491,7 @@ Assolte tali formalita' a richiesta dell'interessato, quest'ultimo puo' ottenere
 
 L'esecuzione forzata puo' essere sospesa soltanto in virtu' di una decisione della Corte di giustizia. Tuttavia, il controllo della regolarita' dei provvedimenti esecutivi e' di competenza delle giurisdizioni nazionali.
 
-## CAPO III - IL COMITATO ECONOMICO E SOCIALE
+#### CAPO III - IL COMITATO ECONOMICO E SOCIALE
 
 ###### Art. 165
 
@@ -1547,7 +1545,7 @@ Quando lo reputino necessario, il Consiglio o la Commissione fissano al Comitato
 
 Il parere del Comitato e il parere della sezione specializzata sono trasmessi al Consiglio e alla Commissione, unitamente a un resoconto delle deliberazioni.
 
-## TITOLO QUARTO - DISPOSIZIONI FINANZIARIE
+### TITOLO QUARTO - DISPOSIZIONI FINANZIARIE
 
 ###### Art. 171
 
@@ -1719,7 +1717,7 @@ Il programma e' approvato dal Consiglio, che delibera a maggioranza qualificata,
 
 Il Consiglio, deliberando all'unanimita' su proposta della Commissione, a) stabilisce i regolamenti finanziari che specificano in particolare le modalita' relative all'elaborazione ed esecuzione dei bilanci, ivi compreso quello dell'Agenzia e al rendimento e alla verifica dei conti, b) fissa le modalita' e la procedura secondo le quali i contributi degli Stati membri devono essere messi a disposizione della Commissione, e determina le norme ed organizza il controllo della responsabilita' degli ordinatori e contabili.
 
-## TITOLO QUINTO - DISPOSIZIONI GENERALI
+### TITOLO QUINTO - DISPOSIZIONI GENERALI
 
 ###### Art. 184
 
@@ -1871,9 +1869,9 @@ I protocolli che, di comune accordo tra gli Stati membri, saranno allegati al pr
 
 Il presente Trattato e' concluso per una durata illimitata.
 
-## TITOLO SESTO - DISPOSIZIONI RELATIVE AL PERIODO INIZIALE
+### TITOLO SESTO - DISPOSIZIONI RELATIVE AL PERIODO INIZIALE
 
-### SEZIONE I - Insediamento delle Istituzioni
+##### SEZIONE I - Insediamento delle Istituzioni
 
 ###### Art. 209
 
@@ -1917,7 +1915,7 @@ Non appena entrata in funzione, la Commissione procede agli studi e istituisce i
 
 Ogni istituzione esamina unitamente al Consiglio le questioni relative al numero, alla retribuzione e alla ripartizione degli impieghi.
 
-## SEZIONE II - Prime disposizioni per l'applicazione del Trattato
+##### SEZIONE II - Prime disposizioni per l'applicazione del Trattato
 
 ###### Art. 215
 
@@ -1947,7 +1945,7 @@ Le disposizioni legislative, regolamentari e amministrative destinate ad assicur
 
 Le proposte della Commissione relative allo statuto dell'Agenzia contemplato dall'art. 54 sono presentate al Consiglio nel termine di tre mesi dall'entrata in vigore del Trattato.
 
-## SEZIONE III - Disposizioni applicabili a titolo transitorio
+##### SEZIONE III - Disposizioni applicabili a titolo transitorio
 
 ###### Art. 221
 
@@ -2763,9 +2761,9 @@ Nello stabilire tali disposizioni, la Commissione prende in considerazione le no
 
 Gli Stati membri adottano tutte le disposizioni atte a consentire ai governi l'esecuzione, nei termini stabiliti, degli obblighi loro incombenti in materia di dazi doganali in virtu' del presente Trattato.
 
-## CAPO I - UNIONE DOGANALE
+#### CAPO I - UNIONE DOGANALE
 
-### SEZIONE PRIMA - Abolizione dei dazi doganali fra gli Stati membri
+##### SEZIONE PRIMA - Abolizione dei dazi doganali fra gli Stati membri
 
 ###### Art. 12
 
@@ -2835,7 +2833,7 @@ Tali dazi sono abbassati, ad ogni stadio di riduzione, di almeno il 10% dei dazi
 
 4\. Quando la Commissione constata che la sostituzione di un dazio doganale di carattere fiscale incontra in uno Stato membro gravi difficolta', essa autorizza lo Stato in questione a mantenere tale dazio, sempreche' lo Stato lo abolisca al piu' tardi entro sei anni dall'entrata in vigore del presente Trattato. L'autorizzazione deve essere richiesta entro la fine del primo anno a decorrere dall'entrata in vigore del Trattato.
 
-## SEZIONE SECONDA - Fissazione della tariffa doganale comune
+##### SEZIONE SECONDA - Fissazione della tariffa doganale comune
 
 ###### Art. 18
 
@@ -2949,9 +2947,7 @@ c) alla necessita' di approvvigionamento della Comunita' in materie prime e semi
 
 d) alla necessita' di evitare gravi turbamenti nella vita economica degli Stati membri e di assicurare uno sviluppo razionale della produzione e una espansione del consumo nella Comunita'.
 
-## CAPO II - ABOLIZIONE
-
-### DELLE RESTITUZIONI QUANTITATIVE TRA GLI STATI MEMBRI
+#### CAPO II - ABOLIZIONE DELLE RESTITUZIONI QUANTITATIVE TRA GLI STATI MEMBRI
 
 ###### Art. 30
 
@@ -3031,7 +3027,7 @@ Qualora un prodotto non sia soggetto che in un solo Stato membro o in piu' Stati
 
 6\. La Commissione formula, fin dalla prima tappa, raccomandazioni in merito alle modalita' e al ritmo da seguire nell'attuazione del riordinamento di cui al presente articolo.
 
-## TITOLO II - AGRICOLTURA
+### TITOLO II - AGRICOLTURA
 
 ###### Art. 38
 
@@ -3195,9 +3191,9 @@ La Commissione fissa l'ammontare di tali tasse nella misura necessaria a ristabi
 
 Per quanto attiene alle funzioni che il Comitato economico e sociale deve svolgere in applicazione del presente titolo, la sezione dell'agricoltura e' incaricata di tenersi a disposizione della Commissione per preparare le deliberazioni del Comitato conformemente alle disposizioni degli articoli 197 e 198.
 
-## TITOLO III - LIBERA CIRCOLAZIONE DELLE PERSONE, DEI SERVIZI E DEI CAPITALI
+### TITOLO III - LIBERA CIRCOLAZIONE DELLE PERSONE, DEI SERVIZI E DEI CAPITALI
 
-### CAPO I - I LAVORATORI
+#### CAPO I - I LAVORATORI
 
 ###### Art. 48
 
@@ -3241,7 +3237,7 @@ a) il cumulo di tutti i periodi presi in considerazione dalle varie legislazioni
 
 b) il pagamento delle prestazioni alle persone residenti nei territori degli Stati membri.
 
-## CAPO II - IL DIRITTO DI STABILIMENTO
+#### CAPO II - IL DIRITTO DI STABILIMENTO
 
 ###### Art. 52
 
@@ -3309,7 +3305,7 @@ Le societa' costituite conformemente alla legislazione di uno Stato membro e ave
 
 Per societa' si intendono le societa' di diritto civile o di diritto commerciale, ivi comprese le societa' cooperative, e le altre persone giuridiche contemplate dal diritto pubblico o privato, ad eccezione delle societa' che non si prefiggono scopi di lucro.
 
-## CAPO III - SERVIZI
+#### CAPO III - SERVIZI
 
 ###### Art. 59
 
@@ -3369,7 +3365,7 @@ Fino a quando non saranno soppresse le restrizioni alla libera prestazione dei s
 
 Le disposizioni degli articoli da 55 a 58 inclusi sono applicabili alla materia regolata dal presente capo.
 
-## CAPO IV - I CAPITALI
+#### CAPO IV - I CAPITALI
 
 ###### Art. 67
 
@@ -3417,7 +3413,7 @@ L'autorizzazione puo' essere revocata e le condizioni e modalita' modificate dal
 
 2\. Tuttavia, lo Stato membro che si trova in difficolta' puo' adottare direttamente le misure summenzionate quando queste siano necessarie in ragione del carattere di segretezza o urgenza che rivestono. La Commissione e gli Stati membri ne devono essere informati al piu' tardi al momento dell'entrata in vigore delle misure stesse. In tal caso, la Commissione, previa consultazione del Comitato monetario, puo' decidere che lo Stato interessato deve modificare o sopprimere le misure di cui trattasi.
 
-## TITOLO IV - I TRASPORTI
+### TITOLO IV - I TRASPORTI
 
 ###### Art. 74
 
@@ -3577,7 +3573,7 @@ Fino al momento dell'entrata in vigore delle disposizioni adottate in applicazio
 
 3\. La Commissione vigila sull'applicazione delle disposizioni del presente articolo rivolgendo, ove occorra, agli Stati membri, opportune direttive o decisioni.
 
-## SEZIONE II - Pratiche di dumping
+##### SEZIONE II - Pratiche di dumping
 
 ###### Art. 91
 
@@ -3589,7 +3585,7 @@ Quando le pratiche di dumping continuino a sussistere, la Commissione autorizza 
 
 La Commissione stabilisce le disposizioni regolamentari opportune ai fini dell'applicazione del presente paragrafo.
 
-## SEZIONE III - Aiuti concessi dagli Stati
+##### SEZIONE III - Aiuti concessi dagli Stati
 
 ###### Art. 92
 
@@ -3633,7 +3629,7 @@ Tuttavia, se il Consiglio non si e' pronunciato entro tre mesi dalla data della 
 
 Il Consiglio, con deliberazione a maggioranza qualificata su proposta della Commissione, puo' stabilire tutti i regolamenti utili ai fini dell'applicazione degli articoli 92 e 93 e fissare in particolare le condizioni per l'applicazione dell'art. 93, paragrafo 3, nonche' le categorie di aiuti che sono dispensate da tale procedura.
 
-## CAPO II - DISPOSIZIONI FISCALI
+#### CAPO II - DISPOSIZIONI FISCALI
 
 ###### Art. 95
 
@@ -3663,7 +3659,7 @@ La Commissione esamina in qual modo sia possibile armonizzare, nell'interesse de
 
 La Commissione sottopone proposte al Consiglio che delibera all'unanimita', fatte salve le disposizioni degli articoli 100 e 101.
 
-## CAPO III - RAVVICINAMENTO DELLE LEGISLAZIONI
+#### CAPO III - RAVVICINAMENTO DELLE LEGISLAZIONI
 
 ###### Art. 100
 
@@ -3683,9 +3679,9 @@ Se attraverso tale consultazione non si raggiunge un accordo che elimini la dist
 
 2\. Se lo Stato che vuole emanare o modificare disposizioni nazionali non si conforma alla raccomandazione rivoltagli dalla Commissione, non si potra' richiedere agli altri Stati membri, nell'applicazione dell'art. 101, di modificare le loro disposizioni nazionali per eliminare tale distorsione. Se lo Stato membro che ha trascurato la raccomandazione della Commissione provoca una distorsione unicamente a suo detrimento, non sono applicabili le disposizioni dell'art. 101.
 
-## TITOLO II - POLITICA ECONOMICA
+### TITOLO II - POLITICA ECONOMICA
 
-### CAPO I - POLITICA DI CONGIUNTURA
+#### CAPO I - POLITICA DI CONGIUNTURA
 
 ###### Art. 103
 
@@ -3697,7 +3693,7 @@ Se attraverso tale consultazione non si raggiunge un accordo che elimini la dist
 
 4\. Le procedure previste dal presente articolo sono altresi' applicabili in caso di difficolta' sopravvenute nell'approvvigionamento di determinati prodotti.
 
-## CAPO II - LA BILANCIA DEI PAGAMENTI
+#### CAPO II - LA BILANCIA DEI PAGAMENTI
 
 ###### Art. 104
 
@@ -3767,7 +3763,7 @@ Tale autorizzazione puo' essere revocata e le condizioni e modalita' modificate 
 
 Su parere della Commissione e previa consultazione del Comitato monetario, il Consiglio puo', deliberando a maggioranza qualificata, decidere che lo Stato interessato debba modificare, sospendere o abolire le suddette misure di salvaguardia.
 
-## CAPO III - POLITICA COMMERCIALE
+#### CAPO III - POLITICA COMMERCIALE
 
 ###### Art. 110
 
@@ -3833,9 +3829,9 @@ Per tutte le questioni che rivestono un interesse particolare per il mercato com
 
 Durante il periodo transitorio, gli Stati membri si consultano per concentrare la loro azione e adottare, per quanto possibile, un atteggiamento uniforme.
 
-## TITOLO III - POLITICA SOCIALE
+### TITOLO III - POLITICA SOCIALE
 
-### CAPO I - DISPOSIZIONI SOCIALI
+#### CAPO I - DISPOSIZIONI SOCIALI
 
 ###### Art. 117
 
@@ -3889,7 +3885,7 @@ La Commissione dedica, nella sua relazione annuale all'Assemblea, un capitolo sp
 
 L'Assemblea puo' invitare la Commissione a elaborare delle relazioni su problemi particolari concernenti la situazione sociale.
 
-## CAPO II - IL FONDO SOCIALE EUROPEO
+#### CAPO II - IL FONDO SOCIALE EUROPEO
 
 ###### Art. 123
 
@@ -3943,7 +3939,7 @@ Su proposta della Commissione e previa consultazione del Comitato economico e so
 
 Su proposta della Commissione e previa consultazione del Comitato economico e sociale, il Consiglio fissa i principi generali per l'attuazione di una politica comune di formazione professionale che possa contribuire allo sviluppo armonioso sia delle economie nazionali sia del mercato comune.
 
-## TITOLO IV - LA BANCA EUROPEA PER GLI INVESTIMENTI
+### TITOLO IV - LA BANCA EUROPEA PER GLI INVESTIMENTI
 
 ###### Art. 129
 
@@ -4077,7 +4073,7 @@ L'Assemblea, cui sia presentata una mozione di censura sull'operato della Commis
 
 Se la mozione di censura e' approvata a maggioranza di due terzi dei voti espressi e a maggioranza dei membri che compongono l'Assemblea, i membri della Commissione devono abbandonare collettivamente le loro funzioni. Essi continuano a curare gli affari di ordinaria amministrazione fino alla loro sostituzione conformemente all'art. 158.
 
-## SEZIONE SECONDA - Il Consiglio
+##### SEZIONE SECONDA - Il Consiglio
 
 ###### Art. 145
 
@@ -4137,7 +4133,7 @@ Il Consiglio stabilisce; previo parere della Commissione, lo statuto dei comitat
 
 Il Consiglio, deliberando a maggioranza qualificata, fissa gli stipendi, indennita' e pensioni del presidente e dei membri della Commissione, del presidente, dei giudici, degli avvocati generali e del cancelliere della Corte di giustizia. Esso fissa altresi', sempre a maggioranza qualificata, tutte le indennita' sostitutive di retribuzione.
 
-## SEZIONE TERZA - La Commissione
+##### SEZIONE TERZA - La Commissione
 
 ###### Art. 155
 
@@ -4215,7 +4211,7 @@ Le deliberazioni della Commissione sono prese a maggioranza del numero dei suoi 
 
 La Commissione puo' tenere una seduta valida solo se e' presente il numero di membri stabilito nel suo regolamento interno.
 
-## SEZIONE QUARTA - La Corte di giustizia
+##### SEZIONE QUARTA - La Corte di giustizia
 
 ###### Art. 164
 
@@ -4379,7 +4375,7 @@ Lo Statuto della Corte di giustizia e' stabilito con un Protocollo separato.
 
 La Corte di giustizia stabilisce il proprio regolamento di procedura. Tale regolamento e' sottoposto all'approvazione unanime del Consiglio.
 
-## CAPO II - DISPOSIZIONI COMUNI A PIU' ISTITUZIONI
+#### CAPO II - DISPOSIZIONI COMUNI A PIU' ISTITUZIONI
 
 ###### Art. 189
 
@@ -4413,7 +4409,7 @@ Assolte tali formalita' a richiesta dell'interessato, quest'ultimo puo' ottenere
 
 L'esecuzione forzata puo' essere sospesa soltanto in virtu' di una decisione della Corte di giustizia. Tuttavia, il controllo della regolarita' dei provvedimenti esecutivi e' di competenza delle giurisdizioni nazionali.
 
-## CAPO III - IL COMITATO ECONOMICO E SOCIALE
+#### CAPO III - IL COMITATO ECONOMICO E SOCIALE
 
 ###### Art. 193
 
@@ -4467,7 +4463,7 @@ Quando lo reputino necessario, il Consiglio o la Commissione fissano al Comitato
 
 Il parere del Comitato e il parere della sezione specializzata sono trasmessi al Consiglio e alla Commissione, unitamente a un resoconto delle deliberazioni.
 
-## TITOLO II - DISPOSIZIONI FINANZIARIE
+### TITOLO II - DISPOSIZIONI FINANZIARIE
 
 ###### Art. 199
 
@@ -6217,7 +6213,7 @@ Il Ministro per gli affari esteri
 
 PELLA
 
-## SEZIONE I - L'ASSEMBLEA
+##### SEZIONE I - L'ASSEMBLEA
 
 CONVENZIONE RELATIVA A TALUNE ISTITUZIONI COMUNI
 
@@ -6305,7 +6301,7 @@ l'elezione a suffragio universale diretto, secondo una procedura uniforme in tut
 
 Il Consiglio, deliberando all'umanita', stabilira' le disposizioni di cui raccomandera' l'adozione da parte degli Stati membri, conformemente alle loro rispettivo norme costituzionali".
 
-## SEZIONE II - LA CORTE DI GIUSTIZIA
+##### SEZIONE II - LA CORTE DI GIUSTIZIA
 
 ###### Art. 3
 
@@ -6377,7 +6373,7 @@ b) le disposizioni del Protocollo sullo Statuto della Corte di
 
 giustizia allegato al Trattato che istituisce la Comunita' europea del carbone e dell'acciaio sono abrogate limitatamente alle disposizioni in esso contenute che siano contrarie agli articoli da 32 a 32-quater inclusi di questo Trattato.
 
-## SEZIONE III - IL COMITATO ECONOMICO E SOCIALE
+##### SEZIONE III - IL COMITATO ECONOMICO E SOCIALE
 
 ###### Art. 5
 
@@ -6395,7 +6391,7 @@ precedente deve comprendere una sezione specializzata, e puo' annoverare sottoco
 
 istituisce la Comunita' economica europea sono applicabili al Comitato economico e sociale unico di cui al paragrafo 1.
 
-## SEZIONE IV - IL FINANZIAMENTO DI TALI ISTITUZIONI
+##### SEZIONE IV - IL FINANZIAMENTO DI TALI ISTITUZIONI
 
 ###### Art. 6
 

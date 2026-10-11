@@ -25,15 +25,15 @@ PROMULGA
 
 la seguente legge:
 
-###### Art. 1
+##### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la terza convenzione tra la Commissione e il Consiglio delle Comunita' europee e gli Stati membri delle stesse, da una parte, e gli Stati ACP, dall'altra, con otto protocolli, atto finale e cinquantaquattro allegati, firmati a Lome' l'8 dicembre 1984, nonche' l'accordo interno relativo ai provvedimenti da prendere e alle procedure da seguire per l'applicazione della predetta terza convenzione e l'accordo interno sul finanziamento e la gestione degli aiuti comunitari, firmati a Bruxelles il 19 febbraio 1985.
 
-###### Art. 2
+##### Art. 2
 
 Piena ed intera esecuzione e' data agli atti di cui all'articolo precedente a decorrere dalla loro entrata in vigore in conformita' a quanto disposto dall'articolo 286 della convenzione, dall'articolo 8 del primo accordo interno e dall'articolo 31 del secondo accordo interno.
 
-###### Art. 3
+##### Art. 3
 
 1\. Ai fini dell'esecuzione degli obblighi finanziari a carico dell'Italia, derivanti dall'applicazione della presente legge, e' autorizzata la complessiva spesa del controvalore in lire di 943.800.000 unita' di conto europee (ECU), valutato in lire 1.320 miliardi.
 
@@ -47,7 +47,7 @@ Piena ed intera esecuzione e' data agli atti di cui all'articolo precedente a de
 
 6\. La procedura di cui sopra e' applicabile ai versamenti di contributi richiesti a titolo di precedenti FES dopo la pubblicazione della presente legge.
 
-###### Art. 4
+##### Art. 4
 
 La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
@@ -65,11 +65,9 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 ## PRIMA PARTE - FONDAMENTI DELLA COOPERAZIONE ACP-CEE
 
-### Capitolo 1
+### Capitolo 1 - Obiettivi e principi della cooperazione
 
-#### Obiettivi e principi della cooperazione
-
-###### art. 1
+##### art. 1
 
 TERZA CONVENZIONE ACP-CEE FIRMATA A LOME' L'8 DICEMBRE 1984
 
@@ -815,7 +813,7 @@ Le parti contraenti affermano in tal modo il loro impegno a proseguire, rafforza
 
 Le parti contraenti esprimono la loro volonta' di intensificare gli sforzi per creare, nella prospettiva di un ordine economico internazionale piu' giusto ed equilibrato, un modello di relazioni tra Stati sviluppati e Stati in sviluppo e per agire insieme per affermare sul piano internazionale i principi su cui si fonda la loro cooperazione.
 
-###### ARTICOLO 2
+##### ARTICOLO 2
 
 La cooperazione ACP-CEE, basata su un regime di diritto e sull'esistenza di istituzioni congiunte, si esercita in base ai seguenti principi fondamentali:
 
@@ -825,25 +823,25 @@ La cooperazione ACP-CEE, basata su un regime di diritto e sull'esistenza di isti
 
 \- sicurezza delle loro relazioni fondate sull'"acquis" del loro sistema di cooperazione.
 
-###### ARTICOLO 3
+##### ARTICOLO 3
 
 Gli Stati ACP determinano sovranamente i principi, le strategie e i modelli di sviluppo delle loro economie e delle loro societa'.
 
-###### ARTICOLO 4
+##### ARTICOLO 4
 
 La cooperazione ACP-CEE sostiene gli sforzi degli Stati ACP per uno sviluppo piu' autonomo e autogestito, fondato sui loro valori sociali e culturali, le loro capacita' umane, le loro risorse naturali ed il loro potenziale economico, allo scopo di promuovere il progresso sociale ed economico degli Stati ACP e il benessere delle loro popolazioni mediante il soddisfacimento delle loro esigenze fondamentali, il riconoscimento del ruolo della donna e la libera esplicazione delle capacita' umane nel rispetto della loro dignita'.
 
-###### ARTICOLO 5
+##### ARTICOLO 5
 
 Nella prospettiva di uno sviluppo economico piu' equilibrato ed autonomo degli Stati ACP, nel quadro della presente convenzione sono consacrati sforzi particolari per promuovere lo sviluppo rurale; la sicurezza alimentare delle popolazioni, il ripristino ed il rafforzamento del potenziale di produzione agricola degli Stati ACP.
 
-###### ARTICOLO 6
+##### ARTICOLO 6
 
 Per rafforzare l'autonomia collettiva degli Stati ACP, la presente convenzione sostiene gli sforzi degli Stati ACP per organizzarsi regionalmente ed intensificare la loro cooperazione a livello regionale e interregionale.
 
 In quest'ambito, la cooperazione annette particolare interesse alla realizzazione delle azioni che maggiormente si prestano ad una dimensione regionale e comportano uno sforzo di lunga durata.
 
-###### ARTICOLO 7
+##### ARTICOLO 7
 
 Le parti contraenti riconoscono la necessita' di accordare un trattamento particolare agli Stati ACP meno sviluppati, e di tener conto delle difficolta' specifiche alle quali devono far fronte gli Stati ACP senza sbocco sul mare e insulari. Esse accordano un'attenzione particolare al miglioramento delle condizioni di vita degli strati piu' svantaggiati delle popolazioni.
 
@@ -851,13 +849,13 @@ La cooperazione comporta segnatamente un trattamento particolare nella determina
 
 Per gli Stati ACP senza sbocco sul mare e insulari gli obiettivi della cooperazione mirano a definire e stimolare azioni specifiche intese a risolvere i problemi di sviluppo posti dalle loro situazioni geografiche.
 
-###### ARTICOLO 8
+##### ARTICOLO 8
 
 Per migliorare l'efficacia degli strumenti della presente convenzione, le parti contraenti adottano, nell'ambito delle rispettive competenze, orientamenti, priorita' e misure che favoriscano la realizzazione degli obiettivi fissati nella presente convenzione ed un'attuazione coerente dell'assistenza finanziaria e tecnica e degli altri strumenti della cooperazione.
 
 A tal fine esse convengono di proseguire, in particolare nell'ambito delle istituzioni congiunte, il dialogo per la ricerca delle vie e dei mezzi atti a rendere sempre piu' efficace l'intervento di tali strumenti.
 
-###### ARTICOLO 9
+##### ARTICOLO 9
 
 Nell'ambito delle rispettive competenze, le istituzioni della convenzione esaminano periodicamente i risultati dell'applicazione della stessa, danno gli impulsi necessari e prendono tutte le decisioni e misure utili al conseguimento degli obiettivi della presente convenzione.
 
@@ -867,25 +865,25 @@ Nell'ambito del Consiglio dei Ministri si procede a consultazioni, su richiesta 
 
 Quando, nell'ambito delle proprie competenze, la Comunita' prevede di prendere una misura che potrebbe incidere, nel quadro degli obiettivi della presente convenzione, sugli interessi degli Stati ACP, essa ne informa questi ultimi. All'occorrenza, l'iniziativa dello scambio di informazioni puo' essere presa anche dagli Stati ACP. Su richiesta di tali Stati, si procede tempestivamente a consultazioni, in modo che si possa tener conto delle loro preoccupazioni prima della decisione definitiva.
 
-## Capitolo 2 - Obiettivi e orientamenti della convenzione nei principali settori della cooperazione
+### Capitolo 2 - Obiettivi e orientamenti della convenzione nei principali settori della cooperazione
 
-###### ARTICOLO 10
+##### ARTICOLO 10
 
 La cooperazione mira ad appoggiare uno sviluppo degli Stati ACP incentrato sull'uomo e radicato nella cultura di ciascun popolo. Essa sostiene le politiche e misure prese da questi Stati per valorizzare le loro risorse umane, aumentare le loro capacita' di creazione e promuovere le loro identita' culturali. Essa favorisce la partecipazione delle popolazioni alla concezione ed all'attuazione dello sviluppo.
 
 La cooperazione tiene conto, nei vari settori e nelle varie fasi delle azioni intraprese, della dimensione culturale e delle implicazioni sociali di dette azioni.
 
-###### ARTICOLO 11
+##### ARTICOLO 11
 
 Nel contesto degli sforzi per la protezione dell'ambiente ed il ripristino degli equilibri naturali, la cooperazione contribuisce in particolare alla lotta contro la siccita' e la desertificazione e intraprende altre azioni tematiche a tal fine.
 
-###### ARTICOLO 12
+##### ARTICOLO 12
 
 La cooperazione agricola mira in primo luogo a ricercare l'autosufficienza e la sicurezza alimentari degli Stati ACP, lo sviluppo e l'organizzazione del sistema produttivo, il miglioramento del tenore e delle condizioni di vita nonche' del quadro ambientale delle popolazioni rurali e lo sviluppo equilibrato delle zone rurali.
 
 Le azioni in questo settore sono concepite e attuate a sostegno delle politiche o strategie agro-alimentari definite dagli Stati ACP.
 
-###### ARTICOLO 13
+##### ARTICOLO 13
 
 La cooperazione nel settore delle miniere e dell'energia mira a promuovere ed a accelerare, nel reciproco interesse, uno sviluppo economico diversificato che usufruisca pienamente del potenziale umano e delle risorse naturali degli Stati ACP, a favorire una migliore integrazione di tali settori e di altri e la loro complementarita' con il resto dell'economia.
 
@@ -895,19 +893,19 @@ Essa sostiene gli sforzi degli Stati ACP per elaborare ed attuare politiche ener
 
 Essa mira a contribuire ad un miglior sfruttamento delle risorse energetiche e minerarie e tiene conto degli aspetti energetici dello sviluppo dei diversi settori economici e sociali, contribuendo in tal modo al miglioramento delle condizioni di vita e di ambiente ed a una migliore conservazione delle risorse della biomassa, in particolare quella del legname combustibile.
 
-###### ARTICOLO 14
+##### ARTICOLO 14
 
 Le parti contraenti, riconoscendo la funzione essenziale che l'industria svolge come motore dello sviluppo economico e sociale, sono decise ad assicurare negli Stati ACP uno sviluppo equilibrato ed autonomo basato sulle priorita' stabilite da questi medesimi Stati.
 
 Esse convengono di favorire lo sviluppo industriale negli Stati ACP al fine di potenziare i loro sforzi volti a promuovere la loro autonomia collettiva e ad accrescere la loro parte nel commercio mondiale.
 
-###### ARTICOLO 15
+##### ARTICOLO 15
 
 La cooperazione nel settore della pesca ha lo scopo di aiutare gli Stati ACP a valorizzare le loro risorse ittiche al fine di aumentare la produzione destinata al consumo interno, nel contesto degli sforzi intesi ad accrescere la loro sicurezza alimentare e la produzione destinata all'esportazione. Essa e' concepita nel reciproco interesse delle parti contraenti e nel rispetto delle loro politiche della pesca.
 
-## Capitolo 3 - Principi applicabili agli strumenti della cooperazione
+### Capitolo 3 - Principi applicabili agli strumenti della cooperazione
 
-###### ARTICOLO 16
+##### ARTICOLO 16
 
 Per il conseguimento degli obiettivi della presente convenzione, le parti contraenti ricorrono a strumenti di cooperazione che rispondano ai principi di solidarieta' e di mutuo interesse e che sono adattati alla situazione economica e sociale degli Stati ACP e della Comunita', nonche' all'evoluzione del loro ambiente internazionale.
 
@@ -921,7 +919,7 @@ Tali strumenti sono principalmente diretti, grazie al rinforzamento dei meccanis
 
 \- a rimediare all'instabilita' dei proventi d'esportazione dei prodotti agricoli di base degli Stati ACP e ad aiutare questi ultimi a far fronte a gravi perturbazioni del loro settore minerario.
 
-###### ARTICOLO 17
+##### ARTICOLO 17
 
 Allo scopo di promuovere e diversificare gli scambi commerciali tra le parti contraenti, la Comunita' e gli Stati ACP convengono:
 
@@ -933,7 +931,7 @@ Allo scopo di promuovere e diversificare gli scambi commerciali tra le parti con
 
 \- un sistema di reciproca informazione e consultazione che assicuri l'applicazione efficace delle disposizioni della presente convenzione nel settore della cooperazione commerciale.
 
-###### ARTICOLO 18
+##### ARTICOLO 18
 
 Il regime generale degli scambi, basato sugli obblighi internazionali delle parti contraenti, ha lo scopo di fornire una base sicura e solida per la cooperazione commerciale tra gli Stati ACP e la Comunita'.
 
@@ -943,19 +941,19 @@ In considerazione delle attuali necessita' di sviluppo degli Stati ACP, esso non
 
 Esso si basa anche sui principi della non discriminazione tra Stati membri da parte degli Stati ACP e dell'attribuzione alla Comunita' di un trattamento non meno favorevole del regime della nazione piu' favorita.
 
-###### ARTICOLO 19
+##### ARTICOLO 19
 
 La Comunita' contribuisce allo sforzo di sviluppo degli Stati ACP con un apporto di risorse finanziarie sufficienti ed un'assistenza tecnica appropriata, miranti a rafforzare le capacita' di detti Stati in materia di sviluppo economico, sociale e culturale, autogestito ed integrato, ed a contribuire al miglioramento del tenore di vita ed al benessere delle loro popolazioni.
 
 Tale contributo e' effettuato su base prevedibile e regolare. Esso e' accordato alle condizioni piu' liberali possibili per la Comunita'. Esso tiene particolarmente conto della situazione degli Stati ACP meno sviluppati.
 
-###### ARTICOLO 20
+##### ARTICOLO 20
 
 Le parti contraenti convengono di facilitare un maggiore e piu' stabile flusso di risorse del settore privato verso gli Stati ACP, prendendo misure atte a migliorare l'accesso di questi ultimi ai mercati dei capitali ed a favorire gli investimenti privati europei negli Stati ACP.
 
 Le parti contraenti sottolineano la necessita' di offrire a tali investimenti condizioni di trattamento eque e stabili.
 
-###### ARTICOLO 21
+##### ARTICOLO 21
 
 Data la situazione di estrema dipendenza dalle esportazioni di prodotti di base agricoli in cui si trovano le economie di una grande maggioranza degli Stati ACP, le parti contraenti convengono di rivolgere particolare attenzione alla loro cooperazione in questo settore, al fine di sostenere le politiche o strategie definite dagli Stati ACP, per risanare e migliorare le condizioni di produzione e di commercializzazione e la trasformazione locale.
 
@@ -963,13 +961,13 @@ Le parti contraenti convengono inoltre di confermare l'importanza del sistema di
 
 Dato il ruolo del settore minerario nello sforzo di sviluppo di numerosi Stati ACP e data la reciproca dipendenza in questo settore, le parti contraenti confermano l'importanza del sistema d'aiuto agli Stati ACP che sono confrontati a perturbazioni gravi in questo settore, per ristabilirne la vitalita' e per rimediare alle conseguenze di queste perturbazioni sul loro sviluppo.
 
-## Capitolo 4 - Istituzioni
+### Capitolo 4 - Istituzioni
 
-###### ARTICOLO 22
+##### ARTICOLO 22
 
 Le istituzioni della presente convenzione sono il Consiglio dei Ministri, il Comitato degli Ambasciatori e l'Assemblea paritetica.
 
-###### ARTICOLO 23
+##### ARTICOLO 23
 
 1\. Il Consiglio dei Ministri e' composto, da un lato, dai membri del Consiglio delle Comunita' europee e da membri della Commissione delle Comunita' europee, e, dall'altro, da un membro del governo di ciascuno Stato ACP.
 
@@ -991,7 +989,7 @@ g) esaminare, a richiesta d'una delle parti contraenti, qualsiasi problema che p
 
 h) prendere tutte le disposizioni per stabilire costanti contatti tra gli ambienti economici e sociali della Comunita' e degli Stati ACP e organizzare consultazioni regolari con i loro rappresentanti su temi di interesse reciproco, data l'importanza, riconosciuta dalle parti contraenti, che riveste l'instaurazione di un vero dialogo tra tali ambienti e l'ottenimento del loro contributo allo sforzo di cooperazione e sviluppo.
 
-###### ARTICOLO 24
+##### ARTICOLO 24
 
 1\. Il Comitato degli Ambasciatori e' composto, da un lato, dal Rappresentante Permanente di ogni Stato membro presso le Comunita' europee e da un rappresentante della Commissione e, dall'altra, dal Capo della missione di ciascuno Stato ACP presso le Comunita' europee.
 
@@ -999,7 +997,7 @@ h) prendere tutte le disposizioni per stabilire costanti contatti tra gli ambien
 
 Esso segue l'applicazione della presente convenzione ed i progressi compiuti nel conseguimento degli obiettivi in essa definiti.
 
-###### ARTICOLO 25
+##### ARTICOLO 25
 
 1\. L'Assemblea paritetica e' composta in numero uguale, da un lato, da membri del Parlamento europeo, per la Comunita', e, dall'altro, da parlamentari o, in mancanza, da rappresentanti designati dagli Stati ACP, per questi ultimi.
 
@@ -1019,13 +1017,11 @@ b) L'Assemblea paritetica organizza regolarmente contatti e consultazioni con i 
 
 ## SECONDA PARTE - I SETTORI DELLA COOPERAZIONE ACP-CEE
 
-### TITOLO I
+## TITOLO I - SVILUPPO AGRICOLO E RURALE, CONSERVAZIONE DELLE RISORSE NATURALI
 
-#### SVILUPPO AGRICOLO E RURALE, CONSERVAZIONE DELLE RISORSE NATURALI
+### Capitolo 1 - Cooperazione agricola e sicurezza alimentare
 
-##### Capitolo 1 - Cooperazione agricola e sicurezza alimentare
-
-###### ARTICOLO 26
+##### ARTICOLO 26
 
 La cooperazione nel settore agricolo e rurale, cioe' l'agricoltura, l'allevamento, la pesca e la silvicoltura, si prefigge in particolare di:
 
@@ -1053,7 +1049,7 @@ La cooperazione nel settore agricolo e rurale, cioe' l'agricoltura, l'allevament
 
 \- preservare, nell'ambito degli obiettivi precitati, l'ambiente naturale, in particolare con azioni specifiche di lotta contro la siccita' e la desertificazione.
 
-###### ARTICOLO 27
+##### ARTICOLO 27
 
 1\. Le azioni che permettono di conseguire gli obiettivi di cui all'articolo 26 devono assumere forme per quanto possibile diverse e concrete, sul piano sia nazionale che regionale e interregionale.
 
@@ -1061,7 +1057,7 @@ La cooperazione nel settore agricolo e rurale, cioe' l'agricoltura, l'allevament
 
 3\. La cooperazione agricola sostiene tali politiche e strategie conformemente alle disposizioni della presente convenzione.
 
-###### ARTICOLO 28
+##### ARTICOLO 28
 
 1\. Lo sviluppo della produzione passa attraverso l'intensificazione delle produzioni vegetali e animali e implica:
 
@@ -1085,7 +1081,7 @@ La cooperazione nel settore agricolo e rurale, cioe' l'agricoltura, l'allevament
 
 \- l'incoraggiamento di tutte le politiche e misure di incentivazione a favore dei produttori, adeguate alle condizioni locali, per una maggiore produttivita' e per migliori redditi degli agricoltori.
 
-###### ARTICOLO 29
+##### ARTICOLO 29
 
 Per valorizzare le produzioni, la cooperazione agricola contribuisce a garantire:
 
@@ -1101,7 +1097,7 @@ Per valorizzare le produzioni, la cooperazione agricola contribuisce a garantire
 
 \- la trasformazione, il condizionamento e la commercializzazione dei prodotti mediante, in particolare, lo sviluppo di unita' artigianali e agroindustriali per adattarli all'evoluzione del mercato.
 
-###### ARTICOLO 30
+##### ARTICOLO 30
 
 Le azioni di promozione del mondo rurale riguardano:
 
@@ -1113,7 +1109,7 @@ Le azioni di promozione del mondo rurale riguardano:
 
 \- il miglioramento delle condizioni di formazione dei formatori a tutti i livelli.
 
-###### ARTICOLO 31
+##### ARTICOLO 31
 
 La cooperazione nel settore della ricerca agricola contribuisce:
 
@@ -1125,7 +1121,7 @@ La cooperazione nel settore della ricerca agricola contribuisce:
 
 \- a divulgare i risultati di tale ricerca presso il maggior numero possibile di utilizzatori.
 
-###### ARTICOLO 32
+##### ARTICOLO 32
 
 Le azioni di cooperazione agricola vengono eseguite secondo le modalita' e procedure fissate per la cooperazione finanziaria e tecnica ed in questo ambito esse possono riguardare anche:
 
@@ -1147,7 +1143,7 @@ Le azioni di cooperazione agricola vengono eseguite secondo le modalita' e proce
 
 \- sostegno all'associazione di mezzi industriali e di capacita' professionali negli Stati ACP e nella Comunita', nell'ambito di unita' artigianali o industriali per la fabbricazione di inputs e di materiali, per la manutenzione, il condizionamento, l'immagazzinamento, il trasporto, la trasformazione dei prodotti, ecc.
 
-###### ARTICOLO 33
+##### ARTICOLO 33
 
 1\. Le azioni della Comunita' a favore della sicurezza alimentare degli Stati ACP sono realizzate nell'ambito delle strategie o delle politiche alimentari degli Stati ACP interessati e degli obiettivi di sviluppo che essi definiscono.
 
@@ -1155,7 +1151,7 @@ Esse sono realizzate, in coordinamento con gli strumenti della presente convenzi
 
 2\. In questo contesto puo' essere attuata una programmazione pluriennale indicativa con gli Stati ACP che lo desiderino, per consentire una migliore prevedibilita' del loro approvvigionamento alimentare.
 
-###### ARTICOLO 34
+##### ARTICOLO 34
 
 1\. Per quanto riguarda i prodotti agricoli disponibili, la Comunita' si impegna a garantire la possibilita' di fissare anticipatamente, a piu' lungo termine, restituzioni all'esportazione verso tutti gli Stati ACP e per una gamma di prodotti definita tenendo conto del fabbisogno alimentare indicato da tali Stati.
 
@@ -1163,7 +1159,7 @@ Detta fissazione anticipata puo' avere la durata di un anno ed e' applicata ogni
 
 2\. Possono essere conclusi accordi specifici con gli Stati ACP che ne facciano richiesta nell'ambito della loro politica in materia di sicurezza alimentare.
 
-###### ARTICOLO 35
+##### ARTICOLO 35
 
 1\. Le azioni di aiuto alimentare sono decise secondo le norme e i criteri di assegnazione stabiliti dalla Comunita' per tutti i beneficiari di questo tipo di aiuto.
 
@@ -1181,7 +1177,7 @@ e) i prodotti forniti devono soddisfare in modo prioritario le necessita' dei be
 
 f) se la situazione alimentare di uno Stato ACP beneficiario evolve in modo tale da rendere auspicabile la sostituzione degli aiuti alimentari in toto o in parte con azioni rivolte a consolidare l'evoluzione in atto, si possono realizzare azioni sostitutive in forma di aiuti finanziari e tecnici conformemente alla normativa comunitaria in materia. Tali azioni sono decise a richiesta dello Stato ACP interessato.
 
-###### ARTICOLO 36
+##### ARTICOLO 36
 
 Nell'attuazione delle disposizioni del presente capitolo viene rivolta particolare attenzione, a richiesta degli Stati interessati:
 
@@ -1191,7 +1187,7 @@ Nell'attuazione delle disposizioni del presente capitolo viene rivolta particola
 
 \- alla diversificazione delle produzioni agricole di base e al miglioramento della sicurezza alimentare degli Stati ACP insulari.
 
-###### ARTICOLO 37
+##### ARTICOLO 37
 
 1\. Il Centro tecnico per la cooperazione agricola e rurale e' a disposizione degli Stati ACP per consentire loro un migliore accesso all'informazione, alla ricerca, alla formazione e alle innovazioni nei settori dello sviluppo e della volgarizzazione agricoli e rurali.
 
@@ -1233,9 +1229,9 @@ c) Il direttore del Centro rende conto delle attivita' del Centro al Comitato de
 
 b) I membri del Comitato consultivo sono nominati dal Comitato degli Ambasciatori secondo le procedure e i criteri da questo stabiliti.
 
-## Capitolo 2 - Lotta contro la siccita' e la desertificazione
+### Capitolo 2 - Lotta contro la siccita' e la desertificazione
 
-###### ARTICOLO 38
+##### ARTICOLO 38
 
 1\. Gli Stati ACP e la Comunita' riconoscono che l'esistenza fisica, economica e politica di taluni Stati ACP e' minacciata da una siccita' endemica e da una sempre maggiore desertificazione, che annullano tutti gli sforzi di sviluppo, in particolare l'obiettivo prioritario dell'autosufficienza e della sicurezza alimentare.
 
@@ -1243,11 +1239,11 @@ b) I membri del Comitato consultivo sono nominati dal Comitato degli Ambasciator
 
 3\. Lo stesso vale, a piu' o meno breve scadenza, per gli Stati limitrofi delle zone colpite, per i quali tale fenomeno rappresenta una minaccia reale per il loro fragile equilibrio socioecologico.
 
-###### ARTICOLO 39
+##### ARTICOLO 39
 
 Le due parti riconoscono che l'arresto della degradazione del patrimonio fondiario e forestale, il ripristino degli equilibri ecologici, la salvaguardia e lo sfruttamento razionale delle risorse naturali costituiscono, tra l'altro, obiettivi fondamentali che gli Stati ACP interessati si sforzano di conseguire con l'appoggio della Comunita', soprattutto per migliorare le condizioni di vita delle loro popolazioni.
 
-###### ARTICOLO 40
+##### ARTICOLO 40
 
 1\. L'ampiezza nello spazio e nel tempo del fenomeno e l'entita' dei mezzi da porre in atto fanno si' che le azioni da realizzare rientrino nell'ambito di politiche globali di lunga durata, ideate ed attuate dagli Stati ACP sul piano nazionale, regionale e internazionale nel contesto di uno sforzo di solidarieta' internazionale.
 
@@ -1255,7 +1251,7 @@ Le due parti riconoscono che l'arresto della degradazione del patrimonio fondiar
 
 3\. Il risanamento della situazione e lo sviluppo duraturo dei paesi colpiti o minacciati da queste calamita' richiedono un'autentica politica che favorisca il ristabilimento del processo di equilibrio dell'ambiente naturale attraverso un migliore controllo dell'acqua e la lotta contro le pratiche alla base del fenomeno di desertificazione.
 
-###### ARTICOLO 41
+##### ARTICOLO 41
 
 Le azioni da intraprendere, appoggiate eventualmente dalla ricerca, riguardano in particolare:
 
@@ -1265,7 +1261,7 @@ Le azioni da intraprendere, appoggiate eventualmente dalla ricerca, riguardano i
 
 3\) l'instaurazione di un sistema di prevenzione e di lotta contro gli incendi della savana e il disboscamento.
 
-###### ARTICOLO 42
+##### ARTICOLO 42
 
 L'accelerazione del processo di ripristino dell'equilibrio ecologico implica in particolare l'introduzione di un aspetto "lotta contro la siccita' e la desertificazione" in tutte le azioni di sviluppo agricolo e rurale e comporta tra l'altro:
 
@@ -1281,17 +1277,17 @@ L'accelerazione del processo di ripristino dell'equilibrio ecologico implica in 
 
 4\) il proseguimento delle azioni di sensibilizzazione e formazione permanenti delle popolazioni interessate in merito ai fenomeni della siccita' e della desertificazione, nonche' la volgarizzazione dei possibili mezzi di lotta.
 
-###### ARTICOLO 43
+##### ARTICOLO 43
 
 La Comunita' fornisce il proprio contributo agli sforzi compiuti dagli Stati ACP sul piano nazionale, regionale ed internazionale, nonche' alle azioni intraprese dalle organizzazioni intergovernative e non governative nell'ambito delle opzioni e priorita' nazionali e intergovernative.
 
-## Capitolo 3 - Cooperazione in materia di prodotti di base agricoli
+### Capitolo 3 - Cooperazione in materia di prodotti di base agricoli
 
-###### ARTICOLO 44
+##### ARTICOLO 44
 
 In considerazione della situazione di estrema dipendenza delle economie di gran parte degli Stati ACP dalle esportazioni di prodotti di base agricoli e dato il deterioramento della posizione delle esportazioni provenienti dagli Stati ACP constatato sui mercati di tali prodotti e connesso alle fluttuazioni eccessive dei loro prezzi sul mercato mondiale, le parti contraenti esprimono la volonta' di proseguire, rafforzare ed intensificare la propria cooperazione in questo settore.
 
-###### ARTICOLO 45
+##### ARTICOLO 45
 
 A questo fine nel settore dei prodotti agricoli di base, la cooperazione deve essere concepita ed attuata a sostegno delle politiche o strategie definite dagli Stati ACP e mirare in particolare a:
 
@@ -1309,7 +1305,7 @@ A questo fine nel settore dei prodotti agricoli di base, la cooperazione deve es
 
 \- incoraggiare un maggior flusso di investimenti privati in questo settore.
 
-###### ARTICOLO 46
+##### ARTICOLO 46
 
 Per conseguire tali obiettivi le parti contraenti convengono:
 
@@ -1319,7 +1315,7 @@ b) di adoperarsi per creare le condizioni piu' propizie per lo sviluppo della pr
 
 c) di impiegare giudiziosamente i vari strumenti e risorse della presente convenzione che possono servire a questo settore.
 
-###### ARTICOLO 47
+##### ARTICOLO 47
 
 In considerazione dell'entita' e della persistenza dei problemi attinenti ai prodotti agricoli di base, le due parti convengono di far si' che la cooperazione in questo campo sia seguita in modo continuo ed approfondito. A tal fine convengono di istituire un "Comitato dei prodotti agricoli di base" con il compito di:
 
@@ -1329,23 +1325,23 @@ b) esaminare tutti i problemi generali relativi al commercio ACP/CEE dei prodott
 
 c) raccomandare azioni atte a risolvere tali problemi.
 
-###### ARTICOLO 48
+##### ARTICOLO 48
 
 Il Comitato dei prodotti agricoli di base, il cui regolamento interno e' adottato dal Consiglio dei Ministri, e' composto da rappresentanti degli Stati ACP e della Comunita', designati dal medesimo Consiglio dei Ministri. I lavori del Comitato sono soggetti alla supervisione del Comitato degli Ambasciatori conformemente all'articolo 272, paragrafo 2. Esso si riunisce in genere una volta ogni trimestre e se il Consiglio dei Ministri decide in tal senso, secondo le disposizioni dell'articolo 270, esso si riunisce a livello ministeriale.
 
-###### ARTICOLO 49
+##### ARTICOLO 49
 
 Ci si adopera per intensificare le consultazioni tra gli Stati ACP e la Comunita' nelle sedi e nelle organizzazioni internazionali aventi il compito di stabilizzare i mercati dei prodotti agricoli di base. A tal fine si puo' procedere a scambi di idee, a richiesta dell'una o dell'altra parte, quando si prevedano la conclusione o il rinnovo di un accordo internazionale concernente un prodotto agricolo di base. Con tali scambi di idee si mira a prendere in considerazione gli interessi di ciascuna parte se sono prospettati la conclusione o il rinnovo di un accordo.
 
 ## TITOLO II - SVILUPPO DELLA PESCA
 
-###### ARTICOLO 50
+##### ARTICOLO 50
 
 Gli Stati ACP e la Comunita' riconoscono l'urgente necessita' di promuovere lo sviluppo delle risorse ittiche degli Stati ACP per contribuire allo sviluppo della pesca nel suo insieme e per stabilire un settore di reciproco interesse per i loro rispettivi settori economici.
 
 La cooperazione in questo settore ha per obiettivo l'utilizzazione ottimale delle risorse ittiche degli Stati ACP ed il riconoscimento, allo stesso tempo, del diritto degli Stati senza sbocco sul mare a partecipare allo sfruttamento delle risorse della pesca marittima e del diritto degli Stati costieri ad esercitare la propria giurisdizione sulle risorse biologiche marine della propria zona economica esclusiva, in conformita' del diritto internazionale vigente, in particolare delle conclusioni della terza conferenza delle Nazioni Unite sul diritto del mare.
 
-###### ARTICOLO 51
+##### ARTICOLO 51
 
 Per favorire lo sviluppo dello sfruttamento delle risorse ittiche degli Stati ACP, il settore della pesca beneficia di tutti i meccanismi di assistenza e cooperazione previsti dalla presente convenzione ed in particolare dell'assistenza finanziaria e tecnica, secondo le modalita', stabilite nel titolo III della terza parte della presente convenzione.
 
@@ -1357,7 +1353,7 @@ Gli obiettivi prioritari di tale cooperazione sono i seguenti:
 
 \- aumentare il contributo della pesca allo sviluppo industriale grazie all'aumento delle catture, della produzione e dell'esportazione.
 
-###### ARTICOLO 52
+##### ARTICOLO 52
 
 L'aiuto della Comunita' allo sviluppo della pesca comprende, tra l'altro, un sostegno ai settori seguenti:
 
@@ -1367,15 +1363,15 @@ b) la gestione e la protezione delle attivita' di pesca, compresa la valutazione
 
 c) la trasformazione e la commercializzazione dei prodotti della pesca, compreso lo sviluppo delle attrezzature e delle operazioni di trasformazione, cattura, distribuzione e commercializzazione; la riduzione delle perdite successive alla cattura e la promozione di programmi volti ad incrementare l'uso del pesce e l'alimentazione a base di prodotti della pesca.
 
-###### ARTICOLO 53
+##### ARTICOLO 53
 
 La cooperazione in materia di sviluppo delle risorse della pesca deve rivolgere particolare attenzione alle esigenze di formazione dei cittadini ACP in tutti i settori della pesca, allo sviluppo e al potenziamento delle capacita' di ricerca degli Stati ACP nonche' alla promozione della collaborazione fra Stati ACP e a livello regionale nella gestione e nello sviluppo della pesca.
 
-###### ARTICOLO 54
+##### ARTICOLO 54
 
 Gli Stati ACP e la CEE riconoscono la necessita' di cooperare o direttamente o su base regionale, o all'occorrenza tramite organizzazioni internazionali per promuovere la conservazione e l'utilizzazione ottimale delle risorse biologiche marine.
 
-###### ARTICOLO 55
+##### ARTICOLO 55
 
 La Comunita' e gli Stati ACP riconoscono agli Stati costieri il diritto di esercitare diritti sovrani ai fini dell'esplorazione, sfruttamento, conservazione e gestione delle risorse ittiche della loro zona economica esclusiva in conformita' del vigente diritto internazionale. Gli Stati ACP riconoscono il ruolo che le flotte di pesca degli Stati membri della CEE, legalmente operanti nelle acque soggette a giurisdizione ACP, possono svolgere in materia di partecipazione nello sviluppo economico del potenziale di pesca ACP e piu' in generale nello sviluppo economico degli Stati ACP costieri.
 
@@ -1383,21 +1379,21 @@ Gli Stati ACP si dichiarano pertanto disposti a negoziare con la Comunita' accor
 
 Nel concludere o nell'applicare tali accordi, gli Stati ACP non opereranno discriminazioni nei confronti della Comunita' o tra i suoi Stati membri, fermi restando gli accordi speciali stipulati tra paesi in sviluppo di una stessa regione geografica, compresi gli accordi di pesca reciproci; dal canto suo, la Comunita' non operera' discriminazioni nei confronti degli Stati ACP.
 
-###### ARTICOLO 56
+##### ARTICOLO 56
 
 Se degli Stati ACP situati nella stessa subregione in cui sono situati territori cui si applica il trattato che istituisce la Comunita' economica europea, in seguito denominato "trattato" desiderano esercitare attivita' di pesca nella zona di pesca corrispondente, la Comunita' e gli Stati ACP interessati avviano negoziati per la conclusione di un accordo di pesca nello spirito dell'articolo 55, tenendo conto della situazione specifica di detti territori nella sottoregione e dell'obiettivo di rafforzare la cooperazione regionale tra questi ultimi e gli Stati ACP vicini.
 
-###### ARTICOLO 57
+##### ARTICOLO 57
 
 La Comunita' e gli Stati ACP riconoscono il valore di un'impostazione regionale per quanto riguarda l'accesso alle zone di pesca e incoraggeranno le iniziative degli Stati ACP costieri intese alla conclusione di accordi armonizzati per l'accesso delle navi alle zone di pesca.
 
-###### ARTICOLO 58
+##### ARTICOLO 58
 
 La Comunita' e gli Stati ACP convengono di prendere tutte le misure idonee ad assicurare l'efficacia degli sforzi di cooperazione in materia di pesca nell'ambito della presente convenzione, tenendo in particolare conto della dichiarazione comune sull'origine dei prodotti della pesca.
 
 Per quanto riguarda l'esportazione dei prodotti della pesca verso i mercati della Comunita' si terra' debitamente conto dell'articolo 284.
 
-###### ARTICOLO 59
+##### ARTICOLO 59
 
 Le condizioni soddisfacenti per ambo le parti, menzionate all'articolo 55, riguardano in particolare la natura e l'entita' delle contropartite di cui gli Stati ACP interessati beneficeranno nel quadro degli accordi bilaterali.
 
@@ -1413,11 +1409,11 @@ La Comunita' prende tutte le misure necessarie affinche' le sue navi si conformi
 
 ## TITOLO III - SVILUPPO INDUSTRIALE
 
-###### ARTICOLO 60
+##### ARTICOLO 60
 
 La Comunita' e gli Stati ACP, riconoscendo che l'industrializzazione svolge una funzione motrice per la promozione di uno sviluppo economico e sociale equilibrato e diversificato e per la creazione di condizioni favorevoli all'autonomia collettiva degli Stati ACP, convengono di promuovere lo sviluppo industriale negli Stati ACP per offrire loro un quadro che possa potenziare i loro sforzi di sviluppo e aumentare la loro partecipazione al commercio mondiale.
 
-###### ARTICOLO 61
+##### ARTICOLO 61
 
 La cooperazione industriale tra la Comunita' e gli Stati ACP mira, in particolare, a sfruttare pienamente, modernizzando le loro societa', le risorse umane e naturali degli Stati ACP, creare posti di lavoro, generare e diffondere il reddito, facilitare il trasferimento e l'adattamento delle tecnologie alle condizioni ed esigenze specifiche degli Stati ACP, e favorire le complementarita' tra i vari settori industriali, come pure tra questi e il settore rurale, per utilizzarne appieno le potenzialita' e promuovere nuove relazioni di complementarita' dinamica nel settore industriale tra la Comunita' e gli Stati ACP.
 
@@ -1425,7 +1421,7 @@ La cooperazione industriale tiene conto della necessita' di creare e rafforzare 
 
 Nel perseguire questi obiettivi le parti contraenti attuano, oltre alle disposizioni specifiche concernenti la cooperazione industriale, quelle relative al regime degli scambi, alla promozione commerciale dei prodotti ACP e agli investimenti privati.
 
-###### ARTICOLO 62
+##### ARTICOLO 62
 
 Per l'attuazione della cooperazione industriale, la Comunita' contribuisce alla realizzazione dei programmi, progetti ed azioni che le sono presentati ad iniziativa o con l'accordo degli Stati ACP.
 
@@ -1433,15 +1429,15 @@ Essa si serve a tal fine di tutti i mezzi previsti nella presente convenzione e 
 
 L'attuazione dei programmi, progetti ed azioni di cooperazione industriale comportanti un finanziamento della Comunita' e' effettuata in conformita' del titolo III della terza parte della presente convenzione, tenendo conto delle caratteristiche proprie agli interventi nel settore industriale.
 
-###### ARTICOLO 63
+##### ARTICOLO 63
 
 La Comunita' offre agli Stati ACP il proprio appoggio per migliorare il loro quadro istituzionale, rafforzare gli organismi di finanziamento, creare, rinnovare o migliorare le infrastrutture connesse all'industria e sostenere i loro sforzi diretti all'integrazione delle strutture industriali e dei mercati regionali e interregionali.
 
-###### ARTICOLO 64
+##### ARTICOLO 64
 
 In base alla richiesta di uno Stato ACP, la Comunita' fornisce l'assistenza necessaria richiesta nel settore della formazione industriale a tutti i livelli e in particolare per la valutazione delle esigenze di formazione industriale e l'elaborazione di programmi corrispondenti, la creazione e il funzionamento di istituzioni ACP nazionali o regionali di formazione industriale, la formazione di cittadini ACP in istituzioni appropriate, la formazione sul luogo di lavoro, sia nella Comunita' che negli Stati ACP, nonche' la cooperazione tra istituzioni di formazione industriale della Comunita' e degli Stati ACP, tra istituzioni di formazione industriale degli Stati ACP e tra queste ultime e quelle di altri paesi in sviluppo.
 
-###### ARTICOLO 65
+##### ARTICOLO 65
 
 La Comunita' apporta il proprio sostegno alla creazione ed espansione di qualsiasi tipo di imprese vitali che gli Stati ACP considerino importanti per i loro obiettivi di sviluppo.
 
@@ -1459,19 +1455,19 @@ Particolare attenzione e' accordata:
 
 Il finanziamento da parte della Comunita' e' assicurato prioritariamente da prestiti della Banca sulle sue risorse proprie e da capitali di rischio, che sono i modi di finanziamenti specifici per le imprese industriali.
 
-###### ARTICOLO 66
+##### ARTICOLO 66
 
 Nell'interesse comune, la Comunita' contribuisce allo sviluppo della cooperazione interaziendale ACP-CEE e intra-ACP mediante attivita' di informazione e di promozione industriale.
 
 Tali attivita' hanno lo scopo di intensificare lo scambio regolare di informazioni, organizzare nel settore industriale i necessari contatti tra responsabili delle politiche industriali, promotori ed operatori economici della Comunita' e degli Stati ACP, effettuare studi in particolare di fattibilita', facilitare la creazione e il funzionamento di organismi ACP di promozione industriale ed incoraggiare la conclusione di coinvestimenti, di contratti di subappalto e qualsiasi altra forma di cooperazione industriale tra imprese degli Stati membri della Comunita' ed imprese degli Stati ACP.
 
-###### ARTICOLO 67
+##### ARTICOLO 67
 
 La Comunita' contribuisce alla creazione e allo sviluppo di piccole e medie imprese artigianali, commerciali, di servizi ed industriali, data la funzione essenziale che esse svolgono nei settori moderni e informali, attraverso la creazione di un tessuto economico diversificato, nello sviluppo generale degli Stati ACP e in considerazione dei vantaggi che esse offrono sul piano dell'acquisizione di competenze professionali, di un trasferimento integrato e adattato di tecnologie appropriate, nonche' di un impiego ottimale della manodopera locale. Essa puo' anche contribuire alla valutazione settoriale e all'elaborazione di programmi di intervento, alla creazione di infrastrutture appropriate e al rafforzamento e funzionamento di organismi di informazione, promozione, inquadramento, formazione, credito o garanzia e di trasferimento di tecnologie.
 
 La Comunita' e gli Stati ACP incoraggiano la cooperazione e i contatti tra le piccole e medie imprese degli Stati membri e degli Stati ACP.
 
-###### ARTICOLO 68
+##### ARTICOLO 68
 
 Allo scopo di aiutare gli Stati ACP a sviluppare la loro base tecnologica e le loro capacita' interne di sviluppo scientifico e tecnologico e per facilitare l'acquisizione, il trasferimento e l'adattamento della tecnologia in condizioni che permettano di trarne il massimo vantaggio e di ridurre al minimo i costi, la Comunita' e' disposta, mediante gli strumenti della cooperazione finanziaria e tecnica, a contribuire in particolare:
 
@@ -1491,11 +1487,11 @@ g) alla promozione della cooperazione tecnologica tra gli Stati ACP e tra questi
 
 h) a facilitare per quanto possibile l'accesso e l'utilizzazione delle fonti di documentazione e di altre fonti di dati disponibili nella Comunita'.
 
-###### ARTICOLO 69
+##### ARTICOLO 69
 
 Per consentire agli Stati ACP di trarre pieno profitto dal regime degli scambi e dalle altre disposizioni della presente convenzione, sono realizzate azioni di promozione per la commercializzazione dei prodotti industriali degli Stati ACP, tanto sul mercato della Comunita' quanto sugli altri mercati esteri, anche per stimolare e sviluppare gli scambi di prodotti industriali tra Stati ACP. Queste azioni concerneranno in particolare gli studi di mercato, la commercializzazione, la qualita' e la normalizzazione di manufatti, in conformita' degli articoli 190 e 191 e in considerazione degli articoli 95 e 96.
 
-###### ARTICOLO 70
+##### ARTICOLO 70
 
 1\. Un Comitato per la cooperazione industriale, posto sotto il controllo del Comitato degli Ambasciatori, e' incaricato di:
 
@@ -1511,7 +1507,7 @@ e) espletare tutti gli altri compiti che gli saranno affidati dal Comitato degli
 
 2\. La composizione e le modalita' di funzionamento del Comitato per la cooperazione industriale sono adottate dal Consiglio dei Ministri.
 
-###### ARTICOLO 71
+##### ARTICOLO 71
 
 Il Centro per lo sviluppo industriale contribuisce alla creazione ed al rafforzamento delle imprese industriali degli Stati ACP, specialmente incoraggiando le iniziative degli operatori economici della Comunita' e degli Stati ACP.
 
@@ -1523,7 +1519,7 @@ Per attuare le suddette funzioni, il Centro si ispira ad un principio di seletti
 
 Le attivita' del Centro vengono intraprese in stretta cooperazione con gli Stati ACP, gli Stati membri nonche' la Commissione e la Banca, nell'ambito delle competenze rispettive. Le attivita' del Centro formano oggetto di valutazioni periodiche.
 
-###### ARTICOLO 72
+##### ARTICOLO 72
 
 Nel quadro degli obiettivi fissati all'articolo 71, e' compito del Centro:
 
@@ -1549,7 +1545,7 @@ j) contribuire, in casi appropriati, alla promozione della commercializzazione s
 
 k) individuare e fornire informazioni sulle possibili fonti di finanziamento e, se del caso, fornire assistenza alla mobilitazione di finanziamenti provenienti da tali fonti per progetti industriali negli Stati ACP.
 
-###### ARTICOLO 73
+##### ARTICOLO 73
 
 1\. Il Centro e' diretto da un direttore, assistito da un direttore aggiunto, entrambi nominati dal Comitato di cooperazione industriale.
 
@@ -1577,7 +1573,7 @@ c) trasmettere una relazione annuale al Comitato di cooperazione industriale.
 
 6\. Lo statuto del Centro, il regolamento finanziario, il regime applicabile al personale e il regolamento interno del Centro sono adottati dal Consiglio dei Ministri, su proposta del Comitato degli Ambasciatori, dopo l'entrata in vigore della presente convenzione.
 
-###### ARTICOLO 74
+##### ARTICOLO 74
 
 Nell'applicazione del presente titolo, la Comunita' rivolge particolare attenzione alle necessita' e ai problemi specifici degli Stati ACP meno sviluppati, privi di sbocco sul mare e insulari, particolarmente nei seguenti settori:
 
@@ -1597,13 +1593,13 @@ A richiesta di uno o piu' Stati ACP meno sviluppati, il Centro accorda una parti
 
 ## TITOLO IV - SVILUPPO DEL POTENZIALE MINERARIO E ENERGETICO
 
-###### ARTICOLO 75
+##### ARTICOLO 75
 
 Data la gravita' della situazione energetica nella maggioranza degli Stati ACP, dovuta in parte alla crisi provocata in numerosi paesi dalla dipendenza dalle importazioni di prodotti petroliferi e dalla crescente rarefazione della legna da ardere, gli Stati ACP e la Comunita' convengono di cooperare in questo settore per trovare soluzioni ai loro problemi energetici.
 
 La cooperazione ACP-CEE attribuisce particolare importanza alla programmazione energetica, alle azioni di conservazione e utilizzazione razionale dell'energia, al riconoscimento del potenziale energetico e alla promozione, secondo condizioni tecniche ed economiche adeguate, di fonti di energia nuove e rinnovabili.
 
-###### ARTICOLO 76
+##### ARTICOLO 76
 
 La Comunita' e gli Stati ACP riconoscono i vantaggi reciproci della cooperazione nel settore energetico. Questa cooperazione promuove lo sviluppo delle potenzialita' energetiche tradizionali e non tradizionali e l'autosufficienza degli Stati ACP e persegue in particolare gli obiettivi seguenti:
 
@@ -1613,7 +1609,7 @@ b) migliorare le condizioni di vita nelle zone urbane e periferiche nonche' nell
 
 c) proteggere l'ambiente naturale in particolare riducendo gli effetti della crescita demografica sul consumo della biomassa, segnatamente per quanto riguarda la legna da ardere.
 
-###### ARTICOLO 77
+##### ARTICOLO 77
 
 Per raggiungere gli obiettivi summenzionati, le azioni di cooperazione energetica possono, a richiesta dello Stato o degli Stati ACP interessati, concentrarsi:
 
@@ -1643,21 +1639,21 @@ h) sul riassetto delle infrastrutture di base necessarie alla produzione, al tra
 
 i) sulla promozione della cooperazione fra Stati ACP nel settore energetico, comprese le azioni di cooperazione fra questi Stati ed altri Stati vicini beneficiari di un aiuto della Comunita'.
 
-###### ARTICOLO 78
+##### ARTICOLO 78
 
 La cooperazione mineraria ha lo scopo di contribuire allo sviluppo del settore minerario degli Stati ACP interessati per garantire una redditivita' soddisfacente delle attivita' minerarie per lo sviluppo globale di tali Stati. Le parti contraenti sottolineano la propria interdipendenza in questo settore e convengono di utilizzare in modo coordinato i diversi mezzi d'azione previsti dalla presente convenzione in questo settore nonche', eventualmente, altri strumenti comunitari.
 
-###### ARTICOLO 79
+##### ARTICOLO 79
 
 A richiesta di uno o piu' Stati ACP la Comunita' intraprende azioni di assistenza tecnica e/o di formazione intese a rafforzare le loro capacita' scientifiche e tecniche nei settori geologico e minerario per consentir loro di sfruttare meglio le conoscenze disponibili e di orientare di conseguenza i loro programmi di ricerca e di esplorazione.
 
-###### ARTICOLO 80
+##### ARTICOLO 80
 
 Tenendo conto dei fattori economici a livello nazionale e internazionale ed in un'ottica di diversificazione la Comunita' partecipa eventualmente, mediante programmi di aiuto finanziario e tecnico, agli sforzi degli Stati ACP per la ricerca e l'esplorazione mineraria a tutti i livelli, sia in terra che sulla piattaforma continentale quale definita dal diritto internazionale.
 
 Se del caso, la Comunita' da' inoltre un aiuto tecnico e finanziario per la creazione negli Stati ACP di fondi di esplorazione nazionali o regionali.
 
-###### ARTICOLO 81
+##### ARTICOLO 81
 
 Al fine di sostenere gli sforzi per la coltivazione delle risorse minerarie degli Stati ACP, la Comunita' contribuisce a progetti di riassetto, mantenimento, razionalizzazione e ammodernamento di unita' produttive economicamente vitali per renderle piu' operative e competitive.
 
@@ -1665,7 +1661,7 @@ Essa contribuisce anche, compatibilmente con le capacita' di investimento e di g
 
 Essa sostiene anche gli sforzi degli Stati ACP di rafforzamento delle infrastrutture connesse e coopera all'inserimento delle operazioni minerarie nel tessuto socioeconomico degli Stati in questione.
 
-###### ARTICOLO 82
+##### ARTICOLO 82
 
 Per perseguire gli obiettivi summenzionati la Comunita' e' disposta ad accordare il proprio contributo tecnico e finanziario per aiutare a mettere in valore il potenziale minerario ed energetico degli Stati ACP secondo le modalita' proprie a ciascuno strumento di cui dispone e in conformita' alle disposizioni della presente convenzione.
 
@@ -1677,13 +1673,13 @@ a) altre risorse finanziarie e tecniche della Comunita';
 
 b) azioni intese alla mobilitazione di capitali pubblici e privati, compreso il cofinanziamento.
 
-###### ARTICOLO 83
+##### ARTICOLO 83
 
 La Banca puo', in conformita' del suo statuto, impegnare caso per caso, le sue risorse proprie oltre l'importo fissato all'articolo 194 in progetti di investimenti minerari ed energetici riconosciuti di interesse reciproco da parte dello Stato ACP interessato e da parte della Comunita'.
 
 ## TITOLO V - TRASPORTI E COMUNICAZIONI
 
-###### ARTICOLO 84
+##### ARTICOLO 84
 
 1\. La cooperazione in materia di trasporti e' intesa a sviluppare i trasporti stradali e ferroviari, gli impianti portuali e i trasporti marittimi, i trasporti per vie navigabili interne e i trasporti aerei.
 
@@ -1701,19 +1697,19 @@ d) l'armonizzazione dei sistemi nazionali ACP, favorendone nel contempo l'adegua
 
 e) la riduzione degli ostacoli ai trasporti e alle comunicazioni interstatali a livello in particolare delle legislazioni, dei regolamenti e delle procedure amministrative.
 
-###### ARTICOLO 85
+##### ARTICOLO 85
 
 1\. In tutti i progetti e programmi d'azione in questione si cerca di assicurare un trasferimento adeguato di tecnologie e know-how.
 
 2\. Viene rivolta un'attenzione particolare alla formazione dei cittadini ACP in materia di pianificazione, gestione, manutenzione e funzionamento dei sistemi di trasporti e comunicazioni.
 
-###### ARTICOLO 86
+##### ARTICOLO 86
 
 1\. Le parti contraenti riconoscono l'importanza dei servizi di trasporto marittimo che costituiscono un elemento motore dello sviluppo economico e della promozione del commercio tra gli Stati ACP e la Comunita'.
 
 2\. L'obiettivo della cooperazione in questa materia e' assicurare lo sviluppo armonioso di servizi di trasporto marittimo efficaci e sicuri a condizioni economicamente soddisfacenti, agevolando la partecipazione attiva di tutte le parti nell'osservanza del principio di accesso senza restrizioni al traffico su base commerciale.
 
-###### ARTICOLO 87
+##### ARTICOLO 87
 
 1\. Le parti contraenti sottolineano l'importanza della convenzione delle Nazioni Unite relativa ad un codice di condotta per le conferenze marittime, e degli strumenti di ratifica che vi si riferiscono, i quali salvaguardano le condizioni di concorrenza nel settore marittimo e offrono, tra l'altro, alle societa' marittime dei paesi in sviluppo maggiori possibilita' di partecipazione al sistema delle conferenze.
 
@@ -1721,47 +1717,47 @@ e) la riduzione degli ostacoli ai trasporti e alle comunicazioni interstatali a 
 
 3\. In conformita' con la risoluzione n° 2 allegata al codice di condotta e relativa alle compagnie fuori conferenza, le parti contraenti non impediscono alle compagnie fuori conferenza di operare in concorrenza con una conferenza fintantoche' rispettino i principi di una concorrenza leale su base commerciale.
 
-###### ARTICOLO 88
+##### ARTICOLO 88
 
 Nel contesto della cooperazione si seguono con attenzione l'incoraggiamento del movimento efficace dei carichi a tassi aventi un significato economico e commerciale e le aspirazioni degli Stati ACP ad una maggiore partecipazione a tali servizi internazionali di trasporti marittimi. La Comunita' riconosce in proposito le aspirazioni degli Stati ACP ad una maggiore partecipazione ai trasporti marittimi alla rinfusa. Le parti contraenti convengono che non si frappongano ostacoli all'accesso concorrenziale al traffico.
 
-###### ARTICOLO 89
+##### ARTICOLO 89
 
 Nel quadro dell'assistenza finanziaria e tecnica per i trasporti marittimi, e' accordata particolare attenzione al trasferimento di tecnologie, compreso il trasporto multimodi e quello con containers, alla promozione delle imprese comuni e, in particolare mediante la formazione professionale, all'attuazione di infrastrutture giuridiche e amministrative adeguate e al miglioramento della gestione portuaria, allo sviluppo del trasporto marittimo tra le isole e delle infrastrutture di collegamento e a una cooperazione accresciuta con gli operatori economici.
 
 Per quanto attiene all'assistenza tecnica per le assicurazioni, si applicano le procedure previste nel quadro dello sviluppo del commercio e dei servizi.
 
-###### ARTICOLO 90
+##### ARTICOLO 90
 
 Le parti contraenti si impegnano a promuovere la sicurezza marittima, la sicurezza degli equipaggi e le azioni contro l'inquinamento.
 
-###### ARTICOLO 91
+##### ARTICOLO 91
 
 Per garantire l'attuazione efficace degli articoli da 86 a 90, possono aver luogo consultazioni, a richiesta di una parte contraente, eventualmente alle condizioni previste dalle norme procedurali di cui all'articolo 9.
 
-###### ARTICOLO 92
+##### ARTICOLO 92
 
 1\. Nel settore delle comunicazioni, la cooperazione rivolge particolare attenzione allo sviluppo tecnologico appoggiando gli sforzi degli Stati ACP intesi a creare e sviluppare sistemi efficienti. Cio' include studi e programmi concernenti le comunicazioni mediante satellite quando cio' sia giustificato da considerazioni di carattere operativo e piu' particolarmente a livello regionale e subregionale. La cooperazione comprende anche i mezzi d'osservazione della terra mediante satellite nei settori della meteorologia e della telerilevazione.
 
 2\. Particolare importanza e' accordata alle telecomunicazioni nelle zone rurali per incoraggiare lo sviluppo economico e sociale di tali zone.
 
-###### ARTICOLO 93
+##### ARTICOLO 93
 
 In tutti i settori relativi ai trasporti e alle comunicazioni viene rivolta particolare attenzione alle specifiche esigenze degli Stati ACP privi di sbocco sul mare e insulari, derivanti dalla loro situazione geografica, nonche' alla situazione economica degli Stati ACP meno sviluppati.
 
-###### ARTICOLO 94
+##### ARTICOLO 94
 
 Le azioni di cooperazione nei settori dei trasporti e delle comunicazioni vengono attuate secondo le disposizioni e le procedure stabilite nel titolo III della terza parte della presente convenzione.
 
 ## TITOLO VI - SVILUPPO DEL COMMERCIO E DEI SERVIZI
 
-###### ARTICOLO 95
+##### ARTICOLO 95
 
 Per conseguire gli obiettivi fissati all'articolo 129, le parti contraenti intraprendono azioni per lo sviluppo del commercio e dei servizi, dalla fase della concezione alla fase finale di distribuzione dei prodotti.
 
 Scopo di tali azioni e' far si' che gli Stati ACP traggano il massimo vantaggio dalle disposizioni della presente convenzione in materia di cooperazione commerciale, agricola ed industriale e possano partecipare nelle condizioni piu' favorevoli ai mercati della Comunita' ed ai mercati interni, regionali e internazionali, diversificando la gamma ed accrescendo il valore e il volume del commercio degli Stati ACP di beni e servizi.
 
-###### ARTICOLO 96
+##### ARTICOLO 96
 
 1\. Nell'ambito degli sforzi volti a promuovere lo sviluppo del commercio e dei servizi, compreso il turismo, oltre allo sviluppo del commercio tra gli Stati ACP e la Comunita', si rivolgera' particolare attenzione alle azioni intese ad aumentare l'autonomia degli Stati ACP, a sviluppare il commercio intra-ACP e a sviluppare la cooperazione regionale sul piano del commercio e dei servizi.
 
@@ -1781,11 +1777,11 @@ Scopo di tali azioni e' far si' che gli Stati ACP traggano il massimo vantaggio 
 
 3\. La partecipazione degli Stati ACP meno sviluppati senza sbocco sul mare e insulari, alle varie attivita' di sviluppo del commercio e dei servizi, compreso il turismo, e' incoraggiata con disposizioni speciali, in particolare l'assunzione delle spese per lo spostamento del personale e il trasporto degli oggetti e merci da esporre nella loro partecipazione a fiere ed esposizioni.
 
-###### ARTICOLO 97
+##### ARTICOLO 97
 
 Le azioni per lo sviluppo del commercio e dei servizi comprendono una cooperazione specifica nel settore del turismo. Scopo di tale cooperazione e' appoggiare gli sforzi degli Stati ACP intesi a migliorare la prestazione di servizi di questa industria. Viene rivolta particolare attenzione alla necessita' di integrare il turismo nella vita sociale, culturale ed economica delle popolazioni, conformemente alle disposizioni degli articoli 116 e 117.
 
-###### ARTICOLO 98
+##### ARTICOLO 98
 
 Conformemente alle modalita' e procedure di cui al titolo III della terza parte della convenzione si possono applicare le disposizioni della cooperazione finanziaria e tecnica alle misure per lo sviluppo del turismo a livello sia nazionale che regionale. Oltre ai principali orientamenti stabiliti agli articoli 95 e 96 e alle disposizioni relative allo sviluppo delle piccole e medie imprese e dell'artigianato previste all'articolo 67, queste misure riguardano, tra l'altro, i settori seguenti:
 
@@ -1801,23 +1797,23 @@ Conformemente alle modalita' e procedure di cui al titolo III della terza parte 
 
 \- la cooperazione intra-ACP nel settore del turismo.
 
-###### ARTICOLO 99
+##### ARTICOLO 99
 
 Tra gli strumenti previsti dalla presente convenzione e conformemente agli articoli 95 e 96, l'aiuto allo sviluppo del commercio e dei servizi comprende un'assistenza tecnica per l'insediamento e lo sviluppo d'istituzioni di assicurazione e credito connesse con lo sviluppo del commercio.
 
-###### ARTICOLO 100
+##### ARTICOLO 100
 
 Oltre agli stanziamenti che, nel quadro dei programmi indicativi nazionali di cui all'articolo 215, possono essere assegnati da ciascuno Stato ACP al finanziamento di azioni per lo sviluppo dei settori menzionati dagli articoli da 95 a 99, il contributo della Comunita' al finanziamento di queste azioni quando esse siano di carattere regionale, puo' raggiungere, nel quadro dei programmi di cooperazione regionale previsti all'articolo 112, l'importo di 60 milioni di ECU.
 
 ## TITOLO VII - COOPERAZIONE REGIONALE
 
-###### ARTICOLO 101
+##### ARTICOLO 101
 
 La Comunita' sostiene gli sforzi degli Stati ACP per promuovere lo sviluppo collettivo e autonomo, sociale, culturale ed economico, nonche' una maggiore autosufficienza regionale.
 
 Per rafforzare le capacita' collettive degli Stati ACP, la Comunita' fornisce un aiuto efficace per conseguire gli obiettivi e realizzare le priorita' che gli Stati ACP si sono prefissi nel contesto della cooperazione regionale, compresa la cooperazione interregionale e intra-ACP.
 
-###### ARTICOLO 102
+##### ARTICOLO 102
 
 1\. La cooperazione regionale riguarda azioni concordate fra:
 
@@ -1831,7 +1827,7 @@ Per rafforzare le capacita' collettive degli Stati ACP, la Comunita' fornisce un
 
 2\. La cooperazione regionale puo' inoltre riguardare le azioni concordate tra due o piu' Stati ACP e uno o piu' Stati in sviluppo non ACP e non vicini e, qualora circostanze particolari lo giustifichino, tra un solo Stato ACP e uno o piu' Stati in sviluppo non ACP e non vicini.
 
-###### ARTICOLO 103
+##### ARTICOLO 103
 
 Nell'ambito della cooperazione regionale viene rivolta particolare attenzione:
 
@@ -1853,15 +1849,15 @@ h) all'integrazione dei mercati degli Stati ACP attraverso la liberalizzazione d
 
 i) ad ogni sostegno all'integrazione regionale.
 
-###### ARTICOLO 104
+##### ARTICOLO 104
 
 I progetti e i programmi di azioni di cooperazione regionale, dati gli obiettivi e le caratteristiche che le sono peculiari, sono eseguiti secondo le modalita' e le procedure fissate per la cooperazione finanziaria e tecnica, qualora rientrino in quest'ultima.
 
-###### ARTICOLO 105
+##### ARTICOLO 105
 
 La Comunita' fornisce un'assistenza finanziaria e tecnica agli organismi regionali esistenti o alla creazione di nuovi organismi regionali qualora si rivelino indispensabili per conseguire gli obiettivi della cooperazione regionale.
 
-###### ARTICOLO 106
+##### ARTICOLO 106
 
 Un'azione si considera regionale quando contribuisce direttamente alla soluzione di un problema di sviluppo comune a piu' Stati attraverso azioni comuni o azioni nazionali coordinate che soddisfino almeno una delle condizioni seguenti:
 
@@ -1871,7 +1867,7 @@ b) la formula regionale permetta di realizzare significative economie di scala r
 
 c) l'azione non soddisfi le condizioni di cui alle lettere a) o b), ma i vantaggi e i costi risultanti siano inegualmente ripartiti tra gli Stati che ne beneficiano.
 
-###### ARTICOLO 107
+##### ARTICOLO 107
 
 Fatto salvo l'articolo 106, l'ammontare del contributo della Comunita', a titolo di cooperazione regionale per azioni che potrebbero essere parzialmente realizzate a livello nazionale, e' determinato in base agli elementi seguenti:
 
@@ -1881,7 +1877,7 @@ b) l'azione forma oggetto di impegni reciproci tra piu' Stati, segnatamente in m
 
 c) l'azione e' l'espressione regionale di una strategia settoriale.
 
-###### ARTICOLO 108
+##### ARTICOLO 108
 
 1\. Le domande di finanziamento a partire dai fondi disponibili a titolo di cooperazione regionale sono formulate da ciascuno Stato ACP partecipante ad un'azione regionale.
 
@@ -1899,23 +1895,23 @@ a) da un lato, la proprieta' dei beni e servizi da finanziare nell'ambito dell'a
 
 b) dall'altro, la designazione dell'ordinatore regionale e dello Stato o dell'organismo autorizzato a firmare la convenzione di finanziamento a nome di tutti gli Stati o organismi ACP partecipanti.
 
-###### ARTICOLO 109
+##### ARTICOLO 109
 
 Lo Stato o gli Stati ACP o organismi regionali partecipanti ad un'azione regionale con paesi terzi alle condizioni previste all'articolo 102 possono chiedere alla Comunita' un finanziamento della parte dell'azione di cui sono responsabili o di una parte proporzionale ai vantaggi che essi traggono dall'azione.
 
-###### ARTICOLO 110
+##### ARTICOLO 110
 
 Qualora un'azione sia finanziata dalla Comunita' tramite un organismo di cooperazione regionale, le condizioni del finanziamento applicabili ai beneficiari finali sono convenute tra la Comunita' e tale organismo, d'intesa con lo Stato o gli Stati ACP interessati.
 
-###### ARTICOLO 111
+##### ARTICOLO 111
 
 Per promuovere la loro cooperazione regionale, gli Stati ACP meno sviluppati beneficiano di una priorita' nei progetti riguardanti almeno uno Stato ACP meno sviluppato, mentre gli Stati ACP senza sbocco sul mare e insulari sono oggetto di particolare attenzione per superare gli ostacoli che frenano il loro sviluppo.
 
-###### ARTICOLO 112
+##### ARTICOLO 112
 
 Dei mezzi finanziari previsti all'articolo 194 per lo sviluppo culturale, economico e sociale degli Stati ACP, un importo di 1.000 milioni di ECU e' riservato al finanziamento dei loro progetti e programmi regionali.
 
-###### ARTICOLO 113
+##### ARTICOLO 113
 
 Il campo d'applicazione della cooperazione regionale, tenuto conto dell'articolo 103, include i punti seguenti:
 
@@ -1945,7 +1941,7 @@ l) le attivita' inerenti alla cooperazione culturale e sociale.
 
 ## TITOLO VIII - COOPERAZIONE SOCIO-CULTURALE
 
-###### ARTICOLO 114
+##### ARTICOLO 114
 
 La cooperazione contribuisce allo sviluppo autonomo degli Stati ACP, incentrato sull'uomo e radicato nella cultura di ciascun popolo.
 
@@ -1953,7 +1949,7 @@ Essa appoggia le politiche e le misure prese da questi Stati al fine di valorizz
 
 Tale cooperazione e' volta a promuovere una migliore comprensione ed una maggiore solidarieta' tra i governi e le popolazioni ACP e CEE, allo scopo di favorire il dialogo, lo scambio e l'arricchimento reciproco, su un piano di parita'.
 
-###### ARTICOLO 115
+##### ARTICOLO 115
 
 1\. La cooperazione socio-culturale trova espressione:
 
@@ -1965,9 +1961,9 @@ Tale cooperazione e' volta a promuovere una migliore comprensione ed una maggior
 
 2\. Le azioni di cooperazione socio-culturale vengono attuate secondo le modalita' e procedure stabilite nel titolo III della terza parte. Esse rientrano tra le priorita' e gli obiettivi definiti nei programmi indicativi o nell'ambito della cooperazione regionale, in funzione delle loro caratteristiche proprie.
 
-## Capitolo 1 - Considerazione della dimensione socio-culturale
+### Capitolo 1 - Considerazione della dimensione socio-culturale
 
-###### ARTICOLO 116
+##### ARTICOLO 116
 
 1\. La concezione, l'istruzione, l'esecuzione e la valutazione di ogni progetto o programma di azioni si fondano sulla comprensione e sul rispetto delle caratteristiche socio-culturali dell'ambiente.
 
@@ -1985,7 +1981,7 @@ Tale cooperazione e' volta a promuovere una migliore comprensione ed una maggior
 
 \- la predisposizione di programmi integrati di promozione delle risorse umane.
 
-###### ARTICOLO 117
+##### ARTICOLO 117
 
 L'istruzione dei progetti e dei programmi tiene conto:
 
@@ -2015,13 +2011,13 @@ b) per quanto attiene agli aspetti culturali:
 
 \- dell'interazione uomo/ambiente.
 
-## Capitolo 2 - Azioni di valorizzazione delle risorse umane
+### Capitolo 2 - Azioni di valorizzazione delle risorse umane
 
-###### ARTICOLO 118
+##### ARTICOLO 118
 
 La cooperazione contribuisce alla valorizzazione delle risorse umane, nel quadro di programmi integrati e coordinati, mediante azioni nei settori dell'istruzione e della formazione, della ricerca, della scienza e della tecnica, dell'informazione e della comunicazione, della partecipazione delle popolazioni, del ruolo della donna e della salute.
 
-###### ARTICOLO 119
+##### ARTICOLO 119
 
 1\. Per soddisfare le esigenze di istruzione e formazione, immediate e prevedibili, ai livelli e nei settori designati come prioritari dai programmi nazionali e regionali, la cooperazione fornisce un sostegno:
 
@@ -2043,7 +2039,7 @@ g) ad associazioni, gemellaggi, scambi e trasferimenti di conoscenze e tecniche 
 
 3\. Queste azioni sono condotte prioritariamente nello Stato ACP o nella regione che ne beneficia. Esse possono essere realizzate se necessario in un altro Stato ACP o in uno Stato membro della Comunita'. Per formazioni specializzate particolarmente adatte alle esigenze degli Stati ACP possono eccezionalmente essere realizzate azioni di formazione in un altro paese in sviluppo.
 
-###### ARTICOLO 120
+##### ARTICOLO 120
 
 1\. La cooperazione appoggia gli sforzi de gli Stati ACP, per disporre di una struttura scientifica e tecnica propria, essa contribuisce alla realizzazione di programmi di ricerca definiti dagli Stati ACP e integrati alle altre azioni di sviluppo.
 
@@ -2059,7 +2055,7 @@ d) il miglioramento dell'informazione e della documentazione scientifica e tecni
 
 e) la divulgazione dei risultati della ricerca presso gli utilizzatori.
 
-###### ARTICOLO 121
+##### ARTICOLO 121
 
 La cooperazione in materia di informazione e' intesa a:
 
@@ -2067,7 +2063,7 @@ a) incrementare la capacita' degli Stati ACP di contribuire attivamente al fluss
 
 b) garantire una migliore informazione delle popolazioni ACP per un controllo del loro sviluppo, attraverso progetti o programmi incentrati sull'informazione e l'espressione della popolazione, ed attraverso un ampio ricorso ai sistemi di comunicazione di base.
 
-###### ARTICOLO 122
+##### ARTICOLO 122
 
 1\. La cooperazione appoggia gli sforzi degli Stati ACP per garantire una stretta e continua partecipazione della comunita' di base alle azioni di sviluppo. A tal fine, prendendo spunto dalla dinamica interna delle popolazioni, vengono presi in considerazione gli elementi seguenti:
 
@@ -2083,23 +2079,23 @@ e) l'incremento delle possibilita' di impiego, anche attraverso la realizzazione
 
 2\. Le istituzioni o le associazioni gia' esistenti sono utilizzate quanto piu' ampiamente possibile per la messa a punto e l'attuazione delle azioni di sviluppo.
 
-###### ARTICOLO 123
+##### ARTICOLO 123
 
 1\. La cooperazione appoggia gli sforzi compiuti dagli Stati ACP per valorizzare il lavoro della donna, per migliorarne le condizioni di vita, per ampliarne il ruolo e promuoverne lo status nel processo produttivo e di sviluppo.
 
 2\. Particolare attenzione e' rivolta all'accesso delle donne a tutti gli aspetti della formazione, a tecnologie piu' perfezionate, al credito e alle organizzazioni cooperativistiche, nonche' a quelle particolari tecnologie che possono rendere meno gravosi i loro compiti.
 
-###### ARTICOLO 124
+##### ARTICOLO 124
 
 Le azioni destinate a migliorare le condizioni di salute delle popolazioni ACP riguardano in via prioritaria la nutrizione, l'igiene, l'educazione sanitaria, la sicurezza dei lavoratori, i servizi sanitari di base e di medicina preventiva, la lotta contro le grandi endemie e la valorizzazione della medicina e della farmacia tradizionali. Queste azioni tengono conto delle condizioni economiche e delle esigenze dei gruppi piu' svantaggiati.
 
-## Capitolo 3 - Promozione delle identita' culturali
+### Capitolo 3 - Promozione delle identita' culturali
 
-###### ARTICOLO 125
+##### ARTICOLO 125
 
 La cooperazione contribuisce alle azioni che rientrano nell'ambito delle politiche degli Stati ACP riguardanti la promozione delle identita' culturali dei loro popoli, la loro produzione culturale, la preservazione e l'arricchimento del loro patrimonio culturale nonche' la diffusione dei beni e dei servizi culturali degli Stati ACP.
 
-###### ARTICOLO 126
+##### ARTICOLO 126
 
 1\. Le azioni di cooperazione volte a sviluppare la produzione culturale ACP sono concepite:
 
@@ -2115,7 +2111,7 @@ b) come progetti specifici, in particolare di:
 
 2\. Laddove si tratti di prodotti culturali destinati al mercato, la loro fabbricazione e diffusione potranno usufruire degli aiuti previsti a titolo della cooperazione industriale e della promozione commerciale.
 
-###### ARTICOLO 127
+##### ARTICOLO 127
 
 La cooperazione sostiene azioni degli Stati ACP riguardanti:
 
@@ -2125,19 +2121,17 @@ b) gli scambi culturali tra Stati ACP in settori altamente rappresentativi delle
 
 c) la preservazione dei monumenti storici e culturali, nonche' la promozione dell'architettura tradizionale.
 
-###### ARTICOLO 128
+##### ARTICOLO 128
 
 La cooperazione si propone altresi' di favorire la diffusione, negli Stati membri della Comunita', dei beni e dei servizi culturali ACP che siano altamente rappresentativi delle loro identita' culturali.
 
 ## TERZA PARTE - GLI STRUMENTI DELLA COOPERAZIONE ACP-CEE
 
-### TITOLO I
+## TITOLO I - COOPERAZIONE COMMERCIALE
 
-#### COOPERAZIONE COMMERCIALE
+### Capitolo 1 - Regime generale degli scambi
 
-##### Capitolo 1 - Regime generale degli scambi
-
-###### ARTICOLO 129
+##### ARTICOLO 129
 
 1\. Nel settore della cooperazione commerciale, l'obiettivo della presente convenzione e' di promuovere il commercio tra gli Stati ACP e la Comunita', da un lato, secondo i rispettivi livelli di sviluppo, e tra gli Stati ACP, dall'altro.
 
@@ -2145,7 +2139,7 @@ La cooperazione si propone altresi' di favorire la diffusione, negli Stati membr
 
 3\. A questo scopo le parti contraenti applicano le disposizioni del presente titolo e le altre misure appropriate, enunciate nel titolo III della presente parte e nella parte seconda della presente convenzione.
 
-###### ARTICOLO 130
+##### ARTICOLO 130
 
 1\. I prodotti originari degli Stati ACP sono ammessi all'importazione nella Comunita' in esenzione da dazi doganali e tasse d'effetto equivalente.
 
@@ -2187,7 +2181,7 @@ regolamentazione specifica adottata nell'ambito dell'attuazione della politica a
 
 e) se la Comunita' intende concludere un accordo preferenziale con paesi terzi, ne informa gli Stati ACP. Su richiesta degli Stati ACP vengono avviate consultazioni allo scopo di difendere i loro interessi.
 
-###### ARTICOLO 131
+##### ARTICOLO 131
 
 1\. La Comunita' non applica all'importazione dei prodotti originari degli Stati ACP restrizioni quantitative o misure d'effetto equivalente.
 
@@ -2195,7 +2189,7 @@ e) se la Comunita' intende concludere un accordo preferenziale con paesi terzi, 
 
 La Comunita' informa gli Stati ACP dell'eliminazione delle restrizioni quantitative residue per tali prodotti.
 
-###### ARTICOLO 132
+##### ARTICOLO 132
 
 1\. L'articolo 131 non e' d'ostacolo ai divieti o alle restrizioni all'importazione, all'esportazione o al transito giustificati da motivi di moralita' pubblica, di ordine pubblico, di pubblica sicurezza, di tutela della salute e della vita delle persone e degli animali o di preservazione dei vegetali, di protezione del patrimonio artistico, storico o archeologico nazionale o di tutela della proprieta' industriale e commerciale.
 
@@ -2203,17 +2197,17 @@ La Comunita' informa gli Stati ACP dell'eliminazione delle restrizioni quantitat
 
 Qualora l'applicazione delle misure menzionate al paragrafo 1 leda gli interessi di uno o piu' Stati ACP, si procede, su richiesta di questi ultimi, a consultazioni conformemente all'articolo 9, secondo comma per trovare una soluzione soddisfacente.
 
-###### ARTICOLO 133
+##### ARTICOLO 133
 
 Il regime all'importazione dei prodotti originari degli Stati ACP non puo' essere piu' favorevole del trattamento applicato agli scambi fra gli Stati membri della Comunita'.
 
-###### ARTICOLO 134
+##### ARTICOLO 134
 
 Qualora gli interessi di uno o piu' Stati ACP rischino di essere lesi da misure nuove o da misure previste nell'ambito dei programmi di ravvicinamento delle disposizioni legislative e regolamentari adottate dalla Comunita' per migliorare la circolazione delle merci, la Comunita' prima di adottare tali misure, ne informa gli Stati ACP tramite il Consiglio dei Ministri.
 
 Per consentire alla Comunita' di prendere in considerazione gli interessi degli Stati ACP in questione, si tengono consultazioni, a richiesta di questi ultimi, conformemente all'articolo 9, paragrafo 2, per trovare una soluzione soddisfacente.
 
-###### ARTICOLO 135
+##### ARTICOLO 135
 
 1\. Qualora gli interessi di uno o piu' Stati ACP siano lesi da regolamentazioni comunitarie esistenti, volte ad agevolare la circolazione delle merci, o dall'interpretazione, applicazione o attuazione delle modalita' di dette regolamentazioni, si tengono consultazioni, a richiesta degli Stati ACP interessati, per trovare una soluzione soddisfacente.
 
@@ -2221,7 +2215,7 @@ Per consentire alla Comunita' di prendere in considerazione gli interessi degli 
 
 3\. Le competenti istituzioni della Comunita' forniscono al Consiglio dei Ministri le piu' ampie informazioni possibili su tali misure allo scopo di assicurare consultazioni efficaci.
 
-###### ARTICOLO 136
+##### ARTICOLO 136
 
 1\. In considerazione delle loro attuali esigenze di sviluppo, gli Stati ACP non sono tenuti a sottoscrivere, per la durata della presente convenzione e relativamente alle importazioni di prodotti originari della Comunita', obblighi corrispondenti agli impegni assunti dalla Comunita', a norma del presente capitolo, riguardo alle importazioni dei prodotti originari degli Stati ACP.
 
@@ -2229,11 +2223,11 @@ Per consentire alla Comunita' di prendere in considerazione gli interessi degli 
 
 b) Il trattamento della nazionale piu' favorita cui si fa riferimento alla lettera a) non si applica alle relazioni economiche e commerciali fra i vari paesi ACP ne' a quelle tra uno o piu' Stati ACP ed altri paesi in sviluppo.
 
-###### ARTICOLO 137
+##### ARTICOLO 137
 
 A meno che vi abbia gia' proceduto in applicazione delle precedenti convenzioni ACP-CEE, ciascuna parte contraente trasmette la propria tariffa doganale al Consiglio dei Ministri entro tre mesi dall'entrata in vigore della presente convenzione. Ciascuna parte contraente comunica anche le successive modifiche della propria tariffa man mano che entrano in vigore.
 
-###### ARTICOLO 138
+##### ARTICOLO 138
 
 1\. Ai fini dell'applicazione del presente capitolo, la nozione di "prodotti originari" ed i relativi metodi di cooperazione amministrativa sono definiti nel protocollo n° 1.
 
@@ -2241,7 +2235,7 @@ A meno che vi abbia gia' proceduto in applicazione delle precedenti convenzioni 
 
 3\. Qualora per un dato prodotto non sia ancora definita, in applicazione dei paragrafi 1 o 2, la nozione di "prodotti originari", ciascuna parte contraente continua ad applicare la propria regolamentazione.
 
-###### ARTICOLO 139
+##### ARTICOLO 139
 
 1\. Qualora l'applicazione delle disposizioni del presente capitolo comporti gravi perturbazioni in un settore della attivita' economica della Comunita' oppure di uno o piu' Stati membri o ne comprometta la stabilita' finanziaria con l'estero, o qualora sorgano difficolta' che rischino di deteriorare un settore d'attivita' della Comunita' o di una regione della stessa, la Comunita' puo' prendere o autorizzare lo Stato membro interessato a prendere misure di salvaguardia. Queste misure, la loro durata e le relative modalita' d'applicazione sono notificate senza indugio al Consiglio dei Ministri.
 
@@ -2251,7 +2245,7 @@ A meno che vi abbia gia' proceduto in applicazione delle precedenti convenzioni 
 
 4\. Al momento della loro attuazione le misure di salvaguardia tengono conto del livello raggiunto dalle esportazioni degli Stati ACP interessate nella Comunita' e del loro potenziale di sviluppo.
 
-###### ARTICOLO 140
+##### ARTICOLO 140
 
 1\. Si svolgono consultazioni preventive in merito all'applicazione della clausola di salvaguardia sia che si tratti della applicazione iniziale sia di una proroga di tali misure. La Comunita' fornisce agli Stati ACP tutte le informazioni necessarie per queste consultazioni nonche' i dati che consentono di determinare in quale misura le importazioni di un dato prodotto in provenienza da uno o piu' Stati ACP abbiano provocato gli effetti di cui all'articolo 139, paragrafo 1.
 
@@ -2265,15 +2259,15 @@ A meno che vi abbia gia' proceduto in applicazione delle precedenti convenzioni 
 
 6\. Le consultazioni preventive cosi' come le consultazioni regolari ed il meccanismo di sorveglianza, di cui ai paragrafi da 1 a 5 sono attuati conformemente alla dichiarazione comune allegata alla presente convenzione.
 
-###### ARTICOLO 141
+##### ARTICOLO 141
 
 Su richiesta di qualsiasi parte contraente interessata, il Consiglio dei Ministri esamina gli effetti economici e sociali determinati dall'applicazione della clausola di salvaguardia.
 
-###### ARTICOLO 142
+##### ARTICOLO 142
 
 In caso di adozione, di modifica o di ritiro delle misure di salvaguardia, si presta particolare attenzione agli interessi degli Stati ACP meno sviluppati, senza sbocco sul mare ed insulari.
 
-###### ARTICOLO 143
+##### ARTICOLO 143
 
 Al fine di assicurare l'efficace applicazione delle disposizioni della presente convenzione nel settore della cooperazione commerciale, le parti contraenti convengono di informarsi e di consultarsi a vicenda.
 
@@ -2287,33 +2281,31 @@ Oltre ai casi in cui sono specificamente previste consultazioni agli articoli da
 
 4\) se la Comunita' o gli Stati membri prendono misure di salvaguardia in conformita' dell'articolo 139, possono essere avviate consultazioni in materia in sede di Consiglio dei Ministri, su richiesta delle parti contraenti interessate, specialmente per assicurare il rispetto dell'articolo 139, paragrafo 3.
 
-## Capitolo 2 - Impegni speciali per il rum e le banane
+### Capitolo 2 - Impegni speciali per il rum e le banane
 
-###### ARTICOLO 144
+##### ARTICOLO 144
 
 Sino all'entrata in vigore di un'organizzazione comune di mercato per gli alcoli ed in deroga all'articolo 130, paragrafo 1, l'ammissione nella Comunita' dei prodotti della sottovoce 22.09 CI - rum, arak, tafia - originari degli Stati ACP e' disciplinata dal protocollo n° 5.
 
-###### ARTICOLO 145
+##### ARTICOLO 145
 
 Per consentire il miglioramento delle condizioni di produzione e di commercializzazione delle banane originarie degli Stati ACP, le parti contraenti concordano gli obiettivi che figurano nel protocollo n° 4.
 
-###### ARTICOLO 146
+##### ARTICOLO 146
 
 Il presente capitolo ed i protocolli nn. 4 e 5 non si applicano alle relazioni tra gli Stati ACP ed i dipartimenti francesi d'oltremare.
 
 ## TITOLO II - COOPERAZIONE IN MATERIA DI PRODOTTI DI BASE
 
-### Capitolo 1
+### Capitolo 1 - Stabilizzazione dei proventi da esportazione di prodotti agricoli di base
 
-#### Stabilizzazione dei proventi da esportazione di prodotti agricoli di base
-
-###### ARTICOLO 147
+##### ARTICOLO 147
 
 1\. Per porre rimedio agli effetti nefasti dell'instabilita' dei proventi da esportazione e per aiutare gli Stati ACP a superare uno dei principali ostacoli alla stabilita', alla redditivita' ed alla costante espansione delle loro economie, per sostenere i loro sforzi di sviluppo e consentir loro di provvedere in questo modo al progresso economico e sociale delle rispettive popolazioni contribuendo a salvaguardare il potere d'acquisto di dette popolazioni, viene istituito, conformemente all'articolo 160, un sistema inteso a garantire la stabilizzazione dei proventi da esportazione provenienti dall'esportazione da parte degli Stati ACP nella Comunita', o verso altre destinazioni secondo la definizione di cui all'articolo 150, di taluni prodotti dai quali dipendono le loro economie e che risentono delle fluttuazioni dei prezzi e/o dei quantitativi.
 
 2\. Per conseguire questi obiettivi, le risorse trasferite sono destinate al mantenimento dei flussi finanziari nel settore in oggetto oppure, in un intento di diversificazione, sono dirette ad altri settori appropriati e servono allo sviluppo economico e sociale.
 
-###### ARTICOLO 148
+##### ARTICOLO 148
 
 1\. I prodotti contemplati sono i seguenti:
 
@@ -2434,11 +2426,11 @@ a) ciascun prodotto elencato al paragrafo 1 costituisce un prodotto a norma del 
 
 b) i gruppi di prodotti 1 e 2, da 3 a 5, 6 e 7, 8 e 9, da 10 a 12, da 13 a 15, da 16 a 19, da 20 a 22, 23 e 48, 45 e 46 costituiscono ciascuno un prodotto a norma del presente capitolo.
 
-###### ARTICOLO 149
+##### ARTICOLO 149
 
 Se dodici mesi dopo l'entrata in vigore della presente convenzione uno o piu' prodotti non elencati all'articolo 148, dai quali pero' dipende in misura considerevole l'economia di uno o piu' Stati ACP, subiscono forti fluttuazioni, il Consiglio dei Ministri si pronuncia circa l'inclusione del prodotto o dei prodotti nell'elenco entro sei mesi dalla presentazione di una richiesta dello Stato degli Stati ACP interessati, tenendo conto di fattori come l'occupazione, il deterioramento dei termini di scambio tra la Comunita' e lo Stato ACP interessato e il livello di sviluppo dello Stato ACP in questione, nonche' le condizioni che caratterizzano i prodotti originari della Comunita'.
 
-###### ARTICOLO 150
+##### ARTICOLO 150
 
 1\. I proventi da esportazione a cui si applica il sistema sono quelli derivanti dall'esportazione:
 
@@ -2452,15 +2444,15 @@ c) verso tutte le destinazioni, da parte degli Stati ACP gia' beneficiari della 
 
 3\. A richiesta di uno Stato ACP che non destina la maggior parte delle sue esportazioni alla Comunita', il Consiglio dei Ministri, basandosi su una relazione redatta dalla Commissione di concerto con lo Stato ACP richiedente, puo' decidere, entro sei mesi dalla presentazione della domanda, che il sistema si applichi all'esportazione dei prodotti in questione, qualunque ne sia la destinazione.
 
-###### ARTICOLO 151
+##### ARTICOLO 151
 
 Ciascuno Stato ACP interessato certifica che i prodotti ai quali si applica il sistema sono originari del suo territorio a norma dell'articolo 2 del protocollo n° 1.
 
-###### ARTICOLO 152
+##### ARTICOLO 152
 
 Ai fini precisati all'articolo 147, la Comunita' destina al sistema, per la durata della presente convenzione, un importo di 925 milioni di ECU per coprire il complesso dei suoi impegni nell'ambito del sistema. Questo importo e' amministrato dalla Commissione.
 
-###### ARTICOLO 153
+##### ARTICOLO 153
 
 1\. L'importo globale di cui all'articolo 152 e' suddiviso in un numero di frazioni annue di pari entita' corrispondente al numero di anni di applicazione.
 
@@ -2468,7 +2460,7 @@ Ai fini precisati all'articolo 147, la Comunita' destina al sistema, per la dura
 
 3\. Qualsiasi rimanenza disponibile alla fine di ciascuno dei primi quattro anni di applicazione della presente convenzione e' riportata di diritto all'anno successivo.
 
-###### ARTICOLO 154
+##### ARTICOLO 154
 
 Le risorse disponibili a titolo di ciascun anno di applicazione sono costituite dalla somma degli elementi sotto indicati:
 
@@ -2482,7 +2474,7 @@ Le risorse disponibili a titolo di ciascun anno di applicazione sono costituite 
 
 5\) l'importo degli interessi ricavato in applicazione dell'articolo 153, paragrafo 2.
 
-###### ARTICOLO 155
+##### ARTICOLO 155
 
 1\. Qualora l'importo totale delle basi di trasferimento relative a un anno di applicazione, calcolate all'articolo 158, paragrafo 2 ed eventualmente ridotte secondo le disposizioni previste all'articolo 164, superi l'importo delle risorse del sistema disponibili a titolo di tale anno, si procede automaticamente, per ogni anno, tranne l'ultimo, all'utilizzazione anticipata, sino ad un massimo del 25% della frazione dell'anno successivo.
 
@@ -2500,17 +2492,17 @@ di cui alla lettera a) e' superiore
 
 4\. Se, dopo la riduzione di cui al paragrafo 3, l'importo totale dei trasferimenti che possono dar luogo a versamento supera l'importo delle risorse disponibili, il Consiglio dei Ministri valuta la situazione sulla scorta di una relazione della Commissione concernente la probabile evoluzione del sistema ed esamina le disposizioni da adottare, nel quadro della presente convenzione, per porvi rimedio.
 
-###### ARTICOLO 156
+##### ARTICOLO 156
 
 Prima della scadenza del periodo di cui all'articolo 152, il Consiglio dei Ministri decide in merito all'utilizzazione di eventuali rimanenze dell'importo globale di cui all'articolo 152, compresi gli interessi previsti all'articolo 153, paragrafo 2, nonche' alle condizioni di utilizzazione successiva degli importi che gli Stati ACP devono ricostituire ai sensi degli articoli 172, 173 e 174 dopo la scadenza del periodo di cui all'articolo 152.
 
-###### ARTICOLO 157
+##### ARTICOLO 157
 
 Ogni richiesta di trasferimento contiene, oltre alle statistiche necessarie, indicazioni sostanziali in merito alla perdita di proventi constatata, nonche' ai programmi e alle azioni ai quali lo Stato ACP ha gia' assegnato o si impegna ad assegnare le risorse conformemente agli obiettivi definiti all'articolo 147.
 
 La richiesta e' rivolta alla Commissione, che la esamina in collegamento con lo Stato ACP interessato, al fine di stabilire l'importo della base di trasferimento e delle riduzioni da effettuare eventualmente in applicazione dell'articolo 164.
 
-###### ARTICOLO 158
+##### ARTICOLO 158
 
 1\. Per l'applicazione del sistema, si calcola un livello di riferimento e una base di trasferimento per ciascuno Stato ACP e per le esportazioni di ciascun prodotto nella Comunita' o verso altre destinazioni quali sono definite all'articolo 150.
 
@@ -2526,7 +2518,7 @@ La richiesta e' rivolta alla Commissione, che la esamina in collegamento con lo 
 
 il sistema puo' essere applicato in base a un livello di riferimento calcolato sui tre anni che precedono l'anno di applicazione.
 
-###### ARTICOLO 159
+##### ARTICOLO 159
 
 1\. Nel caso degli Stati ACP che beneficiano della deroga di cui all'articolo 150, paragrafo 2, la base di trasferimento e' calcolata aggiungendo ai proventi da esportazione del (o dei) prodotto(i) in questione verso la Comunita' quelli a destinazione degli altri Stati ACP.
 
@@ -2534,7 +2526,7 @@ il sistema puo' essere applicato in base a un livello di riferimento calcolato s
 
 3\. Nel caso degli Stati ACP che non beneficiano della deroga di cui all'articolo 150, paragrafo 3, le basi di trasferimento non possono in nessun caso essere superiori a quelle calcolate in applicazione del paragrafo 2.
 
-###### ARTICOLO 160
+##### ARTICOLO 160
 
 1\. I proventi da esportazione corrispondenti a ciascun anno del periodo di riferimento nonche' all'anno di applicazione sono calcolati in base al controvalore nella moneta nazionale dello Stato ACP interessato dei proventi in divise.
 
@@ -2544,7 +2536,7 @@ il sistema puo' essere applicato in base a un livello di riferimento calcolato s
 
 4\. Se il tasso medio annuo tra l'ECU e la moneta nazionale dello Stato ACP interessato, applicabile all'anno di applicazione, registra una fluttuazione superiore al 10% rispetto alla media dei tassi medi annui di ciascun anno del periodo di riferimento, i proventi dell'anno di applicazione sono convertiti in ECU, in deroga al paragrafo 3 e fatte salve le disposizioni del paragrafo 2, ad un tasso fissato in modo da limitare al 10% la fluttuazione rispetto a detta media.
 
-###### ARTICOLO 161
+##### ARTICOLO 161
 
 1\. Il sistema si applica ai proventi che derivano ad uno Stato ACP dall'esportazione dei prodotti elencati all'articolo 148 se, nell'anno che precede quello di applicazione, i proventi da esportazione di ciascun prodotto per qualsiasi destinazione, al netto delle riesportazioni, hanno costituito per tale Stato almeno il 6% dei proventi totali delle esportazioni di merci. Per il sisal si applica la percentuale del 4,5%.
 
@@ -2554,13 +2546,13 @@ il sistema puo' essere applicato in base a un livello di riferimento calcolato s
 
 Per calo notevole della produzione si intende un calo di almeno il 50% rispetto alla produzione media dei primi tre anni di riferimento.
 
-###### ARTICOLO 162
+##### ARTICOLO 162
 
 1\. Uno Stato ACP ha diritto di richiedere un trasferimento se, in base ai risultati di un anno civile, i suoi proventi effettivi, quali definiti all'articolo 165, derivanti dalla esportazione di ciascun prodotto nella Comunita' e nei casi contemplati dall'articolo 150, paragrafo 1, lettera b) derivanti dalle esportazioni in altri Stati ACP oppure, nei casi contemplati dall'articolo 150, paragrafo 1, lettera c) derivanti dalle esportazioni per tutte le destinazioni, sono inferiori di almeno 6% al livello di riferimento.
 
 2\. La percentuale indicata al paragrafo 1 e' dell'1,5% nel caso degli Stati ACP meno sviluppati, senza sbocco sul mare e insulari.
 
-###### ARTICOLO 163
+##### ARTICOLO 163
 
 Le richieste di trasferimento sono irricevibili nei casi seguenti:
 
@@ -2568,11 +2560,11 @@ a) se la richiesta e' presentata dopo il 31 marzo dell'anno successivo all'anno 
 
 b) se dall'esame della richiesta, svolto dalla Commissione insieme allo Stato ACP interessato, risulta che la diminuzione dei proventi delle esportazioni nella Comunita' e' conseguenza di una politica commerciale di tale Stato ACP, la quale incide sfavorevolmente in particolare sulle esportazioni nella Comunita'.
 
-###### ARTICOLO 164
+##### ARTICOLO 164
 
 Qualora l'andamento delle esportazioni di uno Stato ACP verso tutte le destinazioni e della produzione del prodotto in oggetto in detto Stato, nonche' della domanda della Comunita' riveli forti cambiamenti, hanno luogo consultazioni tra la Commissione e lo Stato ACP richiedente per determinare se la base di trasferimento debba essere mantenuta o ridotta e, in caso affermativo, in quale misura.
 
-###### ARTICOLO 165
+##### ARTICOLO 165
 
 1\. Il sistema si applica ai prodotti enumerati nell'elenco figurante all'articolo 148:
 
@@ -2590,7 +2582,7 @@ b) quelli che si ottengono moltiplicando i valori unitari delle esportazioni del
 
 4\. Per quanto riguarda il (o i) prodotto per il (i) quale(i) uno Stato ACP beneficia della deroga di cui all'articolo 150, paragrafi 2 e 3, le statistiche di esportazione prese in considerazione sono quelle dello Stato ACP in questione.
 
-###### ARTICOLO 166
+##### ARTICOLO 166
 
 1\. Per assicurare un efficace e rapido funzionamento del sistema di stabilizzazione, viene istituita tra ciascuno Stato ACP e la Commissione una cooperazione in materia statistica e doganale.
 
@@ -2598,7 +2590,7 @@ b) quelli che si ottengono moltiplicando i valori unitari delle esportazioni del
 
 3\. Gli Stati ACP e la Commissione decidono di comune accordo i provvedimenti di ordine pratico intesi a facilitare, tra l'altro, lo scambio delle necessarie informazioni, la presentazione delle richieste di trasferimento, le indicazioni relative all'utilizzazione dei trasferimenti stessi e l'applicazione delle disposizioni relative alla ricostituzione e di qualsiasi altro elemento del sistema servendosi nella piu' ampia misura dei formulari tipo.
 
-###### ARTICOLO 167
+##### ARTICOLO 167
 
 1\. La Commissione prende una decisione di trasferimento al termine di un esame effettuato congiuntamente con lo Stato ACP richiedente in merito alle statistiche e alla fissazione della base di trasferimento che puo' dar luogo a versamento, nonche' alle indicazioni di cui all'articolo 157.
 
@@ -2606,7 +2598,7 @@ b) quelli che si ottengono moltiplicando i valori unitari delle esportazioni del
 
 3\. Le somme trasferite sono infruttifere.
 
-###### ARTICOLO 168
+##### ARTICOLO 168
 
 1\. Lo Stato ACP interessato e la Commissione fanno il possibile per garantire che il controllo di concordanza delle statistiche previste all'articolo 165 sia completato entro il 31 maggio successivo al ricevimento delle richieste. Al piu' tardi a tale data la Commissione notifica allo Stato ACP richiedente l'esito del controllo di concordanza o, in mancanza di esso, il motivo che ha impedito l'espletamento dell'operazione.
 
@@ -2616,7 +2608,7 @@ b) quelli che si ottengono moltiplicando i valori unitari delle esportazioni del
 
 4\. Alla data del 30 settembre successivo al ricevimento delle richieste la Commissione riferisce al Comitato degli Ambasciatori in merito all'andamento della procedura di istruzione dell'insieme delle richieste di trasferimento.
 
-###### ARTICOLO 169
+##### ARTICOLO 169
 
 1\. Un caso di disaccordo tra lo Stato ACP richiedente e la Commissione sui risultati dell'esame di cui agli articoli 163 e 164 lo Stato ACP richiedente puo' avviare, salvo ricorso alle disposizioni dell'articolo 278, una procedura di buoni uffici.
 
@@ -2628,7 +2620,7 @@ Lo Stato ACP interessato e la Commissione si adoperano per garantire l'adozione 
 
 4\. Questa procedura non deve comportare un ritardo nell'esame delle altre richieste di trasferimento relative allo stesso anno d'applicazione.
 
-###### ARTICOLO 170
+##### ARTICOLO 170
 
 1\. Lo Stato ACP interessato e la Commissione prendono tutte le opportune disposizioni per garantire un trasferimento rapido, conformemente alle procedure di cui all'articolo 168. A questo scopo, viene tra l'altro offerta la possibilita' di versamenti anticipati.
 
@@ -2636,7 +2628,7 @@ Lo Stato ACP interessato e la Commissione si adoperano per garantire l'adozione 
 
 3\. Prima della firma dell'accordo di trasferimento, lo Stato ACP beneficiario di un trasferimento comunica le indicazioni sostanziali in merito ai programmi e alle azioni ai quali ha assegnato o si impegna ad assegnare le risorse, conformemente agli obiettivi definiti all'articolo 147. Nel contesto del presente articolo, come pure in quello dell'articolo 157, per indicazioni sostanziali si intendono quelle riguardanti la diagnosi relativa al settore o ai settori interessati, le statistiche e l'assegnazione delle risorse stabilite dallo Stato ACP richiedente. Qualora, in conformita' dell'articolo 147, paragrafo 2, lo Stato ACP beneficiario intenda destinare le risorse a settori diversi da quello in cui e' stato registrato il calo dei proventi, esso comunica alla Commissione le pertinenti motivazioni. La Commissione si assicura in tutti i casi che la comunicazione sia conforme all'articolo 157.
 
-###### ARTICOLO 171
+##### ARTICOLO 171
 
 1\. Entro i dodici mesi successivi alla firma dell'accordo di trasferimento, lo Stato ACP beneficiarono comunica alla Commissione una relazione sull'utilizzazione fatta delle risorse trasferite.
 
@@ -2648,13 +2640,13 @@ Questa relazione contiene tutte le informazioni specificate nel formulario che s
 
 Questa decisione e' immediatamente notificata allo Stato ACP interessato.
 
-###### ARTICOLO 172
+##### ARTICOLO 172
 
 Gli Stati ACP beneficiari di trasferimenti, ad eccezione degli Stati ACP meno sviluppati, contribuiscono alla ricostituzione delle risorse che la Comunita' ha messo a disposizione del sistema.
 
 L'obbligo di ricostituzione viene meno se nei sette anni successivi a quello del versamento del trasferimento non sussistono le condizioni previste all'articolo 173.
 
-###### ARTICOLO 173
+##### ARTICOLO 173
 
 1\. Se l'evoluzione dei proventi da esportazione per un prodotto che ha subito una diminuzione di proventi la quale ha dato origine a un trasferimento lo permette, lo Stato ACP interessato contribuisce alla ricostruzione delle risorse del sistema.
 
@@ -2676,7 +2668,7 @@ c) i proventi per l'anno e il prodotto in oggetto raggiungono almeno il 106% del
 
 4\. Ai fini dell'applicazione dei paragrafi 2 e 3 si tiene conto dell'evoluzione costatata nelle esportazioni verso tutte le destinazioni.
 
-###### ARTICOLO 174
+##### ARTICOLO 174
 
 1\. L'importo di cui all'articolo 173, paragrafo 3 viene riversato al sistema nella misura di un quinto all'anno dopo un biennio di dilazione che inizia nell'anno durante il quale e' stato costatato l'obbligo di contribuire alla ricostituzione.
 
@@ -2686,9 +2678,9 @@ c) i proventi per l'anno e il prodotto in oggetto raggiungono almeno il 106% del
 
 \- mediante imputazione ai diritti a trasferimento di detto Stato costatati prima dell'eventuale applicazione dell'articolo 155, oppure - mediante pagamento in moneta locale. In tal caso, l'importo riversato viene destinato in primo luogo alla copertura delle spese locali a carico del Fondo europeo di sviluppo in seguito denominato "Fondo" nel quadro dei progetti di sviluppo al cui finanziamento esso contribuisce.
 
-## Capitolo 2 - Impegni speciali concernenti lo zucchero
+### Capitolo 2 - Impegni speciali concernenti lo zucchero
 
-###### ARTICOLO 175
+##### ARTICOLO 175
 
 1\. Conformemente all'articolo 25 della convenzione ACP-CEE di Lome' firmata il 28 febbraio 1975 e al protocollo n° 3 allegato a quest'ultima, la Comunita' si e' impegnata per un periodo indeterminato nonostante le altre disposizioni della presente convenzione, ad acquistare e ad importare a prezzi garantiti determinati quantitativi di zucchero di canna, greggio o bianco, originario degli Stati ACP produttori ed esportatori di zucchero di canna, che detti Stati si sono impegnati a fornirle.
 
@@ -2704,13 +2696,13 @@ c) i proventi per l'anno e il prodotto in oggetto raggiungono almeno il 106% del
 
 7\. Il presente articolo ed il protocollo n° 3 di cui al paragrafo 1 non si applicano alle relazioni tra gli Stati ACP ed i dipartimenti francesi d'oltremare.
 
-## Capitolo 3 - Prodotti minerari: facilita' di finanziamento speciale (SYSMIN)
+### Capitolo 3 - Prodotti minerari: facilita' di finanziamento speciale (SYSMIN)
 
-###### ARTICOLO 176
+##### ARTICOLO 176
 
 Per contribuire alla creazione di una base piu' solida per lo sviluppo degli Stati ACP la cui economia dipende dal settore minerario, e specialmente per aiutarli a far fronte alla degradazione delle loro capacita' di esportazione di prodotti minerari nella Comunita', nonche' alla conseguente perdita di proventi da esportazione, viene istituito un sistema per aiutare questi Stati nello sforzo che essi compiono per risanare il settore minerario od ovviare alle conseguenze nefaste che esercitano sul loro sviluppo le gravi perturbazioni temporanee o imprevedibili di tale settore, indipendenti dalla volonta' degli Stati ACP interessati.
 
-###### ARTICOLO 177
+##### ARTICOLO 177
 
 1\. Il sistema previsto all'articolo 176 si applica in particolare ai seguenti prodotti:
 
@@ -2728,7 +2720,7 @@ Per contribuire alla creazione di una base piu' solida per lo sviluppo degli Sta
 
 2\. Se entro un minimo di dodici mesi dopo l'entrata in vigore della presente convenzione uno o piu' prodotti non riportati in questo elenco, ma dai quali dipende in ampia misura l'economia di uno o piu' Stati ACP, risentono di serie perturbazioni, il Consiglio dei Ministri si pronuncera' in merito all'inclusione di questo prodotto, entro un massimo di sei mesi dopo la presentazione di domanda in tal senso da parte dello Stato ACP interessato.
 
-###### ARTICOLO 178
+##### ARTICOLO 178
 
 1\. Ai fini precisati all'articolo 176, e per tutta la durata di applicazione della presente convenzione, viene istituito un sistema speciale di finanziamento al quale la Comunita' destina l'importo globale di 415 milioni di ECU destinato a coprire il complesso dei suoi impegni nel quadro di questo sistema:
 
@@ -2748,7 +2740,7 @@ e) le risorse disponibili a titolo di ciascun anno di applicazione sono costitui
 
 2\. Prima della scadenza del periodo di cui all'articolo 291 il Consiglio dei Ministri decide in merito alla destinazione di eventuali rimanenze dell'importo globale fissato dal presente articolo.
 
-###### ARTICOLO 179
+##### ARTICOLO 179
 
 1\. Il ricorso ai mezzi di finanziamento del sistema speciale di cui all'articolo 178 e' offerto:
 
@@ -2762,7 +2754,7 @@ quando si constati o si preveda per i mesi successivi una riduzione sostanziale 
 
 3\. Per riduzione sostanziale delle capacita' di produzione o di esportazione si intende una flessione del 10%.
 
-###### ARTICOLO 180
+##### ARTICOLO 180
 
 Uno Stato ACP il quale, in almeno due dei quattro anni precedenti, abbia realizzato di regola:
 
@@ -2774,13 +2766,13 @@ puo' chiedere di beneficiare di un intervento finanziario nell'ambito delle riso
 
 Nondimeno, per gli Stati meno sviluppati, senza sbocco sul mare e insulari, il tasso previsto alla lettera a) e' pari al 10% e quello previsto alla lettera b) al 12%.
 
-###### ARTICOLO 181
+##### ARTICOLO 181
 
 La richiesta di intervento e' indirizzata alla Commissione, che l'esamina congiuntamente con lo Stato ACP interessato. Se necessario, soprattutto per accelerare l'istruzione della richiesta, si puo' ricorrere alle risorse previste all'articolo 178 per finanziare una perizia rapida che consenta una diagnosi tecnica e finanziaria della capacita' di produzione considerata.
 
 L'adempimento delle condizioni d'intervento viene constatato di comune accordo dalla Comunita' e dallo Stato ACP. Il relativo verbale notificato dalla Commissione allo Stato ACP conferisce a quest'ultimo il diritto all'intervento della Comunita' con ricorso al sistema speciale di finanziamento.
 
-###### ARTICOLO 182
+##### ARTICOLO 182
 
 L'intervento di cui all'articolo 180 e' orientato verso gli obiettivi definiti all'articolo 176.
 
@@ -2796,7 +2788,7 @@ Uno stesso Stato ACP non puo' in nessun caso beneficiare di piu' del 35% dei fon
 
 Le procedure applicabili all'assistenza nelle succitate circostanze e le modalita' di esecuzione sono quelle fissate nel titolo III della Parte terza della presente convenzione, esse tengono conto della necessita' di una rapida attuazione dell'intervento.
 
-###### ARTICOLO 183
+##### ARTICOLO 183
 
 1\. Per consentire l'attuazione di misure conservative atte a limitare la degradazione dell'apparato produttivo durante l'istruzione o l'esecuzione di questi progetti o programmi, la Comunita' puo' accordare un anticipo allo Stato ACP che ne faccia richiesta. Questa possibilita' non esclude il ricorso dello Stato ACP al beneficio degli aiuti d'urgenza di cui all'articolo 203.
 
@@ -2806,19 +2798,17 @@ Le procedure applicabili all'assistenza nelle succitate circostanze e le modalit
 
 4\. Esso viene incorporato nell'importo degli interventi della Comunita' in forma di progetti o di programmi al momento della firma dell'accordo di finanziamento relativo agli interventi stessi.
 
-###### ARTICOLO 184
+##### ARTICOLO 184
 
 Gli aiuti accordati a titolo del sistema di finanziamento speciale sono rimborsati secondo le stesse modalita' ed alle stesse condizioni dei prestiti speciali, tenendo conto delle disposizioni decise a favore degli Stati ACP meno sviluppati.
 
 ## TITOLO III - COOPERAZIONE FINANZIARIA E TECNICA
 
-### Capitolo 1
+### Capitolo 1 - Disposizioni generali
 
-#### Disposizioni generali
+#### Sezione 1 - Obiettivi e principi
 
-##### Sezione 1 - Obiettivi e principi
-
-###### ARTICOLO 185
+##### ARTICOLO 185
 
 La cooperazione finanziaria e tecnica persegue gli obiettivi seguenti:
 
@@ -2842,7 +2832,7 @@ h) permettere agli Stati ACP che devono far fronte a gravi difficolta' economich
 
 i) aiutare gli Stati ACP meno sviluppati, senza sbocco sul mare e insulari a superare i particolari ostacoli che frenano i loro sforzi di sviluppo.
 
-###### ARTICOLO 186
+##### ARTICOLO 186
 
 La cooperazione finanziaria e tecnica:
 
@@ -2860,9 +2850,9 @@ f) prevede che gli apporti di risorse avvengano su base piu' prevedibile e regol
 
 g) assicura la partecipazione degli Stati ACP alla gestione e all'impiego delle risorse finanziarie ed una piu' decisa ed efficace decentralizzazione dei poteri decisionali.
 
-## Sezione 2 - Campo d'applicazione
+#### Sezione 2 - Campo d'applicazione
 
-###### ARTICOLO 187
+##### ARTICOLO 187
 
 Nel quadro della presente convenzione, la cooperazione finanziaria e tecnica copre:
 
@@ -2876,7 +2866,7 @@ d) i programmi di cooperazione tecnica;
 
 e) la realizzazione di mezzi elastici, di appoggio degli sforzi propri delle comunita' di base.
 
-###### ARTICOLO 188
+##### ARTICOLO 188
 
 1\. La cooperazione finanziaria e tecnica e' inoltre accordata, su richiesta, per programmi settoriali di sviluppo ed importazione aventi lo scopo di contribuire al rendimento ottimale dei settori produttivi e alla soddisfazione dei bisogni fondamentali dell'uomo.
 
@@ -2892,11 +2882,11 @@ b) aiuti supplementari possono coprire in modo temporaneo e decrescente le spese
 
 c) vengono accordati priorita' e trattamento particolare alla determinazione e all'attuazione degli aiuti complementari e supplementari, di cui alle lettere a) e b), negli Stati ACP meno sviluppati.
 
-###### ARTICOLO 189
+##### ARTICOLO 189
 
 Gli aiuti finanziari possono coprire le spese esterne e le spese locali necessarie all'attuazione dei progetti e programmi di azioni.
 
-###### ARTICOLO 190
+##### ARTICOLO 190
 
 1\. Nel quadro delle priorita' fissate dagli Stati ACP e della cooperazione regionale, i progetti e programmi di azioni possono concernere:
 
@@ -2948,7 +2938,7 @@ p) il miglioramento dell'infrastruttura e dei servizi socioculturali, come dell'
 
 \- e, in generale, le azioni che, per la loro durata, sono azioni a lungo termine e superano un orizzonte temporale determinato.
 
-###### ARTICOLO 191
+##### ARTICOLO 191
 
 1\. Beneficiano della cooperazione finanziaria e tecnica:
 
@@ -2970,9 +2960,9 @@ d) le associazioni di produttori cittadini degli Stati ACP;
 
 e) i borsisti ed i tirocinanti.
 
-## Sezione 3 - Responsabilita' degli Stati ACP e della Comunita'
+#### Sezione 3 - Responsabilita' degli Stati ACP e della Comunita'
 
-###### ARTICOLO 192
+##### ARTICOLO 192
 
 1\. Gli interventi finanziati dalla Comunita' sono attuati dagli Stati ACP e dalla Comunita' in stretta cooperazione e nel rispetto dell'eguaglianza delle parti.
 
@@ -3006,7 +2996,7 @@ f) accertarsi che l'attuazione dei progetti e programmi di azioni finanziati dal
 
 4\. Spetta alla Comunita' prendere le decisioni di finanziamento relative ai progetti e programmi di azioni.
 
-###### ARTICOLO 193
+##### ARTICOLO 193
 
 1\. Il Consiglio dei Ministri esamina, almeno una volta all'anno, la fase di realizzazione degli obiettivi della cooperazione finanziaria e tecnica, nonche' i problemi generali e specifici risultanti dall'attuazione di detta cooperazione. L'esame verte altresi' sulla cooperazione regionale e sulle misure a favore degli Stati ACP meno sviluppati, senza sbocco sul mare e insulari.
 
@@ -3050,13 +3040,11 @@ La relazione espone in particolare la situazione dell'impegno, dell'esecuzione e
 
 10\. Ove si tratti di finanziamenti di progetti di competenza della Banca, le modalita' e procedure relative all'attuazione della cooperazione finanziaria e tecnica, definite ai capitoli 3 e 4, possono, di concerto con gli Stati ACP interessati, subire adeguamenti per tener conto della natura dei progetti finanziati dalla Banca, e consentirle, all'interno delle sue procedure statutarie, di svolgere le sue operazioni conformemente agli obiettivi della presente convenzione.
 
-## Capitolo 2 - Cooperazione finanziaria
+### Capitolo 2 - Cooperazione finanziaria
 
-### Sezione 1
+#### Sezione 1 - Mezzi di finanziamento
 
-#### Mezzi di finanziamento
-
-###### ARTICOLO 194
+##### ARTICOLO 194
 
 Per la durata della presente convenzione, l'importo globale dei contributi finanziari della Comunita' e' di 8.500 milioni di ECU.
 
@@ -3078,7 +3066,7 @@ c) ai fini precisati agli articoli da 176 a 184, una possibilita' di finanziamen
 
 2\) Ai fini precisati agli articoli 185, 186 e 187 fino a 1.100 milioni di ECU in forma di prestiti concessi dalla Banca sulle sue risorse proprie e alle condizioni previste dal suo statuto. Questi prestiti sono abbinati, secondo le condizioni fissate all'articolo 196 di un abbuono di interessi il cui onere e' imputato sulle risorse del Fondo.
 
-###### ARTICOLO 195
+##### ARTICOLO 195
 
 1\. In caso di mancata ratifica o denuncia della presente convenzione da parte di uno Stato ACP, le parti contraenti adeguano gli importi finanziati previsti nella presente convenzione.
 
@@ -3088,9 +3076,9 @@ a) di adesione alla presente convenzione di nuovi Stati ACP che non hanno partec
 
 b) di allargamento della Comunita' a nuovi Stati membri.
 
-## Sezione 2 - Condizioni dei prestiti
+#### Sezione 2 - Condizioni dei prestiti
 
-###### ARTICOLO 196
+##### ARTICOLO 196
 
 1\. Per assicurare un sostegno efficace ai programmi di sviluppo degli Stati ACP, le parti contraenti convengono che tutti i prestiti concessi agli Stati ACP siano abbinati a condizioni favorevoli.
 
@@ -3112,9 +3100,9 @@ c) l'importo globale degli abbuoni d'interesse, attualizzato al valore del momen
 
 d) i prestiti concessi dalla Banca sulle sue risorse proprie sono abbinati a condizioni di durata fissate sulla base delle caratteristiche economiche e finanziarie del progetto, tale durata non puo' superare 25 anni. Tali prestiti contemplano normalmente una dilazione di ammortamento fissata in funzione della durata di costruzione e dei bisogni di tesoreria del progetto.
 
-## Sezione 3 - Modi di finanziamento
+#### Sezione 3 - Modi di finanziamento
 
-###### ARTICOLO 197
+##### ARTICOLO 197
 
 1\. I progetti o programmi di azioni possono essere finanziati mediante sovvenzione, prestiti speciali, capitali di rischio, prestiti della Banca sulle sue risorse proprie, o combinando due o piu' di questi modi di finanziamento.
 
@@ -3140,13 +3128,13 @@ L'esame da parte della Banca della ammissibilita' dei progetti e la concessione 
 
 11\. E' accordato un trattamento speciale agli Stati ACP meno sviluppati nella determinazione del volume delle risorse finanziarie che questi Stati possono aspettarsi dalla Comunita' nel quadro del loro programma indicativo. Si tiene altresi' conto delle difficolta' speciali degli Stati ACP senza sbocco sul mare e insulari. Tali risorse finanziarie sono abbinate a condizioni di finanziamento particolarmente favorevoli, tenuto conto della situazione economica e della natura del fabbisogno propri ad ogni Stato. Esse consistono essenzialmente in sovvenzioni e, in determinati casi, in prestiti speciali, in capitali di rischio o in prestiti della Banca, secondo i criteri definiti al paragrafo 4.
 
-###### ARTICOLO 198
+##### ARTICOLO 198
 
 Su richiesta degli Stati ACP, la Comunita' offre la propria assistenza tecnica per studiare e trovare soluzioni concrete ai loro problemi di indebitamento, servizio del debito e bilancia dei pagamenti.
 
-## Sezione 4 - Capitali di rischio
+#### Sezione 4 - Capitali di rischio
 
-###### ARTICOLO 199
+##### ARTICOLO 199
 
 1\. Per aiutare l'attuazione di operazioni che presentino un interesse generale per l'economia degli Stati ACP, la Comunita' puo' contribuire alla formazione di capitali di rischio che possono essere utilizzati in particolare per gli obiettivi seguenti:
 
@@ -3174,9 +3162,9 @@ c) prestiti da concedere ad istituti finanziari degli Stati ACP quando lo consen
 
 6\. I progetti ed i programmi individuati e promossi dagli organismi misti istituiti dalla Comunita' e dagli Stati ACP ed autorizzati da tali Stati a realizzare taluni obiettivi specifici nell'ambito dell'articolo 191, paragrafo 1, lettera c) possono inoltre beneficiare dei contributi in quasi capitale di cui al paragrafo 3 del presente articolo.
 
-## Sezione 5 - Cofinanziamenti
+#### Sezione 5 - Cofinanziamenti
 
-###### ARTICOLO 200
+##### ARTICOLO 200
 
 1\. A richiesta degli Stati ACP, i mezzi finanziari della Comunita' possono servire per cofinanziamenti, in particolare quando consentono di aumentare i flussi finanziari verso gli Stati ACP e sostenere gli sforzi di questi ultimi per l'armonizzazione della cooperazione internazionale a favore del loro sviluppo. Con particolare attenzione vengono trattate le possibilita' di cofinanziamento nei casi seguenti:
 
@@ -3220,9 +3208,9 @@ f) il grado di preferenza accordato alle imprese degli Stati ACP.
 
 6\. A richiesta dello Stato ACP interessato e con l'accordo delle altre parti in causa, la Commissione o la Banca possono svolgere una funzione di capofila o di coordinatore per i progetti dei quali esse partecipino al finanziamento.
 
-## Sezione 6 - Microprogetti
+#### Sezione 6 - Microprogetti
 
-###### ARTICOLO 201
+##### ARTICOLO 201
 
 1\. Per rispondere concretamente alle esigenze di sviluppo degli enti locali, il Fondo partecipa, su richiesta degli Stati ACP, al finanziamento di microprogetti.
 
@@ -3236,7 +3224,7 @@ f) il grado di preferenza accordato alle imprese degli Stati ACP.
 
 4\. Speciale priorita' e' data alla preparazione ed attuazione di microprogetti negli Stati ACP meno sviluppati.
 
-###### ARTICOLO 202
+##### ARTICOLO 202
 
 1\. Ciascun progetto per il quale viene chiesto il contributo della Comunita' deve rispondere ad un'iniziativa dell'ente locale che ne beneficera'. Il finanziamento dei microprogetti e' assicurato in linea di massima:
 
@@ -3250,9 +3238,9 @@ Lo Stato ACP interessato puo' anch'esso partecipare con un contributo finanziari
 
 3\. Gli importi che rappresentano il contributo del Fondo sono imputati sulle disponibilita' per sovvenzioni del programma indicativo d'aiuto comunitario di cui all'articolo 215.
 
-## Sezione 7 - Aiuto d'urgenza e aiuto ai profughi e ai rimpatriati
+#### Sezione 7 - Aiuto d'urgenza e aiuto ai profughi e ai rimpatriati
 
-###### ARTICOLO 203
+##### ARTICOLO 203
 
 1\. Gli aiuti d'urgenza sono concessi agli Stati ACP che devono far fronte a difficolta' economiche e sociali gravi, di carattere eccezionale, risultanti da calamita' naturali o da circostanze straordinarie aventi effetti comparabili.
 
@@ -3288,7 +3276,7 @@ b) Qualora non tutti gli stanziamenti aperti siano stati impegnati entro il term
 
 c) I fondi non utilizzati sono quindi riassegnati alla dotazione speciale.
 
-###### ARTICOLO 204
+##### ARTICOLO 204
 
 1\. Possono essere concessi aiuti agli Stati ACP che ospitano profughi o rimpatriati per sovvenire ai bisogni gravi non contemplati dall'aiuto d'urgenza e per realizzare a piu' lungo termine progetti e programmi di azioni aventi come obiettivo l'autosufficienza e l'integrazione o la reintegrazione di tali popolazioni.
 
@@ -3296,7 +3284,7 @@ c) I fondi non utilizzati sono quindi riassegnati alla dotazione speciale.
 
 3\. Questi aiuti possono essere attuati, con l'accordo dello Stato ACP interessato, tramite e in coordinamento con organismi specializzati, in particolare quelli delle Nazioni Unite, o direttamente dalla Commissione.
 
-###### ARTICOLO 205
+##### ARTICOLO 205
 
 1\. Per il finanziamento degli aiuti previsti agli articoli 203 e 204, nell'ambito del Fondo e' costituita una dotazione speciale di 290 milioni di ECU, di cui 210 milioni di ECU per gli aiuti di cui all'articolo 203 e 80 milioni di ECU per quelli di cui all'articolo 204.
 
@@ -3306,9 +3294,9 @@ c) I fondi non utilizzati sono quindi riassegnati alla dotazione speciale.
 
 4\. In caso di esaurimento della dotazione speciale prima della scadenza della presente convenzione, gli Stati ACP e la Comunita' adottano, nell'ambito delle istituzioni congiunte competenti, le misure appropriate per far fronte alle situazioni di cui agli articoli 203 e 204.
 
-## Sezione 8 - Piccole e medie imprese
+#### Sezione 8 - Piccole e medie imprese
 
-###### ARTICOLO 206
+##### ARTICOLO 206
 
 1\. La Comunita' finanzia azioni a favore delle piccole e medie imprese degli Stati ACP. I modi di finanziamento sono determinati in funzione delle caratteristiche del programma di azione presentato da detti Stati.
 
@@ -3328,9 +3316,9 @@ La modalita' e le condizioni di finanziamento ai beneficiari finali sono adottat
 
 6\. Le condizioni di finanziamento accordate dalla Comunita' all'organismo finanziario tengono conto della necessita' che quest'ultimo copra le proprie spese di gestione, i rischi di cambio ed i rischi finanziari, nonche' il costo dell'assistenza tecnica fornita alle imprese o ad altri mutuatari finali.
 
-## Capitolo 3 - Cooperazione tecnica
+### Capitolo 3 - Cooperazione tecnica
 
-###### ARTICOLO 207
+##### ARTICOLO 207
 
 1\. La cooperazione tecnica ha lo scopo di apportare un maggior sostegno allo sviluppo delle risorse umane negli Stati ACP.
 
@@ -3348,7 +3336,7 @@ d) gli esperti, messi a disposizione nell'ambito di questa cooperazione, devono 
 
 4\. La Comunita' prende le misure concrete per accrescere e migliorare le informazioni comunicate agli Stati ACP in merito alla disponibilita' e alle qualifiche degli specialisti adeguati.
 
-###### ARTICOLO 208
+##### ARTICOLO 208
 
 1\. La cooperazione tecnica puo' essere o connessa alle operazioni o essere generale.
 
@@ -3396,7 +3384,7 @@ j) la cooperazione o il gemellaggio tra istituzioni ACP o tra queste ultime e qu
 
 k) il sostegno a manifestazioni culturali altamente significative.
 
-###### ARTICOLO 209
+##### ARTICOLO 209
 
 1\. La cooperazione tecnica fa l'oggetto di contratti stipulati con singoli esperti, uffici studi, istituti di formazione e di ricerca oppure e' eccezionalmente realizzata in economia.
 
@@ -3424,7 +3412,7 @@ b) si tiene debito conto della disponibilita' di candidati idonei rispondenti ai
 
 c) ci si sforza di facilitare il contatto diretto tra il candidato e chi deve servirsi dell'assistenza tecnica.
 
-###### ARTICOLO 210
+##### ARTICOLO 210
 
 1\. I contratti di servizi sono stipulati previa licitazione privata.
 
@@ -3444,7 +3432,7 @@ b) La partecipazione della Comunita' si limita all'assunzione dei mezzi compleme
 
 4\. Le modalita' di conclusione di ciascun contratto, o il ricorso all'esecuzione in economia, sono decisi di comune accordo dalla Commissione e dallo Stato ACP interessato sulla base delle necessita' di quest'ultimo e delle risorse disponibili.
 
-###### ARTICOLO 211
+##### ARTICOLO 211
 
 1\. a) Per ogni azione di cooperazione tecnica che dia luogo a gara, la Commissione e lo Stato ACP interessato stabiliscono di comune accordo entro due mesi dalla domanda, eventualmente dopo preselezione, un elenco ristretto di candidati cittadini degli Stati membri e/o degli Stati ACP, selezionati tenendo conto della loro situazione giuridica e finanziaria, delle loro qualifiche, della loro esperienza, della loro indipendenza, della loro disponibilita' e dei criteri e principi definiti nell'articolo 209.
 
@@ -3470,27 +3458,25 @@ La proposta della Commissione e' notificata allo Stato ACP entro un mese dalla s
 
 6\. In casi eccezionali, in accordo con la Commissione, si puo' far ricorso a uffici studi o ad esperti di paesi terzi.
 
-###### ARTICOLO 212
+##### ARTICOLO 212
 
 1\. I contratti di servizi sono negoziati, elaborati e conclusi dalle autorita' competenti degli Stati ACP, in accordo con il delegato della Commissione, nel quadro di un capitolato d'oneri che fissa le condizioni generali applicabili alla conclusione e all'esecuzione dei contratti e che e' adottato con decisione del Consiglio dei Ministri nella prima sessione successiva all'entrata in vigore della presente convenzione, previo parere del Comitato ACP-CEE di cui all'articolo 193.
 
 2\. Fino all'entrata in vigore della decisione prevista al paragrafo 1, la conclusione e l'esecuzione dei contratti di servizi finanziati dal Fondo sono disciplinati dalla legislazione nazionale degli Stati ACP e dalle loro prassi correnti in materia di contratti internazionali oppure, se gli Stati ACP lo desiderano, dalle clausole generali attualmente applicate nei contratti finanziati dal Fondo.
 
-###### ARTICOLO 213
+##### ARTICOLO 213
 
 Affinche' gli Stati ACP possano meglio accrescere la propria competenza tecnica e migliorare il know-how dei loro consulenti, si promuove la cooperazione tra uffici studi, consulenti tecnici, esperti ed istituzioni degli Stati membri della Comunita' e degli Stati ACP, mediante associazioni momentanee, subappalti o inserimento di esperti, cittadini degli Stati ACP, nello staff di uffici studi, consulenti tecnici o istituzioni degli Stati membri della Comunita'.
 
-###### ARTICOLO 214
+##### ARTICOLO 214
 
 La cooperazione tecnica fornisce un sostegno alle azioni d'istruzione e formazione secondo le condizioni previste all'articolo 119.
 
-## Capitolo 4 - Procedura di attuazione
+### Capitolo 4 - Procedura di attuazione
 
-### Sezione 1
+#### Sezione 1 - Programmazione, istruzione, esecuzione, valutazione
 
-#### Programmazione, istruzione, esecuzione, valutazione
-
-###### ARTICOLO 215
+##### ARTICOLO 215
 
 1\. Gli interventi finanziati dalla Comunita', complementari agli sforzi propri degli Stati ACP, si integrano nel contesto dei piani e programmi di sviluppo economico e sociale di detti Stati e concordano con gli obiettivi e le priorita' che essi determinano sul piano nazionale e regionale.
 
@@ -3522,7 +3508,7 @@ Questi scambi di opinioni hanno lo scopo di consentire alla Comunita' di conosce
 
 8\. I programmi indicativi sono sufficientemente flessibili in modo da permettere l'adeguamento permanente delle azioni agli obiettivi e tener conto degli eventuali cambiamenti della situazione economica di ciascuno Stato ACP e di qualsiasi modifica delle sue priorita' e obiettivi iniziali. Ogni programma puo' essere riveduto su richiesta dello Stato ACP interessato. I programmi vengono comunque riesaminati almeno una volta durante il periodo contemplato dalla presente convenzione.
 
-###### ARTICOLO 216
+##### ARTICOLO 216
 
 1\. Nel programma indicativo sono indicati gli importi globali dell'aiuto programmabile che puo' essere messo a disposizione di ciascuno Stato ACP. Indipendentemente dai fondi riservati agli aiuti d'urgenza, agli abbuoni d'interesse e alla cooperazione regionale, l'aiuto programmabile comporta sia sovvenzioni sia un aiuto rimborsabile, comprendente prestiti speciali e possibilmente capitali di rischio.
 
@@ -3532,11 +3518,11 @@ Questi scambi di opinioni hanno lo scopo di consentire alla Comunita' di conosce
 
 4\. Un bilancio comparativo degli impegni e dei pagamenti e' redatto ogni anno dall'ordinatore nazionale e dal delegato della Commissione, i quali adottano le disposizioni necessarie per garantire il rispetto dei calendari di cui al paragrafo 2, determinano le cause dei ritardi riscontrati nella loro esecuzione e propongono le misure di risanamento che s'impongono.
 
-###### ARTICOLO 217
+##### ARTICOLO 217
 
 Salvo disposizione contraria della presente convenzione, ogni decisione che richieda l'approvazione della Comunita' o dei suoi servizi competenti e' considerata approvata entro i 60 giorni successivi alla sua notifica da parte degli Stati ACP interessati.
 
-###### ARTICOLO 218
+##### ARTICOLO 218
 
 1\. a) Spetta agli Stati ACP interessati o agli altri beneficiari da essi autorizzati individuare i progetti o programmi di azioni proposti in applicazione dei programmi indicativi ed elaborarne i relativi fascicoli.
 
@@ -3546,7 +3532,7 @@ c) Qualora gliene venga fatta richiesta, la Comunita' puo' fornire la sua assist
 
 2\. I fascicoli sono ufficialmente trasmessi dagli Stati ACP o dagli altri beneficiari di cui all'articolo 191, paragrafo 1 al delegato, il quale compie i passi necessari nell'ambito dei suoi poteri. Quando si tratti dei beneficiari di cui all'articolo 191, paragrafo 2, e' necessario l'accordo esplicito dello Stato o degli Stati interessati.
 
-###### ARTICOLO 219
+##### ARTICOLO 219
 
 1\. Nel quadro della cooperazione finanziaria e tecnica, l'individuazione, la preparazione e l'istruzione di progetti e programmi:
 
@@ -3574,7 +3560,7 @@ g) sono conformi agli obiettivi e alle priorita' fissate dagli Stati ACP.
 
 6\. Nell'istruzione dei progetti e programmi di azioni sono prese in considerazione le difficolta' ed esigenze specifiche degli Stati ACP meno sviluppati che hanno un'incidenza negativa sulla efficienza, validita' economica e redditivita' dei detti progetti programmi di azioni.
 
-###### ARTICOLO 220
+##### ARTICOLO 220
 
 1\. Le conclusioni dell'istruzione sono riassunte in una proposta di finanziamento.
 
@@ -3596,7 +3582,7 @@ g) sono conformi agli obiettivi e alle priorita' fissate dagli Stati ACP.
 
 8\. La Comunita' prende la decisione sulla proposta di finanziamento al piu' presto e, salvo circostanze eccezionali, entro un termine di quattro mesi dalla trasmissione della proposta di finanziamento allo Stato ACP interessato.
 
-###### ARTICOLO 221
+##### ARTICOLO 221
 
 1\. Nell'intento di accelerare le procedure, le decisioni di finanziamento possono vertere su programmi pluriennali o su importi globali quando si tratti di finanziare:
 
@@ -3618,7 +3604,7 @@ e) complessi di azioni di cooperazione tecnica.
 
 5\. Alla fine di ciascun anno, lo Stato ACP interessato, in consultazione con il delegato della Commissione, presenta alla Commissione una relazione sull'esecuzione dei programmi e delle azioni di cui al paragrafo 1, lettere a), b), c) e d).
 
-###### ARTICOLO 222
+##### ARTICOLO 222
 
 1\. Qualsiasi progetto o programma di azioni finanziato con una sovvenzione del Fondo da' luogo all'elaborazione di un accordo di finanziamento tra la Commissione, che agisce a nome della Comunita', e lo Stato o gli Stati ACP interessati.
 
@@ -3628,7 +3614,7 @@ Tale accordo precisa in particolare l'impegno finanziario del Fondo, nonche' le 
 
 3\. Dopo la firma dell'accordo di finanziamento, i pagamenti sono effettuati secondo il piano di finanziamento adottato. Se e' necessario sottoporre ad approvazione un preventivo particolareggiato, si considera che esso sia approvato alla scadenza di un termine di trenta giorni dalla sua presentazione.
 
-###### ARTICOLO 223
+##### ARTICOLO 223
 
 1\. Il superamento degli stanziamenti previsti dalla decisione di finanziamento e' a carico dello Stato ACP beneficiario.
 
@@ -3650,7 +3636,7 @@ L'ordinatore nazionale puo', di concerto con l'ordinatore principale, assegnare 
 
 \- di indire una gara, ogniqualvolta sia possibile, prima di prendere la decisione di finanziamento.
 
-###### ARTICOLO 224
+##### ARTICOLO 224
 
 1\. a) I progetti e programmi di azioni sono oggetto di una valutazione nel corso della loro esecuzione. Gli Stati ACP interessati e la Comunita' redigono congiuntamente, secondo una periodicita' convenuta, un rapporto di valutazione concernente i diversi aspetti dell'andamento dell'azione ed i suoi risultati.
 
@@ -3660,9 +3646,9 @@ b) In base a tale rapporto, puo' essere deciso di comune accordo un riorientamen
 
 b) Le autorita' competenti della Comunita' e degli Stati ACP interessati prendono, ognuna per quanto la concerne, i provvedimenti che s'impongono alla luce dei lavori di valutazione.
 
-## Sezione 2 - Esecuzione della cooperazione finanziaria e tecnica
+#### Sezione 2 - Esecuzione della cooperazione finanziaria e tecnica
 
-###### ARTICOLO 225
+##### ARTICOLO 225
 
 1\. L'esecuzione della cooperazione finanziaria e tecnica e' realizzata con le formalita' amministrative minimali e secondo procedure semplificate, affinche' i progetti e programmi di azioni possano essere eseguiti in modo rapido ed efficace.
 
@@ -3680,7 +3666,7 @@ e) firma dei contratti di appalto e dei documenti corrispondenti.
 
 3\. Gli Stati ACP e gli altri beneficiari da esse autorizzati eseguono i progetti e programmi finanziati dalla Comunita'; spetta loro in particolare di elaborare, negoziare e stipulare, i contratti necessari all'esecuzione delle operazioni.
 
-###### ARTICOLO 226
+##### ARTICOLO 226
 
 1\. La Commissione designa l'ordinatore principale del fondo, responsabile della gestione delle risorse del Fondo. A questo titolo e tenendo conto in particolare dei calendari indicativi d'impegno e di pagamento di cui all'articolo 216, paragrafo 2, l'ordinatore principale impegna e liquida le spese, emette gli ordinativi di pagamento e tiene la contabilita' degli impegni e degli ordinativi.
 
@@ -3688,7 +3674,7 @@ e) firma dei contratti di appalto e dei documenti corrispondenti.
 
 3\. Ferme restando le competenze esercitate dall'ordinatore nazionale a norma dell'articolo 227, l'ordinatore principale prende i provvedimenti di adeguamento e le decisioni di impegno che si rivelino necessari per garantire che le operazioni approvate siano eseguite alle migliori condizioni economiche e tecniche.
 
-###### ARTICOLO 227
+##### ARTICOLO 227
 
 1\. a) Il governo di ciascuno Stato ACP designa un ordinatore nazionale che rappresenta le autorita' del suo paese in tutte le operazioni finanziate con le risorse del Fondo gestite dalla Commissione.
 
@@ -3730,7 +3716,7 @@ k) assunzione di consulenti ed altri esperti dell'assistenza tecnica.
 
 6\. Per gli appalti inferiori a 4 milioni di ECU ed, in modo generale, per tutti gli appalti oggetto di una procedura accelerata si considera che le decisioni prese dall'ordinatore nazionale nell'ambito dei poteri che gli sono conferiti siano approvate dalla Commissione alla scadenza di un termine di trenta giorni a decorrere dalla loro notifica al delegato della Commissione.
 
-###### ARTICOLO 228
+##### ARTICOLO 228
 
 1\. a) Per l'attuazione della presente convenzione e per le risorse gestite dalla Commissione, quest'ultima e' rappresentata in ciascuno Stato ACP o in ciascun gruppo regionale che ne faccia espressa richiesta, da un delegato autorizzato dallo o dagli Stati ACP interessati.
 
@@ -3770,7 +3756,7 @@ e) trasmette, per accordo, all'ordinatore principale la proposta di aggiudicazio
 
 b) a questo titolo, vista contratti, protocolli aggiuntivi e preventivi, nonche' gli ordinativi di pagamento emessi dall'ordinatore nazionale.
 
-###### ARTICOLO 229
+##### ARTICOLO 229
 
 1\. Per i pagamenti nelle monete nazionali degli Stati ACP, in ciascuno di questi Stati sono aperti, a nome della Commissione, conti espressi nella moneta di uno degli Stati membri o in ECU, presso un istituto finanziario nazionale, pubblico o a partecipazione pubblica scelto di comune accordo dallo Stato ACP e dalla Commissione. Questo istituto svolge le funzioni di delegato ai pagamenti.
 
@@ -3784,11 +3770,11 @@ b) a questo titolo, vista contratti, protocolli aggiuntivi e preventivi, nonche'
 
 6\. Per i pagamenti in monete diverse da quella degli Stati ACP, le prestazioni vengono pagate, su istruzione della Commissione, mediante prelievo sui suoi conti.
 
-###### ARTICOLO 230
+##### ARTICOLO 230
 
 I pagamenti sono generalmente effettuati sotto forma di anticipi agli Stati ACP in modo da evitare loro l'onere del prefinanziamento; la Comunita' puo' effettuare un pagamento diretto ai contraenti su autorizzazione preventiva degli Stati ACP interessati e previa presentazione dei certificati di conformita' appropriati.
 
-###### ARTICOLO 231
+##### ARTICOLO 231
 
 Le procedure di liquidazione, emissione degli ordinativi e pagamento delle spese devono essere espletate entro il termine massimo di:
 
@@ -3798,9 +3784,9 @@ Le procedure di liquidazione, emissione degli ordinativi e pagamento delle spese
 
 a decorrere dalla data di apertura del credito.
 
-## Sezione 3 - Concorrenza e preferenze
+#### Sezione 3 - Concorrenza e preferenze
 
-###### ARTICOLO 232
+##### ARTICOLO 232
 
 1\. Di norma, i contratti d'appalto di opere e di forniture finanziati con le risorse del Fondo gestite dalla Commissione sono stipulati previa gara d'appalto aperta.
 
@@ -3826,7 +3812,7 @@ e) alla tecnologia piu' appropriata e piu' adattata alle condizioni locali.
 
 7\. Se la Comunita' partecipa al finanziamento di azioni di cooperazione regionale od interregionale che interessano paesi terzi o al finanziamento di realizzazioni in comune con altri mutuanti, puo' essere autorizzata la partecipazione di paesi terzi ai contratti di appalto finanziati dalla Comunita'.
 
-###### ARTICOLO 233
+##### ARTICOLO 233
 
 1\. Gli Stati ACP e la Commissione prendono i provvedimenti atti ad assicurare a parita' di condizioni una partecipazione quanto piu' estesa possibile alle gare e contratti di appalto di opere e forniture finanziate mediante le risorse del Fondo gestite dalla Commissione.
 
@@ -3838,7 +3824,7 @@ b) di eliminare le pratiche discriminatorie e le specifiche tecniche che potrebb
 
 c) di incoraggiare la cooperazione fra le imprese degli Stati membri e degli Stati ACP, specie mediante la preselezione e la creazione di associazioni.
 
-###### ARTICOLO 234
+##### ARTICOLO 234
 
 Ai fini di una rapida ed efficace esecuzione dei progetti e programmi finanziati dalla Comunita',
 
@@ -3850,7 +3836,7 @@ L'organizzazione di tale procedura accelerata non esclude la possibilita' di ind
 
 3\) per le operazioni relative agli aiuti d'urgenza, nonche' per altre operazioni di cui si riconosca l'urgenza, o qualora la natura, la scarsa entita' o caratteristiche particolari dei lavori o delle forniture lo giustifichino, gli Stati ACP possono, in accordo con la Commissione, autorizzare la stipulazione di contratti di appalto in base a trattativa privata o a licitazione privata. Tuttavia, per quanto riguarda gli aiuti d'urgenza si potra' altresi' ricorrere all'esecuzione in economia.
 
-###### ARTICOLO 235
+##### ARTICOLO 235
 
 Per favorire la piu' ampia partecipazione delle imprese nazionali degli Stati ACP all'esecuzione dei contratti d'appalto di opere e di forniture finanziati con le risorse del Fondo gestite dalla Commissione, sono adottati i provvedimenti seguenti:
 
@@ -3860,7 +3846,7 @@ Per favorire la piu' ampia partecipazione delle imprese nazionali degli Stati AC
 
 Tale preferenza e' riservata alle sole imprese nazionali degli Stati ACP che apportano un margine sufficiente di valore aggiunto.
 
-###### ARTICOLO 236
+##### ARTICOLO 236
 
 1\. Per ciascuna operazione, i criteri di scelta dell'offerta economicamente piu' vantaggiosa tengono conto in particolare delle qualifiche e delle garanzie presentate dagli offerenti, della natura e delle condizioni di esecuzione delle opere o delle forniture, del prezzo delle prestazioni, del loro costo di utilizzazione, del loro valore tecnico e dell'offerta di un servizio dopo vendita nello Stato ACP in questione.
 
@@ -3868,7 +3854,7 @@ Tale preferenza e' riservata alle sole imprese nazionali degli Stati ACP che app
 
 3\. Gli Stati ACP e la Commissione si accertano che tutti i criteri di scelta siano menzionati nel fascicolo di gara.
 
-###### ARTICOLO 237
+##### ARTICOLO 237
 
 1\. Le condizioni generali applicabili alla stipulazione ed all'esecuzione dei contratti di appalto per opere e forniture finanziati con le risorse del Fondo gestite dalla Commissione sono riprese nei capitolati generali d'oneri che, previo parere del Comitato ACP-CEE menzionato nell'articolo 193, sono approvi con decisione del Consiglio dei Ministri nella sua prima sessione dopo la data di entrata in vigore della presente convenzione.
 
@@ -3878,7 +3864,7 @@ Tale preferenza e' riservata alle sole imprese nazionali degli Stati ACP che app
 
 \- per gli altri Stati ACP, dalle loro legislazioni nazionali o dalle prassi riconosciute in materia di appalti internazionali.
 
-###### ARTICOLO 238
+##### ARTICOLO 238
 
 1\. La composizione delle controversie fra l'amministrazione di uno Stato ACP e un imprenditore, fornitore o prestatario di servizi candidato o offerente in occasione della stipulazione o dell'esecuzione di un contratto di appalto finanziato dal Fondo avviene mediante arbitrato, conformemente ad un regolamento di procedura adottato dal Consiglio dei Ministri.
 
@@ -3886,19 +3872,17 @@ Tale preferenza e' riservata alle sole imprese nazionali degli Stati ACP che app
 
 3\. In via transitoria, nell'attesa che sia applicata la decisione di cui al paragrafo 2, tutte le controversie sono composte definitivamente secondo il regolamento di conciliazione ed arbitrato della Camera di commercio internazionale.
 
-## Sezione 4 - Regime fiscale e doganale
+#### Sezione 4 - Regime fiscale e doganale
 
-###### ARTICOLO 239
+##### ARTICOLO 239
 
 Il regime fiscale e doganale applicabile negli Stati ACP ai contratti di appalto finanziati dalla Comunita' forma oggetto del protocollo n° 6.
 
 ## TITOLO IV - INVESTIMENTI, MOVIMENTI DI CAPITALI, STABILIMENTO E SERVIZI
 
-### Capitolo 1
+### Capitolo 1 - Investimenti
 
-#### Investimenti
-
-###### ARTICOLO 240
+##### ARTICOLO 240
 
 Le parti contraenti riconoscono l'importanza degli investimenti privati per la promozione della loro cooperazione allo sviluppo e, in questo contesto, la necessita' di prendere le misure idonee a promuovere tali investimenti. A questo proposito le parti contraenti convengono congiuntamente e solidalmente di:
 
@@ -3910,7 +3894,7 @@ c) mantenere un clima d'investimento prevedibile e sicuro, anche attraverso la d
 
 d) promuovere una cooperazione effettiva tra i loro rispettivi operatori economici.
 
-###### ARTICOLO 241
+##### ARTICOLO 241
 
 1\. Al fine di accelerare maggiormente la cooperazione allo sviluppo nonche' l'espansione degli investimenti direttamente produttivi, le parti contraenti convengono, servendosi della assistenza finanziaria e tecnica accordata nel quadro della presente convenzione, di studiare le misure che facilitano e potenziano un flusso piu' stabile di capitali privati e che rafforzano:
 
@@ -3922,7 +3906,7 @@ c) l'attivita' e l'efficienza dei mercati finanziari interni.
 
 2\. A tal fine le parti contraenti convengono di esaminare gli ostacoli di carattere economico, tecnico, giuridico o istituzionale che frenano attualmente tale sviluppo, nonche' le azioni necessarie per eliminare detti ostacoli nel rispetto degli impegni internazionali, allo scopo di accelerare lo sviluppo degli investimenti produttivi.
 
-###### ARTICOLO 242
+##### ARTICOLO 242
 
 1\. Tenuto conto del legame esistente tra le decisioni d'investimento, la capacita' degli Stati ACP di produrre adeguati proventi d'esportazione per favorire detti investimenti e la capacita' di sostenere effettivamente gli investimenti esistenti e i nuovi investimenti, la Comunita' prende l'iniziativa di esplorare le possibilita' e i mezzi per procurare, nel quadro della cooperazione finanziaria e tecnica:
 
@@ -3936,19 +3920,19 @@ a) di istituti di finanziamento nazionali o regionali per il finanziamento delle
 
 b) di meccanismi regionali di pagamento, che possono agevolare gli scambi commerciali tra gli Stati ACP.
 
-###### ARTICOLO 243
+##### ARTICOLO 243
 
 1\. Le parti contraenti ribadiscono la necessita' di promuovere e di tutelare gli investimenti di ciascuna parte nei loro rispettivi territori e, in questo contesto, affermano l'importanza di concludere tra i loro Stati, nell'interesse reciproco, accordi di promozione e di tutela degli investimenti che possano anche costituire la base di sistemi di assicurazione e di garanzia.
 
 2\. Al fine di dare un maggior impulso agli investimenti europei per progetti di sviluppo avviati dagli Stati ACP che rivestano un'importanza particolare, la Comunita' e gli Stati membri, da un lato, e gli Stati ACP, dall'altro, possono anche concludere accordi relativi a progetti specifici di reciproco interesse, qualora la Comunita' e gli imprenditori europei contribuiscano al loro finanziamento.
 
-###### ARTICOLO 244
+##### ARTICOLO 244
 
 1\. Le parti contraenti convengono d'intraprendere uno studio congiunto sul campo di applicazione e i meccanismi appropriati di un sistema congiunto ACP-CEE di assicurazione e garanzia, il quale sia complementare dei sistemi nazionali esistenti, e possa avere un effetto positivo sui flussi di risorse del settore privato della Comunita' verso gli Stati ACP.
 
 2\. Le parti contraenti convengono inoltre di esaminare l'utilizzazione del mercato privato delle assicurazioni per garantire i flussi supplementari di capitali privati verso gli Stati ACP.
 
-###### ARTICOLO 245
+##### ARTICOLO 245
 
 Al fine di favorire l'aumento dei flussi di investimenti privati la Comunita' e gli Stati ACP, in collaborazione con altri organismi interessati, convengono, nell'ambito della convenzione:
 
@@ -3970,13 +3954,13 @@ i) a migliorare la qualita' degli studi di fattibilita' e la preparazione di pro
 
 ii) a introdurre un sistema integrato di gestione dei progetti, il quale copra tutte le fasi di realizzazione nel quadro del programma di sviluppo dello Stato interessato.
 
-###### ARTICOLO 246
+##### ARTICOLO 246
 
 1\. Le parti contraenti riconoscono che gli Stati ACP meno sviluppati, privi di sbocco sul mare ed insulari soffrono di svantaggi particolari che li rendono meno attraenti per gli investimenti privati.
 
 2\. Le parti contraenti si impegnano pertanto ad intraprendere quanto prima, dopo l'entrata in vigore della presente convenzione, uno studio congiunto per individuare le misure specifiche da adottare nei confronti di tali Stati, al fine di migliorare la loro capacita' di attrazione degli investimenti.
 
-###### ARTICOLO 247
+##### ARTICOLO 247
 
 1\. In vista di una migliore comprensione dei problemi connessi con i flussi delle risorse private e di una maggiore efficacia degli sforzi destinati ad incoraggiarli, le parti contraenti convengono che la Commissione, da esse assistita, presentera' regolarmente relazioni al fine di informare il Consiglio dei Ministri sui flussi d'investimento fra la Comunita' e lo Stato ACP, sui prestiti, sugli arretrati di pagamento e sui movimenti di capitali.
 
@@ -3984,19 +3968,19 @@ ii) a introdurre un sistema integrato di gestione dei progetti, il quale copra t
 
 3\. Le parti contraenti convengono di intraprendere l'insieme degli studi citati nel presente capitolo il piu' rapidamente possibile e comunque entro il termine massimo di un anno dopo l'entrata in vigore della presente convenzione. Il risultato di tali studi sara' sottoposto alle parti interessate per esame e definizione di un'azione appropriata entro un termine massimo di due anni dopo l'entrata in vigore della presente convenzione.
 
-## Capitolo 2 - Disposizioni relative ai pagamenti correnti e movimenti di capitali
+### Capitolo 2 - Disposizioni relative ai pagamenti correnti e movimenti di capitali
 
-###### ARTICOLO 248
+##### ARTICOLO 248
 
 Per quanto riguarda i pagamenti correnti e i movimenti di capitali connessi con gli investimenti, le parti contraenti si astengono dal prendere, nel settore delle operazioni di cambio, provvedimenti incompatibili con obblighi loro derivanti dall'applicazione delle disposizioni della presente convenzione in materia di scambi, servizi, stabilimento e cooperazione industriale. Tali obblighi non impediscono tuttavia alle parti contraenti di prendere, per ragioni connesse con gravi difficolta' economiche o gravi problemi di bilancia dei pagamenti, le necessarie misure di salvaguardia.
 
-###### ARTICOLO 249
+##### ARTICOLO 249
 
 Per quanto concerne le operazioni di cambio relative agli investimenti ed ai pagamenti correnti, gli Stati ACP, da una parte, e gli Stati membri, dall'altra, si astengono per quanto possibile dal prendere, gli uni nei confronti degli altri, misure discriminatorie o dal riservare un trattamento piu' favorevole a Stati terzi, tenendo debito conto del carattere evolutivo del sistema monetario internazionale, dell'esistenza di specifiche intese monetarie e dei problemi inerenti alla bilancia dei pagamenti.
 
 Se tali misure o trattamenti risultassero inevitabili, essi sarebbero mantenuti od istituiti conformemente alle norme monetarie internazionali e si cercherebbe in tutti i modi di ridurre al minimo i loro effetti negativi per le parti interessate.
 
-###### ARTICOLO 250
+##### ARTICOLO 250
 
 Per tutta la durata dei prestiti o delle operazioni di capitali di rischio di cui all'articolo 194, ciascuno Stato ACP si impegna a mettere a disposizione:
 
@@ -4004,41 +3988,41 @@ a) dei beneficiari di cui all'articolo 191, le valute necessarie per il servizio
 
 b) della Banca, le valute necessarie al trasferimento di tutte le somme che essa ha ricevuto in monete nazionali e che corrispondono ai proventi e ricavi netti dalle operazioni di partecipazione della Comunita' al capitale delle imprese.
 
-###### ARTICOLO 251
+##### ARTICOLO 251
 
 Su richiesta della Comunita' o degli Stati ACP, il Consiglio dei Ministri esamina i problemi eventualmente posti dall'applicazione degli articoli 248, 249 e 250. Inoltre esso formula ogni utile raccomandazione al riguardo.
 
-## Capitolo 3 - Disposizioni relative allo stabilimento e ai servizi
+### Capitolo 3 - Disposizioni relative allo stabilimento e ai servizi
 
-###### ARTICOLO 252
+##### ARTICOLO 252
 
 Per quanto concerne il regime applicabile in materia di stabilimento e prestazione di servizi, gli Stati ACP, da un lato, e gli Stati membri, dall'altro, riservano un trattamento non discriminatorio, rispettivamente, ai cittadini ed alle societa' degli Stati membri e degli Stati ACP. Tuttavia, se per un'attivita' determinata uno Stato ACP o uno Stato membro non puo' assicurare tale trattamento, gli Stati membri o, secondo il caso, gli Stati ACP non sono tenuti ad accordarlo, per la medesima attivita', ai cittadini ed alle societa' di detto Stato.
 
-###### ARTICOLO 253
+##### ARTICOLO 253
 
 Ai sensi della presente convenzione, per societa' si intendono le societa' di diritto civile o commerciale, comprese le societa' cooperative e le altre persone giuridiche di diritto pubblico o privato, ad eccezione delle societa' senza scopo di lucro.
 
 Per societa' di uno Stato membro o di uno Stato ACP si intendono le societa' costituite conformemente alla legislazione di uno Stato membro o di uno Stato ACP le quali abbiano la loro sede sociale, la loro amministrazione centrale o il loro principale centro di attivita' in uno Stato membro o in uno Stato ACP; qualora pero' dette societa' abbiano in uno Stato membro o in uno Stato ACP soltanto la loro sede sociale, la loro attivita' deve essere connessa in modo reale e continuo con l'economia di detto Stato membro o Stato ACP.
 
-###### ARTICOLO 254
+##### ARTICOLO 254
 
 Su richiesta della Comunita' o degli Stati ACP, il Consiglio dei Ministri procede all'esame dei problemi eventualmente posti dall'applicazione degli articoli 252 e 253. Esso formula inoltre ogni utile raccomandazione al riguardo.
 
 ## TITOLO V - DISPOSIZIONI GENERALI CONCERNENTI GLI STATI ACP MENO SVILUPPATI, SENZA SBOCCO SUL MARE E INSULARI
 
-###### ARTICOLO 255
+##### ARTICOLO 255
 
 Particolare attenzione e' prestata agli Stati ACP meno sviluppati, senza sbocco sul mare ed insulari, secondo le esigenze e i problemi specifici di ciascuno di questi tre gruppi di paesi, affinche' essi possano trarre pienamente profitto dalle possibilita' offerte dalla presente convenzione.
 
 In questa prospettiva, i seguenti articoli prevedono disposizioni specifiche ed adeguamenti delle disposizioni generali applicabili a tutti gli Stati ACP e precisano, nei vari settori, le deroghe a dette disposizioni.
 
-## Capitolo I - Stati ACP meno sviluppati
+### Capitolo I - Stati ACP meno sviluppati
 
-###### ARTICOLO 256
+##### ARTICOLO 256
 
 Un particolare trattamento e' riservato agli Stati ACP meno sviluppati per aiutarli a risolvere le gravi difficolta' economiche che ostacolano il loro sviluppo.
 
-###### ARTICOLO 257
+##### ARTICOLO 257
 
 1\. Ai sensi della presente convenzione sono considerati Stati ACP meno sviluppati:
 
@@ -4134,7 +4118,7 @@ Vanuatu
 
 \- qualora la situazione economica di uno Stato ACP si modifichi in maniera significativa e duratura, o in modo da richiedere la sua inclusione nella categoria degli Stati ACP meno sviluppati, oppure in modo da non giustificare piu' tale inclusione.
 
-###### ARTICOLO 258
+##### ARTICOLO 258
 
 Le disposizioni in applicazione dell'articolo 256 a favore degli Stati ACP meno sviluppati si trovano negli articoli seguenti:
 
@@ -4190,13 +4174,13 @@ protocollo n° 1: articolo 29 e articolo 30, paragrafo 4 e paragrafo
 
 8, lettera a).
 
-## Capitolo 2 - Stati ACP senza sbocco sul mare
+### Capitolo 2 - Stati ACP senza sbocco sul mare
 
-###### ARTICOLO 259
+##### ARTICOLO 259
 
 Sono previste disposizioni e misure specifiche per sostenere gli Stati ACP senza sbocco sul mare negli sforzi che essi compiono per superare le difficolta' e gli ostacoli geografici che frenano il loro sviluppo.
 
-###### ARTICOLO 260
+##### ARTICOLO 260
 
 1\. Gli Stati ACP senza sbocco sul mare sono:
 
@@ -4230,7 +4214,7 @@ Zimbabwe
 
 2\. L'elenco degli Stati ACP senza sbocco sul mare puo' essere modificato con decisione del Consiglio dei Ministri qualora uno Stato terzo che si trovi in una situazione comparabile aderisca alla presente convenzione.
 
-###### ARTICOLO 261
+##### ARTICOLO 261
 
 Le disposizioni in applicazione dell'articolo 259 a favore degli Stati ACP senza sbocco sul mare si trovano negli articoli seguenti:
 
@@ -4278,13 +4262,13 @@ articolo 197, paragrafo 11
 
 articolo 246
 
-## Capitolo 3 - Stati ACP insulari
+### Capitolo 3 - Stati ACP insulari
 
-###### ARTICOLO 262
+##### ARTICOLO 262
 
 Sono previste disposizioni e misure specifiche per sostenere gli Stati ACP insulari negli sforzi che essi compiono per superare le difficolta' e gli ostacoli naturali e geografici, quali la loro dispersione e le conseguenze di calamita' naturali che frenano il loro sviluppo.
 
-###### ARTICOLO 263
+##### ARTICOLO 263
 
 1\. Gli Stati ACP insulari sono:
 
@@ -4338,7 +4322,7 @@ Vanuatu
 
 2\. L'elenco degli Stati ACP insulari puo' essere modificato con decisione del Consiglio dei Ministri qualora uno Stato terzo che si trovi in una situazione comparabile aderisca alla presente convenzione.
 
-###### ARTICOLO 264
+##### ARTICOLO 264
 
 Le disposizioni in applicazione dell'articolo 262 a favore degli Stati ACP insulari si trovano negli articoli seguenti:
 
@@ -4390,15 +4374,13 @@ articolo 246
 
 ## QUARTA PARTE - FUNZIONAMENTO DELLE ISTITUZIONI
 
-### Capitolo 1
+### Capitolo 1 - Consiglio dei Ministri
 
-#### Consiglio dei Ministri
-
-###### ARTICOLO 265
+##### ARTICOLO 265
 
 Il Consiglio dei Ministri si pronuncia di comune accordo tra la Comunita', da un lato, e gli Stati ACP, dall'altro.
 
-###### ARTICOLO 266
+##### ARTICOLO 266
 
 1\. Il Consiglio dei Ministri puo' deliberare validamente soltanto se e' presente la meta' dei membri del Consiglio delle Comunita' europee, un membro della Commissione ed i due terzi dei membri rappresentanti i governi degli Stati ACP.
 
@@ -4408,11 +4390,11 @@ Il Consiglio dei Ministri si pronuncia di comune accordo tra la Comunita', da un
 
 In questo si prevede la possibilita' che, in ogni sessione, il Consiglio esamini in modo approfondito i grandi temi della cooperazione, eventualmente preparati secondo le disposizioni dell'articolo 269, paragrafo 6.
 
-###### ARTICOLO 267
+##### ARTICOLO 267
 
 La Presidenza del Consiglio dei Ministri e' esercitata a turno da un membro del Consiglio delle Comunita' europee e da un membro del governo di uno Stato ACP.
 
-###### ARTICOLO 268
+##### ARTICOLO 268
 
 1\. Il Consiglio dei Ministri si riunisce una volta all'anno su iniziativa del Presidente.
 
@@ -4420,7 +4402,7 @@ La Presidenza del Consiglio dei Ministri e' esercitata a turno da un membro del 
 
 3\. I Copresidenti, assistiti da consiglieri, possono procedere a consultazioni e scambi di vedute regolari tra le sessioni del Consiglio dei Ministri.
 
-###### ARTICOLO 269
+##### ARTICOLO 269
 
 1\. Il Consiglio dei Ministri esamina periodicamente i risultati del regime previsto dalla presente convenzione e prende i provvedimenti necessari per il conseguimento degli obiettivi della presente convenzione.
 
@@ -4436,17 +4418,17 @@ A tal fine, su iniziativa di una parte, il Consiglio esamina e puo' prendere in 
 
 6\. Il Consiglio dei Ministri puo' creare Comitati, Gruppi o Gruppi di lavoro ad hoc, per effettuare i lavori che ritenga necessari ed in particolare preparare, se del caso, le sue discussioni su settori o problemi specifici della cooperazione, in conformita' delle disposizioni dell'articolo 272, paragrafo 2.
 
-###### ARTICOLO 270
+##### ARTICOLO 270
 
 Fatte salve le disposizioni dell'articolo 296, paragrafo 6, il Consiglio dei Ministri puo', durante le sue sessioni, incaricare i Gruppi ministeriali ristretti, costituiti su base paritetica, di preparare le sue discussioni e conclusioni su punti precisi dell'ordine del giorno.
 
-###### ARTICOLO 271
+##### ARTICOLO 271
 
 Il Consiglio dei Ministri puo' delegare una parte delle sue competenze al Comitato degli Ambasciatori. In tal caso, il Comitato degli Ambasciatori si pronuncia alle condizioni di cui all'articolo 265.
 
-## Capitolo 2 - Comitato degli Ambasciatori
+### Capitolo 2 - Comitato degli Ambasciatori
 
-###### ARTICOLO 272
+##### ARTICOLO 272
 
 1\. Il Comitato degli Ambasciatori riferisce al Consiglio dei Ministri sulle attivita' svolte, in particolare nei settori che sono stati oggetto di una delega di competenza. Esso presenta altresi' al Consiglio dei Ministri le proposte, risoluzioni, raccomandazioni o pareri che ritenga necessari od opportuni;
 
@@ -4454,7 +4436,7 @@ Il Consiglio dei Ministri puo' delegare una parte delle sue competenze al Comita
 
 3\. Per svolgere le sue funzioni, il Comitato degli Ambasciatori si riunisce almeno una volta ogni sei mesi.
 
-###### ARTICOLO 273
+##### ARTICOLO 273
 
 1\. La Presidenza del Comitato degli Ambasciatori e' esercitata a turno dal Rappresentante Permanente di uno Stato membro designato dalla Comunita' e dal Capo della Missione di uno Stato ACP, designato dagli Stati ACP.
 
@@ -4462,19 +4444,19 @@ Il Consiglio dei Ministri puo' delegare una parte delle sue competenze al Comita
 
 3\. Il Comitato degli Ambasciatori adotta il proprio regolamento interno, che e' sottoposto per approvazione al Consiglio dei Ministri.
 
-## Capitolo 3 - Disposizioni comuni al Consiglio dei Ministri e al Comitato degli Ambasciatori
+### Capitolo 3 - Disposizioni comuni al Consiglio dei Ministri e al Comitato degli Ambasciatori
 
-###### ARTICOLO 274
+##### ARTICOLO 274
 
 Un rappresentante della Banca assiste alle riunioni del Consiglio dei Ministri e del Comitato degli Ambasciatori quando al loro ordine del giorno siano iscritte questioni attinenti a settori che riguardano la Banca.
 
-###### ARTICOLO 275
+##### ARTICOLO 275
 
 I compiti di segreteria e gli altri lavori necessari al funzionamento del Consiglio dei Ministri e del Comitato degli Ambasciatori o di altri organi misti sono svolti su base paritetica alle condizioni previste dal regolamento interno del Consiglio dei Ministri.
 
-## Capitolo 4 - Assemblea paritetica
+### Capitolo 4 - Assemblea paritetica
 
-###### ARTICOLO 276
+##### ARTICOLO 276
 
 L'Assemblea paritetica esamina la relazione elaborata a norma dell'articolo 269, paragrafo 4.
 
@@ -4482,7 +4464,7 @@ Essa puo' adottare risoluzioni nelle materie riguardanti la presente convenzione
 
 Per il conseguimento degli obiettivi della presente convenzione, essa puo' presentare al Consiglio dei Ministri tutte le conclusioni e raccomandazioni che ritenga utili, specie nell'esame della relazione annuale del Consiglio dei Ministri.
 
-###### ARTICOLO 277
+##### ARTICOLO 277
 
 1\. L'Assemblea paritetica designa il proprio ufficio di Presidenza e adotta il proprio regolamento.
 
@@ -4492,9 +4474,9 @@ Per il conseguimento degli obiettivi della presente convenzione, essa puo' prese
 
 4\. I compiti di segreteria e gli altri lavori necessari al funzionamento dell'Assemblea paritetica sono svolti su base paritetica alle condizioni previste dal suo regolamento interno.
 
-## Capitolo 5 - Altre disposizioni
+### Capitolo 5 - Altre disposizioni
 
-###### ARTICOLO 278
+##### ARTICOLO 278
 
 l. Le controversie sull'interpretazione o sull'applicazione della presente convenzione tra uno Stato membro, piu' Stati membri o la Comunita', da una parte, e uno o piu' Stati ACP, dall'altra, sono deferite al Consiglio dei Ministri.
 
@@ -4512,29 +4494,29 @@ b) Le decisioni arbitrali sono pronunciate a maggioranza generalmente entro un t
 
 c) Ciascuna parte in causa e' tenuta a prendere i provvedimenti necessari all'esecuzione della decisione arbitrale.
 
-###### ARTICOLO 279
+##### ARTICOLO 279
 
 Le Parti contraenti, senza pregiudicare le disposizioni della presente convenzione, fanno il possibile per giungere ad una interpretazione comune allorche' sorgano tra la Comunita' e gli Stati ACP divergenze di interpretazione dei testi nel quadro dell'applicazione della presente convenzione. A questo scopo, tali problemi formano oggetto di un esame congiunto per essere risolti in seno alle istituzioni ACP-CEE.
 
-###### ARTICOLO 280
+##### ARTICOLO 280
 
 Le spese di funzionamento delle istituzioni previste dalla presente convenzione sono ripartite conformemente a quanto stabilito dal protocollo n° 2.
 
-###### ARTICOLO 281
+##### ARTICOLO 281
 
 I privilegi e le immunita' concessi a titolo della presente convenzione sono definiti nel protocollo n° 3.
 
 ## QUINTA PARTE - DISPOSIZIONI FINALI
 
-###### ARTICOLO 282
+##### ARTICOLO 282
 
 I trattati, le convenzioni, gli accordi o le intese di qualsiasi forma o natura conclusi fra uno o piu' Stati membri della Comunita' e uno o piu' Stati ACP non devono essere di ostacolo all'applicazione della presente convenzione.
 
-###### ARTICOLO 283
+##### ARTICOLO 283
 
 Fatte salve le disposizioni particolari in materia di relazioni fra gli Stati ACP ed i dipartimenti francesi d'oltremare in esse enunciate, la presente convenzione si applica ai territori nei quali si applica il trattato, alle condizioni precisate in detto trattato, da una parte, e ai territori degli Stati ACP, dall'altra.
 
-###### ARTICOLO 284
+##### ARTICOLO 284
 
 1\. Quando uno Stato terzo desidera aderire alla Comunita', quest'ultima, non appena ha deciso di avviare negoziati per tale adesione, ne informa gli Stati ACP.
 
@@ -4550,7 +4532,7 @@ b) di esaminare senza indugio, dopo la conclusione dei negoziati di adesione, gl
 
 3\. Fatte salve eventuali intese transitorie che potrebbero essere concluse, le parti contraenti riconoscono che le disposizioni della presente convenzione non si applicano alle relazioni tra gli Stati ACP e un nuovo Stato membro della Comunita' fintantoche' non sia entrato in vigore il protocollo di adesione alla presente convenzione previsto al paragrafo 2, lettera b).
 
-###### ARTICOLO 285
+##### ARTICOLO 285
 
 1\. a) Per quanto riguarda la Comunita', la presente convenzione e' validamente conclusa con decisione del Consiglio delle Comunita' europee presa conformemente alle disposizioni del trattato e notificata alle parti.
 
@@ -4558,7 +4540,7 @@ b) Essa e' ratificata dagli Stati firmatari secondo le rispettive norme costituz
 
 2\. Gli strumenti di ratifica e l'atto di notifica della conclusione della presente convenzione sono depositati, per quanto riguarda gli Stati ACP, presso il Segretariato del Consiglio delle Comunita' europee e, per quanto riguarda la Comunita' e gli Stati membri, presso il Segretariato degli Stati ACP. I Segretariati ne informano immediatamente gli Stati firmatari e la Comunita'.
 
-###### ARTICOLO 286
+##### ARTICOLO 286
 
 1\. La presente convenzione entra in vigore il primo giorno del secondo mese successivo alla data di deposito degli strumenti di ratifica da parte degli Stati membri e di almeno due terzi degli Stati ACP nonche' dell'atto di notifica della conclusione della presente convenzione da parte della Comunita'.
 
@@ -4570,13 +4552,13 @@ b) Essa e' ratificata dagli Stati firmatari secondo le rispettive norme costituz
 
 5\. Il regolamento interno delle istituzioni congiunte stabilite dalla presente convenzione determina se ed a quali condizioni partecipino in veste di osservatori alle sedute delle istituzioni i rappresentanti degli Stati firmatari che, alla data dell'entrata in vigore della presente convenzione, non abbiano ancora espletato le procedure di cui all'articolo 285. Tali disposizioni restano in vigore solo fino al momento in cui la presente convenzione diventi applicabile a detti Stati e perdono comunque ogni efficacia alla data in cui, secondo il disposto del paragrafo 2, lo Stato in questione non puo' piu' procedere alla ratifica della presente convenzione.
 
-###### ARTICOLO 287
+##### ARTICOLO 287
 
 1\. Il Consiglio dei Ministri viene informato di qualsiasi domanda di adesione o di associazione di uno Stato alla Comunita'.
 
 2\. Il Consiglio dei Ministri viene altresi' informato di qualsiasi domanda di adesione di uno Stato ad una qualunque associazione economica composta di Stati ACP.
 
-###### ARTICOLO 288
+##### ARTICOLO 288
 
 1\. Ogni domanda di adesione alla presente convenzione di un paese o territorio di cui alla parte quarta del trattato, divenuto indipendente, e' portata a conoscenza del Consiglio dei Ministri.
 
@@ -4584,7 +4566,7 @@ b) Essa e' ratificata dagli Stati firmatari secondo le rispettive norme costituz
 
 3\. Questo Stato gode quindi degli stessi diritti ed e' sottoposto agli stessi obblighi degli Stati ACP. L'adesione non puo' pregiudicare i vantaggi derivanti agli Stati ACP firmatari della presente convenzione dalle disposizioni relative alla cooperazione finanziaria e tecnica ed alla stabilizzazione dei proventi da esportazione.
 
-###### ARTICOLO 289
+##### ARTICOLO 289
 
 1\. Ogni domanda di adesione alla presente convenzione presentata da uno Stato la cui struttura economica e la cui produzione siano paragonabili a quelle degli Stati ACP richiede l'approvazione del Consiglio dei Ministri. Lo Stato interessato puo' aderire alla presente convenzione concludendo un accordo con la Comunita'.
 
@@ -4594,11 +4576,11 @@ b) Essa e' ratificata dagli Stati firmatari secondo le rispettive norme costituz
 
 4\. L'adesione non puo' tuttavia pregiudicare i vantaggi derivanti agli Stati ACP firmatari della presente convenzione dalle disposizioni relative alla cooperazione finanziaria e tecnica, alla stabilizzazione dei proventi da esportazione ed alla cooperazione industriale.
 
-###### ARTICOLO 290
+##### ARTICOLO 290
 
 A decorrere dall'entrata in vigore della presente convenzione, i poteri conferiti al Consiglio dei Ministri dalla convenzione ACP-CEE firmata a Lome' il 31 ottobre 1979 sono esercitati, se necessario e in osservanza delle disposizioni pertinenti di detta convenzione, dal Consiglio dei Ministri istituito dalla presente convenzione.
 
-###### ARTICOLO 291
+##### ARTICOLO 291
 
 La presente convenzione scade al termine di un periodo di cinque anni a decorrere dal 1 marzo 1985, cioe' il 28 febbraio 1990.
 
@@ -4606,15 +4588,15 @@ Diciotto mesi prima della fine di questo periodo le parti contraenti avvieranno 
 
 Il Consiglio dei Ministri adotta le eventuali misure transitorie necessarie fino all'entrata in vigore della nuova convenzione.
 
-###### ARTICOLO 292
+##### ARTICOLO 292
 
 La presente convenzione puo' essere denunciata dalla Comunita' nei confronti di ciascuno Stato ACP e da ciascuno Stato ACP nei confronti della Comunita' con un preavviso di sei mesi.
 
-###### ARTICOLO 293
+##### ARTICOLO 293
 
 I protocolli allegati alla presente convenzione ne costituiscono parte integrante.
 
-###### ARTICOLO 294
+##### ARTICOLO 294
 
 La presente convenzione redatta in due esemplari in lingua danese, francese, greca, inglese, italiana, olandese e tedesca, ciascun testo facendo ugualmente fede, e' depositata negli archivi del Segretariato del Consiglio delle Comunita' europee e presso il Segretariato degli Stati ACP che ne rimettono copia certificata conforme al governo di ogni Stato firmatario.
 
@@ -4632,7 +4614,7 @@ PROTOCOLLO N° 1
 
 relativo alla definizione della nozione di "prodotti originari" ed ai metodi di cooperazione amministrativa
 
-###### ARTICOLO 1
+##### ARTICOLO 1
 
 1\. Ai fini dell'applicazione della convenzione e senza pregiudizio dei paragrafi 3 e 4, sono considerati prodotti originari di uno Stato ACP, purche' siano stati trasportati direttamente ai sensi dell'articolo 5:
 
@@ -4650,7 +4632,7 @@ b) i prodotti ottenuti in uno o piu' Stati ACP per la cui fabbricazione siano st
 
 6\. I prodotti riportati nell'elenco C dell'allegato IV sono temporaneamente esclusi dal campo d'applicazione del presente protocollo. Cio' nonostante, a questi prodotti si applicano, mutatis mutandis, le disposizioni in materia di cooperazione amministrativa.
 
-###### ARTICOLO 2
+##### ARTICOLO 2
 
 Sono considerati come interamente ottenuti in uno o piu' Stati ACP, nella Comunita' o nei paesi e territori ai sensi dell'articolo 1, paragrafo 1, lettera a), e paragrafo 3:
 
@@ -4684,7 +4666,7 @@ lavorazione che vi sono effettuate;
 
 j) le merci che vi sono fabbricate esclusivamente a partire dai prodotti indicati alle lettere da a) a i).
 
-###### ARTICOLO 3
+##### ARTICOLO 3
 
 1\. Ai fini dell'applicazione dell'articolo 1, paragrafo 1, lettera b), sono considerate sufficienti:
 
@@ -4720,7 +4702,7 @@ g) il cumulo di due o piu' operazioni di cui alle lettere da a) a f);
 
 h) la macellazione degli animali.
 
-###### ARTICOLO 4
+##### ARTICOLO 4
 
 Quando gli elenchi A e B di cui all'articolo 3 dispongono che le merci ottenute in uno Stato ACP sono considerate originarie del medesimo soltanto se il valore dei prodotti utilizzati non supera una data percentuale del valore delle merci ottenute, i valori da prendere in considerazione per la determinazione di questa percentuale sono:
 
@@ -4728,7 +4710,7 @@ Quando gli elenchi A e B di cui all'articolo 3 dispongono che le merci ottenute 
 
 \- dall'altro, il prezzo franco fabbrica delle merci ottenute, al netto delle imposte interne restituite o da restituire in caso di esportazione.
 
-###### ARTICOLO 5
+##### ARTICOLO 5
 
 1\. Ai fini dell'applicazione dell'articolo 1, paragrafi 1, 3 e 4, sono considerati come trasportati direttamente dagli Stati ACP nella Comunita' oppure dalla Comunita' o dai paesi e territori negli Stati ACP i prodotti il cui trasporto viene effettuato senza attraversare territori diversi da quelli delle parti interessate. Tuttavia il trasporto dei prodotti che costituiscono una sola spedizione puo' effettuarsi attraverso territori diversi da quelli degli Stati ACP, della Comunita' o dei paesi e territori, all'occorrenza con trasbordo o deposito temporaneo in questi territori, purche' l'attraversamento di questi ultimi sia giustificato da motivi geografici o da esigenze di trasporto, e purche' i prodotti non vi siano stati immessi in commercio o al consumo e non vi abbiano subito, eventualmente, operazioni diverse da quelle di scarico o di ricarico o da qualsiasi altra operazione diretta a conservarli nel loro stato.
 
@@ -4750,7 +4732,7 @@ c) in mancanza dei documenti di cui sopra, di qualsiasi documento probatorio.
 
 ## TITOLO II - METODI DI COOPERAZIONE AMMINISTRATIVA
 
-###### ARTICOLO 6
+##### ARTICOLO 6
 
 1\. a) la prova del carattere originario dei prodotti a norma del presente protocollo e' fornita da un certificato di circolazione delle merci EUR 1, il cui modello si trova nell'allegato V del presente protocollo.
 
@@ -4768,7 +4750,7 @@ e) Se la merce e' fatturata nella moneta di un altro Stato membro della Comunita
 
 4\. Gli assortimenti di cui alla regola generale 3 della Nomenclatura del Consiglio di cooperazione doganale sono considerati originari a condizione che tutti i prodotti che entrano nella loro composizione siano originari. Tuttavia, un assortimento composto di prodotti originari e non originari e' considerato come originario nel suo complesso purche' il valore dei prodotti non originari non superi il 15% del valore totale dell'assortimento.
 
-###### ARTICOLO 7
+##### ARTICOLO 7
 
 1\. Il certificato di circolazione delle merci EUR. 1 e' rilasciato dalle autorita' doganali dello Stato ACP di esportazione al momento dell'esportazione delle merci alle quali si riferisce. Esso e' tenuto a disposizione dell'esportatore dal momento in cui l'esportazione ha effettivamente luogo o e' assicurata.
 
@@ -4780,7 +4762,7 @@ e) Se la merce e' fatturata nella moneta di un altro Stato membro della Comunita
 
 5\. Le domande di certificati di circolazione delle merci devono essere conservate per almeno tre anni dalle autorita' doganali del paese di esportazione.
 
-###### ARTICOLO 8
+##### ARTICOLO 8
 
 1\. Il certificato di circolazione delle merci EUR. 1 viene rilasciato dalle autorita' doganali dello Stato ACP di esportazione se le merci possono essere considerate come prodotti originari ai sensi del presente protocollo.
 
@@ -4792,7 +4774,7 @@ Qualora tale parte non sia completamente utilizzata, si deve tracciare una linea
 
 4\. La data del rilascio del certificato deve essere indicata nella parte del certificato di circolazione delle merci riservata alla dogana.
 
-###### ARTICOLO 9
+##### ARTICOLO 9
 
 1\. Il certificato di circolazione delle merci EUR. 1 viene compilato sul formulario il cui modello figura all'allegato V del presente protocollo. Detto formulario e' stampato in una o piu' lingue nelle quali e' redatta la presente convenzione. Il certificato e' redatto in una di queste lingue in conformita' del diritto interno dello Stato di esportazione. Se compilato a mano, esso deve essere scritto con inchiostro e a stampatello.
 
@@ -4802,13 +4784,13 @@ Qualora tale parte non sia completamente utilizzata, si deve tracciare una linea
 
 In quest'ultimo caso, su ciascun certificato devono essere indicati gli estremi dell'autorizzazione. Su ogni certificato deve figurare il nome e l'indirizzo della tipografia oppure un segno che ne consenta l'identificazione. Il certificato deve recare inoltre un numero di serie, stampato o meno, destinato a contraddistinguerlo.
 
-###### ARTICOLO 10
+##### ARTICOLO 10
 
 1\. Sotto la responsabilita' dell'esportatore, spetta all'esportatore o al suo rappresentante autorizzato presentare la domanda per il rilascio di un certificato di circolazione delle merci EUR. 1.
 
 2\. L'esportatore o il suo rappresentante presenta, congiuntamente alla domanda, qualsiasi documento giustificativo utile, atto a comprovare che per le merci da esportare puo' essere rilasciato un certificato di circolazione delle merci EUR. 1.
 
-###### ARTICOLO 11
+##### ARTICOLO 11
 
 1\. Il certificato di circolazione delle merci EUR. 1 deve essere presentato, entro un termine di dieci mesi dalla data di rilascio da parte della dogana dello Stato ACP d'esportazione, all'ufficio doganale dello Stato d'importazione in cui le merci sono presentate.
 
@@ -4826,21 +4808,21 @@ La Commissione trasmette questi dati alle autorita' doganali degli Stati membri.
 
 3\. Uno o piu' certificati di circolazione delle merci EUR. 1 possono essere sostituiti da uno o piu' altri certificati EUR. 1, purche' la sostituzione venga effettuata all'ufficio doganale nel quale si trovano le merci.
 
-###### ARTICOLO 12
+##### ARTICOLO 12
 
 Il certificato di circolazione delle merci EUR. 1 e' presentato alle autorita' doganali dello Stato d'importazione secondo le modalita' previste dalle norme vigenti in detto Stato. Dette autorita' possono esigere la presentazione di una traduzione. Esse possono anche richiedere che la dichiarazione di importazione sia completata da un attestato dell'importatore certificante che le merci soddisfano le condizioni richieste per l'applicazione della convenzione.
 
-###### ARTICOLO 13
+##### ARTICOLO 13
 
 1\. I certificati di circolazione delle merci EUR. 1 presentati alle autorita' doganali dello Stato d'importazione dopo lo scadere del termine di presentazione previsto all'articolo 11 possono essere accettati, ai fini dell'applicazione del regime preferenziale, quando l'inosservanza del termine e' dovuta a causa di forza maggiore o a circostanze eccezionali.
 
 2\. A parte tali casi, le autorita' doganali dello Stato d'importazione possono accettare i certificati se le merci sono state loro presentate prima della scadenza di detto termine.
 
-###### ARTICOLO 14
+##### ARTICOLO 14
 
 L'accertamento di lievi discordanze tra le diciture che figurano sul certificato di circolazione delle merci EUR. 1 e quelle riportate sui documenti presentati all'ufficio doganale per l'espletamento delle formalita' d'importazione delle merci stesse non comporta ipso facto l'invalidita' del certificato, se e' debitamente accertato che il certificato corrisponde alle merci presentate.
 
-###### ARTICOLO 15
+##### ARTICOLO 15
 
 Il formulario EUR. 2, il cui modello figura nell'allegato VI, e' compilato dall'esportatore. Esso e' redatto in una delle lingue ufficiali nelle quali e' redatta la presente convenzione, ed in conformita' del diritto interno dello Stato d'esportazione. Se compilato a mano, esso deve essere scritto con inchiostro e a stampatello.
 
@@ -4856,7 +4838,7 @@ Nel caso di spedizioni per lettera, l'esportatore inserisce il formulario all'in
 
 Le presenti disposizioni non dispensano l'esportatore dall'espletamento delle altre formalita' previste dai regolamenti doganali e postali.
 
-###### ARTICOLO 16
+##### ARTICOLO 16
 
 1\. Sono ammessi come prodotti originari, senza che occorra presentare un certificato di circolazione delle merci EUR. 1 o di compilare un formulario EUR. 2, le merci che sono oggetto di piccole spedizioni destinate a privati o contenute nei bagagli personali dei viaggiatori, purche' si tratti di importazioni prive di qualsiasi carattere commerciale, quando dette merci sono dichiarate rispondenti alle condizioni richieste per l'applicazione delle presenti disposizioni e purche' non sussistano dubbi circa la veridicita' della dichiarazione.
 
@@ -4864,7 +4846,7 @@ Le presenti disposizioni non dispensano l'esportatore dall'espletamento delle al
 
 Inoltre, il valore globale delle merci non deve superare 140 ECU, se si tratta di piccole spedizioni, oppure 400 ECU. se si tratta del contenuto dei bagagli personali di viaggiatori.
 
-###### ARTICOLO 17
+##### ARTICOLO 17
 
 1\. Le merci spedite da uno Stato ACP per un'esposizione in un paese che non sia uno Stato ACP, uno Stato membro o un paese o territorio, e vendute, dopo l'esposizione, per essere importate nella Comunita', beneficiano, all'importazione, delle disposizioni della convenzione purche' soddisfino le condizioni richieste dal presente protocollo per essere riconosciute originarie di uno Stato ACP e purche' sia fornita la prova alle autorita' doganali:
 
@@ -4882,7 +4864,7 @@ All'occorrenza puo' essere richiesta un'ulteriore prova documentale sulla natura
 
 3\. Il paragrafo 1 si applica a qualsiasi esposizione, fiera o manifestazione pubblica analoga, di carattere commerciale, industriale, agricolo o artigianale, diversa da quelle organizzate per finalita' private in negozi o locali commerciali ed aventi per oggetto la vendita di merci straniere, durante le quali le merci restano sotto controllo della dogana.
 
-###### ARTICOLO 18
+##### ARTICOLO 18
 
 1\. Quando un certificato e' rilasciato ai sensi dell'articolo 7, paragrafo 2, dopo l'effettiva esportazione delle merci cui esso si riferisce, l'esportatore deve, sulla domanda di cui all'articolo 7, paragrafo 3:
 
@@ -4896,7 +4878,7 @@ I certificati rilasciati a posteriori devono recare una delle seguenti diciture:
 
 Parte di provvedimento in formato grafico
 
-###### ARTICOLO 19
+##### ARTICOLO 19
 
 In caso di furto, perdita o distruzione di un certificato di circolazione delle merci EUR. 1, l'esportatore puo' chiedere alle autorita' doganali che l'hanno rilasciato un duplicato redatto in base ai documenti d'esportazione in loro possesso.
 
@@ -4904,21 +4886,21 @@ Il duplicato cosi' rilasciato deve recare una delle seguenti diciture: "DUPLIKAT
 
 Parte di provvedimento in formato grafico
 
-###### ARTICOLO 20
+##### ARTICOLO 20
 
 1\. Quando, ai fini del rilascio di un certificato di circolazione delle merci EUR. 1 si applica l'articolo 1, paragrafi 2, 3 e 4, l'ufficio doganale competente dello Stato ACP in cui si chiede il rilascio di detto certificato per prodotti nella cui fabbricazione sono entrati prodotti provenienti da altri Stati ACP, dalla Comunita' o dai paesi e territori, prende in considerazione la dichiarazione che, conformemente al modello di cui all'allegato VII, l'esportatore dello Stato, paese o territorio di provenienza ha fatto sulla fattura commerciale relativa a detti prodotti o su un suo allegato.
 
 2\. L'ufficio doganale interessato puo' tuttavia chiedere all'esportatore di presentare la scheda informativa che e' rilasciata alle condizioni di cui all'articolo 21, ed il cui modello figura nell'allegato VIII, per controllare l'autenticita' e l'esattezza dei dati indicati nella dichiarazione di cui al paragrafo 1, o per ottenere informazioni supplementari.
 
-###### ARTICOLO 21
+##### ARTICOLO 21
 
 La scheda informativa relativa ai prodotti utilizzati viene rilasciata, a richiesta dell'esportatore di tali prodotti, nei casi di cui all'articolo 20, paragrafo 2 o per iniziativa di detto esportatore, dal competente ufficio doganale dello Stato, paese o territorio da cui i prodotti sono stati esportati. Essa e' redatta in due esemplari, un esemplare e' rilasciato al richiedente cui spetta farlo pervenire o all'esportatore dei prodotti finali o all'ufficio doganale cui si richiede, per tali prodotti, il certificato di circolazione delle merci EUR. 1. Il secondo esemplare e' conservato per almeno tre anni nell'ufficio di rilascio.
 
-###### ARTICOLO 22
+##### ARTICOLO 22
 
 Gli Stati ACP prendono tutte le misure necessarie per evitare che le merci oggetto di una transazione in base ad un certificato di circolazione delle merci EUR. 1 le quali, durante il trasporto, sostino in una zona franca situata sul loro territorio, siano oggetto di sostituzioni o di manipolazioni diverse dalle manipolazioni destinate a conservarle inalterate.
 
-###### ARTICOLO 23
+##### ARTICOLO 23
 
 1\. Gli Stati ACP trasmettono alla Commissione le impronte dei timbri usati e gli indirizzi dei servizi doganali competenti per il rilascio dei certificati di circolazione delle merci EUR. 1 e per il controllo a posteriori dei certificati di circolazione EUR. 1 nonche' dei formulari EUR. 2.
 
@@ -4926,11 +4908,11 @@ La Commissione trasmette questi dati alle autorita' doganali degli Stati membri.
 
 2\. Ai fini di una corretta applicazione del presente titolo, gli Stati membri, i paesi e territori e gli Stati ACP si prestano reciproca assistenza, tramite le rispettive amministrazioni doganali, per il controllo dell'autenticita' dei certificati di circolazione delle merci EUR. 1 nonche' dell'esattezza delle informazioni sull'origine reale dei prodotti in oggetto, delle dichiarazioni degli esportatori riportate sui formulari EUR. 2 e dell'autenticita' e della regolarita' delle schede informative di cui all'articolo 20.
 
-###### ARTICOLO 24
+##### ARTICOLO 24
 
 Vengono applicate sanzioni nei confronti di coloro che, per far ammettere una merce al beneficio del regime preferenziale, redigano o facciano redigere un documento contenente dati inesatti allo scopo di ottenere un certificato di circolazione delle merci EUR. 1, oppure compilino o facciano compilare un formulario EUR. 2 contenente dati inesatti.
 
-###### ARTICOLO 25
+##### ARTICOLO 25
 
 1\. Il controllo a posteriori dei certificati di circolazione delle merci EUR. 1 o dei formulari EUR. 2 viene effettuato per sondaggio ed ogniqualvolta le autorita' doganali dello Stato d'importazione nutrano fondati dubbi sull'autenticita' del documento o sulla esattezza dei dati riguardanti la reale origine delle merci in questione.
 
@@ -4944,11 +4926,11 @@ Qualora non sia possibile dirimere le contestazioni di cui sopra tra le autorita
 
 La composizione delle controversie tra l'importatore e le autorita' doganali dello Stato d'importazione resta comunque soggetta alla legislazione di questo Stato.
 
-###### ARTICOLO 26
+##### ARTICOLO 26
 
 Il controllo a posteriori delle schede informative di cui all'articolo 20 viene effettuato nei casi previsti all'articolo 25 e con metodi analoghi a quelli stabiliti in detto articolo.
 
-###### ARTICOLO 27
+##### ARTICOLO 27
 
 Conformemente al disposto dell'articolo 11 della convenzione, il Consiglio dei Ministri procede annualmente, oppure ogniqualvolta gli Stati ACP o la Comunita' ne facciano richiesta, all'esame dell'applicazione del presente protocollo e dei suoi effetti economici, allo scopo di apportarvi le modifiche o gli adeguamenti necessari.
 
@@ -4956,7 +4938,7 @@ Il Consiglio dei Ministri tiene conto di vari elementi, fra cui l'incidenza dell
 
 Le decisioni prese vengono attuate quanto prima.
 
-###### ARTICOLO 28
+##### ARTICOLO 28
 
 1\. E' istituito un Comitato di cooperazione doganale incaricato di assicurare la cooperazione amministrativa ai fini della corretta ed uniforme applicazione del presente protocollo e di assolvere qualsiasi altro compito che possa venirgli affidato nel settore doganale.
 
@@ -4966,11 +4948,11 @@ Le decisioni prese vengono attuate quanto prima.
 
 4\. Il Comitato e' composto di esperti degli Stati membri e di funzionari della Commissione responsabili dei problemi doganali, da un lato, e di esperti rappresentanti gli Stati ACP e di funzionari dei raggruppamenti regionali degli Stati ACP, responsabili dei problemi doganali, dall'altro. Il Comitato puo', se necessario, ricorrere agli esperti appropriati.
 
-###### ARTICOLO 29
+##### ARTICOLO 29
 
 Il Comitato di cooperazione doganale esamina periodicamente le incidenze dell'applicazione delle norme di origine sugli Stati ACP e in particolare su quelli meno sviluppati, e raccomanda al Consiglio dei Ministri i provvedimenti del caso.
 
-###### ARTICOLO 30
+##### ARTICOLO 30
 
 1\. Il Comitato puo' adottare deroghe al presente protocollo quando esse siano giustificate dallo sviluppo di industrie esistenti o dall'insediamento di nuove industrie. A questo scopo, prima che gli Stati ACP adiscano il Comitato o contemporaneamente, lo Stato o gli Stati ACP interessati informano la Comunita' in merito alla loro richiesta, sulla base di una documentazione giustificativa elaborata conformemente alla nota esplicativa n° 11.
 
@@ -5006,19 +4988,19 @@ Esso agisce alle condizioni stabilite al paragrafo 7. Sono prese tutte le misure
 
 c) Nel corso dei periodi di cui alle lettere a) e b) il Comitato puo' procedere ad un riesame delle condizioni di applicazione della deroga ove appaia un cambiamento importante degli elementi di fatto che ne hanno motivato l'adozione. Al termine di detto esame il Comitato puo' decidere di modificare i termini della sua decisione per quanto riguarda il campo d'applicazione della deroga o qualsiasi altra condizione fissata in precedenza.
 
-###### ARTICOLO 31
+##### ARTICOLO 31
 
 Le parti contraenti convengono di esaminare dopo la firma della convenzione, nella competente sede istituzionale, qualsiasi richiesta di deroga al presente protocollo, per consentire l'entrata in vigore delle deroghe alla stessa data dell'entrata in vigore della convenzione.
 
-###### ARTICOLO 32
+##### ARTICOLO 32
 
 Gli allegati del presente protocollo costituiscono parte integrante dello stesso.
 
-###### ARTICOLO 33
+##### ARTICOLO 33
 
 La Comunita' e gli Stati ACP prendono, ciascuno per quanto lo riguarda, le misure necessarie all'esecuzione del presente protocollo.
 
-###### Allegato I
+##### Allegato I
 
 ALLEGATO I
 
@@ -5112,7 +5094,7 @@ Lo stesso vale per quanto riguarda eventuali proroghe.
 
 Il termine di cui all'articolo 30, paragrafo 7 decorre dalla data di presentazione della richiesta alla Comunita'.
 
-###### Allegato II
+##### Allegato II
 
 ALLEGATO II
 
@@ -5122,7 +5104,7 @@ Elenco delle lavorazioni o trasformazioni di prodotti non originari che comporta
 
 Parte di provvedimento in formato grafico
 
-###### Allegato III
+##### Allegato III
 
 ALLEGATO III
 
@@ -5132,7 +5114,7 @@ Elenco delle lavorazioni o trasformazioni di prodotti non originari che non comp
 
 Parte di provvedimento in formato grafico
 
-###### Allegato IV
+##### Allegato IV
 
 ALLEGATO IV
 
@@ -5142,7 +5124,7 @@ Elenco dei prodotti esclusi dall'applicazione del presente protocollo.
 
 Parte di provvedimento in formato grafico
 
-###### Allegato V
+##### Allegato V
 
 ALLEGATO V
 
@@ -5150,7 +5132,7 @@ CERTIFICATO DI CIRCOLAZIONE DELLE MERCI
 
 Parte di provvedimento in formato grafico
 
-###### Allegato VI
+##### Allegato VI
 
 ALLEGATO VI
 
@@ -5158,7 +5140,7 @@ FORMULARIO EUR. 2
 
 Parte di provvedimento in formato grafico
 
-###### Allegato VII
+##### Allegato VII
 
 ALLEGATO VII
 
@@ -5166,7 +5148,7 @@ MODELLO DI DICHIARAZIONE
 
 Parte di provvedimento in formato grafico
 
-###### Allegato VIII
+##### Allegato VIII
 
 ALLEGATO VIII
 
@@ -5180,13 +5162,13 @@ LE PARTI CONTRAENTI
 
 HANNO CONVENUTO le seguenti disposizioni che sono allegate alla convenzione:
 
-###### ARTICOLO 1
+##### ARTICOLO 1
 
 Gli Stati membri e la Comunita', da un lato, gli Stati ACP, dall'altro, assumono l'onere delle spese da essi sostenute per partecipare alle sessioni del Consiglio dei Ministri e degli organi che ne dipendono, per quanto riguarda sia le spese di personale, di viaggio e di soggiorno sia le spese postali e di telecomunicazioni.
 
 Le spese per il servizio d'interpretazione durante le sedute e per la traduzione e riproduzione dei documenti e le spese per l'organizzazione materiale delle riunioni (locali, forniture, uscieri, ecc.) sono sostenute dalla Comunita' o da uno degli Stati ACP a seconda che le riunioni abbiano luogo sul territorio di uno Stato membro o di uno Stato ACP.
 
-###### ARTICOLO 2
+##### ARTICOLO 2
 
 La Comunita' e gli Stati ACP assumono l'onere, ciascuno per quanto lo riguarda, delle spese di viaggio e di soggiorno dei loro rispettivi partecipanti alle riunioni dell'Assemblea paritetica.
 
@@ -5194,7 +5176,7 @@ Alle stesse condizioni, essi assumono l'onere delle spese di viaggio e di soggio
 
 Le spese per il servizio d'interpretazione durante le sedute e per la traduzione e riproduzione dei documenti e le spese per l'organizzazione materiale delle riunioni (locali, forniture, uscieri, ecc.) sono sostenute dalla Comunita' o dagli Stati ACP a seconda che le riunioni abbiano luogo sul territorio di uno Stato membro o di uno Stato ACP.
 
-###### ARTICOLO 3
+##### ARTICOLO 3
 
 Gli arbitri designati a norma dell'articolo 278 della convenzione hanno diritto al rimborso delle spese di viaggio e di soggiorno.
 
@@ -5206,7 +5188,7 @@ Le spese di cancelleria per l'istruzione delle controversie e per l'organizzazio
 
 Le spese per misure straordinarie d'istruzione sono pagate con le altre spese e sono oggetto di anticipi pagati dalle parti alle condizioni stabilite dalla decisione degli arbitri.
 
-## Capitolo 1 - Persone che partecipano ai lavori relativi alla convenzione
+### Capitolo 1 - Persone che partecipano ai lavori relativi alla convenzione
 
 PROTOCOLLO N° 3 sui privilegi e sulle immunita'
 
@@ -5224,25 +5206,25 @@ considerando che l'accordo di Georgetown del 6 giugno 1975 ha istituito il grupp
 
 HANNO CONVENUTO le disposizioni seguenti, allegate alla convenzione:
 
-###### ARTICOLO 1
+##### ARTICOLO 1
 
 I rappresentanti dei governi degli Stati membri e degli Stati ACP ed i rappresentanti delle istituzioni delle Comunita' Europee nonche' i loro consiglieri ed esperti e i membri del personale del Segretariato degli Stati ACP che partecipano nel territorio degli Stati membri o degli Stati ACP ai lavori delle istituzioni della convenzione o degli organi di coordinamento, oppure a lavori relativi alla applicazione della convenzione, vi godono, durante l'esercizio delle loro funzioni o nei loro viaggi a destinazione del luogo della missione o in provenienza dal medesimo, dei privilegi, immunita' e agevolazioni d'uso.
 
 Il primo comma si applica altresi' ai membri dell'Assemblea paritetica prevista dalla convenzione, agli arbitri che possono essere designati in virtu' della convenzione, ai membri degli organismi consultivi degli ambienti economici e sociali che possono essere istituiti e ai funzionari e agenti dei medesimi, ai membri degli organi della Banca Europea per gli investimenti, al personale di quest'ultima, al personale del Centro per lo sviluppo industriale e al personale del Centro tecnico di cooperazione agricola.
 
-## Capitolo 2 - Beni, fondi e averi del Consiglio dei Ministri ACP
+### Capitolo 2 - Beni, fondi e averi del Consiglio dei Ministri ACP
 
-###### ARTICOLO 2
+##### ARTICOLO 2
 
 I locali e gli edifici utilizzati a fini ufficiali dal Consiglio dei Ministri ACP sono inviolabili. Essi sono esenti da perquisizioni, requisizioni, confisca o espropriazione.
 
 Salvo nella misura necessaria alle inchieste relative ad un incidente causato da un autoveicolo appartenente al suddetto Consiglio o circolante per conto di quest'ultimo o in caso di infrazione alle norme che regolano la circolazione stradale o di incidenti causati da tale veicolo, i beni e gli averi del Consiglio dei Ministri ACP non possono essere oggetto di alcun provvedimento di coercizione amministrativa o giudiziaria senza l'autorizzazione del Consiglio dei Ministri istituito dalla convenzione.
 
-###### ARTICOLO 3
+##### ARTICOLO 3
 
 Gli archivi del Consiglio dei Ministri ACP sono inviolabili.
 
-###### ARTICOLO 4
+##### ARTICOLO 4
 
 Il Consiglio dei Ministri ACP, i suoi averi, le sue entrate e gli altri suoi beni sono esenti da qualsiasi imposta diretta.
 
@@ -5250,41 +5232,41 @@ Ove il Consiglio dei Ministri ACP effettui acquisti considerevoli di beni immobi
 
 Nessuna esenzione e' concessa per imposte, tasse, diritti e canoni che costituiscono mera remunerazione di servizi prestati.
 
-###### ARTICOLO 5
+##### ARTICOLO 5
 
 Il Consiglio dei Ministri ACP e' esente da qualsiasi dazio doganale, divieto o restrizione all'importazione e all'esportazione, in ordine agli oggetti destinati al suo uso ufficiale; gli oggetti cosi' importati non possono essere venduti ne' ceduti a titolo oneroso o gratuito nel territorio del paese in cui sono stati importati, salvo che cio' avvenga a condizioni approvate dal governo di questo paese.
 
-## Capitolo 3 - Comunicazioni ufficiali
+### Capitolo 3 - Comunicazioni ufficiali
 
-###### ARTICOLO 6
+##### ARTICOLO 6
 
 Per le loro comunicazioni ufficiali e la trasmissione di tutti i loro documenti, la Comunita', le istituzioni congiunte della convenzione e gli organi di coordinamento godono nel territorio degli Stati parti alla convenzione del trattamento accordato alle organizzazioni internazionali.
 
 La corrispondenza ufficiale e le altre comunicazioni ufficiali della Comunita', delle istituzioni congiunte della convenzione e degli organi di coordinamento non possono essere censurate.
 
-## Capitolo 4 - Personale del Segretariato degli Stati ACP
+### Capitolo 4 - Personale del Segretariato degli Stati ACP
 
-###### ARTICOLO 7
+##### ARTICOLO 7
 
 Il(I) Segretario(Segretari) e il(i) Segretario(Segretari) aggiunto(i) del Consiglio dei Ministri ACP e gli altri membri permanenti del personale di grado superiore designati dagli Stati ACP beneficiano nello Stato che ospita la sede del Consiglio dei Ministri ACP, sotto la responsabilita' del Presidente in carica del Comitato degli Ambasciatori, dei vantaggi riconosciuti ai membri del personale diplomatico delle missioni diplomatiche. Il coniuge e i figli minorenni conviventi beneficiano, alle stesse condizioni, dei vantaggi riconosciuti al coniuge e ai figli minorenni dei membri del personale diplomatico.
 
-###### ARTICOLO 8
+##### ARTICOLO 8
 
 Lo Stato che ospita la sede del Consiglio dei Ministri ACP riconosce agli agenti permanenti del Segretariato degli Stati ACP diversi da quelli indicati all'articolo 7 l'immunita' di giurisdizione solamente per gli atti da essi compiuti nell'esercizio delle loro funzioni ufficiali. Sono esclusi tuttavia dall'immunita' i casi di infrazione alle norme che regolano la circolazione degli autoveicoli da parte di un agente permanente del personale del Segretariato degli Stati ACP o di danni causati da un autoveicolo di sua proprieta' o da lui guidato.
 
-###### ARTICOLO 9
+##### ARTICOLO 9
 
 I nomi, le qualifiche e gli indirizzi del presidente in carica del Comitato degli Ambasciatori, del (dei) Segretario (Segretari) e del (dei) Segretario (Segretari) aggiunto (aggiunti) del Consiglio dei Ministri ACP, nonche' degli agenti permanenti del personale del Segretariato degli Stati ACP sono comunicati periodicamente, a cura del Presidente del Consiglio dei Ministri ACP, al governo dello Stato che ospita la sede del Consiglio dei Ministri ACP.
 
-## Capitolo 5 - Disposizioni generali
+### Capitolo 5 - Disposizioni generali
 
-###### ARTICOLO 10
+##### ARTICOLO 10
 
 I privilegi, le immunita' e le agevolazioni previste dal presente protocollo sono accordati ai beneficiari esclusivamente nell'interesse delle loro funzioni ufficiali.
 
 Le istituzioni e gli organi congiunti di cui al presente protocollo hanno l'obbligo di rinunciare all'immunita' ogniqualvolta reputino che cio' non sia contrario ai loro interessi.
 
-###### ARTICOLO 11
+##### ARTICOLO 11
 
 L'articolo 278 della convenzione e' applicabile alle controversie relative al presente protocollo.
 
@@ -5294,11 +5276,11 @@ PROTOCOLLO N° 4 relativo alle banane
 
 La Comunita' e gli Stati ACP convengono sugli obiettivi intesi a migliorare le condizioni di produzione e di commercializzazione delle banane degli Stati ACP e sul perseguimento dei vantaggi di cui beneficiano i fornitori tradizionali conformemente agli impegni di cui all'articolo 1 del presente protocollo, e convengono sul fatto che saranno presi gli adeguati provvedimenti per la loro attuazione.
 
-###### ARTICOLO 1
+##### ARTICOLO 1
 
 In merito alle esportazioni di banane nei mercati della Comunita', nessuno Stato ACP e' posto in una situazione meno favorevole di quella passata o presente per quanto concerne l'accesso ai suoi mercati tradizionali ed i vantaggi di cui fruisce sui medesimi.
 
-###### ARTICOLO 2
+##### ARTICOLO 2
 
 Ciascuno Stato ACP interessato e la Comunita' si concertano al fine di determinare le azioni da attuare per migliorare le condizioni di produzione e commercializzazione delle banane. Questo scopo e' perseguito con tutti i mezzi previsti nell'ambito delle disposizioni della convenzione relative alla cooperazione finanziaria, tecnica, agricola, industriale e regionale. Dette azioni sono concepite in modo da consentire agli Stati ACP, ed in particolare alla Somalia, tenuto conto delle loro situazioni speciali, di essere maggiormente competitivi, tanto sui loro mercati tradizionali quanto sugli altri mercati della Comunita'. Esse vengono attuate a tutti i livelli dalla produzione al consumo e riguardano in particolare i settori seguenti:
 
@@ -5308,21 +5290,21 @@ Ciascuno Stato ACP interessato e la Comunita' si concertano al fine di determina
 
 \- la commercializzazione e la promozione commerciale.
 
-###### ARTICOLO 3
+##### ARTICOLO 3
 
 Per conseguire questi obiettivi, le due parti convengono di concertarsi nell'ambito di un gruppo misto permanente, assistito da un gruppo di esperti incaricato di esaminare costantemente i problemi specifici che l'applicazione del presente protocollo potrebbe sollevare, allo scopo di suggerire soluzioni.
 
-###### ARTICOLO 4
+##### ARTICOLO 4
 
 Qualora gli Stati ACP produttori di banane siano indotti a creare un'organizzazione comune per conseguire gli obiettivi del presente protocollo, la Comunita' apporta il suo sostegno a tale organizzazione prendendo in considerazione le domande che le sono presentate per appoggiare le attivita' di detta organizzazione rientranti tra le azioni regionali in materia di cooperazione finanziaria e tecnica.
 
 PROTOCOLLO N° 5 relativo al rum
 
-###### ARTICOLO 1
+##### ARTICOLO 1
 
 Sino all'entrata in vigore di un'organizzazione comune del mercato degli alcoli, i prodotti della sottovoce tariffaria 22.09 CI originari degli Stati ACP sono ammessi nella Comunita' in esenzione da dazi doganali, a condizioni che consentono lo sviluppo delle correnti tradizionali di scambi tra gli Stati ACP e la Comunita' nonche' tra i vari Stati membri.
 
-###### ARTICOLO 2
+##### ARTICOLO 2
 
 a) Ai fini dell'applicazione dell'articolo 129, la Comunita' fissa ogni anno, in deroga all'articolo 130, paragrafo 1 della convenzione, i quantitativi che possono essere importati in esenzione da dazi doganali, basandosi sui quantitativi annui piu' elevati importati dagli Stati ACP nella Comunita' negli ultimi tre anni per i quali sono disponibili statistiche, maggiorati di un tasso d'aumento annuo del 37% sul mercato del Regno Unito e del 27% sugli altri mercati della Comunita'.
 
@@ -5336,11 +5318,11 @@ d) La Comunita' si dichiara disposta a procedere ad opportune consultazioni prim
 
 e) La Comunita' si dichiara peraltro disposta a ricercare con gli Stati ACP interessati le misure che permettano di sviluppare le loro vendite di rum su mercati non tradizionali.
 
-###### ARTICOLO 3
+##### ARTICOLO 3
 
 Per conseguire tali obiettivi, le parti convengono di concertarsi nell'ambito di un gruppo misto la cui funzione consiste nell'esame continuo dei problemi specifici che l'applicazione del presente protocollo potrebbe sollevare.
 
-###### ARTICOLO 4
+##### ARTICOLO 4
 
 Su richiesta degli Stati ACP, la Comunita', nel quadro delle disposizioni del titolo VI della seconda parte della convenzione aiuta gli Stati ACP a promuovere ed a sviluppare le loro vendite di rum sui mercati tradizionali e no della Comunita'.
 
@@ -5348,7 +5330,7 @@ PROTOCOLLO N° 6
 
 relativo al regime fiscale e doganale applicabile negli Stati ACP ai contratti di appalto finanziati dalla Comunita'
 
-###### ARTICOLO 1
+##### ARTICOLO 1
 
 1\. Gli Stati ACP applicano ai contratti di appalto finanziati dalla Comunita' un regime fiscale e doganale non meno favorevole di quello applicato nei confronti dello Stato piu' favorito, o nei confronti dell'organizzazione internazionale in materia di sviluppo piu' favorita.
 
@@ -5356,7 +5338,7 @@ Per l'applicazione del primo comma, non si tiene conto dei regimi applicati nei 
 
 2\. Fermo restando il paragrafo 1, gli Stati ACP applicano, ai contratti di appalto finanziati dalla Comunita', il regime di cui agli articoli da 2 a 12.
 
-###### ARTICOLO 2
+##### ARTICOLO 2
 
 I contratti di appalto finanziati dalla Comunita' non sono soggetti ne' alle tasse di bollo e di registro ne' ai prelievi fiscali di effetto equivalente, esistenti o da creare nello Stato ACP beneficiario.
 
@@ -5364,13 +5346,13 @@ Essi possono tuttavia essere soggetti alla formalita' della registrazione, confo
 
 Questa formalita' puo' portare alla riscossione di un canone pari alla rimunerazione della prestazione di servizio non superiore al costo dell'atto, conformemente alle disposizioni giuridiche vigenti in ciascuno Stato ACP interessato.
 
-###### ARTICOLO 3
+##### ARTICOLO 3
 
 1\. I contratti di studi, di controllo e di sorveglianza, finanziati dalla Comunita', non sono soggetti alla riscossione di imposte sulla cifra di affari nello Stato ACP beneficiario.
 
 2\. Gli utili risultanti dall'esecuzione degli appalti di opere, studi, controllo e sorveglianza finanziati dalla Comunita' sono soggetti ad imposta secondo il regime fiscale interno dello Stato ACP, purche' le persone fisiche o giuridiche che li hanno realizzati abbiano in tale Stato un centro di attivita' stabile o purche' la durata di esecuzione dei contratti sia superiore a sei mesi.
 
-###### ARTICOLO 4
+##### ARTICOLO 4
 
 1\. Le importazioni nell'ambito dell'esecuzione di un appalto di forniture finanziato dalla Comunita' sono effettuate senza che l'attraversamento del cordone doganale dello Stato ACP beneficiario comporti la riscossione di dazi doganali, dazi di entrata, tasse o prelievi fiscali di effetto equivalente.
 
@@ -5378,43 +5360,43 @@ Questa formalita' puo' portare alla riscossione di un canone pari alla rimuneraz
 
 3\. Le esenzioni sono espressamente precisate nel testo stesso del contratto di appalto.
 
-###### ARTICOLO 5
+##### ARTICOLO 5
 
 Gli acquisti di carburanti, lubrificanti e leganti idrocarbonati nonche', in genere, di tutti i materiali inclusi in un appalto di opere finanziato dalla Comunita' sono considerati effettuati sul mercato locale e sono soggetti al regime fiscale applicabile a norma della legislazione nazionale vigente nello Stato ACP beneficiario.
 
-###### ARTICOLO 6
+##### ARTICOLO 6
 
 Le imprese che, per l'esecuzione degli appalti di opere, devono importare materiali professionali beneficiano, per gli stessi, dietro loro richiesta, della concessione del regime di temporanea importazione, quale definito dalla legislazione nazionale dello Stato ACP beneficiario.
 
-###### ARTICOLO 7
+##### ARTICOLO 7
 
 I materiali professionali necessari all'esecuzione dei compiti definiti in un contratto di studi, di controllo o di sorveglianza sono ammessi temporaneamente, nello Stato o negli Stati ACP beneficiari, in franchigia di diritti fiscali, diritti di entrata, dazi doganali ed altre tasse di effetto equivalente, purche' tali diritti, dazi e tasse non costituiscano la rimunerazione di una prestazione di servizio.
 
-###### ARTICOLO 8
+##### ARTICOLO 8
 
 1\. L'importazione di effetti ed oggetti personali, ad uso personale e domestico, da parte di persone fisiche, diverse da quelle assunte in loco, incaricate dell'esecuzione dei compiti definiti in un contratto di studio, di controllo o di sorveglianza si effettua, nel limite delle disposizioni previste dalla legislazione dello Stato ACP beneficiario, in esenzione dalla riscossione dei dazi doganali, dazi di entrata, tasse ed altri prelievi fiscali di effetto equivalente.
 
 2\. Queste disposizioni si applicano altresi' ai familiari delle persone di cui al paragrafo 1.
 
-###### ARTICOLO 9
+##### ARTICOLO 9
 
 1\. Il delegato della Commissione ed il personale delle delegazioni, ad esclusione del personale assunto in loco, sono esonerati da qualsiasi imposta diretta nello Stato ACP in cui sono installati.
 
 2\. Il personale di cui al paragrafo 1 beneficia altresi' delle disposizioni dell'articolo 8.
 
-###### ARTICOLO 10
+##### ARTICOLO 10
 
 Gli Stati ACP accordano l'esenzione da qualsiasi imposta o prelievo fiscale, nazionale o locale, sugli interessi, sulle commissioni e sugli ammortamenti dovuti per i contributi consentiti dalla Comunita' in forma di prestiti speciali, prestiti subordinati o condizionali con capitali di rischio o prestiti sulle risorse proprie della Banca europea per gli investimenti, secondo le condizioni di cui agli articoli 197 e 199 della convenzione.
 
-###### ARTICOLO 11
+##### ARTICOLO 11
 
 Qualsiasi materia non contemplata dal presente protocollo resta soggetta alla legislazione nazionale degli Stati parti alla convenzione.
 
-###### ARTICOLO 12
+##### ARTICOLO 12
 
 Le disposizioni del presente protocollo sono applicabili all'esecuzione di tutti i contratti d'appalto finanziati dalla Comunita', stipulati dopo l'entrata in vigore della convenzione.
 
-###### Protocollo N. 7
+##### Protocollo N. 7
 
 PROTOCOLLO N° 7
 
@@ -5422,19 +5404,19 @@ che riprende il testo del protocollo n° 3 sullo zucchero ACP allegato alla conv
 
 PROTOCOLLO N° 3 relativo allo zucchero ACP
 
-###### ARTICOLO 1
+##### ARTICOLO 1
 
 1\. La Comunita' si impegna senza limiti di tempo ad acquistare e ad importare a prezzi garantiti determinati quantitativi di zucchero di canna, greggio o bianco, originario degli Stati ACP, i quali a loro volta si impegnano a fornire tali quantitativi.
 
 2\. La clausola di salvaguardia di cui all'articolo 10 della convenzione non e' applicabile. L'applicazione del presente protocollo e' assicurata nel quadro della gestione dell'organizzazione comune del mercato dello zucchero, senza tuttavia che cio' possa pregiudicare l'impegno assunto dalla Comunita' ai sensi del paragrafo 1.
 
-###### ARTICOLO 2
+##### ARTICOLO 2
 
 1\. Fatto salvo l'articolo 7, eventuali modifiche del presente protocollo possono entrare in vigore soltanto dopo cinque anni dalla data d'entrata in vigore della convenzione. Trascorso tale periodo, le modifiche eventualmente adottate di comune accordo entrano in vigore a una data da convenire.
 
 2\. Le condizioni d'applicazione della garanzia di cui all'articolo 1 sono riesaminate prima della fine del settimo anno della loro applicazione.
 
-###### ARTICOLO 3
+##### ARTICOLO 3
 
 1\. I quantitativi di zucchero di canna di cui all'articolo 1, espressi in tonnellate di zucchero bianco, in appresso denominati "quantitativi convenuti", che devono essere consegnati in ciascuno dei periodi annui previsti dall'articolo 4, paragrafo 1, sono i seguenti:
 
@@ -5484,7 +5466,7 @@ Swaziland 19.700
 
 Trinidad e Tobago 54.200.
 
-###### ARTICOLO 4
+##### ARTICOLO 4
 
 1\. Gli Stati ACP esportatori di zucchero si impegnano a consegnare, in ogni periodo di dodici mesi compreso fra il 1 luglio e il 30 giugno dell'anno successivo, denominato in appresso "periodo di consegna", i quantitativi di cui all'articolo 3, paragrafo 1, salvo modifiche derivanti dall'applicazione dell'articolo 7. Un impegno analogo vale anche per i quantitativi di cui all'articolo 3, paragrafo 3, da fornire nel periodo che si conclude il 30 giugno 1975 e che deve essere parimenti considerato come un "periodo di consegna".
 
@@ -5494,7 +5476,7 @@ Trinidad e Tobago 54.200.
 
 Identiche disposizioni possono essere adottate per periodi di consegna successivi.
 
-###### ARTICOLO 5
+##### ARTICOLO 5
 
 1\. Lo zucchero di canna, bianco o greggio, e' commercializzato sul mercato della Comunita' a prezzi liberamente negoziati tra acquirenti e venditori.
 
@@ -5504,11 +5486,11 @@ Identiche disposizioni possono essere adottate per periodi di consegna successiv
 
 4\. Il prezzo garantito, espresso in unita' di conto, e' fissato per zucchero della qualita' tipo, non confezionato, fornitoci nei porti europei della Comunita'. Lo si negozia ogni anno, all'interno della gamma dei prezzi praticati nella Comunita', tenendo conto di tutti i fattori economici di rilievo, e lo si fissa al piu' tardi il 1 maggio che immediatamente precede il periodo di consegna in cui esso va applicato.
 
-###### ARTICOLO 6
+##### ARTICOLO 6
 
 L'acquisto al prezzo garantito di cui all'articolo 5, paragrafo 3, e' assicurato o da organismi d'intervento o da altri mandatari designati dalla Comunita'.
 
-###### ARTICOLO 7
+##### ARTICOLO 7
 
 1\. Se, per cause di forza maggiore, uno Stato ACP esportatore di zucchero non consegna l'intero quantitativo convenuto nel periodo dovuto, la Commissione accorda, a richiesta dello Stato interessato, il lasso di tempo supplementare necessario alla consegna.
 
@@ -5518,7 +5500,7 @@ L'acquisto al prezzo garantito di cui all'articolo 5, paragrafo 3, e' assicurato
 
 4\. La Commissione puo' decidere che, nei periodi di consegna successivi, la quantita' mancante venga ridistribuita fra gli altri Stati di cui all'articolo 3. Per questa ridistribuzione si consultano gli Stati interessati.
 
-###### ARTICOLO 8
+##### ARTICOLO 8
 
 1\. A richiesta della Comunita' o di uno o piu' Stati fornitori di zucchero ai sensi del presente protocollo si tengono consultazioni in merito alle misure necessarie all'applicazione del medesimo, in un'opportuna sede istituzionale scelta dalle parti contraenti. A tal fine, durante il periodo di applicazione della convenzione si puo' ricorrere alle istituzioni create dalla medesima.
 
@@ -5526,15 +5508,15 @@ L'acquisto al prezzo garantito di cui all'articolo 5, paragrafo 3, e' assicurato
 
 3\. Le revisioni periodiche previste dal presente protocollo hanno luogo nella sede istituzionale convenuta.
 
-###### ARTICOLO 9
+##### ARTICOLO 9
 
 I particolari tipi di zucchero tradizionalmente forniti agli Stati membri da taluni Stati ACP esportatori sono compresi nei quantitativi di cui all'articolo 3 e soggetti allo stesso regime.
 
-###### ARTICOLO 10
+##### ARTICOLO 10
 
 Le disposizioni del presente protocollo restano in vigore anche oltre la data indicata all'articolo 91 della convenzione. Dopo tale data, il presente protocollo puo' essere denunciato dalla Comunita' nei confronti di qualsiasi Stato ACP e da qualsiasi Stato ACP nei confronti della Comunita' con preavviso di due anni.
 
-###### Allegato
+##### Allegato
 
 Allegato
 
@@ -5598,31 +5580,31 @@ PROTOCOLLO N. 8
 
 relativo ai prodotti di competenza della Comunita' europea del carbone e dell'acciaio
 
-###### ARTICOLO 1
+##### ARTICOLO 1
 
 Quando sono originari degli Stati ACP, i prodotti di competenza della Comunita' europea del carbone e dell'acciaio sono ammessi all'importazione nella Comunita' in esenzione da dazi doganali e tasse di effetto equivalente.
 
-###### ARTICOLO 2
+##### ARTICOLO 2
 
 I prodotti di cui all'articolo 1 originari degli Stati membri sono ammessi all'importazione negli Stati ACP conformemente alle disposizioni della terza parte, titolo I, capitolo 1 della convenzione.
 
-###### ARTICOLO 3
+##### ARTICOLO 3
 
 Se le offerte fatte dalle imprese degli Stati ACP possono recare pregiudizio al funzionamento del mercato comune e se tale pregiudizio e imputabile ad una differenza nelle condizioni di concorrenza in materia di prezzi, la Comunita' puo' prendere i provvedimenti del caso e in particolare revocare le concessioni previste all'articolo 1.
 
-###### ARTICOLO 4
+##### ARTICOLO 4
 
 Hanno luogo consultazioni tra le parti interessate ogniqualvolta, a parere di una di dette parti, l'applicazione degli articoli 1, 2 e 3 lo richieda.
 
-###### ARTICOLO 5
+##### ARTICOLO 5
 
 Le disposizioni in cui si stabiliscono le norme di origine per l'applicazione della convenzione si applicano anche al presente protocollo.
 
-###### ARTICOLO 6
+##### ARTICOLO 6
 
 Il presente protocollo non modifica i poteri e le competenze derivanti dalle disposizioni del trattato che istituisce la Comunita' europea del carbone e dell'acciaio.
 
-###### Atto finale
+##### Atto finale
 
 ATTO FINALE
 
@@ -6076,7 +6058,7 @@ loro firme in calce al presente Atto finale.
 
 Fatto a Lome', l'otto dicembre millenovecentoottantaquattro.
 
-###### Allegato I
+##### Allegato I
 
 ALLEGATO I
 
@@ -6094,7 +6076,7 @@ contribuire all'eliminazione degli ostacoli che impediscono il godimento pieno e
 
 il loro impegno esistente in diritto internazionale per combattere, al fine di eliminare, tutte le forme di discriminazione basata sull'etnia, l'origine, la razza, la nazionalita', il colore, il sesso, la lingua, la religione o qualsiasi altra situazione. Le parti contraenti proclamano la propria determinazione di fare tutto il possibile per estirpare l'apartheid che costituisce una violazione dei diritti dell'uomo ed un affronto alla dignita' umana.
 
-###### Allegato II
+##### Allegato II
 
 ALLEGATO II
 
@@ -6108,7 +6090,7 @@ rapido insediamento di un Centro tecnico per la cooperazione agricola e rurale e
 
 problema del collocamento del Centro in uno Stato ACP, in base all'esperienza acquisita a Wageningen ed in funzione dell'infrastruttura e delle condizioni di lavoro necessarie per garantire l'efficacia ottimale del Centro stesso nell'esecuzione dei compiti affidatigli. I risultati di tali esami saranno presentati in ogni caso prima della scadenza della convenzione ai fini di una decisione circa l'insediamento definitivo del Centro.
 
-###### Allegato III
+##### Allegato III
 
 ALLEGATO III
 
@@ -6126,7 +6108,7 @@ Il Comitato degli Ambasciatori e' incaricato di istituire un gruppo
 
 di esperti che dovra' effettuare uno studio particolareggiato dell'accesso degli Stati ACP ai prodotti agricoli disponibili alla luce dell'offerta della Comunita'. Esso deve presentare una relazione al Consiglio dei Ministri il piu' presto possibile e al piu' tardi dopo un anno.
 
-###### Allegato IV
+##### Allegato IV
 
 ALLEGATO IV
 
@@ -6136,7 +6118,7 @@ Le parti contraenti, tenendo conto dell'importanza che
 
 rappresentano per i produttori degli Stati ACP condizioni di produzione stabili e prezzi rimuneratori - in vista dell'attuazione effettiva di politiche e strategie definite da detti Stati e appoggiate dalla Comunita' nel settore dei prodotti agricoli di base - convengono inoltre di proseguire le loro riflessioni, nel quadro della cooperazione ACP-CEE, sulle vie e mezzi piu' idonei a tener conto di tale preoccupazione.
 
-###### Allegato V
+##### Allegato V
 
 ALLEGATO V
 
@@ -6146,7 +6128,7 @@ Le parti contraenti convengono che il Segretariato ACP ed il
 
 Segretariato generale del Consiglio delle Comunita' europee assistano alle riunioni del Consiglio di amministrazione.
 
-###### Allegato VI
+##### Allegato VI
 
 ALLEGATO VI
 
@@ -6156,7 +6138,7 @@ Data l'importanza della convenzione delle Nazioni Unite relativa al
 
 codice di comportamento per le conferenze marittime, nonche' l'auspicabilita' della sua rapida entrata in applicazione le parti contraenti invitano gli Stati membri della Comunita' e gli Stati ACP che hanno un interesse nel settore dei traffici marittimi e che non hanno ancora aderito al codice ne' lo hanno ratificato, a farlo nei tempi piu' brevi dopo la firma della convenzione. In proposito le parti contraenti riconoscono che gli Stati membri della Comunita', laddove ratifichino il codice di comportamento o aderiscano allo stesso, lo faranno conformemente al regolamento (CEE) n° 954/79 concernente la ratifica da parte degli Stati membri della convenzione delle Nazioni Unite relativa al codice di comportamento per le conferenze marittime o l'adesione di tali Stati alla convenzione.
 
-###### Allegato VII
+##### Allegato VII
 
 ALLEGATO VII
 
@@ -6178,7 +6160,7 @@ I problemi relativi alla cooperazione in questi diversi settori
 
 saranno sottoposti al Consiglio dei Ministri, affinche' sia normalmente informato dei progressi compiuti.
 
-###### Allegato VIII
+##### Allegato VIII
 
 ALLEGATO VIII
 
@@ -6192,7 +6174,7 @@ Il Consiglio dei Ministri esaminera', caso per caso, le richieste
 
 presentate a tal fine.
 
-###### Allegato XI
+##### Allegato XI
 
 ALLEGATO IX
 
@@ -6236,7 +6218,7 @@ III. DISPOSIZIONE COMUNE AI LAVORATORI E AGLI STUDENTI
 
 e il Gruppo degli Stati ACP possono, se necessario e ciascuno per quanto lo concerne, informare il Consiglio dei Ministri in merito ai problemi relativi ai lavoratori o studenti stranieri nei settori contemplati dalle relative dichiarazioni.
 
-###### Allegato X
+##### Allegato X
 
 ALLEGATO X
 
@@ -6266,7 +6248,7 @@ derivanti dagli accordi bilaterali che vincolano gli Stati ACP e gli Stati membr
 
 problemi derivanti dalla stessa siano risolti in maniera soddisfacente e, se necessario, mediante negoziati bilaterali volti alla conclusione di accordi appropriati.
 
-###### Allegato XI
+##### Allegato XI
 
 ALLEGATO XI
 
@@ -6300,7 +6282,7 @@ locale,
 
 \- e che possa adattarsi alle condizioni socioeconomiche.
 
-###### Allegato XII
+##### Allegato XII
 
 ALLEGATO XII
 
@@ -6308,7 +6290,7 @@ Dichiarazione comune sulla presentazione della convenzione al GATT
 
 Le parti contraenti si consulteranno in occasione della presentazione e dell'esame nell'ambito del GATT delle disposizioni commerciali della convenzione.
 
-###### Allegato XIII
+##### Allegato XIII
 
 ALLEGATO XIII
 
@@ -6326,7 +6308,7 @@ Regime d'importazione applicabile ai prodotti agricoli e alimentari originari de
 
 Parte di provvedimento in formato grafico
 
-###### Allegato XIV
+##### Allegato XIV
 
 ALLEGATO XIV
 
@@ -6348,7 +6330,7 @@ Le procedure di informazione e di consultazione si applicheranno
 
 tra le parti interessate conformemente alle disposizioni dell'articolo 143.
 
-###### Allegato XV
+##### Allegato XV
 
 ALLEGATO XV
 
@@ -6360,7 +6342,7 @@ ACP all'importazione di prodotti originari della Comunita', si applicheranno, mu
 
 In tutti gli altri casi in cui il regime applicato all'importazione dagli Stati ACP richiede la certificazione dell'origine, tali Stati accettano i certificati d'origine conformi alle disposizioni delle convenzioni internazionali in materia.
 
-###### Allegato XVI
+##### Allegato XVI
 
 ALLEGATO XVI
 
@@ -6370,7 +6352,7 @@ Le parti contraenti riconoscono che i prodotti che sono oggetto
 
 della politica agricola comune sono sottoposti a regimi e regolamentazioni speciali, soprattutto per quanto riguarda le misure di salvaguardia. Le disposizioni della convenzione relative alla clausola di salvaguardia si applicano a questi prodotti soltanto se sono compatibili con il carattere specifico di detti regimi e regolamentazioni.
 
-###### Allegato XVII
+##### Allegato XVII
 
 ALLEGATO XVII
 
@@ -6436,7 +6418,7 @@ mare e insulari formeranno comunque oggetto di un'attenzione particolare, come p
 
 delle disposizioni della convenzione di Lome' e della presente dichiarazione saranno, tenendo conto degli interessi reciproci dei partner, tali da favorire il conseguimento degli obiettivi della convenzione nel campo della cooperazione commerciale.
 
-###### Allegato XVIII
+##### Allegato XVIII
 
 ALLEGATO XVIII
 
@@ -6452,7 +6434,7 @@ relativo alle condizioni d'adesione e agli adattamenti dei trattati, la Comunita
 
 \- i tre governi si impegnano ad assicurare, grazie alle disposizioni del loro sistema doganale e in particolare con l'applicazione delle norme d'origine stabilite dalla convenzione, che la partecipazione dell'altro paese all'unione doganale cui aderiscono non produrra' alcuna deviazione di traffico a danno della Comunita'.
 
-###### Allegato XIX
+##### Allegato XIX
 
 ALLEGATO XIX
 
@@ -6462,7 +6444,7 @@ Le parti contraenti decidono di concertarsi nel contesto della
 
 convenzione per evitare eventuali doppie compensazioni qualora, durante il periodo di applicazione della convenzione, fosse istituito un sistema mondiale di stabilizzazione dei proventi da esportazione.
 
-###### Allegato XX
+##### Allegato XX
 
 ALLEGATO XX
 
@@ -6472,7 +6454,7 @@ Le parti contraenti convengono di mantenere il beneficio delle
 
 decisioni prese in applicazione dell'articolo 27 della seconda convenzione ACP-CEE in favore delle noci e dell'olio di cocco per le esportazioni provenienti dalla Dominica e del niebe' (vigna unguiculata) per le esportazioni provenienti dal Niger.
 
-###### Allegato XXI
+##### Allegato XXI
 
 ALLEGATO XXI
 
@@ -6484,7 +6466,7 @@ decisioni prese in applicazione dell'articolo 46, paragrafo 3 della seconda conv
 
 Burundi, Capo Verde, Comore, Etiopia, Guinea Bissau, Lesotho, Ruanda, Samoa Occidentali, Seychelles, Isole Salomone, Swaziland, Tonga e Tuvalu'.
 
-###### Allegato XXII
+##### Allegato XXII
 
 ALLEGATO XXII
 
@@ -6498,7 +6480,7 @@ Nei suoi lavori, il gruppo rivolge particolare attenzione anche a misure che con
 
 Tale gruppo presentera' le sue conclusioni entro un mese.
 
-###### Allegato XXIII
+##### Allegato XXIII
 
 ALLEGATO XXIII
 
@@ -6524,7 +6506,7 @@ interventi del sistema di finanziamento speciale con gli altri mezzi della conve
 
 all'esperienza acquisita, accetta di valutare le procedure amministrative concernenti il funzionamento del sistema e di esaminare le misure necessarie per aumentarne l'efficacia.
 
-###### Allegato XXIV
+##### Allegato XXIV
 
 ALLEGATO XXIV
 
@@ -6534,7 +6516,7 @@ Le parti contraenti convengono che la decisione di attribuzione dei
 
 fondi disponibili ai sensi dell'articolo 178 a progetti o programmi, terra' debitamente conto degli interessi economici e delle conseguenze sociali nello Stato ACP interessato e nella Comunita', fatte salve le disposizioni dell'articolo 179.
 
-###### Allegato XXV
+##### Allegato XXV
 
 ALLEGATO XXV
 
@@ -6548,7 +6530,7 @@ della complessita' della situazione dei profughi e rimpatriati negli Stati ACP, 
 
 a disposizione degli Stati ACP interessati, conformemente alle disposizioni degli articoli 203, 204 e 205 della convenzione, risorse che completino quelle gia' fornite a titolo dei programmi indicativi nell'ambito dell'aiuto d'urgenza inteso a fornire nella misura del possibile un aiuto immediato alle popolazioni colpite e nell'ambito di misure a piu' lungo termine.
 
-###### Allegato XXVI
+##### Allegato XXVI
 
 ALLEGATO XXVI
 
@@ -6578,7 +6560,7 @@ avere per oggetto ne' per effetto di pregiudicare la sovranita' di uno Stato par
 
 accordi negoziati, le disposizioni relative alla composizione delle controversie e la data degli investimenti in questione sara' stabilita nei suddetti accordi, tenendo conto delle disposizioni dei paragrafi precedenti. Le parti contraenti confermano che la retroattivita' non si applica come principio generale, a meno che taluni Stati contraenti decidano diversamente.
 
-###### Allegato XXVII
+##### Allegato XXVII
 
 ALLEGATO XXVII
 
@@ -6592,7 +6574,7 @@ sviluppati, privi di sbocco sul mare ed insulari, che in generale sono particola
 
 provvedimenti da applicare in caso di calamita', come la costituzione di riserve alimentari adeguate e rinnovabili, di piantine e di semi, di forniture mediche e di materiale da costruzione per il ripristino e la ricostruzione, nonche' ad un appoggio all'attuazione di sistemi di assistenza rapidi ed efficaci.
 
-###### Allegato XXVIII
+##### Allegato XXVIII
 
 ALLEGATO XXVIII
 
@@ -6602,7 +6584,7 @@ La Comunita' e gli Stati ACP sono disposti a consentire ai paesi e
 
 territori di cui alla parte quarta del trattato, divenuti indipendenti, di accedere alla convenzione se essi desiderano che le loro relazioni con la Comunita' proseguano in questa forma.
 
-###### Allegato XXIX
+##### Allegato XXIX
 
 ALLEGATO XXIX
 
@@ -6628,7 +6610,7 @@ Inoltre, le parti contraenti sono d'accordo per redigere un manuale
 
 di divulgazione delle norme d'origine destinato ai servizi utilizzatori ed agli esportatori; esse si propongono di integrare con seminari d'informazione la diffusione di questo manuale.
 
-###### Allegato XXX
+##### Allegato XXX
 
 ALLEGATO XXX
 
@@ -6658,7 +6640,7 @@ Le deroghe concesse nell'ambito della presente dichiarazione non
 
 pregiudicano il diritto degli Stati ACP di chiedere e ottenere deroghe ai sensi dell'articolo 30 del protocollo n° 1.
 
-###### Allegato XXXI
+##### Allegato XXXI
 
 ALLEGATO XXXI
 
@@ -6700,7 +6682,7 @@ al regolamento interno dell'Assemblea paritetica.
 
 (eccettuata la prima quota) e' subordinato alla presentazione da parte dell'organo incaricato di assicurare il segretariato dell'Assemblea paritetica per la parte ACP di una giustificazione particolareggiata dell'utilizzazione delle quote versate in precedenza, conformemente alle condizioni di cui ai paragrafi 1 e 2.
 
-###### Allegato XXXII
+##### Allegato XXXII
 
 ALLEGATO XXXII
 
@@ -6710,7 +6692,7 @@ Gli Stati membri si impegnano ad assicurare che il loro regime di
 
 licenze non sia applicato dalle autorita' nazionali in modo da ostacolare l'importazione dei quantitativi di rum precisati all'articolo 2, lettera a).
 
-###### Allegato XXXIII
+##### Allegato XXXIII
 
 ALLEGATO XXXIII
 
@@ -6720,7 +6702,7 @@ Nei casi in cui appaiano sul mercato comunitario del rum modifiche
 
 maggiori, diverse da una diminuzione naturale del consumo del rum, in seguito all'allargamento della Comunita', questa si impegna a consultare gli esportatori tradizionali di rum, tenendo conto della nuova situazione creatasi, al fine di salvaguardare gli interessi dei fornitori tradizionali.
 
-###### Allegato XXXIV
+##### Allegato XXXIV
 
 ALLEGATO XXXIV
 
@@ -6730,7 +6712,7 @@ Qualora la Comunita' creasse un'organizzazione comune dei mercati
 
 dell'alcole, essa si impegna a procedere a consultazioni con gli esportatori tradizionali di rum al fine di salvaguardare i loro interessi, tenuto conto dell'evoluzione delle condizioni del mercato.
 
-###### Allegato XXXV
+##### Allegato XXXV
 
 ALLEGATO XXXV
 
@@ -6748,7 +6730,7 @@ b) l'accordo della Comunita' non pregiudichi la legislazione
 
 degli Stati membri in materia di pubblicita' per l'alcole.
 
-###### Allegato XXXVI
+##### Allegato XXXVI
 
 ALLEGATO XXXVI
 
@@ -6764,7 +6746,7 @@ La dichiarazione summenzionata non pregiudica le disposizioni
 
 dell'articolo 1 della convenzione in merito alla definizione dell'espressione "parti contraenti".
 
-###### Allegato XXXVII
+##### Allegato XXXVII
 
 ALLEGATO XXXVII
 
@@ -6782,7 +6764,7 @@ Gli Stati ACP accettano l'offerta della Comunita' e le rendono atto
 
 della dichiarazione summenzionata.
 
-###### Allegato XXXVIII
+##### Allegato XXXVIII
 
 ALLEGATO XXXVIII
 
@@ -6796,7 +6778,7 @@ La Comunita' si dichiara disposta a studiare congiuntamente azioni
 
 specifiche adatte a salvaguardare gli interessi degli Stati ACP ogni qualvolta questi ultimi le segnalino casi specifici.
 
-###### Allegato XXXIX
+##### Allegato XXXIX
 
 ALLEGATO XXXIX
 
@@ -6806,7 +6788,7 @@ Per quanto riguarda il pagamento delle spese di viaggio del
 
 personale e di trasporto degli oggetti e delle merci da esporre in occasione della partecipazione a fiere ed esposizioni, la Comunita' ha accettato che, per gli Stati ACP meno sviluppati, queste spese siano direttamente pagate dal delegato della Commissione nel paese in questione, al momento del viaggio o della spedizione.
 
-###### Allegato XL
+##### Allegato XL
 
 ALLEGATO XL
 
@@ -6818,7 +6800,7 @@ Nell'accettare che venga ripreso all'articolo 136, paragrafo 2,
 
 lettera a) il testo dell'articolo 9, paragrafo 2, lettera a) della seconda convenzione ACP-CEE di Lome', la Comunita' mantiene l'interpretazione che era stata data a questo testo secondo cui gli Stati ACP accordano alla Comunita' un trattamento non meno favorevole di quello che essi riservano a taluni Stati sviluppati nel quadro di accordi commerciali, sempre che questi Stati non accordino agli Stati ACP preferenze piu' ampie di quelle loro accordate dalla Comunita'.
 
-###### Allegato XLI
+##### Allegato XLI
 
 ALLEGATO XLI
 
@@ -6828,7 +6810,7 @@ Qualora la Comunita' adottasse le misure strettamente
 
 indispensabili cui si fa riferimento in questo articolo, essa avrebbe cura di ricercare quelle che, per la loro portata geografica e/o i tipi di prodotti interessati, recano il minor danno alle esportazioni degli Stati ACP.
 
-###### Allegato XLII
+##### Allegato XLII
 
 ALLEGATO XLII
 
@@ -6842,7 +6824,7 @@ La Comunita' si dichiara pronta ad esaminare questa richiesta
 
 nell'ambito delle disposizioni previste all'articolo 150, paragrafo 2, non appena le sara' comunicato un fascicolo giustificativo sostanziale.
 
-###### Allegato XLIII
+##### Allegato XLIII
 
 ALLEGATO XLIII
 
@@ -6856,7 +6838,7 @@ In base alla relazione che la Commissione trasmettera' al Consiglio
 
 dei Ministri, la Comunita' si impegna a far conoscere in questa sede la sua posizione entro un periodo di sei mesi dalla firma della convenzione.
 
-###### Allegato XLIV
+##### Allegato XLIV
 
 ALLEGATO XLIV
 
@@ -6866,7 +6848,7 @@ Gli importi di cui all'articolo 194 intesi a coprire il complesso
 
 dei mezzi finanziari messi a disposizione degli Stati ACP dalla Comunita' sono espressi in ECU, l'ECU e' definito nel regolamento (CEE) n° 3180/78 del Consiglio, del 18 dicembre 1978, modificato dal regolamento (CEE) n° 2626/84 del Consiglio del 15 settembre 1984, o, eventualmente, in un regolamento successivo del Consiglio che definisca la composizione dell'ECU.
 
-###### Allegato XLV
+##### Allegato XLV
 
 ALLEGATO XLV
 
@@ -6876,7 +6858,7 @@ La Comunita' conferma la dichiarazione fatta durante i negoziati
 
 della convenzione ACP-CEE di Lome', firmata il 28 febbraio 1975, in cui ritiene che la soppressione della parte di frase "nell'osservanza dell'articolo 249'', di cui la Comunita' aveva chiesto l'inserimento alla fine dell'articolo 248 durante i negoziati, non pregiudica la relazione giuridica esistente fra gli articoli 248 e 249.
 
-###### Allegato XLVI
+##### Allegato XLVI
 
 ALLEGATO XLVI
 
@@ -6886,7 +6868,7 @@ Quando nella convenzione si parla di cittadini degli Stati membri,
 
 questo significa, per la Repubblica federale di Germania, "tedeschi ai sensi della legge fondamentale della Repubblica federale di Germania".
 
-###### Allegato XLVII
+##### Allegato XLVII
 
 ALLEGATO XLVII
 
@@ -6896,7 +6878,7 @@ La convenzione si applica ugualmente al Land di Berlino, salvo che
 
 il Governo della Repubblica federale di Germania non faccia alle altre parti contraenti, entro tre mesi dall'entrata in vigore della convenzione, una dichiarazione contraria.
 
-###### Allegato XLVIII
+##### Allegato XLVIII
 
 ALLEGATO XLVIII
 
@@ -6910,7 +6892,7 @@ Essa avviera' procedure che le consentano di attuare al piu' presto
 
 dette misure d'applicazione, soprattutto per poter far fronte a situazioni che assumano carattere d'urgenza e nel quadro dell'applicazione dell'articolo 31 del protocollo.
 
-###### Allegato XLIX
+##### Allegato XLIX
 
 ALLEGATO XLIX
 
@@ -6920,7 +6902,7 @@ Ricordando che i principi riconosciuti del diritto internazionale
 
 in materia limitano l'estensione massima delle acque territoriali a 12 miglia marine, la Comunita' dichiara che applichera' le disposizioni del protocollo tenendo conto di questo limite ogniqualvolta il protocollo faccia riferimento a questo concetto.
 
-###### Allegato L
+##### Allegato L
 
 ALLEGATO L
 
@@ -6930,7 +6912,7 @@ Dopo aver preso atto della domanda degli Stati ACP relativa ad un
 
 contributo finanziario per le spese di funzionamento del loro segretariato, la Comunita', tenendo conto degli impegni assunti in materia in occasione della seconda sessione del Consiglio dei Ministri ACP-CEE a Figi, si dichiara disposta ad esaminare con speciale attenzione le domande specifiche che le saranno presentate a tempo debito affinche' il segretariato possa disporre del personale che risultasse necessario.
 
-###### Allegato LI
+##### Allegato LI
 
 ALLEGATO LI
 
@@ -6940,7 +6922,7 @@ La Comunita', consapevole del fatto che le spese per il servizio di
 
 interpretazione durante le sedute e per la traduzione dei documenti sono spese sostenute essenzialmente per soddisfare le sue esigenze, e' disposta a continuare la prassi seguita in passato e ad assumersi l'onere di tali spese, sia per le riunioni delle istituzioni della convenzione che si svolgeranno nel territorio di uno Stato membro, sia per quelle che avranno luogo nel territorio di uno Stato ACP.
 
-###### Allegato LII
+##### Allegato LII
 
 ALLEGATO LII
 
@@ -6978,7 +6960,7 @@ Segretariato degli Stati ACP, del CDI e del CTA in modo da facilitarne la prima 
 
 interessano il Segretariato degli Stati ACP, il CDI e il CTA ed il loro personale.
 
-###### Allegato LIII
+##### Allegato LIII
 
 ALLEGATO LIII
 
@@ -6998,7 +6980,7 @@ b) uno o piu' Stati ACP intendano esportare nella Comunita' uno o
 
 piu' prodotti specifici per i quali Stati terzi terzi preferenziali usufruiscano di un regime piu' favorevole.
 
-###### Allegato LIV
+##### Allegato LIV
 
 ALLEGATO LIV
 
@@ -7038,7 +7020,7 @@ previa consultazione della Commissione,
 
 HANNO CONVENUTO LE DISPOSIZIONI CHE SEGUONO:
 
-###### Articolo 1
+##### Articolo 1
 
 1\. La posizione comune che i rappresentanti della Comunita' devono
 
@@ -7052,7 +7034,7 @@ Consiglio dei Ministri ACP-CEE intende delegare al Comitato degli ambasciatori p
 
 prendono in seno al Comitato degli ambasciatori e' adottata alle condizioni fissate nel paragrafo 1.
 
-###### Articolo 2
+##### Articolo 2
 
 1\. Le decisioni e le raccomandazioni adottate dal Consiglio dei
 
@@ -7062,7 +7044,7 @@ Ministri ACP-CEE nei settori di competenza degli Stati membri sono oggetto, ai f
 
 raccomandazioni prese dal Comitato degli ambasciatori in applicazione dell'articolo 272 della convenzione.
 
-###### Articolo 3
+##### Articolo 3
 
 Qualsiasi trattato, convenzione, accordo od intesa e qualsiasi
 
@@ -7072,7 +7054,7 @@ A richiesta di uno Stato membro o della Commissione, il testo cosi'
 
 comunicato e' oggetto di un dibattito in seno al Consiglio.
 
-###### Articolo 4
+##### Articolo 4
 
 1\. Qualsiasi Stato membro che abbia concluso con qualsiasi Stato
 
@@ -7086,7 +7068,7 @@ ACP un trattato, una convenzione, un accordo o intesa, oppure una parte di tratt
 
 opinioni possono avvenire in seno al Consiglio in base alle comunicazioni previste ai paragrafi 1 e 2. Lo Stato membro che ha avviato un negoziato oggetto di siffatti scambi di opinioni comunica, tramite il Segretariato generale del Consiglio, agli altri Stati membri ed alla Commissione gli elementi complementari utili per la loro informazione. Al termine del negoziato, esso comunica alle stesse condizioni il testo siglato dell'accordo risultante dal negoziato.
 
-###### Articolo 5
+##### Articolo 5
 
 Lo Stato membro che ritenga necessario ricorrere all'articolo 278
 
@@ -7096,19 +7078,19 @@ Se il Consiglio dei Ministri ACP-CEE e' indotto a prendere
 
 posizione sull'azione dello Stato membro di cui al primo comma, la posizione sostenuta dalla Comunita' e' quella dello Stato membro interessato, a meno che i rappresentanti dei governi degli Stati membri, riuniti in seno al Consiglio, non decidano diversamente.
 
-###### Articolo 6
+##### Articolo 6
 
 Le controversie sorte tra Stati membri, relative alla convenzione,
 
 ai protocolli allegati alla convenzione, nonche' agli accordi interni firmati per l'applicazione della convenzione, sono sottoposte, a richiesta della parte piu' diligente, alla Corte di giustizia delle Comunita' europee nelle condizioni di cui al trattato ed al protocollo relativo allo statuto della Corte di giustizia allegato al trattato.
 
-###### Articolo 7
+##### Articolo 7
 
 I rappresentanti dei governi degli Stati membri riuniti in seno al
 
 Consiglio, previa consultazione della Commissione, possono, in qualsiasi momento, modificare o completare il presente accordo.
 
-###### Articolo 8
+##### Articolo 8
 
 Il presente accordo e' approvato da ogni Stato membro conformemente
 
@@ -7118,13 +7100,13 @@ Il presente accordo entra in vigore, purche' siano adempiute le
 
 condizioni di cui al primo comma, contemporaneamente alla convenzione. Esso rimane in applicazione per la stessa durata di quest'ultima.
 
-###### Articolo 9
+##### Articolo 9
 
 Il presente accordo, redatto in un unico esemplare in lingua
 
 danese, francese, greca, inglese, italiana, olandese e tedesca, i sette testi facenti tutti ugualmente fede, sara' depositato negli archivi del Segretariato generale del Consiglio che ne trasmettera' copia certificata conforme a ciascun governo degli Stati firmatari.
 
-## CAPITOLO I
+### CAPITOLO I
 
 ACCORDO INTERNO DEL 1985 RELATIVO AL FINANZIAMENTO ED ALLA GESTIONE DEGLI AIUTI DELLA COMUNITA'
 
@@ -7168,7 +7150,7 @@ previa consultazione della Commissione,
 
 HANNO CONVENUTO LE DISPOSIZIONI CHE SEGUONO:
 
-###### Articolo 1
+##### Articolo 1
 
 1\. Gli Stati membri istituiscono un Fondo europeo di sviluppo
 
@@ -7196,7 +7178,7 @@ con decisione del Consiglio, che delibera all'unanimita', in
 
 caso d'adesione di un nuovo Stato alla Comunita'.
 
-###### Articolo 2
+##### Articolo 2
 
 1\. L'importo di cui all'articolo 1, paragrafo 2, lettera a), e' cosi' suddiviso:
 
@@ -7242,7 +7224,7 @@ d'esportazione.
 
 In tal caso, il paese interessato continua a beneficiare della dotazione prevista al paragrafo 1, lettera b), ii), ma secondo le norme di gestione della terza parte, titolo II, capitolo 3 della convenzione.
 
-###### Articolo 3
+##### Articolo 3
 
 All'importo di cui all'articolo 1, paragrafo 2, lettera a), si
 
@@ -7258,7 +7240,7 @@ b) fino a 20 milioni di ECU, ad operazioni di finanziamento da
 
 realizzare nei paesi e territori.
 
-###### Articolo 4
+##### Articolo 4
 
 Per il finanziamento degli abbuoni di interessi di cui all'articolo
 
@@ -7268,13 +7250,13 @@ Il Consiglio, su proposta della Commissione elaborata d'accordo con
 
 la Banca, puo' decidere un aumento di questo massimale.
 
-###### Articolo 5
+##### Articolo 5
 
 Tutte le operazioni finanziarie a favore degli Stati ACP e dei
 
 paesi e territori in conformita' della convenzione e della decisione sono effettuate alle condizioni previste dal presente accordo e sono imputate al Fondo, ad eccezione dei prestiti concessi dalla Banca sulle sue risorse proprie.
 
-###### Articolo 6
+##### Articolo 6
 
 1\. Entro un mese dall'entrata in vigore della convenzione e, in
 
@@ -7296,7 +7278,7 @@ richiesta di una parte scaduta nel corso di un esercizio quando gli importi disp
 
 paragrafo 2, fino al loro impiego da parte della Commissione per il finanziamento dei progetti, programmi di azioni o trasferimenti approvati alle condizioni di cui agli articoli da 10 a 21 nonche' agli articoli 26 e 27, rimangono depositati, secondo le modalita' fissate dal regolamento finanziario di cui all'articolo 28, sui conti speciali aperti da ogni Stato membro presso il Tesoro nazionale o presso organismi che esso designa.
 
-###### Articolo 7
+##### Articolo 7
 
 1\. Le eventuali rimanenze del Fondo sono impiegate fino a
 
@@ -7306,7 +7288,7 @@ esaurimento secondo modalita' uguali a quelle previste dalla convenzione, dalla 
 
 presente accordo e alle condizioni previste dall'articolo 6, la parte dei loro contributi che non e' stata ancora richiesta.
 
-###### Articolo 8
+##### Articolo 8
 
 1\. Gli Stati membri si impegnano, in proporzione alla loro
 
@@ -7324,7 +7306,7 @@ convenzione, ferma restando la garanzia globale di cui ai paragrafi 1 e 2, gli S
 
 e 3, verranno stipulati contratti di garanzia tra ciascuno Stato membro e la Banca.
 
-###### Articolo 9
+##### Articolo 9
 
 1\. I pagamenti effettuati alla Banca a titolo dei prestiti speciali concessi agli Stati ACP, ai paesi e territori ed ai dipartimenti francesi d'oltremare dopo il 1 giugno 1984, nonche' i proventi ed i redditi delle operazioni di capitali di rischio effettuate dopo il 1 febbraio 1971 a favore di tali Stati, paesi, territori e dipartimenti, ritornano agli Stati membri proporzionalmente ai loro contributi al Fondo da cui tali somme provengono, a meno che il Consiglio non decida all'unanimita', su proposta della Commissione, di accantonarli o di destinarli ad altre operazioni.
 
@@ -7334,9 +7316,9 @@ delle operazioni, di cui al primo comma, vengono previamente dedotte da tali som
 
 2\. Gli importi indicati dall'articolo 2, paragrafo 1 sono aumentati delle altre eventuali entrate del Fondo; senza pregiudizio dell'articolo 153, paragrafo 2 della convenzione e su proposta della Commissione, il Consiglio delibera alla maggioranza qualificata di cui all'articolo 18, paragrafo 4 sull'assegnazione di queste altre eventuali entrate.
 
-## CAPITOLO II
+### CAPITOLO II
 
-###### Articolo 10
+##### Articolo 10
 
 1\. Fatti salvi gli articoli 19, 20 o 21 e ferme restando le
 
@@ -7346,13 +7328,13 @@ attribuzioni della Banca per la gestione di talune forme di aiuto, il Fondo e' g
 
 gli abbuoni di interessi finanziati con le risorse del Fondo sono gestiti dalla Banca, per conto della Comunita', in conformita' del suo statuto e secondo le modalita' fissate dal regolamento finanziario di cui all'articolo 28.
 
-###### Articolo 11
+##### Articolo 11
 
 La Commissione provvede all'attuazione della politica di aiuto
 
 elaborata dal Consiglio ed all'attuazione dell'orientamento generale della cooperazione finanziaria e tecnica definito dal Consiglio dei Ministri ACP-CEE in applicazione dell'articolo 193 della convenzione.
 
-###### Articolo 12
+##### Articolo 12
 
 1\. La Commissione e la Banca si informano reciprocamente e
 
@@ -7362,7 +7344,7 @@ periodicamente in merito alle domande di finanziamento loro presentate e ai cont
 
 dei progressi dell'istruzione delle domande di finanziamento. Esse scambiano tutte le informazioni di carattere generale per favorire l'armonizzazione delle procedure di gestione e la valutazione delle domande.
 
-###### Articolo 13
+##### Articolo 13
 
 1\. La Commissione istruisce i progetti e programmi di azioni che,
 
@@ -7384,7 +7366,7 @@ industriale, agro-industriale, minerario, turistico, nonche' i progetti e progra
 
 parte della Commissione o della Banca, appare che esso non puo' essere finanziato con una delle forme di aiuto gestito dalla Commissione o dalla Banca, l'istituzione in questione trasmette le domande all'altra istituzione, previa informazione dell'eventuale beneficiario.
 
-###### Articolo 14
+##### Articolo 14
 
 1\. Fatto salvo il mandato generale conferito alla Banca dalla
 
@@ -7398,7 +7380,7 @@ finanziaria delle operazioni effettuate sulle risorse del Fondo sotto forma di c
 
 effettuate mediante prestiti sulle sue risorse proprie, alle quali si applicano abbuoni di interessi sulle risorse del Fondo.
 
-###### Articolo 15
+##### Articolo 15
 
 1\. Al fine di salvaguardare la necessaria coerenza tra le azioni di
 
@@ -7416,7 +7398,7 @@ dispongono sugli altri aiuti bilaterali, regionali o multilaterali concessi o pr
 
 rappresentanti degli Stati membri e della Commissione nominalmente designati dei progetti a favore degli Stati ACP di cui prevede l'istruzione.
 
-###### Articolo 16
+##### Articolo 16
 
 1\. La programmazione prevista all'articolo 215 della convenzione e'
 
@@ -7430,7 +7412,7 @@ Tale analisi verte sui settori in cui la Comunita' e'
 
 particolarmente attiva, nonche' su quelli che possono costituire oggetto di un sostegno comunitario, tenuto conto dei rapporti d'interdipendenza tra i vari settori e in base a una valutazione approfondita degli aiuti concessi in passato dalla Comunita' e degli insegnamenti che se ne sono tratti.
 
-###### Articolo 17
+##### Articolo 17
 
 1\. Per l'applicazione dell'articolo 215 della convenzione, missioni
 
@@ -7460,7 +7442,7 @@ Al comitato di programmazione vengono anche sottoposti gli
 
 orientamenti generali previsti per l'attuazione della cooperazione regionale.
 
-###### Articolo 18
+##### Articolo 18
 
 1\. Presso la Commissione e' istituito un comitato composto di
 
@@ -7512,7 +7494,7 @@ La ponderazione di cui al paragrafo 3, nonche' la maggioranza
 
 qualificata di cui al paragrafo 4, possono essere modificate con decisione del Consiglio, che delibera all'unanimita', nel caso previsto all'articolo 1, paragrafo 2, lettera d).
 
-###### Articolo 19
+##### Articolo 19
 
 1\. Il comitato del FES da' il proprio parere in merito alle
 
@@ -7524,7 +7506,7 @@ posizione dei progetti o dei programmi di azioni nel contesto delle prospettive 
 
 Esse indicano l'utilizzazione fatta in tali paesi dei precedenti aiuti della Comunita' nello stesso settore; sono allegate, sempre che esistano, le valutazioni per progetto nel detto settore.
 
-###### Articolo 20
+##### Articolo 20
 
 1\. Qualora il comitato del FES chieda modifiche sostanziali di una
 
@@ -7550,7 +7532,7 @@ o di essere sentiti dagli organi decisionali della Comunita',
 
 alle condizioni di cui all'articolo 21, paragrafo 2.
 
-###### Articolo 21
+##### Articolo 21
 
 1\. Le proposte di finanziamento, corredate del parere del comitato
 
@@ -7572,7 +7554,7 @@ Comunita' e' adottata entro un termine massimo di quattro mesi a decorrere dalla
 
 le domande di finanziamento, accettate o non accettate dai suoi servizi, che le sono state presentate ufficialmente da uno o piu' Stati ACP.
 
-###### Articolo 22
+##### Articolo 22
 
 1\. Presso la Banca e' istituito un comitato composto di
 
@@ -7592,7 +7574,7 @@ regolamento interno del comitato dell'articolo 22.
 
 qualificata applicabili al comitato dell'articolo 22 sono quelle risultanti dall'applicazione dell'articolo 18, paragrafi 3, 4 e 5.
 
-###### Articolo 23
+##### Articolo 23
 
 1\. Il comitato dell'articolo 22 da' un parere in merito alle
 
@@ -7654,13 +7636,13 @@ Se il Consiglio si pronuncia a favore della proposta della Banca,
 
 quest'ultima avvia le procedure previste dal proprio statuto.
 
-###### Articolo 24
+##### Articolo 24
 
 Fatti salvi i necessari adeguamenti per tener conto della natura
 
 delle operazioni finanziate e delle procedure previste dallo statuto della Banca, quest'ultima informa regolarmente il comitato dell'articolo 22 di tutte le domande di finanziamento, accettate o non accettate dai suoi servizi, presentategli ufficialmente.
 
-###### Articolo 25
+##### Articolo 25
 
 1\. La Commissione e la Banca si accertano, ciascuna per quanto la
 
@@ -7686,9 +7668,9 @@ all'articolo 18, paragrafo 4, prende i provvedimenti necessari.
 
 lavori effettuati dalla Commissione e dalla Banca sulla valutazione delle realizzazioni in corso o terminate, in particolare rispetto agli obiettivi di sviluppo perseguiti.
 
-## CAPITOLO III
+### CAPITOLO III
 
-###### Articolo 26
+##### Articolo 26
 
 1\. Gli importi dei trasferimenti di cui, rispettivamente, agli
 
@@ -7698,7 +7680,7 @@ articoli 157 e 167 della convenzione ed alle disposizioni corrispondenti della d
 
 membri scelta dalla Commissione previa consultazione dello Stato ACP o delle autorita' competenti dei paesi e territori.
 
-###### Articolo 27
+##### Articolo 27
 
 1\. La Commissione elabora ogni anno, per gli Stati membri, una
 
@@ -7712,15 +7694,15 @@ trasferimenti effettuati sullo sviluppo dei settori cui sono stati assegnati.
 
 territori.
 
-## CAPITOLO IV
+### CAPITOLO IV
 
-###### Articolo 28
+##### Articolo 28
 
 Le disposizioni di applicazione del presente accordo formano
 
 oggetto di un regolamento finanziario adottato, sin dall'entrata in vigore della convenzione, dal Consiglio, che delibera alla maggioranza qualificata prevista all'articolo 18, paragrafo 4, in base ad un progetto della Commissione e previo parere della Banca per quanto riguarda le disposizioni che interessano quest'ultima, nonche' previo parere della Corte dei conti istituita all'articolo 206 del trattato.
 
-###### Articolo 29
+##### Articolo 29
 
 1\. Al termine di ciascun esercizio la Commissione adotta il conto
 
@@ -7742,7 +7724,7 @@ Banca formano oggetto delle procedure di controllo e di approvazione definite da
 
 delle informazioni ricevute periodicamente da quest'ultima, per poter valutare le condizioni in cui la Banca esplica il proprio mandato, e nell'intento di favorire uno stretto coordinamento tra la Commissione e la Banca stessa.
 
-###### Articolo 30
+##### Articolo 30
 
 1\. Le rimanenze del Fondo istituito dall'accordo interno del 1969
 
@@ -7760,7 +7742,7 @@ relativo al finanziamento ed alla gestione degli aiuti della Comunita' continuan
 
 e' compromessa la soddisfacente realizzazione dei progetti finanziati nel quadro dei Fondi di cui al paragrafo 1, la Commissione puo' presentare proposte supplementari di finanziamento alle condizioni stabilite all'articolo 19.
 
-###### Articolo 31
+##### Articolo 31
 
 1\. Il presente accordo e' approvato da ciascuno Stato membro
 
@@ -7770,13 +7752,13 @@ conformemente alle sue norme costituzionali. Il governo di ciascuno Stato membro
 
 convenzione. Tuttavia esso resta in vigore nella misura necessaria all'esecuzione integrale di tutte le operazioni finanziate a titolo della convenzione.
 
-###### Articolo 32
+##### Articolo 32
 
 Il presente accordo, redatto in un unico esemplare in lingua
 
 danese, francese, greca, inglese, italiana, olandese e tedesca, i sette testi facenti ugualmente fede, e' depositato negli archivi del Segretariato generale del Consiglio delle Comunita' europee che provvede a trasmettere copia certificata conforme a ciascuno dei governi degli Stati firmatari.
 
-###### Allegato I
+##### Allegato I
 
 ALLEGATO I
 
@@ -7800,7 +7782,7 @@ Portogallo |
 
 definitiva sara' adottata sulla base IVA 1984 (cfr. allegato II, paragrafo 3, lettera a).
 
-###### Allegato II
+##### Allegato II
 
 ALLEGATO II
 

@@ -132,7 +132,7 @@ di particolare interesse e valenza nazionale
 
 5\. Con decreto, di natura non regolamentare, del Ministro delle imprese e del made in Italy sono stabiliti i criteri e le modalita' per l'attuazione delle disposizioni del presente articolo.
 
-## Capo II - Misure settoriali
+### Capo II - Misure settoriali
 
 #### Art. 8
 
@@ -756,7 +756,7 @@ Contributo per la predisposizione del disciplinare
 
 4\. Le disposizioni del presente articolo si applicano nei limiti e alle condizioni previsti dalla normativa europea e nazionale in materia di aiuti di Stato.
 
-## Capo II - Nuove tecnologie
+### Capo II - Nuove tecnologie
 
 #### Art. 47
 
@@ -800,7 +800,7 @@ Imprese del made in Italy nel mondo virtuale e immersivo
 
 4\. Il contributo di cui al presente articolo e' concesso nei limiti e alle condizioni previsti dalla normativa europea e nazionale m materia di aiuti di Stato.
 
-## Capo III - Lotta alla contraffazione
+### Capo III - Lotta alla contraffazione
 
 #### Art. 49
 

@@ -47,11 +47,9 @@ il seguente decreto legislativo:
 
 ## Titolo I - RAPPORTI CON I CONTRIBUENTI
 
-### Capo I
+### Capo I - Disposizioni generali in materia di tributi regionali e locali
 
-#### Disposizioni generali in materia di tributi regionali e locali
-
-###### Art. 1
+##### Art. 1
 
 Potenziamento delle forme di collaborazione
 
@@ -81,7 +79,7 @@ l) tutelare la posizione dei contribuenti al fine di assicurare lo stesso tratta
 
 2\. Le regioni e gli enti locali assicurano l'applicazione dei principi generali dell'ordinamento tributario contenuti nello Statuto dei diritti del contribuente e ad essi adeguano i propri ordinamenti, nel rispetto della propria autonomia, a norma rispettivamente dell'articolo 1, commi 3, 3-bis e 3-ter della legge 27 luglio 2000, n. 212. Le regioni e gli enti locali provvedono, tra l'altro, a individuare gli atti automatizzati, sostanzialmente automatizzati, di pronta liquidazione e di controllo formale delle dichiarazioni per i quali non sussiste il diritto al contraddittorio informato ed effettivo, di cui all'articolo 6-bis, comma 2, della citata legge n. 212 del 2000.
 
-###### Art. 2
+##### Art. 2
 
 Riduzione di aliquote e tariffe delle regioni e degli enti locali in caso di versamento con addebito diretto sul conto corrente bancario o postale
 
@@ -97,7 +95,7 @@ b) al comma 1:
 
 c) dopo il comma 1 e' aggiunto il seguente: «1-bis. La disposizione di cui al comma 1 non trova applicazione per le entrate delle regioni e degli enti locali, per le quali la riscossione avviene esclusivamente mediante il sistema dei versamenti unitari di cui all'articolo 17 del decreto legislativo 9 luglio 1997, n. 241.».
 
-###### Art. 3
+##### Art. 3
 
 Adempimento spontaneo degli obblighi tributari
 
@@ -105,7 +103,7 @@ Adempimento spontaneo degli obblighi tributari
 
 2\. Il contribuente, entro sessanta giorni successivi al ricevimento delle comunicazioni di cui al comma 1, puo' inviare in forma scritta, anche telematica, chiarimenti in ordine ai dati contenuti nelle suddette comunicazioni e puo' trasmettere ricevute di versamento e altri documenti utili a consentire anche la segnalazione di eventuali dati ed elementi non considerati o valutati erroneamente dall'ente territoriale in sede di controllo.
 
-###### Art. 4
+##### Art. 4
 
 Estensione ai tributi delle regioni e degli enti locali degli istituti previsti dal «Codice della crisi di impresa e dell'insolvenza»
 
@@ -163,9 +161,9 @@ e) all'articolo 245, comma 5, secondo periodo, dopo le parole: «dell'amministra
 
 f) all'articolo 284-bis dopo il comma 4, e' aggiunto, in fine, il seguente: «4-bis. Relativamente ai tributi delle regioni e degli enti locali, le proposte di cui al comma 1 sono in ogni caso presentate ai comuni, alle province, alle citta' metropolitane e alle regioni cui il pagamento di tali tributi e' dovuto indipendentemente dal domicilio fiscale del debitore.».
 
-## Capo II - Accertamento e riscossione
+### Capo II - Accertamento e riscossione
 
-###### Art. 5
+##### Art. 5
 
 Vigilanza sui soggetti iscritti nell'Albo per l'accertamento e la riscossione delle entrate delle regioni e degli enti locali
 
@@ -199,7 +197,7 @@ b) agli obblighi di comunicazione periodica da parte dell'ente e dei soggetti af
 
 2\. All'articolo 1 della legge 27 dicembre 2019, n. 160, i commi 805 e 806 sono abrogati.
 
-###### Art. 6
+##### Art. 6
 
 Razionalizzazione delle norme per l'iscrizione nell'albo di cui all'articolo 53, comma 1, del decreto legislativo 15 dicembre 1997, n. 446
 
@@ -219,7 +217,7 @@ d) 500.000 euro per lo svolgimento delle funzioni e delle attivita' di supporto 
 
 e) 1.000.000 euro per lo svolgimento delle funzioni e delle attivita' di supporto propedeutiche all'accertamento e alla riscossione delle entrate, nelle regioni, nelle province e nelle citta' metropolitane, nonche' nei comuni con popolazione superiore a 200.000 abitanti.».
 
-###### Art. 7
+##### Art. 7
 
 Modifiche in materia di pagamento dei tributi locali
 
@@ -233,7 +231,7 @@ b) al comma 1:
 
 2\) al secondo periodo, le parole: «al comma 12 dell'articolo 13 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, e al comma 688 dell'articolo 1 della legge 27 dicembre 2013, n. 147, relative al versamento dell'imposta municipale propria (IMU) e del tributo per i servizi indivisibili (TASI)» sono sostituite dalle seguenti: «all'articolo 1, comma 765, della legge 27 dicembre 2019, n. 160, relative al versamento dell'imposta municipale propria (IMU)».
 
-###### Art. 8
+##### Art. 8
 
 Disposizioni in materia di atto
 
@@ -317,7 +315,7 @@ c) restano ferme, per i soggetti di cui alla lettera a), le modalita' di accesso
 
 17\. Si applica l'articolo 1, commi da 809 a 813, della legge 27 dicembre 2019, n. 160.
 
-###### Art. 9
+##### Art. 9
 
 Modifiche alla disciplina dell'atto di accertamento esecutivo in materia di tributi locali
 
@@ -349,7 +347,7 @@ e) alla lettera i):
 
 2\) le parole: «comma 2, lettere b), c) e d), del decreto legislativo 13 aprile 1999, n. 112» sono sostituite dalle seguenti: «comma 3, del decreto legislativo 13 aprile 1999, n. 112, e, a decorrere dal 1° gennaio 2027, all'articolo 209, comma 3, del testo unico versamenti e riscossione, di cui al decreto legislativo 24 marzo 2025, n. 33, ai fini del successivo riversamento al bilancio dello Stato, ai sensi dello stesso articolo 17, comma 4, del decreto legislativo n. 112 del 1999, e, a decorrere dal 1° gennaio 2027, del citato articolo 209, comma 4, del testo unico versamenti e riscossione di cui al decreto legislativo n. 33 del 2025».
 
-###### Art. 10
+##### Art. 10
 
 Estensione del privilegio generale sui mobili
 
@@ -357,7 +355,7 @@ del debitore ai crediti per i tributi delle regioni
 
 1\. All'articolo 13, comma 13, quarto periodo, del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, le parole: «comunali e provinciali» sono sostituite dalle seguenti: «delle regioni e degli enti locali».
 
-###### Art. 11
+##### Art. 11
 
 Incentivazione della partecipazione comunale al recupero di gettito dei tributi erariali
 
@@ -365,9 +363,9 @@ Incentivazione della partecipazione comunale al recupero di gettito dei tributi 
 
 2\. Agli oneri derivanti dal comma 1, valutati in 3,5 milioni di euro per ciascuno degli anni 2027, 2028 e 2029 si provvede mediante corrispondente riduzione del fondo di cui all'articolo 62, comma 1, del decreto legislativo 27 dicembre 2023, n. 209.
 
-## Capo III - Sanzioni
+### Capo III - Sanzioni
 
-###### Art. 12
+##### Art. 12
 
 Disposizioni sulle sanzioni amministrative
 
@@ -419,13 +417,11 @@ b) al comma 3-bis, il quarto e il quinto periodo sono sostituiti dal seguente: �
 
 ## Titolo II - I SINGOLI TRIBUTI
 
-### Capo I
+### Capo I - Tributi regionali
 
-#### Tributi regionali
+#### Sezione I - Tassa automobilistica
 
-##### Sezione I - Tassa automobilistica
-
-###### Art. 13
+##### Art. 13
 
 Tributi propri derivati dotati di maggiore autonomia impositiva
 
@@ -433,13 +429,13 @@ Tributi propri derivati dotati di maggiore autonomia impositiva
 
 2\. Le eventuali norme di esenzione dal pagamento dalle tasse automobilistiche, previste dalle leggi delle regioni e delle province autonome a decorrere dal 1° gennaio 2027, non esonerano dal pagamento dell'addizionale erariale della tassa automobilistica di cui all'articolo 23, comma 21, del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111, per la quale trovano applicazione le sole esenzioni della tassa automobilistica stabilite con legge statale.
 
-###### Art. 14
+##### Art. 14
 
 Principio di territorialita'
 
 1\. All'articolo 5, trentunesimo comma, del decreto-legge 30 dicembre 1982, n. 953, convertito, con modificazioni, dalla legge 28 febbraio 1983, n. 53, sono inseriti, in fine, i seguenti periodi: «La competenza e il gettito della tassa automobilistica sono determinati, in ogni caso, in relazione al luogo di residenza del soggetto passivo del tributo di cui al trentaduesimo comma. Per le persone giuridiche si ha riguardo alla sede legale. Nel caso in cui la sede legale e' diversa dalla sede in cui avviene la gestione ordinaria in via principale, intesa come il luogo in cui vengono compiuti in modo continuo e coordinato gli atti di gestione corrente riguardanti l'ente nel suo complesso, quest'ultima costituisce la sede da considerare ai fini della destinazione del gettito della tassa. In caso di persone giuridiche con sede legale all'estero, aventi piu' sedi secondarie in Italia, la competenza e il gettito della tassa automobilistica sono determinati in base alla sede secondaria in cui vengono compiuti gli atti di gestione ordinaria in via principale. Le comunicazioni effettuate dai soggetti passivi della tassa automobilistica alla camera di commercio territorialmente competente, riguardanti la sede della persona giuridica, costituiscono dichiarazione sostitutiva di atto notorio, ai sensi e per gli effetti dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445. I soggetti passivi gia' iscritti alla camera di commercio procedono all'aggiornamento delle comunicazioni fornite al repertorio delle notizie economiche e amministrative-REA, indicando l'indirizzo della sede individuata ai sensi del terzo periodo del comma 1, entro il termine perentorio di novanta giorni dalla data di entrata in vigore della presente disposizione. In caso di mancato adempimento dell'obbligo di cui al periodo precedente, per sede della persona giuridica si intende quella di gestione ordinaria in via principale.».
 
-###### Art. 15
+##### Art. 15
 
 Semplificazione del pagamento
 
@@ -457,7 +453,7 @@ La tassa automobilistica puo' essere corrisposta quadrimestralmente a decorrere 
 
 3\. Agli oneri derivanti dal comma 1, valutati in 1,7 milioni di euro per l'anno 2029 e 0,9 milioni di euro annui a decorrere dall'anno 2030, si provvede mediante corrispondente riduzione del fondo di cui all'articolo 62, comma 1, del decreto legislativo 27 dicembre 2023, n. 209.
 
-###### Art. 16
+##### Art. 16
 
 Adempimenti in materia di locazione di veicoli
 
@@ -477,7 +473,7 @@ b) le parole: «i veicoli in locazione a lungo termine senza conducente e» sono
 
 3\. Le disposizioni di cui ai commi 1, lettera b) e 2 si applicano ai contratti di locazione di veicoli a lungo termine senza conducente stipulati dal 1° gennaio 2027, a quelli stipulati prima di detta data che siano oggetto di proroga o rinnovo con decorrenza successiva al 31 dicembre 2026, nonche', ai contratti stipulati prima del 1° gennaio 2027, la cui esecuzione abbia inizio a partire da tale data.
 
-###### Art. 17
+##### Art. 17
 
 Interruzione dell'obbligo di pagamento in caso
 
@@ -503,7 +499,7 @@ e) il quarantottesimo comma e' sostituito dal seguente: «Per ciascun veicolo pe
 
 f) il quarantanovesimo comma e' sostituito dal seguente «Le trascrizioni al PRA di cui al quarantaquattresimo comma effettuate dopo sessanta giorni dalla data della cessione del veicolo non costituiscono titolo per beneficiare dell'interruzione dell'obbligo del pagamento della tassa automobilistica per i periodi tributari ricompresi fino alla data dell'effettiva trascrizione al PRA della cessione stessa.».
 
-###### Art. 18
+##### Art. 18
 
 Versamento a ente impositore incompetente
 
@@ -511,13 +507,13 @@ Versamento a ente impositore incompetente
 
 2\. Gli enti impositori mettono a disposizione del contribuente il modello di comunicazione, o altro strumento tecnologico, utile a trasmettere i dati relativi agli estremi del pagamento, all'importo versato e al veicolo a cui si riferisce il versamento, sia all'ente impositore effettivo destinatario delle somme versate, sia all'ente che ha riscosso erroneamente la tassa automobilistica.
 
-###### Art. 19
+##### Art. 19
 
 Il fermo amministrativo del veicolo
 
 1\. All'articolo 5, trentasettesimo comma, del decreto-legge 30 dicembre 1982, n. 953, convertito, con modificazioni, dalla legge 28 febbraio 1983, n. 53, e' aggiunto, in fine, il seguente periodo: «La tassa automobilistica e' comunque dovuta nel caso di fermo amministrativo del veicolo disposto ai sensi dell'articolo 86 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602 e, a decorrere dal 1° gennaio 2027, dall'articolo 187 del testo unico versamenti e riscossione, di cui al decreto legislativo 24 marzo 2025, n. 33, dall'agente della riscossione o dai soggetti ai quali l'ente territoriale ha affidato il servizio di riscossione del tributo.».
 
-###### Art. 20
+##### Art. 20
 
 Adeguamento delle tariffe
 
@@ -525,7 +521,7 @@ Adeguamento delle tariffe
 
 2\. Alla tabella 1 allegata al decreto-legge 3 ottobre 2006, n. 262, convertito, con modificazioni, dalla legge 24 novembre 2006, n. 286 relativa alle tariffe della tassa automobilistica per i motocicli dopo le parole: «Euro 3» sono inserite le seguenti: «e superiori».
 
-###### Art. 21
+##### Art. 21
 
 Tariffa per le autovetture adibite
 
@@ -533,7 +529,7 @@ a noleggio con conducente
 
 1\. Ai sensi dell'articolo 1, comma 2, della legge 27 luglio 2000, n. 212, per «autovetture da noleggio di rimessa» di cui all'allegato 1, tariffa C), n. 1) del testo unico delle leggi sulle tasse automobilistiche di cui al decreto del Presidente della Repubblica 5 febbraio 1953, n. 39, si intendono le «autovetture adibite a noleggio con conducente».
 
-###### Art. 22
+##### Art. 22
 
 Integrazione e coordinamento degli archivi dei dati rilevanti ai fini dell'accertamento e riscossione coattiva del tributo
 
@@ -555,9 +551,9 @@ b) al secondo periodo, sono aggiunte, in fine, le seguenti parole: «in modo da 
 
 6\. Al fine di garantire il continuo aggiornamento delle informazioni contenute nell'ANTA e allo scopo di assicurare al contempo l'interoperabilita' delle banche dati, gli enti indicati nella tabella A, dell'allegato 1 al presente decreto, previa convenzione da sottoporre all'approvazione del Garante per la protezione dei dati personali, forniscono gratuitamente, ai sensi dell'articolo 50, comma 2, del codice dell'amministrazione digitale di cui al decreto legislativo 7 marzo 2005, n. 82, agli enti impositori e al gestore del PRA, i dati di rispettiva competenza necessari per la corretta applicazione della tassa automobilistica e per contrastarne l'evasione. Le medesime informazioni sono rese disponibili gratuitamente dal gestore del PRA alle citta' metropolitane e alle province per il contrasto all'evasione dell'imposta provinciale di trascrizione di cui all'articolo 56 del decreto legislativo 15 dicembre 1997, n. 446.
 
-## Sezione II - Altri tributi regionali
+#### Sezione II - Altri tributi regionali
 
-###### Art. 23
+##### Art. 23
 
 Modifiche alla disciplina dell'imposta regionale sulle attivita' produttive e dell'addizionale regionale all'imposta sul reddito delle persone fisiche
 
@@ -579,7 +575,7 @@ b) all'articolo 6:
 
 2\. All'articolo 50, comma 3, del decreto legislativo 15 dicembre 1997, n. 446, il primo e il secondo periodo sono sostituiti dai seguenti: «L'aliquota dell'addizionale regionale di cui al comma 1 e' fissata allo 1,23 per cento. Ciascuna regione o provincia autonoma di Trento e di Bolzano con propria legge, da pubblicare nel Bollettino ufficiale della regione o della provincia autonoma di Trento e di Bolzano non oltre il 31 dicembre dell'anno precedente a quello cui l'addizionale si riferisce, puo' maggiorare la suddetta aliquota fino al limite massimo stabilito dall'articolo 6, comma 1, del decreto legislativo 6 maggio 2011, n. 68, per le regioni a statuto ordinario, e fino al limite massimo stabilito dalle norme statali, per le regioni a statuto speciale e le province autonome di Trento e di Bolzano.».
 
-###### Art. 24
+##### Art. 24
 
 Modifica del termine per l'adozione delle misure della tassa regionale per il diritto allo studio universitario, del tributo speciale per il deposito in discarica e in impianti di incenerimento senza recupero energetico dei rifiuti solidi
 
@@ -591,11 +587,9 @@ a) al comma 21, le parole: «30 giugno» sono sostituite dalle seguenti: «30 se
 
 ## Titolo III - TRIBUTI DEGLI ENTI LOCALI
 
-### Capo I
+### Capo I - Province e città metropolitane
 
-#### Province e città metropolitane
-
-###### Art. 25
+##### Art. 25
 
 Modifiche alla disciplina
 
@@ -603,9 +597,9 @@ dell'imposta provinciale di trascrizione
 
 1\. All'articolo 56, comma 1-ter, secondo periodo, del decreto legislativo 15 dicembre 1997, n. 446, le parole: «novanta giorni», sono sostituite dalle seguenti: «centottanta giorni».
 
-## Capo II - Comuni
+### Capo II - Comuni
 
-###### Art. 26
+##### Art. 26
 
 Semplificazione in materia
 
@@ -629,7 +623,7 @@ Restano ferme le dichiarazioni presentate ai fini dell'IMU e della TASI, in quan
 
 c) i commi 769 e 770 sono abrogati.
 
-###### Art. 27
+##### Art. 27
 
 Razionalizzazione della disciplina relativa
 
@@ -641,7 +635,7 @@ a) il comma 2 e' sostituito dal seguente: «2. La base imponibile e' determinata
 
 b) al comma 7, le parole: «13 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214» sono sostituite dalle seguenti: «1, comma 772, della legge 27 dicembre 2019, n. 160».
 
-###### Art. 28
+##### Art. 28
 
 Modifiche in materia di tariffa sui rifiuti
 
@@ -673,7 +667,7 @@ i) al comma 690, la parola: «IUC» e' sostituita dalla seguente:
 
 3\. L'articolo 208, comma 19-bis del decreto legislativo n. 152 del 2006, e' abrogato.
 
-###### Art. 29
+##### Art. 29
 
 Modifiche all'articolo 238 del decreto legislativo 3 aprile 2006, n. 152 in materia di tassa sui rifiuti
 
@@ -681,19 +675,19 @@ Modifiche all'articolo 238 del decreto legislativo 3 aprile 2006, n. 152 in mate
 
 «Art. 238 (Corrispettivi dovuti per il conferimento di rifiuti al servizio pubblico). - 1. Ai fini dell'applicazione della tariffa per la gestione dei rifiuti urbani e dei sistemi di misurazione puntuale, per i rifiuti conferiti al servizio pubblico, si applica la disciplina relativa ai prelievi sui rifiuti urbani di cui all'articolo 1, commi 639 e 668, della legge 27 dicembre 2013, n. 147.».
 
-###### Art. 30
+##### Art. 30
 
 Efficacia delle delibere relative al canone unico, di cui all'articolo 1, commi da 816 a 847, della legge 27 dicembre 2019, n. 160
 
 1\. A decorrere dall'anno 2026, le disposizioni di cui all'articolo 13, commi 15, 15-bis e 15-ter, del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, si applicano alle delibere di approvazione dei regolamenti e delle tariffe relative al canone patrimoniale di concessione, autorizzazione o esposizione pubblicitaria, denominato «canone unico», di cui all'articolo 1, commi da 816 a 847, della legge 27 dicembre 2019, n. 160. Le delibere regolamentari e tariffarie relative al canone unico gia' adottate per gli anni d'imposta dal 2021 al 2025 sono efficaci, in deroga al richiamato articolo 13, comma 15-ter, del decreto-legge n. 201 del 2011, per ciascun anno di riferimento, a condizione che siano inserite nel portale del federalismo fiscale entro il termine perentorio del 31 ottobre 2026, con le modalita' di cui all'articolo 13, comma 15, del decreto-legge n. 201 del 2011. Le delibere inserite ai sensi del secondo periodo sono pubblicate sul sito internet del Dipartimento delle finanze del Ministero dell'economia e delle finanze, ai fini dell'acquisizione della loro efficacia, entro il 30 novembre 2026.
 
-###### Art. 31
+##### Art. 31
 
 Altre disposizioni in materia di canone unico
 
 1\. All'articolo 1, comma 819, della legge 27 dicembre 2019, n. 160, alla lettera a), dopo le parole: «suolo pubblico», sono aggiunte le seguenti: «con esclusione dei balconi, verande, bow-windows e simili infissi di carattere stabile».
 
-###### Art. 32
+##### Art. 32
 
 Assoggettamento IMU dei fabbricati
 
@@ -703,11 +697,9 @@ con rendita impugnata
 
 ## Titolo IV - ATTUAZIONE DEL FEDERALISMO FISCALE
 
-### Capo I
+### Capo I - La compartecipazione al gettito dell'imposta sul reddito delle persone fisiche
 
-#### La compartecipazione al gettito dell'imposta sul reddito delle persone fisiche
-
-###### Art. 33
+##### Art. 33
 
 Modifiche al decreto legislativo 6 maggio 2011, n. 68 in materia di fiscalizzazione e perequazione regionale
 
@@ -805,7 +797,7 @@ f) all'articolo 39, il comma 5 e' abrogato.
 
 2\. Agli oneri derivanti dal comma 1, lettera a), pari a 50 milioni di euro annui a decorrere dall'anno 2028 si provvede mediante corrispondente riduzione del fondo di cui all'articolo 62, comma 1, del decreto legislativo 27 dicembre 2023, n. 209.
 
-###### Art. 34
+##### Art. 34
 
 Fondo in favore delle Regioni a statuto ordinario
 
@@ -813,13 +805,13 @@ Fondo in favore delle Regioni a statuto ordinario
 
 2\. Alla copertura degli oneri di cui al comma 1, pari a 80 milioni di euro per l'anno 2026, si provvede mediante corrispondente riduzione del fondo di cui all'articolo 62, comma 1, del decreto legislativo 27 dicembre 2023, n. 209.
 
-###### Art. 35
+##### Art. 35
 
 Tavolo tecnico per la fiscalizzazione dei trasferimenti di spettanza dei comuni e di compartecipazione ai tributi erariali
 
 1\. Con decreto del Ministro dell'economia e delle finanze, entro sessanta giorni dalla data di entrata in vigore del presente decreto, e' istituito, senza nuovi o maggiori oneri a carico della finanza pubblica, un tavolo tecnico presso il Ministero dell'economia e delle finanze composto da due rappresentanti del medesimo Ministero, un rappresentante del Ministero dell'interno, un rappresentante del Dipartimento per gli Affari Regionali e le Autonomie e due rappresentanti dell'Associazione nazionale dei comuni italiani (ANCI). Il tavolo ha il compito di studiare modalita' di fiscalizzazione dei trasferimenti di spettanza dei comuni e di istituzione di meccanismi di compartecipazione a tributi erariali. Ai componenti del tavolo non sono corrisposti compensi, gettoni di presenza, rimborsi di spese o altri emolumenti comunque denominati.
 
-###### Art. 36
+##### Art. 36
 
 Istituzione della compartecipazione al gettito dell'imposta sul reddito delle persone fisiche per le province e per le citta' metropolitane
 
@@ -837,23 +829,21 @@ Istituzione della compartecipazione al gettito dell'imposta sul reddito delle pe
 
 ## Titolo V - NORME FINALI
 
-### Capo I
+### Capo I - Norme finali
 
-#### Norme finali
-
-###### Art. 37
+##### Art. 37
 
 Clausola di salvaguardia
 
 1\. Le disposizioni del presente decreto legislativo sono applicabili nelle regioni a statuto speciale e nelle province autonome di Trento e di Bolzano compatibilmente con i rispettivi statuti speciali e con le relative norme di attuazione.
 
-###### Art. 38
+##### Art. 38
 
 Disposizioni finanziarie
 
 1\. Dall'attuazione del presente decreto, fatto salvo quanto previsto dagli articoli 11, 15, 33, 34 e 36, non devono derivare nuovi o maggiori oneri per la finanza pubblica. Le amministrazioni interessate provvedono ai relativi adempimenti nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-###### Art. 39
+##### Art. 39
 
 Entrata in vigore
 
@@ -885,7 +875,7 @@ Nella Gazzetta Ufficiale - Serie generale - del 4 settembre 2026, si procedera' 
 
 ## Allegati
 
-###### Allegato 1
+##### Allegato 1
 
 Allegato 1
 

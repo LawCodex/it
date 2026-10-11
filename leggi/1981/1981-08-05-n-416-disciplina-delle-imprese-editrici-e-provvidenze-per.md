@@ -26,11 +26,9 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - DISCIPLINA DELLE IMPRESE EDITRICI
+## TITOLO I - DISCIPLINA DELLE IMPRESE EDITRICI DI QUOTIDIANI E PERIODICI
 
-### DI QUOTIDIANI E PERIODICI
-
-#### ART. 1 - Titolarita' delle imprese
+### ART. 1 - Titolarita' delle imprese
 
 L'esercizio dell'impresa editrice di giornali quotidiani e' riservato alle persone fisiche, nonche' alle societa' costituite nella forma della societa' in nome collettivo, in accomandita semplice, a responsabilita' limitata, per azioni, in accomandita per azioni o cooperativa, il cui oggetto comprenda l'attivita' editoriale, esercitata attraverso qualunque mezzo e con qualunque supporto, anche elettronico, l'attivita' tipografica, radiotelevisiva o comunque attinente all'informazione e alla comunicazione, nonche' le attivita' connesse funzionalmente e direttamente a queste ultime.
 
@@ -92,7 +90,7 @@ A tutti gli effetti della presente legge e' considerata impresa editoriale anche
 
 I soggetti di cui al primo comma sono ammessi ad esercitare l'attivita' d'impresa ivi descritta solo se in possesso della cittadinanza di uno Stato membro dell'Unione europea o, in caso di societa', se aventi sede in uno dei predetti Stati. I soggetti non aventi il predetto requisito sono ammessi all'esercizio dell'impresa medesima solo a condizione che lo Stato di cui sono cittadini applichi un trattamento di effettiva reciprocita'. Sono fatte salve le disposizioni derivanti da accordi internazionali.
 
-#### ART. 2 - Trasferimento di azioni
+### ART. 2 - Trasferimento di azioni
 
 ((Deve essere data comunicazione scritta al servizio dell'editoria, per le relative iscrizioni nel registro di cui all'articolo 11, di ogni trasferimento, a qualsiasi titolo, di azioni, partecipazioni o quote di proprieta' di societa' editrici di giornali quotidiani, che interessino piu' del 10 per cento del capitale sociale o della proprieta'. Tale limite e' ridotto al due per cento del capitale sociale o della proprieta', qualora il trasferimento riguardi azioni di societa' editrici di giornali quotidiani quotate in borsa)).
 
@@ -110,7 +108,7 @@ L'avente causa o, se si tratta di societa', il legale rappresentante, nonche' i 
 
 Il trasferimento a qualunque titolo di azioni o quote di societa' editrici a soggetti diversi da quelli previsti dal precedente articolo e' nullo. E' parimenti nullo il trasferimento a qualunque titolo di azioni o quote di societa' intestatarie di azioni o quote di societa' editrici nelle ipotesi in cui l'assetto della proprieta' che ne derivi risulti contrario al disposto del quarto comma del precedente articolo.
 
-#### ART. 3 - Intestazione a societa' con azioni quotate in borsa
+### ART. 3 - Intestazione a societa' con azioni quotate in borsa
 
 Le societa' con azioni quotate in borsa che esercitano l'impresa editrice di giornali quotidiani o che siano intestatarie di azioni aventi diritto di voto o di quote di societa' editrici di giornali quotidiani o di societa' intestatarie di azioni o quote di societa' editrici di giornali quotidiani sono parificate alle persone fisiche ai fini dell'applicazione delle disposizioni del terzo e quarto comma dell'articolo 1.
 
@@ -120,7 +118,7 @@ Le societa' con azioni quotate in borsa di cui al primo comma non sono tenute al
 
 Quanto disposto dai commi precedenti si applica esclusivamente alle societa' che abbiano assolto gli obblighi di certificazione, deposito e pubblicazione dei bilanci previsti dagli articoli 4 e 5 del decreto del Presidente della Repubblica 31 marzo 1975, n. 136.
 
-#### ART. 4
+### ART. 4
 
 ((ARTICOLO ABROGATO DALLA L. 25 FEBBRAIO 1987, N. 67)) ((7))
 
@@ -130,7 +128,7 @@ AGGIORNAMENTO (7)
 
 La L. 25 febbraio 1987, n. 67 ha disposto la seguente interpretazione autentica dei commi 2 e 3 dell'art. 4 della legge 5 agosto 1981, n. 416: "il controllo e' definito ai sensi del primo comma dell'articolo 2359 del codice civile nonche' ai sensi dell'ottavo comma dell'articolo 1 della legge 5 agosto 1981, n. 416, come modificato dalla presente legge. I rapporti di cui al richiamato ottavo comma dell'articolo 1 sono rilevanti ai fini della individuazione della posizione di controllo, anche quando sono posti in essere nei confronti della societa' editrice da parte di societa' direttamente o indirettamente controllate. Il collegamento e' definito ai sensi del secondo comma dell'articolo 2359 del codice civile. Ai fini della individuazione della posizione di collegamento, e' rapporto di collegamento anche quello che si realizza attraverso una societa' direttamente o indirettamente controllata".
 
-#### ART. 5 - Cessazione di testata giornalistica
+### ART. 5 - Cessazione di testata giornalistica
 
 Quando un editore cessa o sospende la pubblicazione di un giornale quotidiano o settimanale deve darne immediata comunicazione al servizio dell'editoria e alle rappresentanze sindacali aziendali.
 
@@ -152,7 +150,7 @@ Nei casi di acquisto della testata, ai sensi dei precedenti commi, la cooperativ
 
 Se l'uso dei suddetti immobili ed impianti non e' regolato da contratto o se questo scade prima di un anno dalla data dell'acquisto, deve essere consentita alla cooperativa o al consorzio la loro utilizzazione per la durata di un anno. Il relativo corrispettivo, in difetto di accordo tra le parti, e' determinato da un collegio arbitrale composto nei modi di cui al quarto comma.
 
-#### ART. 6 - Cooperative giornalistiche
+### ART. 6 - Cooperative giornalistiche
 
 Ai fini della presente legge, per cooperative giornalistiche si intendono le societa' cooperative composte di giornalisti costituite ai sensi degli articoli 2511 e seguenti del codice civile, iscritte nel registro prefettizio di cui all'articolo 13 del decreto legislativo 14 dicembre 1947, n. 1577, ratificato, con modificazioni, dalla legge 2 aprile 1951, n. 302, modificato dall'articolo 6 della legge 17 febbraio 1971, n. 127.
 
@@ -172,11 +170,11 @@ L'assemblea dei giornalisti decide sull'acquisto della testata, per appello nomi
 
 Nel caso in cui l'assemblea dei giornalisti decida l'acquisto della testata, i dipendenti non giornalisti sono convocati in assemblea dai loro rappresentanti sindacali aziendali ovvero da un terzo dei dipendenti stessi per deliberare, con appello nominale e a maggioranza assoluta degli aventi diritto, la costituzione di una societa' cooperativa per partecipare alla gestione dell'impresa giornalistica. Ove tale decisione venga adottata, l'assemblea nomina, con voto limitato, uguale e segreto, i propri rappresentanti, i quali curano tutte le attivita' necessarie per la costituzione della cooperativa e provvedono, di intesa con i rappresentanti della cooperativa fra giornalisti, alla costituzione del consorzio di cui al secondo comma.
 
-#### ART. 7
+### ART. 7
 
 ((ARTICOLO ABROGATO DAL D.L. 23 OTTOBRE 1996, N. 545 CONVERTITO, CON MODIFICAZIONI, CON L. 23 DICEMBRE 1996, N. 650)).
 
-#### ART. 8 - Garante dell'attuazione della legge
+### ART. 8 - Garante dell'attuazione della legge
 
 Al fine di consentire la continuita' dell'azione di vigilanza del Parlamento sull'attuazione della presente legge, e' istituito un organo di garanzia.
 
@@ -208,7 +206,7 @@ AGGIORNAMENTO (16)
 
 La L. 31 luglio 1997, n. 249 ha disposto (con l'art. 1 comma 22) che "con effetto dalla data di entrata in vigore del regolamento di organizzazione previsto dal comma 9 del presente articolo", e' abrogato "il secondo comma dell'articolo 8 della legge 5 agosto 1981, n. 416".
 
-#### ART. 9 - Funzioni del Garante
+### ART. 9 - Funzioni del Garante
 
 Il Garante, fermi restando i compiti previsti dalle altre norme della presente legge, riceve, tramite il servizio dell'editoria di cui all'articolo 10, copia delle comunicazioni previste dai commi sesto, lettere a) e b), settimo, nono e decimo dell'articolo 1, dai commi quinto e sesto dell'articolo 2, dai commi primo e secondo dell'articolo 5 e dal sesto comma dell'articolo 12; riceve dal servizio stesso comunicazione delle delibere concernenti l'accertamento delle tirature dei giornali quotidiani, delle delibere concernenti i riconoscimenti di cui al quinto comma dell'articolo 24 e delle delibere riguardanti la ripartizione dei contributi e delle integrazioni di cui agli articoli 22, 24, 26 e 27; riceve dal Ministero dei beni culturali e ambientali comunicazione delle delibere concernenti i riconoscimenti di cui al primo comma dell'articolo 25 e comunicazione delle delibere concernenti la ripartizione dei contributi previsti dal medesimo articolo.
 
@@ -226,7 +224,7 @@ AGGIORNAMENTO (21)
 
 La L. 7 marzo 2001, n. 62 ha disposto (con l'art. 21 comma 1) che e' abrogato l' articolo 9 della legge 5 agosto 1981, n. 416, nella parte in cui dispone l'obbligo del Dipartimento per l'informazione e l'editoria - Ufficio per l'editoria e la stampa di comunicare all'Autorita' per le garanzie nelle comunicazioni le tirature dei giornali quotidiani.
 
-#### ART. 10 - Servizio dell'editoria
+### ART. 10 - Servizio dell'editoria
 
 E' istituito il servizio dell'editoria. Fino a quando non si provvede all'ordinamento previsto dall'articolo 95 della Costituzione, detto servizio costituisce, con il servizio dell'informazione e con l'ufficio della proprieta' letteraria, artistica e scientifica, la direzione generale delle informazioni, dell'editoria e della proprieta' letteraria, artistica e scientifica presso la Presidenza del Consiglio dei ministri. ((7))
 
@@ -248,7 +246,7 @@ La L. 25 febbraio 1987, n. 67 ha disposto (con l'art. 30 comma 1) che "la dotazi
 
 1982."
 
-#### ART. 11 - Registro nazionale della stampa
+### ART. 11 - Registro nazionale della stampa
 
 E' istituito il registro nazionale della stampa, la cui tenuta e' affidata, sotto la vigilanza del Garante, al servizio dell'editoria.
 
@@ -290,7 +288,7 @@ L'iscrizione nel registro nazionale della stampa non esonera gli imprenditori, c
 
 Il registro di cui al presente articolo sostituisce a tutti gli effetti, dalla data di entrata in vigore della presente legge, il registro istituito dall'articolo 8 della legge 6 giugno 1975, n. 172.
 
-#### ART. 12 - Imprese concessionarie di pubblicita'
+### ART. 12 - Imprese concessionarie di pubblicita'
 
 ((COMMA ABROGATO DAL D.L. 23 OTTOBRE 1996, N. 545 CONVERTITO, CON MODIFICAZIONI, DALLA L. 23 DICEMBRE 1996, N. 650)).
 
@@ -310,7 +308,7 @@ Nel caso di minimi garantiti o di anticipazioni nel primo anno di pubblicazione 
 
 In caso di violazione, la testata decade immediatamente da tutte le agevolazioni e da tutti gli incentivi previsti dalla presente legge e la concessionaria e' punita con la multa pari alla differenza fra la somma erogata e gli introiti effettivi dell'anno precedente e comunque non inferiore ai dieci milioni di lire.
 
-#### ART. 13 - Pubblicita' di amministrazioni pubbliche
+### ART. 13 - Pubblicita' di amministrazioni pubbliche
 
 Le amministrazioni statali e gli enti pubblici non territoriali, con esclusione degli enti pubblici economici, sono tenuti a destinare alla pubblicita' su giornali quotidiani e periodici una quota non inferiore al settanta per cento delle spese per la pubblicita' previste in bilancio. Tali spese devono essere iscritte in apposito capitolo di bilancio.
 
@@ -324,23 +322,23 @@ La Presidenza del Consiglio dei ministri indica criteri per la pubblicita' final
 
 ((Le amministrazioni e gli enti pubblici di cui al primo comma non possono destinare finanziamenti o contributi, sotto qualsiasi forma, ai giornali quotidiani o periodici al di fuori di quelli deliberati a norma del presente articolo)).
 
-#### ART. 14
+### ART. 14
 
 ((ARTICOLO ABROGATO DAL D.LGS. 24 APRILE 2001, N. 170))
 
-#### ART. 15 - Diffusione di giornali nelle scuole
+### ART. 15 - Diffusione di giornali nelle scuole
 
 In ogni istituto o scuola di istruzione secondaria superiore sono posti a disposizione degli studenti quotidiani e periodici nonche' un locale per la loro lettura.
 
 Il Ministro della pubblica istruzione emana con proprio decreto, entro sei mesi dall'entrata in vigore della presente legge, le norme per la attuazione di quanto stabilito dal comma precedente, assicurando comunque criteri di imparzialita'.
 
-#### ART. 16 - Distribuzione
+### ART. 16 - Distribuzione
 
 Le imprese di distribuzione devono garantire, a parita' di condizioni rispetto ai punti di vendita serviti e al numero di copie distribuite, il servizio di distribuzione a tutte le testate giornalistiche che ne facciano richiesta.
 
 Per ridurre i costi di distribuzione e per favorire la costituzione di cooperative o di consorzi di servizi aventi lo scopo di razionalizzare la distribuzione della stampa, le regioni possono prevedere misure di sostegno.
 
-#### ART. 17 - Prezzo dei giornali quotidiani
+### ART. 17 - Prezzo dei giornali quotidiani
 
 Il Comitato interministeriale dei prezzi stabilisce ed aggiorna almeno una volta all'anno, sulla base degli accertati costi di produzione, il prezzo dei giornali quotidiani.
 
@@ -348,7 +346,7 @@ Il Comitato interministeriale dei prezzi stabilisce ed aggiorna almeno una volta
 
 A partire dal 1 gennaio 1988 il prezzo del giornale e' libero)).
 
-#### ART. 18 - Estensione della normativa ad alcuni tipi di periodici e di agenzie di stampa
+### ART. 18 - Estensione della normativa ad alcuni tipi di periodici e di agenzie di stampa
 
 Sono soggetti agli obblighi stabiliti dagli articoli 1, 2, 3, 7, 11, 47 e 48 gli editori di giornali periodici e riviste che da almeno un anno hanno alle loro dipendenze non meno di cinque giornalisti a tempo pieno.
 
@@ -362,7 +360,7 @@ Sono soggetti agli obblighi stabiliti dalla presente legge, con esclusione di qu
 
 L'adempimento degli obblighi stabiliti dal presente articolo e' condizione per l'accesso alle provvidenze previste dalla presente legge.
 
-#### ART. 19 - Esclusioni dall'applicazione della normativa
+### ART. 19 - Esclusioni dall'applicazione della normativa
 
 I quotidiani e i periodici pubblicati interamente in lingua estera nonche' le riviste con periodicita' mensile o che pubblichino meno di dodici numeri all'anno non sono soggetti agli obblighi stabiliti dalla presente legge.
 
@@ -370,11 +368,11 @@ Per le testate di cui al comma precedente, l'adempimento da parte degli editori 
 
 Dopo il primo anno dall'entrata in vigore della presente legge le provvidenze previste sono corrisposte a condizione che le aziende siano in regola con il versamento dei contributi previdenziali.
 
-#### ART. 20 - Organi di partiti, sindacati e comunita' religiose
+### ART. 20 - Organi di partiti, sindacati e comunita' religiose
 
 I giornali quotidiani e i periodici che risultino, attraverso esplicita menzione, riportata in testata, organi di partiti, di sindacati o di enti o comunita' religiose non sono soggetti agli obblighi stabiliti dall'articolo 5.
 
-#### ART. 21 - Inosservanza dell'obbligo di iscrizione o comunicazione
+### ART. 21 - Inosservanza dell'obbligo di iscrizione o comunicazione
 
 L'inosservanza degli adempimenti previsti dal presente titolo, nonostante il formale invito da parte del Servizio dell'editoria a provvedere, determina l'immediata decadenza delle provvidenze di cui al titolo secondo. ((7))
 
@@ -390,31 +388,31 @@ conformita' alla normativa generale sulle societa'."
 
 ## TITOLO II - PROVVIDENZE PER L'EDITORIA
 
-#### Art. 22
+### Art. 22
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MAGGIO 2017, N. 70))
 
-#### Art. 23
+### Art. 23
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MAGGIO 2017, N. 70))
 
-#### Art. 24
+### Art. 24
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MAGGIO 2017, N. 70))
 
-#### ART. 25 - Pubblicazioni di elevato valore culturale
+### ART. 25 - Pubblicazioni di elevato valore culturale
 
 A decorrere dal 1° gennaio 1986 alle pubblicazioni periodiche, le cui pagine pubblicitarie siano state nell'anno precedente inferiori al 50 per cento delle pagine complessivamente pubblicate e che vengano riconosciute di elevato valore culturale per il rigore scientifico con il quale viene svolta la trattazione degli argomenti, sono concessi ((premi)) dell'ammontare complessivo di lire quattro miliardi in ragione d'anno. ((Alle pubblicazioni periodiche di cui al presente comma possono essere conferite, inoltre, menzioni speciali non accompagnate da apporto economico)).
 
 Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, su proposta del Ministro per i beni culturali e ambientali, sentito il parere, espresso, nei termini stabiliti dai regolamenti delle due Camere, dalle competenti commissioni permanenti della Camera dei deputati e del Senato della Repubblica, sono stabiliti i criteri per la concessione dei contributi di cui al primo comma ed e' istituita una commissione incaricata di accertare i requisiti per l'ammissione ai contributi stessi e di predisporre i relativi piani di ripartizione.
 
-#### Art. 26
+### Art. 26
 
 ((ARTICOLO ABROGATO DAL D.L. 18 MAGGIO 2012, N. 63,
 
 CONVERTITO CON MODIFICAZIONI DALLA L. 16 LUGLIO 2012, N. 103))
 
-#### ART. 27 - Contributi alle agenzie di stampa
+### ART. 27 - Contributi alle agenzie di stampa
 
 Per il quinquennio decorrente dal 1 gennaio 1981 e' autorizzata la corresponsione di contributi per l'importo complessivo di lire quattro miliardi, in ragione di anno, in favore delle agenzie di stampa a diffusione nazionale, che possiedano i requisiti di cui al comma seguente da almeno tre anni. (7)
 
@@ -450,7 +448,7 @@ AGGIORNAMENTO (7)
 
 La L. 25 febbraio 1987, n. 67 ha disposto (con l'art. 16 comma 1) che "i contributi di cui al primo comma dell'articolo 27 della legge 5 agosto 1981, n. 416, sono prorogati secondo quanto previsto" dall'art. 16 della L. 25 febbraio 1987, n. 67.
 
-#### ART. 28 - Tariffe telefoniche, telegrafiche, postali e dei trasporti
+### ART. 28 - Tariffe telefoniche, telegrafiche, postali e dei trasporti
 
 ((COMMA ABROGATO DALLA L. 30 DICEMBRE 2018, N. 145)).
 
@@ -484,7 +482,7 @@ AGGIORNAMENTO (12)
 
 Il Decreto 18 dicembre 1991 (in G.U. 30/12/1991, n. 304) ha disposto (con l'art. 1, comma 1) che "La riduzione della tariffa ordinaria delle stampe periodiche spedite in abbonamento postale dalle imprese editrici di cui al primo comma dell'art. 28 della legge 5 agosto 1981, n. 416, e' confermata nella misura del 50 per cento fino alla data del 31 dicembre 1992".
 
-#### ART. 29
+### ART. 29
 
 ((ARTICOLO ABROGATO DALLA L. 7 MARZO 2001, N. 62))
 
@@ -498,7 +496,7 @@ La L. 7 marzo 2001, n. 62 ha disposto (con l'art. 21 comma 2) l'abrogazione del 
 
 legge."
 
-#### ART. 30
+### ART. 30
 
 ((ARTICOLO ABROGATO DALLA L. 7 MARZO 2001, N. 62))
 
@@ -512,7 +510,7 @@ La L. 7 marzo 2001, n. 62 ha disposto (con l'art. 21 comma 2) l'abrogazione del 
 
 legge."
 
-#### ART. 31
+### ART. 31
 
 ((ARTICOLO ABROGATO DALLA L. 7 MARZO 2001, N. 62))
 
@@ -526,7 +524,7 @@ La L. 7 marzo 2001, n. 62 ha disposto (con l'art. 21 comma 2) l'abrogazione del 
 
 legge."
 
-#### ART. 32 - Dotazione finanziaria e gestione del fondo per il finanziamento agevolato
+### ART. 32 - Dotazione finanziaria e gestione del fondo per il finanziamento agevolato
 
 Le dotazioni finanziarie del fondo di cui al primo comma dell'articolo 29, per il quale viene autorizzata apposita gestione ai sensi dell'articolo 9 della legge 25 novembre 1971, n. 1041, sono costituite da un contributo dello Stato di cinque miliardi di lire per il primo esercizio finanziario successivo all'entrata in vigore della presente legge, dieci miliardi di lire per ciascuno dei nove esercizi finanziari successivi e cinque miliardi di lire per l'ultimo esercizio finanziario.
 
@@ -578,7 +576,7 @@ AGGIORNAMENTO (15)
 
 Il D.L. 31 dicembre 1996, n. 669 convertito, con modificazioni, dalla L. 28 febbraio 1997, n. 32 ha disposto (con l'art. 17 comma 1) che la disposizione di cui all'articolo 29 della legge 5 agosto 1981, n. 416, e successive modificazioni ed integrazioni, e' prorogata per il quinquennio 1996-2000.
 
-#### ART. 33
+### ART. 33
 
 ((ARTICOLO ABROGATO DALLA L. 7 MARZO 2001, N. 62))
 
@@ -592,7 +590,7 @@ La L. 7 marzo 2001, n. 62 ha disposto (con l'art. 21 comma 2) l'abrogazione del 
 
 legge."
 
-#### ART. 34 - Mutui agevolati in favore dell'editoria libraria per opere di elevato valore culturale
+### ART. 34 - Mutui agevolati in favore dell'editoria libraria per opere di elevato valore culturale
 
 Gli istituti e le aziende di credito di cui all'articolo 30 sono autorizzati ad accordare finanziamenti di importo non superiore a 1.000 milioni di lire e della durata massima di dieci anni alle imprese editrici di libri per la copertura dei costi di produzione e distribuzione di opere di elevato contenuto culturale e scientifico, che abbiano un ciclo produttivo di media e lunga durata ed eventualmente un ciclo commerciale di media durata per la rateazione necessaria alla diffusione.
 
@@ -606,15 +604,15 @@ Il pagamento del contributo in conto interessi sui finanziamenti di cui al prese
 
 Per il pagamento del contributo in conto interessi sui finanziamenti previsti dal presente articolo viene istituito, presso il Ministero per i beni culturali e ambientali, uno speciale fondo per il contributo dello Stato di 2.000 milioni di lire per il primo esercizio finanziario successivo all'entrata in vigore della presente legge, di 4.000 milioni di lire per i nove esercizi successivi, di 2.000 milioni di lire per l'ultimo esercizio.
 
-#### Art. 35
+### Art. 35
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MAGGIO 2017, N. 69))
 
-#### ART. 36 - Risoluzione del rapporto di lavoro
+### ART. 36 - Risoluzione del rapporto di lavoro
 
 ((1. I dipendenti delle aziende di cui all'articolo 35 per le quali sia stata dichiarata dal Ministero del lavoro e della previdenza sociale la situazione di crisi occupazionale, in caso di risoluzione del rapporto di lavoro per dimissioni nel periodo di godimento del trattamento di integrazione salariale, ovvero per licenziamento al termine del periodo di integrazione salariale di cui al citato articolo 35, hanno diritto, in aggiunta alle normali competenze di fine rapporto, ad una indennita' pari all'indennita' di mancato preavviso e, per i giornalisti, ad una indennita' pari a quattro mensilita' di retribuzione. I dipendenti di cui al presente comma sono esonerati dall'obbligo del preavviso in caso di dimissioni.))
 
-#### ART. 37 - Esodo e prepensionamento
+### ART. 37 - Esodo e prepensionamento
 
 1\. Ai lavoratori di cui ai precedenti articoli e' data facolta' di optare, entro sessanta giorni dall'ammissione ai trattamenti di cui all'articolo 25-bis del decreto legislativo 14 settembre 2015, n. 148, comma 3, lettere a) e b), per i lavoratori poligrafici, e lettera a), per i giornalisti, ovvero, nel periodo di godimento del trattamento medesimo, entro sessanta giorni dal maturare delle condizioni di anzianita' contributiva richiesta, per i seguenti trattamenti:
 
@@ -640,7 +638,7 @@ AGGIORNAMENTO (35)
 
 La L. 27 dicembre 2019, n. 160, ha disposto (con l'art. 1, comma 500) che "Limitatamente agli anni 2020, 2021, 2022 e 2023, in deroga al requisito contributivo di cui all'articolo 37, comma 1, lettera a), della legge 5 agosto 1981, n. 416, possono accedere al trattamento di pensione, con anzianita' contributiva di almeno 35 anni nell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia e i superstiti, i lavoratori poligrafici di imprese stampatrici di giornali quotidiani e di periodici e di imprese editrici di giornali quotidiani, di periodici e di agenzie di stampa a diffusione nazionale, le quali abbiano presentato al Ministero del lavoro e delle politiche sociali, in data compresa tra il 1° gennaio 2020 e il 31 dicembre 2023, piani di riorganizzazione o ristrutturazione aziendale in presenza di crisi, ai sensi dell'articolo 25-bis, comma 3, lettera a), del decreto legislativo 14 settembre 2015, n. 148".
 
-#### ART. 38 - INPGI
+### ART. 38 - INPGI
 
 1\. L'Istituto nazionaie di previdenza dei giornalisti italiani "Giovanni Amendola" (INPGI) ai sensi delle leggi 20 dicembre 1951, n.
 
@@ -664,7 +662,7 @@ La L. 23 dicembre 2000, n. 388 ha disposto (con l'art. 76 comma 2) che "l'opzion
 
 presente legge."
 
-#### ART. 39 - Ente nazionale per la cellulosa e per la carta
+### ART. 39 - Ente nazionale per la cellulosa e per la carta
 
 Alla corresponsione dei contributi e delle integrazioni di cui agli articoli 22, 24, 25, 26 e 27 provvede l'Ente nazionale per la cellulosa e per la carta, con il contributo straordinario dello Stato di cui al secondo comma del presente articolo, e, con priorita' rispetto alle altre spese istituzionali, con i fondi tratti dai contributi ad esso dovuti a norma della legge 28 marzo 1956, n. 168, e successive modificazioni.
 
@@ -696,21 +694,19 @@ La L. 22 dicembre 1984, n. 887 ha disposto (con l'art. 14 comma 14) che "il cont
 
 precedenti."
 
-#### ART. 40 - Divieto di cumulo di provvidenze
+### ART. 40 - Divieto di cumulo di provvidenze
 
 I partiti ammessi ai finanziamenti previsti dalla legge 2 maggio 1974, n. 195, e successive modificazioni, non godono di eventuali finanziamenti pubblici espressamente destinati dalla legge ad attivita' di informazione dei partiti stessi, svolta mediante quotidiani, periodici o mezzi radiotelevisivi, se non per la parte eventualmente eccedente le provvidenze ottenute a norma degli articoli 22 e 24 dai loro organi di stampa, cosi' come definiti dall'articolo 20.
 
-#### ART. 41 - Copertura finanziaria
+### ART. 41 - Copertura finanziaria
 
 All'onere complessivo di lire 197 miliardi, ivi compreso quello concernente le compensazioni finanziarie derivanti dalle riduzioni tariffarie di cui all'articolo 28 valutato in lire 45 miliardi, e quello riguardante l'organo di garanzia e il servizio dell'editoria di cui agli articoli 8 e 10, valutato complessivamente in lire un miliardo, derivante dall'applicazione della presente legge per il periodo 1 luglio 1979-31 dicembre 1981, si provvede, quanto a lire 103 miliardi, a carico dello stanziamento di cui al capitolo n. 6856 dello stato di previsione della spesa del Ministero del tesoro per l'anno finanziario 1980, e, quanto a lire 94 miliardi, mediante riduzione dello stanziamento di cui al predetto capitolo n. 6856 del medesimo stato di previsione per l'anno finanziario 1981.
 
 Il Ministro del Tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-## TITOLO III - MODIFICHE
+## TITOLO III - MODIFICHE ALLE DISPOSIZIONI SULLA STAMPA
 
-### ALLE DISPOSIZIONI SULLA STAMPA
-
-#### ART. 42 - Diritto di rettifica
+### ART. 42 - Diritto di rettifica
 
 L'articolo 8 della legge 8 febbraio 1948, n. 47, recante disposizioni sulla stampa, e' sostituito dal seguente:
 
@@ -728,7 +724,7 @@ La mancata o incompleta ottemperanza all'obbligo di cui al presente articolo e' 
 
 La sentenza di condanna deve essere pubblicata per estratto nel quotidiano o nel periodico o nell'agenzia. Essa, ove ne sia il caso, ordina che la pubblicazione omessa sia effettuata".
 
-#### ART. 43 - Norme processuali
+### ART. 43 - Norme processuali
 
 Dopo il quarto comma dell'articolo 21 della legge 8 febbraio 1948, n. 47, sono aggiunti i seguenti:
 
@@ -752,29 +748,29 @@ In ogni caso, il richiedente la rettifica puo' rivolgersi al pretore affinche', 
 
 ## TITOLO IV - DISPOSIZIONI TRANSITORIE E FINALI
 
-#### ART. 44 - Sanatoria
+### ART. 44 - Sanatoria
 
 Sono fatti salvi i rapporti giuridici sorti, restano validi i provvedimenti adottati e continuano ad avere efficacia gli atti amministrativi posti in essere in applicazione delle norme del decreto-legge 15 febbraio 1980, n. 27, e del decreto-legge 7 maggio 1980, n. 167.
 
 Si conferma l'autorizzazione all'Ente nazionale per la cellulosa e per la carta a corrispondere, con i fondi tratti dai contributi ad esso dovuti a norma della legge 28 marzo 1956, n. 168, e successive modificazioni, integrati con il contributo straordinario dello Stato impegnato alla data di entrata in vigore della presente legge e sulla base dei criteri stabiliti nei provvedimenti e negli atti amministrativi di cui al primo comma del presente articolo, alle imprese editrici di giornali quotidiani e periodici le integrazioni sul prezzo della carta utilizzata fino al 30 giugno 1979 ed alle agenzie di stampa i contributi per il periodo 1 luglio 1978-30 giugno 1979.
 
-#### Art. 45
+### Art. 45
 
 ((ARTICOLO ABROGATO DAL D.L. 18 MAGGIO 2012, N. 63,
 
 CONVERTITO CON MODIFICAZIONI DALLA L. 16 LUGLIO 2012, N. 103))
 
-#### ART. 46 - Contributi alle pubblicazioni periodiche di elevato valore culturale
+### ART. 46 - Contributi alle pubblicazioni periodiche di elevato valore culturale
 
 L'Ente nazionale per la cellulosa e per la carta e' autorizzato a corrispondere, con i fondi tratti dai contributi ad esso dovuti a norma della legge 28 marzo 1956, n. 168, e successive modificazioni, integrati con il contributo straordinario dello Stato di cui al precedente articolo, contributi per l'importo di 1.000 milioni di lire per ciascuna delle annate 1978, 1979 e 1980 alle pubblicazioni periodiche riconosciute di elevato valore culturale, secondo i criteri e le procedure seguiti per analoghe erogazioni effettuate in applicazione della legge 6 giugno 1975, n. 172.
 
-#### ART. 47 - Iscrizioni e comunicazioni al registro nazionale della stampa
+### ART. 47 - Iscrizioni e comunicazioni al registro nazionale della stampa
 
 Le comunicazioni di cui al settimo comma dell'articolo 1, relative a situazioni verificatesi prima della istituzione del registro nazionale della stampa di cui all'articolo 11, devono essere effettuate entro trenta giorni dalla data di entrata in vigore della presente legge.
 
 Fermo quanto disposto dal comma precedente, le disposizioni di attuazione di cui all'articolo 54 fissano i termini entro i quali gli editori e gli imprenditori di cui, rispettivamente, al secondo ed al quarto comma dell'articolo 11 devono provvedere, in sede di prima applicazione della presente legge, ad adempiere agli obblighi di iscrizione e di comunicazione al registro nazionale della stampa previsti dalla legge stessa.
 
-#### ART. 48 - Riorganizzazione delle imprese editrici di giornali quotidiani
+### ART. 48 - Riorganizzazione delle imprese editrici di giornali quotidiani
 
 ((Le imprese editrici di giornali quotidiani non in regola con le disposizioni di cui ai primi sei commi dell'articolo 1, devono adeguarsi alle disposizioni di cui ai commi medesimi nel termine massimo di due anni dall'entrata in vigore della presente legge. Fino a quando non avvenga la regolarizzazione, sono sospese tutte le provvidenze previste dalla presente legge, a favore dell'impresa.
 
@@ -782,37 +778,37 @@ Qualora la regolarizzazione intervenga nel termine, di cui sopra, l'impresa vien
 
 Trascorsi i due anni, su istanza del garante o del pubblico ministero o di qualsiasi cittadino, il tribunale competente per territorio revoca gli amministratori della societa' e nomina un amministratore giudiziario, come previsto dall'articolo 2409 del codice civile, il quale provvede alla convocazione dell'assemblea al fine di procedere alle modificazioni statutarie necessarie per adeguarsi al disposto di cui ai primi sei commi dell'articolo 1 e al fine di nominare i nuovi organi sociali)).
 
-#### ART. 49 - Concentrazioni nella stampa quotidiana
+### ART. 49 - Concentrazioni nella stampa quotidiana
 
 ((Qualora, all'atto dell'entrata in vigore della presente legge, una impresa editi, o controlli imprese che editino, un numero di testate la cui tiratura nell'anno 1981 risulti superiore al venti per cento delle copie complessivamente tirate nello stesso anno dai giornali quotidiani in Italia, deve provvedere entro tre anni alla alienazione di testate, azioni, partecipazioni, quote di societa' o alla cessione di contratti di affitto o di gestione di testate in modo da editare alla scadenza del triennio, direttamente o tramite societa' controllate, testate la cui tiratura non fosse nel 1981 superiore al venti per cento di quella complessiva dei quotidiani in Italia. In applicazione della presente norma i contratti di affitto o di gestione sono sempre cedibili, malgrado patto contrario.))
 
 Qualora l'impresa non adempia a quanto disposto dal comma precedente, il tribunale, su richiesta del Garante o di chiunque vi abbia interesse, ordina la vendita di azioni, partecipazioni o quote di proprieta' a mezzo di un agente di cambio o di una azienda o agenzia di credito.
 
-#### ART. 50 - Rilascio delle autorizzazioni per la vendita di quotidiani e periodici
+### ART. 50 - Rilascio delle autorizzazioni per la vendita di quotidiani e periodici
 
 Fino all'entrata in vigore dei provvedimenti regionali di cui all'articolo 14, le autorizzazioni per i posti fissi di vendita di quotidiani e periodici sono rilasciate dai sindaci, sentite le rappresentanze locali delle organizzazioni di cui al secondo comma del medesimo articolo.
 
 Con i provvedimenti adottati dalle regioni ai sensi dell'articolo 14 e' emanata la disciplina transitoria che resta in vigore fino alla definizione dei piani comunali.
 
-#### ART. 51 - Mutui agevolati
+### ART. 51 - Mutui agevolati
 
 Sono trasferite al fondo di cui al primo comma dell'articolo 29 le somme che, alla data di entrata in vigore della presente legge, sono ancora disponibili sulle autorizzazioni di spesa di cui all'articolo 5 della legge 6 giugno 1975, n. 172, e all'articolo 2 della legge 1 agosto 1978, n. 428.
 
-#### ART. 52 - Cooperative nel settore giornalistico
+### ART. 52 - Cooperative nel settore giornalistico
 
 Ai fini della presente legge si intendono per cooperative giornalistiche anche quelle che entro il 31 dicembre 1980 risultano gia' costituite tra giornalisti e poligrafici nonche' le cooperative femminili aderenti alle associazioni nazionali di rappresentanza del movimento cooperativo anche se costituite da non giornalisti professionisti, editrici di giornali regolarmente registrati presso la cancelleria del tribunale entro la stessa data.
 
-#### ART. 53 - Sanzioni amministrative
+### ART. 53 - Sanzioni amministrative
 
 Le sanzioni amministrative previste dalla presente legge sono applicate dall'autorita' e con la procedura stabilite dalla legge 24 dicembre 1975, n. 706.
 
-#### Art. 54
+### Art. 54
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MAGGIO 2017, N. 70))
 
 ## TITOLO IV - DISPOSIZIONI TRANSITORIE E FINALI
 
-#### Allegato A
+### Allegato A
 
 ALLEGATO A
 

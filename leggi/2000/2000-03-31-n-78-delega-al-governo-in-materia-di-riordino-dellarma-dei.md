@@ -28,21 +28,17 @@ Promulga
 
 la seguente legge:
 
-## Capo I - NORME DI DELEGA AL GOVERNO IN MATERIA DI RIORDINO
+## Capo I - NORME DI DELEGA AL GOVERNO IN MATERIA DI RIORDINO DELL'ARMA DEI CARABINIERI, DEL CORPO FORESTALE DELLO STATO, DEL CORPO DELLA GUARDIA DI FINANZA E DELLA POLIZIA DI STATO
 
-### DELL'ARMA DEI CARABINIERI, DEL CORPO FORESTALE DELLO - STATO, DEL CORPO DELLA GUARDIA DI FINANZA
-
-#### E DELLA POLIZIA DI STATO
-
-##### Art. 1
+### Art. 1
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-##### Art. 2
+### Art. 2
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-##### Art. 3
+### Art. 3
 
 Delega al Governo concernente il Corpo forestale dello Stato
 
@@ -60,7 +56,7 @@ c) soppressione, riduzione organica o istituzione di altro nuovo ruolo o nuove q
 
 4\. Agli oneri derivanti dall'attuazione del presente articolo, pari a lire 700 milioni annue, si provvede ai sensi dell'articolo 8.
 
-##### Art. 4
+### Art. 4
 
 Delega al Governo per il riordino del Corpo della guardia di finanza
 
@@ -124,7 +120,7 @@ g) previsione di disposizioni transitorie per il graduale passaggio dalla vigent
 
 > e) definire i livelli generali di dipendenza dei Comandi e reparti".
 
-##### Art. 5
+### Art. 5
 
 Delega al Governo per il riordino della Polizia di Stato
 
@@ -154,7 +150,7 @@ AGGIORNAMENTO (1)
 
 La L. 29 marzo 2001, n. 86 ha disposto (con l'art. 4, comma 1) che i termini previsti dal presente articolo 5, comma 3, primo e terzo periodo, si intendono rispettivamente prorogati ai centottanta e ai novanta giorni successivi alla data di emanazione del provvedimento legislativo di cui all'articolo 71 del decreto legislativo 5 ottobre 2000, n. 334, ovvero, se successiva, a quella di emanazione dei decreti legislativi di cui all'articolo 7, comma 4, della presente legge.
 
-##### Art. 6
+### Art. 6
 
 Disposizioni per l'Amministrazione della pubblica sicurezza e per alcune attivita' delle Forze di polizia e delle Forze armate
 
@@ -208,11 +204,11 @@ d) LETTERA ABROGATA DAL D.LGS. 15 MARZO 2010, N. 66;
 
 e) LETTERA ABROGATA DAL D.LGS. 15 MARZO 2010, N. 66.
 
-##### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-##### Art. 8
+### Art. 8
 
 Copertura finanziaria
 
@@ -220,15 +216,13 @@ Copertura finanziaria
 
 2\. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 9
+### Art. 9
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-## Capo II - NORME IN MATERIA
+## Capo II - NORME IN MATERIA DI COORDINAMENTO DELLE FORZE DI POLIZIA
 
-### DI COORDINAMENTO DELLE FORZE DI POLIZIA
-
-##### Art. 10
+### Art. 10
 
 Funzioni di coordinamento e direzione del Ministro dell'interno
 
@@ -262,7 +256,7 @@ Funzioni di coordinamento e direzione del Ministro dell'interno
 
 > g) mantenimento e sviluppo delle relazioni comunitarie e internazionali".
 
-##### Art. 11
+### Art. 11
 
 Attivita' specializzate presso Amministrazioni
 
@@ -270,7 +264,7 @@ dello Stato diverse da quelle di appartenenza
 
 1\. Per le Forze di polizia diverse dalla Polizia di Stato, l'istituzione, nonche' le dotazioni di personale e mezzi, di comandi, unita' e reparti comunque denominati, destinati allo svolgimento di attivita' specializzate presso Amministrazioni dello Stato diverse da quelle di appartenenza, sono disposte, su proposta del Ministro interessato, dal Ministro competente gerarchicamente, previo concerto con il Ministro dell'interno. Con la stessa procedura si provvede alla soppressione dei predetti comandi, unita' e reparti, salvi i casi in cui la loro costituzione sia stata disposta con legge.
 
-##### Art. 12
+### Art. 12
 
 Entrata in vigore
 

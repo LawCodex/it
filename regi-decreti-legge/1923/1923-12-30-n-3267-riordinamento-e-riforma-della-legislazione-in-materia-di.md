@@ -56,11 +56,11 @@ Abbiamo decretato e decretiamo:
 
 #### Sezione I. - Vincolo per scopi idrogeologici.
 
-##### Art. 1
+###### Art. 1
 
 Sono sottoposti a vincolo per scopi idrogeologici i terreni di qualsiasi natura e destinazione che, per effetto di forme di utilizzazione contrastanti con le norme di cui agli articoli 7, 8 e 9, possono con danno pubblico subire denudazioni, perdere la stabilita' o turbare il regime delle acque.
 
-##### Art. 2
+###### Art. 2
 
 La determinazione dei terreni di cui all'articolo precedente sara' fatta per zone nel perimetro dei singoli bacini fluviali.
 
@@ -68,7 +68,7 @@ A tale scopo l'Amministrazione forestale segnera' per ogni Comune su di una mapp
 
 In apposita relazione esporra' ed illustrera' le circostanze ed i motivi che consigliarono la proposta.
 
-##### Art. 3
+###### Art. 3
 
 Un esemplare della carta topografica, con la descrizione dei confini delle zone proposte per il vincolo, dovra', a cura del sindaco, restare affissa per 90 giorni all'albo pretorio del Comune.
 
@@ -76,7 +76,7 @@ Una copia della relazione restera' invece depositata presso la segreteria del Co
 
 La pubblicazione di cui sopra terra' luogo di notificazione.
 
-##### Art. 4
+###### Art. 4
 
 I reclami avverso la proposta di determinazione della zona da vincolare, redatti in carta libera, devono essere presentati alla segreteria del Coniane entro il termine stabilito dall'articolo precedente.
 
@@ -86,27 +86,27 @@ Il Comitato decidera', sentito, ove lo ritenga necessario, uno o piu' membri da 
 
 Contro le decisioni del Comitato e' ammesso ricorso al Consiglio di Stato entro 90 giorni dalla notificazione della decisione.
 
-##### Art. 5
+###### Art. 5
 
 Esaurito l'esame dei ricorsi, il Comitato forestale dara' notizia dell'esito di essi all'Ispettorato forestale. Questo, entro 60 giorni dall'annunzio, curera' la pubblicazione all'albo di ogni Comune di un esemplare della carta topografica con l'indicazione delle zone definitivamente vincolate e con la descrizione dei confini delle zone stesse.
 
 Ad ogni effetto di legge la determinazione delle zone vincolate, s'intendera' definitiva 15 giorni dopo la pubblicazione anzidetta.
 
-##### Art. 6
+###### Art. 6
 
 Le variazioni da apportarsi alla delimitazione delle zone vincolate in seguito alle decisioni dei ricorsi al Consiglio di Stato, saranno pubblicate nei modi e nei termini stabiliti dall'art. 5.
 
-##### Art. 7
+###### Art. 7
 
 Per i terreni vincolati la trasformazione dei boschi in altre qualita' di coltura e la trasformazione di terreni saldi in terreni soggetti a periodica lavorazione sono subordinate ad autorizzazione del Comitato forestale e alle modalita' da esso prescritte, caso per caso, allo scopo di prevenire i danni di cui all'art. 1.
 
-##### Art. 8
+###### Art. 8
 
 Per i terreni predetti il Comitato forestale dovra' prescrivere le modalita' del governo e dell'utilizzazione dei boschi e del pascolo nei boschi e terreni pascolativi, le modalita' della soppressione e utilizzazione dei cespugli aventi funzioni protettive, nonche' quelle dei lavori di dissodamento di terreni saldi e della lavorazione del suolo nei terreni a coltura agraria, in quanto cio' sia ritenuto necessario per prevenire i danni di cui all'art. 1.
 
 Tali prescrizioni potranno avere anche carattere temporaneo.
 
-##### Art. 9
+###### Art. 9
 
 Nei terreni vincolati l'esercizio del pascolo sara', in ogni caso, soggetto alle seguenti restrizioni:
 
@@ -118,13 +118,13 @@ c) nei boschi e nei terreni ricoperti di cespugli aventi funzioni protettive e',
 
 Su conforme parere dell'autorita' forestale, il Comitato potra' autorizzare il pascolo nei boschi e determinare le localita' in cui potra' essere eccezionalmente tollerato il pascolo delle capre.
 
-##### Art. 10
+###### Art. 10
 
 Le prescrizioni di massima, di cui agli articoli 8 e 9, compilate in forma di regolamento, sono rese esecutive dal Ministro per l'economia nazionale, il quale potra', udito il Consiglio di Stato, annullarne o modificarne le parti riconosciute contrarie ai fini ed alle disposizioni del titolo I del presente decreto ed alle leggi ed ai regolamenti generali.
 
 Nel detto regolamento saranno comprese le norme di polizia forestale.
 
-##### Art. 11
+###### Art. 11
 
 Il Comitato, nel determinare le norme di polizia forestale, stabilira' anche le pene per i trasgressori, senza eccedere i limiti fissati dall'art. 434 del Codice penale. ((8))
 
@@ -134,7 +134,7 @@ AGGIORNAMENTO (8)
 
 La Corte Costituzionale con sentenza 17 - 23 marzo 1966 n. 26 (in G.U. 1ª s.s. 26/03/1966 n.76) ha dichiarato l'illegittimita' costituzionale del presente articolo.
 
-##### Art. 12
+###### Art. 12
 
 I proprietari dei terreni compresi nelle zone vincolate possono separatamente chiedere che i propri terreni siano in tutto od in parte esclusi dal vincolo.
 
@@ -144,7 +144,7 @@ I terreni esclusi dal vincolo saranno indicati in un elenco da pubblicarsi a cur
 
 Le spese di accertamento sono a carico dello Stato solo nel caso di accoglimento delle domande degli interessati.
 
-##### Art. 13
+###### Art. 13
 
 Le zone vincolate, nelle quali, per lavori eseguiti per mutate forme di utilizzazione dei terreni o per altre cause, risulti cessato il pericolo di danni, di cui all'art. 1, possono dal Comitato forestale, su proposta dell'Amministrazione forestale o su richiesta degli interessati, essere dichiarate esenti dal vincolo.
 
@@ -154,23 +154,23 @@ L'esenzione avra' carattere personale: a tutti gli altri effetti di legge anche 
 
 Per le spese di accertamento valgono le norme di cui all'ultimo comma dell'articolo precedente.
 
-##### Art. 14
+###### Art. 14
 
 Le zone ed i terreni esenti dal vincolo possono, per iniziativa dell'Amministrazione forestale, o di chiunque ne abbia interesse, essere sottoposti a vincolo.
 
 Per la determinazione delle prime e dei secondi e per la dichiarazione di vincolo saranno osservate le norme stabilite negli articoli 2, 3, 4, 5 e 6.
 
-##### Art. 15
+###### Art. 15
 
 Per combattere le epidemie di parassiti animali e vegetali nei boschi, anche se non vincolati, si osserveranno le disposizioni contenute nella legge 26 giugno 1913, n. 888, in quanto trovino applicazione nel caso particolare.
 
-##### Art. 16
+###### Art. 16
 
 Gli estimi dei terreni vincolati, che nella formazione del catasto siano stati applicati senza tener conto degli effetti del vincolo, saranno riveduti e ridotti in proporzione della diminuzione di reddito causata dal vincolo stesso.
 
-## SEZIONE II. - Vincolo per altri scopi.
+#### SEZIONE II. - Vincolo per altri scopi.
 
-##### Art. 17
+###### Art. 17
 
 I boschi, che per la loro speciale ubicazione, difendono terreni o fabbricati dalla caduta di valanghe, dal rotolamento di sassi, dal sorrenamento o dalla furia dei venti, e quelli ritenuti utili per le condizioni igieniche locali, possono, su richiesta delle Provincie, dei Comuni o di altri Enti e privati interessati, essere sottoposti a limitazioni nella loro utilizzazione.
 
@@ -184,7 +184,7 @@ Gli Enti ed i privati, di cui al primo comma, all'atto della domanda, dovranno d
 
 Le disposizioni del presente articolo non si applicano ai casi considerati nel testo unico di leggi 16 maggio 1900, n. 401, sulle servitu' militari.
 
-##### Art. 18
+###### Art. 18
 
 La necessita' dei vincoli sui boschi, di cui al primo comma dell'articolo precedente, sara', caso per caso, dichiarata dal Comitato forestale in seguito a domanda motivata degli Enti o privati interessati ed a relazione scritta di una commissione di membri del Comitato, incaricata dei necessari accertamenti.
 
@@ -192,7 +192,7 @@ Nei casi di vincolo per ragioni igieniche dovra' essere sentito anche il Consigl
 
 Contro la dichiarazione della necessita' del vincolo e' ammesso ricorso al Consiglio di Stato nel termine stabilito dall'art. 4.
 
-##### Art. 19
+###### Art. 19
 
 La domanda di dichiarazione della necessita' del vincolo o il provvedimento dell'autorita', di cui all'art. 17 comma secondo, deve notificarsi al proprietario o a colui che a qualsiasi titolo abbia nell'attualita' il godimento del bosco.
 
@@ -200,7 +200,7 @@ Dal momento della notificazione fino all'esaurimento della procedura relativa al
 
 Esso pero' potra' chiedere, in sede di liquidazione dell'indennizzo, un compenso per il pregiudizio economico subito a causa della sospensione dei tagli.
 
-##### Art. 20
+###### Art. 20
 
 Riconosciuta la necessita' del vincolo di cui al primo comma dell'art. 17, verranno determinate le forme e le modalita' del godimento del bosco. A tal uopo il Comitato informera' l'Amministrazione forestale e le parti interessate delle proprie deliberazioni.
 
@@ -210,7 +210,7 @@ Entro 30 giorni dalle dette notificazioni, l'Amministrazione forestale inviera' 
 
 L'affissione all'albo sara' fatta per un periodo di giorni 15, dopo del quale la determinazione del vincolo s'intendera' definitiva ad ogni effetto di legge.
 
-##### Art. 21
+###### Art. 21
 
 Sulla base dei minori redditi derivanti dalle limitazioni imposte alla consuetudinaria utilizzazione del bosco sara' stabilito l'ammontare dell'indennizzo.
 
@@ -226,19 +226,19 @@ AGGIORNAMENTO (10)
 
 La Corte Costituzionale con sentenza 18 - 27 dicembre 1991 n. 488 (in G.U 1ª s.s. 04/01/1992 n.1) ha dichiarato "la illegittimita' costituzionale degli artt. 21, secondo, terzo, quarto comma, e 50, secondo comma, del R.D.L. 30 dicembre 1923, n. 3267 (Riordinamento e riforma della legislazione in materia di boschi e di terreni montani)".
 
-##### Art. 22
+###### Art. 22
 
 Il collegio arbitrale, di cui all'articolo precedente, nel determinare la misura dell'indennizzo, stabilira' anche le modalita' del pagamento, che puo' aver luogo sotto forma di canone annuo.
 
 Qualora il bosco vincolato agli effetti dell'art. 17 sia vincolato anche per scopi idrogeologici, l'eventuale indennizzo sara' stabilito senza computare le diminuzioni di reddito derivanti da questo secondo vincolo.
 
-##### Art. 23
+###### Art. 23
 
 In casi di urgenza e qualora si abbia fondato motivo per ritenere che boschi situali nelle condizioni di cui all'art 17 possano essere utilizzati in modo da produrre i danni previsti dall'articolo stesso, il Comitato forestale, su richiesta di chiunque vi abbia interesse, nonche' le Amministrazioni dello Stato, nel caso previsto dal secondo comma del detto articolo, potranno imporre l'astensione da qualsiasi forma di utilizzazione di essi fino all'esaurimento della procedura, di cui agli articoli precedenti.
 
-## CAPO II. - Disposizioni penali e di polizia.
+### CAPO II. - Disposizioni penali e di polizia.
 
-##### Art. 24
+###### Art. 24
 
 Il propretario o possessore di terreni vincolati, il quale non osservera' le norme emanate dal Comitato forestale per l'applicazione dell'art. 7, e quelle relative alle modalita' della soppressione ed utilizzazione dei cespugli ed alle modalita' dei lavori di dissodamento nei terreni saldi e della lavorazione del suolo nei terreni a coltura agraria, di cui all'art. 8, incorrera' nell'ammenda da L. 3 a L. 25 per ogni decara di terreno, non mai pero' inferiore a L. 10, e considerandosi come decara intera una frazione di decara, ed avra' l'obbligo di compiere i lavori impostigli dal Comitato entro il termine da questo stabilito. (1) ((9))
 
@@ -256,53 +256,53 @@ La L. 1 marzo 1975, n. 47 ha disposto (con l'art. 10, comma 2) che "Le ammende d
 
 Tali ammende sono ulteriormente elevate nel minimo a L. 100.000 e nel massimo a L. 500.000 per ogni decara o frazione di decara per la inosservanza del divieto di cui al quarto comma dell'articolo 9".
 
-##### Art. 25
+###### Art. 25
 
 In caso d'inosservanza dell'obbligo stabilito nell'articolo precedente, il contravventore dovra', entro trenta giorni dalla diffida del Comitato, depositare presso la sezione di Regia tesoreria provinciale la somma corrispondente alla spesa prevista, restando a cura del Comitato di far eseguire direttamente i lavori.
 
 Non effettuandosi il deposito, o quando nell'esecuzione dei lavori sia stata sorpassata la somma prevista, la relativa riscossione sull'ordinanza del presidente del Comitato, sara' fatta con le norme stabilite per l'esazione delle contribuzioni dirette.
 
-##### Art. 26
+###### Art. 26
 
 Coloro che nei boschi vincolati per scopi idrogeologici o per gli scopi previsti dall'art. 17 taglino o danneggino piante o arrechino altri danni, in contravvenzione alle prescrizioni emanate dal Comitato forestale ed alle disposizioni impartite dalle autorita', di cui al comma 2° dell'articolo predetto, saranno puniti con una pena pecuniaria dal doppio al quadruplo del valore delle piante tagliate o del danno commesso, salvi gli obblighi imposti dagli articoli precedenti.
 
-##### Art. 27
+###### Art. 27
 
 Gli amministratori dei corpi morali incorreranno personalmente nella massima pena, ove si rendessero colpevoli delle infrazioni previste negli articoli precedenti, senza pregiudizio delle pene, nelle quali fossero incorsi qualora avesero commesso il reato a proprio profitto.
 
-##### Art. 28
+###### Art. 28
 
 Le infrazioni di cui egli articoli 24 e 26, commesse da chi non e' proprietario, possessore od amministratore, saranno punite non solo colle pene minacciate dai detti articoli, ma altresi' con quelle corporali inflitte dalle leggi penali generali quando costituiscano un reato da esso previsto. La pena per i reati previsti dall'art. 26 non sara' inferiore ai tre quinti del massimo, e, per gli altri reati, non sara' inferiore ai due terzi del massimo, se trattasi di aggiudicatari di tagli, di fittavoli di pascoli, e generalmente di persone che abbiano diritto di fermarsi nei boschi.
 
 La pena non sara' inferiore al sestuplo, so il danno avra' avuto luogo nei vivai e semenzai dell'Amministrazione forestale.
 
-##### Art. 29
+###### Art. 29
 
 Nei reati forestali la valutazione delle piante tagliate o del danno arrecato sara' fatta dagli agenti forestali con le norme da stabilirsi nel regolamento per l'esecuzione del presente decreto. Le parti interessate potranno impugnare, innanzi all'autorita' giudiziaria, la valutazione fatta dagli agenti forestali.
 
 Oltre alle pene di cui nei precedenti articoli, le sentenze di condanna ordineranno il risarcimento dei danni a favore di chi di ragione.
 
-##### Art. 30
+###### Art. 30
 
 Ove i reati di cui nel presente decreto per qualunque motivo cadessero sotto le disposizioni delle leggi penali generali, e fossero da queste piu' gravemente puniti, sara' inflitta la pena da esse minacciata, ma non potra' essere applicata nella misura del minimo, salva la disposizione dell'art. 28.
 
-##### Art. 31
+###### Art. 31
 
 I delitti contro la proprieta' commessi sui boschi vincolati, anche quando non diano luogo ad azione privata, sono perseguibili di ufficio nei casi previsti dalle prescrizioni del Comitato forestale e dai provvedimenti delle autorita', delle quali e' cenno nel secondo comma dell'art. 17.
 
-##### Art. 32
+###### Art. 32
 
 Senza tener conto dell'esistenza o meno di vincoli, qualora nei boschi si sviluppi un'epidemia di parassiti animali o vegetali, tale da minacciarne l'esistenza e da far temere la propagazione ad altri boschi, il proprietario o possesore e' tenuto a darne subito avviso alla autorita' forestale piu' vicina, in conformita' di quanto sara' ordinato dalle norme di polizia forestale, di cui all'art. 10.
 
-##### Art. 33
+###### Art. 33
 
 Chiunque, in occasione d'incendio nei boschi, vincolati o no, rifiuta, senza giustificato motivo, il proprio aiuto o servizio al funzionario che dirige l'opera di spegnimento, e' punito a norma dell'art. 435 del Codice penale.
 
-##### Art. 34
+###### Art. 34
 
 Le pene pecuniarie stabilite dal presente decreto saranno, nel caso di non effettuato pagamento, commutate nell'arresto, a seconda del suo ammontare, osservato il ragguaglio ed il limite stabiliti dal Codice penale.
 
-##### Art. 35
+###### Art. 35
 
 ((Le contravvenzioni alle disposizioni del presente decreto potranno essere conciliate davanti all'ispettore capo del ripartimento nella cui circoscrizione l'infrazione fu come messa)).((1))
 
@@ -318,7 +318,7 @@ AGGIORNAMENTO (1)
 
 Il Regio D.L. 3 gennaio 1926, n. 23, convertito senza modificazioni dalla L. 24 maggio 1926, n. 898, ha disposto (con l'art. 4, comma 1) che la presente modifica si applica anche alle contravvenzioni pendenti alla data dell'entrata in vigore del decreto stesso.
 
-##### Art. 36
+###### Art. 36
 
 La, domanda di conciliazione puo' esser fatta verbalmente o per iscritto all'ispettore forestale capo del ripartimento entro il termine di trenta giorni dalla notificazione del verbale di contravvenzione.
 
@@ -328,7 +328,7 @@ Devo termine non potra' superare i sessanta giorni.
 
 Qualora la conciliazione non sia stata invocata o l'ammenda non pagata pei termini suddetti, l'ispettore trasmettera' il verbale di contravvenzione al pretore competente per l'ulteriore corso di giustizia.
 
-##### Art. 37
+###### Art. 37
 
 Chi nel periodo di due anni abbia commesso tre infrazioni alle disposizioni del presente decreto, per le quali sia intervenuta condanna o conciliazione, a norma dell'art. 35, od oblazioni ai sensi dell'art. 101 del Codice penale, non sara' ammesso a conciliazione per altri reati, previsti dal presente decreto, accertati nel biennio successivo.
 
@@ -336,7 +336,7 @@ Agli effetti delle disposizioni precedenti, sara' sempre considerata come prima 
 
 La conciliazione potra' aver luogo anche per i danni senza limite di valore.
 
-##### Art. 38
+###### Art. 38
 
 Le notificazioni, le domande, i verbali, le quietanze e qualsiasi altro atto relativo alle conciliazioni regolate dall'art. 36 sono esenti da ogni diritto e spesa di bollo e registro.
 
@@ -344,7 +344,7 @@ Le notificazioni, le domande, i verbali, le quietanze e qualsiasi altro atto rel
 
 ### CAPO I - Sistemazione idraulico-forestale dei bacini montani.
 
-##### Art. 39
+###### Art. 39
 
 ((ARTICOLO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N. 327))
 
@@ -360,33 +360,33 @@ Il D.L. 20 giugno 2002, n. 122, convertito con modificazioni dalla L. 1 agosto 2
 
 Il D.P.R. 8 giugno 2001, n. 327, come modificato dal D.Lgs. 27 dicembre 2002, n. 302, ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento al 30 giugno 2003.
 
-##### Art. 40
+###### Art. 40
 
 I lavori di sistemazione idraulico-forestale dei bacini montani, necessariamente coordinati ad opere di bonifica, continueranno ad essere compresi nei progetti di tali opere, secondo l'art. 7, lettera B) del testo unico, approvato con R. decreto 22 marzo 1900, n. 195, ed il riparto della relativa spesa continuera' ad essere regolato dalle disposizioni dello stesso testo unico. A questi lavori saranno applicabili le disposizioni degli articoli 43, 44, 50, 51, 52, 53, 54, 55, 56, 57 e 58 del presente decreto.
 
-##### Art. 41
+###### Art. 41
 
 Nei progetti di sistemazione dei bacini montani potranno essere considerati gli eventuali lavori occorrenti per raccogliere le acque del bacino ed utilizzarle a scopo di irrigazione o forza motrice.
 
-##### Art. 42
+###### Art. 42
 
 Fra l'Amministrazione dei lavori pubblici e quella forestale saranno presi accordi circa l'ordine di esecuzione delle opere in rapporto alle disponibilita', dei fondi stanziati nei rispettivi bilanci e circa la prosecuzione delle opere in corso alla data dell'entrata in vigore del presente decreto, che potra' continuare a rimanere affidata all'Amministrazione che ha dato inizio alle opere stesse.
 
-##### Art. 43
+###### Art. 43
 
 Gli uffici del Genio civile e quelli d'Ispettorato forestale determineranno d'accordo i perimetri dei bacini da sistemare. Gli uffici stessi compileranno in collaborazione, ove sia necessario, i progetti di massima, facendo in questi risultare, mediante apposito verbale, la distinzione delle opere di competenza delle rispettive Amministrazioni secondo l'art. 39.
 
-##### Art. 44
+###### Art. 44
 
 L'esame delle proposte di determinazione dei perimetri e dei progetti di massima delle opere da eseguire e' deferito alla Sezione II del Consiglio superiore dei lavori pubblici, della quale sono chiamati a far parte il direttore generale delle foreste e demani ed un ispettore superiore forestale, designato dal Ministro per l'economia nazionale.
 
 Per i bacini compresi nel compartimento del Magistrato alle acque il detto esame e' deferito al Comitato tecnico di magistratura.
 
-##### Art. 45
+###### Art. 45
 
 Compilato il progetto di massima, gl'Ispettorati forestali determineranno, distintamente per ciascun Comune, i terreni da sistemare considerati nel progetto e cureranno, in conformita' di quanto e' disposto nell'art. 3, la pubblicazione delle carte topografiche relative al perimetro delle zone da sistemare e dell'elenco dei terreni, distinti per zone.
 
-##### Art. 46
+###### Art. 46
 
 Entro trenta giorni dalla pubblicazione delle carte e dell'elenco, di cui all'articolo precedente, l'elenco e' notificato gratuitamente ai proprietari interessati, i quali avranno sessanta giorni per ricorrere o fare opposizione.
 
@@ -394,11 +394,11 @@ Trascorso detto termine, il sindaco inviera' i reclami all'Ispettorato forestale
 
 Questo decidera' definitivamente, sentito il Consiglio superiore dei lavori pubblici, o, trattandosi di bacini compresi nel compartimento del Magistrato alle acque, il Comitato tecnico di questo.
 
-##### Art. 47
+###### Art. 47
 
 In seguito alla decisione sui reclami da parte del Ministero, l'elenco dei terreni diverra' definitivo e, dopo quindici giorni dalla data della pubblicazione del decreto di approvazione, i terreni compresi nell'elenco s'intenderanno sottoposti al vincolo di cui al titolo I, capo I, sezione I del presente decreto, ed i proprietari interessati non potranno opporsi all'esecuzione delle opere di sistemazione.
 
-##### Art. 48
+###### Art. 48
 
 ((ARTICOLO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N. 327))
 
@@ -414,11 +414,11 @@ Il D.L. 20 giugno 2002, n. 122, convertito con modificazioni dalla L. 1 agosto 2
 
 Il D.P.R. 8 giugno 2001, n. 327, come modificato dal D.Lgs. 27 dicembre 2002, n. 302, ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento al 30 giugno 2003.
 
-##### Art. 49
+###### Art. 49
 
 Nei progetti di sistemazione dovranno indicarsi i terreni da rimboschire, nonche' quelli da consolidare mediante inerbamento o creazione di pascoli alberati, e stabilirsi, per questi ultimi, norme per l'esercizio del pascolo.
 
-##### Art. 50
+###### Art. 50
 
 Ai proprietari dei terreni da sistemare, e nei quali per l'esecuzione dei lavori progettati risulti indispensabile una totale o parziale sospensione di godimento, e' assegnata un'indennita' annua in somma fissa, tenuto conto del reddito netto all'epoca dell'inizio dei lavori di rinsaldamento e rimboschimento.
 
@@ -434,11 +434,11 @@ AGGIORNAMENTO (10)
 
 La Corte Costituzionale con sentenza 18 - 27 dicembre 1991 n. 488 (in G.U 1ª s.s. 04/01/1992 n.1) ha dichiarato "la illegittimita' costituzionale degli artt. 21, secondo, terzo, quarto comma, e 50, secondo comma, del R.D.L. 30 dicembre 1923, n. 3267 (Riordinamento e riforma della legislazione in materia di boschi e di terreni montani)".
 
-##### Art. 51
+###### Art. 51
 
 Se ai fini del rimboschimento dei terreni compresi negli elenchi di cui all'art. 45 l'Amministrazione forestale riconosca sufficiente una temporanea sospensione del pascolo, potra' adottare questo provvedimento assegnando al proprietario od utente una indennita', da liquidarsi secondo le norme stabilite dall'articolo precedente, tenendo conto della diminuzione di reddito che ne consegue e della esenzione dalla imposta fondiaria di cui all'art. 58.
 
-##### Art. 52
+###### Art. 52
 
 I proprietari dei terreni da rinsaldare o da rimboschire, compresi nei detti elenchi, possono chiedere, prima dell'inizio dei lavori, di sistemare agrariamente i loro terreni mediante opere di sistemazione superficiale e regolando la condotta delle acque, purche' tali opere siano riconosciute idonee ai fini della sistemazione del bacino.
 
@@ -446,7 +446,7 @@ La relativa concessione sara' fatta con le norme stabilite dall'art. 55.
 
 La razionale sistemazione agraria dei terreni compresi nel perimetro dei bacini montani potra' essere anche prevista nei progetti di sistemazione, purche' i proprietari interessati ne assumano l'esecuzione con le norme di cui al detto articolo.
 
-##### Art. 53
+###### Art. 53
 
 Compiuti e collaudati i lavori di sistemazione relativi ad un determinato perimetro, le opere di rinsaldamento e rimboschimento dei terreni saranno consegnate ai proprietari, che dovranno mantenerle secondo le norme stabilite dall'articolo seguente.
 
@@ -454,7 +454,7 @@ Qualora il proprietario dei terreni rinsaldati o rimboschiti intenda rinunziare 
 
 In ogni caso pero' il prezzo di questi terreni non potra' mai superare quello corrispondente alla valutazione fatta a norma degli articoli 113 e 114.
 
-##### Art. 54
+###### Art. 54
 
 Nei terreni rimboschiti per effetto del presente decreto non sara' mai permessa la coltura agraria.
 
@@ -472,7 +472,7 @@ AGGIORNAMENTO (1)
 
 Il Regio D.L. 3 gennaio 1926, n. 23, convertito senza modificazioni dalla L. 24 maggio 1926, n. 898, ha disposto (con l'art. 1, comma 1) che le pene pecuniarie comminate nel presente articolo sono elevate nella misura del quintuplo.
 
-##### Art. 55
+###### Art. 55
 
 Il Ministro per l'economia nazionale, sentito, a seconda dei casi, il Consiglio superiore dei lavori pubblici o il Comitato tecnico del Magistrato alle acque, puo' consentire che i lavori di rimboschimento dei terreni compresi negli elenchi, di cui all'art. 45, siano eseguiti dai proprietari, soli o riuniti in consorzio, entro un congruo termine, secondo il progetto approvato e in base ad un regolare atto di sottomissione.
 
@@ -480,7 +480,7 @@ In tal caso i singoli proprietari od il consorzio hanno diritto al rimborso dell
 
 Il rimborso non si accordera' per intero se non dopo cinque anni dalla compiuta coltura.
 
-##### Art. 56
+###### Art. 56
 
 Alla custodia ed alla manutenzione delle opere d'arte comprese nei perimetri dei bacini montani provvedono le Amministrazioni che le hanno eseguite, coi fondi stanziati in apposito capitolo della parte ordinaria dei bilanci dei Ministeri dell'economia nazionale e dei lavori pubblici.
 
@@ -488,11 +488,11 @@ I detti Ministeri, fatta la liquidazione delle relative spese, anno per anno, ne
 
 Le disposizioni del presente articolo non sono applicate quando il Ministero dell'economia nazionale deliberi di procedere all'acquisto dei terreni per aggregarli al Demanio forestale dello Stato.
 
-##### Art. 57
+###### Art. 57
 
 Allorche' le opere di sistemazione sono compiute da societa' od imprenditori, la manutenzione di esse e' assunta dall'Amministrazione interessata a partire dal 1° gennaio successivo alla data di approvazione del collaudo finale delle opere concesse.
 
-##### Art. 58
+###### Art. 58
 
 I terreni privati, compresi nei perimetri dei bacini montani, che dai loro proprietari siano rimboschiti e mantenuti regolarmente a bosco, secondo il piano di coltura e di conservazione di cui al terzo comma dell'art. 54. sono esenti dall'imposta fondiaria erariale e dalla sovrimposta provinciale e comunale per anni 40, quando si tratti di boschi d'alto fusto, e per 15, quando si tratti di boschi cedui. ((7))
 
@@ -510,13 +510,13 @@ AGGIORNAMENTO (7)
 
 La L. 14 dicembre 1955, n. 1318 ha disposto (con l'articolo unico, comma 1) che "L'esenzione tributaria prevista dall'art. 58 del regio decreto 30 dicembre 1923, n. 3267, si applica anche, per la durata di 25 anni, relativamente ai boschi cedui semplici di proprieta' privata trasformati in fustate e mantenuti in tale coltura secondo piani particolari di trasformazione e conservazione, approvati dal Ministro per l'agricoltura e per le foreste".
 
-##### Art. 59
+###### Art. 59
 
 Le Provincie, i Comuni, gli Enti morali ed i proprietari interessati, da soli o riuniti in consorzio, nonche' le societa' ed i privati imprenditori, anche nel compartimento del Magistrato alle acque, potranno essere autorizzati ad eseguire direttamente le opere di sistemazione dei bacini montani.
 
 Alla concessione dell'esecuzione delle dette opere provvederanno i Ministeri dei lavori pubblici e della economia nazionale d'accordo col Ministero delle finanze, udito il Consiglio superiore dei lavori pubblici od il Comitato tecnico del Magistrato alle acque per le opere comprese nel rispettivo compartimento e, nei casi in cui e' richiesto per legge, il Consiglio di Stato.
 
-##### Art. 60
+###### Art. 60
 
 Alle persone indicate nell'articolo precedente lo Stato rimborsera' le spese a seconda delle convenzioni stipulate caso per caso e nei limiti degli stanziamenti del bilancio.
 
@@ -524,7 +524,7 @@ Il costo effettivo delle opere che, comprese le spese impreviste, risulta dal pr
 
 Qualora l'importo delle spese, accertate e liquidate, come sopra, dall'ufficio del Genio civile o da quello forestale competente, secondo il caso, superi quello delle annualita' convenute da parte dello Stato in ordine agli stanziamenti di bilancio, sara' corrisposto sulle maggiori somme anticipate dai concessionari l'interesse del 4 per cento annuo dalla data della liquidazione fino a quella dell'emissione del decreto di rimborso.
 
-##### Art. 61
+###### Art. 61
 
 Le societa' o i singoli imprenditori, i quali intendano chiedere la concessione di opere di sistemazione dei bacini montani devono presentarne domanda al competente ufficio del Genio civile o dello Ispettorato forestale.
 
@@ -538,13 +538,13 @@ c) i documenti atti a dimostrare l'idoneita' tecnica e la capacita' finanziaria 
 
 L'ufficio del Genio civile o l'ispettorato forestale, accertata la regolarita' degli atti, cura la inserzione per estratto della domanda nel Foglia degli annunzi legali della provincia.
 
-##### Art. 62
+###### Art. 62
 
 Dopo mi mese dalla inserzione di cui al precedente articolo, il Ministro per i lavori pubblici o quello per l'economia nazionale o il Magistrato alle acque, per le opere da farsi nel suo compartimento, dispone la pubblicazione della domanda, e dei relativi atti, determinandone le modalita'.
 
 Compiute le pubblicazioni, il Ministro per i lavori pubblici o quello per l'economia nazionale o entrambi d'accordo, sentito, a seconda dei casi, il Consiglio superiore dei lavori pubblici od il Comitato tecnico del Magistrato alle acque, decidono sull'ammissibilita' della domanda e fissano il termine per la presentazione del progetto o dei progetti esecutivi.
 
-##### Art. 63
+###### Art. 63
 
 Nello stesso termine di un mese e' ammessa la presentazione di domande concorrenti da parte di altre societa' e imprenditori, purche' corredate dei documenti prescritti. Sono concorrenti le domande che riflettono la sistemazione di uno stesso bacino o di una parte di esso.
 
@@ -552,31 +552,31 @@ Dopo la pubblicazione di tutte le domande a termini del primo comma del preceden
 
 A parita' di tutte le dette condizioni di preferenza, vale il criterio della priorita' di presentazione della domanda.
 
-##### Art. 64
+###### Art. 64
 
 Quando alla data della presentazione della prima domanda esista il consorzio fra i proprietari interessati, nessuna decisione sulle domande di societa' e imprenditori potra' essere presa, se non dopo trascorso il termine di tre mesi, entro il quale, puo' dal consorzio stesso essere esercitato un diritto di prelazione.
 
 Tale termine decorre dalla pubblicazione per estratto della prima domanda, ai sensi del precedente art. 62.
 
-##### Art. 65
+###### Art. 65
 
 Alle societa' ed agli imprenditori concessionari di lavori di sistemazione, si puo', dopo l'approvazione di ciascun collaudo parziale, restituire una quota del deposito cauzionale, di cui all'art. 1 del decreto Luogotenenziale 8 agosto 1918, n. 1256, in proporzione dell'importo di ciascun lotto collaudato.
 
-##### Art. 66
+###### Art. 66
 
 Gli uffici del catasto debbono fornire alle societa' ed agli imprenditori tutte le notizie e gli elementi da essi posseduti, che siano necessari per la formazione e conservazione degli elenchi delle proprieta' interessate, mediante il solo rimborso delle spese effettive per tale scopo incontrate.
 
-##### Art. 67
+###### Art. 67
 
 Il personale tecnico, adibito dai concessionari alla sorveglianza e custodia delle opere di sistemazione, puo' elevare verbali di accertamento delle contravvenzioni purche' presti giuramento innanzi al pretore del mandamento o innanzi al sindaco del Comune ove il personale stesso risiede.
 
-##### Art. 68
+###### Art. 68
 
 La Cassa depositi e prestiti e' autorizzata, per il periodo di anni sei dalla pubblicazione del presente decreto, a concedere, con le norme del proprio istituto e con estensione anche al disposto dell'art. 78 del testo unico 2 gennaio 1913, n. 453, alle Provincie, ai Comuni ed ai consorzi, concessionari di opere di sistemazione, i mutui occorrenti per lo svolgimento del programma di esecuzione delle opere concesse.
 
 I mutui saranno accordati gradualmente in corrispondenza ai vari lotti di opere, indicati in detto programma, e, nell'esclusivo riguardo della graduatoria dei mutui da concedersi, sara' sentito il parere del Consiglio superiore dei lavori pubblici.
 
-##### Art. 69
+###### Art. 69
 
 La Cassa depositi e prestiti e' autorizzata ad anticipare sui mutui da essa concessi ai consorzi, di cui al precedente articolo, le somme necessarie per l'inizio dei lavori, quando questi si eseguano in economia o siano affidati a cooperative di produzione e lavoro.
 
@@ -586,31 +586,31 @@ Le successive somministrazioni saranno fatte dalla Cassa depositi e prestiti in 
 
 Ad opere ultimate dovra' dimostrarsi l'erogazione delle somme complessive riscosse per mutui.
 
-##### Art. 70
+###### Art. 70
 
 Le annualita' che lo Stato deve corrispondere ai concessionari per opere di sistemazione, saranno calcolate con lo stesso tasso di interesse annualmente stabilito dalla Cassa depositi e prestiti per i mutui ordinari, ai sensi degli articoli 9 e 73 del menzionato testo unico di legge, approvato con R. decreto 2 gennaio 1913, n 452.
 
-##### Art. 71
+###### Art. 71
 
 Le concessioni di opere di sistemazione possono anche essere fatte a condizione che il contributo dello Stato sia corrisposto in annualita' costanti, non eccedenti il numero di 50, comprensive di una quota di contributo e di interessi non superiore al 4 per cento.
 
-##### Art. 72
+###### Art. 72
 
 Lo Stato ha sempre la facolta' di riscattare in tutto o in parte le annualita' stabilite per il pagamento del suo contributo nella spesa di ciascuna sistemazione, pagando il capitale corrispondente alle annualita' stesse depurato degli interessi non maturati.
 
-##### Art. 73
+###### Art. 73
 
 In pendenza di progetti regolarmente approvati, le casse di risparmio possono concedere mutui ai consorzi concessionari di opere di sistemazione per l'esecuzione delle opere stesse. A detti mutui sono estese le disposizioni dell'art. 16 della legge 11 dicembre 1910, n. 855.
 
-##### Art. 74
+###### Art. 74
 
 Le convenzioni relative alla concessione di opere di sistemazione sono esenti da bollo e da qualsiasi altro tributo, nonche' da diritti di segreteria e di archivio, e saranno registrate col solo diritto fisso di L. 4.
 
-## CAPO II. - Rimboschimento e rinsaldamento di terreni vincolati.
+### CAPO II. - Rimboschimento e rinsaldamento di terreni vincolati.
 
-### Sezione I. - Disposizioni generali.
+#### Sezione I. - Disposizioni generali.
 
-##### Art. 75
+###### Art. 75
 
 L'Amministrazione forestale, le Provincie ed i Comuni, allo scopo di meglio garantire le finalita' previste dall'art. 1, potranno, da soli o riuniti in consorzio, promuovere il rimboschimento dei terreni vincolati e la ricostituzione dei boschi estremamente deteriorati anch'essi sottoposti a vincolo.
 
@@ -618,7 +618,7 @@ L'Amministrazione forestale e gli Enti suddetti potranno altresi', da soli od in
 
 Sia nel primo che nel secondo caso, allorche' lo Stato concorra nelle spese, la direzione delle opere e' affidata all'Ispettorato forestale sotto la vigilanza dei Comitati forestali, e, nelle Provincie comprese nel compartimento del Magistrato alle acque, sotto la vigilanza di quest'ultimo.
 
-##### Art. 76
+###### Art. 76
 
 I proprietari dei terreni di cui all'articolo precedente possono eseguire per proprio conto i lavori indicati nell'articolo stesso, impegnandosi ad iniziarli ed a compierli nei modi e nel termine stabiliti dal Comitato forestale.
 
@@ -626,15 +626,15 @@ Essi inoltre possono cedere i loro terreni all'Amministrazione forestale, od agl
 
 Qualora non osservino i propri impegni o non intendano cedere temporaneamente i propri terreni, l'Amministrazione forestale e gli Enti, di cui al primo comma dell'articolo precedente, possono procedere all'occupazione temporanea od all'espropriazione di essi, sempre che si tratti di terreni vincolati.
 
-##### Art. 77
+###### Art. 77
 
 Qualora si riconosca la necessita' d'inerbare e rinsaldare terreni nudi destinati a pascolo, sottoposti a vincolo, l'Amministrazione forestale e gli Enti, di cui all'art. 75, in seguito ad autorizzazione del Comitato forestale, possono imporre ai proprietari dei terreni la sospensione del godimento di essi per un periodo massimo di dieci anni, ovvero procedere all'occupazione temporanea dei terreni stessi e compiervi i lavori occorrenti, senza peraltro mutarne la destinazione.
 
-##### Art. 78
+###### Art. 78
 
 L'indennita' di espropriazione o di occupazione temporanea dei terreni, nonche' di sospensione dell'esercizio del pascolo, di cui ai precedenti articoli, sara' stabilita nei modi previsti dall'art. 24.
 
-##### Art. 79
+###### Art. 79
 
 I proprietari di terreni vincolati possono riunirsi in consorzio al fine di provvedere al rimboschimento dei terreni stessi.
 
@@ -644,35 +644,35 @@ I proprietari dissidenti hanno facolta' di esimersi da siffatto obbligo, cedendo
 
 Ove questa facolta' non venga esercitata, i promotori del consorzio possono, nel caso che rappresentino almeno i quattro quinti dell'area del rimboschimento, procedere all'espropriazione dei terreni dei proprietari dissidenti, corrispondendo il prezzo che verra' stabilito nei modi previsti dall'art. 21.
 
-##### Art. 80
+###### Art. 80
 
 L'Amministrazione del consorzio ha la capacita' giuridica di rappresentare, col mezzo del suo capo; il consorzio nei giudizi, nei contratti ed in tutti gli atti che interessino l'Ente, entro il limite dei poteri stabiliti dal regolamento o statuto.
 
-##### Art. 81
+###### Art. 81
 
 La responsabilita' dei consortisti e' limitata alla quota da ciascuno conferita in societa' o determinata nel regolamento.
 
-##### Art. 82
+###### Art. 82
 
 E' data facolta' ai consorzi di stabilire, nell'atto della loro costituzione, o nel regolamento, che le controversie tra soci, o tra soci ed il consorzio, siano decise col mezzo di arbitri e che questi possano rendere le loro decisioni immediatamente esecutive, nonostante l'appello ai tribunali ordinari.
 
-##### Art. 83
+###### Art. 83
 
 Ai consorzi, i quali dimostrino che la superficie dei terreni da rimboschire non sia inferiore a 20 ettari, puo' essere accordata con decreto Reale la facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei soci.
 
 La domanda, accompagnata dal regolamento o statuto del consorzio, viene presentata al prefetto della Provincia che la rassegna al Ministro per l'economia nazionale colle sue osservazioni per la emanazione del decreto Reale.
 
-##### Art. 84
+###### Art. 84
 
 Non sono soggetti che ad un diritto fisso di registro di L. 10, ove non sia minore per legge, gli atti di costituzione, attuazione e primo stabilimento del consorzio e gli atti successivi che, per la durata di sei anni dalla data dell'atto costitutivo, occorrano per l'esecuzione dei lavori di rimboschimento.
 
-##### Art. 85
+###### Art. 85
 
 Per la durata di un triennio dall'entrata in vigore del presente decreto, il Ministero dell'economia nazionale, in base ad apposite convenzioni, e' autorizzato a concedere contributi ai consorzi di rimboschimento, nonche' a Provincie, Comuni e consorzi di Comuni, che assumano a proprio carico la gestione dei vivai forestali governativi, istituiti per la distribuzione gratuita di piantine forestali.
 
-## Sezione II. - Disposizioni particolari.
+#### Sezione II. - Disposizioni particolari.
 
-##### Art. 86
+###### Art. 86
 
 Per la Basilicata, le spese occorrenti per il rimboschimento e insaldamento dei terreni demaniali dello Stato e della Provincia e di quelli patrimoniali e demaniali ex-feudali dei Comuni, che fossero vincolati o vincolabili a norma del titolo I, capo I del presente decreto, e le spese necessarie per la ricostituzione dei boschi deteriorati di natura demaniale ex-feudale, e per la costruzione delle case di guardia, delle siepi e delle stradelle necessarie per l'impianto, la buona conservazione e la razionale utilizzazione dei nuovi boschi, sono a totale carico dello Stato.
 
@@ -682,17 +682,17 @@ Tutti i terreni rimboschiti a cura dello Stato, delle Provincie e dei Comuni, es
 
 A tale effetto il Ministero dell'economia nazionale provvedera', a suo tempo, al riparto della rendita netta di cui sopra, ai termini del regolamento.
 
-##### Art. 87
+###### Art. 87
 
 Le disposizioni dell'articolo precedente s'intendono estese anche alle provincie della Calabria per il rimboschimento e rinsaldamento dei terreni dei privati, acquistati od espropriati per essere rimboschiti o ridotti a pascolo, senza pero' che questi entrino a far parte del demanio forestale dello Stato.
 
 Della rendita netta dei terreni delle Provincie e dei Comuni sara' a quelle ed a questi attribuita una quota corrispondente alla rendita percepita precedentemente dai proprietari.
 
-##### Art. 88
+###### Art. 88
 
 In Sardegna i lavori di rimboschimento sui terreni ex-ademprivili, consegnati ai locali Ispettorati forestali, saranno eseguiti a cura e spese dello Stato.
 
-##### Art. 89
+###### Art. 89
 
 Le disposizioni generali contenute nel presente capo si estendono ai terreni compresi nella zona carsica, che, per effetto delle leggi provinciali dell'ex-Impero austro-ungarico, relative ad essi, erano destinati all'imboschimento.
 
@@ -704,13 +704,13 @@ Gl'imboschimenti nelle altre zone del territorio delle nuove Provincie, che attu
 
 ### CAPO I. - Esenzioni fiscali e contributi finanziari dello Stato.
 
-##### Art. 90
+###### Art. 90
 
 Gli Enti ed i privati che razionalmente e sotto la vigilanza dell'autorita' forestale compiano lavori di rimboschimento di terreni cespugliati, erbati o nudi, di loro appartenenza, siano o no sottoposti a vincolo godranno delle esenzioni fiscali di cui all'art.
 
 58\.
 
-##### Art. 91
+###### Art. 91
 
 Il Ministero dell'economia nazionale e' autorizzato ad accordare gratuitamente la direzione tecnica dei lavori per la formazione di nuovi boschi o per la ricostituzione di boschi estremamente deteriorati, nonche' contributi nella misura non superiore ai due terzi della relativa spesa, determinata insindacabilmente dall'Amministrazione forestale. ((6))
 
@@ -730,45 +730,45 @@ AGGIORNAMENTO (6)
 
 La L. 25 luglio 1952, n. 991 ha disposto (con l'art. 3, comma 4) che "I contributi di cui all'art. 91 del regio decreto 30 dicembre 1923, n. 3267, e all'art. 105 del regio decreto 26 maggio 1926, n. 1126, per la formazione di nuovi boschi, per la ricostruzione di boschi estraneamente deteriorati, per la formazione di boschi richiesti per la difesa di terreni o fabbricati e per la tutela delle condizioni igieniche, anche se non trattasi di terreni vincolati o vincolabili, vengono elevati al 75 per cento della spesa relativa".
 
-##### Art. 92
+###### Art. 92
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 13 FEBBRAIO 1933, N. 215))
 
-##### Art. 93
+###### Art. 93
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 13 FEBBRAIO 1933, N. 215))
 
-##### Art. 94
+###### Art. 94
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 13 FEBBRAIO 1933, N. 215))
 
-##### Art. 95
+###### Art. 95
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 13 FEBBRAIO 1933, N. 215))
 
-##### Art. 96
+###### Art. 96
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 13 FEBBRAIO 1933, N. 215))
 
-##### Art. 97
+###### Art. 97
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 13 FEBBRAIO 1933, N. 215))
 
-##### Art. 98
+###### Art. 98
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 13 FEBBRAIO 1933, N. 215))
 
-##### Art. 99
+###### Art. 99
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 13 FEBBRAIO 1933, N. 215))
 
-## CAPO II. - Istruzione, propaganda ed assistenza.
+### CAPO II. - Istruzione, propaganda ed assistenza.
 
-##### Art. 100
+###### Art. 100
 
 Il Ministero dell'economia nazionale provvede all'istruzione forestale, all'assistenza ed alla consulenza nel campo della silvicoltura, della pastorizia e della agricoltura montana ed in quello delle industrie forestali.
 
-##### Art. 101
+###### Art. 101
 
 L'istruzione forestale si distingue in superiore e secondaria.
 
@@ -776,21 +776,21 @@ L'Istruzione superiore e' impartita nel Regio istituto superiore agrario e fores
 
 L'istruzione secondaria e' impartita nelle Regie scuole agrarie medie, in conformita' di quanto e' stabilito nel R. decreto 30 dicembre 1923, n. 3214.
 
-##### Art. 102
+###### Art. 102
 
 Il Ministro per l'economia nazionale ha facolta'd'istituire borsa di studio presso l'Istituto superiore agrario e forestale e presso isituti analoghi dei paesi esteri.
 
-##### Art. 103
+###### Art. 103
 
 Nelle Provincie, nelle quali esiste una cattedra ambulante di agricoltura, il Ministro per l'economia nazionale ha facolta' di promuovere e sussidiare l'istituzione di speciali sezioni per la propaganda e l'assistenza nel campo della silvicoltura, della pastorizia e dell'agricoltura montana.
 
 Alle dette sezioni possono essere preposti coloro che hanno seguito il corso di studi presso il Regio istituto superiore agrario e forestale o i laureati in scienze agrarie che abbiano compiuto corsi di integrazione presso l'istituto anzidetto.
 
-##### Art. 104
+###### Art. 104
 
 ((ARTICOLO ABROGATO DALLA L. 14 GENNAIO 2013, N. 10))
 
-##### Art. 105
+###### Art. 105
 
 L'Amministrazione forestale presta gratuitamente l'assistenza e la consulenza ai silvicoltori ed agli industriali forestali principalmente pel conseguimento dei seguenti scopi:
 
@@ -806,7 +806,7 @@ Il Ministro per l'economia nazionale potra' inoltre concedere medaglie al merito
 
 ### CAPO I. - Azienda del demanio forestale di Stato.
 
-##### Art. 106
+###### Art. 106
 
 Il demanio forestale dello Stato e' formato:
 
@@ -820,15 +820,15 @@ d) dei terreni di patrimonio dello Stato ritenuti economicamente suscettibili de
 
 e) dei terreni boscati o suscettibili di coltura forestale che in qualsiasi modo perverranno allo Stato.
 
-##### Art. 107
+###### Art. 107
 
 I boschi e terreni che vengono comunque a formar parte del demanio forestale di Stato sono inalienabili e devono essere coltivati ed utilizzati secondo un regolare piano economico.
 
-##### Art. 108
+###### Art. 108
 
 E' istituita l'Azienda speciale del demanio forestale di Stato, per provvedere, mediante l'ampliamento della proprieta' boschiva dello Stato, alla formazione di riserve di legnami per i bisogni del Paese e per dare, con un razionale governo di essa, norma ed esempio ai silvicoltori nazionali.
 
-##### Art. 109
+###### Art. 109
 
 L'amministrazione dell'Azienda e' affidata al direttore generale delle foreste e dei demani ed al Comitato di amministrazione, composto:
 
@@ -852,13 +852,13 @@ Alle sedute del Comitato di amministrazione assiste il capo ragioniere del Minis
 
 Le funzioni di' segretario sono affidate ad un funzionario della Direzione generale delle foreste e dei demani.
 
-##### Art. 110
+###### Art. 110
 
 La Direzione generale delle foreste e dei demani ha alla diretta dipendenza gli uffici per l'amministrazione delle foreste demaniali, che provvedono alla gestione di una o piu' foreste costituenti un distretto.
 
 Nelle circoscrizioni in cui, per la scarsa importanza dei beni del demanio forestale, il Ministero dell'economia nazionale non ravvisi la convenienza di istituire appositi uffici di amministrazione, la gestione dei beni stessi e' affidata agli ispettori ripartimentali.
 
-##### Art. 111
+###### Art. 111
 
 Possono essere acquistati dal Ministero dell'economia nazionale, per essere incorporati al demanio forestale di Stato i terreni boscati, i pascoli e i prati di montagna.
 
@@ -874,13 +874,13 @@ d) le coste, il cui rimboschimento, per ragioni di bonifica igienica ed agraria 
 
 Fra i terreni di cui al presente articolo sono compresi quelli costituenti i demani comunali del Mezzogiorno e quelli di dominio collettivo nelle altre Provincie.
 
-##### Art. 112
+###### Art. 112
 
 Gli acquisti e le espropriazioni di cui nell'articolo precedente sono di volta in volta autorizzati con decreto motivato dal Ministro per l'economia nazionale.
 
 In caso di espropriazione di terreni appartenenti a Comuni o ad altri Enti morali, il Ministro suddetto, su conforme parere dell'autorita' tutoria, potra' disporre che l'indennita' sia corrisposta sotto forma di canone annuo.
 
-##### Art. 113
+###### Art. 113
 
 Il prezzo di espropriazione e' determinato con i criteri stabiliti dall'art 39 della legge 25 giugno 1865, n. 2359.
 
@@ -892,23 +892,23 @@ Sono parimenti rispettati i diritti derivanti da regolari permessi di ricerca.
 
 Nelle Provincie, nelle quali la legge attribuisce al proprietario della superficie anche la proprieta' dei minerali giacenti nel sottosuolo, sono rispettati, a beneficio dell'espropriato, gli utili derivanti dall'alienazione del diritto minerario, stipulata mediante regolare contratto scritto, debitamente registrato, ed e' mantenuto all'acquirente il diritto di estrazione dei minerali conformemente ai patti contrattuali.
 
-##### Art. 114
+###### Art. 114
 
 In caso di contestazione sul prezzo di espropriazione l'indennita' sara' valutata nei modi previsti dall'art. 21.
 
-##### Art. 115
+###### Art. 115
 
 Nel termine di trenta giorni dalla decisione arbitrale, menzionata nell'articolo 21, l'Amministrazione puo' recedere dall'espropriazione, assumendo le spese dell'arbitramento.
 
 Trascorso tale termine, l'Azienda depositera' nella Cassa dei depositi e prestiti le somme capitali e il canone risultanti dal lodo arbitrale e sara' immessa nel possesso dei beni espropriati, salvo la prosecuzione dei giudizi riguardanti l'indennita'.
 
-##### Art. 116
+###### Art. 116
 
 I boschi demaniali di Vallembrosa, Camaldoli e Boscolungo nell'Appennino toscano, quello del Consiglio nelle provincie di Belluno, Udine e Treviso, quelli della Sila nelle provincie di Catanzaro e Cosenza e quello di Ficuzza in provincia di Palermo, sono destinati principalmente a stazioni climatiche.
 
 Il piano economico, di cui all'art. 107, deve essere coordinato allo scopo anzidetto.
 
-##### Art. 117
+###### Art. 117
 
 E' data facolta' al Ministero dell'economia nazionale:
 
@@ -922,7 +922,7 @@ Le concessioni di aree potranno farsi soltanto sui terreni non boscosi, sui marg
 
 Anche i fabbricati demaniali possono essere compresi nelle concessioni, sempre che non siano necessari ai bisogni dell'Amministrazione.
 
-##### Art. 118
+###### Art. 118
 
 Le concessioni saranno fatte con le forme stabilite dalla legge sulla amministrazione e contabilita' generale dello Stato, e per una durata non maggiore di novanta anni, e dovranno essere accompagnate dalle condizioni necessarie per la conservazione della foresta.
 
@@ -930,27 +930,27 @@ I concessionari dovranno pagare le imposte e le sovrimposte, nonche' un canone a
 
 Scaduto il termine della concessione, la proprieta' degli immobili costruiti rimarra' acquisita allo Stato.
 
-##### Art. 119
+###### Art. 119
 
 In deroga alle disposizioni di cui all'art. 107 sulla inalienabilita' della proprieta' boschiva dello Stato, e' data facolta' al Ministero dell'economia nazionale di promuovere l'alienazione dei terreni amministrati dall'Azienda, che, per la loro natura, ubicazione e limitata estensione, non corrispondano ai fini previsti dall'art. 108 od a quelli di utilita' pubblica, di cui al titolo I del presente decreto, o non siano suscettivi d'importanti trasformazioni agrarie.
 
 E' pure data facolta' al Ministero suddetto di promuovere l'alienazione di piccoli appezzamenti nelle foreste demaniali, la cui cessione si riconosca necessaria per soddisfare esigenze locali di abitazione o di industria, sempre che tali alienazioni non riescano di pregiudizio alla foresta.
 
-##### Art. 120
+###### Art. 120
 
 Gli atti di alienazione dei terreni di cui all'articolo precedente sono approvati con decreto Reale motivato, su proposta del Ministro per l'economia nazionale, udito il Comitato di amministrazione dell'Azienda.
 
-##### Art. 121
+###### Art. 121
 
 Il ricavato delle vendite dei terrai di cui all'articolo precedente, sara' reimpiegato nell'acquisto di altri terreni, di cui all'articolo 111, comma 1° e 2° a).
 
-##### Art. 122
+###### Art. 122
 
 L'Azienda ha un bilancio proprio allegato al bilancio del Ministero dell'economia nazionale, in base a norme stabilite da apposito regolamento.
 
 Il conto consuntivo dell'Azienda, con la relativa deliberazione della Corte dei conti, sara' allegato in appendice al rendiconto generale dello Stato; e conterra' ogni triennio anche la dimostrazione dei risultati della gestione delle foreste demaniali.
 
-##### Art. 123
+###### Art. 123
 
 A costituire le entrate del bilancio dell'Azienda concorrono:
 
@@ -964,7 +964,7 @@ d) i redditi di eventuali dotazioni o lasciti;
 
 e) il ricavato di alienazioni di terreni del demanio forestale, autorizzato a norma di legge, e qualunque altro introito riguardante la gestione e la finalita' dell'Azienda.
 
-##### Art. 124
+###### Art. 124
 
 Presso la Cassa dei depositi e prestiti e' aperto un conto corrente fruttifero, al quale il Ministero dell'economia nazionale versera' ogni anno, in due rate, nei mesi di luglio e gennaio, tutti i fondi stanziati nel suo bilancio per il servizio forestale, tranne quelli relativi alle spese di personale.
 
@@ -994,7 +994,7 @@ AGGIORNAMENTO (4)
 
 La L. 5 gennaio 1933, n. 30 ha disposto (con l'art. 18, comma 1) che "Il provento delle oblazioni e pene pecuniarie pagate pei contravvenzioni forestali nelle foreste non amministrate dal la Azienda di Stato per le foreste demaniali, dedotto il premio destinato agli agenti scopritori e che non potra' mai superare il quarto, sara' versato in conto entrate dello Stato, anziche' affluire al conto corrente dell'Azienda del demanio forestale dello Stato a norma dell'art. 124, lettera e), del R. decreto 30 dicembre 1923, n. 3267".
 
-##### Art. 125
+###### Art. 125
 
 L'Azienda potra' anche ricorrere per anticipazioni e mutui agli Istituti che esercitano il credito fondiario e quello agrario e alle Casse di risparmio, che percio' sono autorizzati a fare operazioni di credito a favore dell'Azienda stessa. ((4))
 
@@ -1006,53 +1006,53 @@ AGGIORNAMENTO (4)
 
 La L. 5 gennaio 1933, n. 30 ha disposto (con l'art. 12, comma 1) che "Per l'acquisto di nuovi terreni e boschi, per le trasformazioni fondiarie ed altre opere straordinarie, l'Azienda di Stato per le foreste demaniali puo' ricorrere, per anticipazioni o mutui, oltre che agli Istituti di cui all'art. 125 del R. decreto 30 dicembre 1923, n. 3267, anche all'Istituto nazionale delle assicurazioni ed alla Cassa nazionale delle assicurazioni sociali".
 
-##### Art. 126
+###### Art. 126
 
 L'Azienda per ciascun esercizio finanziario dovra' versare al Tesoro, sui redditi di cui alla lettera a) dell'art. 124 la somma di L. 600,000; sui redditi di cui alla lettera b) la somma di L. 52,684.30, corrispondenti al provento medio accertato pel biennio 1908-09 e 1909-10 o sui redditi di cui alla lettera c) dello stesso articolo L. 3,000,000 nell'esercizio 1924-25, e la somma che sara' determinata con la legge del bilancio negli esercizi successivi.
 
 Qualora l'Azienda durante l'esercizio finanziario abbia riscosso per i redditi indicati alle lettere a), b) e c) dell'art. 124 somme rispettivamente inferiori a quelle da versare al Tesoro, dovra', alla fine di esso, versare per intero le sole somme effettivamente riscosse.
 
-##### Art. 127
+###### Art. 127
 
 Le somme corrispondenti alle entrate di cui all'art. 123 sono amministrate dall'azienda che, dedotti i contributi dovuti al Tesoro ai sensi dell'art. 126, provvede ai servizi contemplati dal presente decreto, anche mediante aperture di credito a favore dei funzionari indicati dal regolamento speciale di contabilita' dell'Azienda stessa.
 
-##### Art. 128
+###### Art. 128
 
 Sono eseguiti in economia i lavori di restaurazione, consolidamento coltura e governo delle foreste del demanio.
 
 L'Azienda ha tuttavia facolta' di eseguire in economia anche i tagli delle piante e l'allestimento mercantile dei prodotti, quest'ultimo con l'impianto di segherie ed altri, opifici, e di provvedere nello stesso modo ai mezzi di trasporto dei prodotti.
 
-##### Art. 129
+###### Art. 129
 
 Le Amministrazioni dello Stato sono autorizzate a stipulare con l'Azienda apposite convenzioni per la fornitura del legname loro occorrente.
 
-## CAPO II. - Patrimoni silvo-pastorali dei Comuni ed altri Enti.
+### CAPO II. - Patrimoni silvo-pastorali dei Comuni ed altri Enti.
 
-### Sezione I. - Disposizioni generali.
+#### Sezione I. - Disposizioni generali.
 
-##### Art. 130
+###### Art. 130
 
 I boschi appartenenti ai Comuni e ad altri Enti, escluse le societa' anonime, debbono essere utilizzati in conformita' di un piano economico approvato o, in caso di mancata presentazione del progetto, prescritto dal Comitato forestale.
 
 I piani suddetti, approvati o prescritti come sopra, saranno parificati a tutti gli effetti di legge alle prescrizioni di massima di cui all'art. 10.
 
-##### Art. 131
+###### Art. 131
 
 Degli incassi realizzati per tagli straordinari nei boschi degli Enti di cui al precedente articolo, l'Ispettorato forestale stabilira' la somma da impiegarsi in opere di miglioramento del patrimonio rustico degli Enti stessi.
 
-##### Art. 132
+###### Art. 132
 
 S'intendono per tagli straordinari tutti quelli che vengono eseguiti all'infuori delle prescrizioni dei piani economici, ove essi esistono, o che in genere superano la media delle utilizzazioni ordinarie fatte nell'ultimo decennio.
 
-##### Art. 133
+###### Art. 133
 
 La misura delle somme da prelevarsi, ai sensi dell'art. 131, sara' determinata caso per caso, tenuto conto dell'importanza dei tagli eseguiti e delle somme incassate, dell'estensione e dello stato dei boschi e delle condizioni finanziarie dell'Ente proprietario, in base ad un progetto sommario dei lavori da eseguirsi, approvato dal Comitato forestale. Tale importo non potra' tuttavia superare il 25 per cento del ricavato del taglio.
 
-##### Art. 134
+###### Art. 134
 
 Le somme cosi' fissate saranno depositate presso le tesorerie delle Provincie a disposizione dell'Amministrazione forestale, cui saranno consegnate, a misura del bisogno, con ordini di pagamento del prefetto della Provincia, al quale gli ispettori forestali daranno conto, a norma delle disposizioni vigenti sulla contabilita' dello Stato.
 
-##### Art. 135
+###### Art. 135
 
 I pascoli montani appartenenti agli Enti di cui all'art. 130 devono essere utilizzati in conformita' di apposite norme approvate o prescritte dal Comitato forestale.
 
@@ -1060,17 +1060,17 @@ Centro le disposizioni del Comitato e' ammesso ricorso al Ministero dell'economi
 
 Le infrazioni alle norme predette sono punite con l'ammenda fino a L. 200.
 
-##### Art. 136
+###### Art. 136
 
 Quando un pascolo montano appartiene in condominio a piu' proprietari, le norme stabilite, oltre che per l'amministrazione ed il godimento della cosa comune, anche per le migliorie, saranno valide per la minoranza dissenziente, quando siano state deliberate da coloro che rappresentano la maggioranza degli interessi ed almeno il terzo dei componenti la comunione.
 
-##### Art. 137
+###### Art. 137
 
 Il Ministero dell'economia nazionale potra' concedere contributi agli Enti di cui all'art. 130, che provvedano alla compilazione di piani economici per i boschi e di regolamenti per l'uso dei pascoli, allo scopo di conseguire un miglioramento del loro patrimonio silvo-pastorale.
 
 I contributi saranno commisurati all'importanza ed alla spesa di formazione dei detti piani e regolamenti, debitamente approvati.
 
-##### Art. 138
+###### Art. 138
 
 La vigilanza sull'applicazione dei piani economici dei patrimoni silvo-pastorali, di cui al presente capo, e' demandata all'ispettore forestale capo del ripartimento. E' pero' in facolta' degli Enti interessati di affidare a persone tecniche la compilazione dei progetti di taglio e vendita di piante, di utilizzazione dei prodotti boschivi, di affitto dei pascoli e degli altri terreni, nonche' dei progetti dei lavori di cui all'art. 133, e la redazione delle norme per l'esercizio del pascolo, di cui all'art. 135.
 
@@ -1078,11 +1078,11 @@ Uguale facolta' hanno gli Enti che abbiano provveduto alla formazione dei piani 
 
 Nel caso di gestione a cura dello Stato dei detti patrimoni, prevista dagli articoli 161 e seguenti, la vigilanza si estende a tutto il funzionamento dei distretti amministrativi compresi nella circoscrizione del ripartimento forestale.
 
-## Sezione II - Gestione dei patrimoni silvo-pastorali dei Comuni o di altri Enti cui appartengono.
+#### Sezione II - Gestione dei patrimoni silvo-pastorali dei Comuni o di altri Enti cui appartengono.
 
-### § 1. - Costituzione delle aziende speciali.
+##### § 1. - Costituzione delle aziende speciali.
 
-##### Art. 139
+###### Art. 139
 
 I Comuni possono provvedere alla gestione tecnica dei boschi e dei pascoli comunque loro appartenenti, mediante aziende speciali, da costituirsi nei modi stabiliti dal presente decreto, quando, tenuto conto dell'importanza economica di detti beni, tale forma di gestione si manifesti possibile e conveniente.
 
@@ -1090,13 +1090,13 @@ In tal caso essi godranno di un contributo, da parte dello Stato nella misura ch
 
 La misura del contributo e la durata, non inferiore a cinque anni, sono fissate con decreto del Ministro per l'economia nazionale.
 
-##### Art. 140
+###### Art. 140
 
 La costituzione dell'azienda dovra' essere deliberata dal Consiglio comunale nelle forme stabilite dall'art. 190 della legge comunale e provinciale.
 
 La relativa deliberazione dovra' essere sottoposta all'approvazione della Giunta provinciale amministrativa, sentito il parere del Comitato forestale.
 
-##### Art. 141
+###### Art. 141
 
 L'azienda e' retta da un regolamento speciale contenente tutte le norme per il suo funzionamento amministrativo, contabile e tecnico.
 
@@ -1104,7 +1104,7 @@ Salvo le disposizioni sancite dal presente decreto, detto regolamento dovra' anc
 
 Esso sara' approvato dalla Giunta provinciale amministrativa, udito il Comitato forestale, e dovra' essere comunicato al Ministero dell'economia nazionale.
 
-##### Art. 142
+###### Art. 142
 
 A sovraintendere all'azienda e' istituita una Commissione composta del presidente e di quattro membri, dei quali due effettivi e due supplenti, scelti dal Consiglio comunale, anche fuori del proprio seno, fra persone, in quanto sia possibile, tecnicamente competenti, purche' eleggibili a consiglieri comunali.
 
@@ -1114,7 +1114,7 @@ La direzione tecnica e' affidata a persona avente i requisiti di cui all'art. 15
 
 Le attribuzioni, sia della Commissione amministratrice, che del direttore tecnico, e la nomina di questi, saranno disciplinate dal regolamento per l'applicazione del presente decreto.
 
-##### Art. 143
+###### Art. 143
 
 Costituita l'azienda, dovra' essere provveduto alla preparazione del piano economico del patrimonio affidatole.
 
@@ -1126,7 +1126,7 @@ Nel caso che la redazione del piano economico richieda tempo e spese notevoli, p
 
 Decorso un anno dalla costituzione dell'azienda, nessun taglio di piante potra' essere fatto senza che vi sia almeno il piano economico sommario.
 
-##### Art. 144
+###### Art. 144
 
 Il bilancio preventivo ed il conto consuntivo devono essere sottoposti all'approvazione del Consiglio comunale.
 
@@ -1138,7 +1138,7 @@ La relativa deliberazione e' sottoposta all'approvazione della Giunta provincial
 
 Su proposta dello stesso Ispettorato, la quota da destinarsi ad opere di miglioramento potra' essere elevata d'ufficio dalla Giunta provinciale amministrativa fino al quarto del ricavato lordo, se si tratta di tagli straordinari.
 
-##### Art. 145
+###### Art. 145
 
 Per le alienazioni, le locazioni e gli appalti di cose ed opere saranno osservate le disposizioni della legge comunale e provinciale, intendendosi sostituita la Commissione al Consiglio comunale ed alla Giunta municipale e il presidente della Commissione al sindaco.
 
@@ -1150,73 +1150,73 @@ b) quando una evidente urgenza non permetta l'indugio degli incanti;
 
 c) quando trattisi dell'acquisto di materiali per la cui natura non e' possibile promuovere il concorso di pubbliche offerte.
 
-##### Art. 146
+###### Art. 146
 
 Quando vi siano fondati motivi per ritenere che la Commissione esplichi azione contraria alle norme di legge e pregiudichi gli interessi dell'azienda, il Consiglio comunale, su proposta motivata del prefetto o del sindaco, puo' deliberare lo scioglimento della Commissione. Tale deliberazione deve essere adottata con l'intervento di almeno i due terzi dei consiglieri assegnati al Comune e sottoposta alla approvazione della Giunta provinciale amministrativa, sentito il parere del Comitato forestale.
 
 Qualora si renda impossibile il funzionamento dell'azienda, per grave trascuratezza od abbandono da parte dei componenti la Commissione o per responsabilita' accertata a carico di questi, ed il Consiglio comunale ometta di deliberare, la Commissione puo' essere sciolta dal prefetto, su conforme parere della Giunta provinciale amministrativa e sentito il Comitato forestale.
 
-##### Art. 147
+###### Art. 147
 
 L'amministrazione temporanea dell'azienda, sara' affidata, in caso di scioglimento, alla Giunta municipale, la quale esercitera' i poteri della Commissione.
 
 Ove il Consiglio non provveda alla nomina della nuova Commissione nel termine di sessanta giorni dalla data di esecuzione della deliberazione o del decreto di scioglimento, il prefetto provvede d'ufficio alla nomina predetta.
 
-##### Art. 148
+###### Art. 148
 
 Il Consiglio comunale, con deliberazione motivata, puo' decidere la revoca dell'azienda o la gestione diretta del patrimonio.
 
 Tale deliberazione deve essere presa con le stesse norme stabilite per la costituzione dell'azienda ed approvata dalla Giunta provinciale amministrativa, udito il parere del Comitato forestale.
 
-##### Art. 149
+###### Art. 149
 
 Nella deliberazione di revoca devono essere indicate le modalita' per la liquidazione dell'azienda.
 
 Dalla data di esecutorieta' della deliberazione cessa il diritto a percepire il contributo statale di cui all'art. 139, salvo che il Comune mantenga un funzionario tecnico provvisto dei requisiti di cui all'art. 159.
 
-## § 2. - Aziende per la gestione dei domini collettivi.
+##### § 2. - Aziende per la gestione dei domini collettivi.
 
-##### Art. 150
+###### Art. 150
 
 Le Universita' agrarie, le Comunanze, le Partecipanze e le Societa' di antichi originari possono addivenire all'assunzione di personale tecnico e di custodia per la gestione dei propri boschi o pascoli quando la deliberazione sia presa da coloro che rappresentano la maggioranza degli interessi ed almeno il terzo dei componenti la comunione.
 
 La maggioranza cosi' formata puo' altresi' deliberare, impegnando la minoranza, la formazione di consorzi con altri corpi morali, per l'assunzione del personale in parola.
 
-##### Art. 151
+###### Art. 151
 
 L'assemblea generale dei partecipanti al condominio nominera' una Commissione amministrativa dell'azienda, determinandone le attribuzioni.
 
-##### Art. 152
+###### Art. 152
 
 Le norme stabilite, oltre che per l'amministrazione ed il godimento della cosa comune, anche per le migliorie, saranno valide per la minoranza dissenziente, quando abbiano ottenuto l'approvazione della maggioranza calcolata nel modo previsto dall'art. 150.
 
 Per la vendita dei prodotti, per il godimento dei beni comuni, nonche' per l'esecuzione delle opere di miglioramento e per la erogazione di somme, saranno osservate le norme stabilite dagli statuti della comunanza.
 
-## § 3. - Altre forme di gestione dei patrimoni silvo-pasorali dei Comuni e di altri Enti.
+##### § 3. - Altre forme di gestione dei patrimoni silvo-pasorali dei Comuni e di altri Enti.
 
-##### Art. 153
+###### Art. 153
 
 Il Ministro per l'economia nazionale, su relazione dell'Ispettorato forestale, puo' eccezionalmente accordare un contributo nella misura stabilita dall'art. 139 a quegli Enti che assumano personale tecnico per l'amministrazione del loro patrimonio silvo-pastorale, anche se non provvedano a costituire l'azienda speciale in conformita' delle disposizioni contenute nel presente decreto, purche' tale personale sia provvisto dei requisiti di cui all'art. 159.
 
-##### Art. 154
+###### Art. 154
 
 Gli Istituti e gli Enti riconosciuti dallo Stato, che si propongono opera di propaganda per il miglioramento del patrimonio silvo-pastorale nazionale possono essere autorizzati, con decreto del Ministro per l'economia nazionale, ad assumere la direzione delle aziende silvo-pastorali previste nel presente decreto, purche' si obblighino a disimpegnare le attribuzioni assegnate al direttore tecnico, mediante personale fornito dei requisiti prescritti dall'art. 159.
 
 In tal caso tra il Comune o l'Ente, cui appartegono i beni, e la legittima rappresentanza dell'Ente ed Istituto di propaganda, sara' stipulata un'apposita convenzione da sottoporsi all'approvazione del Comitato forestale e, nei riguardi degli Enti soggetti a tutela, anche della Giunta provinciale amministrativa.
 
-##### Art. 155
+###### Art. 155
 
 Piu' Comuni o piu' Enti morali, mantenendo separata la gestione dei rispettivi patrimoni silvo-pastorali, nella forma di economia od in quella dell'azienda speciale, possono costituirsi in consorzio per l'assunzione di un unico direttore per la gestione tecnica dei patrimoni stessi.
 
 Il consorzio puo' estendersi anche all'assunzione di personale di custodia.
 
-##### Art. 156
+###### Art. 156
 
 Costituito il consorzio, ogni Ente e' tenuto a farne parte per almeno un quinquennio e a dichiarare, almeno sei mesi prima della scadenza del predetto periodo, se intende rimanervi per un altro quinquennio.
 
 La mancanza della dichiarazione in tempo utile e' di diritto considerata come implicito consenso al mantenimento del consorzio.
 
-##### Art. 157
+###### Art. 157
 
 Il prefetto, nel caso di Comuni e di Enti morali appartenenti alla stessa Provincia, ed il Ministro per l'economia nazionale, nel caso di Comuni e di Enti morali appartenenti a piu' Provincie, possono, su proposta dei competenti Comitati forestali, costituire Consorzi obbligatori per provvedere alla direzione tecnica dei patrimoni silvo-pastorali limitrofi, determinandone la circoscrizione.
 
@@ -1234,7 +1234,7 @@ AGGIORNAMENTO (6)
 
 La L. 25 luglio 1952, n. 991 ha disposto (con l'art. 9, comma 1) che "Sono abrogate le norme procedurali dell'art. 157 del citato provvedimento".
 
-##### Art. 158
+###### Art. 158
 
 Il consorzio e' amministrato da una Commissione che provvede:
 
@@ -1244,9 +1244,9 @@ Il consorzio e' amministrato da una Commissione che provvede:
 
 3° alla nomina, conferma e licenziamento del personale consorziale.
 
-## § 4. - Personale direttivo.
+##### § 4. - Personale direttivo.
 
-##### Art. 159
+###### Art. 159
 
 La nomina del direttore tecnico puo' essere fatta per chiamata o in seguito a pubblico concorso tra le persone che posseggano il titolo di abilitazione professionale rilasciato dal Regio istituto superiore agrario e forestale o che abbiano appartenuto ai ruoli tecnici dell'Amministrazione forestale, purche' non ne siano stati radiati per ragioni disciplinari, incapacita' o scarso rendimento. ((6))
 
@@ -1256,13 +1256,13 @@ AGGIORNAMENTO (6)
 
 La L. 25 luglio 1952, n. 991 ha disposto (con l'art. 37, comma 1) che "Nel primo quinquennio successivo alla pubblicazione della presente legge, la nomina di direttore tecnico delle Aziende speciali e dei consorzi di prevenzione, di sistemazione e di bonifica montana puo' cadere anche su persone che, pur avendo requisiti di capacita', non possiedano il titolo indicato dall'art. 159 del regio decreto 30 dicembre 1923, n. 3267. Le dette persone acquisteranno la stabilita' soltanto dopo avere acquistato il titolo predetto".
 
-##### Art. 160
+###### Art. 160
 
 Il direttore, nell'esercizio delle attribuzioni a lui spettanti in dipendenza dal presente decreto e dal regolamento speciale dell'azienda, di cui all'art. 141, riveste, a tutti gli effetti di legge, la qualifica di pubblico ufficiale.
 
-## SEZIONE III. - Gestione a cura dello Stato dei patrimoni silvo-pastorali dei Comuni e degli altri Enti.
+#### SEZIONE III. - Gestione a cura dello Stato dei patrimoni silvo-pastorali dei Comuni e degli altri Enti.
 
-##### Art. 161
+###### Art. 161
 
 Allorche' il sistema della gestione separata dei boschi e dei pascoli dei Comuni, previsto dal § 1 della sezione II del presente capo, o quello della semplice assunzione di personale di cui all'art. 153 non abbia trovato applicazione, il Ministro per l'economia nazionale, sentito il Comitato forestale, o su proposta di esso o di qualcuno dei Comuni interessati, potra' costituire distretti amministrativi per la gestione dei beni stessi.
 
@@ -1270,37 +1270,37 @@ In tal caso la gestione potra' essere estesa anche a boschi e pascoli di altri E
 
 La costituzione del distretto non priva i Comuni della facolta' di provvedere alla gestione tecnica dei propri beni mediante aziende speciali.
 
-##### Art. 162
+###### Art. 162
 
 La circoscrizione dei distretti amministrativi, che puo' comprendere il territorio di piu' Comuni, sara' stabilita dal Ministro per l'economia nazionale, su proposta del Comitato forestale, tenuto conto dell'importanza economica dei boschi e pascoli e della forma di governo di cui nell'attualita' detti beni sieno suscettibili.
 
-##### Art. 163
+###### Art. 163
 
 I beni compresi nel distretto sono amministrati, nell'interesse degli Enti proprietari, con bilancio e conti distinti per ciascun Ente, da un funzionario del ruolo tecnico del corpo Reale delle foreste, il quale assume le funzioni del direttore tecnico e della Commissione amministratrice delle aziende speciali dei Comuni, di cui al § 1 della sezione II del presente capo.
 
 Alla sua diretta dipendenza e' posto il personale di custodia.
 
-##### Art. 164
+###### Art. 164
 
 Costituito il distretto amministrativo e nominato il direttore, questi dovra', nei modi ed entro il termine stabiliti dal regolamento, prendere in consegna dai capi delle amministrazioni degli Enti interessati i beni di natura boschiva e pascolativa sulla base di un inventario redatto a cura di ogni singola Amministrazione.
 
 Ove la consegna di detti beni non sia effettuata dalle Amministrazioni interessate nel termine prescritto, il capo del distretto si immettera' nel possesso di essi, previa compilazione di apposito verbale di consistenza, redatto in contradittorio di un commissario nominato dal Prefetto.
 
-##### Art. 165
+###### Art. 165
 
 Qualora i Comuni o gli altri Enti interessati alla migliore gestione dei propri boschi e dei propri pascoli non abbiano mezzi per la compilazione dei piani economici, potranno godere i benefici di cui all'art. 137.
 
-##### Art. 166
+###### Art. 166
 
 Le spese di amministrazione del distretto, comprese quelle per stipendi ed altri assegni al personale direttivo e di custodia, sono anticipate dall'Azienda del demanio forestale di Stato, che provvedera' al loro recupero a carico degli Enti interessati con le norme da stabilirsi dal regolamento.
 
 L'Azienda potra' limitare il rimborso delle spese per stipendi al personale direttivo e di custodia sino alla concorrenza della meta' del loro ammontare.
 
-##### Art. 167
+###### Art. 167
 
 Il reddito netto dei boschi e dei pascoli di ogni singolo Ente, quale risulta dal conto consuntivo, sara' ripartito con i criteri dettati dall'art. 144.
 
-##### Art. 168
+###### Art. 168
 
 Il Comune o l'Ente puo' deliberare di rinunziare ad ogni ingerenza nella gestione dei propri boschi e pascoli passati in amministrazione del distretto, dietro corresponsione da parte dell'Azienda del demanio forestale dello Stato di una somma annua fissa o variabile, secondo un piano convenuto tra l'Ente, cui i beni appartengono, e l'Azienda.
 
@@ -1308,13 +1308,13 @@ In tal caso la gestione di detti beni sara' regolata con le norme in vigore per 
 
 ## TITOLO V. - Diritti d'uso sui boschi e sui terreni vincolati.
 
-##### Art. 169
+###### Art. 169
 
 Niun diritto d'uso eccedente i limiti dell'art. 521 del Codice civile potra' essere concesso sui boschi e sui terreni vincolati.
 
 I diritti d'uso esistenti sui boschi e terreni suddetti possono essere affrancati.
 
-##### Art. 170
+###### Art. 170
 
 Ove altrimenti non disponessero le parti interessate, l'affrancazione si fara' mediante la cessione in proprieta', agli utenti, di una parte del bosco o delle terre gravate da diritti di uso, aventi un valore uguale a quello che si giudichi competere al diritto di uso che rimarne abolito, o mediante un compenso in denaro.
 
@@ -1322,7 +1322,7 @@ Nel caso che l'esercizio del pascolo o di altri diritti di uso sia riconosciuto 
 
 Le norme circa la procedura di affrancazione saranno stabilite nel regolamento.
 
-##### Art. 171
+###### Art. 171
 
 Ove i diritti di uso sieno esercitati da intere popolazioni o da parte di esse, la rappresentanza delle medesime, tanto nelle trattative e nelle convenzioni, quanto nei giudizi, verra' assunta dalle rispettive Amministrazioni municipali.
 
@@ -1330,11 +1330,11 @@ E' riservata in ogni caso ai singoli utenti la facolta' di far valere direttamen
 
 ## TITOLO VI. - Organi dell'Amministrazione forestale.
 
-##### Art. 172
+###### Art. 172
 
 La suprema vigilanza sull'applicazione delle norme contenute nel presente decreto e' affidata al Ministero dell'economia nazionale, che la esercita, a mezzo della Direzione generale delle foreste e dei demani, da cui dipende il corpo Reale delle foreste.
 
-##### Art. 173
+###### Art. 173
 
 Alla Direzione generale delle foreste e dei demani sono affidati pertanto i seguenti servizi:
 
@@ -1360,11 +1360,11 @@ k) gestione tecnica ed amministrativa delle foreste demaniali;
 
 l) ampliamento del demanio forestale di Stato.
 
-##### Art. 174
+###### Art. 174
 
 Organo consultivo tecnico del Ministero dell'economia nazionale in materia forestale e' la Sezione I del Consiglio superiore del Ministero stesso, di cui ai Regi decreti 6 settembre 1923, n. 2125, e 2 dicembre 1923, n. 2579.
 
-##### Art. 175
+###### Art. 175
 
 Il corpo Reale delle foreste e' costituito dal persontle tecnico, dal personale d'ordine e dal personale di custodia.
 
@@ -1372,19 +1372,19 @@ L'ordinamento e le attribuzioni di questi personali sono stabiliti da apposito p
 
 Gli agenti forestali sono considerati come ufficiali di polizia giudiziaria, ai termini del Codice di procedura penale e della legge di pubblica sicurezza.
 
-##### Art. 176
+###### Art. 176
 
 I provvedimenti relativi all'amministrazione del personale del corpo Reale delle foreste sono adottati sentito il parere di un Consiglio di amministrazione presieduto dal Ministro, oppure dal Sottosegretario di Stato, ovvero dal funzionario piu' elevato in grado o piu' anziano, e composto del direttore generale delle foreste e dei demani, del direttore capo della divisione del personale del Ministero, del direttore capo della divisione del personale forestale o del funzionario che ne fa le veci, purche' di grado non inferiore al settimo e di due ispettori superiori forestali, nominati per un biennio con decreto Ministeriale.
 
 I provvedimenti disciplinari relativi al detto personale sono adottati, su parere di apposita Commissione di disciplina, costituita a norma dell'art. 68 comma 3° del R. decreto 30 dicembre 1923, n. 2960.
 
-##### Art. 177
+###### Art. 177
 
 Le spese per il mantenimento del personale del corpo Reale delle foreste sono a carico dello Stato.
 
 Le Provincie concorrono alle spese per il servizio di sorveglianza per l'applicazione delle disposizioni del titolo I del presente decreto, secondo il consolidamento avvenuto a norma dell'art. 3 della legge 3 marzo 1912, n. 134.
 
-##### Art. 178
+###### Art. 178
 
 Il territorio del Regno e' diviso in ripartimenti, comprendenti due o piu' distretti.
 
@@ -1392,7 +1392,7 @@ Le foreste demaniali, costituite in uffici speciali, sono considerate distretti 
 
 Gli uffici di ripartimento sono retti da ispettori capi o da ispettori principali di 1ª classe; gli uffici distrettuali da ispettori principali di 1ª e 2ª classe o da ispettori.
 
-##### Art. 179
+###### Art. 179
 
 Per la sorveglianza e la custodia del patrimonio forestale il personale di custodia, composto di:
 
@@ -1404,11 +1404,11 @@ c) allievi sorveglianti,
 
 e' costituito in sezioni e distaccamenti di sezioni.
 
-##### Art. 180
+###### Art. 180
 
 Le circoscrizioni forestali sono stabilite con decreto del Ministro per l'economia nazionale.
 
-##### Art. 181
+###### Art. 181
 
 In ogni Provincia e' costituito un Comitato forestale composto:
 
@@ -1430,7 +1430,7 @@ Il regolamento stabilira' le norme per il funzionamento del Comitato o per la va
 
 ## TITOLO VII. - Disposizioni finali e transitorie.
 
-##### Art. 182
+###### Art. 182
 
 Nelle vecchie Provincie del Regno, fino a quando non sara' provveduto all'applicazione delle disposizioni contenute nel Titolo I, Capo I, del presente decreto, saranno osservate le norme vigenti relative ai boschi e terreni vincolati per scopi idrogeologici e per altri scopi e sara' vietata la trasformazione dei boschi non vincolati in altre qualita' di coltura, senza autorizzazione del Comitato forestale.
 
@@ -1440,17 +1440,17 @@ Nei casi di urgenza la sospensione delle utilizzazioni potra' essere ordinata da
 
 ((I contravventori incorreranno nelle pene comminate nel Titolo I, Capo II del presente decreto)).
 
-##### Art. 183
+###### Art. 183
 
 ((Nelle nuove Provincie, sino a quando non sara' provveduto alla pubblicazione delle prescrizioni di massima e delle disposizioni di polizia forestale, di cui all'art. 10, continueranno ad aver vigore le disposizioni generali e particolari vigenti alla data di applicazione del presente decreto e ad osservarsi le limitazioni, gli obblighi e le penalita' derivanti dalle disposizioni stesse per i proprietari e possessori di boschi e di terreni di montagna, e per i proprietari e possessori di terreni compresi nelle zone Carsiche e destinati ai lavori d'imboschimento.
 
 Dopo tale pubblicazione e sino a quando non sara' provveduto alla determinazione delle zone vincolate, a norma delle disposizioni contenute nel Titolo I Capo I, i boschi e terreni di cui al precedente comma s'intenderanno compresi, a tutti gli effetti del presente decreto, nelle dette zone)).
 
-##### Art. 184
+###### Art. 184
 
 Salvo quanto e' previsto dagli articoli 182 e 183, le disposizioni legislative in materia di boschi e di terreni di montagna, comprese quelle per le nuove Provincie e per la Basilicata, la Calabria e la Sardegna, vigenti fino all'entrata in vigore del presente decreto, si intendono abrogate.
 
-##### Art. 185
+###### Art. 185
 
 I Comitati forestali di cui all'art. 181, cesseranno dalle loro funzioni a mano a mano che nelle singole Provincie saranno istituiti i Consigli agrari provinciali, di cui al R. decreto 30 dicembre 1923, n. 3229.
 
@@ -1458,7 +1458,7 @@ Con la cessazione dalle loro funzioni, le attribuzioni deferite ad essi dal pres
 
 Entro sessanta giorni dall'entrata in vigore del presente decreto, nelle Provincie della Calabria, qualora non siano stati ancora Istituiti i Consigli agrari provinciali di cui al primo comma, saranno ricostituiti i Comitati forestali per assumere le funzioni che, relativamente alla materia regolata dal presente decreto, sono esercitate dalle Commissioni provinciali, di cui all'art. 67 della legge 25 giugno 1906, n. 255.
 
-##### Art. 186
+###### Art. 186
 
 A quanto occorre per l'esecuzione del presente decreto, sara' provveduto con regolamento da emanarsi con decreto Reale, su proposta del Ministro per l'economia nazionale, di concerto con i Ministri per l'interno, per le finanze, per i lavori pubblici, per la giustizia e gli affari di culto.
 

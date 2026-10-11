@@ -27,7 +27,7 @@ la seguente legge:
 
 ## AZIENDA AUTONOMA DELLE POSTE E DEI TELEGRAFI
 
-### Art. 1
+## Art. 1
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -52,7 +52,7 @@ zio finanziario predetto, in................. L. 114.405.547.834 - delle quali f
  --------------------
 ```
 
-### Art. 2
+## Art. 2
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -69,7 +69,7 @@ in........................................... L. 114.405.547.834 - delle quali f
  --------------------
 ```
 
-### Art. 3
+## Art. 3
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -82,7 +82,7 @@ nate in...................................... L. 24.808.151.103 - delle quali fu
  --------------------
 ```
 
-### Art. 4
+## Art. 4
 
 Le spese rimaste da pagare alla chiusura dell'esercizio 1953-54,
 
@@ -93,7 +93,7 @@ restano determinate in....................... L. 33.923.274.258 - delle quali fu
  --------------------
 ```
 
-### Art. 5
+## Art. 5
 
 I residui attivi alla chiusura dall'esercizio 1954-55 sono stabiliti nelle seguenti somme:
 
@@ -110,7 +110,7 @@ gli esercizi precedenti (articolo 3)......... " 1.017.747.996 -
  --------------------
 ```
 
-### Art. 6
+## Art. 6
 
 I residui passivi alla chiusura dell'esercizio 1954-55 sono stabiliti nelle seguenti somme:
 
@@ -129,7 +129,7 @@ sercizi precedenti (articolo 4).............. " 8.334.753.493
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Art. 7
+## Art. 7
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -156,7 +156,7 @@ delle quali furono riscosse.................. " 24.667.259.794 -
  --------------------
 ```
 
-### Art. 8
+## Art. 8
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -173,7 +173,7 @@ mo, sono stabilite in........................ L. 37.155.785.429 - delle quali fu
  --------------------
 ```
 
-### Art. 9
+## Art. 9
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -186,7 +186,7 @@ nate in...................................... L. 17.229.073.741 - delle quali fu
  --------------------
 ```
 
-### Art. 10
+## Art. 10
 
 Le spese rimaste da pagare alla chiusura
 
@@ -197,7 +197,7 @@ dell'esercizio 1953-54 restano determinate in L. 37.683.988.979 - delle quali fu
  --------------------
 ```
 
-### Art. 11
+## Art. 11
 
 I residui attivi alla chiusura dell'esercizio 1954-55 sono stabiliti nelle seguenti somme:
 
@@ -216,7 +216,7 @@ riepilogo dell'entrata)...................... " 1.872.557.862 -
  --------------------
 ```
 
-### Art. 12
+## Art. 12
 
 I residui passivi alla chiusura dell'esercizio 1954-55 sono stabiliti nelle seguenti somme:
 
@@ -235,7 +235,7 @@ sercizi precedenti (articolo 10)............. " 25.491.765.619 -
 
 ## AMMINISTRAZIONE DELLE FERROVIE DELLO STATO
 
-### Art. 13
+## Art. 13
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -262,7 +262,7 @@ sporti per l'esercizio predetto, in.......... L. 803.925.504.909 - delle quali f
  --------------------
 ```
 
-### Art. 14
+## Art. 14
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -283,7 +283,7 @@ lite in...................................... L. 803.925.504.909 - delle quali f
  --------------------
 ```
 
-### Art. 15
+## Art. 15
 
 Il riassunto generale dei risultati delle entrate e delle speso dell'Amministrazione delle Ferrovie dello Stato, di competenza dell'esercizio finanziario 1954-55, rimane cosi' stabilito:
 
@@ -319,7 +319,7 @@ ministrazioni del Tesoro..................... L. 76.104.300.000 -
  --------------------
 ```
 
-### Art. 16
+## Art. 16
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -332,7 +332,7 @@ nate in...................................... L. 102.426.207.316 - delle quali f
  --------------------
 ```
 
-### Art. 17
+## Art. 17
 
 Le spese rimaste da pagare alla chiusura
 
@@ -343,7 +343,7 @@ dell'esercizio 1953-54 restano determinate in L. 109.967.380.215 - delle quali f
  --------------------
 ```
 
-### Art. 18
+## Art. 18
 
 I residui attivi alla chiusura dell'esercizio 1954-55 sono stabiliti nelle seguenti somme:
 
@@ -360,7 +360,7 @@ gli esercizi precedenti (articolo 16)........ " 23.276.741.002 -
  --------------------
 ```
 
-### Art. 19
+## Art. 19
 
 I residui passivi alla chiusura dell'esercizio 1954-55 sono stabiliti nelle seguenti somme:
 
@@ -377,7 +377,7 @@ sercizi precedenti (articolo 17)............. " 58.129.153.428 -
  --------------------
 ```
 
-### Art. 20
+## Art. 20
 
 Sono approvate le eccedenze di impegni risultante in sede di consuntivo sul conto della competenza, ai capitoli dello stato di previsione della spesa dell'Amministrazione delle Ferrovie dello Stato, per l'esercizio finanziario 1954-55, come dal dettaglio che segue:
 

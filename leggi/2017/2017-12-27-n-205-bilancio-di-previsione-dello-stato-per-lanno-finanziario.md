@@ -28,9 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Parte I - Sezione I
+## Parte I
 
-### Misure quantitative per la realizzazione degli obiettivi - programmatici
+### Sezione I - Misure quantitative per la realizzazione degli obiettivi programmatici
 
 #### Art. 1
 
@@ -5001,9 +5001,9 @@ AGGIORNAMENTO (115)
 
 La Corte Costituzionale, con sentenza 13 aprile - 12 maggio 2026, n. 73 (in G.U. 1ª s.s. 13/05/2026, n. 19), ha dichiarato "l'illegittimita' costituzionale dell'art. 1, comma 1097, della legge 27 dicembre 2017, n. 205 (Bilancio di previsione dello Stato per l'anno finanziario 2018 e bilancio pluriennale per il triennio 2018-2020), nella parte in cui non prevede l'applicazione retroattiva della disciplina piu' favorevole da essa dettata in tema di violazione dell'obbligo del certificato di agibilita' per i lavoratori dello spettacolo".
 
-## Parte II - Sezione II
+## Parte II
 
-### Approvazione degli stati di previsione
+### Sezione II - Approvazione degli stati di previsione
 
 #### Art. 2
 

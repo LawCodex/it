@@ -56,9 +56,7 @@ Le Sezioni urbanistiche compartimentali promuovono, vigilano e coordinano l'atti
 
 ## TITOLO II - DISCIPLINA URBANISTICA
 
-### CAPO I
-
-#### MODI DI ATTUAZIONE
+### CAPO I - MODI DI ATTUAZIONE
 
 ##### Art. 4
 
@@ -66,7 +64,7 @@ Piani regolatori e norme sull'attivita' costruttiva.
 
 La disciplina urbanistica si attua a mezzo dei piani regolatori territoriali, dei piani regolatori comunali e delle norme sull'attivita' costruttiva edilizia, sancite dalla presente legge o prescritte a mezzo di regolamenti.
 
-## CAPO II - PIANI TERRITORIALI DI COORDINAMENTO
+### CAPO II - PIANI TERRITORIALI DI COORDINAMENTO
 
 ##### Art. 5
 
@@ -94,11 +92,9 @@ Il piano territoriale di coordinamento ha vigore a tempo indeterminato e puo' es
 
 I Comuni, il cui territorio sia compreso in tutto o in parte nell'ambito di un piano territoriale di coordinamento, sono tenuti ad uniformare a questo il rispettivo piano regolatore comunale.
 
-## CAPO III - PIANI REGOLATORI COMUNALI
+### CAPO III - PIANI REGOLATORI COMUNALI
 
-### Sezione 1
-
-#### Piani regolatori genera li
+#### Sezione 1 - Piani regolatori genera li
 
 ##### Art. 7
 
@@ -242,7 +238,7 @@ Deve inoltre essere comunicato ai podesta' degli stessi Comuni perche' deliberin
 
 Compiuta l'ulteriore istruttoria a norma del regolamento di esecuzione della presente legge, il piano intercomunale e' approvato negli stessi modi stabiliti dall'art. 10 per l'approvazione del piano generale comunale.
 
-## Sezione 2 - Piani regolatori particolareggiati
+#### Sezione 2 - Piani regolatori particolareggiati
 
 ##### Art. 13
 
@@ -420,7 +416,7 @@ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122
 
 Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 1 gennaio 2002 al 30 giugno 2003.
 
-## Sezione 3 - Norme per l'attuazione dei piani regolatori comunali
+#### Sezione 3 - Norme per l'attuazione dei piani regolatori comunali
 
 ##### Art. 18
 
@@ -770,7 +766,7 @@ Approvazione del piano finanziario.
 
 ((Il piano regolatore generale, agli effetti del primo comma dell'articolo 18, ed i piani particolareggiati previsti dall'articolo 13 sono corredati da una relazione di previsione di massima delle spese occorrenti per la acquisizione delle aree e per le sistemazioni generali necessarie per l'attuazione del piano)).
 
-## CAPO IV - NORME REGOLATRICI DELL'ATTIVITA' COSTRUTTIVA EDILIZIA
+### CAPO IV - NORME REGOLATRICI DELL'ATTIVITA' COSTRUTTIVA EDILIZIA
 
 ##### Art. 31
 

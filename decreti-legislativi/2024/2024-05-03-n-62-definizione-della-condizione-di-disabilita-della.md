@@ -96,7 +96,7 @@ il seguente decreto legislativo:
 
 ## Capo I - Finalita' e definizioni generali
 
-#### Art. 1
+### Art. 1
 
 Oggetto e finalita'
 
@@ -404,7 +404,7 @@ Oggetto e finalita'
 
 > \- Per la legge 3 marzo 2009, n. 18 si veda nelle note alle premesse.
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -450,7 +450,7 @@ p) «budget di progetto»: insieme delle risorse umane, professionali, tecnologi
 
 > 4\. La presente legge si applica anche agli stranieri e agli apolidi, residenti, domiciliati o aventi stabile dimora nel territorio nazionale. Le relative prestazioni sono corrisposte nei limiti ed alle condizioni previste dalla vigente legislazione o da accordi internazionali.»
 
-#### Art. 3
+### Art. 3
 
 Modifiche all'articolo 3
 
@@ -472,7 +472,7 @@ b) la rubrica e' sostituita dalla seguente: «Persona con disabilita' avente dir
 
 > Per il testo dell'articolo 3 della legge 5 febbraio 1992, n. 104 si veda nelle note all'art. 2.
 
-#### Art. 4
+### Art. 4
 
 Terminologia in materia di disabilita'
 
@@ -488,7 +488,7 @@ d) le parole: «disabile grave», ove ricorrono, sono sostituite dalle seguenti:
 
 ## Capo II - Procedimento valutativo di base e accomodamento ragionevole
 
-#### Art. 5
+### Art. 5
 
 Finalita', ambito, principi ed effetti
 
@@ -580,7 +580,7 @@ e) tempestivita', prossimita', efficienza e trasparenza.
 
 > Tali equipe integrate, nel rispetto di quanto previsto dal citato decreto del Presidente del Consiglio dei ministri 12 gennaio 2017 per la valutazione del complesso dei bisogni di natura clinica, funzionale e sociale delle persone, assicurano la funzionalita' delle unita' di valutazione multidimensionale (UVM) della capacita' bio-psico-sociale dell'individuo, anche al fine di delineare il carico assistenziale per consentire la permanenza della persona in condizioni di non autosufficienza nel proprio contesto di vita in condizioni di dignita', sicurezza e comfort, riducendo il rischio di isolamento sociale e il ricorso ad ospedalizzazioni non strettamente necessarie. Sulla base della valutazione dell'UVM, con il coinvolgimento della persona in condizioni di non autosufficienza e della sua famiglia o dell'amministratore di sostegno, l'equipe integrata procede alla definizione del progetto di assistenza individuale integrata (PAI), contenente l'indicazione degli interventi modulati secondo l'intensita' del bisogno. Il PAI individua altresi' le responsabilita', i compiti e le modalita' di svolgimento dell'attivita' degli operatori sanitari, sociali e assistenziali che intervengono nella presa in carico della persona, nonche' l'apporto della famiglia e degli altri soggetti che collaborano alla sua realizzazione. La programmazione degli interventi e la presa in carico si avvalgono del raccordo informativo, anche telematico, con l'INPS.».
 
-#### Art. 6
+### Art. 6
 
 Procedimento per la valutazione di base
 
@@ -612,7 +612,7 @@ Procedimento per la valutazione di base
 
 > Per l'articolo 130 del decreto legislativo 31 marzo 1998, n. 112 si veda nelle note alle premesse.
 
-#### Art. 7
+### Art. 7
 
 Efficacia provvisoria anticipata
 
@@ -632,7 +632,7 @@ della valutazione di base
 
 > I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione.»
 
-#### Art. 8
+### Art. 8
 
 Certificato medico introduttivo
 
@@ -654,7 +654,7 @@ d) il decorso e la prognosi delle eventuali patologie riscontrate.
 
 5\. Il certificato medico introduttivo ai fini della valutazione di base e' inserito, con la trasmissione all'INPS, anche nel fascicolo sanitario elettronico.
 
-#### Art. 9
+### Art. 9
 
 Procedura valutativa di base, soggetto unico, svolgimento, composizione e funzionamento delle unita' di valutazione di base
 
@@ -704,7 +704,7 @@ La L. 30 dicembre 2024, n. 207, ha disposto (con l'art. 1, comma 232) che "Per l
 
 Ha inoltre disposto (con l'art. 1, comma 233) che "L'autorizzazione di spesa di cui all'articolo 9, comma 7, primo periodo, del decreto legislativo 3 maggio 2024, n. 62, e' ridotta di 20 milioni di euro per l'anno 2025".
 
-#### Art. 10
+### Art. 10
 
 Procedimento valutativo di base
 
@@ -726,7 +726,7 @@ f) la valutazione del livello delle necessita' di sostegno, lieve o medio, o di 
 
 2\. Il riconoscimento della condizione di disabilita' per i minori e' effettuato ai sensi del comma 1 e comprende, per la valutazione di cui alla lettera e) del medesimo comma, i domini relativi all'apprendimento, anche scolastico.
 
-#### Art. 11
+### Art. 11
 
 Adozione della classificazione ICF ed ICD e loro aggiornamenti ai fini dello svolgimento della valutazione di base
 
@@ -734,7 +734,7 @@ Adozione della classificazione ICF ed ICD e loro aggiornamenti ai fini dello svo
 
 2\. Con decreto del Ministro della salute, di concerto con i Ministri dell'economia e delle finanze, del lavoro e delle politiche sociali e con l'Autorita' politica delegata in materia di disabilita', previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono disposte le modalita' di applicazione degli aggiornamenti della Classificazione internazionale del funzionamento, della disabilita' e della salute (ICF).
 
-#### Art. 12
+### Art. 12
 
 Aggiornamento delle definizioni, dei criteri e delle modalita' di accertamento e di valutazione di base, a seguito dell'adozione delle classificazioni ICD e ICF
 
@@ -766,7 +766,7 @@ m) gli eccezionali casi in cui il richiedente puo' chiedere l'accertamento sulla
 
 3\. Con il medesimo decreto di cui al comma 1, in relazione a quanto previsto dall'articolo 5, comma 1, lettera e), sono stabilite le modalita' per ricondurre l'accertamento della condizione di disabilita' in eta' evolutiva ai fini scolastici di cui all'articolo 5 del decreto legislativo 13 aprile 2017, n. 66, all'interno del procedimento per la valutazione di base.
 
-#### Art. 13
+### Art. 13
 
 Valore polifunzionale del certificato che attesta la condizione di disabilita' e semplificazione delle procedure di erogazione
 
@@ -774,7 +774,7 @@ Valore polifunzionale del certificato che attesta la condizione di disabilita' e
 
 2\. All'attuazione del presente articolo si provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-#### Art. 14
+### Art. 14
 
 Fattori incidenti sull'intensita' dei sostegni
 
@@ -784,7 +784,7 @@ sopravvenuti alla valutazione di base
 
 2\. Nei casi di cui al comma 1, nonche' in presenza di sopravvenuti fattori incidenti sulle durature compromissioni, resta ferma per i soggetti di cui all'articolo 6, comma 1, la possibilita' di richiedere una valutazione di base.
 
-#### Art. 15
+### Art. 15
 
 Obblighi di informazione alla persona con disabilita'
 
@@ -796,7 +796,7 @@ Obblighi di informazione alla persona con disabilita'
 
 4\. Fermo restando quanto previsto al comma 1, i punti unici di accesso, nonche' i servizi sociali, sociosanitari e sanitari territoriali, che entrano in contatto a qualsiasi titolo con la persona con disabilita' la informano del diritto ad attivare un procedimento volto all'elaborazione del progetto di vita, individuale, personalizzato e partecipato. E' fatto obbligo di prestare le medesime informazioni in capo a chi opera dimissioni protette e ai servizi sanitari specialistici. Le modalita' con cui dare attuazione a quanto previsto dal presente comma sono individuate nell'ambito della programmazione regionale e locale.
 
-#### Art. 16
+### Art. 16
 
 Interoperabilita' tra le banche dati sugli elementi relativi al procedimento valutativo di base
 
@@ -806,7 +806,7 @@ Interoperabilita' tra le banche dati sugli elementi relativi al procedimento val
 
 3\. All'attuazione delle disposizioni di cui al presente articolo si provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri a carico della finanza pubblica.
 
-#### Art. 17
+### Art. 17
 
 Accomodamento ragionevole
 
@@ -836,11 +836,9 @@ Accomodamento ragionevole
 
 12\. All'attuazione delle disposizioni di cui al presente articolo si provvede nei limiti delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri a carico della finanza pubblica.».
 
-## Capo III - Valutazione multidimensionale e progetto di vita individuale
+## Capo III - Valutazione multidimensionale e progetto di vita individuale personalizzato e partecipato
 
-### personalizzato e partecipato
-
-#### Art. 18
+### Art. 18
 
 Progetto di vita
 
@@ -866,7 +864,7 @@ Le persone con disabilita' di cui alla legge 5 febbraio 1992, n. 104, possono ri
 
 > «255. Si definisce caregiver familiare la persona che assiste e si prende cura del coniuge, dell'altra parte dell'unione civile tra persone dello stesso sesso o del convivente di fatto ai sensi della legge 20 maggio 2016, n. 76, di un familiare o di un affine entro il secondo grado, ovvero, nei soli casi indicati dall'articolo 33, comma 3, della legge 5 febbraio 1992, n. 104, di un familiare entro il terzo grado che, a causa di malattia, infermita' o disabilita', anche croniche o degenerative, non sia autosufficiente e in grado di prendersi cura di se', sia riconosciuto invalido in quanto bisognoso di assistenza globale e continua di lunga durata ai sensi dell'articolo 3, comma 3, della legge 5 febbraio 1992, n. 104, o sia titolare di indennita' di accompagnamento ai sensi della legge 11 febbraio 1980, n. 18.»
 
-#### Art. 19
+### Art. 19
 
 Coordinamento, contestualita'
 
@@ -912,7 +910,7 @@ e integrazione nel progetto di vita
 
 > l-ter) a disciplinare, allo scopo di garantire il diritto ad una vita indipendente alle persone con disabilita' permanente e grave limitazione dell'autonomia personale nello svolgimento di una o piu' funzioni essenziali della vita, non superabili mediante ausili tecnici, le modalita' di realizzazione di programmi di aiuto alla persona, gestiti in forma indiretta, anche mediante piani personalizzati per i soggetti che ne facciano richiesta, con verifica delle prestazioni erogate e della loro efficacia.»
 
-#### Art. 20
+### Art. 20
 
 Liberta' di scelta sul luogo di abitazione
 
@@ -922,7 +920,7 @@ e continuita' dei sostegni
 
 2\. Al fine di dare attuazione al comma 1, i soggetti competenti alla realizzazione del progetto di vita assicurano la continuita' dei sostegni, degli interventi e delle prestazioni individuati, anche in caso di modifiche del luogo di abitazione della persona con disabilita', tenendo conto della specificita' del contesto, salvo il caso dell'impossibilita' di assicurare, in termini di appropriatezza, l'intensita' degli interventi o la qualita' specialistica necessaria.
 
-#### Art. 21
+### Art. 21
 
 Supporti per le manifestazioni di volonta' della persona con disabilita' nel procedimento di valutazione multidimensionale
 
@@ -932,7 +930,7 @@ Supporti per le manifestazioni di volonta' della persona con disabilita' nel pro
 
 3\. All'attuazione delle disposizioni del presente articolo si provvede nei limiti delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-#### Art. 22
+### Art. 22
 
 Supporto per la partecipazione al procedimento
 
@@ -942,7 +940,7 @@ Supporto per la partecipazione al procedimento
 
 3\. In fase di riordino e di unificazione delle unita' di valutazione multidimensionale ai sensi dell'articolo 24, commi 4, 5 e 6, fermo restando quanto previsto dall'articolo 34, comma 2, sono stabilite le modalita' con le quali le medesime unita' garantiscono, con il proprio personale, il supporto di cui al comma 1, qualora la persona con disabilita' non ne scelga un'altra, fermo quanto previsto dall'articolo 34, comma 2.
 
-#### Art. 23
+### Art. 23
 
 Avvio del procedimento per la formazione
 
@@ -1034,7 +1032,7 @@ d) la data entro cui termina il procedimento per la redazione del progetto di vi
 
 > 4\. L'omissione di taluna delle comunicazioni prescritte puo' esser fatta valere solo dal soggetto nel cui interesse la comunicazione e' prevista.»
 
-#### Art. 24
+### Art. 24
 
 Unita' di valutazione multidimensionale
 
@@ -1140,7 +1138,7 @@ e) l'individuazione dei servizi, degli interventi e delle prestazioni di cui all
 
 > \- Il Decreto del Ministero della Salute del 23 maggio 2022 n. 7, «Regolamento recante la definizione di modelli e standard per lo sviluppo dell'assistenza territoriale nel Servizio sanitario nazionale» pubblicato nella Gazzetta Ufficiale 22 giugno 2022, n. 144.
 
-#### Art. 25
+### Art. 25
 
 Valutazione multidimensionale
 
@@ -1164,7 +1162,7 @@ d) definisce gli obiettivi da realizzare con il progetto di vita, partendo dal c
 
 > \- Per l'articolo 5, comma 4, del decreto legislativo 13 aprile 2017, n. 66, si veda nelle note alle premesse.
 
-#### Art. 26
+### Art. 26
 
 Forma e contenuto del progetto di vita
 
@@ -1212,7 +1210,7 @@ h) il dettaglio e l'insieme delle risorse umane, professionali, tecnologiche, st
 
 > \- Il decreto del Presidente del Consiglio dei ministri 12 gennaio 2017, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 65 del 18 marzo 2017, concernente la definizione dei livelli essenziali di assistenza nel settore sanitario.
 
-#### Art. 27
+### Art. 27
 
 Portabilita' del progetto di vita.
 
@@ -1338,7 +1336,7 @@ Continuita' e non regressione
 
 > 2\) ad accedere inoltre, su richiesta, agli interventi e alle prestazioni specificamente previsti per le persone anziane e le persone anziane non autosufficienti, senza necessita' di richiedere l'attivazione di un nuovo percorso di accertamento della non autosufficienza e, se gia' esistente, della valutazione multidimensionale, attraverso la redazione del PAI che integra il progetto individuale previsto dalla legge 22 dicembre 2021, n. 227.»
 
-#### Art. 28
+### Art. 28
 
 Budget di progetto
 
@@ -1400,7 +1398,7 @@ Budget di progetto
 
 > \- Per il decreto del Presidente del Consiglio dei ministri 12 gennaio 2017 pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 65 del 18 marzo 2017, si veda nelle note all'articolo 26.
 
-#### Art. 29
+### Art. 29
 
 Referente per l'attuazione del progetto di vita
 
@@ -1418,7 +1416,7 @@ e) richiedere la convocazione dell'unita' di valutazione multidimensionale al fi
 
 2\. All'attuazione delle disposizioni del presente articolo si provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri per la finanza pubblica.
 
-#### Art. 30
+### Art. 30
 
 Coordinamento per l'integrazione delle programmazioni
 
@@ -1476,7 +1474,7 @@ sociali e sanitarie nazionali e regionali
 
 > Le amministrazioni interessate provvedono all'attuazione del presente comma con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.»
 
-#### Art. 31
+### Art. 31
 
 Fondo per l'implementazione dei progetti di vita
 
@@ -1486,7 +1484,7 @@ Fondo per l'implementazione dei progetti di vita
 
 3\. Le risorse del Fondo, che costituiscono comunque un limite di spesa per l'attuazione delle finalita' di cui al presente articolo, sono integrative e aggiuntive rispetto alle risorse gia' destinate a legislazione vigente per le prestazioni e ai servizi in favore delle persone con disabilita' che confluiscono nel budget di progetto.
 
-#### Art. 32
+### Art. 32
 
 Misure di formazione
 
@@ -1508,7 +1506,7 @@ Il D.L. 14 marzo 2025, n. 25, convertito con modificazioni dalla L. 9 maggio 202
 
 ## Capo IV - Disposizioni finanziarie, transitorie e finali
 
-#### Art. 33
+### Art. 33
 
 Fase di sperimentazione
 
@@ -1524,11 +1522,11 @@ Fase di sperimentazione
 
 5\. Alle istanze di accertamento della condizione di disabilita', presentate nei territori coinvolti dalla sperimentazione entro la data del 31 dicembre 2024, si applicano le previgenti disposizioni.
 
-#### Art. 33-bis - Semplificazione dei procedimenti di accertamento sanitario per l'invalidita' e l'inabilita'
+### Art. 33-bis - Semplificazione dei procedimenti di accertamento sanitario per l'invalidita' e l'inabilita'
 
 1\. In caso di contestuale presentazione di istanze per gli accertamenti di invalidita' civile, cecita' civile, sordita', sordocecita' e disabilita' ai sensi della legge 5 febbraio 1992, n. 104, e della legge 12 marzo 1999, n. 68, nonche' di invalidita' e inabilita' di cui agli articoli 1, 2, 5 e 6 della legge 12 giugno 1984, n. 222, e all'articolo 1, comma 8, del decreto legislativo 30 dicembre 1992, n. 503, a decorrere dal 1° gennaio 2025 fino al ((31 dicembre 2026)), l'INPS e' tenuto a effettuare l'accertamento dei requisiti sanitari in un'unica visita, integrando, ove necessario, la composizione della commissione medica competente. Le disposizioni del primo periodo si applicano anche alle visite di revisione delle prestazioni gia' riconosciute, programmate dal 1° gennaio 2025 al ((31 dicembre 2026)), a condizione che l'intervallo temporale tra i due accertamenti non sia superiore a tre mesi.
 
-#### Art. 34
+### Art. 34
 
 Disposizioni finanziarie
 
@@ -1542,7 +1540,7 @@ Disposizioni finanziarie
 
 > «178. Il Fondo per la disabilita' e la non autosufficienza di cui all'articolo 1, comma 330, della legge 27 dicembre 2019, n. 160, a decorrere dal 1° gennaio 2022 e' denominato «Fondo per le politiche in favore delle persone con disabilita' » ed e' trasferito presso lo stato di previsione del Ministero dell'economia e delle finanze, al fine di dare attuazione a interventi legislativi in materia di disabilita' finalizzati al riordino e alla sistematizzazione delle politiche di sostegno alla disabilita' di competenza dell'Autorita' politica delegata in materia di disabilita'. A tal fine, il predetto Fondo e' incrementato di 50 milioni di euro annui per ciascuno degli anni dal 2023 al 2026.»
 
-#### Art. 35
+### Art. 35
 
 Principio di non regressione e tutela dei diritti acquisiti.
 
@@ -1556,7 +1554,7 @@ Disposizioni transitorie e finali
 
 4\. Il diritto a richiedere l'elaborazione del progetto di vita e' riconosciuto anche in favore di coloro che sono in possesso di una certificazione ai sensi della legge 5 febbraio 1992, n. 104, rilasciata prima della data del ((1° gennaio 2027)), senza effettuare la valutazione di base. Ai procedimenti per il progetto individuale di cui all'articolo 14 della legge 8 novembre 2000, n. 328 in corso alla data del ((1° gennaio 2027)) si applicano le disposizioni del Capo III, senza preventiva valutazione di base.
 
-#### Art. 36
+### Art. 36
 
 Utilizzo del fascicolo sanitario elettronico per il riconoscimento di prestazioni assistenziali e previdenziali e del Sistema informativo unitario dei servizi sociali
 
@@ -1576,7 +1574,7 @@ Utilizzo del fascicolo sanitario elettronico per il riconoscimento di prestazion
 
 > Per l'articolo 12, comma 2, del decreto-legge 18 ottobre 2012, n. 179, si veda nelle note all'articolo 16.
 
-#### Art. 37
+### Art. 37
 
 Procedure volte alla proposta di determinazione
 
@@ -1696,7 +1694,7 @@ dei livelli essenziali delle prestazioni
 
 > 801-bis. La Cabina di regia di cui al comma 792 e, se nominato, il Commissario di cui al comma 797 possono avvalersi, senza nuovi o maggiori oneri a carico della finanza pubblica, del Nucleo PNRR Stato-Regioni di cui all'articolo 33 del decreto-legge 6 novembre 2021, n. 152, convertito, con modificazioni, dalla legge 29 dicembre 2021, n. 233.».
 
-#### Art. 38
+### Art. 38
 
 Clausola di salvaguardia
 
@@ -1704,7 +1702,7 @@ Clausola di salvaguardia
 
 2\. Resta fermo che nelle province autonome di Trento e di Bolzano il procedimento valutativo di base e' assicurato ai sensi dei rispettivi ordinamenti e che alle funzioni attribuite dal presente decreto all'INPS provvedono le medesime province.
 
-#### Art. 39
+### Art. 39
 
 Abrogazioni
 
@@ -1720,7 +1718,7 @@ d) l'articolo 10, commi 4, 4-bis e 5, del decreto-legge 31 maggio 2010, n. 78, c
 
 e) l'articolo 18, comma 22, del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111.
 
-#### Art. 40
+### Art. 40
 
 Entrata in vigore
 

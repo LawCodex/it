@@ -25,15 +25,15 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 E' approvato lo statuto dell'Organizzazione mondiale del turismo (OMT) con le allegate regole di finanziamento, adottato a Citta' del Messico il 27 settembre 1970.
 
-### Art. 2
+## Art. 2
 
 Piena ed intera esecuzione e' data all'atto internazionale di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 36 dello statuto stesso.
 
-### Art. 3
+## Art. 3
 
 All'onere derivante dall'attuazione della presente legge nell'anno finanziario 1976, valutato in lire 50 milioni, si provvede mediante riduzione del fondo speciale di cui al capitolo 6856 dello stato di previsione della spesa del Ministero del tesoro per l'anno medesimo.
 
@@ -53,7 +53,7 @@ Visto, il Guardasigilli: BONIFACIO
 
 ## Allegati
 
-### Statuts
+## Statuts
 
 ORGANISATION MONDIALE DU TOURISME
 
@@ -75,7 +75,7 @@ ORGANIZZAZIONE MONDIALE DEL TURISMO
 
 STATUTO
 
-### ARTICOLO 1
+## ARTICOLO 1
 
 L'Organizzazione mondiale del turismo, denominata
 
@@ -83,7 +83,7 @@ L'Organizzazione mondiale del turismo, denominata
 
 ## SEDE
 
-### ARTICOLO 2
+## ARTICOLO 2
 
 La sede dell'Organizzazione e' determinata ed eventualmente
 
@@ -91,7 +91,7 @@ cambiata in qualsiasi momento su decisione dell'Assemblea generale.
 
 ## SCOPI
 
-### ARTICOLO 3
+## ARTICOLO 3
 
 1\. Obiettivo fondamentale dell'Organizzazione e' di promuovere e
 
@@ -107,7 +107,7 @@ svolgere nel campo del turismo l'Organizzazione instaurera' e manterra' una effi
 
 ## MEMBRI
 
-### ARTICOLO 4
+## ARTICOLO 4
 
 La qualita' di Membro dell'Organizzazione sara' accessibile a:
 
@@ -117,7 +117,7 @@ b) Membri associati;
 
 c) Membri affiliati.
 
-### ARTICOLO 5
+## ARTICOLO 5
 
 1\. La qualita' di Membro effettivo dell'Organizzazione e'
 
@@ -131,7 +131,7 @@ effettivi dell'UIOOT, alla data di adozione del presente Statuto da parte dell'A
 
 dell'Organizzazione se la loro candidatura e' approvata dall'Assemblea generale a maggioranza di due terzi dei Membri effettivi presenti e volanti sotto riserva che detta maggioranza comprenda la maggioranza dei Membri effettivi dell'Organizzazione.
 
-### ARTICOLO 6
+## ARTICOLO 6
 
 1\. La qualita' di Membro associato dell'Organizzazione e'
 
@@ -147,7 +147,7 @@ associati dell'Organizzazione se la loro candidatura ottiene l'approvazione prev
 
 responsabile della condotta delle proprie relazioni con l'estero ha diritto di diventare Membro effettivo dell'Organizzazione mediante una dichiarazione formale scritta, con la quale notifica al Segretario generale che adotta lo Statuto dell'Organizzazione e che accetta gli obblighi inerenti alla qualita' di Membro effettivo.
 
-### ARTICOLO 7
+## ARTICOLO 7
 
 1\. La qualita' di Membro affiliato dell'Organizzazione e'
 
@@ -173,7 +173,7 @@ stabilisce il proprio regolamento sottoposto all'approvazione dell'Assemblea. Il
 
 ## ORGANI
 
-### ARTICOLO 8
+## ARTICOLO 8
 
 1\. Gli organi dell'Organizzazione sono i seguenti:
 
@@ -189,7 +189,7 @@ c) il Segretariato.
 
 ## ASSEMBLEA GENERALE
 
-### ARTICOLO 9
+## ARTICOLO 9
 
 1\. L'Assemblea generale e' l'organo supremo dell'Organizzazione;
 
@@ -201,7 +201,7 @@ essa e' composta di delegati rappresentanti i Membri effettivi.
 
 concorrenza di tre osservatori e ciascun Membro affiliato puo' nominare un osservatore per partecipare ai lavori dell'Assemblea.
 
-### ARTICOLO 10
+## ARTICOLO 10
 
 L'Assemblea si riunisce in sessione ordinaria ogni due anni e,
 
@@ -209,11 +209,11 @@ inoltre, in sessione straordinaria quando le circostanze lo richiedano.
 
 Le sessioni straordinarie possono essere convocate su domanda del Consiglio o della maggioranza dei Membri effettivi dell'Organizzazione.
 
-### ARTICOLO 11
+## ARTICOLO 11
 
 L'Assemblea adotta il proprio regolamento.
 
-### ARTICOLO 12
+## ARTICOLO 12
 
 L'Assemblea puo' esaminare qualsiasi questione e formulare
 
@@ -265,7 +265,7 @@ o) pronunciarsi, in conformita' al presente Statuto, sulle
 
 domande di ammissione alla qualita' di Membro.
 
-### ARTICOLO 13
+## ARTICOLO 13
 
 1\. L'Assemblea elegge il suo Presidente e i suoi Vice presidenti
 
@@ -283,7 +283,7 @@ delle sessioni di quest'ultima.
 
 ## CONSIGLIO ESECUTIVO
 
-### ARTICOLO 14
+## ARTICOLO 14
 
 1\. Il Consiglio e' composto da Membri effettivi eletti
 
@@ -297,25 +297,25 @@ dell'Organizzazione, puo' partecipare ai lavori del Consiglio, senza diritto di 
 
 partecipare ai lavori del Consiglio, senza diritto di voto.
 
-### ARTICOLO 15
+## ARTICOLO 15
 
 Il mandato dei membri eletti dal Consiglio dura quattro anni, ad
 
 eccezione di quello della meta' dei membri del primo Consiglio, designati per estrazione a sorte, che dura due anni. Si procedera' ogni due anni all'elezione della meta' dei membri del Consiglio.
 
-### ARTICOLO 16
+## ARTICOLO 16
 
 Il Consiglio si riunisce almeno due volte l'anno.
 
-### ARTICOLO 17
+## ARTICOLO 17
 
 Il Consiglio elegge, fra i suoi membri eletti, un Presidente e dei Vice presidenti per un mandato di un anno.
 
-### ARTICOLO 18
+## ARTICOLO 18
 
 Il Consiglio adotta il proprio Regolamento.
 
-### ARTICOLO 19
+## ARTICOLO 19
 
 Le funzioni del Consiglio, oltre a quelle che gli sono altrimenti conferite nel presente Statuto, sono le seguenti:
 
@@ -337,7 +337,7 @@ g) esercitare qualsiasi altra funzione che gli puo' essere
 
 affidata dall'Assemblea.
 
-### ARTICOLO 20
+## ARTICOLO 20
 
 Nell'intervallo delle sessioni dell'Assemblea, e in mancanza di
 
@@ -345,19 +345,19 @@ disposizioni contrarie nel presente Statuto, il Consiglio adotta le decisioni di
 
 ## SEGRETARIATO
 
-### ARTICOLO 21
+## ARTICOLO 21
 
 Il Segretariato e' composto dal Segretario generale e dal personale
 
 necessario all'Organizzazione.
 
-### ARTICOLO 22
+## ARTICOLO 22
 
 Su raccomandazione del Consiglio, il Segretario generale e'
 
 nominato per un periodo di quattro anni a maggioranza di due terzi dei Membri effettivi presenti e votanti all'Assemblea. Il suo mandato e' rinnovabile.
 
-### ARTICOLO 23
+## ARTICOLO 23
 
 1\. Il Segretario generale e' responsabile davanti all'Assemblea e al Consiglio.
 
@@ -369,7 +369,7 @@ direttive dell'Assemblea e del Consiglio. Egli sottopone al Consiglio rapporti s
 
 dell'Organizzazione.
 
-### ARTICOLO 24
+## ARTICOLO 24
 
 1\. Il Segretario generale nomina il personale del Segretariato, in conformita' con il Regolamento del personale approvato dall'Assemblea.
 
@@ -387,7 +387,7 @@ In conformita' a tale considerazione, si terra' nel dovuto conto l'importanza di
 
 ## BILANCIO E SPESE
 
-### ARTICOLO 25
+## ARTICOLO 25
 
 1\. Il bilancio dell'Organizzazione che copra le sue attivita'
 
@@ -397,7 +397,7 @@ amministrative e del programma generale di lavoro e' finanziato dai contributi d
 
 all'Assemblea da parte del Consiglio, per l'esame e l'approvazione.
 
-### ARTICOLO 26
+## ARTICOLO 26
 
 1\. I conti dell'Organizzazione sono esaminati da due Commissari ai conti, eletti dall'Assemblea per un periodo di due anni su raccomandazione del Consiglio. I Commissari ai conti sono rieleggibili.
 
@@ -407,7 +407,7 @@ conti, possono presentare le osservazioni che ritengono necessarie concernenti l
 
 ## QUORUM
 
-### ARTICOLO 27
+## ARTICOLO 27
 
 1\. La presenza della maggioranza dei Membri effettivi e' necessaria
 
@@ -419,11 +419,11 @@ e' necessaria perche' vi sia il quorum alle riunioni del Consiglio.
 
 ## VOTO
 
-### ARTICOLO 28
+## ARTICOLO 28
 
 1\. Ogni Membro effettivo dispone di un voto.
 
-### ARTICOLO 29
+## ARTICOLO 29
 
 1\. A meno di disposizioni contrarie del presente Statuto, le
 
@@ -433,7 +433,7 @@ decisioni in ogni materia sono adottate dall'Assemblea, a maggioranza semplice d
 
 impegni di bilancio e finanziari per i Membri, nonche' riguardanti il luogo della sede della Organizzazione, e per qualsiasi altra questione che la maggioranza semplice dei Membri effettivi consideri di particolare importanza, e' necessaria la maggioranza dei due terzi dei Membri effettivi presenti e votanti.
 
-### ARTICOLO 30
+## ARTICOLO 30
 
 Le decisioni del Consiglio sono prese a maggioranza semplice dei
 
@@ -441,11 +441,11 @@ Membri presenti e votanti, ad eccezione delle raccomandazioni in materia finanzi
 
 ## CAPACITA' GIURIDICA, PRIVILEGI E IMMUNITA'
 
-### ARTICOLO 31
+## ARTICOLO 31
 
 L'Organizzazione possiede personalita' giuridica.
 
-### ARTICOLO 32
+## ARTICOLO 32
 
 L'Organizzazione gode, sul territorio degli Stati Membri, dei
 
@@ -453,7 +453,7 @@ privilegi e delle immunita' necessarie all'esercizio delle sue funzioni. Tali pr
 
 ## EMENDAMENTI
 
-### ARTICOLO 33
+## ARTICOLO 33
 
 1\. Ogni progetto di modifica al presente Statuto ed al suo Allegato
 
@@ -467,7 +467,7 @@ dei due terzi dei Membri effettivi presenti e votanti.
 
 ## SOSPENSIONE
 
-### ARTICOLO 34
+## ARTICOLO 34
 
 1\. Se l'Assemblea ritiene che un Membro persista nel continuare una
 
@@ -479,7 +479,7 @@ riconosca che e' intervenuto un cambiamento nella politica di tale Membro.
 
 ## RITIRO
 
-### ARTICOLO 35
+## ARTICOLO 35
 
 1\. Ogni Membro effettivo puo' ritirarsi dall'Organizzazione allo
 
@@ -495,13 +495,13 @@ spirare di un termine di preavviso di un anno, comunicato per iscritto, al Segre
 
 ## ENTRATA IN VIGORE
 
-### ARTICOLO 36
+## ARTICOLO 36
 
 Il presente Statuto entrera' in vigore centoventi giorni dopo che cinquantuno Stati i cui organismi ufficiali di turismo siano Membri effettivi dell'UIOOT al momento dell'adozione del presente Statuto, avranno ufficialmente notificato al depositario provvisorio la loro approvazione dello Statuto e la loro accettazione degli obblighi inerenti alla qualita' di Membro.
 
 ## DEPOSITARIO
 
-### ARTICOLO 37
+## ARTICOLO 37
 
 1\. Il presente Statuto, nonche' tutte le dichiarazioni di
 
@@ -513,7 +513,7 @@ ricevere tale notifica, del ricevimento di tali dichiarazioni e della data di en
 
 ## LINGUE E INTERPRETAZIONE
 
-### art. 38
+## art. 38
 
 ARTICOLI 38.
 
@@ -521,7 +521,7 @@ Le lingue ufficiali dell'Organizzazione sono il francese,
 
 l'inglese, lo spagnolo e il russo.
 
-### ARTICOLO 39
+## ARTICOLO 39
 
 I testi francese, inglese, spagnolo e russo del presente Statuto
 
@@ -529,31 +529,31 @@ fanno ugualmente fede.
 
 ## DISPOSIZIONI TRANSITORIE
 
-### ARTICOLO 40
+## ARTICOLO 40
 
 In attesa di una decisione dell'Assemblea generale, in conformita' dell'articolo 2, la sede viene provvisoriamente fissata a Ginevra (Svizzera).
 
-### ARTICOLO 41
+## ARTICOLO 41
 
 Entro un termine di centottanta giorni a partire dall'entrata in
 
 vigore del presente Statuto, gli Stati Membri della Organizzazione delle Nazioni Unite, delle istituzioni specializzate e dell'Agenzia internazionale dell'energia atomica o che siano parti dello Statuto della Corte internazionale di Giustizia, hanno il diritto di diventare, senza necessita' di voto, membri effettivi dell'Organizzazione mediante una dichiarazione formale con la quale essi adottano lo Statuto dell'Organizzazione e accettano gli obblighi inerenti alla qualita' di Membro.
 
-### ARTICOLO 42
+## ARTICOLO 42
 
 Entro un termine di un anno dopo l'entrata in vigore del presente Statuto, gli Stati i cui organismi nazionali di turismo erano Membri effettivi dell'UIOOT al momento dell'adozione del presente Statuto e che abbiano adottato il presente Statuto con riserva di approvazione, sono ammessi a partecipare alle attivita' dell'Organizzazione con tutti i diritti e gli obblighi di un Membro effettivo.
 
-### ARTICOLO 43
+## ARTICOLO 43
 
 Nel corso dell'anno che segue l'entrata in vigore del presente
 
 Statuto, i territori o i gruppi di territori non responsabili delle proprie relazioni estere, ma i cui organismi nazionali di turismo erano Membri effettivi dell'UIOOT al momento dell'adozione del presente Statuto, e che di conseguenza abbiano diritto alla qualita' di Membro associato e che abbiano adottato il presente Statuto con riserva di approvazione dello Stato che assume la responsabilita' delle loro relazioni estere, possono partecipare alle attivita' dell'Organizzazione e godono dei diritti e degli obblighi inerenti alla qualita' di Membro associato.
 
-### ARTICOLO 44
+## ARTICOLO 44
 
 A partire dall'entrata in vigore del presente Statuto i diritti e gli obblighi dell'UIOOT sono trasferiti all'Organizzazione.
 
-### ARTICOLO 45
+## ARTICOLO 45
 
 Il Segretario generale dell'UIOOT, alla data di entrata in vigore del presente Statuto, agira' in qualita' di Segretario generale dell'Organizzazione sino alla data dell'elezione, da parte
 
@@ -573,7 +573,7 @@ di turismo di turismo
 
 GEORGES FADDOUL ROBERT C.LONATI
 
-### Allegato
+## Allegato
 
 Allegato
 

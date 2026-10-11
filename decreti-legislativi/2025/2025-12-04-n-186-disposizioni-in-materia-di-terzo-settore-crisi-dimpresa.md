@@ -58,11 +58,9 @@ il seguente decreto legislativo:
 
 ## Titolo I - DISPOSIZIONI IN MATERIA DI TERZO SETTORE E DI SPORT
 
-### Capo I
+### Capo I - Disposizioni in materia di imposte sui redditi
 
-#### Disposizioni in materia di imposte sui redditi
-
-##### Art. 1
+#### Art. 1
 
 Inserimento dell'articolo 79-bis nel codice del Terzo settore
 
@@ -254,9 +252,9 @@ b) se i beni sono ceduti a titolo oneroso o in caso di risarcimento, anche in fo
 
 > 4\. La Conferenza unificata di cui al comma 1 e' convocata dal Presidente del Consiglio dei ministri. Le sedute sono presiedute dal Presidente del Consiglio dei ministri o, su sua delega, dal Ministro per gli affari regionali o, se tale incarico non e' conferito, dal Ministro dell'interno.».
 
-## Capo II - Disposizioni in materia di imposta sul valore aggiunto
+### Capo II - Disposizioni in materia di imposta sul valore aggiunto
 
-##### Art. 2
+#### Art. 2
 
 Regime forfettario per le attivita' svolte dalle organizzazioni di volontariato e dalle associazioni di promozione sociale
 
@@ -324,7 +322,7 @@ b) il secondo periodo e' soppresso.
 
 > 16\. Le organizzazioni di volontariato e le associazioni di promozione sociale che applicano il regime forfetario sono escluse dall'applicazione degli studi di settore di cui all'articolo 62-bis del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427 e dei parametri di cui all'articolo 3, comma 184, della legge 28 dicembre 1995, n. 549, nonche' degli indici sintetici di affidabilita' di cui all'articolo 9-bis del decreto-legge 24 aprile 2017, n. 50 convertito, con modificazioni, dall'articolo 1, comma 1 della legge 21 giugno 2017, n. 96.».
 
-##### Art. 3
+#### Art. 3
 
 Modifiche agli articoli 3 e 10 del decreto
 
@@ -400,7 +398,7 @@ b) all'articolo 10, primo comma:
 
 > Omissis.».
 
-##### Art. 4
+#### Art. 4
 
 Estensione dell'aliquota IVA del 5 per cento
 
@@ -442,7 +440,7 @@ alle imprese sociali
 
 > Omissis.».
 
-##### Art. 5
+#### Art. 5
 
 Modifiche al regime speciale delle organizzazioni
 
@@ -476,7 +474,7 @@ di volontariato e delle associazioni di promozione sociale
 
 > Omissis.».
 
-##### Art. 6
+#### Art. 6
 
 Proroga dell'esclusione Iva per gli enti associativi
 
@@ -488,9 +486,9 @@ Proroga dell'esclusione Iva per gli enti associativi
 
 > «683. Le disposizioni di cui all'articolo 5, commi 15-quinquies e 15-sexies, del decreto-legge 21 ottobre 2021, n. 146, convertito, con modificazioni, dalla legge 17 dicembre 2021, n. 215, si applicano a decorrere dal 1° gennaio 2024. In attesa della razionalizzazione della disciplina dell'imposta sul valore aggiunto per gli enti del terzo settore, in attuazione dell'articolo 7 della legge 9 agosto 2023, n. 111, le disposizioni di cui al comma 15-quater dell'articolo 5 del decreto-legge 21 ottobre 2021, n. 146, convertito, con modificazioni, dalla legge 17 dicembre 2021, n. 215, si applicano a decorrere dal 1° gennaio 2036.».
 
-## Capo III - Disposizioni in materia di sport
+### Capo III - Disposizioni in materia di sport
 
-##### Art. 7
+#### Art. 7
 
 Disposizioni fiscali in tema di enti sportivi dilettantistici
 
@@ -512,11 +510,9 @@ b) al comma 2, le parole: «lire 100 milioni» sono sostituite dalle seguenti: �
 
 ## Titolo II - DISPOSIZIONI IN MATERIA DI CRISI D'IMPRESA
 
-### Capo I
+### Capo I - Disposizioni in materia di imposte sui redditi
 
-#### Disposizioni in materia di imposte sui redditi
-
-##### Art. 8
+#### Art. 8
 
 Modifica all'articolo 88 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917
 
@@ -622,11 +618,9 @@ Modifica all'articolo 88 del testo unico delle imposte sui redditi, di cui al de
 
 ## Titolo III - DISPOSIZIONI IN MATERIA DI IMPOSTA SUL VALORE AGGIUNTO
 
-### Capo I
+### Capo I - Revisione della disciplina della detrazione
 
-#### Revisione della disciplina della detrazione
-
-##### Art. 9
+#### Art. 9
 
 Modifica alla disciplina della rettifica della detrazione
 
@@ -638,7 +632,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 31 dicembre 2025, n. 200, convertito con modificazioni dalla L. 27 febbraio 2026, n. 26, ha disposto (con l'art. 4, comma 12-octies) che "La disposizione di cui all'articolo 9 del decreto legislativo 4 dicembre 2025, n. 186, relativa all'abrogazione di una norma in materia di rettifica della detrazione dell'imposta sul valore aggiunto, si applica a decorrere dal 1° gennaio 2027. Sono fatte salve, fino alla loro conclusione, le rettifiche in corso al 1° gennaio 2027. Sono fatti salvi, in ogni caso, i comportamenti antecedenti alla data di entrata in vigore della legge di conversione del presente decreto".
 
-##### Art. 10
+#### Art. 10
 
 Modifica alla disciplina della detrazione
 
@@ -656,9 +650,9 @@ b) le attivita' per cui non sono soggetti passivi.
 
 3\. Per le regioni, province, comuni e loro consorzi, universita' ed enti di ricerca, la contabilita' separata di cui al comma 2 e' realizzata nell'ambito e con l'osservanza delle modalita' previste per la contabilita' pubblica obbligatoria a norma di legge o di statuto. Le disposizioni del comma 2 si applicano anche agli enti pubblici di assistenza e beneficenza e a quelli di previdenza nonche' all'Automobile Club d'Italia e agli automobile clubs.».
 
-## Capo II - Disposizioni di armonizzazione della disciplina nazionale alla normativa unionale e ai principi fissati dalla Corte di giustizia dell'Unione europea
+### Capo II - Disposizioni di armonizzazione della disciplina nazionale alla normativa unionale e ai principi fissati dalla Corte di giustizia dell'Unione europea
 
-##### Art. 11
+#### Art. 11
 
 Modifiche all'articolo 40-bis del decreto
 
@@ -702,7 +696,7 @@ c) la lettera c) e' sostituita dalla seguente:
 
 > l) «BIC»: il BIC quale definito all'articolo 2, punto 16, del citato regolamento (UE) n. 260/2012.».
 
-##### Art. 12
+#### Art. 12
 
 Modifica all'articolo 9, terzo comma, del decreto
 
@@ -748,9 +742,9 @@ del Presidente della Repubblica 26 ottobre 1972, n. 633
 
 > Le prestazioni di cui al primo comma, numero 2), non comprendono i servizi di trasporto resi a soggetti diversi dall'esportatore, dal titolare del regime di transito, dall'importatore, dal destinatario dei beni o dal prestatore dei servizi di cui al numero 4) del medesimo primo comma, anche se resi da intermediari.».
 
-## Capo III - Abrogazioni
+### Capo III - Abrogazioni
 
-##### Art. 13
+#### Art. 13
 
 Abrogazione dell'articolo 1, comma 151,
 
@@ -758,15 +752,15 @@ della legge 29 dicembre 2022, n. 197
 
 1\. All'articolo 1 della legge 29 dicembre 2022, n. 197, il comma 151 e' abrogato.
 
-## Capo IV - Disposizioni finali
+### Capo IV - Disposizioni finali
 
-##### Art. 14
+#### Art. 14
 
 Disposizioni finanziarie
 
 1\. Alle minori entrate derivanti dall'articolo 1, valutate in 0,30 milioni di euro per l'anno 2026, 0,47 milioni di euro per l'anno 2027, 0,64 milioni di euro per l'anno 2028, 0,81 milioni di euro per l'anno 2029, 0,99 milioni di euro per l'anno 2030 e 0,86 milioni di euro annui a decorrere dall'anno 2031, e dall'articolo 4, valutate in 0,5 milioni di euro per l'anno 2025 e 2,9 milioni di euro annui a decorrere dall'anno 2026, si provvede mediante corrispondente riduzione del fondo di cui all'articolo 62, comma 1, del decreto legislativo 27 dicembre 2023, n. 209.
 
-##### Art. 15
+#### Art. 15
 
 Entrata in vigore
 

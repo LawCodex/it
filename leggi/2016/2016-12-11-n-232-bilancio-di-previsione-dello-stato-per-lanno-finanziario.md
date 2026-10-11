@@ -28,9 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Parte I - Sezione I
+## Parte I
 
-### Misure quantitative per la realizzazione degli obiettivi programmatici
+### Sezione I - Misure quantitative per la realizzazione degli obiettivi programmatici
 
 #### Art. 1
 
@@ -3225,9 +3225,9 @@ AGGIORNAMENTO (81)
 
 Il D.L. 7 agosto 2026, n. 144 ha disposto (con l'art. 18, comma 9) che "Al fine di assicurare la prosecuzione dei processi di ricostruzione privata nei territori interessati dagli eventi sismici verificatisi a far data dal 24 agosto 2016, l'autorizzazione di spesa di cui all'articolo 1, comma 362, lettera a), della legge 11 dicembre 2016, n. 232 e' incrementata di 60 milioni di euro per ciascuno degli anni dal 2027 al 2051".
 
-## Parte II - Sezione II
+## Parte II
 
-### Approvazione degli stati di previsione
+### Sezione II - Approvazione degli stati di previsione
 
 #### Art. 2
 

@@ -30,11 +30,9 @@ Promulga
 
 la seguente legge:
 
-## ((Capo I - DISPOSIZIONI GENERALI IN TEMA DI PARITA' DI ACCESSO AI MEZZI DI INFORMAZIONE DURANTE LE CAMPAGNE ELETTORALI E REFERENADARIE E PER LA COMUNICAZIONE POLITICA
+## ((Capo I - DISPOSIZIONI GENERALI IN TEMA DI PARITA' DI ACCESSO AI MEZZI DI INFORMAZIONE DURANTE LE CAMPAGNE ELETTORALI E REFERENADARIE E PER LA COMUNICAZIONE POLITICA ))
 
-### ))
-
-#### Art. 1 - Finalita' e ambito di applicazione
+### Art. 1 - Finalita' e ambito di applicazione
 
 1\. La presente legge promuove e disciplina, al fine di garantire la parita' di trattamento e l'imparzialita' rispetto a tutti i soggetti politici, l'accesso ai mezzi di informazioni per la comunicazione politica.
 
@@ -48,7 +46,7 @@ AGGIORNAMENTO (1)
 
 La L. 6 novembre 2003, n. 313 ha disposto (con l'art. 1, comma 1) l'introduzione della rubrica del Capo I: "Capo I Disposizioni generali in tema di parita' di accesso ai mezzi di informazione durante le campagne elettorali e referendarie e per la comunicazione politica."; (con l'art. 1, comma 2) ha disposto l'introduzione della rubrica del Capo II:"Capo II Disposizioni particolari per le emittenti locali."; (con l'art. 1, comma 3) ha disposto l'introduzione della rubrica del Capo III:"Capo II Disposizioni finali.".
 
-#### Art. 2 - Comunicazione politica radiotelevisiva
+### Art. 2 - Comunicazione politica radiotelevisiva
 
 1\. Le emittenti radiotelevisive devono assicurare a tutti i soggetti politici con imparzialita' ed equita' l'accesso all'informazione e alla comunicazione politica.
 
@@ -66,7 +64,7 @@ AGGIORNAMENTO (1)
 
 La L. 6 novembre 2003, n. 313 ha disposto (con l'art. 1, comma 1) l'introduzione della rubrica del Capo I: "Capo I Disposizioni generali in tema di parita' di accesso ai mezzi di informazione durante le campagne elettorali e referendarie e per la comunicazione politica."; (con l'art. 1, comma 2) ha disposto l'introduzione della rubrica del Capo II:"Capo II Disposizioni particolari per le emittenti locali."; (con l'art. 1, comma 3) ha disposto l'introduzione della rubrica del Capo III:"Capo II Disposizioni finali.".
 
-#### Art. 3
+### Art. 3
 
 Messaggi politici autogestiti
 
@@ -100,7 +98,7 @@ AGGIORNAMENTO (1)
 
 La L. 6 novembre 2003, n. 313 ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo hanno effetto effetto dal giorno successivo a quello di pubblicazione nella Gazzetta Ufficiale del decreto del Ministro delle comunicazioni di cui al comma 5 dell'articolo 11-quater del presente provvedimento.
 
-#### Art. 4
+### Art. 4
 
 Comunicazione politica radiotelevisiva e messaggi
 
@@ -176,7 +174,7 @@ AGGIORNAMENTO (1)
 
 La L. 6 novembre 2003, n. 313 ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo hanno effetto effetto dal giorno successivo a quello di pubblicazione nella Gazzetta Ufficiale del decreto del Ministro delle comunicazioni di cui al comma 5 dell'articolo 11-quater del presente provvedimento.
 
-#### Art. 5
+### Art. 5
 
 (Programmi d'informazione nei mezzi
 
@@ -222,7 +220,7 @@ AGGIORNAMENTO (1)
 
 La L. 6 novembre 2003, n. 313 ha disposto (con l'art. 1, comma 1) l'introduzione della rubrica del Capo I: "Capo I Disposizioni generali in tema di parita' di accesso ai mezzi di informazione durante le campagne elettorali e referendarie e per la comunicazione politica."; (con l'art. 1, comma 2) ha disposto l'introduzione della rubrica del Capo II:"Capo II Disposizioni particolari per le emittenti locali."; (con l'art. 1, comma 3) ha disposto l'introduzione della rubrica del Capo III:"Capo II Disposizioni finali.".
 
-#### Art. 6 - Imprese radiofoniche di partiti politici
+### Art. 6 - Imprese radiofoniche di partiti politici
 
 1\. Le disposizioni degli articoli da 1 a 5 non si applicano alle
 
@@ -236,7 +234,7 @@ AGGIORNAMENTO (1)
 
 La L. 6 novembre 2003, n. 313 ha disposto (con l'art. 1, comma 1) l'introduzione della rubrica del Capo I: "Capo I Disposizioni generali in tema di parita' di accesso ai mezzi di informazione durante le campagne elettorali e referendarie e per la comunicazione politica."; (con l'art. 1, comma 2) ha disposto l'introduzione della rubrica del Capo II:"Capo II Disposizioni particolari per le emittenti locali."; (con l'art. 1, comma 3) ha disposto l'introduzione della rubrica del Capo III:"Capo II Disposizioni finali.".
 
-#### Art. 7
+### Art. 7
 
 (Messaggi politici elettorali su quotidiani
 
@@ -272,7 +270,7 @@ AGGIORNAMENTO (1)
 
 La L. 6 novembre 2003, n. 313 ha disposto (con l'art. 1, comma 1) l'introduzione della rubrica del Capo I: "Capo I Disposizioni generali in tema di parita' di accesso ai mezzi di informazione durante le campagne elettorali e referendarie e per la comunicazione politica."; (con l'art. 1, comma 2) ha disposto l'introduzione della rubrica del Capo II:"Capo II Disposizioni particolari per le emittenti locali."; (con l'art. 1, comma 3) ha disposto l'introduzione della rubrica del Capo III:"Capo II Disposizioni finali.".
 
-#### Art. 8 - Sondaggi politici ed elettorali
+### Art. 8 - Sondaggi politici ed elettorali
 
 1\. Nei quindici giorni precedenti la data delle votazioni e'
 
@@ -318,7 +316,7 @@ AGGIORNAMENTO (1)
 
 La L. 6 novembre 2003, n. 313 ha disposto (con l'art. 1, comma 1) l'introduzione della rubrica del Capo I: "Capo I Disposizioni generali in tema di parita' di accesso ai mezzi di informazione durante le campagne elettorali e referendarie e per la comunicazione politica."; (con l'art. 1, comma 2) ha disposto l'introduzione della rubrica del Capo II:"Capo II Disposizioni particolari per le emittenti locali."; (con l'art. 1, comma 3) ha disposto l'introduzione della rubrica del Capo III:"Capo II Disposizioni finali.".
 
-#### Art. 9
+### Art. 9
 
 (Disciplina della comunicazione istituzionale
 
@@ -344,7 +342,7 @@ AGGIORNAMENTO (1)
 
 La L. 6 novembre 2003, n. 313 ha disposto (con l'art. 1, comma 1) l'introduzione della rubrica del Capo I: "Capo I Disposizioni generali in tema di parita' di accesso ai mezzi di informazione durante le campagne elettorali e referendarie e per la comunicazione politica."; (con l'art. 1, comma 2) ha disposto l'introduzione della rubrica del Capo II:"Capo II Disposizioni particolari per le emittenti locali."; (con l'art. 1, comma 3) ha disposto l'introduzione della rubrica del Capo III:"Capo II Disposizioni finali.".
 
-#### Art. 10
+### Art. 10
 
 Provvedimenti e sanzioni
 
@@ -392,7 +390,7 @@ AGGIORNAMENTO (1)
 
 La L. 6 novembre 2003, n. 313 ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo hanno effetto effetto dal giorno successivo a quello di pubblicazione nella Gazzetta Ufficiale del decreto del Ministro delle comunicazioni di cui al comma 5 dell'articolo 11-quater del presente provvedimento.
 
-#### Art. 11
+### Art. 11
 
 Obblighi di comunicazione
 
@@ -406,11 +404,9 @@ AGGIORNAMENTO (1)
 
 La L. 6 novembre 2003, n. 313 ha disposto (con l'art. 1, comma 1) l'introduzione della rubrica del Capo I: "Capo I Disposizioni generali in tema di parita' di accesso ai mezzi di informazione durante le campagne elettorali e referendarie e per la comunicazione politica."; (con l'art. 1, comma 2) ha disposto l'introduzione della rubrica del Capo II:"Capo II Disposizioni particolari per le emittenti locali."; (con l'art. 1, comma 3) ha disposto l'introduzione della rubrica del Capo III:"Capo II Disposizioni finali.".
 
-## ((Capo II - DISPOSIZIONI PARTICOLARI PER LE EMITTENTI LOCALI
+## ((Capo II - DISPOSIZIONI PARTICOLARI PER LE EMITTENTI LOCALI ))
 
-### ))
-
-#### Art. 11-bis
+### Art. 11-bis
 
 (( (Ambito di applicazione) ))
 
@@ -418,7 +414,7 @@ La L. 6 novembre 2003, n. 313 ha disposto (con l'art. 1, comma 1) l'introduzione
 
 2\. Le disposizioni del presente Capo non si applicano alla programmazione regionale o comunque locale della concessionaria del servizio pubblico radiotelevisivo e dei soggetti privati titolari di concessione o di autorizzazione o comunque aventi altro titolo di legittimazione per trasmettere in ambito nazionale.))
 
-#### Art. 11-ter
+### Art. 11-ter
 
 (( (Definizioni) ))
 
@@ -430,7 +426,7 @@ b) per "programma di informazione", il telegiornale, il giornale radio e comunqu
 
 c) per "programma di comunicazione politica", ogni programma in cui assuma carattere rilevante l'esposizione di opinioni e valutazioni politiche manifestate attraverso tipologie di programmazione che comunque consentano un confronto dialettico tra piu' opinioni, anche se conseguito nel corso di piu' trasmissioni.))
 
-#### Art. 11-quater
+### Art. 11-quater
 
 (( (Tutela del pluralismo) ))
 
@@ -444,7 +440,7 @@ c) per "programma di comunicazione politica", ogni programma in cui assuma carat
 
 5\. Entro i successivi trenta giorni le organizzazioni di cui al comma 2 sottoscrivono il codice di autoregolamentazione, che e' emanato con decreto del Ministro delle comunicazioni, come deliberato dall'Autorita'. Decorso tale termine senza che le organizzazioni di cui al comma 2 abbiano provveduto a sottoscrivere il codice di autoregolamentazione, il Ministro delle comunicazioni emana comunque con proprio decreto il codice di autoregolamentazione. Il codice di autoregolamentazione acquista efficacia nei confronti di tutte le emittenti radiofoniche e televisive locali il giorno successivo a quello di pubblicazione nella Gazzetta Ufficiale del decreto del Ministro delle comunicazioni.))
 
-#### Art. 11-quinquies
+### Art. 11-quinquies
 
 Vigilanza e poteri dell'Autorita'
 
@@ -456,23 +452,21 @@ Vigilanza e poteri dell'Autorita'
 
 4\. ((COMMA ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104)).
 
-#### Art. 11-sexies
+### Art. 11-sexies
 
 (( (Norme regolamentari e attuative dell'Autorita') ))
 
 (( 1. L'Autorita' adegua le proprie disposizioni regolamentari e attuative alle disposizioni del presente Capo.))
 
-#### Art. 11-septies
+### Art. 11-septies
 
 (( (Efficacia delle disposizioni di cui al Capo I per le emittenti locali) ))
 
 ((1. A decorrere dal giorno successivo a quello di pubblicazione nella Gazzetta Ufficiale del decreto del Ministro delle comunicazioni di cui al comma 5 dell'articolo 11-quater, cessano di applicarsi alle emittenti radiofoniche e televisive locali le disposizioni di cui al Capo I della presente legge, ad eccezione degli articoli 4, commi 3 e 5, e 8)).
 
-## ((Capo III - DISPOSIZIONI FINALI
+## ((Capo III - DISPOSIZIONI FINALI ))
 
-### ))
-
-#### Art. 12 - Copertura finanziaria
+### Art. 12 - Copertura finanziaria
 
 1\. Agli oneri derivanti dall'attuazione della presente legge, valutati in lire 20 miliardi a decorrere dall'anno 2000, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2000-2002, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 2000, parzialmente utilizzando per gli anni 2000 e 2002 l'accantonamento relativo al medesimo Ministero e per l'anno 2001 l'accantonamento relativo al Ministero delle finanze.
 
@@ -484,7 +478,7 @@ AGGIORNAMENTO (1)
 
 La L. 6 novembre 2003, n. 313 ha disposto (con l'art. 1, comma 1) l'introduzione della rubrica del Capo I: "Capo I Disposizioni generali in tema di parita' di accesso ai mezzi di informazione durante le campagne elettorali e referendarie e per la comunicazione politica."; (con l'art. 1, comma 2) ha disposto l'introduzione della rubrica del Capo II:"Capo II Disposizioni particolari per le emittenti locali."; (con l'art. 1, comma 3) ha disposto l'introduzione della rubrica del Capo III:"Capo II Disposizioni finali.".
 
-#### Art. 13 - Abrogazione di norme
+### Art. 13 - Abrogazione di norme
 
 1\. Gli articoli 1, commi 2, 3 e 4, 2, 5, 6 e 8 della legge 10 dicembre 1993, n. 515, sono abrogati.((1))
 
@@ -494,7 +488,7 @@ AGGIORNAMENTO (1)
 
 La L. 6 novembre 2003, n. 313 ha disposto (con l'art. 1, comma 1) l'introduzione della rubrica del Capo I: "Capo I Disposizioni generali in tema di parita' di accesso ai mezzi di informazione durante le campagne elettorali e referendarie e per la comunicazione politica."; (con l'art. 1, comma 2) ha disposto l'introduzione della rubrica del Capo II:"Capo II Disposizioni particolari per le emittenti locali."; (con l'art. 1, comma 3) ha disposto l'introduzione della rubrica del Capo III:"Capo II Disposizioni finali.".
 
-#### Art. 14 - Entrata in vigore
+### Art. 14 - Entrata in vigore
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale. ((1))
 

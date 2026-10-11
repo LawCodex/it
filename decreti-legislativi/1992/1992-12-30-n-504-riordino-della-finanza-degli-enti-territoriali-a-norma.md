@@ -42,7 +42,7 @@ il seguente decreto legislativo:
 
 ### Capo I - IMPOSTA COMUNALE SUGLI IMMOBILI
 
-##### Art. 1
+#### Art. 1
 
 Istituzione dell'imposta - Presupposto
 
@@ -50,7 +50,7 @@ Istituzione dell'imposta - Presupposto
 
 2\. Presupposto dell'imposta e' il possesso di fabbricati, di aree fabbricabili e di terreni agricoli, siti nel territorio dello Stato, a qualsiasi uso destinati, ivi compresi quelli strumentali o alla cui produzione o scambio e' diretta l'attivita' dell'impresa.
 
-##### Art. 2
+#### Art. 2
 
 Definizione di fabbricati e aree
 
@@ -74,7 +74,7 @@ AGGIORNAMENTO (63)
 
 Il D.L. 30 dicembre 2008, n. 207, convertito con modificazioni dalla L. 27/2/2009, n. 14, ha disposto (con l'art. 23, comma 1-bis) che "Ai sensi e per gli effetti dell'articolo 1, comma 2, della legge 27 luglio 2000, n. 212, l'articolo 2, comma 1, lettera a), del decreto legislativo 30 dicembre 1992, n. 504, deve intendersi nel senso che non si considerano fabbricati le unita' immobiliari, anche iscritte o iscrivibili nel catasto fabbricati, per le quali ricorrono i requisiti di ruralita' di cui all'articolo 9 del decreto-legge 30 dicembre 1993, n. 557, convertito, con modificazioni, dalla legge 26 febbraio 1994, n. 133, e successive modificazioni."
 
-##### Art. 3
+#### Art. 3
 
 Soggetti passivi
 
@@ -88,7 +88,7 @@ AGGIORNAMENTO (65)
 
 La L. 23 luglio 2009, n. 99 ha disposto (con l'art. 8, comma 2) che "Le disposizioni di cui al comma 1 si applicano ai contratti di locazione finanziaria stipulati dalla data di entrata in vigore della presente legge."
 
-##### Art. 4
+#### Art. 4
 
 Soggetto attivo
 
@@ -96,7 +96,7 @@ Soggetto attivo
 
 2\. In caso di variazioni delle circoscrizioni territoriali dei comuni, anche se dipendenti dalla istituzione di nuovi comuni, si considera soggetto attivo il comune nell'ambito del cui territorio risultano ubicati gli immobili al 1 gennaio dell'anno cui l'imposta si riferisce.
 
-##### Art. 5
+#### Art. 5
 
 Base imponibile
 
@@ -448,7 +448,7 @@ per l'anno per l'anno 1982 e
 
 1983 = 3,05 anni precedenti = 3,23".
 
-##### Art. 6 - Determinazione delle aliquote e dell'imposta
+#### Art. 6 - Determinazione delle aliquote e dell'imposta
 
 1\. L'aliquota e' stabilita dal consiglio comunale , con deliberazione da adottare entro il 31 ottobre di ogni anno, con effetto per l'anno successivo. Se la delibera non e' adottata entro tale termine, si applica l'aliquota del 4 per mille, ferma restando la disposizione di cui all'articolo 84 del decreto legislativo 25 febbraio 1995, n. 77, come modificato dal decreto legislativo 11 giugno 1996, n. 336.
 
@@ -474,7 +474,7 @@ AGGIORNAMENTO (11)
 
 Il D.L. 27 agosto 1994, n. 515 convertito con modificazioni dalla L. 28 ottobre 1994, n. 596 ha disposto (con l'art. 6, comma 6) che "Per i comuni, relativamente ai quali, per effetto del presente articolo, sono modificate le tariffe d'estimo delle unita' immobiliari urbane di cui ai prospetti annessi al decreto legislativo n. 568 del 1993, il termine previsto dall'articolo 6, comma 1, del decreto legislativo n. 504 del 1992, per deliberare l'aliquota dell'imposta comunale sugli immobili dovuta per l'anno 1994, resta fissato al 12 maggio 1994."
 
-##### Art. 7
+#### Art. 7
 
 Esenzioni
 
@@ -554,7 +554,7 @@ AGGIORNAMENTO (84)
 
 La L. 28 dicembre 2015, n. 208, ha disposto (con l'art. 1, comma 13) che "A decorrere dall'anno 2016, l'esenzione dall'imposta municipale propria (IMU) prevista dalla lettera h) del comma 1 dell'articolo 7 del decreto legislativo 30 dicembre 1992, n. 504, si applica sulla base dei criteri individuati dalla circolare del Ministero delle finanze n. 9 del 14 giugno 1993, pubblicata nel supplemento ordinario n. 53 alla Gazzetta Ufficiale n. 141 del 18 giugno 1993".
 
-##### Art. 8 - Riduzioni e detrazioni dall'imposta
+#### Art. 8 - Riduzioni e detrazioni dall'imposta
 
 1\. L'imposta e' ridotta del 50 per cento per i fabbricati dichiarati inagibili o inabitabili e di fatto non utilizzati, limitatamente al periodo dell'anno durante il quale sussistono dette condizioni. L'inagibilita' o inabitabilita' e' accertata dall'ufficio tecnico comunale con perizia a carico del proprietario, che allega idonea documentazione alla dichiarazione. In alternativa il contribuente ha facolta' di presentare dichiarazione sostitutiva ai sensi della legge 4 gennaio 1968, n. 15, rispetto a quanto previsto dal periodo precedente. L'aliquota puo' essere stabilita dai comuni nella misura del 4 per mille, per un periodo comunque non superiore a tre anni, relativamente ai fabbricati realizzati per la vendita e non venduti dalle imprese che hanno per oggetto esclusivo o prevalente dell'attivita' la costruzione e l'alienazione di immobili.
 
@@ -580,7 +580,7 @@ AGGIORNAMENTO (94)
 
 La Corte Costituzionale, con sentenza 24 giugno - 18 luglio 2025, n. 112 (in G.U. 1ª s.s. 23/07/2025, n. 30), ha dichiarato "l'illegittimita' costituzionale dell'art. 8, comma 2, del decreto legislativo 30 dicembre 1992, n. 504 (Riordino della finanza degli enti territoriali, a norma dell'articolo 4 della legge 23 ottobre 1992, n. 421), come modificato dall'art. 1, comma 173, lettera b), della legge 27 dicembre 2006, n. 296, recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato, (legge finanziaria 2007)», nella parte in cui stabilisce che «[p]er abitazione principale si intende quella nella quale il contribuente, che la possiede a titolo di proprieta', usufrutto o altro diritto reale, e i suoi familiari dimorano abitualmente», anziche' «[p]er abitazione principale si intende quella nella quale il contribuente, che la possiede a titolo di proprieta' usufrutto o altro diritto reale, dimora abitualmente»".
 
-##### Art. 9
+#### Art. 9
 
 Terreni condotti direttamente
 
@@ -600,7 +600,7 @@ AGGIORNAMENTO (27)
 
 IL D.Lgs. 15 dicembre 1997, n. 446 ha disposto (con l'art. 58, comma 2) che agli effetti dell'applicazione del presente articolo 9, si considerano coltivatori diretti od imprenditori agricoli a titolo principale le persone fisiche iscritte negli appositi elenchi comunali previsti dall'articolo 11 della legge 9 gennaio 1963, n. 9, e soggette al corrispondente obbligo dell'assicurazione per invalidita', vecchiaia e malattia; la cancellazione dai predetti elenchi ha effetto a decorrere dal primo gennaio dell'anno successivo.
 
-##### Art. 10
+#### Art. 10
 
 Versamenti e dichiarazioni
 
@@ -654,7 +654,7 @@ AGGIORNAMENTO (93)
 
 La L. 27 dicembre 2019, n. 160 ha disposto (con l'art. 1, comma 771) che "Il contributo di cui all'articolo 10, comma 5, del decreto legislativo 30 dicembre 1992, n. 504, e' rideterminato nella misura dello 0,56 per mille a valere sui versamenti relativi agli anni d'imposta 2020 e successivi ed e' calcolato sulla quota di gettito dell'IMU relativa agli immobili diversi da quelli destinati ad abitazione principale e relative pertinenze. Il contributo e' versato a cura della struttura di gestione di cui all'articolo 22 del decreto legislativo 9 luglio 1997, n. 241, mediante trattenuta sugli incassi dell'IMU e riversamento diretto da parte della struttura stessa, secondo modalita' stabilite mediante provvedimento dell'Agenzia delle entrate".
 
-##### Art. 11
+#### Art. 11
 
 Liquidazione ed accertamento
 
@@ -702,17 +702,17 @@ AGGIORNAMENTO (43)
 
 La L. 28 dicembre 2001, n. 448 ha disposto (con l'art. 27, comma 9) che il termine per l'attivita' di liquidazione a seguito di attribuzione di rendita da parte degli uffici del territorio competenti di cui al comma 1, ultimo periodo, del presente articolo, e' prorogato al 31 dicembre 2002 per le annualita' d'imposta 1997 e successive.
 
-##### Art. 12
+#### Art. 12
 
 Riscossione coattiva
 
 1\. Le somme liquidate dal comune per imposta, sanzioni ed interessi, se non versate, con le modalita' indicate nel comma 3 dell'articolo 10, entro il termine di (( sessanta giorni )) dalla notificazione dell'avviso di liquidazione o dell'avviso di accertamento, sono riscosse, salvo che sia stato emesso provvedimento di sospensione, coattivamente mediante ruolo secondo le disposizioni di cui al decreto del Presidente della Repubblica 28 gennaio 1988, n. 43, e successive modificazioni ((. . .)).
 
-##### Art. 13
+#### Art. 13
 
 (( ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2006, N. 296 ))
 
-##### Art. 14
+#### Art. 14
 
 Sanzioni ed interessi
 
@@ -728,13 +728,13 @@ Sanzioni ed interessi
 
 6\. COMMA ABROGATO DALLA L. 27 DICEMBRE 2006, N. 296.
 
-##### Art. 15
+#### Art. 15
 
 Contenzioso
 
 1\. Contro l'avviso di liquidazione, l'avviso di accertamento, il provvedimento che irroga le sanzioni, il ruolo, il provvedimento che respinge l'istanza di rimborso puo' essere proposto ricorso secondo le disposizioni di cui al decreto del Presidente della Repubblica 26 ottobre 1972, n. 636, e successive modificazioni, intendendosi sostituito all'ufficio tributario il comune nei cui confronti il ricorso e' proposto.
 
-##### Art. 16
+#### Art. 16
 
 ARTICOLO ABROGATO DAL D.LGS. 8 GIUGNO 2001, N. 327
 
@@ -758,7 +758,7 @@ AGGIORNAMENTO (71)
 
 La Corte Costituzionale, con sentenza 12 - 22 dicembre 2011, n. 338 (in G.U. 1a s.s. 28/12/2011, n. 54) ha dichiarato "l'illegittimita' costituzionale dell'articolo 16, comma 1, del decreto legislativo 30 dicembre 1992, n. 504 (Riordino della finanza degli enti territoriali, a norma dell'articolo 4 della L. 23 ottobre 1992, n. 421)".
 
-##### Art. 17
+#### Art. 17
 
 Disposizioni finali
 
@@ -796,7 +796,7 @@ AGGIORNAMENTO (35)
 
 La Corte costituzionale, con sentenza 13-31 luglio 2000, n. 403 (in G.U. 1a s.s. 9/8/2000, n. 33) ha dichiarato l'illegittimita' costituzionale del comma 5 del presente art. 17 "nella parte in cui, per coloro che sono soggetti all'imposta sul reddito delle persone giuridiche il cui periodo d'imposta non coincide con l'anno solare, non esclude la sovrapposizione dell'imposta locale sui redditi(ILOR) di fabbricati ed altri redditi contemplati nel comma 4."
 
-##### Art. 18
+#### Art. 18
 
 Disposizioni transitorie
 
@@ -818,11 +818,9 @@ Con decreto del Ministro delle finanze, di concerto con il Ministro dell'interno
 
 ## TITOLO II - TRIBUTI PROVINCIALI
 
-### Capo I - TRIBUTO PER L'ESERCIZIO DELLE
+### Capo I - TRIBUTO PER L'ESERCIZIO DELLE FUNZIONI DI TUTELA, PROTEZIONE E IGIENE DELL'AMBIENTE
 
-#### FUNZIONI DI TUTELA, PROTEZIONE E IGIENE DELL'AMBIENTE
-
-##### Art. 19
+#### Art. 19
 
 Istituzione e disciplina del tributo
 
@@ -864,19 +862,17 @@ La L. 27 dicembre 2017, n. 205 ha disposto (con l'art. 1, comma 822) che "Ai sen
 
 ## TITOLO II - TRIBUTI PROVINCIALI
 
-### Capo II - IMPOSTA PROVINCIALE PER L'ISCRIZIONE DEI VEICOLI
+### Capo II - IMPOSTA PROVINCIALE PER L'ISCRIZIONE DEI VEICOLI NEL PUBBLICO REGISTRO AUTOMOBILISTICO
 
-#### NEL PUBBLICO REGISTRO AUTOMOBILISTICO
-
-##### Art. 20
+#### Art. 20
 
 (( ARTICOLO ABROGATO DALLA L. 28 DICEMBRE 1995, N. 549 ))
 
-##### Art. 21
+#### Art. 21
 
 (( ARTICOLO ABROGATO DALLA L. 28 DICEMBRE 1995, N. 549 ))
 
-##### Art. 22
+#### Art. 22
 
 (( ARTICOLO ABROGATO DALLA L. 28 DICEMBRE 1995, N. 549 ))
 
@@ -884,7 +880,7 @@ La L. 27 dicembre 2017, n. 205 ha disposto (con l'art. 1, comma 822) che "Ai sen
 
 ### Capo I - TASSE AUTOMOBILISTICHE REGIONALI
 
-##### Art. 23
+#### Art. 23
 
 Attribuzioni alle regioni a statuto ordinario
 
@@ -904,7 +900,7 @@ c) la tassa speciale per i veicoli alimentati a G.P.L. o gas metano, istituita d
 
 5\. Sono a carico delle regioni i rimborsi relativi ai tributi regionali di cui al precedente comma 1. Le istanze vanno prodotte ai competenti uffici della regione che disporranno il rimborso, ferma restando la competenza delle Intendenze di Finanza per i tributi erariali.
 
-##### Art. 24
+#### Art. 24
 
 Poteri delle regioni
 
@@ -934,7 +930,7 @@ AGGIORNAMENTO (72)
 
 Il D.L. 29 dicembre 2011, n. 216, convertito con modificazioni dalla L. 24 febbraio 2012, n. 14, ha disposto (con l'art. 29, comma 16-ter) che "Limitatamente all'anno 2012, in deroga ai termini di cui all'articolo 24, comma 1, del decreto legislativo 30 dicembre 1992, n. 504, gli importi dei tributi regionali di cui all'articolo 23 del medesimo decreto legislativo n. 504 del 1992 sono determinati dalle regioni con propri provvedimenti approvati entro il 31 dicembre 2011."
 
-##### Art. 25
+#### Art. 25
 
 Riscossione
 
@@ -944,13 +940,13 @@ Riscossione
 
 3\. Il compenso spettante all'A.C.I., ai sensi degli articoli 20 e 21 della Convenzione di cui al comma 2, viene addebitato allo Stato e alle regioni a statuto ordinario in proporzione a quanto attribuito a ciascuno per i tributi di rispettiva competenza, secondo le modalita' ed i termini riportati nello stesso atto di Convenzione. Con lo stesso criterio sono addebitati i costi relativi alla fornitura centralizzata del libretto fiscale di cui all'articolo 16 della Convenzione.
 
-##### Art. 26
+#### Art. 26
 
 Esclusioni dal pagamento
 
 1\. Nel caso di rinnovazione della immatricolazione di un veicolo o di un autoscafo in una provincia compresa nel territorio di una regione diversa da quella nel cui ambito era precedentemente iscritto, non si applica una ulteriore tassa automobilistica, soprattassa annuale e tassa speciale regionali per il periodo per il quale ciascun tributo sia stato gia' riscosso dalla regione di provenienza.
 
-##### Art. 27
+#### Art. 27
 
 R i n v i o
 
@@ -958,13 +954,11 @@ R i n v i o
 
 2\. Per l'inosservanza delle disposizioni relative ai suddetti tributi regionali si applicano nella stessa entita' le medesime sanzioni previste per gli analoghi tributi erariali vigenti nelle regioni a statuto speciale, secondo le disposizioni della legge 24 gennaio 1978, n. 27 e successive modificazioni ed integrazioni.
 
-## TITOLO IV - TRASFERIMENTI ERARIALI
+## TITOLO IV - TRASFERIMENTI ERARIALI AGLI ENTI LOCALI
 
-### AGLI ENTI LOCALI - Capo I
+### Capo I - DISCIPLINA DEI TRASFERIMENTI ERARIALI PER IL 1993
 
-#### DISCIPLINA DEI TRASFERIMENTI - ERARIALI PER IL 1993
-
-##### Art. 28
+#### Art. 28
 
 Finanziamento delle amministrazioni provinciali dei comuni e delle comunita' montane
 
@@ -982,7 +976,7 @@ AGGIORNAMENTO (11)
 
 Il D.L. 27 agosto 1994, n. 515 convertito con modificazioni dalla L. 28 ottobre 1994, n. 596 ha disposto (con l'art. 1, coma 2) che " A partire dall'anno 1994 il fondo per lo sviluppo degli investimenti delle amministrazioni provinciali, dei comuni e delle comunita' montane di cui alla lettera c), comma 1, dell'articolo 28 del decreto legislativo 30 dicembre 1992, n. 504, e' maggiorato di lire 125.000 milioni per l'attivazione delle procedure di risanamento previste dall'articolo 25 del decreto-legge 2 marzo 1989, n. 66, convertito, con modificazioni, dalla legge 24 aprile 1989, n. 144."
 
-##### Art. 29
+#### Art. 29
 
 Contributi ordinari per le amministrazioni provinciali per i comuni e per le comunita' montane
 
@@ -1006,7 +1000,7 @@ AGGIORNAMENTO (4)
 
 Il D.L. 20 maggio 1993, n. 155 convertito con modificazioni dalla L. 19 luglio 1993, n. 243 ha disposto (con l'art. 3, comma 1) che "Per l'anno 1993 i contributi ordinari spettanti alle amministrazioni provinciali e ai comuni ai sensi dell'articolo 29, commi 1 e 2, del decreto legislativo 30 dicembre 1992, n. 504, sono ridotti del 3 per cento; la riduzione viene operata per intero all'atto della corresponsione della quarta rata dei contributi stessi. Sono esclusi dalla riduzione gli enti locali dichiarati dissestati alla data di entrata in vigore del presente decreto."
 
-##### Art. 30
+#### Art. 30
 
 Contributo perequativo per le amministrazioni provinciali
 
@@ -1014,7 +1008,7 @@ Contributo perequativo per le amministrazioni provinciali
 
 2\. Una quota del 4 per cento del fondo perequativo spettante alle amministrazioni provinciali e' corrisposta nel 1993 a titolo provvisorio in attesa che l'ente abbia dimostrato di aver ottemperato alle disposizioni riguardanti la copertura minima obbligatoria dei costi dei servizi di cui all'articolo 33. In caso di mancata osservanza delle predette disposizioni, l'ente e' tenuto alla restituzione delle somme relative all'anno 1993, mediante trattenuta sui fondi ordinari degli anni successivi.
 
-##### Art. 31
+#### Art. 31
 
 Contributo perequativo per i comuni
 
@@ -1038,7 +1032,7 @@ e) per la restante parte, valutata in lire 179.500 milioni a tutti i comuni, con
 
 3\. Una quota del 4 per cento del fondo perequativo spettante ai comuni e' corrisposta nel 1993 a titolo provvisorio in attesa che l'ente abbia dimostrato di aver ottemperato alle disposizioni riguardanti la copertura minima obbligatoria dei costi dei servizi di cui all'articolo 33. In caso di mancata osservanza delle predette disposizioni l'ente e' tenuto alla restituzione delle somme relative all'anno 1993 mediante trattenuta sui fondi ordinari degli anni successivi.
 
-##### Art. 32
+#### Art. 32
 
 Contributi per lo sviluppo degli investimenti e per il risanamento degli enti dissestati
 
@@ -1052,7 +1046,7 @@ c) alle amministrazioni provinciali ed ai comuni che hanno deliberato lo stato d
 
 2\. Per i contributi da concedere per ammortamento mutui, valgono le disposizioni vigenti per l'anno 1992. Il termine per l'emanazione del decreto che stabilisce le modalita' di assegnazione dei contributi e' fissato al 31 ottobre 1993 e il termine per l'adempimento certificativo e' fissato al 31 marzo 1994.
 
-##### Art. 33
+#### Art. 33
 
 Copertura tariffaria del costo di taluni servizi
 
@@ -1070,13 +1064,11 @@ Il D. L.gs. 15 novembre 1993, n. 507 ha disposto (con l'art. 79, comma 4) che " 
 
 Ha inoltre disposto (con l'art. 81, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1994."
 
-## TITOLO IV - TRASFERIMENTI ERARIALI
+## TITOLO IV - TRASFERIMENTI ERARIALI AGLI ENTI LOCALI
 
-### AGLI ENTI LOCALI - Capo II
+### Capo II - DISCIPLINA A REGIME DEI TRASFERIMENTI ERARIALI
 
-#### DISCIPLINA A REGIME - DEI TRASFERIMENTI ERARIALI
-
-##### Art. 34
+#### Art. 34
 
 Assetto generale della contribuzione erariale
 
@@ -1124,7 +1116,7 @@ AGGIORNAMENTO (66)
 
 La L. 23 dicembre 2009, n.191, ha disposto (con l'art. 2, comma 183) che "Il contributo ordinario base spettante agli enti locali a valere sul fondo ordinario di cui all'articolo 34, comma 1, lettera a), del decreto legislativo 30 dicembre 1992,n. 504, e' ridotto per ciascuno degli anni 2010, 2011 e 2012, rispettivamente di 1 milione di euro, di 5 milioni di euro e di 7 milioni di euro per le province e di 12 milioni di euro, di 86 milioni di euro e di 118 milioni di euro per i comuni. Il Ministro dell'interno, con proprio decreto, provvede per ciascuno degli anni alla corrispondente riduzione, in proporzione alla popolazione residente, del contributo ordinario spettante ai singoli enti per i quali nel corso dell'anno ha luogo il rinnovo dei rispettivi consigli. Le regioni a statuto speciale provvedono ad adottare le disposizioni idonee a perseguire le finalita' di cui ai commi da 184 a 187 in conformita' ai rispettivi statuti e alle relative norme di attuazione."
 
-##### Art. 35
+#### Art. 35
 
 Fondo ordinario
 
@@ -1158,7 +1150,7 @@ AGGIORNAMENTO (25)
 
 Il D.Lgs. 30 giugno 1997, n. 244 ha disposto (con l'art. 9, comma 1) che a decorrere dall'applicazione della nuova disciplina dei tributi locali di cui all'articolo 3, comma 143, della legge 23 dicembre 1996, n. 662 cessano di avere efficacia le disposizioni contenute negli articoli da 34 a 43 del decreto legislativo 30 dicembre 1992, n. 504.
 
-##### Art. 36
+#### Art. 36
 
 Definizione dei contributi ordinari spettanti ai singoli enti locali 1. A ciascuna amministrazione provinciale, a ciascun comune ed a ciascuna comunita' montana spettano contributi ordinari annuali, destinati al finanziamento dei servizi indispensabili ai sensi dell'articolo 54 della legge n. 142 del 1990, calcolati come segue:
 
@@ -1180,7 +1172,7 @@ AGGIORNAMENTO (25)
 
 Il D.Lgs. 30 giugno 1997, n. 244 ha disposto (con l'art. 9, comma 1) che a decorrere dall'applicazione della nuova disciplina dei tributi locali di cui all'articolo 3, comma 143, della legge 23 dicembre 1996, n. 662 cessano di avere efficacia le disposizioni contenute negli articoli da 34 a 43 del decreto legislativo 30 dicembre 1992, n. 504.
 
-##### Art. 37
+#### Art. 37
 
 Ripartizione con parametri obiettivi dei contributi ordinari
 
@@ -1256,7 +1248,7 @@ AGGIORNAMENTO (25)
 
 Il D.Lgs. 30 giugno 1997, n. 244 ha disposto (con l'art. 9, comma 1) che a decorrere dall'applicazione della nuova disciplina dei tributi locali di cui all'articolo 3, comma 143, della legge 23 dicembre 1996, n. 662 cessano di avere efficacia le disposizioni contenute negli articoli da 34 a 43 del decreto legislativo 30 dicembre 1992, n. 504.
 
-##### Art. 38
+#### Art. 38
 
 Servizi indispensabili per le materie di competenza statale delegate o attribuite all'ente locale
 
@@ -1278,7 +1270,7 @@ AGGIORNAMENTO (25)
 
 Il D.Lgs. 30 giugno 1997, n. 244 ha disposto (con l'art. 9, comma 1) che a decorrere dall'applicazione della nuova disciplina dei tributi locali di cui all'articolo 3, comma 143, della legge 23 dicembre 1996, n. 662 cessano di avere efficacia le disposizioni contenute negli articoli da 34 a 43 del decreto legislativo 30 dicembre 1992, n. 504.
 
-##### Art. 39
+#### Art. 39
 
 Fondo consolidato
 
@@ -1316,7 +1308,7 @@ AGGIORNAMENTO (25)
 
 Il D.Lgs. 30 giugno 1997, n. 244 ha disposto (con l'art. 9, comma 1) che a decorrere dall'applicazione della nuova disciplina dei tributi locali di cui all'articolo 3, comma 143, della legge 23 dicembre 1996, n. 662 cessano di avere efficacia le disposizioni contenute negli articoli da 34 a 43 del decreto legislativo 30 dicembre 1992, n. 504.
 
-##### Art. 40
+#### Art. 40
 
 Perequazione degli squilibri della fiscalita' locale
 
@@ -1360,7 +1352,7 @@ AGGIORNAMENTO (25)
 
 Il D.Lgs. 30 giugno 1997, n. 244 ha disposto (con l'art. 9, comma 1) che a decorrere dall'applicazione della nuova disciplina dei tributi locali di cui all'articolo 3, comma 143, della legge 23 dicembre 1996, n. 662 cessano di avere efficacia le disposizioni contenute negli articoli da 34 a 43 del decreto legislativo 30 dicembre 1992, n. 504.
 
-##### Art. 41
+#### Art. 41
 
 Riparto del fondo nazionale ordinario per gli investimenti
 
@@ -1384,7 +1376,7 @@ AGGIORNAMENTO (25)
 
 Il D.Lgs. 30 giugno 1997, n. 244 ha disposto (con l'art. 9, comma 1) che a decorrere dall'applicazione della nuova disciplina dei tributi locali di cui all'articolo 3, comma 143, della legge 23 dicembre 1996, n. 662. cessano di avere efficacia le disposizioni contenute negli articoli da 34 a 43 del decreto legislativo 30 dicembre 1992, n. 504.
 
-##### Art. 42
+#### Art. 42
 
 Riparto del fondo nazionale speciale per gli investimenti
 
@@ -1400,7 +1392,7 @@ AGGIORNAMENTO (25)
 
 Il D.Lgs. 30 giugno 1997, n. 244 ha disposto (con l'art. 9, comma 1) che a decorrere dall'applicazione della nuova disciplina dei tributi locali di cui all'articolo 3, comma 143, della legge 23 dicembre 1996, n. 662. cessano di avere efficacia le disposizioni contenute negli articoli da 34 a 43 del decreto legislativo 30 dicembre 1992, n. 504.
 
-##### Art. 43
+#### Art. 43
 
 Quota del fondo ordinario per gli enti dissestati
 
@@ -1418,35 +1410,35 @@ AGGIORNAMENTO (25)
 
 Il D.Lgs. 30 giugno 1997, n. 244 ha disposto (con l'art. 9, comma 1) che a decorrere dall'applicazione della nuova disciplina dei tributi locali di cui all'articolo 3, comma 143, della legge 23 dicembre 1996, n. 662. cessano di avere efficacia le disposizioni contenute negli articoli da 34 a 43 del decreto legislativo 30 dicembre 1992, n. 504.
 
-##### Art. 44
+#### Art. 44
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 45
+#### Art. 45
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 46
+#### Art. 46
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 47
+#### Art. 47
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267 ))
 
-##### Art. 48
+#### Art. 48
 
 Ambito di applicazione delle norme
 
 1\. Per la corresponsione delle risorse finanziarie di cui al presente decreto agli enti locali della regione Valle d'Aosta si applicano le disposizioni di cui all'articolo 3 del decreto legislativo 28 dicembre 1989, n. 431.
 
-##### Art. 49
+#### Art. 49
 
 Norma di coordinamento finanziario
 
 1\. All'onere derivante dai capi 1 e 2 del Titolo IV del presente decreto legislativo si provvede a carico degli stanziamenti iscritti nel bilancio dello Stato per l'anno 1993 e per gli anni successivi, ai sensi dell'articolo 4, comma 5, della legge 23 ottobre 1992, n. 421.
 
-##### Art. 50
+#### Art. 50
 
 Entrata in vigore
 

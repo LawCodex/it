@@ -27,21 +27,21 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la convenzione sul riciclaggio, la ricerca, il sequestro e la confisca dei proventi di reato, fatta a Strasburgo l'8 novembre 1990.
 
-##### Art. 2
+#### Art. 2
 
 1\. Piena ed intera esecuzione e' data alla convenzione di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 36 della convenzione medesima.
 
-##### Art. 3
+#### Art. 3
 
 1\. L'ultimo comma dell'articolo 648 del codice penale e' sostituito dal seguente:
 
 "Le disposizioni di questo articolo si applicano anche quando l'autore del delitto da cui il denaro o le cose provengono non e' imputabile o non e' punibile ovvero quando manchi una condizione di procedibilita' riferita a tale delitto".
 
-##### Art. 4
+#### Art. 4
 
 1\. L'articolo 648-bis del codice penale e' sostituito dal seguente:
 
@@ -53,7 +53,7 @@ La pena e' diminuita se il denaro, i beni o le altre utilita' provengono da deli
 
 Si applica l'ultimo comma dell'articolo 648".
 
-##### Art. 5
+#### Art. 5
 
 1\. L'articolo 648-ter del codice penale e' sostituito dal seguente:
 
@@ -65,37 +65,37 @@ La pena e' diminuita nell'ipotesi di cui al secondo comma dell'articolo 648.
 
 Si applica l'ultimo comma dell'articolo 648".
 
-##### Art. 6
+#### Art. 6
 
 1\. All'articolo 724 del codice di procedura penale e' aggiunto, in fine, il seguente comma:
 
 "5-bis. L'esecuzione della rogatoria e' sospesa se essa puo' pregiudicare indagini o procedimenti penali in corso nello Stato".
 
-##### Art. 7
+#### Art. 7
 
 1\. Dopo il comma 1 dell'articolo 731 del codice di procedura penale e' inserito il seguente:
 
 "1-bis. Le disposizioni del comma 1 si applicano anche quando si tratta dell'esecuzione di una confisca ed il relativo provvedimento e' stato adottato dall'autorita' giudiziaria straniera con atto diverso dalla sentenza di condanna".
 
-##### Art. 8
+#### Art. 8
 
 1\. All'articolo 733 del codice di procedura penale e' aggiunto, in fine, il seguente comma:
 
 "1-bis. Salvo quanto previsto nell'articolo 735-bis, la sentenza straniera non puo' essere riconosciuta ai fini dell'esecuzione di una confisca se questa ha per oggetto beni la cui confisca non sarebbe possibile secondo la legge italiana qualora per lo stesso fatto si procedesse nello Stato".
 
-##### Art. 9
+#### Art. 9
 
 1\. Dopo l'articolo 735 del codice di procedura penale e' inserito il seguente:
 
 "Art. 735-bis. - (Confisca consistente nella imposizione del pagamento di una somma di denaro). - 1. Nel caso di esecuzione di un provvedimento straniero di confisca consistente nella imposizione del pagamento di una somma di denaro corrispondente al valore del prezzo, del prodotto o del profitto di un reato, si applicano le disposizioni sull'esecuzione delle pene pecuniarie, ad eccezione di quella concernente il rispetto del limite massimo di pena previsto dall'articolo 735, comma 2".
 
-##### Art. 10
+#### Art. 10
 
 1\. Il comma 3 dell'articolo 737 del codice di procedura penale e' sostituito dal seguente:
 
 "3. Si osservano, in quanto applicabili, le disposizioni che regolano l'esecuzione del sequestro preventivo".
 
-##### Art. 11
+#### Art. 11
 
 1\. Dopo l'articolo 737 del codice di procedura penale e' inserito il seguente:
 
@@ -117,19 +117,19 @@ b) se vi sono ragioni per ritenere che non sussistono le condizioni per la succe
 
 6\. Il sequestro ordinato ai sensi di questo articolo perde efficacia e la corte d'appello ordina la restituzione delle cose sequestrate a chi ne abbia diritto, se, entro due anni dal momento in cui esso e' stato eseguito, lo Stato estero non richiede l'esecuzione della confisca. Il termine puo' essere prorogato anche piu' volte per un periodo massimo di due anni; sulla richiesta decide la corte d'appello che ha ordinato il sequestro".
 
-##### Art. 12
+#### Art. 12
 
 1\. All'articolo 745 del codice di procedura penale e' aggiunto, in fine, il seguente comma:
 
 "2-bis. Il Ministro ha altresi' facolta', nei casi previsti da accordi internazionali, di richiedere lo svolgimento di indagini per l'identificazione e la ricerca di beni che si trovano all'estero e che possono divenire oggetto di una domanda di esecuzione di confisca, nonche' di richiedere il loro sequestro".
 
-##### Art. 13
+#### Art. 13
 
 1\. La cooperazione richiesta da uno Stato estero ai sensi del capitolo III della convenzione e' rifiutata, oltre che nei casi previsti dal codice di procedura penale, nei casi previsti dall'articolo 18, paragrafo 1, lettera d), con riguardo al reato politico, e paragrafo 4, lettere c) e d), della convenzione medesima.
 
 Il Ministro di grazia e giustizia puo' rifiutare la cooperazione nei casi previsti dal paragrafo 1, lettere b) e c), dello stesso articolo 18.
 
-##### Art. 14
+#### Art. 14
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -159,7 +159,7 @@ Considerando che per il raggiungimento di tale fine deve essere anche creato un 
 
 Hanno concordato quanto segue:
 
-##### Articolo 1 - Definizioni
+#### Articolo 1 - Definizioni
 
 Ai fini della presente Convenzione:
 
@@ -177,19 +177,19 @@ e. "reato presupposto" significa qualsiasi reato in conseguenza del quale si for
 
 ## CAPITOLO II - MISURE DA ADOTTARE IN AMBITO NAZIONALE
 
-##### Articolo 2 - Confisca
+#### Articolo 2 - Confisca
 
 1\. Ciascuna Parte adotta tutte le misure legislative e di altra natura eventualmente necessarie per consentirle di procedere alla confisca di strumenti e di proventi, o di beni il cui valore corrisponda a tali proventi.
 
 2\. Ciascuna Parte, al momento della firma o all'atto del deposito del proprio strumento di ratifica, di accettazione, di approvazione o di adesione, puo', con dichiarazione diretta al Segretario Generale del Consiglio d'Europa, dichiarare che il paragrafo 1 del presente articolo si applica soltanto ai reati o alle categorie di reati specificati nella predetta dichiarazione.
 
-##### art. 3
+#### art. 3
 
 Articolo 3 - Indagini e misure provvisorie
 
 Ciascuna Parte adotta tutte le misure legislative e di altra natura eventualmente necessarie per consentirle di identificare e rintracciare beni che possano formare oggetto di confisca a norma dell'articolo 2, paragrafo 1, nonche' di prevenire qualsiasi commercio, trasferimento o disposizione di tali beni.
 
-##### art. 4
+#### art. 4
 
 Articolo 4 - Speciali poteri e tecniche di investigazione
 
@@ -197,11 +197,11 @@ Articolo 4 - Speciali poteri e tecniche di investigazione
 
 2\. Ciascuna Parte studia l'adozione di tutte le misure legislative e di altra natura eventualmente necessarie per consentirle di impiegare speciali tecniche investigative che facilitino l'identificazione e il rintraccio di proventi, nonche' la raccolta delle relative prove. Le predette tecniche possono comprendere provvedimenti di monitoraggio, osservazioni, intercettazioni di telecomunicazioni, accesso a sistemi computerizzati ed ordini di produrre determinati documenti.
 
-##### Articolo 5 - Mezzi giuridici di tutela
+#### Articolo 5 - Mezzi giuridici di tutela
 
 Ciascuna Parte adotta tutte le misure legislative e di altra natura eventualmente necessarie ad assicurare che coloro che siano interessati dalle misure di cui agli articoli 2 e 3 dispongano di effettivi mezzi giuridici a tutela dei propri diritti.
 
-##### Articolo 6 - Reati di riciclaggio
+#### Articolo 6 - Reati di riciclaggio
 
 1\. Ciascuna Parte adotta tutte le misure legislavite e di altra natura eventualmente necessarie per prevedere come reato secondo la propria legge interna, quando il fatto e' commesso intenzionalmente:
 
@@ -233,11 +233,9 @@ c. quando l'autore ha agito allo scopo di promuovere lo svolgimento di ulteriori
 
 ## CAPITOLO III - COOPERAZIONE INTERNAZIONALE
 
-### Sezione 1
+### Sezione 1 - Principi di cooperazione internazionale.
 
-#### Principi di cooperazione internazionale.
-
-##### art. 7
+#### art. 7
 
 Articolo 7 - Principi generali e misure per la cooperazione internazionale
 
@@ -249,9 +247,9 @@ a. di confisca di beni specifici costituenti provento o strumento, nonche' di co
 
 b. di assistenza nelle indagini e di adozione di misure provvisorie ai fini dell'una o dell'altra forma di confisca di cui alla lettera (a) che precede.
 
-## Sezione 2 - Assistenza nelle indagini
+### Sezione 2 - Assistenza nelle indagini
 
-##### art. 8
+#### art. 8
 
 Articolo 8 - Obbligo di prestare assistenza
 
@@ -259,17 +257,17 @@ Le Parti, a richiesta, si prestano la piu' ampia assistenza possibile nella iden
 
 Rientrano nell'assistenza tutte le misure per acquisire e assicurare la prova dell'esistenza, della ubicazione, del movimento, della natura, dello stato giuridico e del valore dei beni sopra indicati.
 
-##### Articolo 9 - Esecuzione dell'assistenza
+#### Articolo 9 - Esecuzione dell'assistenza
 
 L'assistenza a norma dell'articolo 8 viene prestata nei modi consentiti dalla legge interna della Parte richiesta e in conformita' con tale legge, e, nella misura con essa non incompatibile, secondo le procedure specificate nella richiesta.
 
-##### Articolo 10 - Informazioni spontanee
+#### Articolo 10 - Informazioni spontanee
 
 Senza con cio' pregiudicare le proprie indagini o i propri procedimenti, ciascuna Parte, senza esserne stata preventivamente richiesta, puo' trasmettere ad un'altra Parte informazioni su strumenti o su proventi se ritiene che la comunicazione di tali informazioni potrebbe aiutare la Parte ricevente ad iniziare o a svolgere indagini o procedimenti, ovvero potrebbe portare ad una richiesta di quest'ultima Parte ai sensi delle disposizioni del presente capitolo.
 
-## Sezione 3 - Misure provvisorie
+### Sezione 3 - Misure provvisorie
 
-##### art. 11
+#### art. 11
 
 Articolo 11 - Obbligo di adottare misure provvisorie
 
@@ -277,7 +275,7 @@ Articolo 11 - Obbligo di adottare misure provvisorie
 
 2\. La Parte che ha ricevuto una richiesta di confisca a norma dell'articolo 13, se richiesta, adotta le misure indicate nel paragrafo 1 del presente articolo relativamente ai beni che formino oggetto della richiesta o che potrebbero soddisfare la stessa.
 
-##### art. 12
+#### art. 12
 
 Articolo 12 - Esecuzione delle misure provvisorie
 
@@ -285,9 +283,9 @@ Articolo 12 - Esecuzione delle misure provvisorie
 
 2\. Prima di revocare qualsiasi misura provvisoria adottata a norma del presente articolo, in tutti i casi in cui cio' e' possibile, la Parte richiesta da' alla Parte richiedente la possibilita' di esporre i suoi motivi a favore del mantenimento della misura.
 
-## Sezione 4 - Confisca
+### Sezione 4 - Confisca
 
-##### Articolo 13 - Obbligo di confisca
+#### Articolo 13 - Obbligo di confisca
 
 1\. La Parte che ha ricevuto da un'altra Parte richiesta di confisca di strumenti o di proventi situati sul proprio territorio:
 
@@ -301,7 +299,7 @@ b. sottopone la richiesta alle proprie competenti autorita' allo scopo di ottene
 
 4\. Se la richiesta di confisca riguarda un bene specifico, le Parti possono decidere che la Parte richiesta esegua la confisca in forma di imporre l'obbligo di pagamento di una somma di denaro corrispondente al valore del bene.
 
-##### Articolo 14 - Esecuzione della confisca
+#### Articolo 14 - Esecuzione della confisca
 
 1\. Le procedure per ottenere ed eseguire la confisca prevista dall'articolo 13 sono disciplinate dalla legge della Parte richiesta.
 
@@ -313,11 +311,11 @@ b. sottopone la richiesta alle proprie competenti autorita' allo scopo di ottene
 
 5\. Nel caso dell'articolo 13, paragrafo 1(a), soltanto la Parte richiedente ha diritto di decidere su eventuali richieste di revisione dell'ordine di confisca.
 
-##### Articolo 15 - Beni confiscati
+#### Articolo 15 - Beni confiscati
 
 Dei beni confiscati dalla Parte richiesta dispone la stessa Parte richiesta secondo la propria legge interna, salvo contrario accordo delle Parti interessate.
 
-##### art. 16
+#### art. 16
 
 Articolo 16 - Diritto di esecuzione e ammontare massimo della confisca.
 
@@ -325,15 +323,15 @@ Articolo 16 - Diritto di esecuzione e ammontare massimo della confisca.
 
 2\. Nulla della presente Convenzione puo' essere interpretato nel senso di consentire che il valore totale dell'oggetto della confisca superi l'ammontare della somma di denaro specificato nell'ordine di confisca. Qualora una delle Parti ritenga che quanto sopra possa verificarsi, le Parti interessate si consultano allo scopo di evitarlo.
 
-##### art. 17
+#### art. 17
 
 Articolo 17 - Pene detentive in caso di inadempienza
 
 Se la Parte richiedente lo ha esplicitamente indicato nella richiesta, la Parte richiesta non puo' imporre pene detentive in caso di inadempienza, ne' altre misure restrittive della liberta' personale, come risultato di una richiesta fatta ai sensi dell'articolo 13.
 
-## Sezione 5 - Rifiuto e rinvio della cooperazione
+### Sezione 5 - Rifiuto e rinvio della cooperazione
 
-##### Articolo 18 - Motivi di rifiuto
+#### Articolo 18 - Motivi di rifiuto
 
 1\. La cooperazione ai sensi del presente capitolo puo' essere rifiutata se:
 
@@ -407,17 +405,17 @@ a. il fatto che il soggetto nei confronti del quale si indaga o e' stato emesso 
 
 b. Il fatto che una persona fisica contro la quale sia stato emesso ordine di confisca di proventi sia successivamente deceduta, o il fatto che una persona giuridica contro la quale sia stato emesso ordine di confisca di proventi sia stata successivamente sciolta, non puo' essere invocato come impedimento a rendere assistenza a norma dell'articolo 13, paragrafo 1 (a).
 
-##### Articolo 19 - Rinvio
+#### Articolo 19 - Rinvio
 
 La Parte richiesta puo' rinviare l'esecuzione della richiesta se i relativi atti pregiudicherebbero indagini o procedimenti in corso da parte delle proprie autorita'.
 
-##### art. 20
+#### art. 20
 
 Articolo 20 - Accoglimento parziale o condizionamento della richiesta Prima di rifiutare o di rinviare la cooperazione ai sensi del presente capitolo, la Parte richiesta, valuta, se del caso dopo essersi consultata con la Parte richiedente, se la richiesta possa essere accolta parzialmente o a determinate condizioni da essa ritenute necessarie.
 
-## Sezione 6 - Notificazioni e tutela dei diritti dei terzi
+### Sezione 6 - Notificazioni e tutela dei diritti dei terzi
 
-##### art. 21
+#### art. 21
 
 Articolo 21 - Notificazione di documenti
 
@@ -431,7 +429,7 @@ b. la possibilita', per i funzionari giudiziari, i pubblici ufficiali e le altre
 
 3\. In caso di notifica di documenti giudiziari a persone all'estero, interessate da misure provvisorie o da ordini di confisca decisi nella Parte di origine, quest'ultima deve indicare i mezzi di impugnazione di cui, secondo la propria legge, le persone interessate possono avvalersi.
 
-##### art. 22
+#### art. 22
 
 Articolo 22 - Riconoscimento delle decisioni straniere
 
@@ -447,15 +445,15 @@ nella Parte richiesta sullo stesso oggetto; o
 
 c. essa e' contraria all'ordine pubblico della Parte richiesta; o d. la decisione e' stata presa in violazione delle disposizioni della legge della Parte richiesta in materia di giurisdizione esclusiva.
 
-## Sezione 7 - Norme procedurali ed altre norme generali
+### Sezione 7 - Norme procedurali ed altre norme generali
 
-##### Articolo 23 - Autorita' centrale
+#### Articolo 23 - Autorita' centrale
 
 1\. Le Parti designano una autorita' centrale o, se necessario, piu' autorita' centrali competenti a trasmettere le richieste formulate ai sensi del presente capitolo, a rispondervi e a eseguirle o trasmetterle alle autorita' competenti per l'esecuzione.
 
 2\. Ciascuna Parte, all'atto della firma o del deposito del proprio strumento di ratifica, accettazione, approvazione o adesione, comunica al Segretario Generale del Consiglio d'Europa il nome e l'indirizzo delle autorita' designate a norma del paragrafo 1 del presente articolo.
 
-##### Articolo 24 - Comunicazione diretta
+#### Articolo 24 - Comunicazione diretta
 
 1\. Le autorita' centrali comunicano direttamente tra di loro.
 
@@ -467,7 +465,7 @@ c. essa e' contraria all'ordine pubblico della Parte richiesta; o d. la decision
 
 5\. Le richieste e le comunicazioni di cui alla Sezione 2 del presente capitolo, che non comportano misure coercitive, possono essere trasmesse dalle autorita' competenti della Parte richiedente direttamente alle autorita' competenti della Parte richiesta.
 
-##### art. 25
+#### art. 25
 
 Articolo 25 - Forma della richiesta e lingua
 
@@ -477,11 +475,11 @@ Articolo 25 - Forma della richiesta e lingua
 
 3\. All'atto della sottoscrizione o del deposito del proprio strumento di ratifica accettazione, approvazione o adesione, ciascuna Parte puo' trasmettere al Segretario Generale del Consiglio d'Europa una dichiarazione dalla quale risulti che essa si riserva il diritto di richiedere che le richieste ad essa trasmesse e i documenti a sostegno delle stesse siano accompagnati da una traduzione nella propria lingua, in una delle lingue ufficiali del Consiglio d'Europa o in quella di tali lingue, da essa eventualmente indicata. La Parte in questione puo', nella stessa occasione, dichiararsi pronta ad accettare traduzioni in qualsiasi altra lingua da essa eventualmente specificata. Le altre Parti possono applicare la regola della reciprocita'.
 
-##### Articolo 26 - Legalizzazione
+#### Articolo 26 - Legalizzazione
 
 I documenti trasmessi a norma del presente capitolo sono esenti da ogni formalita' di legalizzazione.
 
-##### Articolo 27 - Contenuto della richiesta
+#### Articolo 27 - Contenuto della richiesta
 
 1\. Ogni richiesta di cooperazione a norma del presente capitolo deve indicare specificatamente:
 
@@ -527,7 +525,7 @@ b. nel caso dell'articolo 13, paragrafo 1 (b), una esposizione dei fatti sui qua
 
 c. se i terzi hanno avuto la possibilita' di rivendicare i propri diritti, documenti che comprovino questa circostanza.
 
-##### Articolo 28 - Richieste irregolari
+#### Articolo 28 - Richieste irregolari
 
 1\. Se la richiesta non e' conforme alle disposizioni del presente capitolo, ovvero le informazioni fornite non sono sufficienti a consentire alla Parte richiesta di trattare la richiesta medesima, detta Parte puo' chiedere alla Parte richiedente di modificare la domanda o di completarla con ulteriori informazioni.
 
@@ -535,17 +533,17 @@ c. se i terzi hanno avuto la possibilita' di rivendicare i propri diritti, docum
 
 3\. In attesa di ricevere le richieste modifiche o informazioni rela- tive ad una richiesta presentata ai sensi della Sezione 4 del presente capitolo, la Parte richiesta puo' adottare tutte le misure di cui alle Sezioni 2 e 3 del presente capitolo.
 
-##### Articolo 29 - Pluralita' di richieste
+#### Articolo 29 - Pluralita' di richieste
 
 1\. Se la Parte richiesta riceve piu' di una richiesta ai sensi della Sezione 3 o 4 del presente capitolo con riferimento alla stessa persona o agli stessi beni, la pluralita' di domande non impedisce a detta Parte di trattare le domande che comportino l'adozione di misure provvisorie.
 
 2\. In caso di pluralita' di domande a norma della Sezione 4 del presente capitolo, la Parte richiesta considera l'opportunita' di consultarsi con le Parti richiedenti.
 
-##### Articolo 30 - Obbligo di motivare
+#### Articolo 30 - Obbligo di motivare
 
 La Parte richiesta deve fornire i motivi della propria decisione di rifiutare, rinviare o sottoporre a condizione qualsiasi cooperazione prevista dal presente capitolo.
 
-##### Articolo 31 - Informazioni
+#### Articolo 31 - Informazioni
 
 1\. La Parte richiesta informa prontamente la Parte richiedente:
 
@@ -571,13 +569,13 @@ b. di qualsiasi accadimento di fatto o di diritto, a seguito del quale gli atti 
 
 3\. Se una Parte, sulla base di uno stesso ordine di confisca, richiede la confisca a piu' di una Parte, essa deve dare comunicazione della richiesta a tutte le Parti interessate all'esecuzione.
 
-##### Articolo 32 - Limitazione dell'uso
+#### Articolo 32 - Limitazione dell'uso
 
 1\. La Parte richiesta puo' subordinare l'esecuzione di una richiesta alla condizione che le informazioni o le prove ottenute non vengano, senza il suo preventivo consenso, usate o trasmesse dalle autorita' della Parte richiedente per indagini o procedimenti diversi da quelli specificati nella richiesta.
 
 2\. Ciascuna Parte puo', all'atto della firma o del deposito del proprio strumento di ratifica, accettazione, approvazione o adesione, mediante dichiarazione diretta al Segretario Generale del Consiglio d'Europa, dichiarare che, senza il proprio preventivo consenso, le informazioni o le prove da essa fornite a norma del presente capitolo non possono essere usate o trasmesse dalle autorita' della Parte richiedente, per fini di indagini o procedimenti diversi da quelli specificati nella richiesta.
 
-##### Articolo 33 - Riservatezza
+#### Articolo 33 - Riservatezza
 
 1\. La Parte richiedente puo' esigere che la Parte richiesta mantenga riservati i fatti e la sostanza della richiesta, tranne che nella misura necessaria alla esecuzione della domanda stessa. Se la Parte richiesta non puo' soddisfare il requisito della riservatezza, essa deve darne pronta comunicazione alla Parte richiedente.
 
@@ -585,11 +583,11 @@ b. di qualsiasi accadimento di fatto o di diritto, a seguito del quale gli atti 
 
 3\. Salve le disposizioni della propria legge interna, la Parte che ha ricevuto informazioni spontanee ai sensi dell'articolo 10, deve uniformarsi a tutti i requisiti di riservatezza richiesti dalla Parte che ha fornito le informazioni. Se la Parte non puo' soddisfare tali requisiti, deve darne prontamente notizia alla Parte trasmittente.
 
-##### Articolo 34 - Spese
+#### Articolo 34 - Spese
 
 Le spese ordinarie di esecuzione della richiesta sono a carico della Parte richiesta. Qualora siano necessarie spese notevoli o di natura straordinaria ai fini della esecuzione della richiesta, le Parti si consultano allo scopo di concordare le condizioni alle quali la richiesta stessa deve avere esecuzione e i criteri di suddivisione dei costi.
 
-##### Articolo 35 - Danni
+#### Articolo 35 - Danni
 
 1\. Qualora venga promossa azione legale per il riconoscimento della responsabilita' per danni derivanti da azioni od omissioni relative alla cooperazione ai sensi del presente capitolo, la Parti interessate considerano se consultarsi, nei casi in cui cio' sia opportuno, per stabilire il criterio di suddivisione delle somme da pagarsi a titolo di risarcimento.
 
@@ -597,7 +595,7 @@ Le spese ordinarie di esecuzione della richiesta sono a carico della Parte richi
 
 ## CAPITOLO IV - DISPOSIZIONI FINALI
 
-##### art. 36
+#### art. 36
 
 Articolo 36 - Firme ed entrata in vigore
 
@@ -613,13 +611,13 @@ b. firma con riserva di ratifica, accettazione o approvazione, seguita da ratifi
 
 4\. Nei confronti degli Stati firmatari che esprimono successivamente il loro consenso ad essere vincolati dalla Convenzione, questa entra in vigore nel primo giorno del mese successivo allo spirare del periodo di tre mesi dopo la data nella quale essi hanno espresso il loro consenso ad essere vincolati dalla Convenzione secondo le disposizioni del paragrafo 1.
 
-##### Articolo 37 - Adesione alla Convenzione
+#### Articolo 37 - Adesione alla Convenzione
 
 1\. Dopo l'entrata in vigore della presente Convenzione, il Comitato del Consiglio dei Ministri del Consiglio d'Europa, dopo aver consultato gli Stati Contraenti della Convenzione, possono invitare qualsiasi Stato non membro del Consiglio, che non abbia partecipato alla sua elaborazione, ad accedere alla Convenzione, in virtu' di decisione presa con maggioranza prevista dall'articolo 20.d dello Statuto del Consiglio d'Europa e con il voto unanime dei rappresentanti degli Stati Contraenti aventi diritto di far parte del Comitato.
 
 2\. Rispetto agli Stati che hanno aderito la Convenzione entra in vigore nel primo giorno del mese successivo allo spirare del periodo di tre mesi dopo la data di deposito dello strumento di adesione presso il Segretario Generale del Consiglio d'Europa.
 
-##### Articolo 38 - Applicazione territoriale
+#### Articolo 38 - Applicazione territoriale
 
 1\. Ogni Stato puo', al momento della firma o del deposito del proprio strumento di ratifica, accettazione, approvazione o adesione, indicare il territorio o i territori ai quali la Convenzione deve applicarsi.
 
@@ -627,7 +625,7 @@ b. firma con riserva di ratifica, accettazione o approvazione, seguita da ratifi
 
 3\. Ogni dichiarazione fatta secondo i precedenti due paragrafi puo', relativamente ai territori specificati nella dichiarazione stessa, essere ritirata mediante comunicazione diretta al Segretario Generale. Il ritiro ha effetto nel primo giorno del mese successivo allo spirare del periodo di tre mesi dopo la data di ricezione della comunicazione da parte del Segretario Generale.
 
-##### art. 39
+#### art. 39
 
 Articolo 39 - Relazione con altre convenzioni e accordi
 
@@ -637,7 +635,7 @@ Articolo 39 - Relazione con altre convenzioni e accordi
 
 3\. Se due o piu' Parti hanno gia' concluso un accordo o un trattato su di una materia che forma oggetto della Convenzione, o hanno altrimenti stabilito i loro rapporti per quanto riguarda tale materia, dette Parti hanno diritto di applicare l'accordo o il trattato, ovvero di regolare i predetti rapporti secondo quanto concordato invece che secondo la presente Convenzione, se cio' facilita la cooperazione internazionale.
 
-##### Articolo 40 - Riserve
+#### Articolo 40 - Riserve
 
 1\. Ciascuno Stato puo', al momento della firma o del deposito del proprio strumento di ratifica, accettazione, approvazione o adesione, dichiarare di volere avvalersi di una o piu' delle riserve previste dall'articolo 2, paragrafo 2, dall'articolo 6, paragrafo 4, dall'articolo 14, paragrafo 3, dall'articolo 21, paragrafo 2, dall'articolo 25, paragrafo 3 e dell'articolo 32, paragrafo 2.
 
@@ -647,7 +645,7 @@ Nessun'altra riserva e' ammessa.
 
 3\. La Parte che abbia espresso una riserva relativamente ad una disposizione della presente Convenzione non puo' richiedere l'applicazione di tale disposizione ad un'altra Parte; essa puo', tuttavia, se la riserva e' parziale o condizionata, richiedere l'applicazione della disposizione nei limiti in cui essa stessa l'ha accettata.
 
-##### Articolo 41 - Emendamenti
+#### Articolo 41 - Emendamenti
 
 1\. Emendamenti alla presente Convenzione possono essere proposti da qualsiasi Parte e devono essere comunicati dal Segretario Generale del Consiglio d'Europa agli Stati membri dello stesso Consiglio e ad ogni Stato membro che abbia aderito, o sia stato invitato ad aderire, alla presente convenzione a norma dell'articolo 37.
 
@@ -659,7 +657,7 @@ Nessun'altra riserva e' ammessa.
 
 5\. Ogni emendamento adottato a norma del paragrafo 3 del presente articolo entra in vigore nel trentesimo giorno successivo alla data nella quale tutte le Parti abbiano comunicato al Segretario Generale la propria accettazione dello stesso.
 
-##### art. 42
+#### art. 42
 
 Articolo 42 - Risoluzione delle vertenze
 
@@ -667,7 +665,7 @@ Articolo 42 - Risoluzione delle vertenze
 
 2\. In caso di vertenza fra le Parti circa l'interpretazione o l'applicazione della presente Convenzione, esse devono cercare di risolvere la vertenza attraverso negoziati o con qualsiasi altro mezzo pacifico di loro scelta, compreso il riferimento della vertenza al Comitato Europeo per i Problemi Criminali, ad un Collegio arbitrale la cui decisione sara' vincolante per le Parti, o alla Corte Internazionale di Giustizia, a seconda di quando le Parti interessate decideranno di comune accordo.
 
-##### Articolo 43 - Denuncia
+#### Articolo 43 - Denuncia
 
 1\. Ciascuna Parte puo' in qualsiasi momento denunciare la presente Convenzione mediante atto diretto al Segretario Generale del Consiglio d'Europa.
 
@@ -675,7 +673,7 @@ Articolo 42 - Risoluzione delle vertenze
 
 3\. La presente Convenzione, in ogni caso, rimane in vigore per quanto riguarda l'esecuzione ai sensi dell'articolo 14 delle confisce delle quali sia stata fatta richiesta in conformita' alle disposizioni della presente Convenzione prima della data nella quale la denuncia ha effetto.
 
-##### Articolo 44 - Comunicazioni
+#### Articolo 44 - Comunicazioni
 
 Il Segretario Generale del Consiglio d'Europa provvede a comunicare agli Stati membri del Consiglio e a tutti gli Stati che abbiano aderito alla presente Convenzione:
 
@@ -695,6 +693,6 @@ Fatta a Strasburgo, il giorno 8 novembre 1990, nelle lingue inglese e francese, 
 
 Il Segretario Generale del Consiglio d'Europa ne trasmettera' copia autentica ad ogni Stato membro del Consiglio d'Europa, ad ogni Stato non membro che abbia partecipato alla elaborazione della presente Convenzione e ad ogni Stato invitato ad aderirvi.
 
-##### Convention
+#### Convention
 
 Parte di provvedimento in formato grafico

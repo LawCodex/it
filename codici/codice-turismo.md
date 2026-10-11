@@ -54,7 +54,7 @@ Emana
 
 il seguente decreto legislativo:
 
-###### Art. 1
+##### Art. 1
 
 Approvazione del codice della normativa statale in tema di ordinamento e mercato del turismo
 
@@ -68,7 +68,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale, con sentenza 2 - 5 aprile 2012, n. 80 (in G.U. 1a s.s. 11/4/2012, n. 15), ha dichiarato "l'illegittimita' costituzionale dell'articolo 1, comma 1, del decreto legislativo 23 maggio 2011, n. 79 (Codice della normativa statale in tema di ordinamento e mercato del turismo, a norma dell'articolo 14 della legge 28 novembre 2005, n. 246, nonche' attuazione della direttiva 2008/122/CE, relativa ai contratti di multiproprieta', contratti relativi ai prodotti per le vacanze di lungo termine, contratti di rivendita e di scambio), nella parte in cui dispone l'approvazione dell'art. 1, limitatamente alle parole «necessarie all'esercizio unitario delle funzioni amministrative» e «ed altre norme in materia», nonche' degli artt. 2, 3, 8, 9, 10, 11, comma 1, 12, 13, 14, 15, 16, 18, 20, comma 2, 21, 23, commi 1 e 2, 30, comma 1, 68 e 69 dell'allegato 1 del d.lgs. n. 79 del 2011".
 
-###### Art. 2
+##### Art. 2
 
 Modificazioni al decreto legislativo 6 settembre 2005, n. 206, in attuazione della direttiva 2008/122/CE, relativa ai contratti di multiproprieta', contratti relativi ai prodotti per le vacanze di lungo termine, contratti di rivendita e di scambio
 
@@ -664,7 +664,7 @@ Firma del consumatore".
 
 > Il decreto legislativo 6 settembre 2005, n. 206 e' citato nelle premesse.
 
-###### Art. 3
+##### Art. 3
 
 Abrogazioni
 
@@ -750,7 +750,7 @@ o) l'articolo 83 del decreto legislativo 26 marzo 2010, n. 59.
 
 > La legge 6 dicembre 1991, n. 394, reca: "Legge quadro sulle aree protette".
 
-###### Art. 4
+##### Art. 4
 
 Disposizioni finanziarie
 
@@ -792,9 +792,9 @@ Visto, il Guardasigilli: Alfano
 
 ## CODICE DELLA NORMATIVA STATALE IN TEMA DI ORDINAMENTO E MERCATO DEL TURISMO
 
-### TITOLO I - DISPOSIZIONI GENERALI
+## TITOLO I - DISPOSIZIONI GENERALI
 
-#### CAPO I - DEI PRINCIPI GENERALI
+### CAPO I - DEI PRINCIPI GENERALI
 
 ALLEGATO 1
 
@@ -802,7 +802,7 @@ ALLEGATO 1
 
 CODICE DELLA NORMATIVA STATALE IN TEMA DI ORDINAMENTO E MERCATO DEL TURISMO
 
-###### ART. 1 - Ambito di applicazione
+##### ART. 1 - Ambito di applicazione
 
 1\. Il presente codice reca, nei limiti consentiti dalla competenza statale, norme necessarie all'esercizio unitario delle funzioni amministrative in materia di turismo ed altre nome in materia riportabili alle competenze dello Stato, provvedendo al riordino, al coordinamento e all'integrazione delle disposizioni legislative statali vigenti, nel rispetto dell'ordinamento dell'Unione europea e delle attribuzioni delle regioni e degli enti locali.
 
@@ -814,7 +814,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale, con sentenza 2 - 5 aprile 2012, n. 80 (in G.U. 1a s.s. 11/4/2012, n. 15), ha dichiarato "l'illegittimita' costituzionale dell'articolo 1, comma 1, del decreto legislativo 23 maggio 2011, n. 79 (Codice della normativa statale in tema di ordinamento e mercato del turismo, a norma dell'articolo 14 della legge 28 novembre 2005, n. 246, nonche' attuazione della direttiva 2008/122/CE, relativa ai contratti di multiproprieta', contratti relativi ai prodotti per le vacanze di lungo termine, contratti di rivendita e di scambio), nella parte in cui dispone l'approvazione dell'art. 1, limitatamente alle parole «necessarie all'esercizio unitario delle funzioni amministrative» e «ed altre norme in materia», nonche' degli artt. 2, 3, 8, 9, 10, 11, comma 1, 12, 13, 14, 15, 16, 18, 20, comma 2, 21, 23, commi 1 e 2, 30, comma 1, 68 e 69 dell'allegato 1 del d.lgs. n. 79 del 2011".
 
-###### ART. 2 - Principi sulla produzione del diritto in materia turistica
+##### ART. 2 - Principi sulla produzione del diritto in materia turistica
 
 1\. L'intervento legislativo dello Stato nella materia del turismo e' consentito quando il suo oggetto principale costituisce esercizio di una autonoma competenza legislativa statale esclusiva o concorrente.
 
@@ -834,7 +834,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale, con sentenza 2 - 5 aprile 2012, n. 80 (in G.U. 1a s.s. 11/4/2012, n. 15), ha dichiarato "l'illegittimita' costituzionale dell'articolo 1, comma 1, del decreto legislativo 23 maggio 2011, n. 79 (Codice della normativa statale in tema di ordinamento e mercato del turismo, a norma dell'articolo 14 della legge 28 novembre 2005, n. 246, nonche' attuazione della direttiva 2008/122/CE, relativa ai contratti di multiproprieta', contratti relativi ai prodotti per le vacanze di lungo termine, contratti di rivendita e di scambio), nella parte in cui dispone l'approvazione dell'art. 1, limitatamente alle parole «necessarie all'esercizio unitario delle funzioni amministrative» e «ed altre norme in materia», nonche' degli artt. 2, 3, 8, 9, 10, 11, comma 1, 12, 13, 14, 15, 16, 18, 20, comma 2, 21, 23, commi 1 e 2, 30, comma 1, 68 e 69 dell'allegato 1 del d.lgs. n. 79 del 2011".
 
-###### ART. 3 - Principi in tema di turismo accessibile
+##### ART. 3 - Principi in tema di turismo accessibile
 
 1\. In attuazione dell'articolo 30 della Convenzione delle Nazioni Unite sui diritti delle persone con disabilita', fatta a New York il 13 dicembre 2006, ratificata e resa esecutiva con la legge 3 marzo 2009, n. 18, lo Stato assicura che le persone con disabilita' motorie, sensoriali e intellettive possano fruire dell'offerta turistica in modo completo e in autonomia, ricevendo servizi al medesimo livello di qualita' degli altri fruitori senza aggravi del prezzo. Tali garanzie sono estese agli ospiti delle strutture ricettive che soffrono di temporanea mobilita' ridotta.
 
@@ -850,9 +850,9 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale, con sentenza 2 - 5 aprile 2012, n. 80 (in G.U. 1a s.s. 11/4/2012, n. 15), ha dichiarato "l'illegittimita' costituzionale dell'articolo 1, comma 1, del decreto legislativo 23 maggio 2011, n. 79 (Codice della normativa statale in tema di ordinamento e mercato del turismo, a norma dell'articolo 14 della legge 28 novembre 2005, n. 246, nonche' attuazione della direttiva 2008/122/CE, relativa ai contratti di multiproprieta', contratti relativi ai prodotti per le vacanze di lungo termine, contratti di rivendita e di scambio), nella parte in cui dispone l'approvazione dell'art. 1, limitatamente alle parole «necessarie all'esercizio unitario delle funzioni amministrative» e «ed altre norme in materia», nonche' degli artt. 2, 3, 8, 9, 10, 11, comma 1, 12, 13, 14, 15, 16, 18, 20, comma 2, 21, 23, commi 1 e 2, 30, comma 1, 68 e 69 dell'allegato 1 del d.lgs. n. 79 del 2011".
 
-#### CAPO II - IMPRESE TURISTICHE
+### CAPO II - IMPRESE TURISTICHE
 
-###### ART. 4 - Imprese turistiche
+##### ART. 4 - Imprese turistiche
 
 1\. Ai fini del presente decreto legislativo sono imprese turistiche quelle che esercitano attivita' economiche, organizzate per la produzione, la commercializzazione, l'intermediazione e la gestione di prodotti, di servizi, tra cui gli stabilimenti balneari, di infrastrutture e di esercizi, compresi quelli di somministrazione facenti parte dei sistemi turistici locali, concorrenti alla formazione dell'offerta turistica.
 
@@ -862,31 +862,31 @@ La Corte Costituzionale, con sentenza 2 - 5 aprile 2012, n. 80 (in G.U. 1a s.s. 
 
 4\. Le imprese turistiche non costituite conformemente alla legislazione di uno Stato membro dell'Unione europea o di uno Stato AELS (EFTA) possono essere autorizzate a stabilirsi e ad esercitare le loro attivita' in Italia, secondo il principio di reciprocita', previa iscrizione nel registro di cui al comma 2, ed a condizione che posseggano i requisiti richiesti dalle leggi statali e regionali, nonche' dalle linee guida di cui all'articolo 44 del decreto legislativo 31 marzo 1998, n. 112.
 
-###### ART. 5 - Imprese turistiche senza scopo di lucro
+##### ART. 5 - Imprese turistiche senza scopo di lucro
 
 1\. Le associazioni che operano nel settore del turismo giovanile e per finalita' ricreative, culturali, religiose, assistenziali o sociali, sono autorizzate ad esercitare le attivita' di cui all'articolo 4, nel rispetto delle medesime regole e condizioni, esclusivamente per gli associati, anche se appartenenti ad associazioni straniere aventi finalita' analoghe e legate fra di loro da accordi di collaborazione.
 
 2\. Le associazioni di cui al comma 1 assicurano il rispetto dei diritti del turista tutelati dall'ordinamento internazionale e dell'Unione europea.
 
-### TITOLO II - PROFESSIONI E FORMAZIONE NEL SETTORE TURISTICO
+## TITOLO II - PROFESSIONI E FORMAZIONE NEL SETTORE TURISTICO
 
-#### CAPO I - PROFESSIONI TURISTICHE
+### CAPO I - PROFESSIONI TURISTICHE
 
-###### ART. 6 - Definizione
+##### ART. 6 - Definizione
 
 1\. Sono professioni turistiche quelle attivita', aventi ad oggetto la prestazione di servizi di promozione dell'attivita' turistica, nonche' servizi di ospitalita', assistenza, accompagnamento e guida, diretti a consentire ai turisti la migliore fruizione del viaggio e della vacanza, anche sotto il profilo della conoscenza dei luoghi visitati.
 
-#### CAPO II - MERCATO DEL LAVORO
+### CAPO II - MERCATO DEL LAVORO
 
-###### ART. 7 - Percorsi formativi
+##### ART. 7 - Percorsi formativi
 
 1\. Allo scopo di realizzare percorsi formativi finalizzati all'inserimento lavorativo nel settore del mercato turistico dei giovani laureati o diplomati, il Presidente del Consiglio dei Ministri o il Ministro delegato, di concerto con i Ministri dell'istruzione, dell'universita' e della ricerca, del lavoro e delle politiche sociali e della gioventu', d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, e' autorizzato, nell'ambito delle risorse allo scopo disponibili a legislazione vigente, a stipulare accordi o convenzioni con istituti di istruzione, anche universitaria, con altri enti di formazione e con gli ordini professionali per lo svolgimento di corsi orientati alla preparazione dei giovani operatori.
 
-### TITOLO III - MERCATO DEL TURISMO
+## TITOLO III - MERCATO DEL TURISMO
 
-#### CAPO I - STRUTTURE RICETTIVE E ALTRE FORME DI RICETTIVITA'
+### CAPO I - STRUTTURE RICETTIVE E ALTRE FORME DI RICETTIVITA'
 
-###### ART. 8 - Classificazione
+##### ART. 8 - Classificazione
 
 1\. Ai fini del presente decreto legislativo, nonche', in particolare, ai fini dell'esercizio del potere amministrativo statale di cui all'articolo 10 e strutture ricettive si suddividono in:
 
@@ -912,7 +912,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale, con sentenza 2 - 5 aprile 2012, n. 80 (in G.U. 1a s.s. 11/4/2012, n. 15), ha dichiarato "l'illegittimita' costituzionale dell'articolo 1, comma 1, del decreto legislativo 23 maggio 2011, n. 79 (Codice della normativa statale in tema di ordinamento e mercato del turismo, a norma dell'articolo 14 della legge 28 novembre 2005, n. 246, nonche' attuazione della direttiva 2008/122/CE, relativa ai contratti di multiproprieta', contratti relativi ai prodotti per le vacanze di lungo termine, contratti di rivendita e di scambio), nella parte in cui dispone l'approvazione dell'art. 1, limitatamente alle parole «necessarie all'esercizio unitario delle funzioni amministrative» e «ed altre norme in materia», nonche' degli artt. 2, 3, 8, 9, 10, 11, comma 1, 12, 13, 14, 15, 16, 18, 20, comma 2, 21, 23, commi 1 e 2, 30, comma 1, 68 e 69 dell'allegato 1 del d.lgs. n. 79 del 2011".
 
-###### ART. 9 - Strutture ricettive alberghiere e paralberghiere
+##### ART. 9 - Strutture ricettive alberghiere e paralberghiere
 
 1\. Sono strutture ricettive alberghiere e paralberghiere:
 
@@ -958,7 +958,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale, con sentenza 2 - 5 aprile 2012, n. 80 (in G.U. 1a s.s. 11/4/2012, n. 15), ha dichiarato "l'illegittimita' costituzionale dell'articolo 1, comma 1, del decreto legislativo 23 maggio 2011, n. 79 (Codice della normativa statale in tema di ordinamento e mercato del turismo, a norma dell'articolo 14 della legge 28 novembre 2005, n. 246, nonche' attuazione della direttiva 2008/122/CE, relativa ai contratti di multiproprieta', contratti relativi ai prodotti per le vacanze di lungo termine, contratti di rivendita e di scambio), nella parte in cui dispone l'approvazione dell'art. 1, limitatamente alle parole «necessarie all'esercizio unitario delle funzioni amministrative» e «ed altre norme in materia», nonche' degli artt. 2, 3, 8, 9, 10, 11, comma 1, 12, 13, 14, 15, 16, 18, 20, comma 2, 21, 23, commi 1 e 2, 30, comma 1, 68 e 69 dell'allegato 1 del d.lgs. n. 79 del 2011".
 
-###### ART. 10 - Classificazione standard qualitativi
+##### ART. 10 - Classificazione standard qualitativi
 
 1\. Gli standard minimi nazionali per le imprese turistiche ricettive, escluse le strutture agrituristiche che sono disciplinate ai sensi della legge 20 febbraio 2006, n. 96, recante disciplina dell'agriturismo, sono disciplinati con decreto del Presidente del Consiglio dei Ministri, o del Ministro delegato, previa consultazione delle associazioni di categoria e dei rappresentanti delle regioni e delle province autonome di Trento e di Bolzano e acquisita l'intesa con la Conferenza permanente dei rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano.
 
@@ -976,7 +976,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale, con sentenza 2 - 5 aprile 2012, n. 80 (in G.U. 1a s.s. 11/4/2012, n. 15), ha dichiarato "l'illegittimita' costituzionale dell'articolo 1, comma 1, del decreto legislativo 23 maggio 2011, n. 79 (Codice della normativa statale in tema di ordinamento e mercato del turismo, a norma dell'articolo 14 della legge 28 novembre 2005, n. 246, nonche' attuazione della direttiva 2008/122/CE, relativa ai contratti di multiproprieta', contratti relativi ai prodotti per le vacanze di lungo termine, contratti di rivendita e di scambio), nella parte in cui dispone l'approvazione dell'art. 1, limitatamente alle parole «necessarie all'esercizio unitario delle funzioni amministrative» e «ed altre norme in materia», nonche' degli artt. 2, 3, 8, 9, 10, 11, comma 1, 12, 13, 14, 15, 16, 18, 20, comma 2, 21, 23, commi 1 e 2, 30, comma 1, 68 e 69 dell'allegato 1 del d.lgs. n. 79 del 2011".
 
-###### ART. 11 - art. 1 legge 25 agosto 1991, n. 284
+##### ART. 11 - art. 1 legge 25 agosto 1991, n. 284
 
 (Pubblicita' dei prezzi)
 
@@ -990,9 +990,9 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale, con sentenza 2 - 5 aprile 2012, n. 80 (in G.U. 1a s.s. 11/4/2012, n. 15), ha dichiarato "l'illegittimita' costituzionale dell'articolo 1, comma 1, del decreto legislativo 23 maggio 2011, n. 79 (Codice della normativa statale in tema di ordinamento e mercato del turismo, a norma dell'articolo 14 della legge 28 novembre 2005, n. 246, nonche' attuazione della direttiva 2008/122/CE, relativa ai contratti di multiproprieta', contratti relativi ai prodotti per le vacanze di lungo termine, contratti di rivendita e di scambio), nella parte in cui dispone l'approvazione dell'art. 1, limitatamente alle parole «necessarie all'esercizio unitario delle funzioni amministrative» e «ed altre norme in materia», nonche' degli artt. 2, 3, 8, 9, 10, 11, comma 1, 12, 13, 14, 15, 16, 18, 20, comma 2, 21, 23, commi 1 e 2, 30, comma 1, 68 e 69 dell'allegato 1 del d.lgs. n. 79 del 2011".
 
-#### CAPO II - ALTRE STRUTTURE RICETTIVE
+### CAPO II - ALTRE STRUTTURE RICETTIVE
 
-###### ART. 12 - Strutture ricettive extralberghiere
+##### ART. 12 - Strutture ricettive extralberghiere
 
 1\. Ai fini del presente decreto legislativo, nonche' ai fini dell'esercizio del potere amministrativo statale di cui all'articolo 15, sono strutture ricettive extralberghiere:
 
@@ -1070,7 +1070,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale, con sentenza 2 - 5 aprile 2012, n. 80 (in G.U. 1a s.s. 11/4/2012, n. 15), ha dichiarato "l'illegittimita' costituzionale dell'articolo 1, comma 1, del decreto legislativo 23 maggio 2011, n. 79 (Codice della normativa statale in tema di ordinamento e mercato del turismo, a norma dell'articolo 14 della legge 28 novembre 2005, n. 246, nonche' attuazione della direttiva 2008/122/CE, relativa ai contratti di multiproprieta', contratti relativi ai prodotti per le vacanze di lungo termine, contratti di rivendita e di scambio), nella parte in cui dispone l'approvazione dell'art. 1, limitatamente alle parole «necessarie all'esercizio unitario delle funzioni amministrative» e «ed altre norme in materia», nonche' degli artt. 2, 3, 8, 9, 10, 11, comma 1, 12, 13, 14, 15, 16, 18, 20, comma 2, 21, 23, commi 1 e 2, 30, comma 1, 68 e 69 dell'allegato 1 del d.lgs. n. 79 del 2011".
 
-###### ART. 13 - Strutture ricettive all'aperto
+##### ART. 13 - Strutture ricettive all'aperto
 
 1\. Ai fini del presente decreto legislativo, nonche' ai fini dell'esercizio del potere amministrativo statale di cui all'articolo 15, sono strutture ricettive all'aperto:
 
@@ -1112,7 +1112,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale, con sentenza 2 - 5 aprile 2012, n. 80 (in G.U. 1a s.s. 11/4/2012, n. 15), ha dichiarato "l'illegittimita' costituzionale dell'articolo 1, comma 1, del decreto legislativo 23 maggio 2011, n. 79 (Codice della normativa statale in tema di ordinamento e mercato del turismo, a norma dell'articolo 14 della legge 28 novembre 2005, n. 246, nonche' attuazione della direttiva 2008/122/CE, relativa ai contratti di multiproprieta', contratti relativi ai prodotti per le vacanze di lungo termine, contratti di rivendita e di scambio), nella parte in cui dispone l'approvazione dell'art. 1, limitatamente alle parole «necessarie all'esercizio unitario delle funzioni amministrative» e «ed altre norme in materia», nonche' degli artt. 2, 3, 8, 9, 10, 11, comma 1, 12, 13, 14, 15, 16, 18, 20, comma 2, 21, 23, commi 1 e 2, 30, comma 1, 68 e 69 dell'allegato 1 del d.lgs. n. 79 del 2011".
 
-###### ART. 14 - Strutture ricettive di mero supporto
+##### ART. 14 - Strutture ricettive di mero supporto
 
 1\. Ai fini del presente decreto legislativo, nonche' ai fini dell'esercizio del potere statale di cui all'articolo 15, si definiscono di mero supporto le strutture ricettive allestite dagli enti locali per coadiuvare il campeggio itinerante, escursionistico e locale.
 
@@ -1126,9 +1126,9 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale, con sentenza 2 - 5 aprile 2012, n. 80 (in G.U. 1a s.s. 11/4/2012, n. 15), ha dichiarato "l'illegittimita' costituzionale dell'articolo 1, comma 1, del decreto legislativo 23 maggio 2011, n. 79 (Codice della normativa statale in tema di ordinamento e mercato del turismo, a norma dell'articolo 14 della legge 28 novembre 2005, n. 246, nonche' attuazione della direttiva 2008/122/CE, relativa ai contratti di multiproprieta', contratti relativi ai prodotti per le vacanze di lungo termine, contratti di rivendita e di scambio), nella parte in cui dispone l'approvazione dell'art. 1, limitatamente alle parole «necessarie all'esercizio unitario delle funzioni amministrative» e «ed altre norme in materia», nonche' degli artt. 2, 3, 8, 9, 10, 11, comma 1, 12, 13, 14, 15, 16, 18, 20, comma 2, 21, 23, commi 1 e 2, 30, comma 1, 68 e 69 dell'allegato 1 del d.lgs. n. 79 del 2011".
 
-#### CAPO III - DISPOSIZIONI COMUNI PER LE STRUTTURE TURISTICO RICETTIVE
+### CAPO III - DISPOSIZIONI COMUNI PER LE STRUTTURE TURISTICO RICETTIVE
 
-###### ART. 15 - Standard qualitativi
+##### ART. 15 - Standard qualitativi
 
 1\. Fatta salva la competenza delle regioni e delle province autonome di Trento e di Bolzano, al fine di uniformare l'offerta turistica nazionale, il Presidente del Consiglio dei Ministri o il Ministro delegato fissa gli standard minimi nazionali dei servizi e delle dotazioni per la classificazione delle strutture ricettive di cui agli articoli 8, 9, 12, 13 e 14, acquisita l'intesa con la Conferenza permanente dei rapporti tra lo Stato e le regioni e le province autonome di Trento e di Bolzano. La classificazione delle strutture ricettive agrituristiche e' disciplinata ai sensi della legge 20 febbraio 2006, n. 96, recante disciplina dell'agriturismo.
 
@@ -1142,7 +1142,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale, con sentenza 2 - 5 aprile 2012, n. 80 (in G.U. 1a s.s. 11/4/2012, n. 15), ha dichiarato "l'illegittimita' costituzionale dell'articolo 1, comma 1, del decreto legislativo 23 maggio 2011, n. 79 (Codice della normativa statale in tema di ordinamento e mercato del turismo, a norma dell'articolo 14 della legge 28 novembre 2005, n. 246, nonche' attuazione della direttiva 2008/122/CE, relativa ai contratti di multiproprieta', contratti relativi ai prodotti per le vacanze di lungo termine, contratti di rivendita e di scambio), nella parte in cui dispone l'approvazione dell'art. 1, limitatamente alle parole «necessarie all'esercizio unitario delle funzioni amministrative» e «ed altre norme in materia», nonche' degli artt. 2, 3, 8, 9, 10, 11, comma 1, 12, 13, 14, 15, 16, 18, 20, comma 2, 21, 23, commi 1 e 2, 30, comma 1, 68 e 69 dell'allegato 1 del d.lgs. n. 79 del 2011".
 
-###### ART. 16 - Semplificazione degli adempimenti amministrativi delle strutture turistico - ricettive
+##### ART. 16 - Semplificazione degli adempimenti amministrativi delle strutture turistico - ricettive
 
 1\. L'avvio e l'esercizio delle strutture turistico - ricettive sono soggetti a segnalazione certificata di inizio attivita' nei limiti e alle condizioni di cui all'articolo 19 della legge 7 agosto 1990, n. 241.
 
@@ -1164,15 +1164,15 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale, con sentenza 2 - 5 aprile 2012, n. 80 (in G.U. 1a s.s. 11/4/2012, n. 15), ha dichiarato "l'illegittimita' costituzionale dell'articolo 1, comma 1, del decreto legislativo 23 maggio 2011, n. 79 (Codice della normativa statale in tema di ordinamento e mercato del turismo, a norma dell'articolo 14 della legge 28 novembre 2005, n. 246, nonche' attuazione della direttiva 2008/122/CE, relativa ai contratti di multiproprieta', contratti relativi ai prodotti per le vacanze di lungo termine, contratti di rivendita e di scambio), nella parte in cui dispone l'approvazione dell'art. 1, limitatamente alle parole «necessarie all'esercizio unitario delle funzioni amministrative» e «ed altre norme in materia», nonche' degli artt. 2, 3, 8, 9, 10, 11, comma 1, 12, 13, 14, 15, 16, 18, 20, comma 2, 21, 23, commi 1 e 2, 30, comma 1, 68 e 69 dell'allegato 1 del d.lgs. n. 79 del 2011".
 
-###### ART. 17 - Sportello unico
+##### ART. 17 - Sportello unico
 
 1\. Al fine di garantire l'applicazione dei principi di trasparenza, uniformita', celerita' del procedimento ovvero la maggiore accessibilita' del mercato si applicano alle imprese del presente capo le disposizioni relative allo Sportello unico di cui all'articolo 38 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e del relativo regolamento attuativo, fatte salve le forme di semplificazione piu' avanzata previste dalle specifiche discipline regionali.
 
-### TITOLO IV - AGENZIE DI VIAGGIO E TURISMO
+## TITOLO IV - AGENZIE DI VIAGGIO E TURISMO
 
-#### CAPO I - AGENZIE E ORGANIZZATORI DI VIAGGI
+### CAPO I - AGENZIE E ORGANIZZATORI DI VIAGGI
 
-###### ART. 18 - Definizioni
+##### ART. 18 - Definizioni
 
 1\. Le agenzie di viaggio e turismo sono le imprese turistiche che esercitano congiuntamente o disgiuntamente attivita' di produzione, organizzazione ed intermediazione di viaggi e soggiorni e ogni altra forma di prestazione turistica a servizio dei clienti, siano essi di accoglienza che di assistenza, con o senza vendita diretta al pubblico, ivi compresi i compiti di assistenza e di accoglienza ai turisti, in conformita' al decreto legislativo 6 settembre 2005, n. 206.
 
@@ -1200,11 +1200,11 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale, con sentenza 2 - 5 aprile 2012, n. 80 (in G.U. 1a s.s. 11/4/2012, n. 15), ha dichiarato "l'illegittimita' costituzionale dell'articolo 1, comma 1, del decreto legislativo 23 maggio 2011, n. 79 (Codice della normativa statale in tema di ordinamento e mercato del turismo, a norma dell'articolo 14 della legge 28 novembre 2005, n. 246, nonche' attuazione della direttiva 2008/122/CE, relativa ai contratti di multiproprieta', contratti relativi ai prodotti per le vacanze di lungo termine, contratti di rivendita e di scambio), nella parte in cui dispone l'approvazione dell'art. 1, limitatamente alle parole «necessarie all'esercizio unitario delle funzioni amministrative» e «ed altre norme in materia», nonche' degli artt. 2, 3, 8, 9, 10, 11, comma 1, 12, 13, 14, 15, 16, 18, 20, comma 2, 21, 23, commi 1 e 2, 30, comma 1, 68 e 69 dell'allegato 1 del d.lgs. n. 79 del 2011".
 
-###### ART. 19 - Obbligo di assicurazione
+##### ART. 19 - Obbligo di assicurazione
 
 1\. Per lo svolgimento della loro attivita', le agenzie di viaggio e turismo stipulano congrue polizze assicurative a garanzia dell'esatto adempimento degli obblighi assunti verso i clienti con il contratto di viaggio in relazione al costo complessivo dei servizi offerti.
 
-###### ART. 20 - Direttore tecnico
+##### ART. 20 - Direttore tecnico
 
 1\. Con decreto del Presidente del Consiglio dei Ministri o del Ministro delegato sono fissati i requisiti professionali a livello nazionale dei direttori tecnici delle agenzia di viaggio e turismo, previo intesa con la Conferenza permanente per il rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano.
 
@@ -1216,7 +1216,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale, con sentenza 2 - 5 aprile 2012, n. 80 (in G.U. 1a s.s. 11/4/2012, n. 15), ha dichiarato "l'illegittimita' costituzionale dell'articolo 1, comma 1, del decreto legislativo 23 maggio 2011, n. 79 (Codice della normativa statale in tema di ordinamento e mercato del turismo, a norma dell'articolo 14 della legge 28 novembre 2005, n. 246, nonche' attuazione della direttiva 2008/122/CE, relativa ai contratti di multiproprieta', contratti relativi ai prodotti per le vacanze di lungo termine, contratti di rivendita e di scambio), nella parte in cui dispone l'approvazione dell'art. 1, limitatamente alle parole «necessarie all'esercizio unitario delle funzioni amministrative» e «ed altre norme in materia», nonche' degli artt. 2, 3, 8, 9, 10, 11, comma 1, 12, 13, 14, 15, 16, 18, 20, comma 2, 21, 23, commi 1 e 2, 30, comma 1, 68 e 69 dell'allegato 1 del d.lgs. n. 79 del 2011".
 
-###### ART. 21 - Semplificazione degli adempimenti amministrativi relativi alle agenzie di viaggi e turismo
+##### ART. 21 - Semplificazione degli adempimenti amministrativi relativi alle agenzie di viaggi e turismo
 
 1\. L'apertura, il trasferimento e le modifiche concernenti l'operativita' delle agenzie di viaggi e turismo, sono soggette, nel rispetto dei requisiti professionali, di onorabilita' e finanziari previsti dalle leggi delle regioni e delle province autonome di Trento e Bolzano, alla segnalazione certificata di inizio attivita' nei limiti ed alle condizioni di cui all'articolo 19 della legge 7 agosto 1990, n. 241.
 
@@ -1232,11 +1232,11 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale, con sentenza 2 - 5 aprile 2012, n. 80 (in G.U. 1a s.s. 11/4/2012, n. 15), ha dichiarato "l'illegittimita' costituzionale dell'articolo 1, comma 1, del decreto legislativo 23 maggio 2011, n. 79 (Codice della normativa statale in tema di ordinamento e mercato del turismo, a norma dell'articolo 14 della legge 28 novembre 2005, n. 246, nonche' attuazione della direttiva 2008/122/CE, relativa ai contratti di multiproprieta', contratti relativi ai prodotti per le vacanze di lungo termine, contratti di rivendita e di scambio), nella parte in cui dispone l'approvazione dell'art. 1, limitatamente alle parole «necessarie all'esercizio unitario delle funzioni amministrative» e «ed altre norme in materia», nonche' degli artt. 2, 3, 8, 9, 10, 11, comma 1, 12, 13, 14, 15, 16, 18, 20, comma 2, 21, 23, commi 1 e 2, 30, comma 1, 68 e 69 dell'allegato 1 del d.lgs. n. 79 del 2011".
 
-### TITOLO V - TIPOLOGIE DI PRODOTTI TURISTICI E RELATIVI CIRCUITI NAZIONALI DI ECCELLENZA
+## TITOLO V - TIPOLOGIE DI PRODOTTI TURISTICI E RELATIVI CIRCUITI NAZIONALI DI ECCELLENZA
 
-#### CAPO I - DISPOSIZIONI GENERALI
+### CAPO I - DISPOSIZIONI GENERALI
 
-###### ART. 22 - Circuiti nazionali di eccellenza a sostegno dell'offerta turistica e del sistema Italia
+##### ART. 22 - Circuiti nazionali di eccellenza a sostegno dell'offerta turistica e del sistema Italia
 
 1\. Al fine di superare la frammentazione della promozione e della strutturazione dell'offerta per promuovere circuiti virtuosi, in grado di collegare tutta l'Italia e di contribuire strategicamente a creare un'offerta tematica idonea a soddisfare le molteplici esigenze dei turisti nazionali e internazionali, sono realizzati i circuiti nazionali di eccellenza a sostegno dell'offerta e dell'immagine turistica dell'Italia, corrispondenti ai contesti turistici omogenei o rappresentanti realta' analoghe e costituenti eccellenze italiane, nonche' veri e propri itinerari tematici lungo tutto il territorio nazionale.
 
@@ -1270,7 +1270,7 @@ o) turismo delle arti e dello spettacolo.
 
 3\. Il Presidente del Consiglio dei Ministri o il Ministro delegato promuove i circuiti nazionali di eccellenza nel contesto nazionale ed internazionale, anche con la partecipazione degli enti locali, delle regioni, delle associazioni di categoria e dei soggetti pubblici e privati interessati che concorrono alla formazione dell'offerta.
 
-###### ART. 23 - Sistemi turistici locali
+##### ART. 23 - Sistemi turistici locali
 
 1\. Si definiscono sistemi turistici locali i contesti turistici omogenei o integrati, comprendenti ambiti territoriali appartenenti anche a regioni diverse, caratterizzati dall'offerta integrata di beni culturali, ambientali e di attrazioni turistiche, compresi i prodotti tipici dell'agricoltura e dell'artigianato locale, o dalla presenza diffusa di imprese turistiche singole o associate. ((2))
 
@@ -1284,13 +1284,13 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale, con sentenza 2 - 5 aprile 2012, n. 80 (in G.U. 1a s.s. 11/4/2012, n. 15), ha dichiarato "l'illegittimita' costituzionale dell'articolo 1, comma 1, del decreto legislativo 23 maggio 2011, n. 79 (Codice della normativa statale in tema di ordinamento e mercato del turismo, a norma dell'articolo 14 della legge 28 novembre 2005, n. 246, nonche' attuazione della direttiva 2008/122/CE, relativa ai contratti di multiproprieta', contratti relativi ai prodotti per le vacanze di lungo termine, contratti di rivendita e di scambio), nella parte in cui dispone l'approvazione dell'art. 1, limitatamente alle parole «necessarie all'esercizio unitario delle funzioni amministrative» e «ed altre norme in materia», nonche' degli artt. 2, 3, 8, 9, 10, 11, comma 1, 12, 13, 14, 15, 16, 18, 20, comma 2, 21, 23, commi 1 e 2, 30, comma 1, 68 e 69 dell'allegato 1 del d.lgs. n. 79 del 2011".
 
-#### CAPO II - TURISMO CULTURALE
+### CAPO II - TURISMO CULTURALE
 
-###### ART. 24 - Incentivazione di iniziative di promozione turistica finalizzate alla valorizzazione del patrimonio storico - artistico, archeologico, architettonico e paesaggistico italiano
+##### ART. 24 - Incentivazione di iniziative di promozione turistica finalizzate alla valorizzazione del patrimonio storico - artistico, archeologico, architettonico e paesaggistico italiano
 
 1\. Nel rispetto dell'articolo 9 della Costituzione e del codice dei beni culturali e del paesaggio di cui al decreto legislativo 22 gennaio 2004, n. 42, il Presidente del Consiglio dei Ministri o il Ministro delegato, di concerto con il Ministro per i beni e le attivita' culturali, promuove la realizzazione di iniziative turistiche finalizzate ad incentivare la valorizzazione del patrimonio storico - artistico, archeologico, architettonico e paesaggistico presente sul territorio italiano, utilizzando le risorse umane e strumentali disponibili, senza nuovi ed ulteriori oneri per la finanza pubblica.
 
-###### ART. 25 - Strumenti di programmazione negoziale
+##### ART. 25 - Strumenti di programmazione negoziale
 
 1\. Ai fini del perseguimento degli obiettivi di cui all'articolo 22, le amministrazioni interessate, statali, regionali e locali, promuovono ed utilizzano gli strumenti di programmazione negoziale di cui all'articolo 2, comma 203, della legge 23 dicembre 1996, n. 662.
 
@@ -1304,13 +1304,13 @@ b) garantire, ai fini dell'incremento dei flussi turistici, in particolare dall'
 
 c) assicurare la effettiva fruibilita', da parte del pubblico dei visitatori, in particolare di quelli stranieri, del predetto patrimonio attraverso la predisposizione di materiale informativo redatto obbligatoriamente nelle lingue inglese, francese e tedesco, e, preferibilmente, in lingua cinese.
 
-###### ART. 26 - Funzioni di monitoraggio
+##### ART. 26 - Funzioni di monitoraggio
 
 1\. Le funzioni di monitoraggio delle attivita', elencate all'articolo 22, comma 2, sono svolte dal Comitato permanente di promozione del turismo in Italia, nel rispetto delle funzioni e delle competenze degli uffici del Ministero per i beni e le attivita' culturali e tenendo conto dei contratti relativi ai sevizi di assistenza culturale e ospitalita' per il pubblico, utilizzando le risorse umane e strumentali disponibili, senza nuovi ed ulteriori oneri per la finanza pubblica.
 
-#### CAPO III - TURISMO SOCIALE
+### CAPO III - TURISMO SOCIALE
 
-###### ART. 27 - Fondo buoni vacanze
+##### ART. 27 - Fondo buoni vacanze
 
 1\. Presso il Dipartimento per lo sviluppo e competitivita' del turismo opera il Fondo di cui alla disciplina prevista dall'articolo 2, comma 193, della legge 24 dicembre 2007, n. 244, di seguito denominato: "Fondo buoni vacanze". Ad esso affluiscono:
 
@@ -1322,21 +1322,21 @@ c) ((LETTERA ABROGATA DAL D.L. 9 FEBBRAIO 2012, N. 5 CONVERTITO CON MODIFICAZION
 
 2\. Allo scopo di favorire la crescita competitiva dell'offerta del sistema turistico nazionale con appositi decreti, di natura non regolamentare, del Presidente del Consiglio dei Ministri o del Ministro delegato, di concerto con il Ministro dell'economia e delle finanze, sentito il Dipartimento per le politiche della famiglia, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono definite le modalita' per l'erogazione di buoni vacanza da destinare ad interventi di solidarieta' in favore delle fasce sociali piu' deboli, anche per la soddisfazione delle esigenze di destagionalizzazione dei flussi turistici ed anche ai fini della valorizzazione delle aree che non abbiano ancora conosciuto una adeguata fruizione turistica.
 
-#### CAPO IV - ALTRI SETTORI
+### CAPO IV - ALTRI SETTORI
 
-###### ART. 28 - Turismo termale e del benessere
+##### ART. 28 - Turismo termale e del benessere
 
 1\. Il turismo termale e' disciplinato dalla legge 24 ottobre 2000, n. 323, e successive modificazioni.
 
 2\. Il turismo del benessere segue la disciplina prevista dal titolo III del presente Codice.
 
-###### ART. 29 - Turismo della natura e faunistico
+##### ART. 29 - Turismo della natura e faunistico
 
 1\. L'agriturismo e' disciplinato dall'articolo 3 del decreto legislativo 18 maggio 2001, n. 228, e dalla legge 20 febbraio 2006, n. 96.
 
 2\. Il turismo della natura comprende le attivita' di ospitalita', ricreative, didattiche, culturali e di servizi finalizzate alla corretta fruizione e alla valorizzazione delle risorse naturalistiche, del patrimonio faunistico e acquatico e degli itinerari di recupero delle ippovie e delle antiche trazzere del Paese. Per quanto non specificamente previsto dalle normative di settore, e' disciplinato dal titolo III del presente Codice.
 
-###### ART. 30 - Turismo con animali al seguito
+##### ART. 30 - Turismo con animali al seguito
 
 1\. Al fine di aumentare la competitivita' del settore e l'offerta dei servizi turistici a favore dei visitatori nazionali ed internazionali, lo Stato promuove ogni iniziativa volta ad agevolare e favorire l'accesso ai servizi pubblici e nei luoghi aperti al pubblico dei turisti con animali domestici al seguito. ((2))
 
@@ -1348,17 +1348,17 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale, con sentenza 2 - 5 aprile 2012, n. 80 (in G.U. 1a s.s. 11/4/2012, n. 15), ha dichiarato "l'illegittimita' costituzionale dell'articolo 1, comma 1, del decreto legislativo 23 maggio 2011, n. 79 (Codice della normativa statale in tema di ordinamento e mercato del turismo, a norma dell'articolo 14 della legge 28 novembre 2005, n. 246, nonche' attuazione della direttiva 2008/122/CE, relativa ai contratti di multiproprieta', contratti relativi ai prodotti per le vacanze di lungo termine, contratti di rivendita e di scambio), nella parte in cui dispone l'approvazione dell'art. 1, limitatamente alle parole «necessarie all'esercizio unitario delle funzioni amministrative» e «ed altre norme in materia», nonche' degli artt. 2, 3, 8, 9, 10, 11, comma 1, 12, 13, 14, 15, 16, 18, 20, comma 2, 21, 23, commi 1 e 2, 30, comma 1, 68 e 69 dell'allegato 1 del d.lgs. n. 79 del 2011".
 
-###### ART. 31 - Turismo nautico
+##### ART. 31 - Turismo nautico
 
 1\. Ferma restando l'osservanza della normativa statale in materia di tutela dell'ambiente e del patrimonio culturale e dei regolamenti di fruizione delle aree naturali protette, la realizzazione delle strutture di interesse turistico-ricreativo dedicate alla nautica da diporto di cui all'articolo 2, comma 1, lettera c), del regolamento di cui al decreto del Presidente della Repubblica 2 dicembre 1997, n. 509, ivi compresi i pontili galleggianti a carattere stagionale, pur se ricorrente, mediante impianti di ancoraggio con corpi morti e catenarie, collegamento con la terraferma e apprestamento di servizi complementari, per la quale sia stata assentita, nel rispetto della disciplina paesaggistica e ambientale, concessione demaniale marittima o lacuale, anche provvisoria, non necessita di alcun ulteriore titolo abilitativo edilizio e demaniale, ferma restando la quantificazione del canone in base alla superficie occupata. Sono comunque fatte salve le competenze regionali in materia di demanio marittimo, lacuale e fluviale.
 
-### TITOLO I - CONTRATTI
+## TITOLO I - CONTRATTI
 
-#### CAPO I - CONTRATTI DEL TURISMO ORGANIZZATO
+### CAPO I - CONTRATTI DEL TURISMO ORGANIZZATO
 
-##### ((Sezione I - Pacchetti turistici e servizi turistici collegati))
+#### ((Sezione I - Pacchetti turistici e servizi turistici collegati))
 
-###### ART. 32
+##### ART. 32
 
 (( (Ambito di applicazione). ))
 
@@ -1374,7 +1374,7 @@ c) pacchetti e servizi turistici collegati acquistati nell'ambito di un accordo 
 
 3\. Per quanto non previsto dal presente Capo, si applicano le disposizioni del codice del consumo di cui al decreto legislativo 6 settembre 2005, n. 206)).
 
-###### ART. 33
+##### ART. 33
 
 (( (Definizioni). ))
 
@@ -1444,9 +1444,9 @@ s) "rientro": il ritorno del viaggiatore al luogo di partenza o ad altro luogo c
 
 4\. Non costituisce un servizio turistico collegato l'acquisto di uno dei tipi di servizi turistici di cui al comma 1, lettera a), numeri 1), 2) o 3), con uno o piu' dei servizi turistici di cui al comma 1, lettera a), numero 4), se questi ultimi servizi non rappresentano una porzione significativa pari o superiore al 25 per cento del valore combinato dei servizi e non sono pubblicizzati come un elemento essenziale del viaggio o della vacanza e non ne costituiscono, comunque, un elemento essenziale)).
 
-##### ((Sezione II - Obblighi di informazione e contenuto del contratto di pacchetto turistico))
+#### ((Sezione II - Obblighi di informazione e contenuto del contratto di pacchetto turistico))
 
-###### ART. 34
+##### ART. 34
 
 (( (Informazioni precontrattuali). ))
 
@@ -1494,7 +1494,7 @@ Contemporaneamente, l'organizzatore fornisce inoltre le informazioni standard de
 
 4\. Le informazioni di cui ai commi 1, 2 e 3 sono fornite in modo chiaro e preciso e, ove sono fornite per iscritto, devono essere leggibili)).
 
-###### ART. 35
+##### ART. 35
 
 (( (Carattere vincolante delle informazioni precontrattuali e conclusione del contratto di pacchetto turistico). ))
 
@@ -1504,7 +1504,7 @@ Contemporaneamente, l'organizzatore fornisce inoltre le informazioni standard de
 
 3\. Se l'organizzatore e il venditore non hanno ottemperato agli obblighi in materia di informazione sulle imposte, sui diritti o su altri costi aggiuntivi di cui all'articolo 34, comma 1, lettera c), prima della conclusione del contratto di pacchetto turistico, il viaggiatore non e' tenuto al pagamento di tali costi)).
 
-###### ART. 36
+##### ART. 36
 
 (( (Contenuto del contratto di pacchetto turistico e documenti da fornire prima dell'inizio del pacchetto). ))
 
@@ -1540,7 +1540,7 @@ h) informazioni sul diritto del viaggiatore di cedere il contratto a un altro vi
 
 8\. In tempo utile prima dell'inizio del pacchetto, l'organizzatore fornisce al viaggiatore le ricevute, i buoni e i biglietti necessari, le informazioni sull'orario della partenza previsto e il termine ultimo per l'accettazione, nonche' gli orari delle soste intermedie, delle coincidenze e dell'arrivo)).
 
-###### ART. 37
+##### ART. 37
 
 (( (Onere della prova e divieto di fornire informazioni
 
@@ -1550,9 +1550,9 @@ ingannevoli). ))
 
 2\. E' fatto comunque divieto di fornire informazioni ingannevoli sulle modalita' del servizio offerto, sul prezzo e sugli altri elementi del contratto qualunque sia il mezzo mediante il quale dette informazioni vengono comunicate al viaggiatore)).
 
-##### ((Sezione III - Modifiche al contratto di pacchetto turistico prima dell'inizio del pacchetto))
+#### ((Sezione III - Modifiche al contratto di pacchetto turistico prima dell'inizio del pacchetto))
 
-###### ART. 38
+##### ART. 38
 
 (( (Cessione del contratto di pacchetto turistico a un altro viaggiatore). ))
 
@@ -1562,7 +1562,7 @@ ingannevoli). ))
 
 3\. L'organizzatore informa il cedente dei costi effettivi della cessione, che non possono essere irragionevoli e non eccedono le spese realmente sostenute dall'organizzatore in conseguenza della cessione del contratto di pacchetto turistico, e fornisce al cedente la prova relativa ai diritti, alle imposte o agli altri costi aggiuntivi risultanti dalla cessione del contratto)).
 
-###### ART. 39
+##### ART. 39
 
 (( (Revisione del prezzo). ))
 
@@ -1582,7 +1582,7 @@ c) i tassi di cambio pertinenti al pacchetto.
 
 5\. In caso di diminuzione del prezzo, l'organizzatore ha diritto a detrarre le spese amministrative e di gestione delle pratiche effettive dal rimborso dovuto al viaggiatore, delle quali e' tenuto a fornire la prova su richiesta del viaggiatore)).
 
-###### ART. 40
+##### ART. 40
 
 (( (Modifica di altre condizioni del contratto di pacchetto turistico). ))
 
@@ -1604,7 +1604,7 @@ c) delle conseguenze della mancata risposta del viaggiatore entro il periodo di 
 
 5\. In caso di recesso dal contratto di pacchetto turistico ai sensi del comma 2, se il viaggiatore non accetta un pacchetto sostitutivo, l'organizzatore rimborsa senza ingiustificato ritardo e in ogni caso entro quattordici giorni dal recesso dal contratto tutti i pagamenti effettuati da o per conto del viaggiatore e si applicano le disposizioni di cui all'articolo 43, commi 2, 3, 4, 5, 6, 7, 8)).
 
-###### ART. 41 - Diritto di recesso prima dell'inizio del pacchetto
+##### ART. 41 - Diritto di recesso prima dell'inizio del pacchetto
 
 1\. Il viaggiatore puo' recedere dal contratto di pacchetto turistico in ogni momento prima dell'inizio del pacchetto, dietro rimborso all'organizzatore delle spese sostenute, adeguate e giustificabili, del cui ammontare quest'ultimo fornisce motivazione al viaggiatore che ne faccia richiesta.
 
@@ -1636,9 +1636,9 @@ Il D.L. 17 marzo 2020, n. 18, convertito con modificazioni dalla L. 24 aprile 20
 
 \- (con l'art. 88-bis, comma 8) che "Per la sospensione dei viaggi e delle iniziative di istruzione disposta in ragione dello stato di emergenza deliberato dal Consiglio dei ministri il 31 gennaio 2020, si applica l'articolo 1463 del codice civile nonche' quanto previsto dall'articolo 41, comma 4, del codice di cui al decreto legislativo 23 maggio 2011, n. 79, in ordine al diritto di recesso del viaggiatore prima dell'inizio del pacchetto di viaggio. Il rimborso puo' essere effettuato dall'organizzatore anche mediante l'emissione di un voucher di pari importo in favore del proprio contraente, da utilizzare entro un anno dall'emissione. In deroga all'articolo 41, comma 6, del decreto legislativo 23 maggio 2011, n. 79, l'organizzatore corrisponde il rimborso o emette il voucher appena ricevuti i rimborsi o i voucher dai singoli fornitori di servizi e comunque non oltre sessanta giorni dalla data prevista di inizio del viaggio".
 
-##### ((Sezione IV - Esecuzione del pacchetto))
+#### ((Sezione IV - Esecuzione del pacchetto))
 
-###### ART. 42
+##### ART. 42
 
 (( (Responsabilita' dell'organizzatore per l'inesatta esecuzione del pacchetto e per la sopravvenuta impossibilita' in corso d'esecuzione del pacchetto). ))
 
@@ -1664,7 +1664,7 @@ Il D.L. 17 marzo 2020, n. 18, convertito con modificazioni dalla L. 24 aprile 20
 
 11\. Laddove, a causa di circostanze sopravvenute non imputabili all'organizzatore, e' impossibile assicurare il rientro del viaggiatore come pattuito nel contratto di pacchetto turistico, si applicano i commi 6 e 7)).
 
-###### ART. 43
+##### ART. 43
 
 (( (Riduzione del prezzo e risarcimento dei danni). ))
 
@@ -1684,7 +1684,7 @@ Il D.L. 17 marzo 2020, n. 18, convertito con modificazioni dalla L. 24 aprile 20
 
 8\. Il diritto al risarcimento dei danni alla persona si prescrive in tre anni a decorrere dalla data del rientro del viaggiatore nel luogo di partenza o nel piu' lungo periodo previsto per il risarcimento del danno alla persona dalle disposizioni che regolano i servizi compresi nel pacchetto)).
 
-###### ART. 44
+##### ART. 44
 
 (( (Possibilita' di contattare l'organizzatore tramite il
 
@@ -1694,7 +1694,7 @@ venditore). ))
 
 2\. Ai fini del rispetto dei termini o dei periodi di prescrizione, la data in cui il venditore riceve messaggi, richieste o reclami di cui al comma 1 e' considerata la data di ricezione anche per l'organizzatore)).
 
-###### ART. 45
+##### ART. 45
 
 (( (Obbligo di prestare assistenza). ))
 
@@ -1702,7 +1702,7 @@ venditore). ))
 
 2\. L'organizzatore puo' pretendere il pagamento di un costo ragionevole per tale assistenza qualora il problema sia causato intenzionalmente dal viaggiatore o per sua colpa, nei limiti delle spese effettivamente sostenute)).
 
-###### ART. 46
+##### ART. 46
 
 (( (Risarcimento del danno da vacanza rovinata). ))
 
@@ -1710,9 +1710,9 @@ venditore). ))
 
 2\. Il diritto al risarcimento si prescrive in tre anni, ovvero nel piu' lungo periodo per il risarcimento del danno alla persona previsto dalle disposizioni che regolano i servizi compresi nel pacchetto, a decorrere dalla data del rientro del viaggiatore nel luogo di partenza.))
 
-##### ((Sezione V - Protezione in caso d'insolvenza o fallimento))
+#### ((Sezione V - Protezione in caso d'insolvenza o fallimento))
 
-###### ART. 47
+##### ART. 47
 
 (( (Efficacia e portata della protezione in caso d'insolvenza o fallimento). ))
 
@@ -1736,7 +1736,7 @@ venditore). ))
 
 10\. E' fatta salva la facolta' di stipulare anche altre polizze assicurative di assistenza al viaggiatore.))
 
-###### ART. 48
+##### ART. 48
 
 (( (Riconoscimento reciproco della protezione in caso d'insolvenza e cooperazione amministrativa). ))
 
@@ -1748,9 +1748,9 @@ venditore). ))
 
 4\. Se uno Stato membro dubita delle misure di protezione in caso di insolvenza di un organizzatore, chiede chiarimenti al punto di contatto di cui al comma 2. Il punto di contatto risponde alle richieste degli altri Stati membri il piu' rapidamente possibile, tenendo in considerazione l'urgenza e la complessita' della questione, ed in ogni caso fornendo una prima risposta entro quindici giorni lavorativi dal ricevimento della richiesta.))
 
-##### ((Sezione VI - Servizi turistici collegati))
+#### ((Sezione VI - Servizi turistici collegati))
 
-###### ART. 49
+##### ART. 49
 
 (( (Obblighi di protezione in caso d'insolvenza o fallimento e d'informazione in relazione ai servizi turistici collegati). ))
 
@@ -1768,15 +1768,15 @@ b) potra' invocare la protezione in caso d'insolvenza o fallimento ai sensi del 
 
 5\. Se un servizio turistico collegato e' il risultato della stipula di un contratto tra un viaggiatore e un professionista che non agevola il servizio turistico collegato, tale professionista informa il professionista che agevola il servizio turistico collegato della stipula del pertinente contratto.))
 
-##### ((Sezione VII - Responsabilita' del venditore))
+#### ((Sezione VII - Responsabilita' del venditore))
 
-###### ART. 50
+##### ART. 50
 
 (( (Responsabilita' del venditore). ))
 
 ((1. Il venditore e' responsabile dell'esecuzione del mandato conferitogli dal viaggiatore con il contratto di intermediazione di viaggio, indipendentemente dal fatto che la prestazione sia resa dal venditore stesso, dai suoi ausiliari o preposti quando agiscono nell'esercizio delle loro funzioni o dai terzi della cui opera si avvalga, dovendo l'adempimento delle obbligazioni assunte essere valutato con riguardo alla diligenza richiesta per l'esercizio della corrispondente attivita' professionale.))
 
-###### ART. 51
+##### ART. 51
 
 (( (Responsabilita' in caso di errore di prenotazione). ))
 
@@ -1784,27 +1784,27 @@ b) potra' invocare la protezione in caso d'insolvenza o fallimento ai sensi del 
 
 2\. Il professionista non e' responsabile degli errori di prenotazione imputabili al viaggiatore o dovuti a circostanze inevitabili e straordinarie.))
 
-###### ART. 51-bis
+##### ART. 51-bis
 
 (( (Obbligo del venditore di indicare la propria qualita'). ))
 
 ((1. Il venditore e' considerato come organizzatore se, in relazione ad un contratto di pacchetto turistico, omette di fornire al viaggiatore, a norma dell'articolo 34, il pertinente modulo informativo standard di cui all'allegato A, parte II o parte III al presente codice, e le informazioni relative alla denominazione commerciale, l'indirizzo geografico, il recapito telefonico e l'indirizzo di posta elettronica dell'organizzatore, ovvero omette di informare il viaggiatore che egli agisce in qualita' di venditore.))
 
-###### ART. 51-ter
+##### ART. 51-ter
 
 (( (Obblighi specifici del venditore quando l'organizzatore e' stabilito fuori dallo Spazio economico europeo). ))
 
 ((1. Se l'organizzatore e' stabilito al di fuori dello Spazio economico europeo, il venditore stabilito in uno Stato membro e' soggetto agli obblighi previsti per gli organizzatori alle Sezioni IV e V, salvo che fornisca la prova che l'organizzatore si conforma alle norme contenute in tali Sezioni.))
 
-###### ART. 51-quater
+##### ART. 51-quater
 
 (( (Prescrizione del diritto al risarcimento del danno). ))
 
 ((1. Fatto salvo quanto stabilito dall'articolo 46 e gli effetti degli articoli 51-bis e 51-ter, il diritto del viaggiatore al risarcimento dei danni previsti dalla presente Sezione si prescrive in due anni a decorrere dalla data del rientro del viaggiatore nel luogo di partenza.))
 
-##### ((Sezione VIII - Disposizioni generali))
+#### ((Sezione VIII - Disposizioni generali))
 
-###### ART. 51-quinquies
+##### ART. 51-quinquies
 
 (( (Diritto ad azioni di regresso e diritto di surrogazione). ))
 
@@ -1812,7 +1812,7 @@ b) potra' invocare la protezione in caso d'insolvenza o fallimento ai sensi del 
 
 2\. L'organizzatore o il venditore che hanno risarcito il viaggiatore sono surrogati, nei limiti del risarcimento corrisposto, in tutti i diritti e le azioni di quest'ultimo verso i terzi responsabili; il viaggiatore fornisce all'organizzatore o al venditore tutti i documenti, le informazioni e gli elementi in suo possesso utili per l'esercizio del diritto di surroga.))
 
-###### ART. 51-sexies
+##### ART. 51-sexies
 
 (( (Inderogabilita' della disciplina relativa ai diritti del viaggiatore). ))
 
@@ -1822,9 +1822,9 @@ b) potra' invocare la protezione in caso d'insolvenza o fallimento ai sensi del 
 
 3\. Fatto salvo quanto diversamente stabilito da specifiche disposizioni di legge, eventuali clausole contrattuali o dichiarazioni del viaggiatore che escludano o limitino, direttamente o indirettamente, i diritti derivanti dal presente Capo o il cui scopo sia eludere l'applicazione delle disposizioni di cui al presente Capo, non vincolano il viaggiatore.))
 
-##### ((Sezione IX - Tutela amministrativa e giurisdizionale))
+#### ((Sezione IX - Tutela amministrativa e giurisdizionale))
 
-###### ART. 51-septies
+##### ART. 51-septies
 
 (( (Sanzioni amministrative). ))
 
@@ -1854,21 +1854,21 @@ a) al comma 1, sono aggiunte infine le seguenti parole: ", salvo quanto previsto
 
 b) al comma 2, sono aggiunte infine il seguente periodo: "Le entrate derivanti dalle sanzioni amministrative di cui all'articolo 51-septies, Sezione IX, Capo I, Titolo VI dell'Allegato 1 al decreto legislativo 23 maggio 2011, n. 79, sono destinate a iniziative a vantaggio dei viaggiatori. Tali entrate affluiscono ad apposito capitolo/articolo di entrata del bilancio dello Stato di nuova istituzione e possono essere riassegnate con decreto del Ministro dell'economia e delle finanze a un apposito fondo iscritto nello stato di previsione del Ministero dei beni e delle attivita' culturali e del turismo per essere destinate alle iniziative di cui al primo periodo, individuate di volta in volta con decreto del Ministro dei beni e delle attivita' culturali e del turismo, sentite le commissioni parlamentari.".))
 
-###### ART. 51-octies - Applicazione delle sanzioni amministrative
+##### ART. 51-octies - Applicazione delle sanzioni amministrative
 
 1\. Fermo restando quanto previsto agli articoli 51-septies, comma 1, e 51-novies, l'Autorita' garante della concorrenza e del mercato, d'ufficio o su istanza di ogni soggetto o organizzazione che ne abbia interesse, accerta le violazioni delle disposizioni di cui all'articolo 51-septies, ne inibisce la continuazione e ne elimina gli effetti, avvalendosi a tal fine degli strumenti, anche sanzionatori, previsti dal decreto legislativo 6 settembre 2005, n. 206.
 
 ((1-bis. L'Autorita' garante della concorrenza e del mercato e' designata, ai sensi dell'articolo 5, paragrafo 1, del regolamento (UE) 2017/2394 del Parlamento europeo e del Consiglio, del 12 dicembre 2017, quale autorita' competente responsabile dell'applicazione della direttiva (UE) 2015/2302 del Parlamento europeo e del Consiglio, del 25 novembre 2015, relativa ai pacchetti turistici e ai servizi turistici collegati, che modifica il regolamento (CE) n. 2006/2004 e la direttiva 2011/83/UE del Parlamento europeo e del Consiglio e che abroga la direttiva 90/314/CEE del Consiglio. In materia di accertamento e di sanzione delle violazioni della citata direttiva (UE) 2015/2302, si applica l'articolo 27 del codice del consumo, di cui al decreto legislativo 6 settembre 2005, n. 206)).
 
-###### ART. 51-novies
+##### ART. 51-novies
 
 (( (Sanzioni amministrative previste con legge delle regioni e delle province autonome di Trento e di Bolzano). ))
 
 ((1. Le regioni e le province autonome di Trento e di Bolzano prevedono sanzioni amministrative effettive, proporzionate e dissuasive per le violazioni delle disposizioni di cui al presente Capo che rientrano nell'ambito delle competenze loro riservate ai sensi degli articoli 117 e 118 della Costituzione.))
 
-#### CAPO II - DELLE LOCAZIONI TURISTICHE
+### CAPO II - DELLE LOCAZIONI TURISTICHE
 
-###### ART. 52 - Locazioni di interesse turistico e alberghiere
+##### ART. 52 - Locazioni di interesse turistico e alberghiere
 
 1\. All'articolo 27 della legge 27 luglio 1978, n. 392, il primo comma e' sostituito dal seguente:
 
@@ -1878,25 +1878,25 @@ b) al comma 2, sono aggiunte infine il seguente periodo: "Le entrate derivanti d
 
 "La durata della locazione non puo' essere inferiore a nove anni se l'immobile urbano, anche se ammobiliato, e' adibito ad attivita' alberghiere, all'esercizio di imprese assimilate ai sensi dell'articolo 1786 del codice civile o all'esercizio di attivita' teatrali.".
 
-###### ART. 53 - Locazioni ad uso abitativo per finalita' turistiche
+##### ART. 53 - Locazioni ad uso abitativo per finalita' turistiche
 
 1\. Gli alloggi locati esclusivamente per finalita' turistiche, in qualsiasi luogo ubicati, sono regolati dalle disposizioni del codice civile in tema di locazione.
 
-### TITOLO VII - ORDINAMENTO
+## TITOLO VII - ORDINAMENTO
 
-#### CAPO I - ORGANIZZAZIONE
+### CAPO I - ORGANIZZAZIONE
 
-###### ART. 54 - Funzioni di indirizzo e vigilanza dello Stato in materia di turismo
+##### ART. 54 - Funzioni di indirizzo e vigilanza dello Stato in materia di turismo
 
 1\. Il Presidente del Consiglio dei Ministri o il Ministro delegato adotta atti di indirizzo ed esercita la vigilanza su ACI e CAI, in modo da istituire forme di collaborazione nell'ambito dei rispettivi settori di competenza.
 
-###### ART. 55 - Il Dipartimento per lo sviluppo e la competitivita' del turismo
+##### ART. 55 - Il Dipartimento per lo sviluppo e la competitivita' del turismo
 
 1\. Il Dipartimento per lo sviluppo e la competitivita' del turismo e' la struttura di supporto delle politiche del Governo nell'area funzionale relativa al settore turismo.
 
 2\. Il Dipartimento per lo svolgimento delle proprie attivita' si avvale degli altri organismi costituiti e delle societa' partecipate.
 
-###### ART. 56 - Conferenza nazionale del turismo
+##### ART. 56 - Conferenza nazionale del turismo
 
 1\. La Conferenza nazionale del turismo e' indetta dal Presidente del Consiglio dei Ministri o dal Ministro delegato almeno ogni due anni ed e' organizzata d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano.
 
@@ -1912,7 +1912,7 @@ Le connesse linee guida sono attuate dal Sindaco di Roma capitale d'intesa con i
 
 5\. Agli oneri derivanti dal funzionamento della Conferenza si provvede nell'ambito degli ordinari stanziamenti di bilancio della Presidenza del Consiglio dei Ministri afferenti il Dipartimento per lo sviluppo e la competitivita' del turismo, con le risorse allo scopo trasferite ai sensi del decreto-legge 18 maggio 2006, n. 181, convertito, con modificazioni, dalla legge 17 luglio 2006, n. 233.
 
-###### ART. 57
+##### ART. 57
 
 (Ente nazionale italiano del turismo (E.N.I.T.) -
 
@@ -1924,7 +1924,7 @@ Agenzia nazionale del turismo)
 
 3\. L'Agenzia e' sottoposta alla diretta attivita' di indirizzo e vigilanza del Presidente del Consiglio dei Ministri o del Ministro delegato.
 
-###### ART. 58 - Comitato permanente di promozione del turismo in Italia
+##### ART. 58 - Comitato permanente di promozione del turismo in Italia
 
 1\. Al fine di promuovere un'azione coordinata dei diversi soggetti, che operano nel settore del turismo, con la politica e la programmazione nazionale, con decreto del Presidente del Consiglio dei Ministri o del Ministro delegato, da adottarsi, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, entro sessanta giorni dalla data di entrata in vigore del presente decreto, e' istituito il Comitato permanente di promozione del turismo in Italia, di seguito denominata Comitato. Con il medesimo decreto sono regolati il funzionamento e l'organizzazione del Comitato.
 
@@ -1948,9 +1948,9 @@ g) promozione a fini turistici del marchio Italia.
 
 4\. L'istituzione ed il funzionamento del Comitato non comportano oneri aggiuntivi per la finanza pubblica e la relativa partecipazione e' a titolo gratuito.
 
-#### CAPO II - PROMOZIONE DELL'ECCELLENZA TURISTICA ITALIANA
+### CAPO II - PROMOZIONE DELL'ECCELLENZA TURISTICA ITALIANA
 
-###### ART. 59 - Attestazione di eccellenza turistica nel settore enogastronomico ed alberghiero
+##### ART. 59 - Attestazione di eccellenza turistica nel settore enogastronomico ed alberghiero
 
 1\. Al fine di promuovere l'offerta turistica italiana, e' istituita l'attestazione di eccellenza turistica, denominata Maestro di cucina italiana, da attribuire, ogni anno, alle imprese della ristorazione italiana che, con la propria attivita', abbiano contribuito in modo significativo e protrattosi nel tempo, per l'alta qualita', la ricerca e la professionalita', alla formazione di un'eccellenza di offerta tale da promuovere l'immagine dell'Italia favorendone l'attrattiva turistica nel mondo e la caratterizzazione e tipicita' della relativa offerta. Ai medesimi fini e' altresi' istituita l'attestazione di eccellenza turistica, denominata Maestro dell'ospitalita' italiana, da attribuire, ogni anno, alle imprese alberghiere italiane che, con la propria attivita', abbiano contribuito in modo significativo e protrattosi nel tempo, per l'alta qualita', la ricerca e la professionalita', alla formazione di un'eccellenza di offerta tale da promuovere l'immagine dell'Italia favorendone l'attrattiva turistica nel mondo e la caratterizzazione e tipicita' della relativa offerta.
 
@@ -1962,13 +1962,13 @@ g) promozione a fini turistici del marchio Italia.
 
 5\. E' autorizzato l'inserimento delle denominazioni delle imprese, cui sia stata attribuita l'attestazione di eccellenza turistica di cui ai commi che precedono nel portale Italia.it.
 
-###### ART. 60 - Attestazione Medaglia al merito del turismo per la valorizzazione dell'immagine dell'Italia
+##### ART. 60 - Attestazione Medaglia al merito del turismo per la valorizzazione dell'immagine dell'Italia
 
 1\. E' istituita l'attestazione della Medaglia al merito del turismo per la valorizzazione dell'immagine dell'Italia, destinata a tributare un giusto riconoscimento alle persone che, per il loro impegno e valore professionale, nonche' per la qualita' e durata dei servizi resi, hanno efficacemente contribuito allo sviluppo del settore turistico ed alla valorizzazione e diffusione dell'immagine dell'Italia nel mondo.
 
 2\. A tali fini, il Presidente del Consiglio dei Ministri o il Ministro delegato disciplina, con proprio decreto sul quale e' acquisito il parere della Conferenza unificata di cui agli articoli 8 e 9 del decreto legislativo 28 agosto 1997, n. 281, le modalita' organizzative e procedurali idonee al conferimento dell'attestazione, da rilasciare sulla base di criteri oggettivi di agevole verificabilita' individuati con riferimento ai parametri di cui al comma 1. Con il medesimo decreto viene individuato il numero massimo di imprese da premiare ogni anno.
 
-###### ART. 61 - Caratteristiche dell'attestazione
+##### ART. 61 - Caratteristiche dell'attestazione
 
 1\. L'attestazione di cui all'articolo 60 comprende tre livelli crescenti: stella di bronzo, stella d'argento e stella d'oro.
 
@@ -1976,7 +1976,7 @@ g) promozione a fini turistici del marchio Italia.
 
 3\. Il contingente annuale di attestazioni e' fissato in 10 medaglie d'oro, 25 medaglie d'argento e 50 medaglie di bronzo.
 
-###### ART. 62 - Modalita' di attribuzione
+##### ART. 62 - Modalita' di attribuzione
 
 1\. Le attestazioni sono conferite nel giorno della giornata mondiale del turismo - 27 settembre - con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro delegato, sul quale e' acquisito il parere della Conferenza unificata di cui agli articoli 8 e 9 del decreto legislativo 28 agosto 1997, n. 281.
 
@@ -1994,11 +1994,11 @@ e) da tre membri, scelti dal Presidente del Consiglio dei Ministri o dal Ministr
 
 3\. La partecipazione alla Commissione di cui al comma 2, e' a titolo gratuito.
 
-###### ART. 63 - Istituzione della Medaglia al merito del turismo per gli italiani all'estero
+##### ART. 63 - Istituzione della Medaglia al merito del turismo per gli italiani all'estero
 
 1\. E' istituita l'attestazione della Medaglia al merito del turismo per gli italiani all'estero, destinata a tributare un giusto riconoscimento alle persone operanti all'estero che per il loro impegno e valore professionale, nonche' per la qualita' e durata dei servizi resi hanno illustrato il Made in Italy in modo tanto esemplare da divenire promotori turistici per il nostro Paese.
 
-###### ART. 64 - Caratteristiche dell'attestazione
+##### ART. 64 - Caratteristiche dell'attestazione
 
 1\. L'attestazione di cui all'articolo 63 comprende tre livelli crescenti: medaglia di bronzo, medaglia d'argento e medaglia d'oro.
 
@@ -2006,7 +2006,7 @@ e) da tre membri, scelti dal Presidente del Consiglio dei Ministri o dal Ministr
 
 3\. Il contingente annuale di attestazione e' fissato in 10 medaglie d'oro, 25 medaglie d'argento e 50 medaglie di bronzo.
 
-###### ART. 65 - Modalita' di attribuzione
+##### ART. 65 - Modalita' di attribuzione
 
 1\. Le attestazioni sono conferite nel giorno della giornata mondiale del turismo - 27 settembre - con decreto del Presidente del Consiglio dei Ministri su proposta del Ministro delegato, di concerto con il Ministro degli affari esteri.
 
@@ -2026,9 +2026,9 @@ f) da un membro designato dal Ministero degli affari esteri fra persone in posse
 
 3\. La partecipazione alla Commissione, di cui al comma 2, e' a titolo gratuito.
 
-#### CAPO III - LA QUALITA' DEL SERVIZIO E LA SOLUZIONE DELLE CONTROVERSIE - CARTA DEI SERVIZI
+### CAPO III - LA QUALITA' DEL SERVIZIO E LA SOLUZIONE DELLE CONTROVERSIE - CARTA DEI SERVIZI
 
-###### ART. 66 - Standard dell'offerta di servizi turistici pubblici sul territorio nazionale
+##### ART. 66 - Standard dell'offerta di servizi turistici pubblici sul territorio nazionale
 
 1\. Al fine di aumentare la qualita' e la competitivita' dei servizi turistici pubblici sul territorio nazionale le amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, nell'ambito delle attivita' istituzionali adottano la carta dei servizi turistici da esse erogati.
 
@@ -2038,13 +2038,13 @@ f) da un membro designato dal Ministero degli affari esteri fra persone in posse
 
 4\. Il Presidente del Consiglio dei Ministri o il Ministro delegato, previa intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, determina con proprio decreto i livelli essenziali delle prestazioni dei servizi turistici concernenti i diritti civili e sociali, sulla base di parametri stabiliti con legge dello Stato.
 
-###### ART.67 - Composizione delle controversie in materia di turismo
+##### ART.67 - Composizione delle controversie in materia di turismo
 
 1\. La procedura di mediazione, finalizzata alla conciliazione delle controversie in materia di turismo, e' disciplinata dal decreto legislativo 4 marzo 2010, n. 28, e costituisce condizione di procedibilita' della domanda giudiziale o arbitrale se cio' e' previsto da una clausola del contratto di fornitura dei servizi. Tale clausola deve essere specificamente approvata per iscritto dal turista.
 
 2\. Resta salva la facolta' del turista di ricorrere a procedure di negoziazione volontaria o paritetica o alla procedura di conciliazione innanzi alle commissioni arbitrali o conciliative per la risoluzione delle controversie tra imprese e consumatori ed utenti inerenti la fornitura di servizi turistici, istituite ai sensi dell'articolo 2, comma 4, lettera a), della legge 29 dicembre 1993, n. 580. Nella procedura di conciliazione i turisti hanno facolta' di avvalersi delle associazioni dei consumatori. Tale procedura di conciliazione e' disciplinata dagli articoli 140 e 141 del decreto legislativo 6 settembre 2005, n. 206.
 
-###### ART. 68 - Assistenza al turista
+##### ART. 68 - Assistenza al turista
 
 1\. Il Dipartimento per lo sviluppo e la competitivita' del turismo, nell'ambito delle attivita' istituzionali, assicura l'assistenza al turista, anche attraverso call center. E' altresi' istituito lo sportello del turista, attivo ai recapiti e negli orari, comunicati sul sito istituzionale, presso il quale le persone fisiche e giuridiche, nonche' gli enti esponenziali per la rappresentanza degli interessi dei turisti possono proporre istanze, richieste reclami nei confronti di imprese ed operatori turistici per l'accertamento dell'osservanza delle disposizioni previste nel presente codice.
 
@@ -2060,7 +2060,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale, con sentenza 2 - 5 aprile 2012, n. 80 (in G.U. 1a s.s. 11/4/2012, n. 15), ha dichiarato "l'illegittimita' costituzionale dell'articolo 1, comma 1, del decreto legislativo 23 maggio 2011, n. 79 (Codice della normativa statale in tema di ordinamento e mercato del turismo, a norma dell'articolo 14 della legge 28 novembre 2005, n. 246, nonche' attuazione della direttiva 2008/122/CE, relativa ai contratti di multiproprieta', contratti relativi ai prodotti per le vacanze di lungo termine, contratti di rivendita e di scambio), nella parte in cui dispone l'approvazione dell'art. 1, limitatamente alle parole «necessarie all'esercizio unitario delle funzioni amministrative» e «ed altre norme in materia», nonche' degli artt. 2, 3, 8, 9, 10, 11, comma 1, 12, 13, 14, 15, 16, 18, 20, comma 2, 21, 23, commi 1 e 2, 30, comma 1, 68 e 69 dell'allegato 1 del d.lgs. n. 79 del 2011".
 
-###### ART. 69 - Gestione dei reclami
+##### ART. 69 - Gestione dei reclami
 
 1\. Il Dipartimento per lo sviluppo e la competitivita' del turismo, ricevuta l'istanza di cui all'articolo 68, avvia senza ritardo l'attivita' istruttoria, informando contestualmente il reclamante, l'impresa o l'operatore turistico interessato, entro il termine di quindici giorni dal ricevimento dell'istanza.
 
@@ -2078,7 +2078,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale, con sentenza 2 - 5 aprile 2012, n. 80 (in G.U. 1a s.s. 11/4/2012, n. 15), ha dichiarato "l'illegittimita' costituzionale dell'articolo 1, comma 1, del decreto legislativo 23 maggio 2011, n. 79 (Codice della normativa statale in tema di ordinamento e mercato del turismo, a norma dell'articolo 14 della legge 28 novembre 2005, n. 246, nonche' attuazione della direttiva 2008/122/CE, relativa ai contratti di multiproprieta', contratti relativi ai prodotti per le vacanze di lungo termine, contratti di rivendita e di scambio), nella parte in cui dispone l'approvazione dell'art. 1, limitatamente alle parole «necessarie all'esercizio unitario delle funzioni amministrative» e «ed altre norme in materia», nonche' degli artt. 2, 3, 8, 9, 10, 11, comma 1, 12, 13, 14, 15, 16, 18, 20, comma 2, 21, 23, commi 1 e 2, 30, comma 1, 68 e 69 dell'allegato 1 del d.lgs. n. 79 del 2011".
 
-###### Allegato A
+##### Allegato A
 
 ((Allegato A
 
@@ -2176,7 +2176,7 @@ Diritti fondamentali ai sensi della direttiva (UE) 2015/2302
 
 Direttiva (UE) 2015/2302, recepita nella legislazione nazionale [HYPERLINK].))
 
-###### Allegato B
+##### Allegato B
 
 ((Allegato B
 

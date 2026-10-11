@@ -40,11 +40,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I - Disposizioni relative al trattamento del personale
+## Capo I - Disposizioni relative al trattamento del personale dell'Amministrazione degli affari esteri
 
-### dell'Amministrazione degli affari esteri
-
-#### Art. 1
+### Art. 1
 
 1\. L'articolo 143 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, e' sostituito dal seguente:
 
@@ -116,7 +114,7 @@ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi
 
 > "142. Gli schemi dei decreti di cui al comma 138 sono sottoposti al parere delle competenti Commissioni parlamentari, che dovranno pronunciarsi entro trenta giorni".
 
-#### Art. 2
+### Art. 2
 
 1\. Il primo ed il secondo comma dell'articolo 144 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, sono sostituiti dai seguenti:
 
@@ -136,7 +134,7 @@ Il servizio prestato nelle residenze disagiate e particolarmente disagiate e' co
 
 > Il personale in servizio nelle residenze particolarmente disagiate e' trasferito a richiesta dopo due anni di effettiva permanenza nella stessa residenza. Salvo che con il consenso dell'interessato o per particolari esigenze di servizio, il predetto personale non puo' essere destinato a prestare servizio consecutivamente in altra sede particolarmente disagiata".
 
-#### Art. 3
+### Art. 3
 
 1\. Il terzo comma dell'articolo 168 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, e' sostituito dal seguente:
 
@@ -162,7 +160,7 @@ Il servizio prestato nelle residenze disagiate e particolarmente disagiate e' co
 
 > Le disposizioni del presente articolo non si applicano al personale comandato o collocato fuori ruolo presso il Ministero degli affari esteri in virtu' di altre disposizioni ne' a quello inviato all'estero in missione temporanea".
 
-#### Art. 4
+### Art. 4
 
 1\. Il primo ed il quarto comma dell'articolo 170 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, sono sostituiti dai seguenti:
 
@@ -186,7 +184,7 @@ Ai fini delle disposizioni della presente parte si intendono per familiari a car
 
 > "Le quote sono corrisposte fino al 21 anno di eta' qualora i figli frequentino una scuola media o professionale e per tutta la durata del corso legale di studi, ma non oltre il 26 anno di eta', qualora la universita' od altro tipo di scuola superiore legalmente riconosciuta alla quale si accede con il diploma di scuola media di secondo grado. Le quote sono corrisposte inoltre, fino al 21 anno di eta', per i figli a carico siano occupati come apprendisti".
 
-#### Art. 5
+### Art. 5
 
 1\. L'articolo 171 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, e sostituito dal seguente:
 
@@ -216,7 +214,7 @@ Essa non puo' in alcun caso superare l'80 per cento dell'indennita' ed e' sogget
 
 7\. Le indennita' base di cui al comma 2 possono essere periodicamente aggiornate con decreto del Ministro degli affari esteri, d'intesa con il Ministero del tesoro, del bilancio e della programmazione economica, per tener conto della variazione percentuale del valore medio dell'indice dei prezzi rilevato dall'ISTAT. La variazione dell'indennita' base non potra' comunque comportare un aumento automatico dell'ammontare in valuta delle indennita' di servizio all'estero corrisposte. Qualora la base contributiva, determinata ai sensi delle disposizioni vigenti, dovesse risultare inferiore all'indennita' integrativa speciale prevista per l'interno, il calcolo dei contributi previdenziali verra' effettuato sulla base di tale indennita'. Restano escluse dalla base contributiva pensionabile le indennita' integrative concesse ai sensi dell'articolo 189.".
 
-#### Art. 6
+### Art. 6
 
 1\. Nel decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, dopo l'articolo 171 e' inserito il seguente articolo:
 
@@ -254,7 +252,7 @@ g) gli esperti di cui all'articolo 168 del presente decreto.
 
 > "6. Per specifiche attivita' o settori di studio e di ricerca, e comunque per finalita' di promozione culturale, ivi incluse quelle dell'insegnamento della lingua italiana, gli Istituti possono creare, previa autorizzazione del Ministro, di concerto con il Ministro del tesoro, sentita l'autorita' diplomatica competente per territorio, proprie sezioni distaccate, le cui spese di funzionamento ed il cui personale sono a carico degli Istituti fondatori. I capi delle sezioni sono nominati dai direttori degli Istituti tra gli addetti agli Istituti stessi, di cui alla tabella A allegata alla presente legge. Della gestione finanziaria e patrimoniale rispondono i direttori degli Istituti fondatori".
 
-#### Art. 7
+### Art. 7
 
 1\. L'articolo 173 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, e' sostituito dal seguente:
 
@@ -272,7 +270,7 @@ g) gli esperti di cui all'articolo 168 del presente decreto.
 
 > \- Il decreto del Presidente della Repubblica 3 luglio 1991, n. 306, reca: "Regolamento concernente la residenza in sede dei familiari dei dipendenti in servizio all'estero".
 
-#### Art. 8
+### Art. 8
 
 1\. Il quarto comma dell'articolo 174 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, e' sostituito dal seguente:
 
@@ -290,7 +288,7 @@ g) gli esperti di cui all'articolo 168 del presente decreto.
 
 > Fermo restando il disposto del quarto comma dell'art. 173, gli aumenti di cui al predetto articolo non sono pagabili fino al giorno in cui ciascun familiare raggiunge nella sede di servizio il titolare dell'indennita'. Essi, peraltro, competono dalla data fissata dal secondo comma del presente articolo e anche per i periodi di assenza dalla sede, purche' il tempo trascorso fuori della sede stessa non ecceda complessivamente i limiti stabiliti dal regolamento di cui all'art. 173. Nel caso in cui l'assenza del familiare ecceda i limiti regolamentari di non oltre trenta giorni, gli aumenti per situazione di famiglia vengono corrisposti limitatamente ai periodi di effettiva presenza del familiare nella sede di servizio".
 
-#### Art. 9
+### Art. 9
 
 1\. L'articolo 175 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, e' sostituito dal seguente:
 
@@ -310,7 +308,7 @@ g) gli esperti di cui all'articolo 168 del presente decreto.
 
 Tale ammontare non puo', comunque, superare la meta' della indennita'.".
 
-#### Art. 10
+### Art. 10
 
 1\. L'articolo 176 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, e' sostituito dal seguente:
 
@@ -320,7 +318,7 @@ Tale ammontare non puo', comunque, superare la meta' della indennita'.".
 
 3\. Nel caso di dipendenti tra loro coniugati che rientrano dalla stessa sede l'indennita' di rientro spetta soltanto al dipendente che ne ha diritto nella misura piu' elevata.".
 
-#### Art. 11
+### Art. 11
 
 1\. L'articolo 178 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, e' sostituito dal seguente:
 
@@ -334,7 +332,7 @@ Tale ammontare non puo', comunque, superare la meta' della indennita'.".
 
 5\. Qualora venga accertato che nel locale mercato immobiliare sia prassi costante pretendere per la stipula dei contratti di locazione il pagamento anticipato del canone per uno o piu' anni, l'Amministrazione puo' concedere al dipendente, a titolo di anticipo, una somma pari al primo anno di canone, provvedendo al recupero mediante trattenute mensili sull'indennita' di servizio.".
 
-#### Art. 12
+### Art. 12
 
 1\. L'articolo 179 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, e' sostituito dal seguente:
 
@@ -344,7 +342,7 @@ Tale ammontare non puo', comunque, superare la meta' della indennita'.".
 
 3\. I rimborsi previsti ai commi 1 e 2 verranno riconosciuti in una misura percentuale da determinarsi, all'inizio di ogni anno, con decreto del Ministro degli affari esteri, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, in relazione alle disponibilita' finanziarie. Tale misura non potra' comunque essere superiore al 90 e al 60 per cento delle spese rispettivamente previste ai commi 1 e 2 del presente articolo.".
 
-#### Art. 13
+### Art. 13
 
 1\. L'articolo 181 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, e' sostituito dal seguente:
 
@@ -358,7 +356,7 @@ Tale ammontare non puo', comunque, superare la meta' della indennita'.".
 
 5\. Per i figli a carico che compiano studi in localita' diversa da quella di servizio del dipendente, sono corrisposte a domanda, in luogo delle spese di cui ai commi 1, 2, 3 e 4 e nei limiti e con le modalita' ivi stabiliti, le spese per raggiungere la sede di servizio del dipendente stesso e rientrare nella localita' di studio.".
 
-#### Art. 14
+### Art. 14
 
 1\. L'articolo 183 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, e' sostituito dal seguente:
 
@@ -414,7 +412,7 @@ b) in caso di astensione facoltativa l'indennita' personale e' sospesa.
 
 > Le disposizioni di cui ai commi precedenti si applicano ai padri lavoratori, compresi gli apprendisti, che prestino la loro opera alle dipendenze di privati datori di lavoro, nonche' alle dipendenze delle amministrazioni dello Stato, anche ad ordinamento autonomo, delle regoni, delle province, dei comuni, degli altri enti pubblici, anche a carattere economico, e delle societa' cooperative, anche se soci di queste ultime. Sono esclusi i lavoratori a domicilio e gli addetti ai servizi domestici e familiari".
 
-#### Art. 15
+### Art. 15
 
 1\. L'articolo 185 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, e' sostituito dal seguente:
 
@@ -432,7 +430,7 @@ b) quattro quinti dell'assegno per oneri di rappresentanza spettante al titolare
 
 5\. Se la reggenza e' assunta da personale che non goda di indennita' di servizio all'estero, spetta un trattamento di reggenza corrispondente ai quattro quinti dell'indennita' di servizio e dell'assegno per oneri di rappresentanza stabiliti per il posto assunto in reggenza, oltre agli eventuali aumenti per situazione di famiglia.".
 
-#### Art. 16
+### Art. 16
 
 1\. Il comma secondo dell'articolo 199 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, e' sostituito dal seguente:
 
@@ -490,7 +488,7 @@ Qualora dipendenti fra loro coniugati vengano trasferiti allo stesso ufficio all
 
 > Qualora dipendenti fra loro coniugati vengano trasferiti allo stesso ufficio all'estero o ad uffici ubicati nella stessa citta', e sempre che il divario fra le date di assunzione di servizio nella sede sia inferiore a 180 giorni, il pagamento delle spese di cui al comma 1 e' corrisposto soltanto ad uno di essi, con gli aumenti che spetterebbero qualora il coniuge fosse a carico".
 
-#### Art. 17
+### Art. 17
 
 1\. Il secondo comma dell'articolo 203 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, e' sostituito dal seguente:
 
@@ -522,7 +520,7 @@ c) se preposte ad uffici consolari di II categoria, il trattamento di cui agli a
 
 > Le disposizioni dell'art. 211 si applicano al personale indicato nel presente articolo che abbia diritto all'assistenza ENPAS".
 
-#### Art. 18
+### Art. 18
 
 1\. Il primo comma dell'articolo 204 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, e' sostituito dal seguente:
 
@@ -538,7 +536,7 @@ c) se preposte ad uffici consolari di II categoria, il trattamento di cui agli a
 
 > Ai predetti si applica l'art. 186. Nei casi di cui al primo comma dell'articolo predetto, all'indennita' personale si intende sostituita quella prevista dal primo comma del presente articolo. La indennita' giornaliera prevista dal secondo comma dell'art. 186 e' calcolata, nei casi di cui al punto 1) dello stesso comma, sulla base dell'indennita' di cui al primo comma del presente articolo. Nei casi contemplati nel punto 2) dell'art. 186, l'indennita' giornaliera e' stabilita con la stessa procedura indicata nel primo comma del presente articolo".
 
-#### Art. 19
+### Art. 19
 
 1\. Il terzo comma dell'articolo 209 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, e' sostituito dal seguente:
 
@@ -556,7 +554,7 @@ c) se preposte ad uffici consolari di II categoria, il trattamento di cui agli a
 
 > L'eventuale saldo a favore del dipendente che rientri al Ministero e' corrisposto a domanda in lire italiane oppure nella valuta in cui gli era corrisposta l'indennita' di servizio all'estero nella sede di provenienza, secondo il rapporto di ragguaglio vigente nel periodo a cui si riferisce il saldo".
 
-#### Art. 20
+### Art. 20
 
 1\. L'articolo 210 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, e' sostituito dal seguente:
 
@@ -584,7 +582,7 @@ c) se preposte ad uffici consolari di II categoria, il trattamento di cui agli a
 
 > A tal fine viene stipulata apposita convenzione tra il Ministero della sanita' e la regione Lazio".
 
-#### Art. 21
+### Art. 21
 
 1\. L'articolo 211 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, e' sostituito dal seguente:
 
@@ -614,15 +612,13 @@ c) se preposte ad uffici consolari di II categoria, il trattamento di cui agli a
 
 > Si prescinde dalla predetta autorizzazione solo nei casi di comprovata impossibilita' per l'interessato, per l'impresa o per chi altro l'assista, di collegarsi tempestivamente con le sede consolare".
 
-#### Art. 22
+### Art. 22
 
 1\. Le disposizioni che modificano l'articolo 178 si applicano a coloro che assumono servizio all'estero dopo il 1 gennaio 1999. Per il personale che alla data predetta gia' beneficia di un contributo spese per abitazione, continuano ad applicarsi le disposizioni previste dalla precedente normativa finche' rimanga nella stessa sede.
 
-## Capo II - Disposizioni concernenti il personale dipendente da
+## Capo II - Disposizioni concernenti il personale dipendente da enti pubblici non economici in servizio all'estero.
 
-### enti pubblici non economici in servizio all'estero.
-
-#### Art. 23
+### Art. 23
 
 Indennita' di servizio
 
@@ -632,7 +628,7 @@ Indennita' di servizio
 
 3\. L'ammontare delle indennita' di servizio e' fissata, nell'ambito delle disponibilita' finanziarie di ciascun ente pubblico, dal rispettivo consiglio di amministrazione in maniera tale da assicurare un trattamento economico non inferiore al 75 per cento e non superiore al 90 per cento di quello che compete al corrispondente personale del Ministero degli affari esteri, con cessazione di ogni altra eventuale riduzione precedentemente in vigore.
 
-#### Art. 24
+### Art. 24
 
 Assegni per oneri di rappresentanza
 
@@ -646,7 +642,7 @@ Assegni per oneri di rappresentanza
 
 5\. Per l'individuazione delle spese di rappresentanza, per la predisposizione della relativa documentazione e per le modalita' di controllo, si applicano criteri analoghi a quelli stabiliti per il Ministero degli affari esteri.
 
-#### Art. 25
+### Art. 25
 
 Provvidenze accessorie
 
@@ -654,67 +650,65 @@ Provvidenze accessorie
 
 2\. Le delibere che stabiliscono tali provvidenze sono sottoposte all'approvazione del Ministero del tesoro, del bilancio e della programmazione economica, del Ministero degli affari esteri e del rispettivo Ministero vigilante.
 
-## Capo III - Disposizioni concernenti il trattamento del personale
+## Capo III - Disposizioni concernenti il trattamento del personale in servizio presso le istituzioni scolastiche e culturali.
 
-### in servizio presso le istituzioni scolastiche e culturali. - ((CAPO ABROGATO DAL D.LGS. 13 APRILE 2017, N. 64))
+## ((CAPO ABROGATO DAL D.LGS. 13 APRILE 2017, N. 64))
 
-#### Art. 26
-
-((ARTICOLO ABROGATO DAL D.LGS. 13 APRILE 2017, N. 64))
-
-#### Art. 27
+### Art. 26
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 APRILE 2017, N. 64))
 
-#### Art. 28
+### Art. 27
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 APRILE 2017, N. 64))
 
-#### Art. 29
+### Art. 28
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 APRILE 2017, N. 64))
 
-#### Art. 30
+### Art. 29
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 APRILE 2017, N. 64))
 
-#### Art. 31
+### Art. 30
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 APRILE 2017, N. 64))
 
-#### Art. 32
+### Art. 31
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 APRILE 2017, N. 64))
 
-#### Art. 33
+### Art. 32
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 APRILE 2017, N. 64))
 
-#### Art. 34
+### Art. 33
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 APRILE 2017, N. 64))
 
-#### Art. 35
+### Art. 34
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 APRILE 2017, N. 64))
 
-#### Art. 36
+### Art. 35
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 APRILE 2017, N. 64))
 
-#### Art. 37
+### Art. 36
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 APRILE 2017, N. 64))
 
-#### Art. 38
+### Art. 37
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 APRILE 2017, N. 64))
 
-## Capo IV - Disposizioni concernenti il trattamento del personale del Ministero
+### Art. 38
 
-### della difesa in servizio all'estero presso gli uffici degli addetti - dell'Esercito, della Marina e dell'Aeronautica.
+((ARTICOLO ABROGATO DAL D.LGS. 13 APRILE 2017, N. 64))
 
-#### Art. 39
+## Capo IV - Disposizioni concernenti il trattamento del personale del Ministero della difesa in servizio all'estero presso gli uffici degli addetti dell'Esercito, della Marina e dell'Aeronautica.
+
+### Art. 39
 
 1\. Il comma primo dell'articolo 2 della legge 27 dicembre 1973, n. 838, e' sostituito dal seguente:
 
@@ -728,7 +722,7 @@ Provvidenze accessorie
 
 > I posti d'organico dell'ufficio di cui al precedente comma sono determinati con decreto del Ministro per la difesa, di concerto con i Ministri per gli affari esteri e per il tesoro".
 
-#### Art. 40
+### Art. 40
 
 1\. L'articolo 4 della legge 27 dicembre 1973, n. 838, e' sostituito dal seguente:
 
@@ -770,7 +764,7 @@ m) rimborsi delle spese di trasporto in Italia della salma dei familiari a caric
 
 > Le dispozioni di cui al secondo comma, si applicano al dipendente della pubblica Amministrazione deceduto in servizio all'estero anche se in missione".
 
-#### Art. 41
+### Art. 41
 
 1\. L'articolo 6 della legge 27 dicembre 1973, n. 838, e' sostituito dal seguente:
 
@@ -780,7 +774,7 @@ m) rimborsi delle spese di trasporto in Italia della salma dei familiari a caric
 
 3\. Per le sedi ove manchi il corrispondente posto di organico del personale del Ministero degli affari esteri, le maggiorazioni saranno determinate con decreto del Ministro della difesa, di concerto con i Ministri degli affari esteri e del tesoro, del bilancio e della programmazione economica, sentita la commissione permanente di finanziamento, istituita presso il Ministero degli affari esteri, ai sensi dell'articolo 172 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18.".
 
-#### Art. 42
+### Art. 42
 
 1\. L'articolo 8 della legge 27 dicembre 1973, n. 838, e' sostituito dal seguente:
 
@@ -808,7 +802,7 @@ b) in caso di astensione facoltativa l'indennita' personale e' sospesa.
 
 8\. Al personale di cui al comma 2 del presente articolo si applicano, inoltre le norme che regolano, per il personale del Ministero degli affari esteri, il computo, ai fini del trattamento di quiescenza, del servizio previsto nelle sedi disagiate e particolarmente disagiate.".
 
-#### Art. 43
+### Art. 43
 
 1\. L'articolo 13 della legge 27 dicembre 1973, n. 838, e' sostituito dal seguente:
 
@@ -818,21 +812,21 @@ b) in caso di astensione facoltativa l'indennita' personale e' sospesa.
 
 ## Capo V - Norme finali
 
-#### Art. 44
+### Art. 44
 
 1\. Sono abrogate le disposizioni contenute nell'articolo 6, comma 3, della legge 19 luglio 1993, n. 243, nell'articolo 2 del decreto del Presidente della Repubblica, 17 agosto 1955, n. 767, nell'articolo 15 del decreto del Presidente della Repubblica 11 gennaio 1956, n. 19, e nell'articolo 21 del decreto del Presidente della Repubblica 5 giugno 1965, n. 749. Sono altresi' abrogate le seguenti tabelle: la tabella 19 allegata al decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, la tabella B allegata alla legge 6 febbraio 1985, n. 15, le tabelle B dell'allegato 2 e C dell'allegato 3 al decreto del Presidente della Repubblica 11 agosto 1991, n. 457, la tabella C allegata alla legge 22 dicembre 1990, n. 401. E' abrogato l'articolo 4 del decreto del Presidente della Repubblica 3 luglio 1991, n. 306. E' altresi' abrogato il comma 4 dell'articolo 20 della legge 11 ottobre 1990, n. 292.
 
-#### Art. 45
+### Art. 45
 
 1\. E' abrogata la tabella B annessa al decreto del Presidente della Repubblica 23 gennaio 1967, n. 215, nonche' la tabella D di cui all'articolo 29 della legge 25 agosto 1982, n. 604.
 
-#### Art. 46
+### Art. 46
 
 1\. Sono abrogate le tabelle n. 1 e n. 2 allegate alla legge 27 dicembre 1973, n. 838, e sostituite con quelle n. 1 e n. 2, allegate al presente decreto. Mantengono tuttavia la loro efficacia i provvedimenti di attribuzione del trattamento economico per il personale di vigilanza adottati dal Ministero della difesa anteriomente all'entrata in vigore del presente decreto, limitatamente ai periodi di servizio all'estero svoltisi anteriormente all'entrata in vigore del decreto stesso.
 
 2\. In attesa dell'applicazione, a partire dal 1 gennaio 1999 ai sensi di quanto disposto dall'articolo 47 del presente decreto, delle nuove indennita' base di cui alla tabella n. 2, al personale di truppa dell'Arma dei carabinieri adibito a mansioni di vigilanza presso le rappresentanze italiane all'estero nonche' ai sottufficiali ivi impiegati con mansioni speciali, si applicano, a partire dalla data di entrata in vigore del presente decreto, le indennita' base ed i coefficienti parziali stabiliti dalla tabella B del decreto del Presidente della Repubblica 11 agosto 1991, n. 457, per il personale del Ministero degli affari esteri con meno di venti anni di anzianita', secondo la tabella degli allineamenti economici previsti dalla legge 27 dicembre 1973, n. 838.
 
-#### Art. 47
+### Art. 47
 
 1\. Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1999 salvo quanto disposto al comma 2 dell'articolo 46 che ha effetto a partire dalla data di entrata in vigore del decreto stesso.
 
@@ -862,7 +856,7 @@ Visto, il Guardasigilli: Flick
 
 ## Capo V - Norme finali
 
-#### art. 1
+### art. 1
 
 Tabella A
 

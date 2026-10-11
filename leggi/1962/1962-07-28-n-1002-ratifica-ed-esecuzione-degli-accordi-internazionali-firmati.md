@@ -25,7 +25,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 la seguente legge:
 
-#### Art. 1
+##### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare i seguenti Accordi internazionali relativi all'Associazione tra la Comunita' Economica Europea e la Grecia:
 
@@ -35,15 +35,15 @@ b) Accordo relativo ai provvedimenti da prendere e alle procedure da seguir; per
 
 c) Accordo relativo al Protocollo finanziario allegato all'Accordo di cui alla lettera a) firmato in Atene il 9 luglio 1961 ed Atti connessi.
 
-#### Art. 2
+##### Art. 2
 
 Piena ed intera esecuzione e' data agli Accordi internazionali indicati nell'articolo precedente a decorrere dal giorno della loro entrata in vigore in conformita' agli articoli 76, 6 e 5 degli Accordi rispettivamente indicati nelle lettere a), b) e c) dell'art. 1.
 
-#### Art. 3
+##### Art. 3
 
 Il Governo e' autorizzato fino alla scadenza del periodo transitorio stabilito dall'art. 6 dell'Accordo di associazione, ad emanare, con decreti aventi valore di legge ordinaria e secondo i principi direttivi contenuti negli Accordi specificati all'art. 1 della presente legge, le norme necessarie a dare esecuzione agli obblighi derivanti dagli Accordi stessi.
 
-#### Art. 4
+##### Art. 4
 
 All'onere di lire 75.000.000 derivante dall'attuazione della presente legge per l'esercizio 1962-63, sara' fatto fronte a carico del fondo globale istituito nello stato di previsione della spesa del Ministero del tesoro per l'esercizio stesso per provvedere agli oneri dipendenti da provvedimenti legislativi in corso.
 
@@ -151,13 +151,13 @@ i quali, dopo aver scambiato i loro pieni poteri, riconosciuti in
 
 buona e debita forma, hanno convenuto le disposizioni che seguono.
 
-#### Art.1
+##### Art.1
 
 Con il presente Accordo e' istituita un'Associazione tra la
 
 Comunita' Economica Europea e la Grecia.
 
-#### Art. 2
+##### Art. 2
 
 1\. - L'Accordo di Associazione ha lo scopo di promuovere un
 
@@ -175,13 +175,13 @@ c) la messa a disposizione dell'economia greca, nel quadro del
 
 Protocollo finanziario allegato all'Accordo, di risorse destinate a facilitare il suo piu' rapido sviluppo.
 
-#### Art. 3
+##### Art. 3
 
 Per assicurare l'applicazione ed il progressivo sviluppo del regime
 
 di Associazione, le Parti Contraenti si riuniscono in un Consiglio di Associazione che agisce nei limiti delle attribuzioni conferitegli dall'Accordo.
 
-#### Art. 4
+##### Art. 4
 
 Le Parti Contraenti adottano tutte le misure di carattere generale o particolare atto ad assicurare l'esecuzione degli obblighi che discendono dall'Accordo.
 
@@ -189,7 +189,7 @@ Esse si astengono da qualsiasi misura che possa compromettere la
 
 realizzazione degli scopi dell'Accordo.
 
-#### Art. 5
+##### Art. 5
 
 1\. - Nel campo di applicazione dell'Accordo e senza pregiudizio
 
@@ -209,7 +209,7 @@ necessita', prende ogni decisione atta ad eliminare le discriminazioni di cui al
 
 ## TITOLO II - Libera circolazione delle merci
 
-#### Art. 6
+##### Art. 6
 
 L'Associazione e' fondata su un'unione doganale che, fatte salve le
 
@@ -219,7 +219,7 @@ Il periodo transitorio previsto per realizzare l'unione doganale e'
 
 fissato in dodici anni, fatte salve le eccezioni previste dal presente Accordo.
 
-#### Art. 7
+##### Art. 7
 
 1\. - Le disposizioni del capitolo I, sezione I, e del capitolo II del presente titolo si applicano:
 
@@ -235,7 +235,7 @@ libera pratica negli Stati membri o in Grecia.
 
 Grecia i prodotti provenienti da paesi terzi, per i quali siano state adempiute negli Stati membri o in Grecia le formalita' di importazione e siano stati riscossi i dazi doganali e le tasse di effetto equivalente esigibili e che non abbiano beneficiato di un ristorno totale o parziale di tali dazi o tasse.
 
-#### Art. 8
+##### Art. 8
 
 1\. - Le disposizioni del capitolo I, sezione I, e del capitolo II del presente titolo si applicano anche alle merci ottenute negli Stati membri della Comunita' o in Grecia, nella cui fabbricazione siano stati impiegati prodotti in provenienza da paesi terzi che non si trovavano il libera, pratica negli Stati membri o in Grecia.
 
@@ -245,13 +245,13 @@ L'ammissione di dette merci al beneficio di queste disposizioni e' tuttavia subo
 
 tra gli Stati membri, il Consiglio di Associazione fissera' le nuove disposizioni da applicarsi tra le Parti Contraenti.
 
-#### Art. 9
+##### Art. 9
 
 Le Parti Contraenti determinano i metodi di collaborazione
 
 amministrativa per l'applicazione degli articoli 7 ed 8 tenuto conto dei metodi stabiliti dalla Comunita' per gli scambi di merci tra gli Stati membri.
 
-#### Art. 10
+##### Art. 10
 
 1\. - Ciascuna Parte Contraente, la quale ritenga che delle
 
@@ -267,27 +267,27 @@ economiche e la Parte interessata ritiene necessaria un'azione immediata, puo' p
 
 vigore dell'Accordo, ogni Parte Contraente ha facolta' di stabilire un elenco delle merci che rientrano nella categoria di cui all'articolo 7, paragrafo 1 b), per le quali, in conseguenza delle disparita' dei dazi doganali, essa ritenga che si possano temere deviazioni di traffico per cui non le sia, possibile applicare immediatamente le disposizioni del capitolo I, sezione I, e del capitolo II del presente titolo. Gli elenchi sono trasmessi al Consiglio di Associazione che li esamina periodicamente ai fini della loro graduale abolizione.
 
-#### Art. 11
+##### Art. 11
 
 Durante il periodo transitorio previsto dall'art. 6, le Parti
 
 Contraenti procedono, nella misura. necessaria al buon funzionamento dell'Associazione, al riavvicinamento delle loro disposizioni legislative, regolamentari e amministrative in materia doganale, tenendo conto dei riavvicinamenti gia' operati dagli Stati membri della Comunita'.
 
-## CAPITOLO I - UNIONE DOGANALE
+### CAPITOLO I - UNIONE DOGANALE
 
-### SEZIONE I - Abolizione dei dazi doganali fra le Parti Contraenti
+#### SEZIONE I - Abolizione dei dazi doganali fra le Parti Contraenti
 
-#### Art. 12
+##### Art. 12
 
 Le Parti Contraenti si astengono dall'introdurre tra loro nuovi
 
 dazi doganali o tasse di effetto equivalente all'importazione ed all'esportazione e dall'aumentare quelli che applicano nei loro rapporti commerciali reciproci alla data dell'entrata in vigore dell'Accordo.
 
-#### Art. 13
+##### Art. 13
 
 I dazi doganali all'importazione e le tasse di effetto equivalente in vigore tra gli Stati membri della Comunita' da una parte e la Grecia dall'altra parte, sono progressivamente aboliti ad opera di questi alle condizioni stabilite negli articoli 14 e 15 dell'Accordo.
 
-#### Art. 14
+##### Art. 14
 
 1\. - Per ogni prodotto, il dazio di base sul quale gli Stati membri
 
@@ -307,7 +307,7 @@ per cento del dazio di base di ciascun prodotto.
 
 che gli Stati membri applicano nei riguardi della Grecia non possono in nessun caso essere inferiori a quelli che essi applicano tra di loro.
 
-#### Art. 15
+##### Art. 15
 
 1\. - In deroga agli articoli 6 e 14, paragrafi 3 e 4, per le
 
@@ -331,7 +331,7 @@ Per i prodotti che figuravano originariamente in questo elenco e
 
 che ne sarebbero tolti, la Grecia applica immediatamente le riduzioni tariffarie gia' operate a norma delle disposizioni dell'art. 14.
 
-#### Art. 16
+##### Art. 16
 
 1\. - A prescindere dalle disposizioni degli articoli 14 e 15,
 
@@ -341,7 +341,7 @@ ciascuna Parte Contraente puo' sospendere interamente o parzialmente la riscossi
 
 propri dazi doganali nei confronti dell'altra, secondo un ritmo piu' rapido di quello previsto dagli articoli 14 e 15, quando cio' le sia consentito dalla sua situazione economica generale o dalla situazione del settore interessato. Il Consiglio di Associazione rivolge opportune raccomandazioni a tal fine.
 
-#### Art. 17
+##### Art. 17
 
 1\. - Le disposizioni degli articoli da 12 a 16 sono applicabili ai dazi doganali di carattere fiscale.
 
@@ -359,7 +359,7 @@ sostituzione di un dazio doganale di carattere fiscale incontra in Grecia gravi 
 
 L'autorizzazione deve essere richiesta entro due mesi dall'entrata in vigore dell'Accordo. In via provvisoria, la Grecia puo' mantenere i dazi in questione fino a che sia intervenuta una decisione del Consiglio di Associazione.
 
-#### Art. 18
+##### Art. 18
 
 1\. - In deroga alle disposizioni degli articoli 6, 12 e 14, la
 
@@ -411,13 +411,13 @@ disposizioni precedenti non possono in nessun castO portare i dazi applicabili a
 
 prodotti compresi nell'allegato I dell'Accordo.
 
-#### Art. 19
+##### Art. 19
 
 Gli Stati membri della Comunita' e la Grecia aboliscono tra loro, al piu' tardi entro quattro anni a decorrere dall'entrata in vigore dell'Accordo, i dazi doganali all'esportazione e le tasse di effetto equivalente.
 
-## SEZIONE II - Adozione della tariffa doganale comune da parte della Grecia.
+#### SEZIONE II - Adozione della tariffa doganale comune da parte della Grecia.
 
-#### Art. 20
+##### Art. 20
 
 1\. - L'allineamento della tariffa doganale della Grecia, alla
 
@@ -475,19 +475,19 @@ Per quanto riguarda i prodotti che figurano nell'allegato I, tale acceleramento 
 
 dall'articolo 17, paragrafo 4, la Grecia e dispensata dall'applicare le disposizioni dei paragrafi 1 e 2 del presente articolo. Allo scadere della autorizzazione, essa applica i dazi che risulterebbero dall'applicazione di queste disposizioni.
 
-#### Art. 21
+##### Art. 21
 
 1\. - La Grecia ha la facolta' di concedere contingenti tariffari a dazi ridotti. o nulli, previo accordo del Consiglio di Associazione, al fine di facilitare l'importazione di taluni articoli in provenienza dai paesi con i quali la Grecia e' legata da accordi commerciali bilaterali, qualora l'esecuzione di detti accordi con tali paesi risenta in misura sensibile dell'applicazione dello disposizioni del presente Accordo.
 
 2\. - Il dazio di un contingente tariffario non puo' in nessun caso essere inferiore a quello effettivamente applicato dalla. Grecia alle importazioni in provenienza dalla Comunita'.
 
-## CAPITOLO II - ABOLIZIONE DELLE RESTRIZIONI QUANTITATIVE TRA LE PARTI CONTRAENTI
+### CAPITOLO II - ABOLIZIONE DELLE RESTRIZIONI QUANTITATIVE TRA LE PARTI CONTRAENTI
 
-#### Art. 22
+##### Art. 22
 
 Fatte salve le disposizioni che seguono, sono vietate fra le Parti Contraenti le restrizioni quantitative alla importazione nonche' qualsiasi misura di effetto equivalente.
 
-#### Art. 23
+##### Art. 23
 
 1\. - Le Parti Contraenti si astengono dall'introdurre fra loro
 
@@ -517,13 +517,13 @@ quantitative all'importazione dei prodotti liberalizzati ma non consolidati a no
 
 membri un trattamento favorevole di quello riservato ai paesi terzi.
 
-#### Art. 24
+##### Art. 24
 
 Le Parti Contraenti si astengono, nei loro scambi reciproci, dal
 
 rendere piu' restrittivi i contingenti all'importazione e le misure di effetto equivalente esistenti alla data dell'entrata in vigore dell'Accordo.
 
-#### Art. 25
+##### Art. 25
 
 1\. - Gli Stati membri della Comunita' procedono all'eliminazione
 
@@ -545,7 +545,7 @@ dell'Accordo, ciascun contingente viene aumentato, ogni diciotto mesi, di almeno
 
 5\. - Tutte le restrizioni quantitative all'importazione applicate dagli Stati membri nei riguardi della Grecia devono essere abolite al piu' tardi entro ventidue anni a decorrere dall'entrata in vigore dell'Accordo.
 
-#### Art. 26
+##### Art. 26
 
 1\. - La Grecia procede all'eliminazione delle restrizioni
 
@@ -571,7 +571,7 @@ dell'Accordo, ciascun contingente viene aumentato, ogni diciotto mesi, di almeno
 
 8\. - Tutte le restrizioni quantitative all'importazione in Grecia devono essere abolite al piu' tardi entro ventidue anni a decorrere dall'entrata in vigore dell'Accordo.
 
-#### Art. 27
+##### Art. 27
 
 Gli Stati membri della Comunita' e la Grecia aboliscono tutte le
 
@@ -579,7 +579,7 @@ misure di effetto equivalente a contingenti non oltre la fine del periodo transi
 
 Le Parti Contraenti si notificano reciprocamente, appena possibile e non oltre sei mesi dall'entrata in vigore dell'Accordo, tutti gli elementi di cui dispongono relativi alle misure di effetto equivalente ai contingenti.
 
-#### Art. 28
+##### Art. 28
 
 1\. - Sono vietate fra le Parti Contraenti le restrizioni
 
@@ -597,7 +597,7 @@ In questo caso la Grecia apre agli Stati membri un contingente
 
 globale, tenendo conto delle esportazioni degli anni precedenti e del normale sviluppo degli scambi determinato dall'attuazione dell'unione doganale.
 
-#### Art. 29
+##### Art. 29
 
 Ciascuna Parte Contraente si dichiara disposta ad abolire nei
 
@@ -607,7 +607,7 @@ Il Consiglio di Associazione rivolge raccomandazioni a tal fine
 
 alle Parti Contraenti.
 
-#### Art. 30
+##### Art. 30
 
 Le disposizioni degli articoli precedenti lasciano impregiudicati i
 
@@ -615,7 +615,7 @@ divieti o le restrizioni all'importazione, all'esportazione o al transito, giust
 
 Tuttavia, tali divieti o restrizioni non devono costituire un mezzo di discriminazione arbitraria, ne' una restrizione dissimulata al commercio fra le Parti Contraenti.
 
-#### Art. 31
+##### Art. 31
 
 1\. - Le Parti Contraenti procedono ad un progressivo riordinamento dei monopoli nazionali che presentano un carattere commerciale, in modo che venga esclusa alla fine dal periodo transitorio di cui all'articolo 15, qualsiasi discriminazione fra i cittadini degli Stati membri della Comunita' e i cittadini greci per quanto riguarda le condizioni relative all'approvvigionamento ed agli sbocchi.
 
@@ -647,9 +647,9 @@ quanto siano compatibili con gli accordi internazionali esistenti.
 
 6\. - Le disposizioni dei precedenti paragrafi non si applicano ai prodotti agricoli compresi nell'allegato II dell'Accordo.
 
-## CAPITOLO III - AGRICOLTURA
+### CAPITOLO III - AGRICOLTURA
 
-#### Art. 32
+##### Art. 32
 
 Il regime di Associazione comprende anche l'agricoltura e il
 
@@ -663,7 +663,7 @@ Salvo contrarie disposizioni degli articoli da 33 a 43, le norme
 
 previste dall'Accordo sono applicabili ai prodotti agricoli.
 
-#### Art. 33
+##### Art. 33
 
 Il funzionamento e lo sviluppo dell'Associazione, per quanto
 
@@ -679,7 +679,7 @@ trattamento dei prodotti degli Stati membri e dei medesimi prodotti della Grecia
 
 L'armonizzazione delle politiche agricole della Comunita' e della Grecia deve essere attuata al piu' tardi alla fine del periodo transitorio previsto dall'articolo 15 e secondo le modalita' di cui agli articoli 35 e 36.
 
-#### Art. 34
+##### Art. 34
 
 1\. - Ai fini dell'applicazione delle disposizioni di cui
 
@@ -703,7 +703,7 @@ agricola, alla Grecia dopo che le organizzazioni comuni di mercato siano state s
 
 sulle proposte della Commissione e sui provvedimenti che la Comunita' e la Grecia intendono adottare per il settore agricolo.
 
-#### Art. 35
+##### Art. 35
 
 Non appena la Comunita' abbia dichiarato che, per un determinato
 
@@ -721,7 +721,7 @@ Nel determinare tali condizioni, il Consiglio di Associazione si
 
 ispira ai principi dell'organizzazione di mercato scelta dalla Comunita' per il prodotto considerato.
 
-#### Art. 36
+##### Art. 36
 
 1\. - Se la dichiarazione della Comunita' di cui allo articolo 35 si
 
@@ -749,7 +749,7 @@ sono attuate prima della scadenza del periodo di un anno, il Consiglio di Associ
 
 limita il potere del Consiglio di Associazione di prendere le decisioni previste dall'articolo 35.
 
-#### Art. 37
+##### Art. 37
 
 1\. - Anche prima dell'armonizzazione delle politiche agricole della
 
@@ -783,7 +783,7 @@ riduzione delle restrizioni quantitative nei confronti dei paesi terzi, essa e' 
 
 alla decisione del Consiglio di Associazione prevista, dall'articolo 35 ovvero fino alla scadenza dei periodi di due anni e di un anno stabiliti rispettivamente nei paragrafi 1 e 2 dell'articolo 36.
 
-#### Art. 38
+##### Art. 38
 
 1\. - Fino alla decisione del Consiglio di Associazione prevista.
 
@@ -793,11 +793,11 @@ dall'articolo 35, ovvero fino alla scadenza dei periodi di due anni e di un anno
 
 dall'articolo 35, la Grecia ha la facolta' di differire l'applicazione della tariffa doganale comune per quanto riguarda i prodotti agricoli non compresi nell'elenco dell'allegato III.
 
-#### Art. 39
+##### Art. 39
 
 Le disposizioni degli articoli relativi alle regole di concorrenza sono applicabili alla produzione e al commercio dei prodotti agricoli soltanto nella misura determinata dal Consiglio di Associazione, il quale si pronuncia dopo che siano state adottate le decisioni sull'applicazione delle regole di concorrenza alla produzione e al commercio dei prodotti agricoli all'interno della Comunita'.
 
-#### Art. 40
+##### Art. 40
 
 Il Consiglio di Associazione procede ogni anno ad un esame della
 
@@ -811,7 +811,7 @@ Tali provvedimenti possono condurre in particolare:
 
 \- ad una revisione dell'elenco dell'allegato III.
 
-#### Art. 41
+##### Art. 41
 
 1\. - Qualora la progressiva abolizione dei dazi doganali e delle
 
@@ -833,7 +833,7 @@ dazi doganali.
 
 4\. - Le disposizioni dei paragrafi precedenti rimangono in vigore fino al momento in cui interverra' la decisione del Consiglio di Associazione prevista dall'articolo 35 ovvero fino alla scadenza dei periodi di due anni e di un anno stabiliti rispettivamente nell'articolo 36, paragrafo 1 e 2.
 
-#### Art. 42
+##### Art. 42
 
 Se uno Stato membro della Comunita' applica, a norma dell'articolo 44 del Trattato che istituisce la Comunita', prezzi minimi alle importazioni di un prodotto in provenienza dagli altri Stati membri, esso applica le medesime misure alle importazioni dello stesso prodotto in provenienza dalla Grecia.
 
@@ -841,7 +841,7 @@ In tal caso, lo Stato membro informa la Grecia come gli altri Stati
 
 membri.
 
-#### Art. 43
+##### Art. 43
 
 Quando un prodotto e' disciplinato da un'organizzazione di mercato o da qualsiasi regolamentazione interna di effetto equivalente, ovvero subisce direttamente o indirettamente gli effetti di una simile organizzazione esistente per altri prodotti, e quando la differenza dei prezzi delle materie prime utilizzate che ne risulta, causa pregiudizio sui mercato di uno o piu' Stati membri o della Comunita' da un lato, o su quello della Grecia dall'altro, la Parte Contraente interessata puo' applicare a tale prodotto una tassa di compensazione all'entrata, salvo che non sia applicata una tassa di compensazione all'uscita.
 
@@ -853,7 +853,7 @@ Fino al momento in cui la decisione del Consiglio di Associazione diviene operan
 
 ## TITOLO III - Circolazione delle persone e dei servizi
 
-#### Art. 44
+##### Art. 44
 
 La libera circolazione dei lavoratori, quale risulta dagli articoli
 
@@ -863,33 +863,33 @@ Il Consiglio di Associazione puo' determinare il regime da
 
 applicare fino a, tale data al movimento dai lavoratori tra gli Stati membri e la Grecia, ispirandosi alle disposizioni relative alla libera circolazione dei lavoratori adottate in conformita' al capitolo 1, titolo III, della seconda parte del Trattato che istituisce la Comunita', e tenendo conto della situazione dell'occupazione in Grecia.
 
-#### Art. 45
+##### Art. 45
 
 Il Consiglio di Associazione fissa le modalita' in base alle quali la Grecia puo' fruire delle misure risultanti dall'applicazione delle disposizioni degli articoli 50 e 128 del Tratta-to che istituisce la Comunita', concernenti rispettivamente lo scambio di giovani lavoratori e la formazione professionale.
 
-#### Art. 46
+##### Art. 46
 
 Il Consiglio di Associazione puo' prevedere a beneficio della
 
 Grecia l'elaborazione e lo sviluppo di programmi di assistenza tecnica in materia di mano d'opera. Esso decide in merito all'eventuale finanziamento di questi programmi.
 
-#### Art. 47
+##### Art. 47
 
 Le Parti contraenti facilitalo in modo progressivo ed equilibrato lo stabilimento dei cittadini degli Stati membri nel territorio greco e dei cittadini greci all'interno della Comunita' in conformita' degli articoli da 52 a 56 e dell'articolo 58 del Trattato che istituisce la Comunita', escluso quanto in essi disposto in merito ai termini ed alla procedura per l'attuazione della liberta' di stabilimento.
 
-#### Art. 48
+##### Art. 48
 
 Il Consiglio di Associazione stabilisce il ritmo di attuazione e le
 
 modalita' di applicazione delle disposizioni dell'articolo precedente per le diverse categorie di attivita'; l'attuazione progressiva avviene dopo l'entrata in vigore delle direttive corrispondenti, previste dagli articoli da 52 a 56 del Trattato che istituisce la Comunita' e tenendo conto della particolare situazione economica e sociale della Grecia.
 
-#### Art. 49
+##### Art. 49
 
 Il Consiglio di Associazione decide, durante il periodo transitorio
 
 previsto dall'articolo 6 dell'Accordo, quali siano le opportune disposizioni da prendere per facilitare le prestazioni di servizi tra la Comunita' e la Grecia.
 
-#### Art. 50
+##### Art. 50
 
 1\. - Le disposizioni del Trattato che istituisce la Comunita'
 
@@ -905,13 +905,13 @@ paragrafo 2 del Trattato che istituisce la Comunita' stessa, prende una decision
 
 ## TITOLO IV - Disposizioni relative alla concorrenza, alla fiscalita' e al riavvicinamento delle legislazioni
 
-#### Art. 51
+##### Art. 51
 
 Le Parti Contraenti riconoscono che i principi enunciati negli
 
 articoli 85, 86, 90 e 92 del Trattato che istituisce la Comunita' dovranno essere resi applicabili ai loro rapporti d'Associazione.
 
-#### Art. 52
+##### Art. 52
 
 1\. - Entro due anni dall'entrata in vigore dell'Accordo, il
 
@@ -925,7 +925,7 @@ Al termine di detto periodo di dieci anni, il Consiglio di
 
 Associazione decide, tenendo conto della situazione economica della Grecia a quella data, se e' necessario prorogare le disposizioni previste dal comma precedente.
 
-#### Art. 53
+##### Art. 53
 
 1\. - Nessuna Parte Contraente colpisce direttamente o
 
@@ -949,17 +949,17 @@ d'affari in base al sistema dell'imposta cumulativa a cascata possono. per quant
 
 precedenti disposizioni tenendo conto della esperienza acquisita dalle Parti Contraenti nel settore cui il presente articolo si riferisce.
 
-#### Art. 54
+##### Art. 54
 
 Negli scambi tra le Parti Contraenti e riguardo alle imposizioni
 
 diverse dalie imposte sulla cifra d'affari, dalle imposte di consumo e dalle altre imposte indirette, si possono concedere esoneri e rimborsi all'esportazione e introdurre tasse di compensazione applicabili alle importazioni, soltanto qualora le misure progettate siano state preventivamente approvate per un periodo limitato dal Consiglio di Associazione.
 
-#### Art. 55
+##### Art. 55
 
 Le Parti Contraenti possono adottare le misure di salvaguardia che ritengono necessarie per ovviare alle difficolta' derivanti sia dalla mancanza di decisioni del Consiglio di Associazione nelle materie previste dagli articoli 52 e 53, sia da una mancata applicazione delle misure adottate dal Consiglio di Associazione nelle stesse materie.
 
-#### Art. 56
+##### Art. 56
 
 1\. - Qualora durante il periodo transitorio previsto dall'articolo 15 dell'Accordo, il Consiglio di Associazione, su domanda di una delle Parti Contraenti, constati l'esistenza di pratiche di dumping, esercitate nelle relazioni tra la Grecia e la Comunita', esso rivolge raccomandazioni all'autore o agli autori di tali pratiche per porvi termine.
 
@@ -987,13 +987,13 @@ Il Consiglio di Associazione invia alle Parti Contraenti le
 
 raccomandazioni che ritiene utili allo scopo di completare le disposizioni del presente paragrafo o per assicurarne l'applicazione ispirandosi alla esperienza acquisita dalle Parti Contraenti nel settore considerato nel presente articolo.
 
-#### Art. 57
+##### Art. 57
 
 Nei settori non soggetti alle disposizioni del presente Accordo e che abbiano una diretta incidenza sul funzionamento dell'Associazione o nei settori previsti da queste disposizioni quando esse non prescrivano una procedura specifica, il Consiglio di Associazione puo' rivolgere raccomandazioni alle Parti Contraenti invitandole a prendere misure volte al riavvicinamento delle disposizioni legislative, regolamentari o amministrative.
 
 ## TITOLO V - Politica economica
 
-#### Art. 58
+##### Art. 58
 
 1\. - Ogni Stato, parte dell'Accordo, attua la politica economica
 
@@ -1003,13 +1003,13 @@ necessaria a garantire l'equilibrio della propria bilancia globale dei pagamenti
 
 3\. - In caso di necessita' il Consiglio di Associazione raccomanda agli Stati, parti dell'Accordo, le misure adatte a far fronte alla situazione.
 
-#### Art. 59
+##### Art. 59
 
 Ogni Stato, parte dell'Accordo, considera la propria politica in
 
 materia di tassi di scambio come problema di interesse comune.
 
-#### Art. 60
+##### Art. 60
 
 1\. - In caso di difficolta' o di grave minaccia di difficolta'
 
@@ -1029,7 +1029,7 @@ turbamento possibile nel funzionamento della Associazione e non andare oltre la 
 
 Il Consiglio di Associazione deve essere informato delle misure di salvaguardia pregiudizievoli agli scambi ed ai pagamenti tra la Comunita' e la Grecia al piu' tardi alla data della loro entrata in vigore. Il Consiglio di Associazione procede entro sei mesi all'esame dell'incidenza di tali misure sul funzionamento dell'Accordo.
 
-#### Art. 61
+##### Art. 61
 
 1\. - Gli Stati membri della Comunita' e la Grecia si impegnano ad autorizzare che vengano effettuati nella valuta dello Stato membro nel quale risiede il creditore od i beneficiari, i pagamenti relativi agli scambi di merci, di servizi e di capitali, nonche' i trasferimenti di capitali e di salari, nella misura in cui la circolazione delle merci, dei servizi, dei capitali e delle persone sia liberalizzata tra essi in applicazione dello Accordo.
 
@@ -1047,7 +1047,7 @@ restrittivo, salvo il preventivo consenso del Consiglio di Associazione, il regi
 
 4\. - Ove necessario le Parti Contraenti si accordano sulle misure da adottare per rendere possibile la realizzazione dei pagamenti e dei trasferimenti di cui al presente articolo.
 
-#### Art. 62
+##### Art. 62
 
 Le Parti contraenti si consultano al fine di facilitare i movimenti
 
@@ -1061,7 +1061,7 @@ I residenti di ciascuno Stato membro beneficiano di tutti i
 
 vantaggi, particolarmente in materia di cambi e in materia fiscale, accordati dalla Grecia ad un altro Stato membro o ad un paese terzo, relativi al trattamento dei capitali stranieri.
 
-#### Art. 63
+##### Art. 63
 
 Le Parti Contraenti procurano di non introdurre nuove restrizioni di cambio pregiudizievoli ai movimenti dei capitali tra gli Stati membri della Comunita' e la Grecia ed ai pagamenti correnti relativi a questi movimenti, e di non rendere piu' restrittivo il regime esistente.
 
@@ -1069,7 +1069,7 @@ Le Parti Contraenti semplificano, per tutto quanto possibile, le
 
 formalita' di autorizzazione e di controllo applicabili alla conclusione od all'esecuzione delle transazioni e dei trasferimenti di capitali e, all'occorrenza, si accordano per raggiungere questa semplificazione.
 
-#### Art. 64
+##### Art. 64
 
 1\. - Le Parti Contraenti si accordano in seno al Consiglio di
 
@@ -1097,7 +1097,7 @@ Nel caso di un'adesione, diritti ed obblighi potranno sorgere per la Grecia, sol
 
 ## TITOLO VI - Disposizioni generali e finali
 
-#### Art. 65
+##### Art. 65
 
 1\. - Per il raggiungimento degli obiettivi fissati dal presente
 
@@ -1115,7 +1115,7 @@ I membri del Consiglio di Associazione possono farsi rappresentare alle condizio
 
 4\. - Il Consiglio di Associazione delibera all'unanimita'.
 
-#### Art. 66
+##### Art. 66
 
 La presidenza del Consiglio di Associazione e' esercitata a turno per la durata di sei mesi da un rappresentante della Comunita' e da. un rappresentante della Grecia.
 
@@ -1129,7 +1129,7 @@ Il Consiglio determina i compiti e le competenze di questi
 
 comitati.
 
-#### Art. 67
+##### Art. 67
 
 1\. - Ciascuna Parte di cui all'articolo 65 del presente Accordo
 
@@ -1159,7 +1159,7 @@ Associazione non abbia deciso diversamente, il terzo arbitro sara' designato di 
 
 5\. - Ciascuna Parte e' tenuta a prendere i provvedimenti necessari all'esecuzione della decisione o della sentenza.
 
-#### Art. 68
+##### Art. 68
 
 1\. - Gli Stati membri della Comunita' possono applicare l'art. 226 del Trattato che istituisce la Comunita' stessa nelle loro relazioni con la Grecia. Per l'applicazione di detto articolo la Grecia e' assimilata ad uno Stato membro.
 
@@ -1175,29 +1175,29 @@ paragrafo 1, comma 1 del Trattato che istituisce la Comunita', ed eventualmente 
 
 istituisce la Comunita', il Consiglio di Associazione puo' decidere che le misure previste dall'articolo 226, paragrafo 1 di detto Trattato continuino ad essere applicabili da parte della Comunita' e della Grecia nelle loro relazioni reciproche.
 
-#### Art. 69
+##### Art. 69
 
 Le disposizioni dell'Accordo non si applicano ai prodotti di
 
 competenza della Comunita' Europea del Carbone e dell'Acciaio.
 
-#### Art. 70
+##### Art. 70
 
 Quando un'azione comune delle Parti Contraenti risulti necessaria per raggiungere, nell'applicazione del regime di Associazione, uno degli obiettivi del presente Accordo senza che quest'ultimo abbia previsto i poteri d'azione a tal uopo richiesti, il Consiglio di Associazione prende le disposizioni del caso.
 
-#### Art. 71
+##### Art. 71
 
 Il Consiglio di Associazione prende ogni misura utile a favorire la
 
 cooperazione ed i contatti necessari tra l'Assemblea Parlamentare Europea, il Comitato Economico e Sociale e gli altri organi della Comunita', da un lato, ed il Parlamento greco e gli organi greci corrispondenti, dall'altro.
 
-#### Art. 72
+##### Art. 72
 
 Quando il funzionamento dell'Accordo di Associazione consentira' di
 
 prevedere l'accettazione integra le da parte della Grecia degli obblighi derivanti dal Trattato che istituisce la Comunita' Economica Europea, le Parti Contraenti esamineranno la possibilita' di adesione della Grecia alla Comunita'.
 
-#### Art. 73
+##### Art. 73
 
 1\. - Il presente Accordo si applica, da un lato, ai territori
 
@@ -1211,13 +1211,13 @@ Le condizioni di applicazione a questi territori delle disposizioni
 
 del presente Accordo concernenti gli altri settori saranno fissate successivamente, mediante accordo tra le Parti Contraenti.
 
-#### Art. 74
+##### Art. 74
 
 I Protocolli che le Parti Contraenti convengono di allegare
 
 all'Accordo ne costituiscono parte integrante.
 
-#### Art. 75
+##### Art. 75
 
 Il presente Accordo sara' ratificato dagli Stati firmatari
 
@@ -1227,19 +1227,19 @@ Gli strumenti di ratifica e l'atto di notifica della suddetta
 
 conclusione saranno scambiati a Bruxelles.
 
-#### Art. 76
+##### Art. 76
 
 Il presente Accordo entrera' in vigore il primo giorno del terzo
 
 mese successivo alla data dello scambio degli strumenti di ratifica.
 
-#### Art. 77
+##### Art. 77
 
 Il presente Accordo e' redatto in duplice esemplare in lingua
 
 francese, greca, italiana, olandese e tedesca, ciascuno di detti testi facendo egualmente fede.
 
-#### Allegato I
+##### Allegato I
 
 ALLEGATI
 
@@ -1249,7 +1249,7 @@ ELENCO DEGLI ARTICOLI ATTUALMENTE FABBRICATI IN GRECIA E SOGGETTI AL REGIME DELL
 
 Parte di provvedimento in formato grafico
 
-#### Allegato II
+##### Allegato II
 
 ALLEGATO II
 
@@ -1257,7 +1257,7 @@ ELENCO DEI PRODOTTI PREVISTI DALL'ARTICOLO 32 DELL'ACCORDO DI ASSOCIAZIONE
 
 Parte di provvedimento in formato grafico
 
-#### Allegato III
+##### Allegato III
 
 ALLEGATO III
 
@@ -1265,7 +1265,7 @@ ELENCO DEI PRODOTTI AGRICOLI Dl CUI ALL'ARTICOLO 37, PARAGRAFO I DELL'ACCORDO DI
 
 Parte di provvedimento in formato grafico
 
-#### Allegato IV
+##### Allegato IV
 
 ALLEGATO IV
 
@@ -1457,7 +1457,7 @@ mantenimento personale in questo secondo stato.
 
 \- Doti
 
-#### Protocolli
+##### Protocolli
 
 PROTOCOLLI
 
@@ -2113,7 +2113,7 @@ Il presente Protocollo e' allegato all'Accordo di Associazione.
 
 Parte di provvedimento in formato grafico
 
-#### Atto finale
+##### Atto finale
 
 ATTO FINALE
 
@@ -2543,7 +2543,7 @@ Europea.
 
 Hanno convenuto le seguenti disposizioni:
 
-#### Art. 1
+##### Art. 1
 
 La posizione comune che i Rappresentanti della Comunita' e degli
 
@@ -2555,7 +2555,7 @@ b) negli altri casi, la- posizione comune e' adottata
 
 all'unanimita' dal Consiglio o dai Rappresentanti dei Governi degli Stati membri, riuniti in seno al Consiglio, previa consultazione della Commissione.
 
-#### Art. 2
+##### Art. 2
 
 1\. - Le decisioni e raccomandazioni adottate dal Consiglio di
 
@@ -2565,13 +2565,13 @@ Associazione in questi settori che, ai termini del Trattato che istituisce la Co
 
 Associazione vertano su un settore che, ai termini del Trattato che. istituisce la Comunita' non e' di competenza della Comunita' stessa, gli Stati membri prendono i provvedimenti di applicazione necessari.
 
-#### Art. 3
+##### Art. 3
 
 Le procedure definite nei precedenti articoli 1 e 2 non
 
 pregiudicano la ripartizione delle competenze tra gli Stati membri e la Comunita', quale e' stabilita dal Trattato che istituisce la Comunita'.
 
-#### Art. 4
+##### Art. 4
 
 Uno Stato membro che ritenga necessario fare ricorso agli articoli 10, 55, 56 e 67 dell'Accordo di Associazione nei settori che non sono di competenza della Comunita' consulta. preventivamente gli altri Stati membri.
 
@@ -2579,7 +2579,7 @@ Se il Consiglio di Associazione e' indotto a prendere posizione
 
 sulla azione dello Stato membro di cui ai comma precedente, la posizione presentata dalla Comunita' e' quella dello Stato membro interessato, a meno che i Rappresentanti degli Stati membri, riuniti in seno al Consiglio, non decidano altrimenti all'unanimita'.
 
-#### Art. 5
+##### Art. 5
 
 1\. - Il Consiglio, qualora lo ritenga necessario, potra' in
 
@@ -2589,13 +2589,13 @@ qualsiasi momento procedere all'esame delle disposizioni del presente Accordo. L
 
 b, e 2, paragrafo I del presente Accordo al piu' tardi al termine della seconda tappa del periodo transitorio previsto all'art. del Trattato che istituisce la Comunita'. Le modifiche sono adottate dal Consiglio secondo la procedura di cui al paragrafo 1 del presente articolo.
 
-#### Art. 6
+##### Art. 6
 
 Il presente Accordo sara' approvato da ciascuno Stato membro
 
 conformemente alle proprie norme costituzionali. Il Governo di ciascuno stato membro notifichera' al Segretariato dei Consigli delle Comunita' Europee l'adempimento delle procedure richieste per l'entrata in vigore del presente Accordo. Quest'ultimo entrera' in vigore alla data della notifica effettuata dal Governo che procedera' per ultimo a detta notifica.
 
-#### Art. 7
+##### Art. 7
 
 Il presente Accordo, redatto in unico esemplare, in lingua
 
@@ -2641,11 +2641,11 @@ finanziamento dei prestiti e degli abbuoni di interessi previsti da detto Protoc
 
 Hanno convenuto le seguenti disposizioni:
 
-#### Art. 1
+##### Art. 1
 
 I prestiti previsti nel Protocollo finanziario saranno normalmente concessi e finanziati dalla Banca europea per gli investimenti.
 
-#### Art. 2
+##### Art. 2
 
 Per il finanziamento di una prima quota di 50 milioni di dollari
 
@@ -2659,7 +2659,7 @@ Le eventuali perdite risultanti dall'accettazione di questo mandato
 
 verranno coperte in proporzione alle sottoscrizioni degli Stati membri al capitale della Banca.
 
-#### Art. 3
+##### Art. 3
 
 Per quanto riguarda il saldo di 75 milioni di dollari U.S.A.,
 
@@ -2669,7 +2669,7 @@ In ogni caso gli Stati membri prenderanno, ove necessario, i
 
 provvedimenti occorrenti per mettere a disposizione della Banca i mezzi necessari, in proporzione alla loro sottoscrizione al capitale di quest'ultima.
 
-#### Art. 4
+##### Art. 4
 
 I mezzi necessari per la concessione degli abbuoni di interessi
 
@@ -2677,13 +2677,13 @@ saranno forniti dagli Stati membri in proporzione alla loro sottoscrizione al ca
 
 La procedura di versamento dei fondi e le modalita' di concessione degli abbuoni di interessi saranno adottati dal Consiglio all'unanimita'.
 
-#### Art. 5
+##### Art. 5
 
 Il presente Accordo, sara' approvato da ciascuno Stato membro
 
 conformemente alle proprie norme costituzionali. Il Governo di ciascuno Stato membro notifichera' al Segretariato dei Consigli delle Comunita' Europee adempimento delle procedure richieste per l'entrata in vigore del presente Accordo. Quest'ultimo entrera' in vigore alla data della notifica effettuata dal Governo che avra' proceduto per ultimo a detta notifica.
 
-#### Art. 6
+##### Art. 6
 
 Il presente Accordo, redatto in unico esemplare in lingua francese,
 

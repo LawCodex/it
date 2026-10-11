@@ -28,11 +28,9 @@ PROMULGA
 
 la seguente legge:
 
-## Titolo I - PROVVEDIMENTI URGENTI PER L'ACCELERAZIONE DEI PROGRAMMI IN CORSO DI
+## Titolo I - PROVVEDIMENTI URGENTI PER L'ACCELERAZIONE DEI PROGRAMMI IN CORSO DI EDILIZIA RESIDENZIALE PUBBLICA
 
-### EDILIZIA RESIDENZIALE PUBBLICA
-
-#### Art. 1
+### Art. 1
 
 I fondi stanziati con le leggi 21 aprile 1962, n. 195, 4 novembre 1963, n. 1460, 29 marzo 1965; n. 218, 1 novembre 1965, n. 1179, 28 marzo 1968, n. 422, 1° giugno 1971, n. 291, 22 ottobre 1971, n. 865, 25 febbraio 1972, n. 13, iscritti in bilancio negli esercizi fino a tutto il 1972, sono conservati nel conto dei residui passivi anche oltre il termine stabilito dal secondo comma dell'articolo 36 del regio decreto 18 novembre 1923, n. 2440, e successive modificazioni e in ogni caso non oltre il 31 dicembre 1978.
 
@@ -54,13 +52,13 @@ AGGIORNAMENTO (2)
 
 La L. 5 agosto 1978, n. 457 ha disposto (con l'art. 54, comma 2) che il termine previsto dal comma 2 del presente articolo, e' ulteriormente prorogato al 31 dicembre 1978.
 
-#### Art. 2
+### Art. 2
 
 Resta confermato che i contributi concessi dal Ministro per i lavori pubblici - Presidente del Comitato per l'edilizia residenziale - ai sensi dell'articolo 16 della legge 27 maggio 1975, n. 166, sulla base delle delibere di concessione del mutuo da parte degli istituti di credito convenzionati e della dichiarazione comunale di avvenuto inizio lavori e corrisposti, ai sensi dello stesso articolo 16, a decorrere dalla data di stipulazione del contratto di mutuo, sono utilizzati in modo che anche nella fase di preammortamento l'onere a carico del mutuatario non superi il tasso agevolato di interesse stabilito dalla legge per il periodo di ammortamento.
 
 Nel periodo finale dell'ammortamento del mutuo e' a carico del mutuatario e degli eventuali aventi causa l'intera rata di rimborso anche per la parte non piu' coperta dal contributo statale per effetto dell'anticipato utilizzo di cui al precedente comma.
 
-#### Art. 3
+### Art. 3
 
 L'articolo 15 della legge 27 maggio 1975, n. 166, e' sostituito dal seguente:
 
@@ -74,29 +72,29 @@ Alle abitazioni di cui al secondo comma non si applicano le norme previste dal d
 
 La garanzia dello Stato diviene immediatamente operante per l'intero credito dell'ente mutuante nell'ipotesi che venga meno la garanzia ipotecaria o per vizi del procedimento di espropriazione o per effetto di decadenza per qualsiasi titolo dalla concessione in superficie o dalla cessione in proprieta' dell'area ai sensi dell'articolo 35 della legge 22 ottobre 1971, n. 865".
 
-#### Art. 4
+### Art. 4
 
 I mutui da concedersi per interventi di edilizia residenziale fruenti di concorso o contributo dello Stato ai sensi della legge 2 luglio 1949, n. 408 e successive modificazioni e integrazioni, da realizzare nei piani di zona della legge 18 aprile 1962, n. 167, sono garantiti dallo Stato per il rimborso del capitale ed il pagamento degli interessi ai sensi e con le modalita' previste dall'articolo 15 della legge 27 maggio 1975, n. 166, cosi' come sostituito dall'articolo 3 della presente legge.
 
-#### Art. 5
+### Art. 5
 
 I redditi di cui al secondo comma dell'articolo 10 del decreto-legge 13 agosto 1975, n. 376, convertito, con modificazioni, nella legge 16 ottobre 1975, n. 492, per l'assegnazione degli alloggi realizzati da parte di cooperative edilizie in forza del predetto decreto-legge o di leggi precedenti, sono quelli dichiarati nell'anno antecedente a quello dell'assegnazione dell'alloggio.
 
 Per gli acquirenti degli alloggi realizzati dalle imprese di costruzione e loro consorzi i redditi sono quelli dichiarati nell'anno antecedente a quello della richiesta all'ufficio del genio civile del riconoscimento del possesso dei requisiti a norma delle vigenti disposizioni di legge.
 
-#### Art. 6
+### Art. 6
 
 Le assegnazioni o concessioni di aree comprese nei piani di zona di cui alla legge 18 aprile 1962, n. 167, comunque e in qualsiasi tempo effettuate in favore di soggetti privi di finanziamento assistito da contributo pubblico, sono revocate quando, essendo trascorso un anno dalla assegnazione o concessione o dal diverso termine stabilito in convenzione, non risultino iniziati i lavori di costruzione e non sia assunto l'impegno di ultimarli entro i successivi tre anni.
 
 Per le assegnazioni o concessioni disposte anteriormente alla data di entrata in vigore della presente legge, il termine per l'inizio dei lavori di cui al comma precedente decorre dalla data stessa.
 
-#### Art. 7
+### Art. 7
 
 In deroga a quanto previsto dalle vigenti disposizione i fondi residui della gestione degli enti ed organismi edilizi soppressi ai sensi della legge 22 ottobre 1971, n. 865 sono versati nel conto corrente istituito presso la Cassa depositi e prestiti ai sensi dell'articolo 5 della predetta legge.
 
 Al fabbisogno occorrente all'ufficio liquidazione di cui alla legge 4 dicembre 1956, n. 1404, si provvede con prelevamenti a favore dello stesso ufficio di liquidazione da disporsi dal Ministro per i lavori pubblici - Presidente del Comitato per l'edilizia residenziale - sentito il Ministro per il tesoro.
 
-#### Art. 8
+### Art. 8
 
 La revoca prevista dall'articolo 9 del decreto-legge 13 agosto 1975, n. 376, convertito, con modificazioni, nella legge 16 ottobre 1975, n. 492, si applica anche ai mutui concessi ai comuni ai sensi dell'articolo 45 della legge 22 ottobre 1971, n. 865, per la urbanizzazione primaria delle aree nonche' per la realizzazione delle altre opere necessarie ad allacciare le aree stesse ai pubblici servizi, in attuazione dei piani di zona.
 
@@ -104,15 +102,15 @@ Qualora la regione confermi la designazione dello stesso comune decaduto dalla c
 
 In sede di prima applicazione della norma di cui al primo comma del presente articolo, il termine previsto dal secondo comma dell'articolo 9 del decreto-legge 13 agosto 1975, n. 376, convertito, con modificazioni, nella legge 16 ottobre 1975, n. 492, e' fissato al 31 gennaio 1978.
 
-#### Art. 9
+### Art. 9
 
 Per il finanziamento dei maggiori oneri derivanti dalla attuazione dei programmi costruttivi previsti dall'articolo 1 della legge 27 maggio 1975, n. 166 e dall'articolo 4 del decreto-legge 13 agosto 1975, n. 376, convertito, con modificazioni, nella legge 16 ottobre 1975, n. 492, per l'aggiudicazione dell'appalto delle opere con offerte in aumento, per revisione di prezzi e per lavori che si rendano necessari in corso d'opera, e' autorizzata l'utilizzazione dei fondi disponibili sul conto corrente istituito dall'articolo 6 della legge 27 maggio 1975, n. 166, che risultino eccedenti rispetto alle necessita' di finanziamento assicurate dalle lettere a) e c) del predetto articolo 6.
 
-#### Art. 10
+### Art. 10
 
 Per far fronte alle necessita' dei programmi di edilizia agevolata e convenzionata fruenti dei contributi di cui al titolo II del decreto-legge 6 settembre 1965, n. 1022, convertito, con modificazioni, nella legge 1 novembre 1965, n. 1179 ed all'articolo 72 della legge 22 ottobre 1971, n. 865, in corso alla data di entrata in vigore della presente legge, derivanti dall'aumento del costo del denaro, dall'aggiornamento dei costi di costruzione entro il limite massimo del 15 per cento degli stessi costi determinati dai decreti ministeriali 27 febbraio 1975 e 3 ottobre 1975, e' autorizzato l'ulteriore limite di impegno, rispettivamente, di lire 5 miliardi e di lire 5 miliardi, da iscrivere nello stato di previsione della spesa del Ministero dei lavori pubblici per ciascuno degli anni finanziari 1977 e 1978.
 
-#### Art. 11
+### Art. 11
 
 I fondi stanziati in bilancio ai sensi del primo comma dell'articolo 9 del decreto-legge 4 marzo 1972, n. 25, convertito, con modificazioni, nella legge 16 marzo 1972, n. 88, quale risulta sostituito dall'articolo 5 del decreto-legge 6 ottobre 1972, n. 552, convertito, con modificazioni, nella legge 2 dicembre 1972, n. 734, a sua volta sostituito dall'articolo 5 della legge 10 maggio 1976, n. 261, destinati alla realizzazione di un programma di edilizia abitativa nelle zone della regione Marche colpite dal terremoto, possono essere utilizzati, previa unica delibera del Comitato per l'edilizia residenziale, su parere della regione Marche, anche per interventi sul patrimonio edilizio esistente mediante la concessione di contributi nella spesa effettiva occorrente per la riparazione o la ricostruzione di alloggi gia' di proprieta' dello Stato e degli enti di edilizia economica e popolare, comunque ceduti ai sensi del decreto del Presidente della Repubblica 17 gennaio 1959, n. 2, e successive modificazioni ed integrazioni, fermo restando quanto disposto dagli articoli 6, lettera d) e 7 del decreto-legge 4 marzo 1972, n. 25, convertito, con modificazioni, nella legge 16 marzo 1972, n. 88, nonche' per la riparazione a totale carico dello Stato di edifici di proprieta' pubblica o comunque gestiti dagli IACP.
 
@@ -122,13 +120,13 @@ I fondi destinati alla realizzazione di nuovi programmi costruttivi sono utilizz
 
 A valere sui fondi attribuiti alla regione Marche in base al successivo articolo 16 e' autorizzata la concessione di una ulteriore sovvenzione straordinaria di lire 300 milioni all'Istituto autonomo per le case popolari di Ascoli Piceno e di lire 100 milioni all'Istituto autonomo per le case popolari di Macerata per il completamento del programma costruttivo di alloggi finanziato con la sovvenzione concessa ai sensi dell'articolo 7 del decreto-legge 14 marzo 1973, n. 31, convertito, con modificazioni, nella legge 17 maggio 1973, n. 205.
 
-#### Art. 12
+### Art. 12
 
 Le assegnazioni di cui al primo comma dell'articolo 5-bis del decreto-legge 22 gennaio 1973, n. 2, convertito con modificazioni, nella legge 23 marzo 1973, n. 36, gia' parzialmente corrisposte negli anni dal 1973 al 1977 alle regioni Calabria e Sicilia, possono essere saldate in unica soluzione mediante versamento delle residue somme di lire 32.000 milioni e di lire 8.000 milioni, rispettivamente, alle regioni Calabria e Sicilia.
 
 Conseguentemente le residue annualita' del corrispondente limite d'impegno di cui al secondo comma dello stesso articolo 5-bis sono versate, a decorrere dall'anno finanziario 1978, sul conto corrente istituito presso la Cassa depositi e prestiti ai sensi della lettera a) dell'articolo 5 della legge 22 ottobre 1971, n. 865.
 
-#### Art. 13
+### Art. 13
 
 Il fondo di dotazione istituito dall'articolo 45 della legge 22 ottobre 1971, n. 865, e successive modificazioni e integrazioni, e' ulteriormente elevato a lire 520 miliardi.
 
@@ -142,13 +140,13 @@ Per la contrazione dei mutui a valere sul fondo istituito dall'articolo 45 della
 
 Le limitazioni di cui al precedente comma non si applicano per la contrazione di mutui destinati alla realizzazione di programmi comunali di edilizia abitativa che siano stati deliberati prima dell'entrata in vigore del predetto decreto-legge 17 gennaio 1977, n. 2, convertito, con modificazioni, nella legge 17 marzo 1977, n. 62.
 
-#### Art. 14
+### Art. 14
 
 All'onere di lire 80 miliardi derivante dall'applicazione degli articoli 10 e 13 della presente legge nell'anno finanziario 1977 si provvede con una corrispondente aliquota delle maggiori entrate derivanti dal decreto-legge 8 ottobre 1976, n. 691, convertito, con modificazioni, nella legge 30 novembre 1976, n. 786, concernente modificazioni al regime fiscale di alcuni prodotti petroliferi e del gas metano per autotrazione.
 
 Il Ministro per il tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 15
+### Art. 15
 
 Le categorie non di ruolo previste nel quadro speciale ad esaurimento istituito in applicazione dell'articolo 23 del decreto-legge 2 maggio 1974, n. 115, convertito, con modificazioni, nella legge 27 giugno 1974, n. 247, per il personale degli enti edilizi disciolti trasferito presso il Ministero dei lavori pubblici, sono soppresse con effetto dal 1 gennaio 1975. I relativi posti sono portati in aumento alle dotazioni delle varie carriere.
 
@@ -168,11 +166,9 @@ Per la determinazione dei quadri della tabella X ai quali il personale medesimo 
 
 Al restante personale della carriera direttiva del quadro speciale ad esaurimento si applicano le disposizioni di cui agli articoli 22 e 23 del citato decreto del Presidente della Repubblica 30 giugno 1972, n. 748.
 
-## Titolo II - FINANZIAMENTO DI UN PROGRAMMA STRAORDINARIO DI INTERVENTO NEL SETTORE
+## Titolo II - FINANZIAMENTO DI UN PROGRAMMA STRAORDINARIO DI INTERVENTO NEL SETTORE DELL'EDILIZIA RESIDENZIALE PUBBLICA
 
-### DELL'EDILIZIA RESIDENZIALE PUBBLICA
-
-#### Art. 16
+### Art. 16
 
 E' autorizzata l'assegnazione, anche in deroga alle vigenti disposizioni, a valere sulle disponibilita' previste nel provvedimento concernente il finanziamento di un programma di edilizia residenziale, agli istituti autonomi per le case popolari o loro consorzi, in aggiunta agli importi di cui all'articolo 1 della legge 27 maggio 1975, numero 166, ed all'articolo 4 del decreto-legge 13 agosto 1975, n. 376, convertito, con modificazioni, nella legge 16 ottobre 1975, n. 492, dell'ulteriore somma di lire 1.078 miliardi 400 milioni ai fini della realizzazione di programmi d'intervento di edilizia sovvenzionata, ai sensi del citato articolo 1 e della legge 22 ottobre 1971, n. 865, e successive modificazioni ed integrazioni, di ammontare unitario non inferiore a lire un miliardo, da realizzare prioritariamente nelle aree metropolitane in cui si rilevino piu' intensamente fenomeni di immigrazione o di concentrazione demografica.
 
@@ -192,7 +188,7 @@ AGGIORNAMENTO (2)
 
 La L. 5 agosto 1978, n. 457 ha disposto (con l'art. 54, comma 1) che il termine di cui all'ultimo comma del presente articolo, e' prorogato al 31 ottobre 1978.
 
-#### Art. 17
+### Art. 17
 
 Al finanziamento dei programmi di edilizia sovvenzionata disposto dal precedente articolo si provvede mediante:
 
@@ -204,7 +200,7 @@ c) all'apporto dello Stato di lire 700 miliardi. Detta somma sara' iscritta nell
 
 I finanziamenti di cui al presente articolo affluiranno al conto corrente istituito presso la Cassa depositi e prestiti, ai sensi dell'articolo 5 della legge 22 ottobre 1971, n. 865, dal terzo comma dell'articolo 6 della legge 27 maggio 1975, n. 166.
 
-#### Art. 18
+### Art. 18
 
 Per gli interventi realizzati con i fondi assegnati direttamente ai comuni ai sensi delle leggi 27 maggio 1975, n. 166, del decreto-legge 13 agosto 1975, n. 376, convertito con modificazioni nella legge 16 ottobre 1975, n. 492, e del presente titolo, si applicano, ai fini della gestione dei fondi e della contabilizzazione delle spese nonche' delle entrate conseguenti, le disposizioni di cui all'articolo 10 del decreto del Presidente della Repubblica 30 dicembre 1972, n. 1036.
 
@@ -212,7 +208,7 @@ Il periodo ed il tasso di interesse per il recupero a favore dello Stato mediant
 
 Le abitazioni realizzate, ristrutturate o risanate nei centri storici di proprieta' di enti pubblici sono assegnate, anche in deroga a quanto stabilito dal decreto del Presidente della Repubblica 30 dicembre 1972, n. 1035, prioritariamente ai precedenti occupanti o, in mancanza, a cittadini aventi gia' la residenza nel centro storico previo apposito bando.
 
-#### Art. 19
+### Art. 19
 
 Con i fondi previsti dal presente titolo esclusi quelli eventualmente destinati al risanamento ed alla ristrutturazione del patrimonio esistente, possono realizzarsi soltanto edifici residenziali ed alloggi nei quali siano adottate le soluzioni tecniche stabilite dagli articoli 18 e 19 della legge 27 maggio 1975, n. 166, e che abbiano le seguenti caratteristiche:
 
@@ -232,11 +228,11 @@ L'osservanza delle norme precedenti e' accertata dalla commissione prevista dall
 
 Il Comitato per l'edilizia residenziale determina, entro 60 giorni dalla data di entrata in vigore della presente legge, i limiti massimi di costo a metro cubo vuoto per pieno e a metro quadrato anche differenziati per regione e le quote da accantonare per far fronte agli oneri derivanti dalle eventuali maggiori spese che dovessero verificarsi nel corso della realizzazione dei programmi costruttivi.
 
-#### Art. 20
+### Art. 20
 
 Con decreto del Ministro per i lavori pubblici di concerto con il Ministro per il tesoro, sentite le regioni, e' stabilito, in deroga a quanto previsto dall'articolo 61 della legge 22 ottobre 1971, n. 865, e dall'articolo 14 del decreto del Presidente della Repubblica 5 novembre 1964, n. 1614, il tasso di interesse da applicare ai finanziamenti disposti ai sensi della legge 14 febbraio 1963, n. 60, e dell'articolo 55 dell'anzidetta legge 22 ottobre 1971, n. 865, e, in deroga a quanto stabilito dall'articolo 11 della legge 30 dicembre 1960, n. 1676, il tasso da applicare ai finanziamenti destinati agli interventi previsti dalla stessa legge n. 1676 per i quali non siano stati emanati, alla data di entrata in vigore della presente legge, i relativi bandi.
 
-#### Art. 21
+### Art. 21
 
 All'onere di lire 300 miliardi derivante dall'applicazione del presente titolo nell'anno finanziario 1977 si provvede con una corrispondente aliquota delle maggiori entrate derivanti dal decreto-legge 8 ottobre 1976, n. 691, convertito, con modificazioni, nella legge 30 novembre 1976, n. 786, concernente modificazioni al regime fiscale di alcuni prodotti petroliferi e del gas metano per autotrazione.
 
@@ -244,7 +240,7 @@ Il Ministro per il tesoro e' autorizzato ad apportare, con propri decreti, le oc
 
 ## Titolo III - CANONE MINIMO DELL'EDILIZIA RESIDENZIALE PUBBLICA
 
-#### Art. 22
+### Art. 22
 
 Il canone minimo di locazione per vano convenzionale degli alloggi di edilizia residenziale pubblica ultimati prima dell'entrata in vigore della presente legge e' elevato, se inferiore, con decorrenza dal secondo mese successivo a quello dell'entrata in vigore della presente legge:
 
@@ -286,7 +282,7 @@ L'assegnatario per il quale ricorra la condizione della revoca di cui alla lette
 
 Il presidente dell'istituto autonomo case popolari accoglie la richiesta e la locazione e' regolata dalle norme sulla disciplina della locazione degli immobili urbani a partire dalla data della loro entrata in vigore. In via transitoria, si applica un canone pari al doppio di quello determinato ai sensi del presente articolo.
 
-#### Art. 23
+### Art. 23
 
 Gli istituti autonomi case popolari accertano periodicamente, anche ai fini della applicazione dell'articolo 14 del decreto del Presidente della Repubblica 30 dicembre 1972, n. 1035, la non sussistenza, per l'assegnatario e per ciascun componente il nucleo familiare, delle condizioni di revoca di cui all'articolo 17, lettera d), dello stesso decreto del Presidente della Repubblica n. 1035. A tal fine gli istituti autonomi case popolari richiedono agli assegnatari, che sono tenuti a fornirla, idonea documentazione e si avvalgono inoltre degli organi dell'amministrazione dello Stato e degli enti locali; essi sono altresi' considerati enti autorizzati a chiedere informazioni e certificazioni.
 
@@ -294,13 +290,13 @@ Qualora, previa diffida, l'assegnatario non produca la documentazione richiesta,
 
 Per gli IACP e per gli altri enti pubblici che non hanno trasformato la superficie utile abitabile degli alloggi in vani convenzionali pari a 14 metri quadrati, da computarsi ai sensi dell'articolo 7 del decreto del Ministro dei lavori pubblici 3 ottobre 1975, n. 9816, i vani convenzionali, ai fini dell'applicazione della presente legge, sono determinati per ciascun alloggio aumentando il numero delle stanze, escluse la cucina ed i servizi, di due unita'.
 
-#### Art. 24
+### Art. 24
 
 I canoni minimi di locazione degli alloggi di proprieta' degli enti pubblici non possono essere comunque inferiori a quelli fissati in base all'articolo 22 della presente legge.
 
 Le eventuali differenze tra il canone preesistente e quello derivante dall'applicazione della presente legge saranno destinate prioritariamente, dagli enti percettori diversi dagli IACP, ad interventi di manutenzione straordinaria, di ristrutturazione o di risanamento di immobili di loro proprieta' destinati all'edilizia residenziale.
 
-#### Art. 25
+### Art. 25
 
 I canoni di locazione degli alloggi di edilizia residenziale pubblica di cui al precedente articolo 22, al netto delle spese generali e di amministrazione e delle spese di manutenzione di cui all'art. 19, lettere b) e c), del decreto del Presidente della Repubblica 30 dicembre 1972, n. 1035, nonche' le somme ricavate dall'alienazione degli alloggi di edilizia residenziale pubblica, sono contabilizzati dagli istituti autonomi case popolari nella gestione speciale di cui all'articolo 10 del decreto del Presidente della Repubblica 30 dicembre 1972, n. 1036.
 
@@ -320,7 +316,7 @@ e) alla realizzazione di servizi e di urbanizzazioni in quartieri o immobili di 
 
 L'utilizzazione dei fondi da destinarsi alle finalita' di cui alle lettere b), c), d) ed e) del precedente comma e' autorizzata, su proposta della regione, con decreto del Ministro per i lavori pubblici, sentito il Comitato per l'edilizia residenziale.
 
-#### Art. 26
+### Art. 26
 
 L'assegnatario in locazione di un alloggio di edilizia residenziale pubblica il quale, al di fuori dei casi previsti dalla legge, cede in tutto o in parte, a qualsiasi titolo, l'alloggio medesimo, decade dall'assegnazione ed e' punito con la sanzione amministrativa da L. 50.000 a lire 500.000.
 
@@ -332,7 +328,7 @@ Le disposizioni del presente articolo si applicano anche a chiunque occupi un al
 
 Gli atti compiuti in violazione del presente articolo sono nulli; la nullita' puo' essere fatta valere da chiunque abbia interesse ed e' rilevabile d'ufficio dal giudice.
 
-#### Art. 27
+### Art. 27
 
 Sono abrogate, con effetto dalla data di entrata in vigore della presente legge, le disposizioni contenute nel decreto del Presidente della Repubblica 17 gennaio 1959, n. 2 e nella legge 14 febbraio 1963, n. 60 e successive modificazioni e integrazioni, nonche' in altre leggi che comunque disciplinino il trasferimento in proprieta' agli assegnatari di alloggi di edilizia residenziale pubblica gia' assegnati in locazione semplice.
 
@@ -352,7 +348,7 @@ AGGIORNAMENTO (3)
 
 La L. 2 aprile 2001, n. 136 ha disposto (con l'art. 2, comma 3) che: "L'articolo 27 della legge 8 agosto 1977, n. 513, e tutte le disposizioni di legge che prevedono facolta' di riscatto di alloggi di edilizia residenziale pubblica, si interpretano nel senso che, in caso di decesso del soggetto avente titolo al riscatto che abbia presentato la domanda nei termini prescritti, l'Amministrazione ha comunque l'obbligo di provvedere nei confronti degli eredi, disponendo la cessione dell'alloggio, indipendentemente dalla conferma della domanda stessa".
 
-#### Art. 28
+### Art. 28
 
 ((Il prezzo di cessione degli alloggi di cui al precedente articolo 27 e' dato dal valore venale degli alloggi stessi al momento dell'entrata in vigore della presente legge, determinato dall'ufficio tecnico erariale, tenendo anche conto dello stato di conservazione dell'immobile e della sua ubicazione con la riduzione dell'1,5 per cento per ogni anno di effettiva occupazione da parte del richiedente dell'alloggio da cedersi, fino ad un limite massimo di venti anni e con l'ulteriore riduzione del 10 per cento da applicarsi nel caso in cui il richiedente fruisca di un reddito non superiore a quello determinato ai sensi del precedente articolo 22 con la maggiorazione di cui alla lettera d) dell'articolo 17 del decreto del Presidente della Repubblica 30 dicembre 1972, n. 1035.
 
@@ -376,13 +372,13 @@ Le somme ricavate dalle alienazioni di cui al presente articolo sono riscosse da
 
 Ogni pattuizione stipulata in violazione delle disposizioni di cui ai precedenti commi e' nulla. La nullita' puo' essere fatta valere da chiunque vi abbia interesse ed e' rilevabile d'ufficio dal giudice.
 
-#### Art. 29
+### Art. 29
 
 Su proposta motivata del competente istituto autonomo per le case popolari, la regione puo' autorizzare il trasferimento in proprieta' agli assegnatari degli alloggi di edilizia residenziale pubblica compresi in edifici nei quali i trasferimenti gia' perfezionati non siano inferiori agli ((sette decimi)) della loro consistenza complessiva o la cui cessione sia utile per una migliore gestione del patrimonio amministrato, a condizione che gli alloggi, per la loro consistenza ed ubicazione, abbiano scarsa rilevanza sociale e nei limiti comunque ((del 15 per cento, al netto degli alloggi in corso di cessione in proprieta')) del patrimonio gestito dall'istituto.
 
 La cessione avviene alle condizioni e con le modalita' previste dal precedente articolo 28. Il valore venale dell'alloggio e' determinato al momento della cessione stessa.
 
-#### Art. 30
+### Art. 30
 
 La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -398,7 +394,7 @@ Visto, il Guardasigilli: BONIFACIO
 
 ## Titolo III - CANONE MINIMO DELL'EDILIZIA RESIDENZIALE PUBBLICA
 
-#### Allegato A
+### Allegato A
 
 ALLEGATO A
 

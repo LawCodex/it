@@ -27,11 +27,9 @@ Promulga
 
 la seguente legge:
 
-## Titolo I
+## Titolo I - SANZIONI PENALI
 
-### SANZIONI PENALI
-
-##### Art. 1
+#### Art. 1
 
 Modifiche al codice penale a tutela del commercio di prodotti alimentari
 
@@ -141,7 +139,7 @@ Art. 518.2 (Confisca obbligatoria e per equivalente). - Nei casi di cui agli art
 
 > 2\. Nel caso di condanna per i delitti di cui alla lettera b) del comma 1 si applicano all'ente le sanzioni interdittive previste dall'articolo 9, comma 2.».
 
-##### Art. 2
+#### Art. 2
 
 Modifiche al codice di procedura penale e alle norme di attuazione, di coordinamento e transitorie del medesimo codice
 
@@ -249,7 +247,7 @@ b) all'articolo 223, comma 1, dopo le parole: «la revisione» sono inserite le 
 
 > 3\. I verbali di analisi non ripetibili e i verbali di revisione di analisi sono raccolti nel fascicolo per il dibattimento, sempre che siano state osservate le disposizioni dei commi 1 e 2.».
 
-##### Art. 3
+#### Art. 3
 
 Modifica all'articolo 9 della legge 16 marzo 2006, n. 146
 
@@ -319,7 +317,7 @@ Modifica all'articolo 9 della legge 16 marzo 2006, n. 146
 
 > f-bis) l'articolo 7 del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, e successive modificazioni.».
 
-##### Art. 4
+#### Art. 4
 
 Modifiche all'articolo 16 della legge 23 luglio 2009, n. 99
 
@@ -343,7 +341,7 @@ b) alla rubrica, le parole: «e 517-quater» sono sostituite dalle seguenti: «,
 
 > 5\. Per quanto non disposto dai commi 1, 2, 3 e 4 si applicano, in quanto compatibili, le disposizioni dell'articolo 301-bis del testo unico delle disposizioni legislative in materia doganale, di cui al decreto del Presidente della Repubblica 25 gennaio 1973, n. 43.».
 
-##### Art. 5
+#### Art. 5
 
 Modifiche all'articolo 4 della legge 24 dicembre 2003, n. 350
 
@@ -363,7 +361,7 @@ b) al comma 49-bis, il secondo periodo e' soppresso.
 
 > 49-bis - Costituisce fallace indicazione l'uso del marchio, da parte del titolare o del licenziatario, con modalita' tali da indurre il consumatore a ritenere che il prodotto o la merce sia di origine italiana ai sensi della normativa europea sull'origine, senza che gli stessi siano accompagnati da indicazioni precise ed evidenti sull'origine o provenienza estera o comunque sufficienti ad evitare qualsiasi fraintendimento del consumatore sull'effettiva origine del prodotto, ovvero senza essere accompagnati da attestazione, resa da parte del titolare o del licenziatario del marchio, circa le informazioni che, a sua cura, verranno rese in fase di commercializzazione sulla effettiva origine estera del prodotto. Il contravventore e' punito con la sanzione amministrativa pecuniaria da euro 10.000 ad euro 250.000.».
 
-##### Art. 6
+#### Art. 6
 
 Disposizioni in materia di contrassegno per i prodotti DOP e IGP
 
@@ -375,13 +373,9 @@ Disposizioni in materia di contrassegno per i prodotti DOP e IGP
 
 4\. Le amministrazioni competenti provvedono alle attivita' di cui al presente articolo senza nuovi o maggiori oneri a carico della finanza pubblica e, comunque, nell'ambito delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
-## Capo I
+### Capo I - Modifiche al decreto legislativo 19 novembre 2004, n. 297, e al decreto legislativo 5 aprile 2006, n. 190
 
-### Modifiche al decreto legislativo 19 novembre 2004, n. 297, e al
-
-#### decreto legislativo 5 aprile 2006, n. 190
-
-##### Art. 7
+#### Art. 7
 
 Modifiche alla disciplina sanzionatoria per le violazioni delle disposizioni relative alla protezione delle indicazioni geografiche e delle denominazioni di origine dei prodotti agricoli e alimentari
 
@@ -501,7 +495,7 @@ i) l'articolo 11 e' abrogato.
 
 > L'articolo 11 del decreto legislativo 19 novembre 2004, n. 297, abrogato dalla presente legge, recava: «Competenza del Ministero delle politiche agricole e forestali».
 
-##### Art. 8
+#### Art. 8
 
 Modifiche alla disciplina sanzionatoria per le violazioni degli obblighi derivanti dall'articolo 18 del regolamento (CE) n. 178/2002 del Parlamento europeo e del Consiglio, del 28 gennaio 2002, in materia di rintracciabilita'
 
@@ -517,13 +511,9 @@ Salvo che il fatto costituisca reato, gli operatori del settore alimentare e dei
 
 > \- Il decreto legislativo 5 aprile 2006, n. 190 recante: «Disciplina sanzionatoria per le violazioni del regolamento (CE) n. 178/2002 che stabilisce i principi e i requisiti generali della legislazione alimentare, istituisce l'Autorita' europea per la sicurezza alimentare e fissa procedure nel settore della sicurezza alimentare» e' pubblicato nella Gazzetta Ufficiale n. 118 del 23 maggio 2006.
 
-## Capo II
+### Capo II - Modifiche al decreto legislativo 15 dicembre 2017, n. 231, al decreto legislativo 11 maggio 2018, n. 52, e al decreto legislativo 17 marzo 2023, n. 42
 
-### Modifiche al decreto legislativo 15 dicembre 2017, n. 231, al decreto - legislativo 11 maggio 2018, n. 52, e al decreto legislativo 17 marzo
-
-#### 2023, n. 42
-
-##### Art. 9
+#### Art. 9
 
 Modifiche alla disciplina sanzionatoria per le violazioni in materia di pratiche leali di informazione, in materia di denominazione dell'alimento, in materia di elenco degli ingredienti e in materia di indicazione del Paese di origine o luogo di provenienza
 
@@ -625,7 +615,7 @@ e) all'articolo 27, dopo il comma 5 e' aggiunto il seguente:
 
 > 5-bis. Per la determinazione delle sanzioni amministrative pecuniarie previste dal presente decreto, l'autorita' competente tiene conto della gravita' del fatto, della durata della violazione, dell'opera svolta dall'agente per l'eliminazione o l'attenuazione delle conseguenze della violazione nonche' delle condizioni economiche dello stesso.».
 
-##### Art. 10
+#### Art. 10
 
 Violazioni delle disposizioni relative alle denominazioni di latte e di prodotti lattiero-caseari
 
@@ -643,7 +633,7 @@ Art. 7-bis (Sanzioni amministrative per l'impiego abusivo delle denominazioni di
 
 > \- Per i riferimenti al decreto legislativo 15 dicembre 2017, n. 231 si vedano le note all'articolo 9.
 
-##### Art. 11
+#### Art. 11
 
 Modifica al decreto legislativo 11 maggio 2018, n. 52
 
@@ -687,7 +677,7 @@ Modifica al decreto legislativo 11 maggio 2018, n. 52
 
 > 8\. Alle violazioni commesse prima della data di entrata in vigore del presente decreto, continuano ad applicarsi le norme della legge 15 gennaio 1991, n. 30, come modificata dalla legge 3 agosto 1999, n. 280, in vigore il giorno precedente alla data di entrata in vigore del presente decreto.».
 
-##### Art. 12
+#### Art. 12
 
 Modifiche al decreto legislativo 17 marzo 2023, n. 42
 
@@ -737,11 +727,9 @@ b) all'articolo 24-undecies, dopo il comma 3 e' aggiunto il seguente:
 
 > 3-bis. Nel caso in cui, a seguito di controllo, l'importo richiesto nella domanda di pagamento superi di una percentuale maggiore del 10 per cento l'importo accertato in sede istruttoria, il beneficiario e' soggetto, oltre alla decurtazione dell'importo non riconosciuto, alla sanzione nella misura pari al medesimo importo non riconosciuto.».
 
-## Capo III
+### Capo III - Modifiche all'articolo 4 del decreto-legge 24 giugno 2014, n. 91, e disposizioni in materia di controlli nel settore lattiero-caseario
 
-### Modifiche all'articolo 4 del decreto-legge 24 giugno 2014, n. 91, e - disposizioni in materia di controlli nel settore lattiero-caseario
-
-##### Art. 13
+#### Art. 13
 
 Modifiche all'articolo 4 del decreto-legge 24 giugno 2014, n. 91
 
@@ -811,7 +799,7 @@ l) dopo il comma 5-bis e' inserito il seguente:
 
 > 8\. Salvo che il fatto costituisca piu' grave reato, chiunque viola i divieti di coltivazione introdotti con atti adottati, anche in via cautelare, ai sensi degli articoli 53 e 54 del regolamento (CE) n. 178/2002 del Parlamento europeo e del Consiglio del 28 gennaio 2002, e' punito con la multa da euro 25.000 a euro 50.000. L'autore del delitto di cui al presente comma e' tenuto altresi' a rimuovere, a propria cura e spese, secondo le prescrizioni del competente organo di vigilanza, nell'esercizio delle funzioni di polizia giudiziaria, le coltivazioni di sementi vietate ed alla realizzazione delle misure di riparazione primaria e compensativa nei termini e con le modalita' definiti dalla regione competente per territorio.».
 
-##### Art. 14
+#### Art. 14
 
 Piano straordinario di controllo nazionale
 
@@ -829,11 +817,9 @@ Piano straordinario di controllo nazionale
 
 > \- Per i riferimenti all'articolo 4 del decreto-legge 24 giugno 2014, n. 91 si vedano le note all'articolo 13.
 
-## Capo IV
+### Capo IV - Procedure e organi
 
-### Procedure e organi
-
-##### Art. 15
+#### Art. 15
 
 Blocco ufficiale temporaneo nei casi di inosservanza delle disposizioni per la cui violazione e' prevista la sanzione amministrativa
 
@@ -849,7 +835,7 @@ Blocco ufficiale temporaneo nei casi di inosservanza delle disposizioni per la c
 
 > \- La legge 24 novembre 1981, n. 689 recante: «Modifiche al sistema penale» e' pubblicata nella Gazzetta Ufficiale n. 329 del 30 novembre 1981.
 
-##### Art. 16
+#### Art. 16
 
 Cabina di regia per i controlli amministrativi
 
@@ -871,7 +857,7 @@ c) promuove campagne straordinarie di controllo per la salvaguardia delle produz
 
 5\. Ai componenti della Cabina di regia e dell'eventuale tavolo tecnico, non spettano compensi, gettoni di presenza, rimborsi di spese o altri emolumenti comunque denominati.
 
-##### Art. 17
+#### Art. 17
 
 Competenze in materia di controlli ai fini
 
@@ -917,7 +903,7 @@ della condizionalita' sociale
 
 > 5\. Il rapporto di lavoro dei dipendenti dell'AGE-Control e' disciplinato dal consiglio di amministrazione con riferimento ai criteri fissati dai contratti collettivi nazionali di lavoro vigenti nel settore industriale, tenuto conto delle specifiche esigenze funzionali ed organizzative dell'AGE-Control. Al personale in servizio presso l'AGE-Control e' fatto divieto di assumere altro impiego o incarico e di esercitare attivita' professionali, commerciali o industriali.».
 
-##### Art. 18
+#### Art. 18
 
 Norme sui Centri autorizzati di assistenza agricola - CAA
 
@@ -967,7 +953,7 @@ b) dopo l'articolo 6 e' inserito il seguente:
 
 > 7\. Gli organismi pagatori, sentito l'organismo di coordinamento, nel rispetto della normativa dell'Unione europea e fatti salvi i controlli obbligatori da questa previsti, nonche' le previsioni contenute nelle convenzioni di cui al comma 1, possono prevedere procedure semplificate per l'istruttoria delle istanze presentate per il tramite dei CAA, anche avvalendosi di sistemi automatizzati di valutazione delle stesse.».
 
-##### Art. 19
+#### Art. 19
 
 Modifiche all'articolo 79 della legge
 
@@ -1007,11 +993,9 @@ c) il comma 5 e' sostituito dal seguente:
 
 > 5\. Il soggetto che pone in essere un comportamento diretto a non consentire l'effettuazione dell'attivita' di controllo ovvero ad intralciare o a ostacolare l'attivita' di verifica da parte del personale dell'organismo di controllo, qualora non ottemperi, entro quindici giorni, alla specifica intimazione ad adempiere formulata dallo stesso organismo di controllo, e' soggetto alla sanzione amministrativa di 1.000 euro.».
 
-## Capo V
+### Capo V - Riordino del regime sanzionatorio in materia di pesca marittima
 
-### Riordino del regime sanzionatorio in materia di pesca marittima
-
-##### Art. 20
+#### Art. 20
 
 Modifiche al decreto legislativo 9 gennaio 2012, n. 4
 
@@ -1235,11 +1219,9 @@ i) all'allegato I, i numeri 1, 2, 3, 4, 5, 7, 8, 9, 10, 12, 13, 14 e 15 sono abr
 
 > Parte di provvedimento in formato grafico
 
-## Titolo III
+## Titolo III - DISPOSIZIONI FINALI
 
-### DISPOSIZIONI FINALI
-
-##### Art. 21
+#### Art. 21
 
 Clausola di invarianza finanziaria
 

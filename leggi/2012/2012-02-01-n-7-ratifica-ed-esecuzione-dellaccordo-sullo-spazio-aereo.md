@@ -27,19 +27,19 @@ Promulga
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo sullo spazio aereo comune tra l'Unione europea e i suoi Stati membri, da un lato, e la Georgia, dall'altro lato, con Allegati, fatto a Bruxelles il 2 dicembre 2010.
 
-#### Art. 2
+### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 29 dell'Accordo stesso.
 
-#### Art. 3
+### Art. 3
 
 Entrata in vigore
 
@@ -165,7 +165,7 @@ INTENZIONATI a dare ulteriore sviluppo al quadro normativo costituito dagli acco
 
 HANNO CONCLUSO IL SEGUENTE ACCORDO:
 
-#### ARTICOLO 1
+### ARTICOLO 1
 
 Definizioni
 
@@ -237,11 +237,9 @@ e viene in tal modo conferito un vantaggio;
 
 (22) "onere di uso", un onere imposto alle compagnie aeree a fronte della fornitura di infrastrutture o servizi aeroportuali, infrastrutture o servizi ambientali aeroportuali, infrastrutture per la navigazione aerea o per la sicurezza dell'aviazione, ivi compresi i servizi e le infrastrutture connesse.
 
-## TITOLO I
+## TITOLO I - DISPOSIZIONI ECONOMICHE
 
-### DISPOSIZIONI ECONOMICHE
-
-#### ARTICOLO 2
+### ARTICOLO 2
 
 Concessione di diritti
 
@@ -261,7 +259,7 @@ a) alla Georgia il diritto di imbarcare, nel territorio di qualsiasi Stato membr
 
 b) all'Unione europea il diritto di caricare, nel territorio della Georgia passeggeri, bagagli, merci e/o posta trasportati a titolo oneroso e destinati ad un altro punto del territorio della Georgia.
 
-#### ARTICOLO 3
+### ARTICOLO 3
 
 Autorizzazione
 
@@ -287,7 +285,7 @@ c) il vettore aereo risponda alle condizioni di cui alle disposizioni legislativ
 
 d) vengano osservate e fatte osservare le disposizioni di cui all'articolo 14 (Sicurezza dell'aviazione) ed all'articolo 15 (Protezione dell'aviazione) del presente accordo.
 
-#### ARTICOLO 4
+### ARTICOLO 4
 
 Riconoscimento reciproco di dichiarazioni regolamentari
 
@@ -305,7 +303,7 @@ b) il presente articolo non si riferisce al riconoscimento delle determinazioni 
 
 \- copertura assicurativa.
 
-#### ARTICOLO 5
+### ARTICOLO 5
 
 Rifiuto, revoca, sospensione o limitazione delle autorizzazioni
 
@@ -337,7 +335,7 @@ e) una parte abbia dichiarato, conformemente all'articolo 8 (Condizioni di conco
 
 3\. Nessuna delle parti fa uso dei diritti ad esse conferiti dal presente articolo di citare, a ai Natale,di rifiutare, revocare, sospendere o limitare le autorizzazioni o i permessi di uno o piu' vettori aerei delle parti sulla base del fatto che la proprieta' della partecipazione di maggioranza o il controllo effettivo di detto vettore aereo sono detenuti da una o piu' parti del ECAA o dai loro cittadini, nella misura in cui detta parte o dette parti dell'ECAA offrano la reciprocita' di trattamento.
 
-#### ARTICOLO 6
+### ARTICOLO 6
 
 Investimenti
 
@@ -345,7 +343,7 @@ Fatto salvo il rispetto dell'articolo 3 (Autorizzazione) e dell'articolo 5 (Rifi
 
 Tale decisione precisa le condizioni connesse alla gestione dei servizi concordati oggetto del presente accordo e dei servizi tra paesi terzi e le parti contraenti. Le disposizioni dell'articolo 22 (Comitato misto), paragrafo 8, del presente accordo non si applicano a questo tipo di decisioni.
 
-#### ARTICOLO 7
+### ARTICOLO 7
 
 Rispetto delle disposizioni legislative e regolamentari
 
@@ -353,7 +351,7 @@ Rispetto delle disposizioni legislative e regolamentari
 
 2\. Le disposizioni legislative e regolamentari di una parte che disciplinano sul suo territorio l'ammissione o la partenza di passeggeri, equipaggi o merci degli aeromobili [quali i regolamenti riguardanti l'ingresso, lo sdoganamento, l'immigrazione, i passaporti, la materia doganale e le misure sanitarie (quarantena) o, nel caso della posta, i regolamenti postali] devono essere osservate da, o per conto di, tali passeggeri, equipaggi o merci delle compagnie aeree dell'altra parte all'entrata, all'uscita e durante la permanenza nel territorio della prima parte.
 
-#### ARTICOLO 8
+### ARTICOLO 8
 
 Condizioni di concorrenza
 
@@ -379,7 +377,7 @@ Essi devono essere esclusivamente diretti al vettore aereo o ai vettori aerei ch
 
 8\. Le disposizioni del presente articolo non pregiudicano le disposizioni legislative, regolamentari e amministrative delle parti in materia di oneri di servizio pubblico nei territori delle parti.
 
-#### ARTICOLO 9
+### ARTICOLO 9
 
 Opportunita' commerciali
 
@@ -437,7 +435,7 @@ Affiliazione commerciale (franchising) / impiego del marchio (branding)
 
 10\. I vettori aerei di ciascuna parte hanno diritto a stipulare accordi di affiliazione commerciale (franchising) o di impiego del marchio (branding) con societa', compresi i vettori aerei, dell'altra parte o di un paese terzo, purche' dispongano dei poteri necessari e soddisfino le condizioni prescritte dalle disposizioni legislative e regolamentari applicate di norma dalle parti a siffatti accordi, in particolare quelle che richiedono la divulgazione dell'identita' del vettore aereo che opera il servizio.
 
-#### ARTICOLO 10
+### ARTICOLO 10
 
 Diritti doganali e fiscalita'
 
@@ -469,7 +467,7 @@ e) apparecchiature per la sicurezza e la protezione dei passeggeri, da utilizzar
 
 9\. La stipula del presente accordo non interessera' l'ambito dell'imposta sul valore aggiunto (IVA), con l'eccezione dell'imposta sul valore aggiunto per le importazioni di beni. Il presente accordo lascia impregiudicate le disposizioni delle convenzioni in vigore tra uno Stato membro e la Georgia per evitare la doppia tassazione del reddito e del capitale.
 
-#### ARTICOLO 11
+### ARTICOLO 11
 
 Oneri per l'utilizzo di aeroporti
 
@@ -485,7 +483,7 @@ a) non abbia proceduto, entro tempi ragionevoli, ad un riesame dell'onere di uso
 
 b) in esito a tale riesame, non abbia preso tutte le iniziative in suo potere per correggere un onere o una prassi che risulti in contrasto con le disposizioni del presente articolo.
 
-#### ARTICOLO 12
+### ARTICOLO 12
 
 Fissazione dei prezzi
 
@@ -495,7 +493,7 @@ Fissazione dei prezzi
 
 3\. Le autorita' competenti possono riunirsi per discutere di questioni quali, tra l'altro, il carattere iniquo, irragionevole, discriminatorio e sovvenzionato dei prezzi.
 
-#### ARTICOLO 13
+### ARTICOLO 13
 
 Statistiche
 
@@ -503,11 +501,9 @@ Statistiche
 
 2\. Le parti cooperano nell'ambito del comitato misto di cui all'articolo 22 (Comitato misto) del presente accordo per facilitare il reciproco scambio di informazioni statistiche allo scopo di monitorare l'andamento dei servizi aerei ai sensi del presente accordo.
 
-## TITOLO II
+## TITOLO II - COOPERAZIONE NORMATIVA
 
-### COOPERAZIONE NORMATIVA
-
-#### ARTICOLO 14
+### ARTICOLO 14
 
 Sicurezza aerea
 
@@ -531,7 +527,7 @@ c) dare adito a gravi preoccupazioni in merito all'assenza di un'effettiva manut
 
 7\. Qualora le misure adottate in applicazione del paragrafo 5 del presente articolo non vengano sospese anche se e' venuta a mancare la base per la loro adozione, l'una o l'altra delle parti puo' adire il comitato misto.
 
-#### ARTICOLO 15
+### ARTICOLO 15
 
 Protezione della navigazione aerea
 
@@ -563,7 +559,7 @@ Ciascuna parte conviene che i suoi vettori aerei possano essere tenuti ad osserv
 
 13\. Qualsiasi misura adottata conformemente al paragrafo 11 del presente articolo e' sospesa una volta che l'altra parte si sia conformata al disposto del presente articolo.
 
-#### ARTICOLO 16
+### ARTICOLO 16
 
 Gestione del traffico aereo
 
@@ -577,7 +573,7 @@ a) la Georgia adotta le misure necessarie ad adeguare le sue strutture istituzio
 
 b) l'Unione europea associa la Georgia alle pertinenti iniziative di carattere operativo nei settori dei servizi di navigazione aerea, spazio aereo e interoperabilita' cui ha dato origine il cielo unico europeo, particolarmente coinvolgendo sin dalle fasi iniziali la Georgia nel lavoro di istituzione di blocchi funzionali di spazio aereo o istituendo un adeguato coordinamento sul SESAR.
 
-#### ARTICOLO 17
+### ARTICOLO 17
 
 Ambiente
 
@@ -589,29 +585,27 @@ Ambiente
 
 4\. Nessuna disposizione del presente accordo va interpretata come una limitazione della facolta' delle competenti autorita' di una parte di adottare tutte le misure adeguate a prevenire o altrimenti affrontare il problema degli impatti ambientali del trasporto aereo, a condizione che tali misure siano conformi ai rispettivi diritti e obblighi previsti dal diritto internazionale e siano applicate senza distinzione di nazionalita'.
 
-#### ARTICOLO 18
+### ARTICOLO 18
 
 Protezione dei consumatori
 
 Fatte salve le disposizioni transitorie di cui all'allegato II del presente accordo, le parti si conformano alle disposizioni della legislazione sulle sicurezza aerea specificata nell'allegato III, parte G, del presente accordo.
 
-#### ARTICOLO 19
+### ARTICOLO 19
 
 Sistemi informatici di prenotazione
 
 Fatte salve le disposizioni transitorie di cui all'allegato II del presente accordo, le parti si conformano alle disposizioni della legislazione in materia di trasporto aereo di cui all'allegato III, parte H, del presente accordo.
 
-#### ARTICOLO 20
+### ARTICOLO 20
 
 Aspetti sociali
 
 Fatte salve le disposizioni transitorie di cui all'allegato II del presente accordo, le parti si conformano alle disposizioni della legislazione in materia di trasporto aereo specificata nell'allegato III, parte F, del presente accordo.
 
-## TITOLO III
+## TITOLO III - DISPOSIZIONI ISTITUZIONALI
 
-### DISPOSIZIONI ISTITUZIONALI
-
-#### ARTICOLO 21
+### ARTICOLO 21
 
 Interpretazione e attuazione
 
@@ -625,7 +619,7 @@ Interpretazione e attuazione
 
 5\. Nella misura in cui le disposizioni del presente accordo e le disposizioni degli atti di cui all'allegato III al presente accordo siano identiche nella sostanza alle norme corrispondenti del trattato sull'Unione europea e del trattato sul funzionamento dell'Unione europea e agli atti adottati in applicazione di questi trattati, esse sono, ai fini della loro attuazione e applicazione, interpretate in conformita' con le pertinenti sentenze e decisioni della Corte di giustizia e della Commissione europea.
 
-#### ARTICOLO 22
+### ARTICOLO 22
 
 Il comitato misto
 
@@ -665,7 +659,7 @@ f) la valutazione e la messa a punto di interventi di assistenza tecnica nei set
 
 g) il rafforzamento della cooperazione nei pertinenti fori internazionali.
 
-#### ARTICOLO 23
+### ARTICOLO 23
 
 Risoluzione delle controversie e arbitrato
 
@@ -687,7 +681,7 @@ d) fatta salva la decisione finale della commissione di arbitrato, le spese iniz
 
 5\. Se una delle parti non agisce conformemente ad una decisione della commissione di arbitrato adottata ai sensi del presente articolo entro trenta (30) giorni dalla notifica della suddetta decisione, fino a quando persiste tale inosservanza l'altra parte puo' limitare, sospendere o revocare i diritti o privilegi da lei concessi alla parte inadempiente nel quadro del presente accordo.
 
-#### ARTICOLO 24
+### ARTICOLO 24
 
 Misure di salvaguardia
 
@@ -705,7 +699,7 @@ Misure di salvaguardia
 
 7\. Qualsiasi provvedimento adottato a norma del presente articolo e' sospeso non appena la parte inadempiente ottempera alle disposizioni del presente accordo.
 
-#### ARTICOLO 25
+### ARTICOLO 25
 
 Relazioni con altri accordi
 
@@ -715,7 +709,7 @@ Relazioni con altri accordi
 
 3\. Le parti, se diventano parti di un accordo multilaterale o approvano una decisione adottata dall'ICAO o da un'altra organizzazione internazionale che contempli materie disciplinate dal presente accordo, consultano il comitato misto allo scopo di determinare se il presente accordo debba essere rivisto per tener conto di tali sviluppi.
 
-#### ARTICOLO 26
+### ARTICOLO 26
 
 Modifiche
 
@@ -741,13 +735,13 @@ b) adottare una decisione che abbia come effetto di considerare le nuove disposi
 
 c) raccomanda eventuali altre misure, da adottarsi entro un periodo di tempo ragionevole, volte a salvaguardare il regolare funzionamento del presente accordo.
 
-#### ARTICOLO 27
+### ARTICOLO 27
 
 Scadenza
 
 Ciascuna parte puo' in qualsiasi momento dare preavviso scritto, attraverso i canali diplomatici, all'altra parte di aver deciso di denunciare il presente accordo. Detto preavviso deve essere comunicato simultaneamente all'ICAO e al Segretariato delle Nazioni Unite. Il presente accordo cessa alla mezzanotte GMT al termine della stagione di traffico dell'Associazione internazionale del trasporto aereo (IATA) in vigore un anno dopo la data del preavviso scritto, a meno che detto preavviso non venga ritirato di comune accordo prima della fine di tale periodo.
 
-#### ARTICOLO 28
+### ARTICOLO 28
 
 Registrazione presso l'Organizzazione per l'aviazione
 
@@ -755,7 +749,7 @@ civile internazionale e il Segretariato delle Nazioni Unite
 
 Il presente accordo e tutte le modifiche sono registrate presso l'ICAO e presso il Segretariato delle Nazioni Unite.
 
-#### ARTICOLO 29
+### ARTICOLO 29
 
 Applicazione provvisorie ed entrata in vigore
 
@@ -767,7 +761,7 @@ IN FEDE DI CHE, i sottoscritti, debitamente autorizzati, hanno firmato il presen
 
 Fatto a Bruxelles il 2 dicembre 2010 in duplice esemplare nelle lingue bulgara, ceca, danese, estone, finlandese, francese, greca, inglese, italiana, lettone, lituana, maltese, olandese, polacca, portoghese, rumena, slovacca, slovena, spagnola, svedese, tedesca, ungherese e georgiana, ciascun testo facente ugualmente fede.
 
-#### Allegato I
+### Allegato I
 
 ALLEGATO I
 
@@ -805,7 +799,7 @@ h) combinare il traffico sullo stesso aeromobile indipendentemente dalla sua ori
 
 6\. I vettori aerei di ciascuna parte possono servire, anche nell'ambito di accordi di code-sharing, qualsiasi punto ubicato in un paese terzo che non sia incluso nelle rotte specificate, purche' non esercitino i diritti della quinta liberta'.
 
-#### Allegato II
+### Allegato II
 
 ALLEGATO II
 
@@ -833,7 +827,7 @@ a) 1° gennaio 2015 per determinati aeromobili impiegati solo in operazioni di t
 
 b) 31 dicembre 2019 per determinati elicotteri e aeromobili leggeri e ultraleggeri impiegati in operazioni come la ricerca e il salvataggio, il lavoro aereo, l'addestramento, i voli di soccorso, l'aviazione agricola e i voli umanitari conformemente ai certificati di operabilita' dei rispettivi vettori, a condizione che l'aeromobile rispetti le norme internazionali di sicurezza aerea fissate ai sensi della Convenzione. Questi aeromobili non beneficiano di nessun diritto supplementare ai sensi del presente accordo dopo l'adozione della decisione di cui al punto 1 del presente allegato.
 
-#### Allegato III
+### Allegato III
 
 ALLEGATO III
 
@@ -1261,7 +1255,7 @@ Regolamento (CE) n. 80/2009 del Parlamento europeo e del Consiglio, del 14 genna
 
 Disposizioni applicabili: articoli da 1 a 18 e allegati I e II
 
-#### Allegato IV
+### Allegato IV
 
 ALLEGATO IV
 

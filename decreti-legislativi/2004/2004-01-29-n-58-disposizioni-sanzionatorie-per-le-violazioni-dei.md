@@ -58,27 +58,25 @@ il seguente decreto legislativo:
 
 ## Capo I - Identificazione e registrazione dei bovini
 
-#### Art. 1
+### Art. 1
 
 ((ARTICOLO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-#### Art. 2
+### Art. 2
 
 ((ARTICOLO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-#### Art. 3
+### Art. 3
 
 ((ARTICOLO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-#### Art. 4
+### Art. 4
 
 ((ARTICOLO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 134))
 
-## Capo II - Etichettatura delle carni bovine e dei prodotti a base di carni
+## Capo II - Etichettatura delle carni bovine e dei prodotti a base di carni bovine
 
-### bovine
-
-#### Art. 5
+### Art. 5
 
 Sanzioni in materia di etichettatura
 
@@ -94,7 +92,7 @@ Sanzioni in materia di etichettatura
 
 5\. Salvo che il fatto costituisca reato, l'operatore o l'organizzazione, di cui al comma 1, che non adotti un sistema idoneo a garantire la veridicita' delle informazioni obbligatorie e facoltative e il nesso tra le carni e l'animale o il gruppo di animali interessati ai sensi del citato articolo 13 del regolamento (CE) n. 1760/2000, secondo le modalita' previste dagli articoli 1 e 4 del regolamento (CE) n. 1825/2000, e' soggetto al pagamento di una sanzione amministrativa da 1.500,00 euro a 9.000,00 euro.
 
-#### Art. 6
+### Art. 6
 
 Sanzioni in materia di controlli
 
@@ -110,7 +108,7 @@ Sanzioni in materia di controlli
 
 > Omissis.».
 
-#### Art. 7
+### Art. 7
 
 Sanzioni in materia di denominazioni di origine e di indicazioni geografiche protette
 
@@ -130,7 +128,7 @@ Sanzioni in materia di denominazioni di origine e di indicazioni geografiche pro
 
 > Nel caso di un'autorizzazione, il nome della regione e' completato con quello dello Stato membro.».
 
-#### Art. 8
+### Art. 8
 
 Sanzioni in materia di organismi di controllo
 
@@ -146,7 +144,7 @@ Sanzioni in materia di organismi di controllo
 
 ## Capo III
 
-#### Art. 9
+### Art. 9
 
 Norme finali
 

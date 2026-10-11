@@ -52,7 +52,7 @@ il seguente decreto legislativo:
 
 ## Capo I - DEFINIZIONI E CAMPO DI APPLICAZIONE
 
-##### Art. 1
+#### Art. 1
 
 Definizioni
 
@@ -94,7 +94,7 @@ s) uffici ispettivi: l'Ispettorato di cui alla lettera f), nonche' «l'Ufficio a
 
 ((s-bis) approccio metodologico di medicina di genere nelle sperimentazioni cliniche: modalita' innovativa e multidisciplinare nella conduzione degli studi clinici che tiene conto dell'influenza che le differenze biologiche, incluse quelle relative al sesso e all'eta', hanno sullo stato di salute e di malattia di ogni persona.))
 
-##### Art. 2
+#### Art. 2
 
 Campo di applicazione
 
@@ -136,13 +136,11 @@ c) le indicazioni dettagliate sulla documentazione relativa alla sperimentazione
 
 > \- Per l'art. 15, comma 6, del decreto legislativo 24 giugno 2003, n. 211, vedi note all'art. 1.
 
-## Capo II - Buona pratica clinica nella progettazione, conduzione,
+## Capo II - Buona pratica clinica nella progettazione, conduzione, registrazione e comunicazione degli esiti delle sperimentazioni cliniche
 
-### registrazione e comunicazione degli esiti - delle sperimentazioni cliniche
+### SEZIONE I - Buona pratica clinica
 
-#### SEZIONE I - Buona pratica clinica
-
-##### Art. 3
+#### Art. 3
 
 Principi di buona pratica clinica
 
@@ -174,7 +172,7 @@ Principi di buona pratica clinica
 
 ((13-bis. Le strutture presso le quali si svolgono le sperimentazioni cliniche favoriscono l'utilizzo a scopo di ricerca clinica di materiale biologico o clinico residuo da precedenti attivita' diagnostiche o terapeutiche o a qualunque altro titolo detenuto. L'Istituto superiore di sanita', con il supporto anche dell'Infrastruttura di ricerca europea delle biobanche e delle risorse biomolecolari - BBMRI, previo parere del Centro di coordinamento nazionale dei comitati etici territoriali e del Garante per la protezione dei dati personali, con appositi atti di indirizzo, nel rispetto del principio del consenso informato e della disciplina in materia di protezione dei dati personali e assicurando elevati standard qualitativi, individua criteri omogenei per l'utilizzo dei campioni biologici, tenendo conto delle modalita' di accesso e di acquisizione del consenso del paziente sull'uso successivo del campione prelevato.))
 
-##### Art. 4
+#### Art. 4
 
 Osservanza della buona pratica clinica
 
@@ -188,9 +186,9 @@ Osservanza della buona pratica clinica
 
 > \- Per l'art. 1, comma 3, del decreto legislativo 24 giugno 2003, n. 211, vedi note all'art. 2.
 
-## SEZIONE II - Comitato etico
+### SEZIONE II - Comitato etico
 
-##### Art. 5
+#### Art. 5
 
 Comitato etico
 
@@ -284,9 +282,9 @@ Comitato etico
 
 > e) realizzazione, di intesa con le regioni, di iniziative di formazione per il personale coinvolto nella sperimentazione clinica dei medicinali.».
 
-## SEZIONE III - Promotore
+### SEZIONE III - Promotore
 
-##### Art. 6
+#### Art. 6
 
 Promotore
 
@@ -308,9 +306,9 @@ Promotore
 
 6-ter. Con decreto del Ministro della salute, da emanarsi entro il 31 ottobre 2019, sentito il Centro di coordinamento nazionale dei comitati etici territoriali per le sperimentazioni cliniche sui medicinali per uso umano e sui dispositivi medici, sono stabilite misure volte a facilitare e sostenere la realizzazione degli studi clinici senza scopo di lucro e degli studi osservazionali e a individuare le modalita' di coordinamento tra i promotori, pubblici e privati, nell'ambito della medesima sperimentazione clinica o studio clinico, anche al fine di acquisire informazioni a seguito dell'immissione in commercio dei medicinali. Con il medesimo decreto sono introdotti criteri per identificare le tipologie e i requisiti delle sperimentazioni senza scopo di lucro e le sperimentazioni con collaborazione tra promotori pubblici e privati, nonche' per disciplinare le modalita' di cessione dei dati relativi alla sperimentazione al promotore e la loro utilizzazione a fini di registrazione.))
 
-## SEZIONE IV - Dossier per lo sperimentatore
+### SEZIONE IV - Dossier per lo sperimentatore
 
-##### Art. 7
+#### Art. 7
 
 Dossier per lo sperimentatore
 
@@ -380,7 +378,7 @@ Dossier per lo sperimentatore
 
 ## Capo III - Produzione e importazione
 
-##### Art. 8
+#### Art. 8
 
 Autorizzazione alla produzione e all'importazione
 
@@ -404,7 +402,7 @@ c) operazioni di preparazione di medicinali, effettuate da farmacisti nel rispet
 
 > \- Il titolo IV del citato decreto legislativo 24 aprile 2006, n. 219, cosi' recita: «Produzione e importazione.».
 
-##### Art. 9
+#### Art. 9
 
 Domanda di autorizzazione
 
@@ -426,7 +424,7 @@ e) il nominativo di almeno una persona qualificata di cui dispone in modo perman
 
 > \- Per l'art. 13, comma 2, del decreto legislativo 24 giugno 2003, n. 211, vedi note all'art. 2.
 
-##### Art. 10
+#### Art. 10
 
 Rilascio dell'autorizzazione
 
@@ -448,7 +446,7 @@ Rilascio dell'autorizzazione
 
 > c) prendere conoscenza e, se necessario, acquisire copia di tutti i documenti relativi all'oggetto delle ispezioni.»
 
-##### Art. 11
+#### Art. 11
 
 Specifiche dell'autorizzazione
 
@@ -456,7 +454,7 @@ Specifiche dell'autorizzazione
 
 2\. L'autorizzazione si applica soltanto ai locali indicati nella domanda e alle tipologie di medicinali e alle forme farmaceutiche indicati nella medesima a norma dell'articolo 9, comma 1, lettera a).
 
-##### Art. 12
+#### Art. 12
 
 Obblighi del titolare dell'autorizzazione
 
@@ -482,19 +480,19 @@ g) conformarsi ai principi e alle linee direttrici fissati dal diritto comunitar
 
 > \- Per l'art. 13 del decreto legislativo 24 giugno 2003, n. 211,vedi note all'art. 2.
 
-##### Art. 13
+#### Art. 13
 
 Modifiche dell'autorizzazione
 
 1\. Qualora il titolare dell'autorizzazione alla fabbricazione chieda la modifica dei dati di cui all'articolo 9, comma 1, la durata del relativo procedimento non deve superare i trenta giorni. In casi di rilevanza dei dati modificati tale termine puo' essere prorogato fino a novanta giorni.
 
-##### Art. 14
+#### Art. 14
 
 Sospensione o revoca dell'autorizzazione
 
 1\. L'AIFA sospende o revoca, in tutto o in parte, l'autorizzazione alla fabbricazione se il titolare dell'autorizzazione non adempie in un qualsiasi momento alle relative disposizioni.
 
-##### Art. 15
+#### Art. 15
 
 Farmacie ospedaliere autorizzate alla produzione
 
@@ -536,7 +534,7 @@ c) di ottenere da struttura specificatamente autorizzata ai sensi dell'articolo 
 
 > \- Per l'art. 15 del decreto legislativo 24 giugno 2003, n. 211, vedi note all'art. 1.
 
-##### Art. 16
+#### Art. 16
 
 Laboratori pubblici per la preparazione di radiofarmaci
 
@@ -578,7 +576,7 @@ c) di ottenere da struttura specificatamente autorizzata ai sensi dell'articolo 
 
 ## Capo IV - Il fascicolo permanente della sperimentazione e l'archiviazione
 
-##### Art. 17
+#### Art. 17
 
 Fascicolo permanente della sperimentazione
 
@@ -602,7 +600,7 @@ Fascicolo permanente della sperimentazione
 
 > E CLINICI IN MATERIA DI PROVE EFFETTUATE SUI MEDICINALI».
 
-##### Art. 18
+#### Art. 18
 
 Conservazione dei documenti essenziali
 
@@ -622,7 +620,7 @@ Conservazione dei documenti essenziali
 
 > \- Per il decreto legislativo 24 aprile 2006, n. 219, vedi note alle premesse.
 
-##### Art. 19
+#### Art. 19
 
 Trasferimento dei documenti
 
@@ -634,7 +632,7 @@ Trasferimento dei documenti
 
 > \- Il decreto del Ministro della salute, 24 maggio 2004, reca: «Rideterminazione degli importi delle tariffe e dei diritti per le prestazioni rese a richiesta ed utilita' di soggetti interessati.».
 
-##### Art. 20
+#### Art. 20
 
 Responsabili degli archivi
 
@@ -642,7 +640,7 @@ Responsabili degli archivi
 
 2\. L'accesso agli archivi e' limitato alle persone responsabili a tale fine nominate.
 
-##### Art. 21
+#### Art. 21
 
 Modalita' di conservazione dei documenti
 
@@ -650,7 +648,7 @@ Modalita' di conservazione dei documenti
 
 2\. Qualsiasi modifica dei dati deve essere rintracciabile.
 
-##### Art. 21-bis
+#### Art. 21-bis
 
 ((Sistemi informativi di supporto alle sperimentazioni cliniche)).
 
@@ -660,7 +658,7 @@ Modalita' di conservazione dei documenti
 
 ## Capo V - Qualificazione e attivita' degli ispettori di buona pratica clinica
 
-##### Art. 22
+#### Art. 22
 
 Qualificazione degli ispettori di Buona Pratica Clinica
 
@@ -686,7 +684,7 @@ Qualificazione degli ispettori di Buona Pratica Clinica
 
 > \- Per l'art. 15 del decreto legislativo 24 giugno 2003, n. 211, vedi note all'art. 1.
 
-##### Art. 23
+#### Art. 23
 
 Gruppo ispettivo
 
@@ -696,7 +694,7 @@ Gruppo ispettivo
 
 ## Capo VI - Procedure di ispezione di buona pratica clinica
 
-##### Art. 24
+#### Art. 24
 
 Tipologia d'ispezione
 
@@ -720,7 +718,7 @@ c) nell'ambito delle verifiche successive alle autorizzazioni alla commercializz
 
 > \- Il regolamento (CE) n. 726/2004 e' pubblicato nella G.U.C.E. 30 aprile 2004, n. L 136.
 
-##### Art. 25
+#### Art. 25
 
 Documentazione relativa alla buona pratica clinica
 
@@ -728,7 +726,7 @@ Documentazione relativa alla buona pratica clinica
 
 2\. Esso elabora proposte relative all'ambito giuridico e amministrativo nel quale sono svolte le attivita' di buona pratica clinica, le ispezioni e le sperimentazioni, nonche' relative ai poteri degli ispettori per quanto riguarda l'accesso ai fini ispettivi alle strutture comunque coinvolte nella gestione della sperimentazione clinica e nell'iter che ne consente la realizzazione nonche' alla relativa documentazione. Al riguardo esso provvede affinche', su richiesta, e qualora sia opportuno, anche gli ispettori delle autorita' competenti degli altri Stati membri e dei Paesi terzi abbiano accesso ai centri di sperimentazione clinica e ai dati.
 
-##### Art. 26
+#### Art. 26
 
 Risorse dell'Ispettorato
 
@@ -750,7 +748,7 @@ b) nei casi in cui inadempiente sia una organizzazione di cui all'articolo 15, c
 
 5\. L'interruzione dei procedimenti per il rilascio delle autorizzazioni di cui al comma 4, lettera a), nonche' la sospensione all'esercizio delle funzioni di cui al medesimo comma 4, lettera b), saranno revocate al momento del ricevimento da parte dell'AIFA degli importi dovuti.
 
-##### Art. 27
+#### Art. 27
 
 Procedure ispettive
 
@@ -768,19 +766,19 @@ d) l'organizzazione di ispezioni in Paesi terzi.
 
 > \- Per l'art. 15 del decreto legislativo 24 giugno 2003, n. 211, vedi note all'art. 1.
 
-##### Art. 28
+#### Art. 28
 
 Archivio dell'Ispettorato
 
 1\. L'Ispettorato conserva per almeno 15 anni i documenti delle ispezioni nazionali ed internazionali con particolare riguardo alla situazione relativa all'osservanza delle buone pratiche cliniche e dei relativi provvedimenti consequenziali.
 
-##### Art. 29
+#### Art. 29
 
 Armonizzazione comunitaria delle procedure
 
 1\. L'Ispettorato provvede affinche' le procedure di ispezione nazionali siano armonizzate con le linee guida in materia e con i relativi aggiornamenti pubblicati dalla Commissione europea e partecipa a tale fine ai relativi lavori comunitari e internazionali.
 
-##### Art. 30
+#### Art. 30
 
 Riservatezza dei dati e dei rapporti di ispezione
 
@@ -796,7 +794,7 @@ Possono altresi' essere messi a disposizione dei Paesi terzi in funzione degli a
 
 > \- Il decreto legislativo 30 giugno 2003, n. 196 e' pubblicato nella Gazzetta Ufficiale 29 luglio 2003, n. 174, S.O.
 
-##### Art. 31
+#### Art. 31
 
 Funzioni dell'Ispettorato
 
@@ -820,7 +818,7 @@ Funzioni dell'Ispettorato
 
 > «Art. 11 (Centri accreditati). - 1. Le ricerche cliniche di fase I sul volontario sano potranno essere eseguite solo da parte dei centri accreditati presenti in un elenco redatto dalla Direzione generale della valutazione dei medicinali e della farmacovigilanza del Ministero della sanita'. Il Ministero della sanita' pubblichera' i requisiti minimi necessari perche' possa essere svolta una sperimentazione in fase I su soggetti malati di cui all'art. 5, comma 3.».
 
-##### Art. 32
+#### Art. 32
 
 Disposizioni a carattere generale
 
@@ -828,7 +826,7 @@ Disposizioni a carattere generale
 
 ## Capo VII - Ulteriori disposizioni
 
-##### Art. 33
+#### Art. 33
 
 Modifiche all'articolo 2 del decreto legislativo n. 211 del 2003
 
@@ -852,7 +850,7 @@ Modifiche all'articolo 2 del decreto legislativo n. 211 del 2003
 
 > \- Per l'art. 2, del decreto legislativo 24 giugno 2003, n. 211 vedi note all'art. 7.
 
-##### Art. 34
+#### Art. 34
 
 Modifiche all'articolo 3 del decreto legislativo n. 211 del 2003
 
@@ -888,7 +886,7 @@ b) alla lettera g) le parole : «una persona di riferimento dalla quale» sono s
 
 > 4\. Nel caso in cui il promotore della sperimentazione sia soggetto pubblico, alle spese per l'assicurazione di cui al comma 1, lettera f), si fa fronte nei limiti degli stanziamenti di bilancio ad essi assegnati.».
 
-##### Art. 35
+#### Art. 35
 
 Modifiche all'articolo 9 del decreto legislativo n. 211 del 2003
 
@@ -932,7 +930,7 @@ Modifiche all'articolo 9 del decreto legislativo n. 211 del 2003
 
 > 12\. Le sperimentazioni cliniche sono condotte nelle strutture gia' individuate con gli appositi decreti del Ministro della salute.».
 
-##### Art. 36
+#### Art. 36
 
 Modifiche all'articolo 11 del decreto legislativo n. 211 del 2003
 
@@ -944,7 +942,7 @@ Modifiche all'articolo 11 del decreto legislativo n. 211 del 2003
 
 > \- Per l'art. 11, del decreto legislativo 24 giugno 2003, n. 211, vedi note all'art. 5.
 
-##### Art. 37
+#### Art. 37
 
 Modifiche all'articolo 13 del decreto legislativo n. 211 del 2003
 
@@ -954,7 +952,7 @@ Modifiche all'articolo 13 del decreto legislativo n. 211 del 2003
 
 > \- Per l'art. 13, del decreto legislativo 24 giugno 2003. n. 211, vedi note all'art. 2.».
 
-##### Art. 38
+#### Art. 38
 
 Modifiche all'articolo 17 del decreto legislativo n. 211 del 2003
 
@@ -980,7 +978,7 @@ Modifiche all'articolo 17 del decreto legislativo n. 211 del 2003
 
 > 7\. Il Ministero della salute provvede a che tutte le sospette reazioni avverse serie inattese di cui e' venuto a conoscenza vengano immediatamente inserite in una banca dati europea alla quale, a norma dell'art. 11, comma 1, hanno accesso esclusivamente le Autorita' competenti degli Stati membri, l'Agenzia europea per la valutazione dei medicinali (EMEA) e la Commissione.».
 
-##### Art. 39
+#### Art. 39
 
 Modifiche all'articolo 22 del decreto legislativo n. 211 del 2003
 
@@ -1022,7 +1020,7 @@ Modifiche all'articolo 22 del decreto legislativo n. 211 del 2003
 
 > 13\. Il promotore della sperimentazione che viola la disposizione di cui all'art. 17, commi 1, 2 e 4, e' soggetto alla sanzione amministrativa pecuniaria del pagamento della somma da euro 50.000 a euro 250.000.».
 
-##### Art. 40
+#### Art. 40
 
 Clausola di invarianza finanziaria
 
@@ -1032,7 +1030,7 @@ Clausola di invarianza finanziaria
 
 ## Capo VIII - Sanzioni
 
-##### Art. 41
+#### Art. 41
 
 Sanzioni
 
@@ -1056,7 +1054,7 @@ Sanzioni
 
 > «Art. 147 (Sanzioni penali). - 1. Il titolare o il legale rappresentante dell'impresa che inizia l'attivita' di produzione di medicinali o materie prime farmacologicamente attive senza munirsi dell'autorizzazione di cui all'art. 50, ovvero la prosegue malgrado la revoca o la sospensione dell'autorizzazione stessa, e' punito con l'arresto da sei mesi ad un anno e con l'ammenda da euro diecimila a euro centomila. Le medesime pene si applicano, altresi', a chi importa medicinali o materie prime farmacologicamente attive in assenza dell'autorizzazione prevista dall'art. 55 ovvero non effettua o non fa effettuare sui medicinali i controlli di qualita' di cui all'art. 52, comma 8, lettera b). Tali pene si applicano anche a chi prosegue l'attivita' autorizzata pur essendo intervenuta la mancanza della persona qualificata di cui all'art. 50, comma 2, lettera c), o la sopravvenuta inidoneita' delle attrezzature essenziali a produrre e controllare medicinali alle condizioni e con i requisiti autorizzati.».
 
-##### Art. 42
+#### Art. 42
 
 ((Procedure sanzionatorie)).
 
@@ -1064,7 +1062,7 @@ Sanzioni
 
 2\. L'Agenzia italiana del farmaco, con cadenza annuale, in relazione alle previsioni di cui al comma 1, trasmette al Ministero della salute una relazione sull'attivita' sanzionatoria espletata, contenente anche un'analisi della tipologia e della frequenza delle violazioni rilevate.)).
 
-##### Art. 43
+#### Art. 43
 
 Clausola di cedevolezza
 

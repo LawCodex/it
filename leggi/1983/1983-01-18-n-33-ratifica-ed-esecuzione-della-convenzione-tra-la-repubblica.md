@@ -25,11 +25,11 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+#### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la convenzione tra la Repubblica italiana e la Repubblica d'Austria sulla sicurezza sociale, con allegato protocollo finale, firmati a Vienna il 21 gennaio 1981.
 
-### Art. 2
+#### Art. 2
 
 Piena ed intera esecuzione e' data agli atti internazionali di cui all'articolo precedente a decorrere dalla loro entrata in vigore in conformita' all'articolo 42, paragrafo 2, della convenzione.
 
@@ -73,7 +73,7 @@ Dr. Willibald PAHR.
 
 I plenipotenziari, dopo aver scambiato i loro pieni poteri, trovati in buona e debita forma, hanno concordato quanto segue:
 
-### Articolo 1
+#### Articolo 1
 
 1\. Nella presente Convenzione sono da intendersi come segue le espressioni:
 
@@ -121,7 +121,7 @@ una prestazione in denaro, una pensione o una rendita, compresi tutti gli elemen
 
 2\. Per l'applicazione della presente Convenzione tutte le altre espressioni hanno il significato che e' loro attribuito dalle legislazioni rispettive.
 
-### Articolo 2
+#### Articolo 2
 
 1\. La presente Convenzione si applica:
 
@@ -159,11 +159,11 @@ g) i regimi speciali di assicurazione per determinate categorie di lavoratori, i
 
 4\. Le norme giuridiche che risultino da accordi conclusi con Stati terzi, nonche' dal diritto sovranazionale, non sono prese in considerazione nell'applicazione della presente Convenzione.
 
-### Articolo 3
+#### Articolo 3
 
 Laddove non venga disposto altrimenti, la presente Convenzione si applica ai cittadini degli Stati contraenti, alle persone che sono o sono state soggette alla legislazione di uno o di entrambi gli Stati contraenti, nonche' agli aventi diritto da una delle summenzionate persone.
 
-### Articolo 4
+#### Articolo 4
 
 Nell'applicazione della legislazione di uno Stato contraente sono equiparati ai cittadini di detto Stato:
 
@@ -173,7 +173,7 @@ b) i profughi ai sensi della Convenzione del 23 luglio 1951 relativa allo statut
 
 c) gli apolidi ai sensi della Convenzione del 28 settembre 1954 relativa allo statuto degli apolidi, che risiedono nel territorio di uno Stato contraente.
 
-### Articolo 5
+#### Articolo 5
 
 1\. Le pensioni, le rendite e le altre prestazioni in denaro spettanti ai cittadini di uno Stato contraente, nonche' ai familiari ed ai superstiti, in virtu' della legislazione di uno Stato contraente, laddove la presente Convenzione non disponga altrimenti, debbono essere corrisposte anche nel caso in cui l'avente diritto risieda nel territorio dell'altro Stato contraente.
 
@@ -183,17 +183,17 @@ c) gli apolidi ai sensi della Convenzione del 28 settembre 1954 relativa allo st
 
 4\. Il paragrafo 1 non concerne la legislazione sulle misure per il mantenimento, il miglioramento ed il ristabilimento della abilita' al lavoro.
 
-### Articolo 6
+#### Articolo 6
 
 Ai fini dell'ammissione all'assicurazione volontaria prevista dalla legislazione vigente in uno Stato contraente, i periodi di assicurazione compiuti in virtu' della legislazione di tale Stato si cumulano, in quanto necessario, con i periodi di assicurazione compiuti nell'altro Stato contraente.
 
 ## PARTE II - LEGISLAZIONE APPLICABILE
 
-### Articolo 7
+#### Articolo 7
 
 Laddove gli articoli 8 e 9 non dispongano diversamente, si applica la legislazione dello Stato contraente sul cui territorio si esercita l'attivita' lavorativa. Ai lavoratori dipendenti questa norma si applica anche nel caso in cui la residenza del lavoratore o del suo datore di lavoro si trovi nel territorio dell'altro Stato contraente.
 
-### Articolo 8
+#### Articolo 8
 
 1\. Ai lavoratori dipendenti e ai lavoratori ad essi assimilati che risiedano nel territorio di uno Stato contraente e vengano inviati nel territorio dell'altro Stato contraente da un datore di lavoro che normalmente li occupa nel territorio del primo Stato contraente, si applica la legislazione del primo Stato contraente come se essi lavorassero nel suo territorio, fino alla scadenza del ventiquattresimo mese di occupazione nel territorio dell'altro Stato contraente.
 
@@ -205,13 +205,13 @@ Laddove gli articoli 8 e 9 non dispongano diversamente, si applica la legislazio
 
 5\. Il paragrafo 4 si applica per analogia ai lavoratori indipendenti.
 
-### Articolo 9
+#### Articolo 9
 
 1\. Ai diplomatici ed ai consoli di carriera, al personale amministrativo e tecnico delle Rappresentanze rette da diplomatici e da consoli di carriera, nonche' ai membri del personale domestico di tali Rappresentanze e al personale domestico privato occupato presso i diplomatici, i consoli di carriera ed i membri delle Rappresentanze rette da diplomatici e da consoli di carriera si applicano le disposizioni di cui alle Convenzioni di Vienna sulle relazioni diplomatiche e sulle relazioni consolari.
 
 2\. Ai cittadini di uno Stato contraente, che siano occupati presso istituti scientifici o culturali o presso scuole di tale Stato contraente nel territorio dell'altro Stato contraente, nonche' alle persone della medesima nazionalita' addette al loro servizio domestico si applica la legislazione dello Stato cui appartiene l'istituto o la scuola, a meno che essi non chiedano, nel termine di tre mesi dalla data di inizio della occupazione, di essere assoggettati alla legislazione dello Stato sul cui territorio lavorano.
 
-### Articolo 10
+#### Articolo 10
 
 Su richiesta comune del lavoratore e del datore di lavoro nonche' su richiesta del lavoratore indipendente, le competenti Autorita' dello Stato contraente, la cui legislazione dovrebbe applicarsi in base agli articoli da 7 a 9, possono esentare dall'applicazione di questa legislazione, a condizione che la persona interessata venga assoggettata alla legislazione dell'altro Stato contraente.
 
@@ -223,11 +223,11 @@ Se il lavoratore dipendente non e' occupato nel suo territorio egli deve essere 
 
 ## PARTE III - DISPOSIZIONI PARTICOLARI
 
-### Articolo 11
+#### Articolo 11
 
 Per l'acquisizione del diritto alle prestazioni, i periodi assicurativi, compiuti da una persona secondo le legislazioni dell'uno e dell'altro Stato contraente, sono cumulati, a condizione che non coincidano.
 
-### Articolo 12
+#### Articolo 12
 
 1\. Una persona che soddisfa o potrebbe soddisfare le condizioni per il diritto alle prestazioni in virtu' della legislazione di uno Stato contraente qualora risieda o soggiorni nel territorio dell'altro Stato contraente, ottiene prestazioni sanitarie a carico dell'Istituto competente, da parte dell'istituto del luogo ove risieda o soggiorna, secondo le norme vigenti per detto Istituto.
 
@@ -239,7 +239,7 @@ In caso di temporaneo soggiorno si applica solo quando lo stato di salute della 
 
 4\. Se in base alle norme di entrambi gli Stati contraenti si dovessero corrispondere prestazioni sanitarie ad una persona che si trovi sul territorio di uno Stato contraente, il diritto viene sospeso secondo le norme dell'altro Stato contraente.
 
-### Articolo 13
+#### Articolo 13
 
 1\. Al titolare di pensione dovuta in virtu' delle legislazioni di entrambi gli Stati contraenti si applica la legislazione sull'assicurazione malattie dei pensionati dello Stato contraente sul cui territorio il pensionato risiede.
 
@@ -247,25 +247,25 @@ La pensione dovuta in virtu' della legislazione di un solo Stato si considera co
 
 2\. Il paragrafo 1 e' applicabile per analogia ai richiedenti la pensione.
 
-### Articolo 14
+#### Articolo 14
 
 Nei casi previsti dall'articolo 12, paragrafi 1 e 3, nonche' dall'articolo 13 le prestazioni solo corrisposte in Austria: dalla Cassa mutua territoriale per i lavoratori e gli impiegati competente per il luogo di residenza o di soggiorno delle persone in questione; in Italia: dall'Unita' sanitaria locale (U.S.L.) competente per territorio.
 
-### Articolo 15
+#### Articolo 15
 
 1\. L'Istituto competente deve rimborsare all'Istituto del luogo di residenza o soggiorno le spese sostenute ai sensi degli articoli 12 e 13, paragrafo 1, secondo comma, escluse le spese di amministrazione.
 
 2\. Per semplificare le procedure amministrative le competenti Autorita' possono concordare che in tutti i casi o per alcuni di essi il rimborso delle spese effettive sia sostituito da pagamenti forfettari.
 
-## Capitolo II - VECCHIAIA, INVALIDITA' E MORTE (Pensioni)
+### Capitolo II - VECCHIAIA, INVALIDITA' E MORTE (Pensioni)
 
-### Articolo 16
+#### Articolo 16
 
 1\. Salvo quanto altrimenti disposto nella presente Convenzione, al fine dell'acquisizione del diritto alle prestazioni, i periodi assicurativi compiuti da una persona in virtu' delle legislazioni di entrambi gli Stati contraenti debbono essere cumulati a condizioni che non si sovrappongono.
 
 2\. Il paragrafo 1 si applica per analogia alle prestazioni la cui concessione rientra nel potere discrezionale di un Istituto.
 
-### Articolo 17
+#### Articolo 17
 
 1)Se una persona, che abbia compiuto periodi assicurativi in base alla legislazione di entrambi gli Stati contraenti o i suoi superstiti pretendono una pensione, l'Istituto competente deve determinare le prestazioni come segue:
 
@@ -277,7 +277,7 @@ c) l'Istituto deve calcolare la prestazione parziale dovuta in base all'importo 
 
 2\. Se i periodi assicurativi, che in virtu' della legislazione di uno Stato contraente debbono essere presi in considerazione per il calcolo della prestazione, non raggiungono complessivamente 12 mesi e se in virtu' di detta legislazione, in base a detti periodi soltanto, non sussiste il diritto a prestazioni, in base a detta legislazione non viene corrisposta alcuna prestazione. In questo caso l'Istituto dell'altro Stato contraente deve prendere in considerazione i predetti periodi come se fossero periodi compiuti secondo la propria legislazione sia ai fini dell'acquisizione del diritto sia ai fini della determinazione dell'ammontare della prestazione.
 
-### Articolo 18
+#### Articolo 18
 
 I competenti Istituti austriaci debbono applicare gli articoli 16 e 17 secondo le regole seguenti:
 
@@ -311,7 +311,7 @@ l'articolo 21 e' applicabile per analogia.
 
 9\. I versamenti speciali da parte dell'assicurazione pensione austriaca sono dovuti al pro-rata della prestazione parziale austriaca; l'articolo 21 e' applicabile analogicamente.
 
-### Articolo 19
+#### Articolo 19
 
 I competenti organismi italiani applicano gli articoli 16 e 17 secondo le regole seguenti:
 
@@ -325,19 +325,19 @@ c) se la durata totale dei periodi di assicurazione maturati in base alla legisl
 
 3\. Allorche' una persona soddisfi tutte le condizioni stabilite dalla legislazione italiana per il conseguimento del diritto alla prestazione senza che sia necessario ricorrere alla totalizzazione dei periodi di assicurazione o equivalenti compiuti in Austria, l'Istituto italiano e' tenuto a concedere l'importo della prestazione calcolata unicamente sulla base dei periodi di assicurazione o equivalenti compiuti sotto la legislazione italiana. Tale disposizione si applica anche nel caso in cui l'assicurato abbia diritto, in base alla legislazione austriaca, ad una calcolata ai sensi degli articoli 16 e 17.
 
-### Articolo 20
+#### Articolo 20
 
 1\. Se ai sensi della legislazione austriaca sussiste il diritto a pensione senza applicare l'articolo 16, l'Istituto competente austriaco e' tenuto a concedere la pensione spettante in base ai periodi di assicurazione da considerare ai sensi della legislazione austriaca finche' non sussista un diritto a prestazione ai sensi della legislazione italiana.
 
 2\. Le pensioni di cui al precedente paragrafo debbono essere ricostituite ai sensi dell'articolo 17 quando si determina un diritto a prestazioni ai sensi della legislazione italiana. La ricostituzione decorre dal giorno di decorrenza della prestazione italiana. La forza giuridica di precedenti decisioni non si oppone alla ricostituzione.
 
-### Articolo 21
+#### Articolo 21
 
 Se in base alla legislazione austriaca una persona ha diritto, anche senza ricorrere all'applicazione dell'articolo 16, ad una prestazione il cui importo sia piu' elevato della somma delle prestazioni austriache calcolate secondo l'articolo 17, paragrafo 1, lettera c), e dalle prestazioni italiane spettanti, l'Istituto austriaco e' tenuto a corrispondere, oltre alla pensione parziale a suo carico, un complemento uguale alla differenza fra l'importo totale delle prestazioni e l'importo della prestazione dovuta unicamente in virtu' della legislazione austriaca.
 
-## Capitolo III - INFORTUNI SUL LAVORO E MALATTIE PROFESSIONALI
+### Capitolo III - INFORTUNI SUL LAVORO E MALATTIE PROFESSIONALI
 
-### Articolo 22
+#### Articolo 22
 
 1\. Una persona che, in base alla legislazione di uno Stato contraente, abbia diritto a prestazioni a seguito di infortunio sul lavoro o di malattia professionale, in caso di residenza o soggiorno nel territorio dell'altro Stato continente, ottiene prestazioni sanitarie a carico dell'istituto competente, da parte dell'istituto del luogo in cui risiede o soggiorna, secondo le norme cui si deve attenere detto Istituto.
 
@@ -351,11 +351,11 @@ in Italia: dall'Unita' sanitaria locale (U.S.L.) competente per territorio.
 
 4\. Nei casi previsti dal paragrafo i le prestazioni economiche debbono essere corrisposte dall'Istituto competente secondo la legislazione per esso vigente.
 
-### Articolo 23
+#### Articolo 23
 
 Qualora un cittadino di uno dei due Stati contraenti, recandosi ad assumere servizio nell'altro Stato contraente in base ad un regolare contratto di lavoro, subisca un incidente durante il viaggio, effettuato senza interruzione e percorrendo la via piu' breve per raggiungere il luogo di lavoro, i danni causati da tale incidente debbono essergli risarciti da quest'ultimo Stato contraente secondo la legislazione vigente per l'assicurazione contro gli infortuni sul lavoro; cio' vale anche per un incidente che occorra ad un lavoratore durante il ritorno in patria immediatamente dopo l'estinzione del contratto di lavoro in base al quale egli si era recato nell'altro Stato contraente.
 
-### Articolo 24
+#### Articolo 24
 
 1\. Se una malattia professionale deve essere indennizzata secondo le legislazioni di entrambi gli Stati contraenti, le prestazioni debbono essere corrisposte solo secondo la legislazione dello Stato contraente in cui sia stata svolta da ultimo un'occupazione che potrebbe aver causato tale malattia professionale. In questo caso tuttavia, ove necessario, bisogna tener conto di ogni attivita' simile svolta nel territorio dell'altro Stato contraente.
 
@@ -363,9 +363,9 @@ Qualora un cittadino di uno dei due Stati contraenti, recandosi ad assumere serv
 
 Il rimborso di cui al comma precedente non ha luogo se il periodo di occupazione dello Stato contraente di cui al comma precedente che potrebbe aver causato la silicosi o l'asbestosi, e' inferiore al 10 per cento del totale dei periodi di occupazione che potrebbero aver causato la silicosi o l'asbestosi nei due Stati contraenti.
 
-## Capitolo IV - PRESTAZIONI IN CASO DI DISOCCUPAZIONE
+### Capitolo IV - PRESTAZIONI IN CASO DI DISOCCUPAZIONE
 
-### Articolo 25
+#### Articolo 25
 
 1\. Ai fini dell'acquisizione del diritto e della determinazione della durata dell'indennita' di disoccupazione, i periodi di lavoro soggetti al versamento dei contributi che siano stati compiuti secondo le disposizioni legislative dell'altro Stato contraente vengono totalizzati a condizione che negli ultimi 12 mesi precedenti la richiesta della indennita' di disoccupazione l'interessato possa far valere complessivamente nel primo Stato almeno 13 settimane di lavoro soggetto all'obbligo dell'assicurazione contro la disoccupazione.
 
@@ -391,7 +391,7 @@ Le disposizioni del paragrafo 1 del presente articolo e del paragrafo 1 dell'art
 
 7\. L'articolo 5 non e' applicabile alle prestazioni corrisposte in caso di disoccupazione.
 
-### Articolo 26
+#### Articolo 26
 
 1\. I lavoratori frontalieri percepiscono l'indennita' di disoccupazione da parte dello Stato in cui risiedono abitualmente.
 
@@ -401,9 +401,9 @@ Per l'accertamento del diritto e per la determinazione della durata dell'indenni
 
 3\. Con l'espressione "lavoratore frontaliero", ai sensi del presente articolo, si designa un lavoratore che e' occupato nel territorio di uno Stato contraente e che risiede nel territorio dell'altro Stato contraente, dove, di massima, ritorna ogni giorno o almeno una volta alla settimana.
 
-## Capitolo V - ASSEGNI FAMILIARI
+### Capitolo V - ASSEGNI FAMILIARI
 
-### Articolo 27
+#### Articolo 27
 
 1\. Una persona che svolge in uno Stato contraente una attivita' dipendente, ha diritto agli assegni familiari, secondo la legislazione di detto Stato, anche per i figli che risiedono nell'altro Stato contraente.
 
@@ -411,27 +411,27 @@ Per l'accertamento del diritto e per la determinazione della durata dell'indenni
 
 3\. Se ad un lavoratore che e' occupato nel territorio di uno Stato contraente si applica, ai sensi degli articoli 8 e 10, la legislazione dell'altro Stato contraente, i figli che risiedono nel primo Stato contraente sono considerati residenti nello Stato contraente la cui legislazione e' applicabile.
 
-### Articolo 28
+#### Articolo 28
 
 Gli assegni familiari concessi per i figli che risiedono nell'altro Stato contraente debbono essere concessi nell'intero ammontare dell'importo come previsto per i figli che risiedono nello Stato contraente secondo la cui legislazione sono stati concessi gli assegni familiari.
 
-### Articolo 29
+#### Articolo 29
 
 1\. Se la legislazione di uno Stato contraente prevede determinati periodi di attesa per l'acquisizione del diritto agli assegni familiari, si prendono in considerazione i periodi di assicurazione compiuti nell'altro Stato contraente.
 
 2\. I lavoratori che percepiscono prestazioni in danaro in virtu' della legislazione di uno Stato contraente in materia di assicurazione malattia o disoccupazione sono da trattare, per quanto riguarda il diritto agli assegni familiari, come se fossero occupati nello Stato contraente in virtu' della cui legislazione percepiscono dette prestazioni in danaro.
 
-### Articolo 30
+#### Articolo 30
 
 Se, secondo le legislazioni di entrambi gli Stati contraenti, tenendo conto della presente Convenzione, esistono per un figlio le condizioni per la concessione di assegni familiari di entrambi gli Stati contraenti, gli assegni familiari per questo figlio sono da concedere esclusivamente secondo la legislazione di quello Stato contraente in cui il figlio risiede.
 
-### Articolo 31
+#### Articolo 31
 
 Figli, ai sensi del presente capitolo, sono le persone per le quali sono previsti assegni familiari dalla legislazione applicabile.
 
 ## PARTE IV - DISPOSIZIONI VARIE
 
-### Articolo 32
+#### Articolo 32
 
 1\. Le competenti Autorita' dei due Stati contraenti concorderanno la normativa di attuazione della presente Convenzione con un accordo che potra' essere concluso anche prima dell'entrata in vigore della presente Convenzione, ma che entrera' in vigore al piu' presto contemporaneamente alla Convenzione.
 
@@ -451,17 +451,17 @@ b) tutto le modifiche delle rispettive legislazioni che interessino l'applicazio
 
 7\. Per l'assistenza giudiziaria valgono le disposizioni vigenti fra i due Stati in materia di assistenza giudiziaria nelle cause civili.
 
-### Articolo 33
+#### Articolo 33
 
 Per facilitare l'attuazione della presente Convenzione, in particolare per permettere un facile e rapido collegamento tra gli Istituti dei due Stati contraenti, le competenti Autorita' dovranno designare degli uffici di collegamento.
 
-### Articolo 34
+#### Articolo 34
 
 1\. Tutte le esenzioni o riduzioni previste dalle norme di uno Stato contraente che riguardino le tasse di bollo, i diritti di cancelleria o di registro per gli atti o di documenti che debbano essere presentati in applicazione della legislazione di detto Stato contraente, si applicano anche ai corrispondenti atti o documenti che debbano essere presentati in applicazione della presente Convenzione o della legislazione dell'altro stato contraente.
 
 2\. I documenti e gli atti di qualsiasi tipo, richiesti per l'applicazione della presente Convenzione, non hanno bisogno di essere legalizzati.
 
-### Articolo 35
+#### Articolo 35
 
 1\. Le domande, le dichiarazioni o i ricorsi, che vengano presentati in applicazione della presente Convenzione o della legislazione di uno Stato contraente, ad una Autorita', ad un Istituto o a un qualsiasi altro Ente competente di uno Stato contraente, debbono essere considerate come domande, dichiarazioni o ricorsi presentati ad una Autorita', ad un Istituto o a un qualsiasi altro Ente competente dell'altro Stato contraente.
 
@@ -471,13 +471,13 @@ Per facilitare l'attuazione della presente Convenzione, in particolare per perme
 
 4\. Nei casi previsti dai paragrafi da 1 a 3, l'Ufficio cui la domanda, la dichiarazione o il ricorso e' stato presentato deve inoltrarli senza indugio al corrispondente Ufficio dell'altro Stato contraente.
 
-### Articolo 36
+#### Articolo 36
 
 1\. Gli Istituti di uno Stato contraente che, secondo la presente Convenzione, debbano effettuare dei versamenti a favore di aventi diritto che risiedano o soggiornino nel territorio dell'altro Stato contraente, possono effettuarli con effetto liberatorio nella valuta del primo Stato contraente; i pagamenti da effettuare a favore di Istituti che si trovino nel territorio dell'altro Stato contraente debbono essere effettuati nella valuta di questo Stato contraente.
 
 2\. Il trasferimento delle somme necessarie per l'attuazione della presente Convenzione deve avvenire secondo gli accordi di pagamento vigenti tra i due Stati, al momento del trasferimento.
 
-### Articolo 37
+#### Articolo 37
 
 1\. Le decisioni definitive pronunciate dai Tribunali nonche' gli atti pubblici esecutivi degli Enti ed Autorita' di uno Stato contraente nei settori della sicurezza sociale di cui all'articolo 2 della presente Convenzione sono riconosciuti nell'altro Stato contraente.
 
@@ -491,13 +491,13 @@ La copia della sentenza o dell'atto deve essere munita della formula esecutiva.
 
 4\. I crediti relativi a contributi arretrati spettanti ad un Ente di uno Stato contraente, in caso di esecuzione forzata, di procedura fallimentare o di concordato nell'altro Stato contraente, godono degli stessi privilegi di cui godono i corrispondenti crediti in tale Stato contraente.
 
-### Articolo 38
+#### Articolo 38
 
 Quando l'Istituto assicuratore di uno Stato contraente ha versato un anticipo, l'importo dovuto successivamente per il medesimo periodo dall'Istituto dell'altro Stato contraente per una corrispondente prestazione, alla quale si abbia diritto secondo la legislazione di detto Stato, deve essere trattenuto da quest'ultimo Istituto, su richiesta ed a favore del primo Istituto.
 
 Quando l'Istituto assicuratore di uno Stato contraente ha versato una somma piu' elevata di quella spettante per un periodo per il quale l'Istituto assicuratore dell'altro Stato concede successivamente una corrispondente prestazione, l'importo eccedente deve essere considerato quale anticipo e trattenuto secondo quanto stabilito al primo comma.
 
-### Articolo 39
+#### Articolo 39
 
 1\. Le controversie tra gli Stati contraenti sull'interpretazione o sull'applicazione della presente Convenzione dovranno essere risolte, per quanto possibile, dalle competenti Autorita' degli Stati contraenti.
 
@@ -513,7 +513,7 @@ b) se uno Stato contraente non ha scelto l'arbitro entro il termine fissato l'al
 
 ## PARTE V - DISPOSIZIONI TRANSITORIE E FINALI
 
-### Articolo 40
+#### Articolo 40
 
 1\. In base alla presente Convenzione, ferme restando le disposizioni del paragrafo 2 del presente articolo, del punto 8 del Protocollo finale della Convenzione, nonche' dell'articolo 42, paragrafo 2 e dell'articolo 43, paragrafo 2 della Convenzione:
 
@@ -533,11 +533,11 @@ Se la domanda di concessione o di ricostituzione viene presentata entro due anni
 
 2\. Qualora nel periodo antecedente l'entrata in vigore della presente Convenzione, sia stato da parte austriaca derogato alle disposizioni della Convenzione del 30 dicembre 1950 menzionata all'articolo 43, paragrafo 1, della presente Convenzione, per quanto riguarda le decisioni relative alla determinazione del diritto e dell'importo delle prestazioni, tali deroghe non potranno essere eccepite relativamente al periodo antecedente l'entrata in vigore della presente Convenzione, ove dette deroghe si siano rese necessarie in applicazione delle modifiche intervenute nella legislazione nazionale successivamente all'entrata in vigore della Convenzione del 30 dicembre 1950 ed esse non contrastino con i principi della presente Convenzione.
 
-### Articolo 41
+#### Articolo 41
 
 I diritti che secondo la legislazione austriaca spettano ad una persona che abbia subito dei danni nella sua condizione giuridica di assicurato sociale per motivi politici o religiosi o per motivi di origine, non vengono modificati dalla presente Convenzione.
 
-### Articolo 42
+#### Articolo 42
 
 1\. La presente Convenzione sara' ratificata. Gli strumenti di ratifica verranno scambiati appena possibile a Roma.
 
@@ -551,7 +551,7 @@ Ciascuno Stato contraente potra' denunciarla per iscritto, per via diplomatica, 
 
 5\. In caso di denuncia, le disposizioni della presente Convenzione per i diritti acquisiti continuano ad essere valide, senza riguardo alle eventuali disposizioni restrittive previste nei rispettivi regimi previdenziali per il caso di soggiorno all'estero di un assicurato.
 
-### Articolo 43
+#### Articolo 43
 
 1\. Con l'entrata in vigore della presente Convenzione sono abrogati:
 
@@ -569,7 +569,7 @@ Per la Repubblica italiana Per la Repubblica d'Austria
 
 Libero DELLA BRIOTTA Willibald PAHR
 
-### Protocollo
+#### Protocollo
 
 PROTOCOLLO FINALE
 

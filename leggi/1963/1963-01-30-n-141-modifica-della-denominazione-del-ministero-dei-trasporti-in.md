@@ -26,7 +26,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il Ministero dei trasporti assume la denominazione di Ministero dei trasporti e dell'aviazione civile.
 
@@ -38,7 +38,7 @@ AGGIORNAMENTO (2)
 
 Il D.P.R. 24 aprile 1998, n. 202 ha disposto (con l'art. 18, comma 1, lettera m)) che "Ai sensi dell'articolo 1, commi 13 e 16, della legge 24 dicembre 1993, n. 537, si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14: [. . .] m) legge 30 gennaio 1963, n. 141".
 
-### Art. 2
+## Art. 2
 
 Per l'esercizio dei compiti e delle attribuzioni di cui al precedente articolo e' istituito nel Ministero dei trasporti e dell'aviazione civile un Ispettorato generale dell'aviazione civile, cui e' preposto un direttore generale.
 
@@ -62,7 +62,7 @@ AGGIORNAMENTO (2)
 
 Il D.P.R. 24 aprile 1998, n. 202 ha disposto (con l'art. 18, comma 1, lettera m)) che "Ai sensi dell'articolo 1, commi 13 e 16, della legge 24 dicembre 1993, n. 537, si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14: [. . .] m) legge 30 gennaio 1963, n. 141".
 
-### Art. 3
+## Art. 3
 
 ARTICOLO ABROGATO DAL D.P.R. 24 MARZO 1981, N. 145((2))
 
@@ -72,7 +72,7 @@ AGGIORNAMENTO (2)
 
 Il D.P.R. 24 aprile 1998, n. 202 ha disposto (con l'art. 18, comma 1, lettera a)) che "Ai sensi dell'articolo 1, commi 13 e 16, della legge 24 dicembre 1993, n. 537, si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14: [. . .] m) legge 30 gennaio 1963, n. 141".
 
-### Art. 4
+## Art. 4
 
 Alla progettazione, costruzione e ampliamento degli aeroporti, eliporti, campi di volo, campi di fortuna civili demaniali provvede il Ministero dei trasporti e dell'aviazione civile Ispettorato generale dell'aviazione civile.
 
@@ -90,7 +90,7 @@ AGGIORNAMENTO (2)
 
 Il D.P.R. 24 aprile 1998, n. 202 ha disposto (con l'art. 18, comma 1, lettera m)) che "Ai sensi dell'articolo 1, commi 13 e 16, della legge 24 dicembre 1993, n. 537, si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14: [. . .] m) legge 30 gennaio 1963, n. 141".
 
-### Art. 5
+## Art. 5
 
 I provvedimenti che abbiano diretti riflessi sulla difesa nazionale sono adottati d'intesa col Ministero della difesa.
 
@@ -104,7 +104,7 @@ AGGIORNAMENTO (2)
 
 Il D.P.R. 24 aprile 1998, n. 202 ha disposto (con l'art. 18, comma 1, lettera m)) che "Ai sensi dell'articolo 1, commi 13 e 16, della legge 24 dicembre 1993, n. 537, si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14: [. . .] m) legge 30 gennaio 1963, n. 141".
 
-### Art. 6
+## Art. 6
 
 Il Ministro per i trasporti e per l'aviazione civile e' assistito dal Consiglio superiore dell'aviazione civile, che e' organo consultivo per tutte le questioni concernenti l'aviazione civile ed il traffico aereo.
 
@@ -126,7 +126,7 @@ AGGIORNAMENTO (2)
 
 Il D.P.R. 24 aprile 1998, n. 202 ha disposto (con l'art. 18, comma 1, lettera m)) che "Ai sensi dell'articolo 1, commi 13 e 16, della legge 24 dicembre 1993, n. 537, si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14: [. . .] m) legge 30 gennaio 1963, n. 141".
 
-### Art. 7
+## Art. 7
 
 Il Consiglio superiore dell'aviazione civile e' composto di un presidente, del direttore generale dell'Ispettorato generale dell'aviazione civile, di un consigliere di Stato designato dal presidente del Consiglio di stato, di un sostituto avvocato generale dello Stato designato dall'avvocato generale dello Stato, e di altri undici membri designati ciascuno dal Ministero degli affari esteri, dal Ministero delle finanze, dal Ministero del tesoro, dal Ministero dei lavori pubblici, dal Ministero dei trasporti e dell'aviazione civile (Ispettorato generale dell'aviazione civile), dal Ministero dell'industria e del commercio, dal Ministero delle poste e delle telecomunicazioni, dal Ministero delle partecipazioni statali, dal Ministero della sanita' dal Ministero del turismo e dello spettacolo e dal Presidente del Comitato dei Ministri per il Mezzogiorno, nonche' di sei esperti uno dei quali rappresentante della categoria dei piloti civili, designato dall'A.N.P.A.C.
 
@@ -144,7 +144,7 @@ AGGIORNAMENTO (2)
 
 Il D.P.R. 24 aprile 1998, n. 202 ha disposto (con l'art. 18, comma 1, lettera m)) che "Ai sensi dell'articolo 1, commi 13 e 16, della legge 24 dicembre 1993, n. 537, si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14: [. . .] m) legge 30 gennaio 1963, n. 141".
 
-### Art. 8
+## Art. 8
 
 Il presidente ed i membri del Consiglio superiore dell'aviazione civile sono nominati con decreto del Presidente della Repubblica su proposta del Ministro per i trasporti e dell'aviazione civile.
 
@@ -162,7 +162,7 @@ AGGIORNAMENTO (2)
 
 Il D.P.R. 24 aprile 1998, n. 202 ha disposto (con l'art. 18, comma 1, lettera m)) che "Ai sensi dell'articolo 1, commi 13 e 16, della legge 24 dicembre 1993, n. 537, si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14: [. . .] m) legge 30 gennaio 1963, n. 141".
 
-### Art. 9
+## Art. 9
 
 Il Governo della Repubblica e' delegato a provvedere, entro un anno dalla data di entrata in vigore della presente legge, alla emanazione di norme aventi valore di legge per regolare:
 
@@ -176,7 +176,7 @@ AGGIORNAMENTO (2)
 
 Il D.P.R. 24 aprile 1998, n. 202 ha disposto (con l'art. 18, comma 1, lettera m)) che "Ai sensi dell'articolo 1, commi 13 e 16, della legge 24 dicembre 1993, n. 537, si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14: [. . .] m) legge 30 gennaio 1963, n. 141".
 
-### Art. 10
+## Art. 10
 
 Il Governo della Repubblica e' delegato altresi' a provvedere, entro un anno dalla data di entrata in vigore della presente legge, alla emanazione di norme aventi valore di legge per regolare:
 
@@ -204,7 +204,7 @@ AGGIORNAMENTO (2)
 
 Il D.P.R. 24 aprile 1998, n. 202 ha disposto (con l'art. 18, comma 1, lettera m)) che "Ai sensi dell'articolo 1, commi 13 e 16, della legge 24 dicembre 1993, n. 537, si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14: [. . .] m) legge 30 gennaio 1963, n. 141".
 
-### Art. 11
+## Art. 11
 
 Le norme di cui ai precedenti articoli 9 e 10 saranno emanate con decreto del Presidente della Repubblica, su proposta del Ministro per i trasporti e per l'aviazione civile, di concerto col Ministro per il tesoro e per la difesa.((2))
 
@@ -214,7 +214,7 @@ AGGIORNAMENTO (2)
 
 Il D.P.R. 24 aprile 1998, n. 202 ha disposto (con l'art. 18, comma 1, lettera m)) che "Ai sensi dell'articolo 1, commi 13 e 16, della legge 24 dicembre 1993, n. 537, si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14: [. . .] m) legge 30 gennaio 1963, n. 141".
 
-### Art. 12
+## Art. 12
 
 Fino alla data di nomina dei vincitori dei concorsi di cui alle norme previste dall'articolo 10, e di inquadramento in ruoli o trasferimento di cui allo stesso articolo, il personale civile del Ministero della difesa-aeronautica e gli ufficiali e sottufficiali dell'aeronautica in servizio da almeno un anno alla data di entrata in vigore della presente legge presso la Direzione generale dell'aviazione civile e del traffico aereo e relativi organi periferici, sono messi a disposizione del Ministero dei trasporti e dell'aviazione civile - Ispettorato generale dell'aviazione civile.
 
@@ -228,7 +228,7 @@ AGGIORNAMENTO (2)
 
 Il D.P.R. 24 aprile 1998, n. 202 ha disposto (con l'art. 18, comma 1, lettera m)) che "Ai sensi dell'articolo 1, commi 13 e 16, della legge 24 dicembre 1993, n. 537, si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14: [. . .] m) legge 30 gennaio 1963, n. 141".
 
-### Art. 13
+## Art. 13
 
 Il Consiglio di amministrazione del Ministero dei trasporti e dell'aviazione civile, per l'esercizio delle attribuzioni di cui all'articolo 146 del testo unico 10 gennaio 1957, n. 3, relativamente al personale e agli uffici dell'Ispettorato generale dell'aviazione civile, e' composto:
 
@@ -250,7 +250,7 @@ Il D.P.R. 24 aprile 1998, n. 202 ha disposto (con l'art. 18, comma 1, lettera m)
 
 ## DISPOSIZIONI TRANSITORIE E FINALI
 
-### Art. 14
+## Art. 14
 
 Alle spese necessarie per il funzionamento dell'Ispettorato generale dell'aviazione civile si provvede con gli stanziamenti recati dallo stato di previsione della spesa del Ministero della difesa, concernenti i servizi della Direzione generale dell'aviazione civile del traffico aereo e le spese del personale per la quota parte relativa al personale del Ministero della, difesa-aeronautica messo a disposizione del Ministero dei trasporti e dell'aviazione civile ai sensi del precedente articolo 12, fin quando detti stanziamenti e dette spese non saranno inseriti nello stato di previsione della spesa del Ministero dei trasporti e dell'aviazione civile.
 
@@ -264,7 +264,7 @@ AGGIORNAMENTO (2)
 
 Il D.P.R. 24 aprile 1998, n. 202 ha disposto (con l'art. 18, comma 1, lettera m)) che "Ai sensi dell'articolo 1, commi 13 e 16, della legge 24 dicembre 1993, n. 537, si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14: [. . .] m) legge 30 gennaio 1963, n. 141".
 
-### Art. 15
+## Art. 15
 
 Per la determinazione dei beni e impianti da destinarsi esclusivamente al traffico aereo civile e dei beni e servizi di impiego promiscuo dell'aeronautica militare e dell'aviazione civile e per la determinazione delle relative modalita' per l'uso comune, sara' costituito con decreto del Presidente del Consiglio dei Ministri di concerto con i Ministri per la difesa e per i trasporti e per l'aviazione civile, un Comitato presieduto dal Ministro per la difesa e composto di altri sette membri designati, tre dal Ministro per la difesa e quattro dal Ministro per i trasporti e per l'aviazione civile.
 
@@ -280,7 +280,7 @@ AGGIORNAMENTO (2)
 
 Il D.P.R. 24 aprile 1998, n. 202 ha disposto (con l'art. 18, comma 1, lettera m)) che "Ai sensi dell'articolo 1, commi 13 e 16, della legge 24 dicembre 1993, n. 537, si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14: [. . .] m) legge 30 gennaio 1963, n. 141".
 
-### Art. 16
+## Art. 16
 
 La Direzione generale dell'aviazione civile e traffico aereo del Ministero della difesa e' soppressa.((2))
 
@@ -290,7 +290,7 @@ AGGIORNAMENTO (2)
 
 Il D.P.R. 24 aprile 1998, n. 202 ha disposto (con l'art. 18, comma 1, lettera m)) che "Ai sensi dell'articolo 1, commi 13 e 16, della legge 24 dicembre 1993, n. 537, si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14: [. . .] m) legge 30 gennaio 1963, n. 141".
 
-### Art. 17
+## Art. 17
 
 La presente legge entra in vigore 90 giorni dopo la sua pubblicazione nella Gazzetta Ufficiale.
 

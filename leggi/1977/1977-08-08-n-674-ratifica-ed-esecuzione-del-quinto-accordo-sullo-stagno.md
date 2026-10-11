@@ -25,15 +25,15 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare il quinto accordo internazionale sullo stagno, con allegati, adottato a Ginevra il 21 giugno 1975.
 
-#### Art. 2
+### Art. 2
 
 Piena ed intera esecuzione e' data all'accordo di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 49 dell'accordo stesso.
 
-#### Art. 3
+### Art. 3
 
 La spesa derivante dall'esecuzione della presente legge e' valutata in annue lire 19 milioni, a decorrere dal 1 luglio 1976.
 
@@ -57,7 +57,7 @@ Visto, il Guardasigilli: BONIFACIO
 
 ## Allegati
 
-#### Cinquieme Accord
+### Cinquieme Accord
 
 CINQUIEME ACCORD INTERNATIONAL SUR L'ETAIN
 
@@ -89,7 +89,7 @@ f) dell'interesse di rendere piu' razionale l'impiego dello stagno, tanto nei pa
 
 Hanno convenuto quanto segue:
 
-#### ARTICOLO 1 - Oggetto
+### ARTICOLO 1 - Oggetto
 
 Il presente Accordo ha per oggetto:
 
@@ -119,7 +119,7 @@ l) di proseguire l'opera intrapresa dal Consiglio internazionale dello stagno ai
 
 ## CAPITOLO II: - DEFINIZIONI
 
-#### ARTICOLO 2 - Definizioni
+### ARTICOLO 2 - Definizioni
 
 Ai fini del presente Accordo bisogna intendere per
 
@@ -161,15 +161,15 @@ UNA SESSIONE puo' comportare una o piu' sedute del Consiglio.
 
 ## IL CONSIGLIO INTERNAZIONALE DELLO STAGNO: - DISPOSIZIONI COSTITUZIONALI
 
-### CAPITOLO III: MEMBRI DEL CONSIGLIO
+## CAPITOLO III: MEMBRI DEL CONSIGLIO
 
-#### ARTICOLO 3 - Il Consiglio
+### ARTICOLO 3 - Il Consiglio
 
 a) Il Consiglio internazionale dello stagno (in appresso denominato il Consiglio), istituito a norma dei precedenti Accordi internazionali sullo stagno, continuera' ad esistere con la composizione, i poteri e le funzioni previsti dal quinto Accordo internazionale sullo stagno per assicurare l'applicazione delle disposizioni di detto Accordo.
 
 b) A meno che esso non decida altrimenti, il Consiglio ha la sua sode a Londra.
 
-#### ARTICOLO 4 - Partecipazione al Consiglio
+### ARTICOLO 4 - Partecipazione al Consiglio
 
 a) Il Consiglio e' composto di tutti i paesi partecipanti.
 
@@ -179,7 +179,7 @@ ii) Un delegato supplente e' abilitato ad agire e a votare in nome del delegato 
 
 c) Ogni paese partecipante costituisce un solo membro del Consiglio, fatta salva l'eccezione prevista all'articolo, 53.
 
-#### ARTICOLO 5 - Categorie di partecipanti
+### ARTICOLO 5 - Categorie di partecipanti
 
 a) Ciascun membro del Consiglio e' dichiarato dal Consiglio, con il consenso del paese interessato, essere un paese produttore o un paese consumatore, non appena il Consiglio sia stato avvisato dal Segretario generale dell'Organizzazione delle Nazioni Unite che questo membro ha depositato il proprio strumento di ratifica, di approvazione, di accettazione o di adesione, conformemente all'articolo 48 o all'articolo 52, o la notifica della sua intenzione di ratificare, di approvare o di accettare il presente Accordo o di aderirvi, conformemente all'articolo 50 o all'articolo 52.
 
@@ -193,7 +193,7 @@ c) Ciascun governo puo' far conoscere, nello strumento di ratifica, di approvazi
 
 d) Nella prima sessione ordinaria che esso terra' dopo l'entrata in vigore del presente Accordo, il Consiglio prendera' le decisioni necessarie per l'applicazione del presente articolo alla maggioranza dei suffragi espressi dai paesi partecipanti elencati nell'Allegato A e alla maggioranza dei suffragi espressi dai paesi partecipanti elencati nell'allegato B; il calcolo dei suffragi sara' fatto separatamente ed i diritti di voto dovranno essere quelli che sono indicati negli allegati A e B del presente Accordo, restando inteso che a questo scopo non vengono applicate le disposizioni dell'articolo 13.
 
-#### ARTICOLO 6 - Cambiamento di categoria
+### ARTICOLO 6 - Cambiamento di categoria
 
 a) Quando la situazione di un paese partecipante e' passata da quella di paese consumatore a quella di paese produttore, o viceversa, il Consiglio, a richiesta di questo paese o di propria iniziativa con il consenso del paese in parola, prende in considerazione questa nuova situazione e determina, il quantitativo o la percentuale che sarebbero applicabili ai fini degli allegati pertinenti, del presente Accordo.
 
@@ -209,7 +209,7 @@ ii) Se, in seguito ad un cambiamento di categoria, un paese consumatore diventa 
 
 ## CAPITOLO IV: - POTERI E FUNZIONI
 
-#### ARTICOLO 7 - Poteri e funzioni del Consiglio
+### ARTICOLO 7 - Poteri e funzioni del Consiglio
 
 Il Consiglio:
 
@@ -231,7 +231,7 @@ i)L'Organizzazione delle Nazioni Unite, i suoi organi competenti - in particolar
 
 ii) I paesi non partecipanti che sono membri dell'Organizzazione delle Nazioni Unite o membri delle sue istituzioni specializzate o che erano Parti contraenti dei precedenti accordi internazionali sullo stagno.
 
-#### ARTICOLO 8 - Procedure del Consiglio
+### ARTICOLO 8 - Procedure del Consiglio
 
 Il Consiglio:
 
@@ -255,7 +255,7 @@ ii) Fissa, alla maggioranza ripartita dei due terzi, il mandato di tutti i comit
 
 iii) Puo' revocare in qualunque momento, alla maggioranza semplice, qualsiasi delega di poteri a tutti i comitati o annullarne l'istituzione.
 
-#### ARTICOLO 9 - Statistiche e studi
+### ARTICOLO 9 - Statistiche e studi
 
 Il Consiglio:
 
@@ -271,7 +271,7 @@ e) Procede a uno studio di altri mezzi destinati a completare o a sostituire le 
 
 ## CAPITOLO V: - ORGANIZZAZIONE E AMMINISTRAZIONE
 
-#### ARTICOLO 10 - Presidente esecutivo e Vicepresidente del Consiglio
+### ARTICOLO 10 - Presidente esecutivo e Vicepresidente del Consiglio
 
 a) Il Consiglio, alla maggioranza ripartita dei due terzi e con scheda scritta, designa un Presidente esecutivo indipendente, che puo' avere la cittadinanza di uno dei paesi partecipanti. La designazione del Presidente esecutivo sara' iscritta all'ordine del giorno della prima sessione ordinaria che il Consiglio terra' dopo l'entrata in vigore del presente Accordo.
 
@@ -289,7 +289,7 @@ g) In caso di dimissione o d'incapacita' permanente del Presidente esecutivo, il
 
 h) Quando un Vicepresidente agisce in qualita' di Presidente esecutivo non partecipa al voto; il diritto di voto del paese che egli rappresenta puo' essere esercitato conformemente alle disposizioni del comma ii) del paragrafo b) dell'articolo 4 e del paragrafo c) dell'articolo 14.
 
-#### ARTICOLO 11 - Sessioni del Consiglio
+### ARTICOLO 11 - Sessioni del Consiglio
 
 a) Il Consiglio tiene quattro sessioni ordinarie l'anno. Il Consiglio puo' anche, se necessario, tenere delle sessioni straordinarie.
 
@@ -301,7 +301,7 @@ d) Salvo decisione contraria del Consiglio, le sessioni hanno luogo presso la se
 
 e) A ciascuna sessione o seduta del Consiglio, il quorum e' reputato raggiunto quando i delegati presenti detengono i due terzi del totale dei voti di tutti i paesi produttori e i due terzi del totale dei voti di tutti i paesi consumatori. Se in una qualunque sessione del Consiglio, il quorum suindicato non e' raggiunto, e' convocata una nuova sessione dopo un termine di almeno sette giorni; in questa nuova sessione il quorum sara' reputato raggiunto se i delegati presenti detengono insieme piu' di 1.000 voti.
 
-#### ARTICOLO 12 - Il personale del Consiglio
+### ARTICOLO 12 - Il personale del Consiglio
 
 a) Il Presidente esecutivo designato conformemente all'articolo 10 e' responsabile davanti al Consiglio dell'amministrazione e dell'esecuzione del presente Accordo, conformemente alle decisioni prese dal Consiglio.
 
@@ -321,7 +321,7 @@ h) Ne' il Presidente esecutivo, ne' il Direttore, ne' il Segretario del Consigli
 
 ## CAPITOLO VI: - RIPARTIZIONE DEI VOTI E PROCEDURA DI VOTO DEL CONSIGLIO
 
-#### ARTICOLO 13 - Percentuali e voti
+### ARTICOLO 13 - Percentuali e voti
 
 a) I paesi produttori detengono insieme 1.000 voti. Ogni paese produttore riceve un numero iniziale di cinque voti; il resto e' diviso tra i paesi produttori in una proporzione per quanto possibile vicina alla percentuale di ciascun paese produttore come indicato all'allegato A o stabilito altrimenti in conformita' del presente articolo.
 
@@ -353,7 +353,7 @@ h) Nella sua prima sessione ordinaria, il Consiglio rivedra' l'allegato B e pubb
 
 i) Quando, in applicazione del paragrafo f) del presente articolo, le percentuali dei paesi produttori sono state proporzionalmente adeguate durante un periodo di controllo deciso dal Consiglio in applicazione dell'articolo 33, il Consiglio pubblica il piu' presto possibile la tabella riveduta delle percentuali che entrera' in vigore, ai fini dell'articolo 33, a decorrere dal primo giorno del trimestre successivo al periodo nel corso del quale e' stata presa la decisione di rivedere le percentuali.
 
-#### ARTICOLO 14 - Procedura di voto del Consiglio
+### ARTICOLO 14 - Procedura di voto del Consiglio
 
 a) Il voto emesso da ciascun membro del Consiglio esprime il numero di voti che esso detiene nel Consiglio. Nel votare, un delegato non puo' scindere i suoi voti. Un delegato che si astiene e' considerato come se non avesse votato.
 
@@ -363,7 +363,7 @@ c) Ogni membro puo', nelle forme che saranno approvate dal Consiglio, autorizzar
 
 ## CAPITOLO VII: - PRIVILEGI E IMMUNITA'
 
-#### ARTICOLO 15 - Privilegi e immunita
+### ARTICOLO 15 - Privilegi e immunita
 
 a) In ciascun paese partecipante vengono concesse al Consiglio tutte le agevolazioni di cambio necessarie all'esercizio delle funzioni che gli incombono in virtu' del presente Accordo.
 
@@ -373,11 +373,11 @@ c) In ciascun paese partecipante il Consiglio fruisce, per quanto la legislazion
 
 d) Lo statuto, i privilegi e le immunita' del Consiglio nel territorio del Regno Unito continueranno ad essere oggetto della Convenzione di stabilimento firmata a Londra il 9 febbraio 1972 tra il Governo del Regno Unito di Gran Bretagna e dell'Irlanda del Nord e il Consiglio internazionale dello stagno.
 
-## DISPOSIZIONI FINANZIARIE - CAPITOLO VIII:
+## DISPOSIZIONI FINANZIARIE
 
-### CONTI E VERIFICA DEI CONTI
+## CAPITOLO VIII: - CONTI E VERIFICA DEI CONTI
 
-#### ARTICOLO 16 - Conti funzionari
+### ARTICOLO 16 - Conti funzionari
 
 a) i) Per l'amministrazione e l'esecuzione del presente Accordo vengono tenuti due conti: il conto amministrativo e il conto della scorta regolatrice.
 
@@ -389,11 +389,11 @@ iv) L'imputazione al conto della scorta regolatrice di qualsiasi altra categoria
 
 b) Il Consiglio non e' responsabile delle spese sostenute dai delegati presso il Consiglio o dai loro supplenti e consiglieri.
 
-#### ARTICOLO 17 - Contributi in contanti - monete di pagamento
+### ARTICOLO 17 - Contributi in contanti - monete di pagamento
 
 Il versamento in contanti dei paesi partecipanti nel conto amministrativo in virtu' degli articoli 19 e 58, i versamenti in contanti dei paesi contribuenti nel conto della scorta regolatrice in virtu' degli articoli 21, 22 e 23, i versamenti in contanti dal conto amministrativo ai paesi partecipanti in virtu' dell'articolo 58 e i versamenti in contanti dal conto della scorta regolatrice ai paesi contribuenti in virtu' degli articoli 21, 22, 23 e 25 sono calcolati in lire sterline e fatti in lire sterline o, a scelta del paese interessato, il loro controvalore puo' essere versato al tasso di cambio in vigore alla data del pagamento in qualsiasi moneta liberamente convertibile in lire sterline sul mercato dei cambi a Londra.
 
-#### ARTICOLO 18 - Verifica dei conti
+### ARTICOLO 18 - Verifica dei conti
 
 a) Il Consiglio nomina dei verificatori di conti che sono incaricati di verificare i suoi libri contabili.
 
@@ -401,7 +401,7 @@ b) Il Consiglio pubblica, al piu' presto possibile dopo la chiusura di ogni eser
 
 ## CAPITOLO IX: - IL CONTO AMMINISTRATIVO
 
-#### ARTICOLO 19 - Il bilancio
+### ARTICOLO 19 - Il bilancio
 
 a) Il Consiglio approvera', nella prima sessione ordinaria che terra' dopo l'entrata in vigore del presente Accordo, il bilancio dei contributi e delle spese corrispondenti al conto amministrativo per il periodo che intercorre tra la data dell'entrata in vigore del presente Accordo e la fine del primo esercizio finanziario. In seguito, esso approva un bilancio annuo analogo per ogni esercizio finanziarie. Qualora ad un momento qualsiasi nel corso di un esercizio finanziario, il saldo restante nel conto amministrativo appaia, a causa di circostanze impreviste che si sono verificate o che rischiano di verificarsi, insufficiente per far fronte alle spese amministrative del Consiglio, quest'ultimo puo' approvare il bilancio supplementare necessario per il resto di detto esercizio.
 
@@ -411,7 +411,7 @@ c) Ogni paese partecipante che entro i sei mesi successivi alla data in cui e' s
 
 ## CAPITOLO X: - IL CONTO DELLA SCORTA REGOLATRICE
 
-#### ARTICOLO 20 - Costituzione della scorta regolatrice
+### ARTICOLO 20 - Costituzione della scorta regolatrice
 
 a) Sara' costituita una scorta regolatrice il cui importo totale sara' composto dei contributi versati dai paesi produttori conformemente alle disposizioni dell'articolo 21 e dai contributi versati dai paesi consumatori conformemente alle disposizioni dell'articolo 22.
 
@@ -419,7 +419,7 @@ b) Le risorse della scorta regolatrice possono essere completate mediante presti
 
 c) Ai fini del presente articolo, ogni quota di un contributo versato in contanti e' considerata equivalente alla quantita' di stagnometallo che avrebbe potuto essere acquistata al prezzo minimo esistente alla data in cui tale quota e' stata richiesta conformemente alle disposizioni dell'articolo 21 o versata come contributo in applicazione dell'articolo 22.
 
-#### ARTICOLO 21 - Contributi dei paesi produttori
+### ARTICOLO 21 - Contributi dei paesi produttori
 
 a) i) I paesi produttori versano alla scorta regolatrice dei contributi o in contanti o in stagno-metallo o contemporaneamente di entrambi pari all'equivalente di 20.000 tonnellate di stagno-metallo;
 
@@ -453,7 +453,7 @@ f) I contributi di stagno-metallo possono essere accettati dal Direttore nei dep
 
 Le qualita' di stagno consegnate sono qualita' registrate presso la Borsa dei metalli di Londra e da essa riconosciute.
 
-#### ARTICOLO 22 - Contributi addizionali
+### ARTICOLO 22 - Contributi addizionali
 
 a) I paesi consumatori possono, a condizioni stabilite dal Consiglio, versare alla scorta regolatrice dei contributi in contanti o in stagno-metallo o in entrambi contemporaneamente, fino ad un importo addizionale equivalente a 20.000 tonnellate di stagno-metallo. Nonostante le condizioni che saranno state imposte in applicazione del presente paragrafo, il Consiglio puo' rimborsare al paese che ha versato un contributo alla scorta regolatrice in applicazione del presente paragrafo tutto o parte di tale contributo.
 
@@ -465,7 +465,7 @@ c) Il Presidente esecutivo rende noto ai paesi partecipanti il ricevimento di og
 
 d) Allo scadere di un termine di 30 mesi civili dopo l'entrata in vigore del presente Accordo, il Consiglio fara' il bilancio dei risultati ottenuti concernenti i contributi addizionali di cui ai paragrafi a) e b) del presente articolo e potra' decidere di far convocare una conferenza di negoziazione nei sei mesi successivi alla data della decisione del Consiglio ai fini di emendare il presente Accordo, in tutto o in parte, mediante un Protocollo o qualsiasi altro strumento internazionale appropriato. Se prende questa decisione, il Consiglio chiedera' al Segretario generale dell'Organizzazione delle Nazioni Unite di convocare tale Conferenza di negoziazione.
 
-#### ARTICOLO 23 - Penalita' relative ai contributi
+### ARTICOLO 23 - Penalita' relative ai contributi
 
 a) Il Consiglio stabilisce le penalita' da applicare nei confronti dei paesi che non abbiano soddisfatto gli obblighi che incombono loro ai sensi del comma v) del paragrafo a) dell'articolo 21.
 
@@ -481,7 +481,7 @@ ii) Ripristinare i diritti e i privilegi del paese interessato; e iii) Rimborsar
 
 b) del presente articolo con un interesse il cui tasso sara' fissato dal Consiglio, tenuto conto dei tassi d'interesse praticati sul piano internazionale, restando inteso che per la parte del contributo supplementare effettuato in stagno-metallo, l'interesse e' calcolato sulla base di un prezzo adeguato dello stagno-metallo alla data della decisione presa dal Consiglio in applicazione del paragrafo b) del presente articolo su un mercato riconosciuto convenuto dal Consiglio. Se tali rimborsi o parte di essi sono effettuati in stagno-metallo, il Consiglio puo' porre le condizioni che ritiene necessarie.
 
-#### ARTICOLO 24 - Prestiti contratti per la scorta regolatrice
+### ARTICOLO 24 - Prestiti contratti per la scorta regolatrice
 
 a) Il Consiglio puo', per le necessita' della scorta regolatrice e con la garanzia dei "warrants" di stagno detenuti da detta scorta, contrarre prestiti per le somme che ritiene necessarie, restando inteso che l'importo massimo di tali prestiti nonche' le modalita' e condizioni alle quali essi sono concessi, saranno stati approvati a maggioranza dei suffragi espressi dai paesi consumatori e all'unanimita' dei suffragi espressi dai paesi produttori.
 
@@ -495,7 +495,7 @@ e) Qualora le risorse finanziarie fossero messe direttamente a disposizione del 
 
 ## CAPITOLO XI: - LIQUIDAZIONE DELLA SCORTA REGOLATRICE
 
-#### ARTICOLO 25 - Procedura di liquidazione
+### ARTICOLO 25 - Procedura di liquidazione
 
 a) Tutte le operazioni della scorta regolatrice previste agli articoli 28, 29, 30 e 31, oppure al paragrafo b) dell'articolo 26 cesseranno alla data in cui il presente accordo prendera' fine. Il Direttore non procedera' piu' in seguito a nuovi acquisti di stagno-metallo e potra' vendere stagno-metallo soltanto se le disposizioni dei paragrafi b), c) o i) del presente articolo lo autorizzano.
 
@@ -535,17 +535,17 @@ ii) Su richiesta del paese contribuente, la quantita' di stagno corrispondente a
 
 j) Quando la totalita' dello stagno-metallo sara' stata liquidata conformemente alle disposizioni del paragrafo i) del presente articolo, il Direttore suddividera' tra i paesi contribuenti, secondo le proporzioni attribuite a ciascuno di essi conformemente al paragrafo c) del presente articolo, l'eventuale saldo della somma accantonata in riserva conformemente ai paragrafi e) e f) del presente articolo.
 
-#### ARTICOLO 26 - Liquidazione della scorta regolatrice e controllo delle esportazioni
+### ARTICOLO 26 - Liquidazione della scorta regolatrice e controllo delle esportazioni
 
 a) Quando, conformemente alle disposizioni dell'articolo 32, fissa il quantitativo totale delle esportazioni autorizzate per un periodo di controllo qualsiasi, il Consiglio decide, tenendo conto dell'esame effettuato per l'eventuale rinnovo del presente Accordo conformemente al paragrafo c) dell'articolo 57, se e' necessario ridurre la quantita' di stagnometallo detenuta a tale data nella scorta regolatrice. In tal caso, il quantitativo totale delle esportazioni autorizzate potra' essere fissato al livello inferiore alla cifra alla quale il Consiglio, in altre circostanze, avrebbe fissato il quantitativo totale delle esportazioni autorizzate per il periodo suddetto che verra' deciso dal Consiglio.
 
 b) Nel quadro delle istruzioni del Consiglio, il Direttore potra' prelevare dalla scorta regolatrice per venderli ad un prezzo qualsiasi ma non inferiore al prezzo minimo, delle quantita' di stagno-metallo pari alle quantita' di cui il Consiglio avra' ridotto, conformemente alle disposizioni del paragrafo a) del presente articolo, i quantitativi totali delle esportazioni autorizzate.
 
-## DISPOSIZIONI ECONOMICHE - CAPITOLO XII:
+## DISPOSIZIONI ECONOMICHE
 
-### PREZZO MINIMO E PREZZO MASSIMO
+## CAPITOLO XII: - PREZZO MINIMO E PREZZO MASSIMO
 
-#### ARTICOLO 27 - Prezzo minimo e prezzo massimo
+### ARTICOLO 27 - Prezzo minimo e prezzo massimo
 
 a) Ai fini del presente Accordo e' istituito per lo stagno-metallo un prezzo minimo e un prezzo massimo che saranno espressi in dollari della Malaysia o in qualsiasi altra moneta che il Consiglio potra' decidere. Il margine tra il prezzo minimo e il prezzo massimo sara' diviso in tre quote.
 
@@ -561,7 +561,7 @@ e) Il Consiglio pubblichera', non appena possibile, i prezzi minimo o massimo ri
 
 ## CAPITOLO XIII: - DIREZIONE DELLE OPERAZIONI DELLA SCORTA REGOLATRICE
 
-#### ARTICOLO 28 - Funzionamento della scorta regolatrice
+### ARTICOLO 28 - Funzionamento della scorta regolatrice
 
 a) Conformemente all'articolo 12 e nell'ambito delle disposizioni del presente Accordo e delle istruzioni del Consiglio, il Direttore e' responsabile dinnanzi al Presidente esecutivo del funzionamento della scorta regolatrice.
 
@@ -583,7 +583,7 @@ d) Ai fini del presente articolo, i mercati riconosciuti sono reputati essere il
 
 e) Il Direttore non puo', ai sensi del paragrafo c) del presente articolo, effettuare operazioni a termine che non siano liquidate prima della data in cui scade il presente Accordo o prima di qualsiasi altra data dopo la scadenza del presente Accordo, secondo come decidera' il Consiglio.
 
-#### ARTICOLO 29 - Limitazione o sospensione delle operazioni della scorta regolatrice
+### ARTICOLO 29 - Limitazione o sospensione delle operazioni della scorta regolatrice
 
 a) Nonostante le disposizioni dei commi ii) e iv) del paragrafo c) dell'articolo 28, il Consiglio puo' limitare o sospendere le operazioni a termine sullo stagno quando lo ritiene necessario per conseguire gli obiettivi del presente Accordo.
 
@@ -601,7 +601,7 @@ Se il Consiglio non prende una decisione, le operazioni della scorta regolatrice
 
 g) Fino a quando una limitazione o una sospensione, delle operazioni della scorta regolatrice, decise in virtu' del presente articolo, rimane in vigore, il Consiglio deve riesaminare questa decisione ad intervalli non superiori a sei settimane. Se nel corso di una sessione organizzata a tale scopo il Consiglio non si pronuncia per il mantenimento della limitazione o della sospensione, le operazioni della scorta regolatrice riprendono.
 
-#### ARTICOLO 30 - Altre operazioni della scorta regolatrice
+### ARTICOLO 30 - Altre operazioni della scorta regolatrice
 
 a) Il Consiglio puo' autorizzare il Direttore ad acquistare stagno proveniente da una scorta governativa non commerciale o a vendere stagno a tale scorta o per conto di questa. Il Consiglio puo' anche autorizzare il Direttore ad acquistare stagno dai Paesi contribuenti alla scorta regolatrice del quarto Accordo sulla loro parte della liquidazione della scorta regolatrice conformemente a detto Accordo.
 
@@ -609,7 +609,7 @@ Le disposizioni del paragrafo c) dell'articolo 28 non sono applicabili all'acqui
 
 b) Nonostante le disposizioni degli articoli 28 e 29, il Consiglio puo' autorizzare il Direttore, qualora quest'ultimo non disponga di fondi sufficienti per far fronte alle spese di esecuzione risultanti dalle sue operazioni, a vendere al prezzo corrente le quantita' di stagno necessarie per coprire tali spese.
 
-#### ARTICOLO 31 - La scorta regolatrice e le modifiche dei tassi di cambio
+### ARTICOLO 31 - La scorta regolatrice e le modifiche dei tassi di cambio
 
 a) Il Presidente esecutivo puo', di sua iniziativa, o deve, su richiesta di un paese partecipante, convocare immediatamente il Consiglio per esaminare i prezzi minimi e massimi se egli o il Paese partecipante ritengono, a seconda dei casi, che delle modifiche dei tassi di cambio rendano tale revisione necessaria. Le sessioni di cui al presente paragrafo possono essere convocate con un preavviso inferiore a sette giorni.
 
@@ -627,7 +627,7 @@ g) Le operazioni della scorta regolatrice riprendono, conformemente alle disposi
 
 ## CAPITOLO XIV: - CONTROLLO DELLE ESPORTAZIONI
 
-#### ARTICOLO 32 - Modalita' del controllo delle esportazioni
+### ARTICOLO 32 - Modalita' del controllo delle esportazioni
 
 a) Il Consiglio puo' occasionalmente fissare le quantita' di stagno che possono essere esportate dai Paesi produttori conformemente al presente articolo e puo' dichiarare un periodo di controllo; con la stessa decisione fissa il quantitativo totale delle esportazioni autorizzate per detto periodo di controllo. Nel determinare tale quantitativo, il Consiglio tiene conto delle stime di produzione e di consumo effettuate in applicazione del paragrafo a) dell'articolo 9, delle quantita' di metallo e di contanti detenute nella scorta regolatrice, del volume, della disponibilita' e dell'evoluzione probabile delle altre scorte di stagno, del commercio dello stagno, e del prezzo corrente dello stagno-metallo e di ogni altro fattore pertinente.
 
@@ -641,7 +641,7 @@ e) Un quantitativo totale di esportazioni autorizzate, fissate in precedenza ai 
 
 f) Quando il Consiglio, conformemente alle disposizioni del paragrafo a) del presente articolo, ha dichiarato un periodo di controllo e fissato il quantitativo totale delle esportazioni autorizzate per detto periodo, esso puo' contemporaneamente invitare ogni paese che sfrutta nel suo territorio o nei suoi territori miniere di stagno, ad applicare durante detto periodo alle esportazioni di stagno che esso effettuera' sulla sua produzione, una limitazione la cui entita' sara' stabilita di comune accordo tra il Consiglio e il paese interessato. Il Consiglio puo' anche consultarsi con i paesi consumatori di stagno per rendere piu' efficace il controllo degli approvvigionamenti di stagno sui mercati internazionali.
 
-#### ARTICOLO 33 - Periodi di controllo
+### ARTICOLO 33 - Periodi di controllo
 
 a) I periodi di controllo corrispondono a trimestri, rimanendo inteso che, ogni volta che la limitazione delle esportazioni e' stabilita per la prima volta nel corso della durata di applicazione del presente Accordo o e' nuovamente stabilita dopo un intervallo durante il quale le esportazioni non sono state limitate, il Consiglio puo' dichiarare periodo di controllo qualsiasi periodo non superiore a cinque mesi e non inferiore a due mesi, con scadenza il 31 marzo, il 30 giugno, il 30 settembre o il 31 dicembre.
 
@@ -663,7 +663,7 @@ i) Si riterra' che un periodo di controllo con inizio alla data di entrata in vi
 
 ii) Il quantitativo totale delle esportazioni autorizzate per detto periodo di controllo sara' allo stesso livello trimestrale di quello che e' stato fissato in virtu' del quarto Accordo per l'ultimo trimestre del periodo di applicazione di detto Accordo a meno che e sino a quando tale quantitativo venga modificato dal Consiglio conformemente alle disposizioni dell'articolo 32: rimanendo inteso che, se, al momento della prima sessione ordinaria tenuta dal Consiglio conformemente al presente Accordo, il quantitativo detenuto nella scorta regolatrice e' inferiore a 10.000 tonnellate, il Consiglio esaminera' la situazione durante la sua prima sessione ordinaria e che se non verra' adottata la decisione di prorogare il periodo di controllo, il periodo in questione cessera' di essere periodo di controllo.
 
-#### ARTICOLO 34 - Ripartizione del quantitativo totale delle esportazioni autorizzate
+### ARTICOLO 34 - Ripartizione del quantitativo totale delle esportazioni autorizzate
 
 a) Il quantitativo totale delle esportazioni autorizzate per un periodo qualsiasi di controllo e' suddiviso tra i paesi produttori proporzionalmente alla cifra della loro produzione o delle loro esportazioni, secondo il caso, per i quattro ultimi trimestri consecutivi che hanno preceduto il periodo di controllo e che non sono stati dichiarati periodo di controllo. Nella ripartizione del quantitativo totale delle esportazioni autorizzate effettuata conformemente al presente paragrafo, il Consiglio tiene debitamente conto di tutte le circostanze di cui alla regola 6 dell'allegato F o di tutte le circostanze definite eccezionali da un paese produttore in applicazione della regola 9 dell'allegato F, e puo', con il consenso degli altri paesi produttori, utilizzare per il paese interessato la cifra della sua produzione o delle sue esportazioni, secondo il caso, per un altro periodo determinato dal Consiglio.
 
@@ -681,7 +681,7 @@ ii) Se il Consiglio ha ricevuto una tale dichiarazione o se ritiene che un paese
 
 e) Ai fini del presente articolo, il Consiglio puo' decidere che le esportazioni di stagno di un paese produttore comprendano lo stagno contenuto in una materia qualunque proveniente dalla produzione mineraria di detto paese.
 
-#### ARTICOLO 35 - Luogo di esportazione
+### ARTICOLO 35 - Luogo di esportazione
 
 Si ritiene che lo stagno sia stato esportato se, per un paese di cui all'allegato C, le formalita' indicate in detto allegato e inerenti al nome del paese considerato sono state adempiute, rimanendo inteso che:
 
@@ -689,7 +689,7 @@ i) Il Consiglio puo' periodicamente rivedere l'allegato C con il consenso del pa
 
 ii) Se un paese produttore esporta stagno in condizioni diverse da quelle considerate all'allegato C, il Consiglio decide se ritenere che tale stagno sia stato esportato ai fini del presente Accordo e, in caso affermativo, fissa la data in cui si presume che tale esportazione abbia avuto luogo.
 
-#### ARTICOLO 36 - Penalita' relative al controllo delle esportazioni
+### ARTICOLO 36 - Penalita' relative al controllo delle esportazioni
 
 a) i) Le esportazioni nette di stagno di ciascun paese produttore durante ogni periodo di controllo sono limitate, salvo disposizione contraria del presente Accordo, al quantitativo delle esportazioni autorizzate del predetto paese durante tale periodo di controllo;
 
@@ -703,7 +703,7 @@ v) Il paese produttore che ha esportato una quantita' di stagno superiore al suo
 
 b) Ai fini dei commi ii), iii) e iv) del paragrafo a) del presente articolo, tutti i periodi di controllo per i quali sono stati fissati quantitativi totali di esportazioni autorizzate, tutte le quantita' esportate in eccedenza di detti quantitativi di esportazioni autorizzate e ogni penalita' imposta ai sensi dell'articolo 33 del quarto Accordo, saranno, a decorrere dalla data di entrata in vigore del presente Accordo, considerati come fissati, esportati o imposti in virtu' del presente articolo
 
-#### ARTICOLO 37 - Esportazioni speciali
+### ARTICOLO 37 - Esportazioni speciali
 
 a) In qualsiasi momento il Consiglio, dopo aver dichiarato un periodo di controllo, puo', a maggioranza ripartita dei due terzi, autorizzare l'esportazione (qui di seguito denominata "esportazione speciale") di una quantita' determinata di stagno in supplemento al quantitativo menzionato al paragrafo a) dell'articolo 34 a condizione che esso consideri:
 
@@ -719,7 +719,7 @@ c) Se sono soddisfatte le condizioni di cui all'articolo 39 e le condizioni impo
 
 d) A maggioranza ripartita dei due terzi, il Consiglio puo' modificare in qualsiasi momento le condizioni di cui al paragrafo a) del presente articolo; resta inteso che detta modifica non deve pregiudicare nessuna delle operazioni effettuate da un paese in virtu' di una autorizzazione ricevuta, ne' le condizioni gia' imposte ai sensi del paragrafo b) del presente articolo.
 
-#### ARTICOLO 38 - Depositi speciali
+### ARTICOLO 38 - Depositi speciali
 
 a) Un paese produttore puo' effettuare in qualsiasi momento, previo accordo del Consiglio, depositi speciali di stagno-metallo presso il Direttore. Un deposito speciale non si considera parte della scorta regolatrice; esso non e' a disposizione del Direttore.
 
@@ -735,7 +735,7 @@ f) Durante ogni trimestre che non sia stato dichiarato periodo di controllo, un 
 
 g) Tutte le spese derivanti da un deposito speciale spettano al paese che lo ha effettuato e non sono a carico del Consiglio.
 
-#### ARTICOLO 39 - Scorte nei paesi produttori
+### ARTICOLO 39 - Scorte nei paesi produttori
 
 a) i) Le scorte di stagno di un paese produttore che non siano state esportate ai sensi della definizione che l'allegato C da' per tale paese non possono superare in nessun momento, durante un periodo di controllo, il quantitativo indicato per tale paese nell'allegato D;
 
@@ -761,7 +761,7 @@ h) Ogni paese che possiede depositi speciali in virtu' dell'articolo 38 o che si
 
 ## CAPITOLO XV: - PENURIA DI STAGNO
 
-#### ARTICOLO 40 - Misure da adottare in caso di penuria di stagno
+### ARTICOLO 40 - Misure da adottare in caso di penuria di stagno
 
 a) Qualora, in un qualsiasi momento in cui il prezzo si trovi nella quota superiore o al di sotto, il Consiglio ritenga che esista o che rischi di prodursi una grave penuria di stagno, il Consiglio
 
@@ -783,11 +783,11 @@ f) Il Consiglio puo' rivolgere raccomandazioni ai paesi produttori in merito all
 
 g) Il Consiglio, durante ciascuna delle sessioni che terra' durante il periodo di validita' del presente articolo, esaminera' il risultato delle misure prese in applicazione di detto articolo dopo l'ultima sessione.
 
-## ALTRE DISPOSIZIONI - CAPITOLO XVI:
+## ALTRE DISPOSIZIONI
 
-### DISPOSIZIONI VARIE
+## CAPITOLO XVI: - DISPOSIZIONI VARIE
 
-#### ARTICOLO 41 - Obblighi generali dei membri
+### ARTICOLO 41 - Obblighi generali dei membri
 
 a) Per tutta la durata d'applicazione del presente Accordo i paesi partecipanti faranno i massimi sforzi per favorire la realizzazione degli obiettivi dell'Accordo e collaboreranno a tal fine.
 
@@ -801,11 +801,11 @@ ii) Essi creeranno condizioni favorevoli al passaggio della produzione di stagno
 
 iii) Essi favoriranno il mantenimento delle risorse naturali di stagno, impedendo l'abbandono prematuro dei giacimenti.
 
-#### ARTICOLO 42 - Eque norme di lavoro
+### ARTICOLO 42 - Eque norme di lavoro
 
 I paesi partecipanti dichiarano che, per evitare l'abbassamento del tenore di vita e l'instaurazione nel commercio mondiale di condizioni di sleale concorrenza, essi avranno cura di garantire nell'industria dello stagno eque norme di lavoro.
 
-#### ARTICOLO 43 - Liquidazione delle scorte di stagno costituite a fini non commerciali
+### ARTICOLO 43 - Liquidazione delle scorte di stagno costituite a fini non commerciali
 
 a) Un paese partecipante che desideri liquidare scorte di stagno costituite a fini non commerciali deve consultare in proposito il Consiglio con sufficiente preavviso.
 
@@ -815,7 +815,7 @@ c) Il Consiglio esamina periodicamente lo stato delle operazioni di liquidazione
 
 d) Le operazioni di liquidazione delle scorte costituite a fini non commerciali sono effettuate tenendo debitamente conto della necessita' di proteggere per quanto possibile i produttori, i trasformatori ed i consumatori di stagno dalla disorganizzazione dei loro mercati abituali e dalle conseguenze pregiudizievoli che la liquidazione puo' avere sull'investimento di capitali destinati alla ricerca e allo sfruttamento di nuove fonti di approvvigionamento, nonche' sulla prosperita' e l'espansione dell'industria mineraria dello stagno nei paesi produttori. Gli importi e la durata delle operazioni di liquidazione saranno tali da non ostacolare indebitamente nei paesi produttori la produzione e l'occupazione nell'industria dello stagno e da non ledere gravemente l'economia dei paesi produttori partecipanti.
 
-#### ARTICOLO 44 - Sicurezza nazionale
+### ARTICOLO 44 - Sicurezza nazionale
 
 a) Nessuna disposizione del presente Accordo sara' interpretata:
 
@@ -835,7 +835,7 @@ d) Ricevuta la denuncia, il Consiglio procedera' ad un esame dei fatti e decider
 
 ## CAPITOLO XVII: - DENUNCE E CONTROVERSIE
 
-#### ARTICOLO 45 - Denunce
+### ARTICOLO 45 - Denunce
 
 a) Qualsiasi denuncia contro un paese partecipante che abbia commesso un'infrazione al presente Accordo in merito alla quale esso non contiene nessuna disposizione, sara' deferita, per decisione, al Consiglio su richiesta del paese querelante.
 
@@ -845,7 +845,7 @@ c) Se ai termini del presente articolo, il Consiglio constata che un paese parte
 
 d) Ai fini del presente articolo, l'espressione "infrazione al presente Accordo" comprende ogni infrazione ad una qualsiasi condizione imposta dal Consiglio od ogni mancanza nel soddisfare gli obblighi imposti dal Consiglio ad un paese partecipante conformemente all'Accordo.
 
-#### ARTICOLO 46 - Controversie
+### ARTICOLO 46 - Controversie
 
 a) Qualsiasi controversia concernente l'interpretazione o l'applicazione dell'Accordo che non possa essere risolta mediante negoziato e' deferita, per decisione, al Consiglio su richiesta di qualsiasi paese partecipante.
 
@@ -867,15 +867,15 @@ d) L'opinione motivata del Comitato consultivo e' presentata all'esame del Consi
 
 ## CAPITOLO XVIII: - DISPOSIZIONI FINALI
 
-#### ARTICOLO 47 - Firma
+### ARTICOLO 47 - Firma
 
 Il presente Accordo sara' presentato alla sede dell'Organizzazione delle Nazioni Unite dal 1 luglio 1975 al 30 aprile 1976 incluso, alla firma delle Parti al quarto Accordo internazionale sullo stagno e dei governi invitati alla conferenza delle Nazioni Unite sullo stagno, 1975.
 
-#### ARTICOLO 48 - Ratifica, approvazione, accettazione
+### ARTICOLO 48 - Ratifica, approvazione, accettazione
 
 Il presente Accordo e soggetto a ratifica, approvazione o accettazione da parte dei governi firmatari conformemente alla loro procedura costituzionale. Un governo firmatario che ha l'intenzione di ratificare, approvare o accettare il presente Accordo puo' dichiarare la sua intenzione di farlo. Gli strumenti di ratifica, approvazione o accettazione e le dichiarazioni di intenzione di ratificare, approvare o accettare saranno depositate presso il Segretario generale dell'Organizzazione delle Nazioni Unite.
 
-#### ARTICOLO 49 - Entrata in vigore definitiva
+### ARTICOLO 49 - Entrata in vigore definitiva
 
 a) Per i governi che abbiano depositato gli strumenti di ratifica, di approvazione, di accettazione o di adesione, il presente Accordo entrera' in vigore a titolo definitivo a decorrere dal momento in cui dopo il 30 giugno 1976, detti strumenti saranno stati depositati dai governi rappresentanti almeno sei dei paesi produttori che detengano insieme almeno 950 dei voti la cui ripartizione e' indicata all'allegato A ed almeno nove dei paesi consumatori che detengano insieme almeno 300 dei voti la cui ripartizione indicata all'allegato B.
 
@@ -883,7 +883,7 @@ b) Per ogni governo che depositi uno strumento di ratifica, di approvazione, di 
 
 c) Se l'Accordo e' entrato in vigore a titolo provvisorio conformemente alle disposizioni del paragrafo a) dell'articolo 50, esso entrera' in vigore a titolo definitivo per i governi dei paesi che soddisfano le condizioni di cui al paragrafo a) del presente articolo, a decorrere dal momento in cui gli strumenti di ratifica, approvazione, accettazione o adesione saranno stati depositati da detti governi.
 
-#### ARTICOLO 50 - Entrata in vigore provvisoria
+### ARTICOLO 50 - Entrata in vigore provvisoria
 
 a) i) Se il presente Accordo non e' entrato definitivamente in vigore il 1 luglio 1976 o se il quarto Accordo e' prorogato, il giorno successivo alla scadenza del quarto Accordo, il presente Accordo entrera' in vigore a titolo provvisorio per i governi che abbiano gia' depositato gli strumenti di ratifica, di approvazione, di accettazione o di adesione o che abbiano comunicato l'intenzione di ratificare, di approvare o di accettare l'Accordo o di aderirvi, a condizione che detti strumenti o dette dichiarazioni siano state depositate dai governi rappresentanti almeno sei dei paesi produttori che detengano insieme almeno 950 dei voti la cui ripartizione e' indicata all'allegato A e almeno nove dei paesi consumatori che detengano insieme almeno 300 dei voti la cui ripartizione e' indicata all'allegato B.
 
@@ -891,7 +891,7 @@ ii) Per ogni governo che avra' depositato uno strumento di ratifica, di approvaz
 
 b) Se il presente Accordo e' entrato in vigore a titolo provvisorio, ma non definitivamente ai sensi dell'articolo 49, nei sei mesi successivi allo scadere del quarto Accordo, il Presidente esecutivo convochera' al piu' presto possibile una o piu' sessioni del Consiglio per esaminare la situazione. Tuttavia se l'entrata in vigore rimane provvisoria, l'Accordo verra' a scadere al piu' tardi un anno dopo l'entrata in vigore a titolo provvisorio.
 
-#### ARTICOLO n. 51 - Scadenza delle dichiarazioni d'intenzione
+### ARTICOLO n. 51 - Scadenza delle dichiarazioni d'intenzione
 
 Se il presente Accordo e' entrato in vigore a titolo definitivo conformemente alle disposizioni del paragrafo a) o del paragrafo c) dell'articolo 49 o se un governo che abbia dichiarato la propria intenzione di ratificare, di approvare e di accettare l'Accordo o di aderirvi, non deposita lo strumento di ratifica, di approvazione, di accettazione o di adesione entro novanta giorni a decorrere dalla data dell'entrata in vigore definitiva, detto governo cessera' di far parte dell'Accordo restando inteso che:
 
@@ -899,7 +899,7 @@ i) Il Consiglio potra' prorogare, su richiesta del governo interessato, il termi
 
 ii) Che detto governo potra' cessare di far parte dell'Accordo prima della scadenza del termine di cui sopra o del suo periodo di proroga, mediante un preavviso di almeno trenta giorni dato al Segretario generale dell'Organizzazione delle Nazioni Unite.
 
-#### ARTICOLO 52 - Adesione
+### ARTICOLO 52 - Adesione
 
 a) Ogni governo invitato alla Conferenza delle Nazioni Unite sullo stagno, 1975, o ogni partecipante al quarto Accordo avra' il diritto di aderire al presente Accordo alle condizioni che fissera' il Consiglio. Negli strumenti di adesione che essi depositeranno, tali governi dichiareranno di accettare tutte queste condizioni.
 
@@ -917,17 +917,17 @@ e) Il Consiglio istituito in virtu' del quarto Accordo puo', in attesa dell'entr
 
 f) L'adesione avra' luogo tramite il deposito di uno strumento di adesione presso il Segretario generale delle Nazioni Unite.
 
-#### ARTICOLO 53 - Partecipazione separata
+### ARTICOLO 53 - Partecipazione separata
 
 Un governo, quando deposita lo strumento di ratifica, di approvazione, di accettazione o di adesione o quando notifica la sua intenzione di ratificare, di approvare o di accettare il presente Accordo o di aderirvi, o in ogni momento successivo, puo' proporre la partecipazione separata in qualita' di paese produttore o in qualita' di paese consumatore, secondo il caso, di ogni territorio o di territori interessati alla produzione o al consumo di stagno per i quali questo governo assume le relazioni internazionali e al quale l'Accordo e' o sara' applicabile quando entrera' in vigore. Tale partecipazione separata sara' sottoposta all'approvazione del Consiglio e alle condizioni che avra' la facolta' di fissare.
 
-#### ARTICOLO 54 - Organizzazioni intergovernative
+### ARTICOLO 54 - Organizzazioni intergovernative
 
 a) Ogni menzione della parola governo negli articoli 47, 48, 49, 50, 51 e 52 e' considerata riferita a un'organizzazione intergovernativa che abbia responsabilita' per quanto riguarda la negoziazione, la conclusione e l'applicazione di accordi internazionali, in particolare accordi su prodotti di base.
 
 b) Un'organizzazione di questo tipo non ha di per se' diritto di voto, ma in caso di votazione su problemi di sua competenza, e' autorizzata a disporre dei voti dei suoi Stati membri ed a esprimerli collettivamente. In questo caso, gli Stati membri dell'organizzazione in causa non sono autorizzati ad esercitare individualmente i loro diritti di voto.
 
-#### ARTICOLO 55 - Emendamenti
+### ARTICOLO 55 - Emendamenti
 
 a) Il Consiglio, alla maggioranza dei due terzi del totale dei voti di tutti i paesi produttori e alla maggioranza dei due terzi del totale dei voti di tutti i paesi consumatori, puo' raccomandare ai paesi partecipanti di apportare emendamenti al presente Accordo.
 
@@ -953,7 +953,7 @@ g) Qualsiasi emendamento al presente articolo entrera' in vigore soltanto se e' 
 
 h) Le disposizioni del presente articolo non modificano i poteri conferiti dall'Accordo per quanto riguarda la revisione di uno qualsiasi degli allegati all'Accordo e non hanno effetto relativamente all'applicazione di qualsiasi altro articolo del presente Accordo che preveda una procedura specifica per la modifica dell'Accordo.
 
-#### ARTICOLO 56 - Ritiro
+### ARTICOLO 56 - Ritiro
 
 Ogni paese partecipante che si ritira dal presente Accordo nel periodo della sua applicazione non ha diritto a parte alcuna ne' del prodotto della liquidazione della scorta regolatrice ai sensi dell'articolo 25, ne' degli altri attivi del Consiglio alla scadenza dell'Accordo, conformemente alle disposizioni dell'articolo 57, a meno che il ritiro abbia luogo:
 
@@ -963,7 +963,7 @@ i) Conformemente alle disposizioni del paragrafo d) dell'articolo
 
 ii) Mediante preavviso di almeno dodici mesi dato al Segretario generale dell'Organizzazione delle Nazioni Unite dopo il termine minimo di un anno dall'entrata in vigore dell'Accordo.
 
-#### ARTICOLO 57 - Durata, rinnovo o fine
+### ARTICOLO 57 - Durata, rinnovo o fine
 
 a) Salvo disposizioni contrarie previste al presente articolo o al paragrafo b) dell'articolo 50, l'Accordo avra' una durata di cinque anni a decorrere dalla data di entrata in vigore.
 
@@ -977,7 +977,7 @@ ii) Se il Consiglio approva tale proposta alla maggioranza dei due terzi dei vot
 
 iii) Se i paesi partecipanti che detengono i due terzi dei voti di tutti i paesi produttori e i due terzi dei voti di tutti i paesi consumatori notificano al Consiglio di accettare tale raccomandazione, l'Accordo prendera' fine alla data fissata dal Consiglio; tale data non potra' essere posteriore ad un periodo di sei mesi a decorrere dalla, trasmissione al Consiglio dell'ultima notifica da parte di detti paesi partecipanti.
 
-#### ARTICOLO 58 - Procedura da seguire alla fine dell'Accordo
+### ARTICOLO 58 - Procedura da seguire alla fine dell'Accordo
 
 a) Il Consiglio rimarra' in funzione finche' necessario per curare l'applicazione delle disposizioni del paragrafo b) del presente articolo, la liquidazione della scorta regolatrice, nonche' di tutte le scorte detenute nei paesi produttori in virtu' dell'articolo 39 e l'osservanza delle condizioni imposte dal Consiglio in virtu' del presente Accordo o in virtu' del quarto Accordo; il Consiglio avra' i poteri ed esercitera' le funzioni che il presente Accordo gli conferisce nella misura a tale fine necessaria.
 
@@ -997,7 +997,7 @@ vi) Se il Consiglio non e' prorogato e non e' istituito nessun organismo success
 
 vii) Il prodotto del realizzo degli attivi non monetari e tutti gli altri attivi monetari rimanenti saranno allora suddivisi fra tutti i paesi partecipanti proporzionalmente ai contributi complessivi versati da tali paesi sul conto amministrativo tenuto in virtu' dell'articolo 19.
 
-#### ARTICOLO 59 - Testi che fanno fede
+### ARTICOLO 59 - Testi che fanno fede
 
 I testi del presente Accordo in lingua inglese, cinese, spagnola, francese e russa fanno ugualmente fede. I testi originali saranno depositati presso il Segretario generale dell'Organizzazione delle Nazioni Unite.
 
@@ -1005,7 +1005,7 @@ IN FEDE DI CHE, i sottoscritti, debitamente autorizzati a tale scopo dal loro go
 
 (Seguono le firme)
 
-#### Allegato A
+### Allegato A
 
 ALLEGATO A
 
@@ -1013,7 +1013,7 @@ PERCENTUALI E VOTI DEI PAESI PRODUTTORI
 
 Parte di provvedimento in formato grafico
 
-#### Allegato B
+### Allegato B
 
 ALLEGATO B
 
@@ -1021,7 +1021,7 @@ PERCENTUALI E VOTI DEI PAESI CONSUMATORI
 
 Parte di provvedimento in formato grafico
 
-#### Allegato C
+### Allegato C
 
 ALLEGATO C
 
@@ -1075,7 +1075,7 @@ IMPORTAZIONI NEI PAESI PRODUTTORI
 
 Per determinare le esportazioni nette ai sensi dell'articolo 35, le importazioni detraibili dalle esportazioni durante un periodo di controllo saranno costituite dalle quantita' importate nel paese produttore interessato nel corso del trimestre immediatamente precedente la dichiarazione del periodo di controllo in questione, restando inteso che lo stagno importato per essere fuso e riesportato non sara' preso in considerazione.
 
-#### Allegato D
+### Allegato D
 
 ALLEGATO D
 
@@ -1101,7 +1101,7 @@ Tailandia | 5.300
 
 Zaire (Repubblica dello) | 2.000
 
-#### Allegato E
+### Allegato E
 
 ALLEGATO E
 
@@ -1109,7 +1109,7 @@ SCORTE SUPPLEMENTARI NECESSARIAMENTE ESTRATTE
 
 Parte di provvedimento in formato grafico
 
-#### Allegato F
+### Allegato F
 
 ALLEGATO F
 

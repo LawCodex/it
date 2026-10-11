@@ -42,7 +42,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze;
 
 Abbiamo decretato e decretiamo:
 
-### Art. 1
+## Art. 1
 
 L'art. 2 del R. decreto 14 giugno 1923, n. 1281, modificato dall'art. 2 del R. decreto 31 dicembre 1923, n. 3170, e dall'art. 1 del R. decreto-legge 6 maggio 1926, n. 844, e' sostituito come appresso:
 
@@ -124,35 +124,35 @@ Il Regio D.L. 17 marzo 1938, n. 268, convertito senza modificazioni dalla L. 16 
 
 -(con l'art. 3, comma 1) che "Nell'organico dei tenenti e sottotenenti, subalterni, della Regia guardia di finanza, previsti per i servizi d'istituto, fissato dall'art. 1 del R. decreto-legge 25 gennaio 1937, numero 116, convertito in legge 7 giugno 1937, n. 993, sara' mantenuto scoperto un posto, fino al riassorbimento dell'unita' da considerarsi in soprannumero all'organico dei sottotenenti maestri di scherma, ai sensi del precedente art. 2".
 
-### Art. 2
+## Art. 2
 
 L'art. 4 del R. decreto-legge 6 maggio 1926, n. 844, e l'ultimo comma dell'art. 14 del R. decreto legge 19 gennaio 1928, n. 26, sono abrogati.
 
-### Art. 3
+## Art. 3
 
 I tenenti colonnelli giudicati dalla Commissione centrale non idonei all'avanzamento sono collocati in aspettativa per riduzione di quadri, secondo le norme dell'art. 70 della legge 11 marzo 1926, n. 398, quando siano stati giudicati idonei all'avanzamento dall'autorita' di primo grado ed abbiano riportato almeno dodici ventesimi di media nell'esperimento di cui all'art. 5 del R. decreto 14 giugno 1923, n. 1281.
 
-### Art. 4
+## Art. 4
 
 I militari dei vari gradi che risulteranno in eccedenza a quelli indicati al precedente art. 1 saranno considerati fuori ruolo e riassorbiti nei quadri di mano in mano che si verificheranno vacanze; restando conseguentemente e per altrettanto tempo sospese le promozioni nei gradi stessi.
 
 Le spese per tale personale continueranno ad essere a carico del bilancio ordinario della Regia guardia di finanza.
 
-### Art. 5
+## Art. 5
 
 I sottotenenti maestri di scherma della Regia guardia di finanza hanno il trattamento economico stabilito dal primo comma dell'art. 157 del R. decreto 11 novembre 1923, n. 2395.
 
-### Art. 6
+## Art. 6
 
 La facolta' concessa al Governo del Re con l'art. 10 del R. decreto-legge 9 novembre 1919, n. 2073, di coordinare fra loro le disposizioni del decreto stesso e delle leggi e decreti legislativi allora in vigore riguardanti l'ordinamento della Regia guardia di finanza e raccoglierle in un nuovo testo unico, e' estesa ad ogni altra disposizione avente efficacia di legge, posteriore nel tempo alla autorizzazione consentita col citato provvedimento, fino alla data del presente decreto.
 
 ## Disposizioni transitorie.
 
-### Art. 7
+## Art. 7
 
 I tenenti colonnelli, esclusi definitivamente dall'avanzamento prima della compilazione dei quadri annuali normali per il 1929 e trattenuti in servizio in applicazione delle disposizioni abrogate dal precedente art. 2, potranno, su conforme insindacabile giudizio della Commissione centrale d'avanzamento, da rinnovarsi anno per anno, continuare ad essere trattenuti in servizio fino al compimento del triennio decorrente dall'entrata in vigore del R. decreto-legge 19 gennaio 1928, n. 26, sempre che nel frattempo non siano raggiunti dai limiti di eta'.
 
-### Art. 8
+## Art. 8
 
 Dalla data di entrata in vigore del presente decreto restano abrogate tutte le disposizioni ad esso contrarie.
 

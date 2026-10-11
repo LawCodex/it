@@ -28,13 +28,13 @@ la seguente legge:
 
 ## Assunzione dell'onere delle pensioni sociali
 
-### Art. 1
+## Art. 1
 
 A decorrere dal 1 gennaio 1976 lo Stato assume a suo completo carico l'onere della pensione sociale di cui all'art. 1 della legge 21 luglio 1965, n. 903, e di quella istituita con l'art. 26 della presente legge.
 
 ## Finanziamento del fondo sociale
 
-### Art. 2
+## Art. 2
 
 L'apporto dello Stato previsto per l'anno 1969 in complessive lire 454,6 miliardi dall'art. 3 lettera a) della legge 21 luglio 1965, n. 903, dall'art. 15 della legge 22 luglio 1966, n. 613, dall'art. 22 lettera b) della legge 27 luglio 1967, n. 658, e dall'art. 3 della legge 18 marzo 1968, n. 238, viene elevato per l'anno medesimo a complessive lire 904 miliardi.
 
@@ -54,7 +54,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 2 marzo 1974, n. 30, convertito con modificazioni dalla L. 16 aprile 1974, n. 114 ha disposto (con l'art. 24, commi 1 e 2) che "L'apporto dello Stato in favore delle gestioni pensionistiche dell'istituto nazionale della previdenza sociale, previsto dall'art. 2 della legge 30 aprile 1969, n. 153, integrato con l'art. 24 del decreto-legge 30 giugno 1972, n. 267 convertito, con modificazioni, nella legge 11 agosto 1972, n. 485, viene ulteriormente aumentato per gli anni 1974 e 1975 di complessive lire 366 miliardi. Per l'anno 1976, in aggiunta all'apporto conseguente all'assunzione a completo carico dello Stato degli oneri del Fondo sociale, ai sensi dell'art. 1 della legge 30 aprile 1969, n. 153, il contributo dello Stato in favore delle gestioni di cui al primo comma e' determinato nell'importo complessivo di 482 miliardi di lire".
 
-### Art. 3
+## Art. 3
 
 All'onere di lire 449,4 miliardi relativo all'anno finanziario 1969 si provvede:
 
@@ -70,7 +70,7 @@ per un importo non inferiore a lire 1.819,4 miliardi con le previste risorse di 
 
 per un importo non superiore a lire 1.259 miliardi con ricorso straordinario ad operazioni finanziarie che il Ministro per il tesoro e' autorizzato ad effettuare in una o piu' soluzioni, mediante mutui da contrarre con il Consorzio di credito per le opere pubbliche o attraverso emissione di buoni poliennali del tesoro o di speciali certificati di credito)).
 
-### Art. 4
+## Art. 4
 
 I mutui con il Consorzio di credito per le opere pubbliche, da ammortizzare in un periodo non superiore a 20 anni, saranno contratti nelle forme, alle condizioni e con le modalita' che verranno stabilite con apposite convenzioni da stipularsi tra il Ministro per il tesoro ed il Consorzio di credito per le opere pubbliche e da approvarsi con decreto del Ministro per il tesoro.
 
@@ -86,7 +86,7 @@ Per le operazioni finanziarie relative all'anno 1969, per un ricavo netto di lir
 
 Il Ministro per il tesoro e' autorizzato ad apportare con propri decreti, nei singoli esercizi, le occorrenti variazioni di bilancio.
 
-### Art. 5
+## Art. 5
 
 Ai fini della progressiva assunzione a completo carico dello Stato dell'onere relativo alla pensione sociale, in aggiunta alle somme di cui al precedente art. 2, e' autorizzata l'erogazione in favore del Fondo sociale dei seguenti contributi integrativi:
 
@@ -104,7 +104,7 @@ lire 535 miliardi nell'anno 1975.
 
 All'onere complessivo di lire 1.520 miliardi di cui al precedente comma si provvede con le previste risorse di bilancio, comprensive della disponibilita' di lire 138 miliardi derivante dalla riduzione di 23 miliardi a partire dall'anno 1970 e fino al 1975 dell'annualita' dovuta al Fondo di cui all'articolo 7 del decreto-legge 23 gennaio 1958, n. 8, convertito nella legge 23 febbraio 1958, n. 84.
 
-### Art. 6
+## Art. 6
 
 La contribuzione a favore del Fondo sociale posta a carico del Fondo per l'adeguamento delle pensioni e' ridotta, per gli anni dal 1969 al 1975, alle seguenti aliquote percentuali delle retribuzioni in base alle quali sono calcolati i contributi per il finanziamento del Fondo predetto:
 
@@ -120,7 +120,7 @@ anno 1971 . . . . . . . . . . . . . . . . . . . . . . . . . . . 62,5% anno 1972 
 
 ## Miglioramento dei trattamenti di pensione
 
-### Art. 7
+## Art. 7
 
 A decorrere dal 1 gennaio 1969, gli importi mensili dei trattamenti minimi di pensione a carico dell'assicurazione generale obbligatoria dei lavoratori dipendenti, previsti dall'articolo 2 del decreto del Presidente della Repubblica 27 aprile 1968, n. 488, sono elevati a:
 
@@ -128,7 +128,7 @@ lire 23.000 mensili, per i titolari di eta' inferiore a 65 anni; lire 25.000 men
 
 A decorrere dalla stessa data, gli importi mensili dei trattamenti minimi di pensione a carico delle gestioni speciali per i coltivatori diretti, mezzadri e coloni, per gli artigiani e per gli esercenti attivita' commerciali, previsti dall'articolo 3, secondo comma, del decreto del Presidente della Repubblica 27 aprile 1968, n. 488, sono elevati, per tutte le categorie di pensione, a lire 18.000 mensili.
 
-### Art. 8
+## Art. 8
 
 Ai cittadini italiani, le cui posizioni assicurative sono state trasferite dall'Istituto nazionale della previdenza sociale all'istituto nazionale di assicurazione sociale libico, in forza dell'articolo 12 dell'accordo italo-libico del 2 ottobre 1956, ratificato con legge 17 agosto 1957, n. 843, e che hanno acquisito il diritto a pensione a carico dell'assicurazione libica entro il 31 dicembre 1965, e' corrisposto, a decorrere dal 1 gennaio 1969, dall'Istituto nazionale della previdenza sociale ed a totale carico del Fondo per l'adeguamento delle pensioni, un aumento dell'integrazione di cui all'articolo 15 della legge 12 agosto 1962, n. 1338, fino al raggiungimento dell'importo mensile dei trattamenti minimi previsti dall'assicurazione obbligatoria per l'invalidita', la vecchiaia ed i superstiti dei lavoratori dipendenti.
 
@@ -146,7 +146,7 @@ AGGIORNAMENTO (21a)
 
 La Corte Costituzionale con sentenza 21 aprile-5 maggio 1988 n. 503 (in G.U. 1a s.s. 11.05.1988 n. 19) ha dichiarato l'illegittimita' costituzionale "dell'art. 8, ultimo comma, della legge 30 aprile 1969, n. 153 ("Revisione degli ordinamenti pensionistici e norme in materia di sicurezza sociale"), nella parte in cui, nell'ultima proposizione, dispone "non spetta ai titolari di altro trattamento di pensione ed"."
 
-### Art. 9
+## Art. 9
 
 Con effetto dal 1 gennaio 1969 le pensioni a carico dell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti dei lavoratori dipendenti aventi decorrenza anteriore a tale data, nonche' le pensioni a carico delle gestioni speciali per i coltivatori diretti, mezzadri e coloni, per gli artigiani e per gli esercenti attivita' commerciali, sono aumentate in misura pari al dieci per cento del loro ammontare. (10) ((15))
 
@@ -162,13 +162,13 @@ AGGIORNAMENTO (15)
 
 La Corte Costituzionale, con sentenza del 29 aprile-19 giugno 1981, n. 101 (in G.U. 1a s.s. 24/06/1981, n. 172) ha dichiarato l'illegittimita' costituzionale "dell'art. 9 della legge 30 aprile 1969, n. 153 (Revisione degli ordinamenti pensionistici e norme in materia di sicurezza sociale), nella parte in cui, prevedendo per le pensioni supplementari lo aumento in misura pari al 10 per cento del loro ammontare, lo limita a quelle aventi decorrenza anteriore al 1 gennaio 1969, e non lo estende a quelle, egualmente liquidate con il sistema contributivo, aventi decorrenza posteriore al 31 dicembre 1968".
 
-### Art. 10
+## Art. 10
 
 Con effetto dalla data di entrata in vigore della presente legge, le pensioni di anzianita', di vecchiaia e di invalidita' dell'assicurazione obbligatoria per l'invalidita', la vecchiaia e i superstiti dei lavoratori dipendenti, dei coltivatori diretti, mezzadri e coloni, degli artigiani e degli esercenti attivita' commerciali, da liquidare alle lavoratrici assicurate in base alle disposizioni vigenti anteriormente al 1 maggio 1968 sono determinate con gli stessi criteri di calcolo stabiliti per i lavoratori assicurati.
 
 Con effetto dal 1 gennaio 1969 le pensioni delle assicurazioni obbligatorie previste al comma precedente, liquidate alle lavoratrici assicurate in base alle disposizioni vigenti anteriormente al 1 maggio 1968, sono riliquidate determinandone l'importo con gli stessi criteri di calcolo stabiliti per i lavoratori assicurati, ferme restando le disposizioni di cui al precedente articolo 9.
 
-### Art. 11
+## Art. 11
 
 Per le pensioni aventi decorrenza successiva al 31 dicembre 1968, la misura massima della percentuale di commisurazione della pensione alla retribuzione indicata nella tabella D) annessa al decreto del Presidente della Repubblica 27 aprile 1968, n. 488, e' stabilita nel 74 per cento.
 
@@ -184,7 +184,7 @@ Alla pensione riliquidata a norma del precedente comma si applica l'aumento prev
 
 ((Le disposizioni di cui ai commi quarto, quinto e sesto del presente articolo, ed all'articolo 14, ultimo comma, del decreto del Presidente della Repubblica 27 aprile 1968, n. 488, si applicano ai superstiti anche nel caso in cui il titolare di pensione di anzianita', liquidata a norma dell'articolo 13 della legge 21 luglio 1965, n. 903, sia deceduto prima di aver compiuto l'eta' prevista per il pensionamento di vecchiaia)).
 
-### Art. 12
+## Art. 12
 
 Gli articoli 1 e 2 del decreto-legge 1 agosto 1945, n. 692, recepiti negli articoli 27 e 28 del testo unico delle norme sugli assegni familiari, approvato con decreto 30 maggio 1955, n. 797 e l'articolo 29 del testo unico delle disposizioni contro gli infortuni sul lavoro e le malattie professionali, approvato con decreto 30 giugno 1965, n. 1124, sono sostituiti dal seguente:
 
@@ -236,7 +236,7 @@ AGGIORNAMENTO (21)
 
 Il D.L. 30 maggio 1988, n. 173 convertito con modificazioni dalla L. 26 luglio 1988, n. 291 ha disposto (con l'art. 4, comma 2-bis) che "La disposizione recata nel secondo comma, numero 3), del testo sostitutivo di cui all'articolo 12 della legge 30 aprile 1969, n. 153, va interpretata nel senso che dalla retribuzione imponibile sono escluse anche le somme corrisposte in occasione della cessazione del rapporto di lavoro, al fine di incentivare l'esodo dei lavoratori".
 
-### Art. 13
+## Art. 13
 
 I titolari di pensione di vecchiaia a carico dell'assicurazione generale obbligatoria liquidata o da liquidare in base alle norme vigenti anteriormente al 1 maggio 1968, i quali dalla data di decorrenza della pensione stessa abbiano continuato ininterrottamente a prestare opera retribuita alle dipendenze di terzi ed ancora la prestino alla data di entrata in vigore della presente legge, hanno la facolta' di optare, nel termine di 180 giorni dalla data di pubblicazione della presente legge, per la riliquidazione, che avverra' al momento della cessazione del rapporto di lavoro, della pensione in godimento secondo le norme di cui al precedente articolo 11, primo e terzo comma.
 
@@ -256,7 +256,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 2 marzo 1974, n. 30, convertito con modificazioni dalla L. 16 aprile 1974, n. 114 ha disposto (con l'art. 2-quinquies, comma 1) che "E' riaperto per la durata di 180 giorni a partire dalla data di entrata in vigore della presente legge il termine per l'esercizio della facolta' di opzione di cui all'articolo 13 della legge 30 aprile 1969, n. 153".
 
-### Art. 14
+## Art. 14
 
 Per le pensioni decorrenti da data successiva al 31 dicembre 1968, il periodo di contribuzione da assumere a base per la determinazione della retribuzione annua pensionabile di cui al secondo comma dell'articolo 5 del decreto del Presidente della Repubblica 27 aprile 1968, n. 488, e' costituito dalle ultime 260 settimane di contribuzione precedenti la data di decorrenza della pensione.
 
@@ -288,7 +288,7 @@ AGGIORNAMENTO (29)
 
 La Corte Costituzionale, con sentenza 11-23 novembre 1999, n. 432 (in G.U. 1a s.s. 01/12/1999, n. 48) ha dichiarato l'illegittimita' costituzionale "dell'art. 14, terzo comma, della legge 30 aprile 1969, n. 153 (Revisione degli ordinamenti pensionistici e norme in materia di sicurezza sociale), come sostituito dall'art. 26 della legge 3 giugno 1975, n. 160 (Norme per il miglioramento dei trattamenti pensionistici e per il collegamento alla dinamica salariale), nella parte in cui non prevede, nel caso di prosecuzione volontaria della contribuzione da parte dell'assicurato che abbia gia' conseguito la prescritta anzianita' contributiva minima, che la pensione di anzianita' non possa essere liquidata in misura inferiore a quella calcolata sulla base della sola contribuzione minima".
 
-### Art. 15
+## Art. 15
 
 Agli effetti previsti dall'articolo 14, i contributi agricoli giornalieri obbligatori e quelli figurativi derivanti da disoccupazione agricola, accreditati per ciascun anno agrario, si ripartiscono in modo uniforme nelle settimane che costituiscono l'anno stesso e si considera quale settimana di contribuzione il numero di contributi giornalieri risultante dalla ripartizione.
 
@@ -300,11 +300,11 @@ La disposizione di cui al precedente comma non si applica in relazione alle sett
 
 Con effetto dal 1 gennaio 1969 e' abrogato l'articolo 6 del decreto del Presidente della Repubblica 27 aprile 1968, n. 488.
 
-### Art. 16
+## Art. 16
 
 Per i lavoratori agricoli con qualifica di salariati fissi e di giornalieri di campagna ed assimilati, la misura delle retribuzioni da prendere in considerazione, ai fini del calcolo della pensione, per i periodi di contribuzione figurativa antecedenti il 1 agosto 1968 e' quella stabilita dall'articolo 28, terzo comma, del decreto del Presidente della Repubblica 27 aprile 1968, n. 488.
 
-### Art. 17
+## Art. 17
 
 Con effetto dal 1 gennaio 1969 le pensioni a carico della Gestione speciale per i lavoratori delle miniere, cave e torbiere sono aumentate in misura pari al dieci per cento del loro ammontare.
 
@@ -320,7 +320,7 @@ Nel caso in cui il pensionato si rioccupi dopo il compimento del 60° anno di et
 
 In relazione a quanto disposto nei tre commi precedenti, a decorrere dalla data di entrata in vigore della presente legge i commi settimo, ottavo e nono dell'articolo 33 del decreto del Presidente della Repubblica 27 aprile 1968, n. 488, sono abrogati.
 
-### Art. 18
+## Art. 18
 
 Per gli iscritti alla Gestione speciale per i lavoratori delle miniere, cave e torbiere che siano stati addetti complessivamente, anche se con discontinuita', per almeno 15 anni a lavori di sotterraneo, i requisiti di assicurazione e di contribuzione di cui a punti a) e b) del primo comma dell'articolo 22 della presente legge possono essere perfezionati con la maggiorazione di anzianita' di cui al terzo comma dell'articolo 33 del decreto del Presidente della Repubblica 27 aprile 1968, n. 488, per un massimo di 5 anni.
 
@@ -338,7 +338,7 @@ Qualora l'anzianita' contributiva, effettiva e convenzionale, sulla cui base e' 
 
 ## Perequazione automatica delle pensioni
 
-### Art. 19
+## Art. 19
 
 Gli importi delle pensioni a carico dell'assicurazione generale obbligatoria dei lavoratori dipendenti e delle gestioni speciali dell'assicurazione medesima per i lavoratori autonomi, ivi compresi i trattamenti minimi, al netto delle quote di maggiorazione per familiari a carico, con effetto dal 1 gennaio di ciascun anno, sono aumentati in misura percentuale pari all'aumento percentuale dell'indice del costo della vita calcolato dall'Istituto centrale di statistica ai fini della scala mobile delle retribuzioni dei lavoratori dell'industria. Sono escluse dall'aumento le pensioni aventi decorrenza compresa nell'anno anteriore a quello da cui ha effetto l'aumento, salvo quanto disposto nel penultimo comma del presente articolo.
 
@@ -358,7 +358,7 @@ La L. 3 giugno 1975, n. 160 ha disposto (con l'art. 8, comma 1) che la presente 
 
 ## Disciplina del cumulo della pensione - con la retribuzione
 
-### Art. 20
+## Art. 20
 
 A decorrere dalla data di entrata in vigore della presente legge, l'articolo 20 del decreto del Presidente della Repubblica 27 aprile 1968, n. 488, e' sostituito dal seguente:
 
@@ -390,7 +390,7 @@ AGGIORNAMENTO (19a)
 
 La L. 28 febbraio 1986, n. 41 ha disposto (con l'art. 12 comma 2) che "Le disponibilita' finanziarie della sezione speciale del fondo interbancario di garanzia di cui agli articoli 20 e 21 della legge 9 maggio 1975, n. 153, sono incrementate di lire 20 miliardi."
 
-### Art. 21
+## Art. 21
 
 All'articolo 21 del decreto del Presidente della Repubblica 27 aprile 1968, n. 488, e' aggiunto il seguente comma:
 
@@ -402,7 +402,7 @@ AGGIORNAMENTO (19a)
 
 La L. 28 febbraio 1986, n. 41 ha disposto (con l'art. 12 comma 2) che "Le disponibilita' finanziarie della sezione speciale del fondo interbancario di garanzia di cui agli articoli 20 e 21 della legge 9 maggio 1975, n. 153, sono incrementate di lire 20 miliardi."
 
-### Art. 22
+## Art. 22
 
 A decorrere dalla data di entrata in vigore della presente legge, gli iscritti alle assicurazioni obbligatorie per la invalidita', la vecchiaia ed i superstiti dei lavoratori dipendenti, dei lavoratori delle miniere, cave e torbiere, dei coltivatori diretti, mezzadri e coloni, degli artigiani e degli esercenti attivita' commerciali hanno diritto alla pensione a condizione che:
 
@@ -442,7 +442,7 @@ Il D.L. 30 giugno 1972, n. 267, convertito con modificazioni dalla L. 11 agosto 
 
 ## Modificazioni alle norme sui trattamenti - di riversibilità
 
-### Art. 23
+## Art. 23
 
 Al titolare di pensione di riversibilita' che sia anche beneficiario di altra pensione a titolo proprio a carico dell'assicurazione obbligatoria e' garantito il trattamento minimo sulla pensione diretta.
 
@@ -466,7 +466,7 @@ AGGIORNAMENTO (18)
 
 La Corte Costituzionale, con sentenza del 3-6 dicembre 1985, n. 314 (in G.U. 1a s.s. 11/12/1985, n. 291) ha dichiarato l'illegittimita' costituzionale dell'art. 23 della presente legge, nelle parti non dichiarate costituzionalmente illegittime dalle sentenze n. 230 del 1974 e n. 263 del 1976.
 
-### Art. 24
+## Art. 24
 
 L'articolo 7 della legge 12 agosto 1962, n. 1338, modificato dall'articolo 24 della legge 21 luglio 1965, n. 903, e' sostituito dal seguente:
 
@@ -496,7 +496,7 @@ AGGIORNAMENTO (20)
 
 La Corte Costituzionale, con sentenza del 8-28 luglio 1987, n. 286 (in G.u. 1a s.s. 29/07/1987, n. 31) ha dichiarato l'illegittimita' costituzionale "dell'art. 1 del d.l.l. 18 gennaio 1945, n. 39 (Disciplina del trattamento di riversibilita' delle pensioni dell'assicurazione obbligatoria per l'invalidita' e la vecchiaia) nel testo sostituito dall'art. 7 della legge 12 agosto 1962, n. 1338 (Disposizioni per il miglioramento dei trattamenti di pensione dell'assicurazione obbligatoria per l'invalidita', la vecchiaia e i superstiti) e riprodotto nell'art. 24 della legge 30 aprile 1969, n. 153 (Revisione degli ordinamenti pensionistici e norme in materia di sicurezza sociale".
 
-### Art. 25
+## Art. 25
 
 I superstiti indicati all'articolo 22 della legge 21 luglio 1965, n. 903, hanno diritto alla pensione indiretta o di riversibilita' a carico della Gestione speciale per i coltivatori diretti, mezzadri e coloni, con le stesse norme stabilite per la assicurazione generale obbligatoria dei lavoratori dipendenti, a condizione che l'iscritto alla gestione predetta sia deceduto successivamente alla data di entrata in vigore della presente legge e, se titolare di pensione a carico della gestione, che questa abbia decorrenza dal 1 gennaio 1970 o successiva.
 
@@ -510,7 +510,7 @@ Sono abrogati dal 1 gennaio 1970 il terzo comma dell'articolo 21 della legge 22 
 
 ## Pensioni ai cittadini ultrasessantacinquenni - sprovvisti di reddito
 
-### Art. 26
+## Art. 26
 
 Ai cittadini italiani, residenti nel territorio nazionale, che abbiano compiuto l'eta' di 65 anni, che posseggano redditi propri assoggettabili all'imposta sul reddito delle persone fisiche per un ammontare non superiore a L. 336.050 annue e, se coniugati, un reddito, cumulato con quello del coniuge, non superiore a L. 1.320.000 annue e' corrisposta, a domanda, una pensione sociale non riversibile di L. 336.050 annue da ripartirsi in 13 rate mensili di L. 25.850 ciascuna. La tredicesima rata e' corrisposta con quella di dicembre ed e' frazionabile. Non si procede al cumulo del reddito con quello del coniuge nel caso di separazione legale. (7)
 
@@ -614,7 +614,7 @@ La L. 23 dicembre 1999, n. 488 ha disposto (con l'art. 52, comma 1) che "A decor
 
 ## Deleghe al Governo
 
-### Art. 27
+## Art. 27
 
 Il Governo della Repubblica e' delegato ad emanare entro un anno dall'entrata in vigore della presente legge, anche con separati decreti, norme aventi valore di legge, per il riordinamento degli organi di amministrazione dell'istituto nazionale della previdenza sociale, secondo i seguenti criteri direttivi e relativamente:
 
@@ -628,7 +628,7 @@ d) alla funzione di vigilanza e di controllo, esercitata dal Ministero del lavor
 
 In questa ultima ipotesi, i provvedimenti saranno comunque esecutivi qualora siano confermati con nuova deliberazione degli organi amministratori dell'istituto, sempreche' i rilievi mossi non attengano alla legittimita' dell'atto. Eventuali situazioni di deficit nel bilancio dell'ente, che riscuote contributi ed eroga prestazioni regolati per legge, non costituiscono motivo di irregolarita' dei provvedimenti adottati. Sara' inoltre previsto che gli emolumenti dovuti al presidente, ai vice presidenti e ai componenti del consiglio di amministrazione, del collegio dei sindaci e degli altri organi collegiali, siano determinati con decreto del Ministro per il lavoro e la previdenza sociale di concerto con quello per il tesoro.
 
-### Art. 28
+## Art. 28
 
 Per particolari categorie di lavoratori soci di societa' e di enti in genere cooperativi, anche di fatto, che prestino la loro attivita' per conto delle societa' e degli enti stessi, al fine di un riordinamento dell'assetto previdenziale ed assistenziale di detti lavoratori, ferma restando l'applicazione delle norme di cui all'articolo 35 del testo unico sugli assegni familiari, approvato con decreto del Presidente della Repubblica 30 maggio 1955, n. 797 e successive modificazioni, ed all'articolo 35 della legge 21 luglio 1965, n. 903, entro un anno dalla entrata in vigore della presente legge, il Governo della Repubblica, su proposta del Ministro per il lavoro e la previdenza sociale, di concerto con gli altri Ministri competenti, sentite le organizzazioni sindacali interessate, e' delegato ad emanare, anche con provvedimenti separati, norme intese:
 
@@ -638,7 +638,7 @@ b) ad uniformare, sulla base delle disposizioni del testo unico delle norme sugl
 
 c) ad istituzionalizzare, nella attuazione dell'articolo 35 della legge 21 luglio 1965, n. 903, un meccanismo di variazione delle retribuzioni imponibili ai fini delle pensioni in relazione alla anzianita' di servizio dei singoli soci.
 
-### Art. 29
+## Art. 29
 
 A decorrere da un anno dalla data di entrata in vigore della presente legge la gestione della assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti e' fusa con il Fondo per l'adeguamento delle pensioni che assume la denominazione di "Fondo pensioni dei lavoratori dipendenti" al quale sono attribuite le attivita', le passivita' e le riserve risultanti alla data stessa.
 
@@ -674,17 +674,17 @@ AGGIORNAMENTO (1)
 
 Il D.P.R. 30 aprile 1970, n. 639 ha disposto (con l'art. 12, comma 1)che "A decorrere dal 1 maggio 1970, la gestione dell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia e i superstiti dei lavoratori dipendenti e' fusa, a norma dell'art. 29 della legge 30 aprile 1969, n. 153, con il Fondo per l'adeguamento delle pensioni, che assume la denominazione di Fondo pensioni dei lavoratori dipendenti".
 
-### Art. 30
+## Art. 30
 
 Le deleghe affidate al Governo dagli articoli 27 e 29 della presente legge saranno esercitate sentito il parere di una Commissione parlamentare, composta da nove senatori e nove deputati nominati dai presidenti delle rispettive Camere.
 
-### Art. 31
+## Art. 31
 
 Il Governo della Repubblica e' delegato ad emanare, entro il 31 dicembre 1970 - sentite le organizzazioni sindacali dei lavoratori agricoli norme recanti modifiche al decreto-legge 21 gennaio 1956, n. 23, relativo al sussidio di disoccupazione dei lavoratori agricoli in modo da armonizzarne e coordinarne la disciplina a quella in vigore per i lavoratori dipendenti degli altri settori produttivi ed a raccogliere le norme in testo unico, coordinando ed integrando, qualora occorra, le norme relative all'assicurazione obbligatoria per la disoccupazione involontaria con quelle della Cassa integrazione guadagni degli operai dell'industria, ivi compresi i regimi riferentisi a particolari categorie di lavoratori, al fine di facilitare un armonico sviluppo di tutta la legislazione riguardante la previdenza e l'assistenza dei lavoratori in caso di disoccupazione totale o parziale ed un collegamento organico e funzionale fra le gestioni interessate.
 
 Con lo stesso provvedimento delegato si dovra' altresi' prevedere che quando nel biennio utile il lavoratore agricolo sia stato iscritto negli elenchi nominativi, anche per un solo anno, per un numero di giornate non superiore ad 89, il requisito dell'anno di contribuzione nel biennio per avere diritto all'indennita' di disoccupazione si intende raggiunto ove l'interessato possa far valere complessivamente nel biennio suddetto almeno 102 contributi giornalieri. Verra' inoltre considerata l'eventualita' del prolungamento della durata della indennita' in armonia con il trattamento previsto per i lavoratori dipendenti dei settori produttivi non agricoli.
 
-### Art. 32
+## Art. 32
 
 Il Governo della Repubblica e' delegato ad emanare entro il 31 dicembre 1970 norme intese a per i mezzadri e coloni la facolta' di reinserimento a domanda nell'assicurazione generale obbligatoria per l'invalidita', vecchiaia e superstiti dei lavoratori dipendenti in base ai seguenti criteri:
 
@@ -696,7 +696,7 @@ c) utilizzazione dei periodi di contribuzione nella gestione speciale coltivator
 
 d) liquidazione della pensione con il sistema del pro rata in relazione ai periodi di iscrizione e contribuzione in ciascuna delle due gestioni con applicazione delle norme in vigore nelle gestioni medesime.
 
-### Art. 33
+## Art. 33
 
 Entro il 31 dicembre 1975 il Governo della Repubblica, su proposta del Ministro per il lavoro e la previdenza sociale, di concerto con gli altri Ministri competenti, sentite preventivamente le organizzazioni sindacali dei lavoratori autonomi piu' rappresentative a carattere nazionale, e' delegato ad emanare norme intese a:
 
@@ -704,11 +704,11 @@ a) realizzare la parificazione dei trattamenti minimi di pensione a favore dei l
 
 b) consentire agli assicurati l'accesso a classi di contribuzione superiori a quella unica attualmente prevista per consentire il raggiungimento di piu' elevate ed adeguate pensioni contributive.
 
-### Art. 34
+## Art. 34
 
 Il Governo della Repubblica e' delegato ad emanare entro il 31 dicembre 1970 - sentite le organizzazioni sindacali e le associazioni femminili a carattere nazionale - norme intese a riconoscere, ai fini del diritto alla pensione di anzianita' e della determinazione di essa, i contributi figurativi relativi ai periodi di astensione dal lavoro per gravidanza e puerperio di cui alla legge 26 agosto 1950, n. 860, ivi comprese le lavoratrici dell'agricoltura.
 
-### Art. 35
+## Art. 35
 
 Entro il 31 dicembre 1971, il Governo della Repubblica, sentita la Commissione parlamentare di cui all'ultimo comma dell'art. 39 della legge 21 luglio 1965, n. 903, integrata da sei rappresentanti dei lavoratori, di cui uno in rappresentanza dei dirigenti di azienda e uno dei lavoratori autonomi e da tre rappresentanti dei datori di lavoro, e' delegato ad emanare, con decreti aventi forza di legge, su proposta del Ministro per il lavoro e la previdenza sociale di concerto con gli altri Ministri competenti, anche con provvedimenti separati, secondo le indicazioni del programma di sviluppo economico, norme intese a:
 
@@ -782,17 +782,17 @@ le spese per la costituzione e per il funzionamento del casellario centrale nazi
 
 L'articolo 1 della legge 18 marzo 1968, n. 238, e' abrogato.
 
-### Art. 36
+## Art. 36
 
 Il Governo della Repubblica e' delegato ad emanare entro il 31 dicembre 1975, anche con separati decreti, norme aventi valore di legge per la estensione delle norme relative alle quote di maggiorazione delle pensioni per familiari conviventi o a carico di cui agli articoli 44 e 46 della presente legge alle pensioni liquidate o da liquidarsi a carico dei fondi integrativi, sostitutivi, e che hanno dato luogo all'esclusione o all'esonero dell'assicurazione generale obbligatoria per la invalidita', la vecchiaia e i superstiti dei lavoratori dipendenti.
 
-### Art. 37
+## Art. 37
 
 Entro il 31 maggio 1972 il Governo della Repubblica e' autorizzato ad emanare un testo unico delle disposizioni che regolano la materia dell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti, anche per quanto concerne l'ordinamento degli organi e dei servizi, con facolta' di apportare le integrazioni e le modificazioni necessarie per il coordinamento delle norme stesse con quelle della presente legge. Le norme suddette saranno emanate con decreto del Presidente della Repubblica, su proposta del Ministro per il lavoro e la previdenza sociale, sentito il consiglio di amministrazione dell'Istituto nazionale della previdenza sociale, e sentita la commissione di cui all'articolo 35.
 
 ## Disposizioni d'attuazione transitorie e finali
 
-### Art. 38
+## Art. 38
 
 La misura dei contributi dovuti dalle categorie interessate ai regimi di pensione indicati nell'articolo 9 della presente legge puo' essere modificata, per il quinquennio 1971-75, con decreto del Presidente della Repubblica ad iniziativa del Ministro per il lavoro e la previdenza sociale, di concerto con i Ministri per il tesoro e per il bilancio e la programmazione economica, sentite le confederazioni sindacali a carattere nazionale, rappresentate nel Consiglio nazionale dell'economia e del lavoro, al fine di conseguire, secondo i principi di cui all'articolo 9 della legge 18 marzo 1968, n. 238, l'equilibrio delle relative gestioni.
 
@@ -802,7 +802,7 @@ La misura dei contributi dovuti dalle categorie interessate ai regimi di pension
 
 ((COMMA ABROGATO DAL D.L. 6 LUGLIO 1978, N. 352 CONVERTITO, CON MODIFICAZIONI DALLA L. 4 AGOSTO 1978, N. 467)).
 
-### Art. 39
+## Art. 39
 
 Nei casi di fallimento o di crisi dell'azienda, determinata da eccezionali calamita' naturali, da dichiararsi di volta in volta con decreto del Ministro per il lavoro e la previdenza sociale, allorche' si verifichino omissioni contributive nell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti, e' consentito l'accredito dei relativi contributi non prescritti, in favore dei lavoratori interessati, mediante prelievo delle somme corrispondenti ai contributi base e di adeguamento dalle riserve delle rispettive gestioni.
 
@@ -810,7 +810,7 @@ I prelievi non possono, comunque, superare l'importo che sara' determinato dal c
 
 Restano ferme le disposizioni sul recupero delle somme dovute all'istituto, nonche' quelle relative alle penalita' previste per le suddette omissioni.
 
-### Art. 40
+## Art. 40
 
 ((All'articolo 27 del regio decreto-legge 14 aprile 1939, n. 636, sono aggiunti i seguenti commi:
 
@@ -820,17 +820,17 @@ Il rapporto di lavoro deve risultare da documenti o prove certe.
 
 I periodi non coperti da contribuzione di cui al comma precedente sono considerati utili anche ai fini della determinazione della misura delle pensioni)).
 
-### Art. 41
+## Art. 41
 
 Il termine di prescrizione di cui all'articolo 55 del regio decreto-legge 4 ottobre 1935, n. 1827, convertito nella legge 6 aprile 1936, n. 1155, e' elevato a dieci anni.
 
 La disposizione di cui al precedente comma si applica anche alle prescrizioni in corso alla data di entrata in vigore della presente legge.
 
-### Art. 42
+## Art. 42
 
 ((ARTICOLO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133))
 
-### Art. 43
+## Art. 43
 
 Con effetto dal 1 gennaio 1969, sono apportate le seguenti modifiche agli articoli 6, 7 e 9 del testo unico delle norme sugli assegni familiari, approvato con decreto del Presidente della Repubblica 30 maggio 1955, n. 797, e successive modificazioni:
 
@@ -866,7 +866,7 @@ AGGIORNAMENTO (19)
 
 La Corte Costituzionale, con sentenza del 8-14 gennaio 1986, n. 8 (in G.U. 1a s.s. 22/01/1986, n. 3) ha dichiarato l'illegittimita' costituzionale "dell'art. 43, secondo comma, legge 30 aprile 1969, n. 153, nella parte in cui, per ipotesi di redditi del genitore a carico non derivanti esclusivamente da pensione, stabilisce un limite ostativo al conseguimento del diritto agli assegni familiari diverso da quello previsto per i redditi derivanti esclusivamente da pensione".
 
-### Art. 44
+## Art. 44
 
 All'articolo 21 della legge 21 luglio 1965, n. 903, sono aggiunti i seguenti commi:
 
@@ -878,13 +878,13 @@ Il presente articolo si applica anche ai lavoratori anziani titolari dell'assegn
 
 Il primo ed il secondo comma dell'articolo 22 del decreto del Presidente della Repubblica 27 aprile 1968, n. 488, sono abrogati.
 
-### Art. 45
+## Art. 45
 
 Per la liquidazione delle quote di maggiorazione aventi decorrenza dalla data di entrata in vigore della presente legge, ai fini della determinazione della vivenza a carico si applicano le norme ed i criteri vigenti in materia di assegni familiari.
 
 Con deliberazione del consiglio di amministrazione dell'Istituto nazionale della previdenza sociale, sentiti il comitato speciale per gli assegni familiari ed il comitato speciale di cui all'articolo 29 della presente legge, verra' stabilito l'importo forfettario degli assegni familiari non erogati per effetto delle disposizioni dell'articolo 44 da corrispondersi al "Fondo pensioni dei lavoratori dipendenti" da parte della Cassa unica per gli assegni familiari.
 
-### Art. 46
+## Art. 46
 
 A decorrere dal 1 gennaio 1970 le quote di maggiorazione delle pensioni a carico dell'assicurazione generale obbligatoria dei lavoratori dipendenti, di cui allo articolo 21 della legge 21 luglio 1965, n. 903, spettano per dodici mesi all'anno nella misura degli assegni familiari corrisposti ai lavoratori dell'industria e possono essere erogate al pensionato anche con separati pagamenti.
 
@@ -892,7 +892,7 @@ Per le pensioni liquidate con decorrenza dal 1 gennaio 1969 le quote di maggiora
 
 I titolari di pensione con decorrenza anteriore al 1 gennaio 1969, i quali fruiscano di quote di maggiorazione per carichi di famiglia di importo piu' elevato, mantengono il maggiore trattamento fine a totale assorbimento della parte eccedente la misura stabilita al comma precedente in occasione di miglioramenti della misura delle pensioni o delle quote di maggiorazione a cominciare dai miglioramenti derivanti dalla presente legge.
 
-### Art. 47
+## Art. 47
 
 L'articolo 11 della legge 5 novembre 1968, n. 1115, e' sostituito dal seguente:
 
@@ -914,13 +914,13 @@ Ai predetti titolari si applicano le disposizioni contenute negli
 
 articoli 21, 22, terzo comma, e 23 del decreto del Presidente della Repubblica 27 aprile 1968, n. 488, nonche' quelle dell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti che disciplinano i ricorsi, le controversie e le modalita' di erogazione delle prestazioni".
 
-### Art. 48
+## Art. 48
 
 Il limite di eta' previsto dall'articolo 1, terzo comma, lettera b) della legge 4 agosto 1955, n. 692, ai fini della erogazione della assistenza sanitaria per i figli, o altri familiari ad essi equiparati, dei titolari di pensione o rendita considerati dallo stesso articolo 1, primo comma, e' elevato al 21° anno qualora gli stessi frequentino una scuola media o professionale e fino al compimento degli studi superiori o universitari entro la durata del corso legale, ma non oltre il 26° anno di eta'.
 
 L'onere derivante dalla erogazione dell'assistenza sanitaria prevista dal presente articolo e' rimborsato annualmente alle gestioni ed enti mutualistici che erogano la assistenza anzidetta da parte delle gestioni pensionistiche interessate.
 
-### Art. 49
+## Art. 49
 
 I periodi di servizio militare e quelli equiparati di cui agli articoli 56 n. 1, del regio decreto-legge 4 ottobre 1935, n. 1827; 7, 8 e 9 della legge 20 febbraio 1958, n. 55, nonche' i periodi di servizio militare ed equiparati di cui alla legge 2 aprile 1958, n. 364, sono considerati utili a richiesta dell'interessato ai fini del diritto e della determinazione della misura della pensione dell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia e i superstiti, anche se tali periodi eccedano la durata del servizio di leva e gli assicurati anteriormente all'inizio dei servizi predetti, non possano far valere periodi di iscrizione nell'assicurazione anzidetta.
 
@@ -934,11 +934,11 @@ Il secondo comma dell'articolo 11 del decreto del Presidente della Repubblica 27
 
 "Agli effetti previsti dal presente articolo i contributi accreditati ai sensi della legge 10 marzo 1955, n. 96 e successive modificazioni, sono equiparati ai contributi volontari, su espressa domanda dell'interessato".
 
-### Art. 50
+## Art. 50
 
 ((ARTICOLO ABROGATO DAL D.L. 2 MARZO 1974, N. 30, CONVERTITO, CON MODIFICAZIONI, DALLA L. 16 APRILE 1974, N. 114))
 
-### Art. 51
+## Art. 51
 
 Agli impiegati gia' esclusi dall'obbligo delle assicurazioni sociali per effetto degli articoli 2 del decreto legislativo 27 ottobre 1922, n. 1479, 38, n. 1, del regio decreto-legge 4 ottobre 1935, n. 1827, e 5 del regio decreto-legge 14 aprile 1939, n. 636, e' data facolta' di provvedere al riscatto dei periodi per i quali ha operato tale esclusione, compresi tra la data di istituzione dell'assicurazione obbligatoria per la invalidita', la vecchiaia ed i superstiti e il 1 settembre 1950, con le norme e le modalita' di cui all'articolo 13 della legge 12 agosto 1962, n. 1338, con la riduzione del 50 per cento dell'onere dalla legge stessa previsto a carico del richiedente.
 
@@ -956,33 +956,33 @@ AGGIORNAMENTO (5)
 
 Il D.L. 2 marzo 1974, n. 30, convertito con modificazioni dalla L. 16 aprile 1974, n. 114 ha disposto (con l'art. 2-octies) che "Nei casi previsti dall'articolo 51, secondo comma, della legge 30 aprile 1969, n. 153, l'onere del riscatto, determinato con le modalita' di cui all'articolo 13 della legge 12 agosto 1962, n. 1338, e' ridotto del cinquanta per cento".
 
-### Art. 52
+## Art. 52
 
 All'articolo unico della legge 2 aprile 1958, n. 322, e' aggiunto il seguente comma:
 
 "Tali norme sono valide anche per il personale cessato dal servizio prima del 30 aprile 1958. Qualora gli iscritti a dette forme obbligatorie di previdenza abbiano ottenuto una liquidazione in luogo di pensione per il corrispondente periodo di iscrizione, possono chiedere all'Istituto nazionale della previdenza sociale la costituzione della posizione assicurativa, mediante il versamento dei contributi alle stesse condizioni a cui li avrebbero versati le gestioni previdenziali in applicazione della presente legge".
 
-### Art. 53
+## Art. 53
 
 Per le pensioni a carico dell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti dei lavoratori dipendenti, liquidate con decorrenza successiva al 31 dicembre 1968 e fino all'entrata in vigore della presente legge, e' data facolta', al titolare, di esercitare nuovamente la facolta' di opzione prevista dall'articolo 14 del decreto del Presidente della Repubblica 27 aprile 1968, n. 488.
 
 Il secondo comma dell'articolo 14 del citato decreto del Presidente della Repubblica 27 aprile 1968, n. 488, e' abrogato con effetto dal 1 maggio 1968. Le pensioni dovranno essere liquidate d'ufficio.
 
-### Art. 54
+## Art. 54
 
 La facolta' di opzione di cui al primo comma dell'articolo 14 del decreto del Presidente della Repubblica 27 aprile 1968, n. 488, puo' essere esercitata fino al 31 dicembre 1971.
 
 Entro tale data, qualora permangano le condizioni previste dal citato articolo 14, con decreto del Presidente della Repubblica, su proposta del Ministro per il lavoro e la previdenza sociale di concerto con il Ministro per il tesoro, sentito il consiglio di amministrazione dell'Istituto nazionale della previdenza sociale, il termine per l'esercizio della facolta' predetta puo' essere ulteriormente prorogato.
 
-### Art. 55
+## Art. 55
 
 Dal divieto di cumulo della pensione con la retribuzione previsto dall'articolo 20 del decreto del Presidente della Repubblica 27 aprile 1968, n. 488 nel testo precedente all'entrata in vigore delle modificazioni di cui all'articolo 20 della presente legge, deve intendersi esclusa la tredicesima rata di pensione.
 
-### Art. 56
+## Art. 56
 
 Coloro che possono far valere le condizioni di contribuzione di cui al primo comma dell'articolo 11 della legge 12 agosto 1962, n. 1338, hanno facolta', qualunque sia la loro eta', di presentare domanda di prosecuzione volontaria nei primi due anni decorrenti dalla data di entrata in vigore della presente legge.
 
-### Art. 57
+## Art. 57
 
 ((ARTICOLO ABROGATO DAL D.L. 19 SETTEMBRE 1992, N. 384 CONVERTITO, CON MODIFICAZIONI, DALLA L. 14 NOVEMBRE 1992, N. 438)) ((30))
 
@@ -992,33 +992,33 @@ AGGIORNAMENTO (30)
 
 Successivamente la Corte Costituzionale, con sentenza 25 marzo-13 aprile 1994, n. 134 (in G.U. 1a s.s. 20/4/1994, n. 17), ha dichiarato l'illegittimita' costituzionale dell'art. 4, comma 2 del D.L. 19 settembre 1992, n. 384, convertito, con modificazioni, dalla L. 14 novembre 1992, n. 438 (che ha abrogato il presente articolo).
 
-### Art. 58
+## Art. 58
 
 Le decisioni adottate dall'Istituto nazionale della previdenza sociale in materia di pensioni, possono essere impugnate in sede giudiziaria entro il termine di dieci anni.
 
 La disposizione di cui al precedente comma si applica anche alle decisioni adottate anteriormente all'entrata in vigore della presente legge, purche' posteriori al 30 giugno 1959.
 
-### Art. 59
+## Art. 59
 
 All'Istituto nazionale della previdenza sociale e' concessa la facolta' di stipulare convenzioni con l'Amministrazione delle poste e delle telecomunicazioni per il pagamento della pensione, in contanti, al domicilio del pensionato, oppure mediante assegni di conto corrente postale di serie speciale presso l'ufficio indicato dal pensionato.
 
-### Art. 60
+## Art. 60
 
 All'articolo 9 sub 2, punto 1) della legge 4 aprile 1952, n. 218, l'ultimo capoverso e' sostituito dal seguente:
 
 "1.560 contributi giornalieri di cui alla tabella B, n. 3, per i braccianti eccezionali se uomini, ovvero 1.040 contributi giornalieri di cui alla tabella B, n. 3, per le donne e i giovani, purche' risultino iscritti prevalentemente con tale qualifica negli elenchi anagrafici negli ultimi dieci anni precedenti la domanda di pensionamento".
 
-### Art. 61
+## Art. 61
 
 Con effetto dal 1 gennaio 1969 le tabelle C) e D) allegate alla legge 21 luglio 1965, n. 903, sono sostituite dalle tabelle D) ed E) allegate alla presente legge.
 
-### Art. 62
+## Art. 62
 
 I requisiti di contribuzione previsti per il conseguimento delle prestazioni previdenziali di cui alla legge 26 ottobre 1957, n. 1047, e successive modificazioni, si intendono raggiunti quando la contribuzione stessa risulti versata.
 
 La prova dell'avvenuto versamento puo' essere raggiunta mediante esibizione della ricevuta esattoriale di pagamento e dichiarazione del servizio contributi agricoli unificati dalla quale risulti che il richiedente la prestazione e' soggetto all'obbligo assicurativo per la invalidita' e la vecchiaia.
 
-### Art. 63
+## Art. 63
 
 Gli elenchi nominativi dei coltivatori diretti e dei coloni e mezzadri previsti dall'articolo 11, primo comma, della legge 9 gennaio 1963, n. 9, sono compilati ogni cinque anni e costituiscono gli elenchi principali aventi validita' quinquennale. Essi sono compilati entro il 30 giugno dell'anno successivo a quello di inizio del quinquennio.
 
@@ -1032,7 +1032,7 @@ Restano ferme le disposizioni di cui ai commi terzo, quinto, sesto e settimo del
 
 Gli elenchi di cui ai precedenti commi sono pubblicati di regola dal 16 al 31 luglio.
 
-### Art. 64
+## Art. 64
 
 Il termine stabilito dall'articolo 7 della legge 18 marzo 1968, n. 238, per la presentazione della domanda di pensione da parte dei superstiti di assicurati e pensionati di cui all'articolo 2 della legge 20 febbraio 1958, n. 55, e' prorogato al 31 dicembre 1975.
 
@@ -1058,7 +1058,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 2 marzo 1974, n. 30, convertito con modificazioni dalla L. 16 aprile 1974, n. 114 ha disposto (con l'art. 2-quater) che "Sono soppressi i termini di decadenza di cui agli articoli 24 e 64 della legge 30 aprile 1969, n. 153. Le pensioni spettanti ai superstiti di assicurato o di pensionato, di cui ai citati articoli, decorrono dal primo giorno del mese successivo a quello della presentazione della domanda".
 
-### Art. 65
+## Art. 65
 
 Gli enti pubblici e le persone giuridiche private, comunque denominate, i quali gestiscono forme di previdenza e di assistenza sociale sono tenuti a compilare annualmente piani di impiego dei fondi disponibili. Per fondi disponibili si intendono le somme eccedenti la normale liquidita' di gestione.
 
@@ -1078,21 +1078,21 @@ L'acquisto e la costruzione di immobili e strutture per uso degli uffici e per a
 
 E' abrogata ogni disposizione contraria alle presenti norme.
 
-### Art. 66
+## Art. 66
 
 ((ARTICOLO ABROGATO DALLA L. 29 LUGLIO 1975, N. 426))
 
-### Art. 67
+## Art. 67
 
 I miglioramenti delle pensioni stabiliti dalla presente legge, non si computano ai fini dell'accertamento dei proventi di cui all'articolo 15 del decreto del Presidente della Repubblica 11 agosto 1963, n. 1329, relativo alle pensioni ed agli assegni in favore dei ciechi civili.
 
-### Art. 68
+## Art. 68
 
 Le disposizioni di cui al secondo comma dell'articolo 10 del regio decreto-legge 14 aprile 1939, n. 636, non si applicano nei confronti dei ciechi che esercitano una attivita' lavorativa.
 
 Le pensioni revocate ai sensi della norma precitata sono ripristinate con decorrenza dalla data di entrata in vigore della presente legge.
 
-### Art. 69
+## Art. 69
 
 Le pensioni, gli assegni e le indennita' spettanti in forza del regio decreto-legge 4 ottobre 1935, n. 1827, e successive modificazioni ed integrazioni, nonche' gli assegni di cui all'articolo 11 della legge 5 novembre 1968, n. 1115, possono essere ceduti, sequestrati e pignorati, nei limiti di un quinto del loro ammontare, per debiti verso l'Istituto nazionale della previdenza sociale derivanti da indebite prestazioni percepite a carico di forme di previdenza gestite dall'Istituto stesso, ovvero da omissioni contributive, escluse, in questo caso, le somme dovute per interessi e sanzioni amministrative. (5)
 
@@ -1118,17 +1118,17 @@ AGGIORNAMENTO (22)
 
 La Corte Costituzionale, con sentenza del 22-30 novembre 1988, n. 1041 (in G.U. 1a s.s. 07/12/1988, n. 49) ha dichiarato l'illegittimita' costituzionale dell'art. 69 della presente legge nella parte in cui non consente, entro i limiti stabiliti dall'art. 2 n. 1 del d.P.R. 5 gennaio 1950 n. 180, la pignorabilita' per crediti alimentari delle pensioni corrisposte dall'INPS.
 
-### Art. 70
+## Art. 70
 
 Per i vecchi lavoratori residenti nella Regione siciliana che fruiscono dell'assegno mensile previsto dalla legge regionale siciliana 21 ottobre 1957, n. 58, ai fini della concessione dei benefici previsti dall'articolo 26 della presente legge si considera valida, ad ogni effetto, l'istruttoria compiuta dall'Amministrazione regionale. Pertanto la corresponsione della pensione di cui sopra, per coloro che hanno superato i 65 anni di eta', decorre automaticamente dalla data di entrata in vigore della presente legge.
 
 La presente norma si applica a tutti i cittadini delle Regioni a statuto speciale che fruiscono gia' di analoghi trattamenti.
 
-### Art. 71
+## Art. 71
 
 E' abrogata ogni disposizione contraria o incompatibile con quelle della presente legge.
 
-### Art. 72
+## Art. 72
 
 La presente legge entra in vigore il primo giorno del mese successivo alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
@@ -1144,7 +1144,7 @@ Visto, il Guardasigilli: GAVA
 
 ## Disposizioni d'attuazione transitorie e finali
 
-### Tabelle
+## Tabelle
 
 TABELLA A
 

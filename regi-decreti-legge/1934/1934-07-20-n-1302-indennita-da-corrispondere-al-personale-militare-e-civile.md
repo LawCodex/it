@@ -46,11 +46,11 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 Abbiamo decretato e decretiamo:
 
-#### Art. 1
+### Art. 1
 
 Sono approvate le annesse norme sulle indennita' da corrispondere al personale militare e civile della Regia aeronautica, firmate, d'ordine Nostro, dal Ministro Segretario di Stato per l'aeronautica.
 
-#### Art. 2
+### Art. 2
 
 Il Governo del Re e' autorizzato a coordinare e riunire in testo unico le disposizioni contenute nel presente decreto con tutte le altre che abbiano attinenza alla materia da esso disciplinata.
 
@@ -74,7 +74,7 @@ Atti del Governo, registro 350, foglio 69. - Giagheddu.
 
 Norme sulle indennita' da corrispondere al personale militare e civile della Regia aeronautica.
 
-#### Art. 1
+### Art. 1
 
 Agli ufficiali dell'Arma aeronautica, ruoli naviganti, nonche' agli ufficiali dell'Esercito, della Marina e delle altre Forze armate dello Stato, comandati nell'Aeronautica militare in servizio aeronavigante, quando essendone abilitati in dipendenza del conseguimento di brevetto aeronautico militare, siano in attivita' di volo, e' dovuta l'indennita' mensile normale di aeronavigazione stabilita dall'annessa tabella A.
 
@@ -224,7 +224,7 @@ Si riporta di seguito la seguente Tabella I:
 
 "Parte d provvedimento in formato grafico"
 
-#### Art. 2
+### Art. 2
 
 Ai sottufficiali e militari di truppa dell'Arma aeronautica, ruolo naviganti, i quali si trovino nelle condizioni di cui al precedente art. 1, e' dovuta l'indennita' mensile normale di pilotaggio stabilita dall'annessa tabella B.
 
@@ -406,7 +406,7 @@ di bordo.............................. 13.000 15.000
 
 Nota. - L'indennita' attribuita agli ufficiali facenti parte di equipaggi fissi di volo e' aumentata del 10 per cento dopo il compimento di ciascuno dei primi tre trienni di appartenenza ad equipaggio fisso e del 20 per cento dopo il compimento del quarto triennio".
 
-#### Art. 3
+### Art. 3
 
 ((Deve intendersi in attivita' di volo il personale che compie, entro il periodo di tempo stabilito dal Ministero, il minimo dei voli da questo prescritto.
 
@@ -420,7 +420,7 @@ AGGIORNAMENTO (7)
 
 Il Regio Decreto 15 gennaio 1942, n. 220 ha disposto (con l'art. 4, comma 1) che il comma 3 del presente articolo entra in vigore l' 11 giugno 1940.
 
-#### Art. 4
+### Art. 4
 
 Al personale militare che frequenta corsi di pilotaggio, compreso quello che si svolge presso l'Accademia aeronautica, e' dovuta, dalla data del conseguimento del brevetto di pilota di aeroplano fino a quella del conseguimento del brevetto di pilota militare, la seguente
 
@@ -480,7 +480,7 @@ La L. 27 maggio 1970, n. 365 ha disposto (con l'art. 7, comma 1) che "L'indennit
 
 Ha inoltre disposto (con l'art. 7, comma 2) che " L'indennita' mensile di volo spettante, ai sensi del suddetto articolo 4, agli ufficiali che frequentano corsi di osservazione aerea e' stabilita nelle misure di lire 16.000 dal 1 luglio 1970 e di lire 18.000 dal 1 gennaio 1971".
 
-#### Art. 5
+### Art. 5
 
 L'indennita' di aeronavigazione o di pilotaggio ((e' sospesa o ridotta, nelle stesse misure di riduzione previste per lo stipendio, salvo il disposto del successivo articolo 8)): ((22))
 
@@ -506,7 +506,7 @@ La L. 23 marzo 1983, n. 78 ha disposto (con l'art. 23, comma 1) che "Le indennit
 
 Ai soli fini del trattamento di quiescenza i benefici della presente legge decorrono dal 1 gennaio 1982".
 
-#### Art. 6
+### Art. 6
 
 Le indennita' di aeronavigazione e di pilotaggio sono cumulabili con qualsiasi altra indennita', eccetto che con quelle di volo di cui ai successivi articoli 9, 10, 11 e 12.
 
@@ -518,13 +518,13 @@ Qualora pero' l'esonero definitivo dipenda da ragioni di salute, le indennita' s
 
 Ai militari del Regio esercito, della Regia marina e delle altre Forze armate dello Stato, comandati nella Regia aeronautica in servizio aeronavigante, la corresponsione delle indennita' suddette cessa, in ogni caso, dalla data di restituzione al corpo di provenienza.
 
-#### Art. 7
+### Art. 7
 
 L'indennita' di aeronavigazione o di pilotaggio compete per un anno al militare che non puo' esercitare attivita' di volo per infermita' temporanee dipendenti da cause di servizio debitamente riconosciute, a norma e con le modalita' previste dalle disposizioni vigenti.
 
 Per il tempo successivo, la continuazione dell'indennita' verra' di volta in volta determinata dal Ministero dell'aeronautica.
 
-#### Art. 8
+### Art. 8
 
 Agli ufficiali piloti ed osservatori ed ai sottufficiali piloti di cui agli articoli 1 e 2, in servizio nella Regia aeronautica da oltre due anni, compete durante il tempo in cui non possono esercitare l'attivita' di volo per infermita' temporanee non dipendenti da cause di servizio, l'indennita' di aeronavigazione o di pilotaggio per i primi sei mesi; esso e' ridotta alla meta' per un successivo periodo eguale al precedente.
 
@@ -534,7 +534,7 @@ I periodi per la corresponsione dell'indennita' si computano dal primo del mese 
 
 ## CAPO II. - Indennita' di volo.
 
-#### Art. 9
+### Art. 9
 
 Agli ufficiali del Corpo del Genio aeronautico, ruolo ingegneri, agli ufficiali del Corpo Sanitario aeronautico ed agli ufficiali medici del Regio esercito, della Regia marina e della Croce Rossa Italiana, in servizio nella Regia aeronautica, spetta l'indennita' di volo nella misura, di lire cinquecento mensili.
 
@@ -606,7 +606,7 @@ Ha inoltre disposto (con l'art. 8, comma 5) che " Agli ufficiali medici dell'Ese
 
 Agli stessi ufficiali, quando facciano parte degli equipaggi fissi di volo, compete invece l'indennita' mensile di volo nella misura stabilita nell'annessa Tabella II, n. 1)".
 
-#### Art. 10
+### Art. 10
 
 Agli ufficiali dell'Arma aeronautica, ruolo servizi, qualora provengano dal servizio permanente effettivo dei ruoli naviganti, dopo avervi compiuto un periodo di servizio aeronavigante non inferiore a 10 anni o dopo essere stati dichiarati inabili al pilotaggio in seguito a lesioni dovute a cause di servizio aeronavigante. nonche' agli ufficiali dell'Arma aeronautica, ruolo specialisti, e del Corpo del genio aeronautico, ruolo assistenti tecnici, aventi l'obbligo continuativo di volo, e' dovuta l'indennita' mensile di volo di lire 7800 se colonnelli o generali e di lire 7400 se di gradi inferiori a colonnello.
 
@@ -666,7 +666,7 @@ AGGIORNAMENTO (21)
 
 La L. 27 maggio 1970, n. 365 ha disposto (con l'art. 8, comma 1) che "L'indennita' mensile di volo prevista dall'articolo 10 del decreto-legge 20 luglio 1934, n. 1302, e successive modificazioni, e' stabilita, per gli ufficiali facenti parte degli equipaggi fissi di volo ed appartenenti all'Arma aeronautica, ruolo specialisti, e al Corpo del genio aeronautico, ruolo assistenti tecnici, nelle misure indicate nell'annessa Tabella II, n. 1), ed e' estesa nelle stesse misure agli ufficiali del Corpo sanitario aeronautico facenti parte degli equipaggi fissi di volo. Per gli ufficiali non facenti parte degli equipaggi fissi di volo ed appartenenti alle categorie motoristi, montatori, marconisti, armieri, fotografi ed elettromeccanici di bordo dell'Arma aeronautica, ruolo specialisti, l'indennita' e' stabilita nelle misure indicate nell'annessa Tabella II, n. 2)".
 
-#### Art. 11
+### Art. 11
 
 Ai sottufficiali e graduati di truppa specializzati dell'Aeronautica indicati nella annessa tabella C e' dovuta l'indennita' mensile di volo stabilita dalla tabella medesima.(16)
 
@@ -720,7 +720,7 @@ AGGIORNAMENTO (21)
 
 La L. 27 maggio 1970, n. 365 ha disposto (con l'art. 9, comma 1) che "L'indennita' mensile di volo spettante, ai sensi dell'articolo 11 delle norme approvate con decreto-legge 20 luglio 1934, n. 1302, e successive modificazioni, ai sottufficiali, primi avieri e avieri scelti a ferma speciale dell'Arma aeronautica, ruolo specialisti, e' stabilita nelle misure indicate nell'annessa Tabella III".
 
-#### Art. 12
+### Art. 12
 
 ((Ai dipendenti civili, compresi gli operai, e ai militari non aventi diritto ad indennita' fissa mensile di aeronavigazione, di pilotaggio o di volo, che compiono nell'interesse del servizio voli comandati, spetta, per ogni ora o frazione di ora di volo, una indennita' di lire 800, con limite, per ciascun dipendente civile o militare, di un importo complessivo mensile di L. 7.000)).
 
@@ -752,7 +752,7 @@ La L. 29 novembre 1961, n. 1300 ha disposto (con l'art. 8, comma 1) che le prese
 
 ## CAPO III. - Indennita' di rappresentanza.
 
-#### Art. 13
+### Art. 13
 
 ((L'indennita' di rappresentanza di cui all'art. 177 del R. decreto 11 novembre 1923-II, n. 2395, e' dovuta agli ufficiali in servizio permanente effettivo sotto indicati nella seguente misura annua:
 
@@ -790,7 +790,7 @@ Le indennita' di cui al presente articolo sono soggette alle riduzioni sancite d
 
 ## CAPO IV. - Indennita' di alloggio.
 
-#### Art. 14
+### Art. 14
 
 ((Agli ufficiali generali che rivestono una delle cariche appresso indicate e' dovuta la indennita' per spese di alloggio nella misura seguente:
 
@@ -858,7 +858,7 @@ AGGIORNAMENTO (3)
 
 Il Regio D.L. 5 settemebre 1938, n. 1432 convertito senza modificazioni dalla L. 27 febbraio 1939, n. 493 ha disposto (con l'art. 3, comma 1) che la presente modifica ha effetto dal 1 luglio 1938.
 
-#### Art. 15
+### Art. 15
 
 L'indennita' di alloggio decorre dal giorno dell'assunzione alla carica per la quale e' stabilita, e cessa dal giorno in cui essa viene lasciata.
 
@@ -872,7 +872,7 @@ Ove, peraltro, l'Amministrazione, avuto riguardo alla durata della licenza o all
 
 ## CAPO V. - Indennita' di responsabilita' o di officina.
 
-#### Art. 16
+### Art. 16
 
 ((COMMA ABROGATO DALLA L. 5 FEBBRAIO 1965, N. 26)).
 
@@ -888,7 +888,7 @@ Le indennita' di cui sopra decorrono dal giorno in cui il personale (militare e 
 
 ## CAPO VI. - Indennita' di mestiere.
 
-#### Art. 17
+### Art. 17
 
 Ai sottufficiali e militari di truppa, appartenenti alle categorie indicate nell'annessa tabella 1, sono dovute le indennita' giornaliere di mestiere previste dalla tabella stessa.
 
@@ -898,7 +898,7 @@ I sergenti maggiori ed i primi avieri, per aver diritto a tale trattamento, devo
 
 Le indennita' di mestiere non sono cumulabili con il compenso di lavoro previsto dall'art. 260 del regolamento generale sui salariati dello Stato, approvato col R. decreto 31 dicembre 1924, n. 2262.
 
-#### Art. 18
+### Art. 18
 
 I sottufficiali e militari di truppa appartenenti alle categorie indicate nell'annessa tabella 1, i quali non possano esercitare la propria specialita' per infermita' dipendenti da cause di servizio, debitamente riconosciute a norma e con le modalita' previste dalle disposizioni in vigore, conservano l'indennita' di mestiere per i primi sei mesi.
 
@@ -918,21 +918,19 @@ La sospensione di cui alla lettera e) inflitta per abituale cattiva condotta o p
 
 ## CAPO VII. - Indennita' di residenza malarica.
 
-#### Art. 19
+### Art. 19
 
 ((ARTICOLO ABROGATO DALLA L. 1 LUGLIO 1966, N. 537))
 
 ## CAPO VIII. - Soprassoldi per servizi ed incarichi speciali.
 
-#### Art. 20
+### Art. 20
 
 ((ARTICOLO ABROGATO DALLA L. 1 LUGLIO 1966, N. 537))
 
-## CAPO IX. - Trattamento economico agli ufficiali comandati
+## CAPO IX. - Trattamento economico agli ufficiali comandati a frequentare corsi di istruzione ed a sostenere esami.
 
-### a frequentare corsi di istruzione ed a sostenere esami.
-
-#### Art. 21
+### Art. 21
 
 Agli ufficiali comandati a frequentare corsi di istruzione teorici e pratici ed a sostenere esami, sia presso scuole militari o civili, sia presso enti o reparti militari, verra' corrisposta una indennita' nella misura seguente:
 
@@ -954,13 +952,13 @@ Il trattamento stesso, inoltre, non compete per i corsi pei quali ne sia fatta e
 
 ## CAPO X. - Indennita' vestiario per i sottufficiali di nuova nomina.
 
-#### Art. 22
+### Art. 22
 
 Ai sottufficiali di nuova nomina e' dovuta una indennita' vestiario di L. 500.
 
 ## CAPO XI. - Assegni mensa.
 
-#### Art. 23
+### Art. 23
 
 ((Alle mense ufficiali e sottufficiali costituite presso gli aeroporti sono corrisposti per il personale militare e civile e per il personale civile di ruolo e non, ivi compresi i direttori di aeroporto civile e il personale salariato, in forza amministrativa agli aeroporti stessi e che vi presti servizio effettivo o che debba presso di essi svolgere la propria attivita' di volo ai fini di cui ai precedente art. 3, la razione in contanti ed il trattamento tavola, nella misura stabilita, dall'annessa tabella 2.
 
@@ -980,7 +978,7 @@ AGGIORNAMENTO (11)
 
 Il D.Lgs. del Capo Provvisorio dello Stato 24 ottobre 1947, n. 1428 ha disposto (con l'art. 3, comma 1) che la presente modifica si applica a decorrere dal 1 maggio 1944.
 
-#### Art. 24
+### Art. 24
 
 Il trattamento tavola e la razione in contanti vengono corrisposti anche per le giornate in cui gli ufficiali ed il personale civile di cui all'articolo precedente fruiscano di indennita' di missione ridotta; non vengono invece corrisposti durante le licenze, ne' per le giornate in cui essi fruiscono di indennita' di missione intera.
 
@@ -1000,7 +998,7 @@ e) in attesa di collocamento a riposo o in riforma per infermita' dipendenti da 
 
 f) durante le missioni per le giornate solari di effettiva assenza dalla destinazione di servizio, fatta eccezione per le missioni da compiere all'estero.
 
-#### Art. 25
+### Art. 25
 
 Gli assegni vitto per le mense degli allievi della Regia accademia aeronautica nonche' dei famigli addetti alla cucina e alla mensa degli allievi, sono indicati nella seguente tabella:
 
@@ -1028,21 +1026,19 @@ La quota giornaliera, di cui alla suindicata tabella, potra' essere, in relazion
 
 ## CAPO XII. - Indennita' di campo.
 
-#### Art. 26
+### Art. 26
 
 ((ARTICOLO ABROGATO DALLA L. 1 LUGLIO 1966, N. 537))
 
-## CAPO XIII. - Indennita' per il personale militare e civile destinato nei depositi,
+## CAPO XIII. - Indennita' per il personale militare e civile destinato nei depositi, stazioni aerologiche e telegrafiche della regia aeronautica.
 
-### stazioni aerologiche e telegrafiche della regia aeronautica.
-
-#### Art. 27
+### Art. 27
 
 ((ARTICOLO ABROGATO DALLA L. 1 LUGLIO 1966, N. 537))
 
 ## CAPO XIV. - Premi di allenamento e di addestramento.
 
-#### Art. 28
+### Art. 28
 
 Ai militari in congedo che compiono l'allenamento o l'addestramento periodico annuale, competono, al termine del periodo di allenamento o dell'addestramento e purche' siano dichiarati allenati o addestrati, i seguenti premi:
 
@@ -1072,17 +1068,15 @@ La L. 18 dicembre 1952, n. 3099 ha disposto (con l'art. 3, comma 1) che "Le misu
 
 Ha inoltre disposto (con l'art. 5, comma 1) che la presente mdoifica si applica a decorrere dal 1 aprile 1951.
 
-## CAPO XV. - Compensi al personale insegnante della R. accademia
+## CAPO XV. - Compensi al personale insegnante della R. accademia aeronautica e delle altre scuole militari aeronautiche.
 
-### aeronautica e delle altre scuole militari aeronautiche.
-
-#### Art. 29
+### Art. 29
 
 ((ARTICOLO ABROGATO DALLA L. 5 DICEMBRE 1955, N. 1305))
 
 ## CAPO XVI. - Disposizione transitoria.
 
-#### Art. 30
+### Art. 30
 
 Per un periodo di sei anni a partire dalla data di entrata in vigore del presente decreto, ai sottufficiali e militari di truppa dell'Arma aeronautica ruolo specialisti ed a quelli del Corpo del genio aeronautico ruolo assistenti tecnici, nominati specialisti o assistenti tecnici prima dell'entrata in vigore del presente decreto, si applica, se piu' favorevole, il trattamento indicato nella tabella 3 allegata al regolamento sulle indennita' aeronautiche, approvato con decreto commissariale 27 giugno 1924, in luogo del trattamento di cui alla tabella 1 e in quanto ne abbiano diritto di quello previsto dall'art. 11 del presente decreto, salvo agli interessati di optare per l'uno o l'altro trattamento.
 
@@ -1092,7 +1086,7 @@ Agli ufficiali del genio aeronautico - ruolo ingegneri - muniti del brevetto di 
 
 ## CAPO XVII. - Disposizioni finali.
 
-#### Art. 31
+### Art. 31
 
 ((Le indennita', gli assegni, i compensi ed i soprassoldi previsti dal presente decreto sono soggette alle riduzioni previste dai Regi decreti-legge 20 novembre 1930, n. 1491, e 14 aprile 1934, n. 561, ad eccezione delle indennita' di cui agli articoli 1, 2, 4, 11 e 17, che debbono intendersi gia' depurate delle riduzioni anzidette)).((10))
 
@@ -1102,7 +1096,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. Luogotenenziale 22 marzo 1945, n. 244 ha disposto (con l'art. 6, comma 1) che la presente modifica si applica a decorrere dal 1 maggio 1944.
 
-#### Art. 32
+### Art. 32
 
 Sono abrogate le disposizioni del regolamento sulle indennita' aeronautiche, approvate con decreto commissariale 27 giugno 1924, contenute negli articoli da 1 a 27 incluso, da 36 a 44 incluso, nei numeri 4, 5 e nell'ultimo comma dell'articolo 45 e quelle contenute nell'art. 46.
 
@@ -1136,7 +1130,7 @@ Il Ministro per l'aeronautica:
 
 Mussolini.
 
-#### Tabelle
+### Tabelle
 
 TABELLA I
 

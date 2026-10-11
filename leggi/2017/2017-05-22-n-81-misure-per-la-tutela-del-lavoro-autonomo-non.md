@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I
+## Capo I - TUTELA DEL LAVORO AUTONOMO
 
-### TUTELA DEL LAVORO AUTONOMO
-
-#### Art. 1
+### Art. 1
 
 Ambito di applicazione
 
@@ -54,7 +52,7 @@ Ambito di applicazione
 
 > «Art. 2083 (Piccoli imprenditori). - Sono piccoli imprenditori i coltivatori diretti del fondo, gli artigiani, i piccoli commercianti e coloro che esercitano un'attivita' professionale organizzata prevalentemente con il lavoro proprio e dei componenti della famiglia.».
 
-#### Art. 2
+### Art. 2
 
 Tutela del lavoratore autonomo
 
@@ -72,7 +70,7 @@ nelle transazioni commerciali
 
 > Per amministrazioni pubbliche si intendono tutte le amministrazioni dello Stato, ivi compresi gli istituti e scuole di ogni ordine e grado e le istituzioni educative, le aziende ed amministrazioni dello Stato ad ordinamento autonomo, le regioni, le province, i comuni, le comunita' montane, e loro consorzi e associazioni, le istituzioni universitarie, gli Istituti autonomi case popolari, le camere di commercio, industria, artigianato e agricoltura e loro associazioni, tutti gli enti pubblici non economici nazionali, regionali e locali, le amministrazioni, le aziende e gli enti del Servizio sanitario nazionale, l'Agenzia per la rappresentanza negoziale delle pubbliche amministrazioni (ARAN) e le agenzie di cui al decreto legislativo 30 luglio 1999, n. 300. Fino alla revisione organica della disciplina di settore, le disposizioni di cui al presente decreto continuano ad applicarsi anche al CONI.».
 
-#### Art. 3
+### Art. 3
 
 Clausole e condotte abusive
 
@@ -96,7 +94,7 @@ Clausole e condotte abusive
 
 > 3-bis. Ferma restando l'eventuale applicazione dell'art. 3 della legge 10 ottobre 1990, n. 287, l'Autorita' garante della concorrenza e del mercato puo', qualora ravvisi che un abuso di dipendenza economica abbia rilevanza per la tutela della concorrenza e del mercato, anche su segnalazione di terzi ed a seguito dell'attivazione dei propri poteri di indagine ed esperimento dell'istruttoria, procedere alle diffide e sanzioni previste dall'art. 15 della legge 10 ottobre 1990, n. 287, nei confronti dell'impresa o delle imprese che abbiano commesso detto abuso. In caso di violazione diffusa e reiterata della disciplina di cui al decreto legislativo 9 ottobre 2002, n. 231, posta in essere ai danni delle imprese, con particolare riferimento a quelle piccole e medie, l'abuso si configura a prescindere dall'accertamento della dipendenza economica.».
 
-#### Art. 4
+### Art. 4
 
 Apporti originali e invenzioni del lavoratore
 
@@ -108,7 +106,7 @@ Apporti originali e invenzioni del lavoratore
 
 > \- Il testo del decreto legislativo 10 febbraio 2005, n. 30 (Codice della proprieta' industriale, a norma dell'art. 15 della legge 12 dicembre 2002, n. 273) e' pubblicato nella Gazzetta Ufficiale 4 marzo 2005, n. 52, supplemento ordinario.
 
-#### Art. 5
+### Art. 5
 
 Delega al Governo in materia di atti pubblici rimessi
 
@@ -124,7 +122,7 @@ c) individuazione delle circostanze che possano determinare condizioni di confli
 
 2\. Dall'attuazione dei decreti legislativi di cui al comma 1 non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni competenti provvedono ai relativi adempimenti mediante le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
-#### Art. 6
+### Art. 6
 
 Deleghe al Governo in materia di sicurezza e protezione sociale dei professionisti iscritti a ordini o collegi e di ampliamento delle prestazioni di maternita' e di malattia riconosciute ai lavoratori autonomi iscritti alla Gestione separata
 
@@ -168,7 +166,7 @@ c) previsione di un aumento dell'aliquota aggiuntiva di cui all'articolo 59, com
 
 > Con decreto del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica e con il Ministro della sanita', da emanare entro sei mesi dalla data di entrata in vigore della presente disposizione, si provvede alla disciplina della tutela per malattia in caso di degenza ospedaliera nei limiti delle risorse derivanti dallo specifico gettito contributivo e in relazione al reddito individuale.».
 
-#### Art. 7
+### Art. 7
 
 Stabilizzazione ed estensione dell'indennita' di disoccupazione per i lavoratori con rapporto di collaborazione coordinata e continuativa - DIS-COLL
 
@@ -226,7 +224,7 @@ Stabilizzazione ed estensione dell'indennita' di disoccupazione per i lavoratori
 
 > 15-quater. L'INPS trasmette tempestiva-mente al Ministero del lavoro e delle politiche sociali e al Ministero dell'economia e delle finanze i dati relativi all'andamento delle entrate contributive e del costo della prestazione di cui al comma 15-bis ai fini dell'applicazione delle disposizioni di cui all'art. 17, commi da 12 a 13, della legge 31 dicembre 2009, n. 196, e successive modificazioni».
 
-#### Art. 8
+### Art. 8
 
 Disposizioni fiscali e sociali
 
@@ -256,7 +254,7 @@ L'indennita' e' calcolata, per ciascuna giornata del periodo indennizzabile, in 
 
 11\. Agli oneri derivanti dall'attuazione del comma 10, valutati in 0,36 milioni di euro annui a decorrere dall'anno 2017, si provvede ai sensi dell'articolo 25, comma 3.
 
-#### Art. 9
+### Art. 9
 
 Deducibilita' delle spese di formazione
 
@@ -270,7 +268,7 @@ e accesso alla formazione permanente
 
 > \- Per il testo dell'art. 54, comma 5, del citato decreto del Presidente della Repubblica n. 917 del 1986, si vedano le note all'art. 8.
 
-#### Art. 10
+### Art. 10
 
 Accesso alle informazioni sul mercato
 
@@ -338,7 +336,7 @@ riqualificazione e ricollocazione
 
 > b) sono aggiunti, in fine, i seguenti periodi: "Nell'ambito di tale organismo e' previsto un comitato tecnico composto da funzionari ed esperti del settore sociale e medico-legale e degli organismi individuati dalle regioni ai sensi dell'art. 4 del presente decreto, con particolare riferimento alla materia delle inabilita', con compiti relativi alla valutazione delle residue capacita' lavorative, alla definizione degli strumenti e delle prestazioni atti all'inserimento e alla predisposizione dei controlli periodici sulla permanenza delle condizioni di inabilita'. Agli oneri per il funzionamento del comitato tecnico si provvede mediante corrispondente riduzione dell'autorizzazione di spesa per il funzionamento della commissione di cui al comma 1.».
 
-#### Art. 11
+### Art. 11
 
 Delega al Governo in materia di semplificazione
 
@@ -358,7 +356,7 @@ d) riformulazione e razionalizzazione dell'apparato sanzionatorio, amministrativ
 
 2\. Dall'attuazione dei decreti legislativi di cui al comma 1 non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni competenti provvedono ai relativi adempimenti mediante le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
-#### Art. 12
+### Art. 12
 
 Informazioni e accesso agli appalti pubblici e ai bandi per l'assegnazione di incarichi e appalti privati
 
@@ -378,7 +376,7 @@ c) di costituire associazioni temporanee professionali, secondo la disciplina pr
 
 4\. Agli adempimenti di cui al comma 1 si provvede senza nuovi o maggiori oneri per la finanza pubblica, con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
-#### Art. 13
+### Art. 13
 
 Indennita' di maternita'
 
@@ -394,7 +392,7 @@ Indennita' di maternita'
 
 > 2\. Ai sensi del comma 12 dell'art. 80 della legge 23 dicembre 2000, n. 388, la tutela della maternita' prevista dalla disposizione di cui al comma 16, quarto periodo, dell'art. 59 della legge 27 dicembre 1997, n. 449, avviene nelle forme e con le modalita' previste per il lavoro dipendente, a prescindere, per quanto concerne l'indennita' di maternita' spettante per i due mesi antecedenti la data del parto e per i tre mesi successivi, dalla effettiva astensione dall'attivita' lavorativa. A tal fine, si applica il decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, del 4 aprile 2002, pubblicato nella Gazzetta Ufficiale n. 136 del 12 giugno 2002. Con decreto del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro dell'economia e delle finanze, e' disciplinata l'applicazione delle disposizioni di cui agli articoli 7, 17 e 22 nei limiti delle risorse rinvenienti dallo specifico gettito contributivo, da determinare con il medesimo decreto.».
 
-#### Art. 14
+### Art. 14
 
 Tutela della gravidanza, malattia e infortunio
 
@@ -420,7 +418,7 @@ Tutela della gravidanza, malattia e infortunio
 
 > 5\. Nelle aziende in cui operano lavoratrici autonome di cui al Capo XI, e' possibile procedere, in caso di maternita' delle suddette lavoratrici, e comunque entro il primo anno di eta' del bambino o nel primo anno di accoglienza del minore adottato o in affidamento, all'assunzione di personale a tempo determinato e di personale temporaneo, per un periodo massimo di dodici mesi, con le medesime agevolazioni di cui al comma 3.».
 
-#### Art. 15
+### Art. 15
 
 Modifiche al codice di procedura civile
 
@@ -452,7 +450,7 @@ b) all'articolo 634, secondo comma, dopo le parole: «che esercitano un'attivita
 
 > Per i crediti relativi a somministrazioni di merci e di danaro nonche' per prestazioni di servizi fatte da imprenditori che esercitano una attivita' commerciale e da lavoratori autonomi anche a persone che non esercitano tale attivita', sono altresi' prove scritte idonee gli estratti autentici delle scritture contabili di cui agli articoli 2214 e seguenti del codice civile, purche' bollate e vidimate nelle forme di legge e regolarmente tenute, nonche' gli estratti autentici delle scritture contabili prescritte dalle leggi tributarie, quando siano tenute con l'osservanza delle norme stabilite per tali scritture.».
 
-#### Art. 16
+### Art. 16
 
 Procedura di adozione dei decreti legislativi
 
@@ -502,7 +500,7 @@ di cui agli articoli 5, 6 e 11
 
 > g) esprime gli indirizzi per l'attivita' dell'Agenzia per i servizi sanitari regionali.».
 
-#### Art. 17
+### Art. 17
 
 Tavolo tecnico di confronto permanente
 
@@ -518,11 +516,9 @@ c) formazione professionale.
 
 2\. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le attivita' previste dal presente articolo sono svolte dalle amministrazioni interessate nell'ambito delle risorse umane, finanziarie e strumentali gia' disponibili a legislazione vigente. Ai componenti del tavolo di cui al comma 1 non spetta alcun compenso, indennita', gettone di presenza, rimborso di spese o emolumento, comunque denominato.
 
-## Capo II
+## Capo II - LAVORO AGILE
 
-### LAVORO AGILE
-
-#### Art. 18
+### Art. 18
 
 Lavoro agile
 
@@ -540,7 +536,7 @@ Lavoro agile
 
 5\. Agli adempimenti di cui al presente articolo si provvede senza nuovi o maggiori oneri per la finanza pubblica, con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
-#### Art. 19
+### Art. 19
 
 Forma e recesso
 
@@ -574,7 +570,7 @@ Forma e recesso
 
 > 7\. I datori di lavoro, pubblici e privati, sono tenuti a garantire la conservazione del posto di lavoro a quei soggetti che, non essendo disabili al momento dell'assunzione, abbiano acquisito per infortunio sul lavoro o malattia professionale eventuali disabilita'.».
 
-#### Art. 20
+### Art. 20
 
 Trattamento, diritto all'apprendimento continuo
 
@@ -590,7 +586,7 @@ e certificazione delle competenze del lavoratore
 
 > «Art. 51 (Norme di rinvio ai contratti collettivi). - 1. Salvo diversa previsione, ai fini del presente decreto, per contratti collettivi si intendono i contratti collettivi nazionali, territoriali o aziendali stipulati da associazioni sindacali comparativamente piu' rappresentative sul piano nazionale e i contratti collettivi aziendali stipulati dalle loro rappresentanze sindacali aziendali ovvero dalla rappresentanza sindacale unitaria.».
 
-#### Art. 21
+### Art. 21
 
 Potere di controllo e disciplinare
 
@@ -608,7 +604,7 @@ Potere di controllo e disciplinare
 
 > 3\. Le informazioni raccolte ai sensi dei commi 1 e 2 sono utilizzabili a tutti i fini connessi al rapporto di lavoro a condizione che sia data al lavoratore adeguata informazione delle modalita' d'uso degli strumenti e di effettuazione dei controlli e nel rispetto di quanto disposto dal decreto legislativo 30 giugno 2003, n. 196.».
 
-#### Art. 22
+### Art. 22
 
 Sicurezza sul lavoro
 
@@ -616,7 +612,7 @@ Sicurezza sul lavoro
 
 2\. Il lavoratore e' tenuto a cooperare all'attuazione delle misure di prevenzione predisposte dal datore di lavoro per fronteggiare i rischi connessi all'esecuzione della prestazione all'esterno dei locali aziendali.
 
-#### Art. 23
+### Art. 23
 
 Obblighi di comunicazione e assicurazione obbligatoria per gli infortuni sul lavoro e le malattie professionali
 
@@ -626,7 +622,7 @@ Obblighi di comunicazione e assicurazione obbligatoria per gli infortuni sul lav
 
 3\. Il lavoratore ha diritto alla tutela contro gli infortuni sul lavoro occorsi durante il normale percorso di andata e ritorno dal luogo di abitazione a quello prescelto per lo svolgimento della prestazione lavorativa all'esterno dei locali aziendali, nei limiti e alle condizioni di cui al terzo comma dell'articolo 2 del testo unico delle disposizioni per l'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali, di cui al decreto del Presidente della Repubblica 30 giugno 1965, n. 1124, e successive modificazioni, quando la scelta del luogo della prestazione sia dettata da esigenze connesse alla prestazione stessa o dalla necessita' del lavoratore di conciliare le esigenze di vita con quelle lavorative e risponda a criteri di ragionevolezza.
 
-#### Art. 24
+### Art. 24
 
 Aliquote contributive applicate agli assistenti domiciliari all'infanzia, qualificati o accreditati presso la provincia autonoma di Bolzano
 
@@ -636,11 +632,9 @@ Aliquote contributive applicate agli assistenti domiciliari all'infanzia, qualif
 
 > \- Il testo della della citata legge 27 dicembre 2006, n. 296, modificata dalla presente legge, e' pubblicato nella Gazzetta Ufficiale 27 dicembre 2006, n. 299, supplemento ordinario.
 
-## Capo III
+## Capo III - DISPOSIZIONI FINALI
 
-### DISPOSIZIONI FINALI
-
-#### Art. 25
+### Art. 25
 
 Disposizioni finanziarie
 
@@ -772,7 +766,7 @@ e) quanto a 4,5 milioni di euro per l'anno 2017, 1,9 milioni di euro per l'anno 
 
 > 2\. Al fine di monitorare lo stato di attuazione degli interventi e delle misure di cui alla presente legge e di valutarne gli effetti sull'efficienza del mercato del lavoro, sull'occupabilita' dei cittadini, sulle modalita' di entrata e di uscita nell'impiego, e' istituito presso il Ministero del lavoro e delle politiche sociali, in collaborazione con le altre istituzioni competenti, un sistema permanente di monitoraggio e valutazione basato su dati forniti dall'Istituto nazionale di statistica (ISTAT) e da altri soggetti del Sistema statistico nazionale (Sistan). Al sistema concorrono altresi' le parti sociali attraverso la partecipazione delle organizzazioni maggiormente rappresentative sul piano nazionale dei datori di lavoro e dei lavoratori.».
 
-#### Art. 26
+### Art. 26
 
 Entrata in vigore
 

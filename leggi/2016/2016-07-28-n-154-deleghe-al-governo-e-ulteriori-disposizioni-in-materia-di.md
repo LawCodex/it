@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Titolo I
+## Titolo I - DISPOSIZIONI IN MATERIA DI SEMPLIFICAZIONE E DI SICUREZZA AGROALIMENTARE
 
-### DISPOSIZIONI IN MATERIA DI SEMPLIFICAZIONE E DI SICUREZZA - AGROALIMENTARE
-
-##### Art. 1
+#### Art. 1
 
 Semplificazioni in materia di controlli
 
@@ -188,7 +186,7 @@ Semplificazioni in materia di controlli
 
 > Per quanto concerne le specificazioni tecniche o altri requisiti o le regole relative ai servizi di cui all'art. 1, paragrafo 1, lettera f), secondo comma, punto iii), della presente direttiva, le osservazioni o i pareri circostanziati della Commissione o degli Stati membri possono basarsi unicamente sugli aspetti che costituiscano eventualmente ostacoli agli scambi o, per le regole relative ai servizi, alla libera circolazione dei servizi o alla liberta' di stabilimento dell'operatore di servizi, e non sugli elementi fiscali o finanziari della misura.».
 
-##### Art. 2
+#### Art. 2
 
 Parita' tra i sessi nei consorzi di tutela
 
@@ -202,13 +200,13 @@ Parita' tra i sessi nei consorzi di tutela
 
 3\. I consorzi di tutela provvedono ad adeguare i propri statuti entro ((un anno)) dalla data di entrata in vigore della presente legge, assicurando il rispetto delle disposizioni di cui ai commi 1 e 2. I consorzi di tutela assicurano il rispetto della composizione degli organi sociali in attuazione delle disposizioni di cui ai commi 1 e 2, anche in caso di sostituzione, per tre mandati consecutivi a partire dal primo rinnovo successivo alla data di entrata in vigore della presente legge. Per il primo mandato successivo alla data di entrata in vigore della presente legge, la quota riservata al sesso meno rappresentato e' pari ad almeno un quinto del numero dei componenti dell'organo.
 
-##### Art. 3
+#### Art. 3
 
 Disposizioni in materia di servitu'
 
 1\. I proprietari di strade private sono tenuti a consentire il passaggio di tubazioni per l'allacciamento alla rete del gas di utenze domestiche o aziendali, compresa l'installazione di contatori, nonche' il passaggio di tubazioni per la trasmissione di energia geotermica. Ai fini del rispetto dell'obbligo di cui al presente comma, il sindaco del comune territorialmente competente, su richiesta degli interessati, autorizza l'esecuzione dei lavori di cui al primo periodo, tenendo in debita considerazione la stagionalita' delle colture cui sono destinati i terreni agricoli adiacenti le strade private oggetto dei lavori, al fine di impedire o limitare gli eventuali danneggiamenti alle coltivazioni. L'applicazione delle disposizioni di cui al presente comma comporta l'obbligo di ripristino della strada nello stato antecedente il lavoro e l'eventuale risarcimento del danno causato dal medesimo lavoro alle coltivazioni e alle attrezzature di produzione.
 
-##### Art. 4
+#### Art. 4
 
 Riduzione dei termini per i procedimenti amministrativi
 
@@ -226,7 +224,7 @@ Riduzione dei termini per i procedimenti amministrativi
 
 > \- Il testo del decreto del Presidente della Repubblica 7 settembre 2010, n. 160 (Regolamento per la semplificazione ed il riordino della disciplina sullo sportello unico per le attivita' produttive, ai sensi dell'art. 38, comma 3, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133), e' pubblicato nella Gazzetta Ufficiale 30 settembre 2010, n. 229, supplemento ordinario.
 
-##### Art. 5
+#### Art. 5
 
 Delega al Governo per il riordino e la semplificazione della normativa in materia di agricoltura, silvicoltura e filiere forestali
 
@@ -280,7 +278,7 @@ h) revisione e armonizzazione della normativa nazionale in materia di foreste e 
 
 > 4\. La Conferenza unificata di cui al comma 1 e' convocata dal Presidente del Consiglio dei ministri. Le sedute sono presiedute dal Presidente del Consiglio dei ministri o, su sua delega, dal Ministro per gli affari regionali o, se tale incarico non e' conferito, dal Ministro dell'interno.».
 
-##### Art. 6
+#### Art. 6
 
 Delega al Governo in materia di societa'
 
@@ -324,7 +322,7 @@ l) definire le forme di agevolazione a favore del giovane imprenditore agricolo 
 
 > \- Per i riferimenti normativi al decreto legislativo 28 agosto 1997, n. 281, si veda nelle note all'art. 5.
 
-##### Art. 7
+#### Art. 7
 
 Disposizioni per il sostegno dell'agricoltura e dell'acquacoltura biologiche
 
@@ -344,7 +342,7 @@ Disposizioni per il sostegno dell'agricoltura e dell'acquacoltura biologiche
 
 > \- Per i riferimenti normativi al decreto legislativo 28 agosto 1997, n. 281, si veda nelle note all'art. 5.
 
-##### Art. 8
+#### Art. 8
 
 Modifica all'articolo 35 della legge 24 novembre 2000, n. 340, in materia di controversie riguardanti i masi chiusi
 
@@ -370,7 +368,7 @@ Modifica all'articolo 35 della legge 24 novembre 2000, n. 340, in materia di con
 
 > \- Il testo del decreto legislativo 4 marzo 2010, n. 28 (Attuazione dell'art. 60 della legge 18 giugno 2009, n. 69, in materia di mediazione finalizzata alla conciliazione delle controversie civili e commerciali), e' pubblicato nella Gazzetta Ufficiale 5 marzo 2010, n. 53.
 
-##### Art. 9
+#### Art. 9
 
 Disposizioni in materia di indennita'
 
@@ -382,7 +380,7 @@ espropriative giacenti
 
 3\. Dall'attuazione delle disposizioni del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
-##### Art. 10
+#### Art. 10
 
 Contributo al CONOE
 
@@ -412,7 +410,7 @@ e) gli oli e i grassi animali e vegetali, nonche' i prodotti alimentari con ques
 
 4\. La congruita' del contributo e dei costi di riscossione e' verificata con cadenza annuale dal Ministro dell'ambiente e della tutela del territorio e del mare e dal Ministro dello sviluppo economico, sulla base della documentazione tecnica trasmessa dal CONOE, che provvede ai sensi dell'articolo 233, comma 11, del decreto legislativo 3 aprile 2006, n. 152. L'entita' del contributo resta invariata fino all'adozione del decreto di modifica ai sensi dell'articolo 233, comma 10, lettera d), del decreto legislativo 3 aprile 2006, n. 152.
 
-##### Art. 11
+#### Art. 11
 
 Iscrizione ai consorzi e ai sistemi per la raccolta dei rifiuti previsti dal decreto legislativo 3 aprile 2006, n. 152
 
@@ -440,7 +438,7 @@ L'iscrizione effettuata dall'articolazione territoriale ha effetto retroattivo e
 
 > 4\. Il giudice, con la sentenza di condanna o con quella emessa ai sensi dell'art. 444 del codice di procedura penale, ordina il ripristino dello stato dell'ambiente e puo' subordinare la concessione della sospensione condizionale della pena all'eliminazione del danno o del pericolo per l'ambiente.».
 
-##### Art. 12
+#### Art. 12
 
 Esercizio dell'attivita' di manutenzione del verde
 
@@ -466,7 +464,7 @@ b) da imprese agricole, artigiane, industriali o in forma cooperativa, iscritte 
 
 > c) i produttori di vegetali per i quali e' prescritto l'uso del passaporto delle piante da normative comunitarie.».
 
-##### Art. 13
+#### Art. 13
 
 Costituzione di cauzioni verso lo Stato
 
@@ -488,7 +486,7 @@ o altri enti pubblici
 
 > \- Il testo del decreto legislativo 1° settembre 1993, n. 385 (Testo unico delle leggi in materia bancaria e creditizia), e' pubblicato nella Gazzetta Ufficiale 30 settembre 1993, n. 230, supplemento ordinario.
 
-##### Art. 14
+#### Art. 14
 
 Disposizioni per il rispetto di corrette relazioni commerciali in materia di cessione di prodotti agroalimentari
 
@@ -506,11 +504,9 @@ Disposizioni per il rispetto di corrette relazioni commerciali in materia di ces
 
 > 2\. Le associazioni di categoria maggiormente rappresentative a livello nazionale, regionale e provinciale sono legittimate ad impugnare gli atti amministrativi lesivi degli interessi diffusi.».
 
-## Titolo II
+## Titolo II - DISPOSIZIONI PER LA RAZIONALIZZAZIONE E PER IL CONTENIMENTO DELLA SPESA PUBBLICA
 
-### DISPOSIZIONI PER LA RAZIONALIZZAZIONE E PER IL CONTENIMENTO DELLA - SPESA PUBBLICA
-
-##### Art. 15
+#### Art. 15
 
 Delega al Governo per il riordino degli enti, societa' e agenzie vigilati dal Ministero delle politiche agricole alimentari e forestali, per il riassetto del settore ippico e per il riordino dell'assistenza tecnica agli allevatori e la revisione della disciplina della riproduzione animale
 
@@ -578,7 +574,7 @@ b) l'organigramma comprensivo degli incarichi di consulenza, con indicazione, pe
 
 10\. Dall'attuazione delle disposizioni di cui al presente articolo non devono derivare nuovi o maggiori oneri per la finanza pubblica.
 
-##### Art. 16
+#### Art. 16
 
 Istituzione della Banca delle terre agricole
 
@@ -598,11 +594,9 @@ Istituzione della Banca delle terre agricole
 
 > \- Il testo del decreto legislativo 21 aprile 2000, n. 185 (Incentivi all'autoimprenditorialita' e all'autoimpiego, in attuazione dell'art. 45, comma 1, della legge 17 maggio 1999, n. 144), e' pubblicato nella Gazzetta Ufficiale 6 luglio 2000, n. 156.
 
-## Titolo III
+## Titolo III - DISPOSIZIONI PER LA COMPETITIVITA' E LO SVILUPPO DELLE IMPRESE AGRICOLE E AGROALIMENTARI
 
-### DISPOSIZIONI PER LA COMPETITIVITA' E LO SVILUPPO DELLE IMPRESE - AGRICOLE E AGROALIMENTARI
-
-##### Art. 17
+#### Art. 17
 
 Contratti di rete nel settore agricolo, forestale e agroalimentare
 
@@ -640,7 +634,7 @@ Contratti di rete nel settore agricolo, forestale e agroalimentare
 
 > (Omissis).».
 
-##### Art. 18
+#### Art. 18
 
 Assunzione congiunta di lavoratori
 
@@ -666,7 +660,7 @@ Assunzione congiunta di lavoratori
 
 > 3-quinquies. I datori di lavoro rispondono in solido delle obbligazioni contrattuali, previdenziali e di legge che scaturiscono dal rapporto di lavoro instaurato con le modalita' disciplinate dai commi 3-bis e 3-ter.».
 
-##### Art. 19
+#### Art. 19
 
 Disposizioni per agevolare la partecipazione ai programmi di aiuto europei
 
@@ -686,7 +680,7 @@ b) al comma 8, secondo periodo, la parola: «prioritariamente» e' soppressa.
 
 5\. All'attuazione delle disposizioni dei commi 2 e 3 si provvede nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri a carico della finanza pubblica.
 
-##### Art. 20
+#### Art. 20
 
 Interventi finanziari a sostegno delle imprese agricole, della pesca e dell'acquacoltura
 
@@ -698,7 +692,7 @@ Interventi finanziari a sostegno delle imprese agricole, della pesca e dell'acqu
 
 2\. La legge 19 dicembre 1983, n. 700, e' abrogata. All'articolo 2 della legge 23 dicembre 1996, n. 662, i commi 132-bis e 132-ter sono abrogati. All'articolo 23 della legge 7 agosto 1997, n. 266, i commi da 1 a 4 sono abrogati.
 
-##### Art. 21
+#### Art. 21
 
 Delega al Governo per il riordino degli strumenti di gestione del rischio in agricoltura e per la regolazione dei mercati
 
@@ -718,7 +712,7 @@ Lo schema di ciascun decreto legislativo e' successivamente trasmesso alle Camer
 
 4\. Dall'attuazione delle disposizioni di cui al presente articolo non devono derivare nuovi o maggiori oneri per la finanza pubblica.
 
-##### Art. 22
+#### Art. 22
 
 Disposizioni per lo sviluppo dei prodotti provenienti da filiera corta, dell'agricoltura biologica o comunque a ridotto impatto ambientale
 
@@ -726,11 +720,9 @@ Disposizioni per lo sviluppo dei prodotti provenienti da filiera corta, dell'agr
 
 ## Titolo IV - DISPOSIZIONI RELATIVE A SINGOLI SETTORI PRODUTTIVI
 
-### Capo I - DISPOSIZIONI IN MATERIA DI PRODOTTI DERIVANTI DALLA TRASFORMAZIONE
+### Capo I - DISPOSIZIONI IN MATERIA DI PRODOTTI DERIVANTI DALLA TRASFORMAZIONE DEL POMODORO
 
-#### DEL POMODORO
-
-##### Art. 23
+#### Art. 23
 
 Ambito di applicazione
 
@@ -738,7 +730,7 @@ Ambito di applicazione
 
 2\. Qualora le denominazioni di vendita di cui all'articolo 24 vengano utilizzate nella etichettatura dei prodotti e nella presentazione e nella relativa pubblicita', i prodotti medesimi devono corrispondere alle definizioni del medesimo articolo 24 e rispettare i requisiti di cui all'articolo 25.
 
-##### Art. 24
+#### Art. 24
 
 Definizione dei prodotti
 
@@ -766,7 +758,7 @@ d) pomodori disidratati: prodotti ottenuti per eliminazione dell'acqua di costit
 
 e) pomodori semi-dry o semi-secchi: prodotti ottenuti per eliminazione parziale dell'acqua di costituzione con uso esclusivo di tunnel ad aria calda senza aggiunta di zuccheri.
 
-##### Art. 25
+#### Art. 25
 
 Requisiti dei prodotti
 
@@ -778,7 +770,7 @@ Requisiti dei prodotti
 
 > \- Il testo della direttiva 98/34/CE del Parlamento europeo e del Consiglio, del 22 giugno 1998 che prevede una procedura d'informazione nel settore delle norme e delle regolamentazioni tecniche e delle regole relative ai servizi della societa' dell'informazione, e' pubblicata nella Gazzetta Ufficiale dell'Unione europea 21 luglio 1998, n. L 204.
 
-##### Art. 26
+#### Art. 26
 
 Etichettatura e confezionamento
 
@@ -788,7 +780,7 @@ Etichettatura e confezionamento
 
 I suddetti prodotti, salvo quanto previsto dal decreto di cui all'articolo 25, comma 1, qualora non vengano confezionati direttamente nei contenitori destinati alla vendita, sono conservati in recipienti atti a preservarne i requisiti prescritti.
 
-##### Art. 27
+#### Art. 27
 
 Sanzioni
 
@@ -802,7 +794,7 @@ b) da 9.000 euro a 54.000 euro, se riferita a lotti di produzione superiori a 60
 
 3\. L'autorita' competente a irrogare le sanzioni amministrative pecuniarie di cui al presente articolo e' il Dipartimento dell'Ispettorato centrale della tutela della qualita' e della repressione frodi dei prodotti agroalimentari del Ministero delle politiche agricole alimentari e forestali.
 
-##### Art. 28
+#### Art. 28
 
 Abrogazioni
 
@@ -820,13 +812,13 @@ c) l'articolo 6 del decreto del Ministro delle attivita' produttive 23 settembre
 
 > \- Il testo del decreto del Presidente della Repubblica 11 aprile 1975, n. 428 (Approvazione del regolamento di esecuzione della legge 10 marzo 1969, n. 96, concernente l'istituzione di un controllo qualitativo sulle esportazioni di pomodori pelati e concentrati di pomodoro ed estensione di determinate norme ai medesimi prodotti destinati al mercato interno), abrogato dalla presente legge, e' pubblicato nella Gazzetta Ufficiale 1° settembre 1975, n. 232.
 
-##### Art. 29
+#### Art. 29
 
 Clausola di mutuo riconoscimento
 
 1\. Fatta salva l'applicazione della normativa europea vigente, le disposizioni del presente capo non si applicano ai derivati del pomodoro fabbricati ovvero commercializzati in un altro Stato membro dell'Unione europea o in Turchia ne' ai prodotti fabbricati in uno Stato membro dell'Associazione europea di libero scambio (EFTA), parte contraente dell'Accordo sullo Spazio economico europeo (SEE).
 
-##### Art. 30
+#### Art. 30
 
 Disposizioni transitorie e finali del presente capo
 
@@ -844,11 +836,9 @@ Disposizioni transitorie e finali del presente capo
 
 > \- Per i riferimenti normativi alla direttiva 98/34/CE del Parlamento europeo e del Consiglio, del 22 giugno 1998, si veda nelle note all'art. 25.
 
-## Capo II
+### Capo II - DISPOSIZIONI IN MATERIA DI SOSTEGNO AL SETTORE DEL RISO
 
-### DISPOSIZIONI IN MATERIA DI SOSTEGNO AL SETTORE DEL RISO
-
-##### Art. 31
+#### Art. 31
 
 Delega al Governo per il sostegno al settore del riso
 
@@ -894,7 +884,7 @@ Lo schema di ciascun decreto legislativo e' successivamente trasmesso alle Camer
 
 > 4\. In caso di motivata urgenza il Consiglio dei Ministri puo' provvedere senza l'osservanza delle disposizioni del presente articolo. I provvedimenti adottati sono sottoposti all'esame della Conferenza Stato-regioni nei successivi quindici giorni. Il Consiglio dei Ministri e' tenuto ad esaminare le osservazioni della Conferenza Stato-regioni ai fini di eventuali deliberazioni successive.».
 
-##### Art. 32
+#### Art. 32
 
 Tracciabilita' del prodotto e del processo produttivo
 
@@ -904,11 +894,9 @@ nel settore del riso
 
 2\. I sistemi informatici di cui al comma 1, basati su codici unici e non riproducibili da apporre sulla singola confezione, contengono i dati fiscali del produttore, dell'ente certificatore della filiera del prodotto, del distributore e dell'azienda che fornisce il sistema dei predetti codici, nonche' l'elencazione di ogni fase di lavorazione, e possono essere adattati per la lettura su rete mobile e per le applicazioni per smartphone e tablet.
 
-## Capo III
+### Capo III - DISPOSIZIONI IN MATERIA DI PRODUZIONE DEL BURRO
 
-### DISPOSIZIONI IN MATERIA - DI PRODUZIONE DEL BURRO
-
-##### Art. 33
+#### Art. 33
 
 Semplificazioni in materia di tenuta di registri di carico e scarico del burro
 
@@ -936,11 +924,9 @@ Semplificazioni in materia di tenuta di registri di carico e scarico del burro
 
 > L'uso di denominazioni e di dizioni riferentisi a trattamenti applicati alla materia prima od al prodotto finito, per garantire la salubrita', e' consentito a condizione che il burro cosi' trattato corrisponda ai requisiti stabiliti con decreto di cui al secondo comma del presente articolo.».
 
-## Capo IV
+### Capo IV - DISPOSIZIONI IN MATERIA DI APICOLTURA
 
-### DISPOSIZIONI IN MATERIA DI APICOLTURA
-
-##### Art. 34
+#### Art. 34
 
 Disposizioni in materia di apicoltura e di prodotti apistici
 
@@ -950,11 +936,9 @@ Disposizioni in materia di apicoltura e di prodotti apistici
 
 3\. Agli apicoltori colpiti dalla presenza del parassita Aethina tumida che, a seguito dei provvedimenti adottati dall'autorita' sanitaria, hanno distrutto la totalita' dei propri alveari e' consentita l'immediata reintroduzione dello stesso numero di alveari perduti nella zona di protezione. Tali alveari devono provenire da allevamenti dichiarati indenni dalla presenza del parassita Aethina tumida ed essere accompagnati da idoneo certificato sanitario dei servizi veterinari territorialmente competenti.
 
-## Capo V
+### Capo V - DISPOSIZIONI IN MATERIA DI PRODUZIONE DELLA BIRRA ARTIGIANALE
 
-### DISPOSIZIONI IN MATERIA DI PRODUZIONE DELLA BIRRA ARTIGIANALE
-
-##### Art. 35
+#### Art. 35
 
 Denominazione di birra artigianale
 
@@ -976,7 +960,7 @@ Denominazione di birra artigianale
 
 > 4-bis. Si definisce birra artigianale la birra prodotta da piccoli birrifici indipendenti e non sottoposta, durante la fase di produzione, a processi di pastorizzazione e di microfiltrazione. Ai fini del presente comma si intende per piccolo birrificio indipendente un birrificio che sia legalmente ed economicamente indipendente da qualsiasi altro birrificio, che utilizzi impianti fisicamente distinti da quelli di qualsiasi altro birrificio, che non operi sotto licenza di utilizzo dei diritti di proprieta' immateriale altrui e la cui produzione annua non superi 200.000 ettolitri, includendo in questo quantitativo le quantita' di birra prodotte per conto di terzi.».
 
-##### Art. 36
+#### Art. 36
 
 Filiera del luppolo
 
@@ -986,11 +970,9 @@ Filiera del luppolo
 
 > \- Il testo della legge 23 dicembre 1999, n. 499 (Razionalizzazione degli interventi nei settori agricolo, agroalimentare, agroindustriale e forestale), e' pubblicata nella Gazzetta Ufficiale 30 dicembre 1999, n. 305.
 
-## Capo VI
+### Capo VI - DISPOSIZIONI IN MATERIA DI FUNGO CARDONCELLO E DI PRODOTTI DERIVATI
 
-### DISPOSIZIONI IN MATERIA DI FUNGO CARDONCELLO E DI PRODOTTI DERIVATI
-
-##### Art. 37
+#### Art. 37
 
 Denominazione di fungo cardoncello
 
@@ -998,11 +980,9 @@ e di prodotti derivati
 
 1\. Con la dizione «fungo cardoncello» o «cardoncello» si intende il fungo, spontaneo o coltivato, in qualunque modo trasformato e commercializzato, della sola specie Pleurotus Eryngii.
 
-## Capo VII
+### Capo VII - DISPOSIZIONI IN MATERIA DI FAUNA SELVATICA
 
-### DISPOSIZIONI IN MATERIA DI FAUNA SELVATICA
-
-##### Art. 38
+#### Art. 38
 
 Modifiche all'articolo 7 della legge
 
@@ -1074,11 +1054,9 @@ b) al comma 2, dopo la parola: «controllo» sono inserite le seguenti: «; il d
 
 > 4\. Le regioni, ai fini dell'esercizio dell'allevamento a scopo di ripopolamento, organizzato in forma di azienda agricola singola, consortile o cooperativa, possono consentire al titolare, nel rispetto delle norme della presente legge, il prelievo di mammiferi ed uccelli in stato di cattivita' con i mezzi di cui all'art. 13.».
 
-## Capo VIII
+### Capo VIII - DISPOSIZIONI IN MATERIA DI PESCA E ACQUACOLTURA
 
-### DISPOSIZIONI IN MATERIA DI PESCA E ACQUACOLTURA
-
-##### Art. 39
+#### Art. 39
 
 Modificazioni al decreto legislativo 9 gennaio 2012, n. 4, recante misure per il riassetto della normativa in materia di pesca e acquacoltura
 
@@ -1342,7 +1320,7 @@ c) l'allegato I e' sostituito dall'allegato I annesso alla presente legge.
 
 > 3\. Restano salve la confisca nonche' le pene accessorie, nei casi in cui queste ultime sono applicabili alle violazioni depenalizzate come sanzioni amministrative.».
 
-##### Art. 40
+#### Art. 40
 
 Contrasto del bracconaggio ittico nelle acque interne
 
@@ -1402,11 +1380,9 @@ Tale somma e' raddoppiata nel caso in cui il pescato risulti privo di vita.
 
 11-ter. Con decreto del Ministro della difesa, di concerto con il Ministro delle politiche agricole alimentari e forestali e con il Ministro dell'economia e delle finanze, da emanare entro trenta giorni dalla data di entrata in vigore della presente disposizione, sono definite le modalita' di utilizzo del Fondo di cui al comma 11-bis. Le regioni possono concorrere al finanziamento del Fondo nel limite delle disponibilita' dei propri bilanci allo scopo finalizzate, secondo le modalita' definite dal decreto di cui al primo periodo.
 
-## Titolo V
+## Titolo V - DISPOSIZIONI IN MATERIA DI RIFIUTI AGRICOLI
 
-### DISPOSIZIONI IN MATERIA DI RIFIUTI AGRICOLI
-
-##### Art. 41
+#### Art. 41
 
 Modifica all'articolo 185 del decreto legislativo 3 aprile 2006, n. 152, in materia di esclusione dalla gestione dei rifiuti
 
@@ -1418,11 +1394,9 @@ Modifica all'articolo 185 del decreto legislativo 3 aprile 2006, n. 152, in mate
 
 > \- Per i riferimenti normativi al decreto legislativo 3 aprile 2006, n. 152, si veda nelle note all'art. 10.
 
-## Titolo VI
+## Titolo VI - DISPOSIZIONI FINALI
 
-### DISPOSIZIONI FINALI
-
-##### Art. 42
+#### Art. 42
 
 Copertura finanziaria dei decreti legislativi
 
@@ -1450,7 +1424,7 @@ Visto, il Guardasigilli: Orlando
 
 ## Allegati
 
-##### Annesso
+#### Annesso
 
 Annesso
 
@@ -1686,7 +1660,7 @@ PUNTI ASSEGNATI IN CASO DI INFRAZIONI GRAVI
 
 ».
 
-##### Allegato 1
+#### Allegato 1
 
 ((Allegato 1
 

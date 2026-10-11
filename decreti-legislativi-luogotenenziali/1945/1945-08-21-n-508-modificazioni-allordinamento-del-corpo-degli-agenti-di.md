@@ -42,7 +42,7 @@ Sulla proposta del Ministro Segretario di Stato per la grazia e giustizia, di co
 
 Abbiamo sanzionato e promulghiamo quanto segue:
 
-### Art. 1
+## Art. 1
 
 Il Corpo degli agenti di custodia dipende dal Ministero di grazia e giustizia, e' militarmente organizzato e fa parte delle Forze armate dello stato e di quelle in servizio di pubblica sicurezza.
 
@@ -50,11 +50,11 @@ Sull'uniforme fa uso delle stellette a cinque punte.
 
 Gli agenti di custodia sono equiparati a tutti gli effetti agli agenti di pubblica sicurezza, fermo rimanendo, per il trattamento economico, quanto disposto dal presente decreto.
 
-### Art. 2
+## Art. 2
 
 I componenti il Corpo degli agenti di custodia sono soggetti, per tutti i reati preveduti dalla legge penale militare di pace e di guerra, alle pene da essa comminate e alla giurisdizione militare.
 
-### Art. 3
+## Art. 3
 
 Il ruolo organico e l'ordine gerarchico del Corpo sono determinati dalla tabella A annessa al presente decreto, vistata, d'ordine Nostro, dai Ministri per la grazia e giustizia e per il tesoro.
 
@@ -106,7 +106,7 @@ La L. 31 dicembre 1962, n. 1867 ha disposto (con l'articolo unico) che "Gli aume
 
 Il riassorbimento dei predetti aumenti da effettuarsi secondo le disposizioni dell'articolo 3, comma terzo, del decreto legislativo luogotenenziale 21 agosto 1945 n. 508, avra' inizio il 1 gennaio 1965".
 
-### Art. 4
+## Art. 4
 
 Sono ammessi a servire nel Corpo degli agenti di custodia coloro che riuniscano i seguenti requisiti:
 
@@ -170,7 +170,7 @@ b) essere di sana e robusta costituzione fisica ed immune da qualsiasi difetto o
 
 c) avere attitudine a svolgere i compiti istituzionalmente demandati al Corpo".
 
-### Art. 5
+## Art. 5
 
 Gli agenti di custodia sono reclutati:
 
@@ -186,7 +186,7 @@ Negli arruolamenti sono osservate, per quanto applicabili, le norme del decreto-
 
 Gli agenti di custodia sono dispensati dalla chiamata alle armi della loro classe di leva e dai richiami per istruzione o mobilitazione.
 
-### Art. 6
+## Art. 6
 
 L'art. 6 del regolamento per il Corpo e' modificato come segue:
 
@@ -210,7 +210,7 @@ La domanda di arruolamento nel Corpo degli agenti di custodia deve essere presen
 
 I documenti di cui ai numeri 4, 6 e 7 debbono essere di data non anteriore a tre mesi a quella della presentazione della domanda; il certificato di cui al n. 8 deve avere una data non anteriore ad un mese a quella della presentazione.
 
-### Art. 7
+## Art. 7
 
 Gli arruolati nel Corpo vengono nominati allievi agenti di custodia. Le nomine sono fatte con decreto del Ministro per la grazia e giustizia.
 
@@ -220,19 +220,19 @@ E' in facolta' del Ministero di grazia e giustizia di ridurre la durata normale 
 
 Agli arruolati nel Corpo competono i mezzi di viaggio per raggiungere le scuole di addestramento o le sedi di servizio.
 
-### Art. 8
+## Art. 8
 
 Qualora non sia possibile, attraverso i reclutamenti, procedere alla copertura dei posti di organico stabiliti dall'art. 3 del presente decreto, e' data facolta' al Ministero di grazia e giustizia di richiamare in servizio, in corrispondenza delle vacanze, agenti di custodia pensionati che riuniscano i voluti requisiti fisici e morali e che non abbiano superato il 60° anno di eta'. Ai medesimi verra' sospeso il pagamento dell'assegno di pensione e saranno corrisposte le competenze stabilite nel presente decreto, da computarsi in relazione al grado rivestito all'atto del collocamento a riposo.
 
 Gli agenti richiamati non hanno diritto ad avanzamento di grado. Il servizio da essi prestato non e' considerato utile ai fini della pensione, ne' da' diritto a liquidazione di alcuna indennita' o buonuscita.
 
-### Art. 9
+## Art. 9
 
 Sul premio di arruolamento, spettante agli allievi arruolati nel Corpo per effetto del presente decreto, vengono trattenute L. 1000 da versarsi al fondo massa per il vestiario; il residuo importo e' pagato direttamente agli interessati appena conseguita la nomina ad effettivi.
 
 Per l'ammontare e il numero dei premi di rafferma valgono le disposizioni vigenti per l'Arma dei carabinieri.
 
-### Art. 10
+## Art. 10
 
 ((Ai sottufficiali e guardie del Corpo degli agenti di custodia sono concesse a titolo gratuito la prima vestizione e le successive rinnovazioni nelle quantita' e nei termini prescritti dalla tabella B allegata al regolamento 30 dicembre 1937, n. 2584, ferma rimanendo la disposizione dell'art. 10 del decreto legislativo luogotenenziale 21 agosto 1945, n. 508, relativa alla somministrazione gratuita dei vestiario agli agenti in esperimento.
 
@@ -240,17 +240,17 @@ Per la fornitura sono costituiti presso le scuole di Portici e Roma appositi mag
 
 Sono soppresse le indennita' vestiario previste dalle norme in vigore prima dell'attuazione del presente decreto)).
 
-### Art. 11
+## Art. 11
 
 Gli agenti di custodia, dopo la ferma triennale, possono contrarre otto rafferme triennali, al termine delle quali rimangono in servizio fino al 55° anno di eta'.
 
 Sono soppressi gli aumenti di paga per rafferma stabiliti dal 3° capoverso dell'art. 14 del regolamento 30 dicembre 1937, n. 2584.
 
-### Art. 12
+## Art. 12
 
 ((ARTICOLO ABROGATO DALLA L. 24 APRILE 1962, N. 193))
 
-### Art. 13
+## Art. 13
 
 Le indennita' di cui al precedente art. 12 non sono dovute:
 
@@ -262,7 +262,7 @@ Le indennita' di cui al precedente art. 12 non sono dovute:
 
 4\) alle guardie e graduati assenti dal servizio per licenza o per qualsiasi altro motivo per tutta la durata dell'assenza.
 
-### Art. 14
+## Art. 14
 
 ((Agli appartenenti al Corpo degli agenti di custodia, destinati a prestare servizio nei manicomi e nei sanatori giudiziari, nelle colonie agricole, nelle case di cura e di custodia, nelle case per minorati fisici o psichici, nelle case di lavoro all'aperto della Sardegna, nelle case penali e nelle colonie dell'Arcipelago toscano, nelle case penali di Santo Stefano e di Favignana, nelle carceri giudiziarie di Ustica e negli stabilimenti di qualsiasi genere distaccati in zone malariche, vengono concesse le seguenti speciali indennita' giornaliere:
 
@@ -274,13 +274,13 @@ per le colonie agricole e per le case di lavoro all'aperto della Sardegna, lire 
 
 per i sanatori giudiziari e per gli stabilimenti in zone malariche, lire 20)).
 
-### Art. 15
+## Art. 15
 
 Agli ufficiali del Corpo degli agenti di custodia sono estese le medesime competenze fondamentali ed accessorie previste, per il tempo di pace, dalle disposizioni attualmente in vigore per gli ufficiali dell'Arma dei carabinieri Reali.
 
 Alle competenze fondamentali ed accessorie previste a qualsiasi titolo per gli atri appartenenti al Corpo degli agenti di custodia, sono sostituite quelle attualmente in vigore per il tempo di pace a qualsiasi titolo per i pari grado dell'Arma dei carabinieri Reali, con esclusione dell'indennita' speciale di pubblica sicurezza di cui all'art. 4 del R. decreto 3 gennaio 1944, n. 6, e salve le concessioni particolari stabilite dal presente decreto.
 
-### Art. 16
+## Art. 16
 
 Gli agenti di custodia cessano dal servizio, oltre che nei casi previsti dal regolamento per il Corpo a seguito dei relativi provvedimenti disciplinari, per una delle seguenti cause:
 
@@ -296,7 +296,7 @@ Gli agenti di custodia cessano dal servizio, oltre che nei casi previsti dal reg
 
 La dispensa dal servizio per le ragioni indicate nel n. 5 e' disposta previo parere della Commissione centrale.
 
-### Art. 17
+## Art. 17
 
 Gli agenti di custodia hanno diritto al collocamento a riposo col trattamento di pensione:
 
@@ -304,11 +304,11 @@ Gli agenti di custodia hanno diritto al collocamento a riposo col trattamento di
 
 2\) quando, avendo compiuto i 25 anni di servizio e il 50° anno di eta', ne facciano domanda.
 
-### Art. 18
+## Art. 18
 
 ((ARTICOLO ABROGATO DALLA L. 18 FEBBRAIO 1963, N. 173))
 
-### Art. 19
+## Art. 19
 
 L'art. 48 del regolamento per il Corpo degli agenti di custodia e' modificato come segue:
 
@@ -318,7 +318,7 @@ Ai riammessi e' computato, anche agli effetti della rafferma, il sevizio precede
 
 Le riammissioni sono disposte nei limiti delle vacanze di organico.
 
-### Art. 20
+## Art. 20
 
 L'autorizzazione a contrarre matrimonio puo' essere concessa:
 
@@ -328,7 +328,7 @@ b) alle guardie scelte e alle guardie che abbiano compiuto l'eta' di anni 30.
 
 Per inoltrare la domanda di autorizzazione a contrarre matrimonio, occorre che si sia gia' prestato servizio effettivo alle dipendenze dello Stato per almeno cinque anni.
 
-### Art. 21
+## Art. 21
 
 Per provvedere alla istruzione militare ed alla disciplina degli agenti di custodia e' istituito, nel Corpo degli agenti di custodia delle carceri, il ruolo degli ufficiali (gruppo A).
 
@@ -356,23 +356,23 @@ AGGIORNAMENTO (12)
 
 La L. 5 marzo 1963, n. 284 ha disposto (con l'art. 1, comma 1) che "I posti di sottotenente e tenente del ruolo degli ufficiali del Corpo degli agenti di custodia, istituito con l'articolo 21 del decreto legislativo luogotenenziale 21 agosto 1945, n. 508, per provvedere alla istruzione militare ed alla disciplina degli agenti di custodia, sono resi cumulativi in un unico organico".
 
-### Art. 22
+## Art. 22
 
 Gli ufficiali del Corpo degli agenti di custodia sono ufficiali di polizia giudiziaria.
 
-### Art. 23
+## Art. 23
 
 Il Corpo degli agenti di custodia ha la bandiera nazionale.
 
 Essa viene custodita nell'ufficio del maggiore comandante il Corpo per essere usata nelle cerimonie ufficiali.
 
-### Art. 24
+## Art. 24
 
 Le nomine e le promozioni degli ufficiali del Corpo vengono effettuate per decreto Luogotenenziale su proposta del Ministro per la grazia e giustizia.
 
 Essi dipendono dal Ministero di grazia e giustizia e sono esonerati da qualsiasi richiamo alle armi per istruzione o mobilitazione.
 
-### Art. 25
+## Art. 25
 
 ((Gli ufficiali del Corpo possono essere collocati a riposo su domanda quando abbiano compiuto 25 anni di effettivo servizio ed
 
@@ -398,7 +398,7 @@ Capitani. . . . . . . . . . . . . . . . . " 55
 
 Tenenti e sottotenenti. . . . . . . . . . " 52".))
 
-### Art. 26
+## Art. 26
 
 ((La promozione al grado di colonnello e' conferita a scelta fra gli ufficiali del grado immediatamente inferiore che abbiano una anzianita' di grado di almeno quattro anni e che abbiano conseguito nell'ultimo biennio la classifica di ottimo, previa designazione da parte di una commissione presieduta dal Ministro per la grazia e giustizia o, per sua delega, dal Sottosegretario di Stato per la grazia e giustizia e composta dal direttore generale per gli istituti di prevenzione e di pena, da un ufficiale generale dell'Arma dei carabinieri, designato dal Ministro per la difesa, e dai direttori degli uffici 1ª e 2ª della Direzione generale per gli istituti di prevenzione e di pena.
 
@@ -416,7 +416,7 @@ Le promozioni ai gradi inferiori a quello di colonnello sono conferite su design
 
 Le funzioni di segretario delle commissioni di cui al presente articolo sono esercitate da un impiegato della carriera direttiva del ruolo amministrativo degli istituti di prevenzione e di pena avente qualifica non superiore a quella di direttore o da un ufficiale del Corpo degli agenti di custodia di grado non superiore a quello di maggiore)).
 
-### Art. 27
+## Art. 27
 
 ((Un terzo dei posti di organico che si renderanno vacanti nel grado di sottotenente e' riservato ai sottufficiali del Corpo che rivestano grado non inferiore a quello di brigadiere, non abbiano oltrepassato l'eta' di anni trentacinque, siano in possesso di diploma di scuola media superiore ed abbiano riportato nell'ultimo biennio la classifica di ottimo)).
 
@@ -424,7 +424,7 @@ Per conseguire la nomina i medesimi dovranno frequentare con profitto un apposit
 
 I posti che non potessero essere conferiti a norma del presente articolo saranno portati in aumento a quelli di cui all'articolo seguente.
 
-### Art. 28
+## Art. 28
 
 I rimanenti posti di cui all'articolo precedente verranno conferiti nel grado di sottotenente, mediante pubblico concorso per esami, al quale potranno partecipare gli ufficiali anche di complemento dell'Esercito, della Marina e dell'Aeronautica che abbiano compiuto un periodo minimo di ufficiale di almeno sei mesi e siano provvisti di laurea in giurisprudenza od altro titolo equipollente.
 
@@ -450,21 +450,21 @@ In deroga alla disposizione contenuta nel n. 3 dell'art. 4 del decreto legislati
 
 I reduci dalla deportazione (militari o patrioti civili) possono essere arruolati in quanto non abbiano aderito a servire nelle forze armate fasciste o tedesche".
 
-### Art. 29
+## Art. 29
 
 Sono applicabili al personale del Corpo degli agenti di custodia le disposizioni del decreto legislativo Luogotenenziale 24 aprile 1945, n. 205.
 
 I trasgressori saranno licenziati dal Corpo con decreto del Ministro per la grazia e giustizia.
 
-### Art. 30
+## Art. 30
 
 I sottufficiali e le guardie, quando sono liberi dal servizio, sono autorizzati a portare senza licenza, se in abito borghese, la rivoltella; se in divisa i sottufficiali anche la sciabola e le guardie la sciabola baionetta.
 
-### Art. 31
+## Art. 31
 
 Salvo le disposizioni dell'art. 11 del regolamento per il Corpo, agli allievi sono applicate le sanzioni disciplinari dell'ammonizione, della consegna e della riduzione di paga di cui all'art. 74 del regolamento stesso.
 
-### Art. 32
+## Art. 32
 
 Le facilitazioni di viaggio concesse agli appartenenti alle Forze armate dello Stato con il vigente regolamento per i trasporti militari, sono estese, per il trasporto personale, delle famiglie e dei bagagli, nei viaggi per servizio o per motivi privati, agli appartenenti al Corpo degli agenti di custodia.
 
@@ -472,11 +472,11 @@ Restano ferme le disposizioni del regolamento sulle concessioni speciali, in vir
 
 Il Ministro per i trasporti e' autorizzato ad introdurre, con proprio decreto, le necessarie varianti nel regolamento sui trasporti militari.
 
-### Art. 33
+## Art. 33
 
 Gli appartenenti al Corpo degli agenti di custodia, muniti di tessera di riconoscimento, hanno diritto al libero percorso sulle linee tramviarie e automobilistiche urbane, limitatamente a due soli per ogni vettura, con l'obbligo di prendere posto in piedi uno per piattaforma.
 
-### Art. 34
+## Art. 34
 
 Il contributo delle spese funerarie, previsto dall'articolo 127 del regolamento 30 dicembre 1937, n. 2584, e' elevato da L. 300 a L. 1000.(2)((15))
 
@@ -494,27 +494,27 @@ La L. 26 aprile 1976, n. 353 ha disposto (con l'art. 1) che "Il contributo stata
 
 Il contributo di cui al precedente comma e' concesso anche nei casi di decesso degli ufficiali del Corpo degli agenti di custodia a decorrere dalla suddetta data del 1 gennaio 1976."
 
-### Art. 35
+## Art. 35
 
 E' abolito il vincolo sulla meta' dei premi di rafferma del personale di custodia, stabilito dal primo capoverso dell'art. 14 del regolamento 30 dicembre 1937, n. 2584.
 
-### Art. 36
+## Art. 36
 
 Al personale di custodia che, per particolari ragioni di servizio, venga provvisoriamente aggregato in sede diversa dalla propria, sono corrisposti gli assegni dovuti per la sede di aggregazione, se piu' favorevoli. Tale beneficio non e' in alcun caso cumulabile col trattamento di missione.
 
-### Art. 37
+## Art. 37
 
 Con regolamento sara' provveduto alla emanazione delle nuove norme per il servizio di istituto, la tenuta, l'ordinamento, l'istruzione, la disciplina, il servizio sanitario, l'amministrazione in genere del Corpo.
 
 Tale regolamento sara' emanato di concerto col Ministero del tesoro e con quello della guerra.
 
-### Art. 38
+## Art. 38
 
 Sino a quando non sara' emanato un nuovo regolamento per il Corpo sono applicabili tutte le norme del regolamento 30 dicembre 1937, n. 2584, che non siano incompatibili con le disposizioni del presente decreto.
 
 ## Disposizioni finali e transitorie
 
-### Art. 39
+## Art. 39
 
 Nella prima attuazione del presente decreto potranno conseguire la nomina nei vari gradi del ruolo degli ufficiali del Corpo degli agenti di custodia, mediante concorso interno per titoli e giusta graduatoria di merito, da compilarsi da apposita commissione, i funzionari civili dell'Amministrazione degli istituti di prevenzione e di pena di gruppo A del grado corrispondente o superiore che siano stati ufficiali di complemento nell'Esercito, nella Marina e nella Aeronautica.
 
@@ -522,7 +522,7 @@ Non saranno ammessi al concorso coloro che nell'ultimo biennio abbiano riportato
 
 A loro domanda i detti funzionari possono ritornare nel ruolo di provenienza col grado meno elevato tra quello rivestito nell'Amministrazione e quello conseguito quali ufficiali, e sono collocati anche in soprannumero dopo l'ultimo dei funzionari del detto grado.
 
-### Art. 40
+## Art. 40
 
 Nella prima attuazione del presente decreto possono aspirare alla nomina a sottotenente, previo concorso per titoli e giusta graduatoria di merito, da compilarsi dalla commissione di cui all'articolo precedente, i marescialli dei tre gradi del Corpo degli agenti di custodia che siano forniti del diploma di maturita' classica o di altro titolo equipollente, che abbiano riportato nell'ultimo biennio la classifica di ottimo ed abbiano prestato servizio quali ufficiali nell'Esercito, nella Marina e nell'Aeronautica, e non abbiano superato il 40° anno di eta'.
 
@@ -530,7 +530,7 @@ Tali nomine saranno effettuate sempre che non sia possibile procedere alla coper
 
 I marescialli come sopra nominati al grado di sottotenente hanno la carriera limitata al grado di capitano.
 
-### Art. 41
+## Art. 41
 
 ((Ove non sia possibile provvedere alla copertura dei posti nei vari gradi degli ufficiali, a norma delle disposizioni che precedono, il Ministero della difesa o quello dell'interno, su richiesta del Ministero di grazia e giustizia, provvedono, rispettivamente a distaccare presso il Corpo degli agenti di custodia - ai soli fini del ha istruzione militare e della disciplina degli agenti di custodia - ufficiali dell'Arma dei carabinieri e del Corpo delle guardie di pubblica sicurezza, di grado non superiore a quello del posto vacante in corrispondenza del quale viene disposto il distacco.
 
@@ -540,17 +540,17 @@ Questi ultimi ufficiali, fino a quando presteranno servizio presso il Corpo degl
 
 Ai medesimi ufficiali sono applicabili le disposizioni di cui agli articoli 22 e 23 del decreto legislativo luogotenenziale 21 agosto 1945, n. 508)).
 
-### Art. 42
+## Art. 42
 
 Sino a sei mesi dopo la cessazione dell'attuale stato di guerra restano sospesi gli esami per le promozioni da brigadiere a maresciallo ordinario, stabiliti dall'articolo 21 del regolamento 30 dicembre 1937, n. 2584.
 
 Tali promozioni possono essere conferite, ferme restando le altre condizioni, per merito, seguendo l'ordine del ruolo di anzianita'.
 
-### Art. 43
+## Art. 43
 
 Il Ministro per il tesoro e' autorizzato a introdurre, con propri decreti, nel bilancio del Ministro di grazia e giustizia, le variazioni occorrenti per l'attuazione del presente decreto.
 
-### Art. 44
+## Art. 44
 
 Il presente decreto entrera' in vigore dal giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -570,7 +570,7 @@ Atti del Governo, registro n. 6, foglio n. 5. - Ventura
 
 ## Disposizioni finali e transitorie
 
-### Tabella A
+## Tabella A
 
 Tabella A.
 
@@ -656,7 +656,7 @@ AGGIORNAMENTO (10)
 
 La L. 31 dicembre 1962, n. 1867 nel modificare l'art. 1 del D.Lgs. del Capo Provvisorio dello Stato 5 maggio 1947, n. 381 ha disposto (con l'articolo unico) che gli aumenti di organico del Corpo degli agenti di custodia di cui all'art. 1 del suindicato D.Lgs. 381/1947 hanno vigore sino al 31 dicembre 1964.
 
-### Tabella B
+## Tabella B
 
 Tabella B.
 

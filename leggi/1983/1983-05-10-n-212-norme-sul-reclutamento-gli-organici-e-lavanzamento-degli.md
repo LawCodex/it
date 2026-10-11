@@ -28,221 +28,199 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - RUOLI ORGANICI
+## TITOLO I - RUOLI ORGANICI E PROGRAMMAZIONE DEL PERSONALE
 
-### E PROGRAMMAZIONE DEL PERSONALE
-
-###### Art. 1
+#### Art. 1
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-###### Art. 2
+#### Art. 2
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 3
+#### Art. 3
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
 ## TITOLO II - RECLUTAMENTO
 
-### CAPO I.
+### CAPO I. - SOTTUFFICIALI IN FERMA VOLONTARIA O RAFFERMA
 
-#### SOTTUFFICIALI
-
-##### IN FERMA VOLONTARIA O RAFFERMA
-
-###### Art. 4
+#### Art. 4
 
 ((IL D. LGS 15 MARZO 2010, N. 66, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 5
+#### Art. 5
 
 ((IL D. LGS 15 MARZO 2010, N. 66, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 6
+#### Art. 6
 
 ((IL D. LGS 15 MARZO 2010, N. 66, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 7
+#### Art. 7
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 8
+#### Art. 8
 
 ((IL D. LGS 15 MARZO 2010, N. 66, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 9
+#### Art. 9
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 10
+#### Art. 10
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 11
+#### Art. 11
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 12
+#### Art. 12
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-## CAPO II.
+### CAPO II. - SOTTUFFICIALI IN SERVIZIO PERMANENTE
 
-### SOTTUFFICIALI IN SERVIZIO PERMANENTE
-
-###### Art. 13
+#### Art. 13
 
 ((IL D. LGS 15 MARZO 2010, N. 66, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 14
+#### Art. 14
 
 ((IL D. LGS 15 MARZO 2010, N. 66, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 15
+#### Art. 15
 
 ((IL D. LGS 15 MARZO 2010, N. 66, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 16
+#### Art. 16
 
 ((IL D. LGS 15 MARZO 2010, N. 66, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 17
+#### Art. 17
 
 ((IL D. LGS 15 MARZO 2010, N. 66, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 18
+#### Art. 18
 
 ((IL D. LGS 15 MARZO 2010, N. 66, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 19
+#### Art. 19
 
 ((IL D. LGS 15 MARZO 2010, N. 66, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 20
+#### Art. 20
 
 ((IL D. LGS 15 MARZO 2010, N. 66, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 21
+#### Art. 21
 
 ((IL D. LGS 15 MARZO 2010, N. 66, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 22
+#### Art. 22
 
 ((IL D. LGS 15 MARZO 2010, N. 66, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### ART. 23
+#### ART. 23
 
 ((1. Per gli ispettori e i sovrintendenti del Corpo della Guardia di finanza, il Comandante generale, in relazione alle esigenze di servizio del Corpo, ha facolta' di disporre di autorita' o a domanda cambi di categoria, di specializzazione, di specialita', ovvero la perdita delle specializzazioni o degli incarichi tecnici, prevedendo altresi' le necessarie riqualificazioni.))
 
-###### Art. 24
+#### Art. 24
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-## TITOLO III - AVANZAMENTO DEI SOTTUFFICIALI IN
+## TITOLO III - AVANZAMENTO DEI SOTTUFFICIALI IN SERVIZIO PERMANENTE
 
-### SERVIZIO PERMANENTE
+### CAPO I. - DELL'AVANZAMENTO IN GENERALE
 
-#### CAPO I.
-
-##### DELL'AVANZAMENTO IN GENERALE
-
-###### Art. 25
+#### Art. 25
 
 ((IL D. LGS 15 MARZO 2010, N. 66, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 26
+#### Art. 26
 
 ((IL D. LGS 15 MARZO 2010, N. 66, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 27
+#### Art. 27
 
 ((IL D. LGS 15 MARZO 2010, N. 66, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 28
+#### Art. 28
 
 ((IL D. LGS 15 MARZO 2010, N. 66, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 29
+#### Art. 29
 
 ((IL D. LGS 15 MARZO 2010, N. 66, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 30
+#### Art. 30
 
 ((IL D. LGS 15 MARZO 2010, N. 66, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-## CAPO II.
+### CAPO II. - COMMISSIONI DI AVANZAMENTO E VALUTAZIONE
 
-### COMMISSIONI DI AVANZAMENTO - E VALUTAZIONE
-
-###### Art. 31
+#### Art. 31
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-###### Art. 32
+#### Art. 32
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-###### Art. 33
+#### Art. 33
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-###### Art. 34
+#### Art. 34
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 35
+#### Art. 35
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-###### Art. 36
+#### Art. 36
 
 ((IL D. LGS 15 MARZO 2010, N. 66, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-## CAPO III.
+### CAPO III. - PROMOZIONI
 
-### PROMOZIONI
-
-###### Art. 37
+#### Art. 37
 
 ((IL D. LGS 15 MARZO 2010, N. 66, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 38
+#### Art. 38
 
 ((IL D. LGS 15 MARZO 2010, N. 66, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 39
+#### Art. 39
 
 ((IL D. LGS 15 MARZO 2010, N. 66, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-## CAPO IV.
+### CAPO IV. - AVANZAMENTO PER MERITI ECCEZIONALI, PER BENEMERENZE D'ISTITUTO O DI SERVIZIO
 
-### AVANZAMENTO PER MERITI ECCEZIONALI, - PER BENEMERENZE D'ISTITUTO O DI SERVIZIO
-
-###### Art. 40
+#### Art. 40
 
 ((IL D. LGS 15 MARZO 2010, N. 66, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 41
+#### Art. 41
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 42
+#### Art. 42
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 43
+#### Art. 43
 
 ((IL D. LGS 15 MARZO 2010, N. 66, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-## TITOLO IV
+## TITOLO IV - CESSAZIONE DAL SERVIZIO. SOTTUFFICIALI DELLE CATEGORIE DEL CONGEDO
 
-### CESSAZIONE DAL SERVIZIO.
-
-#### SOTTUFFICIALI DELLE CATEGORIE - DEL CONGEDO
-
-###### ART. 44
+#### ART. 44
 
 ((1. Gli ispettori e sovrintendenti del Corpo della Guardia di finanza cessano dal servizio permanente al raggiungimento dei limiti di eta' e sono collocati nell'ausiliaria, nella riserva o in congedo assoluto a seconda dell'idoneita'.
 
@@ -250,19 +228,19 @@ la seguente legge:
 
 3\. Gli ispettori e sovrintendenti in ausiliaria possono essere collocati nella riserva per motivi di salute, previi accertamenti sanitari)).
 
-###### Art. 45
+#### Art. 45
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 46
+#### Art. 46
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 47
+#### Art. 47
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### ART. 48
+#### ART. 48
 
 La categoria della riserva comprende i sottufficiali che, essendo cessati dal servizio permanente o dall'ausiliaria, hanno obblighi di servizio soltanto in tempo di guerra.
 
@@ -270,137 +248,133 @@ Il sottufficiale cessa di appartenere alla riserva ed e' collocato in congedo as
 
 Per i sottufficiali di complemento continuano ad applicarsi le norme di cui al capo II del titolo IV della legge 31 luglio 1954, n. 599.
 
-###### ART. 49
+#### ART. 49
 
 Il sottufficiale in congedo assoluto non ha obbligo di servizio; egli conserva il grado e l'onore dell'uniforme ed e' soggetto alle disposizioni di legge riflettenti il grado e la disciplina.
 
-###### Art. 50
+#### Art. 50
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 51
+#### Art. 51
 
 ((IL D. LGS 15 MARZO 2010, N. 66, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### ART. 52
+#### ART. 52
 
 ((1. Con decreto del Ministro dell'istruzione, dell'universita' e della ricerca, d'intesa con i Ministri della difesa, dell'economia e delle finanze e del lavoro e delle politiche sociali, e' stabilita, sulla base degli insegnamenti impartiti, la equipollenza dei titoli conseguiti al termine dei corsi di formazione generale, professionale e di perfezionamento, frequentati dagli arruolati e dagli ispettori o dai sovrintendenti in applicazione della presente legge, con quelli rilasciati dagli istituti professionali ivi compresi quelli conseguibili con la frequenza dei corsi sperimentali di cui al decreto del Presidente della Repubblica 19 marzo 1970, n. 253, anche ai fini dell'ammissione agli esami di maturita' professionale. In relazione al suddetto decreto sono rilasciati agli interessati i relativi titoli.))
 
-## TITOLO V - IMMISSIONE DEI SOTTUFFICIALI
+## TITOLO V - IMMISSIONE DEI SOTTUFFICIALI NEI RUOLI DEGLI UFFICIALI
 
-### NEI RUOLI DEGLI UFFICIALI
-
-###### Art. 53
+#### Art. 53
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 54
+#### Art. 54
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 55
+#### Art. 55
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 56
+#### Art. 56
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 57
+#### Art. 57
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 58
+#### Art. 58
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 59
+#### Art. 59
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 60
+#### Art. 60
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 61
+#### Art. 61
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-## TITOLO VI - NORME PARTICOLARI
+## TITOLO VI - NORME PARTICOLARI PER I SOTTUFFICIALI MUSICANTI
 
-### PER I SOTTUFFICIALI MUSICANTI
-
-###### Art. 62
+#### Art. 62
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-###### Art. 63
+#### Art. 63
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 64
+#### Art. 64
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
 ## TITOLO VII - NORME TRANSITORIE E FINALI
 
-###### Art. 65
+#### Art. 65
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 66
+#### Art. 66
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 67
+#### Art. 67
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 68
+#### Art. 68
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 69
+#### Art. 69
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 70
+#### Art. 70
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 71
+#### Art. 71
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 72
+#### Art. 72
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 73
+#### Art. 73
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 74
+#### Art. 74
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 75
+#### Art. 75
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 76
+#### Art. 76
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 77
+#### Art. 77
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 78
+#### Art. 78
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
-###### Art. 79
+#### Art. 79
 
 ((ARTICOLO ABROGATO DAL D. LGS 15 MARZO 2010, N. 66))
 
@@ -418,7 +392,7 @@ Visto, il Guardasigilli: DARIDA
 
 ## TITOLO VII - NORME TRANSITORIE E FINALI
 
-###### Tabelle
+#### Tabelle
 
 Allegato
 

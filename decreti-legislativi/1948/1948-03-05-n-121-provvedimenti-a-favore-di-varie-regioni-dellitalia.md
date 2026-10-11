@@ -34,17 +34,15 @@ PROMULGA
 
 il seguente decreto legislativo, approvato dal Consiglio dei Ministri con deliberazione del 19 e 20 febbraio 1948:
 
-## TITOLO I - Opere varie di competenza del Ministero dei lavori pubblici nelle
+## TITOLO I - Opere varie di competenza del Ministero dei lavori pubblici nelle regioni Abruzzi e Molise, Campania, Puglie, Basilicata, Calabria e Sardegna.
 
-### regioni Abruzzi e Molise, Campania, Puglie, Basilicata, Calabria e - Sardegna.
-
-#### Art. 1
+### Art. 1
 
 Per l'esecuzione di opere pubbliche straordinarie a pagamento non differito, nelle regioni Abruzzi e Molise, Campania, Paglie, Basilicata, Calabria e Sardegna e nei territori dei Comuni appartenenti alle province di Latina e Frosinone, nonche' dell'Isola d'Elba, anche di competenza di Amministrazioni provinciali e comunali, di istituzioni pubbliche di beneficenza e di enti pubblici di assistenza, e' autorizzata la spesa di L. 18.000.000.000.
 
 Detta spesa sara' iscritta per L. 6.000.000.000 nello stato di previsione della spesa del Ministero dei lavori pubblici per l'esercizio 1947-48 e per L. 12.000.000.000 nello stesso stato di previsione dell'esercizio 1948-49.
 
-#### Art. 2
+### Art. 2
 
 A carico della spesa autorizzata con il precedente articolo, il Ministero dei lavori pubblici potra' assumere impegni nei limiti sottoindicati:
 
@@ -80,11 +78,11 @@ to dai decreto legislativo del Capo provvisorio
 
 dello Stato 22 dicembre 1947, n. 1600............. L. 1.000.000.000
 
-#### Art. 3
+### Art. 3
 
 Sul limite di L. 3.900.000.000 di cui al n. 1 del precedente art. 2 ((gravera' la spesa di L. 2.500.000.000...)) per contributi straordinari all'Azienda Nazionale Autonoma delle Strade Statali (A.N.A.S.) da destinare ad opere di carattere straordinario a pagamento non differito lungo le strade statali.
 
-#### Art. 4
+### Art. 4
 
 Sul limite di L. 6.500.000.000 fissato col precedente art. 2, n. 3, graveranno fino alla concorrenza di L. 700.000.000 le spese per l'esecuzione di opere a cura dell'Ente autonomo per l'acquedotto pugliese concernenti il completamento ed il miglioramento della rete principale dell'acquedotto pugliese e delle relative diramazioni, nonche' la costruzione della nuova diramazione per il comune di Orsara di Puglia ((ed il completamento, consolidamento e ripristino degli acquedotti della Basilicata gestiti dall'Ente medesimo in base alla legge 28 maggio 1942, n. 664)).
 
@@ -92,21 +90,19 @@ Entro il limite suddetto, il Ministero dei lavori pubblici assumera' impegni in 
 
 Sul predetto fondo di L. 6.500.000.000 possono altresi' essere assunti impegni, fino al limite di L. 265.000.000, per il finanziamento, a totale carico dello Stato, delle opere di completamento necessarie per il ripristino degli impianti dell'Ente autonomo Volturno danneggiati da azioni belliche.
 
-#### Art. 5
+### Art. 5
 
 Per la concessione del contributo in annualita' sugli interessi dei mutui contratti per la parte di spesa non coperta dal concorso di cui al n. 7 dell'art. 2 possono essere assunti impegni fino al limite di L. 30.000.000.
 
-#### Art. 6
+### Art. 6
 
 Il Ministero dei lavori pubblici puo', sul limite di spesa di cui al n. 4 del precedente art. 2, concedere il contributo di L. 10.000.000 per la riparazione dei danni di guerra alla "Casa del portuale" di Bari, rimanendo escluso ogni altro contributo che possa, spettare a termini di legge.
 
 I relativi lavori saranno eseguiti a cura del Ministero dei lavori pubblici.
 
-## TITOLO II - Opere pubbliche di bonifica, di miglioramento fondiario e di
+## TITOLO II - Opere pubbliche di bonifica, di miglioramento fondiario e di irrigazione nelle regioni Abruzzi e Molise, Campania, Puglie, Basilicata, Calabria e Sardegna.
 
-### irrigazione nelle regioni Abruzzi e Molise, Campania, Puglie, - Basilicata, Calabria e Sardegna.
-
-#### Art. 7
+### Art. 7
 
 Salvo il disposto del penultimo comma del presente articolo, per l'esecuzione di opere pubbliche di bonifica, di miglioramento fondiario e di ripristino dell'efficienza produttiva delle aziende agricole nelle regioni e territori di cui al precedente art. 1 e' autorizzata la spesa di L. 17.000.000.000 cosi' ripartiti:
 
@@ -126,7 +122,7 @@ Sul fondo di cui alla precedente, lettera a) L. 500 milioni sono destinate all'e
 
 La spesa di L. 17.000.000.000 di cui sopra sara' iscritta per L. 5.500.000.000 nello stato di previsione del Ministero dell'agricoltura e delle foreste dell'esercizio 1947-1948, delle quali L. 500.000.000 per opere pubbliche di bonifica in Sicilia e per L. 11.500.000.000 nello stesso stato di previsione dell'esercizio 1948-49.
 
-#### Art. 8
+### Art. 8
 
 Limitatamente alle regioni e territori di cui agli articoli 1 e 11, per i lavori di sistemazione e riattamento delle strade vicinali, il Ministero dell'agricoltura e delle foreste potra' concedere sussidi fino al 50% della spesa e per un importo complessivo di sussidi fino alla somma di L. 1.000.000.000 di cui alla lettera d) dell'art. 7.((1))
 
@@ -136,7 +132,7 @@ AGGIORNAMENTO (1)
 
 La L. 27 ottobre 1949, n. 851 ha disposto (con l'art.1, comma 2) che "L'autorizzazione di cui all'articolo 8 del decreto legislativo del 5 marzo 1948, n. 121, viene corrispondentemente ridotta, di L. 26.000.000."
 
-#### Art. 9
+### Art. 9
 
 E' istituita una Cassa per la formazione della piccola proprieta' contadina nelle regioni e territori di cui all'art. 1 e in Sicilia.
 
@@ -148,17 +144,15 @@ Con decreto del Ministro per l'agricoltura e le foreste, di concerto con quello 
 
 ## TITOLO III - Opere ferroviarie a cura del Ministero dei trasporti.
 
-#### Art. 10
+### Art. 10
 
 Per l'esecuzione, nei territori di cui all'art. 1 ed in Sicilia di opere ferroviarie a cura del Ministero dei trasporti (Ferrovie dello Stato e Ispettorato generale della motorizzazione civile e dei trasporti in concessione) e' autorizzata la spesa di L. 2.000.000.000.
 
 Con decreti del Ministro per i trasporti, di concerto con quello per il tesoro, sara' provveduto al riparto della spesa di cui al comma precedente fra l'Azienda autonoma delle ferrovie dello Stato e l'Ispettorato generale della motorizzazione civile e dei trasporti in concessione.
 
-## TITOLO IV - Opere pubbliche varie e opere pubbliche di bonifica e di
+## TITOLO IV - Opere pubbliche varie e opere pubbliche di bonifica e di miglioramento fondiario, comprese le irrigazioni in Sicilia.
 
-### miglioramento fondiario, comprese le irrigazioni in Sicilia.
-
-#### Art. 11
+### Art. 11
 
 Per l'esecuzione di opere pubbliche straordinarie a pagamento non differito in Sicilia, anche di competenza di Amministrazioni provinciali e comunali, di istituzioni pubbliche di beneficenza e di enti pubblici di assistenza, nonche' per la concessione di sussidi a norma del testo unico 10 aprile 1947, n. 261, sull'alloggio dei senza tetto, e' autorizzata la spesa di L. 11.200.000.000.
 
@@ -168,13 +162,13 @@ Le somme di cui ai precedenti comma saranno iscritte negli stati di previsione d
 
 Per la concessione del contributo in annualita' sugli interessi dei mutui contratti per la parte di spesa non coperta dal concorso di cui al secondo comma del presente articolo, possono essere assunti impegni fino al limite di L. 24.000.000.
 
-#### Art. 12
+### Art. 12
 
 Per l'esecuzione di opere pubbliche di bonifica e di miglioramento fondiario, comprese quelle di irrigazione in Sicilia, e' autorizzata la spesa di L. 6.000.000.000, di cui L. 5.000.000.000 per opere pubbliche di bonifica e di L. 1.000.000.000 per quelle di miglioramento fondiario.
 
 La somma di cui al precedente comma sara' iscritta nello stato di previsione della spesa del Ministero dell'agricoltura e delle foreste per L. 1.000.000.000 nell'esercizio 1947-48, per L. 3.000.000.000 nell'esercizio 1948-49 e per L. 2.000.000.000 nell'esercizio 1949-50.
 
-#### Art. 13
+### Art. 13
 
 Per gli scopi di cui ai due precedenti articoli e' autorizzata l'ulteriore spesa di L. 2.000.000.000.
 
@@ -186,17 +180,15 @@ Ai lavori di completamento degli alloggi predetti si applicano le disposizioni d
 
 La indicata spesa complessiva di L. 2.000.000.000 sara' iscritta per L. 562.000.000 nello stato di previsione del Ministero dei lavori pubblici dell'esercizio 1947-48 e per le residue L. 1.438.000.000 nei competenti stati di previsione dello stesso Ministero dei lavori pubblici e di quello dell'agricoltura e delle foreste nell'esercizio 1949-50.
 
-#### Art. 14
+### Art. 14
 
 Nella scelta delle opere da finanziare con i fondi di cui ai precedenti articoli 11, 12 e 13, si procedera' di intesa con la Regione siciliana.
 
 In sede di determinazione del contributo di solidarieta' nazionale da assegnarsi ai sensi dell'art. 38 dello Statuto della Regione siciliana, approvato con regio decreto legislativo 15 maggio 1946, n. 455, per gli esercizi 1946-47, 1947-48, 1948-49 e 1949-50, sara' tenuto conto della spesa sostenuta per l'esecuzione delle opere che rientrino nella competenza della Regione stessa.
 
-## TITOLO V - Provvedimenti relativi all'industrializzazione nelle Regioni e
+## TITOLO V - Provvedimenti relativi all'industrializzazione nelle Regioni e territori di cui ai titoli I e IV.
 
-### territori di cui ai titoli I e IV.
-
-#### Art. 15
+### Art. 15
 
 Gli articoli 9 e 10 del decreto legislativo del Capo provvisorio dello Stato 14 dicembre 1947, n. 1598, contenenti disposizioni per l'industrializzazione dell'Italia meridionale e insulare, sono sostituiti dai seguenti:
 
@@ -216,21 +208,21 @@ Le modalita' per la concessione dei contributi previsti dal primo comma del pres
 
 ## TITOLO VI - Disposizioni varie
 
-#### Art. 16
+### Art. 16
 
 Per le opere di competenza delle Amministrazioni provinciali e comunali, delle istituzioni pubbliche di beneficenza e degli enti pubblici di assistenza, previste dal presente decreto, si applicano le disposizioni degli articoli 3 e 4 del decreto legislativo luogotenenziale 12 ottobre 1945, n. 690, salvo che per le opere stesse non sia, previsto un trattamento piu' favorevole da leggi speciali vigenti.
 
-#### Art. 17
+### Art. 17
 
 I lavori di cui al presente decreto sono dichiarati urgenti ed indifferibili a tutti gli effetti di legge.
 
-#### Art. 18
+### Art. 18
 
 Con decreti del Ministro per il tesoro, sara' provveduto, in relazione alle effettive necessita', ad assegnare le somme autorizzate con il presente decreto ai capitoli degli stati di previsione della spesa dei Ministeri dei lavori pubblici e dell'agricoltura e delle foreste e dei trasporti, nonche' alle occorrenti variazioni nel proprio bilancio ed in quelli dell'Azienda nazionale autonoma delle strade statali e dell'Azienda autonoma delle ferrovie dello Stato.
 
 Con gli stessi decreti, per quanto concerne il Ministero dei lavori pubblici, sara' stabilita la somma da destinare agli oneri di carattere generale dipendenti dall'attuazione delle opere di propria competenza.
 
-#### Art. 19
+### Art. 19
 
 Il presente decreto entra, in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 

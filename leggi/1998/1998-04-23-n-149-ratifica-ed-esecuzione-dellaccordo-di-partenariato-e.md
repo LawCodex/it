@@ -297,9 +297,7 @@ Il gruppo di contatto procede a regolari scambi di informazioni su tutte le ques
 
 Agli scambi di materiali nucleari si applicano le disposizioni di un accordo specifico che sara' concluso tra la Comunita' europea dell'energia atomica e la Repubblica di Uzbekistan.
 
-## TITOLO IV - DISPOSIZIONI RIGUARDANTI LE ATTIVITA' COMMERCIALI
-
-### E GLI INVESTIMENTI CAPITOLO I - CONDIZIONI DI LAVORO
+## TITOLO IV - DISPOSIZIONI RIGUARDANTI LE ATTIVITA' COMMERCIALI E GLI INVESTIMENTI CAPITOLO I CONDIZIONI DI LAVORO
 
 #### ARTICOLO 19
 
@@ -315,9 +313,7 @@ Il consiglio di cooperazione esamina in che modo sia possibile migliorare le con
 
 Il consiglio di cooperazione formula raccomandazioni per l'applicazione degli articoli 19 e 20.
 
-## CAPITOLO II - CONDIZIONI PER LO STABILIMENTO
-
-### E L'ATTIVITA' DELLE SOCIETA'
+### CAPITOLO II - CONDIZIONI PER LO STABILIMENTO E L'ATTIVITA' DELLE SOCIETA'
 
 #### ARTICOLO 22
 
@@ -409,9 +405,7 @@ c) Per "persona trasferita all'interno della societa'" si intende una persona fi
 
 leggi o di detti regolamenti e di avviare consultazioni in merito.- 4. Qualora l'introduzione nella Repubblica di Uzbekistan di nuove leggi o di nuovi regolamenti renda le condizioni per l'attivita' delle controllate e sedi secondarie di societa' comunitarie stabilite nella Repubblica di Uzbekistan piu' restrittive rispetto alla situazione esistente il giorno della firma del presente accordo, dette leggi o detti regolamenti non si applicano, per i tre anni successivi all'entrata in vigore dell'atto in questione, alle controllate e sedi secondarie gia' stabilite nella Repubblica di Uzbekistan al momento dell'entrata in vigore dell'atto stesso.
 
-## CAPITOLO III - FORNITURA TRANSNAZIONALE DI SERVIZI
-
-### TRA LA COMUNITA' E LA REPUBBLICA DI UZBEKISTAN
+### CAPITOLO III - FORNITURA TRANSNAZIONALE DI SERVIZI TRA LA COMUNITA' E LA REPUBBLICA DI UZBEKISTAN
 
 #### ARTICOLO 29
 
@@ -445,7 +439,7 @@ d) all'entrata in vigore dell'accordo aboliscono tutte le misure unilaterali, no
 
 Al fine di garantire uno sviluppo coordinato dei trasporti tra le Parti in funzione delle loro esigenze commerciali, le condizioni del reciproco accesso al mercato nonche' la fornitura di servizi di trasporto stradale, ferroviario, fluviale e, se del caso, aereo potranno essere trattate da specifici accordi, negoziati se necessario dalle Parti, dopo l'entrata in vigore del presente accordo.
 
-## CAPITOLO IV - DISPOSIZIONI GENERALI
+### CAPITOLO IV - DISPOSIZIONI GENERALI
 
 #### ARTICOLO 33
 
@@ -507,9 +501,7 @@ Fatto salvo il dispositivo dell'articolo 27, nessuna disposizione dei capitoli I
 
 6\. Fatti salvi i paragrafi 1 e 2, qualora, in circostanze eccezionali, la circolazione dei capitali tra la Comunita' e la Repubblica di Uzbekistan provochi o minacci di provocare gravi difficolta' per la gestione delle politiche valutarie o monetarie nella Comunita' o nella Repubblica di Uzbekistan ciascuna Parte rispettivamente puo' adottare misure di salvaguardia in merito per un periodo non superiore a sei mesi, a condizione che dette misure siano assolutamente necessarie.
 
-## CAPITOLO VI - TUTELA DELLA PROPRIETA' INTELLETTUALE,
-
-### INDUSTRIALE E COMMERCIALE
+### CAPITOLO VI - TUTELA DELLA PROPRIETA' INTELLETTUALE, INDUSTRIALE E COMMERCIALE
 
 #### ARTICOLO 41
 
@@ -1013,9 +1005,7 @@ La Comunita' fornisce assistenza tecnica per:
 
 \- migliorare la capacita' della Repubblica di Uzbekistan di definire modelli economici.
 
-## TITOLO VII - COOPERAZIONE PER LE QUESTIONI RELATIVE
-
-### ALLA DEMOCRAZIA E AI DIRITTI DELL'UOMO
+## TITOLO VII - COOPERAZIONE PER LE QUESTIONI RELATIVE ALLA DEMOCRAZIA E AI DIRITTI DELL'UOMO
 
 #### ARTICOLO 68
 
@@ -1023,9 +1013,7 @@ Le Parti collaborano in merito a tutte le questioni connesse all'insediamento o 
 
 La cooperazione in questo settore comprende programmi di assistenza tecnica per l'elaborazione delle leggi e normative pertinenti; l'applicazione di dette leggi e normative; il funzionamento del sistema giudiziario; il ruolo dello Stato nelle questioni giudiziarie; il funzionamento del sistema elettorale, nonche', se del caso, la formazione in materia. Le Parti favoriscono contatti e scambi tra le rispettive autorita' nazionali, regionali e giudiziarie, tra i rispettivi parlamentari e tra le rispettive organizzazioni non governative.
 
-## TITOLO VIII - COOPERAZIONE PER LA PREVENZIONE DELLE ATTIVITA' ILLEGALI
-
-### E PER LA PREVENZIONE E IL CONTROLLO DELL'IMMIGRAZIONE ILLEGALE
+## TITOLO VIII - COOPERAZIONE PER LA PREVENZIONE DELLE ATTIVITA' ILLEGALI E PER LA PREVENZIONE E IL CONTROLLO DELL'IMMIGRAZIONE ILLEGALE
 
 #### ARTICOLO 69
 
@@ -1085,9 +1073,7 @@ Gli stati membri e la Repubblica di Uzbekistan, inoltre, forniranno ai loro citt
 
 Le Parti si impegnano a promuovere, incoraggiare e agevolare la cooperazione culturale. All'occorrenza, si possono estendere alla Repubblica di Uzbekistan i programmi di cooperazione culturale della Comunita' o di uno o piu' Stati membri nonche' sviluppare altre attivita' di reciproco interesse.
 
-## TITOLO X - COOPERAZIONE FINANZIARIA NEL SETTORE
-
-### DELLA ASSISTENZA TECNICA
+## TITOLO X - COOPERAZIONE FINANZIARIA NEL SETTORE DELLA ASSISTENZA TECNICA
 
 #### ARTICOLO 74
 

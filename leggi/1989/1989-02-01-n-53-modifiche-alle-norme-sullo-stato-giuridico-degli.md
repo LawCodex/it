@@ -30,89 +30,87 @@ PROMULGA la seguente legge:
 
 ## TITOLO I - NORME SULLO STATO GIURIDICO
 
-### ((TITOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
+## ((TITOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-#### Art. 1
-
-((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
-
-#### Art. 2
+### Art. 1
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-#### Art. 3
+### Art. 2
+
+((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
+
+### Art. 3
 
 ((IL D.LGS. 29 MAGGIO 2017, N. 95 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### Art. 4
+### Art. 4
 
 ((IL D.LGS. 29 MAGGIO 2017, N. 95 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### Art. 5
+### Art. 5
 
 ((IL D.LGS. 29 MAGGIO 2017, N. 95 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### Art. 6
+### Art. 6
 
 ((IL D.LGS. 29 MAGGIO 2017, N. 95 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-#### Art. 8
+### Art. 8
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-#### Art. 9
+### Art. 9
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-#### Art. 10
+### Art. 10
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-#### Art. 11
+### Art. 11
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-#### Art. 12
+### Art. 12
 
 ((IL D.LGS. 29 MAGGIO 2017, N. 95 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## TITOLO II - NORME SULL'AVANZAMENTO
 
-### ((TITOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
+## ((TITOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-#### Art. 13
-
-((IL D.LGS. 29 MAGGIO 2017, N. 95 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
-
-#### Art. 14
+### Art. 13
 
 ((IL D.LGS. 29 MAGGIO 2017, N. 95 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### Art. 15
+### Art. 14
 
 ((IL D.LGS. 29 MAGGIO 2017, N. 95 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### Art. 16
+### Art. 15
+
+((IL D.LGS. 29 MAGGIO 2017, N. 95 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+
+### Art. 16
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-#### Art. 17
+### Art. 17
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-#### Art. 18
+### Art. 18
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-## TITOLO III - DISPOSIZIONI RELATIVE ALLA POLIZIA DI STATO, AL CORPO DEGLI AGENTI DI
+## TITOLO III - DISPOSIZIONI RELATIVE ALLA POLIZIA DI STATO, AL CORPO DEGLI AGENTI DI CUSTODIA E AL CORPO FORESTALE DELLO STATO
 
-### CUSTODIA E AL CORPO FORESTALE DELLO STATO
-
-#### Art. 19
+### Art. 19
 
 1\. Il comma settimo dell'articolo 1 della legge 12 agosto 1982, n. 569, e' sostituito dal seguente:
 
@@ -178,7 +176,7 @@ PROMULGA la seguente legge:
 
 > \- Il D.P.R. n. 337/1982 reca: "Ordinamento del personale della Polizia di Stato che espleta attivita' tecnico-scientifica o tecnica".
 
-#### Art. 20
+### Art. 20
 
 1\. L'articolo 18 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335, e' sostituito dal seguente:
 
@@ -206,7 +204,7 @@ Fermo restando quanto stabilito in attuazione dell'articolo 59 della legge 1 a
 
 > \- La legge n. 668/1986 reca: "Modifiche e integrazioni alla legge 1 aprile 1981, n. 121, e relativi decreti di attuazione, sul nuovo ordinamento dell'Amministrazione della pubblica sicurezza".
 
-#### Art. 21
+### Art. 21
 
 1\. Gli agenti scelti e gli assistenti che, alla data di entrata in vigore della presente legge, hanno maturato titolo per il conseguimento della qualifica superiore, sono promossi a decorrere dalla stessa data previo scrutino pe rmerito assoluto.
 
@@ -234,7 +232,7 @@ Fermo restando quanto stabilito in attuazione dell'articolo 59 della legge 1 a
 
 > 2\. I vincitori del concorso devono frequentare il corso di aggiornamento previsto dall'articolo 14 del decreto del Presidente della Repubblica 24 aprile 1982, n. 336".
 
-#### Art. 22
+### Art. 22
 
 1\. Alle guardie del Corpo degli agenti di custodia, che abbiano compiuto cinque anni di servizio, e conferita la qualifica di scelto.
 
@@ -270,7 +268,7 @@ dall'articolo 3 del regio decreto 30 dicembre 1937, n. 2584
 
 > \- Per il testo dell'art. 140, quinto comma, della legge n. 312/1981, si veda nelle note all'art. 21.
 
-#### Art. 23
+### Art. 23
 
 1\. Le dotazioni organiche di allievo guardia, guardia e guardia scelta del Corpo forestale dello Stato sono unificate. Il contingente unico di 4.061 unita' comprende allievo guardia, guardia, guardia scelta, appuntato e appuntato scelto, secondo l'allegata tabella A di equiparazione alle qualifiche del personale della polizia di Stato.
 
@@ -292,7 +290,7 @@ Il D. Lgs. 12 maggio 1995, n. 201 ha disposto (con l'art. 52, comma 6) che "A de
 
 ## TITOLO IV - DISPOSIZIONI TRANSITORIE E FINALI
 
-#### Art. 24
+### Art. 24
 
 1\. Gli appartenenti ai ruoli del personale della Polizia di Stato ((che espletano)) funzioni di polizia e gli allievi dei corsi di formazione per l'accesso a tali ruoli che partecipino a concorsi, interni o pubblici, per il passaggio o l'accesso ai ruoli e alla carriera superiori della Polizia di Stato non sono sottoposti agli accertamenti dell'efficienza fisica e, per la parte gia' effettuata all'atto dell'accesso ai ruoli, agli accertamenti psico-fisici.
 
@@ -306,7 +304,7 @@ AGGIORNAMENTO (11)
 
 Il D.L. 24 febbraio 2026, n. 23 ha disposto (con l'art. 17, comma 2) che "Le disposizioni di cui al comma 1 dell'articolo 24 della legge 1° febbraio 1989, n. 53, come modificato dal comma 1 del presente articolo, si applicano anche ai concorsi gia' indetti, purche' gli accertamenti dell'efficienza fisica, psico-fisici e attitudinali non siano stati ancora avviati".
 
-#### Art. 25
+### Art. 25
 
 1\. Il secondo comma dell'articolo 7 del decreto del Presidente della Repubblica 24 aprile 1982, n. 338, come modificato dall'articolo 3 della legge 10 ottobre 1986, n. 668, e' sostituito dal seguente:
 
@@ -324,7 +322,7 @@ Il D.L. 24 febbraio 2026, n. 23 ha disposto (con l'art. 17, comma 2) che "Le dis
 
 > Fermo restando il disposto dell'art. 32, i medici dei ruoli professionali dei sanitari della Polizia di Stato provenienti dal disciolto Corpo delle guardie di pubblica sicurezza, compresi quelli dei ruoli ad esaurimento di cui all'art. 21 e seguenti, nell'espletamento delle loro funzioni o servizi di polizia, sono ufficiali di pubblica sicurezza e di polizia giudiziaria".
 
-#### Art. 26
+### Art. 26
 
 1\. Per l'accesso ai ruoli del personale della polizia di Stato e delle altre forze di polizia indicate dall'articolo 16 della legge 1 aprile 1981, n. 121, e' richiesto il possesso delle qualita' morali e di condotta stabilite per l'ammissione ai concorsi della magistratura ordinaria. ((2))
 
@@ -334,11 +332,11 @@ AGGIORNAMENTO (2)
 
 La Corte costituzionale, con sentenza 23-31 marzo 1994, n. 108 (in G.U. 1a s.s. 6/4/1994, n. 15) ha dichiarato l'illegittimita' costituzionale del presente articolo 26, nella parte in cui, rinviando per l'accesso ai ruoli del personale della polizia di Stato al possesso delle qualita' morali e di condotta stabilite per l'ammissione ai concorsi della magistratura ordinaria, prevede che siano esclusi coloro che, per le informazioni raccolte, non risultano, secondo l'apprezzamento insindacabile del Ministro competente, appartenenti a famiglia di estimazione morale indiscussa.
 
-#### Art. 27
+### Art. 27
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-#### Art. 28
+### Art. 28
 
 1\. Sono abrogate tutte le disposizioni in contrasto o comunque, incompatibili con la presente legge.
 
@@ -348,11 +346,11 @@ La Corte costituzionale, con sentenza 23-31 marzo 1994, n. 108 (in G.U. 1a s.s. 
 
 > La legge n. 205/1975 contiene norme per la corresponsione di un premio di arruolamento ai carabinieri, alle guardie di finanza, alle guardie di pubblica sicurezza, agli agenti di custodia ed alle guardie forestali.
 
-#### Art. 29
+### Art. 29
 
 1\. Le disposizioni di cui ai commi 2 e 3 dell'articolo 14 entrano in vigore il 1 gennaio 1990.
 
-#### Art. 30
+### Art. 30
 
 1\. Gli effetti giuridici delle disposizioni contenute nella presente legge decorrono dal 1 gennaio 1989; quelli economici dal 1 luglio 1989.
 
@@ -372,7 +370,7 @@ Visto, il Guardasigilli: VASSALLI
 
 ## TITOLO IV - DISPOSIZIONI TRANSITORIE E FINALI
 
-#### Tabella A
+### Tabella A
 
 Allegato
 

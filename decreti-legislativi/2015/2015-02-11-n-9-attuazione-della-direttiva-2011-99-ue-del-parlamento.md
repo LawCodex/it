@@ -39,11 +39,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Disposizioni generali
 
-### Disposizioni generali
-
-#### Art. 1
+### Art. 1
 
 Disposizioni di principio e attuazione
 
@@ -147,7 +145,7 @@ Disposizioni di principio e attuazione
 
 > \- La direttiva 2011/99/UE, del Parlamento europeo e del Consiglio del 13 dicembre 2011 sull'ordine di protezione europeo e' pubblicata nella G.U.U.E. 21 dicembre 2011, n. L 338.
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -171,7 +169,7 @@ g) stato di esecuzione: lo Stato membro al quale e' stato trasmesso, ai fini del
 
 > \- Per i riferimenti normativi della direttiva 2011/99/UE si veda nelle note all'art. 1.
 
-#### Art. 3
+### Art. 3
 
 Autorita' competenti
 
@@ -181,11 +179,9 @@ Autorita' competenti
 
 3\. Nei limiti indicati dal presente decreto, e' consentita la corrispondenza diretta tra autorita' giudiziarie. In tale caso, l'autorita' giudiziaria italiana informa immediatamente il Ministero della giustizia della trasmissione o della ricezione di un ordine di protezione.
 
-## Capo II
+## Capo II - Emissione dell'ordine di protezione europeo e trasmissione all'estero
 
-### Emissione dell'ordine di protezione europeo e trasmissione all'estero
-
-#### Art. 4
+### Art. 4
 
 Modifica all'articolo 282-quater
 
@@ -203,7 +199,7 @@ del codice di procedura penale
 
 > 1-bis. Con la comunicazione prevista dal comma 1, la persona offesa e' informata della facolta' di richiedere l'emissione di un ordine di protezione europeo.».
 
-#### Art. 5
+### Art. 5
 
 Procedimento di emissione
 
@@ -273,7 +269,7 @@ h) eventuale ammissione della persona protetta al patrocinio a carico dello Stat
 
 > 6\. Quando la Corte di cassazione annulla con rinvio, gli atti vengono trasmessi al giudice di rinvio, il quale decide entro venti giorni dalla ricezione.».
 
-#### Art. 6
+### Art. 6
 
 Trasmissione dell'ordine di protezione europeo
 
@@ -281,11 +277,9 @@ Trasmissione dell'ordine di protezione europeo
 
 2\. Qualora l'autorita' competente dello Stato di esecuzione rifiuti di riconoscere un ordine di protezione europeo emesso ai sensi dell'articolo 5, il Ministero della giustizia provvede senza indugio a darne comunicazione all'autorita' giudiziaria che ha emesso la misura di protezione ai fini della successiva comunicazione alla persona protetta.
 
-## Capo III
+## Capo III - Riconoscimento dell'ordine di protezione europeo emesso all'estero
 
-### Riconoscimento dell'ordine di protezione europeo emesso all'estero
-
-#### Art. 7
+### Art. 7
 
 Competenza ai fini del riconoscimento di un ordine
 
@@ -293,7 +287,7 @@ di protezione europeo
 
 1\. Sul riconoscimento di un ordine di protezione europeo decide la Corte di appello nel cui distretto la persona protetta, in sede di richiesta, ha dichiarato di soggiornare o di risiedere o presso cui ha dichiarato l'intenzione di soggiornare o di risiedere.
 
-#### Art. 8
+### Art. 8
 
 Procedimento per il riconoscimento di un ordine
 
@@ -305,7 +299,7 @@ di protezione europeo
 
 3\. Quando le informazioni sono incomplete, il Presidente della Corte ne da' comunicazione al Ministero della giustizia, che richiede le necessarie integrazioni e il termine di cui al comma 2 resta sospeso dalla data della comunicazione sino alla ricezione delle informazioni mancanti.
 
-#### Art. 9
+### Art. 9
 
 Presupposti per il riconoscimento dell'ordine
 
@@ -347,7 +341,7 @@ i) la misura di protezione e' stata adottata nello Stato di emissione in riferim
 
 > \- Per il testo dell'art. 22 della legge 22 aprile 2005, n. 69, si veda nelle note all'art. 5.
 
-#### Art. 10
+### Art. 10
 
 Esecuzione conseguente al riconoscimento
 
@@ -387,11 +381,9 @@ Esecuzione conseguente al riconoscimento
 
 > 6\. L'interrogatorio della persona in stato di custodia cautelare da parte del pubblico ministero non puo' precedere l'interrogatorio del giudice.».
 
-## Capo IV
+## Capo IV - Decisioni sulla validita' ed efficacia del titolo e cessazione degli effetti
 
-### Decisioni sulla validita' ed efficacia del titolo e cessazione degli - effetti
-
-#### Art. 11
+### Art. 11
 
 Decisioni sulla validita' e sull'efficacia
 
@@ -401,7 +393,7 @@ dell'ordine di protezione europeo
 
 2\. Quando l'autorita' giudiziaria dello Stato emette uno dei provvedimenti indicati al comma 1, anche a seguito della comunicazione della violazione dell'ordine di protezione di cui all'articolo 10, comma 5, ne informa senza indugio le competenti autorita' dello Stato di esecuzione, secondo le modalita' indicate nell'articolo 6. Allo stesso modo, da' comunicazione della sentenza emessa per i fatti posti alla base della misura di protezione.
 
-#### Art. 12
+### Art. 12
 
 Cessazione degli effetti del riconoscimento
 
@@ -449,23 +441,21 @@ g) nei confronti della persona che determina il pericolo e' stato pronunciato il
 
 > \- Per il testo dell'art. 22 della legge 22 aprile 2005, n. 69 si veda nelle note all'art. 5.
 
-## Capo V
+## Capo V - Disposizioni finali
 
-### Disposizioni finali
-
-#### Art. 13
+### Art. 13
 
 Informazioni alla Commissione europea
 
 1\. Per consentire la valutazione in ordine alle modalita' di attuazione degli obblighi nascenti dal recepimento della direttiva, il Ministero della giustizia provvede, entro il 31 dicembre di ogni anno, a inviare un rapporto alla Commissione europea circa il numero di ordini di protezione emessi e riconosciuti dalle autorita' competenti.
 
-#### Art. 14
+### Art. 14
 
 Rapporti con altri accordi e intese
 
 1\. Il presente decreto non pregiudica l'applicazione di ulteriori accordi o intese conclusi con gli altri Stati membri e vigenti alla data della sua entrata in vigore, qualora gli stessi siano rispondenti agli obiettivi della direttiva e contribuiscano a semplificare le modalita' di riconoscimento degli effetti delle misure di protezione.
 
-#### Art. 15
+### Art. 15
 
 Protezione dei dati personali
 
@@ -533,7 +523,7 @@ b) la prevenzione di un'immediata e grave minaccia alla sicurezza pubblica.
 
 > b) al trattamento di dati personali che lo riguardano a fini di invio di materiale pubblicitario o di vendita diretta o per il compimento di ricerche di mercato o di comunicazione commerciale.».
 
-#### Art. 16
+### Art. 16
 
 Disposizioni finanziarie
 
@@ -563,7 +553,7 @@ Visto, il Guardasigilli: Orlando
 
 ## Allegati
 
-#### Allegato A
+### Allegato A
 
 Allegato A
 
@@ -573,7 +563,7 @@ Ordine di protezione europeo
 
 Parte di provvedimento in formato grafico
 
-#### Allegato B
+### Allegato B
 
 Allegato B
 

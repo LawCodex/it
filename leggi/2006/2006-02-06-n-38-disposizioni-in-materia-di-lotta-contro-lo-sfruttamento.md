@@ -27,11 +27,9 @@ Promulga
 
 la seguente legge:
 
-## CAPO I - DISPOSIZIONI IN MATERIA DI LOTTA CONTRO LO SFRUTTAMENTO
+## CAPO I - DISPOSIZIONI IN MATERIA DI LOTTA CONTRO LO SFRUTTAMENTO SESSUALE DEI BAMBINI E LA PEDOPORNOGRAFIA
 
-### SESSUALE DEI BAMBINI E LA PEDOPORNOGRAFIA
-
-#### Art. 1
+### Art. 1
 
 1\. All'articolo 600-bis del codice penale, il secondo comma e' sostituito dai seguenti:
 
@@ -53,7 +51,7 @@ Se l'autore del fatto di cui al secondo comma e' persona minore di anni diciotto
 
 > Salvo che l'atto costituisca piu' grave reato, chiunque compie atti sessuali con un minore di eta' compresa tra i quattordici e i diciotto anni, in cambio di denaro o di altra utilita' economica, e' punito con la reclusione da sei mesi a tre anni e con la multa non inferiore a euro 5.164. Nel caso in cui l'atto di cui al secondo comma sia commesso nei confronti di persona che non abbia compiuto gli anni sedici, la pena e' aumentata in misura non superiore ai due terzi. Nel caso in cui l'atto di cui al secondo comma sia commesso nel confronti di persona che non abbia compiuto gli anni sedici, si applica la pena della reclusione da due a cinque anni. Se l'autore del fatto di cui al secondo comma e persona minore di anni diciotto si applica la pena della reclusione o della multa, ridotta da un terzo a due terzi.».
 
-#### Art. 2
+### Art. 2
 
 1\. All'articolo 600-ter del codice penale, sono apportate le seguenti modificazioni:
 
@@ -85,7 +83,7 @@ d) dopo il quarto comma e' aggiunto il seguente:
 
 > Nei casi previsti dal terzo e dal quarto comma la pena e' aumentata in misura non eccedente i due terzi ove il materiale sia di ingente quantita'.».
 
-#### Art. 3
+### Art. 3
 
 1\. L'articolo 600-quater del codice penale e' sostituito dal seguente:
 
@@ -93,7 +91,7 @@ d) dopo il quarto comma e' aggiunto il seguente:
 
 La pena e' aumentata in misura non eccedente i due terzi ove il materiale detenuto sia di ingente quantita'".
 
-#### Art. 4
+### Art. 4
 
 1\. Dopo l'articolo 600-quater del codice penale, come sostituito dall'articolo 3 della presente legge, e' inserito il seguente:
 
@@ -101,7 +99,7 @@ La pena e' aumentata in misura non eccedente i due terzi ove il materiale detenu
 
 Per immagini virtuali si intendono immagini realizzate con tecniche di elaborazione grafica non associate in tutto o in parte a situazioni reali, la cui qualita' di rappresentazione fa apparire come vere situazioni non reali".
 
-#### Art. 5
+### Art. 5
 
 1\. All'articolo 600-septies del codice penale e' aggiunto, in fine, il seguente comma:
 
@@ -115,7 +113,7 @@ Per immagini virtuali si intendono immagini realizzate con tecniche di elaborazi
 
 > La condanna o l'applicazione della pena su richiesta delle parti a norma dell'art. 444 del codice di procedura penale per uno dei delitti di cui al primo comma comporta in ogni caso l'interdizione perpetua da qualunque incarico nelle scuole di ogni ordine e rado, nonche' da ogni ufficio o servizio in istituzioni o strutture pubbliche o private frequentate prevalentemente da minori.».
 
-#### Art. 6
+### Art. 6
 
 1\. All'articolo 609-quater del codice penale sono apportate le seguenti modificazioni:
 
@@ -145,7 +143,7 @@ b) dopo il primo comma e' inserito il seguente:
 
 > Si applica la pena di cui all'art. 609-ter, secondo comma, se la persona offesa non ha compiuto gli anni dieci.».
 
-#### Art. 7
+### Art. 7
 
 1\. All'articolo 609-septies, quarto comma, del codice penale sono apportate le seguenti modificazioni:
 
@@ -177,7 +175,7 @@ b) il numero 2) e' sostituito dal seguente:
 
 > 5\) se il fatto e' commesso nell'ipotesi di cui all'art. 609-quater, ultimo comma.».
 
-#### Art. 8
+### Art. 8
 
 1\. All'articolo 609-nonies del codice penale sono apportate le seguenti modificazioni:
 
@@ -203,7 +201,7 @@ c) e' aggiunto, in fine, il seguente comma:
 
 > La condanna o l'applicazione della pena su richiesta delle parti a norma dell'art. 444 del codice di procedura penale, per alcuno dei delitti previsti dagli articoli 609-bis, 609-ter e 609-octies, se commessi nei confronti di persona che non ha compiuto gli anni diciotto, 609-quater e 609-quinquies, comporta in ogni caso l'interdizione perpetua da qualunque incarico nelle scuole di ogni ordine e grado nonche' da ogni ufficio o servizio in istituzioni o in altre strutture pubbliche o private frequentate prevalentemente da minori.».
 
-#### Art. 9
+### Art. 9
 
 1\. All'articolo 734-bis del codice penale le parole: "600-ter, 600-quater" sono sostituite dalle seguenti: "600-ter e 600-quater, anche se relativi al materiale pornografico di cui all'articolo 600-quater.1,".
 
@@ -213,7 +211,7 @@ c) e' aggiunto, in fine, il seguente comma:
 
 > «Art. 734-bis (Divulgazione delle generalita' o dell'immagine di persona offesa da atti di violenza sessuale). - Chiunque, nei casi di delitti previsti dagli articoli 600-bis, 600-ter e 600-quater, anche se relativi al materiale pornografico di cui all'art. 600-quater.1, 600-quinquies, 609-bis, 609-ter, 609-quater, 609-quinquies e 609-octies, divulghi, anche attraverso mezzi di comunicazione di massa, le generalita' o l'immagine della persona offesa senza il suo consenso, e' punito con l'arresto da tre a sei mesi.».
 
-#### Art. 10
+### Art. 10
 
 1\. All'articolo 25-quinquies, comma 1, del decreto legislativo 8 giugno 2001, n. 231, sono apportate le seguenti modificazioni:
 
@@ -239,7 +237,7 @@ b) alla lettera c), dopo le parole: "e 600-quater," sono inserite le seguenti: "
 
 > 16, comma 3.».
 
-#### Art. 11
+### Art. 11
 
 1\. All'articolo 444, comma 1-bis, del codice di procedura penale, dopo le parole: "di cui all'articolo 51, commi 3-bis e 3-quater," sono inserite le seguenti: "i procedimenti per i delitti di cui agli articoli 600-bis, primo e terzo comma, 600-ter, primo, secondo, terzo e quinto comma, 600-quater, secondo comma, 600-quater.1, relativamente alla condotta di produzione o commercio di materiale pornografico, 600-quinquies, nonche' 609-bis, 609-ter, 609-quater e 609-octies del codice penale,".
 
@@ -257,7 +255,7 @@ b) alla lettera c), dopo le parole: "e 600-quater," sono inserite le seguenti: "
 
 > 3\. La parte, nel formulare la richiesta, puo' subordinarne l'efficacia, alla concessione della sospensione condizionale della pena. In questo caso il giudice, se ritiene che la sospensione condizionale non puo' essere concessa, rigetta la richiesta.".
 
-#### Art. 12
+### Art. 12
 
 1\. All'articolo 380, comma 2, lettera d), del codice di procedura penale, dopo le parole: "delitto di pornografia minorile previsto dall'articolo 600-ter, commi primo e secondo," sono inserite le seguenti: "anche se relativo al materiale pornografico di cui all'articolo 600-quater.1,".
 
@@ -337,7 +335,7 @@ b) alla lettera c), dopo le parole: "e 600-quater," sono inserite le seguenti: "
 
 > 4-bis. Non e' consentito l'arresto della persona richiesta di fornire informazioni dalla polizia giudiziaria o dal pubblico ministero per reati concernenti il contenuto delle informazioni o il rifiuto di fornirle.».
 
-#### Art. 13
+### Art. 13
 
 1\. All'articolo 266, comma 1, lettera f-bis), del codice di procedura penale, dopo le parole: "del codice penale" sono aggiunte le seguenti: ", anche se relativi al materiale pornografico di cui all'articolo 600-quater.1 del medesimo codice".
 
@@ -365,7 +363,7 @@ b) alla lettera c), dopo le parole: "e 600-quater," sono inserite le seguenti: "
 
 > 2\. Negli stessi casi e' consentita l'intercettazione di comunicazioni tra presenti. Tuttavia, qualora queste avvengano nei luoghi indicati dall'art. 614 del codice penale, l'intercettazione e' consentita solo se vi e' fondato motivo di ritenere che ivi si stia svolgendo l'attivita' criminosa.».
 
-#### Art. 14
+### Art. 14
 
 1\. All'articolo 190-bis, comma 1-bis, del codice di procedura penale, dopo le parole: "600-ter, 600-quater," sono inserite le seguenti: "anche se relativi al materiale pornografico di cui all'articolo 600-quater.1,".
 
@@ -423,7 +421,7 @@ b) alla lettera c), dopo le parole: "e 600-quater," sono inserite le seguenti: "
 
 > 5-bis. Nel caso di indagini che riguardino ipotesi di reato previste dagli articoli 600, 600-bis, 600-ter, anche se relativi al materiale pornografico di cui all'art. 600-quater.1, 600-quinquies, 601, 602, 609-bis, 609-ter, 609-quater e 609-octies del codice penale, il giudice, ove fra le persone interessate all'assunzione della prova vi siano minori di anni sedici, con l'ordinanza di cui al comma 2, stabilisce il luogo, il tempo e le modalita' particolari attraverso cui procedere all'incidente probatorio, quando le esigenze del minore lo rendono necessario od opportuno. A tal fine l'udienza puo' svolgersi anche in luogo diverso dal tribunale, avvalendosi il giudice, ove esistano, di strutture specializzate di assistenza o, in mancanza, presso l'abitazione dello stesso minore. Le dichiarazioni testimoniali debbono essere documentate integralmente con mezzi di riproduzione fonografica o audiovisiva. Quando si verifica una indisponibilita' di strumenti di riproduzione o di personale tecnico, si provvede con le forme della perizia, ovvero della consulenza tecnica. Dell'interrogatorio e' anche redatto verbale in forma riassuntiva. La trascrizione della riproduzione e' disposta solo se richiesta dalle parti.».
 
-#### Art. 15
+### Art. 15
 
 1\. All'articolo 4-bis della legge 26 luglio 1975, n. 354, e successive modificazioni, al comma 1, quarto periodo, dopo le parole: "articoli 575," sono inserite le seguenti: "600-bis, primo comma, 600-ter, primo e secondo comma, 600-quinquies, 609-bis, 609-ter, 609-quater, 609-octies," e dopo le parole: "dagli articoli 609-bis," sono inserite le seguenti: "609-ter,".
 
@@ -443,7 +441,7 @@ b) alla lettera c), dopo le parole: "e 600-quater," sono inserite le seguenti: "
 
 > 3-bis. L'assegnazione al lavoro all'esterno, i permessi premio e le misure alternative alla detenzione previste dal capo VI, non possono essere concessi ai detenuti ed internati per delitti dolosi quando il Procuratore nazionale antimafia o il procuratore distrettuale comunica, d'iniziativa o su segnalazione del comitato provinciale per l'ordine e la sicurezza pubblica competente in relazione al luogo di detenzione o internamento, l'attualita' di collegamenti con la criminalita' organizzata. In tal caso si prescinde dalle procedure previste dai commi 2 e 3.».
 
-#### Art. 16
+### Art. 16
 
 1\. All'articolo 10, comma 1, del decreto-legge 31 dicembre 1991, n. 419, convertito, con modificazioni, dalla legge 18 febbraio 1992, n. 172, e successive modificazioni, dopo le parole: "600-quater," sono inserite le seguenti: "anche se relativi al materiale pornografico di cui all'articolo 600-quater.1,".
 
@@ -485,7 +483,7 @@ b) alla lettera c), dopo le parole: "e 600-quater," sono inserite le seguenti: "
 
 > 4\. L'autorita' giudiziaria puo' affidare il materiale o i beni sequestrati in applicazione della presente legge, in custodia giudiziale con facolta' d'uso, agli organi di polizia giudiziaria che ne facciano richiesta per l'impiego nelle attivita' di contrasto di cui al presente articolo.».
 
-#### Art. 17
+### Art. 17
 
 1\. Gli operatori turistici che organizzano viaggi collettivi o individuali in Paesi esteri hanno l'obbligo, a decorrere dalla data di cui al comma 2, di inserire in maniera evidente nei materiali propagandistici, nei programmi, nei documenti di viaggio consegnati agli utenti, nonche' nei propri cataloghi generali o relativi a singole destinazioni, la seguente avvertenza: "Comunicazione obbligatoria ai sensi dell'articolo ..... della legge n.... - La legge italiana punisce con la reclusione i reati concernenti la prostituzione e la pornografia minorile, anche se commessi all'estero".
 
@@ -493,7 +491,7 @@ b) alla lettera c), dopo le parole: "e 600-quater," sono inserite le seguenti: "
 
 3\. Gli operatori turistici che violano l'obbligo di cui al comma 1 sono puniti con la sanzione amministrativa del pagamento di una somma da euro 1.500 a euro 6.000. All'irrogazione della sanzione provvede il Ministero delle attivita' produttive.
 
-#### Art. 18
+### Art. 18
 
 1\. All'articolo 17, comma 2, secondo periodo, della legge 3 agosto 1998, n. 269, dopo le parole: "600-ter, terzo comma, e 600-quater del codice penale," sono inserite le seguenti: "anche se relativi al materiale pornografico di cui all'articolo 600-quater.1 dello stesso codice,".
 
@@ -531,7 +529,7 @@ b) alla lettera c), dopo le parole: "e 600-quater," sono inserite le seguenti: "
 
 ## CAPO II - NORME CONTRO LA PEDOPORNOGRAFIA A MEZZO INTERNET
 
-#### Art. 19
+### Art. 19
 
 1\. Dopo l'articolo 14 della legge 3 agosto 1998, n. 269, sono inseriti i seguenti:
 
@@ -581,7 +579,7 @@ Art. 14-quinquies. - (Misure finanziarie di contrasto alla commercializzazione d
 
 3\. Il regolamento di cui all'articolo 14-quinquies, comma 8, della legge 3 agosto 1998, n. 269, introdotto dal comma 1 del presente articolo, e' adottato entro diciotto mesi dalla data di entrata in vigore della presente legge.
 
-#### Art. 20
+### Art. 20
 
 1\. All'articolo 17 della legge 3 agosto 1998, n. 269, dopo il comma 1 e' inserito il seguente:
 

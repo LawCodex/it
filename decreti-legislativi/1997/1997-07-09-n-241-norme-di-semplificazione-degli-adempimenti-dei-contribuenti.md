@@ -40,9 +40,7 @@ Emana
 
 il seguente decreto legislativo:
 
-## CAPO I - DISPOSIZIONI IN MATERIA DI DICHIARAZIONI
-
-### ANNUALI DEI REDDITI E DELLA - IMPOSTA SUL VALORE AGGIUNTO
+## CAPO I - DISPOSIZIONI IN MATERIA DI DICHIARAZIONI ANNUALI DEI REDDITI E DELLA IMPOSTA SUL VALORE AGGIUNTO
 
 #### Art. 1
 
@@ -440,9 +438,7 @@ a) ai versamenti effettuati entro il 30 giugno 1999, risultanti dalle dichiarazi
 
 b) ai versamenti effettuati entro il 20 luglio 1999 risultanti dalle suddette dichiarazioni presentate dai contribuenti che svolgono attivita' per le quali sono stati elaborati gli studi settore approvati con decreti del Ministro delle finanze 30 marzo 1999, pubblicati nei supplementi ordinari numeri 61 e 62 alla Gazzetta Ufficiale n. 75 del 31 marzo 1999, nei confronti dei quali non operano cause di esclusione o di inapplicabilita'; tale disposizione si applica anche ai titolari di redditi derivanti dalla partecipazione in societa' ed imprese familiari indicate all'articolo 5 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, ovvero in aziende coniugali non gestite in forma societaria che svolgono le medesime attivita'."
 
-## CAPO II - DISPOSIZIONI IN MATERIA DI LIQUIDAZIONE
-
-### E DI ACCERTAMENTO DELLE DICHIARAZIONI
+## CAPO II - DISPOSIZIONI IN MATERIA DI LIQUIDAZIONE E DI ACCERTAMENTO DELLE DICHIARAZIONI
 
 #### Art. 13 - Liquidazione delle imposte sui redditi
 
@@ -934,7 +930,7 @@ Il D. Lgs. 19 novembre 1998, n. 422 ha disposto (con l'art. 2, comma 2) che le d
 
 2\. Le modalita' di esecuzione dei pagamenti mediante i sistemi di cui al comma 1 sono stabilite con convenzione approvata con decreto del Ministro delle finanze, di concerto con il Ministro del tesoro.
 
-## SEZIONE II - DISPOSIZIONI RELATIVE AL PERIODO TRANSITORIO
+### SEZIONE II - DISPOSIZIONI RELATIVE AL PERIODO TRANSITORIO
 
 #### Art. 24 - Modalita' di versamento
 
@@ -980,7 +976,7 @@ AGGIORNAMENTO (2)
 
 Il D. Lgs. 23 marzo 1998, n. 56 ha disposto (con l'art. 7, comma 1) che le modifiche al presente articolo hanno effetto a decorrere dal 1 gennaio 1998.
 
-## SEZIONE III - SANZIONI
+### SEZIONE III - SANZIONI
 
 #### Art. 26 - Sanzioni al concessionario
 
@@ -1002,7 +998,7 @@ Il D. Lgs. 23 marzo 1998, n. 56 ha disposto (con l'art. 7, comma 1) che le modif
 
 > 4\. Se i versamenti non sono stati eseguiti in tutto o in parte si provvede alla espropriazione della cauzione secondo le disposizioni dell'art. 56".
 
-## SEZIONE IV - DISPOSIZIONI VARIE
+### SEZIONE IV - DISPOSIZIONI VARIE
 
 #### Art. 27 - Comitato di indirizzo
 

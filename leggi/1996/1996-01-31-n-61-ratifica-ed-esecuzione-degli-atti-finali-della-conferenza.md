@@ -677,9 +677,7 @@ Impianti di servizi di difesa nazionale
 
 204 3. Inoltre, quando questi impianti partecipano al servizio di corrispondenza pubblico o agli altri servizi regolati dai Regolamenti amministrativi, essi debbono conformarsi, in linea di massima, alle prescrizioni regolamentari applicabili a tali servizi.
 
-## Capitolo VIII - Relazioni con l'Organizzazione delle Nazioni Unite, altre
-
-### organizzazioni internazionali e Stati non-Membri
+## Capitolo VIII - Relazioni con l'Organizzazione delle Nazioni Unite, altre organizzazioni internazionali e Stati non-Membri
 
 #### Articolo 49
 
@@ -989,7 +987,7 @@ Altre conferenze
 
 49 (2) Le disposizioni concernenti la convocazione di una conferenza mondiale delle radiocomunicazioni, l'adozione del suo ordine del giorno e le condizioni di partecipazione si applicano ugualmente, a seconda della convenienza, alle conferenze mondiali delle telecomunicazioni internazionali.
 
-## Sezione 2
+### Sezione 2
 
 #### Articolo 4
 
@@ -1057,7 +1055,7 @@ Il Consiglio
 
 82 (16) sottopone alla Conferenza di Plenipotenziari un rapporto sulle attivita' dell'Unione a far data dall'ultima Conferenza di Plenipotenziari nonche' le Raccomandazioni che ritiene appropriate.
 
-## Sezione 3
+### Sezione 3
 
 #### Articolo 5
 
@@ -1109,7 +1107,7 @@ Segretariato generale
 
 105 2. Il Segretario generale o il Vice-Segretario generale possono assistere a titolo consultivo, alle conferenze dell'Unione; il Segretario generale o il suo rappresentante possono partecipare, a titolo consultivo, a tutte le altre riunioni dell'Unione.
 
-## Sezione 4
+### Sezione 4
 
 #### Articolo 6
 
@@ -1127,7 +1125,7 @@ Comitato di coordinamento
 
 111 4. Un rapporto sui lavori del Comitato di coordinamento viene elaborato e messo a disposizione, su richiesta, dei Membri del Consiglio.
 
-## Sezione 5 - Settore delle radiocomunicazioni
+### Sezione 5 - Settore delle radiocomunicazioni
 
 #### Articolo 7
 
@@ -1297,7 +1295,7 @@ La decisione definitiva di nomina o di licenziamento spetta al Segretario genera
 
 183 4. Il direttore fornisce al Settore per lo sviluppo delle telecomunicazioni il sostegno tecnico necessario nell'ambito delle disposizioni della Costituzione e della presente Convenzione.
 
-## Sezione 6 - SETTORE PER LA NORMALIZZAZIONE DELLE TELECOMUNICAZIONI
+### Sezione 6 - SETTORE PER LA NORMALIZZAZIONE DELLE TELECOMUNICAZIONI
 
 #### Articolo 13
 
@@ -1357,7 +1355,7 @@ Ufficio per la normalizzazione delle telecomunicazioni
 
 207 4. Il direttore fornisce il sostegno tecnico necessario al Settore per lo sviluppo delle telecomunicazioni nel quadro delle disposizioni della Costituzione e della presente Convenzione.
 
-## Sezione 7 - Settore per lo sviluppo delle telecomunicazioni
+### Sezione 7 - Settore per lo sviluppo delle telecomunicazioni
 
 #### Articolo 16
 
@@ -1417,7 +1415,7 @@ Ufficio per lo sviluppo delle telecomunicazioni e Comitato consultivo per lo svi
 
 Il Comitato consiglia il direttore che partecipa alle sue riunioni, riguardo alle priorita' ed alle strategie da attuare nel quadro delle attivita' di sviluppo delle telecomunicazioni dell'Unione. In particolare, raccomanda misure volte ad incoraggiare la cooperazione ed il coordinamento con altre organizzazioni che trattano lo sviluppo delle telecomunicazioni.
 
-## Sezione 8 - Disposizioni comuni ai tre Settori
+### Sezione 8 - Disposizioni comuni ai tre Settori
 
 #### Articolo 19
 
@@ -2173,9 +2171,7 @@ Lingue
 
 495 2. Tutti i documenti di cui trattasi nelle norme pertinenti dell'articolo 29 della Costituzione possono essere pubblicati in una lingua diversa da quelle che vi sono specificate, a condizione che i Membri che chiedono tale pubblicazione s'impegnino a prendere a carico la totalita' delle spese di traduzione e di pubblicazione sostenute.
 
-## CAPITOLO V - Disposizioni varie relative alla gestione dei servizi
-
-### di telecomunicazione
+## CAPITOLO V - Disposizioni varie relative alla gestione dei servizi di telecomunicazione
 
 #### ARTICOLO 36
 

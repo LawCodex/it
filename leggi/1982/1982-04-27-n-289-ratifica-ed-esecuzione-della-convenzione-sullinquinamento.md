@@ -25,11 +25,11 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la convenzione sull'inquinamento atmosferico attraverso le frontiere a lunga distanza, adottata a Ginevra il 13 novembre 1979.
 
-### Art. 2
+## Art. 2
 
 Piena ed intera esecuzione e' data alla convenzione di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 16 della convenzione stessa.
 
@@ -51,7 +51,7 @@ Visto, il Guardasigilli: DARIDA
 
 ## Allegati
 
-### Convention
+## Convention
 
 CONVENTION SUR LA POLLUTION ATMOSPHERIQUE TRANSFRONTIERE A LONGUE DISTANCE
 
@@ -69,7 +69,7 @@ Le Parti alla presente Convenzione,
 
 decise a promuovere i rapporti e la collaborazione in materia di tutela dell'ambiente, consapevoli dell'importanza delle attivita' svolte dalla Commissione economica delle Nazioni Unite per l'Europa per il potenziamento di tali rapporti e di tale collaborazione, particolarmente nel settore dell'inquinamento atmosferico, ivi compreso il trasporto a lunga distanza degli inquinanti atmosferici, riconoscendo il contributo dato dalla Commissione economica per l'Europa all'applicazione multilaterale delle disposizioni in materia dell'Atto finale della Conferenza sulla sicurezza e la cooperazione in Europa, tenendo presente l'appello contenuto nel capitolo dell'Atto finale della Conferenza sulla sicurezza e la cooperazione in Europa relativo all'ambiente, alla collaborazione al fine di combattere l'inquinamento atmosferico e i suoi effetti, in particolare il trasporto di inquinanti atmosferici a lunga distanza, e all'elaborazione, mediante la collaborazione internazionale, di un vasto programma di sorveglianza e valutazione del trasporto a lunga distanza degli inquinanti atmosferici, a cominciare dal diossido di zolfo, passando poi eventualmente ad altri inquinanti, considerate le disposizioni in materia della Dichiarazione della Conferenza delle Nazioni Unite per l'ambiente, e in particolare il principio 21, il quale esprime la convinzione comune che, conformemente allo Statuto delle Nazioni Unite ed ai principi del diritto internazionale, gli Stati hanno il diritto sovrano di sfruttare le proprie risorse secondo le proprie politiche dell'ambiente ed hanno il dovere di fare in modo che le attivita' svolte nei limiti della loro giurisdizione e sotto il loro controllo non causino danni all'ambiente in altri Stati o in regioni che non rientrano in alcuna giurisdizione nazionale, riconoscendo la possibilita' che l'inquinamento atmosferico, ivi compreso l'inquinamento atmosferico attraverso le frontiere, provochi a breve o a lungo termine effetti dannosi, temendo che l'aumento previsto del livello delle emissioni di inquinanti atmosferici nella regione possa aumentare tali effetti dannosi, riconoscendo la necessita' di studiare le incidenze del trasporto degli inquinanti atmosferici a lunga distanza e di cercare delle soluzioni ai problemi individuati, affermando la loro decisione di potenziare la collaborazione internazionale, attiva per elaborare le politiche nazionali necessarie e, mediante scambi di informazioni, consultazioni ed attivita' di ricerca e sorveglianza, di coordinate le misure adottate dai Paesi per combattere l'inquinamento atmosferico, ivi compreso l'inquinamento atmosferico attraverso le frontiere a lunga distanza, hanno convenuto quanto segue:
 
-### Articolo 1
+## Articolo 1
 
 Ai fini della presente Convenzione:
 
@@ -79,31 +79,31 @@ b) l'espressione "inquinamento atmosferico attraverso le frontiere a lunga dista
 
 ## PRINCIPI FONDAMENTALI
 
-### Articolo 2
+## Articolo 2
 
 Le Parti contraenti, tenendo debito conto dei fatti e dei problemi in causa, sono decise a tutelare l'uomo ed il suo ambiente contro l'inquinamento atmosferico e cercheranno di limitare e, per quanto possibile, di ridurre gradualmente e prevenire l'inquinamento atmosferico, ivi compreso l'inquinamento atmosferico attraverso le frontiere a lunga distanza.
 
-### Articolo 3
+## Articolo 3
 
 Nell'ambito della presente Convenzione, le Parti contraenti elaboreranno il piu' presto possibile, mediante scambi di informazioni, consultazioni e attivita' di ricerca e sorveglianza, delle politiche e delle strategie volte a combattere gli scarichi di inquinanti atmosferici, tenendo presenti gli sforzi gia' intrapresi a livello nazionale ed internazionale.
 
-### Articolo 4
+## Articolo 4
 
 Le Parti contraenti scambieranno informazioni e procederanno a giri d'orizzonte sulle loro politiche, attivita' scientifiche e misure tecniche tendenti a combattere il piu' possibile gli scarichi di inquinanti atmosferici che possano avere effetti dannosi, e a ridurre cosi' l'inquinamento atmosferico, ivi compreso l'inquinamento atmosferico attraverso le frontiere a lunga distanza.
 
-### Articolo 5
+## Articolo 5
 
 Consultazioni avranno luogo a breve termine, su richiesta, fra, da un lato, la o le Parti contraenti effettivamente interessate dall'inquinamento atmosferico attraverso le frontiere a lunga distanza oppure che siano esposte ad un notevole rischio di tale inquinamento e, dall'altro, la o le Parti contraenti sul territorio e nella giurisdizione delle quali attivita' ivi svolte o previste diano o possano dare un contributo sostanziale all'inquinamento atmosferico attraverso le frontiere a lunga distanza.
 
 ## GESTIONE DELLA QUALITA' DELL'ATMOSFERA
 
-### Articolo 6
+## Articolo 6
 
 Tenendo presente gli articoli da 2 a 5, le ricerche in corso, gli scambi di informazioni e le attivita' di sorveglianza ed i loro risultati, il costo e l'efficacia delle misure correttive adottate a livello locale e di altre misure, e al fine di combattere l'inquinamento atmosferico, in particolare quello derivante da impianti nuovi o trasformati, ciascuna Parte contraente si impegna ad elaborare le migliori politiche e strategie, ivi compresi dei sistemi di gestione della qualita' dell'atmosfera e, nell'ambito di tali sistemi, delle misure di controllo che siano compatibili con uno sviluppo equilibrato, facendo in particolare ricorso alla migliore tecnologia disponibile ed economicamente applicabile ed a tecniche che non producano o producano pochi rifiuti.
 
 ## RICERCA-SVILUPPO
 
-### Articolo 7
+## Articolo 7
 
 Le Parti contraenti, a seconda delle loro esigenze, intraprenderanno attivita' concertate di ricerca e/o di sviluppo nei seguenti campi:
 
@@ -121,7 +121,7 @@ f) elaborazione di programmi di insegnamento e formazione riguardanti l'inquinam
 
 ## SCAMBI DI INFORMAZIONI
 
-### Articolo 8
+## Articolo 8
 
 Le Parti contraenti si scambieranno, nell'ambito dell'Organo esecutivo di cui all'articolo 10, o a livello bilaterale, e nel comune interesse, informazioni:
 
@@ -145,7 +145,7 @@ g) sulle politiche e strategie nazionali, sub-regionali e regionali di lotta con
 
 ## ATTUAZIONE E AMPLIAMENTO DEL PROGRAMMA CONCERTATO DI SORVEGLIANZA CONTINUA E VALUTAZIONE DEL TRASPORTO A LUNGA DISTANZA DI INQUINANTI ATMOSFERICI IN EUROPA
 
-### Articolo 9
+## Articolo 9
 
 Le Parti contraenti sottolineano la necessita' di attuare il "Programma concertato di sorveglianza e valutazione del trasporto a lunga distanza degli inquinanti atmosferici in Europa" (qui di seguito denominato EMEP) esistente e, per quanto attiene all'ampliamento di tale programma, convengono di porre l'accento su:
 
@@ -171,7 +171,7 @@ i) l'interesse di ampliare le reti nazionali dell'EMEP per renderle operative a 
 
 ## ORGANO ESECUTIVO
 
-### Articolo 10
+## Articolo 10
 
 1\. I rappresentanti delle Parti contraenti costituiranno, nell'ambito dei consiglieri dei governi dei paesi della CEE per i problemi dell'ambiente, l'Organo esecutivo della presente Convenzione e si riuniranno almeno una volta all'anno in tale qualita'.
 
@@ -189,7 +189,7 @@ c) svolgera' tutte le altre funzioni che dovessero rendersi necessarie in virtu'
 
 ## SEGRETARIATO
 
-### Articolo 11
+## Articolo 11
 
 Il Segretario esecutivo della Commissione economica per l'Europa espletera', per conto dell'Organo esecutivo, le seguenti funzioni di segretariato:
 
@@ -201,7 +201,7 @@ c) tutte le altre funzioni che dovessero essergli affidate dall'Organo esecutivo
 
 ## EMENDAMENTI ALLA CONVENZIONE
 
-### Articolo 12
+## Articolo 12
 
 1\. Ogni Parte contraente e' abilitata a proporre emendamenti alla presente Convenzione.
 
@@ -211,13 +211,13 @@ c) tutte le altre funzioni che dovessero essergli affidate dall'Organo esecutivo
 
 ## COMPOSIZIONE DELLE CONTROVERSIE
 
-### Articolo 13
+## Articolo 13
 
 Qualora si verifichi una controversia fra due o piu' Parti contraenti alla presente Convenzione in merito all'interpretazione o all'applicazione della Convenzione, dette Parti cercheranno una soluzione mediante il negoziato o qualunque altro metodo di composizione delle controversie che sia accettabile per le Parti stesse.
 
 ## FIRMA
 
-### Articolo 14
+## Articolo 14
 
 1\. La presente Convenzione sara' aperta alla firma degli Stati membri della Commissione economica per l'Europa, degli Stati che godono dello statuto consultivo presso la Commissione economica per l'Europa in virtu' del paragrafo 8 della risoluzione 36 (IV) del 28 marzo 1947 del Consiglio economico e sociale e delle organizzazioni di integrazione economica regionale costituite da Stati sovrani membri della Commissione economica per l'Europa ed aventi competenza per negoziare, concludere ed applicare accordi internazionali nelle materie trattate dalla presente Convenzione, presso l'Ufficio delle Nazioni Unite di Ginevra, dal 13 al 16 novembre 1979, in occasione della Riunione ad alto livello sulla tutela dell'ambiente nell'ambito della Commissione economica per l'Europa.
 
@@ -225,7 +225,7 @@ Qualora si verifichi una controversia fra due o piu' Parti contraenti alla prese
 
 ## RATIFICA, ACCETTAZIONE, APPROVAZIONE E ADESIONE
 
-### Articolo 15
+## Articolo 15
 
 1\. La presente Convenzione sara' soggetta a ratifica, accettazione o approvazione.
 
@@ -235,7 +235,7 @@ Qualora si verifichi una controversia fra due o piu' Parti contraenti alla prese
 
 ## ENTRATA IN VIGORE
 
-### Articolo 16
+## Articolo 16
 
 1\. La presente Convenzione entrera' in vigore il novantesimo giorno a partire dalla data del deposito del ventiquattresimo strumento di ratifica, accettazione, approvazione o adesione.
 
@@ -243,7 +243,7 @@ Qualora si verifichi una controversia fra due o piu' Parti contraenti alla prese
 
 ## RITIRO
 
-### Articolo 17
+## Articolo 17
 
 In qualunque momento, dopo cinque anni a partire dalla data in cui la presente Convenzione sara' entrata in vigore nei riguardi di una Parte contraente, detta Parte contraente potra' ritirarsi dalla Convenzione mediante notifica scritta indirizzata al depositario.
 
@@ -251,7 +251,7 @@ Tale ritiro avra' effetto il novantesimo giorno a partire dalla data di ricevime
 
 ## TESTI AUTENTICI
 
-### Articolo 18
+## Articolo 18
 
 L'originale della presente Convenzione, i cui testi inglese, francese e russo fanno ugualmente fede, sara' depositato presso il Segretario generale dell'Organizzazione delle Nazioni Unite.
 

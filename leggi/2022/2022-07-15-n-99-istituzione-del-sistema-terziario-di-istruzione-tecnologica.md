@@ -30,7 +30,7 @@ la seguente legge:
 
 ## Capo I - Principi
 
-#### Art. 1
+### Art. 1
 
 Istituzione del Sistema terziario
 
@@ -70,7 +70,7 @@ di istruzione tecnologica superiore
 
 ## Capo II - Missione e criteri generali di organizzazione degli ITS Academy
 
-#### Art. 2
+### Art. 2
 
 Missione degli ITS Academy
 
@@ -78,7 +78,7 @@ Missione degli ITS Academy
 
 2\. Costituisce priorita' strategica degli ITS Academy la formazione professionalizzante di tecnici superiori per soddisfare i fabbisogni formativi in relazione alla transizione digitale, anche ai fini dell'espansione dei servizi digitali negli ambiti dell'identita', dell'autenticazione, della sanita' e della giustizia, all'innovazione, alla competitivita' e alla cultura, alla rivoluzione verde e alla transizione ecologica nonche' alle infrastrutture per la mobilita' sostenibile.
 
-#### Art. 3
+### Art. 3
 
 Identita' degli ITS Academy
 
@@ -106,7 +106,7 @@ c) i diplomi che sono rilasciati a conclusione dei percorsi formativi.
 
 > \- Il decreto del Presidente del Consiglio dei ministri 25 gennaio 2008, recante: «Linee guida per la riorganizzazione del Sistema di istruzione e formazione tecnica superiore e la costituzione degli istituti tecnici superiori» e' pubblicato nella Gazz. Uff. 11 aprile 2008, n. 86.
 
-#### Art. 4
+### Art. 4
 
 Regime giuridico degli ITS Academy
 
@@ -168,7 +168,7 @@ b) ((quanto a 6,34 milioni di euro per l'anno 2026, mediante corrispondente ridu
 
 12\. Con provvedimento del direttore dell'Agenzia delle entrate sono definite le modalita' di fruizione del credito d'imposta di cui al comma 6 e delle altre agevolazioni previste dal presente articolo.
 
-#### Art. 5
+### Art. 5
 
 Standard minimi dei percorsi formativi
 
@@ -208,7 +208,7 @@ f) la conduzione scientifica di ciascun percorso formativo e' affidata a un coor
 
 > \- La raccomandazione del Consiglio del 22 maggio 2017 sul quadro europeo delle qualifiche per l'apprendimento permanente, che abroga la raccomandazione del Parlamento europeo e del Consiglio, del 23 aprile 2008, sulla costituzione del quadro europeo delle qualifiche per l'apprendimento permanente (2017/C 189/03), e' pubblicata nella Gazz. Uff. dell'Unione europea del 15 giugno 2017.
 
-#### Art. 6
+### Art. 6
 
 Verifica e valutazione finali e certificazione dei percorsi formativi e dei relativi crediti
 
@@ -234,7 +234,7 @@ c) all'esterno dei percorsi, al fine di facilitare il riconoscimento, totale o p
 
 7\. Gli ITS Academy sono autorizzati a svolgere le attivita' di intermediazione di manodopera ai sensi dell'articolo 6, comma 1, lettere a) e b), del decreto legislativo 10 settembre 2003, n. 276, a condizione che rendano pubblici e gratuitamente accessibili, nei relativi siti internet istituzionali, i curricula dei propri studenti dalla data di immatricolazione almeno fino al dodicesimo mese successivo alla data del conseguimento del diploma.
 
-#### Art. 7
+### Art. 7
 
 Standard minimi per l'accreditamento degli ITS Academy
 
@@ -254,7 +254,7 @@ Decorso il termine senza che i pareri siano stati espressi, il decreto puo' esse
 
 7\. All'attuazione del presente articolo si provvede nell'ambito delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente e senza nuovi o maggiori oneri per la finanza pubblica.
 
-#### Art. 8
+### Art. 8
 
 Raccordi tra il sistema universitario, gli ITS Academy e le istituzioni dell'alta formazione artistica, musicale e coreutica
 
@@ -304,7 +304,7 @@ d) le modalita' per rendere trasparente e sostenere, attraverso l'adozione di ta
 
 > 3\. I comitati, oltre alle funzioni di cui all'art. 2, comma 3, lettera c), provvedono al coordinamento delle iniziative in materia di programmazione degli accessi all'istruzione universitaria, di orientamento, di diritto allo studio, di alta formazione professionale e di formazione continua e ricorrente, di utilizzazione delle strutture universitarie, nonche' al coordinamento con il sistema scolastico, con le istituzioni formative regionali, con le istanze economiche e sociali del territorio.»
 
-#### Art. 9
+### Art. 9
 
 Misure nazionali di sistema per l'orientamento
 
@@ -322,7 +322,7 @@ c) programmi per la diffusione della cultura scientifica e tecnologica anche al 
 
 ## Capo III - Comitato nazionale ITS Academy e sistema di finanziamento
 
-#### Art. 10
+### Art. 10
 
 Comitato nazionale ITS Academy
 
@@ -358,7 +358,7 @@ Per la partecipazione alle attivita' del Comitato nazionale ITS Academy non spet
 
 9\. All'attuazione del presente articolo le amministrazioni pubbliche interessate provvedono nell'ambito delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
-#### Art. 11
+### Art. 11
 
 Sistema di finanziamento
 
@@ -394,11 +394,9 @@ Il decreto di cui al primo periodo e' adottato previo parere delle competenti Co
 
 10\. Il prefetto della provincia in cui ha sede legale l'ITS Academy esercita il controllo sull'amministrazione della fondazione e sul corretto utilizzo delle risorse ricevute dalla fondazione, secondo quanto previsto dall'articolo 4, comma 8.
 
-## Capo IV - Anagrafe nazionale degli studenti, banca dati nazionale, monitoraggio
+## Capo IV - Anagrafe nazionale degli studenti, banca dati nazionale, monitoraggio e valutazione
 
-### e valutazione
-
-#### Art. 12
+### Art. 12
 
 Anagrafe nazionale degli studenti e banca dati nazionale
 
@@ -412,7 +410,7 @@ Anagrafe nazionale degli studenti e banca dati nazionale
 
 > \- Il decreto del Presidente del Consiglio dei Ministri 25 gennaio 2008, recante: «Linee guida per la riorganizzazione del Sistema di istruzione e formazione tecnica superiore e la costituzione degli istituti tecnici superiori», e' pubblicato nella Gazz. Uff. 11 aprile 2008, n. 86.
 
-#### Art. 13
+### Art. 13
 
 Monitoraggio e valutazione
 
@@ -428,7 +426,7 @@ Monitoraggio e valutazione
 
 ## Capo V - Disposizioni finali
 
-#### Art. 14
+### Art. 14
 
 Fase transitoria e attuazione
 
@@ -456,13 +454,13 @@ c) le fondazioni ITS Academy per le quali sia intervenuta almeno l'iscrizione ne
 
 7\. Resta ferma la disciplina del sistema di istruzione e formazione tecnica superiore (IFTS) istituito dall'articolo 69 della legge 17 maggio 1999, n. 144.
 
-#### Art. 15
+### Art. 15
 
 Province autonome
 
 1\. Le province autonome di Trento e di Bolzano provvedono alle finalita' della presente legge nell'ambito delle competenze attribuite dallo statuto speciale e dalle relative norme di attuazione.
 
-#### Art. 16
+### Art. 16
 
 Entrata in vigore
 

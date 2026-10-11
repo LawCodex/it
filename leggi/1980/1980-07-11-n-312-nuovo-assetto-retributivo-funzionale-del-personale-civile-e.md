@@ -28,7 +28,7 @@ la seguente legge:
 
 ## TITOLO I - PERSONALE DEI MINISTERI
 
-###### ART. 1 - Area di applicazione
+#### ART. 1 - Area di applicazione
 
 Le disposizioni contenute nel presente titolo si applicano agli impiegati civili ed agli operai delle amministrazioni dello Stato destinatari del decreto del Presidente della Repubblica 11 maggio 1976, n. 268.
 
@@ -42,7 +42,7 @@ Ai sensi dell'articolo 17 della legge 5 gennaio 1957, n. 33, si provvede alla di
 
 Fino a quando non sara' provveduto ai sensi del citato articolo 17, e nel rispetto comunque dei principi che saranno fissati in una legge-quadro sul pubblico impiego, si applicano, nei confronti del predetto personale, le vigenti disposizioni, ivi comprese le norme di cui al decreto del Presidente della Repubblica 30 giugno 1972, n. 748.
 
-###### ART. 2 - Qualifiche funzionali
+#### ART. 2 - Qualifiche funzionali
 
 Il personale contemplato nel presente titolo e' classificato in otto qualifiche funzionali ad ognuna delle quali corrisponde il livello retributivo stabilito dal successivo articolo 24.
 
@@ -88,7 +88,7 @@ Attivita' professionali comportanti preposizione a uffici o servizi con rilevanz
 
 Vi e' connessa responsabilita' organizzativa nonche' responsabilita' esterna per i risultati conseguiti.
 
-###### ART. 3 - Profili professionali
+#### ART. 3 - Profili professionali
 
 Ogni qualifica funzionale comprende piu' profili professionali: questi si fondano sulla tipologia della prestazione lavorativa, considerata per il suo contenuto, in relazione ai requisiti culturali, al grado di responsabilita', alla sfera di autonomia che comporta, al grado di mobilita' ed ai requisiti di accesso alla qualifica.
 
@@ -98,7 +98,7 @@ I profili professionali saranno identificati dalla commissione di cui al success
 
 Le modifiche successive seguiranno il medesimo procedimento.
 
-###### ART. 4 - Primo inquadramento nelle qualifiche funzionali del personale in servizio al 1 gennaio 1978
+#### ART. 4 - Primo inquadramento nelle qualifiche funzionali del personale in servizio al 1 gennaio 1978
 
 Il personale in servizio alla data del 1 gennaio 1978 e' inquadrato nelle nuove qualifiche funzionali, ai fini giuridici dalla stessa data ed economici dal 1° luglio 1978, avuto riguardo alla qualifica rivestita al 1 gennaio 1978 e secondo le seguenti corrispondenze:
 
@@ -164,7 +164,7 @@ AGGIORNAMENTO (27)
 
 La L. 23 dicembre 1994, n. 724 ha disposto (con l'art. 22, comma 32) che: "L'articolo 4 della legge 11 luglio 1980, n. 312, si interpreta nel senso che gli inquadramenti nelle qualifiche funzionali e nei profili professionali, ivi previsti, non producono effetti sull'indennita' di servizio all'estero che, fino alla data di entrata in vigore del regolamento emanato con decreto del Presidente della Repubblica 11 agosto 1991, n. 457, rimane stabilita secondo le misure di base previste nella tabella n. 19 allegata al decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, e successive modificazioni ed integrazioni, in relazione al posto-funzione conferito con provvedimento formale al personale in servizio all'estero a decorrere dal 1 luglio 1978".
 
-###### ART. 5 - Dotazioni organiche
+#### ART. 5 - Dotazioni organiche
 
 Con successivo disegno di legge da presentarsi entro il termine previsto dall'articolo 26-quinquies del decreto-legge 30 dicembre 1979, n. 663, come modificato dalla legge 29 febbraio 1980, n. 33, sara' stabilita la dotazione organica complessiva per ogni qualifica funzionale sulla base delle esigenze globali delle amministrazioni interessate.
 
@@ -172,11 +172,11 @@ In attesa della legge di cui al comma precedente, la dotazione organica cumulati
 
 Nelle nuove dotazioni sara' reso indisponibile un numero di posti pari a quello del personale non di ruolo da sistemare ai sensi degli articoli 30, 31, 32, 33 e 34, nonche' di quello interessato ai trasferimenti di cui ai decreti del Presidente della Repubblica 24 luglio 1977, n. 616 e 618.
 
-###### ART. 6
+#### ART. 6
 
 ((IL D.LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO)).
 
-###### ART. 7 - Accesso alle qualifiche
+#### ART. 7 - Accesso alle qualifiche
 
 L'accesso alle singole qualifiche funzionali avverra' per pubblico concorso consistente in una valutazione obiettiva del merito dei candidati accertato con prove selettive a contenuto teorico-pratico attinenti alle attivita' e ai profili della qualifica.
 
@@ -194,11 +194,11 @@ Le norme di cui all'articolo 1, 1) e all'articolo 2 del decreto del Presidente d
 
 Le modalita' di ammissione ai corsi e del relativo svolgimento, i criteri per le prove di esame, la nomina e composizione delle commissioni esaminatrici, nonche' quanto altro occorra per la organizzazione e lo svolgimento dei corsi medesimi, saranno dettate con decreto del Presidente del Consiglio dei ministri. L'accesso alle qualifiche avverra' indipendentemente dal tipo di diploma di laurea.
 
-###### ART. 8 - Accesso alle qualifiche IV e VI
+#### ART. 8 - Accesso alle qualifiche IV e VI
 
 Per il primo triennio successivo alla data di entrata in vigore della presente legge di personale che alla stessa data apparteneva alle soppresse carriere ausiliarie ed esecutive puo' partecipare ai concorsi pubblici per l'assunzione a profili appartenenti alle qualifiche IV e VI con i criteri e le modalita' di cui ai successivi articoli 12 e 14.
 
-###### ART. 9 - Riserva di posti
+#### ART. 9 - Riserva di posti
 
 L'ottanta per cento dei posti che si renderanno disponibili nelle varie qualifiche funzionali, dopo l'inquadramento definitivo del personale nelle qualifiche, e' riservato al personale in servizio alla data di entrata in vigore della presente legge, che abbia tutti i requisiti all'uopo richiesti dal relativo bando.
 
@@ -206,23 +206,23 @@ Detti posti saranno conferiti mediante concorso interno nazionale in conformita'
 
 La presente norma si applica una sola volta e contemporaneamente al primo concorso pubblico.
 
-###### ART. 10 - Commissione paritetica per l'inquadramento nelle nuove qualifiche
+#### ART. 10 - Commissione paritetica per l'inquadramento nelle nuove qualifiche
 
 Per le operazioni relative all'inquadramento di cui ai precedenti articoli 3 e 4 e' istituita con decreto del Presidente del Consiglio dei ministri, sentito il Consiglio superiore della pubblica amministrazione, una commissione paritetica presieduta da un sottosegretario di Stato o per sua delega da un dirigente generale e composta da sei rappresentanti dell'amministrazione statale e da sei rappresentanti dei dipendenti statali designati dalle organizzazioni sindacali maggiormente rappresentative sul piano nazionale, la quale dovra' pronunciarsi sull'identificazione concreta dei profili professionali, sulla corrispondenza tra le attuali e le nuove qualifiche di inquadramento ai sensi dell'ottavo comma del predetto articolo 4 nonche' su ogni altra questione che potra' insorgere e sara' sottoposta al suo esame dalle singole amministrazioni in sede di applicazione degli stessi articoli.
 
 Le decisioni della commissione sono valide se adottate con la presenza di almeno la meta' dei suoi componenti e a maggioranza dei presenti.
 
-###### ART. 11 - Espletamento dei concorsi
+#### ART. 11 - Espletamento dei concorsi
 
 I concorsi per l'assunzione di personale banditi alla data di entrata in vigore della presente legge saranno espletati ed i vincitori saranno inquadrati nelle qualifiche funzionali in relazione alla carriera o categoria cui si riferiva il concorso ed ai criteri previsti per l'inquadramento nelle qualifiche stesse dalle disposizioni contenute nei precedenti articoli concernenti il personale in servizio alla data del 1 gennaio 1978.
 
 I corsi di reclutamento di cui agli articoli 1, 1) e 2 del decreto del Presidente della Repubblica 21 aprile 1972, n. 472, in via di svolgimento o gia' banditi alla data di entrata in vigore della presente legge, saranno portati a termine ed i relativi vincitori saranno inquadrati nella settima qualifica funzionale con i criteri e le modalita' di cui al precedente comma. L'ammissione al corso e le nomine nella qualifica funzionale verranno effettuate secondo l'ordine delle rispettive graduatorie previste dagli articoli 15 e 20 del decreto del Presidente della Repubblica 20 giugno 1977, n. 701, indipendentemente dal tipo di diploma di laurea posseduto dagli ammessi ai corsi, salvo quanto prescrive l'articolo 2, comma nono, del citato decreto del Presidente della Repubblica 21 aprile 1972, n. 472.
 
-###### ART. 12 - Ammissione ai concorsi di personale in servizio
+#### ART. 12 - Ammissione ai concorsi di personale in servizio
 
 Ai concorsi pubblici potra' partecipare il personale con profilo professionale di qualifica immediatamente inferiore, in servizio da almeno cinque anni senza demerito, indipendentemente dal possesso del titolo di studio prescritto, salvo che questo non sia specificatamente richiesto dal particolare profilo professionale.
 
-###### ART. 13 - Titoli di studio
+#### ART. 13 - Titoli di studio
 
 Salvo quanto diversamente disposto dai successivi articoli e quanto previsto dai profili professionali, per l'accesso alle varie qualifiche funzionali e' prescritto il possesso dei seguenti titoli di studio:
 
@@ -234,7 +234,7 @@ Salvo quanto diversamente disposto dai successivi articoli e quanto previsto dai
 
 4\) diploma di laurea per le qualifiche 7ª e 8ª.
 
-###### ART. 14 - Riserva di posti
+#### ART. 14 - Riserva di posti
 
 Nei concorsi pubblici sono riservate le seguenti aliquote di posti: 50 per cento dalla 1ª alla 2ª qualifica;
 
@@ -254,7 +254,7 @@ Ai fini suddetti, nel primo quinquennio del nuovo ordinamento, viene considerata
 
 La riserva sara' totale per i profili la cui professionalita' di base puo' essere acquisita soltanto in un profilo appartenente alla qualifica immediatamente inferiore, sempreche' cio' risulti espressamente dal profilo professionale della qualifica di accesso.
 
-###### ART. 15 - Congedo ordinario
+#### ART. 15 - Congedo ordinario
 
 Il congedo ordinario e' stabilito in trenta giorni lavorativi da fruirsi irrinunciabilmente nel corso dello stesso anno solare in non piu' di due soluzioni, salvo eventuali motivate esigenze di servizio, nel qual caso l'impiegato ha diritto al cumulo dei congedi entro il primo semestre dell'anno successivo.
 
@@ -262,7 +262,7 @@ Le disposizioni di cui al precedente comma si applicano anche nei confronti del 
 
 Con decreto del Presidente della Repubblica, sentite le organizzazioni sindacali maggiormente rappresentative sul piano nazionale, da emanarsi entro tre mesi dall'entrata in vigore della presente legge, saranno dettate norme per disciplinare l'utilizzazione annuale di 150 ore di permesso retribuito sia per l'aggiornamento professionale mediante corsi istituiti dalla Scuola superiore della pubblica amministrazione, sia per il conseguimento del titolo di istruzione della scuola dell'obbligo.
 
-###### ART. 16 - Aspettativa sindacale
+#### ART. 16 - Aspettativa sindacale
 
 Il numero dei dipendenti da collocare in aspettativa per motivi sindacali di cui agli articoli 45 e seguenti della legge 18 marzo 1968, n. 249, e' fissato in 80 unita' complessive.
 
@@ -274,13 +274,13 @@ AGGIORNAMENTO
 
 Il D.P.C.M. 27 ottobre 1994, n. 770 ha disposto (con l'art. 6, comma 8) che il presente articolo "per effetto dell'art. 54, comma 5, del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni ed integrazioni, dalla data di entrata in vigore del presente regolamento" cessa di avere efficacia.
 
-###### ART. 17 - Abolizione dei rapporti informativi
+#### ART. 17 - Abolizione dei rapporti informativi
 
 Sono aboliti i rapporti informativi ed i giudizi complessivi annuali.
 
 Restano salve le relazioni previste, al termine del periodo di prova, per la conferma in ruolo nonche' i rapporti informativi e i giudizi complessivi annuali relativi al personale che ha titolo per accedere a posti dirigenziali per quanto richiesto dall'articolo 22, settimo comma, lettera a), del decreto del Presidente della Repubblica 30 giugno 1972, n. 748, avendo riguardo alle posizioni del nuovo ordinamento che saranno indicate con decreto del Presidente del Consiglio dei ministri.
 
-###### ART. 18 - Sanzioni disciplinari e note di demerito
+#### ART. 18 - Sanzioni disciplinari e note di demerito
 
 Il servizio prestato nell'anno non viene valutato ai fini della progressione economica e dell'anzianita' richiesta per il passaggio al livello retributivo superiore nei confronti del personale che abbia riportato in quell'anno una delle sanzioni disciplinari di cui all'articolo 78 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, esclusa la censura, salvo i maggiori effetti della sanzione irrogata.
 
@@ -290,15 +290,15 @@ Detta relazione va notificata al dipendente entro il mese di gennaio successivo 
 
 Il consiglio di amministrazione puo' deliberare a carico del dipendente interessato una nota di demerito che produrra' gli stessi effetti di cui al primo comma.
 
-###### ART. 19 - Ruoli unici nazionali
+#### ART. 19 - Ruoli unici nazionali
 
 Con una legge-quadro sul pubblico impiego verra' costituito l'organo centrale per l'amministrazione del personale statale e saranno dettate norme per l'istituzione dei ruoli unici nazionali del personale medesimo.
 
-###### ART. 20
+#### ART. 20
 
 ((ARTICOLO ABROGATO DAL D.LGS. 24 MARZO 2000, N. 85)).
 
-###### ART. 21 - Organizzazione del lavoro
+#### ART. 21 - Organizzazione del lavoro
 
 L'organizzazione del lavoro dei pubblici dipendenti sara' ispirata al principio della partecipazione e della responsabilita', valorizzando l'apporto individuale e la qualificazione professionale degli addetti, la responsabilizzazione ad ogni livello, la mobilita' ed il perfezionamento del personale, al fine di assicurarne un continuo adeguamento ai valori di democrazia, funzionalita', buon andamento e imparzialita'.
 
@@ -306,7 +306,7 @@ Per le esigenze funzionali delle singole amministrazioni ed in relazione a speci
 
 L'organizzazione del lavoro deve essere finalizzata nel suo dinamico adeguamento alla realta' operativa dell'amministrazione, agli obiettivi di efficienza, di economicita', di efficacia e di redditivita' dell'azione tecnico-amministrativa e volta ad assicurare il massimo coordinamento tra i vari livelli dell'amministrazione pubblica ed il soddisfacimento della domanda di servizi da parte della collettivita' nazionale, eliminando interferenze e duplicazioni di competenze, pareri e concerti esterni non necessari.
 
-###### ART. 22 - Produttivita' e rendimento
+#### ART. 22 - Produttivita' e rendimento
 
 Per il raggiungimento delle finalita' di cui al precedente articolo 21 con decreto del Presidente del Consiglio dei ministri da emanare sentite le organizzazioni sindacali maggiormente rappresentative sul piano nazionale saranno dettate norme in materia di organizzazione del lavoro nella pubblica amministrazione in armonia con i criteri ed i principi ispiratori contenuti nello stesso precedente articolo.
 
@@ -316,11 +316,11 @@ Gli standards di esecuzione sono definiti, e periodicamente riveduti, in sede di
 
 Con successiva legge si determineranno nuovi criteri di valutazione ai fini dell'accelerazione o del rallentamento nella progressione economica del personale per merito o demerito.
 
-###### ART. 23 - Conservazione delle attribuzioni
+#### ART. 23 - Conservazione delle attribuzioni
 
 Fino a quando non sara' provveduto all'inquadramento del personale nelle nuove qualifiche in relazione ai profili professionali di cui al precedente articolo 3, nulla e' innovato circa i compiti e le attribuzioni previsti dalla normativa vigente alla data dell'entrata in vigore della presente legge per le qualifiche rivestite all'atto dell'inquadramento.
 
-###### ART. 24 - Stipendi
+#### ART. 24 - Stipendi
 
 A decorrere dal 1 gennaio 1978 ai fini giuridici e dal 1 luglio 1978 agli effetti economici, al personale classificato nelle otto qualifiche funzionali che individuano corrispondenti livelli retributivi di cui al precedente articolo 2, competono i seguenti stipendi annui lordi iniziali:
 
@@ -336,7 +336,7 @@ Le disposizioni di cui al precedente comma si applicano anche nei confronti del 
 
 Al personale di cui al presente titolo non si applicano le disposizioni relative all'aumento anticipato di stipendio per merito previsto dall'articolo 33 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
 
-###### ART. 25 - Attribuzione nuovi stipendi
+#### ART. 25 - Attribuzione nuovi stipendi
 
 Ai fini della determinazione del nuovo stipendio spettante, dal 1 luglio 1978 o dalla data di assunzione se successiva, al personale collocato nelle qualifiche funzionali ai sensi del precedente articolo 4, si considera il trattamento economico complessivo annuo lordo spettante alla stessa data per stipendio, assegno perequativo pensionabile di cui alla legge 15 novembre 1973, n. 734, aggiunzioni previste dai decreti del Presidente della Repubblica 11 maggio 1976, n. 268, 16 aprile 1977, n. 116 e 21 novembre 1978, n. 718, nonche' per la valutazione ai fini economici dell'anzianita' di servizio.
 
@@ -368,7 +368,7 @@ Il dipendente che transiti alla qualifica superiore consegue nella nuova posizio
 
 Nel caso in cui nella nuova qualifica, ai sensi di quanto previsto dal penultimo comma del presente articolo, siano stati attribuiti aumenti di stipendio convenzionali, ai fini della ulteriore progressione economica, il dipendente si intende collocato allo scatto biennale tabellare immediatamente inferiore agli scatti convenzionali concessi.
 
-###### ART. 26 - Riassunzione personale carriera ausiliaria Ministero dei beni culturali ed ambientali
+#### ART. 26 - Riassunzione personale carriera ausiliaria Ministero dei beni culturali ed ambientali
 
 Il personale della carriera ausiliaria che sia appartenuto o appartenga al ruolo dei custodi e guardie notturne di cui alla tabella IV, 2, annessa al decreto del Presidente della Repubblica 3 dicembre 1975, n. 805, e che non abbia ottenuto o abbia avuto, revocato dal Ministero: dell'interno il riconoscimento della qualifica di agente di pubblica sicurezza, prevista dal regio decreto 31 dicembre 1923, n. 3164, puo' chiedere, entro novanta giorni dalla risoluzione del rapporto di impiego, l'inquadramento, anche in soprannumero, con la possibilita' della compensazione di cui all'ultimo comma del presente articolo, nel ruolo di cui alla tabella IV, 1, annessa al decreto del Presidente della Repubblica 3 dicembre 1975, n. 805, purche' in possesso di tutti i requisiti previsti dal testo unico degli impiegati civili dello Stato.
 
@@ -376,7 +376,7 @@ Per i rapporti gia' risolti la domanda d'inquadramento, da parte degli interessa
 
 L'inquadramento avverra', sentito il Consiglio di amministrazione del Ministero dei beni culturali ed ambientali, lasciando vacanti; in relazione al soprannumero di cui al primo comma del presente articolo, un pari numero di posti nel ruolo dei custodi e guardie notturne, con esclusione dei posti che hanno formato oggetto di concorso, facendo salve le anzianita' pregresse.
 
-###### ART. 27 - Inquadramento del personale del lotto e attribuzione dei nuovi stipendi
+#### ART. 27 - Inquadramento del personale del lotto e attribuzione dei nuovi stipendi
 
 Il personale del lotto di cui al regio decreto-legge 19 ottobre 1938, n. 1933 e successive modificazioni ed integrazioni e' inquadrato nelle seguenti qualifiche funzionali con decorrenza giuridica dal 1 gennaio 1978 ed economica dal 1° luglio 1978:
 
@@ -406,13 +406,13 @@ Per quanto non previsto nel precedente comma continuano ad applicarsi nei confro
 
 Continuano ad applicarsi gli articoli 8 e 9 del decreto del Presidente della Repubblica 20 novembre 1948, n. 1677, e successive modificazioni.
 
-###### ART. 28 - Spese di gestione e pagamento delle retribuzioni al personale del lotto
+#### ART. 28 - Spese di gestione e pagamento delle retribuzioni al personale del lotto
 
 Le spese di gestione previste dall'articolo 95 del regio decreto-legge 19 ottobre 1938, n. 1933, convertito, con modificazioni, nella legge 5 giugno 1939, n. 973, modificato dall'articolo 32 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1079, fino a quando non saranno emanate nuove disposizioni in materia, saranno sostenute dal ricevitore o reggente, con diritto al rimborso nella misura e con le modalita' stabilite dal predetto articolo 95 e successive modificazioni.
 
 Fino a quando non saranno apportate le necessarie variazioni di bilancio, le retribuzioni al personale del lotto stabilite dall'articolo 27 della presente legge continueranno ad essere prelevate dai fondi della riscossione della ricevitoria a norma del combinato disposto dell'articolo 86 del regio decreto-legge 19 ottobre 1938, n. 1933 e dell'articolo 191 del regio decreto 25 luglio 1940, n. 1077.
 
-###### ART. 29 - Trattamento di quiescenza del personale del lotto
+#### ART. 29 - Trattamento di quiescenza del personale del lotto
 
 Con decreto del Presidente della Repubblica, su proposta del Ministro delle finanze di concerto con quello del tesoro, da emanarsi entro un anno dall'entrata in vigore della presente legge, sara' soppresso il "Fondo trattamento quiescenza ed assegni straordinari al personale del lotto" ordinato dalla legge 6 agosto 1967, n. 699.
 
@@ -432,7 +432,7 @@ Fino all'entrata in vigore del predetto decreto le pensioni al personale del lot
 
 Analogamente l'Ente fondo continuera' ad erogare le indennita' di buonuscita salvo adeguamento e riliquidazione da parte dell'ENPAS per le cessazioni dal servizio successive alla stessa data del 1 gennaio 1978, previa regolamentazione delle posizioni contributive per il periodo compreso fra la data di decorrenza giuridica dello inquadramento e quella di decorrenza economica.
 
-###### ART. 30 - Personale del ruolo speciale ad esaurimento e non di ruolo
+#### ART. 30 - Personale del ruolo speciale ad esaurimento e non di ruolo
 
 Ai fini dell'inquadramento nelle qualifiche funzionali del personale del ruolo speciale ad esaurimento di cui alla legge 22 dicembre 1960, n. 1600, ferme restando le altre disposizioni della presente legge, si ha riguardo alle mansioni svolte, per almeno tre anni, risultanti da atti formali. A tali fini sara' adottato apposito decreto del Ministro del tesoro inquadrando gli interessati nelle qualifiche seconda, quarta, sesta e settima a seconda che le mansioni relative si riferiscano a quelle delle carriere, rispettivamente, ausiliarie, esecutive, di concetto e direttive.
 
@@ -446,7 +446,7 @@ Al predetto personale non di ruolo provvisto al 1 luglio 1978, o alla data di as
 
 Per l'inquadramento in ruolo del suddetto personale non di ruolo si applica l'articolo 2 della legge 4 febbraio 1966, n. 32, riducendo a meta' l'anzianita' di servizio richiesta e conferendo lo stipendio iniziale del livello di riferimento. Detta riduzione non potra' comunque retrodatare l'inquadramento in ruolo a data anteriore al 1 gennaio 1978 agli effetti giuridici e a data anteriore al 1 luglio 1978 agli effetti economici.
 
-###### ART. 31 - Personale assunto ai sensi di disposizioni speciali
+#### ART. 31 - Personale assunto ai sensi di disposizioni speciali
 
 Il sottoelencato personale civile assunto dalle amministrazioni dello Stato ai sensi delle disposizioni a fianco indicate, in servizio alla data del 30 aprile 1979 ed in possesso di tutti i requisiti prescritti, ad eccezione del limite di eta' e del titolo di studio, e' collocato, a domanda da presentare entro sessanta giorni dalla data di entrata in vigore della presente legge e previo parere favorevole del consiglio di amministrazione, nelle categorie del personale non di ruolo previste dalla tabella I allegata al regio decreto-legge 4 febbraio 1937, n. 100 e successive modificazioni ed integrazioni, o in categorie salariali non di ruolo corrispondenti a quelle previste per gli operai di ruolo dalla legge 5 marzo 1961, n. 90 e successive modificazioni, a seconda delle mansioni per le quali e' avvenuta la assunzione o la conferma in servizio e con l'attribuzione, a decorrere dal 1 luglio 1978 o dalla data di assunzione se successiva, del trattamento economico previsto per le categorie stesse dal precedente articolo 30.
 
@@ -520,7 +520,7 @@ In relazione al collocamento nelle categorie non di ruolo del personale di cui a
 
 Nei confronti del predetto personale si applica l'articolo 2 della legge 4 febbraio 1966, n. 32, con riduzione alla meta' della anzianita' di servizio richiesta per l'inquadramento che compete nella posizione iniziale della qualifica di riferimento.
 
-###### ART. 32 - Assistenti sociali utilizzati dal Ministero del lavoro e della previdenza sociale
+#### ART. 32 - Assistenti sociali utilizzati dal Ministero del lavoro e della previdenza sociale
 
 Gli assistenti sociali dipendenti dall'Ente italiano di servizio sociale assegnati, alla data del 30 aprile 1979, in relazione alla trattazione specializzata di particolari problemi dei lavoratori migranti e delle loro famiglie, a svolgere la propria attivita' presso gli organi periferici del Ministero del lavoro e della previdenza sociale in base alla convenzione del 1 luglio 1967 e successivi rinnovi, in possesso dei diplomi di istituto di istruzione secondaria di secondo grado e di quello di assistente sociale e di tutti i requisiti prescritti, ad eccezione del limite di eta', sono collocati, a domanda da presentare entro sessanta giorni dalla data di entrata in vigore della presente legge, previa risoluzione ad ogni effetto del precedente rapporto, e su parere favorevole del Consiglio di amministrazione, nella categoria seconda del personale non di ruolo prevista dalla tabella I allegata al regio decreto-legge 4 febbraio 1937, n. 100, e successive modificazioni ed integrazioni.
 
@@ -530,13 +530,13 @@ L'eventuale differenza tra la retribuzione percepita a titolo di assegni a carat
 
 Nei confronti di detto personale si applica l'articolo 2 della legge 4 febbraio 1966, n. 32, con riduzione alla meta' della anzianita' di servizio richiesta per l'inquadramento in ruolo che compete nella posizione iniziale della qualifica di riferimento.
 
-###### ART. 33 - Personale utilizzato nelle comunita' dei Corpi di polizia
+#### ART. 33 - Personale utilizzato nelle comunita' dei Corpi di polizia
 
 Il personale che al 30 aprile 1979 risulti utilizzato a tempo pieno ed in modo continuativo presso le comunita' del Corpo degli agenti di pubblica sicurezza, dell'Arma dei carabinieri e del Corpo della guardia di finanza, se in possesso di tutti i requisiti prescritti, ad eccezione del limite di eta' e del titolo di studio, e' collocato, a domanda da produrre entro sessanta giorni dalla data di entrata in vigore della presente legge e previo parere favorevole del consiglio di amministrazione, nella categoria dei dipendenti non di ruolo dello Stato, classificandolo alla quinta categoria che viene pertanto istituita, in aggiunta a quelle della tabella I allegata al regio decreto-legge 4 febbraio 1937, n. 100, e successive modificazioni ed integrazioni, per il disimpegno delle mansioni per le quali il personale stesso e' stato assunto.
 
 Al predetto personale compete dal 1 luglio 1978 lo stipendio annuo lordo iniziale della prima qualifica funzionale, suscettibile degli aumenti periodici biennali del 2,50 per cento.
 
-###### ART. 34 - Personale della scuola elementare collocato fuori ruolo
+#### ART. 34 - Personale della scuola elementare collocato fuori ruolo
 
 Il personale ispettivo, direttivo e docente della scuola elementare, collocato permanentemente fuori ruolo ai sensi dell'articolo 8 della legge 2 dicembre 1967, n. 1213, puo' optare, entro sessanta giorni dall'entrata in vigore della presente legge, per il collocamento nel corrispondente ruolo organico dell'amministrazione presso cui presta servizio. Il personale docente, che nel preesistente ordinamento ha conseguito il parametro 397 alla data di entrata in vigore della presente legge, e' equiparato, ai fini dell'inquadramento nelle qualifiche funzionali, ai segretari capi; quello che ha conseguito il parametro 330 e 280 e' equiparato ai segretari principali. Il personale ispettivo e direttivo e' equiparato al personale della carriera direttiva con qualifica di direttore aggiunto di divisione.
 
@@ -544,7 +544,7 @@ Il predetto personale e' inquadrato nelle rispettive qualifiche funzionali in so
 
 Al personale di cui ai precedenti commi si applica la normativa di stato giuridico e di trattamento economico, relativa al personale appartenente al ruolo in cui viene inquadrato. Il servizio prestato nel ruolo di provenienza e' valido a tutti gli effetti come servizio effettuato nel ruolo di inquadramento.
 
-###### ART. 35 - Inquadramento personale ex imposte di consumo
+#### ART. 35 - Inquadramento personale ex imposte di consumo
 
 Il personale delle abolite imposte di consumo di nomina comunale, di nomina privata di cui al contratto collettivo nazionale di lavoro 21 aprile 1940, in servizio alle dipendenze del Ministero delle finanze alla data del 1 gennaio 1978 ai sensi del decreto del Presidente della Repubblica 26 ottobre 1972, n. 649, e' inquadrato, salvo quanto previsto nei successivi commi, nella qualifica funzionale settima, sesta, quarta e seconda, con decorrenza giuridica dalla stessa data ed economica dal 1 luglio 1978, avuto riguardo alle funzioni determinate, rispettivamente, dagli articoli 2, 3, 4 e 5 del decreto del Ministro delle finanze n. 7/3726 del 4 agosto 1977, emanato in attuazione dell'articolo 15, primo comma, della legge 4 agosto 1975, n. 397.
 
@@ -568,7 +568,7 @@ Nel caso in cui la qualifica superiore, conferita in attuazione del citato artic
 
 Nell'ipotesi in cui il conferimento della qualifica superiore non comporti l'inquadramento nella qualifica funzionale superiore, si procede comunque ad un nuovo inquadramento economico nella qualifica funzionale di competenza, con effetto dalla data di decorrenza della promozione.
 
-###### Art. 36 - Attribuzione dei nuovi stipendi al personale delle ex imposte di consumo
+#### Art. 36 - Attribuzione dei nuovi stipendi al personale delle ex imposte di consumo
 
 Per la determinazione del nuovo stipendio annuo spettante dal 1 luglio 1978, si considerano le voci retributive fisse e continuative soggette a contribuzione ai fini pensionistici, nonche' le aggiunzioni di cui ai decreti del Presidente della Repubblica 11 maggio 1976, n. 268, 16 aprile 1977, n. 116 e 21 novembre 1978, n. 718, e quanto attiene alla valutazione, ai fini economici, dell'anzianita' di servizio.
 
@@ -582,13 +582,13 @@ Con effetto dalla data di entrata in vigore della presente legge il valore del p
 
 La tredicesima mensilita' spettante al personale di nomina privata e' costituita da un dodicesimo dello stipendio annuo previsto per qualifica di competenza, nonche' dall'indennita' di contingenza spettante per il mese di dicembre di ciascun anno.
 
-###### ART. 37 - Trattamento di previdenza al personale delle ex imposte di consumo
+#### ART. 37 - Trattamento di previdenza al personale delle ex imposte di consumo
 
 Per i trattamenti di pensione e di anzianita' e per le relative contribuzioni previste per il personale delle abolite imposte di consumo restano in vigore le disposizioni di cui all'articolo 17 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 649, salvo quanto previsto dal successivo comma.
 
 Al personale delle abolite imposte di consumo iscritto al Fondo speciale di previdenza INPS regolato dal regio decreto 20 ottobre 1939, n. 1863, e successive modificazioni, si applicano le disposizioni di cui ai commi secondo e terzo dell'articolo 42 del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092, fermo restando il diritto alle indennita' comunque spettanti per la risoluzione del rapporto di lavoro.
 
-###### ART. 38 - Trattamento economico degli ufficiali giudiziari ed aiutanti ufficiali giudiziari e coadiutori
+#### ART. 38 - Trattamento economico degli ufficiali giudiziari ed aiutanti ufficiali giudiziari e coadiutori
 
 Con effetto dal 1 luglio 1978 gli articoli 148, 155, 169, 171 e 178 dell'ordinamento degli ufficiali giudiziari approvato con decreto del Presidente della Repubblica 15 dicembre 1959, n. 1229, e successive modificazioni, sono sostituiti dai seguenti:
 
@@ -620,7 +620,7 @@ Tale importo e' progressivamente elevato, in relazione all'anzianita' di servizi
 
 La liquidazione, il controllo delle indennita' ed il versamento delle eccedenze all'erario sono effettuati a norma degli articoli 149, 150, 151 e 171, in quanto applicabili".
 
-###### ART. 39 - Trattamento economico degli ufficiali giudiziari, aiutanti, ufficiali giudiziari e coadiutori in servizio al 1 luglio 1978
+#### ART. 39 - Trattamento economico degli ufficiali giudiziari, aiutanti, ufficiali giudiziari e coadiutori in servizio al 1 luglio 1978
 
 Ai fini della determinazione dell'indennita' integrativa di cui agli articoli 148, 169 e 178 del decreto del Presidente della Repubblica 15 dicembre 1959, n. 1229, e successive modificazioni, spettante agli ufficiali giudiziari, aiutanti ufficiali giudiziari e coadiutori dal 1 luglio 1978 o dalla data di assunzione se successiva, in relazione alla qualifica funzionale di riferimento di cui al precedente articolo 38 si ha riguardo al trattamento economico complessivo annuo lordo della qualifica statale presa a riferimento a tali fini dagli stessi articoli del predetto decreto n. 1229, costituito dallo stipendio, dall'assegno perequativo pensionabile stabilito dalla legge 15 novembre 1973, n. 734, dalle aggiunzioni di cui ai decreti del Presidente della Repubblica 11 maggio 1976, n. 268, 16 aprile 1977, n. 116 e 21 novembre 1978, n. 718, nonche' da quanto attiene alla valutazione ai fini economici dell'anzianita' di servizio, considerando a quest'ultimo riguardo la stessa anzianita' di servizio dell'interessato.
 
@@ -630,7 +630,7 @@ Qualora invece detto trattamento sia superiore, agli stessi fini si considera lo
 
 Per gli ufficiali giudiziari ed aiutanti ufficiali giudiziari che al 1 luglio 1978 abbiano un'anzianita' di servizio non inferiore ai trenta anni, ai fini della determinazione dell'indennita' integrativa di cui al presente articolo, si considera lo stipendio previsto, rispettivamente, per la settima e la quinta qualifica funzionale.
 
-###### ART. 40 - Inquadramento nelle qualifiche funzionali dei segretari comunali
+#### ART. 40 - Inquadramento nelle qualifiche funzionali dei segretari comunali
 
 I segretari comunali con parametro di stipendio 190 e 257 sono inquadrati, ai fini giuridici dal 1° gennaio 1978 ed economici dal 1 luglio 1978, alla qualifica funzionale settima e transitano a quella ottava al compimento dell'anzianita' prevista dalle norme vigenti per la promozione alla qualifica di segretario capo, previa dichiarazione scritta di disponibilita' a trasferirsi in sedi di classe terza con le modalita' previste dalle vigenti disposizioni.
 
@@ -650,7 +650,7 @@ Tale inserimento avverra' sulla base del punteggio riportato nelle prove d'esame
 
 Il punteggio complessivo sara' maggiorato dal coefficiente di anzianita' che sara' stabilito con decreto del Ministro dell'interno su proposta di un gruppo misto formato di rappresentanti dei Ministeri dell'interno, del tesoro, nonche' dell'Associazione nazionale comuni d'Italia, della Unione province d'Italia e delle organizzazioni sindacali provinciali di categoria maggiormente rappresentative in campo nazionale.
 
-###### ART. 41 - Attribuzione nuovo stipendio ai segretari comunali
+#### ART. 41 - Attribuzione nuovo stipendio ai segretari comunali
 
 Ai fini della determinazione del nuovo stipendio spettante, dal 1 luglio 1978 o dalla data dell'assunzione se successiva, al personale collocato nelle qualifiche funzionali ai sensi del precedente articolo 40 si considera il trattamento economico complessivo annuo lordo percepito alla predetta data o alla data di assunzione se successiva, per stipendio, assegno perequativo pensionabile di cui alla legge 15 novembre 1973, n. 734, aggiunzioni previste dai decreti del Presidente della Repubblica 11 maggio 1976, n. 268, 16 aprile 1977, n. 116 e 21 novembre 1978, n. 718. Si considera altresi' l'importo corrispondente ad un aumento periodico del 2,50 per cento dello stipendio iniziale della qualifica di inquadramento per ogni tre anni interi di servizio di ruolo o riconosciuto tale, prestato in qualita' di segretario comunale fino alla data del 30 giugno 1978, per un massimo di sei trienni, con esclusione dei primi tre anni di servizio.
 
@@ -662,13 +662,9 @@ Il compenso mensile spettante ai sensi dell'articolo 39, secondo comma, della le
 
 ## TITOLO II - PERSONALE DELLA SCUOLA
 
-### CAPO I
+### CAPO I - NORME RELATIVE AL PERSONALE DELLA SCUOLA MATERNA, ELEMENTARE, SECONDARIA E ARTISTICA DELLE ISTITUZIONI EDUCATIVE E DELLE SCUOLE SPECIALI DELLO STATO
 
-#### NORME RELATIVE AL PERSONALE DELLA SCUOLA MATERNA, ELEMENTARE, - SECONDARIA E ARTISTICA DELLE ISTITUZIONI EDUCATIVE E DELLE SCUOLE
-
-##### SPECIALI DELLO STATO
-
-###### ART. 42 - Categorie di personale
+#### ART. 42 - Categorie di personale
 
 Il presente titolo si applica al personale statale della scuola materna, elementare, secondaria e artistica, delle istituzioni educative e delle scuole speciali dello Stato, che svolge le funzioni proprie dell'attuale personale:
 
@@ -682,15 +678,15 @@ educativo;
 
 non docente.
 
-###### ART. 43 - Funzioni
+#### ART. 43 - Funzioni
 
 Le funzioni e le attribuzioni proprie del personale di cui al precedente articolo 42 sono quelle definite nei decreti del Presidente della Repubblica 31 maggio 1974, n. 417 e n. 420, e nelle precedenti disposizioni in vigore, salvo quanto previsto nel successivo articolo 45 per il personale non docente.
 
-###### ART. 44 - Ordinamento del personale
+#### ART. 44 - Ordinamento del personale
 
 L'ordinamento del personale della scuola si articola in otto qualifiche funzionali a cui corrispondono i livelli retributivi di cui al successivo articolo 50.
 
-###### ART. 45 - Qualifiche e profili professionali
+#### ART. 45 - Qualifiche e profili professionali
 
 Le qualifiche funzionali del personale non docente dovranno conformarsi ai principi indicati nell'articolo 2 della presente legge.
 
@@ -700,7 +696,7 @@ La commissione di cui al comma precedente, presieduta da un sottosegretario di S
 
 Per la formulazione dei profili si applica quanto disposto nell'articolo 3, primo comma, della presente legge.
 
-###### ART. 46 - Inquadramento nelle qualifiche funzionali
+#### ART. 46 - Inquadramento nelle qualifiche funzionali
 
 Il personale in servizio alla data del 1 giugno 1977 e' inquadrato nelle qualifiche funzionali, ai fini giuridici dalla stessa data ed economici dal 1° aprile 1979, avuto riguardo alla qualifica rivestita al 1 giugno 1977 e secondo le seguenti corrispondenze:
 
@@ -730,7 +726,7 @@ Per i dipendenti assunti nel periodo tra il 1 giugno 1977 e il 1° aprile 1979 l
 
 Ove la data di decorrenza giuridica indicata nel provvedimento di nomina fosse anteriore al 1 giugno 1977, la decorrenza giuridica dell'inquadramento nelle qualifiche viene fissata a questa ultima data, fermo restando il riconoscimento del periodo anteriore al 1 giugno 1977 ai fini della determinazione del maturato economico della vecchia carriera.
 
-###### ART. 47 - Accesso alle qualifiche funzionali e passaggi di qualifica
+#### ART. 47 - Accesso alle qualifiche funzionali e passaggi di qualifica
 
 L'assunzione del personale di cui al presente titolo e' disciplinata dalla normativa vigente in materia.
 
@@ -742,17 +738,17 @@ Per il passaggio dalla II alla III qualifica si applicano le stesse disposizioni
 
 Ai fini di cui al presente articolo nel primo quinquennio decorrente dalla data di entrata in vigore del nuovo ordinamento, e' considerata equipollente all'anzianita' di qualifica quella di carriera.
 
-###### ART. 48
+#### ART. 48
 
 ((ARTICOLO ABROGATO DAL D.L. 6 NOVEMBRE 1989, N. 357, CONVERTITO, CON MODIFICAZIONI, DALLA L. 27 DICEMBRE 1989, N. 417)).
 
-###### ART. 49 - Passaggio dalla II alla III qualifica
+#### ART. 49 - Passaggio dalla II alla III qualifica
 
 Nella prima applicazione della presente legge, i posti disponibili nella III qualifica funzionale sono interamente assegnati mediante concorsi riservati per titoli al personale non docente inquadrato nella II qualifica.
 
 Il numero dei posti da assegnare ai concorsi riservati di cui al precedente comma dovra' complessivamente raggiungere, man mano che si verificano le disponibilita', il numero delle unita' di personale interessato.
 
-###### ART. 50 - Stipendi
+#### ART. 50 - Stipendi
 
 A decorrere dal 1 giugno 1977 ai fini giuridici e dal 1 aprile 1979 agli effetti economici, al personale inquadrato ai sensi del precedente articolo 45 nelle qualifiche funzionali competono i seguenti stipendi annui lordi iniziali:
 
@@ -770,7 +766,7 @@ Per il personale docente di cui alla tabella C, quadro I, annessa al decreto-leg
 
 Lo stipendio di cui al presente titolo e' onnicomprensivo, salva l'attribuzione dell'indennita' integrativa speciale, della 13ª mensilita' e, ove spettanti, delle quote di aggiunta di famiglia, del compenso per lavoro straordinario, del trattamento di missione, delle indennita' e degli assegni per il servizio all'estero, dei compensi per partecipazione a commissioni di esame nelle scuole elementari, secondarie e artistiche, dell'indennita' di rischio, del compenso per prestazioni di lavoro in orario notturno e festivo, dell'assegno di sede, del compenso previsto per i direttori didattici dall'articolo 28 della legge 15 novembre 1973, n. 734, di eventuali assegni personali non pensionabili e di ogni altra indennita' prevista da norme speciali.
 
-###### ART. 51 - Attribuzione nuovi stipendi
+#### ART. 51 - Attribuzione nuovi stipendi
 
 Ai fini della determinazione del nuovo stipendio spettante, dal 1 aprile 1979 o dalla data di assunzione in servizio se successiva, al personale collocato nelle qualifiche funzionali ai sensi del precedente articolo 45 si considera il trattamento economico complessivo lordo annuo spettante alla stessa data per:
 
@@ -820,7 +816,7 @@ Al personale collocato nella seconda qualifica funzionale ed in servizio alla da
 
 Ai presidi di ruolo non vedenti delle scuole statali di istruzione secondaria ed artistica sono estese le disposizioni dell'articolo 4, ultimo comma, del decreto-legge 19 giugno 1970, n. 370, convertito nella legge 26 luglio 1970, n. 576.
 
-###### ART. 52 - Trattamento economico nei casi di passaggio di qualifica funzionale o di cambiamento di posizione giuridica
+#### ART. 52 - Trattamento economico nei casi di passaggio di qualifica funzionale o di cambiamento di posizione giuridica
 
 Nel caso di passaggio ad altra qualifica anche mediante concorso, di personale statale gia' di ruolo, il personale stesso e' collocato, nella nuova qualifica, nella posizione stipendiale che comporta un trattamento economico d'importo immediatamente superiore a quello spettante. A tal fine sono attribuiti nella classe di stipendio spettante nella nuova qualifica gli aumenti periodici necessari, anche se convenzionali. Qualora l'importo del trattamento economico spettante nella precedente qualifica si collochi tra l'ultimo aumento convenzionale possibile e la successiva classe di stipendio, il personale interessato e' collocato in tale ultima classe.
 
@@ -828,7 +824,7 @@ Ai fatti dell'ulteriore progressione economica, ove siano stati attribuiti aumen
 
 Il personale direttivo che e' nominato ispettore tecnico periferico e' inquadrato nella classe di stipendio immediatamente superiore a quella relativa al trattamento economico in godimento, con l'attribuzione comunque di un beneficio non inferiore all'importo corrispondente a 4 aumenti periodici nella classe relativa allo stipendio percepito all'atto della nomina.
 
-###### ART. 53 - Personale non di ruolo
+#### ART. 53 - Personale non di ruolo
 
 Fatto salvo quanto disposto dal precedente articolo 51, quarto comma, per l'attribuzione del trattamento economico, secondo le disposizioni vigenti, al personale docente, educativo e non docente, non di ruolo, si ha riguardo allo stipendio iniziale del personale di ruolo di corrispondente qualifica.
 
@@ -842,7 +838,7 @@ Al personale non di ruolo in servizio alla data di entrata in vigore della prese
 
 Ai docenti di religione dopo - quattro anni di insegnamento si applica una progressione economica di carriera con classi di stipendio corrispondenti all'ottanta per cento di quelle attribuite ai docenti laureati di ruolo, con l'obbligatorieta' di costituzione e accettazione di posto orario con trattamento cattedra.
 
-###### ART. 54 - Personale ispettivo tecnico-periferico e personale direttivo della scuola materna, elementare, secondaria ed artistica, nonche' delle istituzioni educative
+#### ART. 54 - Personale ispettivo tecnico-periferico e personale direttivo della scuola materna, elementare, secondaria ed artistica, nonche' delle istituzioni educative
 
 A decorrere dal 1 aprile 1979 ed in attesa di una piu' organica regolamentazione della materia, al personale ispettivo tecnico-periferico e direttivo della scuola compete, in aggiunta allo stipendio, una indennita' nella seguente misura annua lorda:
 
@@ -892,17 +888,17 @@ Le ore di lavoro straordinario retribuibili a ciascun capo di istituto non potra
 
 La spesa complessiva non potra' superare la somma pari al corrispettivo di 140 ore annue per ciascuna unita' di personale avente titolo alla corresponsione del lavoro straordinario negli ambiti e con i limiti sopra indicati".
 
-###### ART. 55 - Abolizione dei rapporti informativi per il personale non docente
+#### ART. 55 - Abolizione dei rapporti informativi per il personale non docente
 
 Nei riguardi del personale non docente di ruolo e non di ruolo sono abrogate le disposizioni concernenti i rapporti informativi e i giudizi complessivi, di cui agli articoli 36 e 37 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077.
 
 Restano salve le relazioni previste dall'articolo 17, secondo comma, della presente legge, per la conferma in ruolo.
 
-###### ART. 56 - Concorsi a posti di vice rettore dei convitti nazionali e vice direttrice degli educandati femminili dello Stato
+#### ART. 56 - Concorsi a posti di vice rettore dei convitti nazionali e vice direttrice degli educandati femminili dello Stato
 
 Ai concorsi a posti di vice rettore dei convitti nazionali e vice direttrice degli educandati femminili dello Stato, previsti dal primo comma dell'articolo 29 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417, sono ammessi rispettivamente anche gli istitutori e le istitutrici dei convitti annessi agli istituti tecnici e professionali che abbiano maturato, dopo la nomina nei ruoli, un servizio di almeno 5 anni effettivamente prestato, e siano forniti di laurea e abilitazione all'insegnamento negli istituti e scuole di istruzione secondaria.
 
-###### ART. 57 - Passaggi di ruolo
+#### ART. 57 - Passaggi di ruolo
 
 I passaggi di ruolo di cui all'articolo 77 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417, possono essere disposti, oltre che da un ruolo ad un altro superiore, da un ruolo ad altro inferiore, nei medesimi casi in cui sono consentiti i correlativi passaggi inversi.
 
@@ -910,13 +906,13 @@ Detti passaggi sono consentiti altresi' al personale educativo, al personale ins
 
 La tabella H allegata al citato decreto del Presidente della Repubblica 31 maggio 1974, n. 417, s'intende modificata ed integrata secondo quanto sopra previsto.
 
-###### ART. 58 - Trasferimenti a domanda
+#### ART. 58 - Trasferimenti a domanda
 
 Nella tabella di valutazione di cui al secondo comma dell'articolo 68 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417, sara' previsto un punteggio particolare per il personale ispettivo tecnico-periferico, direttivo, docente ed educativo, che sia rimasto nella stessa sede o scuola per almeno 3 anni.
 
 Nell'ordinanza di cui al sesto comma dell'articolo 18 del decreto del Presidente della Repubblica 31 maggio 1974, n. 420, sara' previsto un punteggio particolare per il personale non docente che sia rimasto nella stessa scuola per almeno 3 anni.
 
-###### ART. 59 - Assegnazioni provvisorie di sede
+#### ART. 59 - Assegnazioni provvisorie di sede
 
 La concessione delle assegnazioni provvisorie di sede, di cui all'articolo 73 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417, e' limitata alle sole ipotesi di ricongiungimento al coniuge o di ricongiungimento alla famiglia per esigenze di assistenza ai figli minori o inabili ed ai genitori anziani o per gravi esigenze di salute. ((7))
 
@@ -930,7 +926,7 @@ AGGIORNAMENTO (7)
 
 La L. 20 maggio 1982, n. 270 ha disposto (con l'art. 19, comma 10) che: "Ad integrazione di quanto previsto dal primo comma dell'articolo 59 della legge 11 luglio 1980, n. 312, hanno titolo a chiedere l'assegnazione provvisoria di sede anche gli insegnanti trasferiti d'ufficio per soppressione di posto".
 
-###### ART. 60 - Trasferimenti d'ufficio per soppressione di posto o di cattedra
+#### ART. 60 - Trasferimenti d'ufficio per soppressione di posto o di cattedra
 
 Ai fini dei trasferimenti d'ufficio del personale direttivo e docente per soppressione di posto o di cattedra, nella tabella prevista dall'articolo 68 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417, sara' previsto un punteggio particolare per il servizio di ruolo nella scuola di titolarita' e, subordinatamente, nella sede.
 
@@ -938,19 +934,19 @@ La disposizione di cui al precedente comma si applica altresi' al personale dell
 
 Un criterio analogo sara' altresi' applicato ai trasferimenti d'ufficio per soppressione di posto del personale non docente.
 
-###### ART. 61 - Disciplina della responsabilita' patrimoniale del personale direttivo, docente, educativo e non docente
+#### ART. 61 - Disciplina della responsabilita' patrimoniale del personale direttivo, docente, educativo e non docente
 
 La responsabilita' patrimoniale di personale direttivo, docente, educativo e non docente della scuola materna, elementare, secondaria ed artistica dello Stato e delle istituzioni educative statali per danni arrecati direttamente all'Amministrazione in connessione a comportamenti degli alunni e' limitata ai soli casi di dolo o colpa grave nell'esercizio della vigilanza sugli alunni stessi.
 
 La limitazione di cui al comma precedente si applica anche alla responsabilita' del predetto personale verso l'Amministrazione che risarcisca il terzo dei danni subiti per comportamenti degli alunni sottoposti alla vigilanza. Salvo rivalsa nei casi di dolo o colpa grave, la Amministrazione si surroga al personale medesimo nelle responsabilita' civili derivanti da azioni giudiziarie promosse da terzi.
 
-###### ART. 62 - Valutazione del servizio militare ai fini del conferimento di incarichi e supplenze
+#### ART. 62 - Valutazione del servizio militare ai fini del conferimento di incarichi e supplenze
 
 Il servizio militare e valutato ai fini del conferimento degli incarichi e delle supplenze al personale docente, educativo e non docente delle scuole di ogni ordine e grado e delle istituzioni educative.
 
 L'ordinanza del Ministro della pubblica istruzione, che stabilisce le modalita' ed i termini per la formazione delle graduatorie provinciali per il conferimento degli incarichi e delle supplenze al personale docente, educativo e non docente, prevedera' la valutazione del servizio militare secondo criteri che dovranno essere uniformi sia nei confronti del personale docente di ogni grado e ordine di scuola sia nei confronti del personale educativo sia di quello non docente.
 
-###### ART. 63
+#### ART. 63
 
 (Maggiorazione di anzianita' ai fini del trattamento di quiescenza
 
@@ -960,23 +956,21 @@ Al personale direttivo, docente ed assistente educatore delle scuole ed istituzi
 
 Il predetto beneficio e' riconosciuto agli stessi fini al personale docente delle scuole carcerarie.
 
-###### ART. 64 - Modifica dell'articolo 121 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417
+#### ART. 64 - Modifica dell'articolo 121 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417
 
 L'articolo 121, primo comma, del decreto del Presidente della Repubblica 31 maggio 1974, n. 417, e' cosi' modificato:
 
 "Sono istituiti il ruolo provinciale delle istitutrici degli educandati femminili dello Stato, dei convitti nazionali femminili e dei convitti femminili annessi agli istituti tecnici e professionali e il ruolo provinciale degli istitutori dei convitti nazionali e dei convitti annessi agli istituti tecnici professionali".
 
-###### ART. 65 - Idonei di precedenti concorsi
+#### ART. 65 - Idonei di precedenti concorsi
 
 Le disposizioni di cui all'articolo 1 della legge 8 aprile 1976, n. 184, sono estese agli idonei dei concorsi nei ruoli della carriera di concetto amministrativa della Amministrazione centrale e di quella scolastica periferica della pubblica istruzione, riservati al personale interno e banditi in applicazione dell'articolo 8 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077.
 
 Il personale di cui al precedente comma conseguira' la nomina in prova secondo l'ordine di graduatoria del concorso e fino a totale esaurimento della graduatoria stessa, via via che si rendono disponibili i posti nella relativa dotazione organica.
 
-## CAPO II. - NORME RELATIVE AL PERSONALE DEI CONSERVATORI DI MUSICA, DELLE
+### CAPO II. - NORME RELATIVE AL PERSONALE DEI CONSERVATORI DI MUSICA, DELLE ACCADEMIE DI BELLE ARTI E DELLE ACCADEMIE NAZIONALI DI ARTE DRAMMATICA E DI DANZA.
 
-### ACCADEMIE DI BELLE ARTI E DELLE ACCADEMIE NAZIONALI DI ARTE - DRAMMATICA E DI DANZA.
-
-###### ART. 66 - Inquadramento nelle qualifiche funzionali
+#### ART. 66 - Inquadramento nelle qualifiche funzionali
 
 In attesa della revisione del trattamento giuridico ed economico del personale dei conservatori di musica, delle accademie di belle arti e delle accademie nazionali d'arte drammatica e di danza, in rapporto alla configurazione che a dette istituzioni sara' data in sede di riforma degli istituti d'istruzione secondaria superiore e delle universita', il suddetto personale in servizio alla data del 1 giugno 1977 e' inquadrato nelle nuove qualifiche funzionali, ai fini giuridici dalla stessa data ed economici dal 1 aprile 1979, avuto riguardo alla qualifica rivestita al 1 giugno 1977 e secondo le seguenti corrispondenze:
 
@@ -1004,7 +998,7 @@ Per il personale docente inquadrato nell'ottava qualifica i periodi di permanenz
 
 Per gli assistenti delle accademie di belle arti, immessi in ruolo con effetto da data anteriore al 31 maggio 1979, l'anzianita' maturata al 10 giugno 1979 e' aumentata di un anno agli effetti della progressione di carriera.
 
-###### ART. 67 - Competenza per la formazione delle graduatorie degli aspiranti ad incarico e valutazione della specifica professionalita
+#### ART. 67 - Competenza per la formazione delle graduatorie degli aspiranti ad incarico e valutazione della specifica professionalita
 
 Le graduatorie per il conferimento degli incarichi di insegnamento nei conservatori di musica, nelle accademie di belle arti, nell'accademia nazionale di danza e nell'accademia nazionale di arte drammatica, esclusi gli insegnamenti della regia e della recitazione, sono compilate da commissioni operanti presso ciascun istituto e presiedute dal direttore.
 
@@ -1020,7 +1014,7 @@ Avverso i provvedimenti di esclusione ed avverso i provvedimenti adottati sulla 
 
 Ai conservatori di musica, alle accademie di belle arti, all'accademia nazionale di danza e all'accademia nazionale di arte drammatica non si applicano il primo e il secondo comma dell'articolo 17 della legge 9 agosto 1978, n. 463, le cui disposizioni rimangono ferme per gli altri istituti di istruzione artistica.
 
-###### ART. 68 - Cumulo di impieghi
+#### ART. 68 - Cumulo di impieghi
 
 Gli articoli 91 e 92 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417, devono essere interpretati nel senso che il divieto di cumulo ivi previsto non si applica al personale docente dei conservatori di musica, nei limiti di cui al successivo articolo 69.
 
@@ -1028,7 +1022,7 @@ L'esercizio contemporaneo dell'insegnamento nei conservatori di musica e di altr
 
 ((Le disposizioni contenute nei precedenti commi si applicano anche ai docenti delle accademie di belle arti)).
 
-###### ART. 69 - Contratti di collaborazione
+#### ART. 69 - Contratti di collaborazione
 
 I conservatori di musica, per lo svolgimento di attivita' didattiche ed artistiche per le quali non sia possibile provvedere con personale di ruolo, possono stipulare contratti di collaborazione con il personale dipendente da enti lirici o da altre istituzioni di produzione musicale, previa autorizzazione dei rispettivi competenti organi di amministrazione. Analogamente possono provvedere i predetti enti e istituzioni di produzione musicale nei confronti del personale docente dipendente dai conservatori, previa autorizzazione del competente organo di amministrazione del conservatorio.
 
@@ -1050,7 +1044,7 @@ Il Ministro della pubblica istruzione, con proprio decreto, provvedera' ogni ann
 
 ((COMMA ABROGATO DALLA L. 11 OTTOBRE 1986, N. 689)).
 
-###### ART. 70 - Contratti di collaborazione per il personale gia' in servizio
+#### ART. 70 - Contratti di collaborazione per il personale gia' in servizio
 
 Il personale docente che, alla data di entrata in vigore della presente legge, oltre all'insegnamento esercita attivita' presso enti lirici o istituzioni di produzione musicale e' tenuto a scegliere il rapporto di dipendenza organica per l'una o l'altra attivita' entro un anno dall'entrata in vigore della presente legge, salvo proroga per un termine comunque non superiore ad un altro anno da parte degli enti o istituzioni interessati. (7) (14) (19) (22) ((26))
 
@@ -1096,19 +1090,17 @@ AGGIORNAMENTO (26)
 
 La L. 5 gennaio 1994, n. 24 ha disposto (con l'art. 4, comma 1) che il termine previsto dal primo comma del presente articolo e' differito al 31 ottobre 1993.
 
-## TITOLO III - PERSONALE DOCENTE E NON DOCENTE DELLE UNIVERSITA' E DEGLI ISTITUTI DI
+## TITOLO III - PERSONALE DOCENTE E NON DOCENTE DELLE UNIVERSITA' E DEGLI ISTITUTI DI ISTRUZIONE UNIVERSITARIA
 
-### ISTRUZIONE UNIVERSITARIA
+### CAPO I. - PERSONALE DOCENTE.
 
-#### CAPO I. - PERSONALE DOCENTE.
-
-###### ART. 71 - Progressione economica
+#### ART. 71 - Progressione economica
 
 La progressione economica dei docenti di ruolo delle Universita' e degli Istituti di istruzione universitaria si sviluppa in otto classi biennali di stipendio con un aumento costante, in ciascuna classe, dell'8 per cento rispetto al parametro iniziale ed in successivi aumenti biennali del 2,50 per cento calcolati sulla classe di stipendio finale, salvo quanto disposto dal successivo articolo 72, quarto comma.
 
 Ogni punto parametrale corrisponde a lire 18.000 annue lorde.
 
-###### ART. 72 - Trattamento economico dei professori universitari, dei professori incaricati esterni e degli assistenti di ruolo
+#### ART. 72 - Trattamento economico dei professori universitari, dei professori incaricati esterni e degli assistenti di ruolo
 
 Ai professori universitari di ruolo e' attribuito lo stipendio spettante all'assistente con pari anzianita' nel rispettivo ruolo, maggiorato del 50 per cento.
 
@@ -1128,13 +1120,13 @@ Gli stipendi spettanti agli incaricati interni non sono suscettibili di aumenti 
 
 Con effetto dal 31 ottobre 1978 la durata complessiva della carriera degli assistenti di ruolo, prevista con decreto del Presidente della Repubblica 28 dicembre 1970, n. 1079, e' ridotta di due anni per coloro che alla predetta data abbiano superato il giudizio di cui al secondo comma dell'articolo 8 della legge 26 gennaio 1962, n. 16, ai fini del conseguimento delle successive classi stipendiali o degli aumenti biennali di stipendio.
 
-###### ART. 73 - Passaggio degli assistenti nel ruolo dei professori
+#### ART. 73 - Passaggio degli assistenti nel ruolo dei professori
 
 L'assistente di ruolo che acceda al ruolo dei professori universitari e' collocato nella classe di stipendio di importo pari o immediatamente superiore allo stipendio spettante nel ruolo di provenienza e, comunque, non oltre la terza classe, conservando come assegno personale l'eventuale maggiore retribuzione in godimento, comprensiva dell'eventuale assegno percepito a titolo di incarico.
 
 Nella prima applicazione della presente legge nei confronti dei professori e degli assistenti in ruolo alla data di entrata in vigore della legge stessa, l'anzianita' richiesta per il conseguimento della classe di stipendio successiva a quella spettante per effetto delle norme di cui ai precedenti articoli e' ridotta di un anno.
 
-###### ART. 74 - Determinazioni dei nuovi stipendi
+#### ART. 74 - Determinazioni dei nuovi stipendi
 
 I nuovi stipendi di cui al presente capo competono sulla base del trattamento complessivo annuo lordo spettante alla data del 1 novembre 1978 per:
 
@@ -1158,7 +1150,7 @@ Nei confronti del personale cui dopo il 1 novembre 1978 viene ricostruita la pos
 
 Per il dipendente che, successivamente al 1 novembre 1978, abbia conseguito nel preesistente ordinamento miglioramenti economici per effetto della progressione economica o di carriera si procede ad un nuovo inquadramento con decorrenza dalla data del conseguimento dei miglioramenti stessi.
 
-###### ART. 75 - Decorrenze
+#### ART. 75 - Decorrenze
 
 Il trattamento economico di cui al presente capo decorre agli effetti economici dal 1 novembre 1978 e, agli effetti giuridici:
 
@@ -1166,7 +1158,7 @@ a) dal 1 giugno 1977 per gli assistenti di ruolo ed i professori incaricati che 
 
 b) dal 1 novembre 1978 per i restanti assistenti di ruolo, professori incaricati esterni e professori ordinari.
 
-###### ART. 76 - Ambiente di lavoro e tutela della salute
+#### ART. 76 - Ambiente di lavoro e tutela della salute
 
 Al personale di cui al presente capo e' attribuita l'indennita' di rischio nei limiti e alle condizioni previste dal decreto del Presidente della Repubblica 5 maggio 1975, n. 146.
 
@@ -1174,15 +1166,15 @@ Sono abrogate le precedenti disposizioni in contrasto con la presente norma.
 
 Con decreto del Ministro della pubblica istruzione di concerto con il Ministro del tesoro saranno opportunamente integrate le tabelle allegate al decreto del Presidente della Repubblica 5 maggio 1975, n. 146, al fine di adeguarle alle particolari esigenze delle Universita'.
 
-###### ART. 77 - Personale docente dell'Accademia navale, aeronautica e dell'istituto idrografico della Marina - Incompatibilita' per i componenti del Consiglio universitario nazionale
+#### ART. 77 - Personale docente dell'Accademia navale, aeronautica e dell'istituto idrografico della Marina - Incompatibilita' per i componenti del Consiglio universitario nazionale
 
 Ai professori, di ruolo ed incaricati, e agli assistenti dell'Accademia navale, dell'Accademia aeronautica e dell'Istituto idrografico della Marina si applica il trattamento economico dei docenti universitari, con l'osservanza delle disposizioni degli articoli da 71 a 75 del presente capo.
 
 I componenti del Consiglio universitario nazionale provvisorio del Ministero della pubblica istruzione che abbiano presentato domanda di partecipazione ai concorsi banditi dal Ministero stesso o dalle Universita' degli studi e concernenti materie che comunque rientrino nelle competenze attribuite all'organo consultivo universitario nazionale, non possono prendere parte alle sedute del Consiglio in ordine agli atti che concernono i concorsi ai quali partecipano.
 
-## CAPO II. - PERSONALE NON DOCENTE DELL'UNIVERSITA'.
+### CAPO II. - PERSONALE NON DOCENTE DELL'UNIVERSITA'.
 
-###### ART. 78 - Area di applicazione
+#### ART. 78 - Area di applicazione
 
 Le disposizioni contenute nel presente capo si applicano al personale non docente delle Universita', degli Istituti di istruzione universitaria, degli Osservatori astronomici astrofisici, vulcanologici e vesuviano e, fino all'effettivo inquadramento previsto dalla legge 22 dicembre 1979, n. 642, al personale delle Opere universitarie.
 
@@ -1194,11 +1186,11 @@ Il personale medesimo viene inquadrato nelle corrispondenti qualifiche funzional
 
 Ai fini dell'applicazione delle norme di cui all'articolo 80 il servizio prestato presso le Opere e' considerato corrispondente a quello prestato presso le Universita' e gli Istituti di istruzione universitaria.
 
-###### ART. 79 - Ordinamento
+#### ART. 79 - Ordinamento
 
 L'ordinamento del personale non docente, di cui al precedente articolo 78, si articola in qualifiche funzionali determinate sulla base dei contenuti di professionalita' e di complessita' del lavoro, delle attribuzioni e responsabilita' connesse, del grado di autonomia, del livello di preparazione culturale richiesto.
 
-###### ART. 80 - Declaratoria e profili professionali
+#### ART. 80 - Declaratoria e profili professionali
 
 Le qualifiche del personale non docente universitario di cui
 
@@ -1224,7 +1216,7 @@ Il personale con la qualifica di infermiere professionale, vigilatrice d'infanzi
 
 Il personale che svolge mansioni proprie delle carriere di infermiere generico, di infermiere professionale, vigilatrice di infanzia e tecnico di radiologia e' inquadrato per mansioni, a prescindere dal titolo di studio e professionale richiesto, sempre che abbia frequentato con profitto appositi corsi di qualificazione professionale da istituirsi da parte delle singole Universita' esclusivamente a tal fine entro sei mesi dall'entrata in vigore della presente legge.
 
-###### ART. 81 - Stipendi
+#### ART. 81 - Stipendi
 
 A decorrere dal 1 marzo 1977 ai fini giuridici e dal 1 marzo 1978 agli effetti economici, al personale classificato nelle otto qualifiche e funzionali competono gli stipendi come indicati nel precedente articolo 24.
 
@@ -1236,7 +1228,7 @@ Ai fini dell'applicazione delle leggi vigenti che prevedono l'attribuzione di au
 
 Le classi di stipendio e gli aumenti periodici biennali, anche se convenzionali, si conferiscono con decorrenza dal primo giorno del mese nel quale sorge il relativo diritto.
 
-###### ART. 82 - Inquadramento provvisorio nelle qualifiche funzionali
+#### ART. 82 - Inquadramento provvisorio nelle qualifiche funzionali
 
 Il personale in servizio alla data del 1 marzo 1977 e' inquadrato nelle qualifiche funzionali, ai fini giuridici dalla stessa data e ai fini economici dal 1 marzo 1978, avuto riguardo alla qualifica rivestita al 1 marzo 1977, secondo le seguenti corrispondenze:
 
@@ -1258,7 +1250,7 @@ Il personale assunto nel periodo compreso tra il 1 marzo 1977 e la data di entra
 
 Per i dipendenti assunti nel periodo compreso tra il 1 marzo 1977 ed il 1 marzo 1978 l'inquadramento nelle qualifiche ha decorrenza giuridica dalla data della nomina ed economica dal 1 marzo 1978; per coloro che sono stati nominati successivamente a questa ultima data, l'inquadramento nelle qualifiche ha la decorrenza giuridica dal giorno della nomina ed economica dalla effettiva assunzione in servizio.
 
-###### ART. 83 - Attribuzione nuovi stipendi
+#### ART. 83 - Attribuzione nuovi stipendi
 
 Ai fini della determinazione del nuovo stipendio spettante, dal 1 marzo 1978 o dalla data di assunzione in servizio se successiva, al personale collocato nelle qualifiche funzionali ai sensi del precedente articolo 82 si considera il trattamento economico complessivo lordo annuo spettante alla predetta data o alla data di assunzione in servizio se successiva, per stipendio, assegno perequativo pensionabile di cui alla legge 15 novembre 1973, n. 734, o assegno annuo pensionabile di cui alla legge 30 novembre 1973, n. 766, aggiunzioni previste dalla legge 4 aprile 1977, n. 121, dal decreto del Presidente della Repubblica 16 aprile 1977, n. 116, dalla legge 10 novembre 1978, n. 701, nonche' per la valutazione ai fini economici dell'anzianita' di servizio.
 
@@ -1282,7 +1274,7 @@ Gli assegni personali che non concorrono alla formazione del trattamento economi
 
 Per il personale non docente inquadrato in soprannumero ovvero immesso in ruolo successivamente alla data del 1 marzo 1978 e prima dell'entrata in vigore della presente legge, l'inquadramento nella qualifica funzionale spettante e' determinato sulla base del trattamento economico derivante dall'applicazione nei confronti del personale stesso degli articoli 16 e 17 della legge 25 ottobre 1977, n. 808, e con i criteri previsti nel presente articolo.
 
-###### ART. 84 - Accesso alle qualifiche funzionali e di livello
+#### ART. 84 - Accesso alle qualifiche funzionali e di livello
 
 Alle qualifiche dei singoli livelli funzionali si accede per concorsi pubblici che saranno svolti ogni anno in unica tornata nel semestre maggio-ottobre.
 
@@ -1296,37 +1288,37 @@ Potranno fruire delle riserve di cui al precedente comma i candidati interni che
 
 Nel primo quinquennio decorrente dalla data di entrata in vigore del presente provvedimento e' considerata equipollente alla anzianita' di qualifica quella maturata nella carriera di provenienza.
 
-###### ART. 85 - Decorrenza
+#### ART. 85 - Decorrenza
 
 Il personale di cui all'articolo 78 in servizio alla data del 1 luglio 1979, anche a prescindere dal possesso del titolo di studio, salvo il caso espressamente richiesto da norme di carattere generale per il particolare tipo di attivita' tecnica, specialistica o professionale, e' collocato, dalla stessa data del 1 luglio 1979, ai fini giuridici ed economici, nella qualifica funzionale corrispondente alle mansioni effettivamente svolte.
 
-###### ART. 86
+#### ART. 86
 
 ((ARTICOLO ABROGATO DALLA L. 29 GENNAIO 1986, N. 23)).
 
-###### ART. 87 - Dotazioni organiche
+#### ART. 87 - Dotazioni organiche
 
 Le dotazioni organiche di qualifica saranno stabilite con successiva legge, sulla base dell'attuale dotazione organica complessiva del personale, di cui al presente capo.
 
 Fermo restando il disposto di cui agli articoli 13 e 14 della legge 25 ottobre 1977, n. 808, con decreto del Ministro della pubblica istruzione di concerto col Ministro del tesoro saranno determinati i contingenti delle singole qualifiche professionali. Con le stesse modalita' i contingenti delle singole qualifiche e dei relativi profili professionali potranno essere modificati per essere adeguati alle effettive esigenze delle istituzioni universitarie.
 
-###### ART. 88 - Inquadramento in soprannumero
+#### ART. 88 - Inquadramento in soprannumero
 
 Nella prima applicazione della presente legge e nel rispetto della dotazione organica complessiva delle qualifiche funzionali l'inquadramento del personale nel profilo professionale della qualifica di competenza avviene con riferimento alle mansioni svolte, anche in soprannumero.
 
 In relazione agli inquadramenti in soprannumero che si verificheranno saranno resi indisponibili altrettanti posti di organico nelle qualifiche dello stesso livello o di altro livello, i quali saranno utilizzati in corrispondenza della riduzione dei soprannumeri.
 
-###### ART. 89 - Trattamento economico nei casi di passaggio di qualifica o di cambiamento di posizione giuridica
+#### ART. 89 - Trattamento economico nei casi di passaggio di qualifica o di cambiamento di posizione giuridica
 
 Il personale che otterra' il passaggio ad altra qualifica funzionale, anche a seguito di concorso, sara' collocato, nella nuova qualifica, alla classe di stipendio che assicuri un trattamento economico immediatamente superiore a quello in godimento nella qualifica di provenienza.
 
 In tal caso la classe successiva si consegue dopo due anni e sei mesi.
 
-###### ART. 90 - Ambiente di lavoro e salute
+#### ART. 90 - Ambiente di lavoro e salute
 
 Con decreto del Ministro della pubblica istruzione di concerto con il Ministro del tesoro saranno opportunamente integrate le tabelle allegate al decreto del Presidente della Repubblica 5 maggio 1975, n. 146, al fine di adeguarle alle particolari esigenze delle istituzioni universitarie.
 
-###### ART. 91 - Mobilita' del personale
+#### ART. 91 - Mobilita' del personale
 
 Il personale non docente di cui al presente capo e' assegnato alle singole istituzioni universitarie.
 
@@ -1336,7 +1328,7 @@ Sono abrogate le precedenti disposizioni in contrasto con la presente norma.
 
 Con decreto del Ministro della pubblica istruzione saranno definiti i criteri per i trasferimenti a domanda da una sede all'altra.
 
-###### ART. 92 - Aggiornamento del personale
+#### ART. 92 - Aggiornamento del personale
 
 Il Ministero della pubblica istruzione, le Universita' e le Opere universitarie indiranno annualmente corsi nazionali decentrati di aggiornamento e di qualificazione professionale per il personale di cui al presente capo.
 
@@ -1344,7 +1336,7 @@ Tali corsi potranno essere svolti nell'ambito delle prestazioni ordinarie del pe
 
 Con decreto del Presidente della Repubblica, da emanarsi entro tre mesi dall'entrata in vigore della presente legge, saranno dettate norme per disciplinare l'utilizzazione annuale di 150 ore di permesso retribuito, sia per l'aggiornamento professionale mediante i corsi di cui ai commi precedenti, sia per il conseguimento del titolo d'istruzione della scuola dell'obbligo o di altro titolo di istruzione superiore.
 
-###### ART. 93 - Rapporti informativi e valutazione delle sanzioni
+#### ART. 93 - Rapporti informativi e valutazione delle sanzioni
 
 In relazione al nuovo ordinamento del personale di cui al presente capo sono aboliti i rapporti informativi.
 
@@ -1352,13 +1344,13 @@ Il servizio prestato nell'anno non viene valutato ai fini della progressione eco
 
 Ai fini della interruzione della progressione economica di cui al comma precedente non viene considerata la censura.
 
-###### ART. 94 - Disposizioni varie
+#### ART. 94 - Disposizioni varie
 
 Gli uffici che liquidano gli stipendi sono autorizzati a provvedere al pagamento dei nuovi trattamenti economici, in via provvisoria, e fino al perfezionamento dei provvedimenti formali, fatti salvi comunque i successivi conguagli, sulla base dei dati in possesso o delle comunicazioni degli uffici presso cui presta servizio il personale interessato relative agli elementi necessari per la determinazione del trattamento stesso.
 
 Nei confronti del personale di cui al precedente articolo 78 operano, in quanto applicabili, gli articoli 15, 17, secondo comma, 23 e 132, secondo comma, della presente legge.
 
-###### ART. 95 - Personale addetto all'assistenza sanitaria
+#### ART. 95 - Personale addetto all'assistenza sanitaria
 
 ((L'indennita' di cui alla legge 16 maggio 1974, n. 200, e all'art. 31 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761, compete soltanto al personale dei policlinici universitari a gestione diretta ed a quello delle cliniche universitarie convenzionate indicato nelle relative convenzioni)).
 
@@ -1366,17 +1358,17 @@ Nei confronti del personale di cui al precedente articolo 78 operano, in quanto 
 
 L'indennita' suddetta si perde in caso di trasferimento a uffici o servizi diversi da quelli per i quali era stata attribuita.
 
-###### ART. 96 - Aspettative sindacali
+#### ART. 96 - Aspettative sindacali
 
 Il numero delle aspettative sindacali da concedere ai sensi e nei limiti degli articoli 45 e 46 della legge 18 marzo 1968, n. 249, ai dipendenti di cui al presente titolo che ricoprono cariche elettive in seno alle proprie organizzazioni sindacali a carattere nazionale maggiormente rappresentative, e' stabilito con decreto del Presidente del Consiglio dei ministri, sentite le organizzazioni sindacali interessate.
 
-###### ART. 97 - Norme transitorie
+#### ART. 97 - Norme transitorie
 
 Nelle more della determinazione delle dotazioni organiche di ciascuna qualifica e comunque, non oltre un triennio, a decorrere dalla data di entrata in vigore della presente legge, i posti che si renderanno vacanti saranno considerati disponibili ai fini dei concorsi da bandire specificatamente per la corrispondente qualifica nella quale si e' verificata la vacanza.
 
 ## TITOLO IV - PERSONALE DELL'AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-###### ART. 98 - Classificazione del personale
+#### ART. 98 - Classificazione del personale
 
 Gli impiegati e gli operai dei monopoli di Stato, esclusi i funzionari con qualifica dirigenziale, sono classificati, con un unico stato giuridico, nelle seguenti otto qualifiche funzionali, suddivise in profili professionali:
 
@@ -1398,7 +1390,7 @@ qualifica VIII: dipendenti con compiti di: diretta collaborazione con i dirigent
 
 Con decreto del Ministro delle finanze, sentite le organizzazioni sindacali maggiormente rappresentative in sede nazionale e previo parere del Consiglio di amministrazione dei monopoli di Stato, saranno definiti, per ogni qualifica, i singoli profili e i relativi contenuti professionali. Analoga procedura sara' seguita per le successive modificazioni, soppressioni o istituzioni di nuovi profili.
 
-###### ART. 99 - Dotazione organica delle qualifiche
+#### ART. 99 - Dotazione organica delle qualifiche
 
 La dotazione organica complessiva del personale dell'Amministrazione autonoma dei monopoli di Stato viene fissata in 21.200 unita', cosi' ripartita in prima applicazione della presente legge, tra le qualifiche funzionali.
 
@@ -1430,7 +1422,7 @@ Alla determinazione definitiva dei contingenti dei singoli profili professionali
 
 La medesima procedura sara' seguita per le variazioni dei profili e dei relativi contingenti, che si rendessero eventualmente necessarie.
 
-###### ART. 100 - Tabella degli stipendi
+#### ART. 100 - Tabella degli stipendi
 
 Al personale classificato nelle otto qualifiche funzionali spettano gli stipendi annui lordi di cui alla presente tabella:
 
@@ -1464,7 +1456,7 @@ Le classi di stipendio e gli aumenti periodici biennali, anche se convenzionali,
 
 Si applica, in quanto compatibile, il disposto di cui al primo comma dell'articolo 8 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1079.
 
-###### ART. 101 - Inquadramento nelle nuove qualifiche
+#### ART. 101 - Inquadramento nelle nuove qualifiche
 
 Il personale dell'Amministrazione autonoma dei monopoli di Stato, esclusi i funzionari con qualifica dirigenziale, in servizio al 1 ottobre 1978, e' inquadrato, con effetto economico da tale data, nelle singole qualifiche funzionali, con riguardo alla qualifica rivestita alla data del 30 settembre 1978, salvo quanto previsto dal comma successivo, secondo il seguente quadro di equiparazione e con decorrenza giuridica 1 luglio 1977:
 
@@ -1620,13 +1612,13 @@ Fino a quando non saranno definiti i profili professionali attinenti alle varie 
 
 ((COMMA ABROGATO DAL D.L. 6 GIUGNO 1981, N. 283, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 1981, N. 432)).
 
-###### ART. 102 - Anzianita' minima
+#### ART. 102 - Anzianita' minima
 
 Ai fini dell'applicazione del successivo articolo 112, nel primo quinquennio dalla data di entrata in vigore della presente legge, l'anzianita' di servizio acquisita nella soppressa qualifica di provenienza, nonche' le anzianita' maturate nelle qualifiche che diano titolo all'inquadramento nella medesima qualifica funzionale sono considerate equipollenti a quella maturata nella qualifica funzionale di inquadramento.
 
 Ove l'inquadramento sia effettuato con riguardo alle funzioni o mansioni esercitate anziche' in base alla qualifica rivestita, il computo dell'anzianita' di servizio di cui all'articolo 112 ha effetto con riferimento alla decorrenza giuridica dell'inquadramento.
 
-###### ART. 103 - Conseguimento di qualifica funzionale superiore
+#### ART. 103 - Conseguimento di qualifica funzionale superiore
 
 Al dipendente in servizio al 1 ottobre 1978 e che alla data di entrata in vigore della presente legge ritenga, in base alle declaratorie di cui all'articolo 98 e alle tabelle I, II e III allegate al presente titolo, di esercitare, o di avere esercitato al 30 giugno 1977, mansioni annoverabili in una qualifica funzionale superiore a quella nella quale e' stato inquadrato, puo' essere conferita a domanda - sempre che le funzioni superiori se svolte dopo il 30 giugno 1977 abbiano avuto carattere continuativo e siano state determinate da obiettive esigenze di servizio di natura permanente - detta qualifica funzionale superiore, con il corrispondente trattamento economico con decorrenza non anteriore al 1 ottobre 1978 e con decorrenza giuridica non anteriore al 1 luglio 1977.
 
@@ -1652,7 +1644,7 @@ Il personale di dattilografia che abbia esercitato anche promiscuamente le mansi
 
 ((COMMA ABROGATO DAL D.L. 6 GIUGNO 1981, N. 283, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 1981, N. 432)).
 
-###### ART. 104 - Commissione nazionale paritetica
+#### ART. 104 - Commissione nazionale paritetica
 
 E' istituita presso la Direzione generale dell'Amministrazione autonoma dei monopoli di Stato una commissione nazionale paritetica, nominata con decreto del Ministro delle finanze, presieduta dal direttore generale o da un dirigente generale, composta da sei dirigenti in rappresentanza dell'amministrazione e da altrettanti dipendenti designati dalle organizzazioni sindacali maggiormente rappresentative in sede nazionale, nonche' da un segretario e relativi supplenti.
 
@@ -1668,7 +1660,7 @@ c) sull'attribuzione di funzioni superiori alla III qualifica.
 
 In tutti i casi in cui, in base alle norme contenute nel presente titolo, la commissione e' chiamata a pronunciarsi, l'interessato deve presentare apposita domanda al capo dell'opificio od ufficio, che l'inoltrera' entro trenta giorni dal ricevimento alla commissione medesima, corredata del proprio parere e di quello delle organizzazioni sindacali locali maggiormente rappresentative.
 
-###### ART. 105 - Inquadramento ai fini economici
+#### ART. 105 - Inquadramento ai fini economici
 
 Nella prima applicazione della presente legge, ai fini della determinazione degli stipendi da attribuire con effetto 1 ottobre 1978, al personale dipendente dall'Amministrazione autonoma dei monopoli di Stato che viene inquadrato con pari decorrenza nelle otto qualifiche funzionali, si osservano i seguenti criteri:
 
@@ -1686,7 +1678,7 @@ c) determinato il totale complessivo degli addendi indicati alle precedenti lett
 
 Ove il dipendente sia in godimento dell'indennita' di funzione prevista dall'articolo 14 della legge 5 marzo 1961 n. 90 e l'ammontare complessivo costituito dalla predetta indennita' e dal totale di cui al punto a) dovesse eventualmente risultare maggiore del nuovo trattamento economico ad esso spettante nella, qualifica di inquadramento a termini del precedente comma, sara' conteggiata detta indennita' di funzione, ai fini della determinazione dell'assegno personale di cui al comma stesso.
 
-###### ART. 106 - Modificazioni delle situazioni soggettive
+#### ART. 106 - Modificazioni delle situazioni soggettive
 
 In via transitoria i dipendenti che, in base al precedente ordinamento, avrebbero maturato entro il 30 giugno 1979 la successiva classe di stipendio o il successivo normale aumento periodico, fruiranno di un ulteriore inquadramento a decorrere dalla data in cui avrebbero maturato il predetto beneficio.
 
@@ -1696,7 +1688,7 @@ Le stesse disposizioni si applicano nei confronti dei dipendenti che conseguono 
 
 L'ulteriore inquadramento di cui ai commi precedenti sara' effettuato con i criteri previsti per il primo inquadramento, ferma restando, ai soli fini del computo dell'importo annuo delle lire 800 indicato al punto b) del precedente artico lo 105, la data del 30 settembre 1978.
 
-###### ART. 107 - Assunzioni - Passaggi di qualifica funzionale
+#### ART. 107 - Assunzioni - Passaggi di qualifica funzionale
 
 L'assunzione nei profili professionali di cui alla tabella V o il passaggio alle qualifiche funzionali superiori di cui alla tabella VI allegate al presente titolo avvengono:
 
@@ -1754,7 +1746,7 @@ Con le modalita' stabilite dal successivo art. 111 saranno individuati i profili
 
 Il conferimento dei posti e' subordinato al raggiungimento da parte dei vincitori dei concorsi esterni e interni per le varie categorie delle sedi indicate nei relativi bandi. Si applica il disposto dell'ultimo comma dell'articolo 1 della legge 8 agosto 1977, n. 556.
 
-###### ART. 108 - Titoli di studio
+#### ART. 108 - Titoli di studio
 
 Per le assunzioni mediante pubblici concorsi sono richiesti i seguenti titoli di studio:
 
@@ -1770,19 +1762,19 @@ VIII qualifica: diploma di laurea e abilitazione o specializzazione da individua
 
 Salvo quanto previsto alla lettera b), terzultimo comma, del precedente articolo 107 per i concorsi interni e per le prove pratiche, i titoli di studio necessari saranno stabiliti con decreto del Ministro per le finanze, sentite le organizzazioni sindacali maggiormente rappresentative in sede nazionale ed il Consiglio di amministrazione, all'atto della definizione dei singoli profili professionali di cui all'ultimo comma dell'articolo 98 della presente legge.
 
-###### ART. 109 - Accesso alle qualifiche dirigenziali e alla qualifica funzionale VIII
+#### ART. 109 - Accesso alle qualifiche dirigenziali e alla qualifica funzionale VIII
 
 Salvo quanto previsto al comma successivo, l'accesso alle qualifiche dirigenziali, secondo le modalita' fissate dal decreto del Presidente della Repubblica 30 giugno 1972, n. 748 e successive modificazioni, e' riservato al personale dell'VIII qualifica, nonche' al personale della VII qualifica con almeno cinque anni di anzianita' di servizio complessivamente maturata nel profilo professionale di vice dirigente e nella soppressa qualifica di ispettore superiore od equiparato.
 
 Restano ferme le disposizioni del citato decreto del Presidente della Repubblica n. 748 in favore del personale delle qualifiche ad esaurimento di ispettore generale e di ispettore capo ed equiparate. ((COMMA ABROGATO DAL D.L. 6 GIUGNO 1981, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 1981, N. 432)).
 
-###### ART. 110 - Concorsi
+#### ART. 110 - Concorsi
 
 I concorsi pubblici di reclutamento vertono su prove attitudinali e/o a contenuto tecnico-pratico attinenti alla professionalita' del relativo profilo.
 
 I concorsi interni e le prove pratiche, che possono avere caratteristiche analoghe a quelli esterni, dovranno tendere all'effettivo accertamento del grado di professionalita' del dipendente. Le modalita' ed i programmi di esame saranno regolati con decreto del Ministro per le finanze sentite le organizzazioni sindacali maggiormente rappresentative in sede nazionale ed il Consiglio di amministrazione.
 
-###### ART. 111 - Modalita' di svolgimento dei concorsi e dei corsi professionali
+#### ART. 111 - Modalita' di svolgimento dei concorsi e dei corsi professionali
 
 Con decreto del Ministro per le finanze, da emanare con l'osservanza delle modalita' di cui all'articolo precedente, sara' provveduto a determinare:
 
@@ -1804,7 +1796,7 @@ i requisiti ed il titolo di studio necessari per il passaggio di qualifica o per
 
 i titoli di studio specifici nonche' le abilitazioni e le specializzazioni necessari per l'assunzione, mediante pubblici concorsi, ai vari profili professionali.
 
-###### ART. 112 - Anzianita' minima di servizio
+#### ART. 112 - Anzianita' minima di servizio
 
 Le anzianita' minime di servizio nella categoria di appartenenza necessarie per l'ammissione ai concorsi interni per il passaggio di qualifica funzionale sono le seguenti:
 
@@ -1824,11 +1816,11 @@ AGGIORNAMENTO (18)
 
 La L. 16 marzo 1987, n. 123 ha disposto (con l'art. 5, comma 1) che: "Ai Fini dell'ammissione ai concorsi interni per il passaggio alla V qualifica funzionale, profilo di operatore professionale, l'anzianita' richiesta dall'articolo 112 della legge 11 luglio 1980, n. 312, e' ridotta da quattro a tre anni nei confronti dei dipendenti della IV qualifica funzionale con profilo professionale di assistente"; ha inoltre disposto (con l'art. 5, comma 2) che: "Ai fini dell'ammissione ai concorsi interni per il passaggio alla VI qualifica funzionale, profili professionali di collaboratore, collaboratore tecnico e collaboratore interprete bilingue, l'anzianita' richiesta dall'articolo 112 della legge 11 luglio 1980, n. 312, e' ridotta da cinque a quattro anni nei confronti dei dipendenti della V qualifica funzionale con profilo di operatore professionale".
 
-###### ART. 113 - Riserva di posti per il primo concorso pubblico
+#### ART. 113 - Riserva di posti per il primo concorso pubblico
 
 Nel primo concorso pubblico, indetto per ogni singola qualifica funzionale successivamente all'inquadramento del personale nel nuovo ordinamento, l'80 per cento dei posti destinati a concorso pubblico e' riservato al personale in servizio, che abbia tutti i requisiti all'uopo richiesti dal relativo bando.
 
-###### ART. 114 - Assunzioni senza concorso
+#### ART. 114 - Assunzioni senza concorso
 
 Oltre a quanto previsto dall'articolo 12 della legge 2 aprile 1968, n. 482, l'Amministrazione dei monopoli di Stato puo' procedere all'assunzione del coniuge superstite del dipendente deceduto per causa direttamente connessa con il servizio, che ne faccia richiesta entro due anni dall'evento, nei limiti dei posti disponibili nella I, II, III e IV qualifica funzionale, ferme restando le limitazioni ed esclusioni previste dalle norme particolari per le assunzioni obbligatorie presso l'Amministrazione dei monopoli.
 
@@ -1838,7 +1830,7 @@ Allorche' piu' figli maggiorenni abbiano presentato richiesta di assunzione, l'A
 
 La norma trova applicazione anche per gli eventi verificatisi nei due anni precedenti all'entrata in vigore della presente legge, qualora gli aventi titolo ne facciano richiesta entro sei mesi dalla data di entrata in vigore della legge.
 
-###### ART. 115 - Funzioni di qualifica funzionale superiore
+#### ART. 115 - Funzioni di qualifica funzionale superiore
 
 Il personale puo' essere utilizzato per esigenze di servizio ((in un profilo professionale)) della qualifica funzionale immediatamente superiore con l'attribuzione del trattamento economico di cui al comma successivo, comprensivo del premio di rendimento industriale.
 
@@ -1852,7 +1844,7 @@ Ove, invece, la predetta utilizzazione sia determinata da carenze di personale a
 
 Restano ferme in ogni caso le norme di cui al precedente articolo 110, secondo comma.
 
-###### ART. 116 - Trattamento economico nei casi di passaggi di qualifica funzionale
+#### ART. 116 - Trattamento economico nei casi di passaggi di qualifica funzionale
 
 Il dipendente che transita a qualifica funzionale superiore consegue nella nuova posizione la classe di stipendio che gli assicuri lo stipendio di importo immediatamente superiore al trattamento complessivo, per stipendio ed eventuale assegno personale di cui all'articolo 105, lettera c), in godimento all'atto del passaggio; se quest'ultimo trattamento risulta d'importo superiore anche a quello inerente alla ottava classe di stipendio della nuova qualifica funzionale, al dipendente sono attribuiti in tale classe gli aumenti periodici necessari per assicurargli uno stipendio immediatamente superiore al trattamento gia' in godimento.
 
@@ -1862,7 +1854,7 @@ Le disposizioni di cui ai precedenti commi trovano applicazione anche nei confro
 
 Nei casi di passaggio ad altro profilo, nell'ambito della stessa qualifica funzionale, si conserva lo stipendio in godimento e l'anzianita' maturata nella qualifica funzionale medesima e' utile ai fini dell'ulteriore progressione economica.
 
-###### ART. 117 - Valutazione del personale
+#### ART. 117 - Valutazione del personale
 
 I rapporti informativi ed i giudizi complessivi annuali sono soppressi, salvo quanto previsto dal secondo comma dell'articolo 17 della presente legge.
 
@@ -1874,7 +1866,7 @@ Qualora il capo dell'ufficio, stabilimento ed opificio, riconosca, previo richia
 
 Il Consiglio di amministrazione puo' deliberare, a carico di quest'ultimo, a seguito di eventuali ulteriori accertamenti, una nota di demerito che produrra' gli stessi effetti di cui al secondo comma.
 
-###### ART. 118 - Rappresentanza del personale in seno al Consiglio di amministrazione dell'Amministrazione autonoma dei monopoli di Stato
+#### ART. 118 - Rappresentanza del personale in seno al Consiglio di amministrazione dell'Amministrazione autonoma dei monopoli di Stato
 
 Il numero dei rappresentanti del personale dell'Azienda nel Consiglio di amministrazione e' elevato da 4 a 6.
 
@@ -1890,7 +1882,7 @@ I rappresentanti del personale della Azienda nel Consiglio di amministrazione, i
 
 Per quanto non previsto dal presente articolo si applicano le norme di cui al decreto del Presidente della Repubblica 22 luglio 1977, n. 721 e successive modificazioni.
 
-###### ART. 119 - Aspettative e permessi per motivi sindacali
+#### ART. 119 - Aspettative e permessi per motivi sindacali
 
 Il numero delle aspettative sindacali da concedere, ai sensi e nei limiti degli articoli 45 e 46 della legge 18 marzo 1968, n. 249, ai dipendenti dell'Amministrazione autonoma dei monopoli di Stato che ricoprono cariche elettive in seno alle proprie organizzazioni sindacali a carattere nazionale maggiormente rappresentative e' stabilito con decreto del Ministro per le finanze, sentite le organizzazioni sindacali interessate ed il Consiglio di amministrazione.
 
@@ -1904,17 +1896,17 @@ AGGIORNAMENTO (28)
 
 Il D.P.C.M. 27 ottobre 1994, n. 770 ha disposto (con l'art. 6, comma 8) che il presente articolo "per effetto dell'art. 54, comma 5, del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni ed integrazioni, dalla data di entrata in vigore del presente regolamento" cessa di avere efficacia.
 
-###### ART. 120 - Revoca delle designazioni
+#### ART. 120 - Revoca delle designazioni
 
 I rappresentanti del personale nominati in seno agli organi collegiali dell'Amministrazione autonoma dei monopoli di Stato, su designazione delle organizzazioni sindacali, decadono dalla carica ove queste ne revochino la designazione.
 
 La decadenza dei rappresentanti di cui sopra decorre dalla data del provvedimento dell'Amministrazione, da emanare entro quindici giorni dalla ricezione della comunicazione.
 
-###### ART. 121 - Ritenute per contributi sindacali
+#### ART. 121 - Ritenute per contributi sindacali
 
 I contributi sindacali dei dipendenti dell'Amministrazione autonoma dei monopoli di Stato, nella misura e sugli istituti retributivi stabiliti dagli organi statutari delle organizzazioni sindacali, vengono trattenuti a cura dell'Amministrazione stessa su delega del lavoratore e versati alle organizzazioni sindacali interessate.
 
-###### ART. 122 - Orario e turni di lavoro - Aspettative - Permessi per frequenza corsi scolastici
+#### ART. 122 - Orario e turni di lavoro - Aspettative - Permessi per frequenza corsi scolastici
 
 L'orario settimanale di lavoro e' ripartito in 5 giornate lavorative da lunedi a venerdi.
 
@@ -1928,11 +1920,11 @@ b) delle assenze effettuate dai dipendenti per fruire del diritto allo studio;
 
 c) delle aspettative sindacali di cui all'articolo 119.
 
-###### ART. 123 - Congedo ordinario
+#### ART. 123 - Congedo ordinario
 
 A tutto il personale dipendente dalla Amministrazione autonoma dei monopoli di Stato competono 30 giorni lavorativi di congedo ordinario per ciascun'anno, di cui 10 giorni saranno fruiti in un unico periodo da concordare tra l'Amministrazione stessa e le organizzazioni sindacali maggiormente rappresentative in sede nazionale.
 
-###### ART. 124 - Assicurazioni contro gli infortuni sul lavoro
+#### ART. 124 - Assicurazioni contro gli infortuni sul lavoro
 
 Le norme sull'assicurazione contro gli infortuni sul lavoro sono estese a tutti i dipendenti dell'Amministrazione autonoma dei monopoli di Stato ai quali e' altresi' esteso il disposto di cui al secondo comma dell'articolo 18 della legge 13 maggio 1975, n. 157.
 
@@ -1940,33 +1932,33 @@ Alla liquidazione e al pagamento della indennita' di inabilita' assoluta tempora
 
 Le norme per l'attuazione di quanto previsto nel presente articolo saranno emanate entro sei mesi dalla data di entrata in vigore della presente legge, con decreto del Ministro, per le finanze di concerto con i Ministri del tesoro e del lavoro e previdenza sociale.
 
-###### ART. 125 - Trattenute per scioperi brevi
+#### ART. 125 - Trattenute per scioperi brevi
 
 Per le astensioni dal lavoro per parte della giornata lavorativa, si applicano al personale dell'Amministrazione autonoma dei monopoli di Stato le disposizioni di cui al successivo articolo 171.
 
 Per le astensioni effettuate antecedentemente alla entrata in vigore della presente legge nessuna ulteriore trattenuta puo' essere disposta a tale titolo ne' puo' farsi luogo a restituzione di esse.
 
-###### ART. 126 - Servizio pre-ruolo
+#### ART. 126 - Servizio pre-ruolo
 
 I periodi delle pregresse prestazioni lavorative rese dal personale alle dipendenze di imprese appaltatrici, riconosciuti ai sensi della legge 22 dicembre 1975, n. 727 e 8 agosto 1977, n. 557, sono computabili a domanda ai fini del trattamento di quiescenza statale, ai sensi dell'articolo 11 del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092, salvo che gli interessati non abbiano esercitato il diritto di opzione previsto dal terzo comma dell'articolo 5 della citata legge n. 727.
 
-###### ART. 127 - Trattamento di quiescenza e di previdenza
+#### ART. 127 - Trattamento di quiescenza e di previdenza
 
 Ai fini della determinazione della base pensionabile di cui al decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092 e successive modificazioni e del trattamento di previdenza di cui al decreto del Presidente della Repubblica 29 dicembre 1973, n. 1032, si applicano le disposizioni di cui al successivo articolo 161.
 
-###### ART. 128 - Gestione diretta del trattamento economico
+#### ART. 128 - Gestione diretta del trattamento economico
 
 Alla determinazione, liquidazione e pagamento delle competenze fisse ed accessorie spettanti al personale dipendente, provvede direttamente l'Amministrazione autonoma dei monopoli di Stato, mediante i propri organi sulla base di ruoli di spesa emessi dalla Direzione generale, secondo le procedure previste dall'ordinamento contabile approvato con decreto ministeriale 29 maggio 1928 e successive modificazioni.
 
 Per il pagamento di cui al precedente comma l'Amministrazione dei monopoli di Stato applichera' la procedura gia' in atto prevista per le altre Aziende autonome.
 
-###### ART. 129 - Personale in particolari posizioni
+#### ART. 129 - Personale in particolari posizioni
 
 Al personale non di ruolo ed a quello ad esaurimento dell'ex Azienda monopoli banane si applicano le disposizioni della presente legge.
 
 La disposizione di cui all'ultimo comma dell'articolo 19 della legge 13 maggio 1975, n. 157, concernente la spesa per il personale comandato presso altre amministrazioni statali, e' estesa a tutti i dipendenti dell'Amministrazione autonoma dei monopoli di Stato.
 
-###### ART. 130 - Premio per l'incremento del rendimento industriale
+#### ART. 130 - Premio per l'incremento del rendimento industriale
 
 Al fine di accrescere la produttivita' aziendale e per adeguare il premio per l'incremento del rendimento industriale stabilito dalla legge 3 luglio 1970, n. 483, e successive modificazioni, al nuovo ordinamento del personale di cui alla presente legge, con decreto del Ministro delle finanze, da emanarsi su parere del Consiglio di amministrazione e sentite le organizzazioni sindacali maggiormente rappresentative in sede nazionale, il predetto premio, spettante a tutto il personale che presta effettivo servizio nell'Amministrazione autonoma dei monopoli di Stato, compreso quello con qualifica dirigenziale, anche dopo la data del 31 dicembre 1979, sara' ristrutturato ed adeguato con effetto dal 1 ottobre 1978 sulla base dei seguenti criteri:
 
@@ -1978,7 +1970,7 @@ il compenso incentivante di cui all'articolo 8 della legge 3 luglio 1970, n. 483
 
 i predetti standards e le successive eventuali variazioni saranno determinati al fine di accrescere la operosita' e il rendimento del personale ed assicurare la migliore efficienza aziendale e la massima economicita' delle singole strutture operative, sentite le organizzazioni sindacali maggiormente rappresentative in sede nazionale e su parere del Consiglio di amministrazione dell'Amministrazione autonoma dei monopoli di Stato.
 
-###### ART. 131 - Interpretazione autentica
+#### ART. 131 - Interpretazione autentica
 
 Il punto 3 del primo comma dell'articolo 5 della legge 8 agosto 1977, n. 556, e' sostituito dal seguente:
 
@@ -1996,7 +1988,7 @@ b) branca "Manifatture tabacchi": diploma di perito industriale per la meccanica
 
 c) branca "Sali e chinino": diploma di perito industriale per la meccanica o per l'elettrotecnica o per l'elettronica industriale o per l'industria mineraria o per la chimica industriale; diploma di geometra;".
 
-###### ART. 132 - Norme di adeguamento
+#### ART. 132 - Norme di adeguamento
 
 Sono abrogate le norme incompatibili con la presente legge.
 
@@ -2206,7 +2198,7 @@ ABROGATA DAL D.L. 6 GIUGNO 1981, N. 283, CONVERTITO, CON MODIFICAZIONI, DALLA L.
 
 ## TITOLO V - PERSONALE DIRIGENTE
 
-###### ART. 133 - Retribuzioni
+#### ART. 133 - Retribuzioni
 
 In attesa che apposita legge da approvarsi entro il 30 giugno 1980 provveda alla riforma dello stato giuridico ed economico della dirigenza statale, alla revisione dell'organico, delle responsabilita', delle funzioni e dei criteri di accesso, di selezione e di mobilita' dei dirigenti dello Stato, le retribuzioni attualmente spettanti nelle stesse misure stabilite con provvedimenti di legge a decorrere dal 1 dicembre 1972 sono transitoriamente elevate, a tutti gli effetti, salvo quanto disposto dal successivo articolo 134, dal 1 gennaio 1979, in ragione del 40 per cento.
 
@@ -2214,99 +2206,95 @@ A decorrere dal 1 gennaio 1979 lo stipendio annuo lordo delle qualifiche ad esau
 
 Resta ferma l'attribuzione al personale di cui al precedente secondo comma, sino al 31 dicembre 1978, dell'assegno perequativo di cui alla legge 15 novembre 1973, n. 734, o analoghe indennita' pensionabili, e delle aggiunzioni di cui ai decreti del Presidente della Repubblica 11 maggio 1976, n. 268, 16 aprile 1977, n. 116, 21 novembre 1978, n. 718 ed altre disposizioni analoghe nonche' dei miglioramenti di cui all'articolo 1 del decreto del Presidente della Repubblica 27 luglio 1979, n. 223.
 
-###### ART. 134 - Compenso per lavoro straordinario
+#### ART. 134 - Compenso per lavoro straordinario
 
 Il miglioramento temporaneo derivante dall'applicazione del precedente articolo 133 non opera ai fini della determinazione dei compensi per lavoro straordinario, chiunque ne sia il beneficiario.
 
-###### ART. 135 - Disciplina economica della nomina a primo dirigente
+#### ART. 135 - Disciplina economica della nomina a primo dirigente
 
 Nei casi di conferimento della qualifica di primo dirigente, il raffronto necessario ai fini di quanto previsto dall'articolo 12, terzo comma, del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1079, o disposizioni analoghe, deve intendersi tra lo stipendio in godimento e la retribuzione iniziale della nuova posizione. Gli aumenti biennali di cui allo stesso articolo 12, terzo comma, del decreto suindicato sono conferiti sul solo stipendio.
 
 ## TITOLO VI - PERSONALE MILITARE.
 
-### CAPO I
+### CAPO I - DISPOSIZIONI DI CARATTERE GENERALE.
 
-#### DISPOSIZIONI DI CARATTERE GENERALE.
-
-###### Art. 136
+#### Art. 136
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66))
 
-###### Art. 137
+#### Art. 137
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66))
 
-###### Art. 138
+#### Art. 138
 
 ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 139
+#### Art. 139
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66))
 
-###### Art. 140
+#### Art. 140
 
 ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 141
+#### Art. 141
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66))
 
-###### Art. 142
+#### Art. 142
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66))
 
-## CAPO II. - DISPOSIZIONI PARTICOLARI PER LE FORZE DI POLIZIA E PER IL CORPO DEGLI
+### CAPO II. - DISPOSIZIONI PARTICOLARI PER LE FORZE DI POLIZIA E PER IL CORPO DEGLI AGENTI DI CUSTODIA.
 
-### AGENTI DI CUSTODIA.
-
-###### Art. 143
+#### Art. 143
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66))
 
-###### Art. 144
+#### Art. 144
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66))
 
-###### Art. 145
+#### Art. 145
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66))
 
-## CAPO III - NORME PARTICOLARI PER LE FORZE ARMATE.
+### CAPO III - NORME PARTICOLARI PER LE FORZE ARMATE.
 
-###### Art. 146
+#### Art. 146
 
 ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 147
+#### Art. 147
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66))
 
-###### Art. 148
+#### Art. 148
 
 ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 149
+#### Art. 149
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66))
 
-###### Art. 150
+#### Art. 150
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66))
 
-###### Art. 151
+#### Art. 151
 
 ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
 ## TITOLO VII - DISPOSIZIONI VARIE
 
-###### ART. 152 - Disciplina dell'anzianita
+#### ART. 152 - Disciplina dell'anzianita
 
 L'eventuale maggiore anzianita' rispetto a quella conferita nei livelli retributivi con l'inquadramento effettuato in applicazione della presente legge sara' disciplinata anche gradualmente a cominciare dal triennio 1979-1981.
 
 Nei confronti di coloro che maturino il diritto al trattamento di quiescenza il riconoscimento di cui al comma precedente verra' comunque effettuato con priorita'.
 
-###### ART. 153 - Effetti dei nuovi stipendi
+#### ART. 153 - Effetti dei nuovi stipendi
 
 Le nuove misure degli stipendi risultanti dall'applicazione della presente legge hanno effetto sui relativi aumenti biennali, sulla tredicesima mensilita', sul trattamento ordinario di quiescenza, normale e privilegiato, sulle indennita' di buonuscita e di licenziamento, sull'assegno alimentare previsto dall'articolo 82 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, o da disposizioni analoghe, sulle ritenute previdenziali ed assistenziali e relativi contributi, compresi la ritenuta in conto entrate Tesoro, o altre analoghe, ed i contributi di riscatto.
 
@@ -2314,11 +2302,11 @@ Le nuove misure degli stipendi hanno effetto altresi' sulla retribuzione previst
 
 In sede di prima applicazione della presente legge i nuovi stipendi spettanti per i decorsi periodi saranno conguagliati con quanto gia' corrisposto per gli stessi periodi a titolo di stipendio e degli altri emolumenti che cesseranno di competere in quanto conglobati nel predetto emolumento fondamentale.
 
-###### ART. 154
+#### ART. 154
 
 ((ARTICOLO ABROGATO DALLA L. 23 DICEMBRE 1994, N. 724)).
 
-###### ART. 155 - Scrutini di promozione e concorsi interni
+#### ART. 155 - Scrutini di promozione e concorsi interni
 
 Sono fatti salvi gli scrutini di cui agli articoli 38 e 39 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077 e all'articolo 3 del decreto del Presidente della Repubblica 31 maggio 1974, n. 420, per le promozioni decorrenti con effetto dal 1 gennaio 1980 per posti disponibili alla data del 31 dicembre 1979.
 
@@ -2330,11 +2318,11 @@ I concorsi per passaggi di carriera previsti dagli articoli 16, 21 e 27 del decr
 
 La promozione alla qualifica di direttore di divisione o equiparata, dei ruoli ad esaurimento, di cui al decreto del Presidente della Repubblica 30 giugno 1972, n. 748, e' conferita anche in soprannumero agli impiegati delle carriere direttive che hanno conseguito la qualifica di direttore aggiunto di divisione o equiparata anteriormente alla data di entrata in vigore della presente legge e che, alla data del 31 dicembre 1972, rivestivano la qualifica di direttore di sezione o equiparata.
 
-###### ART. 156 - Trattamento per i ricercatori e gli sperimentatori
+#### ART. 156 - Trattamento per i ricercatori e gli sperimentatori
 
 Ai ricercatori e agli sperimentatori di cui al terzo comma dell'articolo 1, che alla data di entrata in vigore della presente legge abbiano conseguito o conseguano nelle forme previste dal precedente ordinamento il parametro piu' elevato, viene attribuito il trattamento previsto per i primi ricercatori.
 
-###### ART. 157 - Conferimento di promozione
+#### ART. 157 - Conferimento di promozione
 
 La disposizione di cui all'articolo 155, ultimo comma, si applica anche ai funzionari delle carriere direttive delle aziende dipendenti dal Ministero delle poste e delle telecomunicazioni che hanno conseguito la qualifica di direttore aggiunto di divisione o equiparata anteriormente alla data di entrata in vigore della presente legge e che, alla data del 31 dicembre 1972, rivestivano la qualifica di direttore di sezione o equiparata. ((2))
 
@@ -2344,7 +2332,7 @@ AGGIORNAMENTO (2)
 
 La L. 22 dicembre 1980, n. 873 ha disposto (con l'art. 15, comma 1) che: "Con l'espressione "direttore di divisione o equiparata" contenuta nel testo dell'articolo 157 della legge 11 luglio 1980, n. 312, deve intendersi il personale della carriera direttiva che ha conseguito l'inquadramento nella VIII categoria professionale, ai sensi degli articoli 29 e 34 della legge 3 aprile 1979, n. 101, anteriormente alla data di entrata in vigore della stessa legge 11 luglio 1980, n. 312".
 
-###### ART. 158 - Personale dei Gabinetti e delle Segreterie particolari
+#### ART. 158 - Personale dei Gabinetti e delle Segreterie particolari
 
 Agli estranei all'Amministrazione dello Stato chiamati a norma delle vigenti disposizioni alle cariche presso i Gabinetti e le Segreterie particolari dei ministri e dei sottosegretari di Stato compete il trattamento economico per stipendio, indennita' integrativa speciale, aggiunta di famiglia ed altri assegni di carattere fisso e continuativo nonche' il trattamento di missione in vigore per il personale di ruolo statale delle seguenti posizioni:
 
@@ -2360,11 +2348,11 @@ Il servizio effettivamente prestato nelle posizioni che danno titolo al trattame
 
 E' soppresso l'articolo 1 del decreto legislativo luogotenenziale 23 maggio 1945, n. 260.
 
-###### ART. 159 - Cumulo di impieghi
+#### ART. 159 - Cumulo di impieghi
 
 All'articolo 99 del regio decreto 30 dicembre 1923, n. 2960, le parole "di un terzo" sono sostituite con le parole "della meta'".
 
-###### ART. 160 - Trattamento di fine servizio
+#### ART. 160 - Trattamento di fine servizio
 
 Con effetto dalle date di decorrenza economica degli inquadramenti nelle qualifiche funzionali o nei livelli retributivi da effettuarsi in applicazione della presente legge, le nuove misure degli stipendi derivanti dagli inquadramenti stessi sono considerate ai fini della liquidazione del trattamento ordinario di quiescenza, normale e privilegiato, nonche' ai fini della indennita' di buonuscita. I nuovi stipendi si considerano altresi' per la determinazione dell'indennita' di licenziamento dovuta al personale non di ruolo.
 
@@ -2374,7 +2362,7 @@ Su dette pensioni non e' dovuta la perequazione automatica di cui all'articolo 1
 
 La disposizione di cui al precedente comma si applica anche nei confronti del personale di cui alla legge 6 febbraio 1979, n. 42, in servizio alla data del 1 luglio 1977 e cessato dal servizio dopo tale data e fino al 30 settembre 1978, nonche' del personale di cui alla legge 3 aprile 1979, n. 101; in servizio alla data del 1 gennaio 1977 e cessato dal servizio dopo tale data e fino al 30 aprile 1978.
 
-###### ART. 161 - Base pensionabile
+#### ART. 161 - Base pensionabile
 
 Per le cessazioni dal servizio successive alla data di decorrenza economica degli inquadramenti nelle qualifiche funzionali o nei livelli retributivi ai fini della determinazione della base pensionabile di cui agli articoli 43 e 53 del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092, modificati dagli articoli 15 e 16 della legge 29 aprile 1976, n. 177, nonche' del trattamento di previdenza di cui al decreto del Presidente della Repubblica 29 dicembre 1973, n. 1032, l'ultimo stipendio integralmente percepito deve essere maggiorato delle quote mensili della successiva classe di stipendio o del successivo aumento periodico, maturate all'atto della cessazione dal servizio.
 
@@ -2384,21 +2372,21 @@ Le quote mensili, di cui al precedente comma, si considerano maturate in numero 
 
 Sulle quote aggiuntive, di cui ai precedenti commi, sono operate le normali ritenute per la quiescenza e per la previdenza.
 
-###### ART. 162 - Interpretazione del terzo comma dell'articolo 67 del decreto del Presidente della Repubblica 30 giugno 1972, n. 748
+#### ART. 162 - Interpretazione del terzo comma dell'articolo 67 del decreto del Presidente della Repubblica 30 giugno 1972, n. 748
 
 Il terzo comma dell'articolo 67 del decreto del Presidente della Repubblica 30 giugno 1972, n. 748, va interpretato nel senso che tutti gli impiegati promossi nei ruoli ad esaurimento, con decorrenza 12 dicembre 1972, debbono essere considerati, agli effetti dei benefici sull'esodo volontario previsto dal decreto medesimo, in possesso delle corrispondenti qualifiche indicate nella prima parte del comma stesso.
 
-###### ART. 163 - Speciale elargizione alle famiglie dei vigili del fuoco deceduti durante le operazioni di soccorso
+#### ART. 163 - Speciale elargizione alle famiglie dei vigili del fuoco deceduti durante le operazioni di soccorso
 
 A decorrere dal 1 gennaio 1978 alle famiglie del personale permanente del Corpo nazionale dei vigili del fuoco, deceduto in attivita' di servizio per diretto effetto di ferite o lesioni riportate durante le operazioni di soccorso, e' corrisposta una speciale elargizione nella misura di lire 50 milioni. Le modalita' di attuazione del presente articolo sono stabilite con decreto del Ministro dell'interno, di concerto con il Ministro del tesoro.
 
-###### ART. 164 - Compenso per prestazioni rese in eccedenza all'orario di obbligo degli operai adibiti a servizi di vigilanza e custodia
+#### ART. 164 - Compenso per prestazioni rese in eccedenza all'orario di obbligo degli operai adibiti a servizi di vigilanza e custodia
 
 L'articolo 14 della legge 15 novembre 1973, n. 734, e' sostituito, con effetto dal 1 giugno 1979, dal seguente:
 
 "Le prestazioni effettivamente rese in eccedenza alle quaranta ore settimanali degli operai adibiti a servizi di semplice vigilanza, guardiania e custodia, dagli operai comandati su navi o addetti al servizio delle piccole navi e, in ogni caso, dagli operai che prestano opera discontinua, sono retribuite nella misura e secondo criteri stabiliti dalle vigenti disposizioni di legge in materia di lavoro straordinario".
 
-###### ART. 165 - Integrazione mensile ai pensionati
+#### ART. 165 - Integrazione mensile ai pensionati
 
 Ai titolari di pensioni o assegni indicati nell'articolo 1, primo comma, della legge 29 aprile 1976, n. 177, sono concesse, a decorrere dal 1 giugno 1979, le seguenti integrazioni mensili lorde, da corrispondersi anche sulla tredicesima mensilita':
 
@@ -2414,13 +2402,13 @@ Alla corresponsione delle integrazioni mensili provvedono d'ufficio le direzioni
 
 Le integrazioni mensili di cui al presente articolo non sono dovute al personale nei cui confronti trova applicazione il precedente articolo 160 e non possono in ogni caso essere cumulate con i trattamenti di pensione liquidati o da liquidarsi in applicazione della presente legge e delle leggi 6 febbraio 1979, n. 42, 3 aprile 1979, n. 101, nonche' della legge 2 aprile 1979, n. 97.
 
-###### ART. 166 - Modifiche di procedure
+#### ART. 166 - Modifiche di procedure
 
 I decreti di cui al titolo II, parte II, del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092, e successive modificazioni ed integrazioni, acquistano immediata efficacia ai fini della corresponsione delle prestazioni dovute; i decreti concessivi sono trasmessi alla Corte dei conti per il riscontro in via successiva.
 
 I controlli di legge sui decreti emessi ai fini del trattamento di quiescenza a carico delle Casse pensioni facenti parte degli Istituti di previdenza presso il Ministero del tesoro sono effettuati in via successiva.
 
-###### ART. 167 - Personale postelegrafonico a contratto
+#### ART. 167 - Personale postelegrafonico a contratto
 
 Le disposizioni di cui all'articolo 9 della legge 23 gennaio 1974, n. 15 sono applicabili sino al 31 dicembre 1982, anche mediante la proroga o il rinnovo dei contratti gia' stipulati, sempre che vi sia il consenso del personale interessato.
 
@@ -2432,7 +2420,7 @@ A decorrere dal 1 gennaio 1979, al personale assunto ai sensi dell'articolo 9 de
 
 L'onere derivante dall'applicazione del presente articolo, valutato in lire 250.000.000 per l'anno 1979, gravera' sugli stanziamenti del capitolo 116 dello stato di previsione della spesa del bilancio dell'Amministrazione delle poste e delle telecomunicazioni per l'esercizio finanziario 1979 e dei corrispondenti capitoli per gli anni successivi.
 
-###### ART. 168 - Compenso per il personale del Ministero di grazia e giustizia
+#### ART. 168 - Compenso per il personale del Ministero di grazia e giustizia
 
 In considerazione della eccezionale situazione in cui versa l'Amministrazione giudiziaria per le esigenze di normalizzazione dei servizi, e' autorizzata, per un biennio a decorrere dal 1 giugno 1979, la devoluzione al personale delle cancellerie e segreterie giudiziarie e dell'ufficio traduzioni di leggi ed atti stranieri, nonche' a quello di altre Amministrazioni dello Stato che presti effettivo servizio presso la ragioneria centrale del Ministero di grazia e giustizia, di un importo corrispondente a 5.500.000 ore annue di lavoro straordinario in aggiunta alle erogazioni previste dagli articoli 1 e 2 del decreto del Presidente della Repubblica 22 luglio 1977, n. 422 e dall'articolo 1 della legge 22 luglio 1978, n. 385.
 
@@ -2462,11 +2450,11 @@ AGGIORNAMENTO (25)
 
 La L. 24 dicembre 1993, n. 537 ha disposto (con l'art. 3, comma 60) che le disposizioni del presente articolo "si interpretano nel senso che si applicano al personale in esse espressamente previsto purche' in servizio presso le amministrazioni contemplate dalle norme stesse".
 
-###### ART. 169 - Personale di cui all'articolo 59, penultimo comma, della legge 23 dicembre 1978, n. 833
+#### ART. 169 - Personale di cui all'articolo 59, penultimo comma, della legge 23 dicembre 1978, n. 833
 
 La norma di cui al terzo comma dell'articolo 59 della legge 23 dicembre 1978, n. 833, con la quale viene aumentato di 3 unita' il numero dei posti previsti nella tabella XIX, quadro A, allegata al decreto del Presidente della Repubblica 30 giugno 1972, n. 748, s'interpreta nel senso che, fino alla emanazione della legge di riordinamento del Ministero della sanita' all'ufficio centrale della programmazione sanitaria, all'ufficio per l'attuazione della legge istitutiva del Servizio sanitario nazionale e al segretariato del Consiglio sanitario nazionale sono preposti i dirigenti generali nominati in conseguenza del predetto aumento.
 
-###### ART. 170 - Ritenute per contributi sindacali
+#### ART. 170 - Ritenute per contributi sindacali
 
 I contributi sindacali del personale di cui alla presente legge, nella misura e sugli istituti retributivi stabiliti dagli organi statutari delle organizzazioni sindacali, sono trattenuti a cura delle amministrazioni su delega del dipendente e versati alle organizzazioni sindacali interessate.
 
@@ -2474,7 +2462,7 @@ In caso di modifica delle misure percentuali della trattenuta stabilita dagli or
 
 Restano salve le norme di cui all'articolo 50 della legge 18 marzo 1968, n. 249.
 
-###### ART. 171 - Trattenute per scioperi brevi
+#### ART. 171 - Trattenute per scioperi brevi
 
 Per gli scioperi di durata inferiore alla giornata lavorativa le relative trattenute sulle retribuzioni possono essere limitate all'effettiva durata dell'astensione dal lavoro. In tal caso la trattenuta per ogni ora e' pari alla misura oraria, senza le maggiorazioni del 15 per cento e del 30 per cento, del compenso per il lavoro straordinario aumentata della quota corrispondente agli emolumenti a qualsiasi titolo dovuti e non valutati per la determinazione della tariffa predetta.
 
@@ -2484,11 +2472,11 @@ Con decreto ministeriale, sentito il Consiglio di amministrazione, potranno prev
 
 Con decreto ministeriale, sentito il Consiglio di amministrazione, nonche' le organizzazioni sindacali maggiormente rappresentative sul piano nazionale saranno stabiliti i casi in cui la trattenuta sulle retribuzioni debba essere determinata sulla base di quanto previsto dal secondo comma del presente articolo.
 
-###### ART. 172 - Disposizioni per la sollecita liquidazione del nuovo trattamento economico
+#### ART. 172 - Disposizioni per la sollecita liquidazione del nuovo trattamento economico
 
 Gli uffici che liquidano gli stipendi sono autorizzati a provvedere al pagamento dei nuovi trattamenti economici, in via provvisoria e fino al perfezionamento dei provvedimenti formali, fatti salvi comunque i successivi conguagli, sulla base dei dati in possesso o delle comunicazioni degli uffici presso cui presta servizio il personale interessato relative agli elementi necessari per la determinazione del trattamento stesso.
 
-###### ART. 173 - Norme abrogative
+#### ART. 173 - Norme abrogative
 
 Con effetto dalle date di attribuzione degli stipendi di cui alla presente legge sono soppressi:
 
@@ -2508,13 +2496,13 @@ gli articoli 21 e 29 del decreto del Presidente della Repubblica 28 dicembre 197
 
 Sono abrogate tutte le disposizioni contrarie comunque non compatibili con la presente legge.
 
-###### ART. 174 - Onere finanziario
+#### ART. 174 - Onere finanziario
 
 All'onere derivante dall'attuazione della presente legge per gli anni 1979 e 1980, valutato in complessive lire 1.702 miliardi - che vengono ad aggiungersi alle autorizzazioni di spesa per complessive lire 1.890.336 milioni di cui alla legge 13 agosto 1979, n. 374 e successive proroghe - si provvede quanto a lire 139 miliardi a carico dello stanziamento iscritto al capitolo n. 6854 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1979; quanto a lire 33 miliardi a carico dello stanziamento iscritto al capitolo n. 6856 del predetto stato di previsione all'uopo utilizzando l'accantonamento "Modificazioni alle disposizioni sulla nomina del conciliatore e del vice pretore onorario"; quanto a lire 1.530 miliardi mediante riduzione del capitolo n. 6856 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1980, all'uopo utilizzando l'accantonamento "Revisione del trattamento economico dei pubblici dipendenti".
 
 Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-###### ART. 175 - Entrata in vigore
+#### ART. 175 - Entrata in vigore
 
 La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 

@@ -27,13 +27,13 @@ La seguente legge:
 
 ## (Disposizioni generali)
 
-### Art. 1
+## Art. 1
 
 Nello stato di previsione dell'entrata, negli stati di previsione dei Ministeri e nei bilanci delle amministrazioni e aziende autonome, approvati con la legge 22 dicembre 1984, n. 888, sono introdotte, per l'anno finanziario 1985, le variazioni di cui alle annesse tabelle.
 
 ## (Stato di previsione del Ministero del tesoro)
 
-### Art. 2
+## Art. 2
 
 All'articolo 4 della legge 22 dicembre 1984, n. 888, sono apportate le seguenti modificazioni:
 
@@ -49,13 +49,13 @@ a) alla ripartizione del fondo di lire 12.400.482.000 iscritto al capitolo n. 64
 
 b) alla determinazione dell'importo eventualmente da trasferire ad altri dicasteri, per applicazione dell'ultimo comma dell'articolo 73 della legge n. 968".
 
-### Art. 3
+## Art. 3
 
 Per l'anno 1985 l'anticipazione all'Amministrazione delle poste e delle telecomunicazioni stabilita in lire 1.990.865.950.000 dall'articolo 8 della legge 22 dicembre 1984, n. 887, e dall'articolo 4 della legge 22 dicembre 1984, n. 888, e' rideterminata in lire 1.954.720.950.000.
 
 ## (Stato di previsione del Ministero delle finanze)
 
-### Art. 4
+## Art. 4
 
 All'articolo 5 della legge 22 dicembre 1984, n. 888, sono apportate le seguenti modificazioni:
 
@@ -73,7 +73,7 @@ Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, nell'ann
 
 ## (Stato di previsione del Ministero del turismo e dello spettacolo)
 
-### Art. 5
+## Art. 5
 
 All'articolo 22 della legge 22 dicembre 1984, n. 888, e' aggiunto il seguente comma:
 
@@ -81,7 +81,7 @@ All'articolo 22 della legge 22 dicembre 1984, n. 888, e' aggiunto il seguente co
 
 ## (Disposizioni diverse)
 
-### Art. 6
+## Art. 6
 
 Il secondo comma dell'articolo 25 della legge 22 dicembre 1984, n. 888, e' sostituito dal seguente:
 
@@ -101,7 +101,7 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 ## (Disposizioni diverse)
 
-### Tabella 1
+## Tabella 1
 
 TABELLA n. 1
 
@@ -109,7 +109,7 @@ STATO DI PREVISIONE DELL'ENTRATA
 
 Parte di provvedimento in formato grafico
 
-### Tabella 1/A
+## Tabella 1/A
 
 TABELLA n. 1/A
 
@@ -117,7 +117,7 @@ STATO DI PREVISIONE DELLA PRESIDENZA DEL CONSIGLIO DEI MINISTRI
 
 Parte di provvedimento in formato grafico
 
-### Tabella 2
+## Tabella 2
 
 TABELLA n. 2
 
@@ -125,7 +125,7 @@ STATO DI PREVISIONE DEL MINISTERO DELL'ENTRATA
 
 Parte di provvedimento in formato grafico
 
-### Tabella 3
+## Tabella 3
 
 TABELLA n. 3
 
@@ -137,7 +137,7 @@ AMMINISTRAZIONE DEI MONOPOLI DI STATO
 
 Parte di provvedimento in formato grafico
 
-### Tabella 4
+## Tabella 4
 
 TABELLA n. 4
 
@@ -145,7 +145,7 @@ STATO DI PREVISIONE DEL MINISTERO DEL BILANCIO E DELLA PROGRAMMAZIONE ECONOMICA
 
 Parte di provvedimento in formato grafico
 
-### Tabella 5
+## Tabella 5
 
 TABELLA n. 5
 
@@ -153,7 +153,7 @@ STATO DI PREVISIONE DEL MINISTERO DI GRAZIA E GIUSTIZIA
 
 Parte di provvedimento in formato grafico
 
-### Tabella 6
+## Tabella 6
 
 TABELLA n. 6
 
@@ -165,7 +165,7 @@ ISTITUTO AGRONOMICO PER L'OLTREMARE
 
 Parte di provvedimento in formato grafico
 
-### Tabella 7
+## Tabella 7
 
 TABELLA n. 7
 
@@ -173,7 +173,7 @@ STATO DI PREVISIONE DEL MINISTERO DELLA PUBBLICA ISTRUZIONE
 
 Parte di provvedimento in formato grafico
 
-### Tabella 8
+## Tabella 8
 
 TABELLA n. 8
 
@@ -193,7 +193,7 @@ PATRIMONI RIUNITI EX ECONOMALI
 
 Parte di provvedimento in formato grafico
 
-### Tabella 9
+## Tabella 9
 
 TABELLA n. 9
 
@@ -205,7 +205,7 @@ AZIENDA NAZIONALE AUTONOMA DELLE STRADE
 
 Parte di provvedimento in formato grafico
 
-### Tabella 10
+## Tabella 10
 
 TABELLA n. 10
 
@@ -217,7 +217,7 @@ AZIENDA AUTONOMA DELLE FERROVIE DELLO STATO
 
 Parte di provvedimento in formato grafico
 
-### Tabella 11
+## Tabella 11
 
 TABELLA n. 11
 
@@ -229,7 +229,7 @@ AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
 Parte di provvedimento in formato grafico
 
-### Tabella 12
+## Tabella 12
 
 TABELLA n. 12
 
@@ -237,7 +237,7 @@ STATO DI PREVISIONE DEL MINISTERO DELLA DIFESA
 
 Parte di provvedimento in formato grafico
 
-### Tabella 13
+## Tabella 13
 
 TABELLA n. 13
 
@@ -249,7 +249,7 @@ GESTIONE DELL'EX AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
 Parte di provvedimento in formato grafico
 
-### Tabella 14
+## Tabella 14
 
 TABELLA n. 14
 
@@ -257,7 +257,7 @@ STATO DI PREVISIONE DEL MINISTERO DELL'INDUSTRIA, DEL COMMERCIO E DELL'ARTIGIANA
 
 Parte di provvedimento in formato grafico
 
-### Tabella 15
+## Tabella 15
 
 TABELLA n. 15
 
@@ -265,7 +265,7 @@ STATO DI PREVISIONE DEL MINISTERO DEL LAVORO E DELLA PREVIDENZA SOCIALE
 
 Parte di provvedimento in formato grafico
 
-### Tabella 16
+## Tabella 16
 
 TABELLA n. 16
 
@@ -273,7 +273,7 @@ STATO DI PREVISIONE DEL MINISTERO DEL COMMERCIO CON L'ESTERO
 
 Parte di provvedimento in formato grafico
 
-### Tabella 17
+## Tabella 17
 
 TABELLA n. 17
 
@@ -281,7 +281,7 @@ STATO DI PREVISIONE DEL MINISTERO DELLA MARINA MERCANTILE
 
 Parte di provvedimento in formato grafico
 
-### Tabella 18
+## Tabella 18
 
 TABELLA n. 18
 
@@ -289,7 +289,7 @@ STATO DI PREVISIONE DEL MINISTERO DELLE PARTECIPAZIONI STATALI
 
 Parte di provvedimento in formato grafico
 
-### Tabella 19
+## Tabella 19
 
 TABELLA n. 19
 
@@ -297,7 +297,7 @@ STATO DI PREVISIONE DEL MINISTERO DELLA SANITA'
 
 Parte di provvedimento in formato grafico
 
-### Tabella 20
+## Tabella 20
 
 TABELLA n. 20
 
@@ -305,7 +305,7 @@ STATO DI PREVISIONE DEL MINISTERO DEL TURISMO E DELLO SPETTACOLO
 
 Parte di provvedimento in formato grafico
 
-### Tabella 21
+## Tabella 21
 
 TABELLA n. 21
 

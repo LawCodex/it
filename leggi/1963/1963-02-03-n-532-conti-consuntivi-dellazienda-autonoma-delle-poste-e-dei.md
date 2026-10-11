@@ -29,31 +29,31 @@ Esercizio finanziario 1952-53
 
 ## AZIENDA AUTONOMA DELLE POSTE E DEI TELEGRAFI
 
-### Art. 1
+## Art. 1
 
 Le entrate ordinarie e straordinarie del bilancio dell'Azienda autonoma delle poste e dei telegrafi, accertate nell'esercizio 1952-53, per la competenza propria dell'esercizio medesimo, sono stabilite, come risulta dal conto consuntivo della Amministrazione stessa, allegato al rendiconto del Ministero delle Poste e delle Telecomunicazioni per l'esercizio finanziario predetto,
 
 in. . . . . . . . . . . . . . . . . . . . . . . . . L. 92.733.518.662 delle quali furono riscosse. . . . . . . . . . . . L. 75.759.689.796- e rimasero da riscuotere . . . . . . . . . . . . . L. 16.973.828.866-
 
-### Art. 2
+## Art. 2
 
 Le spese ordinarie e straordinarie del bilancio dell'Azienda, predetta, accertate nell'esercizio 1952-53, per la competenza propria dell'esercizio medesimo, sono stabilite,
 
 in . . . . . . . . . . . . . . . . . . . . . . . . L. 92.733.518.662- delle quali furono pagate . . . . . . . . . . . . . L. 62.975.693.388 e rimasero da pagare . . . . . . . . . . . . . . . L. 29.757.825.274-
 
-### Art. 3
+## Art. 3
 
 Le entrate rimaste da riscuotere alla chiusura dell'esercizio 1951-1952, restano determinate
 
 in . . . . . . . . . . . . . . . . . . . . . . . . L. 14.959.532.985- delle quali furono riscosse. . . . . . . . . . . . L. 14.247.982.076- e rimasero da riscuotere. . . . . . . . . . . . . . . L. 711.550.909-
 
-### Art 4
+## Art 4
 
 Le spese rimaste da pagare alla chiusura dell'esercizio 1951-52, restano determinate
 
 in . . . . . . . . . . . . . . . . . . . . . . . L. 30.072.202.263,23 delle quali furono pagate. . . . . . . . . . . . L. 26.958.997.116,23 e rimasero da pagare . . . . . . . . . . . . . . . L. 3.113.205.147 -
 
-### Art. 5
+## Art. 5
 
 I residui attivi alla chiusura dell'esercizio 1952-53 sono stabiliti nelle seguenti somme:
 
@@ -65,7 +65,7 @@ dell'esercizio 1952-53 (articolo 1) . . . . . . . L. 16.973.828.866 - Somme rima
 
 degli esercizi precedenti (articolo 3) . . . . . . . L. 711.550.909 - Residui attivi al 30 giugno 1953 . . . . . . . . . L. 17.685.379.775-
 
-### Art. 6
+## Art. 6
 
 I residui passivi alla chiusura dell'esercizio 1952-53 sono stabiliti nelle seguenti somme:
 
@@ -79,25 +79,25 @@ degli esercizi precedenti (articolo 4) . . . . . . L. 3.113.205.147 - Residui pa
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Art. 7
+## Art. 7
 
 Le entrate ordinarie e straordinarie del bilancio dell'Azienda di Stato per i servizi telefonici, accertate nell'esercizio, finanziario 1952-1953, per la competenza propria dell'esercizio medesimo, sono stabilite, come risulta dal conto consuntivo dell'Amministrazione stessa, allegato al rendiconto del Ministero delle poste e delle telecomunicazioni per l'esercizio predetto,
 
 in. . . . . . . . . . . . . . . . . . . . . . . . L. 27.262.672.616 - delle quali furono riscosse . . . . . . . . . . . L. 11.979.490.749 - e rimasero da riscuotere. . . . . . . . . . . . . L. 15.283.181.867 -
 
-### Art. 8
+## Art. 8
 
 Le spese ordinarie e straordinarie del bilancio dell'Amministrazione predetta, accertate nell'esercizio finanziario 1952-53, per la competenza, propria dell'esercizio medesimo, sono stabilite
 
 in . . . . . . . . . . . . . . . . . . . . . . . . L. 27.262.672.616- delle quali furono pagate. . . . . . . . . . . . . L. 6.435.154.138 - e rimasero da pagare. . . . . . . . . . . . . . . L. 20.827.518.478 -
 
-### Art. 9
+## Art. 9
 
 Le entrate rimaste da riscuotere alla chiusura
 
 dell'esercizio 1951-1952 restano determinate in. L. 15.339.935.090,45 delle quali furono riscosse. . . . . . . . . . . . L. 15.006.973.938- e rimasero da riscuotere. . . . . . . . . . . . . . L. 332.961.152,45
 
-### Art. 10
+## Art. 10
 
 Le spese rimaste da pagare alla chiusura
 
@@ -105,7 +105,7 @@ dell'esercizio 1951-52 restano determinate
 
 in . . . . . . . . . . . . . . . . . . . . . . . L. 28.910.613.460,44 delle quali furono pagate . . . . . . . . . . . . L. 15.799.430.741 - e rimasero da pagare . . . . . . . . . . . . . . L. 13.111.182.719.44
 
-### Art. 11
+## Art. 11
 
 I residui attivi alla chiusura dell'esercizio 1952-53 sono stabiliti nelle seguenti somme:
 
@@ -119,7 +119,7 @@ degli esercizi precedenti (articolo 9). . . . . . . L. 332.961.152.45 Somme risc
 
 Residui attivi al 30 giugno 1953 . . . . . . . . L. 15.745.821.054,45
 
-### Art. 12
+## Art. 12
 
 I residui passivi alla chiusura dell'esercizio 1952-53 sono stabiliti nelle seguenti somme:
 
@@ -133,19 +133,19 @@ degli esercizi precedenti (articolo 10). . . . . L. 13.111.182.719,44 Residui pa
 
 ## AMMINISTRAZIONE DELLE FERROVIE DELLO STATO
 
-### Art. 13
+## Art. 13
 
 Le entrate ordinarie e straordinarie del bilancio dell'Amministrazione delle Ferrovie dello Stato, comprese quelle delle gestioni speciali ed autonome e per partite di giro, accertate nell'esercizio finanziario 1952-53, per la competenza propria dell'esercizio medesimo, sono stabilite, come risulta dal conto consuntivo dell'Amministrazione stessa, allegato al rendiconto del Ministero dei trasporti per l'esercizio predetto
 
 in . . . . . . . . . . . . . . . . . . . . . . . L. 772.914.452.099 - delle quali furono riscosse . . . . . . . . . . . L. 678.103.164.293- e rimasero da riscuotere. . . . . . . . . . . . . . L. 94.811.287.806
 
-### Art. 14
+## Art. 14
 
 Le spese ordinarie e straordinarie del bilancio dell'Amministrazione predetta, comprese quelle delle gestioni speciali ed autonome e per partite di giro, accertate nell'esercizio finanziario 1952-53, per la competenza, propria dell'esercizio medesimo, sono stabilite
 
 in . . . . . . . . . . . . . . . . . . . . . . . L. 772.914.452.099 - delle quali furono pagate. . . . . . . . . . . . L. 702.504.003.172 - e rimasero da pagare. . . . . . . . . . . . . . . L. 70.410.448.927 -
 
-### Art. 15
+## Art. 15
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione delle Ferrovie dello Stato, di competenza dell'esercizio finanziario 1952-53, rimane cosi' stabilito:
 
@@ -163,7 +163,7 @@ Spesa . . . . . . . . . . . . . . . . . . . . . . L. 772.914.452.099- Entrata. .
 
 o somministrazioni del Tesoro. . . . . . . . . . . L. 55.659.400.00 -
 
-### Art. 16
+## Art. 16
 
 Le entrate rimaste da riscuotere alla chiusura
 
@@ -171,7 +171,7 @@ dell'esercizio 1951-52 restano determinate in. . L. 205.732.261.403 - delle qual
 
 nell'esercizio 1952-53 . . . . . . . . . . . . . . L. 187.023.479.784 e rimasero da riscuotere al 30 giugno 1953. . . . . . L. 18.708.619 -
 
-### Art. 17
+## Art. 17
 
 Le spese rimaste da pagare alla chiusura
 
@@ -179,7 +179,7 @@ dell'esercizio 1951-52 restano determinate in. . L. 169.278.223.921 - delle qual
 
 nell'esercizio 1952-53 . . . . . . . . . . . . . L. 140.388.238.820 - e rimasero da pagare al 30 giugno 1953. . . . . . . L. 28.889.985.101
 
-### Art. 18
+## Art. 18
 
 I residui attivi alla chiusura dell'esercizio 1952-53 sono stabiliti nulle seguenti somme:
 
@@ -189,7 +189,7 @@ propria dell'esercizio 1952-53 (articolo 13). . . L. 94.811.287.806 - Somme rima
 
 esercizi precedenti (articolo 16) . . . . . . . . L. 18.708.781.619 - Residui attivi al 30 giugno 1953 . . . . . . . . L. 113.520.069.425 -
 
-### Art. 19
+## Art. 19
 
 I residui passivi alla chiusura dell'esercizio 1952-53 sono stabiliti nelle seguenti somme:
 
@@ -201,7 +201,7 @@ per la competenza propria, dell'esercizio 1952-53
 
 precedenti (articolo 17). . . . . . . . . . . . . L. 28.889.985.101 - Residui passivi al 30 giugno 1953 . . . . . . . . L. 99.300.434.028 -
 
-### Art. 20
+## Art. 20
 
 Sono approvate le eccedenze di impegni risultate in sede di consuntivo, sui conto della competenza, ai capitoli dello stato di previsione della spesa dell'Amministrazione delle ferrovie dello Stato per l'esercizio finanziario 1952-33, come dal dettaglio che segue:
 
@@ -233,31 +233,31 @@ della previdenza sociale, ecc . . . . . . . . . . . . L. 200.394.418-
 
 ## AZIENDA AUTONOMA DELLE POSTE DEI TELEGRAFI
 
-### Art. 21
+## Art. 21
 
 Le entrate ordinarie e straordinarie del bilancio dell'Azienda autonoma delle poste e dei telegrafi, accertate nell'esercizio 1953-54 per la competenza propria dell'esercizio medesimo, sono stabilite, come risulta dal conto consuntivo dell'Amministrazione, stessa, allegato al rendiconto del Ministero delle poste e delle telecomunicazioni per l'esercizio finanziario predetto,
 
 in. . . . . . . . . . . . . . . . . . . . . . . . L. 96.797.910.555 - delle quali furono riscosse. . . . . . . . . . . . L. 75.684.015.322- e rimasero da riscuotere. . . . . . . . . . . . . L. 21.113.895.233 -
 
-### Art. 22
+## Art. 22
 
 Le spese ordinarie e straordinarie del bilancio dell'Azienda predetta, accertate nell'esercizio 1953-54, per la competenza propria dell'esercizio medesimo, sono stabilite,
 
 in. . . . . . . . . . . . . . . . . . . . . . . . . L. 96.797.910.555 delle quali furono pagate. . . . . . . . . . . . . L. 73.267.718.895- e rimasero da pagare. . . . . . . . . . . . . . . L. 23.530.191.860 -
 
-### Art. 23
+## Art. 23
 
 Le entrate rimaste da riscuotere alla chiusura
 
 dell'esercizio 1952-1953, restano determinate in. L. 17.685.379.775 - delle quali furono riscosse nel 1953-54 . . . . . L. 13.991.123.905 - e rimasero da riscuotere al 30 giugno 1954 . . . . L. 3.694.255.870 -
 
-### Art. 24
+## Art. 24
 
 Le spese rimaste da pagare alla chiusura
 
 dell'esercizio 1953-54, restano determinate in . . L. 32.871.030.421- delle quali furono pagate nel 1953-54. . . . . . . L. 22.477.948.023- e rimasero da pagare al 30 giugno 1954 . . . . . . L. 10.393.082.398-
 
-### Art. 25
+## Art. 25
 
 I residui attivi Balla chiusura dell'esercizio 1953-54 sono stabiliti nelle seguenti somme:
 
@@ -269,7 +269,7 @@ la competenza propria dell'esercizio 1953-54
 
 esercizi precedenti (articolo 23). . . . . . . . . . L. 3.694.255.870 Residui attivi al 30 giugno 1934. . . . . . . . . L. 24.808.151.103 -
 
-### Art. 26
+## Art. 26
 
 I residui passivi alla chiusura dell'esercizio 1953-54 sono stabiliti nelle seguenti somme:
 
@@ -283,31 +283,31 @@ esercizi precedenti (articolo 24) . . . . . . . . . L. 10.393.082.998 Residui pa
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Art. 27
+## Art. 27
 
 Le entrate ordinarie e straordinarie del bilancio dell'Azienda di Stato per i servizi telefonici, accertate nell'esercizio finanziario 1953-54, per la competenza propria dell'esercizio medesimo, sono stabilite, come risulta dal conto consuntivo dell'Amministrazione stessa, allegato al rendiconto del Ministero delle poste e delle telecomunicazioni per l'esercizio predetto,
 
 in . . . . . . . . . . . . . . . . . . . . . . . . L. 30.685.765.089- delle quali furono riscosse . . . . . . . . . . . L. 16.144.157.890 - e rimasero da riscuotere. . . . . . . . . . . . . L. 14.541.607.199 -
 
-### Art. 28
+## Art. 28
 
 Le spese ordinarie e straordinarie del bilancio dell'Amministrazione predetta, accertate nell'esercizio finanziario 1953-54, per la competenza propria dell'esercizio medesimo, sono stabilite
 
 in . . . . . . . . . . . . . . . . . . . . . . . . L. 30.685.765.089- delle quali furono pagate. . . . . . . . . . . . . . . L. 9.304.173 - e rimasero da pagare. . . . . . . . . . . . . . . L. 21.381.591.146 -
 
-### Art. 29
+## Art. 29
 
 Le entrate rimaste da riscuotere alla chiusura
 
 dell'esercizio 1952-1953, restano determinate in. L. 15.745.821.054 - delle quali furono riscosse nel 1953-54 . . . . . L. 13.436.9431.599- e rimasero da riscuotere al 30 giugno 1954 . . . . L. 2.308.877.545 -
 
-### Art. 30
+## Art. 30
 
 Le spese rimaste da pagare alla chiusura
 
 dell'esercizio 1952-53, restano determinate in. . L. 33.938.701.197 - delle quali furono pagate nel 1953-54 . . . . . . L. 17.636.303.364 - e rimasero da pagare al 30 giugno 1954. . . . . . L. 16.302.397.833 -
 
-### Art. 31
+## Art. 31
 
 I residui attivi alla chiusura dell'esercizio 1953-54 sono stabiliti nelle seguenti somme:
 
@@ -321,7 +321,7 @@ degli esercizi precedenti (articolo 29). . . . . . L. 2.308.877.545 - Somme risc
 
 riepilogo dell'entrata) . . . . . . . . . . . . . . . L. 378.589.000- Residui attivi al 30 giugno 1954 . . . . . . . . . L. 17.229.073.744-
 
-### Art. 32
+## Art. 32
 
 I residui passivi alla chiusura dell'esercizio 1953-51 sono stabiliti nelle seguenti somme:
 
@@ -335,19 +335,19 @@ esercizi precedenti (articolo 30) . . . . . . . . L. 16.302.397.833 - Residui pa
 
 ## AMMINISTRAZIONE DELLE FERROVIE DELLO STATO
 
-### Art. 33
+## Art. 33
 
 Le entrate ordinarie e straordinarie del bilancio dell'Amministrazione delle Ferrovie dello Stato, comprese quelle delle gestioni speciali ed autonome e per partite di giro, accertate nell'esercizio finanziario 1953-54, per la competenza propria dell'esercizio medesimo, sono stabilite, come risulta dal conto consuntivo dell'Amministrazione stessa, allegato al rendiconto del Ministero dei Trasporti per l'esercizio predetto,
 
 in . . . . . . . . . . . . . . . . . . . . . . . L. 738.304.294.451 - delle quali furono riscosse. . . . . . . . . . . L. 655.895.953.007 - e rimasero da riscuotere. . . . . . . . . . . . . L. 82.408.341.444 -
 
-### Art 34
+## Art 34
 
 Le spese ordinarie e straordinarie del bilancio della Amministrazione predetta, comprese quelle delle gestioni speciali ed autonome e per partite di giro, accertate nell'esercizio finanziario 1953-54, per la competenza propria dell'esercizio medesimo, sono stabilite
 
 in . . . . . . . . . . . . . . . . . . . . . . . L. 738.304.294.451 - delle quali furono pagate . . . . . . . . . . . . . . L. 666.639.973- e rimasero da pagare. . . . . . . . . . . . . . . L. 71.664.320.636 -
 
-### Art. 35
+## Art. 35
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione delle Ferrovie dello Stato, di competenza dell'esercizio finanziario 1953-54, rimane cosi' stabilito:
 
@@ -369,7 +369,7 @@ Spesa. . . . . . . . . . . . . . . . . . . . . . L. 738.304.294.451 - Entrata . 
 
 o somministrazioni del Tesoro . . . . . . . . . . L. 59.409.150.000 -
 
-### Art. 36
+## Art. 36
 
 Le entrate rimaste da riscuotere alla
 
@@ -377,13 +377,13 @@ chiusura dell'esercizio 1952-1953,
 
 restano determinate in . . . . . . . . . . . . . L. 113.520.069.425 - delle quali furono riscosse nel 1953-54. . . . . . . L. 93.502.203553 e rimasero da riscuotere al 30 giugno 1954. . . . L. 20.017.865.872 -
 
-### Art. 37
+## Art. 37
 
 Le spese rimaste da pagare alla chiusura
 
 dell'esercizio 1952-53 restano determinate in . . . L. 99.380.434.028 delle quali furono pagate nel 1953-54 . . . . . . L. 60.997.374.449 - e rimasero da pagare al 30 giugno, 1954 . . . . . L. 38.303.059.579 -
 
-### Art. 38
+## Art. 38
 
 I residui attivi alla chiusura dell'esercizio 1953-54 sono stabiliti nelle seguenti somme:
 
@@ -393,7 +393,7 @@ propria dell'esercizio 1953-54 (articolo 23) . . . L. 82.108.341.441- Somme rima
 
 esercizi precedenti (articolo 36) . . . . . . . . L. 20.017.865.872 - Residui attivi al 30 giugno 1954. . . . . . . . . L. 102.426.207.316-
 
-### Art. 39
+## Art. 39
 
 I residui passivi alla chiusura dell'esercizio 1953-54 sono stabili nelle seguenti somme:
 
@@ -405,7 +405,7 @@ per la competenza propria dell'esercizio 1953-54
 
 esercizi precedenti (articolo 37) . . . . . . . . . L. 38.303.059.579 Residui passivi al 30 giugno 1954. . . . . . . . . L. 109.967.380.215
 
-### Art. 40
+## Art. 40
 
 Sono approvate le eccedenze di impegni risultate in sede di consuntivo sul conto della competenza, ai capitoli dello stato di previsione della spesa dell'Amministrazione delle Ferrovie dello Stato, per l'esercizio finanziario 1953-54, come dal dettaglio che segue:
 

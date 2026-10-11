@@ -27,19 +27,19 @@ Promulga
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare il Protocollo opzionale alla Convenzione delle Nazioni Unite contro la tortura e altri trattamenti o pene crudeli, inumani o degradanti, fatto a New York il 18 dicembre 2002.
 
-#### Art. 2
+### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data al Protocollo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto previsto dall'articolo 28 del Protocollo stesso.
 
-#### Art. 3
+### Art. 3
 
 Clausola di neutralita' finanziaria
 
@@ -49,7 +49,7 @@ Clausola di neutralita' finanziaria
 
 3\. Il meccanismo nazionale di prevenzione, di cui agli articoli 17 e seguenti del Protocollo, e' costituito e mantenuto senza nuovi o maggiori oneri per la finanza pubblica e con l'utilizzo delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
-#### Art. 4
+### Art. 4
 
 Entrata in vigore
 
@@ -67,7 +67,7 @@ Visto, il Guardasigilli: Severino
 
 ## Allegati
 
-#### Protocol
+### Protocol
 
 OPTIONAL PROTOCOL TO THE
 
@@ -81,9 +81,7 @@ OR PUNISHMENT
 
 Parte di provvedimento in formato grafico
 
-## Parte I
-
-### Principi generali
+## Parte I - Principi generali
 
 TRADUZIONE NON UFFICIALE
 
@@ -107,11 +105,11 @@ Ricordando altresi' che la Conferenza mondiale sui diritti umani ha dichiarato c
 
 Convinti che la protezione contro la tortura e le altre pene o trattamenti crudeli, inumani o degradanti delle persone private della liberta' puo' essere rafforzata da mezzi non giudiziari di carattere preventivo, basati su visite sistematiche nei luoghi di detenzione, hanno concordato quanto segue:
 
-#### Articolo 1
+### Articolo 1
 
 Lo scopo del presente Protocollo e' l'istituzione di un sistema di visite regolari svolte da organismi indipendenti nazionali e internazionali nei luoghi in cui le persone sono private della liberta', al fine di prevenire la tortura e le altre pene o trattamenti crudeli, inumani o degradanti.
 
-#### Articolo 2
+### Articolo 2
 
 l. E' istituito un Sottocomitato sulla prevenzione della tortura e delle altre pene o trattamenti crudeli, inumani o degradanti (d'ora innanzi: "il Sottocomitato sulla prevenzione") in seno al Comitato contro la tortura per svolgere le funzioni definite nel presente Protocollo.
 
@@ -121,21 +119,19 @@ l. E' istituito un Sottocomitato sulla prevenzione della tortura e delle altre p
 
 4\. Il Sottocomitato sulla prevenzione e gli Stati Parti cooperano per l'attuazione del presente Protocollo.
 
-#### Articolo 3
+### Articolo 3
 
 Ciascuno Stato Parte istituira', nominera' e manterra' operativo a livello nazionale uno o piu' organismi con poteri di visita per la prevenzione della tortura e delle altre pene o trattamenti crudeli, inumani o degradanti (d'ora innanzi: "meccanismi nazionali di prevenzione").
 
-#### Articolo 4
+### Articolo 4
 
 1\. Ciascuno Stato Parte, in accordo con il presente Protocollo, autorizza le visite da parte degli organismi di cui ai precedenti artt. 2 e 3 in tutti i luoghi posti sotto la sua giurisdizione e il suo controllo in cui delle persone sono o possono essere private della liberta', in virtu' di un ordine dell'autorita' pubblica oppure nel quadro di indagini da essa condotte o con il consenso o l'acquiescenza di una pubblica autorita' (d'ora innanzi: "luoghi di detenzione"). Tali visite saranno condotte allo scopo di rafforzare, laddove necessario, la protezione delle suddette persone contro la tortura e le altre pene o trattamenti crudeli, inumani o degradanti.
 
 2\. Ai fini del presente Protocollo, per privazione della liberta' si intende ogni forma di detenzione o imprigionamento o collocazione di una persona in un luogo sotto custodia che non le sia consentito lasciare volontariamente, su ordine di un'autorita' giudiziaria, amministrativa o di altro tipo.
 
-## Parte II
+## Parte II - Il Sottocomitato sulla prevenzione
 
-### Il Sottocomitato sulla prevenzione
-
-#### Articolo 5
+### Articolo 5
 
 1\. Il Sottocomitato sulla prevenzione e' formato da dieci membri.
 
@@ -151,7 +147,7 @@ Dopo la cinquantesima ratifica o adesione al presente Protocollo, il numero dei 
 
 6\. I membri del Sottocomitato sulla prevenzione svolgono le loro funzioni a titolo personale, sono indipendenti e imparziali e disposti ad operare secondo efficienza.
 
-#### Articolo 6
+### Articolo 6
 
 1\. Ciascuno Stato Parte puo' nominare, ai sensi del paragrafo 2 del presente articolo, fino a due candidati in possesso delle qualita' e dei requisiti di cui all'art. 5. Nel presentare le candidature verranno fornite informazioni dettagliate circa le qualifiche dei candidati.
 
@@ -167,7 +163,7 @@ d) prima di nominare un cittadino di un altro Stato Parte, uno Stato Parte deve 
 
 3\. Almeno cinque mesi prima della data della riunione degli Stati Parti durante la quale si terranno le elezioni dei membri del Sottocomitato sulla prevenzione, il Segretario generale delle Nazioni Unite inviera' una lettera agli Stati Parti invitandoli a sottoporre le candidature entro tre mesi. Il Segretario generale sottopone la lista, in ordine alfabetico, di tutte le persone nominate, indicando gli Stati Parti che hanno proposto le candidature.
 
-#### Articolo 7
+### Articolo 7
 
 1\. I membri del Sottocomitato sulla prevenzione sono eletti nel modo seguente:
 
@@ -187,15 +183,15 @@ b) se entrambi i candidati sono stati nominati dagli Stati Parti di cui hanno la
 
 c) se nessuno dei candidati e' stato nominato dallo Stato Parte di cui egli o ella e' cittadino, sara' svolta una votazione separata a scrutinio segreto per determinare quale candidato entrera' a comporre il Sottocomitato sulla prevenzione.
 
-#### Articolo 8
+### Articolo 8
 
 Se un membro del Sottocomitato sulla prevenzione e' deceduto o da' le dimissioni o per qualunque altra causa non puo' piu' svolgere le sue funzioni, lo Stato Parte che lo aveva candidato nominera' un'altra persona in possesso delle qualifiche e dei requisiti di eleggibilita' di cui all'art. 5, tenendo in considerazione la necessita' di mantenere un equilibrio tra le varie materie rappresentate nel Sottocomitato sulla prevenzione. Tale persona restera' in carica fino alla successiva riunione degli Stati Parti, con l'approvazione della maggioranza degli Stati Parti. Tale approvazione sara' considerata data salvo che la meta' o piu' degli Stati Parti risponda negativamente entro sei settimane dal momento in cui sono informati dal Segretario generale delle Nazioni Unite della proposta di nomina.
 
-#### Articolo 9
+### Articolo 9
 
 I membri del Sottocomitato sulla prevenzione sono eletti per un mandato di quattro anni. Potranno essere rieletti per una volta, se ricandidati. Per meta' dei membri eletti alla prima votazione il termine scadra' alla fine del secondo anno; immediatamente dopo la prima elezione i nomi dei membri il cui termine scade anticipatamente saranno estratti a sorte dal Presidente della riunione di cui all'art. 7.1 d).
 
-#### Articolo 10
+### Articolo 10
 
 1\. Il Sottocomitato sulla prevenzione elegge i propri funzionari per un mandato di due anni. Essi possono essere rieletti.
 
@@ -209,11 +205,9 @@ c) il Sottocomitato sulla prevenzione tiene le sue riunioni in camera di consigl
 
 3\. Il Segretario generale della Nazioni Unite convoca la prima riunione del Sottocomitato sulla prevenzione. Dopo tale prima riunione il Sottocomitato sulla prevenzione si riunira' con la scadenza stabilita dal regolamento di procedura. Il Sottocomitato sulla prevenzione e il Comitato contro la tortura si riuniscono in contemporanea almeno una volta l'anno.
 
-## Parte III
+## Parte III - Funzioni del Sottocomitato sulla prevenzione
 
-### Funzioni del Sottocomitato sulla prevenzione
-
-#### Articolo 11
+### Articolo 11
 
 Il Sottocomitato sulla prevenzione ha il compito di:
 
@@ -231,7 +225,7 @@ iv) rivolgere raccomandazioni e osservazioni agli Stati Parti al fine di rafforz
 
 v) cooperare per la prevenzione della tortura in generale con gli organi e i meccanismi pertinenti delle Nazioni Unite, nonche' con le istituzioni o organizzazioni internazionali, regionali e nazionali che lavorano per il rafforzamento della protezione di ogni persona contro la tortura e le altre pene o trattamenti crudeli, inumani o degradanti.
 
-#### Articolo 12
+### Articolo 12
 
 Per consentire al Sottocomitato sulla prevenzione di svolgere il proprio mandato come previsto all'art. 11, gli Stati Parti si impegnano a:
 
@@ -243,7 +237,7 @@ c) incoraggiare e favorire contatti tra il Sottocomitato sulla prevenzione e i m
 
 d) prendere in esame le raccomandazioni del Sottocomitato sulla prevenzione e entrare in dialogo con esso circa le possibili misure di attuazione.
 
-#### Articolo 13
+### Articolo 13
 
 1\. Il Sottocomitato sulla prevenzione stabilira', inizialmente sulla base di un sorteggio, un programma di visite regolari agli Stati Parti al fine di adempiere al suo mandato, come stabilito all'art. 11.
 
@@ -253,7 +247,7 @@ d) prendere in esame le raccomandazioni del Sottocomitato sulla prevenzione e en
 
 4\. Se il Sottocomitato sulla prevenzione lo ritiene opportuno, esso puo' proporre una breve visita di verifica (follow-up) dopo una visita regolare.
 
-#### Articolo 14
+### Articolo 14
 
 1\. Allo scopo di permettere al Sottocomitato sulla prevenzione di adempiere al proprio mandato, gli Stati Parti del presente Protocollo si impegnano ad assicurargli:
 
@@ -269,11 +263,11 @@ e) la liberta' di scegliere i luoghi che intende visitare e le persone con cui a
 
 2\. Possono essere formulate obiezioni alla visita in un particolare luogo di detenzione solo sulla base di ragioni impellenti e cogenti riguardanti la difesa nazionale, la sicurezza pubblica, il verificarsi di un disastro naturale o di gravi disordini nel luogo oggetto della visita che impediscano temporaneamente di compiere la visita stessa. L'esistenza di uno stato di emergenza dichiarato dallo Stato Parte non puo' in quanto tale essere invocata dallo Stato stesso come una ragione per fare obiezione alla visita.
 
-#### Articolo 15
+### Articolo 15
 
 Nessuna autorita' o funzionario pubblico puo' ordinare, applicare, permettere o tollerare una sanzione contro una persona o un'organizzazione per aver comunicato al Sottocomitato sulla prevenzione o ai suoi delegati qualunque informazione, vera o falsa; tale individuo o organizzazione non subira' alcun altro tipo di pregiudizio.
 
-#### Articolo 16
+### Articolo 16
 
 1\. Il Sottocomitato sulla prevenzione trasmette le proprie raccomandazioni e osservazioni per via confidenziale allo Stato Parte e, se del caso, ai meccanismi nazionali di prevenzione.
 
@@ -283,15 +277,13 @@ Nessuna autorita' o funzionario pubblico puo' ordinare, applicare, permettere o 
 
 4\. Se lo Stato Parte rifiuta di cooperare con il Sottocomitato sulla prevenzione, come disposto dagli artt. 12 e 14, o rifiuta di prendere misure per migliorare la situazione alla luce delle raccomandazioni del Sottocomitato sulla prevenzione, il Comitato contro la tortura puo', su richiesta del Sottocomitato sulla prevenzione, decidere, a maggioranza dei suoi membri e dopo che allo Stato Parte e' data la possibilita' di far conoscere la propria posizione, di emettere una dichiarazione pubblica sulla questione o di pubblicare il rapporto del Sottocomitato sulla prevenzione.
 
-## Parte IV
+## Parte IV - Meccanismi nazionali di prevenzione
 
-### Meccanismi nazionali di prevenzione
-
-#### Articolo 17
+### Articolo 17
 
 Ciascuno Stato Parte mantiene, costituisce o crea, al massimo entro un anno dall'entrata in vigore del presente Protocollo o dal momento della sua ratifica o adesione, uno o piu' meccanismi nazionali indipendenti di prevenzione della tortura a livello interno. Possono essere qualificati quali meccanismi nazionali di prevenzione ai fini del presente Protocollo anche organismi istituiti a livello locale, purche' rispondano ai requisiti fissati dal presente Protocollo.
 
-#### Articolo 18
+### Articolo 18
 
 1\. Gli Stati Parti garantiscono l'indipendenza funzionale dei meccanismi nazionali di prevenzione, nonche' l'indipendenza del personale di cui essi si avvalgono.
 
@@ -301,7 +293,7 @@ Ciascuno Stato Parte mantiene, costituisce o crea, al massimo entro un anno dall
 
 4\. Nell'istituire i meccanismi nazionali di prevenzione, gli Stati Parti terranno in debita considerazione i Principi relativi allo status delle istituzioni nazionali per i diritti umani.
 
-#### Articolo 19
+### Articolo 19
 
 Ai meccanismi nazionali di prevenzione saranno garantiti almeno i seguenti poteri:
 
@@ -311,7 +303,7 @@ b) formulare raccomandazioni alle autorita' competenti al fine di migliorare il 
 
 c) sottoporre proposte e osservazioni relativamente alla legislazione in vigore e ai progetti di legge.
 
-#### Articolo 20
+### Articolo 20
 
 Allo scopo di mettere i meccanismi nazionali di prevenzione in condizione di espletare il loro mandato, gli Stati Parti del presente Protocollo si impegnano a garantire loro:
 
@@ -327,51 +319,45 @@ e) la liberta' di scegliere i luoghi che intendono visitare e le persone con cui
 
 f) il diritto ad avere contatti con il Sottocomitato sulla prevenzione, di trasmettergli informazioni e di avere incontri con esso.
 
-#### Articolo 21
+### Articolo 21
 
 1\. Nessuna autorita' o funzionario pubblico puo' ordinare, applicare, permettere o tollerare una sanzione contro una persona o un'organizzazione per aver comunicato ai meccanismi nazionali di prevenzione qualunque informazione, vera o falsa; tale individuo o organizzazione non subira' alcun altro tipo di pregiudizio.
 
 2\. Le informazioni riservate raccolte dai meccanismi nazionali di prevenzione sono protette. Nessun dato personale puo' essere reso pubblico senza il consenso espresso dell'interessato.
 
-#### Articolo 22
+### Articolo 22
 
 Le autorita' competenti dello Stato Parte esaminano le raccomandazioni dei meccanismi nazionali di prevenzione e entrano in dialogo con loro circa le possibili misure di attuazione.
 
-#### Articolo 23
+### Articolo 23
 
 Gli Stati Parti del presente Protocollo si impegnano a pubblicare e a diffondere i rapporti annuali elaborati dai meccanismi nazionali di prevenzione.
 
-## Parte V
+## Parte V - Dichiarazione
 
-### Dichiarazione
-
-#### Articolo 24
+### Articolo 24
 
 1\. Alla ratifica, gli Stati Parti possono avanzare una dichiarazione per posporre l'attuazione degli obblighi derivanti dalle Parti III o IV del presente Protocollo.
 
 2\. La dilazione non potra' essere superiore a tre anni. Sulla base di adeguate rappresentazioni avanzate dallo Stato Parte e previa consultazione con il Sottocomitato sulla prevenzione, il Comitato contro la tortura puo' estendere tale periodo di altri due anni.
 
-## Parte VI
+## Parte VI - Disposizioni finanziarie
 
-### Disposizioni finanziarie
-
-#### Articolo 25
+### Articolo 25
 
 1\. Le spese affrontate dal Sottocomitato sulla prevenzione per la operativita' del presente Protocollo sono a carico delle Nazioni Unite.
 
 2\. Il Segretario generale delle Nazioni Unite mettera' a disposizione il personale e le strutture necessarie per consentire al Sottocomitato sulla prevenzione di svolgere con effettivita' le funzioni attribuitele dal presente Protocollo.
 
-#### Articolo 26
+### Articolo 26
 
 1\. E' costituito un fondo speciale, nel rispetto delle procedure in materia di competenza dell'Assemblea Generale, da gestire secondo i regolamenti finanziari e le norme delle Nazioni Unite, allo scopo di sostenere l'attuazione delle raccomandazioni adottate dal Sottocomitato sulla prevenzione a seguito della visita effettuata presso uno Stato Parte, nonche' per realizzare programmi formativi rivolti ai meccanismi nazionali di prevenzione.
 
 2\. Il fondo speciale puo' essere finanziato attraverso contributi volontari forniti da governi, organizzazioni intergovernative e non-governative e altri enti pubblici o privati.
 
-## Parte VII
+## Parte VII - Disposizioni finali
 
-### Disposizioni finali
-
-#### Articolo 27
+### Articolo 27
 
 1\. Il presente Protocollo e' aperto alla firma di ogni Stato che ha firmato la Convenzione.
 
@@ -383,29 +369,29 @@ Gli Stati Parti del presente Protocollo si impegnano a pubblicare e a diffondere
 
 5\. Il Segretario generale delle Nazioni Unite deve informare tutti gli Stati che hanno firmato il presente Protocollo o che vi hanno aderito del deposito di ciascuno strumento di ratifica o di adesione.
 
-#### Articolo 28
+### Articolo 28
 
 1\. Il presente Protocollo entrera' in vigore il trentesimo giorno successivo alla data di deposito presso il Segretario generale delle Nazioni Unite del ventesimo strumento di ratifica o adesione.
 
 2\. Per ciascuno Stato che ratifica il presente Protocollo o che vi aderisce dopo il deposito presso il Segretario generale delle Nazioni Unite del ventesimo strumento di ratifica o di adesione, il presente Protocollo entrera' in vigore il trentesimo giorno successivo a quello in cui e' avvenuto il deposito del suo strumento di ratifica o di adesione.
 
-#### Articolo 29
+### Articolo 29
 
 Le disposizioni del presente Protocollo si estendono all'intero territorio di uno Stato federale, senza alcuna limitazione o eccezione.
 
-#### Articolo 30
+### Articolo 30
 
 Al presente Protocollo non sono ammesse riserve.
 
-#### Articolo 31
+### Articolo 31
 
 Le disposizioni del presente Protocollo non pregiudicano gli obblighi degli Stati Parti ai sensi di Convenzioni regionali istitutive di un sistema di visita nei luoghi di detenzione. Il Sottocomitato sulla prevenzione e gli organismi istituiti sulla base di tali Convenzioni regionali sono invitati a consultarsi reciprocamente e a cooperare allo scopo di evitare le duplicazioni e promuovere in modo efficace gli obiettivi del presente Protocollo.
 
-#### Articolo 32
+### Articolo 32
 
 Le disposizioni del presente Protocollo non producono effetti sugli obblighi degli Stati Parti delle quattro Convenzioni di Ginevra del 12 agosto 1949 e dei relativi Protocolli addizionali dell'8 giugno 1977, ne' pregiudicano la possibilita' di cui ogni Stato Parte puo' avvalersi di autorizzare il Comitato internazionale della Croce Rossa a visitare luoghi di detenzione in situazioni non regolate dal diritto internazionale umanitario.
 
-#### Articolo 33
+### Articolo 33
 
 1\. Ogni Stato Parte puo' denunciare il presente Protocollo in qualsiasi momento con una notificazione scritta indirizzata al Segretario generale delle Nazioni Unite. Quest'ultimo deve informarne gli altri Stati Parti del presente Protocollo e della Convenzione. La denuncia produce i suoi effetti dopo un anno dalla data di ricezione della notifica da parte del Segretario generale.
 
@@ -413,7 +399,7 @@ Le disposizioni del presente Protocollo non producono effetti sugli obblighi deg
 
 3\. Successivamente alla data in cui la denuncia da parte di uno Stato Parte e' divenuta effettiva, il Sottocomitato sulla prevenzione non prendera' in esame alcuna nuova questione riguardante quello Stato.
 
-#### Articolo 34
+### Articolo 34
 
 1\. Ogni Stato Parte al presente Protocollo potra' proporre un emendamento e depositare la sua proposta presso il Segretario generale delle Nazioni Unite. Il Segretario generale comunichera' la proposta di emendamento agli Stati Parti del presente Protocollo domandando loro di fargli conoscere se sono favorevoli alla organizzazione di una conferenza di Stati Parti in vista dell'esame della proposta e della sua messa ai voti. Se, nei quattro mesi successivi alla data di tale comunicazione, almeno un terzo degli Stati Parti si pronuncia a favore dello svolgimento di detta conferenza, il Segretario generale organizzera' la conferenza sotto gli auspici delle Nazioni Unite.
 
@@ -423,11 +409,11 @@ Ogni emendamento adottato dalla maggioranza dei due terzi degli Stati Parti pres
 
 3\. Quando gli emendamenti entreranno in vigore, essi saranno cogenti per gli Stati Parti che li abbiano accettati, gli altri Stati Parti rimanendo vincolati dalle disposizioni del presente Protocollo e da ogni emendamento anteriore che avranno accettato.
 
-#### Articolo 35
+### Articolo 35
 
 I membri del Sottocomitato sulla prevenzione e i componenti dei meccanismi nazionali di prevenzione godono dei privilegi ed immunita' necessarie per l'esercizio indipendente delle loro funzioni. I membri del Sottocomitato sulla prevenzione godranno dei privilegi e immunita' di cui all'art. 22 della Convenzione sui privilegi e immunita' delle Nazioni Unite del 13 febbraio 1946, secondo quanto previsto dall'art. 23 di detta Convenzione.
 
-#### Articolo 36
+### Articolo 36
 
 Allorche' conducono una visita in uno Stato Parte, i membri del Sottocomitato sulla prevenzione, senza pregiudizio delle norme e delle finalita' del presente Protocollo, nonche' dei privilegi ed immunita' di cui godono, sono tenuti a:
 
@@ -435,7 +421,7 @@ a) rispettare le leggi e i regolamenti dello Stato in cui si svolge la visita;
 
 b) astenersi da ogni azione o attivita' incompatibile con il carattere imparziale e la natura internazionale delle loro funzioni.
 
-#### Articolo 37
+### Articolo 37
 
 1\. Il presente Protocollo, i cui testi arabo, cinese, francese, inglese, russo e spagnolo fanno ugualmente fede, sara' depositato presso il Segretario generale delle Nazioni Unite.
 

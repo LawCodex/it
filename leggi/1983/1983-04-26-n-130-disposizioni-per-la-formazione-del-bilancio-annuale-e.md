@@ -28,7 +28,7 @@ la seguente legge:
 
 ## DISPOSIZIONI DI CARATTERE FINANZIARIO
 
-### ART. 1
+## ART. 1
 
 Il limite massimo del saldo netto da finanziare per l'anno 1983 resta determinato, in termini di competenza, in lire 75.890 miliardi e l'ammontare delle operazioni per rimborso di prestiti in lire 19.014.997.034.000.
 
@@ -42,17 +42,17 @@ Gli importi da iscrivere nei fondi speciali di cui all'articolo 10 della legge 5
 
 Gli importi di cui al precedente comma sono aggiuntivi agli stanziamenti iscritti ai capitoli n. 6856 e n. 9001 dello stato di previsione della spesa del Ministero del tesoro per l'anno 1983.
 
-### ART. 2
+## ART. 2
 
 Per l'esercizio 1983, le facolta' di cui agli articoli 7, 9 e 12 della legge 5 agosto 1978, n. 468, non possono essere esercitate con l'iscrizione di somme in capitoli di bilancio le cui disponibilita' siano state in tutto o in parte utilizzate per la copertura di nuove o maggiori spese disposte con legge.
 
-### ART. 3
+## ART. 3
 
 In deroga alle vigenti disposizioni, per l'anno finanziario 1983 e' stabilito in lire 45.000 miliardi l'importo massimo di emissione di buoni ordinari del tesoro, al netto di quelli da rimborsare, ed in lire 200.000 miliardi il limite massimo di circolazione dei buoni medesimi.
 
 ## DISPOSIZIONI IN MATERIA DI FINANZA REGIONALE E LOCALE
 
-### ART. 4
+## ART. 4
 
 Ai fini della quantificazione per l'anno 1983 del fondo comune di cui all'articolo 8 della legge 16 maggio 1970, n. 281, la quota del 15 per cento dell'imposta di fabbricazione sugli oli minerali, loro derivati e prodotti analoghi, indicata alla lettera a) del primo comma del predetto articolo 8, e' elevata al 49,93 per cento ed il fondo stesso viene ripartito tra le regioni a statuto ordinario secondo quanto stabilito nell'ultimo comma dell'articolo 8 della legge 26 aprile 1982, n. 181.
 
@@ -76,7 +76,7 @@ La Corte Costituzionale, con sentenza 7-11 ottobre 1983, n. 307 (in
 
 G.U. 1a s.s. 19/10/1983, n. 288) ha dichiarato l'illegittimita' costituzionale dei commi quinto e sesto del presente articolo.
 
-### ART. 5
+## ART. 5
 
 Per l'anno 1983 lo Stato concorre al finanziamento dei bilanci comunali e provinciali mediante l'erogazione di contributi per un ammontare complessivo di lire 17.180 miliardi, al netto dei trasferimenti al fondo nazionale trasporti.
 
@@ -98,7 +98,7 @@ c) che detta perdita permanga nella situazione patrimoniale delle aziende al mom
 
 ## DISPOSIZIONI IN MATERIA DI PREVIDENZA
 
-### ART. 6
+## ART. 6
 
 Il complesso dei trasferimenti dello Stato all'Istituto nazionale della previdenza sociale, a titolo di pagamenti di bilancio e di anticipazioni di Tesoreria, e' fissato per l'anno 1983 in lire 20.700 miliardi.
 
@@ -110,7 +110,7 @@ Nel caso in cui il fabbisogno dell'Istituto nazionale della previdenza sociale r
 
 ## DISPOSIZIONI IN MATERIA DI AZIENDE AUTONOME DELLO STATO E DI TARIFFE - SUI TRASPORTI
 
-### ART. 7
+## ART. 7
 
 Ai sensi dell'ultimo comma dell'articolo 3 della legge 12 febbraio 1981, numero 17, l'importo complessivo di cui al terzo comma dell'articolo 1 della predetta legge viene elevato da 12.450 a 18.850 miliardi di lire.
 
@@ -158,7 +158,7 @@ Gli importi predetti saranno gravati di interessi a decorrere dalle scadenze fis
 
 ## DISPOSIZIONI IN MATERIA DI ESPORTAZIONI
 
-### ART. 8
+## ART. 8
 
 Il fondo contributi di cui al primo capoverso dell'articolo 3 della legge 28 maggio 1973, n. 295, costituito presso il Mediocredito centrale, e' incrementato della somma di lire 2.500 miliardi per la corresponsione di contributi in conto interessi sulle operazioni di finanziamento alle esportazioni a pagamento differito previste dalla legge 24 maggio 1977, numero 227, e successive modificazioni.
 
@@ -178,7 +178,7 @@ L'autorizzazione di spesa di cui all'articolo 1, secondo comma, della legge 14 a
 
 ## DISPOSIZIONI IN MATERIA DI PERSONALE
 
-### ART. 9
+## ART. 9
 
 Per l'anno 1983 la spesa complessiva per gli aumenti dei trattamenti economici di attivita' e di quiescenza dei dipendenti e dei pensionati dello Stato e del pubblico impiego, dovuti a qualsiasi titolo, compresi i miglioramenti relativi ai rinnovi contrattuali, non deve superare il 13 per cento degli oneri previsti per i predetti trattamenti nel 1982. Per la determinazione degli aumenti, la spesa di personale in attivita' di servizio per l'anno 1982 da assoggettare al limite del 13 per cento e' costituita, per ciascun comparto del pubblico impiego, dallo stipendio, dall'indennita' integrativa speciale e dalla tredicesima mensilita', con esclusione di ogni altro emolumento a qualsiasi titolo dovuto.
 
@@ -210,7 +210,7 @@ La Corte Costituzionale, con sentenza 7-11 ottobre 1983, n. 307 (in G.U. 1a s.s.
 
 ## DISPOSIZIONI DIVERSE
 
-### ART. 10
+## ART. 10
 
 Sono infruttiferi i conti correnti, liberi o vincolati, aperti presso la Tesoreria centrale dello Stato, nonche' le contabilita' speciali aperte presso le Tesorerie provinciali dello Stato a favore delle province e dei comuni.
 
@@ -250,7 +250,7 @@ Il Presidente del Consiglio dei ministri, con proprio decreto emanato di concert
 
 Il Ministro del tesoro dispone l'effettuazione di verifiche per accertare l'esatta applicazione delle norme di cui all'articolo 35 della legge 30 marzo 1981, n. 119, e di quelle da effettuare in attuazione dell'articolo 29 del regio decreto 18 novembre 1923, n. 2440, e dell'articolo 3 della legge 26 luglio 1939, n. 1037.
 
-### ART. 11
+## ART. 11
 
 A decorrere dal 1 gennaio 1983, sono soppresse le autorizzazioni di spesa recate dalle seguenti leggi:
 
@@ -270,7 +270,7 @@ legge 24 novembre 1941, n. 1286, limitatamente all'articolo 15 che dispone la co
 
 ## DISPOSIZIONI PER L'UTILIZZAZIONE DEL "FONDO INVESTIMENTI E - OCCUPAZIONE"
 
-### ART. 12
+## ART. 12
 
 Le risorse destinate al Fondo investimenti e occupazione per l'anno 1983, quanto a lire 7.820 miliardi, sono ripartite nella seguente misura e sulla base delle disposizioni contenute negli articoli successivi:
 
@@ -290,23 +290,23 @@ Le risorse destinate al Fondo investimenti e occupazione per l'anno 1983, quanto
 
 8\) lire 200 miliardi per interventi per lo sviluppo socio-economico della regione Calabria.
 
-### ART. 13
+## ART. 13
 
 Il Fondo speciale di rotazione costituito presso la Cassa depositi e prestiti ai sensi dell'articolo 52 della legge 7 agosto 1982, n. 526, e' aumentato, per l'esercizio finanziario 1983, di lire 500 miliardi.
 
 Sono raddoppiati i termini di 30 e 45 giorni indicati, rispettivamente, dal quarto e dall'ultimo comma del medesimo articolo 52 della legge 7 agosto 1982, numero 526.
 
-### ART. 14
+## ART. 14
 
 Per le finalita' di cui all'articolo 54 della legge 7 agosto 1982, n. 526, e' auto" rizzata, per l'anno 1983, un'assegnazione straordinaria di lire 850 miliardi al fondo di dotazione dell'Ente nazionale per l'energia elettrica, da erogarsi secondo i criteri di cui al medesimo articolo 54.
 
-### ART. 15
+## ART. 15
 
 La detrazione prevista dall'articolo 19 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, e' maggiorata di un importo pari al 6 per cento della base imponibile risultante dalle fatture e bollette doganali relative ad acquisti e ad importazioni derivanti da ordinativi, emessi dal mese successivo a quello della data di entrata in vigore della presente legge al 31 dicembre 1983, di beni materiali ammortizzabili, esclusi gli immobili, di nuova produzione, consegnati o importati, entro il 31 dicembre 1984, afferenti all'esercizio di imprese industriali ed artigiane di cui ai gruppi dal IV al XIV della tabella approvata con decreto del Ministro delle finanze 29 ottobre 1974, integrata con i successivi decreti 5 maggio 1975, 15 dicembre 1977, 27 aprile 1979 e 21 novembre 1979. La maggiore detrazione si applica indipendentemente dalle limitazioni di cui agli articoli 19, terzo comma, e 19-bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e spetta anche per la posa in opera, installazione e montaggio dei beni acquistati o importati, sempreche' i relativi ordinativi e le relative prestazioni risultino, rispettivamente, emessi ed effettuate entro i termini sopra stabiliti.
 
 La maggiore detrazione di cui al comma precedente e' ammessa a condizione che sia indicata distintamente nelle annotazioni prescritte dall'articolo 27 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, e nella dichiarazione annuale e che alla dichiarazione stessa siano allegati, in originale o in copia fotostatica, gli ordinativi, le fatture, le bollette doganali e i documenti relativi alla consegna.
 
-### ART. 16
+## ART. 16
 
 E' conferita al Fondo di dotazione dell'istituto per la ricostruzione industriale (IRI) la somma di lire 1.100 miliardi da destinare, quanto a lire 800 miliardi, alla ricapitalizzazione della FINSIDER S.p.A. per l'attuazione del piano di risanamento dell'industria siderurgica a partecipazione statale e quanto a lire 100 miliardi al conferimento di capitale sociale alle societa' elettroniche della finanziaria STET, per il finanziamento del programma delle stesse conseguente al piano nazionale di sviluppo e potenziamento dei servizi di telecomunicazione.
 
@@ -318,13 +318,13 @@ E' conferita al Fondo di dotazione dell'Ente partecipazione e finanziamento indu
 
 Alla ripartizione delle somme di cui ai commi secondo e terzo provvede il CIPE su proposta del Ministro delle partecipazioni statali.
 
-### ART. 17
+## ART. 17
 
 E' autorizzata la spesa di lire 240 miliardi per consentire all'IMI, all'EFIM, all'ENI e all'IRI di concorrere all'ulteriore aumento, per pari importo, del capitale sociale della GEPI S.p.A. costituita ai sensi dell'articolo 5 della legge 22 marzo 1971, n. 184.
 
 A tal fine, per l'anno 1983, il Ministro del tesoro e' autorizzato a conferire al patrimonio dell'IMI la somma di lire 120 miliardi e ai fondi di dotazione dell'EFIM, dell'ENI e dell'IRI la somma di lire 40 miliardi ciascuno.
 
-### ART. 18
+## ART. 18
 
 Per consentire il completamento degli interventi del "Fondo per la ristrutturazione e la riconversione industriale" costituito presso il Ministero dell'industria, del commercio e dell'artigianato ai sensi dell'articolo 3 della legge 12 agosto 1977, n. 675, relativamente alle domande presentate entro il 31 dicembre 1982, sono autorizzate le seguenti spese aggiuntive:
 
@@ -354,7 +354,7 @@ A tutti gli adempimenti che si rendono necessari per consentire la piu' agile at
 
 La disciplina di cui al precedente comma puo' essere estesa alle altre norme di incentivazione alle imprese industriali che prevedono fondi gestiti ai sensi dell'articolo 9 della legge 25 novembre 1971, n. 1041.
 
-### ART. 19
+## ART. 19
 
 E' autorizzata la spesa di lire 200 miliardi per l'anno 1983 per incrementare:
 
@@ -376,7 +376,7 @@ La dotazione del Fondo per la ristrutturazione e riconversione industriale, cost
 
 L'autorizzazione di spesa concernente l'attuazione del programma di metanizzazione del Mezzogiorno di cui all'articolo 11 della legge 28 novembre 1980, n. 784, e successive modificazioni ed integrazioni, e' incrementata di lire 50 miliardi per l'anno finanziario 1983.
 
-### ART. 20
+## ART. 20
 
 Sono autorizzate le spese di lire 200 miliardi e di lire 100 miliardi, da iscrivere nello stato di previsione della spesa del Ministero dell'agricoltura e delle foreste per l'anno finanziario 1983, per la concessione del concorso negli interessi, rispettivamente, sui prestiti agrari di esercizio e sui mutui di miglioramento fondiario di cui alla legge 5 luglio 1928, n. 1760.
 
@@ -398,7 +398,7 @@ La Corte Costituzionale, con sentenza 7-11 ottobre 1983, n. 307 (in
 
 G.U. 1a s.s. 19/10/1983, n. 288) ha dichiarato l'illegittimita' costituzionale del terzo comma del presente articolo.
 
-### ART. 21
+## ART. 21
 
 In apposito capitolo dello stato di previsione della spesa del Ministero del bilancio e della programmazione economica e' iscritta, per l'anno 1983, la somma di lire 1.300 miliardi per il finanziamento di progetti immediatamente eseguibili per interventi di rilevante interesse economico sul territorio, nell'agricoltura, nell'edilizia e nelle infrastrutture nonche' per la tutela di beni ambientali e culturali e per le opere di edilizia scolastica e universitaria.
 
@@ -418,13 +418,13 @@ Le proposte delle amministrazioni devono situare ciascun progetto nel contesto d
 
 La riserva del 40 per cento di cui all'articolo 107, primo comma, del testo unico approvato con decreto del Presidente della Repubblica 6 marzo 1978, n. 218, viene determinata sulle disponibilita' nette complessive.
 
-### ART. 22
+## ART. 22
 
 Per favorire lo sviluppo socio-economico della Calabria, con particolare riferimento alle zone colpite dall'evento sismico del 21 marzo 1982, nonche' agli interventi previsti dall'articolo 14 della legge 7 agosto 1982, n. 526, e' autorizzata per l'anno 1983 la spesa di lire 200 miliardi per la concessione alla regione Calabria di un contributo speciale ai sensi dell'articolo 12 della legge 16 maggio 1970, n. 281.
 
 Il Ministro per gli interventi straordinari nel Mezzogiorno invia al Parlamento entro il 31 dicembre 1983 una relazione sui risultati degli investimenti di cui al presente articolo. A tal fine l'amministrazione regionale e' tenuta a fornire tutte le informazioni necessarie.
 
-### ART. 23
+## ART. 23
 
 La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
@@ -440,7 +440,7 @@ Visto, il Guardasigilli: DARIDA
 
 ## DISPOSIZIONI PER L'UTILIZZAZIONE DEL "FONDO INVESTIMENTI E - OCCUPAZIONE"
 
-### Tabella A
+## Tabella A
 
 TABELLA A
 

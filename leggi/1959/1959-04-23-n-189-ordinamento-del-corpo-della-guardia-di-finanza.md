@@ -26,7 +26,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il Corpo della guardia di finanza dipende direttamente e a tutti gli effetti dal Ministro per le finanze.
 
@@ -50,7 +50,7 @@ AGGIORNAMENTO (5)
 
 Il D. Lgs. 19 marzo 2001, n. 68 ha disposto (con l'art. 1, comma 2) che "All'atto della istituzione del Ministero dell'economia e delle finanze, ai sensi del decreto legislativo 30 luglio 1999, n. 300, la dipendenza del Corpo della Guardia di finanza di cui all'articolo 1 della legge 23 aprile 1959, n. 189, si intende riferita al Ministro dell'economia e delle finanze".
 
-### Art. 2
+## Art. 2
 
 Il Corpo della guardia di finanza e' costituito dal seguente
 
@@ -130,7 +130,7 @@ Il D.P.R. 29 gennaio 1999, n. 34 ha disposto (con l'art. 10, comma
 
 2\) che "Ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, dalla data di emanazione delle determinazioni di cui al comma 1, si intendono abrogati gli articoli 2, 3 e 6 della legge 23 aprile 1959, n. 189".
 
-### Art. 3
+## Art. 3
 
 Il Corpo della guardia di finanza e' cosi' ordinato:
 
@@ -176,7 +176,7 @@ AGGIORNAMENTO (4)
 
 Il D.P.R. 29 gennaio 1999, n. 34 ha disposto (con l'art. 10, comma 2) che "Ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, dalla data di emanazione delle determinazioni di cui al comma 1, si intendono abrogati gli articoli 2, 3 e 6 della legge 23 aprile 1959, n. 189".
 
-### Art. 4
+## Art. 4
 
 Il Comandante generale della Guardia di finanza e' scelto fra i generali di Corpo d'armata in servizio permanente effettivo del medesimo Corpo o dell'Esercito ed e' nominato con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, su proposta del Ministro dell'economia e delle finanze, di concerto con il Ministro della difesa.
 
@@ -214,7 +214,7 @@ AGGIORNAMENTO (12)
 
 Il D.L. 24 febbraio 2026, n. 23, convertito con modificazioni dalla L. 24 aprile 2026, n. 54 ha disposto (con l'art. 21, comma 8-bis) che "In deroga a quanto previsto dall'articolo 4, quinto comma, della legge 23 aprile 1959, n. 189, il mandato del Comandante generale della Guardia di finanza in corso alla data di entrata in vigore della legge di conversione del presente decreto e' prorogato fino al 31 dicembre 2026".
 
-### Art. 5
+## Art. 5
 
 Il Comando generale e' costituito da reparti, uffici e organi direttivi dei servizi, ai quali sono assegnati ufficiali della Guardia di finanza; possono esservi assegnati ufficiali di altre Forze armate, ai sensi del successivo art. 7.
 
@@ -228,7 +228,7 @@ L'ordinamento interno del Comando generale e' stabilito dal
 
 Comandante generale.
 
-### Art. 6
+## Art. 6
 
 Ciascuna zona e' costituita dal comando, da un numero vario di legioni, da un centro di addestramento e, di massima, da un nucleo regionale di polizia tributaria. Ciascuna legione e' costituita dal comando e da un numero vario di gruppi, nuclei di polizia tributaria, stazioni navali, sezioni aeree e unita' minori. A decorrere dal corrente anno accademico 1965-1966 l'Accademia e il comando scuole sono equiparate ai comandi di zona. Il comando scuole ha alla dipendenza la scuola sottufficiali e la legione allievi, che sono costituite dal comando e da un numero vario di battaglioni e di unita' minori, e la scuola di polizia tributaria. La scuola alpina, la scuola nautica e la banda musicale del Corpo dipendono dal comando della legione allievi.
 
@@ -246,13 +246,13 @@ AGGIORNAMENTO (4)
 
 Il D.P.R. 29 gennaio 1999, n. 34 ha disposto (con l'art. 10, comma 2) che "Ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, dalla data di emanazione delle determinazioni di cui al comma 1, si intendono abrogati gli articoli 2, 3 e 6 della legge 23 aprile 1959, n. 189".
 
-### Art. 7
+## Art. 7
 
 Possono essere destinati a prestare servizio presso il Corpo della guardia di finanza ufficiali di grado non superiore a colonnello o corrispondente e sottufficiali in servizio permanente dell'Esercito, della Marina e dell'Aeronautica quando occorra adibirli a particolari incarichi di natura tecnica.
 
 Al personale militare anzidetto spetta la indennita' di alloggio dovuta ai pari grado del Corpo.
 
-### Art. 8
+## Art. 8
 
 All'insegnamento nelle scuole e nei corsi di addestramento si provvede con ufficiali della Guardia di finanza o di altre Forze armate.
 
@@ -260,17 +260,17 @@ All'insegnamento delle materie non militari si puo' provvedere con professori e 
 
 Con decreto del Ministro per le finanze, da emanare di concerto col Ministro, per il tesoro, sono stabiliti, nei limiti degli appositi stanziamenti di bilancio, i compensi per gli incarichi di insegnamento.
 
-### Art. 9
+## Art. 9
 
 Con decreto del Ministro per le finanze, di concerto col Ministro per il tesoro, e' stabilita l'aliquota dei personale sottufficiali e truppa destinata al contingente di mare e alle varie categorie di specializzazione.
 
-### Art. 10
+## Art. 10
 
 Ai militari del Corpo della guardia di finanza si applicano il regolamento di disciplina militare per l'Esercito e la legge penale militare.
 
 Ad essi si applicano altresi' le disposizioni sulle licenze, sui documenti caratteristici e matricolari e quelle concernenti gli accertamenti medico-legali valevoli per l'Esercito - Arma dei carabinieri - con le varianti eventualmente necessarie.
 
-### Art. 11
+## Art. 11
 
 I ruoli organici del personale del Corpo della- guardia di finanza sono stabiliti in conformita' della tabella allegata alla presente legge.
 
@@ -278,17 +278,17 @@ Il numero degli ufficiali di complemento che e' consentito mantenere in servizio
 
 ## Disposizioni finali
 
-### Art. 12
+## Art. 12
 
 ((ARTICOLO ABROGATO DAL D.LGS. 5 OTTOBRE 2018, N. 126))
 
-### Art. 13
+## Art. 13
 
 L'onere di lire 750 milioni derivante dalla applicazione della presente legge per l'esercizio finanziario 1959-60 fara' carico al fondo per far fronte ad oneri dipendenti da provvedimenti legislativi in corso, stanziato nello stato di previsione della spesa del Ministero del tesoro per l'anzidetto esercizio finanziario.
 
 Il Ministro per il tesoro e' autorizzato a provvedere con proprio decreto alle occorrenti variazioni di bilancio.
 
-### Art. 14
+## Art. 14
 
 La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della- Repubblica, salve le diverse decorrenze stabilite nell'annessa tabella per l'attuazione dei ruoli organici.
 
@@ -304,7 +304,7 @@ Visto, il Guardasigilli: GONELLA
 
 ## Disposizioni finali
 
-### Allegato
+## Allegato
 
 ALLEGATO
 

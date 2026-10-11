@@ -32,61 +32,61 @@ la seguente legge:
 
 ## CAPO I - PRINCIPI GENERALI
 
-#### Art. 1
+### Art. 1
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-#### Art. 2
+### Art. 2
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-#### Art. 3
+### Art. 3
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-#### Art. 4
+### Art. 4
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-#### Art. 5
+### Art. 5
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-#### Art. 6
+### Art. 6
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-#### Art. 7
+### Art. 7
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
 ## CAPO II - SERVIZIO IDRICO INTEGRATO
 
-#### Art. 8
+### Art. 8
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-#### Art. 9
+### Art. 9
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-#### Art. 10
+### Art. 10
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-#### Art. 11
+### Art. 11
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-#### Art. 12
+### Art. 12
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-#### Art. 13
+### Art. 13
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-#### Art. 14
+### Art. 14
 
 ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ((10))
 
@@ -96,15 +96,15 @@ AGGIORNAMENTO (10)
 
 La Corte Costituzionale con sentenza 8 - 10 ottobre 2008 n. 335 (in G.U. 1a s.s. 15/10/2008 n. 43) ha dichiarato "l'illegittimita' costituzionale dell'art. 14, comma 1, legge 5 gennaio 1994, n. 36 (Disposizioni in materia di risorse idriche), sia nel testo originario, sia nel testo modificato dall'art. 28 della legge 31 luglio 2002, n. 179 (Disposizioni in materia ambientale), nella parte in cui prevede che la quota di tariffa riferita al servizio di depurazione e' dovuta dagli utenti «anche nel caso in cui la fognatura sia sprovvista di impianti centralizzati di depurazione o questi siano temporaneamente inattivi»".
 
-#### Art. 15
+### Art. 15
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-#### Art. 16
+### Art. 16
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-#### Art. 17
+### Art. 17
 
 ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ((10a))
 
@@ -116,27 +116,25 @@ Il D.Lgs. 3 aprile 2006, n. 152, come modificato dal D. Lgs. 16 gennaio 2008, n.
 
 Lgs. 152/2006 e' abrogato il comma 6 dell'art. 17.
 
-#### Art. 18
+### Art. 18
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-#### Art. 19
+### Art. 19
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-#### Art. 20
+### Art. 20
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-## CAPO III - VIGILANZA,
+## CAPO III - VIGILANZA, CONTROLLI E PARTECIPAZIONE
 
-### CONTROLLI E PARTECIPAZIONE
-
-#### Art. 21
+### Art. 21
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-#### Art. 22
+### Art. 22
 
 Osservatorio dei servizi idrici
 
@@ -152,56 +150,54 @@ Osservatorio dei servizi idrici
 
 6\. All'onere derivante dalla costituzione e dal funzionamento del Comitato e dell'Osservatorio, pari a lire 700 milioni per il 1993 e a lire 1.750 milioni annue a decorrere dal 1994, si provvede mediante riduzione dello stanziamento iscritto al capitolo 1124 dello stato di previsione del Ministero dei lavori pubblici per l'anno 1993 e corrispondenti capitoli per gli esercizi successivi.
 
-#### Art. 23
+### Art. 23
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-#### Art. 24
+### Art. 24
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-#### Art. 25
+### Art. 25
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-#### Art. 26
+### Art. 26
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-## CAPO IV - USI PRODUTTIVI
+## CAPO IV - USI PRODUTTIVI DELLE RISORSE IDRICHE
 
-### DELLE RISORSE IDRICHE
-
-#### Art. 27
+### Art. 27
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-#### Art. 28
+### Art. 28
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-#### Art. 29
+### Art. 29
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-#### Art. 30
+### Art. 30
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-#### Art. 31
+### Art. 31
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
 ## CAPO V - DISPOSIZIONI FINALI E TRANSITORIE
 
-#### Art. 32
+### Art. 32
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-#### Art. 33
+### Art. 33
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))
 
-#### Art. 34
+### Art. 34
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 ))

@@ -42,13 +42,13 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze;
 
 Abbiamo decretato e decretiamo:
 
-### Art. 1
+## Art. 1
 
 La lettera d) dell'art. 1 del R. decreto-legge 26 gennaio 1933, n. 135, convertito nella legge 5 giugno 1933, n. 816, e' sostituita come segue:
 
 «d) una scuola ufficiali».
 
-### Art. 2
+## Art. 2
 
 La nomina ad ufficiale in servizio permanente della Regia guardia di finanza ha luogo col grado di sottotenente. Per conseguire la nomina suddetta e' necessario soddisfare alle seguenti condizioni:
 
@@ -76,7 +76,7 @@ AGGIORNAMENTO (1)
 
 Il Regio D.L. 8 luglio 1937, n. 1290, convertito senza modificazioni dalla L. 23 dicembre 1937, n. 2385, ha disposto (con l'art. 2, comma 1) che "Il limite massimo di eta' stabilito in 28 anni per i sottotenenti provenienti dagli allievi licenziati dagli istituti di istruzione media di secondo grado, di cui all'art. 2, n. 2, del R. decreto-legge 4 ottobre 1935, n. 1961, convertito nella legge 9 gennaio 1936, n. 75, e' portato ad anni 23".
 
-### Art. 3
+## Art. 3
 
 I sottotenenti in servizio permanente della Regia guardia di finanza sono tratti:
 
@@ -86,7 +86,7 @@ b) per un terzo, dai sottufficiali in servizio, della Regia guardia di finanza, 
 
 In difetto di elementi idonei in una delle rispettive categorie, le proporzioni sopra indicate possono essere variate a favore dell'altra.
 
-### Art. 4
+## Art. 4
 
 Gli ammessi alla scuola ufficiali, non appartenenti al Corpo, contraggono una ferma triennale di servizio con diritto a rescinderla al termine del corso d'istruzione, ove non fossero riconosciuti idonei a coprire il grado di sottotenente, o anche prima, qualora vengano allontanati d'autorita' dalla scuola o chiedano di esserne dimessi per rinuncia al corso.
 
@@ -94,23 +94,23 @@ Tale diritto di rescissione compete a tutti gli allievi ufficiali per i vincoli 
 
 ((COMMA ABROGATO DALLA L. 21 DICEMBRE 1948, N. 1580))
 
-### Art. 5
+## Art. 5
 
 All'atto dell'ammissione alla scuola ufficiali i sottufficiali debbono rinunciare al grado per la durata del corso. Il relativo provvedimento sara' disposto con determinazione Ministeriale.
 
 Qualora debbano cessare dalla qualita' di allievi del corso, essi saranno ripristinati nel grado ed il tempo trascorso nella scuola e' computato, in tal caso, nell'anzianita' di grado da sottufficiale.
 
-### Art. 6
+## Art. 6
 
 L'art. 5 del R. decreto-legge 26 gennaio 1933, n. 135, convertito nella legge 5 giugno 1933, n. 816, e' sostituito dal seguente:
 
 «Agli allievi ufficiali congedati, che abbiano cessato di appartenere alla scuola perche' riprovati negli esami finali dell'ultimo anno di corso, purche' siano risultati idonei agli esami delle materie di carattere Militare, puo' essere conferita in ogni tempo la nomina a sottotenente di complemento del Corpo».
 
-### Art. 7
+## Art. 7
 
 Gli allievi ufficiali che compiono 11 corso nello stessa anno, sono nominati sottotenenti in servizio permanente sotto un'unica data, posteriore agli esami della seconda sessione. I sottotenenti che conseguono l'idoneita' nella seconda sessione, seguono nel ruolo quelli che la conseguirono nella prima.
 
-### Art. 8
+## Art. 8
 
 L'art. 7 del decreto-legge 26 gennaio 1933, n. 135, convertito nella legge 5 giugno 1933, n. 816; e' sostituito dal seguente:
 
@@ -118,7 +118,7 @@ L'art. 7 del decreto-legge 26 gennaio 1933, n. 135, convertito nella legge 5 giu
 
 «L'aver compiuto con esito favorevole il corso di applicazione suddetto e' condizione necessaria ma non sufficiente per conseguire l'avanzamento».
 
-### Art. 9
+## Art. 9
 
 L'art. 8 del R. decreto-legge 26 gennaio 1933, n. 135, convertita nella legge 5 giugno 1933, n. 816, e' sostituito dal seguente:
 
@@ -134,19 +134,19 @@ AGGIORNAMENTO (4)
 
 Il D.P.R. 26 agosto 1959, n. 1006 ha disposto (con l'art. 9, comma 2) che "La disposizione di cui al secondo comma dell'art. 9 del regio decreto-legge 4 ottobre 1935, n. 1961, convertito nella legge 9 gennaio 1936, n. 75, si applica ai sottotenenti che abbiano frequentato il primo ed il secondo anno del corso di applicazione".
 
-### Art. 10
+## Art. 10
 
 L'art. 13 del R. decreto-legge 26 gennaio 1933, n. 135, convertito nella legge 5 giugno 1933, n. 816, e' sostituito dal seguente:
 
 «All'insegnamento delle varie materie nella scuola ufficiali della Regia guardia di finanza, il Ministro per le finanze provvedera' affidandone l'incarico, da rinnovarsi anno per anno, ad ufficiali della Regia guardia di finanza e del Regio esercito ovvero a funzionari dell'Amministrazione finanziaria di gruppo A, in attivita' di servizio e di grado non inferiore al settimo, o a quanti abbiano titolo per l'insegnamento».
 
-### Art. 11
+## Art. 11
 
 I criteri di precedenza nei ruoli del grado di sottotenente e di quello di tenente, fra gruppi di ufficiali di pari anzianita', sono stabiliti dal regolamento, tenuto conto del risultato dei corsi allievi ufficiali e dei corsi di applicazione.
 
 Nel regolamennto sono stabilite del pari le norme per determinare l'anzianita' relativa degli allievi ufficiali nonche' dei sottotenenti che frequentano i corsi di applicazione, i quali, per cause varie, non abbiano potuto frequentare regolarmente i corsi e partecipare agli esami.
 
-### Art. 12
+## Art. 12
 
 L'8° comma dell'art. 1 del R. decreto-legge 21 gennaio 1929, n. 132, convertito nella legge 23 agosto 1929, n. 1728, e il 1° comma dell'art. 13 del R. decreto-legge 30 ottobre 1930, n. 1429, convertito nella legge 22 dicembre 1930, n. 1699, sono sostituiti dai seguenti:
 
@@ -164,7 +164,7 @@ La L. 4 agosto 1942, n. 915 ha disposto (con l'art. 15, comma 1) che le presenti
 
 ## Disposizioni transitorie e finali.
 
-### Art. 13
+## Art. 13
 
 Le disposizioni del R. decreto-legge 26 gennaio 1933, n. 135, convertito nella legge 5 giugno 1933, n. 816, riguardanti il reclutamento degli ufficiali in servizio permanente della Regia guardia di finanza, continuano ad avere vigore per i sottufficiali ammessi l'accademia di fanteria e cavalleria di Modena, in base alle dispozioni stesse, fino all'anno scolastico 1934-1935 e per gli ufficiali del Regio esercito e della Regia marina da trasferire nei ruoli del Corpo negli anni 1935 e 1936.
 
@@ -172,11 +172,11 @@ Le disposizioni che regolano l'istituzione e il funzionamento della scuola di ap
 
 I tenenti e sottotenenti, ai quali, nell'ultimo anno di funzionamento della scuola di applicazione per ufficiali, sia stata consentita la ripetizione del corso tecnico professionale, secondo le norme che regolano l'ordinamento della scuola stessa, potranno essere ammessi, con determinazione Ministeriale, alla frequenza del primo corso di applicazione di cui al precedente art. 8.
 
-### Art. 14
+## Art. 14
 
 E' data facolta' al Ministro per le finanze, per la prima applicazione del presente decreto, di emanare speciali norme esecutive nell'attesa della pubblicazione del regolamento.
 
-### Art. 15
+## Art. 15
 
 Il Governo del Re, previa deliberazione del Consiglio dei Ministri e udito il parere del Consiglio di Stato, e' autorizzato a pubblicare il testo unico delle leggi e dei decreti legislativi riguardanti l'ordinamento della Regia guardia di finanza, con facolta' di coordinare fra loro le varie disposizioni, di porle in armonia con le altre leggi e decreti legislativi e di apportarvi modificazioni di forma, di denominazione e di intitolazione rese indispensabili dalla riunione e dal coordinamento o necessarie per togliere togliere antinomie, duplicazioni e sovrapposizioni.
 

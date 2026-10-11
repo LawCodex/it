@@ -25,15 +25,15 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la convenzione sulla protezione del patrimonio culturale e naturale mondiale, firmata a Parigi il 23 novembre 1972.
 
-### Art. 2
+## Art. 2
 
 Piena ed intera esecuzione e' data alla convenzione di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 33 della convenzione stessa.
 
-### Art. 3
+## Art. 3
 
 All'onere derivante dalla attuazione della presente legge nell'anno finanziario 1976 valutato in L. 18.500.000, si provvede mediante riduzione del fondo speciale di cui al capitolo 6856 dello stato di previsione della spesa del Ministero del tesoro per l'anno medesimo.
 
@@ -55,7 +55,7 @@ Visto, il Guardasigilli: BONIFACIO
 
 ## Allegati
 
-### Convention
+## Convention
 
 CONVENTION POUR LA PROTECTION DU PATRIMOINE MONDIAL, CULTUREL ET NATUREL
 
@@ -89,7 +89,7 @@ Avendo deciso, nella sua sedicesima sessione, che questa questione sarebbe stata
 
 Adotta in data odierna, 16 novembre 1972, la presente Convenzione:
 
-### Articolo 1
+## Articolo 1
 
 Ai fini della presente Convenzione sono considerati "patrimonio culturale":
 
@@ -99,7 +99,7 @@ Ai fini della presente Convenzione sono considerati "patrimonio culturale":
 
 \- i siti: opere dell'uomo o creazioni congiunte dell'uomo e della natura, nonche' le zone ivi comprese le zone archeologiche di valore universale eccezionale dal punto di vista storico, estetico, etnologico o antropologico.
 
-### Articolo 2
+## Articolo 2
 
 Ai fini della presente Convenzione sono considerati "patrimonio naturale":
 
@@ -109,17 +109,17 @@ Ai fini della presente Convenzione sono considerati "patrimonio naturale":
 
 \- i siti naturali oppure le zone naturali rigorosamente delimitate, aventi valore universale eccezionale dal punto di vista della scienza, della conservazione o della bellezza naturale.
 
-### Articolo 3
+## Articolo 3
 
 Spetta a ciascuno Stato - parte della presente Convenzione - definire e delimitare i diversi beni, situati sul suo territorio e previsti dagli articoli 1 e 2 di cui sopra.
 
 ## II. - TUTELA NAZIONALE E TUTELA INTERNAZIONALE DEL PATRIMONIO CULTURALE E NATURALE
 
-### Articolo 4
+## Articolo 4
 
 Ogni Stato parte della presente Convenzione riconosce che l'obbligo di assicurare l'identificazione, la tutela, la conservazione, la valorizzazione e la trasmissione alle future generazioni del patrimonio culturale e naturale, menzionato negli articoli 1 e 2 e situato sul suo territorio, incombe in primo luogo su di lui. Si sforza di agire a tale scopo sia con le proprie forze, utilizzando al massimo le proprie risorse, sia, in caso di necessita', con l'aiuto e la cooperazione internazionali, in particolare sul piano finanziario, artistico, scientifico e tecnico, delle quali puo' beneficiare.
 
-### Articolo 5
+## Articolo 5
 
 Al fine di assicurare una tutela e una conservazione piu' efficaci e una valorizzazione piu' attiva possibile del patrimonio culturale e naturale, situato sul loro territorio e nelle condizioni adeguate a ciascun paese, gli Stati parti della presente Convenzione si adopereranno nella misura del possibile:
 
@@ -133,7 +133,7 @@ d) per adottare misure giuridiche, scientifiche, tecniche, amministrative e fina
 
 e) per favorire la creazione o lo sviluppo di centri nazionali o regionali di formazione nel campo della tutela, della conservazione e della valorizzazione del patrimonio culturale e naturale, nonche' per incoraggiare le ricerche scientifiche in questo campo.
 
-### Articolo 6
+## Articolo 6
 
 1\. Nel pieno rispetto della sovranita' degli Stati sul cui territorio si trova il patrimonio culturale e naturale, definito negli articoli 1 e 2, e senza pregiudizio dei diritti previsti dalla legislazione nazionale relativamente a detto patrimonio, gli Stati parti della presente Convenzione riconoscono che esso costituisce un patrimonio universale per la cui tutela ha il dovere di cooperare tutta la comunita' internazionale.
 
@@ -141,13 +141,13 @@ e) per favorire la creazione o lo sviluppo di centri nazionali o regionali di fo
 
 3\. Ogni Stato parte della presente Convenzione si impegna, a non adottare deliberatamente alcuna misura che possa direttamente o indirettamente arrecare danno al patrimonio culturale e naturale, menzionato negli articoli 1 e 2, situato nel territorio di altri Stati parti della presente Convenzione.
 
-### Articolo 7
+## Articolo 7
 
 Ai fini della presente Convenzione per tutela internazionale del patrimonio culturale e naturale mondiale si intende la costituzione di un sistema di cooperazione e assistenza internazionali miranti a favorire gli Stati parti della Convenzione nei loro sforzi per preservare e identificare tale patrimonio.
 
 ## III. - COMITATO INTERGOVERNATIVO PER LA TUTELA DEL PATRIMONIO CULTURALE E NATURALE MONDIALE
 
-### Articolo 8
+## Articolo 8
 
 1\. Presso l'Organizzazione delle Nazioni Unite per l'Educazione, la Scienza e la Cultura viene istituito un comitato intergovernativo per la tutela del patrimonio culturale e naturale di valore universale eccezionale, denominato "Comitato del patrimonio mondiale". Esso e' composto da quindici Stati parti della Convenzione eletti dagli Stati parti della Convenzione riuniti in assemblea generale nel corso delle sessioni ordinarie della Conferenza Generale dell'Organizzazione delle Nazioni Unite per l'Educazione, la Scienza e la Cultura. Il numero degli Stati membri del Comitato sara' portato a 21, a partire dalla sessione ordinaria della Conferenza Generale che si svolgera' dopo l'entrata in vigore della presente Convenzione per non meno di 40 Stati.
 
@@ -155,7 +155,7 @@ Ai fini della presente Convenzione per tutela internazionale del patrimonio cult
 
 3\. Alle riunioni del Comitato possono presenziare, con voto consultivo, un rappresentante del Centro Internazionale di Studi per la Conservazione e il Restauro dei Beni Culturali (Centro di Roma), un rappresentante del Consiglio Internazionale dei Monumenti e dei Siti (ICOMOS) e un rappresentante dell'Unione Internazionale per la Conservazione della Natura e delle sue Risorse (UICN), ai quali possono aggiungersi, su richiesta degli Stati parti della Convenzione riuniti in assemblea generale nel corso delle sessioni ordinarie della Conferenza Generale dell'Organizzazione delle Nazioni Unite per l'Educazione, la Scienza e la Cultura, rappresentanti di altre organizzazioni intergovernative o non governative con scopi analoghi.
 
-### Articolo 9
+## Articolo 9
 
 1\. Gli Stati membri del Comitato del patrimonio mondiale esercitano il loro mandato dalla fine della sessione ordinaria della Conferenza Generale, nel corso della quale sono stati eletti, fino al termine della terza sessione ordinaria successiva.
 
@@ -163,7 +163,7 @@ Ai fini della presente Convenzione per tutela internazionale del patrimonio cult
 
 3\. Gli Stati membri del Comitato scelgono come propri rappresentanti persone competenti nel campo del patrimonio culturale o naturale.
 
-### Articolo 10
+## Articolo 10
 
 1\. Il Comitato del patrimonio mondiale adotta il proprio regolamento.
 
@@ -171,7 +171,7 @@ Ai fini della presente Convenzione per tutela internazionale del patrimonio cult
 
 3\. Il Comitato puo' creare gli organi consultivi che ritiene necessari per l'assolvimento dei propri compiti.
 
-### Articolo 11
+## Articolo 11
 
 1\. Ogni Stato parte della presente Convenzione presenta al Comitato del patrimonio mondiale, nella misura del possibile, un elenco dei beni del patrimonio culturale e naturale, situati sul proprio territorio, che possono essere inclusi nell'elenco previsto al paragrafo 2 del presente articolo. Questo elenco, che non va considerato come esauriente, deve contenere una documentazione relativa al luogo in cui tali beni sono dislocati e all'interesse da essi rappresentato.
 
@@ -189,11 +189,11 @@ L'inserimento di un bene situato sul territorio, la cui sovranita' o giurisdizio
 
 7\. Il Comitato, in accordo con gli Stati interessati, coordina e incoraggia gli studi e le ricerche necessarie per la compilazione degli elenchi menzionati nei paragrafi 2 e 4 del presente articolo.
 
-### Articolo 12
+## Articolo 12
 
 Il fatto che un bene del patrimonio culturale o naturale non e' stato inserito in uno dei due elenchi menzionati nei paragrafi 2 e 4 dell'articolo 11, non significa in alcun modo che esso non ha un valore universale eccezionale per fini diversi da quelli che risultano dalla iscrizione su questi elenchi.
 
-### Articolo 13
+## Articolo 13
 
 1\. Il Comitato del patrimonio mondiale riceve ed esamina le domande di assistenza internazionale, formulate dagli Stati, parti della presente Convenzione, per quanto concerne i beni del patrimonio culturale e naturale situati nel loro territorio che sono inseriti o possono essere inseriti negli elenchi, menzionati nei paragrafi 2 e 4 dell'articolo 11. L'oggetto di tali domande puo' essere la protezione, la conservazione, la valorizzazione o la restaurazione di tali beni.
 
@@ -213,7 +213,7 @@ Ricerca i mezzi per aumentare tali risorse e adotta tutte le misure utili a tale
 
 8\. Le decisioni del Comitato sono adottate con la maggioranza dei due terzi dei membri presenti e votanti. Il quorum e' costituito dalla maggioranza dei membri del Comitato.
 
-### Articolo 14
+## Articolo 14
 
 1\. Il Comitato del patrimonio mondiale e' assistito da un Segretario nominato dal Direttore Generale delle Nazioni Unite per l'Educazione, la Scienza e la Cultura.
 
@@ -221,7 +221,7 @@ Ricerca i mezzi per aumentare tali risorse e adotta tutte le misure utili a tale
 
 ## IV. - FONDO PER LA PROTEZIONE DEL PATRIMONIO MONDIALE CULTURALE E NATURALE
 
-### Articolo 15
+## Articolo 15
 
 1\. E' istituito un fondo per la protezione del patrimonio mondiale culturale e naturale di valore universale eccezionale, denominato "Fondo del patrimonio mondiale".
 
@@ -247,7 +247,7 @@ e) ogni altra risorsa autorizzata dal regolamento che sara' elaborato dal Comita
 
 4\. I contributi al Fondo e le altre forme di assistenza, fornite al Comitato possono essere utilizzati solo agli scopi definiti dal Comitato. Esso puo' accettare contributi destinati a un programma particolare o a un progetto determinato, a condizione che sia il Comitato a decidere sull'esecuzione di tale programma o progetto. Il versamento di contributi al Fondo non puo' essere legato ad alcuna condizione politica.
 
-### Articolo 16
+## Articolo 16
 
 1\. Senza pregiudicare qualsiasi contributo volontario supplementare, gli Stati parti della presente Convenzione si impegnano a versare regolarmente al Fondo del patrimonio mondiale, ogni due anni, contributi il cui ammontare, calcolato secondo una percentuale uniforme per tutti gli Stati, verra' definito dall'Assemblea Generale degli Stati parti della Convenzione, riuniti durante le sessioni della Conferenza Generale della Organizzazione delle Nazioni Unite per l'Educazione, la Scienza e la Cultura. Tale decisione dell'Assemblea Generale richiede la maggioranza degli Stati parti presenti e votanti che non abbiano fatto la dichiarazione prevista al paragrafo 2 del presente articolo. In nessun caso il contributo obbligatorio degli Stati parti della Convenzione potra' superare l'1% del loro contributo al bilancio ordinario dell'Organizzazione delle Nazioni Unite per l'Educazione, la Scienza e la Cultura.
 
@@ -259,25 +259,25 @@ e) ogni altra risorsa autorizzata dal regolamento che sara' elaborato dal Comita
 
 5\. Qualsiasi Stato parte della Convenzione in ritardo sul pagamento dei propri contributi obbligatori o volontari per l'anno in corso e per l'anno civile immediatamente precedente, non e' eleggibile al Comitato del patrimonio mondiale; tale disposizione non si applica nel corso della prima elezione. Il mandato di un tale Stato, che e' gia' membro del Comitato, cessa al momento delle elezioni previste al paragrafo 1 dell'articolo 8 della presente Convenzione.
 
-### Articolo 17
+## Articolo 17
 
 Gli Stati parti della presente Convenzione favoriscono la costituzione di fondazioni o associazioni nazionali pubbliche o private aventi lo scopo di incoraggiare donazioni in favore della protezione del patrimonio culturale e naturale definito negli articoli 1 e 2 della presente Convenzione.
 
-### Articolo 18
+## Articolo 18
 
 Gli Stati parti della presente Convenzione danno la propria assistenza alle campagne internazionali di raccolta di fondi per il Fondo del patrimonio mondiale sotto gli auspici dell'Organizzazione delle Nazioni Unite per l'Educazione, la Scienza e la Cultura. Essi favoriscono la raccolta di fondi effettuata a tali fini dalle organizzazioni menzionate al paragrafo 3 dell'articolo 15.
 
 ## V. - CONDIZIONI E MODALITA' DELL'ASSISTENZA INTERNAZIONALE
 
-### Articolo 19
+## Articolo 19
 
 Ogni Stato parte della presente Convenzione puo' chiedere l'assistenza internazionale in favore di beni del patrimonio culturale o naturale di valore universale eccezionale situati sul proprio territorio. Esso dovra' presentare insieme alla propria domanda gli elementi di informazione e la documentazione, prevista all'articolo 21, di cui dispone e che sono necessari al Comitato per prendere una decisione.
 
-### Articolo 20
+## Articolo 20
 
 L'assistenza internazionale prevista dalla presente Convenzione puo' essere accordata solo per i beni del patrimonio culturale e naturale che il Comitato del patrimonio mondiale ha deciso o decide di far figurare in uno degli elenchi, menzionati nei paragrafi 2 e 4 dell'articolo 11, salve le disposizioni del paragrafo 2 dell'articolo 13, della lettera c) dell'articolo 22 e dell'articolo 23.
 
-### Articolo 21
+## Articolo 21
 
 1\. Il Comitato del patrimonio mondiale determina la procedura di esame delle domande di assistenza internazionale che e' chiamato a prestare e indica, in particolare, quali elementi devono figurare nella domanda che dovra' contenere la descrizione dell'operazione prevista, i lavori necessari, una valutazione del loro costo, la loro urgenza e i motivi per cui le risorse dello Stato richiedente non gli consentono di far fronte alla totalita' delle spese. Le domande dovranno, ogni volta che e' possibile, essere appoggiate dal parere di esperti.
 
@@ -285,7 +285,7 @@ L'assistenza internazionale prevista dalla presente Convenzione puo' essere acco
 
 3\. Prima di prendere una decisione il Comitato svolge le ricerche e le consultazioni che ritiene necessarie.
 
-### Articolo 22
+## Articolo 22
 
 L'assistenza accordata dal Comitato del patrimonio mondiale puo' avere le seguenti forme:
 
@@ -301,37 +301,37 @@ e) concessione di prestiti ad interessi ridotti o senza interessi, o che possano
 
 f) concessione, in casi eccezionali e appositamente motivati, di sovvenzioni non rimborsabili.
 
-### Articolo 23
+## Articolo 23
 
 Il Comitato del patrimonio mondiale puo' ugualmente fornire assistenza internazionale ai centri nazionali o regionali per la formazione di specialisti a tutti i livelli nel campo dell'identificazione, della tutela, della conservazione, del restauro e della valorizzazione del patrimonio culturale e naturale.
 
-### Articolo 24
+## Articolo 24
 
 Un'assistenza internazionale molto importante potra' essere accordata solo dopo dettagliate ricerche scientifiche, economiche e tecniche. Tali ricerche dovranno far uso dei metodi piu' avanzati di protezione, conservazione, restauro e valorizzazione del patrimonio culturale e naturale e dovranno corrispondere agli scopi della presente Convenzione. Le ricerche dovranno inoltre definire i mezzi che consentono di impiegare razionalmente le risorse disponibili dello Stato interessato.
 
-### Articolo 25
+## Articolo 25
 
 Il finanziamento dei lavori necessari deve, in linea di principio, incombere solo parzialmente sulla comunita' internazionale. La partecipazione finanziaria dello Stato che beneficia dell'assistenza internazionale devo costituire una parte sostanziale delle risorse destinate a ciascun programma o progetto a meno che le proprie risorse non glielo consentano.
 
-### Articolo 26
+## Articolo 26
 
 Il Comitato del patrimonio mondiale e lo Stato beneficiario definiscono nell'accordo che viene da essi concluso le condizioni alle quali va eseguito il programma o progetto per il quale e' fornita assistenza internazionale conformemente alla presente Convenzione. Lo Stato che beneficia di tale assistenza internazionale deve continuare a proteggere, conservare e valorizzare i beni cosi' tutelati, conformemente alle condizioni definite nell'accordo.
 
 ## VI. - PROGRAMMI EDUCATIVI
 
-### Articolo 27
+## Articolo 27
 
 1\. Gli Stati parti della presente Convenzione faranno ogni sforzo, con tutti i mezzi appropriati e in particolare mediante programmi di educazione e di informazione, per rafforzare il rispetto e il legame dei propri popoli verso il patrimonio culturale e naturale, definito negli articoli 1 e 2 della Convenzione.
 
 2\. Essi si impegnano ad informare ampiamente il pubblico dei pericoli che minacciano tale patrimonio, nonche' delle attivita' intraprese in applicazione della presente Convenzione.
 
-### Articolo 28
+## Articolo 28
 
 Gli Stati parti della presente Convenzione che fruiscono dell'assistenza internazionale in applicazione della presente Convenzione, adottano le misure necessarie per far conoscere l'importanza dei beni che sono stati oggetto di tale assistenza e il ruolo esercitato da quest'ultima.
 
 ## VII. - RELAZIONI
 
-### Articolo 29
+## Articolo 29
 
 1\. Gli Stati parti della presente Convenzione indicheranno nelle relazioni che verranno presentate all'Assemblea Generale dell'Organizzazione delle Nazioni Unite per l'Educazione, la Scienza e la natura, nei termini e inclina le disposizioni legislative e irregolamentari e le altre misure da essi adottate per l'applicazione della Convenzione, nonche' l'esperienza da essi acquisita di questo campo.
 
@@ -341,27 +341,27 @@ Gli Stati parti della presente Convenzione che fruiscono dell'assistenza interna
 
 ## VIII. - CLAUSOLE FINALI
 
-### Articolo 30
+## Articolo 30
 
 La presente Convenzione viene redatta in inglese, arabo, spagnolo, francese e russo, i cinque testi facenti ugualmente fede.
 
-### Articolo 31
+## Articolo 31
 
 1\. La presente Convenzione e' soggetta alla ratifica o alla accettazione da parte degli Stati membri della Organizzazione delle Nazioni Unite per l'Educazione, la Scienza e la Cultura conformemente dalla procedura prevista dalle rispettive costituzioni.
 
 2\. Gli strumenti di ratifica o di accettazione saranno depositati presso il Direttore Generale dell'Organizzazione delle Nazioni Unite per l'Educazione, la Scienza e la Cultura.
 
-### Articolo 32
+## Articolo 32
 
 1\. La presente Convenzione e' aperta all'adesione di ogni Stato, che non sia membro dell'Organizzazione delle Nazioni Unite per l'Educazione, la Scienza e la Cultura, invitato ad aderirvi dalla Conferenza Generale dell'Organizzazione.
 
 2\. L'adesione viene effettuata mediante il deposito di uno strumento di adesione presso il Direttore Generale dell'Organizzazione delle Nazioni Unite per l'Edizione la Scienza e la Cultura.
 
-### Articolo 33
+## Articolo 33
 
 La presente Convenzione entrera' in vigore tre mesi dopo la data di deposito del ventesimo strumento di ratifica, di accettazione o di adesione, ma unicamente nei confronti di quegli Stati che avranno depositato i loro strumenti di ratifica, accettazione o adesione in tale data o in precedenza. Nei riguardi di qualsiasi altro Stato la Convenzione entrera' in vigore tre mesi dopo il deposito del rispettivo strumento di ratifica, accettazione o adesione.
 
-### Articolo 34
+## Articolo 34
 
 Le seguenti disposizioni si applicheranno agli Stati parti della presente Convenzione aventi un sistema costituzionale federale o non unitario:
 
@@ -369,7 +369,7 @@ a) per quanto concerne le disposizioni della presente Convenzione, la cui applic
 
 b) per quanto riguarda le disposizioni della presente Convenzione, la cui applicazione rientra nell'attivita' legislativa di ciascuno degli Stati, Paesi, Province o Cantoni che non sono obbligati dal sistema costituzionale della federazione ad adottare misure legislative, il Governo Federale informera' di dette disposizioni le autorita' competenti degli Stati, Paesi, Province o Cantoni con la propria raccomandazione per la loro adozione.
 
-### Articolo 35
+## Articolo 35
 
 1\. Ogni Stato parte della presente Convenzione ha la facolta' di denunciare la Convenzione.
 
@@ -377,17 +377,17 @@ b) per quanto riguarda le disposizioni della presente Convenzione, la cui applic
 
 3\. La denuncia prendera' effetto dodici mesi dopo la ricezione dell'atto di denuncia. Essa non modifichera' in alcun modo gli impegni finanziari assunti dallo Stato denunciante fino alla data in cui la denuncia avra' effetto.
 
-### Articolo 36
+## Articolo 36
 
 Il Direttore Generale dell'Organizzazione delle Nazioni Unite per l'Educazione, la Scienza e la Cultura informera' gli Stati membri dell'Organizzazione, gli Stati non membri, previsti nell'articolo 32, e l'Organizzazione delle Nazioni Unite, del deposito di tutti gli strumenti di ratifica, accettazione o adesione, menzionati negli articoli 31 e 32, nonche', delle denunce previste nell'articolo 35.
 
-### Articolo 37
+## Articolo 37
 
 1\. La presente Convenzione puo' essere revisionata dalla Conferenza Generale dell'Organizzazione delle Nazioni Unite per l'Educazione, la Scienza e la Cultura. Pertanto il suo testo riveduto impegnera' solo quegli Stati che diventeranno parte della Convenzione revisionata.
 
 2\. Nel caso in cui la Conferenza Generale adotti una nuova Convenzione che costituisca una revisione totale o parziale della presente e a meno che la nuova Convenzione non disponga altrimenti, la presente Convenzione cessera' di essere aperta alla ratifica, accettazione o adesione a partire dalla data di entrata in vigore della nuova Convenzione che contiene il testo revisionato.
 
-### Articolo 38
+## Articolo 38
 
 Conformemente all'articolo 102 della Carta dell'Organizzazione delle Nazioni Unite, la presente Convenzione sara' registrata presso il Segretariato delle Nazioni Unite su richiesta del Direttore Generale dell'Organizzazione delle Nazioni Unite per l'Educazione, la Scienza e la Cultura.
 

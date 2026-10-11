@@ -84,7 +84,7 @@ Il patrimonio netto del Monte-pensioni e' ripartito:
 
 3\) in un fondo di utili da costituirsi a vantaggio degli insegnanti iscritti al Monte, quando sia raggiunto il limite massimo della riserva di garanzia.
 
-## CAPO II. - Iscrizione al Monte-pensioni.
+### CAPO II. - Iscrizione al Monte-pensioni.
 
 #### Art. 6
 
@@ -126,7 +126,7 @@ b) dal 1° gennaio 1927-V, gli insegnanti muniti di diploma di abilitazione all'
 
 c) dal primo giorno del settimo mese successivo a quello della presentazione ai Regi Provveditorati agli studi della domanda di iscrizione al Monte-pensioni, gli insegnanti in servizio al 1° luglio 1926-IV presso Comuni con regolamento speciale di pensione.
 
-## CAPO III. - Contributi dovuti al Monte-pensioni.
+### CAPO III. - Contributi dovuti al Monte-pensioni.
 
 #### Art. 8
 
@@ -196,7 +196,7 @@ Il capitale per tal modo costituito verra' pagato al titolare del conto individu
 
 Il titolare al quale venga conferita una pensione puo' chiedere che il capitale costituito con i depositi volontari o parte di esso, sia trasformato, mediante l'applicazione della tabella B annessa al presente Ordinamento, in assegno vitalizio supplementare, esente dalla ritenuta di cui al successivo articolo 21 e non riversibile alla vedova o agli orfani
 
-## CAPO IV. - Riscossione dei contributi e ricorsi.
+### CAPO IV. - Riscossione dei contributi e ricorsi.
 
 #### Art. 18
 
@@ -276,7 +276,7 @@ La L. 11 aprile 1955, n. 379, ha disposto (con l'art. 32, comma 2) che la ritenu
 
 Ha inoltre disposto (con l'art. 50, comma 1) che la presente modifica ha effetto dal 31 dicembre 1953.
 
-## CAPO V. - Impiego dei fondi del Monte-pensioni.
+### CAPO V. - Impiego dei fondi del Monte-pensioni.
 
 #### Art. 25
 
@@ -368,7 +368,7 @@ Le maggiorazioni di cui sopra alle lettere a) e b) si valutano con applicazione 
 
 Le maggiorazioni di cui alla lettera a) non si applicano ai servizi prestati fuori ruolo ed a quelli riscattati o valutati agli effetti del Monte-pensioni con pagamento facoltativo di contributi ad esclusivo carico degli insegnanti.
 
-## CAPO II - Acquisto e perdita del diritto a indennita' o a pensione.
+### CAPO II - Acquisto e perdita del diritto a indennita' o a pensione.
 
 #### Art. 35
 
@@ -614,7 +614,7 @@ La pensione complessiva non puo' mai essere inferiore al limite minimo ne' super
 
 Gli altri Istituti di previdenza sui quali gravi l'onere di quote di indennita' o di pensioni dirette e indirette versano, all'atto di ciascuna liquidazione, all'Istituto che provvede alla liquidazione stessa, le rispettive quote di indennita' o il valore capitale corrispondente alle quote di pensione relative ai soli servizi prestati con iscrizione agli Istituti medesimi, valutato in base ad apposite tabelle approvate con decreto del Ministro per le finanze.
 
-## CAPO IV. - Procedimento di liquidazione e pagamento degli assegni
+### CAPO IV. - Procedimento di liquidazione e pagamento degli assegni
 
 #### Art. 61
 
@@ -702,9 +702,7 @@ Il provvedimento di cessazione che sia adottato posteriormente alla data del pas
 
 Nel caso previsto dalla lettera b) del precedente articolo 36, quando l'insegnante chieda la visita medica dopo la cessazione dal servizio, la pensione decorre dalla data di presentazione della relativa domanda al Regio Provveditorato agli studi o alla Direzione generale della Cassa depositi e prestiti e degli Istituti di previdenza.
 
-## CAPO V. - Riassunzione in servizio dell'iscritto che abbia gia' conseguito
-
-### indennita' o pensione.
+### CAPO V. - Riassunzione in servizio dell'iscritto che abbia gia' conseguito indennita' o pensione.
 
 #### Art. 69
 
@@ -766,7 +764,7 @@ Il registro generale ed il fascicolo personale di ciascuno degli insegnanti dell
 
 Ogni insegnante iscritto al Monte-pensioni e' munito, a cura della Direzione generale della Cassa depositi e prestiti e degli Istituti di previdenza, di un libretto o stato di servizio, nel quale l'interessato deve indicare tutte le notizie relative ai servizi didattici prestati.
 
-## CAPO II - Riscatti.
+### CAPO II - Riscatti.
 
 #### Art. 76
 
@@ -1048,13 +1046,13 @@ Ai Comuni che hanno conservato fino al 31 dicembre 1933-XII la diretta amministr
 
 Al personale insegnante e direttivo delle scuole gestite dall'«Opera nazionale di assistenza all'Italia redenta» si applicano le norme del presente Ordinamento.
 
-## CAPO II. - Disposizioni speciali.
+### CAPO II. - Disposizioni speciali.
 
 #### Art. 115
 
 Il Governatorato di Roma, esercita tutte le funzioni e provvede a tutti i servizi che sono di competenza del Comune secondo il presente Ordinamento.
 
-## CAPO III. - Disposizioni finali.
+### CAPO III. - Disposizioni finali.
 
 #### Art. 116
 
@@ -1104,7 +1102,7 @@ Visto:
 
 MUSSOLINI
 
-## CAPO III. - Disposizioni finali.
+### CAPO III. - Disposizioni finali.
 
 #### Tabelle
 

@@ -27,21 +27,21 @@ Promulga
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo di stabilizzazione e di associazione tra le Comunita' europee ed i loro Stati membri da una parte, e la ex Repubblica jugoslava di macedonia dall'altra, con Allegati, cinque Protocolli, atto finale e dichiarazioni, fatto a Lussemburgo il 9 aprile 2001.
 
-##### Art. 2
+#### Art. 2
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 127 dell'Accordo stesso.
 
-##### Art. 3
+#### Art. 3
 
 1\. Per l'attuazione della presente legge e' autorizzata la spesa di 9.685 euro annui a decorrere dal 2003. Al relativo onere si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2003-2005, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2003, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri.
 
 2\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 4
+#### Art. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -133,7 +133,7 @@ CONSIDERANDO la disponibilita' dell'Unione europea ad integrare il piu' possibil
 
 HANNO CONVENUTO QUANTO SEGUE:
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 1\. E' istituita un'associazione tra la Comunita' e i suoi Stati membri, da una parte, e la ex Repubblica jugoslava di Macedonia, dall'altra,
 
@@ -149,19 +149,19 @@ HANNO CONVENUTO QUANTO SEGUE:
 
 ## TITOLO I - PRINCIPI GENERALI
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 La politica interna ed estera delle Parti si ispira al rispetto dei principi democratici e dei diritti umani proclamati nella Dichiarazione universale dei diritti dell'uomo e sanciti dall'Atto finale di Helsinki e dalla Carta di Parigi per una nuova Europa, dei principi del diritto internazionale e allo Stato di diritto, nonche' dei principi dell'economia di mercato di cui al documento della conferenza CSCE di Bonn sulla cooperazione economica, che costituiscono parte integrante del presente accordo.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 La pace e la stabilita' a livello internazionale e regionale e lo sviluppo di relazioni di buon vicinato sono un elemento fondamentale del processo di stabilizzazione e di associazione. La conclusione e l'attuazione del presente accordo rientrano nell'ambito dell'impostazione regionale della Comunita' definita nelle conclusioni del Consiglio del 29 aprile 1997, basata sui meriti dei singoli paesi della regione.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 La ex Repubblica jugoslava di Macedonia si impegna ad avviare la cooperazione e ad instaurare relazioni di buon vicinato con gli altri paesi della regione, anche attraverso un adeguato livello di concessioni reciproche in materia di circolazione delle persone, delle merci, dei capitali e dei servizi, nonche' lo sviluppo di progetti d'interesse comune. Tale impegno e' essenziale per lo sviluppo delle relazioni della cooperazione tra le Parti e contribuisce pertanto alla stabilita' regionale.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 1\. L'associazione verra' realizzata completamente durante un periodo transitorio della durata massima di dieci anni diviso in due fasi successive. La suddivisione in due fasi consentira' di applicare gradualmente le disposizioni dell'accordo di stabilizzazione e di associazione e di concentrarsi, durante la prima fase, sui settori descritti in appresso ai titoli III, V, VI e VII.
 
@@ -171,13 +171,13 @@ La ex Repubblica jugoslava di Macedonia si impegna ad avviare la cooperazione e 
 
 4\. Le due fasi previste nei paragrafi 1 e 3 non si applicano al Titolo IV.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 L'accordo e' pienamente compatibile con le disposizioni pertinenti dell'OMC, in particolare l'articolo XXIV del GATT 1994 e l'articolo V del GATS.
 
 ## TITOLO II - DIALOGO POLITICO
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 Viene sviluppato e intensificato ulteriormente il dialogo politico tra le Parti, che accompagnera' e consolidera' il ravvicinamento tra l'Unione europea e la ex Repubblica jugoslava di Macedonia, e contribuira' ad instaurare stretti legami di solidarieta' e nuove forme di cooperazione tra le Parti.
 
@@ -189,11 +189,11 @@ Il dialogo politico favorisce in particolare:
 
 \- una comunanza di vedute sulla sicurezza e sulla stabilita' in Europa, anche nei settori contemplati dalla politica estera e di sicurezza comune dell'Unione europea.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 Il dialogo politico puo' svolgersi a livello multilaterale, nonche' a livello regionale con altri paesi della regione.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 1\. A livello ministeriale, il dialogo politico bilaterale avviene nell'ambito del consiglio di stabilizzazione e di associazione, cui spetta la responsabilita' generale di tutte le questioni che le Parti ritengono utile sottoporgli.
 
@@ -205,19 +205,19 @@ Il dialogo politico puo' svolgersi a livello multilaterale, nonche' a livello re
 
 \- con qualsiasi altro mezzo che possa contribuire a consolidare, sviluppare e intensificare tale dialogo.
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 A livello parlamentare, il dialogo politico si svolge nell'ambito del comitato parlamentare di stabilizzazione e di associazione istituito a norma dell'articolo 114.
 
 ## TITOLO III - COOPERAZIONE REGIONALE
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 Conformemente all'impegno assunto nei confronti della pace e della stabilita' e dello sviluppo di relazioni di buon vicinato, la ex Repubblica jugoslava di Macedonia promuove attivamente la cooperazione regionale. La Comunita' sostiene altresi' progetti aventi una dimensione regionale o transfrontaliera attraverso i suoi programmi di assistenza tecnica.
 
 Ogniqualvolta la ex Repubblica jugoslava di Macedonia preveda di potenziare la cooperazione con uno dei paesi di cui agli articoli 12-14, informa e consulta al riguardo la Comunita' e gli Stati membri conformemente alle disposizioni del titolo X.
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 Cooperazione con altri paesi che hanno firmato un accordo di stabilizzazione e di associazione
 
@@ -237,13 +237,13 @@ All'occorrenza la convenzione contiene disposizioni per l'istituzione dei necess
 
 La convenzione sulla cooperazione regionale deve essere conclusa entro due anni dall'entrata in vigore quanto meno del secondo accordo di stabilizzazione e di associazione. La disponibilita' della ex Repubblica jugoslava di Macedonia a concludere una siffatta convenzione costituisce un presupposto per l'ulteriore sviluppo delle sue relazioni con l'UE.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 Cooperazione con altri paesi interessati dal processo di stabilizzazione e di associazione
 
 La ex Repubblica jugoslava di Macedonia si impegna ad avviare la cooperazione regionale con gli altri paesi interessati dal processo di stabilizzazione e di associazione in alcuni o in tutti i settori di cooperazione contemplati dal presente accordo, segnatamente in quelli di interesse comune. Tale cooperazione deve essere conforme ai principi e agli obiettivi del presente accordo.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 Cooperazione con i paesi candidati all'adesione all'UE
 
@@ -251,7 +251,7 @@ La ex Repubblica jugoslava di Macedonia puo' promuovere lo sviluppo della cooper
 
 ## TITOLO IV - LIBERA CIRCOLAZIONE DELLE MERCI
 
-##### ARTICOLO 15
+#### ARTICOLO 15
 
 1\. Nel corso di un periodo transitorio della durata massima di dieci anni a decorrere dall'entrata in vigore del presente accordo, la Comunita' e la ex Repubblica jugoslava di Macedonia istituiscono progressivamente una zona di libero scambio, secondo le disposizioni del presente accordo e in base a GATT 1994 e dell'OMC. Esse tengono conto dei requisiti specifici elencati qui di seguito.
 
@@ -263,9 +263,9 @@ La ex Repubblica jugoslava di Macedonia puo' promuovere lo sviluppo della cooper
 
 5\. La Comunita' e la ex Repubblica jugoslava di Macedonia si comunicano a vicenda i rispettivi dazi di base.
 
-## CAPITOLO I - PRODOTTI INDUSTRIALI
+### CAPITOLO I - PRODOTTI INDUSTRIALI
 
-##### ARTICOLO 16
+#### ARTICOLO 16
 
 1\. Le disposizioni del presente capitolo si applicano ai prodotti originari della Comunita' o della ex Repubblica jugoslava di Macedonia elencati nei capitoli 25-97 della nomenclatura combinata, fatta eccezione per i prodotti elencati nell'allegato I, paragrafo I, punto ii) dell'accordo in materia di agricoltura (GATT 1994).
 
@@ -273,13 +273,13 @@ La ex Repubblica jugoslava di Macedonia puo' promuovere lo sviluppo della cooper
 
 3\. Gli scambi tra le Parti dei prodotti contemplati dal trattato che istituisce la Comunita' europea dell'energia atomica avvengono in base alle disposizioni di detto trattato.
 
-##### ARTICOLO 17
+#### ARTICOLO 17
 
 1\. I dazi doganali applicabili alle importazioni nella Comunita' di prodotti originari della ex Repubblica jugoslava di Macedonia sono aboliti all'entrata in vigore del presente accordo.
 
 2\. Le restrizioni quantitative sulle importazioni nella Comunita' e le misure d'effetto equivalente relative ai prodotti originari della ex Repubblica jugoslava di Macedonia sono abolite alla data di entrata in vigore del presente accordo.
 
-##### ARTICOLO 18
+#### ARTICOLO 18
 
 1\. I dazi doganali applicabili alle importazioni nella ex Repubblica jugoslava di Macedonia di merci originarie della Comunita' diverse da quelle elencate negli allegati I e II sono aboliti all'entrata in vigore del presente accordo.
 
@@ -309,33 +309,33 @@ La ex Repubblica jugoslava di Macedonia puo' promuovere lo sviluppo della cooper
 
 4\. Le restrizioni quantitative sulle importazioni nella ex Repubblica jugoslava di Macedonia di merci originarie della Comunita' e le misure di effetto equivalente sono abolite alla data di entrata in vigore del presente accordo.
 
-##### ARTICOLO 19
+#### ARTICOLO 19
 
 A decorrere dall'entrata in vigore del presente accordo, la Comunita' e la ex Repubblica jugoslava di Macedonia aboliscono, nei loro scambi, tutti gli oneri di effetto equivalente a dazi doganali sulle importazioni.
 
-##### ARTICOLO 20
+#### ARTICOLO 20
 
 1\. A decorrere dall'entrata in vigore del presente accordo, la Comunita' e la ex Repubblica jugoslava di Macedonia aboliscono i dazi doganali all'esportazione e gli oneri di effetto equivalente.
 
 2\. A decorrere dall'entrata in vigore del presente accordo, la Comunita' e la ex Repubblica jugoslava di Macedonia aboliscono reciprocamente tutte le restrizioni quantitative all'esportazione e tutte le misure di effetto equivalente.
 
-##### ARTICOLO 21
+#### ARTICOLO 21
 
 La ex Repubblica jugoslava di Macedonia si dichiara disposta a ridurre i suoi dazi doganali nei confronti della Comunita' piu' rapidamente di quanto previsto all'articolo 18 qualora le sue condizioni economiche generali e la situazione del settore economico interessato lo consentano.
 
 Il consiglio di stabilizzazione e di associazione puo' formulare raccomandazioni in tal senso.
 
-##### ARTICOLO 22
+#### ARTICOLO 22
 
 Il protocollo n. 1 determina il regime applicabile ai prodotti tessili in esso indicati.
 
-##### ARTICOLO 23
+#### ARTICOLO 23
 
 Il protocollo a 2 determina il regime applicabile ai prodotti siderurgici in esso indicati.
 
-## CAPITOLO II - AGRICOLTURA E PESCA
+### CAPITOLO II - AGRICOLTURA E PESCA
 
-##### ARTICOLO 24
+#### ARTICOLO 24
 
 Definizione
 
@@ -349,17 +349,17 @@ Definizione
 
 (1) Ex 1902 20: "Paste alimentari farcite contenenti, in peso, piu' di 20% di pesce, di crostacei, di molluschi o di altri invertebrati acquatici".
 
-##### ARTICOLO 25
+#### ARTICOLO 25
 
 Il protocollo n. 3 specifica le condizioni applicabili agli scambi dei prodotti agricoli trasformati in esso elencati.
 
-##### ARTICOLO 26
+#### ARTICOLO 26
 
 1\. Alla data di entrata in vigore del presente accordo, la Comunita' abolisce tutte le restrizioni quantitative sulle importazioni di prodotti agricoli e della pesca originati della ex Repubblica jugoslava di Macedonia e le misure d'effetto equivalente.
 
 2\. Alla data di entrata in vigore del presente accordo, la ex Repubblica jugoslava di Macedonia abolisce tutte le restrizioni quantitative sulle importazioni di prodotti agricoli e della pesca originati della Comunita' e le misure d'effetto equivalente.
 
-##### ARTICOLO 27
+#### ARTICOLO 27
 
 Prodotti agricoli
 
@@ -379,7 +379,7 @@ c) riduce progressivamente i dazi doganali applicabili alle importazioni di dete
 
 4\. Le disposizioni commerciali applicabili ai prodotti vinicoli sono definite in un accordo distinto sui vini e sulle acquaviti.
 
-##### ARTICOLO 28
+#### ARTICOLO 28
 
 Prodotti della pesca
 
@@ -389,23 +389,23 @@ Prodotti della pesca
 
 Le disposizioni del presente paragrafo non si applicano ai prodotti elencati all'allegato V b), che sono soggetti alle riduzioni tariffarie in esso indicate.
 
-##### ARTICOLO 29
+#### ARTICOLO 29
 
 1\. Tenuto conto del volume dei loro scambi di prodotti agricoli e della pesca, della sensibilita' specifica di questi, delle norme della politica comune della Comunita' nei settori agricolo e della pesca, delle norme delle politiche agricole della ex Repubblica jugoslava di Macedonia, del ruolo dell'agricoltura nell'economia della ex Repubblica jugoslava di Macedonia, del potenziale di produzione ed esportazione dei suoi settori e mercati tradizionali e delle conseguenze dei negoziati commerciali multilaterali nell'ambito dell'OMC, entro il 1° gennaio 2003 la Comunita' e la ex Repubblica jugoslava di Macedonia esaminano in sede di Consiglio di stabilizzazione e di associazione, prodotto per prodotto e su un'adeguata e regolare base reciproca, la possibilita' di farsi a vicenda ulteriori concessioni per procedere a una maggiore liberalizzazione degli scambi di prodotti agricoli e della pesca.
 
 2\. Le disposizioni del presente capitolo non impediscono in alcun modo alle Parti di applicare unilateralmente misure piu' favorevoli.
 
-##### ARTICOLO 30
+#### ARTICOLO 30
 
 Fatte salve le altre disposizioni del presente accordo e in particolare l'articolo 37, qualora, dato il carattere particolarmente sensibile dei mercati agricoli e ittici, le importazioni di prodotti originari di una delle due Parti soggette alle concessioni riconosciute ai sensi degli articoli 25, 27 e 28 provochino gravi perturbazioni sui mercati o ai dispositivi regolamentari interni della controparte, le due Parti avviano immediatamente consultazioni per trovare una soluzione adeguata. In attesa di tale soluzione, la Parte interessata puo' adottare le misure che ritiene necessarie.
 
-## CAPITOLO III - DISPOSIZIONI COMUNI
+### CAPITOLO III - DISPOSIZIONI COMUNI
 
-##### ARTICOLO 31
+#### ARTICOLO 31
 
 Le disposizioni del presente capitolo si applicano agli scambi tra le Parti di tutti i prodotti, salvo quanto altrimenti disposto nel presente capitolo o nei protocolli a 1, 2 e 3.
 
-##### ARTICOLO 32
+#### ARTICOLO 32
 
 Standstill
 
@@ -415,7 +415,7 @@ Standstill
 
 3\. Fatte salve le concessioni riconosciute a norma dell'articolo 26, le disposizioni dei paragrafi 1 e 2 del presente articolo non limitano in alcun modo il perseguimento delle rispettive politiche agrarie da parte della ex Repubblica jugoslava di Macedonia e della Comunita' o l'adozione di misure nel quadro di tali politiche, purche' rimanga inalterato il regime d'importazione di cui agli allegati III, IV a, IV b, IV c, V a, V b.
 
-##### ARTICOLO 33
+#### ARTICOLO 33
 
 Divieto di discriminazione fiscale
 
@@ -423,11 +423,11 @@ Divieto di discriminazione fiscale
 
 2\. I prodotti esportati nel territorio di una delle Parti non possono beneficiare di un rimborso delle imposte indirette interne superiore all'ammontare delle imposte dirette o indirette cui sono stati soggetti.
 
-##### ARTICOLO 34
+#### ARTICOLO 34
 
 Le disposizioni relative all'abolizione dai dazi doganali sulle importazioni si applicano anche ai dazi doganali di carattere fiscale.
 
-##### ARTICOLO 35
+#### ARTICOLO 35
 
 Unioni doganali, zone di libero scambio, intese transfrontaliere
 
@@ -437,7 +437,7 @@ Unioni doganali, zone di libero scambio, intese transfrontaliere
 
 3\. Nell'ambito del consiglio di stabilizzazione e di associazione le Parti procedono a consultazioni in merito agli accordi di cui ai paragrafi 1 e 2 e, se del caso, in merito ad altre importanti questioni relative alle rispettive politiche commerciali nei confronti dei paesi terzi. In particolare nel caso in cui un paese terzo entri a far parte della Comunita', si tengono consultazioni di questo tipo per tener conto dei reciproci interessi della Comunita' e della ex Repubblica jugoslava di Macedonia sanciti nel presente accordo.
 
-##### ARTICOLO 36
+#### ARTICOLO 36
 
 Dumping
 
@@ -445,7 +445,7 @@ Dumping
 
 2\. Per quanto riguarda il paragrafo 1, il consiglio di stabilizzazione e di associazione e' informato del caso di dumping non appena le autorita' della Parte importatrice hanno avviato l'indagine. Qualora non si sia posta fine al dumping, ai sensi dell'articolo VI del GATT, o non si sia trovata altra soluzione soddisfacente entro 30 giorni da quando la questione e' stata sottoposta al consiglio di stabilizzazione e di associazione, la Parte importatrice puo' adottare le misure del caso.
 
-##### ARTICOLO 37
+#### ARTICOLO 37
 
 Clausole di salvaguardia generale
 
@@ -471,7 +471,7 @@ b) Qualora circostanze eccezionali e critiche che richiedono un intervento immed
 
 6\. Qualora la Comunita' o la ex Repubblica jugoslava di Macedonia assoggettino le importazioni di prodotti tali da provocare le difficolta' di cui al presente articolo a una procedura amministrativa volta a fornire tempestive informazioni sull'andamento dei flussi commerciali, esse ne informano l'altra Parte.
 
-##### ARTICOLO 38
+#### ARTICOLO 38
 
 Clausola di penuria
 
@@ -489,39 +489,37 @@ b) una riesportazione verso un paese terzo di un prodotto al quale la Parte espo
 
 5\. Tutte le misure applicate ai sensi del presente articolo vengono immediatamente notificate al comitato di stabilizzazione e di associazione e sono oggetto di consultazioni periodiche nell'ambito di tale organismo, in particolare al fine di determinare un calendario per la loro abolizione non appena le circostanze lo consentano.
 
-##### ARTICOLO 39
+#### ARTICOLO 39
 
 Monopoli di Stato
 
 La ex Repubblica jugoslava di Macedonia procede ad un progressivo riordinamento dei monopoli nazionali che presentano in carattere commerciale in modo che, entro la fine del quinto anno successivo all'entrata in vigore del presente accordo, venga esclusa qualsiasi discriminazione fra i cittadini degli Stati membri e quelli della ex Repubblica jugoslava di Macedonia per quanto riguarda le condizioni relative all'approvvigionamento e agli sbocchi. Il consiglio di stabilizzazione e di associazione e' informato delle misure adottate a tal fine.
 
-##### ARTICOLO 40
+#### ARTICOLO 40
 
 Il protocollo n. 4 stabilisce le norme di origine per l'applicazione delle preferenze tariffarie previste nel presente accordo.
 
-##### ARTICOLO 41
+#### ARTICOLO 41
 
 Restrizioni autorizzate
 
 Il presente accordo lascia impregiudicata l'applicazione di divieti o restrizioni all'importazione, all'esportazione o al transito di merci giustificati da motivi di moralita' pubblica, di ordine pubblico o di pubblica sicurezza, da motivi legati alla tutela della salute e della vita delle persone, degli animali o di preservazione dei vegetali, alla protezione del patrimonio artistico, storico o archeologico, o alla tutela della proprieta' intellettuale, industriale e commerciale o dalle norme relative all'oro e all'argento. Tali divieti o restrizioni non devono costituire tuttavia un mezzo di discriminazione arbitraria, ne' una restrizione dissimulata al commercio tra le Parti.
 
-##### ARTICOLO 42
+#### ARTICOLO 42
 
 Le parti decidono di collaborare per ridurre il potenziale di frode nell'applicazione delle disposizioni commerciali del presente accordo.
 
 Fatte salve altre disposizioni del presente accordo, in particolare gli articoli 30, 37 e 88 e il protocollo n. 4, qualora risulti a una Parte che esistono sufficienti elementi di prova di frodi, quali un forte aumento delle esportazioni di prodotti di una Parte verso l'altra, superiore al livello corrispondente alle condizioni economiche, quali la normale capacita' di produzione e di esportazione, oppure la mancata collaborazione amministrativa necessaria per la verifica delle prove dell'origine, da parte dell'altra, le due Parti avviano immediatamente consultazioni per trovare una soluzione adeguata. In attesa di una siffatta soluzione, la Parte interessata puo' adottare le misure opportune che ritiene necessarie. Nella scelta delle misure si devono privilegiare quelle che perturbano meno il funzionamento dei dispositivi contenuti nell'accordo.
 
-##### ARTICOLO 43
+#### ARTICOLO 43
 
 L'applicazione del presente accordo non pregiudica l'applicazione delle disposizioni del diritto comunitaria alle Isole Canarie.
 
 ## TITOLO V - CIRCOLAZIONE DEI LAVORATORI, STABILIMENTO, PRESTAZIONE DI SERVIZI, CAPITALI
 
-### CAPITOLO I
+### CAPITOLO I - CIRCOLAZIONE DEI LAVORATORI
 
-#### CIRCOLAZIONE DEI LAVORATORI
-
-##### ARTICOLO 44
+#### ARTICOLO 44
 
 1\. Nel rispetto delle condizioni e modalita' applicabili in ciascuno Stato membro:
 
@@ -531,7 +529,7 @@ L'applicazione del presente accordo non pregiudica l'applicazione delle disposiz
 
 2\. Nel rispetto delle condizioni e modalita' applicabili nel suo territorio, la ex Repubblica jugoslava di Macedonia concede il trattamento di cui al paragrafo 1 ai lavoratori cittadini di uno Stato membro legalmente occupati sul suo territorio, nonche' ai loro coniugi e figli legalmente residenti in tale territorio.
 
-##### ARTICOLO 45
+#### ARTICOLO 45
 
 1\. Tenendo conto della situazione del mercato del lavoro nello Stato membro in questione, nel rispetto della sua legislazione e delle regole in esso vigenti in materia di mobilita' dei lavoratori:
 
@@ -541,7 +539,7 @@ L'applicazione del presente accordo non pregiudica l'applicazione delle disposiz
 
 2\. Il consiglio di stabilizzazione e di associazione valuta l'opportunita' di concedere ulteriori facilitazioni, ivi comprese le possibilita' di accesso alla formazione professionale, in base alle norme e procedure in vigore negli Stati membri e tenendo conto della situazione del mercato del lavoro degli Stati membri e della Comunita'.
 
-##### ARTICOLO 46
+#### ARTICOLO 46
 
 Vengono stabilite le norme per coordinare i sistemi di previdenza sociale per i lavoratori cittadini della ex Repubblica jugoslava di Macedonia legalmente occupati nel territorio di uno Stato membro e per i loro familiari legalmente residenti in tale territorio. A tal fine, una decisione del consiglio di stabilizzazione e di associazione, che non modifichi eventuali diritti o obblighi derivanti da accordi bilaterali qualora questi prevedano un trattamento piu' favorevole, porra' in essere le disposizioni seguenti:
 
@@ -553,9 +551,9 @@ Vengono stabilite le norme per coordinare i sistemi di previdenza sociale per i 
 
 La ex Repubblica jugoslava di Macedonia concede al lavoratori cittadini di uno Stato membro legalmente occupati sul suo territorio e ai loro familiari legalmente residenti sul suo territorio un trattamento analogo a quello specificato al secondo e al terzo trattino del primo paragrafo.
 
-## CAPITOLO II - STABILIMENTO
+### CAPITOLO II - STABILIMENTO
 
-##### ARTICOLO 47
+#### ARTICOLO 47
 
 Ai fini del presente accordo,
 
@@ -583,7 +581,7 @@ h) per quanto riguarda il trasporto marittimo internazionale, comprese le operaz
 
 i) per "servizi finanziari" si intendono le attivita' descritte nell'allegato VI. Il consiglio di stabilizzazione e di associazione puo' ampliare o modificare il campo d'applicazione di tale allegato.
 
-##### ARTICOLO 48
+#### ARTICOLO 48
 
 1\. La ex Repubblica jugoslava di Macedonia concede, a decorrere dall'entrata in vigore del presente accordo:
 
@@ -609,7 +607,7 @@ b) le consociate di societa' comunitarie hanno inoltre il diritto di acquistare 
 
 c) entro la fine della prima fase del periodo transitorio il consiglio di stabilizzazione e di associazione esamina la possibilita' di estendere i diritti di cui alla lettera b) alle filiali di societa' comunitarie.
 
-##### ARTICOLO 49
+#### ARTICOLO 49
 
 1\. Fatte salve le disposizioni dell'articolo 48, fatta eccezione per i servizi finanziari di cui all'allegato VI, ciascuna Parte puo' disciplinare lo stabilimento e l'attivita' delle societa' e dei cittadini sul suo territorio, sempreche' cosi' facendo non discrimini le societa' ai cittadini dell'altra Parte rispetto alle sue societa' e ai suoi cittadini.
 
@@ -617,23 +615,23 @@ c) entro la fine della prima fase del periodo transitorio il consiglio di stabil
 
 3\. Nessuna disposizione dell'accordo impone a una delle Parti di rivelare informazioni connesse all'attivita' e alla contabilita' di singoli clienti o informazioni riservate in possesso di organismi pubblici.
 
-##### ARTICOLO 50
+#### ARTICOLO 50
 
 1\. Le disposizioni del presente capitolo non si applicano ai servizi di trasporto aereo, fluviale e marittimo.
 
 2\. Il consiglio di stabilizzazione e di associazione puo' formulare raccomandazioni per migliorare le condizioni di stabilimento e di attivita' nei settori di cui al paragrafo 1.
 
-##### ARTICOLO 51
+#### ARTICOLO 51
 
 1\. Le disposizioni degli articoli 48 e 49 non impediscono a una delle Parti di applicare regole particolari, per lo stabilimento e l'attivita' sul suo territorio di filiali di societa' dell'altra Parte al di fuori del territorio della prima, giustificate da differenze giuridiche o tecniche tra dette filiali e quelle di societa' stabilite sul suo territorio oppure, per i servizi finanziari, per ragioni prudenziali.
 
 2\. La differenza di trattamento si limita a quanto strettamente necessario in seguito a tali differenze giuridiche o tecniche oppure per i servizi finanziari, per ragioni prudenziali.
 
-##### ARTICOLO 52
+#### ARTICOLO 52
 
 Al fine di rendere piu' agevole per i cittadini della Comunita' e della ex Repubblica jugoslava di Macedonia l'avvio e lo svolgimento di attivita' professionali regolamentate nella ex Repubblica jugoslava di Macedonia e nella Comunita', il consiglio di stabilizzazione e di associazione esamina le iniziative da prendere al fini del reciproco riconoscimento delle qualifiche. Esso puo' prendere tutte le misure necessarie a tal fine.
 
-##### ARTICOLO 53
+#### ARTICOLO 53
 
 1\. Una societa' comunitaria o una societa' della ex Repubblica jugoslava di Macedonia stabilita, rispettivamente, sul territorio della ex Repubblica jugoslava di Macedonia o della Comunita' ha il diritto di assumere o di far assumere da una delle sue consociate o filiali, in base alla legislazione in vigore nel paese di stabilimento, sul territorio della ex Repubblica jugoslava di Macedonia e della Comunita', cittadini degli Stati membri e della ex Repubblica jugoslava di Macedonia, purche' si tratti di quadri intermedi a norma del paragrafo 2 impiegati esclusivamente da societa', consociate o filiali. I permessi di soggiorno e di lavoro di questi dipendenti coprono unicamente la durata di tale occupazione.
 
@@ -657,7 +655,7 @@ c) Per "persona trasferita all'interno della societa'" si intende una persona fi
 
 \- la sede principale della societa' si trovi al di fuori della Comunita' e della ex Repubblica jugoslava di Macedonia e che non esistano altri rappresentanti, uffici, filiali o consociate della societa' nello Stato membro della Comunita' o nella ex Repubblica jugoslava di Macedonia.
 
-##### ARTICOLO 54
+#### ARTICOLO 54
 
 Nel corso dei primi quattro anni successivi alla data di entrata in vigore del presente accordo, la ex Repubblica jugoslava di Macedonia puo' prendere misure in deroga alle disposizioni del presente capitolo per quanto riguarda lo stabilimento di societa' e cittadini comunitari di determinate industrie che:
 
@@ -679,9 +677,9 @@ Prima di introdurre le suddette misure, la ex Repubblica jugoslava di Macedonia 
 
 Al termine dei quattro anni successivi all'entrata in vigore del presente accordo, la ex Repubblica jugoslava di Macedonia puo' introdurre o mantenere misure di questo tipo solo con l'autorizzazione del consiglio di stabilizzazione e di associazione e alle condizioni stabilite da quest'ultimo.
 
-## CAPITOLO III - PRESTAZIONE DI SERVIZI
+### CAPITOLO III - PRESTAZIONE DI SERVIZI
 
-##### ARTICOLO 55
+#### ARTICOLO 55
 
 1\. Le Parti si impegnano, a norma delle seguenti disposizioni, a prendere i provvedimenti necessari per consentire progressivamente la prestazione di servizi da parte di societa' o di cittadini comunitari o della ex Repubblica jugoslava di Macedonia stabiliti in una Parte diversa da quella della persona alla quale i servizi sono destinati.
 
@@ -689,13 +687,13 @@ Al termine dei quattro anni successivi all'entrata in vigore del presente accord
 
 3\. A decorrere dalla seconda fase del periodo transitorio, il consiglio di stabilizzazione e di associazione prende le misure necessarie per la progressiva attuazione delle disposizioni del paragrafo 1. Si tiene conto dei progressi compiuti dalle Parti per quanto riguarda il ravvicinamento delle loro leggi.
 
-##### ARTICOLO 56
+#### ARTICOLO 56
 
 1\. Le Parti si astengono da misure o azioni che rendano le condizioni per la prestazione di servizi da parte di cittadini o societa' della Comunita' e della ex Repubblica jugoslava di Macedonia stabiliti in una Parte diversa da quella del destinatario dei servizi nettamente piu' restrittive rispetto alla situazione esistente il giorno precedente all'entrata in vigore dell'accordo.
 
 2\. Se una Parte ritiene che le misure introdotte dall'altra Parte dopo l'entrata in vigore dell'accordo rendano la situazione, per quanto riguarda la prestazione di servizi, nettamente piu' restrittiva rispetto a quella esistente al momento dell'entrata in vigore dell'accordo, puo' chiedere all'altra Parte di avviare consultazioni.
 
-##### ARTICOLO 57
+#### ARTICOLO 57
 
 Per quanto riguarda la prestazione di servizi di trasporto tra la Comunita' e la ex Repubblica jugoslava di Macedonia, si applicano le disposizioni seguenti:
 
@@ -723,13 +721,13 @@ c) aboliscono, al momento dell'entrata in vigore del presente accordo, tutte le 
 
 A mano a mano che le Parti progrediscono nel conseguimento degli obiettivi del presente capitolo, il consiglio di stabilizzazione e di associazione esamina in qual modo si possa migliorare la libera prestazione dei servizi di trasporto aereo e terrestre.
 
-## CAPITOLO IV - PAGAMENTI CORRENTI E MOVIMENTI DI CAPITALE
+### CAPITOLO IV - PAGAMENTI CORRENTI E MOVIMENTI DI CAPITALE
 
-##### ARTICOLO 58
+#### ARTICOLO 58
 
 Le Parti si impegnano ad autorizzare, in moneta liberamente convertibile, in conformita' delle disposizioni dell'articolo VIII dello statuto del Fondo monetario internazionale, qualsiasi pagamento e bonifico sul conto corrente della bilancia dei pagamenti tra la Comunita' e la ex Repubblica jugoslava di Macedonia.
 
-##### ARTICOLO 59
+#### ARTICOLO 59
 
 1\. Per quanto riguarda le transazioni in conto capitale e finanziario della bilancia dei pagamenti, a decorrere dall'entrata in vigore dell'accordo le Parti garantiscono la libera circolazione dei capitali relativi ad investimenti diretti effettuati in societa' costituite in base alle leggi del paese ospitante e agli investimenti effettuati a norma delle disposizioni del capitolo II del titolo V, nonche' la liquidazione o il rimpatrio di detti investimenti e dei profitti da essi derivanti.
 
@@ -743,29 +741,29 @@ Dall'inizio della seconda fase, esse garantiscono inoltre la libera circolazione
 
 5\. Le Parti si consultano per agevolare la circolazione dei capitali tra la Comunita' e la ex Repubblica jugoslava di Macedonia al fine di promuovere gli obiettivi del presente accordo.
 
-##### ARTICOLO 60
+#### ARTICOLO 60
 
 1\. Durante la prima fase, le Parti prendono misure atte a consentire la creazione delle condizioni necessarie per l'ulteriore applicazione graduale delle norme comunitarie in materia di libera circolazione dei capitali.
 
 2\. Entro la fine della prima fase, il consiglio di stabilizzazione e di associazione esamina in che modo rendere possibile la completa applicazione delle norme comunitarie in materia di circolazione dei capitali.
 
-## CAPITOLO V - DISPOSIZIONI GENERALI
+### CAPITOLO V - DISPOSIZIONI GENERALI
 
-##### ARTICOLO 61
+#### ARTICOLO 61
 
 1\. L'applicazione delle disposizioni del presente titolo e' soggetta alle limitazioni giustificate da motivi di ordine pubblico, di pubblica sicurezza o di pubblica sanita'.
 
 2\. Dette disposizioni non si applicano alle attivita' svolte sul territorio di una o dell'altra Parte e connesse, anche occasionalmente, all'esercizio dei pubblici poteri.
 
-##### ARTICOLO 62
+#### ARTICOLO 62
 
 Ai fini del presente titolo, nessuna disposizione del presente accordo impedisce alle Parti di applicare le rispettive leggi e disposizioni in materia di ingresso e soggiorno, lavoro, condizioni di lavoro e stabilimento delle persone fisiche, nonche' di prestazione dei servizi, a condizione che, cosi' facendo, esse non le applichino in modo da vanificare o compromettere i benefici spettanti all'una o all'altra a norma di una specifica disposizione dell'accordo. La presente disposizione non pregiudica l'applicazione dell'articolo 62.
 
-##### ARTICOLO 63
+#### ARTICOLO 63
 
 Le disposizioni del presente titolo si applicano anche alle societa' controllate da e di proprieta' congiunta di societa' o cittadini della ex Repubblica jugoslava di Macedonia e societa' o cittadini della Comunita'.
 
-##### ARTICOLO 64
+#### ARTICOLO 64
 
 1\. Il trattamento della nazione piu' favorita concesso a norma del presente titolo non si applica alle agevolazioni fiscali gia' concesse o che le Parti concederanno in futuro in base ad accordi volti a evitare la doppia imposizione o altre intese in materia fiscale.
 
@@ -773,7 +771,7 @@ Le disposizioni del presente titolo si applicano anche alle societa' controllate
 
 3\. Nessuna disposizione del presente titolo vieta agli Stati membri o alla ex Repubblica jugoslava di Macedonia di operare distinzioni, nell'applicare le pertinenti disposizioni della loro legislazione tributaria, fra contribuenti la cui situazione non e' identica, segnatamente per quanto riguarda il luogo di residenza.
 
-##### ARTICOLO 65
+#### ARTICOLO 65
 
 1\. Le Parti si adoperano, nei limiti del possibile, per evitare l'imposizione di misure restrittive, ivi comprese le misure relative alle importazioni, a fini di bilancia dei pagamenti. Qualora una Parte adotti tale misura, sottopone quanto prima all'altra Parte un calendario per la loro abolizione.
 
@@ -781,17 +779,17 @@ Le disposizioni del presente titolo si applicano anche alle societa' controllate
 
 3\. Le eventuali misure restrittive non si applicano ai trasferimenti relativi a investimenti e, in particolare, al rimpatrio degli importi investiti o reinvestiti e di qualsiasi tipo di reddito da essi derivante.
 
-##### ARTICOLO 66
+#### ARTICOLO 66
 
 Le disposizioni del presente titolo sono progressivamente adeguate, in particolare alla luce dei requisiti posti dall'articolo V dell'accordo generale sugli scambi di servizi (GATS).
 
-##### ARTICOLO 67
+#### ARTICOLO 67
 
 Le disposizioni del presente accordo non vietano alle Parti di prendere le misure necessarie per impedire l'elusione, tramite le disposizioni del presente accordo, delle disposizioni relative all'accesso dei paesi terzi ai loro mercati.
 
 ## TITOLO VI - RAVVICINAMENTO E APPLICAZIONE DELLE LEGISLAZIONI
 
-##### ARTICOLO 68
+#### ARTICOLO 68
 
 1\. Le Parti riconoscono l'importanza del ravvicinamento della legislazione presente e futura della ex Repubblica jugoslava di Macedonia a quella della Comunita'. La ex Repubblica jugoslava di Macedonia deve adoperarsi per rendere la propria legislazione progressivamente compatibile con quella comunitaria.
 
@@ -803,7 +801,7 @@ Vengono fissate scadenze per le legislazioni in materia di concorrenza, propriet
 
 4\. Durante la seconda fase del periodo transitorio di cui all'articolo 5, il ravvicinamento delle legislazioni si estende agli elementi dell'acquis non contemplati dal precedente paragrafo.
 
-##### ARTICOLO 69
+#### ARTICOLO 69
 
 Concorrenza e altre disposizioni di carattere economico
 
@@ -837,11 +835,11 @@ Nel caso di pratiche incompatibili ai sensi del paragrafo 1, punto iii) del pres
 
 6\. Le Parti si scambiano informazioni tenendo conto delle limitazioni imposte dal rispetto del segreto professionale.
 
-##### ARTICOLO 70
+#### ARTICOLO 70
 
 Per quanto riguarda le imprese pubbliche e le imprese cui sono stati riconosciuti diritti speciali o esclusivi, ciascuna Parte garantisce che, a decorrere dal terzo anno successivo all'entrata in vigore del presente accordo, si applichino i principi del trattato che istituisce la Comunita' europea, in particolare l'articolo 86.
 
-##### ARTICOLO 71
+#### ARTICOLO 71
 
 Proprieta' intellettuale, industriale e commerciale
 
@@ -853,7 +851,7 @@ Proprieta' intellettuale, industriale e commerciale
 
 Qualora nel settore della proprieta' intellettuale, industriale e commerciale sorgano problemi tali da falsare le condizioni del commercio, si consulta urgentemente, su richiesta di una o dell'altra Parte, il consiglio di stabilizzazione e di associazione al fine di trovare soluzioni reciprocamente soddisfacenti.
 
-##### ARTICOLO 72
+#### ARTICOLO 72
 
 Appalti pubblici
 
@@ -869,7 +867,7 @@ Il consiglio di stabilizzazione e di associazione esamina periodicamente la poss
 
 3\. Per quanto riguarda lo stabilimento, l'attivita' e la fornitura di servizi tra la Comunita' e la ex Repubblica jugoslava di Macedonia, nonche' l'occupazione e la circolazione della manodopera per l'esecuzione dei contratti d'appalto pubblici, si applicano le disposizioni degli articoli 44-67.
 
-##### ARTICOLO 73
+#### ARTICOLO 73
 
 Standardizzazione, metrologia, certificazione e valutazione della conformita'
 
@@ -887,13 +885,13 @@ Standardizzazione, metrologia, certificazione e valutazione della conformita'
 
 ## TITOLO VII - GIUSTIZIA E AFFARI INTERNI
 
-##### ARTICOLO 74
+#### ARTICOLO 74
 
 Consolidamento delle istituzioni e Stato di diritto
 
 Nella loro cooperazione in materia di giustizia e di affari interni, le Parti annettono particolare importanza al rafforzamento delle istituzioni a tutti i livelli dell'amministrazione in generale e per quanto riguarda le autorita' incaricate dell'applicazione della legge e l'apparato giudiziario in particolare, compreso il consolidamento dello Stato di diritto. La cooperazione nel settore della giustizia si prefigge in particolare l'indipendenza del sistema giudiziario e il miglioramento della sua efficienza, nonche' la formazione degli operatori del settore.
 
-##### ARTICOLO 75
+#### ARTICOLO 75
 
 Visti, controlli alle frontiere, asilo e immigrazione
 
@@ -919,7 +917,7 @@ Visti, controlli alle frontiere, asilo e immigrazione
 
 Il consiglio di stabilizzazione e di associazione puo' raccomandare altri temi di cooperazione ai sensi del presente articolo.
 
-##### ARTICOLO 76
+#### ARTICOLO 76
 
 Prevenzione e controllo dell'immigrazione illegale; riammissione
 
@@ -937,7 +935,7 @@ Gli Stati membri dell'Unione europea e la ex Repubblica jugoslava di Macedonia f
 
 4\. Il consiglio di stabilizzazione e di associazione esamina altre eventuali azioni comuni volte a prevenire e a controllare l'immigrazione illegale, compresa la tratta di esseri umani.
 
-##### ARTICOLO 77
+#### ARTICOLO 77
 
 Lotta al riciclaggio del denaro
 
@@ -945,7 +943,7 @@ Lotta al riciclaggio del denaro
 
 2\. La cooperazione nel settore potrebbe comprendere un'assistenza amministrativa e tecnica volta a sostenere l'attuazione delle disposizioni e a garantire un efficace funzionamento di norme e meccanismi adeguati per la lotta contro il riciclaggio del denaro, equivalenti a quelli adottati in materia dalla Comunita' e dai consensi internazionali.
 
-##### ARTICOLO 78
+#### ARTICOLO 78
 
 Lotta alla criminalita' e alle altre attivita', illecite e azioni di prevenzione
 
@@ -975,7 +973,7 @@ La cooperazione in tali settori e' oggetto di consultazioni e di uno stretto coo
 
 \- la definizione di misure volte a prevenire la criminalita'.
 
-##### ARTICOLO 79
+#### ARTICOLO 79
 
 Cooperazione nel settore della lotta contro le droghe illecite
 
@@ -987,7 +985,7 @@ Cooperazione nel settore della lotta contro le droghe illecite
 
 ## TITOLO VIII - POLITICHE DI COOPERAZIONE
 
-##### ARTICOLO 80
+#### ARTICOLO 80
 
 1\. La Comunita' e la ex Repubblica jugoslava di Macedonia instaurano una stretta cooperazione per contribuire allo sviluppo e al potenziale di crescita della ex Repubblica jugoslava di Macedonia, consolidando i legami economici esistenti sulla base piu' ampia possibile, a vantaggio di entrambe le Parti.
 
@@ -995,7 +993,7 @@ Cooperazione nel settore della lotta contro le droghe illecite
 
 3\. Le politiche di cooperazione vanno integrate in un contesto regionale di cooperazione. Va rivolta particolare attenzione alle misure atte a promuovere la cooperazione fra la ex Repubblica jugoslava di Macedonia e i paesi limitrofi, compresi gli Stati membri, contribuendo in tal modo alla stabilita' regionale. Il Consiglio di stabilizzazione e di associazione puo' stabilire priorita' tra le politiche di cooperazione descritte in appresso e all'interno di queste.
 
-##### ARTICOLO 81
+#### ARTICOLO 81
 
 Politica economica
 
@@ -1009,7 +1007,7 @@ Politica economica
 
 3\. Su richiesta delle autorita' della ex Repubblica jugoslava di Macedonia, la Comunita' puo' fornire l'assistenza tecnica necessaria per aiutare il paese ad introdurre la piena convertibilita' del denar e a ravvicinare gradualmente le sue politiche a quelle del Sistema monetario europeo. La cooperazione in questo settore comprende scambi informali di informazioni sui principi e sul funzionamento del Sistema monetario europeo e del Sistema europeo di banche centrali.
 
-##### ARTICOLO 82
+#### ARTICOLO 82
 
 Cooperazione nel settore statistico
 
@@ -1029,7 +1027,7 @@ Cooperazione nel settore statistico
 
 3\. La cooperazione nel settore comprende, ma non esclusivamente, scambi di informazioni metodologiche, la partecipazione a gruppi di lavoro selezionati di Eurostat e lo scambio di dati statistici.
 
-##### ARTICOLO 83
+#### ARTICOLO 83
 
 Servizi bancari, servizi assicurativi e altri servizi finanziari
 
@@ -1059,7 +1057,7 @@ La cooperazione e' imperniata sui seguenti settori:
 
 \- formazione e consulenze.
 
-##### ARTICOLO 84
+#### ARTICOLO 84
 
 Promozione e tutela degli investimenti
 
@@ -1075,7 +1073,7 @@ Promozione e tutela degli investimenti
 
 \- una migliore tutela degli investimenti.
 
-##### ARTICOLO 85
+#### ARTICOLO 85
 
 Cooperazione industriale
 
@@ -1083,19 +1081,19 @@ Cooperazione industriale
 
 2\. Le azioni di cooperazione industriale rispecchiano le priorita' stabilite da entrambe le Parti. Esse tengono conto degli aspetti regionali dello sviluppo industriale, promuovendo, quando opportuno, partnership transnazionali. Le azioni puntano, in particolare, a creare un contesto adeguato per le imprese, a migliorare il know-how e a promuovere i mercati e la loro la trasparenza, nonche' l'attivita' delle imprese.
 
-##### ARTICOLO 86
+#### ARTICOLO 86
 
 Piccole e medie imprese
 
 Le Parti si adoperano per sviluppare e potenziare le piccole e medie imprese (PMI) del settore privato, creare nuove imprese in zone che presentano un potenziale di crescita e favorire la cooperazione tra PMI della Comunita' e della ex Repubblica jugoslava di Macedonia.
 
-##### ARTICOLO 87
+#### ARTICOLO 87
 
 Turismo
 
 La cooperazione tra le Parti nel settore turistico intende agevolare e incoraggiare il turismo e gli scambi nel settore attraverso il trasferimento di know-how, la partecipazione della ex Repubblica jugoslava di Macedonia ad importanti organizzazioni turistiche europee e l'esame della possibilita' di realizzare operazioni comuni, segnatamente per progetti turistici regionali.
 
-##### ARTICOLO 88
+#### ARTICOLO 88
 
 Dogane
 
@@ -1115,13 +1113,13 @@ Dogane
 
 3\. Fatta salva l'ulteriore cooperazione prevista dal presente accordo, in particolare dagli articoli 76, 77 e 78, l'assistenza reciproca tra le autorita' amministrative delle Parti competenti per quanto riguarda le questioni doganali e' disciplinata dalle disposizioni del protocollo n. 5.
 
-##### ARTICOLO 89
+#### ARTICOLO 89
 
 Fiscalita'
 
 Le Parti avviano una cooperazione in campo fiscale, che comprende misure intese all'ulteriore riforma del sistema fiscale, all'ammodernamento dell'amministrazione fiscale per assicurare una riscossione efficace delle imposte e alla lotta contro le frodi.
 
-##### ARTICOLO 90
+#### ARTICOLO 90
 
 Cooperazione nel settore sociale
 
@@ -1133,7 +1131,7 @@ Cooperazione nel settore sociale
 
 4\. Le Parti sviluppano la cooperazione al fine di migliorare il livello di protezione della salute e della sicurezza dei lavoratori, basandosi sul livello esistente nella Comunita'.
 
-##### ARTICOLO 91
+#### ARTICOLO 91
 
 Istruzione e formazione
 
@@ -1143,19 +1141,19 @@ Istruzione e formazione
 
 3\. Anche la Fondazione europea per la formazione contribuisce al miglioramento delle strutture e delle attivita' di formazione nella ex Repubblica jugoslava di Macedonia.
 
-##### ARTICOLO 92
+#### ARTICOLO 92
 
 Cooperazione culturale
 
 Le Parti si impegnano a promuovere la cooperazione culturale. Tale cooperazione contribuisce, tra l'altro, a migliorare la comprensione e la stima reciproche tra singoli cittadini, comunita' e popoli.
 
-##### ARTICOLO 93
+#### ARTICOLO 93
 
 Informazione e comunicazione
 
 La Comunita' e la ex Repubblica jugoslava di Macedonia prendono le misure necessarie per promuovere lo scambio di informazioni, privilegiando i programmi volti a diffondere tra la popolazione le informazioni di base sulla Comunita', nonche' a fornire agli ambienti professionali della ex Repubblica jugoslava di Macedonia informazioni piu' specialistiche.
 
-##### ARTICOLO 94
+#### ARTICOLO 94
 
 Cooperazione nel settore audiovisivo
 
@@ -1163,7 +1161,7 @@ Le Parti collaborano per promuovere l'industria audiovisiva in Europa e incoragg
 
 Le Parti coordinano e, se del caso, armonizzano le politiche volte a disciplinare gli aspetti relativi ai contenuti delle trasmissioni radiotelevisive transfrontaliere, rivolgendo particolare attenzione alle questioni riguardanti l'acquisizione di diritti di proprieta' intellettuale per i programmi trasmessi via satellite e via cavo.
 
-##### ARTICOLO 95
+#### ARTICOLO 95
 
 Infrastrutture di comunicazione elettronica e servizi connessi
 
@@ -1185,7 +1183,7 @@ Detta cooperazione si concentra sui seguenti settori prioritari:
 
 \- coordinamento delle posizioni in organizzazioni e consessi internazionali.
 
-##### ARTICOLO 96
+#### ARTICOLO 96
 
 Societa' dell'informazione
 
@@ -1195,7 +1193,7 @@ Le autorita' della ex Repubblica jugoslava di Macedonia, con l'assistenza della 
 
 Le autorita' della ex Repubblica jugoslava di Macedonia elaborano un piano per l'adozione della normativa comunitaria nel settore della societa' dell'informazione.
 
-##### ARTICOLO 97
+#### ARTICOLO 97
 
 Tutela dei consumatori
 
@@ -1209,7 +1207,7 @@ A tal fine, tenendo conto dei loro interessi comuni, le Parti incoraggiano e gar
 
 \- un'efficace tutela giuridica dei consumatori per migliorare la qualita' dei beni di consumo e mantenere norme di sicurezza adeguate.
 
-##### ARTICOLO 98
+#### ARTICOLO 98
 
 Trasporti
 
@@ -1243,7 +1241,7 @@ Trasporti
 
 \- l'adozione di politiche dei trasporti coordinate e compatibili con quelle in vigore nella Comunita'.
 
-##### ARTICOLO 99
+#### ARTICOLO 99
 
 Energia
 
@@ -1259,13 +1257,13 @@ Energia
 
 \- definizione di un contesto per la ristrutturazione dei servizi energetici di pubblica utilita' e cooperazione tra imprese del settore.
 
-##### ARTICOLO 100
+#### ARTICOLO 100
 
 Agricoltura e settore agroindustriale
 
 La cooperazione in questo settore si prefigge l'ammodernamento e la ristrutturazione dei settori agricolo e agroindustriale, la gestione delle risorse idriche, lo sviluppo rurale, la graduale armonizzazione della legislazione in campo veterinario e fitosanitario con le norme comunitarie e lo sviluppo del settore forestale e del settore della pesca della ex Repubblica jugoslava di Macedonia.
 
-##### ARTICOLO 101
+#### ARTICOLO 101
 
 Sviluppo regionale e locale
 
@@ -1273,7 +1271,7 @@ Le Parti intensificano la cooperazione a livello di sviluppo regionale per contr
 
 Viene rivolta particolare attenzione alla cooperazione transfrontaliera, transnazionale e interregionale. A tal fine, e' possibile procedere a scambi di informazioni e di esperti.
 
-##### ARTICOLO 102
+#### ARTICOLO 102
 
 Cooperazione nel settore della ricerca e dello sviluppo tecnologico
 
@@ -1291,7 +1289,7 @@ Cooperazione nel settore della ricerca e dello sviluppo tecnologico
 
 3\. Una siffatta cooperazione si basa su intese specifiche da negoziare e concludere secondo le procedure adottate da ciascuna delle Parti definendo, tra l'altro, opportune disposizioni in materia di DPI.
 
-##### ARTICOLO 103
+#### ARTICOLO 103
 
 Ambiente e sicurezza nucleare
 
@@ -1349,11 +1347,11 @@ Ambiente e sicurezza nucleare
 
 ## TITOLO IX - COOPERAZIONE FINANZIARIA
 
-##### ARTICOLO 104
+#### ARTICOLO 104
 
 Per conseguire gli obiettivi del presente accordo e in conformita' degli articoli 3, 108, e 109, la ex Repubblica jugoslava di Macedonia puo' beneficiare di assistenza finanziaria da parte della Comunita' sotto forma di sovvenzioni e prestiti, compresi prestiti della Banca europea per gli investimenti.
 
-##### ARTICOLO 105
+#### ARTICOLO 105
 
 L'assistenza finanziaria, sotto forma di sovvenzioni, e' disciplinata dalle misure operative previste dal pertinente regolamento del Consiglio nell'ambito di un quadro indicativo pluriennale definito dalla Comunita' in seguito a consultazioni con la ex Repubblica jugoslava di Macedonia.
 
@@ -1361,11 +1359,11 @@ L'assistenza, sotto forma di aiuti per il potenziamento delle istituzioni e di i
 
 Occorre vegliare a che vengano completamente realizzati i progetti di infrastrutture di interesse comune individuati nell'accordo nel settore dei trasporti.
 
-##### ARTICOLO 106
+#### ARTICOLO 106
 
 Su richiesta della ex Repubblica jugoslava di Macedonia e in casi eccezionali, la Comunita' puo' valutare, in coordinamento con le istituzioni finanziarie internazionali, la possibilita' di concedere, in via straordinaria, un'assistenza macrofinanziaria a determinate condizioni e tenendo conto delle risorse finanziarie globali disponibili.
 
-##### ARTICOLO 107
+#### ARTICOLO 107
 
 Per consentire un impiego ottimale delle risorse disponibili, le Parti si adoperano affinche' i contributi comunitari siano erogati in stretto coordinamento con quelli provenienti da altre fonti quali gli Stati membri, i paesi terzi e le istituzioni finanziarie internazionali.
 
@@ -1373,11 +1371,11 @@ A tal fine, le parti procedono ad uno scambio regolare di informazioni su tutte 
 
 ## TITOLO X - DISPOSIZIONI ISTITUZIONALI, GENERALI E FINALI
 
-##### ARTICOLO 108
+#### ARTICOLO 108
 
 E' istituito un consiglio di stabilizzazione e di associazione incaricato di sorvegliare l'applicazione e l'attuazione del presente accordo. Il consiglio si riunisce al livello opportuno ad intervalli regolari e quando le circostanze lo richiedono. Esso esamina qualsiasi questione importante inerente all'accordo e qualunque altro problema bilaterale o internazionale di reciproco interesse.
 
-##### ARTICOLO 109
+#### ARTICOLO 109
 
 1\. Il consiglio di stabilizzazione e di associazione e' composto, da un lato, dai membri del Consiglio dell'Unione europea e da membri della Commissione delle Comunita' europee e, dall'altro, da membri del governo della ex Repubblica jugoslava di Macedonia.
 
@@ -1389,7 +1387,7 @@ E' istituito un consiglio di stabilizzazione e di associazione incaricato di sor
 
 5\. Nelle questioni che la riguardano, la BEI partecipa, in veste di osservatore, al lavori del consiglio di stabilizzazione e di associazione.
 
-##### ARTICOLO 110
+#### ARTICOLO 110
 
 Ai fini della realizzazione degli obiettivi dell'accordo, il consiglio di stabilizzazione e di associazione ha il potere di prendere decisioni all'interno del campo d'azione dell'accordo, nei casi contemplati dall'accordo stesso. Tali decisioni sono vincolanti per le Parti, che adottano le misure necessarie per la loro attuazione. Al momento della decisione relativa al passaggio alla seconda fase il consiglio di stabilizzazione e di associazione puo' decidere, conformemente alle disposizioni dell'articolo 5, anche gli eventuali cambiamenti da apportare al contenuto delle disposizioni che disciplinano tale fase.
 
@@ -1401,19 +1399,19 @@ Il consiglio di stabilizzazione e di associazione puo' formulare altresi' adegua
 
 Esso elabora decisioni e raccomandazioni previo accordo tra le Parti.
 
-##### ARTICOLO 111
+#### ARTICOLO 111
 
 Ciascuna delle Parti puo' deferire al consiglio di stabilizzazione e di associazione qualsiasi controversia relativa all'applicazione o all'interpretazione del presente accordo. Il consiglio di stabilizzazione e di associazione puo' comporre la controversia mediante una decisione vincolante.
 
-##### ARTICOLO 112
+#### ARTICOLO 112
 
 Nell'esercizio delle sue finzioni, il consiglio di stabilizzazione e di associazione e' assistito da un comitato di stabilizzazione e di associazione composto, da un lato, da rappresentanti del Consiglio dell'Unione europea e da rappresentanti della Commissione delle Comunita' europee e, dall'altro, da rappresentanti della ex Repubblica jugoslava di Macedonia.
 
-##### ARTICOLO 113
+#### ARTICOLO 113
 
 Il comitato di stabilizzazione e di associazione puo' creare sottocomitati. Il comitato dei trasporti istituito dall'accordo nel settore dei trasporti assiste il comitato di stabilizzazione e di associazione.
 
-##### ARTICOLO 114
+#### ARTICOLO 114
 
 E' istituito un comitato parlamentare di stabilizzazione e di associazione quale foro per lo scambio di opinioni tra membri del Parlamento della ex Repubblica jugoslava di Macedonia e del Parlamento europeo. Il calendario e la frequenza delle riunioni sono decisi dal comitato stesso.
 
@@ -1423,11 +1421,11 @@ Il comitato parlamentare di stabilizzazione e di associazione adotta il proprio 
 
 Il comitato parlamentare di stabilizzazione e di associazione e' presieduto a turno dal Parlamento europeo e dal Parlamento della ex Repubblica jugoslava di Macedonia, secondo le disposizioni da stabilire nel suo regolamento interno.
 
-##### ARTICOLO 115
+#### ARTICOLO 115
 
 Nell'ambito del presente accordo, ciascuna delle Parti si impegna a garantire che le persone fisiche e giuridiche dell'altra Parte possano adire, senza discriminazioni rispetto ai propri cittadini, i competenti organi giurisdizionali e amministrativi delle Parti per tutelare i loro diritti individuali e di proprieta'.
 
-##### ARTICOLO 116
+#### ARTICOLO 116
 
 L'accordo non impedisce ad una Parte contraente di adottare qualsiasi misura:
 
@@ -1437,7 +1435,7 @@ b) inerente alla produzione o al commercio di armi, munizioni o materiale bellic
 
 c) ritenuta essenziale per la propria sicurezza in caso di gravi disordini interni che compromettono il mantenimento della legge e dell'ordine, in tempo di guerra o in periodi di gravi tensioni internazionali che possano sfociare in una guerra o ai fini del rispetto di impegni assunti per il mantenimento della pace e della sicurezza internazionale.
 
-##### ARTICOLO 117
+#### ARTICOLO 117
 
 1\. Nei settori contemplati dal presente accordo e fatta salva qualsiasi disposizione speciale ivi contenuta:
 
@@ -1447,7 +1445,7 @@ c) ritenuta essenziale per la propria sicurezza in caso di gravi disordini inter
 
 2\. Le disposizioni del paragrafo 1 non pregiudicano il diritto delle Parti di applicare le disposizioni pertinenti della loro normativa fiscale nei confronti di contribuenti che non si trovino in situazioni identiche per quanto riguarda il luogo di residenza.
 
-##### ARTICOLO 118
+#### ARTICOLO 118
 
 1\. Le Parti adottano qualsiasi provvedimento generale o specifico necessario per l'adempimento degli obblighi che loro incombono nel quadro del presente accordo. Esse si adoperano per la realizzazione degli obiettivi fissati nell'accordo.
 
@@ -1455,43 +1453,43 @@ c) ritenuta essenziale per la propria sicurezza in caso di gravi disordini inter
 
 Nella scelta delle misure, si privilegiano quelle che perturbano meno il funzionamento dell'accordo. Le misure decise sono comunicate senza indugio al consiglio di stabilizzazione e di associazione e, qualora l'altra Parte ne faccia richiesta, sono oggetto di consultazioni in seno a detto organo.
 
-##### ARTICOLO 119
+#### ARTICOLO 119
 
 Le Parti decidono di consultarsi tempestivamente, attraverso i canali adeguati, su richiesta di una di esse, per discutere di tutte le questioni inerenti all'interpretazione o all'applicazione del presente accordo e di altri aspetti delle loro relazioni.
 
 Le disposizioni del presente articolo non pregiudicano l'applicazione degli articoli 30, 37, 38 e 42.
 
-##### ARTICOLO 120
+#### ARTICOLO 120
 
 Fino a quando i privati cittadini e gli operatori economici non godranno di diritti equivalenti in base all'applicazione del presente accordo, esso non reca pregiudizio ai diritti loro garantiti da accordi vigenti che vincolano uno o piu' Stati membri, da un lato, e la ex Repubblica jugoslava di Macedonia, dall'altro.
 
-##### ARTICOLO 121
+#### ARTICOLO 121
 
 I protocolli nn. 1, 2, 3, 4 e 5 e gli allegati I-VII costituiscono parte integrante del presente accordo.
 
-##### ARTICOLO 122
+#### ARTICOLO 122
 
 Il presente accordo e' concluso per un periodo illimitato.
 
 Ciascuna delle Parti puo' denunciare l'accordo dandone notifica all'altra Parte. Il presente accordo cessa di essere applicabile dopo sei mesi dalla data di tale notifica.
 
-##### ARTICOLO 123
+#### ARTICOLO 123
 
 Ai fini del presente accordo, per "Parti" si intendono la Comunita' o i suoi Stati membri oppure la Comunita' e i suoi Stati membri, in base ai rispettivi poteri, da un lato, e la ex Repubblica jugoslava di Macedonia, dall'altro.
 
-##### ARTICOLO 124
+#### ARTICOLO 124
 
 Il presente accordo si applica, da un lato, ai territori in cui si applicano i trattati che istituiscono la Comunita' europea, la Comunita' europea del carbone e dell'acciaio, la Comunita' europea dell'energia atomica, alle condizioni precisate in detti trattati e, dall'altro, al territorio della ex Repubblica jugoslava di Macedonia.
 
-##### ARTICOLO 125
+#### ARTICOLO 125
 
 Il Segretario generale del Consiglio dell'Unione europea e' il depositario dell'accordo.
 
-##### ARTICOLO 126
+#### ARTICOLO 126
 
 Il presente accordo e' redatto in due esemplari in ciascuna delle lingue ufficiali delle Parti, ciascun testo facente ugualmente fede.
 
-##### ARTICOLO 127
+#### ARTICOLO 127
 
 Il presente accordo e' approvato dalle Parti secondo le rispettive procedure.
 
@@ -1499,13 +1497,13 @@ L'accordo entra in vigore il primo giorno del secondo mese successivo alla data 
 
 A decorrere dalla sua entrata in vigore, il presente accordo sostituisce l'accordo di cooperazione tra la Comunita' europea e la ex Repubblica jugoslava di Macedonia firmato il 29 aprile 1997 mediante scambio di lettere.
 
-##### ARTICOLO 128
+#### ARTICOLO 128
 
 Accordo interinale
 
 Le Parti decidono che nel caso in cui, in attesa che siano espletate le procedure necessarie per l'entrata in vigore del presente accordo, le disposizioni di determinate parti dell'accordo, segnatamente quelle relative alla libera circolazione delle merci, dovessero essere applicate mediante un accordo interinale tra la Comunita' e la ex Repubblica jugoslava di Macedonia, per "data di entrata in vigore del presente accordo" si intende, ai fini del titolo IV, articoli 69, 70 e 72 del presente accordo e dei protocolli nn. 1-5, la data di entrata in vigore dell'accordo interinale per quanto concerne gli obblighi di cui a tali articoli e a tali protocolli.
 
-##### Allegato I
+#### Allegato I
 
 ALLEGATO I
 
@@ -2857,7 +2855,7 @@ altri
 
 =====================================================================
 
-##### Allegato II
+#### Allegato II
 
 ALLEGATO II
 
@@ -4171,7 +4169,7 @@ parti non nominati ne' compresi altrove
 
 =====================================================================
 
-##### Allegato III
+#### Allegato III
 
 ALLEGATO III
 
@@ -4349,7 +4347,7 @@ disposizioni comunitarie in materia)
 
 --------------------------------------------------------------------
 
-##### Allegato IV a
+#### Allegato IV a
 
 ALLEGATO IV a
 
@@ -5435,7 +5433,7 @@ tabacco
 
 --------------------------------------------------------------------
 
-##### Allegato IV b
+#### Allegato IV b
 
 ALLEGATO IV b
 
@@ -5445,7 +5443,7 @@ IMPORTAZIONI NELL'EX REPUBBLICA IUGOSLAVA DI MACEDONIA DI PRODOTTI AGRICOLI ORIG
 
 Parte di provvedimento in formato grafico
 
-##### Allegato IV c
+#### Allegato IV c
 
 ALLEGATO IV c
 
@@ -5472,7 +5470,7 @@ IMPORTAZIONI NELL'EX REPUBBLICA IUGOSLAVA DI MACEDONIA DI PRODOTTI AGRICOLI ORIG
 +--------+----------------+--------------+-----------+--------+-------+
 ```
 
-##### Allegato V a
+#### Allegato V a
 
 ALLEGATO V a
 
@@ -5520,7 +5518,7 @@ IMPORTAZIONI NELLA COMUNITA' DI PRODOTTI DELLA PESCA ORIGINARI DELLA REPUBBLICA 
 +--------------+-----------------------------+------+-------+-------+
 ```
 
-##### Allegato V b
+#### Allegato V b
 
 ALLEGATO V b
 
@@ -5634,7 +5632,7 @@ doganale della ex Repubblica iugoslava di Macedonia, del 31
 
 luglio 1996 (Gazzetta ufficiale 38/96).
 
-##### Allegato VI
+#### Allegato VI
 
 ALLEGATO VI
 
@@ -5704,7 +5702,7 @@ b) attivita' svolte da banche centrali, enti o dipartimenti statali o pubbliche 
 
 c) attivita' che rientrano in un sistema ufficiale di previdenza sociale o di assistenza pensionistica pubblica, fatta eccezione per i casi in cui tali attivita' possono essere svolte da operatori del settore dei servizi finanziari in concorrenza con i suddetti enti pubblici o istituzioni private.
 
-##### Allegato VII
+#### Allegato VII
 
 ALLEGATO VII
 
@@ -5744,11 +5742,11 @@ PROTOCOLLO N. 1
 
 SUI TESSILI E SUI CAPI D'ABBIGLIAMENTO
 
-##### ARTICOLO I
+#### ARTICOLO I
 
 Il presente protocollo si applica ai tessili e ai capi di abbigliamento (in appresso denominati "prodotti tessili") elencati alla sezione XI (capitoli 50-63) della nomenclatura combinata della Comunita'.
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 1\. I prodotti tessili della sezione XI (capitoli 50-63) della nomenclatura combinata e definiti originari della ex Repubblica iugoslava di Macedonia a norma del protocollo 4 del presente accordo vengono introdotti nella Comunita' in esenzione da dazi doganali dall'entrata in vigore dell'accordo.
 
@@ -5756,15 +5754,15 @@ Il presente protocollo si applica ai tessili e ai capi di abbigliamento (in appr
 
 3\. In base al presente protocollo, le disposizioni dell'accordo, in particolare degli articoli 19 e 34, si applicano agli scambi di prodotti tessili tra le Parti.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 Le intese relative al duplice controllo e le altre questioni connesse alle esportazioni nella Comunita' di prodotti tessili originari della ex Repubblica iugoslava di Macedonia e alle esportazioni nella ex Repubblica iugoslava di Macedonia di prodotti tessili originari della Comunita' sono disciplinate dall'accordo sugli scambi di prodotti tessili tra la Comunita' europea e la ex Repubblica iugoslava di Macedonia, rinnovato e applicato a decorrere dal 1 gennaio 2000.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 A partire dell'entrata in vigore dell'accordo non vengono imposte nuove restrizioni quantitative, ne' altre misure aventi effetto equivalente, se non in base a quanto stabilito nell'accordo e negli allegati protocolli.
 
-##### Allegato I
+#### Allegato I
 
 ALLEGATO I
 
@@ -6108,15 +6106,15 @@ PROTOCOLLO N. 2
 
 SUI PRODOTTI SIDERURGICI
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 Il presente protocollo si applica ai prodotti elencati nel capitolo 72 della tariffa doganale comune, nonche' ad altri prodotti siderurgici finiti che potrebbero provenire in futuro dalla ex Repubblica iugoslava di Macedonia, contemplati da detto capitolo.
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 I dazi doganali applicabili alle importazioni nella Comunita' di prodotti siderurgici originati della ex Repubblica iugoslava di Macedonia sono aboliti alla data di entrata in vigore dell'accordo.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 I dazi doganali applicabili all'importazione nella ex Repubblica iugoslava di Macedonia dei prodotti siderurgici originari della Comunita' vengono progressivamente ridotti secondo il seguente calendario:
 
@@ -6124,13 +6122,13 @@ I dazi doganali applicabili all'importazione nella ex Repubblica iugoslava di Ma
 
 2\. si effettuano ulteriori riduzioni al 60, al 40, al 20, e allo 0 % del dazio di base rispettivamente all'inizio del secondo, terzo, quarto, e quinto anno dall'entrata in vigore dell'accordo.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 1\. Le restrizioni quantitative all'importazione nella Comunita' di prodotti siderurgici originati della ex Repubblica ingoslava di Macedonia e le misure di effetto equivalente vengono abolite all'entrata in vigore dell'accordo.
 
 2\. Le restrizioni quantitative all'importazione nella ex Repubblica iugoslava di Macedonia di prodotti siderurgici originati della Comunita' e le misure di effetto equivalente vengono abolite all'entrata in vigore dell'accordo.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 1\. Alla luce di quanto stipulato all'articolo 69 del presente accordo, le Parti riconoscono che occorre che ciascuna parte affronti urgenternente le carenze strutturali del proprio settore siderurgico per garantire la competitivita' della sua industria a livello mondiale. Entro due anni, la ex Repubblica iugoslava di Macedonia definisce pertanto il programma di ristrutturazione e conversione necessario per la sua industria siderurgica, onde conseguire l'efficienza economica del settore in normali condizioni di mercato.
 
@@ -6152,11 +6150,11 @@ Dietro richiesta, la Comunita' fornisce alla ex Repubblica iugoslava di Macedoni
 
 6\. Qualora una delle Parti ritenga che una determinata pratica dell'altra sia incompatibile con le disposizioni del presente articolo, e qualora tali pratiche arrechino o minaccino di arrecare pregiudizio ai suoi interessi o grave pregiudizio alla sua produzione interna, essa puo' adottare misure opportune previa consultazione del gruppo di contatto di cui all'articolo 8 o dopo trenta giorni lavorativi dall'invio della richiesta di consultazione a tale organismo.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 Le disposizioni degli articoli 19, 20 e 34 dell'accordo si applicano agli scambi di prodotti siderurgici tra le Parti.
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 1\. Le Parti contraenti riconoscono che occorre stabilire una procedura amministrativa per la rapida trasmissione delle informazioni sull'andamento dei flussi commerciali per i prodotti siderurgici originari dell'ex Repubblica iugoslava di Macedonia onde aumentare la trasparenza ed evitare eventuali deviazioni degli scambi.
 
@@ -6164,7 +6162,7 @@ Le disposizioni degli articoli 19, 20 e 34 dell'accordo si applicano agli scambi
 
 3\. L'allegato I del presente protocollo contiene maggiori particolari relativi al sistema di duplice controllo, di cui si valutera' periodicamente la necessita'. Con decisione del consiglio di stabilizzazione e di associazione, quindi, si potra' modificare l'allegato o abolire il sistema di duplice controllo.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 Le parti convengono che uno degli organismi speciali creati dal consiglio di stabilizzazione e di associazione debba essere un gruppo di contatto, che discutera' dell'esecuzione del presente protocollo.
 
@@ -6172,7 +6170,7 @@ ALLEGATO I
 
 relativo all'introduzione di un sistema di duplice controllo per l'esportazione di determinati prodotti siderurgici dall'ex Repubblica iugoslava di Macedonia nelle Comunita' europee
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 1\. A decorrere dall'entrara in vigore dell'accordo di stabilizzazione e di associazione tra la Comunita' europea e l'ex Repubblica iugoslava di Macedonia (in appresso denominati rispettivamente "accordo" e "Comunita'"), le importazioni nella Comunita' dei prodotti elencati nell'appendice I originari dell'ex Repubblica iugoslava di Macedonia sono soggette alla presentazione di un documento di vigilanza, conforme al modello dell'appendice II, rilasciato dalle autorita' della Comunita'.
 
@@ -6192,17 +6190,17 @@ relativo all'introduzione di un sistema di duplice controllo per l'esportazione 
 
 9\. Nell'appendice IV figurano alcune disposizioni tecniche sul funzionamento del sistema di duplice controllo.
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 1\. L'ex Repubblica iugoslava di Macedonia s'impegna a fornire alla Comunita' precisi dati statistici sui documenti di esportazione rilasciati dalle sue autorita' a norma dell'articolo 1. I dati in questione vengono trasmessi alla Comunita' entro la fine del mese successivo a quello cui si riferiscono le statistiche.
 
 2\. La Comunita' s'impegna a fornire alle autorita' dell'ex Repubblica iugoslava di Macedonia precisi dati statistici sui documenti di vigilanza rilasciati dagli Stati membri per i prodotti elencati nell'appendice I. I dati in questione vengono trasmessi alle autorita' dell'ex Repubblica iugoslava di Macedonia entro la fine del mese successivo a quello cui si riferiscono le statistiche.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 All'occorrenza, su richiesta di una delle Parti possono tenersi consultazioni su eventuali problemi connessi al funzionamento del sistema di duplice controllo. Le consultazioni vengono avviate senza indugio dalle Parti, a norma del presente articolo, in uno spirito di cooperazione e nell'intento di appianare le divergenze tra di esse.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Per tutte le comunicazioni, si prega rivolgersi:
 
@@ -6210,7 +6208,7 @@ Per tutte le comunicazioni, si prega rivolgersi:
 
 \- per la ex Repubblica iugoslava di Macedonia, alla sua Missione presso le Comunita' europee, al ministero degli Esteri e al ministero dell'Economia.
 
-##### Appendice 1
+#### Appendice 1
 
 Appendice 1 dell'Allegato I
 
@@ -6232,7 +6230,7 @@ PROTOCOLLO N. 3
 
 SUGLI SCAMBI DI PRODOTTI AGRICOLI TRASFORMATI TRA L'EX REPUBBLICA IUGOSLAVA DI MACEDONIA E LA COMUNITA'
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 2\. La Comunita' e la ex Repubblica iugoslava di Macedonia applicano ai prodotti agricoli trasformati, a prescindere dall'esistenza di contingenti, i dazi di cui agli allegati I e II, in base alle condizioni ivi indicate.
 
@@ -6246,7 +6244,7 @@ SUGLI SCAMBI DI PRODOTTI AGRICOLI TRASFORMATI TRA L'EX REPUBBLICA IUGOSLAVA DI M
 
 3\. Il consiglio di stabilizzazione e di associazione puo' sostituire i dazi stabiliti dal presente protocollo con un regime basato sui rispettivi prezzi di mercato della Comunita' e della ex Repubblica iugoslava di Macedonia per i prodotti agricoli che entrino effettivamente nella fabbricazione dei prodotti agricoli trasformati contemplati dal presente protocollo. Esso stabilisce l'elenco dei prodotti cui si applica il suddetto regime, nonche' l'elenco dei prodotti di base, ed edotta, a tal fine, le modalita' generali di applicazione.
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 I dazi applicati a norma dell'articolo 1 possono essere ridotti per decisione del consiglio di stabilizzazione e di associazione:
 
@@ -6256,11 +6254,11 @@ I dazi applicati a norma dell'articolo 1 possono essere ridotti per decisione de
 
 Le riduzioni di cui al primo trattino sono calcolate sulla parte del dazio designata come componente agricola, che corrisponde ai prodotti agricoli che entrano effettivamente nella fabbricazione dei prodotti agricoli trasformati, e vengono dedotte dai dazi applicati a tali prodotti agricoli trasformati di base.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 La Comunita' e la ex Repubblica iugoslava di Macedonia si scambiano informazioni in merito ai regimi amministrativi adottati per i prodotti contemplati dal presente protocollo. Tali regimi devono garantire un trattamento equo a tutte le parti interessate e devono essere quanto piu' possibile flessibili ed equi.
 
-##### Allegato I
+#### Allegato I
 
 ALLEGATO I
 
@@ -7792,7 +7790,7 @@ D-glucitolo
 
 ====================================================================
 
-##### Allegato II
+#### Allegato II
 
 ALLEGATO II
 
@@ -8365,7 +8363,7 @@ PROTOCOLLO N. 4
 
 SULLA DEFINIZIONE DELLA NOZIONE DI "PRODOTTI ORIGINARI" E SUI METODI DI COOPERAZIONE AMMINISTRATIVA
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 Definizioni
 
@@ -8397,7 +8395,7 @@ Ai fini del presente protocollo:
 
 ## TITOLO II - DEFINIZIONE DELLA NOZIONE DI "PRODOTTI ORIGINARI"
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Requisiti di carattere generale
 
@@ -8413,19 +8411,19 @@ Requisiti di carattere generale
 
 (b) i prodotti ottenuti nella ex Repubblica iugoslava di Macedonia in cui sono incorporati materiali non interamente ottenuti sul suo territorio, a condizione che detti materiali siano stati oggetto nella ex Repubblica iugoslava di Macedonia di lavorazioni o trasformazioni sufficienti ai sensi dell'articolo 6 del presente protocollo.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 Cumulo nella Comunita'
 
 I materiali originari della ex Repubblica iugoslava di Macedonia incorporati in un prodotto ottenuto nella Comunita' si considerano materiali originari della Comunita' anche qualora non siano stati oggetto di lavorazioni o trasformazioni sufficienti, purche' siano stati oggetto di lavorazioni o trasformazioni piu' complesse di quelle previste dall'articolo 6, paragrafo 1.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Cumulo nella ex Repubblica iugoslava di Macedonia
 
 I materiali originari della Comunita' incorporati in un prodotto ottenuto nell'ex Repubblica iugoslava di Macedonia si considerano materiali originari dell'ex Repubblica iugoslava di Macedonia anche qualora non siano stati oggetto di lavorazioni o trasformazioni sufficienti, purche' siano stati oggetto di lavorazioni o trasformazioni piu' complesse di quelle previste dall'articolo 6, paragrafo 1.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 Prodotti interamente ottenuti
 
@@ -8465,7 +8463,7 @@ Prodotti interamente ottenuti
 
 (e) e il cui equipaggio e' composto, almeno per il 75 per cento, di cittadini di Stati membri della Comunita' o dell'ex Repubblica iugoslava di Macedonia.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 Prodotti sufficientemente lavorati o trasformati
 
@@ -8483,7 +8481,7 @@ Il presente paragrafo non si applica ai prodotti contemplati dai capitoli 50-63 
 
 3\. I paragrafi 1 e 2 si applicano fatte salve le disposizioni dell'articolo 7.
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 Lavorazioni o trasformazioni insufficienti
 
@@ -8523,7 +8521,7 @@ Lavorazioni o trasformazioni insufficienti
 
 2\. Nel determinare se la lavorazione o trasformazione cui e' stato sottoposto un determinato prodotto debba essere considerata insufficiente ai sensi del paragrafo 1, si tiene complessivamente conto di tutte le operazioni eseguite nella Comunita' o nella ex Repubblica iugoslava di Macedonia.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 Unita' da prendere in considerazione
 
@@ -8537,19 +8535,19 @@ Ne consegue che:
 
 2\. Ogniqualvolta, in base alla regola generale 5 del sistema armonizzato, si consideri che l'imballaggio formi un tutto unico con il prodotto ai fini della classificazione, detto imballaggio viene preso in considerazione anche per la determinazione dell'origine.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 Accessori, pezzi di ricambio e utensili
 
 Gli accessori, i pezzi di ricambio e gli utensili che vengono consegnati con un'attrezzatura, una macchina, un apparecchio o un veicolo, che fanno parte del suo normale equipaggiamento e che sono inclusi nel suo prezzo o per i quali non viene emessa una fattura distinta si considerano un tutto unico con l'attrezzatura, la macchina, l'apparecchio o il veicolo in questione.
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 Assortimenti
 
 Gli assortimenti, definiti dalla regola generale 3 del sistema armonizzato, si considerano originari quando tutti i prodotti che li compongono sono originari. Tuttavia, un assortimento composto di prodotti originari e non originari e' considerato originario nel suo insieme a condizione che il valore dei prodotti non originari non superi il 15 per cento del prezzo franco fabbrica dell'assortimento.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 Elementi neutri
 
@@ -8565,7 +8563,7 @@ Per determinare se un prodotto e' originario, non occorre determinare l'origine 
 
 ## TITOLO III - REQUISITI TERRITORIALI
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 Principio di territorialita'
 
@@ -8577,7 +8575,7 @@ Principio di territorialita'
 
 (b) che esse non sono state sottoposte ad alcuna operazione, oltre a quelle necessarie per conservarle in buono stato durante la loro permanenza nel paese in questione o nel corso dell'esportazione.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 Trasporto diretto
 
@@ -8599,7 +8597,7 @@ iii) la certificazione delle condizioni in cui e' avvenuta la sosta delle merci 
 
 (c) in mancanza dei suddetti documenti, qualsiasi documento probatorio.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 Esposizioni
 
@@ -8619,7 +8617,7 @@ Esposizioni
 
 ## TITOLO IV - RESTITUZIONE O ESENZIONE
 
-##### ARTICOLO 15
+#### ARTICOLO 15
 
 Divieto di restituzione dei dazi doganali o di esenzione da tali dazi
 
@@ -8643,7 +8641,7 @@ Le disposizioni del presente paragrafo si applicano fino al 1 gennaio 2003 e pos
 
 ## TITOLO V - PROVA DELL'ORIGINE
 
-##### ARTICOLO 16
+#### ARTICOLO 16
 
 Requisiti di carattere generale
 
@@ -8655,7 +8653,7 @@ Requisiti di carattere generale
 
 2\. In deroga al paragrafo 1, nei casi di cui all'articolo 26 i prodotti originari ai sensi del presente protocollo beneficiano delle disposizioni dell'Accordo senza che sia necessario presentare alcuno dei documenti di cui sopra.
 
-##### ARTICOLO 17
+#### ARTICOLO 17
 
 Procedura di rilascio dei certificati di circolazione EUR.1
 
@@ -8673,7 +8671,7 @@ Procedura di rilascio dei certificati di circolazione EUR.1
 
 7\. Il certificato di circolazione EUR.1 e' rilasciato dalle autorita' doganali e tenuto a disposizione dell'esportatore dal momento in cui l'esportazione ha effettivamente luogo o e' assicurata.
 
-##### ARTICOLO 18
+#### ARTICOLO 18
 
 Rilascio a posteriori dei certificati di circolazione EUR.1
 
@@ -8693,7 +8691,7 @@ Parte di provvedimento in formato grafico
 
 5\. Le diciture di cui al paragrafo 4 devono figurare nella casella "Osservazioni" del certificato di circolazione EUR.1.
 
-##### ARTICOLO 19
+#### ARTICOLO 19
 
 Rilascio di duplicati del certificato di circolazione EUR.1
 
@@ -8707,13 +8705,13 @@ Parte di provvedimento in formato grafico
 
 4\. Il duplicato sul quale deve figurare la data di rilascio del certificato di circolazione EUR.1 originale, e' valido a decorrere da tale data.
 
-##### ARTICOLO 20
+#### ARTICOLO 20
 
 Rilascio dei certificati di circolazione EUR.1 sulla base di una prova dell'origine rilasciata o compilata in precedenza
 
 Se i prodotti originari sono posti sotto il controllo di un ufficio doganale nella Comunita' o nell'ex Repubblica iugoslava di Macedonia, si puo' sostituire l'originale della prova dell'origine con uno o piu' certificati EUR.1 al fine di inviare tutti i prodotti, o parte di essi, altrove nella Comunita' o nell'ex Repubblica iugoslava di Macedonia. I certificati di circolazione EUR.1 sostitutivi sono rilasciati dall'ufficio doganale sotto il cui controllo sono posti i prodotti.
 
-##### ARTICOLO 21
+#### ARTICOLO 21
 
 Condizioni per la compilazione di una dichiarazione su fattura
 
@@ -8731,7 +8729,7 @@ Condizioni per la compilazione di una dichiarazione su fattura
 
 6\. La dichiarazione su fattura puo' essere compilata dall'esportatore al momento dell'esportazione dei prodotti cui si riferisce o successivamente, purche' sia presentata nel paese d'importazione entro due anni dall'importazione dei prodotti cui si riferisce.
 
-##### ARTICOLO 22
+#### ARTICOLO 22
 
 Esportatore autorizzato
 
@@ -8745,7 +8743,7 @@ Esportatore autorizzato
 
 5\. Le autorita' doganali possono ritirare l'autorizzazione in qualsiasi momento. Esse procedono al ritiro se l'esportatore autorizzato non offre piule garanzie di cui al paragrafo 1, non soddisfa le condizioni di cui al paragrafo 2 o fa comunque un uso scorretto dell'autorizzazione.
 
-##### ARTICOLO 23
+#### ARTICOLO 23
 
 Validita' della prova dell'origine
 
@@ -8755,19 +8753,19 @@ Validita' della prova dell'origine
 
 3\. Negli altri casi di presentazione tardiva, le autorita' doganali del paese d'importazione possono accettare le prove dell'origine se i prodotti sono stati presentati prima della scadenza di tale termine.
 
-##### ARTICOLO 24
+#### ARTICOLO 24
 
 Presentazione della prova dell'origine
 
 Le prove dell'origine sono presentate alle autorita' doganali del paese d'importazione conformemente alle procedure applicabili in tale paese. Dette autorita' possono richiedere che la prova dell'origine sia tradotta e che la dichiarazione di importazione sia accompagnata da una dichiarazione dell'importatore secondo la quale i prodotti soddisfano le condizioni previste per l'applicazione dell'Accordo.
 
-##### ARTICOLO 25
+#### ARTICOLO 25
 
 Importazioni con spedizioni scaglionate
 
 Quando, su richiesta dell'importatore e alle condizioni stabilite dalle autorita' doganali del paese d'importazione, vengono importati con spedizioni scaglionate prodotti smontati o non assemblati ai sensi della regola generale 2, lettera a), del sistema armonizzato, di cui alle sezioni XVI e XVII o alle voci nn. 7308 e 9406 del sistema armonizzato, per tali prodotti viene presentata alle autorita' doganali un'unica prova dell'origine al momento dell'importazione della prima spedizione parziale.
 
-##### ARTICOLO 26
+#### ARTICOLO 26
 
 Esonero dalla prova dell'origine
 
@@ -8777,7 +8775,7 @@ Esonero dalla prova dell'origine
 
 3\. Inoltre, il valore complessivo dei prodotti non deve superare i 500 EUR se si tratta di piccole spedizioni, oppure i 1200 EUR se si tratta del contenuto dei bagagli personali dei viaggiatori.
 
-##### ARTICOLO 27
+#### ARTICOLO 27
 
 Documenti giustificativi
 
@@ -8791,7 +8789,7 @@ I documenti di cui all'articolo 17, paragrafo 3, e all'articolo 21, paragrafo 3,
 
 (d) certificati di circolazione EUR.1 o dichiarazioni su fattura comprovanti il carattere originario dei materiali utilizzati, rilasciati o compilati nella Comunita' o nell'ex Repubblica iugoslava di Macedonia a norma del presente protocollo.
 
-##### ARTICOLO 28
+#### ARTICOLO 28
 
 Conservazione delle prove dell'origine e dei documenti giustificativi
 
@@ -8811,7 +8809,7 @@ un certificato di circolazione EUR.1 devono conservare per almeno tre anni il fo
 
 conservare per almeno tre anni i certificati di circolazione EUR.1 e le dichiarazioni su fattura loro presentati.
 
-##### ARTICOLO 29
+#### ARTICOLO 29
 
 Discordanze ed errori formali
 
@@ -8819,7 +8817,7 @@ Discordanze ed errori formali
 
 2\. In caso di errori formali evidenti, come errori di battitura, sulla prova dell'origine, il documento non viene respinto se detti errori non sono tali da destare dubbi sulla correttezza delle indicazioni in esso riportate.
 
-##### ARTICOLO 30
+#### ARTICOLO 30
 
 Importi espressi in euro
 
@@ -8837,7 +8835,7 @@ L'importo arrotondato non puo' differire di piu' del 5% dal risultato della conv
 
 ## TITOLO VI - MISURE DI COOPERAZIONE AMMINISTRATIVA
 
-##### ARTICOLO 31
+#### ARTICOLO 31
 
 Assistenza reciproca
 
@@ -8845,7 +8843,7 @@ Assistenza reciproca
 
 2\. Al fine di garantire la corretta applicazione del presente protocollo, la Comunita' e l'ex Repubblica iugoslava di Macedonia si prestano reciproca assistenza, mediante le amministrazioni doganali competenti, nel controllo dell'autenticita' dei certificati di circolazione EUR.1 o delle dichiarazioni su fattura e della correttezza delle informazioni riportate in tali documenti.
 
-##### ARTICOLO 32
+#### ARTICOLO 32
 
 Verifica delle prove dell'origine
 
@@ -8861,7 +8859,7 @@ Verifica delle prove dell'origine
 
 6\. Qualora, in caso di ragionevole dubbio, non sia pervenuta alcuna risposta entro dieci mesi dalla data della richiesta di controllo o qualora la risposta non contenga informazioni sufficienti per determinare l'autenticita' del documento in questione o l'effettiva origine dei prodotti, le autorita' doganali che hanno richiesto il controllo li escludono dal trattamento preferenziale, salvo circostanze eccezionali.
 
-##### ARTICOLO 33
+#### ARTICOLO 33
 
 Composizione delle controversie
 
@@ -8869,13 +8867,13 @@ Le controversie riguardanti le procedure di controllo di cui all'articolo 32 che
 
 La composizione delle controversie tra l'importatore e le autorita' doganali del paese d'importazione e' comunque soggetta alla legislazione del suddetto paese.
 
-##### ARTICOLO 34
+#### ARTICOLO 34
 
 Sanzioni
 
 Chiunque compili o faccia compilare un documento contenente dati non rispondenti a verita' allo scopo di ottenere un trattamento preferenziale per i prodotti e' assoggettato a sanzioni.
 
-##### ARTICOLO 35
+#### ARTICOLO 35
 
 Zone franche
 
@@ -8885,7 +8883,7 @@ Zone franche
 
 ## TITOLO VII - CEUTA E MELILLA
 
-##### ARTICOLO 36
+#### ARTICOLO 36
 
 Attuazione del protocollo
 
@@ -8895,7 +8893,7 @@ Attuazione del protocollo
 
 3\. Ai fini dell'applicazione del paragrafo 2 per quanto riguarda i prodotti originari di Ceuta e Melilla, il presente protocollo si applica mutatis mutandis, fatte salve le condizioni particolari di cui all'articolo 37.
 
-##### ARTICOLO 37
+#### ARTICOLO 37
 
 Condizioni speciali
 
@@ -8929,13 +8927,13 @@ ii) tali prodotti siano originari di Ceuta e Melilla o della Comunita' a norma d
 
 ## TITOLO VIII - DISPOSIZIONI FINALI
 
-##### ARTICOLO 38
+#### ARTICOLO 38
 
 Modifiche del protocollo
 
 Il consiglio di stabilizzazione e di associazione puo' decidere di apportare modifiche alle disposizioni del presente protocollo.
 
-##### Allegato I
+#### Allegato I
 
 ALLEGATO I
 
@@ -9151,7 +9149,7 @@ Nota 7:
 
 7.3 Ai sensi delle voci ex 2707, da 2713 a 2715, a 2901, ex 2902 ed ex 3403, le operazioni semplici quali la pulitura, la decantazione, la desalificazione, la disidratazione, il filtraggio, la colorazione, la marcatura, l'ottenimento di un tenore di zolfo mescolando prodotti con tenori di zolfo diversi, qualsiasi combinazione di queste operazioni o di operazioni analoghe non conferiscono l'origine.
 
-##### Allegato II
+#### Allegato II
 
 ALLEGATO II
 
@@ -14913,7 +14911,7 @@ del prezzo franco
 
 fabbrica del prodotto
 
-##### Allegato II
+#### Allegato II
 
 --------------------------------------------------------------------
 
@@ -21229,7 +21227,7 @@ comprese altrove
 
 in questo capitolo
 
-##### Allegato II
+#### Allegato II
 
 --------------------------------------------------------------------
 
@@ -23063,7 +23061,7 @@ del prodotto
 
 --------------------------------------------------------------------
 
-##### Allegato III
+#### Allegato III
 
 ALLEGATO III
 
@@ -23299,7 +23297,7 @@ CHIEDO il rilascio del certificato qui allegato per queste merci.
 
 (1) Ad esempio: documenti d'importazione, certificati di circolazione, fatture, dichiarazioni del fabbricante, ecc., relativi ai prodotti messi in opera o alle merci riesportate tal quali.
 
-##### Allegato IV
+#### Allegato IV
 
 ALLEGATO IV
 
@@ -23331,7 +23329,7 @@ PROTOCOLLO N. 5
 
 RELATIVO ALL'ASSISTENZA RECIPROCA TRA LE AUTORITA' AMMINISTRATIVE NEL SETTORE DOGANALE
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 Definizioni
 
@@ -23345,7 +23343,7 @@ Ai sensi del presente protocollo valgono le seguenti definizioni: (a) "legislazi
 
 (e) "operazione che viola la legislazione doganale": tutte le violazioni o i tentativi di violazione della legislazione doganale.
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Campo di applicazione
 
@@ -23355,7 +23353,7 @@ Campo di applicazione
 
 3\. L'assistenza in materia di riscossione di diritti, tasse o contravvenzioni non rientra nel presente protocollo.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 Assistenza su richiesta
 
@@ -23377,7 +23375,7 @@ Assistenza su richiesta
 
 (d) i mezzi di trasporto per i quali vi sono fondati motivi di ritenere che siano destinati ad operazioni contrarie alla normativa doganale.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Assistenza spontanea
 
@@ -23393,7 +23391,7 @@ Le Parti contraenti si prestano assistenza reciproca di propria iniziativa, nell
 
 \- mezzi di trasporto per i quali vi sono fondati motivi di ritenere che siano stati, siano ovvero possano essere utilizzati per violare la legislazione doganale.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 Consegna/Notifica
 
@@ -23407,7 +23405,7 @@ provenienti dall'autorita' richiedente e che rientrano nel campo di applicazione
 
 Le domande di consegna di documenti e di notifica di decisioni devono essere presentate per iscritto nella lingua ufficiale dell'autorita' interpellata o in una lingua accettabile per quest'ultima.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 Forma e contenuto delle domande di assistenza
 
@@ -23431,7 +23429,7 @@ Forma e contenuto delle domande di assistenza
 
 4\. Se la domanda non risponde ai requisiti formali stabiliti possono esserne richiesti la correzione o il completamento; nel frattempo, possono essere disposte misure cautelative.
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 Adempimento delle domande
 
@@ -23443,7 +23441,7 @@ Adempimento delle domande
 
 4\. I funzionari debitamente autorizzati di una Parte contraente possono, d'intesa con l'altra Parte contraente e alle condizioni da essa stabilite, essere presenti alle indagini condotte nel territorio di quest'ultima.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 Forma in cui devono essere comunicate le informazioni
 
@@ -23453,7 +23451,7 @@ Forma in cui devono essere comunicate le informazioni
 
 3\. Gli originali dei documenti sono trasmessi soltanto su richiesta qualora le copie autenticate risultassero insufficienti. Gli originali sono restituiti quanto prima.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 Deroghe all'obbligo di fornire assistenza
 
@@ -23471,7 +23469,7 @@ Deroghe all'obbligo di fornire assistenza
 
 4\. Nei casi di cui ai paragrafi 1 e 2, la decisione dell'autorita' interpellata e le relative motivazioni devono essere comunicate senza indugio all'autorita' richiedente.
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 Scambi di informazioni e riservatezza
 
@@ -23485,19 +23483,19 @@ Pertanto, nei documenti probatori, nelle relazioni e testimonianze, nonche' nei 
 
 4\. Le informazioni ottenute sono utilizzate soltanto ai fini del presente protocollo. Una Parte contraente che voglia utilizzare tali informazioni per altri fini deve ottenere l'accordo scritto preliminare dell'autorita' che le ha fornite. Tale utilizzazione e' quindi soggetta a tutte le restrizioni imposte da detta autorita'.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 Esperti e testimoni
 
 Un funzionario dell'autorita' interpellata puo' essere autorizzato a comparire, nei limiti stabiliti nell'autorizzazione concessa, in qualita' di esperto o testimone in procedimenti giudiziari o amministrativi riguardanti le materie di cui al presente protocollo e produrre oggetti, documenti ovvero loro copie autenticate che possano occorrere nel procedimento. Nella richiesta di comparizione deve essere precisato davanti a quale autorita' giudiziaria o amministrativa tale funzionario deve comparire, nonche' per quale causa e a quale titolo sara' ascoltato.
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 Spese di assistenza
 
 Le parti contraenti rinunciano reciprocamente a tutte le richieste di rimborso delle spese sostenute in virtu' del presente protocollo, escluse, a seconda dei casi, le spese per esperti e testimoni nonche' per gli interpreti e traduttori che non dipendono da pubblici servizi.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 Esecuzione
 
@@ -23507,7 +23505,7 @@ Essi possono raccomandare agli organismi competenti le modifiche del presente pr
 
 2\. Le parti contraenti si consultano e si tengono reciprocamente informate in merito alle modalita' di attuazione adottate conformemente alle disposizioni del presente protocollo.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 Altri accordi
 
@@ -23523,7 +23521,7 @@ Altri accordi
 
 3\. Per quanto riguarda le questioni relative all'applicabilita' del presente protocollo, le Parti contraenti si consultano per trovare una soluzione in sede di comitato di stabilizzazione e di associazione istituito dall'articolo 114 dell'accordo di stabilizzazione e di associazione.
 
-##### Atto finale
+#### Atto finale
 
 ATTO FINALE
 
@@ -23609,7 +23607,7 @@ Protocollo n. 5 sull'assistenza amministrativa reciproca in materia doganale
 
 I plenipotenziari degli Stati membri e della Comunita' e i plenipotenziari dell'ex Repubblica jugoslava di Macedonia hanno adottato il testo delle dichiarazioni comuni di seguito elencate e allegate al presente atto finale:
 
-##### Dichiarazioni congiunte
+#### Dichiarazioni congiunte
 
 Dichiarazione congiunta relativa all'articolo 34 dell'accordo
 

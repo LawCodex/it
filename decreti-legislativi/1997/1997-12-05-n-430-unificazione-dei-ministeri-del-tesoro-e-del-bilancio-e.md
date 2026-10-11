@@ -52,7 +52,7 @@ il seguente decreto legislativo:
 
 ## Capo I - Riordino delle competenze del CIPE
 
-#### Art. 1
+### Art. 1
 
 Attribuzioni del CIPE
 
@@ -86,11 +86,9 @@ c) che le proposte delle amministrazioni competenti, sulla base delle quali il C
 
 All'organizzazione della segreteria si provvede ai sensi dell'articolo 2, comma 2, nell'ambito del dipartimento avente competenza nelle materie di cui all'articolo 3, comma 2, lettera c).
 
-## Capo II - Unificazione del Ministero del tesoro e del Ministero del bilancio
+## Capo II - Unificazione del Ministero del tesoro e del Ministero del bilancio e della programmazione economica.
 
-### e della programmazione economica.
-
-#### Art. 2
+### Art. 2
 
 Costituzione del Ministero del tesoro, del bilancio e della
 
@@ -106,7 +104,7 @@ a) Ministero: Ministero del tesoro, del bilancio e della programmazione economic
 
 b) Ministro: Ministro del tesoro, del bilancio e della programmazione economica.
 
-#### Art. 3
+### Art. 3
 
 Riordino delle competenze
 
@@ -136,7 +134,7 @@ d) amministrazione generale, personale e servizi del tesoro, con particolare rig
 
 > \- Il testo dell'art. 5, comma 1, del decreto del Presidente della Repubblica 20 aprile 1994, n. 367 (Regolamento recante semplificazione e accelerazione delle procedure di spesa e contabili), e' il seguente: "1. Il dirigente responsabile della spesa, previa attestazione, nelle forme da stabilirsi con apposite istruzioni del Ministro del tesoro, dell'esatto adempimento delle obbligazioni assunte dai terzi ovvero del verificarsi delle altre condizioni o prestazioni stabilite in rapporto al corrispondente impegno, anche sulla scorta della valutazione di organi tecnici e di controllo della qualita', emette l'ordine di pagare le somme impegnate. Nell'ordine sono riportati i riferimenti contabili del corrispondente impegno".
 
-#### Art. 4
+### Art. 4
 
 Organi collegiali
 
@@ -186,7 +184,7 @@ Organi collegiali
 
 > \- Il testo dell'art. 17, comma 4-bis, della citata legge n. 400/1988, e' riportato in nota all'art. 2.
 
-#### Art. 5
+### Art. 5
 
 Cabina di regia nazionale
 
@@ -250,11 +248,11 @@ Cabina di regia nazionale
 
 > Le disposizioni del presente articolo non si applicano al personale comandato o collocato fuori ruolo presso il Ministero degli affari esteri in virtu' di altre disposizioni ne' a quello inviato all'estero in missione temporanea".
 
-#### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.L. 21 GIUGNO 2022, N. 73))
 
-#### Art. 7
+### Art. 7
 
 Disposizioni sugli uffici locali e sulle ragionerie
 
@@ -270,7 +268,7 @@ Disposizioni sugli uffici locali e sulle ragionerie
 
 > Nel caso di impegno contestuale al pagamento, per la registrazione dell'atto si applicano le norme e il termine di cui al comma 2".
 
-#### Art. 8
+### Art. 8
 
 Disposizioni sul personale
 
@@ -296,7 +294,7 @@ Capo III
 
 Norme finali e transitorie
 
-#### Art. 9
+### Art. 9
 
 Modifiche dell'organizzazione
 
@@ -306,7 +304,7 @@ e della disciplina degli uffici
 
 ## Capo III - Norme finali e transitorie
 
-#### Art. 10
+### Art. 10
 
 Invarianza della spesa e stato di previsione del Ministero
 
@@ -320,7 +318,7 @@ Invarianza della spesa e stato di previsione del Ministero
 
 > "Art. 9. - 1. Entro trenta giorni dalla data di pubblicazione della presente legge nella Gazzetta Ufficiale della Repubblica italiana, e' istituita una Commissione composta da quindici senatori e quindici deputati, nominati rispettivamente dal Presidente del Senato della Repubblica e dal Presidente della Camera dei deputati, nel rispetto della proporzione esistente tra i gruppi parlamentari, sulla base delle designazioni dei gruppi medesimi, al fine dell'esame degli schemi di decreto trasmessi ai sensi degli articoli 5, comma 3, 6, comma 5, e 7, comma 4".
 
-#### Art. 11
+### Art. 11
 
 Competenze del Ministero
 
@@ -338,7 +336,7 @@ d) "Direzione generale dei servizi vari e delle pensioni di guerra" e "Direzione
 
 e) "Ragioneria provinciale dello Stato", "Ragioneria regionale dello Stato" e "Direzione provinciale del tesoro": dipartimenti provinciali del tesoro, del bilancio e della programmazione economica previsti dall'articolo 7, con riguardo alle articolazioni interne che svolgono le relative funzioni.
 
-#### Art. 12
+### Art. 12
 
 Competenze di altre amministrazioni
 
@@ -346,7 +344,7 @@ ed organismi pubblici
 
 1\. Nelle materie disciplinate dal presente decreto legislativo e dai regolamenti di cui all'articolo 2, comma 2, restano ferme le competenze istituzionali e le altre specifiche attribuzioni previste dal vigente ordinamento per le altre amministrazioni ed organismi pubblici, ivi compresa la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano.
 
-#### Art. 13
+### Art. 13
 
 Disposizioni transitorie
 
@@ -356,7 +354,7 @@ Disposizioni transitorie
 
 > \- Il titolo della citata legge n. 59/1997 e' riportato in nota all'art. 1.
 
-#### Art. 14
+### Art. 14
 
 Abrogazione di norme
 

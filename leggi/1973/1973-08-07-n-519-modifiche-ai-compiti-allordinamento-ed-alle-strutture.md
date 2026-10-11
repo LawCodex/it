@@ -168,7 +168,7 @@ Il D.Lgs. 28 giugno 2012, n. 106 ha disposto (con l'art. 8, comma 1, lettera a))
 
 Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
-## Capo I. - ORGANI COLLEGIALI DI DIREZIONE E DI CONSULENZA
+### Capo I. - ORGANI COLLEGIALI DI DIREZIONE E DI CONSULENZA
 
 #### Art. 7 - Comitato amministrativo: composizione
 
@@ -390,7 +390,7 @@ Il D.Lgs. 28 giugno 2012, n. 106 ha disposto (con l'art. 8, comma 1, lettera a))
 
 Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
-## Capo II. - ORGANI DIRETTIVI INDIVIDUALI: ATTRIBUZIONI
+### Capo II. - ORGANI DIRETTIVI INDIVIDUALI: ATTRIBUZIONI
 
 #### Art. 14 - Attribuzioni del direttore dell'Istituto
 
@@ -484,9 +484,7 @@ Il D.Lgs. 28 giugno 2012, n. 106 ha disposto (con l'art. 8, comma 1, lettera a))
 
 Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
-## TITOLO IV - ATTIVITA' CONTRATTUALE - PROGETTI -
-
-### PROGRAMMA
+## TITOLO IV - ATTIVITA' CONTRATTUALE - PROGETTI - PROGRAMMA
 
 #### Art. 19 - Contratti
 
@@ -716,7 +714,7 @@ Il D.Lgs. 28 giugno 2012, n. 106 ha disposto (con l'art. 8, comma 1, lettera a))
 
 Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
-## Capo I. - CARRIERE DIRETTIVE
+### Capo I. - CARRIERE DIRETTIVE
 
 #### Art. 30 - Classificazione delle carriere direttive
 
@@ -900,7 +898,7 @@ Il D.Lgs. 28 giugno 2012, n. 106 ha disposto (con l'art. 8, comma 1, lettera a))
 
 Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
-## Capo II. - CARRIERE DI CONCETTO
+### Capo II. - CARRIERE DI CONCETTO
 
 #### Art. 38
 
@@ -982,7 +980,7 @@ Il D.Lgs. 28 giugno 2012, n. 106 ha disposto (con l'art. 8, comma 1, lettera a))
 
 Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
-## Capo III. - CARRIERE ESECUTIVE
+### Capo III. - CARRIERE ESECUTIVE
 
 #### Art. 42
 
@@ -1044,7 +1042,7 @@ Il D.Lgs. 28 giugno 2012, n. 106 ha disposto (con l'art. 8, comma 1, lettera a))
 
 Ha inoltre disposto (con l'art. 8, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
-## Capo IV. - CARRIERA DEL PERSONALE AUSILIARIO TECNICO
+### Capo IV. - CARRIERA DEL PERSONALE AUSILIARIO TECNICO
 
 #### Art. 45
 

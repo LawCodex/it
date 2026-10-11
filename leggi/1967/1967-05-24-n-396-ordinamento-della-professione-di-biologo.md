@@ -26,13 +26,13 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Titolo professionale
 
 Il titolo di biologo spetta a coloro che, in possesso del titolo accademico valido per l'ammissione all'esame di Stato per l'esercizio della professione di biologo, abbiano conseguito l'abilitazione all'esercizio di tale professione.
 
-### Art. 2
+## Art. 2
 
 Obbligatorieta' dell'iscrizione nell'albo
 
@@ -44,7 +44,7 @@ I pubblici impiegati, ai quali sia consentito l'esercizio della libera professio
 
 Il biologo iscritto nell'albo ha la facolta' di esercitare la professione in tutto il territorio dello Stato.
 
-### Art. 3
+## Art. 3
 
 Oggetto della professione
 
@@ -70,13 +70,13 @@ i) funzioni di perito e di arbitratore in ordine a tutte le attribuzioni soprame
 
 L'elencazione di cui al presente articolo non limita l'esercizio di ogni altra attivita' professionale consentita ai biologi iscritti nell'albo, ne' pregiudica quanto puo' formare oggetto dell'attivita' di altre categorie di professionisti, a norma di leggi e di regolamenti.
 
-### Art. 4
+## Art. 4
 
 Segreto professionale
 
 Il professionista iscritto nell'albo non puo', senza giusta causa, rivelare un segreto di cui abbia avuto notizia per ragioni della propria professione.
 
-### Art. 5
+## Art. 5
 
 Requisiti per l'iscrizione nell'albo o nell'elenco speciale
 
@@ -94,19 +94,19 @@ d) essere abilitato all'esercizio della professione di biologo;
 
 e) avere la residenza ((o il domicilio professionale)) in Italia. ((Il decreto di riconoscimento della qualifica professionale ai sensi del Titolo III, del decreto legislativo 9 novembre 2007, n. 206, costituisce titolo per l'iscrizione nell'albo.))
 
-### Art. 6
+## Art. 6
 
 Iscrizioni nell'albo di professori universitari e liberi docenti
 
 Nell'albo professionale dei biologi possono essere iscritti, anche indipendentemente dal requisito di cui alla lettera d) dell'articolo 5, i titolari di cattedre universitarie, i liberi docenti e gli incaricati, limitatamente alle discipline con applicazioni professionali di indole biologica.
 
-### Art. 7
+## Art. 7
 
 Iscrizione nell'albo di cittadini italiani residenti all'estero
 
 I cittadini italiani residenti all'estero possono essere esonerati, per l'iscrizione nell'albo, dal requisito di cui alla lettera e) dell'articolo 5 qualora dimostrino di risiedere all'estero al servizio, in qualita' di biologi, di enti od imprese nazionali che operano fuori del territorio dello Stato.
 
-### Art. 8
+## Art. 8
 
 Modalita' di iscrizione nell'albo
 
@@ -120,13 +120,13 @@ I titolari di cattedre universitarie, i liberi docenti e gli incaricati di cui a
 
 Per i cittadini ((di Stati non membri dell'Unione europea)), la esistenza del trattamento di reciprocita' comprovata, a degli interessati, con attestazione del Ministero degli affari esteri.
 
-### Art. 9
+## Art. 9
 
 Dell'iscrizione nell'elenco speciale
 
 Per l'iscrizione nell'elenco speciale dei pubblici impiegati di cui al secondo comma dell'articolo 2 valgono, in quanto applicabili, le disposizioni di cui al primo e secondo comma dell'articolo precedente.
 
-### Art. 10
+## Art. 10
 
 Iscrizione
 
@@ -134,7 +134,7 @@ Il Consiglio dell'Ordine delibera nel termine di due mesi dalla data di presenta
 
 ((Al procedimento per l'iscrizione nell'albo si applica l'articolo 45, commi 4 e 5, del decreto legislativo di attuazione della direttiva 2006/123/CE.))
 
-### Art. 11
+## Art. 11
 
 Anzianita' di iscrizione nell'albo o nell'elenco speciale
 
@@ -144,7 +144,7 @@ L'iscrizione nell'albo o nell'elenco speciale avviene secondo l'ordine cronologi
 
 L'albo e l'elenco speciale recano un indice alfabetico che riporta il numero d'ordine di iscrizione.
 
-### Art. 12
+## Art. 12
 
 Cancellazione dall'albe o dall'elenco speciale
 
@@ -158,7 +158,7 @@ Il Consiglio dell'Ordine, d'ufficio o su richiesta del pubblico ministero, pronu
 
 Il Consiglio dell'Ordine pronuncia la cancellazione dopo aver sentito l'interessato tranne che nei casi di irreperibilita' o in quello previsto dal n. 1) del comma precedente.
 
-### Art. 13
+## Art. 13
 
 Trasmissione dell'albo e dell'elenco speciale
 
@@ -172,135 +172,135 @@ AGGIORNAMENTO (4)
 
 La L. 11 gennaio 2018, n. 3 ha disposto (con l'art. 9, comma 1) che nella presente legge "ogni riferimento al Ministro della giustizia e al Ministero della giustizia si intende fatto, rispettivamente, al Ministro della salute e al Ministero della salute".
 
-### Art. 14
+## Art. 14
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 15
+## Art. 15
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 16
+## Art. 16
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 17
+## Art. 17
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 18
+## Art. 18
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 19
+## Art. 19
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 20
+## Art. 20
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 21
+## Art. 21
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 22
+## Art. 22
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 23
+## Art. 23
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 24
+## Art. 24
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 25
+## Art. 25
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 26
+## Art. 26
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 27
+## Art. 27
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 28
+## Art. 28
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 29
+## Art. 29
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 30
+## Art. 30
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 31
+## Art. 31
 
 ((ARTICOLO ABROGATO DAL D.P.R. 8 LUGLIO 2005, N. 169))
 
-### Art. 32
+## Art. 32
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 33
+## Art. 33
 
 ((ARTICOLO ABROGATO DAL D.P.R. 8 LUGLIO 2005, N. 169))
 
-### Art. 34
+## Art. 34
 
 ((ARTICOLO ABROGATO DAL D.P.R. 8 LUGLIO 2005, N. 169))
 
-### Art. 35
+## Art. 35
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 36
+## Art. 36
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 37
+## Art. 37
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 38
+## Art. 38
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 39
+## Art. 39
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 40
+## Art. 40
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 41
+## Art. 41
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 42
+## Art. 42
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 43
+## Art. 43
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 44
+## Art. 44
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 45
+## Art. 45
 
 ((ARTICOLO ABROGATO DALLA L. 11 GENNAIO 2018, N. 3))
 
-### Art. 46
+## Art. 46
 
 (( (Vigilanza del Ministro della salute). ))
 
@@ -308,11 +308,11 @@ La L. 11 gennaio 2018, n. 3 ha disposto (con l'art. 9, comma 1) che nella presen
 
 ## DISPOSIZIONI TRANSITORIE
 
-### Art. 47
+## Art. 47
 
 Sino a quando non saranno emanate le disposizioni sull'esame di Stato il requisito di cui alla lettera d) dell'articolo 5 e' sostituito da quello di aver compiuto, da laureato in scienze biologiche, una effettiva pratica professionale per un periodo di almeno due anni.
 
-### Art. 48
+## Art. 48
 
 Laureati in scienze naturali, medicina, chimica, farmacia e agraria
 
@@ -324,7 +324,7 @@ AGGIORNAMENTO (1)
 
 La L. 10 maggio 1970, n. 274, ha disposto (con l'articolo unico, comma 2) che "Il termine per la presentazione della domanda di iscrizione nell'albo previsto dal detto articolo e' prorogato di un anno dalla data di entrata in vigore della presente legge."
 
-### Art. 49
+## Art. 49
 
 Prima formazione dell'albo professionale e dell'elenco speciale dei biologi
 
@@ -348,7 +348,7 @@ AGGIORNAMENTO (4)
 
 La L. 11 gennaio 2018, n. 3 ha disposto (con l'art. 9, comma 1) che nella presente legge "ogni riferimento al Ministro della giustizia e al Ministero della giustizia si intende fatto, rispettivamente, al Ministro della salute e al Ministero della salute".
 
-### Art. 50
+## Art. 50
 
 Ricorsi avverso le deliberazioni in materia di prima formazione dell'albo e dell'elenco speciale
 
@@ -368,7 +368,7 @@ AGGIORNAMENTO (4)
 
 La L. 11 gennaio 2018, n. 3 ha disposto (con l'art. 9, comma 1) che nella presente legge "ogni riferimento al Ministro della giustizia e al Ministero della giustizia si intende fatto, rispettivamente, al Ministro della salute e al Ministero della salute".
 
-### Art. 51
+## Art. 51
 
 Prima elezione del Consiglio dell'Ordine e del Consiglio nazionale
 

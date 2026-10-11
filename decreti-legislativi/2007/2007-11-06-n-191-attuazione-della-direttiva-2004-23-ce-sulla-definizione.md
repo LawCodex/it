@@ -69,7 +69,7 @@ il seguente decreto legislativo:
 
 ## Capo I - Disposizioni generali
 
-#### Art. 1
+### Art. 1
 
 Obiettivi
 
@@ -139,7 +139,7 @@ Obiettivi
 
 > \- La legge 19 febbraio 2004, n. 40 «Norme in materia di procreazione medicalmente assistita» e' pubblicata nella Gazzetta Ufficiale del 24 febbraio 2004, n. 45.
 
-#### Art. 2
+### Art. 2
 
 Ambito di applicazione
 
@@ -161,7 +161,7 @@ c) organi o parti di organi, qualora la loro funzione sia quella di essere utili
 
 > \- Per il decreto legislativo 19 agosto 2005, n. 191, vedi le note alle premesse.
 
-#### Art. 3
+### Art. 3
 
 Definizioni
 
@@ -205,7 +205,7 @@ t) «uso autologo»: cellule o tessuti prelevati da una persona ed applicati sul
 
 > \- Per la legge 1° aprile 1999, n. 91, il decreto legislativo 19 agosto 2005, n. 191 e la legge 19 febbraio 2004, n. 40, vedi note alle premesse.
 
-#### Art. 4
+### Art. 4
 
 Attuazione
 
@@ -213,13 +213,13 @@ Attuazione
 
 ## Capo II - Obblighi delle autorita' competenti
 
-#### Art. 5
+### Art. 5
 
 Vigilanza sull'approvvigionamento dei tessuti e delle cellule umani 1. L'approvvigionamento e il controllo dei tessuti e delle cellule sono effettuati da personale in possesso dei requisiti richiesti dalla normativa vigente e che abbia formazione ed esperienza adeguate e si svolgono secondo modalita' a tale fine autorizzate dalle regioni e dalle province autonome.
 
 2\. Con decreto del Ministro della salute, previa intesa con le regioni e le province autonome, sono impartite le disposizioni per assicurare che l'approvvigionamento dei tessuti e delle cellule sia attuato nel rispetto della normativa vigente nel settore e in coerenza ai requisiti di cui all'articolo 28, comma 1, lettere b), e) e f). I controlli, compresi gli esami analitici, richiesti per i donatori sono effettuati dalle strutture a tali fini specificamente individuate, autorizzate e accreditate secondo le modalita' previste dalle regioni o dalle province autonome.
 
-#### Art. 6
+### Art. 6
 
 Autorizzazione e accreditamento degli istituti dei tessuti
 
@@ -237,7 +237,7 @@ e dei procedimenti di preparazione dei tessuti e delle cellule
 
 6\. Con decreto del Ministro della salute, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono individuati, nel rispetto dei requisiti di cui all'articolo 28, comma 1, lettera i), i tessuti e le cellule specifici che possono essere distribuiti direttamente per il trapianto immediato al ricevente, a condizione che il fornitore abbia ottenuto per tale attivita' l'autorizzazione e l'accreditamento da parte delle regioni o delle province autonome competenti.
 
-#### Art. 7
+### Art. 7
 
 Ispezioni e misure di controllo
 
@@ -261,7 +261,7 @@ c) esaminare qualsiasi documento o altre registrazioni connessi a quanto richies
 
 7\. Con accordo in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano sono stabiliti modalita' e tempi per corrispondere alla richiesta della Commissione europea o di un altro Stato dell'Unione europea in ordine ai risultati delle ispezioni e delle misure di controllo attuate in relazione ai disposti del presente decreto.
 
-#### Art. 8
+### Art. 8
 
 Tracciabilita'
 
@@ -279,7 +279,7 @@ Tale tracciabilita' riguarda anche le informazioni concernenti prodotti e materi
 
 6\. Con apposito decreto di recepimento di direttive tecniche europee adottato dal Ministro della salute, di concerto con il Ministro dell'economia e delle finanze, e' data attuazione alle procedure volte a garantire la tracciabilita' a livello comunitario, formulate in sede europea.
 
-#### Art. 9
+### Art. 9
 
 Importazione ed esportazione di tessuti e cellule umani
 
@@ -297,7 +297,7 @@ c) l'adozione di tutte le misure necessarie per assicurare che le importazioni e
 
 4\. Con apposito decreto del Ministro della salute sono recepite le procedure, stabilite in sede europea, volte alla verifica del rispetto delle norme di qualita' e di sicurezza equivalenti.
 
-#### Art. 10
+### Art. 10
 
 Registro degli istituti dei tessuti e obbligo di presentare relazioni 1. Gli istituti dei tessuti istituiscono e conservano un registro delle loro attivita', nel quale sono riportati anche i tipi e le quantita' di tessuti e/o di cellule prelevati, controllati, conservati, lavorati, stoccati e distribuiti o altrimenti utilizzati, e l'origine e la destinazione dei tessuti e delle cellule destinati ad applicazioni sull'uomo, in conformita' alle norme vigenti e ai disposti di cui all'articolo 28, comma 1, lettera f). Gli istituti dei tessuti presentano, alle regioni o alle province autonome e al CNT, al CNS e all'Istituto superiore di sanita' (ISS), secondo le rispettive competenze, una relazione annuale sulle attivita' svolte, accessibile al pubblico.
 
@@ -307,7 +307,7 @@ Registro degli istituti dei tessuti e obbligo di presentare relazioni 1. Gli ist
 
 3\. A livello europeo e' istituita la rete dei registri nazionali degli istituti dei tessuti.
 
-#### Art. 11
+### Art. 11
 
 Notifica di eventi e reazioni avversi gravi
 
@@ -323,7 +323,7 @@ Notifica di eventi e reazioni avversi gravi
 
 ## Capo III - Selezione e valutazione dei donatori
 
-#### Art. 12
+### Art. 12
 
 Principi della donazione di tessuti e cellule
 
@@ -333,7 +333,7 @@ Principi della donazione di tessuti e cellule
 
 3\. Il Ministero della salute, le regioni e le province autonome, il CNT o il CNS, in collaborazione con le rispettive associazioni e federazioni dei donatori volontari adottano, nei limiti degli ordinari stanziamenti di bilancio, tutte le misure necessarie per assicurare che le attivita' di promozione e pubblicita' a favore della donazione di tessuti e cellule umani siano conformi agli orientamenti e alle disposizioni legislative vigenti.
 
-#### Art. 13
+### Art. 13
 
 Consenso ed espressione di volonta'
 
@@ -341,7 +341,7 @@ Consenso ed espressione di volonta'
 
 2\. Con decreto del Ministro della salute, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono fissate le misure necessarie per garantire che i donatori, i loro congiunti o le persone che danno l'autorizzazione per conto dei donatori, ricevano, oltre a tutte le informazioni previste dalle norme vigenti, anche quelle di cui all'allegato al presente decreto.
 
-#### Art. 14
+### Art. 14
 
 Protezione dei dati e tutela della riservatezza
 
@@ -357,7 +357,7 @@ c) non avvenga alcuna divulgazione non autorizzata di tali informazioni, garante
 
 3\. Nel rispetto delle disposizioni vigenti in materia, l'identita' del o dei riceventi non e' rivelata al donatore o alla sua famiglia e viceversa.
 
-#### Art. 15
+### Art. 15
 
 Selezione, valutazione e approvvigionamento
 
@@ -369,11 +369,9 @@ Selezione, valutazione e approvvigionamento
 
 4\. La persona responsabile dell'istituto dei tessuti garantisce che tutte le attivita' connesse con l'approvvigionamento dei tessuti si svolgano nel rispetto della normativa vigente e dei disposti dell'articolo 28, comma 1, lettera f).
 
-## Capo IV - Disposizioni relative alla qualita' e sicurezza dei tessuti e delle
+## Capo IV - Disposizioni relative alla qualita' e sicurezza dei tessuti e delle cellule
 
-### cellule
-
-#### Art. 16
+### Art. 16
 
 Gestione della qualita'
 
@@ -399,7 +397,7 @@ f) informazioni sulla destinazione finale dei tessuti o delle cellule.
 
 5\. Gli istituti dei tessuti conservano i dati necessari per garantire la tracciabilita' come previsto dall'articolo 8.
 
-#### Art. 17
+### Art. 17
 
 Persona responsabile
 
@@ -419,13 +417,13 @@ c) attuare, relativamente alle attivita' svolte, le disposizioni previste agli a
 
 3\. L'Ente titolare dell'autorizzazione e accreditamento comunica alla regione o alla provincia autonoma il nome della persona responsabile dell'istituto dei tessuti. Qualora la persona responsabile debba essere temporaneamente o permanentemente sostituita, il sopraindicato Ente comunica alla regione o alla provincia autonoma il nome del nuovo responsabile e la data di assunzione delle funzioni.
 
-#### Art. 18
+### Art. 18
 
 Personale
 
 1\. Il personale degli istituti dei tessuti che interviene direttamente nelle attivita' connesse con l'approvvigionamento, la lavorazione, la conservazione, lo stoccaggio e la distribuzione di tessuti e cellule possiede le qualifiche necessarie secondo la normativa vigente per svolgere tali funzioni e riceve adeguata formazione professionale, in conformita' anche ai disposti di cui all'articolo 28, comma 1, lettera c).
 
-#### Art. 19
+### Art. 19
 
 Ricevimento dei tessuti e delle cellule
 
@@ -441,7 +439,7 @@ Ricevimento dei tessuti e delle cellule
 
 6\. I tessuti e le cellule sono tenuti in quarantena sino al soddisfacimento dei requisiti relativi al controllo e all'informazione del donatore, ai sensi dell'articolo 15.
 
-#### Art. 20
+### Art. 20
 
 Lavorazione dei tessuti e delle cellule
 
@@ -451,7 +449,7 @@ Lavorazione dei tessuti e delle cellule
 
 3\. Nelle proprie procedure operative standard gli istituti dei tessuti adottano speciali disposizioni per la manipolazione dei tessuti e delle cellule da scartare, al fine di impedire la contaminazione di altri tessuti o cellule, dell'ambiente in cui avviene la lavorazione o del personale.
 
-#### Art. 21
+### Art. 21
 
 Condizioni di stoccaggio dei tessuti e delle cellule
 
@@ -465,19 +463,19 @@ Condizioni di stoccaggio dei tessuti e delle cellule
 
 5\. Con accordo in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano sono stabilite le indicazioni per gli accordi e le procedure che gli istituti dei tessuti, in caso di cessazione dell'attivita' per qualsivoglia ragione, pongono in atto per garantire che i tessuti e le cellule stoccati, in conformita' al consenso informato o l'espressione di volonta' o l'autorizzazione alla donazione acquisiti, siano trasferiti ad altro istituto o istituti dei tessuti autorizzati e accreditati ai sensi dell'articolo 6.
 
-#### Art. 22
+### Art. 22
 
 Etichettatura, documentazione e confezionamento
 
 1\. Gli istituti dei tessuti garantiscono la conformita' dell'etichettatura, della documentazione e del confezionamento ai requisiti previsti dalla normativa vigente e dall'articolo 28, comma 1, lettera f).
 
-#### Art. 23
+### Art. 23
 
 Trasporto e distribuzione
 
 1\. Gli istituti dei tessuti garantiscono la qualita' dei tessuti e delle cellule durante la distribuzione, che avviene nel rispetto delle condizioni previste dalle norme vigenti e dei requisiti di cui all'articolo 28, comma 1, lettera h).
 
-#### Art. 24
+### Art. 24
 
 Rapporti fra istituti dei tessuti e terzi
 
@@ -499,7 +497,7 @@ c) qualora un istituto dei tessuti distribuisca tessuti o cellule lavorati da te
 
 ## Capo V - Scambio di informazioni, relazioni e sanzioni
 
-#### Art. 25
+### Art. 25
 
 Codifica delle informazioni
 
@@ -507,7 +505,7 @@ Codifica delle informazioni
 
 2\. A livello europeo viene elaborato un unico sistema di codificazione, al fine di fornire informazioni sulle caratteristiche e proprieta' fondamentali dei tessuti e delle cellule.
 
-#### Art. 26
+### Art. 26
 
 Relazioni
 
@@ -515,7 +513,7 @@ Relazioni
 
 2\. Entro sei mesi dalla data di entrata in vigore del presente decreto, con apposito accordo in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono stabiliti modalita' e tempi per corrispondere ai disposti di cui al comma 1.
 
-#### Art. 27
+### Art. 27
 
 Sanzioni
 
@@ -531,7 +529,7 @@ Se si tratta di pubblico dipendente si applica l'interdizione dal pubblico uffic
 
 ## Capo VI - Disposizioni finali
 
-#### Art. 28
+### Art. 28
 
 Requisiti tecnici e loro adeguamento al progresso scientifico e tecnico
 
@@ -555,7 +553,7 @@ h) lavorazione, stoccaggio e distribuzione di tessuti e cellule;
 
 i) requisiti per la distribuzione diretta al ricevente di tessuti e cellule specifici.
 
-#### Art. 29
+### Art. 29
 
 Clausola di invarianza degli oneri di spesa
 
@@ -563,7 +561,7 @@ Clausola di invarianza degli oneri di spesa
 
 2\. Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
-#### Art. 30
+### Art. 30
 
 Clausola di cedevolezza
 
@@ -659,7 +657,7 @@ Visto, il Guardasigilli: Mastella
 
 ## Capo VI - Disposizioni finali
 
-#### Allegato 1
+### Allegato 1
 
 Allegato 1
 

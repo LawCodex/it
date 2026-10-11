@@ -30,19 +30,19 @@ Promulga
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la Convenzione europea per la protezione del patrimonio archeologico, fatta alla Valletta il 16 gennaio 1992.
 
-### Art. 2
+## Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data alla Convenzione di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 14 della Convenzione stessa.
 
-### Art. 3
+## Art. 3
 
 Copertura finanziaria
 
@@ -54,7 +54,7 @@ Copertura finanziaria
 
 4\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-### Art. 4
+## Art. 4
 
 Entrata in vigore
 
@@ -76,7 +76,7 @@ Visto, il Guardasigilli: Orlando
 
 ## Allegati
 
-### Convention
+## Convention
 
 Allegato
 
@@ -124,7 +124,7 @@ Constatando la necessita' di completare i principi formulati dalla Convenzione e
 
 Hanno convenuto quanto segue:
 
-### Articolo 1
+## Articolo 1
 
 1 Lo scopo della presente Convenzione (riveduta) e' di rivedere il patrimonio archeologico in quanto fonte della memoria collettiva europea e strumento di studio storico e scientifico.
 
@@ -140,7 +140,7 @@ iii. il loro insediamento e' localizzato in qualsiasi spazio soggetto alla giuri
 
 ## Identificazione del patrimonio e misure di protezione
 
-### Articolo 2
+## Articolo 2
 
 Ciascuna Parte si impegna a porre in atto, secondo le modalita' proprie di ciascun Stato, un regime legislativo di tutela del patrimonio archeologico che preveda:
 
@@ -150,7 +150,7 @@ ii. la costituzione di zone di riserva archeologiche, anche senza vestigi appare
 
 iii. l'obbligo per il ritrovatore di segnalare alle autorita' competenti la scoperta accidentale di elementi del patrimonio archeologico e di metterli a disposizione per esame.
 
-### Articolo 3
+## Articolo 3
 
 In vista di preservare il patrimonio archeologico e di garantire il significato scientifico delle operazioni di ricerca archeologica, ciascuna Parte si impegna:
 
@@ -168,7 +168,7 @@ ii. a vigilare che gli scavi ed altre tecniche potenzialmente distruttrici siano
 
 iii. a sottoporre ad un' autorizzazione preliminare specifica nei casi previsti dalla legislazione interna dello Stato l'impiego di "metal-detector" e di altri strumenti di investigazione o procedimenti per la ricerca archeologica.
 
-### Articolo 4
+## Articolo 4
 
 Ciascuna Parte si impegna a porre in atto misure di tutela fisica del proprio patrimonio archeologico, prevedendo, secondo le circostanze:
 
@@ -180,7 +180,7 @@ iii. la sistemazione di depositi appropriati per le vestigia archeologiche spost
 
 ## Conservazione integrata del patrimonio archeologico
 
-### Articolo 5
+## Articolo 5
 
 Ciascuna Parte si impegna:
 
@@ -204,7 +204,7 @@ v. a fare in modo che l'apertura al pubblico dei siti archeologici, in particola
 
 ## Finanziamento della ricerca e conservazione archeologica
 
-### Articolo 6
+## Articolo 6
 
 Ciascuna Parte si impegna:
 
@@ -218,7 +218,7 @@ b. facendo figurare nel bilancio preventivo di questi lavori, sullo stesso piano
 
 ## Raccolta e divulgazione delle informazioni scientifiche
 
-### Articolo 7
+## Articolo 7
 
 Al fine di agevolare lo studio e la divulgazione della conoscenza delle scoperte archeologiche, ciascuna Parte si impegna:
 
@@ -226,7 +226,7 @@ i. a realizzare o ad aggiornare le inchieste, gli inventari e la cartografia dei
 
 ii. ad adottare ogni disposizione pratica affinche' sia possibile ottenere al termine di operazioni archeologiche, un documento scientifico di sintesi da pubblicare, preliminare alla necessaria divulgazione integrale degli studi specializzati.
 
-### Articolo 8
+## Articolo 8
 
 Ciascuna Parte si impegna:
 
@@ -236,7 +236,7 @@ ii. a suscitare scambi di informazione sulle ricerche archeologiche e sugli scav
 
 ## Sensibilizzazione del pubblico
 
-### Articolo 9
+## Articolo 9
 
 Ciascuna Parte si impegna:
 
@@ -246,7 +246,7 @@ ii. a promuovere l'accesso del pubblico agli elementi importanti del suo patrimo
 
 ## Misure preventive per quanto riguarda la circolazione illecita di - elementi del patrimonio archeologico
 
-### Articolo 10
+## Articolo 10
 
 Ciascuna Parte si impegna:
 
@@ -264,13 +264,13 @@ b. a non risparmiare alcun sforzo per assicurare il rispetto da parte di tali mu
 
 v. a limitare per quanto possibile, mediante un'azione di educazione, di informazione, di vigilanza e di cooperazione, il movimento degli elementi del patrimonio archeologico provenienti da scoperte incontrollate, scavi illeciti o deviazioni di scavi ufficiali.
 
-### Articolo 11
+## Articolo 11
 
 Nessuna disposizione della presente Convenzione (riveduta) pregiudica i trattati bilaterali o multilaterali esistenti o che potranno esistere tra determinate Parti, relativi alla circolazione illecita di elementi del patrimonio archeologico o alla loro restituzione al legittimo proprietario.
 
 ## Assistenza tecnica e scientifica reciproca
 
-### Articolo 12
+## Articolo 12
 
 Le Parti si impegnano:
 
@@ -280,7 +280,7 @@ ii. a favorire nel quadro delle legislazioni nazionali pertinenti o degli accord
 
 ## Controllo dell'applicazione della Convenzione (riveduta)
 
-### Articolo 13
+## Articolo 13
 
 Ai fini della presente Convenzione (riveduta), un Comitato di esperti istituito dal Comitato dei Ministri del Consiglio d'Europa in virtu' dell'articolo 17 dello Statuto del Consiglio d'Europa e' incaricato di seguire l'applicazione della Convenzione (riveduta) ed in particolare:
 
@@ -292,7 +292,7 @@ iii. effettuare raccomandazioni al Comitato dei Ministri del Consiglio d'Europa 
 
 ## Clausole finali
 
-### Articolo 14
+## Articolo 14
 
 1\. La presente Convenzione (riveduta) e' aperta alla firma degli Stati membri del Consiglio d'Europa e degli altri Stati parti alla Convenzione culturale europea.
 
@@ -306,13 +306,13 @@ Essa sara' soggetta a ratifica, accettazione o approvazione. Gli strumenti di ra
 
 5\. Per ogni Stato firmatario che esprima successivamente il suo consenso a far parte della Convenzione, questa entrera' in vigore sei mesi dopo la data del deposito dello strumento di ratifica, di accettazione o di approvazione.
 
-### Articolo 15
+## Articolo 15
 
 1\. Dopo l'entrata in vigore della presente Convenzione(riveduta), il Comitato dei Ministri del Consiglio d'Europa potra' invitare ogni altro Stato non membro del Consiglio, nonche' la Comunita' economica europea ad aderire alla presente Convenzione (riveduta) con una decisione adottata alla maggioranza prevista all'articolo 20.d dello Statuto del Consiglio d'Europa ed all'unanimita' dei rappresentanti degli Stati contraenti aventi diritto di essere rappresentati al Comitato.
 
 2\. Per ogni Stato aderente, o per la Comunita' economica europea, la Convenzione entrera' in vigore sei mesi dopo la data del deposito dello strumento di adesione presso il Segretario Generale del Consiglio d'Europa.
 
-### Articolo 16
+## Articolo 16
 
 1\. Ogni Stato puo', nel firmare o depositare il proprio strumento di ratifica, di accettazione di approvazione o di adesione, designare il territorio o i territorio cui si applichera' la presente Convenzione (riveduta).
 
@@ -320,13 +320,13 @@ Essa sara' soggetta a ratifica, accettazione o approvazione. Gli strumenti di ra
 
 3\. Ogni dichiarazione resa in virtu' dei due paragrafi precedenti potra' essere ritirata per quanto concerne ogni territorio designato in questa dichiarazione, da una notifica indirizzata al Segretario Generale. Il ritiro avra' luogo sei mesi dopo la data di ricevimento della notifica da parte del Segretario Generale .
 
-### Articolo 17
+## Articolo 17
 
 1\. Ogni parte puo' in qualsiasi momento, denunciare la presente Convenzione (riveduta) indirizzando una notifica al Segretario Generale del Consiglio d'Europa.
 
 2\. La denuncia avra' effetto sei mesi dopo la data di ricevimento della notifica da parte del Segretario Generale.
 
-### Articolo 18
+## Articolo 18
 
 Il Segretario Generale del Consiglio d'Europa notifichera' agli Stati membri del Consiglio d'Europa, agli altri Stati parti alla Convenzione culturale europea nonche' ad ogni Stato ed alla Comunita' economica europea che ha aderito o che e' stata invitata ad aderire alla presente Convenzione (riveduta):
 

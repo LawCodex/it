@@ -28,11 +28,9 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - NORME IN MATERIA DI USO RAZIONALE DELL'ENERGIA, DI RISPARMIO
+## TITOLO I - NORME IN MATERIA DI USO RAZIONALE DELL'ENERGIA, DI RISPARMIO ENERGETICO E DI SVILUPPO DELLE FONTI RINNOVABILI DI ENERGIA
 
-### ENERGETICO E DI SVILUPPO DELLE - FONTI RINNOVABILI DI ENERGIA
-
-#### Art. 1 - Finalita' ed ambito di applicazione
+### Art. 1 - Finalita' ed ambito di applicazione
 
 1\. Al fine di migliorare i processi di trasformazione dell'energia, di ridurre i consumi di energia e di migliorare le condizioni di compatibilita' ambientale dell'utilizzo dell'energia a parita' di servizio reso e di qualita' della vita, le norme del presente titolo favoriscono ed incentivano, in accordo con la politica energetica della Comunita' economica europea, l'uso razionale dell'energia, il contenimento dei consumi di energia nella produzione e nell'utilizzo di manufatti, l'utilizzazione delle fonti rinnovabili di energia, la riduzione dei consumi specifici di energia nei processi produttivi, una piu' rapida sostituzione degli impianti in particolare nei settori a piu' elevata intensita' energetica, anche attraverso il coordinamento tra le fasi di ricerca applicata, di sviluppo dimostrativo e di produzione industriale.
 
@@ -42,15 +40,15 @@ la seguente legge:
 
 4\. L'utilizzazione delle fonti di energia di cui al comma 3 e' considerata di pubblico interesse e di pubblica utilita' e le opere relative sono equiparate alle opere dichiarate indifferibili e urgenti ai fini dell'applicazione delle leggi sulle opere pubbliche.
 
-#### Art. 2 - Coordinamento degli interventi
+### Art. 2 - Coordinamento degli interventi
 
 1\. Per la coordinata attuazione del piano energetico nazionale e al fine di raggiungere gli obiettivi di cui all'articolo 1, il Comitato interministeriale per la programmazione economica (CIPE) su proposta del Ministro dell'industria, del commercio e dell'artigianato, sentiti il Ministro dell'agricoltura e delle foreste, il Ministro dell'universita' e della ricerca scientifica e teconologica, il Ministro dei lavori pubblici, il Ministro dei trasporti, il Ministro dell'ambiente, il Ministro dei trasporti, il Ministro dell'ambiente, il Ministro delle partecipazioni statali, le regioni e le province autonome di Trento e di Bolzano, emana, entro centottanta giorni dalla data di entrata in vigore della presente legge, e successivamente con cadenza almeno triennale, direttive per il coordinato impiego degli strumenti pubblici di intervento e di incentivazione della promozione, della ricerca, dello sviluppo tecnologico, nei settori della produzione, del recupero e dell'utilizzo delle fonti rinnovabili di energia e del contenimento dei consumi energetici.
 
-#### Art. 3 - Accordo di programma
+### Art. 3 - Accordo di programma
 
 1\. Per lo sviluppo di attivita' aventi le finalita' di cui all'articolo 1, il Ministro dell'industria, del commercio e dell'artigianato provvede a stipulare con l'ENEA un accordo di programma, con validita' triennale, ove sono stabiliti gli obiettivi, i tempi di attuazione e le previsioni di spesa dei progetti relativi al programma medesimo per un ammontare complessivo non superiore al 10 per cento degli stanziamenti previsti dalla presente legge.
 
-#### Art. 4 - Norme attuative e sulle tipologie tecnico-costruttive
+### Art. 4 - Norme attuative e sulle tipologie tecnico-costruttive
 
 1\. COMMA ABROGATO DAL D.LGS. 19 AGOSTO 2005, N. 192.
 
@@ -66,7 +64,7 @@ la seguente legge:
 
 7\. Con decreto del Presidente del Consiglio dei ministri, da emanarsi entro centottanta giorni dalla data di entrata in vigore della presente legge, sono emanate norme idonee a rendere apprezzabile il conseguimento dell'obiettivo dell'uso razionale dell'energia e dell'utilizzo di fonti rinnovabili di energia nei criteri di aggiudicazione delle gare di appalto economicamente rilevanti per la fornitura di beni o servizi per conto della pubblica amministrazione, degli enti territoriali e delle relative aziende, degli istituti di previdenza e di assicurazione. Tale normativa e' inserita di diritto nella normativa che disciplina le gare d'appalto e nei capitolati relativi.
 
-#### Art. 5 - Piani regionali
+### Art. 5 - Piani regionali
 
 1\. Le regioni e le province autonome di Trento e di Bolzano, entro centottanta giorni dalla data di entrata in vigore della presente legge, d'intesa con l'ENEA, individuano i bacini che in relazione alle caratteristiche, alle dimensioni, alle esigenze di utenza, alla disponibilita' di fonti rinnovabili di energia, al risparmio energetico realizzabile e alla preesistenza di altri vettori energetici, costituiscono le aree piu' idonee ai fini della fattibilita' degli interventi di uso razionale dell'energia e di utilizzo delle fonti rinnovabili di energia.((1))
 
@@ -104,11 +102,11 @@ La Corte Costituzionale con sentenza 18-27 dicembre 1991, n. 483 (in G.U. 1a s.s
 
 \- al quarto comma, " nella parte in cui non prevede un congruo preavviso, nei sensi espressi in motivazione, alle province autonome di Trento e di Bolzano, in ordine all' esercizio dei poteri sostitutivi ivi disciplinati".
 
-#### Art. 6 - Teleriscaldamento
+### Art. 6 - Teleriscaldamento
 
 1\. Le regioni e le province autonome di Trento e di Bolzano, entro centottanta giorni dalla data di entrata in vigore della presente legge, individuano le aree che risultano idonee alla realizzazione di impianti e di reti di teleriscaldamento nonche' i limiti ed i criteri nel cui ambito le amministrazioni dello Stato, le aziende autonome, gli enti pubblici nazionali o locali, gli istituti di previdenza e di assicurazione, devono privilegiare il ricorso all'allaccio a reti di teleriscaldamento qualora propri immobili rientrino in tali aree.
 
-#### Art. 7 - Norme per le imprese elettriche minori
+### Art. 7 - Norme per le imprese elettriche minori
 
 1\. Il limite stabilito dall'articolo 4, n. 8), della legge 6 dicembre 1962, n. 1643, modificato dall'articolo 18 della legge 29 maggio 1982, n. 308, non si applica alle imprese produttrici e distributrici a condizione che l'energia elettrica prodotta venga distribuita entro i confini territoriali dei comuni gia' serviti dalle medesime imprese produttrici e distributrici alla data di entrata in vigore della presente legge.
 
@@ -130,7 +128,7 @@ La Corte Costituzionale con sentenza 18-27 dicembre 1991, n. 483 (in G.U. 1a s.s
 
 > Resta fermo che, ad eccezione delle imprese che operano nelle piccole isole, l'integrazione tariffaria alle imprese elettriche minori puo' essere riconosciuta proquota sulla base dei provvedimenti vigenti in materia entro e non oltre i 15 milioni di Kwh annui".
 
-#### Art. 8
+### Art. 8
 
 (Contributi in conto capitale a sostegno
 
@@ -170,7 +168,7 @@ h) installazione di sistemi di illuminazione ad alto rendimento anche nelle aree
 
 > Le controversie derivanti dall'applicazione del presente articolo sono decise con le modalita' indicate negli articoli 43 e seguenti".
 
-#### Art. 9
+### Art. 9
 
 (Competenza delle regioni e delle province
 
@@ -200,7 +198,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza 18-27 dicembre 1991, n. 483 (in G.U. 1a s.s. 04/01/1992, n. 1), ha dichiarato la illegittimita' costituzionale del presente art. 9, " nella parte in cui, includendo le province autonome di Trento e di Bolzano nella delega relativa alla concessione di contributi di spettanza provinciale, non prevede per queste le modalita' di finanziamento secondo le norme statutarie".
 
-#### Art. 10
+### Art. 10
 
 (Contributi per il contenimento dei conusumi
 
@@ -212,7 +210,7 @@ e terziario)
 
 2\. Possono essere ammessi a contributo interventi riguardanti impianti con potenza fino a dieci megawatt termici o fino a tre megawatt elettrici relativi ai servizi generali e/o al ciclo produttivo che conseguano risparmio di energia attraverso l'utilizzo di fonti rinnovabili di energia e/o un migliore rendimento di macchine e apparecchiature e/o la sostituzione di idrocarburi con altri combustibili.
 
-#### Art. 11 - Norme per il risparmio di energia e l'utilizzazione di fonti rinnovabili di energia ((. . .))
+### Art. 11 - Norme per il risparmio di energia e l'utilizzazione di fonti rinnovabili di energia ((. . .))
 
 1\. Alle regioni, alle province autonome di Trento e di Bolzano, alle province ed ai comuni e loro consorzi e associazioni, sia direttamente sia tramite loro aziende e societa', nonche' alle imprese di cui all'articolo 4, n. 8), della legge 6 dicembre 1962, n.
 
@@ -236,13 +234,13 @@ b) potenza elettrica installata perla cogenerazione pari ad almeno il 10 per cen
 
 8\. I contributi di cui al comma 7 sono erogati dal Ministero dell'industria, del commercio e dell'artigianato.
 
-#### Art. 12 - Progetti dimostrativi
+### Art. 12 - Progetti dimostrativi
 
 1\. Alle aziende pubbliche e private e loro consorzi, ed a consorzi di imprese ed enti pubblici possono essere concessi contributi in conto capitale per la progettazione e la realizzazione di impianti con caratteristiche innovative per aspetti tecnici e/o gestionali e/o organizzativi, che utilizzino fonti rinnovabili di energia e/o combustibili non tradizionali ovvero sviluppino prototipi a basso consumo specifico ovvero nuove tecnologiche di combustione, di gassificazione, di liquefazione del carbone e di smaltimento delle ceneri, nonche' iniziative utilizzanti combustibili non fossili la cui tecnologia non abbia raggiunto la maturita' commerciale e di esercizio. Sono ammessi altresi' ai contributi sistemi utilizzanti le fonti rinnovabili di energia di origine solare finalizzati a migliorare la qualita' dell'ambiente e, in particolare, la potabilizzazione dell'acqua.
 
 2\. Il contributo di cui al comma 1 e' concesso, nel limite del 50 per cento della spesa ammissibile preventivata, con decreto del Ministro dell'industria, del commercio e dell'artigianato, su delibera del CIPE.
 
-#### Art. 13 - Incentivi alla produzione di energia da fonti rinnovabili di energia nel settore agricolo
+### Art. 13 - Incentivi alla produzione di energia da fonti rinnovabili di energia nel settore agricolo
 
 1\. Al fine di raggiungere gli obiettivi di cui all'articolo 1 nel settore agricolo, possono essere concessi alle imprese agricole singole o associate, ovvero a societa' che offrono e gesticono il servizio-calore, che prevedano la partecipazione dell'ENEL e/o di aziende municipalizzate e/o di altri enti pubblici, contributi in conto capitale per la realizzazione di impianti con potenza fino a dieci megawatt elettrici per la produzione o il recupero di energia termica, elettrica e meccanica da fonti rinnovabili di energia, nella misura massima del 55 per cento della spesa ammessa, elevabile al 65 per cento per le cooperative.
 
@@ -256,7 +254,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza 18-27 dicembre 1991, n. 483 (in G.U. 1a s.s. 04/01/1992, n. 1), ha dichiarato la illegittimita' costituzionale del presente art. 13, secondo comma " nella parte in cui prevede che anche la provincia autonoma di Bolzano promuova accordi con le categorie professionali ivi indicate".
 
-#### Art. 14
+### Art. 14
 
 (Derivazioni di acqua - Contributi per la
 
@@ -284,7 +282,7 @@ b) di costruzione di nuovi impianti nonche' di potenziamento di impianti esisten
 
 > Il testo della norma richiamata dall'articolo trascritto e' riportato nella nota all'art. 7.
 
-#### Art. 15 - Locazione finanziaria
+### Art. 15 - Locazione finanziaria
 
 1\. I contributi di cui agli articoli 8, 10, 11, 12, 13 e 14 sono concessi anche per iniziative oggetto di locazione finanziaria, effettuate da societa' iscritte nell'albo istituito presso il Ministero dell'industria, del commercio e dell'artigianato, ai sensi dell'articolo 1 del decreto del Ministro per gli interventi straordinari nel Mezzogiorno del 12 novembre 1986, in attuazione dell'articolo 9, comma 13, della legge 1 marzo 1986, n. 64.
 
@@ -316,7 +314,7 @@ b) di costruzione di nuovi impianti nonche' di potenziamento di impianti esisten
 
 > \- Si trascrive il testo dell'art. 9, comma 13, della legge 1 marzo 1986, n. 64. (Disciplina organica dell'intervento straordinario nel Mezzogiorno): "13. La locazione finanziaria disciplinata dal primo comma dell'articolo 83 del citato testo unico, da estendersi anche agli impianti commerciali e di servizi indicati nel presente articolo ed ai centri di ricerca di cui all'articolo 70 dello stesso testo unico, puo' essere esercitata anche dalle altre societa' iscritte in un albo speciale con le modalita' fissate con decreto del Ministro per gli interventi straordinari nel Mezzogiorno, d'intesa con il Ministro dell'industria, del commercio e dell'artigianato".
 
-#### Art. 16
+### Art. 16
 
 (Attuazione della legge - Competenza delle
 
@@ -334,7 +332,7 @@ e di Bolzano)
 
 > \- Si trascrive il testo del terzo comma dell'art. 117 della Costituzione: "Le leggi della Repubblica possono demandare alla Regione il potere di emanare norme per la loro attuazione".
 
-#### Art. 17 - Cumulo di contributi e casi di revoca
+### Art. 17 - Cumulo di contributi e casi di revoca
 
 1\. I contributi di cui agli articoli 8, 10, 11, 12, 13 e 14, sono cumulabili con altre incentivazioni eventualmente previste da altre leggi a carico del bilancio dello Stato, fino al 75 per cento dell'investimento complessivo.
 
@@ -346,7 +344,7 @@ e di Bolzano)
 
 > \- Per il testo dell'art. 2 del regio decreto 14 aprile 1910, n. 639, v. nota all'art. 9.
 
-#### Art. 18
+### Art. 18
 
 (Modalita' di concessione
 
@@ -366,7 +364,7 @@ Agli adempimenti necessari per consentire l'utilizzo di tali facolta', si provve
 
 > \- Il sesto comma dell'art. 18 della legge 26 aprile 1983, n. 130, demanda al Ministero dell'industria il compito di provvedere a tutti gli adempimenti che si rendono necessari per consentire l'attuazione della legge n. 675/1977. (Provvedimenti per il coordinamento della politica industriale, la ristrutturazione, la riconversione e lo sviluppo del settore) nonche' il compito di provvedere all'istituzione di commissioni per l'accertamento della realizzazione ed eventuale entrata in funzione degli impianti, da effettuare con onere a carico delle imprese interessate.
 
-#### Art. 19
+### Art. 19
 
 (Responsabile per la conservazione e l'uso razionale dell'energia) 1. Entro il 30 aprile di ogni anno i soggetti operanti nei settori industriale, civile, terziario e dei trasporti che nell'anno precedente hanno avuto un consumo di energia rispettivamente superiore a 10.000 tonnellate equivalenti di petrolio per il settore industriale ovvero a 1.000 tonnellate equivalenti di petrolio per tutti gli altri settori, debbono comunicare al Ministero dell'industria, del commercio e dell'artigianato il nominativo del tecnico responsabile per la conservazione e l'uso razionale dell'energia.
 
@@ -380,13 +378,13 @@ Agli adempimenti necessari per consentire l'utilizzo di tali facolta', si provve
 
 5\. Nell'ambito delle proprie competenze l'ENEA provvede sulla base di apposite convenzioni con le regioni e con le province autonome di Trento e di Bolzano a realizzare idonee campagne promozionali sulle finalita' della presente legge, all'aggiornamento dei tecnici di cui al comma 1 e a realizzare direttamente ed indirettamente programmi di diagnosi energetica.
 
-#### Art. 20 - Relazione annuale al Parlamento
+### Art. 20 - Relazione annuale al Parlamento
 
 1\. Il Ministro dell'industria, del commercio e dell'artigianato, entro il 30 aprile di ogni anno, riferisce al Parlamento sullo stato di attuazione della presente legge, tenendo conto delle relazioni che le regioni e le province autonome di Trento e di Bolzano debbono inviare al Ministero dell'Industria, del commercio e dell'artigianato entro il mese di febbraio del medesimo anno, sugli adempimenti di rispettiva competenza, in modo particolare con riferimento agli obiettivi e ai programmi contenuti nei rispettivi piani energetici.
 
 2\. Un apposito capitolo della relazione di cui al comma 1 illustra i risultati conseguiti e i programmi predisposti dall'ENEA per l'attuazione dell'articolo 3.
 
-#### Art. 21 - Disposizioni transitorie
+### Art. 21 - Disposizioni transitorie
 
 1\. Alla possibilita' di fruire delle agevolazioni previste dalla presente legge sono ammesse anche le istanze presentate ai sensi della legge 29 maggio 1982, n. 308, e successive modificazioni, e del decreto-legge 31 agosto 1987, n. 364, convertito, con modificazioni dalla legge 29 ottobre 1987, n. 445, per iniziative rientranti fra quelle previste dagli articoli 8, 10, 11, 12, 13 e 14 che non siano ancora state oggetto di apposito provvedimento di accoglimento o di rigetto.
 
@@ -398,7 +396,7 @@ Agli adempimenti necessari per consentire l'utilizzo di tali facolta', si provve
 
 > \- Il decreto-legge 31 agosto 1987, n. 364 convertito, con modificazioni dalla legge 29 ottobre 1987, n. 445 (testo coordinato in Gazzetta Ufficiale n. 269 del 17 novembre 1987) reca: "Misure urgenti per il rifinanziamento delle iniziative di risparmio energetico di cui alla legge 29 maggio 1982, n. 308 e del programma generale di metanizzazione del Mezzogiorno di cui all'art. 11, della legge 28 novembre 1980, n. 784".
 
-#### Art. 22
+### Art. 22
 
 Riorganizzazione della Direzione generale delle fonti di energia e delle industrie di base
 
@@ -428,7 +426,7 @@ i) n. 10 posti di II livello.
 
 4\. All'onere derivante dall'attuazione del presente articolo, valutato in lire 200 milioni per l'anno 1990, in lire 1.000 milioni per l'anno 1991 e in lire 1.800 milioni per l'anno 1992, si provvede mediante corrispondente riduzione dello stanziamento iscritto ai fini del bilancio triennale 1990-1992 al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1990, all'uopo parzialmente utilizzando quanto a lire 400 milioni per ciascuno degli anni 1991 e 1992 le proiezioni dell'accantonamento "Riordinamento del Ministero ed incentivazioni al personale" e, quanto a lire 200 milioni per l'anno 1990, a lire 600 milioni per l'anno 1991 e a lire 1.400 milioni per l'anno 1992, l'accantonamento "Automazione del Ministero dell'industria".
 
-#### Art. 23
+### Art. 23
 
 (Abrogazione espressa di norme
 
@@ -458,7 +456,7 @@ e utilizzazione di fondi residui)
 
 > (Omissis)".
 
-#### Art. 24 - Disposizioni concernenti la metanizzazione
+### Art. 24 - Disposizioni concernenti la metanizzazione
 
 1\. Il contributo previsto a carico del Fondo europeo di sviluppo regionale (FESR) per la realizzazione dei progetti indicati nel programma generale di metanizzazione del Mezzogiorno approvato dal CIPE con deliberazione dell'11 febbraio 1988 e' sostituito o integrato per la percentuale soppressa o ridotta per effetto dei regolamenti del Consiglio delle Comunita' europee n. 2052 del 24 giugno 1988, n. 4253 del 19 dicembre 1988 e n. 4254 del 19 dicembre 1988 con un contributo dello Stato a carico degli stanziamenti di cui al comma 3 pari alla differenza tra il 50 per cento della spesa ammessa per ogni singola iniziativa alle agevolazioni di cui all'articolo 11 della legge 28 novembre 1980, n. 784, e successive modificazioni e integrazioni, e il contributo concesso a carico del FESR.
 
@@ -556,11 +554,9 @@ e utilizzazione di fondi residui)
 
 > 2\. Per l'attuazione del programma di cui al comma 1 si applicano le disposizioni e le agevolazioni di cui alla legge 28 novembre 1980, n. 784, e successive modificazioni e integrazioni".
 
-## TITOLO II - NORME PER IL CONTENIMENTO DEL CONSUMO DI ENERGIA NEGLI
+## TITOLO II - NORME PER IL CONTENIMENTO DEL CONSUMO DI ENERGIA NEGLI EDIFICI
 
-### EDIFICI
-
-#### Art. 25 - Ambito di applicazione
+### Art. 25 - Ambito di applicazione
 
 1\. Sono regolati dalle norme del presente titolo i consumi di energia negli edifici pubblici e privati, qualunque ne sia la destinazione d'uso, nonche' mediante il disposto dell'articolo 31, l'esercizio e la manutenzione degli impianti esistenti.
 
@@ -584,7 +580,7 @@ e utilizzazione di fondi residui)
 
 > Le definizioni del presente articolo prevalgono sulle disposizioni degli strumenti urbanistici generali e dei regolamenti edilizi. Restano ferme le disposizioni e le competenze previste dalle leggi 1ä giugno 1939, n. 1089, e 29 giugno 1939, n. 1497, e successive modificazioni ed integrazioni".
 
-#### Art. 26 - Progettazione, messa in opera ed esercizio di edifici e di impianti
+### Art. 26 - Progettazione, messa in opera ed esercizio di edifici e di impianti
 
 1\. ((PERIODO ABROGATO DAL D.LGS. 25 NOVEMBRE 2024, N. 190)). ((PERIODO ABROGATO DAL D.LGS. 25 NOVEMBRE 2024, N. 190)).
 
@@ -610,23 +606,23 @@ AGGIORNAMENTO (11)
 
 Il D.Lgs. 25 novembre 2024, n. 190, ha disposto (con l'art. 15, comma 2) che "A far data dall'entrata in vigore del presente decreto ai sensi dell'articolo 17, le disposizioni di cui all'allegato D continuano ad applicarsi alle procedure in corso, fatta salva la facolta' del soggetto proponente di optare per l'applicazione delle disposizioni di cui al presente decreto. Ai fini di cui al primo periodo, per procedure in corso si intendono quelle abilitative o autorizzatorie per le quali la verifica di completezza della documentazione presentata a corredo del progetto risulti compiuta alla data di entrata in vigore del presente decreto".
 
-#### Art. 27 - Limiti ai consumi di energia
+### Art. 27 - Limiti ai consumi di energia
 
 1\. I consumi di energia termica ed elettrica ammessi per gli edifici sono limitati secondo quanto previsto dai decreti di cui all'articolo 4, in particolare in relazione alla destinazione d'uso degli edifici stessi, agli impianti di cui sono dotati e alla zona climatica di appartenenza.
 
-#### Art. 28
+### Art. 28
 
 ((ARTICOLO ABROGATO DAL D.LGS. 10 GIUGNO 2020, N. 48))
 
-#### Art. 29
+### Art. 29
 
 ((ARTICOLO ABROGATO DAL D.LGS. 19 AGOSTO 2005, N. 192))
 
-#### Art. 30
+### Art. 30
 
 ((ARTICOLO ABROGATO DAL D.LGS. 19 AGOSTO 2005, N. 192))
 
-#### Art. 31 - Esercizio e manutenzione degli impianti
+### Art. 31 - Esercizio e manutenzione degli impianti
 
 1\. Durante l'esercizio degli impianti il proprietario, o per esso un terzo, che se ne assume la responsabilita', deve adottare misure necessarie per contenere i consumi di energia, entro i limiti di rendimento previsti dalla normativa vigente in materia.
 
@@ -636,7 +632,7 @@ Il D.Lgs. 25 novembre 2024, n. 190, ha disposto (con l'art. 15, comma 2) che "A 
 
 4\. I contratti relativi alla fornitura di energie e alla conduzione degli impianti di cui alla presente legge contenenti clausole in contrasto con essa, sono nulli. Ai contratti che contengono clausole difformi si applica l'articolo 1339 del codice civile.
 
-#### Art. 32
+### Art. 32
 
 (Certificazioni e informazioni
 
@@ -646,7 +642,7 @@ ai consumatori)
 
 2\. Le imprese che producono o commercializzano i componenti di cui al comma 1 sono obbligate a riportare su di essi gli estremi dell'avvenuta certificazione.
 
-#### Art. 33 - Controlli e verifiche
+### Art. 33 - Controlli e verifiche
 
 1\. ((COMMA ABROGATO DAL D.LGS. 19 AGOSTO 2005, N. 192)).
 
@@ -658,7 +654,7 @@ ai consumatori)
 
 5\. Nei casi previsti dai commi 3 e 4 il sindaco informa il prefetto per la irrogazione delle sanzioni di cui all'articolo 34.
 
-#### Art. 34 - Sanzioni
+### Art. 34 - Sanzioni
 
 1\. L'inosservanza dell'obbligo di cui al comma 1 dell'articolo 28 e' punita con la sanzione amministrativa non inferiore a lire un milione e non superiore a lire cinque milioni.
 
@@ -678,11 +674,11 @@ della parcella calcolata secondo la vigente tariffa professionale
 
 8\. L'inosservanza della disposizione che impone la nomina, ai sensi dell'articolo 19, del tecnico responsabile per la conservazione e l'uso razionale dell'energia, e' punita con la sanzione amministrativa non inferiore a lire dieci milioni e non superiore a lire cento milioni.
 
-#### Art. 35 - Provvedimenti di sospensione dei lavori
+### Art. 35 - Provvedimenti di sospensione dei lavori
 
 1\. Il sindaco, con provvedimento mediante il quale ordina la sospensione dei lavori, ovvero le modifiche necessarie per l'adeguamento dell'edificio, deve fissare il termine per la regolarizzazione. L'inosservanza del termine comporta la comunicazione al prefetto, l'ulteriore irrogazione della sanzione amministrativa e l'esecuzione forzata delle opere con spese a carico del proprietario.
 
-#### Art. 36
+### Art. 36
 
 (Irregolarita' rilevate dall'acquirente
 
@@ -690,7 +686,7 @@ o dal conduttore)
 
 1\. Qualora l'acquirente o il conduttore dell'immobile riscontra difformita' dalle norme della presente legge, anche non emerse da eventuali precedenti verifiche, deve farne denuncia al comune entro un anno dalla constatazione, a pena di decadenza dal diritto di risarcimento del danno da parte del committente o del proprietario.
 
-#### Art. 37
+### Art. 37
 
 (Entrata in vigore delle norme del titolo II
 
@@ -704,7 +700,7 @@ e dei relativi decreti ministeriali)
 
 ## TITOLO III - DISPOSIZIONI FINALI
 
-#### Art. 38
+### Art. 38
 
 (Ripartizione
 
@@ -740,7 +736,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza 18-27 dicembre 1991, n. 483 (in G.U. 1a s.s. 04/01/1992, n. 1), ha dichiarato la illegittimita' costituzionale del presente art. 38 " nella parte in cui, includendo le province autonome di Trento e di Bolzano nella delega relativa alla concessione di contributi di spettanza provinciale, non prevede per queste le modalita' di finanziamento secondo le norme statutarie".
 
-#### Art. 39 - Entrata in vigore
+### Art. 39 - Entrata in vigore
 
 1\. La presente legge entra in vigore, salvo quanto previsto dall'articolo 37, il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
@@ -762,7 +758,7 @@ Visto, il Guardasigilli: VASSALLI
 
 ## TITOLO III - DISPOSIZIONI FINALI
 
-#### Tabella A
+### Tabella A
 
 TABELLA A
 

@@ -26,7 +26,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 ((Il Fondo istituito presso l'Istituto nazionale della previdenza sociale, con effetto dal 1 gennaio 1949, a decorrere dalla data d'istituzione dell'Ente Nazionale per l'Energia Elettrica assume la denominazione di "Fondo di previdenza per i dipendenti dall'Ente
 
@@ -36,7 +36,7 @@ Il Fondo costituisce una, gestione autonoma in seno all'Istituto
 
 nazionale della previdenza sociale ed ha, lo scopo di provvedere al trattamento per l'invalidita', la vecchiaia ed i superstiti dei lavoratori, operai ed impiegati, dipendenti dall'Ente Nazionale per l'Energia Elettrica e da aziende elettriche private)).
 
-### Art. 2
+## Art. 2
 
 Al Fondo sono iscritti obbligatoriamente, dopo aver superato il periodo di prova e con effetto dalla data di assunzione, i lavoratori delle aziende elettriche private con almeno 15 dipendenti, che siano addetti ai servizi tecnici, amministrativi e commerciali relativi all'esercizio degli impianti di produzione, trasformazione, trasporto e distribuzione di energia elettrica, nonche' gli addetti ad uffici permanenti di studio e progettazione di nuove costruzioni.
 
@@ -44,7 +44,7 @@ L'iscrizione al Fondo dei lavoratori delle aziende con meno di 15 dipendenti, ad
 
 Le aziende, il cui personale sia iscritto al Fondo, ai sensi e per gli effetti della presente legge, sono obbligate a mantenere l'iscrizione anche nell'ipotesi che intervengano successive variazioni nell'entita' numerica del personale stesso e ad iscrivere inoltre i lavoratori che vengano da esse assunti anche successivamente alle intervenute variazioni.
 
-### Art. 3
+## Art. 3
 
 Sono esclusi dall'obbligo dell'iscrizione al Fondo i lavoratori aventi qualifica di dirigente, nonche':
 
@@ -54,11 +54,11 @@ b) i lavoratori espressamente assunti per lavori di carattere eccezionale o tran
 
 Per gli apprendisti si applicano le norme di cui alla legge 19 gennaio 1955, n. 25.
 
-### Art. 4
+## Art. 4
 
 A decorrere dal 1 gennaio 1949, per i servizi prestati presso le aziende indicate al precedente art. 2, il trattamento di cui alla presente legge assorbe e sostituisce i trattamenti di previdenza per invalidita', vecchiaia e superstiti previsti dal regio decreto-legge 4 ottobre 1935, n. 1827, convertito, con modificazioni, nella legge 6 aprile 1936, n. 1155, e dagli altri provvedimenti modificativi ed integrativi dello stesso.
 
-### Art. 5
+## Art. 5
 
 ((Il Fondo e' amministrato da un Comitato, del quale fanno parte:
 
@@ -78,7 +78,7 @@ I membri predetti sono nominati con decreto del Ministro per il lavoro e la prev
 
 In caso di assenza i membri del Comitato sono sostituiti dai rispettivi membri supplenti nominati con lo stesso decreto)).
 
-### Art. 6
+## Art. 6
 
 Ferme restando le attribuzioni del Consiglio di amministrazione e del Comitato esecutivo dell'Istituto nazionale della previdenza sociale, spetta al Comitato di cui al precedente art. 5:
 
@@ -100,11 +100,11 @@ AGGIORNAMENTO (1)
 
 La L. 3 febbraio 1963, n. 53 ha disposto (con l'art. 16, comma 1) che "Le modifiche di cui alla presente legge si applicano, con decorrenza dal 1 gennaio 1962, nei confronti dei lavoratori iscritti al Fondo che siano cessati o cessino dal servizio successivamente al 31 dicembre 1961".
 
-### Art. 7
+## Art. 7
 
 Le funzioni di sindaci nei confronti del Fondo sono esercitate dal Collegio sindacale di cui all'art. 18 del regio decreto-legge 4 ottobre 1935, n. 1827, modificato con il decreto legislativo 13 maggio 1947, n. 436.
 
-### Art. 8
+## Art. 8
 
 ((Il Fondo, di cui al precedente art. 1, e' ordinato in base al sistema tecnico-finanziario della ripartizione.
 
@@ -118,7 +118,7 @@ AGGIORNAMENTO (2)
 
 Il D.P.R. 17 marzo 1965, n. 144 ha disposto (con l'art. 4 comma 1) che tale modifica ha efficacia a decorrere dal 1 gennaio 1965.
 
-### Art. 9
+## Art. 9
 
 I contributi da versarsi per il trattamento di previdenza, di cui alla presente legge, sono i seguenti:
 
@@ -146,23 +146,23 @@ Il Fondo e' anche alimentato dagli interessi sulle disponibilita'
 
 di esso, da donazioni, lasciti e da qualsiasi altro provento spettante al Fondo per qualsiasi titolo, comprese le multe e le ammente.
 
-### Art. 10
+## Art. 10
 
 Dalla data di inizio del primo periodo di paga successivo all'entrata in vigore della legge 4 agosto 1955, n. 692, le aziende ed i lavoratori iscritti al Fondo sono tenuti a versare al Fondo stesso, in aggiunta ai contributi di cui al precedente art. 9, quelli previsti dalla richiamata legge per l'assistenza di malattia ai pensionati di invalidita', vecchiaia e superstiti.
 
-### Art. 11
+## Art. 11
 
 Entro il 31 dicembre 1962, il contributo di cui al precedente art. 9 puo' essere variato, in relazione al fabbisogno del Fondo ed alle risultanze di gestione, mediante decreto del Presidente della Repubblica emanato su proposta del Ministro per il lavoro e la previdenza sociale, di concerto con quello per il tesoro, sentito il Comitato di cui al precedente articolo 5.
 
-### Art. 12
+## Art. 12
 
 Le aziende hanno l'obbligo di provvedere al versamento dei contributi indicati nel precedente art. 9 sia per la parte a loro carico sia per quella a carico dei lavoratori, e sono autorizzate a rivalersi del contributo a carico di questi ultimi mediante trattenute sulla retribuzione ad essi spettante.
 
-### Art. 13
+## Art. 13
 
 ((ARTICOLO ABROGATO DAL D. LGS. 16 SETTEMBRE 1996, N. 562))
 
-### Art. 14
+## Art. 14
 
 ((La retribuzione soggetta a contributo e' costituita:
 
@@ -188,17 +188,17 @@ AGGIORNAMENTO (1)
 
 La L. 3 febbraio 1963, n. 53 ha disposto (con l'art. 16, comma 1) che "Le modifiche di cui alla presente legge si applicano, con decorrenza dal 1 gennaio 1962, nei confronti dei lavoratori iscritti al Fondo che siano cessati o cessino dal servizio successivamente al 31 dicembre 1961".
 
-### Art. 15
+## Art. 15
 
 Ogni cinque anni l'Istituto nazionale della previdenza sociale compila il bilancio tecnico del Fondo e lo sottopone al Comitato di cui al precedente art. 5, dandone comunicazione al Ministero del lavoro e della previdenza sociale.
 
 Il primo bilancio tecnico sara' compilato sulla base della situazione accertata alla data del 31 dicembre 1955.
 
-### Art. 16
+## Art. 16
 
 ((ARTICOLO ABROGATO DALLA L. 25 NOVEMBRE 1971, N. 1079 ))
 
-### Art. 17
+## Art. 17
 
 ((L'ammontare annuo della pensione e' pari a tanti trentacinquesimi dell'80 per cento della retribuzione annua per la quale e' stato
 
@@ -242,19 +242,19 @@ AGGIORNAMENTO (1)
 
 La L. 3 febbraio 1963, n. 53 ha disposto (con l'art. 16, comma 1) che "Le modifiche di cui alla presente legge si applicano, con decorrenza dal 1 gennaio 1962, nei confronti dei lavoratori iscritti al Fondo che siano cessati o cessino dal servizio successivamente al 31 dicembre 1961".
 
-### Art. 18
+## Art. 18
 
 ((ARTICOLO ABROGATO DALLA L. 25 NOVEMBRE 1971, N. 1079 ))
 
-### Art. 19
+## Art. 19
 
 ((ARTICOLO ABROGATO DALLA L. 25 NOVEMBRE 1971, N. 1079 ))
 
-### Art. 20
+## Art. 20
 
 ((ARTICOLO ABROGATO DALLA L. 25 NOVEMBRE 1971, N. 1079 ))
 
-### Art. 21
+## Art. 21
 
 ((Le pensioni di invalidita' o di anzianita', liquidate a norma del precedente articolo 17, non possono essere di ammontare inferiore a lire 260.000 annue, escluse le maggiorazioni per i figli a carico.
 
@@ -268,11 +268,11 @@ AGGIORNAMENTO (1)
 
 La L. 3 febbraio 1963, n. 53 ha disposto (con l'art. 16, comma 1) che "Le modifiche di cui alla presente legge si applicano, con decorrenza dal 1 gennaio 1962, nei confronti dei lavoratori iscritti al Fondo che siano cessati o cessino dal servizio successivamente al 31 dicembre 1961".
 
-### Art. 22
+## Art. 22
 
 ((ARTICOLO ABROGATO DALLA L. 25 NOVEMBRE 1971, N. 1079))
 
-### Art. 23
+## Art. 23
 
 ((Cessa il diritto alla pensione:
 
@@ -290,11 +290,11 @@ AGGIORNAMENTO (1)
 
 La L. 3 febbraio 1963, n. 53 ha disposto (con l'art. 16, comma 1) che "Le modifiche di cui alla presente legge si applicano, con decorrenza dal 1 gennaio 1962, nei confronti dei lavoratori iscritti al Fondo che siano cessati o cessino dal servizio successivamente al 31 dicembre 1961".
 
-### Art. 24
+## Art. 24
 
 ((ARTICOLO ABROGATO DALLA L. 25 NOVEMBRE 1971, N. 1079 ))
 
-### Art. 25
+## Art. 25
 
 ((L'ammontare della pensione annua viene ripartito in 13 quote mensili, delle quali una da corrispondersi in occasione delle festivita' natalizie)). ((1))
 
@@ -304,15 +304,15 @@ AGGIORNAMENTO (1)
 
 La L. 3 febbraio 1963, n. 53 ha disposto (con l'art. 16, comma 1) che "Le modifiche di cui alla presente legge si applicano, con decorrenza dal 1 gennaio 1962, nei confronti dei lavoratori iscritti al Fondo che siano cessati o cessino dal servizio successivamente al 31 dicembre 1961".
 
-### Art. 26
+## Art. 26
 
 ((ARTICOLO ABROGATO DALLA L. 25 NOVEMBRE 1971, N. 1079))
 
-### Art. 27
+## Art. 27
 
 ((ARTICOLO ABROGATO DALLA L. 25 NOVEMBRE 1971, N. 1079 ))
 
-### Art. 28
+## Art. 28
 
 L'iscritto che, senza aver maturato diritto a pensione, cessi dal prestare servizio o passi nella categoria dirigenti, puo' conservare la sua iscrizione al Fondo sempreche' abbia almeno un anno di contribuzione e ne faccia richiesta, a pena di decadenza, entro un anno dalla cessazione dal servizio o dal passaggio nella categoria dirigenti.
 
@@ -336,7 +336,7 @@ AGGIORNAMENTO (4)
 
 Il D. Lgs. 16 settembre 1996, n. 562 ha disposto (con l'art. 3 comma 14) che "Nei casi previsti dal terzo comma dell'art. 28 e dal primo comma dell'art. 29 della legge 31 marzo 1956, n. 293, e in deroga a quanto ivi previsto, la posizione assicurativa e' trasferita al Fondo pensioni lavoratori dipendenti in applicazione dell'art. 6 della legge 7 febbraio 1979, n. 29, a domanda degli iscritti al Fondo di cui all'art. 1, comma 1, o dei loro superstiti quando non sia stata gia' liquidata la pensione a carico del Fondo stesso."
 
-### Art. 29
+## Art. 29
 
 Ove l'iscritto che, senza aver maturato diritto a pensione, cessi dal prestare servizio o passi nella categoria dirigenti, non possa o non voglia avvalersi delle facolta' indicate nei precedenti articoli 27 e 28 oppure, dopo essersi avvalso delle facolta' di cui al medesimo art. 28, sospenda i versamenti per piu' di un anno, e' provveduto a cura del Fondo allo aggiornamento della posizione assicurativa del lavoratore nell'assicurazione obbligatoria per l'invalidita', la vecchiaia e i superstiti a norma della disposizione del sesto comma del precedente art. 27, detraendosi l'importo dei contributi da attribuire alla predetta assicurazione dall'ammontare dei contributi versati al Fondo a favore dell'iscritto.((4))
 
@@ -350,13 +350,13 @@ AGGIORNAMENTO (4)
 
 Il D. Lgs. 16 settembre 1996, n. 562 ha disposto (con l'art. 3 comma 14) che "Nei casi previsti dal terzo comma dell'art. 28 e dal primo comma dell'art. 29 della legge 31 marzo 1956, n. 293, e in deroga a quanto ivi previsto, la posizione assicurativa e' trasferita al Fondo pensioni lavoratori dipendenti in applicazione dell'art. 6 della legge 7 febbraio 1979, n. 29, a domanda degli iscritti al Fondo di cui all'art. 1, comma 1, o dei loro superstiti quando non sia stata gia' liquidata la pensione a carico del Fondo stesso."
 
-### Art. 30
+## Art. 30
 
 ((ARTICOLO ABROGATO DALLA L. 25 NOVEMBRE 1971, N. 1079 ))
 
 ## DISPOSIZIONI TRANSITORIE E FINALI
 
-### Art. 31
+## Art. 31
 
 I lavoratori indicati nel precedente art. 2, in servizio alla data
 
@@ -364,21 +364,21 @@ del 1 gennaio 1949 e che non abbiano esercitato il diritto di opzione per la con
 
 Possono essere iscritti al Fondo anche i lavoratori in servizio alla data di entrata in vigore della presente legge i quali, essendosi valsi del diritto di opzione, di cui al precedente comma, comunichino alle aziende di rispettiva appartenenza, entro due mesi dalla data di entrata in vigore della presente legge, di rinunciare alla opzione stessa.
 
-### Art. 32
+## Art. 32
 
 ((ARTICOLO ABROGATO DAL D.P.R. 17 MARZO 1965, N. 144))
 
-### Art. 33
+## Art. 33
 
 Le quote di pensione relative al periodo 1 gennaio 1949-31 dicembre 1953 concernenti pensioni liquidate con decorrenza da data compresa nel periodo stesso, sono ridotte del 10 per cento.
 
 La stessa riduzione deve essere operata sull'ammontare delle indennita' la cui concessione sia causata da eventi verificatisi nel suddetto periodo.
 
-### Art. 34
+## Art. 34
 
 In termine di cui all'art. 28 decorre dalla data di entrata in vigore della presente legge anziche' da quella degli eventi in essa contemplati, quando gli eventi medesimi siansi verificati anteriormente alla predetta data di entrata in vigore della legge.
 
-### Art. 35
+## Art. 35
 
 Gli iscritti o i superstiti che abbiano conseguito o conseguano diritto a pensione a carico del Fondo ed abbiano, anteriormente al 1 gennaio 1949, maturato diritto a pensione in base alle norme dell'assicurazione obbligatoria per la invalidita', la vecchiaia ed i superstiti, percepiranno, a partire dalla data di decorrenza della pensione a carico del Fondo, questa ultima pensione decurtata delle somme loro corrisposte, dalla medesima data, direttamente dall'Istituto nazionale della previdenza sociale a titolo di pensione nell'assicurazione obbligatoria predetta, per la quota relativa al periodo lavorativo espletato presso aziende elettriche tenute all'assicurazione del personale a norma della presente legge.
 
@@ -390,7 +390,7 @@ Il Comitato di cui al precedente art. 5 stabilira' le modalita' secondo le quali
 
 Ove le prestazioni corrisposte in base alla presente legge non siano sufficienti a coprire l'ammontare delle anticipazioni concesse dalle aziende, il maggior importo delle anticipazioni stesse resta a carico delle aziende medesime.
 
-### Art. 36
+## Art. 36
 
 L'Istituto nazionale della previdenza sociale e' autorizzato a prelevare dal Fondo di cui alla presente legge, per trasferirla all'assicurazione obbligatoria invalidita', vecchiaia e superstiti, la differenza tra l'ammontare degli oneri derivanti ad essa assicurazione, al netto del concorso dello Stato, per le pensioni spettanti a decorrere dal 1 gennaio 1949 al lavoratori provenienti dalla categoria degli elettrici gia' pensionati alla data suddetta, nonche' per le quote di pensione corrisposto a decorrere dalla stessa data agli iscritti all'articolo 35, e l'ammontare delle contribuzioni afferenti al periodo anteriore al 1 gennaio 1949 per l'assicurazione generale obbligatoria invalidita', vecchiaia e superstiti in favore degli iscritti al Fondo elettrici di cui all'art. 38.
 
@@ -398,7 +398,7 @@ Tale differenza sara' ammortizzata in un periodo di dieci anni con annualita' co
 
 La differenza stessa - qualora non resti capienza nei contributi dovuti al Fondo, detratti quelli annualmente necessari a coprire gli oneri del Fondo stesso - dovra' essere versata dalle aziende secondo modalita' che saranno stabilite dal Comitato di cui al precedente art. 5.
 
-### Art. 37
+## Art. 37
 
 Entro tre mesi dalla data di entrata in vigore della presente legge, le aziende verseranno i contributi di cui ai precedenti articoli 9 e 10, relativi alle retribuzioni corrisposte agli iscritti rispettivamente dal 1 gennaio 1949 e dallo inizio del primo periodo di paga successivo all'entrata in vigore della legge 4 agosto 1955, n. 692, alla data di entrata in vigore della presente legge, dopo averne detratto:
 
@@ -408,15 +408,15 @@ Detto importo di contributi dovra' essere trasferito dall'Istituto al Fondo;
 
 b) l'ammontare di eventuali anticipazioni corrisposte a titolo previdenziale agli iscritti di cui all'art. 38 che abbiano acquisito diritto a prestazioni dal Fondo nel periodo suddetto, osservata la disposizione di cui all'ultimo comma dell'art. 35.
 
-### Art. 38
+## Art. 38
 
 Entro tre mesi dalla data di entrata in vigore della presente legge, le aziende invieranno all'Istituto nazionale della previdenza sociale, gestore del Fondo, un elenco dei propri dipendenti nonche' degli ex dipendenti che siano cessati dal servizio dopo il 31 dicembre 1948, per i quali sussista l'obbligo della iscrizione al Fondo, con indicazione delle generalita' complete, della data di decorrenza della iscrizione al Fondo, dell'eventuale anzianita' riconosciuta al sensi del precedente art. 32, nonche' dell'ammontare delle retribuzioni ad essi corrisposte a partire dal 1 gennaio 1949.
 
-### Art. 39
+## Art. 39
 
 Con l'entrata in vigore della presente legge le aziende rimangono esonerate dalle prestazioni previdenziali previste dai contratti di lavoro nei confronti degli iscritti al Fondo, anche se relative a periodi di servizio prestato anteriormente al 1 gennaio 1949.
 
-### Art. 40
+## Art. 40
 
 Per quanto non e' contemplato dalla presente legge, si intendono richiamate, in quanto applicabili, le norme del regio decreto-legge 4 ottobre 1935, n. 1827, convertito, con modificazioni, nella legge 6 aprile 1936, n. 1155, e successive modificazioni.
 

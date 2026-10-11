@@ -25,15 +25,15 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+###### Art. 1
 
 1\. Il presidente della Repubblica e' autorizzato a ratificare l'atto unico europeo, aperto alla firma a Lussemburgo il 17 febbraio 1986, con atto finale e dichiarazioni ad esso allegate.
 
-##### Art. 2
+###### Art. 2
 
 1\. Piena ed intera esecuzione e' data all'atto di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' a quanto disposto dall'articolo 33, comma 2, dell'atto stesso.
 
-##### Art. 3
+###### Art. 3
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
@@ -171,7 +171,7 @@ Ministero degli affari esteri e del Commonwealth,
 
 I QUALI, dopo aver scambiato i loro pieni poteri, riconosciuti in buona e debita forma, hanno convenuto le disposizioni che seguono:
 
-##### ARTICOLO 1
+###### ARTICOLO 1
 
 Le Comunita' europee e la Cooperazione politica europea perseguono l'obiettivo di contribuire insieme a far progredire concretamente l'Unione europea.
 
@@ -181,13 +181,13 @@ La Cooperazione politica e' disciplinata dal titolo III.
 
 Le disposizioni di questo titolo confermano e completano le procedure convenute nei rapporti di Lussemburgo (1970), Copenaghen (1973) e Londra (1981) e nella dichiarazione solenne sull'Unione europea (1983) nonche' la prassi progressivamente instauratasi tra gli Stati membri.
 
-##### ARTICOLO 2
+###### ARTICOLO 2
 
 Il Consiglio europeo riunisce i Capi di Stato o di Governo degli Stati membri nonche' il Presidente della Commissione delle Comunita' europee. Essi sono assistiti dai Ministri degli affari esteri E' da un membro della Commissione.
 
 Il Consiglio europeo si riunisce almeno due volte l'anno.
 
-##### ARTICOLO 3
+###### ARTICOLO 3
 
 1\. Le istituzioni delle Comunita' europee, ormai denominate come qui di seguito, esercitano i loro poteri e le loro competenze alle condizioni e ai fini previsti dai trattati che istituiscono le Comunita' e dai trattati e atti successivi che li hanno modificati o completati nonche' dalle disposizioni del titolo II.
 
@@ -195,11 +195,9 @@ Il Consiglio europeo si riunisce almeno due volte l'anno.
 
 ## TITOLO II - DISPOSIZIONI CHE MODIFICANO I TRATTATI CHE ISTITUISCONO LE COMUNITA' EUROPEE
 
-### Capo I
+### Capo I - Disposizioni che modificano il trattato che istituisce la Comunità europea del carbone e dell'acciaio
 
-#### Disposizioni che modificano il trattato che istituisce la Comunità europea del carbone e dell'acciaio
-
-##### ARTICOLO 4
+###### ARTICOLO 4
 
 Il trattato CECA e' completato dalle disposizioni seguenti:
 
@@ -215,17 +213,15 @@ Tale giurisdizione non sara' competente a conoscere ne' delle cause proposte da 
 
 4\. La suddetta giurisdizione stabilisce il proprio regolamento di procedura di concerto con la Corte di giustizia. Tale regolamento e' sottoposto all'approvazione unanime del Consiglio.".
 
-##### ARTICOLO 5
+###### ARTICOLO 5
 
 L'articolo 45 del trattato CECA e' completato dal comma seguente: "Il Consiglio, deliberando all'unanimita' su richiesta della Corte di giustizia e previa consultazione della Commissione e del Parlamento europeo, puo' modificare le disposizioni del titolo III dello statuto.".
 
-## Capo II - Disposizioni che modificano il trattato che istituisce la Comunità economica europea
+### Capo II - Disposizioni che modificano il trattato che istituisce la Comunità economica europea
 
-### Sezione I
+#### Sezione I - Disposizioni istituzionali
 
-#### Disposizioni istituzionali
-
-##### ARTICOLO 6
+###### ARTICOLO 6
 
 1\. E' istituita una procedura di cooperazione che si applica agli atti basati sugli articoli 7 e 49, l'articolo 54, paragrafo 2, l'articolo 56, paragrafo 2, seconda frase, l'articolo 57 ad eccezione del paragrafo 2, seconda frase, gli articoli 100 A, 118 A e 130 E e l'articolo 130 Q, paragrafo 2 del trattato CEE.
 
@@ -241,7 +237,7 @@ L'articolo 45 del trattato CECA e' completato dal comma seguente: "Il Consiglio,
 
 7\. L'articolo 57, paragrafo 2, terza frase del trattato CEE e' sostituito dalle disposizioni seguenti "Negli altri casi, il Consiglio delibera a maggioranza qualificata, in cooperazione con il Parlamento europeo.".
 
-##### ARTICOLO 7
+###### ARTICOLO 7
 
 L'articolo 149 del trattato CEE e' sostituito dalle disposizioni seguenti:
 
@@ -279,23 +275,23 @@ g) I termini di cui alle lettere b) e f) possono essere prorogati di un mese al 
 
 3\. Finche' il Consiglio non ha deliberato, la Commissione puo' modificare la propria proposta in ogni fase delle procedure di cui ai paragrafi 1 e 2.".
 
-##### ARTICOLO 8
+###### ARTICOLO 8
 
 L'articolo 237, primo comma del trattato CEE e' sostituito dalle disposizioni seguenti "Ogni Stato europeo puo' domandare di diventare membro della Comunita'. Esso invia la sua domanda al Consiglio che si pronuncia all'unanimita', previa consultazione della Commissione e previo parere conforme del Parlamento europeo che si pronuncia alla maggioranza assoluta dei membri che lo compongono.".
 
-##### ARTICOLO 9
+###### ARTICOLO 9
 
 L'articolo 238, secondo comma del trattato CEE e' sostituito dalle disposizioni seguenti:
 
 "Tali accordi sono conclusi dal Consiglio operante all'unanimita' e previo parere conforme del Parlamento europeo che si pronuncia alla maggioranza assoluta dei membri che lo compongono."
 
-##### ARTICOLO 10
+###### ARTICOLO 10
 
 L'articolo 145 del trattato CEE e' completato dalle disposizioni seguenti "- conferisce alla Commissione, negli atti che esso adotta, le competenze di esecuzione delle norme che stabilisce.
 
 Il Consiglio puo' sottoporre l'esercizio di tali competenze a determinate modalita'. Il Consiglio puo' anche riservarsi, in casi specifici, di esercitare direttamente competenze di esecuzione. Le suddette modalita' devono rispondere ai principi e alle norme che il Consiglio, deliberando all'unanimita' su proposta della Commissione previo parere del Parlamento europeo, avra' stabilito in via preliminare.".
 
-##### ARTICOLO 11
+###### ARTICOLO 11
 
 Il trattato CEE e' completato dalle disposizioni seguenti:
 
@@ -309,17 +305,15 @@ Il trattato CEE e' completato dalle disposizioni seguenti:
 
 4\. La suddetta giurisdizione stabilisce il proprio regolamento di procedura di concerto con la Corte di giustizia. Tale regolamento e' sottoposto all'approvazione unanime del Consiglio.".
 
-##### ARTICOLO 12
+###### ARTICOLO 12
 
 All'articolo 188 del trattato CEE e' inserito il seguente secondo comma "Il Consiglio, deliberando all'unanimita' su richiesta della Corte di giustizia e previa consultazione della Commissione e del Parlamento europeo, puo' modificare le disposizioni del titolo III dello statuto.".
 
-## SEZIONE II - Disposizioni relative ai fondamenti e alla politica della Comunità
+#### SEZIONE II - Disposizioni relative ai fondamenti e alla politica della Comunità
 
-### Sottosezione I
+##### Sottosezione I - Mercato interno
 
-#### Mercato interno
-
-##### ARTICOLO 13
+###### ARTICOLO 13
 
 Il trattato CEE e' completato dalle disposizioni seguenti:
 
@@ -329,7 +323,7 @@ La Comunita' adotta le misure destinate all'instaurazione progressiva del mercat
 
 Il mercato interno comporta uno spazio senza frontiere interne, nel quale e' assicurata la libera circolazione delle merci, delle persone, dei servizi e dei capitali secondo le disposizioni del presente trattato.".
 
-##### ARTICOLO 14
+###### ARTICOLO 14
 
 Il trattato CEE e' completato dalle disposizioni seguenti:
 
@@ -339,7 +333,7 @@ La Commissione riferisce al Consiglio anteriormente al 31 dicembre 1988 ed al 31
 
 Il Consiglio, deliberando a maggioranza qualificata, su proposta della Commissione, definisce gli orientamenti e le condizioni necessari per garantire un progresso equilibrato nell'insieme dei settori interessati.".
 
-##### ARTICOLO 15
+###### ARTICOLO 15
 
 Il trattato CEE e' completato dalle disposizioni seguenti:
 
@@ -349,7 +343,7 @@ Nella formulazione delle proprie proposte intese a realizzare gli obiettivi dell
 
 Se queste disposizioni assumono la forma di deroghe, esse debbono avere un carattere temporaneo ed arrecare meno perturbazioni possibili al funzionamento del mercato comune.".
 
-##### ARTICOLO 16
+###### ARTICOLO 16
 
 1\. L'articolo 28 del trattato CEE e' sostituito dalle disposizioni seguenti:
 
@@ -371,7 +365,7 @@ Qualsiasi modifica o sospensione autonoma dei dazi della tariffa doganale comune
 
 "Le disposizioni di procedura di cui all'articolo 75, paragrafi 1 e 3 sono applicabili.".
 
-##### ARTICOLO 17
+###### ARTICOLO 17
 
 L'articolo 99 del trattato CEE e' sostituito dalle disposizioni seguenti:
 
@@ -379,7 +373,7 @@ L'articolo 99 del trattato CEE e' sostituito dalle disposizioni seguenti:
 
 Il Consiglio, deliberando all'unanimita' su proposta della Commissione e previa consultazione del Parlamento europeo, adotta le disposizioni che riguardano l'armonizzazione delle legislazioni relative alle imposte sulla cifra d'affari, alle imposte di consumo ed altre imposte indirette, nella misura in cui detta armonizzazione sia necessaria per assicurare l'instaurazione ed il funzionamento del mercato interno entro il termine previsto dall'articolo 8 A.".
 
-##### ARTICOLO 18
+###### ARTICOLO 18
 
 Il trattato CEE completato dalle disposizioni seguenti:
 
@@ -399,7 +393,7 @@ In deroga alla procedura di cui agli articoli 169 e 170, la Commissione o qualsi
 
 5\. Le misure di armonizzazione di cui sopra comportano, nei casi appropriati, una clausola di salvaguardia che autorizza gli Stati membri ad adottare, per uno o piu' dei motivi non economici di cui all'articolo 35, misure provvisorie soggette ad una procedura comunitaria di controllo.".
 
-##### ARTICOLO 19
+###### ARTICOLO 19
 
 Il trattato CEE e' completato dalle disposizioni seguenti:
 
@@ -413,9 +407,9 @@ Il Consiglio, deliberando secondo le disposizioni dell'articolo 100 A, puo' deci
 
 3\. La Commissione procede all'inventario di cui al paragrafo 1, primo comma e presenta al Consiglio le proposte adeguate in tempo utile perche' questo possa deliberare prima della fine del 1992.".
 
-## Sottosezione II - Capacita' monetaria
+##### Sottosezione II - Capacita' monetaria
 
-##### ARTICOLO 20
+###### ARTICOLO 20
 
 1\. Nel trattato CEE, parte terza, titolo II, e' inserito un nuovo capo 1 cosi' redatto:
 
@@ -429,9 +423,9 @@ ARTICOLO 102 A
 
 2\. I capi 1, 2 e 3 diventano rispettivamente i capi 2, 3 e 4.
 
-## Sottosezione III - Politica sociale
+##### Sottosezione III - Politica sociale
 
-##### ARTICOLO 21
+###### ARTICOLO 21
 
 Il trattato CEE e' completato dalle disposizioni seguenti:
 
@@ -445,7 +439,7 @@ Tali direttive eviteranno di imporre vincoli amministrativi, finanziari e giurid
 
 3\. Le disposizioni adottate a norma del presente articolo non ostano a che ciascuno Stato membro mantenga e stabilisca misure, compatibili con il presente trattato, per una maggiore protezione delle condizioni di lavoro.".
 
-##### ARTICOLO 22
+###### ARTICOLO 22
 
 Il trattato CEE e' completato dalle disposizioni seguenti:
 
@@ -453,9 +447,9 @@ Il trattato CEE e' completato dalle disposizioni seguenti:
 
 La Commissione si sforza di sviluppare a livello europeo un dialogo tra le parti sociali, il quale possa sfociare, se esse lo ritengono opportuno, in relazioni convenzionali.".
 
-## Sottosezione IV - Coesione economica e sociale
+##### Sottosezione IV - Coesione economica e sociale
 
-##### ARTICOLO 23
+###### ARTICOLO 23
 
 Nella parte terza del trattato CEE e' aggiunto un titolo V cosi' redatto:
 
@@ -485,9 +479,9 @@ Dopo l'adozione della decisione di cui all'articolo 130 D le decisioni di applic
 
 Per quanto riguarda il Fondo europeo agricolo di orientamento e garanzia, sezione orientamento ed il Fondo sociale europeo restano applicabili rispettivamente gli articoli 43, 126 e 127.".
 
-## Sottosezione V - Ricerca e sviluppo tecnologico
+##### Sottosezione V - Ricerca e sviluppo tecnologico
 
-##### ARTICOLO 24
+###### ARTICOLO 24
 
 Nella parte terza del trattato CEE e' aggiunto un titolo VI cosi' redatto:
 
@@ -567,9 +561,9 @@ ARTICOLO 130 Q
 
 L'adozione dei programmi complementari richiede inoltre l'accordo degli Stati membri interessati.".
 
-## Sottosezione VI - Ambiente
+##### Sottosezione VI - Ambiente
 
-##### ARTICOLO 25
+###### ARTICOLO 25
 
 Nella parte terza del trattato CEE e' aggiunto un titolo VII cosi' redatto:
 
@@ -613,9 +607,9 @@ ARTICOLO 130 T
 
 I provvedimenti di protezione adottati in comune in virtu' dell'articolo 130 S non impediscono ai singoli Stati membri di mantenere e di prendere provvedimenti, compatibili con il presente trattato, per una protezione ancora maggiore.".
 
-## Capo III - Disposizioni che modificano il trattato che istituisce la Comunità europea dell'energia atomica
+### Capo III - Disposizioni che modificano il trattato che istituisce la Comunità europea dell'energia atomica
 
-##### ARTICOLO 26
+###### ARTICOLO 26
 
 Il trattato CEEA e' completato dalle disposizioni seguenti:
 
@@ -631,15 +625,15 @@ ARTICOLO 140 A
 
 Tale regolamento e' sottoposto all'approvazione unanime del Consiglio.".
 
-##### ARTICOLO 27
+###### ARTICOLO 27
 
 All'articolo 160 del trattato CEEA e' inserito il seguente secondo comma "Il Consiglio, deliberando all'unanimita' su richiesta della Corte di giustizia e previa consultazione della Commissione e del Parlamento europeo, puo' modificare le disposizioni del titolo III dello statuto.".
 
-##### ARTICOLO 28
+###### ARTICOLO 28
 
 Le disposizioni del presente atto lasciano impregiudicate le disposizioni degli strumenti di adesione del Regno di Spagna, e della Repubblica portoghese alle Comunita' europee.
 
-##### ARTICOLO 29
+###### ARTICOLO 29
 
 All'articolo 4, paragrafo 2 della decisione 85/257/CEE, Euratom del Consiglio, del 7 maggio 1985, relativa al sistema delle risorse proprie delle Comunita', i termini "il cui importo ed il cui criterio di ripartizione sono determinati da una decisione del Consiglio, che delibera all'unanimita'" sono sostituiti dai termini "il cui importo ed il cui criterio di ripartizione sono determinati da una decisione del Consiglio, che delibera a maggioranza qualificata, dopo aver ricevuto l'accordo degli Stati membri interessati".
 
@@ -647,7 +641,7 @@ La presente modifica non pregiudica la natura giuridica della suddetta decisione
 
 ## TITOLO III - DISPOSIZIONI SULLA COOPERAZIONE EUROPEA IN MATERIA DI POLITICA ESTERA
 
-##### ARTICOLO 30
+###### ARTICOLO 30
 
 La Cooperazione europea in materia di politica estera e' disciplinata dalle seguenti disposizioni:
 
@@ -715,21 +709,21 @@ Esso opera sotto l'autorita' della Presidenza.
 
 ## TITOLO IV - DISPOSIZIONI GENERALI E FINALI
 
-##### ARTICOLO 31
+###### ARTICOLO 31
 
 Le disposizioni del trattato che istituisce la Comunita' europea del carbone e dell'acciaio, del trattato che istituisce la Comunita' economica europea e del trattato che istituisce la Comunita' europea dell'energia atomica relative alla competenza della Corte di giustizia delle Comunita' europee e all'esercizio di questa competenza si applicano soltanto alle disposizioni del titolo II e all'articolo 32; esse si applicano a queste disposizioni alle stesse condizioni di quelle valide per le disposizioni di detti trattati.
 
-##### ARTICOLO 32
+###### ARTICOLO 32
 
 Fatti salvi l'articolo 3, paragrafo 1, il titolo II e l'articolo 31, nessuna disposizione del presente atto pregiudica i trattati che istituiscono le Comunita' europee ne' i trattati e atti successivi che li hanno modificati o completati.
 
-##### ARTICOLO 33
+###### ARTICOLO 33
 
 1\. Il presente atto sara' ratificato dalle Alte parti contraenti conformemente alle loro norme costituzionali rispettive. Gli strumenti di ratifica saranno depositati presso il Governo della Repubblica italiana.
 
 2\. Il presente atto entrera' in vigore il primo giorno del mese successivo all'avvenuto deposito dello strumento di ratifica da parte dello Stato firmatario che procedera' per ultimo a tale formalita'.
 
-##### ARTICOLO 34
+###### ARTICOLO 34
 
 Il presente atto, redatto in un unico esemplare, in lingua danese, in lingua francese, in lingua greca, in lingua inglese, in lingua irlandese, in lingua italiana, in lingua olandese, in lingua portoghese, in lingua spagnola e in lingua tedesca, i testi in ciascuna di queste lingue facenti ugualmente fede, sara' depositato negli archivi del Governo della Repubblica italiana che provvedera' a rimettere copia certificata conforme a ciascuno dei governi degli altri Stati firmatari.
 
@@ -739,7 +733,7 @@ Visto, il Ministro degli affari esteri
 
 ANDREOTTI
 
-##### Atto finale
+###### Atto finale
 
 ATTO FINALE
 
@@ -817,7 +811,7 @@ capacita' monetaria della Comunita'
 
 FATTO a Lussemburgo, addi' diciassette febbraio millenovecentoottantasei e a L'Aja, addi' ventotto febbraio millenovecentoottantasei.
 
-##### Dichiarazioni
+###### Dichiarazioni
 
 DICHIARAZIONE relativa alle competenze di esecuzione della Commissione
 

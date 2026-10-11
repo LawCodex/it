@@ -50,11 +50,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Semplificazioni per le persone fisiche
 
-### Semplificazioni per le persone fisiche
-
-#### Art. 1
+### Art. 1
 
 Dichiarazione dei redditi precompilata
 
@@ -96,7 +94,7 @@ AGGIORNAMENTO (14)
 
 Il D.L. 27 gennaio 2022, n. 4, convertito con modificazioni dalla L. 28 marzo 2022, n. 25, ha disposto (con l'art. 10-quater, comma 2) che "Per l'anno 2022, il termine del 30 aprile di cui all'articolo 1, comma 1, del decreto legislativo 21 novembre 2014, n. 175, e' prorogato al 23 maggio".
 
-#### Art. 2
+### Art. 2
 
 Trasmissione all'Agenzia delle entrate
 
@@ -160,7 +158,7 @@ Nei casi di errata trasmissione della certificazione, la sanzione non si applica
 
 > c) fornire ai CAF, entro quindici giorni dalla ricezione delle comunicazioni, l'attestazione di disponibilita' dei dati ai sostituti d'imposta.».
 
-#### Art. 3
+### Art. 3
 
 Trasmissione all'Agenzia delle entrate da parte di soggetti terzi di dati relativi a oneri e spese sostenute dai contribuenti ((e a redditi percepiti dai contribuenti))
 
@@ -208,7 +206,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 24 settembre 2015, n. 158 come modificato dalla L. 28 dicembre 2015, n. 208, ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
 
-#### Art. 4
+### Art. 4
 
 Accettazione e modifica della dichiarazione precompilata
 
@@ -266,7 +264,7 @@ AGGIORNAMENTO (9)
 
 Il D.L. 26 ottobre 2019, n. 124, convertito con modificazioni dalla L. 19 dicembre 2019, n. 157, come modificato dal D.L. 17 marzo 2020, n. 18, convertito con modificazioni dalla L. 24 aprile 2020, n. 27, ha disposto (con l'art. 16-bis, comma 5) che la modifica del comma 3-bis del presente articolo acquista efficacia a decorrere dal 1° gennaio 2020.
 
-#### Art. 5
+### Art. 5
 
 Limiti ai poteri di controllo
 
@@ -286,7 +284,7 @@ AGGIORNAMENTO (16)
 
 Il D.L. 21 giugno 2022, n. 73, convertito con modificazioni dalla L. 4 agosto 2022, n. 122, ha disposto (con l'art. 6, comma 2) che le presenti modifiche "si applicano a partire dalle dichiarazioni relative al periodo d'imposta in corso alla data di entrata in vigore del presente decreto e alle stesse si provvede con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente, senza nuovi o maggiori oneri a carico della finanza pubblica".
 
-#### Art. 6
+### Art. 6
 
 Visto di conformita'
 
@@ -430,7 +428,7 @@ d) dopo il comma 3-bis, sono aggiunti i seguenti:
 
 > 3-quater. Le somme che risultano dovute a seguito dei controlli di cui al comma 3-bis, possono essere pagate entro sessanta giorni dal ricevimento della comunicazione prevista dal comma 3-ter, con le modalita' indicate nell'art. 19, del decreto legislativo 9 luglio 1997, n. 241. In tal caso, l'ammontare delle somme dovute e' pari all'imposta, agli interessi dovuti fino all'ultimo giorno del mese antecedente a quello dell'elaborazione della comunicazione e alla sanzione di cui all'art. 13, del decreto legislativo 18 dicembre 1997, n. 471, ridotta a due terzi. Per la riscossione coattiva delle somme si applicano le disposizioni previste dal decreto del Presidente della Repubblica 29 settembre 1973, n. 602, con riferimento alle somme dovute ai sensi dell'art. 36-ter, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600.».
 
-#### Art. 7
+### Art. 7
 
 Modifica compensi
 
@@ -456,7 +454,7 @@ Modifica compensi
 
 > 2\. Non e' dovuto alcun compenso a carico del bilancio dello Stato per la predisposizione e l'elaborazione delle dichiarazioni integrative di cui all'art. 14.».
 
-#### Art. 8
+### Art. 8
 
 Semplificazioni in materia di addizionali comunali e regionali all'Irpef
 
@@ -526,7 +524,7 @@ b) al comma 5 le parole: «31 dicembre dell'anno cui si riferisce l'addizionale 
 
 > 11\. I decreti di cui ai commi 6 e 7 sono emanati sentita la Conferenza Stato-Citta' ed autonomie locali di cui all'art. 8, comma 2, del decreto legislativo 28 agosto 1997, n. 281.».
 
-#### Art. 9
+### Art. 9
 
 Disposizioni di attuazione e finali
 
@@ -534,7 +532,7 @@ Disposizioni di attuazione e finali
 
 2\. Alle funzioni previste dagli articoli da 1 a 8, l'Agenzia delle entrate provvede con le risorse umane, strumentali e finanziarie previste a legislazione vigente, senza nuovi o maggiori oneri per la finanza pubblica.
 
-#### Art. 10
+### Art. 10
 
 Spese di vitto e alloggio dei professionisti
 
@@ -550,7 +548,7 @@ Spese di vitto e alloggio dei professionisti
 
 > (Omissis).».
 
-#### Art. 11
+### Art. 11
 
 Dichiarazione di successione:
 
@@ -646,7 +644,7 @@ c) all'articolo 33, comma 1, sono aggiunte, in fine, le seguenti parole: «, non
 
 > 4\. Le disposizioni del presente art. si applicano anche per la riliquidazione dell'imposta in base a dichiarazione sostitutiva e per la liquidazione della maggiore imposta in base a dichiarazione integrativa.».
 
-#### Art. 12
+### Art. 12
 
 Abrogazione della comunicazione all'Agenzia delle entrate per i lavori che proseguono per piu' periodi di imposta ammessi alla detrazione IRPEF delle spese sostenute per la riqualificazione energetica degli edifici
 
@@ -656,11 +654,9 @@ Abrogazione della comunicazione all'Agenzia delle entrate per i lavori che prose
 
 > \- L'art. 29, comma 6, del decreto-legge 29 novembre 2008, n. 185, abrogato dal presente decreto, prevedeva, ai fini della detrazione IRPEF delle spese sostenute per la riqualificazione energetica degli edifici, uno specifico obbligo di comunicazione all'Agenzia delle entrate in relazione ai lavori che proseguono per piu' periodi di imposta.
 
-## Capo II
+## Capo II - Semplificazioni per i rimborsi
 
-### Semplificazioni per i rimborsi
-
-#### Art. 13
+### Art. 13
 
 Esecuzione dei rimborsi IVA
 
@@ -710,7 +706,7 @@ Ai rimborsi si provvede con gli stanziamenti di bilancio.
 
 11\. Con provvedimento del Direttore dell'Agenzia delle entrate sono definite le ulteriori modalita' e termini per l'esecuzione dei rimborsi di cui al presente articolo, inclusi quelli per la richiesta dei rimborsi relativi a periodi inferiori all'anno e per la loro esecuzione.».
 
-#### Art. 14
+### Art. 14
 
 Rimborso dei crediti d'imposta
 
@@ -812,7 +808,7 @@ e degli interessi in conto fiscale
 
 > 40\. Il Ministero del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.».
 
-#### Art. 15
+### Art. 15
 
 Compensazione dei rimborsi da assistenza
 
@@ -882,11 +878,9 @@ c) nell'articolo 1, del decreto del Presidente della Repubblica 10 novembre 1997
 
 > 6\. Sull'eccedenza computata in diminuzione dei versamenti non competono interessi. Se e' richiesto il rimborso competono gli interessi di cui all'art. 44 del decreto del Presidente della Repubblica n. 602 del 1973, con decorrenza dal secondo semestre successivo, rispettivamente, alla data di presentazione della dichiarazione del sostituto di imposta o a quella di presentazione dell'istanza di rimborso prevista dall'art. 38 del decreto del Presidente della Repubblica n. 602 del 1973.».
 
-## Capo III
+## Capo III - Semplificazioni per le societa'
 
-### Semplificazioni per le societa'
-
-#### Art. 16
+### Art. 16
 
 Razionalizzazione comunicazioni
 
@@ -974,7 +968,7 @@ dell'esercizio di opzione
 
 > 2\. I soggetti di cui al comma 1, in regime di contabilita' ordinaria, possono optare per la determinazione del valore della produzione netta secondo le regole di cui all'art. 5. L'opzione e' irrevocabile per tre periodi d'imposta e deve essere comunicata con la dichiarazione IRAP presentata nel periodo d'imposta a decorrere dal quale si intende esercitare l'opzione. Al termine del triennio l'opzione si intende tacitamente rinnovata per un altro triennio a meno che l'impresa non opti, secondo le modalita' e i termini fissati dallo stesso provvedimento direttoriale, per la determinazione del valore della produzione netta secondo le regole del comma 1; anche in questo caso, l'opzione e' irrevocabile per un triennio e tacitamente rinnovabile.».
 
-#### Art. 17
+### Art. 17
 
 Razionalizzazione delle modalita' di presentazione e dei termini di versamento nelle ipotesi di operazioni straordinarie poste in essere da societa' di persone
 
@@ -1014,7 +1008,7 @@ Razionalizzazione delle modalita' di presentazione e dei termini di versamento n
 
 > b) per la seconda rata, nel mese di novembre, ad eccezione di quella dovuta dai soggetti all'imposta sul reddito delle persone giuridiche e all'imposta regionale sulle attivita' produttive il cui periodo d'imposta non coincide con l'anno solare, che effettuano il versamento di tale rata entro l'ultimo giorno dell'undicesimo mese dello stesso periodo d'imposta.».
 
-#### Art. 18
+### Art. 18
 
 Societa' in perdita sistematica
 
@@ -1046,11 +1040,9 @@ Societa' in perdita sistematica
 
 > 3\. I termini di prescrizione e di decadenza per gli accertamenti di imposta non possono essere prorogati.».
 
-## Capo IV
+## Capo IV - Semplificazioni riguardanti la fiscalita' internazionale
 
-### Semplificazioni riguardanti la fiscalita' internazionale
-
-#### Art. 19
+### Art. 19
 
 Semplificazione delle dichiarazioni delle societa' o enti che non hanno la sede legale o amministrativa nel territorio dello Stato
 
@@ -1064,7 +1056,7 @@ Semplificazione delle dichiarazioni delle societa' o enti che non hanno la sede 
 
 > 2\. (abrogato).».
 
-#### Art. 20
+### Art. 20
 
 Comunicazione all'Agenzia delle entrate
 
@@ -1136,7 +1128,7 @@ b) l'ultimo periodo e' sostituito dal seguente: «Nella prima ipotesi, il cedent
 
 > 5\. Ai fini dell'applicazione del primo comma si intendono spediti o trasportati fuori della Comunita' anche i beni destinati ad essere impiegati nel mare territoriale per la costruzione, la riparazione, la manutenzione, la trasformazione, l'equipaggiamento e il rifornimento delle piattaforme di perforazione e sfruttamento, nonche' per la realizzazione di collegamenti fra dette piattaforme e la terraferma.».
 
-#### Art. 21
+### Art. 21
 
 Comunicazione delle operazioni intercorse
 
@@ -1168,7 +1160,7 @@ b) le parole: «di importo superiore a euro 500» sono sostituite dalle seguenti
 
 > 6-6.quinquies (Omissis).».
 
-#### Art. 22
+### Art. 22
 
 Richiesta di autorizzazione
 
@@ -1264,7 +1256,7 @@ d) il comma 15-quater e' abrogato.
 
 > 2\. I dettagli tecnici relativi alla ricerca automatizzata delle informazioni di cui al paragrafo 1, lettere b), c), e d), sono stabiliti secondo la procedura di cui all'art. 58, paragrafo 2.».
 
-#### Art. 23
+### Art. 23
 
 Semplificazione elenchi intrastat servizi
 
@@ -1316,7 +1308,7 @@ Semplificazione elenchi intrastat servizi
 
 > b) le prestazioni di servizi per l'accesso a manifestazioni culturali, artistiche, sportive, scientifiche, educative, ricreative e simili, ivi comprese fiere ed esposizioni, nonche' le prestazioni di servizi accessorie connesse con l'accesso, rese a committenti soggetti passivi si considerano effettuate nel territorio dello Stato quando ivi si svolgono le manifestazioni stesse.».
 
-#### Art. 24
+### Art. 24
 
 Termini di presentazione della denuncia
 
@@ -1362,7 +1354,7 @@ b) al comma 6-bis sono aggiunti, in fine, i seguenti periodi: «Le imprese assic
 
 > 5\. L'importo da pagare e' arrotondato alle mille lire superiori se le ultime tre cifre superano le cinquecento lire e a quelle inferiori nel caso contrario.».
 
-#### Art. 25
+### Art. 25
 
 Sanzioni per omissione o inesattezza
 
@@ -1444,11 +1436,9 @@ dati statistici degli elenchi intrastat
 
 > 3\. Il competente ufficio di statistica redige motivato rapporto in ordine alla violazione e, previa contestazione degli addebiti agli interessati secondo il procedimento di cui agli articoli 13 e seguenti della legge 24 novembre 1981, n. 689 , lo trasmette al prefetto della provincia, il quale procede, ai sensi dell'art. 18 e seguenti della medesima legge. Dell'apertura del procedimento e' data comunicazione all'ISTAT.».
 
-## Capo V
+## Capo V - Eliminazione di adempimenti superflui
 
-### Eliminazione di adempimenti superflui
-
-#### Art. 26
+### Art. 26
 
 Ammortamento finanziario: eliminazione della richiesta
 
@@ -1468,7 +1458,7 @@ di autorizzazione all'Agenzia delle entrate
 
 > 4\. Per le concessioni relative alla costruzione e all'esercizio di opere pubbliche sono ammesse in deduzione quote di ammortamento finanziario differenziate da calcolare sull'investimento complessivo realizzato. Le quote di ammortamento sono determinate nei singoli casi in rapporto proporzionale alle quote previste nel piano economico-finanziario della concessione, includendo nel costo ammortizzabile gli interessi passivi anche in deroga alle disposizioni del comma 1 dell'art. 110.».
 
-#### Art. 27
+### Art. 27
 
 Ritenute su agenti - comunicazione
 
@@ -1526,7 +1516,7 @@ di avvalersi di dipendenti o terzi
 
 > 7\. In caso di violazione delle prescrizioni di cui all'art. 53, comma 3, del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427, si applica la sanzione da lire cinquecentomila a lire quattro milioni.».
 
-#### Art. 28
+### Art. 28
 
 Coordinamento, razionalizzazione e semplificazione di disposizioni in materia di obblighi tributari
 
@@ -1590,11 +1580,9 @@ b) al comma terzo e' aggiunto il seguente periodo: «Il valore del denaro e dei 
 
 > 1\. Le disposizioni previste dagli articoli 14, 15, 32, 33, 34, 35, 37, 38, 41, 42-bis, 43-bis, 43-ter, 44 e 44-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, si applicano alle sole imposte sui redditi.».
 
-## Capo VI
+## Capo VI - Semplificazioni e coordinamenti normativi
 
-### Semplificazioni e coordinamenti normativi
-
-#### Art. 29
+### Art. 29
 
 Detrazione forfetaria per prestazioni di sponsorizzazione
 
@@ -1614,7 +1602,7 @@ Detrazione forfetaria per prestazioni di sponsorizzazione
 
 > (Omissis).».
 
-#### Art. 30
+### Art. 30
 
 Spese di rappresentanza - adeguamento valore
 
@@ -1742,7 +1730,7 @@ c) all'articolo 19-bis1, primo comma, lettera h), le parole: «a lire cinquantam
 
 > i) non e' ammessa in detrazione l'imposta relativa all'acquisto di fabbricati, o di porzione di fabbricato, a destinazione abitativa ne' quella relativa alla locazione o alla manutenzione, recupero o gestione degli stessi, salvo che per le imprese che hanno per oggetto esclusivo o principale dell'attivita' esercitata la costruzione dei predetti fabbricati o delle predette porzioni. La disposizione non si applica per i soggetti che esercitano attivita' che danno luogo ad operazioni esenti di cui al numero 8) dell'art. 10 che comportano la riduzione della percentuale di detrazione a norma dell'art. 19, comma 5, e dell'art. 19-bis.».
 
-#### Art. 31
+### Art. 31
 
 Rettifica IVA crediti non riscossi
 
@@ -1818,7 +1806,7 @@ Rettifica IVA crediti non riscossi
 
 > A seguito del deposito di un accordo di ristrutturazione dei debiti nei termini assegnati dal tribunale trovano applicazione le disposizioni di cui al secondo, terzo, quarto e quinto comma. Se nel medesimo termine e' depositata una domanda di concordato preventivo, si conservano gli effetti di cui ai commi sesto e settimo.».
 
-#### Art. 32
+### Art. 32
 
 Regime fiscale dei beni sequestrati
 
@@ -1858,7 +1846,7 @@ Regime fiscale dei beni sequestrati
 
 > 2\. Le spese e gli altri componenti negativi relativi ai beni immobili indicati nel comma 1 non sono ammessi in deduzione».
 
-#### Art. 33
+### Art. 33
 
 Allineamento definizione prima casa IVA - registro
 
@@ -1874,7 +1862,7 @@ Allineamento definizione prima casa IVA - registro
 
 > 22-41-quater) (Omissis)».
 
-#### Art. 34
+### Art. 34
 
 Disposizioni per la cooperazione nell'attivita' di rilevazione delle violazioni in materia di attestazione della prestazione energetica 1. All'articolo 6, comma 3, del decreto legislativo 19 agosto 2005, n. 192, sono apportate le seguenti modificazioni:
 
@@ -1896,7 +1884,7 @@ b) il quarto periodo e' sostituito dal seguente: «L'Agenzia delle entrate, sull
 
 > \- Il decreto-legge 23 dicembre 2013, n. 145, convertito, con modificazioni, dalla legge 21 febbraio 2014, n. 9, reca: «Interventi urgenti di avvio del piano 'Destinazione Italia', per il contenimento delle tariffe elettriche e del gas, per l'internazionalizzazione, lo sviluppo e la digitalizzazione delle imprese, nonche' misure per la realizzazione di opere pubbliche ed EXPO 2015».
 
-#### Art. 35
+### Art. 35
 
 Requisiti per l'autorizzazione allo svolgimento dell'attivita' di assistenza fiscale e requisiti delle societa' richiedenti e dei Centri autorizzati
 
@@ -1928,7 +1916,7 @@ c) nell'articolo 11, dopo il comma 1 e' inserito il seguente:
 
 4\. Le disposizioni di cui al comma 1 del presente articolo possono essere modificati con decreto del Ministro dell'economia e delle finanze adottato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400.
 
-#### Art. 36
+### Art. 36
 
 Soppressione dell'obbligo
 
@@ -1946,7 +1934,7 @@ di depositare copia dell'appello
 
 > 3\. Subito dopo il deposito del ricorso in appello, la segreteria della commissione tributaria regionale chiede alla segreteria della commissione provinciale la trasmissione del fascicolo del processo, che deve contenere copia autentica della sentenza.».
 
-#### Art. 37
+### Art. 37
 
 Disposizione finanziaria
 

@@ -26,11 +26,9 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I
+## TITOLO I - Miglioramenti economici
 
-### Miglioramenti economici
-
-##### Art. 1
+### Art. 1
 
 I coefficienti e i corrispondenti stipendi annui del personale insegnanti delle scuole elementari e delle scuole ed istituti d'istruzione secondaria, del personale direttivo ed insegnante degli istituti d'istruzione artistica, dei direttori didattici e degli ispettori scolastici e del personale direttivo delle scuole ed istituti d'istruzione secondaria, di cui alle tabelle A, B, C, D, E, annesse alla legge 13 marzo 1958, n. 165, e successive modificazioni, nonche' dei provveditori agli studi di 1ª e 2ª classe e degli ispettori centrali di 1ª e 2ª classe per l'istruzione media, classica, scientifica, magistrale e tecnica, per le antichita', e belle arti, per l'istruzione elementare e per l'educazione fisica, di cui al quadro 13 annesso al decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, e all'art. 8 della legge 7 febbraio 1958, n. 88, sono elevati, a decorrere dal 1 ottobre 1961, nelle seguenti misure:
 
@@ -52,7 +50,7 @@ da coefficiente 670, lire 2.010.000 a coefficiente 700, lire 2.100.000.
 
 Al personale di cui al precedente comma, che cessera' dal servizio con il 30 settembre 1961, il trattamento di quiescenza e' liquidato sulla base del trattamento economico stabilito dalla presente legge.
 
-##### Art. 2
+### Art. 2
 
 L'indennita di direzione mensile lorda, di cui all'articolo 18 del decreto del Presidente della Repubblica 11 gennaio 1956, n. 19, e successive modificazioni, e stabilita, a decorrere dal 1° ottobre 1961, nelle seguenti misure:
 
@@ -100,11 +98,11 @@ AGGIORNAMENTO (11)
 
 La L. 8 agosto 1972, n. 483 ha disposto (con l'art. 2, comma 2) che "Sono abrogati, limitatamente agli insegnanti elementari assegnati a compiti di segreteria presso gli ispettorati e le direzioni didattiche [...] il settimo comma dell'articolo 2 della legge 28 luglio 1961, n. 831".
 
-##### Art. 3
+### Art. 3
 
 ((ARTICOLO ABROGATO DALLA L. 14 LUGLIO 1965, N. 902))
 
-##### Art. 4
+### Art. 4
 
 L'attuale organico del personale non insegnante degli istituti e scuole di istruzione media, classica, scientifica e magistrale e' scisso, a decorrere dal 1 ottobre 1961, in due organici distinti, relativi l'uno al personale non insegnante in servizio negli istituti di istruzione classica scientifica e magistrale e l'altro a quello in servizio nelle scuole di istruzione media. La iscrizione nei ruoli dei due nuovi organici avra' luogo nello stesso ordine con cui gli interessati figurano iscritti nei ruoli dell'organico soppresso.
 
@@ -112,13 +110,9 @@ Il numero dei posti del personale ausiliario degli istituti di istruzione classi
 
 Con apposito regolamento saranno definite le mansioni del personale ausiliario dei convitti nazionali e degli educandati femminili statali, nonche' le norme transitorie per l'inquadramento del personale stesso che vi presti alla data di entrata in vigore della presente legge lodevole servizio da almeno due anni.
 
-## TITOLO II
+## TITOLO II - Assunzione, trattamento economico e trattamento di quiescenza degli insegnanti non di ruolo abilitati delle scuole ed istituti di istruzione secondaria, artistica ed elementare.
 
-### Assunzione, trattamento economico e trattamento di quiescenza degli - insegnanti non di ruolo abilitati delle scuole ed istituti di
-
-#### istruzione secondaria, artistica ed elementare.
-
-##### Art. 5
+### Art. 5
 
 Gli incarichi di insegnamento negli istituti statali di istruzione secondaria sono conferiti dai provveditori agli studi, in base a graduatorie provinciali di merito formate secondo norme da stabilirsi per regolamento, e fino alla sua emanazione mediante ordinanza ministeriale, agli aspiranti forniti del titolo legale di abilitazione e iscritti all'albo professionale previa domanda da presentarsi ad un solo provveditorato. L'iscrizione all'albo s'intende comprensiva dell'abilitazione per quei titoli non abilitanti, in base ai quali, per effetto di disposizioni speciali, sia stata disposta l'iscrizione stessa.
 
@@ -132,7 +126,7 @@ Per il conferimento degli incarichi di professori non abilitati si osservano le 
 
 Dopo che i provveditori agli studi abbiano effettuato le nomine di competenza si procede alla compilazione di graduatorie regionali secondo un regolamento da emanarsi dal Ministro per la pubblica istruzione.
 
-##### Art. 6
+### Art. 6
 
 Le nomine degli insegnanti incaricati sono disposte per un triennio.
 
@@ -140,7 +134,7 @@ Nel corso del triennio, gli effetti della nomina ad incaricato cessano nei casi 
 
 L'insegnante incaricato che, nel corso del triennio, sia, stato destinato ad altro posto disponibile, ai sensi del precedente comma, consegue il trattamento economico corrispondente all'insegnamento affidatogli.
 
-##### Art. 7
+### Art. 7
 
 Gli stipendi spettanti agli insegnanti incaricati forniti di abilitazione all'insegnamento sono suscettibili di aumenti periodici costanti in ragione del 2,50 per cento della misura iniziale, per ogni biennio di insegnamento prestato con trattamento di cattedra o per non meno di 18 ore settimanali con qualifica non inferiore a "valente" e con diritto al trattamento economico durante le vacanze estive.
 
@@ -150,7 +144,7 @@ Gli aumenti periodici sono calcolati, in ogni caso, sull'importo iniziale degli 
 
 Ai fini dell'applicazione dei precedenti commi e' valutato l'insegnamento impartito a decorrere dall'anno scolastico, 1961-62.
 
-##### Art. 8
+### Art. 8
 
 Agli insegnanti incaricati forniti di abilitazione all'insegnamento, nonche' ai loro familiari in caso di morte, e' riconosciuto il diritto al trattamento di quiescenza, di previdenza e di assistenza previsto dalle norme vigenti per gli impiegati civili dello Stato e per gli insegnanti di ruolo.
 
@@ -172,7 +166,7 @@ Agli insegnanti tecnico-pratici non di ruolo con nomina a tempo indeterminato e 
 
 Il personale di cui al presente articolo ha diritto ad opzione nei confronti dell'assicurazione di invalidita' e vecchiaia, entro due anni dalla data di entrata in vigore della presente legge.
 
-##### Art. 9
+### Art. 9
 
 L'iscrizione all'Istituto nazionale "Giuseppe Kirner", per l'assistenza ai professori medi, del personale di cui al precedente articolo, compresi gli insegnanti tecnico-pratici e gli insegnanti di strumento musicale negli Istituti magistrali avra' decorrenza dal 1 ottobre 1961.
 
@@ -186,7 +180,7 @@ La lettera d) dell'articolo 9 del decreto legislativo luogotenenziale 26 aprile 
 
 "d) Dieci soci effettivi dell'Istituto, dei quali due appartenenti alla categoria di cui al comma primo del presente articolo ed uno pensionato, designati dalla seconda Sezione del Consiglio superiore della pubblica istruzione, che li scegliera' entro elenchi forniti delle organizzazioni sindacati piu' rappresentative dei capi di Istituto e dei docenti delle scuole medie".
 
-##### Art. 10
+### Art. 10
 
 Le norme di cui ai precedenti articoli, circa la nomina per un triennio, gli aumenti periodici di stipendio e il trattamento di quiescenza, si applicano anche agli insegnanti elementari non di ruolo, nominati in posti che non si siano potuto coprire con insegnanti di ruolo o in soprannumero, e agli insegnanti non di ruolo delle scuole ed istituti di istruzione artistica.
 
@@ -194,11 +188,9 @@ Le stesse norme, limitatamente agli aumenti periodici di stipendio e al trattame
 
 Il provvedimento di nomina, di cui all'articolo 5 della presente legge, e' adottato dal provveditore agli studi per i maestri, dal direttore per gli insegnanti dei Conservatori di musica e dal presidente per gli insegnanti degli altri istituti di istruzione artistica.
 
-## TITOLO III
+## TITOLO III - Sistemazione nei ruoli degli Istituti d'istruzione secondaria e artistica di insegnanti forniti di particolari requisiti.
 
-### Sistemazione nei ruoli degli Istituti d'istruzione secondaria e - artistica di insegnanti forniti di particolari requisiti.
-
-##### Art. 11
+### Art. 11
 
 Gli insegnanti non di ruolo e gli insegnanti di ruolo speciale transitorio, in servizio nell'anno scolastico 1959-60 o 1960-61 negli istituti statali o pareggiati di istruzione secondaria, il personale di ruolo della carriera direttiva degli Istituti di educazione, gli insegnanti di ruolo delle scuole elementari statali, nonche' gli assistenti universitari, che in un concorso a cattedre o in un esame di Stato, bandito anteriormente al 28 ottobre 1957, data di pubblicazione del regolamento di esecuzione della legge 15 dicembre 1955, n. 1440, abbiano riportato l'idoneita' o almeno sette decimi dei voti riservati alle prove di esame e in nessuno degli anni suddetti abbiano riportato qualifica inferiore a "valente" e a "distinto" e, per gli assistenti universitari, qualifica dichiarata equipollente con decreto del Ministro per la pubblica istruzione previo conforme parere della Sezione prima del Consiglio superiore della pubblica istruzione, possono, a domanda ed in relazione alle cattedre disponibili, ottenere l'assunzione nel ruolo ordinario dei professori degli istituti di istruzione, secondaria relativo all'insegnamento cui l'idoneita' o la votazione conseguita si riferisce.
 
@@ -218,7 +210,7 @@ La L. 16 febbraio 1965, n. 98 ha disposto (con l'art. 2)che "Agli effetti delle 
 
 Agli stessi effetti delle condizioni richiamate dal precedente comma, il servizio prestato in qualita' di capo di istituto incaricato e' valutato come servizio di insegnante. In riferimento al secondo comma dell'articolo 11 della legge 28 luglio 1961, n. 831, per coloro che siano stati collocati in congedo straordinario o in aspettativa per l'esercizio di pubbliche funzioni politiche o amministrative, e' valida la qualifica dell'ultimo anno effettivo d'insegnamento precedente a tale loro collocazione".
 
-##### Art. 12
+### Art. 12
 
 Le cattedre che restino disponibili nella scuola media e nella scuola secondaria di avviamento professionale dopo la nomina nei ruoli delle scuole stesse degli aspiranti in possesso dei requisiti di cui all'articolo 10, sono conferite, a domanda, agli insegnanti di ruolo e non di ruolo in servizio nell'anno scolastico 1959-60 o 1960-61 negli istituti statali o pareggiati di istruzione secondaria, nonche' agli insegnanti di ruolo delle scuole elementari statali, che in nessuno degli anni suddetti abbiano riportato qualifica inferiore a "valente" e a "distinto", e si trovino in una delle seguenti condizioni:
 
@@ -242,7 +234,7 @@ AGGIORNAMENTO (3)
 
 La L. 16 febbraio 1965, n. 98 ha disposto (con l'art. 2, commi 1 e 2) che "Agli effetti delle condizioni prescritte dagli articoli 11 e 12 della legge 28 luglio 1961, n. 831, il servizio prestato nelle scuole di istruzione artistica si intende prestato in istituti di istruzione secondaria. Agli stessi effetti delle condizioni richiamate dal precedente comma, il servizio prestato in qualita' di capo di istituto incaricato e' valutato come servizio di insegnante".
 
-##### Art. 13
+### Art. 13
 
 Gli insegnanti non di ruolo in servizio nell'anno scolastico 1959-60 o 1960-61 negli istituti statali di istruzione artistica, che siano stati compresi interne oppure che abbiano riportato la idoneita' in concorsi a cattedre degli istituti stessi e in nessuno degli anni scolastici suddetti abbiano riportato qualifica inferiore a "distinto", possono, a domanda e in relazione alle cattedre disponibili, ottenere l'assunzione nel ruolo relativo all'insegnamento cui l'inclusione in terna o l'idoneita' si riferisce.
 
@@ -250,7 +242,7 @@ Gli insegnanti di ruolo degli istituti statali di istruzione artistica che siano
 
 Ai fini di cui al presente e al successivo articolo si considerano idonei coloro che in un concorso a cattedre degli istituti di istruzione artistica siano stati dichiarati idonei dalla Commissione giudicatrice.
 
-##### Art. 14
+### Art. 14
 
 Gli insegnanti non di ruolo in servizio nell'anno scolastico 1959-60 o 1960-61 negli istituti, statali di istruzione artistica, che in un concorso a cattedre di istituiti di istruzione secondaria superiore o in un esami di Stato bandito anteriormente ai 28 ottobre 1957, abbiano riportato l'idoneita' o almeno i sette decimi dei voti riservati alle prove di esame e in nessuno degli anni scolastici suddetti abbiano ottenuto qualifica inferiore a "distinto", possono, a domanda, ottenere la assunzione nei ruoli degli insegnanti di materie culturali degli istituti di istruzione artistica, nei limiti delle cattedre rimaste disponibili dopo la nomina degli aspiranti di cui al precedente articolo.
 
@@ -260,11 +252,11 @@ In caso di disponibilita' di cattedre nei licei artistici per gli insegnamenti d
 
 L'assunzione e' disposta per cattedre relative a materie che comprendano o coincidano con le materie che costituiscono la cattedra cui si riferisce la idoneita' o la votazione conseguita.
 
-##### Art. 15
+### Art. 15
 
 Gli insegnanti non di ruolo, che per insufficienza di cattedre non conseguono la nomina ai sensi dell'articolo 13, possono chiedere la nomina in cattedre di ruolo inferiore a quella per cui hanno conseguito l'inclusione interna o l'idoneita', purche' gli insegnamenti cui si riferisce il titolo posseduto comprendano o coincidano con quelli che costituiscono la cattedra di ruolo inferiore.
 
-##### Art. 16
+### Art. 16
 
 Gli insegnanti in possesso dei requisiti di cui all'articolo 11 sono collocati in due graduatorie, compilate per ciascun ruolo, nell'ordine risultante dal punteggio del titolo in base al quale viene chiesta l'assunzione in ruolo: al punteggio, ridotto in centesimi, si aggiungono tanti punti quanti sono gli anni di servizio prestati nella scuola in cattedra, corrispondente. Il servizio prestato in diverso posto d'insegnamento e' valutato per meta'; in caso di parita' di punteggio la precedenza e' determinata dall'eta'.
 
@@ -292,7 +284,7 @@ AGGIORNAMENTO (9)
 
 La L. 2 aprile 1968, n. 468 ha disposto (con l'art. 6, comma 4) che "Le riserve di posti previste dagli articoli 16, 18, 21 e 22 della legge 28 luglio 1961, n. 831 e successive modificazioni, ivi comprese quelle fissate per le materie la cui corrispondenza e' stata disposta dal decreto del Presidente della Repubblica 30 settembre 1965, n. 1193, a favore degli insegnanti inclusi nelle graduatorie compilate in base alla suddetta legge 28 luglio 1961, n. 831, sono elevate al 50 per cento delle cattedre che si renderanno disponibili all'inizio di ogni anno scolastico a partire dal 1967-68".
 
-##### Art. 17
+### Art. 17
 
 Ai fini dell'assunzione nei ruoli della scuola media e della scuola secondaria di avviamento professionale degli insegnanti in possesso dei requisiti prescritti dall'articolo 12 sono compilate, per ciascuno di tali ruoli, quattro graduatorie, da utilizzarsi in ordine successivo, nei limiti delle cattedre disponibili.
 
@@ -302,7 +294,7 @@ Nella quarta graduatoria sono inclusi gli insegnanti in possesso dei titoli indi
 
 Per la collocazione in tale graduatoria si ha riguardo, in ordine decrescente, al numero delle materie comprese nelle cattedre cui si riferisce il titolo posseduto, che coincidono con quelle che costituiscono la cattedra da conferire; a parita' di materie coincidenti, gli idonei e gli altri aspiranti sono graduati in base al punteggio da essi rispettivamente conseguito.
 
-##### Art. 18
+### Art. 18
 
 Gli insegnanti in possesso dei requisiti di cui al precedente articolo 13 sono collocati in due graduatorie compilate per ciascun tipo di cattedra. Di tali graduatorie la prima comprende gli insegnanti inclusi in terza e la seconda gli insegnanti idonei.
 
@@ -328,7 +320,7 @@ AGGIORNAMENTO (9)
 
 La L. 2 aprile 1968, n. 468 ha disposto (con l'art. 6, comma 4) che "Le riserve di posti previste dagli articoli 16, 18, 21 e 22 della legge 28 luglio 1961, n. 831 e successive modificazioni, ivi comprese quelle fissate per le materie la cui corrispondenza e' stata disposta dal decreto del Presidente della Repubblica 30 settembre 1965, n. 1193, a favore degli insegnanti inclusi nelle graduatorie compilate in base alla suddetta legge 28 luglio 1961, n. 831, sono elevate al 50 per cento delle cattedre che si renderanno disponibili all'inizio di ogni anno scolastico a partire dal 1967-68".
 
-##### Art. 19
+### Art. 19
 
 Il Ministro per la pubblica istruzione determina con propri decreti, previa detrazione delle cattedre messe al concorso entro il 31 dicembre 1960, il numero delle cattedre da conferire ai sensi dei precedenti articoli e stabilisce i modi e i termini di presentazione delle domande e dei documenti attestanti il possesso dei prescritti requisiti. ((3))
 
@@ -340,7 +332,7 @@ AGGIORNAMENTO (3)
 
 La L. 21 febbraio 1963, n. 357 ha disposto (con l'art. 1) che "Le assunzioni nei ruoli degli insegnanti degli istituti e scuole di istruzione secondaria e artistica, disposte nei limiti delle cattedre e dei posti determinati ai sensi del primo comma dell'articolo 19 e del settimo comma dell'articolo 22 della legge 28 luglio 1961, numero 831, hanno effetto giuridico dal 1 ottobre 1962".
 
-##### Art. 20
+### Art. 20
 
 Gli insegnanti non di ruolo, dichiarati stabili ai sensi della legge 3 agosto 1957, n. 744, e successive modificazioni, in base a titolo di abilitazione valido per gli insegnamenti di stenografia, dattilografia, calligrafia, canto corale, economia domestica, disegno, disegni tecnico, materie tecniche industriali ed agrarie nelle scuole di avviamento, nonche' gli insegnanti tecnicopratici in servizio in posti per i quali non esiste la relativa classe di concorso a posti di ruolo ordinario, sono collocati, a domanda, nei ruoli speciali transitori esistenti per detti insegnamenti nelle scuole secondarie di avviamento professionale e nelle scuole medie.
 
@@ -348,7 +340,7 @@ I posti di ruolo speciale transitorio da istituirsi per gli insegnamenti e nelle
 
 Al personale iscritto nei ruoli speciali transitori, secondo quanto previsto dai commi precedenti, si applicano le norme oggi in vigore per gli insegnanti inquadrati nei ruoli speciali transitori.
 
-##### Art. 21
+### Art. 21
 
 Le cattedre degli istituti di istruzione secondaria determinate ai sensi dell'articolo 19 e non assegnate ai sensi dei precedenti articoli sono conferite, mediante concorsi per titoli ed esame, ai quali sono ammessi gli insegnanti non di ruolo che abbiano conseguito la stabilita' nell'incarico e siano in possesso dell'abilitazione, all'insegnamento delle discipline costituenti la cattedra cui si riferisce il concorso.
 
@@ -378,7 +370,7 @@ AGGIORNAMENTO (9)
 
 La L. 2 aprile 1968, n. 468 ha disposto (con l'art. 6, comma 4) che "Le riserve di posti previste dagli articoli 16, 18, 21 e 22 della legge 28 luglio 1961, n. 831 e successive modificazioni, ivi comprese quelle fissate per le materie la cui corrispondenza e' stata disposta dal decreto del Presidente della Repubblica 30 settembre 1965, n. 1193, a favore degli insegnanti inclusi nelle graduatorie compilate in base alla suddetta legge 28 luglio 1961, n. 831, sono elevate al 50 per cento delle cattedre che si renderanno disponibili all'inizio di ogni anno scolastico a partire dal 1967-68".
 
-##### Art. 22
+### Art. 22
 
 Gli insegnanti tecnico-pratici non di ruolo, in servizio nell'anno scolastico 1959-60 o 1960-61 negli istituti e scuole statali di istruzione tecnica e di avviamento professionale, che siano in possesso di idoneita' a posti di assistente, capo officina, maestro di laboratorio, istruttore pratico o insegnante tecnico pratico, conseguita in concorsi per esami ovvero che abbiano riportato nei medesimi concorsi almeno sessanta centesimi con non meno di sei decimi in ciascuna prova, e in nessuno degli anni scolastici suddetti abbiano riportato qualifica inferiore a "valente" possono, a domanda e in relazione ai posti disponibili, ottenere l'assunzione nel ruolo degli insegnanti tecnico-pratici corrispondente alla idoneita' posseduta.
 
@@ -416,7 +408,7 @@ AGGIORNAMENTO (9)
 
 La L. 2 aprile 1968, n. 468 ha disposto (con l'art. 6, comma 4) che "Le riserve di posti previste dagli articoli 16, 18, 21 e 22 della legge 28 luglio 1961, n. 831 e successive modificazioni, ivi comprese quelle fissate per le materie la cui corrispondenza e' stata disposta dal decreto del Presidente della Repubblica 30 settembre 1965, n. 1193, a favore degli insegnanti inclusi nelle graduatorie compilate in base alla suddetta legge 28 luglio 1961, n. 831, sono elevate al 50 per cento delle cattedre che si renderanno disponibili all'inizio di ogni anno scolastico a partire dal 1967-68".
 
-##### Art. 23
+### Art. 23
 
 Entro tre mesi dall'inizio di ogni anno scolastico, a partire dall'anno 1962-63, il Ministro per la pubblica istituzione, di concerto con quello per il tesoro, istituisce con decreto negli istituti e scuole d'istruzione secondaria tutte le cattedre per le quali si siano verificate le condizioni previste dalle norme in vigore.
 
@@ -426,7 +418,7 @@ La ripartizione, tra i singoli istituiti e scuole, delle cattedre di cui al prim
 
 Le cattedre anzidette, nonche' quelle resisi comunque disponibili entro il 31 dicembre di ogni anno, sono messe a concorso per non meno di quattro quinti entro il termine massimo del 30 giugno dell'anno successivo.
 
-##### Art. 24
+### Art. 24
 
 All'onere derivante dall'applicazione della presente legge nell'esercizio 1961-62 si provvede, quanto a lire 10 miliardi, con corrispondente riduzione del fondo dello stato di previsione della spesa del Ministero del tesoro per l'esercizio medesimo destinato a sopperire agli oneri derivanti da provvedimenti legislativi in corso e, per la differenza, col gettito derivante dall'applicazione delle norme concernenti il trattamento tributario degli Istituti di credito a medio e lungo termine, le modificazioni alle tasse fisse minime di registro e ipotecarie, l'adeguamento dell'imposta fissa di bollo per alcune voci della tariffa, allegato A, annessa al decreto del Presidente della Repubblica 25 giugno 1953, n. 492, la imposizione di un interesse suppletivo di mora sulle merci immesse in consumo in temporanea importazione, nonche' modifiche in materia di imposta generale sulla entrata.
 

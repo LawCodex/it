@@ -108,15 +108,11 @@ Comunita' Europea
 
 2\. Ai sensi dell'articolo 1 del decreto legislativo 26 novembre 1992 n. 470 e' riconosciuto il diritto di soggiorno nel territorio della Repubblica agli studenti cittadini di uno Stato membro della Comunita' europea, iscritti ad un istituto per conseguirvi, a titolo principale, una formazione professionale.
 
-## TITOLO I - ORGANI COLLEGIALI DELLA SCUOLA E ASSEMBLEE DEGLI STUDENTI E
+### TITOLO I - ORGANI COLLEGIALI DELLA SCUOLA E ASSEMBLEE DEGLI STUDENTI E DEI GENITORI
 
-### DEI - GENITORI
+#### Capo I - ORGANI COLLEGIALI A LIVELLO DI CIRCOLO E DI ISTITUTO E ASSEMBLEE DEGLI STUDENTI E DEI GENITORI
 
-#### Capo I - ORGANI COLLEGIALI A LIVELLO DI CIRCOLO E DI
-
-##### ISTITUTO - E ASSEMBLEE DEGLI STUDENTI E DEI GENITORI
-
-###### Sezione I: Organi - collegiali a livello di circolo e di istituto
+##### Sezione I: Organi - collegiali a livello di circolo e di istituto
 
 ###### Art. 5
 
@@ -334,7 +330,7 @@ AGGIORNAMENTO (67)
 
 La L. 13 luglio 2015, n. 107 ha disposto (con l'art. 1, comma 129) che la presente modifica ha effetto dall'inizio dell'anno scolastico successivo a quello in corso alla data di entrata in vigore della legge 107/2015.
 
-## Sezione II: - Assemblee degli studenti e dei genitori
+##### Sezione II: - Assemblee degli studenti e dei genitori
 
 ###### Art. 12
 
@@ -396,7 +392,9 @@ Assemblee dei genitori
 
 8\. All'assemblea di sezione, di classe o di istituto possono partecipare con diritto di parola il direttore didattico o il preside e i docenti rispettivamente della sezione, della classe o dell'istituto.
 
-## Capo II - ((CAPO ABROGATO DALLA L. 2 DICEMBRE 2025, N. 182))
+#### Capo II
+
+#### ((CAPO ABROGATO DALLA L. 2 DICEMBRE 2025, N. 182))
 
 ###### Art. 16
 
@@ -414,7 +412,7 @@ Assemblee dei genitori
 
 ((ARTICOLO ABROGATO DALLA L. 2 DICEMBRE 2025, N. 182))
 
-## Capo III - ORGANI COLLEGIALI A LIVELLO PROVINCIALE
+#### Capo III - ORGANI COLLEGIALI A LIVELLO PROVINCIALE
 
 ###### Art. 20
 
@@ -584,7 +582,7 @@ AGGIORNAMENTO (26a)
 
 Il D.Lgs 30 giugno 1999, n. 233 come modificato dal D.L 23 novembre 2001, n. 411,convertito con modificazioni dalla L. 31 dicembre 2001, n. 463 ha disposto (con l'art. 8,comma 2)che "Con effetto dalla costituzione dei nuovi organi collegiali locali e regionali e del Consiglio superiore della pubblica istruzione gli articoli contenuti nei capi II, III e IV, titolo I della parte I del testo unico approvato con decreto legislativo 16 aprile 1994, n. 297, concernenti i consigli scolastici distrettuali e provinciali e il Consiglio nazionale della pubblica istruzione sono sostituiti dalle disposizioni di cui agli articoli da 1 a 7 del presente decreto legislativo; sono abrogate tutte le ulteriori disposizioni contenute nel decreto legislativo 16 aprile 1994, n. 297, nelle quali si faccia riferimento a modalita' di elezione e di funzionamento e a competenze del Consiglio nazionale della pubblica istruzione, dei consigli scolastici provinciali e distrettuali incompatibili col presente decreto legislativo".
 
-## Capo IV - ORGANI COLLEGIALI A LIVELLO NAZIONALE
+#### Capo IV - ORGANI COLLEGIALI A LIVELLO NAZIONALE
 
 ###### Art. 23
 
@@ -756,7 +754,7 @@ AGGIORNAMENTO (26a)
 
 Il D.Lgs 30 giugno 1999, n. 233 come modificato dal D.L 23 novembre 2001, n. 411,convertito con modificazioni dalla L. 31 dicembre 2001, n. 463 ha disposto (con l'art. 8,comma 2)che "Con effetto dalla costituzione dei nuovi organi collegiali locali e regionali e del Consiglio superiore della pubblica istruzione gli articoli contenuti nei capi II, III e IV, titolo I della parte I del testo unico approvato con decreto legislativo 16 aprile 1994, n. 297, concernenti i consigli scolastici distrettuali e provinciali e il Consiglio nazionale della pubblica istruzione sono sostituiti dalle disposizioni di cui agli articoli da 1 a 7 del presente decreto legislativo; sono abrogate tutte le ulteriori disposizioni contenute nel decreto legislativo 16 aprile 1994, n. 297, nelle quali si faccia riferimento a modalita' di elezione e di funzionamento e a competenze del Consiglio nazionale della pubblica istruzione, dei consigli scolastici provinciali e distrettuali incompatibili col presente decreto legislativo".
 
-## Capo V - AUTONOMIA AMMINISTRATIVA E VIGILANZA
+#### Capo V - AUTONOMIA AMMINISTRATIVA E VIGILANZA
 
 ###### Art. 26
 
@@ -844,7 +842,7 @@ Istituzioni con personalita' giuridica
 
 6\. Gli enti, le istituzioni ed i privati che erogano contributi a favore delle istituzioni di cui al comma 1 possono ottenere copia del bilancio preventivo e del conto consuntivo.
 
-## Capo VI - NORME COMUNI
+#### Capo VI - NORME COMUNI
 
 ###### Art. 30
 
@@ -1028,7 +1026,7 @@ Pubblicita' degli atti
 
 > \- La legge n. 241/1990 reca: Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi.
 
-## Capo VII - ORGANI COLLEGIALI DELLA SCUOLA MATERNA
+#### Capo VII - ORGANI COLLEGIALI DELLA SCUOLA MATERNA
 
 ###### Art. 44
 
@@ -1088,7 +1086,7 @@ b) il collegio dei docenti di scuola materna e il comitato per la valutazione de
 
 c) i docenti della scuola materna partecipano alle elezioni del consiglio di circolo della scuola elementare in cui prestano servizio. Ai rappresentanti del predetto personale sono riservati uno o due dei seggi da attribuire al personale docente a seconda che i componenti del consiglio di circolo siano rispettivamente 14 o 19.
 
-## Capo VIII - NORME PARTICOLARI
+#### Capo VIII - NORME PARTICOLARI
 
 ###### Art. 48
 
@@ -1118,9 +1116,7 @@ Conservatori di musica. Accademie di belle arti. Accademie nazionali di danza e 
 
 2\. Alle istituzioni di cui al comma 1 si applicano le norme della parte II, titolo VI.
 
-## TITOLO II - RAZIONALIZZAZIONE DELLA RETE SCOLASTICA, ISTITUZIONE DELLE SCUOLE E
-
-### ISTITUTI DI OGNI ORDINE E GRADO, FORMAZIONE DELLE SEZIONI E DELLE - CLASSI E CALENDARIO SCOLASTICO.
+### TITOLO II - RAZIONALIZZAZIONE DELLA RETE SCOLASTICA, ISTITUZIONE DELLE SCUOLE E ISTITUTI DI OGNI ORDINE E GRADO, FORMAZIONE DELLE SEZIONI E DELLE CLASSI E CALENDARIO SCOLASTICO.
 
 #### Capo I - RAZIONALIZZAZIONE DELLA RETE SCOLASTICA
 
@@ -1154,9 +1150,7 @@ Razionalizzazione della distribuzione territoriale delle istituzioni educative
 
 2\. Per i criteri e le modalita' si applicano le disposizioni di cui all'articolo 51.
 
-## Capo II - ISTITUZIONE DELLE SCUOLE STATALI MATERNE, ELEMENTARI
-
-### E DEGLI ISTITUTI DI ISTRUZIONE SECONDARIA E ARTISTICA
+#### Capo II - ISTITUZIONE DELLE SCUOLE STATALI MATERNE, ELEMENTARI E DEGLI ISTITUTI DI ISTRUZIONE SECONDARIA E ARTISTICA
 
 ###### Art. 53
 
@@ -1262,9 +1256,7 @@ Istituzione dei conservatori di musica, delle accademie di belle arti; dell'acca
 
 3\. Con decreto del Ministro della pubblica istruzione di concerto con il Ministro del tesoro le scuole di musica esistenti presso gli Istituti per ciechi "I. Cavazza" di Bologna, "D. Martuscelli" di Napoli, "S. Alessio" di Roma, "Istituto per ciechi" di Milano, "Configliachi" di Padova possono essere trasformate in sezioni di conservatori, anche se abbiano sede nello stesso Comune. Il decreto istitutivo fissa le modalita' di funzionamento di tali sezioni speciali, nonche' le norme concernenti il numero dei corsi e l'inquadramento in ruolo del personale docente e amministrativo, tecnico e ausiliario. La ripartizione fra i singoli Istituti dei posti e degli insegnamenti relativi alle predette sezioni e' disposta con decreto del Ministro della pubblica istruzione.
 
-## Capo III - ISTITUZIONE DELLE SCUOLE E ISTITUTI A CARATTERE ATIPICO
-
-### Sezione I: Istituto statale Augusto Romagnoli di specializzazione per - gli educatori dei minorati della vista.
+#### Capo III - ISTITUZIONE DELLE SCUOLE E ISTITUTI A CARATTERE ATIPICO Sezione I: Istituto statale Augusto Romagnoli di specializzazione per gli educatori dei minorati della vista.
 
 ###### Art. 64
 
@@ -1458,7 +1450,7 @@ Rinvio
 
 > \- Il R.D. n. 1449/1941 reca: Riordinamento dell'istruzione professionale per ciechi.
 
-## Capo IV - FORMAZIONE DELLE CLASSI E DELLE SEZIONI
+#### Capo IV - FORMAZIONE DELLE CLASSI E DELLE SEZIONI
 
 ###### Art. 72
 
@@ -1478,7 +1470,7 @@ Piano concernente il rapporto allievi-classi
 
 > \- Per l'art. 4 della legge n. 537/1993 si veda nota all'art. 3.
 
-## Capo V - CALENDARIO SCOLASTICO
+#### Capo V - CALENDARIO SCOLASTICO
 
 ###### Art. 74
 
@@ -1536,11 +1528,9 @@ AGGIORNAMENTO (96)
 
 Il D.P.R. 8 luglio 2005, n. 212, come modificato dal D.P.R. 24 aprile 2024, n. 82, ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del decreto legislativo 16 aprile 1994, n. 297".
 
-## TITOLO III - REGIONI
+### TITOLO III - REGIONI
 
-### Capo I - TRASFERIMENTO DELLE FUNZIONI AMMINISTRATIVE
-
-#### IN MATERIA DI ISTRUZIONE: INDICAZIONI NORMATIVE
+#### Capo I - TRASFERIMENTO DELLE FUNZIONI AMMINISTRATIVE IN MATERIA DI ISTRUZIONE: INDICAZIONI NORMATIVE
 
 ###### Art. 76
 
@@ -1636,7 +1626,7 @@ Norme di attuazione dello statuto speciale della regione Trentino-Alto Adige in 
 
 > \- Il D.Lgs. n. 592/1993 reca: Norme di attuazione dello statuto speciale della regione Trentino-Alto Adige concernenti disposizioni di tutela delle popolazioni di lingua ladina della provincia di Trento.
 
-## Capo II - FORMAZIONE PROFESSIONALE E SISTEMA SCOLASTICO
+#### Capo II - FORMAZIONE PROFESSIONALE E SISTEMA SCOLASTICO
 
 ###### Art. 82
 
@@ -1666,7 +1656,7 @@ AGGIORNAMENTO (42a)
 
 Il D.L. 31 gennaio 2007, n. 7, convertito, con modificazioni dalla L. 2 aprile 2007, n. 40 nel modificare l'art. 31, comma 2 del D.Lgs 17 ottobre 2005, n. 226 ha disposto (con l'art. 2, comma 8-ter) che "Dalle abrogazioni previste dall'articolo 31, comma 2, del decreto legislativo 17 ottobre 2005, n. 226, sono escluse le disposizioni del testo unico di cui al decreto legislativo 16 aprile 1994, n. 297, che fanno riferimento agli istituti tecnici e professionali."
 
-## TITOLO IV - EDILIZIA E ATTREZZATURE SCOLASTICHE
+### TITOLO IV - EDILIZIA E ATTREZZATURE SCOLASTICHE
 
 ###### Art. 83
 
@@ -1970,11 +1960,9 @@ Assistenza scolastica
 
 1\. L'assistenza, compresa quella sanitaria e assicurativa, agli alunni della scuola materna statale e' regolata secondo le norme in vigore per gli alunni della scuola elementare.
 
-## TITOLO II - L'ISTRUZIONE OBBLIGATORIA: DISPOSIZIONI
+### TITOLO II - L'ISTRUZIONE OBBLIGATORIA: DISPOSIZIONI COMUNI ALLA SCUOLA ELEMENTARE E MEDIA
 
-### COMUNI ALLA SCUOLA ELEMENTARE E MEDIA - Capo I
-
-#### OBBLIGO SCOLASTICO
+#### Capo I - OBBLIGO SCOLASTICO
 
 ###### Art. 109
 
@@ -2038,7 +2026,7 @@ Responsabili dell'adempimento dell'obbligo scolastico
 
 8\. All'attuazione del presente articolo si provvede con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
-## Capo II - DISPOSIZIONI SULLA SCOLARITA' DEI CITTADINI STRANIERI
+#### Capo II - DISPOSIZIONI SULLA SCOLARITA' DEI CITTADINI STRANIERI
 
 ###### Art. 115
 
@@ -2070,7 +2058,7 @@ b) promuovere l'insegnamento della lingua e della cultura del Paese d'origine co
 
 (( IL D.LGS. 25 LUGLIO 1998, N. 286 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO ))
 
-## Capo III - CERTIFICAZIONI SANITARIE PER L'AMMISSIONE ALLA SCUOLA DELL'OBBLIGO
+#### Capo III - CERTIFICAZIONI SANITARIE PER L'AMMISSIONE ALLA SCUOLA DELL'OBBLIGO
 
 ###### Art. 117
 
@@ -2304,9 +2292,7 @@ Relazione sull'attuazione del nuovo ordinamento
 
 2\. Entro quattro anni a partire dall'inizio dell'anno scolastico 1990-91, il Ministro della pubblica istruzione riferisce al Parlamento sui risultati conseguiti nell'attuazione del nuovo ordinamento della scuola elementare, anche al fine di apportare eventuali modifiche.
 
-## Capo II - CORSI DI ISTRUZIONE PER SOGGETTI ANALFABETI,SCARSAMENTE
-
-### ALFABETIZZATI E ANALFABETI DI RITORNO
+#### Capo II - CORSI DI ISTRUZIONE PER SOGGETTI ANALFABETI,SCARSAMENTE ALFABETIZZATI E ANALFABETI DI RITORNO
 
 ###### Art. 135
 
@@ -2358,7 +2344,7 @@ Riconoscimento del grado di cultura
 
 1\. Coloro che abbiano superato i 14 anni possono chiedere il riconoscimento del loro grado di cultura nelle forme e alle condizioni prescritte con regolamento.
 
-## Capo III - SCUOLE ELEMENTARI ANNESSE A PARTICOLARI ISTITUZIONI; SCUOLE SPECIALI; CLASSI AD INDIRIZZO DIDATTICO DIFFERENZIATO.
+#### Capo III - SCUOLE ELEMENTARI ANNESSE A PARTICOLARI ISTITUZIONI; SCUOLE SPECIALI; CLASSI AD INDIRIZZO DIDATTICO DIFFERENZIATO.
 
 ###### Art. 139
 
@@ -2404,7 +2390,7 @@ Sezioni e classi ad indirizzo didattico differenziato
 
 ((4-bis. L'istituzione e il funzionamento delle sezioni a metodo Montessori nelle istituzioni scolastiche del primo ciclo di istruzione del sistema nazionale d'istruzione nonche' l'ordinamento dei corsi di differenziazione didattica finalizzati alla specializzazione di cui al comma 4 e i relativi requisiti di accesso sono disciplinati con decreto del Ministro dell'istruzione e del merito, sentita l'Opera nazionale Montessori)).
 
-## Capo IV - ITINERARIO SCOLASTICO
+#### Capo IV - ITINERARIO SCOLASTICO
 
 ###### Art. 143
 
@@ -2482,7 +2468,7 @@ AGGIORNAMENTO (39)
 
 Il D.Lgs. 19 febbraio 2004, n. 59 ha disposto (con l'art. 19,comma 3)che le disposizioni del presente articolo continuano ad applicarsi limitatamente alle sezioni di scuola materna e alle classi di scuola elementare e di scuola media ancora funzionanti secondo il precedente ordinamento ed agli alunni ad essi iscritti, e sono abrogate, a decorrere dall'anno scolastico successivo al completo esaurimento delle predette sezioni e classi.
 
-## Capo V - LIBRI DI TESTO E BIBLIOTECHE SCOLASTICHE
+#### Capo V - LIBRI DI TESTO E BIBLIOTECHE SCOLASTICHE
 
 ###### Art. 151
 
@@ -2622,7 +2608,7 @@ a) sussidi delle provincie, dei comuni e di altri enti locali;
 
 b) con eventuali donazioni e lasciti privati.
 
-## Capo VI - MANUTENZIONE E GESTIONE DEGLI EDIFICI SCOLASTICI
+#### Capo VI - MANUTENZIONE E GESTIONE DEGLI EDIFICI SCOLASTICI
 
 ###### Art. 159
 
@@ -2638,9 +2624,9 @@ Contributi dello Stato
 
 1\. Lo Stato contribuisce, ai sensi e con i criteri di cui agli articoli 7 e 8 della legge 16 settembre 1960 n. 1014 e successive modificazioni, alle spese per l'istruzione statale di pertinenza dei comuni e delle province.
 
-## TITOLO IV - LA SCUOLA MEDIA
+### TITOLO IV - LA SCUOLA MEDIA
 
-### Capo I - FINALITA' E ORDINAMENTO DELLA SCUOLA MEDIA
+#### Capo I - FINALITA' E ORDINAMENTO DELLA SCUOLA MEDIA
 
 ###### Art. 161
 
@@ -2706,9 +2692,7 @@ Formazione delle classi
 
 (( ARTICOLO ABROGATO DAL D.P.R. 8 MARZO 1999, N. 275 ))
 
-## Capo II - CORSI D'ISTRUZIONE PER SOGGETTI ANALFABETI, PRIVI DI TITOLO
-
-### DI STUDIO, ANALFABETI DI RITORNO
+#### Capo II - CORSI D'ISTRUZIONE PER SOGGETTI ANALFABETI, PRIVI DI TITOLO DI STUDIO, ANALFABETI DI RITORNO
 
 ###### Art. 169
 
@@ -2736,7 +2720,7 @@ Recupero scolastico di tossicodipendenti
 
 > \- Per l'art. 116 del testo unico approvato con D.P.R. n. 309/1990 si veda la nota all'art. 326.
 
-## Capo III - SCUOLE MEDIE ANNESSE A PARTICOLARI ISTITUTI E SCUOLE SPECIALI
+#### Capo III - SCUOLE MEDIE ANNESSE A PARTICOLARI ISTITUTI E SCUOLE SPECIALI
 
 ###### Art. 173
 
@@ -2766,7 +2750,7 @@ Scuole medie per non vedenti o sordomuti
 
 1\. Per gli alunni non vedenti o sordomuti l'istruzione media e' impartita nelle classi comuni delle scuole medie o nelle scuole di cui agli articoli 322 e 323.
 
-## Capo IV - ITINERARIO SCOLASTICO
+#### Capo IV - ITINERARIO SCOLASTICO
 
 ###### Art. 176
 
@@ -2914,7 +2898,7 @@ Rilascio diplomi e attestati
 
 10\. I diplomi e gli attestati, di cui sopra, sono esenti da qualsiasi imposta, tassa o contributo.
 
-## Capo V - LIBRI DI TESTO
+#### Capo V - LIBRI DI TESTO
 
 ###### Art. 188
 
@@ -2928,7 +2912,7 @@ Libri di testo per l'insegnamento della religione cattolica
 
 1\. I criteri per la scelta dei libri di testo per l'insegnamento della religione cattolica sono determinati secondo quanto previsto dall'articolo 152.
 
-## Capo VI - GESTIONE E MANUTENZIONE DEGLI EDIFICI SCOLASTICI
+#### Capo VI - GESTIONE E MANUTENZIONE DEGLI EDIFICI SCOLASTICI
 
 ###### Art. 190
 
@@ -2940,9 +2924,9 @@ Oneri a carico dei comuni e contributi dello Stato
 
 3\. Lo Stato contribuisce ai sensi e con i criteri di cui agli articoli 7 e 8 della legge 16 settembre 1960 n. 1014 e successive modificazioni, alle spese per l'istruzione statale di pertinenza dei comuni e delle province.
 
-## TITOLO V - ISTITUTI E SCUOLE DI ISTRUZIONE SECONDARIA SUPERIORE
+### TITOLO V - ISTITUTI E SCUOLE DI ISTRUZIONE SECONDARIA SUPERIORE
 
-### Capo I - FINALITA' ED ORDINAMENTO
+#### Capo I - FINALITA' ED ORDINAMENTO
 
 ###### Art. 191
 
@@ -3008,7 +2992,7 @@ a) al primo periodo, le parole: "gli istituti professionali hanno per fine preci
 
 b) l'ultimo periodo."
 
-## Capo II - CARRIERA SCOLASTICA DEGLI ALUNNI
+#### Capo II - CARRIERA SCOLASTICA DEGLI ALUNNI
 
 ###### Art. 192
 
@@ -3088,7 +3072,7 @@ Il D.L. 31 gennaio 2007, n. 7, convertito, con modificazioni dalla L. 2 aprile 2
 
 (( ARTICOLO ABROGATO DAL D.P.R. 8 MARZO 1999, N. 275 ))
 
-## Capo III - ESAMI FINALI
+#### Capo III - ESAMI FINALI
 
 ###### Art. 194
 
@@ -3188,7 +3172,7 @@ Dalla medesima data, nell'articolo 199 del predetto testo unico, si intendono es
 
 \- Il regolamento di cui all'art. 8, comma 2 della L. 10 dicembre 1997, n. 425 e' stato emanato con D.P.R. 23 luglio 1998, n. 323, pubblicato in G.U. 09/09/1998, n. 210.
 
-## Capo IV - NORME COMUNI A VARI TIPI DI ESAME
+#### Capo IV - NORME COMUNI A VARI TIPI DI ESAME
 
 ###### Art. 198
 
@@ -3282,7 +3266,7 @@ AGGIORNAMENTO (42a)
 
 Il D.L. 31 gennaio 2007, n. 7, convertito, con modificazioni dalla L. 2 aprile 2007, n. 40 nel modificare l'art. 31, comma 2 del D.Lgs 17 ottobre 2005, n. 226 ha disposto (con l'art. 2, comma 8-ter) che "Dalle abrogazioni previste dall'articolo 31, comma 2, del decreto legislativo 17 ottobre 2005, n. 226, sono escluse le disposizioni del testo unico di cui al decreto legislativo 16 aprile 1994, n. 297, che fanno riferimento agli istituti tecnici e professionali."
 
-## Capo V - NORME FINALI SUGLI ISTITUTI E SCUOLE DI ISTRUZIONE SECONDARIA SUPERIORE
+#### Capo V - NORME FINALI SUGLI ISTITUTI E SCUOLE DI ISTRUZIONE SECONDARIA SUPERIORE
 
 ###### Art. 200
 
@@ -3414,7 +3398,7 @@ Modelli viventi nei licei artistici
 
 1\. Per l'assunzione dei modelli viventi nei licei artistici si applicano le disposizioni di cui all'articolo 275.
 
-## Capo VI - ISTITUZIONI EDUCATIVE
+#### Capo VI - ISTITUZIONI EDUCATIVE
 
 ###### Art. 203
 
@@ -3492,7 +3476,7 @@ Educandati femminili dello Stato ed istituti pubblici di educazione femminile
 
 > \- Il R.D. n. 1312/1931 reca: Approvazione delle norme modificative integrative ed interpretative del regio decreto 23 dicembre 1929, n. 2392, concernente il riordinamento degli istituti pubblici di educazione femminile.
 
-## Capo VII - MATERIE DEMANDATE ALLA DISCIPLINA REGOLAMENTARE
+#### Capo VII - MATERIE DEMANDATE ALLA DISCIPLINA REGOLAMENTARE
 
 ###### Art. 205
 
@@ -3514,7 +3498,7 @@ Il Ministro della pubblica istruzione determina annualmente, con propria ordinan
 
 6\. Fino all'emanazione delle norme di cui al presente articolo restano ferme le disposizioni vigenti.
 
-## TITOLO VI - ISTRUZIONE ARTISTICA
+### TITOLO VI - ISTRUZIONE ARTISTICA
 
 ###### Art. 206
 
@@ -3560,9 +3544,9 @@ AGGIORNAMENTO (96)
 
 Il D.P.R. 8 luglio 2005, n. 212, come modificato dal D.P.R. 24 aprile 2024, n. 82, ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del decreto legislativo 16 aprile 1994, n. 297".
 
-## TITOLO VI - ISTRUZIONE ARTISTICA
+### TITOLO VI - ISTRUZIONE ARTISTICA
 
-### Capo I - ACCADEMIE DI BELLE ARTI
+#### Capo I - ACCADEMIE DI BELLE ARTI
 
 ###### Art. 207
 
@@ -3730,7 +3714,7 @@ Il D.P.R. 24 aprile 2024, n. 83, ha disposto (con l'art. 18, comma 1, alinea) ch
 
 (( ARTICOLO ABROGATO DAL D.P.R. 28 FEBBRAIO 2003, N. 132 ))
 
-## Capo II - ISTITUTI SUPERIORI PER LE INDUSTRIE ARTISTICHE
+#### Capo II - ISTITUTI SUPERIORI PER LE INDUSTRIE ARTISTICHE
 
 ###### Art. 217
 
@@ -3758,9 +3742,9 @@ AGGIORNAMENTO (96)
 
 Il D.P.R. 8 luglio 2005, n. 212, come modificato dal D.P.R. 24 aprile 2024, n. 82, ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del decreto legislativo 16 aprile 1994, n. 297".
 
-## Capo III - ACCADEMIE NAZIONALI DI ARTE DRAMMATICA E DI DANZA
+#### Capo III - ACCADEMIE NAZIONALI DI ARTE DRAMMATICA E DI DANZA
 
-### Sezione I: Accademia nazionale di arte drammatica
+##### Sezione I: Accademia nazionale di arte drammatica
 
 ###### Art. 218
 
@@ -3844,7 +3828,7 @@ Ammissione in teatri e compagnie sovvenzionate dallo Stato
 
 1\. Ogni anno, i tre allievi che conseguano con le migliori classificazioni il diploma di licenza della Accademia d'arte drammatica, hanno diritto di essere ammessi, per un anno, in teatri e in compagnie sovvenzionate dallo Stato.
 
-## Sezione II: Accademia nazionale di danza
+##### Sezione II: Accademia nazionale di danza
 
 ###### Art. 225
 
@@ -4022,7 +4006,7 @@ Obblighi particolari degli enti pubblici e degli enti sovvenzionati dallo Stato
 
 3\. Qualora una scuola per il conseguimento di detto titolo venga istituita presso l'Accademia di danza essa dovra' uniformarsi nell'ordinamento e nei programmi a quelli degli istituti di cui al comma 2.
 
-## Capo IV - CONSERVATORI DI MUSICA
+#### Capo IV - CONSERVATORI DI MUSICA
 
 ###### Art. 239
 
@@ -4176,7 +4160,7 @@ AGGIORNAMENTO (96)
 
 Il D.P.R. 24 aprile 2024, n. 83, ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
 
-## Capo V - ALUNNI, ESAMI E TASSE
+#### Capo V - ALUNNI, ESAMI E TASSE
 
 ###### Art. 249
 
@@ -4304,7 +4288,7 @@ gli studenti appartenenti a nuclei familiari con redditi complessivi non superio
 
 > \- Per l'art. 28, comma 4, della legge n. 41/1986, si veda la nota all'art. 200.
 
-## Capo VI - DISPOSIZIONI COMUNI AI CONSERVATORI DI MUSICA, ALLE ACCADEMIE DI BELLE ARTI E ALLE ACCADEMIE NAZIONALI DI ARTE DRAMMATICA E DI DANZA.
+#### Capo VI - DISPOSIZIONI COMUNI AI CONSERVATORI DI MUSICA, ALLE ACCADEMIE DI BELLE ARTI E ALLE ACCADEMIE NAZIONALI DI ARTE DRAMMATICA E DI DANZA.
 
 ###### Art. 254
 
@@ -4356,7 +4340,7 @@ AGGIORNAMENTO (96)
 
 Il D.P.R. 24 aprile 2024, n. 83, ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
 
-## Capo VII - DISPOSIZIONI COMUNI A TUTTI GLI ISTITUTI DI ISTRUZIONE ARTISTICA
+#### Capo VII - DISPOSIZIONI COMUNI A TUTTI GLI ISTITUTI DI ISTRUZIONE ARTISTICA
 
 ###### Art. 261
 
@@ -4402,9 +4386,9 @@ Uso dei locali e proventi dei lavori eseguiti nelle officine
 
 3\. I lavori eseguiti nelle officine degli istituti d'arte possono essere venduti al pubblico a profitto del bilancio dell'istituto.
 
-## Capo VIII - PERSONALE DELLE ACCADEMIE E DEI CONSERVATORI
+#### Capo VIII - PERSONALE DELLE ACCADEMIE E DEI CONSERVATORI
 
-### Sezione I: Ruoli e organici
+##### Sezione I: Ruoli e organici
 
 ###### Art. 264
 
@@ -4456,7 +4440,7 @@ AGGIORNAMENTO (96)
 
 Il D.P.R. 24 aprile 2024, n. 83, ha disposto (con l'art. 18, comma 1, alinea) che l'abrogazione del presente articolo decorre dall'anno accademico 2025/2026.
 
-## Sezione II: Reclutamento
+##### Sezione II: Reclutamento
 
 ###### Art. 269
 
@@ -4622,11 +4606,11 @@ Contratti di collaborazione per il personale in servizio alla data del 13 luglio
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 1999, N. 124))
 
-## TITOLO VII - NORME COMUNI
+### TITOLO VII - NORME COMUNI
 
-### Capo I - SPERIMENTAZIONE, RICERCA EDUCATIVA,
+#### Capo I - SPERIMENTAZIONE, RICERCA EDUCATIVA, FORMAZIONE E AGGIORNAMENTO
 
-#### FORMAZIONE E AGGIORNAMENTO - Sezione I: Sperimentazione e ricerca educativa
+##### Sezione I: Sperimentazione e ricerca educativa
 
 ###### Art. 276
 
@@ -4652,7 +4636,7 @@ Contratti di collaborazione per il personale in servizio alla data del 13 luglio
 
 (( ARTICOLO ABROGATO DAL D.P.R. 8 MARZO 1999, N. 275 ))
 
-## Sezione II: Aggiornamento culturale del personale ispettivo, - direttivo e docente
+##### Sezione II: Aggiornamento culturale del personale ispettivo, - direttivo e docente
 
 ###### Art. 282
 
@@ -4758,7 +4742,7 @@ Piano straordinario pluriennale di aggiornamento per la scuola elementare
 
 (( ARTICOLO ABROGATO DAL D.P.R. 6 MARZO 2001, N. 190 ))
 
-## Sezione IV: Disposizioni per le regioni a statuto speciale
+##### Sezione IV: Disposizioni per le regioni a statuto speciale
 
 ###### Art. 296
 
@@ -4838,7 +4822,7 @@ Disposizioni speciali per la Sicilia
 
 1\. Nelle materie previste dal presente capo la regione Sicilia svolge le funzioni amministrative contemplate dal decreto del Presidente della Repubblica 14 maggio 1985, n. 246.
 
-## Sezione V : Norme finali
+##### Sezione V : Norme finali
 
 ###### Art. 299
 
@@ -4876,7 +4860,7 @@ Statuti e norme finali
 
 > \- Per l'art. 4 della legge n. 537/1993 si veda la nota all'art. 3.
 
-## Capo II - ORDINAMENTO DELL'INSEGNAMENTO DELL'EDUCAZIONE FISICA
+#### Capo II - ORDINAMENTO DELL'INSEGNAMENTO DELL'EDUCAZIONE FISICA
 
 ###### Art. 302
 
@@ -4942,9 +4926,9 @@ Ruoli organici e cattedre
 
 3\. Per le esercitazioni complementari di avviamento alla pratica sportiva, il docente puo' assumere, in aggiunta all'orario d'obbligo, altre sei ore.
 
-## Capo III - INSEGNAMENTO DELLA RELIGIONE CATTOLICA E DIRITTI
+#### Capo III - INSEGNAMENTO DELLA RELIGIONE CATTOLICA E DIRITTI DELLE ALTRE CONFESSIONI RELIGIOSE
 
-### DELLE ALTRE CONFESSIONI RELIGIOSE - Sezione I: Insegnamento della religione cattolica
+##### Sezione I: Insegnamento della religione cattolica
 
 ###### Art. 309
 
@@ -5046,11 +5030,11 @@ Diritti delle altre confessioni religiose diverse dalla cattolica
 
 > 3\. Alle scuole elementari delle Comunita' resta garantito il trattamento di cui esse attualmente godono ai sensi dell'art. 24 del regio decreto 28 febbraio 1930, n. 289".
 
-## Capo IV - ALUNNI IN PARTICOLARI CONDIZIONI
+#### Capo IV - ALUNNI IN PARTICOLARI CONDIZIONI
 
-### Sezione I: Alunni handicappati - Paragrafo I: Diritto all'educazione, all'istruzione e alla
+##### Sezione I: Alunni handicappati
 
-#### integrazione dell'alunno handicappato
+**Paragrafo I: Diritto all'educazione, all'istruzione e alla - integrazione dell'alunno handicappato**
 
 ###### Art. 312
 
@@ -5314,7 +5298,7 @@ Istituzioni abilitate in via transitoria a rilasciare titoli di specializzazione
 
 > \- IL D.P.R. n. 970/1975 reca: Norme in materia di scuole aventi particolari finalita'.
 
-## Sezione II: Alunni in particolari situazioni di disagio
+##### Sezione II: Alunni in particolari situazioni di disagio
 
 ###### Art. 326
 
@@ -5372,7 +5356,7 @@ d) del coordinamento con le iniziative promosse o attuate da altre amministrazio
 
 22\. Ai fini dell'accesso ai finanziamenti da valere sul fondo nazionale di intervento per la lotta alla droga, istituito presso la Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali, il Ministero della pubblica istruzione propone all'approvazione del Ministro per gli affari sociali progetti mirati alla prevenzione e al recupero dalle tossicodipendenze, previa predisposizione di studi di fattibilita', indicanti i tempi, le modalita' e gli obiettivi che si intendono conseguire.
 
-## Capo V - NORME SUL DIRITTO ALLO STUDIO
+#### Capo V - NORME SUL DIRITTO ALLO STUDIO
 
 ###### Art. 327
 
@@ -5406,7 +5390,7 @@ Le funzioni suddette concernono fra l'altro: gli interventi di assistenza medico
 
 > La regione promuove le opportune forme di collaborazione tra i comuni interessati".
 
-## Capo VI - DISCIPLINA DEGLI ALUNNI
+#### Capo VI - DISCIPLINA DEGLI ALUNNI
 
 ###### Art. 328
 
@@ -5430,7 +5414,7 @@ Sanzioni disciplinari
 
 9\. Le norme disciplinari relative agli alunni dei convitti nazionali e degli educandati femminili dello Stato, concernenti infrazioni da essi compiute in qualita' di convittori o semiconvittori, sono stabilite con regolamento.
 
-## Capo VII - NORME PARTICOLARI IN MATERIA DI PROGRAMMI
+#### Capo VII - NORME PARTICOLARI IN MATERIA DI PROGRAMMI
 
 ###### Art. 329
 
@@ -5440,15 +5424,15 @@ Sanzioni disciplinari
 
 (( ARTICOLO ABROGATO DAL D.P.R. 8 MARZO 1999, N. 275 ))
 
-## ((Capo VIII))
+#### ((Capo VIII))
 
 ###### Art. 330-bis
 
 (( ARTICOLO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-## TITOLO VIII - ISTRUZIONE NON STATALE
+### TITOLO VIII - ISTRUZIONE NON STATALE
 
-### Capo I - SCUOLA MATERNA
+#### Capo I - SCUOLA MATERNA
 
 ###### Art. 331
 
@@ -5548,7 +5532,7 @@ AGGIORNAMENTO (40)
 
 Il D.L. 5 dicembre 2005, n. 250, convertito con modificazioni dalla L. 3 febbraio 2006, n. 27 ha disposto (con l'art. 1-bis,comma 7) che sono fatte salve le disposizioni degli articoli 336, 339, 340, 341, 342, 345, 352, comma 6, degli articoli 353, 358, comma 5, e degli articoli 362 e 363, che si applicano con riferimento alle scuole paritarie, nonche' per le disposizioni dell'articolo 366, riguardanti le scuole e le istituzioni culturali straniere in Italia.
 
-## Capo II - ISTRUZIONE ELEMENTARE
+#### Capo II - ISTRUZIONE ELEMENTARE
 
 ###### Art. 343
 
@@ -5602,7 +5586,7 @@ Il D.L. 5 dicembre 2005, n. 250, convertito con modificazioni dalla L. 3 febbrai
 
 (( ARTICOLO ABROGATO DAL D.L. 5 DICEMBRE 2005, N. 250, CONVERTITO CON MODIFICAZIONI DALLA L. 3 FEBBRAIO 2006, N. 27 ))
 
-## Capo III - ISTRUZIONE SECONDARIA
+#### Capo III - ISTRUZIONE SECONDARIA
 
 ###### Art. 352
 
@@ -5824,7 +5808,7 @@ AGGIORNAMENTO (43)
 
 Il D.L. 5 dicembre 2005, n. 250, convertito con modificazioni dalla L. 3 febbraio 2006, n. 27 ha disposto (con l'art. 1-bis,comma 7) che sono fatte salve le disposizioni degli articoli 336, 339, 340, 341, 342, 345, 352, comma 6, degli articoli 353, 358, comma 5, e degli articoli 362 e 363, che si applicano con riferimento alle scuole paritarie, nonche' per le disposizioni dell'articolo 366, riguardanti le scuole e le istituzioni culturali straniere in Italia.
 
-## Capo IV - ISTITUTI MUSICALI E SCUOLA DI MUSICA
+#### Capo IV - ISTITUTI MUSICALI E SCUOLA DI MUSICA
 
 ###### Art. 367
 
@@ -5846,7 +5830,7 @@ Istituti musicali pareggiati
 
 (( ARTICOLO ABROGATO DAL D.P.R. 28 FEBBRAIO 2003, N. 132 ))
 
-## Capo V - SCUOLE DI DANZA
+#### Capo V - SCUOLE DI DANZA
 
 ###### Art. 370
 
@@ -5908,7 +5892,7 @@ Impiego di personale negli spettacoli di danza
 
 1\. Gli enti pubblici e gli enti sovvenzionati dallo Stato i quali promuovano e organizzino spettacoli di danza o nei quali la danza abbia particolare rilievo, sono tenuti ad impiegare nei corpi di ballo o nei gruppi di danzatrici con preferenza le diplomate dell'Accademia nazionale di danza o di scuole ad essa pareggiate.
 
-## Capo VI - ACCADEMIE DI BELLE ARTI
+#### Capo VI - ACCADEMIE DI BELLE ARTI
 
 ###### Art. 376
 
@@ -5928,11 +5912,9 @@ AGGIORNAMENTO (96)
 
 Il D.P.R. 8 luglio 2005, n. 212, come modificato dal D.P.R. 24 aprile 2024, n. 82, ha disposto (con l'art. 14, comma 1) che "Per ciascuna istituzione, con l'emanazione del relativo regolamento didattico generale di cui all'articolo 10, cessano di avere efficacia le disposizioni legislative e regolamentari incompatibili con il presente regolamento e segnatamente le seguenti norme: articoli 75, 206 comma 1, lettera c), 207, 208, 209 limitatamente alle Accademie, 210, 211, 217, 218, 219, 239, commi 1 e 5, 250, 252, 372, 374, 376 del decreto legislativo 16 aprile 1994, n. 297".
 
-## TITOLO IX - RICONOSCIMENTO DEI TITOLI DI STUDIO
+### TITOLO IX - RICONOSCIMENTO DEI TITOLI DI STUDIO E SCAMBI CULTURALI
 
-### E SCAMBI CULTURALI - Capo I
-
-#### RICONOSCIMENTO DEI TITOLI DI STUDIO
+#### Capo I - RICONOSCIMENTO DEI TITOLI DI STUDIO
 
 ###### Art. 377
 
@@ -6094,7 +6076,7 @@ Riconoscimento dei titoli di studio rilasciati dall'International School of Trie
 
 1\. Sono riconosciuti a tutti gli effetti i titoli di studio rilasciati dall'International School of Trieste. Il riconoscimento dei titoli di studio e' subordinato all'accertamento della conoscenza della lingua italiana da parte dei candidati mediante prove d'esame.
 
-## Capo II - SCAMBI CULTURALI
+#### Capo II - SCAMBI CULTURALI
 
 ###### Art. 394
 
@@ -6106,11 +6088,9 @@ Scambi culturali
 
 ## Parte Terza - PERSONALE
 
-### TITOLO I - PERSONALE DOCENTE, EDUCATIVO,
+### TITOLO I - PERSONALE DOCENTE, EDUCATIVO, DIRETTIVO E ISPETTIVO
 
-#### DIRETTIVO E ISPETTIVO - Capo I
-
-##### FUNZIONE DOCENTE, DIRETTIVA E ISPETTIVA
+#### Capo I - FUNZIONE DOCENTE, DIRETTIVA E ISPETTIVA
 
 ###### Art. 395
 
@@ -6180,9 +6160,9 @@ Funzione ispettiva
 
 5\. Al termine di ogni anno scolastico, il corpo ispettivo redige una relazione sull'andamento generale dell'attivita' scolastica e dei servizi.
 
-## Capo II - RECLUTAMENTO
+#### Capo II - RECLUTAMENTO
 
-### Sezione I: Norme generali
+##### Sezione I: Norme generali
 
 ###### Art. 398
 
@@ -6196,7 +6176,7 @@ grado, ivi compresi i licei artistici e gli istituti d'arte
 
 3\. I ruoli nazionali e provinciali sono rispettivamente amministrati dal Ministero della pubblica istruzione e dagli uffici scolastici provinciali.
 
-## Sezione II: Reclutamento del personale docente ed educativo
+##### Sezione II: Reclutamento del personale docente ed educativo
 
 ###### Art. 399
 
@@ -6412,7 +6392,7 @@ Esclusione
 
 2\. L'esclusione e' disposta dall'organo che cura lo svolgimento del concorso con provvedimento motivato di cui e' data comunicazione all'interessato.
 
-## Sezione III: Reclutamento del personale direttivo
+##### Sezione III: Reclutamento del personale direttivo
 
 ###### Art. 407
 
@@ -6574,7 +6554,7 @@ Esclusioni
 
 1\. Nei limiti del successivo articolo 497, sono esclusi dai concorsi a posti del personale direttivo, con provvedimento motivato del direttore generale o capo del servizio centrale competente, coloro che abbiano riportato, dopo la nomina nei ruoli del personale docente ed educativo, una sanzione disciplinare superiore alla censura, salvo che sia intervenuta la riabilitazione.
 
-## Sezione IV: Reclutamento del personale ispettivo
+##### Sezione IV: Reclutamento del personale ispettivo
 
 ###### Art. 419
 
@@ -6728,9 +6708,7 @@ Graduatorie
 
 ((ARTICOLO ABROGATO DAL D.L. 25 MAGGIO 2021, N. 73, CONVERTITO CON MODIFICAZIONI DALLA L. 23 LUGLIO 2021, N. 106))
 
-## Sezione V: Reclutamento del personale docente, direttivo ed ispettivo - delle scuole con lingua d'insegnamento diversa dall'italiano.
-
-### Paragrafo I: Scuole con lingua d'insegnamento slovena di Trieste e - Gorizia.
+## Sezione V: Reclutamento del personale docente, direttivo ed ispettivo - delle scuole con lingua d'insegnamento diversa dall'italiano. Paragrafo I: Scuole con lingua d'insegnamento slovena di Trieste e Gorizia.
 
 ###### Art. 425
 
@@ -6766,9 +6744,7 @@ Bandi di concorso e commissioni esaminatrici
 
 6\. Per quanto non previsto dal presente articolo si applicano le disposizioni dettate dall'articolo 404 e, in particolare, quella di cui al comma 3.
 
-## Paragrafo II: Scuole con lingua d'insegnamento tedesca, scuole delle - localita' ladine della provincia di Bolzano e scuole delle localita'
-
-### ladine della provincia di Trento.
+## Paragrafo II: Scuole con lingua d'insegnamento tedesca, scuole delle - localita' ladine della provincia di Bolzano e scuole delle localita' ladine della provincia di Trento.
 
 ###### Art. 427
 
@@ -6842,7 +6818,7 @@ Rinvio
 
 2\. Sono fatte salve le disposizioni contenute nello statuto speciale per il Trentino-Alto Adige e nelle relative norme di attuazione in materia di ordinamento scolastico in provincia di Bolzano.
 
-## Sezione VI: Norme sulle commissioni di concorso
+##### Sezione VI: Norme sulle commissioni di concorso
 
 ###### Art. 433
 
@@ -6868,7 +6844,7 @@ Norma comune sulle procedure concorsuali
 
 1\. Al fine di assicurare l'ordinato svolgimento delle prove dei concorsi per titoli ed esami, puo' essere chiamato a svolgere le funzioni di vigilanza, in caso di necessita', il personale direttivo, docente, educativo, amministrativo, tecnico ed ausiliario, in servizio nelle scuole prescelte quali sede d'esame. Le procedure attuative sono oggetto di specifica ordinanza del Ministro della pubblica istruzione, emanata sentite le organizzazioni sindacali della scuola maggiormente rappresentative.
 
-## Sezione VII: Nomine in ruolo
+##### Sezione VII: Nomine in ruolo
 
 ###### Art. 436
 
@@ -6934,7 +6910,7 @@ Sulla base di essa e degli altri elementi di valutazione forniti dal capo d'isti
 
 6\. Compiuto l'anno di formazione il personale docente consegue la conferma in ruolo con decreto del provveditore agli studi tenuto conto del parere del comitato per la valutazione del servizio. Il provvedimento e' definitivo.
 
-## Sezione VIII: Organici
+##### Sezione VIII: Organici
 
 ###### Art. 441
 
@@ -6988,9 +6964,9 @@ Organici del personale educativo
 
 6\. Le variazioni degli organici del personale educativo disposte ai sensi del comma 1 sono effettuate, entro il 31 marzo di ogni anno, con decreto del Ministro della pubblica istruzione, di concerto con il Ministro del tesoro.
 
-## Capo III - DIRITTI E DOVERI
+#### Capo III - DIRITTI E DOVERI
 
-### Sezione I: Congedi e aspettative
+##### Sezione I: Congedi e aspettative
 
 ###### Art. 447
 
@@ -7116,7 +7092,7 @@ Proroga eccezionale dell'aspettativa
 
 > Per motivi di particolare gravita' il consiglio di amministrazione puo' consentire all'impiegato, che abbia raggiunto i limiti previsti dai commi precedenti e ne faccia richiesta, un ulteriore periodo di aspettativa senza assegni della durata non superiore a sei mesi".
 
-## Sezione II: Utilizzazione ed esoneri
+##### Sezione II: Utilizzazione ed esoneri
 
 ###### Art. 453
 
@@ -7266,7 +7242,9 @@ Mantenimento ad esaurimento
 
 ((ARTICOLO ABROGATO DALLA L. 23 DICEMBRE 2014, N. 190))
 
-## Sezione III: Mobilita' del personale direttivo e docente - Paragrafo I: Norme generali
+##### Sezione III: Mobilita' del personale direttivo e docente
+
+**Paragrafo I: Norme generali**
 
 ###### Art. 460
 
@@ -7282,7 +7260,7 @@ Norme procedurali
 
 2\. I provvedimenti che comportino movimenti di personale gia' in attivita' di insegnamento, adottati dopo il ventesimo giorno dall'inizio dell'anno scolastico, salvi gli effetti giuridici, sono eseguiti, per quanto riguarda il raggiungimento della nuova sede, dopo l'inizio dell'anno scolastico successivo.
 
-## Paragrafo II: Mobilita' a domanda
+**Paragrafo II: Mobilita' a domanda**
 
 ###### Art. 462
 
@@ -7348,7 +7326,7 @@ Trasferimenti annuali
 
 5\. I docenti trasferiti ai sensi del presente articolo rimangono titolari delle rispettive sedi di provenienza, alle quali sono restituiti nel caso in cui venga meno la disponibilita' dei posti in cui sono stati trasferiti. I posti delle sedi di provenienza possono essere assegnati, per trasferimento, ai sensi del presente articolo.
 
-## Paragrafo III: Mobilita' d'ufficio
+**Paragrafo III: Mobilita' d'ufficio**
 
 ###### Art. 467
 
@@ -7386,7 +7364,7 @@ MODIFICAZIONI, DALLA L. 25 OTTOBRE 2007, N. 176)).
 
 ((3. Qualora, per mancanza di sedi disponibili, il trasferimento d'ufficio debba aver luogo per provincia diversa da quella in cui l'interessato presta servizio, la sede e' stabilita sulla base di criteri di viciniorita' e raggiungibilita'. ))
 
-## Paragrafo IV: Passaggi
+**Paragrafo IV: Passaggi**
 
 ###### Art. 470
 
@@ -7452,7 +7430,7 @@ Organi competenti
 
 1\. I provvedimenti relativi ai passaggi, sono adottati dagli organi competenti a disporre i trasferimenti a domanda.
 
-## Paragrafo V: Assegnazioni provvisorie
+**Paragrafo V: Assegnazioni provvisorie**
 
 ###### Art. 475
 
@@ -7480,7 +7458,7 @@ Organo competente
 
 2\. Con ordinanza del Ministro della pubblica istruzione sono annualmente stabiliti i titoli valutabili ed i criteri di valutazione in base ai quali il provveditore agli studi dispone le assegnazioni provvisorie di sede, nonche' le modalita' e i termini di presentazione delle domande.
 
-## Paragrafo VI: Disposizioni particolari
+**Paragrafo VI: Disposizioni particolari**
 
 ###### Art. 477
 
@@ -7608,7 +7586,7 @@ Mobilita' del personale direttivo e docente privo della vista
 
 4\. A tal fine i provveditori agli studi interessati organizzano una sezione operativa insieme al gruppo di lavoro per gli handicappati.
 
-## Paragrafo VII: Contenzioso amministrativo
+**Paragrafo VII: Contenzioso amministrativo**
 
 ###### Art. 484
 
@@ -7698,7 +7676,7 @@ Cumulo dei riconoscimenti e decorrenza dei benefici
 
 5\. Le nuove misure per il riconoscimento dei servizi, previsti dagli articoli 485 e 486, hanno effetto da data non anteriore al 1 luglio 1975.
 
-## Sezione V: Doveri
+##### Sezione V: Doveri
 
 ###### Art. 491
 
@@ -7726,9 +7704,9 @@ b) dalle ore riguardanti le attivita' connesse con il funzionamento della scuola
 
 > \- La legge n. 554/1988 detta la disciplina del rapporto di lavoro a tempo parziale per le amministrazioni statali e pubbliche.
 
-## Capo IV - DISCIPLINA
+#### Capo IV - DISCIPLINA
 
-### Sezione I: Sanzioni disciplinari
+##### Sezione I: Sanzioni disciplinari
 
 ###### Art. 492
 
@@ -7850,7 +7828,7 @@ Riabilitazione
 
 2\. Il termine di cui al comma 1 e' fissato in cinque anni per il personale che ha riportato la sanzione di cui all'articolo 492, comma 2, lettera d).
 
-## Sezione II: Competenze, provvedimenti cautelari e procedure.
+##### Sezione II: Competenze, provvedimenti cautelari e procedure.
 
 ###### Art. 502
 
@@ -7912,9 +7890,9 @@ I n c o m p a t i b i l i t a'
 
 16\. Avverso il diniego di autorizzazione e' ammesso ricorso al provveditore agli studi, che decide in via definitiva.
 
-## Capo V - CESSAZIONE DEL RAPPORTO DI SERVIZIO, UTILIZZAZIONE IN ALTRI COMPITI, RESTITUZIONE E RIAMMISSIONE
+#### Capo V - CESSAZIONE DEL RAPPORTO DI SERVIZIO, UTILIZZAZIONE IN ALTRI COMPITI, RESTITUZIONE E RIAMMISSIONE
 
-### Sezione I: Cessazioni
+##### Sezione I: Cessazioni
 
 ###### Art. 509
 
@@ -8034,7 +8012,7 @@ Riammissione in servizio
 
 > La riammissione in servizio e' subordinata alla vacanza del posto e non puo' aver luogo se la cessazione dal servizio avvenne in applicazione di disposizioni di carattere transitorio o speciale".
 
-## Sezione III: Norme finali
+##### Sezione III: Norme finali
 
 ###### Art. 517
 
@@ -8054,9 +8032,9 @@ Regioni a statuto speciale
 
 1\. Nelle materie disciplinate dal presente titolo, sono fatte salve le disposizioni contenute negli statuti delle regioni a statuto speciale e nelle relative norme di attuazione.
 
-## Capo VI - PERSONALE DOCENTE ED EDUCATIVO NON DI RUOLO
+#### Capo VI - PERSONALE DOCENTE ED EDUCATIVO NON DI RUOLO
 
-### Sezione I: Supplenze
+##### Sezione I: Supplenze
 
 ###### Art. 520
 
@@ -8168,7 +8146,7 @@ AGGIORNAMENTO (25)
 
 \- I regolamenti di cui all'art. 4, comma 14 della L. 3 maggio 1999, n. 124 sono stati emanati con Decreto 25 maggio 2000, n. 201, pubblicato in G.U. 20/07/2000, n. 168, e con Decreto 13 dicembre 2000, n. 430, pubblicato in G.U. 24/01/2001, n. 19.
 
-## Sezione II: Contenzioso amministrativo
+##### Sezione II: Contenzioso amministrativo
 
 ###### Art. 524
 
@@ -8222,7 +8200,7 @@ AGGIORNAMENTO (25)
 
 \- I regolamenti di cui all'art. 4, comma 14 della L. 3 maggio 1999, n. 124 sono stati emanati con Decreto 25 maggio 2000, n. 201, pubblicato in G.U. 20/07/2000, n. 168, e con Decreto 13 dicembre 2000, n. 430, pubblicato in G.U. 24/01/2001, n. 19.
 
-## Sezione III: Retribuzione ed assenze
+##### Sezione III: Retribuzione ed assenze
 
 ###### Art. 526
 
@@ -8306,7 +8284,7 @@ Organo competente
 
 2\. I supplenti annuali richiamati in servizio militare o trattenuti alle armi per esigenze militari di carattere eccezionale e comunque per disposizioni dell'autorita' militare, sono collocati in congedo, secondo le norme in vigore, dal capo di istituto.
 
-## Sezione IV: Disciplina
+##### Sezione IV: Disciplina
 
 ###### Art. 535
 
@@ -8394,7 +8372,7 @@ R i c o r s i
 
 2\. Il termine del ricorso ((al Ministero )) e' di 30 giorni.
 
-## Sezione V: Norma finale e di rinvio
+##### Sezione V: Norma finale e di rinvio
 
 ###### Art. 541
 
@@ -8406,11 +8384,9 @@ Norma finale e di rinvio
 
 3\. Le disposizioni contenute nel presente capo si applicano altresi' al personale educativo non di ruolo.
 
-## TITOLO II - PERSONALE AMMINISTRATIVO, TECNICO
+### TITOLO II - PERSONALE AMMINISTRATIVO, TECNICO E AUSILIARIO
 
-### E AUSILIARIO - Capo I
-
-#### AREE FUNZIONALI - RUOLI
+#### Capo I - AREE FUNZIONALI - RUOLI
 
 ###### Art. 542
 
@@ -8554,7 +8530,7 @@ AGGIORNAMENTO (96)
 
 Il D.P.R. 24 aprile 2024, n. 83 ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
-## Capo II - RECLUTAMENTO
+#### Capo II - RECLUTAMENTO
 
 ###### Art. 550
 
@@ -8800,9 +8776,9 @@ AGGIORNAMENTO (96)
 
 Il D.P.R. 24 aprile 2024, n. 83 ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
-## Capo III - DIRITTI E DOVERI
+#### Capo III - DIRITTI E DOVERI
 
-### Sezione I: Congedi e aspettative
+##### Sezione I: Congedi e aspettative
 
 ###### Art. 561
 
@@ -8874,7 +8850,7 @@ AGGIORNAMENTO (96)
 
 Il D.P.R. 24 aprile 2024, n. 83 ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
-## Sezione II: Mobilita'
+##### Sezione II: Mobilita'
 
 ###### Art. 565
 
@@ -8962,7 +8938,7 @@ AGGIORNAMENTO (96)
 
 Il D.P.R. 24 aprile 2024, n. 83 ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
-## Sezione III: Riconoscimento dei servizi
+##### Sezione III: Riconoscimento dei servizi
 
 ###### Art. 569
 
@@ -8990,7 +8966,7 @@ Eventuali interruzioni dovute alla fruizione di congedo e di aspettativa retribu
 
 2\. Il riconoscimento dei servizi e' disposto all'atto della nomina in ruolo.
 
-## Sezione IV: Orario
+##### Sezione IV: Orario
 
 ###### Art. 571
 
@@ -9026,7 +9002,7 @@ AGGIORNAMENTO (96)
 
 Il D.P.R. 24 aprile 2024, n. 83 ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
-## Sezione V: Disposizioni particolari
+##### Sezione V: Disposizioni particolari
 
 ###### Art. 573
 
@@ -9064,7 +9040,7 @@ AGGIORNAMENTO (96)
 
 Il D.P.R. 24 aprile 2024, n. 83 ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
-## Capo IV - DISCIPLINA
+#### Capo IV - DISCIPLINA
 
 ###### Art. 575
 
@@ -9150,7 +9126,7 @@ AGGIORNAMENTO (96)
 
 Il D.P.R. 24 aprile 2024, n. 83 ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
-## Capo V - UTILIZZAZIONE E DIMISSIONI
+#### Capo V - UTILIZZAZIONE E DIMISSIONI
 
 ###### Art. 579
 
@@ -9182,7 +9158,7 @@ AGGIORNAMENTO (96)
 
 Il D.P.R. 24 aprile 2024, n. 83 ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
-## TITOLO III - PERSONALE A.T.A. NON DI RUOLO
+### TITOLO III - PERSONALE A.T.A. NON DI RUOLO
 
 ###### Art. 581
 
@@ -9260,9 +9236,9 @@ AGGIORNAMENTO (96)
 
 Il D.P.R. 24 aprile 2024, n. 83 ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
-## Titolo IV - NORME COMUNI AL PERSONALE
+### Titolo IV - NORME COMUNI AL PERSONALE
 
-### Capo I - DIRITTI SINDACALI
+#### Capo I - DIRITTI SINDACALI
 
 ###### Art. 590
 
@@ -9392,7 +9368,7 @@ Commissioni provinciali e regionali
 
 > "Art. 48. (Nuove forme di partecipazione alla organizzazione del lavoro). - 1. In attuazione dell'art. 2, comma 1, lettera a), della legge 23 ottobre 1992, n. 421, la contrattazione collettiva definisce nuove forme di partecipazione delle rappresentanze del personale ai fini della organizzazione del lavoro nelle amministrazioni pubbliche di cui all'art. 1, comma 2. Sono abrogate le norme che prevedono ogni forma di rappresentanza, anche elettiva, del personale nei consigli di amministrazione delle predette amministrazioni pubbliche, nonche' nelle commissioni di concorso. La contrattazione collettiva nazionale indichera' forme e procedure di partecipazione che sostituiranno commissioni del personale e organismi di gestione, comunque denominati".
 
-## Capo II - TRATTAMENTO DI QUIESCENZA E PREVIDENZA
+#### Capo II - TRATTAMENTO DI QUIESCENZA E PREVIDENZA
 
 ###### Art. 598
 
@@ -9448,7 +9424,7 @@ Tutela dei soggetti portatori di handicap
 
 > 7\. Le disposizioni di cui ai commi 1, 2, 3, 4 e 5 si applicano anche agli affidatari di persone handicappate in sistuazione di gravita'".
 
-## Capo III - TRATTAMENTO DI SERVIZIO
+#### Capo III - TRATTAMENTO DI SERVIZIO
 
 ###### Art. 602
 
@@ -9470,11 +9446,9 @@ Trattamento economico
 
 > 5\. Le funzioni ed i relativi trattamenti economici accessori del personale non diplomatico del Ministero degli affari esteri, per i servizi che si prestano all'estero presso le rappresentanze diplomatiche, gli uffici consolari e le istituzioni culturali e scolastiche, sono disciplinati, limitatamente al periodo di servizio ivi prestato, dalle disposizioni del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, e successive modificazioni, nonche' dalle altre pertinenti normative di settore del Ministero degli affari esteri".
 
-## TITOLO V - VALUTAZIONE DEL SISTEMA SCOLASTICO E
+### TITOLO V - VALUTAZIONE DEL SISTEMA SCOLASTICO E NORME FINALI SUL PERSONALE SCOLASTICO.
 
-### NORME FINALI SUL PERSONALE SCOLASTICO. - Capo I
-
-#### NORMA FINALE
+#### Capo I - NORMA FINALE
 
 ###### Art. 603
 
@@ -9486,11 +9460,9 @@ R i n v i o
 
 1\. Per quanto non previsto dal presente testo unico al personale della scuola si applicano le norme concernenti gli impiegati civili dello Stato.
 
-## Parte Quarta - ORDINAMENTO DELL'AMMINISTRAZIONE CENTRALE E PERIFERICA DELLA PUBBLICA
+## Parte Quarta - ORDINAMENTO DELL'AMMINISTRAZIONE CENTRALE E PERIFERICA DELLA PUBBLICA ISTRUZIONE E DEL RELATIVO PERSONALE.
 
-### ISTRUZIONE E DEL RELATIVO PERSONALE. - TITOLO I
-
-#### ORDINAMENTO DEGLI UFFICI E DEL RELATIVO PERSONALE
+### TITOLO I - ORDINAMENTO DEGLI UFFICI E DEL RELATIVO PERSONALE
 
 ###### Art. 605
 
@@ -9880,7 +9852,7 @@ Regione siciliana
 
 (( ARTICOLO ABROGATO DAL D.P.R. 6 NOVEMBRE 2000, N. 347 ))
 
-## TITOLO II - ORGANI COLLEGIALI DELL'AMMINISTRAZIONE DELLA PUBBLICA ISTRUZIONE
+### TITOLO II - ORGANI COLLEGIALI DELL'AMMINISTRAZIONE DELLA PUBBLICA ISTRUZIONE
 
 ###### Art. 623
 
@@ -10004,7 +9976,7 @@ B - Presso i provveditorati agli studi:
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 APRILE 2017, N. 64))
 
-## Capo II - SCUOLE ED ISTITUZIONI EDUCATIVE STATALI
+#### Capo II - SCUOLE ED ISTITUZIONI EDUCATIVE STATALI
 
 ###### Art. 627
 
@@ -10030,7 +10002,7 @@ B - Presso i provveditorati agli studi:
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 APRILE 2017, N. 64))
 
-## Capo III - SCUOLE NON STATALI
+#### Capo III - SCUOLE NON STATALI
 
 ###### Art. 633
 
@@ -10044,7 +10016,7 @@ B - Presso i provveditorati agli studi:
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 APRILE 2017, N. 64))
 
-## Capo IV - INIZIATIVE E ATTIVITA' A FAVORE DEI LAVORATORI ITALIANI E LORO CONGIUNTI
+#### Capo IV - INIZIATIVE E ATTIVITA' A FAVORE DEI LAVORATORI ITALIANI E LORO CONGIUNTI
 
 ###### Art. 636
 
@@ -10058,9 +10030,9 @@ B - Presso i provveditorati agli studi:
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 APRILE 2017, N. 64))
 
-## TITOLO II - PERSONALE DESTINATO ALLE SCUOLE E AD ALTRE INIZIATIVE SCOLASTICHE
+### TITOLO II - PERSONALE DESTINATO ALLE SCUOLE E AD ALTRE INIZIATIVE SCOLASTICHE
 
-### Capo I DESTINAZIONE ALL'ESTERO
+#### Capo I DESTINAZIONE ALL'ESTERO
 
 ###### Art. 639
 
@@ -10114,7 +10086,7 @@ B - Presso i provveditorati agli studi:
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 APRILE 2017, N. 64))
 
-## Capo II - SITUAZIONI PARTICOLARI
+#### Capo II - SITUAZIONI PARTICOLARI
 
 ###### Art. 652
 
@@ -10136,7 +10108,7 @@ B - Presso i provveditorati agli studi:
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 APRILE 2017, N. 64))
 
-## Capo III - TRATTAMENTO GIURIDICO ED ECONOMICO
+#### Capo III - TRATTAMENTO GIURIDICO ED ECONOMICO
 
 ###### Art. 657
 
@@ -10224,7 +10196,7 @@ VISTO, Il Ministro della pubblica istruzione
 
 RUSSO JERVOLINO
 
-## Capo III - TRATTAMENTO GIURIDICO ED ECONOMICO
+#### Capo III - TRATTAMENTO GIURIDICO ED ECONOMICO
 
 ###### Tabelle
 

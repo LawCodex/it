@@ -62,13 +62,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I - ADEGUAMENTO DELLE STRUTTURE E DELLE DOTAZIONI
+## Capo I - ADEGUAMENTO DELLE STRUTTURE E DELLE DOTAZIONI ORGANICHE DEL DIPARTIMENTO DELL'AMMINISTRAZIONE PENITENZIARIA E DELL'UFFICIO CENTRALE PER LA GIUSTIZIA MINORILE.
 
-### ORGANICHE DEL DIPARTIMENTO DELL'AMMINISTRAZIONE - PENITENZIARIA E DELL'UFFICIO CENTRALE
-
-#### PER LA GIUSTIZIA MINORILE.
-
-##### Art. 1
+### Art. 1
 
 Provveditorati regionali dell'Amministrazione penitenziaria e Centri per la Giustizia minorile
 
@@ -456,7 +452,7 @@ Provveditorati regionali dell'Amministrazione penitenziaria e Centri per la Gius
 
 > \- La legge 15 dicembre 1990, n. 396, reca: "Interventi per Roma, capitale della Repubblica".
 
-##### Art. 2
+### Art. 2
 
 Istituti penitenziari, centri per i servizi sociali per adulti-
 
@@ -478,7 +474,7 @@ Scuole e servizi dell'Amministrazione penitenziaria e della Giustizia minorile
 
 > e) previsione i decreti ministeriali di natura non regolamentare per la definizione dei compiti delle unita' dirigenziali nell'ambito degli uffici dirigenziali generali".
 
-##### Art. 3
+### Art. 3
 
 Integrazione degli organici del personale dell'Amministrazione penitenziaria e dell'Ufficio centrale della Giustizia minorile
 
@@ -602,7 +598,7 @@ Area funzionale B:
 
 > 28\. Nell'esercizio dei compiti attribuiti dall'art. 1, comma 62, della legge 23 dicembre 1996, n. 662, il Corpo della guardia di finanza agisce avvalendosi dei poteri di polizia tributaria previsti dal decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e dal decreto del Presidente della Repubblica 29 settembre 1973, n. 600. Nel corso delle verifiche previste dall'art. 1, comma 62, della legge 23 dicembre 1996, n. 662, non e' opponibile il segreto d'ufficio".
 
-##### Art. 4
+### Art. 4
 
 Copertura delle sedi di livello dirigenziale
 
@@ -660,7 +656,7 @@ La L. 23 dicembre 2000, n. 388 ha disposto (con l'art. 51, comma 4) che il prese
 
 ## Capo II - ((Carriera dei funzionari del Corpo di polizia penitenziaria))
 
-##### Art. 5 - Articolazione della carriera dei funzionari del Corpo di polizia penitenziaria
+### Art. 5 - Articolazione della carriera dei funzionari del Corpo di polizia penitenziaria
 
 1\. La carriera dei funzionari del Corpo di polizia penitenziaria, a sviluppo dirigenziale, si articola nelle seguenti qualifiche:
 
@@ -682,13 +678,13 @@ g) dirigente superiore ((di Polizia penitenziaria)).
 
 2\. La dotazione organica della carriera dei funzionari e' fissata nella tabella D allegata al presente decreto.
 
-##### Art. 5-bis
+### Art. 5-bis
 
 (( (Direzioni generali della Polizia penitenziaria). ))
 
 ((1. Presso il Dipartimento Amministrazione penitenziaria sono istituite la Direzione generale delle specialita' del Corpo di polizia penitenziaria e la Direzione Generale dei servizi logistici e tecnici del Corpo di polizia penitenziaria, alle quali sono preposti i dirigenti generali di Polizia penitenziaria nominati a norma dell'articolo 13-sexies.))
 
-##### Art. 6
+### Art. 6
 
 (( (Funzioni del personale appartenente alla carriera dei funzionari del Corpo di polizia penitenziaria). ))
 
@@ -722,7 +718,7 @@ AGGIORNAMENTO (4)
 
 Il D.Lgs. 29 maggio 2017, n. 95 ha disposto (con l'art. 44, comma 23) che "Nelle more dell'applicazione delle disposizioni previste dall'articolo 6, commi 3, 4, 5, 6, 7, 8 e 9 del decreto legislativo 21 maggio 2000, n. 146, come modificato dall'articolo 40, comma 1, lettera c), del presente decreto, il personale continua ad espletare le funzioni attribuite in virtu' della disciplina vigente antecedentemente alla data di entrata in vigore del medesimo decreto".
 
-##### Art. 7 - Accesso alla carriera dei funzionari
+### Art. 7 - Accesso alla carriera dei funzionari
 
 1\. L'accesso alla carriera dei funzionari avviene:
 
@@ -754,7 +750,7 @@ e) laurea magistrale o specialistica.
 
 8\. Con decreto del capo del Dipartimento dell'amministrazione penitenziaria sono disciplinate le prove di esame scritte e quella orale, volte ad accertare la preparazione, in relazione alle responsabilita' connesse alle funzioni di cui all'articolo 6, nonche' le modalita' di svolgimento dei concorsi, di composizione delle commissioni esaminatrici, le categorie dei titoli da ammettere a valutazione ed il punteggio massimo da attribuire a ciascuna categoria di titoli ove previste e le modalita' di formazione delle graduatorie ((nonche' le prove di efficienza fisica)).
 
-##### Art. 8
+### Art. 8
 
 Prova preliminare
 
@@ -762,7 +758,7 @@ Prova preliminare
 
 2\. Ai fini della predisposizione delle domande a risposta a scelta multipla, l'Amministrazione e' autorizzata ad avvalersi, nell'ambito degli ordinari stanziamenti di bilancio, della consulenza di enti pubblici o di privati specializzati nel settore.
 
-##### Art. 9 - Corsi di formazione
+### Art. 9 - Corsi di formazione
 
 1\. vincitori del concorso di cui all'articolo 7, comma 1, lettera a), sono nominati allievi commissari e frequentano, presso la Scuola superiore dell'esecuzione penale, un corso di formazione della durata di due anni, articolato in due cicli annuali, comprensivi di un periodo applicativo, presso istituti penitenziari finalizzato all'espletamento delle funzioni previste dall'articolo 6. Durante la frequenza del corso i funzionari rivestono le qualifiche di sostituto ufficiale di pubblica sicurezza e di ufficiale di polizia giudiziaria. Durante il corso i frequentatori, al di fuori del periodo applicativo, non possono essere impiegati in servizi d'istituto, salvo i servizi di rappresentanza, parata o d'onore. (7).
 
@@ -792,7 +788,7 @@ AGGIORNAMENTO (12)
 
 Il D.L. 29 dicembre 2022, n. 198, convertito con modificazioni dalla L. 24 febbraio 2023, n. 14, come modificato dal D.L. 24 febbraio 2026, n. 23, ha disposto (con l'art. 2-bis, comma 7-bis) che "In deroga a quanto previsto dall'articolo 9, comma 2, del decreto legislativo 21 maggio 2000, n. 146, i corsi di formazione iniziale per l'accesso alla qualifica di vicecommissario del Corpo di polizia penitenziaria avviati e da avviare entro il 31 dicembre 2026 hanno durata pari a otto mesi. Nell'ambito dei predetti corsi, il numero massimo di assenze fissato dall'articolo 10, comma 1, lettera e), ultimo periodo, del predetto decreto legislativo 21 maggio 2000, n. 146, e' ridefinito proporzionalmente alla riduzione della durata degli stessi".
 
-##### Art. 10 - Dimissione dal corso
+### Art. 10 - Dimissione dal corso
 
 1\. Sono dimessi dai corsi di cui all'articolo 9 coloro che:
 
@@ -822,19 +818,19 @@ AGGIORNAMENTO (12)
 
 Il D.L. 29 dicembre 2022, n. 198, convertito con modificazioni dalla L. 24 febbraio 2023, n. 14, come modificato dal D.L. 24 febbraio 2026, n. 23, ha disposto (con l'art. 2-bis, comma 7-bis) che "In deroga a quanto previsto dall'articolo 9, comma 2, del decreto legislativo 21 maggio 2000, n. 146, i corsi di formazione iniziale per l'accesso alla qualifica di vicecommissario del Corpo di polizia penitenziaria avviati e da avviare entro il 31 dicembre 2026 hanno durata pari a otto mesi. Nell'ambito dei predetti corsi, il numero massimo di assenze fissato dall'articolo 10, comma 1, lettera e), ultimo periodo, del predetto decreto legislativo 21 maggio 2000, n. 146, e' ridefinito proporzionalmente alla riduzione della durata degli stessi".
 
-##### Art. 11
+### Art. 11
 
 (( (Promozione a commissario).))
 
 ((1. La promozione a commissario di coloro che accedono attraverso il concorso di cui all'articolo 7, comma 1, lettera b), si consegue, a ruolo aperto, mediante scrutinio per merito assoluto al quale e' ammesso il personale con la qualifica di vice commissario che abbia compiuto due anni di effettivo servizio nella qualifica, comprensivo del periodo di corso.))
 
-##### Art. 12
+### Art. 12
 
 (( (Promozione a commissario capo).))
 
 ((1. La promozione a commissario capo di coloro che accedono attraverso il concorso di cui all'articolo 7, comma 1, lettera b) si consegue, a ruolo aperto, mediante scrutinio per merito assoluto al quale e' ammesso il personale con la qualifica di commissario che abbia compiuto cinque anni di effettivo servizio nella qualifica.))
 
-##### Art. 13 - Promozione a ((dirigente aggiunto))
+### Art. 13 - Promozione a ((dirigente aggiunto))
 
 1\. La promozione alla qualifica di commissario coordinatore del Corpo di polizia penitenziaria si consegue, a ruolo chiuso, mediante scrutinio per merito comparativo e superamento di un corso di formazione dirigenziale della durata non superiore a mesi tre con esame finale, al quale e' ammesso:
 
@@ -848,29 +844,29 @@ b) nei limiti del 30 per cento dei posti disponibili al 31 dicembre di ogni anno
 
 4\. Le modalita' di svolgimento del corso di formazione dirigenziale di cui al comma 1, quelle di svolgimento dell'esame finale nonche' i criteri di formazione della graduatoria di fine corso sono determinati con decreto del capo del Dipartimento dell'Amministrazione penitenziaria.
 
-##### Art. 13-bis - Promozione a ((dirigente))
+### Art. 13-bis - Promozione a ((dirigente))
 
 1\. La promozione alla qualifica di ((dirigente)) del Corpo di polizia penitenziaria avviene mediante scrutinio per merito comparativo al quale e' ammesso il personale con qualifica di ((dirigente aggiunto)) che abbia compiuto cinque anni di effettivo servizio nella qualifica.
 
-##### Art. 13-ter - Promozione a primo dirigente
+### Art. 13-ter - Promozione a primo dirigente
 
 1\. La promozione alla qualifica di primo dirigente si consegue, nell'ambito dei posti disponibili ((al 30 giugno e)) al 31 dicembre di ogni anno, mediante scrutinio per merito comparativo al quale e' ammesso il personale con la qualifica di commissario coordinatore superiore che abbia compiuto quattro anni di effettivo servizio nella qualifica ((rispettivamente, entro le predette date del 30 giugno e del 31 dicembre)).
 
 ((2. Le promozioni hanno effetto, rispettivamente, dal 1° luglio e dal 1° gennaio del semestre successivo a quello nel quale si sono verificate le vacanze)).
 
-##### Art. 13-quater - Promozione a dirigente superiore
+### Art. 13-quater - Promozione a dirigente superiore
 
 1\. La promozione alla qualifica di dirigente superiore si consegue, nell'ambito dei posti disponibili al ((30 giugno e al)) 31 dicembre di ogni anno, mediante scrutinio per merito comparativo al quale e' ammesso il personale con la qualifica di primo dirigente che abbia compiuto almeno cinque anni di effettivo servizio nella qualifica ((rispettivamente, entro le predette date del 30 giugno e del 31 dicembre)).
 
 ((2. Le promozioni hanno effetto, rispettivamente, dal 1° luglio e dal 1° gennaio del semestre successivo a quello nel quale si sono verificate le vacanze)).
 
-##### Art. 13-quinquies - Percorso di carriera
+### Art. 13-quinquies - Percorso di carriera
 
 ((1. Per l'ammissione allo scrutinio per l'accesso alle qualifiche di primo dirigente e dirigente superiore il personale nel percorso di carriera deve aver svolto piu' incarichi connessi alla qualifica rivestita presso reparti, nuclei, scuole, uffici o servizi dell'Amministrazione penitenziaria, della giustizia minorile e di comunita' o degli uffici interforze del Dipartimento della pubblica sicurezza.))
 
 ((1-bis. L'incarico di comando di reparto o di nucleo puo' essere conferito per un periodo di tempo non inferiore a tre anni e non superiore a cinque. Lo stesso incarico puo' essere rinnovato una sola volta, per un periodo di tempo non inferiore a tre anni e non superiore a cinque))
 
-##### Art. 13-sexies
+### Art. 13-sexies
 
 (( (Nomina a dirigente generale di Polizia penitenziaria). ))
 
@@ -880,7 +876,7 @@ b) nei limiti del 30 per cento dei posti disponibili al 31 dicembre di ogni anno
 
 3\. La commissione consultiva individua, nella misura non inferiore a due volte il numero dei posti disponibili, i funzionari aventi la qualifica di dirigente superiore idonei alla nomina a dirigente generale, sulla base delle esperienze professionali maturate e dell'intero servizio prestato nella carriera dei funzionari, nonche' dell'attitudine ad assolvere le piu' elevate funzioni connesse alla qualifica superiore. 4. Il Ministro della giustizia sceglie, in vista della proposta al Consiglio dei Ministri, fra i funzionari indicati dalla commissione.))
 
-##### Art. 14
+### Art. 14
 
 Norme relative agli scrutini
 
@@ -900,7 +896,7 @@ Norme relative agli scrutini
 
 ((4-quinquies. La commissione di cui al comma 4-bis decide sui ricorsi gerarchici proposti dal personale della carriera dei funzionari avverso la valutazione annuale ed il rapporto informativo)).
 
-##### Art. 15
+### Art. 15
 
 Promozione per merito straordinario degli appartenenti alla carriera dei funzionari
 
@@ -914,7 +910,7 @@ Promozione per merito straordinario degli appartenenti alla carriera dei funzion
 
 3-ter. Un'ulteriore promozione per merito straordinario non puo' essere conferita se non siano trascorsi almeno tre anni dalla precedente. In tal caso, qualora si verifichino le condizioni previste dai precedenti articoli, al personale interessato possono essere attribuiti, o la classe superiore di stipendio o, se piu' favorevoli, tre scatti di anzianita'.
 
-##### Art. 16
+### Art. 16
 
 (( (Valutazione annuale e rapporti informativi per la carriera dei funzionari). ))
 
@@ -938,7 +934,7 @@ Promozione per merito straordinario degli appartenenti alla carriera dei funzion
 
 10\. Il rapporto informativo dei funzionari che ricoprano la qualifica di vice commissario, commissario e commissario capo e' compilato dal dirigente da cui dipendano. Il giudizio complessivo e' espresso dal dirigente generale da cui dipenda il dirigente.))
 
-##### Art. 17
+### Art. 17
 
 Tessera di riconoscimento
 
@@ -946,13 +942,13 @@ Tessera di riconoscimento
 
 2\. Il personale ((della carriera dei funzionari)) del Corpo di polizia penitenziaria, in divisa o munito della tessera di riconoscimento, ha diritto al libero percorso sulle linee tranviarie, metropolitane o automobilistiche urbane.
 
-##### Art. 18
+### Art. 18
 
 Divise uniformi
 
 1\. Ai sensi dell'articolo 7, comma 4, della legge 15 dicembre 1990, n. 395, le caratteristiche delle divise uniformi degli appartenenti ((alla carriera dei funzionari)) del Corpo di polizia penitenziaria, nonche' i criteri concernenti l'obbligo e le modalita' d'uso, sono stabiliti con decreto del Ministro della giustizia.
 
-##### Art. 19
+### Art. 19
 
 (( (Norme disciplinari).))
 
@@ -960,7 +956,7 @@ Divise uniformi
 
 ## ((Capo II-bis.)) - ((CARRIERA DEI MEDICI DEL CORPO DI POLIZIA PENITENZIARIA))
 
-##### Art. 19-bis
+### Art. 19-bis
 
 (( (Carriera dei medici del Corpo di polizia penitenziaria) ))
 
@@ -984,7 +980,7 @@ f) dirigente superiore medico.
 
 4\. La procedura di accesso alla qualifica iniziale, il percorso di formazione iniziale, la progressione in carriera, l'aggiornamento professionale, la formazione specialistica e la regolazione dell'attivita' libero-professionale sono disciplinate, nel rispetto del principio di equiordinazione del personale delle Forze di polizia, con regolamento adottato ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, su proposta del Ministro della giustizia, di concerto con il Ministro della salute.))
 
-##### Art. 19-ter - Attribuzioni dei medici del Corpo di polizia penitenziaria
+### Art. 19-ter - Attribuzioni dei medici del Corpo di polizia penitenziaria
 
 1\. I medici del Corpo di polizia penitenziaria, fermo restando quanto disposto dall'articolo 6, primo comma, lettera z), della legge 23 dicembre 1978, n. 833, indipendentemente dal diploma di specializzazione di cui sono in possesso, hanno le seguenti attribuzioni:
 
@@ -1010,39 +1006,37 @@ g) svolgono, presso le scuole di formazione, gli istituti di istruzione, i repar
 
 ## Capo III - RUOLO DIRETTIVO SPECIALE DEL CORPO DI POLIZIA PENITENZIARIA ((CAPO ABROGATO DAL 29 MAGGIO 2017, N. 95))
 
-##### Art. 20
+### Art. 20
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-##### Art. 21
+### Art. 21
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-##### Art. 22
+### Art. 22
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-##### Art. 23
+### Art. 23
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-##### Art. 24
+### Art. 24
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-##### Art. 25
+### Art. 25
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-##### Art. 26
+### Art. 26
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-## Capo IV - UFFICIALI DEL RUOLO AD ESAURIMENTO
+## Capo IV - UFFICIALI DEL RUOLO AD ESAURIMENTO DEL DISCIOLTO CORPO DEGLI AGENTI DI CUSTODIA
 
-### DEL DISCIOLTO CORPO DEGLI AGENTI DI CUSTODIA
-
-##### Art. 27
+### Art. 27
 
 Ricollocamento del personale del ruolo ad esaurimento
 
@@ -1074,7 +1068,7 @@ d) nelle articolazioni centrali, presso l'Istituto superiore di Studi penitenzia
 
 ## Capo V - DISPOSIZIONI TRANSITORIE E FINALI
 
-##### Art. 28
+### Art. 28
 
 Accesso in sede di prima attuazione alle qualifiche di vice commissario penitenziario, commissario penitenziario e commissario capo penitenziario del ruolo direttivo speciale
 
@@ -1108,7 +1102,7 @@ b) mediante selezione consistente nella valutazione di titoli ed un successivo c
 
 > \- Per il testo degli articoli 93 e 205 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, si vedano le note all'art. 27.
 
-##### Art. 29
+### Art. 29
 
 Clausola finanziaria
 
@@ -1144,7 +1138,7 @@ Visto, il Guardasigilli: Fassino
 
 ## Capo V - DISPOSIZIONI TRANSITORIE E FINALI
 
-##### Tabelle
+### Tabelle
 
 Tabella A
 

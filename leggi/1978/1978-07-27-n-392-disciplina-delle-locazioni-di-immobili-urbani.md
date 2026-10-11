@@ -28,11 +28,9 @@ la seguente legge:
 
 ## TITOLO I - DEL CONTRATTO DI LOCAZIONE
 
-### Capo I
+### Capo I - LOCAZIONE DI IMMOBILI URBANI ADIBITI AD USO DI ABITAZIONE
 
-#### LOCAZIONE DI IMMOBILI - URBANI ADIBITI AD USO DI ABITAZIONE
-
-##### Art. 1 - Durata della locazione
+#### Art. 1 - Durata della locazione
 
 La durata della locazione avente per oggetto immobili urbani per uso abitazione non puo' essere inferiore a quattro anni. Se le parti hanno determinato una durata inferiore o hanno convenuto una locazione senza determinazione di tempo la durata si intende convenuta per quattro anni.
 
@@ -44,13 +42,13 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-##### Art. 2 - Disciplina della sublocazione
+#### Art. 2 - Disciplina della sublocazione
 
 Il conduttore non puo' sublocare totalmente l'immobile, ne' puo' cedere ad altri il contratto senza il consenso del locatore.
 
 Salvo patto contrario il conduttore ha la facolta' di sublocare parzialmente l'immobile, previa comunicazione al locatore con lettera raccomandata che indichi la persona del subconduttore, la durata del contratto ed i vani sublocati.
 
-##### Art. 3 - Rinnovazione tacita
+#### Art. 3 - Rinnovazione tacita
 
 Il contratto si rinnova per un periodo di quattro anni se nessuna delle parti comunica all'altra, almeno sei mesi prima della scadenza, con lettera raccomandata, che non intende rinnovarlo.
 
@@ -64,17 +62,17 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-##### Art. 4 - Recesso del conduttore
+#### Art. 4 - Recesso del conduttore
 
 E' in facolta' delle parti consentire contrattualmente che il conduttore possa recedere in qualsiasi momento dal contratto dandone avviso al locatore, con lettera raccomandata, almeno sei mesi prima della data in cui il recesso deve avere esecuzione.
 
 Indipendentemente dalle previsioni contrattuali il conduttore, qualora ricorrano gravi motivi, puo' recedere in qualsiasi momento dal contratto con preavviso di almeno sei mesi da comunicarsi con lettera raccomandata.
 
-##### Art. 5 - Inadempimento del conduttore
+#### Art. 5 - Inadempimento del conduttore
 
 Salvo quanto previsto dall'articolo 55, il mancato pagamento del canone decorsi venti giorni dalla scadenza prevista, ovvero il mancato pagamento, nel termine previsto, degli oneri accessori quando l'importo non pagato superi quello di due mensilita' del canone, costituisce motivo di risoluzione, ai sensi dell'articolo 1455 del codice civile.
 
-##### Art. 6 - Successione nel contratto
+#### Art. 6 - Successione nel contratto
 
 In caso di morte del conduttore, gli succedono nel contratto il coniuge, gli eredi ed i parenti ed affini con lui abitualmente conviventi. ((14))
 
@@ -88,15 +86,15 @@ AGGIORNAMENTO (14)
 
 La Corte costituzionale, con sentenza 24 marzo-7 aprile 1988, n. 404 (in G.U. 1a s.s. 13/04/1988, n. 15) ha dichiarato l'illegittimita' costituzionale "dell'art. 6, primo comma, della legge 27 luglio 1978, n. 392 ("Disciplina delle locazioni di immobili urbani"), nella parte in cui non prevede tra i successibili nella titolarita' del contratto di locazione, in caso di morte del conduttore, il convivente more uxorio"; ha inoltre dichiarato "la illegittimita' costituzionale dell'art. 6, terzo comma, della legge 27 luglio 1978, n. 392, nella parte in cui non prevede che il coniuge separato di fatto succeda al conduttore, se tra i due si sia cosi' convenuto"; ha inoltre dichiarato "la illegittimita' costituzionale dell'art. 6, della legge 27 luglio 1978, n. 392, nella parte in cui non prevede la successione nel contratto di locazione al conduttore che abbia cessato la convivenza, a favore del gia' convivente quando vi sia prole naturale".
 
-##### Art. 7 - Clausola di scioglimento in caso di alienazione
+#### Art. 7 - Clausola di scioglimento in caso di alienazione
 
 E' nulla la clausola che prevede la risoluzione del contratto in caso di alienazione della cosa locata.
 
-##### Art. 8 - Spese di registrazione
+#### Art. 8 - Spese di registrazione
 
 Le spese di registrazione del contratto di locazione sono a carico del conduttore e del locatore in parti uguali.
 
-##### Art. 9 - Oneri accessori
+#### Art. 9 - Oneri accessori
 
 Sono interamente a carico del conduttore, salvo patto contrario, le spese relative al servizio di pulizia, al funzionamento e all'ordinaria manutenzione dell'ascensore, alla fornitura dell'acqua, dell'energia elettrica, del riscaldamento e del condizionamento dell'aria, allo spurgo dei pozzi neri e delle latrine, nonche' alla fornitura di altri servizi comuni.
 
@@ -108,7 +106,7 @@ Il pagamento deve avvenire entro due mesi dalla richiesta. Prima di effettuare i
 
 La disposizione di cui al quarto comma non si applica ove i servizi accessori al contratto di locazione forniti siano per loro particolare natura e caratteristiche riferibili a specifica attivita' imprenditoriale del locatore e configurino oggetto di un autonomo contratto di prestazione dei servizi stessi)).
 
-##### Art. 10 - Partecipazione del conduttore all'assemblea dei condomini
+#### Art. 10 - Partecipazione del conduttore all'assemblea dei condomini
 
 Il conduttore ha diritto di voto, in luogo del proprietario dell'appartamento locatogli, nelle delibere dell'assemblea condominiale relative alle spese e alle modalita' di gestione dei servizi di riscaldamento e di condizionamento d'aria.
 
@@ -120,11 +118,11 @@ In tale ipotesi i conduttori si riuniscono in apposita assemblea convocati dal p
 
 Si osservano, in quanto applicabili, le disposizioni del codice civile sull'assemblea dei condomini.
 
-##### Art. 11 - Deposito cauzionale
+#### Art. 11 - Deposito cauzionale
 
 Il deposito cauzionale non puo' essere superiore a tre mensilita' del canone. Esso e' produttivo di interessi legali che debbono essere corrisposti al conduttore alla fine di ogni anno.
 
-##### Art. 12 - Equo canone degli immobili adibiti ad uso di abitazione
+#### Art. 12 - Equo canone degli immobili adibiti ad uso di abitazione
 
 Il canone di locazione e sublocazione degli immobili adibiti ad uso di abitazione non puo' superare il 3,85 per cento del valore locativo dell'immobile locato.
 
@@ -144,7 +142,7 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-##### Art. 13 - Superficie convenzionale
+#### Art. 13 - Superficie convenzionale
 
 La superficie convenzionale e' data dalla somma dei seguenti elementi:
 
@@ -188,7 +186,7 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-##### Art. 14 - Costo base
+#### Art. 14 - Costo base
 
 Il costo base a metro quadrato per gli immobili, la cui costruzione e' stata ultimata entro il 31 dicembre 1975, e' fissato in:
 
@@ -204,7 +202,7 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-##### Art. 15 - Coefficienti correttivi del costo base
+#### Art. 15 - Coefficienti correttivi del costo base
 
 I coefficienti correttivi sono stabiliti in funzione del tipo, della classe demografica dei comuni, dell'ubicazione, del livello di piano, della vetusta' e dello stato di conservazione e manutenzione dell'immobile. ((25))
 
@@ -214,7 +212,7 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-##### Art. 16 - Tipologia
+#### Art. 16 - Tipologia
 
 In relazione alla tipologia si fa riferimento alla categoria catastale con i coefficienti risultanti dalla tabella seguente:
 
@@ -242,7 +240,7 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-##### Art. 17 - Classe demografica dei comuni
+#### Art. 17 - Classe demografica dei comuni
 
 In relazione alla classe demografica si applicano i seguenti coefficienti:
 
@@ -266,7 +264,7 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-##### Art. 18 - Ubicazione
+#### Art. 18 - Ubicazione
 
 In relazione all'ubicazione i consigli comunali dei comuni con popolazione superiore a 20.000 abitanti provvedono a ripartire il territorio comunale in cinque zone alle quali si applicano i coefficienti della tabella seguente:
 
@@ -298,7 +296,7 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-##### Art. 19 - Livello di piano
+#### Art. 19 - Livello di piano
 
 In relazione al livello di piano, limitatamente alle unita' immobiliari situate in immobili costituiti da almeno tre piani fuori terra, si applicano i seguenti coefficienti:
 
@@ -318,7 +316,7 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-##### Art. 20 - Vetusta'
+#### Art. 20 - Vetusta'
 
 In relazione alla vetusta' si applica un coefficiente di degrado per ogni anno decorrente dal sesto anno successivo a quello di costruzione dell'immobile e stabilito nel modo seguente:
 
@@ -334,7 +332,7 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-##### Art. 21 - Stato di conservazione e manutenzione
+#### Art. 21 - Stato di conservazione e manutenzione
 
 In relazione allo stato di conservazione e manutenzione dell'immobile si applicano i seguenti coefficienti:
 
@@ -378,7 +376,7 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-##### Art. 22 - Immobili ultimati dopo il 31 dicembre 1975
+#### Art. 22 - Immobili ultimati dopo il 31 dicembre 1975
 
 Per gli immobili adibiti ad uso di abitazione che sono stati ultimati dopo il 31 dicembre 1975, il costo base di produzione a metro quadrato e' fissato con decreto del Presidente della Repubblica, su proposta del Ministro dei lavori pubblici, di concerto con quello di grazia e giustizia, sentito il Consiglio dei Ministri, da emanare entro il 31 marzo di ogni anno e da pubblicare nella Gazzetta Ufficiale della Repubblica.
 
@@ -402,7 +400,7 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-##### Art. 23 - Riparazioni straordinarie
+#### Art. 23 - Riparazioni straordinarie
 
 Quando si eseguano sull'immobile importanti ed improrogabili opere necessarie per conservare ad esso la sua destinazione o per evitare maggiori danni che ne compromettano l'efficienza in relazione all'uso a cui e' adibito, o comunque opere di straordinaria manutenzione di rilevante entita', il locatore puo' chiedere al conduttore che il canone risultante dall'applicazione degli articoli precedenti venga integrato con un aumento non superiore all'interesse legale sul capitale impiegato nelle opere e nei lavori effettuati, dedotte le indennita' e i contributi di ogni natura che il locatore abbia percepito o che successivamente venga a percepire per le opere eseguite.
 
@@ -418,7 +416,7 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-##### Art. 24 - Aggiornamento del canone
+#### Art. 24 - Aggiornamento del canone
 
 Per gli immobili adibiti ad uso d'abitazione il canone di locazione definito ai sensi degli articoli da 12 a 23 e' aggiornato ogni anno in misura pari al 75 per cento della variazione, accertata dall'ISTAT, dell'indice dei prezzi al consumo per le famiglie di operai e impiegati verificatasi nell'anno precedente.
 
@@ -430,7 +428,7 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-##### Art. 25 - Adeguamento del canone
+#### Art. 25 - Adeguamento del canone
 
 Ciascuna delle parti, in ogni momento del rapporto contrattuale, ha diritto all'adeguamento del canone in relazione all'eventuale mutamento degli elementi di cui agli articoli 13 e 15, escluso il parametro relativo alla vetusta' che si applica al momento del rinnovo contrattuale.
 
@@ -442,7 +440,7 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-##### Art. 26 - Ambito di applicazione
+#### Art. 26 - Ambito di applicazione
 
 Le disposizioni di cui al presente capo non si applicano:
 
@@ -470,11 +468,9 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-## Capo II - LOCAZIONE DI IMMOBILI URBANI ADIBITI AD USO DIVERSO DA QUELLO DI
+### Capo II - LOCAZIONE DI IMMOBILI URBANI ADIBITI AD USO DIVERSO DA QUELLO DI ABITAZIONE
 
-### ABITAZIONE
-
-##### Art. 27 - Durata della locazione
+#### Art. 27 - Durata della locazione
 
 ((La durata delle locazioni e sublocazioni di immobili urbani non puo' essere inferiore a sei anni se gli immobili sono adibiti ad una delle attivita' appresso indicate industriali, commerciali e artigianali di interesse turistico, quali agenzie di viaggio e turismo, impianti sportivi e ricreativi, aziende di soggiorno ed altri organismi di promozione turistica e simili.))
 
@@ -492,13 +488,13 @@ E' in facolta' delle parti consentire contrattualmente che il conduttore possa r
 
 Indipendentemente dalle previsioni contrattuali il conduttore, qualora ricorrano gravi motivi, puo' recedere in qualsiasi momento dal contratto con preavviso di almeno sei mesi da comunicarsi con lettera raccomandata.
 
-##### Art. 28 - Rinnovazione del contratto
+#### Art. 28 - Rinnovazione del contratto
 
 Per le locazioni di immobili nei quali siano esercitate le attivita' indicate nei commi primo e secondo dell'articolo 27, il contratto si rinnova tacitamente di sei anni in sei anni e, per quelle di immobili adibiti ad attivita' alberghiere ((o all'esercizio di attivita' teatrali)), di nove anni in nove anni; tale rinnovazione non ha luogo se sopravviene disdetta da comunicarsi all'altra parte, a mezzo di lettera raccomandata, rispettivamente almeno 12 o 18 mesi prima della scadenza.
 
 Alla prima scadenza contrattuale, rispettivamente di sei o di nove anni, il locatore puo' esercitare la facolta' di diniego della rinnovazione soltanto per i motivi di cui all'articolo 29 con le modalita' e i termini ivi previsti.
 
-##### Art. 29 - Diniego di rinnovazione del contratto alla prima scadenza
+#### Art. 29 - Diniego di rinnovazione del contratto alla prima scadenza
 
 Il diniego della rinnovazione del contratto alla prima scadenza di cui all'articolo precedente e' consentito al locatore ove egli intenda:
 
@@ -524,7 +520,7 @@ AGGIORNAMENTO (24)
 
 La Corte costituzionale, con sentenza 28 settembre-9 ottobre 1998, n. 348 (in G.U. 1a s.s. 14/10/1998, n. 41) ha dichiarato l'illegittimita' costituzionale "dell'art. 29, primo comma, lettera d), ultima parte, in relazione alla lettera c), ultima parte, della legge 27 luglio 1978, n. 392 (Disciplina delle locazioni di immobili urbani), nella parte in cui prevede che la scadenza, nel corso del processo, del termine per l'inizio dei lavori, indicato nella licenza o concessione, impedisce l'emanazione del provvedimento di rilascio".
 
-##### Art. 30 - Procedura per il rilascio
+#### Art. 30 - Procedura per il rilascio
 
 Avvenuta la comunicazione di cui al terzo comma dell'articolo 29 e prima della data per la quale e' richiesta la disponibilita' ovvero quando tale data sia trascorsa senza che il conduttore abbia rilasciato l'immobile, il locatore puo' convenire in giudizio il conduttore, osservando le norme previste dall'articolo 447-bis del codice di procedura civile. (18) ((19))
 
@@ -552,13 +548,13 @@ AGGIORNAMENTO (19)
 
 La L. 26 novembre 1990, n. 353 come modificata dal D.L. 7 ottobre 1994, n. 571, convertito con modificazioni dalla L. 6 dicembre 1994, n. 673, ha disposto (con l'art. 89 commi 3 e 4) che le modifiche introdotte al 01/01/1992 decorrono a partire dal 30/04/1995.
 
-##### Art. 31 - Sanzioni
+#### Art. 31 - Sanzioni
 
 Il locatore che abbia ottenuto la disponibilita' dell'immobile per uno dei motivi previsti dall'articolo 29 e che, nel termine di sei mesi dall'avvenuta consegna, non abbia adibito l'immobile ad abitazione propria, del coniuge o dei parenti entro il secondo grado in linea retta, o non abbia adibito l'immobile ad esercizio in proprio di una delle attivita' indicate all'articolo 27, ovvero non abbia rispettato i termini della concessione o quelli del piano comunale di intervento per quanto attiene l'inizio dei lavori di demolizione, ricostruzione, ristrutturazione o restauro dell'immobile ovvero, in caso di immobili adibiti ad esercizio di albergo, pensione o locanda, non abbia completato i lavori di ricostruzione nel termine stabilito dal Ministero del turismo e dello spettacolo, e' tenuto, se il conduttore lo richiede, al ripristino del contratto, salvi i diritti acquistati da terzi in buona fede, e al rimborso delle spese di trasloco e degli altri oneri sopportati, ovvero al risarcimento del danno nei confronti del conduttore in misura non superiore a quarantotto mensilita' del canone di locazione percepito prima della risoluzione del contratto, oltre alle indennita' previste ai sensi dell'articolo 34.
 
 Il giudice, oltre a determinare il ripristino o il risarcimento del danno, ordina al locatore il pagamento di una somma da L. 500.000 a L. 2.000.000 da devolvere al comune nel cui territorio e' sito l'immobile, ad integrazione del fondo sociale previsto dal titolo III della presente legge.
 
-##### Art. 32 - Aggiornamento del canone
+#### Art. 32 - Aggiornamento del canone
 
 Le parti possono convenire che il canone di locazione sia aggiornato annualmente su richiesta del locatore per eventuali variazioni del potere di acquisto della lira.
 
@@ -572,11 +568,11 @@ AGGIORNAMENTO (8)
 
 Il D.L. 7 febbraio 1985, n. 12, convertito, con modificazioni, dalla L. 5 aprile 1985, n. 118, ha disposto (con l'art. 1, comma 9-bis) che "Le disposizioni del decreto-legge [. . .], escluse quelle di cui all'articolo 2 dello stesso decreto, hanno effetto dal 31 gennaio 1985".
 
-##### Art. 33 - Canone delle locazioni stagionali
+#### Art. 33 - Canone delle locazioni stagionali
 
 Il canone delle locazioni stagionali puo' essere aggiornato con le modalita' di cui all'articolo 32.
 
-##### Art. 34 - Indennita' per la perdita dell'avviamento
+#### Art. 34 - Indennita' per la perdita dell'avviamento
 
 In caso di cessazione del rapporto di locazione relativo agli immobili di cui all'articolo 27, che non sia dovuta a risoluzione per inadempimento o disdetta o recesso del conduttore o a una delle procedure previste dal regio decreto 16 marzo 1942, n. 267, il conduttore ha diritto, per le attivita' indicate ai numeri 1) e 2) dello articolo 27, ad una indennita' pari a 18 mensilita' dell'ultimo canone corrisposto; per le attivita' alberghiere l'indennita' e' pari a 21 mensilita'.
 
@@ -592,17 +588,17 @@ AGGIORNAMENTO (16)
 
 La Corte costituzionale, con sentenza 30 novembre-14 dicembre 1989, n. 542 (in G.U. 1a s.s. 20/12/1989, n. 51) ha dichiarato l'illegittimita' costituzionale "dell'art. 34, della legge 27 luglio 1978, n. 392 (Disciplina delle locazioni di immobili urbani), nella parte in cui non prevede i provvedimenti della pubblica Amministrazione tra le cause di cessazione del rapporto di locazione che escludono il diritto del conduttore alla indennita' per la perdita dell'avviamento".
 
-##### Art. 35 - Limiti
+#### Art. 35 - Limiti
 
 Le disposizioni di cui all'articolo precedente non si applicano in caso di cessazione di rapporti di locazione relativi ad immobili utilizzati per lo svolgimento di attivita' che non comportino contatti diretti con il pubblico degli utenti e dei consumatori nonche' destinati all'esercizio di attivita' professionali, ad attivita' di carattere transitorio, ed agli immobili complementari o interni a stazioni ferroviarie, porti, aeroporti, aree di servizio stradali o autostradali, alberghi e villaggi turistici.
 
-##### Art. 36 - Sublocazione e cessione del contratto di locazione
+#### Art. 36 - Sublocazione e cessione del contratto di locazione
 
 Il conduttore puo' sublocare l'immobile o cedere il contratto di locazione anche senza il consenso del locatore, purche' venga insieme ceduta o locata l'azienda, dandone comunicazione al locatore mediante lettera raccomandata con avviso di ricevimento. Il locatore puo' opporsi, per gravi motivi, entro trenta giorni dal ricevimento della comunicazione. Nel caso di cessione il locatore, se non ha liberato il cedente, puo' agire contro il medesimo qualora il cessionario non adempia le obbligazioni assunte.
 
 Le indennita' previste dall'articolo 34 sono liquidate a favore di colui che risulta conduttore al momento della cessazione effettiva della locazione.
 
-##### Art. 37 - Successione nel contratto
+#### Art. 37 - Successione nel contratto
 
 In caso di morte del conduttore, gli succedono nel contratto coloro che, per successione o per precedente rapporto risultante da atto di data certa anteriore alla apertura della successione, hanno diritto a continuarne l'attivita'.
 
@@ -612,7 +608,7 @@ Se l'immobile e' adibito all'uso di piu' professionisti, artigiani o commerciant
 
 Nelle ipotesi di recesso del titolare del contratto, succedono nello stesso gli altri professionisti, artigiani o commercianti. In tal caso il locatore puo' opporsi alla successione nel contratto, per gravi motivi, con le modalita' di cui all'articolo precedente.
 
-##### Art. 38 - Diritto di prelazione
+#### Art. 38 - Diritto di prelazione
 
 Nel caso in cui il locatore intenda trasferire a titolo oneroso l'immobile locato, deve darne comunicazione al conduttore con atto notificato a mezzo di ufficiale giudiziario.
 
@@ -636,7 +632,7 @@ AGGIORNAMENTO (21)
 
 Il D.L. 18 gennaio 1992, n. 9, convertito, con modificazioni, dalla L. 28 febbraio 1992, n. 217 ha disposto (con l'art. 10 comma 2) che "gli immobili acquistati o realizzati in attuazione dei piani di investimento di cui al comma 1 sono concessi in locazione alle amministrazioni destinatarie. In caso di successiva vendita il termine di sessanta giorni per l'esercizio del diritto di prelazione, stabilito dall'articolo 38, terzo comma, della legge 27 luglio 1978, n. 392, e' elevato a centottanta giorni".
 
-##### Art. 39 - Diritto di riscatto
+#### Art. 39 - Diritto di riscatto
 
 Qualora il proprietario non provveda alla notificazione di cui all'articolo precedente, o il corrispettivo indicato sia superiore a quello risultante dall'atto di trasferimento a titolo oneroso dell'immobile, l'avente diritto alla prelazione puo', entro sei mesi dalla trascrizione del contratto, riscattare l'immobile dall'acquirente e da ogni altro successivo avente causa.
 
@@ -644,7 +640,7 @@ Ove sia stato esercitato il diritto di riscatto, il versamento del prezzo deve e
 
 Se per qualsiasi motivo, l'acquirente o successivo avente causa faccia opposizione al riscatto, il termine di tre mesi decorre dal giorno del passaggio in giudicato della sentenza che definisce il giudizio.
 
-##### Art. 40 - Diritto di prelazione in caso di nuova locazione
+#### Art. 40 - Diritto di prelazione in caso di nuova locazione
 
 Il locatore che intende locare a terzi l'immobile, alla scadenza del contratto rinnovato ai sensi dell'articolo 28, deve comunicare le offerte al conduttore, mediante raccomandata con avviso di ricevimento, almeno sessanta giorni prima della scadenza.
 
@@ -654,13 +650,13 @@ Il conduttore ha diritto di prelazione se, nelle forme predette ed entro trenta 
 
 Egli conserva tale diritto anche nel caso in cui il contratto tra il locatore e il nuovo conduttore sia sciolto entro un anno, ovvero quando il locatore abbia ottenuto il rilascio dell'immobile non intendendo locarlo a terzi, e, viceversa, lo abbia concesso in locazione entro i sei mesi successivi.
 
-##### Art. 41 - Norme applicabili
+#### Art. 41 - Norme applicabili
 
 Ai contratti previsti nell'articolo 27 si applicano le disposizioni degli articoli da 7 a 11.
 
 Le disposizioni di cui agli articoli 38, 39 e 40 non si applicano ai rapporti di locazione di cui all'articolo 35.
 
-##### Art. 42 - Destinazione degli immobili a particolari attivita'
+#### Art. 42 - Destinazione degli immobili a particolari attivita'
 
 I contratti di locazione e sublocazione di immobili urbani adibiti ad attivita' ricreative, assistenziali, culturali e scolastiche, nonche' a sede di partiti o di sindacati, e quelli stipulati dallo Stato o da altri enti pubblici territoriali in qualita' di conduttori, hanno la durata di cui al primo comma dell'articolo 27.
 
@@ -682,25 +678,9 @@ c) non superiore al 50 per cento per i contratti stipulati dopo il 31 dicembre 1
 
 Le disposizioni del presente articolo si applicano anche ai contratti di cui all'articolo 42 della legge 27 luglio 1978, n. 392".
 
-## Capo III - DISPOSIZIONI PROCESSUALI
+### Capo III - DISPOSIZIONI PROCESSUALI
 
-##### Art. 43
-
-ARTICOLO ABROGATO DALLA L. 26 NOVEMBRE 1990, N. 353. (18) ((19))
-
----------------
-
-AGGIORNAMENTO (18)
-
-La L. 26 novembre 1990, n. 353 come modificata dalla L. 4 dicembre 1992, n. 477 ha disposto (con l'art. 89 commi 3 e 4) che le modifiche introdotte all'01/01/1992 decorrono a partire dal 02/01/1994.
-
----------------
-
-AGGIORNAMENTO (19)
-
-La L. 26 novembre 1990, n. 353 come modificata dal D.L. 7 ottobre 1994, n. 571, convertito con modificazioni dalla L. 6 dicembre 1994, n. 673, ha disposto (con l'art. 89 commi 3 e 4) che le modifiche introdotte al 01/01/1992 decorrono a partire dal 30/04/1995.
-
-##### Art. 44
+#### Art. 43
 
 ARTICOLO ABROGATO DALLA L. 26 NOVEMBRE 1990, N. 353. (18) ((19))
 
@@ -716,7 +696,23 @@ AGGIORNAMENTO (19)
 
 La L. 26 novembre 1990, n. 353 come modificata dal D.L. 7 ottobre 1994, n. 571, convertito con modificazioni dalla L. 6 dicembre 1994, n. 673, ha disposto (con l'art. 89 commi 3 e 4) che le modifiche introdotte al 01/01/1992 decorrono a partire dal 30/04/1995.
 
-##### Art. 45 - Ricorso al giudice
+#### Art. 44
+
+ARTICOLO ABROGATO DALLA L. 26 NOVEMBRE 1990, N. 353. (18) ((19))
+
+---------------
+
+AGGIORNAMENTO (18)
+
+La L. 26 novembre 1990, n. 353 come modificata dalla L. 4 dicembre 1992, n. 477 ha disposto (con l'art. 89 commi 3 e 4) che le modifiche introdotte all'01/01/1992 decorrono a partire dal 02/01/1994.
+
+---------------
+
+AGGIORNAMENTO (19)
+
+La L. 26 novembre 1990, n. 353 come modificata dal D.L. 7 ottobre 1994, n. 571, convertito con modificazioni dalla L. 6 dicembre 1994, n. 673, ha disposto (con l'art. 89 commi 3 e 4) che le modifiche introdotte al 01/01/1992 decorrono a partire dal 30/04/1995.
+
+#### Art. 45 - Ricorso al giudice
 
 COMMA ABROGATO DALLA L. 26 NOVEMBRE 1990, N. 353. (18) ((19))
 
@@ -742,7 +738,7 @@ AGGIORNAMENTO (19)
 
 La L. 26 novembre 1990, n. 353 come modificata dal D.L. 7 ottobre 1994, n. 571, convertito con modificazioni dalla L. 6 dicembre 1994, n. 673, ha disposto (con l'art. 89 commi 3 e 4) che le modifiche introdotte al 01/01/1992 decorrono a partire dal 30/04/1995.
 
-##### Art. 46
+#### Art. 46
 
 ARTICOLO ABROGATO DALLA L. 26 NOVEMBRE 1990, N. 353. (18) ((19))
 
@@ -758,7 +754,7 @@ AGGIORNAMENTO (19)
 
 La L. 26 novembre 1990, n. 353 come modificata dal D.L. 7 ottobre 1994, n. 571, convertito con modificazioni dalla L. 6 dicembre 1994, n. 673, ha disposto (con l'art. 89 commi 3 e 4) che le modifiche introdotte al 01/01/1992 decorrono a partire dal 30/04/1995.
 
-##### Art. 47
+#### Art. 47
 
 ARTICOLO ABROGATO DALLA L. 26 NOVEMBRE 1990, N. 353. (18)((19))
 
@@ -774,7 +770,7 @@ AGGIORNAMENTO (19)
 
 La L. 26 novembre 1990, n. 353 come modificata dal D.L. 7 ottobre 1994, n. 571, convertito con modificazioni dalla L. 6 dicembre 1994, n. 673, ha disposto (con l'art. 89 commi 3 e 4) che le modifiche introdotte al 01/01/1992 decorrono a partire dal 30/04/1995.
 
-##### Art. 48
+#### Art. 48
 
 ARTICOLO ABROGATO DALLA L. 26 NOVEMBRE 1990, N. 353. (18) ((19))
 
@@ -790,7 +786,7 @@ AGGIORNAMENTO (19)
 
 La L. 26 novembre 1990, n. 353 come modificata dal D.L. 7 ottobre 1994, n. 571, convertito con modificazioni dalla L. 6 dicembre 1994, n. 673, ha disposto (con l'art. 89 commi 3 e 4) che le modifiche introdotte al 01/01/1992 decorrono a partire dal 30/04/1995.
 
-##### Art. 49
+#### Art. 49
 
 ARTICOLO ABROGATO DALLA L. 26 NOVEMBRE 1990, N. 353. (18) ((19))
 
@@ -806,7 +802,7 @@ AGGIORNAMENTO (19)
 
 La L. 26 novembre 1990, n. 353 come modificata dal D.L. 7 ottobre 1994, n. 571, convertito con modificazioni dalla L. 6 dicembre 1994, n. 673, ha disposto (con l'art. 89 commi 3 e 4) che le modifiche introdotte al 01/01/1992 decorrono a partire dal 30/04/1995.
 
-##### Art. 50
+#### Art. 50
 
 ARTICOLO ABROGATO DALLA L. 26 NOVEMBRE 1990, N. 353. (18) ((19))
 
@@ -822,7 +818,7 @@ AGGIORNAMENTO (19)
 
 La L. 26 novembre 1990, n. 353 come modificata dal D.L. 7 ottobre 1994, n. 571, convertito con modificazioni dalla L. 6 dicembre 1994, n. 673, ha disposto (con l'art. 89 commi 3 e 4) che le modifiche introdotte al 01/01/1992 decorrono a partire dal 30/04/1995.
 
-##### Art. 51
+#### Art. 51
 
 ARTICOLO ABROGATO DALLA L. 26 NOVEMBRE 1990, N. 353). (18) ((19))
 
@@ -838,7 +834,7 @@ AGGIORNAMENTO (19)
 
 La L. 26 novembre 1990, n. 353 come modificata dal D.L. 7 ottobre 1994, n. 571, convertito con modificazioni dalla L. 6 dicembre 1994, n. 673, ha disposto (con l'art. 89 commi 3 e 4) che le modifiche introdotte al 01/01/1992 decorrono a partire dal 30/04/1995.
 
-##### Art. 52
+#### Art. 52
 
 ARTICOLO ABROGATO DALLA L. 26 NOVEMBRE 1990, N. 353. (18) ((19))
 
@@ -854,7 +850,7 @@ AGGIORNAMENTO (19)
 
 La L. 26 novembre 1990, n. 353 come modificata dal D.L. 7 ottobre 1994, n. 571, convertito con modificazioni dalla L. 6 dicembre 1994, n. 673, ha disposto (con l'art. 89 commi 3 e 4) che le modifiche introdotte al 01/01/1992 decorrono a partire dal 30/04/1995.
 
-##### Art. 53
+#### Art. 53
 
 ARTICOLO ABROGATO DALLA L. 26 NOVEMBRE 1990, N. 353. (18) ((19))
 
@@ -870,7 +866,7 @@ AGGIORNAMENTO (19)
 
 La L. 26 novembre 1990, n. 353 come modificata dal D.L. 7 ottobre 1994, n. 571, convertito con modificazioni dalla L. 6 dicembre 1994, n. 673, ha disposto (con l'art. 89 commi 3 e 4) che le modifiche introdotte al 01/01/1992 decorrono a partire dal 30/04/1995.
 
-##### Art. 54 - Clausola compromissoria
+#### Art. 54 - Clausola compromissoria
 
 E' nulla la clausola con la quale le parti stabiliscono che le controversie relative alla determinazione del canone siano decise da arbitri. ((25))
 
@@ -880,7 +876,7 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-##### Art. 55 - Termine per il pagamento dei canoni scaduti
+#### Art. 55 - Termine per il pagamento dei canoni scaduti
 
 La morosita' del conduttore nel pagamento dei canoni o degli oneri di cui all'articolo 5 puo' essere sanata in sede giudiziale per non piu' di tre volte nel corso di un quadriennio se il conduttore alla prima udienza versa l'importo dovuto per tutti i canoni scaduti e per gli oneri accessori maturati sino a tale data, maggiorato degli interessi legali e delle spese processuali liquidate in tale sede dal giudice.
 
@@ -892,7 +888,7 @@ La morosita' puo' essere sanata, per non piu' di quattro volte complessivamente 
 
 Il pagamento, nei termini di cui ai commi precedenti, esclude la risoluzione del contratto.
 
-##### Art. 56
+#### Art. 56
 
 (((Modalita' per il rilascio)
 
@@ -904,7 +900,7 @@ Il pagamento, nei termini di cui ai commi precedenti, esclude la risoluzione del
 
 4\. Trascorsa inutilmente la data fissata, il locatore promuove l'esecuzione ai sensi degli articoli 605 e seguenti del codice di procedura civile)).
 
-##### Art. 57
+#### Art. 57
 
 (((Esenzioni fiscali ed onorari professionali)
 
@@ -914,11 +910,9 @@ E' abrogata ogni altra disposizione incompatibile con la presente legge)).
 
 ## TITOLO II - DISCIPLINA TRANSITORIA
 
-### Capo I
+### Capo I - CONTRATTI DI LOCAZIONE DI IMMOBILI ADIBITI AD USO DI ABITAZIONE
 
-#### CONTRATTI DI LOCAZIONE DI IMMOBILI ADIBITI AD USO DI ABITAZIONE
-
-##### Art. 58 - Durata dei contratti in corso soggetti a proroga
+#### Art. 58 - Durata dei contratti in corso soggetti a proroga
 
 I contratti di locazione e sublocazione di immobili urbani adibiti ad uso di abitazione e soggetti a proroga secondo la legislazione vigente si considerano prorogati ed hanno la durata prevista nell'articolo 1 con le seguenti decorrenze:
 
@@ -940,7 +934,7 @@ AGGIORNAMENTO (3)
 
 La Corte costituzionale, con sentenza 15-28 luglio 1983, n. 250 (in G.U. 1a s.s. 03/08/1983, n. 212) ha dichiarato l'illegittimita' costituzionale "del combinato disposto degli artt. 58, 59 nn. 2, 3, 6 e 8 nonche' 65 della legge 27 luglio 1978 n. 392, nella parte in cui esclude il diritto di recesso del locatore, per i motivi indicati nel cit. art. 59 nn. 2, 3, 6 e 8, dai contratti in corso alla data del 30 luglio 1978 e non soggetti a proroga". Ha inoltre dichiarato, "in applicazione dell'art. 27 l. 11 marzo 1953 n. 87, l'illegittimita' costituzionale del combinato disposto degli artt. 58, 59 nn. 4, 5 e 7 nonche' 65 della legge 27 luglio 1978 n. 392, nella parte in cui esclude il diritto di recesso del locatore, per i motivi indicati nel cit art. 59 nn. 4, 5 e 7, dai contratfi in corso alla data del 30 luglio 1978 e non soggetti a proroga".
 
-##### Art. 59 - Recesso del locatore
+#### Art. 59 - Recesso del locatore
 
 Nei casi di cui all'articolo precedente il locatore puo' recedere in ogni momento dal contratto dandone comunicazione al conduttore mediante lettera raccomandata e con un preavviso di almeno sei mesi:
 
@@ -976,7 +970,7 @@ AGGIORNAMENTO (4)
 
 La Corte costituzionale, con sentenza 15-28 luglio 1983, n. 250 (in G.U. 1a s.s. 03/08/1983, n. 212) ha dichiarato l'illegittimita' costituzionale "del combinato disposto degli artt. 58, 59 nn. 2, 3, 6 e 8 nonche' 65 della legge 27 luglio 1978 n. 392, nella parte in cui esclude il diritto di recesso del locatore, per i motivi indicati nel cit. art. 59 nn. 2, 3, 6 e 8, dai contratti in corso alla data del 30 luglio 1978 e non soggetti a proroga". Ha inoltre dichiarato, "in applicazione dell'art. 27 l. 11 marzo 1953 n. 87, l'illegittimita' costituzionale del combinato disposto degli artt. 58, 59 nn. 4, 5 e 7 nonche' 65 della legge 27 luglio 1978 n. 392, nella parte in cui esclude il diritto di recesso del locatore, per i motivi indicati nel cit art. 59 nn. 4, 5 e 7, dai contratfi in corso alla data del 30 luglio 1978 e non soggetti a proroga".
 
-##### Art. 60 - Ripristino del rapporto e risarcimento del danno
+#### Art. 60 - Ripristino del rapporto e risarcimento del danno
 
 Il provvedimento che dispone il rilascio dell'immobile in conseguenza dell'esercizio da parte del locatore del diritto di recesso, perde efficacia se il locatore, nel termine di sei mesi da quando ha riacquistato la disponibilita' dell'immobile, non lo adibisca all'uso per il quale aveva agito ovvero, nei casi di cui ai numeri 3), 4) e 5) dell'articolo 59, non inizi, nel suddetto termine, i lavori per i quali e' stata rilasciata licenza o concessione.
 
@@ -990,7 +984,7 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-##### Art. 61 - Acquirente dell'immobile locato
+#### Art. 61 - Acquirente dell'immobile locato
 
 La facolta' di recesso nel caso previsto dal n. 1) dell'articolo 59 non puo' essere esercitata da chi ha acquistato l'immobile per atto tra vivi finche' non siano decorsi almeno due anni dalla data dell'acquisto.
 
@@ -1004,7 +998,7 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-##### Art. 62 - Canone dei contratti soggetti a proroga
+#### Art. 62 - Canone dei contratti soggetti a proroga
 
 Il canone di cui agli articoli 12 e 24 si applica ai contratti previsti nell'articolo 58 dall'inizio del sesto anno a decorrere dalla entrata in vigore dalla presente legge ed il canone e' adeguato in relazione all'eventuale mutamento degli elementi di cui agli articoli 13 e 15.
 
@@ -1022,7 +1016,7 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-##### Art. 63 - Aggiornamento del canone dei contratti in corso soggetti a proroga
+#### Art. 63 - Aggiornamento del canone dei contratti in corso soggetti a proroga
 
 Per i primi due anni a decorrere dalla entrata in vigore della presente legge il canone di locazione relativo ai contratti previsti nell'articolo 58 non e' aggiornato per gli effetti di cui all'articolo 24.
 
@@ -1046,7 +1040,7 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-##### Art. 64 - Particolari contratti soggetti a proroga
+#### Art. 64 - Particolari contratti soggetti a proroga
 
 Ai contratti di locazione di cui all'articolo 26, comma primo, lettera d) e comma secondo, soggetti a proroga secondo la legislazione vigente, si applicano per la durata le disposizioni dell'articolo 58.
 
@@ -1058,7 +1052,7 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-##### Art. 65 - Contratti in corso non soggetti a proroga
+#### Art. 65 - Contratti in corso non soggetti a proroga
 
 Le disposizioni degli articoli 1 e 3 si applicano anche ai contratti in corso alla data di entrata in vigore della presente legge e non soggetti a proroga, detraendosi, per la determinazione della durata prevista all'articolo 1, il tempo gia' trascorso dall'inizio della locazione o, in caso di intervenuto rinnovo contrattuale, dalla data di esso.
 
@@ -1092,7 +1086,7 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-##### Art. 66 - Oneri accessori conglobati nel canone
+#### Art. 66 - Oneri accessori conglobati nel canone
 
 Gli oneri accessori che, nei rapporti in corso, siano stati posti a carico del conduttore e conglobati nel canone, non possono essere computati in misura superiore al 10 per cento del canone pattuito qualora il contraente interessato non ne provi l'importo effettivo. ((25))
 
@@ -1102,11 +1096,9 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-## Capo II - CONTRATTI DI LOCAZIONE DI IMMOBILI ADIBITI AD USO DIVERSO DA QUELLO
+### Capo II - CONTRATTI DI LOCAZIONE DI IMMOBILI ADIBITI AD USO DIVERSO DA QUELLO DI ABITAZIONE
 
-### DI ABITAZIONE
-
-##### Art. 67 - Contratti in corso soggetti a proroga
+#### Art. 67 - Contratti in corso soggetti a proroga
 
 I contratti di locazione di cui all'articolo 27 in corso al momento dell'entrata in vigore della presente legge e soggetti a proroga secondo la legislazione vigente si considerano prorogati ed hanno la seguente durata:
 
@@ -1150,7 +1142,7 @@ Il D.L. 7 febbraio 1985, n. 12, convertito, con modificazioni, dalla L. 5 aprile
 
 Ha inoltre disposto (con l'art. 1, comma 9-bis) che "Le disposizioni del decreto-legge [. . .], escluse quelle di cui all'articolo 2 dello stesso decreto, hanno effetto dal 31 gennaio 1985".
 
-##### Art. 68 - Aumenti del canone
+#### Art. 68 - Aumenti del canone
 
 Nei contratti di locazione o sublocazione di cui al precedente articolo il canone corrisposto dal conduttore, calcolato al netto degli oneri accessori, puo' essere a richiesta del locatore, aumentato a decorrere dal primo giorno del mese successivo a quello di entrata in vigore della presente legge per il restante periodo di durata del contratto, nelle misure seguenti:
 
@@ -1160,7 +1152,7 @@ Nei contratti di locazione o sublocazione di cui al precedente articolo il canon
 
 3\) non superiore al 5 per cento all'anno per i contratti stipulati dopo il 31 dicembre 1973.
 
-##### Art. 69 - Diritto di prelazione in caso di nuova locazione e indennita' per l'avviamento commerciale
+#### Art. 69 - Diritto di prelazione in caso di nuova locazione e indennita' per l'avviamento commerciale
 
 Nei contratti di locazione di immobili adibiti ad uso diverso da quello di abitazione, di cui agli articoli 67 e 71 della presente legge, il locatore comunica, mediante raccomandata con avviso di ricevimento da inviarsi entro il 28 febbraio 1987, se ed a quali condizioni intende proseguire la locazione ovvero le condizioni offerte da terzi per la locazione dell'immobile.
 
@@ -1222,11 +1214,11 @@ AGGIORNAMENTO (22)
 
 La Corte costituzionale, con sentenza 20 maggio-3 giugno 1992, n. 242 (in G.U. 1a s.s. 04/06/1992, n. 24) ha dichiarato l'illegittimita' costituzionale "dell'art. 69 della legge 27 luglio 1978, n. 392 (Disciplina delle locazioni di immobili urbani) nella parte in cui non prevede che l'obbligo del locatore di corrispondere al conduttore la indennita' per l'avviamento commerciale non ricorre quando causa di cessazione del rapporto e' un provvedimento della pubblica Amministrazione che esclude indefinitamente la utilizzazione economica dell'immobile".
 
-##### Art. 70 - Immobili destinati a particolari attivita' soggetti a proroga
+#### Art. 70 - Immobili destinati a particolari attivita' soggetti a proroga
 
 Ai contratti di locazione di cui all'articolo 42 si applicano le disposizioni degli articoli 67 e 68.
 
-##### Art. 71 - Contratti in corso non soggetti a proroga
+#### Art. 71 - Contratti in corso non soggetti a proroga
 
 Le disposizioni degli articoli 27 e 42, primo comma, si applicano anche ai contratti in corso al momento dell'entrata in vigore della presente legge e non soggetti a proroga legale, detraendosi, per la determinazione della durata prevista in detta disposizione, il periodo di locazione gia' trascorso dall'inizio della locazione o, in caso di intervenuto rinnovo contrattuale, dalla data di esso.
 
@@ -1236,11 +1228,11 @@ Le disposizioni di cui ai commi precedenti si applicano anche ai contatti di cui
 
 Il canone potra' essere aggiornato annualmente su richiesta del locatore dal giorno della scadenza contrattualmente prevista, in base al 75 per cento della variazione accertata dall'ISTAT, dell'indice dei prezzi al consumo per le famiglie di operai ed impiegati verificatasi nell'anno precedente.
 
-##### Art. 72 - Mutamento della destinazione
+#### Art. 72 - Mutamento della destinazione
 
 I nuovi contratti di locazione di immobili il cui uso venga mutato da quello preesistente di abitazione non possono prevede, per un periodo di quattro anni dalla data di entrata in vigore della presente legge, un canone superiore a quello di cui agli articoli 12 e 24, tranne che siano intervenute radicali trasformazioni dell'immobile stesso autorizzate ai sensi delle vigenti leggi.
 
-##### Art. 73 - Norme applicabili
+#### Art. 73 - Norme applicabili
 
 Per i contratti previsti negli articoli 67, 70 e, ferme restando le scadenze convenzionali, nell'articolo 71 il locatore puo' recedere in base ai motivi di cui all'articolo 29 e con il preavviso di cui all'articolo 59. Nei casi previsti dalle lettere a), b) e dall'ultimo periodo del secondo comma dell'articolo 29 tale facolta' e' riconosciuta soltanto ove ricorra la necessita' del locatore o del coniuge o dei parenti entro il secondo grado in linea retta, verificatasi dopo la costituzione del rapporto locatizio. Si applicano le disposizioni degli articoli 30 e 31 e degli articoli da 35 a 39 nonche' quelle dell'articolo 69, settimo, ottavo e nono comma. (5) ((11))
 
@@ -1256,15 +1248,15 @@ AGGIORNAMENTO (11)
 
 La Corte costituzionale, con sentenza 10-18 dicembre 1987, n. 562 (in G.U. 1a s.s. 23/12/1987, n. 54) ha dichiarato l'illegittimita' costituzionale "dell'art. 73 della legge 27 luglio 1978, n. 392 ("Disciplina delle locazioni di immobili urbani"), nel testo previgente alla modifica introdotta con la legge 31 marzo 1979, n. 93, nella parte in cui non richiama espressamente l'obbligo di corrispondere l'indennita' per la perdita dell'avviamento commerciale di cui all'art. 69, settimo, ottavo e nono comma, della legge stessa nel testo originario".
 
-## Capo III - DISPOSIZIONI PROCESSUALI
+### Capo III - DISPOSIZIONI PROCESSUALI
 
-##### Art. 74 - Rinvio
+#### Art. 74 - Rinvio
 
 Le disposizioni degli articoli da 43 a 57 sono applicabili alle locazioni previste nei capi I e II del presente titolo.
 
 ## TITOLO III - FONDO SOCIALE
 
-##### Art. 75 - Istituzione del fondo sociale
+#### Art. 75 - Istituzione del fondo sociale
 
 Presso il Ministero del tesoro e' istituito un fondo sociale per l'integrazione dei canoni di locazione per i conduttori meno abbienti.
 
@@ -1278,7 +1270,7 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-##### Art. 76 - Ripartizione del fondo
+#### Art. 76 - Ripartizione del fondo
 
 Le regioni, con provvedimento del consiglio regionale, decidono entro un mese dalla ripartizione dei fondi, le modalita' di distribuzione tra i vari comuni tenendo conto delle esigenze esistenti in ciascuno di essi. Le somme cosi' ripartite devono servire a concorrere al pagamento degli aumenti del canone di locazione per i conduttori meno abbienti.
 
@@ -1296,7 +1288,7 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-##### Art. 77 - Integrazione del canone
+#### Art. 77 - Integrazione del canone
 
 L'integrazione del canone di locazione consistera' nella corresponsione di un contributo annuo non superiore all'80% per cento dell'aumento del canone di locazione conseguente all'applicazione dell'equo canone, secondo l'entita' e le modalita' definite dalla presente legge.
 
@@ -1310,7 +1302,7 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-##### Art. 78 - Copertura finanziaria
+#### Art. 78 - Copertura finanziaria
 
 La spesa di lire 240 miliardi derivante dall'applicazione del presente titolo sara' iscritta nello stato di previsione della spesa del Ministero del tesoro in ragione di lire 15 miliardi nell'anno 1978, di lire 25 miliardi nell'anno 1979, di lire 35 miliardi nell'anno 1980, di lire 45 miliardi nell'anno 1981, di lire 55 miliardi nell'anno 1982 e di lire 65 miliardi nell'anno 1983.
 
@@ -1326,7 +1318,7 @@ La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione 
 
 ## TITOLO IV - DISPOSIZIONI FINALI
 
-##### Art. 79 - Patti contrari alla legge
+#### Art. 79 - Patti contrari alla legge
 
 E' nulla ogni pattuizione diretta a limitare la durata legale del contratto o ad attribuire al locatore un canone maggiore rispetto a quello previsto dagli articoli precedenti ovvero ad attribuirgli altro vantaggio in contrasto con le disposizioni della presente legge.
 
@@ -1342,7 +1334,7 @@ AGGIORNAMENTO (25)
 
 La L. 9 dicembre 1998, n. 431 ha disposto (con l'art. 14 comma 4) l'abrogazione del presente articolo "limitatamente alle locazioni abitative".
 
-##### Art. 80 - Uso diverso da quello pattuito
+#### Art. 80 - Uso diverso da quello pattuito
 
 Se il conduttore adibisce l'immobile ad un uso diverso da quello pattuito, il locatore puo' chiedere la risoluzione del contratto entro tre mesi dal momento in cui ne ha avuto conoscenza e comunque entro un anno dal mutamento di destinazione. ((13))
 
@@ -1356,23 +1348,23 @@ AGGIORNAMENTO (13)
 
 La Corte costituzionale, con sentenza 10-18 febbraio 1988, n. 185 (in G.U. 1a s.s. 24/02/1988, n. 8) ha dichiarato l'illegittimita' costituzionale "dell'art. 80, primo comma, della legge 27 luglio 1978, n. 392 ("Disciplina delle locazioni di immobili urbani"), nella parte in cui dispone "e comunque entro un anno dal mutamento di destinazione"".
 
-##### Art. 81 - Pubblicazione dei dati ISTAT nella Gazzetta Ufficiale
+#### Art. 81 - Pubblicazione dei dati ISTAT nella Gazzetta Ufficiale
 
 Le variazioni dell'indice dei prezzi al consumo per le famiglie di operai e impiegati accertate dall'ISTAT sono pubblicate nella Gazzetta Ufficiale della Repubblica italiana.
 
-##### Art. 82 - Giudizi in corso
+#### Art. 82 - Giudizi in corso
 
 Ai giudizi in corso al momento dell'entrata in vigore della presente legge continuano ad applicarsi ad ogni effetto le leggi precedenti.
 
-##### Art. 83
+#### Art. 83
 
 ((ARTICOLO ABROGATO DALLA L. 9 DICEMBRE 1998, N. 431)).
 
-##### Art. 84 - Abrogazione
+#### Art. 84 - Abrogazione
 
 Sono abrogate tutte le disposizioni incompatibili con la presente legge.
 
-##### Art. 85 - Entrata in vigore
+#### Art. 85 - Entrata in vigore
 
 La presente legge entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale.
 

@@ -25,11 +25,11 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il Presidente della Repubblica, e' autorizzato a ratificare l'Accordo tra l'Italia e la Svizzera relativo all'emigrazione dei lavoratori italiani in Svizzera, con Protocollo finale e Dichiarazioni comuni, concluso a Roma il 10 agosto 1964.
 
-### Art. 2
+## Art. 2
 
 Piena ed intera esecuzione e' data all'Accordo di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 23 dell'Accordo stesso.
 
@@ -73,7 +73,7 @@ dell'industria, delle arti e mestieri e del lavoro;
 
 i quali, dopo essersi scambiati i loro pieni poteri, trovati in buona e debita forma, hanno concordato le disposizioni seguenti:
 
-### Articolo 1
+## Articolo 1
 
 1\. Il presente Accordo si applica ai lavoratori italiani in
 
@@ -81,7 +81,7 @@ Svizzera, salve restando le disposizioni particolari relative ai frontalieri.
 
 ## II. - RECLUTAMENTO IN ITALIA
 
-### Articolo 2
+## Articolo 2
 
 Accettazione delle richieste
 
@@ -95,7 +95,7 @@ pubblica svizzere abilitate ad esercitare il collocamento in virtu' della legisl
 
 Svizzera in occasione del reclutamento di lavoratori disposti ad emigrare.
 
-### Articolo 3
+## Articolo 3
 
 Richieste numeriche
 
@@ -121,13 +121,13 @@ prescelti i contratti di lavoro vistati dall'Ambasciata oppure dal Consolato d'I
 
 seguito alla sua assunzione, oppure sia impedito di recarsi in Svizzera, le autorita' italiane si adopereranno per presentare senza indugio la candidatura di un altro lavoratore che abbia le attitudini desiderate.
 
-### Articolo 4
+## Articolo 4
 
 Richieste nominative
 
 Il datore di lavoro che desidera assumere in Italia un lavoratore nominativamente indicato, gli fara' pervenire un contratto di lavoro vistato dal Consolato, unitamente all'assicurazione di permesso di dimora rilasciata dalla competente polizia cantonale degli stranieri.
 
-### Articolo 5
+## Articolo 5
 
 Contratti di lavoro
 
@@ -137,7 +137,7 @@ modulo il cui testo e le cui clausole saranno stabiliti dalle autorita' italiane
 
 Per ogni ulteriore modifica verra' seguita la stessa procedura.
 
-### Articolo 6
+## Articolo 6
 
 Validita' del visto
 
@@ -153,7 +153,7 @@ stagionali i quali, dopo aver lasciato la Svizzera alla fine della stagione muni
 
 la validita' del loro permesso di dimora, si assenteranno temporaneamente dalla Svizzera.
 
-### Articolo 7
+## Articolo 7
 
 Emolumento per il visto
 
@@ -171,7 +171,7 @@ dovra' essere dedotta dal salario del lavoratore.
 
 potuto ottenere la manodopera richiesta avra' diritto al rimborso della somma versata. Il rimborso non verra' accordato quando si tratti di una richiesta nominativa rimasta senza esito per il fatto che il lavoratore richiesto non abbia potuto rispondere alla chiamata del datore di lavoro per colpa di quest'ultimo.
 
-### Articolo 8
+## Articolo 8
 
 Rilascio dei passaporti
 
@@ -179,7 +179,7 @@ I lavoratori italiani reclutati in Italia su richiesta numerica o nominativa ott
 
 ## III. - RIMBORSO DELLE SPESE DI VIAGGIO
 
-### Articolo 9
+## Articolo 9
 
 1\. Il datore di lavoro rimborsera' le spese di viaggio al
 
@@ -191,7 +191,7 @@ sostenute dalle autorita' italiane, il datore di lavoro si liberera' dall'obblig
 
 ## IV. - AMMISSIONE IN SVIZZERA
 
-### Articolo 10
+## Articolo 10
 
 Condizioni di ingresso e di soggiorno
 
@@ -201,7 +201,7 @@ soggiorno in Svizzera sono regolati dalle disposizioni della legislazione svizze
 
 2\. Per quanto concerne il loro domicilio in Svizzera, i lavoratori italiani saranno sottoposti al regime previsto dall'art. 2, par. 2° della Dichiarazione del 5 maggio 1934.
 
-### Articolo 11
+## Articolo 11
 
 Lavoratori aventi 5 anni di soggiorno in Svizzera
 
@@ -217,7 +217,7 @@ b) otterranno in qualunque Cantone l'autorizzazione di cambiare posto di lavoro 
 
 della mano d'opera straniera per inderogabili ragioni di interesse nazionale.
 
-### Articolo 12
+## Articolo 12
 
 Lavoratori stagionali
 
@@ -233,7 +233,7 @@ qualita' di stagionale verranno detratti dai termini stabiliti per la concession
 
 della mano d'opera straniera per inderogabili ragioni di interesse nazionale.
 
-### Articolo 13
+## Articolo 13
 
 Riunione della famiglia
 
@@ -243,7 +243,7 @@ Riunione della famiglia
 
 lavoratore dovra' tuttavia disporre per la sua famiglia di un alloggio adeguato.
 
-### Articolo 14
+## Articolo 14
 
 Controllo sanitario
 
@@ -253,7 +253,7 @@ ragioni di sanita' pubblica e nello stesso interesse dei lavoratori, sara' limit
 
 ## V. - CONDIZIONI DI LAVORO E PROVVIDENZE SOCIALI
 
-### Articolo 15
+## Articolo 15
 
 Uguaglianza di trattamento e controllo delle condizioni di assunzione
 
@@ -269,7 +269,7 @@ nazionali per quanto concerne l'applicazione delle leggi sul lavoro, sulla preve
 
 nazionali, adire le autorita' amministrative o giudiziarie competenti nelle vertenze in materia di lavoro. Se una vertenza in materia di lavoro non potesse essere risolta prima della partenza del lavoratore, quest'ultimo avra' la possibilita' di farsi rappresentare davanti alle autorita' giudiziarie svizzere.
 
-### Articolo 16
+## Articolo 16
 
 Collocamento e assicurazione contro la disoccupazione
 
@@ -279,7 +279,7 @@ Collocamento e assicurazione contro la disoccupazione
 
 assicurazione contro la disoccupazione alle condizioni stabilite dalla legislazione svizzera.
 
-### Articolo 17
+## Articolo 17
 
 Sicurezza sociale
 
@@ -287,7 +287,7 @@ La sicurezza sociale dei lavoratori italiani e' regolata dalla
 
 Convenzione su tale materia, conclusa tra l'Italia e la Svizzera il 14 dicembre 1962, nonche' dagli Accordi complementari.
 
-### Articolo 18
+## Articolo 18
 
 Adattamento alle condizioni di vita
 
@@ -297,7 +297,7 @@ italiane e gli ambienti interessati, in quale modo i lavoratori italiani e le lo
 
 2\. Associazioni private potranno collaborare a questo compito, con il consenso dell'Ufficio federale.
 
-### Articolo 19
+## Articolo 19
 
 Trasferimento dei risparmi
 
@@ -307,7 +307,7 @@ risparmi in Italia nel quadro dell'Accordo monetario europeo del 5 agosto 1955.
 
 ## VI. - MODALITA' DI APPLICAZIONE
 
-### Articolo 20
+## Articolo 20
 
 Collaborazione amministrativa
 
@@ -317,7 +317,7 @@ concerto le modalita' particolari necessarie alla loro collaborazione per l'esec
 
 2\. Esse si scambieranno regolarmente tutte le informazioni atte ad assicurare tale collaborazione.
 
-### Articolo 21
+## Articolo 21
 
 Reclami
 
@@ -329,7 +329,7 @@ Queste verranno portate a conoscenza dell'Ambasciata o del
 
 Consolato.
 
-### Articolo 22
+## Articolo 22
 
 Commissione mista
 
@@ -347,7 +347,7 @@ interna e il proprio metodo di lavoro. Essa si riunira' in Svizzera oppure in It
 
 ## VII. - DISPOSIZIONI FINALI
 
-### Articolo 23
+## Articolo 23
 
 Ratifica, entrata in vigore e validita'
 
@@ -375,7 +375,7 @@ Per l'Italia: STORCHI
 
 Per la Svizzera: HOLZER
 
-### Protocollo
+## Protocollo
 
 PROTOCOLLO FINALE
 
@@ -467,7 +467,7 @@ STORCHI
 
 ---------------------------------------
 
-### Dichiarazioni comuni
+## Dichiarazioni comuni
 
 DICHIARAZIONI COMUNI
 

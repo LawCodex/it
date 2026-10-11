@@ -27,21 +27,21 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'accordo europeo che istituisce un'Associazione tra le Comunita' europee ed i loro Stati membri, da una parte, e la Repubblica di Estonia, dall'altra, con atto finale, cinque protocolli e allegati, fatto a Lussemburgo il 12 giugno 1995.
 
-##### Art. 2
+#### Art. 2
 
 1\. Piena ed intera esecuzione e' data all'accordo di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore in conformita' a quanto disposto dall'articolo 130 dell'accordo stesso.
 
-##### Art. 3
+#### Art. 3
 
 1\. All'onere derivante dall'attuazione della presente legge, valutato in lire 14 milioni annue a decorrere dal 1996, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1996-1998, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1996, all'uopo parzialmente utilizzando l'accantonamento riguardante il Ministero degli affari esteri.
 
 2\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 4
+#### Art. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -57,7 +57,7 @@ VISTO, il Guardasigilli: FLICK
 
 ## Allegati
 
-##### art. 1
+#### art. 1
 
 ACCORDO EUROPEO
 
@@ -247,19 +247,19 @@ A tal fine, l'Estonia dovra' adoperarsi per soddisfare i requisiti in materia;
 
 ## TITOLO I - PRINCIPI GENERALI
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 1\. Il rispetto dei principi democratici e dei diritti dell'uomo sancito dall'Atto finale di Helsinki e dalla Carta di Parigi per una nuova Europa, nonche' i principi dell'economia di mercato, sono alla base delle politiche interna ed estera delle Parti e costituiscono elementi fondamentali del presente accordo.
 
 2\. Le Parti ritengono fondamentale, per la futura prosperita' e stabilita' della regione, che gli Stati baltici mantengano e sviluppino la cooperazione fra di essi e moltiplichino gli sforzi per promuovere questo processo.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 Tenendo presente che i principi dell'economia di mercato sono fondamentali per la presente associazione, il Consiglio di associazione istituito a norma dell'articolo 109 esaminera' periodicamente l'applicazione dell'accordo e l'attuazione delle riforme economiche da parte dell'Estonia in base ai principi menzionati nel preambolo.
 
 ## TITOLO II - DIALOGO POLITICO
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 L'Unione europea e l'Estonia sviluppano e intensificano il dialogo politico, che accompagna e consolida il ravvicinamento tra l'Unione europea e l'Estonia, sostiene i mutamenti politici ed economici in corso in questo paese e contribuisce a istituire nuovi legami di solidarieta' e nuove forme di cooperazione tra le Parti. Il dialogo politico favorisce in particolare:
 
@@ -271,11 +271,11 @@ L'Unione europea e l'Estonia sviluppano e intensificano il dialogo politico, che
 
 \- la sicurezza e la stabilita' in Europa.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 Il dialogo politico si svolge a livello multilaterale, nelle forme e secondo le prassi concordate con i paesi associati dell'Europa centrale.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 1\. A livello ministeriale, il dialogo politico bilaterale avviene nell'ambito del Consiglio di associazione, cui spetta la responsabilita' generale di tutte le questioni che le Parti ritengono utile sottoporgli.
 
@@ -289,13 +289,13 @@ Il dialogo politico si svolge a livello multilaterale, nelle forme e secondo le 
 
 \- con qualsiasi altro mezzo che possa contribuire e consolidare, sviluppare e intensificare tale dialogo.
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 A livello parlamentare, il dialogo politico si svolge nell'ambito del Comitato parlamentare dell'associazione tra le Comunita' europee, i loro Stati membri e la Repubblica di Estonia (in appresso denominato "Comitato parlamentare").
 
 ## TITOLO III - LIBERA CIRCOLAZIONE DELLE MERCI
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 1\. All'entrata in vigore dell'accordo sul libero scambio e sulle questioni commerciali, avvenuta il 1 gennaio 1995, la Comunita' e l'Estonia istituiscono una zona di libero scambio, secondo le disposizioni del presente accordo e in conformita' con le disposizioni del GATT e dell'OMC.
 
@@ -309,57 +309,57 @@ Le successive riduzioni previste dal presente accordo devono essere applicate ai
 
 5\. La Comunita' e l'Estonia si comunicano a vicenda i rispettivi dazi di base.
 
-## CAPITOLO I - PRODOTTI INDUSTRIALI
+### CAPITOLO I - PRODOTTI INDUSTRIALI
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 1\. Le disposizioni del presente capitolo si applicano ai prodotti originari della Comunita' e dell'Estonia elencati nei capitoli 25-97 della nomenclatura combinata, fatta eccezione per i prodotti elencati nell'allegato I.
 
 2\. Gli scambi tra le Parti dei prodotti contemplati dal trattato che istituisce la Comunita' europea dell'energia atomica avvengono in conformita' delle disposizioni di detto trattato.
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 I dazi doganali e le restrizioni quantitative all'importazione nella Comunita' e le misure di effetto equivalente sono aboliti il 1° gennaio 1995 per i prodotti originari dell'Estonia.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 I dazi doganali e le restrizioni quantitative all'importazione in Estonia di prodotti originari della Comunita' e le misure d'effetto equivalente sono aboliti il 1° gennaio 1995 per i prodotti originari della Comunita'.
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 Le disposizioni relative all'abolizione dei dazi doganali all'importazione si applicano anche ai dazi doganali di carattere fiscale.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 Il 1° gennaio 1995, vengono aboliti tutti gli oneri di effetto equivalente a dazi doganali all'importazione negli scambi tra la Comunita' e l'Estonia.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 1\. Il 1° gennaio 1995, la Comunita' e l'Estonia aboliscono i dazi doganali all'esportazione e gli oneri di effetto equivalente.
 
 2\. Il 1° gennaio 1995, la Comunita' e l'Estonia aboliscono le restrizioni quantitative all'esportazione e tutte le misure di effetto equivalente.
 
-##### ARTICOLO 15
+#### ARTICOLO 15
 
 Il regime specifico per il commercio di prodotti tessili e di capi d'abbigliamento originari dell'Estonia figura nel protocollo n. 1.
 
-##### ARTICOLO 16
+#### ARTICOLO 16
 
 Le disposizioni del presente capitolo non ostano all'inserimento di una componente agricola nei dazi applicabili ai prodotti elencati nell'allegato II.
 
-## CAPITOLO II - AGRICOLTURA
+### CAPITOLO II - AGRICOLTURA
 
-##### ARTICOLO 17
+#### ARTICOLO 17
 
 1\. Le disposizioni del presente capitolo si applicano ai prodotti agricoli originari della Comunita' e dell'Estonia.
 
 2\. Per "prodotti agricoli" si intendono i prodotti elencati nei capitoli 1-24 della nomenclatura combinata e i prodotti elencati nell'allegato I, fatta pero' eccezione per i prodotti della pesca, definiti ai sensi del regolamento (CEE) n. 3759/92.
 
-##### ARTICOLO 18
+#### ARTICOLO 18
 
 Il protocollo n. 2 specifica il regime commerciale applicabile ai prodotti agricoli trasformati ivi elencati.
 
-##### ARTICOLO 19
+#### ARTICOLO 19
 
 1\. A decorrere dal 1° gennaio 1995, cessano di applicarsi restrizioni quantitative alle importazioni nella Comunita' di prodotti agricoli originari dell'Estonia e alle importazioni in Estonia di prodotti agricoli originari della Comunita'.
 
@@ -369,29 +369,29 @@ Il protocollo n. 2 specifica il regime commerciale applicabile ai prodotti agric
 
 4\. Tenendo conto del volume dei loro scambi di prodotti agricoli, della loro appartenenza a settori particolarmente sensibili, delle regole della politica agraria comune della Comunita', delle regole della politica agraria dell'Estonia, e, del ruolo dell'agricoltura nell'economia estone, la Comunita' e l'Estonia esaminano in sede di Consiglio di associazione, prodotto per prodotto e in modo ordinato e reciproco, le possibilita' di riconoscersi a vicenda ulteriori concessioni.
 
-##### ARTICOLO 20
+#### ARTICOLO 20
 
 Fatte salve altre disposizioni del presente accordo, e in particolare l'articolo 29, qualora, dato il carattere particolarmente sensibile dei mercati agricoli, le importazioni di prodotti originari di una delle Parti soggette alle concessioni riconosciute ai sensi dell'articolo 19 provochino gravi perturbazioni sui mercati dell'altra Parte, le due Parti avviano immediatamente consultazioni per trovare una soluzione adeguata. In attesa di tale soluzione, la Parte interessata puo' adottare la misure che ritiene necessarie.
 
-## CAPITOLO III - PESCA
+### CAPITOLO III - PESCA
 
-##### ARTICOLO 21
+#### ARTICOLO 21
 
 Le disposizioni del presente capitolo si applicano ai prodotti della pesca originari della Comunita' e dell'Estonia contemplati dal regolamento (CEE) n. 3759/92.
 
-##### ARTICOLO 22
+#### ARTICOLO 22
 
 1\. Le concessioni riconosciute a norma del presente accordo sono specificate nell'allegato VI.
 
 2\. Le disposizioni degli articoli 19, paragrafo 4, e 20 e 24, paragrafi 2 e 3 si applicano, mutatis mutandis, ai prodotti della pesca.
 
-## CAPITOLO IV - DISPOSIZIONI COMUNI
+### CAPITOLO IV - DISPOSIZIONI COMUNI
 
-##### ARTICOLO 23
+#### ARTICOLO 23
 
 Le disposizioni del presente titolo si applicano agli scambi tra le Parti di tutti i prodotti, salvo quanto altrimenti disposto nel presente capitolo o nei protocolli n. 1 e 2.
 
-##### ARTICOLO 24
+#### ARTICOLO 24
 
 1\. A decorrere dal 1° gennaio 1995, negli scambi tra la Comunita' e l'Estonia:
 
@@ -403,19 +403,19 @@ Le disposizioni del presente titolo si applicano agli scambi tra le Parti di tut
 
 3\. Considerato che, il 1° gennaio 1995, non erano previsti in Estonia dazi tariffari per i prodotti agricoli, qualora sia instaurato un nuovo regime tariffario per le importazioni di prodotti agricoli l'Estonia puo', in deroga al paragrafo 1 e nel quadro della sua politica agraria per la produzione interna, introdurre dazi per un numero limitato di prodotti agricoli originari della Comunita'. Tali dazi possono essere introdotti solo fino al 31 dicembre 1996 e previa consultazione del Consiglio di associazione. In questo caso, l'Estonia garantisce un considerevole margine preferenziale per i prodotti originari della Comunita'. All'occorrenza, questo periodo puo' essere prorogato di un anno con decisione del Consiglio di associazione.
 
-##### ARTICOLO 25
+#### ARTICOLO 25
 
 1\. Le Parti si astengono dall'introdurre qualsiasi misura o prassi di natura fiscale interna che istituisca, direttamente o indirettamente, discriminazioni tra i prodotti di una Parte e i prodotti simili originari del territorio dell'altra parte.
 
 2\. I prodotti esportati nel territorio di una delle Parti non possono beneficiare di un rimborso delle imposte indirette interne superiore all'ammontare delle imposte dirette o indirette cui sono stati soggetti.
 
-##### ARTICOLO 26
+#### ARTICOLO 26
 
 1\. Il presente accordo non osta al mantenimento o all'istituzione di unioni doganali, zone di libero scambio o accordi sugli scambi transfrontalieri se non nella misura in cui essi alterano le condizioni commerciali previste dal presente accordo.
 
 2\. Nell'ambito del Consiglio di associazione si tengono consultazioni tra le Parti in merito agli accordi istitutivi delle suddette unioni doganali o zone di libero scambio e, se del caso, in merito ad altre importanti questioni relative alle rispettive politiche commerciali nei confronti dei paesi terzi. Nel caso in cui un paese terzo entri a far parte della Comunita', si tengono consultazioni di questo tipo per tener conto dei reciproci interessi della Comunita' e dell'Estonia sanciti nel presente accordo.
 
-##### ARTICOLO 27
+#### ARTICOLO 27
 
 L'Estonia puo' adottare misure eccezionali di durata limitata in deroga alle disposizioni dell'articolo 11 e dell'articolo 24, paragrafo 1, primo trattino sotto forma di dazi doganali maggiorati.
 
@@ -431,11 +431,11 @@ Nessun prodotto puo' essere assoggettato a una misura di questo tipo qualora sia
 
 L'Estonia informa il Consiglio di associazione di ogni misura eccezionale che intende adottare e, a richiesta della Comunita', si tengono consultazioni nell'ambito del Consiglio di associazione sulle suddette misure e sui settori di applicazione prima di attuarle. In occasione dell'adozione di tali misure, l'Estonia fornisce al Consiglio di associazione un calendario con le date di eliminazione dei dazi doganali introdotti ai sensi del presente articolo. Il Consiglio di associazione puo' decidere un calendario diverso.
 
-##### ARTICOLO 28
+#### ARTICOLO 28
 
 Qualora una delle Parti ritenga che negli scambi con l'altra parte stiano verificandosi pratiche di dumping, nell'accezione dell'articolo VI del GATT, essa puo' adottare misure adeguate nei confronti di tali pratiche in conformita' dell'Accordo relativo all'applicazione dell'articolo VI del GATT, della relativa legislazione interna e delle condizioni e procedure di cui all'articolo 32.
 
-##### ARTICOLO 29
+#### ARTICOLO 29
 
 Qualora un prodotto venga importato in quantita' maggiorate e in condizioni tali da provocare o minacciare di provocare:
 
@@ -445,7 +445,7 @@ Qualora un prodotto venga importato in quantita' maggiorate e in condizioni tali
 
 la Parte interessata, sia essa la Comunita' o l'Estonia, puo' adottare le misure del caso alle condizioni e secondo le procedure specificate nell'articolo 32.
 
-##### ARTICOLO 30
+#### ARTICOLO 30
 
 Qualora l'osservanza delle disposizioni degli articoli 14 e 24 porti a
 
@@ -455,11 +455,11 @@ ii) una penuria grave, o la minaccia di penuria grave, di un prodotto essenziale
 
 e qualora le circostanze di cui sopra diano luogo, o possano probabilmente dar luogo a gravi difficolta' per la Parte esportatrice, quest'ultima puo' adottare le misure del caso alle condizioni e secondo le procedure specificate nell'articolo 32. Dette misure hanno carattere non discriminatorio e sono revocate quando la situazione non ne giustifica piu' il mantenimento.
 
-##### ARTICOLO 31
+#### ARTICOLO 31
 
 Gli Stati membri dell'Unione europea e l'Estonia procedono ad un progressivo riordinamento dei monopoli nazionali che presentano un carattere commerciale in modo che venga esclusa, alla fine del 1999, qualsiasi discriminazione fra i cittadini degli Stati membri per quanto riguarda le condizioni relative all'approvvigionamento e agli sbocchi. Il Consiglio di associazione e' informato delle misure adottate a tal fine.
 
-##### ARTICOLO 32
+#### ARTICOLO 32
 
 1\. Nel caso in cui la Comunita' o l'Estonia assoggettino le importazioni di prodotti tali da provocare le difficolta' di cui all'articolo 29 a una procedura amministrativa finalizzata a fornire tempestive informazioni sull'andamento dei flussi commerciali, esse ne informano l'altra parte.
 
@@ -483,25 +483,23 @@ Il Consiglio di associazione puo' adottare qualsiasi decisione necessaria per po
 
 d) Qualora circostanze eccezionali che richiedono un intervento immediato rendano impossibile un'informazione o, a seconda dei casi, un esame preventivo, la Parte interessata, sia essa la Comunita' o l'Estonia, puo' applicare immediatamente, nelle situazioni specificate negli articoli 28, 29 e 30, le misure precauzionali strettamente necessarie per far fronte alla situazione.
 
-##### ARTICOLO 33
+#### ARTICOLO 33
 
 Il protocollo n. 3 stabilisce le norme di origine per l'applicazione delle preferenze tariffarie previste nel presente accordo nonche' i metodi di cooperazione amministrativa.
 
-##### ARTICOLO 34
+#### ARTICOLO 34
 
 L'accordo lascia impregiudicati i divieti o restrizioni all'importazione, all'esportazione o al transito di merci giustificati da motivi di moralita' pubblica, di ordine pubblico o di pubblica sicurezza, di tutela della salute e della vita umana, delle persone o degli animali o di preservazione dei vegetali, di protezione del patrimonio, artistico, storico o archeologico, o di tutela della proprieta' intellettuale, industriale e commerciale o delle norme relative all'oro e all'argento. Tuttavia tali divieti o restrizioni non devono costituire un mezzo di discriminazione arbitraria ne' una restrizione dissimulata al commercio tra le Parti.
 
-##### ARTICOLO 35
+#### ARTICOLO 35
 
 Il protocollo n. 4, valido fino al 31 dicembre 1995, riporta le specifiche disposizioni da applicare agli scambi tra l'Estonia, da una parte, e la Spagna e il Portogallo, dall'altra.
 
 ## TITOLO IV - CIRCOLAZIONE DEI LAVORATORI, STABILIMENTO, PRESTAZIONE DI SERVIZI
 
-### CAPITOLO I
+### CAPITOLO I - CIRCOLAZIONE DEI LAVORATORI
 
-#### CIRCOLAZIONE DEI LAVORATORI
-
-##### ARTICOLO 36
+#### ARTICOLO 36
 
 1\. Nel rispetto delle condizioni e modalita' applicabili in ciascuno Stato membro:
 
@@ -511,7 +509,7 @@ Il protocollo n. 4, valido fino al 31 dicembre 1995, riporta le specifiche dispo
 
 2\. Nel rispetto delle condizioni e modalita' applicabili nel suo territorio, l'Estonia concede il trattamento di cui al paragrafo 1 ai lavoratori cittadini di uno Stato membro legalmente occupati sul suo territorio, nonche' ai loro coniugi e figli legalmente residenti in tale territorio.
 
-##### ARTICOLO 37
+#### ARTICOLO 37
 
 1\. Al fine di coordinare i sistemi di sicurezza sociale per i lavoratori di nazionalita' estone legalmente occupati nel territorio di uno Stato membro e per i loro familiari legalmente residenti in tale territorio, e nel rispetto delle condizioni e modalita' applicabili in ciascuno Stato membro;
 
@@ -523,17 +521,17 @@ Il protocollo n. 4, valido fino al 31 dicembre 1995, riporta le specifiche dispo
 
 2\. L'Estonia concede ai lavoratori cittadini di uno Stato membro legalmente occupati sul suo territorio e ai loro familiari legalmente residenti sul suo territorio un trattamento analogo a quello specificato al secondo e al terzo trattino del paragrafo 1.
 
-##### ARTICOLO 38
+#### ARTICOLO 38
 
 1\. Il Consiglio di associazione adotta con apposita decisione le disposizioni necessarie per il conseguimento dell'obiettivo di cui all'articolo 37.
 
 2\. Il Consiglio di associazione adotta con apposita decisione norme particolareggiate in materia di collaborazione amministrativa che diano le necessarie garanzie di gestione e di controllo per l'applicazione delle disposizioni di cui al paragrafo 1.
 
-##### ARTICOLO 39
+#### ARTICOLO 39
 
 Le disposizioni adottate dal Consiglio di associazione in conformita' dell'articolo 38 non modificano eventuali diritti o obblighi derivanti da accordi bilaterali tra l'Estonia e gli Stati membri qualora tali accordi prevedano un trattamento piu' favorevole per i cittadini dell'Estonia o degli Stati membri.
 
-##### ARTICOLO 40
+#### ARTICOLO 40
 
 1\. Tenendo conto della situazione del mercato del lavoro nello Stato membro in questione, nel rispetto della sua legislazione e delle regole in vigore in quello Stato membro in materia di mobilita' dei lavoratori:
 
@@ -543,17 +541,17 @@ Le disposizioni adottate dal Consiglio di associazione in conformita' dell'artic
 
 2\. Il Consiglio di associazione valuta l'opportunita' di concedere ulteriori facilitazioni, ivi comprese le possibilita' di accesso alla formazione professionale, in conformita' con le norme e procedure in vigore negli Stati membri e tenendo conto della situazione del mercato del lavoro degli Stati membri e della Comunita'.
 
-##### ARTICOLO 41
+#### ARTICOLO 41
 
 A decorrere dalla fine del 1999 o anche prima, se la situazione sociale ed economica dell'Estonia sara' stata largamente allineata a quella degli Stati membri e se lo consentira' la situazione occupazionale nelle Comunita', il Consiglio di associazione esaminera' altri modi per favorire la circolazione dei lavoratori e formulera' raccomandazioni in tal senso.
 
-##### ARTICOLO 42
+#### ARTICOLO 42
 
 Al fine di agevolare la ristrutturazione delle risorse di manodopera derivante dalla ristrutturazione economica in atto in Estonia, la Comunita' fornisce assistenza tecnica per l'istituzione di un adeguato sistema di sicurezza sociale in Estonia nei modi specificati all'articolo 92 del presente accordo.
 
-## CAPITOLO II - STABILIMENTO
+### CAPITOLO II - STABILIMENTO
 
-##### ARTICOLO 43
+#### ARTICOLO 43
 
 1\. La Comunita' e gli Stati membri concedono, fatta eccezione per i settori specificati nell'allegato VII:
 
@@ -571,13 +569,13 @@ ii) un trattamento non meno favorevole, per l'attivita' delle filiali e consocia
 
 iii) per lo stabilimento e l'attivita', dopo lo stabilimento, dei cittadini della Comunita', un trattamento non meno favorevole di quello concesso ai cittadini dell'Estonia o, se migliore, ai cittadini di paesi terzi.
 
-##### ARTICOLO 44
+#### ARTICOLO 44
 
 1\. Le disposizioni dell'articolo 43 non si applicano ai servizi di trasporto aereo, fluviale e marittimo.
 
 2\. Il Consiglio di associazione puo' formulare raccomandazioni per migliorare le condizioni di stabilimento e di attivita' nei settori di cui al paragrafo 1.
 
-##### ARTICOLO 45
+#### ARTICOLO 45
 
 Ai fini del presente accordo:
 
@@ -605,7 +603,7 @@ g) Per "cittadino della Comunita'" o "cittadino dell'Estonia" si intende, rispet
 
 h) Per quanto riguarda il trasporto marittimo internazionale, comprese le operazioni intermodali che implicano una tratta marittima, beneficiano delle disposizioni dei capitolo II e III i cittadini degli Stati membri o dell'Estonia stabiliti al di fuori della Comunita' e dell'Estonia e le agenzie marittime stabilite al di fuori della Comunita' o dell'Estonia e controllate da cittadini di uno Stato membro o dell'Estonia, se le loro navi sono registrate in detto Stato membro o in Estonia in conformita' delle rispettive legislazioni.
 
-##### ARTICOLO 46
+#### ARTICOLO 46
 
 1\. Fatte salve le disposizioni dell'articolo 43, fatta eccezione per i servizi finanziari di cui all'allegato VIII, ciascuna Parte puo' disciplinare lo stabilimento e l'attivita' delle societa' e dei cittadini sul territorio, sempreche' cosi' facendo non discrimini le societa' e i cittadini dell'altra parte rispetto alle sue societa' e ai suoi cittadini.
 
@@ -613,13 +611,13 @@ h) Per quanto riguarda il trasporto marittimo internazionale, comprese le operaz
 
 3\. Nessuna disposizione dell'accordo impone a una delle Parti di rilevare informazioni connesse all'attivita' e alla contabilita' di singoli clienti o informazioni riservate in possesso di organismi pubblici.
 
-##### ARTICOLO 47
+#### ARTICOLO 47
 
 1\. Le disposizioni degli articoli 43 e 46 non impediscono a una delle Parti di applicare regole particolari, per lo stabilimento e l'attivita' sul suo territorio di filiali di societa' dell'altra Parte al di fuori del territorio della prima, giustificate da differenze giuridiche o tecniche tra dette filiali e quelle di societa' stabilite sul suo territorio oppure, per i servizi finanziari, da motivi di prudenza.
 
 2\. La differenza di trattamento si limita a quanto strettamente necessario in seguito a tali differenze giuridiche o tecniche oppure, per i servizi finanziari, per motivi di prudenza.
 
-##### ARTICOLO 48
+#### ARTICOLO 48
 
 1\. Una "societa' comunitaria" o una "societa' estone" stabilita, rispettivamente, sul territorio dell'Estonia o della Comunita' ha il diritto di assumere o di far assumere da una delle sue consociate o filiali, conformemente alla legislazione in vigore nel paese di stabilimento, sul territorio dell'Estonia e della Comunita', cittadini degli Stati membri e dell'Estonia, purche' si tratti di quadri intermedi ai sensi del paragrafo 2 del presente articolo impiegati esclusivamente da societa', consociate o filiali.
 
@@ -647,11 +645,11 @@ c) Per "persona trasferita all'interno della societa'" si intende una persona fi
 
 \- la sede principale della societa' si trovi al di fuori della Comunita' e dell'Estonia e che non esistano altri rappresentanti, uffici, filiali o consociate della societa' nello Stato membro della Comunita' o in Estonia.
 
-##### ARTICOLO 49
+#### ARTICOLO 49
 
 Al fine di rendere piu' agevole per i cittadini della Comunita' e dell'Estonia l'avvio e lo svolgimento di attivita' professionali regolamentate in Estonia e nella Comunita', il Consiglio di associazione esamina le iniziative da prendere ai fini del reciproco riconoscimento delle qualifiche. Il Consiglio di associazione puo' prendere tutte le misure necessarie a tal fine.
 
-##### ARTICOLO 50
+#### ARTICOLO 50
 
 Entro la fine del 1999, l'Estonia puo' prendere misure in deroga alle disposizioni del presente capitolo per quanto riguarda lo stabilimento di societa' e cittadini comunitari qualora determinate industrie:
 
@@ -675,9 +673,9 @@ Nell'elaborare e nell'applicare le suddette misure, l'Estonia riconosce ogniqual
 
 Prima di introdurre le suddette misure, l'Estonia consulta il Consiglio di associazione; essa inoltre non le mette in vigore prima di un mese dalla notifica al Consiglio di associazione delle misure concrete da introdurre in Estonia, tranne quando il rischio di danni irreparabili imponga l'adozione di misure urgenti, nel qual caso l'Estonia consulta il Consiglio di associazione immediatamente dopo averle applicate.
 
-## CAPITOLO III - PRESTAZIONI DI SERVIZI
+### CAPITOLO III - PRESTAZIONI DI SERVIZI
 
-##### ARTICOLO 51
+#### ARTICOLO 51
 
 1\. Le Parti si impegnano, in conformita' delle seguenti disposizioni, a prendere i provvedimenti necessari per consentire progressivamente la prestazione di servizi da parte di societa' o di cittadini comunitari o estoni stabiliti in una Parte diversa da quella della persona alla quale i servizi sono destinati.
 
@@ -685,13 +683,13 @@ Prima di introdurre le suddette misure, l'Estonia consulta il Consiglio di assoc
 
 3\. Entro e non oltre otto anni dall'entrata in vigore del presente accordo, il Consiglio di associazione prende le misure necessarie per la progressiva attuazione delle disposizioni del paragrafo 1. Si tiene conto dei progressi compiuti dalle Parti per quanto riguarda il ravvicinamento delle loro leggi.
 
-##### ARTICOLO 52
+#### ARTICOLO 52
 
 1\. Le Parti si astengono da misure che rendano le condizioni per la prestazione di servizi da parte di cittadini o societa' della Comunita' e dell'Estonia stabiliti in una Parte diversa da quella del destinatario dei servizi nettamente piu' restrittive rispetto alla situazione esistente il giorno precedente all'entrata in vigore dell'accordo.
 
 2\. Se una Parte ritiene che le misure introdotte dall'altra Parte dopo la firma dell'accordo rendano la situazione, per quanto riguarda la prestazione di servizi, nettamente piu' restrittiva rispetto a quella esistente al momento della firma dell'accordo, puo' chiedere dall'altra parte di avviare consultazioni.
 
-##### ARTICOLO 53
+#### ARTICOLO 53
 
 1\. Per quanto riguarda i trasporti marittimi internazionali, le Parti si impegnano ad applicare efficacemente il principio dell'accesso senza restrizioni al mercato e ai traffici su base commerciale.
 
@@ -723,23 +721,23 @@ Ogni Parte concede, fra l'altro, un trattamento non meno favorevole di quello ri
 
 8\. Parallelamente al comune progresso nel conseguimento degli obiettivi del presente capitolo, il Consiglio di associazione esamina in che modo si possano creare le condizioni necessarie per migliorare la libera prestazione dei servizi di trasporto stradale, ferroviario, fluviale e aereo.
 
-## CAPITOLO IV - DISPOSIZIONI GENERALI
+### CAPITOLO IV - DISPOSIZIONI GENERALI
 
-##### ARTICOLO 54
+#### ARTICOLO 54
 
 1\. L'applicazione delle disposizioni del presente titolo e' soggetta alle limitazioni giustificate da motivi di ordine pubblico, di pubblica sicurezza o di pubblica sanita'.
 
 2\. Dette disposizioni non si applicano alle attivita' svolte sul territorio di una Parte e connesse, anche occasionalmente, all'esercizio dei pubblici poteri.
 
-##### ARTICOLO 55
+#### ARTICOLO 55
 
 Ai fini del presente titolo, nessuna disposizione dell'accordo impedisce alle Parti di applicare le rispettive leggi e disposizioni in materia di ingresso e soggiorno, lavoro, condizioni di lavoro e stabilimento delle persone fisiche, nonche' di prestazione dei servizi, a condizione che, cosi' facendo, esse non le applichino in modo da vanificare o compromettere i benefici spettanti all'una o all'altra in base ad una specifica disposizione dell'accordo.
 
-##### ARTICOLO 56
+#### ARTICOLO 56
 
 Le societa' controllate da e di proprieta' esclusiva di societa' o cittadini dell'Estonia oppure di proprieta' comune di societa' o cittadini della Comunita' beneficiano anch'esse delle disposizioni dei capitoli II, III E IV del presente titolo.
 
-##### ARTICOLO 57
+#### ARTICOLO 57
 
 1\. Il trattamento della nazione piu' favorita concesso a norma del presente titolo non si applica alle agevolazioni fiscali gia' concesse o che le Parti concederanno in futuro in base ad accordi volti a evitare la doppia imposizione o altre intese in materia fiscale.
 
@@ -747,25 +745,23 @@ Le societa' controllate da e di proprieta' esclusiva di societa' o cittadini del
 
 3\. Nessuna disposizione del presente titolo vieta agli Stati membri o all'Estonia di fare distinzioni, nell'applicare le pertinenti disposizioni della loro legislazione tributaria, fra contribuenti la cui situazione non e' identica, segnatamente per quanto riguarda il luogo di residenza.
 
-##### ARTICOLO 58
+#### ARTICOLO 58
 
 Le Parti adeguano progressivamente le disposizioni del presente titolo. Nel formulare raccomandazioni in tal senso, il Consiglio di associazione tiene conto dei rispettivi obblighi delle Parti a norma dell'Accordo generale sul commercio dei servizi (GATS), in particolare l'articolo V.
 
-##### ARTICOLO 59
+#### ARTICOLO 59
 
 Le disposizioni del presente accordo non vietano alle Parti di prendere le misure necessarie per impedire l'elusione, tramite le disposizioni del presente accordo, delle disposizioni relative all'accesso dei paesi terzi ai loro mercati.
 
 ## TITOLO V - PAGAMENTI, CAPITALI, CONCORRENZA E ALTRE DISPOSIZIONI DI CARATTERE ECONOMICO, RAVVICINAMENTO DELLE LEGISLAZIONI
 
-### CAPITOLO I
+### CAPITOLO I - PAGAMENTI CORRENTI E MOVIMENTI DI CAPITALE
 
-#### PAGAMENTI CORRENTI E MOVIMENTI DI CAPITALE
-
-##### ARTICOLO 60
+#### ARTICOLO 60
 
 Le Parti si impegnano ad autorizzare, in moneta liberamente convertibile secondo le disposizioni dell'articolo VIII dello statuto del Fondo monetario internazionale, qualsiasi pagamento e trasferimento sul conto corrente della bilancia dei pagamenti tra residenti della Comunita' e dell'Estonia.
 
-##### ARTICOLO 61
+#### ARTICOLO 61
 
 1\. Per quanto riguarda le operazioni sul conto capitale della bilancia dei pagamenti, a decorrere dall'entrata in vigore dell'accordo gli Stati membri e l'Estonia garantiscono la libera circolazione dei capitali relativi ad investimenti diretti effettuati in societa' costituite in conformita' delle leggi del paese ospitante e agli investimenti effettuati in conformita' delle disposizioni del titolo IV, capitolo II, nonche' la liquidazione o il rimpatrio di detti investimenti e dei profitti da essi derivanti.
 
@@ -779,15 +775,15 @@ Cio' si applica anche alla libera circolazione dei capitali relativi ai crediti 
 
 4\. Le Parti si consultano per facilitare la circolazione dei capitali tra la Comunita' e l'Estonia al fine di promuovere gli obiettivi del presente accordo.
 
-##### ARTICOLO 62
+#### ARTICOLO 62
 
 1\. Le Parti prendono misure atte a consentire la creazione delle condizioni necessarie per l'ulteriore graduale applicazione delle norme comunitarie in materia di libera circolazione dei capitali.
 
 2\. Il Consiglio di associazione esamina in che modo rendere possibile la piena applicazione delle norme comunitarie in materia di circolazione dei capitali.
 
-## CAPITOLO II - CONCORRENZA E ALTRE DISPOSIZIONI DI CARATTERE ECONOMICO
+### CAPITOLO II - CONCORRENZA E ALTRE DISPOSIZIONI DI CARATTERE ECONOMICO
 
-##### ARTICOLO 63
+#### ARTICOLO 63
 
 1\. Sono incompatibili con il corretto funzionamento del presente accordo, nella misura in cui possano essere pregiudizievoli al commercio tra la Comunita' e l'Estonia:
 
@@ -831,7 +827,7 @@ Nel caso di pratiche incompatibili ai sensi del paragrafo 1, iii) del presente a
 
 7\. Fatte salve eventuali disposizioni contrarie adottate a norma del paragrafo 3, le Parti si scambiano informazioni tenendo conto delle limitazioni imposte dal rispetto del segreto professionale.
 
-##### ARTICOLO 64
+#### ARTICOLO 64
 
 1\. Le Parti si adoperano per evitare l'imposizione di misure restrittive, ivi comprese le misure relative alle importazioni, a fini di bilancia dei pagamenti. In caso di imposizione di tali misure, la Parte che le ha introdotte presenta appena possibile all'altra Parte il calendario relativo alla loro abolizione.
 
@@ -839,11 +835,11 @@ Nel caso di pratiche incompatibili ai sensi del paragrafo 1, iii) del presente a
 
 3\. Le eventuali misure restrittive non si applicano ai trasferimenti relativi a investimenti e, in particolare, al rimpatrio degli importi investiti o reinvestiti e di qualsiasi tipo di reddito da essi derivante.
 
-##### ARTICOLO 65
+#### ARTICOLO 65
 
 Per quanto riguarda le imprese pubbliche e le imprese di cui sono stati riconosciuti diritti speciali o esclusivi, il Consiglio di associazione garantisce che, a decorrere dal 1 gennaio 1998, si applichino i principi del trattato che istituisce la Comunita' europea, in particolare l'articolo 90 e i principi del documento conclusivo della riunione di Boon della CSCE tenutasi nell'aprile 1990, segnatamente la liberta' decisionale per gli imprenditori.
 
-##### ARTICOLO 66
+#### ARTICOLO 66
 
 1\. A norma del presente articolo e dell'allegato IX, le Parti confermano l'importanza che attribuiscono ad un'adeguata ed effettiva tutela e applicazione dei diritti di proprieta' intellettuale, industriale e commerciale.
 
@@ -853,7 +849,7 @@ Per quanto riguarda le imprese pubbliche e le imprese di cui sono stati riconosc
 
 4\. In caso di problemi in materia di proprieta' intellettuale, industriale e commerciale tali da falsare le condizioni del commercio, si tengono urgentemente consultazioni su richiesta di una delle Parti per trovare soluzioni reciprocamente soddisfacenti.
 
-##### ARTICOLO 67
+#### ARTICOLO 67
 
 1\. Le Parti sono favorevoli ad una maggiore apertura dell'aggiudicazione degli appalti pubblici in base ai principi di non discriminazione e di reciprocita', segnatamente nell'ambito del GATT e dell'OMC.
 
@@ -865,21 +861,21 @@ Una volta che l'Estonia avra' introdotto la legislazione appropriata, le disposi
 
 3\. Per quanto riguarda lo stabilimento, l'attivita' e la fornitura di servizi tra la Comunita' e l'Estonia, nonche' l'occupazione e la circolazione della manodopera per l'esecuzione dei contratti d'appalto pubblici, si applicano le disposizioni degli articoli 36-59 del presente accordo.
 
-## CAPITOLO III - RAVVICINAMENTO DELLE LEGISLAZIONI
+### CAPITOLO III - RAVVICINAMENTO DELLE LEGISLAZIONI
 
-##### ARTICOLO 68
+#### ARTICOLO 68
 
 Le Parti riconoscono che un importante requisito per l'integrazione economica dell'Estonia nella Comunita' e' il ravvicinamento della legislazione presente e futura dell'Estonia a quella della Comunita'.
 
 L'Estonia deve pertanto adoperarsi per rendere la propria legislazione progressivamente compatibile con quella comunitaria.
 
-##### ARTICOLO 69
+#### ARTICOLO 69
 
 Il ravvicinamento delle legislazioni si estende in particolare ai seguenti settori: legislazione doganale, diritto societario, legislazione bancaria, conti societari e imposizione delle imprese, proprieta' intellettuale, servizi finanziari, regole di concorrenza, tutela della salute e della vita di esseri umani, animali e piante, tutela dei lavoratori sul posto di lavoro, tutela dei consumatori, imposizione indiretta, norme e standard tecnici, legislazione e normative in campo nucleare, trasporti telecomunicazioni, ambiente, commesse pubbliche, statistiche e affidabilita' dei prodotti.
 
 Fra questi settori, si dovrebbe progredire rapidamente nel ravvicinamento delle leggi riguardanti, in particolare, il mercato interno, la concorrenza, la tutela dei lavoratori, la tutela dell'ambiente, la tutela dei consumatori, i servizi finanziari e le norme tecniche.
 
-##### ARTICOLO 70
+#### ARTICOLO 70
 
 La Comunita' fornisce all'Estonia l'assistenza tecnica necessaria per attuare queste misure, che possono comprendere, tra l'atro:
 
@@ -895,7 +891,7 @@ La Comunita' fornisce all'Estonia l'assistenza tecnica necessaria per attuare qu
 
 ## TITOLO VI - COOPERAZIONE ECONOMICA
 
-##### ARTICOLO 71
+#### ARTICOLO 71
 
 1\. La Comunita' e l'Estonia sviluppano ulteriormente la cooperazione economica onde contribuire allo sviluppo e al potenziale di crescita dell'Estonia, rafforzando i legami economici esistenti sulla base piu' ampia possibile, a vantaggio di entrambe le Parti.
 
@@ -905,7 +901,7 @@ La Comunita' fornisce all'Estonia l'assistenza tecnica necessaria per attuare qu
 
 4\. Infine, si rivolgera' particolare attenzione alle misure atte a promuovere la cooperazione tra i tre Stati baltici, con gli altri paesi dell'Europa centrale e orientale nonche' con gli altri paesi situati sulle rive del Mar Baltico per uno sviluppo integrato della regione.
 
-##### ARTICOLO 72
+#### ARTICOLO 72
 
 COOPERAZIONE INDUSTRIALE
 
@@ -921,7 +917,7 @@ COOPERAZIONE INDUSTRIALE
 
 2\. Le azioni di cooperazione industriale tengono conto delle priorita' stabilite dall'Estonia, puntano in particolare a costituire un contesto adeguato per le imprese, a migliorare il know-how in materia di gestione e a promuovere la trasparenza in materia di mercati e di condizioni per l'attivita' delle imprese. La Comunita' fornisce la necessaria assistenza tecnica.
 
-##### ARTICOLO 73
+#### ARTICOLO 73
 
 PROMOZIONE E TUTELA DEGLI INVESTIMENTI
 
@@ -941,7 +937,7 @@ La Comunita' potrebbe fornire assistenza nella fase di avviamento agli organismi
 
 3\. L'Estonia si atterra' alle norme sulle misure relative agli investimenti che incidono sugli scambi commerciali (TRIMS).
 
-##### ARTICOLO 74
+#### ARTICOLO 74
 
 PICCOLE E MEDIE IMPRESE
 
@@ -957,7 +953,7 @@ PICCOLE E MEDIE IMPRESE
 
 3\. Sara' prevista un'assistenza tecnica, segnatamente ai fini di un adeguato sostegno istituzionale alle PMI a livello nazionale e regionale per quanto riguarda i servizi finanziari, la formazione, le consulenze, i servizi tecnologici e la commercializzazione.
 
-##### ARTICOLO 75
+#### ARTICOLO 75
 
 NORME IN CAMPO AGRICOLO E INDUSTRIALE E VALUTAZIONE DELLA CONFORMITA' 1. Le Parti cooperano, se del caso con l'assistenza tecnica della Comunita', al fine di ridurre le differenze a livello di norme tecniche e di procedure di valutazione della conformita'.
 
@@ -975,7 +971,7 @@ NORME IN CAMPO AGRICOLO E INDUSTRIALE E VALUTAZIONE DELLA CONFORMITA' 1. Le Part
 
 3\. La Comunita' fornisce all'Estonia l'assistenza tecnica necessaria.
 
-##### ARTICOLO 76
+#### ARTICOLO 76
 
 COOPERAZIONE SCIENTIFICA E TECNOLOGICA
 
@@ -999,7 +995,7 @@ Si fornisce la necessaria assistenza tecnica.
 
 3\. La cooperazione prevista dal programma quadro comunitario nel settore della ricerca e dello sviluppo tecnologico viene eseguita in base ad intese specifiche da negoziare e da concludere conformemente alle procedure giuridiche di ciascuna delle Parti.
 
-##### ARTICOLO 77
+#### ARTICOLO 77
 
 ISTRUZIONE E FORMAZIONE
 
@@ -1029,7 +1025,7 @@ ISTRUZIONE E FORMAZIONE
 
 \- cooperazione con il Centro europeo per lo sviluppo della formazione professionale (CEDEFOP).
 
-##### ARTICOLO 78
+#### ARTICOLO 78
 
 AGRICOLTURA E SETTORE AGROINDUSTRIALE
 
@@ -1067,7 +1063,7 @@ Si cerchera' in particolare di:
 
 2\. La Comunita' fornisce l'assistenza tecnica necessaria per conseguire questi obiettivi.
 
-##### ARTICOLO 79
+#### ARTICOLO 79
 
 PESCA
 
@@ -1095,7 +1091,7 @@ PESCA
 
 \- della cooperazione nell'ambito delle organizzazioni internazionali per la pesca.
 
-##### ARTICOLO 80
+#### ARTICOLO 80
 
 ENERGIA
 
@@ -1133,7 +1129,7 @@ ENERGIA
 
 3\. Si fornira' la necessaria assistenza tecnica.
 
-##### ARTICOLO 81
+#### ARTICOLO 81
 
 SICUREZZA NUCLEARE
 
@@ -1165,7 +1161,7 @@ SICUREZZA NUCLEARE
 
 4\. Le Parti riconoscono la necessita' di instaurare una cooperazione, nei limiti dei rispettivi poteri e delle rispettive competenze, per combattere il contrabbando nucleare. Sono previsti scambi di informazioni, sostegno tecnico per analizzare, identificare e smaltire il materiale e un'assistenza amministrativa e tecnica per predisporre controlli doganali efficaci. A seconda delle future esigenze, si potra' ampliare la cooperazione nel settore.
 
-##### ARTICOLO 82
+#### ARTICOLO 82
 
 AMBIENTE
 
@@ -1227,7 +1223,7 @@ AMBIENTE
 
 \- studi di impatto ambientale.
 
-##### ARTICOLO 83
+#### ARTICOLO 83
 
 TRASPORTI
 
@@ -1273,7 +1269,7 @@ TRASPORTI
 
 \- scambi di dati relativi ai trasporti.
 
-##### ARTICOLO 84
+#### ARTICOLO 84
 
 TELECOMUNICAZIONI, SERVIZI POSTALI E TRASMISSIONI RADIOTELEVISIVE 1. Le Parti ampliano e intensificano la cooperazione in materia di telecomunicazioni, e a tale scopo avviano in particolare le seguenti iniziative:
 
@@ -1311,7 +1307,7 @@ TELECOMUNICAZIONI, SERVIZI POSTALI E TRASMISSIONI RADIOTELEVISIVE 1. Le Parti am
 
 \- miglioramento delle reti di dati e sviluppo di servizi d'informazione in base ai dati.
 
-##### ARTICOLO 85
+#### ARTICOLO 85
 
 INFRASTRUTTURE D'INFORMAZIONE
 
@@ -1333,7 +1329,7 @@ Le Parti si adoperano per ampliare e rafforzare la cooperazione al fine di crear
 
 \- promozione dello sviluppo dei servizi d'informazione e delle infrastrutture.
 
-##### ARTICOLO 86
+#### ARTICOLO 86
 
 BANCHE, ASSICURAZIONI E ALTRI SERVIZI FINANZIARI
 
@@ -1355,7 +1351,7 @@ BANCHE, ASSICURAZIONI E ALTRI SERVIZI FINANZIARI
 
 3\. A tal fine, la cooperazione comprende la concessione di assistenza tecnica e formazione.
 
-##### ARTICOLO 87
+#### ARTICOLO 87
 
 COOPERAZIONE NEL SETTORE DELLA REVISIONE
 
@@ -1373,13 +1369,13 @@ DEI CONTI E DEI CONTROLLI FINANZIARI
 
 3\. A tal fine, la Comunita' fornisce la necessaria assistenza tecnica.
 
-##### ARTICOLO 88
+#### ARTICOLO 88
 
 POLITICA MONETARIA
 
 Su richiesta delle autorita' estoni, la Comunita' fornisce l'assistenza tecnica necessaria per aiutare l'Estonia ad allineare progressivamente le sue politiche a quelle del Sistema monetario europeo. Si procede altresi' a scambi informali di informazioni sui principi, sulle politiche e sul funzionamento del Sistema monetario europeo.
 
-##### ARTICOLO 89
+#### ARTICOLO 89
 
 RICICLAGGIO DEL DENARO
 
@@ -1387,7 +1383,7 @@ RICICLAGGIO DEL DENARO
 
 2\. La cooperazione nel settore comprende un'assistenza amministrativa e tecnica volta a definire norme adeguate contro il riciclaggio del denaro equivalenti a quelle adottate in materia dalla Comunita' e dai consessi internazionali, ivi compresa la Task Force "Azione finanziaria" (FATF).
 
-##### ARTICOLO 90
+#### ARTICOLO 90
 
 SVILUPPO REGIONALE
 
@@ -1409,7 +1405,7 @@ SVILUPPO REGIONALE
 
 \- avvio di programmi di scambi di informazioni e di esperienze, con vari metodi tra cui i seminari.
 
-##### ARTICOLO 91
+#### ARTICOLO 91
 
 COOPERAZIONE NEL SETTORE SOCIALE
 
@@ -1439,7 +1435,7 @@ La collaborazione in questo campo prende la forma di studi, prestazioni di esper
 
 3\. Per quanto riguarda la previdenza sociale la cooperazione tra le Parti punta ad adeguare il sistema previdenziale estone alla nuova situazione economica e sociale, principalmente assicurando i servizi di esperti e fornendo informazioni e formazione.
 
-##### ARTICOLO 92
+#### ARTICOLO 92
 
 TURISMO
 
@@ -1457,7 +1453,7 @@ Le Parti promuovono e intensificano la cooperazione nel settore del turismo, in 
 
 \- introducendo sistemi informatizzati di prenotazione e di informazione (preferibilmente comuni ai tre Stati baltici) e norme di tutela di consumatori per i turisti.
 
-##### ARTICOLO 93
+#### ARTICOLO 93
 
 INFORMAZIONE E COMUNICAZIONE
 
@@ -1467,7 +1463,7 @@ INFORMAZIONE E COMUNICAZIONE
 
 3\. La cooperazione puo' comprendere programmi di scambio, borse di studio, cicli di formazione per giornalisti ed esperti in materia di mass media.
 
-##### ARTICOLO 94
+#### ARTICOLO 94
 
 TUTELA DEI CONSUMATORI
 
@@ -1497,7 +1493,7 @@ TUTELA DEI CONSUMATORI
 
 4\. La comunita' fornira' l'assistenza tecnica necessaria.
 
-##### ARTICOLO 95
+#### ARTICOLO 95
 
 DOGANE
 
@@ -1525,7 +1521,7 @@ Si fornisce l'assistenza tecnica necessaria.
 
 3\. Fatta salva l'ulteriore cooperazione prevista dal presente accordo, in particolare dell'articolo 99 e dal titolo VII, l'assistenza reciproca tra le autorita' amministrative delle Parti competenti per quanto riguarda le questioni doganali e' disciplinata dalle disposizioni del protocollo n. 5.
 
-##### ARTICOLO 96
+#### ARTICOLO 96
 
 COOPERAZIONE STATISTICA
 
@@ -1547,7 +1543,7 @@ COOPERAZIONE STATISTICA
 
 3\. La Comunita' fornisce l'assistenza tecnica necessaria.
 
-##### ARTICOLO 97
+#### ARTICOLO 97
 
 ECONOMIA
 
@@ -1561,13 +1557,13 @@ ECONOMIA
 
 \- mediante il programma d'azione per la cooperazione economica (ACE), promuovono una cooperazione su vasta scala tra economisti e dirigenti della Comunita' e dell'Estonia, al fine di accelerare i trasferimenti di know-how per l'elaborazione delle politiche economiche e di procedere ad una vasta diffusione dei risultati della ricerca in materia.
 
-##### ARTICOLO 98
+#### ARTICOLO 98
 
 PUBBLICA AMMINISTRAZIONE
 
 Le Parti promuovono la cooperazione tra le rispettive autorita' nel settore della pubblica amministrazione, anche avviando programmi di scambio, al fine di migliorare la reciproca conoscenza della struttura e del funzionamento dei rispettivi sistemi.
 
-##### ARTICOLO 99
+#### ARTICOLO 99
 
 DROGA
 
@@ -1593,7 +1589,7 @@ Le Parti possono decidere, di comune accordo, di includere altri settori.
 
 ## TITOLO VII - COOPERAZIONE PER LA PREVENZIONE DELLE ATTIVITA' ILLECITE
 
-##### ARTICOLO 100
+#### ARTICOLO 100
 
 1\. Le Parti collaborano, nei limiti dei rispettivi poteri e delle rispettive competenze, per prevenire le seguenti attivita' illecite:
 
@@ -1629,7 +1625,7 @@ Le Parti possono decidere, di comune accordo, di includere altri settori.
 
 ## TITOLO VIII - COOPERAZIONE CULTURALE
 
-##### ARTICOLO 101
+#### ARTICOLO 101
 
 1\. Le Parti si impegnano a promuovere, incoraggiare e agevolare la cooperazione culturale. All'occorrenza, potranno essere estesi all'Estonia i programmi di cooperazione culturale comunitari o quelli di uno o piu' Stati membri e si potranno sviluppare ulteriori attivita' di reciproco interesse.
 
@@ -1655,11 +1651,11 @@ La cooperazione potrebbe comprendere, tra l'altro, lo scambio di programmi, bors
 
 ## TITOLO IX - COOPERAZIONE FINANZIARIA
 
-##### ARTICOLO 102
+#### ARTICOLO 102
 
 Al fine di raggiungere gli obiettivi del presente accordo e in conformita' degli articoli 103, 104, 105 e 106, fatto salvo l'articolo 105, l'Estonia beneficia di assistenza finanziaria temporanea da parte della Comunita' sotto forma di sovvenzioni e prestiti, compresi prestiti della Banca europea per gli investimenti (BEI), conformemente alle disposizioni dell'articolo 18 dello statuto della Banca, per accelerare la trasformazione economica del paese.
 
-##### ARTICOLO 103
+#### ARTICOLO 103
 
 Tale assistenza finanziaria e' coperta:
 
@@ -1667,13 +1663,13 @@ Tale assistenza finanziaria e' coperta:
 
 \- dal prestito o dai prestiti concessi dalla Banca europea per gli investimenti entro un massimale e per un periodo di disponibilita' da stabilire previa consultazione con l'Estonia in applicazione delle pertinenti disposizioni del trattato sull'Unione europea.
 
-##### ARTICOLO 104
+#### ARTICOLO 104
 
 Gli obiettivi e i settori dell'assistenza finanziaria comunitaria sono stabiliti in un programma indicativo da concordare tra le Parti.
 
 Le Parti informano il Consiglio di associazione.
 
-##### ARTICOLO 105
+#### ARTICOLO 105
 
 1\. In caso di necessita' straordinaria e tenendo conto della disponibilita' di tutte le risorse finanziarie, su richiesta dell'Estonia e in coordinamento con le istituzioni finanziarie internazionali, nel contesto del G-24, la Comunita' valuta la possibilita' di concedere assistenza finanziaria temporanea:
 
@@ -1685,27 +1681,27 @@ Le Parti informano il Consiglio di associazione.
 
 3\. Il Consiglio di associazione e' informato delle condizioni alle quali tale assistenza e' concessa e del rispetto degli impegni assunti dall'Estonia in materia.
 
-##### ARTICOLO 106
+#### ARTICOLO 106
 
 L'assistenza finanziaria comunitaria e' valutata alla luce delle necessita' emerse, del livello di sviluppo del paese, delle priorita' stabilite, delle potenzialita' di assorbimento dell'economia estone, della capacita' di rimborsare i prestiti e di progredire ulteriormente in direzione di un'economia di mercato e della ristrutturazione dell'Estonia.
 
-##### ARTICOLO 107
+#### ARTICOLO 107
 
 Per consentire un impiego ottimale delle risorse disponibili, le Parti si adoperano affinche' i contributi comunitari siano erogati in stretto coordinamento con quelli provenienti da altre fonti quali gli Stati membri della Comunita', altri paesi, inclusi quelli del G-24, e le istituzioni finanziarie internazionali quali il Fondo monetario internazionale, la Banca internazionale per la ricostruzione e lo sviluppo e la Banca europea per la ricostruzione e lo sviluppo.
 
-##### ARTICOLO 108
+#### ARTICOLO 108
 
 L'Estonia partecipa ai programmi quadro, ai programmi specifici, ai progetti e alle altre azioni della Comunita' nei settori indicati nell'allegato X. Fatta salva l'attuale partecipazione dell'Estonia alle attivita' di cui all'allegato X, il Consiglio di associazione stabilisce le modalita' e le condizioni della partecipazione dell'Estonia a queste attivita'. Il contributo finanziario dell'Estonia alle attivita' di cui all'allegato X si basa sul principio che impone al paese di sostenere il costo della sua partecipazione. All'occorrenza, la Comunita' puo' decidere caso per caso, attenendosi alle regole applicabili al bilancio generale delle Comunita' europee, di integrare il contributo dell'Estonia.
 
 ## TITOLO X - DISPOSIZIONI ISTITUZIONALI, GENERALI E FINALI
 
-##### ARTICOLO 109
+#### ARTICOLO 109
 
 E' istituito un Consiglio di associazione incaricato di sorvegliare l'attuazione del presente accordo.
 
 Il Consiglio si riunisce una volta all'anno a livello ministeriale e quando le circostanze lo richiedono. Esso esamina qualsiasi questione importante inerente all'accordo e qualunque altro problema bilaterale o internazionale di reciproco interesse.
 
-##### ARTICOLO 110
+#### ARTICOLO 110
 
 1\. Il Consiglio di associazione e' composto, da un lato, dai membri del Consiglio dell'Unione europea e da membri della Commissione delle Comunita' europee e, dall'altro, da membri designati dal Governo estone.
 
@@ -1717,7 +1713,7 @@ Il Consiglio si riunisce una volta all'anno a livello ministeriale e quando le c
 
 5\. Se del caso, la BEI partecipa, in qualita' di osservatore, ai lavori del Consiglio di associazione.
 
-##### ARTICOLO 111
+#### ARTICOLO 111
 
 Ai fini della realizzazione degli obiettivi dell'accordo, il Consiglio di associazione ha il potere di prendere decisioni nei casi contemplati dall'accordo stesso. Tali decisioni sono vincolanti per le Parti, che adottano le misure necessarie per la loro attuazione.
 
@@ -1725,7 +1721,7 @@ Il Consiglio di associazione puo' altresi' formulare adeguate raccomandazioni.
 
 Le decisioni e raccomandazioni sono elaborate previo accordo tra le Parti.
 
-##### ARTICOLO 112
+#### ARTICOLO 112
 
 1\. Ciascuna delle Parti puo' deferire al Consiglio di associazione qualsiasi controversia relativa all'applicazione o all'interpretazione del presente accordo.
 
@@ -1741,7 +1737,7 @@ Le decisioni arbitrali sono pronunciate a maggioranza.
 
 Ciascuna delle parti in causa deve adottare le misure necessarie all'attuazione della decisione arbitrale.
 
-##### ARTICOLO 113
+#### ARTICOLO 113
 
 1\. Nell'esercizio delle sue funzioni, il Consiglio di associazione e' assistito da un comitato di associazione composto, da un lato, da rappresentanti dei membri del Consiglio dell'Unione europea e dei membri della Commissione delle Comunita' europee e, dall'altro, da rappresentanti del Governo estone, normalmente Alti funzionari.
 
@@ -1749,19 +1745,19 @@ Il regolamento interno del Consiglio di associazione determina le funzioni del c
 
 2\. Il Consiglio di associazione puo' delegare al comitato di associazione taluni suoi poteri. In questi casi, il comitato di associazione adotta le sue decisioni alle condizioni stabilite all'articolo 111.
 
-##### ARTICOLO 114
+#### ARTICOLO 114
 
 Il Consiglio di associazione puo' decidere l'istituzione di qualsiasi altro comitato o organo speciale che lo assista nell'esercizio delle sue funzioni.
 
 Nel suo regolamento interno, il Consiglio di associazione precisa la composizione e le funzioni di tali comitati o organi, nonche' le modalita' del loro funzionamento.
 
-##### ARTICOLO 115
+#### ARTICOLO 115
 
 E' istituito un Comitato parlamentare quale foro per lo scambio di opinioni tra membri del Parlamento estone e del Parlamento europeo.
 
 Il calendario e la frequenza delle riunioni sono decisi dal Comitato stesso.
 
-##### ARTICOLO 116
+#### ARTICOLO 116
 
 1\. Il Comitato parlamentare e' composto, da un lato, da membri del Parlamento europeo e, dall'altro, da membri del Parlamento estone.
 
@@ -1769,7 +1765,7 @@ Il calendario e la frequenza delle riunioni sono decisi dal Comitato stesso.
 
 3\. Il Comitato parlamentare di associazione e' presieduto a turno dal Parlamento europeo e dal Parlamento estone, in conformita' delle disposizioni da stabilire nel suo regolamento interno.
 
-##### ARTICOLO 117
+#### ARTICOLO 117
 
 Il Comitato parlamentare puo' chiedere informazioni inerenti all'attuazione del presente accordo al Consiglio di associazione; quest'ultimo fornisce al Comitato le informazioni richieste.
 
@@ -1777,11 +1773,11 @@ Il Comitato parlamentare e' tenuto al corrente delle decisioni del Consiglio di 
 
 Il Comitato parlamentare puo' rivolgere raccomandazioni al Consiglio di associazione.
 
-##### ARTICOLO 118
+#### ARTICOLO 118
 
 Nell'ambito del presente accordo, ciascuna delle Parti si impegna a garantire che le persone fisiche e giuridiche dell'altra Parte possano adire, senza discriminazioni rispetto ai propri cittadini, i competenti organi giuridici e amministrativi delle Parti per tutelare i loro diritti individuali e di proprieta', inclusi quelli riguardanti la proprieta' intellettuale, industriale e commerciale.
 
-##### ARTICOLO 119
+#### ARTICOLO 119
 
 L'accordo non impedisce ad una Parte di adottare qualsiasi misura:
 
@@ -1793,7 +1789,7 @@ c) ritenuta essenziale per la propria sicurezza in caso di gravi disordini inter
 
 d) ritenuta necessaria per l'adempimento dei suoi obblighi e impegni internazionali in materia di controllo del doppio uso di beni e tecnologie industriali.
 
-##### ARTICOLO 120
+#### ARTICOLO 120
 
 1\. Nei settori contemplati dal presente accordo e fatta salva qualsiasi disposizione speciale ivi contenuta:
 
@@ -1803,13 +1799,13 @@ d) ritenuta necessaria per l'adempimento dei suoi obblighi e impegni internazion
 
 2\. Le disposizioni del paragrafo 1 non pregiudicano il diritto delle Parti di applicare le pertinenti disposizioni della loro normativa fiscale nei confronti di contribuenti che non si trovino in situazioni identiche per quanto riguarda il luogo di residenza.
 
-##### ARTICOLO 121
+#### ARTICOLO 121
 
 Quando sono importati nella Comunita', i prodotti originari dell'Estonia non beneficiano di un trattamento piu' favorevole di quello che gli Stati membri si applicano reciprocamente.
 
 Il trattamento concesso all'Estonia ai sensi del titolo IV e del capitolo I del titolo V non deve essere piu' favorevole di quello che gli Stati membri si applicano reciprocamente.
 
-##### ARTICOLO 122
+#### ARTICOLO 122
 
 1\. Le Parti adottano qualsiasi provvedimento generale o specifico necessario per l'adempimento degli obblighi che loro incombono nel quadro del presente accordo. Esse si adoperano per la realizzazione degli obiettivi fissati nell'accordo.
 
@@ -1817,37 +1813,37 @@ Il trattamento concesso all'Estonia ai sensi del titolo IV e del capitolo I del 
 
 Nella scelta delle misure, si privilegiano quelle meno lesive per il funzionamento dell'accordo. Le misure decise sono comunicate senza indugio al Consiglio di associazione e, qualora l'altra Parte ne faccia richiesta, sono oggetto di consultazioni in seno a detto organo.
 
-##### ARTICOLO 123
+#### ARTICOLO 123
 
 Fino a quando i privati cittadini e gli operatori economici non godranno di diritti equivalenti in virtu' dell'applicazione del presente accordo, esso non reca pregiudizio ai diritti loro garantiti da accordi vigenti che vincolano uno o piu' Stati membri, da un lato, e l'Estonia, dall'altro, fatta eccezione per i settori di competenza europea e fatti salvi gli obblighi degli Stati membri derivanti dal presente accordo nei settori di loro competenza.
 
-##### ARTICOLO 124
+#### ARTICOLO 124
 
 Ai fini del presente accordo, per "Parti" si intendono la Comunita', i suoi Stati membri o la Comunita' e i suoi Stati membri, conformemente ai rispettivi poteri, da un lato, e l'Estonia, dall'altro.
 
-##### ARTICOLO 125
+#### ARTICOLO 125
 
 I protocolli nn. 1-5 e gli allegati 1-X sono parte integrante del presente accordo.
 
-##### ARTICOLO 126
+#### ARTICOLO 126
 
 Il presente accordo e' concluso per un periodo illimitato.
 
 Ciascuna delle Parti puo' denunciare l'accordo dandone notifica all'altra Parte. L'accordo cessa di essere applicabile dopo sei mesi dalla data di tale notifica.
 
-##### ARTICOLO 127
+#### ARTICOLO 127
 
 Il Segretariato generale del Consiglio dell'Unione europea e' il depositario dell'accordo.
 
-##### ARTICOLO 128
+#### ARTICOLO 128
 
 Il presente accordo si applica, da un lato, ai territori in cui si applicano i trattati che istituiscono la Comunita' europea, la Comunita' europea dell'energia atomica e la Comunita' europea del carbone e dell'acciaio, alle condizioni precisate in detti trattati, e dall'altro, al territorio della Repubblica di Estonia.
 
-##### ARTICOLO 129
+#### ARTICOLO 129
 
 Il presente accordo e' redatto in due esemplari in lingua danese, finnica, francese, greca, inglese, italiana, olandese, portoghese, spagnola, svedese, tedesca e estone, ciascun testo facente ugualmente fede.
 
-##### ARTICOLO 130
+#### ARTICOLO 130
 
 Il presente accordo e' approvato dalle Parti conformemente alle loro rispettive procedure.
 
@@ -1863,7 +1859,7 @@ Nel corso della prima riunione, il Consiglio di associazione adotta tutte le mod
 
 Fatto a Lussemburgo, addi' dodici giugno millenovecentonovantacinque.
 
-##### Atto finale
+#### Atto finale
 
 ATTO FINALE
 
@@ -1957,7 +1953,7 @@ I plenipotenziari degli Stati membri e della Comunita' hanno preso atto della di
 
 Dichiarazione della Repubblica di Estonia relativa ai dazi tariffari dei prodotti agricoli.
 
-##### Dichiarazioni
+#### Dichiarazioni
 
 DICHIARAZIONI COMUNI
 
@@ -1999,7 +1995,7 @@ Le Parti convengono che, ai fini dell'accordo, la proprieta' intellettuale, indu
 
 Le Parti convengono che il Consiglio di associazione, conformemente all'articolo 114 dell'Accordo, esamini l'opportunita' di creare un organismo consultivo comprendente membri del Comitato economico e sociale della Comunita' e le loro controparti estoni.
 
-##### Scambio di lettere
+#### Scambio di lettere
 
 ACCORDO
 
@@ -2113,7 +2109,7 @@ A nome del
 
 Consiglio dell'Unione europea
 
-##### Dichiarazioni
+#### Dichiarazioni
 
 DICHIARAZIONI UNILATERALI
 
@@ -2127,103 +2123,103 @@ Qualora siano introdotti in Estonia dazi tariffari tra il 1 gennaio 1994 e l'ent
 
 Fatto a Lussemburgo, addi' dodici giugno millenovecentonovantacinque.
 
-##### Elenco Allegati
+#### Elenco Allegati
 
 Elenco Allegati
 
 Parte di provvedimento in formato grafico
 
-##### Allegato I
+#### Allegato I
 
 Allegato I
 
 Parte di provvedimento in formato grafico
 
-##### Allegato II
+#### Allegato II
 
 Allegato II
 
 Parte di provvedimento in formato grafico
 
-##### Allegato III
+#### Allegato III
 
 Allegato III
 
 Parte di provvedimento in formato grafico
 
-##### Allegato
+#### Allegato
 
 Allegato all'Allegato III
 
 Parte di provvedimento in formato grafico
 
-##### Allegato IV
+#### Allegato IV
 
 Allegato IV
 
 Parte di provvedimento in formato grafico
 
-##### Allegato V
+#### Allegato V
 
 Allegato V
 
 Parte di provvedimento in formato grafico
 
-##### Allegato VI
+#### Allegato VI
 
 Allegato VI
 
 Parte di provvedimento in formato grafico
 
-##### Allegato VII
+#### Allegato VII
 
 Allegato VII
 
 Parte di provvedimento in formato grafico
 
-##### Allegato VIII
+#### Allegato VIII
 
 Allegato VIII
 
 Parte di provvedimento in formato grafico
 
-##### Allegato IX
+#### Allegato IX
 
 Allegato IX
 
 Parte di provvedimento in formato grafico
 
-##### Allegato X
+#### Allegato X
 
 Allegato X
 
 Parte di provvedimento in formato grafico
 
-##### Elenco Protocolli
+#### Elenco Protocolli
 
 Elenco Protocolli
 
 Parte di provvedimento in formato grafico
 
-##### Protocollo
+#### Protocollo
 
 Protocollo n. 1
 
 Parte di provvedimento in formato grafico
 
-##### Protocollo A
+#### Protocollo A
 
 Protocollo A
 
 Parte di provvedimento in formato grafico
 
-##### Protocollo
+#### Protocollo
 
 Protocollo n. 2
 
 Parte di provvedimento in formato grafico
 
-##### Protocollo
+#### Protocollo
 
 Protocollo n. 3
 
@@ -2231,13 +2227,13 @@ Parte di provvedimento in formato grafico
 
 Parte di provvedimento in formato grafico
 
-##### Protocollo
+#### Protocollo
 
 Protocollo n. 4
 
 Parte di provvedimento in formato grafico
 
-##### Protocollo
+#### Protocollo
 
 Protocollo n. 5
 

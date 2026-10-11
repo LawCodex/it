@@ -62,9 +62,7 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
-
-### Disposizioni generali
+## Capo I - Disposizioni generali
 
 #### Art. 1
 
@@ -326,9 +324,7 @@ m) Organismo di formazione: un organismo riconosciuto dall'autorita' competente 
 
 > Il regolamento (CE) 881/2004 e' pubblicato nella G.U.U.E. 30 aprile 2004, n. L 164.
 
-## Capo II
-
-### Certificazione dei macchinisti
+## Capo II - Certificazione dei macchinisti
 
 #### Art. 4
 
@@ -394,9 +390,7 @@ Riconoscimento dei documenti di certificazione dei macchinisti di paesi non appa
 
 1\. Nel quadro degli accordi bilaterali tra lo Stato italiano e i Paesi non appartenenti alla Comunita' europea, possono essere riconosciuti i documenti di certificazione dei macchinisti del Paese non appartenente alla Comunita' europea che operino esclusivamente su sezioni transfrontaliere del sistema ferroviario.
 
-## Capo III
-
-### Condizioni per il conseguimento della licenza e del certificato
+## Capo III - Condizioni per il conseguimento della licenza e del certificato
 
 #### Art. 8
 
@@ -408,9 +402,7 @@ Requisiti minimi
 
 3\. L'Italia riconosce le licenze rilasciate da altri Stati membri conformemente alla direttiva.
 
-## Sezione I
-
-### Licenza
+### Sezione I - Licenza
 
 #### Art. 9
 
@@ -482,9 +474,7 @@ d) dimostrare le proprie competenze professionali generali tramite una attestazi
 
 > Il decreto legislativo 30 dicembre 1992, n. 502, «Riordino della disciplina in materia sanitaria, a norma dell'art. 1 della legge n. 23 ottobre 1992, n. 421.» e' pubblicato nella Gazzetta Ufficiale 30 dicembre 1992, n. 305, S.O.
 
-## Sezione II
-
-### Certificato
+### Sezione II - Certificato
 
 #### Art. 11
 
@@ -522,9 +512,7 @@ Competenze professionali
 
 > d) le osservazioni in merito alle carenze ed al malfunzionamento delle operazioni ferroviarie e della gestione dell'infrastruttura che possano rivestire un interesse per l'Agenzia. L'Agenzia, qualora lo ritenga necessario, puo' richiedere ulteriori elementi riguardanti i contenuti della relazione e ulteriori argomenti.».
 
-## Capo IV
-
-### Procedura per il conseguimento della licenza e del certificato
+## Capo IV - Procedura per il conseguimento della licenza e del certificato
 
 #### Art. 13
 
@@ -588,9 +576,7 @@ Monitoraggio dei macchinisti da parte delle imprese ferroviarie e dei gestori de
 
 5\. L'Agenzia deve essere informata tempestivamente dei casi di inabilita' al lavoro di durata superiore a tre mesi.
 
-## Capo V
-
-### Compiti e decisioni dell'agenzia nazionale per la sicurezza delle - ferrovie
+## Capo V - Compiti e decisioni dell'agenzia nazionale per la sicurezza delle ferrovie
 
 #### Art. 18
 
@@ -662,9 +648,7 @@ c) forniscono informazioni, su domanda, in merito al contenuto di tali certifica
 
 > Il decreto legislativo 30 giugno 2003, n. 196, «Codice in materia di protezione dei dati personali.» e' pubblicato nella Gazzetta Ufficiale 29 luglio 2003, n. 174, S.O.
 
-## Capo VI
-
-### Formazione ed esame dei macchinisti
+## Capo VI - Formazione ed esame dei macchinisti
 
 #### Art. 20
 
@@ -744,9 +728,7 @@ b) per la parte relativa al certificato, dall'impresa ferroviaria o dal gestore 
 
 6\. Alla fine del corso di formazione e' effettuato un esame teorico e pratico. La valutazione della capacita' di condotta e' effettuata con prove di condotta sulla rete. E' possibile utilizzare anche simulatori per valutare l'applicazione delle norme operative e il comportamento del macchinista in situazioni particolarmente difficili.
 
-## Capo VII
-
-### Valutazione
+## Capo VII - Valutazione
 
 #### Art. 23
 
@@ -766,9 +748,7 @@ Valutazione
 
 2\. I risultati delle suddette valutazioni sono debitamente documentati e trasmessi al Ministero delle infrastrutture e dei trasporti che, se necessario, prende i provvedimenti idonei per ovviare alle carenze constatate.
 
-## Capo VIII
-
-### Controlli e sanzioni
+## Capo VIII - Controlli e sanzioni
 
 #### Art. 25
 
@@ -830,9 +810,7 @@ Sanzioni
 
 > Il capo I della citata legge 24 novembre 1981, n. 689, reca: «Le sanzioni amministrative».
 
-## Capo IX
-
-### Disposizioni finali
+## Capo IX - Disposizioni finali
 
 #### Art. 27
 
@@ -896,9 +874,7 @@ Fazio, Ministro della salute
 
 Visto, il Guardasigilli: Alfano
 
-## Capo IX
-
-### Disposizioni finali
+## Capo IX - Disposizioni finali
 
 #### Allegato I
 

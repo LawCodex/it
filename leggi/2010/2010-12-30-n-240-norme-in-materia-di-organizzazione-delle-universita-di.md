@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## TITOLO I - ORGANIZZAZIONE DEL SISTEMA
+## TITOLO I - ORGANIZZAZIONE DEL SISTEMA UNIVERSITARIO
 
-### UNIVERSITARIO
-
-##### Art. 1 - Principi ispiratori della riforma
+### Art. 1 - Principi ispiratori della riforma
 
 1\. Le universita' sono sede primaria di libera ricerca e di libera formazione nell'ambito dei rispettivi ordinamenti e sono luogo di apprendimento ed elaborazione critica delle conoscenze; operano, combinando in modo organico ricerca e didattica, per il progresso culturale, civile ed economico della Repubblica.
 
@@ -46,7 +44,7 @@ la seguente legge:
 
 6\. Sono possibili accordi di programma tra le singole universita' o aggregazioni delle stesse e il Ministero al fine di favorire la competitivita' delle universita', migliorandone la qualita' dei risultati, tenuto conto degli indicatori di contesto relativi alle condizioni di sviluppo regionale.
 
-##### Art. 2 - Organi e articolazione interna delle universita'
+### Art. 2 - Organi e articolazione interna delle universita'
 
 1\. Le universita' statali, nel quadro del complessivo processo di riordino della pubblica amministrazione, provvedono, entro sei mesi dalla data di entrata in vigore della presente legge, a modificare i propri statuti in materia di organizzazione e di organi di governo dell'ateneo, nel rispetto dei principi di autonomia di cui all'articolo 33 della Costituzione, ai sensi dell'articolo 6 della legge 9 maggio 1989, n. 168, secondo principi di semplificazione, efficienza, efficacia, trasparenza dell'attivita' amministrativa e accessibilita' delle informazioni relative all'ateneo, con l'osservanza dei seguenti principi e criteri direttivi:
 
@@ -154,7 +152,7 @@ AGGIORNAMENTO (6)
 
 Il D.L. 6 luglio 2012, n. 95, convertito con modificazioni dalla L. 7 agosto 2012, n. 135, ha disposto (con l'art. 7, comma 42-ter) che "Allo scopo di garantire una corretta transizione al nuovo ordinamento, l'articolo 2, comma 9, terzo periodo, della legge 30 dicembre 2010, n. 240, si interpreta nel senso che, ai fini della decorrenza della proroga del mandato dei rettori in carica, il momento di adozione dello statuto e' quello dell'adozione definitiva all'esito dei controlli previsti dal comma 7 del medesimo articolo".
 
-##### Art. 3
+### Art. 3
 
 (Federazione e fusione di atenei
 
@@ -194,11 +192,9 @@ e razionalizzazione dell'offerta formativa)
 
 > \- Per il testo dell'articolo 1-ter del decreto legge 31 gennaio 2005, n. 7, convertito, con modificazioni, dalla legge 31 marzo 2005, n. 43 si veda nelle note all'art. 2.
 
-## TITOLO II - NORME E DELEGA LEGISLATIVA IN
+## TITOLO II - NORME E DELEGA LEGISLATIVA IN MATERIA DI QUALITA' ED EFFICIENZA DEL SISTEMA UNIVERSITARIO
 
-### MATERIA DI QUALITA' ED EFFICIENZA - DEL SISTEMA UNIVERSITARIO
-
-##### Art. 4 - Fondo per il merito
+### Art. 4 - Fondo per il merito
 
 1\. E' istituito presso il Ministero un fondo speciale, di seguito denominato «fondo», finalizzato a promuovere l'eccellenza e il merito fra gli studenti dei corsi di laurea e laurea magistrale individuati, per gli iscritti al primo anno per la prima volta, mediante prove nazionali standard e, per gli iscritti agli anni successivi, mediante criteri nazionali standard di valutazione. Il fondo e' destinato a:
 
@@ -260,7 +256,7 @@ d) i contributi di cui al comma 3, lettera h), e al comma 5, da utilizzare per l
 
 10\. All'articolo 10, comma 1, lettera l-quater), del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, dopo le parole: «articolo 59, comma 3, della legge 23 dicembre 2000, n. 388,» sono inserite le seguenti: «del Fondo per il merito degli studenti universitari».
 
-##### Art. 5
+### Art. 5
 
 (Delega in materia di interventi per la qualita' e
 
@@ -530,7 +526,7 @@ f) definire le tipologie di strutture residenziali destinate agli studenti unive
 
 > «5 Le Commissioni parlamentari competenti possono richiedere al Governo la relazione di cui al comma 3 per tutte le proposte legislative e gli emendamenti al loro esame ai fini della verifica tecnica della quantificazione degli oneri da essi recati. La relazione tecnica deve essere trasmessa nel termine indicato dalle medesime Commissioni in relazione all'oggetto e alla programmazione dei lavori parlamentari e, in ogni caso, entro trenta giorni dalla richiesta. Qualora il Governo non sia in grado di trasmettere la relazione tecnica entro il termine stabilito dalle Commissioni deve indicarne le ragioni. I dati devono essere trasmessi in formato telematico. I regolamenti parlamentari disciplinano gli ulteriori casi in cui il Governo e' tenuto alla presentazione della relazione tecnica di cui al comma 3.»
 
-##### Art. 6 - Stato giuridico dei professori e dei ricercatori di ruolo
+### Art. 6 - Stato giuridico dei professori e dei ricercatori di ruolo
 
 1\. Il regime di impegno dei professori e dei ricercatori e' a tempo pieno o a tempo definito. Ai fini della rendicontazione dei progetti di ricerca, la quantificazione figurativa delle attivita' annue di ricerca, di studio e di insegnamento, con i connessi compiti preparatori, di verifica e organizzativi, e' pari a 1.500 ore annue per i professori e i ricercatori a tempo pieno e a 750 ore per i professori e i ricercatori a tempo definito. La quantificazione di cui al secondo periodo, qualora non diversamente richiesto dai soggetti finanziatori, avviene su base mensile.
 
@@ -584,7 +580,7 @@ AGGIORNAMENTO (44)
 
 Il D.L. 22 aprile 2023, n. 44, convertito con modificazioni dalla L. 21 giugno 2023, n. 74, ha disposto (con l'art. 9, comma 2-ter) che "Il primo periodo del comma 10 dell'articolo 6 della legge 30 dicembre 2010, n. 240, con specifico riferimento alle attivita' di consulenza, si interpreta nel senso che ai professori e ai ricercatori a tempo pieno e' consentito lo svolgimento di attivita' extra-istituzionali realizzate in favore di privati o enti pubblici ovvero per motivi di giustizia, purche' prestate senza vincolo di subordinazione e in mancanza di un'organizzazione di mezzi e di persone preordinata al loro svolgimento, fermo restando quanto previsto dall'articolo 23-ter del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214".
 
-##### Art. 7 - Norme in materia di mobilita' dei professori e dei ricercatori
+### Art. 7 - Norme in materia di mobilita' dei professori e dei ricercatori
 
 1\. I professori e i ricercatori universitari possono, a domanda, essere collocati per un periodo massimo di cinque anni, anche consecutivi, in aspettativa senza assegni per lo svolgimento di attivita' presso soggetti e organismi, pubblici o privati, anche operanti in sede internazionale, i quali provvedono anche al relativo trattamento economico e previdenziale.
 
@@ -606,7 +602,7 @@ Agli oneri derivanti dall'acquisizione di personale all'esito dei trasferimenti 
 
 5-quater. Dalle disposizioni di cui ai commi 5-bis e 5-ter non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
-##### Art. 8
+### Art. 8
 
 (Revisione del trattamento economico dei professori e
 
@@ -640,13 +636,13 @@ AGGIORNAMENTO (16)
 
 La L. 27 dicembre 2017, n. 205, ha disposto (con l'art. 1, comma 629) che "Con decorrenza dalla classe stipendiale successiva a quella triennale in corso di maturazione al 31 dicembre 2017 e conseguente effetto economico a decorrere dall'anno 2020, il regime della progressione stipendiale triennale per classi dei professori e ricercatori universitari previsto dagli articoli 6, comma 14, e 8 della legge 30 dicembre 2010, n. 240, e disciplinato dal regolamento di cui al decreto del Presidente della Repubblica 15 dicembre 2011, n. 232, e' trasformato in regime di progressione biennale per classi, utilizzando gli stessi importi definiti per ciascuna classe dallo stesso decreto".
 
-##### Art. 9 - Fondo per la premialita'
+### Art. 9 - Fondo per la premialita'
 
 1\. E' istituito un Fondo di ateneo per la premialita' di professori e ricercatori tenuto conto di quanto previsto dall'articolo 1, comma 16, della legge 4 novembre 2005, n. 230, cui affluiscono le risorse di cui all'articolo 6, comma 14, ultimo periodo, della presente legge. Ulteriori somme possono essere attribuite a ciascuna universita' con decreto del Ministro, in proporzione alla valutazione dei risultati raggiunti effettuata dall'ANVUR. Il Fondo puo' essere integrato dai singoli atenei anche con una quota dei proventi delle attivita' conto terzi ovvero con finanziamenti pubblici o privati. In tal caso, le universita' possono prevedere, con appositi regolamenti, compensi aggiuntivi per il personale docente e tecnico amministrativo che contribuisce all'acquisizione di commesse conto terzi ovvero di finanziamenti pubblici o privati.
 
 1-bis. Le universita' possono altresi' istituire un fondo per la valorizzazione dei risultati della ricerca con risorse derivanti da progetti di ricerca, europei o internazionali, non ricompresi nel Piano nazionale di ripresa e resilienza, ammessi al finanziamento sulla base di bandi competitivi, limitatamente alla parte ((assegnata con applicazione di tassi forfetari o comunque non soggetta)) a puntuale rendicontazione. Con decreto del Ministro dell'universita' e della ricerca sono definite le modalita' di erogazione della quota premiale in favore di professori e ricercatori, anche a tempo determinato, in relazione al primo periodo, entro il limite massimo, anche nel caso di partecipazione a piu' progetti di ricerca, del 30 per cento del trattamento economico individuale, per il solo periodo di realizzazione dei progetti da cui derivano i fondi e comunque nel limite della disponibilita' delle risorse di cui al primo periodo, tenendo conto dell'impegno individuale nella elaborazione e nella realizzazione degli interventi proposti e finanziati, nonche' dei principi di trasparenza, imparzialita' e oggettivita'.
 
-##### Art. 10 - Competenza disciplinare
+### Art. 10 - Competenza disciplinare
 
 1\. Presso ogni universita' e' istituito un collegio di disciplina, composto esclusivamente da professori universitari in regime di tempo pieno e da ricercatori a tempo indeterminato in regime di tempo pieno, secondo modalita' definite dallo statuto, competente a svolgere la fase istruttoria dei procedimenti disciplinari e ad esprimere in merito parere conclusivo. Il collegio opera secondo il principio del giudizio fra pari, nel rispetto del contraddittorio. La partecipazione al collegio di disciplina non da' luogo alla corresponsione di compensi, emolumenti, indennita' o rimborsi spese.
 
@@ -660,7 +656,7 @@ La L. 27 dicembre 2017, n. 205, ha disposto (con l'art. 1, comma 629) che "Con d
 
 6\. E' abrogato l'articolo 3 della legge 16 gennaio 2006, n. 18.
 
-##### Art. 11 - Interventi perequativi per le universita' statali
+### Art. 11 - Interventi perequativi per le universita' statali
 
 1\. A decorrere dal 2011, allo scopo di accelerare il processo di riequilibrio delle universita' statali e tenuto conto della primaria esigenza di assicurare la copertura delle spese fisse di personale di ruolo entro i limiti della normativa vigente, una quota pari almeno all'1,5 per cento del fondo di finanziamento ordinario e delle eventuali assegnazioni destinate al funzionamento del sistema universitario e' destinata ad essere ripartita tra le universita' che, sulla base delle differenze percentuali del valore del fondo di finanziamento ordinario consolidato del 2010, presentino una situazione di sottofinanziamento superiore al 5 per cento rispetto al modello per la ripartizione teorica del fondo di finanziamento ordinario elaborato dai competenti organismi di valutazione del sistema universitario. L'intervento perequativo viene ridotto proporzionalmente laddove la situazione di sottofinanziamento derivi dall'applicazione delle misure di valutazione della qualita' di cui all'articolo 5 della presente legge e all'articolo 2 del decreto-legge 10 novembre 2008, n. 180, convertito, con modificazioni, dalla legge 9 gennaio 2009, n. 1. Il calcolo degli squilibri finanziari dei singoli atenei puo' tenere conto delle specificita' delle universita' sede di facolta' di medicina e chirurgia collegate ad aziende ospedaliere nate da ex policlinici a gestione diretta, escludendo ogni intervento per il ripiano di eventuali disavanzi previsto dall'articolo 5, comma 4, lettere g), h), i), l) e m), della presente legge.
 
@@ -670,7 +666,7 @@ La L. 27 dicembre 2017, n. 205, ha disposto (con l'art. 1, comma 629) che "Con d
 
 > \- Per il testo dell'articolo 2 del decreto legge 10 novembre 2008, n. 180, convertito con modificazioni dalla legge 9 gennaio 2009, n. 1 si veda nelle note all'articolo 5.
 
-##### Art. 12 - Universita' non statali legalmente riconosciute
+### Art. 12 - Universita' non statali legalmente riconosciute
 
 1\. Al fine di incentivare la correlazione tra la distribuzione delle risorse statali e il conseguimento di risultati di particolare rilievo nel campo della didattica e della ricerca, una quota ((pari al 30 per cento)) dell'ammontare complessivo dei contributi di cui alla legge 29 luglio 1991, n. 243, relativi alle universita' non statali legalmente riconosciute, con progressivi incrementi negli anni successivi, e' ripartita sulla base di criteri, determinati con decreto del Ministro, sentita l'ANVUR, tenuto conto degli indicatori definiti ai sensi dell'articolo 2, comma 1, del decreto-legge 10 novembre 2008, n. 180, convertito, con modificazioni, dalla legge 9 gennaio 2009, n. 1.
 
@@ -678,7 +674,7 @@ La L. 27 dicembre 2017, n. 205, ha disposto (con l'art. 1, comma 629) che "Con d
 
 3\. Le previsioni di cui al presente articolo non si applicano alle universita' telematiche ad eccezione di quelle, che sono gia' inserite tra le universita' non statali legalmente riconosciute, subordinatamente al mantenimento dei requisiti previsti dai provvedimenti emanati ai sensi dell'articolo 5, comma 3, lettere a) e b).
 
-##### Art. 13 - Misure per la qualita' del sistema universitario
+### Art. 13 - Misure per la qualita' del sistema universitario
 
 1\. All'articolo 2 del decreto-legge 10 novembre 2008, n. 180, convertito, con modificazioni, dalla legge 9 gennaio 2009, n. 1, sono apportate le seguenti modificazioni:
 
@@ -692,7 +688,7 @@ b) dopo il comma 1, e' inserito il seguente:
 
 > \- Per il testo dell'articolo 2 del decreto legge 10 novembre 2008, n. 180, convertito con modificazioni dalla legge 9 gennaio 2009, n. 1 si veda la nota all'articolo 5.
 
-##### Art. 14 - Disciplina di riconoscimento dei crediti
+### Art. 14 - Disciplina di riconoscimento dei crediti
 
 1\. All'articolo 2, comma 147, del decreto-legge 3 ottobre 2006, n. 262, convertito, con modificazioni, dalla legge 24 novembre 2006, n. 286, la parola: «sessanta» e' sostituita dalla seguente: «dodici» e sono aggiunti, in fine, i seguenti periodi: «Il riconoscimento deve essere effettuato esclusivamente sulla base delle competenze dimostrate da ciascuno studente. Sono escluse forme di riconoscimento attribuite collettivamente. Le universita' possono riconoscere quali crediti formativi, entro il medesimo limite, il conseguimento da parte dello studente di medaglia olimpica o paralimpica ovvero del titolo di campione mondiale assoluto, campione europeo assoluto o campione italiano assoluto nelle discipline riconosciute dal Comitato olimpico nazionale italiano o dal Comitato italiano paralimpico».
 
@@ -700,13 +696,9 @@ b) dopo il comma 1, e' inserito il seguente:
 
 ((3. Con il decreto di cui all'articolo 8, comma 2, della legge 15 luglio 2022, n. 99, sono definiti i criteri per il riconoscimento dei crediti acquisiti dallo studente a conclusione dei percorsi realizzati dagli istituti tecnologici superiori (ITS Academy) di cui alla medesima legge n. 99 del 2022.))
 
-## TITOLO III - NORME IN MATERIA DI PERSONALE
+## TITOLO III - NORME IN MATERIA DI PERSONALE ACCADEMICO E RIORDINO DELLA DISCIPLINA CONCERNENTE IL RECLUTAMENTO
 
-### ACCADEMICO E RIORDINO - DELLA
-
-#### DISCIPLINA CONCERNENTE - IL RECLUTAMENTO
-
-##### Art. 15 - Gruppi e settori scientifico-disciplinari
+### Art. 15 - Gruppi e settori scientifico-disciplinari
 
 1\. Entro novanta giorni dalla data di entrata in vigore della presente disposizione il Ministro, con proprio decreto di natura non regolamentare, su proposta del Consiglio universitario nazionale (CUN), definisce, secondo criteri di affinita' e attinenza scientifica, formativa e culturale, i gruppi scientifico-disciplinari e le relative declaratorie.
 
@@ -726,7 +718,7 @@ d) sono il riferimento per l'adempimento degli obblighi didattici da parte del d
 
 5\. L'aggiornamento dei gruppi e dei settori scientifico-disciplinari e' effettuato con decreto del Ministro, su proposta del CUN, con cadenza triennale. In assenza della proposta del CUN entro sei mesi dalla scadenza del termine previsto per l'aggiornamento, si provvede con decreto del Ministro.
 
-##### Art. 16
+### Art. 16
 
 (( (Requisiti per l'ingresso nei ruoli universitari).))
 
@@ -734,7 +726,7 @@ d) sono il riferimento per l'adempimento degli obblighi didattici da parte del d
 
 2\. ((Nella fissazione dei requisiti di cui al comma 1, sono tenuti comunque in considerazione l'attivita' di didattica e ricerca in Italia e all'estero, la titolarita', la contitolarita' o la partecipazione a progetti di ricerca di base o applicata finanziati sulla base di bandi competitivi nazionali, europei e internazionali, nonche' il raggiungimento degli indicatori minimi di quantita', continuita' e distribuzione temporale dei prodotti della ricerca.)) 3. ((Il possesso dei requisiti di cui al comma 1 e' oggetto di dichiarazione sostitutiva dell'atto di notorieta', ai sensi degli articoli 47 e 48 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, da parte dei candidati, mediante procedura telematica predisposta dal Ministero. Il decreto di cui al comma 1 stabilisce le modalita' mediante le quali sono effettuate le dichiarazioni di cui al primo periodo)).
 
-##### Art. 17 - Equipollenze
+### Art. 17 - Equipollenze
 
 1\. I diplomi delle scuole dirette a fini speciali istituite ai sensi del decreto del Presidente della Repubblica 10 marzo 1982, n. 162, riconosciuti al termine di un corso di durata triennale, e i diplomi universitari istituiti ai sensi della legge 19 novembre 1990, n. 341, purche' della medesima durata, sono equipollenti alle lauree di cui all'articolo 3, comma 1, lettera a), del regolamento di cui al decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica 3 novembre 1999, n. 509.
 
@@ -760,7 +752,7 @@ d) sono il riferimento per l'adempimento degli obblighi didattici da parte del d
 
 > «3. Gli studi compiuti per conseguire i diplomi universitari in base ai previgenti ordinamenti didattici sono valutati in crediti e riconosciuti dalle universita' per il conseguimento della laurea di cui all'articolo 3, comma 1. La stessa norma si applica agli studi compiuti per conseguire i diplomi delle scuole dirette a fini speciali istituite presso le universita', qualunque ne sia la durata.»
 
-##### Art. 17-bis
+### Art. 17-bis
 
 (( (Liste per commissioni giudicatrici).))
 
@@ -772,7 +764,7 @@ d) sono il riferimento per l'adempimento degli obblighi didattici da parte del d
 
 4\. ((In sede di pubblicazione delle liste di cui al comma 1, il Ministero individua i gruppi scientifico-disciplinari per i quali il numero di professori sorteggiabili e' inferiore a quaranta)).
 
-##### Art. 18 - Chiamata dei professori
+### Art. 18 - Chiamata dei professori
 
 1\. Le universita', con proprio regolamento adottato ai sensi della legge 9 maggio 1989, n. 168, disciplinano, nel rispetto del codice etico, la chiamata dei professori di prima e di seconda fascia nel rispetto dei principi enunciati dalla Carta europea dei ricercatori, di cui alla raccomandazione della Commissione delle Comunita' europee n. 251 dell'11 marzo 2005, e specificamente dei seguenti criteri:
 
@@ -836,7 +828,7 @@ f) ai dipendenti di altre amministrazioni pubbliche, di enti pubblici o privati,
 
 6\. Alla partecipazione ai progetti di ricerca finanziati dall'Unione europea o da altre istituzioni straniere, internazionali o sovranazionali, e allo svolgimento delle relative attivita' si applicano le norme previste dai relativi bandi.
 
-##### Art. 19 - Disposizioni in materia di dottorato di ricerca
+### Art. 19 - Disposizioni in materia di dottorato di ricerca
 
 1\. All'articolo 4 della legge 3 luglio 1998, n. 210, sono apportate le seguenti modificazioni:
 
@@ -902,11 +894,11 @@ b) sono aggiunti, in fine, i seguenti periodi: «Non hanno diritto al congedo st
 
 > Il periodo di congedo straordinario e' utile ai fini della progressione di carriera, del trattamento di quiescenza e di previdenza .»
 
-##### Art. 20 - Valutazione dei progetti di ricerca
+### Art. 20 - Valutazione dei progetti di ricerca
 
 1\. I progetti di ricerca fondamentale libera e fondamentale di tipo strategico finanziati a carico del Fondo per gli investimenti nella ricerca scientifica e tecnologica di cui all'articolo 1, comma 870, della legge 27 dicembre 2006, n. 296, sono assoggettati a valutazione ((...)) secondo criteri stabiliti con decreto ministeriale di natura non regolamentare ((...)). Una percentuale di almeno il dieci per cento del Fondo e' destinata ad interventi in favore di giovani ricercatori di eta' inferiore a 40 anni. Le attivita' del presente comma sono svolte a valere sulle risorse finanziarie, umane e strumentali disponibili a legislazione vigente.
 
-##### Art. 21 - Comitato nazionale per la valutazione della ricerca
+### Art. 21 - Comitato nazionale per la valutazione della ricerca
 
 1\. Al fine di promuovere la qualita' della ricerca e assicurare il buon funzionamento delle procedure di valutazione, e' istituito il Comitato nazionale per la valutazione della ricerca (CNVR). Il CNVR e' composto da quindici studiosi, italiani o stranieri, di elevata qualificazione scientifica internazionale, appartenenti a una pluralita' di aree disciplinari, nominati con decreto del Ministro dell'universita' e della ricerca, tra i quali tre componenti sono scelti dal Ministro dell'universita' e della ricerca e gli altri dodici sono designati, due ciascuno e nel rispetto del principio della parita' di genere, dal Consiglio universitario nazionale, dalla Conferenza dei rettori delle universita' italiane, dalla Consulta dei presidenti degli enti pubblici di ricerca, dall'European Research Council e dall'Accademia nazionale dei Lincei e, uno ciascuno, dalla European Science Foundation e dal Consiglio nazionale dei ricercatori e dei tecnologi. Il Comitato e' regolarmente costituito con almeno dieci componenti.
 
@@ -928,11 +920,11 @@ L'incarico di componente del CNVR e' di durata quinquennale, non rinnovabile. In
 
 4\. Nell'esercizio delle sue funzioni il CNVR si avvale delle risorse umane, strumentali e finanziarie del Ministero dell'universita' e della ricerca.
 
-##### Art. 21-bis
+### Art. 21-bis
 
 ((ARTICOLO ABROGATO DAL D.L. 22 APRILE 2023, N. 44))
 
-##### Art. 22 - Contratti di ricerca
+### Art. 22 - Contratti di ricerca
 
 1\. Le universita', gli enti pubblici di ricerca e le istituzioni il cui diploma di perfezionamento scientifico e' stato riconosciuto equipollente al titolo di dottore di ricerca ai sensi dell'articolo 74, quarto comma, del decreto del Presidente della Repubblica 11 luglio 1980, n. 382, possono stipulare, ai fini dell'esclusivo svolgimento di specifici progetti di ricerca, contratti di lavoro a tempo determinato, denominati 'contratti di ricerca', finanziati in tutto o in parte con fondi interni ovvero finanziati da soggetti terzi, sia pubblici che privati, sulla base di specifici accordi o convenzioni.
 
@@ -958,7 +950,7 @@ AGGIORNAMENTO (11)
 
 Il D.L. 31 dicembre 2014, n. 192, convertito con modificazioni dalla L. 27 febbraio 2015, n. 11, ha disposto (con l'art. 6, comma 2-bis) che "La durata complessiva dei rapporti instaurati ai sensi dell'articolo 22, comma 3, della legge 30 dicembre 2010, n. 240, e' prorogata di due anni".
 
-##### Art. 22-bis
+### Art. 22-bis
 
 (( (Incarichi post-doc). ))
 
@@ -976,7 +968,7 @@ Il D.L. 31 dicembre 2014, n. 192, convertito con modificazioni dalla L. 27 febbr
 
 7\. ((Gli incarichi di cui al presente articolo non danno luogo a diritti in ordine all'accesso ai ruoli delle istituzioni da cui sono erogati ne' possono essere computati ai fini di cui all'articolo 20 del decreto legislativo 25 maggio 2017, n. 75.))
 
-##### Art. 22-ter - Incarichi di ricerca
+### Art. 22-ter - Incarichi di ricerca
 
 1\. Le istituzioni di cui all'articolo 22, comma 1, possono conferire "incarichi di ricerca"! finalizzati all'introduzione alla ricerca e all'innovazione sotto la supervisione di un tutor, dei quali possono essere destinatari giovani studiosi che sono in possesso di titolo di laurea magistrale o a ciclo unico da non piu' di sei anni e di un curriculum idoneo all'assistenza allo svolgimento di attivita' di ricerca.
 
@@ -1000,7 +992,7 @@ Il bando di selezione, reso pubblico anche per via telematica nel sito internet 
 
 10\. Fermo restando quanto previsto dall'articolo 5 del decreto legislativo 29 marzo 2012, n. 49, per le universita' e dall'articolo 9, comma 2, del decreto legislativo 25 novembre 2016, n. 218, per gli enti pubblici di ricerca, la spesa complessiva per l'attribuzione degli incarichi di cui all'articolo 22-bis della presente legge nonche' degli incarichi di cui al presente articolo non puo' essere superiore alla spesa media sostenuta nell'ultimo triennio per il conferimento degli assegni di ricerca di cui all'articolo 22 e per la stipulazione dei contratti da ricercatore a tempo determinato di cui all'articolo 24, comma 3, lettera a), nel testo vigente prima della data di entrata in vigore della legge 29 giugno 2022, n. 79, come risultante dai bilanci approvati. Il limite di spesa di cui al periodo precedente non si applica nel caso in cui le risorse finanziarie provengano da progetti di ricerca, nazionali, europei o internazionali, ammessi al finanziamento sulla base di bandi competitivi ((, nonche' da finanziamenti esterni finalizzati, in tutto o in parte, alla copertura integrale di spese di personale, ivi comprese le risorse rivenienti dal PNRR)).
 
-##### Art. 23 - Contratti per attivita' di insegnamento
+### Art. 23 - Contratti per attivita' di insegnamento
 
 1\. Le universita', anche sulla base di specifiche convenzioni con gli enti pubblici e le istituzioni di ricerca di cui all'articolo 8 del regolamento di cui al decreto del Presidente del Consiglio dei ministri 30 dicembre 1993, n. 593, possono stipulare contratti della durata di un anno accademico e rinnovabili annualmente per un periodo massimo di cinque anni, a titolo gratuito o oneroso di importo non inferiore a quello fissato con il decreto di cui al comma 2, per attivita' di insegnamento di alta qualificazione al fine di avvalersi della collaborazione di esperti di alta qualificazione in possesso di un significativo curriculum scientifico o professionale. I predetti contratti sono stipulati dal rettore, su proposta dei competenti organi accademici. PERIODO SOPPRESSO DAL D.L. 9 FEBBRAIO 2012, N.5 CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35. I contratti a titolo gratuito, ad eccezione di quelli stipulati nell'ambito di convenzioni con enti pubblici, non possono superare, nell'anno accademico, il 5 per cento dell'organico dei professori e ricercatori di ruolo in servizio presso l'ateneo.
 
@@ -1010,7 +1002,7 @@ Il bando di selezione, reso pubblico anche per via telematica nel sito internet 
 
 4\. La stipulazione di contratti per attivita' di insegnamento ai sensi del presente articolo non da' luogo a diritti in ordine all'accesso ai ruoli universitari, ma consente di computare le eventuali chiamate di coloro che sono stati titolari dei contratti nell'ambito delle risorse vincolate di cui all'articolo 18, comma 4.
 
-##### Art. 24 - Ricercatori a tempo determinato
+### Art. 24 - Ricercatori a tempo determinato
 
 1\. Nell'ambito delle risorse disponibili per la programmazione, al fine di svolgere attivita' di ricerca, di didattica, di didattica integrativa e di servizio agli studenti, le universita' possono stipulare contratti di lavoro subordinato a tempo determinato. Il contratto stabilisce, sulla base dei regolamenti di ateneo, le modalita' di svolgimento delle attivita' di didattica, di didattica integrativa e di servizio agli studenti nonche' delle attivita' di ricerca.
 
@@ -1080,7 +1072,7 @@ AGGIORNAMENTO (24)
 
 Il D.L. 16 luglio 2020, n. 76, convertito con modificazioni dalla L. 11 settembre 2020, n. 120, ha disposto (con l'art. 19, comma 1, lettera f-ter)) che "le disposizioni di cui alla lettera f-bis) si applicano anche ai contratti in corso. In tali casi, qualora, sulla base delle previgenti disposizioni, i contratti siano stati gia' sospesi, il titolare del contratto di ricerca puo' chiedere che il periodo di sospensione sia computato nell'ambito della durata triennale del contratto".
 
-##### Art. 24-bis
+### Art. 24-bis
 
 (( (Tecnologi a tempo determinato).
 
@@ -1094,7 +1086,7 @@ Il D.L. 16 luglio 2020, n. 76, convertito con modificazioni dalla L. 11 settembr
 
 5\. I contratti di cui al presente articolo non danno luogo a diritti in ordine all'accesso ai ruoli del personale accademico o tecnico-amministrativo delle universita'.))
 
-##### Art. 24-ter
+### Art. 24-ter
 
 (( (Tecnologi a tempo indeterminato). ))
 
@@ -1104,7 +1096,7 @@ Il D.L. 16 luglio 2020, n. 76, convertito con modificazioni dalla L. 11 settembr
 
 3\. Con decreto del Ministro dell'universita' e della ricerca sono definiti, nel rispetto delle condizioni e delle modalita' di reclutamento stabilite dall'articolo 35 del decreto legislativo 30 marzo 2001, n. 165, e dall'articolo 19, comma 3-bis, del decreto-legge 12 settembre 2013, n. 104, convertito, con modificazioni, dalla legge 8 novembre 2013, n. 128, i requisiti, i titoli, non inferiori al titolo di laurea magistrale, e le modalita' delle procedure concorsuali per le assunzioni di cui al presente articolo. Nell'ambito dei titoli e' valorizzata la precedente esperienza professionale quale tecnologo a tempo determinato di cui all'articolo 24-bis)).
 
-##### Art. 25 - Collocamento a riposo dei professori e dei ricercatori
+### Art. 25 - Collocamento a riposo dei professori e dei ricercatori
 
 1\. L'articolo 16 del decreto legislativo 30 dicembre 1992, n. 503, non si applica a professori e ricercatori universitari. I provvedimenti adottati dalle universita' ai sensi della predetta norma decadono alla data di entrata in vigore della presente legge, ad eccezione di quelli che hanno gia' iniziato a produrre i loro effetti. ((8))
 
@@ -1114,7 +1106,7 @@ AGGIORNAMENTO (8)
 
 La Corte Costituzionale, con sentenza 6 - 9 maggio 2013, n. 83 (in G.U. 1a s.s. 15/5/2013, n. 20), ha dichiarato "l'illegittimita' costituzionale dell'articolo 25 della legge 30 dicembre 2010, n. 240 (Norme in materia di organizzazione delle universita', di personale accademico e reclutamento, nonche' delega al governo per incentivare la qualita' e l'efficienza del sistema universitario)".
 
-##### Art. 26 - Disciplina dei lettori di scambio
+### Art. 26 - Disciplina dei lettori di scambio
 
 1\. In esecuzione di accordi culturali internazionali che prevedono l'utilizzo reciproco di lettori, le universita' possono conferire a studiosi stranieri in possesso di qualificata e comprovata professionalita' incarichi annuali rinnovabili per lo svolgimento di attivita' finalizzate alla diffusione della lingua e della cultura del Paese di origine e alla cooperazione internazionale.
 
@@ -1140,7 +1132,7 @@ La Corte Costituzionale, con sentenza 6 - 9 maggio 2013, n. 83 (in G.U. 1a s.s. 
 
 > 5\. L'articolo 28 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382 , e' abrogato.»
 
-##### Art. 27 - Anagrafe degli studenti
+### Art. 27 - Anagrafe degli studenti
 
 1\. All'articolo 1-bis, comma 1, alinea, del decreto-legge 9 maggio 2003, n. 105, convertito, con modificazioni, dalla legge 11 luglio 2003, n. 170, le parole: «, in particolare,» sono soppresse.
 
@@ -1162,7 +1154,7 @@ La Corte Costituzionale, con sentenza 6 - 9 maggio 2013, n. 83 (in G.U. 1a s.s. 
 
 > f) monitorare e sostenere le esperienze formative in ambito lavorativo degli studenti iscritti, anche ai fini del riconoscimento dei periodi di alternanza studio-lavoro come crediti formativi.»
 
-##### Art. 28
+### Art. 28
 
 (Istituzione di un Fondo per la formazione e
 
@@ -1192,7 +1184,7 @@ della ricerca)
 
 > «5. Al fine di agevolare il perseguimento degli obiettivi di finanza pubblica, anche mediante interventi volti alla riduzione della pressione fiscale, nello stato di previsione del Ministero dell'economia e delle finanze e' istituito un apposito «Fondo per interventi strutturali di politica economica», alla cui costituzione concorrono le maggiori entrate, valutate in 2.215,5 milioni di euro per l'anno 2005, derivanti dal comma 1.»
 
-##### Art. 29 - Norme transitorie e finali
+### Art. 29 - Norme transitorie e finali
 
 1\. Fermo restando quanto previsto dal comma 2 del presente articolo, a decorrere dalla data di entrata in vigore della presente legge, per la copertura dei posti di professore ordinario e associato, di ricercatore e di assegnista di ricerca, le universita' possono avviare esclusivamente le procedure previste dal presente titolo.
 

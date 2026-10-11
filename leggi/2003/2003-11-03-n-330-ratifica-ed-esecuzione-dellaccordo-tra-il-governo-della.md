@@ -27,21 +27,21 @@ Promulga
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo tra il Governo della Repubblica italiana ed il Governo della Repubblica algerina democratica e popolare relativo ai trasporti internazionali su strada di viaggiatori e merci e di transito, fatto ad Algeri il 24 ottobre 2000.
 
-#### Art. 2
+### Art. 2
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore in conformita' a quanto disposto dall'articolo 29 dell'Accordo stesso.
 
-#### Art. 3
+### Art. 3
 
 1\. Per l'attuazione della presente legge e' autorizzata la spesa di euro 6.905 annui ad anni alterni a decorrere dal 2003. Al relativo onere si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2003-2005, nell'ambito dell'unita' previsionale di base di parte corrente «Fondo speciale» dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2003, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri.
 
 2\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 4
+### Art. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -73,13 +73,13 @@ IL GOVERNO DELLA REPUBBLICA ITALIANA ED IL GOVERNO DELLA REPUBBLICA ALGERINA DEM
 
 al fine di facilitare e regolare nel reciproco interesse i trasporti su strada di viaggiatori e merci tra i due Stati, sia con destinazione sia in transito nei rispettivi territori, hanno concordato quanto segue:
 
-#### Articolo 1
+### Articolo 1
 
 Campo di applicazione
 
 I trasportatori di ciascuno Stato Contraente hanno diritto di effettuare trasporti di viaggiatori e merci sia con destinazione sia in transito nel territorio dell'altra Parte Contraente con autoveicoli immatricolati nello Stato Contraente in cui il trasportatore ha la sede, secondo le modalita' stabilite nel presente Accordo.
 
-#### Articolo 2
+### Articolo 2
 
 Definizioni
 
@@ -91,11 +91,9 @@ Ai sensi del presente Accordo e per la sua applicazione, si intende per:
 
 3 - Autorizzazione: ogni licenza, concessione o autorizzazione rilasciata ai sensi delle disposizioni del presente Accordo.
 
-## TITOLO II - AUTOTRASPORTO VIAGGIATORI
+## TITOLO II - AUTOTRASPORTO VIAGGIATORI Servizi regolari
 
-### Servizi regolari
-
-#### Articolo 3
+### Articolo 3
 
 Agli effetti del presente Accordo e' considerato servizio regolare il trasporto di viaggiatori effettuato con veicolo su itinerario determinato secondo frequenze, orari e tariffe prestabiliti, previamente pubblicati.
 
@@ -105,11 +103,11 @@ I veicoli con i quali e' esercitato tale servizio debbono essere idonei alle nec
 
 Ai fini del regolare svolgimento del servizio il trasportatore e' tenuto ad accettare a bordo del veicolo qualsiasi viaggiatore che si presenti nei luoghi di partenza e di fermata - salvo quanto disposto dal successivo articolo 6 - nel rispetto delle disposizioni di legge nazionali che regolano i servizi di linea per il trasporto di persone.
 
-#### Articolo 4
+### Articolo 4
 
 I servizi regolari tra i due Paesi sono istituiti di comune accordo dalle Autorita'. competenti delle Parti Contraenti sulla base delle determinazioni della Commissione Mista prevista dall'art. 26 dei presente Accordo.
 
-#### Articolo 5
+### Articolo 5
 
 Il servizio regolare di trasporto di viaggiatori e' attivato in base ad apposita autorizzazione, non cedibile.
 
@@ -129,13 +127,13 @@ Le autorizzazioni sono rilasciate dalle Autorita' competenti delle Parti Contrae
 
 L'originale dell'autorizzazione o copia conforme della stessa, rilasciata dalle Autorita' competenti, deve trovarsi sempre a bordo del veicolo durante il trasporto.
 
-#### Articolo 6
+### Articolo 6
 
 I trasportatori non possono effettuare servizio interno di viaggiatori nel territorio dell'altra Parte Contraente, salvo che non sia stato diversamente convenuto.
 
 ## Servizi regolari di transito
 
-#### Articolo 7
+### Articolo 7
 
 Agli effetti del presente Accordo, e' considerato servizio regolare di transito il trasporto di viaggiatori in partenza dal territorio di una delle Parti Contraenti che attraversa il territorio dell'altra Parte Contraente con destinazione in un terzo Paese, senza che alcun passeggero sia preso o deposto nel territorio dell'altra Parte.
 
@@ -143,7 +141,7 @@ I servizi regolari di transito si effettuano sulla base di una autorizzazione ri
 
 ## Servizi occasionali
 
-#### Articolo 8
+### Articolo 8
 
 Agli effetti del presente Accordo, e' considerato servizio occasionale il trasporto di viaggiatori effettuato secondo le seguenti modalita':
 
@@ -159,7 +157,7 @@ b) trasporto sullo stesso veicolo delle medesime persone quando il percorso ha i
 
 c) servizio effettuato a vuoto sul territorio dell'altra Parte Contraente per trasportare nel Paese di immatricolazione del veicolo gruppi formati in base ad un accordo preventivo tra il trasportatore e un committente.
 
-#### Articolo 9
+### Articolo 9
 
 I servizi previsti alle lettere a) e b) dell'articolo 8 del presente Accordo, sono effettuati senza alcuna autorizzazione, anche se si tratti di un transito.
 
@@ -175,7 +173,7 @@ Le Autorita' competenti si scambieranno un contingente annuale di moduli di auto
 
 ## ALTRI SERVIZI DI TRASPORTO VIAGGIATORI
 
-#### Articolo 10
+### Articolo 10
 
 Per tutti gli altri servizi di trasporto viaggiatori con veicolo non previsti negli articoli Precedenti del presente Accordo e' necessario ottenere preventivamente l'autorizzazione rilasciata dall'Autorita' competente dell'altra Parte Contraente.
 
@@ -191,7 +189,7 @@ L'Autorita' del Paese nel quale ha sede il trasportatore richiedente rilascia l'
 
 ## TITOLO III - AUTOTRASPORTO DI MERCI
 
-#### Articolo 11
+### Articolo 11
 
 Con l'autorizzazione rilasciata dall'Autorita' competente dell'altra Parte Contraente, e con esclusione dei casi previsti dal successivo art. 12 o su decisione della Commissione Mista prevista dall'art. 26 del presente Accordo, ogni trasportatore di una Parte Contraente ha il diritto di importare temporaneamente un veicolo, vuoto o carico, sul territorio dell'altra Parte Contraente al fine di trasportare merci:
 
@@ -201,7 +199,7 @@ b) in transito sul territorio dell'altra Parte Contraente.
 
 Nell'effettuazione del trasporto di merci l'ingresso, il movimento e la permanenza dei veicoli, nonche' dei conducenti, nel territorio dell'altra Parte Contraente potranno essere sottoposti, a titolo di reciprocita', a particolari condizioni, controlli e cautele, quando lo richiedano esigenze di sicurezza dello Stato.
 
-#### Articolo 12
+### Articolo 12
 
 Fatte salve le disposizioni particolari previste nella materia dalle legislazioni e regolamentazioni nazionali delle due Parti Contraenti, l'autorizzazione prevista nell'articolo precedente non e' richiesta per i seguenti trasporti:
 
@@ -225,7 +223,7 @@ Fatte salve le disposizioni particolari previste nella materia dalle legislazion
 
 10\. i trasporti di api e avannotti.
 
-#### Articolo 13
+### Articolo 13
 
 L'autorizzazione, valida per l'andata e il ritorno, non e' cedibile e da' diritto al trasportatore ad effettuare un solo viaggio con un veicolo, entro il periodo di validita' indicato nell'autorizzazione.
 
@@ -235,7 +233,7 @@ contingentamento per il quale e' rilasciata
 
 Ai fini del presente Accordo, i trasporti in transito sono quelli effettuati con destinazione o in provenienza da un Paese terzo e che attraversano il territorio dell'altra Parte Contraente senza che vi sia carico o scarico di merci su questo territorio.
 
-#### Articolo 14
+### Articolo 14
 
 1 trasportatori stabiliti sul territorio di una delle Parti Contraenti non possono effettuare:
 
@@ -245,35 +243,35 @@ Ai fini del presente Accordo, i trasporti in transito sono quelli effettuati con
 
 ## TITOLO IV - DISPOSIZIONI DI CARATTERE GENERALE
 
-#### Articolo 15
+### Articolo 15
 
 I requisiti di capacita' tecnica e professionale dei trasportatori, l'idoneita' dei veicoli, il contenuto dei documenti di circolazione dei veicoli, l'idoneita' alla guida dei conducenti, la copertura assicurativa ed i massimali contro i rischi di responsabilita' civile verso i terzi e verso i viaggiatori trasportati, sono determinati, nel rispetto delle disposizioni nazionali in vigore, dalle Autorita' competenti dei due Paesi.
 
 Le condizioni di polizza assicurativa debbono essere comunque conformi alle disposizioni di legge vigenti nel Paese' in cui si effettua il trasporto.
 
-#### Articolo 16
+### Articolo 16
 
 Le modalita' per il rilascio dei biglietti, per la compilazione dei documenti richiesti per il trasporto dei viaggiatori e delle merci, per la tenuta dei registri contabili e per la rilevazione dei dati statistici da scambiare fra le Autorita' competenti, sono fissate di comune accordo dai rispettivi organi delle Parti Contraenti.
 
-#### Articolo 17
+### Articolo 17
 
 Ai sensi del presente Accordo, i trasportatori e il personale impiegato sui veicoli con i quali si effettua il trasporto sono tenuti a rispettare le norme relative alla circolazione stradale ed ai trasporti in vigore nel territorio della Parte Contraente, quando tali veicoli si trovano nel territorio di quest'ultima.
 
 Per le violazioni delle norme di cui al comma precedente, il responsabile risponde davanti alle Autorita' competenti della Parte Contraente nel territorio della quale le violazioni sono state commesse.
 
-#### Articolo 18
+### Articolo 18
 
 I trasportatori delle due Parti Contraenti sono obbligati al rispetto delle .norme valutarie e fiscali in vigore nel territorio della Parte Contraente ove si effettua il trasporto.
 
 La Commissione Mista indicata nell' art 26 potra' proporre alle Autorita' competenti in materia fiscale delle Parti Contraenti, secondo il principio della reciprocita', di far beneficiare i trasporti effettuati ai sensi del presente Accordo di misure di facilitazione fiscale che siano consentite dalla legislazione dei due Stati.
 
-#### Articolo 19
+### Articolo 19
 
 Ciascuna Parte Contraente consente l'ingresso nel suo territorio dei veicoli immatricolati nel territorio dell'altra Parte Contraente in esenzione temporanea dai diritti doganali senza proibizioni ne' restrizioni e a condizione che tali veicoli siano riesportati.
 
 Le Parti Contraenti possono disporre che tali veicoli siano sottoposti alle formalita' doganali richieste per la temporanea importazione nel rispettivo territorio.
 
-#### Articolo 20
+### Articolo 20
 
 Il conducente e gli altri membri dell'equipaggio del veicolo possono importare temporaneamente, in esenzione dai diritti doganali e dalle tasse di entrata, una quantita' ragionevole di oggetti necessari ai loro bisogni personali, per le normali esigenze di viaggio, in misura proporzionale alla durata del loro soggiorno sul territorio dell'altra Parte Contraente, a condizione che tali oggetti non siano ceduti.
 
@@ -281,17 +279,17 @@ Sono ugualmente esonerati dai diritti doganali e dalle tasse di entrata le provv
 
 Questi benefici sono accordati alle condizioni fissate dalle Autorita' doganali e che concernono l'importazione in esenzione temporanea degli oggetti destinati all'uso personale dei viaggiatori.
 
-#### Articolo 21
+### Articolo 21
 
 Sono ammessi in esenzione dai diritti doganali e dalle tasse di entrata, senza proibizioni ne' restrizioni, i combustibili e i carburanti contenuti nei serbatoi normali dei veicoli temporaneamente importati restando inteso che il serbatoio normale e' quello previsto dal costruttore per il tipo di veicolo di cui trattasi.
 
-#### Articolo 22
+### Articolo 22
 
 I pezzi di ricambio destinati alla riparazione di un veicolo, gia' importato temporaneamente, che effettua uno dei trasporti previsti dal presente Accordo, sono ammessi in esenzione temporanea dai diritti doganali e dalle tasse di entrata, senza restrizioni ne' proibizioni, nel rispetto delle formalita' doganali previste dagli ordinamenti delle Parti Contraenti.
 
 Per le parti sostituite e non riesportate e' dovuto il pagamento dei diritti doganali e delle tasse di entrata, a meno che, conformemente alle disposizioni della legislazione del Paese d'importazione, dette parti siano state cedute gratuitamente a tale Paese, ove cio' sia consentito dalla normativa doganale vigente, oppure distrutte a spese degli interessati, sotto vigilanza dell'Autorita' doganale.
 
-#### Articolo 23
+### Articolo 23
 
 La fatturazione ed i pagamenti per i servizi di trasporto effettuati in applicazione del presente Accordo, dovranno essere eseguiti in valuta liberamente convertibile al tasso di cambio di mercato vigente il giorno dei pagamenti stessi.
 
@@ -299,7 +297,7 @@ I relativi trasferimenti dovranno avvenire in tempi ragionevoli secondo gli usi 
 
 Qualora dovesse essere concluso un Accordo di pagamento tra le Parti Contraenti, i pagamenti di cui sopra avranno luogo secondo le disposizioni di quest'ultimo Accordo.
 
-#### Articolo 24
+### Articolo 24
 
 In caso di violazione delle disposizioni del presente Accordo commesse nel territorio dell'altra Parte Contraente e ferme restando le sanzioni irrogate nel Paese in cui l'infrazione e' rilevata, l'Autorita' competente della Parte Contraente nel territorio della quale il veicolo e' immatricolato decide - su segnalazione dell'Autorita' competente dell'altra Parte Contraente - l'applicazione di una delle seguenti sanzioni:
 
@@ -313,7 +311,7 @@ d) revoca dell'autorizzazione ad effettuare trasporto merci o viaggiatori nel Pa
 
 Le Autorita' che adottano le sanzioni sono tenute ad informare quelle che le hanno richieste.
 
-#### Articolo 25
+### Articolo 25
 
 Tutte le questioni concernenti le modalita' d'applicazione del presente Accordo saranno risolte d'intesa tra le Autorita' competenti delle Parti contraenti, che sono:
 
@@ -321,7 +319,7 @@ Tutte le questioni concernenti le modalita' d'applicazione del presente Accordo 
 
 \- per la Repubblica Algerina Democratica e Popolare: Il Ministero dei trasporti, Direzione dei trasporti terrestri.
 
-#### Articolo 26
+### Articolo 26
 
 E' istituita una Commissione Mista, composta da rappresentanti delle Autorita' competenti delle Parti Contraenti, con i seguenti compiti:
 
@@ -343,11 +341,11 @@ Le Autorita' competenti delle Parti Contraenti designano i rappresentanti che si
 
 Le determinazioni della Commissione Mista sono sottoposte all'approvazione delle Autorita' competenti dei due Paesi.
 
-#### Articolo 27
+### Articolo 27
 
 La legislazione interna di ciascuna Parte Contraente si applica a tutte le questioni che non sono regolamentate dal presente Accordo o dalle convenzioni internazionali alle quali aderiscono entrambe le Parti Contraenti.
 
-#### Articolo 28
+### Articolo 28
 
 I conducenti e il personale impiegato sui veicoli adibiti al trasporto di persone e di merci sono tenuti a rispettare le disposizioni legislative, regolamentari e amministrative in vigore nello Stato Contraente in cui si svolge il trasporto e in particolare la normativa nazionale che disciplina l'ingresso e il soggiorno nei rispettivi territori.
 
@@ -359,7 +357,7 @@ viaggiatori
 
 ## TITOLO V - DISPOSIZIONI FINALI
 
-#### Articolo 29
+### Articolo 29
 
 Il presente Accordo entrera' in vigore trenta giorni dopo la data della ricezione dell'ultima notifica per iscritto attraverso i canali diplomatici - circa l'adempimento delle procedure interne previste dalle Parti Contraenti per la sua ratifica.
 
@@ -379,6 +377,6 @@ Pier Luigi BERSANI Hamid LOUNAOUCI
 
 Parte di provvedimento in formato grafico
 
-#### Accord
+### Accord
 
 Parte di provvedimento in formato grafico

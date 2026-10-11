@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I
+## Capo I - NORME SULLA INDICAZIONE DELL'ORIGINE E CLASSIFICAZIONE DEGLI OLI DI OLIVA VERGINI
 
-### NORME SULLA INDICAZIONE DELL'ORIGINE E CLASSIFICAZIONE DEGLI OLI DI - OLIVA VERGINI
-
-#### Art. 1
+### Art. 1
 
 Modalita' per l'indicazione di origine
 
@@ -46,7 +44,7 @@ Modalita' per l'indicazione di origine
 
 5\. L'indicazione di cui al comma 4 lascia impregiudicata l'osservanza dell'articolo 4, commi 3 e 4, del citato decreto ministeriale 10 novembre 2009.
 
-#### Art. 2
+### Art. 2
 
 Comitato di assaggiatori
 
@@ -154,7 +152,7 @@ h) orario di inizio e di chiusura della procedura di prova».
 
 > L'allegato XII al Regolamento (CEE) della Commissione n. 2568/91 dell'11 luglio 1991, relativo alle caratteristiche degli oli d'oliva e degli oli di sansa d'oliva nonche' ai metodi ad essi attinenti, e' stato pubblicato nella G.U.C.E. 5 settembre 1991, n. L 248.
 
-#### Art. 3
+### Art. 3
 
 Ulteriore modifica all'articolo 43 del decreto-legge 22 giugno 2012, n. 83, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 134
 
@@ -166,11 +164,9 @@ Ulteriore modifica all'articolo 43 del decreto-legge 22 giugno 2012, n. 83, conv
 
 > Per il testo dell'articolo 43 del citato decreto legge n.83 del 2012, come modificato dalla presente legge, si veda nelle note all'art. 1.
 
-## Capo II
+## Capo II - NORME SULLA TRASPARENZA E SULLA TUTELA DEL CONSUMATORE
 
-### NORME SULLA TRASPARENZA E SULLA TUTELA DEL CONSUMATORE
-
-#### Art. 4
+### Art. 4
 
 Divieto di pratiche commerciali ingannevoli
 
@@ -180,7 +176,7 @@ Divieto di pratiche commerciali ingannevoli
 
 3\. E' ingannevole attribuire valutazioni organolettiche agli oli di oliva diversi dagli oli extravergini ((o vergini)) e comunque indicare attributi positivi non previsti dall'allegato XII in materia di valutazione organolettica dell'olio di oliva vergine, di cui al regolamento (CEE) n. 2568/91 della Commissione, dell'11 luglio 1991, e successive modificazioni.
 
-#### Art. 5
+### Art. 5
 
 Illiceita' dei marchi
 
@@ -208,7 +204,7 @@ Illiceita' dei marchi
 
 > c) per non uso ai sensi dell'articolo 24.".
 
-#### Art. 6
+### Art. 6
 
 Ipotesi di reato connesse alla fallace indicazione nell'uso del marchio
 
@@ -238,7 +234,7 @@ Ipotesi di reato connesse alla fallace indicazione nell'uso del marchio
 
 > 49-quater. Le Camere di commercio industria artigianato ed agricoltura territorialmente competenti ricevono il rapporto di cui all'articolo 17 della legge 24 novembre 1981, n. 689, ai fini dell'irrogazione delle sanzioni pecuniarie amministrative di cui al precedente comma 49-bis.".
 
-#### Art. 7
+### Art. 7
 
 Termine minimo di conservazione e presentazione degli oli di oliva nei pubblici esercizi
 
@@ -250,11 +246,9 @@ Termine minimo di conservazione e presentazione degli oli di oliva nei pubblici 
 
 4\. All'articolo 4 del decreto-legge 10 gennaio 2006, n. 2, convertito, con modificazioni, dalla legge 11 marzo 2006, n. 81, i commi 4-quater e 4-quinquies sono abrogati.
 
-## Capo III
+## Capo III - NORME SUL FUNZIONAMENTO DEL MERCATO E DELLA CONCORRENZA
 
-### NORME SUL FUNZIONAMENTO DEL MERCATO E DELLA CONCORRENZA
-
-#### Art. 8
+### Art. 8
 
 Poteri della Autorita' garante della concorrenza e del mercato in materia di intese restrittive nel mercato degli oli di oliva vergini
 
@@ -266,7 +260,7 @@ Poteri della Autorita' garante della concorrenza e del mercato in materia di int
 
 > La legge 10 ottobre 1990, n. 287 (Norme per la tutela della concorrenza e del mercato) e' pubblicata nella Gazzetta Ufficiale 13 ottobre 1990, n. 240.
 
-#### Art. 9
+### Art. 9
 
 Ammissione al regime di perfezionamento attivo per gli oli di oliva vergini
 
@@ -302,7 +296,7 @@ Ammissione al regime di perfezionamento attivo per gli oli di oliva vergini
 
 > 9\. In sede locale, il coordinamento operativo di cui al comma 8 e' assunto, in situazioni di emergenza, dal prefetto.".
 
-#### Art. 10
+### Art. 10
 
 Norme contro il segreto delle importazioni agroalimentari
 
@@ -312,17 +306,15 @@ L'accesso ai documenti di cui al presente articolo non comporta il rischio di di
 
 2\. Fatte salve le ipotesi in cui sussiste segreto istruttorio, per le quali e' necessaria l'autorizzazione della competente autorita' giudiziaria, le autorita' di cui al comma 1 rendono disponibili le informazioni detenute attraverso la creazione di collegamenti a sistemi informativi e a banche dati elettroniche gestiti da altre autorita' pubbliche.
 
-#### Art. 11
+### Art. 11
 
 Disciplina sulla vendita sottocosto degli oli di oliva extra vergini
 
 1\. Nel settore degli oli di oliva extra vergini la vendita sottocosto e' soggetta a comunicazione al comune dove e' ubicato l'esercizio commerciale almeno venti giorni prima dell'inizio e puo' essere effettuata solo una volta nel corso dell'anno. E' comunque vietata la vendita sottocosto effettuata da un esercizio commerciale che, da solo o congiuntamente a quelli dello stesso gruppo di cui fa parte, detiene una quota superiore al 10 per cento della superficie di vendita complessiva esistente nel territorio della provincia dove ha sede l'esercizio.
 
-## Capo IV
+## Capo IV - NORME SUL CONTRASTO DELLE FRODI
 
-### NORME SUL CONTRASTO DELLE FRODI
-
-#### Art. 12
+### Art. 12
 
 Responsabilita' degli enti per gli illeciti amministrativi dipendenti da reato
 
@@ -398,7 +390,7 @@ b) sottoposte alla direzione o alla vigilanza di uno dei soggetti di cui alla le
 
 > I delitti previsti dai commi primo e secondo sono punibili a condizione che siano state osservate le norme delle leggi interne, dei regolamenti comunitari e delle convenzioni internazionali in materia di tutela delle indicazioni geografiche e delle denominazioni di origine dei prodotti agroalimentari.".
 
-#### Art. 13
+### Art. 13
 
 Sanzioni accessorie alla condanna per il delitto di contraffazione di indicazioni geografiche o denominazioni di origine dei prodotti agroalimentari
 
@@ -432,7 +424,7 @@ Sanzioni accessorie alla condanna per il delitto di contraffazione di indicazion
 
 > luogo nei modi stabiliti nei due capoversi precedenti.".
 
-#### Art. 14
+### Art. 14
 
 Rafforzamento degli istituti processuali ed investigativi
 
@@ -480,7 +472,7 @@ Rafforzamento degli istituti processuali ed investigativi
 
 > Per il testo degli articoli 473, 474 e 517-quater del codice penale, si veda nelle note all'art. 12.
 
-#### Art. 15
+### Art. 15
 
 Sanzioni accessorie in caso di condanna per il delitto di adulterazione o contraffazione
 
@@ -508,7 +500,7 @@ b) l'accesso a contributi, finanziamenti o mutui agevolati o altre erogazioni de
 
 > Chiunque adultera o contraffa', in modo pericoloso alla salute pubblica, cose destinate al commercio, diverse da quelle indicate nell'articolo precedente, e' punito con la reclusione da uno a cinque anni o con la multa non inferiore a euro 309.".
 
-#### Art. 16
+### Art. 16
 
 Obbligo di costituzione e aggiornamento del fascicolo aziendale
 
@@ -520,11 +512,9 @@ Obbligo di costituzione e aggiornamento del fascicolo aziendale
 
 3-bis. Non sono tenuti all'obbligo di costituire o aggiornare il fascicolo aziendale i produttori di cui al comma 1 che producono olio destinato esclusivamente all'autoconsumo la cui produzione non supera 350 kg di olio per campagna di commercializzazione.
 
-## Capo V
+## Capo V - NORME FINALI
 
-### NORME FINALI
-
-#### Art. 17
+### Art. 17
 
 Invarianza degli oneri. Entrata in vigore
 

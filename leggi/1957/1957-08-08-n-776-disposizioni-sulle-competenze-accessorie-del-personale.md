@@ -27,11 +27,9 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I - Indennita' di missione e di trasferimento; indennita' in luogo della
+## CAPO I - Indennita' di missione e di trasferimento; indennita' in luogo della missione al personale addetto alle linee telegrafiche e telefoniche
 
-### missione al personale addetto alle linee telegrafiche e telefoniche
-
-#### Art. 1
+### Art. 1
 
 Salvo quanto disposto nei commi e negli articoli successivi, al personale dipendente dal Ministero delle poste e delle telecomunicazioni sono applicabili le indennita' di missione e di trasferimento stabilite per il personale delle Amministrazioni dello Stato.
 
@@ -45,11 +43,11 @@ Le disposizioni di cui ai precedenti commi secondo, terzo e quarto sono applicab
 
 Al personale non di ruolo spettano le indennita' stabilite per il grado iniziale del ruolo corrispondente alla categoria di appartenenza.
 
-#### Art. 2
+### Art. 2
 
 Agli agenti, ai salariati permanenti e temporanei ed agli operai giornalieri dipendenti dal Circolo delle costruzioni telegrafiche e telefoniche addetti ai lavori sulle reti e sugli impianti telegrafonici, nonche' agli autisti, comandati a prestare servizio nella circoscrizione di un altro Circolo, spetta il trattamento di missione stabilito per il personale delle Amministrazioni dello Stato.
 
-#### Art. 3
+### Art. 3
 
 Al personale di cui all'art. 2 comandato a prestare servizio nella circoscrizione del Circolo da cui dipende, ma a otto chilometri almeno dalla sede del Circolo stesso o dalla sede della zona di appartenenza, per lavori che comportino una assenza di durata non inferiore a cinque ore, viene corrisposto, salvo quanto disposto dal successivo art. 5, un compenso orario nelle seguenti misure:
 
@@ -82,7 +80,7 @@ Agli effetti del precedente comma si considera continuativo il servizio prestato
 
 Al personale motociclista incaricato della ricerca e rimozione dei guasti lungo le linee, e' attribuita una speciale indennita' di lire 50 per ogni giorno nel quale per almeno due ore sia applicato nell'incarico suddetto.
 
-#### Art. 4
+### Art. 4
 
 Per i percorsi eseguiti a piedi per perlustrazioni ordinarie, per ricerca di guasti o per recarsi sul lavoro, limitatamente, in questo ultimo caso, ai percorsi eseguiti all'inizio ed alla fine di ogni lavoro, e' corrisposto al personale di cui all'art. 2 un compenso di lire 25 a chilometro.
 
@@ -96,7 +94,7 @@ L'aumento del 20 per cento non spetta sul prezzo del biglietto di trasporto per 
 
 Per i percorsi eseguiti con mezzi gratuiti compete una indennita' di lire 1 per chilometro percorso.
 
-#### Art. 5
+### Art. 5
 
 Al personale di cui all'art. 2 (esclusi i salariati di 4ª categoria e gli operai giornalieri non specializzati), con mansioni di dirigente di zona, dirigente di squadra di lavoro, giuntista di cavi, apparecchiatore, specialista per lavori su mensole, specialista per la posa dei cavi terrestri e subacquei e di circuiti telefonici aerei per alta frequenza, e' concessa, limitatamente ai giorni nei quali, per la durata di almeno otto ore, il personale in parola e' effettivamente adibito alle mansioni di cui trattasi entro una distanza inferiore a chilometri otto dalla sede del Cirrolo e dalla sede della zona di appartenenza, una indennita' come dal seguente prospetto:
 
@@ -104,11 +102,11 @@ capi squadra di 1ª e 2ª classe e capi operai . . . . . . . . L. 450 salariati 
 
 salariati di 2ª categoria. . . . . . . . . . . . . . . . . . L. 400 salariati di 3ª categoria e operai giornalieri specializzati. L. 350
 
-#### Art. 6
+### Art. 6
 
 Ai fini della corresponsione della indennita' di cui ai precedenti articoli 3, 4 e 5 gli interessati dovranno curare che su apposito libretto siano apposti i prescritti visti ed annotata da parte degli uffici poste e telegrafi delle stazioni ferroviarie, dei capizona e delle autorita' a cio' autorizzate, l'ora di presentazione. Per i lavori nelle squadre il visto dovra' essere rilasciato dal dirigente di squadra.
 
-#### Art. 7
+### Art. 7
 
 L'indennita' di missione e' concessa al personale, anche se in aspettativa per motivi di salute, quando sia chiamato per subire una visita medico-fiscale, in localita' diversa da quella della sua residenza.
 
@@ -116,7 +114,7 @@ Al personale chiamato quale testimonio per istruttoria in procedimenti penali o 
 
 ## CAPO II - Indennita' per servizio straordinario
 
-#### Art. 8
+### Art. 8
 
 E' considerato straordinario e da' luogo ad un compenso, il lavoro eseguito dal personale di ruolo e non di ruolo per inderogabili esigenze di servizio, oltre la durata giornaliera del lavoro ordinario prescritto.
 
@@ -124,21 +122,21 @@ Nei giorni di orario ridotto, il personale comandato a prolungare il suo servizi
 
 Il semplice spostamento dell'orario normale in una od in piu' giornate consecutive, quando non si supera complessivamente la durata del lavoro ordinario prescritta per lo stesso periodo di tempo, non da' luogo a compenso per lavoro straordinario.
 
-#### Art. 9
+### Art. 9
 
 Nel computo del lavoro straordinario le frazioni complessivamente inferiori a mezz'ora nello stesso mese si trascurano, quelle uguali o superiori si valutano un'ora intera. - E' vietato di corrispondere compensi sotto forma di retribuzione per ore di lavoro straordinario quando ad essi non corrispondano effettive prestazioni eseguite oltre la durata del lavoro ordinario.
 
-#### Art. 10
+### Art. 10
 
 Per determinare la misura oraria del compenso per il lavoro straordinario al personale dipendente dal Ministero delle poste e delle telecomunicazioni valgono le norme stabilite per il personale delle Amministrazioni dello Stato.
 
-#### Art. 11
+### Art. 11
 
 L'espletamento di lavoro straordinario retribuito puo' essere autorizzato ed approvato limitatamente alle effettive esigenze del servizio, in sostituzione di impiegati mancanti all'assegno di ciascun ufficio, o in conto della scorta a ciascun ufficio assegnata dalla Amministrazione centrale per la sostituzione del personale assente.
 
 Per esigenze diverse da quelle indicate nel precedente comma, il lavoro straordinario e' autorizzato dal direttore generale.
 
-#### Art. 12
+### Art. 12
 
 Non potranno compiersi mensilmente piu' di 48 ore di servizio straordinario dagli impiegati e 60 dagli, agenti. Sono escluse dal computo per raggiungere tali limiti, nei riguardi del personale addetto ai servizi esecutivi:
 
@@ -150,7 +148,7 @@ c) le ore di servizio straordinario indispensabili per fronteggiare speciali e t
 
 Per il personale subalterno in servizio presso il Gabinetto del Ministro e la Segreteria del Sottosegretario di Stato il numero massimo delle ore retribuibili e' fissato a 96.
 
-#### Art. 13
+### Art. 13
 
 Per i servizi per i quali vige il sistema del cottimo, le norme e le tariffe per i lavori resi oltre l'orario di obbligo, ovvero per determinare la resa corrispondente alla prestazione oraria giornaliera, sono approvate dal direttore generale.
 
@@ -166,13 +164,13 @@ Nel computo mensile le frazioni minori di cinque pezzi si trascurano; quelle fin
 
 Qualora i fattorini siano adibiti al servizio di recapito soltanto per alcuni giorni del mese, il computo dei pezzi recapitati si effettua in relazione alle giornate di effettiva presenza al recapito.
 
-#### Art. 14
+### Art. 14
 
 In caso assolutamente eccezionale ed in relazione a particolari esigenze di servizio possono essere conferiti compensi speciali in eccedenza ai limiti stabiliti coi precedenti articoli, con le norme di cui all'art. 6 del decreto legislativo Presidenziale 27 giugno 1946, n. 19, e successive modificazioni
 
 ## CAPO III - Premio di maggiore produzione
 
-#### Art. 15
+### Art. 15
 
 Al personale dipendente dal Ministero delle poste e delle telecomunicazioni che, per attivita', diligenza e rendimento si renda meritevole di particolare considerazione puo' essere concesso un premio nella misura mensile variante fino all'importo massimo previsto nella tabella allegata alla presente legge, vista e firmata dai Ministri per le poste e Le telecomunicazioni per il tesoro.
 
@@ -198,7 +196,7 @@ Per ogni singolo miglioramento, dipendente dall'applicazione di norme generali o
 
 ## CAPO IV - Indennita' di stazione, di porto e di confine
 
-#### Art. 16
+### Art. 16
 
 Al personale addetto agli uffici istituiti per la corrispondenza e per i pacchi presso le stazioni ferroviarie, i porti, gli aeroporti, le sedi di confine e gli uffici autonomi di sdoganamento, nonche' al personale viaggiante ed a quello dipendente da uffici principali distaccato per il servizio di movimento, presso gli scali ferroviari, i porti, gli aeroporti e le sedi di confine, nonche' al personale dell'Azienda di Stato per i servizi telefonici, addetto alle stazioni amplificatrici di confine, e' attribuita una indennita' mensile nella misura appresso indicata:
 
@@ -210,7 +208,7 @@ Tutte le indennita' anzidette sono corrisposte in relazione ai giorni di effetti
 
 ## CAPO V - Indennita' per servizio serale e notturno
 
-#### Art. 17
+### Art. 17
 
 Al personale che presta servizio in uffici diversi da quelli indicati nel successivo art. 19, durante le ore serali e notturne (dalle 22 alle 6), spettano le seguenti indennita', orarie:
 
@@ -226,7 +224,7 @@ Agenti........................................."|    45    |   100
 
 Ai direttori di turno, capiturno e sottocapi, con almeno cinque unita' alle proprie dipendenze, negli uffici con servizio permanente, nonche' ai capiturno di notte alla commutazione telefonica con almeno cinque dipendenti e che compiano l'intero orario, compete inoltre l'indennita' di lire 100 per ogni notte.
 
-#### Art. 18
+### Art. 18
 
 Sono stabilite le seguenti indennita' complessive per ciascuna notte, "per servizio notturno ridotto non retribuibile con le indennita' di cui al precedente articolo:
 
@@ -240,7 +238,7 @@ Impiegati. . . . . . . . . . . . . . . . . . . . . . . . L. 130
 
 ## CAPO VI - Indennita' per i servizi viaggianti
 
-#### Art. 19
+### Art. 19
 
 Al personale in servizio negli uffici ambulanti e natanti o in servizio viaggiante di messaggere e' concessa una indennita' la quale viene determinata secondo i seguenti coefficienti:
 
@@ -256,13 +254,13 @@ Le indennita' di cui sopra sono conteggiate ad ore intere, le frazioni di ora in
 
 3\) indennita' oraria serale e notturna per il servizio in viaggio secondo le tariffe risultanti dal precedente art. 17.
 
-#### Art. 20
+### Art. 20
 
 Nel caso di ritardo nell'arrivo dei treni e dei piroscafi ai punti estremi della corsa, quando il ritardo non e' inferiore alla mezza ora, per il relativo periodo, in luogo dell'indennita' di cui ai numeri 1) e 2) del precedente art. 19, compete una indennita' uguale a quella stabilita dall'art. 10 per il servizio straordinario, nonche', quando ne sia il caso, dall'art. 17, per il servizio serale e notturno.
 
 ## CAPO VII - Indennita', maneggio valori
 
-#### Art. 21
+### Art. 21
 
 L'indennita' di maneggio valori e' concessa ai funzionari sottonotati o, in caso di assenza, ai loro sostituti, nella seguente misura mensile:
 
@@ -278,15 +276,15 @@ depositari provinciali delle carte valori e relativi controllori, titolari e con
 
 ## CAPO VIII - Compensi vari.
 
-#### Art. 22
+### Art. 22
 
 Ai fattorini telegrafici e ad altri agenti direttamente dipendenti dall'Amministrazione, che sono tenuti a fase uso in servizio della bicicletta e per il periodo in cui tale uso e' effettuato, e' concessa, per prestazione e manutenzione della medesima, una indennita' mensile di lire 1000. A coloro che facciano uso di mezzi motorizzati e' corrisposta l'indennita' di lire 1500.
 
-#### Art. 23
+### Art. 23
 
 Agli impiegati che adempiono all'incarico della manutenzione degli apparati telegrafici, e' concessa l'indennita' mensile di lire 1200.
 
-#### Art. 24
+### Art. 24
 
 Agli agenti addetti alla manutenzione delle pile e degli accumulatori negli uffici telegrafici, al personale tecnico incaricato della stessa manutenzione nelle stazioni radioelettriche, agli addetti alle stazioni di ricarica per i trattori elettrici, nonche' al personale tecnico incaricato della manutenzione degli accumulatori negli uffici per i servizi telefonici di Stato, e' concesso un compenso mensile nella seguente misura:
 
@@ -316,7 +314,7 @@ b) agli agenti incaricati della piccola manutenzione di macchine calcolatrici, v
 
 Per le frazioni di giornate lavorative, il compenso resta fissato in lire 20 orarie.
 
-#### Art. 25
+### Art. 25
 
 Al personale tecnico, anche se appartenente ai ruolo direttivo, e meccanico dei servizi telefonici di Stato addetto alle stazioni amplificatrici, a quelle dei ponti radio, alle centrali interurbane ed agli autocommutatori, all'officina telefonica centrale, alle squadre di manutenzione esterna della rete e agli addetti all'esercizio ed alla manutenzione degli impianti di telegrafia armonica su cavo, o su linea aerea o addetti a speciali misure di trasmissione, nonche' al personale tecnico degli uffici telegrafici incaricato dell'esercizio e manutenzione delle apparecchiature di telegrafia armonica, installate presso gli uffici stessi, agli addetti alle centrali telegrafiche automatiche, telefoto e fac-simile, nonche' agli esperimentisti addetti a tale compito per tutto l'orario, negli uffici in cui l'assegno lo prevede, e' concessa una indennita' di servizio speciale nelle seguenti misure giornaliere:
 
@@ -328,7 +326,7 @@ Nei riguardi del personale addetto agli impianti per i quali e' richiesta una pa
 
 Nei confronti del personale in servizio in localita' particolarmente disagiate, situate a notevole distanza dagli abitati, si puo' applicare la maggiorazione del 200 per cento sulle indennita' base previste dal presente articolo.
 
-#### Art. 26
+### Art. 26
 
 Agli impiegati del Ministero delle poste e delle telecomunicazioni, nominati interpreti di lingue estere o traduttori, compete una indennita' mensile di lire 5000.
 
@@ -340,7 +338,7 @@ Al personale per i servizi telefonici di Stato che, previ accertamenti, risulti 
 
 La stessa indennita' giornaliera spetta agli operatori telegrafici e radiotelegrafici che, previ accertamenti, risultino avere conoscenza di lingue estere, in servizio sui circuiti internazionali e al personale telefonico e radiotelefonico abilitato al servizio con l'estero.
 
-#### Art. 27
+### Art. 27
 
 Al personale addetto ai servizi telefonici che contribuisce allo sviluppo, al miglioramento ed all'intensificazione del traffico puo' essere corrisposto un premio in misura non superiore a lire 5000 mensili da stabilirsi con le modalita' e con le limitazioni di cui al precedente art. 15.
 
@@ -356,7 +354,7 @@ da 210 unita' di conversazioni in poi giornaliere, premio di lire 450 giornalier
 
 Il premio di cui al precedente comma viene maggiorato del 10 per cento nei riguardi dei capi uffici interurbani e loro coadiuvanti addetti ai servizi della commutazione nonche' delle direttrici ed assistenti degli stessi servizi.
 
-#### Art. 28
+### Art. 28
 
 Al personale addetto al servizio di operatore radiotelegrafico tanto in Morse che in fonia e all'operatore addetto all'espletamento del servizio radiotelefonico e' concesso mensilmente un premio di cointeressenza come segue:
 
@@ -366,7 +364,7 @@ Ai dirigenti e ai capiturno e' concesso mensilmente un premio di cointeressenza 
 
 Il premio spettante al personale di cui al primo comma non puo' superare mensilmente la somma di lire 3900, quello spettante al personale di cui al secondo comma non puo' superare la somma di lire 5200.
 
-#### Art. 29
+### Art. 29
 
 Negli uffici telegrafici, determinati dalla Amministrazione centrale, e per le linee di comunicazione che saranno dalla medesima stabilite, e' concesso ai telegrafisti ad esse addetti per ogni telegramma di quindici parole (escluso il preambolo) scambiato nel turno di servizio giornaliero, un premio orario di rendimento tantieme nella misura seguente:
 
@@ -390,33 +388,33 @@ Nelle localita' sedi di uffici telegrafici principali nei quali esiste il serviz
 
 da 51 a 55 telegrammi/ora . . . . . . . . . . . . . . . . L. 0,20 da 56 a 65 telegrammi/ora . . . . . . . . . . . . . . . . L. 0,22 oltre i 65 telegrammi/ora . . . . . . . . . . . . . . . . L. 0,25
 
-#### Art. 30
+### Art. 30
 
 Al personale addetto alle macchine elettrocontabili dei centri meccanografici dipendenti dal Ministero delle poste e delle telecomunicazioni, e' concesso un premio giornaliero di specializzazione e rendimento per ogni giornata di effettivo lavoro:
 
 capo centro. . . . . . . . . . . . . . . . . . . . . . . . L. 600 capi reparto . . . . . . . . . . . . . . . . . . . . . . . L. 550 capi gruppo, capiturno e sorveglianti addetti alle grandi macchine . . . . . . . . . . . . . . . . . . . . . . . . . . . L. 525 capi gruppo alla perforazione manuale. . . . . . . . . . . L. 275 operatori alle grandi macchine . . . . . . . . . . . . . . L. 500 operatori alla perforazione manuale. . . . . . . . . . . . L. 250 controlli e adempimenti vari . . . . . . . . . . . . . . . L. 225
 
-#### Art. 31
+### Art. 31
 
 Al personale addetto ai lavori di linea e alla manutenzione della rete di posta pneumatica, nonche' ai gruppi elettrogeni, e' concessa una indennita' di servizio speciale per ogni giorno di effettiva prestazione nella seguente misura:
 
 capi delle squadre di lavoro . . . . . . . . . . . . . . . L. 100 altro personale compreso quello addetto ai gruppi elettrogeni. L. 60
 
-#### Art. 32
+### Art. 32
 
 A tutti i dipendenti del Ministero delle poste e delle telecomunicazioni, comunque denominati, che prestano servizio in uffici di zone malariche, riconosciute tali dall'Alto Commissariato dell'igiene e della sanita' pubblica, e' concessa un'indennita' giornaliera di lire 27.
 
 Agli operai giornalieri tale indennita' e' concessa per le giornate per le quali spetta ad essi la paga.
 
-#### Art. 33
+### Art. 33
 
 Le disposizioni contenute nell'allegato 1 al decreto legislativo del Capo provvisorio dello Stato 4 ottobre 1947, n. 1182, modificato dalla legge 8 luglio 1949, n. 464, dalla legge 17 febbraio 1950, n. 53, e dalla legge 13 ottobre 1950, n. 908, sono sostituite dalla presente legge.
 
-#### Art. 34
+### Art. 34
 
 Alla maggiore spesa derivante dall'applicazione degli articoli precedenti, l'Amministrazione delle poste e dei telegrafi e l'Azienda di Stato per i servizi telefonici faranno fronte con disponibilita' dei propri bilanci.
 
-#### Art. 35
+### Art. 35
 
 La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica Italiana, ed ha effetto dal 1 luglio 1956.
 
@@ -434,7 +432,7 @@ Visto, il Guardasigilli: GONELLA
 
 ## CAPO VIII - Compensi vari.
 
-#### Tabella
+### Tabella
 
 Tabella del premio di maggiore produzione
 

@@ -91,11 +91,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - RECEPIMENTO DELLA DIRETTIVA 2009/140/CE
 
-### RECEPIMENTO DELLA DIRETTIVA 2009/140/CE
-
-#### Art. 1
+### Art. 1
 
 Definizioni
 
@@ -421,7 +419,7 @@ qq-quater) servizi correlati: i servizi correlati ad una rete di comunicazione e
 
 > qq-quater) servizi correlati: i servizi correlati ad una rete di comunicazione elettronica o ad un servizio di comunicazione elettronica che permettono o supportano la fornitura di servizi attraverso tale rete o servizio, o sono potenzialmente in grado di farlo, compresi tra l'altro i servizi di traduzione del numero o i sistemi che svolgono funzioni analoghe, i sistemi di accesso condizionato e le guide elettroniche ai programmi, nonche' altri servizi quali quelli relativi all'identita', alla posizione e alla presenza.".
 
-#### Art. 2
+### Art. 2
 
 Principi generali
 
@@ -441,7 +439,7 @@ Principi generali
 
 > 3\. Sono fatte salve le limitazioni derivanti da esigenze della difesa e della sicurezza dello Stato, della protezione civile, della salute pubblica e della tutela dell'ambiente e della riservatezza e protezione dei dati personali, poste da specifiche disposizioni di legge o da disposizioni regolamentari di attuazione.".
 
-#### Art. 3
+### Art. 3
 
 Ministero e Autorita'
 
@@ -477,7 +475,7 @@ Ministero e Autorita'
 
 > 3-quater. L'Autorita' dispone di risorse finanziarie e umane sufficienti affinche' possa partecipare e contribuire attivamente al BEREC. Essa sostiene attivamente gli obiettivi del BEREC relativamente alla promozione di un coordinamento e di una coerenza normativi maggiori e, allorche' adotta le proprie decisioni, tiene nella massima considerazione i pareri e le posizioni comuni adottate dal BEREC.".
 
-#### Art. 4
+### Art. 4
 
 Ricorsi avverso provvedimenti
 
@@ -497,7 +495,7 @@ del Ministero e dell'Autorita'
 
 > 1-bis. Il Ministero e l'Autorita', ciascuno per le materie di propria competenza, raccolgono informazioni sull'argomento generale dei ricorsi, sul numero di richieste di ricorso, sulla durata delle procedure di ricorso e sul numero di decisioni di concedere misure provvisorie. Il Ministero e l'Autorita', nell'ambito delle rispettive materie trattate, comunicano le informazioni previste dal presente comma alla Commissione e al BEREC, su richiesta motivata di uno di essi.".
 
-#### Art. 5
+### Art. 5
 
 Comunicazione di informazioni
 
@@ -523,7 +521,7 @@ Comunicazione di informazioni
 
 > 5\. Il Ministero e l'Autorita' pubblicano, entro e non oltre novanta giorni dall'entrata in vigore del Codice, le disposizioni relative all'accesso del pubblico alle informazioni di cui al presente articolo, comprese guide e procedure dettagliate per ottenere tale accesso. Ogni decisione di diniego dell'accesso alle informazioni deve essere esaurientemente motivata e tempestivamente comunicata alle parti interessate.".
 
-#### Art. 6
+### Art. 6
 
 Meccanismo di consultazione e di trasparenza
 
@@ -543,7 +541,7 @@ Meccanismo di consultazione e di trasparenza
 
 > 3\. Il provvedimento di apertura della procedura di consultazione, la proposta di provvedimento ed i risultati della procedura di consultazione, ad eccezione delle informazioni riservate ai sensi della normativa nazionale e comunitaria vigente, sono tempestivamente pubblicati sui Bollettini ufficiali e sui siti Internet del Ministero e dell'Autorita'.".
 
-#### Art. 7
+### Art. 7
 
 Consolidamento del mercato interno per le comunicazioni elettroniche
 
@@ -597,7 +595,7 @@ g) il comma 6, e' sostituito dal seguente: "6. In circostanze straordinarie l'Au
 
 > L'Autorita' comunica immediatamente tali provvedimenti, esaurientemente motivati, alla Commissione europea e alle Autorita' di regolamentazione degli altri Stati membri e al BEREC. La decisione dell'Autorita' di estendere il periodo di efficacia dei provvedimenti cosi' adottati o di renderli permanenti e' soggetta alla procedura di cui ai commi 3 e 4.".
 
-#### Art. 8
+### Art. 8
 
 Procedura per la coerente applicazione
 
@@ -621,7 +619,7 @@ b) mantenere il suo progetto di misura.
 
 6\. L'Autorita' puo' ritirare il progetto di misura in qualsiasi fase della procedura.".
 
-#### Art. 9
+### Art. 9
 
 Obiettivi e principi dell'attivita' di regolamentazione
 
@@ -725,7 +723,7 @@ f) imponendo obblighi regolamentari ex ante unicamente dove non opera una concor
 
 > 9\. Ogni atto di regolamentazione dell'Autorita' deve recare l'analisi di cui al comma 8 ed essere conseguentemente motivato.".
 
-#### Art. 10
+### Art. 10
 
 Pianificazione strategica e coordinamento
 
@@ -737,7 +735,7 @@ della politica in materia di spettro radio
 
 2\. Il Ministero, cooperando con i competenti organi degli altri Stati membri e con la Commissione europea, promuove il coordinamento delle politiche in materia di spettro radio nell'Unione europea e, ove opportuno, l'instaurazione di condizioni armonizzate per quanto concerne la disponibilita' e l'uso efficiente dello spettro radio, che sono necessari per la realizzazione e il funzionamento del mercato interno delle comunicazioni elettroniche.".
 
-#### Art. 11
+### Art. 11
 
 Gestione delle radiofrequenze per i servizi
 
@@ -789,7 +787,7 @@ d) promuovere la diversita' culturale e linguistica ed il pluralismo dei media, 
 
 10\. Il rinvio al presente articolo operato dal comma 3 dell'articolo 8-novies del decreto-legge 8 aprile 2008, n. 59, convertito, con modificazioni, dalla legge 6 giugno 2008, n. 101, si intende riferito all'articolo 14-ter.".
 
-#### Art. 12
+### Art. 12
 
 Riesame delle limitazioni esistenti e trasferimento o affitto di diritti individuali d'uso delle radiofrequenze
 
@@ -817,7 +815,7 @@ L'impresa subentrante e' tenuta a notificare al Ministero l'avvenuto trasferimen
 
 6\. Il Ministero, all'esito della verifica, svolta dall'Autorita', sentita l'Autorita' Garante della concorrenza e del mercato, che la concorrenza non sia falsata in conseguenza dei trasferimenti dei diritti d'uso, puo' apporre all'autorizzazione, se necessario, le specifiche condizioni proposte. Qualora l'uso delle radiofrequenze sia stato armonizzato mediante l'applicazione della decisione n. 676/2002/CE o di altri provvedimenti dell'Unione europea, l'obbligo di uso armonizzato resta valido anche in caso di trasferimento o affitto.".
 
-#### Art. 13
+### Art. 13
 
 Numerazione, assegnazione dei nomi
 
@@ -857,7 +855,7 @@ a dominio e indirizzamento
 
 > 7\. Per l'espletamento delle funzioni di cui al presente articolo, l'Istituto superiore delle comunicazioni e delle tecnologie dell'informazione presta la sua collaborazione all'Autorita'.".
 
-#### Art. 14
+### Art. 14
 
 Sicurezza e integrita' e attuazione e controllo
 
@@ -895,7 +893,7 @@ L'impresa si assume l'onere finanziario della verifica.
 
 4\. Nel caso in cui il Ministero riscontri, anche su indicazione dell'Autorita', il mancato rispetto degli articoli 16-bis o 16-ter ovvero delle disposizioni attuative previste dal comma 1 da parte delle imprese che forniscono reti pubbliche di comunicazioni o servizi di comunicazione elettronica accessibili al pubblico, si applicano le sanzioni di cui all'articolo 98, commi da 4 a 12.".
 
-#### Art. 15
+### Art. 15
 
 Imprese che dispongono di un significativo
 
@@ -919,7 +917,7 @@ potere di mercato
 
 > Pertanto possono essere applicate misure correttive volte a prevenire tale influenza sul secondo mercato a norma degli articoli 46, 47, 48 e 50 e, qualora tali misure correttive risultino essere insufficienti, possono essere imposte misure correttive a norma dell'articolo 67.".
 
-#### Art. 16
+### Art. 16
 
 Procedura per l'individuazione
 
@@ -935,7 +933,7 @@ e la definizione dei mercati
 
 > 1\. L'Autorita', tenendo in massima considerazione le Raccomandazioni relative ai mercati rilevanti di prodotti e servizi del settore delle comunicazioni elettroniche, di seguito denominate «le raccomandazioni», e le linee direttrici, definisce i mercati rilevanti conformemente ai principi del diritto della concorrenza e sulla base delle caratteristiche e della struttura del mercato nazionale delle comunicazioni elettroniche. Prima di definire mercati diversi da quelli individuati nelle raccomandazioni, l'Autorita' applica la procedura di cui agli articoli 11 e 12.".
 
-#### Art. 17
+### Art. 17
 
 Procedura per l'analisi del mercato
 
@@ -987,7 +985,7 @@ b) entro due anni dall'adozione di una raccomandazione sui mercati rilevanti per
 
 > 9\. (abrogato).".
 
-#### Art. 18
+### Art. 18
 
 Normalizzazione
 
@@ -1005,7 +1003,7 @@ In mancanza di tali norme o specifiche, il Ministero promuove l'applicazione del
 
 > 2\. Fintantoche' le norme o specifiche di cui al comma 1 non siano adottate dalla Commissione europea, il Ministero promuove l'applicazione delle norme e specifiche adottate dalle organizzazioni europee di normalizzazione. In mancanza di tali norme o specifiche, il Ministero promuove l'applicazione delle norme o raccomandazioni internazionali adottate dall'Unione internazionale delle telecomunicazioni (UIT), dalla Conferenza europea delle amministrazioni delle poste e delle telecomunicazioni (CEPT), dall'Organizzazione internazionale per la standardizzazione (ISO) o dalla Commissione elettrotecnica internazionale (IEC).".
 
-#### Art. 19
+### Art. 19
 
 Interoperabilita' dei servizi di televisione interattiva digitale
 
@@ -1027,7 +1025,7 @@ Interoperabilita' dei servizi di televisione interattiva digitale
 
 > 2\. Fermo restando quanto disposto all'articolo 42, comma 2, lettera b), l'Autorita', sentito il Ministero, incoraggia i proprietari delle API a rendere disponibile a condizioni eque, ragionevoli e non discriminatorie e dietro adeguata remunerazione, tutte le informazioni necessarie a consentire ai fornitori di servizi di televisione digitale interattiva di fornire tutti i servizi supportati dalle API in una forma pienamente funzionale.".
 
-#### Art. 20
+### Art. 20
 
 Risoluzione delle controversie tra imprese
 
@@ -1047,7 +1045,7 @@ Risoluzione delle controversie tra imprese
 
 > 3\. Nella risoluzione delle controversie l'Autorita' persegue gli obiettivi di cui all'articolo 13. Gli obblighi che possono essere imposti ad un'impresa dall'Autorita' nel quadro della risoluzione di una controversia sono conformi alle disposizioni del Codice.".
 
-#### Art. 21
+### Art. 21
 
 Risoluzione delle controversie transnazionali
 
@@ -1087,7 +1085,7 @@ L'Autorita' e l'Autorita' di regolamentazione dell'altro Stato membro, comunican
 
 > 4\. La procedura di cui al comma 2 non preclude alle parti la possibilita' di adire un organo giurisdizionale.".
 
-#### Art. 22
+### Art. 22
 
 Autorizzazione generale per le reti e
 
@@ -1123,7 +1121,7 @@ i servizi di comunicazione elettronica
 
 > 8\. Una autorizzazione generale puo' essere ceduta a terzi, anche parzialmente e sotto qualsiasi forma, previa comunicazione al Ministero nella quale siano chiaramente indicati le frequenze radio ed i numeri oggetto di cessione. Il Ministero entro sessanta giorni dalla presentazione della relativa istanza da parte dell'impresa cedente, puo' comunicare il proprio diniego fondato sulla non sussistenza in capo all'impresa cessionaria dei requisiti oggettivi e soggettivi per il rispetto delle condizioni di cui all'autorizzazione medesima. Il termine e' interrotto per una sola volta se il Ministero richiede chiarimenti o documentazione ulteriore e decorre nuovamente dalla data in cui pervengono al Ministero stesso i richiesti chiarimenti o documenti.".
 
-#### Art. 23
+### Art. 23
 
 Diritti di uso delle frequenze radio e dei numeri
 
@@ -1191,7 +1189,7 @@ Nel caso delle frequenze radio il Ministero, nel rilasciare i diritti, precisa s
 
 > 9\. Qualora l'Autorita' decida, previa consultazione delle parti interessate ai sensi dell'articolo 11, che i diritti di uso dei numeri ai quali potrebbe attribuirsi un valore economico eccezionale debbano essere concessi mediante procedure di selezione competitiva o comparativa, le decisioni devono essere comunicate e pubblicate entro cinque settimane.".
 
-#### Art. 24
+### Art. 24
 
 Condizioni apposte all' autorizzazione generale, ai diritti di uso delle frequenze radio e dei numeri
 
@@ -1215,7 +1213,7 @@ L'autorizzazione generale e' sempre sottoposta alla condizione n. 11 della parte
 
 > 4\. Nel concedere i diritti di uso delle frequenze radio o dei numeri il Ministero applica le sole condizioni elencate, rispettivamente, nelle parti B e C dell'allegato n. 1.".
 
-#### Art. 25
+### Art. 25
 
 Procedura per limitare il numero dei diritti di uso
 
@@ -1263,7 +1261,7 @@ da concedere per le frequenze radio
 
 > 7\. In caso di procedure di selezione competitiva o comparativa di particolare rilevanza nazionale, l'Autorita' puo' sottoporre al Ministro dello sviluppo economico, la proposta, da trasmettere alla Presidenza del Consiglio dei Ministri, di costituzione di un Comitato di Ministri incaricato di coordinare la procedura stessa, in particolare per quanto attiene al bando ed al disciplinare di gara.".
 
-#### Art. 26
+### Art. 26
 
 Osservanza delle condizioni dell'autorizzazione generale, dei diritti di uso e degli obblighi specifici
 
@@ -1305,7 +1303,7 @@ b) ingiunzioni di cessare o ritardare la fornitura di un servizio o di un pacche
 
 > 6\. Le imprese hanno diritto di ricorrere contro le misure adottate ai sensi del presente articolo, secondo la procedura di cui all'articolo 9.".
 
-#### Art. 27
+### Art. 27
 
 Informazioni richieste ai fini dell'autorizzazione
 
@@ -1351,7 +1349,7 @@ f-ter) per valutare sviluppi futuri a livello di reti e servizi che potrebbero a
 
 > 3\. Quando il Ministero o l'Autorita', nell'ambito delle rispettive competenze, richiedono informazioni alle imprese ai sensi del comma 1, gli stessi sono tenuti ad informare queste ultime circa l'uso che intendono farne.".
 
-#### Art. 28
+### Art. 28
 
 Modifica dei diritti e degli obblighi
 
@@ -1361,7 +1359,7 @@ Modifica dei diritti e degli obblighi
 
 2\. I diritti d'uso delle frequenze radio o i diritti di installare strutture non possono essere limitati o revocati prima della scadenza del periodo per il quale sono stati concessi. Limitazioni e revoche sono ammesse in casi eccezionali e adeguatamente motivati e previo congruo indennizzo.".
 
-#### Art. 29
+### Art. 29
 
 Pubblicazione delle informazioni
 
@@ -1369,7 +1367,7 @@ Pubblicazione delle informazioni
 
 "Art. 37 (Pubblicazione delle informazioni). - 1. Le informazioni pertinenti su diritti, condizioni, procedure, riscossione di diritti amministrativi e contributi e sulle decisioni attinenti alle autorizzazioni generali, ai diritti di uso e ai diritti di installare strutture sono pubblicate, a seconda dei casi, nella Gazzetta Ufficiale della Repubblica italiana ovvero sui siti Internet delle autorita' competenti e sono debitamente aggiornate, in modo da consentire a tutti gli interessati di accedervi facilmente.".
 
-#### Art. 30
+### Art. 30
 
 Concessioni e autorizzazioni preesistenti
 
@@ -1391,7 +1389,7 @@ Concessioni e autorizzazioni preesistenti
 
 > 4\. Restano ferme le norme speciali sulle concessioni ed autorizzazioni preesistenti in materia di radiodiffusione sonora e televisiva.".
 
-#### Art. 31
+### Art. 31
 
 Diritti ed obblighi degli operatori
 
@@ -1409,7 +1407,7 @@ Diritti ed obblighi degli operatori
 
 > 3\. Fatto salvo l'articolo 33, gli operatori che ottengono informazioni da un altro operatore prima, durante o dopo il negoziato sugli accordi in materia di accesso o di interconnessione utilizzano tali informazioni esclusivamente per i fini per cui sono state fornite e osservano in qualsiasi circostanza gli obblighi di riservatezza delle informazioni trasmesse o memorizzate. Le informazioni ricevute non sono comunicate ad altre parti, in particolare ad altre unita' organizzative, ad altre societa' consociate o partner commerciali, per i quali esse potrebbero rappresentare un vantaggio concorrenziale.".
 
-#### Art. 32
+### Art. 32
 
 Poteri e competenze dell'Autorita' in materia
 
@@ -1447,7 +1445,7 @@ di accesso e di interconnessione
 
 > 5\. Ove giustificato, l'Autorita' puo', di propria iniziativa, intervenire in materia di accesso e interconnessione di cui ai comma 1 e 2 al fine di garantire il conseguimento degli obiettivi previsti all'articolo 13, sulla base delle disposizioni del presente Capo e secondo le procedure di cui agli articoli 11, 12, 23 e 24.".
 
-#### Art. 33
+### Art. 33
 
 Riesame degli obblighi precedenti in materia
 
@@ -1455,7 +1453,7 @@ di accesso e di interconnessione
 
 1\. L'articolo 44 del decreto legislativo 1° agosto 2003, n. 259, e' abrogato.
 
-#### Art. 34
+### Art. 34
 
 Imposizione, modifica o revoca degli obblighi
 
@@ -1485,7 +1483,7 @@ Imposizione, modifica o revoca degli obblighi
 
 > 5\. Nei casi di cui al comma 2, lettera a), l'Autorita' notifica alla Commissione europea le proprie decisioni di imporre, modificare o revocare gli obblighi nei confronti dei soggetti del mercato, conformemente alle procedure stabilite dall' articolo 12.".
 
-#### Art. 35
+### Art. 35
 
 Obbligo di trasparenza
 
@@ -1509,7 +1507,7 @@ Obbligo di trasparenza
 
 > 4\. In deroga al comma 3, se un operatore e' soggetto agli obblighi di cui all'articolo 49 relativi all'accesso all'ingrosso all'infrastruttura della rete, l'Autorita' provvede alla pubblicazione di un'offerta di riferimento contenente almeno gli elementi riportati nell'allegato n. 3.".
 
-#### Art. 36
+### Art. 36
 
 Obblighi in materia di accesso e di uso
 
@@ -1575,7 +1573,7 @@ di determinate risorse di rete
 
 > 3-bis. L'Autorita' puo', nell'imporre ad un operatore l'obbligo di concedere l'accesso ai sensi del presente articolo, stabilire condizioni tecniche o operative che devono essere soddisfatte dal prestatore di servizi o dai beneficiari di tale accesso, ove necessario per garantire il funzionamento normale della rete. L'obbligo di rispettare determinate norme o specifiche tecniche e' conforme alle norme e alle specifiche stabilite conformemente all'articolo 20 del presente Codice.".
 
-#### Art. 37
+### Art. 37
 
 Obblighi in materia di controllo dei prezzi
 
@@ -1599,7 +1597,7 @@ e di contabilita' dei costi
 
 > 4\. L'Autorita' provvede affinche', qualora sia imposto un sistema di contabilita' dei costi a sostegno di una misura di controllo dei prezzi, sia pubblicata una descrizione, che illustri quanto meno le categorie principali di costi e le regole di ripartizione degli stessi. La conformita' al sistema di contabilita' dei costi e' verificata da un organismo indipendente dalle parti interessate, avente specifiche competenze, incaricato dall'Autorita'. E' pubblicata annualmente una dichiarazione di conformita' al sistema. I costi relativi alle verifiche rientrano tra quelli coperti ai sensi dall'articolo 34.".
 
-#### Art. 38
+### Art. 38
 
 Separazione funzionale e separazione volontaria da parte di un'impresa verticalmente integrata
 
@@ -1645,7 +1643,7 @@ Art. 50-ter (Separazione volontaria da parte di un'impresa verticalmente integra
 
 4\. Qualora intenda cedere tutte le sue attivita' nelle reti di accesso locale, o una parte significativa di queste, a un'entita' giuridica separata appartenente a una proprieta' diversa, l'impresa designata conformemente al comma 1 informa preventivamente e tempestivamente l'Autorita' per permetterle di valutare l'effetto della transazione prevista sulla fornitura dell'accesso in postazione fissa e sulla fornitura dei servizi telefonici ai sensi dell'articolo 54. L'Autorita' puo' imporre, modificare o revocare gli obblighi specifici conformemente all'articolo 28, comma 2.".
 
-#### Art. 39
+### Art. 39
 
 Fornitura dell'accesso agli utenti finali
 
@@ -1675,7 +1673,7 @@ d) dopo il comma 2 e' aggiunto il seguente: "2-bis. Qualsiasi richiesta ragionev
 
 > Il Ministero vigila sull'applicazione del presente comma.".
 
-#### Art. 40
+### Art. 40
 
 Elenco abbonati e servizi di consultazione
 
@@ -1705,7 +1703,7 @@ Elenco abbonati e servizi di consultazione
 
 > 7\. Ogni impresa e' tenuta a rendere disponibili, anche per via telematica, al centro di elaborazione dati del Ministero dell'interno gli elenchi di tutti i propri abbonati e di tutti gli acquirenti del traffico prepagato della telefonia mobile, che sono identificati prima dell'attivazione del servizio, al momento della consegna o messa a disposizione della occorrente scheda elettronica (S.I.M.). Le predette imprese adottano tutte le necessarie misure affinche' venga garantita l'acquisizione dei dati anagrafici riportati su un documento di identita', nonche' del tipo, del numero e della riproduzione del documento presentato dall'acquirente ed assicurano il corretto trattamento dei dati acquisiti. L'autorita' giudiziaria ha facolta' di accedere per fini di giustizia ai predetti elenchi in possesso del centro di elaborazione dati del Ministero dell'interno.".
 
-#### Art. 41
+### Art. 41
 
 Telefoni pubblici a pagamento e altri punti di accesso pubblico alla telefonia vocale
 
@@ -1729,7 +1727,7 @@ c) il comma 2 e' sostituito dal seguente: " 2. In applicazione delle disposizion
 
 > 3\. Le chiamate d'emergenza dai telefoni pubblici a pagamento utilizzando il numero di emergenza unico europeo '112' o altri numeri di emergenza nazionali, sono effettuate gratuitamente e senza dover utilizzare alcun mezzo di pagamento. Il Ministero vigila sull'applicazione del presente comma.".
 
-#### Art. 42
+### Art. 42
 
 Misure destinate agli utenti finali disabili
 
@@ -1755,7 +1753,7 @@ c) dopo il comma 2 e' aggiunto il seguente: "2-bis. Nell'adottare le misure di c
 
 > 2-bis. Nell'adottare le misure di cui ai commi 1 e 2, l'Autorita' favorisce la conformita' con le pertinenti norme o specifiche pubblicate secondo il disposto degli articoli 20, 21 e 22 del Codice.".
 
-#### Art. 43
+### Art. 43
 
 Accessibilita' delle tariffe
 
@@ -1779,7 +1777,7 @@ b) il comma 2 e' sostituito dal seguente: "2. L'Autorita' puo' prescrivere che l
 
 > 4\. L'Autorita' provvede affinche', quando un'impresa designata e' tenuta a proporre opzioni tariffarie speciali, tariffe comuni, comprese le perequazioni tariffarie geografiche, o a rispettare limiti tariffari, le condizioni siano pienamente trasparenti e siano pubblicate ed applicate nel rispetto del principio di non discriminazione. L'Autorita' puo' esigere la modifica o la revoca di determinate formule tariffarie.".
 
-#### Art. 44
+### Art. 44
 
 Qualita' del servizio fornito dalle imprese designate
 
@@ -1805,13 +1803,13 @@ Qualita' del servizio fornito dalle imprese designate
 
 > 6\. L'Autorita' adotta, a fronte di perdurante inadempimento degli obiettivi qualitativi da parte dell'impresa, misure specifiche a norma del Capo II del presente Titolo. L'Autorita' puo' esigere una verifica indipendente o una valutazione dei dati relativi all'efficienza, a spese dell'impresa interessata, allo scopo di garantire l'esattezza e la comparabilita' dei dati messi a disposizione dalle imprese soggette ad obblighi di servizio universale.".
 
-#### Art. 45
+### Art. 45
 
 Verifica e riesame degli obblighi
 
 1\. L'articolo 66 del decreto legislativo 1° agosto 2003, n. 259, e' abrogato.
 
-#### Art. 46
+### Art. 46
 
 Controlli normativi sui servizi al dettaglio
 
@@ -1841,19 +1839,19 @@ b) il comma 3 e' abrogato.
 
 > 5\. Fatti salvi l'articolo 59, comma 2 e l'articolo 60, l'Autorita' non applica i meccanismi di controllo al dettaglio di cui al comma 1 in mercati geografici o tipologie di utenza per i quali abbia accertato l'esistenza di una concorrenza effettiva, anche mediante l'analisi dinamica di cui all'articolo 19, comma 5.".
 
-#### Art. 47
+### Art. 47
 
 Controlli sull'insieme minimo di linee affittate
 
 1\. L'articolo 68 del decreto legislativo 1° agosto 2003, n. 259, e' abrogato.
 
-#### Art. 48
+### Art. 48
 
 Selezione del vettore e preselezione del vettore
 
 1\. L'articolo 69 del decreto legislativo 1° agosto 2003, n. 259, e' abrogato.
 
-#### Art. 49
+### Art. 49
 
 Contratti
 
@@ -1959,7 +1957,7 @@ f) il comma 6 dell'articolo 70 del decreto legislativo 1° agosto 2003, n. 259, 
 
 > 6\. (abrogato).".
 
-#### Art. 50
+### Art. 50
 
 Trasparenza e pubblicazione delle informazioni
 
@@ -2033,7 +2031,7 @@ b) i mezzi di protezione contro i rischi per la sicurezza personale, per la vita
 
 > b) i mezzi di protezione contro i rischi per la sicurezza personale, per la vita privata e per i dati personali nella fruizione di servizi di comunicazione elettronica.".
 
-#### Art. 51
+### Art. 51
 
 Qualita' del servizio
 
@@ -2069,7 +2067,7 @@ c) dopo il comma 2 sono aggiunti, in fine, i seguenti:
 
 > 2-quater. Nel deliberare sulle prescrizioni di cui al comma 2-bis del presente articolo, l'Autorita' tiene nella massima considerazione le osservazioni o raccomandazioni eventualmente formulate dalla Commissione europea in esito alla comunicazione di cui al comma 2.".
 
-#### Art. 52
+### Art. 52
 
 Disponibilita' di servizi
 
@@ -2087,7 +2085,7 @@ b) il comma 1 e' sostituito dal seguente: "1. Il Ministero stabilisce le misure 
 
 > 1\. Il Ministero stabilisce le misure necessarie per garantire la piu' ampia disponibilita' possibile dei servizi telefonici accessibili al pubblico forniti attraverso le reti pubbliche di comunicazioni, in caso di incidenti gravi di rete o nei casi di forza maggiore. Le imprese fornitrici di servizi telefonici accessibili al pubblico devono adottare tutte le misure necessarie per garantire l'accesso ininterrotto ai servizi di emergenza.".
 
-#### Art. 53
+### Art. 53
 
 Garanzia di accesso e di scelta equivalenti
 
@@ -2103,7 +2101,7 @@ b) beneficiare della gamma di imprese e servizi a disposizione della maggior par
 
 2\. Per essere in grado di adottare ed attuare norme specifiche per gli utenti finali disabili, vengono predisposte apparecchiature terminali che offrono i servizi e le funzionalita' necessarie.".
 
-#### Art. 54
+### Art. 54
 
 Servizi di consultazione degli elenchi telefonici
 
@@ -2135,7 +2133,7 @@ e) il comma 4 e' sostituito dal seguente: "4. Gli utenti finali degli altri Stat
 
 > 5\. I commi 1, 2, 3 e 4 si applicano, fatte salve le disposizioni in materia di protezione dei dati personali e della vita privata nel settore delle comunicazioni.".
 
-#### Art. 55
+### Art. 55
 
 Disposizioni per favorire l'attuazione del numero di emergenza unico europeo
 
@@ -2149,7 +2147,7 @@ Ai componenti della commissione non spetta alcun compenso e rimborso spese.
 
 3\. Ai fini di quanto previsto al comma 1, possono essere stipulati protocolli d'intesa con le regioni interessate, anche per l'utilizzo di strutture gia' esistenti.".
 
-#### Art. 56
+### Art. 56
 
 Servizi di emergenza e numero
 
@@ -2193,7 +2191,7 @@ Cio' si applica altresi' per ogni chiamata al numero di emergenza unico europeo 
 
 > 3-ter. Il Ministero provvede affinche' le imprese interessate mettano gratuitamente a disposizione dell'autorita' incaricata delle chiamate di emergenza le informazioni sulla localizzazione del chiamante nel momento in cui la chiamata raggiunge tale autorita'. Cio' si applica altresi' per ogni chiamata al numero di emergenza unico europeo '112'. Il Ministero estende tale obbligo alle chiamate a numeri di emergenza nazionali. Il Ministero definisce i criteri per l'esattezza e l'affidabilita' delle informazioni fornite sulla localizzazione del chiamante.".
 
-#### Art. 57
+### Art. 57
 
 Prefissi telefonici internazionali
 
@@ -2203,7 +2201,7 @@ Prefissi telefonici internazionali
 
 2\. L'Autorita' provvede affinche' gli operatori esercenti reti telefoniche pubbliche, consentendo le chiamate internazionali, gestiscano qualsiasi chiamata effettuata da o verso lo spazio di numerazione telefonica europeo (ETNS), applicando tariffe analoghe a quelle per le chiamate da e verso altri Stati membri.".
 
-#### Art. 58
+### Art. 58
 
 Numeri armonizzati destinati a servizi armonizzati a valenza sociale, compreso il numero delle hotline destinate ai minori scomparsi
 
@@ -2217,7 +2215,7 @@ Numeri armonizzati destinati a servizi armonizzati a valenza sociale, compreso i
 
 4\. I Ministeri competenti per materia si adoperano per garantire ai cittadini l'accesso a un servizio dedicato per denunciare casi di minori scomparsi, aggiuntivo rispetto alle misure di applicazione generale relative a tutti i numeri nell'arco di numerazione '116' adottate a norma dei commi 1, 2 e 3. Tale servizio sara' disponibile sul numero 116000.".
 
-#### Art. 59
+### Art. 59
 
 Accesso a numeri e servizi
 
@@ -2253,7 +2251,7 @@ c) dopo il comma 1 e' aggiunto il seguente:
 
 > 1-bis. L'Autorita' puo' imporre alle imprese che forniscono reti pubbliche di comunicazione o servizi di comunicazione elettronica accessibili al pubblico di bloccare l'accesso a numeri o servizi caso per caso, ove cio' sia giustificato da motivi legati a frodi o abusi, e imporre che in simili casi i fornitori di servizi di comunicazione elettronica trattengano i relativi ricavi da interconnessione o da altri servizi.".
 
-#### Art. 60
+### Art. 60
 
 Fornitura di prestazioni supplementari
 
@@ -2275,7 +2273,7 @@ b) il comma 3 e' abrogato.
 
 > 3\. (abrogato). ".
 
-#### Art. 61
+### Art. 61
 
 Agevolare il cambiamento di fornitore
 
@@ -2323,7 +2321,7 @@ e) dopo il comma 4 sono aggiunti i seguenti:
 
 > 4-quinquies. L'Autorita' provvede affinche' le condizioni e le contratto modalita' di esercizio del diritto di recesso non agiscano da disincentivo al cambiamento di fornitore di servizi.".
 
-#### Art. 62
+### Art. 62
 
 Obblighi di trasmissione
 
@@ -2333,7 +2331,7 @@ Obblighi di trasmissione
 
 2\. Il Ministero sottopone a riesame gli obblighi di trasmissione con periodicita' regolare.".
 
-#### Art. 63
+### Art. 63
 
 Consultazione dei soggetti interessati
 
@@ -2355,7 +2353,7 @@ b) dopo il comma 2 e' aggiunto il seguente: "2-bis. Ai fini della promozione deg
 
 > 2-bis. Ai fini della promozione degli obiettivi della politica culturale e dei media, quali ad esempio la diversita' culturale e linguistica e il pluralismo dei media, il Ministero e l'Autorita', nell'ambito delle rispettive competenze, promuovono la cooperazione fra le imprese fornitrici di reti o servizi di comunicazione elettronica e i settori interessati alla promozione di contenuti legittimi su tali reti e servizi. Tale cooperazione puo' includere il coordinamento delle informazioni di pubblico interesse da fornire a norma dell'articolo 71, comma 2-quater, e dell'articolo 70, comma 1 e 3.".
 
-#### Art. 64
+### Art. 64
 
 Risoluzione extragiudiziale delle controversie
 
@@ -2387,7 +2385,7 @@ c) al comma 4, dopo le parole: "risoluzione giudiziale delle controversie" sono 
 
 > 4\. Restano ferme le disposizioni vigenti in materia di risoluzione giudiziale delle controversie nonche' le procedure di cui agli articoli 139, 140, 140-bis del decreto legislativo 6 settembre 2005, n. 206, recante il Codice del consumo e, fino all'attuazione di quanto previsto dai commi 1 e 2, quelle vigenti in materia di risoluzione extragiudiziale delle controversie alla data di pubblicazione del Codice nella Gazzetta Ufficiale della Repubblica italiana.".
 
-#### Art. 65
+### Art. 65
 
 Notifica alla Commissione europea
 
@@ -2403,7 +2401,7 @@ Notifica alla Commissione europea
 
 > 2\. L'Autorita' notifica alla Commissione europea gli obblighi di servizio universale imposti alle imprese designate quali imprese soggette ad obblighi di servizio universale. Ogni eventuale cambiamento avente un'incidenza su tali obblighi o sulle imprese soggette alle disposizioni del presente Capo e' notificato senza indugio alla Commissione europea.".
 
-#### Art. 66
+### Art. 66
 
 Infrastrutture di comunicazione elettronica
 
@@ -2437,7 +2435,7 @@ e diritti di passaggio
 
 > 8\. Gli operatori di reti radiomobili di comunicazione elettronica ad uso pubblico provvedono ad inviare ai Comuni ed ai competenti ispettorati territoriali del Ministero la descrizione di ciascun impianto installato, sulla base dei modelli A e B dell'allegato n. 13. I soggetti interessati alla realizzazione delle opere di cui agli articoli 88 e 89 trasmettono al Ministero copia dei modelli C e D del predetto allegato n. 13. Il Ministero puo' delegare ad altro Ente la tenuta degli archivi telematici di tutte le comunicazioni trasmessegli.".
 
-#### Art. 67
+### Art. 67
 
 Coubicazione e condivisione di infrastrutture
 
@@ -2477,7 +2475,7 @@ c) dopo il comma 5 sono aggiunti, in fine, i seguenti:
 
 > 5-quater. I provvedimenti adottati dall'Autorita' o dal Ministero conformemente al presente articolo sono obiettivi, trasparenti, non discriminatori e proporzionati.".
 
-#### Art. 68
+### Art. 68
 
 Divieto di imporre altri oneri
 
@@ -2487,13 +2485,13 @@ Divieto di imporre altri oneri
 
 2\. Gli operatori che forniscono reti di comunicazione elettronica hanno l'obbligo di tenere indenne la Pubblica Amministrazione, l'Ente locale, ovvero l'Ente proprietario o gestore, dalle spese necessarie per le opere di sistemazione delle aree pubbliche specificamente coinvolte dagli interventi di installazione e manutenzione e di ripristinare a regola d'arte le aree medesime nei tempi stabiliti dall'Ente locale. Nessun altro onere finanziario, reale o contributo puo' essere imposto, in conseguenza dell'esecuzione delle opere di cui al Codice o per l'esercizio dei servizi di comunicazione elettronica, fatta salva l'applicazione della tassa per l'occupazione di spazi ed aree pubbliche di cui al capo II del decreto legislativo 15 novembre 1993, n. 507, oppure del canone per l'occupazione di spazi ed aree pubbliche di cui all'articolo 63 del decreto legislativo 15 dicembre 1997, n. 446, e successive modificazioni, calcolato secondo quanto previsto dal comma 2, lettere e) ed f), del medesimo articolo, ovvero dell'eventuale contributo una tantum per spese di costruzione delle gallerie di cui all'articolo 47, comma 4, del predetto decreto legislativo 15 novembre 1993, n. 507.".
 
-#### Art. 69
+### Art. 69
 
 Attivita' soggette ad autorizzazione generale
 
 1\. Il numero 3) della lettera c) del comma 1 dell'articolo 104 del decreto legislativo 1° agosto 2003, n. 259, e' soppresso.
 
-#### Art. 70
+### Art. 70
 
 Libero uso e Banda cittadina - CB
 
@@ -2571,7 +2569,7 @@ Libero uso e Banda cittadina - CB
 
 > 5\. In caso di calamita' coloro che effettuano comunicazioni in «banda cittadina» possono partecipare alle operazioni di soccorso su richiesta delle Autorita' competenti.".
 
-#### Art. 71
+### Art. 71
 
 Elenco esaustivo delle condizioni che possono corredare le autorizzazioni generali (Parte A), i diritti di uso delle frequenze radio (Parte B) e i diritti di uso delle numerazioni (Parte C) come precisato agli articoli 28, comma 1 e 33, comma 1, entro i limiti consentiti ai sensi degli articoli 10, 11, 12, 13 e 14 del Codice
 
@@ -2689,7 +2687,7 @@ Elenco esaustivo delle condizioni che possono corredare le autorizzazioni genera
 
 > 9\. obblighi derivanti dagli accordi internazionali relativi all'uso dei numeri.".
 
-#### Art. 72
+### Art. 72
 
 Elenco minimo di voci da includere nell'offerta di riferimento relativa all'accesso all'ingrosso all'infrastruttura di rete, compreso l'accesso condiviso o pienamente disaggregato alla rete locale in postazione fissa che deve essere pubblicato dagli operatori notificati che detengano un significativo potere di mercato, ai sensi dell'articolo 46 del Codice
 
@@ -2789,7 +2787,7 @@ Informazioni sui siti pertinenti dell'operatore notificato come avente significa
 
 > 3\. Prezzi o modalita' di tariffazione di ciascun elemento, funzione e risorse sopra elencati.".
 
-#### Art. 73
+### Art. 73
 
 Descrizione delle prestazioni e dei servizi citati all'articolo 60 (controllo delle spese), all'articolo 79 (fornitura di prestazioni supplementari) e all'articolo 80 (agevolare il cambiamento di fornitore) del Codice
 
@@ -2921,7 +2919,7 @@ La presente parte non si applica alla portabilita' del numero tra reti che forni
 
 > La presente parte non si applica alla portabilita' del numero tra reti che forniscono servizi in postazione fissa e reti mobili.
 
-#### Art. 74
+### Art. 74
 
 Informazioni da pubblicare a norma
 
@@ -2983,13 +2981,13 @@ Comprendono, se del caso, disposizioni in merito alla durata minima del contratt
 
 > 4\. Informazioni in merito ai diritti inerenti al servizio universale, ivi comprese le prestazioni e i servizi di cui all'allegato n. 4.".
 
-#### Art. 75
+### Art. 75
 
 Parametri, definizioni e metodi di misura previsti agli articoli 61 e 72 del Codice per quanto riguarda i tempi di fornitura e la qualita' del servizio
 
 1\. L'allegato n. 6 del decreto legislativo 1° agosto 2003, n. 259, e' sostituito dall'allegato 1 al presente decreto.
 
-#### Art. 76
+### Art. 76
 
 Interoperabilita' delle apparecchiature di televisione digitale di consumo, (ai sensi dell'articolo 74 del Codice)
 
@@ -3021,7 +3019,7 @@ Tutte le apparecchiature dei consumatori destinate alla ricezione dei segnali de
 
 > Gli apparecchi televisivi digitali a schermo integrale con diagonale visibile superiore a 30 cm, messi in vendita o in locazione, devono disporre di almeno una presa d'interfaccia aperta (normalizzata da un organismo di normalizzazione europeo o conforme ad una specifica dell'industria), ad esempio la presa d'interfaccia comune DVB, che consenta un agevole collegamento di periferiche e sia in grado di trasmettere tutti i componenti di un segnale televisivo digitale, incluse le informazioni sui servizi di accesso condizionato e interattivo.".
 
-#### Art. 77
+### Art. 77
 
 Requisiti per l'insieme minimo di linee
 
@@ -3029,7 +3027,7 @@ affittate di cui all'articolo 68 del Codice
 
 1\. L'allegato n. 8 del decreto legislativo 1° agosto 2003, n. 259, e' abrogato.
 
-#### Art. 78
+### Art. 78
 
 Dichiarazione per l'offerta al pubblico di reti e servizi di
 
@@ -3037,17 +3035,15 @@ comunicazione elettronica di cui all'articolo 25 del Codice
 
 1\. L'allegato n. 9 del decreto legislativo 1° agosto 2003, n. 259, e' sostituito dall'allegato 2 al presente decreto.
 
-#### Art. 79
+### Art. 79
 
 Criteri che l'Autorita' deve utilizzare nell'accertare l'esistenza di una posizione dominante collettiva ai sensi dell'articolo 17, comma 3
 
 1\. Dopo l'allegato n. 26, del decreto legislativo 1° agosto 2003, n. 259, e' inserito l'allegato 3 al presente decreto.
 
-## Capo II
+## Capo II - NORME DI COORDINAMENTO DEL CODICE DELLE COMUNICAZIONI ELETTRONICHE
 
-### NORME DI COORDINAMENTO DEL CODICE DELLE COMUNICAZIONI ELETTRONICHE
-
-#### Art. 80
+### Art. 80
 
 Norme integrative e di coordinamento
 
@@ -3295,13 +3291,13 @@ bb) la rubrica del Modello B dell'allegato n. 13 e' sostituita dalla seguente: "
 
 > e) con deliberazione dell'Autorita', gli allegati numeri 2, 3, 4, 5, 6 e 8.".
 
-#### Art. 81
+### Art. 81
 
 Disposizioni finanziarie
 
 1\. Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri per la finanza pubblica. Le Amministrazioni interessate provvedono all'adempimento dei compiti derivanti dal presente decreto con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-#### Art. 82
+### Art. 82
 
 Entrata in vigore
 
@@ -3327,7 +3323,7 @@ Visto, il Guardasigilli: Severino
 
 ## Allegati
 
-#### Allegato 1
+### Allegato 1
 
 Allegato n. 1
 
@@ -3406,7 +3402,7 @@ settori sono soddisfacenti.
 
 La versione del documento ETSI EG 202 0571 e' la 1.3.1 (luglio 2008)."
 
-#### Allegato 2
+### Allegato 2
 
 Allegato n. 2
 
@@ -3488,7 +3484,7 @@ DATA FIRMA
 
 Parte di provvedimento in formato grafico
 
-#### Allegato 3
+### Allegato 3
 
 Allegato n. 3
 

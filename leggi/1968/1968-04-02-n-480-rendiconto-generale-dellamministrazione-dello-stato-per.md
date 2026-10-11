@@ -27,7 +27,7 @@ la seguente legge:
 
 ## ENTRATE E SPESE DI COMPETENZA DELL'ESERCIZIO FINANZIARIO 1957-58
 
-### Art. 1
+## Art. 1
 
 Le entrate ordinarie e straordinarie della
 
@@ -51,7 +51,7 @@ rimasero da versare L. 96.546.693.840
  ------------------ e rimasero da riscuotere.................. L. 555.714.569.617
 ```
 
-### Art. 2
+## Art. 2
 
 Le spese ordinarie e straordinarie dello
 
@@ -67,7 +67,7 @@ in........................................ L. 3.715.093.200.597 delle quali furo
 
 ------------------- e rimasero da pagare...................... L. 1.109.706.701.780
 
-### Art. 3
+## Art. 3
 
 Il riepilogo generale dei risultati delle entrate e delle spese di competenza dell'esercizio finanziario 1957-58, rimane cosi' stabilito:
 
@@ -91,7 +91,7 @@ Entrate................................... L. 3.451.651.026.216 Spese...........
 
 ## ENTRATE E SPESE RESIDUE DELL'ESERCIZIO 1956-57 ED ESERCIZI PRECEDENTI
 
-### Art. 4
+## Art. 4
 
 I residui attivi alla chiusura
 
@@ -109,7 +109,7 @@ rimasero da versare...L. 162.697.256.384
  ---------------- e rimasero da riscuotere al 30 giugno 1958 L. 413.302.582.941
 ```
 
-### Art. 5
+## Art. 5
 
 I residui passivi alla chiusura
 
@@ -121,7 +121,7 @@ come dal conto consuntivo del bilancio, in L. 1.747.028.124.163 dei quali furono
 
 ## RESIDUI ATTIVI E PASSIVI ALLA CHIUSURA DELL'ESERCIZIO FINANZIARIO - 1957-58
 
-### Art. 6
+## Art. 6
 
 I residui attivi alla chiusura dell'esercizio finanziario 1957-58, sono stabiliti, come dal conto consuntivo del bilancio, nelle seguenti somme:
 
@@ -137,7 +137,7 @@ degli esercizi precedenti(articolo 4)..... L. 413.302.582.941 Somme riscosse e n
 
 --------------- Residui attivi al 30 giugno 1958... L. 1.228.261.102.782
 
-### Art. 7
+## Art. 7
 
 I residui passivi alla chiusura dell'esercizio finanziario 1957-58 sono stabiliti, come dal conto consuntivo del bilancio, nelle seguenti somme:
 
@@ -153,7 +153,7 @@ esercizi precedenti (articolo 5).......... L. 1.066.589.506.821
 
 ## SITUAZIONE FINANZIARIA
 
-### Art. 8
+## Art. 8
 
 E accertato nella somma di lire 4.317.255.317.888,05 il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 1957-58 come risulta dai seguenti dati:
 
@@ -205,11 +205,11 @@ contabilita generale...................... L. 2.056.187
 
 ## DISPOSIZIONI SPECIALI
 
-### Art. 9
+## Art. 9
 
 Sono stabiliti nella somma di lire 2.056.187 i discarichi consentiti, nell'esercizio 1957-58, ai tesorieri per casi di forza maggiore, ai sensi dell'articolo 194 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato approvato con regio decreto 23 maggio 1924, n. 827.
 
-### Art. 10
+## Art. 10
 
 Sono approvate le eccedenze d'impegni risultate in sede di consuntivo sul conto della competenza e sul conto dei residui ai capitoli degli stati di previsione della spesa dei Ministeri sottoindicati per l'esercizio finanziario 1957-58, come dal dettaglio che segue:
 
@@ -319,7 +319,7 @@ agricoli (Spesa obbligatoria)..... L. 5.500.000 L. 109.808
 
 ## AMMINISTRAZIONI ED AZIENDE SPECIALI AMMINISTRAZIONE AUTONOMA DEI - MONOPOLI DI STATO
 
-### Art. 11
+## Art. 11
 
 Le entrate ordinarie e straordinarie del
 
@@ -349,7 +349,7 @@ rimasero da versare. L. 821.587.073
  ---------------- e rimasero da riscuotere.................. L. 3.664.110.957
 ```
 
-### Art. 12
+## Art. 12
 
 Le spese ordinarie e straordinarie del
 
@@ -363,7 +363,7 @@ esercizio stesso, sono stabilite in....... L. 116.980.893.925 delle quali furono
 
 ---------------- e rimasero da pagare...................... L. 42.940.066.035
 
-### Art. 13
+## Art. 13
 
 I residui attivi alla chiusura
 
@@ -381,7 +381,7 @@ rimasero da versare... L. 14.323
  ----------------- e rimasero da riscuotere al 30 giugno 1958 L. 13.133.977
 ```
 
-### Art. 14
+## Art. 14
 
 I residui passivi alla chiusura
 
@@ -391,7 +391,7 @@ in........................................ L. 87.007.856.680 dei quali furono pa
 
 ---------------- e rimasero da pagare al 30 giugno 1958.... L. 29.407.350.201
 
-### Art. 15
+## Art. 15
 
 I residui attivi alla chiusura dell'esercizio finanziario 1957-58 sono stabiliti nelle seguenti somme:
 
@@ -409,7 +409,7 @@ del riepilogo dell'entrata)............... L. 821.601.396
 
 -------------- Residui attivi al 30 giugno 1958... L. 4.498.846.330
 
-### Art. 16
+## Art. 16
 
 I residui passivi alla chiusura dell'esercizio finanziario 1957-58 sono stabiliti nelle seguenti somme:
 
@@ -425,7 +425,7 @@ degli esercizi precedenti (articolo 14)... L. 29.407.350.201
 
 -------------- Residui passivi al 30 giugno 1958... L. 72.347.416.236
 
-### Art. 17
+## Art. 17
 
 La situazione finanziaria dell'amministrazione autonoma dei monopoli di Stato, alla fine dell'esercizio finanziario 1957-58, risulta come appresso:
 
@@ -439,7 +439,7 @@ Spese dell'esercizio 1957-58.............. L. 116.980.893.925
 
 ## AZIENDA MONOPOLIO BANANE
 
-### Art. 18
+## Art. 18
 
 Le entrate ordinarie e straordinarie
 
@@ -459,7 +459,7 @@ delle finanze in.......................... L. 20.593.692.557 delle quali furono 
 
 --------------- e rimasero da riscuotere.................. L. 4.264.859
 
-### Art. 19
+## Art. 19
 
 Le spese ordinarie e straordinarie
 
@@ -473,7 +473,7 @@ sono stabilite in......................... L. 20.593.692.557 delle quali furono 
 
 -------------- e rimasero da pagare...................... L. 9.071.351.781
 
-### Art. 20
+## Art. 20
 
 I residui attivi alla chiusura
 
@@ -485,7 +485,7 @@ riscossi e versati........................ L. 18.700.716
 
 ----------- e rimasero da riscuotere al 30 giugno 1958 L. 1.300.335
 
-### Art. 21
+## Art. 21
 
 I residui passivi alla chiusura
 
@@ -495,7 +495,7 @@ in........................................ L. 5.049.077.472 dei quali furono pag
 
 -------------- e rimasero da pagare al 30 giugno 1958.... L. 33.233.558
 
-### Art. 22
+## Art. 22
 
 I residui attivi alla chiusura dell'esercizio finanziario 1957-58 sono stabiliti nelle seguenti somme:
 
@@ -511,7 +511,7 @@ del riepilogo dell'entrata................ ---
 
 ----------- Residui attivi al 30 giugno 1958... L. 5.565.194
 
-### Art. 23
+## Art. 23
 
 I residui passivi alla chiusura dell'esercizio 1957-58 sono stabiliti nelle seguenti somme:
 
@@ -529,7 +529,7 @@ esercizi precedenti (articolo 21)......... L. 33.233.558
 
 ## FONDO DI MASSA DEL CORPO DELLA GUARDIA DI FINANZA
 
-### Art. 24
+## Art. 24
 
 Le entrate ordinarie e straordinarie
 
@@ -551,7 +551,7 @@ consuntivo del Ministero delle finanze in. L. 3.101.212.341 delle quali furono r
 
 -------------- e rimasero da riscuotere.................. L. 80.063.092
 
-### Art. 25
+## Art. 25
 
 Le spese ordinarie e straordinarie del
 
@@ -565,7 +565,7 @@ dell'esercizio medesimo sono stabilite in. L. 2.074.022.607 delle quali furono p
 
 ---------------- e rimasero da pagare..................... L. 500.521.321
 
-### Art. 26
+## Art. 26
 
 I residui attivi alla chiusura
 
@@ -577,7 +577,7 @@ riscossi e versati........................ L. 503.859.826
 
 ------------- e rimasero da riscuotere al 30 giugno 1958 L. 54.000
 
-### Art. 27
+## Art. 27
 
 I residui passivi alla chiusura
 
@@ -587,7 +587,7 @@ determinati in............................ L. 1.115.699.213 dei quali furono pag
 
 --------------- e rimasero da pagare al 30 giugno 1958.... L. 43.631.446
 
-### Art. 28
+## Art. 28
 
 I residui attivi alla chiusura dell'esercizio 1957-58 sono stabiliti nelle seguenti somme:
 
@@ -605,7 +605,7 @@ del riepilogo dell'entrata)............... -----
 
 ------------ Residui attivi al 30 giugno 1958... L. 80.117.092
 
-### Art. 29
+## Art. 29
 
 I residui passivi alla chiusura dell'esercizio finanziario 1957-58 sono stabiliti nelle seguenti somme:
 
@@ -619,7 +619,7 @@ esercizi precedenti (articolo 27)......... L. 43.631.446
 
 ------------ Residui passivi al 30 giugno 1958... L. 544.152.767
 
-### Art. 30
+## Art. 30
 
 E accertato nella somma di lire 1.804.697.249 Il saldo attivo del conto finanziario del fondo di massa del Corpo della guardia di finanza alla fine dell'esercizio 1957-58, risultante dai seguenti dati:
 
@@ -665,7 +665,7 @@ al 30 giugno 1958.......... L. 503.913.826
 
 ## ARCHIVI NOTARILI
 
-### Art. 31
+## Art. 31
 
 E approvato il conto consuntivo degli archivi notarili, per l'esercizio 1957-58, nelle risultanze seguenti:
 
@@ -675,7 +675,7 @@ Entrate................................... L. 5.155.934.741 Spese...............
 
 ## FONDO GENERALE DEL CORPO DEGLI AGENTI DI CUSTODIA DEGLI ISTITUTI DI - PREVENZIONE E DI PENA
 
-### Art. 32
+## Art. 32
 
 E' approvato il conto consuntivo del fondo generale del Corpo degli agenti di custodia degli Istituti di prevenzione e di pena, per l'esercizio 1957-58, nelle seguenti risultanze:
 
@@ -685,7 +685,7 @@ Entrate................................... L. 998.555 Spese.....................
 
 ## ISTITUTO AGRONOMICO PER L'AFRICA ITALIANA
 
-### Art. 33
+## Art. 33
 
 Le entrate dell'istituto agronomico per
 
@@ -707,7 +707,7 @@ predetto, in.............................. L. 51.543.847 delle quali furono risc
 
 ----------- e rimasero da riscuotere.................. L. 60.000
 
-### Art. 34
+## Art. 34
 
 Le spese dell'istituto predetto,
 
@@ -719,7 +719,7 @@ dell'esercizio medesimo, sono stabilite in L. 51.543.847 delle quali furono paga
 
 ----------- e rimasero da pagare...................... L. 2.216.578
 
-### Art. 35
+## Art. 35
 
 I residui attivi alla chiusura
 
@@ -731,7 +731,7 @@ riscossi e versati........................ L. 4.990.000
 
 --------- e rimasero da riscuotere al 30 giugno 1958 L. 90.000
 
-### Art. 36
+## Art. 36
 
 I residui passivi alla chiusura
 
@@ -741,7 +741,7 @@ in........................................ L. 10.079.932 dei quali furono pagati
 
 ----------- e rimasero da pagare al 30 giugno 1958.... L. 9.697.853
 
-### Art. 37
+## Art. 37
 
 I residui attivi alla chiusura dell'esercizio 1957-58, sono stabiliti nelle seguenti somme:
 
@@ -759,7 +759,7 @@ del riepilogo dell'entrata)............... -----
 
 -------- Residui attivi al 30 giugno 1958... L. 150.000
 
-### Art. 38
+## Art. 38
 
 I residui passivi alla chiusura dell'esercizio 1957-58 sono stabiliti nelle seguenti somme:
 
@@ -777,7 +777,7 @@ esercizi precedenti (articolo 36)......... L. 9.697.853
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-### Art. 39
+## Art. 39
 
 Le entrate ordinarie e straordinarie del
 
@@ -807,7 +807,7 @@ rimasero da versare...... L. 3.038
  ------------ e rimasero da riscuotere.................. L. 7.694.763.107
 ```
 
-### Art. 40
+## Art. 40
 
 Le spese ordinarie e straordinarie del
 
@@ -821,7 +821,7 @@ dell'esercizio stesso, sono stabilite in.. L. 8.383.681.214 delle quali furono p
 
 -------------- e rimasero da pagare...................... L. 992.395.575
 
-### Art. 41
+## Art. 41
 
 I residui attivi alla chiusura
 
@@ -839,7 +839,7 @@ rimasero da versare.. L. 13.776
  --------------- e rimasero da riscuotere al 30 giugno 1958 L. 23.418.238
 ```
 
-### Art. 42
+## Art. 42
 
 I residui passivi alla chiusura
 
@@ -849,7 +849,7 @@ in........................................ L. 1.885.900.133 dei quali furono pag
 
 -------------- e rimasero da pagare al 30 giugno 1958.... L. 850.247.508
 
-### Art. 43
+## Art. 43
 
 I residui attivi alla chiusura dell'esercizio finanziario 1957-58, sono stabiliti nelle seguenti somme:
 
@@ -867,7 +867,7 @@ del riepilogo dell'entrata)............... L. 10.738
 
 ------------- Residui attivi al 30 giugno 1958... L. 7.718.192.083
 
-### Art. 44
+## Art. 44
 
 I residui passivi alla chiusura dell'esercizio finanziario 1957-58, sono stabiliti nelle seguenti somme:
 
@@ -883,7 +883,7 @@ esercizi precedenti articolo 42).......... L. 850.247.508
 
 ------------- Residui passivi al 30 giugno 1958... L. 1.842.643.083
 
-### Art. 45
+## Art. 45
 
 E accertato nella somma di lire 25.175.989,30 il saldo attivo del conto finanziario dell'amministrazione del Fondo per il culto alla fine dell'esercizio 1957-58, come risulta dai seguenti dati:
 
@@ -929,7 +929,7 @@ Saldo attivo al 30 giugno 1958... L. 25.175.989,30
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-### Art. 46
+## Art. 46
 
 Le entrate ordinarie e straordinarie del
 
@@ -959,7 +959,7 @@ rimasero da versare...... L. 1.075
  ---------- e rimasero da riscuotere.................. L. 188.238.340
 ```
 
-### Art. 47
+## Art. 47
 
 Le spese ordinarie e straordinarie del
 
@@ -973,7 +973,7 @@ dell'esercizio medesimo, sono stabilite in L. 204.732.400 delle quali furono pag
 
 ------------ e rimasero da pagare...................... L. 79.071.509
 
-### Art. 48
+## Art. 48
 
 I residui attivi alla chiusura
 
@@ -991,7 +991,7 @@ rimasero da versare..... L. 904
  ------------ e rimase da riscuotere al 30 giugno 1958.. L. 312.469
 ```
 
-### Art. 49
+## Art. 49
 
 I residui passivi alla chiusura
 
@@ -1001,7 +1001,7 @@ in........................................ L. 107.281.750 dei quali furono pagat
 
 ------------ e rimasero da pagare al 30 giugno 1958.... L. 37.027.757
 
-### Art. 50
+## Art. 50
 
 I residui attivi alla chiusura dell'esercizio finanziario 1957-58, sono stabiliti nelle seguenti somme:
 
@@ -1019,7 +1019,7 @@ del riepilogo dell'entrata)............... L. 1.979
 
 ------------ Residui attivi al 30 giugno 1958... L. 188.552.788
 
-### Art. 51
+## Art. 51
 
 I residui passivi alla chiusura dell'esercizio finanziario 1957-58, sono stabiliti nelle seguenti somme:
 
@@ -1035,7 +1035,7 @@ degli esercizi precedenti (articolo 49)... L. 37.027.757
 
 ------------ Residui passivi al 30 giugno 1958.... L. 116.099.266
 
-### Art. 52
+## Art. 52
 
 E' accertato nella somma di lire 802.937,58 il saldo attivo del conto finanziario del Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1957-58, come risulta dai seguenti dati:
 
@@ -1079,7 +1079,7 @@ Saldo attivo al 30 giugno 1958............ L. 802.937,53
 
 ## AZIENDA DEI PATRIMONI RIUNITI EX ECONOMALI
 
-### Art. 53
+## Art. 53
 
 Le entrate ordinarie e straordinarie
 
@@ -1101,7 +1101,7 @@ dell'interno, in.......................... L. 146.792.567 delle quali furono ris
 
 ------------ e rimasero da riscuotere.................. L. 1.347.651
 
-### Art. 54
+## Art. 54
 
 Le spese ordinari e straordinarie
 
@@ -1117,7 +1117,7 @@ consuntivo, in............................ L. 159.257.797 delle quali furono pag
 
 ----------- e rimasero da pagare...................... L. 85.040.899
 
-### Art. 55
+## Art. 55
 
 I residui attivi alla chiusura
 
@@ -1135,7 +1135,7 @@ L. 609.207
 
 ---------- e rimase da riscuotere al 30 giugno 1958.. L. 1.749.367
 
-### Art. 56
+## Art. 56
 
 I residui passivi alla chiusura
 
@@ -1145,7 +1145,7 @@ come dal conto consuntivo dell'azienda, in L. 238.189.922 dei quali furono pagat
 
 ------------ e rimasero da pagare al 30 giugno 1958.... L. 146.195.318
 
-### Art. 57
+## Art. 57
 
 I residui attivi alla chiusura dell'esercizio finanziario 1957-58 sono stabiliti, come dal conto consuntivo dell'azienda, nelle seguenti somme:
 
@@ -1161,7 +1161,7 @@ degli esercizi precedenti (articolo 55)... L. 1.749.367 Somme riscosse e non ver
 
 ---------- Residui attivi al 30 giugno 1958... L. 3.097.017
 
-### Art. 58
+## Art. 58
 
 I residui passivi alla chiusura dell'esercizio finanziario 1957-58 sono stabiliti, come dal conto consuntivo dell'azienda, nelle seguenti somme:
 
@@ -1175,7 +1175,7 @@ esercizi precedenti (articolo 56)......... L. 146.195.318
 
 ------------ Residui passivi al 30 giugno 1958... L. 231.236.217
 
-### Art. 59
+## Art. 59
 
 E' accertato nella somma di lire 5.348.379,88 il saldo attivo del conto finanziario dell'azienda dai patrimoni riuniti ex economali alla fine dell'esercizio -1957-58, come risulta dai seguenti dati:
 
@@ -1219,7 +1219,7 @@ Saldo attivo al 30 giugno 1958............. L. 5.348.379,88
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE STATALI
 
-### Art. 60
+## Art. 60
 
 Le entrate ordinarie e straordinarie del
 
@@ -1241,7 +1241,7 @@ pubblici, sono stabilite in............... L. 70.192.733.839 delle quali furono 
 
 --------------- e rimasero da riscuotere.................. L. 16.535.555.190
 
-### Art. 61
+## Art. 61
 
 Le spese ordinarie e straordinarie del
 
@@ -1255,7 +1255,7 @@ dell'esercizio medesimo, sono stabilite in L. 70.192.733.839 delle quali furono 
 
 -------------- e rimasero da pagare...................... L. 41.621.370.846
 
-### Art. 62
+## Art. 62
 
 I residui attivi alla chiusura
 
@@ -1267,7 +1267,7 @@ riscossi e versati........................ L. 3.041.297.271
 
 -------------- e rimasero da riscuotere al 30 giugno 1958 L. 31.069.927.432
 
-### Art. 63
+## Art. 63
 
 I residui passivi alla chiusura
 
@@ -1277,7 +1277,7 @@ in........................................ L. 45.330.669.656 dei quali furono pa
 
 --------------- e rimasero da pagare al 30 giugno 1958.... L. 26.871.899.438
 
-### Art. 64
+## Art. 64
 
 I residui attivi alla chiusura dell'esercizio 1957-58, sono stabiliti nelle seguenti somme:
 
@@ -1295,7 +1295,7 @@ del riepilogo dell'entrata)............... L. ---
 
 --------------- Residui attivi al 30 giugno 1958... L. 47.605.482.622
 
-### Art. 65
+## Art. 65
 
 I residui passivi alla chiusura dell'esercizio 1957-58, sono stabiliti nelle seguenti somme:
 
@@ -1313,7 +1313,7 @@ esercizi precedenti (articolo 63)......... L. 26.871.899.438
 
 ## AMMINISTRAZIONE DELLE POSTE E DEI TELEGRAFI
 
-### Art. 66
+## Art. 66
 
 Le entrate ordinarie e straordinarie del
 
@@ -1337,7 +1337,7 @@ finanziario predetto, in.................. L. 140.988.927.265 delle quali furono
 
 ---------------- e rimasero da riscuotere.................. L. 27.950.656.631
 
-### Art. 67
+## Art. 67
 
 Le spese ordinarie e straordinarie del
 
@@ -1351,7 +1351,7 @@ medesimo, sono stabilite, in.............. L. 140.988.927.265 delle quali furono
 
 --------------- e rimasero da pagare...................... L. 13.808.622.336
 
-### Art. 68
+## Art. 68
 
 I residui attivi alla chiusura
 
@@ -1363,7 +1363,7 @@ riscossi e versati........................ L. 27.935.029.843
 
 -------------- e rimasero da riscuotere al 30 giugno 1958 L. 3.365.094.444
 
-### Art. 69
+## Art. 69
 
 I residui passivi alla chiusura
 
@@ -1375,7 +1375,7 @@ pagati.................................... L. 15.645.370.142
 
 ------------- e rimasero da pagare al 30 giugno 1958.... L 19.157.191.767
 
-### Art. 70
+## Art. 70
 
 I residui attivi alla chiusura dell'esercizio 1957-58, sono stabiliti nelle seguenti somme:
 
@@ -1393,7 +1393,7 @@ degli esercizi precedenti (articolo 68)... L. 3.365.094.444
 
 --------------- Residui attivi al 30 giugno 1958... L. 31.315.751.075
 
-### Art. 71
+## Art. 71
 
 I residui passivi alla chiusura dell'esercizio 1957-58, sono stabiliti nelle seguenti somme:
 
@@ -1409,7 +1409,7 @@ esercizi precedenti (articolo 69)......... L. 19.157.191.767
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Art. 72
+## Art. 72
 
 Le entrate ordinarie e straordinarie del
 
@@ -1441,7 +1441,7 @@ rimasero da versare.. L. 415.282.468
  -------------- e rimasero da riscuotere.................. L. 23.703.103.213
 ```
 
-### Art. 73
+## Art. 73
 
 Le spese ordinarie e straordinarie del
 
@@ -1457,7 +1457,7 @@ in........................................ L. 37.786.895.344 delle quali furono 
 
 --------------- e rimasero da pagare...................... L. 22.123.371.628
 
-### Art. 74
+## Art. 74
 
 I residui attivi alla chiusura
 
@@ -1475,7 +1475,7 @@ rimasero da versare.. L. 899.391.279
  -------------- e rimasero da riscuotere al 30 giugno 1958 L. 126.557.247
 ```
 
-### Art. 75
+## Art. 75
 
 I residui passivi alla chiusura
 
@@ -1487,7 +1487,7 @@ pagati.................................... L. 18.944.724.263
 
 -------------- rimasero da pagare al 30 giugno 1958...... L. 22.299.447.953
 
-### Art. 76
+## Art. 76
 
 I residui attivi alla chiusura dell'esercizio 1957-58, sono stabiliti nelle seguenti somme:
 
@@ -1507,7 +1507,7 @@ del riepilogo dell'entrata)............... L. 1.314.673.747
 
 ---------------- Residui attivi al 30 giugno 1958... L. 25.144.334.207
 
-### Art. 77
+## Art. 77
 
 I residui passivi alla chiusura dell'esercizio 1957-58, sono stabiliti nelle seguenti somme:
 
@@ -1523,7 +1523,7 @@ esercizi precedenti (articolo 75)......... L. 22.299.447.953
 
 ## AMMINISTRAZIONE DELLE FERROVIE DELLO STATO
 
-### Art. 78
+## Art. 78
 
 Le entrate ordinarie e straordinarie del
 
@@ -1549,7 +1549,7 @@ trasporti per l'esercizio predetto, in.... L. 906.630.899.349 delle quali furono
 
 ---------------- e rimasero da riscuotere.................. L. 50.971.884.097
 
-### Art. 79
+## Art. 79
 
 Le spese ordinarie e straordinarie del
 
@@ -1567,7 +1567,7 @@ sono stabilite in......................... L. 906.630.899.349 delle quali furono
 
 --------------- c rimasero da pagare...................... L. 56.677.132.462
 
-### Art. 80
+## Art. 80
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione delle ferrovie dello Stato, di competenza dell'esercizio finanziario 1957-58, rimane cosi' stabilito:
 
@@ -1607,7 +1607,7 @@ Spesa..................................... L. 906.630.899.349 Entrata...........
 
 --------------- Sovvenzioni o somministrazioni del Tesoro. L. 59.693.200.000
 
-### Art. 81
+## Art. 81
 
 I residui attivi alla chiusura
 
@@ -1619,7 +1619,7 @@ riscossi e versati........................ L. 48.190.197.091
 
 -------------- e rimasero da riscuotere al 30 giugno 1958 L. 14.857.721.235
 
-### Art. 82
+## Art. 82
 
 I residui passivi alla chiusura
 
@@ -1631,7 +1631,7 @@ pagati.................................... L. 74.709.116.871
 
 --------------- e rimasero da pagare al 30 giugno 1958.... L. 87.512.337.228
 
-### Art. 83
+## Art. 83
 
 I residui attivi alla chiusura dell'esercizio 1957-58, sono stabiliti nelle seguenti somme:
 
@@ -1647,7 +1647,7 @@ degli esercizi precedenti (articolo 81)... L. 14.857.721.235
 
 -------------- Residui attivi al 30 giugno 1958... L. 65.829.605.332
 
-### Art. 84
+## Art. 84
 
 I residui passivi alla chiusura dell'esercizio 1957-58, sono stabiliti nelle seguenti somme:
 
@@ -1661,7 +1661,7 @@ esercizi precedenti (articolo 82)......... L. 87.512.337.223
 
 --------------- Residui passivi al 30 giugno 1958... L. 144.189.469.690
 
-### Art. 85
+## Art. 85
 
 Sono approvate le eccedenze di impegni risultate in sede di consuntivo sul conto della competenza, ai seguenti capitoli dello stato di previsione della spesa dell'Amministrazione delle ferrovie dello Stato, per l'esercizio finanziario 1957-58:
 
@@ -1689,7 +1689,7 @@ diverse................................... L. 279.845.449
 
 ## AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### Art. 86
+## Art. 86
 
 Le entrate ordinarie e straordinarie del
 
@@ -1719,7 +1719,7 @@ rimasero da versare... L. 328.705.089
  ------------- e rimasero da riscuotere.................. L. 402.972.688
 ```
 
-### Art. 87
+## Art. 87
 
 Le spese ordinarie e straordinarie del
 
@@ -1733,7 +1733,7 @@ medesimo, sono stabilite in............... L. 3.415.950.061 delle quali furono p
 
 ------------- e rimasero da pagare...................... L. 1.841.183.285
 
-### Art. 88
+## Art. 88
 
 I residui attivi alla chiusura
 
@@ -1751,7 +1751,7 @@ rimasero da versare..... L. 31.138.000
  ------------ e rimasero da riscuotere al 30 giugno 1958 L. 1.102.927.988
 ```
 
-### Art. 89
+## Art. 89
 
 I residui passivi all a chiusura
 
@@ -1763,7 +1763,7 @@ in........................................ L. 5.882.968.325 dei quali furono pag
 
 e rimasero da pagare al 30 giugno 1958.... L. 3.487.950.638
 
-### Art. 90
+## Art. 90
 
 I residui attivi alla chiusura dell'esercizio finanziario 1957-58, sono stabiliti nelle seguenti somme:
 
@@ -1781,7 +1781,7 @@ del riepilogo dell'entrata)............... L. 359.843.089
 
 -------------- Residui attivi al 30 giugno 1958... L. 1.865.743.765
 
-### Art. 91
+## Art. 91
 
 I residui passivi alla chiusura dell'esercizio finanziario 1957-58, sono stabiliti nelle seguenti somme:
 
@@ -1797,7 +1797,7 @@ esercizi precedenti (articolo 89)......... L. 3.487.950.638
 
 ------------- Residui passivi al 30 giugno 1958... L. 5.329.133.923
 
-### Art. 92
+## Art. 92
 
 E' accertato nella somma di lire 10.591.708 il saldo attivo del conto finanziario dell'azienda di Stato per le foreste demaniali, alla fine dell'esercizio 1957-58, come risulta dai seguenti dati:
 

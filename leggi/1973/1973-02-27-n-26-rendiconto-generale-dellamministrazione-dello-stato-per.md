@@ -25,13 +25,13 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il rendiconto consuntivo dello Stato per l'esercizio 1971 e' approvato con le risultanze degli articoli seguenti.
 
 ## ENTRATE E SPESE - DI COMPETENZA DELL'ESERCIZIO FINANZIARIO 1971
 
-### Art. 2
+## Art. 2
 
 Le entrate tributarie, extra tributarie,
 
@@ -57,7 +57,7 @@ rimasero da versare " 478.386.567.956
  ------------------
 ```
 
-### Art. 3
+## Art. 3
 
 Le spese correnti, in conto capitale e
 
@@ -76,7 +76,7 @@ in.......................................... L. 16.929.815.290.726 delle quali f
  ------------------
 ```
 
-### Art. 4
+## Art. 4
 
 Il riepilogo generale delle entrate e delle spese di competenza dell'esercizio finanziario 1971 risulta stabilito dal conto consuntivo come segue:
 
@@ -91,7 +91,7 @@ Entrate tributarie ed extra-tributarie... L. 12.169.313.377.704 Spese correnti..
 
 ## ENTRATE E SPESE RESIDUE DELL'ESERCIZIO FINANZIARIO 1970 ED ESERCIZI - PRECEDENTI
 
-### Art. 5
+## Art. 5
 
 I residui attivi alla chiusura dell'eser-
 
@@ -109,7 +109,7 @@ rimasero da versare. " 444.926.864.556
  -----------------
 ```
 
-### Art. 6
+## Art. 6
 
 I residui passivi alla chiusura dell'e-
 
@@ -124,7 +124,7 @@ ti dal conto consuntivo del bilancio in..... L. 7.736.170.083.631 dei quali furo
 
 ## RESIDUI ATTIVI E PASSIVI ALLA CHIUSURA DELL'ESERCIZIO FINANZIARIO - 1971
 
-### Art. 7
+## Art. 7
 
 I residui attivi alla chiusura dell'esercizio finanziario 1971 risultano stabiliti, dal conto consuntivo del bilancio, nelle seguenti somme:
 
@@ -143,7 +143,7 @@ degli esercizi precedenti (articolo 5)...... " 431.393.164.492 Somme riscosse e 
  -----------------
 ```
 
-### Art. 8
+## Art. 8
 
 I residui passivi alla chiusura dell'esercizio finanziario 1971 risultano stabiliti, dal conto consuntivo del bilancio, nelle seguenti somme:
 
@@ -162,7 +162,7 @@ esercizi precedenti (articolo 6)............ " 4.754.853.273.200
 
 ## SITUAZIONE FINANZIARIA
 
-### Art. 9
+## Art. 9
 
 Il disavanzo finanziario del conto del Tesoro alla fine
 
@@ -216,11 +216,11 @@ contabilita generale dello Stato......... " 33.605
 
 ## DISPOSIZIONI SPECIALI
 
-### Art. 10
+## Art. 10
 
 Sono stabiliti nella somma di lire 33.605 i discarichi consentiti, nell'esercizio 1971, ai tesorieri per casi di forza maggiore, ai sensi dell'articolo 194 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato approvato con regio decreto 23 maggio 1924, numero 827.
 
-### Art. 11
+## Art. 11
 
 Sono approvate le eccedenze di impegni risultate in sede di consuntivo sul conto della competenza e sul conto dei residui ai capitoli dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1971, come risulta dal dettaglio che segue:
 
@@ -292,7 +292,7 @@ n. 3............... " 1.005.673.542 -
 
 ## AZIENDE SPECIALI ED AUTONOME - AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### Art. 12
+## Art. 12
 
 Le entrate correnti ed in conto capitale
 
@@ -321,7 +321,7 @@ rimasero da versare.... " 448.825.389
  --------------
 ```
 
-### Art. 13
+## Art. 13
 
 Le spese correnti ed in conto capitale
 
@@ -338,7 +338,7 @@ sultano stabilite in........................ L. 13.397.910.452 delle quali furon
  --------------
 ```
 
-### Art. 14
+## Art. 14
 
 I residui attivi alla chiusura dell'eser-
 
@@ -356,7 +356,7 @@ rimasero da versare.... " 192.598.027
  -------------
 ```
 
-### Art. 15
+## Art. 15
 
 I residui passivi alla chiusura dell'e-
 
@@ -369,7 +369,7 @@ ti in....................................... L. 27.717.419.942 dei quali furono 
  --------------
 ```
 
-### Art. 16
+## Art. 16
 
 I residui attivi alla chiusura dell'esercizio finanziario 1971, risultano stabiliti nelle seguenti somme:
 
@@ -388,7 +388,7 @@ del riepilogo sull'entrata)................. " 641.423.416
  -------------
 ```
 
-### Art. 17
+## Art. 17
 
 I residui passivi alla chiusura dell'esercizio finanziario 1971, risultano stabiliti nelle seguenti somme:
 
@@ -405,7 +405,7 @@ esercizi precedenti (articolo 15)........... " 18.710.770.218
  --------------
 ```
 
-### Art. 18
+## Art. 18
 
 La situazione finanziaria dell'Azienda di Stato per le foreste demaniali, alla fine dell'esercizio 1971, risulta come appresso:
 
@@ -445,7 +445,7 @@ al 31 dicembre 1971..... " 3.181.098.149
 
 ## ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-### Art. 19
+## Art. 19
 
 Le entrate correnti dell'Istituto agrono-
 
@@ -468,7 +468,7 @@ finanziario predetto, in.................... L. 186.527.965 delle quali furono r
  --------------
 ```
 
-### Art. 20
+## Art. 20
 
 Le spese correnti dell'Istituto predetto,
 
@@ -483,7 +483,7 @@ desimo, risultano stabilite in.............. L. 186.527.965 delle quali furono p
  --------------
 ```
 
-### Art. 21
+## Art. 21
 
 I residui attivi alla chiusura dell'eser-
 
@@ -498,7 +498,7 @@ e versati............................. " 6.400.000
  --------------
 ```
 
-### Art. 22
+## Art. 22
 
 I residui passivi alla chiusura dell'e-
 
@@ -511,7 +511,7 @@ ti in....................................... L. 32.094.506 dei quali furono paga
  --------------
 ```
 
-### Art. 23
+## Art. 23
 
 I residui attivi alla chiusura dell'esercizio 1971 risultano stabiliti nelle seguenti somme:
 
@@ -529,7 +529,7 @@ degli esercizi precedenti (articolo 21)..... -
 
 ------------
 
-### Art. 24
+## Art. 24
 
 I residui passivi alla chiusura dell'esercizio 1971 risultano stabiliti nelle seguenti somme:
 
@@ -548,7 +548,7 @@ esercizi precedenti (articolo 22)........... L. 9.443.251
 
 ## AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-### Art. 25
+## Art. 25
 
 Le entrate correnti ed in conto capitale
 
@@ -578,7 +578,7 @@ rimasero da versare... " 2.915.311.103
  ---------------
 ```
 
-### Art. 26
+## Art. 26
 
 Le spese correnti, in conto capitale e
 
@@ -599,7 +599,7 @@ stabilite in................................ L. 240.957.311.985 delle quali furo
  ---------------
 ```
 
-### Art. 27
+## Art. 27
 
 I residui attivi alla chiusura dell'eser-
 
@@ -617,7 +617,7 @@ rimasero da versare..... " 329.538
  --------------
 ```
 
-### Art. 28
+## Art. 28
 
 I residui passivi alla chiusura dell'e-
 
@@ -630,7 +630,7 @@ ti in....................................... L. 22.056.616.282 dei quali furono 
  --------------
 ```
 
-### Art. 29
+## Art. 29
 
 I residui attivi alla chiusura dell'esercizio finanziario 1971, risultano stabiliti nelle seguenti somme:
 
@@ -649,7 +649,7 @@ del riepilogo dell'entrata)................. " 2.915.640.641
  --------------
 ```
 
-### Art. 30
+## Art. 30
 
 I residui passivi alla chiusura dell'esercizio finanziario 1971, risultano stabiliti nelle seguenti somme:
 
@@ -666,7 +666,7 @@ esercizi precedenti (articolo 28)........... L. 2.867.683.192
  --------------
 ```
 
-### Art. 31
+## Art. 31
 
 La situazione finanziaria dell'Amministrazione autonoma dei Monopoli di Stato, alla fine dell'esercizio finanziario 1971, risulta come appresso:
 
@@ -680,7 +680,7 @@ Spese dell'esercizio 1971................... L. 240.957.311.985
 
 ## ARCHIVI NOTARILI
 
-### Art. 32
+## Art. 32
 
 E' approvato il conto consuntivo degli Archivi notarili, per l'esercizio 1971, nelle risultanze seguenti:
 
@@ -688,7 +688,7 @@ Entrate.................................. L. 12.113.122.337 Spese...............
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-### Art. 33
+## Art. 33
 
 Le entrate correnti ed in conto capitale
 
@@ -716,7 +716,7 @@ rimasero da versare.... " 936.414
  --------------
 ```
 
-### Art. 34
+## Art. 34
 
 Le spese correnti ed in conto capitale
 
@@ -733,7 +733,7 @@ stesso, risultano stabilite in.............. L. 25.177.226.498 delle quali furon
  --------------
 ```
 
-### Art. 35
+## Art. 35
 
 I residui attivi alla chiusura dell'eser-
 
@@ -751,7 +751,7 @@ rimasero da versare..... " 386.359
  -------------
 ```
 
-### Art. 36
+## Art. 36
 
 I residui passivi alla chiusura dell'e-
 
@@ -764,7 +764,7 @@ ti in....................................... L. 2.183.355.472 dei quali furono p
  -------------
 ```
 
-### Art. 37
+## Art. 37
 
 I residui attivi alla chiusura dell'esercizio finanziario 1971 risultano stabiliti nelle seguenti somme:
 
@@ -783,7 +783,7 @@ del riepilogo dell'entrata)................. " 1.322.773
  --------------
 ```
 
-### Art. 38
+## Art. 38
 
 I residui passivi alla chiusura dell'esercizio finanziario 1971,
 
@@ -803,7 +803,7 @@ esercizi precedenti (articolo 36)........... " 237.404.434
  -----------
 ```
 
-### Art. 39
+## Art. 39
 
 La situazione finanziaria dell'Amministrazione del fondo per il culto alla fine dell'esercizio 1971, risulta come segue:
 
@@ -845,7 +845,7 @@ al 31 dicembre 1971..... " 1.166.378.248
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-### Art. 40
+## Art. 40
 
 Le entrate correnti ed in conto capitale
 
@@ -869,7 +869,7 @@ rimasero da versare....... " 269
 
 ----------- " 618.862.921 e rimasero da riscuotere.................... L. 6.822.478
 
-### Art. 41
+## Art. 41
 
 Le spese correnti ed in conto capitale
 
@@ -886,7 +886,7 @@ desimo, risultano stabilite in.............. L. 666.220.988 delle quali furono p
  --------------
 ```
 
-### Art. 42
+## Art. 42
 
 I residui attivi alla chiusura dell'eser-
 
@@ -901,7 +901,7 @@ si e versati................................ " 1.086.069
  --------------
 ```
 
-### Art. 43
+## Art. 43
 
 I residui passivi alla chiusura dell'e-
 
@@ -914,7 +914,7 @@ ti in....................................... L. 509.523.087 dei quali furono pag
  --------------
 ```
 
-### Art. 44
+## Art. 44
 
 I residui attivi alla chiusura dell'esercizio finanziario 1971, risultano stabiliti nelle seguenti somme:
 
@@ -933,7 +933,7 @@ del riepilogo dell'entrata)................. " 269
  --------------
 ```
 
-### Art. 45
+## Art. 45
 
 I residui passivi alla chiusura dell'esercizio finanziario 1971, risultano stabiliti nelle seguenti somme:
 
@@ -950,7 +950,7 @@ esercizi precedenti (articolo 43)........... " 202.129.860
  --------------
 ```
 
-### Art. 46
+## Art. 46
 
 La situazione finanziaria del Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1971, risulta come segue:
 
@@ -988,7 +988,7 @@ Spese dell'esercizio finanziario 1971....... L. 666.220.988
 
 ## PATRIMONI RIUNITI EX ECONOMALI
 
-### Art. 47
+## Art. 47
 
 Le entrate correnti ed in conto capitale
 
@@ -1016,7 +1016,7 @@ rimasero da versare....... " 721.420
  --------------
 ```
 
-### Art. 48
+## Art. 48
 
 Le spese correnti ed in conto capitale
 
@@ -1033,7 +1033,7 @@ stabilite, dal conto consuntivo, in......... L. 504.868.853 delle quali furono p
  --------------
 ```
 
-### Art. 49
+## Art. 49
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1048,7 +1048,7 @@ si e versati................................ " 98.549.015
  --------------
 ```
 
-### Art. 50
+## Art. 50
 
 I residui passivi alla chiusura dell'e-
 
@@ -1061,7 +1061,7 @@ ti dal conto consuntivo dell'Azienda, in.... L. 333.885.360 dei quali furono pag
  --------------
 ```
 
-### Art. 51
+## Art. 51
 
 I residui attivi alla chiusura dell'esercizio finanziario 1971, risultano stabiliti, dal conto consuntivo dell'Azienda, nelle seguenti somme:
 
@@ -1080,7 +1080,7 @@ degli esercizi precedenti (articolo 49)..... " 1.245.907 Somme riscosse e non ve
  --------------
 ```
 
-### Art. 52
+## Art. 52
 
 I residui passivi alla chiusura dell'esercizio finanziario 1971, risultano stabiliti, dal conto consuntivo dell'Azienda, nelle seguenti somme:
 
@@ -1097,7 +1097,7 @@ esercizi precedenti (articolo 50)........... " 37.595.453
  --------------
 ```
 
-### Art. 53
+## Art. 53
 
 Il saldo attivo del conto finanziario dell'Azienda dei patrimoni riuniti ex economali alla fine dell'esercizio 1971, e' accertato nella somma di lire 5.255.204, come risulta dai seguenti dati:
 
@@ -1140,7 +1140,7 @@ al 31 dicembre 1971....... " 99.794.922
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE
 
-### Art. 54
+## Art. 54
 
 Le entrate correnti, in conto capitale e
 
@@ -1165,7 +1165,7 @@ pubblici, in................................ L. 472.907.589.585 delle quali furo
  ---------------
 ```
 
-### Art. 55
+## Art. 55
 
 Le spese correnti, in conto capitale e
 
@@ -1184,7 +1184,7 @@ sultano stabilite in........................ L. 472.907.589.585 delle quali furo
  ---------------
 ```
 
-### Art. 56
+## Art. 56
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1199,7 +1199,7 @@ si e versati................................ " 106.301.237.861
  ---------------
 ```
 
-### Art. 57
+## Art. 57
 
 I residui passivi alla chiusura dell'e-
 
@@ -1211,7 +1211,7 @@ ti in....................................... L. 394.969.863.621 dei quali furono
 
 ---------------
 
-### Art. 58
+## Art. 58
 
 I residui attivi alla chiusura dell'esercizio finanziario 1971, risultano stabiliti nelle seguenti somme:
 
@@ -1228,7 +1228,7 @@ degli esercizi precedenti (articolo 56)..... " 286.605.533.391
  ---------------
 ```
 
-### Art. 59
+## Art. 59
 
 I residui passivi alla chiusura dell'esercizio 1971 risultano
 
@@ -1250,7 +1250,7 @@ esercizi precedenti (articolo 57)........... " 229.246.688.545
 
 ## AMMINISTRAZIONE DELLE POSTE E DELLE TELECOMUNICAZIONI
 
-### Art. 60
+## Art. 60
 
 Le entrate correnti, in conto capitale e
 
@@ -1277,7 +1277,7 @@ cizio finanziario predetto, in.............. L. 799.543.424.980 delle quali furo
  --------------
 ```
 
-### Art. 61
+## Art. 61
 
 Le spese correnti, in conto capitale e
 
@@ -1296,7 +1296,7 @@ in.......................................... L. 799.543.424.980 delle quali furo
  ---------------
 ```
 
-### Art. 62
+## Art. 62
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1311,7 +1311,7 @@ si e versati................................ " 166.989.864.937
  ---------------
 ```
 
-### Art. 63
+## Art. 63
 
 I residui passivi alla chiusura dell'e-
 
@@ -1324,7 +1324,7 @@ ti in....................................... L. 393.118.147.653 dei quali nell'e
  ---------------
 ```
 
-### Art. 64
+## Art. 64
 
 I residui attivi alla chiusura dell'esercizio 1971 risultano stabiliti nelle seguenti somme:
 
@@ -1341,7 +1341,7 @@ degli esercizi precedenti (articolo 62)..... L. 267.136.225.255
  ---------------
 ```
 
-### Art. 65
+## Art. 65
 
 I residui passivi alla chiusura dell'esercizio 1971 risultano stabiliti nelle seguenti somme:
 
@@ -1358,7 +1358,7 @@ esercizi precedenti (articolo 63)........... L. 94.270.890.557
  ---------------
 ```
 
-### Art. 66
+## Art. 66
 
 Sono approvate le eccedenze di impegni risultate in sede di consuntivo sul conto della competenza del bilancio dell'Amministrazione delle poste e delle telecomunicazioni per l'esercizio finanziario 1971, ai seguenti capitoli:
 
@@ -1390,7 +1390,7 @@ to alla legge 11 febbraio
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Art. 67
+## Art. 67
 
 Le entrate correnti ed in conto capitale
 
@@ -1415,7 +1415,7 @@ zioni per l'esercizio predetto in........... L. 298.603.699.949 delle quali furo
  ---------------
 ```
 
-### Art. 68
+## Art. 68
 
 Le spese correnti, in conto capitale e
 
@@ -1434,7 +1434,7 @@ sultano stabilite in........................ L. 298.603.699.949 delle quali furo
  ---------------
 ```
 
-### Art. 69
+## Art. 69
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1452,7 +1452,7 @@ rimasero da versare.... " 4.000.000.000
  ---------------
 ```
 
-### Art. 70
+## Art. 70
 
 I residui passivi alla chiusura dell'e-
 
@@ -1465,7 +1465,7 @@ ti in....................................... L. 191.001.274.002 dei quali nell'e
  ---------------
 ```
 
-### Art. 71
+## Art. 71
 
 I residui attivi alla chiusura dell'esercizio 1971 risultano
 
@@ -1486,7 +1486,7 @@ del riepilogo dell'entrata)................. " 4.000.000.000
  ---------------
 ```
 
-### Art. 72
+## Art. 72
 
 I residui passivi alla chiusura dell'esercizio 1971 risultano stabiliti nelle seguenti somme:
 
@@ -1503,7 +1503,7 @@ esercizi precedenti (articolo 70)........... " 76.144.148.850
  ---------------
 ```
 
-### Art. 73
+## Art. 73
 
 E' approvata l'eccedenza di impegni risultata in sede di consuntivo sul conto della competenza del bilancio di previsione dell'Azienda di Stato per i servizi telefonici dell'esercizio finanziario 1971, al seguente capitolo:
 
@@ -1519,7 +1519,7 @@ febbraio 1970, n. 29)......... L. 450.000.000
 
 ## AMMINISTRAZIONE DELLE FERROVIE DELLO STATO
 
-### Art. 74
+## Art. 74
 
 Le entrate correnti, in conto capitale e
 
@@ -1548,7 +1548,7 @@ sercizio predetto, in....................... L. 3.556.576.577.128 delle quali fu
  -----------------
 ```
 
-### Art. 75
+## Art. 75
 
 Le spese correnti, in conto capitale e
 
@@ -1567,7 +1567,7 @@ no stabilite in............................. L. 3.556.576.577.128 delle quali fu
  -----------------
 ```
 
-### Art. 76
+## Art. 76
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione delle ferrovie dello Stato, di competenza dell'esercizio finanziario 1971, risulta cosi' stabilito:
 
@@ -1585,7 +1585,7 @@ autonome)................................... L. 1.604.329.880.469 Spese delle ge
  -----------------
 ```
 
-### Art. 77
+## Art. 77
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1600,7 +1600,7 @@ si e versati................................ " 642.851.548.431
  -----------------
 ```
 
-### Art. 78
+## Art. 78
 
 I residui passivi alla chiusura dell'e-
 
@@ -1613,7 +1613,7 @@ ti in....................................... L. 1.024.434.197.782 dei quali nell
  -----------------
 ```
 
-### Art. 79
+## Art. 79
 
 I residui attivi alla chiusura dell'esercizio 1971 risultano stabiliti nelle seguenti somme:
 
@@ -1630,7 +1630,7 @@ degli esercizi precedenti (articolo 77)..... " 366.788.231.674
  -----------------
 ```
 
-### Art. 80
+## Art. 80
 
 I residui passivi alla chiusura dell'esercizio 1971 risultano stabiliti nelle seguenti somme:
 

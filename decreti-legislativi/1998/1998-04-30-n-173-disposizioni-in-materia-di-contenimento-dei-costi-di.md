@@ -42,11 +42,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I - CONTENIMENTO DEL COSTO
+## Titolo I - CONTENIMENTO DEL COSTO DEI FATTORI DI PRODUZIONE
 
-### DEI FATTORI DI PRODUZIONE
-
-#### Art. 1
+### Art. 1
 
 Disposizioni in materia di risparmio energetico e di contenimento dei costi
 
@@ -486,7 +484,7 @@ concerto anche del Ministero dell'ambiente, gli interventi diretti a favorire gl
 
 > fatte salve le condizioni fissate all'art. 1, paragrafo 2 del regolamento (CEE) n. 867/90".
 
-#### Art. 2
+### Art. 2
 
 Incentivi per lo sviluppo della meccanizzazione agricola
 
@@ -496,11 +494,11 @@ Incentivi per lo sviluppo della meccanizzazione agricola
 
 3\. Agli interventi di cui al presente articolo si fa fronte nei limiti delle autorizzazioni di spesa previste da appositi provvedimenti legislativi.
 
-#### Art. 3
+### Art. 3
 
 ((ARTICOLO ABROGATO DAL D.LGS. 3 DICEMBRE 2010, N. 205))
 
-#### Art. 4
+### Art. 4
 
 Disposizioni in materia di previdenza sociale
 
@@ -540,7 +538,7 @@ e) imprese che effettuano lavori e servizi di sistemazione e di manutenzione agr
 
 > \- Il regolamento (CE) n. 806/97 della Commissione del 2 maggio 1997, che fissa gli importi massimi degli aiuti compensativi per le rivalutazioni sensibili verificatesi anteriormente al 31 marzo 1997 per la lira sterlina, la sterlina irlandese e la lira italiana, e' pubblicato nella G.U.C.E. n. L 115 del 3 maggio 1997.
 
-#### Art. 5
+### Art. 5
 
 Garanzie di credito
 
@@ -556,7 +554,7 @@ AGGIORNAMENTO (1)
 
 La L. 23 dicembre 2000, n. 388 ha disposto (con l'art. 128, comma 3) che "A favore delle imprese di cui al comma 3 dell'articolo 5 del decreto legislativo 30 aprile 1998, n. 173, come sostituito dal comma 1 del presente articolo, e di quelle agro-alimentari danneggiate da avversita' atmosferiche dichiarate eccezionali a decorrere dal 1990, ai sensi delle leggi 15 ottobre 1981, n. 590, e 14 febbraio 1992, n. 185, e' prorogato di ventiquattro mesi il pagamento delle rate in scadenza dovute per il rimborso delle esposizioni debitorie relative all'esercizio dell'attivita' aziendale e sono sospese per il medesimo periodo le procedure di riscossione delle rate gia' scadute e non pagate alla data di entrata in vigore della presente legge. Il tasso di interesse rinegoziato si applica anche alle rate prorogate."
 
-#### Art. 6
+### Art. 6
 
 Incentivazione di metodi di trasporto
 
@@ -576,11 +574,9 @@ a minore impatto ambientale
 
 > 4\. I minori introiti derivanti dalla riduzione di cui al comma 2 sono rimborsati alle societa' di navigazione e alle societa' ferroviarie, sulla base delle domande corredate da apposita rendicontazione annuale".
 
-## Titolo II - ACCRESCIMENTO
+## Titolo II - ACCRESCIMENTO CAPACITA' CONCORRENZIALl
 
-### CAPACITA' CONCORRENZIALl
-
-#### Art. 7
+### Art. 7
 
 Disposizioni normative sul marchio
 
@@ -604,7 +600,7 @@ della produzione nazionale
 
 > \- Il decreto legislativo 4 dicembre 1992, n. 480, recante l'attuazione della direttiva n. 89/104/CEE del Consiglio del 21 dicembre 1988, (ravvicinamento delle legislazioni degli Stati membri in materia di marchi d'impresa), e' pubblicato in supplemento ordinario alla Gazzetta Ufficiale n. 295 del 16 dicembre 1992.
 
-#### Art. 8
+### Art. 8
 
 Valorizzazione del patrimonio gastronomico
 
@@ -618,11 +614,9 @@ Valorizzazione del patrimonio gastronomico
 
 5\. Il Comitato ha il compito di redigere una guida tecnica per la catalogazione, per ogni singola regione italiana, di produzioni e beni agroalimentari a carattere di tipicita', con caratteristiche tradizionali, ai fini della redazione di un Atlante del patrimonio gastronomico, integrato con i riferimenti al patrimonio culturale, artigianale e turistico.
 
-## Titolo III - RAFFORZAMENTO STRUTTURALE DELLE IMPRESE E INTEGRAZIONE ECONOMICA
+## Titolo III - RAFFORZAMENTO STRUTTURALE DELLE IMPRESE E INTEGRAZIONE ECONOMICA DELLA FILIERA.
 
-### DELLA FILIERA.
-
-#### Art. 9
+### Art. 9
 
 Imprenditori agricoli
 
@@ -636,7 +630,7 @@ Imprenditori agricoli
 
 > Si reputano connesse le attivita' dirette alla trasformazione o all'alienazione dei prodotti agricoli, quando rientrano nell'esercizio normale dell'agricoltura".
 
-#### Art. 10
+### Art. 10
 
 Rafforzamento strutturale delle imprese
 
@@ -696,15 +690,15 @@ c) ristrutturazione dei fabbricati aziendali finalizzati ad adeguare le struttur
 
 > 2\. Dopo tre anni a decorrere dalla messa in vigore negli Stati membri, la commissione presenta al Parlamento europeo e al Consiglio un bilancio dell'applicazione del presente regolamento".
 
-#### Art. 11
+### Art. 11
 
 ((ARTICOLO SOPPRESSO DAL D.LGS. 27 MAGGIO 2005, N. 102))
 
-#### Art. 12
+### Art. 12
 
 ((ARTICOLO ABROGATO DAL D.L. 5 MAGGIO 2015, N. 51, CONVERTITO CON MODIFICAZIONI DALLA L. 2 LUGLIO 2015, N. 91))
 
-#### Art. 13
+### Art. 13
 
 Interventi per il rafforzamento e lo sviluppo delle
 
@@ -728,11 +722,9 @@ g) all'introduzione della contabilita' aziendale e all'avviamento dei servizi di
 
 2\. Al fine di promuovere il salvataggio e la ristrutturazione delle imprese agricole e agroalimentari, il Ministero per le politiche agricole, di concerto con il Ministero dell'industria, del commercio e dell'artigianato, di intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, definisce, nei limiti delle autorizzazioni di spesa all'uopo recate da appositi provvedimenti legislativi, entro sei mesi dall'entrata in vigore del presente decreto legislativo, un programma di interventi, conforme agli orientamenti comunitari degli aiuti di Stato per il salvataggio e la ristrutturazione delle imprese.
 
-## Titolo IV - ACCELERAZIONE DELLE PROCEDURE DI UTILIZZAZIONE DEI FONDI
+## Titolo IV - ACCELERAZIONE DELLE PROCEDURE DI UTILIZZAZIONE DEI FONDI STRUTTURALI E DEFINIZIONE DEI SERVIZI DI INTERESSE PUBBLICO.
 
-### STRUTTURALI E DEFINIZIONE DEI SERVIZI DI INTERESSE PUBBLICO.
-
-#### Art. 14
+### Art. 14
 
 Snellimento procedure di accesso ai fondi strutturali
 
@@ -794,7 +786,7 @@ Per le medesime finalita', il Ministero per le politiche agricole puo' avvalersi
 
 > \- La legge 4 giugno 1984, n. 194, recante interventi a sostegno dell'agricoltura, e' pubblicata nella Gazzetta Ufficiale n. 153 del 5 giugno 1984.
 
-#### Art. 15
+### Art. 15
 
 Servizi di interesse pubblico
 
@@ -848,7 +840,7 @@ Servizi di interesse pubblico
 
 ## Titolo V - NORMA DI SALVAGUARDIA
 
-#### Art. 16
+### Art. 16
 
 1\. Le regioni a statuto speciale e le province autonome di Trento e di Bolzano provvedono alle finalita' del presente decreto nell'ambito delle proprie competenze, secondo quanto previsto dai rispettivi ordinamenti.
 

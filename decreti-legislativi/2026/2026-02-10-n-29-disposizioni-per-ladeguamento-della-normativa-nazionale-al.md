@@ -67,11 +67,9 @@ Emana:
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Disposizioni generali
 
-### Disposizioni generali
-
-#### Art. 1
+### Art. 1
 
 Finalita' e ambito di applicazione
 
@@ -189,7 +187,7 @@ Finalita' e ambito di applicazione
 
 > \- Per la direttiva 2006/66/CE si vedano le note alle premesse.
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -369,7 +367,7 @@ c) «statuto-tipo»: lo schema tipo di statuto, approvato dal Ministero dell'amb
 
 > 10-ter. I sistemi collettivi esistenti alla data di entrata in vigore della presente disposizione si adeguano alla disposizione di cui al comma 10-bis entro il 31 dicembre dell'anno solare successivo a quello dell'approvazione dello statuto-tipo. Qualora un sistema collettivo scenda, per la prima volta dopo la costituzione dello stesso, sotto la quota di mercato di cui al comma 10-bis, lo comunica senza indugio al Comitato di vigilanza e controllo, e puo' proseguire le attivita' di gestione dei RAEE fino al 31 dicembre dell'anno solare successivo. Fermo restando l'obbligo di comunicazione di cui al precedente periodo, i successivi casi di mancato raggiungimento, da parte del medesimo sistema collettivo, della quota di mercato di cui al comma 10-bis, sono valutati dal Comitato di vigilanza e controllo in conformita' all'articolo 35.».
 
-#### Art. 3
+### Art. 3
 
 Autorita' competenti
 
@@ -455,7 +453,7 @@ Autorita' competenti
 
 > 2\. Nell'espletamento delle attivita' di cui al comma 1, i militari del Corpo agiscono con le facolta' e i poteri previsti dalle leggi e regolamenti vigenti.».
 
-#### Art. 4
+### Art. 4
 
 Tavolo nazionale batterie
 
@@ -501,7 +499,7 @@ t) un rappresentante delle associazioni dei consumatori maggiormente rappresenta
 
 3\. Ai componenti del Tavolo e agli esperti di cui al comma 2 non sono corrisposti compensi, indennita', gettoni di presenza, rimborsi spese o altri emolumenti comunque denominati.
 
-#### Art. 5
+### Art. 5
 
 Immissione sul mercato e libera circolazione
 
@@ -519,17 +517,15 @@ Immissione sul mercato e libera circolazione
 
 > \- Per i riferimenti al regolamento (UE) 2023/1542 si vedano le note alle premesse.
 
-## Capo II
+## Capo II - Notifica degli organismi di valutazione della conformita'
 
-### Notifica degli organismi di valutazione della conformita'
-
-#### Art. 6
+### Art. 6
 
 Autorita' di notifica
 
 1\. L'autorita' di notifica nazionale, di cui all'articolo 3, comma 1, del presente decreto, e' responsabile della notifica degli organismi di valutazione della conformita'.
 
-#### Art. 7
+### Art. 7
 
 Requisiti relativi all'autorita' di notifica
 
@@ -551,7 +547,7 @@ f) assegnare a tali attivita' un numero di dipendenti competenti sufficiente per
 
 > \- Per i riferimenti al regolamento (UE) 2023/1542 si vedano le note alle premesse.
 
-#### Art. 8
+### Art. 8
 
 Obbligo di stipulare un contratto di assicurazione per gli organismi di valutazione della conformita'
 
@@ -559,7 +555,7 @@ Obbligo di stipulare un contratto di assicurazione per gli organismi di valutazi
 
 2\. L'obbligo non si applica nel caso in cui l'organismo di valutazione della conformita' sia un organismo di diritto pubblico.
 
-#### Art. 9
+### Art. 9
 
 Obbligo di custodia dei documenti riguardanti il subappaltatore o le affiliate
 
@@ -569,7 +565,7 @@ Obbligo di custodia dei documenti riguardanti il subappaltatore o le affiliate
 
 > \- Per i riferimenti al regolamento (UE) 2023/1542 si vedano le note alle premesse.
 
-#### Art. 10
+### Art. 10
 
 Procedura di autorizzazione ai fini della notifica
 
@@ -591,7 +587,7 @@ Procedura di autorizzazione ai fini della notifica
 
 > \- Per i riferimenti al regolamento (UE) 2023/1542 si vedano le note alle premesse.
 
-#### Art. 11
+### Art. 11
 
 Procedura di notifica
 
@@ -605,7 +601,7 @@ Procedura di notifica
 
 > \- Per i riferimenti al regolamento (UE) 2023/1542 si vedano le note alle premesse.
 
-#### Art. 12
+### Art. 12
 
 Ricorsi contro le decisioni degli organismi notificati
 
@@ -613,11 +609,9 @@ Ricorsi contro le decisioni degli organismi notificati
 
 2\. Ciascun organismo notificato definisce le modalita' di gestione dei ricorsi avverso le decisioni assunte nel rispetto della procedura di cui al comma 1.
 
-## Capo III
+## Capo III - Obblighi degli operatori economici
 
-### Obblighi degli operatori economici
-
-#### Art. 13
+### Art. 13
 
 Lingua della dichiarazione di conformita' UE
 
@@ -627,7 +621,7 @@ Lingua della dichiarazione di conformita' UE
 
 > \- Per i riferimenti al regolamento (UE) 2023/1542 si vedano le note alle premesse.
 
-#### Art. 14
+### Art. 14
 
 Disposizioni relative agli obblighi degli operatori economici
 
@@ -643,7 +637,7 @@ Disposizioni relative agli obblighi degli operatori economici
 
 > \- Per i riferimenti al regolamento (UE) 2023/1542 si vedano le note alle premesse.
 
-#### Art. 15
+### Art. 15
 
 Apposizione della marcatura CE, del numero di identificazione dell'organismo notificato e verifica dell'uso della marcatura CE
 
@@ -657,7 +651,7 @@ Apposizione della marcatura CE, del numero di identificazione dell'organismo not
 
 > \- Per i riferimenti al regolamento (UE) 2023/1542 si vedano le note alle premesse.
 
-#### Art. 16
+### Art. 16
 
 Obblighi di diligenza
 
@@ -677,7 +671,7 @@ Acquisite le osservazioni, l'autorita' di vigilanza comunica all'operatore econo
 
 > \- Per i riferimenti all'articolo 3 del decreto legislativo 12 ottobre 2022, n. 157 si vedano le note all'articolo 5.
 
-#### Art. 17
+### Art. 17
 
 Strumenti di supporto per l'attuazione del dovere di diligenza
 
@@ -703,11 +697,9 @@ c) strumenti informatici che favoriscano la tracciabilita' e la trasparenza dell
 
 > \- Per i riferimenti al regolamento (UE) 2023/1542 si vedano le note alle premesse.
 
-## Capo IV
+## Capo IV - Appalti pubblici verdi
 
-### Appalti pubblici verdi
-
-#### Art. 18
+### Art. 18
 
 Appalti pubblici verdi
 
@@ -729,11 +721,9 @@ Appalti pubblici verdi
 
 > 2-bis. L'allegato II.3 prevede meccanismi e strumenti premiali per realizzare le pari opportunita' generazionali e di genere e per promuovere l'inclusione lavorativa delle persone con disabilita' o persone svantaggiate.».
 
-## Capo V
+## Capo V - Gestione dei rifiuti di batterie
 
-### Gestione dei rifiuti di batterie
-
-#### Art. 19
+### Art. 19
 
 Obiettivi di raccolta
 
@@ -759,7 +749,7 @@ b) 61 per cento entro il 31 dicembre 2031.
 
 > \- Per i riferimenti al regolamento (UE) 2023/1542 si vedano le note alle premesse.
 
-#### Art. 20
+### Art. 20
 
 Registro dei produttori
 
@@ -873,7 +863,7 @@ All'atto dell'iscrizione, il produttore deve indicare, qualora il codice di atti
 
 > 5\. Ai fini della predisposizione e dell'aggiornamento del Registro di cui al comma 1, le Camere di commercio, industria, artigianato e agricoltura comunicano annualmente all'ISPRA, secondo modalita' di interconnessione telematica da definirsi mediante accordo tra le parti, l'elenco delle imprese identificate come produttori di pile e accumulatori, nonche' tutte le altre informazioni di cui al comma 2.».
 
-#### Art. 21
+### Art. 21
 
 Gestione del Registro dei produttori di batterie e dei dati relativi ai produttori e dei sistemi di gestione per l'adempimento della responsabilita' estesa del produttore e modalita' operative di funzionamento
 
@@ -899,7 +889,7 @@ d) elabora i dati di cui agli articoli 75 e 76 del Regolamento e ne trasmette le
 
 > \- Per i riferimenti alla legge 25 gennaio 1994, n. 70 si vedano le note alle premesse.
 
-#### Art. 22
+### Art. 22
 
 Centro di coordinamento batterie
 
@@ -925,7 +915,7 @@ Centro di coordinamento batterie
 
 > \- Per i riferimenti al regolamento (UE) 2023/1542 si vedano le note alle premesse.
 
-#### Art. 23
+### Art. 23
 
 Compiti del Centro di coordinamento batterie
 
@@ -1291,7 +1281,7 @@ t) fornire supporto al Ministero dell'ambiente e della sicurezza energetica ai f
 
 > \- La parte seconda, titolo III-bis, del decreto legislativo 3 aprile 2006, n. 152 reca «L'autorizzazione integrata ambientale».
 
-#### Art. 24
+### Art. 24
 
 Comitato di vigilanza e di controllo
 
@@ -1359,7 +1349,7 @@ Con decreto del Ministro dell'ambiente e della sicurezza energetica, di concerto
 
 > 4\. L'attivita' e il funzionamento del Comitato sono disciplinati con regolamento interno adottato dal medesimo Comitato, nel rispetto delle disposizioni del presente decreto. La Segreteria del Comitato e' assicurata dall'ISPRA.».
 
-#### Art. 25
+### Art. 25
 
 Responsabilita' estesa del produttore
 
@@ -1395,7 +1385,7 @@ d) i costi di raccolta e comunicazione dei dati alle autorita' competenti a norm
 
 > \- Per i riferimenti agli articoli 178-ter e 237 del decreto legislativo 3 aprile 2006, n. 152 si vedano le note all'articolo 2.
 
-#### Art. 26
+### Art. 26
 
 Adempimento in forma individuale degli obblighi di responsabilita' estesa del produttore
 
@@ -1449,7 +1439,7 @@ L'assolvimento degli obblighi di cui al presente comma costituisce adempimento d
 
 > \- Il decreto legislativo 8 giugno 2001, n. 231 recante: «Disciplina della responsabilita' amministrativa delle persone giuridiche, delle societa' e delle associazioni anche prive di personalita' giuridica, a norma dell'articolo 11 della legge 29 settembre 2000, n. 300» e' pubblicato nella Gazzetta Ufficiale n. 140 del 19 giugno 2001.
 
-#### Art. 27
+### Art. 27
 
 Adempimento in forma collettiva della responsabilita' estesa del produttore
 
@@ -1549,7 +1539,7 @@ f) rispetta ogni altro requisito e condizione posti dal Regolamento in capo ai p
 
 > \- Per i riferimenti all'articolo 10 del decreto legislativo 14 marzo 2014, n. 49 si vedano le note all'articolo 2.
 
-#### Art. 28
+### Art. 28
 
 Comunicazioni all'autorita' competente
 
@@ -1567,7 +1557,7 @@ Comunicazioni all'autorita' competente
 
 > \- Per i riferimenti all'articolo 206-bis del decreto legislativo 3 aprile 2006, n. 152 si vedano le note all'articolo 23.
 
-#### Art. 29
+### Art. 29
 
 Garanzia finanziaria
 
@@ -1589,7 +1579,7 @@ Garanzia finanziaria
 
 > c) da polizza assicurativa rilasciata da imprese di assicurazione debitamente autorizzata all'esercizio del ramo cauzioni ed operante nel territorio della Repubblica in regime di liberta' di stabilimento o di liberta' di prestazione di servizi.».
 
-#### Art. 30
+### Art. 30
 
 Obblighi degli operatori degli impianti di trattamento
 
@@ -1605,7 +1595,7 @@ Obblighi degli operatori degli impianti di trattamento
 
 > \- Per i riferimenti al regolamento (UE) 2023/1542 si vedano le note alle premesse.
 
-#### Art. 31
+### Art. 31
 
 Punti di raccolta
 
@@ -1913,7 +1903,7 @@ Punti di raccolta
 
 > \- Per i riferimenti all'articolo 183 del decreto legislativo 3 aprile 2006, n. 152 si vedano le note all'articolo 23.
 
-#### Art. 32
+### Art. 32
 
 Verifica del conseguimento degli obiettivi di raccolta
 
@@ -1927,7 +1917,7 @@ Verifica del conseguimento degli obiettivi di raccolta
 
 > \- Per i riferimenti al regolamento (UE) 2023/1542 si vedano le note alle premesse.
 
-#### Art. 33
+### Art. 33
 
 Comunicazioni alla Commissione europea
 
@@ -1937,11 +1927,9 @@ Comunicazioni alla Commissione europea
 
 > \- Per i riferimenti al regolamento (UE) 2023/1542 si vedano le note alle premesse.
 
-## Capo VI
+## Capo VI - Sanzioni
 
-### Sanzioni
-
-#### Art. 34
+### Art. 34
 
 Sanzioni
 
@@ -2077,11 +2065,9 @@ c) entita' del danno potenziale o effettivo arrecato alla salute, alla sicurezza
 
 > «Art. 11 (Criteri per l'applicazione delle sanzioni amministrative pecuniarie). - Nella determinazione della sanzione amministrativa pecuniaria fissata dalla legge tra un limite minimo ed un limite massimo e nell'applicazione delle sanzioni accessorie facoltative, si ha riguardo alla gravita' della violazione, all'opera svolta dall'agente per la eliminazione o attenuazione delle conseguenze della violazione, nonche' alla personalita' dello stesso e alle sue condizioni economiche.».
 
-## Capo VII
+## Capo VII - Disposizioni transitorie e finali
 
-### Disposizioni transitorie e finali
-
-#### Art. 35
+### Art. 35
 
 Disposizioni transitorie e di coordinamento
 
@@ -2117,7 +2103,7 @@ Disposizioni transitorie e di coordinamento
 
 > (Omissis).».
 
-#### Art. 36
+### Art. 36
 
 Modifica all'allegato V al decreto legislativo
 
@@ -2265,7 +2251,7 @@ Modifica all'allegato V al decreto legislativo
 
 > \- regolamento (UE) 2023/1542 del Parlamento europeo e del Consiglio, del 12 luglio 2023, relativo alle batterie e ai rifiuti di batterie, che modifica la direttiva 2008/98/CE e il regolamento (UE) 2019/1020 e abroga la direttiva 2006/66/CE.».
 
-#### Art. 37
+### Art. 37
 
 Abrogazioni
 
@@ -2423,13 +2409,13 @@ d) gli articoli 14, 15, commi 2 e 3, 27, commi 4 e 5, e l'allegato III continuan
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 38
+### Art. 38
 
 Clausola di invarianza finanziaria
 
 1\. Le amministrazioni interessate provvedono agli adempimenti previsti dal presente decreto con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri a carico della finanza pubblica.
 
-#### Art. 39
+### Art. 39
 
 Entrata in vigore
 
@@ -2467,7 +2453,7 @@ Visto, il Guardasigilli: Nordio
 
 ## Allegati
 
-#### Allegato I
+### Allegato I
 
 Allegato I
 
@@ -2636,7 +2622,7 @@ Batterie Electric Vehicle (EV)
 
 5.5 ALTRO
 
-#### Allegato II
+### Allegato II
 
 Allegato II
 

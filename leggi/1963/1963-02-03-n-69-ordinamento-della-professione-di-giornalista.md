@@ -30,11 +30,9 @@ la seguente legge:
 
 ## TITOLO I - Dell'Ordine dei giornalisti
 
-### CAPO I
+### CAPO I - DEI CONSIGLI DELL'ORDINE REGIONALI O INTERREGIONALI
 
-#### DEI CONSIGLI DELL'ORDINE REGIONALI O INTERREGIONALI
-
-##### Art. 1
+#### Art. 1
 
 Ordine dei giornalisti
 
@@ -50,7 +48,7 @@ Le funzioni relative alla tenuta dell'albo, e quelle relative alla disciplina de
 
 Tanto gli ordini regionali e interregionali, quanto l'ordine nazionale, ciascuno nei limiti della propria competenza, sono persone giuridiche di diritto pubblico.
 
-##### Art. 2
+#### Art. 2
 
 Diritti e doveri
 
@@ -60,7 +58,7 @@ Devono essere rettificate le notizie che risultino inesatte, e riparati gli even
 
 Giornalisti e editori sono tenuti a rispettare il segreto professionale sulla fonte delle notizie, quando cio' sia richiesto dal carattere fiduciario di esse, e a promuovere lo spirito di collaborazione tra colleghi, la cooperazione fra giornalisti e editori, e la fiducia tra la stampa e i lettori.
 
-##### Art. 3
+#### Art. 3
 
 Composizione dei Consigli regionali o interregionali
 
@@ -80,7 +78,7 @@ AGGIORNAMENTO (11)
 
 Il D.L. 30 dicembre 2015, n. 210, convertito con modificazioni dalla L. 25 febbraio 2016, n. 21, come modificato dal D.L. 30 dicembre 2016, n. 244, convertito con modificazioni dalla L. 27 febbraio 2017, n. 19, ha disposto (con l'art. 12-quater, comma 1) che "I componenti del Consiglio nazionale dell'Ordine dei giornalisti, di cui all'articolo 17 della legge 3 febbraio 1963, n. 69, e dei Consigli regionali di cui all'articolo 3 della medesima legge n. 69 del 1963 rimangono in carica sino al 30 giugno 2017".
 
-##### Art. 4
+#### Art. 4
 
 Elezione dei Consigli dell'Ordine
 
@@ -90,7 +88,7 @@ L'avviso deve contenere l'indicazione dell'oggetto dell'adunanza, e stabilire il
 
 L'assemblea e' valida in prima convocazione quando intervenga almeno la meta' degli iscritti, e in seconda convocazione qualunque sia il numero degli intervenuti.
 
-##### Art. 5
+#### Art. 5
 
 Votazioni
 
@@ -100,7 +98,7 @@ Durante la votazione e' sufficiente la presenza di tre componenti dell'ufficio e
 
 Il segretario dell'Ordine esercita le funzioni di segretario di seggio.
 
-##### Art. 6
+#### Art. 6
 
 Scrutinio e proclamazione degli eletti
 
@@ -114,7 +112,7 @@ Allorche' non e' raggiunta la maggioranza assoluta dei voti da tutti o da alcuno
 
 Dopo l'elezione, il presidente dell'assemblea comunica al ((Ministero della giustizia)) l'avvenuta proclamazione degli eletti.
 
-##### Art. 7
+#### Art. 7
 
 Durata in carica del Consiglio Sostituzioni
 
@@ -124,7 +122,7 @@ Nel caso in cui uno dei componenti il Consiglio venisse a mancare, per qualsiasi
 
 I componenti cosi' eletti rimangono in carica fino alla scadenza del Consiglio.
 
-##### Art. 8
+#### Art. 8
 
 Reclamo contro le operazioni elettorali
 
@@ -132,13 +130,13 @@ Contro i risultati delle elezioni, ciascun iscritto agli elenchi dell'albo puo' 
 
 Quando il reclamo investa l'elezione di tutto il Consiglio e sia accolto, il Consiglio nazionale provvede, fissando un termine non superiore a trenta giorni e con le modalita' che saranno indicate nel Regolamento, a rinnovare l'elezione dichiarata nulla.
 
-##### Art. 9
+#### Art. 9
 
 Cariche del Consiglio
 
 Ciascun Consiglio elegge nel proprio seno un presidente, un vicepresidente, un segretario ed un tesoriere. Ove il presidente sia iscritto nell'elenco dei professionisti, il vicepresidente deve essere scelto tra i pubblicisti, e reciprocamente.
 
-##### Art. 10
+#### Art. 10
 
 Attribuzioni del presidente
 
@@ -148,7 +146,7 @@ Il vicepresidente sostituisce il presidente in caso di assenza o di impedimento.
 
 Se il presidente e il vicepresidente siano assenti o impediti, ne fa le veci il membro piu' anziano per iscrizione nell'albo, e, nel caso di pari anzianita', il piu' anziano per eta'.
 
-##### Art. 11
+#### Art. 11
 
 Attribuzioni del Consiglio
 
@@ -172,7 +170,7 @@ h) fissa, con l'osservanza del limite massimo previsto dall'articolo 20, lettera
 
 i) esercita le altre attribuzioni demandategli dalla legge.
 
-##### Art. 12
+#### Art. 12
 
 Collegio dei revisori dei conti
 
@@ -184,13 +182,13 @@ L'assemblea convocata per l'elezione del Consiglio elegge, con le modalita' stab
 
 I revisori dei conti durano in carica tre anni e sono rieleggibili.
 
-##### Art. 13
+#### Art. 13
 
 Assemblea per l'approvazione dei conti
 
 L'assemblea per l'approvazione del bilancio preventivo e del conto consuntivo ha luogo nel mese di marzo di ogni anno.
 
-##### Art. 14
+#### Art. 14
 
 Assemblea straordinaria
 
@@ -198,7 +196,7 @@ Il presidente, oltre che nel caso di cui all'articolo precedente, convoca l'asse
 
 Tale convocazione deve essere fatta non oltre dieci giorni dalla deliberazione o dalla richiesta.
 
-##### Art. 15
+#### Art. 15
 
 Norme comuni per le assemblee
 
@@ -208,9 +206,9 @@ L'assemblea delibera a maggioranza assoluta dei voti dei presenti.
 
 Per le assemblee previste dai due articoli precedenti si applica per quant'altro il disposto dell'articolo 4.
 
-## CAPO II - DEL CONSIGLIO NAZIONALE DELL'ORDINE
+### CAPO II - DEL CONSIGLIO NAZIONALE DELL'ORDINE
 
-##### Art. 16
+#### Art. 16
 
 Consiglio nazionale: composizione
 
@@ -234,7 +232,7 @@ Le assemblee devono essere convocate almeno venti giorni prima della scadenza de
 
 Contro i risultati delle elezioni ciascun iscritto puo' proporre reclamo al Consiglio nazionale, nel termine di 10 giorni dalla proclamazione. In caso di accoglimento del reclamo, il Consiglio nazionale stesso fissa un termine, non superiore a 30 giorni, perche' da parte dell'assemblea regionale o interregionale interessata sia provveduto al rinnovo dell'elezione dichiarata nulla.
 
-##### Art. 17
+#### Art. 17
 
 Durata in carica del Consiglio nazionale Sostituzioni
 
@@ -256,7 +254,7 @@ AGGIORNAMENTO (11)
 
 Il D.L. 30 dicembre 2015, n. 210, convertito con modificazioni dalla L. 25 febbraio 2016, n. 21, come modificato dal D.L. 30 dicembre 2016, n. 244, convertito con modificazioni dalla L. 27 febbraio 2017, n. 19, ha disposto (con l'art. 12-quater, comma 1) che "I componenti del Consiglio nazionale dell'Ordine dei giornalisti, di cui all'articolo 17 della legge 3 febbraio 1963, n. 69, e dei Consigli regionali di cui all'articolo 3 della medesima legge n. 69 del 1963 rimangono in carica sino al 30 giugno 2017".
 
-##### Art. 18
+#### Art. 18
 
 Incompatibilita'
 
@@ -264,7 +262,7 @@ Non si puo' far parte contemporaneamente di un Consiglio regionale o interregion
 
 Il componente di un Consiglio regionale o interregionale che venga nominato membro del Consiglio nazionale, si intende decaduto, ove non rinunzi alla nuova elezione nel termine di dieci giorni dalla proclamazione, dalla carica di componente del Consiglio regionale o interregionale.
 
-##### Art. 19
+#### Art. 19
 
 Cariche
 
@@ -276,7 +274,7 @@ Designa pure tre giornalisti perche' esercitino le funzioni di revisore dei cont
 
 Il presidente deve essere scelto tra gli iscritti nello elenco dei professionisti, il vicepresidente tra gli iscritti nell'elenco dei pubblicisti, i revisori di conti tra gli iscritti che non ricoprano o non abbiano ricoperto nell'ultimo triennio la carica di consigliere presso gli Ordini o presso il Consiglio nazionale.
 
-##### Art. 20
+#### Art. 20
 
 Attribuzioni del Consiglio
 
@@ -302,7 +300,7 @@ AGGIORNAMENTO (8)
 
 Il D.Lgs. 26 marzo 2010, n. 59 ha disposto (con l'art. 54, comma 6) che nel presente provvedimento l'espressione: "Ministro di grazia e giustizia", ovunque ricorra, e' sostituita dalla seguente: "Ministro della giustizia"; l'espressione: "Ministero di grazia e giustizia", ovunque ricorra, e' sostituita dalla seguente: "Ministero della giustizia".".
 
-##### Art. 20-bis
+#### Art. 20-bis
 
 (( (Attribuzioni del Consiglio nazionale in materia di formazione).))
 
@@ -336,13 +334,13 @@ f) l'istituzione e le competenze di un Comitato tecnico scientifico avente funzi
 
 g) la vigilanza e le misure da adottare nei confronti delle scuole inadempienti agli obblighi indicati nelle convenzioni o agli indirizzi didattici e organizzativi stabiliti dal Consiglio anche attraverso la previsione di una procedura di revoca dell'autorizzazione, garantendo, ove possibile, il regolare compimento dei corsi formativi autorizzati.))
 
-##### Art. 21
+#### Art. 21
 
 Attribuzioni al Comitato esecutivo
 
 Il Comitato esecutivo provvede all'attuazione delle delibere del Consiglio e collabora con il presidente nella gestione ordinaria dell'Ordine. Adotta, altresi', in caso di assoluta urgenza, le delibere di competenza del Consiglio stesso escluse quelle previste nelle lettere a), d) ed e) dell'articolo 20, con obbligo di sottoporle a ratifica nella prima riunione, da convocarsi in ogni caso non oltre un mese.
 
-##### Art. 22
+#### Art. 22
 
 Attribuzioni del presidente
 
@@ -350,9 +348,9 @@ Il presidente del Consiglio nazionale convoca e presiede le riunioni del Consigl
 
 In caso di sua assenza od impedimento, si applicano le disposizioni dell'articolo 10, secondo e terzo comma.
 
-## CAPO III - DISPOSIZIONI COMUNI
+### CAPO III - DISPOSIZIONI COMUNI
 
-##### Art. 23
+#### Art. 23
 
 Riunioni dei Consigli e del Comitato esecutivo
 
@@ -362,7 +360,7 @@ Fino all'insediamento del nuovo Consiglio dell'Ordine, rimane in carica il Consi
 
 Le stesse norme si applicano al Comitato esecutivo.
 
-##### Art. 24
+#### Art. 24
 
 Attribuzioni del Ministro per la grazia e giustizia ((8))
 
@@ -378,7 +376,7 @@ AGGIORNAMENTO (8)
 
 Il D.Lgs. 26 marzo 2010, n. 59 ha disposto (con l'art. 54, comma 6) che nel presente provvedimento l'espressione: "Ministro di grazia e giustizia", ovunque ricorra, e' sostituita dalla seguente: "Ministro della giustizia"; l'espressione: "Ministero di grazia e giustizia", ovunque ricorra, e' sostituita dalla seguente: "Ministero della giustizia".".
 
-##### Art. 25
+#### Art. 25
 
 Ineleggibilita'
 
@@ -386,11 +384,9 @@ Non sono eleggibili alle cariche di cui agli articoli 9 e 19 i pubblicisti iscri
 
 ## TITOLO II - Dell'albo professionale
 
-### CAPO I
+### CAPO I - DELL'ISCRIZIONE NEGLI ELENCHI
 
-#### DELL'ISCRIZIONE NEGLI ELENCHI
-
-##### Art. 26
+#### Art. 26
 
 Albo: istituzione
 
@@ -400,7 +396,7 @@ L'albo e' ripartito in due elenchi, l'uno dei professionisti l'altro dei pubblic
 
 I giornalisti che abbiano la loro abituale residenza fuori del territorio della Repubblica sono iscritti nell'albo di Roma.
 
-##### Art. 27
+#### Art. 27
 
 Albo: contenuto
 
@@ -410,7 +406,7 @@ L'anzianita' e' determinata dalla data di iscrizione nell'albo.
 
 A ciascun iscritto nell'albo e' rilasciata la tessera.
 
-##### Art. 28
+#### Art. 28
 
 Elenchi speciali
 
@@ -418,7 +414,7 @@ All'albo dei giornalisti sono annessi gli elenchi dei giornalisti di nazionalita
 
 Quando si controverta sulla natura della pubblicazione, decide irrevocabilmente, su ricorso dell'interessato, il Consiglio nazionale dell'Ordine.
 
-##### Art. 29
+#### Art. 29
 
 Iscrizione nell'elenco dei professionisti
 
@@ -428,13 +424,13 @@ Per l'iscrizione nell'elenco dei professionisti sono richiesti: l'eta' non infer
 
 La iscrizione e' deliberata dal componente Consiglio regionale o interregionale entro sessanta giorni dalla presentazione della domanda. Decorso tale termine, inutilmente il richiedente puo' ricorrere ((Al procedimento per l'iscrizione nell'albo si applica l'articolo 45 del decreto legislativo di attuazione della direttiva 2006/123/CE.))
 
-##### Art. 30
+#### Art. 30
 
 Rigetto della domanda
 
 Il provvedimento di rigetto della domanda di iscrizione all'albo o al registro dei praticanti dev'essere motivato, e dev'essere notificato all'interessato, a mezzo di ufficiale giudiziario, nel termine di 15 giorni dalla deliberazione.
 
-##### Art. 31
+#### Art. 31
 
 Modalita' di iscrizione nell'elenco dei professionisti
 
@@ -454,7 +450,7 @@ Non possono essere iscritti nell'albo coloro che abbiano riportato condanna pena
 
 Nei caso di condanna, che non importi interdizione dai pubblici uffici, o se questa e' cessata, il Consiglio dell'Ordine puo' concedere la iscrizione solo se, vagliate tutte le circostanze e specialmente la condotta del richiedente successivamente alla condanna, ritenga che il medesimo sia meritevole della iscrizione.
 
-##### Art. 31-bis
+#### Art. 31-bis
 
 (((Iscrizione dei cittadini degli Stati membri dell'Unione europea
 
@@ -464,7 +460,7 @@ dei pubblicisti)
 
 1\. I cittadini degli Stati membri dell'Unione europea sono equiparati ai cittadini italiani ai fini dell'iscrizione nel registro dei praticanti e nell'elenco dei pubblicisti di cui, rispettivamente, agli articoli 33 e 35.))
 
-##### Art. 32
+#### Art. 32
 
 Prova di idoneita' professionale
 
@@ -476,7 +472,7 @@ Le modalita' di svolgimento dell'esame, da effettuarsi in almeno due sessioni an
 
 ((Per lo svolgimento della prova scritta e' consentito l'utilizzo di elaboratori elettronici (personal computer) cui sia inibito l'accesso alla memoria secondo le modalita' tecniche indicate dal Consiglio nazionale dell'Ordine dei giornalisti, sentito il Ministero della giustizia)).
 
-##### Art. 33
+#### Art. 33
 
 Registro dei praticanti
 
@@ -494,7 +490,7 @@ Le modalita' di svolgimento dell'esame saranno determinate dal regolamento.
 
 Non sono tenuti a sostenere la prova di esame, di cui sopra, i praticanti in possesso di titolo di studio non inferiore alla licenza di scuola media superiore.
 
-##### Art. 34
+#### Art. 34
 
 Pratica giornalistica
 
@@ -504,7 +500,7 @@ Dopo 18 mesi, a richiesta del praticante, il direttore responsabile della pubbli
 
 Il praticante non puo' rimanere iscritto per piu' di tre anni nel registro.
 
-##### Art. 35
+#### Art. 35
 
 Modalita' d'iscrizione nell'elenco dei pubblicisti
 
@@ -512,7 +508,7 @@ Per l'iscrizione all'elenco dei pubblicisti la domanda dev'essere corredata, olt
 
 Si applica il disposto del secondo comma dell'art. 31.
 
-##### Art. 36
+#### Art. 36
 
 Giornalisti stranieri
 
@@ -522,9 +518,9 @@ La domanda di iscrizione deve essere corredata dai documenti di cui ai numeri 1)
 
 Si applica il disposto del secondo comma dell'art. 31.
 
-## CAPO II - DEI TRASFERIMENTI E DELLA CANCELLAZIONE DALL'ALBO
+### CAPO II - DEI TRASFERIMENTI E DELLA CANCELLAZIONE DALL'ALBO
 
-##### Art. 37
+#### Art. 37
 
 Trasferimenti
 
@@ -532,7 +528,7 @@ Nessuno puo' essere iscritto contemporaneamente in piu' di un albo.
 
 In caso di cambiamento di residenza ((o domicilio professionale)), il giornalista deve chiedere il trasferimento nell'albo del luogo della nuova residenza ((o domicilio professionale)); trascorsi tre mesi dal cambiamento senza che ne sia fatta richiesta, il Consiglio dell'Ordine procede di ufficio alla cancellazione dall'albo del giornalista che si e' trasferito in altra sede ed alla comunicazione di tale cancellazione al Consiglio nella cui giurisdizione A compreso il luogo della nuova residenza ((o domicilio professionale)), che provvedera' ad iscrivere il giornalista nel proprio albo.
 
-##### Art. 38
+#### Art. 38
 
 Cancellazione dall'albo
 
@@ -540,7 +536,7 @@ Il Consiglio dell'Ordine delibera di ufficio la cancellazione dall'albo in caso 
 
 In questo secondo caso, tuttavia, il giornalista e' iscritto nell'elenco speciale per gli stranieri, qualora concorrano le condizioni previste dall'articolo 36, e ne faccia domanda.
 
-##### Art. 39
+#### Art. 39
 
 Condanna penale
 
@@ -550,7 +546,7 @@ Nel caso di condanna che importi l'interdizione temporanea dai pubblici uffici, 
 
 Nel caso di condanna penale che non importi la pena accessoria di cui ai commi precedenti, il Consiglio dell'Ordine inizia procedimento disciplinare ove ricorrano le condizioni previste dal primo comma dell'articolo 48.
 
-##### Art. 40
+#### Art. 40
 
 Cessazione dell'attivita' professionale
 
@@ -558,7 +554,7 @@ Il giornalista e' cancellato dall'elenco dei professionisti, quando risulti che 
 
 In tal caso il professionista puo' essere trasferito nell'elenco dei pubblicisti, ove ricorrano le condizioni di cui all'articolo 35, e ne faccia domanda.
 
-##### Art. 41
+#### Art. 41
 
 Inattivita'
 
@@ -568,7 +564,7 @@ Nel calcolo dei termini suindicati non si tiene conto del periodo di inattivita'
 
 Non si fa luogo alla cancellazione per inattivita' professionale del giornalista che abbia almeno quindici anni di iscrizione all'albo, salvo i casi di iscrizione in altro albo, o di svolgimento d'altra attivita' continuativa e lucrativa.
 
-##### Art. 42
+#### Art. 42
 
 Reiscrizione
 
@@ -576,13 +572,13 @@ Il giornalista cancellato dall'albo puo', a sua richiesta, essere riammesso quan
 
 Se la cancellazione e' avvenuta a seguito di condanna penale, ai sensi dell'articolo 39, primo comma, la domanda di nuova iscrizione puo' essere proposta quando si e' ottenuta la riabilitazione.
 
-##### Art. 43
+#### Art. 43
 
 Notificazione delle deliberazioni del Consiglio
 
 Le deliberazioni del Consiglio regionale o interregionale di cancellazione dall'albo, o di diniego di nuova iscrizione ai sensi dell'articolo precedente, devono essere motivate e notificate all'interessato nei modi e nei termini di cui all'articolo 30.
 
-##### Art. 44
+#### Art. 44
 
 Comunicazioni
 
@@ -590,15 +586,15 @@ Una copia dell'albo deve essere depositata ogni anno, entro il mese di gennaio a
 
 Di ogni nuova iscrizione o cancellazione dovra' essere data comunicazione entro due mesi al ((Ministro della giustizia)), alla Cancelleria della Corte d'appello, al procuratore generale della stessa Corte d'appello ed al Consiglio nazionale.
 
-## CAPO III - DELL'ESERCIZIO DELLA PROFESSIONE DI GIORNALISTA
+### CAPO III - DELL'ESERCIZIO DELLA PROFESSIONE DI GIORNALISTA
 
-##### Art. 45
+#### Art. 45
 
 Esercizio della professione
 
 Nessuno puo' assumere il titolo ne' esercitare la professione di giornalista, se non e' iscritto nell'albo professionale. La violazione di tale disposizione e' punita a norma degli articoli 348 e 498 del codice penale, ove il fatto non costituisca un reato piu' grave.
 
-##### Art. 45
+#### Art. 45
 
 (( (Esercizio della professione). ))
 
@@ -610,7 +606,7 @@ AGGIORNAMENTO (3)
 
 La Corte costituzionale con sentenza 21 - 23 marzo 1968 n. 11 (in G.U. 1a s.s. 30/3/1968, n. 84) ha dichiarato "l'illegittimita' costituzionale dell'art. 45 della legge 3 febbraio 1963, n. 69, relativa all'ordinamento della professione giornalistica, limitatamente alla sua applicabilita' allo straniero al quale sia impedito nel paese di appartenenza l'effettivo esercizio delle liberta' democratiche garantite dalla Costituzione italiana".
 
-##### Art. 46
+#### Art. 46
 
 Direzione dei giornali
 
@@ -624,7 +620,7 @@ AGGIORNAMENTO (4)
 
 La Corte costituzionale con sentenza 2 - 10 luglio 1968, n. 98 (in G.U. 1a s.s. 13/7/1968, n. 177) ha dichiarato "la illegittimita' costituzionale del primo comma dell'art. 46 della legge 3 febbraio 1963, n. 69, sull'ordinamento della professione di giornalista, limitatamente alla parte in cui esclude che il direttore ed il vicedirettore responsabile di un giornale quotidiano o di un periodico o agenzia di stampa di cui al primo comma dell'art. 34 possa essere iscritto nell'elenco dei pubblicisti".
 
-##### Art. 47
+#### Art. 47
 
 Direzione affidata a persone non iscritte nell'albo
 
@@ -644,7 +640,7 @@ La Corte costituzionale con sentenza 2 - 10 luglio 1968, n. 98 (in G.U. 1a s.s. 
 
 ## TITOLO III - Della disciplina degli iscritti
 
-##### Art. 48
+#### Art. 48
 
 Procedimento disciplinare
 
@@ -652,7 +648,7 @@ Gli iscritti nell'albo, negli elenchi o nel registro, che si rendano colpevoli d
 
 Il procedimento disciplinare e' iniziato d'ufficio dal Consiglio regionale o interregionale, o anche su richiesta del procuratore generale competente ai sensi dell'articolo 44.
 
-##### Art. 49
+#### Art. 49
 
 Competenza
 
@@ -660,7 +656,7 @@ La competenza per il giudizio disciplinare appartiene al Consiglio dell'Ordine p
 
 Se l'incolpato e' membro di tale Consiglio il procedimento disciplinare e' rimesso al Consiglio dell'Ordine designato dal Consiglio nazionale.
 
-##### Art. 50
+#### Art. 50
 
 Astensione o ricusazione dei membri del Consiglio dell'Ordine
 
@@ -672,7 +668,7 @@ Se, a seguito di astensioni e ricusazioni viene a mancare il numero legale, il p
 
 Il Consiglio competente a termini del comma precedente, se autorizza l'astensione o riconosce legittima la ricusazione, si sostituisce al Consiglio dell'Ordine cui appartengono i componenti che hanno chiesto di astenersi o che sono stati ricusati; altrimenti restituisce gli atti per la prosecuzione del procedimento.
 
-##### Art. 51
+#### Art. 51
 
 Sanzioni disciplinari
 
@@ -688,7 +684,7 @@ c) la sospensione dall'esercizio della professione per un periodo non inferiore 
 
 d) la radiazione dall'albo.
 
-##### Art. 52
+#### Art. 52
 
 Avvertimento
 
@@ -700,25 +696,25 @@ L'avvertimento e' rivolto oralmente dal presidente e se ne redige verbale sottos
 
 Entro i trenta giorni successivi, il giornalista al quale e' stato rivolto l'avvertimento puo' chiedere di essere sottoposto a procedimento disciplinare.
 
-##### Art. 53
+#### Art. 53
 
 Censura
 
 La censura, da infliggersi nei casi di abusi o mancanze di grave entita', consiste nel biasimo formale per la trasgressione accertata.
 
-##### Art. 54
+#### Art. 54
 
 Sospensione
 
 La sospensione dall'esercizio professionale puo' essere inflitta nei casi in cui l'iscritto con la sua condotta abbia compromesso la dignita' professionale.
 
-##### Art. 55
+#### Art. 55
 
 Radiazione
 
 La radiazione puo' essere disposta nel caso in cui l'iscritto con la sua condotta abbia gravemente compromesso la dignita' professionale fino a rendere incompatibile con la dignita' stessa la sua permanenza nell'albo, negli elenchi o nel registro.
 
-##### Art. 56
+#### Art. 56
 
 Procedimento
 
@@ -726,7 +722,7 @@ Nessuna sanzione disciplinare puo' essere inflitta senza che l'incolpato sia sta
 
 Il Consiglio, assunte sommarie informazioni, contesta all'incolpato a mezzo di lettera raccomandata con ricevuta di ritorno i fatti che gli vengono addebitati e le eventuali prove raccolte, e gli assegna un termine non minore di trenta giorni per essere sentito nelle sue discolpe. L'incolpato ha facolta' di presentare documenti e memorie difensive.
 
-##### Art. 57
+#### Art. 57
 
 Provvedimenti disciplinari: notificazione
 
@@ -734,7 +730,7 @@ I provvedimenti disciplinari sono adottati a votazione segreta.
 
 Essi devono essere motivati, e sono notificati all'interessato ed al pubblico ministero a mezzo di ufficiale giudiziario entro trenta giorni dalla deliberazione.
 
-##### Art. 58
+#### Art. 58
 
 Prescrizione
 
@@ -748,7 +744,7 @@ La prescrizione interrotta ricomincia a decorrere dal giorno dell'interruzione; 
 
 L'interruzione della prescrizione ha effetto nei confronti di tutti coloro che abbiano concorso nel fatto che ha dato luogo al procedimento disciplinare.
 
-##### Art. 59
+#### Art. 59
 
 Reiscrizione dei radiati
 
@@ -758,7 +754,7 @@ Il Consiglio regionale o interregionale competente delibera sulla domanda: la de
 
 ## TITOLO IV - Dei reclami contro le deliberazioni degli organi professionali
 
-##### Art. 60
+#### Art. 60
 
 Ricorso al Consiglio nazionale
 
@@ -768,7 +764,7 @@ Il termine decorre per l'interessato dal giorno in cui gli e' notificato il prov
 
 I ricorsi al Consiglio nazionale in materia elettorale, di cui agli articoli 8 e 16, non hanno effetto sospensivo.
 
-##### Art. 61
+#### Art. 61
 
 Procedimenti disciplinari
 
@@ -778,13 +774,13 @@ Questi presenta per iscritto le sue conclusioni, che vengono comunicate all'inco
 
 Si applicano per il resto le disposizioni di cui agli articoli 56 e 57, primo comma.
 
-##### Art. 62
+#### Art. 62
 
 Deliberazioni del Consiglio nazionale
 
 Le deliberazioni del Consiglio nazionale dell'Ordine, pronunziate sui ricorsi in materia di iscrizione nell'albo, negli elenchi o nel registro e di cancellazione, nonche' in materia disciplinare ed elettorale, devono essere motivate e sono notificate, a mezzo di ufficiale giudiziario, entro trenta giorni, agli interessati, al Consiglio dell'Ordine che ha emesso la deliberazione, nonche' al procuratore generale presso la Corte d'appello nel cui distretto ha sede il Consiglio.
 
-##### Art. 63
+#### Art. 63
 
 Azione giudiziaria
 
@@ -810,7 +806,7 @@ Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, commi 1 e 2) che 
 
 2\. Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
 
-##### Art. 64
+#### Art. 64
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 2011, N. 150)) ((8))
 
@@ -822,7 +818,7 @@ Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, commi 1 e 2) che 
 
 2\. Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
 
-##### Art. 65
+#### Art. 65
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 2011, N. 150)) ((8))
 
@@ -836,7 +832,7 @@ Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, commi 1 e 2) che 
 
 ## TITOLO V - Disposizioni finali e transitorie
 
-##### Art. 66
+#### Art. 66
 
 Costituzione dei primi Consigli
 
@@ -852,7 +848,7 @@ Il Consiglio regionale o interregionale sara' convocato la prima volta, ai fini 
 
 Le spese per le convocazioni, previste ai commi precedenti, faranno carico ai Consigli regionali o interregionali cui si riferiscono.
 
-##### Art. 67
+#### Art. 67
 
 Commissione unica Devoluzione
 
@@ -866,19 +862,19 @@ A ciascun Consiglio regionale o interregionale, all'atto del proprio insediament
 
 Insediatosi il primo Consiglio nazionale, la Commissione unica cessa dalle proprie funzioni e trasmette al Consiglio medesimo l'attivita' patrimoniale e l'archivio.
 
-##### Art. 68
+#### Art. 68
 
 Ricorsi
 
 Contro le deliberazioni della Commissione unica in materia disciplinare e di tenuta dell'albo dei giornalisti, e' ammesso il ricorso al Consiglio nazionale dell'Ordine dei giornalisti, entro il termine di trenta giorni dalla prima elezione di detto Consiglio se, alla data predetta, non e' ancora decorso il termine di cui al precedente articolo 60.
 
-##### Art. 69
+#### Art. 69
 
 Termini di decadenza
 
 Il termine di decadenza previsto dall'articolo 63, per proporre la domanda innanzi all'Autorita' giudiziaria, comincia a decorrere dalla data di entrata in vigore della presente legge, se a tale data sia stata gia' notificata la deliberazione della Commissione unica.
 
-##### Art. 70
+#### Art. 70
 
 Azione giudiziaria
 
@@ -886,7 +882,7 @@ Spetta alla Corte d'appello di Roma conoscere dei reclami avverso le deliberazio
 
 Anche ai giudizi di cui al comma precedente si applicano, per quanto in esso non previsto, le disposizioni degli articoli 64 e 65.
 
-##### Art. 71
+#### Art. 71
 
 Anzianita'
 
@@ -896,7 +892,7 @@ Le persone iscritte in base al regio decreto predetto negli attuali registri dei
 
 Coloro che abbiano presentato domanda di iscrizione nell'albo anteriormente al 30 novembre 1962, possono essere iscritti dal Consiglio nazionale anche in base ai requisiti previsti dalle leggi precedenti.
 
-##### Art. 72
+#### Art. 72
 
 Personale degli Ordini o del Consiglio nazionale
 
@@ -904,7 +900,7 @@ Per la disciplina giuridica ed economica del personale degli Ordini e del Consig
 
 Il personale dipendente dalla Commissione unica, in servizio all'atto della cessazione d'attivita' della stessa, sara' assunto dal Consiglio nazionale, con l'osservanza delle disposizioni di cui al comma precedente.
 
-##### Art. 73
+#### Art. 73
 
 Norme regolamentari
 
@@ -912,13 +908,13 @@ Il Governo provvedera' all'emanazione delle norme regolamentari entro il termine
 
 In sede di regolamento e in applicazione dell'articolo 1 della presente legge, non potra' farsi luogo alla istituzione di circoscrizioni regionali o interregionali cui non appartengano almeno 40 giornalisti di cui non meno di 20 professionisti.
 
-##### Art. 74
+#### Art. 74
 
 Abrogazione
 
 Sono abrogati il regio decreto 26 febbraio 1928, numero 384, il decreto legislativo luogotenenziale 23 ottobre 1944, n. 302, e ogni altra disposizione incompatibile con la presente legge.
 
-##### Art. 75
+#### Art. 75
 
 Entrata in vigore
 

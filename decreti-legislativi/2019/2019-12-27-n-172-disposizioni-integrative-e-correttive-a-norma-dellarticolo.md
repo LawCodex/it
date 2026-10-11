@@ -116,7 +116,7 @@ Emana
 
 il seguente decreto legislativo:
 
-##### Art. 1
+#### Art. 1
 
 Oggetto
 
@@ -238,11 +238,9 @@ Oggetto
 
 > 4\. La Conferenza unificata di cui al comma 1 e' convocata dal Presidente del Consiglio dei ministri. Le sedute sono presiedute dal Presidente del Consiglio dei ministri o, su sua delega, dal Ministro per gli affari regionali o, se tale incarico non e' conferito, dal Ministro dell'interno.»
 
-## Capo I - Modifiche alla revisione dei ruoli
+## Capo I - Modifiche alla revisione dei ruoli del personale della Polizia di Stato
 
-### del personale della Polizia di Stato
-
-##### Art. 2
+#### Art. 2
 
 Modifiche al decreto del Presidente della Repubblica
 
@@ -382,7 +380,7 @@ c) all'articolo 16:
 
 > I componenti dei consigli di cui al presente articolo sono vincolati al segreto d'ufficio.»
 
-##### Art. 3
+#### Art. 3
 
 Modifiche al decreto del Presidente della Repubblica
 
@@ -794,7 +792,7 @@ z) alla tabella A sono apportate le seguenti modificazioni:
 
 > \- La tabella A allegata al citato decreto del Presidente della Repubblica 24 aprile 1982, n. 335, modificata dal presente provvedimento, riguarda la dotazione organica dei ruoli e della carriera del personale della Polizia di Stato che espleta funzioni di polizia.
 
-##### Art. 4
+#### Art. 4
 
 Modifiche al decreto del Presidente della Repubblica
 
@@ -1170,7 +1168,7 @@ c) alla voce «Dirigente generale tecnico», sono apportate le seguenti modifica
 
 > \- La tabella A allegata al citato decreto del Presidente della Repubblica 24 aprile 1982, n. 337, modificata dal presente provvedimento, riguarda la dotazione organica dei ruoli e della carriera del personale della Polizia di Stato che svolge attivita' tecnico-scientifica o tecnica.
 
-##### Art. 5
+#### Art. 5
 
 Modifiche al decreto del Presidente della Repubblica
 
@@ -1194,7 +1192,7 @@ b) all'articolo 5, dopo il primo comma e' inserito il seguente: «Il personale d
 
 > Il personale di cui al primo comma appartenente al ruolo degli ispettori deve indicare, nella domanda, il settore tecnico nel quale intende transitare. E' comunque ammesso, successivamente, a sostenere la prova prevista per il transito nel settore supporto logistico-amministrativo il personale che non abbia superato la prova teorica o pratica prevista per gli altri settori tecnici.»
 
-##### Art. 6
+#### Art. 6
 
 Modifiche al decreto del Presidente della Repubblica
 
@@ -1244,7 +1242,7 @@ f) la «tabella G» e' sostituita dalla «tabella G» di cui alla «tabella 1»,
 
 > \- La tabella F allegata al citato decreto del Presidente della Repubblica 30 aprile 1987, n. 240, modificata dal presente provvedimento, riguarda l'equiparazione tra le qualifiche del personale della banda musicale della Polizia di Stato e quelle del personale che espleta attivita' tecnico scientifica o tecnica.
 
-##### Art. 7
+#### Art. 7
 
 Modifiche al decreto legislativo 5 ottobre 2000, n. 334
 
@@ -1726,11 +1724,9 @@ ii) la Tabella 6 e' soppressa.
 
 ## Capo II - Modifiche alla revisione dei ruoli del personale dell'Arma dei carabinieri
 
-### Sezione I
+### Sezione I - Disposizioni generali e comuni
 
-#### Disposizioni generali e comuni
-
-##### Art. 8
+#### Art. 8
 
 Custodia della bandiera dell'Arma dei carabinieri
 
@@ -1748,7 +1744,7 @@ Custodia della bandiera dell'Arma dei carabinieri
 
 > 4\. Al Corpo militare della Croce rossa italiana e al Corpo delle infermiere volontarie della Croce rossa italiana e' concesso l'uso della bandiera nazionale.
 
-##### Art. 9
+#### Art. 9
 
 Qualifiche di polizia giudiziaria e di pubblica sicurezza
 
@@ -1778,7 +1774,7 @@ b) all'articolo 993, al comma 4 dopo le parole: «amministrazione e l'innovazion
 
 > 5\. Gli eventuali richiami in servizio non interrompono il decorso dell'ausiliaria.».
 
-##### Art. 10
+#### Art. 10
 
 Reclutamento
 
@@ -1804,7 +1800,7 @@ c) all'articolo 2196-quinquies il comma 3-quater e' soppresso.
 
 > 1-bis. Ferma restando la competenza del Ministero della difesa nel conferimento della qualifica di perito selettore di cui al comma 1, secondo periodo l'Arma dei carabinieri svolge in autonomia i relativi corsi.»
 
-##### Art. 11
+#### Art. 11
 
 Stato giuridico
 
@@ -1898,7 +1894,7 @@ b) all'articolo 950:
 
 > 5\. Il militare che, allo scadere del periodo massimo di cui al comma 2, lettera a), non ha riacquistato l'idoneita' fisica incondizionata o che e' riconosciuto temporaneamente non idoneo, e' collocato in congedo con decorrenza dal giorno successivo a quello della data di comunicazione del relativo giudizio.».
 
-##### Art. 12
+#### Art. 12
 
 Avanzamento
 
@@ -1990,9 +1986,9 @@ c) all'articolo 1084-bis, dopo il comma 2 e' aggiunto il seguente:
 
 > 6\. Nei casi previsti dai commi 1 e 2, ai militari cessati dal servizio dal 1° gennaio 2015 e fino al giorno antecedente alla data di entrata in vigore del presente articolo, la promozione e' attribuita secondo le decorrenze previste dalle disposizioni vigenti anteriormente a tale ultima data.».
 
-## Sezione II - Ruoli degli ufficiali
+### Sezione II - Ruoli degli ufficiali
 
-##### Art. 13
+#### Art. 13
 
 Formazione
 
@@ -2014,7 +2010,7 @@ b) all'articolo 737-bis, comma 1 le parole: «due anni» sono sostituite dalle s
 
 > «Art. 737-bis (Corso di formazione per ufficiali del ruolo forestale) - 1. I tenenti del ruolo forestale sono ammessi a frequentare un corso di formazione, di durata non inferiore a un anno, al termine del quale e' determinata una nuova anzianita' relativa in base all'ordine della graduatoria finale del corso.».
 
-##### Art. 14
+#### Art. 14
 
 Avanzamento
 
@@ -2024,9 +2020,9 @@ a) dopo il quadro I (specchio A) della tabella 4 e' aggiunta la tabella 4 - quad
 
 b) il quadro I (specchi B e C) della tabella 4 e' sostituito dalla tabella 4 - quadro I (specchi B e C) di cui alle tabelle 3 e 4 allegate al presente decreto.
 
-## Sezione III - Ruoli degli ispettori
+### Sezione III - Ruoli degli ispettori
 
-##### Art. 15
+#### Art. 15
 
 Reclutamento
 
@@ -2182,7 +2178,7 @@ d) all'articolo 689:
 
 > 3\. La commissione assegna un punto di merito espresso in trentesimi. L'idoneita' si consegue riportando il punteggio di almeno diciotto trentesimi. Il concorrente che consegua l'idoneita' ottiene nel punteggio della graduatoria finale di merito le maggiorazioni stabilite nel bando di concorso.».
 
-##### Art. 16
+#### Art. 16
 
 Formazione
 
@@ -2212,7 +2208,7 @@ b) all'articolo 767, comma 1 le parole: «dal Comando generale dell'Arma dei car
 
 > 2\. Agli ammessi ai corsi per la nomina a maresciallo si applicano le nome contenute nel regolamento.».
 
-##### Art. 17
+#### Art. 17
 
 Ruoli
 
@@ -2234,7 +2230,7 @@ Ruoli
 
 > 4\. In relazione al qualificato profilo professionale raggiunto, ai luogotenenti carica speciale possono essere affidati, anche permanendo nello stesso.».
 
-##### Art. 18
+#### Art. 18
 
 Avanzamento
 
@@ -2296,9 +2292,9 @@ d) il quadro IX della tabella 4 e' sostituito dalla tabella 4 - quadro IX di cui
 
 > b) escluso dalla procedura ai sensi del comma 1, lettere c) e d), la qualifica e' conferita dal giorno successivo al maturamento dei requisiti richiesti. ».
 
-## Sezione IV - Ruolo dei sovrintendenti
+### Sezione IV - Ruolo dei sovrintendenti
 
-##### Art. 19
+#### Art. 19
 
 Ruoli
 
@@ -2318,7 +2314,7 @@ Ruoli
 
 > 3-bis. In relazione al qualificato profilo professionale raggiunto, ai brigadieri capo qualifica speciale possono essere affidati, anche permanendo nello stesso incarico, compiti di maggiore responsabilita' fra quelli di cui al comma precedente.».
 
-##### Art. 20
+#### Art. 20
 
 Avanzamento
 
@@ -2376,9 +2372,9 @@ d) il quadro X della tabella 4 e' sostituito dalla tabella 4 - quadro X di cui a
 
 > b) 5 anni per l'avanzamento al grado di brigadiere capo.».
 
-## Sezione V - Ruolo degli appuntati e carabinieri
+### Sezione V - Ruolo degli appuntati e carabinieri
 
-##### Art. 21
+#### Art. 21
 
 Dotazione organica
 
@@ -2402,7 +2398,7 @@ Dotazione organica
 
 > 5-bis. Le dotazioni di cui al presente articolo possono essere rideterminate con decreto del Ministro della difesa di concerto con il Ministro per la semplificazione e la pubblica amministrazione e con il Ministro dell'economia e delle finanze, fermo restando il volume organico complessivo e senza nuovi o maggiori oneri a carico della finanza pubblica, al fine di adeguare la consistenza al piu' efficace soddisfacimento delle esigenze operative e di economicita' dell'azione amministrativa.».
 
-##### Art. 22
+#### Art. 22
 
 Avanzamento
 
@@ -2454,9 +2450,9 @@ b) all'articolo 1325-quater, al comma 1:
 
 > b) escluso dalla procedura ai sensi del comma 1, lettere c) e d), la qualifica e' conferita dal giorno successivo al maturamento dei requisiti richiesti. ».
 
-## Sezione VI - Norme di coordinamento e transitorie
+### Sezione VI - Norme di coordinamento e transitorie
 
-##### Art. 23
+#### Art. 23
 
 Disposizioni transitorie in materia di reclutamento
 
@@ -2572,7 +2568,7 @@ Fino al 31 dicembre 2024, la durata dei corsi di cui agli articoli 775 e 776 puo
 
 > Fino al 31 dicembre 2024, la durata dei corsi di cui agli articoli 775 e 776 puo' essere ridotta fino alla meta'.».
 
-##### Art. 24
+#### Art. 24
 
 Disposizioni transitorie in materia di ruoli e organici
 
@@ -2728,7 +2724,7 @@ d) all'articolo 2214-quater:
 
 > c) al termine del corso e' assegnato secondo i vigenti profili di impiego del ruolo di destinazione. ».
 
-##### Art. 25
+#### Art. 25
 
 Disposizioni transitorie in materia di avanzamento
 
@@ -3492,7 +3488,7 @@ b) 5 anni di anzianita' nel grado, se sono stati promossi al grado di appuntato 
 
 ## Capo III - Modifiche alla revisione dei ruoli del personale del Corpo della guardia di finanza
 
-##### Art. 26
+#### Art. 26
 
 Modifiche al decreto legislativo 12 maggio 1995, n. 199
 
@@ -4088,7 +4084,7 @@ s) all'articolo 80-ter sono inseriti, in fine, i seguenti commi:
 
 > 1-ter. Qualora la facolta' di cui al comma 1 sia esercitata per i corsi formativi per allievo finanziere di cui all'art. 8, a tutti i frequentatori e' riconosciuta, ai soli fini giuridici, la data di arruolamento degli incorporati del primo ciclo, da cui decorre la ferma volontaria prevista dal comma 5 del predetto art. 8.».
 
-##### Art. 27
+#### Art. 27
 
 Modifiche al decreto legislativo 19 marzo 2001, n. 69
 
@@ -4788,7 +4784,7 @@ b) dal 30 settembre 2027, dalla tabella 1 di cui alla tabella 11.2 allegata al p
 
 > 2-bis. Il servizio sanitario del Corpo della guardia di finanza provvede, ai sensi del regio decreto-legge 19 gennaio 1928, n. 26, convertito dalla legge 6 settembre 1928, n. 2103, all'assistenza sanitaria e alla tutela della salute del personale in servizio con le risorse umane, finanziare e strumentali disponibili a legislazione vigente nonche', anche a favore del personale in congedo e dei rispettivi familiari, con le risorse del Fondo di assistenza per i finanzieri, integralmente riassegnabili secondo le norme previste dal relativo statuto. Si applicano, in quanto compatibili, gli articoli da 181 a 195 del decreto legislativo 15 marzo 2010, n. 66. Con decreto del Ministro dell'economia e delle finanze sono emanate le conseguenti disposizioni tecniche attuative dell'ordinamento del servizio sanitario del medesimo Corpo e dei rapporti con il predetto Fondo.».
 
-##### Art. 28
+#### Art. 28
 
 Altre modifiche normative
 
@@ -5022,7 +5018,7 @@ f) all'articolo 2149:
 
 ## Capo IV - Modifiche alla revisione dei ruoli del personale del Corpo di polizia penitenziaria
 
-##### Art. 29
+#### Art. 29
 
 Modifiche alla legge 15 dicembre 1990, n. 395
 
@@ -5152,7 +5148,7 @@ d) all'articolo 19 sono apportate le seguenti modificazioni:
 
 > Tali accordi decentrati riguardano in particolare le modalita' ed i criteri applicativi degli accordi di cui al comma 14.
 
-##### Art. 30
+#### Art. 30
 
 Modifiche al decreto legislativo 30 ottobre 1992, n. 443
 
@@ -5590,7 +5586,7 @@ dd) la tabella A recante dotazioni organiche del Corpo di polizia penitenziaria 
 
 > r) le malattie da miceti, le malattie da protozoi e le altre parassitosi che siano causa di importanti lesioni organiche o di notevoli disturbi funzionali.»
 
-##### Art. 31
+#### Art. 31
 
 Modifiche al decreto legislativo 30 ottobre 1992, n. 449
 
@@ -5670,7 +5666,7 @@ b) all'articolo 15, comma 1, lettera a), dopo le parole «il direttore dell'isti
 
 > 8\. Qualora gli addebiti sussistano, trasmette il carteggio dell'inchiesta, con le opportune osservazioni, al consiglio di disciplina competente in base al disposto degli articoli 3, 4, 5 e 6.»
 
-##### Art. 32
+#### Art. 32
 
 Modifiche al decreto legislativo 21 maggio 2000, n. 146
 
@@ -5936,7 +5932,7 @@ q) la «tabella D» allegata al decreto legislativo 21 maggio 2000, n. 146, e' s
 
 > 3-ter. Un'ulteriore promozione per merito straordinario non puo' essere conferita se non siano trascorsi almeno tre anni dalla precedente. In tal caso, qualora si verifichino le condizioni previste dai precedenti articoli, al personale interessato possono essere attribuiti, o la classe superiore di stipendio o, se piu' favorevoli, tre scatti di anzianita'.»
 
-##### Art. 33
+#### Art. 33
 
 Modifiche al decreto del Presidente della Repubblica
 
@@ -5944,7 +5940,7 @@ Modifiche al decreto del Presidente della Repubblica
 
 1\. La «tabella F» allegata al decreto del Presidente della Repubblica 18 settembre 2006, n. 276, e' sostituita dalla tabella F di cui alla «tabella 14» allegata al presente decreto legislativo.
 
-##### Art. 34
+#### Art. 34
 
 Modifiche al decreto legislativo 9 settembre 2010, n. 162
 
@@ -6136,7 +6132,7 @@ q) la «tabella A», allegata al decreto legislativo 9 settembre 2010, n.162, e'
 
 > 4\. Agli appartenenti al ruolo dei sovrintendenti tecnici, al ruolo degli ispettori e alla carriera dei funzionari tecnici e' attribuita la qualifica di ufficiale di polizia giudiziaria, limitatamente alle funzioni esercitate.»
 
-##### Art. 35
+#### Art. 35
 
 Regolamento di servizio del Corpo di polizia penitenziaria
 
@@ -6158,7 +6154,7 @@ Regolamento di servizio del Corpo di polizia penitenziaria
 
 ## Capo V - Modifiche al decreto legislativo 29 maggio 2017, n. 95
 
-##### Art. 36
+#### Art. 36
 
 Modifiche all'articolo 2 del decreto legislativo
 
@@ -6744,7 +6740,7 @@ hhh) alla lettera aaaa-sexies), le parole «lettere c), d), mm), mm-bis), zzz), 
 
 > \- Per il testo dell'articolo 1, comma 2, lett. b) della legge 1 dicembre 2018, n. 132 v. nelle note al titolo.
 
-##### Art. 37
+#### Art. 37
 
 Modifiche all'articolo 3 e inserimento dell'articolo 3-bis nel decreto legislativo 29 maggio 2017, n. 95
 
@@ -6888,7 +6884,7 @@ i) dopo il comma 15, sono aggiunti i seguenti:
 
 > \- Per il testo vigente degli articoli 3, 31 e 46 del decreto legislativo 5 ottobre 2000, n. 334 (per l'argomento v. nelle note alle premesse), v. nelle note all'articolo 7.
 
-##### Art. 38
+#### Art. 38
 
 Modifiche all'articolo 36 del decreto legislativo
 
@@ -7548,7 +7544,7 @@ Fino al 31 dicembre 2025, la durata dei corsi di cui all'articolo 27 del decreto
 
 > \- Per il testo vigente delle tabelle 1 e 4 allegate al decreto legislativo 19 marzo 2001, n. 69 (per l'argomento v. nelle note alle premesse), v. nelle tabelle allegate al presente decreto.
 
-##### Art. 39
+#### Art. 39
 
 Modifiche all'articolo 44 del decreto legislativo
 
@@ -7848,7 +7844,7 @@ b) dopo il comma 14 sono inseriti i seguenti commi:
 
 > 34-bis. Dalla data di entrata in vigore del presente decreto, i direttori tecnici ed i direttori tecnici capo assumono la qualifica rispettivamente di commissario tecnico e commissario tecnico capo.».
 
-##### Art. 40
+#### Art. 40
 
 Modifiche all'articolo 45 del decreto legislativo
 
@@ -8172,7 +8168,7 @@ r) la «tabella F» allegata al decreto 29 maggio 2017, n. 95, e' sostituita dal
 
 ## Capo VI - Disposizioni finali, finanziarie e di coordinamento
 
-##### Art. 41
+#### Art. 41
 
 Disposizioni finali e finanziarie
 
@@ -8184,7 +8180,7 @@ Disposizioni finali e finanziarie
 
 > \- Per il testo vigente dell'articolo 45, comma 31, del decreto legislativo 29 maggio 2017, n. 95 (per l'argomento v. nelle note alle premesse), v. nelle note all'art. 40.
 
-##### Art. 42
+#### Art. 42
 
 Abrogazioni
 
@@ -8206,7 +8202,7 @@ b) il decreto del Presidente della Repubblica 13 febbraio 1967, n. 429.
 
 > \- Il decreto del Presidente della Repubblica 13 febbraio 1967, n. 429, recante «Documenti caratteristici degli ufficiali, dei sottufficiali e dei militari di truppa della Guardia di finanza», e' abrogato dal presente decreto a decorrere dalla data di entrata in vigore del decreto ministeriale di cui all'articolo 2138, comma 3, del decreto legislativo 15 marzo 2010, n. 66.
 
-##### Art. 43
+#### Art. 43
 
 Copertura finanziaria
 
@@ -8252,7 +8248,7 @@ Visto, il Guardasigilli: Bonafede
 
 ## Allegati
 
-##### Tabelle
+#### Tabelle
 
 TABELLE ALLEGATE AL CAPO I (POLIZIA DI STATO)
 
@@ -8356,7 +8352,7 @@ Tabella 4 - Quadro VI
 
 TABELLA 6.1
 
-##### Articolo 18, comma 1, lett. d)
+#### Articolo 18, comma 1, lett. d)
 
 Sostituisce la tabella 4 - Quadro IX del decreto legislativo n. 66
 
@@ -8480,7 +8476,7 @@ TABELLE ALLEGATE AL CAPO III (GUARDIA DI FINANZA)
 
 TABELLA 7
 
-##### Articolo 26, comma 2
+#### Articolo 26, comma 2
 
 Sostituisce la Tabella A, allegata al decreto legislativo 12 maggio 1995, n. 199, recante "Attuazione dell'art. 3 della legge 6 marzo 1992, n. 216, in materia di nuovo inquadramento del personale non direttivo e non dirigente del Corpo della guardia di finanza".
 
@@ -8675,7 +8671,7 @@ AGGIORNAMENTO (1)
 
 La L. 30 dicembre 2021, n. 234, come modificata dal D.L. 30 aprile 2022, n. 36, convertito con modificazioni dalla L. 29 giugno 2022, n. 79, ha disposto (con l'art. 1, comma 961-quater, lettera a)) che la modifica alla tabella 1a di cui alla tabella 11.1 allegata al presente decreto legislativo decorre dal 1° gennaio 2022.
 
-##### Tabelle
+#### Tabelle
 
 TABELLE ALLEGATE AL CAPO IV (POLIZIA PENITENZIARIA)
 
@@ -8864,7 +8860,7 @@ DOTAZIONI ORGANICHE DEI RUOLI TECNICI DEL CORPO DI POLIZIA PENITENZIARIA LABORAT
 +------------------+-------------------------+----------------------+
 ```
 
-##### Tabelle
+#### Tabelle
 
 TABELLE ALLEGATE AL CAPO V (MODIFICHE AL DECRETO LEGISLATIVO 29 MAGGIO 2017, N. 95)
 

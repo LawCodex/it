@@ -79,7 +79,7 @@ il seguente decreto legislativo:
 
 ## Capo I - Disposizioni generali
 
-#### Art. 1
+### Art. 1
 
 Definizioni
 
@@ -369,7 +369,7 @@ i) «Bancoposta»: Poste Italiane S.p.A., per le attivita' di bancoposta di cui 
 
 > \- Per i riferimenti al decreto legislativo 5 dicembre 2005, n. 252 si vedano le note alle premesse.
 
-#### Art. 2
+### Art. 2
 
 Oggetto e ambito di applicazione
 
@@ -403,7 +403,7 @@ Oggetto e ambito di applicazione
 
 ## Capo II - Autorita' competenti e cooperazione
 
-#### Art. 3
+### Art. 3
 
 Autorita' competenti DORA e partecipazione al forum di sorveglianza
 
@@ -423,7 +423,7 @@ c) a seconda della tematica trattata, possono partecipare in qualita' di osserva
 
 5\. I protocolli di cui all'articolo 5, comma 1, del presente decreto possono disciplinare le modalita' di partecipazione e lo scambio di informazioni relative al forum di sorveglianza.
 
-#### Art. 4
+### Art. 4
 
 Segnalazione dei gravi incidenti nelle tecnologie dell'informazione e della comunicazione (TIC) e notifica volontaria delle minacce informatiche significative
 
@@ -451,7 +451,7 @@ d) la COVIP, dalle entita' finanziarie di cui all'articolo 2, paragrafo 1, lette
 
 > \- Per i riferimenti alla direttiva (UE)e 2022/2557 del Parlamento europeo e del Consiglio, del 14 dicembre 2022, si vedano le note alle premesse.
 
-#### Art. 5
+### Art. 5
 
 Protocolli d'intesa e scambio di informazioni
 
@@ -597,7 +597,7 @@ Protocolli d'intesa e scambio di informazioni
 
 ## Capo III - Disposizioni applicabili agli intermediari finanziari e a Bancoposta
 
-#### Art. 6
+### Art. 6
 
 Disposizioni applicabili agli intermediari finanziari
 
@@ -607,7 +607,7 @@ Disposizioni applicabili agli intermediari finanziari
 
 3\. La Banca d'Italia puo' individuare, nelle disposizioni attuative adottate ai sensi dell'articolo 9, una categoria di intermediari finanziari a cui, sulla base delle dimensioni e dell'attivita' svolta, si applica, in luogo dell'articolo 16, paragrafi 1 e 2, del regolamento DORA, quanto previsto dagli articoli 5, 6, 7, 8, 9, 10, 11, paragrafi 1, 2, 3, 4, 5, 6, 7, 8 e 10, 12, paragrafi 1, 2, 3, 4, 6 e 7, 13 e 14 del medesimo regolamento e dalle relative norme tecniche di regolamentazione e attuazione, in quanto compatibili.
 
-#### Art. 7
+### Art. 7
 
 Disposizioni applicabili a Bancoposta
 
@@ -615,7 +615,7 @@ Disposizioni applicabili a Bancoposta
 
 ## Capo IV - Poteri di vigilanza, poteri regolamentari e sanzioni
 
-#### Art. 8
+### Art. 8
 
 Poteri di vigilanza
 
@@ -1095,13 +1095,13 @@ Restano fermi i poteri previsti dagli articoli 51, 53-bis, 54 e 108 del TUB, dal
 
 > 2\. Tutte le notizie, le informazioni e i dati acquisiti dal Corpo della guardia di finanza nell'assolvimento dei compiti previsti dal comma 1 sono coperti dal segreto d'ufficio e vengono senza indugio comunicati esclusivamente alle Autorita' competenti.».
 
-#### Art. 9
+### Art. 9
 
 Poteri regolamentari
 
 1\. Le Autorita' competenti DORA possono, nell'ambito delle rispettive competenze, emanare disposizioni attuative del presente decreto e del regolamento DORA, anche per tener conto degli orientamenti delle Autorita' europee di vigilanza, nonche' delle disposizioni riguardanti le modalita' di esercizio dei poteri di vigilanza.
 
-#### Art. 10
+### Art. 10
 
 Sanzioni amministrative e altre misure
 
@@ -1507,11 +1507,9 @@ g) alle precedenti violazioni commesse dalla persona fisica o giuridica responsa
 
 > 4-bis. Alle sanzioni di cui al presente articolo trova applicazione la disposizione prevista, per le sanzioni amministrative riguardanti le violazioni in materia di previdenza e assistenza obbligatorie, dall'articolo 8, comma 2, della legge 24 novembre 1981, n. 689.».
 
-## Capo V - Ulteriori modificazioni e integrazioni della normativa di settore e
+## Capo V - Ulteriori modificazioni e integrazioni della normativa di settore e disposizioni di coordinamento
 
-### disposizioni di coordinamento
-
-#### Art. 11
+### Art. 11
 
 Modifiche al testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58
 
@@ -1615,7 +1613,7 @@ d) siano soggetti a efficaci disposizioni in materia di continuita' operativa, c
 
 > 8\. Le disposizioni di cui al comma 7, lettera b), sono adottate dalla Consob, sentita la Banca d'Italia, per i sistemi multilaterali di negoziazione e i sistemi organizzati di negoziazione che siano gestiti da Sim e banche italiane.».
 
-#### Art. 12
+### Art. 12
 
 Modifica al codice delle assicurazioni private, di cui al decreto legislativo 7 settembre 2005, n. 209
 
@@ -1651,7 +1649,7 @@ Modifica al codice delle assicurazioni private, di cui al decreto legislativo 7 
 
 > 7\. L'IVASS detta con regolamento disposizioni di dettaglio in materia di sistema di governo societario di cui alla presente Sezione.».
 
-#### Art. 13
+### Art. 13
 
 Modifica al decreto legislativo 5 dicembre 2005, n. 252
 
@@ -1677,7 +1675,7 @@ Modifica al decreto legislativo 5 dicembre 2005, n. 252
 
 > 7\. I fondi pensione di cui al comma 1 sono amministrati effettivamente da almeno due persone. La COVIP puo' autorizzare, in deroga al principio di cui sopra, che sia una sola persona ad amministrare effettivamente il fondo, sulla base di una valutazione motivata che tenga conto del ruolo delle parti sociali, nonche' della dimensione, della natura, della portata e della complessita' delle attivita' del fondo.».
 
-#### Art. 14
+### Art. 14
 
 Modifiche al decreto legislativo 16 novembre 2015, n. 180
 
@@ -1801,7 +1799,7 @@ b) all'articolo 104, comma 1, alla lettera c), dopo le parole: «dei contratti d
 
 > 2\. Il livello di dettaglio della valutazione dipende, tra l'altro, dalle possibili conseguenze del dissesto della banca/gruppo in relazione alle loro caratteristiche, ivi inclusi le dimensioni, la complessita' operativa, la struttura societaria, lo scopo mutualistico e l'adesione a un sistema di tutela istituzionale.».
 
-#### Art. 15
+### Art. 15
 
 Disposizioni di coordinamento con il decreto legislativo 4 settembre 2024, n. 138
 
@@ -1835,7 +1833,7 @@ Disposizioni di coordinamento con il decreto legislativo 4 settembre 2024, n. 13
 
 ## Capo VI - Disposizioni finali
 
-#### Art. 16
+### Art. 16
 
 Clausola di invarianza finanziaria
 
@@ -1843,7 +1841,7 @@ Clausola di invarianza finanziaria
 
 2\. Le amministrazioni competenti provvedono all'attuazione del presente decreto nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-#### Art. 17
+### Art. 17
 
 Entrata in vigore
 

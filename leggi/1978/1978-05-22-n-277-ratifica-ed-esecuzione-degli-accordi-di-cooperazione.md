@@ -2075,7 +2075,9 @@ Se la Tunisia non ha messo fine alle pratiche incriminate nel termine fissato in
 
 L'Accordo non modifica le disposizioni del Trattato che istituisce la Comunita' Europea del Carbone e dell'Acciaio, ne' i poteri e le competenze derivanti da tale Trattato.
 
-## DISPOSIZIONI GENERALI E FINALI - TITOLO II
+## DISPOSIZIONI GENERALI E FINALI
+
+## TITOLO II
 
 ### Articolo 7
 

@@ -76,13 +76,11 @@ E M A N A
 
 il seguente decreto legislativo:
 
-## TITOLO I - PRINCIPI GENERALI IN MATERIA DI SICUREZZA E IGIENE DEL LAVORO
+## TITOLO I - PRINCIPI GENERALI IN MATERIA DI SICUREZZA E IGIENE DEL LAVORO INERENTI LE OPERAZIONI E I SERVIZI PORTUALI
 
-### INERENTI LE OPERAZIONI E I SERVIZI PORTUALI - CAPO I
+### CAPO I - DISPOSIZIONI GENERALI
 
-#### DISPOSIZIONI GENERALI
-
-##### Art. 1
+#### Art. 1
 
 Oggetto
 
@@ -186,7 +184,7 @@ f) assicurare la formazione e l'informazione del personale addetto alle operazio
 
 > \- Per il testo del decreto legislativo 19 marzo 1996, n. 242, si veda nelle note alle premesse.
 
-##### Art. 2
+#### Art. 2
 
 Campo di applicazione
 
@@ -194,7 +192,7 @@ Campo di applicazione
 
 2\. Il presente decreto non si applica ai depositi e stabilimenti di prodotti petroliferi o chimici allo stato liquido e di altri prodotti affini, siti in ambito portuale.
 
-##### Art. 3
+#### Art. 3
 
 Definizioni
 
@@ -232,7 +230,7 @@ l) ambito portuale: area delimitata e disegnata dal piano regolatore portuale.
 
 > \- Per il punto 4.1.1 dell'allegato I del decreto del Presidente della Repubblica 24 luglio 1996, n. 459, si veda il supplemento ordinario alla Gazzetta Ufficiale del 6 settembre 1996, n. 209.
 
-##### Art. 4
+#### Art. 4
 
 Documento di sicurezza
 
@@ -366,7 +364,7 @@ g) per il titolare dell'impresa concessionaria del terminal di cui all'articolo 
 
 > 9-bis. Le disposizioni del presente articolo si applicano anche ai depositi e stabilimenti di prodotti petroliferi e chimici allo stato liquido, nonche' di altri prodotti affini, siti in ambito portuale".
 
-##### Art. 5
+#### Art. 5
 
 Obblighi del datore di lavoro in ordine alla prevenzione incendi
 
@@ -386,7 +384,7 @@ b) avvalersi del "servizio integrativo antincendio portuale", di cui alla legge 
 
 > \- Per il testo della legge 10 ottobre 1990, n. 287, si veda nelle note alle premesse.
 
-##### Art. 6
+#### Art. 6
 
 Formazione dei lavoratori
 
@@ -394,19 +392,17 @@ Formazione dei lavoratori
 
 2\. Con decreto del Ministro dei trasporti e della navigazione, di concerto con i Ministri del lavoro e della previdenza sociale e della sanita', sentite le organizzazioni sindacali maggiormente rappresentative a livello nazionale delle imprese datoriali e dei lavoratori, sono stabiliti contenuti e modalita' per lo svolgimento dei corsi di cui al comma 1, nonche' criteri per il rilascio delle relative certificazioni.
 
-##### Art. 7
+#### Art. 7
 
 Comitato di igiene e sicurezza del lavoro
 
 1\. In sede locale l'Autorita' puo' istituire comitati di sicurezza e igiene del lavoro presieduti dall'Autorita' stessa, con la partecipazione di un rappresentante dell'Azienda unita' sanitaria lo- cale competente, e composti da rappresentanti dei datori di lavoro e dei lavoratori, per la formulazione di proposte in ordine alle misure di prevenzione e tutela per la sicurezza ed igiene del lavoro.
 
-## TITOLO I - PRINCIPI GENERALI IN MATERIA DI SICUREZZA E IGIENE DEL LAVORO
+## TITOLO I - PRINCIPI GENERALI IN MATERIA DI SICUREZZA E IGIENE DEL LAVORO INERENTI LE OPERAZIONI E I SERVIZI PORTUALI
 
-### INERENTI LE OPERAZIONI E I SERVIZI PORTUALI - CAPO II
+### CAPO II - DISPOSIZIONI INERENTI LE OPERAZIONI E I SERVIZI PORTUALI
 
-#### DISPOSIZIONI INERENTI LE OPERAZIONI E I SERVIZI PORTUALI
-
-##### Art. 8
+#### Art. 8
 
 Mezzi di accesso a bordo non in dotazione della nave
 
@@ -422,7 +418,7 @@ d) sistemi di illuminazione;
 
 e) rete di protezione da posizionarsi in corrispondenza del punto terminale dei mezzi al di sotto degli stessi.
 
-##### Art. 9
+#### Art. 9
 
 Scale di accesso alle stive non in dotazione alla nave
 
@@ -438,7 +434,7 @@ d) munite di ganci di trattenuta da ancorare ad elementi fissi e aventi una lung
 
 2\. Ove non sia possibile, in relazione alla costruzione della nave o al tipo di merce trasportata, utilizzare una scala, il datore di lavoro mette a disposizione altri mezzi di accesso alle stive, purche' soddisfino le condizioni di sicurezza; e', comunque, vietato l'utilizzo di scale di corda di forma marinaresca del tipo biscagline.
 
-##### Art. 10
+#### Art. 10
 
 Spazio libero per l'accesso alle stive
 
@@ -448,7 +444,7 @@ a) in corrispondenza dei battenti o mastre dei boccaporti dei corridoi lasciare 
 
 b) per le navi aventi merci in coperta prendere opportune misure atte a rendere possibile il passaggio in sicurezza dei lavoratori.
 
-##### Art. 11
+#### Art. 11
 
 Boccaporti
 
@@ -460,7 +456,7 @@ b) i boccaporti delle stive, il cui fondo sia situato a piu' di 1,50 metri dal l
 
 2\. Le misure del presente articolo si applicano anche durante i periodi di riposo ed altre interruzioni di lavoro.
 
-##### Art. 12
+#### Art. 12
 
 Locali chiusi a bordo delle navi
 
@@ -472,13 +468,13 @@ b) far sottoporre ad adeguato periodo di ventilazione locali o depositi chiusi c
 
 2\. Il datore di lavoro deve provvedere affinche' il lavoratore che per primo accede ai predetti ambienti sia munito di cintura di sicurezza con corde di adeguata lunghezza e sorvegliato dall'esterno dell'apertura di accesso in modo da poter essere tratto fuori tempestivamente in caso di emergenza.
 
-##### Art. 13
+#### Art. 13
 
 Lavoro in stiva
 
 1\. Il datore di lavoro non puo' far lavorare nella stessa stiva piu' di una squadra alla volta, a meno che il lavoro non si svolga in sezioni non adiacenti situate in modo tale che la distanza fra i ganci dei rispettivi mezzi di sollevamento risulti comunque non inferiore a 6 metri e sempreche' non sussista la possibilita' di contatto tra mezzi di sollevamento al massimo sbraccio. Non puo', altresi', impiegare nella medesima stiva piu' di due squadre dislo- cate a livelli diversi, ma sovrastanti.
 
-##### Art. 14
+#### Art. 14
 
 Registro degli apparecchi e degli accessori
 
@@ -486,7 +482,7 @@ Registro degli apparecchi e degli accessori
 
 2\. Il registro, comprensivo di certificati ovvero verbali rilasciati ai sensi della vigente normativa in occasione di verifiche degli apparecchi di sollevamento e degli accessori da parte dei competenti organi, deve essere tenuto a disposizione dell'Autorita', che puo' richiederne l'esibizione.
 
-##### Art. 15
+#### Art. 15
 
 Controllo degli accessori degli apparecchi
 
@@ -494,7 +490,7 @@ di sollevamento a terra
 
 1\. Il datore di lavoro deve sottoporre a controllo integrale almeno una volta all'anno ogni tipo di accessorio e verificare, prima di ogni movimentazione, le braghe nei carichi pre-imbragati.
 
-##### Art. 16
+#### Art. 16
 
 Manovra degli apparecchi di sollevamento di bordo
 
@@ -504,7 +500,7 @@ a) il carico sia sollevato solo dopo essere stato imbracato o altrimenti fissato
 
 b) non sia superata in alcun caso la portata massima indicata sugli apparecchi di sollevamento e, qualora gli stessi abbiano piu' di una portata massima di utilizzo, siano dotati di efficaci dispositivi che permettano al manovratore di determinare la portata massima in tutte le condizioni di utilizzo, informandone l'impresa portuale.
 
-##### Art. 17
+#### Art. 17
 
 Utilizzo dei veicoli nei magazzini e nelle stive
 
@@ -514,7 +510,7 @@ a) i magazzini o le stive, nei quali si opera con carrelli, siano convenientemen
 
 b) sia apposta ben chiara, nei piani superiori, l'indicazione del carico ammissibile per metro quadrato e del peso lordo a pieno carico del carrello impiegabile.
 
-##### Art. 18
+#### Art. 18
 
 Uso dei trasportatori meccanici continui
 
@@ -528,7 +524,7 @@ c) ogni inizio e ripresa del movimento, quando i trasportatori si prolungano fuo
 
 d) i trasportatori meccanici continui siano dotati di dispositivi atti ad evitare l'accumulo e la fuoriuscita del materiale e siano facilmente individuabili e raggiungibili senza pericolo i punti di lubrificazione ed ingrassaggio.
 
-##### Art. 19
+#### Art. 19
 
 Uso dei trasportatori pneumatici
 
@@ -544,7 +540,7 @@ d) il dispositivo di aspirazione sia usato solamente sul tipo di merce particola
 
 e) durante le operazioni di aspirazione, nessuna persona possa accedere nella stiva o in qualsiasi altro luogo dove possa esservi un cedimento del carico o parte di esso, fatto salvo quanto previsto dall'articolo 25, comma 1, lettera c).
 
-##### Art. 20
+#### Art. 20
 
 Operazioni sui vagoni ferroviari
 
@@ -558,25 +554,25 @@ c) far utilizzare, per il carico e lo scarico di merci in colli, appositi piani 
 
 d) provvedere affinche' i piani caricatori siano completi di indicazione di massimo carico espresso in kg per mq di superficie e protetti sui lati da parapetti o difese equivalenti qualora la loro altezza da terra superi 1,50 metri.
 
-##### Art. 21
+#### Art. 21
 
 Informazioni ai lavoratori relativamente alle merci pericolose
 
 1\. Il datore di lavoro, in base alle prescrizioni contenute nell'autorizzazione d'imbarco o nel nulla-osta allo sbarco rilasciata dall'Autorita' marittima, deve informare i lavoratori incaricati della esecuzione delle operazioni portuali sulla natura pericolosa delle merci, impartendo istruzioni in ordine alle modalita' delle operazioni, agli attrezzi da usare ed alle cautele da adottare per la loro manipolazione.
 
-##### Art. 22
+#### Art. 22
 
 Sosta nelle aree portuali di merci pericolose
 
 1\. L'Autorita', sentita l'azienda unita' sanitaria locale competente, stabilisce i tempi, i limiti e le modalita' relativi al deposito temporaneo delle merci pericolose nelle aree portuali in attesa di imbarco o di deflusso.
 
-##### Art. 23
+#### Art. 23
 
 Sostanze radioattive
 
 1\. Il datore di lavoro deve assicurarsi che la movimentazione o la manipolazione ed il deposito di colli contenenti sostanze radioattive siano effettuati per il tempo strettamente necessario secondo le modalita' individuate dall'Autorita' sentita l'Azienda unita' sanitaria locale competente.
 
-##### Art. 24
+#### Art. 24
 
 Utilizzazione delle pallets
 
@@ -598,7 +594,7 @@ c) i forcali dei carrelli per la movimentazione penetrino nelle pallets per una 
 
 d) le pallets a perdere non siano reimpiegate; qualora esse siano reimpiegabili, le stesse siano maneggiate accuratamente e sistemate con ordine.
 
-##### Art. 25
+#### Art. 25
 
 Precauzioni per i lavoratori per le operazioni relative
 
@@ -612,13 +608,13 @@ b) qualora durante le operazioni relative a merci alla rinfusa i lavoratori debb
 
 c) nello sbarco di rinfusa a mezzo apparecchi aspiranti, assicurarsi che i lavoratori, addetti ad operazioni da effettuarsi in stiva, utilizzino idonee cinture di sicurezza.
 
-##### Art. 26
+#### Art. 26
 
 Utilizzo di benne
 
 1\. Il datore di lavoro deve, quando lo scarico viene eseguito per mezzo della "benna" o altri mezzi simili, provvedere affinche' non sia effettuato il cosiddetto "lancio della benna", teso a raccogliere la merce in punti della stiva difficilmente accessibili all'attrezzo.
 
-##### Art. 27
+#### Art. 27
 
 Precauzioni per i lavoratori relativamente alle merci congelate o refrigerate
 
@@ -630,7 +626,7 @@ b) quando all'interno della stiva o locale' o contenitore frigorifero la tempera
 
 c) non siano effettuate operazioni quando la temperatura all'interno della stiva o cella frigorifera e' inferiore a -22°c.
 
-##### Art. 28
+#### Art. 28
 
 Merce in colli e in contenitori
 
@@ -646,7 +642,7 @@ b) ai piani superiori delle merci in colli oltre i 5 metri di altezza e dei cont
 
 c) i lavoratori, che operano oltre i 5 metri di altezza o sul tetto di contenitori oltre il secondo ordine, od ove si presenti comunque il rischio di caduta, indossino una cintura di sicurezza e siano agganciati all'apparecchio che li ha trasportati sulla postazione di lavoro o ad altro apparecchio equivalente.
 
-##### Art. 29
+#### Art. 29
 
 Movimentazione dei contenitori
 
@@ -660,7 +656,7 @@ c) i contenitori siano movimentati anche con carrelli elevatori equipaggiati con
 
 2\. Il datore di lavoro puo' derogare alle prescrizioni di cui al comma 1, lettera a), per la movimentazione dei contenitori vuoti, purche' siano adottate cautele volte ad assicurare la corretta esecuzione delle operazioni ed a garantire l'incolumita' dei lavoratori.
 
-##### Art. 30
+#### Art. 30
 
 Contenitori appilati e su pianali
 
@@ -670,7 +666,7 @@ a) i contenitori appilati su piu' ordini siano sistemati in modo che i blocchi d
 
 b) i contenitori caricati su pianale siano ad esso assicurati mediante serraggio dei rispettivi twist - locks, a meno che il pianale non sia fornito di apposite guide laterali e d'angolo di invito e contenimento.
 
-##### Art. 31
+#### Art. 31
 
 Protezioni e dotazioni dei mezzi addetti alla
 
@@ -686,7 +682,7 @@ c) ogni mezzo, oltre ai normali freni di esercizio, sia dotato di freno di socco
 
 2\. Il datore di lavoro provvede, altresi', che all'interno del terminale nessun mezzo, compresi gli autoveicoli, superi la velocita' di 30 Km/h.
 
-##### Art. 32
+#### Art. 32
 
 Ausilio ai conducenti dei mezzi di movimentazione dei contenitori
 
@@ -696,7 +692,7 @@ a) la circolazione dei mezzi operativi lungo la viabilita' sia eseguita con l'au
 
 b) il segnalatore ed i lavoratori presenti nelle aree operative indossino indumenti ad alta visibilita' con bande o bretelle rifrangenti.
 
-##### Art. 33
+#### Art. 33
 
 Movimentazione di merci in colli e in contenitori
 
@@ -708,7 +704,7 @@ a) non siano utilizzate macchine movimentatrici a portale del tipo transcontaine
 
 b) la velocita' di spostamento dei mezzi meccanici di sollevamento e movimentazione non superi i 20 Km/h;
 
-##### Art. 34
+#### Art. 34
 
 Divieto di imbarco di veicoli con sovraccarico
 
@@ -720,7 +716,7 @@ a) non vengano imbarcati veicoli merci il cui carico risulti superiore alla port
 
 b) la manovra di imbarco e sbarco avvenga con a bordo solamente il conducente.
 
-##### Art. 35
+#### Art. 35
 
 Stivaggio dei veicoli e sistemazione a bordo su
 
@@ -746,7 +742,7 @@ h) durante l'imbarco, la permanenza a bordo e lo sbarco dei veicoli non sia cons
 
 i) il motore dei veicoli sia tenuto acceso soltanto per il tempo strettamente necessario alle operazioni di imbarco e sbarco.
 
-##### Art. 36
+#### Art. 36
 
 Livello di inquinamento e rumorosita' sulle navi traghetto
 
@@ -758,7 +754,7 @@ a) durante le operazioni di imbarco e sbarco il limite di inquinamento dell'aria
 
 b) qualora il livello di rumorosita' superi gli 85 decibels siano utilizzate idonee misure protettive individuali.
 
-##### Art. 37
+#### Art. 37
 
 Norme particolari per le navi a piu' ponti provviste di elevatori
 
@@ -768,11 +764,9 @@ a) durante la manovra di imbarco e sbarco e in fase di movimentazione all'intern
 
 b) siano predisposte idonee misure, quali difese mobili, candelieri o mezzi simili, volte a proteggere il vano di corsa dell'elevatore da qualsiasi possibilita' di accesso, quando la piattaforma mobile non e' presente.
 
-## TITOLO II - DISPOSIZIONI INERENTI LE OPERAZIONI DI MANUTENZIONE,
+## TITOLO II - DISPOSIZIONI INERENTI LE OPERAZIONI DI MANUTENZIONE, RIPARAZIONE E TRASFORMAZIONE
 
-### RIPARAZIONE E TRASFORMAZIONE
-
-##### Art. 38
+#### Art. 38
 
 Documento di sicurezza
 
@@ -802,7 +796,7 @@ f) l'indicazione delle misure da mettere in atto per la prevenzione, la lotta co
 
 > \- Per il testo dell'art. 4 del decreto legislativo 19 settembre 1994, n. 626, vedi note all'art. 4.
 
-##### Art. 39
+#### Art. 39
 
 Accesso alla nave, posti di lavoro e di passaggio
 
@@ -812,7 +806,7 @@ a) siano messe a disposizione, per una rapida evacuazione in caso di emergenza, 
 
 b) le vie di fuga dai vari locali siano segnalate con apposite "frecce" fluorescenti, ed illuminate con impianto di luce di emergenza.
 
-##### Art. 40
+#### Art. 40
 
 Parapetti dei bacini galleggianti
 
@@ -824,7 +818,7 @@ b) il parapetto verso l'interno del bacino sia abbattibile per consentire le ope
 
 c) le scale fisse, a gradini, poste all'interno dei bacini, siano, altresi', fornite di parapetto.
 
-##### Art. 41
+#### Art. 41
 
 Galleggianti adibiti a lavori di manutenzione
 
@@ -834,7 +828,7 @@ a) le opere provvisionali, installate sui galleggianti, siano solidali con il ga
 
 b) i ponteggi, facenti parte delle opere provvisionali del galleggiante, siano protetti su tutti i lati da robusto parapetto ed idoneo fermapiede.
 
-##### Art. 42
+#### Art. 42
 
 Impianti elettrici della nave
 
@@ -846,13 +840,13 @@ b) tutti i circuiti prima di essere inseriti siano ispezionati al fine di accert
 
 c) se la nave si trova in bacino galleggiante, essa sia messa a terra.
 
-##### Art. 43
+#### Art. 43
 
 Impianti elettrici all'interno dei bacini galleggianti
 
 1\. Il datore di lavoro provvede che ogni impianto elettrico, posizionato sulla platea del bacino galleggiante, necessario all'esecuzione dei lavori, sia a tensione di sicurezza non superiore a 50 V o munito di idonea protezione differenziale.
 
-##### Art. 44
+#### Art. 44
 
 Illuminazione di sicurezza
 
@@ -862,7 +856,7 @@ a) le zone interessate alla lavorazione ed al transito delle persone siano dotat
 
 b) le vie di sfuggita siano segnalate anche in condizione di illuminazione ordinaria.
 
-##### Art. 45
+#### Art. 45
 
 Illuminazione di emergenza
 
@@ -874,7 +868,7 @@ b) l'alimentazione dell'impianto di emergenza sia effettuata tramite linee dedic
 
 c) le lampade dell'impianto di illuminazione di emergenza siano tenute sempre accese.
 
-##### Art. 46
+#### Art. 46
 
 Misure di prevenzione in caso di uso di miscele ossiacetileniche,
 
@@ -902,7 +896,7 @@ d) nominativo della persona esperta responsabile dell'operazione.
 
 6\. Prima di iniziare i lavori di taglio, il datore di lavoro deve munirsi di un certificato di "gas-free" rilasciato da un consulente chimico di porto, attestante che nei locali, compresi quelli adiacenti in cui devono essere eseguiti lavori, non vi siano sostanze suscettibili di infiammarsi od esplodere sotto l'azione del calore o delle scintille.
 
-##### Art. 47
+#### Art. 47
 
 Operazioni di saldatura elettrica
 
@@ -920,7 +914,7 @@ b) munire, inoltre, i lavoratori di idonea cuffia protettiva per le radiazioni U
 
 c) schermare, nelle operazioni di saldatura su lega leggera, la zona interessata all'operazione in modo adeguato per evitare che altri lavoratori possano essere colpiti dalle radiazioni UV. riflesse sulla lamiera.
 
-##### Art. 48
+#### Art. 48
 
 Lavori in locali chiusi e angusti
 
@@ -936,7 +930,7 @@ d) nei lavori che implicano l'uso di cannelli ossiacetilenici, di pinze per la s
 
 e) per le lavorazioni a fuoco sia predisposta idonea aspirazione alla fonte dei fumi prodotti. Una persona addestrata a svolgere il servizio di prevenzione antincendio assista all'operazione. Qualora il servizio non fosse svolto da membri dell'equipaggio, l'assistenza sia prestata da personale appartenente ai "servizi integrativi antincendio" autorizzati dall'Autorita'.
 
-##### Art. 49
+#### Art. 49
 
 Lavori entro cisterne, casse, depositi di combustibile,
 
@@ -950,7 +944,7 @@ a) i lavoratori siano muniti di cintura di sicurezza, e, ove necessario, di idon
 
 b) le valvole e gli altri dispositivi dei condotti in comunicazione coi suddetti locali siano chiusi e bloccati, i tratti di tubazione eventualmente liberi siano intercettati mediante flange cieche o mezzi equivalenti e che sia applicato sui dispositivi di chiusura o di isolamento un avviso con l'indicazione del divieto di manovra.
 
-##### Art. 50
+#### Art. 50
 
 Operazioni di sabbiatura su navi sottoposte a lavori
 
@@ -990,7 +984,7 @@ f) predisporre un idoneo sistema per la raccolta del materiale di risulta, da sm
 
 3\. Le operazioni di sabbiatura al fasciame esterno delle navi, all'interno dei bacini galleggianti e ad accosti ben definiti e, comunque, lontani dalle zone dove si compiono operazioni commerciali, sono autorizzate dall'Autorita' su conforme parere dell'Azienda unita' sanitaria locale competente.
 
-##### Art. 51
+#### Art. 51
 
 Operazioni di pitturazione a spruzzo (airless)
 
@@ -1028,7 +1022,7 @@ q) dotare il personale addetto alla pitturazione di indumenti antistatici, scarp
 
 2\. Le operazioni di cui al comma 1 devono essere effettuate in condizioni meteorologiche idonee secondo le prescrizioni dettate dall'Autorita' sentita l'Azienda unita' sanitaria locale competente.
 
-##### Art. 52
+#### Art. 52
 
 Operazioni di coibentazione
 
@@ -1046,11 +1040,9 @@ d) i locali in cui sono eseguite operazioni di coibentazione di consistente enti
 
 e) le operazioni di taglio ed incollaggio di pannelli in poliuretano e l'applicazione di schiume poliuretaniche siano effettuate usando idonei sistemi di aspirazione alla fonte, e gli addetti alla lavorazione siano dotati di tute monouso e idonei respiratori a filtro.
 
-## TITOLO III - DISPOSIZIONI IN MATERIA DI PROVE A MARE DI NUOVE COSTRUZIONI
+## TITOLO III - DISPOSIZIONI IN MATERIA DI PROVE A MARE DI NUOVE COSTRUZIONI E DI OPERE DI GRANDE TRASFORMAZIONE NAVALE
 
-### E DI OPERE DI GRANDE TRASFORMAZIONE NAVALE
-
-##### Art. 53
+#### Art. 53
 
 Documento di sicurezza
 
@@ -1064,7 +1056,7 @@ b) la descrizione della situazione degli alloggiamenti e dei servizi igienico-as
 
 > \- Per il testo dell'art. 4 del decreto legislativo 19 settembre 1994, n. 626, si veda nelle note all'art. 4.
 
-##### Art. 54
+#### Art. 54
 
 Equipaggio e personale tecnico imbarcato
 
@@ -1088,7 +1080,7 @@ f) a tutto il personale imbarcato sia consegnato un vademecum contenente le info
 
 > "Art. 16 (Prove di navigazione). - Il capo del circondario marittimo, sentito l'ente tecnico, puo' autorizzare l'imbarco del personale necessario per l'esecuzione di prove di navigazione di nuove costruzioni o di navi che abbiano subito lavori di trasformazione o riparazione".
 
-##### Art. 55
+#### Art. 55
 
 Dimostrazioni al personale imbarcato
 
@@ -1096,7 +1088,7 @@ Dimostrazioni al personale imbarcato
 
 ## TITOLO IV - SANZIONI
 
-##### Art. 56
+#### Art. 56
 
 Norma generale
 
@@ -1112,7 +1104,7 @@ Norma generale
 
 > \- Per il decreto legislativo 19 marzo 1996, n. 242 si veda nelle note alle premesse.
 
-##### Art. 57
+#### Art. 57
 
 Contravvenzioni commesse dai datori di lavoro,
 
@@ -1130,13 +1122,13 @@ b) con l'arresto da due a quattro mesi o con l'ammenda da lire un milione a lire
 
 c) con l'arresto sino a due mesi o con l'ammenda da lire cinquecentomila a lire due milioni per le violazioni degli articoli da 8 a 13; da 15 a 20; da 23 a 37; da 39 a 45; 46, comma 5 ; da 47 a 52; 54.
 
-##### Art. 58
+#### Art. 58
 
 Contravvenzioni del titolare dell'impresa capo-commessa
 
 1\. Il titolare dell'impresa capo-commessa e' punito con l'arresto fino a tre mesi o con l'ammenda da lire cinquecentomila a lire tre milioni per violazione dell'articolo 38, comma 3.
 
-##### Art. 59
+#### Art. 59
 
 Sanzioni amministrative
 
@@ -1144,13 +1136,13 @@ Sanzioni amministrative
 
 2\. Il datore di lavoro, il dirigente ed il preposto sono puniti con la sanzione amministrativa da lire un milione a lire sei milioni per violazione dell'articolo 4, comma 4.
 
-##### Art. 60
+#### Art. 60
 
 Misure accessorie
 
 1\. Nel caso di reiterate violazioni delle disposizioni previste e sanzionate dagli articoli 56, 57, 58 e 59, che comportino concreto pericolo per l'igiene, la salute e la sicurezza dei lavoratori, l'Autorita' puo' sospendere, per un periodo non superiore a tre mesi, l'atto autorizzatorio o concessorio all'esercizio dell'attivita'.
 
-##### Art. 61
+#### Art. 61
 
 Estinzione delle contravvenzioni
 

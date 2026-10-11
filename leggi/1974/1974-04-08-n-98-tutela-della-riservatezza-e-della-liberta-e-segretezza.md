@@ -25,11 +25,9 @@ PROMULGA
 
 la seguente legge:
 
-## PARTE I - MODIFICAZIONI AL CODICE PENALE
+## PARTE I - MODIFICAZIONI AL CODICE PENALE E AL CODICE DI PROCEDURA PENALE
 
-### E AL CODICE DI PROCEDURA PENALE
-
-#### Art. 1
+### Art. 1
 
 Dopo l'articolo 615 del codice penale e' inserito il seguente:
 
@@ -39,7 +37,7 @@ Alla stessa pena soggiace, salvo che il fatto costituisca piu' grave reato, chi 
 
 I delitti sono punibili a querela della persona offesa; tuttavia si procede d'ufficio e la pena e' della reclusione da uno a cinque anni se il fatto e' commesso da un pubblico ufficiale o da un incaricato di un pubblico servizio, con abuso dei poteri o con violazione dei doveri inerenti alla funzione o servizio, o da chi esercita anche abusivamente la professione di investigatore privato".
 
-#### Art. 2
+### Art. 2
 
 L'articolo 617 del codice penale e' sostituito dal seguente:
 
@@ -49,7 +47,7 @@ Salvo che il fatto costituisca piu' grave reato, la stessa pena si applica a chi
 
 I delitti sono punibili a querela della persona offesa; tuttavia si procede d'ufficio e la pena e' della reclusione da uno a cinque anni se il fatto e' commesso in danno di un pubblico ufficiale o di un incaricato di un pubblico servizio nell'esercizio o a causa delle funzioni o del servizio, ovvero da un pubblico ufficiale o da un incaricato di un pubblico servizio con abuso dei poteri o con violazione dei doveri inerenti alla funzione o servizio, o da chi esercita anche abusivamente la professione di investigatore privato".
 
-#### Art. 3
+### Art. 3
 
 Dopo l'articolo 617 del codice penale sono inseriti i seguenti:
 
@@ -61,13 +59,13 @@ La pena e' della reclusione da uno a cinque anni se il fatto e' commesso in dann
 
 La pena e' della reclusione da uno a cinque anni se il fatto e' commesso in danno di un pubblico ufficiale nell'esercizio o a causa delle sue funzioni ovvero da un pubblico ufficiale o da un incaricato di un pubblico servizio con abuso dei poteri o con violazione dei doveri inerenti alla funzione o servizio o da chi esercita anche abusivamente la professione di investigatore privato".
 
-#### Art. 4
+### Art. 4
 
 Dopo l'articolo 623 del codice penale e' inserito il seguente:
 
 "Art. 623-bis. - (Comunicazioni e conversazioni non telegrafiche o telefoniche). - Le disposizioni contenute nella presente sezione, relative alle comunicazioni e conversazioni telegrafiche o telefoniche, si applicano a qualunque altra trasmissione di suoni, immagini od altri dati effettuata con collegamento su filo o ad onde guidate".
 
-#### Art. 5
+### Art. 5
 
 L'ultimo comma dell'articolo 226 del codice di procedura penale e' abrogato.
 
@@ -119,7 +117,7 @@ I difensori possono estrarne copia con trasposizione su nastro magnetico o su di
 
 "Art. 226-quinquies. - (Divieto di utilizzazione delle intercettazioni illecite). - A pena di nullita' insanabile e da rilevare d'ufficio in ogni stato e grado del procedimento non si puo' tener conto delle intercettazioni effettuate fuori dei casi consentiti dalla legge od eseguite in difformita' dalle prescrizioni in essa stabilite, nonche' delle notizie o immagini ottenute nei modi di cui all'articolo 615-bis del codice penale".
 
-#### Art. 6
+### Art. 6
 
 L'articolo 339 del codice di procedura penale e' sostituito dal seguente:
 
@@ -129,7 +127,7 @@ Il magistrato procede personalmente alle operazioni, ovvero vi delega un ufficia
 
 Per le modalita' di esecuzione delle operazioni di verbalizzazione, di registrazione e di trascrizione si osservano le disposizioni contenute nell'articolo 226-quater".
 
-#### Art. 7
+### Art. 7
 
 Dopo il secondo capoverso dell'articolo 423 del codice di procedura penale e' inserito il seguente:
 
@@ -137,11 +135,11 @@ Dopo il secondo capoverso dell'articolo 423 del codice di procedura penale e' in
 
 ## PARTE II - DISPOSIZIONI TRANSITORIE E FINALI
 
-#### Art. 8
+### Art. 8
 
 Le disposizioni dell'articolo 226-quinquies del codice di procedura penale si applicano anche alle intercettazioni, notizie ed immagini raccolte prima dell'entrata in vigore della presente legge.
 
-#### Art. 9
+### Art. 9
 
 Il Ministro per le poste e le telecomunicazioni, di concerto con il Ministro per l'interno, e con quello per l'industria, il commercio e l'artigianato, provvede con propri decreti all'elencazione degli apparecchi o strumenti e delle parti di apparecchi o strumenti, idonei in modo non equivoco ad operare le riprese di immagini o le intercettazioni di comunicazioni o conversazioni di cui agli articoli 615-bis e 617 del codice penale.
 
@@ -149,11 +147,11 @@ Per gli apparecchi e strumenti di dotazione delle forze armate e delle forze di 
 
 Chiunque, senza licenza del Ministro per le poste e le telecomunicazioni, da concedersi sentito il parere del Ministro per l'interno, fabbrica, importa, acquista, vende, trasporta, noleggia od in qualsiasi altro modo mette in circolazione gli apparecchi o strumenti indicati nei precedenti commi, o parti di essi, e' punito, salvo che il fatto costituisca piu' grave reato, con la reclusione da uno a quattro anni e con la multa da lire un milione a lire cinque milioni.
 
-#### Art. 10
+### Art. 10
 
 Il procuratore della Repubblica e' responsabile della custodia degli apparati e strumenti di intercettazione telefonica e telegrafica installati presso la procura della Repubblica.
 
-#### Art. 11
+### Art. 11
 
 La presente legge entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale.
 

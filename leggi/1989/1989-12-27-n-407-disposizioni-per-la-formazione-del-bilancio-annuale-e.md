@@ -34,11 +34,9 @@ DISPOSIZIONI
 
 DI CARATTERE FINANZIARIO
 
-## CAPO I - DISPOSIZIONI
+## CAPO I - DISPOSIZIONI DI CARATTERE FINANZIARIO
 
-### DI CARATTERE FINANZIARIO
-
-#### Art. 1
+### Art. 1
 
 1\. Per l'anno 1990, il limite massimo del saldo netto da finanziare resta determinato in termini di competenza in lire 130.746 miliardi. Tenuto conto delle operazioni di rimborso di prestiti, il livello massimo del ricorso al mercato finanziario di cui all'articolo 11 della legge 5 agosto 1978, n. 468, da ultimo modificata dalla legge 23 agosto 1988, n. 362 - ivi compreso l'indebitamento all'estero per un importo complessivo non superiore a lire 4.000 miliardi relativo ad interventi non considerati nel bilancio di previsione per il 1990 resta fissato, in termini di competenza, in lire 259.398 miliardi per l'anno finanziario 1990.
 
@@ -108,7 +106,7 @@ DI CARATTERE FINANZIARIO
 
 > Ogni altra legge che importi nuove o maggiori spese deve indicare i mezzi per farvi fronte".
 
-#### Art. 2
+### Art. 2
 
 1\. Il maggior gettito eventualmente derivante in ciascuno degli anni 1990, 1991 e 1992 per effetto di provvedimenti legislativi recanti nuove o maggiori entrate, rispetto alle previsioni di entrate contemplate nella legge di bilancio, per ciascuno di detti anni, e' destinato, in misura non inferiore al 75 per cento, alla riduzione del saldo netto da finanziare nell'anno corrispondente, quale indicato all'articolo 1.((1))
 
@@ -138,11 +136,9 @@ AGGIORNAMENTO (1)
 
 Il D.L. 15 settembre 1990, n. 261, convertito, con modificazioni dalla L. 12 novembre 1990, n. 331 ha disposto (con l'art. 12, comma 1) che l'ammontare del fondo di cui al comma 9 del presente articolo e' ulteriormente integrato di lire 1.534 miliardi per l'anno 1990 e di lire 4.017 miliardi per l'anno 1991; inoltre ha disposto (con l'art. 12, comma 2) che alla copertura del relativo onere si provvede, anche in deroga a quanto previsto dall'articolo 2, comma 1, della legge 27 dicembre 1989, n. 407, con quota parte delle maggiori entrate previste dal suddetto decreto 261/1990.
 
-## CAPO II - DISPOSIZIONI
+## CAPO II - DISPOSIZIONI IN MATERIA DI ENTRATE
 
-### IN MATERIA DI ENTRATE
-
-#### Art. 3
+### Art. 3
 
 1\. In relazione a quanto disposto con il decreto del Presidente del Consiglio dei ministri in data 29 settembre 1989, pubblicato nella Gazzetta Ufficiale n. 229 del 30 settembre 1989, emanato in applicazione dell'articolo 3, comma 2, del decreto-legge 2 marzo 1989, n. 69, convertito, con modificazioni, dalla legge 27 aprile 1989, n. 154, le minori entrate per imposta sul reddito delle persone fisiche per gli anni 1990, 1991 e 1992, sono valutate, rispettivamente, in lire 2.600 miliardi, lire 3.600 miliardi e lire 3.700 miliardi.
 
@@ -154,11 +150,9 @@ AGGIORNAMENTO (2)
 
 La L. 29 dicembre 1990, n. 405 ha disposto (con l'art. 10, comma 3) che il termine del 31 dicembre 1990 previsto dal comma 2 del presente articolo e' ulteriormente prorogato al 31 dicembre 1991.
 
-## CAPO III - DISPOSIZIONI
+## CAPO III - DISPOSIZIONI PER IL SETTORE DEI TRASPORTI
 
-### PER IL SETTORE DEI TRASPORTI
-
-#### Art. 4
+### Art. 4
 
 1\. Per l'anno 1990, il fondo nazionale per il ripiano dei disavanzi di esercizio delle aziende di trasporto pubbliche e private nelle regioni a statuto ordinario e' stabilito in lire 4.201 miliardi, ivi compresa la variazione da determinarsi ai sensi dell'articolo 9 della legge 10 aprile 1981, n. 151, modificato dall'articolo 27-quater del decreto-legge 22 dicembre 1981, n. 786, convertito, con modificazioni, dalla legge 26 febbraio 1982, n. 51.
 
@@ -266,11 +260,9 @@ c) quanto alla lettera d), sovvenzioni straordinarie ai fini dell'equilibrio del
 
 > \- L'ultimo comma dell'art. 21 della legge n. 210/1985 (Istituzione dell'ente "Ferrovie dello Stato") prevede che:"Fino a quando non sara' disciplinato l'assetto generale del trattamento previdenziale e pensionistico dei lavoratori dipendenti, rimane fermo il trattamento in atto all'entrata in vigore della presente legge, trasferendosene a carico dell'ente "Ferrovie dello Stato" l'onere finanziario finora gravante sullo Stato, salvo le compensazioni dovute in forza dei regolamenti comunitari".
 
-## CAPO IV - DISPOSIZIONI
+## CAPO IV - DISPOSIZIONI IN MATERIA DI PREVIDENZA
 
-### IN MATERIA DI PREVIDENZA
-
-#### Art. 5
+### Art. 5
 
 1\. L'importo dei trasferimenti dello Stato all'INPS, per il concorso agli oneri della gestione degli interventi assistenziali e di sostegno alle gestioni previdenziali, ai fini della progressiva assunzione degli oneri stessi a carico del bilancio dello Stato, ai sensi dell'articolo 37 della legge 9 marzo 1989, n. 88, e' complessivamente stabilito per l'anno 1990 in lire 1.400 miliardi, di cui lire 1.206 miliardi a titolo di adeguamento della quota parte di mensilita' delle pensioni erogate dal fondo pensioni lavoratori dipendenti, dalle gestioni dei lavoratori autonomi, dalla gestione speciale minatori e dall'ENPALS, ai sensi del comma 3, lettera c), del suddetto articolo 37. Conseguentemente, la somma di cui all'articolo 21, comma 3, della legge 11 marzo 1988, n. 67, resta determinata in lire 18.431 miliardi per l'anno 1990 ed e' assegnata per lire 13.789 miliardi al fondo pensioni lavoratori dipendenti, per lire 944 miliardi alla gestione esercenti attivita' commerciali, per lire 976 miliardi alla gestione artigiani, per lire 2.655 miliardi alla gestione coltivatori diretti, per lire 3 miliardi alla gestione speciale minatori e per lire 64 miliardi all'ENPALS.
 
@@ -320,7 +312,7 @@ c) quanto alla lettera d), sovvenzioni straordinarie ai fini dell'equilibrio del
 
 ## CAPO V - DISPOSIZIONI DIVERSE
 
-#### Art. 6
+### Art. 6
 
 1\. Le disposizioni della presente legge sono applicabili nelle regioni a statuto speciale e nelle provincie autonome di Trento e Bolzano compatibilmente con le norme dei rispettivi statuti.
 
@@ -338,7 +330,7 @@ Visto, il Guardasigilli: VASSALLI
 
 ## CAPO V - DISPOSIZIONI DIVERSE
 
-#### Tabella A
+### Tabella A
 
 TABELLA A
 
@@ -1418,7 +1410,7 @@ Ministero dell'interno - Disposizioni finanziarie per le
 
 provincie, per i comuni e le comunita' montane -.
 
-#### Tabella B
+### Tabella B
 
 TABELLA B
 
@@ -2095,7 +2087,7 @@ mento di entrate...................... -775.000 -2.890.000 -6.445.000 __________
 
 (c) Accantonamento collegato, ai sensi dell'articolo 11-bis, comma 2, della legge 5 agosto 1978, n. 468, alle seguenti voci: - Presidenza del Consiglio dei ministri - Contributi in favore delle imprese editoriali (milioni 20.000 per ciascuno degli anni 1991 e 1992) -; Ministero del bilancio e della programmazione economica - Contributi in favore delle comunita' montane (milioni 50.000 per ciascuno degli anni 1990, 1991 e 1992) -; Ministero dell'agricoltura e delle foreste - Interventi finalizzati al conseguimento di obiettivi in agricoltura biologica e alla salvaguardia dei prodotti e dell'ambiente (milioni 10.000 per ciascuno degli anni 1990, 1991 e 1992); - Ministero della marina mercantile - Industria cantieristica e armatoriale (milioni 25.000 per ciascuno degli anni 1990, 1991 e 1992); - Ministero per i beni culturali e ambientali - Interventi per il potenziamento delle attivita' di restauro, ecc. (milioni 65.000 per l'anno 1990, milioni 10.000 per l'anno 1991 e milioni 15.000 per l'anno 1992)-; - Amministrazioni diverse - Incentivi per lo sviluppo della cooperazione economica internazionale nelle zone del confine orientale (milioni 50.000 per ciascuno degli anni 1990, 1991 e 1992) - e - Interventi a favore della regione Sardegna, ivi compresi quelli destinati a realizzare la contiguita' territoriale - (milioni 50.000 per ciascuno degli anni 1991 e 1992).
 
-#### Tabella C
+### Tabella C
 
 TABELLA C
 
@@ -2809,7 +2801,7 @@ Istituzione dell'Agenzia spaziale ita-
 
 liana (cap. 7504)..................... - 800.000 850.000 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 1.598.200 2.507.420 2.577.420 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-#### Tabella D
+### Tabella D
 
 TABELLA D
 
@@ -2861,7 +2853,7 @@ Partecipazioni statali).................................... 15.000 - Art. 15, co
 
 Tesoro).................................................... 800.000 \_\_\_\_\_\_\_\_\_\_ 1.147.000
 
-#### Tabella E
+### Tabella E
 
 TABELLA E
 
@@ -3029,7 +3021,7 @@ Trasporti)............................ -170.000 - -
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ In complesso.........................-1.411.059 - 541.259 - 485.159 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-#### Tabella F
+### Tabella F
 
 TABELLA F
 

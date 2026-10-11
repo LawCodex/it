@@ -27,7 +27,7 @@ la seguente legge:
 
 ## AMMINISTRAZIONI DELLO STATO
 
-#### Art. 1 - Entrate
+## Art. 1 - Entrate
 
 Le entrate tributarie, extratributarie, per alienazione ed ammortamento di beni patrimoniali e riscossione di crediti, e per accensione di prestiti, accertate nell'esercizio finanziario 1980 per la competenza propria dell'esercizio, risultano stabilite in lire 106.585.802.219.659.
 
@@ -37,7 +37,7 @@ I residui attivi al 31 dicembre 1980 ammontano complessivamente a lire 20.747.36
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 2 - Spese
+## Art. 2 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti, impegnate nell'esercizio finanziario 1980 per la competenza propria dell'esercizio, risultano stabilite in lire 155.963.733.882.004.
 
@@ -47,13 +47,13 @@ I residui passivi al 31 dicembre 1980 ammontano complessivamente a lire 47.143.4
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 3 - Disavanzo della gestione di competenza
+## Art. 3 - Disavanzo della gestione di competenza
 
 Il disavanzo della gestione di competenza dell'esercizio finanziario 1980 di lire 49.377.931.662.345 risulta stabilito come segue:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 4 - Situazione finanziaria
+## Art. 4 - Situazione finanziaria
 
 Il disavanzo finanziario del conto del Tesoro, alla fine dell'esercizio 1980, di lire 132.908.996.844.449, risulta stabilito come segue:
 
@@ -61,21 +61,19 @@ Il disavanzo finanziario del conto del Tesoro, alla fine dell'esercizio 1980, di
 
 ## DISPOSIZIONI SPECIALI
 
-#### Art. 5 - Prelevamenti dal Fondo di riserva per le spese impreviste
+## Art. 5 - Prelevamenti dal Fondo di riserva per le spese impreviste
 
 E' approvato l'allegato di cui all'articolo 9, ultimo comma, della legge 5 agosto 1978, n. 468, concernente i prelevamenti dal Fondo di riserva per le spese impreviste per l'anno 1980.
 
-#### Art. 6 - Eccedenze
+## Art. 6 - Eccedenze
 
 Sono approvate le eccedenze di impegni e di pagamenti risultate in sede di consuntivo rispettivamente sul conto della competenza e sul conto dei residui, e sul conto della cassa, relative ai capitoli degli stati di previsione della spesa dei Ministeri sotto indicati per l'esercizio 1980, come risulta dal dettaglio che segue:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-## AZIENDE SPECIALI ED AUTONOME
+## AZIENDE SPECIALI ED AUTONOME - GESTIONE DELL'EX AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### GESTIONE DELL'EX AZIENDA DI STATO PER LE FORESTE DEMANIALI
-
-#### Art. 7 - Entrate
+## Art. 7 - Entrate
 
 Le entrate correnti ed in conto capitale del bilancio della gestione dell'ex Azienda di Stato per le foreste demaniali, accertate nell'esercizio finanziario 1980 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo della gestione stessa, allegato al conto consuntivo del Ministero dell'agricoltura e delle foreste, in lire 13.745.224.943.
 
@@ -85,7 +83,7 @@ I residui attivi al 31 dicembre 1980 ammontano complessivamente a lire 14.868.00
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 8 - Spese
+## Art. 8 - Spese
 
 Le spese correnti ed in conto capitale del bilancio della gestione predetta, impegnate nell'esercizio finanziario 1980 per la competenza propria dell'esercizio, risultano stabilite in lire 10.319.276.093.
 
@@ -95,7 +93,7 @@ I residui passivi al 31 dicembre 1980 ammontano complessivamente a lire 21.948.5
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 9 - Situazione finanziaria
+## Art. 9 - Situazione finanziaria
 
 La situazione finanziaria della gestione dell'ex Azienda di Stato per le foreste demaniali alla fine dell'esercizio 1980, risulta come appresso:
 
@@ -103,7 +101,7 @@ La situazione finanziaria della gestione dell'ex Azienda di Stato per le foreste
 
 ## ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-#### Art. 10 - Entrate
+## Art. 10 - Entrate
 
 Le entrate correnti del bilancio dell'Istituto agronomico per l'Oltremare, accertate nell'esercizio finanziario 1980 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Istituto stesso, allegato al conto consuntivo del Ministero degli affari esteri, in lire 905.085.060.
 
@@ -111,7 +109,7 @@ I residui attivi determinati alla chiusura dell'esercizio 1979 in lire 3.883.950
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 11 - Spese
+## Art. 11 - Spese
 
 Le spese correnti del bilancio dell'Istituto predetto, impegnate nell'esercizio finanziario 1980 per la competenza propria dell'esercizio, risultano stabilite in lire 905.085.060.
 
@@ -137,13 +135,13 @@ l'esercizio 1979. . 155.415.296 862.280 156.277.576
  ===========
 ```
 
-#### Art. 12 - Eccedenze
+## Art. 12 - Eccedenze
 
 Sono approvate le eccedenze di spesa di lire 6 sul conto dei residui e di lire 166 sul conto della cassa risultate al capitolo n. 173 - Spese per studi, progetti e ricerche per conto di organismi internazionali, in sede di consuntivo per l'esercizio finanziario 1980.
 
 ## AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-#### Art. 13 - Entrate
+## Art. 13 - Entrate
 
 Le entrate correnti, in conto capitale, e per accensione di prestiti del bilancio dell'Amministrazione autonoma dei Monopoli di Stato, comprese quelle delle gestioni speciali, accertate nell'esercizio finanziario 1980 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero delle finanze, in lire 1.000.318.398.231.
 
@@ -153,7 +151,7 @@ I residui attivi al 31 dicembre 1980 ammontano complessivamente a lire 496.294.3
 
 Parte di provvedimento in formato grafico
 
-#### Art. 14 - Spese
+## Art. 14 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio deLl'Amministrazione predetta, comprese quelle delle gestioni speciali, impegnate nell'esercizio 1980 per la competenza propria dell'esercizio, risultano stabilite in lire 1.000.318.398.231.
 
@@ -163,7 +161,7 @@ I residui passivi al 31 dicembre 1980 ammontano complessivamente a lire 353.063.
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 15 - Riassunto generale
+## Art. 15 - Riassunto generale
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione autonoma dei Monopoli di Stato, di competenza dell'esercizio 1980, risulta cosi' stabilito:
 
@@ -175,7 +173,7 @@ Spese (escluse le gestioni speciali). . . . . .  L. 1.000.123.977.472 Spese dell
  -------------------- L. 1.000.318.398.231 ====================
 ```
 
-#### Art. 16 - Situazione finanziaria
+## Art. 16 - Situazione finanziaria
 
 La situazione finanziaria dell'Amministrazione autonoma dei Monopoli di Stato, alla fine dell'esercizio 1980, risulta come appresso:
 
@@ -191,7 +189,7 @@ Saldo passivo dell'esercizio 1979 . . . . . . . . . . . " 3.238.132
 
 ------------ Saldo passivo al 31 dicembre 1980. . . . L. 3.238.132 ============
 
-#### Art. 17 - Copertura
+## Art. 17 - Copertura
 
 Per la copertura del disavanzo di gestione dell'esercizio finanziario 1980 accertato per l'Amministrazione autonoma dei monopoli di Stato, la Cassa depositi e prestiti e' autorizzata a concedere all'Amministrazione predetta sui fondi dei conti correnti postali, di cui all'articolo 1 del decreto legislativo luogotenenziale 22 novembre 1945, n. 822, anticipazioni per complessive lire 30.329.488.775, estinguibili in 35 anni al saggio vigente per i mutui all'epoca della concessione.
 
@@ -203,7 +201,7 @@ L'onere relativo fara' carico al bilancio dello Stato.
 
 ## ARCHIVI NOTARILI
 
-#### Art. 18 - Avanzo
+## Art. 18 - Avanzo
 
 L'avanzo della gestione del bilancio degli Archivi notarili, per l'esercizio finanziario 1980, risulta stabilito come segue:
 
@@ -213,7 +211,7 @@ Entrate . . . . . . . . . . . . . . . . . . . . . L. 73.711.074.723 Spese . . . 
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-#### Art. 19 - Entrate
+## Art. 19 - Entrate
 
 Le entrate correnti ed in conto capitale del bilancio dell'Amministrazione del Fondo per il culto, accertate nell'esercizio finanziario 1980 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'interno, in lire 80.032.774.475.
 
@@ -223,7 +221,7 @@ I residui attivi al 31 dicembre 1980 ammontano complessivamente a lire 18.114.23
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 20 - Spese
+## Art. 20 - Spese
 
 Le spese correnti ed in conto capitale del bilancio dell'Amministrazione predetta, impegnate nell'esercizio 1980 per la competenza propria dell'esercizio, risultano stabilite in lire 88.880.048.861.
 
@@ -249,19 +247,19 @@ l'esercizio 1979. . 10.479.844.730 4.812.658.723 15.292.503.453
  ==============
 ```
 
-#### Art. 21 - Situazione finanziaria
+## Art. 21 - Situazione finanziaria
 
 La situazione finanziaria dell'Amministrazione del fondo per il culto, alla fine dell'esercizio 1980, risulta come appresso:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 22 - Eccedenze
+## Art. 22 - Eccedenze
 
 E' approvata l'eccedenza di cassa di lire 73.185 risultata al capitolo n. 183 - Assegni ai canonicati della cattedrale di Agrigento, in sede di consuntivo per l'esercizio finanziario 1980.
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-#### Art. 23 - Entrate
+## Art. 23 - Entrate
 
 Le entrate correnti ed in conto capitale del bilancio del Fondo di beneficenza e di religione nella citta' di Roma, accertate nell'esercizio finanziario 1980 per la competenza propria dell'esercizio, risultano dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'interno, in lire 1.539.521.041.
 
@@ -271,7 +269,7 @@ I residui attivi al 31 dicembre 1980 ammontano complessivamente a lire 285.064.3
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 24 - Spese
+## Art. 24 - Spese
 
 Le spese correnti ed in conto capitale del bilancio dell'Amministrazione predetta, impegnate nell'esercizio finanziario 1980 per la competenza propria dell'esercizio, risultano stabilite in lire 1.658.512.620
 
@@ -297,7 +295,7 @@ l'esercizio 1979. . 372.021.565 264.765.475 636.787.040
  ===========
 ```
 
-#### Art. 25 - Situazione finanziaria
+## Art. 25 - Situazione finanziaria
 
 La situazione finanziaria del Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1980, risulta come appresso:
 
@@ -305,7 +303,7 @@ La situazione finanziaria del Fondo di beneficenza e di religione nella citta' d
 
 ## PATRIMONI, RIUNITI EX ECONOMALI
 
-#### Art. 26 - Entrate
+## Art. 26 - Entrate
 
 Le entrate correnti ed in conto capitale del bilancio dell'Azienda dei patrimoni riuniti ex economali, accertate nell'esercizio finanziario 1980 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero dell'interno, in lire 919.513.424.
 
@@ -315,7 +313,7 @@ I residui attivi al 31 dicembre 1980 ammontano complessivamente a lire 298.687.7
 
 Parte di provvedimento in formato grafico
 
-#### Art. 27 - Spese
+## Art. 27 - Spese
 
 Le spese correnti ed in conto capitale del bilancio dell'Azienda predetta, impegnate nell'esercizio finanziario 1980 per la competenza propria dell'esercizio, risultano stabilite in lire 917.589.290.
 
@@ -341,7 +339,7 @@ l'esercizio 1979. . 106.157.059 177.193.440 283.350.499
  ===========
 ```
 
-#### Art. 28 - Situazione finanziaria
+## Art. 28 - Situazione finanziaria
 
 La situazione finanziaria dell'Azienda dei patrimoni riuniti ex economali, alla fine dell'esercizio 1980, risulta come appresso:
 
@@ -349,7 +347,7 @@ La situazione finanziaria dell'Azienda dei patrimoni riuniti ex economali, alla 
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE
 
-#### Art. 29 - Entrate
+## Art. 29 - Entrate
 
 Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Azienda nazionale autonoma delle strade, accertate nell'esercizio finanziario 1980 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero dei lavori pubblici, in lire 1.979.522.813.114.
 
@@ -359,7 +357,7 @@ I residui attivi al 31 dicembre 1980 ammontano complessivamente a lire 3.596.199
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 30 - Spese
+## Art. 30 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Azienda predetta, impegnate nell'esercizio finanziario 1980 per la competenza propria dell'esercizio, risultano stabilite in lire 1.979.522.813.114.
 
@@ -389,7 +387,7 @@ dell'esercizio
 
 ## AMMINISTRAZIONE AUTONOMA DELLE POSTE E DELLE TELECOMUNICAZIONI
 
-#### Art. 31 - Entrate
+## Art. 31 - Entrate
 
 Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione delle poste e delle telecomunicazioni, accertate nell'esercizio finanziario 1980 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero delle poste e delle telecomunicazioni, in lire 4.259.301.319.052.
 
@@ -399,7 +397,7 @@ I residui attivi al 31 dicembre 1980 ammontano complessivamente a lire 3.830.655
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 32 - Spese
+## Art. 32 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Amministrazione predetta, impegnate nell'esercizio finanziario 1980 per la competenza propria dell'esercizio, risultano stabilite in lire 4.259.301.319.052.
 
@@ -427,7 +425,7 @@ dell'esercizio
  =================
 ```
 
-#### Art. 33 - Eccedenze
+## Art. 33 - Eccedenze
 
 Sono approvate le eccedenze di spesa sul conto della cassa risultate ai sottoindicati capitoli in sede di consuntivo per l'esercizio finanziario 1980:
 
@@ -487,7 +485,7 @@ vittima di azioni criminose . . . . 103.000.000
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-#### Art. 34 - Entrate
+## Art. 34 - Entrate
 
 Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Azienda di Stato per i servizi telefonici, accertate nell'esercizio finanziario 1980 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero delle poste e delle telecomunicazioni, in lire 1.375.424.113.237.
 
@@ -497,7 +495,7 @@ I residui attivi al 31 dicembre 1980 ammontano complessivamente a lire 753.654.2
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 35 - Spese
+## Art. 35 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Azienda predetta, impegnate nell'esercizio finanziario 1980 per la competenza propria dell'esercizio, risultano stabilite in lire 1.375.424.113.237.
 
@@ -525,7 +523,7 @@ dell'esercizio
 
 =================
 
-#### Art. 36 - Eccedenze
+## Art. 36 - Eccedenze
 
 Sono approvate le eccedenze di spesa sul conto della cassa risultate ai sottoindicati capitoli in sede di consuntivo per l'esercizio finanziario 1980:
 
@@ -663,7 +661,7 @@ costituzione mista. . . . . . . . . 236.090.450
 
 ## AZIENDA AUTONOMA DELLE FERROVIE DELLO STATO
 
-#### Art. 37 - Entrate
+## Art. 37 - Entrate
 
 Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Azienda autonoma delle ferrovie dello Stato, comprese quelle delle gestioni speciali ed autonome, accertate nell'esercizio finanziario 1980 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero dei trasporti, in lire 15.468.678.317.217.
 
@@ -673,7 +671,7 @@ I residui attivi al 31 dicembre 1980 ammontano complessivamente a lire 4.909.160
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 38 - Spese
+## Art. 38 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Azienda predetta, comprese quelle delle gestioni speciali ed autonome, impegnate nell'esercizio finanziario 1980 per la competenza propria dell'esercizio, risultano stabilite in lire 15.468.678.317.217.
 
@@ -683,7 +681,7 @@ I residui passivi al 31 dicembre 1980 ammontano complessivamente a lire 5.393.20
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 39 - Riassunto generale
+## Art. 39 - Riassunto generale
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Azienda autonoma delle ferrovie dello Stato, di competenza dell'esercizio 1980, risulta cosi' stabilito:
 
@@ -699,7 +697,7 @@ autonome). . . . . . . . . . . . . . . . . L. 7.682.091.762.262 Spese delle gest
 
 --------------------- L. 15.468.678.317.217 =====================
 
-#### Art. 40 - Eccedenze
+## Art. 40 - Eccedenze
 
 Sono approvate le eccedenze di spesa sul conto della cassa risultate ai sottoindicati capitoli in sede di consuntivo per l'esercizio finanziario 1980:
 
@@ -899,7 +897,7 @@ per la costruzione e l'acquisto di
 
 alloggi per i ferrovieri. . 7.150.430
 
-#### Art. 41
+## Art. 41
 
 Il conto consuntivo dello Stato per l'esercizio 1980 e' approvato.
 
@@ -915,7 +913,7 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 ## AZIENDA AUTONOMA DELLE FERROVIE DELLO STATO
 
-#### Allegato 1
+## Allegato 1
 
 ALLEGATO N. 1
 
@@ -925,7 +923,7 @@ PRELEVAMENTI DAL FONDO DI RISERVA PER LE SPESE IMPREVISTE EFFETTUATI NELL'ANNO 1
 
 Parte di provvedimento in formato grafico
 
-#### Allegato 2
+## Allegato 2
 
 ALLEGATO N. 2
 

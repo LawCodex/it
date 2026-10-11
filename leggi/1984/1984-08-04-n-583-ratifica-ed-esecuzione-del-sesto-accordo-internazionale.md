@@ -63,7 +63,7 @@ SIXIEME ACCORD INTERNATIONAL SUR L'ETAIN
 
 Parte di provvedimento in formato grafico
 
-## CAPITOLO I: OBIETTIVI
+### CAPITOLO I: OBIETTIVI
 
 TRADUZIONE NON UFFICIALE
 
@@ -137,7 +137,7 @@ via di sviluppo produttori per conferire loro un ruolo piu' incisivo nella comme
 
 l) proseguire i lavori del Consiglio internazionale dello stagno nell'ambito del quinto Accordo internazionale (qui di seguito denominato quinto Accordo) e dei precedenti accordi internazionali sullo stagno.
 
-## CAPITOLO II: DEFINIZIONI
+### CAPITOLO II: DEFINIZIONI
 
 #### Articolo 2
 
@@ -265,7 +265,7 @@ Membro produttore si trasforma in Membro consumatore o viceversa, il Consiglio, 
 
 paragrafo 1 del presente articolo, il Membro in questione cessa di beneficiare dei diritti e dei privilegi o di essere vincolato agli obblighi cui sottostanno i Membri della sua precedente categoria, fermo restando il suo dovere di assolvere agli impegni finanziari o altri in sospeso contratti nella precedente categoria, ed acquisisce tutti i diritti ed i privilegi ed e' vincolato agli obblighi cui sottostanno in forza dell'accordo i Membri della sua nuova categoria.
 
-## CAPITOLO IV: POTERI E FUNZIONI
+### CAPITOLO IV: POTERI E FUNZIONI
 
 #### Articolo 7
 
@@ -381,7 +381,7 @@ c) si mantiene informato circa le nuove utilizzazioni dello stagno e la messa a 
 
 d) incoraggia una maggiore e piu' ampia collaborazione con le organizzazioni che si dedicano alla ricerca nel campo della prospezione della produzione, del trattamento e dell'impiego dello stagno.
 
-## CAPITOLO V: ORGANIZZAZIONE E GESTIONE
+### CAPITOLO V: ORGANIZZAZIONE E GESTIONE
 
 #### Articolo 11
 
@@ -463,7 +463,7 @@ responsabile nei confronti del Consiglio della gestione e del funzionamento del 
 
 8\. Il presidente esecutivo, il direttore, il segretario e qualsiasi altro funzionario del Consiglio sono tenuti a non rivelare alcuna informazione sulla gestione o sul funzionamento del presente accordo, salvo autorizzazione del Consiglio stesso o in caso di necessita' per lo svolgimento delle funzioni conferite loro ai sensi del presente accordo.
 
-## CAPITOLO VI: VOTAZIONI IN SEDE DI CONSIGLIO
+### CAPITOLO VI: VOTAZIONI IN SEDE DI CONSIGLIO
 
 #### Articolo 14
 
@@ -499,7 +499,7 @@ Procedura di votazione del Consiglio
 
 3\. In una forma approvata dal Consiglio, qualsiasi Membro puo' autorizzare un altro Membro a rappresentare i suoi interessi e ad esercitare i suoi diritti di voto in qualsiasi sessione o riunione del Consiglio stesso.
 
-## CAPITOLO VII: PRIVILEGI ED IMMUNITA'
+### CAPITOLO VII: PRIVILEGI ED IMMUNITA'
 
 #### Articolo 16
 
@@ -559,7 +559,7 @@ Revisione contabile
 
 finanziario, il Consiglio pubblica i conti di gestione e della scorta stabilizzatrice verificati da revisori indipendenti, fermo restando che i conti della scorta non vengono pubblicati prima di tre mesi dopo la chiusura dell'anno finanziario al quale si riferiscono.
 
-## CAPITOLO IX: CONTO DI GESTIONE
+### CAPITOLO IX: CONTO DI GESTIONE
 
 #### Articolo 20
 
@@ -571,7 +571,7 @@ Bilancio
 
 3\. Il Consiglio puo' privare del diritto di voto il Membro che sei mesi dopo la data della notifica dell'importo dovuto non ha ancora versato il proprio contributo al conto di gestione. Se tale Membro non versa il contributo entro 12 mesi dalla data di notifica della somma dovuta, il Consiglio puo' privarlo di qualsiasi altro diritto conferitogli in forza del presente accordo, resta inteso che, non appena riceve il contributo arretrato, il Consiglio ripristina il paese Membro interessato nell'esercizio dei diritti di cui e' stato privato in forza del presente paragrafo.
 
-## CAPITOLO X: - CONTO DELLA SCORTA STABILIZZATRICE
+### CAPITOLO X: - CONTO DELLA SCORTA STABILIZZATRICE
 
 #### Articolo 21
 
@@ -631,7 +631,7 @@ Relazioni con il Fondo comune per i prodotti di base
 
 Il Consiglio aprira' con il Fondo comune, appena questo diventera' operativo, negoziati intesi a definire condizioni e modalita' reciprocamente accettabili per un accordo di associazione con il Fondo comune stesso al fine di beneficiare integralmente delle agevolazioni da esso offerte.
 
-## CAPITOLO XI: - LIQUIDAZIONE DELLA SCORTA STABILIZZATRICE
+### CAPITOLO XI: - LIQUIDAZIONE DELLA SCORTA STABILIZZATRICE
 
 #### Articolo 26
 
@@ -727,7 +727,7 @@ conto dell'evoluzione a breve termine nonche' dei vari livelli e tendenze della 
 
 6\. Il Consiglio pubblica senza indugio gli eventuali prezzi minimo e massimo rivisti, includendovi qualsiasi prezzo provvisorio o rivisto fissato a norma dell'articolo 31.
 
-## CAPITOLO XIII: - GESTIONE DELLE OPERAZIONI DELLA SCORTA STABILIZZATRICE
+### CAPITOLO XIII: - GESTIONE DELLE OPERAZIONI DELLA SCORTA STABILIZZATRICE
 
 #### Articolo 28
 
@@ -825,7 +825,7 @@ conformemente al par. 4 del presente articolo, egli puo' definire i prezzi minim
 
 conformemente alle disposizioni dell'articolo 28 sulla base dei prezzi minimo e massimo che saranno fissati conformemente alle disposizioni dei parr. 4, 5 o 6 del presente articolo, a seconda del caso.
 
-## CAPITOLO XIV: - CONTROLLO DELLE ESPORTAZIONI
+### CAPITOLO XIV: - CONTROLLO DELLE ESPORTAZIONI
 
 #### Articolo 32
 
@@ -1083,7 +1083,7 @@ conformemente all'articolo 38, o che e' stato autorizzato ad aumentare i suoi to
 
 Il Membro produttore interessato terra' debitamente conto delle raccomandazioni del Consiglio.
 
-## CAPITOLO XV: - CARENZA DI STAGNO
+### CAPITOLO XV: - CARENZA DI STAGNO
 
 #### Articolo 40
 
@@ -1203,7 +1203,7 @@ Nessuna disposizione del presente accordo sara' interpretata in
 
 modo da obbligare un Membro a fornire dati la cui divulgazione sia, a suo avviso, contraria agli interessi essenziali della sua sicurezza.
 
-## CAPITOLO XVII: - RICORSI E CONTROVERSIE
+### CAPITOLO XVII: - RICORSI E CONTROVERSIE
 
 #### Articolo 48
 
@@ -1257,7 +1257,7 @@ c) Le spese del comitato consultivo sono a carico del Consiglio.
 
 4\. Il parere motivato del comitato consultivo viene presentato al Consiglio il quale, previa ponderazione di tutti i dati di interesse, dirime la controversia.
 
-## CAPITOLO XVIII: - DISPOSIZIONI FINALI
+### CAPITOLO XVIII: - DISPOSIZIONI FINALI
 
 #### Articolo 50
 

@@ -26,17 +26,15 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I. - ABOLIZIONE DELLA CLASSIFICAZIONE
+## CAPO I. - ABOLIZIONE DELLA CLASSIFICAZIONE DELLE CAMERE DI COMMERCIO
 
-### DELLE CAMERE DI COMMERCIO
-
-#### Art. 1
+### Art. 1
 
 La distinzione delle Camere di commercio, industria, artigianato ed agricoltura in classi, prevista dalla legge 25 maggio 1962, n. 544, e' abolita.
 
 ## CAPO II. - ORDINAMENTO DELLE CARRIERE
 
-#### Art. 2
+### Art. 2
 
 E' istituito il ruolo statale degli ispettori generali e dei segretari generali delle Camere di commercio, industria, artigianato e agricoltura, secondo la tabella A allegata alla presente legge, sotto l'amministrazione ed il controllo del Ministero dell'industria, del commercio e dell'artigianato; tale ruolo e' disciplinato dalle norme del testo unico approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n. 3 e, per quanto compatibili, dalle norme della legge 8 giugno 1962, n. 604, ed e' formato, nella prima applicazione della legge, in base a quanto disposto dal successivo art. 8.
 
@@ -44,7 +42,7 @@ I posti che si renderanno successivamente vacanti nel ruolo anzidetto saranno co
 
 Alla destinazione ed all'eventuale trasferimento del personale, di cui al ruolo della tabella A, provvede il Ministero dell'industria, del commercio e dell'artigianato, sentito il parere delle Camere di commercio interessate.
 
-#### Art. 3
+### Art. 3
 
 Il personale delle Camere di commercio, industria, artigianato e agricoltura e' inquadrato nei ruoli da istituire dai rispettivi enti, con l'approvazione del Ministero dell'industria, del commercio e dell'artigianato, di concerto con il Ministero del tesoro, secondo la tabella tipo (tabella B) allegata alla presente legge, entro il termine di sei mesi dalla data di emanazione del regolamento tipo di cui al comma successivo.
 
@@ -56,7 +54,7 @@ La promozione alla qualifica di vice segretario generale prevista dalla tabella 
 
 Il regolamento tipo di cui al secondo comma del presente articolo dovra' prevedere che nelle giunte camerali, in veste di consigli di amministrazione per il personale camerale, partecipino tre rappresentanti del personale, nominati dalle giunte stesse su designazione delle organizzazioni sindacali maggiormente rappresentative, scelti fra il personale delle stesse Camere di commercio, industria, artigianato e agricoltura.
 
-#### Art. 4
+### Art. 4
 
 I ruoli aggiunti, istituiti con la legge 3 aprile 1957, n. 233 e successive modificazioni ed integrazioni, sono soppressi.
 
@@ -64,7 +62,7 @@ Gli impiegati dei ruoli aggiunti, in servizio alla data di entrata in vigore del
 
 Gli impiegati gia' appartenenti ai ruoli aggiunti che, in attuazione di disposizioni legislative o per concorso, siano stati nominati in ruolo organico, conseguono a domanda, da presentarsi entro sessanta giorni dalla data di entrata in vigore della presente legge, l'inquadramento piu' favorevole al quale avrebbero avuto diritto ai sensi del presente articolo se fossero rimasti nei predetti ruoli aggiunti, conservando a tutti gli effetti l'anzianita' complessiva maturata nel ruolo aggiunto e nel ruolo organico.
 
-#### Art. 5
+### Art. 5
 
 Con l'osservanza delle norme contenute nella legge 3 aprile 1957, n. 233 e successive modificazioni ed integrazioni, i dipendenti non di ruolo comunque in servizio presso le Camere di commercio, industria, artigianato e agricoltura, che abbiano compiuto o compiano successivamente i periodi di servizio previsti dall'articolo 2 della predetta legge, sono collocati nella qualifica iniziale della carriera di ruolo organico corrispondente alla categoria dell'impiego non di ruolo cui appartengono.
 
@@ -78,7 +76,7 @@ Per il collocamento nei ruoli organici della carriera esecutiva si prescinde dal
 
 I collocamenti nei ruoli organici previsti dalla presente legge sono disposti in soprannumero da assorbire con le promozioni alle qualifiche di capo reparto, primo ragioniere, primo archivista e commesso, ovvero con la cessazione dal servizio.
 
-#### Art. 6
+### Art. 6
 
 Nella prima applicazione della presente legge, i periodi di permanenza nelle qualifiche dei ruoli del personale di cui alle tabelle B e C allegate alla presente legge, richiesti per il conseguimento della qualifica superiore sono ridotti alla meta', e comunque per un massimo di trenta mesi. Tale riduzione non si applica nel caso in cui i periodi minimi di anzianita' siano inferiori ad un biennio.
 
@@ -86,7 +84,7 @@ Il beneficio previsto dal comma precedente puo' concedersi per una sola volta.
 
 Pure nella prima applicazione della presente legge, e per non piu' di un biennio dalla data della sua entrata in vigore, le promozioni alle qualifiche di capo reparto, di primo segretario o primo ragioniere e di primo archivista si conseguono con concorso per titoli ed esame.
 
-#### Art. 7
+### Art. 7
 
 Entro due anni dalla data di entrata in vigore della presente legge, i posti vacanti nelle qualifiche iniziali delle singole carriere dei ruoli camerali sono assegnati nella misura del 50 per cento mediante concorsi interni per esami.
 
@@ -94,13 +92,13 @@ Entro i limiti di tempo previsti dal comma precedente, il personale ausiliario d
 
 Per l'ammissione ai concorsi di cui al primo comma si prescinde dal limite massimo di eta'.
 
-#### Art. 8
+### Art. 8
 
 Nella prima attuazione della presente legge, e nel termine di trenta giorni dalla data della sua entrata in vigore, i funzionari della carriera direttiva degli Uffici provinciali dell'industria, del commercio e dell'artigianato con qualifica pari all'ex coefficiente 670, che rivestono l'incarico di segretario generale di Camera di commercio, possono chiedere il trasferimento nel ruolo di cui alla tabella A. Per la copertura dei residui posti vacanti nel ruolo della citata tabella A, il Ministero dell'industria, del commercio e dell'artigianato, nel termine di otto mesi dalla data di entrata in vigore della presente legge, bandira' un concorso per titoli riservato ai, funzionari delle carriere direttive delle Camere di commercio, industria, artigianato e agricoltura e degli Uffici provinciali dell'industria, commercio e artigianato, che rivestano qualifiche non inferiori a quelle corrispondenti all'ex coefficiente 500 e che ricoprano l'incarico di segretario generale o di vicesegretario generale delle Camere di commercio, industria, artigianato ed agricoltura, da data non posteriore al 31 dicembre 1966, a seguito di deliberazione dell'ente approvata dall'autorita' tutoria.
 
 Per la valutazione dell'anzianita' di qualifica si applica, se necessario e a richiesta dell'interessato, il beneficio di cui al precedente articolo 6.
 
-#### Art. 9
+### Art. 9
 
 La tabella organica dei direttori e dei sostituti direttori degli Uffici provinciali dell'industria, del commercio e dell'artigianato, annessa al regio decreto 25 gennaio 1937, n. 1203, e modificata con regio decreto 26 maggio 1941, n. 601, e' sostituita dalla tabella C, allegata alla presente legge.
 
@@ -108,7 +106,7 @@ I posti di direttore aggiunto e qualifiche inferiori della tabella organica sost
 
 Il personale della tabella organica sostituita, compreso quello che non abbia chiesto il trasferimento nel ruolo della tabella A, viene inquadrato nel ruolo di cui alla tabella C, nella qualifica corrispondente a quella del ruolo di provenienza, conservando la rispettiva anzianita', compresa quella di servizio. Ove il numero dei posti delle qualifiche corrispondenti agli ex coefficienti 670, 500 e 402 risulti inferiore alle unita' da inquadrare, i funzionari eccedenti sono inquadrati in soprannumero, da assorbire con la promozione dei medesimi alla qualifica superiore nonche' con la cessazione di appartenenza al ruolo.
 
-#### Art. 10
+### Art. 10
 
 La nomina alla qualifica iniziale della carriera direttiva statale, di cui alla tabella C allegata alla presente legge, si consegue mediante concorsi per esami, ai quali sono ammessi a partecipare gli impiegati dei ruoli direttivi delle Camere di commercio, industria, artigianato e agricoltura e degli Uffici provinciali dell'industria, del commercio e dell'artigianato, i quali abbiano compiuto, alla data del bando che indice il concorso, almeno nove anni di effettivo servizio nella carriera.
 
@@ -120,17 +118,15 @@ La graduatoria e' formata in base alla votazione complessiva risultante dalla so
 
 Ai concorsi in cui al presente articolo possono essere ammessi gli impiegati delle carriere di concetto delle Camere di commercio, industria, artigianato e agricoltura e degli Uffici provinciali dell'industria, del commercio e dell'artigianato che abbiano prestato almeno tredici anni di effettivo servizio nelle carriere e siano muniti di laurea.
 
-#### Art. 11
+### Art. 11
 
 Nella prima attuazione della presente legge e nel termine di otto mesi dalla data della sua entrata in vigore, il Ministero dell'industria, del commercio e dell'artigianato provvedera' a bandire un concorso per titoli per i posti vacanti nella qualifica iniziale della tabella C, al quale saranno ammessi a partecipare i segretari generali ed i vicesegretari generali delle Camere di commercio, industria, artigianato e agricoltura aventi qualifica corrispondente a quella dei posti messi a concorso nonche' i segretari generali e i vicesegretari generali che, con almeno nove anni di effettivo servizio nella carriera direttiva, pur rivestendo qualifica inferiore, abbiano svolto le funzioni sopraddette da almeno un triennio, a seguito di deliberazione dell'ente approvata dall'autorita' tutoria.
 
 Ai concorsi di cui al precedente comma, sono ammessi a partecipare anche gli altri funzionari della carriera direttiva delle Camere di commercio, industria, artigianato e agricoltura che rivestano qualifica corrispondente a quella dei posti messi a concorso, nonche' i funzionari della carriera di concetto degli Uffici provinciali dell'industria, del commercio e dell'artigianato di qualifica non inferiore a quella di ragioniere principale, che siano muniti di laurea e che abbiano svolto funzioni ispettive da almeno un quinquennio presso il Ministero dell'industria, del commercio e dell'artigianato e i funzionari delle carriere di concetto delle Camere di commercio, industria, artigianato e agricoltura, e degli Uffici provinciali dell'industria, del commercio e dell'artigianato di qualifica non inferiore a quella di ragioniere principale o corrispondente, che siano muniti di laurea ed esplichino da almeno cinque anni l'incarico di ragioniere capo di Camera di commercio a seguito di deliberazione dell'ente approvata dall'autorita' tutoria; il personale proveniente dai ruoli camerali ha facolta' di riscattare, ai fini del trattamento di quiescenza, il periodo di servizio prestato presso gli enti di provenienza.
 
-## CAPO III. - COMPETENZA DELLE REGIONI
+## CAPO III. - COMPETENZA DELLE REGIONI A STATUTO SPECIALE
 
-### A STATUTO SPECIALE
-
-#### Art. 12
+### Art. 12
 
 E' fatta salva la competenza riconosciuta alle Regioni a statuto speciale nella materia trattata dalla presente legge.
 
@@ -144,11 +140,9 @@ MORO - ANDREOTTI - COLOMBO
 
 Visto, il Guardasigilli: REALE
 
-## CAPO III. - COMPETENZA DELLE REGIONI
+## CAPO III. - COMPETENZA DELLE REGIONI A STATUTO SPECIALE
 
-### A STATUTO SPECIALE
-
-#### Tabelle
+### Tabelle
 
 TABELLA A
 

@@ -27,15 +27,15 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+#### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare il trattato sull'Unione europea con 17 protocolli allegati e con atto finale che con 33 dichiarazioni, fatto a Maastricht il 7 febbraio 1992.
 
-### Art. 2
+#### Art. 2
 
 1\. Piena ed intera esecuzione e' data all'atto internazionale di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore in conformita' a quanto stabilito dall'articolo R, comma 2.
 
-### Art. 3
+#### Art. 3
 
 1\. La presente legge entra in vigore il giorno successivo a quello della pubblicazione nella Gazzetta Ufficiale.
 
@@ -55,7 +55,7 @@ Visto il Guardasigilli: MARTELLI
 
 ## TITOLO I - DISPOSIZIONI COMUNI
 
-### art. A
+#### art. A
 
 TRATTATO
 
@@ -249,7 +249,7 @@ L'Unione e' fondata sulle Comunita' europee, integrate dalle politiche e forme d
 
 Essa ha il compito di organizzare in modo coerente e solidale le relazioni tra gli Stati membri e tra i loro popoli.
 
-### ARTICOLO B
+#### ARTICOLO B
 
 L'Unione si prefigge i seguenti obiettivi:
 
@@ -265,13 +265,13 @@ L'Unione si prefigge i seguenti obiettivi:
 
 Gli obiettivi dell'Unione saranno saranno perseguiti conformemente alle disposizioni del presente trattato, alle condizioni e secondo il ritmo ivi fissati, nel rispetto del principio di sussidiarieta' definito all'articolo 3 B del trattato che istituisce la Comunita' europea.
 
-### ARTICOLO C
+#### ARTICOLO C
 
 L'Unione dispone di un quadro istituzionale unico che assicura la coerenza e la continuita' delle azioni svolte per il perseguimento dei suoi obiettivi, rispettando e sviluppando nel contempo l'"acquis" comunitario.
 
 L'Unione assicura in particolare la coerenza globale della sua azione esterna nell'ambito delle politiche in materia di relazioni esterne, di sicurezza, di economia e di sviluppo. Il Consiglio e la Commissione hanno la responsabilita' di garantire tale coerenza. Essi provvedono, nell'ambito delle rispettive competenze, ad attuare dette politiche.
 
-### ARTICOLO D
+#### ARTICOLO D
 
 Il Consiglio europeo da' all'Unione l'impulso necessario al suo sviluppo e ne definisce gli orientamenti politici generali.
 
@@ -279,11 +279,11 @@ Il Consiglio europeo riunisce i Capi di Stato o di Governo degli Stati membri no
 
 Il Consiglio europeo presenta al Parlamento europeo una relazione dopo ciascuna delle sue riunioni, nonche' una relazione scritta annuale sui progressi compiuti dall'Unione.
 
-### ARTICOLO E
+#### ARTICOLO E
 
 Il Parlamento europeo, il Consiglio, la Commissione e la Corte di giustizia esercitano le loro attribuzioni alle condizioni e ai fini previsti, da un lato, dalle disposizioni dei trattati che istituiscono le Comunita' europee, nonche' dalle disposizioni dei successivi trattati e atti recanti modifiche o integrazioni delle stesse e, dall'altro, dalle altre disposizioni del presente trattato.
 
-### ARTICOLO F
+#### ARTICOLO F
 
 1\. L'Unione rispetta l'identita' nazionale dei suoi Stati membri, i cui sistemi di governo si fondano sui principi democratici.
 
@@ -293,7 +293,7 @@ Il Parlamento europeo, il Consiglio, la Commissione e la Corte di giustizia eser
 
 ## TITOLO II - DISPOSIZIONI CHE MODIFICANO IL TRATTATO CHE ISTITUISCE LA COMUNITA' ECONOMICA EUROPEA PER CREARE LA COMUNITA' EUROPEA
 
-### ARTICOLO G
+#### ARTICOLO G
 
 Il trattato che istituisce la Comunita' economica europea e' modificato conformemente alle disposizioni del presente articolo al fine di creare una Comunita' europea.
 
@@ -2433,7 +2433,7 @@ G. Nel protocollo sullo statuto della Banca europea per gli investimenti:
 
 ## TITOLO III - DISPOSIZIONI CHE MODIFICANO IL TRATTATO CHE ISTITUISCE LA COMUNITA' EUROPEA DEL CARBONE E DELL'ACCIAIO
 
-### ARTICOLO H
+#### ARTICOLO H
 
 Il trattato che istituisce la Comunita' europea del carbone e dell'acciaio e' modificato conformemente al presente articolo.
 
@@ -2799,7 +2799,7 @@ Fatte salve altre disposizioni del presente trattato, gli Stati membri coordinan
 
 ## TITOLO IV - DISPOSIZIONI CHE MODIFICANO IL TRATTATO CHE ISTITUISCE LA COMUNITA' EUROPEA DELL'ENERGIA ATOMICA
 
-### ARTICOLO I
+#### ARTICOLO I
 
 Il trattato che istituisce la Comunita' europea dell'energia atomica e' modificato conformemente al presente articolo.
 
@@ -3265,11 +3265,11 @@ procedura dell'articolo N del trattato sull'Unione europea."
 
 ## TITOLO V - DISPOSIZIONI RELATIVE ALLA POLITICA ESTERA E DI SICUREZZA COMUNE
 
-### ARTICOLO J
+#### ARTICOLO J
 
 E' istituita una politica estera e di sicurezza comune, disciplinata dalle seguenti disposizioni.
 
-### ARTICOLO J.1
+#### ARTICOLO J.1
 
 1\. L'Unione e i suoi Stati membri stabiliscono ed attuano una politica estera e di sicurezza comune disciplinata dalle disposizioni del presente Titolo ed estesa a tutti i settori della politica estera e di sicurezza.
 
@@ -3295,7 +3295,7 @@ E' istituita una politica estera e di sicurezza comune, disciplinata dalle segue
 
 Il Consiglio provvede affinche' detti principi siano rispettati.
 
-### ARTICOLO J.2
+#### ARTICOLO J.2
 
 1\. Gli Stati membri si informano reciprocamente e si concertano in sede di Consiglio in merito a qualsiasi questione di politica estera e di sicurezza di interesse generale per garantire che la loro influenza combinata si eserciti nel modo piu' efficace attraverso la convergenza delle loro azioni.
 
@@ -3307,7 +3307,7 @@ Gli Stati membri provvedono affinche' le loro politiche nazionali siano conformi
 
 Nelle organizzazioni internazionali e in occasione di conferenze internazionali alle quali non tutti gli Stati membri partecipano, quelli che vi partecipano difendono le posizioni comuni.
 
-### ARTICOLO J.3
+#### ARTICOLO J.3
 
 La procedura per adottare un'azione comune nei settori che rientrano nella politica estera e di sicurezza e' la seguente:
 
@@ -3329,7 +3329,7 @@ Per le deliberazioni del Consiglio che richiedono la maggioranza qualificata in 
 
 7\) In caso di difficolta' rilevanti nell'applicazione di un'azione comune, uno Stato membro ne investe il Consiglio che delibera al riguardo e ricerca le soluzioni appropriate. Queste ultime non possono essere in contrasto con gli obiettivi dell'azione ne' nuocere alla sua efficacia.
 
-### ARTICOLO J.4
+#### ARTICOLO J.4
 
 1\. La politica estera e di sicurezza comune comprende tutte le questioni relative alla sicurezza dell'Unione europea, ivi compresa la definizione a termine di una politica di difesa comune, che potrebbe successivamente condurre a una difesa comune.
 
@@ -3343,7 +3343,7 @@ Per le deliberazioni del Consiglio che richiedono la maggioranza qualificata in 
 
 6\. Per promuovere il conseguimento dell'obiettivo del presente trattato e tenuto conto della scadenza del 1998 nell'ambito dell'articolo XII del trattato di Bruxelles, le disposizioni del presente articolo potranno essere rivedute, come previsto all'articolo N, paragrafo 2, in base a una relazione che il Consiglio presentera' al Consiglio europeo nel 1996, contenente una valutazione dei progressi attuati e dell'esperienza acquisita sino a quel momento.
 
-### ARTICOLO J.5
+#### ARTICOLO J.5
 
 1\. La Presidenza rappresenta l'Unione per le materie che rientrano nella politica estera e di sicurezza comune.
 
@@ -3355,7 +3355,7 @@ Per le deliberazioni del Consiglio che richiedono la maggioranza qualificata in 
 
 Gli Stati membri che sono anche membri del Consiglio di sicurezza delle Nazioni Unite si concerteranno e terranno pienamente informati gli altri Stati membri. Gli Stati membri che sono membri permanenti del Consiglio di sicurezza procurano, nell'esercizio delle loro funzioni, di difendere le posizioni e l'interesse dell'Unione, fatte salve le responsabilita' che loro incombono in forza delle disposizioni della Carta delle Nazioni unite.
 
-### ARTICOLO J.6
+#### ARTICOLO J.6
 
 Le missioni diplomatiche e consolari degli Stati membri e le delegazioni della Commissione nei paesi terzi e nelle conferenze internazionali, nonche' le loro rappresentanze presso le organizzazioni internzionali, si concertano per garantire il rispetto e l'attuazione delle posizioni comuni e delle azioni comuni adottate dal Consiglio.
 
@@ -3363,13 +3363,13 @@ Esse intensificano la loro cooperazione procedendo a scambi di informazioni e a 
 
 istituisce la Comunita' europea.
 
-### ARTICOLO J.7
+#### ARTICOLO J.7
 
 La Presidenza consulta il Parlamento europeo sui principali aspetti e sulle scelte fondamentali della politica estera e di sicurezza comune e provvede affinche' le opinioni del Parlamento europeo siano debitamente prese in considerazione. Il Parlamento europeo e' regolarmente informato dalla Presidenza e dalla Commissione in merito allo sviluppo della politica estera e di sicurezza dell'Unione.
 
 Il Parlamento europeo puo' rivolgere interrogazioni o formulare raccomandazioni al Consiglio. Esso procede ogni anno ad un dibattito sui progressi compiuti nell'attuazione della politica estera e di sicurezza comune.
 
-### ARTICOLO J.8
+#### ARTICOLO J.8
 
 1\. Il Consiglio europeo definisce i principi e gli orientamenti generali della politica estera e di sicurezza comune.
 
@@ -3383,15 +3383,15 @@ Il Consiglio delibera all'unanimita' , tranne che per le questioni di procedura 
 
 5\. Fatto salvo l'articolo 151 del trattato che istituisce la Comunita' europea, un Comitato politico composto dei direttori politici segue la situazione internazionale nei settori che rientrano nella politica estera e di sicurezza comune e contribuisce a definire le politiche formulando pareri per il Consiglio a richiesta di questo o di propria iniziativa. Sorveglia altresi' l'attuazione delle politiche concordate fatte salve le competenze della Presidenza e della Commissione.
 
-### ARTICOLO J.9
+#### ARTICOLO J.9
 
 La Commissione e' pienamente associata ai lavori nel settore della politica estera e di sicurezza comune.
 
-### ARTICOLO J.10
+#### ARTICOLO J.10
 
 All'atto di un'eventuale revisione delle disposizioni relative alla sicurezza, conformemente all'articolo J.4, la Conferenza convocata a tal fine esamina anche se debbano essere apportati altri emendamenti alle disposizioni relative alla politica estera e di sicurezza comune.
 
-### ARTICOLO J.11
+#### ARTICOLO J.11
 
 1\. Le disposizioni di cui agli articoli 137, 138 da 139 a 142, 146, 147, da 150 a 153, da 157 a 163 e 217 del trattato che istituisce la Comunita' europea sono applicabili alle disposizioni relative ai settori di cui al presente Titolo.
 
@@ -3409,11 +3409,11 @@ prevista dal trattato che istituisce la Comunita' europea;
 
 ## TITOLO VI - DISPOSIZIONI RELATIVE ALLA COOPERAZIONE NEI SETTORI DELLA GIUSTIZIA E DEGLI AFFARI INTERNI
 
-### ARTICOLO K
+#### ARTICOLO K
 
 La cooperazione nei settori della giustizia e degli affari interni e' disciplinata dalle seguenti disposizioni.
 
-### ARTICOLO K.1
+#### ARTICOLO K.1
 
 Ai fini della realizzazione degli obiettivi dell'Unione, in particolare della libera circolazione delle persone, fatte salve le competenze della Comunita' europea, gli Stati membri considerano questioni di interesse comune i settori seguenti:
 
@@ -3441,13 +3441,13 @@ c) la lotta contro l'immigrazione, il soggiorno e il lavoro irregolari di cittad
 
 9\) la cooperazione di polizia ai fini della prevenzione e della lotta contro il terrorismo, il traffico illecito di droga e altre forme gravi di criminalita' internazionale, compresi, se necessario, taluni aspetti di cooperazione doganale, in connessione con l'organizzazione a livello dell'Unione di un sistema di scambio di informazioni in seno ad un Ufficio europeo di polizia (Europol).
 
-### ARTICOLO K.2
+#### ARTICOLO K.2
 
 1\) I settori contemplati dall'articolo K.1 vengono trattati nel rispetto della Convenzione europea per la salvaguardia dei diritti dell'uomo e delle liberta' fondamentali, firmata a Roma il 4 novembre 1950, e della Convenzione relativa allo status dei rifugiati del 28 luglio 1951, tenendo conto della protezione che gli Stati membri concedono alle persone perseguitate per motivi politici.
 
 2\) Il presente Titolo non osta all'esercizio delle responsabilita' incombenti agli Stati membri per il mantenimento dell'ordine pubblico e la salvaguardia della sicurezza interna.
 
-### ARTICOLO K.3
+#### ARTICOLO K.3
 
 1\) Nei settori di cui all'articolo K.1, gli Stati membri si informano e si consultano reciprocamente, in seno al Consiglio, per coordinare la loro azione; essi instaurano a tal fine una collaborazione tra i servizi competenti delle loro amministrazioni.
 
@@ -3467,7 +3467,7 @@ Salvo disposizioni contrarie previste da tali convenzioni, le eventuali misure d
 
 Le convenzioni possono prevedere che la Corte di giustizia sia competente per interpretarne le disposizioni e per comporre le controversie connesse con la loro applicazione, secondo modalita' che saranno precisate dalle medesime convenzioni.
 
-### ARTICOLO K.4
+#### ARTICOLO K.4
 
 1\. E' istituito un Comitato di coordinamento composto di alti funzionari che, oltre a svolgere un ruolo di coordinamento, ha il compito:
 
@@ -3481,11 +3481,11 @@ Le convenzioni possono prevedere che la Corte di giustizia sia competente per in
 
 Qualora le deliberazioni del Consiglio richiedano la maggioranza qualificata, ai voti dei membri e' attribuita la ponderazione prevista all'articolo 148, paragrafo 2 del trattato che istituisce la Comunita' europea e le deliberazioni sono valide se hanno ottenuto almeno cinquantaquattro voti favorevoli, espressi da almeno otto membri.
 
-### ARTICOLO K.5
+#### ARTICOLO K.5
 
 Nelle organizzazioni internazionali e in occasione delle conferenze internazionali cui partecipano, gli Stati membri esprimono le posizioni comuni adottate in applicazione delle disposizioni del presente Titolo.
 
-### ARTICOLO k.6
+#### ARTICOLO k.6
 
 La Presidenza e la Commissione informano regolarmente il Parlamento europeo dei lavori svolti nei settori che rientrano nel presente Titolo.
 
@@ -3493,11 +3493,11 @@ La Presidenza consulta il Parlamento europeo sui principali aspetti dell'attivit
 
 Il Parlamento europeo puo' rivolgere al Consiglio interrogazioni o raccomandazioni. Esso procede ogni anno ad un dibattito sui progressi compiuti nell'attuazione delle disposizioni di cui al presente Titolo.
 
-### ARTICOLO K.7
+#### ARTICOLO K.7
 
 Le disposizioni del presente Titolo non ostano all'instaurazione o allo sviluppo di una cooperazione piu' stretta tra due o piu' Stati membri, sempre che tale cooperazione non sia in contrasto con quella prevista nel presente Titolo ne' la ostacoli.
 
-### ARTICOLO K.8
+#### ARTICOLO K.8
 
 1\. Le disposizioni di cui agli articoli 137, 138, da 139 a 142, 146, 147, da 150 a 153, da 157 a 163 e 217 del trattato che istituisce la Comunita' europea si applicano alle disposizioni concernenti i settori di cui al presente Titolo.
 
@@ -3513,13 +3513,13 @@ bilancio prevista dal trattato che istituisce la Comunita' europea;
 
 \- o constatare che tali spese devono essere a carico degli Stati membri, eventualmente secondo un criterio di ripartizione da stabilirsi.
 
-### ARTICOLO K.9
+#### ARTICOLO K.9
 
 Il Consiglio, deliberando all'unanimita' su iniziativa della Commissione o di uno Stato membro, puo' decidere di rendere applicabile l'articolo 100 C del trattato che istituisce la Comunita' europea ad azioni pertinenti a settori contemplati dall'articolo K.1, punti da 1) a 6), decidendo nel contempo le relative condizioni di voto. Esso raccomanda agli Stati membri di adottare tale decisione conformemente alle loro rispettive norme costituzionali.
 
 ## TITOLO VII - DISPOSIZIONI FINALI
 
-### ARTICOLO L
+#### ARTICOLO L
 
 Le disposizioni del trattato che istituisce la Comunita' europea, del trattato che istituisce la Comunita' europea del carbone e dell'acciaio e del trattato che istituisce la Comunita' europea dell'energia atomica relative alla competenza della Corte di giustizia delle Comunita' europee ed all'esercizio di questa competenza si applicano soltanto alle disposizioni seguenti del presente trattato:
 
@@ -3529,11 +3529,11 @@ b) articolo K.3, paragrafo 2, lettera c), terzo comma;
 
 c) articoli da L a S.
 
-### ARTICOLO M
+#### ARTICOLO M
 
 Fatte salve le disposizioni che modificano il trattato che istituisce la Comunita' economica europea per creare la Comunita' europea, il trattato che istituisce la Comunita' europea del carbone e dell'acciaio ed il trattato che istituisce la Comunita' europea dell'energia atomica, nonche' le presenti disposizioni finali, nessuna disposizione del presente trattato pregiudica i trattati che istituiscono le Comunita' europee ne' i trattati e atti successivi che li hanno modificati o completati.
 
-### ARTICOLO N
+#### ARTICOLO N
 
 1\. Il Governo di qualsiasi Stato membro o la Commissione possono sottoporre al Consiglio progetti intesi a modificare i trattati su cui e' fondata l'Unione.
 
@@ -3543,13 +3543,13 @@ Gli emendamenti entreranno in vigore dopo essere stati ratificati da tutti gli S
 
 2\. Una conferenza dei Rappresentanti dei Governi degli Stati membri sara' convocata nel 1996 per esaminare, conformemente agli obiettivi stabiliti negli articoli A e B delle disposizioni comuni, le disposizioni del presente trattato per le quali e' prevista una revisione.
 
-### ARTICOLO O
+#### ARTICOLO O
 
 Ogni Stato europeo puo' domandare di diventare membro dell'Unione. Esso trasmette la sua domanda al Consiglio che si pronuncia all'unanimita' , previa consultazione della Commissione e previo parere conforme del Parlamento europeo, che si pronuncia a maggioranza assoluta dei membri che lo compongono.
 
 Le condizioni per l'ammissione e gli adattamenti dei trattati su cui e' fondata l'Unione, da essa determinati, formano l'oggetto di un accordo tra gli Stati membri e lo Stato richiedente. Tale accordo e' sottoposto a ratifica da tutti gli Stati contraenti conformemente alle loro rispettive norme costituzionali.
 
-### ARTICOLO P
+#### ARTICOLO P
 
 1\. Sono abrogati gli articoli da 2 a 7 e da 10 a 19 del trattato che istituisce un Consiglio unico e una Commissione unica delle
 
@@ -3557,11 +3557,11 @@ Comunita' europee, firmato a Bruxelles l'8 aprile 1965.
 
 2\. Sono abrogati l'articolo 2, l'articolo 3, paragrafo 2 e il Titoli III dell'Atto unico europeo firmato a Lussemburgo il 17 febbraio 1986 e all'Aia il 28 febbraio 1986.
 
-### ARTICOLO Q
+#### ARTICOLO Q
 
 Il presente trattato e' concluso per una durata illimitata.
 
-### ARTICOLO R
+#### ARTICOLO R
 
 1\. Il presente trattato sara' ratificato dalle Alte Parti Contraenti conformemente alle loro rispettive norme costituzionali.
 
@@ -3569,7 +3569,7 @@ Gli strumenti di ratifica saranno depositati presso il Governo della Repubblica 
 
 2\. Il presente trattato entrera' in vigore il 1° gennaio 1993, se tutti gli strumenti di ratifica saranno stati depositati; altrimenti, il primo giorno del mese successivo all'avvenuto deposito dello strumento di ratifica da parte dello Stato firmatario che procedera' per ultimo a tale formalita'.
 
-### ARTICOLO S
+#### ARTICOLO S
 
 Il presente trattato, redatto in unico esemplare in lingua danese, francese, greca, inglese, irlandese, italiana, olandese, portoghese, spagnola e tedesca, i testi in ciascuna di queste lingue facenti ugualmente fede, sara' depositato negli archivi del Governo della Repubblica italiana, che provvedera' a trasmettere copia certificata a ciascuno dei Governi degli altri Stati firmatari.
 
@@ -3577,7 +3577,7 @@ IN FEDE DI CHE, i plenipotenziari sottoscritti hanno apposto le loro firme in ca
 
 Fatto a Maastricht, addi' sette febbraio millenovecentonovantadue.
 
-### Protocollo
+#### Protocollo
 
 PROTOCOLLI
 
@@ -3595,7 +3595,7 @@ ch istituisce la Comunita' europea:
 
 In deroga alle disposizioni del trattato, la Danimarca puo' mantenere la sua legislazione vigente in materia di acquisto di residenze secondarie.
 
-### Protocollo
+#### Protocollo
 
 PROTOCOLLO
 
@@ -3611,7 +3611,7 @@ che istituisce la Comunita' europea:
 
 Ai fini dell'applicazione dell'articolo 119 del trattato, le prestazioni in virtu' di un regime professionale di sicurezza sociale non saranno considerate come retribuzione se e nella misura in cui esse possono essere attribuite ai periodi di occupazione precedenti il 17 maggio 1990, eccezion fatta per i lavoratori o i loro aventi diritto che, prima di detta data, abbiano intentato un'azione giudiziaria o introdotto un reclamo equivalente secondo il diritto nazionale applicabile.
 
-## CAPO I - ISTITUZIONE DEL SEBC
+### CAPO I - ISTITUZIONE DEL SEBC
 
 PROTOCOLLO
 
@@ -3629,7 +3629,7 @@ HANNO CONVENUTO le disposizioni seguenti, che sono allegate al
 
 trattato che istituisce la Comunita' europea:
 
-### ARTICOLO 1
+#### ARTICOLO 1
 
 Sistema europeo di banche centrali
 
@@ -3637,15 +3637,15 @@ Sistema europeo di banche centrali
 
 1.2. Conformemente all'articolo 106, paragrafo 1 del trattato, il SEBC e' composto dalla BCE e dalle Banche centrali degli Stati membri ("Banche centrali nazionali"). L'"Institut Monetaire Luxembourgeois" sara' la Banca centrale nazionale del Lussemburgo.
 
-## CAPO II - OBIETTIVI E COMPITI DEL SEBC
+### CAPO II - OBIETTIVI E COMPITI DEL SEBC
 
-### ARTICOLO 2
+#### ARTICOLO 2
 
 Obiettivi
 
 Conformemente all'articolo 105, paragrafo 1 del trattato, l'obiettivo principale del SEBC e' il mantenimento della stabilita' dei prezzi. Fatto salvo l'obiettivo della stabilita' dei prezzi, esso sostiene le politiche economiche generali della Comunita' al fine di contribuire alla realizzazione degli obiettivi della Comunita' definiti nell'articolo 2 del trattato. Il SEBC agisce in conformita' del principio di un'economia di mercato aperta e in libera concorrenza, favorendo un'efficace allocazione delle risorse, e rispettando i principi di cui all'articolo 3A del trattato.
 
-### ARTICOLO 3
+#### ARTICOLO 3
 
 Compiti
 
@@ -3663,7 +3663,7 @@ Compiti
 
 3.3. Conformemente all'articolo 105, paragrafo 5 del trattato, il SEBC contribuisce ad una buona conduzione delle politiche perseguite dalle competenti autorita' per quanto riguarda la vigilanza prudenziale degli enti creditizi e la stabilita' del sistema finanziario.
 
-### ARTICOLO 4
+#### ARTICOLO 4
 
 Funzioni consultive
 
@@ -3677,7 +3677,7 @@ a) la BCE viene consultata:
 
 b) la BCE puo' formulare pareri da sottoporre alle istituzioni o agli organi comunitari competenti o alle autorita' nazionali su questioni che rientrano nelle sue competenze.
 
-### ARTICOLO 5
+#### ARTICOLO 5
 
 Raccolta di informazioni statistiche
 
@@ -3689,7 +3689,7 @@ Raccolta di informazioni statistiche
 
 5.4. Il Consiglio, conformemente alla procedura di cui all'articolo 42, determina le persone fisiche e giuridiche soggette agli obblighi di riferimento, il regime di riservatezza e le opportune disposizioni per assicurarne l'applicazione.
 
-### ARTICOLO 6
+#### ARTICOLO 6
 
 Cooperazione internazionale
 
@@ -3699,21 +3699,21 @@ Cooperazione internazionale
 
 6.3. L'articolo 6.1 e 6.2 lascia impregiudicate le disposizioni dell'articolo 109, paragrafo 4 del trattato.
 
-## CAPO III - ORGANIZZAZIONE DEL SEBC
+### CAPO III - ORGANIZZAZIONE DEL SEBC
 
-### ARTICOLO 7
+#### ARTICOLO 7
 
 Indipendenza
 
 Conformemente all'articolo 107 del trattato, nell'esercizio dei poteri e nell'assolvimento dei compiti e dei doveri loro attribuiti dal trattato e dal presente statuto, ne' la BCE, ne' la Banca centrale nazionale, ne' un membro dei rispettivi organi decisionali possono sollecitare o accettare istruzioni dalle istituzioni o dagli organi comunitari, dai Governi degli Stati membri ne' da qualsiasi altro organismo. Le istituzioni e gli organi comunitari nonche' i Governi degli Stati membri si impegnano a rispettare questo principio e a non cercare di influenzare i membri degli organi decisionali della BCE o delle Banche centrali nazionali nell'assolvimento dei loro compiti.
 
-### ARTICOLO 8
+#### ARTICOLO 8
 
 Principio generale
 
 Il SEBC e' governato dagli organi decisionali della BCE.
 
-### ARTICOLO 9
+#### ARTICOLO 9
 
 La Banca centrale europea
 
@@ -3723,7 +3723,7 @@ La Banca centrale europea
 
 9.3. Conformemente all'articolo 106, paragrafo 3 del trattato, gli organi decisionali della BCE sono il Consiglio direttivo e il Comitato esecutivo.
 
-### ARTICOLO 10
+#### ARTICOLO 10
 
 Il Consiglio direttivo
 
@@ -3741,7 +3741,7 @@ Perche' il Consiglio direttivo possa votare, deve essere raggiunto un quorum par
 
 10.5. Il Consiglio direttivo si riunisce almeno dieci volte l'anno.
 
-### ARTICOLO 11
+#### ARTICOLO 11
 
 Il Comitato esecutivo
 
@@ -3765,7 +3765,7 @@ Soltanto cittadini degli Stati membri possono essere membri del Comitato esecuti
 
 11.7. Qualsiasi vacanza in seno al Comitato esecutivo sara' coperta con la nomina di un nuovo membro in conformita' dell'articolo 11.2.
 
-### ARTICOLO 12
+#### ARTICOLO 12
 
 Responsabilita' egli organi decisionali
 
@@ -3785,7 +3785,7 @@ Per quanto possibile ed opportuno, fatto salvo il disposto del presente articolo
 
 12.5. Il Consiglio direttivo adotta le decisioni di cui all'articolo 6.
 
-### ARTICOLO 13
+#### ARTICOLO 13
 
 Il Presidente
 
@@ -3793,7 +3793,7 @@ Il Presidente
 
 13.2. Fatto salvo l'articolo 39, il Presidente, o un suo delegato, rappresenta la BCE all'esterno.
 
-### ARTICOLO 14
+#### ARTICOLO 14
 
 Banche centrali nazionali
 
@@ -3809,7 +3809,7 @@ Il Consiglio direttivo adotta le misure necessarie per assicurare l'osservanza d
 
 14.4. Le Banche centrali nazionali possono svolgere funzioni di- verse da quelle specificate nel presente statuto a meno che il Consiglio direttivo decida, a maggioranza dei due terzi dei votanti, che tali funzioni interferiscono con gli obiettivi e i compiti del SEBC. Tali funzioni sono svolte sotto la piena responsabilita' delle Banche centrali nazionali e non sono considerate come facenti parte delle funzioni del SEBC.
 
-### ARTICOLO 15
+#### ARTICOLO 15
 
 Obblighi di rendiconto
 
@@ -3821,7 +3821,7 @@ Obblighi di rendiconto
 
 15.4. Le relazioni e i rendiconti di cui al presente articolo sono messi a disposizione dei soggetti interessati gratuitamente.
 
-### ARTICOLO 16
+#### ARTICOLO 16
 
 Banconote
 
@@ -3829,15 +3829,15 @@ Conformemente all'articolo 105 A, paragrafo 1 del trattato, il Consiglio diretti
 
 La BCE rispetta per quanto possibile la prassi esistente in materia di emissione e di progettazione di banconote.
 
-## CAPO IV - FUNZIONI MONETARIE E OPERAZIONI DEL SEBC
+### CAPO IV - FUNZIONI MONETARIE E OPERAZIONI DEL SEBC
 
-### ARTICOLO 17
+#### ARTICOLO 17
 
 Conti presso la BCE e le Banche centrali nazionali
 
 Al fine di svolgere le loro operazioni, la BCE e le Banche centrali nazionali possono aprire conti intestati a enti creditizi, organismi pubblici e altri operatori del mercato e accettare come garanzia attivita' , ivi compresi i titoli scritturali.
 
-### ARTICOLO 18
+#### ARTICOLO 18
 
 Operazioni di credito e di mercato aperto
 
@@ -3851,7 +3851,7 @@ facolta' di:
 
 18.2. La BCE stabilisce principi generali per le operazioni di credito e di mercato aperto effettuate da essa stessa o dalle Banche centrali nazionali, compresi quelli per la comunicazione delle condizioni alle quali esse sono disponibili a partecipare a tali operazioni.
 
-### ARTICOLO 19
+#### ARTICOLO 19
 
 Riserve minime
 
@@ -3859,7 +3859,7 @@ Riserve minime
 
 19.2. Ai fini dell'applicazione del presente articolo il Consiglio, in conformita' della procedura stabilita nell'articolo 42, definisce la base per le riserve minime e i rapporti massimi ammissibili tra dette riserve e la relativa base, nonche' le sanzioni appropriate nei casi di inosservanza.
 
-### ARTICOLO 20
+#### ARTICOLO 20
 
 Altri strumenti di controllo monetario
 
@@ -3867,7 +3867,7 @@ Il Consiglio direttivo puo' decidere, a maggioranza di due terzi dei votanti, su
 
 Se tali strumenti impongono obblighi a terzi il Consiglio ne definisce la portata secondo la procedura prevista all'articolo 42.
 
-### ARTICOLO 21
+#### ARTICOLO 21
 
 Operazioni con enti pubblici
 
@@ -3877,13 +3877,13 @@ Operazioni con enti pubblici
 
 21.3. Le disposizioni del presente articolo non si applicano agli enti creditizi di proprieta' pubblica che, nel contesto dell'offerta di riserve da parte delle banche centrali, devono ricevere dalle banche centrali nazionali e dalla BCE lo stesso trattamento degli enti creditizi privati.
 
-### ARTICOLO 22
+#### ARTICOLO 22
 
 Sistemi di pagamento e di compensazione
 
 La BCE e le banche centrali nazionali possono accordare facilitazioni, e la BCE puo' stabilire regolamenti, al fine di assicurare sistemi di compensazione e di pagamento efficienti e affidabili all'interno della Comunita' e nei rapporti con i paesi terzi.
 
-### ARTICOLO 23
+#### ARTICOLO 23
 
 Operazioni esterne
 
@@ -3897,15 +3897,15 @@ La BCE e le banche centrali nazionali possono:
 
 \- effettuare tutti i tipi di operazioni bancarie con i paesi terzi e le organizzazioni internazionali, ivi incluse le operazioni di credito attive e passive.
 
-### ARTICOLO 24
+#### ARTICOLO 24
 
 Altre operazioni
 
 In aggiunta alle operazioni derivanti dall'assolvimento dei propri compiti la BCE e le Banche centrali nazionali possono effettuare operazioni per i loro scopi amministrativi e per il proprio personale.
 
-## CAPO V - VIGILANZA PRUDENZIALE
+### CAPO V - VIGILANZA PRUDENZIALE
 
-### ARTICOLO 25
+#### ARTICOLO 25
 
 Vigilanza prudenziale
 
@@ -3913,9 +3913,9 @@ Vigilanza prudenziale
 
 25.2. Conformemente alle decisioni del consiglio ai sensi dell'articolo 105, paragrafo 6 del trattato, la BCE puo' svolgere compiti specifici in merito alle politiche che riguardano la vigilanza prudenziale degli enti creditizi e delle altre istituzioni finanziarie, eccettuate le imprese di assicurazione.
 
-## CAPO VI - DISPOSIZIONI FINANZIARIE DEL SEBC
+### CAPO VI - DISPOSIZIONI FINANZIARIE DEL SEBC
 
-### ARTICOLO 26
+#### ARTICOLO 26
 
 Conti finanziari
 
@@ -3927,7 +3927,7 @@ Conti finanziari
 
 26.4. Per l'applicazione del presente articolo, il Consiglio direttivo stabilisce le disposizioni necessarie per uniformare le procedure contabili e di rendiconto riguardanti le operazioni compiute dalle Banche centrali nazionali.
 
-### ARTICOLO 27
+#### ARTICOLO 27
 
 Revisione dei conti
 
@@ -3935,7 +3935,7 @@ Revisione dei conti
 
 27.2. Le disposizioni dell'articolo 188 C del presente trattato si applicano soltanto ad un esame dell'efficienza operativa della gestione della BCE.
 
-### ARTICOLO 28
+#### ARTICOLO 28
 
 Capitale della BCE
 
@@ -3949,7 +3949,7 @@ Capitale della BCE
 
 28.5. Qualora lo schema di cui all'articolo 29 venga modificato, le Banche centrali nazionali trasferiscono fra di loro quote di capitale nella misura necessaria ad assicurare che la distribuzione delle quote corrisponda allo schema modificato. Il Consiglio direttivo determina le modalita' e le condizioni di tali trasferimenti.
 
-### ARTICOLO 29
+#### ARTICOLO 29
 
 Schema di sottoscrizione di capitale
 
@@ -3967,7 +3967,7 @@ Le percentuali sono arrotondate verso l'alto al piu' vicino multiplo di 0,05%.
 
 29.4. Il Consiglio direttivo prende tutte le altre misure necessarie per l'applicazione del presente articolo.
 
-### ARTICOLO 30
+#### ARTICOLO 30
 
 Trasferimento alla BCE di attivita' di riserva in valuta
 
@@ -3983,7 +3983,7 @@ Trasferimento alla BCE di attivita' di riserva in valuta
 
 30.6. Il Consiglio direttivo adotta tutte le altre misure necessarie per l'applicazione del presente articolo.
 
-### ARTICOLO 31
+#### ARTICOLO 31
 
 Attivita' di riserva in valuta estera detenute dalle Banche centrali nazionali
 
@@ -3993,7 +3993,7 @@ Attivita' di riserva in valuta estera detenute dalle Banche centrali nazionali
 
 31.3. Il Consiglio direttivo definisce indirizzi al fine di facilitare tali operazioni.
 
-### ARTICOLO 32
+#### ARTICOLO 32
 
 Distribuzione del reddito monetario delle Banche centrali nazionali 32.1. Il reddito ottenuto dalle Banche centrali nazionali nell'esercizio delle funzioni di politica monetaria del SEBC (qui di seguito denominato "reddito monetario") viene distribuito alla fine di ciascun esercizio in conformita' delle disposizioni del presente articolo.
 
@@ -4013,7 +4013,7 @@ L'indennizzo assume la forma che il Consiglio direttivo ritiene appropriata; que
 
 32.7. Il Consiglio direttivo adotta tutte le altre misure necessarie per l'applicazione del presente articolo.
 
-### ARTICOLO 33
+#### ARTICOLO 33
 
 Ripartizione dei profitti e delle perdite netti della BCE
 
@@ -4025,9 +4025,9 @@ b) il rimanente profitto netto viene distribuito ai detentori di quote della BCE
 
 33.2. Qualora la BCE subisca una perdita, essa viene coperta dal fondo di riserva generale della BCE, e se necessario, previa decisione del Consiglio direttivo, dal reddito monetario dell'esercizio finanziario pertinente in proporzione e nei limiti degli importi ripartiti tra le banche centrali nazionali conformemente all'articolo 32, paragrafo 5.
 
-## CAPO VII - DISPOSIZIONI GENERALI
+### CAPO VII - DISPOSIZIONI GENERALI
 
-### ARTICOLO 34
+#### ARTICOLO 34
 
 Atti giuridici
 
@@ -4051,7 +4051,7 @@ La BCE puo' decidere di pubblicare le sue decisioni, le sue raccomandazioni ed i
 
 34.3. Entro i limiti e alle condizioni stabiliti dal Consiglio in conformita' della procedura di cui all'articolo 42, la BCE ha il potere di infliggere alle imprese ammende o penalita' di mora in caso di inosservanza degli obblighi imposti dai regolamenti e dalle decisioni da essa adottati.
 
-### ARTICOLO 35
+#### ARTICOLO 35
 
 Controllo giudiziario e materie connesse
 
@@ -4067,7 +4067,7 @@ Controllo giudiziario e materie connesse
 
 35.6. La Corte di giustizia ha giurisdizione nei casi di controversia relativi all'adempimento da parte di una Banca centrale nazionale di obblighi derivanti dal presente statuto. La BCE, se ritiene che una Banca centrale nazionale non abbia adempiuto agli obblighi derivanti dal presente statuto, puo' formulare un parere motivato sulla questione dopo aver dato alla Banca centrale nazionale di cui trattasi l'opportunita' di presentare osservazioni. Se la Banca centrale nazionale in questione non si conforma al parere entro il termine fissato dalla BCE, quest'ultima puo' portare la questione dinanzi alla Corte di giustizia.
 
-### ARTICOLO 36
+#### ARTICOLO 36
 
 Personale
 
@@ -4075,13 +4075,13 @@ Personale
 
 36.2. La Corte di giustizia ha giurisdizione su tutte le controversie fra la BCE e i propri dipendenti nei limiti e alle condizioni stabilite nelle condizioni di impiego.
 
-### ARTICOLO 37
+#### ARTICOLO 37
 
 Sede
 
 Entro la fine del 1992, la decisione sulla sede della BCE e' adottata di comune accordo dai Governi degli Stati membri a livello di Capi di Stato o di Governo.
 
-### ARTICOLO 38
+#### ARTICOLO 38
 
 Segreto professionale
 
@@ -4089,21 +4089,21 @@ Segreto professionale
 
 38.2. Le persone che hanno accesso ai dati coperti da una normativa comunitaria che imponga uno specifico obbligo di riservatezza sono soggette all'applicazione di tali norme.
 
-### ARTICOLO 39
+#### ARTICOLO 39
 
 Poteri di firma
 
 La BCE e' giuridicamente vincolata nei confronti di terzi dal suo Presidente o due membri del Comitato esecutivo ovvero dalla firma di due membri del personale della BCE che siano stati debitamente autorizzati dal Presidente a firmare per conto della BCE.
 
-### ARTICOLO 40
+#### ARTICOLO 40
 
 Privilegi e immunita'
 
 La BCE beneficia sul territorio degli Stati membri dei privilegi e delle immunita' necessari per l'assolvimento dei propri compiti, alle condizioni previste dal protocollo sui privilegi e sulle immunita' delle Comunita' europee, allegato al trattato che istituisce un Consiglio unico e una Commissione unica delle Comunita' europee.
 
-## CAPO VIII - MODIFICAZIONE DELLO STATUTO E LEGISLAZIONE COMPLEMENTARE
+### CAPO VIII - MODIFICAZIONE DELLO STATUTO E LEGISLAZIONE COMPLEMENTARE
 
-### ARTICOLO 41
+#### ARTICOLO 41
 
 Procedura di modificazione semplificata
 
@@ -4111,15 +4111,15 @@ Procedura di modificazione semplificata
 
 41.2. Una raccomandazione presentata dalla BCE ai sensi del presente articolo richiede una decisione unanime da parte del Consiglio direttivo.
 
-### ARTICOLO 42
+#### ARTICOLO 42
 
 Legislazione complementare
 
 Conformemente all'articolo 106, paragrafo 6 del trattato, immediatamente dopo la decisione sulla data d'inizio della terza fase, il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione e previa consultazione del Parlamento europeo e della BCE, o deliberando su raccomandazione della BCE e previa consultazione del Parlamento europeo e della Commissione, adotta le disposizioni di cui agli articoli 4, 5.4, 19.2, 20, 28.1, 29.2, 30.4 e 34.3 del presente statuto.
 
-## CAPO IX - DISPOSIZIONI TRANSITORIE E DISPOSIZIONI VARIE PER IL SEBC
+### CAPO IX - DISPOSIZIONI TRANSITORIE E DISPOSIZIONI VARIE PER IL SEBC
 
-### ARTICOLO 43
+#### ARTICOLO 43
 
 Disposizioni generali
 
@@ -4135,7 +4135,7 @@ Disposizioni generali
 
 43.6. Negli articoli 10.3 e 30.2 per "capitale sottoscritto" si intende capitale della BCE sottoscritto dalle Banche centrali degli Stati membri senza deroga.
 
-### ARTICOLO 44
+#### ARTICOLO 44
 
 Compiti transitori della BCE
 
@@ -4143,7 +4143,7 @@ La BCE assume quei compiti propri dell'IME che, a causa delle deroghe di uno o p
 
 La BCE fornisce pareri nella fase di preparazione dell'abrogazione delle deroghe di cui all'articolo 109 K del trattato.
 
-### ARTICOLO 45
+#### ARTICOLO 45
 
 Consiglio generale della BCE
 
@@ -4153,7 +4153,7 @@ Consiglio generale della BCE
 
 45.3. Le responsabilita' del Consiglio generale sono elencate per esteso nell'articolo 47 del presente statuto.
 
-### ARTICOLO 46
+#### ARTICOLO 46
 
 Regolamento interno del Consiglio generale
 
@@ -4167,7 +4167,7 @@ Regolamento interno del Consiglio generale
 
 46.5. Le funzioni del Segretariato del Consiglio generale sono svolte dalla BCE.
 
-### ARTICOLO 47
+#### ARTICOLO 47
 
 Responsabilita' del Consiglio generale
 
@@ -4193,13 +4193,13 @@ Responsabilita' del Consiglio generale
 
 47.4. Il Consiglio generale e' informato dal Presidente della BCE in merito alle decisioni del Consiglio direttivo.
 
-### ARTICOLO 48
+#### ARTICOLO 48
 
 Disposizioni transitorie per il capitale della BCE
 
 Conformemente all'articolo 29.1, a ciascuna Banca centrale nazionale viene assegnata una ponderazione nell'ambito dello schema per la sottoscrizione del capitale della BCE. In deroga all'articolo 28.3, le banche centrali degli Stati membri con deroga non versano il capitale da loro sottoscritto a meno che il Consiglio generale decida, ad una maggioranza che rappresenta almeno due terzi del capitale sottoscritto della BCE ed almeno la meta' dei partecipanti al capitale, che una percentuale minima deve essere versata come contributo ai costi operativi della BCE.
 
-### ARTICOLO 49
+#### ARTICOLO 49
 
 Versamento differito del capitale, delle riserve e degli accantonamenti della BCE
 
@@ -4207,13 +4207,13 @@ Versamento differito del capitale, delle riserve e degli accantonamenti della BC
 
 49.2. Oltre al versamento da effettuare conformemente all'articolo 49.1, la Banca centrale interessata contribuisce alle riserve della BCE, agli accantonamenti equiparabili a riserve e all'importo ancora da assegnare alle riserve e agli accantonamenti corrispondente al saldo del conto profitti e perdite quale risulta al 31 dicembre dell'anno che precede l'abrogazione della deroga. La somma da versare come contributo viene fissata moltiplicando l'importo delle riserve, come sopra definito e dichiarato nel bilancio approvato della BCE, per il rapporto tra il numero di quote sottoscritte dalla Banca centrale interessata e il numero di quote gia' versate dalle altre Banche centrali.
 
-### ARTICOLO 50
+#### ARTICOLO 50
 
 Nomina iniziale dei membri del Comitato esecutivo
 
 Il Comitato esecutivo della BCE viene istituito secondo la seguente procedura. Il Presidente, il Vicepresidente e gli altri membri del Comitato esecutivo sono nominati con il comune accordo dei Governi degli Stati membri, a livello di Capi di Stato o di Governo, su raccomandazione del Consiglio e previa consultazione del Parlamento europeo e del Consiglio dell'IME. Il Presidente del Comitato esecutivo viene nominato per otto anni. In deroga all'articolo 11.2, il Vicepresidente viene nominato per quattro anni e gli altri membri del Comitato esecutivo per un mandato compreso tra cinque e otto anni. Il mandato non e' rinnovabile. Il numero dei membri del Comitato esecutivo puo' essere inferiore a quello previsto all'articolo 11.1, ma comunque non inferiore a quattro.
 
-### ARTICOLO 51
+#### ARTICOLO 51
 
 Deroga all'articolo 32
 
@@ -4221,13 +4221,13 @@ Deroga all'articolo 32
 
 51.2. L'articolo 51.1 si applica per non piu' di cinque interi esercizi finanziari dopo l'inizio della terza fase.
 
-### ARTICOLO 52
+#### ARTICOLO 52
 
 Scambio di banconote in valute comunitarie
 
 In seguito alla fissazione irrevocabile dei tassi di cambio, il Consiglio direttivo adotta le misure necessarie per assicurare che le banconote in valute con tassi di cambio irrevocabilmente fissati vengano cambiate dalle Banche centrali nazionali al loro rispettivo valore di parita'.
 
-### ARTICOLO 53
+#### ARTICOLO 53
 
 Applicabilita' delle disposizioni transitorie
 
@@ -4245,7 +4245,7 @@ HANNO CONVENUTO le disposizioni seguenti, che sono allegate al
 
 trattato che istituisce la Comunita' europea:
 
-### ARTICOLO 1
+#### ARTICOLO 1
 
 Istituzione e nome
 
@@ -4255,7 +4255,7 @@ Istituzione e nome
 
 1.3. Ai sensi dell'articolo 109 F del trattato, sia il Comitato dei Governatori sia il Fondo europeo di cooperazione monetaria ("FECOM") vengono sciolti. Le attivita' e passivita' del FECOM passano automaticamente all'IME.
 
-### ARTICOLO 2
+#### ARTICOLO 2
 
 Obiettivi
 
@@ -4267,7 +4267,7 @@ L'IME contribuisce alla realizzazione delle condizioni necessarie per il passagg
 
 \- esercitando la supervisione sullo sviluppo dell'ECU.
 
-### ARTICOLO 3
+#### ARTICOLO 3
 
 Principi generali
 
@@ -4275,7 +4275,7 @@ Principi generali
 
 3.2. L'IME agisce conformemente agli obiettivi e ai principi stabiliti all'articolo 2 dello statuto del SEBC.
 
-### ARTICOLO 4
+#### ARTICOLO 4
 
 Compiti fondamentali
 
@@ -4315,7 +4315,7 @@ In particolare, conformemente all'articolo 109 F, paragrafo 3 del trattato, l'IM
 
 \- esercita la supervisione sulla preparazione tecnica delle banconote in ECU.
 
-### ARTICOLO 5
+#### ARTICOLO 5
 
 Funzioni consultive
 
@@ -4329,7 +4329,7 @@ Nei limiti e alle condizioni fissati dal Consiglio che delibera a maggioranza qu
 
 5.4. Conformemente all'articolo 109 F, paragrafo 5 del trattato, l'IME puo' decidere di pubblicare i propri pareri e le proprie raccomandazioni.
 
-### ARTICOLO 6
+#### ARTICOLO 6
 
 Funzioni operative e tecniche
 
@@ -4347,7 +4347,7 @@ Funzioni operative e tecniche
 
 6.4. L'IME ha il diritto di detenere e gestire riserve in valuta come agente per le Banche centrali nazionali e a richiesta delle medesime. I profitti e le perdite inerenti a dette riserve spettano alla banca centrale nazionale depositante. L'IME svolge questa funzione sulla base di contratti bilaterali, conformemente alle norme stabilite in una decisione dell'IME. Tali norme garantiscono che le operazioni effettuate con dette riserve non interferiscano con la politica monetaria e la politica del cambio della competente autorita' monetaria di uno Stato membro e siano coerenti con gli obiettivi dell'IME e con il corretto funzionamento del meccanismo di cambio dello SME.
 
-### ARTICOLO 7
+#### ARTICOLO 7
 
 Altri compiti
 
@@ -4355,13 +4355,13 @@ Altri compiti
 
 7.2. Conformemente alle decisioni del Consiglio di cui all'articolo 109 F, paragrafo 7 del presente trattato, l'IME puo' assolvere altri compiti per la preparazione della terza fase.
 
-### ARTICOLO 8
+#### ARTICOLO 8
 
 Indipendenza
 
 I membri del Consiglio dell'IME che sono i rappresentanti delle loro istituzioni agiscono, per quanto riguarda le loro attivita' , conformemente alle proprie responsabilita'. Nell'esercizio dei poteri e nell'adempimento dei compiti e dei doveri ad esso conferiti dal trattato e dal presente statuto, il Consiglio dell'IME non puo' chiedere o ricevere istruzioni da istituzioni o organismi comunitari o dai Governi degli Stati membri. Le istituzioni e gli organismi comunitari, nonche' i Governi degli Stati membri, si impegnano a rispettare questo principio e a non cercare di influenzare il Consiglio dell'IME nell'assolvimento dei suoi compiti.
 
-### ARTICOLO 9
+#### ARTICOLO 9
 
 Amministrazione
 
@@ -4389,7 +4389,7 @@ In assenza del Presidente, i suoi compiti sono esercitati dal Vicepresidente.
 
 9.8. Il regolamento interno dell'IME e' adottato dal Consiglio dell'IME.
 
-### ARTICOLO 10
+#### ARTICOLO 10
 
 Riunioni del Consiglio dell'IME e procedure di voto
 
@@ -4403,7 +4403,7 @@ Riunioni del Consiglio dell'IME e procedure di voto
 
 L'adozione di pareri e raccomandazioni ai sensi degli articoli 5.1 e 5.2, l'adozione di decisioni conformemente agli articoli 6.4, 16 e 23.6 nonche' l'adozione di indirizzi ai sensi dell'articolo 15.3 richiedono la maggioranza qualificata dei due terzi dei membri del Consiglio dell'IME.
 
-### ARTICOLO 11
+#### ARTICOLO 11
 
 Cooperazione interistituzionale e obblighi di rendiconto
 
@@ -4417,25 +4417,25 @@ Il Presidente dell'IME puo' essere ascoltato, a richiesta del Parlamento europeo
 
 11.4. I rapporti pubblicati dall'IME vengono messi gratuitamente a disposizione delle parti interessate.
 
-### ARTICOLO 12
+#### ARTICOLO 12
 
 Moneta di denominazione
 
 Le operazioni dell'IME sono espresse in ECU.
 
-### ARTICOLO 13
+#### ARTICOLO 13
 
 Sede
 
 Entro la fine del 1992, la decisione sulla sede dell'IME sara' adottata di comune accordo dai Governi degli Stati membri a livello di Capi di Stato o di Governo.
 
-### ARTICOLO 14
+#### ARTICOLO 14
 
 Capacita' giuridica
 
 L'IME, che conformemente all'articol 109 F, paragrafo 1 del trattato e' dotato di personalita' giuridica, ha in ciascuno degli Stati membri la piu' ampia capacita' giuridica riconosciuta dalle rispettive legislazioni nazionali alle persone giuridiche; esso puo', in particolare, acquistare e alienare beni mobili o immobili e stare in giudizio.
 
-### ARTICOLO 15
+#### ARTICOLO 15
 
 Atti giuridici
 
@@ -4453,7 +4453,7 @@ Atti giuridici
 
 15.4. Fatto salvo l'articolo 3.1, una decisione dell'IME e' vincolante in tutti i suoi elementi per i destinatari. Gli articoli 190 e 191 del trattato si applicano a dette decisioni.
 
-### ARTICOLO 16
+#### ARTICOLO 16
 
 Risorse finanziarie
 
@@ -4463,7 +4463,7 @@ Risorse finanziarie
 
 16.3. Il Consiglio dell'IME, deliberando alla maggioranza qualificata, determina la forma di versamento dei contributi.
 
-### ARTICOLO 17
+#### ARTICOLO 17
 
 Conti annuali e revisione dei conti
 
@@ -4487,7 +4487,7 @@ nazionali in conformita' dello schema di cui all'articolo 16.2.
 
 17.6. Nel caso in cui l'IME subisca una perdita, il deficita' e' compensato dal fondo generale di riserva dell'IME. I resti di deficita' residuo sono coperti con contributi delle Banche centrali nazionali in conformita' dello schema di cui all'articolo 16.2.
 
-### ARTICOLO 18
+#### ARTICOLO 18
 
 Organico
 
@@ -4495,7 +4495,7 @@ Organico
 
 18.2. La Corte di giustizia ha giurisdizione su tutte le controversie tra l'IME e i propri dipendenti nei limiti e alle condizioni specificate nelle condizioni di impiego.
 
-### ARTICOLO 19
+#### ARTICOLO 19
 
 Controllo giudiziario e materie connesse
 
@@ -4509,7 +4509,7 @@ Controllo giudiziario e materie connesse
 
 19.5. La decisione dell'IME di portare una controversia dinanzi alla Corte di giustizia e' presa dal Consiglio dell'IME.
 
-### ARTICOLO 20
+#### ARTICOLO 20
 
 Segreto professionale
 
@@ -4517,7 +4517,7 @@ Segreto professionale
 
 20.2. Le persone che hanno accesso ai dati coperti da una normativa comunitaria che prevede uno specifico obbligo di riservatezza sono soggette all'applicazione di tali norme.
 
-### ARTICOLO 21
+#### ARTICOLO 21
 
 Privilegi e immunita'
 
@@ -4525,13 +4525,13 @@ L'IME beneficia sul territorio degli Stati membri dei privilegi e delle immunita
 
 Consiglio unico e una Commissione unica delle Comunita' europee.
 
-### ARTICOLO 22
+#### ARTICOLO 22
 
 Poteri di firma
 
 L'IME e' legalmente vincolato nei confronti di terzi dal suo Presidente o dal Vicepresidente ovvero dalla firma di due membri del personale dell'IME che siano stati debitamente autorizzati dal Presidente a firmare per conto dell'IME.
 
-### ARTICOLO 23
+#### ARTICOLO 23
 
 Liquidazione dell'IME
 
@@ -4565,7 +4565,7 @@ HANNO CONVENUTO le disposizioni seguenti, che sono allegate al
 
 trattato che istituisce la Comunita' europea:
 
-### ARTICOLO 1
+#### ARTICOLO 1
 
 I valori di riferimento di cui all'articolo 104 C, paragrafo 2, del trattato sono:
 
@@ -4573,7 +4573,7 @@ I valori di riferimento di cui all'articolo 104 C, paragrafo 2, del trattato son
 
 \- il 60% per il rapporto fra il debito pubblico e il prodotto interno loro ai prezzi di mercato.
 
-### ARTICOLO 2
+#### ARTICOLO 2
 
 Nell'articolo 104 C del trattato e nel presente protocollo:
 
@@ -4585,11 +4585,11 @@ Nell'articolo 104 C del trattato e nel presente protocollo:
 
 \- per debito, si intende il debito lordo al valore nominale in essere alla fine dell'esercizio e consolidato tra e nei settori della pubblica amministrazione quale definita nel primo trattino.
 
-### ARTICOLO 3
+#### ARTICOLO 3
 
 Al fine di garantire l'efficacia della procedura per i disavanzi eccessivi, i Governi degli Stati membri, ai sensi della stessa, sono responsabili dei disavanzi della pubblica amministrazione come definita all'articolo 2 primo trattino del presente protocollo. Gli Stati membri assicurano che le procedure nazionali in materia di bilancio consentano loro di rispettare gli obblighi derivanti dal trattato in questo settore. Gli Stati membri riferiscono alla Commissione, tempestivamente e regolarmente, in merito al loro disavanzo, previsto ed effettivo, nonche' al livello del loro debito.
 
-### ARTICOLO 4
+#### ARTICOLO 4
 
 I dati statistici da utilizzare per l'applicazione del presente protocollo sono forniti dalla Commissione.
 
@@ -4609,29 +4609,29 @@ HANNO CONVENUTO le disposizioni seguenti, che sono allegate al
 
 trattato che istituisce la Comunita' europea:
 
-### ARTICOLO 1
+#### ARTICOLO 1
 
 Il criterio relativo alla stabilita' dei prezzi di cui all'articolo 109 J, paragrafo 1, primo trattino, del trattato, significa che gli Stati membri hanno un andamento dei prezzi che e' sostenibile ed un tasso medio d'inflazione che, osservato per un periodo di un anno anteriormente all'esame, non supera di oltre 1,5 punti percentuali quello dei tre Stati membri, al massimo, che hanno conseguito i migliori risultati in termini di stabilita' dei prezzi.
 
 L'inflazione si misura mediante l'indice dei prezzi al consumo (IPC) calcolato su base comparabile, tenendo conto delle differenze delle definizioni nazionali.
 
-### ARTICOLO 2
+#### ARTICOLO 2
 
 Il criterio relativo alla situazione di bilancio pubblico di cui all'articolo 109 J, paragrafo 1, secondo trattino del trattato, significa che, al momento dell'esame, lo Stato membro non e' oggetto di una decisione del Consiglio di cui all'articolo 104 C, paragrafo 6 del trattato, circa l'esistenza di un disavanzo eccessivo.
 
-### ARTICOLO 3
+#### ARTICOLO 3
 
 Il criterio relativo alla partecipazione al Meccanismo di cambio del Sistema monetario europeo di cui all'articolo 109 J, paragrafo 1, terzo trattino, del trattato, significa che lo Stato membro ha rispettato i normali margini di fluttuazione stabiliti dal Meccanismo di cambio del Sistema monetario europeo senza gravi tensioni per almeno due anni prima dell'esame. In particolare, e, per lo stesso periodo, non deve aver svalutato di propria iniziativa il tasso di cambio centrale bilaterale della sua moneta nei confronti della moneta di nessun altro Stato membro.
 
-### ARTICOLO 4
+#### ARTICOLO 4
 
 Il criterio relativo alla convergenza dei tassi d'interesse di cui all'articolo 109 J, paragrafo 1, quarto trattino del presente trattato, significa che il tasso d'interesse nominale a lungo termine di uno Stato membro osservato in media nell'arco di un anno prima dell'esame non ha ecceduto di oltre 2 punti percentuali quello dei tre Stati membri, al massimo, che hanno conseguito i migliori risultati in termini di stabilita' dei prezzi. I tassi di interesse si misurano sulla base delle obbligazioni a lungo termine emesse dallo Stato o sulla base di titoli analoghi, tenendo conto delle differenze nelle definizioni nazionali.
 
-### ARTICOLO 5
+#### ARTICOLO 5
 
 I dati statistici da usare per l'applicazione del presente protocollo sono forniti dalla Commissione.
 
-### ARTICOLO 6
+#### ARTICOLO 6
 
 Il Consiglio, deliberando all'unanimita' su proposta della Commissione e previa consultazione del Parlamento europeo, dell'IME o della BCE, a seconda dei casi, nonche' del Comitato di cui all'articolo 109 C del trattato, adotta le disposizioni atte a precisare i dettagli dei criteri di convergenza di cui all'articolo 109 J del trattato, che pertanto sono destinate a sostituire il presente protocollo.
 
@@ -4653,7 +4653,7 @@ HANNO CONVENUTO le disposizioni seguenti, che sono allegate al
 
 trattato che istituisce la Comunita' europea:
 
-### ARTICOLO UNICO
+#### ARTICOLO UNICO
 
 Al protocollo sui privilegi e sulle immunita' delle Comunita' europee, allegato al trattato che istituisce un Consiglio unico e una Commissione unica delle Comunita' europee, sono aggiunte le seguenti disposizioni:
 
@@ -4665,7 +4665,7 @@ La Banca centrale europea sara', inoltre, esente da qualsiasi forma fiscale e pa
 
 Le disposizioni di cui sopra si applicano altresi' all'Istituto monetario europeo. Il suo scioglimento e la sua liquidazione non comporteranno alcuna imposizione fiscale".
 
-### Protocollo
+#### Protocollo
 
 PROTOCOLLO
 
@@ -4683,7 +4683,7 @@ Le disposizioni dell'articolo 14 del protocollo sullo statuto del Sistema europe
 
 Danimarca che non fanno parte della Comunita'
 
-### Protocollo
+#### Protocollo
 
 PROTOCOLLO
 
@@ -4701,7 +4701,7 @@ trattato che istituisce la Comunita' europea:
 
 2\. Il Portogallo si impegna a continuare ad adoperarsi al massimno per por fine al piu' presto a tale facilitazione creditizia.
 
-### Protocollo
+#### Protocollo
 
 PROTOCOLLO
 
@@ -4719,7 +4719,7 @@ Qualora la data di inizio della terza fase non sia ancora stata fissata alla fin
 
 Il presente protocollo e' allegato al trattato che istituisce la Comunita' europea.
 
-### Protocollo
+#### Protocollo
 
 PROTOCOLLO
 
@@ -4785,7 +4785,7 @@ Se il Regno Unito passa alla terza conformemente alle disposizioni del presente 
 
 11\. In deroga alle disposizioni degli articoli 104 e 109 E, paragrafo 3 del trattato e dell'articolo 21.1 dello statuto, il Governo del Regno Unito puo' mantenere la linea di credito ("Ways and Means") presso la Banca d'Inghilterra fintantoche' il Regno Unito non passi alla terza fase.
 
-### Protocollo
+#### Protocollo
 
 PROTOCOLLO
 
@@ -4813,7 +4813,7 @@ trattato che istituisce la Comunita' europea:
 
 5\. In caso di abrogazione dell'esenzione non si applicano piu' le disposizioni del presente protocollo.
 
-### Protocollo
+#### Protocollo
 
 PROTOCOLLO
 
@@ -4831,7 +4831,7 @@ La Francia manterra' il privilegio dell'emissione monetaria nei suoi territori d
 
 parita' del franco CFP.
 
-### Protocollo
+#### Protocollo
 
 PROTOCOLLO
 
@@ -4869,13 +4869,13 @@ TENENDO CONTO del protocollo sulla politica sociale,
 
 HANNO CONVENUTO quanto segue:
 
-### ARTICOLO 1
+#### ARTICOLO 1
 
 La Comunita' e gli Stati membri hanno come obiettivi la promozione dell'occupazione, il miglioramento delle condizioni di vita e di lavoro, una protezione sociale adeguata, il dialogo sociale, lo sviluppo delle risorse umane atto a consentire un livello occupazionale elevato e duraturo la lotta contro le esclusioni. A tal fine, la Comunita' e gli Stati membri mettono in atto misure che tengono conto della diversita' delle prassi nazionali, in particolare nelle relazioni contrattuali, e della necessita' di
 
 mantenere la competitivita' dell'economia della Comunita'.
 
-### ARTICOLO 2
+#### ARTICOLO 2
 
 1\. Per conseguire gli obiettivi previsti all'articolo 1, la Comunita' sostiene e completa l'azione degli Stati membri nei seguenti settori:
 
@@ -4915,7 +4915,7 @@ In tal caso esso si assicura che, al piu' tardi alla data in cui una direttiva d
 
 6\. Le disposizioni del presente articolo non si applicano alle retribuzioni, al diritto di associazione, al diritto di sciopero ne' al diritto di serrata.
 
-### ARTICOLO 3
+#### ARTICOLO 3
 
 1\. La Commissione ha il compito di promuovere la consultazione delle parti sociali a livello comunitario e prende ogni misura utile per facilitarne il dialogo provvedendo ad un sostegno equilibrato delle parti.
 
@@ -4925,7 +4925,7 @@ In tal caso esso si assicura che, al piu' tardi alla data in cui una direttiva d
 
 4\. In occasione della consultazione le parti sociali possono informare la Commissione della loro volonta' di avviare il processo previsto dall'articolo 4. La durata della procedura non potra' super- are nove mesi, salvo proroga decisa in comune dalle parti sociali interessate e dalla Commissione.
 
-### ARTICOLO 4
+#### ARTICOLO 4
 
 1\. Il dialogo fra le parti sociali a livello comunitario puo' condurre, se queste lo desiderano, a relazioni contrattuali, ivi compresi accordi.
 
@@ -4933,11 +4933,11 @@ In tal caso esso si assicura che, al piu' tardi alla data in cui una direttiva d
 
 Il Consiglio delibera a maggioranza qualificata, salvo allorche' l'accordo in questione contiene una o piu' disposizioni relative ad uno dei settori di cui all'articolo 2, paragrafo 3, nel qual caso esso delibera all'unanimita'.
 
-### ARTICOLO 5
+#### ARTICOLO 5
 
 Per conseguire gli obiettivi dell'articolo 1 e fatte salve le altre disposizioni del trattato, la Commissione incoraggia la cooperazione tra gli Stati membri e facilita il coordinamento della loro azione nei settori della politica sociale contemplati dal presente accordo.
 
-### ARTICOLO 6
+#### ARTICOLO 6
 
 1\. Ciascuno Stato membro assicura l'applicazione del principio della parita' di retribuzione tra lavoratori di sesso maschile e quelli di sesso femminile per uno stesso lavoro.
 
@@ -4951,13 +4951,13 @@ b) che la retribuzione corrisposta per un lavoro pagato a tempo sia uguale per u
 
 3\. Il presente articolo non osta a che uno Stato membro mantenga o adotti misure che prevedano vantaggi specifici intesi a facilitare l'esercizio di un'attivita' professionale da parte delle donne ovvero a evitare o compensare svantaggi nella loro carriera professionale.
 
-### ARTICOLO 7
+#### ARTICOLO 7
 
 La Commissione elabora una elazione annuale sugli sviluppi nella realizzazione degli obiettivi dell'articolo 1, compresa la situazione demografica nella Comunita'. Essa trasmette la relazione al Parlamento europeo, al Consiglio e al Comitato economico e sociale.
 
 Il Parlamento europeo puo' invitare la Commissione ad elaborare relazioni sui problemi particolari concernenti la situazione sociale.
 
-### Dichiarazioni
+#### Dichiarazioni
 
 DICHIARAZIONI
 
@@ -4969,7 +4969,7 @@ Le undici Alte Parti Contraenti prendono atto che nelle discussioni sull'articol
 
 Le undici Alte Parti Contraenti dichiarano che la prima delle modalita' d'applicazione degli accordi fra le parti sociali a livello comunitario, cui l'articolo 4 paragrafo 2 fa riferimento, consistera' nello sviluppare, attraverso un negoziato collettivo e secondo le norme di ciascuno Stato membro, il contenuto di detti accordi e che pertanto tale modalita' non implica l'obbligo per gli Stati membri di applicare direttamente detti accordi o di elaborare norme per il loro recepimento ne' l'obbligo di modificare le disposizioni interne in vigore per facilitarne l'attuazione.
 
-### Protocollo
+#### Protocollo
 
 PROTOCOLLO
 
@@ -5019,7 +5019,7 @@ CONVENGONO di allegare il presente protocollo al trattato che
 
 istituisce la Comunita' europea.
 
-### Protocollo
+#### Protocollo
 
 PROTOCOLLO
 
@@ -5035,7 +5035,7 @@ che istituisce la Comunita' europea:
 
 Il Comitato economico e sociale e il Comitato delle Regioni hanno una struttura organizzativa comune.
 
-### Protocollo
+#### Protocollo
 
 PROTOCOLLO
 
@@ -5051,7 +5051,7 @@ Comunita' europee:
 
 Nessuna disposizione del Trattato sull'Unione europea, dei trattati che istituiscono le Comunita' europee e dei trattati o degli atti che li modificano o li integrano pregiudica l'applicazione in Irlanda dell'articolo 40.3.3. della Costituzione irlandese.
 
-### Atto finale
+#### Atto finale
 
 ATTO FINALE
 
@@ -5203,7 +5203,7 @@ politica estera e di sicurezza comune
 
 Fatto a Maastricht, il sette febbraio millenovecentonovantadue.
 
-### Dichiarazioni
+#### Dichiarazioni
 
 DICHIARAZIONE
 

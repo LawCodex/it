@@ -30,11 +30,9 @@ la seguente legge:
 
 ## TITOLO I - ORDINAMENTO DELLA GIURISDIZIONE AMMINISTRATIVA
 
-### CAPO I
+### CAPO I - CONSIGLIO DI STATO
 
-#### CONSIGLIO DI STATO
-
-##### Art. 1 - Composizione
+#### Art. 1 - Composizione
 
 Il Consiglio di Stato e' composto dal presidente del Consiglio di Stato, da presidenti di sezione e da consiglieri di Stato, secondo la tabella A allegata alla presente legge.
 
@@ -46,7 +44,7 @@ Per le sezioni consultive del Consiglio di Stato le deliberazioni sono valide se
 
 Il Presidente del Consiglio di Stato, con proprio provvedimento, all'inizio di ogni anno, sentito il Consiglio di Presidenza, individua le sezioni che svolgono funzioni giurisdizionali e consultive, determina le rispettive materie di competenza e la composizione, nonche' la composizione della Adunanza Plenaria ai sensi dell'articolo 5, primo comma.
 
-##### Art. 2 - Passaggio dalle sezioni consultive alle sezioni giurisdizionali
+#### Art. 2 - Passaggio dalle sezioni consultive alle sezioni giurisdizionali
 
 Il presidente del Consiglio di Stato, all'inizio di ogni anno, stabilisce la composizione delle sezioni consultive e delle sezioni giurisdizionali sulla base dei criteri fissati dal consiglio di presidenza anche per consentire l'avvicendamento dei magistrati fra le sezioni consultive e le sezioni giurisdizionali, nonche' l'avvicendamento nell'ambito delle sezioni consultive e delle sezioni giurisdizionali.
 
@@ -54,13 +52,13 @@ I presidenti delle sezioni giurisdizionali determinano, all'inizio di ogni anno,
 
 Qualora manchi in una sezione consultiva o in una sezione giurisdizionale il numero dei consiglieri necessario per deliberare, il presidente del Consiglio di Stato provvede alla supplenza con consiglieri appartenenti rispettivamente ad altre sezioni consultive o giurisdizionali.
 
-##### Art. 3 - Adunanza generale
+#### Art. 3 - Adunanza generale
 
 L'adunanza generale del Consiglio di Stato e' convocata dal presidente del Consiglio di Stato, che la presiede, ed e' composta da tutti i magistrati in servizio presso il Consiglio di Stato.
 
 Le funzioni di segretario sono svolte dal segretario generale del Consiglio di Stato o, in caso di sua assenza o impedimento, dal consigliere di Stato meno anziano nella qualifica fra i presenti.
 
-##### Art. 4
+#### Art. 4
 
 (( (Ufficio del segretariato generale della giustizia amministrativa).))
 
@@ -78,13 +76,13 @@ Le funzioni di segretario sono svolte dal segretario generale del Consiglio di S
 
 7\. Agli oneri derivanti dall'attuazione del presente articolo si provvede nei limiti degli ordinari stanziamenti di bilancio)).
 
-##### Art. 5
+#### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 LUGLIO 2010, N. 104))
 
-## CAPO II - TRIBUNALI AMMINISTRATIVI REGIONALI
+### CAPO II - TRIBUNALI AMMINISTRATIVI REGIONALI
 
-##### Art. 6 - Composizione dei tribunali amministrativi regionali
+#### Art. 6 - Composizione dei tribunali amministrativi regionali
 
 I tribunali amministrativi regionali sono composti da: presidenti di tribunale, consiglieri, primi referendari e referendari, secondo la tabella A allegata alla presente legge.
 
@@ -108,9 +106,9 @@ In caso di assenza o di impedimento di magistrati, si applica l'articolo 7 del d
 
 In caso di assenza o di impedimento del presidente del tribunale amministrativo regionale o del presidente della sezione del tribunale amministrativo regionale, ovvero in caso di vacanza temporanea, le funzioni di presidente sono esercitate dal magistrato che ricopre la piu' elevata qualifica e, in caso di parita', dal piu' anziano nella qualifica.
 
-## CAPO III - CONSIGLIO DI PRESIDENZA
+### CAPO III - CONSIGLIO DI PRESIDENZA
 
-##### Art. 7 - Composizione del consiglio di presidenza
+#### Art. 7 - Composizione del consiglio di presidenza
 
 1\. In attesa del generale riordino dell'ordinamento della giustizia amministrativa sulla base della unicita' di accesso e di carriera, con esclusione di automatismi collegati all'anzianita' di servizio, il consiglio di presidenza e' costituito con decreto del Presidente della Repubblica su proposta del Presidente del Consiglio dei ministri. Esso ha sede in Roma, presso il Consiglio di Stato, ed e' composto:
 
@@ -146,7 +144,7 @@ AGGIORNAMENTO (14)
 
 Successivamente la Corte Costituzionale, con sentenza 5 dicembre 2017-30 gennaio 2018, n. 10 (in G.U. 1ª s.s. 07/02/2018, n. 6), ha dichiarato l'illegittimita' costituzionale dell'art. 1, comma 2, del D.Lgs. 7 febbraio 2006, n. 62 (che ha abrogato il comma 4 del presente articolo), nella parte in cui ha disposto l'abrogazione del comma 4 dell'art. 7 della presente legge.
 
-##### Art. 8 - Ineleggibilita
+#### Art. 8 - Ineleggibilita
 
 Non sono eleggibili al consiglio di presidenza i magistrati che, al momento della indizione delle elezioni, non esercitino funzioni istituzionali.
 
@@ -154,7 +152,7 @@ Non possono essere eletti componenti del consiglio di presidenza, e sono altresi
 
 Sono tuttavia eleggibili, ed hanno altresi' diritto al voto, i magistrati sottoposti a censura, quando dalla data del relativo provvedimento siano trascorsi almeno tre anni e non sia intervenuta altra sanzione disciplinare.
 
-##### Art. 9 - Elezione del consiglio di presidenza e proclamazione degli eletti
+#### Art. 9 - Elezione del consiglio di presidenza e proclamazione degli eletti
 
 Per l'elezione dei componenti elettivi del consiglio di presidenza e' istituito presso il Consiglio di Stato l'ufficio elettorale nominato dal presidente del Consiglio di Stato e composto da un presidente di sezione del Consiglio stesso o da un presidente di tribunale amministrativo regionale, che lo presiede, nonche' dai due consiglieri piu' anziani nella qualifica in servizio presso il Consiglio di Stato.
 
@@ -178,7 +176,7 @@ AGGIORNAMENTO (14)
 
 Successivamente la Corte Costituzionale, con sentenza 5 dicembre 2017-30 gennaio 2018, n. 10 (in G.U. 1ª s.s. 07/02/2018, n. 6), ha dichiarato l'illegittimita' costituzionale dell'art. 1, comma 2, del D.Lgs. 7 febbraio 2006, n. 62 (che ha modificato il comma 3 del presente articolo) "nella parte in cui ha modificato l'art. 9, terzo comma, della legge 27 aprile 1982, n. 186 [...], prevedendo che «[I]n caso di dimissioni o di cessazione di uno o piu' membri elettivi dall'incarico per qualsiasi causa nel corso del quadriennio, sono indette elezioni suppletive tra i magistrati appartenenti al corrispondente gruppo elettorale per designare, per il restante periodo, il sostituto del membro decaduto o dimessosi»".
 
-##### Art. 10 - Contestazioni e reclami
+#### Art. 10 - Contestazioni e reclami
 
 L'ufficio elettorale decide a maggioranza sulle contestazioni sorte durante le operazioni di voto, nonche' su quelle relative alla validita' delle schede, dandone atto nel verbale delle operazioni elettorali.
 
@@ -186,13 +184,13 @@ I reclami relativi alla eleggibilita' e alle operazioni elettorali vanno indiriz
 
 Il consiglio di presidenza decide sui reclami nella sua prima adunanza.
 
-##### Art. 11 - Scioglimento del consiglio di presidenza
+#### Art. 11 - Scioglimento del consiglio di presidenza
 
 Il consiglio di presidenza, qualora ne sia impossibile il funzionamento, e' sciolto con decreto del Presidente della Repubblica, su proposta del Presidente del Consiglio dei ministri, previa deliberazione del Consiglio dei ministri.
 
 Le nuove elezioni sono indette entro un mese dalla data di scioglimento.
 
-##### Art. 12 - Validita' delle deliberazioni e convocazioni
+#### Art. 12 - Validita' delle deliberazioni e convocazioni
 
 Per la validita' delle deliberazioni del consiglio di presidenza e' necessaria la presenza di almeno nove componenti.
 
@@ -202,7 +200,7 @@ Il consiglio delibera a scrutinio segreto sui provvedimenti riguardanti persone 
 
 Il consiglio di presidenza e' convocato dal presidente o, in sua assenza, dal vice presidente, anche su richiesta di almeno un terzo dei suoi componenti.
 
-##### Art. 13 - Attribuzioni del consiglio di presidenza
+#### Art. 13 - Attribuzioni del consiglio di presidenza
 
 Il consiglio di presidenza:
 
@@ -250,11 +248,9 @@ Il consiglio di presidenza puo' disporre ispezioni sui servizi di segreteria del
 
 ## TITOLO II - PERSONALE DI MAGISTRATURA
 
-### CAPO I
+### CAPO I - DISTINZIONE PER FUNZIONI E QUALIFICHE
 
-#### DISTINZIONE PER FUNZIONI E QUALIFICHE
-
-##### Art. 14 - Qualifiche
+#### Art. 14 - Qualifiche
 
 I magistrati di cui alla presente legge si distinguono in:
 
@@ -266,7 +262,7 @@ I magistrati di cui alla presente legge si distinguono in:
 
 4\) consiglieri di tribunale amministrativo regionale, primi referendari e referendari.
 
-##### Art. 15 - Funzioni dei magistrati amministrativi
+#### Art. 15 - Funzioni dei magistrati amministrativi
 
 Sono magistrati con funzioni direttive quelli di cui ai numeri 1) e 2) dell'articolo precedente.
 
@@ -278,9 +274,9 @@ I magistrati di cui al n. 4) dell'articolo precedente esercitano funzioni giuris
 
 I consiglieri di tribunale amministrativo regionale esercitano, altresi', le funzioni di presidente delle sezioni staccate e di quelle previste dall'articolo 6, secondo e quinto comma, della presente legge.
 
-## CAPO II - AMMISSIONE IN SERVIZIO, PROGRESSIONE E RUOLI ORGANICI
+### CAPO II - AMMISSIONE IN SERVIZIO, PROGRESSIONE E RUOLI ORGANICI
 
-##### Art. 16 - Ammissione alla magistratura amministrativa
+#### Art. 16 - Ammissione alla magistratura amministrativa
 
 I posti di referendario del ruolo dei magistrati amministrativi sono conferiti in base a pubblico concorso per titoli ed esami, al quale possono partecipare gli appartenenti alle categorie indicate nel primo comma dell'articolo 14 della legge 6 dicembre 1971, n. 1034, che non abbiano superato il quarantacinquesimo anno di eta'.
 
@@ -290,7 +286,7 @@ La commissione esaminatrice e' nominata con decreto del Presidente del Consiglio
 
 Le funzioni di segretario sono svolte da un funzionario dirigente del ruolo del personale di segreteria in servizio presso il Consiglio di Stato.
 
-##### Art. 17 - Nomina a primo referendario
+#### Art. 17 - Nomina a primo referendario
 
 Le qualifiche di consigliere di tribunale amministrativo regionale, di primo referendario e di referendario sono rese cumulative in un'unica dotazione organica.
 
@@ -300,7 +296,7 @@ Alla nomina si provvede con decreto del Presidente della Repubblica, su proposta
 
 La nomina produce effetti giuridici ed economici dal giorno in cui il magistrato ha maturato l'anzianita' prescritta.
 
-##### Art. 18 - Nomina a consigliere di tribunale amministrativo regionale
+#### Art. 18 - Nomina a consigliere di tribunale amministrativo regionale
 
 I primi referendari, al compimento di quattro anni di anzianita' nella qualifica, conseguono la nomina a consigliere di tribunale amministrativo regionale.
 
@@ -310,7 +306,7 @@ Alla nomina si provvede con decreto. del Presidente della Repubblica, su propost
 
 La nomina produce effetti giuridici ed economici dal giorno in cui il magistrato ha maturato l'anzianita' prescritta.
 
-##### Art. 19 - Nomina a consigliere di Stato
+#### Art. 19 - Nomina a consigliere di Stato
 
 I posti che si rendono vacanti nella qualifica di consigliere di Stato sono conferiti:
 
@@ -324,11 +320,11 @@ Il concorso e' indetto dal presidente del Consiglio di Stato nei primi quattro m
 
 Con regolamento approvato dal Consiglio dei ministri, sentito il consiglio di presidenza, saranno stabilite le norme di attuazione e le modalita' di svolgimento del concorso. Nelle more dell'entrata in vigore del nuovo regolamento, si continuano ad applicare gli articoli 3, 4, 5, 6 e 7 del regolamento 21 aprile 1942, n. 444.
 
-##### Art. 20 - Posti vacanti
+#### Art. 20 - Posti vacanti
 
 I posti vacanti, che non siano coperti mediante le quote previste dall'articolo 19, possono essere portati in aumento alle altre categorie, previa proposta del consiglio di presidenza, salvo riassorbimento negli anni successivi.
 
-##### Art. 21 - Nomina a presidente di sezione del Consiglio di Stato ed a presidente di tribunale amministrativo regionale
+#### Art. 21 - Nomina a presidente di sezione del Consiglio di Stato ed a presidente di tribunale amministrativo regionale
 
 I consiglieri di Stato e i consiglieri di tribunale amministrativo regionale, al compimento di otto anni di anzianita' nelle rispettive qualifiche, conseguono la nomina alle qualifiche di cui al n. 2) del precedente articolo 14, nei limiti dei posti disponibili, previo giudizio di idoneita' espresso dal consiglio di presidenza sulla base di criteri predeterminati che tengano conto in ogni caso dell'attitudine all'ufficio direttivo e dell'anzianita' di servizio.
 
@@ -346,7 +342,7 @@ Nei confronti dei consiglieri di Stato in servizio alla data di entrata in vigor
 
 I magistrati del Consiglio di Stato e i magistrati dei tribunali amministrativi regionali possono rinunciare al turno di conferimento delle funzioni direttive previste dal secondo comma del presente articolo; il conferimento delle funzioni puo' essere disposto nei turni successivi, fermo il limite dei posti disponibili, con il consenso degli interessati e con collocamento in ruolo nella stessa posizione che avrebbero occupato in mancanza di rinuncia.
 
-##### Art. 22 - Nomina del presidente del Consiglio di Stato
+#### Art. 22 - Nomina del presidente del Consiglio di Stato
 
 Il presidente del Consiglio di Stato e' nominato tra i magistrati che abbiano effettivamente esercitato per almeno cinque anni funzioni direttive, con decreto del Presidente della Repubblica, su proposta del Presidente del Consiglio dei ministri, previa deliberazione del Consiglio dei ministri, sentito il parere del consiglio di presidenza.
 
@@ -354,7 +350,7 @@ In caso di vacanza del posto le funzioni del presidente del Consiglio di Stato s
 
 La nomina del presidente del Consiglio di Stato ha luogo entro e non oltre trenta giorni dalla vacanza del posto.
 
-##### Art. 23 - Ruolo dei magistrati amministrativi
+#### Art. 23 - Ruolo dei magistrati amministrativi
 
 La tabella A allegata alla presente legge sostituisce la tabella organica del personale di magistratura del Consiglio di Stato, allegata alla legge 21 dicembre 1950, n. 1018, e modificata dalla legge 6 dicembre 1971, n. 1034, nonche' quella di cui all'articolo 12, lettera c), della suddetta legge n. 1034.
 
@@ -384,13 +380,13 @@ Ai primi referendari, ai referendari del Consiglio di Stato ed ai consiglieri di
 
 Per i consiglieri di tribunale amministrativo regionale pervenuti a tale qualifica a norma dell'articolo 16, secondo comma, della legge 6 dicembre 1971, n. 1034, la retrodatazione della nomina prevista dall'articolo 51, primo comma, della presente legge non comporta anteposizione in ruolo rispetto ai consiglieri di Stato che alla data di entrata in vigore della presente legge godevano di una maggiore anzianita' nella qualifica. A tal fine la data della nomina di questi ultimi e' anticipata, ai soli effetti giuridici, nella misura necessaria e sufficiente ad evitare che i predetti consiglieri di tribunale amministrativo regionale li superino nel ruolo.
 
-## CAPO III - GARANZIE, INCOMPATIBILITA', TRATTAMENTO ECONOMICO
+### CAPO III - GARANZIE, INCOMPATIBILITA', TRATTAMENTO ECONOMICO
 
-##### Art. 24 - Garanzie
+#### Art. 24 - Garanzie
 
 I magistrati amministrativi non possono essere dispensati o sospesi dal servizio ne' destinati ad altra sede o funzione se non a seguito di deliberazione del consiglio di presidenza, adottata o con il loro nonsenso o per i motivi stabiliti dalla legge.
 
-##### Art. 25 - Trasferimento d'ufficio
+#### Art. 25 - Trasferimento d'ufficio
 
 I trasferimenti d'ufficio possono essere disposti esclusivamente nelle ipotesi e con i criteri stabiliti dalla legge.
 
@@ -398,21 +394,21 @@ Qualora un tribunale amministrativo regionale non possa funzionare per mancanza 
 
 I magistrati di cui al precedente comma continuano a prestare servizio presso il tribunale di provenienza ed hanno diritto per tutta la durata dell'incarico alla indennita' di missione intera.
 
-##### Art. 26 - Obbligo di residenza
+#### Art. 26 - Obbligo di residenza
 
 I magistrati amministrativi hanno l'obbligo di risiedere stabilmente in un comune della regione ove ha sede l'ufficio presso il quale esercitano le loro funzioni.
 
-##### Art. 27 - Collocamento a riposo per limiti di eta
+#### Art. 27 - Collocamento a riposo per limiti di eta
 
 Si applicano ai magistrati amministrativi le disposizioni previste per i magistrati ordinari in materia di collocamento a riposo per raggiunti limiti di eta'.
 
-##### Art. 28 - Incompatibilita' di funzioni
+#### Art. 28 - Incompatibilita' di funzioni
 
 Ai magistrati amministrativi si applicano, anche per quanto riguarda l'esercizio di compiti diversi da quelli istituzionali e l'accettazione di incarichi di qualsiasi specie, le cause di incompatibilita' e di ineleggibilita' previste per i magistrati ordinari.
 
 E' abrogato l'articolo 6 del regio decreto 26 giugno 1924, n. 1054, e successive modificazioni.
 
-##### Art. 29 - Collocamento fuori ruolo
+#### Art. 29 - Collocamento fuori ruolo
 
 Il collocamento fuori ruolo puo' essere disposto soltanto per i magistrati che abbiano svolto funzioni di istituto per almeno quattro anni.
 
@@ -422,13 +418,13 @@ E' consentito il collocamento fuori ruolo solo per lo svolgimento di funzioni gi
 
 In nessun caso e' consentito il collocamento fuori ruolo di magistrati oltre le 20 unita'.
 
-##### Art. 30 - Trattamento economico
+#### Art. 30 - Trattamento economico
 
 Si applicano ai magistrati amministrativi le norme di legge previste per i magistrati ordinari in materia di trattamento economico onnicomprensivo, di prima sistemazione e di trasferimento, nonche' di indennita' di missione.
 
-## CAPO IV - SORVEGLIANZA E DISCIPLINA
+### CAPO IV - SORVEGLIANZA E DISCIPLINA
 
-##### Art. 31 - Sorveglianza
+#### Art. 31 - Sorveglianza
 
 II Presidente del Consiglio dei ministri esercita l'alta sorveglianza su tutti gli uffici e su tutti i magistrati e riferisce annualmente al Parlamento con una relazione sullo stato della giustizia amministrativa e sugli incarichi conferiti a norma del terzo comma del precedente articolo 29.
 
@@ -436,11 +432,11 @@ Il presidente del Consiglio di Stato esercita la vigilanza su tutti gli uffici e
 
 I magistrati con funzioni direttive esercitano la vigilanza sugli uffici cui sono preposti e sui magistrati che ne fanno parte.
 
-##### Art. 32 - Disciplina
+#### Art. 32 - Disciplina
 
 Per quanto non diversamente disposto dalla presente legge si applicano ai magistrati le norme previste per i magistrati ordinari in materia di sanzioni disciplinari e del relativo procedimento.
 
-##### Art. 33 - Titolarita' dell'azione disciplinare ed istruttoria del procedimento
+#### Art. 33 - Titolarita' dell'azione disciplinare ed istruttoria del procedimento
 
 Il procedimento disciplinare e' promosso dal Presidente del Consiglio dei ministri o dal presidente del Consiglio di Stato.
 
@@ -448,7 +444,7 @@ Il consiglio di presidenza, nel termine di 10 giorni dal ricevimento della richi
 
 Sulla base delle risultanze emerse, il consiglio di presidenza provvede a contestare i fatti al magistrato con invito a presentare entro 30 giorni le sue giustificazioni, a seguito delle quali, ove non ritenga di archiviare gli atti, incarica la commissione prevista dal secondo comma di procedere alla istruttoria, che deve essere conclusa entro 90 giorni con deposito dei relativi atti presso la segreteria del consiglio di presidenza. Di tali deliberazioni deve essere data immediata comunicazione all'interessato.
 
-##### Art. 34 - Decisione del procedimento disciplinare
+#### Art. 34 - Decisione del procedimento disciplinare
 
 Il presidente del Consiglio di Stato, trascorso comunque il termine di cui all'ultimo comma dell'articolo precedente, fissa la data della discussione dinanzi al consiglio di presidenza con decreto da notificarsi almeno quaranta giorni prima all'interessato, il quale puo' prendere visione ed estrarre copia degli atti e depositare le sue difese non oltre dieci giorni prima della discussione.
 
@@ -460,19 +456,17 @@ AGGIORNAMENTO (10)
 
 La Corte Costituzionale, con sentenza 11 - 27 marzo 2009, n. 87 (in G.U. 1ª s.s. 1/4/2009 n. 13), ha dichiarato l'illegittimita' costituzionale del secondo comma, del presente articolo, nella parte in cui esclude che il magistrato amministrativo o contabile, sottoposto a procedimento disciplinare, possa farsi assistere da un avvocato.
 
-## TITOLO III - ORDINAMENTO DEL PERSONALE DI SEGRETERIA DEL CONSIGLIO DI STATO E DEI
+## TITOLO III - ORDINAMENTO DEL PERSONALE DI SEGRETERIA DEL CONSIGLIO DI STATO E DEI TRIBUNALI AMMINISTRATIVI REGIONALI
 
-### TRIBUNALI AMMINISTRATIVI REGIONALI
+### CAPO I - ORDINAMENTO
 
-#### CAPO I - ORDINAMENTO
-
-##### Art. 35 - Ruoli organici
+#### Art. 35 - Ruoli organici
 
 Per le esigenze di funzionamento del Consiglio di Stato, del consiglio di amministrazione di cui al successivo articolo 38, della segreteria del consiglio di presidenza di cui al precedente articolo 7 e dei tribunali amministrativi regionali, i ruoli organici del personale dirigente, direttivo, di concetto, esecutivo, di dattilografia, ausiliario e ausiliario tecnico sono stabiliti dalle tabelle B, C, D, E, F e G, allegate alla presente legge, in sostituzione di quelle allegate al decreto del Presidente del Consiglio di ministri 4 febbraio 1971, e successive modificazioni, nonche' al decreto del Presidente della Repubblica 30 giugno 1972, n. 748.
 
 Le assegnazioni ed i trasferimenti di sede sono disposti dal presidente del Consiglio di Stato, sentito il consiglio di presidenza.
 
-##### Art. 36 - Ruoli e attribuzioni
+#### Art. 36 - Ruoli e attribuzioni
 
 Per quanto non diversamente disposto dalla presente legge i ruoli e le attribuzioni del personale di segreteria ed ausiliario del Consiglio di Stato e dei tribunali amministrativi regionali restano stabiliti dalla legge 10 aprile 1964, n. 193, dal decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077, dal decreto del Presidente della Repubblica 30 giugno 1972, n. 748, dalla legge 11 luglio 1980, n. 312, e successive modificazioni.
 
@@ -480,7 +474,7 @@ Il presidente del Consiglio di Stato ed i presidenti dei tribunali amministrativ
 
 Possono, inoltre, con proprio decreto, affidare ad impiegati del ruolo esecutivo il compito di notificare nelle forme di rito gli avvisi di segreteria. Tale incarico non da' titolo ad attribuzione di speciali compensi salvo rimborso spese.
 
-##### Art. 37 - Direttore capo di segreteria del Consiglio di Stato e segretari generali dei tribunali amministrativi regionali
+#### Art. 37 - Direttore capo di segreteria del Consiglio di Stato e segretari generali dei tribunali amministrativi regionali
 
 Il direttore capo di segreteria del Consiglio di Stato e i segretari generali dei tribunali amministrativi regionali dirigono i servizi di segreteria, rispettivamente, del Consiglio di Stato e dei tribunali amministrativi regionali. Essi promuovono i provvedimenti che reputano opportuni al buon andamento dei rispettivi uffici.
 
@@ -490,7 +484,7 @@ In caso di assenza o impedimento dell'impiegato con qualifica di dirigente, o in
 
 Al direttore capo di segreteria del Consiglio di Stato sono inoltre affidate le funzioni di capo del personale previste dall'articolo 10 del decreto del Presidente della Repubblica 30 giugno 1972, n. 748.
 
-##### Art. 38 - Consiglio di amministrazione
+#### Art. 38 - Consiglio di amministrazione
 
 Il consiglio di amministrazione per il personale, di cui al presente titolo, e' presieduto da un presidente di sezione del Consiglio di Stato o da un presidente di tribunale amministrativo regionale ed e' composto dal segretario generale del Consiglio di Stato, da tre consiglieri di Stato, da tre consiglieri di tribunale amministrativo regionale designati dal consiglio di presidenza, dal direttore capo di segreteria del Consiglio di Stato e da quattro rappresentanti eletti dal personale con le modalita' previste dal regolamento approvato con decreto del Presidente della Repubblica 22 luglio 1977, n. 721, e successive modificazioni.
 
@@ -500,7 +494,7 @@ Le funzioni di segretario sono svolte da un impiegato del ruolo direttivo con pr
 
 Agli uffici di segreteria del consiglio di presidenza e del consiglio di amministrazione e' addetto il personale di cui alle annesse tabelle, nei limiti ivi stabiliti.
 
-##### Art. 39 - Commissione di disciplina
+#### Art. 39 - Commissione di disciplina
 
 La commissione di disciplina e' costituita all'inizio di ogni biennio con decreto del presidente del Consiglio di Stato, sentito il consiglio di amministrazione.
 
@@ -508,9 +502,9 @@ La commissione e' composta da un presidente di sezione del Consiglio di Stato o 
 
 Le funzioni di segretario sono svolte da un impiegato del ruolo direttivo con profilo professionale non inferiore a direttore di segreteria.
 
-## CAPO II - INQUADRAMENTO IN RUOLO DEL PERSONALE DI SEGRETERIA
+### CAPO II - INQUADRAMENTO IN RUOLO DEL PERSONALE DI SEGRETERIA
 
-##### Art. 40 - Inquadramento
+#### Art. 40 - Inquadramento
 
 Il personale appartenente ai ruoli del Consiglio di Stato ed il personale in servizio presso il Consiglio di Stato alla data di entrata in vigore della presente legge e' inquadrato nei ruoli organici previsti dall'articolo 35.
 
@@ -522,7 +516,7 @@ Per gli inquadramenti di cui ai commi precedenti si applicano i criteri previsti
 
 La domanda di inquadramento deve essere presentata, entro il termine perentorio di sessanta giorni dalla data di entrata in vigore della presente legge, al presidente del tribunale, che la trasmette alla Presidenza del Consiglio dei ministri, corredata di una relazione sull'attivita' svolta dal richiedente, dello stato di servizio rilasciato dall'amministrazione di provenienza e di ogni altro documento utile ai fini dell'inquadramento.
 
-##### Art. 41 - Commissione per l'inquadramento
+#### Art. 41 - Commissione per l'inquadramento
 
 All'inquadramento di cui all'articolo precedente provvede una commissione nominata dal Presidente del Consiglio dei ministri, sentito il presidente del Consiglio di Stato.
 
@@ -530,7 +524,7 @@ La commissione e' composta da un presidente di sezione del Consiglio di Stato o 
 
 Le funzioni di segretario sono svolte da un impiegato in servizio presso la Presidenza del Consiglio dei ministri con profilo professionale non inferiore a direttore di segreteria o equiparato.
 
-##### Art. 42 - Criteri di inquadramento
+#### Art. 42 - Criteri di inquadramento
 
 La commissione, acquisiti i fascicoli dei dipendenti, unitamente alle domande ed alle relazioni indicate dall'articolo 40, compie le operazioni di inquadramento in base ai seguenti criteri:
 
@@ -554,13 +548,13 @@ L'inquadramento disciplinato nel presente articolo e' disposto, ove occorra, anc
 
 I posti in soprannumero previsti dal presente articolo sono riassorbiti con le prime corrispondenti vacanze successive alla data di entrata in vigore della presente legge.
 
-##### Art. 43 - Criteri di inquadramento dei dirigenti
+#### Art. 43 - Criteri di inquadramento dei dirigenti
 
 Il personale che abbia conseguito la nomina a dirigente presso una amministrazione dello Stato, compresa quella di segretario comunale generale di prima o di seconda classe, e' inquadrato nel ruolo del personale dirigente, di cui alla tabella B allegata alla presente legge.
 
 Il personale appartenente ai ruoli ad esaurimento, di cui all'articolo 60 del decreto del Presidente della Repubblica 30 giugno 1972, n. 748, viene inquadrato nella qualifica di primo dirigente, nei limiti dei posti disponibili dopo l'applicazione del comma precedente.
 
-##### Art. 44 - Conseguimento della qualifica di primo dirigente
+#### Art. 44 - Conseguimento della qualifica di primo dirigente
 
 Il personale che al momento dell'entrata in vigore della presente legge svolge le funzioni di segretario generale del tribunale amministrativo regionale o di direttore di segreteria di sezione di tribunale amministrativo regionale o di incaricato della direzione dell'ufficio che tratta gli affari relativi al funzionamento dei tribunali amministrativi regionali puo' chiedere, con le modalita' indicate nell'articolo 40, di essere inquadrato anche in soprannumero nel profilo professionale di direttore capo aggiunto di segreteria all'ultima classe di stipendio e continua a svolgere le funzioni di cui e' incaricato.
 
@@ -580,7 +574,7 @@ Il conseguimento della qualifica di primo dirigente disciplinato nel presente ar
 
 Nei tre anni successivi alla data di entrata in vigore della presente legge, per la copertura dei posti in organico che rimarranno scoperti nella carriera dirigenziale a seguito dell'applicazione delle norme di cui ai commi secondo e settimo del presente articolo, si applica la disciplina prevista dalla legge 30 settembre 1978, n. 583.
 
-##### Art. 45 - Modalita' di inquadramento
+#### Art. 45 - Modalita' di inquadramento
 
 L'inquadramento e' disposto sulla base degli atti trasmessi dalla commissione con decreto del Presidente del Consiglio dei ministri ed ha effetto economico dalla data di entrata in vigore della presente legge ed effetto giuridico dal 1 gennaio 1978.
 
@@ -588,7 +582,7 @@ Il personale e' iscritto nel ruolo secondo la qualifica funzionale attribuita in
 
 I dipendenti inquadrati ai sensi delle norme precedenti sono dispensati dal sostenere il periodo di prova.
 
-##### Art. 46 - Passaggio di carriera
+#### Art. 46 - Passaggio di carriera
 
 Nella prima applicazione della presente legge il personale di ruolo appartenente ad amministrazioni dello Stato, esclusi i dirigenti, puo' chiedere, con le modalita' previste dall'articolo 40, di essere inquadrato nella qualifica funzionale del profilo professionale corrispondente alle mansioni esercitate qualora tale qualifica sia superiore a quella spettantegli ai sensi del primo comma dell'articolo 4 della legge 11 luglio 1980, n. 312, se:
 
@@ -608,7 +602,7 @@ L'inquadramento disciplinato nel presente articolo e' disposto con i criteri sta
 
 Il personale di cui al presente articolo prende posto nelle rispettive qualifiche dopo il personale di ruolo inquadrato ai sensi dei precedenti articoli e senza pregiudizio di esso.
 
-##### Art. 47 - Personale in servizio presso il Consiglio di Stato
+#### Art. 47 - Personale in servizio presso il Consiglio di Stato
 
 Al personale in servizio presso il Consiglio di Stato alla data di entrata in vigore della presente legge si applicano le norme degli articoli 42 e seguenti. La domanda deve essere presentata nel termine previsto dall'articolo 40, ultimo comma, al presidente del Consiglio di Stato, che la trasmette alla Presidenza del Consiglio dei ministri corredata di una relazione sull'attivita' svolta dal richiedente, dello stato di servizio e di ogni altro documento utile.
 
@@ -616,23 +610,21 @@ Il personale inquadrato ai sensi del primo comma dell'articolo 40 non puo' esser
 
 I funzionari dirigenti del Consiglio di Stato sono inquadrati ad ogni effetto dalla data del conseguimento della qualifica.
 
-##### Art. 48 - Passaggi di ruolo e concorsi
+#### Art. 48 - Passaggi di ruolo e concorsi
 
 Effettuati gli inquadramenti ed i passaggi di ruolo previsti dagli articoli 40, 43, 44 e 46, si provvede alla copertura dei posti rimasti scoperti mediante personale appartenente ai ruoli speciali gli impiegati ed operai dello Stato, previsti dall'articolo 24-quinquies della legge 29 febbraio 1980, n. 33.
 
 Successivamente all'applicazione di quanto disposto dal comma precedente, la Presidenza del Consiglio dei ministri, su proposta del presidente del Consiglio di Stato, provvede a bandire pubblici concorsi per esami al profilo professionale iniziale di ciascun ruolo per il numero di posti i rimasti disponibili nello stesso profilo professionale.
 
-##### Art. 49 - Stato giuridico ed economico
+#### Art. 49 - Stato giuridico ed economico
 
 Per lo stato giuridico ed il trattamento economico del personale di cui al presente titolo, si applicano, per quanto non diversamente disposto, le norme in vigore per gli impiegati civili dello Stato.
 
 ## TITOLO IV - DISPOSIZIONI TRANSITORIE E FINALI
 
-### CAPO I
+### CAPO I - DISPOSIZIONI TRANSITORIALE RELATIVE AL PERSONALE DI MAGISTRATURA
 
-#### DISPOSIZIONI TRANSITORIALE RELATIVE AL PERSONALE DI MAGISTRATURA
-
-##### Art. 50 - Norme transitorie
+#### Art. 50 - Norme transitorie
 
 Dalla data di entrata in vigore della presente legge sono soppressi i consigli di presidenza del Consiglio di Stato e dei tribunali amministrativi regionali, rispettivamente previsti dall'articolo 35 del regio decreto 21 aprile 1942, n. 444, e dall'articolo 49 della legge 6 dicembre 1971, n. 1034.
 
@@ -656,7 +648,7 @@ I predetti magistrati vanno ad occupare la posizione di ruolo che avrebbero avut
 
 I posti di consiglieri di Stato, conseguentemente resisi vacanti, sono riservati ai consiglieri di tribunale amministrativo regionale.
 
-##### Art. 51 - Effetti giuridici ed economici
+#### Art. 51 - Effetti giuridici ed economici
 
 Per coloro che hanno gia' maturato le anzianita' previste dagli articoli 17, 18 e 21, le relative nomine sono conferite, agli effetti giuridici, al compimento di dette anzianita' e, agli effetti economici, dalla data di entrata in vigore della presente legge.
 
@@ -664,9 +656,9 @@ Le nomine agli uffici direttivi superiori conseguite anteriormente alla data di 
 
 Ai fini dell'applicazione della legge 24 maggio 1970, n. 336, e successive modificazioni ed integrazioni, l'attribuzione del trattamento inerente alla qualifica di magistrato di cassazione con funzioni direttive equivale al pieno possesso di tale qualifica.
 
-## CAPO II - DISPOSIZIONI TRANSITORIE RELATIVE AL PERSONALE DI SEGRETERIA
+### CAPO II - DISPOSIZIONI TRANSITORIE RELATIVE AL PERSONALE DI SEGRETERIA
 
-##### Art. 52 - Norme transitorie
+#### Art. 52 - Norme transitorie
 
 Per un periodo di tre anni dall'entrata in vigore della presente legge sono estese al Consiglio di Stato ed ai tribunali amministrativi regionali le disposizioni relative alla assunzione temporanea di personale a norma del decreto del Presidente della Repubblica 31 marzo 1971, n. 276, da destinare esclusivamente a mansioni di dattilografia. ((2))
 
@@ -688,13 +680,13 @@ AGGIORNAMENTO (2)
 
 La L. 15 giugno 1985, n. 282 ha disposto (con l'art. 1, comma 6) che "Fino alla data di immissione in servizio nel ruolo del personale di dattilografia del Consiglio di Stato e dei tribunali amministrativi regionali del personale di cui ai precedenti commi 4 e 5 e, comunque, non oltre il 31 dicembre 1986, e' prorogato il termine stabilito dall'articolo 52, primo comma, della legge 27 aprile 1982, n. 186".
 
-## CAPO III - DISPOSIZIONI COMUNI
+### CAPO III - DISPOSIZIONI COMUNI
 
-##### Art. 53 - Spese di funzionamento
+#### Art. 53 - Spese di funzionamento
 
 Gli impegni e gli ordini di spesa relativi ai tribunali amministrativi regionali, nei limiti dei fondi assegnati in bilancio, nonche' i mandati di pagamento, sono emessi e firmati dai rispettivi presidenti.
 
-##### Art. 53-bis
+#### Art. 53-bis
 
 (((Autonomia finanziaria del Consiglio di Stato e dei tribunali amministrativi regionali).
 
@@ -702,31 +694,31 @@ Gli impegni e gli ordini di spesa relativi ai tribunali amministrativi regionali
 
 2\. Il consiglio di presidenza della giustizia amministrativa disciplina l'organizzazione, il funzionamento e la gestione delle spese del Consiglio di Stato e dei tribunali amministrativi regionali)).
 
-##### Art. 53-ter
+#### Art. 53-ter
 
 (( (Ufficio per il processo). ))
 
 ((1. A supporto dell'attivita' dei magistrati amministrativi sono costituite strutture organizzative interne degli uffici di segreteria del Consiglio di Stato, del Consiglio di giustizia amministrativa per la regione siciliana, dei tribunali amministrativi regionali, denominate: "ufficio per il processo", mediante l'utilizzo, nell'ambito della dotazione organica di cui alla tabella A allegata al decreto-legge 31 agosto 2016, n. 168, e di cui agli articoli 19-ter e 19-quater del decreto del Presidente della Repubblica 6 aprile 1984, n. 426, del personale di segreteria di area funzionale III. Alla suddetta attivita' possono, altresi', concorrere coloro che svolgono, presso i predetti uffici, il tirocinio formativo a norma dell'articolo 73 del decreto-legge 21 giugno 2013, n. 69, convertito, con modificazioni, dalla legge 9 agosto 2013, n. 98, o la formazione professionale a norma dell'articolo 37, comma 5, del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111, o il tirocinio disciplinato dal regolamento di cui al decreto del Ministro della giustizia 17 marzo 2016, n. 70, recante la disciplina per lo svolgimento del tirocinio per l'accesso alla professione forense ai sensi dell'articolo 41, comma 13, della legge 31 dicembre 2012, n. 247. Con il regolamento di organizzazione di cui all'articolo 53-bis, sono individuati i compiti e l'organizzazione dell'ufficio per il processo, anche, se del caso, prevedendo un unico ufficio per una pluralita' di sezioni dell'ufficio giudiziario, nonche' eventualmente fissando il limite dimensionale minimo dell'ufficio giudiziario, necessario per l'attivazione dell'ufficio per il processo.))
 
-##### Art. 54 - Effetti economici
+#### Art. 54 - Effetti economici
 
 Ai fini economici la presente legge ha effetto dal giorno della sua entrata in vigore.
 
-##### Art. 55
+#### Art. 55
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 LUGLIO 2010, N. 104))
 
-##### Art. 56 - Trentino-Alto Adige
+#### Art. 56 - Trentino-Alto Adige
 
 L'ordinamento e la disciplina degli organi di giustizia amministrativa nella regione Trentino-Alto Adige sono regolati dal Titolo IX del decreto del Presidente della Repubblica 31 agosto 1972, n. 670, e relative norme di attuazione.
 
-##### Art. 57 - Onere finanziario
+#### Art. 57 - Onere finanziario
 
 L'onere derivante dalla attuazione della presente legge e' valutato in lire 13.000 milioni in ragione d'anno. Alla spesa relativa all'anno 1982, valutata in lire 7.000 milioni, si provvede mediante corrispondente riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno finanziario medesimo.
 
 Il Ministro del tesoro e' autorizzato ad apportare con propri decreti le occorrenti variazioni di bilancio.
 
-##### Art. 58 - Norma finale
+#### Art. 58 - Norma finale
 
 E' abrogata ogni disposizione contraria alla presente legge o con essa incompatibile.
 
@@ -740,9 +732,9 @@ SPADOLINI - ANDREATTA - LA MALFA
 
 Visto, il Guardasigilli: DARIDA
 
-## CAPO III - DISPOSIZIONI COMUNI
+### CAPO III - DISPOSIZIONI COMUNI
 
-##### Tabelle
+#### Tabelle
 
 Tabelle
 

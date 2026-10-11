@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I
+## Capo I - OGGETTO E DEFINIZIONI
 
-### OGGETTO E DEFINIZIONI
-
-##### Art. 1
+### Art. 1
 
 Oggetto
 
@@ -106,7 +104,7 @@ Oggetto
 
 > 4\. Le Camere, secondo modalita' stabilite dai rispettivi regolamenti, esercitano la funzione di controllo sulla finanza pubblica con particolare riferimento all'equilibrio tra entrate e spese nonche' alla qualita' e all'efficacia della spesa delle pubbliche amministrazioni».
 
-##### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -130,11 +128,9 @@ h) per «saldo netto da finanziare o da impiegare» il risultato differenziale t
 
 2\. Gli obiettivi riferiti ai saldi di cui al comma 1, lettere c) e d), e il valore di cui al medesimo comma 1, lettera e), sono indicati nei documenti di programmazione finanziaria e di bilancio presentati dal Governo alle Camere per le conseguenti deliberazioni parlamentari.
 
-## Capo II
+## Capo II - EQUILIBRIO DEI BILANCI E SOSTENIBILITA' DEL DEBITO DELLE AMMINISTRAZIONI PUBBLICHE
 
-### EQUILIBRIO DEI BILANCI E SOSTENIBILITA' DEL DEBITO DELLE - AMMINISTRAZIONI PUBBLICHE
-
-##### Art. 3
+### Art. 3
 
 Principio dell'equilibrio dei bilanci
 
@@ -178,7 +174,7 @@ b) assicura il rispetto del percorso di avvicinamento all'obiettivo di medio ter
 
 > Agli impieghi nelle Pubbliche Amministrazioni si accede mediante concorso, salvo i casi stabiliti dalla legge».
 
-##### Art. 4
+### Art. 4
 
 Sostenibilita' del debito pubblico
 
@@ -194,7 +190,7 @@ Sostenibilita' del debito pubblico
 
 > \- Per il riferimento al testo dell'articolo 97 della Costituzione della Repubblica Italiana, vedasi nelle note all'articolo 3.
 
-##### Art. 5
+### Art. 5
 
 Regole sulla spesa
 
@@ -204,7 +200,7 @@ Regole sulla spesa
 
 3\. Il Ministro dell'economia e delle finanze, avvalendosi della collaborazione delle amministrazioni interessate, provvede al monitoraggio del rispetto del livello di cui al comma 2. Il Governo, qualora preveda il superamento di tale livello, trasmette una relazione alle Camere, evidenziando le eventuali misure correttive da adottare al fine di assicurare il conseguimento degli obiettivi programmatici.
 
-##### Art. 6
+### Art. 6
 
 Eventi eccezionali e scostamenti
 
@@ -226,11 +222,9 @@ b) eventi straordinari, al di fuori del controllo dello Stato, ivi incluse le gr
 
 6\. Le procedure di cui al comma 3 si applicano altresi' qualora il Governo intenda ricorrere all'indebitamento per realizzare operazioni relative alle partite finanziarie al fine di fronteggiare gli eventi straordinari di cui al comma 2, lettera b).
 
-## Capo III
+## Capo III - MECCANISMO DI CORREZIONE
 
-### MECCANISMO DI CORREZIONE
-
-##### Art. 7
+### Art. 7
 
 Monitoraggio degli scostamenti
 
@@ -238,7 +232,7 @@ rispetto agli obiettivi di finanza pubblica
 
 1\. Il Ministro dell'economia e delle finanze assicura il monitoraggio degli andamenti di finanza pubblica. Il Governo, qualora preveda che nell'esercizio finanziario in corso si determinino scostamenti del saldo del conto consolidato o del saldo strutturale rispetto agli obiettivi programmatici, riferisce alle Camere.
 
-##### Art. 8
+### Art. 8
 
 Meccanismo di correzione degli scostamenti
 
@@ -250,11 +244,9 @@ rispetto all'obiettivo programmatico strutturale
 
 3\. Le deliberazioni parlamentari di cui all'articolo 6, comma 3, possono disporre la sospensione dell'operativita' del meccanismo di correzione previsto dal presente articolo sino all'esercizio precedente a quello a partire dal quale ha inizio l'attuazione del piano di rientro di cui al medesimo comma.
 
-## Capo IV
+## Capo IV - EQUILIBRIO DEI BILANCI DELLE REGIONI E DEGLI ENTI LOCALI E CONCORSO DEI MEDESIMI ENTI ALLA SOSTENIBILITA' DEL DEBITO PUBBLICO
 
-### EQUILIBRIO DEI BILANCI DELLE REGIONI E DEGLI ENTI LOCALI E - CONCORSO DEI MEDESIMI ENTI ALLA SOSTENIBILITA' DEL DEBITO PUBBLICO
-
-##### Art. 9
+### Art. 9
 
 Equilibrio dei bilanci delle regioni e degli enti locali
 
@@ -278,7 +270,7 @@ c) destinazione dei proventi delle sanzioni a favore dei premi agli enti del med
 
 6\. Le disposizioni di cui al comma 5 si applicano alle regioni a statuto speciale e alle province autonome di Trento e di Bolzano compatibilmente con le norme dei rispettivi statuti e con le relative norme di attuazione.
 
-##### Art. 10
+### Art. 10
 
 Ricorso all'indebitamento da parte delle regioni e degli enti locali
 
@@ -304,7 +296,7 @@ AGGIORNAMENTO (4)
 
 Successivamente la Corte Costituzionale, con sentenza 11 ottobre - 6 dicembre 2017, n. 252 (in G.U. 1ª s.s. 13/12/2017, n. 50), ha dichiarato l'illegittimita' costituzionale dell'art. 2, comma 1, lettera c), della legge 12 agosto 2016, n. 164 "nella parte in cui, nel sostituire l'art. 10, comma 5, della legge 24 dicembre 2012, n. 243 (Disposizioni per l'attuazione del principio del pareggio di bilancio ai sensi dell'articolo 81, sesto comma, della Costituzione), non prevede la parola «tecnica», dopo le parole «criteri e modalita' di attuazione» e prima delle parole «del presente articolo»" e l'illegittimita' costituzionale dell'art. 2, comma 1, lettera c), della legge n. 164 del 2016 "nella parte in cui, nel sostituire l'art. 10, comma 5, della legge n. 243 del 2012, prevede «, ivi incluse le modalita' attuative del potere sostitutivo dello Stato, in caso di inerzia o ritardo da parte delle regioni e delle province autonome di Trento e di Bolzano»".
 
-##### Art. 11
+### Art. 11
 
 Concorso dello Stato al finanziamento dei livelli essenziali e delle funzioni fondamentali nelle fasi avverse del ciclo o al verificarsi di eventi eccezionali
 
@@ -320,7 +312,7 @@ AGGIORNAMENTO (3)
 
 Successivamente la Corte Costituzionale, con sentenza 11 ottobre - 10 novembre 2017, n. 235 (in G.U. 1ª s.s. 15/11/2017, n. 46), ha dichiarato l'illegittimita' costituzionale dell'art. 3, comma 1, lettera a), della legge 12 agosto 2016, n. 164 (che ha modificato il comma 1 del presente articolo).
 
-##### Art. 12
+### Art. 12
 
 Concorso delle regioni e degli enti locali alla sostenibilita' del debito pubblico
 
@@ -330,11 +322,9 @@ Concorso delle regioni e degli enti locali alla sostenibilita' del debito pubbli
 
 3\. ((COMMA ABROGATO DALLA L. 12 AGOSTO 2016, N. 164)).
 
-## Capo V
+## Capo V - EQUILIBRIO DEI BILANCI DELLE AMMINISTRAZIONI PUBBLICHE NON TERRITORIALI
 
-### EQUILIBRIO DEI BILANCI DELLE AMMINISTRAZIONI PUBBLICHE NON - TERRITORIALI
-
-##### Art. 13
+### Art. 13
 
 Equilibrio dei bilanci delle amministrazioni pubbliche non territoriali
 
@@ -344,11 +334,9 @@ Equilibrio dei bilanci delle amministrazioni pubbliche non territoriali
 
 3\. Con legge dello Stato possono essere stabiliti ulteriori criteri al fine di assicurare l'equilibrio dei bilanci delle amministrazioni di cui al presente articolo, anche con riferimento alle singole categorie di amministrazioni, nonche' i criteri per il recupero di eventuali disavanzi e le sanzioni conseguenti al mancato rispetto dell'equilibrio.
 
-## Capo VI
+## Capo VI - BILANCIO DELLO STATO
 
-### BILANCIO DELLO STATO
-
-##### Art. 14
+### Art. 14
 
 Principio dell'equilibrio del bilancio dello Stato
 
@@ -360,7 +348,7 @@ Principio dell'equilibrio del bilancio dello Stato
 
 4\. Il rendiconto generale dello Stato indica il saldo netto da finanziare effettivamente conseguito nell'anno di riferimento e da' autonoma evidenza degli eventuali scostamenti rispetto al valore indicato dalla legge di bilancio ai sensi del comma 2. Nella relazione allegata al disegno di legge recante il rendiconto generale dello Stato sono evidenziate le ragioni dello scostamento rispetto al valore indicato dalla legge di bilancio, tenendo anche conto delle eventuali variazioni derivanti dall'applicazione delle procedure statistiche relative al calcolo del saldo strutturale previste dall'ordinamento dell'Unione europea.
 
-##### Art. 15
+### Art. 15
 
 Contenuto della legge di bilancio
 
@@ -384,13 +372,9 @@ Contenuto della legge di bilancio
 
 10\. Con legge dello Stato sono disciplinate le modalita' di attuazione del presente articolo.
 
-## Capo VII
+## Capo VII - ORGANISMO INDIPENDENTE PER L'ANALISI E LA VERIFICA DEGLI ANDAMENTI DI FINANZA PUBBLICA E PER LA VALUTAZIONE DELL'OSSERVANZA DELLE REGOLE DI BILANCIO
 
-### ORGANISMO INDIPENDENTE PER L'ANALISI E LA VERIFICA DEGLI ANDAMENTI DI - FINANZA PUBBLICA E PER LA VALUTAZIONE DELL'OSSERVANZA DELLE REGOLE DI
-
-#### BILANCIO
-
-##### Art. 16
+### Art. 16
 
 Istituzione dell'Ufficio parlamentare di bilancio
 
@@ -412,7 +396,7 @@ Per gravi violazioni dei doveri d'ufficio, i membri del Consiglio possono essere
 
 > \- Per il riferimento al testo dell'articolo 5 della citata legge 20 aprile 2012, n. 1, vedasi nelle note all'articolo 1.
 
-##### Art. 17
+### Art. 17
 
 Risorse umane, strumentali
 
@@ -438,7 +422,7 @@ L'Ufficio puo' restituire alle amministrazioni di appartenenza il personale prov
 
 6\. I Presidenti del Senato della Repubblica e della Camera dei deputati, d'intesa tra loro, mettono a disposizione dell'Ufficio locali da destinare a sede del medesimo e le necessarie risorse strumentali.
 
-##### Art. 18
+### Art. 18
 
 Funzioni dell'Ufficio
 
@@ -470,7 +454,7 @@ Il Presidente, se richiesto, svolge audizioni presso le Commissioni parlamentari
 
 7\. Al fine di consentire all'Ufficio lo svolgimento dei propri compiti istituzionali, le amministrazioni e gli enti di cui al comma 6 assicurano all'Ufficio medesimo l'accesso a tutte le banche di dati in materia di economia o di finanza pubblica da loro costituite o alimentate. ((Ai fini dell'accesso ai dati raccolti per fini statistici ai sensi del decreto legislativo 6 settembre 1989, n. 322, l'Ufficio e' equiparato agli enti ed uffici facenti parte del Sistema statistico nazionale)).
 
-##### Art. 19
+### Art. 19
 
 Dotazione finanziaria dell'Ufficio
 
@@ -482,11 +466,9 @@ Dotazione finanziaria dell'Ufficio
 
 4\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-## Capo VIII
+## Capo VIII - DISPOSIZIONI FINALI
 
-### DISPOSIZIONI FINALI
-
-##### Art. 20
+### Art. 20
 
 Funzioni di controllo della Corte dei conti
 
@@ -500,7 +482,7 @@ sui bilanci delle amministrazioni pubbliche
 
 > \- Per il riferimento al testo dell'articolo 97 della Costituzione della Repubblica Italiana, vedasi nelle note all'articolo 3.
 
-##### Art. 21
+### Art. 21
 
 Disposizioni transitorie e finali
 

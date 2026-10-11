@@ -32,7 +32,7 @@ Noi abbiamo sanzionato e promulghiamo quanto segue:
 
 ## CAPO I. - Disposizioni generali.
 
-#### Art. 1
+### Art. 1
 
 Al personale che presta la sua opera alle dipendenze altrui e' dovuto ogni settimana un riposo di 24 ore consecutive, salvo le eccezioni stabilite dalla presente legge.
 
@@ -86,13 +86,13 @@ Ha inoltre dichiarato "l' illegittimita' costituzionale dell'art. 1, secondo com
 
 ## Soci di cooperative.
 
-#### Art. 2
+### Art. 2
 
 I soci di cooperative, che prestano la loro attivita' per conto delle cooperative medesime, sono soggetti alla presente legge quando siano rimunerati con retribuzione fissa periodica, anche se integrata da partecipazione agli utili o da altre forme analoghe, oppure quando lavorino promiscuamente con altri lavoratori.
 
 ## Giorno e decorrenza del riposo.
 
-#### Art. 3
+### Art. 3
 
 Il riposto di 24 ore consecutive deve essere dato la domenica, salvo le eccezioni stabilite dagli articoli seguenti.
 
@@ -104,7 +104,7 @@ Il riposo compensativo di 12 ore, previsto dagli articoli seguenti, decorre dall
 
 ## Riposo delle donne e dei fanciulli.
 
-#### Art. 4
+### Art. 4
 
 Qualora per le attivita' soggette alla presente legge siano previste eccezioni all'obbligo del riposo di 24 ore consecutive ogni settimana, alle donne di qualsiasi eta' ed ai minori degli anni 14 deve essere tuttavia dato, ogni settimana, un riposo compensativo ininterrotto di 24 ore, salvi i casi previsti dagli articoli 6, 8, 12 e 15.
 
@@ -114,11 +114,9 @@ a) ai minori degli anni 14 ed alle donne minori degli anni 18 addetti alle indus
 
 b) alle donne maggiori degli anni 18 addette alle industrie determinate a norma dell'articolo 1, n. 14, quando il periodo complessivo della loro occupazione nell'azienda superi i tre mesi all'anno.
 
-## CAPO II. - Regimi particolari di riposo - Attivita' a regime continuo
+## CAPO II. - Regimi particolari di riposo - Attivita' a regime continuo e attivita' stagionali o di pubblica utilita'.
 
-### e attivita' stagionali o di pubblica utilita'.
-
-#### Art. 5
+### Art. 5
 
 Il riposo di 24 ore consecutive puo' cadere in giorno diverso dalla domenica, e puo' essere attuato mediante turni al personale addetto all'esercizio delle seguenti attivita':
 
@@ -132,7 +130,7 @@ Il riposo di 24 ore consecutive puo' cadere in giorno diverso dalla domenica, e 
 
 Le attivita' di cui al presente articolo saranno determinate con decreto del Ministro per le corporazioni, intese le Corporazioni competenti.
 
-#### Art. 6
+### Art. 6
 
 ((COMMA ABROGATO DAL D.P.R. 18 APRILE 1994, N.339)).
 
@@ -140,7 +138,7 @@ Per il personale destinato a predisporre il funzionamento della forza motrice e 
 
 ## Vendita al minuto ed attivita' affini.
 
-#### Art. 7
+### Art. 7
 
 Per le aziende esercenti la vendita al minuto ed in genere attivita' rivolte a soddisfare direttamente bisogni del pubblico, il prefetto, intesi il podesta' e le organizzazioni sindacali interessate:
 
@@ -156,7 +154,7 @@ In mancanza di detto contratto e' dovuto al personale un riposo non inferiore a 
 
 ## Lavori agricoli.
 
-#### Art. 8
+### Art. 8
 
 Fermo restando il disposto dell'art. 1, nn. 6, 7 e 8, il riposo settimanale del personale addetto ai lavori agricoli sara' regolato dai contratti collettivi di lavoro.
 
@@ -164,13 +162,13 @@ Si intendono per lavori agricoli la coltivazione della terra e dei boschi e l'al
 
 ## Industrie all'aperto.
 
-#### Art. 9
+### Art. 9
 
 Per le industrie all'aperto, soggette ad interruzione per intemperie, la sospensione del lavoro verificatasi nella settimana per 24 ore consecutive, puo' essere considerata come giorno di riposo, in sostituzione di quello della domenica successiva, quando non venga effettuato il recupero di detto periodo di sospensione a norma delle disposizioni vigenti sugli orari di lavoro.
 
 ## Industrie con periodi di eccezionale attivita'.
 
-#### Art. 10
+### Art. 10
 
 Per le industrie con periodi di eccezionale attivita', le quali saranno determinate con decreto del Ministro per le corporazioni, intese le Corporazioni competenti, e' sospeso per sei settimane all'anno l'obbligo del riposo.
 
@@ -178,7 +176,7 @@ Il datore di lavoro che intenda attuare detta sospensione e' obbligato a darne p
 
 ## Opifici mossi direttamente dal vento o dall'acqua.
 
-#### Art. 11
+### Art. 11
 
 Negli opifici, la cui forza motrice prevalente e' prodotta direttamente dal vento o dall'acqua, ovvero e' costituita da energia elettrica prodotta o trasportata direttamente dall'esercente dell'opificio ed esclusivamente per l'uso di questo, puo' essere dato, per dieci settimane all'anno, il riposo settimanale per turno di 24 ore consecutive ogni due settimane.
 
@@ -186,7 +184,7 @@ I datori di lavoro, che intendono attuare il regime sopraindicato, debbono preve
 
 ## Alberghi.
 
-#### Art. 12
+### Art. 12
 
 Al personale degli alberghi non diurni, che per ragioni di servizio dimori nell'albergo, e' dovuto ogni settimana un periodo di uscita di almeno 10 ore ininterrotte durante le ore nelle quali si compie il lavoro ordinario, nonche' un periodo di riposo entro l'albergo di almeno otto ore continuative per ogni giornata di lavoro.
 
@@ -194,7 +192,7 @@ Alle altre categorie di personale degli alberghi non diurni ed a quelle degli al
 
 ## Aziende giornalistiche e di diffusione di notizie.
 
-#### Art. 13
+### Art. 13
 
 Il riposo di 24 ore continuative per il personale addetto alle aziende editrici di giornali ed alle aziende per la diffusione al pubblico, con qualsiasi mezzo, di notizie, deve decorrere dalla mattina della domenica alle ore quattro del lunedi'.
 
@@ -214,7 +212,7 @@ La Corte Costituzionale con sentenza 9 - 15 giugno 1972, n. 105 (in G.U. 1ª s.s
 
 costituzionale degli artt. 13, 14, primo comma, 22, 23, 24, 25, 26 e 28 della legge 22 febbraio 1934, n. 370, sul "Riposo domenicale e settimanale".
 
-#### Art. 14
+### Art. 14
 
 Il riposo di 24 ore consecutive per il personale addetto alla stampa dei giornali deve decorrere dalla mattina della domenica alle ore 4 del lunedi'. ((4))
 
@@ -232,7 +230,7 @@ costituzionale degli artt. 13, 14, primo comma, 22, 23, 24, 25, 26 e 28 della le
 
 ## Personale addetto ai vagoni letto, commessi viaggiatori e personale - equiparabile, e personale addetto a pubblici spettacoli.
 
-#### Art. 15
+### Art. 15
 
 Al personale viaggiante addetto ai vagoni letto, ai commessi viaggiatori ed al personale equiparabile il riposo puo' essere dato ad intervalli piu' lunghi di una settimana, purche' la durata complessiva di esso ogni trenta giorni, o nel periodo che sara' determinato dai contratti collettivi di lavoro, corrisponda a non meno di 24 ore consecutive per ogni sei giornate lavorative.
 
@@ -240,7 +238,7 @@ Per il personale addetto ai pubblici spettacoli l'Ispettorato corporativo, qualo
 
 ## Lavori occasionali e di vigilanza.
 
-#### Art. 16
+### Art. 16
 
 Puo' essere compiuto in domenica il lavoro:
 
@@ -252,7 +250,7 @@ c) di compilazione dell'inventario e del bilancio annuale. Al personale occupato
 
 ## Forza maggiore.
 
-#### Art. 17
+### Art. 17
 
 Possono essere compiuti in domenica, nei limiti strettamente necessari:
 
@@ -264,21 +262,19 @@ Nei casi indicati alla lettera a) l'Ispettorato corporativo puo' dare prescrizio
 
 Al personale addetto al lavoro domenicale e' dovuto il riposo prescritto dall'ultimo comma dell'articolo 16. Tuttavia, ove si oppongano difficolta' alla attuazione di esso, l'Ispettorato corporativo, intese le organizzazioni sindacali interessate, puo' esonerare da detto obbligo o prescrivere altri regimi di riposo adatti.
 
-#### Art. 18
+### Art. 18
 
 Il datore di lavoro che faccia eseguire lavori di cui al precedente articolo, reve darne avviso all'Ispettorato corporativo entro 24 ore dal loro inizio, indicando le ragioni del lavoro ed il numero delle persone occupate, distinte per sesso e per eta'.
 
 ## Spostamento del giorno di riposo.
 
-#### Art. 19
+### Art. 19
 
 Quando durante la settimana il lavoro sia stato sospeso per 24 ore consecutive a causa di festivita' previste dalle leggi o dai contratti collettivi di lavoro o da accordi fra Associazioni sindacali, detta sospensione puo' essere computata, come giorno di riposo agli effetti della presente legge, qualora su concorde richiesta delle organizzazioni sindacali interessate, ed inteso il parere del podesta', ne sia data autorizzazione dal prefetto. Questi potra' stabilire all'uopo le opportune cautele.
 
-## CAPO III. - Divieti e limitazioni di esercizio.
+## CAPO III. - Divieti e limitazioni di esercizio. Chiusura delle aziende.
 
-### Chiusura delle aziende.
-
-#### Art. 20
+### Art. 20
 
 Nelle ore e nelle zone in cui il riposo deve essere dato contemporaneamente al personale addetto a determinate attivita', le aziende, nelle quali queste attivita' si svolgono, debbono rimanere chiuse al pubblico, anche nel caso che sia ammesso in esse l'impiego di prestatori d'opera per eseguire lavori che non importino rapporti col pubblico.
 
@@ -288,13 +284,13 @@ Le disposizioni di questo articolo si applicano anche alle aziende nelle quali n
 
 ## Commercio ambulante.
 
-#### Art. 21
+### Art. 21
 
 Il prefetto, intese le organizzazioni sindacali interessate, dara' disposizioni per vietare o limitare l'esercizio del traffico ambulante nei casi e nelle ore in cui e' prescritta la chiusura delle aziende a norma dell'articolo 20 e dara' inoltre disposizioni nei casi di fiere o mercati.
 
 ## Edizione e vendita dei giornali - ed attivita' analoghe.
 
-#### Art. 22
+### Art. 22
 
 Per i giornali quotidiani, posti in vendita prima del mezzogiorno nei Comuni in cui si stampano, si debbono omettere ogni settimana tutte le edizioni del lunedi', restando pertanto sospesa la pubblicazione del giornale fino al mattino del martedi'.
 
@@ -314,7 +310,7 @@ La Corte Costituzionale con sentenza 9 - 15 giugno 1972, n. 105 (in G.U. 1ª s.s
 
 costituzionale degli artt. 13, 14, primo comma, 22, 23, 24, 25, 26 e 28 della legge 22 febbraio 1934, n. 370, sul "Riposo domenicale e settimanale".
 
-#### Art. 23
+### Art. 23
 
 Nessuna tipografia puo' iniziare il lavoro per i giornali di qualunque natura dopo terminato il lavoro della domenica e fino alle ore 4 del lunedi'.
 
@@ -328,7 +324,7 @@ La Corte Costituzionale con sentenza 9 - 15 giugno 1972, n. 105 (in G.U. 1ª s.s
 
 costituzionale degli artt. 13, 14, primo comma, 22, 23, 24, 25, 26 e 28 della legge 22 febbraio 1934, n. 370, sul "Riposo domenicale e settimanale".
 
-#### Art. 24
+### Art. 24
 
 E' vietato per qualunque motivo di dare edizioni straordinarie od anche edizioni ordinarie settimanali di giornali quotidiani, sia pure con titolo diverso, nel periodo in cui debbono restare sospese le edizioni ordinarie.
 
@@ -342,7 +338,7 @@ La Corte Costituzionale con sentenza 9 - 15 giugno 1972, n. 105 (in G.U. 1 ª s.
 
 costituzionale degli artt. 13, 14, primo comma, 22, 23, 24, 25, 26 e 28 della legge 22 febbraio 1934, n. 370, sul "Riposo domenicale e settimanale".
 
-#### Art. 25
+### Art. 25
 
 Dalle ore 13 della domenica alle ore 10 del lunedi' e' vietata la pubblicazione dei giornali anche non quotidiani, sia in edizione ordinaria che in edizione straordinaria o sotto forma di bollettini o supplementi, allo scopo di diffondere notizie di avvenimenti improvvisi.
 
@@ -354,7 +350,7 @@ AGGIORNAMENTO (4)
 
 La Corte Costituzionale con sentenza 9 - 15 giugno 1972, n. 105 (in G.U. 1 s.s 21/06/1972 n. 158) ha dichiarato "l'illegittimita' costituzionale degli artt. 13, 14, primo comma, 22, 23, 24, 25, 26 e 28 della legge 22 febbraio 1934, n. 370, sul "Riposo domenicale e settimanale".
 
-#### Art. 26
+### Art. 26
 
 Le precedenti disposizioni si applicano anche alle pubblicazioni delle agenzie a stampa ed in genere a qualunque altro mezzo di edizione e di diffusione di notizie; non si applicano all'« Agenzia Stefani » ed alle imprese di trasmissioni radiofoniche.
 
@@ -372,13 +368,13 @@ costituzionale degli artt. 13, 14, primo comma, 22, 23, 24, 25, 26 e 28 della le
 
 ## CAPO IV. - Sanzioni.
 
-#### Art. 27
+### Art. 27
 
 (( (Sanzioni amministrative). ))
 
 ((Chiunque contravviene alle disposizioni contenute negli articoli 1, 3, 6, 7, 10, 11, 12, 15, 16, 17, 18, 19, 20 e 21 della presente legge e' punito con la sanzione amministrativa da lire cinquantamila a lire trecentomila. Se la violazione si riferisce a piu' di cinque lavoratori si applica la sanzione amministrativa da lire trecentomila a lire due milioni.))
 
-#### Art. 28
+### Art. 28
 
 ((Chiunque contravviene alla disposizione di cui all'art. 14 e' punito con la sanzione amministrativa da lire trecentomila a lire due
 
@@ -398,7 +394,7 @@ AGGIORNAMENTO (4)
 
 La Corte Costituzionale con sentenza 9 - 15 giugno 1972, n. 105 (in G.U. lª s.s 21/06/1972 n. 158) ha dichiarato "l'illegittimita' costituzionale degli artt. 13, 14, primo comma, 22, 23, 24, 25, 26 e 28 della legge 22 febbraio 1934, n. 370, sul "Riposo domenicale e settimanale".
 
-#### Art. 29
+### Art. 29
 
 Dall'entrata in vigore della presente legge sono abrogati:
 
@@ -420,7 +416,7 @@ Dall'entrata in vigore della presente legge sono abrogati:
 
 Sono altresi' abrogate tutte le disposizioni contrarie alla presente legge.
 
-#### Art. 30
+### Art. 30
 
 La presente legge entrera' in vigore cento ottanta giorni dopo la sua pubblicazione nella Gazzetta Ufficiale del Regno.
 

@@ -44,7 +44,7 @@ Emana
 
 il seguente decreto legislativo:
 
-###### Articolo 1
+##### Articolo 1
 
 1\. E' approvato l'unito testo unico delle leggi sull'ordinamento degli enti locali, composto di 275 articoli.
 
@@ -56,11 +56,9 @@ il seguente decreto legislativo:
 
 ## PARTE I - ORDINAMENTO ISTITUZIONALE
 
-### TITOLO I
+### TITOLO I - DISPOSIZIONI GENERALI
 
-#### DISPOSIZIONI GENERALI
-
-###### Articolo 1
+##### Articolo 1
 
 oggetto
 
@@ -72,7 +70,7 @@ oggetto
 
 4\. Ai sensi dell'articolo 128 della Costituzione le leggi della Repubblica non possono introdurre deroghe al presente testo unico se non mediante espressa modificazione delle sue disposizioni.
 
-###### Articolo 2
+##### Articolo 2
 
 Ambito di applicazione
 
@@ -80,7 +78,7 @@ Ambito di applicazione
 
 2\. Le norme sugli enti locali previste dal presente testo unico si applicano, altresi', salvo diverse disposizioni, ai consorzi cui partecipano enti locali, con esclusione di quelli che gestiscono attivita' aventi rilevanza economica ed imprenditoriale e, ove previsto dallo statuto, dei consorzi per la gestione dei servizi sociali.
 
-###### Articolo 3
+##### Articolo 3
 
 Autonomia dei comuni e delle province
 
@@ -94,7 +92,7 @@ Autonomia dei comuni e delle province
 
 5\. I comuni e le province sono titolari di funzioni proprie e di quelle conferite loro con legge dello Stato e della regione, secondo il principio di sussidiarieta'. I comuni e le province svolgono le loro funzioni anche attraverso le attivita' che possono essere adeguatamente. esercitate dalla autonoma iniziativa dei cittadini e delle loro formazioni sociali.
 
-###### Articolo 4
+##### Articolo 4
 
 Sistema regionale delle autonomie locali
 
@@ -108,7 +106,7 @@ Sistema regionale delle autonomie locali
 
 5\. Le regioni, nell'ambito della propria autonomia legislativa, prevedono strumenti e procedure di raccordo e concertazione, anche permanenti, che diano luogo a forme di cooperazione strutturali e funzionali, al fine di consentire la collaborazione e l'azione coordinata fra regioni ed enti locali nell'ambito delle rispettive competenze.
 
-###### Articolo 5
+##### Articolo 5
 
 Programmazione regionale e locale
 
@@ -122,7 +120,7 @@ Programmazione regionale e locale
 
 5\. La legge regionale disciplina altresi', con norme di carattere generale. modi e procedimenti per la verifica della compatibilita' fra gli strumenti di cui al comma 4 e i programmi regionali, ove esistenti.
 
-###### Articolo 6
+##### Articolo 6
 
 Statuti comunali e provinciali
 
@@ -138,13 +136,13 @@ Statuti comunali e provinciali
 
 6\. L'ufficio del Ministero dell'interno, istituito per la raccolta e la conservazione degli statuti comunali e provinciali, cura anche adeguate forme di pubblicita' degli statuti stessi.
 
-###### Art. 7
+##### Art. 7
 
 Regolamenti
 
 1\. Nel rispetto dei principi fissati dalla legge e dello statuto, il comune e la provincia adottano regolamenti nelle materie di propria competenza ed in particolare per l'organizzazione e il funzionamento delle istituzioni e degli organismi di partecipazione, per il funzionamento degli organi e degli uffici e per l'esercizio delle funzioni.
 
-###### Art. 7-bis
+##### Art. 7-bis
 
 Sanzioni amministrative
 
@@ -154,7 +152,7 @@ Sanzioni amministrative
 
 2\. L'organo competente a irrogare la sanzione amministrativa e' individuato ai sensi dell'articolo 17 della legge 24 novembre 1981, n. 689.
 
-###### Articolo 8
+##### Articolo 8
 
 Partecipazione popolare
 
@@ -168,7 +166,7 @@ Partecipazione popolare
 
 5\. Lo statuto, ispirandosi ai principi di cui alla legge 8 marzo 1994, n. 203, e al decreto legislativo 25 luglio 1998, n. 286, promuove forme di partecipazione alla vita pubblica locale dei cittadini dell'Unione europea e degli stranieri regolarmente soggiornanti.
 
-###### Articolo 9
+##### Articolo 9
 
 Azione popolare e delle associazioni di protezione ambientale
 
@@ -178,7 +176,7 @@ Azione popolare e delle associazioni di protezione ambientale
 
 3\. (( COMMA ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152 )).
 
-###### Articolo 10
+##### Articolo 10
 
 Diritto di accesso e di informazione
 
@@ -188,7 +186,7 @@ Diritto di accesso e di informazione
 
 3\. Al fine di rendere effettiva la partecipazione dei cittadini all'attivita' dell'amministrazione, gli enti locali assicurano l'accesso alle strutture, ed ai servizi gli enti, alle organizzazioni di volontariato e alle associazioni.
 
-###### Articolo 11
+##### Articolo 11
 
 Difensore civico
 
@@ -218,7 +216,7 @@ a) soppressione della figura del difensore civico comunale di cui all'articolo 1
 
 \[. . .]".
 
-###### Articolo 12
+##### Articolo 12
 
 Sistemi informativi e statistici
 
@@ -228,13 +226,11 @@ Sistemi informativi e statistici
 
 3\. Le misure necessarie sono adottate con le procedure e gli strumenti di cui agli articoli 6 e 9 del decreto legislativo 28 agosto 1997, n. 281.
 
-## TITOLO II - SOGGETTI
+### TITOLO II - SOGGETTI
 
-### CAPO I
+#### CAPO I - Comune
 
-#### Comune
-
-###### Articolo 13
+##### Articolo 13
 
 Funzioni
 
@@ -242,7 +238,7 @@ Funzioni
 
 2\. Il comune, per l'esercizio delle funzioni in ambiti territoriali adeguati, attua forme sia di decentramento sia di cooperazione con altri comuni e con la provincia.
 
-###### Articolo 14
+##### Articolo 14
 
 Compiti del comune per servizi di competenza statale
 
@@ -252,7 +248,7 @@ Compiti del comune per servizi di competenza statale
 
 3\. Ulteriori funzioni amministrative per servizi di competenza statale possono essere affidate ai comuni dalla legge che regola anche i relativi rapporti finanziari, assicurando le risorse necessarie.
 
-###### Articolo 15
+##### Articolo 15
 
 Modifiche territoriali fusione ed istituzione di comuni
 
@@ -282,7 +278,7 @@ AGGIORNAMENTO (97)
 
 La L. 27 dicembre 2017, n. 205, ha disposto (con l'art. 1, comma 869) che "La dotazione finanziaria dei contributi straordinari di cui all'articolo 15, comma 3, del testo unico di cui al decreto legislativo 18 agosto 2000, n. 267, e' incrementata a decorrere dall'anno 2018 di 10 milioni di euro annui. All'onere derivante dalla disposizione di cui al primo periodo, pari a 10 milioni di euro annui a decorrere dall'anno 2018, si provvede mediante corrispondente riduzione del contributo di cui al comma 24 dell'articolo 1 della legge 28 dicembre 2015, n. 208".
 
-###### Articolo 16
+##### Articolo 16
 
 Municipi
 
@@ -290,7 +286,7 @@ Municipi
 
 2\. Lo statuto e il regolamento disciplinano l'organizzazione e le funzioni dei municipi, potendo prevedere anche organi eletti a suffragio universale diretto. Si applicano agli amministratori dei municipi le norme previste per gli amministratori dei comuni con pari popolazione.
 
-###### Articolo 17
+##### Articolo 17
 
 Circoscrizioni di decentramento comunale
 
@@ -332,15 +328,15 @@ La L. 23 dicembre 2009, n. 191, come modificata dal D.L. 25 gennaio 2010, n. 2, 
 
 b) soppressione delle circoscrizioni di decentramento comunale di cui all'articolo 17 del citato testo unico di cui al decreto legislativo n. 267 del 2000, e successive modificazioni, tranne che per i comuni con popolazione superiore a 250.000 abitanti, che hanno facolta' di articolare il loro territorio in circoscrizioni, la cui popolazione media non puo' essere inferiore a 30.000 abitanti; e' fatto salvo il comma 5, dell'articolo 17, del testo unico delle leggi sull'ordinamento degli enti locali, di cui al decreto legislativo 18 agosto 2000, n. 267;"
 
-###### Articolo 18
+##### Articolo 18
 
 Titolo di citta'
 
 1\. Il titolo di citta' puo' essere concesso con decreto del Presidente della Repubblica su proposta del Ministro dell'interno ai comuni insigni per ricordi, monumenti storici e per l'attuale importanza.
 
-## CAPO II - Provincia
+#### CAPO II - Provincia
 
-###### Articolo 19
+##### Articolo 19
 
 Funzioni
 
@@ -370,7 +366,7 @@ l) raccolta ed elaborazione dati, assistenza tecnico-amministrativa agli enti lo
 
 3\. La gestione di tali attivita' ed opere avviene attraverso le forme previste dal presente testo unico per la gestione dei servizi pubblici locali.
 
-###### Articolo 20
+##### Articolo 20
 
 Compiti di programmazione
 
@@ -400,7 +396,7 @@ d) le aree nelle quali sia opportuno istituire parchi o riserve naturali.
 
 6\. Gli enti e le amministrazioni pubbliche, nell'esercizio delle rispettive competenze, si conformano ai piani territoriali di coordinamento delle province e tengono conto dei loro programmi pluriennali.
 
-###### Articolo 21
+##### Articolo 21
 
 ((Revisione delle circoscrizioni provinciali))
 
@@ -426,21 +422,9 @@ g) le province preesistenti debbono garantire alle nuove, in proporzione al terr
 
 4\. Ai sensi del secondo comma dell'articolo 117 della Costituzione le regioni emanano norme intese a promuovere e coordinare l'iniziativa dei comuni di cui alla lettera d) del comma 3.
 
-## CAPO III - Aree metropolitane
+#### CAPO III - Aree metropolitane
 
-###### Articolo 22
-
-((ARTICOLO ABROGATO DAL D.L. 6 LUGLIO 2012, N. 95, CONVERTITO, CON MODIFICAZIONI, DALLA L. 7 AGOSTO 2012, N. 135))
-
-((69))
-
----------------
-
-AGGIORNAMENTO (69)
-
-Successivamente la Corte Costituzionale, con sentenza 3 - 19 luglio 2013, n. 220 (in G.U. 1a s.s. 24/7/2013, n. 30), ha dichiarato l'illegittimita' costituzionale dell'art. 18 del D.L. 6 luglio 2012, n. 95, convertito con modificazioni dalla L. 7 agosto 2012, n. 135 (che ha disposto l'abrogazione del presente articolo).
-
-###### Articolo 23
+##### Articolo 22
 
 ((ARTICOLO ABROGATO DAL D.L. 6 LUGLIO 2012, N. 95, CONVERTITO, CON MODIFICAZIONI, DALLA L. 7 AGOSTO 2012, N. 135))
 
@@ -452,7 +436,19 @@ AGGIORNAMENTO (69)
 
 Successivamente la Corte Costituzionale, con sentenza 3 - 19 luglio 2013, n. 220 (in G.U. 1a s.s. 24/7/2013, n. 30), ha dichiarato l'illegittimita' costituzionale dell'art. 18 del D.L. 6 luglio 2012, n. 95, convertito con modificazioni dalla L. 7 agosto 2012, n. 135 (che ha disposto l'abrogazione del presente articolo).
 
-###### Articolo 24
+##### Articolo 23
+
+((ARTICOLO ABROGATO DAL D.L. 6 LUGLIO 2012, N. 95, CONVERTITO, CON MODIFICAZIONI, DALLA L. 7 AGOSTO 2012, N. 135))
+
+((69))
+
+---------------
+
+AGGIORNAMENTO (69)
+
+Successivamente la Corte Costituzionale, con sentenza 3 - 19 luglio 2013, n. 220 (in G.U. 1a s.s. 24/7/2013, n. 30), ha dichiarato l'illegittimita' costituzionale dell'art. 18 del D.L. 6 luglio 2012, n. 95, convertito con modificazioni dalla L. 7 agosto 2012, n. 135 (che ha disposto l'abrogazione del presente articolo).
+
+##### Articolo 24
 
 Esercizio coordinato di funzioni
 
@@ -480,13 +476,13 @@ l) funzioni dei sindaci ai sensi dell'articolo 50, comma 7.
 
 Le disposizioni regionali emanate ai sensi del comma 1 si applicano fino all'istituzione della citta' metropolitana.
 
-###### Articolo 25
+##### Articolo 25
 
 Revisione delle circoscrizioni comunali
 
 1\. Istituita la citta' metropolitana, la regione, previa intesa con gli enti locali interessati, puo' procedere alla revisione delle circoscrizioni territoriali dei comuni compresi nell'area metropolitana.
 
-###### Articolo 26
+##### Articolo 26
 
 Norma transitoria
 
@@ -494,9 +490,9 @@ Norma transitoria
 
 2\. La legge istitutiva della citta' metropolitana stabilisce i termini per il conferimento, da parte della regione, dei compiti e delle funzioni amministrative in base ai principi dell'articolo 4, comma 3, della legge 15 marzo 1997, n. 59, e le modalita' per l'esercizio dell'intervento sostitutivo da parte del Governo in analogia a quanto previsto dall'articolo 3, comma 4, del decreto legislativo 31 marzo 1998, n. 112.
 
-## CAPO IV - Comunita' montane
+#### CAPO IV - Comunita' montane
 
-###### Articolo 27
+##### Articolo 27
 
 Natura e ruolo
 
@@ -528,7 +524,7 @@ L'esclusione non priva i rispettivi territori montani dei benefici e degli inter
 
 8\. Ove in luogo di una preesistente comunita' montana vengano costituite piu' comunita' montane, ai nuovi enti spettano nel complesso i trasferimenti erariali attribuiti all'ente originario, ripartiti in attuazione dei criteri stabiliti dall'articolo 36 del decreto legislativo 30 dicembre 1992, n. 504, e successive modificazioni.
 
-###### Articolo 28
+##### Articolo 28
 
 Funzioni
 
@@ -546,15 +542,15 @@ Funzioni
 
 7\. Alle comunita' montane si applicano le disposizioni dell'articolo 32, comma 5.
 
-###### Articolo 29
+##### Articolo 29
 
 Comunita' isolane o di arcipelago
 
 1\. In ciascuna isola o arcipelago di isole, ad eccezione della Sicilia e della Sardegna, ove esistono piu' comuni puo' essere istituita, dai comuni interessati, la comunita' isolana o dell'arcipelago, cui si estendono le norme sulle comunita' montane.
 
-## CAPO V - Forme associative
+#### CAPO V - Forme associative
 
-###### Articolo 30
+##### Articolo 30
 
 Convenzioni
 
@@ -566,7 +562,7 @@ Convenzioni
 
 4\. Le convenzioni di cui al presente articolo possono prevedere anche la costituzione di uffici comuni che operano con personale distaccato dagli enti partecipanti, ai quali affidare l'esercizio delle funzioni pubbliche in luogo degli enti partecipanti all'accordo, ovvero la delega di funzioni da parte degli enti partecipanti all'accordo a favore di uno di essi, che opera in luogo e per conto degli enti deleganti.
 
-###### Art. 31
+##### Art. 31
 
 Consorzi
 
@@ -586,7 +582,7 @@ Consorzi
 
 8\. Ai consorzi che gestiscono attivita' (( di cui all'articolo 113-bis )), si applicano le norme previste per le aziende speciali.
 
-###### Articolo 32 - Unione di comuni
+##### Articolo 32 - Unione di comuni
 
 1\. L'unione di comuni e' l'ente locale costituito da due o piu' comuni, di norma contermini, finalizzato all'esercizio associato di funzioni e servizi. Ove costituita in prevalenza da comuni montani, essa assume la denominazione di unione di comuni montani e puo' esercitare anche le specifiche competenze di tutela e di promozione della montagna attribuite in attuazione dell'articolo 44, secondo comma, della Costituzione e delle leggi in favore dei territori montani.
 
@@ -616,7 +612,7 @@ Il D.L. 13 agosto 2011, n. 138, convertito con modificazioni dalla L. 14 settemb
 
 Ha inoltre disposto (con l'art. 16, comma 29) che "Le disposizioni di cui al presente articolo si applicano ai comuni appartenenti alle regioni a statuto speciale ed alle province autonome di Trento e di Bolzano nel rispetto degli statuti delle regioni e province medesime, delle relative norme di attuazione e secondo quanto previsto dall'articolo 27 della legge 5 maggio 2009, n. 42".
 
-###### Articolo 33
+##### Articolo 33
 
 Esercizio associato di funzioni e servizi da parte dei comuni
 
@@ -638,7 +634,7 @@ a) nella disciplina delle incentivazioni:
 
 b) promuovono le unioni di comuni, senza alcun vincolo alla successiva fusione, prevedendo comunque ulteriori benefici da corrispondere alle unioni che autonomamente deliberino, su conforme proposta dei consigli comunali interessati, di procedere alla fusione.
 
-###### Articolo 34
+##### Articolo 34
 
 Accordi di programma
 
@@ -658,21 +654,17 @@ Accordi di programma
 
 8\. Allorche' l'intervento o il programma di intervento comporti il concorso di due o piu' regioni finitime, la conclusione dell'accordo di programma e' promossa dalla Presidenza del Consiglio dei Ministri, a cui spetta convocare la conferenza di cui al comma 3. Il collegio di vigilanza di cui al comma 7 e' in tal caso presieduto da un rappresentante della Presidenza del Consiglio dei Ministri ed e' composto dai rappresentanti di tutte le regioni che hanno partecipato all'accordo. La Presidenza del Consiglio dei Ministri esercita le funzioni attribuite dal comma 7 al commissario del Governo ed al prefetto.
 
-###### Articolo 35
+##### Articolo 35
 
 Norma transitoria
 
 1\. L'adozione delle leggi regionali previste dall'articolo 33, comma 4, avviene entro il 21 febbraio 2001. Trascorso inutilmente tale termine, il Governo, entro i successivi sessanta giorni, sentite le regioni inadempienti e la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, provvede a dettare la relativa disciplina nel rispetto dei principi enunciati nel citato articolo del presente testo unico. La disciplina adottata nell'esercizio dei poteri sostitutivi si applica fino alla data di entrata in vigore della legge regionale.
 
-## TITOLO III - ORGANI
+### TITOLO III - ORGANI
 
-### CAPO I
+#### CAPO I - Organi di governo del comune e della provincia
 
-#### Organi di governo del comune e - della
-
-##### provincia
-
-###### Articolo 36
+##### Articolo 36
 
 Organi di governo
 
@@ -680,7 +672,7 @@ Organi di governo
 
 2\. Sono organi di governo della provincia il consiglio, la giunta, il presidente.
 
-###### Articolo 37
+##### Articolo 37
 
 Composizione dei consigli
 
@@ -716,7 +708,7 @@ d) da 24 membri nelle altre province.
 
 4\. La popolazione e' determinata in base ai risultati dell'ultimo censimento ufficiale.
 
-###### Art. 38
+##### Art. 38
 
 Consigli comunali e provinciali
 
@@ -750,7 +742,7 @@ AGGIORNAMENTO (49)
 
 Il D.L. 13 agosto 2011, n. 138, convertito con modificazioni dalla L. 14 settembre 2011, n. 148, ha disposto (con l'art. 16, comma 29) che "Le disposizioni di cui al presente articolo si applicano ai comuni appartenenti alle regioni a statuto speciale ed alle province autonome di Trento e di Bolzano nel rispetto degli statuti delle regioni e province medesime, delle relative norme di attuazione e secondo quanto previsto dall'articolo 27 della legge 5 maggio 2009, n. 42".
 
-###### Articolo 39
+##### Articolo 39
 
 Presidenza dei consigli comunali e provinciali
 
@@ -766,7 +758,7 @@ Al presidente del consiglio sono attribuiti, tra gli altri, i poteri di convocaz
 
 5\. In caso di inosservanza degli obblighi di convocazione del consiglio, previa diffida, provvede il prefetto.
 
-###### Articolo 40
+##### Articolo 40
 
 Convocazione della prima seduta del consiglio
 
@@ -782,7 +774,7 @@ Convocazione della prima seduta del consiglio
 
 6\. le disposizioni di cui ai commi 2, 3, 4, 5 si applicano salvo diversa previsione regolamentare nel quadro dei principi stabiliti dallo statuto.
 
-###### Articolo 41
+##### Articolo 41
 
 Adempimenti della prima seduta
 
@@ -790,11 +782,11 @@ Adempimenti della prima seduta
 
 2\. Il consiglio comunale, nella prima seduta, elegge tra i propri componenti la commissione elettorale comunale ai sensi degli articoli 12 e seguenti del decreto del Presidente della Repubblica 20 marzo 1967, n. 223.
 
-###### Art. 41-bis
+##### Art. 41-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 14 MARZO 2013, N. 33))
 
-###### Art. 42
+##### Art. 42
 
 Attribuzioni dei consigli
 
@@ -836,7 +828,7 @@ AGGIORNAMENTO (64)
 
 Il D.L. 8 aprile 2013, n. 35, convertito con modificazioni dalla L. 6 giugno 2013, n. 64, ha disposto (con l'art. 1, comma 13) che "Gli enti locali che non possono far fronte ai pagamenti dei debiti certi liquidi ed esigibili maturati alla data del 31 dicembre 2012, ovvero dei debiti per i quali sia stata emessa fattura o richiesta equivalente di pagamento entro il predetto termine a causa di carenza di liquidita', in deroga agli articoli 42, 203 e 204 del decreto legislativo 18 agosto 2000, n. 267, chiedono alla Cassa depositi e prestiti S.p.A., secondo le modalita' stabilite nell'addendum di cui al comma 11, entro il 30 aprile 2013 l'anticipazione di liquidita' da destinare ai predetti pagamenti".
 
-###### Articolo 43
+##### Articolo 43
 
 Diritti dei consiglieri
 
@@ -848,7 +840,7 @@ Diritti dei consiglieri
 
 4\. Lo statuto stabilisce i casi di decadenza per la mancata partecipazione alle sedute e le relative procedure, garantendo il diritto del consigliere a far valere le cause giustificative.
 
-###### Articolo 44
+##### Articolo 44
 
 Garanzia delle minoranze e controllo consiliare
 
@@ -856,7 +848,7 @@ Garanzia delle minoranze e controllo consiliare
 
 2\. Il consiglio comunale o provinciale, a maggioranza assoluta dei propri membri, puo' istituire al proprio interno commissioni di indagine sull'attivita' dell'amministrazione. I poteri, la composizione ed il funzionamento delle suddette commissioni sono disciplinati dallo statuto e dal regolamento consiliare.
 
-###### Articolo 45
+##### Articolo 45
 
 Surrogazione e supplenza dei consiglieri provinciali, comunali e
 
@@ -866,7 +858,7 @@ circoscrizionali
 
 2\. Nel caso di sospensione di un consigliere ai sensi dell'articolo 59, il consiglio, nella prima adunanza successiva alla notifica del provvedimento di sospensione, procede alla temporanea sostituzione affidando la supplenza per l'esercizio delle funzioni di consigliere al candidato della stessa lista che ha riportato, dopo gli eletti, il maggior numero di voti. La supplenza ha termine con la cessazione della sospensione. Qualora sopravvenga la decadenza si fa luogo alla surrogazione a norma del comma 1.
 
-###### Articolo 46
+##### Articolo 46
 
 Elezione del sindaco e del presidente della provincia - Nomina della giunta
 
@@ -878,7 +870,7 @@ Elezione del sindaco e del presidente della provincia - Nomina della giunta
 
 4\. Il sindaco e il presidente della provincia possono revocare uno o piu' assessori, dandone motivata comunicazione al consiglio.
 
-###### Articolo 47
+##### Articolo 47
 
 Composizione delle giunte
 
@@ -902,7 +894,7 @@ AGGIORNAMENTO (31)
 
 La L. 24 dicembre 2007, n. 244, ha disposto (con l'art. 2, comma 23) che la presente modifica "entra in vigore a decorrere dalle prossime elezioni amministrative locali".
 
-###### Articolo 48
+##### Articolo 48
 
 Competenze delle giunte
 
@@ -918,7 +910,7 @@ AGGIORNAMENTO (49)
 
 Il D.L. 13 agosto 2011, n. 138, convertito con modificazioni dalla L. 14 settembre 2011, n. 148, ha disposto (con l'art. 16, comma 29) che "Le disposizioni di cui al presente articolo si applicano ai comuni appartenenti alle regioni a statuto speciale ed alle province autonome di Trento e di Bolzano nel rispetto degli statuti delle regioni e province medesime, delle relative norme di attuazione e secondo quanto previsto dall'articolo 27 della legge 5 maggio 2009, n. 42".
 
-###### Art. 49
+##### Art. 49
 
 (( (Pareri dei responsabili dei servizi). ))
 
@@ -932,7 +924,7 @@ I pareri sono inseriti nella deliberazione.
 
 4\. Ove la Giunta o il Consiglio non intendano conformarsi ai pareri di cui al presente articolo, devono darne adeguata motivazione nel testo della deliberazione.))
 
-###### Articolo 50
+##### Articolo 50
 
 Competenze del sindaco e del presidente della provincia
 
@@ -968,7 +960,7 @@ Qualora la stessa violazione sia stata commessa per due volte in un anno, si app
 
 12\. Distintivo del sindaco e' la fascia tricolore con lo stemma della Repubblica e lo stemma del comune, da portarsi a tracolla. Distintivo del presidente della provincia e' una fascia di colore azzurro con lo stemma della Repubblica e lo stemma della propria provincia, da portare a tracolla.
 
-###### Articolo 51
+##### Articolo 51
 
 Durata del mandato del sindaco, del presidente della provincia e dei consigli.
 
@@ -982,7 +974,7 @@ Le disposizioni di cui ai precedenti periodi non si applicano ai comuni con popo
 
 3\. Per l'ipotesi di cui al comma 2, primo periodo, e' consentito un terzo mandato consecutivo se uno dei due mandati precedenti ha avuto durata inferiore a due anni, sei mesi e un giorno, per causa diversa dalle dimissioni volontarie.
 
-###### Articolo 52
+##### Articolo 52
 
 Mozione di sfiducia
 
@@ -990,7 +982,7 @@ Mozione di sfiducia
 
 2\. Il sindaco, il presidente della provincia e le rispettive giunte cessano dalla carica in caso di approvazione di una mozione di sfiducia votata per appello nominale dalla maggioranza assoluta dei componenti il consiglio. La mozione di sfiducia deve essere motivata e sottoscritta da almeno due quinti dei consiglieri assegnati, senza computare a tal fine il sindaco e il presidente della provincia, e viene messa in discussione non prima di dieci giorni e non oltre trenta giorni dalla sua presentazione. Se la mozione viene approvata, si procede allo scioglimento del consiglio e alla nomina di un commissario ai sensi dell'articolo 141.
 
-###### Articolo 53
+##### Articolo 53
 
 Dimissioni, impedimento, rimozione, decadenza, sospensione o decesso del sindaco o del presidente della provincia
 
@@ -1002,7 +994,7 @@ Dimissioni, impedimento, rimozione, decadenza, sospensione o decesso del sindaco
 
 4\. Lo scioglimento del consiglio comunale o provinciale determina in ogni caso la decadenza del sindaco o del presidente della provincia nonche' delle rispettive giunte.
 
-###### Art. 54 - Attribuzioni del sindaco nelle funzioni di competenza statale
+##### Art. 54 - Attribuzioni del sindaco nelle funzioni di competenza statale
 
 1\. Il sindaco, quale ufficiale del Governo, sovrintende:
 
@@ -1044,9 +1036,9 @@ AGGIORNAMENTO (48)
 
 La Corte Costituzionale, con sentenza 4 - 7 aprile 2011, n. 115 (in G.U. 1a s.s. 13/4/2011, n. 16), ha dichiarato "l'illegittimita' costituzionale dell'art. 54, comma 4, del decreto legislativo 18 agosto 2000, n. 267 (Testo unico delle leggi sull'ordinamento degli enti locali), come sostituito dall'art. 6 del decreto-legge 23 maggio 2008, n. 92 (Misure urgenti in materia di sicurezza pubblica), convertito, con modificazioni, dall'art. 1, comma 1, della legge 24 luglio 2008, n. 125, nella parte in cui comprende la locuzione «, anche» prima delle parole «contingibili e urgenti»".
 
-## CAPO II - Incandidabilita', ineleggibilita', incompatibilita'
+#### CAPO II - Incandidabilita', ineleggibilita', incompatibilita'
 
-###### Articolo 55
+##### Articolo 55
 
 Elettorato passivo
 
@@ -1054,7 +1046,7 @@ Elettorato passivo
 
 2\. Per l'eleggibilita' alle elezioni comunali dei cittadini dell'Unione europea residenti nella Repubblica si applicano le disposizioni del decreto legislativo 12 aprile 1996, n. 197.
 
-###### Articolo 56
+##### Articolo 56
 
 Requisiti della candidatura
 
@@ -1062,13 +1054,13 @@ Requisiti della candidatura
 
 2\. Nessuno puo' essere candidato alla carica di sindaco o di presidente della provincia in piu' di un comune ovvero di una provincia.
 
-###### Articolo 57
+##### Articolo 57
 
 Obbligo di opzione
 
 1\. Il candidato che sia eletto contemporaneamente consigliere in due province, in due comuni, in due circoscrizioni, deve optare per una delle cariche entro cinque giorni dall'ultima deliberazione di convalida. Nel caso di mancata opzione rimane eletto nel consiglio della provincia, del comune o della circoscrizione in cui ha riportato il maggior numero di voti in percentuale rispetto al numero dei votanti ed e' surrogato nell'altro consiglio.
 
-###### Art. 58
+##### Art. 58
 
 ((ARTICOLO ABROGATO DALLA L. 31 DICEMBRE 2012, N. 235))
 
@@ -1080,7 +1072,7 @@ AGGIORNAMENTO (63)
 
 Il D.Lgs. 31 dicembre 2012, n. 235 ha disposto (con l'art. 17, comma 2) che "Dalla data di cui al comma 1, i richiami agli articoli 58 e 59 del decreto legislativo 18 agosto 2000, n. 267, ovunque presenti, si intendono riferiti, rispettivamente, agli articoli 10 e 11 del presente testo unico".
 
-###### Art. 59
+##### Art. 59
 
 ((ARTICOLO ABROGATO DALLA L. 31 DICEMBRE 2012, N. 235))
 
@@ -1092,7 +1084,7 @@ AGGIORNAMENTO (63)
 
 Il D.Lgs. 31 dicembre 2012, n. 235 ha disposto (con l'art. 17, comma 2) che "Dalla data di cui al comma 1, i richiami agli articoli 58 e 59 del decreto legislativo 18 agosto 2000, n. 267, ovunque presenti, si intendono riferiti, rispettivamente, agli articoli 10 e 11 del presente testo unico".
 
-###### Art. 60
+##### Art. 60
 
 Ineleggibilita'
 
@@ -1146,7 +1138,7 @@ AGGIORNAMENTO (39)
 
 La Corte costituzionale, con sentenza 26 gennaio-6 febbraio 2009, n. 27 (in G.U. 1° s.s. 11/2/2009, n. 6) ha dichiarato l'illegittimita' costituzionale del comma 1, numero 9), del presente articolo 60 "nella parte in cui prevede l'ineleggibilita' dei direttori sanitari delle strutture convenzionate per i consigli del comune il cui territorio coincide con il territorio dell'azienda sanitaria locale o ospedaliera con cui sono convenzionate o lo ricomprende, ovvero dei comuni che concorrono a costituire l'azienda sanitaria locale o ospedaliera con cui sono convenzionate"
 
-###### Art. 61
+##### Art. 61
 
 (( Ineleggibilita' e incompatibilita'
 
@@ -1166,13 +1158,13 @@ AGGIORNAMENTO (1)
 
 La Corte costituzionale, con sentenza 23-31 ottobre 2000, n. 450 (in G.U. 1a s.s. 8/11/2000, n. 46) ha dichiarato l'illegittimita' costituzionale del presente articolo 61, n. 2, "nella parte in cui stabilisce che chi ha ascendenti o discendenti ovvero parenti o affini fino al secondo grado che rivestano la qualita' di appaltatore di lavori o di servizi comunali non puo' essere eletto alla carica di sindaco, anziche' stabilire che chi si trova in detta situazione non puo' ricoprire la carica di sindaco."
 
-###### Articolo 62
+##### Articolo 62
 
 Decadenza dalla carica di sindaco e di presidente della provincia
 
 1\. Fermo restando quanto previsto dall'articolo 7 del decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e dall'articolo 5 del decreto legislativo 20 dicembre 1993, n. 533, l'accettazione della candidatura a deputato o senatore comporta, in ogni caso, per i sindaci dei comuni con popolazione superiore ai 20.000 abitanti e per i presidenti delle province la decadenza dalle cariche elettive ricoperte.
 
-###### Art. 63
+##### Art. 63
 
 Incompatibilita'
 
@@ -1206,7 +1198,7 @@ AGGIORNAMENTO (67)
 
 La Corte Costituzionale, con sentenza 3 - 5 giugno 2013, n. 120 (in G.U. 1a s.s. 12/6/2013, n. 24), ha dichiarato "l'illegittimita' costituzionale dell'articolo 63 del decreto legislativo 18 agosto 2000, n. 267 (Testo unico delle leggi sull'ordinamento degli enti locali), nella parte in cui non prevede l'incompatibilita' tra la carica di parlamentare e quella di sindaco di un Comune con popolazione superiore ai 20.000 abitanti".
 
-###### Art. 64
+##### Art. 64
 
 Incompatibilita' tra consigliere comunale e provinciale e assessore nella rispettiva giunta
 
@@ -1224,7 +1216,7 @@ AGGIORNAMENTO (150)
 
 La Corte Costituzionale con sentenza 20 marzo - 18 giugno 2024, n. 107 (in G.U. 1ª s.s. 19/06/2024, n. 25), ha dichiarato "l'illegittimita' costituzionale dell'art. 64, comma 4, del decreto legislativo 18 agosto 2000, n. 267 (Testo unico delle leggi sull'ordinamento degli enti locali), nella parte in cui prevede che non possono far parte della giunta, ne' essere nominati rappresentanti del comune e della provincia, gli affini entro il terzo grado del sindaco o del presidente della giunta provinciale, anche quando l'affinita' deriva da un matrimonio rispetto al quale il giudice abbia pronunciato, con sentenza passata in giudicato, lo scioglimento o la cessazione degli effetti civili per una delle cause previste dall'art. 3 della legge 1° dicembre 1970, n. 898 (Disciplina dei casi di scioglimento del matrimonio)".
 
-###### Articolo 65
+##### Articolo 65
 
 (( (Incompatibilita' per consigliere regionale, comunale e circoscrizionale). ))
 
@@ -1234,19 +1226,19 @@ La Corte Costituzionale con sentenza 20 marzo - 18 giugno 2024, n. 107 (in G.U. 
 
 3\. La carica di consigliere comunale e' incompatibile con quella di consigliere di una circoscrizione dello stesso o di altro comune)).
 
-###### Articolo 66
+##### Articolo 66
 
 Incompatibilita' per gli organi delle aziende sanitarie locali e ospedaliere
 
 1\. La carica di direttore generale, di direttore amministrativo e di direttore sanitario delle aziende sanitarie locali e ospedaliere e' incompatibile con quella di consigliere provinciale, di sindaco, di assessore comunale, di presidente o di assessore della comunita' montana.
 
-###### Articolo 67
+##### Articolo 67
 
 Esimente alle cause di ineleggibilita' o incompatibilita'
 
 1\. Non costituiscono cause di ineleggibilita' o di incompatibilita' gli incarichi e le funzioni conferite ad amministratori del comune, della provincia e della circoscrizione previsti da norme di legge, statuto o regolamento in ragione del mandato elettivo.
 
-###### Articolo 68
+##### Articolo 68
 
 Perdita delle condizioni di eleggibilita' e incompatibilita'
 
@@ -1258,7 +1250,7 @@ Perdita delle condizioni di eleggibilita' e incompatibilita'
 
 4\. La cessazione dalle funzioni deve avere luogo entro dieci giorni dalla data in cui e' venuta a concretizzarsi la causa di ineleggibilita' o di incompatibilita'.
 
-###### Articolo 69
+##### Articolo 69
 
 Contestazione delle cause di ineleggibilita' ed incompatibilita'
 
@@ -1276,7 +1268,7 @@ Contestazione delle cause di ineleggibilita' ed incompatibilita'
 
 7\. Le deliberazioni di cui al presente articolo sono adottate di ufficio o su istanza di qualsiasi elettore.
 
-###### Articolo 70
+##### Articolo 70
 
 Azione popolare
 
@@ -1296,9 +1288,9 @@ Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, comma 1) che "Le 
 
 Ha inoltre disposto (con l'art. 36, comma 2) che "Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
 
-## CAPO III - Sistema elettorale
+#### CAPO III - Sistema elettorale
 
-###### Articolo 71
+##### Articolo 71
 
 Elezione del sindaco e del consiglio comunale nei comuni sino ai 15.000 abitanti
 
@@ -1356,7 +1348,7 @@ AGGIORNAMENTO (149)
 
 Il D.L. 29 gennaio 2024, n. 7 ha disposto (con l'art. 4, comma 2) che "Limitatamente all'anno 2024, per l'elezione del sindaco e del consiglio comunale nei comuni con popolazione fino a 15.000 abitanti, in deroga a quanto previsto dalle disposizioni di cui all'articolo 71, comma 10, del testo unico delle leggi sull'ordinamento degli enti locali, di cui al decreto legislativo 18 agosto 2000, n. 267, ove sia stata ammessa e votata una sola lista, sono eletti tutti i candidati compresi nella lista e il candidato a sindaco collegato, purche' essa abbia riportato un numero di voti validi non inferiore al 50 per cento dei votanti e il numero dei votanti non sia stato inferiore al 40 per cento degli elettori iscritti nelle liste elettorali del comune. Qualora non siano raggiunte tali percentuali, l'elezione e' nulla".
 
-###### Art. 72
+##### Art. 72
 
 Elezione del sindaco nei comuni con popolazione superiore a 15.000 abitanti
 
@@ -1382,7 +1374,7 @@ Detto ballottaggio ha luogo la domenica successiva al decimo giorno dal verifica
 
 9\. Dopo il secondo turno e' proclamato eletto sindaco il candidato che ha ottenuto il maggior numero di voti validi. In caso di parita' di voti. e' proclamato eletto sindaco il candidato collegato. ai sensi del comma 7, con la lista o il gruppo di liste per l'elezione del consiglio comunale che ha conseguito la maggiore cifra elettorale complessiva. A parita' di cifra elettorale, e' proclamato eletto sindaco il candidato piu' anziano d'eta'.
 
-###### Art. 73
+##### Art. 73
 
 Elezione del consiglio comunale nei comuni con popolazione superiore a 15.000 abitanti
 
@@ -1412,7 +1404,7 @@ Piu' liste possono presentare lo stesso candidato alla carica di sindaco. In tal
 
 12\. Compiute le operazioni di cui al comma 11 sono proclamati eletti consiglieri comunali i candidati di ciascuna lista secondo l'ordine delle rispettive cifre individuali. In caso di parita' di cifra individuale, sono proclamati eletti i candidati che precedono nell'ordine di lista.
 
-###### Art. 74
+##### Art. 74
 
 Elezione del presidente della provincia
 
@@ -1440,7 +1432,7 @@ Il voto espresso nei modi suindicati si intende attribuito sia al candidato alla
 
 11\. Dopo il secondo turno e' proclamato eletto presidente della provincia il candidato che ha ottenuto il maggior numero di voti validi. In caso di parita' di voti, e' proclamato eletto presidente della provincia il candidato collegato con il gruppo o i gruppi di candidati per il consiglio provinciale che abbiano conseguito la maggiore cifra elettorale complessiva. A parita' di cifra elettorale, e' proclamato eletto il candidato piu' anziano di eta'.
 
-###### Articolo 75
+##### Articolo 75
 
 Elezione del consiglio provinciale
 
@@ -1474,7 +1466,7 @@ Si determinano in tal modo i quozienti piu' alti e, quindi, il numero dei seggi 
 
 12\. La cifra individuale dei candidati a consigliere provinciale viene determinata moltiplicando il numero dei voti validi ottenuto da ciascun candidato per cento e dividendo il prodotto per il totale dei voti validi espressi nel collegio per i candidati a consigliere provinciale. Nel caso di candidature presentate in piu' di un collegio si assume, ai fini della graduatoria, la maggiore cifra individuale riportata dal candidato.
 
-###### Articolo 76
+##### Articolo 76
 
 Anagrafe degli amministratori locali e regionali
 
@@ -1486,9 +1478,9 @@ Anagrafe degli amministratori locali e regionali
 
 4\. Al fine di assicurare la massima trasparenza e' riconosciuto a chiunque il diritto di prendere visione ed estrarre copia, anche su supporto informatico, dei dati contenuti nell'anagrafe.
 
-## CAPO IV - Status degli amministratori locali
+#### CAPO IV - Status degli amministratori locali
 
-###### Articolo 77
+##### Articolo 77
 
 Definizione di amministratore locale
 
@@ -1498,7 +1490,7 @@ Definizione di amministratore locale
 
 Per amministratori si intendono, ai soli fini del presente capo, i sindaci, anche metropolitani, i presidenti delle province, i consiglieri dei comuni anche metropolitani e delle province, i componenti delle giunte comunali, metropolitane e provinciali, i presidenti dei consigli comunali, metropolitani e provinciali, i presidenti, i consiglieri e gli assessori delle comunita' montane, i componenti degli organi delle unioni di comuni e dei consorzi fra enti locali, nonche' i componenti degli organi di decentramento.
 
-###### Articolo 78
+##### Articolo 78
 
 Doveri e condizione giuridica
 
@@ -1514,7 +1506,7 @@ Doveri e condizione giuridica
 
 6\. Gli amministratori lavoratori dipendenti, pubblici e privati, non possono essere soggetti, se non per consenso espresso, a trasferimenti durante l'esercizio del mandato. La richiesta dei predetti lavoratori di avvicinamento al luogo in cui viene svolto il mandato amministrativo deve essere esaminata dal datore di lavoro con criteri di priorita'. ((...)).
 
-###### Articolo 79
+##### Articolo 79
 
 Permessi e licenze
 
@@ -1542,19 +1534,19 @@ AGGIORNAMENTO (96)
 
 Il D.L. 17 ottobre 2016, n. 189, convertito con modificazioni dalla L. 15 dicembre 2016, n. 229, come modificato dal D.L. 16 ottobre 2017, n. 148, convertito con modificazioni dalla L. 4 dicembre 2017, n. 172, ha disposto (con l'art. 44, comma 2-bis) che "Nei Comuni di cui agli allegati 1, 2 e 2-bis del presente decreto, i limiti previsti dal comma 4 dell'articolo 79 del testo unico di cui al decreto legislativo 18 agosto 2000, n. 267, per la fruizione di permessi e di licenze sono aumentati rispettivamente a 48 ore lavorative al mese, elevate a 96 ore per i comuni con popolazione superiore a 30.000 abitanti".
 
-###### Art. 80
+##### Art. 80
 
 Oneri per permessi retribuiti
 
 1\. Le assenze dal servizio di cui ai commi 1, 2, 3 e 4 dell'articolo 79 sono retribuite al lavoratore dal datore di lavoro. (( Gli oneri per i permessi retribuiti dei lavoratori dipendenti da privati o da enti pubblici economici sono a carico dell'ente presso il quale gli stessi lavoratori esercitano le funzioni pubbliche di cui all'articolo 79. )) L'ente, su richiesta documentata del datore di lavoro, e' tenuto a rimborsare quanto dallo stesso corrisposto, per retribuzioni ed assicurazioni, per le ore o giornate di effettiva assenza del lavoratore. Il rimborso viene effettuato dall'ente entro trenta giorni dalla richiesta. Le somme rimborsate sono esenti da imposta sul valore aggiunto ai sensi dell'articolo 8, comma 35, della legge 11 marzo 1988. n. 67.
 
-###### Articolo 81
+##### Articolo 81
 
 Aspettative
 
 1.(( I sindaci, i presidenti delle province, i presidenti dei consigli comunali e provinciali, i presidenti dei consigli circoscrizionali dei comuni di cui all'articolo 22, comma 1, i presidenti delle comunita' montane e delle unioni di comuni, nonche' i membri delle giunte di comuni e province )), che siano lavoratori dipendenti possono essere collocati a richiesta in aspettativa non retribuita per tutto il periodo di espletamento del mandato. Il periodo di aspettativa e' considerato come servizio effettivamente prestato, nonche' come legittimo impedimento per il compimento del periodo di prova. (( I consiglieri di cui all'articolo 77, comma 2, se a domanda collocati in aspettativa non retribuita per il periodo di espletamento del mandato, assumono a proprio carico l'intero pagamento degli oneri previdenziali, assistenziali e di ogni altra natura previsti dall'articolo 86 )).
 
-###### Art. 82
+##### Art. 82
 
 Indennita'
 
@@ -1634,7 +1626,7 @@ AGGIORNAMENTO (109)
 
 La L. 27 dicembre 2019, n. 160, nel modificare l'art. 2, comma 25, lettera d) della L. 24 dicembre 2007, n. 244, ha conseguentemente disposto (con l'art. 1, comma 552) che "Le disposizioni di cui all'articolo 2, comma 25, lettera d), della legge 24 dicembre 2007, n. 244, e all'articolo 76, comma 3, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, sono da intendersi riferite al divieto di applicare incrementi ulteriori rispetto all'ammontare dei gettoni di presenza e delle indennita' spettanti agli amministratori locali e gia' in godimento alla data di entrata in vigore delle suddette disposizioni, fermi restando gli incrementi qualora precedentemente determinati secondo le disposizioni vigenti fino a tale data".
 
-###### Articolo 83 - Divieto di cumulo
+##### Articolo 83 - Divieto di cumulo
 
 1\. I parlamentari nazionali ed europei, nonche' i consiglieri regionali non possono percepire i gettoni di presenza ((o altro emolumento comunque denominato)) previsti dal presente capo.
 
@@ -1642,7 +1634,7 @@ La L. 27 dicembre 2019, n. 160, nel modificare l'art. 2, comma 25, lettera d) de
 
 3\. In caso di cariche incompatibili, le indennita' di funzione non sono cumulabili; ai soggetti che si trovano in tale condizione, fino al momento dell'esercizio dell'opzione o comunque sino alla rimozione della condizione di incompatibilita', l'indennita' per la carica sopraggiunta non viene corrisposta.
 
-###### Articolo 84 - Rimborso delle spese di viaggio
+##### Articolo 84 - Rimborso delle spese di viaggio
 
 1\. Agli amministratori che, in ragione del loro mandato, si rechino fuori del capoluogo del comune ove ha sede il rispettivo ente, previa autorizzazione del capo dell'amministrazione, nel caso di componenti degli organi esecutivi, ovvero del presidente del consiglio, nel caso di consiglieri, ((e' dovuto)) esclusivamente il rimborso delle spese di viaggio effettivamente sostenute (( . . . )) nella misura fissata con decreto del Ministro dell'interno e del Ministro dell'economia e delle finanze, d'intesa con la Conferenza Stato-citta' ed autonomie locali.
 
@@ -1650,7 +1642,7 @@ La L. 27 dicembre 2019, n. 160, nel modificare l'art. 2, comma 25, lettera d) de
 
 3\. Agli amministratori che risiedono fuori del capoluogo del comune ove ha sede il rispettivo ente spetta il rimborso per le sole spese di viaggio effettivamente sostenute per la partecipazione ad ognuna delle sedute dei rispettivi organi assembleari ed esecutivi, nonche' per la presenza necessaria presso la sede degli uffici per lo svolgimento delle funzioni proprie o delegate.
 
-###### Articolo 85
+##### Articolo 85
 
 Partecipazione alle associazioni rappresentative degli enti locali
 
@@ -1658,7 +1650,7 @@ Partecipazione alle associazioni rappresentative degli enti locali
 
 2\. Le spese che gli enti locali ritengono di sostenere, per la partecipazione dei componenti dei propri organi alle riunioni e alle attivita' degli organi nazionali e regionali delle associazioni, fanno carico ai bilanci degli enti stessi.
 
-###### Articolo 86
+##### Articolo 86
 
 Oneri previdenziali, assistenziali e assicurativi e disposizioni fiscali e assicurative
 
@@ -1680,25 +1672,23 @@ c) assenza di dolo o colpa grave)).
 
 6\. Al fine di conferire certezza alla posizione previdenziale e assistenziale dei soggetti destinatari dei benefici di cui al comma 1 e' consentita l'eventuale ripetizione degli oneri assicurativi, assistenziali e previdenziali, entro cinque anni dalla data del loro versamento, se precedente alla data di entrata in vigore della legge 3 agosto 1999, n. 265, ed entro tre anni se successiva.
 
-###### Articolo 87
+##### Articolo 87
 
 Consigli di amministrazione delle aziende speciali
 
 1\. Fino all'approvazione della riforma in materia di servizi pubblici locali, ai componenti dei consigli di amministrazione delle aziende speciali anche consortili si applicano le disposizioni contenute nell'articolo 78, comma 2, nell'articolo 79, commi 3 e 4, nell'articolo 81, nell'articolo 85 e nell'articolo 86.
 
-## TITOLO IV - ORGANIZZAZIONE E PERSONALE
+### TITOLO IV - ORGANIZZAZIONE E PERSONALE
 
-### CAPO I
+#### CAPO I - Uffici e personale
 
-#### Uffici e personale
-
-###### Articolo 88
+##### Articolo 88
 
 Disciplina applicabile agli uffici ed al personale degli enti locali
 
 1\. All'ordinamento degli uffici e del personale degli enti locali, ivi compresi i dirigenti ed i segretari comunali e provinciali, si applicano le disposizioni del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni ed integrazioni, e le altre disposizioni di legge in materia di organizzazione e lavoro nelle pubbliche amministrazioni nonche' quelle contenute nel presente testo unico.
 
-###### Articolo 89
+##### Articolo 89
 
 Fonti
 
@@ -1728,7 +1718,7 @@ g) disciplina della responsabilita' e delle incompatibilita' tra impiego nelle p
 
 6\. Nell'ambito delle leggi, nonche' dei regolamenti di cui al comma 1, le determinazioni per l'organizzazione degli uffici e le misure inerenti alla gestione dei rapporti di lavoro sono assunte dai soggetti preposti alla gestione con la capacita' e i poteri del privato datore di lavoro.
 
-###### Articolo 90
+##### Articolo 90
 
 Uffici di supporto agli organi di direzione politica
 
@@ -1752,7 +1742,7 @@ AGGIORNAMENTO (139)
 
 Il D.L. 24 febbraio 2023, n. 13, convertito con modificazioni dalla L. 21 aprile 2023, n. 41, ha disposto (con l'art. 8, comma 2) che "Al fine di assicurare la continuita' dell'azione amministrativa e facilitare la realizzazione degli investimenti finanziati, in tutto o in parte, con le risorse del PNRR ovvero con le risorse dei programmi cofinanziati dall'Unione europea e dei programmi operativi complementari alle programmazioni europee 2014-2020 e 2021-2027, ai rapporti di collaborazione instaurati ai sensi dell'articolo 110 del decreto legislativo n. 267 del 2000 non si applicano, fino al 31 dicembre 2026, le disposizioni di cui al comma 4 del medesimo articolo 110. Per le medesime finalita' di cui al primo periodo e fino al 31 dicembre 2026, non si applica nei confronti degli enti locali dichiarati in dissesto o che si trovino in situazioni strutturalmente deficitarie il divieto di cui all'articolo 90, comma 1, del citato decreto legislativo n. 267 del 2000."
 
-###### Articolo 91
+##### Articolo 91
 
 Assunzioni
 
@@ -1770,7 +1760,7 @@ AGGIORNAMENTO (158)
 
 Il D.L. 7 agosto 2026, n. 144, ha disposto (con l'art. 2, comma 9) che "Fino al 31 dicembre 2028, al fine di garantire una tempestiva ed efficace risposta alle esigenze di sicurezza del territorio comunale, per le procedure assunzionali dei corpi della polizia locale il termine di cui all'articolo 91, comma 4, del decreto legislativo 18 agosto 2000, n. 267, e' di quattro anni".
 
-###### Articolo 92
+##### Articolo 92
 
 Rapporti di lavoro a tempo determinato e a tempo parziale
 
@@ -1778,7 +1768,7 @@ Rapporti di lavoro a tempo determinato e a tempo parziale
 
 2\. Nei comuni interessati da mutamenti demografici stagionali in relazione a flussi turistici o a particolari manifestazioni anche a carattere periodico, al fine di assicurare il mantenimento di adeguati livelli quantitativi e qualitativi dei servizi pubblici, il regolamento puo' prevedere particolari modalita' di selezione per l'assunzione del personale a tempo determinato per esigenze temporanee o stagionali, secondo criteri di rapidita' e trasparenza ed escludendo ogni forma di discriminazione. Si applicano, in ogni caso, le disposizioni dei commi 7 e 8 dell'articolo 36 del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni ed integrazioni.
 
-###### Articolo 93
+##### Articolo 93
 
 Responsabilita' patrimoniale
 
@@ -1790,7 +1780,7 @@ Responsabilita' patrimoniale
 
 4\. L'azione di responsabilita' si prescrive in cinque anni dalla commissione del fatto. La responsabilita' nei confronti degli amministratori e dei dipendenti dei comuni e delle province e' personale e non si estende agli eredi salvo il caso in cui vi sia stato illecito arricchimento del dante causa e conseguente illecito arricchimento degli eredi stessi.
 
-###### Articolo 94
+##### Articolo 94
 
 Responsabilita' disciplinare
 
@@ -1798,7 +1788,7 @@ Responsabilita' disciplinare
 
 2\. Al personale dipendente di cui al comma precedente si applicano altresi' le disposizioni del comma 5 dell'articolo 58 e del comma 6 dell'articolo 59 previa attivazione del procedimento disciplinare.
 
-###### Articolo 95
+##### Articolo 95
 
 Dati sul personale degli enti locali
 
@@ -1806,15 +1796,15 @@ Dati sul personale degli enti locali
 
 2\. Resta ferma la disciplina sulla banca dati sulle dotazioni organiche degli enti locali prevista dall'articolo 16-ter del decreto-legge 18 gennaio 1993, n. 8, convertito, con modificazioni, dalla legge 19 marzo 1993, n. 68.
 
-###### Articolo 96
+##### Articolo 96
 
 Riduzione degli organismi collegiali
 
 1\. Al fine di conseguire risparmi di spese e recuperi di efficienza nei tempi dei procedimenti amministrativi i consigli e le giunte, secondo le rispettive competenze, con provvedimento da emanare entro sei mesi dall'inizio di ogni esercizio finanziario, individuano i comitati, le commissioni, i consigli ed ogni altro organo collegiale con funzioni amministrative ritenuti indispensabili per la realizzazione dei fini istituzionali dell'amministrazione o dell'ente interessato. Gli organismi non identificati come indispensabili sono soppressi a decorrere dal mese successivo all'emanazione del provvedimento. Le relative funzioni sono attribuite all'ufficio che riveste preminente competenza nella materia.
 
-## CAPO II - Segretari comunali e provinciali
+#### CAPO II - Segretari comunali e provinciali
 
-###### Articolo 97
+##### Articolo 97
 
 Ruolo e funzioni
 
@@ -1840,7 +1830,7 @@ e) esercita le funzioni di direttore generale nell'ipotesi prevista dall'articol
 
 6\. Il rapporto di lavoro dei segretari comunali e provinciali e' disciplinato dai contratti collettivi ai sensi del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni ed integrazioni.
 
-###### Articolo 98
+##### Articolo 98
 
 Albo nazionale
 
@@ -1854,7 +1844,7 @@ Albo nazionale
 
 5\. Al relativo corso si accede mediante concorso nazionale a cui possono partecipare i laureati in giurisprudenza, scienze politiche, economia.
 
-###### Articolo 99
+##### Articolo 99
 
 Nomina
 
@@ -1864,13 +1854,13 @@ Nomina
 
 3\. La nomina e' disposta non prima di sessanta giorni e non oltre centoventi giorni dalla data di insediamento del sindaco e del presidente della provincia, decorsi i quali il segretario e' confermato.
 
-###### Articolo 100
+##### Articolo 100
 
 Revoca
 
 1\. Il segretario puo' essere revocato con provvedimento motivato del sindaco o del presidente della provincia, previa deliberazione della giunta, per violazione dei doveri d'ufficio.
 
-###### Art. 101
+##### Art. 101
 
 Disponibilita' e mobilita'
 
@@ -1886,7 +1876,7 @@ Disponibilita' e mobilita'
 
 4-bis. Le disposizioni di cui all'articolo 23-bis del decreto legislativo 30 marzo 2001, n. 165, si applicano ai segretari comunali e provinciali equiparati ai dirigenti statali ai fini delle procedure di mobilita' per effetto del contratto collettivo nazionale di lavoro. Alla cessazione dell'incarico, il segretario comunale o provinciale viene collocato nella posizione di disponibilita' nell'ambito dell'albo di appartenenza.
 
-###### Art. 102
+##### Art. 102
 
 ARTICOLO ABROGATO DAL D.L. 31 MAGGIO 2010, N. 78, CONVERTITO CON MODIFICAZIONI DALLA L. 30 LUGLIO 2010, N. 122 .(44) ((54))
 
@@ -1904,11 +1894,11 @@ AGGIORNAMENTO (54)
 
 Il D.L. 29 dicembre 2011, n. 216, convertito con modificazioni dalla L. 24 febbraio 2012, n. 14, nel modificare l'art. 7, comma 31-sexies del D.L. 31 maggio 2010, n. 78, convertito con modificazioni dalla L. 30 luglio 2010, n. 122, ha conseguentemente disposto (con l'art. 15, comma 5) che il termine di cui all'articolo 7, comma 31-sexies, primo periodo, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, che dispone la modifica del comma 5 del presente articolo, e' ulteriormente prorogato di 180 giorni decorrenti dalla data di entrata in vigore della legge di conversione del presente decreto.
 
-###### Art. 103
+##### Art. 103
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MAGGIO 2010, N. 78, CONVERTITO CON MODIFICAZIONI DALLA L. 30 LUGLIO 2010, N. 122 ))
 
-###### Articolo 104
+##### Articolo 104
 
 Scuola superiore della pubblica amministrazione locale e scuole regionali e interregionali
 
@@ -1916,7 +1906,7 @@ Scuola superiore della pubblica amministrazione locale e scuole regionali e inte
 
 2\. L'Agenzia istituisce scuole regionali ed interregionali per la formazione e la specializzazione dei segretari comunali e provinciali e dei dirigenti della pubblica amministrazione locale ovvero puo' avvalersi, previa convenzione, della sezione autonoma della Scuola superiore dell'amministrazione dell'interno.
 
-###### Articolo 105
+##### Articolo 105
 
 Regioni a statuto speciale
 
@@ -1924,7 +1914,7 @@ Regioni a statuto speciale
 
 2\. Nel territorio della regione Trentino - Alto Adige, fino, all'emanazione di apposita legge regionale, rimane ferma l'applicazione del titolo VI della legge 11 marzo 1972, n. 118.
 
-###### Articolo 106
+##### Articolo 106
 
 Disposizioni finali e transitorie
 
@@ -1934,9 +1924,9 @@ Disposizioni finali e transitorie
 
 3\. Ai fini dell'attuazione della legge 8 marzo 1999, n. 50, i segretari comunali di cui all'articolo 18, comma 14, del decreto del Presidente della Repubblica 4 dicembre 1997, n. 465, o all'articolo 39, comma 22, della legge 27 dicembre 1997, n. 449, possono essere collocati o mantenuti in posizione di fuori ruolo con decreto del Presidente del Consiglio dei Ministri, anche dopo il trasferimento alle amministrazioni di destinazione e con effetto dalla data di entrata in vigore della citata legge n. 50 del 1999. Gli oneri relativi al trattamento economico, fondamentale ed accessorio, dei predetti dipendenti rimangono a carico dell'Agenzia autonoma per la gestione dell'albo dei segretari comunali fino alla data del trasferimento alle amministrazioni di destinazione; successivamente sono a queste imputate. Analogamente si provvede, con decreto del Ministro dell'interno, di concerto con il Ministro per la funzione pubblica, per i segretari comunali in servizio presso il Ministero dell'interno ai sensi dell'articolo 34, comma 2, del decreto del Presidente della Repubblica 4 dicembre 1997, n. 465.
 
-## CAPO III - Dirigenza ed incarichi
+#### CAPO III - Dirigenza ed incarichi
 
-###### Articolo 107
+##### Articolo 107
 
 Funzioni e responsabilta' della dirigenza
 
@@ -1980,7 +1970,7 @@ AGGIORNAMENTO (141)
 
 Il D.Lgs. 31 marzo 2023, n. 36 ha disposto (con l'art. 229, comma 2) che la presente modifica acquista efficacia il 1° luglio 2023.
 
-###### Articolo 108
+##### Articolo 108
 
 Direttore generale
 
@@ -1998,7 +1988,7 @@ AGGIORNAMENTO (130)
 
 Il D.P.R. 24 giugno 2022, n. 81, ha disposto (con l'art. 2, comma 1) che "Per gli enti locali di cui all'articolo 2, comma 1, del decreto legislativo 18 agosto 2000, n. 267, il piano dettagliato degli obiettivi di cui all'articolo 108, comma 1, del medesimo decreto legislativo e il piano della performance di cui all'articolo 10 del decreto legislativo 27 ottobre 2009, n. 150, sono assorbiti nel PIAO".
 
-###### Articolo 109
+##### Articolo 109
 
 Conferimento di funzioni dirigenziali
 
@@ -2006,7 +1996,7 @@ Conferimento di funzioni dirigenziali
 
 2\. Nei comuni privi di personale di qualifica dirigenziale le funzioni di cui all'articolo 107, commi 2 e 3, fatta salva l'applicazione dell'articolo 97, comma 4, lettera d), possono essere attribuite, a seguito di provvedimento motivato del sindaco, ai responsabili degli uffici o dei servizi, indipendentemente dalla loro qualifica funzionale, anche in deroga a ogni diversa disposizione.
 
-###### Art. 110
+##### Art. 110
 
 Incarichi a contratto
 
@@ -2032,23 +2022,23 @@ Ha inoltre disposto (con l'art. 8, comma 2) che "Al fine di assicurare la contin
 
 Per le medesime finalita' di cui al primo periodo e fino al 31 dicembre 2026, non si applica nei confronti degli enti locali dichiarati in dissesto o che si trovino in situazioni strutturalmente deficitarie il divieto di cui all'articolo 90, comma 1, del citato decreto legislativo n. 267 del 2000."
 
-###### Articolo 111
+##### Articolo 111
 
 Adeguamento della disciplina della dirigenza
 
 1\. Gli enti locali, tenendo conto delle proprie peculiarita' nell'esercizio della propria potesta' statutaria e regolamentare, adeguano lo statuto ed il regolamento ai principi del presente capo e del capo II del decreto legislativo del febbraio 1993, n. 29, e successive modificazioni ed integrazioni.
 
-## TITOLO V - SERVIZI E INTERVENTI PUBBLICI LOCALI
+### TITOLO V - SERVIZI E INTERVENTI PUBBLICI LOCALI
 
-###### Art. 112
-
-((ARTICOLO ABROGATO DAL D.LGS. 23 DICEMBRE 2022, N. 201))
-
-###### Art. 113
+##### Art. 112
 
 ((ARTICOLO ABROGATO DAL D.LGS. 23 DICEMBRE 2022, N. 201))
 
-###### Art. 113-bis - Gestione dei servizi pubblici locali privi di rilevanza economica
+##### Art. 113
+
+((ARTICOLO ABROGATO DAL D.LGS. 23 DICEMBRE 2022, N. 201))
+
+##### Art. 113-bis - Gestione dei servizi pubblici locali privi di rilevanza economica
 
 1\. Ferme restando le disposizioni previste per i singoli settori, i servizi pubblici locali privi di rilevanza economica sono gestiti mediante affidamento diretto a:
 
@@ -2074,7 +2064,7 @@ AGGIORNAMENTO (22)
 
 La Corte costituzionale, con sentenza 13-27 luglio 2004, n. 272 (in G.U. 1a s.s. 4/8/2004, n. 30) ha dichiarato l'illegittimita' costituzionale del presente art. 113-bis, nel testo introdotto dal comma 15 dell'art. 35 della legge n. 448 del 2001.
 
-###### Articolo 114
+##### Articolo 114
 
 Aziende speciali ed istituzioni
 
@@ -2126,7 +2116,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Art. 115
+##### Art. 115
 
 Trasformazione delle aziende speciali
 
@@ -2154,15 +2144,15 @@ delle aziende speciali alle societa' di cui al comma 1 sono esenti da imposizion
 
 (( 7-ter. Alla privatizzazione di enti ed aziende delle regioni a statuto ordinario e ad autonomia speciale, fermo restando quanto stabilito dalla legislazione regionale in materia, si applicano le disposizioni di cui ai precedenti commi. Delle obbligazioni sorte anteriormente alla costituzione delle societa' di capitali di cui al comma 1 rispondono in ogni caso le regioni. ))
 
-###### Art. 116
+##### Art. 116
 
 ((ARTICOLO ABROGATO DAL D.LGS. 19 AGOSTO 2016, N. 175))
 
-###### Art. 117
+##### Art. 117
 
 ((ARTICOLO ABROGATO DAL D.LGS. 23 DICEMBRE 2022, N. 201))
 
-###### Art. 118
+##### Art. 118
 
 Regime del trasferimento di beni
 
@@ -2172,13 +2162,13 @@ Regime del trasferimento di beni
 
 3\. (( COMMA ABROGATO DALLA L. 28 DICEMBRE 2001, N.448 )).
 
-###### Articolo 119
+##### Articolo 119
 
 Contratti di sponsorizzazione, accordi di collaborazione e convenzioni
 
 1\. In applicazione dell'articolo 43 della legge 27 dicembre 1997, n. 449, al fine di favorire una migliore qualita' dei servizi prestati, i comuni, le province e gli altri enti locali indicati nel presente testo unico, possono stipulare contratti di sponsorizzazione ed accordi di collaborazione, nonche' convenzioni con soggetti pubblici o privati diretti a fornire consulenze o servizi aggiuntivi.
 
-###### Art. 120
+##### Art. 120
 
 Societa' di trasformazione urbana
 
@@ -2190,7 +2180,7 @@ Societa' di trasformazione urbana
 
 4\. I rapporti tra gli enti locali azionisti e la societa' per azioni di trasformazione urbana sono disciplinati da una convenzione contenente, a pena di nullita', gli obblighi e i diritti delle parti.
 
-###### Art. 121
+##### Art. 121
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 GIUGNO 2001, N. 327)) ((4))
 
@@ -2206,11 +2196,11 @@ Il D.P.R. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122
 
 Il D.P.R. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 1 gennaio 2002 al 30 giugno 2003.
 
-###### Art. 122
+##### Art. 122
 
 ((ARTICOLO ABROGATO DAL D.LGS. 19 AGOSTO 2016, N. 175))
 
-###### Art. 123
+##### Art. 123
 
 Norma transitoria
 
@@ -2220,13 +2210,11 @@ Norma transitoria
 
 3\. (( COMMA ABROGATO DALLA L. 28 DICEMBRE 2001, N.448 )).
 
-## TITOLO VI - CONTROLLI
+### TITOLO VI - CONTROLLI
 
-### CAPO I
+#### CAPO I - Controllo sugli atti
 
-#### Controllo sugli atti
-
-###### Articolo 124
+##### Articolo 124
 
 Pubblicazione delle deliberazioni
 
@@ -2234,13 +2222,13 @@ Pubblicazione delle deliberazioni
 
 2\. Tutte le deliberazioni degli altri enti locali sono pubblicate mediante ((pubblicazione)) all'albo pretorio del comune ove ha sede l'ente, per quindici giorni consecutivi, salvo specifiche disposizioni.
 
-###### Articolo 125
+##### Articolo 125
 
 Comunicazione delle deliberazioni ai capigruppo
 
 1\. Contestualmente all'affissione all'albo le deliberazioni adottate dalla giunta sono trasmesse in elenco ai capigruppo consiliari; i relativi testi sono messi a disposizione dei consiglieri nelle norme stabilite dallo statuto o dal regolamento.
 
-###### Articolo 126
+##### Articolo 126
 
 Deliberazioni soggette in via necessaria al controllo preventivo di legittimita'
 
@@ -2248,7 +2236,7 @@ Deliberazioni soggette in via necessaria al controllo preventivo di legittimita'
 
 2\. Il controllo preventivo di legittimita' si estende anche agli atti delle Istituzioni pubbliche di assistenza e beneficenza.
 
-###### Articolo 127
+##### Articolo 127
 
 Controllo eventuale
 
@@ -2264,7 +2252,7 @@ c) assunzioni del personale.
 
 3\. La giunta puo' altresi' sottoporre al controllo preventivo di legittimita' dell'organo regionale di controllo ogni altra deliberazione dell'ente secondo le modalita' di cui all'articolo 133.
 
-###### Articolo 128
+##### Articolo 128
 
 Comitato regionale di controllo
 
@@ -2278,13 +2266,13 @@ Comitato regionale di controllo
 
 5\. I componenti dei comitati regionali di controllo sono personalmente e solidalmente responsabili nei confronti degli enti locali per i danni a questi arrecati con dolo o colpa grave nell'esercizio delle loro funzioni.
 
-###### Articolo 129
+##### Articolo 129
 
 Servizi di consulenza del comitato regionale di controllo
 
 1\. Possono essere attivati nell'ambito dei comitati regionali di controllo servizi di consulenza ai quali gli enti locali possono rivolgersi al fine di ottenere preventivi elementi valutativi in ordine all'adozione di atti o provvedimenti di particolare complessita' o che attengano ad aspetti nuovi dell'attivita' deliberativa. La regione disciplina con propria normativa le modalita' organizzative e di espletamento dei servizi di consulenza.
 
-###### Articolo 130
+##### Articolo 130
 
 Composizione del comitato
 
@@ -2316,7 +2304,7 @@ b) da un esperto designato dal commissario del Governo scelto fra funzionari del
 
 8\. Ai componenti del comitato si applicano le norme relative ai permessi ed alle aspettative previsti per gli amministratori locali.
 
-###### Articolo 131
+##### Articolo 131
 
 Incompatibilita' ed ineleggibilita'
 
@@ -2338,7 +2326,7 @@ g) coloro che prestano attivita' di consulenza o di collaborazione presso la reg
 
 h) coloro che ricoprono incarichi direttivi o esecutivi nei partiti a livello provinciale, regionale o nazionale, nonche' coloro che abbiano ricoperto tali incarichi nell'anno precedente alla costituzione del comitato.
 
-###### Articolo 132
+##### Articolo 132
 
 Funzionamento del comitato
 
@@ -2348,7 +2336,7 @@ Funzionamento del comitato
 
 3\. La regione provvede alle strutture serventi del comitato regionale di controllo ispirandosi ai principi dell'adeguatezza funzionale e dell'autonomia dell'organo.
 
-###### Articolo 133
+##### Articolo 133
 
 Modalita' del controllo preventivo di legittimita'
 
@@ -2364,7 +2352,7 @@ Nell'esame del bilancio preventivo e del rendiconto della gestione il controllo 
 
 5\. Non puo' essere riesaminato il provvedimento sottoposto a controllo nel caso di annullamento in sede giurisdizionale di una decisione negativa di controllo.
 
-###### Articolo 134
+##### Articolo 134
 
 Esecutivita' delle deliberazioni
 
@@ -2376,7 +2364,7 @@ Esecutivita' delle deliberazioni
 
 4\. Nel caso di urgenza le deliberazioni del consiglio o della giunta possono essere dichiarate immediatamente eseguibili con il voto espresso dalla maggioranza dei componenti.
 
-###### Articolo 135
+##### Articolo 135
 
 Comunicazione deliberazioni al prefetto
 
@@ -2384,13 +2372,13 @@ Comunicazione deliberazioni al prefetto
 
 2\. Ai medesimi fini indicati nel comma 1 il prefetto puo' chiedere che siano sottoposte al controllo preventivo di legittimita' le deliberazioni degli enti locali relative ad acquisti, alienazioni, appalti ed in generale a tutti i contratti, con le modalita' e i termini previsti dall'articolo 133, comma 1. Le predette deliberazioni sono comunicate al prefetto contestualmente all'affissione all'albo.
 
-###### Articolo 136
+##### Articolo 136
 
 Poteri sostitutivi per omissione o ritardo di atti obbligatori
 
 1\. Qualora gli enti locali, sebbene invitati a provvedere entro congruo termine, ritardino o omettano di compiere atti obbligatori per legge, si provvede a mezzo di commissario ad acta nominato dal difensore civico regionale, ove costituito, ovvero dal comitato regionale di controllo. Il commissario ad acta provvede entro sessanta giorni dal conferimento dell'incarico.
 
-###### Articolo 137
+##### Articolo 137
 
 Poteri sostitutivi del Governo
 
@@ -2402,29 +2390,27 @@ Poteri sostitutivi del Governo
 
 4\. Restano ferme le disposizioni in materia di poteri sostitutivi previste dalla legislazione vigente.
 
-###### Articolo 138
+##### Articolo 138
 
 Annullamento straordinario
 
 1\. In applicazione dell'articolo 2, comma 3, lettera p), della legge 23 agosto 1988, n. 400, il Governo, a tutela dell'unita' dell'ordinamento, con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, su proposta del Ministro dell'interno, ha facolta', in qualunque tempo, di annullare, d'ufficio o su denunzia, sentito il Consiglio di Stato, gli atti degli enti locali viziati da illegittimita'.
 
-###### Articolo 139
+##### Articolo 139
 
 Pareri obbligatori
 
 1\. Ai pareri obbligatori delle amministrazioni statali, anche ad ordinamento autonomo, delle regioni e di ogni altro ente sottoposto a tutela statale, regionale e subregionale, prescritti da qualsiasi norma avente forza di legge ai fini della programmazione, progettazione ed esecuzione di opere pubbliche o di altre attivita' degli enti locali, si applicano le disposizioni dell'articolo 16 della legge 7 agosto 1990, n. 241, e successive modifiche ed integrazioni, salvo specifiche disposizioni di legge.
 
-###### Articolo 140
+##### Articolo 140
 
 Norma finale
 
 1\. Le disposizioni del presente capo si applicano anche agli altri enti di cui all'articolo 2, compresi i consorzi cui partecipano enti locali, con esclusione di quelli che gestiscono attivita' aventi rilevanza economica ed imprenditoriale e, ove previsto dallo statuto, dei consorzi per la gestione dei servizi sociali, intendendosi sostituiti alla giunta e al consiglio del comune o della provincia i corrispondenti organi di governo.
 
-## CAPO II
+#### CAPO II - Controllo sugli organi
 
-### Controllo sugli organi
-
-###### Articolo 141
+##### Articolo 141
 
 Scioglimento e sospensione dei consigli comunali e provinciali
 
@@ -2476,7 +2462,7 @@ Il D.L. 17 marzo 2020, n. 18, convertito con modificazioni dalla L. 24 aprile 20
 
 a) il termine di cui all'articolo 141, comma 7, e' fissato in centoventi giorni".
 
-###### Art. 142
+##### Art. 142
 
 Rimozione e sospensione di amministratori locali
 
@@ -2488,7 +2474,7 @@ Rimozione e sospensione di amministratori locali
 
 3\. Sono fatte salve le disposizioni dettate dagli articoli 58 e 59.
 
-###### Art. 143
+##### Art. 143
 
 (Scioglimento dei consigli comunali e provinciali conseguente a fenomeni di infiltrazione e di condizionamento di tipo
 
@@ -2544,7 +2530,7 @@ c) il termine di cui all'articolo 143, comma 4, e' fissato in centoventi giorni;
 
 d) il termine di cui all'articolo 143, comma 12, e' fissato in novanta giorni".
 
-###### Art. 144
+##### Art. 144
 
 Commissione straordinaria e Comitato di sostegno e monitoraggio
 
@@ -2554,7 +2540,7 @@ Commissione straordinaria e Comitato di sostegno e monitoraggio
 
 3\. Con decreto del Ministro dell'interno, adottato a norma dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono determinate le modalita' di organizzazione e funzionamento della commissione straordinaria per l'esercizio delle attribuzioni ad essa conferite, le modalita' di pubblicizzazione degli atti adottati dalla commissione stessa, nonche' le modalita' di organizzazione e funzionamento, del comitato di cui al comma 2.
 
-###### Art. 145
+##### Art. 145
 
 Gestione straordinaria
 
@@ -2568,7 +2554,7 @@ Gestione straordinaria
 
 5\. Ferme restando le forme di partecipazione popolare previste dagli statuti in attuazione dell'articolo 8, comma 3, la commissione straordinaria di cui al comma 1 dell'articolo 144, allo scopo di acquisire ogni utile elemento di conoscenza e valutazione in ordine a rilevanti questioni di interesse generale si avvale, anche mediante forme di consultazione diretta, dell'apporto di rappresentanti delle forze politiche in ambito locale, dell'Anci, dell'Upi, delle organizzazioni di volontariato e di altri organismi locali particolarmente interessati alle questioni da trattare.
 
-###### Art. 145-bis - Gestione finanziaria
+##### Art. 145-bis - Gestione finanziaria
 
 1\. Per i comuni con popolazione inferiore a 20.000 abitanti i cui organi consiliari sono stati sciolti ai sensi dell'articolo 143, su richiesta della Commissione straordinaria di cui al comma 1 dell'articolo 144, il Ministero dell'interno provvede all'anticipazione di un importo calcolato secondo i criteri di cui al comma 2 del presente articolo. L'anticipazione e' subordinata all'approvazione di un piano di risanamento della situazione finanziaria, predisposto con le stesse modalita' previste per gli enti in stato di dissesto finanziario dalle norme vigenti. Il piano e' predisposto dalla Commissione straordinaria ed e' approvato con decreto del Ministro dell'interno, su parere della ((Commissione per la stabilita' finanziaria degli enti locali)), di cui all'articolo 155.
 
@@ -2580,7 +2566,7 @@ Il mancato svolgimento di tali compiti da parte dell'organo di revisione e' cons
 
 4\. Il finanziamento dell'anticipazione di cui al comma 1 avviene con contestuale decurtazione dei trasferimenti erariali agli enti locali e le somme versate dall'ente sciolto ai sensi dell'articolo 143 affluiscono ai trasferimenti erariali dell'anno successivo e sono assegnate nella stessa misura della detrazione. Le modalita' di versamento dell' annualita' sono indicate dal Ministero dell'interno all'ente locale secondo le norme vigenti.
 
-###### Art. 146
+##### Art. 146
 
 Norma finale
 
@@ -2588,9 +2574,9 @@ Norma finale
 
 2\. Il Ministro dell'interno presenta al Parlamento una relazione ((annuale)) sull'attivita' svolta dalla gestione straordinaria dei singoli comuni.
 
-## CAPO III - Controlli interni
+#### CAPO III - Controlli interni
 
-###### Art. 147 - Tipologia dei controlli interni
+##### Art. 147 - Tipologia dei controlli interni
 
 1\. Gli enti locali, nell'ambito della loro autonomia normativa e organizzativa, individuano strumenti e metodologie per garantire, attraverso il controllo di regolarita' amministrativa e contabile, la legittimita', la regolarita' e la correttezza dell'azione amministrativa.
 
@@ -2618,7 +2604,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118 come modificato dal D.Lgs. 10 agosto 2014, n. 126 ha disposto (con l'art. 80, comma 1) che la presente modifica si applica, "ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Art. 147-bis
+##### Art. 147-bis
 
 (( (Controllo di regolarita' amministrativa e contabile). ))
 
@@ -2628,7 +2614,7 @@ Il D.Lgs. 23 giugno 2011, n. 118 come modificato dal D.Lgs. 10 agosto 2014, n. 1
 
 3\. Le risultanze del controllo di cui al comma 2 sono trasmesse periodicamente, a cura del segretario, ai responsabili dei servizi, unitamente alle direttive cui conformarsi in caso di riscontrate irregolarita', nonche' ai revisori dei conti e agli organi di valutazione dei risultati dei dipendenti, come documenti utili per la valutazione, e al consiglio comunale.))
 
-###### Art. 147-ter
+##### Art. 147-ter
 
 (( (Controllo strategico). ))
 
@@ -2636,7 +2622,7 @@ Il D.Lgs. 23 giugno 2011, n. 118 come modificato dal D.Lgs. 10 agosto 2014, n. 1
 
 2\. L'unita' preposta al controllo strategico, che e' posta sotto la direzione del direttore generale, laddove previsto, o del segretario comunale negli enti in cui non e' prevista la figura del direttore generale, elabora rapporti periodici, da sottoporre all'organo esecutivo e al consiglio per la successiva predisposizione di deliberazioni consiliari di ricognizione dei programmi.))
 
-###### Art.147-quater - Controlli sulle societa' partecipate non quotate
+##### Art.147-quater - Controlli sulle societa' partecipate non quotate
 
 1\. L'ente locale definisce, secondo la propria autonomia organizzativa, un sistema di controlli sulle societa' non quotate, partecipate dallo stesso ente locale. Tali controlli sono esercitati dalle strutture proprie dell'ente locale, che ne sono responsabili.
 
@@ -2654,7 +2640,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che la presente modifica si applica, "ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Art. 147-quinquies
+##### Art. 147-quinquies
 
 (( (Controllo sugli equilibri finanziari). ))
 
@@ -2664,9 +2650,9 @@ Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 
 
 3\. Il controllo sugli equilibri finanziari implica anche la valutazione degli effetti che si determinano per il bilancio finanziario dell'ente in relazione all'andamento economico-finanziario degli organismi gestionali esterni.))
 
-## Capo IV - Controlli esterni sulla gestione
+#### Capo IV - Controlli esterni sulla gestione
 
-###### Art. 148 - Controlli esterni
+##### Art. 148 - Controlli esterni
 
 ((1. Le sezioni regionali della Corte dei conti, con cadenza annuale, nell'ambito del controllo di legittimita' e regolarita' delle gestioni, verificano il funzionamento dei controlli interni ai fini del rispetto delle regole contabili e dell'equilibrio di bilancio di ciascun ente locale. A tale fine, il sindaco, relativamente ai comuni con popolazione superiore ai 15.000 abitanti, o il presidente della provincia, avvalendosi del direttore generale, quando presente, o del segretario negli enti in cui non e' prevista la figura del direttore generale, trasmette annualmente alla sezione regionale di controllo della Corte dei conti un referto sul sistema dei controlli interni, adottato sulla base delle linee guida deliberate dalla sezione delle autonomie della Corte dei conti e sui controlli effettuati nell'anno, entro trenta giorni dalla data di entrata in vigore della presente disposizione; il referto e', altresi', inviato al presidente del consiglio comunale o provinciale.))
 
@@ -2690,7 +2676,7 @@ AGGIORNEMENTO (78)
 
 La Corte Costituzione, con sentenza 26 febbraio - 6 marzo 2014, n. 39 (in G.U. 1a s.s. 12/3/2014, n. 12), ha dichiarato "l'illegittimita' costituzionale dell'art. 148, commi 2 e 3, del decreto legislativo 18 agosto 2000, n. 267 (Testo unico delle leggi sull'ordinamento degli enti locali), come modificati dall'art. 3, comma 1, lettera e), del d.l. n. 174 del 2012, con efficacia nei confronti delle Regioni autonome Friuli-Venezia Giulia e Sardegna".
 
-###### Art. 148-bis
+##### Art. 148-bis
 
 (( (Rafforzamento del controllo della Corte dei conti sulla gestione finanziaria degli enti locali). ))
 
@@ -2700,21 +2686,11 @@ La Corte Costituzione, con sentenza 26 febbraio - 6 marzo 2014, n. 39 (in G.U. 1
 
 3\. Nell'ambito della verifica di cui ai commi 1 e 2, l'accertamento, da parte delle competenti sezioni regionali di controllo della Corte dei conti, di squilibri economico-finanziari, della mancata copertura di spese, della violazione di norme finalizzate a garantire la regolarita' della gestione finanziaria, o del mancato rispetto degli obiettivi posti con il patto di stabilita' interno comporta per gli enti interessati l'obbligo di adottare, entro sessanta giorni dalla comunicazione del deposito della pronuncia di accertamento, i provvedimenti idonei a rimuovere le irregolarita' e a ripristinare gli equilibri di bilancio. Tali provvedimenti sono trasmessi alle sezioni regionali di controllo della Corte dei conti che li verificano nel termine di trenta giorni dal ricevimento. Qualora l'ente non provveda alla trasmissione dei suddetti provvedimenti o la verifica delle sezioni regionali di controllo dia esito negativo, e' preclusa l'attuazione dei programmi di spesa per i quali e' stata accertata la mancata copertura o l'insussistenza della relativa sostenibilita' finanziaria)).
 
-## PARTE - II
+## PARTE II - ORDINAMENTO FINANZIARIO E CONTABILE
 
-### ORDINAMENTO
+### TITOLO I - DISPOSIZIONI GENERA LI
 
-#### FINANZIARIO - E
-
-##### CONTABILE
-
-###### TITOLO - I
-
-**DISPOSIZIONI**
-
-**GENERA - LI**
-
-###### Articolo 149
+##### Articolo 149
 
 Principi generali in materia di finanza propria e derivata
 
@@ -2760,7 +2736,7 @@ h) altre entrate.
 
 13\. Le risorse spettanti a comuni e province per spese di investimento previste da leggi settoriali dello Stato sono distribuite sulla base di programmi regionali. Le regioni, inoltre, determinano con legge i finanziamenti per, le funzioni da esse attribuite agli enti locali in relazione al costo di gestione dei servizi sulla base della programmazione regionale.
 
-###### Articolo 150
+##### Articolo 150
 
 Principi in materia di ordinamento finanziario e contabile
 
@@ -2776,7 +2752,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che la presente modifica si applica, "ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Art. 151 - Principi generali
+##### Art. 151 - Principi generali
 
 1\. Gli enti locali ispirano la propria gestione al principio della programmazione. A tal fine presentano il Documento unico di programmazione entro il 31 luglio di ogni anno e deliberano il bilancio di previsione finanziario entro il 31 dicembre, riferiti ad un orizzonte temporale almeno triennale. Le previsioni del bilancio sono elaborate sulla base delle linee strategiche contenute nel documento unico di programmazione, osservando i principi contabili generali ed applicati allegati al decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni. I termini possono essere differiti con decreto del Ministro dell'interno, d'intesa con il Ministro dell'economia e delle finanze, sentita la Conferenza Stato-citta' ed autonomie locali, in presenza di motivate esigenze. (91) (92) (112) (122)
 
@@ -2862,7 +2838,7 @@ AGGIORNAMENTO (122)
 
 Il D.L. 30 dicembre 2021, n. 228, convertito con modificazioni dalla L. 25 febbraio 2022, n. 15, ha disposto (con l'art. 3, comma 5-sexiesdecies) che "Il termine per la deliberazione del bilancio di previsione riferito al triennio 2022-2024 da parte degli enti locali, previsto all'articolo 151, comma 1, del testo unico delle leggi sull'ordinamento degli enti locali, di cui al decreto legislativo 18 agosto 2000, n. 267, da ultimo differito ai sensi del decreto del Ministro dell'interno 24 dicembre 2021, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 309 del 30 dicembre 2021, e' prorogato al 31 maggio 2022".
 
-###### Articolo 152
+##### Articolo 152
 
 Regolamento di contabilita'
 
@@ -2892,7 +2868,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 153
+##### Articolo 153
 
 Servizio economico-finanziario
 
@@ -2916,7 +2892,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118 come modificato dal D.Lgs. 10 agosto 2014, n. 126 ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Art. 154
+##### Art. 154
 
 Osservatorio sulla finanza e la contabilita' degli enti locali
 
@@ -2940,7 +2916,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 155
+##### Articolo 155
 
 ((Commissione per la stabilita' finanziaria degli enti locali))
 
@@ -2964,7 +2940,7 @@ h) approvazione, previo esame, della rideterminazione della pianta organica dell
 
 2\. La composizione e le modalita' di funzionamento della Commissione sono disciplinate con regolamento da adottarsi ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400.
 
-###### Articolo 156
+##### Articolo 156
 
 Classi demografiche e popolazione residente
 
@@ -2996,7 +2972,7 @@ n) comuni da 500.000 abitanti ed oltre.
 
 2\. Le disposizioni del presente testo unico e di altre leggi e regolamenti relative all'attribuzione di contributi erariali di qualsiasi natura, nonche' all'inclusione nel sistema di tesoreria unica di cui alla legge 29 ottobre 1984, n. 720, alla disciplina del dissesto finanziario ed alla disciplina dei revisori dei conti, che facciano riferimento alla popolazione, vanno interpretate, se non diversamente disciplinato, come concernenti la popolazione residente calcolata alla fine del penultimo anno precedente per le province ed i comuni secondo i dati dell'Istituto nazionale di statistica, ovvero secondo i dati dell'Uncem per le comunita' montane. Per le comunita' montane e i comuni di nuova istituzione si utilizza l'ultima popolazione disponibile.
 
-###### Articolo 157
+##### Articolo 157
 
 Consolidamento dei conti pubblici
 
@@ -3014,7 +2990,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 158
+##### Articolo 158
 
 Rendiconto dei contributi straordinari
 
@@ -3026,7 +3002,7 @@ Rendiconto dei contributi straordinari
 
 4\. Ove il contributo attenga ad un intervento realizzato in piu' esercizi finanziari l'ente locale e' tenuto al rendiconto per ciascun esercizio.
 
-###### Art. 159
+##### Art. 159
 
 Norme sulle esecuzioni nei confronti degli enti locali
 
@@ -3052,11 +3028,11 @@ AGGIORNAMENTO (16)
 
 La Corte costituzionale, con sentenza 4-18 giugno 2003, n. 211, (in G.U. 1a s.s. 25/6/2003, n. 25) ha dichiarato l'illegittimita' costituzionale dell'art. 159, commi 2, 3 e 4, "nella parte in cui non prevede che la impignorabilita' delle somme destinate ai fini indicati alle lettere a), b) e c) del comma 2 non operi qualora, dopo la adozione da parte dell'organo esecutivo della deliberazione semestrale di preventiva quantificazione degli importi delle somme destinate alle suddette finalita' e la notificazione di essa al soggetto tesoriere dell'ente locale, siano emessi mandati a titoli diversi da quelli vincolati, senza seguire l'ordine cronologico delle fatture cosi' come pervenute per il pagamento o, se non e' prescritta fattura, delle deliberazioni di impegno da parte dell'ente stesso".
 
-###### Art. 160
+##### Art. 160
 
 ((ARTICOLO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118 COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-###### Art. 161 - Certificazioni finanziarie e invio di dati contabili
+##### Art. 161 - Certificazioni finanziarie e invio di dati contabili
 
 1\. Il Ministero dell'interno puo' richiedere ai comuni, alle province, alle citta' metropolitane, alle unioni di comuni e alle comunita' montane specifiche certificazioni su particolari dati finanziari, non presenti nella banca dati delle amministrazioni pubbliche di cui all'articolo 13 della legge 31 dicembre 2009, n. 196. Le certificazioni sono firmate dal responsabile del servizio finanziario.
 
@@ -3080,13 +3056,11 @@ AGGIORNAMENTO (113)
 
 L'Ordinanza 29 marzo 2020 (in G.U. 30/03/2020, n. 85) ha disposto (con l'art. 1, comma 2) che le sanzioni di cui al comma 4 del presente articolo non si applicano alle spettanze per l'anno 2020.
 
-## TITOLO II
-
-### PROGRAMMAZIONE E BILANCI
+### TITOLO II - PROGRAMMAZIONE E BILANCI
 
 #### CAPO I - Programmazione
 
-###### Articolo 162
+##### Articolo 162
 
 Principi del bilancio
 
@@ -3110,7 +3084,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 163 - Esercizio provvisorio e gestione provvisoria
+##### Articolo 163 - Esercizio provvisorio e gestione provvisoria
 
 1\. Se il bilancio di previsione non e' approvato dal Consiglio entro il 31 dicembre dell'anno precedente, la gestione finanziaria dell'ente si svolge nel rispetto dei principi applicati della contabilita' finanziaria riguardanti l'esercizio provvisorio o la gestione provvisoria.Nel corso dell'esercizio provvisorio o della gestione provvisoria, gli enti gestiscono gli stanziamenti di competenza previsti nell'ultimo bilancio approvato per l'esercizio cui si riferisce la gestione o l'esercizio provvisorio, ed effettuano i pagamenti entro i limiti determinati dalla somma dei residui al 31 dicembre dell'anno precedente e degli stanziamenti di competenza al netto del fondo pluriennale vincolato.
 
@@ -3150,7 +3124,7 @@ AGGIORNAMENTO (145)
 
 Il D.L. 10 agosto 2023, n. 104, convertito con modificazioni dalla L. 9 ottobre 2023, n. 136, ha disposto (con l'art. 21-bis, comma 1) che "All'articolo 163, comma 3, del testo unico di cui al decreto legislativo 18 agosto 2000, n. 267, la previsione che gli enti possano impegnare solo spese correnti si interpreta nel senso che possono essere impegnate anche le spese per le assunzioni di personale, anche a tempo indeterminato, gia' autorizzate dal piano triennale del fabbisogno di personale, nonche' dal bilancio di previsione finanziario ai sensi dell'articolo 164, comma 2, del medesimo testo unico".
 
-###### Articolo 164
+##### Articolo 164
 
 (( (Caratteristiche del bilancio) ))
 
@@ -3168,7 +3142,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che la presente modifica si applica, "ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 165
+##### Articolo 165
 
 Struttura del bilancio
 
@@ -3236,7 +3210,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 166
+##### Articolo 166
 
 Fondo di riserva
 
@@ -3256,7 +3230,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Art. 167
+##### Art. 167
 
 (( (Fondo crediti di dubbia esigibilita' e altri fondi per spese potenziali). ))
 
@@ -3272,7 +3246,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che la presente modifica si applica, "ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 168
+##### Articolo 168
 
 Servizi per conto di terzi ((e le partite di giro)) ((87))
 
@@ -3290,7 +3264,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 169 - Piano esecutivo di gestione
+##### Articolo 169 - Piano esecutivo di gestione
 
 1\. La giunta delibera il piano esecutivo di gestione (PEG) entro venti giorni dall'approvazione del bilancio di previsione, in termini di competenza . Con riferimento al primo esercizio il PEG e' redatto anche in termini di cassa. Il PEG e' riferito ai medesimi esercizi considerati nel bilancio, individua gli obiettivi della gestione ed affida gli stessi, unitamente alle dotazioni necessarie, ai responsabili dei servizi.
 
@@ -3306,7 +3280,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che la presente modifica si applica, "ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 170 - Documento unico di programmazione
+##### Articolo 170 - Documento unico di programmazione
 
 1\. Entro il 31 luglio di ciascun anno la Giunta presenta al Consiglio il Documento unico di programmazione per le conseguenti deliberazioni. Entro il 15 novembre di ciascun anno, con lo schema di delibera del bilancio di previsione finanziario, la Giunta presenta al Consiglio la nota di aggiornamento del Documento unico di programmazione.Con riferimento al periodo di programmazione decorrente dall'esercizio 2015, gli enti locali non sono tenuti alla predisposizione del documento unico di programmazione e allegano al bilancio annuale di previsione una relazione previsionale e programmatica che copra un periodo pari a quello del bilancio pluriennale, secondo le modalita' previste dall'ordinamento contabile vigente nell'esercizio 2014. Il primo documento unico di programmazione e' adottato con riferimento agli esercizi 2016 e successivi. Gli enti che hanno partecipato alla sperimentazione adottano la disciplina prevista dal presente articolo a decorrere dal 1° gennaio 2015.((112))
 
@@ -3342,11 +3316,11 @@ AGGIORNAMENTO (112)
 
 Il D.L. 17 marzo 2020, n. 18, ha disposto (con l'art, 107, comma 6) che "Il termine per la deliberazione del Documento unico di programmazione, di cui all'articolo 170, comma 1, del decreto legislativo 18 agosto 2000, n. 267 e' differito al 30 settembre 2020".
 
-###### Articolo 171
+##### Articolo 171
 
 ((ARTICOLO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118 COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-###### Articolo 172
+##### Articolo 172
 
 (( (Altri allegati al bilancio di previsione). ))
 
@@ -3368,15 +3342,15 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che la presente modifica si applica, "ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 173
+##### Articolo 173
 
 Valori monetari
 
 1\. I valori monetari contenuti nel bilancio pluriennale e nella relazione previsionale e programmatica sono espressi con riferimento ai periodi ai quali si riferiscono, tenendo conto del tasso di inflazione programmato.
 
-## CAPO II - Competenze in materia di bilanci
+#### CAPO II - Competenze in materia di bilanci
 
-###### Articolo 174
+##### Articolo 174
 
 Predisposizione ed approvazione del bilancio e dei suoi allegati
 
@@ -3394,7 +3368,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 175
+##### Articolo 175
 
 Variazioni al bilancio di previsione ed al piano esecutivo di gestione.
 
@@ -3492,7 +3466,7 @@ AGGIORNAMENTO (89)
 
 Il D.L. 24 giugno 2016, n. 113, convertito con modificazioni dalla L. 7 agosto 2016, n. 160, ha disposto (con l'art. 4, comma 1-bis) che "Limitatamente agli enti che comunicano le fattispecie di cui al comma 1 secondo le modalita' e i termini previsti dal comma 2, per l'anno 2016 i termini per l'approvazione della variazione di assestamento generale di cui all'articolo 175, comma 8, del testo unico di cui al decreto legislativo 18 agosto 2000, n. 267, e per l'adozione della delibera che da' atto del permanere degli equilibri generali di bilancio di cui all'articolo 193, comma 2, del medesimo testo unico sono fissati al 30 settembre 2016".
 
-###### Articolo 176
+##### Articolo 176
 
 Prelevamenti dal fondo di riserva ((e dai fondi spese potenziali)) ((83))
 
@@ -3504,7 +3478,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 177
+##### Articolo 177
 
 Competenze dei responsabili dei servizi
 
@@ -3512,19 +3486,17 @@ Competenze dei responsabili dei servizi
 
 2\. La mancata accettazione della proposta di modifica della dotazione deve essere motivata dall'organo esecutivo.
 
-## TITOLO III - GESTIONE DEL BILANCIO
+### TITOLO III - GESTIONE DEL BILANCIO
 
-### CAPO I
+#### CAPO I - Entrate
 
-#### Entrate
-
-###### Articolo 178
+##### Articolo 178
 
 Fasi dell'entrata
 
 1\. Le fasi di gestione delle entrate sono l'accertamento, la riscossione ed il versamento.
 
-###### Art. 179
+##### Art. 179
 
 Accertamento
 
@@ -3552,7 +3524,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 180
+##### Articolo 180
 
 Riscossione
 
@@ -3600,7 +3572,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 181
+##### Articolo 181
 
 Versamento
 
@@ -3616,15 +3588,15 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che la presente modifica si applica, "ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-## CAPO II - Spese
+#### CAPO II - Spese
 
-###### Articolo 182
+##### Articolo 182
 
 Fasi della spesa
 
 1\. Le fasi di gestione della spesa sono l'impegno, la liquidazione, l'ordinazione ed il pagamento.
 
-###### Art. 183
+##### Art. 183
 
 Impegno di spesa
 
@@ -3664,7 +3636,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 184
+##### Articolo 184
 
 Liquidazione della spesa
 
@@ -3676,7 +3648,7 @@ Liquidazione della spesa
 
 4\. Il servizio finanziario effettua, secondo i principi e le procedure della contabilita' pubblica, i controlli e riscontri amministrativi, contabili e fiscali sugli atti di liquidazione.
 
-###### Articolo 185
+##### Articolo 185
 
 Ordinazione e pagamento
 
@@ -3720,9 +3692,9 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-## CAPO III - Risultato di amministrazione e residui
+#### CAPO III - Risultato di amministrazione e residui
 
-###### Articolo 186
+##### Articolo 186
 
 Risultato contabile di amministrazione
 
@@ -3736,7 +3708,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Art. 187
+##### Art. 187
 
 Composizione del risultato di amministrazione (83)
 
@@ -3792,7 +3764,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 188
+##### Articolo 188
 
 Disavanzo di amministrazione
 
@@ -3814,7 +3786,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Art. 189
+##### Art. 189
 
 Residui attivi
 
@@ -3832,7 +3804,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 190
+##### Articolo 190
 
 Residui passivi
 
@@ -3842,9 +3814,9 @@ Residui passivi
 
 3\. Le somme non impegnate entro il termine dell'esercizio costituiscono economia di spesa e, a tale titolo, concorrono a determinare i risultati finali della gestione.
 
-## CAPO IV - Principi di gestione e controllo di gestione
+#### CAPO IV - Principi di gestione e controllo di gestione
 
-###### Articolo 191
+##### Articolo 191
 
 Regole per l'assunzione di impegni e per l'effettuazione di spese
 
@@ -3864,7 +3836,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 192
+##### Articolo 192
 
 Determinazioni a contrattare e relative procedure
 
@@ -3878,7 +3850,7 @@ c) le modalita' di scelta del contraente ammesse dalle disposizioni vigenti in m
 
 2\. Si applicano, in ogni caso, le procedure previste dalla normativa della Unione europea recepita o comunque vigente nell'ordinamento giuridico italiano.
 
-###### Articolo 193
+##### Articolo 193
 
 Salvaguardia degli equilibri di bilancio
 
@@ -3926,7 +3898,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 194
+##### Articolo 194
 
 Riconoscimento di legittimita' di debiti fuori bilancio
 
@@ -3946,7 +3918,7 @@ e) acquisizione di beni e servizi, in violazione degli obblighi di cui ai commi 
 
 3\. Per il finanziamento delle spese suddette, ove non possa documentalmente provvedersi a norma dell'articolo 193, comma 3, l'ente locale puo' far ricorso a mutui ai sensi degli articoli 202 e seguenti ((, nonche', in presenza di piani di rateizzazioni con durata diversa da quelli indicati al comma 2, puo' garantire la copertura finanziaria delle quote annuali previste negli accordi con i creditori in ciascuna annualita' dei corrispondenti bilanci, in termini di competenza e di cassa)). Nella relativa deliberazione consiliare viene dettagliatamente motivata l'impossibilita' di utilizzare altre risorse.
 
-###### Articolo 195
+##### Articolo 195
 
 ((Utilizzo di entrate vincolate)) ((83))
 
@@ -3964,7 +3936,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 196
+##### Articolo 196
 
 Controllo di gestione
 
@@ -3972,7 +3944,7 @@ Controllo di gestione
 
 2\. Il controllo di gestione e' la procedura diretta a verificare lo stato di attuazione degli obiettivi programmanti e, attraverso l'analisi delle risorse acquisite e della comparazione tra i costi e la quantita' e qualita' dei servizi offerti, la funzionalita' dell'organizzazione dell'ente, l'efficacia, l'efficienza ed il livello di economicita' nell'attivita' di realizzazione dei predetti obiettivi.
 
-###### Articolo 197
+##### Articolo 197
 
 Modalita' del controllo di gestione
 
@@ -3996,25 +3968,23 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che la presente modifica si applica, "ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Art. 198
+##### Art. 198
 
 Referto del controllo di gestione
 
 1\. La struttura operativa alla quale e' assegnata la funzione dei controllo di gestione fornisce le conclusioni del predetto controllo agli amministratori ai fini della verifica dello stato di attuazione degli obiettivi programmati ed ai responsabili dei servizi affinche' questi ultimi abbiano gli elementi necessari per valutare l'andamento della gestione dei servizi di cui sono responsabili.
 
-###### Art. 198-bis
+##### Art. 198-bis
 
 (( (Comunicazione del referto) ))
 
 (( 1. Nell'ambito dei sistemi di controllo di gestione di cui agli articoli 196, 197 e 198, la struttura operativa alla quale e' assegnata la funzione del controllo di gestione fornisce la conclusione del predetto controllo, oltre che agli amministratori ed ai responsabili dei servizi ai sensi di quanto previsto dall'articolo 198, anche alla Corte dei conti. ))
 
-## TITOLO IV - INVESTIMENTI
+### TITOLO IV - INVESTIMENTI
 
-### CAPO I
+#### CAPO I - Principi generali
 
-#### Principi generali
-
-###### Articolo 199
+##### Articolo 199
 
 Fonti di finanziamento
 
@@ -4042,7 +4012,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 200
+##### Articolo 200
 
 Gli investimenti (83)
 
@@ -4066,7 +4036,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Art. 201
+##### Art. 201
 
 Finanziamento di opere pubbliche e piano economico-finanziario
 
@@ -4090,9 +4060,9 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-## CAPO II - Fonti di finanziamento mediante indebitamento
+#### CAPO II - Fonti di finanziamento mediante indebitamento
 
-###### Articolo 202
+##### Articolo 202
 
 Ricorso all'indebitamento
 
@@ -4100,7 +4070,7 @@ Ricorso all'indebitamento
 
 2\. Le relative entrate hanno destinazione vincolata.
 
-###### Articolo 203
+##### Articolo 203
 
 Attivazione delle fonti di finanziamento derivanti dal ricorso all'indebitamento
 
@@ -4128,7 +4098,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Art. 204
+##### Art. 204
 
 Regole particolari per l'assunzione di mutui
 
@@ -4174,13 +4144,13 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 205
+##### Articolo 205
 
 Attivazione di prestiti obbligazionari
 
 1\. Gli enti locali sono autorizzati ad attivare prestiti obbligazionari nelle forme consentite dalla legge.
 
-###### Art. 205-bis - Contrazione di aperture di credito
+##### Art. 205-bis - Contrazione di aperture di credito
 
 1\. Gli enti locali sono autorizzati a contrarre aperture di credito nel rispetto della disciplina di cui al presente articolo.
 
@@ -4210,9 +4180,9 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che la presente modifica si applica, "ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-## CAPO III - Garanzie per mutui e prestiti
+#### CAPO III - Garanzie per mutui e prestiti
 
-###### Articolo 206
+##### Articolo 206
 
 Delegazione di pagamento
 
@@ -4228,7 +4198,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che la presente modifica si applica, "ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 207
+##### Articolo 207
 
 Fideiussione
 
@@ -4254,13 +4224,11 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-## TITOLO V - TESORERIA
+### TITOLO V - TESORERIA
 
-### CAPO I
+#### CAPO I - Disposizioni generali
 
-#### Disposizioni generali
-
-###### Art. 208
+##### Art. 208
 
 Soggetti abilitati a svolgere il servizio di tesoreria
 
@@ -4288,7 +4256,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che la presente modifica si applica, "ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 209
+##### Articolo 209
 
 Oggetto del servizio di tesoreria
 
@@ -4306,7 +4274,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che la presente modifica si applica, "ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 210
+##### Articolo 210
 
 Affidamento del servizio di tesoreria
 
@@ -4322,7 +4290,7 @@ AGGIORNAMENTO (53)
 
 La L. 12 novembre 2011, n. 183 ha disposto (con l'art. 13, comma 4) che "L'obbligo di cui al comma 2-bis dell'articolo 210 del citato decreto legislativo 18 agosto 2000, n. 267, come introdotto dal comma 3 del presente articolo, trova applicazione con riferimento alle convenzioni stipulate successivamente alla data di entrata in vigore della presente legge."
 
-###### Articolo 211
+##### Articolo 211
 
 Responsabilita' del tesoriere
 
@@ -4330,13 +4298,13 @@ Responsabilita' del tesoriere
 
 2\. Il tesoriere e' responsabile di tutti i depositi, comunque costituiti, intestati all'ente.
 
-###### Articolo 212
+##### Articolo 212
 
 Servizio di tesoreria svolto per piu' enti locali
 
 1\. I soggetti di cui all'articolo 208 che gestiscono il servizio di tesoreria per conto di piu' enti locali devono tenere contabilita' distinte e separate per ciascuno di essi.
 
-###### Articolo 213
+##### Articolo 213
 
 (( Gestione informatizzata del servizio di tesoreria
 
@@ -4346,15 +4314,15 @@ Servizio di tesoreria svolto per piu' enti locali
 
 3\. Gli incassi effettuati dal tesoriere mediante i servizi elettronici interbancari danno luogo al rilascio di quietanza o evidenza bancaria ad effetto liberatorio per il debitore; le somme rivenienti dai predetti incassi sono versate alle casse dell'ente, con rilascio della quietanza di cui all'articolo 214, non appena si rendono liquide ed esigibili in relazione ai servizi elettronici adottati e comunque nei tempi previsti nella predetta convenzione di tesoreria. ))
 
-## CAPO II - Riscossione delle entrate
+#### CAPO II - Riscossione delle entrate
 
-###### Articolo 214
+##### Articolo 214
 
 Operazioni di riscossione
 
 1\. Per ogni somma riscossa il tesoriere rilascia quietanza, numerata in ordine cronologico per esercizio finanziario.
 
-###### Articolo 215
+##### Articolo 215
 
 Procedure per la registrazione delle entrate
 
@@ -4368,9 +4336,9 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che la presente modifica si applica, "ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-## CAPO III - Pagamento delle spese
+#### CAPO III - Pagamento delle spese
 
-###### Articolo 216
+##### Articolo 216
 
 Condizioni di legittimita' dei pagamenti effettuali dal tesoriere
 
@@ -4386,13 +4354,13 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 217
+##### Articolo 217
 
 Estinzione dei mandati di pagamento
 
 1\. L'estinzione dei mandati da parte del tesoriere avviene nel rispetto della legge e secondo le indicazioni fornite dall'ente, con assunzione di responsabilita' da parte del tesoriere, che ne risponde con tutto il proprio patrimonio sia nei confronti dell'ente locale ordinante sia dei terzi creditori, in ordine alla regolarita' delle operazioni di pagamento eseguite.
 
-###### Articolo 218
+##### Articolo 218
 
 Annotazione della quietanza
 
@@ -4400,21 +4368,21 @@ Annotazione della quietanza
 
 2\. Su richiesta dell'ente locale il tesoriere fornisce gli estremi di qualsiasi operazione di pagamento eseguita nonche' la relativa prova documentale.
 
-###### Articolo 219
+##### Articolo 219
 
 Mandati non estinti al termine dell'esercizio
 
 1\. I mandati interamente o parzialmente non estinti alla data del 31 dicembre sono eseguiti mediante commutazione in assegni postali localizzati o con altri mezzi equipollenti offerti dal sistema bancario o postale.
 
-###### Articolo 220
+##### Articolo 220
 
 Obblighi del tesoriere per le delegazioni di pagamento
 
 1\. A seguito della notifica degli atti di delegazione di pagamento di cui all'articolo 206 il tesoriere e' tenuto a versare l'importo dovuto ai creditori alle scadenze prescritte, con comminatoria dell'indennita' di mora in caso di ritardato pagamento.
 
-## CAPO IV - Altre attivita'
+#### CAPO IV - Altre attivita'
 
-###### Articolo 221
+##### Articolo 221
 
 Gestione di titoli e valori
 
@@ -4424,7 +4392,7 @@ Gestione di titoli e valori
 
 3\. Il regolamento di contabilita' dell'ente locale definisce le procedure per i prelievi e per le restituzioni.
 
-###### Articolo 222
+##### Articolo 222
 
 Anticipazioni di tesoreria
 
@@ -4518,9 +4486,9 @@ AGGIORNAMENTO (136)
 
 La L. 27 dicembre 2019, n. 160, come modificata dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 1, comma 555) che "Al fine di agevolare il rispetto dei tempi di pagamento di cui al decreto legislativo 9 ottobre 2002, n. 231, il limite massimo di ricorso da parte degli enti locali ad anticipazioni di tesoreria, di cui al comma 1 dell'articolo 222 del testo unico di cui al decreto legislativo 18 agosto 2000, n. 267, e' elevato da tre a cinque dodicesimi per ciascuno degli anni dal 2020 al 2025".
 
-## CAPO V - Adempimenti e verifiche contabili
+#### CAPO V - Adempimenti e verifiche contabili
 
-###### Articolo 223
+##### Articolo 223
 
 Verifiche ordinarie di cassa
 
@@ -4528,7 +4496,7 @@ Verifiche ordinarie di cassa
 
 2\. Il regolamento di contabilita' puo' prevedere autonome verifiche di cassa da parte dell'amministrazione dell'ente.
 
-###### Articolo 224
+##### Articolo 224
 
 Verifiche straordinarie di cassa
 
@@ -4544,7 +4512,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che la presente modifica si applica, "ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 225
+##### Articolo 225
 
 Obblighi di documentazione e conservazione
 
@@ -4564,7 +4532,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Art. 226
+##### Art. 226
 
 Conto del tesoriere
 
@@ -4586,11 +4554,9 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-## TITOLO VI
+### TITOLO VI - RILEVAZIONE E DIMOSTRAZIONE DEI RISULTATI DI GESTIONE
 
-### RILEVAZIONE E DIMOSTRAZIONE DEI RISULTATI DI GESTIONE
-
-###### Art. 227
+##### Art. 227
 
 Rendiconto della gestione
 
@@ -4642,7 +4608,7 @@ AGGIORNAMENTO (95)
 
 Il D.L. 24 aprile 2017, n. 50, convertito con modificazioni dalla L. 21 giugno 2017, n. 96, ha disposto (con l'art. 18, comma 3-quater) che "Il conto economico e lo stato patrimoniale previsti dall'articolo 227 del testo unico di cui al decreto legislativo 18 agosto 2000, n. 267, relativi all'esercizio 2016, possono essere approvati entro il 31 luglio 2017 e trasmessi alla banca dati delle amministrazioni pubbliche entro trenta giorni. Il mancato rispetto di tali termini comporta l'applicazione della procedura di cui all'articolo 141, comma 2, del medesimo testo unico di cui al decreto legislativo n. 267 del 2000, con il termine ordinario di venti giorni ivi previsto, nonche' delle disposizioni dell'articolo 9, comma 1-quinquies, del decreto-legge 24 giugno 2016, n. 113, convertito, con modificazioni, dalla legge 7 agosto 2016, n. 160".
 
-###### Articolo 228
+##### Articolo 228
 
 Conto del bilancio
 
@@ -4672,7 +4638,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 229
+##### Articolo 229
 
 Conto economico
 
@@ -4702,7 +4668,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 230
+##### Articolo 230
 
 Lo stato patrimoniale e conti patrimoniali speciali (83)
 
@@ -4746,7 +4712,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 231
+##### Articolo 231
 
 (( (La relazione sulla gestione). ))
 
@@ -4760,7 +4726,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che la presente modifica si applica, "ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 232 - Contabilita' economico-patrimoniale
+##### Articolo 232 - Contabilita' economico-patrimoniale
 
 Gli enti locali garantiscono la rilevazione dei fatti gestionali sotto il profilo economico-patrimoniale nel rispetto del principio contabile generale n. 17 della competenza economica e dei principi applicati della contabilita' economico-patrimoniale di cui agli allegati n. 1 e n. 4/3del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni.
 
@@ -4782,7 +4748,7 @@ AGGIORNAMENTO (106)
 
 Il D.L. 26 ottobre 2019, n. 124, convertito con modificazioni dalla L. 19 dicembre 2019, n. 157, ha disposto (con l'art. 57, comma 2-ter, lettera b)) che "al secondo periodo, le parole da: "Gli enti locali" fino a: "31 dicembre 2019" sono sostituite dalle seguenti: "Gli enti locali che optano per la facolta' di cui al primo periodo allegano al rendiconto una situazione patrimoniale al 31 dicembre dell'anno precedente"."
 
-###### Art. 233
+##### Art. 233
 
 Conti degli agenti contabili interni
 
@@ -4808,7 +4774,7 @@ g) eventuali altri documenti richiesti dalla Corte dei conti.
 
 4\. I conti di cui al comma 1 sono redatti su modello approvato con il regolamento previsto dall'articolo 160.
 
-###### Articolo 233-bis - Il bilancio consolidato
+##### Articolo 233-bis - Il bilancio consolidato
 
 1\. Il bilancio consolidato di gruppo e' predisposto secondo le modalita' previste dal decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni.
 
@@ -4824,11 +4790,9 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che la presente modifica si applica ", ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-## TITOLO VII
+### TITOLO VII - REVISIONE ECONONIICO-FINANZIARIA
 
-### REVISIONE ECONONIICO-FINANZIARIA
-
-###### Art. 234
+##### Art. 234
 
 Organo di revisione economico-finanziario
 
@@ -4848,7 +4812,7 @@ c) uno tra gli iscritti nell'albo dei ragionieri.
 
 4\. Gli enti locali comunicano ai propri tesorieri i nominativi dei soggetti cui e' affidato l'incarico entro 20 giorni dall'avvenuta esecutivita' della delibera di nomina.
 
-###### Articolo 235
+##### Articolo 235
 
 Durata dell'incarico e cause di cessazione
 
@@ -4864,7 +4828,7 @@ b) dimissioni volontarie ((da comunicare con preavviso di almeno quarantacinque 
 
 c) impossibilita' derivante da qualsivoglia causa a svolgere l'incarico per un periodo di tempo stabilito dal regolamento dell'ente.
 
-###### Articolo 236
+##### Articolo 236
 
 Incompatibilita' ed ineleggibilita' dei revisori
 
@@ -4874,7 +4838,7 @@ Incompatibilita' ed ineleggibilita' dei revisori
 
 3\. I componenti degli organi di revisione contabile non possono assumere incarichi o consulenze presso l'ente locale o presso organismi o istituzioni dipendenti o comunque sottoposti al controllo o vigilanza dello stesso.
 
-###### Articolo 237
+##### Articolo 237
 
 Funzionamento del collegio dei revisori
 
@@ -4882,7 +4846,7 @@ Funzionamento del collegio dei revisori
 
 2\. Il collegio dei revisori redige un verbale delle riunioni, ispezioni, verifiche, determinazioni e decisioni adottate.
 
-###### Articolo 238
+##### Articolo 238
 
 Limiti all'affidamento di incarichi
 
@@ -4890,7 +4854,7 @@ Limiti all'affidamento di incarichi
 
 2\. L'affidamento dell'incarico di revisione e' subordinato alla dichiarazione, resa nelle forme di cui alla legge 4 gennaio 1968, n. 15, e successive modifiche ed integrazioni, con la quale il soggetto attesta il rispetto dei limiti di cui al comma 1.
 
-###### Articolo 239
+##### Articolo 239
 
 Funzioni dell'organo di revisione
 
@@ -4948,13 +4912,13 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che le presenti modifiche "si applicano, ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 240
+##### Articolo 240
 
 Responsabilita' dell'organo di revisione
 
 1\. I revisori rispondono della veridicita' delle loro attestazioni e adempiono ai loro doveri con la diligenza del mandatario. Devono inoltre conservare la riservatezza sui fatti e documenti di cui hanno conoscenza per ragione dei loro ufficio.
 
-###### Articolo 241
+##### Articolo 241
 
 Compenso dei revisori
 
@@ -4974,15 +4938,11 @@ Compenso dei revisori
 
 7\. L'ente locale stabilisce il compenso spettante ai revisori con la stessa delibera di nomina.
 
-## TITOLO VIII
+### TITOLO VIII - ENTI LOCALI DEFICITARI O DISSESTATI
 
-### ENTI LOCALI DEFICITARI O DISSESTATI
+#### CAPO I - Enti locali deficitari: disposizioni generali
 
-#### CAPO - I
-
-##### Enti locali - deficitari: disposizioni generali
-
-###### Art. 242
+##### Art. 242
 
 Individuazione degli enti locali strutturalmente deficitari e relativi controlli
 
@@ -4998,7 +4958,7 @@ AGGIORNAMENTO (58)
 
 Il D.L. 10 ottobre 2012, n. 174, convertito con modificazioni dalla L. 7 dicembre 2012, n. 213, ha disposto (con l'art. 3, comma 5) che "La condizione di deficitarieta' strutturale di cui all'articolo 242, del citato Testo unico n. 267 del 2000, come modificato dal comma 1, lettera p), continua ad essere rilevata, per l'anno 2013, dalla tabella allegata al certificato sul rendiconto dell'esercizio 2011".
 
-###### Articolo 243
+##### Articolo 243
 
 Controlli per gli enti locali strutturalmente deficitari, enti locali dissestati ed altri enti
 
@@ -5032,7 +4992,7 @@ b) gli enti locali che non inviino il rendiconto della gestione alla banca dati 
 
 7\. Gli enti locali che hanno deliberato lo stato di dissesto finanziario sono soggetti, per la durata del risanamento, ai controlli di cui al comma 1, sono tenuti alla presentazione della certificazione di cui al comma 2 e sono tenuti per i servizi a domanda individuale al rispetto, per il medesimo periodo, del livello minimo di copertura dei costi di gestione di cui al comma 2, lettera a).
 
-###### Art. 243-bis - Procedura di riequilibrio finanziario pluriennale
+##### Art. 243-bis - Procedura di riequilibrio finanziario pluriennale
 
 1\. I comuni e le province per i quali, anche in considerazione delle pronunce delle competenti sezioni regionali della Corte dei conti sui bilanci degli enti, sussistano squilibri strutturali del bilancio in grado di provocare il dissesto finanziario, nel caso in cui le misure di cui agli articoli 193 e 194 non siano sufficienti a superare le condizioni di squilibrio rilevate, possono ricorrere, con deliberazione consiliare alla procedura di riequilibrio finanziario pluriennale prevista dal presente articolo. La predetta procedura non puo' essere iniziata qualora sia decorso il termine assegnato dal prefetto, con lettera notificata ai singoli consiglieri, per la deliberazione del dissesto, di cui all'articolo 6, comma 2, del decreto legislativo 6 settembre 2011, n. 149.
 
@@ -5165,7 +5125,7 @@ Il D.L. 29 dicembre 2022, n. 198, convertito con modificazioni dalla L. 24 febbr
 
 Il D.L. 17 maggio 2022, n. 50, convertito con modificazioni dalla L. 15 luglio 2022, n. 91, come modificato dal D.L. 29 dicembre 2022, n. 198, convertito con modificazioni dalla L. 24 febbraio 2023, n. 14, ha disposto (con l'art. 43, comma 5-bis) che "I termini di presentazione o riformulazione dei piani di riequilibrio finanziario pluriennale previsti dall'articolo 243-bis del testo unico delle leggi sull'ordinamento degli enti locali, di cui al decreto legislativo 18 agosto 2000, n. 267, nonche' quelli di presentazione dell'ipotesi di bilancio stabilmente riequilibrato, prevista dall'articolo 259 del medesimo testo unico, in corso alla data di entrata in vigore del presente decreto sono prorogati di centoventi giorni per gli enti che abbiano sottoscritto gli accordi di cui al comma 2 del presente articolo e al comma 572 dell'articolo 1 della legge 30 dicembre 2021, n. 234, e fino al 31 marzo 2023 per gli enti che abbiano presentato le proposte di cui al comma 3 del presente articolo, senza che sia successivamente intervenuta la sottoscrizione dell'accordo".
 
-###### Art. 243-ter
+##### Art. 243-ter
 
 (( (Fondo di rotazione per assicurare la stabilita' finanziaria degli enti locali) ))
 
@@ -5179,7 +5139,7 @@ a) dell'incremento percentuale delle entrate tributarie ed extratributarie previ
 
 b) della riduzione percentuale delle spese correnti previste nell'ambito del piano di riequilibrio pluriennale.))
 
-###### Art. 243-quater - Esame del piano di riequilibrio finanziario pluriennale e controllo sulla relativa attuazione
+##### Art. 243-quater - Esame del piano di riequilibrio finanziario pluriennale e controllo sulla relativa attuazione
 
 1\. Entro dieci giorni dalla data della delibera di cui all'articolo 243-bis, comma 5, il piano di riequilibrio finanziario pluriennale e' trasmesso alla competente sezione regionale di controllo della Corte dei conti, nonche' alla Commissione di cui all'articolo 155, la quale, entro il termine di sessanta giorni dalla data di presentazione del piano, svolge la necessaria istruttoria anche sulla base delle Linee guida deliberate dalla sezione delle autonomie della Corte dei conti. All'esito dell'istruttoria, la Commissione redige una relazione finale, con gli eventuali allegati, che e' trasmessa alla sezione regionale di controllo della Corte dei conti.((112))
 
@@ -5219,7 +5179,7 @@ AGGIORNAMENTO (112)
 
 Il D.L. 17 marzo 2020, n. 18, ha disposto (con l'art, 107, comma 7) che "I termini di cui agli articoli 246 comma 2, 251 comma 1, 259 comma 1, 261 comma 4, 264 comma 1, 243-bis comma 5, 243-quater comma 1, 243-quater comma 2, 243-quater comma 5 del decreto legislativo 18 agosto 2000, n. 267 sono rinviati al 30 giugno 2020".
 
-###### Art. 243-quinquies - Misure per garantire la stabilita' finanziaria degli enti locali sciolti per fenomeni di infiltrazione e di condizionamento di tipo mafioso
+##### Art. 243-quinquies - Misure per garantire la stabilita' finanziaria degli enti locali sciolti per fenomeni di infiltrazione e di condizionamento di tipo mafioso
 
 1\. Per la gestione finanziaria degli enti locali sciolti ai sensi dell'articolo 143, per i quali sussistono squilibri strutturali di bilancio, in grado di provocare il dissesto finanziario, la commissione straordinaria per la gestione dell'ente, entro sei mesi dal suo insediamento, puo' richiedere una anticipazione di cassa da destinare alle finalita' di cui al comma 2.((112))
 
@@ -5235,7 +5195,7 @@ AGGIORNAMENTO (112)
 
 Il D.L. 17 marzo 2020, n. 18, ha disposto (con l'art. 107, comma 9) che "Il termine di cui all'articolo 243-quinquies comma 1 del decreto legislativo 18 agosto 2000, n. 267 e' fissato al 31 dicembre 2020".
 
-###### Art. 243-sexies - Pagamento di debiti
+##### Art. 243-sexies - Pagamento di debiti
 
 1\. In considerazione dell'esigenza di dare prioritario impulso all'economia in attuazione dell'articolo 41 della Costituzione, le risorse provenienti dal Fondo di rotazione di cui all'articolo 243-ter del presente testo unico sono destinate esclusivamente al pagamento dei debiti presenti nel piano di riequilibrio finanziario pluriennale di cui all'articolo 243-bis. ((110))
 
@@ -5247,9 +5207,9 @@ AGGIORNAMENTO (110)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, ha disposto (con l'art. 38, comma 2) che "In deroga al comma 1 dell'articolo 243-sexies del testo unico di cui al decreto legislativo 18 agosto 2000, n. 267, le somme anticipate possono essere utilizzate, oltre che per il pagamento di debiti presenti nel piano di riequilibrio pluriennale, anche per il pagamento delle esposizioni eventualmente derivanti dal contenzioso censito nel piano di riequilibrio stesso".
 
-## CAPO II - Enti locali dissestati: disposizioni generali
+#### CAPO II - Enti locali dissestati: disposizioni generali
 
-###### Articolo 244
+##### Articolo 244
 
 Dissesto finanziario
 
@@ -5257,7 +5217,7 @@ Dissesto finanziario
 
 2\. Le norme sul risanamento degli enti locali dissestati si applicano solo a province e comuni.
 
-###### Articolo 245
+##### Articolo 245
 
 Soggetti della procedura di risanamento
 
@@ -5267,7 +5227,7 @@ Soggetti della procedura di risanamento
 
 3\. Gli organi istituzionali dell'ente assicurano condizioni stabili di equilibrio della gestione finanziaria rimuovendo le cause strutturali che hanno determinato il dissesto.
 
-###### Articolo 246
+##### Articolo 246
 
 Deliberazione di dissesto
 
@@ -5295,7 +5255,7 @@ AGGIORNAMENTO (112)
 
 Il D.L. 17 marzo 2020, n. 18, ha disposto (con l'art, 107, comma 7) che "I termini di cui agli articoli 246 comma 2, 251 comma 1, 259 comma 1, 261 comma 4, 264 comma 1, 243-bis comma 5, 243-quater comma 1, 243-quater comma 2, 243-quater comma 5 del decreto legislativo 18 agosto 2000, n. 267 sono rinviati al 30 giugno 2020".
 
-###### Articolo 247
+##### Articolo 247
 
 Omissione della deliberazione di dissesto
 
@@ -5307,7 +5267,7 @@ Omissione della deliberazione di dissesto
 
 4\. Del provvedimento sostitutivo e' data comunicazione al prefetto che inizia la procedura per lo scioglimento del consiglio dell'ente, ai sensi dell'articolo 141.
 
-###### Articolo 248
+##### Articolo 248
 
 Conseguenze della dichiarazione di dissesto
 
@@ -5329,13 +5289,13 @@ AGGIORNAMENTO (153)
 
 Il D.L. 14 marzo 2025, n. 25, convertito con modificazioni dalla L. 9 maggio 2025, n. 69, ha disposto (con l'art. 8, comma 7-bis) che "Le disposizioni di cui al comma 7 si applicano anche ai giudizi che, alla data di entrata in vigore del presente decreto, non sono stati ancora definiti con sentenza passata in giudicato".
 
-###### Articolo 249
+##### Articolo 249
 
 Limiti alla contrazione di nuovi mutui
 
 1\. Dalla data di deliberazione di dissesto e sino all'emanazione del decreto di cui all'articolo 261, comma 3, gli enti locali non possono contrarre nuovi mutui, con eccezione ((...)) dei mutui con oneri a totale carico dello Stato o delle regioni, nonche' dei mutui per la copertura, anche a titolo di anticipazione, di spese di investimento strettamente funzionali all'ordinato svolgimento di progetti e interventi finanziati in prevalenza con risorse provenienti dall'Unione europea o da amministrazioni ed enti nazionali, pubblici o privati. ((Resta salva la facolta' dell'ente di ricorrere a mutui ai sensi degli articoli 202 e seguenti per il finanziamento di debiti fuori bilancio con le modalita' previste dall'articolo 194.))
 
-###### Articolo 250
+##### Articolo 250
 
 Gestione del bilancio durante la procedura di risanamento
 
@@ -5351,7 +5311,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che la presente modifica si applica, "ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Articolo 251
+##### Articolo 251
 
 Attivazione delle entrate proprie
 
@@ -5375,9 +5335,9 @@ AGGIORNAMENTO (112)
 
 Il D.L. 17 marzo 2020, n. 18, ha disposto (con l'art, 107, comma 7) che "I termini di cui agli articoli 246 comma 2, 251 comma 1, 259 comma 1, 261 comma 4, 264 comma 1, 243-bis comma 5, 243-quater comma 1, 243-quater comma 2, 243-quater comma 5 del decreto legislativo 18 agosto 2000, n. 267 sono rinviati al 30 giugno 2020".
 
-## CAPO III - Attivita' dell'organo straordinario di liquidazione
+#### CAPO III - Attivita' dell'organo straordinario di liquidazione
 
-###### Articolo 252
+##### Articolo 252
 
 Composizione, nomina e attribuzioni
 
@@ -5399,7 +5359,7 @@ c) liquidazione e pagamento della massa passiva.
 
 5\. In ogni caso di accertamento di danni cagionati all'ente locale o all'erario, l'organo straordinario di liquidazione provvede alla denuncia dei fatti alla Procura Regionale presso la Corte dei conti ed alla relativa segnalazione al Ministero dell'interno tramite le prefetture.
 
-###### Articolo 253
+##### Articolo 253
 
 Poteri organizzatori
 
@@ -5411,7 +5371,7 @@ Poteri organizzatori
 
 ((3-bis. L'organo straordinario di liquidazione e' tenuto a richiedere l'apertura di un conto presso la Tesoreria dello Stato, ai sensi dell'articolo 1 della legge 29 ottobre 1984, n. 720)).
 
-###### Art. 254
+##### Art. 254
 
 Rilevazione della massa passiva
 
@@ -5437,7 +5397,7 @@ c) i debiti derivanti da transazioni compiute dall'organo straordinario di liqui
 
 8\. In caso di inosservanza del termine di cui al comma 1, di negligenza o di ritardi non giustificati negli adempimenti di competenza, puo' essere disposta la sostituzione di tutti o parte dei componenti dell'organo straordinario della liquidazione. In tali casi, il Ministro dell'interno, previo parere della ((Commissione per la stabilita' finanziaria degli enti locali)), dal quale si prescinde ove non espresso entro trenta giorni dalla richiesta, e sentiti gli interessati, propone al Presidente della Repubblica l'adozione del provvedimento di sostituzione. Il Ministero dell'interno stabilisce con proprio provvedimento il trattamento economico dei commissari sostituiti.
 
-###### Art. 255
+##### Art. 255
 
 Acquisizione e gestione dei mezzi finanziari per il risanamento
 
@@ -5489,7 +5449,7 @@ AGGIORNAMENTO (95)
 
 Il D.L. 24 aprile 2017, n. 50, convertito con modificazioni dalla L. 21 giugno 2017, n. 96, nel modificare l'art. 1, comma 457 della L. 11 dicembre 2016, n. 232, che a sua volta modifica l'art. 2-bis del D.L. 24 giugno 2016, n. 113, convertito, con modificazioni, dalla L. 7 agosto 2016, n. 160, ha conseguentemente disposto (con l'art. 36, comma 2) che "In deroga a quanto previsto dall'articolo 255, comma 10, del decreto legislativo 18 agosto 2000, n. 267, per i comuni e per le province in stato di dissesto finanziario l'amministrazione dei residui attivi e passivi relativi ai fondi a gestione vincolata compete all'organo straordinario della liquidazione".
 
-###### Art. 256
+##### Art. 256
 
 Liquidazione e pagamento della massa passiva
 
@@ -5519,7 +5479,7 @@ Liquidazione e pagamento della massa passiva
 
 12\. Nel caso in cui l'insufficienza della massa attiva, non diversamente rimediabile, e' tale da compromettere il risanamento dell'ente, il Ministro dell'interno, su proposta della Commissione per la stabilita' finanziaria degli enti locali, puo' stabilire misure straordinarie per il pagamento integrale della massa passiva della liquidazione, anche in deroga alle norme vigenti, comunque senza oneri a carico dello Stato. Tra le misure straordinarie e' data la possibilita' all'ente di aderire alla procedura di riequilibrio finanziario pluriennale prevista dall'articolo 243-bis.
 
-###### Articolo 257
+##### Articolo 257
 
 Debiti non ammessi alla liquidazione
 
@@ -5529,7 +5489,7 @@ Debiti non ammessi alla liquidazione
 
 3 Se il consiglio non provvede nei termini di cui al comma 2 si applicano le disposizioni di cui all'articolo 136.
 
-###### Articolo 258
+##### Articolo 258
 
 Modalita' semplificate di accertamento e liquidazione dei debiti
 
@@ -5551,9 +5511,9 @@ L'ente locale dissestato e' tenuto a deliberare l'accensione di un mutuo con la 
 
 7\. In caso di eccedenza di disponibilita' si provvede alla riduzione dei mutui, con priorita' per quello a carico dell'ente locale dissestato. E' restituita all'ente locale dissestato la quota di risorse finanziarie liquide dallo stesso messe a disposizione esuberanti rispetto alle necessita' della liquidazione dopo il pagamento dei debiti.
 
-## CAPO IV - Bilancio stabilmente riequilibrato
+#### CAPO IV - Bilancio stabilmente riequilibrato
 
-###### Articolo 259
+##### Articolo 259
 
 Ipotesi di bilancio stabilmente riequilibrato
 
@@ -5625,7 +5585,7 @@ AGGIORNAMENTO (137)
 
 Il D.L. 17 maggio 2022, n. 50, convertito con modificazioni dalla L. 15 luglio 2022, n. 91, come modificato dal D.L. 29 febbraio 2022, n. 198, convertito con modificazioni dalla L. 29 febbraio 2023, n. 14 ha disposto (con l'art. 43, comm 5-bis) che "I termini di presentazione o riformulazione dei piani di riequilibrio finanziario pluriennale previsti dall'articolo 243-bis del testo unico delle leggi sull'ordinamento degli enti locali, di cui al decreto legislativo 18 agosto 2000, n. 267, nonche' quelli di presentazione dell'ipotesi di bilancio stabilmente riequilibrato, prevista dall'articolo 259 del medesimo testo unico, in corso alla data di entrata in vigore del presente decreto sono prorogati di centoventi giorni per gli enti che abbiano sottoscritto gli accordi di cui al comma 2 del presente articolo e al comma 572 dell'articolo 1 della legge 30 dicembre 2021, n. 234, e fino al 31 marzo 2023 per gli enti che abbiano presentato le proposte di cui al comma 3 del presente articolo, senza che sia successivamente intervenuta la sottoscrizione dell'accordo".
 
-###### Articolo 260
+##### Articolo 260
 
 Collocamento in disponibilita' del personale eccedente
 
@@ -5633,7 +5593,7 @@ Collocamento in disponibilita' del personale eccedente
 
 2\. Il Ministero dell'interno assegna all'ente locale per il personale posto in disponibilita' un contributo pari alla spesa relativa al trattamento economico con decorrenza dalla data della deliberazione e per tutta la durata della disponibilita'. Analogo contributo, per la durata del rapporto di lavoro, e' corrisposto all'ente locale presso il quale il personale predetto assume servizio.
 
-###### Articolo 261
+##### Articolo 261
 
 Istruttoria e decisione sull'ipotesi di bilancio stabilmente riequilibrato
 
@@ -5655,7 +5615,7 @@ AGGIORNAMENTO (112)
 
 Il D.L. 17 marzo 2020, n. 18, ha disposto (con l'art, 107, comma 7) che "I termini di cui agli articoli 246 comma 2, 251 comma 1, 259 comma 1, 261 comma 4, 264 comma 1, 243-bis comma 5, 243-quater comma 1, 243-quater comma 2, 243-quater comma 5 del decreto legislativo 18 agosto 2000, n. 267 sono rinviati al 30 giugno 2020".
 
-###### Articolo 262
+##### Articolo 262
 
 Inosservanza degli obblighi relativi all'ipotesi di bilancio stabilmente riequilibrato
 
@@ -5663,7 +5623,7 @@ Inosservanza degli obblighi relativi all'ipotesi di bilancio stabilmente riequil
 
 2\. Nel caso di emanazione del provvedimento definitivo di diniego di cui all'articolo 261, comma 4, sono attribuiti al commissario i poteri ritenuti necessari per il riequilibrio della gestione, anche in deroga alle norme vigenti, comunque senza oneri a carico dello Stato.
 
-###### Articolo 263
+##### Articolo 263
 
 Determinazione delle medie nazionali per classi demografiche delle risorse di parte corrente e della consistenza delle dotazioni organiche
 
@@ -5671,9 +5631,9 @@ Determinazione delle medie nazionali per classi demografiche delle risorse di pa
 
 2\. Con decreto a cadenza triennale il Ministro dell'interno individua con proprio decreto la media nazionale per classe demografica della consistenza delle dotazioni organiche per comuni e province ed i rapporti medi dipendenti-popolazione per classe demografica, validi per gli enti in condizione di dissesto ai fini di cui all'articolo 259, comma 6. In ogni caso agli enti spetta un numero di dipendenti non inferiore a quello spettante agli enti di maggiore dimensione della fascia demografica precedente.
 
-## CAPO V - Prescrizioni e limiti conseguenti al risanamento
+#### CAPO V - Prescrizioni e limiti conseguenti al risanamento
 
-###### Articolo 264
+##### Articolo 264
 
 Deliberazione del bilancio di previsione stabilmente riequilibrato
 
@@ -5695,7 +5655,7 @@ AGGIORNAMENTO (115)
 
 Il D.L. 17 marzo 2020, n. 18, convertito con modificazioni dalla L. 24 aprile 2020, n. 27, come modificato dal D.L. 14 agosto 2020, n. 104, convertito con modificazioni dalla L. 13 ottobre 2020, n. 126, ha disposto (con l'art. 107, comma 8) che "Il termine di cui all'articolo 264, comma 2, del decreto legislativo 18 agosto 2000, n. 267, e' fissato al 30 novembre 2020".
 
-###### Articolo 265
+##### Articolo 265
 
 Durata della procedura di risanamento ed attuazione delle prescrizioni recate dal decreto di approvazione dell'ipotesi di bilancio stabilmente riequilibrato
 
@@ -5707,19 +5667,19 @@ Durata della procedura di risanamento ed attuazione delle prescrizioni recate da
 
 4\. L'inosservanza delle prescrizioni contenute nel decreto del Ministro dell'interno di cui all'articolo 261, comma 3, comporta la segnalazione dei fatti all'Autorita' giudiziaria per l'accertamento delle ipotesi di reato.
 
-###### Articolo 266
+##### Articolo 266
 
 Prescrizioni in materia di investimenti
 
 1\. Dall'emanazione del decreto di cui all'articolo 261, comma 3, e per la durata del risanamento come definita dall'articolo 265 gli enti locali dissestati possono procedere all'assunzione di mutui per investimento ed all'emissione di prestiti obbligazionari nelle forme e nei modi consentiti dalla legge.
 
-###### Articolo 267
+##### Articolo 267
 
 Prescrizioni sulla dotazione organica
 
 1\. Per la durata del risanamento, come definita dall'articolo 265, la dotazione organica rideterminata ai sensi dell'articolo 259 non puo' essere variata in aumento.
 
-###### Articolo 268
+##### Articolo 268
 
 Ricostituzione di disavanzo di amministrazione o di debiti fuori bilancio
 
@@ -5727,7 +5687,7 @@ Ricostituzione di disavanzo di amministrazione o di debiti fuori bilancio
 
 2\. Nei casi di cui al comma 1 il Ministro dell'interno con proprio decreto, su proposta della ((Commissione per la stabilita' finanziaria degli enti locali)), stabilisce le misure necessarie per il risanamento, anche in deroga alle norme vigenti, comunque senza oneri a carico dello Stato, valutando il ricorso alle forme associative e di collaborazione tra enti locali di cui agli articoli da 30 a 34.
 
-###### Art. 268-bis - Procedura straordinaria per fronteggiare ulteriori passivita'
+##### Art. 268-bis - Procedura straordinaria per fronteggiare ulteriori passivita'
 
 1\. Nel caso in cui l'organo straordinario di liquidazione non possa concludere entro i termini di legge la procedura del dissesto per l'onerosita' degli adempimenti connessi alla compiuta determinazione della massa attiva e passiva dei debiti pregressi, il Ministro dell'interno, d'intesa con il sindaco dell'ente locale interessato, dispone con proprio decreto una chiusura anticipata e semplificata della procedura del dissesto con riferimento a quanto gia' definito entro il trentesimo giorno precedente il provvedimento. Il provvedimento fissa le modalita' della chiusura, tenuto conto del parere della Commissione per la stabilita' finanziaria degli enti locali.
 
@@ -5749,7 +5709,7 @@ AGGIORNAMENTO (83)
 
 Il D.Lgs. 23 giugno 2011, n. 118, come modificato dal D.Lgs. 10 agosto 2014, n. 126, ha disposto (con l'art. 80, comma 1) che la presente modifica si applica, "ove non diversamente previsto nel presente decreto, a decorrere dall'esercizio finanziario 2015, con la predisposizione dei bilanci relativi all'esercizio 2015 e successivi".
 
-###### Art. 268-ter
+##### Art. 268-ter
 
 (Effetti del ricorso alla procedura straordinaria
 
@@ -5765,7 +5725,7 @@ Il divieto vale fino al compimento della procedura di cui al comma 5 del citato 
 
 4\. E' consentito in via straordinaria agli enti locali gia' dissestati (( . . . )) di accedere alla procedura di cui all'articolo 268-bis ove risulti l'insorgenza di maggiori debiti riferiti ad atti o fatti di gestione avvenuti entro il 31 dicembre dell'anno antecedente a quello del bilancio riequilibrato, tenuto conto anche di interessi, rivalutazioni e spese legali. A tal fine i consigli degli enti interessati formulano al Ministero dell'interno documentata richiesta in cui, su conforme parere del responsabile del servizio finanziario e dell'organo di revisione, e' dato atto del fatto che non sussistono mezzi sufficienti a far fronte all'evenienza. Si applicano in tal caso agli enti locali, oltre alle norme di cui all'articolo 268-bis, quelle contenute nel presente articolo.
 
-###### Articolo 269
+##### Articolo 269
 
 Modalita' applicative della procedura di risanamento
 
@@ -5773,11 +5733,9 @@ Modalita' applicative della procedura di risanamento
 
 2\. Nelle more dell'emanazione del regolamento di cui al comma 1 continuano ad applicarsi, in quanto compatibili, le disposizioni recate dal decreto del Presidente della Repubblica 24 agosto 1991, n. 378.
 
-## PARTE III
+## PARTE III - Associazioni degli enti locali
 
-### Associazioni degli enti locali
-
-###### Articolo 270
+##### Articolo 270
 
 Contributi associativi
 
@@ -5787,7 +5745,7 @@ Contributi associativi
 
 3\. Gli enti associati hanno diritto di recedere dalle associazioni entro il 31 ottobre di ogni anno, con conseguente esclusione dai ruoli dal 1^ gennaio dell'anno successivo.
 
-###### Articolo 271
+##### Articolo 271
 
 Sedi associative
 
@@ -5797,7 +5755,7 @@ Sedi associative
 
 3\. Le associazioni di cui al comma 2 non possono utilizzare piu' di dieci dipendenti distaccati dagli enti locali o dalle loro aziende presso le rispettive sedi nazionali e non piu' di tre dipendenti predetti presso ciascuna sezione regionale.
 
-###### Articolo 272
+##### Articolo 272
 
 Attivita' delle associazioni nella cooperazione allo sviluppo
 
@@ -5805,11 +5763,9 @@ Attivita' delle associazioni nella cooperazione allo sviluppo
 
 2\. I comuni e le province possono destinare un importo non superiore allo 0.80 per cento della somma dei primi tre titoli delle entrate correnti dei propri bilanci di previsione per sostenere programmi di cooperazione allo sviluppo ed interventi di solidarieta' internazionale.
 
-## PARTE IV
+## PARTE IV - Disposizioni transitorie ed abrogazioni
 
-### Disposizioni transitorie ed abrogazioni
-
-###### Articolo 273
+##### Articolo 273
 
 Norme transitorie
 
@@ -5827,7 +5783,7 @@ Norme transitorie
 
 7\. Sono fatti salvi gli effetti dei regolamenti del consiglio in materia organizzativa e contabile adottati nel periodo intercorrente tra il 18 maggio 1997 ed il 21 agosto 1999 e non sottoposti al controllo, nonche' degli atti emanati in applicazione di detti regolamenti.
 
-###### Articolo 274
+##### Articolo 274
 
 Norme abrogate
 
@@ -5923,7 +5879,7 @@ qq) legge 3 agosto 1999, n. 265, limitatamente agli articoli 1; 2; 3;
 
 rr) legge 13 dicembre 1999, n. 475, ad eccezione dell'articolo 1, comma 3, e fatte salve le disposizioni ivi previste per gli amministratori regionali.
 
-###### Articolo 275
+##### Articolo 275
 
 Norma finale
 

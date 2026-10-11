@@ -30,7 +30,7 @@ la seguente legge:
 
 ## TITOLO I - NORME PER GLI IMPIANTI IDROELETTRICI E PER GLI ELETTRODOTTI
 
-###### Art. 1
+#### Art. 1
 
 (Norme per gli impianti idroelettrici
 
@@ -120,19 +120,15 @@ f) prevedere che il Ministro dell'industria, del commercio e dell'artigianato si
 
 > Decorso tale termine, gli enti territorialmente interessati dal piano di bacino sono comunque tenuti a rispettarne le prescrizioni nel settore urbanistico. Qualora gli enti predetti non provvedano ad adottare i necessari adempimenti relativi ai propri strumenti urbanistici entro sei mesi dalla data di comunicazione delle predette disposizioni, e comunque entro nove mesi dalla pubblicazione dell'approvazine del piano di bacino, all'adeguamento provvedono d'ufficio le regioni".
 
-###### Art. 2
+#### Art. 2
 
 ((ARTICOLO ABROGATO DAL D. LGS. 3 APRILE 2006, N. 152 COME MODIFICATO DAL D. LGS. 16 GENNAIO 2008, n. 4))
 
 ## TITOLO II - IDROCARBURI E GEOTERMIA
 
-### Capo I - RICERCA E COLTIVAZIONE DI IDROCARBURI
+### Capo I - RICERCA E COLTIVAZIONE DI IDROCARBURI LIQUIDI E GASSOSI IN TERRAFERMA NEL MARE TERRITORIALE E SULLA PIATTAFORMA CONTINENTALE
 
-#### LIQUIDI E GASSOSI IN TERRAFERMA NEL - MARE TERRITORIALE E SULLA PIATTAFORMA
-
-##### CONTINENTALE
-
-###### Art. 3 - Permesso di prospezione
+#### Art. 3 - Permesso di prospezione
 
 1\. Il permesso di prospezione e' accordato, previa domanda da presentare al Ministero dell'industria, del commercio e dell'artigianato, a persone fisiche o giuridiche che dispongano di capacita' tecniche ed economiche adeguate. ((2))
 
@@ -148,7 +144,7 @@ AGGIORNAMENTO (2)
 
 La Corte costituzionale con sentenza 18-27 dicembre 1991, n. 482 (in G.U. 1a s.s. 04/01/1992, n. 1), ha dichiarato l'illegittimita' costituzionale del presente "art. 3, primo e terzo comma, nella parte in cui non prevede che il permesso di prospezione e' accordato "d'intesa", nei sensi espressi in motivazione, "con la regione autonoma Valle d'Aosta o la provincia autonoma di Trento o di Bolzano".
 
-###### Art. 4 - Divieto di prospezione, ricerca e coltivazione
+#### Art. 4 - Divieto di prospezione, ricerca e coltivazione
 
 1\. La prospezione, la ricerca e la coltivazione di idrocarburi e' vietata nelle acque del Golfo di Napoli, del Golfo di Salerno e delle Isole Egadi, fatti salvi i permessi, le autorizzazioni e le concessioni in atto, nonche' nelle acque del Golfo di Venezia, nel tratto di mare compreso tra il parallelo passante per la foce del fiume Tagliamento e il parallelo passante per la foce del ramo di Goro del fiume Po.
 
@@ -160,7 +156,7 @@ AGGIORNAMENTO (15)
 
 Il D.L. 1 marzo 2022, n. 17, convertito con modificazioni dalla L. 27 aprile 2022, n. 34, come modificato dal D.L. 18 novembre 2022, n. 176, ha disposto (con l'art. 16, comma 2) che "In deroga a quanto previsto dall'articolo 4 della legge 9 gennaio 1991, n. 9, e' consentita la coltivazione delle concessioni di cui al terzo periodo per la durata di vita utile del giacimento a condizione che i titolari delle concessioni medesime aderiscano alle procedure di cui al comma 1 e previa presentazione di analisi tecnico-scientifiche e programmi dettagliati di monitoraggio e verifica dell'assenza di effetti significativi di subsidenza sulle linee di costa da condurre sotto il controllo del Ministero dell'ambiente e della sicurezza energetica".
 
-###### Art. 5 - Permesso di ricerca e qualifiche dei richiedenti
+#### Art. 5 - Permesso di ricerca e qualifiche dei richiedenti
 
 1\. Il permesso di ricerca e' esclusivo ed e' accordato, sentita la regione o la provincia autonoma di Trento o di Bolzano territorialmente interessata e previa domanda da presentare al Ministero dell'industria, del commercio e dell'artigianato, a persone fisiche o giuridiche che dimostrino la necessaria capacita' tecnica ed economica e possiedano o si impegnino a costituire in Italia strutture tecniche ed amministrative adeguate alle attivita' previste, nel rispetto degli impegni contratti dall'Italia in sede di accordi internazionali per la tutela dell'ambiente marino. ((2))
 
@@ -172,7 +168,7 @@ AGGIORNAMENTO (2)
 
 La Corte costituzionale con sentenza 18-27 dicembre 1991, n. 482 (in G.U. 1a s.s. 04/01/1992, n. 1), ha dichiarato l'illegittimita' costituzionale degli art. 5, primo comma, nella parte in cui non prevedono che il permesso di ricerca e' accordato "d'intesa", nei sensi espressi in motivazione, con la regione autonoma Valle d'Aosta o con la provincia autonoma di Trento o di Bolzano.
 
-###### Art. 6
+#### Art. 6
 
 (Conferimento del permesso di ricerca,
 
@@ -216,7 +212,7 @@ AGGIORNAMENTO (9)
 
 Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221, ha disposto (con l'art. 34, comma 19) che "Per la piena attuazione dei piani e dei programmi relativi allo sviluppo e alla sicurezza dei sistemi energetici di cui al decreto legislativo 1° giugno 2011, n. 93, gli impianti attualmente in funzione di cui all'articolo 46 del decreto-legge 1° ottobre 2007, n. 159, convertito, con modificazioni, dalla legge 29 novembre 2007, n. 222, e di cui agli articoli 6 e 9 della legge 9 gennaio 1991, n. 9, continuano ad essere eserciti fino al completamento delle procedure autorizzative in corso previste sulla base dell'originario titolo abilitativo, la cui scadenza deve intendersi a tal fine automaticamente prorogata fino all'anzidetto completamento."
 
-###### Art. 7 - Rinvenimento di altre risorse naturali
+#### Art. 7 - Rinvenimento di altre risorse naturali
 
 1\. Agli obblighi dei titolari di permessi di ricerca, di cui all'articolo 9 della legge 11 gennaio 1957, n. 6, e all'articolo 22 della legge 21 luglio 1967, n. 613, e con riferimento anche ai permessi gia' in corso alla data di entrata in vigore della presente legge, sono aggiunti i seguenti:
 
@@ -228,7 +224,7 @@ b) porre in atto le misure eventualmente richieste dal Ministero dell'industria,
 
 3\. Ove il rinvenimento di risorse naturali dia luogo all'assegnazine di un titolo di sfruttamento minerario per tali sostanze a persona diversa dal titolare di permesso di ricerca che le ha rinvenute, questi ha diritto a ricevere dal nuovo titolare un indennizzo che, salvo accordo tra le parti, sara' determinato dal Ministro dell'industria, del commercio e dell'artigianato, sulla base di criteri che tengano conto, nei limiti eventualmente posti da criteri di economicita' delle risorse stesse, degli oneri sostenuti per il rinvenimento.
 
-###### Art. 8 - Programma unitario di lavoro
+#### Art. 8 - Programma unitario di lavoro
 
 1\. L'autorita' amministrativa competente puo' autorizzare, sentito il Comitato tecnico per gli idrocarburi e la geotermia, la realizzazione di un programma unitario di lavoro nell'ambito di piu' permessi quando il particolare impegno tecnico e finanziario dei lavori programmati e l'omogeneita' degli obiettivi rendano piu' razionale la ricerca su base unificata.
 
@@ -238,7 +234,7 @@ b) porre in atto le misure eventualmente richieste dal Ministero dell'industria,
 
 4\. La riduzione obbligatoria puo' essere operata, previo accordo degli interessati, su qualsiasi porzione delle aree cui si riferisce il programma unitario.
 
-###### Art. 9 - Concessione di coltivazione. Disposizioni generali
+#### Art. 9 - Concessione di coltivazione. Disposizioni generali
 
 1\. Al titolare del permesso che, in seguito alla perforazione di uno o piu' pozzi, abbia rinvenuto idrocarburi liquidi o gassosi e' accordata la concessione di coltivazione se la capacita' produttiva dei pozzi e gli altri elementi di valutazione geo-mineraria disponibili giusitificano tecnicamente ed economicamente lo sviluppo del giacimento scoperto.
 
@@ -280,7 +276,7 @@ AGGIORNAMENTO (9)
 
 Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221, ha disposto (con l'art. 34, comma 19) che "Per la piena attuazione dei piani e dei programmi relativi allo sviluppo e alla sicurezza dei sistemi energetici di cui al decreto legislativo 1° giugno 2011, n. 93, gli impianti attualmente in funzione di cui all'articolo 46 del decreto-legge 1° ottobre 2007, n. 159, convertito, con modificazioni, dalla legge 29 novembre 2007, n. 222, e di cui agli articoli 6 e 9 della legge 9 gennaio 1991, n. 9, continuano ad essere eserciti fino al completamento delle procedure autorizzative in corso previste sulla base dell'originario titolo abilitativo, la cui scadenza deve intendersi a tal fine automaticamente prorogata fino all'anzidetto completamento."
 
-###### Art. 10 - Nuove tecnologie
+#### Art. 10 - Nuove tecnologie
 
 1\. Qualora, a causa di difficolta' di ordine tecnico o di ubicazione, lo sviluppo o la coltivazione di un giacimento richiedano l'impiego di tecnologie non ancora acquisite all'esperienza industriale, l'attuazione prolungata di particolari prove o l'effettuazione di studi di fattibilita' di rilevante impegno, puo' essere presentato dall'interessato, in luogo del prescritto programma di sviluppo, un programma provvisorio in cui siano indicati gli studi e le sperimentazioni necessarie, nonche' il tempo necessario alla loro realizzazione.
 
@@ -288,7 +284,7 @@ Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicemb
 
 3\. Entro quindici giorni dalla scadenza del periodo di cui al comma 2, l'interessato e' tenuto a presentare, a pena di decadenza, il programma definitivo di sviluppo e di coltivazione nelle forme prescritte.
 
-###### Art. 11 - Innovazione tecnologica nelle attivita' di ricerca mineraria e coltivazione
+#### Art. 11 - Innovazione tecnologica nelle attivita' di ricerca mineraria e coltivazione
 
 1\. I progetti concernenti lo sviluppo dell'innovazione tecnologica nei metodi di prospezione, di ricerca e di coltivazione degli idrocarburi liquidi e gassosi, con particolare riferimento all'incremento della produzione e del recupero degli stessi idrocarburi e al contenimento dell'impatto ambientale, per gli anni 1991, 1992 e 1993, possono essere ammessi in via prioritaria alle agevolazioni di cui agli articoli 14 e seguenti della legge 17 febbraio 1982, n. 46. A tal fine il Comitato interministeriale per il coordinamento della politica industriale (CIPI), integrato nell'occasione dal Ministro dell'ambiente, emana le necessarie direttive. Le agevolazioni di cui al presente articolo non sono cumulabili con quelle previste dalla legge 6 ottobre 1982, n. 752, e successive modificazioni ed integrazioni.
 
@@ -298,7 +294,7 @@ Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicemb
 
 > \- La legge n. 752/1982 reca le norme per l'attuazione della politica mineraria e prevede in particolare all'art. 16 agevolazioni per i progetti di ricerca applicata per la messa a punto di nuovi metodi o per il perfezionamento di quelli esistenti in materia di estrazione, trattamento e valorizzazione dei minerali, per la elaborazione e sperimentazione dei processi minerallurgici sostitutivi nonche' per l'aumento della produttivita'.
 
-###### Art. 12 - Vettoriamento del gas naturale
+#### Art. 12 - Vettoriamento del gas naturale
 
 1\. Le societa' proprietarie di metanodotti provvederanno al vettoriamento nel territorio nazionale di gas naturale prodotto in Italia ed utilizzato in stabilimenti delle societa' produttrici, delle societa' controllate, delle societa' controllanti, o di societa' sottoposte al controllo di queste ultime, o per forniture all'Enel o alle imprese di cui al testo unico approvato con regio decreto 15 ottobre 1925, n. 2578, che esercitano le attivita' di cui all'articolo 1, primo comma, della legge 6 dicembre 1962, n. 1643. Le societa' controllate sono quelle individuate ai sensi dell' articolo 2359, primo comma, numeri 1) e 3), del codice civile.
 
@@ -306,7 +302,7 @@ Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicemb
 
 3\. Le condizioni e il corrispettivo per il servizio di vettoriamento saranno concordati tra le parti tenendo conto di un'adeguata remunerazione degli investimenti, dei costi di esercizio, dei criteri in uso sui mercati europei del gas per la determinazione dei compensi di vettoriamento e dei conseguenti livelli, nonche' dell'andamento del mercato dell'energia. In caso di mancato accordo tra le parti, le condizioni e il corrispettivo saranno stabiliti dal CIP, sentite le parti.
 
-###### Art. 13
+#### Art. 13
 
 (Normativa di raccordo
 
@@ -314,7 +310,7 @@ e disciplinari-tipo).
 
 1\. Con decreti del Ministro dell'industria, del commercio e dell'artigianato da emanarsi entro tre mesi dalla data di entrata in vigore della presente legge, sentito il Comitato tecnico per gli idrocarburi e la geotermia, sono determinate le norme transitorie destinate a garantire la continuita' operativa nel settore petrolifero e approvati nuovi disciplinari-tipo per i permessi di prospezione e di ricerca e per le concessioni di coltivazione di cui al presente Capo.
 
-###### Art. 14 - Norme abrogate
+#### Art. 14 - Norme abrogate
 
 1\. A decorrere dalla data di entrata in vigore della presente legge sono abrogate le seguenti norme:
 
@@ -326,7 +322,7 @@ b) articoli 9; 16, primo comma; 17, terzo comma; 19, primo, quinto e sesto comma
 
 ### Capo II - RICERCA E COLTIVAZIONE GEOTERMICA
 
-###### Art. 15 - Ricerca e coltivazione geotermica
+#### Art. 15 - Ricerca e coltivazione geotermica
 
 1\. Alla domanda di permesso di ricerca di cui all'articolo 4 della legge 9 dicembre 1986, n. 896, ed alla richiesta di concessione di coltivazione di cui all'articolo 11 della medesima legge deve essere allegato un impegno del richiedente all'effettuazione della rimessione in pristino dello stato originario dei luoghi a seguito di eventuale incidente o di sistemazione idrogeologica e di risanamento paesistico a seguito dei lavori.
 
@@ -358,11 +354,9 @@ b) articoli 9; 16, primo comma; 17, terzo comma; 19, primo, quinto e sesto comma
 
 ## TITOLO II - IDROCARBURI E GEOTERMIA
 
-### Capo III - NUOVE NORME IN MATERIA DI LAVORAZIONE
+### Capo III - NUOVE NORME IN MATERIA DI LAVORAZIONE DI OLI MINERALI E AUTORIZZAZIONE DI OPERE MINORI
 
-#### DI OLI MINERALI E AUTORIZZAZIONE DI OPERE - MINORI
-
-###### Art. 16
+#### Art. 16
 
 (Concessione per lavorazione o deposito di
 
@@ -380,7 +374,7 @@ d) nuove opere che incrementino la capacita' di stoccaggio dei depositi di cui a
 
 2\. Sono soggette ad autorizzazione da parte del Ministro dell'industria, del commercio e dell'artigianato, la costruzione e la gestione di nuovi impianti che non amplino la capacita' di lavorazione di oli minerali, di nuovi serbatoi di stoccaggio di oli minerali annessi ai medesimi stabilimenti, nonche' delle opere di cui al comma 1 di dimensioni inferiori a quelle ivi previste.
 
-###### Art. 17 - Procedure di concessione e autorizzazione
+#### Art. 17 - Procedure di concessione e autorizzazione
 
 1\. Entro sei mesi dalla data di entrata in vigore della presente legge, con decreto del Presidente della Repubblica, su proposta del Ministro dell'industria, del commercio e dell'artigianato, sentiti il Ministro dell'ambiente e il Ministro per il coordinamento della protezione civile, sono emanate, ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, norme regolamentari in materia di procedure per le concessioni e le autorizzazioni di cui all'articolo 16.
 
@@ -410,7 +404,7 @@ f) stabilire norme transitorie per la definizione delle procedure di autorizzazi
 
 > \- Il D.M. 10 gennaio 1953, ha istituito una commissione consultiva presso il Ministero dell'Industria con il compito di esaminare e riferire sulle domande intese ad ottenere la concessione di impianti petroliferi e di licenze di importazione di prodotti petroliferi. Il successivo D.M. n. 10773 del 20 marzo 1975 ha ricostituito tale commissione per il triennio 1974 - 1976 con la determinazione di "Commissione interministeriale per la disciplina petrolifera".
 
-###### Art. 18 - Agevolazioni finanziarie per il rinnovamento tecnologico nelle raffinerie e nei depositi di oli minerali
+#### Art. 18 - Agevolazioni finanziarie per il rinnovamento tecnologico nelle raffinerie e nei depositi di oli minerali
 
 1\. Allo scopo di promuovere lo sviluppo di tecnologie, di processi e di prodotti innovativi a ridotto tenore inquinante e a maggiore sicurezza ed efficienza energetica nel settore della lavorazione, trasformazione, raffinazione, vettoriamento e stoccaggio delle materie prime energetiche, possono essere concesse le agevolazioni di cui agli articoli 14 e seguenti della legge 17 febbraio 1982, n. 46.
 
@@ -496,15 +490,13 @@ A tal fine il CIPI, integrato nell'occasione dal Ministro dell'ambiente, emana l
 
 > 14\. Le funzioni amministrative statali connesse alla concessione delle agevolazioni di cui agli articoli 63 e 69 del citato testo unico a favore delle iniziative di cui al comma 4 del presente articolo promosse dopo l'entrata in vigore della presente legge dalle imprese artigiane che realizzino o raggiungano investimenti fissi fino a due miliardi di lire, sono delegate alle regioni competenti per territorio, che si avvalgano, per l'istruttoria e per l'erogazione delle agevolazioni stesse, degli istituti di credito a medio termine abilitati ad operare nel Mezzogiorno, compresi gli istituti meridionali di credito speciale, sulla base di apposite convenzioni. I relativi oneri finanziari gravano sugli stanziamenti di cui alla presente legge con modalita' da stabilire con decreto del Ministro del tesoro, di concerto con il Ministro per gli interventi straordinari nel Mezzogiorno".
 
-###### Art. 19
+#### Art. 19
 
 ((ARTICOLO ABROGATO DAL D.LGS. 31 GENNAIO 2001, N. 22))
 
-## TITOLO III - NORME PER GLI AUTOPRODUTTORI E
+## TITOLO III - NORME PER GLI AUTOPRODUTTORI E PER LE IMPRESE ELETTRICHE DEGLI ENTI LOCALI
 
-### PER LE IMPRESE ELETTRICHE DEGLI - ENTI LOCALI
-
-###### Art. 20
+#### Art. 20
 
 Norme per gli autoproduttori da fonti energetiche convenzionali
 
@@ -542,7 +534,7 @@ AGGIORNAMENTO (8)
 
 Il D.L. 23 ottobre 2008, n. 162 convertito con modificazioni dalla L. 22 dicembre 2008, n. 201 ha disposto (con l'art. 3-bis) che "Il secondo periodo dell'articolo 20, comma 4, della legge 9 gennaio 1991, n. 9, si interpreta nel senso che le forniture di energia elettrica ivi previste sono erogate, ai sensi dell'articolo 4 della legge 7 agosto 1982, n. 529, in misura decrescente nei sei anni successivi secondo decrementi annuali calcolati in progressione aritmetica".
 
-###### Art. 21
+#### Art. 21
 
 (Societa' commerciali e imprese elettriche
 
@@ -648,7 +640,7 @@ dell'energia elettrica da esse prodotta.
 
 > Nei casi piu' gravi il Tribunale puo' provvedere alla revoca degli amministratori e alla nomina dell'amministratore giudiziario ai sensi del quarto comma del presente articolo".
 
-###### Art. 22
+#### Art. 22
 
 Regime giuridico degli impianti di produzione di energia elettrica a mezzo di fonti rinnovabili (( . . . ))
 
@@ -666,7 +658,7 @@ Regime giuridico degli impianti di produzione di energia elettrica a mezzo di fo
 
 7\. Ai fini dell'applicazione delle norme di cui agli articoli 2 e 3 della legge 31 ottobre 1966, n. 940, gli impianti di produzione di energia elettrica da fonti rinnovabili (( . . . )) ai sensi della normativa vigente con potenza non superiore a 20 kW vengono esclusi dal pagamento dell'imposta e dalla categoria di officina elettrica, in caso di funzionamento in servizio separato rispetto alla rete pubblica.
 
-###### Art. 23
+#### Art. 23
 
 Circolazione dell'energia elettrica prodotta da impianti di produzione di energia elettrica a mezzo di fonti rinnovabili ((. . .))
 
@@ -676,7 +668,7 @@ Circolazione dell'energia elettrica prodotta da impianti di produzione di energi
 
 3\. Il CIP determina i prezzi massimi del calore prodotto in cogenerazione da cedere, secondo quanto previsto dal comma 2, tenendo conto dei costi del combustibile, del tipo e delle caratteristiche delle utenze.
 
-###### Art. 24 - Diritto di prelazione sulle concessioni idroelettriche
+#### Art. 24 - Diritto di prelazione sulle concessioni idroelettriche
 
 1\. Le imprese non assoggettate a trasferimenti all'Enel, ai sensi dell'articolo 4, numeri 6) e 8), della legge 6 dicembre 1962, n.1643, possono esercitare il diritto di prelazione sulle concessioni per le quali l'Enel abbia manifestato la volonta' di non avvalersi della facolta' di subingresso di cui al combinato disposto del terzo comma dell'articolo 25 del testo unico delle disposizioni di legge sulle acque e sugli impianti elettrici, approvato con regio decreto 11 dicembre 1933, n. 1775, e del quinto comma dell'articolo 9 del decreto del Presidente della Repubblica 18 marzo 1965, n. 342, a condizione che abbiano eseguito le variazioni di cui al secondo comma dell'articolo 49 del testo unico delle disposizioni di legge sulle acque e sugli impianti elettrici, approvato con regio decreto 11 dicembre 1933, n. 1775.
 
@@ -694,7 +686,7 @@ Circolazione dell'energia elettrica prodotta da impianti di produzione di energi
 
 ## TITOLO IV - DISPOSIZIONI FISCALI
 
-###### Art. 25 - Pagamento differito dell'imposta di fabbricazione sui prodotti petroliferi
+#### Art. 25 - Pagamento differito dell'imposta di fabbricazione sui prodotti petroliferi
 
 1\. L'articolo 12 del decreto-legge 30 settembre 1982, n. 688, convertito, con modificazioni, dalla legge 27 novembre 1982, n. 873, e successive modificazioni, e' sostituito dal seguente:
 
@@ -756,7 +748,7 @@ L'interesse si computa per mesi compiuti a decorrere dalla data in cui il credit
 
 > L'interesse dovuto e non pagato e' riscosso dal contabile doganale con la procedura coattiva prevista per i diritti doganali dall'art. 82".
 
-###### Art. 26 - Aliquote della produzione corrisposte allo Stato
+#### Art. 26 - Aliquote della produzione corrisposte allo Stato
 
 1\. I titolari di concessione di coltivazione, a decorrere dal 1
 
@@ -778,7 +770,7 @@ gennaio 1990, sono esonerati per un triennio e, previa eventuale conferma ai sen
 
 9\. La verifica di cui al comma 8 e' effettuata dal Ministro dell'industria, del commercio e dell'artigianato ogni due anni a decorrere dal 30 giugno del terzo anno successivo alla data di entrata in vigore della presente legge. L'eventuale conferma dell'esenzione e' disposta con decreto del Ministro dell'industria, del commercio e dell'artigianato, di concerto con il Ministro delle finanze.
 
-###### Art. 27 - Proroga di esenzione dall'ILOR
+#### Art. 27 - Proroga di esenzione dall'ILOR
 
 1\. L'esenzione di cui agli articoli 34 e 68 della legge 21 luglio 1967, n. 613, ed all'articolo 40, sesto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 601, da ultimo prorogata fino al 31 dicembre 1989 dall'articolo 20 della legge 10 febbraio 1989, n. 48, e' ulteriormente prorogata fino al 31 dicembre 1995.
 
@@ -816,7 +808,7 @@ gennaio 1990, sono esonerati per un triennio e, previa eventuale conferma ai sen
 
 > \- La legge n. 48/1989 reca la proroga di termini previsti da disposizioni legislative.
 
-###### Art. 28
+#### Art. 28
 
 (Aliquota IVA per l'allacciamento alle reti
 
@@ -824,7 +816,7 @@ di teleriscaldamento).
 
 1\. Fino al 31 dicembre 1996 l'aliquota IVA da corrispondere da parte degli utenti per l'allacciamento a reti di teleriscaldamento realizzate in conformita' alla vigente normativa in materia di risparmio energetico e' stabilita nella misura del 4 per cento.
 
-###### Art. 29 - Agevolazioni fiscali per il contenimento dei consumi energetici
+#### Art. 29 - Agevolazioni fiscali per il contenimento dei consumi energetici
 
 ((1. Le spese sostenute dalle persone fisiche e dagli enti di cui alla lettera c) del comma 1 dell'articolo 87 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, per gli interventi non assistiti da contribuzione diretta o indiretta dello Stato o di altro ente pubblico, atti a realizzare il contenimento dei consumi energetici in conformita' delle vigenti disposizioni in materia di contenimento dei consumi energetici negli edifici, posti in essere nelle unita' immobiliari destinate ad uso di civile abitazione diverse da quelle di cui all'articolo 40 del predetto testo unico, sono deducibili dal reddito complessivo. La deduzione spetta nella misura del 25 per cento della spesa rimasta effettivamente a carico del possessore del reddito stesso e proporzionata alla sua quota di possesso per il periodo d'imposta in cui e' stato eseguito il pagamento a saldo e per quello successivo. Per ciascun periodo di imposta la deduzione non puo' essere superiore al reddito della unita' immobiliare, nella quale sono stati realizzati i suddetti interventi, determinato senza tenere conto della deduzione di cui all'articolo 34, comma 4-quater), del predetto testo unico, ne' della maggiorazione prevista dall'articolo 38 dello stesso testo unico. La deduzione si applica per gli interventi il cui pagamento a saldo sia intervenuto non oltre il 31 dicembre 1994.))
 
@@ -832,7 +824,7 @@ di teleriscaldamento).
 
 3\. L'avvenuta realizzazione dell'opera e il sostenimento della relativa spesa devono essere comprovati da idonee documentazioni, da allegare alla dichiarazione dei redditi relativa al primo periodo di imposta (( da cui si applica la deduzione )). Con il decreto di cui al comma 2 sono stabilite anche le caratteristiche e le modalita' di rilascio della documentazione occorrente.
 
-###### Art. 30 - Accordi e contratti di programma
+#### Art. 30 - Accordi e contratti di programma
 
 1\. Il Ministro dell'industria, del commercio e dell'artigianato, entro sessanta giorni dalla data di entrata in vigore della presente legge, stipula con l'Enel e la Confederazione italiana servizi pubblici degli enti locali (CISPEL), sentite le associazioni di tutela dei consumatori maggiormente rappresentative, un contratto di programma che preveda, tra l'altro, l'estensione progressiva delle tariffe multiorarie alle utenze. Il CIP nella determinazione e nell'aggiornamento delle tariffe elettriche tiene conto delle iniziative previste dal contratto di programma.
 
@@ -858,7 +850,7 @@ c) la diffusione di informazioni riguardanti, in modo particolare, le caratteris
 
 4\. Il CIP nelle deliberazioni di propria competenza nel settore dell'informazione tiene conto dei contenuti del contratto di programma di cui al comma 3.
 
-###### Art. 31
+#### Art. 31
 
 (Istituzione del marchio
 
@@ -880,13 +872,13 @@ c) la diffusione di informazioni riguardanti, in modo particolare, le caratteris
 
 > \- Per il testo dell'art. 22 della legge n. 142/1990 v. nota al comma 2 dell'art. 20.
 
-###### Art. 32
+#### Art. 32
 
 ((IL D. LGS. 3 APRILE 2006, N. 152 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO ))
 
 ## TITOLO V - DISPOSIZIONI FINANZIARIE E FINALI
 
-###### Art. 33 - Copertura finanziaria
+#### Art. 33 - Copertura finanziaria
 
 1\. Alle minori entrate derivanti dall'applicazione dalla presente legge, valutate in lire 115 miliardi per l'anno 1990, in lire 355 miliardi per l'anno 1991 ed in lire 400 miliardi per ciascuno degli anni dal 1992 al 1997, si provvede mediante utilizzo di una quota di pari importo del gettito del sovrapprezzo di cui alla deliberazione del CIP del 21 dicembre 1988, pubblicata nella Gazzetta Ufficiale n. 305 del 30 dicembre 1988, che, ferma restando l'esigenza di assicurare il conseguimento degli obiettivi ivi considerati, viene conseguentemente applicato per un periodo di pari durata.
 
@@ -904,7 +896,7 @@ c) la diffusione di informazioni riguardanti, in modo particolare, le caratteris
 
 > \- La delibera CIP del 24 maggio 1989 (pubblicata in Gazzetta Ufficiale n. 122 del 27 maggio 1989) reca "Rimborso all'ENEL di oneri straordinari".
 
-###### Art. 34
+#### Art. 34
 
 (Promozione e partecipazione a societa'
 
@@ -920,7 +912,7 @@ Gli atti costitutivi e gli statuti delle societa' di cui al settimo comma, nonch
 
 > \- Per il testo vigente dell'art. 1 della legge n. 1643/1962 v. nota all'art. 12.
 
-###### Art. 35 - Disposizioni finali
+#### Art. 35 - Disposizioni finali
 
 1\. Restano ferme tutte le competenze e le procedure stabilite dall'ordinamento vigente in materia di tutela ambientale ed igienico-sanitaria per le attivita' e per gli impianti previsti dalla presente legge.
 

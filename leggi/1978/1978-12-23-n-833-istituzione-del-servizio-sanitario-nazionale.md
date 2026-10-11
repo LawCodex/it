@@ -28,11 +28,9 @@ la seguente legge:
 
 ## TITOLO I - IL SERVIZIO SANITARIO NAZIONALE
 
-### CAPO I
+### CAPO I - PRINCIPI ED OBIETTIVI
 
-#### PRINCIPI ED OBIETTIVI
-
-##### Art. 1 - I principi
+#### Art. 1 - I principi
 
 La Repubblica tutela la salute come fondamentale diritto dell'individuo e interesse della collettivita' mediante il servizio sanitario nazionale.
 
@@ -44,7 +42,7 @@ Nel servizio sanitario nazionale e' assicurato il collegamento ed il coordinamen
 
 Le associazioni di volontariato possono concorrere ai fini istituzionali del servizio sanitario nazionale nei modi e nelle forme stabiliti dalla presente legge.
 
-##### Art. 2 - Gli obiettivi
+#### Art. 2 - Gli obiettivi
 
 Il conseguimento delle finalita' di cui al precedente articolo e' assicurato mediante:
 
@@ -82,15 +80,15 @@ g) la tutela della salute mentale, privilegiando il momento preventivo e inseren
 
 h) ((LETTERA ABROGATA DAL D.P.R. 5 GIUGNO 1993, N. 177 A SEGUITO DI REFERENDUM POPOLARE)).
 
-## CAPO II - COMPETENZE E STRUTTURE
+### CAPO II - COMPETENZE E STRUTTURE
 
-##### Art. 3 - Programmazione di obiettivi e di prestazioni sanitarie
+#### Art. 3 - Programmazione di obiettivi e di prestazioni sanitarie
 
 Lo Stato, nell'ambito della programmazione economica nazionale, determina, con il concorso delle regioni, gli obiettivi della programmazione sanitaria nazionale.
 
 La legge dello Stato, in sede di approvazione del piano sanitario nazionale di cui all'articolo 53, fissa i livelli delle prestazioni sanitarie che devono essere, comunque, garantite a tutti i cittadini.
 
-##### Art. 4 - Uniformita' delle condizioni di salute sul territorio nazionale
+#### Art. 4 - Uniformita' delle condizioni di salute sul territorio nazionale
 
 Con legge dello Stato sono dettate norme dirette ad assicurare condizioni e garanzie di salute uniformi per tutto il territorio nazionale e stabilite le relative sanzioni penali, particolarmente in materia di:
 
@@ -108,7 +106,7 @@ Con legge dello Stato sono dettate norme dirette ad assicurare condizioni e gara
 
 Con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro della sanita', sentito il Consiglio sanitario nazionale, sono fissati e periodicamente sottoposti a revisione i limiti massimi di accettabilita' delle concentrazioni e i limiti massimi di esposizione relativi ad inquinanti di natura chimica, fisica e biologica e delle emissioni sonore negli ambienti di lavoro, abitativi e nell'ambiente esterno.
 
-##### Art. 5 - Indirizzo e coordinamento delle attivita' amministrative regionali
+#### Art. 5 - Indirizzo e coordinamento delle attivita' amministrative regionali
 
 La funzione di indirizzo e coordinamento delle attivita' amministrative delle regioni in materia sanitaria, attinente ad esigenze di carattere unitario, anche con riferimento agli obiettivi della programmazione economica nazionale, ad esigenze di rigore e di efficacia della spesa sanitaria nonche' agli impegni derivanti dagli obblighi internazionali e comunitari, spetta allo Stato e viene esercitata, fuori dei casi in cui si provveda con legge o con atto avente forza di legge, mediante deliberazioni del Consiglio dei ministri, su proposta del Presidente del Consiglio, d'intesa con il Ministro della sanita', sentito il Consiglio sanitario nazionale.
 
@@ -120,7 +118,7 @@ In caso di persistente inattivita' degli organi regionali nell'esercizio delle f
 
 Il Ministro della sanita' e le amministrazioni regionali sono tenuti a fornirsi reciprocamente ed a richiesta ogni notizia utile allo svolgimento delle proprie funzioni.
 
-##### Art. 6 - Competenze dello Stato
+#### Art. 6 - Competenze dello Stato
 
 Sono di competenza dello Stato le funzioni amministrative concernenti:
 
@@ -168,7 +166,7 @@ v) ((LETTERA ABROGATA DAL D.LGS. 15 MARZO 2010, N.66));
 
 z) i servizi sanitari istituiti per ((...)) i Corpi di polizia, per il Corpo degli agenti di custodia e per il Corpo nazionale dei vigili del fuoco, nonche' i servizi dell'Azienda autonoma delle ferrovie dello Stato relativi all'accertamento tecnico-sanitario delle condizioni del personale dipendente.
 
-##### Art. 7 - Funzioni delegate alle regioni
+#### Art. 7 - Funzioni delegate alle regioni
 
 E' delegato alle regioni l'esercizio delle funzioni amministrative concernenti:
 
@@ -202,7 +200,7 @@ AGGIORNAMENTO (4)
 
 La L. 29 febbraio 1980, n. 33, ha disposto (con l'art. 2, comma 1) che "Le deleghe conferite al Governo con gli articoli 7, 42 e 70 della legge 23 dicembre 1978, n. 833, scadute il 23 dicembre 1979, nonche' le deleghe conferite con gli articoli 23 e 37 della legge medesima, scadute il 31 dicembre 1979, sono rinnovate fino al 31 luglio 1980".
 
-##### Art. 8 - Consiglio sanitario nazionale
+#### Art. 8 - Consiglio sanitario nazionale
 
 E' istituito il Consiglio sanitario nazionale con funzioni di consulenza e di proposta nei confronti del Governo per la determinazione delle linee generali della politica sanitaria nazionale e per l'elaborazione e la attuazione del piano sanitario nazionale.
 
@@ -224,7 +222,7 @@ Il Consiglio elegge tra i suoi componenti un vicepresidente.
 
 L'articolazione in sezioni, le modalita' di funzionamento e le funzioni di segreteria del Consiglio sono disciplinate con regolamento emanato dal Ministro della sanita', sentito il Consiglio stesso.
 
-##### Art. 9 - istituto superiore di sanita'
+#### Art. 9 - istituto superiore di sanita'
 
 L'Istituto superiore di sanita' e' organo tecnico-scientifico del servizio sanitario nazionale dotato di strutture e ordinamenti particolari e di autonomia scientifica. Esso dipende dal Ministro della sanita' e collabora con le unita' sanitarie locali, tramite le regioni, e con le regioni stesse, su richiesta di queste ultime, fornendo nell'ambito dei propri compiti istituzionali le informazioni e le consulenze eventualmente necessarie. Esso esplica attivita' di consulenza nelle materie di competenza dello Stato, di cui al precedente articolo 6 della presente legge, ad eccezione di quelle previste dalle lettere g), k), m) e n). Le modalita' della collaborazione delle regioni con l'Istituto superiore di sanita' sono disciplinate nell'ambito dell'attivita' governativa di indirizzo e coordinamento di cui all'articolo 5.
 
@@ -244,7 +242,7 @@ La lettera b), primo comma, dell'articolo 13 della legge 7 agosto 1973, n. 519, 
 
 "b) da dieci esperti nominati per tre anni con decreto del Ministro della sanita' tra personalita' operanti nell'ambito di universita' e istituti a carattere scientifico, italiani ed eventualmente stranieri, o nell'ambito del Consiglio nazionale delle ricerche, e da dieci esperti di nazionalita' italiana nominati per tre anni, con decreto del Ministro della sanita', tra personalita' operanti nell'ambito delle universita' e dei presidi igienico-sanitari regionali. Tali esperti sono nominati su proposta del Consiglio sanitario nazionale".
 
-##### Art. 10 - L'organizzazione territoriale
+#### Art. 10 - L'organizzazione territoriale
 
 Alla gestione unitaria della tutela della salute si provvede in modo uniforme sull'intero territorio nazionale mediante una rete completa di unita' sanitarie locali.
 
@@ -252,7 +250,7 @@ L'unita' sanitaria locale e' il complesso dei presidi, degli uffici e dei serviz
 
 Sulla base dei criteri stabiliti con legge regionale i comuni, singoli o associati, o le comunita' montane articolano le unita' sanitarie locali in distretti sanitari di base, quali strutture tecnico-funzionali per l'erogazione dei servizi di primo livello e di pronto intervento.
 
-##### Art. 11 - Competenze regionali
+#### Art. 11 - Competenze regionali
 
 Le regioni esercitano le funzioni legislative in materia di assistenza sanitaria ed ospedaliera nel rispetto dei principi fondamentali stabiliti dalle leggi dello Stato ed esercitano le funzioni amministrative proprie o loro delegate.
 
@@ -276,11 +274,11 @@ Le regioni, sentiti i comuni interessati, determinano gli ambiti territoriali de
 
 All'atto della determinazione degli ambiti di cui al comma precedente, le regioni provvedono altresi' ad adeguare la delimitazione dei distretti scolastici e di altre unita' di servizio in modo che essi, di regola, coincidano.
 
-##### Art. 12 - Attribuzioni delle province
+#### Art. 12 - Attribuzioni delle province
 
 Fino all'entrata in vigore della legge di riforma delle autonomie locali spetta alle province approvare, nell'ambito dei piani sanitari regionali, la localizzazione dei presidi e servizi sanitari ed esprimere parere sulle delimitazioni territoriali di cui al quinto comma del precedente articolo 11.
 
-##### Art. 13 - Attribuzioni dei comuni
+#### Art. 13 - Attribuzioni dei comuni
 
 Sono attribuite ai comuni tutte le funzioni amministrative in materia di assistenza sanitaria ed ospedaliera che non siano espressamente riservate allo Stato ed alle regioni.
 
@@ -290,7 +288,7 @@ I comuni, singoli o associati, assicurano, anche con riferimento alla legge 8 ap
 
 Disciplinano inoltre, anche ai fini dei compiti di educazione sanitaria propri dell'unita' sanitaria locale, la partecipazione degli utenti direttamente interessati all'attuazione dei singoli servizi.
 
-##### Art. 14 - Unita' sanitarie locali
+#### Art. 14 - Unita' sanitarie locali
 
 L'ambito territoriale di attivita' di ciascuna unita' sanitaria locale e' delimitato in base a gruppi di popolazione di regola compresi tra 50.000 e 200.000 abitanti, tenuto conto delle caratteristiche geomorfologiche e socio-economiche della zona.
 
@@ -328,7 +326,7 @@ p) alla profilassi e alla polizia veterinaria; alla ispezione e alla vigilanza v
 
 q) agli accertamenti, alle certificazioni ed a ogni altra prestazione medico-legale spettanti al servizio sanitario nazionale, con esclusione di quelle relative ai servizi di cui alla lettera z) dell'articolo 6.
 
-##### Art. 15 - Struttura e funzionamento delle unita' sanitarie locali
+#### Art. 15 - Struttura e funzionamento delle unita' sanitarie locali
 
 L'unita' sanitaria locale, di cui all'articolo 10, secondo comma, della presente legge, e' una struttura operativa dei comuni, singoli o associati, e delle comunita' montane
 
@@ -380,17 +378,17 @@ b) il comitato di gestione e' composto dal presidente e da quattro o sei membri,
 
 Qualora l'ambito territoriale della unita' sanitaria locale coincida con quello della comunita' montana, le funzioni del presidente e del comitato di gestione sono svolte rispettivamente dal presidente e dalla giunta della comunita' montana".
 
-##### Art. 16 - Servizi veterinari
+#### Art. 16 - Servizi veterinari
 
 La legge regionale stabilisce norme per il riordino dei servizi veterinari a livello regionale nell'ambito di ciascuna unita' sanitaria locale o in un ambito territoriale piu' ampio, tenendo conto della distribuzione e delle attitudini produttive del patrimonio zootecnico, della riproduzione animale, della dislocazione e del potenziale degli impianti di macellazione, di lavorazione e di conservazione delle carni e degli altri prodotti di origine animale, della produzione dei mangimi e degli integratori, delle esigenze della zooprofilassi, della lotta contro le zoonosi e della vigilanza sugli alimenti di origine animale. La legge regionale individua anche le relative strutture multizonali e ne regola il funzionamento ai sensi dell'articolo 18.
 
-##### Art. 17 - Requisiti e struttura interna degli ospedali
+#### Art. 17 - Requisiti e struttura interna degli ospedali
 
 Gli stabilimenti ospedalieri sono strutture delle unita' sanitarie locali, dotate dei requisiti minimi di cui all'articolo 19, primo comma, della legge 12 febbraio 1968, n. 132.
 
 Le Regioni nell'ambito della programmazione sanitaria disciplinano con legge l'articolazione dell'ordinamento degli ospedali in dipartimenti, in base al principio dell'interazione tra le divisioni, sezioni e servizi affini e complementari, a quello del collegamento tra servizi ospedalieri ed extra ospedalieri in rapporto alle esigenze di definiti ambiti territoriali, nonche' a quello della gestione dei dipartimenti stessi sulla base della integrazione delle competenze in modo da valorizzare anche il lavoro di gruppo. Tale disciplina tiene conto di quanto previsto all'articolo 34 della presente legge.
 
-##### Art. 18 - Presidi e servizi multizonali
+#### Art. 18 - Presidi e servizi multizonali
 
 La legge regionale individua, nell'ambito della programmazione sanitaria, i presidi e i servizi sanitari ospedalieri ed extra-ospedalieri che, per le finalita' specifiche perseguite e per le caratteristiche tecniche e specialistiche, svolgono attivita' prevalentemente rivolte a territori la cui estensione includa piu' di una unita' sanitaria locale e ne disciplina l'organizzazione.
 
@@ -404,9 +402,9 @@ c) la tenuta di uno specifico conto di gestione allegato al conto di gestione ge
 
 d) la composizione dell'organo di gestione dell'unita' sanitaria locale competente per territorio e la sua eventuale articolazione in riferimento alle specifiche esigenze della gestione.
 
-## CAPO III - PRESTAZIONI E FUNZIONI
+### CAPO III - PRESTAZIONI E FUNZIONI
 
-##### Art. 19 - Prestazioni delle unita' sanitarie locali
+#### Art. 19 - Prestazioni delle unita' sanitarie locali
 
 Le unita' sanitarie locali provvedono ad erogare le prestazioni di prevenzione, di cura, di riabilitazione e di medicina legale, assicurando a tutta la popolazione i livelli di prestazioni sanitarie stabiliti ai sensi del secondo comma dell'articolo 3.
 
@@ -420,7 +418,7 @@ I militari hanno diritto di accedere ai servizi di assistenza delle localita' ov
 
 Gli emigrati, che rientrino temporaneamente in patria, hanno diritto di accedere ai servizi di assistenza della localita' in cui si trovano.
 
-##### Art. 20 - Attivita' di prevenzione
+#### Art. 20 - Attivita' di prevenzione
 
 Le attivita' di prevenzione comprendono:
 
@@ -446,7 +444,7 @@ AGGIORNAMENTO (21)
 
 Il D.P.R. 5 giugno 1993, n. 177, ha disposto (con l'art. 1, comma 2) che l'abrogazione ha effetto decorsi sessanta giorni dalla data di pubblicazione del presente decreto nella Gazzetta Ufficiale.
 
-##### Art. 21 - Organizzazione dei servizi di prevenzione
+#### Art. 21 - Organizzazione dei servizi di prevenzione
 
 In relazione agli standards fissati in sede nazionale, all'unita' sanitaria locale sono attribuiti, con decorrenza 1 gennaio 1980, i compiti attualmente svolti dall'Ispettorato del lavoro in materia di prevenzione, di igiene e di controllo sullo stato di salute dei lavoratori, in applicazione di quanto disposto dall'articolo 27 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616.
 
@@ -466,7 +464,7 @@ AGGIORNAMENTO (21)
 
 Il D.P.R. 5 giugno 1993, n. 177, ha disposto (con l'art. 1, comma 2) che l'abrogazione ha effetto decorsi sessanta giorni dalla data di pubblicazione del presente decreto nella Gazzetta Ufficiale.
 
-##### Art. 22 - Presidi e servizi multizonali di prevenzione
+#### Art. 22 - Presidi e servizi multizonali di prevenzione
 
 La legge regionale, in relazione alla ubicazione ed alla consistenza degli impianti industriali ed alle peculiarita' dei processi produttivi agricoli, artigianali e di lavoro:
 
@@ -478,7 +476,7 @@ c) prevede le forme di coordinamento degli stessi con i servizi di igiene ambien
 
 I presidi e i servizi multizonali di cui al comma precedente sono gestiti dall'unita' sanitaria locale nel cui territorio sono ubicati, secondo le modalita' di cui all'articolo 18.
 
-##### Art. 23 - Delega per la istituzione dell'Istituto superiore per la prevenzione e la sicurezza del lavoro
+#### Art. 23 - Delega per la istituzione dell'Istituto superiore per la prevenzione e la sicurezza del lavoro
 
 Il Governo e' delegato ad emanare, entro il 31 dicembre 1979, su proposta del Ministro della sanita', di concerto con i Ministri del lavoro e della previdenza sociale, dell'industria, commercio e artigianato e dell'agricoltura e foreste, un decreto avente valore di legge ordinaria per la istituzione dell'istituto superiore per la prevenzione e la sicurezza del lavoro, da porre alle dipendenze del Ministro della sanita'. Nel suo organo di amministrazione sono rappresentati i Ministeri del lavoro e della previdenza sociale, dell'industria, commercio e artigianato e dell'agricoltura e foreste ed i suoi programmi di attivita' sono approvati dal CIPE, su proposta del Ministro della sanita', sentito il Consiglio sanitario nazionale.
 
@@ -514,7 +512,7 @@ AGGIORNAMENTO (4)
 
 La L. 29 febbraio 1980, n. 33, ha disposto (con l'art. 2, comma 1) che "Le deleghe conferite al Governo con gli articoli 7, 42 e 70 della legge 23 dicembre 1978, n. 833, scadute il 23 dicembre 1979, nonche' le deleghe conferite con gli articoli 23 e 37 della legge medesima, scadute il 31 dicembre 1979, sono rinnovate fino al 31 luglio 1980".
 
-##### Art. 24 - Norme in materia di igiene e sicurezza negli ambienti di lavoro e di vita e di omologazioni
+#### Art. 24 - Norme in materia di igiene e sicurezza negli ambienti di lavoro e di vita e di omologazioni
 
 Il Governo e' delegato ad emanare, entro il 31 dicembre 1979, su proposta del Ministro della sanita', con il concerto dei Ministri competenti, un testo unico in materia di sicurezza del lavoro, che riordini la disciplina generale del lavoro e della produzione al fine della prevenzione degli infortuni sul lavoro e delle malattie professionali, nonche' in materia di omologazioni, unificando e innovando la legislazione vigente tenendo conto delle caratteristiche della produzione al fine di garantire la salute e l'integrita' fisica dei lavoratori, secondo i principi generali indicati nella presente legge. ((4))
 
@@ -578,7 +576,7 @@ La L. 29 febbraio 1980, n. 33, ha disposto (con l'art. 2, comma 2) che "La deleg
 
 al 31 dicembre 1980."
 
-##### Art. 25 - Prestazioni di cura
+#### Art. 25 - Prestazioni di cura
 
 Le prestazioni curative comprendono la assistenza medico-generica, specialistica, infermieristica, ospedaliera e farmaceutica.
 
@@ -610,7 +608,7 @@ L'assistenza ospedaliera e' prestata di norma attraverso gli ospedali pubblici e
 
 Nell'osservanza del principio della libera scelta del cittadino al ricovero presso gli ospedali pubblici e gli altri istituti convenzionati, la legge regionale, in rapporto ai criteri di programmazione stabiliti nel piano sanitario nazionale, disciplina i casi in cui e' ammesso il ricovero in ospedali pubblici, in istituti convenzionati o in strutture ospedaliere ad alta specializzazione ubicate fuori del proprio territorio, nonche' i casi nei quali potranno essere consentite forme straordinarie di assistenza indiretta.
 
-##### Art. 26 - Prestazioni di riabilitazione
+#### Art. 26 - Prestazioni di riabilitazione
 
 Le prestazioni sanitarie dirette al recupero funzionale e sociale dei soggetti affetti da minorazioni fisiche, psichiche o sensoriali, dipendenti da qualunque causa, sono erogate dalle unita' sanitarie locali attraverso i propri servizi. L'unita' sanitaria locale, quando non sia in grado di fornire il servizio direttamente, vi provvede mediante convenzioni con istituti esistenti nella regione in cui abita l'utente o anche in altre regioni, aventi i requisiti indicati dalla legge, stipulate in conformita' ad uno schema tipo approvato dal Ministro della sanita', sentito il Consiglio sanitario nazionale.
 
@@ -618,7 +616,7 @@ Sono altresi' garantite le prestazioni protesiche nei limiti e nelle forme stabi
 
 Con decreto del Ministro della sanita', sentito il Consiglio sanitario nazionale, sono approvati un nomenclatore-tariffario delle protesi ed i criteri per la sua revisione periodica.
 
-##### Art. 27 - Strumenti informativi
+#### Art. 27 - Strumenti informativi
 
 Le unita' sanitarie locali forniscono gratuitamente i cittadini di un libretto sanitario personale. Il libretto sanitario riporta i dati caratteristici principali sulla salute dell'assistito esclusi i provvedimenti relativi a trattamenti sanitari obbligatori di cui al successivo articolo 33. L'unita' sanitaria locale provvede alla compilazione ed all'aggiornamento del libretto sanitario personale, i cui dati sono rigorosamente coperti dal segreto professionale. Tali dati conservano valore ai fini dell'anamnesi richiesta dalla visita di leva. Nel libretto sanitario sono riportati, a cura della sanita' militare, gli accertamenti e le cure praticate durante il servizio di leva.
 
@@ -632,7 +630,7 @@ Con decreto del Ministro della sanita', sentiti il Consiglio sanitario nazionale
 
 I dati complessivi derivanti dai suindicati strumenti informativi, facendo comunque salvo il segreto professionale, vengono utilizzati a scopo epidemiologico dall'Istituto superiore di sanita' oltre che per l'aggiornamento ed il miglioramento dell'attivita' sanitaria da parte delle unita' sanitarie locali, delle regioni e del Ministero della sanita'.
 
-##### Art. 28 - Assistenza farmaceutica
+#### Art. 28 - Assistenza farmaceutica
 
 L'unita' sanitaria locale eroga l'assistenza farmaceutica attraverso le farmacie di cui sono titolari enti pubblici e le farmacie di cui sono titolari i privati, tutte convenzionate secondo i criteri e le modalita' di cui agli articoli 43 e 48.
 
@@ -640,7 +638,7 @@ Gli assistiti possono ottenere dalle farmacie di cui al precedente comma, su pre
 
 L'unita' sanitaria locale, i suoi presidi e servizi, compresi quelli di cui all'articolo 18, e gli istituti ed enti convenzionati di cui ai successivi articoli 41, 42, 43, possono acquistare direttamente le preparazioni farmaceutiche di cui al secondo comma per la distribuzione agli assistiti nelle farmacie di cui sono titolari enti pubblici e per l'impiego negli ospedali, negli ambulatori e in tutti gli altri presidi sanitari. La legge regionale disciplina l'acquisto di detti medicinali e del restante materiale sanitario da parte delle unita' sanitarie locali e dei loro presidi e servizi, nonche' il coordinamento dell'attivita' delle farmacie comunali con i servizi dell'unita' sanitaria locale.
 
-##### Art. 29 - Disciplina dei farmaci
+#### Art. 29 - Disciplina dei farmaci
 
 La produzione e la distribuzione dei farmaci devono essere regolate secondo criteri coerenti con gli obiettivi del servizio sanitario nazionale, con la funzione sociale del farmaco e con la prevalente finalita' pubblica della produzione.
 
@@ -662,7 +660,7 @@ g) per la regolamentazione del servizio di informazione scientifica sui farmaci 
 
 h) per la revisione e la pubblicazione periodica della farmacopea ufficiale della Repubblica italiana, in armonia con le norme previste dalla farmacopea europea di cui alla legge del 22 ottobre 1973, n. 752.
 
-##### Art. 30 - Prontuario farmaceutico
+#### Art. 30 - Prontuario farmaceutico
 
 Il Ministro della sanita', sentito il Consiglio sanitario nazionale, approva con proprio decreto il prontuario terapeutico del servizio sanitario nazionale, previa proposta di un comitato composto:
 
@@ -696,7 +694,7 @@ AGGIORNAMENTO (24)
 
 La L. 24 dicembre 1993, n. 537, ha disposto (con l'art. 8, comma 9) che: "A decorrere dal 1 gennaio 1994, e' abolito il prontuario terapeutico del Servizio sanitario nazionale di cui all'articolo 30 della legge 23 dicembre 1978, n. 833. A decorrere dalla medesima data, le specialita' medicinali ed i prodotti galenici per i quali sia stata rilasciata l'autorizzazione sono erogabili dal Servizio sanitario nazionale".
 
-##### Art. 31 - Pubblicita' ed informazione scientifica sui farmaci
+#### Art. 31 - Pubblicita' ed informazione scientifica sui farmaci
 
 Al servizio sanitario nazionale spettano compiti di informazione scientifica sui farmaci e di controllo sull'attivita' di informazione scientifica delle imprese titolari delle autorizzazioni alla immissione in commercio di farmaci.
 
@@ -710,7 +708,7 @@ Nell'ambito del programma di cui al precedente comma, le unita' sanitarie locali
 
 Il programma per l'informazione scientifica deve, altresi', prevedere i limiti e le modalita' per la fornitura ai medici chirurghi di campioni gratuiti di farmaci.
 
-##### Art. 32 - Funzioni di igiene e sanita' pubblica e di polizia veterinaria
+#### Art. 32 - Funzioni di igiene e sanita' pubblica e di polizia veterinaria
 
 Il Ministro della sanita' puo' emettere ordinanze di carattere contingibile e urgente, in materia di igiene e sanita' pubblica e di polizia veterinaria, con efficacia estesa all'intero territorio nazionale o a parte di esso comprendente piu' regioni.
 
@@ -722,7 +720,7 @@ Nelle medesime materie sono emesse dal presidente della giunta regionale o dal s
 
 Sono altresi' fatti salvi i poteri degli organi dello Stato preposti in base alle leggi vigenti alla tutela dell'ordine pubblico.
 
-##### Art. 33 - Norme per gli accertamenti ed i trattamenti sanitari volontari e obbligatori
+#### Art. 33 - Norme per gli accertamenti ed i trattamenti sanitari volontari e obbligatori
 
 Gli accertamenti ed i trattamenti sanitari sono di norma volontari.
 
@@ -740,7 +738,7 @@ Chiunque puo' rivolgere al sindaco richiesta di revoca o di modifica del provved
 
 Sulle richieste di revoca o di modifica il sindaco decide entro dieci giorni. I provvedimenti di revoca o di modifica sono adottati con lo stesso procedimento del provvedimento revocato o modificato.
 
-##### Art. 34 - Accertamenti e trattamenti sanitari volontari e obbligatori per malattia mentale
+#### Art. 34 - Accertamenti e trattamenti sanitari volontari e obbligatori per malattia mentale
 
 La legge regionale, nell'ambito della unita' sanitaria locale e nel complesso dei servizi generali per la tutela della salute, disciplina l'istituzione di servizi a struttura dipartimentale che svolgono funzioni preventive, curative e riabilitative relative alla salute mentale.
 
@@ -752,7 +750,7 @@ Il trattamento sanitario obbligatorio per malattia mentale puo' prevedere che le
 
 Nei casi di cui al precedente comma il ricovero deve essere attuato presso gli ospedali generali, in specifici servizi psichiatrici di diagnosi e cura all'interno delle strutture dipartimentali per la salute mentale comprendenti anche i presidi e i servizi extraospedalieri, al fine di garantire la continuita' terapeutica. I servizi ospedalieri di cui al presente comma sono dotati di posti letto nel numero fissato dal piano sanitario regionale.
 
-##### Art. 35 - Procedimento relativo agli accertamenti e trattamenti sanitari obbligatori in condizioni di degenza ospedaliera per malattia mentale e tutela giurisdizionale
+#### Art. 35 - Procedimento relativo agli accertamenti e trattamenti sanitari obbligatori in condizioni di degenza ospedaliera per malattia mentale e tutela giurisdizionale
 
 Il provvedimento con il quale il sindaco dispone il trattamento sanitario obbligatorio in condizioni di degenza ospedaliera, da emanarsi entro 48 ore dalla convalida di cui all'articolo 34, quarto comma, corredato dalla proposta medica motivata di cui all'articolo 33, terzo comma, e dalla suddetta convalida deve essere notificato, entro 48 ore dal ricovero, tramite messo comunale, al giudice tutelare nella cui circoscrizione rientra il comune. ((29))
 
@@ -798,7 +796,7 @@ La Corte Costituzionale, con sentenza 5 - 30 maggio 2025, n. 76 (in G.U. 1ª s.s
 
 In via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e sul funzionamento della Corte costituzionale), ha dichiarato "l'illegittimita' costituzionale dell'art. 35 della legge n. 833 del 1978 nella parte in cui non prevede, al quarto comma, dopo le parole «ne da' comunicazione», le parole «alla persona interessata o al suo legale rappresentante, ove esistente, e»".
 
-##### Art. 36 - Termalismo terapeutico
+#### Art. 36 - Termalismo terapeutico
 
 Le prestazioni idrotermali, limitate al solo aspetto terapeutico, da erogarsi presso gli appositi presidi e servizi di cui al presente articolo, nonche' presso aziende termali di enti pubblici e privati, riconosciute ai sensi dell'articolo 6, lettera t), e convenzionate ai sensi dell'articolo 44, sono garantite nei limiti previsti dal piano sanitario nazionale di cui all'articolo 53 e nelle forme stabilite con le modalita' di cui al secondo comma dell'articolo 3.
 
@@ -810,7 +808,7 @@ Le aziende termali gia' facenti capo all'EAGAT e che saranno assegnate alle regi
 
 La destinazione agli enti locali delle attivita', patrimoni, pertinenze e personale delle suddette aziende dovra' avvenire entro il 31 dicembre 1979, adottando, in quanto applicabili, le disposizioni di cui ai successivi articoli 65 e 67.
 
-##### Art. 37
+#### Art. 37
 
 (Delega per la disciplina dell'assistenza sanitaria agli italiani
 
@@ -834,13 +832,13 @@ AGGIORNAMENTO (4)
 
 La L. 29 febbraio 1980, n. 33, ha disposto (con l'art. 2, comma 1) che: "Le deleghe conferite al Governo con gli articoli 7, 42 e 70 della legge 23 dicembre 1978, n. 833, scadute il 23 dicembre 1979, nonche' le deleghe conferite con gli articoli 23 e 37 della legge medesima, scadute il 31 dicembre 1979, sono rinnovate fino al 31 luglio 1980".
 
-##### Art. 38 - Servizio di assistenza religiosa
+#### Art. 38 - Servizio di assistenza religiosa
 
 Presso le strutture di ricovero del servizio sanitario nazionale e' assicurata l'assistenza religiosa nel rispetto della volonta' e della liberta' di coscienza del cittadino.
 
 A tale fine l'unita' sanitaria locale provvede per l'ordinamento del servizio di assistenza religiosa cattolica d'intesa con gli ordinari diocesani competenti per territorio; per gli altri culti d'intesa con le rispettive autorita' religiose competenti per territorio.
 
-##### Art. 39 - Cliniche universitarie e relative convenzioni
+#### Art. 39 - Cliniche universitarie e relative convenzioni
 
 Fino alla riforma dell'ordinamento universitario e della facolta' di medicina, per i rapporti tra regioni ed universita' relativamente alle attivita' del servizio sanitario nazionale, si applicano le disposizioni di cui ai successivi commi.
 
@@ -872,11 +870,11 @@ Le convenzioni di cui al secondo comma vanno attuate, per quanto concerne la uti
 
 Le convenzioni previste nel presente articolo sono stipulate sulla base di schemi tipo da emanare entro sei mesi dall'entrata in vigore della presente legge, approvati di concerto tra i Ministri della pubblica istruzione e della sanita', sentite le regioni, il Consiglio sanitario nazionale e la 1ª sezione del Consiglio superiore della pubblica istruzione.
 
-##### Art. 40 - Enti di ricerca e relative convenzioni
+#### Art. 40 - Enti di ricerca e relative convenzioni
 
 Convenzioni analoghe a quelle previste per le cliniche universitarie, e di cui all'articolo 39 della presente legge, potranno essere stipulate tra le regioni e gli enti di ricerca i cui organi svolgano attivita' finalizzata agli obiettivi del servizio sanitario nazionale, al fine di disciplinare la erogazione da parte di tali organi di prestazioni sanitarie a livello preventivo, assistenziale e riabilitativo, nonche' la utilizzazione del personale degli enti di ricerca secondo i fini della presente legge.
 
-##### Art. 41 - Convenzioni con istituzioni sanitarie riconosciute che erogano assistenza pubblica
+#### Art. 41 - Convenzioni con istituzioni sanitarie riconosciute che erogano assistenza pubblica
 
 Salva la vigilanza tecnico-sanitaria spettante all'unita' sanitaria locale competente per territorio, nulla e' innovato alle disposizioni vigenti per quanto concerne il regime giuridico-amministrativo degli istituti ed enti ecclesiastici civilmente riconosciuti che esercitano l'assistenza ospedaliera, nonche' degli ospedali di cui all'articolo 1 della legge 26 novembre 1973, n. 817.
 
@@ -888,7 +886,7 @@ Le convenzioni di cui al terzo comma del presente articolo devono essere stipula
 
 Le regioni, nell'assicurare la dotazione finanziaria alle unita' sanitarie locali, devono tener conto delle convenzioni di cui al presente articolo.
 
-##### Art. 42 - Istituti di ricovero e di cura a carattere scientifico
+#### Art. 42 - Istituti di ricovero e di cura a carattere scientifico
 
 Le disposizioni del presente articolo si applicano agli istituti che insieme a prestazioni sanitarie di ricovero e cura svolgono specifiche attivita' di ricerca scientifica biomedica.
 
@@ -924,7 +922,7 @@ AGGIORNAMENTO (23)
 
 Il D. Lgs. 30 giugno 1993, n. 269, ha disposto (con l'art. 8, comma 2) che l'abrogazione ha efficacia dalla entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza.
 
-##### Art. 43 - Autorizzazione e vigilanza su istituzioni sanitarie
+#### Art. 43 - Autorizzazione e vigilanza su istituzioni sanitarie
 
 La legge regionale disciplina l'autorizzazione e la vigilanza sulle istituzioni sanitarie di carattere privato, ivi comprese quelle di cui all'articolo 41, primo comma, che non hanno richiesto di essere classificate ai sensi della legge 12 febbraio 1968, n. 132, su quelle convenzionate di cui all'articolo 26, e sulle aziende termali e definisce le caratteristiche funzionali cui tali istituzioni e aziende devono corrispondere onde assicurare livelli di prestazioni sanitarie non inferiori a quelle erogate dai corrispondenti presidi e servizi delle unita' sanitarie locali. Restano ferme le funzioni di indirizzo e coordinamento di cui all'articolo 5.
 
@@ -934,7 +932,7 @@ Le convenzioni di cui al comma precedente devono essere stipulate in conformita'
 
 Sino alla emanazione della legge regionale di cui al primo comma rimangono in vigore gli articoli 51, 52 e 53, primo e secondo comma, della legge 12 febbraio 1968, n. 132, e il decreto del Ministro della sanita' in data 5 agosto 1977, adottato ai sensi del predetto articolo 51 e pubblicato nella Gazzetta Ufficiale della Repubblica del 31 agosto 1977, n. 236, nonche' gli articoli 194, 195, 196, 197 e 198 del testo unico delle leggi sanitarie approvato con regio decreto 27 luglio 1934, n. 1265, intendendosi sostituiti al Ministero della sanita' la regione e al medico provinciale e al prefetto il presidente della giunta regionale.
 
-##### Art. 44 - Convenzioni con istituzioni sanitarie
+#### Art. 44 - Convenzioni con istituzioni sanitarie
 
 Il piano sanitario regionale di cui all'articolo 55 accerta la necessita' di convenzionare le istituzioni private di cui all'articolo precedente, tenendo conto prioritariamente di quelle gia' convenzionate.
 
@@ -948,7 +946,7 @@ Dette convenzioni sono stipulate dalle unita' sanitarie locali in conformita' a 
 
 Le convenzioni stipulate a norma del presente articolo dalle unita' sanitarie locali competenti per territorio hanno efficacia anche per tutte le altre unita' sanitarie locali del territorio nazionale.
 
-##### Art. 45 - Associazioni di volontariato
+#### Art. 45 - Associazioni di volontariato
 
 E' riconosciuta la funzione delle associazioni di volontariato liberamente costituite aventi la finalita' di concorrere al conseguimento dei fini istituzionali del servizio sanitario nazionale.
 
@@ -962,15 +960,15 @@ Sino all'entrata in vigore della legge di riforma dell'assistenza pubblica dette
 
 I rapporti fra le unita' sanitarie locali e le associazioni del volontariato ai fini del loro concorso alle attivita' sanitarie pubbliche sono regolati da apposite convenzioni nell'ambito della programmazione e della legislazione sanitaria regionale.
 
-##### Art. 46 - Mutualita' volontaria
+#### Art. 46 - Mutualita' volontaria
 
 La mutualita' volontaria e' libera.
 
 E' vietato agli enti, imprese ed aziende pubbliche contribuire sotto qualsiasi forma al finanziamento di associazioni mutualistiche liberamente costituite aventi finalita' di erogare prestazioni integrative dell'assistenza sanitaria prestata dal servizio sanitario nazionale.
 
-## CAPO IV - PERSONALE.
+### CAPO IV - PERSONALE.
 
-##### Art. 47 - Personale dipendente
+#### Art. 47 - Personale dipendente
 
 Lo stato giuridico ed economico del personale delle unita' sanitarie locali e' disciplinato, salvo quanto previsto espressamente dal presente articolo, secondo i principi generali e comuni del rapporto di pubblico impiego.
 
@@ -1032,7 +1030,7 @@ La L. 22 ottobre 1979, n. 510, ha disposto (con l'art. 1, comma 1) che la delega
 
 Ha inoltre disposto (con l'art. 1, comma 2) che "Ai soli fini dell'esercizio della delega di cui al comma precedente, i termini previsti nell'articolo 8 della legge 22 luglio 1975, n. 382, sono ridotti alla meta'".
 
-##### Art. 48 - Personale a rapporto convenzionale
+#### Art. 48 - Personale a rapporto convenzionale
 
 L'uniformita' del trattamento economico e normativo del personale sanitario a rapporto convenzionale e' garantita sull'intero territorio nazionale da convenzioni, aventi durata triennale, del tutto conformi agli accordi collettivi nazionali stipulati tra il Governo, le regioni e l'Associazione nazionale dei comuni italiani (ANCI) e le organizzazioni sindacali maggiormente rappresentative in campo nazionale di ciascuna categoria. La delegazione del Governo, delle regioni e dell'ANCI per la stipula degli accordi anzidetti e' costituita rispettivamente dai Ministri della sanita', del lavoro e della previdenza sociale e del tesoro; da cinque rappresentanti designati dalle regioni attraverso la commissione interregionale di cui all'articolo 13 della legge 16 maggio 1970, n. 281; da sei rappresentanti designati dall'ANCI. ((16))
 
@@ -1094,9 +1092,9 @@ AGGIORNAMENTO (16)
 
 La L. 27 dicembre 1983, n. 730, ha disposto (con l'art. 24, comma 3) che "In applicazione dei principi di contestualita' e di omogeneizzazione affermati nell'articolo 20 del decreto del Presidente della Repubblica 25 giugno 1983, n. 348, in deroga al primo comma del citato articolo 48 della legge 23 dicembre 1978, n. 833, gli accordi convenzionali, in scadenza o gia' scaduti al 31 dicembre 1983, sono rinnovati con scadenza al 30 giugno 1985".
 
-## Capo V - CONTROLLI, CONTABILITA' E FINANZIAMENTO
+### Capo V - CONTROLLI, CONTABILITA' E FINANZIAMENTO
 
-##### Art. 49 - Controlli sulle unita' sanitarie locali
+#### Art. 49 - Controlli sulle unita' sanitarie locali
 
 Il controllo sugli atti delle unita' sanitarie locali e' esercitato, in unica sede, dai comitati regionali di controllo di cui all'articolo 55 della legge 10 febbraio 1953, n. 62, integrati da un esperto in materia sanitaria designato dal Consiglio regionale e da un rappresentante del Ministero del tesoro, nelle forme previste dagli articoli 59 e seguenti della medesima legge.
 
@@ -1118,7 +1116,7 @@ I comuni singoli o associati e le comunita' montane presentano annualmente, in b
 
 Il presidente della giunta regionale presenta annualmente al consiglio regionale una relazione generale sulla gestione ed efficienza dei servizi sanitari, con allegata la situazione contabile degli impegni assunti sulla quota assegnata alla regione degli stanziamenti per il servizio sanitario nazionale. Tale relazione deve essere trasmessa ai Ministri della sanita', del tesoro e del lavoro e della previdenza sociale, con allegato un riepilogo dei conti consuntivi, per singole voci, delle unita' sanitarie locali.
 
-##### Art. 50 - Norme di contabilita
+#### Art. 50 - Norme di contabilita
 
 Entro sei mesi dalla entrata in vigore della presente legge le regioni provvedono con legge a disciplinare l'utilizzazione del patrimonio e la contabilita' delle unita' sanitarie locali in conformita' ai seguenti principi:
 
@@ -1150,7 +1148,7 @@ La regione a sua volta fornira' gli stessi dati ai Ministeri della sanita' e del
 
 Ove dalla comunicazione di cui al numero 2) del primo comma, ovvero dalla rendicontazione trimestrale prevista dal secondo comma del presente articolo, risulti che la gestione manifesta un disavanzo complessivo, e cio' anche avendo riguardo ai debiti e crediti di bilancio, i comuni, singoli o associati, e le comunita' montane sono tenuti a convocare nel termine di 30 giorni i rispettivi organi deliberanti al fine di adottare i provvedimenti necessari a riportare in equilibrio il conto di gestione della unita' sanitaria locale.
 
-##### Art. 51 - Finanziamento del servizio sanitario nazionale
+#### Art. 51 - Finanziamento del servizio sanitario nazionale
 
 Il fondo sanitario nazionale destinato al finanziamento del servizio sanitario nazionale e' annualmente determinato ((con la legge di cui al successivo articolo 53)). Gli importi relativi devono risultare stanziati in distinti capitoli della parte corrente e della parte in conto capitale da iscriversi, rispettivamente, negli stati di previsione della spesa del Ministero del tesoro e del Ministero del bilancio e della programmazione economica.
 
@@ -1166,7 +1164,7 @@ Con provvedimento regionale, all'inizio di ciascun trimestre, e' trasferita alle
 
 Gli amministratori e i responsabili dell'ufficio di direzione dell'unita' sanitaria locale sono responsabili in solido delle spese disposte od autorizzate in eccedenza alla quota di dotazione loro attribuita, salvo che esse non siano determinate da esigenze obiettive di carattere locale da collegare a fattori straordinari di morbilita' accertati dagli organi sanitari della regione e finanziabili con la riserva di cui al quarto comma.
 
-##### Art. 52 - Finanziamento per l'esercizio finanziario 1979
+#### Art. 52 - Finanziamento per l'esercizio finanziario 1979
 
 Per l'esercizio finanziario 1979 l'importo del fondo sanitario nazionale, parte corrente, da iscrivere nel bilancio dello Stato e' determinato, con riferimento alle spese effettivamente sostenute nel 1977 dallo Stato, dalle regioni, dalle province, dai comuni e loro consorzi, dagli enti, casse, servizi e gestioni autonome estinti e posti in liquidazione ai sensi dell'articolo 12-bis del decreto-legge 8 luglio 1974, n. 264, come modificato dalla legge di conversione 17 agosto 1974, n. 386, e da ogni altro ente pubblico previsto dalla presente legge, per lo esercizio delle funzioni attribuite al servizio sanitario nazionale.
 
@@ -1194,11 +1192,9 @@ AGGIORNAMENTO (1)
 
 IL D.L. 26 maggio 1979, n. 154, convertito con modificazioni dalla L. 27 luglio 1979, n. 300, ha disposto (con l'art. 1, comma 2) che "In deroga all'art. 52 della stessa legge 23 dicembre 1978, n. 833, per l'anno 1979 il fabbisogno finanziario dell'assistenza sanitaria delle province, comuni e loro consorzi resta assicurato nell'ambito delle disposizioni in materia di finanza locale dettate dalla legge 21 dicembre 1978, n. 843".
 
-## TITOLO II - PROCEDURE DI PROGRAMMAZIONE E DI ATTUAZIONE DEL SERVIZIO SANITARIO
+## TITOLO II - PROCEDURE DI PROGRAMMAZIONE E DI ATTUAZIONE DEL SERVIZIO SANITARIO NAZIONALE
 
-### NAZIONALE
-
-##### Art. 53 - Piano sanitario nazionale
+#### Art. 53 - Piano sanitario nazionale
 
 Le linee generali di indirizzo e le modalita' di svolgimento delle attivita' istituzionali del Servizio sanitario nazionale sono stabilite con il piano sanitario nazionale in conformita' agli obiettivi della programmazione socio-economica nazionale e tenuta presente l'esigenza di superare le condizioni di arretratezza socio-sanitaria che esistono nel Paese, particolarmente nelle regioni meridionali.
 
@@ -1252,7 +1248,7 @@ AGGIORNAMENTO (18)
 
 La L. 23 ottobre 1985, n. 595, ha disposto (con l'art. 13, comma 4) che: "Nella prima applicazione, in deroga a quanto disposto dall'articolo 53 della legge 23 dicembre 1978 n. 833, come modificato, da ultimo, dall'articolo 1 della presente legge, il piano sanitario nazionale per il triennio 1986-88 e' presentato dal Governo al Parlamento ai fini della sua approvazione con atto non legislativo entro quarantacinque giorni dalla data di entrata in vigore della presente legge. Contestualmente alla presentazione del piano sanitario nazionale per il triennio 1986-88 il Governo presenta al Parlamento un disegno di legge contenente i criteri e le procedure per la ripartizione del fondo sanitario nazionale per gli anni 1986-88".
 
-##### Art. 54 - Primo piano sanitario nazionale
+#### Art. 54 - Primo piano sanitario nazionale
 
 Il piano sanitario nazionale per il triennio 1980-1982 deve essere presentato al Parlamento entro il 30 aprile 1979.
 
@@ -1260,7 +1256,7 @@ Fino all'approvazione del piano sanitario nazionale e' vietato disporre investim
 
 ((Particolari, motivate deroghe, possono essere consentite, su richiesta delle regioni, con decreto del Ministro della sanita', sentito il Consiglio sanitario nazionale)).
 
-##### Art. 55 - Piani sanitari regionali
+#### Art. 55 - Piani sanitari regionali
 
 Le regioni provvedono all'attuazione del servizio sanitario nazionale in base a piani sanitari triennali, coincidenti con il triennio del piano sanitario nazionale, finalizzati alla eliminazione degli squilibri esistenti nei servizi e nelle prestazioni nel territorio regionale.
 
@@ -1268,7 +1264,7 @@ I piani sanitari triennali delle regioni, che devono uniformarsi ai contenuti ed
 
 Ai contenuti ed agli indirizzi del piano regionale debbono uniformarsi gli atti e provvedimenti emanati dalle regioni.
 
-##### Art. 56 - Primi piani sanitari regionali
+#### Art. 56 - Primi piani sanitari regionali
 
 Per il triennio 1980-1982 i singoli piani sanitari regionali sono predisposti ed approvati entro il 30 ottobre 1979 e devono fra l'altro prevedere:
 
@@ -1278,7 +1274,7 @@ b) le modalita' per attuare, nelle unita' sanitarie locali della regione, l'unif
 
 c) gli indirizzi ai quali devono riferirsi gli organi di gestione delle unita' sanitarie locali nella fase di avvio del servizio sanitario nazionale.
 
-##### Art. 57 - Unificazione dei livelli delle prestazioni sanitarie
+#### Art. 57 - Unificazione dei livelli delle prestazioni sanitarie
 
 Con decreti del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, su proposta del Ministro della sanita' di concerto con il Ministro del tesoro, sentito il Consiglio sanitario nazionale da emanarsi in conformita' a quanto previsto dal piano sanitario nazionale di cui all'articolo 53, sono gradualmente unificate, nei tempi e nei modi stabiliti dal piano stesso, le prestazioni sanitarie gia' erogate dai disciolti enti mutualistici, dalle mutue aziendali e dagli enti, casse, servizi e gestioni autonome degli enti previdenziali.
 
@@ -1288,7 +1284,7 @@ Sono comunque fatte salve le prestazioni sanitarie specifiche, preventive, ortop
 
 Nulla e' innovato alle disposizioni del decreto del Presidente della Repubblica 30 giugno 1965, n. 1124, per quanto riguarda le prestazioni di assistenza sanitaria curativa e riabilitativa, che devono essere garantite, a prescindere dalla iscrizione di cui al terzo comma dell'articolo 19 della presente legge, agli invalidi del lavoro, ferma restando, altresi', l'esclusione di qualunque concorso di questi ultimi al pagamento delle prestazioni sanitarie. Con legge regionale e' disciplinato il coordinamento, anche mediante convenzioni, fra l'erogazione delle anzidette prestazioni e gli interventi sanitari che gli enti previdenziali gestori dell'assicurazione contro gli infortuni sul lavoro e le malattie professionali pongono in essere, in favore degli infortunati e tecnopatici, per realizzare le finalita' medico-legali di cui all'articolo 75 della presente legge.
 
-##### Art. 58 - Servizio epidemiologico e statistico
+#### Art. 58 - Servizio epidemiologico e statistico
 
 Nel piano sanitario nazionale di cui all'articolo 53 sono previsti specifici programmi di attivita' per la rilevazione e la gestione delle informazioni epidemiologiche, statistiche e finanziarie occorrenti per la programmazione sanitaria nazionale e regionale e per la gestione dei servizi sanitari.
 
@@ -1298,7 +1294,7 @@ Le regioni, nell'ambito dei programmi di cui al primo comma, provvedono ai servi
 
 Con decreto del Ministro della sanita', sentito il Consiglio sanitario nazionale, sono dettate norme per i criteri in ordine alla scelta dei campioni di rilevazione e per la standardizzazione e comparazione dei dati sul piano nazionale e regionale.
 
-##### Art. 59 - Riordinamento del Ministero della sanita'
+#### Art. 59 - Riordinamento del Ministero della sanita'
 
 Con legge dello Stato, entro il 30 giugno 1979, si provvede al riordinamento del Ministero della sanita', che dovra' essere strutturato per l'attuazione dei compiti che gli sono assegnati dalla presente legge, in osservanza dei criteri generali e dei principi direttivi in essa indicati ed in stretta correlazione con le funzioni che nell'ambito del servizio sanitario nazionale debbono essere esercitate dal Ministero medesimo. In sede di riordinamento del Ministero della sanita', sara' stabilita la dotazione organica degli uffici per il funzionamento del Consiglio sanitario nazionale.
 
@@ -1324,7 +1320,7 @@ AGGIORNAMENTO (25)
 
 Il D.Lgs. 30 giugno 1993, n. 266, come modificato dal D.L. 23 ottobre 1996, n. 542, convertito con modificazioni dalla L. 23 dicembre 1996, n. 649, ha disposto (con l'art. 10, comma 2) che l'abrogazione del presente articolo "ha efficacia dall'entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza".
 
-##### Art. 60 - Costituzione del Consiglio sanitario nazionale
+#### Art. 60 - Costituzione del Consiglio sanitario nazionale
 
 Entro 45 giorni dall'entrata in vigore della presente legge e' costituito il Consiglio sanitario nazionale di cui all'articolo 8.
 
@@ -1336,7 +1332,7 @@ Alle sedute del Consiglio sanitario nazionale convocate per l'esercizio dei comp
 
 Per l'assolvimento dei propri compiti il Consiglio sanitario nazionale si avvale, sino al riordinamento del Ministero della sanita' di cui al precedente articolo 59, dell'esistente segreteria del comitato centrale di cui all'articolo 4 della legge 29 giugno 1977, numero 349.
 
-##### Art. 61 - Costituzione delle unita' sanitarie locali
+#### Art. 61 - Costituzione delle unita' sanitarie locali
 
 Le regioni, entro sei mesi dall'entrata in vigore della presente legge e secondo le norme di cui al precedente Titolo I, individuano gli ambiti territoriali delle unita' sanitarie locali, ne disciplinano con legge i compiti, la struttura, la gestione, l'organizzazione, il funzionamento e stabiliscono i criteri per l'articolazione delle unita' sanitarie locali in distretti sanitari di base.
 
@@ -1352,11 +1348,11 @@ c) per la gestione finanziaria dei servizi di cui alla precedente lettera a) a p
 
 Fino a quando non sara' stato emanato il provvedimento di cui al secondo comma del presente articolo, la tutela sanitaria delle attivita' sportive, nelle regioni che non abbiano emanato proprie norme in materia, continuera' ad essere assicurata, con l'osservanza dei principi generali contenuti nella legge 26 ottobre 1971, n. 1099, e delle normative stabilite dalle singole federazioni sportive riconosciute dal CONI, secondo i propri regolamenti.
 
-##### Art. 62 - Riordinamento delle norme in materia di profilassi internazionale e di malattie infettive e diffusive
+#### Art. 62 - Riordinamento delle norme in materia di profilassi internazionale e di malattie infettive e diffusive
 
 Il Governo, entro due anni dall'entrata in vigore della presente legge, su proposta del Ministro della sanita', sentito il Consiglio di Stato, e' autorizzato, nel rispetto dei principi stabiliti dalla presente legge, a modificare, integrare, coordinare e riunire in testo unico le disposizioni vigenti in materia di profilassi internazionale, ivi compresa la zooprofilassi, e di malattie infettive e diffusive, ivi comprese le vaccinazioni obbligatorie, e le altre norme specifiche, tenendo conto dei principi, delle disposizioni e delle competenze previsti dalla presente legge. Sino all'emanazione del predetto testo unico, si applicano, in quanto non in contrasto con le disposizioni della presente legge, le norme del testo unico delle leggi sanitarie approvato con regio decreto 27 luglio 1934, n. 1265, e successive modificazioni ed integrazioni, nonche' le altre disposizioni vigenti in materia.
 
-##### Art. 63 - Assicurazione obbligatoria
+#### Art. 63 - Assicurazione obbligatoria
 
 A decorrere dal 1 gennaio 1980 l'assicurazione contro le malattie e' obbligatoria per tutti i cittadini.
 
@@ -1380,7 +1376,7 @@ Gli interessati verseranno la quota di cui al precedente comma mediante accredit
 
 ## TITOLO III - NORME TRANSITORIE E FINALI
 
-##### Art. 64 - Norme transitorie per l'assistenza psichiatrica
+#### Art. 64 - Norme transitorie per l'assistenza psichiatrica
 
 La regione, nell'ambito del piano sanitario regionale, disciplina il graduale superamento degli ospedali psichiatrici o neuropsichiatrici e la diversa utilizzazione, correlativamente al loro rendersi disponibili delle strutture esistenti e di quelle in via di completamento. La regione provvede inoltre a definire il termine entro cui dovra' cessare la temporanea deroga per cui negli ospedali psichiatrici possono essere ricoverati, sempre che ne facciano richiesta, coloro che vi sono stati ricoverati anteriormente al 16 maggio 1978 e che necessitano di trattamento psichiatrico in condizioni di degenza ospedaliera; tale deroga non potra' comunque protrarsi oltre il 31 dicembre 1980. ((9))
 
@@ -1406,7 +1402,7 @@ AGGIORNAMENTO (9)
 
 Il D.L. 30 aprile 1981, n. 168, convertito, con modificazioni, dalla L. 27 giugno 1981, n. 331 (in G.U. 30/06/1981, n. 177) ha disposto (con l'art. 3, comma 1) che: "I termini di cui al primo e al secondo comma dell'art. 64 della legge 23 dicembre 1978, n. 833, sono prorogati fino alla scadenza del trentesimo giorno dalla data di entrata in vigore del presente decreto".
 
-##### Art. 65 - Attribuzione, per i servizi delle unita' sanitarie locali, di beni gia' di pertinenza degli enti mutualistici e delle gestioni sanitarie soppressi
+#### Art. 65 - Attribuzione, per i servizi delle unita' sanitarie locali, di beni gia' di pertinenza degli enti mutualistici e delle gestioni sanitarie soppressi
 
 ((In applicazione del progetto di riparto previsto dall'ultimo comma dell'articolo 4 della legge 29 giugno 1977, n. 349, e d'intesa con le regioni interessate, con decreto del Ministro del tesoro, di concerto con i Ministri del lavoro e della previdenza sociale e delle finanze, sia i beni mobili ed immobili che le attrezzature destinati prevalentemente ai servizi sanitari appartenenti agli enti, casse mutue e gestioni soppressi sono trasferiti al patrimonio dei comuni competenti per territorio, con vincolo di destinazione alle unita' sanitarie locali)).
 
@@ -1420,7 +1416,7 @@ Le regioni possono assegnare parte dei predetti beni in uso all'INPS, per la dur
 
 Le Regioni assegnano parte dei beni di cui ali precedente comma in uso all'Istituto nazionale della previdenza sociale, per la durata del primo piano sanitario nazionale, per le esigenze connesse allo svolgimento di compiti di cui agli articoli 74 e 76 della presente legge, nonche' al Ministero del lavoro e della previdenza sociale per le esigenze delle sezioni circoscrizionali dell'impiego, secondo piani concordati con le Amministrazioni predette tenendo conto delle loro esigenze di efficienza e funzionalita'.
 
-##### Art. 66 - Attribuzione, per i servizi delle unita' sanitarie locali, di beni gia' di pertinenza di enti locali
+#### Art. 66 - Attribuzione, per i servizi delle unita' sanitarie locali, di beni gia' di pertinenza di enti locali
 
 Sono trasferiti al patrimonio del comune in cui sono collocati, con vincolo di destinazione alle unita' sanitarie locali:
 
@@ -1446,7 +1442,7 @@ AGGIORNAMENTO (21)
 
 Il D.P.R. 5 giugno 1993, n. 177, ha disposto (con l'art. 1, comma 2) che l'abrogazione ha effetto decorsi sessanta giorni dalla data di pubblicazione del presente decreto nella Gazzetta Ufficiale.
 
-##### Art. 67 - Norme per il trasferimento del personale degli enti mutualistici e delle gestioni sanitarie soppresse
+#### Art. 67 - Norme per il trasferimento del personale degli enti mutualistici e delle gestioni sanitarie soppresse
 
 Entro il 30 giugno 1979, in applicazione del progetto di riparto previsto dall'ultimo comma dell'articolo 4 della legge 29 giugno 1977, n. 349, il Ministro della sanita' di concerto con i Ministri del lavoro e della previdenza sociale e del tesoro, sentito il Consiglio sanitario nazionale e le organizzazioni sindacali confederali rappresentate nel CNEL, stabilisce i contingenti numerici, distinti per amministrazione od ente e per qualifica, del personale da iscrivere nei ruoli regionali del personale addetto ai servizi delle unita' sanitarie locali, e del personale da assegnare all'Istituto nazionale della previdenza sociale, all'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro, e ad altri enti e pubbliche amministrazioni diverse da quelle statali, per le seguenti esigenze:
 
@@ -1482,7 +1478,7 @@ AGGIORNAMENTO (10)
 
 Il D.L. 1 luglio 1980, n. 285, convertito, con modificazioni, dalla L. 8 agosto 1980, n. 441, come modificato dal D.L. 26 novembre 1981, n. 678, ha disposto (con l'art. 5, comma 5) che: "Il termine di cui all'ultimo comma dell'articolo 67 della legge 23 dicembre 1978, n. 833, e' uniformemente stabilito in quello dell'entrata in vigore dell'accordo previsto dall'ottavo comma dell'articolo 47 della stessa legge".
 
-##### Art. 68
+#### Art. 68
 
 (Norme per il trasferimento del personale
 
@@ -1498,7 +1494,7 @@ Il personale di cui ai precedenti commi e' assegnato alle unita' sanitarie local
 
 Sino all'entrata in vigore del primo accordo nazionale unico di cui al nono comma dell'articolo 47 al personale in oggetto spetta il trattamento economico previsto dall'ordinamento vigente presso gli enti di provenienza, ivi compresi gli istituti economico-normativi previsti dalle leggi 18 marzo 1968, n. 431, e 21 giugno 1971, n. 515, e dai decreti applicativi delle medesime, nonche' dall'articolo 13 della legge 29 giugno 1977, n. 349.
 
-##### Art. 69 - Entrate del fondo sanitario nazionale
+#### Art. 69 - Entrate del fondo sanitario nazionale
 
 A decorrere dal 1 gennaio 1979, in relazione a quanto disposto negli articoli 51 e 52, sono versati all'entrata del bilancio dello Stato:
 
@@ -1542,7 +1538,7 @@ AGGIORNAMENTO (16)
 
 La L. 27 dicembre 1983, n. 730, ha disposto (con l'art. 25, comma 2) che: "A modifica di quanto previsto dall'articolo 69 della legge 23 dicembre 1978, n. 833, le somme di cui alle lettere b), c) ed e) del primo comma dello stesso articolo sono trattenute dalle unita' sanitarie locali, dalle regioni e province autonome e sono utilizzate per il 50 per cento ad integrazione del finanziamento di parte corrente e per il 50 per cento per l'acquisto di attrezzature in conto capitale".
 
-##### Art. 70 - Scorporo dei servizi sanitari della Croce Rossa italiana - CRI - e riordinamento dell'Associazione
+#### Art. 70 - Scorporo dei servizi sanitari della Croce Rossa italiana - CRI - e riordinamento dell'Associazione
 
 Con effetto dal 1 gennaio 1980, con decreto del Ministro della sanita', sentito il Consiglio sanitario nazionale, sono trasferiti ai comuni competenti per territorio per essere destinati alle unita' sanitarie locali i servizi di assistenza sanitaria dell'Associazione della Croce rossa italiana (CRI), non connessi direttamente alle sue originarie finalita', nonche' i beni mobili ed immobili destinati ai predetti servizi ed il personale ad essi adibito, previa individuazione del relativo contingente.
 
@@ -1564,11 +1560,11 @@ AGGIORNAMENTO (4)
 
 La L. 29 febbraio 1980, n. 33, ha disposto (con l'art. 2, comma 1) che: "Le deleghe conferite al Governo con gli articoli 7, 42 e 70 della legge 23 dicembre 1978, n. 833, scadute il 23 dicembre 1979, nonche' le deleghe conferite con gli articoli 23 e 37 della legge medesima, scadute il 31 dicembre 1979, sono rinnovate fino al 31 luglio 1980".
 
-##### Art. 71 - Compiti delle Associazioni di volontariato
+#### Art. 71 - Compiti delle Associazioni di volontariato
 
 I compiti di cui all'articolo 2, lettera b), del decreto del Capo provvisorio dello Stato 13 novembre 1947, n. 1256, possono essere svolti anche dalle Associazioni di volontariato di cui al precedente articolo 45, in base a convenzioni da stipularsi con le unita' sanitarie locali interessate per quanto riguarda le competenze delle medesime.
 
-##### Art. 72 - Soppressione dell'Ente nazionale per la prevenzione degli infortuni - ENFI - e dell'Associazione nazionale per il controllo della combustione - ANCC -
+#### Art. 72 - Soppressione dell'Ente nazionale per la prevenzione degli infortuni - ENFI - e dell'Associazione nazionale per il controllo della combustione - ANCC -
 
 Con decreto del Presidente della Repubblica, previa delibera del Consiglio dei ministri, su proposta dei Ministri del lavoro e della previdenza sociale, della sanita', dell'industria, il commercio e l'artigianato e del tesoro, da emanarsi entro sessanta giorni dall'entrata in vigore della presente legge, e' dichiarata l'estinzione dell'Ente nazionale per la prevenzione degli infortuni (ENPI) e dell'Associazione nazionale per il controllo della combustione (ANCC) e ne sono nominati i commissari liquidatori.
 
@@ -1586,13 +1582,13 @@ AGGIORNAMENTO (3)
 
 Il D.L. 30 dicembre 1979, n. 663, convertito, con modificazioni dalla L. 29 febbraio 1980, n. 33, ha disposto (con l'art. 5, comma 7) che "Fino all'emanazione della disciplina legislativa prevista rispettivamente dagli articoli 23 e 37 della legge 23 dicembre 1978, n. 833, e del decreto di cui al primo comma dell'articolo 70 della stessa legge, sono prorogati tutti i poteri dei commissari liquidatori nominati ai Sensi dell'articolo 72 della citata legge 23 dicembre 1978, n. 833, dei commissari liquidatori delle gestioni e servizi di assistenza sanitaria delle Casse marittime adriatica, tirrena e meridionale, nonche', per la parte riguardante le suddette materie, dei commissari di cui al successivo comma e degli organi di amministrazione della Croce rossa italiana".
 
-##### Art. 73 - Trasferimento di personale statale addetto alle attivita' di prevenzione e di sicurezza del lavoro
+#### Art. 73 - Trasferimento di personale statale addetto alle attivita' di prevenzione e di sicurezza del lavoro
 
 In riferimento a quanto disposto dallo articolo 21, primo comma, con provvedimento del Ministro del lavoro e della previdenza sociale, il personale tecnico e sanitario centrale e periferico, degli Ispettorati del lavoro addetto alle sezioni mediche, chimiche e ai servizi di protezione antinfortunistica, viene comandato, a domanda e a decorrere dal 1 gennaio 1980, presso l'Istituto superiore per la prevenzione e la sicurezza del lavoro, o nei presidi e servizi delle unita' sanitarie locali e, in particolare, nei presidi di cui all'articolo 22.
 
 Per il provvedimento di cui al primo comma si adottano, in quanto applicabili, le procedure di cui all'articolo 67.
 
-##### Art. 74 - Indennita' economiche temporanee
+#### Art. 74 - Indennita' economiche temporanee
 
 A decorrere dal 1 gennaio 1980 e sino all'entrata in vigore della legge di riforma del sistema previdenziale, l'erogazione delle prestazioni economiche per malattia e per maternita' previste dalle vigenti disposizioni in materia gia' erogate dagli enti, casse, servizi e gestioni autonome estinti e posti in liquidazione ai sensi della legge 17 agosto 1974, n. 386, di conversione con modificazioni del decreto-legge 8 luglio 1974, n. 264, e' attribuita all'Istituto nazionale della previdenza sociale (INPS) che terra' apposita gestione. A partire dalla stessa data la quota parte dei contributi di legge relativi a tali prestazioni e' devoluta all'INPS ed e' stabilita con decreto del Ministro del lavoro e della previdenza sociale, di concerto col Ministro del tesoro.
 
@@ -1608,7 +1604,7 @@ La L. 23 aprile 1981, n. 155, ha disposto (con l'art. 14, comma 1) che: "La quot
 
 Per gli aventi diritto alle prestazioni economiche previste dalle disciolte Casse di soccorso la quota di contributo e' fissata nella misura del 3 per cento".
 
-##### Art. 75 - Rapporto con gli enti previdenziali
+#### Art. 75 - Rapporto con gli enti previdenziali
 
 Entro il 31 dicembre 1980, con legge dello Stato sono disciplinati gli aspetti previdenziali connessi con le competenze in materia di medicina legale attribuite alle unita' sanitarie locali ai sensi dell'articolo 14, lettera q).
 
@@ -1620,7 +1616,7 @@ Le gestioni commissariali istituite ai sensi dell'articolo 12-bis del decreto-le
 
 Gli enti previdenziali di cui al presente articolo, fino alla data indicata nel primo comma, applicano al personale medico dipendente dagli stessi gli istituti normativi previsti specificamente per i medici dalle norme delegate di cui all'articolo 47.
 
-##### Art. 76 - Modalita' transitorie per la riscossione dei contributi obbligatori di malattia
+#### Art. 76 - Modalita' transitorie per la riscossione dei contributi obbligatori di malattia
 
 Fino al 31 dicembre 1979 gli adempimenti relativi all'accertamento, alla riscossione e al recupero in via giudiziale dei contributi sociali di malattia e di ogni altra somma ad essi connessa restano affidati agli enti mutualistici ed altri istituti e gestioni interessati, posti in liquidazione ai sensi della legge 29 giugno 1977, n. 349.
 
@@ -1642,7 +1638,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 30 dicembre 1979, n. 663, convertito, con modificazioni, dalla L. 29 febbraio 1980, n. 33 (in G.U. 29/02/1980, n. 59) ha disposto (con l'art. 3, comma 5) che: "A decorrere dal 1 gennaio 1980, in deroga a quanto previsto dal quarto comma all'articolo 76 della legge 23 dicembre 1978 n. 833 i contributi di competenza degli enti di malattia sono riscossi dall'INPS che versera', entro la fine di ciascun mese, a partire da quello di febbraio 1980, nell'apposito capitolo dello stato di previsione dell'entrata del bilancio dello Stato un acconto pari a un dodicesimo dell'80 per cento dei contributi di competenza per l'assistenza sanitaria iscritti nell'anzidetto capitolo al netto di eventuali quota fiscalizzate e dei contributi dovuti dalle amministrazioni statali ivi comprese quelle con ordinamento autonomo o dotate di autonomia amministrativa che provvederanno direttamente al versamento degli stessi a bilancio dello Stato. I relativi conguagli saranno effettuati con le modalita' e le scadenze da stabilirsi con decreto del Ministro del tesoro, di concerto con quello del lavoro e della previdenza sociale".
 
-##### Art. 77 - Liquidazione degli enti soppressi e ripiano delle loro passivita'
+#### Art. 77 - Liquidazione degli enti soppressi e ripiano delle loro passivita'
 
 Fermo restando quanto disposto dal secondo comma dell'articolo 60, alla liquidazione degli enti, casse, servizi e gestioni autonome di cui all'articolo 12-bis del decreto-legge 8 luglio 1974, n. 264, come modificato dalla legge di conversione 17 agosto 1974, n. 386, si provvede, entro 18 mesi dall'entrata in vigore della presente legge, sulla base delle direttive emanate, in applicazione dell'articolo 4, quarto comma, della legge 29 giugno 1977, n. 349, dal comitato centrale istituito con lo stesso articolo 4. ((6))
 
@@ -1664,15 +1660,15 @@ AGGIORNAMENTO (6)
 
 Il D.L. 1 luglio 1980, n. 285, convertito, con modificazioni, dalla L. 8 agosto 1980, n. 441, ha disposto (con l'art. 1, comma 5) che "La data prevista nel primo comma dell'art. 77 della legge 23 dicembre 1978, n. 833, per la cessazione delle gestioni di liquidazione degli enti di cui al precedente primo comma e' prorogata al 31 dicembre 1980".
 
-##### Art. 78 - Norme fiscali
+#### Art. 78 - Norme fiscali
 
 I trasferimenti di beni mobili ed immobili dipendenti dall'attuazione della presente legge, sono esenti, senza limiti di valore, dalle imposte di bollo, di registro, di incremento di valore, ipotecarie, catastali e da ogni altra imposta, spesa, tassa o diritto di qualsiasi specie o natura.
 
-##### Art. 79 - Esercizio delle deleghe legislative
+#### Art. 79 - Esercizio delle deleghe legislative
 
 Le norme delegate previste dalla presente legge sono emanate, con decreti del Presidente della Repubblica, su proposta del Presidente del Consiglio dei ministri, di concerto con i Ministri del tesoro, dell'interno e del bilancio e della programmazione economica e degli altri Ministri, in ragione delle rispettive competenze indicate nei precedenti articoli, adottando la procedura complessivamente prevista dall'articolo 8 della legge 22 luglio 1975, n. 382. Per l'esercizio delle deleghe di cui agli articoli 23, 24, 37, 42, 47 e 59 in luogo della Commissione parlamentare per le questioni regionali, di cui all'articolo 52 della legge 10 febbraio 1953, n. 62 e successive modificazioni e integrazioni, i pareri sono espressi da una apposita Commissione composta da 10 deputati e 10 senatori nominati, in rappresentanza proporzionale dei gruppi parlamentari, dai Presidenti delle rispettive Camere.
 
-##### Art. 80 - Regioni a statuto speciale
+#### Art. 80 - Regioni a statuto speciale
 
 Restano salve le competenze statutarie delle regioni a statuto speciale nelle materie disciplinate dalla presente legge. Restano ferme altresi' le competenze spettanti alle province autonome di Trento e di Bolzano secondo le forme e condizioni particolari di autonomia definite dal decreto del Presidente della Repubblica 31 agosto 1972, n. 670, e relative norme di attuazione, nel rispetto, per quanto attiene alla provincia autonoma di Bolzano, anche delle norme relative alla ripartizione proporzionale fra i gruppi linguistici e alla parificazione delle lingue italiana e tedesca. ((PERIODO ABROGATO DALLA L. 27 DICEMBRE 1983, N. 730)).
 
@@ -1686,15 +1682,15 @@ AGGIORNAMENTO (13)
 
 Il D.P.R. 22 febbraio 1982, n. 182, ha disposto (con l'art. 22, comma 2) che: "A parziale modifica di quanto disposto dall'art. 80, secondo comma, della legge 23 dicembre 1978, n. 833, il trasferimento delle funzioni di cui al comma precedente, degli uffici, del personale e dei beni alla regione ha luogo con le procedure previste dalla legge stessa per le regioni a statuto ordinario".
 
-##### Art. 81 - Assistenza ai mutilati e agli invalidi civili
+#### Art. 81 - Assistenza ai mutilati e agli invalidi civili
 
 Il trasferimento delle funzioni amministrative in materia di assistenza sanitaria protesica e specifica a favore dei mutilati e invalidi di cui all'articolo 2 della legge 30 marzo 1971, n. 118, nonche' dei sordomuti e ciechi civili diventa operativo a partire dal 1 luglio 1979.
 
-##### Art. 82 - Variazioni al bilancio dello Stato
+#### Art. 82 - Variazioni al bilancio dello Stato
 
 Il Ministro del tesoro e' autorizzato a provvedere con propri decreti alle occorrenti variazioni di bilancio.
 
-##### Art. 83 - Entrata in vigore della legge
+#### Art. 83 - Entrata in vigore della legge
 
 La presente legge entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale della Repubblica.
 

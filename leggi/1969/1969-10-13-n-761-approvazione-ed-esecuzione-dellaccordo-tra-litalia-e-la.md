@@ -25,11 +25,11 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 E' approvato l'accordo tra l'Italia e la Francia relativo alle questioni doganali e fiscali per la gestione del traforo stradale del Monte Bianco concluso a Parigi il 7 febbraio 1967.
 
-### Art. 2
+## Art. 2
 
 Piena ed intera esecuzione e' data all'accordo di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 9 dell'accordo stesso.
 
@@ -57,21 +57,21 @@ Considerato l'accordo aggiuntivo (Avenant) alla suddetta convenzione, firmato a 
 
 hanno convenuto quanto segue:
 
-### Articolo 1
+## Articolo 1
 
 Per l'applicazione della legislazione e della regolamentazione fiscali, ciascuna societa' concessionaria della costruzione e della gestione del traforo stradale attraverso il Monte Bianco e' considerata come esercente da sola e per proprio conto la gestione della meta' della opera corrispondente alla sua concessione.
 
-### Articolo 2
+## Articolo 2
 
 Per la liquidazione delle imposte sugli affari, la base imponibile in ciascuno Stato e' costituita dalla totalita' delle entrate afferenti alle operazioni effettuate nell'ambito della concessione accordata da detto Stato.
 
 Tuttavia, qualora le entrate relative alle operazioni effettuate in ciascuno dei due Stati, specie per quanto concerne i pedaggi, non possono essere distinte, la base imponibile in ciascuno Stato e' rappresentata dalla meta' delle entrate totali qualunque sia il luogo della loro realizzazione.
 
-### Articolo 3
+## Articolo 3
 
 Nella misura in cui la legislazione e la regolamentazione fiscali lo esigano, ciascuna societa' concessionaria dovra' far accreditare presso l'amministrazione incaricata dell'esazione di imposte e tasse, un rappresentante domiciliato nello Stato in cui sono dovute tali imposte e tasse, il quale si impegnera' a compiere le formalita' cui sono tenuti i contribuenti e a pagare le imposte e tasse dovute.
 
-### Articolo 4
+## Articolo 4
 
 Per l'applicazione delle imposte sugli utili derivanti dalla gestione del traforo, la base imponibile per ciascuna societa' concessionaria verra' calcolata dall'amministrazione fiscale competente dello Stato in cui detta societa' ha il proprio domicilio fiscale, secondo la legislazione interna di detto Stato e tenendo conto:
 
@@ -81,21 +81,21 @@ ripartite per meta' tra le due societa' concessionarie, e
 
 b) che anche le spese necessarie alla gestione, manutenzione e conservazione del traforo sono ripartite per meta' tra le due societa' concessionarie.
 
-### Articolo 5
+## Articolo 5
 
 In deroga alle disposizioni della convenzione fiscale italo-francese contro la doppia imposizione in materia di imposte sui redditi e sul patrimonio, gli stipendi e gli emolumenti delle persone incaricate della gestione del traforo non sono imponibili che nello Stato in cui gli interessati hanno il proprio domicilio fiscale.
 
-### Articolo 6
+## Articolo 6
 
 Per l'applicazione delle disposizioni della convenzione fiscale italo-francese contro la doppia imposizione in materia di imposte sui redditi e sul patrimonio, gli onorari, le indennita' e le altre remunerazioni pagati per conto comune ai membri del comitato comune di amministrazione e dell'organo comune di controllo dei conti di gestione per le funzioni svolte a tale titolo, sono considerati come versati dalla societa' concessionaria di cui detti membri sono i rappresentanti o i mandatari.
 
-### Articolo 7
+## Articolo 7
 
 Le competenti amministrazioni fiscali dei due Stati concorderanno le modalita' di esercizio dei rispettivi diritti di richiesta di notizie e di verifica per quanto concerne la contabilita' di esercizio dell'opera, tenuta presso la sede del comitato comune di amministrazione.
 
 ## II - DOGANE
 
-### Articolo 8
+## Articolo 8
 
 1\. Per la manutenzione e la gestione dell'opera ciascuno Stato:
 
@@ -107,7 +107,7 @@ b) consentira' l'introduzione di materiali da costruzione, materie prime e mater
 
 ## III - DISPOSIZIONI GENERALI
 
-### Articolo 9
+## Articolo 9
 
 Il presente accordo sara' approvato secondo le norme costituzionali in vigore in ciascuno dei due Stati.
 

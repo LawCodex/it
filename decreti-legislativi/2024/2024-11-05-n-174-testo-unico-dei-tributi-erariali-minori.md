@@ -362,9 +362,7 @@ Obblighi nei confronti dell'amministrazione finanziaria in sede di accertamento
 
 3\. In caso di rifiuto all'adempimento, anche parziale, di cui ai commi 1 e 2, gli incaricati della verifica redigono apposito processo verbale di constatazione ((ai sensi dell'articolo 151 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento)).
 
-## Capo II - Disposizioni comuni alle imposte sulle assicurazioni
-
-### e sui contratti di rendita vitalizia
+### Capo II - Disposizioni comuni alle imposte sulle assicurazioni e sui contratti di rendita vitalizia
 
 ##### Art. 15
 
@@ -466,7 +464,7 @@ Comunicazione delle infrazioni
 
 2\. Gli uffici finanziari sono a loro volta tenuti a comunicare agli organi di cui al comma 1 le infrazioni alle disposizioni da essi accertate nell'esercizio delle loro funzioni, per i provvedimenti da adottare a norma del predetto codice delle assicurazioni private, di cui al decreto legislativo n. 209 del 2005.
 
-## Capo III - Disposizioni finali
+### Capo III - Disposizioni finali
 
 ##### Art. 23
 
@@ -624,7 +622,7 @@ del Presidente della Repubblica n. 640 del 1972)
 
 1\. Restano ferme le disposizioni agevolative previste dal decreto legislativo 4 dicembre 1997, n. 460, per le attivita' di intrattenimento previsto dalla tariffa di cui all'allegato 2 svolte in concomitanza di celebrazioni, ricorrenze o campagne di sensibilizzazione alle condizioni e nel rispetto degli adempimenti ivi previsti.
 
-## Capo II - Riduzioni ed esenzioni
+### Capo II - Riduzioni ed esenzioni
 
 ##### Art. 30
 
@@ -708,11 +706,9 @@ Disposizioni che restano abrogate
 
 2\. Restano altresi' abrogate le disposizioni di cui all'articolo 5 della legge 29 dicembre 1949, n. 959, e quelle contenute nella legge 18 febbraio 1963, n. 67, relative all'istituzione dell'addizionale ai diritti erariali e del diritto addizionale.
 
-## Titolo III - IMPOSTA ERARIALE SUI VOLI
+## Titolo III - IMPOSTA ERARIALE SUI VOLI DEI PASSEGGERI DI AEROTAXI E IMPOSTA SUGLI AEROMOBILI PRIVATI
 
-### DEI PASSEGGERI DI AEROTAXI E IMPOSTA - SUGLI AEROMOBILI PRIVATI
-
-#### Capo I - Disposizioni generali, modalità e termini di attuazione
+### Capo I - Disposizioni generali, modalità e termini di attuazione
 
 ##### Art. 38
 
@@ -942,9 +938,9 @@ Oggetto dell'imposta
 
 3\. Il canone di abbonamento e', in ogni caso, dovuto una sola volta in relazione agli apparecchi di cui al comma 1 detenuti, nei luoghi adibiti a propria residenza o dimora, dallo stesso soggetto e dai soggetti appartenenti alla stessa famiglia anagrafica, come individuata dall'articolo 4 del regolamento anagrafico della popolazione residente, di cui al decreto del Presidente della Repubblica 30 maggio 1989, n. 223.
 
-## Capo II - Norme per gli utenti privati
+### Capo II - Norme per gli utenti privati
 
-### Sezione I - Misura del canone e modalità di pagamento
+#### Sezione I - Misura del canone e modalità di pagamento
 
 ##### Art. 52
 
@@ -1014,9 +1010,7 @@ Primo pagamento del canone
 
 3\. ((La richiesta di esenzione ai sensi del comma 1, primo periodo, e' presentata dai soggetti legalmente responsabili dei centri per anziani all'Ufficio Canone TV, e deve riportare la documentazione attestante il possesso dei requisiti di cui al comma 2. La richiesta di esenzione ai sensi del comma 1, secondo periodo, e' presentata, prima dell'inizio di ciascuna manifestazione, all'ufficio accertatore territorialmente competente.))
 
-## Sezione II - Cessazione dell'uso dell'apparecchio
-
-### da parte degli abbonati
+#### Sezione II - Cessazione dell'uso dell'apparecchio da parte degli abbonati
 
 ##### Art. 55
 
@@ -1026,7 +1020,7 @@ Cessazione
 
 1\. A decorrere dal 1° gennaio 2016 non e' piu' esercitabile la facolta' di presentare la denunzia di cessazione dell'abbonamento radiotelevisivo per suggellamento. Restano ferme la disciplina vigente in materia di accertamento e riscossione coattiva e le disposizioni in materia di canone di abbonamento speciale per la detenzione fuori dell'ambito familiare, salvo quanto disposto dal primo periodo.
 
-## Sezione III - Pagamento dei canoni
+#### Sezione III - Pagamento dei canoni
 
 ##### Art. 56
 
@@ -1048,9 +1042,7 @@ Privilegio
 
 2\. I crediti di cui al comma 1 sono pure compresi nel privilegio sulla generalita' dei mobili di cui all'articolo 2752 del codice civile.
 
-## Sezione IV - Canone di abbonamento per audizioni
-
-### in locali pubblici o aperti al pubblico
+#### Sezione IV - Canone di abbonamento per audizioni in locali pubblici o aperti al pubblico
 
 ##### Art. 58
 
@@ -1066,7 +1058,7 @@ Abbonamento per audizioni in locali pubblici o aperti al pubblico
 
 4\. Sono applicabili, inoltre, agli apparecchi in uso in locali pubblici o aperti al pubblico anche le disposizioni degli articoli 56 e 57 e ((dell'articolo 332 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento)).
 
-## Sezione V - Disposizioni finali
+#### Sezione V - Disposizioni finali
 
 ##### Art. 59
 

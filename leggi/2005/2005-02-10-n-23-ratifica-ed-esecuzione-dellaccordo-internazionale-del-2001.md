@@ -27,15 +27,15 @@ Promulga
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo internazionale del 2001 sul caffe', con Allegato, adottato a Londra il 28 settembre 2000.
 
-#### Art. 2
+### Art. 2
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 45 dell'Accordo stesso.
 
-#### Art. 3
+### Art. 3
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -53,7 +53,7 @@ Visto, il Guardasigilli: Castelli
 
 ## Allegati
 
-#### Accord
+### Accord
 
 ACCORD
 
@@ -65,9 +65,7 @@ SUR LE CAFE'
 
 Parte di provvedimento in formato grafico
 
-## CAPITOLO I
-
-### OBIETTIVI
+## CAPITOLO I - OBIETTIVI
 
 Traduzione non ufficiale
 
@@ -91,7 +89,7 @@ Prendendo nota dei vantaggi ottenuti grazie alla cooperazione internazionale sus
 
 Hanno convenuto quanto segue:
 
-#### Articolo 1
+### Articolo 1
 
 Obiettivi
 
@@ -115,11 +113,9 @@ Gli obiettivi del presente Accordo sono:
 
 (10) Promuovere i programmi di formazione e d'informazione destinati a facilitare il trasferimento, verso i Membri, di tecnologie appropriate per il caffe'.
 
-## ARTICOLO II
+## ARTICOLO II - DEFINIZIONI
 
-### DEFINIZIONI
-
-#### Articolo 2
+### Articolo 2
 
 Definizioni
 
@@ -155,11 +151,9 @@ decorticato, prima della torrefazione;
 
 (10) Maggioranza ripartita di due terzi significa una votazione che richiede piu' di due terzi dei voti espressi dai Membri esportatori presenti e votanti e piu' di due terzi dei voti espressi dai Membri importatori presenti e votanti conteggiati separatamente. (11) Entrata in vigore significa, salvo indicazione contraria, la data alla quale l'Accordo entra in vigore in via provvisoria o definitiva.
 
-## CAPITOLO III
+## CAPITOLO III - IMPEGNI GENERALI DEI MEMBRI
 
-### IMPEGNI GENERALI DEI MEMBRI
-
-#### Articolo 3
+### Articolo 3
 
 Impegni generali dei Membri
 
@@ -171,11 +165,9 @@ i Membri s'impegnano in particolare a fornire tutte le informazioni necessarie p
 
 (3) I Membri riconoscono inoltre che le informazioni sulle riesportazioni sono ugualmente importanti per procedere ad una appropriata analisi dell'economia caffearia mondiale. Di conseguenza, i membri importatori si impegnano a fornire informazioni regolari e precise sulle riesportazioni, nella forma e nei modi determinati dal Consiglio.
 
-## CAPITOLO IV
+## CAPITOLO IV - MEMBRI
 
-### MEMBRI
-
-#### ARTICOLO 4
+### ARTICOLO 4
 
 Membri dell'Organizzazione
 
@@ -189,7 +181,7 @@ Membri dell'Organizzazione
 
 (5) Tale organizzazione intergovernativa non e' eleggibile al Comitato esecutivo ai sensi del paragrafo (1) dell'articolo 17, ma puo' partecipare ai dibattiti del Comitato Esecutivo sulle questioni di sua competenza. In caso di voto su questioni di sua competenza ed in deroga al disposto del paragrafo (1) dell'Articolo 20, i voti di cui gli Stati Membri sono autorizzati a disporre nel Comitato esecutivo , possono essere espressi in blocco da uno qualsiasi dei medesimi Stati Membri.
 
-#### ARTICOLO 5
+### ARTICOLO 5
 
 Partecipazione separata di territori designati
 
@@ -197,7 +189,7 @@ Ogni Parte Contraente importatrice netta di caffe' puo' ad ogni momento , per me
 
 In questo caso il territorio metropolitano ed i suoi territori non designati costituiscono un solo ed unico Membro mentre i territori designati hanno, individualmente o collettivamente, secondo i termini della notifica, la qualita' di Membro distinto.
 
-#### ARTICOLO 6
+### ARTICOLO 6
 
 Partecipazione in gruppo
 
@@ -239,11 +231,9 @@ b) di notificare al Segretario Generale dell'Organizzazione delle Nazioni Unite 
 
 8\) Due o piu' Membri esportatori possono richiedere in qualsiasi momento al Consiglio, dopo l'entrata in vigore dell'Accordo, l'autorizzazione a costituirsi in gruppo. Il Consiglio li autorizza se constata che essi hanno inviato la dichiarazione e gli elementi di prova richiesti dal paragrafo 1) del presente Articolo. Dal momento in cui il Consiglio concede l'autorizzazione, divengono applicabili al gruppo le norme dei paragrafi 3), 4), 5) e 6 del presente Articolo.
 
-## CAPITOLO V
+## CAPITOLO V - ORGANIZZAZIONE INTERNAZIONALE DEL CAFFE'
 
-### ORGANIZZAZIONE INTERNAZIONALE DEL CAFFE'
-
-#### ARTICOLO 7
+### ARTICOLO 7
 
 Sede e struttura dell'Organizzazione internazionale del caffe'
 
@@ -253,7 +243,7 @@ Sede e struttura dell'Organizzazione internazionale del caffe'
 
 3\) L'Organizzazione esercita le sue funzioni tramite il Consiglio internazionale del Caffe' ed il Comitato Esecutivo, assistiti come opportuno dalla Conferenza Mondiale del Caffe', dal Comitato Consultivo per il settore privato, dal Comitato di promozione e da comitati specializzati.
 
-#### ARTICOLO 8
+### ARTICOLO 8
 
 Privilegi ed immunita'.
 
@@ -275,11 +265,9 @@ c) qualora l'Organizzazione cessi di esistere.
 
 5\) I Governi dei Paesi Membri diversi dal Governo ospite , concedono all'Organizzazione, per cio' che riguarda le regolamentazioni valutarie o di cambio, il mantenimento di conti bancari ed il trasferimento di fondi, le stesse facilitazioni in vigore di quelle previste per le Istituzioni specializzate dell'Organizzazione delle Nazioni Unite.
 
-## CAPITOLO VI
+## CAPITOLO VI - CONSIGLIO INTERNAZIONALE DEL CAFFE'
 
-### CONSIGLIO INTERNAZIONALE DEL CAFFE'
-
-#### ARTICOLO 9
+### ARTICOLO 9
 
 Composizione del Consiglio Internazionale del Caffe'
 
@@ -287,7 +275,7 @@ Composizione del Consiglio Internazionale del Caffe'
 
 2\) Ciascun Membro nomina un proprio rappresentante al Consiglio e, se lo desidera, uno o piu' supplenti. Ciascun Membro puo' inoltre fare assistere il suo rappresentante o i suoi supplenti da uno o piu' consiglieri.
 
-#### ARTICOLO 10
+### ARTICOLO 10
 
 Poteri e funzioni del Consiglio
 
@@ -301,7 +289,7 @@ Poteri e funzioni del Consiglio
 
 5\) Il Consiglio provvede inoltre all'aggiornamento della documentazione necessaria per l'espletamento delle funzioni che gli sono conferite dal presente Accordo, e di ogni altra documentazione che ritiene auspicabile.
 
-#### ARTICOLO 11
+### ARTICOLO 11
 
 Presidente e Vice-presidenti del Consiglio
 
@@ -311,7 +299,7 @@ Presidente e Vice-presidenti del Consiglio
 
 3\) Ne' il Presidente ne' il Vicepresidente facente funzione di presidente hanno diritto di voto. In questo caso, il loro supplente esercita il diritto di voto del paese Membro.
 
-#### ARTICOLO 12
+### ARTICOLO 12
 
 Sessioni del Consiglio
 
@@ -323,7 +311,7 @@ Sessioni del Consiglio
 
 4\) Il quorum necessario affinche' una sessione del Consiglio possa prendere decisioni e' costituito dalla maggioranza dei Membri esportatori ed importatori che rappresentano rispettivamente almeno due terzi dei voti per ciascuna categoria. Se all'inizio di una sessione del Consiglio o di una riunione plenaria, il quorum non e' raggiunto, il Presidente decide di ritardare l'apertura della sessione o della riunione plenaria di almeno due ore. Se all'ora prevista per la nuova riunione, il quorum non e' ancora stato raggiunto, il Presidente puo' di nuovo differire per almeno altre due ore l'inizio della sessione o della riunione plenaria. Se alla fine di questo nuovo rinvio, il quorum non e' ancora stato raggiunto, il numero legale richiesto per prendere decisioni sara' costituito dalla presenza di oltre la meta' dei Membri esportatori ed importatori che detengono rispettivamente almeno la meta' dei voti per ciascuna categoria. I Membri rappresentati per procura in conformita' al paragrafo 2) dell'articolo 14 sono considerati presenti.
 
-#### ARTICOLO 13
+### ARTICOLO 13
 
 Voti
 
@@ -343,7 +331,7 @@ Voti
 
 8\) Non sono ammesse le frazioni di voto.
 
-#### ARTICOLO 14
+### ARTICOLO 14
 
 Procedura di voto del Consiglio
 
@@ -351,7 +339,7 @@ Procedura di voto del Consiglio
 
 2\) Ogni Membro esportatore puo' autorizzare qualsiasi altro Membro esportatore, ed ogni Membro importatore puo' autorizzare qualsiasi altro Membro importatore a rappresentare i suoi interessi e ad esercitare il suo diritto di voto in una o piu' riunioni del Consiglio. In tal caso non si applica il limite di cui al paragrafo 7) dell'Articolo 13.
 
-#### ARTICOLO 15
+### ARTICOLO 15
 
 Decisioni del Consiglio
 
@@ -369,7 +357,7 @@ d) se il Consiglio non rimette una proposta ai voti, quest'ultima e' considerata
 
 3\) I Membri s'impegnano ad accettare come obbligatorie tutte le decisioni che il Consiglio prende in forza del presente Accordo.
 
-#### ARTICOLO 16
+### ARTICOLO 16
 
 Collaborazione con altri organismi
 
@@ -377,11 +365,9 @@ l) Il Consiglio puo' prendere disposizioni per avere consultazioni e collaborare
 
 2\) Quando cio' e' possibile, l'Organizzazione puo' raccogliere presso i paesi Membri, i paesi non membri, le agenzie donatrici ed altre agenzie, informazioni sui progetti ed i programmi di sviluppo incentrati sul settore caffeario. Se del caso, e con l'accordo delle Parti in causa, l'Organizzazione puo' rendere disponibili queste informazioni a tali altre organizzazioni nonche' ai Membri.
 
-## CAPITOLO VII
+## CAPITOLO VII - COMITATO ESECUTIVO
 
-### COMITATO ESECUTIVO
-
-#### ARTICOLO 17
+### ARTICOLO 17
 
 Composizione e riunioni del Comitato esecutivo
 
@@ -395,7 +381,7 @@ Composizione e riunioni del Comitato esecutivo
 
 5\) Il quorum richiesto per ogni riunione dei Comitato esecutivo destinata a prendere decisioni e' costituito dalla presenza di oltre la meta' dei " Membri esportatori e dei Membri importatori eletti al Comitato esecutivo, che detengono rispettivamente almeno i due terzi dei voti per ciascuna categoria. Se all'apertura di una riunione del Comitato esecutivo non vi e' quorum, il Presidente del Comitato esecutivo pospone l'inizio della riunione di almeno due ore. Se all'ora stabilita per la nuova riunione non e' ancora stato raggiunto il quorum, il Presidente del Comitato esecutivo puo' di nuovo differire di almeno altre due ore l'inizio della riunione .Se alla fine di questo nuovo rinvio, il quorum non e' ancora stato raggiunto, il numero legale richiesto per prendere decisioni sara' costituito dalla presenza di piu' della meta' dei Membri esportatori e dei Membri importatori eletti al Comitato esecutivo, che detengono rispettivamente almeno la meta' del totale dei voti per ciascuna categoria.
 
-#### ARTICOLO 18
+### ARTICOLO 18
 
 Elezione del Comitato esecutivo
 
@@ -413,7 +399,7 @@ Elezione del Comitato esecutivo
 
 7\) Se il numero di voti considerati come ottenuti da un Membro eletto supera 499, i Membri che hanno votato per questo Membro eletto o gli hanno conferito i loro voti, si accorderanno fra di loro affinche' uno o piu' di essi ritirino i voti che gli hanno concesso e li conferiscano o li trasferiscano ad un altro Membro eletto, in modo che i voti ricevuti da ciascun Membro eletto non superino il numero massimo di 499.
 
-#### ARTICOLO 19
+### ARTICOLO 19
 
 Competenza del Comitato esecutivo
 
@@ -445,7 +431,7 @@ Esso elabora il piano annuale dei lavori dell'Organizzazione , decide sulle ques
 
 5\) Il Comitato esecutivo puo' costituire ogni comitato o gruppo di lavoro che ritiene necessario.
 
-#### ARTICOLO 20
+### ARTICOLO 20
 
 Procedura di voto del Comitato esecutivo
 
@@ -453,11 +439,9 @@ Procedura di voto del Comitato esecutivo
 
 2\) Le decisioni del Comitato esecutivo sono adottate con la stessa maggioranza di quella delle decisioni analoghe del Consiglio.
 
-## CAPITOLO VIII
+## CAPITOLO VIII - SETTORE CAFFEARIO PRIVATO
 
-### SETTORE CAFFEARIO PRIVATO
-
-#### Articolo 21
+### Articolo 21
 
 Conferenza mondiale del caffe'
 
@@ -471,7 +455,7 @@ Conferenza mondiale del caffe'
 
 5\) Il Presidente della Conferenza sottopone al Consiglio le conclusioni di ciascuna sessione.
 
-#### ARTICOLO 22
+### ARTICOLO 22
 
 Comitato consultivo del settore privato
 
@@ -497,11 +481,9 @@ b) otto associazioni o organismi del settore caffeario privato di paesi importat
 
 9)Il CCSP elabora il proprio regolamento interno, nel rispetto delle disposizioni del presente Accordo.
 
-## CAPITOLO IX
+## CAPITOLO IX - FINANZE
 
-### FINANZE
-
-#### Articolo 23
+### Articolo 23
 
 Disposizioni finanziarie
 
@@ -511,7 +493,7 @@ Disposizioni finanziarie
 
 3\) L'esercizio finanziario dell'Organizzazione coincide con l'annata caffearia.
 
-#### ARTICOLO 24
+### ARTICOLO 24
 
 Votazione per il bilancio preventivo amministrativo e fissazione delle quote di contribuzione
 
@@ -521,7 +503,7 @@ Votazione per il bilancio preventivo amministrativo e fissazione delle quote di 
 
 3\) Il Consiglio fissa il contributo iniziale e di ogni paese che diviene Membro dell'Organizzazione dopo l'entrata in vigore del presente Accordo in funzione del numero di voti ad esso attribuiti e della frazione non decorsa dell'esercizio finanziario in corso; le quote di contribuzione assegnate agli altri Membri per l'esercizio in corso rimangono tuttavia immutate.
 
-#### ARTICOLO 25
+### ARTICOLO 25
 
 Versamento delle quote
 
@@ -531,7 +513,7 @@ Versamento delle quote
 
 3\) Un Membro il cui diritto di voto e' sospeso in applicazione sia delle disposizioni del paragrafo 2) del presente Articolo, sia delle disposizioni dell'Articolo 42, rimane tuttavia obbligato a versare la sua quota.
 
-#### ARTICOLO 26
+### ARTICOLO 26
 
 Responsabilita' finanziarie
 
@@ -539,17 +521,15 @@ Responsabilita' finanziarie
 
 2\) La responsabilita' finanziaria di un Membro si limita ai suoi obblighi relativi alle quote di contribuzione espressamente previste nel presente Accordo. Le parti terze che trattano con l'Organizzazione sono tenute ad essere a conoscenza delle norme del presente Accordo relative alle responsabilita' finanziarie dei Membri.
 
-#### ARTICOLO 27
+### ARTICOLO 27
 
 Verifica e pubblicazione dei conti
 
 Nel piu' breve tempo possibile, e non oltre sei mesi dopo la chiusura di ciascun esercizio finanziario, sara' predisposto un rendiconto per il Consiglio debitamente verificato da un esperto abilitato, relativo all'attivo ed al passivo, ai redditi ed alle spese dell'Organizzazione durante l'esercizio finanziario in questione. Tal rendiconto sara' sottoposto al Consiglio per approvazione fin dalla sua prossima sessione.
 
-## CAPITOLO X
+## CAPITOLO X - IL DIRETTORE ESECUTIVO ED IL PERSONALE
 
-### IL DIRETTORE ESECUTIVO ED IL PERSONALE
-
-#### ARTICOLO 26
+### ARTICOLO 26
 
 Il Direttore esecutivo ed il personale
 
@@ -565,11 +545,9 @@ Il Direttore esecutivo ed il personale
 
 Ciascun Membro s'impegna a rispettare il carattere esclusivamente internazionale delle funzioni del Direttore esecutivo e del personale e a non cercare di influenzarli nell'esecuzione dei loro compiti.
 
-## ARTICOLO XI
+## ARTICOLO XI - INFORMAZIONI, STUDI E RICERCHE
 
-### INFORMAZIONI, STUDI E RICERCHE
-
-#### ARTICOLO 29
+### ARTICOLO 29
 
 Informazioni
 
@@ -585,7 +563,7 @@ b) qualora lo giudichi opportuno, dati tecnici sulla coltivazione, la lavorazion
 
 4\) Se un Membro non fornisce, o trova difficolta' a fornire in tempi ragionevoli informazioni statistiche e di altro tipo, richieste dal Consiglio per il buon funzionamento dell'Organizzazione, il Consiglio potra' chiedere al Membro interessato di dare spiegazioni circa i motivi di tale inadempienza. Se constata che occorre fornire al riguardo un' assistenza tecnica, il Consiglio puo' prendere i provvedimenti necessari.
 
-#### ARTICOLO 30
+### ARTICOLO 30
 
 Certificati di origine.
 
@@ -597,7 +575,7 @@ Certificati di origine.
 
 4\) Ogni Membro esportatore, a titolo eccezionale e con un'adatta giustificazione, puo' chiedere al Consiglio di autorizzare che i dati relativi alle sue esportazioni di caffe' che figurano nei certificati di origine, siano trasmessi all'Organizzazione in forma diversa.
 
-#### ARTICOLO 31
+### ARTICOLO 31
 
 Studi e ricerche
 
@@ -609,11 +587,9 @@ Studi e ricerche
 
 4\) I studi e le ricerche da svolgere ad opera dell'Organizzazione in applicazione delle disposizioni del presente Articolo , sono finanziate con le risorse che figurano nel bilancio preventivo amministrativo, predisposto in conformita' alle disposizioni del paragrafo 1) dell'Articolo 24, e sono eseguiti dai membri del personale dell'Organizzazione e, se del caso, da consulenti.
 
-## CAPITOLO XII
+## CAPITOLO XII - DISPOSIZIONI GENERALI
 
-### DISPOSIZIONI GENERALI
-
-#### ARTICOLO 32
+### ARTICOLO 32
 
 Preparativi per un nuovo Accordo
 
@@ -623,7 +599,7 @@ Articolo 28.
 
 2\) Al fine di attuare questa possibilita', il Consiglio esamina l'avanzamento compiuto dall'Organizzazione nel conseguire gli obiettivi del presente Accordo, come specificato all'Articolo 1.
 
-#### ARTICOLO 33
+### ARTICOLO 33
 
 Eliminazione degli ostacoli al consumo
 
@@ -649,7 +625,7 @@ c) alcune condizioni interne di commercializzazione e disposizioni interne e reg
 
 7\) Per conseguire gli obiettivi di cui nel presente Articolo, il Consiglio puo' rivolgere raccomandazioni ai Membri, i quali lo informano appena possibile delle misure che hanno adottato al fine di attuare tali raccomandazioni.
 
-#### ARTICOLO 34
+### ARTICOLO 34
 
 Promozione
 
@@ -665,13 +641,13 @@ Promozione
 
 6\) Il Comitato di promozione istituisce il proprio regolamento interno Esso stabilisce altresi' le regolamentazioni che disciplinano la partecipazione di non membri dell'Organizzazione, di varie organizzazioni e del settore privato alle sue attivita', in conformita' alle norme del presente Accordo. Esso fa regolarmente rapporto al Consiglio.
 
-#### ARTICOLO 35
+### ARTICOLO 35
 
 Misure relative al caffe' trasformato
 
 I Membri riconoscono che i paesi in via di sviluppo hanno bisogno di allargare le basi della loro economia, segnatamente con l'industrializzazione e l'esportazione di prodotti manufatti, ivi compresa la trasformazione del caffe' e l'esportazione del caffe' trasformato, come indicato ai capoversi d), e), f) e g) del paragrafo 1) dell'Articolo 2. In questa ottica, i Membri fanno in modo di evitare che siano adottate misure governative suscettibili di essere contrarie al settore caffeario di altri membri. I Membri sono incoraggiati a consultarsi riguardo all'introduzione di tali misure al fine di valutare ogni rischio di perturbazione. Qualora le consultazioni non diano modo di giungere ad una soluzione reciprocamente soddisfacente, le Parti sono abilitate ad invocare le procedure previste agli Articoli 41 e 42.
 
-#### ARTICOLO 36
+### ARTICOLO 36
 
 Miscele e succedanei
 
@@ -681,41 +657,39 @@ Miscele e succedanei
 
 3\) Il Direttore esecutivo presenta periodicamente al Consiglio una relazione riguardo all'osservanza delle norme del presente articolo.
 
-#### ARTICOLO 37
+### ARTICOLO 37
 
 Consultazione e cooperazione con organizzazioni non governative
 
 Fatte salve le disposizioni degli Articoli 16, 21 e 22, l'Organizzazione si mantiene in stretto collegamento con le organizzazioni non governative appropriate preposte al commercio internazionale del caffe' e con esperti in materia di caffe'.
 
-#### ARTICOLO 38
+### ARTICOLO 38
 
 Canali istituzionali per il commercio di caffe'
 
 I Membri svolgono le loro attivita' nell'ambito del presente Accordo in maniera consona ai canali commerciali istituzionali e si astengono da prassi di vendita discriminatorie. Nello svolgimento delle loro attivita' essi si sforzano di tenere in debito conto i legittimi interessi del settore caffeario.
 
-#### ARTICOLO 39
+### ARTICOLO 39
 
 Economia caffearia sostenibile
 
 I Membri tengono debitamente conto della gestione sostenibile delle risorse di caffe' e della trasformazione del caffe', in considerazione dei principi e degli obiettivi relativi allo sviluppo sostenibile contenuti nell'Agenda 21 della Conferenza delle Nazioni Unite sull'ambiente e lo sviluppo, svoltasi a Rio de Janeiro nel 1992.
 
-#### ARTICOLO 40
+### ARTICOLO 40
 
 Livello di vita e condizioni di lavoro delle popolazioni.
 
 I Membri considerano di migliorare il livello di vita e le condizioni di lavoro delle popolazioni che lavorano nel settore caffeario in funzione del loro stadio di sviluppo, tenendo a mente i principi riconosciuti sul piano internazionale al riguardo. Inoltre I Membri stabiliscono di comune accordo che le norme di lavoro non saranno utilizzate ai fini di un commercio protezionista.
 
-## CAPITOLO XIII
+## CAPITOLO XIII - CONSULTAZIONI, CONTROVERSIE E RICORSI
 
-### CONSULTAZIONI, CONTROVERSIE E RICORSI
-
-#### ARTICOLO 41
+### ARTICOLO 41
 
 Consultazioni
 
 Ogni Membro accoglie favorevolmente, e fornisce adeguate possibilita' per consultazioni relative ad osservazioni eventualmente presentate da un altro Membro su qualsiasi questione relativa al presente Accordo. Nel corso di tali consultazioni, su richiesta di una delle Parti e con il consenso dell'altra, il Direttore esecutivo istituisce una commissione indipendente che offre i suoi buoni uffici al fine di addivenire ad una conciliazione . Le spese sostenute dalla commissione non sono a carico dell'Organizzazione. Se una delle Parti non accetta che il Direttore esecutivo istituisca una commissione, o se la consultazione non ha un esito positivo, la questione puo' essere sottoposta al Consiglio in virtu' dell'articolo 42. Se la consultazione da' luogo ad una soluzione, un rapporto al riguardo sara' sottoposto al Direttore esecutivo il quale lo distribuira' a tutti i Membri.
 
-#### ARTICOLO 42
+### ARTICOLO 42
 
 Controversie e ricorsi
 
@@ -749,17 +723,15 @@ d) Le spese della commissione consultiva sono a carico dell'Organizzazione.
 
 9\) Un Membro puo' chiedere un parere preliminare al Comitato esecutivo in caso di controversia o di ricorso prima che la questione sia esaminata dal Consiglio.
 
-## CAPITOLO XIV
+## CAPITOLO XIV - DISPOSIZIONI FINALI
 
-### DISPOSIZIONI FINALI
-
-#### ARTICOLO 43
+### ARTICOLO 43
 
 Firma
 
 Il presente Accordo sara' depositato dal 1° novembre 2000 fino al 25 settembre 2001 compreso, presso la sede dell'Organizzazione delle Nazioni Unite affinche' sia firmato sia dalle Parti Contraenti dell'Accordo internazionale del 1994 sul caffe' o del prorogato Accordo Internazionale del 1994 sul caffe' quale prorogato, sia dai governi invitati alla sessione del Consiglio Internazionale del caffe' in cui il presente Accordo e' stato negoziato.
 
-#### ARTICOLO 44
+### ARTICOLO 44
 
 Ratifica, accettazione o approvazione
 
@@ -767,7 +739,7 @@ Ratifica, accettazione o approvazione
 
 2\) Salvo nei casi previsti all'Articolo 45, gli strumenti di ratifica, accettazione o approvazione saranno depositati presso il Segretario Generale dell'Organizzazione delle Nazioni Unite entro e non oltre il 25 settembre 2001. Tuttavia il Consiglio puo' decidere di concedere proroghe del termine ai governi firmatari che non sono in grado di depositare i loro strumenti prima di tale data. Tali decisioni del Consiglio saranno trasmesse al Segretario Generale dell'Organizzazione delle Nazioni Unite. .
 
-#### ARTICOLO 45
+### ARTICOLO 45
 
 Entrata in vigore
 
@@ -777,7 +749,7 @@ Entrata in vigore
 
 3\) Se il presente Accordo non e' entrato in vigore definitivamente o provvisoriamente il 1° ottobre 2001, conformemente alle disposizioni del paragrafo 1) o 2) del presente Articolo, i governi che hanno depositato strumenti di ratifica, di accettazione, di approvazione o di adesione, o che hanno inviato le notifiche contenenti il loro impegno ad applicare provvisoriamente le disposizioni di detto Accordo in conformita' alle loro leggi ed ai loro regolamenti, e a cercare di ottenere la ratifica, l'accettazione o l'approvazione, possono decidere di comune accordo che esso entrera' in vigore fra di loro. Allo stesso modo, se il presente Accordo e' entrato in vigore provvisoriamente, ma non definitivamente, il 31 marzo 2002, i governi che hanno depositato strumenti di ratifica, di accettazione, di approvazione o di adesione, o che hanno effettuato le notifiche di cui al paragrafo 2 del presente Articolo, possono decidere di comune accordo che esso continuera' ad essere provvisoriamente in vigore, o che entrera' definitivamente in vigore fra di loro.
 
-#### ARTICOLO 46
+### ARTICOLO 46
 
 Adesione
 
@@ -785,13 +757,13 @@ Adesione
 
 2\) Gli strumenti di adesione sono depositati presso il Segretario Generale dell'Organizzazione delle Nazioni Unite. L'adesione ha effetto al momento del deposito dello strumento.
 
-#### Articolo 47
+### Articolo 47
 
 Riserve
 
 Non possono essere espresse riserve riguardo a qualsivoglia disposizione del presente Accordo.
 
-#### Articolo 48
+### Articolo 48
 
 Applicazione a territori designati
 
@@ -805,19 +777,19 @@ Applicazione a territori designati
 
 Esso diviene Parte contraente del presente Accordo a decorrere dalla data della notifica.
 
-#### ARTICOLO 49
+### ARTICOLO 49
 
 Recesso volontario
 
 Ogni Parte Contraente puo' in qualsiasi momento ritirarsi dal presente Accordo, notificando per iscritto il proprio recesso al Segretario Generale dell'Organizzazione delle Nazioni Unite . Il recesso ha effetto 90 giorni dopo la ricezione della notifica.
 
-#### ARTICOLO 50
+### ARTICOLO 50
 
 Esclusione
 
 Se il Consiglio considera che un Membro ha commesso un'infrazione agli obblighi che gli sono imposti dal presente Accordo, ed e' inoltre d'avviso che tale inadempienza intralcia seriamente il funzionamento dell'Accordo, esso puo', a maggioranza ripartita di due terzi dei voti, escludere tale Membro dall'Organizzazione. Il Consiglio notifica immediatamente questa esclusione al Segretario Generale dell'Organizzazione delle Nazioni Unite. Novanta giorni dopo la decisione del Consiglio, questo Membro cessa di appartenere all'Organizzazione internazionale del caffe', e, se e' Parte Contraente, di essere Parte dell'Accordo.
 
-#### Articolo 51
+### Articolo 51
 
 Liquidazione dei conti in caso di recesso o di esclusione.
 
@@ -827,7 +799,7 @@ L'Organizzazione conserva le somme gia' versate dal Membro che recede o e' esclu
 
 2\) Il Membro che ha cessato di far parte del presente Accordo non ha diritto a nessuna quota del ricavo della liquidazione o degli altri averi dell'Organizzazione; ad esso non puo' nemmeno essere imputata alcuna parte dell'eventuale disavanzo dell'Organizzazione al momento della cessazione del presente Accordo.
 
-#### Articolo 52
+### Articolo 52
 
 Durata, cessazione o rescissione
 
@@ -841,7 +813,7 @@ Durata, cessazione o rescissione
 
 5\) Qualsiasi decisione adottata riguardo alla durata e/o alla rescissione del presente Accordo e qualsiasi notifica ricevuta dal Consiglio, in conformita' al presente Articolo, sara' debitamente trasmessa dal Consiglio al Segretario Generale delle Nazioni Unite.
 
-#### Articolo 53
+### Articolo 53
 
 Emendamenti
 
@@ -851,7 +823,7 @@ Emendamenti
 
 3\) Il Consiglio notifica al Segretario generale dell'Organizzazione delle Nazioni Unite ogni emendamento divulgato alle Parti Contraenti in forza del presente Articolo.
 
-#### Articolo 54
+### Articolo 54
 
 Disposizioni supplementari e transitorie.
 
@@ -863,7 +835,7 @@ Accordo; e
 
 b) tutte le decisioni che il Consiglio deve prendere durante l'annata caffearia 2000/01 ai fini della loro applicazione nell'annata caffearia 2001/02 sono adottate durante l'annata caffearia 2000/01; esse sono applicate a titolo provvisorio come se il presente Accordo fosse gia' entrato in vigore.
 
-#### ARTICOLO 55
+### ARTICOLO 55
 
 Testi autentici dell'Accordo
 
@@ -871,7 +843,7 @@ I testi del presente Accordo in lingua francese, inglese, portoghese e spagnola 
 
 IN FEDE DI CHE, i sottoscritti a tal fine debitamente autorizzati dai loro rispettivi Governi, hanno firmato il presente Accordo alle date che figurano a fronte della loro firma.
 
-#### Allegato I
+### Allegato I
 
 ALLEGATO I
 

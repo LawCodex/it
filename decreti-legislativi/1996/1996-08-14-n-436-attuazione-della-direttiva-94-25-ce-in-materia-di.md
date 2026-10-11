@@ -22,89 +22,85 @@ retrieved: 2026-10-11
 
 ## Capo I - DISPOSIZIONI GENERALI
 
-#### Art. 1
+### Art. 1
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 LUGLIO 2005, N. 171 ))
 
-#### Art. 2
+### Art. 2
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 LUGLIO 2005, N. 171 ))
 
-#### Art. 3
+### Art. 3
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 LUGLIO 2005, N. 171 ))
 
-#### Art. 4
+### Art. 4
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 LUGLIO 2005, N. 171 ))
 
-#### Art. 5
+### Art. 5
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 LUGLIO 2005, N. 171 ))
 
-#### Art. 6
+### Art. 6
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 LUGLIO 2005, N. 171 ))
 
-#### Art. 7
+### Art. 7
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 LUGLIO 2005, N. 171 ))
 
-#### Art. 8
+### Art. 8
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 LUGLIO 2005, N. 171 ))
 
-#### Art. 9
+### Art. 9
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 LUGLIO 2005, N. 171 ))
 
-#### Art. 10
+### Art. 10
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 LUGLIO 2005, N. 171 ))
 
-## Capo II - DISPOSIZIONI INTEGRATIVE DELLA LEGGE 11 FEBBRAIO 1971, N. 50,
+## Capo II - DISPOSIZIONI INTEGRATIVE DELLA LEGGE 11 FEBBRAIO 1971, N. 50, E SUCCESSIVE MODIFICAZIONI, PER LE UNITA' DA DIPORTO MUNITE DI MARCATURA CE.
 
-### E SUCCESSIVE MODIFICAZIONI, PER LE UNITA' DA DIPORTO MUNITE - DI MARCATURA CE.
-
-#### Art. 11
+### Art. 11
 
 ((IL D.LGS. 18 LUGLIO 2005, N. 171 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### Art. 12
+### Art. 12
 
 ((IL D.LGS. 18 LUGLIO 2005, N. 171 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### Art. 13
+### Art. 13
 
 ((IL D.LGS. 18 LUGLIO 2005, N. 171 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### Art. 14
+### Art. 14
 
 ((IL D.LGS. 18 LUGLIO 2005, N. 171 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-## Capo III - MODIFICHE ALLA LEGGE 11 FEBBRAIO 1971, N. 50
+## Capo III - MODIFICHE ALLA LEGGE 11 FEBBRAIO 1971, N. 50 E SUCCESSIVE MODIFICAZIONI
 
-### E SUCCESSIVE MODIFICAZIONI
-
-#### Art. 15
+### Art. 15
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 LUGLIO 2005, N. 171 ))
 
-#### Art. 16
+### Art. 16
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 LUGLIO 2005, N. 171 ))
 
-#### Art. 17
+### Art. 17
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 LUGLIO 2005, N. 171 ))
 
-#### Art. 18
+### Art. 18
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 LUGLIO 2005, N. 171 ))
 
 ## DISPOSIZIONI TRANSITORIE E FINALI
 
-#### Art. 19
+### Art. 19
 
 Disposizioni transitorie
 
@@ -114,15 +110,15 @@ Disposizioni transitorie
 
 3\. (( COMMA ABROGATO DALLA L. 8 LUGLIO 2003, N. 172 )).
 
-#### Art. 20
+### Art. 20
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 LUGLIO 2005, N. 171 ))
 
-#### Art. 21
+### Art. 21
 
 (( ARTICOLO ABROGATO DAL D.LGS. 18 LUGLIO 2005, N. 171 ))
 
-#### Art. 22
+### Art. 22
 
 Entrata in vigore
 
@@ -152,7 +148,7 @@ Visto, il Guardasigilli: Flick
 
 ## DISPOSIZIONI TRANSITORIE E FINALI
 
-#### Allegato I
+### Allegato I
 
 ALLEGATO I
 
@@ -170,7 +166,7 @@ COMPONENTI
 
 5\. Boccaporti e oblo' prefabbricati.
 
-#### Allegato II
+### Allegato II
 
 ALLEGATO II
 
@@ -422,7 +418,7 @@ b) oppure di dispositivi che consentono l'installazione temporanea di serbatoi i
 
 Inoltre le tubazioni destinate all'evacuazione dei rifiuti umani attraversanti lo scafo debbono essere dotate di valvole che ne consentono la chiusura a tenuta stagna.
 
-#### Allegato III
+### Allegato III
 
 ALLEGATO III
 
@@ -438,7 +434,7 @@ In caso di riduzione o di
 
 ingrandimento della marcatura "CE", dovranno essere rispettate le proporzioni indicate dal grafico di cui sopra. Le dimensioni verticali dei vari elementi della marcatura "CE" devono essere sostanzialmente le stesse, comunque non inferiori ai 5 mm. La marcatura "CE" e' seguita dal numero di identificazione dell'organismo notificato, qualora esso intervenga nel controllo della produzione.
 
-#### Allegato IV
+### Allegato IV
 
 ALLEGATO IV
 
@@ -460,7 +456,7 @@ Nel caso in cui ne' il fabbricante ne' il suo mandatario siano stabiliti nella C
 
 5\. Il fabbricante prende tutte le misure necessarie affinche' il processo di fabbricazione garantisca la conformita' dei prodotti alla documentazione tecnica di cui al paragrafo 2 e ai requisiti del presente decreto.
 
-#### Allegato V
+### Allegato V
 
 ALLEGATO V
 
@@ -482,7 +478,7 @@ Queste prove o calcoli o controlli devono essere eseguiti sotto la responsabilit
 
 Sotto la responsabilita' dell'organismo notificato, il fabbricante affigge il numero distintivo dello stampo utilizzato durante il processo di fabbricazione.
 
-#### Allegato VI
+### Allegato VI
 
 ALLEGATO VI
 
@@ -538,7 +534,7 @@ Nel caso in cui ne' il fabbricante ne' il suo mandatario siano stabiliti nella C
 
 (\*) Uno stesso tipo puo' coprire piu' varianti di un prodotto a condizione che le differenze tra le varianti non influiscano sul livello di sicurezza e su altri requisiti in materia di prestazioni del prodotto.
 
-#### Allegato VII
+### Allegato VII
 
 ALLEGATO VII
 
@@ -556,7 +552,7 @@ CONFORMITA' AL TIPO
 
 Nel caso in cui ne' il fabbricante ne' il suo mandatario siano stabiliti nella Comunita', l'obbligo di tenere a disposizione la documentazione tecnica incombe alla persona responsabile dell'immissione del prodotto nel mercato comunitario (vedi allegato IX).
 
-#### Allegato VIII
+### Allegato VIII
 
 ALLEGATO VIII
 
@@ -590,7 +586,7 @@ DICHIARAZIONE SCRITTA DI CONFORMITA'
 
 (2) Ragione sociale, indirizzo completo; in caso di mandatario indicare altresi' la ragione sociale e li'indirizzo del fabbricante. (3) Descrizione del prodotto di cui trattasi: marca, tipo, numero di serie (se del caso).
 
-#### Allegato IX
+### Allegato IX
 
 ALLEGATO IX
 
@@ -616,7 +612,7 @@ La documentazione deve comprendere, se necesario ai fini della valutazione:
 
 \- i risultati delle prove o specificamente calcoli di stabilita' secondo il punto 3.2. dei requsiiti essenziali e di galleggiabilita' secondo il punto 3.3 dei requisiti essenziali di cui all'allegato II.
 
-#### Allegato X
+### Allegato X
 
 ALLEGATO X
 
@@ -646,7 +642,7 @@ DEGLI ORGANISMI
 
 7\. Il personale dell'organismo e' vincolato al segreto professionale in ordine a tutto cio' di cui venga a conoscenza nell'esercizio delle sue funzioni (salvo che nei confronti delle autorita' amministrative competenti dello Stato in cui esercita le sue attivita') nel quadro del presente decreto o di qualsiasi disposizione esecutiva di diritto interno.
 
-#### Allegatop XI
+### Allegatop XI
 
 ALLEGATO XI
 
@@ -684,7 +680,7 @@ i) documentazione comprovante l'idoneita' dei locali e degli impianti dal punto 
 
 4\. Dell'esito dei lavori di cui ai commi 1, 2 e 3 verra' redatto apposito verbale al fine della emanazione del decreto di autorizazione previsto dall'articolo 7.
 
-#### Allegato XII
+### Allegato XII
 
 ALLEGATO XII
 
@@ -762,7 +758,7 @@ Esso fornisce al fabbricante un rapporto sulla visita e, se sono state svolte pr
 
 6\. Ogni organismo notificato comunica agli altri organismi notificati le informazioni riguardanti le approvazioni dei sistemi qualita' rilasciate o ritirate.
 
-#### Allegato XIII
+### Allegato XIII
 
 ALLEGATO XIII
 
@@ -812,7 +808,7 @@ Il fabbricante puo' apporre, sotto la responsabilita' dell'organismo notificato,
 
 5.5. Il fabbricante o il suo mandatario, deve essere in grado di esibire, a richiesta, gli attestati di conformita' dell'organismo notificato.
 
-#### Allegato XIV
+### Allegato XIV
 
 ALLEGATO XIV
 
@@ -836,7 +832,7 @@ L'organismo notificato appone o fa apporre il proprio numero di identificazione 
 
 3\. La documentazione tecnica deve consentire di valutare la conformita' del prodotto ai requisiti della direttiva, di comprendere il suo progetto, la sua fabbricazione ed il suo funzionamento (vedi allegato IX).
 
-#### Allegato XV
+### Allegato XV
 
 ALLEGATO XV
 

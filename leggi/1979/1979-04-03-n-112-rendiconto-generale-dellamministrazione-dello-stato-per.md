@@ -25,13 +25,13 @@ PROMULGA
 
 la seguente legge:
 
-### ART. 1
+## ART. 1
 
 Il conto consuntivo dello Stato per l'esercizio 1977 e' approvato secondo le risultanze degli articoli seguenti.
 
 ## ENTRATE E SPESE DI COMPETENZA DELL'ESERCIZIO FINANZIARIO 1977
 
-### ART. 2
+## ART. 2
 
 Le entrate tributarie, extra tributarie, per
 
@@ -54,7 +54,7 @@ rimasero da versare... " 1.157.181.475.252
  --------------------- e rimasero da riscuotere..................... L. 1.843.890.155.740 =====================
 ```
 
-### ART. 3
+## ART. 3
 
 Le spese correnti, in conto capitale e per
 
@@ -68,7 +68,7 @@ lite in...................................... L. 63.295.782.742.648 delle quali 
 
 --------------------- e rimasero da pagare......................... L. 12.571.000.695.286 =====================
 
-### ART. 4
+## ART. 4
 
 Il riepilogo generale delle entrate e delle spese di competenza dell'esercizio 1977 risulta stabilito come segue:
 
@@ -82,7 +82,7 @@ Entrate complessive......................... L. 56.967.009.387.763 Spese comples
 
 ## ENTRATE E SPESE RESIDUE DELL'ESERCIZIO FINANZIARIO 1976 ED ESERCIZI - PRECEDENTI
 
-### ART. 5
+## ART. 5
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -97,7 +97,7 @@ rimasero da versare... " 1.175.322.104.579
  --------------------- e rimasero da riscuotere al 31 dicembre 1977. L. 901.389.198.476 =====================
 ```
 
-### ART. 6
+## ART. 6
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -107,7 +107,7 @@ zio 1976 risultano stabiliti in.............. L. 17.269.520.699.964 dei quali fu
 
 ## RESIDUI ATTIVI E PASSIVI ALLA CHIUSURA DELL'ESERCIZIO FINANZIARIO - 1977
 
-### ART. 7
+## ART. 7
 
 I residui attivi alla chiusura dell'esercizio 1977 risultano stabiliti nelle seguenti somme:
 
@@ -123,7 +123,7 @@ gli esercizi precedenti (articolo 5)......... " 901.389.198.476 Somme riscosse e
 
 --------------------- Residui attivi al 31 dicembre 1977... L. 5.077.782.934.047 =====================
 
-### ART. 8
+## ART. 8
 
 I residui passivi alla chiusura dell'esercizio 1977 risultano
 
@@ -147,7 +147,7 @@ sercizi precedenti (articolo 6).............. " 6.889.203.109.419
 
 ## SITUAZIONE FINANZIARIA
 
-### ART. 9
+## ART. 9
 
 Il disavanzo finanziario del conto del tesoro alla fine dell'esercizio 1977 e' accertato nella somma di lire 51.435.190.198.565 come risulta dai seguenti dati:
 
@@ -197,21 +197,21 @@ lita generale dello Stato................... " 47.830
 
 ## DISPOSIZIONI SPECIALI
 
-### ART. 10
+## ART. 10
 
 Sono stabiliti nella somma di lire 47.830 i discarichi consentiti, nell'esercizio 1977, ai tesorieri per casi di forza maggiore, ai sensi dell'articolo 194 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato approvato con regio decreto 23 maggio 1924, n. 827.
 
-### ART. 11
+## ART. 11
 
 Alle spese di cui al capitolo n. 3533 dello stato di previsione della spesa del Ministero della marina mercantile, nonche' alle spese di cui ai capitoli nn. 4012 e 4067 dello stato di previsione della spesa del Ministero dell'agricoltura e delle foreste si applicano, per l'anno finanziario 1977, le disposizioni contenute nel secondo comma dell'articolo 36 del regio decreto 18 novembre 1923, n. 2440, sulla contabilita' generale dello Stato.
 
-### ART. 12
+## ART. 12
 
 Alle gestioni fuori bilancio, indicate nell'articolo 147, secondo comma, della legge 23 aprile 1978, n. 143, derivanti dai movimenti finanziari ed economici operanti nell'ambito dell'Amministrazione militare e sprovviste di personalita' giuridica, si applica, a partire dall'entrata in vigore della legge 25 novembre 1971, n. 1041, la disciplina prevista dall'articolo 9 - secondo e quarto comma - di questa ultima legge.
 
 Pertanto, le gestioni di cui al comma precedente dovranno rendere il conto della loro attivita' relativamente al periodo prima considerato.
 
-### ART. 13
+## ART. 13
 
 Le perdite della Cassa depositi e prestiti, accertate in lire 748.333.694.140 alla data del 31 dicembre 1977 restano compensate con gli utili che la Cassa medesima deve versare al Tesoro, utili che alla medesima data del 31 dicembre 1977 sono stati accertati in lire 518.462.908.725.
 
@@ -219,7 +219,7 @@ Al ripiano della residua perdita di lire 229.870.785.415 si provvede con corrisp
 
 Viene di conseguenza eliminato il residuo attivo complessivo di lire 320.090.840.570, risultante alla data del 1 gennaio 1977 sul capitolo n. 2955 dell'entrata statale, costituito dagli utili relativi agli anni 1973, 1974 e 1975, restando direttamente compensata la quota di lire 198.372.068.155 concernente l'utile per l'anno 1976, da versare al Tesoro.
 
-### ART. 14
+## ART. 14
 
 Sono approvate le eccedenze di impegni risultate in sede di consuntivo sul conto della competenza e sul conto dei residui ai capitoli degli stati di previsione della spesa dei Ministeri sottoindicati per l'esercizio finanziario 1977, come risulta dal dettaglio che segue:
 
@@ -457,7 +457,7 @@ tie professionali........... L. 50.005.769 -
 
 ## AZIENDE SPECIALI ED AUTONOME AZIENDA DI STATO PER LE FORESTE - DEMANIALI
 
-### ART. 15
+## ART. 15
 
 Le entrate correnti ed in conto capitale del
 
@@ -484,7 +484,7 @@ rimasero da versare... " 1.557.060.124
  --------------------- e rimasero da riscuotere..................... L. 8.532.424.030 =====================
 ```
 
-### ART. 16
+## ART. 16
 
 Le spese correnti ed in conto capitale del
 
@@ -498,7 +498,7 @@ tano stabilite in............................ L. 27.822.702.138 delle quali furo
 
 --------------------- e rimasero da pagare......................... L. 18.321.589.241 =====================
 
-### ART. 17
+## ART. 17
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -513,7 +513,7 @@ rimasero da versare... " 87.670.650
  --------------------- e rimasero da riscuotere al 31 dicembre 1977. L. 2.609.143.886 =====================
 ```
 
-### ART. 18
+## ART. 18
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -521,7 +521,7 @@ zio 1976 risultano stabiliti in.............. L. 20.212.896.586 dei quali furono
 
 --------------------- e rimasero da pagare al 31 dicembre 1977..... L. 16.197.007.012 =====================
 
-### ART. 19
+## ART. 19
 
 I residui attivi alla chiusura dell'esercizio 1977 risultano
 
@@ -539,7 +539,7 @@ riepilogo dell'entrata)...................... " 1.644.730.774
 
 --------------------- Residui attivi al 31 dicembre 1977... L. 12.786.298.690 =====================
 
-### ART. 20
+## ART. 20
 
 I residui passivi alla chiusura dell'esercizio 1977 risultano
 
@@ -558,7 +558,7 @@ sercizi precedenti (articolo 18)............. " 16.197.007.012
  =====================
 ```
 
-### ART. 21
+## ART. 21
 
 La situazione finanziaria dell'Azienda di Stato per le foreste demaniali, alla fine dell'esercizio 1977, risulta come appresso:
 
@@ -601,7 +601,7 @@ al 31 dicembre 1977... " 10.198.837.995
 
 ## ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-### ART. 22
+## ART. 22
 
 Le entrate correnti dell'istituto agronomico
 
@@ -619,7 +619,7 @@ affari esteri, in............................ L. 341.794.485 delle quali furono 
 
 ---------------------
 
-### ART. 23
+## ART. 23
 
 Le spese correnti dell'Istituto predetto,
 
@@ -631,7 +631,7 @@ mo, risultano stabilite in................... L. 341.794.485 delle quali furono 
 
 --------------------- e rimasero da pagare......................... L. 82.444.436 =====================
 
-### ART. 24
+## ART. 24
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -639,7 +639,7 @@ zio 1976 risultano stabiliti in.............. L. 1.224.750 dei quali furono vers
 
 --------------------- e rimasero da riscuotere al 31 dicembre 1977. L. 1.219.950 =====================
 
-### ART. 25
+## ART. 25
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -647,11 +647,11 @@ zio 1976 risultano stabiliti in.............. L. 81.475.834 dei quali furono pag
 
 --------------------- e rimasero da pagare al 31 dicembre 1977..... L. 7.278.274 =====================
 
-### ART. 26
+## ART. 26
 
 I residui attivi alla chiusura dell'esercizio 1977 risultano stabiliti in lire 1.219.950 relativi a somme rimaste da riscuotere sui residui alla chiusura dell'esercizio 1976 (articolo 24).
 
-### ART. 27
+## ART. 27
 
 I residui passivi alla chiusura dell'esercizio 1977 risultano
 
@@ -672,7 +672,7 @@ Residui passivi al 31 dicembre 1977... L. 89.722.710 =====================
 
 ## AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-### ART. 28
+## ART. 28
 
 Le entrate correnti, il conto capitale e per
 
@@ -703,7 +703,7 @@ rimasero da versare... " 31.292.429.490
  --------------------- e rimasero da riscuotere..................... L. 66.783.518.719 =====================
 ```
 
-### ART. 29
+## ART. 29
 
 Le spese correnti, in conto capitale e per
 
@@ -721,7 +721,7 @@ in........................................... L. 598.525.038.432 delle quali fur
 
 --------------------- e rimasero da pagare......................... L. 110.045.459.699 =====================
 
-### ART. 30
+## ART. 30
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -733,7 +733,7 @@ rimasero da versare... " 410.743.065
 
 --------------------- " 30.055.638.103 e rimasero da riscuotere al 31 dicembre 1977. L. 118.389.141.145
 
-### ART. 31
+## ART. 31
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -741,7 +741,7 @@ zio 1976 risultano stabiliti in.............. L. 103.310.377.447 dei quali furon
 
 --------------------- e rimasero da pagare al 31 dicembre 1977..... L. 22.608.492.722 =====================
 
-### ART. 32
+## ART. 32
 
 I residui attivi alla chiusura dell'esercizio 1977 risultano
 
@@ -759,7 +759,7 @@ riepilogo dell'entrata)...................... " 31.703.172.555
 
 --------------------- Residui attivi al 31 dicembre 1977... L. 216.875.832.419 =====================
 
-### ART. 33
+## ART. 33
 
 I residui passivi alla chiusura dell'esercizio 1977 risultano
 
@@ -775,7 +775,7 @@ sercizi precedenti (articolo 31)............. " 22.608.492.722
 
 --------------------- Residui passivi al 31 dicembre 1977... L. 132.653.952.421 =====================
 
-### ART. 34
+## ART. 34
 
 La situazione finanziaria dell'Amministrazione autonoma dei Monopoli di Stato, alla fine dell'esercizio 1977, risulta come appresso:
 
@@ -794,7 +794,7 @@ Saldo passivo al 1 gennaio 1977............. L. 3.238.132 Spese dell'esercizio 1
 
 --------------------- Totale del passivo... L. 598.528.276.564 =====================
 
-### ART. 35
+## ART. 35
 
 Per la copertura del disavanzo di gestione dell'esercizio finanziario 1977 accertato per l'Amministrazione autonoma dei monopoli di Stato, la Cassa depositi e prestiti e' autorizzata a concedere all'Amministrazione predetta sui fondi dei conti correnti postali, di cui all'articolo 1 del decreto legislativo luogotenenziale 22 novembre 1945, n. 822, anticipazioni per complessive lire 45.678.458.632, estinguibili in 35 anni al saggio vigente per i mutui all'epoca della concessione.
 
@@ -806,7 +806,7 @@ L'onere relativo fara' carico al bilancio dello Stato.
 
 ## ARCHIVI NOTARILI
 
-### ART. 36
+## ART. 36
 
 E' approvato il conto consuntivo degli Archivi notarili per l'esercizio finanziario 1977, nelle risultanze seguenti:
 
@@ -816,7 +816,7 @@ Entrate..................................... L. 46.649.093.571 Spese............
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-### ART. 37
+## ART. 37
 
 Le entrate correnti ed in conto capitale del
 
@@ -843,7 +843,7 @@ rimasero da versare... " 3.808.699
  --------------------- e rimasero da riscuotere..................... L. 9.615.481.744 =====================
 ```
 
-### ART. 38
+## ART. 38
 
 Le spese correnti ed in conto capitale del
 
@@ -857,7 +857,7 @@ sultano stabilite in......................... L. 51.084.311.596 delle quali furo
 
 --------------------- e rimasero da pagare......................... L. 12.023.022.459 =====================
 
-### ART. 39
+## ART. 39
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -872,7 +872,7 @@ rimasero da versare... " 2.038.673
  --------------------- e rimasero da riscuotere al 31 dicembre 1977. L. 12.944.569 =====================
 ```
 
-### ART. 40
+## ART. 40
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -880,7 +880,7 @@ zio 1976 risultano stabiliti in.............. L. 2.289.615.262 dei quali furono 
 
 --------------------- e rimasero da pagare al 31 dicembre 1977..... L. 203.477.340 =====================
 
-### ART. 41
+## ART. 41
 
 I residui attivi alla chiusura dell'esercizio 1977 risultano stabiliti nelle seguenti somme:
 
@@ -902,7 +902,7 @@ Residui attivi al 31 dicembre 1977... L. 9.634.273.685
  =====================
 ```
 
-### ART. 42
+## ART. 42
 
 I residui passivi alla chiusura dell'esercizio 1977 risultano stabiliti nelle seguenti somme:
 
@@ -916,7 +916,7 @@ sercizi precedenti (articolo 40)............. " 203.477.340
 
 --------------------- Residui passivi al 31 dicembre 1977.......... L. 12.226.499.799 =====================
 
-### ART. 43
+## ART. 43
 
 La situazione finanziaria dell'Amministrazione del Fondo per il culto, alla fine dell'esercizio 1977, risulta come segue:
 
@@ -956,7 +956,7 @@ al 31 dicembre 1977... " 96.609.973
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-### ART. 44
+## ART. 44
 
 Le entrate correnti ed in conto capitale del
 
@@ -983,7 +983,7 @@ rimasero da versare... " 60.962
  --------------------- e rimasero da riscuotere..................... L. 444.166 =====================
 ```
 
-### ART. 45
+## ART. 45
 
 Le spese correnti ed in conto capitale del
 
@@ -997,7 +997,7 @@ risultano stabilite in....................... L. 1.094.087.210 delle quali furon
 
 --------------------- e rimasero da pagare......................... L. 370.203.815 =====================
 
-### ART. 46
+## ART. 46
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1012,7 +1012,7 @@ rimasero da versare... " 21.777
  --------------------- e rimasero da riscuotere al 31 dicembre 1977. L. 532.633 =====================
 ```
 
-### ART. 47
+## ART. 47
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1020,7 +1020,7 @@ zio 1976 risultano stabiliti in.............. L. 435.720.030 dei quali furono pa
 
 --------------------- e rimasero da pagare al 31 dicembre 1977..... L. 240.379.851 =====================
 
-### ART. 48
+## ART. 48
 
 I residui attivi alla chiusura dell'esercizio 1977 risultano
 
@@ -1041,7 +1041,7 @@ riepilogo dell'entrata)...................... " 82.739
  =====================
 ```
 
-### ART. 49
+## ART. 49
 
 I residui passivi alla chiusura dell'esercizio 1977 risultano
 
@@ -1061,7 +1061,7 @@ Residui passivi al 31 dicembre 1977... L. 610.583.666
  =====================
 ```
 
-### ART. 50
+## ART. 50
 
 La situazione finanziaria del Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1977, risulta come segue:
 
@@ -1102,7 +1102,7 @@ al 31 dicembre 1977... " 893.248
 
 ## PATRIMONI RIUNITI EX ECONOMALI
 
-### ART. 51
+## ART. 51
 
 Le entrate correnti ed in conto capitale
 
@@ -1127,7 +1127,7 @@ rimasero da versare... " 24.831.733
  --------------------- rimasero da riscuotere....................... L. 45.586.579 =====================
 ```
 
-### ART. 52
+## ART. 52
 
 Le spese correnti ed in conto capitale del-
 
@@ -1139,7 +1139,7 @@ dell'esercizio stesso, risultano stabilite in L. 730.744.418 delle quali furono 
 
 --------------------- e rimasero da pagare......................... L. 143.121.830 =====================
 
-### ART. 53
+## ART. 53
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1147,7 +1147,7 @@ zio 1976 risultano stabiliti in.............. L. 144.517.708 dei quali nell'eser
 
 --------------------- e rimasero da riscuotere al 31 dicembre 1977. L. 5.646.641 =====================
 
-### ART. 54
+## ART. 54
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1155,7 +1155,7 @@ zio 1976 risultano stabiliti in.............. L. 167.137.108 dei quali furono pa
 
 --------------------- e rimasero da pagare al 31 dicembre 1977..... L. 69.436.390 =====================
 
-### ART. 55
+## ART. 55
 
 I residui attivi alla chiusura dell'esercizio 1977 risultano
 
@@ -1173,7 +1173,7 @@ riepilogo dell'entrata)...................... " 47.760.011
 
 --------------------- Residui attivi al 31 dicembre 1977... L. 98.993.231 =====================
 
-### ART. 56
+## ART. 56
 
 I residui passivi alla chiusura dell'esercizio 1977 risultano
 
@@ -1189,7 +1189,7 @@ sercizi precedenti (articolo 54)............. " 69.486.390
 
 --------------------- Residui passivi al 31 dicembre 1977... L. 212.608.220 =====================
 
-### ART. 57
+## ART. 57
 
 La situazione finanziaria dell'Azienda dei patrimoni riuniti ex economali, alla fine dell'esercizio 1977, risulta come segue:
 
@@ -1231,7 +1231,7 @@ Spese dell'esercizio 1977.................... L. 730.744.418
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE
 
-### ART. 58
+## ART. 58
 
 Le entrate correnti, in conto capitale e per
 
@@ -1251,7 +1251,7 @@ del Ministero dei lavori pubblici, in........ L. 933.831.312.838 delle quali fur
 
 --------------------- e rimasero da riscuotere..................... L. 17.573.957.129 =====================
 
-### ART. 59
+## ART. 59
 
 Le spese correnti, in conto capitale e per
 
@@ -1265,7 +1265,7 @@ sercizio medesimo, risultano stabilite in.... L. 933.831.312.838 delle quali fur
 
 --------------------- e rimasero da pagare......................... L. 396.717.067.620 =====================
 
-### ART. 60
+## ART. 60
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1275,7 +1275,7 @@ furono versati.............................. " 4.506.110 rimasero da versare....
 
 --------------------- e rimasero da riscuotere al 31 dicembre 1977. L. 985.895.483.132 =====================
 
-### ART. 61
+## ART. 61
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1283,7 +1283,7 @@ zio 1976 risultano stabiliti in.............. L. 896.765.682.231 dei quali furon
 
 --------------------- e rimasero da pagare al 31 dicembre 1977..... L. 482.758.171.845 =====================
 
-### ART. 62
+## ART. 62
 
 I residui attivi alla chiusura dell'esercizio 1977 risultano
 
@@ -1299,7 +1299,7 @@ gli esercizi precedenti (articolo 60)........ " 985.895.483.132
 
 --------------------- Residui attivi al 31 dicembre 1977... L. 1.003.469.440.261 ====================
 
-### ART. 63
+## ART. 63
 
 I residui passivi alla chiusura dell'esercizio 1977 risultano
 
@@ -1317,7 +1317,7 @@ sercizi precedenti (articolo 61)............. " 482.758.171.845
 
 ## AMMINISTRAZIONE AUTONOMA DELLE POSTE E DELLE TELECOMUNICAZIONI
 
-### ART. 64
+## ART. 64
 
 Le entrate correnti, in conto capitale e per
 
@@ -1339,7 +1339,7 @@ telecomunicazioni, in........................ L. 2.479.518.000.300 delle quali f
 
 --------------------- e rimasero da riscuotere..................... L. 1.259.822.219.269 =====================
 
-### ART. 65
+## ART. 65
 
 Le spese correnti, in conto capitale e per
 
@@ -1353,7 +1353,7 @@ cizio medesimo, risultano stabilite in....... L. 2.479.518.000.300 delle quali f
 
 --------------------- e rimasero da pagare......................... L. 1.102.601.093.753 =====================
 
-### ART. 66
+## ART. 66
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1363,7 +1363,7 @@ e versati.................................. " 736.123.392.507
 
 --------------------- e rimasero da riscuotere al 31 dicembre 1977. L. 632.574.639.585 =====================
 
-### ART. 67
+## ART. 67
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1371,7 +1371,7 @@ zio 1976 risultano stabiliti in.............. L. 1.404.848.806.730 dei quali nel
 
 --------------------- e rimasero da pagare al 31 dicembre 1977..... L. 577.981.397.962 =====================
 
-### ART. 68
+## ART. 68
 
 I residui attivi alla chiusura dell'esercizio 1977 risultano
 
@@ -1387,7 +1387,7 @@ gli esercizi precedenti (articolo 66)........ " 632.574.639.585
 
 --------------------- Residui attivi al 31 dicembre 1977... L. 1.892.396.858.854 =====================
 
-### ART. 69
+## ART. 69
 
 I residui passivi alla chiusura dell'esercizio 1977 risultano
 
@@ -1403,7 +1403,7 @@ sercizi precedenti (articolo 67)............. " 577.981.397.962
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### ART. 70
+## ART. 70
 
 Le entrate correnti, in conto capitale e per
 
@@ -1427,7 +1427,7 @@ furono versate.............................. " 679.780.101.860 rimasero da versa
 
 --------------------- e rimasero da riscuotere..................... L. 220.043.609.930 =====================
 
-### ART. 71
+## ART. 71
 
 Le spese correnti, in conto capitale e per
 
@@ -1441,7 +1441,7 @@ sercizio medesimo, risultano stabilite in.... L. 900.017.884.153 delle quali fur
 
 --------------------- e rimasero da pagare......................... L. 458.815.220.332 =====================
 
-### ART. 72
+## ART. 72
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1456,7 +1456,7 @@ rimasero da versare.. " 1.600.378.455
  --------------------- e rimasero da riscuotere al 31 dicembre 1977. L. 19.416.249.271 =====================
 ```
 
-### ART. 73
+## ART. 73
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1464,7 +1464,7 @@ zio 1976 risultano stabiliti in.............. L. 490.659.313.604 dei quali nell'
 
 --------------------- e rimasero da pagare al 31 dicembre 1977..... L. 202.766.566.136 =====================
 
-### ART. 74
+## ART. 74
 
 I residui attivi alla chiusura dell'esercizio 1977 risultano
 
@@ -1482,7 +1482,7 @@ riepilogo dell'entrata)...................... " 1.794.550.818
 
 --------------------- Residui attivi al 31 dicembre 1977... L. 241.254.410.019 =====================
 
-### ART. 75
+## ART. 75
 
 I residui passivi alla chiusura dell'esercizio 1977 risultano stabiliti nelle seguenti somme:
 
@@ -1498,7 +1498,7 @@ sercizi precedenti (articolo 73)............. " 202.766.566.136
 
 ## AZIENDA AUTONOMA DELLE FERROVIE DELLO STATO
 
-### ART. 76
+## ART. 76
 
 Le entrate correnti, in conto capitale e per
 
@@ -1520,7 +1520,7 @@ consuntivo del Ministero dei trasporti, in... L. 9.056.729.036.616 delle quali f
 
 --------------------- e rimasero da riscuotere..................... L. 1.380.073.862.733 =====================
 
-### ART. 77
+## ART. 77
 
 Le spese correnti, in conto capitale e per
 
@@ -1534,7 +1534,7 @@ zio finanziario 1977, risultano stabilite in L. 9.056.729.036.616 delle quali fu
 
 --------------------- e rimasero da pagare......................... L. 1.665.145.803.070 =====================
 
-### ART. 78
+## ART. 78
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Azienda autonoma delle ferrovie dello Stato, di competenza dell'esercizio 1977, risulta cosi' stabilito:
 
@@ -1550,7 +1550,7 @@ tonome).................................. L. 4.174.277.994.119 Spese delle gesti
 
 --------------------- L. 9.056.729.036.616 =====================
 
-### ART. 79
+## ART. 79
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1560,7 +1560,7 @@ e versati.................................. " 783.331.840.573
 
 --------------------- e rimasero da riscuotere al 31 dicembre 1977. L. 782.180.092.991 =====================
 
-### ART. 80
+## ART. 80
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1568,7 +1568,7 @@ zio 1976 risultano stabiliti in.............. L. 2.195.581.148.393 dei quali nel
 
 --------------------- e rimasero da pagare al 31 dicembre 1977..... L. 786.745.365.044 =====================
 
-### ART. 81
+## ART. 81
 
 I residui attivi alla chiusura dell'esercizio 1977 risultano
 
@@ -1584,7 +1584,7 @@ gli esercizi precedenti (articolo 79)........ " 782.180.092.991
 
 --------------------- Residui attivi al 31 dicembre 1977... L. 2.162.253.955.724 =====================
 
-### ART. 82
+## ART. 82
 
 I residui passivi alla chiusura dell'esercizio 1977 risultano
 

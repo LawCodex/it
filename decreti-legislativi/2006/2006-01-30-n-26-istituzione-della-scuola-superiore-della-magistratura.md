@@ -114,9 +114,9 @@ o) alla collaborazione alle attivita' connesse con lo svolgimento del tirocinio 
 
 3\. L'organizzazione della Scuola e' disciplinata dallo statuto e dai regolamenti adottati ai sensi dell'articolo 5, comma 2.
 
-## Capo II - Organizzazione
+### Capo II - Organizzazione
 
-### Sezione I - Statuto e organi
+#### Sezione I - Statuto e organi
 
 ##### Art. 3
 
@@ -138,7 +138,7 @@ b) il presidente;
 
 c) il segretario generale.))
 
-## Sezione II - IL COMITATO DIRETTIVO
+#### Sezione II - IL COMITATO DIRETTIVO
 
 ##### Art. 5 - Composizione e funzioni
 
@@ -190,7 +190,7 @@ Incompatibilita'
 
 2\. La misura dell'indennita' di funzione e del gettone di presenza di cui al comma 1 e' stabilita con decreto del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze, da adottare entro sessanta giorni dalla data di entrata in vigore della presente disposizione, tenuto conto del trattamento attribuito per analoghe funzioni presso la Scuola nazionale dell'amministrazione)).
 
-## Sezione III - IL PRESIDENTE
+#### Sezione III - IL PRESIDENTE
 
 ##### Art. 11
 
@@ -200,7 +200,7 @@ Incompatibilita'
 
 2\. Le modalita' di sostituzione del presidente in caso di assenza o impedimento sono disciplinate dallo statuto.))
 
-## Sezione IV - ((I RESPONSABILI DI SETTORE))
+#### Sezione IV - ((I RESPONSABILI DI SETTORE))
 
 ##### Art. 12 - Funzioni
 
@@ -242,7 +242,7 @@ g) lo svolgimento delle sessioni presentando, all'esito di ciascuna di esse, rel
 
 ((ARTICOLO ABROGATO DALLA L. 30 LUGLIO 2007, N. 111))
 
-## ((Sezione IV-bis - IL SEGRETARIO GENERALE))
+#### ((Sezione IV-bis - IL SEGRETARIO GENERALE))
 
 ##### Art. 17-bis
 
@@ -272,7 +272,7 @@ e) esercita ogni altra funzione conferitagli dallo statuto e dai regolamenti int
 
 ((3-bis. Al segretario generale, se magistrato ordinario collocato fuori dal ruolo organico della magistratura, nel rispetto della disciplina di cui all'articolo 58, secondo comma, del testo unico di cui al decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, a fronte delle specifiche responsabilita' connesse all'incarico attribuito, e' corrisposto un trattamento economico accessorio annuo lordo di importo non superiore alla misura di cui all'articolo 23-ter del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, nel rispetto del limite fissato dall'articolo 13, comma 1, del decreto-legge 24 aprile 2014, n. 66, convertito, con modificazioni, dalla legge 23 giugno 2014. n. 89)).
 
-## ((Sezione IV-ter - IL VICE SEGRETARIO GENERALE))
+#### ((Sezione IV-ter - IL VICE SEGRETARIO GENERALE))
 
 ##### Art. 17-quater
 
@@ -352,7 +352,7 @@ AGGIORNAMENTO (4)
 
 Il D.L. 31 agosto 2016, n. 168, convertito con modificazioni dalla L. 25 ottobre 2016, n. 197, ha disposto (con l'art. 2, comma 3) che "In deroga a quanto previsto dalle disposizioni del titolo II del decreto legislativo 30 gennaio 2006, n. 26, e al fine di consentire una piu' celere copertura delle vacanze nell'organico degli uffici giudiziari di primo grado, il tirocinio dei magistrati ordinari dichiarati idonei all'esito di concorsi banditi negli anni 2014 e 2015 e nominati con decreto ministeriale adottato a norma dell'articolo 8 del decreto legislativo 5 aprile 2006, n. 160, ad eccezione dei magistrati ordinari vincitori del concorso riservato alla provincia autonoma di Bolzano bandito con decreto del Ministro della giustizia 4 settembre 2014, pubblicato nella Gazzetta Ufficiale - 4ª serie speciale - n. 71 del 12 dicembre 2014, e nominati con decreto del Ministro della giustizia 10 dicembre 2015, ha, in via straordinaria, la durata di dodici mesi e si articola in sessioni, una delle quali della durata di un mese effettuata presso la Scuola superiore della magistratura ed una della durata di undici mesi, anche non consecutivi, effettuata presso gli uffici giudiziari".
 
-## Capo II - Sessione presso la Scuola
+### Capo II - Sessione presso la Scuola
 
 ##### Art. 20 - Contenuto e modalita' di svolgimento
 
@@ -372,7 +372,7 @@ AGGIORNAMENTO (4)
 
 Il D.L. 31 agosto 2016, n. 168, convertito con modificazioni dalla L. 25 ottobre 2016, n. 197, ha disposto (con l'art. 2, comma 3) che "In deroga a quanto previsto dalle disposizioni del titolo II del decreto legislativo 30 gennaio 2006, n. 26, e al fine di consentire una piu' celere copertura delle vacanze nell'organico degli uffici giudiziari di primo grado, il tirocinio dei magistrati ordinari dichiarati idonei all'esito di concorsi banditi negli anni 2014 e 2015 e nominati con decreto ministeriale adottato a norma dell'articolo 8 del decreto legislativo 5 aprile 2006, n. 160, ad eccezione dei magistrati ordinari vincitori del concorso riservato alla provincia autonoma di Bolzano bandito con decreto del Ministro della giustizia 4 settembre 2014, pubblicato nella Gazzetta Ufficiale - 4ª serie speciale - n. 71 del 12 dicembre 2014, e nominati con decreto del Ministro della giustizia 10 dicembre 2015, ha, in via straordinaria, la durata di dodici mesi e si articola in sessioni, una delle quali della durata di un mese effettuata presso la Scuola superiore della magistratura ed una della durata di undici mesi, anche non consecutivi, effettuata presso gli uffici giudiziari".
 
-## Capo III - Sessione presso gli uffici giudiziari
+### Capo III - Sessione presso gli uffici giudiziari
 
 ##### Art. 21
 
@@ -402,7 +402,7 @@ b) due mesi, per il secondo periodo;
 
 c) sei mesi, per il terzo periodo".
 
-## Capo IV - Valutazione finale
+### Capo IV - Valutazione finale
 
 ##### Art. 22
 
@@ -426,11 +426,9 @@ AGGIORNAMENTO (4)
 
 Il D.L. 31 agosto 2016, n. 168, convertito con modificazioni dalla L. 25 ottobre 2016, n. 197, ha disposto (con l'art. 2, comma 3) che "In deroga a quanto previsto dalle disposizioni del titolo II del decreto legislativo 30 gennaio 2006, n. 26, e al fine di consentire una piu' celere copertura delle vacanze nell'organico degli uffici giudiziari di primo grado, il tirocinio dei magistrati ordinari dichiarati idonei all'esito di concorsi banditi negli anni 2014 e 2015 e nominati con decreto ministeriale adottato a norma dell'articolo 8 del decreto legislativo 5 aprile 2006, n. 160, ad eccezione dei magistrati ordinari vincitori del concorso riservato alla provincia autonoma di Bolzano bandito con decreto del Ministro della giustizia 4 settembre 2014, pubblicato nella Gazzetta Ufficiale - 4ª serie speciale - n. 71 del 12 dicembre 2014, e nominati con decreto del Ministro della giustizia 10 dicembre 2015, ha, in via straordinaria, la durata di dodici mesi e si articola in sessioni, una delle quali della durata di un mese effettuata presso la Scuola superiore della magistratura ed una della durata di undici mesi, anche non consecutivi, effettuata presso gli uffici giudiziari".
 
-## TITOLO III - disposizioni in tema di aggiornamento
+## TITOLO III - disposizioni in tema di aggiornamento professionale e formazione dei magistrati
 
-### professionale e formazione dei magistrati - Capo I
-
-#### Disposizioni generali
+### Capo I - Disposizioni generali
 
 ##### Art. 23
 
@@ -438,7 +436,7 @@ Il D.L. 31 agosto 2016, n. 168, convertito con modificazioni dalla L. 25 ottobre
 
 ((1. Ai fini della formazione e dell'aggiornamento professionale, nonche' per il passaggio dalla funzione giudicante a quella requirente e viceversa e per lo svolgimento delle funzioni direttive, il comitato direttivo approva annualmente, ai sensi dell'articolo 5, comma 2, il piano dei relativi corsi nell'ambito dei programmi didattici deliberati, tenendo conto della diversita' delle funzioni svolte dai magistrati.))
 
-## Capo II - Corsi di formazione e di aggiornamento professionale
+### Capo II - Corsi di formazione e di aggiornamento professionale
 
 ##### Art. 24
 
@@ -470,9 +468,7 @@ L'albo e' aggiornato annualmente dal comitato direttivo in base alle nuove dispo
 
 ((ARTICOLO ABROGATO DALLA L. 30 LUGLIO 2007, N. 111))
 
-## Capo II-bis - ((Corsi di formazione a seguito del conferimento e della conferma
-
-### degli incarichi direttivi e semidirettivi di primo e di secondo grado))
+### Capo II-bis - ((Corsi di formazione a seguito del conferimento e della conferma degli incarichi direttivi e semidirettivi di primo e di secondo grado))
 
 ##### Art. 26-bis - Oggetto
 
@@ -482,9 +478,7 @@ L'albo e' aggiornato annualmente dal comitato direttivo in base alle nuove dispo
 
 3\. Sono esonerati dalla partecipazione al corso di formazione di cui al comma 1 i magistrati che abbiano frequentato un corso analogo a quello di cui al comma 1 nei cinque anni antecedenti al conferimento o alla conferma dell'incarico.
 
-## Capo III - Corsi di formazione per il passaggio a funzioni superiori, per il
-
-### passaggio da funzioni giudicanti a requirenti e viceversa e per - l'accesso a funzioni direttive.
+### Capo III - Corsi di formazione per il passaggio a funzioni superiori, per il passaggio da funzioni giudicanti a requirenti e viceversa e per l'accesso a funzioni direttive.
 
 ##### Art. 27
 
@@ -494,9 +488,9 @@ L'albo e' aggiornato annualmente dal comitato direttivo in base alle nuove dispo
 
 ((ARTICOLO ABROGATO DALLA L. 30 LUGLIO 2007, N. 111))
 
-## Capo IV - Valutazioni periodiche dei magistrati
+### Capo IV - Valutazioni periodiche dei magistrati
 
-### Sezione I - PRIMA VALUTAZIONE
+#### Sezione I - PRIMA VALUTAZIONE
 
 ##### Art. 29
 
@@ -510,7 +504,7 @@ L'albo e' aggiornato annualmente dal comitato direttivo in base alle nuove dispo
 
 ((ARTICOLO ABROGATO DALLA L. 30 LUGLIO 2007, N. 111))
 
-## Sezione II - VALUTAZIONI SUCCESSIVE
+#### Sezione II - VALUTAZIONI SUCCESSIVE
 
 ##### Art. 32
 

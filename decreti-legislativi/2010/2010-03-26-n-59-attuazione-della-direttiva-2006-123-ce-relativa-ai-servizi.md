@@ -42,9 +42,11 @@ EMANA
 
 il seguente decreto legislativo:
 
-## PARTE PRIMA - Titolo I - Disposizioni generali
+## PARTE PRIMA
 
-### Capo I - (Ambito di applicazione)
+### Titolo I - Disposizioni generali
+
+#### Capo I - (Ambito di applicazione)
 
 ##### Art. 1 - Oggetto e finalita'
 
@@ -212,7 +214,7 @@ f) ai servizi forniti da notai.
 
 f-bis) ((LETTERA ABROGATA DALLA L. 30 DICEMBRE 2023, N. 214)).
 
-## Capo II - (Definizioni e principi generali)
+#### Capo II - (Definizioni e principi generali)
 
 ##### Art. 8 - Definizioni
 
@@ -272,11 +274,9 @@ n) comunicazione commerciale: qualsiasi forma di comunicazione destinata a promu
 
 > \- La direttiva 2005/36/CE e' pubblicata nella nella G.U.U.E. 30 settembre 2005, n. L 255.
 
-## Titolo II - Disposizioni in materia di accesso ed esercizio - delle attivita' di servizi
+### Titolo II - Disposizioni in materia di accesso ed esercizio - delle attivita' di servizi
 
-### Capo I - (Disposizioni generali sull'accesso e l'esercizio
-
-#### delle attivita' di servizi)
+#### Capo I - (Disposizioni generali sull'accesso e l'esercizio delle attivita' di servizi)
 
 ##### Art. 10 - Liberta' di accesso ed esercizio delle attivita' di servizi
 
@@ -354,7 +354,7 @@ h) l'obbligo per il prestatore di fornire, insieme al suo servizio, altri serviz
 
 > \- La direttiva 98/34/CE e' pubblicata nella G.U.C.E. 21 luglio 1998, n. L 204.
 
-## Capo II - Disposizioni generali in materia di regimi autorizzatori
+#### Capo II - Disposizioni generali in materia di regimi autorizzatori
 
 ##### Art. 14 - Regimi autorizzatori
 
@@ -444,7 +444,7 @@ c) limitazione della durata giustificata da un motivo imperativo di interesse ge
 
 4\. E' consentita la previsione di un termine, anche a pena di decadenza, entro il quale il prestatore deve iniziare l'attivita' per la quale ha conseguito il titolo, salvo che non vi siano giustificati motivi per il mancato avvio.
 
-## Titolo III - Libera prestazione dei servizi
+### Titolo III - Libera prestazione dei servizi
 
 ##### Art. 20
 
@@ -570,7 +570,7 @@ q) alle disposizioni riguardanti obblighi contrattuali e non contrattuali, compr
 
 1\. I cittadini italiani e i soggetti giuridici costituiti conformemente alla legislazione nazionale che sono stabiliti in Italia possono invocare l'applicazione delle disposizioni del presente titolo, nonche' di quelle richiamate all'articolo 20, comma 3.
 
-## Titolo IV - Semplificazione amministrativa
+### Titolo IV - Semplificazione amministrativa
 
 ##### Art. 25 - Sportello unico
 
@@ -740,7 +740,7 @@ e) i dati di associazioni o organizzazioni diverse dalle autorita' competenti pr
 
 > c) attestato di iscrizione alla organizzazione professionale dello Stato membro di origine, rilasciato in data non antecedente a tre mesi dalla data di presentazione, o dichiarazione sostitutiva.».
 
-## Titolo V - Disposizioni a tutela dei destinatari
+### Titolo V - Disposizioni a tutela dei destinatari
 
 ##### Art. 28 - Restrizioni vietate
 
@@ -772,7 +772,7 @@ c) i dati delle associazioni o organizzazioni, compresi gli sportelli della rete
 
 2\. Per le imprese destinatarie di attivita' di servizi, le informazioni di cui al comma 1 sono fornite dal sistema delle Camere di commercio, dell'industria, dell'artigianato e dell'agricoltura.
 
-## Titolo VI - Qualita' dei servizi
+### Titolo VI - Qualita' dei servizi
 
 ##### Art. 31 - Informazioni sui prestatori e sui loro servizi
 
@@ -898,7 +898,7 @@ b) sono garantite l'indipendenza e l'imparzialita' che talune attivita' richiedo
 
 c) e' assicurata la compatibilita' delle regole di deontologia professionale e di condotta relative alle diverse attivita', soprattutto in materia di segreto professionale.
 
-## Titolo VII - Collaborazione amministrativa
+### Titolo VII - Collaborazione amministrativa
 
 ##### Art. 36 - Cooperazione tra autorita' nazionali competenti
 
@@ -1022,9 +1022,9 @@ b) le misure che prevede di assumere rispettino le condizioni di cui all'articol
 
 6\. In caso di urgenza, non si applicano le disposizioni di cui ai commi 2, 3, e 5 e le misure sono notificate con la massima sollecitudine, tramite la Presidenza del Consiglio - Dipartimento per il coordinamento delle politiche comunitarie alla Commissione e allo Stato membro di stabilimento del prestatore, specificando i motivi che giustificano l'urgenza.
 
-## PARTE SECONDA - Titolo I
+## PARTE SECONDA
 
-### (Disposizioni relative ai procedimenti - di competenza del Ministero della giustizia)
+### Titolo I - (Disposizioni relative ai procedimenti di competenza del Ministero della giustizia)
 
 ##### Art. 44
 
@@ -2088,9 +2088,7 @@ e istituzione dell'albo professionale)
 
 > 2\. Con i decreti del Presidente della Repubblica di cui all'art. 9 della legge 19 novembre 1990, n. 341 , e' definito l'ordinamento didattico del corso di diploma universitario di cui al comma 1.».
 
-## Titolo II - (Disposizioni relative ad alcuni procedimenti
-
-### di competenza del Ministero dello sviluppo economico)
+### Titolo II - (Disposizioni relative ad alcuni procedimenti di competenza del Ministero dello sviluppo economico)
 
 ##### Art. 64 - Somministrazione di alimenti e bevande
 
@@ -2466,9 +2464,7 @@ b) gli articoli 3 e 4 del regolamento di cui al regio decreto 16 gennaio 1927, n
 
 ((1-bis. Le violazioni delle disposizioni di cui al comma 1 sono valutate ai fini della individuazione di eventuali azioni ingannevoli o omissioni ingannevoli ai sensi degli articoli 21 e 22 del decreto legislativo 6 settembre 2005, n. 206, e successive modificazioni, recante il codice del consumo, anche ai fini dell'applicazione delle sanzioni di cui all'articolo 27 del medesimo codice.))
 
-## Titolo III - (Disposizioni relative ai procedimenti
-
-### di competenza di altre Amministrazioni)
+### Titolo III - (Disposizioni relative ai procedimenti di competenza di altre Amministrazioni)
 
 ##### Art. 82 - Attivita' di spedizioniere doganale
 
@@ -2508,9 +2504,9 @@ Possono, inoltre, essere ammessi agli esami, coloro che, in possesso del diploma
 
 ((ARTICOLO ABROGATO DAL D.LGS. 23 MAGGIO 2011, N. 79))
 
-## PARTE TERZA - Titolo I
+## PARTE TERZA
 
-### (Disposizioni relative ai - procedimenti di competenza regionale)
+### Titolo I - (Disposizioni relative ai procedimenti di competenza regionale)
 
 ##### Art. 84 - Clausola di cedevolezza
 
@@ -2532,9 +2528,9 @@ Possono, inoltre, essere ammessi agli esami, coloro che, in possesso del diploma
 
 > \- Per i riferimenti della direttiva 2006/123/CE si vedano le note alle premesse.
 
-## Titolo II - (Disposizioni finali)
+### Titolo II - (Disposizioni finali)
 
-### Capo I
+#### Capo I
 
 ##### Art. 85 - Modifiche e abrogazioni
 

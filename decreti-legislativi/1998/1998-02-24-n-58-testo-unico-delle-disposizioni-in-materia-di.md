@@ -40,7 +40,7 @@ il seguente decreto legislativo:
 
 ## PARTE I - DISPOSIZIONI COMUNI
 
-##### Art. 1
+###### Art. 1
 
 Definizioni
 
@@ -522,7 +522,7 @@ AGGIORNAMENTO (134)
 
 Il D.Lgs. 29 aprile 2026, n. 86 ha disposto (con l'art. 4, comma 2) che "La Consob, entro centoventi giorni dall'entrata in vigore del presente decreto adotta le disposizioni attuative delle disposizioni del Testo unico in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, come modificate dal presente decreto. Le disposizioni di cui all'articolo 2, comma 1, lettera a), si applicano a decorrere dalla data di entrata in vigore delle disposizioni attuative emanate dalla Consob ai sensi della medesima lettera, come modificata dal presente decreto".
 
-##### Art. 2 - Rapporti con il diritto dell'Unione europea e integrazione nel SEVIF
+###### Art. 2 - Rapporti con il diritto dell'Unione europea e integrazione nel SEVIF
 
 1\. Il Ministero dell'economia e delle finanze, la Banca d'Italia e la Consob esercitano i poteri loro attribuiti in armonia con le disposizioni dell'Unione europea, applicano i regolamenti e le decisioni dell'Unione europea e provvedono in merito alle raccomandazioni concernenti le materie disciplinate dal presente decreto.
 
@@ -532,7 +532,7 @@ Il D.Lgs. 29 aprile 2026, n. 86 ha disposto (con l'art. 4, comma 2) che "La Cons
 
 3\. La Banca d'Italia e la Consob, nei casi di crisi o di tensioni sui mercati finanziari, tengono conto degli effetti dei propri atti sulla stabilita' del sistema finanziario degli altri Stati membri, anche avvalendosi degli opportuni scambi di informazioni con l'AESFEM, il Comitato congiunto, il CERS e le autorita' di vigilanza degli altri Stati membri.
 
-##### Art. 3
+###### Art. 3
 
 Provvedimenti
 
@@ -558,7 +558,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 3-bis
+###### Art. 3-bis
 
 (( (Quesiti alle Autorita'). ))
 
@@ -566,7 +566,7 @@ Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le dis
 
 2\. ((Resta comunque salva la facolta' di Consob e Banca d'Italia di dare seguito alle richieste di cui al comma 1 attraverso orientamenti interpretativi di carattere generale, soggetti a pubblicazione, sulla base di criteri, termini e modalita' stabiliti con il regolamento di cui al comma 1.))
 
-##### Art. 4
+###### Art. 4
 
 Collaborazione tra autorita' e segreto d'ufficio
 
@@ -630,7 +630,7 @@ AGGIORNAMENTO (132)
 
 Il D.Lgs. 13 marzo 2026, n. 39 ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 16 aprile 2026".
 
-##### Art. 4-bis - Individuazione dell'autorita' competente e delle autorita' competenti settoriali ai fini del regolamento (CE) n. 1060/2009, e successive modificazioni, relativo alle agenzie di rating del credito
+###### Art. 4-bis - Individuazione dell'autorita' competente e delle autorita' competenti settoriali ai fini del regolamento (CE) n. 1060/2009, e successive modificazioni, relativo alle agenzie di rating del credito
 
 1\. La Consob e' l'autorita' competente ai sensi dell'articolo 22 del regolamento (CE) n. 1060/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, relativo alle agenzie di rating del credito, ed esercita i poteri previsti dal predetto regolamento.
 
@@ -642,7 +642,7 @@ AGGIORNAMENTO (61)
 
 Il D.Lgs. 12 maggio 2015, n. 72 ha disposto (con l'art. 4, comma 22) che nel presente articolo la parola «Isvap» e' sostituita dalla seguente: «Ivass».
 
-##### Art. 4-ter
+###### Art. 4-ter
 
 (( (Individuazione delle autorita' nazionali competenti ai sensi del regolamento (UE) n. 236/2012 relativo alle vendite allo scoperto e a taluni aspetti dei contratti derivati aventi ad oggetto la copertura del rischio di inadempimento dell'emittente (credit default swap)). ))
 
@@ -660,7 +660,7 @@ Il D.Lgs. 12 maggio 2015, n. 72 ha disposto (con l'art. 4, comma 22) che nel pre
 
 7\. La Banca d'Italia e la Consob per adempiere alle rispettive competenze come definite dal presente articolo e assicurare il rispetto delle misure adottate ai sensi del Regolamento di cui al comma 1, ivi comprese quelle demandate al Ministero dell'economia e delle finanze ai sensi del comma 4, dispongono dei poteri previsti dall'articolo 187-octies.))
 
-##### Art. 4-quater
+###### Art. 4-quater
 
 (( (Individuazione delle autorita' nazionali competenti ai sensi del regolamento (UE) n. 648/2012 del Parlamento europeo e del Consiglio, del 4 luglio 2012, e ai sensi del regolamento (UE) 2015/2365 del Parlamento europeo e del Consiglio, del 25 novembre 2015) ))
 
@@ -676,7 +676,7 @@ Il D.Lgs. 12 maggio 2015, n. 72 ha disposto (con l'art. 4, comma 22) che nel pre
 
 5.COMMA ABROGATO DAL D.LGS. 12 AGOSTO 2016, N. 176.
 
-##### Art. 4-quinquies
+###### Art. 4-quinquies
 
 (Individuazione delle autorita' nazionali competenti ai sensi del ((regolamento (UE) 345/2013)), relativo ai fondi europei per il venture capital (EuVECA), e del ((regolamento (UE) 346/2013)), relativo ai fondi europei per l'imprenditoria sociale (EuSEF).
 
@@ -750,7 +750,7 @@ Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 1, comma 1,
 
 lettera d)) che nel presente articolo "nella rubrica e ovunque ricorrano, le parole: «regolamento (UE) n. 345/2013» sono sostituite dalle seguenti: «regolamento (UE) 345/2013», e le parole «regolamento (UE) n. 346/2013» sono sostituite dalle seguenti: «regolamento (UE) 346/2013»".
 
-##### Art. 4-quinquies.1 - Individuazione delle autorita' nazionali competenti ai sensi del regolamento (UE) n. 2015/760 relativo ai fondi di investimento europei a lungo termine (ELTIF)
+###### Art. 4-quinquies.1 - Individuazione delle autorita' nazionali competenti ai sensi del regolamento (UE) n. 2015/760 relativo ai fondi di investimento europei a lungo termine (ELTIF)
 
 1\. La Banca d'Italia e la Consob, secondo le rispettive attribuzioni e le finalita' indicate dall'articolo 5, sono le autorita' nazionali competenti ai sensi del regolamento (UE) n. 2015/760.
 
@@ -776,7 +776,7 @@ e) ricevere il prospetto, e le relative modifiche, di cui all'articolo 24, parag
 
 7\. Per assicurare il rispetto del presente articolo nonche' del regolamento indicato dal comma 1, la Banca d'Italia e la Consob dispongono, secondo le rispettive attribuzioni e le finalita' dell'articolo 5, dei poteri loro attribuiti dal presente decreto in materia di gestione collettiva del risparmio, nonche' dei poteri previsti dal regolamento (UE) n. 2015/760.
 
-##### Art. 4-quinquies.2 - Individuazione delle autorita' nazionali competenti ai sensi del regolamento (UE) 2017/1131 relativo ai fondi comuni monetari (FCM)
+###### Art. 4-quinquies.2 - Individuazione delle autorita' nazionali competenti ai sensi del regolamento (UE) 2017/1131 relativo ai fondi comuni monetari (FCM)
 
 1\. La Banca d'Italia e la Consob, secondo le rispettive attribuzioni e le finalita' indicate dall'articolo 5, sono le autorita' nazionali competenti ai sensi del regolamento (UE) 2017/1131. La Banca d'Italia e la Consob si trasmettono tempestivamente le informazioni che ciascuna di esse e' competente a ricevere ai sensi del presente articolo.
 
@@ -804,7 +804,7 @@ b) adottare le misure specifiche previste dal regolamento (UE) 2017/1131 nell'ar
 
 5\. Per assicurare il rispetto del presente articolo nonche' del regolamento indicato dal comma 1, la Banca d'Italia e la Consob dispongono, secondo le rispettive attribuzioni e le finalita' dell'articolo 5, dei poteri loro attribuiti dal presente decreto nonche' dei poteri previsti dall'articolo 39 del citato regolamento (UE) 2017/1131.
 
-##### Art. 4-quinquies.3
+###### Art. 4-quinquies.3
 
 (( (Individuazione delle autorita' nazionali competenti ai sensi del regolamento (UE) 2019/1156 per facilitare la distribuzione transfrontaliera degli organismi di investimento collettivo e che modifica i regolamenti (UE) n. 345/2013, (UE) n. 346/2013 e (UE) n. 1286/2014). ))
 
@@ -812,7 +812,7 @@ b) adottare le misure specifiche previste dal regolamento (UE) 2017/1131 nell'ar
 
 2\. La Consob e' l'autorita' competente a pubblicare e gestire sul proprio sito internet le informazioni previste dall'articolo 10, paragrafo 1, del regolamento (UE) 2019/1156 e a comunicare all'AESFEM le informazioni previste dall'articolo 5, paragrafo 2, dall'articolo 8, paragrafo 1, dall'articolo 10, paragrafo 2, e dall'articolo 13, paragrafo 1, del regolamento (UE) 2019/1156.))
 
-##### Art. 4-sexies
+###### Art. 4-sexies
 
 (Individuazione delle autorita' nazionali competenti ai sensi del regolamento (UE) n. 1286/2014, relativo ai documenti contenenti le informazioni chiave per i prodotti d'investimento al dettaglio e assicurativi preassemblati (PRIIPs).
 
@@ -864,7 +864,7 @@ AGGIORNAMENTO (96)
 
 Il D.L. 19 maggio 2020, n. 34, convertito con modificazioni dalla L. 17 luglio 2020, n. 77, ha disposto (con l'art. 33, comma 2-bis) che "Nell'ambito delle misure di cui al presente articolo volte a semplificare gli adempimenti concernenti i contratti finanziari .e assicurativi e in considerazione dello stato di emergenza nel territorio nazionale relativo al rischio sanitario connesso all'insorgenza di patologie derivanti da agenti virali trasmissibili, dichiarato con la delibera del Consiglio dei ministri del 31 gennaio 2020, pubblicata nella Gazzetta Ufficiale n. 26 del 1° febbraio 2020, gli articoli 4-sexies;4-septies, 4-decies, 193-quinquies e 194-septies del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, nella formulazione vigente il giorno precedente alla data di entrata in vigore del decreto legislativo 25 novembre 2019, n. 165, e le disposizioni regolamentari emanate dalla Commissione nazionale per le societa' e la borsa ai sensi del menzionato articolo 4-sexies, comma 5, continuano ad applicarsi fino alla data del 31 dicembre 2020".
 
-##### Art. 4-sexies.1 - Individuazione delle autorita' nazionali competenti ai sensi del regolamento (UE) 2020/1503, relativo ai fornitori europei di servizi di crowdfunding per le imprese, e che modifica il regolamento (UE) 2017/1129 e la direttiva (UE) 2019/1937
+###### Art. 4-sexies.1 - Individuazione delle autorita' nazionali competenti ai sensi del regolamento (UE) 2020/1503, relativo ai fornitori europei di servizi di crowdfunding per le imprese, e che modifica il regolamento (UE) 2017/1129 e la direttiva (UE) 2019/1937
 
 1\. Ai fini della disciplina sui fornitori di servizi di crowdfunding si applicano le definizioni contenute nell'articolo 2 del regolamento (UE) 2020/1503.
 
@@ -918,7 +918,7 @@ b) lo scambio di informazioni tra la Banca d'Italia e la Consob, anche con rifer
 
 12\. Ai fornitori di servizi di crowdfunding si applicano gli articoli 4-undecies e 4-duodecies, commi 1, 2 e 2-bis.
 
-##### Art. 4-septies - Poteri d'intervento relativi alla violazione delle disposizioni previste dal regolamento (UE) n. 1286/2014
+###### Art. 4-septies - Poteri d'intervento relativi alla violazione delle disposizioni previste dal regolamento (UE) n. 1286/2014
 
 1\. Fermi restando le attribuzioni e i poteri di cui agli articoli 15, paragrafo 2, 17 e 18, paragrafo 3, del regolamento (UE) n. 1286/2014, in caso di violazione delle disposizioni previste dall'articolo 5, paragrafo 1, dagli articoli 6 e 7, dall'articolo 8, paragrafi da 1 a 3, dall'articolo 9 e dall'articolo 10, paragrafo 1, del regolamento (UE) n. 1286/2014, la Consob puo', tenuto conto, in quanto compatibili, dei criteri stabiliti dall'articolo 194-bis: (78)
 
@@ -964,7 +964,7 @@ AGGIORNAMENTO (96)
 
 Il D.L. 19 maggio 2020, n. 34, convertito con modificazioni dalla L. 17 luglio 2020, n. 77, ha disposto (con l'art. 33, comma 2-bis) che "Nell'ambito delle misure di cui al presente articolo volte a semplificare gli adempimenti concernenti i contratti finanziari .e assicurativi e in considerazione dello stato di emergenza nel territorio nazionale relativo al rischio sanitario connesso all'insorgenza di patologie derivanti da agenti virali trasmissibili, dichiarato con la delibera del Consiglio dei ministri del 31 gennaio 2020, pubblicata nella Gazzetta Ufficiale n. 26 del 1° febbraio 2020, gli articoli 4-sexies;4-septies, 4-decies, 193-quinquies e 194-septies del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, nella formulazione vigente il giorno precedente alla data di entrata in vigore del decreto legislativo 25 novembre 2019, n. 165, e le disposizioni regolamentari emanate dalla Commissione nazionale per le societa' e la borsa ai sensi del menzionato articolo 4-sexies, comma 5, continuano ad applicarsi fino alla data del 31 dicembre 2020".
 
-##### Art. 4-septies.1 - Individuazione delle autorita' nazionali competenti ai sensi del regolamento (UE) 2016/1011 sugli indici usati come parametri di riferimento negli strumenti finanziari e nei contratti finanziari o per misurare la performance di fondi di investimento
+###### Art. 4-septies.1 - Individuazione delle autorita' nazionali competenti ai sensi del regolamento (UE) 2016/1011 sugli indici usati come parametri di riferimento negli strumenti finanziari e nei contratti finanziari o per misurare la performance di fondi di investimento
 
 1\. Ai sensi dell'articolo 40, paragrafo 1, del regolamento (UE) 2016/1011, la Consob e' l'autorita' competente sugli amministratori di indici di riferimento e sui contributori di dati sottoposti a vigilanza, come definiti dall'articolo 3, paragrafo 1, punto 10), del citato regolamento, stabiliti nel territorio della Repubblica.
 
@@ -978,7 +978,7 @@ Il D.L. 19 maggio 2020, n. 34, convertito con modificazioni dalla L. 17 luglio 2
 
 ((5-bis. Ai sensi dell'articolo 23-ter, paragrafo 7, del regolamento (UE) 2016/1011, il Comitato per le politiche macroprudenziali, di seguito anche Comitato, e' l'autorita' competente a valutare se una clausola di riserva di uno specifico tipo di accordo originariamente convenuta non rispecchi piu', oppure rispecchi con differenze significative, il mercato o la realta' economica che l'indice di riferimento in via di cessazione intendeva misurare e se l'applicazione di tale clausola possa costituire una minaccia per la stabilita' finanziaria. Il Comitato rende pubblici gli elementi considerati alla base della valutazione di cui al primo periodo. Il Comitato si dota delle procedure necessarie per l'effettuazione della valutazione di cui al presente comma.))
 
-##### Art. 4-septies.2 - Individuazione delle autorita' nazionali competenti ai sensi del regolamento (UE) 2017/2402 che stabilisce un quadro generale per la cartolarizzazione, instaura un quadro specifico per cartolarizzazioni semplici, trasparenti e standardizzate
+###### Art. 4-septies.2 - Individuazione delle autorita' nazionali competenti ai sensi del regolamento (UE) 2017/2402 che stabilisce un quadro generale per la cartolarizzazione, instaura un quadro specifico per cartolarizzazioni semplici, trasparenti e standardizzate
 
 1\. La Banca d'Italia, la CONSOB, l'IVASS e la COVIP sono le autorita' nazionali competenti ai sensi del regolamento (UE) 2017/2402, secondo le rispettive attribuzioni e conformemente a quanto disposto dal presente articolo.
 
@@ -1036,7 +1036,7 @@ d) autorizzare il verificatore terzo di cui all'articolo 27, ((paragrafo)) 2, de
 
 9\. Per assicurare il rispetto del presente articolo nonche' del regolamento indicato dal comma 1, la Banca d'Italia, la CONSOB, l'IVASS e la COVIP possono emanare disposizioni di attuazione del presente articolo, ciascuna nell'ambito delle proprie competenze. Nel rispetto della reciproca indipendenza, esse individuano inoltre forme di coordinamento operativo, anche ai sensi dell'articolo 20 della legge 28 dicembre 2005, n. 262, per l'esercizio delle competenze e dei poteri loro attribuiti ai sensi del presente articolo, anche attraverso protocolli d'intesa, senza nuovi o maggiori oneri a carico della finanza pubblica, anche al fine di disciplinare i casi in cui ai sensi dei commi 3, lettera b), 4, lettera b), 5, lettera b), per la medesima operazione di cartolarizzazione siano coinvolte piu' autorita' di vigilanza. Le citate autorita' collaborano tra loro, anche ai sensi dell'articolo 21 della legge 28 dicembre 2005, n. 262, per agevolare l'esercizio delle competenze e dei poteri loro attribuiti e si scambiano informazioni.
 
-##### Art. 4-octies
+###### Art. 4-octies
 
 ((ARTICOLO ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129))
 
@@ -1048,7 +1048,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 4-novies
+###### Art. 4-novies
 
 ((ARTICOLO ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129))
 
@@ -1060,7 +1060,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 4-decies
+###### Art. 4-decies
 
 ARTICOLO ABROGATO DAL D.LGS. 25 NOVEMBRE 2019, N. 165
 
@@ -1072,7 +1072,7 @@ AGGIORNAMENTO (96)
 
 Il D.L. 19 maggio 2020, n. 34, convertito con modificazioni dalla L. 17 luglio 2020, n. 77, ha disposto (con l'art. 33, comma 2-bis) che "Nell'ambito delle misure di cui al presente articolo volte a semplificare gli adempimenti concernenti i contratti finanziari .e assicurativi e in considerazione dello stato di emergenza nel territorio nazionale relativo al rischio sanitario connesso all'insorgenza di patologie derivanti da agenti virali trasmissibili, dichiarato con la delibera del Consiglio dei ministri del 31 gennaio 2020, pubblicata nella Gazzetta Ufficiale n. 26 del 1° febbraio 2020, gli articoli 4-sexies;4-septies, 4-decies, 193-quinquies e 194-septies del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, nella formulazione vigente il giorno precedente alla data di entrata in vigore del decreto legislativo 25 novembre 2019, n. 165, e le disposizioni regolamentari emanate dalla Commissione nazionale per le societa' e la borsa ai sensi del menzionato articolo 4-sexies, comma 5, continuano ad applicarsi fino alla data del 31 dicembre 2020".
 
-##### Art. 4-undecies - Sistemi interni di segnalazione delle violazioni
+###### Art. 4-undecies - Sistemi interni di segnalazione delle violazioni
 
 1\. I soggetti di cui alle parti II e III adottano procedure specifiche per la segnalazione al proprio interno, da parte del personale, di atti o fatti che possano costituire violazioni delle norme disciplinanti l'attivita' svolta, nonche' del ((regolamento prospetto come definito all'articolo 93-bis, comma 1, lettera a), e del)) regolamento (UE) n. 596/2014. (78)
 
@@ -1104,7 +1104,7 @@ AGGIORNAMENTO (78)
 
 Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
 
-##### Art. 4-duodecies - Procedura di segnalazione alle Autorita' di Vigilanza
+###### Art. 4-duodecies - Procedura di segnalazione alle Autorita' di Vigilanza
 
 1\. La Banca d'Italia e la Consob:
 
@@ -1130,7 +1130,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 4-terdecies - Esenzioni
+###### Art. 4-terdecies - Esenzioni
 
 1\. Le disposizioni contenute nella parte II non si applicano:
 
@@ -1216,7 +1216,7 @@ La L. 23 dicembre 2021, n. 238 ha disposto (con l'art. 27, comma 2) che "Le disp
 
 #### CAPO I - VIGILANZA
 
-##### Art. 5
+###### Art. 5
 
 Finalita' e destinatari della vigilanza
 
@@ -1254,7 +1254,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 6
+###### Art. 6
 
 Poteri regolamentari (73)
 
@@ -1418,7 +1418,7 @@ AGGIORNAMENTO (132)
 
 Il D.Lgs. 13 marzo 2026, n. 39 ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 16 aprile 2026".
 
-##### Art. 6-bis - Poteri informativi e di indagine
+###### Art. 6-bis - Poteri informativi e di indagine
 
 1\. La Banca d'Italia puo' chiedere, nell'ambito delle sue competenze, ai soggetti abilitati la comunicazione di dati e notizie e la trasmissione di atti e documenti con le modalita' e nei termini dalla stessa stabiliti. La Banca d'Italia, nell'ambito delle sue competenze, puo' chiedere informazioni al personale dei soggetti abilitati, anche per il tramite di questi ultimi.
 
@@ -1472,7 +1472,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 6-ter - Poteri ispettivi
+###### Art. 6-ter - Poteri ispettivi
 
 1\. La Banca d'Italia e la Consob possono, nell'ambito delle rispettive competenze e nel rispetto delle disposizioni normative europee, effettuare ispezioni e richiedere l'esibizione dei documenti e il compimento degli atti ritenuti necessari nei confronti dei soggetti abilitati e di coloro ai quali i soggetti abilitati abbiano esternalizzato funzioni aziendali essenziali o importanti e al loro personale. Si applicano i commi 9 e 10 dell'articolo 6-bis.
 
@@ -1500,7 +1500,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 7
+###### Art. 7
 
 Poteri di intervento sui soggetti abilitati (73)
 
@@ -1540,7 +1540,7 @@ AGGIORNAMENTO (132)
 
 Il D.Lgs. 13 marzo 2026, n. 39 ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 16 aprile 2026".
 
-##### Art. 7-bis
+###### Art. 7-bis
 
 (( (Poteri di intervento di cui al Titolo VII, Capo I, del regolamento (UE) n. 600/2014). ))
 
@@ -1564,7 +1564,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 7-ter - Poteri ingiuntivi nei confronti degli intermediari nazionali e non UE
+###### Art. 7-ter - Poteri ingiuntivi nei confronti degli intermediari nazionali e non UE
 
 1\. In caso di violazione da parte di Sim, di imprese di paesi terzi ((di gestori autorizzati,)), di GEFIA non UE autorizzati in Italia e di banche autorizzate alla prestazione di servizi e attivita' di investimento aventi sede in Italia di obblighi derivanti da disposizioni dell'ordinamento italiano e dell'Unione europea loro applicabili nelle materie del presente decreto, la Banca d'Italia o la Consob, nell'ambito delle rispettive competenze, possono ordinare alle stesse, anche in via cautelare, la cessazione temporanea o permanente di tali irregolarita'.
 
@@ -1582,7 +1582,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 7-quater - Poteri ingiuntivi nei confronti di intermediari UE
+###### Art. 7-quater - Poteri ingiuntivi nei confronti di intermediari UE
 
 1\. In caso di violazione da parte di imprese di investimento UE con succursale in Italia, di societa' di gestione UE, di GEFIA UE e non UE autorizzati in uno Stato dell'UE diverso dall'Italia, di banche UE con succursale in Italia e di societa' finanziarie previste dall'articolo 18, comma 2, del T.U. bancario, di obblighi derivanti da disposizioni dell'ordinamento italiano e dell'Unione europea loro applicabili nelle materie del presente decreto, la Banca d'Italia o la Consob, nell'ambito delle rispettive competenze, possono ordinare alle stesse di porre termine a tali irregolarita', dandone comunicazione anche all'Autorita' di vigilanza dello Stato membro in cui l'intermediario ha sede legale per i provvedimenti eventualmente necessari.
 
@@ -1626,7 +1626,7 @@ AGGIORNAMENTO (132)
 
 Il D.Lgs. 13 marzo 2026, n. 39 ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 16 aprile 2026".
 
-##### Art. 7-quinquies - Poteri ingiuntivi nei confronti degli OICVM UE, FIA UE e non UE con quote o azioni offerte in Italia
+###### Art. 7-quinquies - Poteri ingiuntivi nei confronti degli OICVM UE, FIA UE e non UE con quote o azioni offerte in Italia
 
 1\. Quando sussistono elementi che fanno presumere l'inosservanza da parte degli OICVM UE, dei FIA UE e non UE di obblighi derivanti da disposizioni dell'ordinamento italiano e dell'Unione europea loro applicabili nelle materie del presente decreto, la Banca d'Italia o la Consob, nell'ambito delle rispettive competenze, possono sospendere in via cautelare, per un periodo non superiore a sessanta giorni, l'offerta delle relative quote o azioni. In caso di accertata violazione, le autorita' di vigilanza, nell'ambito delle rispettive competenze, possono sospendere temporaneamente ovvero vietare l'offerta delle quote o delle azioni degli Oicr.
 
@@ -1646,7 +1646,7 @@ AGGIORNAMENTO (132)
 
 Il D.Lgs. 13 marzo 2026, n. 39 ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 16 aprile 2026".
 
-##### Art. 7-sexies - Sospensione degli organi amministrativi
+###### Art. 7-sexies - Sospensione degli organi amministrativi
 
 1\. Il Presidente della Consob dispone, in via d'urgenza, ove ricorrano situazioni di pericolo per i clienti o per i mercati, la sospensione degli organi di amministrazione delle Sim e la nomina di un commissario che ne assume la gestione quando risultino gravi irregolarita' nell'amministrazione ovvero gravi violazioni delle disposizioni legislative, amministrative o statutarie. Il provvedimento assunto dal Presidente della Consob e' sottoposto all'approvazione della Commissione.
 
@@ -1668,7 +1668,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 7-septies
+###### Art. 7-septies
 
 (( (Poteri cautelari applicabili ai consulenti finanziari autonomi, alle societa' di consulenza finanziaria ed ai consulenti finanziari abilitati all'offerta fuori sede). ))
 
@@ -1692,7 +1692,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 7-octies - Poteri di contrasto all'abusivismo
+###### Art. 7-octies - Poteri di contrasto all'abusivismo
 
 1\. La Consob puo', nei confronti di chiunque offre o svolge servizi o attivita' di investimento tramite la rete internet senza esservi abilitato ai sensi del presente decreto:
 
@@ -1710,7 +1710,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 7-novies
+###### Art. 7-novies
 
 (( (Riserve di capitale). ))
 
@@ -1724,7 +1724,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 7-decies - Vigilanza sul rispetto di disposizioni dell'Unione europea direttamente applicabili
+###### Art. 7-decies - Vigilanza sul rispetto di disposizioni dell'Unione europea direttamente applicabili
 
 ((1. La Banca d'Italia e la Consob vigilano, ciascuna per quanto di competenza, ai sensi della presente parte:
 
@@ -1740,7 +1740,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 7-undecies
+###### Art. 7-undecies
 
 (( (Individuazione delle autorita' nazionali competenti ai sensi del regolamento (UE) 2019/2033).))
 
@@ -1754,13 +1754,13 @@ Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le dis
 
 5\. La Consob e' l'autorita' competente a vigilare sul rispetto da parte delle Sim degli obblighi di comunicazione al pubblico previsti dall'articolo 52 del regolamento (UE) 2019/2033.))
 
-##### Art. 7-duodecies - Disciplina applicabile alle Sim di classe 1-minus
+###### Art. 7-duodecies - Disciplina applicabile alle Sim di classe 1-minus
 
 1\. Alle Sim di classe 1-minus si applicano, in aggiunta alle norme del regolamento (UE) n. 575/2013, le disposizioni nazionali di recepimento dei titoli VII e VIII della direttiva 2013/36/UE. Restano fermi i poteri e le competenze attribuite alla Banca d'Italia e alla Consob dal presente decreto legislativo.
 
 1-bis. ((Ai gruppi di Sim nei quali vi sia almeno una Sim di classe 1-minus si applicano le disposizioni nazionali di recepimento del titolo VII, capo 3, della direttiva 2013/36/UE, del Parlamento europeo e del Consiglio, del 26 giugno 2013. Restano fermi i poteri e le competenze attribuite alla Banca d'Italia e alla Consob dal presente decreto.))
 
-##### Art. 8
+###### Art. 8
 
 Doveri informativi (73)
 
@@ -1788,7 +1788,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 8-bis
+###### Art. 8-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129)) ((73))
 
@@ -1798,7 +1798,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 8-ter
+###### Art. 8-ter
 
 ((ARTICOLO ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129)) ((73))
 
@@ -1808,7 +1808,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 9 - Revisione legale
+###### Art. 9 - Revisione legale
 
 1\. Alle SIM, ((ai gestori autorizzati e agli Oicr societari in gestione esterna)) si applica l'articolo 159, comma 1.
 
@@ -1816,7 +1816,7 @@ Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le dis
 
 2-bis. Per i fondi comuni di diritto italiano gestiti da societa' di gestione UE, GEFIA UE e non UE, il giudizio sul rendiconto del fondo, in conformita' ai principi di cui all'articolo 11 del decreto legislativo 27 gennaio 2010, n. 39, e' rilasciato da un revisore legale o da una societa' di revisione legale iscritti nel Registro di cui all'articolo 1, comma 1, lettera g), del medesimo decreto. Ferme restando le disposizioni concernenti le modalita' di conferimento, revoca e dimissioni dall'incarico vigenti negli ordinamenti nazionali in cui le societa' di gestione UE, GEFIA UE e non UE hanno sede legale, si applicano le disposizioni previste dal decreto legislativo 27 gennaio 2010, n. 39, con riferimento agli enti sottoposti a regime intermedio.
 
-##### Art. 10
+###### Art. 10
 
 ((ARTICOLO ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129)) ((73))
 
@@ -1826,7 +1826,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 11
+###### Art. 11
 
 Composizione del gruppo
 
@@ -1844,7 +1844,7 @@ b) emana disposizioni volte a individuare l'insieme dei soggetti da sottoporre a
 
 1-bis. Il gruppo individuato ai sensi del comma 1, lettera b), e' iscritto in un apposito albo tenuto dalla Banca d'Italia. La capogruppo comunica tempestivamente alla Banca d'Italia l'esistenza del gruppo e la sua composizione aggiornata. Copia della predetta comunicazione e' trasmessa dalla Banca d'Italia alla Consob.
 
-##### Art. 11-bis
+###### Art. 11-bis
 
 ((Impresa madre UE intermedia))
 
@@ -1870,7 +1870,7 @@ b) il valore totale delle attivita' detenute nell'Unione europea dal gruppo di S
 
 6\. La Banca d'Italia, sentita la Consob, emana disposizioni per l'attuazione del presente articolo, con particolare riguardo alla procedura per l'istituzione della impresa madre UE intermedia nei casi previsti dai commi 4 e 5.))
 
-##### Art. 12
+###### Art. 12
 
 Vigilanza sul gruppo
 
@@ -1912,7 +1912,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 12-bis
+###### Art. 12-bis
 
 (( (Disposizioni applicabili alle societa' che controllano una o piu' imprese di investimento UE). ))
 
@@ -1926,9 +1926,9 @@ Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le dis
 
 5\. Fatto salvo quanto previsto dal presente articolo, alle societa' indicate al comma 1 non si applicano le disposizioni indicate al presente Capo.))
 
-## CAPO II - ESPONENTI AZIENDALI E PARTECIPANTI AL CAPITALE
+#### CAPO II - ESPONENTI AZIENDALI E PARTECIPANTI AL CAPITALE
 
-##### Art. 13 - Esponenti aziendali e responsabili delle principali funzioni aziendali) . (130
+###### Art. 13 - Esponenti aziendali e responsabili delle principali funzioni aziendali) . (130
 
 1\. I soggetti che svolgono funzioni di amministrazione, direzione e controllo presso Sim ((e presso gestori autorizzati)) devono essere idonei allo svolgimento dell'incarico. ((133))
 
@@ -1992,7 +1992,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 2) che "L'articolo 13 del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58 come modificato dal presente decreto si applica alle nomine perfezionate a partire dal sesto mese successivo alla data di entrata in vigore del presente decreto".
 
-##### Art. 14 - Partecipanti al capitale
+###### Art. 14 - Partecipanti al capitale
 
 1\. I titolari delle partecipazioni indicate all'articolo 15 possiedono requisiti di onorabilita' e soddisfano criteri di competenza e correttezza in modo da garantire la sana e prudente gestione della societa' partecipata.
 
@@ -2030,7 +2030,7 @@ AGGIORNAMENTO (62)
 
 Il D.Lgs. 12 maggio 2015, n. 72 ha disposto (con l'art. 6, comma 6) che "Fino all'entrata in vigore della disciplina attuativa emanata ai sensi dell'articolo 14 del decreto legislativo 24 febbraio 1998, n. 58, come modificato dal presente decreto legislativo, continua ad applicarsi l'articolo 14 del decreto legislativo 24 febbraio 1998, n. 58, nella versione precedente alle modifiche apportate dal presente decreto legislativo, e la relativa disciplina attuativa".
 
-##### Art. 15
+###### Art. 15
 
 Acquisizione e cessione di partecipazioni
 
@@ -2080,7 +2080,7 @@ Il D.Lgs. 8 novembre 2021, n. 182 ha disposto (con l'art. 4, comma 2) che "L'art
 
 Ha inoltre disposto (con l'art. 4, comma 3) che "L'articolo 15, comma 4, lettera b), del decreto legislativo 24 febbraio 1998, n. 58, come introdotto dal presente decreto, e i relativi obblighi di comunicazione preventiva si applicano ai casi che si verificano successivamente alla data di entrata in vigore della relativa disciplina attuativa, emanata ai sensi dell'articolo 15, comma 5, lettera b-bis), del decreto legislativo 24 febbraio 1998, n. 58".
 
-##### Art. 15-bis
+###### Art. 15-bis
 
 ((Persone che agiscono di concerto))
 
@@ -2098,7 +2098,7 @@ a) conclusi successivamente alla data della entrata in vigore della disciplina a
 
 b) conclusi antecedentemente alla data della entrata in vigore della medesima disciplina attuativa, qualora la successiva adesione di altri soggetti comporti il superamento di una delle soglie previste dall'articolo 15, comma 1, del decreto legislativo 24 febbraio 1998, n. 58".
 
-##### Art. 16 - Sospensione del diritto di voto e degli altri diritti, obbligo di alienazione
+###### Art. 16 - Sospensione del diritto di voto e degli altri diritti, obbligo di alienazione
 
 1\. Il diritto di voto e gli altri diritti, che consentono di influire sulla societa', inerenti alle partecipazioni eccedenti le soglie stabilite dall'articolo 15, comma 1, non possono essere esercitati quando non siano state effettuate le comunicazioni previste dall'articolo 15, quando sia intervenuto il divieto della Banca d'Italia o non sia ancora decorso il termine entro il quale la Banca d'Italia puo' vietare l'acquisizione o quando sia scaduto il termine massimo eventualmente fissato ai sensi dell'articolo 15, comma 2.
 
@@ -2110,7 +2110,7 @@ b) conclusi antecedentemente alla data della entrata in vigore della medesima di
 
 4-bis. Non possono essere esercitati i diritti derivanti dai contratti o dalle clausole statutarie quando non siano state effettuate le comunicazioni previste dall'articolo 15, quando sia intervenuto il divieto della Banca d'Italia o non sia ancora decorso il termine entro il quale il divieto puo' intervenire, oppure quando sia scaduto il termine massimo eventualmente fissato ai sensi dell'articolo 15, comma 2.
 
-##### Art. 17 - Richiesta di informazioni sulle partecipazioni
+###### Art. 17 - Richiesta di informazioni sulle partecipazioni
 
 1\. La Banca d'Italia e la CONSOB, indicando il termine per la risposta, possono richiedere:
 
@@ -2122,11 +2122,11 @@ c) agli amministratori delle societa' e degli enti titolari di partecipazioni ne
 
 d) alle societa' fiduciarie che abbiano intestato a proprio nome partecipazioni in societa' indicate nella lettera c), le generalita' dei fiducianti.
 
-## TITOLO II - SERVIZI ((E ATTIVITA')) DI INVESTIMENTO
+### TITOLO II - SERVIZI ((E ATTIVITA')) DI INVESTIMENTO
 
-### CAPO I - SOGGETTI E AUTORIZZAZIONE
+#### CAPO I - SOGGETTI E AUTORIZZAZIONE
 
-##### Art. 18
+###### Art. 18
 
 Soggetti
 
@@ -2168,7 +2168,7 @@ Il D.Lgs. 13 marzo 2026, n. 39 ha disposto (con l'art. 2, comma 1, lettera s)) c
 
 Ha inoltre disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 18-bis
+###### Art. 18-bis
 
 (( (Consulenti finanziari autonomi).))
 
@@ -2196,7 +2196,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 18-ter - Societa' di consulenza finanziaria
+###### Art. 18-ter - Societa' di consulenza finanziaria
 
 1\. La riserva di attivita' di cui all'articolo 18 non pregiudica la possibilita' per le societa' costituite in forma di societa' per azioni o societa' a responsabilita' limitata, in possesso dei requisiti patrimoniali e di indipendenza stabiliti con regolamento adottato dal Ministro dell'economia e delle finanze, sentita la Consob, ed iscritte in una sezione apposita dell'albo di cui all'articolo 31, comma 4, di prestare la consulenza in materia di investimenti relativamente a valori mobiliari e a quote di organismi d'investimento collettivo, senza detenere fondi o titoli appartenenti ai clienti. (73)
 
@@ -2214,7 +2214,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 19
+###### Art. 19
 
 Autorizzazione
 
@@ -2264,7 +2264,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 20
+###### Art. 20
 
 Albo
 
@@ -2280,7 +2280,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 20-bis - Revoca dell'autorizzazione
+###### Art. 20-bis - Revoca dell'autorizzazione
 
 1\. Le disposizioni del presente articolo trovano applicazione nei casi in cui non ricorrano i presupposti per l'applicazione degli articoli 57, comma 1, e 60-bis.4, del presente decreto, nonche' degli articoli 17 e 20 del decreto legislativo 16 novembre 2015, n. 180, e dell'articolo 80 del T.U. bancario.
 
@@ -2316,7 +2316,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 20-bis.1 - Sim di classe 1
+###### Art. 20-bis.1 - Sim di classe 1
 
 1\. In deroga all'articolo 19, per le Sim di classe 1 l'autorizzazione all'esercizio dei servizi e delle attivita' di investimento e' rilasciata quando ricorrono le condizioni previste dall'articolo 14, comma 1, del Testo Unico Bancario. L'autorizzazione e' rilasciata dalla Banca Centrale Europea, su proposta della Banca d'Italia; e' negata, dalla Banca d'Italia o dalla Banca Centrale Europea, quando dalla verifica delle condizioni indicate nell'articolo 14, comma 1, del Testo Unico Bancario non risulti garantita la sana e prudente gestione. La proposta alla Banca Centrale Europea o la decisione di diniego della Banca d'Italia sono formulate sentita la Consob.
 
@@ -2360,7 +2360,7 @@ AGGIORNAMENTO (109)
 
 Il D.Lgs. 5 novembre 2021, n. 201 ha disposto (con l'art. 3, comma 4) che "In deroga a quanto previsto dall'articolo 20-bis.1, comma 2, del decreto legislativo 24 febbraio 1998, n. 58, come introdotto dal presente decreto, le Sim autorizzate ai sensi dell'articolo 19 del decreto legislativo 24 febbraio 1998, n. 58, che al 24 dicembre 2019 soddisfano i requisiti previsti dall'articolo 4, paragrafo 1, punto 1), lettera b), del regolamento (UE) n. 575/2013, presentano domanda di autorizzazione ai sensi dell'articolo 20-bis.1 del decreto legislativo 24 febbraio 1998, n. 58, come introdotto dal presente decreto, entro trenta giorni dalla data di entrata in vigore del presente decreto o, se successiva, entro trenta giorni dalla data di entrata in vigore delle norme tecniche di regolamentazione adottate ai sensi dell'articolo 8-bis, paragrafo 6, lettera b), della direttiva 2013/36/UE".
 
-##### Art. 20-ter
+###### Art. 20-ter
 
 (( (Autorizzazione e vigilanza dei soggetti legittimati a presentare domanda di partecipazione al mercato delle aste, ai sensi del regolamento (UE) n. 1031/2010 della Commissione, del 12 novembre 2010, relativo ai tempi, alla gestione e ad altri aspetti della vendita all'asta delle quote di emissioni dei gas a effetto serra, come modificato dal regolamento (UE) n. 1210/2011 della Commissione, del 23 novembre 2011). ))
 
@@ -2372,9 +2372,9 @@ Il D.Lgs. 5 novembre 2021, n. 201 ha disposto (con l'art. 3, comma 4) che "In de
 
 4\. Fermo restando quanto previsto dall'articolo 6, commi 2 e 2-bis, del presente decreto, la Consob puo' dettare disposizioni di attuazione dell'articolo 59, paragrafi 2, 3, 4, 5 e 6, del regolamento (UE) n. 1031/2010, con riferimento alla procedura di autorizzazione dei soggetti previsti dal comma 1 del presente articolo, e per l'eventuale revoca dell'autorizzazione nelle ipotesi di cui all'articolo 59, paragrafo 6, lettere b) e c), del regolamento (UE) n. 1031/2010, nonche' alle regole di condotta che i soggetti legittimati a presentare domanda di partecipazione al mercato delle aste sono tenuti ad osservare ai sensi del predetto regolamento)).
 
-## CAPO II - SVOLGIMENTO DEI SERVIZI ((E DELLE ATTIVITA'))
+#### CAPO II - SVOLGIMENTO DEI SERVIZI ((E DELLE ATTIVITA'))
 
-##### Art. 21
+###### Art. 21
 
 Criteri generali
 
@@ -2426,7 +2426,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 21-bis
+###### Art. 21-bis
 
 (( (Ricerca in materia di investimenti). ))
 
@@ -2474,7 +2474,7 @@ AGGIORNAMENTO (134)
 
 Il D.Lgs. 29 aprile 2026, n. 86 ha disposto (con l'art. 4, comma 1) che il presente articolo si applica a decorrere dal 6 giugno 2026.
 
-##### Art. 22
+###### Art. 22
 
 Separazione patrimoniale
 
@@ -2496,7 +2496,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 23
+###### Art. 23
 
 Contratti
 
@@ -2528,7 +2528,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 24
+###### Art. 24
 
 Gestione di portafogli
 
@@ -2550,7 +2550,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 24-bis
+###### Art. 24-bis
 
 (( (Consulenza in materia di investimenti). ))
 
@@ -2578,7 +2578,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 25
+###### Art. 25
 
 (( (Attivita' di negoziazione nei mercati regolamentati, nei sistemi multilaterali di negoziazione e nei sistemi organizzati di negoziazione). ))
 
@@ -2592,7 +2592,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 25-bis - Depositi strutturati e prodotti finanziari, diversi dagli strumenti finanziari, emessi da banche
+###### Art. 25-bis - Depositi strutturati e prodotti finanziari, diversi dagli strumenti finanziari, emessi da banche
 
 1\. Gli articoli 21, 23 e 24-bis si applicano all'offerta e alla consulenza aventi ad oggetto depositi strutturati e prodotti finanziari, diversi dagli strumenti finanziari, emessi da banche.
 
@@ -2620,7 +2620,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 25-ter
+###### Art. 25-ter
 
 Prodotti di investimento assicurativo (78)
 
@@ -2658,7 +2658,7 @@ AGGIORNAMENTO (78)
 
 Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
 
-##### Art. 25-quater
+###### Art. 25-quater
 
 (( (Obbligazioni bancarie e altri strumenti di debito). ))
 
@@ -2670,9 +2670,9 @@ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disp
 
 Si applica il comma 6 dell'articolo 23.))
 
-## CAPO III - OPERATIVITA' TRANSFRONTALIERA
+#### CAPO III - OPERATIVITA' TRANSFRONTALIERA
 
-##### Art. 26 - Succursali e libera prestazione di servizi di Sim
+###### Art. 26 - Succursali e libera prestazione di servizi di Sim
 
 1\. Le Sim, ((previa comunicazione alla Banca d'Italia)) e in conformita' a quanto previsto dal comma 4, possono prestare servizi e attivita' di investimento, con o senza servizi accessori, in altri Stati dell'Unione europea, nell'esercizio del diritto di stabilimento, mediante succursali o agenti collegati stabiliti nel territorio dello Stato membro ospitante. ((133))
 
@@ -2708,7 +2708,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 27 - Imprese di investimento dell'Unione europea
+###### Art. 27 - Imprese di investimento dell'Unione europea
 
 1\. Le imprese di investimento dell'UE possono prestare servizi e attivita' di investimento, con o senza servizi accessori, nell'esercizio del diritto di stabilimento mediante succursali o agenti collegati stabiliti nel territorio della Repubblica. Il primo insediamento e' preceduto da una comunicazione alla Consob da parte dell'autorita' competente dello Stato di origine, in conformita' a quanto previsto dalle relative norme tecniche di regolamentazione e di attuazione emanate dalla Commissione europea ai sensi della direttiva 2014/65/UE. La succursale o l'agente collegato iniziano l'attivita' dal momento in cui ricevono apposita comunicazione dalla Consob ovvero, in caso di silenzio, decorsi due mesi dalla comunicazione alla Consob da parte dell'autorita' dello Stato membro di origine.
 
@@ -2728,7 +2728,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 28 - Imprese di paesi terzi diverse dalle banche
+###### Art. 28 - Imprese di paesi terzi diverse dalle banche
 
 1\. Lo stabilimento in Italia di succursali da parte di imprese di paesi terzi diverse dalle banche e' autorizzato dalla Consob, sentita la Banca d'Italia. L'autorizzazione e' subordinata:
 
@@ -2774,7 +2774,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 29
+###### Art. 29
 
 (( (Banche italiane). ))
 
@@ -2794,7 +2794,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 29-bis
+###### Art. 29-bis
 
 (( (Banche dell'Unione europea). ))
 
@@ -2812,7 +2812,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 29-ter - Banche di paesi terzi
+###### Art. 29-ter - Banche di paesi terzi
 
 1\. Nel caso in cui sia previsto lo svolgimento di servizi o attivita' di investimento, con o senza servizi accessori, lo stabilimento in Italia di succursali da parte di banche di paesi terzi e' autorizzato dalla Banca d'Italia, sentita la Consob, al ricorrere delle condizioni di cui all'articolo 28, comma 1. Resta ferma l'applicazione degli articoli 13 ((e 14-bis)) del T.U.
 
@@ -2846,9 +2846,9 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-## CAPO IV - ((DISCIPLINA DELL'OFFERTA FUORI SEDE E DELLA VIGILANZA SUI CONSULENTI FINANZIARI))
+#### CAPO IV - ((DISCIPLINA DELL'OFFERTA FUORI SEDE E DELLA VIGILANZA SUI CONSULENTI FINANZIARI))
 
-##### Art. 30
+###### Art. 30
 
 Offerta fuori sede
 
@@ -2908,7 +2908,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 30-bis
+###### Art. 30-bis
 
 (( (Modalita' di prestazione del servizio di consulenza in materia di investimenti da parte dei consulenti finanziari autonomi e delle societa' di consulenza finanziaria).))
 
@@ -2926,7 +2926,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 31
+###### Art. 31
 
 Consulenti finanziari abilitati all'offerta fuori sede e Organismo di vigilanza e tenuta dell'albo unico dei consulenti finanziari (73)
 
@@ -3002,7 +3002,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 31-bis - Vigilanza della Consob sull'Organismoi
+###### Art. 31-bis - Vigilanza della Consob sull'Organismoi
 
 1\. La Consob vigila sull'Organismo secondo modalita', dalla stessa stabilite, improntate a criteri di proporzionalita' ed economicita' dell'azione di controllo e con la finalita' di verificare l'adeguatezza delle procedure interne adottate dall'Organismo per lo svolgimento dei compiti a questo affidati.
 
@@ -3026,7 +3026,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 32
+###### Art. 32
 
 (( (Promozione e collocamento a distanza di servizi e attivita' di investimento e di prodotti finanziari) ))
 
@@ -3034,15 +3034,15 @@ Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le dis
 
 2\. La Consob, sentita la Banca d'Italia, puo' disciplinare con regolamento, in conformita' ai principi stabiliti ((negli articoli 30 e 30-bis)) e nel decreto legislativo 19 agosto 2005, n. 190, la promozione e il collocamento mediante tecniche di comunicazione a distanza di servizi e attivita' di investimento e di prodotti finanziari.
 
-## ((CAPO IV-BIS - TUTELA DEGLI INVESTITORI))
+#### ((CAPO IV-BIS - TUTELA DEGLI INVESTITORI))
 
-##### Art. 32-bis
+###### Art. 32-bis
 
 (( (Tutela degli interessi collettivi degli investitori). ))
 
 (( 1. Le associazioni dei consumatori inserite nell'elenco di cui all'articolo 137 del decreto legislativo 6 settembre 2005, n. 206, sono legittimate ad agire per la tutela degli interessi collettivi degli investitori, connessi alla prestazione di servizi e attivita' di investimento e di servizi accessori e di gestione collettiva del risparmio, nelle forme previste dagli articoli 139 e 140 del predetto decreto legislativo. ))
 
-##### Art. 32-ter - Risoluzione stragiudiziale di controversie
+###### Art. 32-ter - Risoluzione stragiudiziale di controversie
 
 ((1. I soggetti nei cui confronti la Consob esercita la propria attivita' di vigilanza, da individuarsi con il regolamento di cui al comma 2, nonche' i consulenti finanziari autonomi e le societa' di consulenza finanziaria aderiscono a sistemi di risoluzione stragiudiziale delle controversie con gli investitori diversi dai clienti professionali di cui all'articolo 6, commi 2-quinquies e 2-sexies. In caso di mancata adesione, alle societa' e agli enti si applicano le sanzioni di cui all'articolo 190, comma 1, e alle persone fisiche di cui all'articolo 18-bis si applicano le sanzioni di cui all'articolo 187-quinquiesdecies, comma 1-bis. Le sanzioni previste dal presente comma sono applicate ai consulenti finanziari autonomi e alle societa' di consulenza finanziaria secondo il procedimento disciplinato dall'articolo 196, comma 2.))
 
@@ -3058,7 +3058,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 32-ter.1
+###### Art. 32-ter.1
 
 (( (Fondo per la tutela stragiudiziale dei risparmiatori e degli investitori).))
 
@@ -3074,11 +3074,11 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-## TITOLO III - GESTIONE COLLETTIVA DEL RISPARMIO
+### TITOLO III - GESTIONE COLLETTIVA DEL RISPARMIO
 
-### CAPO I - SOGGETTI ((...)) E ATTIVITA' ESERCITABILI
+#### CAPO I - SOGGETTI ((...)) E ATTIVITA' ESERCITABILI
 
-##### Art. 32-quater - Riserva di attivita'
+###### Art. 32-quater - Riserva di attivita'
 
 1\. L'esercizio in via professionale del servizio di gestione collettiva del risparmio e' riservato alle Sgr, ((alle Sicav in gestione interna, alle Sicaf in gestione interna e alle societa' di partenariato in gestione interna, nonche')) alle societa' di gestione UE che gestiscono OICVM italiani, ai GEFIA UE e ai GEFIA non UE che gestiscono un FIA italiano, secondo le disposizioni del presente titolo. ((133))
 
@@ -3110,7 +3110,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47, ha disposto (11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 33 - Attivita' esercitabili
+###### Art. 33 - Attivita' esercitabili
 
 1\. Le Sgr gestiscono il patrimonio e i rischi degli Oicr nonche' amministrano e commercializzano gli Oicr gestiti.
 
@@ -3174,11 +3174,11 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47, ha disposto (11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-## ((CAPO I-BIS - DISCIPLINA DEI SOGGETTI AUTORIZZATI
+#### ((CAPO I-BIS - DISCIPLINA DEI SOGGETTI AUTORIZZATI
 
-### Sezione I - Societa' di gestione del risparmio))
+##### Sezione I - Societa' di gestione del risparmio))
 
-##### Art. 34
+###### Art. 34
 
 Autorizzazione della societa' di gestione del risparmio
 
@@ -3222,7 +3222,7 @@ Ha inoltre disposto (con l'art. 11, comma 4 lettera a)) che "In deroga a quanto 
 
 a) le modifiche apportate dal presente decreto agli articoli 34, comma 4, 36, comma 2, 41-bis, comma 5, 41-ter, comma 3, 42, commi 1, 3 e 4-bis, 42-bis, comma 8, 44, comma 4, 47, comma 3, 48, comma 4, 49, comma 3, del testo unico di cui al decreto legislativo n. 58 del 1998 si applicano a decorrere dalla data di entrata in vigore del presente decreto. Ai procedimenti amministrativi previsti ai sensi dei richiamati articoli avviati prima della data di entrata in vigore del presente decreto continuano ad applicarsi le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998 e le relative disposizioni attuative nella formulazione anteriore alle modifiche introdotte dal presente decreto e alle relative disposizioni attuative".
 
-##### Art. 35
+###### Art. 35
 
 Albo
 
@@ -3244,9 +3244,9 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47, ha disposto (11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-## Sezione II - Sicav e Sicaf ((in gestione interna autorizzate))
+##### Sezione II - Sicav e Sicaf ((in gestione interna autorizzate))
 
-##### Art. 35-bis
+###### Art. 35-bis
 
 ((Autorizzazione della Sicav in gestione interna e della Sicaf in gestione interna)) ((133))
 
@@ -3304,7 +3304,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47, ha disposto (11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 35-ter - Albi
+###### Art. 35-ter - Albi
 
 1\. ((Le Sicav in gestione interna autorizzate e le Sicaf in gestione interna)) autorizzate in Italia sono iscritte in appositi albi tenuti dalla Banca d'Italia. L'albo delle Sicav e' articolato in due sezioni distinte a seconda che le Sicav siano costituite in forma di OICVM o FIA. ((133))
 
@@ -3324,7 +3324,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47, ha disposto (11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 35-quater - Capitale e azioni della Sicav ((in gestione interna autorizzata)) ). ((133)
+###### Art. 35-quater - Capitale e azioni della Sicav ((in gestione interna autorizzata)) ). ((133)
 
 1\. Il capitale della Sicav ((in gestione interna)) e' sempre uguale al patrimonio netto detenuto dalla societa', cosi' come determinato ai sensi dell'articolo 6, comma 1, lettera c), n. 5). ((Il rimborso, anche in caso di recesso o conversione in altri strumenti, delle azioni sottoscritte a fronte dei conferimenti che costituiscono il patrimonio generale della Sicav in gestione interna e' autorizzato dalla Banca d'Italia, nei casi e alle condizioni previste dalle disposizioni di legge o regolamentari applicabili. La Banca d'Italia, anche in deroga a norme di legge, puo' limitare tale rimborso laddove cio' sia necessario ad assicurare il rispetto delle condizioni di sana e prudente gestione della Sicav in gestione interna)) ((133))
 
@@ -3358,7 +3358,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47, ha disposto (11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 35-quinquies - Capitale e azioni della Sicaf ((in gestione interna autorizzata)) ). ((133)
+###### Art. 35-quinquies - Capitale e azioni della Sicaf ((in gestione interna autorizzata)) ). ((133)
 
 1\. Alla Sicaf ((in gestione interna)) non si applicano gli articoli da 2447-bis a 2447-decies del codice civile. ((133))
 
@@ -3392,7 +3392,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47, ha disposto (11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 35-sexies - Assemblea della Sicav ((in gestione interna autorizzata)) ). ((133)
+###### Art. 35-sexies - Assemblea della Sicav ((in gestione interna autorizzata)) ). ((133)
 
 1\. L'assemblea ordinaria e l'assemblea straordinaria in seconda convocazione della Sicav ((in gestione interna)) sono regolarmente costituite e possono validamente deliberare qualunque sia la parte del capitale sociale intervenuta. ((133))
 
@@ -3406,7 +3406,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47, ha disposto (11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 35-septies - Modifiche dello statuto
+###### Art. 35-septies - Modifiche dello statuto
 
 1\. La Banca d'Italia approva le modifiche dello statuto ((della Sicav in gestione interna autorizzata e della Sicaf in gestione interna autorizzata)) non riservate. ((133))
 
@@ -3418,7 +3418,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47, ha disposto (11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 35-octies - Scioglimento e liquidazione volontaria
+###### Art. 35-octies - Scioglimento e liquidazione volontaria
 
 1\. Alle Sicav ((in gestione interna autorizzate)) non si applica l'articolo 2484, primo comma, numeri 4) e 5), del codice civile.
 
@@ -3442,15 +3442,15 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47, ha disposto (11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 35-novies
+###### Art. 35-novies
 
 (( (Trasformazione). ))
 
 ((1. Le Sicav che hanno la forma di OICVM non possono trasformarsi in un organismo diverso da un OICVM italiano. Le Sicav che hanno la forma di FIA e le Sicaf non possono trasformarsi in un organismo diverso da un Oicr italiano.))
 
-## ((Sezione II-bis - Societa' di partenariato in gestione interna autorizzata))
+##### ((Sezione II-bis - Societa' di partenariato in gestione interna autorizzata))
 
-##### Art. 35-novies.1
+###### Art. 35-novies.1
 
 (( (Autorizzazione della societa' di partenariato in gestione interna). ))
 
@@ -3502,7 +3502,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 4, lettera b)) che "la disciplina dettata dal titolo III, capo I-bis, sezione II-bis e dal capo I-ter della parte II del testo unico di cui al decreto legislativo n. 58 del 1998 si applica a decorrere dalla data di adozione delle disposizioni rispettivamente previste dall'articolo 35-novies.1, comma 3, e dall'articolo 35-quaterdecies, comma 10, del medesimo testo unico di cui al decreto legislativo n. 58 del 1998 e dall'adeguamento dei rispettivi albi e registri di vigilanza, ove precedente la scadenza del termine di cui al comma 3".
 
-##### Art. 35-novies.2
+###### Art. 35-novies.2
 
 (( (Albo delle societa' di partenariato in gestione interna). ))
 
@@ -3520,7 +3520,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 4, lettera b)) che "la disciplina dettata dal titolo III, capo I-bis, sezione II-bis e dal capo I-ter della parte II del testo unico di cui al decreto legislativo n. 58 del 1998 si applica a decorrere dalla data di adozione delle disposizioni rispettivamente previste dall'articolo 35-novies.1, comma 3, e dall'articolo 35-quaterdecies, comma 10, del medesimo testo unico di cui al decreto legislativo n. 58 del 1998 e dall'adeguamento dei rispettivi albi e registri di vigilanza, ove precedente la scadenza del termine di cui al comma 3".
 
-##### Art. 35-novies.3
+###### Art. 35-novies.3
 
 (( (Capitale e azioni della societa' di partenariato in gestione interna autorizzata). ))
 
@@ -3552,7 +3552,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 4, lettera b)) che "la disciplina dettata dal titolo III, capo I-bis, sezione II-bis e dal capo I-ter della parte II del testo unico di cui al decreto legislativo n. 58 del 1998 si applica a decorrere dalla data di adozione delle disposizioni rispettivamente previste dall'articolo 35-novies.1, comma 3, e dall'articolo 35-quaterdecies, comma 10, del medesimo testo unico di cui al decreto legislativo n. 58 del 1998 e dall'adeguamento dei rispettivi albi e registri di vigilanza, ove precedente la scadenza del termine di cui al comma 3".
 
-##### Art. 35-novies.4
+###### Art. 35-novies.4
 
 (( (Modifiche dello statuto e diritto di recesso). ))
 
@@ -3576,7 +3576,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 4, lettera b)) che "la disciplina dettata dal titolo III, capo I-bis, sezione II-bis e dal capo I-ter della parte II del testo unico di cui al decreto legislativo n. 58 del 1998 si applica a decorrere dalla data di adozione delle disposizioni rispettivamente previste dall'articolo 35-novies.1, comma 3, e dall'articolo 35-quaterdecies, comma 10, del medesimo testo unico di cui al decreto legislativo n. 58 del 1998 e dall'adeguamento dei rispettivi albi e registri di vigilanza, ove precedente la scadenza del termine di cui al comma 3".
 
-##### Art. 35-novies.5
+###### Art. 35-novies.5
 
 (( (Scioglimento e liquidazione volontaria). ))
 
@@ -3600,7 +3600,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 4, lettera b)) che "la disciplina dettata dal titolo III, capo I-bis, sezione II-bis e dal capo I-ter della parte II del testo unico di cui al decreto legislativo n. 58 del 1998 si applica a decorrere dalla data di adozione delle disposizioni rispettivamente previste dall'articolo 35-novies.1, comma 3, e dall'articolo 35-quaterdecies, comma 10, del medesimo testo unico di cui al decreto legislativo n. 58 del 1998 e dall'adeguamento dei rispettivi albi e registri di vigilanza, ove precedente la scadenza del termine di cui al comma 3".
 
-##### Art. 35-novies.6
+###### Art. 35-novies.6
 
 (( (Disposizioni applicabili). ))
 
@@ -3616,9 +3616,9 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 4, lettera b)) che "la disciplina dettata dal titolo III, capo I-bis, sezione II-bis e dal capo I-ter della parte II del testo unico di cui al decreto legislativo n. 58 del 1998 si applica a decorrere dalla data di adozione delle disposizioni rispettivamente previste dall'articolo 35-novies.1, comma 3, e dall'articolo 35-quaterdecies, comma 10, del medesimo testo unico di cui al decreto legislativo n. 58 del 1998 e dall'adeguamento dei rispettivi albi e registri di vigilanza, ove precedente la scadenza del termine di cui al comma 3".
 
-## ((Sezione III - Disposizioni comuni e deroghe))
+##### ((Sezione III - Disposizioni comuni e deroghe))
 
-##### Art. 35-decies - Regole di comportamento e diritto di voto
+###### Art. 35-decies - Regole di comportamento e diritto di voto
 
 1\. ((I gestori autorizzati)): ((133))
 
@@ -3640,7 +3640,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 35-undecies - Deroghe per i GEFIA italiani
+###### Art. 35-undecies - Deroghe per i GEFIA italiani
 
 1\. Per le finalita' indicate dall'articolo 6, comma 01, la Banca d'Italia e la Consob, nell'ambito delle rispettive competenze, possono esentare i gestori autorizzati che gestiscono FIA italiani riservati il cui valore totale dei beni gestiti non supera 100 milioni di euro ovvero 500 milioni se gli Oicr gestiti non fanno ricorso alla leva finanziaria e non consentono agli investitori di esercitare il diritto di rimborso per 5 anni dopo l'investimento iniziale, dall'applicazione delle disposizioni attuative dell'articolo 6, commi 1, 2 e 2-bis.
 
@@ -3650,7 +3650,7 @@ Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disp
 
 1-quater. I soggetti che controllano una SiS, i soggetti da questi direttamente o indirettamente controllati o controllanti, ovvero sottoposti a comune controllo anche in virtu' di patti parasociali o vincoli contrattuali ai sensi dell'articolo 2359 del codice civile, nonche' i soggetti che svolgono funzioni di amministrazione, direzione e controllo presso una o piu' SiS possono procedere alla costituzione di una o piu' SiS, nel rispetto del limite complessivo di ((euro 50 milioni)).
 
-##### Art. 35-duodecies - Valutazione del merito di credito
+###### Art. 35-duodecies - Valutazione del merito di credito
 
 1\. I gestori, per la valutazione del merito di credito dei beni in cui investono gli Oicr, adottano sistemi e procedure che non prevedono l'affidamento esclusivo o meccanico alle valutazioni emesse da agenzie di rating del credito.
 
@@ -3662,7 +3662,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 35-terdecies
+###### Art. 35-terdecies
 
 (( (Revoca dell'autorizzazione). ))
 
@@ -3688,9 +3688,9 @@ AGGIORNAMENTO ((133))
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-## ((Capo I-ter - Disciplina dei soggetti registrati))
+#### ((Capo I-ter - Disciplina dei soggetti registrati))
 
-##### Art. 35-quaterdecies
+###### Art. 35-quaterdecies
 
 (( (Registrazione). ))
 
@@ -3764,7 +3764,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 4, lettera b)) che "la disciplina dettata dal titolo III, capo I-bis, sezione II-bis e dal capo I-ter della parte II del testo unico di cui al decreto legislativo n. 58 del 1998 si applica a decorrere dalla data di adozione delle disposizioni rispettivamente previste dall'articolo 35-novies.1, comma 3, e dall'articolo 35-quaterdecies, comma 10, del medesimo testo unico di cui al decreto legislativo n. 58 del 1998 e dall'adeguamento dei rispettivi albi e registri di vigilanza, ove precedente la scadenza del termine di cui al comma 3".
 
-##### Art. 35-quinquiesdecies
+###### Art. 35-quinquiesdecies
 
 (( (Cancellazione dal registro). ))
 
@@ -3792,7 +3792,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 4, lettera b)) che "la disciplina dettata dal titolo III, capo I-bis, sezione II-bis e dal capo I-ter della parte II del testo unico di cui al decreto legislativo n. 58 del 1998 si applica a decorrere dalla data di adozione delle disposizioni rispettivamente previste dall'articolo 35-novies.1, comma 3, e dall'articolo 35-quaterdecies, comma 10, del medesimo testo unico di cui al decreto legislativo n. 58 del 1998 e dall'adeguamento dei rispettivi albi e registri di vigilanza, ove precedente la scadenza del termine di cui al comma 3".
 
-##### Art. 35-sexiesdecies
+###### Art. 35-sexiesdecies
 
 (( (Disposizioni sull'attivita' dei GEFIA sotto soglia registrati). ))
 
@@ -3834,7 +3834,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 4, lettera b)) che "la disciplina dettata dal titolo III, capo I-bis, sezione II-bis e dal capo I-ter della parte II del testo unico di cui al decreto legislativo n. 58 del 1998 si applica a decorrere dalla data di adozione delle disposizioni rispettivamente previste dall'articolo 35-novies.1, comma 3, e dall'articolo 35-quaterdecies, comma 10, del medesimo testo unico di cui al decreto legislativo n. 58 del 1998 e dall'adeguamento dei rispettivi albi e registri di vigilanza, ove precedente la scadenza del termine di cui al comma 3".
 
-##### Art. 35-septiesdecies
+###### Art. 35-septiesdecies
 
 (( (Poteri delle Autorita'). ))
 
@@ -3866,11 +3866,11 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 4, lettera b)) che "la disciplina dettata dal titolo III, capo I-bis, sezione II-bis e dal capo I-ter della parte II del testo unico di cui al decreto legislativo n. 58 del 1998 si applica a decorrere dalla data di adozione delle disposizioni rispettivamente previste dall'articolo 35-novies.1, comma 3, e dall'articolo 35-quaterdecies, comma 10, del medesimo testo unico di cui al decreto legislativo n. 58 del 1998 e dall'adeguamento dei rispettivi albi e registri di vigilanza, ove precedente la scadenza del termine di cui al comma 3".
 
-## ((CAPO II - OICR ITALIANI
+#### ((CAPO II - OICR ITALIANI
 
-### Sezione I - Fondi comuni di investimento))
+##### Sezione I - Fondi comuni di investimento))
 
-##### Art. 36
+###### Art. 36
 
 Fondi comuni di investimento).
 
@@ -3892,7 +3892,7 @@ Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disp
 
 Ha inoltre disposto (con l'art. 11, comma 4, lettera a)) che "le modifiche apportate dal presente decreto agli articoli 34, comma 4, 36, comma 2, 41-bis, comma 5, 41-ter, comma 3, 42, commi 1, 3 e 4-bis, 42-bis, comma 8, 44, comma 4, 47, comma 3, 48, comma 4, 49, comma 3, del testo unico di cui al decreto legislativo n. 58 del 1998 si applicano a decorrere dalla data di entrata in vigore del presente decreto. Ai procedimenti amministrativi previsti ai sensi dei richiamati articoli avviati prima della data di entrata in vigore del presente decreto continuano ad applicarsi le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998 e le relative disposizioni attuative nella formulazione anteriore alle modifiche introdotte dal presente decreto e alle relative disposizioni attuative".
 
-##### Art. 37 - Regolamento del fondo
+###### Art. 37 - Regolamento del fondo
 
 1\. Il regolamento di ciascun fondo comune di investimento definisce le caratteristiche del fondo, ne disciplina il funzionamento, indica il gestore e il depositario, definisce la ripartizione dei compiti tra tali soggetti, regola i rapporti intercorrenti tra tali soggetti e i partecipanti al fondo.
 
@@ -3938,9 +3938,9 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-## Sezione II - ((Oicr societari in gestione esterna))
+##### Sezione II - ((Oicr societari in gestione esterna))
 
-##### Art. 38 - Sicav e Sicaf che designano un gestore esterno
+###### Art. 38 - Sicav e Sicaf che designano un gestore esterno
 
 1\. ((Le Sicav in gestione esterna e le Sicaf in gestione esterna)) rispettano le seguenti condizioni: ((133))
 
@@ -3986,7 +3986,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 38-bis
+###### Art. 38-bis
 
 (( (Societa' di partenariato in gestione esterna). ))
 
@@ -4036,9 +4036,9 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-## ((Sezione III - Disposizioni comuni))
+##### ((Sezione III - Disposizioni comuni))
 
-##### Art. 39 - Struttura degli Oicr italiani
+###### Art. 39 - Struttura degli Oicr italiani
 
 1\. Il Ministro dell'economia e delle finanze, con regolamento adottato sentite la Banca d'Italia e la Consob, determina i criteri generali cui devono uniformarsi gli Oicr italiani con riguardo:
 
@@ -4070,7 +4070,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 39-bis
+###### Art. 39-bis
 
 (( (Oggetto dell'investimento degli Oicr). ))
 
@@ -4098,7 +4098,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 39-ter
+###### Art. 39-ter
 
 (( (Oggetto dell'investimento degli OICVM italiani). ))
 
@@ -4114,7 +4114,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 39-quater
+###### Art. 39-quater
 
 (( (Oggetto dell'investimento e struttura dei FIA italiani). ))
 
@@ -4136,7 +4136,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 39-quinquies
+###### Art. 39-quinquies
 
 (( (Ammissione alle negoziazioni). ))
 
@@ -4150,7 +4150,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 39-sexies
+###### Art. 39-sexies
 
 (( (Durata). ))
 
@@ -4168,7 +4168,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 39-septies
+###### Art. 39-septies
 
 (( (Modalita' di partecipazione e di rimborso per gli Oicr italiani aperti). ))
 
@@ -4188,7 +4188,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 39-octies
+###### Art. 39-octies
 
 (( (Modalita' di partecipazione ai FIA italiani chiusi). ))
 
@@ -4214,7 +4214,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 39-novies
+###### Art. 39-novies
 
 (( (Modalita' di rimborso dei FIA italiani chiusi). ))
 
@@ -4246,7 +4246,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 39-decies
+###### Art. 39-decies
 
 (( (Obblighi informativi per gli OICVM italiani). ))
 
@@ -4272,7 +4272,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 39-undecies
+###### Art. 39-undecies
 
 (( (Obblighi informativi per i FIA italiani). ))
 
@@ -4298,9 +4298,9 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-## ((Sezione IV - Strutture master-feeder))
+##### ((Sezione IV - Strutture master-feeder))
 
-##### Art. 40
+###### Art. 40
 
 (( (Autorizzazione e regole di funzionamento delle strutture master-feeder). ))
 
@@ -4334,9 +4334,9 @@ e) gli obblighi di comunicazione e lo scambio di informazioni e documenti tra il
 
 7\. Le norme del presente articolo non si applicano ai FIA italiani riservati. ))
 
-## ((Sezione V - Fusione e scissione di organismi di investimento del risparmio))
+##### ((Sezione V - Fusione e scissione di organismi di investimento del risparmio))
 
-##### Art. 40-bis
+###### Art. 40-bis
 
 (( (Fusione e scissione di Oicr). ))
 
@@ -4362,7 +4362,7 @@ f) i diritti dei partecipanti.
 
 5\. Le norme del presente articolo non si applicano ai FIA italiani riservati. ))
 
-##### Art. 40-ter - Fusione transfrontaliera di OICVM
+###### Art. 40-ter - Fusione transfrontaliera di OICVM
 
 1\. Alle fusioni tra OICVM UE e OICVM italiani e a quelle che coinvolgono OICVM italiani le cui quote sono commercializzate in un altro Stato dell'UE ai sensi dell'articolo ((41, comma 2-bis,)) si applicano, oltre all'articolo 40-bis, le disposizioni contenute nel presente articolo. ((133))
 
@@ -4378,9 +4378,9 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-## CAPO II-BIS - OPERATIVITA' TRANSFRONTALIERA DEI GESTORI ((AUTORIZZATI))
+#### CAPO II-BIS - OPERATIVITA' TRANSFRONTALIERA DEI GESTORI ((AUTORIZZATI))
 
-##### Art. 41 - Operativita' transfrontaliera delle Sgr ((autorizzate))
+###### Art. 41 - Operativita' transfrontaliera delle Sgr ((autorizzate))
 
 1\. Le Sgr ((autorizzate)) possono operare, anche senza stabilirvi succursali, in uno Stato UE e non UE, in conformita' al regolamento previsto dal comma 2. ((133))
 
@@ -4408,7 +4408,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 41-bis - Societa' di gestione UE
+###### Art. 41-bis - Societa' di gestione UE
 
 1\. Per l'esercizio delle attivita' per le quali sono autorizzate ai sensi delle disposizioni dell'Unione europea, le societa' di gestione UE possono stabilire succursali nel territorio della Repubblica. Il primo insediamento e' preceduto da una comunicazione alla Banca d'Italia e alla Consob da parte dell'autorita' competente dello Stato di origine. La succursale inizia l'attivita' decorsi due mesi dalla comunicazione.
 
@@ -4444,7 +4444,7 @@ Ha inoltre disposto (con l'art. 11, comma 4, lettera a)) che "In deroga a quanto
 
 a) le modifiche apportate dal presente decreto agli articoli 34, comma 4, 36, comma 2, 41-bis, comma 5, 41-ter, comma 3, 42, commi 1, 3 e 4-bis, 42-bis, comma 8, 44, comma 4, 47, comma 3, 48, comma 4, 49, comma 3, del testo unico di cui al decreto legislativo n. 58 del 1998 si applicano a decorrere dalla data di entrata in vigore del presente decreto. Ai procedimenti amministrativi previsti ai sensi dei richiamati articoli avviati prima della data di entrata in vigore del presente decreto continuano ad applicarsi le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998 e le relative disposizioni attuative nella formulazione anteriore alle modifiche introdotte dal presente decreto e alle relative disposizioni attuative".
 
-##### Art. 41-ter - GEFIA UE
+###### Art. 41-ter - GEFIA UE
 
 1\. Fermo restando quanto previsto nel capo II-ter, i GEFIA UE possono svolgere l'attivita' di gestione collettiva del risparmio per la quale sono autorizzati ai sensi delle disposizioni dell'UE nel territorio della Repubblica in libera prestazione di servizi o mediante stabilimento di succursali, a condizione che la Banca d'Italia sia informata dall'autorita' competente dello Stato di origine. La Banca d'Italia trasmette tempestivamente copia di tale comunicazione alla Consob.
 
@@ -4472,7 +4472,7 @@ Il D.Lgs. 27 marzo 2026, n. 47, ha disposto (con l'art. 11, comma 4, lettera a))
 
 a) le modifiche apportate dal presente decreto agli articoli 34, comma 4, 36, comma 2, 41-bis, comma 5, 41-ter, comma 3, 42, commi 1, 3 e 4-bis, 42-bis, comma 8, 44, comma 4, 47, comma 3, 48, comma 4, 49, comma 3, del testo unico di cui al decreto legislativo n. 58 del 1998 si applicano a decorrere dalla data di entrata in vigore del presente decreto. Ai procedimenti amministrativi previsti ai sensi dei richiamati articoli avviati prima della data di entrata in vigore del presente decreto continuano ad applicarsi le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998 e le relative disposizioni attuative nella formulazione anteriore alle modifiche introdotte dal presente decreto e alle relative disposizioni attuative".
 
-##### Art. 41-quater - GEFIA non UE
+###### Art. 41-quater - GEFIA non UE
 
 1\. La Banca d'Italia, d'intesa con la Consob, autorizza i GEFIA non UE alla gestione di FIA italiani e FIA UE o alla commercializzazione nel territorio dell'UE dei FIA gestiti, quando l'Italia e', ai sensi della direttiva 2011/61/UE, lo Stato di riferimento. La Banca d'Italia trasmette tempestivamente alla Consob copia della richiesta di autorizzazione delle suddette societa'. La Banca d'Italia iscrive i GEFIA non UE autorizzati in un'apposita sezione dell'albo previsto dall'articolo 35. La Banca d'Italia comunica alla Consob le avvenute iscrizioni.
 
@@ -4502,9 +4502,9 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-## CAPO II-TER - ((PRE-COMMERCIALIZZAZIONE E COMMERCIALIZZAZIONE DI OICR))
+#### CAPO II-TER - ((PRE-COMMERCIALIZZAZIONE E COMMERCIALIZZAZIONE DI OICR))
 
-##### Art. 42 - Commercializzazione in Italia di quote o di azioni di OICVM UE
+###### Art. 42 - Commercializzazione in Italia di quote o di azioni di OICVM UE
 
 1\. La commercializzazione in Italia di quote o di azioni di OICVM UE e' preceduta da una notifica alla Consob da parte dell'autorita' dello Stato di origine dell'OICVM, secondo le procedure previste dalle disposizioni dell'UE e nel rispetto delle relative norme di attuazione adottate con regolamento dalla Consob ((...)). Con il medesimo regolamento la Consob disciplina le strutture per gli investitori che gli OICVM UE devono mettere a disposizione in Italia, previste dall'articolo 92 della direttiva 2009/65/CE e, in particolare: a) determina i compiti delle strutture per gli investitori in modo da garantire ai medesimi l'esercizio dei diritti e l'accesso alle informazioni previsti dall'articolo 92 della direttiva 2009/65/CE; b) stabilisce la lingua attraverso cui tali strutture devono essere fornite; c) disciplina le condizioni in presenza delle quali i compiti di cui alla lettera a) possono essere svolti da un soggetto terzo o dall'OICVM UE congiuntamente a un soggetto terzo. ((133))
 
@@ -4538,7 +4538,7 @@ Il D.Lgs. 27 marzo 2026, n. 47, ha disposto (con l'art. 11, comma 4, lettera a))
 
 a) le modifiche apportate dal presente decreto agli articoli 34, comma 4, 36, comma 2, 41-bis, comma 5, 41-ter, comma 3, 42, commi 1, 3 e 4-bis, 42-bis, comma 8, 44, comma 4, 47, comma 3, 48, comma 4, 49, comma 3, del testo unico di cui al decreto legislativo n. 58 del 1998 si applicano a decorrere dalla data di entrata in vigore del presente decreto. Ai procedimenti amministrativi previsti ai sensi dei richiamati articoli avviati prima della data di entrata in vigore del presente decreto continuano ad applicarsi le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998 e le relative disposizioni attuative nella formulazione anteriore alle modifiche introdotte dal presente decreto e alle relative disposizioni attuative".
 
-##### Art. 42-bis - Pre-commercializzazione di FIA riservati
+###### Art. 42-bis - Pre-commercializzazione di FIA riservati
 
 1\. La pre-commercializzazione di FIA riservati e' la fornitura di informazioni o comunicazioni, direttamente o indirettamente, su strategie o su idee di investimento da parte di una Sgr ((autorizzata)) o di un GEFIA UE o per loro conto ai potenziali investitori professionali residenti o aventi sede legale nel territorio dell'Unione europea, al fine di sondare l'interesse dei medesimi verso un FIA italiano o UE o un comparto non ancora istituiti o istituiti ma per i quali non e' stata ancora avviata la procedura di notifica prevista dall'articolo 43, commi 2 e 8, nello Stato membro in cui i potenziali investitori risiedono o hanno la sede legale. In ogni caso, la pre-commercializzazione non costituisce mai un'offerta ai sensi dell'articolo 43, comma 1. ((133))
 
@@ -4592,7 +4592,7 @@ Ha inoltre disposto (con l'art. 11, comma 4, lettera a)) che "In deroga a quanto
 
 a) le modifiche apportate dal presente decreto agli articoli 34, comma 4, 36, comma 2, 41-bis, comma 5, 41-ter, comma 3, 42, commi 1, 3 e 4-bis, 42-bis, comma 8, 44, comma 4, 47, comma 3, 48, comma 4, 49, comma 3, del testo unico di cui al decreto legislativo n. 58 del 1998 si applicano a decorrere dalla data di entrata in vigore del presente decreto. Ai procedimenti amministrativi previsti ai sensi dei richiamati articoli avviati prima della data di entrata in vigore del presente decreto continuano ad applicarsi le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998 e le relative disposizioni attuative nella formulazione anteriore alle modifiche introdotte dal presente decreto e alle relative disposizioni attuative".
 
-##### Art. 43 - Commercializzazione di FIA riservati
+###### Art. 43 - Commercializzazione di FIA riservati
 
 1\. La commercializzazione di FIA e' l'offerta, anche indiretta, su iniziativa o per conto del gestore, delle quote o azioni del FIA gestito rivolta ad investitori residenti o aventi sede legale nel territorio dell'UE.
 
@@ -4670,11 +4670,11 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47, ha disposto (11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 43-bis
+###### Art. 43-bis
 
 ((ARTICOLO NON PIU' PREVISTO A SEGUITO DELLA SOSTITUZIONE DELLA PARTE II, TITOLO III, CAPO I, DISPOSTA DAL D.LGS. 4 MARZO 2014, N. 44))
 
-##### Art. 44 - Commercializzazione di FIA non riservati
+###### Art. 44 - Commercializzazione di FIA non riservati
 
 1\. Fermo restando quanto previsto dagli articoli 35-bis, 37, 38 e 39, la commercializzazione in Italia di quote o azioni di FIA italiani non riservati alle categorie di investitori di cui all'articolo 43, e' preceduta da una notifica inoltrata dal gestore ((autorizzato)) alla Consob per ciascun FIA oggetto di commercializzazione. ((133))
 
@@ -4760,9 +4760,9 @@ Ha inoltre disposto (con l'art. 11, comma 4, lettera a)) che "In deroga a quanto
 
 a) le modifiche apportate dal presente decreto agli articoli 34, comma 4, 36, comma 2, 41-bis, comma 5, 41-ter, comma 3, 42, commi 1, 3 e 4-bis, 42-bis, comma 8, 44, comma 4, 47, comma 3, 48, comma 4, 49, comma 3, del testo unico di cui al decreto legislativo n. 58 del 1998 si applicano a decorrere dalla data di entrata in vigore del presente decreto. Ai procedimenti amministrativi previsti ai sensi dei richiamati articoli avviati prima della data di entrata in vigore del presente decreto continuano ad applicarsi le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998 e le relative disposizioni attuative nella formulazione anteriore alle modifiche introdotte dal presente decreto e alle relative disposizioni attuative".
 
-## CAPO II-QUATER - OBBLIGHI ((DEI GESTORI AUTORIZZATI)) I CUI FIA ACQUISISCONO PARTECIPAZIONI RILEVANTI E DI CONTROLLO DI SOCIETA' NON QUOTATE E DI EMITTENTI
+#### CAPO II-QUATER - OBBLIGHI ((DEI GESTORI AUTORIZZATI)) I CUI FIA ACQUISISCONO PARTECIPAZIONI RILEVANTI E DI CONTROLLO DI SOCIETA' NON QUOTATE E DI EMITTENTI
 
-##### Art. 45 - Obblighi relativi all'acquisizione di partecipazioni rilevanti o di controllo di societa' non quotate
+###### Art. 45 - Obblighi relativi all'acquisizione di partecipazioni rilevanti o di controllo di societa' non quotate
 
 1\. Le Sgr ((autorizzate)) comunicano alla Consob il raggiungimento, il superamento o la riduzione al di sotto delle soglie del 10 ((per cento)), 20 ((per cento)), 30 ((per cento)), 50 ((per cento)) e 75 ((per cento)) dei diritti di voto in una societa' non quotata in conseguenza dell'acquisto, della detenzione o della cessione di partecipazioni al capitale sociale da parte del FIA italiano, del FIA UE o non UE da esse gestito. Tale comunicazione e' effettuata entro dieci giorni lavorativi dalla data dell'operazione. ((133))
 
@@ -4806,7 +4806,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47, ha disposto (11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 46 - Obblighi relativi all'acquisizione di partecipazioni di controllo di un emittente
+###### Art. 46 - Obblighi relativi all'acquisizione di partecipazioni di controllo di un emittente
 
 1\. Le Sgr ((autorizzate)) i cui FIA italiani, FIA UE e non UE acquisiscono una partecipazione di controllo al capitale di un emittente comunicano le informazioni stabilite dalla Consob con proprio regolamento, secondo le modalita' e nei termini ivi stabiliti, nei confronti: ((133))
 
@@ -4846,9 +4846,9 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47, ha disposto (11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-## CAPO II-QUINQUIES - ((FIA che investono in crediti))
+#### CAPO II-QUINQUIES - ((FIA che investono in crediti))
 
-##### Art. 46-bis
+###### Art. 46-bis
 
 FIA italiani che investono in crediti (132)
 
@@ -4902,7 +4902,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47, ha disposto (11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 46-ter
+###### Art. 46-ter
 
 FIA UE che investono in crediti in Italia (132)
 
@@ -4934,7 +4934,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47, ha disposto (11, comma 3) che "Le disposizioni modificative della parte II, titoli II e III, del testo unico di cui al decreto legislativo n. 58 del 1998, e le disposizioni modificative delle relative definizioni, si applicano a partire da nove mesi successivi all'entrata in vigore del presente decreto".
 
-##### Art. 46-quater
+###### Art. 46-quater
 
 Altre disposizioni applicabili
 
@@ -4948,9 +4948,9 @@ AGGIORNAMENTO (132)
 
 Il D.Lgs. 13 marzo 2026, n. 39 ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 16 aprile 2026".
 
-## ((CAPO III - DEPOSITARIO))
+#### ((CAPO III - DEPOSITARIO))
 
-##### Art. 47 - Incarico di depositario
+###### Art. 47 - Incarico di depositario
 
 1\. Per ciascun Oicr il gestore conferisce l'incarico di depositario a un unico soggetto, cui sono affidati i beni dell'Oicr secondo quanto previsto nel presente capo.
 
@@ -4994,7 +4994,7 @@ Ha inoltre disposto (con l'art. 11, comma 4, lettera a)) che "In deroga a quanto
 
 a) le modifiche apportate dal presente decreto agli articoli 34, comma 4, 36, comma 2, 41-bis, comma 5, 41-ter, comma 3, 42, commi 1, 3 e 4-bis, 42-bis, comma 8, 44, comma 4, 47, comma 3, 48, comma 4, 49, comma 3, del testo unico di cui al decreto legislativo n. 58 del 1998 si applicano a decorrere dalla data di entrata in vigore del presente decreto. Ai procedimenti amministrativi previsti ai sensi dei richiamati articoli avviati prima della data di entrata in vigore del presente decreto continuano ad applicarsi le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998 e le relative disposizioni attuative nella formulazione anteriore alle modifiche introdotte dal presente decreto e alle relative disposizioni attuative".
 
-##### Art. 48 - Compiti del depositario
+###### Art. 48 - Compiti del depositario
 
 1\. Il depositario agisce in modo indipendente e nell'interesse dei partecipanti all'Oicr. Esso adotta ogni misura idonea a prevenire potenziali conflitti di interesse tra l'esercizio delle funzioni di depositario e le altre attivita' svolte.
 
@@ -5032,7 +5032,7 @@ Ha inoltre (con l'art. 11, comma 4, lettera a)) che "In deroga a quanto previsto
 
 a) le modifiche apportate dal presente decreto agli articoli 34, comma 4, 36, comma 2, 41-bis, comma 5, 41-ter, comma 3, 42, commi 1, 3 e 4-bis, 42-bis, comma 8, 44, comma 4, 47, comma 3, 48, comma 4, 49, comma 3, del testo unico di cui al decreto legislativo n. 58 del 1998 si applicano a decorrere dalla data di entrata in vigore del presente decreto. Ai procedimenti amministrativi previsti ai sensi dei richiamati articoli avviati prima della data di entrata in vigore del presente decreto continuano ad applicarsi le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998 e le relative disposizioni attuative nella formulazione anteriore alle modifiche introdotte dal presente decreto e alle relative disposizioni attuative".
 
-##### Art. 49 - Responsabilita' del depositario
+###### Art. 49 - Responsabilita' del depositario
 
 1\. Il depositario e' responsabile nei confronti del gestore e dei partecipanti all'Oicr di ogni pregiudizio da essi subito in conseguenza dell'inadempimento dei propri obblighi.
 
@@ -5050,35 +5050,35 @@ Il D.Lgs. 27 marzo 2026, n. 47, ha disposto (con l'art. 11, comma 4, lettera a))
 
 a) le modifiche apportate dal presente decreto agli articoli 34, comma 4, 36, comma 2, 41-bis, comma 5, 41-ter, comma 3, 42, commi 1, 3 e 4-bis, 42-bis, comma 8, 44, comma 4, 47, comma 3, 48, comma 4, 49, comma 3, del testo unico di cui al decreto legislativo n. 58 del 1998 si applicano a decorrere dalla data di entrata in vigore del presente decreto. Ai procedimenti amministrativi previsti ai sensi dei richiamati articoli avviati prima della data di entrata in vigore del presente decreto continuano ad applicarsi le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998 e le relative disposizioni attuative nella formulazione anteriore alle modifiche introdotte dal presente decreto e alle relative disposizioni attuative".
 
-##### Art. 50
+###### Art. 50
 
 ((ARTICOLO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 44))
 
-## CAPO III-BIS - STRUTTURE MASTER-FEEDER
+#### CAPO III-BIS - STRUTTURE MASTER-FEEDER
 
-### ((CAPO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 44))
+#### ((CAPO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 44))
 
-##### Art. 50-bis
-
-((ARTICOLO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 44))
-
-## CAPO III-TER - FUSIONE E SCISSIONE DI ORGANISMI DI INVESTIMENTO DEL RISPARMIO
-
-### ((CAPO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 44))
-
-##### Art. 50-ter
+###### Art. 50-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 44))
 
-##### Art. 50-quater
+#### CAPO III-TER - FUSIONE E SCISSIONE DI ORGANISMI DI INVESTIMENTO DEL RISPARMIO
+
+#### ((CAPO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 44))
+
+###### Art. 50-ter
 
 ((ARTICOLO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 44))
 
-## ((Titolo III-Bis - Gestione di portali per la raccolta di capitali per le piccole e medie imprese e per le imprese sociali
+###### Art. 50-quater
 
-### Capo I - Gestione di portali per la raccolta di capitali per le piccole e medie imprese e per le imprese sociali))
+((ARTICOLO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 44))
 
-##### Art. 50-quinquies
+### ((Titolo III-Bis - Gestione di portali per la raccolta di capitali per le piccole e medie imprese e per le imprese sociali
+
+#### Capo I - Gestione di portali per la raccolta di capitali per le piccole e medie imprese e per le imprese sociali))
+
+###### Art. 50-quinquies
 
 ((ARTICOLO ABROGATO DAL D.LGS. 10 MARZO 2023, N. 30))
 
@@ -5090,13 +5090,13 @@ AGGIORNAMENTO (117)
 
 Il D.Lgs. 10 marzo 2023, n. 30 ha disposto (con l'art. 1, comma 3) che "Ai fini dello svolgimento del servizio di gestione di portali per la raccolta di capitali tramite portali per le piccole e medie imprese e per le imprese sociali, durante il periodo transitorio di cui all'articolo 48 del regolamento (UE) 2020/1503, ai soggetti iscritti nel registro di cui all'articolo 50-quinquies, comma 2, del decreto legislativo 24 febbraio 1998, n. 58, continuano ad applicarsi le disposizioni del predetto decreto, nel testo in vigore antecedentemente alle modifiche apportate dal presente articolo, sino al termine del periodo transitorio individuato ai sensi dell'articolo 48 del regolamento (UE) 2020/1503, o, se precedente, sino all'ottenimento dell'autorizzazione prevista dall'articolo 12 del regolamento (UE) 2020/1503."
 
-## TITOLO IV - PROVVEDIMENTI INGIUNTIVI E CRISI
+### TITOLO IV - PROVVEDIMENTI INGIUNTIVI E CRISI
 
-### CAPO I - DISCIPLINA DEI PROVVEDIMENTI INGIUNTIVI
+#### CAPO I - DISCIPLINA DEI PROVVEDIMENTI INGIUNTIVI
 
 #### ((CAPO ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129))
 
-##### Art. 51
+###### Art. 51
 
 ((ARTICOLO ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129))
 
@@ -5108,7 +5108,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 52
+###### Art. 52
 
 ((ARTICOLO ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129))
 
@@ -5120,7 +5120,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 53
+###### Art. 53
 
 ((ARTICOLO ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129))
 
@@ -5132,7 +5132,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 54
+###### Art. 54
 
 ((ARTICOLO ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129))
 
@@ -5144,7 +5144,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 55
+###### Art. 55
 
 ((ARTICOLO ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129))
 
@@ -5156,9 +5156,9 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-## ((CAPO I-BIS - PIANI DI RISANAMENTO, SOSTEGNO FINANZIARIO DI GRUPPO E INTERVENTO PRECOCE))
+#### ((CAPO I-BIS - PIANI DI RISANAMENTO, SOSTEGNO FINANZIARIO DI GRUPPO E INTERVENTO PRECOCE))
 
-##### Art. 55-bis - Ambito di applicazione
+###### Art. 55-bis - Ambito di applicazione
 
 1\. Il presente Capo si applica ((ai seguenti soggetti:))
 
@@ -5174,7 +5174,7 @@ c) ((LETTERA ABROGATA DAL D.LGS. 5 NOVEMBRE 2021, N. 201)).
 
 3\. La Banca d'Italia adotta disposizioni attuative del presente Capo, anche per tenere conto di orientamenti dell'ABE.
 
-##### Art. 55-ter
+###### Art. 55-ter
 
 (( (Piani di risanamento). ))
 
@@ -5186,13 +5186,13 @@ c) ((LETTERA ABROGATA DAL D.LGS. 5 NOVEMBRE 2021, N. 201)).
 
 4\. Si applicano gli articoli 69-octies e 69-novies del Testo unico bancario. ))
 
-##### Art. 55-quater
+###### Art. 55-quater
 
 (( (Sostegno finanziario di gruppo). ))
 
 ((1. Le Sim appartenenti a un gruppo ai sensi dell'articolo 11 possono concludere con altre componenti del gruppo accordi per fornirsi sostegno finanziario per il caso in cui per una di esse si realizzino i presupposti dell'intervento precoce ai sensi dell'articolo 55-quinquies. Agli accordi si applicano, in quanto compatibili, gli articoli 69-duodecies, 69-terdecies, 69-quaterdecies, 69-quinquiesdecies, 69-sexiesdecies e 69-septiesdecies del Testo unico bancario. ))
 
-##### Art. 55-quinquies - Intervento precoce
+###### Art. 55-quinquies - Intervento precoce
 
 1\. La Banca d'Italia puo', sentita la Consob per i profili di competenza, disporre le misure indicate agli articoli 69-noviesdecies e 69-vicies-semel del Testo unico bancario nei confronti di una Sim o di una societa' posta al vertice di un gruppo ai sensi dell'articolo 11 al ricorrere dei presupposti indicati dall'articolo 69-octiesdecies del Testo unico bancario. ((A tal fine la Banca d'Italia esercita i poteri indicati dagli articoli 6-bis, commi 1, 2, 3, 11; 6-ter, commi 1, 5, 6, 7, 8; e 12, comma 5. Le misure sono adottate su proposta della Consob quando le violazioni riguardano disposizioni sul cui rispetto questa vigila.)) Le misure sono adottate su proposta della Consob quando le violazioni riguardano disposizioni sul cui rispetto questa vigila. ((73))
 
@@ -5204,15 +5204,15 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 55-sexies
+###### Art. 55-sexies
 
 (( (Partecipazione al Meccanismo di Vigilanza Unico e al Meccanismo di Risoluzione Unico). ))
 
 ((1. La Banca d'Italia applica le disposizioni del presente Capo alle Sim di classe 1 secondo quanto previsto dall'articolo 6-bis del Testo Unico Bancario e dall'articolo 6-bis del decreto legislativo 16 novembre 2015, n. 180, e nel rispetto delle competenze attribuite alla Banca Centrale Europea e al Comitato di Risoluzione Unico.))
 
-## CAPO II - DISCIPLINA DELLE CRISI
+#### CAPO II - DISCIPLINA DELLE CRISI
 
-##### Art. 56
+###### Art. 56
 
 Amministrazione straordinaria
 
@@ -5240,7 +5240,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 56-bis - Rimozione collettiva dei componenti degli organi di amministrazione e controllo ((e dell'alta dirigenza))
+###### Art. 56-bis - Rimozione collettiva dei componenti degli organi di amministrazione e controllo ((e dell'alta dirigenza))
 
 1\. La Banca d'Italia, sentita la Consob puo' disporre la rimozione ((e ordinare il rinnovo)) di tutti i componenti degli organi con funzione di amministrazione e di controllo delle Sim, ((dei gestori autorizzati o)) delle relative societa' capogruppo, al ricorrere dei presupposti indicati all'articolo 56, comma 1, lettera a). ((Le misure sono adottate su proposta della Consob quando le violazioni riguardano disposizioni sul cui rispetto essa vigila.)) Il provvedimento e' pubblicato per estratto nella Gazzetta Ufficiale della Repubblica italiana. (73)
 
@@ -5260,7 +5260,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 57
+###### Art. 57
 
 Liquidazione coatta amministrativa
 
@@ -5302,7 +5302,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 57-bis
+###### Art. 57-bis
 
 (( (Liquidazione ordinaria).))
 
@@ -5312,7 +5312,7 @@ Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le dis
 
 3\. ((La Banca d'Italia, d'intesa con la Consob, puo' emanare disposizioni attuative del presente articolo.))
 
-##### Art. 57-ter
+###### Art. 57-ter
 
 (( (Crisi del fondo comune di investimento e del relativo comparto).))
 
@@ -5334,7 +5334,7 @@ Si applica il comma 5, secondo e terzo periodo.))
 
 7\. ((Il presente articolo si applica anche ai gestori di fondi EuVECA disciplinati ai sensi del regolamento (UE) 345/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, e ai gestori di fondi EuSEF disciplinati ai sensi del regolamento (UE) 346/2013 del Parlamento europeo e del Consiglio, del 17 aprile 2013, in quanto compatibile con i citati regolamenti europei.))
 
-##### Art. 57-quater
+###### Art. 57-quater
 
 (( (Crisi del GEFIA sotto soglia registrato, di un FIA da esso gestito o del relativo comparto.))
 
@@ -5354,7 +5354,7 @@ Si applica il comma 5, secondo e terzo periodo.))
 
 8\. ((Qualora il FIA o il comparto sottoposto a liquidazione giudiziale ai sensi del comma 5 sia privo di risorse liquide o queste siano stimate dai liquidatori insufficienti a soddisfare i crediti in prededuzione fino alla chiusura della procedura, si applicano, in quanto compatibili, le disposizioni dell'articolo 57-ter, comma 2.)) 9. ((Il GEFIA sotto soglia registrato puo', per conto del FIA da questo gestito o del comparto, presentare l'istanza di accesso alla composizione negoziata e avvalersi degli strumenti di regolazione della crisi e dell'insolvenza di cui, rispettivamente, alla parte prima, titolo II e alla parte prima, titolo IV, capi I, I-bis e III del codice della crisi d'impresa e dell'insolvenza, di cui al decreto legislativo n. 14 del 2019. Si applicano, in quanto compatibili, le relative disposizioni.))
 
-##### Art. 58 - Succursali in Italia di imprese di investimento e di gestori esteri
+###### Art. 58 - Succursali in Italia di imprese di investimento e di gestori esteri
 
 1\. Quando a una impresa di investimento ((UE)), a una societa' di gestione UE, a un GEFIA UE o a un GEFIA non UE autorizzato in uno Stato membro dell'UE diverso dall'Italia e' revocata l'autorizzazione all'attivita' da parte dell'autorita' competente, le succursali italiane possono essere sottoposte alla procedura di liquidazione coatta amministrativa secondo le disposizioni dell'articolo 57, in quanto compatibili. ((73))
 
@@ -5366,7 +5366,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 58-bis
+###### Art. 58-bis
 
 (( (Imprese di investimento operanti nell'Unione europea) )) ((73))
 
@@ -5386,7 +5386,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 59
+###### Art. 59
 
 Sistemi di indennizzo
 
@@ -5402,7 +5402,7 @@ Sistemi di indennizzo
 
 6\. Per le cause relative alle richieste di indennizzo e' competente il giudice del luogo ove ha sede legale il sistema di indennizzo.
 
-##### Art. 60
+###### Art. 60
 
 Adesione ai sistemi d'indennizzo da parte di intermediari esteri
 
@@ -5416,7 +5416,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 60-bis - Responsabilita' delle Sim, delle Sgr, ((delle Sicav, delle Sicaf e delle societa' di partenariato)) per illecito amministrativo dipendente da reato
+###### Art. 60-bis - Responsabilita' delle Sim, delle Sgr, ((delle Sicav, delle Sicaf e delle societa' di partenariato)) per illecito amministrativo dipendente da reato
 
 1\. Il pubblico ministero che iscrive, ai sensi dell'articolo 55 del decreto legislativo 8 giugno 2001, n. 231, nel registro delle notizie di reato un illecito amministrativo a carico di una SIM, di una SGR, ((di una Sicav, di una Sicaf o di una societa' di partenariato)), ne da' comunicazione alla Banca d'Italia e alla CONSOB. Nel corso del procedimento, ove il pubblico ministero ne faccia richiesta, vengono sentite la Banca d'Italia e la CONSOB, le quali hanno, in ogni caso, facolta' di presentare relazioni scritte.
 
@@ -5434,9 +5434,9 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-## ((CAPO II-BIS - RISOLUZIONE DELLE SIM))
+#### ((CAPO II-BIS - RISOLUZIONE DELLE SIM))
 
-##### Art. 60-bis.1 - Ambito di applicazione
+###### Art. 60-bis.1 - Ambito di applicazione
 
 1\. Il presente Capo si applica alle Sim indicate all'articolo 55-bis, comma 1, e alle succursali italiane di imprese di paesi terzi diverse dalle banche che svolgono le attivita' indicate dal medesimo articolo, se non rientrano nel campo di applicazione del decreto [legislativo 16 novembre 2015, n. 180]. (73)
 
@@ -5454,7 +5454,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 60-bis.2 - Piani di risoluzione
+###### Art. 60-bis.2 - Piani di risoluzione
 
 1\. La Banca d'Italia predispone, sentita la Consob per i profili di competenza:
 
@@ -5466,7 +5466,7 @@ b) un piano di risoluzione di gruppo per i gruppi indicati dall'articolo 11, sec
 
 3\. Si applicano, in quanto compatibili, il Titolo III, Capo I, del decreto ((legislativo 16 novembre 2015, n. 180)) e le disposizioni da esso richiamate.
 
-##### Art. 60-bis.3 - Risolvibilita'
+###### Art. 60-bis.3 - Risolvibilita'
 
 1\. La Banca d'Italia valuta se una Sim non facente parte di un gruppo e' risolvibile secondo quanto previsto dall'articolo 12 del decreto legislativo 16 novembre 2015, n. 180 e dalle disposizioni da esso richiamate.
 
@@ -5484,7 +5484,7 @@ b) i riferimenti all'esposizione al rischio calcolata ai sensi dell'articolo 92,
 
 c) i riferimenti al requisito di capitale vincolante di secondo pilastro stabilito in base alla normativa di recepimento dell'articolo 104-bis della direttiva 2013/36/UE si intendono effettuati a quelli disciplinati dalla normativa di recepimento dell'articolo 40 della direttiva (UE) 2019/2034.))
 
-##### Art. 60-bis.4 - Risoluzione e altre procedure di gestione delle crisi
+###### Art. 60-bis.4 - Risoluzione e altre procedure di gestione delle crisi
 
 1\. Alle Sim si applicano i Titoli IV e VI, nonche' gli articoli 99, 102, 103, 104 e 105 del decreto legislativo 16 novembre 2015, n. 180. ((Alle Sim di classe 1 si applica altresi' il Titolo V del medesimo decreto legislativo.)) I provvedimenti, indicati all'articolo 20 del medesimo decreto legislativo, con cui e' disposta la riduzione o la conversione di azioni, di altre partecipazioni e di strumenti di capitale, o l'avvio della risoluzione sono adottati sentita la Consob per i profili di competenza.
 
@@ -5492,7 +5492,7 @@ c) i riferimenti al requisito di capitale vincolante di secondo pilastro stabili
 
 2\. Ai fini del comma 1, i riferimenti contenuti nel decreto legislativo 16 novembre 2015, n. 180 alla ((disciplina del Testo unico bancario in materia di amministrazione straordinaria, liquidazione coatta amministrativa e, salvo che per le Sim di classe 1, acquisto di partecipazioni qualificate)) si intendono effettuati alle corrispondenti disposizioni del presente decreto legislativo.
 
-##### Art. 60-bis.4-bis
+###### Art. 60-bis.4-bis
 
 ((Strumenti di debito chirografario di secondo livello e valore nominale unitario minimo)).
 
@@ -5500,7 +5500,7 @@ c) i riferimenti al requisito di capitale vincolante di secondo pilastro stabili
 
 ((1-bis. Alle Sim indicate all'articolo 55-bis, comma 1, e alle societa' del gruppo individuato ai sensi dell'articolo 11 si applica l'articolo 12-ter del Testo Unico bancario.)).
 
-##### Art. 60-ter - Principi di regolamentazione
+###### Art. 60-ter - Principi di regolamentazione
 
 1\. La Banca d'Italia e la Consob esercitano i poteri regolamentari previsti dal presente titolo nell'osservanza dei principi di cui all'articolo 6, comma 01.
 
@@ -5516,7 +5516,7 @@ Il D.Lgs. 16 novembre 2015, n. 181 ha disposto (con l'art. 2, comma 6) l'introdu
 
 ### TITOLO I - ((DISPOSIZIONI COMUNI))
 
-##### Art. 61 - Definizioni
+###### Art. 61 - Definizioni
 
 1\. Nella presente parte si intendono per:
 
@@ -5550,7 +5550,7 @@ AGGIORNAMENTO (134)
 
 Il D.Lgs. 29 aprile 2026, n. 86 ha disposto (con l'art. 4, comma 1) che la presente modifica si applica a decorrere dal 6 giugno 2026.
 
-##### Art. 61-bis
+###### Art. 61-bis
 
 (( (Principi di regolamentazione). ))
 
@@ -5564,11 +5564,11 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-## ((TITOLO I-BIS - DISCIPLINA DELLE SEDI DI NEGOZIAZIONE E INTERNALIZZATORI SISTEMATICI
+### ((TITOLO I-BIS - DISCIPLINA DELLE SEDI DI NEGOZIAZIONE E INTERNALIZZATORI SISTEMATICI
 
-### CAPO I - FINALITA' E DESTINATARI DELLA VIGILANZA))
+#### CAPO I - FINALITA' E DESTINATARI DELLA VIGILANZA))
 
-##### Art. 62
+###### Art. 62
 
 (( (Vigilanza sulle sedi di negoziazione). ))
 
@@ -5588,7 +5588,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 62-bis
+###### Art. 62-bis
 
 (( (Sedi di negoziazione all'ingrosso di titoli di Stato e operatori principali). ))
 
@@ -5602,7 +5602,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 62-ter
+###### Art. 62-ter
 
 (( (Vigilanza sulle sedi di negoziazione all'ingrosso). ))
 
@@ -5622,7 +5622,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 62-quater - Vigilanza regolamentare e informativa sulle sedi di negoziazione all'ingrosso
+###### Art. 62-quater - Vigilanza regolamentare e informativa sulle sedi di negoziazione all'ingrosso
 
 1\. La Banca d'Italia con proprio provvedimento individua gli obblighi informativi e di comunicazione dei gestori delle sedi di negoziazione all'ingrosso dei titoli di Stato nei propri confronti, indicando anche contenuto, termini e modalita' di comunicazione.
 
@@ -5656,7 +5656,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47, ha disposto (con l'art. 11, comma 6) che "Le modifiche apportate dal presente decreto agli articoli 62-quater, 64-quater, commi 6, 6-bis e 6-ter, 65-bis, comma 3-bis, 65-quater, 65-quinquies, 79-quinquiesdecies, commi 1-bis, 1-ter, 1-quater e 2, 112-bis, 123-ter, comma 8, 133, comma 1-bis, 147-quinquies del testo unico di cui al decreto legislativo n. 58 del 1998 si applicano a decorrere dalla data di applicazione delle disposizioni di attuazione ivi previste e in ogni caso alla scadenza del termine previsto dal comma 5".
 
-##### Art. 62-quinquies
+###### Art. 62-quinquies
 
 (( (Vigilanza sul rispetto di disposizioni dell'Unione europea direttamente applicabili). ))
 
@@ -5670,7 +5670,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 62-sexies
+###### Art. 62-sexies
 
 (( (Vigilanza sulle sedi di negoziazione di strumenti finanziari sull'energia e il gas).))
 
@@ -5682,7 +5682,7 @@ Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le dis
 
 4\. ((L'ARERA informa il Ministero delle imprese e del made in Italy sull'attivita' di vigilanza svolta e sulle irregolarita' riscontrate relative ai mercati regolamentati per la negoziazione di strumenti finanziari derivati sull'energia elettrica e il gas che possono incidere sul funzionamento dei mercati fisici dei prodotti sottesi, nonche' sulla sicurezza e sull'efficiente funzionamento delle reti nazionali di trasporto dell'energia elettrica e del gas.))
 
-##### Art. 62-septies
+###### Art. 62-septies
 
 (( (Vigilanza sui sistemi multilaterali di scambio di depositi monetari in euro). ))
 
@@ -5702,7 +5702,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 62-octies
+###### Art. 62-octies
 
 (( (Poteri informativi e di indagine).))
 
@@ -5728,7 +5728,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 62-novies
+###### Art. 62-novies
 
 (( (Poteri ispettivi).))
 
@@ -5752,7 +5752,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 62-decies
+###### Art. 62-decies
 
 (( (Poteri di intervento).))
 
@@ -5778,21 +5778,21 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 62-undecies
+###### Art. 62-undecies
 
 (( (Doveri informativi dei soggetti incaricati della revisione legale dei conti).))
 
 1\. ((I soggetti incaricati della revisione legale dei conti dei gestori dei mercati regolamentati e delle altre sedi di negoziazione comunicano senza indugio alla Consob e, per le sedi di negoziazione all'ingrosso di titoli di Stato, alla Banca d'Italia, gli atti o i fatti, rilevati nello svolgimento dell'incarico, che possano costituire una grave violazione delle norme disciplinanti l'attivita' dei soggetti sottoposti a revisione, ovvero che possano pregiudicare la continuita' dell'attivita', o comportare un giudizio negativo, un giudizio con rilievi o una dichiarazione di impossibilita' di esprimere un giudizio sul bilancio.))
 
-## ((CAPO II - LE SEDI DI NEGOZIAZIONE))
+#### ((CAPO II - LE SEDI DI NEGOZIAZIONE))
 
-##### Art. 63
+###### Art. 63
 
 ((ARTICOLO ABROGATO DAL D.LGS. 9 FEBBRAIO 2026, N. 28))
 
-## ((Sezione I - Autorizzazione del mercato regolamentato e requisiti del gestore))
+##### ((Sezione I - Autorizzazione del mercato regolamentato e requisiti del gestore))
 
-##### Art. 64 - L'attivita' di organizzazione e gestione di mercati regolamentati
+###### Art. 64 - L'attivita' di organizzazione e gestione di mercati regolamentati
 
 1\. L'attivita' di organizzazione e gestione di mercati regolamentati di strumenti finanziari e' esercitata da societa' per azioni anche senza scopo di lucro (gestore del mercato regolamentato).
 
@@ -5836,7 +5836,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 64-bis - Obblighi riguardanti le persone che esercitano un'influenza significativa sulla gestione del mercato regolamentato
+###### Art. 64-bis - Obblighi riguardanti le persone che esercitano un'influenza significativa sulla gestione del mercato regolamentato
 
 1\. Le persone che sono nella posizione di esercitare, direttamente o indirettamente, un'influenza significativa sulla gestione del mercato regolamentato devono rispettare i requisiti di onorabilita' determinati con regolamento dal Ministro dell'economia e delle finanze, sentita la Consob e la Banca d'Italia.
 
@@ -5890,7 +5890,7 @@ AGGIORNAMENTO (99)
 
 Il D.L. 14 agosto 2020, n. 104 ha disposto (con l'art. 75, comma 3) che le presenti modifiche si applicano alle operazioni di concentrazione comunicate entro la data del 31 dicembre 2020.
 
-##### Art. 64-ter
+###### Art. 64-ter
 
 (( (Requisiti degli esponenti aziendali del gestore del mercato regolamentato).))
 
@@ -5926,7 +5926,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 64-quater - Autorizzazione dei mercati regolamentati
+###### Art. 64-quater - Autorizzazione dei mercati regolamentati
 
 1\. La Consob rilascia l'autorizzazione a operare in qualita' di mercato regolamentato ai sistemi che ottemperano alle disposizioni del presente titolo.
 
@@ -5988,7 +5988,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47, ha disposto (con l'art. 11, comma 6) che "Le modifiche apportate dal presente decreto agli articoli 62-quater, 64-quater, commi 6, 6-bis e 6-ter, 65-bis, comma 3-bis, 65-quater, 65-quinquies, 79-quinquiesdecies, commi 1-bis, 1-ter, 1-quater e 2, 112-bis, 123-ter, comma 8, 133, comma 1-bis, 147-quinquies del testo unico di cui al decreto legislativo n. 58 del 1998 si applicano a decorrere dalla data di applicazione delle disposizioni di attuazione ivi previste e in ogni caso alla scadenza del termine previsto dal comma 5".
 
-##### Art. 64-quinquies
+###### Art. 64-quinquies
 
 (( (Revoca dell'autorizzazione, provvedimenti straordinari a tutela del mercato e crisi del gestore del mercato regolamentato).))
 
@@ -6022,9 +6022,9 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-## ((Sezione II - Organizzazione e funzionamento delle sedi di negoziazione))
+##### ((Sezione II - Organizzazione e funzionamento delle sedi di negoziazione))
 
-##### Art. 65 - Requisiti organizzativi dei mercati regolamentati
+###### Art. 65 - Requisiti organizzativi dei mercati regolamentati
 
 1\. Il mercato regolamentato dispone di:
 
@@ -6056,7 +6056,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 65-bis - Requisiti dei sistemi multilaterali di negoziazione e dei sistemi organizzati di negoziazione
+###### Art. 65-bis - Requisiti dei sistemi multilaterali di negoziazione e dei sistemi organizzati di negoziazione
 
 1\. Il gestore di un sistema multilaterale di negoziazione o di un sistema organizzato di negoziazione dispone di:
 
@@ -6094,7 +6094,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47, ha disposto (con l'art. 11, comma 6) che "Le modifiche apportate dal presente decreto agli articoli 62-quater, 64-quater, commi 6, 6-bis e 6-ter, 65-bis, comma 3-bis, 65-quater, 65-quinquies, 79-quinquiesdecies, commi 1-bis, 1-ter, 1-quater e 2, 112-bis, 123-ter, comma 8, 133, comma 1-bis, 147-quinquies del testo unico di cui al decreto legislativo n. 58 del 1998 si applicano a decorrere dalla data di applicazione delle disposizioni di attuazione ivi previste e in ogni caso alla scadenza del termine previsto dal comma 5".
 
-##### Art. 65-ter
+###### Art. 65-ter
 
 (( (Requisiti specifici per i sistemi multilaterali di negoziazione).))
 
@@ -6116,7 +6116,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 65-quater - Requisiti specifici per i sistemi organizzati di negoziazione
+###### Art. 65-quater - Requisiti specifici per i sistemi organizzati di negoziazione
 
 1\. Fatto salvo quanto disposto dall'articolo 65-bis e nel rispetto degli obblighi individuati ai sensi dell'articolo 6, comma 2, lettera b), numero 2), in un sistema organizzato di negoziazione l'esecuzione degli ordini e' svolta su base discrezionale. Il gestore di un sistema organizzato di negoziazione esercita la propria discrezionalita' quando decide di:
 
@@ -6148,7 +6148,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47, ha disposto (con l'art. 11, comma 6) che "Le modifiche apportate dal presente decreto agli articoli 62-quater, 64-quater, commi 6, 6-bis e 6-ter, 65-bis, comma 3-bis, 65-quater, 65-quinquies, 79-quinquiesdecies, commi 1-bis, 1-ter, 1-quater e 2, 112-bis, 123-ter, comma 8, 133, comma 1-bis, 147-quinquies del testo unico di cui al decreto legislativo n. 58 del 1998 si applicano a decorrere dalla data di applicazione delle disposizioni di attuazione ivi previste e in ogni caso alla scadenza del termine previsto dal comma 5".
 
-##### Art. 65-quinquies
+###### Art. 65-quinquies
 
 (( (Negoziazione «matched principal» e operativita' in conto proprio del gestore di una sede di negoziazione).))
 
@@ -6162,7 +6162,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47, ha disposto (con l'art. 11, comma 6) che "Le modifiche apportate dal presente decreto agli articoli 62-quater, 64-quater, commi 6, 6-bis e 6-ter, 65-bis, comma 3-bis, 65-quater, 65-quinquies, 79-quinquiesdecies, commi 1-bis, 1-ter, 1-quater e 2, 112-bis, 123-ter, comma 8, 133, comma 1-bis, 147-quinquies del testo unico di cui al decreto legislativo n. 58 del 1998 si applicano a decorrere dalla data di applicazione delle disposizioni di attuazione ivi previste e in ogni caso alla scadenza del termine previsto dal comma 5".
 
-##### Art. 65-sexies - Requisiti operativi delle sedi di negoziazione
+###### Art. 65-sexies - Requisiti operativi delle sedi di negoziazione
 
 1\. I mercati regolamentati e i gestori di un sistema multilaterale di negoziazione o di un sistema organizzato di negoziazione istituiscono e mantengono la loro resilienza operativa, conformemente agli obblighi stabiliti al capo II del regolamento (UE) 2022/2554 del Parlamento europeo e del Consiglio, del 14 dicembre 2022, per assicurare che i loro sistemi di negoziazione:
 
@@ -6232,7 +6232,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 65-septies - Obblighi informativi e di comunicazione
+###### Art. 65-septies - Obblighi informativi e di comunicazione
 
 1\. La Consob, con proprio regolamento, individua gli obblighi informativi e di comunicazione nei propri confronti dei gestori delle sedi di negoziazione, indicandone contenuto, termini e modalita' di adempimento.
 
@@ -6254,9 +6254,9 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-## ((Sezione III - Ammissione, sospensione ed esclusione di strumenti finanziari dalla quotazione e dalle negoziazioni))
+##### ((Sezione III - Ammissione, sospensione ed esclusione di strumenti finanziari dalla quotazione e dalle negoziazioni))
 
-##### Art. 66 - Criteri generali di ammissione alla quotazione e alle negoziazioni
+###### Art. 66 - Criteri generali di ammissione alla quotazione e alle negoziazioni
 
 1\. I mercati regolamentati:
 
@@ -6296,7 +6296,7 @@ AGGIORNAMENTO (134)
 
 Il D.Lgs. 29 aprile 2026, n. 86 ha disposto (con l'art. 4, comma 1) che la presente modifica si applica a decorrere dal 6 giugno 2026.
 
-##### Art. 66.1
+###### Art. 66.1
 
 (( (Condizioni particolari relative all'ammissione di azioni alla negoziazione). ))
 
@@ -6314,7 +6314,7 @@ AGGIORNAMENTO (134)
 
 Il D.Lgs. 29 aprile 2026, n. 86 ha disposto (con l'art. 4, comma 1) che il presente articolo si applica a decorrere dal 6 giugno 2026.
 
-##### Art. 66-bis - Condizioni per la quotazione di determinate societa'
+###### Art. 66-bis - Condizioni per la quotazione di determinate societa'
 
 1\. Il regolamento del mercato regolamentato puo' stabilire che le azioni di societa' controllanti, il cui attivo sia prevalentemente composto dalla partecipazione, diretta o indiretta, in una o piu' societa' con azioni quotate in mercati regolamentati, vengano negoziate in un segmento distinto del mercato.
 
@@ -6334,7 +6334,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 66-ter - Provvedimenti di ammissione, sospensione ed esclusione di strumenti finanziari dalla quotazione e dalle negoziazioni adottati dal gestore della sede di negoziazione
+###### Art. 66-ter - Provvedimenti di ammissione, sospensione ed esclusione di strumenti finanziari dalla quotazione e dalle negoziazioni adottati dal gestore della sede di negoziazione
 
 1\. Fatto salvo il potere della Consob di cui all'articolo 66-quater, comma 1, di richiedere la sospensione o l'esclusione di uno strumento finanziario dalle negoziazioni, il gestore di una sede di negoziazione puo' sospendere o escludere dalle negoziazioni gli strumenti finanziari che cessano di rispettare le regole del sistema, a meno che tale sospensione o esclusione non rischi di causare un danno rilevante agli interessi degli investitori o al funzionamento ordinato del mercato.
 
@@ -6356,7 +6356,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 66-quater - Provvedimenti di sospensione ed esclusione di strumenti finanziari dalle negoziazioni su iniziativa della Consob
+###### Art. 66-quater - Provvedimenti di sospensione ed esclusione di strumenti finanziari dalle negoziazioni su iniziativa della Consob
 
 1\. La Consob puo' sospendere o escludere uno strumento finanziario dalle negoziazioni o richiedere che vi provveda il gestore di una sede di negoziazione. A tal fine la Consob puo' chiedere al gestore medesimo tutte le informazioni che ritenga utili. Per le sedi di negoziazione all'ingrosso di titoli di Stato, i poteri di cui al presente comma sono esercitati dalla Banca d'Italia, che ne da' tempestiva comunicazione alla Consob, ai fini ((dell'esercizio da parte della Consob delle funzioni di punto di contatto ai sensi dell'articolo 4 del presente decreto)).
 
@@ -6380,7 +6380,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 66-quinquies
+###### Art. 66-quinquies
 
 (( (Negoziazione di strumenti finanziari emessi dal gestore del mercato regolamentato).))
 
@@ -6398,9 +6398,9 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-## ((Sezione IV - Accesso alle sedi di negoziazione))
+##### ((Sezione IV - Accesso alle sedi di negoziazione))
 
-##### Art. 67 - Criteri generali di accesso degli operatori
+###### Art. 67 - Criteri generali di accesso degli operatori
 
 1\. Il gestore di un mercato regolamentato o di un sistema multilaterale di negoziazione o di un sistema organizzato di negoziazione stabilisce, attua e mantiene regole trasparenti e non discriminatorie, basate su criteri oggettivi, che disciplinano l'accesso in qualita' di membri o partecipanti o clienti.
 
@@ -6456,7 +6456,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 67-bis - Ammissione, sospensione ed esclusione degli operatori da un mercato regolamentato
+###### Art. 67-bis - Ammissione, sospensione ed esclusione degli operatori da un mercato regolamentato
 
 1\. Il gestore del mercato regolamentato comunica immediatamente alla Consob le proprie decisioni di ammissione, esclusione e sospensione degli operatori dalle negoziazioni.
 
@@ -6470,7 +6470,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 67-ter - Negoziazione algoritmica, accesso elettronico diretto, partecipazione a controparti centrali
+###### Art. 67-ter - Negoziazione algoritmica, accesso elettronico diretto, partecipazione a controparti centrali
 
 1\. Le Sim e le banche italiane che svolgono negoziazione algoritmica:
 
@@ -6532,11 +6532,9 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-## Sezione V - ((Limiti di posizione in strumenti derivati
+##### Sezione V - ((Limiti di posizione in strumenti derivati su merci e controlli sulla gestione delle posizioni in strumenti derivati su merci e strumenti derivati sulle quote di emissione))
 
-### su merci e controlli sulla gestione delle posizioni - in strumenti derivati su merci e strumenti derivati sulle quote di emissione))
-
-##### Art. 68 - Limiti alle posizioni in strumenti derivati su merci
+###### Art. 68 - Limiti alle posizioni in strumenti derivati su merci
 
 ((1. Al fine di prevenire abusi di mercato e favorire condizioni ordinate di formazione dei prezzi e di regolamento delle operazioni, la Consob stabilisce e vigila sull'applicazione dei limiti di posizione sull'entita' di una posizione netta che puo' essere detenuta da una persona in qualsiasi momento in derivati su merci agricole e derivati critici o significativi su merci negoziati in sedi di negoziazione, e in contratti negoziati fuori listino economicamente equivalenti (EEOTC), secondo quanto previsto con proprio regolamento, conformemente alla metodologia di calcolo determinata dall'AESFEM a norma dell'articolo 57, paragrafo 3, della direttiva 2014/65/UE. I derivati su merci sono considerati critici o significativi quando la somma di tutte le posizioni nette dei detentori di posizioni finali costituisce la dimensione delle loro posizioni aperte ed e' pari a un minimo di 300.000 lotti in media su un periodo di un anno.))
 
@@ -6572,7 +6570,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 68-bis
+###### Art. 68-bis
 
 (( (Controlli del gestore della sede di negoziazione sulle posizioni in strumenti derivati su merci e strumenti derivati sulle quote di emissione).))
 
@@ -6592,7 +6590,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 68-ter
+###### Art. 68-ter
 
 (( (Caratteristiche dei limiti e dei controlli sulla gestione delle posizioni e obblighi di informazione). ))
 
@@ -6608,7 +6606,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 68-quater - Notifica dei titolari di posizioni in base alle categorie
+###### Art. 68-quater - Notifica dei titolari di posizioni in base alle categorie
 
 1\. ((Il gestore di una sede di negoziazione nella quale sono negoziati derivati su merci o derivati su quote di emissione pubblica:))
 
@@ -6638,7 +6636,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 68-quinquies
+###### Art. 68-quinquies
 
 (( (Poteri della Consob e obblighi di collaborazione). ))
 
@@ -6668,9 +6666,9 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-## Sezione VI - Mercati di crescita per le ((piccole e medie imprese))
+##### Sezione VI - Mercati di crescita per le ((piccole e medie imprese))
 
-##### Art. 69 - Mercati di crescita per le piccole e medie imprese
+###### Art. 69 - Mercati di crescita per le piccole e medie imprese
 
 1\. La Consob, su domanda del gestore di un sistema multilaterale ((, o di un suo segmento,)) di negoziazione, registra un sistema come mercato di crescita per le piccole e medie imprese se sono soddisfatti i requisiti di cui ((ai commi 2 e 2-bis)). ((134))
 
@@ -6722,7 +6720,7 @@ AGGIORNAMENTO (134)
 
 Il D.Lgs. 29 aprile 2026, n. 86 ha disposto (con l'art. 4, comma 1) che le presenti modifiche si applicano a decorrere dal 6 giugno 2026.
 
-##### Art. 69-bis
+###### Art. 69-bis
 
 ((IL D.LGS. 3 AGOSTO 2017, N. 129 HA DISPOSTO LA MODIFICA DEL TITOLO I E L'INTRODUZIONE DEL TITOLO I-BIS NELLA PARTE III DEL PRESENTE PROVVEDIMENTO))
 
@@ -6734,9 +6732,9 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-## ((Sezione VII - Riconoscimento dei mercati))
+##### ((Sezione VII - Riconoscimento dei mercati))
 
-##### Art. 70
+###### Art. 70
 
 (( (Riconoscimento dei mercati). ))
 
@@ -6756,7 +6754,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 70-bis
+###### Art. 70-bis
 
 ((IL D.LGS. 3 AGOSTO 2017, N. 129 HA DISPOSTO LA MODIFICA DEL TITOLO I E L'INTRODUZIONE DEL TITOLO I-BIS NELLA PARTE III DEL PRESENTE PROVVEDIMENTO))
 
@@ -6768,7 +6766,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 70-ter
+###### Art. 70-ter
 
 ((IL D.LGS. 3 AGOSTO 2017, N. 129 HA DISPOSTO LA MODIFICA DEL TITOLO I E L'INTRODUZIONE DEL TITOLO I-BIS NELLA PARTE III DEL PRESENTE PROVVEDIMENTO))
 
@@ -6780,9 +6778,9 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-## ((CAPO III - GLI INTERNALIZZATORI SISTEMATICI))
+#### ((CAPO III - GLI INTERNALIZZATORI SISTEMATICI))
 
-##### Art. 71 - Obblighi dell'internalizzatore sistematico
+###### Art. 71 - Obblighi dell'internalizzatore sistematico
 
 1\. ((L'impresa di investimento che soddisfa le caratteristiche richieste dalla definizione di internalizzatore sistematico di cui all'articolo 1, comma 5-ter, o che sceglie comunque di assoggettarsi a tale regime, ne informa la Consob.))
 
@@ -6798,7 +6796,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 71-bis
+###### Art. 71-bis
 
 (( (Individuazione dell'Autorita' competente ai fini dell'articolo 21-bis del regolamento (UE) 600/2014 del Parlamento europeo e del Consiglio, del 15 maggio 2014).))
 
@@ -6806,9 +6804,9 @@ Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le dis
 
 2\. ((La Consob puo' disciplinare con regolamento il contenuto e le modalita' di presentazione della domanda da parte delle imprese di investimento ai sensi del comma 1.))
 
-## ((CAPO IV - OBBLIGHI DI NEGOZIAZIONE, DI TRASPARENZA E DI SEGNALAZIONE DI OPERAZIONI IN STRUMENTI FINANZIARI))
+#### ((CAPO IV - OBBLIGHI DI NEGOZIAZIONE, DI TRASPARENZA E DI SEGNALAZIONE DI OPERAZIONI IN STRUMENTI FINANZIARI))
 
-##### Art. 72
+###### Art. 72
 
 (( (Individuazione dell'autorita' competente). ))
 
@@ -6822,7 +6820,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 73
+###### Art. 73
 
 (( (Vigilanza). ))
 
@@ -6836,7 +6834,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 74 - Esenzioni dai requisiti di trasparenza pre-negoziazione delle sedi di negoziazione
+###### Art. 74 - Esenzioni dai requisiti di trasparenza pre-negoziazione delle sedi di negoziazione
 
 1\. ((Fermo restando quanto previsto dal comma 4 e in conformita' a quanto previsto dagli articoli 4, paragrafi 1, 4 e 5 e 9, paragrafi 1, 2, 2-bis e 3, del regolamento (UE) n. 600/2014 del Parlamento europeo e del Consiglio, del 15 maggio 2014, la Consob puo' esentare il gestore di una sede di negoziazione dagli obblighi di pubblicare le informazioni pre-negoziazione stabiliti dagli articoli 3, 8, 8-bis e 8-ter del citato regolamento nonche' revocare le esenzioni concesse.))
 
@@ -6856,7 +6854,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 75
+###### Art. 75
 
 (( (Provvedimenti di temporanea sospensione degli obblighi di trasparenza pre-negoziazione). ))
 
@@ -6872,7 +6870,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 76 - ((Pubblicazione differita))
+###### Art. 76 - ((Pubblicazione differita))
 
 1\. ((In conformita' a quanto previsto dagli articoli 7 e 20 del regolamento (UE) n. 600/2014 del Parlamento europeo e del Consiglio, del 15 maggio 2014, la Consob ha il potere di:))
 
@@ -6896,7 +6894,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 77 - Provvedimenti di temporanea sospensione degli obblighi di trasparenza post-negoziazione
+###### Art. 77 - Provvedimenti di temporanea sospensione degli obblighi di trasparenza post-negoziazione
 
 1\. Al ricorrere delle condizioni previste ((dagli articoli 11, paragrafo 2, e 11-bis, paragrafo 2)), del regolamento (UE) n. 600/2014 la Consob adotta i provvedimenti di temporanea sospensione degli obblighi di pubblicare le informazioni post-negoziazione stabiliti, dall'articolo 10 del regolamento citato, per gli strumenti finanziari non rappresentativi di capitale.
 
@@ -6912,7 +6910,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 77-bis
+###### Art. 77-bis
 
 ((IL D.LGS. 3 AGOSTO 2017, N. 129 HA DISPOSTO LA MODIFICA DEL TITOLO I E L'INTRODUZIONE DEL TITOLO I-BIS NELLA PARTE III DEL PRESENTE PROVVEDIMENTO))
 
@@ -6924,7 +6922,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 78 - Informazioni da fornire ai fini della trasparenza e dell'effettuazione degli altri calcoli e obblighi di pubblicazione
+###### Art. 78 - Informazioni da fornire ai fini della trasparenza e dell'effettuazione degli altri calcoli e obblighi di pubblicazione
 
 1\. Al fine dell'applicazione dei requisiti di trasparenza pre e post-negoziazione imposti ((dagli articoli da 3 a 11-bis)) e da 14 a 21 del regolamento (UE) n. 600/2014 e dell'implementazione del regime previsto dall'articolo 32 del medesimo regolamento in connessione con l'obbligo di negoziazione su strumenti derivati, nonche' per determinare se un'impresa di investimento e' un internalizzatore sistematico, la Consob, secondo le modalita' e i termini dalla stessa determinati con regolamento, puo' chiedere informazioni:
 
@@ -6946,9 +6944,9 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-## TITOLO I-TER - ((AUTORIZZAZIONE E VIGILANZA DI APA E ARM))
+### TITOLO I-TER - ((AUTORIZZAZIONE E VIGILANZA DI APA E ARM))
 
-##### Art. 79 - Individuazione dell'autorita' competente
+###### Art. 79 - Individuazione dell'autorita' competente
 
 1\. ((La gestione di un APA o di un ARM e' soggetta ad autorizzazione preventiva da parte della Consob, in conformita' a quanto previsto dal titolo IV-bis del regolamento (UE) n. 600/2014 del Parlamento europeo e del Consiglio, del 15 maggio 2014, e dai relativi atti delegati. La Consob revoca l'autorizzazione concessa ai sensi del presente comma quando ricorrono i presupposti di cui agli articoli 27-sexies e 27-septies, paragrafo 4, del regolamento (UE) n. 600/2014.))
 
@@ -6966,27 +6964,27 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 79-bis
+###### Art. 79-bis
 
 ((ARTICOLO ABROGATO DAL D.L. 17 MAGGIO 2022, N. 50))
 
-##### Art. 79-ter
+###### Art. 79-ter
 
 ((ARTICOLO ABROGATO DAL D.L. 17 MAGGIO 2022, N. 50))
 
-##### Art. 79-ter.1
+###### Art. 79-ter.1
 
 ((ARTICOLO ABROGATO DAL D.L. 17 MAGGIO 2022, N. 50))
 
-## TITOLO II - ((DISCIPLINA DELLE CONTROPARTI CENTRALI))
+### TITOLO II - ((DISCIPLINA DELLE CONTROPARTI CENTRALI))
 
-##### Art. 79-quater
+###### Art. 79-quater
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 AGOSTO 2016, N. 176))
 
-## CAPO I - ((LE CONTROPARTI CENTRALI))
+#### CAPO I - ((LE CONTROPARTI CENTRALI))
 
-##### Art. 79-quinquies - Individuazione delle autorita' nazionali competenti sulle controparti centrali
+###### Art. 79-quinquies - Individuazione delle autorita' nazionali competenti sulle controparti centrali
 
 1\. La Banca d'Italia e la Consob sono le autorita' competenti per l'autorizzazione e la vigilanza delle controparti centrali, ai sensi dell'articolo 22, paragrafo 1, del regolamento (UE) n. 648/2012, secondo quanto disposto dai commi seguenti, dall'articolo 79-sexies e dall'articolo 79-novies.1.
 
@@ -6996,7 +6994,7 @@ Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le dis
 
 4\. La Banca d'Italia e' l'autorita' competente ai sensi dell'articolo 25, paragrafo 3, lettera a), del regolamento di cui al comma 1, nell'ambito della procedura per il riconoscimento delle controparti centrali dei Paesi terzi. Il parere e' reso all'AESFEM dalla Banca d'Italia ((...)).
 
-##### Art. 79-sexies - Autorizzazione e vigilanza delle controparti centrali
+###### Art. 79-sexies - Autorizzazione e vigilanza delle controparti centrali
 
 1\. La Banca d'Italia autorizza lo svolgimento dei servizi di compensazione in qualita' di controparte centrale da parte di persone giuridiche stabilite nel territorio nazionale, ai sensi degli articoli 14 e 15 e secondo la procedura prevista dall'articolo 17 o dall'articolo 17-bis del regolamento (UE) n. 648/2012. La medesima autorita' revoca l'autorizzazione allo svolgimento di servizi da parte di una controparte centrale quando ricorrono i presupposti di cui all'articolo 20 del medesimo regolamento. Si applica l'articolo 79-octiesdecies.
 
@@ -7046,7 +7044,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 79-septies
+###### Art. 79-septies
 
 (( (Garanzie acquisite nell'esercizio dell'attivita' di controparte centrale e prevalenza delle disposizioni in materia di segregazione e portabilita' delle posizioni e delle garanzie della clientela).))
 
@@ -7056,9 +7054,9 @@ Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le dis
 
 3\. In caso di apertura di una procedura di insolvenza nei confronti di un partecipante italiano ad una controparte centrale stabilita in un Paese terzo ma riconosciuta ai sensi del regolamento (UE) n. 648/2012, si applicano le tutele previste al comma 1.))
 
-## CAPO II - ((AUTORITA' NAZIONALI COMPETENTI PER L'ESERCIZIO DI ULTERIORI POTERI DI VIGILANZA))
+#### CAPO II - ((AUTORITA' NAZIONALI COMPETENTI PER L'ESERCIZIO DI ULTERIORI POTERI DI VIGILANZA))
 
-##### Art. 79-octies - Individuazione delle autorita' nazionali competenti per l'esercizio di ulteriori poteri di vigilanza ai sensi del regolamento (UE) n. 648/2012
+###### Art. 79-octies - Individuazione delle autorita' nazionali competenti per l'esercizio di ulteriori poteri di vigilanza ai sensi del regolamento (UE) n. 648/2012
 
 1\. ((La Consob e' l'autorita' nazionale competente per il rispetto degli obblighi di cui agli articoli 4, paragrafo 3, 7-quater, 7-quinquies e 38, paragrafi 8 e 9, del regolamento (UE) 648/2012 e delle relative norme tecniche di regolamentazione e attuazione da parte dei soggetti che agiscono in qualita' di partecipanti alle controparti centrali o in qualita' di clienti di questi ultimi, come definiti dall'articolo 2, punto 15), del citato regolamento, nonche' degli obblighi di cui all'articolo 38, paragrafo 1, e all'articolo 39, paragrafi 4, 5, 6 e 7, del medesimo regolamento, da parte dei soggetti che agiscono in qualita' di partecipanti alle controparti centrali.))
 
@@ -7070,7 +7068,7 @@ a) ((la Consob, con riguardo ai soggetti autorizzati ai sensi dell'articolo 19, 
 
 b) ((la Banca d'Italia, con riguardo ai soggetti autorizzati ai sensi degli articoli 19, comma 4, e 20-bis.1.))
 
-##### Art. 79-octies.1
+###### Art. 79-octies.1
 
 (( (Individuazione delle autorita' nazionali competenti per l'esercizio di ulteriori poteri di vigilanza ai sensi del regolamento (UE) n. 600/2014).))
 
@@ -7090,7 +7088,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 79-novies - Poteri di vigilanza
+###### Art. 79-novies - Poteri di vigilanza
 
 ((1. Ai fini dello svolgimento delle funzioni attribuite dal presente titolo, nei confronti dei soggetti che agiscono in qualita' di partecipanti alle controparti centrali o in qualita' di clienti di questi ultimi, la Consob dispone dei poteri previsti dagli articoli 6-bis, 6-ter e 7. Nei confronti dei gestori delle sedi di negoziazione la Consob e la Banca d'Italia dispongono dei poteri previsti dagli articoli 62-octies, 62-novies e 62-decies.)) ((73))
 
@@ -7100,7 +7098,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 79-novies.1
+###### Art. 79-novies.1
 
 (( (Individuazione delle autorita' nazionali competenti ai sensi del regolamento (UE) 2021/23).))
 
@@ -7124,9 +7122,9 @@ b) dispone la rimozione totale o parziale dell'alta dirigenza o degli organi di 
 
 6\. Ai fini dell'esercizio delle funzioni attribuite dal regolamento (UE) 2021/23 alle autorita' competenti, la Banca d'Italia puo' emanare, d'intesa con la Consob, disposizioni di attuazione.))
 
-## (( CAPO II-BIS - (CRISI DELLE CONTROPARTI CENTRALI) ))
+#### (( CAPO II-BIS - (CRISI DELLE CONTROPARTI CENTRALI) ))
 
-##### Art. 79-novies.2
+###### Art. 79-novies.2
 
 (( (Amministrazione straordinaria).))
 
@@ -7134,7 +7132,7 @@ b) dispone la rimozione totale o parziale dell'alta dirigenza o degli organi di 
 
 2\. Si applicano, in quanto compatibili, gli articoli 70, commi da 2 a 7, 71, 72, 73, 74, 75, 75-bis, commi 1, secondo periodo, e 2, e 77-bis, commi da 1 a 3, del Testo Unico bancario. Ai fini degli articoli 72, comma 1-bis, e 74 del Testo Unico bancario, i commissari straordinari promuovono le soluzioni utili nell'interesse della stabilita' del sistema finanziario e della sana e prudente gestione.))
 
-##### Art. 79-novies.3
+###### Art. 79-novies.3
 
 (( (Liquidazione coatta amministrativa).))
 
@@ -7146,7 +7144,7 @@ b) quando la CCP abbia applicato o intenda applicare misure di risanamento che, 
 
 2\. Si applicano, in quanto compatibili, gli articoli 80, ad eccezione dei commi 1 e 2, da 81 a 90, 91, ad eccezione dei commi 1-bis e 11-bis, 92, 92-bis, 93 e 94 del Testo Unico bancario.))
 
-##### Art. 79-novies.4
+###### Art. 79-novies.4
 
 (( (Liquidazione ordinaria).))
 
@@ -7166,9 +7164,9 @@ b) quando la CCP abbia applicato o intenda applicare misure di risanamento che, 
 
 8\. La sostituzione degli organi liquidatori non comporta il mutamento della procedura di liquidazione.))
 
-## ((TITOLO II-BIS)) - ((DISCIPLINA DEI DEPOSITARI CENTRALI E DELLE ATTIVITA' DI REGOLAMENTO E DI GESTIONE ACCENTRATA))
+### ((TITOLO II-BIS)) - ((DISCIPLINA DEI DEPOSITARI CENTRALI E DELLE ATTIVITA' DI REGOLAMENTO E DI GESTIONE ACCENTRATA))
 
-##### Art. 79-decies
+###### Art. 79-decies
 
 (( (Definizioni).))
 
@@ -7178,9 +7176,9 @@ a) «autorita' rilevanti»: le autorita' indicate nell'articolo 12, paragrafo 1,
 
 b) «intermediari»: i soggetti abilitati alla tenuta dei conti sui quali sono registrati gli strumenti finanziari e i relativi trasferimenti.))
 
-## ((CAPO I)) - ((AUTORITA' NAZIONALI COMPETENTI E RILEVANTI))
+#### ((CAPO I)) - ((AUTORITA' NAZIONALI COMPETENTI E RILEVANTI))
 
-##### Art. 79-undecies - Individuazione delle autorita' nazionali competenti sui depositari centrali
+###### Art. 79-undecies - Individuazione delle autorita' nazionali competenti sui depositari centrali
 
 1\. La Consob e la Banca d'Italia sono le autorita' nazionali competenti per l'autorizzazione e la vigilanza dei depositari centrali stabiliti nel territorio della Repubblica, ai sensi dell'articolo 11, paragrafo 1, del regolamento (UE) n. 909/2014, secondo quanto disposto dai capi I e II.
 
@@ -7214,7 +7212,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 79-duodecies - Individuazione delle autorita' nazionali competenti a svolgere le ulteriori funzioni previste dal regolamento (UE) n. 909/2014
+###### Art. 79-duodecies - Individuazione delle autorita' nazionali competenti a svolgere le ulteriori funzioni previste dal regolamento (UE) n. 909/2014
 
 1\. Le autorita' competenti a vigilare sull'applicazione della disciplina in materia di scritture contabili, prevista dall'articolo 3 del regolamento (UE) n. 909/2014, sono:
 
@@ -7246,15 +7244,15 @@ c) la Banca d'Italia, per gli obblighi relativi alle operazioni su titoli di Sta
 
 6-bis. ((La Consob e' l'autorita' competente all'assolvimento degli obblighi di comunicazione all'ESMA ai sensi dell'articolo 49, paragrafo 1, comma 3, del regolamento di cui al comma 1.))
 
-##### Art. 79-terdecies
+###### Art. 79-terdecies
 
 (( (Individuazione delle autorita' nazionali rilevanti).))
 
 ((1. La Banca d'Italia e la Consob sono le autorita' rilevanti ai sensi dell'articolo 12, paragrafo 1, lettera a), del regolamento (UE) n. 909/2014.))
 
-## ((CAPO II)) - ((FINALITA' E DESTINATARI DELLA VIGILANZA))
+#### ((CAPO II)) - ((FINALITA' E DESTINATARI DELLA VIGILANZA))
 
-##### Art. 79-quaterdecies - Finalita' e poteri di vigilanza
+###### Art. 79-quaterdecies - Finalita' e poteri di vigilanza
 
 1\. La vigilanza sui depositari centrali e' esercitata dalla Consob, avendo riguardo alla trasparenza, all'ordinata prestazione dei servizi svolti dai depositari centrali, all'integrita' dei mercati e alla tutela degli investitori, e dalla Banca d'Italia, avendo riguardo alla stabilita' e al contenimento del rischio sistemico.
 
@@ -7284,7 +7282,7 @@ d) richiedere l'esibizione di documenti e il compimento degli atti ritenuti nece
 
 9\. ((Al fine di coordinare l'esercizio delle attribuzioni previste dal regolamento di cui al comma 2 e dal presente titolo)), la Consob e la Banca d'Italia stabiliscono, mediante un protocollo di intesa, le modalita' della cooperazione e del reciproco scambio delle informazioni rilevanti, tenuto conto dell'esigenza di ridurre al minimo gli oneri gravanti sui soggetti vigilati e di assicurare l'economicita' dell'azione delle autorita' di vigilanza. Il protocollo d'intesa e' reso pubblico dalla Consob e dalla Banca d'Italia con le modalita' da esse stabilite.
 
-##### Art. 79-quinquiesdecies - Regolamento dei servizi
+###### Art. 79-quinquiesdecies - Regolamento dei servizi
 
 1\. I depositari centrali disciplinano con regolamento i servizi da essi prestati, le relative modalita' di svolgimento e i criteri di ammissione dei partecipanti.
 
@@ -7304,7 +7302,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 6) che "Le modifiche apportate dal presente decreto agli articoli 62-quater, 64-quater, commi 6, 6-bis e 6-ter, 65-bis, comma 3-bis, 65-quater, 65-quinquies, 79-quinquiesdecies, commi 1-bis, 1-ter, 1-quater e 2, 112-bis, 123-ter, comma 8, 133, comma 1-bis, 147-quinquies del testo unico di cui al decreto legislativo n. 58 del 1998 si applicano a decorrere dalla data di applicazione delle disposizioni di attuazione ivi previste e in ogni caso alla scadenza del termine previsto dal comma 5".
 
-##### Art. 79-sexiesdecies
+###### Art. 79-sexiesdecies
 
 ((ARTICOLO ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129)) ((73))
 
@@ -7314,7 +7312,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 79-septiesdecies
+###### Art. 79-septiesdecies
 
 ((ARTICOLO ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129)) ((73))
 
@@ -7324,23 +7322,23 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-## ((CAPO III)) - ((I DEPOSITARI CENTRALI))
+#### ((CAPO III)) - ((I DEPOSITARI CENTRALI))
 
-### ((Sezione I)) - ((Disciplina dei depositari centrali))
+##### ((Sezione I)) - ((Disciplina dei depositari centrali))
 
-##### Art. 79-octiesdecies
+###### Art. 79-octiesdecies
 
 (( (Revisione legale dei conti).))
 
 (( (1. Ai depositari centrali stabiliti nel territorio della Repubblica si applicano gli articoli 155, comma 2, 156, comma 4 e 159, comma 1.))
 
-##### Art. 79-noviesdecies - ((Violazione della disciplina sulle partecipazioni qualificate))
+###### Art. 79-noviesdecies - ((Violazione della disciplina sulle partecipazioni qualificate))
 
 1\. ((In caso di violazione delle disposizioni previste dall'articolo 27-bis del regolamento (UE) n. 909/2014 per il trasferimento di partecipazioni qualificate nei depositari centrali di titoli, non possono essere esercitati i diritti di voto inerenti alle partecipazioni detenute.))
 
 2\. L'impugnazione puo' essere proposta anche dalla Consob o dalla Banca d'Italia entro centottanta giorni dalla data della deliberazione ovvero, se questa e' soggetta a iscrizione nel registro delle imprese, entro centottanta giorni dall'iscrizione o, se e' soggetta solo a deposito presso l'ufficio del registro delle imprese, entro centottanta giorni dalla data di questo.
 
-##### Art. 79-noviesdecies.1
+###### Art. 79-noviesdecies.1
 
 (( (Disposizioni applicabili allo svolgimento di servizi e attivita' di investimento da parte dei depositari centrali).))
 
@@ -7354,9 +7352,9 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-## ((Sezione II)) - ((Crisi dei depositari centrali))
+##### ((Sezione II)) - ((Crisi dei depositari centrali))
 
-##### Art. 79-bis decies
+###### Art. 79-bis decies
 
 (( (Crisi).))
 
@@ -7364,21 +7362,21 @@ Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le dis
 
 2\. Se e' dichiarato lo stato di insolvenza di un depositario centrale ai sensi dell'articolo 195 della legge fallimentare ovvero sia disposta la revoca dell'autorizzazione ai sensi del regolamento (UE) n. 909/2014, il Ministero dell'economia e delle finanze dispone con decreto la liquidazione coatta amministrativa con esclusione del fallimento, secondo le disposizioni degli articoli 80, commi 3, 4, 5 e 6, 81, 82, 83, 84, ad eccezione del comma 2, da 85 a 90, 91 ad eccezione dei commi 1-bis e 11-bis, 92, 93 e 94 del decreto legislativo 1° settembre 1993, n. 385, in quanto compatibili.))
 
-##### Art. 80
+###### Art. 80
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 AGOSTO 2016, N. 176))
 
-##### Art. 81
+###### Art. 81
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 AGOSTO 2016, N. 176))
 
-##### Art. 81-bis
+###### Art. 81-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 AGOSTO 2016, N. 176))
 
-## ((CAPO IV)) - ((GESTIONE ACCENTRATA DI STRUMENTI FINANZIARI))
+#### ((CAPO IV)) - ((GESTIONE ACCENTRATA DI STRUMENTI FINANZIARI))
 
-##### Art. 82 - Attivita' e regolamento della gestione accentrata
+###### Art. 82 - Attivita' e regolamento della gestione accentrata
 
 1\. L'attivita' di gestione accentrata e' esercitata da depositari centrali autorizzati ai sensi del regolamento (UE) n. 909/2014 alla prestazione dei servizi di cui alla Sezione A, punti 1) e 2), dell'Allegato al medesimo regolamento e relativi servizi accessori.
 
@@ -7426,13 +7424,13 @@ AGGIORNAMENTO (89)
 
 Il D.Lgs. 10 maggio 2019, n. 49 ha disposto (con l'art. 7, comma 2, lettera a)) che le presenti modifiche si applicano "a decorrere dalla data di applicazione del regolamento di esecuzione (UE) 2018/1212 del 3 settembre 2018".
 
-## ((Sezione I)) - ((Gestione accentrata in regime di dematerializzazione))
+##### ((Sezione I)) - ((Gestione accentrata in regime di dematerializzazione))
 
-##### Art. 83
+###### Art. 83
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 AGOSTO 2016, N. 176))
 
-##### Art. 83-bis - Ambito di applicazione
+###### Art. 83-bis - Ambito di applicazione
 
 ((1. I valori mobiliari regolati dalla legge italiana ammessi alla negoziazione o negoziati in una sede di negoziazione italiana o di altro Paese dell'Unione europea con il consenso dell'emittente possono esistere solo in forma scritturale.)) ((68))
 
@@ -7454,11 +7452,11 @@ Ha inoltre disposto (con l'art. 5, comma 4) che "A decorrere dalla data indicata
 
 «2. Il regolamento indicato dall'articolo 82 puo' prevedere che siano assoggettati alla disciplina della presente sezione anche strumenti finanziari non soggetti all'applicazione dell'articolo 3, paragrafo 1, del regolamento (UE) n. 909/2014, al fine di agevolarne la circolazione.»"
 
-##### Art. 83-ter
+###### Art. 83-ter
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 AGOSTO 2016, N. 176))
 
-##### Art. 83-quater
+###### Art. 83-quater
 
 (( Attribuzioni dei depositari centrali e degli intermediari ))
 
@@ -7470,7 +7468,7 @@ Ha inoltre disposto (con l'art. 5, comma 4) che "A decorrere dalla data indicata
 
 4\. Le rilevazioni e le comunicazioni prescritte dalle norme vigenti che prevedono la individuazione numerica dei certificati sono effettuate mediante l'indicazione della specie e della quantita' degli strumenti finanziari cui esse si riferiscono.
 
-##### Art. 83-quinquies - Diritti del titolare del conto
+###### Art. 83-quinquies - Diritti del titolare del conto
 
 1\. Effettuata la registrazione, il titolare del conto indicato nell'articolo 83-quater, comma 3, ha la legittimazione piena ed esclusiva all'esercizio dei diritti relativi agli strumenti finanziari in esso registrati, secondo la disciplina propria di ciascuno di essi e le norme del presente titolo. Il titolare puo' disporre degli strumenti finanziari registrati nel conto in conformita' con quanto previsto dalle norme vigenti in materia.
 
@@ -7488,7 +7486,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 83-sexies - Diritto d'intervento in assemblea ed esercizio del voto
+###### Art. 83-sexies - Diritto d'intervento in assemblea ed esercizio del voto
 
 1\. La legittimazione all'intervento in assemblea e all'esercizio del diritto di voto e' attestata da una comunicazione all'emittente, effettuata dall'intermediario, in conformita' alle proprie scritture contabili, in favore del soggetto a cui spetta il diritto di voto.
 
@@ -7518,7 +7516,7 @@ AGGIORNAMENTO (68)
 
 Il D.Lgs. 12 agosto 2016, n. 176 ha disposto (con l'art. 2, comma 8) la ristrutturazione dei Capi I e II del Titolo II della Parte III.
 
-##### Art. 83-septies - Eccezioni opponibili
+###### Art. 83-septies - Eccezioni opponibili
 
 1\. All'esercizio dei diritti inerenti agli strumenti finanziari da parte del soggetto in favore del quale e' avvenuta la registrazione l'emittente puo' opporre soltanto le eccezioni personali al soggetto stesso e quelle comuni a tutti gli altri titolari degli stessi diritti.
 
@@ -7530,7 +7528,7 @@ AGGIORNAMENTO (68)
 
 Il D.Lgs. 12 agosto 2016, n. 176 ha disposto (con l'art. 2, comma 8) la ristrutturazione dei Capi I e II del Titolo II della Parte III.
 
-##### Art. 83-octies - Costituzione di vincoli
+###### Art. 83-octies - Costituzione di vincoli
 
 1\. I vincoli di ogni genere sugli strumenti finanziari disciplinati dalla presente sezione, ivi compresi quelli previsti dalla normativa speciale sui titoli di debito pubblico, si costituiscono unicamente con le registrazioni in apposito conto tenuto dall'intermediario.
 
@@ -7544,7 +7542,7 @@ AGGIORNAMENTO (68)
 
 Il D.Lgs. 12 agosto 2016, n. 176 ha disposto (con l'art. 2, comma 8) la ristrutturazione dei Capi I e II del Titolo II della Parte III.
 
-##### Art. 83-novies - Compiti dell'intermediario
+###### Art. 83-novies - Compiti dell'intermediario
 
 1\. L'intermediario:
 
@@ -7580,7 +7578,7 @@ AGGIORNAMENTO (89)
 
 Il D.Lgs. 10 maggio 2019, n. 49 ha disposto (con l'art. 7, comma 2, lettera a)) che la presente modifica si applica "a decorrere dalla data di applicazione del regolamento di esecuzione (UE) 2018/1212 del 3 settembre 2018".
 
-##### Art. 83-novies.1
+###### Art. 83-novies.1
 
 (( (Non discriminazione, proporzionalita' e trasparenza
 
@@ -7598,7 +7596,7 @@ AGGIORNAMENTO (89)
 
 Il D.Lgs. 10 maggio 2019, n. 49 ha disposto (con l'art. 7, comma 2, lettera a)) che la presente modifica si applica "a decorrere dalla data di applicazione del regolamento di esecuzione (UE) 2018/1212 del 3 settembre 2018".
 
-##### Art. 83-decies - Responsabilita' dell'intermediario
+###### Art. 83-decies - Responsabilita' dell'intermediario
 
 1\. L'intermediario e' responsabile:
 
@@ -7606,7 +7604,7 @@ a) verso il titolare del conto, per i danni derivanti dall'esercizio dell'attivi
 
 b) verso l'emittente, per l'adempimento degli obblighi di comunicazione e segnalazione imposti dal presente decreto e dal regolamento di cui all'articolo ((82, comma 2)).
 
-##### Art. 83-undecies - Obblighi degli emittenti azioni
+###### Art. 83-undecies - Obblighi degli emittenti azioni
 
 1\. Gli emittenti azioni aggiornano il libro dei soci in conformita' alle comunicazioni e alle segnalazioni effettuate dagli intermediari ai sensi dell'articolo 83-novies, comma 1, lettere b), c), d), e), f) e g), dell'articolo 83-duodecies nonche', nell'ipotesi di sollecitazione di deleghe promossa dall'emittente stesso, in conformita' alle comunicazioni effettuate dagli intermediari ai sensi dell'articolo 144, comma 1, entro trenta giorni dal ricevimento delle medesime.
 
@@ -7624,7 +7622,7 @@ AGGIORNAMENTO (68)
 
 Il D.Lgs. 12 agosto 2016, n. 176 ha disposto (con l'art. 2, comma 8) la ristrutturazione dei Capi I e II del Titolo II della Parte III.
 
-##### Art. 83-duodecies - Identificazione degli azionisti
+###### Art. 83-duodecies - Identificazione degli azionisti
 
 ((1. Al fine di facilitare la comunicazione degli emittenti con gli azionisti nonche' l'esercizio dei diritti sociali, anche in modo coordinato, da parte degli azionisti, gli emittenti italiani con azioni ammesse alle negoziazioni nei mercati regolamentati italiani o di altri Stati membri dell'Unione europea hanno il diritto di richiedere ai soggetti indicati dal regolamento di cui all'articolo 82, comma 4-bis, l'identificazione degli azionisti che detengono azioni in misura superiore allo 0,5% del capitale sociale con diritto di voto. La richiesta di identificazione puo' essere avanzata anche tramite un soggetto terzo designato dall'emittente. I costi del processo di identificazione sono a carico dell'emittente.)) ((89))
 
@@ -7646,7 +7644,7 @@ Il D.Lgs. 10 maggio 2019, n. 49 ha disposto (con l'art. 2, comma 4, lettera b)) 
 
 Ha inoltre disposto (con l'art. 7, comma 2, lettera a)) che le modifiche al presente articolo si applicano "a decorrere dalla data di applicazione del regolamento di esecuzione (UE) 2018/1212 del 3 settembre 2018".
 
-##### Art. 83-terdecies
+###### Art. 83-terdecies
 
 Pagamento dei dividendi
 
@@ -7660,13 +7658,13 @@ AGGIORNAMENTO (68)
 
 Il D.Lgs. 12 agosto 2016, n. 176 ha disposto (con l'art. 2, comma 8) la ristrutturazione dei Capi I e II del Titolo II della Parte III.
 
-##### Art. 83-quaterdecies
+###### Art. 83-quaterdecies
 
 (( (Accesso degli emittenti ad un depositario centrale stabilito in un altro Stato membro). ))
 
 ((1. Le disposizioni contenute nella presente sezione costituiscono disciplina applicabile, ai sensi dell'articolo 49, paragrafo 1, secondo e terzo comma, del regolamento (UE) n. 909/2014, anche nel caso di emissione diretta o immissione di valori mobiliari regolati dalla legge italiana in un sistema di scritture contabili gestito da un depositario centrale stabilito in un altro Stato membro.))
 
-##### Art. 84
+###### Art. 84
 
 Rilevazioni e comunicazioni inerenti agli strumenti finanziari accentrati
 
@@ -7690,7 +7688,7 @@ AGGIORNAMENTO (68)
 
 Il D.Lgs. 12 agosto 2016, n. 176 ha disposto (con l'art. 2, comma 8) la ristrutturazione dei Capi I e II del Titolo II della Parte III.
 
-##### Art. 85 - Deposito accentrato
+###### Art. 85 - Deposito accentrato
 
 1\. Nei casi in cui gli strumenti finanziari immessi nel sistema di gestione accentrata siano rappresentati da documenti, lo svolgimento e gli effetti dell'attivita' di gestione accentrata sono disciplinati dalla presente sezione. Si applicano, ove non altrimenti previsto dalla presente sezione, gli articoli da ((83-quater)) a 83-undecies.
 
@@ -7700,13 +7698,13 @@ Nell'esercizio di tale facolta' il depositario ha tutti i poteri necessari, comp
 
 3\. Gli strumenti finanziari sono immessi nel sistema in deposito regolare. ((Il depositario centrale di titoli)) e' ((legittimato)) a compiere tutte le operazioni inerenti alla gestione in conformita' al regolamento dei servizi previsto dall'articolo ((79-quinquiesdecies, comma 1)), nonche' le azioni conseguenti alla distruzione, allo smarrimento e alla sottrazione degli strumenti finanziari.
 
-##### Art. 86 - Trasferimento dei diritti inerenti agli strumenti finanziari depositati
+###### Art. 86 - Trasferimento dei diritti inerenti agli strumenti finanziari depositati
 
 1\. Il depositante degli strumenti finanziari immessi nel sistema puo', tramite il depositario e secondo le modalita' indicate nel regolamento dei servizi previsto dall'articolo ((79-quinquiesdecies, comma 1)), chiedere la consegna di un corrispondente quantitativo di strumenti finanziari della stessa specie in deposito presso ((il depositario centrale di titoli)).
 
 2\. Il proprietario degli strumenti finanziari immessi nel sistema assume tutti i diritti e gli obblighi conseguenti al deposito quando provi che il depositante non aveva titolo per effettuarlo.
 
-##### Art. 87 - Vincoli sugli strumenti finanziari accentrati
+###### Art. 87 - Vincoli sugli strumenti finanziari accentrati
 
 1\. I vincoli gravanti sugli strumenti finanziari immessi nel sistema si trasferiscono, senza effetti novativi, sui diritti del depositante con la girata ((al depositario centrale di titoli)); le annotazioni dei vincoli sui certificati si hanno per non apposte; di cio' e' fatta menzione sul titolo.
 
@@ -7714,7 +7712,7 @@ Nell'esercizio di tale facolta' il depositario ha tutti i poteri necessari, comp
 
 3\. Nel caso di pignoramento di strumenti finanziari immessi nel sistema gli adempimenti nei confronti dei comproprietari previsti dagli articoli 599 e 600 del codice di procedura civile sono eseguiti nei confronti dei depositari.
 
-##### Art. 88
+###### Art. 88
 
 Ritiro degli strumenti finanziari accentrati
 
@@ -7722,23 +7720,23 @@ Ritiro degli strumenti finanziari accentrati
 
 2\. ((Il depositario centrale di titoli)) puo' autenticare la sottoscrizione del girante anche quando la girata e' fatta a proprio favore. La sottoscrizione da esse apposta sul titolo in qualita' di girante non ha bisogno di autenticazione. La girata e la intestazione a favore ((del depositario centrale di titoli)) di strumenti finanziari da immettere nel sistema fanno esplicita menzione del presente decreto.
 
-##### Art. 89 - Aggiornamento del libro soci
+###### Art. 89 - Aggiornamento del libro soci
 
 1\. ((Il depositario centrale di titoli)) comunica agli emittenti le azioni nominative ad essa girate ai fini dell'aggiornamento del libro dei soci.
 
-## ((Sezione III)) - ((Gestione accentrata dei titoli di Stato))
+##### ((Sezione III)) - ((Gestione accentrata dei titoli di Stato))
 
-##### Art. 90
+###### Art. 90
 
 (( (Gestione accentrata dei titoli di Stato). ))
 
 ((1. Il Ministro dell'economia e delle finanze stabilisce con regolamento le modalita' di individuazione dei depositari centrali dei titoli di Stato nonche' i criteri per la fornitura dei relativi servizi.))
 
-## ((TITOLO II-TER)) - ((ACCESSO ALLE INFRASTRUTTURE DI POST-TRADING E TRA SEDI DI NEGOZIAZIONE E INFRASTRUTTURE DI POST-TRADING))
+### ((TITOLO II-TER)) - ((ACCESSO ALLE INFRASTRUTTURE DI POST-TRADING E TRA SEDI DI NEGOZIAZIONE E INFRASTRUTTURE DI POST-TRADING))
 
-### ((CAPO I)) - ((AUTORITA' NAZIONALI COMPETENTI))
+#### ((CAPO I)) - ((AUTORITA' NAZIONALI COMPETENTI))
 
-##### Art. 90-bis - Individuazione delle autorita' nazionali competenti in materia di accesso ai depositari centrali stabiliti sul territorio della Repubblica
+###### Art. 90-bis - Individuazione delle autorita' nazionali competenti in materia di accesso ai depositari centrali stabiliti sul territorio della Repubblica
 
 1\. La Consob e' l'autorita' competente a ricevere i reclami ed esercitare, ((sentita la Banca d'Italia)), le competenze in materia di accesso ai depositari centrali stabiliti nel territorio della Repubblica da parte di:
 
@@ -7748,7 +7746,7 @@ b) emittenti, ai sensi dell'articolo 49, paragrafo 4, del medesimo regolamento;
 
 c) depositari centrali, ai sensi dell'articolo 52, paragrafo 2, del medesimo regolamento.
 
-##### Art. 90-ter - Individuazione delle autorita' nazionali competenti in materia di accesso tra sedi di negoziazione e infrastrutture di post-trading
+###### Art. 90-ter - Individuazione delle autorita' nazionali competenti in materia di accesso tra sedi di negoziazione e infrastrutture di post-trading
 
 1\. In materia di accesso tra sedi di negoziazione e depositari centrali:
 
@@ -7770,9 +7768,9 @@ a) la Consob e' l'autorita' competente a ricevere i reclami e a svolgere, d'inte
 
 b) la Banca d'Italia e' l'autorita' competente a ricevere i reclami e a svolgere, d'intesa con la Consob, le funzioni indicate all'articolo 53, paragrafo 3, quinto comma, del regolamento (UE) n. 909/2014, quando le richieste di accesso sono presentate da depositari centrali ai sensi del paragrafo 1, primo comma, del medesimo articolo.
 
-## ((CAPO II)) - ((DIRITTO DI ACCESSO E ACCORDI))
+#### ((CAPO II)) - ((DIRITTO DI ACCESSO E ACCORDI))
 
-##### Art. 90-quater - Accesso alle controparti centrali su base transfrontaliera
+###### Art. 90-quater - Accesso alle controparti centrali su base transfrontaliera
 
 1\. Fatti salvi i titoli III, IV e V del regolamento (UE) n. 648/2012, ((le imprese di investimento UE e le banche UE)) autorizzate all'esercizio dei servizi o delle attivita' di investimento hanno diritto di accedere direttamente e indirettamente alle controparti centrali stabilite nel territorio della Repubblica, per finalizzare o per disporre la finalizzazione delle operazioni su strumenti finanziari. ((73))
 
@@ -7782,7 +7780,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 90-quinquies - Accesso ai servizi di regolamento delle operazioni su strumenti finanziari su base transfrontaliera
+###### Art. 90-quinquies - Accesso ai servizi di regolamento delle operazioni su strumenti finanziari su base transfrontaliera
 
 1\. Fatto salvo l'articolo 33 del regolamento (UE) n. 909/2014, le imprese di investimento UE e le banche UE autorizzate all'esercizio dei servizi o delle attivita' di investimento hanno il diritto di accedere direttamente e indirettamente ai servizi di regolamento gestiti da depositari centrali stabiliti nel territorio della Repubblica, per finalizzare o per disporre la finalizzazione delle operazioni su strumenti finanziari. (73)
 
@@ -7802,7 +7800,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 90-sexies - Accordi conclusi dai gestori dei mercati regolamentati e dei sistemi multilaterali di negoziazione con controparti centrali o con depositari centrali che gestiscono servizi di regolamento
+###### Art. 90-sexies - Accordi conclusi dai gestori dei mercati regolamentati e dei sistemi multilaterali di negoziazione con controparti centrali o con depositari centrali che gestiscono servizi di regolamento
 
 1\. Fatti salvi gli articoli 7 e 8 e il Titolo V del regolamento (UE) n. 648/2012, l'articolo 53 del regolamento (UE) n. 909/2014 ((, nonche' gli articoli 35 e 36 del regolamento (UE) n. 600/2014)), i gestori di un mercato regolamentato o di un sistema multilaterale di negoziazione possono concludere accordi con le controparti centrali o con i depositari centrali stabiliti in un altro Stato membro al fine di disporre la compensazione o il regolamento di alcune o tutte le operazioni concluse dai partecipanti al mercato regolamentato ((o al sistema multilaterale di negoziazione)). ((73))
 
@@ -7818,9 +7816,9 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-## ((CAPO III)) - ((VIGILANZA))
+#### ((CAPO III)) - ((VIGILANZA))
 
-##### Art. 90-septies - Poteri di vigilanza
+###### Art. 90-septies - Poteri di vigilanza
 
 1\. Ai fini dello svolgimento delle funzioni attribuite dal presente Titolo, la Consob e la Banca d'Italia dispongono, nei confronti dei gestori delle sedi di negoziazione, delle controparti centrali e dei depositari centrali, dei poteri rispettivamente previsti dagli articoli ((62-octies, 62-novies, 62-decies,)) 79-sexies e 79-quaterdecies. ((73))
 
@@ -7834,13 +7832,13 @@ Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le dis
 
 ### TITOLO I - DISPOSIZIONI GENERALI
 
-##### Art. 91
+###### Art. 91
 
 Poteri della CONSOB
 
 1\. La CONSOB esercita i poteri previsti dalla presente parte avendo riguardo alla tutela degli investitori nonche' all'efficienza e alla trasparenza del mercato del controllo societario e del mercato dei capitali.
 
-##### Art. 91-bis
+###### Art. 91-bis
 
 (( (Comunicazione dello Stato membro d'origine). ))
 
@@ -7848,7 +7846,7 @@ Poteri della CONSOB
 
 2\. Per gli emittenti indicati all'articolo 1, comma 1, lettera w-quater), numeri 3), 4) e 4-bis), che non hanno effettuato la comunicazione dello Stato membro d'origine entro tre mesi dalla data in cui i valori mobiliari sono stati ammessi alla negoziazione, per la prima volta nell'Unione europea, unicamente in un mercato regolamentato italiano, lo Stato membro d'origine e' l'Italia. Per gli emittenti valori mobiliari ammessi alla negoziazione in mercati regolamentati di piu' Stati membri, inclusa l'Italia, in assenza della comunicazione richiesta dal comma 1, sia l'Italia che tali altri Stati membri sono considerati Stato membro d'origine, fino alla successiva scelta e relativa comunicazione.))
 
-##### Art. 92
+###### Art. 92
 
 (( Parita' di trattamento
 
@@ -7858,7 +7856,7 @@ Poteri della CONSOB
 
 3\. La Consob detta con regolamento, in conformita' alla normativa comunitaria, disposizioni di attuazione del comma 2, prevedendo anche la possibilita' dell'utilizzo di mezzi elettronici per la trasmissione delle informazioni. ))
 
-##### Art. 93
+###### Art. 93
 
 Definizione di controllo
 
@@ -7870,7 +7868,7 @@ b) le imprese, italiane o estere, su cui un socio, in base ad accordi con altri 
 
 2\. Ai fini del comma 1 si considerano anche i diritti spettanti a societa' controllate o esercitati per il tramite di fiduciari o di interposte persone; non si considerano quelli spettanti per conto di terzi.
 
-##### Art. 93.1
+###### Art. 93.1
 
 (( (Utilizzo della denominazione "obbligazione verde europea" o "EuGB" ai sensi del regolamento (UE) n. 2023/2631).))
 
@@ -7884,11 +7882,11 @@ b) le imprese, italiane o estere, su cui un socio, in base ad accordi con altri 
 
 5\. ((Nell'ambito delle competenze e per le finalita' indicate al comma 3, la Consob puo' adottare con regolamento le disposizioni di attuazione del presente articolo, anche al fine di stabilire le modalita' procedurali della notifica da parte dell'emittente ai sensi dell'articolo 15, paragrafo 4, del regolamento (UE) 2023/2631.))
 
-## TITOLO II - APPELLO AL PUBBLICO RISPARMIO
+### TITOLO II - APPELLO AL PUBBLICO RISPARMIO
 
-### ((CAPO I - OFFERTA AL PUBBLICO DI SOTTOSCRIZIONE E DI VENDITA))
+#### ((CAPO I - OFFERTA AL PUBBLICO DI SOTTOSCRIZIONE E DI VENDITA))
 
-##### Art. 93-bis
+###### Art. 93-bis
 
 Definizioni
 
@@ -7916,9 +7914,9 @@ f) "Stato membro ospitante": lo Stato membro della UE in cui viene effettuata l'
 
 f-ter) «KID»: il documento contenente le informazioni chiave per i prodotti d'investimento al dettaglio e assicurativi preassemblati previsto dall'articolo 5 del regolamento (UE) n. 1286/2014.))
 
-## Sezione I - Offerta al pubblico di ((titoli)) e di prodotti finanziari diversi dalle quote o azioni di OICR aperti
+##### Sezione I - Offerta al pubblico di ((titoli)) e di prodotti finanziari diversi dalle quote o azioni di OICR aperti
 
-##### Art. 94 - Offerta al pubblico di titoli
+###### Art. 94 - Offerta al pubblico di titoli
 
 1\. L'offerta pubblica di titoli e' disciplinata dal regolamento prospetto e dalle disposizioni attuative, nonche' dalle disposizioni della presente sezione.
 
@@ -7938,7 +7936,7 @@ f-ter) «KID»: il documento contenente le informazioni chiave per i prodotti d'
 
 9\. Le azioni risarcitorie sono esercitate entro cinque anni dalla pubblicazione del prospetto, salvo che l'investitore provi di avere scoperto le falsita' delle informazioni o le omissioni nei due anni precedenti l'esercizio dell'azione.
 
-##### Art. 94-bis - Offerta al pubblico di prodotti finanziari diversi dai titoli e dalle quote o azioni di Oicr aperti
+###### Art. 94-bis - Offerta al pubblico di prodotti finanziari diversi dai titoli e dalle quote o azioni di Oicr aperti
 
 1\. Coloro che intendono effettuare un'offerta al pubblico di prodotti finanziari diversi dai titoli e dalle quote o azioni di Oicr aperti pubblicano preventivamente un prospetto. A tal fine, presentano la domanda di approvazione dello stesso alla Consob, allegandone la bozza. Il prospetto non puo' essere pubblicato finche' non e' approvato dalla Consob ai sensi dell'articolo 95, comma 1, lettera b). Il prospetto contiene, in una forma facilmente analizzabile e comprensibile, tutte le informazioni che, a seconda delle caratteristiche dell'emittente e dei prodotti finanziari offerti, siano rilevanti per un investitore affinche' possa procedere ad una valutazione con cognizione di causa della situazione patrimoniale, dei risultati economici, della situazione finanziaria e delle prospettive dell'emittente e degli eventuali garanti, nonche' dei diritti connessi ai titoli, delle ragioni dell'emissione e del suo impatto sull'emittente. Il prospetto contiene, altresi', una nota di sintesi la quale, concisamente e con linguaggio non tecnico, fornisce le informazioni chiave. Il formato e il contenuto della nota di sintesi forniscono, unitamente al prospetto, informazioni adeguate circa le caratteristiche fondamentali dei prodotti finanziari che aiutino gli investitori al momento di valutare se investire in tali prodotti.
 
@@ -7956,7 +7954,7 @@ f-ter) «KID»: il documento contenente le informazioni chiave per i prodotti d'
 
 8\. Alle offerte al pubblico di prodotti finanziari diversi dai titoli e dalle quote o azioni di Oicr aperti si applica l'articolo 94, commi 5, 6, 7 e 9. Per la predisposizione della nota di sintesi, si applica il regime di responsabilita' previsto dal comma 8 dell'articolo 94.
 
-##### Art. 95 - Disposizioni di attuazione
+###### Art. 95 - Disposizioni di attuazione
 
 1\. La Consob, conformemente alle disposizioni europee di riferimento, detta con regolamento disposizioni di attuazione della presente Sezione anche differenziate in relazione alle caratteristiche dei prodotti finanziari, degli emittenti e dei mercati. Il regolamento stabilisce in particolare:
 
@@ -7982,17 +7980,17 @@ AGGIORNAMENTO (134)
 
 Il D.Lgs. 29 aprile 2026, n. 86 ha disposto (con l'art. 4, comma 1) che la presente modifica si applica a decorrere dal 5 giugno 2026.
 
-##### Art. 95-bis
+###### Art. 95-bis
 
 Revoca dell'acquisto o della sottoscrizione
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 17))
 
-##### Art. 96 - Bilanci dell'emittente
+###### Art. 96 - Bilanci dell'emittente
 
 ((1. Nelle offerte aventi ad oggetto prodotti finanziari diversi dai titoli, l'ultimo bilancio e il bilancio consolidato eventualmente redatto dall'emittente nonche' il bilancio e il bilancio consolidato eventualmente approvati o redatti nel periodo dell'offerta sono corredati delle relazioni di revisione nelle quali un revisore legale o una societa' di revisione legale iscritti nel registro tenuto dal Ministero dell'economia e delle finanze esprimono il proprio giudizio. L'offerta non puo' essere effettuata se il revisore legale o la societa' di revisione legale hanno espresso un giudizio negativo ovvero si sono dichiarati impossibilitati ad esprimere un giudizio.))
 
-##### Art. 97
+###### Art. 97
 
 (( (Poteri di indagine e di vigilanza). ))
 
@@ -8002,21 +8000,21 @@ Revoca dell'acquisto o della sottoscrizione
 
 3\. Qualora sussista fondato sospetto di violazione delle disposizioni contenute nel presente Capo o delle relative norme di attuazione, la Consob, allo scopo di acquisire elementi conoscitivi, puo' richiedere, entro un anno dall'acquisto o dalla sottoscrizione, la comunicazione di dati e notizie e la trasmissione di atti e documenti agli acquirenti o sottoscrittori dei titoli e dei prodotti finanziari diversi dai titoli di cui alla presente Sezione, fissando i relativi termini. Il potere di richiesta puo' essere esercitato anche nei confronti di coloro per i quali vi e' fondato sospetto che svolgano, o abbiano svolto, un'offerta al pubblico in violazione delle disposizioni previste dagli articoli 94 e 94-bis.))
 
-##### Art. 98
+###### Art. 98
 
 (( (Pubblicazione del prospetto dei FIA chiusi o dei FIA UE chiusi). ))
 
 ((1. Nel caso di offerta al pubblico di quote o azioni di FIA chiusi per le quali l'Italia e' lo Stato membro d'origine, o di offerta al pubblico di quote o azioni di FIA UE chiusi per le quali l'Italia e' lo Stato membro ospitante, il prospetto e' pubblicato quando si e' conclusa la procedura prevista, rispettivamente, dall'articolo 43 e dall'articolo 44 e dalle relative disposizioni di attuazione.))
 
-##### Art. 98-bis
+###### Art. 98-bis
 
 Emittenti di Paesi extracomunitari
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 17))
 
-## ((Sezione II - Offerta al pubblico di quote o azioni di OICR aperti))
+##### ((Sezione II - Offerta al pubblico di quote o azioni di OICR aperti))
 
-##### Art. 98-ter
+###### Art. 98-ter
 
 (( (KID e prospetto) ))
 
@@ -8032,7 +8030,7 @@ Emittenti di Paesi extracomunitari
 
 5-bis. Nel caso di offerta al pubblico di quote o azioni di FIA italiani, di FIA UE e non UE aperti, la documentazione d'offerta e' pubblicata quando si e' conclusa la procedura prevista dall'articolo 43 o dall'articolo 44 e dalle relative disposizioni di attuazione.
 
-##### Art. 98-ter.1 - Offerte rivolte agli investitori non al dettaglio
+###### Art. 98-ter.1 - Offerte rivolte agli investitori non al dettaglio
 
 1\. Nel caso in cui l'offerta di OICVM italiani non sia rivolta a investitori al dettaglio, gli offerenti scelgono se redigere il KIID o il KID. Nel caso in cui venga redatto il KID, si applica il regolamento (UE) n. 1286/2014 e le relative disposizioni attuative adottate in sede europea.
 
@@ -8050,7 +8048,7 @@ AGGIORNAMENTO (132)
 
 Il D.Lgs. 13 marzo 2026, n. 39 ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 16 aprile 2026".
 
-##### Art. 98-quater
+###### Art. 98-quater
 
 Disposizioni di attuazione
 
@@ -8068,7 +8066,7 @@ c) le modalita' di svolgimento dell'offerta anche al fine di assicurare la parit
 
 2\. Ove le caratteristiche degli OICR lo richiedano la Consob puo' consentire, su istanza degli offerenti, l'inserimento nella documentazione d'offerta di informazioni ulteriori o equivalenti a quelle previste dal regolamento di cui al comma 1.
 
-##### Art. 98-quinquies
+###### Art. 98-quinquies
 
 Obblighi informativi
 
@@ -8082,7 +8080,7 @@ b) l'articolo 115, dalla data della comunicazione prevista dall'articolo 98-ter 
 
 3\. Qualora sussista fondato sospetto di violazione delle disposizioni contenute nel presente Capo o delle relative norme di attuazione, la CONSOB, allo scopo di acquisire elementi conoscitivi, puo' richiedere, entro un anno dall'acquisto o dalla sottoscrizione, la comunicazione di dati e notizie e la trasmissione di atti e documenti agli acquirenti o sottoscrittori delle quote o azioni di OICR aperti, fissando i relativi termini. Il potere di richiesta puo' essere esercitato anche nei confronti di coloro per i quali vi e' fondato sospetto che svolgano un'offerta al pubblico in violazione delle disposizioni previste dall'articolo 98-ter.
 
-##### Art. 98-sexies
+###### Art. 98-sexies
 
 ((ARTICOLO ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129)) ((73))
 
@@ -8092,9 +8090,9 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-## ((Sezione III - Disposizioni comuni))
+##### ((Sezione III - Disposizioni comuni))
 
-##### Art. 99
+###### Art. 99
 
 (( (Poteri della Consob). ))
 
@@ -8122,7 +8120,7 @@ l) esigere che l'emittente o l'offerente includa nel prospetto informazioni supp
 
 m) fermo restando il potere previsto nell'articolo 66-quater, comma 1, sospendere o imporre ai gestori dei mercati regolamentati, degli MTF o degli OTF, di sospendere la negoziazione dei titoli se la situazione dell'emittente e' tale che la negoziazione pregiudicherebbe gli interessi degli investitori.))
 
-##### Art. 100 - Casi di esenzione
+###### Art. 100 - Casi di esenzione
 
 1\. Le disposizioni del presente Capo non si applicano alle offerte di cui all'articolo 1, paragrafo 2, lettere da b) a f), del regolamento prospetto.
 
@@ -8146,11 +8144,11 @@ AGGIORNAMENTO (134)
 
 Il D.Lgs. 29 aprile 2026, n. 86 ha disposto (con l'art. 4, comma 1) che la presente modifica si applica a decorrere dal 5 giugno 2026.
 
-##### Art. 100-bis
+###### Art. 100-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 MARZO 2026, N. 47))
 
-##### Art. 100-ter - Offerte di crowdfunding
+###### Art. 100-ter - Offerte di crowdfunding
 
 1\. In deroga a quanto previsto dall'articolo 2468, primo comma, del codice civile, le quote di partecipazione in societa' a responsabilita' limitata possono costituire oggetto di offerta al pubblico di prodotti finanziari, anche attraverso le piattaforme di crowdfunding, nei limiti previsti dal regolamento (UE) 2020/1503.
 
@@ -8200,7 +8198,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 101 - Attivita' pubblicitaria
+###### Art. 101 - Attivita' pubblicitaria
 
 1\. La Consob individua con proprio regolamento, tenendo conto dell'esigenza di contenimento degli oneri per i soggetti vigilati ((e di quanto previsto dall'articolo 7 del regolamento (UE) 2019/1156)), le modalita' e i termini per l'acquisizione della documentazione relativa a qualsiasi tipo di pubblicita' effettuata in Italia concernente un'offerta.
 
@@ -8220,11 +8218,11 @@ d) vietare l'esecuzione dell'offerta, in caso di mancata ottemperanza ai provved
 
 5\. A prescindere dall'obbligo di pubblicazione di un prospetto, le informazioni rilevanti fornite dall'emittente o dall'offerente agli investitori qualificati o a categorie speciali di investitori, comprese le informazioni comunicate nel corso di riunioni riguardanti offerte di prodotti finanziari diversi dai titoli, devono essere divulgate a tutti gli investitori qualificati o a tutte le categorie speciali di investitori a cui l'offerta e' diretta in esclusiva.
 
-## CAPO II - OFFERTE PUBBLICHE DI ACQUISTO O DI SCAMBIO
+#### CAPO II - OFFERTE PUBBLICHE DI ACQUISTO O DI SCAMBIO
 
-### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
-##### Art. 101-bis - Definizioni e ambito applicativo
+###### Art. 101-bis - Definizioni e ambito applicativo
 
 1\. Ai fini del presente capo si intendono per "societa' italiane quotate" le societa' con sede legale nel territorio italiano e con titoli ammessi alla negoziazione in un mercato regolamentato di uno ((Stato dell'Unione europea)).
 
@@ -8262,7 +8260,7 @@ b) i casi nei quali la cooperazione tra piu' soggetti non configura un'azione di
 
 4-quater. ((Sono "parti interessate" l'offerente, l'emittente, i soggetti ad essi legati da rapporti di controllo, le societa' sottoposte a comune controllo con essi, le societa' ad essi collegate, i componenti dei relativi organi di amministrazione e controllo, i soci dell'offerente o dell'emittente aderenti a uno dei patti oggetto di comunicazione ai sensi dell'articolo 122 nonche' coloro che operano di concerto con l'offerente o l'emittente.))
 
-##### Art. 101-ter - Autorita' di vigilanza e diritto applicabile
+###### Art. 101-ter - Autorita' di vigilanza e diritto applicabile
 
 1\. La Consob vigila sulle offerte pubbliche di acquisto o di scambio in conformita' alle disposizioni del presente capo.
 
@@ -8280,7 +8278,7 @@ c) aventi ad oggetto titoli emessi da una societa' la cui sede legale e' situata
 
 5\. Nei casi in cui l'offerta abbia ad oggetto titoli emessi da societa' la cui sede legale e' situata nel territorio italiano e ammessi alla negoziazione esclusivamente su uno o piu' mercati regolamentati di altri Stati ((dell'Unione europea)), sono disciplinate dal diritto italiano le materie indicate nel comma 4, secondo periodo e l'autorita' competente in relazione ad esse e' la Consob.
 
-##### Art. 102 - Obblighi degli offerenti e poteri interdittivi
+###### Art. 102 - Obblighi degli offerenti e poteri interdittivi
 
 1\. La decisione ovvero il sorgere dell'obbligo di promuovere un'offerta pubblica di acquisto o di scambio sono senza indugio comunicati alla Consob e contestualmente resi pubblici. La Consob stabilisce con regolamento i contenuti e le modalita' di pubblicazione della comunicazione.
 
@@ -8308,7 +8306,7 @@ c) dichiararla decaduta, in caso di accertata violazione delle disposizioni o de
 
 8\. ((In presenza di notizie o indiscrezioni diffuse)) tra il pubblico in merito ad una possibile offerta pubblica di acquisto o scambio ((...)), ai potenziali offerenti si applica l'articolo 114, commi 5 e 6. ((La Consob puo' stabilire un termine entro il quale il potenziale offerente deve rendere nota al mercato la decisione di promuovere un'offerta. In caso di silenzio o diniego, l'offerente non puo' promuovere un'offerta avente a oggetto titoli del medesimo emittente nei successivi dodici mesi.))
 
-##### Art. 103
+###### Art. 103
 
 Svolgimento dell'offerta
 
@@ -8340,7 +8338,7 @@ f) le modalita' di pubblicazione dei provvedimenti da essa adottati ai sensi del
 
 5\. COMMA ABROGATO DAL D.LGS. 19 NOVEMBRE 2007, N. 229.
 
-##### Art. 104 - Difese
+###### Art. 104 - Difese
 
 1\. Salvo autorizzazione dell'assemblea ordinaria o di quella straordinaria per le delibere di competenza, le societa' italiane quotate i cui titoli sono oggetto dell'offerta si astengono dal compiere atti od operazioni che possono contrastare il conseguimento degli obiettivi dell'offerta. L'obbligo di astensione si applica dalla comunicazione di cui all'articolo 102, comma 1, e fino alla chiusura dell'offerta ovvero fino a quando l'offerta stessa non decada. La mera ricerca di altre offerte non costituisce atto od operazione in contrasto con gli obiettivi dell'offerta. Resta ferma la responsabilita' degli amministratori, dei componenti del consiglio di gestione e di sorveglianza e dei direttori generali per gli atti e le operazioni compiuti. (31)
 
@@ -8356,7 +8354,7 @@ AGGIORNAMENTO (31)
 
 Il D.Lgs. 25 settembre 2009, n. 146, ha disposto (con l'art. 1, comma 3) che le modifiche al presente articolo hanno efficacia dal 1 luglio 2010.
 
-##### Art. 104-bis - Regola di neutralizzazione
+###### Art. 104-bis - Regola di neutralizzazione
 
 1\. Fermo quanto previsto dall'articolo 123, comma 3, gli statuti delle societa' italiane quotate, diverse dalle societa' cooperative, possono prevedere che, quando sia promossa un'offerta pubblica di acquisto o di scambio avente ad oggetto i titoli da loro emessi si applichino le regole previste dai commi 2 e 3.
 
@@ -8378,7 +8376,7 @@ b) qualsiasi diritto speciale in materia di nomina o revoca degli amministratori
 
 7\. Restano ferme le disposizioni in materia di poteri speciali di cui all'articolo 2 del decreto-legge 31 maggio 1994, n. 332, convertito, con modificazioni, dalla legge 30 luglio 1994, n. 474, e successive modificazioni, e in materia di limiti di possesso azionario e al diritto di voto di cui all'articolo 3 del medesimo decreto-legge.
 
-##### Art. 104-ter - Clausola di reciprocita'
+###### Art. 104-ter - Clausola di reciprocita'
 
 1\. Le disposizioni di cui all'articolo 104, commi 1 e 1-bis, e, qualora previste negli statuti, le disposizioni di cui all'articolo 104-bis, commi 2 e 3, non si applicano in caso di offerta pubblica promossa da chi non sia soggetto a tali disposizioni ovvero a disposizioni equivalenti, ovvero da una societa' o ente da questi controllata. In caso di offerta promossa di concerto, e' sufficiente che a tali disposizioni non sia soggetto anche uno solo fra gli offerenti.(31)
 
@@ -8394,9 +8392,9 @@ AGGIORNAMENTO (31)
 
 Il D.Lgs. 25 settembre 2009, n. 146, ha disposto (con l'art. 1, comma 4) che la modifica al presente articolo ha efficacia dal 1 luglio 2010.
 
-## Sezione II - Offerte pubbliche di acquisto obbligatorie
+##### Sezione II - Offerte pubbliche di acquisto obbligatorie
 
-##### Art. 105
+###### Art. 105
 
 Disposizioni generali
 
@@ -8408,7 +8406,7 @@ Disposizioni generali
 
 3-bis. La Consob stabilisce con regolamento i casi e le modalita' con cui gli strumenti finanziari derivati detenuti sono computati nella partecipazione di cui al comma 2.
 
-##### Art. 106
+###### Art. 106
 
 Offerta pubblica di acquisto totalitaria
 
@@ -8476,7 +8474,7 @@ AGGIORNAMENTO (25)
 
 Il D.Lgs. 19 novembre 2007, n. 229 ha disposto (con l'art. 8, comma 6) che "Le disposizioni di cui all'articolo 106, comma 3, lettere c) e d), del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, come modificato dal presente decreto, si applicano a decorrere dalla data di entrata in vigore delle norme di attuazione ivi previste".
 
-##### Art. 107
+###### Art. 107
 
 Offerta pubblica di acquisto preventiva
 
@@ -8502,7 +8500,7 @@ AGGIORNAMENTO (31)
 
 Il D.Lgs. 25 settembre 2009, n. 146 ha disposto (con l'art. 2, comma 3, lettera b)) che al comma 1, lettera b), del presente articolo, le parole: "dai soggetti ad esso legati da uno dei rapporti, indicati nell'articolo 101-bis, comma 4" sono sostituite dalle seguenti: "dalle persone che agiscono di concerto con lui".
 
-##### Art. 108 - Obbligo di acquisto
+###### Art. 108 - Obbligo di acquisto
 
 1\. L'offerente che venga a detenere, a seguito di un'offerta pubblica totalitaria, una partecipazione almeno pari al novantacinque per cento del capitale rappresentato da titoli in una societa' italiana quotata ha l'obbligo di acquistare i restanti titoli da chi ne faccia richiesta. Qualora siano emesse piu' categorie di titoli, l'obbligo sussiste solo per le categorie di titoli per le quali sia stata raggiunta la soglia del novantacinque per cento.
 
@@ -8526,7 +8524,7 @@ b) i termini entro i quali i possessori dei titoli residui possono richiedere di
 
 c) la procedura da seguire per la determinazione del prezzo.
 
-##### Art. 109 - Acquisto di concerto
+###### Art. 109 - Acquisto di concerto
 
 1\. Sono solidalmente tenuti agli obblighi previsti dagli articoli 106 e 108 le persone che agiscono di concerto quando vengano a detenere, a seguito di acquisti effettuati anche da uno solo di essi, una partecipazione complessiva superiore alle percentuali indicate nei predetti articoli. I medesimi obblighi sussistono in capo a coloro che agiscono di concerto, a seguito di maggiorazione, anche a favore di uno solo di essi, dei diritti di voto, qualora essi vengano a disporre di diritti di voto in misura superiore alle percentuali indicate nell'articolo 106.
 
@@ -8534,7 +8532,7 @@ c) la procedura da seguire per la determinazione del prezzo.
 
 3\. Ai fini dell'applicazione del comma 1, le fattispecie di cui all'articolo 101-bis, comma 4-bis , assumono rilievo anche congiuntamente, limitatamente ai soggetti che detengono partecipazioni.
 
-##### Art. 110
+###### Art. 110
 
 ((Inadempimento degli Obblighi ))
 
@@ -8544,7 +8542,7 @@ c) la procedura da seguire per la determinazione del prezzo.
 
 1-ter. L'alienazione prevista dal comma 1 o la promozione dell'offerta prevista dal comma 1-bis fanno venire meno la sospensione del diritto di voto di cui al comma 1. ))
 
-##### Art. 111
+###### Art. 111
 
 Diritto di acquisto
 
@@ -8556,11 +8554,11 @@ Diritto di acquisto
 
 3\. Il trasferimento ha efficacia dal momento della comunicazione dell'avvenuto deposito del prezzo di acquisto presso una banca alla societa' emittente, che provvede alle conseguenti annotazioni nel libro dei soci.
 
-##### Art. 112
+###### Art. 112
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 MARZO 2026, N. 47))
 
-##### Art. 112-bis
+###### Art. 112-bis
 
 (( (Acquisto totalitario su autorizzazione dei soci).))
 
@@ -8614,11 +8612,11 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47, ha disposto (con l'art. 11, comma 6) che "Le modifiche apportate dal presente decreto agli articoli 62-quater, 64-quater, commi 6, 6-bis e 6-ter, 65-bis, comma 3-bis, 65-quater, 65-quinquies, 79-quinquiesdecies, commi 1-bis, 1-ter, 1-quater e 2, 112-bis, 123-ter, comma 8, 133, comma 1-bis, 147-quinquies del testo unico di cui al decreto legislativo n. 58 del 1998 si applicano a decorrere dalla data di applicazione delle disposizioni di attuazione ivi previste e in ogni caso alla scadenza del termine previsto dal comma 5".
 
-## TITOLO III - EMITTENTI
+### TITOLO III - EMITTENTI
 
-### CAPO I - INFORMAZIONE SOCIETARIA
+#### CAPO I - INFORMAZIONE SOCIETARIA
 
-##### Art. 113
+###### Art. 113
 
 (( (Ammissione alle negoziazioni di titoli). ))
 
@@ -8650,7 +8648,7 @@ m) richiedere, anche in via generale, agli intermediari incaricati della domanda
 
 3\. Alla pubblicita' relativa ad un'ammissione di titoli alla negoziazione in un mercato regolamentato si applica l'articolo 101, comma 4.))
 
-##### Art. 113-bis
+###### Art. 113-bis
 
 Ammissione alle negoziazioni di quote o azioni di OICR aperti
 
@@ -8668,7 +8666,7 @@ c) detta disposizioni per coordinare le funzioni della societa' di gestione del 
 
 4\. Alla pubblicita' relativa ad un'ammissione di quote o azioni di OICR aperti alla negoziazione in un mercato regolamentato si applica l'articolo 101.
 
-##### Art. 113-ter
+###### Art. 113-ter
 
 Disposizioni generali in materia di informazioni regolamentate
 
@@ -8710,7 +8708,7 @@ a) sospendere o richiedere che il mercato regolamentato interessato sospenda la 
 
 b) proibire la negoziazione in un mercato regolamentato se accerta che le disposizioni indicate alla lettera a) sono state violate.
 
-##### Art. 114 - Comunicazioni al pubblico
+###### Art. 114 - Comunicazioni al pubblico
 
 1\. Gli emittenti quotati comunicano al pubblico le informazioni privilegiate ai sensi dell'articolo 17 del regolamento (UE) n. 596/2014, secondo le modalita' stabilite dalle norme tecniche di attuazione adottate dalla Commissione europea ai sensi del medesimo articolo 17, paragrafo 10. La Consob detta disposizioni per coordinare le funzioni attribuite al gestore del mercato con le proprie e puo' individuare compiti da affidargli per il corretto svolgimento delle funzioni previste dall'articolo 64, comma 2, lettera d). (73)
 
@@ -8748,7 +8746,7 @@ AGGIORNAMENTO (73)
 
 Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal presente decreto, si applicano dal 3 gennaio 2018, fatto salvo quanto diversamente previsto dall'articolo 93 della direttiva 2014/65/UE, con riferimento dell'articolo 65, paragrafo 2, della direttiva medesima, le cui disposizioni attuative si applicano dal 3 settembre 2019, e dall'articolo 55 del regolamento (UE) n. 600/2014, e successive modificazioni, nonche' dal comma 3. [...] Fermo restando quanto previsto dalle disposizioni dell'Unione europea direttamente applicabili, le disposizioni emanate dalla Banca d'Italia e dalla Consob, anche congiuntamente, ai sensi di disposizioni del decreto legislativo 24 febbraio 1998, n. 58, abrogate o modificate dal presente decreto, continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati dalla Banca d'Italia o dalla Consob nelle corrispondenti materie".
 
-##### Art. 114-bis - Informazione al mercato in materia di attribuzione di strumenti finanziari a esponenti aziendali, dipendenti o collaboratori
+###### Art. 114-bis - Informazione al mercato in materia di attribuzione di strumenti finanziari a esponenti aziendali, dipendenti o collaboratori
 
 1\. ((Negli emittenti quotati, i piani di compensi)) basati su strumenti finanziari a favore di componenti del consiglio di amministrazione ovvero del consiglio di gestione, di dipendenti o di collaboratori non legati alla societa' da rapporti di lavoro subordinato, ovvero di componenti del consiglio di amministrazione ovvero del consiglio di gestione, di dipendenti o di collaboratori di altre societa' controllanti o controllate sono approvati dall'assemblea ordinaria dei soci. Nei termini e con le modalita' previsti dall'articolo 125-ter, comma 1, l'emittente mette a disposizione del pubblico la relazione con le informazioni concernenti:
 
@@ -8770,7 +8768,7 @@ f) i vincoli di disponibilita' gravanti sulle azioni ovvero sui diritti di opzio
 
 3\. La Consob definisce con proprio regolamento le informazioni, relative agli elementi indicati nel comma 1, che devono essere fornite in relazione alle varie modalita' di realizzazione del piano, prevedendo informazioni piu' dettagliate per piani di particolare rilevanza.
 
-##### Art. 115
+###### Art. 115
 
 Comunicazioni alla CONSOB
 
@@ -8790,11 +8788,11 @@ c-bis) esercitare gli ulteriori poteri previsti dall'articolo 187-octies.
 
 3\. La CONSOB puo' altresi' richiedere alle societa' o agli enti che partecipano direttamente o indirettamente a societa' con azioni quotate l'indicazione nominativa, in base ai dati disponibili, dei soci e, nel caso di societa' fiduciarie, dei fiducianti.
 
-##### Art. 115-bis
+###### Art. 115-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 10 AGOSTO 2018, N. 107))
 
-##### Art. 115-ter
+###### Art. 115-ter
 
 (( (Comunicazioni relative alle quote di emissioni). ))
 
@@ -8802,11 +8800,11 @@ c-bis) esercitare gli ulteriori poteri previsti dall'articolo 187-octies.
 
 2\. Ai fini di quanto previsto dagli articoli 18, paragrafo 8, e 19, paragrafo 10, del regolamento (UE) n. 596/2014, gli articoli 114, commi 5 e 6, e 115, comma 1, si applicano altresi' nei confronti delle piattaforme d'asta, dei commissari d'asta e dei sorveglianti d'asta, in relazione alle aste di quote di emissioni o di altri prodotti correlati messi all'asta tenute ai sensi del regolamento (UE) n. 1031/2010.))
 
-##### Art. 116
+###### Art. 116
 
 ((ARTICOLO ABROGATO DALLA L. 5 MARZO 2024, N. 21))
 
-##### Art. 117
+###### Art. 117
 
 Informazione contabile
 
@@ -8814,15 +8812,15 @@ Informazione contabile
 
 2\. Il Ministro di grazia e giustizia, di concerto con il Ministro dell'economia e delle finanze, individua con regolamento tra i principi contabili riconosciuti in ambito internazionale e compatibili con quelli delle direttive emanate in materia dall'Unione Europea quelli sulla base dei quali gli emittenti strumenti finanziari quotati sia in mercati regolamentati italiani o di altri paesi dell'Unione sia in mercati di paesi extracomunitari possono, in deroga alle vigenti disposizioni in materia, redigere il bilancio consolidato, sempre che i suddetti principi siano accettati nei mercati di paesi extracomunitari. L'individuazione dei principi ha luogo su proposta della CONSOB, da formularsi d'intesa con la Banca d'Italia per le banche e per le societa' finanziarie previste dall'articolo 1, comma 1, del decreto legislativo 27 gennaio 1992, n. 87 e con l'((Ivass)) per le imprese di assicurazione e di riassicurazione previste dall'articolo 1 del decreto legislativo 26 maggio 1997, n. 173.
 
-##### Art. 117-bis - Fusioni fra societa' con azioni quotate e societa' con azioni non quotate
+###### Art. 117-bis - Fusioni fra societa' con azioni quotate e societa' con azioni non quotate
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 17))
 
-##### Art. 117-ter
+###### Art. 117-ter
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 MARZO 2026, N. 47))
 
-##### Art. 118
+###### Art. 118
 
 Casi di inapplicabilita'
 
@@ -8830,7 +8828,7 @@ Casi di inapplicabilita'
 
 2\. ((COMMA ABROGATO DALLA L. 5 MARZO 2024, N. 21)).
 
-##### Art. 118-bis - Controllo sulle informazioni fornite al pubblico
+###### Art. 118-bis - Controllo sulle informazioni fornite al pubblico
 
 1\. La CONSOB stabilisce con regolamento , tenuto conto dei principi internazionali in materia di vigilanza sull'informazione societaria, le modalita' e i termini per il controllo dalla stessa effettuato sulle informazioni comunicate al pubblico ai sensi di legge, comprese le informazioni contenute nei documenti contabili, ivi inclusa la rendicontazione di sostenibilita' disciplinata dal decreto legislativo adottato in attuazione dell'articolo 13 della legge 21 febbraio 2024, n. 15, dagli emittenti quotati e dagli emittenti quotati aventi l'Italia come Stato membro d'origine . (123) ((127))
 
@@ -8880,17 +8878,17 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-## CAPO II - DISCIPLINA DELLE SOCIETA' CON AZIONI QUOTATE
+#### CAPO II - DISCIPLINA DELLE SOCIETA' CON AZIONI QUOTATE
 
-##### Art. 119
+###### Art. 119
 
 Ambito di applicazione
 
 1\. Le disposizioni del presente capo di applicano, salvo che sia diversamente specificato, alle societa' italiane con azioni quotate in mercati regolamentati italiani o di altri paesi dell'Unione Europea (societa' con azioni quotate).
 
-## Sezione I - Assetti proprietari
+##### Sezione I - Assetti proprietari
 
-##### Art. 120
+###### Art. 120
 
 Obblighi di comunicazione delle partecipazioni rilevanti
 
@@ -8942,7 +8940,7 @@ Fermo restando quanto previsto ai sensi dell'articolo 185, se nel termine di sei
 
 6\. Il comma 2 non si applica alle partecipazioni detenute, per il tramite di societa' controllate, dal Ministero dell'economia e delle finanze. I relativi obblighi di comunicazione sono adempiuti dalle societa' controllate.
 
-##### Art. 121
+###### Art. 121
 
 Disciplina delle partecipazioni reciproche
 
@@ -8960,7 +8958,7 @@ Disciplina delle partecipazioni reciproche
 
 L'impugnazione puo' essere proposta anche dalla CONSOB entro il termine indicato nell'articolo 14, comma 7.
 
-##### Art. 122
+###### Art. 122
 
 Patti parasociali
 
@@ -8996,7 +8994,7 @@ d-bis) volti a favorire o a contrastare il conseguimento degli obiettivi di un'o
 
 5-ter. Gli obblighi di comunicazione di cui al comma 1 del presente articolo non si applicano ai patti, in qualunque forma stipulati, aventi ad oggetto partecipazioni complessivamente inferiori alla soglia indicata all'articolo 120, comma 2.
 
-##### Art. 123
+###### Art. 123
 
 Durata dei patti e diritto di recesso
 
@@ -9008,7 +9006,7 @@ i patti sono rinnovabili alla scadenza.
 
 3\. Gli azionisti che intendano aderire a un'offerta pubblica di acquisto o di scambio promossa ai sensi degli articoli 106 o 107 possono recedere senza preavviso dai patti indicati nell'articolo 122. La dichiarazione di recesso non produce effetto se non si e' perfezionato il trasferimento delle azioni.
 
-##### Art. 123-bis - Relazione sul governo societario e gli assetti proprietari
+###### Art. 123-bis - Relazione sul governo societario e gli assetti proprietari
 
 1\. La relazione sulla gestione delle societa' emittenti valori mobiliari ammessi alle negoziazioni in mercati regolamentati contiene in una specifica sezione, denominata: "Relazione sul governo societario e gli assetti proprietari", informazioni dettagliate riguardanti:
 
@@ -9116,7 +9114,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-##### Art. 123-ter - Relazione sulla politica in materia di remunerazione e sui compensi corrisposti) (89
+###### Art. 123-ter - Relazione sulla politica in materia di remunerazione e sui compensi corrisposti) (89
 
 1\. Almeno ventuno giorni prima della data dell'assemblea prevista dall'articolo 2364, secondo comma, o dell'assemblea prevista dall'articolo 2364-bis, secondo comma, del codice civile, le societa' con azioni quotate mettono a disposizione del pubblico una relazione sulla politica di remunerazione e sui compensi corrisposti, presso la sede sociale, sul proprio sito Internet e con le altre modalita' stabilite dalla CONSOB con regolamento. (89)
 
@@ -9170,27 +9168,27 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 6) che "Le modifiche apportate dal presente decreto agli articoli 62-quater, 64-quater, commi 6, 6-bis e 6-ter, 65-bis, comma 3-bis, 65-quater, 65-quinquies, 79-quinquiesdecies, commi 1-bis, 1-ter, 1-quater e 2, 112-bis, 123-ter, comma 8, 133, comma 1-bis, 147-quinquies del testo unico di cui al decreto legislativo n. 58 del 1998 si applicano a decorrere dalla data di applicazione delle disposizioni di attuazione ivi previste e in ogni caso alla scadenza del termine previsto dal comma 5".
 
-##### Art. 124
+###### Art. 124
 
 Casi di inapplicabilita'
 
 1\. La CONSOB puo' dichiarare inapplicabili gli articoli 120, 121, 122 e 123, comma 2, secondo periodo, alle societa' italiane con azioni quotate solo in mercati regolamentati di altri paesi dell'Unione Europea, in considerazione della normativa applicabile a tali societa' in forza della quotazione.
 
-## ((Sezione I-bis - Informazioni sull'adesione a codici di comportamento))
+##### ((Sezione I-bis - Informazioni sull'adesione a codici di comportamento))
 
-##### Art. 124-bis
+###### Art. 124-bis
 
 (( ARTICOLO ABROGATO DAL D.LGS. 3 NOVEMBRE 2008, N. 173 ))
 
-##### Art. 124-ter
+###### Art. 124-ter
 
 (( (Informazione relativa ai codici di comportamento). ))
 
 (( 1. La Consob, negli ambiti di propria competenza, stabilisce le forme di pubblicita' cui sono sottoposti i codici di comportamento in materia di governo societario promossi da societa' di gestione del mercato o da associazioni di categoria. ))
 
-## ((Sezione I-ter - Trasparenza degli investitori istituzionali, dei gestori di attivi e dei consulenti in materia di voto))
+##### ((Sezione I-ter - Trasparenza degli investitori istituzionali, dei gestori di attivi e dei consulenti in materia di voto))
 
-##### Art. 124-quater - Definizioni e ambito applicativo
+###### Art. 124-quater - Definizioni e ambito applicativo
 
 1\. Nella presente sezione si intendono per:
 
@@ -9216,7 +9214,7 @@ AGGIORNAMENTO (89)
 
 Il D.Lgs. 10 maggio 2019, n. 49 ha disposto (con l'art. 7, comma 2, lettera d)) che la presente modifica "si applica decorso un anno dall'entrata in vigore del presente decreto legislativo".
 
-##### Art. 124-quinquies
+###### Art. 124-quinquies
 
 (( (Politica di impegno). ))
 
@@ -9240,7 +9238,7 @@ AGGIORNAMENTO (89)
 
 Il D.Lgs. 10 maggio 2019, n. 49 ha disposto (con l'art. 7, comma 2, lettera d)) che la presente modifica "si applica decorso un anno dall'entrata in vigore del presente decreto legislativo".
 
-##### Art. 124-sexies
+###### Art. 124-sexies
 
 (( (Strategia d'investimento degli investitori istituzionali e accordi con i gestori di attivi). ))
 
@@ -9272,7 +9270,7 @@ AGGIORNAMENTO (89)
 
 Il D.Lgs. 10 maggio 2019, n. 49 ha disposto (con l'art. 7, comma 2, lettera d)) che la presente modifica "si applica decorso un anno dall'entrata in vigore del presente decreto legislativo".
 
-##### Art. 124-septies
+###### Art. 124-septies
 
 (( (Trasparenza dei gestori di attivi). ))
 
@@ -9298,7 +9296,7 @@ AGGIORNAMENTO (89)
 
 Il D.Lgs. 10 maggio 2019, n. 49 ha disposto (con l'art. 7, comma 2, lettera d)) che la presente modifica "si applica decorso un anno dall'entrata in vigore del presente decreto legislativo".
 
-##### Art. 124-octies
+###### Art. 124-octies
 
 (( (Trasparenza dei consulenti in materia di voto). ))
 
@@ -9334,7 +9332,7 @@ AGGIORNAMENTO (89)
 
 Il D.Lgs. 10 maggio 2019, n. 49 ha disposto (con l'art. 7, comma 2, lettera d)) che la presente modifica "si applica decorso un anno dall'entrata in vigore del presente decreto legislativo".
 
-##### Art. 124-novies
+###### Art. 124-novies
 
 (( (Poteri regolamentari). ))
 
@@ -9358,13 +9356,13 @@ AGGIORNAMENTO (89)
 
 Il D.Lgs. 10 maggio 2019, n. 49 ha disposto (con l'art. 7, comma 2, lettera d)) che la presente modifica "si applica decorso un anno dall'entrata in vigore del presente decreto legislativo".
 
-## Sezione II - ((Diritti dei soci))
+##### Sezione II - ((Diritti dei soci))
 
-##### Art. 125
+###### Art. 125
 
 (( ARTICOLO ABROGATO DAL D.LGS. 6 FEBBRAO 2004, N. 37 ))
 
-##### Art. 125-bis - Avviso di convocazione dell'assemblea
+###### Art. 125-bis - Avviso di convocazione dell'assemblea
 
 1\. L'assemblea e' convocata mediante avviso pubblicato sul sito Internet della societa' entro il trentesimo giorno precedente la data dell'assemblea, nonche' con le altre modalita' ed entro i termini previsti dalla Consob con regolamento emanato ai sensi dell'articolo 113-ter, comma 3, ivi inclusa la pubblicazione per estratto sui giornali quotidiani. (45)
 
@@ -9408,7 +9406,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 7) che "Le modifiche apportate dal presente decreto agli articoli 125-bis, 125-bis.1, 126-bis, 127, 127-ter, 135-bis, 135-undecies, 135-undecies, 135-duodecies del testo unico di cui al decreto legislativo n. 58 del 1998 si applicano alle assemblee da svolgersi successivamente al 30 settembre 2026. Fino a tale data, continuano ad applicarsi le disposizioni vigenti anteriormente alla data di entrata in vigore del presente decreto e le previsioni statutarie adottate in conformita' alle stesse".
 
-##### Art. 125-bis.1
+###### Art. 125-bis.1
 
 (( (Modalita' di svolgimento dell'assemblea). ))
 
@@ -9438,7 +9436,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 7) che "Le modifiche apportate dal presente decreto agli articoli 125-bis, 125-bis.1, 126-bis, 127, 127-ter, 135-bis, 135-undecies, 135-undecies, 135-duodecies del testo unico di cui al decreto legislativo n. 58 del 1998 si applicano alle assemblee da svolgersi successivamente al 30 settembre 2026. Fino a tale data, continuano ad applicarsi le disposizioni vigenti anteriormente alla data di entrata in vigore del presente decreto e le previsioni statutarie adottate in conformita' alle stesse".
 
-##### Art. 125-ter - Relazioni sulle materie all'ordine del giorno
+###### Art. 125-ter - Relazioni sulle materie all'ordine del giorno
 
 1\. Ove gia' non richiesto da altre disposizioni di legge, l'organo di amministrazione entro il termine di pubblicazione dell'avviso di convocazione dell'assemblea previsto in ragione di ciascuna delle materie all'ordine del giorno, mette a disposizione del pubblico presso la sede sociale, sul sito Internet della societa', e con le altre modalita' previste dalla Consob con regolamento, una relazione su ciascuna delle materie all'ordine del giorno.
 
@@ -9496,7 +9494,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-##### Art. 125-quater - Sito Internet
+###### Art. 125-quater - Sito Internet
 
 1\. Fermo restando quanto previsto negli articoli 125-bis e 125-ter, sono messi a disposizione sul sito Internet della societa':
 
@@ -9516,7 +9514,7 @@ AGGIORNAMENTO (89)
 
 Il D.Lgs. 10 maggio 2019, n. 49 ha disposto (con l'art. 7, comma 2, lettera a)) che la modifica al presente articolo si applica "a decorrere dalla data di applicazione del regolamento di esecuzione (UE) 2018/1212 del 3 settembre 2018".
 
-##### Art. 126
+###### Art. 126
 
 Convocazioni successive alla prima
 
@@ -9530,7 +9528,7 @@ Convocazioni successive alla prima
 
 5\. COMMA ABROGATO DAL D.LGS. 6 FEBBRAO 2004, N. 37.
 
-##### Art. 126-bis
+###### Art. 126-bis
 
 Integrazione dell'ordine del giorno dell'assemblea e presentazione di nuove proposte di delibera
 
@@ -9552,7 +9550,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 7) che "Le modifiche apportate dal presente decreto agli articoli 125-bis, 125-bis.1, 126-bis, 127, 127-ter, 135-bis, 135-undecies, 135-undecies, 135-duodecies del testo unico di cui al decreto legislativo n. 58 del 1998 si applicano alle assemblee da svolgersi successivamente al 30 settembre 2026. Fino a tale data, continuano ad applicarsi le disposizioni vigenti anteriormente alla data di entrata in vigore del presente decreto e le previsioni statutarie adottate in conformita' alle stesse".
 
-##### Art. 127
+###### Art. 127
 
 (( (Voto per corrispondenza o in via elettronica)
 
@@ -9560,7 +9558,7 @@ Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 7) che "Le modi
 
 del voto e di svolgimento dell'assemblea nei casi previsti dall'articolo 2370, comma quarto, del codice civile.))
 
-##### Art. 127-bis
+###### Art. 127-bis
 
 (( (Annullabilita' delle deliberazioni e diritto di recesso)
 
@@ -9578,7 +9576,7 @@ considerato non aver concorso all'approvazione delle deliberazioni.
 
 italiane con azioni ammesse nei sistemi multilaterali di negoziazione italiani o di altri paesi dell'Unione europea con il consenso dell'emittente.))
 
-##### Art. 127-ter - Diritto di porre domande prima dell'assemblea
+###### Art. 127-ter - Diritto di porre domande prima dell'assemblea
 
 1\. Coloro ai quali spetta il diritto di voto possono porre domande sulle materie all'ordine del giorno anche prima dell'assemblea. Alle domande pervenute prima dell'assemblea e' data risposta al piu' tardi durante la stessa. ((PERIODO SOPPRESSO DAL D.LGS. 27 MARZO 2026, N. 47)). ((133))
 
@@ -9602,7 +9600,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 7) che "Le modifiche apportate dal presente decreto agli articoli 125-bis, 125-bis.1, 126-bis, 127, 127-ter, 135-bis, 135-undecies, 135-undecies, 135-duodecies del testo unico di cui al decreto legislativo n. 58 del 1998 si applicano alle assemblee da svolgersi successivamente al 30 settembre 2026. Fino a tale data, continuano ad applicarsi le disposizioni vigenti anteriormente alla data di entrata in vigore del presente decreto e le previsioni statutarie adottate in conformita' alle stesse".
 
-##### Art. 127-quater - Maggiorazione del dividendo
+###### Art. 127-quater - Maggiorazione del dividendo
 
 1\. In deroga all'articolo 2350, comma 1, del codice civile, gli statuti possono disporre che ciascuna azione detenuta dal medesimo azionista per un periodo continuativo indicato nella statuto, ((comunque non inferiore ad un anno o al minor periodo intercorrente tra due date consecutive di pagamento del dividendo annuale)), attribuisca il diritto ad una maggiorazione non superiore al 10 per cento del dividendo distribuito alle altre azioni. Gli statuti possono subordinare l'assegnazione della maggiorazione a condizioni ulteriori. Il beneficio puo' estendersi anche alle azioni assegnate ai sensi dell'articolo 2442 del codice civile a un azionista che abbia diritto alla maggiorazione indicata nel primo periodo.
 
@@ -9616,7 +9614,7 @@ Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 7) che "Le modi
 
 4-ter. La deliberazione di modifica dello statuto prevista al comma 1 non attribuisce il diritto di recesso ai sensi dell'articolo 2437 del codice civile.))
 
-##### Art. 127-quinquies - Maggiorazione del voto
+###### Art. 127-quinquies - Maggiorazione del voto
 
 1\. Gli statuti possono disporre che sia attribuito voto maggiorato, fino a un massimo di due voti, per ciascuna azione appartenuta al medesimo soggetto per un periodo continuativo non inferiore a ventiquattro mesi a decorrere dalla data di iscrizione nell'elenco previsto dal comma 4.
 
@@ -9658,7 +9656,7 @@ e) il trasferimento delle negoziazioni delle azioni su un sistema multilaterale 
 
 11\. Nei casi di fusione, scissione o trasformazione transfrontaliera ai sensi del decreto legislativo 2 marzo 2023, n. 19, o ai sensi dell'articolo 25, comma 3, della legge 31 maggio 1995, n. 218, se la societa' risultante da dette operazioni e' una societa' con azioni quotate o in corso di quotazione, lo statuto puo' prevedere che, ai fini del computo del periodo continuativo previsto al comma 1, rilevi anche il periodo di titolarita' ininterrotta prima dell'iscrizione nell'elenco previsto dal comma 4 di azioni con diritto di voto della societa' incorporata, scissa o soggetta a trasformazione comprovato dall'attestazione rilasciata da un intermediario autorizzato ovvero con altri mezzi idonei ai sensi dell'ordinamento dello Stato che disciplina la societa' incorporata, scissa o soggetta a trasformazione.
 
-##### Art. 127-sexies - Azioni a voto plurimo
+###### Art. 127-sexies - Azioni a voto plurimo
 
 1\. In deroga all'articolo 2351, quarto comma, del codice civile, gli statuti non possono prevedere l'emissione di azioni a voto plurimo.
 
@@ -9674,15 +9672,15 @@ b) fusione o scissione.
 
 4\. Ove la societa' non si avvalga della facolta' di emettere nuove azioni a voto plurimo ai sensi del comma 2, secondo periodo, e' esclusa in ogni caso la necessita' di approvazione delle deliberazioni, ai sensi dell'articolo 2376 del codice civile, da parte dell'assemblea speciale degli appartenenti alla categoria delle azioni a voto plurimo.
 
-##### Art. 128
+###### Art. 128
 
 (( ARTICOLO ABROGATO DAL D.LGS. 6 FEBBRAO 2004, N. 37 ))
 
-##### Art. 129
+###### Art. 129
 
 (( ARTICOLO ABROGATO DAL D.LGS. 6 FEBBRAO 2004, N. 37 ))
 
-##### Art. 130
+###### Art. 130
 
 Informazione dei soci
 
@@ -9690,11 +9688,11 @@ Informazione dei soci
 
 depositati presso la sede sociale per assemblee gia' convocate e di ottenere copia a proprie spese.
 
-##### Art. 131
+###### Art. 131
 
 (( ARTICOLO ABROGATO DAL D.LGS. 6 FEBBRAO 2004, N. 37 ))
 
-##### Art. 132
+###### Art. 132
 
 Acquisto di azioni proprie e della societa' controllante
 
@@ -9706,7 +9704,7 @@ Acquisto di azioni proprie e della societa' controllante
 
 ((3-bis. Le disposizioni del presente articolo si applicano anche agli acquisti di azioni proprie effettuati da emittenti che hanno richiesto o autorizzato la negoziazione di azioni di propria emissione su un sistema multilaterale di negoziazione italiano, o da societa' controllate.))
 
-##### Art. 133
+###### Art. 133
 
 Esclusione su richiesta dalle negoziazioni
 
@@ -9734,7 +9732,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 6) che "Le modifiche apportate dal presente decreto agli articoli 62-quater, 64-quater, commi 6, 6-bis e 6-ter, 65-bis, comma 3-bis, 65-quater, 65-quinquies, 79-quinquiesdecies, commi 1-bis, 1-ter, 1-quater e 2, 112-bis, 123-ter, comma 8, 133, comma 1-bis, 147-quinquies del testo unico di cui al decreto legislativo n. 58 del 1998 si applicano a decorrere dalla data di applicazione delle disposizioni di attuazione ivi previste e in ogni caso alla scadenza del termine previsto dal comma 5".
 
-##### Art. 134
+###### Art. 134
 
 Aumenti di capitale
 
@@ -9744,9 +9742,9 @@ Aumenti di capitale
 
 3\. COMMA ABROGATO DAL D.LGS. 6 FEBBRAO 2004, N. 37.
 
-## ((Sezione II-bis - Societa' cooperative))
+##### ((Sezione II-bis - Societa' cooperative))
 
-##### Art. 135 - Percentuali di capitale
+###### Art. 135 - Percentuali di capitale
 
 1\. Per le societa' cooperative le percentuali di capitale individuate nel codice civile ((e nel presente decreto))per l'esercizio di diritti da parte dei soci sono rapportate al numero complessivo dei soci stessi. ((47))
 
@@ -9756,7 +9754,7 @@ AGGIORNAMENTO (47)
 
 Il D.Lgs. 18 giugno 2012, n. 91, ha disposto (con l'art. 5, comma 1) che "Le disposizioni recate dall'articolo 1 e dall'articolo 2, limitatamente al comma 7, e dall'articolo 3, limitatamente ai commi 1, 2, 9, 10 e 11 si applicano alle assemblee il cui avviso di convocazione sia pubblicato dopo il 1° gennaio 2013."
 
-##### Art. 135-bis
+###### Art. 135-bis
 
 Disciplina delle societa' cooperative
 
@@ -9778,7 +9776,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 7) che "Le modifiche apportate dal presente decreto agli articoli 125-bis, 125-bis.1, 126-bis, 127, 127-ter, 135-bis, 135-undecies, 135-undecies, 135-duodecies del testo unico di cui al decreto legislativo n. 58 del 1998 si applicano alle assemblee da svolgersi successivamente al 30 settembre 2026. Fino a tale data, continuano ad applicarsi le disposizioni vigenti anteriormente alla data di entrata in vigore del presente decreto e le previsioni statutarie adottate in conformita' alle stesse".
 
-##### Art. 135-ter
+###### Art. 135-ter
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 GIUGNO 2012, N. 91)) ((47))
 
@@ -9788,7 +9786,7 @@ AGGIORNAMENTO (47)
 
 Il D.Lgs. 18 giugno 2012, n. 91, ha disposto (con l'art. 5, comma 1) che "Le disposizioni recate dall'articolo 1 e dall'articolo 2, limitatamente al comma 7, e dall'articolo 3, limitatamente ai commi 1, 2, 9, 10 e 11 si applicano alle assemblee il cui avviso di convocazione sia pubblicato dopo il 1° gennaio 2013."
 
-##### Art. 135-quater
+###### Art. 135-quater
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 GIUGNO 2012, N. 91)) ((47))
 
@@ -9798,7 +9796,7 @@ AGGIORNAMENTO (47)
 
 Il D.Lgs. 18 giugno 2012, n. 91, ha disposto (con l'art. 5, comma 1) che "Le disposizioni recate dall'articolo 1 e dall'articolo 2, limitatamente al comma 7, e dall'articolo 3, limitatamente ai commi 1, 2, 9, 10 e 11 si applicano alle assemblee il cui avviso di convocazione sia pubblicato dopo il 1° gennaio 2013."
 
-##### Art. 135-quinquies
+###### Art. 135-quinquies
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 GIUGNO 2012, N. 91)) ((47))
 
@@ -9808,7 +9806,7 @@ AGGIORNAMENTO (47)
 
 Il D.Lgs. 18 giugno 2012, n. 91, ha disposto (con l'art. 5, comma 1) che "Le disposizioni recate dall'articolo 1 e dall'articolo 2, limitatamente al comma 7, e dall'articolo 3, limitatamente ai commi 1, 2, 9, 10 e 11 si applicano alle assemblee il cui avviso di convocazione sia pubblicato dopo il 1° gennaio 2013."
 
-##### Art. 135-sexies
+###### Art. 135-sexies
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 GIUGNO 2012, N. 91)) ((47))
 
@@ -9818,7 +9816,7 @@ AGGIORNAMENTO (47)
 
 Il D.Lgs. 18 giugno 2012, n. 91, ha disposto (con l'art. 5, comma 1) che "Le disposizioni recate dall'articolo 1 e dall'articolo 2, limitatamente al comma 7, e dall'articolo 3, limitatamente ai commi 1, 2, 9, 10 e 11 si applicano alle assemblee il cui avviso di convocazione sia pubblicato dopo il 1° gennaio 2013."
 
-##### Art. 135-septies
+###### Art. 135-septies
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 GIUGNO 2012, N. 91)) ((47))
 
@@ -9828,7 +9826,7 @@ AGGIORNAMENTO (47)
 
 Il D.Lgs. 18 giugno 2012, n. 91, ha disposto (con l'art. 5, comma 1) che "Le disposizioni recate dall'articolo 1 e dall'articolo 2, limitatamente al comma 7, e dall'articolo 3, limitatamente ai commi 1, 2, 9, 10 e 11 si applicano alle assemblee il cui avviso di convocazione sia pubblicato dopo il 1° gennaio 2013."
 
-##### Art. 135-octies
+###### Art. 135-octies
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 GIUGNO 2012, N. 91)) ((47))
 
@@ -9838,9 +9836,9 @@ AGGIORNAMENTO (47)
 
 Il D.Lgs. 18 giugno 2012, n. 91, ha disposto (con l'art. 5, comma 1) che "Le disposizioni recate dall'articolo 1 e dall'articolo 2, limitatamente al comma 7, e dall'articolo 3, limitatamente ai commi 1, 2, 9, 10 e 11 si applicano alle assemblee il cui avviso di convocazione sia pubblicato dopo il 1° gennaio 2013."
 
-## ((Sezione II-ter - Deleghe di voto))
+##### ((Sezione II-ter - Deleghe di voto))
 
-##### Art. 135-novies - Rappresentanza nell'assemblea
+###### Art. 135-novies - Rappresentanza nell'assemblea
 
 1\. Colui al quale spetta il diritto di voto puo' indicare un unico rappresentante per ciascuna assemblea, salva la facolta' di indicare ((uno o piu')) sostituti.
 
@@ -9858,7 +9856,7 @@ Il D.Lgs. 18 giugno 2012, n. 91, ha disposto (con l'art. 5, comma 1) che "Le dis
 
 8\. Resta fermo quanto previsto dall'articolo 2372 del codice civile.((In deroga all'articolo 2372, secondo comma, del codice civile, le Sgr, le Sicav, le societa' di gestione armonizzate, nonche' i soggetti extracomunitari che svolgono attivita' di gestione collettiva del risparmio, possono conferire la rappresentanza per piu' assemblee.))
 
-##### Art. 135-decies - Conflitto di interessi del rappresentante e dei sostituti
+###### Art. 135-decies - Conflitto di interessi del rappresentante e dei sostituti
 
 1\. Il conferimento di una delega ad un rappresentante in conflitto di interessi e' consentito purche' il rappresentante comunichi per iscritto al socio le circostanze da cui deriva tale conflitto e purche' vi siano specifiche istruzioni di voto per ciascuna delibera in relazione alla quale il rappresentante dovra' votare per conto del socio. Spetta al rappresentante l'onere della prova di aver comunicato al socio le circostanze che danno luogo al conflitto d'interessi.((Non si applica l'articolo 1711, secondo comma, del codice civile.))
 
@@ -9880,7 +9878,7 @@ f) sia legato alla societa' o ai soggetti indicati alle lettere a), b), c) ed e)
 
 4\. Il presente articolo si applica anche nel caso di trasferimento delle azioni per procura.
 
-##### Art. 135-undecies - Rappresentante designato dalla societa' ((...)). ) ((133)
+###### Art. 135-undecies - Rappresentante designato dalla societa' ((...)). ) ((133)
 
 1\. Salvo che lo statuto disponga diversamente, le societa' con azioni quotate designano per ciascuna assemblea un soggetto al quale i soci possono conferire, entro la fine del secondo giorno di mercato aperto precedente la data fissata per l'assemblea, anche in convocazione successiva alla prima, una delega con istruzioni di voto su tutte o alcune delle proposte all'ordine del giorno. La delega ha effetto per le sole proposte in relazione alle quali siano conferite istruzioni di voto.
 
@@ -9900,11 +9898,11 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 7) che "Le modifiche apportate dal presente decreto agli articoli 125-bis, 125-bis.1, 126-bis, 127, 127-ter, 135-bis, 135-undecies, 135-undecies, 135-duodecies del testo unico di cui al decreto legislativo n. 58 del 1998 si applicano alle assemblee da svolgersi successivamente al 30 settembre 2026. Fino a tale data, continuano ad applicarsi le disposizioni vigenti anteriormente alla data di entrata in vigore del presente decreto e le previsioni statutarie adottate in conformita' alle stesse".
 
-##### Art. 135-undecies.1
+###### Art. 135-undecies.1
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 MARZO 2026, N. 47))
 
-##### Art. 135-duodecies
+###### Art. 135-duodecies
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 MARZO 2026, N. 47))
 
@@ -9916,9 +9914,9 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 7) che "Le modifiche apportate dal presente decreto agli articoli 125-bis, 125-bis.1, 126-bis, 127, 127-ter, 135-bis, 135-undecies, 135-undecies, 135-duodecies del testo unico di cui al decreto legislativo n. 58 del 1998 si applicano alle assemblee da svolgersi successivamente al 30 settembre 2026. Fino a tale data, continuano ad applicarsi le disposizioni vigenti anteriormente alla data di entrata in vigore del presente decreto e le previsioni statutarie adottate in conformita' alle stesse".
 
-## Sezione III - ((Sollecitazione di deleghe))
+##### Sezione III - ((Sollecitazione di deleghe))
 
-##### Art. 136 - Definizioni
+###### Art. 136 - Definizioni
 
 1\. Ai fini della presente sezione, si intendono per:
 
@@ -9928,7 +9926,7 @@ b) "sollecitazione", la richiesta di conferimento di deleghe di voto rivolta a p
 
 c) "promotore", il soggetto ((, compreso l'emittente,)) o i soggetti che congiuntamente promuovono la sollecitazione.
 
-##### Art. 137
+###### Art. 137
 
 Disposizioni generali
 
@@ -9942,7 +9940,7 @@ Disposizioni generali
 
 ((4-bis. Le disposizioni della presente sezione si applicano anche alle societa' italiane con strumenti finanziari diversi dalle azioni ammessi con il consenso dell'emittente alla negoziazione sui mercati regolamentati italiani o di altri Paesi dell'Unione europea, con riguardo al conferimento della rappresentanza per l'esercizio del diritto di voto nelle assemblee dei titolari di tali strumenti finanziari.))
 
-##### Art. 138
+###### Art. 138
 
 (( (Sollecitazione)
 
@@ -9952,15 +9950,15 @@ diffusione di un prospetto e di un modulo di delega.
 
 2\. Il voto relativo alle azioni per le quali e' stata rilasciata la delega e' esercitato dal promotore. Il promotore puo' farsi sostituire solo da chi sia espressamente indicato nel modulo di delega e nel prospetto di sollecitazione)).
 
-##### Art. 139
+###### Art. 139
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 27))
 
-##### Art. 140
+###### Art. 140
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 27))
 
-##### Art. 141
+###### Art. 141
 
 (( (Associazioni di azionisti)
 
@@ -9980,7 +9978,7 @@ c) sono composte da almeno cinquanta persone fisiche ciascuna delle quali e' pro
 
 del comma 1 non sono computate ai fini del calcolo del limite di duecento azionisti previsto dall'articolo 136, comma 1, lettera b).))
 
-##### Art. 142
+###### Art. 142
 
 Delega di voto
 
@@ -9992,7 +9990,7 @@ e puo' essere conferita soltanto per singole assemblee gia' convocate, con effet
 
 proposte di voto indicate nel modulo di delega ((o solo per alcune materie all'ordine del giorno. Il rappresentante e' tenuto a votare per conto del delegante anche sulle materie iscritte all'ordine del giorno, sulle quali abbia ricevuto istruzioni, non oggetto della sollecitazione)). Le azioni per le quali e' stata conferita la delega, anche parziale, sono computate ai fini della regolare costituzione dell'assemblea.
 
-##### Art. 143
+###### Art. 143
 
 Responsabilita'
 
@@ -10008,7 +10006,7 @@ informazioni diffuse nel corso della sollecitazione.
 
 3\. Nei giudizi di risarcimento dei danni derivanti da violazione delle disposizioni della presente sezione e della relative norme regolamentari spetta al ((promotore)) l'onere della prova di avere agito con la diligenza richiesta.
 
-##### Art. 144
+###### Art. 144
 
 Svolgimento della sollecitazione e della raccolta
 
@@ -10032,9 +10030,9 @@ c) esercitare nei confronti dei promotori i poteri previsti dagli articoli 114, 
 
 4\. Nei casi in cui la legge preveda forme di controllo sulle partecipazioni al capitale delle societa', copia del prospetto e del modulo di delega deve essere inviata alle autorita' di vigilanza competenti prima della sollecitazione. Le autorita' vietano la sollecitazione quando pregiudica il perseguimento delle finalita' inerenti ai controlli sulle partecipazioni al capitale.
 
-## Sezione IV - ((Azioni di risparmio ed altre categorie di azioni))
+##### Sezione IV - ((Azioni di risparmio ed altre categorie di azioni))
 
-##### Art. 145
+###### Art. 145
 
 Emissioni delle azioni
 
@@ -10056,7 +10054,7 @@ Tuttavia, se la parte di capitale rappresentata da azioni ordinarie si e' ridott
 
 8\. Salvo diversa disposizione dell'atto costitutivo, in caso di aumento di capitale a pagamento per il quale non sia stato escluso o limitato il diritto di opzione, i possessori di azioni di risparmio hanno diritto di opzione su azioni di risparmio della stessa categoria ovvero, in mancanza o per la differenza, nell'ordine, su azioni di risparmio di altra categoria, su azioni privilegiate ovvero su azioni ordinarie.
 
-##### Art. 146
+###### Art. 146
 
 Assemblea speciale
 
@@ -10078,7 +10076,7 @@ e) sugli altri oggetti d'interesse comune.
 
 3\. In deroga all'articolo 2376, secondo comma, del codice civile l'assemblea, salvo i casi previsti dal comma 1, lettere b) e d), delibera in prima e in seconda convocazione con voto favorevole di tante azioni che rappresentino rispettivamente almeno il venti e il dieci per cento delle azioni in circolazione; ((in terza o unica convocazione)) l'assemblea delibera a maggioranza dei presenti, qualunque sia la parte di capitale rappresentata dai soci intervenuti. Si applica l'articolo 2416 del codice civile.
 
-##### Art. 147
+###### Art. 147
 
 Rappresentante comune
 
@@ -10092,7 +10090,7 @@ applica l'articolo 2417 del codice civile, intendendosi l'espressione obbligazio
 
 4\. L'atto costitutivo puo' attribuire al rappresentante comune e all'assemblea ulteriori poteri a tutela degli interessi dei possessori di azioni di risparmio e deve prevedere le modalita' per assicurare un'adeguata informazione al rappresentante comune sulle operazioni societarie che possano influenzare l'andamento delle quotazioni delle azioni della categoria.
 
-##### Art. 147-bis
+###### Art. 147-bis
 
 (( (Assemblee di categoria). ))
 
@@ -10100,15 +10098,15 @@ applica l'articolo 2417 del codice civile, intendendosi l'espressione obbligazio
 
 previste dall'articolo 2376, comma 1, del codice civile, qualora le azioni siano quotate in mercati regolamentati italiani o di altri Paesi dell'Unione europea. ))
 
-## ((Sezione IV-bis - Organi di amministrazione))
+##### ((Sezione IV-bis - Organi di amministrazione))
 
-##### Art. 147-bis.1
+###### Art. 147-bis.1
 
 (( (Principi sulla composizione degli organi). ))
 
 1\. ((Gli organi di amministrazione e controllo sono eletti, nel rispetto delle specifiche prescrizioni applicabili, secondo norme previste dallo statuto che promuovono e favoriscono la professionalita', rappresentativita' e diversita' della complessiva composizione del collegio.))
 
-##### Art. 147-ter
+###### Art. 147-ter
 
 (( Elezione degli amministratori con il voto di lista )).
 
@@ -10148,7 +10146,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 6, comma 1, lettera v)) che nel presente articolo "al comma 1-bis, ultimo periodo, le parole: «La relativa comunicazione puo' essere prodotta» sono sostituite dalle seguenti: «La comunicazione ai sensi dell'articolo 83-quinquies puo' essere trasmessa»".
 
-##### Art. 147-ter.1
+###### Art. 147-ter.1
 
 (( (Lista del consiglio di amministrazione). ))
 
@@ -10182,7 +10180,7 @@ c) se la lista del consiglio di amministrazione uscente risulta l'unica ritualme
 
 4\. Qualora la lista del consiglio di amministrazione uscente abbia concorso, in conformita' al presente articolo, al riparto degli amministratori eletti risultando quella che ha riportato il maggior numero di voti in assemblea, lo statuto prevede che l'eventuale comitato endo-consiliare istituito in materia di controllo interno e gestione dei rischi sia nominato dal consiglio di amministrazione e presieduto da un amministratore indipendente individuato fra gli amministratori eletti che non siano stati tratti dalla lista del consiglio di amministrazione uscente)).
 
-##### Art. 147-quater - Composizione del consiglio di gestione
+###### Art. 147-quater - Composizione del consiglio di gestione
 
 1\. ((COMMA ABROGATO DAL D.LGS. 27 MARZO 2026, N. 47)).
 
@@ -10194,7 +10192,7 @@ AGGIORNAMENTO (41)
 
 La L. 12 luglio 2011, n. 120 ha disposto (con l'art. 2, comma 1) che "Le disposizioni della presente legge si applicano a decorrere dal primo rinnovo degli organi di amministrazione e degli organi di controllo delle societa' quotate in mercati regolamentati successivo ad un anno dalla data di entrata in vigore della presente legge, riservando al genere meno rappresentato, per il primo mandato in applicazione della legge, una quota pari almeno a un quinto degli amministratori e dei sindaci eletti".
 
-##### Art. 147-quinquies
+###### Art. 147-quinquies
 
 (( Requisiti dei soggetti che svolgono funzioni di amministrazione e direzione )) ((133))
 
@@ -10210,7 +10208,7 @@ AGGIORNAMENTO (133)
 
 Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 6) che "Le modifiche apportate dal presente decreto agli articoli 62-quater, 64-quater, commi 6, 6-bis e 6-ter, 65-bis, comma 3-bis, 65-quater, 65-quinquies, 79-quinquiesdecies, commi 1-bis, 1-ter, 1-quater e 2, 112-bis, 123-ter, comma 8, 133, comma 1-bis, 147-quinquies del testo unico di cui al decreto legislativo n. 58 del 1998 si applicano a decorrere dalla data di applicazione delle disposizioni di attuazione ivi previste e in ogni caso alla scadenza del termine previsto dal comma 5".
 
-##### Art. 147-sexies
+###### Art. 147-sexies
 
 (( (Sistema di controllo interno e di gestione dei rischi) ))
 
@@ -10220,9 +10218,9 @@ Il D.Lgs. 27 marzo 2026, n. 47 ha disposto (con l'art. 11, comma 6) che "Le modi
 
 3\. ((Nei limiti delle competenze ad essi rispettivamente assegnate, il comitato preposto al controllo dei rischi ovvero l'amministratore incaricato del sistema di controllo interno e di gestione dei rischi, ove previsti, tenuto conto di criteri di materialita' determinati dalla natura e dalle dimensioni dell'impresa, assicurano la rappresentazione unitaria dei rischi ai quali e' esposta la societa' sulla base delle informazioni rivenienti dalle funzioni coinvolte nel sistema di controllo interno e nella gestione dei rischi nonche' di idonei indicatori anche non finanziari. Di tale rappresentazione e' dato conto nella relazione di cui all'articolo 123-bis.))
 
-## Sezione V - ((Organi di controllo))
+##### Sezione V - ((Organi di controllo))
 
-##### Art. 148
+###### Art. 148
 
 (( (Composizione dell'organo di controllo). ))
 
@@ -10240,7 +10238,7 @@ c) coloro che sono legati alla societa' o alle societa' da questa controllate o 
 
 4\. ((Nei casi previsti dal presente articolo, la decadenza dei componenti dell'organo di controllo e' dichiarata dall'organo competente a nominarli entro novanta giorni dalla nomina o dalla conoscenza del difetto sopravvenuto. In caso di inerzia, vi provvede la Consob, su richiesta di qualsiasi soggetto interessato o qualora abbia avuto comunque notizia dell'esistenza della causa di decadenza.))
 
-##### Art. 148.1
+###### Art. 148.1
 
 (( (Composizione del collegio sindacale). ))
 
@@ -10256,13 +10254,13 @@ b) il numero, non inferiore a due, dei componenti supplenti.))
 
 4\. ((Il presidente del collegio sindacale e' nominato dall'assemblea tra i sindaci eletti dai soci di minoranza.))
 
-##### Art. 148.2
+###### Art. 148.2
 
 (( (Composizione del consiglio di sorveglianza). ))
 
 1\. ((La Consob stabilisce con regolamento le modalita' per l'elezione, con voto di lista, di un componente del consiglio di sorveglianza da parte dei soci di minoranza che non siano collegati, neppure indirettamente, con i soci che hanno presentato o votato la lista risultata prima per numero di voti. Si applica l'articolo 147-ter, comma 1-bis.))
 
-##### Art. 148.3
+###### Art. 148.3
 
 (( (Nomina e presidenza del comitato per il controllo sulla gestione). ))
 
@@ -10270,7 +10268,7 @@ b) il numero, non inferiore a due, dei componenti supplenti.))
 
 2\. ((Il presidente del comitato per il controllo sulla gestione e' nominato dall'assemblea tra i componenti eletti dai soci di minoranza ai sensi dell'articolo 147-ter, comma 3.))
 
-##### Art. 148-bis - Limiti al cumulo degli incarichi
+###### Art. 148-bis - Limiti al cumulo degli incarichi
 
 1\. Con regolamento della CONSOB sono stabiliti limiti al cumulo degli incarichi di amministrazione e controllo che i componenti
 
@@ -10294,7 +10292,7 @@ societa' di cui al libro V, titolo V, capi V, VI e VII, del codice civile. La CO
 
 dopo il raggiungimento del numero massimo previsto dal regolamento di cui al primo periodo.
 
-##### Art. 149
+###### Art. 149
 
 (( (Doveri dell'organo di controllo). ))
 
@@ -10314,19 +10312,19 @@ e) sull'adeguatezza delle disposizioni impartite dalla societa' alle societa' co
 
 3\. ((Il comma 2 non si applica alle societa' con azioni quotate solo in mercati regolamentati di altri paesi dell'Unione europea.))
 
-##### Art. 149-bis
+###### Art. 149-bis
 
 (( (Doveri del consiglio di sorveglianza). ))
 
 1\. ((Almeno un componente del consiglio di sorveglianza partecipa alle riunioni del consiglio di gestione.))
 
-##### Art. 149-ter
+###### Art. 149-ter
 
 (( (Sistemi di monitoraggio e strumenti di controllo). ))
 
 1\. ((Qualora ai fini del controllo interno siano adottati sistemi di monitoraggio continuo e strumenti di controllo automatici e predittivi, essi devono essere adeguati e proporzionati alla natura e alle dimensioni dell'impresa e ai rischi ai quali essa e' esposta.))
 
-##### Art. 150 - Informazione
+###### Art. 150 - Informazione
 
 1\. Gli amministratori riferiscono tempestivamente, secondo le modalita' stabilite dallo statuto e con periodicita' almeno trimestrale, ((all'organo di controllo)) sull'attivita' svolta e sulle operazioni di maggior rilievo economico, finanziario e patrimoniale, effettuate dalla societa' o dalle societa' controllate; in particolare, riferiscono sulle operazioni nelle quali essi abbiano un interesse, per conto proprio o di terzi, o che siano influenzate dal soggetto che esercita l'attivita' di direzione e coordinamento.
 
@@ -10338,7 +10336,7 @@ e) sull'adeguatezza delle disposizioni impartite dalla societa' alle societa' co
 
 5\. ((COMMA ABROGATO DAL D.LGS. 27 MARZO 2026, N. 47)).
 
-##### Art. 151
+###### Art. 151
 
 (( (Poteri dell'organo di controllo). ))
 
@@ -10348,7 +10346,7 @@ e) sull'adeguatezza delle disposizioni impartite dalla societa' alle societa' co
 
 3\. ((Gli accertamenti eseguiti devono risultare dal libro delle adunanze e delle deliberazioni dell'organo da tenersi, a cura del collegio, nella sede della societa'. Si applicano le disposizioni dell'articolo 2421, ultimo comma, del codice civile.))
 
-##### Art. 151.1
+###### Art. 151.1
 
 (( (Poteri del collegio sindacale). ))
 
@@ -10360,13 +10358,13 @@ e) sull'adeguatezza delle disposizioni impartite dalla societa' alle societa' co
 
 4\. ((I componenti del collegio sindacale possono in qualsiasi momento procedere, anche individualmente, ad atti di ispezione e di controllo. Resta fermo quanto previsto dall'articolo 2403-bis, commi 2 e 3, del codice civile.))
 
-##### Art. 151.2
+###### Art. 151.2
 
 (( (Responsabilita' dei componenti del collegio sindacale). ))
 
 1\. ((I componenti del collegio sindacale sono responsabili solidalmente con gli amministratori per i fatti o le omissioni di questi, quando il danno non si sarebbe prodotto se essi avessero vigilato in conformita' ai doveri inerenti al loro incarico. Le disposizioni di cui al presente articolo si applicano anche alle societa' italiane con azioni ammesse alla negoziazione nei sistemi multilaterali di negoziazione, in luogo di quanto previsto dall'articolo 2407, comma 2, del codice civile.))
 
-##### Art. 151-bis
+###### Art. 151-bis
 
 (( (Poteri del consiglio di sorveglianza). ))
 
@@ -10376,13 +10374,13 @@ e) sull'adeguatezza delle disposizioni impartite dalla societa' alle societa' co
 
 3\. ((I componenti del consiglio di sorveglianza possono, anche individualmente, chiedere al presidente la convocazione dell'organo, indicando gli argomenti da trattare. La riunione deve essere convocata senza indugio, salvo che vi ostino ragioni tempestivamente comunicate al richiedente e illustrate all'organo di controllo alla prima riunione successiva.))
 
-##### Art. 151-ter
+###### Art. 151-ter
 
 (( (Poteri del comitato per il controllo sulla gestione). ))
 
 1\. ((Il comitato per il controllo sulla gestione puo', previa comunicazione al presidente del consiglio di amministrazione, convocare il consiglio di amministrazione o il comitato esecutivo.)) 2. ((Un componente del comitato per il controllo sulla gestione puo' essere appositamente delegato a procedere in qualsiasi momento ad atti d'ispezione e di controllo nonche' a scambiare informazioni con i corrispondenti organi delle societa' controllate in merito ai sistemi di amministrazione e controllo e all'andamento generale dell'attivita' sociale.))
 
-##### Art. 152
+###### Art. 152
 
 (( (Denunzia al tribunale). ))
 
@@ -10392,7 +10390,7 @@ e) sull'adeguatezza delle disposizioni impartite dalla societa' alle societa' co
 
 3\. ((Il comma 2 non si applica alle societa' con azioni quotate solo in mercati regolamentati di altri paesi dell'Unione europea.)) 4. ((Resta fermo quanto previsto dall'articolo 70, comma 7, del T.U. bancario.))
 
-##### Art. 153
+###### Art. 153
 
 Obbligo di riferire all'assemblea
 
@@ -10400,7 +10398,7 @@ Obbligo di riferire all'assemblea
 
 2\. ((COMMA ABROGATO DAL D.LGS. 27 MARZO 2026, N. 47)).
 
-##### Art. 154 - Disposizioni non applicabili
+###### Art. 154 - Disposizioni non applicabili
 
 1\. Al collegio sindacale delle societa' con azioni quotate non si applicano ((gli articoli 2396-quinquies, 2396-sexies, 2396-septies, 2397)), 2398, 2399, 2403, ((2403-bis, primo comma, 2407, secondo comma,)), 2426, numeri 5 e 6, 2429, secondo comma, e 2441, sesto comma, del codice civile.
 
@@ -10408,15 +10406,15 @@ Obbligo di riferire all'assemblea
 
 3\. Al comitato per il controllo sulla gestione delle societa' con azioni quotate non si applicano ((2396-quinquies, 2396-sexies, 2396-septies, 2409-septies e 2409-octiesdecies, primo comma, primo periodo, e secondo e quarto comma,)) del codice civile.
 
-## ((Sezione V.1. - Emittenti di nuova quotazione))
+##### ((Sezione V.1. - Emittenti di nuova quotazione))
 
-##### Art. 154.1
+###### Art. 154.1
 
 (( (Definizione). ))
 
 1\. ((Ai fini della presente sezione sono "emittenti di nuova quotazione" quelli che abbiano deliberato la richiesta di ammissione delle azioni alla negoziazione in un mercato regolamentato italiano.))
 
-##### Art. 154.2
+###### Art. 154.2
 
 (( (Ambito di applicazione). ))
 
@@ -10426,7 +10424,7 @@ Obbligo di riferire all'assemblea
 
 3\. ((La Consob pubblica e aggiorna tempestivamente, tramite il proprio sito internet, l'elenco degli emittenti di cui al comma 1.)) 4. ((Gli emittenti di nuova quotazione che abbiano esercitato l'opzione di cui al comma 1 e abbiano successivamente richiesto e ottenuto il trasferimento delle negoziazioni delle proprie azioni su un sistema multilaterale di negoziazione ai sensi dell'articolo 133, comma 1-bis, possono conservare le modifiche statutarie adottate in conformita' alla disciplina di cui alla presente sezione, se compatibili con le regole del sistema multilaterale di destinazione, a eccezione di quelle di cui all'articolo 154.4, comma 2, a condizione che le loro azioni siano state negoziate sul mercato regolamentato per un periodo continuativo non inferiore a tre anni.))
 
-##### Art. 154.3
+###### Art. 154.3
 
 (( (Elezione del consiglio di amministrazione, del collegio sindacale e del consiglio di sorveglianza). ))
 
@@ -10446,7 +10444,7 @@ In tal caso, lo statuto prevede che almeno due quinti degli amministratori appar
 
 7\. ((Ai fini dell'applicazione dei commi 4, 5 e 6 si considerano correlati ai soci che esercitano il controllo, anche ove questi ultimi siano persone fisiche, i soci che si trovino in una delle condizioni rilevanti ai fini della definizione di parte correlata di cui ai principi contabili internazionali adottati secondo la procedura di cui all'articolo 6 del regolamento (CE) 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002.))
 
-##### Art. 154.4
+###### Art. 154.4
 
 (( (Modifiche dello statuto e diritto di recesso). ))
 
@@ -10454,7 +10452,7 @@ In tal caso, lo statuto prevede che almeno due quinti degli amministratori appar
 
 3\. ((Il diritto di recesso puo' essere escluso anche nel caso previsto dal comma 2 qualora la deliberazione sia approvata dall'assemblea straordinaria con il voto favorevole della maggioranza dei soci, presenti in assemblea, diversi dal socio o da soci che detengono, anche congiuntamente, la partecipazione di maggioranza, anche relativa, purche' superiore al dieci per cento, individuati secondo i criteri applicativi determinati dalla Consob con regolamento.))
 
-##### Art. 154.5
+###### Art. 154.5
 
 (( (Operazioni con parti correlate). ))
 
@@ -10464,9 +10462,9 @@ Deve essere garantita in ogni caso l'applicazione di tali procedure alle operazi
 
 2\. ((Fermi restando gli obblighi informativi di cui all'articolo 2391-bis, terzo comma, lettera b), del codice civile delle operazioni con parti correlate escluse ai sensi del comma 1, gli organi delegati danno informazione al consiglio di amministrazione con cadenza almeno semestrale.))
 
-## Sezione V-bis - ((Informazione finanziaria))
+##### Sezione V-bis - ((Informazione finanziaria))
 
-##### Art. 154-bis - Dirigente preposto alla redazione dei documenti contabili societari
+###### Art. 154-bis - Dirigente preposto alla redazione dei documenti contabili societari
 
 1\. Lo statuto degli emittenti quotati aventi l'Italia come Stato membro d'origine prevede i requisiti di professionalita' e le modalita' di nomina di un dirigente preposto alla redazione dei documenti contabili societari, previo parere obbligatorio dell'organo di controllo.
 
@@ -10542,7 +10540,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-##### Art. 154-ter
+###### Art. 154-ter
 
 Relazioni finanziarie
 
@@ -10636,7 +10634,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-##### Art. 154-quater
+###### Art. 154-quater
 
 (( (Trasparenza dei pagamenti ai governi).))
 
@@ -10646,9 +10644,9 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\. I pagamenti ai governi sono riportati a livello consolidato.))
 
-## Sezione VI - ((Revisione legale dei conti))
+##### Sezione VI - ((Revisione legale dei conti))
 
-##### Art. 155
+###### Art. 155
 
 Attivita' di revisione contabile
 
@@ -10660,7 +10658,7 @@ senza indugio la Consob e l'organo di controllo dei fatti ritenuti censurabili r
 
 3\. ((COMMA ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39)).
 
-##### Art. 156
+###### Art. 156
 
 Relazioni di revisione
 
@@ -10676,7 +10674,7 @@ Relazioni di revisione
 
 5\. ((COMMA ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39)).
 
-##### Art. 157
+###### Art. 157
 
 Effetti dei giudizi sui bilanci
 
@@ -10696,7 +10694,7 @@ quotate solo in mercati regolamentati di altri paesi dell'Unione Europea.
 
 nel comma 1 e' rapportata al numero complessivo dei soci.
 
-##### Art. 158
+###### Art. 158
 
 Proposte di aumento di capitale
 
@@ -10712,7 +10710,7 @@ Proposte di aumento di capitale
 
 5\. COMMA SOPPRESSO DAL D.LGS. 17 GENNAIO 2003, N. 6 COME MODIFICATO DAL D.LGS. 6 FEBBRAIO 2004, N. 37.
 
-##### Art. 159 - Conferimento e revoca dell'incarico
+###### Art. 159 - Conferimento e revoca dell'incarico
 
 ((1. In caso di mancata nomina del revisore legale o della societa'
 
@@ -10732,11 +10730,11 @@ di revisione legale, la societa' che deve conferire l'incarico informa tempestiv
 
 8\. ((COMMA ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39)).
 
-##### Art. 160
+###### Art. 160
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39))
 
-##### Art. 161
+###### Art. 161
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39)) ((34))
 
@@ -10746,7 +10744,7 @@ AGGIORNAMENTO (34)
 
 Il D.Lgs. 27 gennaio 2010, n. 39 ha disposto (con l'art. 43, comma 1) che il presente articolo e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
-##### Art. 162
+###### Art. 162
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39)) ((34))
 
@@ -10756,7 +10754,7 @@ AGGIORNAMENTO (34)
 
 Il D.Lgs. 27 gennaio 2010, n. 39 ha disposto (con l'art. 43, comma 1) che sono abrogati, ma continuano ad essere applicati fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo, i commi 3 e 3-bis del presente articolo.
 
-##### Art. 163
+###### Art. 163
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39)) ((34))
 
@@ -10766,21 +10764,21 @@ AGGIORNAMENTO (34)
 
 Il D.Lgs. 27 gennaio 2010, n. 39 ha disposto (con l'art. 43, comma 1) che sono abrogati, ma continuano ad essere applicati fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo, il comma 1, lettera b), il comma 2, lettere a), b) e c) e i commi 4 e 5 del presente articolo.
 
-##### Art. 164
+###### Art. 164
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39))
 
-##### Art. 165
+###### Art. 165
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39))
 
-##### Art. 165-bis
+###### Art. 165-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39))
 
-## ((Sezione VI-bis - Rapporti con societa' estere aventi sede legale in Stati che non garantiscono la trasparenza societaria))
+##### ((Sezione VI-bis - Rapporti con societa' estere aventi sede legale in Stati che non garantiscono la trasparenza societaria))
 
-##### Art. 165-ter - Ambito di applicazione
+###### Art. 165-ter - Ambito di applicazione
 
 ((1. Sono soggette alle disposizioni contenute nella presente sezione le societa' italiane con azioni quotate in mercati regolamentati, di cui all'articolo 119, le quali controllino societa' aventi sede legale in Stati i cui ordinamenti non garantiscono la trasparenza della costituzione, della situazione patrimoniale e finanziaria e della gestione delle societa', nonche' le societa' italiane con azioni quotate in mercati regolamentati le quali siano collegate alle suddette societa' estere o siano da queste controllate)).
 
@@ -10834,7 +10832,7 @@ AGGIORNAMENTO (14)
 
 La L. 28 dicembre 2005, n. 262, ha disposto (con l'art. 42, comma 3) che le disposizioni contenute nel presente articolo, si applicano alle societa' che vi sono soggette, a decorrere dall'esercizio successivo a quello in corso alla data di entrata in vigore della L. 28 dicembre 2005, n. 262.
 
-##### Art. 165-quater
+###### Art. 165-quater
 
 (Obblighi delle societa' italiane
 
@@ -10858,7 +10856,7 @@ AGGIORNAMENTO (14)
 
 La L. 28 dicembre 2005, n. 262, ha disposto (con l'art. 42, comma 3) che le disposizioni contenute nel presente articolo, si applicano alle societa' che vi sono soggette, a decorrere dall'esercizio successivo a quello in corso alla data di entrata in vigore della L. 28 dicembre 2005, n. 262.
 
-##### Art. 165-quinquies
+###### Art. 165-quinquies
 
 (Obblighi delle societa' italiane
 
@@ -10872,13 +10870,13 @@ AGGIORNAMENTO (14)
 
 La L. 28 dicembre 2005, n. 262, ha disposto (con l'art. 42, comma 3) che le disposizioni contenute nel presente articolo, si applicano alle societa' che vi sono soggette, a decorrere dall'esercizio successivo a quello in corso alla data di entrata in vigore della L. 28 dicembre 2005, n. 262.
 
-##### Art. 165-sexies - Obblighi delle societa' italiane controllate
+###### Art. 165-sexies - Obblighi delle societa' italiane controllate
 
 1\. Il bilancio delle societa' italiane con azioni quotate in mercati regolamentati, di cui all'articolo 119 ((...)) ovvero che hanno ottenuto rilevanti concessioni di credito, le quali siano controllate da societa' aventi sede legale in uno degli Stati determinati con i decreti di cui all'articolo 165-ter, comma 3, e' corredato da una relazione degli amministratori sui rapporti intercorrenti fra la societa' italiana e la societa' estera controllante, nonche' le societa' da essa controllate o ad essa collegate o sottoposte a comune controllo, con particolare riguardo alle reciproche situazioni debitorie e creditorie, e sulle operazioni compiute tra loro nel corso dell'esercizio cui il bilancio si riferisce, compresa la prestazione di garanzie per gli strumenti finanziari emessi in Italia o all'estero dai predetti soggetti. La relazione e' altresi' sottoscritta dal direttore generale e dal dirigente preposto alla redazione dei documenti contabili societari.
 
 E' allegato ad essa il parere espresso dall'organo di controllo.
 
-##### Art. 165-septies
+###### Art. 165-septies
 
 (( (Poteri della CONSOB e disposizioni di
 
@@ -10898,7 +10896,7 @@ l'attuazione della presente sezione)).
 
 #### CAPO I - INTERMEDIARI E MERCATI
 
-##### Art. 166
+###### Art. 166
 
 Abusivismo
 
@@ -10926,7 +10924,7 @@ Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le dis
 
 Ha inoltre disposto (con l'art. 10, comma 13) che le presenti modifiche si applicano alle violazioni commesse a partire dal 3 gennaio 2018.
 
-##### Art. 167
+###### Art. 167
 
 Gestione infedele
 
@@ -10934,7 +10932,7 @@ Gestione infedele
 
 prestazione del servizio di gestione di portafogli (( . . . )) o del servizio di gestione collettiva del risparmio, in violazione delle disposizioni regolanti i conflitti di interesse, pone in essere operazioni che arrecano danno agli investitori, al fine di procurare a se' o ad altri un ingiusto profitto, e' punito con l'arresto da sei mesi a tre anni e con l'ammenda da lire dieci milioni a lire duecento milioni.
 
-##### Art. 168
+###### Art. 168
 
 Confusione di patrimoni
 
@@ -10942,7 +10940,7 @@ Confusione di patrimoni
 
 nell'esercizio di servizi (( o attivita' )) di investimento o di gestione collettiva del risparmio, ovvero nella custodia degli strumenti finanziari e delle disponibilita' liquide di un OICR, al fine di procurare a se' o ad altri un ingiusto profitto, viola le disposizioni concernenti la separazione patrimoniale arrecando danno agli investitori, e' punito con l'arresto da sei mesi a tre anni e con l'ammenda da lire dieci milioni a lire duecento milioni.
 
-##### Art. 169
+###### Art. 169
 
 Partecipazioni al capitale
 
@@ -10956,25 +10954,25 @@ Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le dis
 
 Ha inoltre disposto (con l'art. 10, comma 13) che la presente modifica si applica alle violazioni commesse a partire dal 3 gennaio 2018.
 
-##### Art. 170
+###### Art. 170
 
 Gestione accentrata di strumenti finanziari
 
 1\. Chiunque, nelle registrazioni o nelle certificazioni effettuate o rilasciate nell'ambito della gestione accentrata, attesta falsamente fatti di cui la registrazione o la certificazione e' destinata a provare la verita' ovvero da' corso al trasferimento o alla consegna degli strumenti finanziari o al trasferimento dei relativi diritti senza aver ottenuto in restituzione le certificazioni, e' punito con la reclusione da tre mesi a due anni.
 
-##### Art. 170-bis
+###### Art. 170-bis
 
 (( (Ostacolo alle funzioni di vigilanza della Banca d'Italia e della Consob) ))
 
 1\. Fuori dai casi previsti dall'articolo 2638 del codice civile, chiunque ostacola le funzioni di vigilanza attribuite (( alla Banca d'Italia e)) alla CONSOB e' punito con la reclusione fino a due anni e con la multa da euro diecimila ad euro duecentomila.
 
-##### Art. 171
+###### Art. 171
 
 (( ARTICOLO ABROGATO DAL D.LGS. 11 APRILE 2002, N. 61 ))
 
-## CAPO II - EMITTENTI
+#### CAPO II - EMITTENTI
 
-##### Art. 172
+###### Art. 172
 
 Irregolare acquisto di azioni
 
@@ -10984,7 +10982,7 @@ Irregolare acquisto di azioni
 
 ((2-bis. La disposizione prevista dal comma 1 si applica agli amministratori di societa' con azioni negoziate su un sistema multilaterale di negoziazione italiano.))
 
-##### Art. 173
+###### Art. 173
 
 Omessa alienazione di partecipazioni
 
@@ -10992,51 +10990,51 @@ Omessa alienazione di partecipazioni
 
 che partecipano al capitale di societa' con azioni quotate, i quali violano gli obblighi di alienazione delle partecipazioni previsti dagli articoli 110 e 121 sono puniti con la reclusione fino ad un anno e con la multa (( da euro venticinquemila a euro duemilionicinquecentomila. ))
 
-##### Art. 173-bis - Falso in prospetto
+###### Art. 173-bis - Falso in prospetto
 
 1\. Chiunque, allo scopo di conseguire per se' o per altri un
 
 ingiusto profitto, nei prospetti richiesti per la (( offerta al pubblico di prodotti finanziari )) o l'ammissione alla quotazione nei mercati regolamentati, ovvero nei documenti da pubblicare in occasione delle offerte pubbliche di acquisto o di scambio, con l'intenzione di ingannare i destinatari del prospetto, espone false informazioni od occulta dati o notizie in modo idoneo a indurre in errore i suddetti destinatari, e' punito con la reclusione da uno a cinque anni.
 
-##### Art. 174
+###### Art. 174
 
 (( ARTICOLO ABROGATO DAL D.LGS. 11 APRILE 2002, N. 61 ))
 
-##### Art. 174-bis
+###### Art. 174-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39))
 
-##### Art. 174-ter
+###### Art. 174-ter
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39))
 
-## CAPO III - REVISIONE CONTABILE
+#### CAPO III - REVISIONE CONTABILE
 
-##### Art. 175
+###### Art. 175
 
 (( ARTICOLO ABROGATO DAL D.LGS. 11 APRILE 2002, N. 61 ))
 
-##### Art. 176
+###### Art. 176
 
 (( ARTICOLO ABROGATO DAL D.LGS. 11 APRILE 2002, N. 61 ))
 
-##### Art. 177
+###### Art. 177
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39))
 
-##### Art. 178
+###### Art. 178
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39))
 
-##### Art. 179
+###### Art. 179
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39))
 
-## TITOLO I-BIS - ((ABUSI DI MERCATO))
+### TITOLO I-BIS - ((ABUSI DI MERCATO))
 
-### CAPO I - DISPOSIZIONI GENERALI
+#### CAPO I - DISPOSIZIONI GENERALI
 
-##### Art. 180 - Definizioni
+###### Art. 180 - Definizioni
 
 1\. Ai fini del presente titolo si intendono per:
 
@@ -11074,11 +11072,11 @@ AGGIORNAMENTO (12)
 
 La L. 18 aprile 2005, n. 62 ha disposto (con l'art. 9, comma 6) che "Le disposizioni previste dalla parte V, titolo I-bis, del testo unico di cui al decreto legislativo 28 febbraio 1998, n. 58, si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore della presente legge che le ha depenalizzate, quando il relativo procedimento penale non sia stato definito".
 
-##### Art. 181
+###### Art. 181
 
 ((ARTICOLO ABROGATO DAL D.LGS. 10 AGOSTO 2018, N. 107))
 
-##### Art. 182
+###### Art. 182
 
 (( (Ambito di applicazione). ))
 
@@ -11112,7 +11110,7 @@ AGGIORNAMENTO (12)
 
 La L. 18 aprile 2005, n. 62 ha disposto (con l'art. 9, comma 6) che "Le disposizioni previste dalla parte V, titolo I-bis, del testo unico di cui al decreto legislativo 28 febbraio 1998, n. 58, si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore della presente legge che le ha depenalizzate, quando il relativo procedimento penale non sia stato definito".
 
-##### Art. 183 - Esenzioni
+###### Art. 183 - Esenzioni
 
 1\. Le disposizioni di cui al presente titolo non si applicano:
 
@@ -11128,9 +11126,9 @@ AGGIORNAMENTO (12)
 
 La L. 18 aprile 2005, n. 62 ha disposto (con l'art. 9, comma 6) che "Le disposizioni previste dalla parte V, titolo I-bis, del testo unico di cui al decreto legislativo 28 febbraio 1998, n. 58, si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore della presente legge che le ha depenalizzate, quando il relativo procedimento penale non sia stato definito".
 
-## ((CAPO II - SANZIONI PENALI))
+#### ((CAPO II - SANZIONI PENALI))
 
-##### Art. 184
+###### Art. 184
 
 (( (Abuso o comunicazione illecita di informazioni privilegiate.
 
@@ -11158,7 +11156,7 @@ AGGIORNAMENTO (12)
 
 La L. 18 aprile 2005, n. 62 ha disposto (con l'art. 9, comma 6) che "Le disposizioni previste dalla parte V, titolo I-bis, del testo unico di cui al decreto legislativo 28 febbraio 1998, n. 58, si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore della presente legge che le ha depenalizzate, quando il relativo procedimento penale non sia stato definito".
 
-##### Art. 185 - Manipolazione del mercato
+###### Art. 185 - Manipolazione del mercato
 
 1\. Chiunque diffonde notizie false o pone in essere operazioni simulate o altri artifizi concretamente idonei a provocare una sensibile alterazione del prezzo di strumenti finanziari, e' punito con la reclusione da uno a sei anni e con la multa da euro ventimila a euro cinque milioni. ((La pena e' della reclusione da due a sette anni e della multa da euro venticinquemila a euro sei milioni se il fatto e' commesso mediante l'impiego di sistemi di intelligenza artificiale)).
 
@@ -11178,7 +11176,7 @@ AGGIORNAMENTO (12)
 
 La L. 18 aprile 2005, n. 62 ha disposto (con l'art. 9, comma 6) che "Le disposizioni previste dalla parte V, titolo I-bis, del testo unico di cui al decreto legislativo 28 febbraio 1998, n. 58, si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore della presente legge che le ha depenalizzate, quando il relativo procedimento penale non sia stato definito".
 
-##### Art. 186
+###### Art. 186
 
 (( (Pene accessorie). ))
 
@@ -11192,7 +11190,7 @@ AGGIORNAMENTO (12)
 
 La L. 18 aprile 2005, n. 62 ha disposto (con l'art. 9, comma 6) che "Le disposizioni previste dalla parte V, titolo I-bis, del testo unico di cui al decreto legislativo 28 febbraio 1998, n. 58, si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore della presente legge che le ha depenalizzate, quando il relativo procedimento penale non sia stato definito".
 
-##### Art. 187 - Confisca
+###### Art. 187 - Confisca
 
 ((1. In caso di condanna per uno dei reati previsti dal presente capo e' sempre ordinata la confisca dei beni che ne costituiscono il profitto)).
 
@@ -11208,9 +11206,9 @@ AGGIORNAMENTO (12)
 
 La L. 18 aprile 2005, n. 62 ha disposto (con l'art. 9, comma 6) che "Le disposizioni previste dalla parte V, titolo I-bis, del testo unico di cui al decreto legislativo 28 febbraio 1998, n. 58, si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore della presente legge che le ha depenalizzate, quando il relativo procedimento penale non sia stato definito".
 
-## ((CAPO III - SANZIONI AMMINISTRATIVE))
+#### ((CAPO III - SANZIONI AMMINISTRATIVE))
 
-##### Art. 187-bis
+###### Art. 187-bis
 
 (( (Abuso e comunicazione illecita di informazioni privilegiate). ))
 
@@ -11234,7 +11232,7 @@ AGGIORNAMENTO (12)
 
 La L. 18 aprile 2005, n. 62 ha disposto (con l'art. 9, comma 6) che "Le disposizioni previste dalla parte V, titolo I-bis, del testo unico di cui al decreto legislativo 28 febbraio 1998, n. 58, si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore della presente legge che le ha depenalizzate, quando il relativo procedimento penale non sia stato definito".
 
-##### Art. 187-ter - Manipolazione del mercato
+###### Art. 187-ter - Manipolazione del mercato
 
 ((1. Salve le sanzioni penali quando il fatto costituisce reato, e' punito con la sanzione amministrativa pecuniaria da ventimila euro a cinque milioni di euro chiunque viola il divieto di manipolazione del mercato di cui all'articolo 15 del regolamento (UE) n. 596/2014.
 
@@ -11256,7 +11254,7 @@ AGGIORNAMENTO (12)
 
 La L. 18 aprile 2005, n. 62 ha disposto (con l'art. 9, comma 6) che "Le disposizioni previste dalla parte V, titolo I-bis, del testo unico di cui al decreto legislativo 28 febbraio 1998, n. 58, si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore della presente legge che le ha depenalizzate, quando il relativo procedimento penale non sia stato definito".
 
-##### Art. 187-ter.1 - Sanzioni relative alle violazioni delle disposizioni del regolamento (UE) n. 596/2014 del Parlamento europeo e del Consiglio, del 16 aprile 2014
+###### Art. 187-ter.1 - Sanzioni relative alle violazioni delle disposizioni del regolamento (UE) n. 596/2014 del Parlamento europeo e del Consiglio, del 16 aprile 2014
 
 1\. Nei confronti di un ente o di una societa', in caso di violazione degli obblighi previsti dall'articolo 16, paragrafi 1 e 2, dall'articolo 17, paragrafi 1, 2, 4, 5 e 8, del regolamento (UE) n. 596/2014, dagli atti delegati e dalle relative norme tecniche di regolamentazione e di attuazione, nonche' dell'articolo 114, comma 3, del presente decreto, si applica una sanzione amministrativa pecuniaria da cinquemila euro fino a duemilionicinquecentomila euro, ovvero al due per cento del fatturato, quando tale importo e' superiore a duemilionicinquecentomila euro e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)). ((135))
 
@@ -11286,7 +11284,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 187-quater - Sanzioni amministrative accessorie
+###### Art. 187-quater - Sanzioni amministrative accessorie
 
 1\. ((La Consob, con il provvedimento di applicazione delle sanzioni amministrative previste per la violazione dei divieti di cui dagli articoli 14 e 15 del regolamento (UE) n. 596/2014 del Parlamento europeo e del Consiglio, del 16 aprile, 2014, puo' applicare:)) ((135))
 
@@ -11322,7 +11320,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 187-quinquies - Responsabilita' dell'ente
+###### Art. 187-quinquies - Responsabilita' dell'ente
 
 1\. L'ente e' punito con la sanzione amministrativa pecuniaria da ventimila euro fino a quindici milioni di euro, ovvero fino al quindici per cento del fatturato, quando tale importo e' superiore a quindici milioni di euro e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)), nel caso in cui sia commessa nel suo interesse o a suo vantaggio una violazione del divieto di cui all'articolo 14 o del divieto di cui all'articolo 15 del regolamento (UE) n. 596/2014: ((135))
 
@@ -11350,7 +11348,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 187-sexies - Confisca
+###### Art. 187-sexies - Confisca
 
 1\. L'applicazione delle sanzioni amministrative ((...)) previste dal presente capo importa la confisca ((di una somma di denaro pari al profitto dell'illecito)). ((135))
 
@@ -11386,7 +11384,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 187-septies
+###### Art. 187-septies
 
 (( (Procedura sanzionatoria).))
 
@@ -11400,9 +11398,9 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-## ((CAPO IV - POTERI DELLA CONSOB))
+#### ((CAPO IV - POTERI DELLA CONSOB))
 
-##### Art. 187-octies - Poteri della CONSOB
+###### Art. 187-octies - Poteri della CONSOB
 
 1\. La Consob e' l'autorita' nazionale competente ai sensi dell'articolo 22 del regolamento (UE) n. 596/2014, relativo agli abusi di mercato.
 
@@ -11488,13 +11486,13 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 187-novies
+###### Art. 187-novies
 
 ((ARTICOLO ABROGATO DAL D.LGS. 10 AGOSTO 2018, N. 107))
 
-## ((CAPO V - RAPPORTI TRA PROCEDIMENTI))
+#### ((CAPO V - RAPPORTI TRA PROCEDIMENTI))
 
-##### Art. 187-decies
+###### Art. 187-decies
 
 (( (Rapporti con la magistratura). ))
 
@@ -11512,7 +11510,7 @@ AGGIORNAMENTO (12)
 
 La L. 18 aprile 2005, n. 62 ha disposto (con l'art. 9, comma 6) che "Le disposizioni previste dalla parte V, titolo I-bis, del testo unico di cui al decreto legislativo 28 febbraio 1998, n. 58, si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore della presente legge che le ha depenalizzate, quando il relativo procedimento penale non sia stato definito".
 
-##### Art. 187-undecies
+###### Art. 187-undecies
 
 (( (Facolta' della CONSOB nel procedimento penale). ))
 
@@ -11528,7 +11526,7 @@ AGGIORNAMENTO (12)
 
 La L. 18 aprile 2005, n. 62 ha disposto (con l'art. 9, comma 6) che "Le disposizioni previste dalla parte V, titolo I-bis, del testo unico di cui al decreto legislativo 28 febbraio 1998, n. 58, si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore della presente legge che le ha depenalizzate, quando il relativo procedimento penale non sia stato definito".
 
-##### Art. 187-duodecies - Rapporti tra procedimento penale e procedimento amministrativo e di opposizione
+###### Art. 187-duodecies - Rapporti tra procedimento penale e procedimento amministrativo e di opposizione
 
 1\. Il procedimento amministrativo di accertamento e il procedimento ((avverso il provvedimento che irroga la sanzione instaurato ai sensi dell'articolo 195)) non possono essere sospesi per la pendenza del procedimento penale avente ad oggetto i medesimi fatti o fatti dal cui accertamento dipende la relativa definizione. ((135))
 
@@ -11546,7 +11544,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 187-terdecies
+###### Art. 187-terdecies
 
 (( (Applicazione ed esecuzione delle sanzioni penali ed amministrative). ))
 
@@ -11562,7 +11560,7 @@ AGGIORNAMENTO (12)
 
 La L. 18 aprile 2005, n. 62 ha disposto (con l'art. 9, comma 6) che "Le disposizioni previste dalla parte V, titolo I-bis, del testo unico di cui al decreto legislativo 28 febbraio 1998, n. 58, si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore della presente legge che le ha depenalizzate, quando il relativo procedimento penale non sia stato definito".
 
-##### Art. 187-quaterdecies
+###### Art. 187-quaterdecies
 
 (( (Procedure consultive). ))
 
@@ -11576,9 +11574,9 @@ AGGIORNAMENTO (12)
 
 La L. 18 aprile 2005, n. 62 ha disposto (con l'art. 9, comma 6) che "Le disposizioni previste dalla parte V, titolo I-bis, del testo unico di cui al decreto legislativo 28 febbraio 1998, n. 58, si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore della presente legge che le ha depenalizzate, quando il relativo procedimento penale non sia stato definito".
 
-## TITOLO II - SANZIONI AMMINISTRATIVE
+### TITOLO II - SANZIONI AMMINISTRATIVE
 
-##### Art. 187-quinquiesdecies - Tutela dell'attivita' di vigilanza della Banca d'Italia e della Consob
+###### Art. 187-quinquiesdecies - Tutela dell'attivita' di vigilanza della Banca d'Italia e della Consob
 
 1\. Fuori dai casi previsti dall'articolo 2638 del codice civile, e' punito ai sensi del presente articolo chiunque non ottempera nei termini alle richieste della Banca d'Italia e della Consob, ovvero non coopera con le medesime autorita' al fine dell'espletamento delle relative funzioni di vigilanza, ovvero ritarda l'esercizio delle stesse. (73)
 
@@ -11616,7 +11614,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 188 - Abuso di denominazione
+###### Art. 188 - Abuso di denominazione
 
 1\. L'uso, nella denominazione o in qualsivoglia segno distintivo o comunicazione rivolta al pubblico, delle parole: "Sim" o "societa' di intermediazione mobiliare" o "impresa di investimento"; "Sgr" o "societa' di gestione del risparmio"; "Sicav" o "societa' di investimento a capitale variabile"; "Sicaf" o "societa' di investimento a capitale fisso"; "Eu-VECA" o "fondo europeo per il venture capital"; "Eu-SEF" o "fondo europeo per l'imprenditoria sociale"; "ELTIF" o "fondo di investimento europeo a lungo termine"; "FCM" o "fondo comune monetario"; "APA" o "dispositivo di pubblicazione autorizzato" a cui si applicherebbe la deroga prevista dall'articolo 2, paragrafo 3, del regolamento (UE) n. 600/2014 e dai relativi atti delegati; "ARM" o "meccanismo di segnalazione autorizzato" a cui si applicherebbe la deroga prevista dall'articolo 2, paragrafo 3, del regolamento (UE) n. 600/2014 e dai relativi atti delegati; "mercato regolamentato"; "mercato di crescita per le piccole e medie imprese"; ovvero di altre parole o locuzioni, anche in lingua straniera, idonee a trarre in inganno sulla legittimazione allo svolgimento dei servizi o delle attivita' di investimento o del servizio di gestione collettiva del risparmio o della gestione di un APA o di un ARM o dell'attivita' di gestione di mercati regolamentati e' vietato a soggetti diversi, rispettivamente, dalle imprese di investimento, dalle societa' di gestione del risparmio, dalle Sicav, dalle Sicaf, dai soggetti abilitati a tenore dei regolamenti (UE) n. 345/2013, relativo ai fondi europei per il venture capital (EuVECA), n. 346/2013, relativo ai fondi europei per l'imprenditoria sociale (EuSEF), 2015/760, relativo ai fondi di investimento europei a lungo termine, e 2017/1131, relativo ai fondi comuni monetari, dai soggetti di cui all'articolo 79, dai mercati regolamentati e dai sistemi registrati come un mercato di crescita per le piccole e medie imprese, ai sensi del presente decreto. Chiunque contravviene al divieto previsto dal presente articolo e' punito con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni. Se la violazione e' commessa da una societa' o un ente, e' applicata la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al 10 per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)). ((135))
 
@@ -11650,7 +11648,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 189 - Partecipazioni al capitale
+###### Art. 189 - Partecipazioni al capitale
 
 1\. La violazione degli obblighi di comunicazione previsti dagli articoli 15, commi 1 e 3, 64-bis, comma 2, e delle relative disposizioni attuative, e di quelli richiesti ai sensi dell'articolo 17, nonche' di quelli previsti dall'articolo 31, paragrafo 2, del regolamento (UE) n. 648/2012 e dall'articolo 27-bis, paragrafo 2, del regolamento (UE) n. 909/2014, e' punita con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni. Se la violazione e' commessa da una societa' o un ente, e' applicata la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)). ((135))
 
@@ -11686,7 +11684,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 190 - Sanzioni amministrative pecuniarie in tema di disciplina degli intermediari) (73
+###### Art. 190 - Sanzioni amministrative pecuniarie in tema di disciplina degli intermediari) (73
 
 1\. Salvo che il fatto costituisca reato ai sensi dell'articolo 166, nei confronti dei soggetti abilitati, delle holding di investimento come definite all'articolo 4, paragrafo 1, punto 23, del regolamento (UE) 2019/2033, delle societa' di partecipazione finanziaria mista come definite all'articolo 4, paragrafo 1, punto 40, del medesimo regolamento, dei depositari e dei soggetti ai quali sono state esternalizzate funzioni operative essenziali o importanti si applica la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)), per la mancata osservanza degli articoli 6; 6-bis; 6-ter; 7, commi 2, 2-bis, 2-ter, 3 e 3-bis; 7-bis, comma 5; 7-ter; 8, comma 1-bis; 9; 11-bis; 12; 13, comma 3; 21; 21-bis; 22; 23, commi 1 e 4-bis; 24, commi 1 e 1-bis; 24-bis; 25; 25-bis; 26, commi 1, 3 e 4; 27, commi 1 e 3; 28, comma 4; 29; 29-bis, comma 1; 29-ter, comma 4; 30, comma 5; 31, commi 1, 2, 2-bis, 3-bis, 5, 6 e 7; 32, comma 2; 33, commi 4 e 4-bis; 34, comma 2-bis; 35-bis, commi 1-bis, 5-bis, 6, 6-bis e 6-ter; 35-novies; 35-novies.1, commi 7 e 8; 35-decies; 36, commi 2, 3 e 4; 37, commi 1, 2 e 3; 38, commi 3 e 5; 38-bis, commi 5 e 7 39; 39-bis; 39-ter; 39-quater; 39-quinquies; 39-sexies; 39-septies; 39-octies; 39-novies; 39-decies; 39-undecies; 40, commi 2, 4 e 5; 40-bis, comma 4; 40-ter, comma 4; 41, commi 2, 2-bis 3 e 4; 41-bis; 41-ter; 41-quater; 42, commi 1, 3 e 4; 42-bis, commi 2, 3, 4, 5, 8, 9 e 10, 43, commi 2, 3, 4, 7, 7-bis, 7-ter, 8 e 9; 44, commi 1, 2, 3, 4, lettera b) e 5; 45; 46, commi 1, 3 e 4; 46-bis, commi 1-bis, 1-ter, 1-quater, 1-quinquies e 1-sexies, primo periodo; 46-ter, commi 2 e 3; 47; 48; 49, commi 3 e 4; 55-ter; 55-quater; 55-quinquies; ovvero delle disposizioni generali o particolari emanate in base ai medesimi articoli. (73) (78) (109) (132) (134) ((135))
 
@@ -11792,7 +11790,7 @@ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 2, comma 1, lettera d)
 
 Ha inoltre disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 190.1 - Sanzioni amministrative pecuniarie in tema di disciplina della gestione accentrata di strumenti finanziari
+###### Art. 190.1 - Sanzioni amministrative pecuniarie in tema di disciplina della gestione accentrata di strumenti finanziari
 
 1\. Nei confronti dei depositari centrali di titoli, nel caso di inosservanza delle disposizioni previste dal Capo IV del titolo II-bis della parte III e di quelle emanate dalla Consob, d'intesa o sentita la Banca d'Italia, ai sensi dell'articolo 82, si applica la sanzione amministrativa pecuniaria da euro trentamila fino a euro ((dieci milioni)). (73) ((98))
 
@@ -11820,7 +11818,7 @@ Il D.Lgs. 14 luglio 2020, n. 84 ha disposto (con l'art. 4, comma 1) che, fermo q
 
 medesimo.
 
-##### Art. 190.1-bis
+###### Art. 190.1-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 14 LUGLIO 2020, N. 84))
 
@@ -11834,7 +11832,7 @@ Il D.Lgs. 14 luglio 2020, n. 84 ha disposto (con l'art. 4, comma 1) che, fermo q
 
 medesimo.
 
-##### Art. 190.2 - Sanzioni amministrative pecuniarie relative alla violazione delle disposizioni previste dal regolamento (UE) n. 909/2014
+###### Art. 190.2 - Sanzioni amministrative pecuniarie relative alla violazione delle disposizioni previste dal regolamento (UE) n. 909/2014
 
 1\. Nei confronti dei depositari centrali e delle banche designate ai sensi dell'articolo 54 del regolamento (UE) n. 909/2014, in caso di inosservanza delle disposizioni richiamate dall'articolo 63, paragrafo 1, del medesimo regolamento si applica la sanzione amministrativa pecuniaria da euro trentamila fino a euro venti milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro venti milioni e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)). La medesima sanzione si applica altresi' in caso di inosservanza delle norme tecniche di regolamentazione e di attuazione emanate dalla Commissione europea ai sensi del predetto regolamento. (73) ((135)) 2. Chiunque presti i servizi elencati nell'Allegato al regolamento (UE) n. 909/2014 e quelli consentiti, ma non esplicitamente elencati dal medesimo Allegato, in violazione degli articoli 16, 25 e 54 del predetto regolamento, e' punito con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni. Se la violazione e' commessa da una societa' o un ente, e' applicata la sanzione amministrativa pecuniaria da euro trentamila fino a euro venti milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro venti milioni e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)). (73) ((135)) 3. Si applica la sanzione amministrativa pecuniaria da euro duemilacinquecento fino a euro centocinquantamila:
 
@@ -11870,7 +11868,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 190.3 - Sanzioni amministrative in tema di disciplina dei mercati
+###### Art. 190.3 - Sanzioni amministrative in tema di disciplina dei mercati
 
 1\. Salvo che il fatto costituisca reato ai sensi dell'articolo 166, si applica la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)): ((135))
 
@@ -11910,7 +11908,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 190.4 - Sanzioni amministrative pecuniarie relative alle violazioni delle disposizioni previste dal regolamento (UE) n. 600/2014, dagli atti delegati e dalle norme tecniche di regolamentazione e di attuazione della direttiva 2014/65/UE e del regolamento (UE) n. 600/2014
+###### Art. 190.4 - Sanzioni amministrative pecuniarie relative alle violazioni delle disposizioni previste dal regolamento (UE) n. 600/2014, dagli atti delegati e dalle norme tecniche di regolamentazione e di attuazione della direttiva 2014/65/UE e del regolamento (UE) n. 600/2014
 
 1\. La violazione delle norme del regolamento (UE) n. 600/2014 richiamate dall'articolo 70, paragrafi 3, lettera b), e 4, lettera b), della direttiva 2014/65/UE e dell'articolo 22, paragrafo 1, del medesimo regolamento, nonche' delle relative disposizioni attuative, ovvero la mancata osservanza delle misure adottate ai sensi dell'articolo 42 del regolamento (UE) n. 600/2014, e' punita con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni. Se la violazione e' commessa da una societa' o un ente, e' applicata la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)). ((135))
 
@@ -11934,7 +11932,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 190.5
+###### Art. 190.5
 
 (( (Sanzioni amministrative pecuniarie in tema di agenzie di rating del credito relative alle violazioni delle disposizioni previste dal regolamento (CE) n. 1060/2009). ))
 
@@ -11962,7 +11960,7 @@ Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le dis
 
 Ha inoltre disposto (con l'art. 10, comma 13) che la presente modifica si applica alle violazioni commesse a partire dal 3 gennaio 2018.
 
-##### Art. 190-bis - Responsabilita' degli esponenti aziendali e del personale per le violazioni in tema di disciplina degli intermediari, dei mercati, dei depositari centrali e della gestione accentrata di strumenti finanziari e dei servizi di di APA e di ARM ). (73
+###### Art. 190-bis - Responsabilita' degli esponenti aziendali e del personale per le violazioni in tema di disciplina degli intermediari, dei mercati, dei depositari centrali e della gestione accentrata di strumenti finanziari e dei servizi di di APA e di ARM ). (73
 
 1\. Fermo restando quanto previsto per le societa' e gli enti nei confronti dei quali sono accertate le violazioni, per l'inosservanza delle disposizioni richiamate dagli articoli 188, 189, 190, 190.1, 190.2, commi 1 e 2, 190.3, 190.4, e 190.5, si applica la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni nei confronti dei soggetti che svolgono funzioni di amministrazione, di direzione o di controllo, nonche' nei confronti del personale, quando l'inosservanza e' conseguenza della violazione di doveri propri o dell'organo di appartenenza e ricorrono una o piu' delle seguenti condizioni: (73)
 
@@ -12006,7 +12004,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 190-bis.1 - Sanzioni amministrative relative alle violazioni delle disposizioni del regolamento (UE) 2016/1011
+###### Art. 190-bis.1 - Sanzioni amministrative relative alle violazioni delle disposizioni del regolamento (UE) 2016/1011
 
 1\. Per le violazioni degli articoli 4, 5, 6, 7, 8, 9, 10, dell'articolo 11, paragrafo 1, lettere a), b), c) ed e), dell'articolo 11, paragrafi 2 e 3, degli articoli 12, 13, 14, 15, 16, 21, 23, 24, 25, 26, 27, 28, 29 e 34 del regolamento (UE) 2016/1011 e delle norme tecniche di regolamentazione e attuazione previste dal medesimo regolamento, si applica:
 
@@ -12038,7 +12036,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 190-bis.2 - Sanzioni amministrative relative alle violazioni delle disposizioni del regolamento (UE) 2017/2402
+###### Art. 190-bis.2 - Sanzioni amministrative relative alle violazioni delle disposizioni del regolamento (UE) 2017/2402
 
 1\. Per le violazioni degli articoli 3, 5, 6, 7, 9, 18, 19, 20, 21, 22, 23, 24, 25, 26, 26-bis, 26-ter, 26-quater, 26-quinquies, 26-sexies, 27 paragrafi 1 e 4 e 28 paragrafo 2 del regolamento (UE) 2017/2402 e delle norme tecniche di regolamentazione e attuazione previste dal medesimo regolamento, si applica:
 
@@ -12066,7 +12064,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 190-bis.3 - Sanzioni amministrative relative alle violazioni delle disposizioni previste dal regolamento (UE) 2022/2554 del Parlamento europeo e del Consiglio, del 14 dicembre 2022, e dalle relative norme tecniche di regolamentazione e attuazione
+###### Art. 190-bis.3 - Sanzioni amministrative relative alle violazioni delle disposizioni previste dal regolamento (UE) 2022/2554 del Parlamento europeo e del Consiglio, del 14 dicembre 2022, e dalle relative norme tecniche di regolamentazione e attuazione
 
 1\. In caso di inosservanza delle disposizioni di cui agli articoli 5, 6, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 10, 12, 16, paragrafi 1 e 2, 17, 19, paragrafi 1, 3 e 4, 24 del regolamento (UE) 2022/2554, del Parlamento europeo e del Consiglio, del 14 dicembre 2022, e delle relative norme tecniche di regolamentazione e attuazione, ovvero in caso di omessa collaborazione o mancato seguito dato nell'ambito di un'indagine, un'ispezione o una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 16 della legge 21 febbraio 2024, n. 15, si applica:
 
@@ -12120,7 +12118,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 190-ter
+###### Art. 190-ter
 
 ((ARTICOLO ABROGATO DAL D.LGS. 3 AGOSTO 2017, N. 129))
 
@@ -12134,7 +12132,7 @@ Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le dis
 
 Ha inoltre disposto (con l'art. 10, comma 13) che l'abrogazione del presente articolo si applica alle violazioni commesse a partire dal 3 gennaio 2018.
 
-##### Art. 190-quater - Sanzioni amministrative in tema di servizi di crowdfunding
+###### Art. 190-quater - Sanzioni amministrative in tema di servizi di crowdfunding
 
 1\. Nei confronti dei fornitori di servizi di crowdfunding, in caso di inosservanza delle disposizioni richiamate dall'articolo 39, paragrafo 1, del regolamento (UE) 2020/1503 o dei relativi atti delegati e norme tecniche di regolamentazione o in caso di inosservanza delle disposizioni nazionali applicabili alle comunicazioni di marketing individuate dalla Consob con proprio regolamento, nonche' nei confronti dei soggetti che prestano servizi di crowdfunding diversi da quelli indicati all'articolo 2, paragrafo 1, lettera a), del regolamento (UE) 2020/1503 in caso di inosservanza dell'articolo 100-ter, comma 9, si applica la sanzione amministrativa pecuniaria da euro 500 fino a euro 500.000, ovvero fino al 5 per cento del fatturato, quando tale importo e' superiore a euro 500.000 e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)). Per i casi di cui all'articolo 39, paragrafo 1, lettera b), del regolamento (UE) 2020/1503 e' fatto salvo il rifiuto motivato qualora le informazioni richieste possono fare emergere la propria responsabilita' per un illecito passibile di sanzioni amministrative di carattere punitivo o per un reato. ((135))
 
@@ -12158,7 +12156,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 191 - Offerta al pubblico di sottoscrizione e di vendita di prodotti finanziari e ammissione alla negoziazione di titoli
+###### Art. 191 - Offerta al pubblico di sottoscrizione e di vendita di prodotti finanziari e ammissione alla negoziazione di titoli
 
 1\. Nei confronti degli enti e delle societa' che commettono una violazione delle disposizioni richiamate dall'articolo 38, paragrafo 1, lettera a), del regolamento prospetto e delle relative disposizioni attuative, si applica la sanzione amministrativa pecuniaria da cinquemila euro fino a cinque milioni di euro, ovvero fino al tre per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)). ((135))
 
@@ -12182,7 +12180,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 191-bis
+###### Art. 191-bis
 
 (( (Sanzioni accessorie). ))
 
@@ -12202,7 +12200,7 @@ e) la perdita temporanea dei requisiti di onorabilita' per i partecipanti al cap
 
 3\. Quando l'emittente, l'offerente o il soggetto che chiede l'ammissione alla negoziazione in un mercato regolamentato, ha gia' commesso, due o piu' volte negli ultimi cinque anni, una violazione con dolo o colpa grave delle disposizioni indicate all'art. 191, la Consob puo' negare l'approvazione di un prospetto redatto dal medesimo soggetto per un periodo massimo di cinque anni.))
 
-##### Art. 191-ter - Offerta al pubblico di sottoscrizione e di vendita e ammissione alle negoziazioni di quote o azioni di OICR aperti
+###### Art. 191-ter - Offerta al pubblico di sottoscrizione e di vendita e ammissione alle negoziazioni di quote o azioni di OICR aperti
 
 1\. Fermo restando quanto previsto dall'articolo 193-quinquies, chiunque effettua un'offerta al pubblico in violazione degli articoli 98-ter, comma 1, e 98-ter.1, comma 2, e' punito con la sanzione amministrativa pecuniaria da venticinquemila euro fino a cinque milioni di euro. La stessa sanzione si applica in caso di violazione dell'articolo 98, limitatamente ai casi di offerta al pubblico di quote o azioni di FIA chiusi per le quali l'Italia e' lo Stato membro d'origine.
 
@@ -12226,7 +12224,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 191-quater
+###### Art. 191-quater
 
 (( (Sanzioni amministrative relative alla violazione delle disposizioni del regolamento (UE) n. 2023/2631).))
 
@@ -12242,7 +12240,7 @@ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le d
 
 6\. ((Alle violazioni previste dal presente articolo, si applica l'articolo 187-quinquiesdecies, comma 1-quater.))
 
-##### Art. 192
+###### Art. 192
 
 Offerte pubbliche di acquisto o di scambio
 
@@ -12286,7 +12284,7 @@ Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le dis
 
 Ha inoltre disposto (con l'art. 10, comma 13) che le presenti modifiche si applicano alle violazioni commesse a partire dal 3 gennaio 2018.
 
-##### Art. 192-bis - Sanzioni amministrative in tema di informazioni sul governo societario e di politica di remunerazione e compensi corrisposti
+###### Art. 192-bis - Sanzioni amministrative in tema di informazioni sul governo societario e di politica di remunerazione e compensi corrisposti
 
 1\. ((Salvo che il fatto costituisca reato, nei confronti delle societa' quotate nei mercati regolamentati che omettono le comunicazioni prescritte dall'articolo 123-bis, comma 2, lettera a), si applica una sanzione amministrativa pecuniaria da euro diecimila a euro dieci milioni, ovvero, fino al 5 per cento del fatturato quando tale importo e' superiore a euro dieci milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 2.)) ((135))
 
@@ -12334,13 +12332,13 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 192-ter
+###### Art. 192-ter
 
 Ammissione alle negoziazioni
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 17))
 
-##### Art. 192-quater
+###### Art. 192-quater
 
 (( (Obbligo di astensione).))
 
@@ -12358,7 +12356,7 @@ AGGIORNAMENTO (84)
 
 Successivamente la Corte Costituzionale , con sentenza 20 febbraio - 21 marzo 2019, n. 63 (in G.U. 1ª s.s. 27/03/2019, n. 13), ha dichiarato l'illegittimita' costituzionale dell'art. 6, comma 2 del D.Lgs. 12 maggio 2015, n. 72 (che ha modificato il presente articolo) "nella parte in cui esclude l'applicazione retroattiva delle modifiche apportate dal comma 3 dello stesso art. 6 alle sanzioni amministrative previste per l'illecito disciplinato dall'art. 187-bis del decreto legislativo 24 febbraio 1998, n. 58" e "in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 [...] nella parte in cui esclude l'applicazione retroattiva delle modifiche apportate dal comma 3 dello stesso art. 6 alle sanzioni amministrative previste per l'illecito di cui all'art. 187-ter del d.lgs. n. 58 del 1998".
 
-##### Art. 192-quinquies - Sanzioni amministrative in tema di operazioni con parti correlate
+###### Art. 192-quinquies - Sanzioni amministrative in tema di operazioni con parti correlate
 
 1\. Nei confronti delle societa' quotate nei mercati regolamentati che violano l'articolo 2391-bis del codice civile e le relative disposizioni di attuazione adottate dalla Consob ai sensi del medesimo articolo, si applica una sanzione amministrativa pecuniaria da euro diecimila a euro ((dieci milioni)). ((98))
 
@@ -12372,7 +12370,7 @@ Il D.Lgs. 14 luglio 2020, n. 84 ha disposto (con l'art. 4, comma 1) che, fermo q
 
 medesimo.
 
-##### Art. 193 - Sanzioni amministrative in tema di informazione societaria e doveri dei componenti dell'organo di controllo, dei revisori legali e delle societa' di revisione legale
+###### Art. 193 - Sanzioni amministrative in tema di informazione societaria e doveri dei componenti dell'organo di controllo, dei revisori legali e delle societa' di revisione legale
 
 1\. ((Salvo che il fatto costituisca reato, nei confronti di societa', enti o associazioni tenuti a effettuare le comunicazioni previste dagli articoli 114, commi 5, e 9, 114-bis, 115, 154-bis, 154-ter e 154-quater, per l'inosservanza delle disposizioni degli articoli medesimi o delle relative disposizioni attuative, si applica una sanzione amministrativa pecuniaria da euro cinquemila a euro dieci milioni ovvero fino al 5 per cento del fatturato quando tale importo e' superiore a euro dieci milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 2.)) ((135))
 
@@ -12426,7 +12424,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 193-bis
+###### Art. 193-bis
 
 (( (Rapporti con societa' estere aventi sede legale in Stati che non garantiscono la trasparenza societaria). ))
 
@@ -12446,7 +12444,7 @@ CONSOB dall'articolo 165-septies, comma 1, e' punita con la
 
 sanzione amministrativa pecuniaria prevista dall'articolo 193, comma 1)).
 
-##### Art. 193-bis.1 - Sanzioni amministrative in tema di trasparenza degli investitori istituzionali, dei gestori di attivi e dei consulenti in materia di voto
+###### Art. 193-bis.1 - Sanzioni amministrative in tema di trasparenza degli investitori istituzionali, dei gestori di attivi e dei consulenti in materia di voto
 
 1\. Salvo che il fatto costituisca reato, nei confronti degli investitori istituzionali e dei gestori di attivi in caso di violazione degli articoli 124-quinquies, 124-sexies e 124-septies, nonche' nei confronti dei consulenti in materia di voto in caso di violazione dell'articolo 124-octies ovvero delle relative disposizioni attuative, si applica una sanzione amministrativa pecuniaria da euro duemilacinquecento a euro centocinquantamila.
 
@@ -12458,7 +12456,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 193-ter - Sanzioni amministrative pecuniarie relative alle violazioni delle prescrizioni di cui al regolamento (UE) n. 236/2012
+###### Art. 193-ter - Sanzioni amministrative pecuniarie relative alle violazioni delle prescrizioni di cui al regolamento (UE) n. 236/2012
 
 1\. Chiunque non osservi le disposizioni previste dagli articoli 5, 6, 7, 8, 9, 15, 17, 18 e 19 del regolamento (UE) n. 236/2012 e relative disposizioni attuative, e' soggetto alla sanzione amministrativa del pagamento di una somma da euro venticinquemila a euro duemilionicinquecentomila.
 
@@ -12488,7 +12486,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 193-quater - Sanzioni amministrative relative alla violazione delle disposizioni previste dal regolamento (UE) n. 648/2012 del Parlamento europeo e del Consiglio, del 4 luglio 2012, dal regolamento (UE) 2015/2365 del Parlamento europeo e del Consiglio, del 25 novembre 2015, e dal regolamento (UE) 2021/23 del Parlamento europeo e del Consiglio, del 16 dicembre 2020
+###### Art. 193-quater - Sanzioni amministrative relative alla violazione delle disposizioni previste dal regolamento (UE) n. 648/2012 del Parlamento europeo e del Consiglio, del 4 luglio 2012, dal regolamento (UE) 2015/2365 del Parlamento europeo e del Consiglio, del 25 novembre 2015, e dal regolamento (UE) 2021/23 del Parlamento europeo e del Consiglio, del 16 dicembre 2020
 
 1\. Le controparti centrali, i gestori delle sedi di negoziazione, le controparti finanziarie e le controparti non finanziarie, come definite dall'articolo 2, punti 1), 4), 8) e 9), del regolamento (UE) n. 648/2012 del Parlamento europeo e del Consiglio, del 4 luglio 2012, i soggetti che agiscono in qualita' di partecipanti alle controparti centrali o in qualita' di clienti di questi ultimi, come definiti dall'articolo 2, punto 15), del citato regolamento, i quali non osservano le disposizioni previste dai titoli II, III, IV e V del medesimo regolamento e le relative disposizioni attuative, sono puniti con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni, se sono persone fisiche. Se la violazione e' commessa da una societa' o da un ente, si applica nei confronti di questi ultimi la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)), del presente decreto e ai sensi dell'articolo 325-bis del decreto legislativo 7 settembre 2005, n. 209. (73) ((135))
 
@@ -12538,7 +12536,7 @@ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 2, comma 1, lettera u)
 
 Ha inoltre disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 193-quinquies - Sanzioni amministrative pecuniarie relative alle violazioni delle disposizioni previste dal regolamento (UE) n. 1286/2014
+###### Art. 193-quinquies - Sanzioni amministrative pecuniarie relative alle violazioni delle disposizioni previste dal regolamento (UE) n. 1286/2014
 
 1\. La violazione delle disposizioni richiamate dall'articolo 24, paragrafo 1, del regolamento (UE) n. 1286/2014, ovvero la mancata osservanza delle misure adottate ai sensi dell'articolo 4-sexies, comma 5, nonche' delle misure adottate ai sensi dell'articolo 4-septies, comma 1, e' punita con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro settecentomila con provvedimento adottato dalla Consob o dall'IVASS secondo le rispettive competenze definite ai sensi dell'articolo 4-sexies. Se la violazione e' commessa da una societa' o un ente, e' applicata la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al tre per cento del relativo fatturato quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)). (73) ((135))
 
@@ -12578,7 +12576,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 193-sexies - Sistemi interni di segnalazione
+###### Art. 193-sexies - Sistemi interni di segnalazione
 
 1\. In caso di inosservanza delle disposizioni previste dall'articolo 4-undecies e dalle relative disposizioni attuative, si applica la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, ((comma 2)). In tal caso, fermo restando quanto previsto per le societa' e gli enti nei confronti dei quali sono accertate le violazioni, si applica anche la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni nei confronti degli esponenti aziendali e del personale della societa' o dell'ente nei casi previsti dall'articolo 190-bis, comma 1, lettera a). (73) ((135))
 
@@ -12596,7 +12594,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 194
+###### Art. 194
 
 Deleghe di voto
 
@@ -12630,7 +12628,7 @@ Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le dis
 
 Ha inoltre disposto (con l'art. 10, comma 13) che l'abrogazione del comma 2-quater del presente articolo si applica alle violazioni commesse a partire dal 3 gennaio 2018.
 
-##### Art. 194.1
+###### Art. 194.1
 
 (( (Violazioni di carattere non rilevante).))
 
@@ -12662,7 +12660,7 @@ Entro il medesimo termine, la Banca d'Italia e la Consob, nell'esercizio delle r
 
 Ha inoltre disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 194-bis - Criteri per la determinazione delle sanzioni
+###### Art. 194-bis - Criteri per la determinazione delle sanzioni
 
 1\. Nella determinazione del tipo e dell'ammontare delle sanzioni amministrative pecuniarie o della durata delle sanzioni accessorie previste dal presente decreto, ((a Banca d'Italia e la Consob, secondo le rispettive competenze,)) considerano ogni circostanza rilevante e, in particolare, tenuto conto del fatto che il destinatario della sanzione sia persona fisica o giuridica, le seguenti, ove pertinenti: (66) ((135))
 
@@ -12712,7 +12710,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 194-bis.1
+###### Art. 194-bis.1
 
 (( (Ordine di eliminare le infrazioni contestate. Dichiarazione pubblica).))
 
@@ -12728,7 +12726,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 194-ter - Sanzioni amministrative pecuniarie relative alle violazioni delle disposizioni previste dal regolamento (UE) n. (( 575/2013, dagli atti delegati e dalle norme tecniche di regolamentazione e di attuazione della direttiva 2013/36/UE e del regolamento (UE) n. 575/2013) )) (73
+###### Art. 194-ter - Sanzioni amministrative pecuniarie relative alle violazioni delle disposizioni previste dal regolamento (UE) n. (( 575/2013, dagli atti delegati e dalle norme tecniche di regolamentazione e di attuazione della direttiva 2013/36/UE e del regolamento (UE) n. 575/2013) )) (73
 
 1\. Nelle materie a cui si riferiscono le disposizioni richiamate agli articoli 189, 190, 190.3 e 190-bis, le sanzioni ivi previste si applicano, nella misura, secondo la ripartizione di competenze e con le modalita' ivi stabilite, anche in caso di inosservanza del regolamento UE n. ((575/2013, nonche' degli atti delegati e delle norme tecniche di regolamentazione e di attuazione del medesimo regolamento e della direttiva 2013/36/UE emanate)) dalla Commissione europea ai sensi degli articoli 10 e 15 del regolamento UE n. 1093/2010, ovvero in caso di inosservanza degli atti dell'AESFEM o dell'ABE direttamente applicabili ai soggetti vigilati adottati ai sensi di questi ultimo regolamento o del regolamento UE n. 1095/2010. (73)
 
@@ -12754,7 +12752,7 @@ Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le dis
 
 Ha inoltre disposto (con l'art. 10, comma 13) che le presenti modifiche si applicano alle violazioni commesse a partire dal 3 gennaio 2018.
 
-##### Art. 194-ter.1
+###### Art. 194-ter.1
 
 (( (Sanzioni amministrative pecuniarie relative alle violazioni delle disposizioni previste dal regolamento (UE) 2019/2033, dagli atti delegati e dalle norme tecniche di regolamentazione e di attuazione della direttiva (UE) 2019/2034 e del regolamento (UE) 2019/2033). ))
 
@@ -12762,7 +12760,7 @@ Ha inoltre disposto (con l'art. 10, comma 13) che le presenti modifiche si appli
 
 2\. Si applica l'articolo 187-quinquiesdecies, comma 1-quater.))
 
-##### Art. 194-quater
+###### Art. 194-quater
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 GIUGNO 2026, N. 128)) ((135))
 
@@ -12772,7 +12770,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 194-quinquies
+###### Art. 194-quinquies
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 GIUGNO 2026, N. 128)) ((135))
 
@@ -12782,7 +12780,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 194-sexies
+###### Art. 194-sexies
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 GIUGNO 2026, N. 128)) ((135))
 
@@ -12792,7 +12790,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 194-septies
+###### Art. 194-septies
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 GIUGNO 2026, N. 128)) ((135))
 
@@ -12802,7 +12800,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 195
+###### Art. 195
 
 (( (Procedura sanzionatoria).))
 
@@ -12846,7 +12844,7 @@ Entro il medesimo termine, la Banca d'Italia e la Consob, nell'esercizio delle r
 
 Ha inoltre disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 195.1
+###### Art. 195.1
 
 (( (Principi sulle sanzioni amministrative).))
 
@@ -12868,7 +12866,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 195.2
+###### Art. 195.2
 
 (( (Concorso di sanzioni amministrative di competenza della Banca d'Italia e della Consob).))
 
@@ -12890,7 +12888,7 @@ Entro il medesimo termine, la Banca d'Italia e la Consob, nell'esercizio delle r
 
 Ha inoltre disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 195-bis
+###### Art. 195-bis
 
 (( (Pubblicazione delle sanzioni).))
 
@@ -12914,7 +12912,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 195-ter
+###### Art. 195-ter
 
 Comunicazione all'ABE e all'AESFEM sulle sanzioni applicate
 
@@ -12950,7 +12948,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 195-quater - Sanzioni in caso di risoluzione
+###### Art. 195-quater - Sanzioni in caso di risoluzione
 
 1\. Nei confronti delle Sim disciplinate dal Capo II-bis della Parte II, Titolo IV e delle succursali stabilite in Italia delle imprese di paesi terzi diverse dalle banche che svolgono le attivita' indicate all'articolo 55-bis la Banca d'Italia applica la sanzione amministrativa pecuniaria prevista dall'articolo 190, comma 1, per l'inosservanza degli articoli 9, 15, 16, 19, comma 1, 33, comma 6, 50, 58, 59, 60, comma 1, lettere a) ed h), 68-bis, 70, commi 2 e 3, 80, comma 1, 82 e 83 del decreto legislativo 16 novembre 2015, n. 180, in quanto applicabili ai sensi del presente decreto legislativo, o delle relative disposizioni generali o particolari emanate dalla Banca d'Italia. (73) (108)
 
@@ -12984,7 +12982,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 195-quinquies
+###### Art. 195-quinquies
 
 (( (Inapplicabilita' di specifiche disposizioni della legge 24 novembre 1981, n. 689). ))
 
@@ -13002,7 +13000,7 @@ Il D.Lgs. 3 agosto 2017, n. 129 ha disposto (con l'art. 10, comma 2) che "Le dis
 
 Ha inoltre disposto (con l'art. 10, comma 13) che la presente modifica si applica alle violazioni commesse a partire dal 3 gennaio 2018.
 
-##### Art. 196 - Sanzioni applicabili ai consulenti finanziari) (73
+###### Art. 196 - Sanzioni applicabili ai consulenti finanziari) (73
 
 1\. I soggetti iscritti all'albo di cui all'articolo 31, comma 4 che violano le norme del presente decreto o le disposizioni generali o particolari emanate in forza di esso, sono puniti, in base alla gravita' della violazione e tenuto conto dell'eventuale recidiva, con una delle seguenti sanzioni: (73)
 
@@ -13042,7 +13040,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 196-bis
+###### Art. 196-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 GIUGNO 2026, N. 128)) ((135))
 
@@ -13052,9 +13050,9 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-## ((TITOLO II-bis)) - ((DISPOSIZIONI COMUNI))
+### ((TITOLO II-bis)) - ((DISPOSIZIONI COMUNI))
 
-##### Art. 196-ter
+###### Art. 196-ter
 
 (( (Impegni).))
 
@@ -13088,7 +13086,7 @@ Entro il medesimo termine, la Banca d'Italia e la Consob, nell'esercizio delle r
 
 Ha inoltre disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 196-quater
+###### Art. 196-quater
 
 (( (Applicazione concordata delle sanzioni amministrative).))
 
@@ -13120,7 +13118,7 @@ Entro il medesimo termine, la Banca d'Italia e la Consob, nell'esercizio delle r
 
 Ha inoltre disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 196-quinquies
+###### Art. 196-quinquies
 
 (( (Pagamento in misura ridotta).))
 
@@ -13150,7 +13148,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 196-sexies
+###### Art. 196-sexies
 
 (( (Disposizioni di attuazione).))
 
@@ -13168,7 +13166,7 @@ Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le d
 
 ## PARTE VI - DISPOSIZIONI TRANSITORIE E FINALI
 
-##### Art. 197
+###### Art. 197
 
 Personale della CONSOB
 
@@ -13182,7 +13180,7 @@ funzioni di controllo previste dall'articolo 62 della legge 27 dicembre 1997, n.
 
 > "Art. 62 (Organico della CONSOB). - 1. Al fine di realizzare le funzioni di controllo attribuite dal decreto legislativo 23 luglio 1996, n. 415, nonche' quelle che deriveranno a seguito dell'entrata in vigore dell'emanando testo unico sulla finanza di cui all'art. 8 della legge 6 febbraio 1996, n. 52, la Commissione nazionale per le societa' e la borsa (CONSOB) provvedera' al completamento del proprio organico, come rideterminato dall'art. 2, comma 186, della legge 23 dicembre 1996, n. 662, mediante concorsi pubblici, per titoli ed esami, con richiesta di rigorosi requisiti di competenza ed esperienza, e per un numero di posti non superiori a sessanta unita' mediante una procedura concorsuale interna, fermo restando quanto disposto dall'art. 39, comma 3.
 
-##### Art. 198
+###### Art. 198
 
 Girata di titoli azionari
 
@@ -13210,7 +13208,7 @@ Girata di titoli azionari
 
 > Nessuna imposta di registro o bollo e' dovuta per le girate".
 
-##### Art. 199
+###### Art. 199
 
 (( (Societa' fiduciarie).))
 
@@ -13230,7 +13228,7 @@ Il D.Lgs. 14 dicembre 2010, n. 218, nel modificare il D.Lgs. 13 agosto 2010, n. 
 
 Ha inoltre disposto (con l'art. 16, comma 8) che "Le disposizioni modificate, introdotte o sostituite dal presente decreto si applicano a decorrere dalla data di entrata in vigore dei corrispondenti articoli del decreto legislativo 13 agosto 2010, n. 141. I termini di conclusione dei procedimenti amministrativi, stabiliti da norme di legge o di regolamento, pendenti alla data del 19 settembre 2010, sono prorogati fino a 120 giorni successivi alla data di entrata in vigore del presente decreto".
 
-##### Art. 200
+###### Art. 200
 
 Intermediari gia' autorizzati
 
@@ -13286,7 +13284,7 @@ decreto sono autorizzate a prestare servizi di investimento restano autorizzate 
 
 > (Omissis)".
 
-##### Art. 201
+###### Art. 201
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 GIUGNO 2026, N. 128)) ((135))
 
@@ -13296,7 +13294,7 @@ AGGIORNAMENTO (135)
 
 Il D.Lgs. 25 giugno 2026, n. 128, ha disposto (con l'art. 10, comma 4) che "Le disposizioni del testo unico di cui al decreto legislativo n. 58 del 1998, introdotte ovvero modificate dal presente decreto, incluse quelle indicate al comma 2, si applicano, anche se riferite a violazioni commesse prima della data di entrata in vigore del presente decreto, ai procedimenti sanzionatori avviati successivamente alla relativa data di applicazione".
 
-##### Art. 202
+###### Art. 202
 
 ((ARTICOLO ABROGATO DAL D.LGS. 24 MARZO 2011, N. 48))
 
@@ -13308,7 +13306,7 @@ AGGIORNAMENTO (40)
 
 Il D.Lgs. 24 marzo 2011, n. 48 ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto legislativo, ad eccezione di quella contenuta nell'articolo 3, si applicano a decorrere dal 30 giugno 2011".
 
-##### Art. 203
+###### Art. 203
 
 Contratti a termine
 
@@ -13328,7 +13326,7 @@ agli strumenti finanziari e alle operazioni indicati nel comma 1, puo' farsi rif
 
 > "Art. 76 (Contratto di borsa a termine). - Il contratto di borsa a termine, se il termine scade dopo la dichiarazione di fallimento di uno dei contraenti, e' risolto alla data della dichiarazione di fallimento. La differenza fra il prezzo contrattuale e il valore delle cose o dei titoli alla data di dichiarazione di fallimento e' versata nel fallimento se il fallito risulta in credito, o e' ammessa al passivo del fallimento nel caso contrario.
 
-##### Art. 204
+###### Art. 204
 
 Gestione accentrata
 
@@ -13340,13 +13338,13 @@ presente decreto, la Banca d'Italia promuove la vendita della partecipazione al 
 
 gestione accentrata dei titoli di Stato presso la Banca d'Italia resta disciplina dalle previgenti disposizioni.
 
-##### Art. 205
+###### Art. 205
 
 Quotazioni di prezzi
 
 ((1. Le offerte di acquisto e di vendita di prodotti finanziari effettuate in mercati regolamentati, nei sistemi multilaterali di negoziazione e, se ricorrono le condizioni indicate dalla Consob con regolamento, da internalizzatori sistematici non costituiscono offerta al pubblico di prodotti finanziari ne' offerta pubblica di acquisto o di scambio ai sensi della parte IV, titolo II.))
 
-##### Art. 206
+###### Art. 206
 
 Disposizioni applicabili alle societa' alle societa' quotate in mercati diversi dalla borsa
 
@@ -13354,7 +13352,7 @@ Disposizioni applicabili alle societa' alle societa' quotate in mercati diversi 
 
 azioni quotate in borsa si applicano a tutte le societa' con azioni quotate in mercati regolamentati italiani o di altri paesi dell'Unione Europea.
 
-##### Art. 207
+###### Art. 207
 
 Patti parasociali
 
@@ -13366,7 +13364,7 @@ data di entrata in vigore del medesimo articolo sono depositati presso il regist
 
 3\. Salvo quanto previsto dal comma 2, l'articolo 123 si applica ai patti anche a tempo indeterminato esistenti alla data di entrata in vigore del presente decreto.
 
-##### Art. 208
+###### Art. 208
 
 Deleghe di voto, azioni di risparmio, collegio sindacale e revisione contabile
 
@@ -13386,7 +13384,7 @@ presente decreto ma successivamente alla sua pubblicazione nella Gazzetta Uffici
 
 5\. Le altre disposizioni in materia di collegio sindacale e quelle in materia di societa' di revisione si applicano a partire dall'esercizio sociale che inizia il 1 luglio 1998 o successivamente a tale data.
 
-##### Art. 209
+###### Art. 209
 
 Societa' di revisione
 
@@ -13478,7 +13476,7 @@ istituito presso il Ministero di grazia e giustizia il termine previsto dall'art
 
 > Le disposizioni dei commi precedenti valgono, in quanto applicabili, anche per i redditi delle imprese minori e per quelli derivanti dall'esercizio di arti e professioni, con riferimento alle scritture contabili rispettivamente indicate negli articoli 18 e 19. Il reddito d'impresa dei soggetti indicati nel quarto comma dell'art. 18, che non hanno provveduto agli adempimenti contabili di cui ai precedenti commi dello stesso articolo, e' determinato in ogni caso ai sensi del secondo comma del presente articolo.
 
-##### Art. 210
+###### Art. 210
 
 Modifiche al codice civile
 
@@ -13554,7 +13552,7 @@ disposizioni transitorie, approvate con regio decreto 30 marzo 1942, n. 318, e' 
 
 > 10 milioni".
 
-##### Art. 211
+###### Art. 211
 
 Modifiche al T.U. bancario
 
@@ -13620,7 +13618,7 @@ comma:
 
 > dall'art. 107, comma 6".
 
-##### Art. 212
+###### Art. 212
 
 Disposizioni in materia di privatizzazioni
 
@@ -13636,7 +13634,7 @@ Disposizioni in materia di privatizzazioni
 
 > 3\. Le clausole statutarie introdotte ai sensi del comma 1 del presente articolo, nonche' quelle introdotte al fine di assicurare la tutela di minoranze azionarie, non possono essere modificate per un periodo di tre anni dall'iscrizione delle relative delibere assembleari. La clausola che prevede un limite di possesso decade comunque allorche' il limite sia superato per effetto di una offerta pubblica di acquisto promossa ai sensi degli articoli 106 o 107 del testo unico delle disposizioni in materia di mercati finanziari, emanato ai sensi dell'art. 21 della legge 6 febbraio 1996, n. 52".
 
-##### Art. 213
+###### Art. 213
 
 Conversione del fallimento in liquidazione coatta amministrativa
 
@@ -13648,7 +13646,7 @@ Conversione del fallimento in liquidazione coatta amministrativa
 
 Restano salvi gli effetti degli atti legalmente compiuti.
 
-##### Art. 214
+###### Art. 214
 
 Abrogazioni
 
@@ -13770,7 +13768,7 @@ La L. 25 giugno 1999, n. 205 ha disposto (con l'art. 15, comma 2)
 
 che "La legge 28 dicembre 1993, n. 561, per le parti diverse da quelle indicate nel capoverso del comma 1, si considera non abrogata dall'articolo 214 del decreto legislativo 24 febbraio 1998, n. 58".
 
-##### Art. 215
+###### Art. 215
 
 Disposizioni di attuazione
 
@@ -13778,7 +13776,7 @@ Disposizioni di attuazione
 
 carattere generale da emanarsi ai sensi del presente decreto sono adottati entro sei mesi dalla data di entrata in vigore del medesimo.
 
-##### Art. 216
+###### Art. 216
 
 Entrata in vigore
 
@@ -13808,7 +13806,7 @@ VISTO, il Guardasigilli: FLICK
 
 ## PARTE VI - DISPOSIZIONI TRANSITORIE E FINALI
 
-##### Allegato
+###### Allegato
 
 ((Allegato I
 

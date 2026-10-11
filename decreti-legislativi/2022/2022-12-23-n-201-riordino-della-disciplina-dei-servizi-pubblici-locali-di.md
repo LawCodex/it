@@ -44,11 +44,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I - Principi generali, ambito di applicazione e rapporti con le
+## Titolo I - Principi generali, ambito di applicazione e rapporti con le discipline di settore
 
-### discipline di settore
-
-##### Art. 1
+#### Art. 1
 
 Oggetto
 
@@ -158,7 +156,7 @@ Oggetto
 
 > \- La legge costituzionale del 18 ottobre 2001, n. 3 (Modifiche al titolo V della parte seconda della Costituzione), e' pubblicata nella Gazzetta Ufficiale 24 ottobre 2001 n. 248.
 
-##### Art. 2
+#### Art. 2
 
 Definizioni
 
@@ -212,7 +210,7 @@ i) «costi efficienti»: costi di un'impresa media del settore gestita in modo e
 
 > 6-bis. Le disposizioni del presente articolo e le altre disposizioni, comprese quelle di carattere speciale, in materia di servizi pubblici locali a rete di rilevanza economica si intendono riferite, salvo deroghe espresse, anche al settore dei rifiuti urbani e ai settori sottoposti alla regolazione ad opera di un'autorita' indipendente.»
 
-##### Art. 3
+#### Art. 3
 
 Principi generali del servizio pubblico locale
 
@@ -222,17 +220,15 @@ Principi generali del servizio pubblico locale
 
 3\. Nell'organizzazione e nella erogazione dei servizi di interesse economico generale di livello locale e' assicurata la centralita' del cittadino e dell'utente, anche favorendo forme di partecipazione attiva.
 
-##### Art. 4
+#### Art. 4
 
 Ambito di applicazione e normative di settore
 
 1\. Le disposizioni del presente decreto si applicano a tutti i servizi di interesse economico generale prestati a livello locale, integrano le normative di settore e, in caso di contrasto, prevalgono su di esse, nel rispetto del diritto dell'Unione Europea e salvo che non siano previste nel presente decreto specifiche norme di salvaguardia e prevalenza della disciplina di settore.
 
-## Titolo II - Organizzazione e riparto delle funzioni in materia di servizi
+## Titolo II - Organizzazione e riparto delle funzioni in materia di servizi pubblici locali
 
-### pubblici locali
-
-##### Art. 5
+#### Art. 5
 
 Meccanismi di incentivazione delle aggregazioni
 
@@ -254,7 +250,7 @@ Meccanismi di incentivazione delle aggregazioni
 
 > \- Per i riferimenti del decreto legislativo n. 267 del 18 agosto 2000 si veda nelle note all'art. 2.
 
-##### Art. 6
+#### Art. 6
 
 Distinzione tra funzioni di regolazione e gestione nell'assetto organizzativo degli enti locali. Incompatibilita' e inconferibilita'
 
@@ -298,7 +294,7 @@ c) ai consulenti per l'organizzazione o regolazione del servizio.
 
 > «Art. 6-bis (Conflitto di interessi). - 1. Il responsabile del procedimento e i titolari degli uffici competenti ad adottare i pareri, le valutazioni tecniche, gli atti endoprocedimentali e il provvedimento finale devono astenersi in caso di conflitto di interessi, segnalando ogni situazione di conflitto, anche potenziale.».
 
-##### Art. 7
+#### Art. 7
 
 Competenze delle autorita' di regolazione
 
@@ -312,7 +308,7 @@ nei servizi pubblici locali a rete
 
 4\. Alle attivita' di cui al presente articolo si provvede mediante le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
-##### Art. 8
+#### Art. 8
 
 Competenze regolatorie nei servizi pubblici locali non a rete
 
@@ -320,7 +316,7 @@ Competenze regolatorie nei servizi pubblici locali non a rete
 
 2\. Gli enti locali, sulla base degli atti e degli indicatori di cui al comma 1, al fine di provvedere alla regolazione dei servizi pubblici locali non a rete di loro titolarita', possono adottare un regolamento ovvero un atto generale in cui predefiniscono condizioni, principi, obiettivi e standard della gestione nel rispetto di quanto disposto dal presente decreto, assicurando la trasparenza e la diffusione dei dati della gestione. I contratti di servizio e gli altri atti di regolazione del rapporto contrattuale assicurano il rispetto delle condizioni, dei principi, degli obiettivi e degli standard fissati dal predetto regolamento o atto generale.
 
-##### Art. 9
+#### Art. 9
 
 Misure di coordinamento in materia
 
@@ -348,11 +344,9 @@ di servizi pubblici locali
 
 ## Titolo III - Istituzione e organizzazione dei servizi pubblici locali di rilevanza economica
 
-### Capo I
+### Capo I - Istituzione del servizio pubblico locale
 
-#### Istituzione del servizio pubblico locale
-
-##### Art. 10
+#### Art. 10
 
 Perimetro del servizio pubblico locale
 
@@ -368,13 +362,13 @@ e principio di sussidiarieta'
 
 5\. La deliberazione di istituzione del servizio da' conto degli esiti dell'istruttoria di cui al comma 4 e puo' essere sottoposta a consultazione pubblica prima della sua adozione.
 
-##### Art. 11
+#### Art. 11
 
 Promozione e sostegno degli utenti
 
 1\. Nei casi in cui, in esito alla verifica di cui all'articolo 10, comma 4, non risulti necessaria l'istituzione di un servizio pubblico, l'ente locale puo' comunque promuovere iniziative per assicurare un adeguato soddisfacimento dei bisogni degli utenti, ferma restando la liberta' di impresa degli operatori. Tali iniziative possono includere, nel rispetto dei principi di parita' di trattamento e non discriminazione e della normativa europea sugli aiuti di Stato, il riconoscimento agli utenti di vantaggi economici, titoli o altre agevolazioni ai fini della fruizione del servizio.
 
-##### Art. 12
+#### Art. 12
 
 Obblighi di servizio pubblico
 
@@ -382,15 +376,15 @@ per gli operatori sul mercato
 
 1\. Nei casi in cui, in esito alla verifica di cui all'articolo 10, comma 4, risulti necessaria l'istituzione di un servizio pubblico per garantire le esigenze delle comunita' locali, l'ente locale verifica se la prestazione del servizio possa essere assicurata attraverso l'imposizione di obblighi di servizio pubblico a carico di uno o piu' operatori, senza restrizioni del numero di soggetti abilitati a operare sul mercato, dandone adeguatamente conto nella deliberazione di cui all'articolo 10, comma 5, nella quale sono indicate le eventuali compensazioni economiche.
 
-##### Art. 13
+#### Art. 13
 
 Limitazioni nella istituzione e nel mantenimento di diritti speciali o esclusivi
 
 1\. L'attribuzione di diritti speciali o esclusivi e' ammessa, in conformita' al diritto dell'Unione europea, solo se indispensabile all'adempimento della funzione affidata al gestore del servizio pubblico locale di rilevanza economica, in assenza di misure meno restrittive della liberta' d'impresa e sulla base di un'adeguata analisi economica. L'ente locale da' conto dell'analisi e della valutazione circa la necessita' di attribuire diritti speciali o esclusivi nella deliberazione di cui all'articolo 10, comma 5.
 
-## Capo II - Forme di gestione del servizio pubblico locale
+### Capo II - Forme di gestione del servizio pubblico locale
 
-##### Art. 14
+#### Art. 14
 
 Scelta della modalita' di gestione
 
@@ -484,13 +478,13 @@ d) limitatamente ai servizi diversi da quelli a rete, gestione in economia o med
 
 > \- Il decreto legislativo 27 gennaio 2010, n. 39 (Attuazione della direttiva 2006/43/CE, relativa alle revisioni legali dei conti annuali e dei conti consolidati, che modifica le direttive 78/660/CEE e 83/349/CEE, e che abroga la direttiva 84/253/CEE), e' pubblicato nella Gazzetta Ufficiale 23 marzo 2010, n. 68, S.O. n. 58.
 
-##### Art. 15
+#### Art. 15
 
 Affidamento mediante procedura a evidenza pubblica
 
 1\. Gli enti locali e gli altri enti competenti affidano i servizi di interesse economico generale di livello locale secondo la disciplina in materia di contratti pubblici, favorendo, ove possibile in relazione alle caratteristiche del servizio da erogare, il ricorso a concessioni di servizi rispetto ad appalti pubblici di servizi, in modo da assicurare l'effettivo trasferimento del rischio operativo in capo all'operatore.
 
-##### Art. 16
+#### Art. 16
 
 Affidamento a societa' mista
 
@@ -528,7 +522,7 @@ Affidamento a societa' mista
 
 > c) la societa' provvede in via diretta alla realizzazione dell'opera o del servizio, in misura superiore al 70% del relativo importo.».
 
-##### Art. 17
+#### Art. 17
 
 Affidamento a societa' in house
 
@@ -584,7 +578,7 @@ Affidamento a societa' in house
 
 > \- Per i riferimenti al decreto legislativo 27 gennaio 2010, n. 39 (Attuazione della direttiva 2006/43/CE, relativa alle revisioni legali dei conti annuali e dei conti consolidati, che modifica le direttive 78/660/CEE e 83/349/CEE, e che abroga la direttiva 84/253/CEE) si veda nelle note all'art. 14.
 
-##### Art. 18
+#### Art. 18
 
 Rapporti di partenariato con gli enti del Terzo settore
 
@@ -598,7 +592,7 @@ Rapporti di partenariato con gli enti del Terzo settore
 
 > \- Il decreto legislativo 3 luglio 2017, n. 117 (Codice del Terzo settore, a norma dell'articolo 1, comma 2, lettera b), della legge 6 giugno 2016, n. 106) e' pubblicato nella Gazzetta Ufficiale 2 agosto 2017, n. 179, S.O n. 43.
 
-##### Art. 19
+#### Art. 19
 
 Durata dell'affidamento e indennizzo
 
@@ -606,17 +600,15 @@ Durata dell'affidamento e indennizzo
 
 2\. Fatte salve le discipline di settore e nel rispetto del diritto dell'Unione europea, in caso di durata dell'affidamento inferiore al tempo necessario ad ammortizzare gli investimenti indicati nel contratto di servizio ovvero in caso di cessazione anticipata, e' riconosciuto in favore del gestore uscente un indennizzo, da porre a carico del subentrante, pari al valore contabile degli investimenti non ancora integralmente ammortizzati, rivalutato in base agli indici ISTAT e al netto di eventuali contributi pubblici direttamente riferibili agli investimenti stessi.
 
-##### Art. 20
+#### Art. 20
 
 Tutele sociali
 
 1\. I bandi di gara, gli avvisi o la deliberazione di cui all'articolo 17, comma 2, assicurano, nel rispetto del principio di proporzionalita', la tutela occupazionale del personale impiegato nella precedente gestione, anche mediante l'impiego di apposite clausole sociali, secondo la disciplina in materia di contratti pubblici.
 
-## Titolo IV - Disciplina delle reti, degli impianti e delle altre dotazioni
+## Titolo IV - Disciplina delle reti, degli impianti e delle altre dotazioni patrimoniali
 
-### patrimoniali
-
-##### Art. 21
+#### Art. 21
 
 Gestione delle reti, degli impianti e delle altre dotazioni
 
@@ -630,7 +622,7 @@ Gestione delle reti, degli impianti e delle altre dotazioni
 
 5\. Gli enti locali, anche in forma associata, nei casi in cui non sia vietato dalle normative di settore, possono conferire la proprieta' delle reti, degli impianti, e delle altre dotazioni patrimoniali a societa' a capitale interamente pubblico, che e' incedibile. Tali societa' pongono le reti, gli impianti e le altre dotazioni patrimoniali a disposizione dei gestori incaricati della gestione del servizio o, ove prevista la gestione separata della rete, dei gestori di quest'ultima, a fronte di un canone stabilito dalla competente autorita' di settore, ove prevista, o dagli enti locali. Alle societa' di cui al presente comma che abbiano i requisiti delle societa' in house, gli enti locali possono assegnare la gestione delle reti ai sensi dell'articolo 14, comma 1, lettera c).
 
-##### Art. 22
+#### Art. 22
 
 Esecuzione di lavori connessi alla gestione
 
@@ -638,17 +630,15 @@ Esecuzione di lavori connessi alla gestione
 
 2\. Nei casi in cui la gestione della rete, degli impianti o delle altre dotazioni patrimoniali, separata o integrata con l'erogazione dei servizi, risulti affidata, alla data di entrata in vigore del presente decreto, con modalita' diverse da quelle previste dall'articolo 14, comma 1, i soggetti gestori provvedono all'esecuzione dei lavori comunque connessi alla gestione della rete, degli impianti o delle altre dotazioni patrimoniali esclusivamente secondo le modalita' previste dalla disciplina in materia di contratti pubblici.
 
-##### Art. 23
+#### Art. 23
 
 Regime del subentro in caso di scadenza dell'affidamento o cessazione anticipata
 
 1\. Alla scadenza del periodo di affidamento o in caso di cessazione anticipata, all'esito del nuovo affidamento, il nuovo gestore subentra nella disponibilita' delle reti degli impianti e delle altre dotazioni patrimoniali essenziali per lo svolgimento del servizio. Si applicano le disposizioni in tema di indennizzo del gestore uscente di cui all'articolo 19, comma 2.
 
-## Titolo V - Regolazione del rapporto di pubblico servizio, vigilanza e tutela
+## Titolo V - Regolazione del rapporto di pubblico servizio, vigilanza e tutela dell'utenza
 
-### dell'utenza
-
-##### Art. 24
+#### Art. 24
 
 Contratto di servizio
 
@@ -702,7 +692,7 @@ d) le modalita' di ristoro dell'utenza, in caso di violazione dei livelli qualit
 
 > «Art. 50-quater (Disponibilita' dei dati generati nella fornitura di servizi in concessione). - 1. Al fine di promuovere la valorizzazione del patrimonio informativo pubblico, per fini statistici e di ricerca e per lo svolgimento dei compiti istituzionali delle pubbliche amministrazioni, nei contratti e nei capitolati con i quali le pubbliche amministrazioni affidano lo svolgimento di servizi in concessione e' previsto l'obbligo del concessionario di rendere disponibili all'amministrazione concedente, che a sua volta li rende disponibili alle altre pubbliche amministrazioni per i medesimi fini e nel rispetto dell'art. 50, tutti i dati acquisiti e generati nella fornitura del servizio agli utenti e relativi anche all'utilizzo del servizio medesimo da parte degli utenti, come dati di tipo aperto ai sensi dell'art. 1, comma 1, lettera l-ter), nel rispetto delle linee guida adottate da AgID, sentito il Garante per la protezione dei dati personali.».
 
-##### Art. 25
+#### Art. 25
 
 Carta dei servizi e obblighi di trasparenza dei gestori
 
@@ -728,7 +718,7 @@ Carta dei servizi e obblighi di trasparenza dei gestori
 
 > f) previsione che le attivita' di cui alle lettere b), c) e d) siano finanziate con un prelievo a carico dei soggetti gestori del servizio, predeterminato nel contratto di servizio per l'intera durata del contratto stesso.».
 
-##### Art. 26
+#### Art. 26
 
 Tariffe
 
@@ -758,7 +748,7 @@ d) obiettivi di qualita' del servizio prefissati, definiti secondo parametri mis
 
 5\. Gli enti affidanti possono prevedere che l'aggiornamento della tariffa sia effettuato con metodi diversi da quello di cui al comma 4 nelle ipotesi in cui, in relazione alle caratteristiche del servizio, tale scelta risulti, sulla base di adeguata motivazione, maggiormente funzionale al raggiungimento degli obiettivi di miglioramento della qualita' e dell'efficienza del servizio.
 
-##### Art. 27
+#### Art. 27
 
 Vicende del rapporto
 
@@ -768,7 +758,7 @@ Vicende del rapporto
 
 3\. E' in ogni caso fatto salvo il potere dell'ente affidante di risolvere anticipatamente il rapporto in caso di grave inadempimento agli obblighi di servizio pubblico e alle obbligazioni previste dal contratto di servizio.
 
-##### Art. 28
+#### Art. 28
 
 Vigilanza e controlli sulla gestione
 
@@ -782,7 +772,7 @@ L'inadempimento agli obblighi informativi posti in capo al gestore costituisce o
 
 4\. L'ente affidante, nel rispetto della disciplina sui segreti commerciali e sulle informazioni confidenziali delle imprese, puo' rendere pubblici i dati e le informazioni di cui al comma 3.
 
-##### Art. 29
+#### Art. 29
 
 Rimedi non giurisdizionali
 
@@ -794,7 +784,7 @@ Rimedi non giurisdizionali
 
 > «Risoluzione extragiudiziale delle controversie».
 
-##### Art. 30
+#### Art. 30
 
 Verifiche periodiche sulla situazione gestionale dei servizi pubblici locali
 
@@ -816,7 +806,7 @@ c) almeno due indicatori di qualita' del servizio erogato risultano significativ
 
 3\. In sede di prima applicazione, la ricognizione di cui al primo periodo e' effettuata entro dodici mesi dalla data di entrata in vigore del presente decreto.
 
-##### Art. 31
+#### Art. 31
 
 Trasparenza nei servizi pubblici locali
 
@@ -838,7 +828,7 @@ c) gli atti e gli indicatori cui agli articoli 7, 8 e 9, nonche', ove disponibil
 
 6\. Gli enti locali, le amministrazioni statali, le Regioni e le Autorita' di regolazione hanno accesso alla piattaforma dell'ANAC, ai sensi dell'articolo 50 del decreto legislativo 7 marzo 2005, n. 82, anche al fine di esercitare i poteri di verifica e monitoraggio rispettivamente attribuiti dalla normativa vigente.
 
-##### Art. 31-bis - Sanzioni
+#### Art. 31-bis - Sanzioni
 
 1\. L'ANAC applica la sanzione amministrativa pecuniaria prevista dall'articolo 20, comma 7, del testo unico in materia di societa' a partecipazione pubblica, di cui al decreto legislativo 19 agosto 2016, n. 175, in caso di:
 
@@ -852,7 +842,7 @@ c) mancata adozione da parte dell'ente locale dell'atto di indirizzo ai sensi de
 
 ## Titolo VI - Disposizioni finali
 
-##### Art. 32
+#### Art. 32
 
 Disposizioni di coordinamento in materia
 
@@ -870,7 +860,7 @@ di trasporto pubblico locale
 
 > \- Il regolamento (CE) del Parlamento europeo e del Consiglio del 23 ottobre 2007, n. 1370 (Regolamento del Parlamento europeo e del Consiglio relativo ai servizi pubblici di trasporto di passeggeri su strada e per ferrovia e che abroga i regolamenti del Consiglio (CEE) n. 1191/69 e (CEE) n. 1107/70) e' pubblicato nella GUUE del 3.12.2007 n. L 315.
 
-##### Art. 33
+#### Art. 33
 
 Disposizioni di coordinamento in materia di servizio idrico e di gestione dei rifiuti urbani
 
@@ -924,7 +914,7 @@ Disposizioni di coordinamento in materia di servizio idrico e di gestione dei ri
 
 > f) considerazione delle precedenti delimitazioni affinche' i nuovi ATO si discostino dai precedenti solo sulla base di motivate esigenze di efficacia, efficienza ed economicita'.».
 
-##### Art. 34
+#### Art. 34
 
 Disposizioni di coordinamento in materia di farmacie
 
@@ -994,13 +984,13 @@ Disposizioni di coordinamento in materia di farmacie
 
 > 32\. I collegi dei revisori e gli organi di controllo interno delle amministrazioni e dei soggetti interessati dai processi di cui ai commi 30 e 31 asseverano il trasferimento delle risorse umane e finanziarie e trasmettono una relazione alla Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica e al Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato, segnalando eventuali inadempimenti anche alle sezioni competenti della Corte dei conti.».
 
-##### Art. 35
+#### Art. 35
 
 Disposizioni di coordinamento in materia di servizi di distribuzione dell'energia elettrica e del gas naturale
 
 1\. Le disposizioni del presente decreto non si applicano ai servizi di distribuzione dell'energia elettrica e del gas naturale, i quali restano disciplinati dalle rispettive disposizioni di settore attuative del diritto dell'Unione europea.
 
-##### Art. 36
+#### Art. 36
 
 Disposizioni di coordinamento in materia
 
@@ -1008,7 +998,7 @@ di impianti di trasporti a fune
 
 1\. Le disposizioni del presente decreto non si applicano agli impianti di trasporti a fune per la mobilita' turistico-sportiva in aree montane.
 
-##### Art. 37
+#### Art. 37
 
 Abrogazioni e ulteriori disposizioni di coordinamento
 
@@ -1104,7 +1094,7 @@ h) l'articolo 34, commi 20, 21, e 25, del decreto-legge 18 ottobre 2012, n. 179,
 
 > 2.-6-bis. (omissis).».
 
-##### Art. 38
+#### Art. 38
 
 Clausola di invarianza finanziaria
 
@@ -1112,7 +1102,7 @@ Clausola di invarianza finanziaria
 
 2\. Le amministrazioni interessate provvedono agli adempimenti previsti dal presente decreto con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-##### Art. 39
+#### Art. 39
 
 Entrata in vigore
 

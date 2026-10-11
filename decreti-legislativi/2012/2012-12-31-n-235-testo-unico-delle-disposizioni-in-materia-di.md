@@ -53,13 +53,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Cause ostative all'assunzione e allo svolgimento delle cariche di deputato, senatore e di membro del Parlamento europeo spettante all'Italia
 
-### Cause ostative all'assunzione e allo svolgimento delle cariche di - deputato, senatore e di membro del Parlamento europeo spettante
-
-#### all'Italia
-
-##### Art. 1
+### Art. 1
 
 Incandidabilita' alle elezioni della Camera dei deputati e del Senato della Repubblica
 
@@ -191,7 +187,7 @@ c) coloro che hanno riportato condanne definitive a pene superiori a due anni di
 
 > "Art. 278. (Determinazione della pena agli effetti dell'applicazione delle misure). 1. Agli effetti dell'applicazione delle misure, si ha riguardo alla pena stabilita dalla legge per ciascun reato consumato o tentato. Non si tiene conto della continuazione, della recidiva e delle circostanze del reato, fatta eccezione della circostanza aggravante prevista al numero 5) dell'articolo 61 del codice penale e della circostanza attenuante prevista dall'articolo 62 n. 4 del codice penale nonche' delle circostanze per le quali la legge stabilisce una pena di specie diversa da quella ordinaria del reato e di quelle ad effetto speciale."
 
-##### Art. 2
+### Art. 2
 
 Accertamento dell'incandidabilita' in occasione delle elezioni della Camera dei deputati e del Senato della Repubblica.
 
@@ -279,7 +275,7 @@ Accertamento dell'incandidabilita' in occasione delle elezioni della Camera dei 
 
 > Le decisioni dell'Ufficio centrale nazionale sono comunicate nelle 24 ore ai ricorrenti ed agli Uffici centrali circoscrizionali.».
 
-##### Art. 3
+### Art. 3
 
 Incandidabilita' sopravvenuta nel corso del mandato elettivo parlamentare
 
@@ -307,13 +303,13 @@ Incandidabilita' sopravvenuta nel corso del mandato elettivo parlamentare
 
 > 4-bis. Se l'esecuzione concerne piu' provvedimenti emessi dal tribunale in composizione monocratica e collegiale, l'esecuzione e' attribuita in ogni caso al collegio.».
 
-##### Art. 4
+### Art. 4
 
 Incandidabilita' alla carica di membro del Parlamento europeo spettante all'Italia
 
 1\. Non possono essere candidati e non possono comunque ricoprire la carica di membro del Parlamento europeo spettante all'Italia coloro che si trovano nelle condizioni di incandidabilita' stabilite dall'articolo 1.
 
-##### Art. 5
+### Art. 5
 
 Accertamento ed operativita' dell'incandidabilita' in occasione delle elezioni dei membri del Parlamento europeo spettanti all'Italia.
 
@@ -367,11 +363,9 @@ Accertamento ed operativita' dell'incandidabilita' in occasione delle elezioni d
 
 > \- Per il testo dell'art. 665 del codice di procedura penale, si veda la nota all'art. 3.
 
-## Capo II
+## Capo II - Cause ostative all'assunzione e allo svolgimento di incarichi di Governo
 
-### Cause ostative all'assunzione e allo svolgimento di incarichi di - Governo
-
-##### Art. 6
+### Art. 6
 
 Divieto di assunzione e svolgimento di incarichi di Governo nazionale
 
@@ -399,11 +393,9 @@ Divieto di assunzione e svolgimento di incarichi di Governo nazionale
 
 > \- Per il testo dell'art. 665 del codice di procedura penale, si veda la nota all'art. 3.
 
-## Capo III
+## Capo III - Incandidabilita' alle cariche elettive regionali
 
-### Incandidabilita' alle cariche elettive regionali
-
-##### Art. 7
+### Art. 7
 
 Incandidabilita' alle elezioni regionali
 
@@ -601,7 +593,7 @@ f) coloro nei cui confronti il tribunale ha applicato, con provvedimento definit
 
 > i) alle persone indiziate di avere agevolato gruppi o persone che hanno preso parte attiva, in piu' occasioni, alle manifestazioni di violenza di cui all'articolo 6 della legge 13 dicembre 1989, n. 401.».
 
-##### Art. 8
+### Art. 8
 
 Sospensione e decadenza di diritto per incandidabilita' alle cariche regionali
 
@@ -663,7 +655,7 @@ c) coloro nei cui confronti l'autorita' giudiziaria ha applicato, con provvedime
 
 > 2\. Si applicano le disposizioni dell'articolo 285 commi 2 e 3."
 
-##### Art. 9
+### Art. 9
 
 Cancellazione dalle liste per incandidabilita' alle elezioni regionali
 
@@ -749,11 +741,9 @@ Cancellazione dalle liste per incandidabilita' alle elezioni regionali
 
 > \- Per il testo dell'art. 129 del decreto legislativo 2 luglio 2010, n. 104, si veda la nota all'art. 5.
 
-## Capo IV
+## Capo IV - Incandidabilita' alle cariche elettive negli enti locali
 
-### Incandidabilita' alle cariche elettive negli enti locali
-
-##### Art. 10
+### Art. 10
 
 Incandidabilita' alle elezioni provinciali, comunali e circoscrizionali
 
@@ -827,7 +817,7 @@ b) della giunta provinciale o del presidente, della giunta comunale o del sindac
 
 > \- Per il testo dell'articolo 665 del codice di procedura penale, si veda la nota all'art. 3.
 
-##### Art. 11
+### Art. 11
 
 Sospensione e decadenza di diritto degli amministratori locali in condizione di incandidabilita'
 
@@ -865,7 +855,7 @@ c) coloro nei cui confronti l'autorita' giudiziaria ha applicato, con provvedime
 
 > «2-quater. L'Alto Commissario per il coordinamento della lotta contro la delinquenza mafiosa svolge le funzioni previste dalla normativa vigente fino al 31 dicembre 1992. A decorrere dal giorno successivo alla cessazione di dette funzioni, le competenze sono attribuite al Ministro dell'interno con facolta' di delega nei confronti dei prefetti e del Direttore della Direzione investigativa antimafia di cui all'art. 3, nonche' nei confronti di altri organi e uffici dell'Amministrazione della pubblica sicurezza, secondo criteri che tengano conto delle competenze attribuite dalla normativa vigente ai medesimi organi, uffici e autorita'. Le competenze previste dal comma 3 dell'art. 1-ter del D.L. 6 settembre 1982, n. 629 , convertito, con modificazioni, dalla L. 12 ottobre 1982, n. 726, come introdotto dall'art. 2 della L. 15 novembre 1988, n. 486, sono devolute al Capo della polizia-Direttore generale della pubblica sicurezza.».
 
-##### Art. 12
+### Art. 12
 
 Cancellazione dalle liste per incandidabilita' alle elezioni provinciali, comunali e circoscrizionali
 
@@ -883,11 +873,9 @@ Cancellazione dalle liste per incandidabilita' alle elezioni provinciali, comuna
 
 > \- Per il testo dell'art. 129 del decreto legislativo 2 luglio 2010, n. 104, si veda la nota all'art. 5.
 
-## Capo V
+## Capo V - Disposizioni comuni, transitorie e finali
 
-### Disposizioni comuni, transitorie e finali
-
-##### Art. 13
+### Art. 13
 
 Durata dell'incandidabilita'
 
@@ -897,13 +885,13 @@ Durata dell'incandidabilita'
 
 3\. Nel caso in cui il delitto che determina l'incandidabilita' o il divieto di assumere incarichi di governo e' stato commesso con abuso dei poteri o in violazione dei doveri connessi al mandato elettivo, di parlamentare nazionale o europeo, o all'incarico di Governo, la durata dell'incandidabilita' o del divieto e' aumentata di un terzo.
 
-##### Art. 14
+### Art. 14
 
 Incandidabilita' nelle regioni a statuto speciale e province autonome
 
 1\. Le disposizioni in materia di incandidabilita' del presente testo unico si applicano nelle regioni a statuto speciale e nelle province autonome di Trento e Bolzano.
 
-##### Art. 15
+### Art. 15
 
 Disposizioni comuni
 
@@ -957,7 +945,7 @@ Disposizioni comuni
 
 > 4\. Quando e' stata applicata una misura di prevenzione personale nei confronti dei soggetti di cui all'articolo 4, comma 1, lettera a) e b), la riabilitazione puo' essere richiesta dopo cinque anni dalla cessazione della misura di prevenzione personale.».
 
-##### Art. 16
+### Art. 16
 
 Disposizioni transitorie e finali
 
@@ -977,7 +965,7 @@ Disposizioni transitorie e finali
 
 > «5. Fermo restando quanto previsto dall'articolo 1 della legge 14 gennaio 1994, n. 20, gli amministratori che la Corte dei conti ha riconosciuto, anche in primo grado, responsabili di aver contribuito con condotte, dolose o gravemente colpose, sia omissive che commissive, al verificarsi del dissesto finanziario, non possono ricoprire, per un periodo di dieci anni, incarichi di assessore, di revisore dei conti di enti locali e di rappresentante di enti locali presso altri enti, istituzioni ed organismi pubblici e privati. I sindaci e i presidenti di provincia ritenuti responsabili ai sensi del periodo precedente, inoltre, non sono candidabili, per un periodo di dieci anni, alle cariche di sindaco, di presidente di provincia, di presidente di Giunta regionale, nonche' di membro dei consigli comunali, dei consigli provinciali, delle assemblee e dei consigli regionali, del Parlamento e del Parlamento europeo. Non possono altresi' ricoprire per un periodo di tempo di dieci anni la carica di assessore comunale, provinciale o regionale ne' alcuna carica in enti vigilati o partecipati da enti pubblici. Ai medesimi soggetti, ove riconosciuti responsabili, le sezioni giurisdizionali regionali della Corte dei conti irrogano una sanzione pecuniaria pari ad un minimo di cinque e fino ad un massimo di venti volte la retribuzione mensile lorda dovuta al momento di commissione della violazione.».
 
-##### Art. 17
+### Art. 17
 
 Abrogazioni
 
@@ -993,7 +981,7 @@ d) l'articolo 28, quarto comma, secondo periodo, e l'articolo 32, settimo comma,
 
 2\. Dalla data di cui al comma 1, i richiami agli articoli 58 e 59 del decreto legislativo 18 agosto 2000, n. 267, ovunque presenti, si intendono riferiti, rispettivamente, agli articoli 10 e 11 del presente testo unico.
 
-##### Art. 18
+### Art. 18
 
 Entrata in vigore
 

@@ -25,49 +25,49 @@ la seguente legge:
 
 ## STATO DI PREVISIONE DEL MINISTERO DEL TESORO
 
-### Art. 1
+## Art. 1
 
 La spesa occorrente per il funzionamento della Corte costituzionale, stabilita in L. 3.800.000.000 per l'anno finanziario 1977 dall'articolo 4 della legge 23 dicembre 1976, n. 874, e' aumentata di lire 500 milioni.
 
 ## STATO DI PREVISIONE DEL MINISTERO DEGLI AFFARI ESTERI
 
-### Art. 2
+## Art. 2
 
 Per l'anno finanziario 1977 la spesa - iscritta al capitolo 3120, prevista in lire 100 milioni annui dalla legge 2 luglio 1970, n. 520, concernente partecipazione italiana a interventi di solidarieta' in favore di Paesi colpiti da gravi calamita, viene elevata a lire 344 milioni.
 
 ## STATO DI PREVISIONE DEL MINISTERO DEI LAVORI PUBBLICI
 
-### Art. 3
+## Art. 3
 
 Lo stanziamento autorizzato con l'articolo 100 della legge di approvazione del bilancio dello Stato per l'anno 1977, e' elevato da L. 120.127.400.000 a L. 120.427.400.000.
 
 ## STATO DI PREVISIONE DEL MINISTERO DELL'INDUSTRIA, DEL COMMERCIO E - DELL'ARTIGIANATO
 
-### Art. 4
+## Art. 4
 
 Ai sensi dell'articolo 13 della legge 19 dicembre 1973, n. 837, per l'anno finanziario 1977 sono stabiliti in lire 500 milioni ed in lire 1.000 milioni i contributi, rispettivamente, in conto capitale ed in conto interessi, alle imprese danneggiate dalla catastrofe del Vajont.
 
 ## STATO DI PREVISIONE DEL MINISTERO DELLA SANITA'
 
-### Art. 5
+## Art. 5
 
 La somma autorizzata dalla legge 30 marzo 1971, n. 118, per l'assistenza sanitaria protesica, specifica, generica, farmaceutica, specialistica ed ospedaliera a favore dei mutilati ed invalidi civili, gia' elevata di L. 78.100.000.000 dall'articolo 186 della legge 23 dicembre 1976, n. 874, e' ulteriormente elevata, per l'anno 1977, di lire 25 miliardi.
 
 ## VARIAZIONI ALL'ENTRATA
 
-### Art. 6
+## Art. 6
 
 Nello stato di previsione dell'entrata per l'anno finanziario 1977 sono apportate le variazioni di cui all'annessa tabella A.
 
 ## VARIAZIONI ALLA SPESA
 
-### Art. 7
+## Art. 7
 
 Negli stati di previsione della spesa dei Ministeri del tesoro, delle finanze, del bilancio e della programmazione economica, di grazia e giustizia, degli affari esteri, dell'interno, dei lavori pubblici, dei trasporti, dell'agricoltura e delle foreste, dell'industria, del commercio e dell'artigianato, del lavoro e della previdenza sociale, della sanita', del turismo e dello spettacolo, sono introdotte, per l'anno finanziario 1977, le variazioni di cui all'annessa tabella B.
 
 ## VARIAZIONI AI BILANCI DELLE AZIENDE AUTONOME
 
-### Art. 8
+## Art. 8
 
 Nei bilanci dell'Amministrazione dei monopoli di Stato, dell'Azienda nazionale autonoma delle strade, dell'Azienda autonoma delle ferrovie dello Stato e dell'Amministrazione delle poste e delle telecomunicazioni sono introdotte, per l'anno finanziario 1977, le variazioni di cui all'annessa tabella C.
 
@@ -83,7 +83,7 @@ Visto, il Guardasigilli: BONIFACIO
 
 ## VARIAZIONI AI BILANCI DELLE AZIENDE AUTONOME
 
-### Tabella A
+## Tabella A
 
 TABELLE
 
@@ -127,7 +127,7 @@ Capitolo n. 3580 - Entrate eventuali, ecc....... L. 244.000.000
 
 ----------------- Totale degli aumenti .... L 1.600.446.000.000
 
-### Tabella B
+## Tabella B
 
 TABELLA B
 
@@ -880,7 +880,7 @@ Capitolo n. 1532 - Spese per la propaganda
 
 turistica, ecc............................. L. 200.000.000 =================
 
-### Elenchi
+## Elenchi
 
 VARIAZIONI CHE SI APPORTANO AGLI ELENCHI NN. 1, 5 E 6 ALLEGATI ALLO STATO DI PREVISIONE DELLA SPESA DEL MINISTERO DEL TESORO PER L'ANNO FINANZIARIO 1977
 
@@ -962,7 +962,7 @@ diossina in provincia di Milano ............ 15.000
 
 ----------------- 40.000 =================
 
-### Tabella C
+## Tabella C
 
 TABELLA C
 

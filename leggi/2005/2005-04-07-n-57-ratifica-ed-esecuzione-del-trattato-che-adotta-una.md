@@ -57,9 +57,9 @@ Fini, Ministro degli affari esteri
 
 Visto, il Guardasigilli: Castelli
 
-## PARTE I - TITOLO I
+## PARTE I
 
-### DEFINIZIONE E OBIETTIVI DELL'UNIONE
+### TITOLO I - DEFINIZIONE E OBIETTIVI DELL'UNIONE
 
 ###### Sommario
 
@@ -687,7 +687,7 @@ La moneta dell'Unione e' l'euro.
 
 La giornata dell'Europa e' celebrata il 9 maggio in tutta l'Unione.
 
-## TITOLO II - DIRITTI FONADAMENTALI E CITTADINANZA DELL'UNIONE
+### TITOLO II - DIRITTI FONADAMENTALI E CITTADINANZA DELL'UNIONE
 
 ###### Articolo I-9
 
@@ -717,7 +717,7 @@ d) il diritto di presentare petizioni al Parlamento europeo, di ricorrere al med
 
 Tali diritti sono esercitati secondo le condizioni e i limiti definiti dalla Costituzione e dalle misure adottate in sua applicazione.
 
-## TITOLO III - COMPETENZE DELL'UNIONE
+### TITOLO III - COMPETENZE DELL'UNIONE
 
 ###### Articolo I-11
 
@@ -857,9 +857,9 @@ Clausola di flessibilita'
 
 3\. Le misure fondate sul presente articolo non possono comportare un'armonizzazione delle disposizioni legislative e regolamentari degli Stati membri nei casi in cui la Costituzione la esclude.
 
-## TITOLO IV - ISTITUZIONI E ORGANI DELL'UNIONE
+### TITOLO IV - ISTITUZIONI E ORGANI DELL'UNIONE
 
-### CAPO I - QUADRO ISTITUZIONALE
+#### CAPO I - QUADRO ISTITUZIONALE
 
 ###### Articolo I-19
 
@@ -1061,7 +1061,7 @@ b) in via pregiudiziale, su richiesta delle giurisdizioni nazionali, sull'interp
 
 c) negli altri casi previsti dalla Costituzione.
 
-## CAPO II - LE ALTRE ISTITUZIONI E GLI ORGANI CONSULTIVI DELL'UNIONE
+#### CAPO II - LE ALTRE ISTITUZIONI E GLI ORGANI CONSULTIVI DELL'UNIONE
 
 ###### Articolo I-30
 
@@ -1105,9 +1105,9 @@ Gli organi consultivi dell'Unione
 
 Le regole di cui ai paragrafi 2 e 3 relative alla natura della loro composizione sono riesaminate a intervalli regolari dal Consiglio, per tener conto dell'evoluzione economica, sociale e demografica nell'Unione. Il Consiglio, su proposta della Commissione, adotta delle decisioni europee a tal fine.
 
-## TITOLO V - ESERCIZIO DELLE COMPETENZE DELL'UNIONE
+### TITOLO V - ESERCIZIO DELLE COMPETENZE DELL'UNIONE
 
-### CAPO I - DISPOSIZIONI COMUNI
+#### CAPO I - DISPOSIZIONI COMUNI
 
 ###### Articolo I-33
 
@@ -1199,7 +1199,7 @@ I regolamenti e decisioni europei che non indicano i destinatari sono pubblicati
 
 3\. Le decisioni europee diverse da quelle previste nel paragrafo 2 sono notificate ai destinatari e hanno efficacia in virtu' di tale notificazione.
 
-## CAPO II - DISPOSIZIONI PARTICOLARI
+#### CAPO II - DISPOSIZIONI PARTICOLARI
 
 ###### Articolo I-40
 
@@ -1281,7 +1281,7 @@ b) prestare assistenza a uno Stato membro sul suo territorio, su richiesta delle
 
 2\. Le modalita' d'attuazione del presente articolo sono previste all'articolo III-329.
 
-## CAPO III - COOPERAZIONI RAFFORZATE
+#### CAPO III - COOPERAZIONI RAFFORZATE
 
 ###### Articolo I-44
 
@@ -1307,7 +1307,7 @@ In deroga al terzo e quarto comma, quando il Consiglio non delibera su proposta 
 
 4\. Gli atti adottati nel quadro di una cooperazione rafforzata vincolano solo gli Stati membri partecipanti. Non sono considerati un acquis che deve essere accettato dagli Stati candidati all'adesione all'Unione.
 
-## TITOLO VI - LA VITA DEMOCRATICA DELL'UNIONE
+### TITOLO VI - LA VITA DEMOCRATICA DELL'UNIONE
 
 ###### Articolo I-45
 
@@ -1387,7 +1387,7 @@ Status delle chiese e delle organizzazioni non confessionali
 
 3\. Riconoscendone l'identita' e il contributo specifico, l'Unione mantiene un dialogo aperto, trasparente e regolare con tali chiese e organizzazioni.
 
-## TITOLO VII - FINANZE DELL'UNIONE
+### TITOLO VII - FINANZE DELL'UNIONE
 
 ###### Articolo I-53
 
@@ -1437,7 +1437,7 @@ Bilancio dell'Unione
 
 La legge europea stabilisce il bilancio annuale dell'Unione conformemente all'articolo III-404.
 
-## TITOLO VIII - L'UNIONE E L'AMBIENTE CIRCOSTANTE
+### TITOLO VIII - L'UNIONE E L'AMBIENTE CIRCOSTANTE
 
 ###### Articolo I-57
 
@@ -1447,7 +1447,7 @@ L'Unione e l'ambiente circostante
 
 2\. Ai fini del paragrafo 1, l'Unione puo' concludere accordi specifici con i paesi interessati. Detti accordi possono comportare diritti e obblighi reciproci, e la possibilita' di condurre azioni in comune. La loro attuazione e' oggetto di una concertazione periodica.
 
-## TITOLO IX - APPARTENENZA ALL'UNIONE
+### TITOLO IX - APPARTENENZA ALL'UNIONE
 
 ###### Articolo I-58
 
@@ -1565,7 +1565,7 @@ Proibizione della schiavitu' e del lavoro forzato
 
 3\. E' proibita la tratta degli esseri umani.
 
-## TITOLO II - LIBERTA'
+### TITOLO II - LIBERTA'
 
 ###### Articolo II-66
 
@@ -1673,7 +1673,7 @@ Protezione in caso di allontanamento, di espulsione e di estradizione
 
 2\. Nessuno puo' essere allontanato, espulso o estradato verso uno Stato in cui esiste un rischio serio di essere sottoposto alla pena di morte, alla tortura o ad altre pene o trattamenti inumani o degradanti.
 
-## TITOLO III - UGUAGLIANZA
+### TITOLO III - UGUAGLIANZA
 
 ###### Articolo II-80
 
@@ -1725,7 +1725,7 @@ Inserimento delle persone con disabilita'
 
 L'Unione riconosce e rispetta il diritto delle persone con disabilita' di beneficiare di misure intese a garantirne l'autonomia, l'inserimento sociale e professionale e la partecipazione alla vita della comunita'.
 
-## TITOLO IV - SOLIDARIETA'
+### TITOLO IV - SOLIDARIETA'
 
 ###### Articolo II-87
 
@@ -1809,7 +1809,7 @@ Protezione dei consumatori
 
 Nelle politiche dell'Unione e' garantito un livello elevato di protezione dei consumatori.
 
-## TITOLO V - CITTADINANZA
+### TITOLO V - CITTADINANZA
 
 ###### Articolo II-99
 
@@ -1875,7 +1875,7 @@ Tutela diplomatica e consolare
 
 Ogni cittadino dell'Unione gode, nel territorio di un paese terzo nel quale lo Stato membro di cui ha la cittadinanza non e' rappresentato, della tutela delle autorita' diplomatiche e consolari di qualsiasi Stato membro, alle stesse condizioni dei cittadini di detto Stato.
 
-## TITOLO VI - GIUSTIZIA
+### TITOLO VI - GIUSTIZIA
 
 ###### Articolo II-107
 
@@ -1911,7 +1911,7 @@ Diritto di non essere giudicato o punito due volte per lo stesso reato
 
 Nessuno puo' essere perseguito o condannato per un reato per il quale e' gia' stato assolto o condannato nell'Unione a seguito di una sentenza penale definitiva conformemente alla legge.
 
-## TITOLO VII - DISPOSIZIONI GENERALI CHE DISCIPLINANO L'INTERPRETAZIONE E L'APPLICAZIONE DELLA CARTA
+### TITOLO VII - DISPOSIZIONI GENERALI CHE DISCIPLINANO L'INTERPRETAZIONE E L'APPLICAZIONE DELLA CARTA
 
 ###### Articolo II-111
 
@@ -1987,7 +1987,7 @@ Nella formulazione e nell'attuazione delle politiche dell'Unione nei settori del
 
 Fatti salvi gli articoli I-5, III-166, III-167 e III-238 e in considerazione dell'importanza dei servizi di interesse economico generale in quanto servizi ai quali tutti nell'Unione attribuiscono un valore e del loro ruolo nella promozione della coesione sociale e territoriale, l'Unione e gli Stati membri, secondo le rispettive competenze e nell'ambito del campo di applicazione della Costituzione, provvedono affinche' tali servizi funzionino in base a principi e condizioni, in particolare economiche e finanziarie, che consentano loro di assolvere i propri compiti. La legge europea stabilisce tali principi e fissa tali condizioni, fatta salva la competenza degli Stati membri, nel rispetto della Costituzione, di fornire, fare eseguire e finanziare tali servizi.
 
-## TITOLO II - NON DISCRIMINAZIONE E CITTADINANZA
+### TITOLO II - NON DISCRIMINAZIONE E CITTADINANZA
 
 ###### Articolo III-123
 
@@ -2031,11 +2031,11 @@ Sulla base di tale relazione e fatte salve le altre disposizioni della Costituzi
 
 Il Consiglio delibera all'unanimita' previa approvazione del Parlamento europeo. La suddetta legge o legge quadro entra in vigore solo previa approvazione da parte degli Stati membri conformemente alle rispettive norme costituzionali.
 
-## TITOLO III - POLITICHE E AZIONI INTERNE
+### TITOLO III - POLITICHE E AZIONI INTERNE
 
-### CAPO I - MERCATO INTERNO
+#### CAPO I - MERCATO INTERNO
 
-#### Sezione I - Instauarazione e funzionamento del meracto interno
+##### Sezione I - Instauarazione e funzionamento del meracto interno
 
 ###### Articolo III-130
 
@@ -2059,9 +2059,9 @@ Quando delle misure adottate nei casi di cui agli articoli III-131 e III-436 abb
 
 In deroga alla procedura di cui agli articoli III-360 e III-361, la Commissione o qualsiasi Stato membro puo' ricorrere direttamente alla Corte di giustizia, ove ritenga che un altro Stato membro faccia un uso abusivo dei poteri contemplati dagli articoli III-131 e III-436. La Corte di giustizia statuisce a porte chiuse.
 
-## Sezione 2 - Libera circolazione delle persone e dei servizi
+##### Sezione 2 - Libera circolazione delle persone e dei servizi
 
-### Sottosezione 1 - Lavoratori
+**Sottosezione 1 - Lavoratori**
 
 ###### Articolo III-133
 
@@ -2113,7 +2113,7 @@ a) rinvia il progetto al Consiglio che pone fine alla sospensione della procedur
 
 b) chiede alla Commissione di presentare una nuova proposta; in tal caso, l'atto inizialmente proposto si considera non adottato.
 
-## Sottosezione 2 - Libertà di stabilimento
+**Sottosezione 2 - Libertà di stabilimento**
 
 ###### Articolo III-137
 
@@ -2173,7 +2173,7 @@ Per "societa'" si intendono le societa' di diritto civile o di diritto commercia
 
 Fatta salva l'applicazione delle altre disposizioni della Costituzione, gli Stati membri applicano la disciplina nazionale nei confronti della partecipazione finanziaria dei cittadini degli altri Stati membri al capitale delle societa' ai sensi dell'articolo III-142, secondo comma.
 
-## Sottosezione 3 - Liberta prestazione di servizi
+**Sottosezione 3 - Liberta prestazione di servizi**
 
 ###### Articolo III-144
 
@@ -2223,9 +2223,9 @@ Fino a quando non saranno soppresse le restrizioni alla libera prestazione dei s
 
 Gli articoli da III-139 a III-142 sono applicabili alla materia regolata dalla presente sottosezione.
 
-## Sezione 3 - Libera circolazione delle merci
+##### Sezione 3 - Libera circolazione delle merci
 
-### Sottosezione 1 - Unione doganale
+**Sottosezione 1 - Unione doganale**
 
 ###### Articolo III-151
 
@@ -2249,13 +2249,13 @@ c) alla necessita' di approvvigionamento dell'Unione in materie prime e semiprod
 
 d) alla necessita' di evitare gravi turbamenti nella vita economica degli Stati membri e di assicurare uno sviluppo razionale della produzione e un'espansione del consumo nell'Unione.
 
-## Sottosezione 2 - Cooperazione doganale
+**Sottosezione 2 - Cooperazione doganale**
 
 ###### Articolo III-152
 
 Nei limiti del campo di applicazione della Costituzione, la legge o legge quadro europea stabilisce misure per rafforzare la cooperazione doganale tra gli Stati membri e tra questi ultimi e la Commissione.
 
-## Sottosezione 3 - Divieto delle restrizioni quantitative
+**Sottosezione 3 - Divieto delle restrizioni quantitative**
 
 ###### Articolo III-153
 
@@ -2275,7 +2275,7 @@ Il presente articolo si applica a qualsiasi organismo per mezzo del quale uno St
 
 3\. Nel caso di un monopolio a carattere commerciale che comporti una regolamentazione destinata ad agevolare lo smercio o la valorizzazione di prodotti agricoli, e' opportuno assicurare, nell'applicazione del presente articolo, garanzie equivalenti per l'occupazione e il tenore di vita dei produttori interessati.
 
-## Sezione 4 - Capitali e pagamenti
+##### Sezione 4 - Capitali e pagamenti
 
 ###### Articolo III-156
 
@@ -2321,9 +2321,9 @@ Il Consiglio, su proposta della Commissione, adotta regolamenti o decisioni euro
 
 Gli atti di cui al presente articolo contengono le necessarie disposizioni sulle garanzie giuridiche.
 
-## Sezione 5 - Regole di concorrenza
+##### Sezione 5 - Regole di concorrenza
 
-### Sottosezione 1 - Regole applicabili alle imprese
+**Sottosezione 1 - Regole applicabili alle imprese**
 
 ###### Articolo III-161
 
@@ -2407,7 +2407,7 @@ Istruisce, a richiesta di uno Stato membro o d'ufficio e in collegamento con le 
 
 3\. La Commissione vigila sull'applicazione del presente articolo e adotta, ove occorra, gli opportuni regolamenti o decisioni europei.
 
-## Sottosezione 2 - Aiuti concessi dagli Stati membri
+**Sottosezione 2 - Aiuti concessi dagli Stati membri**
 
 ###### Articolo III-167
 
@@ -2453,7 +2453,7 @@ Tuttavia, se il Consiglio non si e' pronunciato entro tre mesi dalla data della 
 
 Il Consiglio, su proposta iella Commissione, puo' adottare regolamenti europei per l'applicazione degli articoli III-167 e III-168 e per fissare in particolare le condizioni per l'applicazione dell'articolo III-168, paragrafo 3 e le categorie di aiuti che sono dispensate dalla procedura prevista in tale paragrafo. Esso delibera previa consultazione del Parlamento europeo.
 
-## Sezione 6 - Disposizioni fiscali
+##### Sezione 6 - Disposizioni fiscali
 
 ###### Articolo III-170
 
@@ -2469,7 +2469,7 @@ Inoltre, nessuno Stato membro applica ai prodotti degli altri Stati membri impos
 
 Una legge o legge quadro europea del Consiglio stabilisce le misure riguardanti l'armonizzazione delle legislazioni relative alle imposte sulla cifra d'affari, alle imposte di consumo ed altre imposte indirette, sempre che detta armonizzazione sia necessaria per assicurare l'instaurazione o il funzionamento del mercato interno ed evitare le distorsioni di concorrenza. Il Consiglio delibera all'unanimita' previa consultazione del Parlamento europeo e del Comitato economico e sociale.
 
-## Sezione 7 - Disposizioni comuni
+##### Sezione 7 - Disposizioni comuni
 
 ###### Articolo III-172
 
@@ -2519,7 +2519,7 @@ Nell'ambito dell'instaurazione o del funzionamento del mercato interno, la legge
 
 Una legge europea del Consiglio stabilisce i regimi linguistici dei titoli europei. 11 Consiglio delibera all'unanimita' previa consultazione del Parlamento europeo.
 
-## CAPO II - POLITICA ECONOMICA E MONETARIA
+#### CAPO II - POLITICA ECONOMICA E MONETARIA
 
 ###### Articolo III-177
 
@@ -2529,7 +2529,7 @@ Parallelamente, alle condizioni e secondo le procedure previste dalla Costituzio
 
 Questa azione degli Stati membri e dell'Unione implica il rispetto dei seguenti principi direttivi: prezzi stabili, finanze pubbliche e condizioni monetarie sane, bilancia dei pagamenti sostenibile.
 
-## Sezione I - Politica economica
+##### Sezione I - Politica economica
 
 ###### Articolo III-178
 
@@ -2655,7 +2655,7 @@ Una legge europea del Consiglio stabilisce le opportune misure che sostituiscono
 
 Fatte salve le altre disposizioni del presente paragrafo, il Consiglio, su proposta della Commissione, adotta i regolamenti o decisioni europei che precisano le modalita' e le definizioni per l'applicazione di detto protocollo. Esso delibera previa consultazione del Parlamento europeo.
 
-## Sezione 2 - Politica monetaria
+##### Sezione 2 - Politica monetaria
 
 ###### Articolo III-185
 
@@ -2739,7 +2739,7 @@ c) raccomandazioni e pareri.
 
 Fatte salve le attribuzioni della Banca centrale europea, la legge o legge quadro europea stabilisce le misure necessarie per l'utilizzo dell'euro come moneta unica. Essa e' adottata previa consultazione della Banca centrale europea.
 
-## Sezione 3 - Disposizioni istituzionali
+##### Sezione 3 - Disposizioni istituzionali
 
 ###### Articolo III-192
 
@@ -2765,7 +2765,7 @@ Gli Stati membri, la Commissione e la Banca centrale europea nominano ciascuno n
 
 Per questioni che rientrano nel campo di applicazione dell'articolo III-179, paragrafo 4, dell'articolo III-184, eccettuato il paragrafo 13, degli articoli III-191 e III-196, dell'articolo III-198, paragrafo 3 e dell'articolo III-326, il Consiglio o uno Stato membro possono chiedere alla Commissione di presentare, secondo i casi, una raccomandazione o una proposta. La Commissione esamina la richiesta e presenta senza indugio le proprie conclusioni al Consiglio.
 
-## Sezione 4 - Disposizioni specifiche agli Stati membri la cui moneta è l'euro
+##### Sezione 4 - Disposizioni specifiche agli Stati membri la cui moneta è l'euro
 
 ###### Articolo III-194
 
@@ -2797,7 +2797,7 @@ Per maggioranza qualificata s'intende almeno il 55% di tali membri del Consiglio
 
 La minoranza di blocco deve comprendere almeno il numero minimo di tali membri del Consiglio che rappresentano oltre il 35% della popolazione degli Stati membri partecipanti, piu' un altro membro; in caso contrario la maggioranza qualificata si considera raggiunta.
 
-## Sezione 5 - Disposizioni transitorie
+##### Sezione 5 - Disposizioni transitorie
 
 ###### Articolo III-197
 
@@ -2911,9 +2911,7 @@ Tale autorizzazione puo' essere revocata e le condizioni e modalita' modificate 
 
 3\. 11 Consiglio, su raccomandazione della Commissione e previa consultazione del comitato economico e finanziario, puo' adottare una decisione europea che stabilisca che lo Stato membro interessato deve modificare, sospendere o abolire le misure di salvaguardia di cui al paragrafo 1.
 
-## CAPO III - POLITICHE IN ALTRI SETTORI
-
-### Sezioni I - Occupazione
+#### CAPO III - POLITICHE IN ALTRI SETTORI Sezioni I Occupazione
 
 ###### Articolo III-203
 
@@ -2991,7 +2989,7 @@ b) non ostano a che uno Stato membro mantenga o stabilisca misure, compatibili c
 
 6\. Il presente articolo non si applica alle retribuzioni, al diritto di associazione, al diritto di sciopero, ne' al diritto di serrata.
 
-## Sezione 2 - Politica sociale
+##### Sezione 2 - Politica sociale
 
 ###### Articolo III-209
 
@@ -3119,7 +3117,7 @@ Il Parlamento europeo puo' invitare la Commissione a elaborare delle relazioni s
 
 3\. La legge europea stabilisce le misure di applicazione relative al Fondo. E' adottata previa consultazione del Comitato delle regioni e del Comitato economico e sociale.
 
-## Sezione 3 - Coesione economica, sociale e territoriale
+##### Sezione 3 - Coesione economica, sociale e territoriale
 
 ###### Articolo III-220
 
@@ -3159,7 +3157,7 @@ La legge europea stabilisce le misure d'applicazione relative al Fondo europeo d
 
 Per quanto riguarda il Fondo europeo agricolo di orientamento e di garanzia, sezione "orientamento", ed il Fondo sociale europeo sono applicabili rispettivamente l'articolo III-231 e l'articolo III-219, paragrafo 3.
 
-## Sezione 4 - Agricoltura e pesca
+##### Sezione 4 - Agricoltura e pesca
 
 ###### Articolo III-225
 
@@ -3261,7 +3259,7 @@ Quando in uno Stato membro un prodotto e' disciplinato da un'organizzazione nazi
 
 La Commissione adotta regolamenti o decisioni europei che fissano l'ammontare di tali tasse nella misura necessaria a ristabilire l'equilibrio. Essa puo' ugualmente autorizzare il ricorso ad altre misure di cui determina le condizioni e modalita'.
 
-## Sezione 5 - Ambiente
+##### Sezione 5 - Ambiente
 
 ###### Articolo III-233
 
@@ -3331,7 +3329,7 @@ b) un sostegno finanziario del Fondo di coesione.
 
 6\. Le misure di protezione adottate in virtu' del presente articolo non impediscono ai singoli Stati membri di mantenere e di prendere misure per una protezione ancora maggiore. Tali misure devono essere compatibili con la Costituzione. Esse sono notificate alla Commissione.
 
-## Sezione 6 - Protezione dei consumatori
+##### Sezione 6 - Protezione dei consumatori
 
 ###### Articolo III-235
 
@@ -3347,7 +3345,7 @@ b) misure di sostegno, di complemento e di controllo della politica svolta dagli
 
 4\. Gli atti adottati a norma del paragrafo 3 non impediscono ai singoli Stati membri di mantenere o di introdurre disposizioni di protezione piu' rigorose. Tali disposizioni devono essere compatibili con la Costituzione. Esse sono notificate alla Commissione.
 
-## Sezione 7 - Trasporti
+##### Sezione 7 - Trasporti
 
 ###### Articolo III-236
 
@@ -3427,7 +3425,7 @@ Presso la Commissione e' istituito un comitato a carattere consultivo, composto 
 
 2\. La legge o legge quadro europea puo' stabilire le opportune misure per la navigazione marittima e aerea. E' adottata previa consultazione del Comitato delle regioni e del Comitato economico e sociale.
 
-## Sezione 8 - Reti transeuropee
+##### Sezione 8 - Reti transeuropee
 
 ###### Articolo III-246
 
@@ -3457,7 +3455,7 @@ Gli orientamenti e i progetti di interesse comune che riguardano il territorio d
 
 4\. L'Unione puo' cooperare con i paesi terzi per promuovere progetti di interesse comune e garantire l'interoperabilita' delle reti.
 
-## Sezione 9 - Ricerca e sviluppo tecnologico e spazio
+##### Sezione 9 - Ricerca e sviluppo tecnologico e spazio
 
 ###### Articolo III-248
 
@@ -3541,7 +3539,7 @@ Il Consiglio, su proposta della Commissione, puo' adottare regolamenti o decisio
 
 All'inizio di ogni anno la Commissione presenta una relazione al Parlamento europeo e al Consiglio. Detta relazione verte in particolare sulle attivita' svolte in materia di ricerca, di sviluppo tecnologico e di divulgazione dei risultati durante l'anno precedente e sul programma di lavoro dell'anno in corso.
 
-## Sezione 10 - Energia
+##### Sezione 10 - Energia
 
 ###### Articolo III-256
 
@@ -3561,9 +3559,7 @@ La legge o legge quadro europea non incide sul diritto di uno Stato membro di de
 
 3\. In deroga al paragrafo 2, una legge o legge quadro europea del Consiglio stabilisce le misure ivi contemplate se sono principalmente di natura fiscale. Il Consiglio delibera all'unanimita' previa consultazione del Parlamento europeo.
 
-## CAPO IV - SPAZIO DI LIBERTA', SICUREZZA E GIUSTIZIA
-
-### Serzione 1 - Disposizioni generali
+#### CAPO IV - SPAZIO DI LIBERTA', SICUREZZA E GIUSTIZIA Serzione 1 Disposizioni generali
 
 ###### Articolo III-257
 
@@ -3607,7 +3603,7 @@ a) su proposta della Commissione, oppure
 
 b) su iniziativa di un quarto degli Stati membri.
 
-## Sezione 2 - Politiche relative ai controlli alle frontiere, all'asilo e all'immigrazione
+##### Sezione 2 - Politiche relative ai controlli alle frontiere, all'asilo e all'immigrazione
 
 ###### Articolo III-265
 
@@ -3679,7 +3675,7 @@ d) lotta contro la tratta degli esseri umani, in particolare donne e minori.
 
 Le politiche dell'Unione di cui alla presente sezione e la loro attuazione sono governate dal principio di solidarieta' e di equa ripartizione della responsabilita' tra gli Stati membri, anche sul piano finanziario. Ogniqualvolta necessario, gli atti dell'Unione adottati in virtu' della presente sezione contengono misure appropriate ai fini dell'applicazione di tale principio.
 
-## Sezione 3 - Cooperazione giudiziaria in materia civile
+##### Sezione 3 - Cooperazione giudiziaria in materia civile
 
 ###### Articolo III-269
 
@@ -3707,7 +3703,7 @@ h) un sostegno alla formazione dei magistrati e degli operatori giudiziari.
 
 Il Consiglio, su proposta della Commissione, puo' adottare una decisione europea che determina gli aspetti del diritto di famiglia aventi implicazioni transnazionali e che potrebbero formare oggetto di atti adottati secondo la procedura legislativa ordinaria. Esso delibera all'unanimita' previa consultazione del Parlamento europeo.
 
-## Sezione 4 - Cooperazione giudiziaria in materia penale
+##### Sezione 4 - Cooperazione giudiziaria in materia penale
 
 ###### Articolo III-270
 
@@ -3801,7 +3797,7 @@ La legge europea fissa inoltre le modalita' per associare il Parlamento europeo 
 
 4\. Il Consiglio europeo puo' adottare, contemporaneamente o successivamente, una decisione europea che modifica il paragrafo 1 allo scopo di estendere le attribuzioni della Procura europea alla lotta contro la criminalita' grave che presenta una dimensione transnazionale, e che modifica di conseguenza il paragrafo 2 per quanto riguarda gli autori di reati gravi con ripercussioni in piu' Stati membri e i loro complici. Il Consiglio europeo delibera all'unanimita' previa approvazione del Parlamento europeo e previa consultazione della Commissione.
 
-## Sezione 5 - Cooperazione di polizia
+##### Sezione 5 - Cooperazione di polizia
 
 ###### Articolo III-275
 
@@ -3835,9 +3831,9 @@ La legge europea fissa inoltre le modalita' di controllo delle attivita' di Euro
 
 Una legge o legge quadro europea del Consiglio stabilisce le condizioni e i limiti entro i quali le autorita' competenti degli Stati membri di cui agli articoli III-270 e III-275 possono operare nel territorio di un altro Stato membro in collegamento e d'intesa con le autorita' di quest'ultimo. Il Consiglio delibera all'unanimita' previa consultazione del Parlamento europeo.
 
-## CAPO V - SETTORI NEI QUALI L'UNIONE PUO' DECIDERE DI SVOLGERE UN'AZIONE DI SOSTEGNO. DI COORDINAMENTO O DI COMPORTAMENTO
+#### CAPO V - SETTORI NEI QUALI L'UNIONE PUO' DECIDERE DI SVOLGERE UN'AZIONE DI SOSTEGNO. DI COORDINAMENTO O DI COMPORTAMENTO
 
-### Sezione 1 - Sanità pubblica
+##### Sezione 1 - Sanità pubblica
 
 ###### Articolo III-278
 
@@ -3875,7 +3871,7 @@ La legge o legge quadro europea e' adottata previa consultazione del Comitato de
 
 7\. L'azione dell'Unione rispetta le responsabilita' degli Stati membri per la definizione della loro politica sanitaria e per l'organizzazione e la fornitura di servizi sanitari e assistenza medica. Le responsabilita' degli Stati membri includono la gestione dei servizi sanitari e dell'assistenza medica e l'assegnazione delle risorse loro destinate. Le misure di cui al paragrafo 4, lettera a) non pregiudicano le disposizioni nazionali sulla donazione e l'impiego medico di organi e sangue.
 
-## Sezione 2 - Industria
+##### Sezione 2 - Industria
 
 ###### Articolo III-279
 
@@ -3899,7 +3895,7 @@ Essa e' adottata previa consultazione del Comitato economico e sociale.
 
 La presente sezione non costituisce una base per l'introduzione da parte dell'Unione di qualsivoglia misura che possa generare distorsioni di concorrenza o che comporti disposizioni fiscali o disposizioni relative ai diritti e interessi dei lavoratori dipendenti.
 
-## Sezione 3 - Cultura
+##### Sezione 3 - Cultura
 
 ###### Articolo III-280
 
@@ -3925,7 +3921,7 @@ a) la legge o legge quadro europea stabilisce azioni di incentivazione, ad esclu
 
 b) il Consiglio, su proposta della Commissione, adotta raccomandazioni.
 
-## Sezione 4 - Turismo
+##### Sezione 4 - Turismo
 
 ###### Articolo III-281
 
@@ -3939,7 +3935,7 @@ b) favorire la cooperazione tra Stati membri, in particolare attraverso lo scamb
 
 2\. La legge o legge quadro europea stabilisce le misure specifiche destinate a completare le azioni svolte negli Stati membri al fine di realizzare gli obiettivi di cui al presente articolo, ad esclusione di qualsiasi armonizzazione delle disposizioni legislative e regolamentari degli Stati membri.
 
-## Sezione 5 - Istruzione, gioventù, sport e formazione professionale
+##### Sezione 5 - Istruzione, gioventù, sport e formazione professionale
 
 ###### Articolo III-282
 
@@ -3997,7 +3993,7 @@ a) la legge o legge quadro europea stabilisce le misure necessarie, ad esclusion
 
 b) il Consiglio, su proposta della Commissione, adotta raccomandazioni.
 
-## Sezione 6 - Protezione civile
+##### Sezione 6 - Protezione civile
 
 ###### Articolo III-284
 
@@ -4013,7 +4009,7 @@ c) favorire la coerenza delle azioni intraprese a livello internazionale in mate
 
 2\. La legge o legge quadro europea stabilisce le misure necessarie per contribuire alla realizzazione degli obiettivi di cui al paragrafo 1, ad esclusione di qualsiasi armonizzazione delle disposizioni legislative e regolamentari degli Stati membri.
 
-## Sezione 7 - Cooperazione amministrativa
+##### Sezione 7 - Cooperazione amministrativa
 
 ###### Articolo III-285
 
@@ -4023,7 +4019,7 @@ c) favorire la coerenza delle azioni intraprese a livello internazionale in mate
 
 3\. Il presente articolo non pregiudica l'obbligo degli Stati membri di attuare il diritto dell'Unione ne' le prerogative e i doveri della Commissione. Esso non pregiudica le altre disposizioni della Costituzione che prevedono la cooperazione amministrativa fra gli Stati membri e fra questi ultimi e l'Unione.
 
-## TITOLO IV - ASSOCIAZIONE DEI PAESI E TERRITORI D'OLTREMARE
+### TITOLO IV - ASSOCIAZIONE DEI PAESI E TERRITORI D'OLTREMARE
 
 ###### Articolo III-286
 
@@ -4077,9 +4073,9 @@ Il Consiglio, su proposta della Commissione, adotta all'unanimita', muovendo dal
 
 Tali leggi e leggi quadro sono adottate previa consultazione del Parlamento europeo.
 
-## TITOLO V - AZIONE ESTERNA DELL'UNIONE
+### TITOLO V - AZIONE ESTERNA DELL'UNIONE
 
-### CAPO I - DISPOSIZIONI DI APPLICAZIONE GENERALE
+#### CAPO I - DISPOSIZIONI DI APPLICAZIONE GENERALE
 
 ###### Articolo III-292
 
@@ -4121,9 +4117,9 @@ Il Consiglio europeo delibera all'unanimita' su raccomandazione del Consiglio ad
 
 2\. Il ministro degli affari esteri dell'Unione, per il settore della politica estera e di sicurezza comune, e la Commissione, per gli altri settori dell'azione esterna, possono presentare proposte congiunte al Consiglio.
 
-## CAPO II - POLITICA ESTERA E DI SICUREZZA COMUNE
+#### CAPO II - POLITICA ESTERA E DI SICUREZZA COMUNE
 
-### Sezione 1 - Disposizioni comuni
+##### Sezione 1 - Disposizioni comuni
 
 ###### Articolo III-294
 
@@ -4267,7 +4263,7 @@ L'attuazione della politica estera e di sicurezza comune lascia impregiudicata l
 
 L'attuazione delle politiche previste in tali articoli lascia parimenti impregiudicata l'applicazione delle procedure e la rispettiva portata delle attribuzioni delle istituzioni previste dalla Costituzione per l'esercizio delle competenze dell'Unione a titolo del presente capo.
 
-## Sezione 2 - Politica di sicurezza e di difesa comune
+##### Sezione 2 - Politica di sicurezza e di difesa comune
 
 ###### Articolo III-309
 
@@ -4325,7 +4321,7 @@ La minoranza di blocco deve comprendere almeno il numero minimo di membri del Co
 
 Ai fini del presente paragrafo l'unanimita' e' costituita dai voti dei soli rappresentanti degli Stati membri partecipanti.
 
-## Sezione 3 - Disposizioni finanziarie
+##### Sezione 3 - Disposizioni finanziarie
 
 ###### Articolo III-313
 
@@ -4349,7 +4345,7 @@ c) le modalita' di controllo finanziario.
 
 Quando la missione prevista conformemente all'articolo I-41, paragrafo 1 e all'articolo III-309 non puo' essere a carico del bilancio dell'Unione, il Consiglio autorizza il ministro degli affari esteri dell'Unione a ricorrere a detto fondo. Il ministro degli affari esteri dell'Unione riferisce al Consiglio sull'esecuzione di tale mandato.
 
-## CAPO III - POLITICA COMMERCIALE COMUNE
+#### CAPO III - POLITICA COMMERCIALE COMUNE
 
 ###### Articolo III-314
 
@@ -4381,9 +4377,9 @@ b) nel settore degli scambi di servizi nell'ambito sociale, dell'istruzione e de
 
 6\. L'esercizio delle competenze attribuite dal presente articolo nel settore della politica commerciale comune non pregiudica la ripartizione delle competenze tra l'Unione e gli Stati membri e non comporta un'armonizzazione delle disposizioni legislative o regolamentari degli Stati membri, se la Costituzione esclude tale armonizzazione.
 
-## CAPO IV - COOPERAZIONE CON I PAESI TERZI E AIUTO UMANITARIO
+#### CAPO IV - COOPERAZIONE CON I PAESI TERZI E AIUTO UMANITARIO
 
-### Sezione 1 - Cooperazione allo sviluppo
+##### Sezione 1 - Cooperazione allo sviluppo
 
 ###### Articolo III-316
 
@@ -4413,7 +4409,7 @@ Il primo comma non pregiudica la competenza degli Stati membri a negoziare nelle
 
 3\. Nell'ambito delle rispettive competenze, l'Unione e gli Stati membri cooperano con i paesi terzi e con le competenti organizzazioni internazionali.
 
-## Sezione 2 - Cooperazione economica, finanziaria e tecnica con i paesi terzi
+##### Sezione 2 - Cooperazione economica, finanziaria e tecnica con i paesi terzi
 
 ###### Articolo III-319
 
@@ -4429,7 +4425,7 @@ Il primo comma non pregiudica la competenza degli Stati membri a negoziare nelle
 
 Allorche' la situazione in un paese terzo esige un'assistenza finanziaria urgente da parte dell'Unione, il Consiglio, su proposta della Commissione, adotta le decisioni europee necessarie.
 
-## Sezione 3 - Aiuto umanitario
+##### Sezione 3 - Aiuto umanitario
 
 ###### Articolo III-321
 
@@ -4449,7 +4445,7 @@ Il primo comma non pregiudica la competenza degli Stati membri a negoziare nelle
 
 7\. L'Unione provvede affinche' le sue azioni di aiuto umanitario siano coordinate e coerenti con quelle svolte da organizzazioni e organismi internazionali, specie nell'ambito del sistema delle Nazioni Unite.
 
-## CAPO V - MISURE RESTRITTIVE
+#### CAPO V - MISURE RESTRITTIVE
 
 ###### Articolo III-322
 
@@ -4459,7 +4455,7 @@ Il primo comma non pregiudica la competenza degli Stati membri a negoziare nelle
 
 3\. Gli atti di cui al presente articolo contengono le necessarie disposizioni sulle garanzie giuridiche.
 
-## CAPO VI - ACCORDI INTERNAZIONALI
+#### CAPO VI - ACCORDI INTERNAZIONALI
 
 ###### Articolo III-323
 
@@ -4529,7 +4525,7 @@ Il Consiglio, su raccomandazione della Banca centrale europea o su raccomandazio
 
 4\. Fatti salvi le competenze e gli accordi dell'Unione relativi all'unione economica e monetaria, membri possono condurre negoziati nelle istanze internazionali e concludere accordi.
 
-## CAPO VII - RELAZIONI DELL'UNIONE CON LE ORGANIZZAZIONI INTERNAZIONALI E I PAESI TERZI E DELEGAZIONI DELL'UNIONE
+#### CAPO VII - RELAZIONI DELL'UNIONE CON LE ORGANIZZAZIONI INTERNAZIONALI E I PAESI TERZI E DELEGAZIONI DELL'UNIONE
 
 ###### Articolo III-327
 
@@ -4545,7 +4541,7 @@ L'Unione assicura inoltre i collegamenti che ritiene opportuni con altre organiz
 
 2\. Le delegazioni dell'Unione sono poste sotto l'autorita' del ministro degli affari esteri dell'Unione. Esse agiscono in stretta cooperazione con le missioni diplomatiche e consolari degli Stati membri.
 
-## CAPO VIII - ATTUAZIONE DELLA CLAUSOLA DI SOLIDARIETA'
+#### CAPO VIII - ATTUAZIONE DELLA CLAUSOLA DI SOLIDARIETA'
 
 ###### Articolo III-329
 
@@ -4557,13 +4553,13 @@ Ai fini del presente paragrafo e fatto salvo l'articolo III-344, il Consiglio e'
 
 3\. Per consentire all'Unione e agli Stati membri di agire in modo efficace, il Consiglio europeo valuta regolarmente le minacce cui e' confrontata l'Unione.
 
-## TITOLO VI - FUNZIONAMENTO DELL'UNIONE
+### TITOLO VI - FUNZIONAMENTO DELL'UNIONE
 
-### CAPO I - DISPOSIZIONI ISTITUZIONALI
+#### CAPO I - DISPOSIZIONI ISTITUZIONALI
 
-#### Sezione 1 - Le istituzioni
+##### Sezione 1 - Le istituzioni
 
-##### Sottosezione 1 - Il Parlamento europeo
+**Sottosezione 1 - Il Parlamento europeo**
 
 ###### Articolo III-330
 
@@ -4643,7 +4639,7 @@ Il Parlamento europeo cui sia presentata una mozione di censura sull'operato del
 
 Se la mozione di censura e' approvata a maggioranza di due terzi dei voti espressi e a maggioranza dei membri che compongono il Parlamento europeo, i membri della Commissione si dimettono collettivamente dalle loro funzioni e il ministro degli affari esteri dell'Unione si dimette dalle funzioni che esercita in seno alla Commissione. Essi rimangono in carica e continuano a curare gli affari di ordinaria amministrazione fino alla loro sostituzione conformemente agli articoli I-26 e I-27. In questo caso, il mandato dei membri della Commissione nominati per sostituirli scade alla data in cui sarebbe scaduto il mandato dei membri della Commissione costretti a dimettersi collettivamente dalle loro funzioni.
 
-## Sottosezione 2 - Il Consiglio europeo
+**Sottosezione 2 - Il Consiglio europeo**
 
 ###### Articolo III-341
 
@@ -4657,7 +4653,7 @@ L'astensione di membri presenti o rappresentati non osta all'adozione delle deli
 
 4\. Il Consiglio europeo e' assistito dal segretariato generale del Consiglio.
 
-## Sottosezione 3 - Il Consiglio dei ministri
+**Sottosezione 3 - Il Consiglio dei ministri**
 
 ###### Articolo III-342
 
@@ -4689,7 +4685,7 @@ Il Consiglio, a maggioranza semplice, puo' chiedere alla Commissione di proceder
 
 Il Consiglio adotta decisioni europee che fissano lo statuto dei comitati previsti dalla Costituzione. Delibera a maggioranza semplice, previa consultazione della Commissione.
 
-## Sottosezione 4 - La Commissione europea
+**Sottosezione 4 - La Commissione europea**
 
 ###### Articolo III-347
 
@@ -4731,7 +4727,7 @@ Provvede alla pubblicazione del regolamento.
 
 2\. La Commissione pubblica ogni anno, almeno un mese prima dell'apertura della sessione del Parlamento europeo, una relazione generale sull'attivita' dell'Unione.
 
-## Sottosezione 5 - La Corte di giustizia dell'Unione europea
+**Sottosezione 5 - La Corte di giustizia dell'Unione europea**
 
 ###### Articolo III-353
 
@@ -4959,7 +4955,7 @@ Lo statuto della Corte di giustizia dell'Unione europea e' stabilito con un prot
 
 La legge europea puo' modificare le disposizioni dello statuto, ad eccezione del titolo I e dell'articolo 64. Essa e' adottata su richiesta della Corte di giustizia e previa consultazione della Commissione o su proposta della Commissione e previa consultazione della Corte di giustizia.
 
-## Sottosezione 6 - La Banca centrale europea
+**Sottosezione 6 - La Banca centrale europea**
 
 ###### Articolo III-382
 
@@ -4985,7 +4981,7 @@ Il presidente del Consiglio puo' sottoporre una mozione alla delibera del consig
 
 Il presidente della Banca centrale europea e gli altri membri del comitato esecutivo possono, a richiesta del Parlamento europeo o di propria iniziativa, essere ascoltati dagli organi competenti del Parlamento europeo.
 
-## Sottosezione 7 - La Corte dei conti
+**Sottosezione 7 - La Corte dei conti**
 
 ###### Articolo III-384
 
@@ -5039,9 +5035,9 @@ Salvo il caso di dimissioni d'ufficio, i membri della Corte dei conti restano in
 
 6\. I membri della Corte dei conti possono essere destituiti dalle loro funzioni oppure essere dichiarati decaduti dal diritto alla pensione o da altri vantaggi sostitutivi soltanto se la Corte di giustizia constata, su richiesta della Corte dei conti, che non sono piu' in possesso dei requisiti necessari o non soddisfano piu' agli obblighi derivanti dalla loro carica.
 
-## Sezione 2 - Gli organi consultivi dell'Unione
+##### Sezione 2 - Gli organi consultivi dell'Unione
 
-### Sottosezione 1 - Il Comitato delle regioni
+**Sottosezione 1 - Il Comitato delle regioni**
 
 ###### Articolo III-386
 
@@ -5071,7 +5067,7 @@ Quando il Comitato economico e sociale e' consultato, il Parlamento europeo, il 
 
 Il parere del Comitato e' trasmesso al Parlamento europeo, al Consiglio e alla Commissione, unitamente a un resoconto delle sue deliberazioni.
 
-## Sottosezione 2 - Il Comitato economico e sociale
+**Sottosezione 2 - Il Comitato economico e sociale**
 
 ###### Articolo III-389
 
@@ -5103,7 +5099,7 @@ Qualora lo reputino necessario, il Parlamento europeo, il Consiglio o la Commiss
 
 Il parere del Comitato e' trasmesso al Parlamento europeo, al Consiglio e alla Commissione, unitamente a un resoconto delle sue deliberazioni.
 
-## Sezione 3 - La Banca europea per gli investimenti
+##### Sezione 3 - La Banca europea per gli investimenti
 
 ###### Articolo III-393
 
@@ -5127,7 +5123,7 @@ c) progetti di interesse comune per piu' Stati membri che, per ampiezza o natura
 
 Nello svolgimento dei suoi compiti la Banca europea per gli investimenti facilita il finanziamento di programmi di investimento congiuntamente con gli interventi dei fondi a finalita' strutturale e degli altri strumenti finanziari dell'Unione.
 
-## Sezione 4 - Disposizioni comuni alle istituzioni, organi e organismi dell'Unione
+##### Sezione 4 - Disposizioni comuni alle istituzioni, organi e organismi dell'Unione
 
 ###### Articolo III-395
 
@@ -5229,9 +5225,9 @@ Assolte tali formalita' a richiesta dell'interessato, quest'ultimo puo' ottenere
 
 L'esecuzione forzata puo' essere sospesa soltanto in virtu' di una decisione della Corte di giustizia dell'Unione europea. Tuttavia, il controllo della regolarita' delle disposizioni esecutive e' di competenza delle giurisdizioni nazionali.
 
-## CAPO II - DISPOSIZIONI FINANZIARIE
+#### CAPO II - DISPOSIZIONI FINANZIARIE
 
-### Sezione 1 - Quadro finanziario pluriennale
+##### Sezione 1 - Quadro finanziario pluriennale
 
 ###### Articolo III-402
 
@@ -5245,7 +5241,7 @@ L'esecuzione forzata puo' essere sospesa soltanto in virtu' di una decisione del
 
 5\. Nel corso della procedura di adozione del quadro finanziario, il Parlamento europeo, il Consiglio e la Commissione adottano ogni misura necessaria a facilitare l'esito favorevole della procedura stessa.
 
-## Sezione 2 - Bilancio annuale dell'Unione
+##### Sezione 2 - Bilancio annuale dell'Unione
 
 ###### Articolo III-403
 
@@ -5323,7 +5319,7 @@ Le spese
 
 sono iscritte in sezioni distinte del bilancio, senza pregiudizio di un regime speciale per determinate spese comuni.
 
-## Sezione 3 - Esecuzione del bilancio e scarico
+##### Sezione 3 - Esecuzione del bilancio e scarico
 
 ###### Articolo III-407
 
@@ -5353,7 +5349,7 @@ La Commissione presenta inoltre al Parlamento europeo e al Consiglio una relazio
 
 4\. La Commissione, su richiesta del Parlamento europeo o del Consiglio, presenta relazioni in merito alle misure adottate sulla scorta di tali osservazioni e commenti e, in particolare, alle istruzioni impartite ai servizi incaricati dell'esecuzione del bilancio. Dette relazioni sono trasmesse altresi' alla Corte dei conti.
 
-## Sezione 4 - Disposizioni comuni
+##### Sezione 4 - Disposizioni comuni
 
 ###### Articolo III-410
 
@@ -5387,7 +5383,7 @@ Il Parlamento europeo, il Consiglio e la Commissione vigilano sulla disponibilit
 
 Sono convocati regolarmente, su iniziativa della Commissione, incontri tra i presidenti del Parlamento europeo, del Consiglio e della Commissione nell'ambito delle procedure di bilancio di cui al presente capo. I presidenti prendono tutte le misure necessarie per favorire la concertazione e il ravvicinamento fra le posizioni delle istituzioni che presiedono, al fine di agevolare l'attuazione del presente capo.
 
-## Sezione 5 - Lotta contro la frode
+##### Sezione 5 - Lotta contro la frode
 
 ###### Articolo III-415
 
@@ -5401,7 +5397,7 @@ Sono convocati regolarmente, su iniziativa della Commissione, incontri tra i pre
 
 5\. La Commissione, in cooperazione con gli Stati membri, presenta ogni anno al Parlamento europeo e al Consiglio una relazione sulle misure prese ai fini dell'attuazione del presente articolo.
 
-## CAPO III - COOPERAZIONI RAFFORZATE
+#### CAPO III - COOPERAZIONI RAFFORZATE
 
 ###### Articolo III-416
 
@@ -5461,7 +5457,7 @@ Le spese derivanti dall'attuazione di una cooperazione rafforzata, diverse dalle
 
 Il Consiglio e la Commissione assicurano la coerenza delle azioni intraprese nel quadro di una cooperazione rafforzata e la coerenza di dette azioni con le politiche dell'Unione, e cooperano a tale scopo.
 
-## TITOLO VII - DISPOSIZIONI COMUNI
+### TITOLO VII - DISPOSIZIONI COMUNI
 
 ###### Articolo III-424
 
@@ -5769,7 +5765,7 @@ B. Allegati al trattato che adotta una costituzione per l'Europa
 
 2\. Allegato II - Paesi e territori d'oltremare cui si applica la parte III, titolo IV della Costituzione
 
-## TITOLO I - COMUNICAZIONE DI INFORMAZIONI AI PARLAMENTI NAZIONALI
+### TITOLO I - COMUNICAZIONE DI INFORMAZIONI AI PARLAMENTI NAZIONALI
 
 ALLEGATI AL TRATTATO CHE ADOTTA UNA COSTITUZIONE PER L'EUROPA
 
@@ -5833,7 +5829,7 @@ La Corte dei conti trasmette a titolo informativo la relazione annua ai parlamen
 
 Quando il sistema parlamentare nazionale non e' unicamerale, gli articoli da 1 a 7 si applicano alle camere che lo compongono.
 
-## TITOLO II - COOPERAZIONE INTERPARLAMENTARE
+### TITOLO II - COOPERAZIONE INTERPARLAMENTARE
 
 ###### Articolo 9
 
@@ -5921,7 +5917,7 @@ DESIDERANDO definire lo statuto della Corte di giustizia dell'Unione europea pre
 
 La Corte di giustizia dell'Unione europea e' costituita ed esercita le proprie funzioni conformemente alla Costituzione, al trattato che istituisce la Comunita' europea dell'energia atomica (trattato CEEA) e al presente statuto.
 
-## TITOLO I - STATUTO DEI GIUDICI E DEGLI AVVOCATI GENERALI
+### TITOLO I - STATUTO DEI GIUDICI E DEGLI AVVOCATI GENERALI
 
 ###### Articolo 2
 
@@ -5971,7 +5967,7 @@ I giudici le cui funzioni cessano prima dello scadere del loro mandato sono sost
 
 Le disposizioni degli articoli da 2 a 7 sono applicabili agli avvocati generali.
 
-## TITOLO II - ORGANIZZAZIONE DELLA CORTE DI GIUSTIZIA
+### TITOLO II - ORGANIZZAZIONE DELLA CORTE DI GIUSTIZIA
 
 ###### Articolo 9
 
@@ -6039,7 +6035,7 @@ In caso di difficolta' nell'applicazione del presente articolo, la Corte di gius
 
 Una parte non puo' invocare la nazionalita' di un giudice, ne' l'assenza in seno alla Corte o ad una sua sezione di un giudice della propria nazionalita', per richiedere la modificazione della composizione della Corte o di una delle sue sezioni.
 
-## TITOLO III - PROCEDURA DAVANTI ALLA CORTE DI GIUSTIZIA
+### TITOLO III - PROCEDURA DAVANTI ALLA CORTE DI GIUSTIZIA
 
 ###### Articolo 19
 
@@ -6213,7 +6209,7 @@ Le azioni contro l'Unione in materia di responsabilita' extracontrattuale si pre
 
 Il presente articolo si applica anche alle azioni contro la Banca centrale europea in materia di responsabilita' extracontrattuale.
 
-## TITOLO IV - IL TRIBUNALE
+### TITOLO IV - IL TRIBUNALE
 
 ###### Articolo 47
 
@@ -6335,7 +6331,7 @@ Nei casi di cui all'articolo III-358, paragrafi 2 e 3 della Costituzione, il pri
 
 La proposta deve essere presentata entro un mese a decorrere dalla pronuncia della decisione del Tribunale. La Corte decide, entro un mese a decorrere dalla proposta presentatale dal primo avvocato generale, sull'opportunita' o meno di riesaminare la decisione.
 
-## TITOLO V - DISPOSIZIONI FINALI
+### TITOLO V - DISPOSIZIONI FINALI
 
 ###### Articolo 63
 
@@ -6353,7 +6349,7 @@ Fino all'adozione di tali norme, le disposizioni del regolamento di procedura de
 
 2\. Al fine di integrarle nell'articolato del presente statuto, le modifiche di cui al paragrafo 1 sono oggetto di codificazione ufficiale tramite una legge europea del Consiglio, adottata su richiesta della Corte di giustizia. All'entrata in vigore di tale legge europea di codificazione, il presente articolo e' abrogato.
 
-## CAPO I - SISTEMA EUROPEO DI BANCHE CENTRALI
+#### CAPO I - SISTEMA EUROPEO DI BANCHE CENTRALI
 
 4\. PROTOCOLLO SULLO STATUTO DEL SISTEMA EUROPEO DI BANCHE CENTRALI E DELLA BANCA CENTRALE EUROPEA.
 
@@ -6371,7 +6367,7 @@ Sistema europeo di banche centrali
 
 2\. Il Sistema europeo di banche centrali e la Banca centrale europea assolvono i loro compiti ed espletano le loro attivita' conformemente alla Costituzione e al presente statuto.
 
-## CAPO II - OBIETTIVI E COMPITI DEL SISTEMA EUROPEO DI BANCHE CENTRALI
+#### CAPO II - OBIETTIVI E COMPITI DEL SISTEMA EUROPEO DI BANCHE CENTRALI
 
 ###### Articolo 2
 
@@ -6431,7 +6427,7 @@ Cooperazione internazionale
 
 3\. I paragrafi 1 e 2 non pregiudicano l'articolo III-196 della Costituzione.
 
-## CAPO III - ORGANIZZAZIONE DEL SISTEMA EUROPEO DI BANCHE CENTRALI
+#### CAPO III - ORGANIZZAZIONE DEL SISTEMA EUROPEO DI BANCHE CENTRALI
 
 ###### Articolo 7
 
@@ -6579,7 +6575,7 @@ La Banca centrale europea e le banche centrali nazionali possono emettere bancon
 
 La Banca centrale europea rispetta per quanto possibile la prassi esistente in materia di emissione e di progettazione di banconote.
 
-## CAPO IV - FUNZIONI MONETARIE E OPERAZIONI DEL SISTEMA EUROPEO DI BANCHE CENTRALI
+#### CAPO IV - FUNZIONI MONETARIE E OPERAZIONI DEL SISTEMA EUROPEO DI BANCHE CENTRALI
 
 ###### Articolo 17
 
@@ -6653,7 +6649,7 @@ Altre operazioni
 
 In aggiunta alle operazioni derivanti dall'assolvimento dei propri compiti, la Banca centrale europea e le banche centrali nazionali possono effettuare operazioni per i loro scopi amministrativi e per il proprio personale.
 
-## CAPO V - VIGILANZA PRUDENZIALE
+#### CAPO V - VIGILANZA PRUDENZIALE
 
 ###### Articolo 25
 
@@ -6663,7 +6659,7 @@ Vigilanza prudenziale
 
 2\. Conformemente alle leggi europee adottate ai sensi dell'articolo III-185, paragrafo 6 della Costituzione, la Banca centrale europea puo' svolgere compiti specifici in merito alle politiche che riguardano la vigilanza prudenziale degli enti creditizi e delle altre istituzioni finanziarie, eccettuate le imprese di assicurazione.
 
-## CAPO VI - DISPOSIZIONI FINANZIARIE DEL SISTEMA EUROPEO DI BANCHE CENTRALI
+#### CAPO VI - DISPOSIZIONI FINANZIARIE DEL SISTEMA EUROPEO DI BANCHE CENTRALI
 
 ###### Articolo 26
 
@@ -6775,7 +6771,7 @@ b) il rimanente profitto netto viene distribuito ai partecipanti al capitale del
 
 2\. Qualora la Banca centrale europea subisca una perdita, essa puo' essere coperta dal fondo di riserva generale della Banca centrale europea e, se necessario, previa decisione del consiglio direttivo, dal reddito monetario dell'esercizio finanziario pertinente in proporzione e nei limiti degli importi ripartiti tra le banche centrali nazionali conformemente all'articolo 32, paragrafo 5.
 
-## CAPO VII - DISPOSIZIONI GENERALI
+#### CAPO VII - DISPOSIZIONI GENERALI
 
 ###### Articolo 34
 
@@ -6837,7 +6833,7 @@ Privilegi e immunita'
 
 La Banca centrale europea beneficia sul territorio degli Stati membri dei privilegi e delle immunita' necessari per l'assolvimento dei propri compiti, alle condizioni previste dal protocollo sui privilegi e sulle immunita' dell'Unione europea.
 
-## CAPO VIII - MODIFICAZIONE DELLO STATUTO E REGOLAMENTAZIONE COMPLEMENTARE
+#### CAPO VIII - MODIFICAZIONE DELLO STATUTO E REGOLAMENTAZIONE COMPLEMENTARE
 
 ###### Articolo 40
 
@@ -6863,7 +6859,7 @@ a) o su proposta della Commissione e previa consultazione della Banca centrale e
 
 b) o su raccomandazione della Banca centrale europea e previa consultazione della Commissione.
 
-## CAPO IX - DISPOSIZIONI TRANSITORIE E DISPOSIZIONI VARIE PER IL SISTEMA EUROPEO DI BANCHE CENTRALI
+#### CAPO IX - DISPOSIZIONI TRANSITORIE E DISPOSIZIONI VARIE PER IL SISTEMA EUROPEO DI BANCHE CENTRALI
 
 ###### Articolo 42
 
@@ -7365,7 +7361,7 @@ HANNO CONVENUTO le disposizioni seguenti, che sono allegate al trattato che adot
 
 10\. L'Europol ha sede all'Aia.
 
-## CAPO I - BENI, FONDI, AVERI E OPERAZIONI DELL'UNIONE
+#### CAPO I - BENI, FONDI, AVERI E OPERAZIONI DELL'UNIONE
 
 7\. PROTOCOLLO SUI PRIVILEGI E SULLE IMMUNITA' DELL'UNIONE EUROPEA
 
@@ -7397,7 +7393,7 @@ L'Unione e' esente da ogni dazio doganale, divieto e restrizione all'importazion
 
 Essa e' del pari esente da ogni dazio doganale e da ogni divieto e restrizione all'importazione e all'esportazione in ordine alle sue pubblicazioni.
 
-## CAPO II - COMUNICAZIONI E LASCIAPASSARE
+#### CAPO II - COMUNICAZIONI E LASCIAPASSARE
 
 ###### Articolo 5
 
@@ -7411,7 +7407,7 @@ I presidenti delle istituzioni dell'Unione possono rilasciare ai membri ed agli 
 
 La Commissione puo' concludere accordi per far riconoscere tali lasciapassare come titoli di viaggio validi sul territorio di Stati terzi.
 
-## CAPO III - MEMBRI DEL PARLAMENTO EUROPEO
+#### CAPO III - MEMBRI DEL PARLAMENTO EUROPEO
 
 ###### Articolo 7
 
@@ -7439,7 +7435,7 @@ L'immunita' li copre anche quando essi si recano al luogo di riunione del Parlam
 
 L'immunita' non puo' essere invocata nel caso di flagrante delitto e non puo' inoltre pregiudicare il diritto del Parlamento europeo di togliere l'immunita' ad uno dei suoi membri.
 
-## CAPO IV - RAPPRESENTANTI DEGLI STATI MEMBRI CHE PARTECIPANO AI LAVORI DELLE ISTITUZIONI DELL'UNIONE
+#### CAPO IV - RAPPRESENTANTI DEGLI STATI MEMBRI CHE PARTECIPANO AI LAVORI DELLE ISTITUZIONI DELL'UNIONE
 
 ###### Articolo 10
 
@@ -7447,7 +7443,7 @@ I rappresentanti degli Stati membri che partecipano al lavoro delle istituzioni 
 
 Il presente articolo si applica ugualmente ai membri degli organi consultivi dell'Unione.
 
-## CAPO V - FUNZIONARI E AGENTI DELL'UNIONE
+#### CAPO V - FUNZIONARI E AGENTI DELL'UNIONE
 
 ###### Articolo 11
 
@@ -7489,13 +7485,13 @@ La legge europea determina le categorie di funzionari e altri agenti dell'Unione
 
 I nomi, le qualifiche e gli indirizzi dei funzionari e altri agenti compresi in tali categorie sono comunicati periodicamente ai governi degli Stati membri.
 
-## CAPO VI - PRIVILEGI E IMMUNITA' DELLE MISSIONI DI STATI TERZI ACCREDITATE PRESSO L'UNIONE
+#### CAPO VI - PRIVILEGI E IMMUNITA' DELLE MISSIONI DI STATI TERZI ACCREDITATE PRESSO L'UNIONE
 
 ###### Articolo 16
 
 Lo Stato membro sul cui territorio e' situata la sede dell'Unione riconosce alle missioni degli Stati terzi accreditate presso l'Unione i privilegi e le immunita' diplomatici d'uso.
 
-## CAPO VII - DISPOSIZIONI GENERALI
+#### CAPO VII - DISPOSIZIONI GENERALI
 
 ###### Articolo 17
 
@@ -7529,7 +7525,7 @@ Il presente protocollo si applica anche alla Banca europea per gli investimenti,
 
 La Banca europea per gli investimenti e' inoltre esente da qualsiasi imposizione fiscale e parafiscale al momento degli aumenti del suo capitale, nonche' dalle varie formalita' che tali operazioni possono comportare nello Stato in cui ha la propria sede. Parimenti, il suo scioglimento e la sua liquidazione non comportano alcuna imposizione fiscale. Infine, l'attivita' della Banca e dei suoi organi, svolgentesi secondo le condizioni statutarie, non da' luogo all'applicazione di tasse sulla cifra di affari.
 
-## TITOLO I - DISPOSIZIONI COMUNI
+### TITOLO I - DISPOSIZIONI COMUNI
 
 8\. PROTOCOLLO RELATIVO AI TRATTATI E ATTI DI ADESIONE DEL REGNO DI DANIMARCA, DELL'IRLANDA E DEL REGNO UNITO DI GRAN BRETAGNA E D'IRLANDA DEL NORD, DELLA REPUBBLICA ELLENICA, DEL REGNO DI SPAGNA E DELLA REPUBBLICA DEL, PORTOGALLO E DELLA REPUBBLICA D'AUSTRIA, DELLA REPUBBLICA DI FINLANDIA E DEL REGNO DI SVEZIA.
 
@@ -7581,9 +7577,9 @@ I testi degli atti delle istituzioni, degli organi e degli organismi delle Comun
 
 Una legge europea del Consiglio puo' abrogare le disposizioni transitorie del presente protocollo quando esse non siano piu' applicabili. Il Consiglio delibera all'unanimita' previa consultazione del Parlamento europeo.
 
-## TITOLO II - DISPOSIZIONI RIPRESE DALL'ATTO RELATIVO ALLE CONDIZIONI DI ADESIONE DEL REGNO DI DANIMARCA, DELL'IRLANDA E DEL REGNO UNITO DI GRAN BRETAGNA E D'IRLANDA DEL NORD
+### TITOLO II - DISPOSIZIONI RIPRESE DALL'ATTO RELATIVO ALLE CONDIZIONI DI ADESIONE DEL REGNO DI DANIMARCA, DELL'IRLANDA E DEL REGNO UNITO DI GRAN BRETAGNA E D'IRLANDA DEL NORD
 
-### SEZIONE 1 - Disposizioni relative a Gibilterra
+##### SEZIONE 1 - Disposizioni relative a Gibilterra
 
 ###### Articolo 6
 
@@ -7599,7 +7595,7 @@ Bretagna e d'Irlanda del Nord.
 
 (1) G.U. L. 73 del 27-3-1972, pag. 47.
 
-## SEZIONE 2 - Disposizioni relative alle Faerøer
+##### SEZIONE 2 - Disposizioni relative alle Faerøer
 
 ###### Articolo 7
 
@@ -7607,7 +7603,7 @@ I cittadini danesi residenti nelle Faeroer sono considerati
 
 cittadini di uno Stato membro ai sensi della Costituzione soltanto a decorrere dalla data alla quale quest'ultima diverrebbe applicabile alle Faerøer.
 
-## SEZIONE 3 - Disposizioni relative alle Isole Normanne e all'isola di Man
+##### SEZIONE 3 - Disposizioni relative alle Isole Normanne e all'isola di Man
 
 ###### Articolo 8
 
@@ -7645,7 +7641,7 @@ Ai sensi della presente sezione e' considerato cittadino delle Isole Normanne o 
 
 Le disposizioni amministrative necessarie per identificare le persone in questione saranno comunicate alla Commissione.
 
-## SEZIONE 4 - Disposizioni relative all'esecuzione della politica d'industrializzazione e di sviluppo economico in Irlanda
+##### SEZIONE 4 - Disposizioni relative all'esecuzione della politica d'industrializzazione e di sviluppo economico in Irlanda
 
 ###### Articolo 14
 
@@ -7657,7 +7653,7 @@ politica risponde al loro interesse comune e convengono di raccomandare a tale s
 
 Gli Stati membri riconoscono in particolare che, in caso di applicazione degli articoli III-167 e III-168 della Costituzione, si dovra' tener conto degli obiettivi di espansione economica e di aumento del livello di vita della popolazione.
 
-## SEZIONE 5 - Disposizioni relative agli scambi di cognizioni con la Danimarca nel campo dell'energia nucleare
+##### SEZIONE 5 - Disposizioni relative agli scambi di cognizioni con la Danimarca nel campo dell'energia nucleare
 
 ###### Articolo 15
 
@@ -7695,7 +7691,7 @@ disposizione della Comunita' europea dell'energia atomica, gli organismi compete
 
 Tali licenze esclusive o parzialmente esclusive vengono concesse su una base commerciale normale.
 
-## SEZIONE 6 - Disposizioni relative agli scambi di cognizioni con l'Irlanda nel campo dell'energia nucleare
+##### SEZIONE 6 - Disposizioni relative agli scambi di cognizioni con l'Irlanda nel campo dell'energia nucleare
 
 ###### Articolo 17
 
@@ -7713,7 +7709,7 @@ Tali licenze esclusive o parzialmente esclusive vengono concesse su una base com
 
 Tali licenze esclusive o parzialmente esclusive vengono concesse su una base commerciale normale.
 
-## SEZIONE 7 - Disposizioni relative agli scambi di cognizioni con il Regno Unito nel campo dell'energia nucleare
+##### SEZIONE 7 - Disposizioni relative agli scambi di cognizioni con il Regno Unito nel campo dell'energia nucleare
 
 ###### Articolo 19
 
@@ -7757,9 +7753,9 @@ Tali licenze esclusive o parzialmente esclusive vengono concesse
 
 su una base commerciale normale.
 
-## TITOLO III - DISPOSIZIONI RIPRESE DALL'ATTO RELATIVO ALLE CONDIZIONI DI ADESIONE DELLA REPUBBLICA ELLENICA
+### TITOLO III - DISPOSIZIONI RIPRESE DALL'ATTO RELATIVO ALLE CONDIZIONI DI ADESIONE DELLA REPUBBLICA ELLENICA
 
-### SEZIONE 1 - Disposizioni relative alla concessione, da parte della Repubblica ellenica, dell'esenzione dai dazi doganali all'importazione di talune merci
+##### SEZIONE 1 - Disposizioni relative alla concessione, da parte della Repubblica ellenica, dell'esenzione dai dazi doganali all'importazione di talune merci
 
 ###### Articolo 21
 
@@ -7773,7 +7769,7 @@ b) del decreto-legge n. 2687/53 (investimento e protezione dei capitali stranier
 
 c) della legge n. 289/76 (incentivi per promuovere lo sviluppo delle regioni di frontiera e concernenti tutte le questioni relative), fino allo scadere degli accordi conclusi dal governo ellenico con i beneficiari di tali misure.
 
-## SEZIONE 2 - Disposizioni relative alla fiscalita'
+##### SEZIONE 2 - Disposizioni relative alla fiscalita'
 
 ###### Articolo 22
 
@@ -7783,7 +7779,7 @@ Gli atti di cui al punto II.2 dell'allegato VIII (1) dell'atto relativo alle con
 
 (1) GU L 291 del 19.11.1979, pag. 163.
 
-## SEZIONE 3 - Disposizioni relative al cotone
+##### SEZIONE 3 - Disposizioni relative al cotone
 
 ###### Articolo 23
 
@@ -7839,7 +7835,7 @@ europei e le decisioni europee che stabiliscono le regole di base necessarie per
 
 Il Consiglio delibera previa consultazione del Parlamento europeo.
 
-## SEZIONE 4 - Disposizioni relative allo sviluppo economico ed industriale della Grecia
+##### SEZIONE 4 - Disposizioni relative allo sviluppo economico ed industriale della Grecia
 
 ###### Articolo 24
 
@@ -7859,7 +7855,7 @@ In particolare, in caso di applicazione degli articoli III-167 e
 
 III-168 della Costituzione, si deve tener conto degli obiettivi di espansione economica e di aumento del livello di vita della popolazione.
 
-## SEZIONE 5 - Disposizioni relative agli scambi di cognizioni con la Repubblica ellenica nel campo dell'energia nucleare
+##### SEZIONE 5 - Disposizioni relative agli scambi di cognizioni con la Repubblica ellenica nel campo dell'energia nucleare
 
 ###### Articolo 25
 
@@ -7899,9 +7895,9 @@ Tali licenze esclusive o parzialmente esclusive vengono concesse
 
 su una base commerciale normale.
 
-## TITOLO IV - DISPOSIZIONI RIPRESE DALL'ATTO RELATIVO ALLE CONDIZIONI DI ADESIONE DEL REGNO DI SPAGNA E DELLA REPUBBLICA DEL PORTOGALLO
+### TITOLO IV - DISPOSIZIONI RIPRESE DALL'ATTO RELATIVO ALLE CONDIZIONI DI ADESIONE DEL REGNO DI SPAGNA E DELLA REPUBBLICA DEL PORTOGALLO
 
-### SEZIONE 1 - Disposizioni finanziarie
+##### SEZIONE 1 - Disposizioni finanziarie
 
 ###### Articolo 27
 
@@ -7909,7 +7905,7 @@ Le risorse proprie provenienti dall'imposta sul valore aggiunto
 
 sono calcolate e verificate come se le Isole Canarie e Ceuta e Melilla fossero incluse nel campo d'applicazione territoriale della sesta direttiva 77/388/CEE del Consiglio, del 17 maggio 1977, in materia di armonizzazione delle legislazioni degli Stati membri relative alle imposte sulla cifra d'affari-Sistema comune di imposta sul valore aggiunto: base imponibile uniforme.
 
-## SEZIONE 2 - Disposizioni relative ai brevetti
+##### SEZIONE 2 - Disposizioni relative ai brevetti
 
 ###### Articolo 28
 
@@ -7939,7 +7935,7 @@ Per "descrizione-sequestro" si intende una procedura che si
 
 inserisce nel sistema di cui al primo e secondo comma secondo la quale ogni persona che abbia il diritto d'intentare un'azione per contraffazione puo', in virtu' di una decisione giudiziaria emessa su sua richiesta, ottenere che un ufficiale giudiziario assistito da esperti proceda nei locali del presunto contraffattore alla descrizione particolareggiata dei processi controversi, segnatamente facendo fotocopie di documenti tecnici, con o senza sequestro effettivo. Questa decisione giudiziaria puo' ordinare il versamento di una cauzione, destinata ad accordare risarcimenti al presunto contraffattore in caso di pregiudizi causati dalla "descrizione-sequestro".
 
-## SEZIONE 3 - Disposizioni relative al meccanismo complementare di compensazione nel quadro degli accordi di pesca conclusi dall'Unione con taluni paesi terzi
+##### SEZIONE 3 - Disposizioni relative al meccanismo complementare di compensazione nel quadro degli accordi di pesca conclusi dall'Unione con taluni paesi terzi
 
 ###### Articolo 30
 
@@ -7971,9 +7967,9 @@ Le modalita' di applicazione del presente regime, nonche' i
 
 quantitativi interessati, sono adottati secondo la procedura di cui all'articolo 37 del regolamento (CE) n. 104/2000.
 
-## SEZIONE 4 - Disposizioni relative a Ceuta e Melilla
+##### SEZIONE 4 - Disposizioni relative a Ceuta e Melilla
 
-### Sottosezione 1 - Disposizioni generali
+**Sottosezione 1 - Disposizioni generali**
 
 ###### Articolo 31
 
@@ -8009,7 +8005,7 @@ Il Consiglio delibera all'unanimita' previa consultazione del
 
 Parlamento europeo.
 
-## Sottosezione 2 - Disposizioni relative alla politica comune della pesca
+**Sottosezione 2 - Disposizioni relative alla politica comune della pesca**
 
 ###### Articolo 32
 
@@ -8039,7 +8035,7 @@ Esso delibera all'unanimita'.
 
 previa consultazione del Parlamento europeo.
 
-## Sottosezione 3 - Disposizioni relative alla libera circolazione delle merci, alla legislazione doganale e alla politica commerciale
+**Sottosezione 3 - Disposizioni relative alla libera circolazione delle merci, alla legislazione doganale e alla politica commerciale**
 
 ###### Articolo 33
 
@@ -8115,7 +8111,7 @@ Queste regole comprendono, in particolare, disposizioni
 
 sull'apposizione dei marchi e/o sull'etichettatura dei prodotti, sulle condizioni di immatricolazione delle navi, sull'applicazione delle regole del cumulo dell'origine per i prodotti della pesca, nonche' disposizioni che permettano di determinare l'origine dei prodotti.
 
-## SEZIONE 5 - Disposizioni relative allo sviluppo regionale della Spagna
+##### SEZIONE 5 - Disposizioni relative allo sviluppo regionale della Spagna
 
 ###### Articolo 40
 
@@ -8135,7 +8131,7 @@ Gli Stati membri riconoscono in particolare che, in caso di
 
 applicazione degli articoli III-167 e III-168 della Costituzione, si dovra' tener conto degli obiettivi di espansione economica e di aumento del livello di vita della popolazione delle regioni e delle zone meno sviluppate della Spagna.
 
-## SEZIONE 6 - Disposizioni relative allo sviluppo economico ed industriale del Portogallo
+##### SEZIONE 6 - Disposizioni relative allo sviluppo economico ed industriale del Portogallo
 
 ###### Articolo 41
 
@@ -8155,7 +8151,7 @@ Gli Stati membri riconoscono in particolare che, in caso di
 
 applicazione degli articoli III-167 e III-168 della Costituzione, si dovra' tener conto degli obiettivi di espansione economica e di aumento del livello di vita della popolazione.
 
-## SEZIONE 7 - Disposizioni relative agli scambi di cognizioni con il Regno di Spagna nel campo dell'energia nucleare
+##### SEZIONE 7 - Disposizioni relative agli scambi di cognizioni con il Regno di Spagna nel campo dell'energia nucleare
 
 ###### Articolo 42
 
@@ -8199,7 +8195,7 @@ Tali licenze esclusive o parzialmente esclusive vengono concesse
 
 su una base commerciale normale.
 
-## SEZIONE 8 - Disposizioni relative agli scambi di cognizioni con la Repubblica del Portogallo nel campo dell'energia nucleare
+##### SEZIONE 8 - Disposizioni relative agli scambi di cognizioni con la Repubblica del Portogallo nel campo dell'energia nucleare
 
 ###### Articolo 44
 
@@ -8243,9 +8239,9 @@ Tali licenze esclusive o parzialmente esclusive vengono concesse
 
 su una base commerciale normale.
 
-## TITOLO V - DISPOSIZIONI RIPRESE DALL'ATTO RELATIVO ALLE CONDIZIONI DI ADESIONE DELLA REPUBBLICA D'AUSTRIA, DELLA REPUBBLICA DI FINLANDIA E DEL REGNO DI SVEZIA
+### TITOLO V - DISPOSIZIONI RIPRESE DALL'ATTO RELATIVO ALLE CONDIZIONI DI ADESIONE DELLA REPUBBLICA D'AUSTRIA, DELLA REPUBBLICA DI FINLANDIA E DEL REGNO DI SVEZIA
 
-### SEZIONE 1 - Disposizioni finanziarie
+##### SEZIONE 1 - Disposizioni finanziarie
 
 ###### Articolo 46
 
@@ -8253,7 +8249,7 @@ Le risorse proprie provenienti dall'imposta sul valore aggiunto
 
 sono calcolate e controllate come se le isole Aland fossero ricomprese nell'ambito di applicazione territoriale della sesta direttiva 7/388/CEE del Consiglio, del 17 maggio 1977, in materia di armonizzazione delle legislazioni degli Stati membri relative alle imposte sulla cifra d'affari-Sistema comune di imposta sul valore aggiunto: base imponibile uniforme.
 
-## SEZIONE 2 - Disposizioni relative all'agricoltura
+##### SEZIONE 2 - Disposizioni relative all'agricoltura
 
 ###### Articolo 47
 
@@ -8363,7 +8359,7 @@ cui al paragrafo 1. Il Consiglio delibera all'unanimita' previa consultazione de
 
 Gli articoli 51 e 52 si applicano ai prodotti della pesca.
 
-## SEZIONE 3 - Disposizioni relative alle misure transitorie
+##### SEZIONE 3 - Disposizioni relative alle misure transitorie
 
 ###### Articolo 54
 
@@ -8379,7 +8375,7 @@ comma, i rimandi alle disposizioni del trattato che istituisce la Comunita' euro
 
 (1) GU.C n 241 del 29.8.1994, pag. 322.
 
-## SEZIONE 4 - Disposizioni relative all'applicabilita' di taluni atti
+##### SEZIONE 4 - Disposizioni relative all'applicabilita' di taluni atti
 
 ###### Articolo 55
 
@@ -8395,7 +8391,7 @@ del 1° gennaio 1995 ai sensi dell'articolo 61 dell'accordo SEE e che a seguito 
 
 dall'Autorita' di vigilanza EFTA rimangono valide dopo il 1° gennaio 1995, purche' la Commissione non prenda una decisione debitamente motivata in contrario, conformemente al diritto dell'Unione.
 
-## SEZIONE 5 - Disposizioni relative alle Isole Åland
+##### SEZIONE 5 - Disposizioni relative alle Isole Åland
 
 ###### Articolo 56
 
@@ -8437,7 +8433,7 @@ Le disposizioni della presente sezione si applicano tenendo conto
 
 della dichiarazione relativa alle isole Åland che riprende, senza alterarne la portata giuridica, i termini del preambolo che figurava nel protocollo n. 2 dell'atto relativo alle condizioni di adesione della Repubblica d'Austria, della Repubblica di Finlandia e del Regno di Svezia.
 
-## SEZIONE 6 - Disposizioni relative alla popolazione Sami
+##### SEZIONE 6 - Disposizioni relative alla popolazione Sami
 
 ###### Articolo 60
 
@@ -8457,7 +8453,7 @@ Le disposizioni della presente sezione si applicano tenendo conto
 
 della dichiarazione sulla popolazione Sami che riprende, senza alterarne la portata giuridica, i termini del preambolo che figurava nel protocollo n. 3 dell'Atto relativo alle condizioni di adesione della Repubblica d'Austria, della Repubblica di Finlandia e del Regno di Svezia.
 
-## SEZIONE 7 - Disposizioni speciali nel quadro dei fondi a finalita' strutturale in Finlandia e Svezia
+##### SEZIONE 7 - Disposizioni speciali nel quadro dei fondi a finalita' strutturale in Finlandia e Svezia
 
 ###### Articolo 63
 
@@ -8469,7 +8465,7 @@ e l'adeguamento strutturale di regioni a scarsissima densita' di popolazione cor
 
 (1) GU C 241 del 29.8.1994, pag. 355.
 
-## SEZIONE 8 - Disposizioni relative al trasporto ferroviario e combinato in Austria
+##### SEZIONE 8 - Disposizioni relative al trasporto ferroviario e combinato in Austria
 
 ###### Articolo 64
 
@@ -8603,7 +8599,7 @@ applicano gli articoli 3 e 7 della decisione 1999/468/CE.
 
 3\. Il comitato adotta il proprio regolamento interno.
 
-## SEZIONE 9 - Disposizioni relative all'uso di specifici termini austriaci della lingua tedesca nell'ambito dell'Unione europea
+##### SEZIONE 9 - Disposizioni relative all'uso di specifici termini austriaci della lingua tedesca nell'ambito dell'Unione europea
 
 ###### Articolo 74
 
@@ -8749,7 +8745,7 @@ L'applicazione della Costituzione e degli atti adottati dalla
 
 istituzioni e' soggetta, a titolo transitorio, alle deroghe previste dal presente protocollo.
 
-## TITOLO II - DISPOSIZIONI PERMANENTI
+### TITOLO II - DISPOSIZIONI PERMANENTI
 
 ###### Articolo 12
 
@@ -8769,7 +8765,7 @@ Una legge europea del Consiglio puo' effettuare gli adattamenti
 
 delle disposizioni del presente protocollo, relative alla politica agricola comune, che possono risultare necessari in seguito a una modifica del diritto dell'Unione. Il Consiglio delibera all'unanimita' previa consultazione del Parlamento europeo.
 
-## TITOLO III - DISPOSIZIONI TEMPORANEE
+### TITOLO III - DISPOSIZIONI TEMPORANEE
 
 ###### Articolo 15
 
@@ -9229,7 +9225,7 @@ nell'allegato XVI dell'atto di adesione del 16 aprile 2003 il mandato dei nuovi 
 
 dalla Commissione, elencati nell'allegato XVII dell'atto di adesione del 16 aprile 2003, scade contemporaneamente a quello dei membri che sono in carica al 1° maggio 2004.
 
-## TITOLO IV - APPLICABILITA' DEGLI ATTI DELLE ISTITUZIONI
+### TITOLO IV - APPLICABILITA' DEGLI ATTI DELLE ISTITUZIONI
 
 ###### Articolo 33
 
@@ -9307,7 +9303,7 @@ Il capitale e i versamenti di cui agli articoli 38, 39 e 40 del
 
 presente titolo sono versati dal Regno di Spagna e dai nuovi Stati membri in contanti in euro, salvo deroga decisa all'unanimita' dal consiglio dei governatori.
 
-## TITOLO II - DISPOSIZIONI RELATIVE ALLA RISTRUTTURAZIONE DELL'INDUSTRIA SIDERURGICA CECA
+### TITOLO II - DISPOSIZIONI RELATIVE ALLA RISTRUTTURAZIONE DELL'INDUSTRIA SIDERURGICA CECA
 
 ###### Articolo 42
 
@@ -9569,7 +9565,7 @@ societa' in questione di rimborsare gli eventuali aiuti concessi in violazione d
 
 (1) GU L 257 del 10.10.1995, pag. 26.
 
-## TITOLO III - DISPOSIZIONI RELATIVE ALLE ZONE DI SOVRANITA' DEL REGNO UNITO DI GRAN BRETAGNA E D'IRLANDA DEL NORD A CIPRO
+### TITOLO III - DISPOSIZIONI RELATIVE ALLE ZONE DI SOVRANITA' DEL REGNO UNITO DI GRAN BRETAGNA E D'IRLANDA DEL NORD A CIPRO
 
 ###### Articolo 43
 
@@ -9665,7 +9661,7 @@ Le disposizioni del presente titolo si applicano alla luce della
 
 dichiarazione relativa alle zone di sovranita' del Regno Unito di Gran Bretagna e d'Irlanda del Nord a Cipro che riprende, senza alterarne la portata giuridica, i termini del preambolo che figurava nel protocollo 3 dell'atto di adesione del 16 aprile 2003.
 
-## TITOLO IV - DISPOSIZIONI RELATIVE ALLA CENTRALE NUCLEARE DI IGNALINA IN LITUANIA
+### TITOLO IV - DISPOSIZIONI RELATIVE ALLA CENTRALE NUCLEARE DI IGNALINA IN LITUANIA
 
 ###### Articolo 52
 
@@ -9755,7 +9751,7 @@ Il presente titolo si applica alla luce della dichiarazione
 
 relativa alla centrale nucleare di Ignalina in Lituania, che riprende, senza alterarne la portata giuridica, i termini del preambolo che figurava nel protocollo n. 4 dell'atto di adesione del 16 aprile 2003.
 
-## TITOLO V - DISPOSIZIONI RELATIVE AL TRANSITO DI PERSONE PER VIA TERRESTRE TRA LA REGIONE DI KALININGRAD ED ALTRE PARTI DELLA FEDERAZIONE RUSSA
+### TITOLO V - DISPOSIZIONI RELATIVE AL TRANSITO DI PERSONE PER VIA TERRESTRE TRA LA REGIONE DI KALININGRAD ED ALTRE PARTI DELLA FEDERAZIONE RUSSA
 
 ###### Articolo 57
 
@@ -9789,7 +9785,7 @@ Il presente titolo si applica alla luce della dichiarazione
 
 relativa al transito di persone per via terrestre tra la regione di Kaliningrad ed altre parti della Federazione russa che riprende, senza alterarne la portata giuridica, i termini del preambolo che figurava nel protocollo n. 5 dell'atto di adesione del 16 aprile 2003.
 
-## TITOLO VI - DISPOSIZIONI RELATIVE ALL'ACQUISTO DI RESIDENZE SECONDARIE A MALTA
+### TITOLO VI - DISPOSIZIONI RELATIVE ALL'ACQUISTO DI RESIDENZE SECONDARIE A MALTA
 
 ###### Articolo 61
 
@@ -9805,7 +9801,7 @@ Qualora il valore del bene acquistato da un cittadino di uno
 
 Stato membro superi le soglie previste dalla legislazione maltese, segnatamente 30.000 lire maltesi per gli appartamenti e 50.000 lire maltesi per qualsiasi tipo di bene diverso dagli appartamenti e dai beni di importanza storica, e' concessa un'autorizzazione. Malta puo' rivedere tali soglie per riflettere le fluttuazioni di prezzi del mercato immobiliare maltese.
 
-## TITOLO VII - DISPOSIZIONI RELATIVE ALL'ABORTO A MALTA
+### TITOLO VII - DISPOSIZIONI RELATIVE ALL'ABORTO A MALTA
 
 ###### Articolo 62
 
@@ -9813,7 +9809,7 @@ Nessuna disposizione del trattato che adotta una Costituzione per
 
 l'Europa o dei trattati e degli atti che lo modificano o integrano incide sull'applicazione nel territorio di Malta della legislazione nazionale in materia di aborto.
 
-## TITOLO VIII - DISPOSIZIONI RELATIVE ALLA RISTRUTTURAZIONE DELL'INDUSTRIA SIDERURGICA POLACCA
+### TITOLO VIII - DISPOSIZIONI RELATIVE ALLA RISTRUTTURAZIONE DELL'INDUSTRIA SIDERURGICA POLACCA
 
 ###### Articolo 63
 
@@ -10061,7 +10057,7 @@ societa' interessate il rimborso di qualsiasi aiuto concesso in violazione delle
 
 (1) GU L 348 del 31.12.1993, pag. 2.
 
-## TITOLO IX - DISPOSIZIONI RELATIVE ALL'UNITA' 1 E ALL'UNITA' 2 DELLA CENTRALE NUCLEARE DI BOHUNICE V1 IN SLOVACCHIA
+### TITOLO IX - DISPOSIZIONI RELATIVE ALL'UNITA' 1 E ALL'UNITA' 2 DELLA CENTRALE NUCLEARE DI BOHUNICE V1 IN SLOVACCHIA
 
 ###### Articolo 64
 
@@ -10103,7 +10099,7 @@ Le disposizioni del presente titolo si applicano alla luce della
 
 dichiarazione relativa all'unita' 1 e all'unita' 2 della centrale nucleare di Bohunice V1 in Slovacchia, che riprende, senza alterarne la portata giuridica, i termini del preambolo che figurava nel protocollo n. 9 dell'atto di adesione del 16 aprile 2003.
 
-## TITOLO X - DISPOSIZIONI RELATIVE A CIPRO
+### TITOLO X - DISPOSIZIONI RELATIVE A CIPRO
 
 ###### Articolo 68
 
@@ -11257,7 +11253,7 @@ o) all'articolo 14, i termini "risultano necessarie" sono
 
 sostituiti da "risulti necessario adottare"; i termini "su proposta" sono sostituiti da "su iniziativa"; i termini "adotta tali misure" sono sostituiti da "adotta i regolamenti europei o le decisioni europee necessari".
 
-## TITOLO I - DISPOSIZIONI CONCERNENTI IL PARLAMENTO EUROPEO
+### TITOLO I - DISPOSIZIONI CONCERNENTI IL PARLAMENTO EUROPEO
 
 34\. PROTOCOLLO SULLE DISPOSIZIONI TRANSITORIE RELATIVE ALLE
 
@@ -11285,7 +11281,7 @@ dei rappresentanti al Parlamento europeo eletti in ciascuno Stato membro restano
 
 Belgio............................................................ 24 Repubblica ceca................................................... 24 Danimarca......................................................... 14 Germania.......................................................... 99 Estonia........................................................... 6 Grecia............................................................ 24 Spagna............................................................ 54 Francia........................................................... 78 Irlanda........................................................... 13 Italia............................................................ 78 Cipro............................................................. 6 Lettonia.......................................................... 9 Lituania.......................................................... 13 Lussemburgo....................................................... 6 Ungheria.......................................................... 24 Malta............................................................. 5 Paesi Bassi....................................................... 27 Austria........................................................... 18 Polonia........................................................... 54 Portogallo........................................................ 24 Slovenia.......................................................... 7 Slovacchia........................................................ 14 Finlandia......................................................... 14 Svezia............................................................ 19 Regno Unito....................................................... 78
 
-## TITOLO II - DISPOSIZIONI CONCERNENTI IL CONSIGLIO EUROPEO E IL CONSIGLIO DEI MINISTRI
+### TITOLO II - DISPOSIZIONI CONCERNENTI IL CONSIGLIO EUROPEO E IL CONSIGLIO DEI MINISTRI
 
 ###### Articolo 2
 
@@ -11385,7 +11381,7 @@ Fino all'entrata in vigore della decisione europea di cui
 
 all'articolo I-24, paragrafo 4 della Costituzione, il Consiglio puo' riunirsi nelle formazioni previste all'articolo I-24, paragrafi 2 e 3, nonche' nelle altre formazioni il cui elenco e' stabilito con decisione europea del Consiglio "Affari generali", deliberante a maggioranza semplice.
 
-## TITOLO III - DISPOSIZIONI RELATIVE ALLA COMMISSIONE, INCLUSO IL MINISTRO DEGLI AFFARI ESTERI DELL'UNIONE
+### TITOLO III - DISPOSIZIONI RELATIVE ALLA COMMISSIONE, INCLUSO IL MINISTRO DEGLI AFFARI ESTERI DELL'UNIONE
 
 ###### Articolo 4
 
@@ -11393,7 +11389,7 @@ I membri della Commissione in carica alla data di entrata in
 
 vigore del trattato che adotta una Costituzione per l'Europa rimangono in carica fino alla scadenza del loro mandato. Tuttavia, il giorno della nomina del ministro degli affari esteri dell'Unione, giunge a termine il mandato del membro avente la stessa nazionalita' di tale ministro.
 
-## TITOLO IV - DISPOSIZIONI RELATIVE AL SEGRETARIO GENERALE DEL CONSIGLIO, ALTO RAPPRESENTANTE PER LA POLITICA ESTERA E DI SICUREZZA COMUNE, E AL SEGRETARIO GENERALE AGGIUNTO DEL CONSIGLIO
+### TITOLO IV - DISPOSIZIONI RELATIVE AL SEGRETARIO GENERALE DEL CONSIGLIO, ALTO RAPPRESENTANTE PER LA POLITICA ESTERA E DI SICUREZZA COMUNE, E AL SEGRETARIO GENERALE AGGIUNTO DEL CONSIGLIO
 
 ###### Articolo 5
 
@@ -11401,7 +11397,7 @@ Il mandato del segretario generale del Consiglio, alto
 
 rappresentante per la politica estera e di sicurezza comune, e del segretario generale aggiunto del Consiglio giunge a termine alla data di entrata in vigore del trattato che adotta una Costituzione per l'Europa. Il Consiglio nomina il segretario generale in conformita' dell'articolo III-344, paragrafo 2 della Costituzione.
 
-## TITOLO V - DISPOSIZIONI CONCERNENTI GLI ORGANI CONSULTIVI
+### TITOLO V - DISPOSIZIONI CONCERNENTI GLI ORGANI CONSULTIVI
 
 ###### Articolo 6
 
@@ -12422,7 +12418,7 @@ La Conferenza prende atto delle spiegazioni relative alla Carta
 
 dei diritti fondamentali, elaborate sotto l'autorita' del Praesidium della Convenzione che ha redatto la Carta e aggiornate sotto la responsabilita' del Praesidium della Convenzione europea, riportate qui di seguito.
 
-## TITOLO I - DIGNITA'
+### TITOLO I - DIGNITA'
 
 SPIEGAZIONI RELATIVE ALLA CARTA DEI DIRITTI FONDAMENTALI
 
@@ -12676,7 +12672,7 @@ capitolo VI della convenzione di applicazione dell'accordo di Schengen, che e' s
 
 (4) Articolo II-65 della Costituzione.
 
-## TITOLO II - LIBERTA'
+### TITOLO II - LIBERTA'
 
 ###### art. 6
 
@@ -13036,7 +13032,7 @@ Il paragrafo 2 incorpora la pertinente giurisprudenza della Corte europea dei di
 
 (3) Articolo II-79 della Costituzione.
 
-## TITOLO III - UGUAGLIANZA
+### TITOLO III - UGUAGLIANZA
 
 ###### Articolo 20 (1)
 
@@ -13152,7 +13148,7 @@ Il principio contenuto in questo articolo si basa sull'articolo 15 della Carta s
 
 (1) Articolo II-86 della Costituzione.
 
-## TITOLO IV - SOLIDARIETA'
+### TITOLO IV - SOLIDARIETA'
 
 ###### art. 27
 
@@ -13336,7 +13332,7 @@ Il principio contenuto in questo articolo e' stato basato sull'articolo 153 del 
 
 (1) Articolo II-98 della Costituzione.
 
-## TITOLO V - CITTADINANZA
+### TITOLO V - CITTADINANZA
 
 ###### art. 39
 
@@ -13488,7 +13484,7 @@ Il diritto sancito da questo articolo e' quello garantito dall'articolo I-10 del
 
 (4) Articolo II-106 della Costituzione.
 
-## TITOLO VI - GIUSTIZIA
+### TITOLO VI - GIUSTIZIA
 
 ###### art. 47
 
@@ -13616,7 +13612,7 @@ Ai sensi dell'articolo 50 (2), la regola "bis in idem" non si applica solo all'i
 
 (3) Articolo II-112, paragrafo 2 della Costituzione.
 
-## TITOLO VII - DISPOSIZIONI GENERALI CHE DISCIPLINANO L'INTERPRETAZIONE E L'APPLICAZIONE DELLA CARTA
+### TITOLO VII - DISPOSIZIONI GENERALI CHE DISCIPLINANO L'INTERPRETAZIONE E L'APPLICAZIONE DELLA CARTA
 
 ###### Articolo 51 (1) Ambito di applicazione
 

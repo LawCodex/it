@@ -32,7 +32,7 @@ Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commiss
 
 Noi abbiamo sanzionato e promulghiamo quanto segue:
 
-### Art. 1
+## Art. 1
 
 La Regia guardia di finanza dipende dal Ministro per le finanze, fa parte integrante delle Forze armate dello Stato e della forza pubblica ed ha il compito di:
 
@@ -46,13 +46,13 @@ d) concorrere al mantenimento dell'ordine e delle sicurezza pubblica;
 
 e) eseguire altri servizi di pubblica vigilanza e tutela, per i quali, secondo le disposizioni di leggi speciali, sia richiesto il suo intervento.
 
-### Art. 2
+## Art. 2
 
 I sottufficiali ed i militari di truppa sono ripartiti in due contingenti: del ramo terra e del ramo mare.
 
 La ripartizione dell'organico fra i suddetti due contingenti e le successive variazioni vengono stabilite con decreto Ministeriale.
 
-### Art. 3
+## Art. 3
 
 Per l'esercizio delle officine adibite alla manutenzione e riparazione dei natanti del naviglio della Regia guardia di finanza, il Ministro per le finanze e' autorizzato ad assumere il personale tecnico necessario delle seguenti categorie:
 
@@ -66,7 +66,7 @@ A tale personale sono applicabili il testo unico delle disposizioni legislative 
 
 Il numero massimo degli incaricati stabili sara' fissato col regolamento organico.
 
-### Art. 4
+## Art. 4
 
 Con decreti Reali, previa deliberazione del Consiglio dei Ministri e udito il parere del Consiglio di Stato, saranno emanati:
 
@@ -96,11 +96,11 @@ h) norme per il servizio automobilistico della Regia guardia di finanza;
 
 i) norme per l'organizzazione ed il funzionamento della banda musicale della Regia guardia di finanza.
 
-### Art. 5
+## Art. 5
 
 ((ARTICOLO ABROGATO DALLA L. 5 NOVEMBRE 1962, N. 1695))
 
-### Art. 6
+## Art. 6
 
 Il R. decreto 4 ottobre 1935-XIII, n. 1901, e' abrogato a decorrere:
 
@@ -108,11 +108,11 @@ a) dal 15 ottobre 1941-XIX, nei riguardi degli ufficiali;
 
 b) dal 1° dicembre 1941-XX, nei riguardi dei sottufficiali e dei militari di truppa.
 
-### Art. 7
+## Art. 7
 
 I maestri di scherma della Regia guardia di finanza possono, al compimento del 56° anno di eta', su conforme giudizio insindacabile di' apposita Commissione composta del comandante generale, del comandante in 2° e del comandante di legione o di reparto corrispondente dal quale ciascuno dipende, essere trattenuti in servizio, con concessione da rinnovarsi di anno in anno, sino al raggiungimento del 65° anno di eta'.
 
-### Art. 8
+## Art. 8
 
 L'art. 2 della legge 20 marzo 1940-XVIII, n. 234, e' sostituito dal seguente:
 
@@ -126,7 +126,7 @@ L'art. 2 della legge 20 marzo 1940-XVIII, n. 234, e' sostituito dal seguente:
 
 4\) i marescialli maggiori della Regia guardia di finanza, all'atto della loro cessazione dal servizio permanente, purche' abbiano acquisito in via normale il diritto al collocamento a riposo, per aver compiuto il periodo minimo di servizio all'uopo prescritto».
 
-### Art. 9
+## Art. 9
 
 L'art. 12 del R. decreto-legge 4 ottobre 1935-XIII, n. 1961, convertito nella legge 9 gennaio 1936-XIV, 75, e' sostituito dal seguente:
 
@@ -134,33 +134,33 @@ L'art. 12 del R. decreto-legge 4 ottobre 1935-XIII, n. 1961, convertito nella le
 
 I modi e le condizioni per l'ammissione ai corsi allievi sottufficiali sono stabiliti dal regolamento organico».
 
-### Art. 10
+## Art. 10
 
 ((ARTICOLO ABROGATO DALLA L. 18 GENNAIO 1952, N. 40))
 
-### Art. 11
+## Art. 11
 
 ((ARTICOLO ABROGATO DALLA L. 18 GENNAIO 1952, N. 40))
 
-### Art. 12
+## Art. 12
 
 I sottufficiali ed i militari di truppa richiamati o comunque trattenuti alle armi possono essere dispensati dal servizio nei casi e nei modi previsti per i sottufficiali e militari di truppa del servizio permanente della Regia guardia di finanza.
 
 ## Disposizioni transitorie
 
-### Art. 13
+## Art. 13
 
 Le disposizioni degli articoli 31 e 32 della legge 7 giugno 1937-XV, n. 913, continuano ad aver vigore fino al 30 giugno 1945-XXIII.
 
-### Art. 14
+## Art. 14
 
 I salariati del naviglio, attualmente in servizio, appartenenti alla categoria di operai permanenti, sono in via di graduale eliminazione; dopo il loro collocamento a riposo o licenziamento non saranno sostituiti.
 
-### Art. 15
+## Art. 15
 
 Le disposizioni di cui al precedente art. 9 non si applicano al concorso bandito per l'anno 1942.
 
-### Art. 16
+## Art. 16
 
 Sono abrogate tutte le disposizioni contrarie alla presente legge.
 

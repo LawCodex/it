@@ -26,7 +26,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Entrate tributarie.
 
@@ -44,7 +44,7 @@ Alle Regioni e' attribuito il gettito delle imposte erariali sul reddito dominic
 
 Alle Regioni sono altresi' attribuite quote del gettito di tributi erariali mediante la costituzione di apposito fondo comune.
 
-### Art. 2
+## Art. 2
 
 Imposta sulle concessioni statali.
 
@@ -62,7 +62,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 6 maggio 2011, n. 68 ha disposto (con l'art. 8, comma 1) che "Ferma la facolta' per le regioni di sopprimerli, a decorrere dal 1° gennaio 2013 sono trasformati in tributi propri regionali la tassa per l'abilitazione all'esercizio professionale, l'imposta regionale sulle concessioni statali dei beni del demanio marittimo, l'imposta regionale sulle concessioni statali per l'occupazione e l'uso dei beni del patrimonio indisponibile, la tassa per l'occupazione di spazi ed aree pubbliche regionali, le tasse sulle concessioni regionali, l'imposta sulle emissioni sonore degli aeromobili, di cui all'articolo 190 del Regio Decreto 31 agosto 1933, n. 1592, all'articolo 121 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, agli articoli 1, 5 e 6 del decreto-legge 5 ottobre 1993, n. 400, convertito, con modificazioni, dalla legge 4 dicembre 1993, n. 494, all'articolo 2 della legge 16 maggio 1970, n. 281, all'articolo 5 della citata legge n. 281 del 1970, all'articolo 3 della citata legge n. 281 del 1970, agli articoli da 90 a 95 della legge 21 novembre 2000, n. 342".
 
-### Art. 3 - Tassa sulle concessioni regionali
+## Art. 3 - Tassa sulle concessioni regionali
 
 1\. Le tasse sulle concessioni regionali si applicano agli atti e provvedimenti, adottati dalle regioni nell'esercizio delle loro funzioni o dagli enti locali nell'esercizio delle funzioni regionali ad essi delegate ai sensi degli articoli 117 e 118 della Costituzione, indicati nell'apposita tariffa approvata con decreto del Presidente della Repubblica, avente valore di legge ordinaria. (5)
 
@@ -104,7 +104,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 6 maggio 2011, n. 68 ha disposto (con l'art. 8, comma 1) che "Ferma la facolta' per le regioni di sopprimerli, a decorrere dal 1° gennaio 2013 sono trasformati in tributi propri regionali la tassa per l'abilitazione all'esercizio professionale, l'imposta regionale sulle concessioni statali dei beni del demanio marittimo, l'imposta regionale sulle concessioni statali per l'occupazione e l'uso dei beni del patrimonio indisponibile, la tassa per l'occupazione di spazi ed aree pubbliche regionali, le tasse sulle concessioni regionali, l'imposta sulle emissioni sonore degli aeromobili, di cui all'articolo 190 del Regio Decreto 31 agosto 1933, n. 1592, all'articolo 121 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, agli articoli 1, 5 e 6 del decreto-legge 5 ottobre 1993, n. 400, convertito, con modificazioni, dalla legge 4 dicembre 1993, n. 494, all'articolo 2 della legge 16 maggio 1970, n. 281, all'articolo 5 della citata legge n. 281 del 1970, all'articolo 3 della citata legge n. 281 del 1970, agli articoli da 90 a 95 della legge 21 novembre 2000, n. 342".
 
-### Art. 4 - Tassa automobilistica regionale
+## Art. 4 - Tassa automobilistica regionale
 
 1\. La tassa automobilistica regionale si applica ai veicoli ed autoscafi soggetti alla corrispondente tassa erariale immatricolati nelle province delle regioni a statuto ordinario, nonche' a quelli per i quali non occorre il documento di circolazione e che appartengono a persone residenti nelle regioni stesse.
 
@@ -126,7 +126,7 @@ AGGIORNAMENTO (7)
 
 Il D.L. 1°ottobre 1991, n. 307, convertito con modificazioni dalla L. 29 novembre 1991, n. 377, ha disposto (con l'art. 2, comma 1) che "Il termine, previsto dall'articolo 4, comma 2, della legge 16 maggio 1970, n. 281, come modificato dall'articolo 4, comma 3, del decreto-legge 31 ottobre 1990, n. 310, convertito, con modificazioni, dalla legge 22 dicembre 1990, n. 403, per la determinazione da parte delle regioni a statuto ordinario dell'ammontare della tassa automobilistica regionale, e' fissato al 31 ottobre di ciascun anno".
 
-### Art. 5
+## Art. 5
 
 Tassa per l'occupazione di spazi ed aree pubbliche.
 
@@ -148,7 +148,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 6 maggio 2011, n. 68 ha disposto (con l'art. 8, comma 1) che "Ferma la facolta' per le regioni di sopprimerli, a decorrere dal 1° gennaio 2013 sono trasformati in tributi propri regionali la tassa per l'abilitazione all'esercizio professionale, l'imposta regionale sulle concessioni statali dei beni del demanio marittimo, l'imposta regionale sulle concessioni statali per l'occupazione e l'uso dei beni del patrimonio indisponibile, la tassa per l'occupazione di spazi ed aree pubbliche regionali, le tasse sulle concessioni regionali, l'imposta sulle emissioni sonore degli aeromobili, di cui all'articolo 190 del Regio Decreto 31 agosto 1933, n. 1592, all'articolo 121 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, agli articoli 1, 5 e 6 del decreto-legge 5 ottobre 1993, n. 400, convertito, con modificazioni, dalla legge 4 dicembre 1993, n. 494, all'articolo 2 della legge 16 maggio 1970, n. 281, all'articolo 5 della citata legge n. 281 del 1970, all'articolo 3 della citata legge n. 281 del 1970, agli articoli da 90 a 95 della legge 21 novembre 2000, n. 342".
 
-### Art. 6
+## Art. 6
 
 Ricorsi e sanzioni.
 
@@ -160,7 +160,7 @@ Per le infrazioni alle norme relative ai tributi regionali si applicano le dispo
 
 Le sanzioni amministrative sono applicate, con provvedimento motivato, dal presidente della giunta regionale. Avverso tale provvedimento l'azione giudiziaria deve essere proposta, a pena di decadenza, entro sei mesi dalla notificazione.
 
-### Art. 7
+## Art. 7
 
 Attribuzione del gettito di tributi erariali.
 
@@ -170,7 +170,7 @@ Restano a carico della Regione i rimborsi effettuati per qualsiasi causa.
 
 A decorrere dalla data di cui all'ultimo comma dell'articolo 16 e fino al 31 dicembre dell'anno successivo, il gettito delle imposte di cui al primo comma, o di quella ad esse corrispondente in base ai provvedimenti di attuazione della riforma tributaria, e' attribuito alle Regioni nella misura del 50 per cento.
 
-### Art. 8
+## Art. 8
 
 Partecipazione al gettito di imposte erariali.
 
@@ -228,7 +228,7 @@ La L. 23 dicembre 1994, n. 724 ha disposto (con l'art. 34, comma 1) che "A decor
 
 La stessa L. ha inoltre disposto (con l'art. 47, comma 1) che "Le disposizioni della presente legge si applicano con decorrenza dal 1 gennaio 1995".
 
-### Art. 9
+## Art. 9
 
 Fondo per il finanziamento dei programmi regionali di sviluppo.
 
@@ -246,11 +246,11 @@ a) da una quota fissa pari a quella assegnata nell'anno 1990 ai sensi dell'artic
 
 b) da una quota variabile, determinata con la legge finanziaria su base triennale, comprensiva degli stanziamenti annuali previsti dalle vigenti leggi di settore".
 
-### Art. 10
+## Art. 10
 
 ((ARTICOLO ABROGATO DAL D.LGS. 23 GIUGNO 2011, N. 118, COME MODIFICATO DAL D.LGS. 10 AGOSTO 2014, N. 126))
 
-### Art. 11
+## Art. 11
 
 Beni di demanio e patrimonio regionale.
 
@@ -268,13 +268,13 @@ La individuazione dei singoli beni trasferiti sara' effettuata, entro due anni d
 
 ((COMMA ABROGATO DALLA L. 19 MAGGIO 1976, N. 335)).
 
-### Art. 12
+## Art. 12
 
 Contributi speciali.
 
 I contributi speciali di cui all'articolo 119, terzo comma, della Costituzione devono in ogni caso avere carattere aggiuntivo rispetto alle spese direttamente o indirettamente effettuate dallo Stato con carattere di generalita' per tutto il proprio territorio. Essi sono assegnati alle Regioni a statuto ordinario con apposite leggi in relazione alle indicazioni del programma economico nazionale e degli eventuali programmi di sviluppo regionali, con particolare riguardo alla valorizzazione del Mezzogiorno.
 
-### Art. 13
+## Art. 13
 
 Commissione interregionale.
 
@@ -288,7 +288,7 @@ Il D.Lgs. 16 dicembre 1989, n. 418 ha disposto (con l'art. 3, comma 1) che la Co
 
 ## NORME FINALI E TRANSITORIE
 
-### Art. 14
+## Art. 14
 
 Tributi propri.
 
@@ -302,7 +302,7 @@ La riduzione della tassa erariale di circolazione disposta per le Regioni a stat
 
 La quota di partecipazione delle province al provento della tassa erariale, prevista dalle vigenti disposizioni, e' elevata in misura proporzionale alla diminuzione della tassa erariale di cui ai commi sesto e settimo del precedente articolo 4.
 
-### Art. 15
+## Art. 15
 
 Contabilita' speciale.
 
@@ -310,7 +310,7 @@ Per il versamento delle entrate e per il pagamento delle spese di competenza reg
 
 Le norme per la gestione di tale contabilita' speciale sono emanate con decreto del Ministro per il tesoro.
 
-### Art. 16
+## Art. 16
 
 Spese di impianto e di primo funzionamento.
 
@@ -324,7 +324,7 @@ Dalla data di convocazione dei comizi per la elezione dei Consigli regionali e f
 
 ((L'attribuzione alle regioni del gettito di cui all'articolo 7 ha inizio dal 1 gennaio 1971)).
 
-### Art. 17
+## Art. 17
 
 Delega al Governo per il passaggio delle Funzioni e del personale statali alle Regioni.
 
@@ -350,7 +350,7 @@ Le Regioni esercitano la predetta funzione legislativa ad emanazione avvenuta de
 
 Entro lo stesso biennio, in attuazione della IX disposizione transitoria della Costituzione, la Repubblica adegua la propria legislazione alle competenze legislative attribuite alle Regioni".
 
-### Art. 18
+## Art. 18
 
 Trasferimento di spese e formazione del fondo.
 
@@ -360,7 +360,7 @@ Dalla detta data del primo gennaio avra' inizio l'esercizio da parte delle Regio
 
 Sino al completo passaggio delle funzioni e del personale dello Stato alle Regioni, il fondo comune anzidetto e' commisurato a quote dei tributi di cui all'articolo 8, determinate con decreto del Presidente del Consiglio dei Ministri, di concerto con i Ministri per le finanze, per il tesoro e per l'interno, sulla base dell'ammontare complessivo delle spese eliminate nel bilancio dello Stato e delle spese aggiuntive risultanti dall'attuazione del primo comma del presente articolo.
 
-### Art. 19
+## Art. 19
 
 Adeguamento del fondo.
 
@@ -368,11 +368,11 @@ Qualora, per effetto del trasferimento delle funzioni e del personale, l'ammonta
 
 Con le stesse forme, sentita la Regione, si provvedera' a regolare i rapporti finanziari fra Stato e Regione nel caso in cui venga, a norma dell'articolo 118, secondo comma, della Costituzione, delegato alla Regione l'esercizio di altre funzioni statali.
 
-### Art. 20
+## Art. 20
 
 ((ARTICOLO ABROGATO DALLA L. 19 MAGGIO 1976, N. 335))
 
-### Art. 21
+## Art. 21
 
 Copertura degli oneri.
 
@@ -394,7 +394,7 @@ Visto, il Guardasigilli: REALE
 
 ## NORME FINALI E TRANSITORIE
 
-### Tabella
+## Tabella
 
 TABELLA DEI COEFFICIENTI
 

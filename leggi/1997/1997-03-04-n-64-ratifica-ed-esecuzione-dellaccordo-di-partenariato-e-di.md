@@ -27,21 +27,21 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'accordo di partenariato e di cooperazione tra le Comunita' europee ed i loro Stati membri, da una parte, e la Repubblica di Bielorussia, dall'altra, con otto allegati, protocollo relativo all'assistenza reciproca tra le autorita' amministrative in materia doganale, atto finale e scambio di lettere tra la Comunita' e la Repubblica di Bielorussia relativo allo stabilimento di societa', fatto a Bruxelles il 6 marzo 1995.
 
-##### Art. 2
+#### Art. 2
 
 1\. Piena ed intera esecuzione e' data all'accordo di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore in conformita' a quanto disposto dall'articolo 108 dello stesso accordo.
 
-##### Art. 3
+#### Art. 3
 
 1\. All'onere derivante dall'attuazione della presente legge, valutato in lire 10 milioni annue a decorrere dal 1996, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1996-1998, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1996, allo scopo parzialmente utilizzando l'accantonamento riguardante il Ministero degli affari esteri.
 
 2\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 4
+#### Art. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -147,7 +147,7 @@ DESIDEROSE di avviare una cooperazione culturale e di migliorare il flusso delle
 
 HANNO CONVENUTO QUANTO SEGUE:
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 E' istituito un partenariato tra la Comunita' e i suoi Stati membri, da una parte, e la Repubblica di Bielorussia, dall'altra. Gli obiettivi del partenariato sono:
 
@@ -159,25 +159,25 @@ E' istituito un partenariato tra la Comunita' e i suoi Stati membri, da una part
 
 ## TITOLO I - PRINCIPI GENERALI
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Il rispetto della democrazia, dei principi del diritto internazionale e dei diritti dell'uomo definito, in particolare, nell'Atto finale di Helsinki e nella Carta di Parigi per una nuova Europa, nonche' i principi dell'economia di mercato, compresi quelli enunciati nei documenti della Conferenza CSCE di Bonn, sono alla base delle politiche interna ed esterna delle Parti e costituiscono un elemento fondamentale del partenariato e del presente accordo.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 Le Parti ritengono fondamentale, per la futura prosperita' e stabilita' dell'ex Unione Sovietica, che i nuovi Stati indipendenti sorti dopo lo scioglimento dell'Unione delle Repubbliche Socialiste Sovietiche (in appresso denominati "Stati indipendenti") mantengano e sviluppino la cooperazione tra di essi conformemente ai principi dell'Atto finale di Helsinki e alla legislazione internazionale, in uno spirito di buon vicinato, e che moltiplichino gli sforzi per promuovere questo processo.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Le Parti si impegnano, soprattutto quando il processo di riforma economica nella Repubblica di Bielorussia sara' ulteriormente progredito, ad esaminare la possibilita' di ampliare i titoli pertinenti dell'accordo, segnatamente il Titolo III e l'articolo 50, per instaurare fra di esse una zona di libero scambio. Il Consiglio di cooperazione di cui all'articolo 85 puo' fare alle Parti raccomandazioni al riguardo. Agli eventuali ampliamenti si potra' procedere soltanto previo accordo tra le Parti conformemente alle rispettive procedure. Le Parti si consulteranno nel 1998 per decidere se le circostanze, e in particolare i progressi compiuti dalla Repubblica di Bielorussia nell'attuare le riforme economiche orien- tate verso il mercato e le condizioni economiche prevalenti a quel momento, consentono di avviare negoziati per la creazione della zona di libero scambio.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 Le Parti si impegnano ad esaminare insieme e a concordare le eventuali modifiche da apportare a qualsiasi parte dell'accordo per le mutate circostanze, in particolare a seguito dell'adesione della Repubblica di Bielorussia al GATT/OMC. Il primo esame avverra' dopo tre anni dall'entrata in vigore dell'accordo oppure, se questa data e' precedente, nel momento in cui la Repubblica di Bielorussia diventera' Parte contraente del GATT/OMC.
 
 ## TITOLO II - DIALOGO POLITICO
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 Le Parti avviano un regolare dialogo politico, che svilupperanno e intensificheranno in seguito per accompagnare e consolidare il ravvicinamento tra la Comunita' e la Repubblica di Bielorussia, sostenere i mutamenti democratici in corso nella vita politica e il processo di riforma economica in questo paese e contribuire ad instaurare nuove forme di cooperazione. Detto dialogo politico:
 
@@ -187,11 +187,11 @@ Le Parti avviano un regolare dialogo politico, che svilupperanno e intensificher
 
 \- impegnera' le Parti a collaborare per il rafforzamento della stabilita' e della sicurezza in Europa, l'osservanza dei principi della democrazia, il rispetto e la tutela dei diritti dell'uomo, segnatamente quelli delle minoranze; all'occorrenza, saranno previste consultazioni sulle questioni pertinenti.
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 A livello ministeriale, il dialogo politico si svolgera' nell'ambito del Consiglio di cooperazione e, previo mutuo accordo, in altre occasioni.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 Le Parti creeranno altre procedure e altri meccanismi per il dialogo politico, segnatamente:
 
@@ -203,13 +203,13 @@ Le Parti creeranno altre procedure e altri meccanismi per il dialogo politico, s
 
 \- utilizzando qualsiasi altro mezzo che possa contribuire a consolidare e a sviluppare il dialogo politico.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 A livello parlamentare, il dialogo politico si svolgera' nell'ambito del comitato parlamentare di cooperazione creato a norma dell'articolo 90.
 
 ## TITOLO III - SCAMBI DI MERCI
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 1\. Le Parti si concedono reciprocamente il trattamento della nazione piu' favorita a norma dell'articolo 1, paragrafo 1 del GATT.
 
@@ -223,7 +223,7 @@ c) ai vantaggi concessi ai paesi limitrofi per agevolare il traffico frontaliero
 
 3\. Le disposizioni del paragrafo 1 e dell'articolo 11, paragrafo 2 non si applicano, per un periodo transitorio che scadra' il 31 dicembre 1998 o, se precedente, al momento dell'adesione della Repubblica di Bielorussia al GATT, ai vantaggi definiti nell'allegato 1 concessi dalla Repubblica di Bielorussia agli altri Stati indipendenti a decorrere dal giorno che precede l'entrata in vigore dell'accordo.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 1\. Le Parti convengono che la liberta' di transito delle merci e' fondamentale per conseguire gli obiettivi del presente accordo.
 
@@ -233,15 +233,15 @@ A tale riguardo, ciascuna delle Parti garantisce il transito senza restrizioni a
 
 3\. Le disposizioni del presente articolo lasciano impregiudicate tutte le norme speciali relative a settori particolari quali i trasporti o a determinati prodotti concordati tra le Parti.
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 Fatti salvi i diritti e gli obblighi derivanti dalle convenzioni internazionali sull'ammissione temporanea delle merci a cui hanno aderito entrambe le Parti, queste ultime si concedono reciprocamente l'esenzione dagli oneri all'importazione e dai dazi sulle merci in ammissione temporanea, nei casi e secondo le procedure previsti da qualsiasi altra convenzione in materia a cui abbiano aderito conformemente alle rispettive legislazioni. Si terra' conto delle condizioni in cui le Parti hanno accettato gli obblighi derivanti da tale convenzione.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 Le merci originarie della Repubblica di Bielorussia e della Comunita' vengono importate, rispettivamente, nella Comunita' e nella Repubblica di Bielorussia in esenzione da restrizioni quantitative, fatte salve le disposizioni degli articoli 17, 20 e 21, le disposizioni dell'allegato II del presente accordo e le disposizioni degli articoli 77, 81, 244, 249 e 280 degli atti di adesione della Spagna e del Portogallo alla Comunita' europea.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 1\. I prodotti del territorio di una Parte importati nel territorio dell'altra Parte non sono soggetti ne' direttamente ne' indirettamente a tasse interne o ad altri oneri interni di nessuna specie, fatta eccezione per quelli applicati, direttamente o indirettamente, ai prodotti interni simili.
 
@@ -249,7 +249,7 @@ Le merci originarie della Repubblica di Bielorussia e della Comunita' vengono im
 
 3\. L'articolo III, paragrafi 8, 9 e 10 del GATT si applica, mutatis mutandis, tra le Parti.
 
-##### ARTICOLO 15
+#### ARTICOLO 15
 
 I seguenti articoli del GATT si applicano, mutatis mutandis, tra le Parti:
 
@@ -261,11 +261,11 @@ iii) Articolo IX;
 
 iv) Articolo X.
 
-##### ARTICOLO 16
+#### ARTICOLO 16
 
 Le merci vengono commercializzate tra le Parti ai prezzi di mercato.
 
-##### ARTICOLO 17
+#### ARTICOLO 17
 
 1\. Se un prodotto viene importato nel territorio di una delle Parti in quantitativi talmente aumentati o in condizioni tali da provocare o da minacciare di provocare grave pregiudizio ai produttori nazionali di prodotti simili o direttamente concorrenti, la Comunita' o la Repubblica di Bielorussia, a seconda dei casi, possono prendere le misure opportune attenendosi alle seguenti procedure e condizioni.
 
@@ -277,7 +277,7 @@ Le merci vengono commercializzate tra le Parti ai prezzi di mercato.
 
 5\. Nello scegliere le misure previste dal presente articolo, le Parti contraenti privilegiano quelle meno pregiudizievoli per il conseguimento degli obiettivi dell'accordo.
 
-##### ARTICOLO 18
+#### ARTICOLO 18
 
 Il presente Titolo, e in particolare l'articolo 17, non pregiudicano ne' compromettono minimamente l'adozione, ad opera di una delle Parti, di misure antidumping o compensative conformemente all'articolo VI del GATT, all'accordo sull'applicazione dell'articolo VI del GATT, all'accordo sull'interpretazione e sull'applicazione degli articoli VI, XVI e XXIII del GATT o alla relativa legislazione interna.
 
@@ -285,15 +285,15 @@ Per quanto riguarda le inchieste antidumping o antisovvenzioni, ciascuna Parte a
 
 Prima di istituire dazi antidumping o compensativi, ciascuna Parte fa il possibile per risolvere il problema in modo costruttivo.
 
-##### ARTICOLO 19
+#### ARTICOLO 19
 
 Il presente accordo lascia impregiudicati i divieti o le restrizioni all'importazione, all'esportazione o al transito giustificati da motivi di moralita' pubblica, di ordine pubblico, di pubblica sicurezza, dalla tutela della vita e della salute delle persone, degli animali o delle piante, dalla tutela delle risorse naturali, dalla protezione del patrimonio artistico, storico o archeologico nazionale, dalla tutela della proprieta' intellettuale, industriale o commerciale oppure da norme relative all'oro e all'argento. Tuttavia, tali divieti e restrizioni non devono costituire un mezzo di discriminazione arbitraria, ne' una restrizione dissimulata al commercio tra le Parti.
 
-##### ARTICOLO 20
+#### ARTICOLO 20
 
 Il presente Titolo non si applica agli scambi di prodotti tessili che rientrano nei capitoli 50-63 della nomenclatura combinata, disciplinati da un accordo a parte siglato il 1 aprile 1993 e applicato in via provvisoria dal 1 gennaio 1993.
 
-##### ARTICOLO 21
+#### ARTICOLO 21
 
 1\. Gli scambi dei prodotti contemplati dal trattato che istituisce la Comunita' europea del carbone e dell'acciaio sono disciplinati dalle disposizioni del presente Titolo III, fatta eccezione per l'articolo 13.
 
@@ -301,23 +301,21 @@ Il presente Titolo non si applica agli scambi di prodotti tessili che rientrano 
 
 Il gruppo di contatto procede a regolari scambi di informazioni su tutte le questioni siderurgiche che interessano le Parti.
 
-##### ARTICOLO 22
+#### ARTICOLO 22
 
 Agli scambi di materiali nucleari si applicano le disposizioni del trattato che istituisce la Comunita' europea dell'energia atomica. Se del caso, gli scambi di materiali nucleari verranno disciplinati da un accordo specifico concluso tra la Comunita' europea dell'energia atomica e la Repubblica di Bielorussia.
 
 ## TITOLO IV - DISPOSIZIONI RIGUARDANTI LE ATTIVITA' COMMERCIALI E GLI INVESTIMENTI
 
-### CAPITOLO I
+### CAPITOLO I - CONDIZIONI DI LAVORO
 
-#### CONDIZIONI DI LAVORO
-
-##### ARTICOLO 23
+#### ARTICOLO 23
 
 1\. Conformemente alle disposizioni legislative, regolamentari e amministrative applicabili in ciascuno Stato membro, la Comunita' e gli Stati membri si adoperano per evitare che i cittadini bielorussi legalmente impiegati sul territorio di uno Stato membro siano oggetto, rispetto ai loro cittadini, di discriminazioni basate sulla nazionalita' per quanto riguarda le condizioni di lavoro, di retribuzione o di licenziamento.
 
 2\. Conformemente alle disposizioni legislative, regolamentari e amministrative applicabili nella Repubblica di Bielorussia, questo paese si adopera per evitare che i cittadini di uno Stato membro legalmente impiegati sul suo territorio siano oggetto, rispetto ai suoi cittadini, di discriminazioni, basate sulla nazionalita' per quanto riguarda le condizioni di lavoro, di retribuzione o di licenziamento.
 
-##### ARTICOLO 24
+#### ARTICOLO 24
 
 Coordinamento della previdenza sociale
 
@@ -335,25 +333,25 @@ reversibilita' e quelle in seguito a infortuni sul lavoro o a malattie professio
 
 ii) adottare, secondo le condizioni e modalita' applicabili nella Repubblica di Bielorussia, le disposizioni necessarie per concedere ai lavoratori di uno Stato membro legalmente impiegati nella Repubblica di Bielorussia un trattamento simile a quello di cui al secondo trattino del paragrafo i).
 
-##### ARTICOLO 25
+#### ARTICOLO 25
 
 Le misure prese in conformita' dell'articolo 24 non pregiudicano i diritti e gli obblighi previsti dagli accordi bilaterali tra la Repubblica di Bielorussia e gli Stati membri qualora detti accordi prevedano un trattamento piu' favorevole per i cittadini della Repubblica di Bielorussia o degli Stati membri.
 
-##### ARTICOLO 26
+#### ARTICOLO 26
 
 Il Consiglio di cooperazione studia il modo di effettuare congiuntamente un controllo dell'immigrazione illegale tenendo conto del principio e della prassi della riammissione.
 
-##### ARTICOLO 27
+#### ARTICOLO 27
 
 Il Consiglio di cooperazione riflette su come migliorare le condizioni di lavoro per gli uomini d'affari conformemente agli impegni internazionali delle Parti, compresi quelli che figurano nel documento della conferenza CSCE di Bonn.
 
-##### ARTICOLO 28
+#### ARTICOLO 28
 
 Il Consiglio di cooperazione formula raccomandazioni per l'applicazione degli articoli 23, 26, 27.
 
-## CAPITOLO II - CONDIZIONI PER LO STABILIMENTO E L'ATTIVITA' DELLE IMPRESE
+### CAPITOLO II - CONDIZIONI PER LO STABILIMENTO E L'ATTIVITA' DELLE IMPRESE
 
-##### ARTICOLO 29
+#### ARTICOLO 29
 
 1\. a) Conformemente alle rispettive legislazioni e normative, la Comunita' e gli Stati membri concedono alle societa' bielorusse che si stabiliscono sul loro territorio un trattamento non meno favorevole di quello concesso alle societa' dei paesi terzi.
 
@@ -389,7 +387,7 @@ quello concesso alle sue societa' e filiali oppure, se migliore, alle consociate
 
 Beneficiano del trattamento di cui ai paragrafi 1.b), 1.c), 2.b) e 2.c) le societa' stabilite nella Comunita' e nella Repubblica di Bielorussia alla data di entrata in vigore del presente accordo e, per le societa' stabilite successivamente a questa data, dopo lo stabilimento.
 
-##### ARTICOLO 30
+#### ARTICOLO 30
 
 1\. Fatte salve le disposizioni dell'articolo 104, le disposizioni dell'articolo 29 non si applicano al trasporto aereo, fluviale e marittimo.
 
@@ -409,7 +407,7 @@ e) la conclusione di accordi commerciali, compresa la partecipazione al capitale
 
 f) le operazioni effettuate a nome delle societa', l'organizzazione dello scalo della nave o, se necessario, la ripresa del carico.
 
-##### ARTICOLO 31
+#### ARTICOLO 31
 
 Ai fini del presente accordo:
 
@@ -429,7 +427,7 @@ f) per "attivita' economiche" s'intendono le attivita' di natura industriale com
 
 Per quanto riguarda il trasporto marittimo internazionale, incluse le operazioni intermodali che comprendono una tratta marittima, beneficiano delle disposizioni del presente capitolo e del capitolo III i cittadini degli Stati membri o della Repubblica di Bielorussia stabiliti al di fuori della Comunita' o della Repubblica di Bielorussia e le agenzie marittime stabilite al di fuori della Comunita' o della Repubblica di Bielorussia e controllata da cittadini di uno Stato membro o della Repubblica di Bielorussia, se le loro navi sono registrate in detto Stato membro o nella Repubblica di Bielorussia in conformita' delle rispettive legislazioni.
 
-##### ARTICOLO 32
+#### ARTICOLO 32
 
 1\. Fatte salve le altre disposizioni dell'accordo, ciascuna Parte puo' prendere misure cautelative per tutelare gli investitori, i depositanti, gli assicurati o le persone nei confronti delle quali un fornitore di servizi finanziari ha un obbligo fiduciario, oppure per garantire l'integrita' e la stabilita' del sistema finanziario.
 
@@ -439,11 +437,11 @@ Qualora tali misure non siano conformi alle disposizioni dell'accordo esse non v
 
 3\. Ai fini del presente accordo, per "servizi finanziari" si intendono le attivita' descritte nell'allegato V.
 
-##### ARTICOLO 33
+#### ARTICOLO 33
 
 Le disposizioni del presente accordo non pregiudicano l'applicazione, ad opera delle Parti, delle misure necessarie per impedire l'elusione delle misure concernenti l'accesso dei paesi terzi al loro mercato attraverso le disposizioni del presente accordo.
 
-##### ARTICOLO 34
+#### ARTICOLO 34
 
 1\. Fatte salve le disposizioni del capitolo I del presente titolo, una societa' comunitaria o bielorussa stabilita, rispettivamente, sul territorio della Repubblica di Bielorussia o della Comunita' ha il diritto di assumere o di far assumere da una delle sue consociate o filiali, conformemente alla legislazione in vigore nel paese di stabilimento, sul territorio della Repubblica di Bielorussia e della Comunita' cittadini negli Stati membri della Comunita' e della Repubblica di Bielorussia, purche' si tratti di quadri intermedi ai sensi del paragrafo 2 del presente articolo impiegati esclusivamente da societa', consociate o filiali. I permessi di soggiorno e di lavoro di questi dipendenti coprono unicamente la durata di tale occupazione.
 
@@ -463,7 +461,7 @@ b) I dipendenti di un'organizzazione in possesso di conoscenze non comuni indisp
 
 c) Per "persona trasferita all'interno della societa'" s'intende una persona fisica che lavora presso un'organizzazione sul territorio di una delle Parti e viene trasferita temporaneamente nel quadro di attivita' economiche svolte sul territorio dell'altra Parte; l'organizzazione in questione deve avere la sede principale sul territorio di una Parte e il trasferimento deve avvenire verso un'impresa (filiale, consociata) di questa organizzazione ed essere effettivamente giustificato da attivita' economiche simili sul territorio dell'altra Parte.
 
-##### ARTICOLO 35
+#### ARTICOLO 35
 
 1\. Le Parti si adoperano per evitare di prendere misure o avviare azioni tali da rendere le condizioni per lo stabilimento e l'attivita' delle societa' dell'altra Parte piu' restrittive rispetto alla situazione esistente il giorno che precede la firma dell'accordo.
 
@@ -473,9 +471,9 @@ c) Per "persona trasferita all'interno della societa'" s'intende una persona fis
 
 4\. Qualora l'introduzione nella Repubblica di Bielorussia di nuove leggi o di nuovi regolamenti renda le condizioni per lo stabilimento di societa' comunitarie sul suo territorio e per l'attivita' delle consociate e filiali di societa' comunitarie stabilite nella Repubblica di Bielorussia piu' restrittive rispetto alla situazione esistente il giorno della firma dell'accordo, dette leggi o detti regolamenti non si applicano, per i tre anni successivi all'entrata in vigore dell'atto corrispondente, alle consociate e filiali gia' stabilite nella Repubblica di Bielorussia al momento dell'entrata in vigore dell'atto stesso.
 
-## CAPITOLO III - SERVIZI TRANSFRONTALIERI TRA LA COMUNITA' E LA REPUBBLICA DI BIELORUSSIA
+### CAPITOLO III - SERVIZI TRANSFRONTALIERI TRA LA COMUNITA' E LA REPUBBLICA DI BIELORUSSIA
 
-##### ARTICOLO 36
+#### ARTICOLO 36
 
 1\. Conformemente alle disposizioni del presente capitolo, le Parti si impegnano a prendere le misure necessarie per autorizzare progressivamente la fornitura di servizi da parte di societa' comunitarie o bielorusse stabilite in una Parte diversa da quella del destinatario dei servizi, tenendo conto dell'evoluzione dei settori terziari delle Parti.
 
@@ -483,15 +481,15 @@ c) Per "persona trasferita all'interno della societa'" s'intende una persona fis
 
 3\. Le Parti cooperano al fine di sviluppare nella Repubblica di Bielorussia un settore terziario orientato verso il mercato.
 
-##### ARTICOLO 37
+#### ARTICOLO 37
 
 Per i settori elencati nell'allegato VI, le Parti si concedono reciprocamente un trattamento non meno favorevole di quello concesso a qualsiasi altro paese terzo per i servizi transfrontalieri prestati da societa' della Comunita' o della Repubblica di Bielorussia sul territorio, rispettivamente, della Repubblica di Bielorussia o della Comunita', in conformita' delle legislazioni e normative in vigore in ciascuna delle Parti.
 
-##### ARTICOLO 38
+#### ARTICOLO 38
 
 Fatto salvo l'articolo 43 del presente accordo, le Parti autorizzano, per i settori elencati nell'angolo VI dello stesso, la circolazione temporanea delle persone fisiche che rappresentano una societa' comunitaria o bielorussa e chiedono l'ingresso temporaneo per negoziare la vendita di servizi transfrontalieri o concludere accordi di vendita di questi servizi per la societa' in questioni, a condizione che detti rappresentanti non procedano a vendite dirette al pubblico e che non forniscano direttamente i servizi in questione.
 
-##### ARTICOLO 39
+#### ARTICOLO 39
 
 1\. Per i settori elencati nell'allegato VI, ciascuna Parte puo' regolamentare le condizioni per la fornitura di servizi transfrontalieri sul suo territorio. Trattandosi di normative di applicazione generale, e' necessaria un'applicazione equa, obiettiva e imparziale.
 
@@ -517,7 +515,7 @@ Qualora, dopo questo esame, una delle Parti ritenga che le misure introdotte dal
 
 5\. Le disposizioni del presente articolo lasciano impregiudicate quelle dell'articolo 45; le situazioni ivi contemplate sono disciplinate esclusivamente dalle disposizioni di detto articolo 45.
 
-##### ARTICOLO 40
+#### ARTICOLO 40
 
 1\. Le Parti si impegnano ad applicare effettivamente il principio dell'accesso illimitato al mercato e al traffico marittimo internazionale su base commerciale.
 
@@ -539,35 +537,35 @@ Ogni Parte concede, tra l'altro, un trattamento non meno favorevole di quello ri
 
 3\. I cittadini e le societa' della Comunita' che forniscono servizi di trasporto marittimo internazionale sono autorizzati ad effettuare collegamenti internazionali mare-fiume lungo le idrovie della Repubblica di Bielorussia e viceversa.
 
-##### ARTICOLO 41
+#### ARTICOLO 41
 
 Per garantire uno sviluppo coordinato dei trasporti tra le Parti in funzione delle loro esigenze commerciali, dopo l'entrata in vigore del presente accordo le Parti potranno negoziare, a norma dell'articolo 99, accordi specifici sulle condizioni del reciproco accesso al mercato nonche' sui servizi di trasporto stradale, ferroviario, fluviale e, se del caso, aereo.
 
-## CAPITOLO IV - DISPOSIZIONI GENERALI
+### CAPITOLO IV - DISPOSIZIONI GENERALI
 
-##### ARTICOLO 42
+#### ARTICOLO 42
 
 1\. L'applicazione delle disposizioni del presente Titolo e' soggetta alle limitazioni giustificate da motivi di ordine pubblico, pubblica sicurezza o pubblica sanita'.
 
 2\. Dette disposizioni non si applicano alle attivita' svolte sul territorio delle Parti e connesse anche occasionalmente, all'esercizio dell'autorita' ufficiale.
 
-##### ARTICOLO 43
+#### ARTICOLO 43
 
 Ai fini del presente titolo, nessun elemento del presente accordo vieta alle Parti di applicare le rispettive leggi e normative in materia di ingresso e soggiorno, occupazione, condizioni di lavoro e di stabilimento delle persone fisiche e fornitura di servizi, purche' non le applichino in modo da vanificare o compromettere i vantaggi risultanti per una delle Parti da una disposizione specifica dell'accordo. Quanto precede non pregiudica l'applicazione dell'articolo 42.
 
-##### ARTICOLO 44
+#### ARTICOLO 44
 
 Beneficiano delle disposizioni dei capitoli II, III e IV anche le societa' controllate e possedute esclusivamente e congiuntamente da societa' bielorusse e comunitarie.
 
-##### ARTICOLO 45
+#### ARTICOLO 45
 
 A decorrere dal primo giorno del mese che precede l'entrata in vigore dei corrispondenti obblighi dell'accordo generale sul commercio di servizi (GATS) il trattamento concesso da ciascuna Parte all'altra in virtu' del presente accordo per i settori o le misure contemplati dal GATS non puo' comunque essere meno favorevole di quello concesso dalla Parte in questione a norma del GATS per ciascun settore, sottosettore e modo di fornitura dei servizi.
 
-##### ARTICOLO 46
+#### ARTICOLO 46
 
 Ai fini dei capitoli II, III e IV del presente titolo non si tiene conto del trattamento concesso dalla Comunita', dai suoi Stati membri o dalla Repubblica di Bielorussia in base agli impegni assunti nel quadro di accordi di integrazione economica conformemente ai principi dell'articolo V del GATS.
 
-##### ARTICOLO 47
+#### ARTICOLO 47
 
 1\. Il trattamento della nazione piu' favorita concesso a norma del presente titolo non si applica ai vantaggi fiscali gia' concessi o che le Parti concederanno in base ad accordi tesi a evitare la doppia imposizione o ad altre intese fiscali.
 
@@ -575,7 +573,7 @@ Ai fini dei capitoli II, III e IV del presente titolo non si tiene conto del tra
 
 3\. Nessun elemento del presente titolo vieta agli Stati membri o alla Repubblica di Bielorussia di fare distinzioni, nell'applicare le pertinenti disposizioni della loro legislazione tributaria, tra contribuenti la cui situazione non e' identica, segnatamente per quanto riguarda il luogo di residenza.
 
-##### ARTICOLO 48
+#### ARTICOLO 48
 
 Fatto salvo l'articolo 34, nessuna disposizione dei capitoli II, III e IV autorizza:
 
@@ -591,7 +589,7 @@ Fatto salvo l'articolo 34, nessuna disposizione dei capitoli II, III e IV autori
 
 ## TITOLO V - PAGAMENTI CORRENTI E CAPITALE
 
-##### ARTICOLO 49
+#### ARTICOLO 49
 
 1\. Le Parti si impegnano ad autorizzare l'uso di moneta liberamente convertibile per tutti i pagamenti sul conto corrente della bilancia dei pagamenti tra residenti della Comunita' e della Repubblica di Bielorussia in relazione alla circolazione di beni, servizi o persone conformemente al disposto del presente accordo.
 
@@ -609,7 +607,7 @@ La Repubblica di Bielorussia applica le restrizioni senza fare discriminazioni e
 
 ## TITOLO VI - CONCORRENZA, TUTELA DELLA PROPRIETA' INTELLETTUALE, INDUSTRIALE E COMMERCIALE E COOPERAZIONE LEGISLATIVA
 
-##### ARTICOLO 50
+#### ARTICOLO 50
 
 1\. Le Parti decidono di collaborare per compensare o abolire, applicando le rispettive leggi in materia di concorrenza o in altri modi, le restrizioni alla concorrenza tra imprese o quelle dovute a un intervento dello Stato qualora falsino gli scambi tra la Comunita' e la Repubblica di Bielorussia.
 
@@ -633,13 +631,13 @@ La Repubblica di Bielorussia applica le restrizioni senza fare discriminazioni e
 
 5\. Le suddette disposizioni non pregiudicano il diritto delle Parti di applicare misure adeguate, segnatamente quelle di cui all'articolo 18, per ovviare alle distorsioni negli scambi di beni e servizi.
 
-##### ARTICOLO 51
+#### ARTICOLO 51
 
 1\. Conformemente alle disposizioni del presente articolo e dell'allegato VIII, la Repubblica di Bielorussia continua a migliorare la tutela dei diritti di proprieta' intellettuale, industriale e commerciale al fine di garantire, entro la fine del quinto anno dall'entrata in vigore dell'accordo, un livello di protezione analogo a quello esistente nella Comunita', prevedendo anche strumenti efficaci a tale scopo.
 
 2\. Entro la fine del quinto anno dall'entrata in vigore dell'accordo, la Repubblica di Bielorussia aderira' alle convenzioni multilaterali sui diritti di proprieta' intellettuale, industriale e commerciale menzionati al paragrafo 1 dell'allegato VIII di cui sono parti gli Stati membri della Comunita' o che vengono applicati de facto dagli Stati membri secondo le pertinenti disposizioni di dette convenzioni.
 
-##### ARTICOLO 52
+#### ARTICOLO 52
 
 1\. Le Parti riconoscono che il ravvicinamento della legislazione attuale e futura della Repubblica di Bielorussia a quella della Comunita' e' fondamentale per il consolidamento dei vincoli economici tra le Parti. La Repubblica di Bielorussia cerchera' pertanto di rendere la sua legislazione progressivamente compatibile con quella della Comunita'.
 
@@ -659,7 +657,7 @@ La Repubblica di Bielorussia applica le restrizioni senza fare discriminazioni e
 
 ## TITOLO VII - COOPERAZIONE ECONOMICA
 
-##### ARTICOLO 53
+#### ARTICOLO 53
 
 1\. La Comunita' e la Repubblica di Bielorussia avviano una cooperazione economica per favorire il processo di riforma e di rilancio dell'economia nonche' lo sviluppo sostenibile della Repubblica di Bielorussia. La cooperazione rafforzera' e sviluppera' i vincoli economici a vantaggio di entrambe le Parti.
 
@@ -671,7 +669,7 @@ La Repubblica di Bielorussia applica le restrizioni senza fare discriminazioni e
 
 5\. Il Consiglio di cooperazione formula raccomandazioni per lo sviluppo della cooperazione nei settori di cui al paragrafo 3.
 
-##### ARTICOLO 54
+#### ARTICOLO 54
 
 Cooperazione industriale
 
@@ -693,7 +691,7 @@ Cooperazione industriale
 
 2\. Le disposizioni del presente articolo non pregiudicano l'applicazione delle regole di concorrenza comunitarie applicabili alle imprese.
 
-##### ARTICOLO 55
+#### ARTICOLO 55
 
 Promozione e tutela degli investimenti
 
@@ -711,13 +709,13 @@ Promozione e tutela degli investimenti
 
 \- gli scambi di informazioni sulle possibilita' di investimenti sotto forma di fiere commerciali, esposizioni, settimane commerciali e altre manifestazioni.
 
-##### ARTICOLO 56
+#### ARTICOLO 56
 
 Commesse pubbliche
 
 Le Parti collaborano per favorire la trasparenza e il rispetto delle regole di concorrenza nell'aggiudicazione degli appalti per beni e servizi, in particolare mediante bandi di gara.
 
-##### ARTICOLO 57
+#### ARTICOLO 57
 
 Cooperazione in materia di norme e di valutazione della conformita' 1. Le Parti cooperano per favorire l'allineamento con i criteri, i principi e gli orientamenti seguiti a livello internazionale in materia di qualita'. Le diverse azioni in questo campo agevoleranno il reciproco riconoscimento a livello di valutazione della conformita' oltre a migliorare la qualita' dei prodotti bielorussi.
 
@@ -729,7 +727,7 @@ Cooperazione in materia di norme e di valutazione della conformita' 1. Le Parti 
 
 \- mettere in comune l'esperienza e le informazioni tecniche in materia di qualita'.
 
-##### ARTICOLO 58
+#### ARTICOLO 58
 
 Prodotti minerari e materie prime
 
@@ -751,7 +749,7 @@ Prodotti minerari e materie prime
 
 \- la sicurezza nell'industria mineraria.
 
-##### ARTICOLO 59
+#### ARTICOLO 59
 
 Cooperazione scientifica e tecnologica
 
@@ -773,7 +771,7 @@ Nello svolgere le attivita' di cooperazione, si rivolge particolare attenzione a
 
 3\. La cooperazione prevista al presente articolo si svolgera' in base ad intese specifiche da negoziare e concludere secondo le procedure adottate da ciascuna Parte definendo, tra l'altro, opportune disposizioni in materia di DPI.
 
-##### ARTICOLO 60
+#### ARTICOLO 60
 
 Istruzione e formazione
 
@@ -801,13 +799,13 @@ Istruzione e formazione
 
 3\. Ciascuna Parte puo' eventualmente partecipare, secondo le sue pro- cedure, ai programmi dell'altra in materia di istruzione e formazione; se del caso, si stabiliranno quadri istituzionali e programmi di cooperazione basandosi sulla partecipazione della Repubblica di Bielorussia al programma TEMPUS della Comunita'.
 
-##### ARTICOLO 61
+#### ARTICOLO 61
 
 Agricoltura e settore agroindustriale
 
 La cooperazione nel settore si prefigge il proseguimento della riforma agraria, l'ammodernamento, la privatizzazione e la ristrutturazione dell'agricoltura, dell'agroindustria e del terziario nella Repubblica di Bielorussia, lo sviluppo dei mercati interno ed esterno per i prodotti bielorussi, tutelando anche l'ambiente e tenendo conto dell'esigenza di regolarizzare l'approvvigionamento alimentare. Le Parti cercheranno inoltre di ravvicinare progressivamente le norme bielorusse alle norme tecniche comunitarie in materia di prodotti alimentari industriali e agricoli, comprese le norme sanitarie e fitosanitarie.
 
-##### ARTICOLO 62
+#### ARTICOLO 62
 
 Energia
 
@@ -833,7 +831,7 @@ Energia
 
 \- la gestione e la formazione tecnica nel settore energetico.
 
-##### ARTICOLO 63
+#### ARTICOLO 63
 
 Ambiente
 
@@ -889,7 +887,7 @@ Ambiente
 
 \- studi sull'impatto ambientale.
 
-##### ARTICOLO 64
+#### ARTICOLO 64
 
 Trasporti
 
@@ -925,7 +923,7 @@ Le Parti decidono di attenersi alle norme degli accordi internazionali della Com
 
 \- lo sviluppo del traffico internazionale passeggeri tra gli Stati membri e la Repubblica di Bielorussia.
 
-##### ARTICOLO 65
+#### ARTICOLO 65
 
 Servizi postali e telecomunicazioni
 
@@ -947,7 +945,7 @@ Compatibilmente con i rispettivi poteri e con le rispettive competenze, le Parti
 
 \- impartire la formazione necessaria per gestire i servizi delle poste e telecomunicazioni in normali condizioni di mercato.
 
-##### ARTICOLO 66
+#### ARTICOLO 66
 
 Servizi finanziari
 
@@ -961,13 +959,13 @@ La cooperazione dovra' agevolare l'inserimento della Repubblica di Bielorussia n
 
 La cooperazione contribuira' in particolare a sviluppare relazioni tra la Repubblica di Bielorussia e gli Stati membri nel settore dei servizi finanziari.
 
-##### ARTICOLO 67
+#### ARTICOLO 67
 
 Politica comunitaria
 
 Su richiesta delle autorita' bielorusse, la Comunita' offre l'assistenza tecnica necessaria per aiutare la Repubblica di Bielorussia a creare e consolidare il suo sistema monetario, ad introdurre a termine la convertibilita' della sua moneta e ad adeguare gradatamente le sue politiche a quelle del Sistema monetario europeo. Sono previsti anche scambi informali di opinioni sui principi e sul funzionamento del Sistema monetario europeo.
 
-##### ARTICOLO 68
+#### ARTICOLO 68
 
 Riciclaggio del denaro sporco
 
@@ -975,7 +973,7 @@ Riciclaggio del denaro sporco
 
 2\. La cooperazione nel settore comprende un'assistenza amministrativa e tecnica volta a definire norme adeguate contro il riciclaggio del denaro equivalenti a quelle adottate in materia dalla Comunita' e dai consessi internazionali, compresa la Task Force Azione finanziaria (FATF).
 
-##### ARTICOLO 69
+#### ARTICOLO 69
 
 Sviluppo regionale
 
@@ -985,7 +983,7 @@ Sviluppo regionale
 
 Esse incoraggiano inoltre i contatti diretti tra le rispettive regioni e organizzazioni pubbliche incaricate di programmare lo sviluppo regionale per consentire loro di scambiare metodi e mezzi atti ad incentivarlo.
 
-##### ARTICOLO 70
+#### ARTICOLO 70
 
 Cooperazione sociale
 
@@ -1017,7 +1015,7 @@ La cooperazione prevede quanto segue:
 
 Dette riforme dovranno introdurre nella Repubblica di Bielorussia metodi di protezione consoni alle economie di mercato e comprenderanno tutte le forme di previdenza sociale.
 
-##### ARTICOLO 71
+#### ARTICOLO 71
 
 Turismo
 
@@ -1033,7 +1031,7 @@ Le Parti intensificano e sviluppano la cooperazione al fine di:
 
 \- favorire l'interazione tra gli enti ufficiali del turismo.
 
-##### ARTICOLO 72
+#### ARTICOLO 72
 
 Piccole e medie imprese
 
@@ -1047,19 +1045,19 @@ Piccole e medie imprese
 
 \- sviluppo dei parchi tecnologici.
 
-##### ARTICOLO 73
+#### ARTICOLO 73
 
 Informazione e comunicazione
 
 Le Parti favoriscono l'uso di metodi moderni per il trattamento dell'informazione, anche a livello dei mass media, e un efficace scambio di informazioni. Si privilegeranno i programmi volti a diffondere tra la popolazione le informazioni di base sulla Comunita' compreso, nei limiti del possibile, l'accesso alle basi di dati della Comunita' nel pieno rispetto dei diritti di proprieta' intellettuale.
 
-##### ARTICOLO 74
+#### ARTICOLO 74
 
 Tutela dei consumatori
 
 Le Parti collaborano strettamente per rendere compatibili i rispettivi sistemi di tutela dei consumatori. Sono previsti tra l'altro scambi di informazioni sulla riforma legislativa e istituzionale, la creazione di sistemi permanenti di informazione reciproca sui prodotti pericolosi, il miglioramento dell'informazione fornita ai consumatori, segnatamente per quanto riguarda i prezzi, le caratteristiche dei prodotti e i servizi offerti, lo sviluppo degli scambi tra coloro che rappresentano gli interessi dei consumatori, una maggiore compatibilita' delle politiche di tutela dei consumatori e l'organizzazione di seminari e di periodi di formazione.
 
-##### ARTICOLO 75
+#### ARTICOLO 75
 
 Dogane
 
@@ -1085,7 +1083,7 @@ Si fornira' l'assistenza tecnica necessaria.
 
 3\. Fatta salva l'ulteriore cooperazione stabilita nel presente accordo, in particolare all'articolo 78, l'assistenza reciproca tra le autorita' amministrative delle Parti per le questioni doganali disciplinata dalle disposizioni del protocollo allegato.
 
-##### ARTICOLO 76
+#### ARTICOLO 76
 
 Cooperazione statistica
 
@@ -1101,7 +1099,7 @@ In particolare, le Parti cooperano al fine di:
 
 La Comunita' fornisce alla Repubblica di Bielorussia l'assistenza tecnica necessaria.
 
-##### ARTICOLO 77
+#### ARTICOLO 77
 
 Economia
 
@@ -1113,13 +1111,13 @@ La Comunita' fornisce assistenza tecnica per:
 
 \- favorire la cooperazione tra gli economisti onde accelerare il trasferimento del know-how per l'elaborazione delle politiche economiche e procedere a una vasta diffusione dei risultati della ricerca in materia.
 
-##### ARTICOLO 78
+#### ARTICOLO 78
 
 Droga
 
 Nell'ambito dei rispettivi poteri e delle rispettive competenze, le Parti cooperano per aumentare l'efficacia delle politiche e delle misure volte a combattere la produzione, la fornitura e il traffico illecito di stupefacenti e sostanze psicotrope, anche destinando i precursori a usi diversi, e per promuovere la prevenzione e la riduzione della domanda di droga. La cooperazione in materia si basa sulla consultazione e su uno stretto coordinamento tra le Parti per quanto riguarda gli obiettivi e le iniziative nei diversi settori connessi alla droga.
 
-##### ARTICOLO 79
+#### ARTICOLO 79
 
 Contrabbando nucleare
 
@@ -1127,35 +1125,35 @@ Le Parti riconoscono la necessita' di cooperare, nell'ambito dei rispettivi pote
 
 ## TITOLO VIII - COOPERAZIONE CULTURALE
 
-##### ARTICOLO 80
+#### ARTICOLO 80
 
 Le Parti si impegnano a promuovere, incoraggiare e agevolare la cooperazione culturale. All'occorrenza, si potranno estendere alla Bielorussia i programmi di cooperazione culturale della Comunita' o di uno o piu' Stati membri nonche' sviluppare altre attivita' di reciproco interesse.
 
 ## TITOLO IX - COOPERAZIONE FINANZIARIA
 
-##### ARTICOLO 81
+#### ARTICOLO 81
 
 Per conseguire gli obiettivi del presente accordo, e in conformita' degli articoli 63, 64, 65, 82, 83 e 84, la Repubblica di Bielorussia beneficia di assistenza finanziaria temporanea fornita dalla Comunita' sotto forma di aiuti non rimborsabili per l'assistenza tecnica intesi ad accelerare la trasformazione economica del paese.
 
-##### ARTICOLO 82
+#### ARTICOLO 82
 
 Detta assistenza finanziaria rientra nel quadro del programma TACIS, come previsto dal regolamento pertinente del Consiglio della CE.
 
-##### ARTICOLO 83
+#### ARTICOLO 83
 
 Gli obiettivi e i settori dell'assistenza finanziaria comunitaria vengono stabiliti in un programma indicativo che riflette le priorita' concordate tra le Parti in funzione delle esigenze della Repubblica di Bielorussia, della capacita' di assorbimento dei vari settori e dello stato di avanzamento delle riforme. Le Parti ne informano il Consiglio di cooperazione.
 
-##### ARTICOLO 84
+#### ARTICOLO 84
 
 Per consentire un impiego ottimale delle risorse disponibili, le Parti si adoperano affinche' i contributi comunitari per l'assistenza tecnica siano erogati in stretto coordinamento con quelli provenienti da altre fonti quali gli Stati membri, altri paesi e organizzazioni internazionali tra cui la Banca internazionale per la ricostruzione e lo sviluppo, la Banca europea per la ricostruzione e lo sviluppo, il Programma per lo sviluppo delle Nazioni Unite (PSNU) e il FMI.
 
 ## TITOLO X - DISPOSIZIONI ISTITUZIONALI, GENERALI E FINALI
 
-##### ARTICOLO 85
+#### ARTICOLO 85
 
 E' istituito un Consiglio di cooperazione incaricato di sorvegliare l'attuazione del presente accordo. Il Consiglio si riunisce a livello ministeriale una volta all'anno. Esso esamina tutte le questioni importanti inerenti all'accordo e qualunque altro problema bilaterale o internazionale di reciproco interesse per il conseguimento dei suoi obiettivi. Il Consiglio di cooperazione puo' formulare opportune raccomandazioni con l'accordo di entrambe le Parti.
 
-##### ARTICOLO 86
+#### ARTICOLO 86
 
 1\. Il Consiglio di cooperazione e' composto da membri del Consiglio dell'Unione europea e della Commissione delle Comunita' europee, da un lato, e da membri del governo della Repubblica di Bielorussia dall'altro.
 
@@ -1163,7 +1161,7 @@ E' istituito un Consiglio di cooperazione incaricato di sorvegliare l'attuazione
 
 3\. Il Consiglio di cooperazione e' presieduto a turno da un rappresentante della Comunita' e da un membro del governo della Repubblica di Bielorussia.
 
-##### ARTICOLO 87
+#### ARTICOLO 87
 
 1\. Nell'esercizio delle sue funzioni, il Consiglio di cooperazione e' assistito da un Comitato di cooperazione composto da rappresentanti di membri del Consiglio dell'Unione europea e della Commissione delle Comunita' europee, da un lato, e da rappresentanti del governo della Repubblica di Bielorussia, normalmente alti funzionari, dall'altro.
 
@@ -1173,19 +1171,19 @@ Il regolamento interno del Consiglio di cooperazione stabilisce le funzioni del 
 
 2\. Il Consiglio di cooperazione puo' delegare taluni suoi poteri al Comitato di cooperazione, che assicura la continuita' tra le riunioni del Consiglio di cooperazione.
 
-##### ARTICOLO 88
+#### ARTICOLO 88
 
 Il Consiglio di cooperazione puo' decidere di creare tutti i comitati o organi speciali necessari per coadiuvarlo nell'esercizio delle sue funzioni, determinandone la composizione, le mansioni e le modalita' di funzionamento.
 
-##### ARTICOLO 89
+#### ARTICOLO 89
 
 Nell'esaminare le questioni sollevate da una disposizione del presente accordo che si riferisca a un articolo del GATT, il Consiglio di cooperazione tiene conto, per quanto possibile, dell'interpretazione data generalmente a detto articolo del GATT delle Parti contraenti dell'Accordo generale.
 
-##### ARTICOLO 90
+#### ARTICOLO 90
 
 E' istituito un Comitato parlamentare di cooperazione, che riunisce e consente scambi di opinioni tra membri del Parlamento bielorusso e del Parlamento europeo. Il Comitato stabilisce la frequenza delle proprie riunioni.
 
-##### ARTICOLO 91
+#### ARTICOLO 91
 
 1\. Il Comitato parlamentare di cooperazione e' composto da membri del Parlamento europeo e bielorusso.
 
@@ -1193,7 +1191,7 @@ E' istituito un Comitato parlamentare di cooperazione, che riunisce e consente s
 
 3\. Il Comitato parlamentare di cooperazione e' presieduto a turno dal Parlamento europeo e dal Parlamento bielorusso, conformemente al regolamento interno.
 
-##### ARTICOLO 92
+#### ARTICOLO 92
 
 Il Comitato parlamentare di cooperazione puo' chiedere tutte le informazioni utili per quanto riguarda l'esecuzione del presente accordo al Consiglio di cooperazione, che gli fornisce dette informazioni.
 
@@ -1201,7 +1199,7 @@ Il Comitato parlamentare di cooperazione viene informato delle raccomandazioni d
 
 Il Comitato parlamentare di cooperazione puo' presentare raccomandazioni al Consiglio di cooperazione.
 
-##### ARTICOLO 93
+#### ARTICOLO 93
 
 1\. Nell'ambito del presente accordo, ciascuna delle Parti si impegna a garantire che le persone fisiche e giuridiche dell'altra Parte possano adire senza discriminazioni, rispetto ai propri cittadini, i competenti organi giuridici e amministrativi delle Parti per tutelare i loro diritti individuali e di proprieta', inclusi quelli riguardanti la proprieta' intellettuale, industriale e commerciale.
 
@@ -1215,7 +1213,7 @@ Il Comitato parlamentare di cooperazione puo' presentare raccomandazioni al Cons
 
 \- incoraggiano il ricorso alle norme di arbitrato elaborate dalla Commissione delle Nazioni Unite per il diritto commerciale internazionale (UNCITRAL) e il ricorso all'arbitrato da parte di ogni organismo di uno Stato firmatario della convenzione per il riconoscimento e l'applicazione dei lodi arbitrali stranieri firmata il 10 giugno 1958 a New York.
 
-##### ARTICOLO 94
+#### ARTICOLO 94
 
 Nessun elemento dell'accordo impedisce a una delle Parti di prendere le misure:
 
@@ -1227,7 +1225,7 @@ c) che giudica essenziali per la propria sicurezza in caso di gravi disordini in
 
 d) che ritiene necessarie per adempiere agli obblighi e agli impegni internazionali sul controllo del duplice uso di beni e delle tecnologie industriali.
 
-##### ARTICOLO 95
+#### ARTICOLO 95
 
 1\. Nei settori contemplati dal presente accordo e fatta salva qualsiasi disposizione speciale ivi contenuta:
 
@@ -1237,7 +1235,7 @@ d) che ritiene necessarie per adempiere agli obblighi e agli impegni internazion
 
 2\. Le disposizioni del paragrafo 1 non pregiudicano il diritto delle Parti di applicare le pertinenti disposizioni della loro normativa fiscale ai contribuenti che non si trovano in situazioni identiche per quanto riguarda il luogo di residenza.
 
-##### ARTICOLO 96
+#### ARTICOLO 96
 
 1\. Ciascuna Parte puo' adire il Consiglio di cooperazione per qualsiasi controversia relativa all'applicazione o all'interpretazione del presente accordo.
 
@@ -1249,29 +1247,29 @@ Il Consiglio di cooperazione designa un terzo conciliatore.
 
 Le raccomandazioni dei conciliatori vengono adottate a maggioranza e non sono vincolanti per le Parti.
 
-##### ARTICOLO 97
+#### ARTICOLO 97
 
 Le Parti decidono di consultarsi tempestivamente, attraverso i canali appropriati, su richiesta di una di esse per discutere di tutte le questioni inerenti all'interpretazione o all'applicazione del presente accordo e su altri aspetti delle loro relazioni.
 
 Le disposizioni del presente articolo non pregiudicano gli articoli 17, 18, 96 e 102.
 
-##### ARTICOLO 98
+#### ARTICOLO 98
 
 Il trattamento riservato alla Repubblica di Bielorussia non puo' comunque essere meno favorevole di quello che gli Stati membri si concedono reciprocamente.
 
-##### ARTICOLO 99
+#### ARTICOLO 99
 
 Ai fini del presente accordo, per "Parti" s'intendono la Repubblica di Bielorussia, da un lato, e la Comunita', gli Stati membri o la Comunita' e gli Stati membri, a seconda dei rispettivi poteri, dall'altro.
 
-##### ARTICOLO 100
+#### ARTICOLO 100
 
 Nella misura in cui le questioni contemplate dal presente accordo rientrano nel trattato e nei protocolli della Carta europea per l'energia, a decorrere dalla sua entrata in vigore i suddetti trattato e protocolli si applicano, se ivi previsto, a tali questioni.
 
-##### ARTICOLO 101
+#### ARTICOLO 101
 
 Il presente accordo e' concluso per un periodo iniziale di dieci anni. Esso puo' essere automaticamente rinnovato di anno in anno, a condizione che nessuna delle Parti lo denunci dandone notifica per iscritto all'altra Parte sei mesi prima della scadenza.
 
-##### ARTICOLO 102
+#### ARTICOLO 102
 
 1\. Le Parti prendono tutte le misure generali o specifiche necessarie per l'adempimento degli obblighi previsti dall'accordo e si adoperano per il conseguimento dei suoi obiettivi.
 
@@ -1281,27 +1279,27 @@ Prima di procedere, fatta eccezione per i casi particolarmente urgenti, essa for
 
 Nella scelta delle misure, si privilegiano quello che perturbano meno il funzionamento dell'accordo. Se l'altra Parte lo richiede, le misure decise vengono comunicate senza indugio al Consiglio di cooperazione.
 
-##### ARTICOLO 103
+#### ARTICOLO 103
 
 Gli allegati I-VIII e il protocollo sono parte integrante del presente accordo.
 
-##### ARTICOLO 104
+#### ARTICOLO 104
 
 Fino a quando i privati cittadini e gli operatori economici non godranno degli stessi diritti a norma del presente accordo, esso non pregiudichera' i diritti garantiti loro dagli accordi in vigore tra uno o piu' Stati membri, da una parte, e la Repubblica di Bielorussia, dall'altra, fatta eccezione per i settori di competenza comunitaria e fatti salvi gli obblighi che l'accordo impone agli Stati membri nei settori di loro competenza.
 
-##### ARTICOLO 105
+#### ARTICOLO 105
 
 Il presente accordo si applica, da un lato, ai territori in cui si applicano i trattati che istituiscono la Comunita' europea del carbone e dell'acciaio, la Comunita' europea dell'energia atomica e la Comunita' europea, alle condizioni ivi precisate, e, dall'altro, al territorio della Repubblica di Bielorussia.
 
-##### ARTICOLO 106
+#### ARTICOLO 106
 
 Il Segretario Generale del Consiglio dell'Unione europea e' il depositario del presente accordo.
 
-##### ARTICOLO 107
+#### ARTICOLO 107
 
 Il presente accordo e' redatto in un unico esemplare nelle lingue danese, finlandese, francese, greca, inglese, italiana, olandese, portoghese, spagnola, svedese, tedesca e bielorussa, ciascun testo facente ugualmente fede.
 
-##### ARTICOLO 108
+#### ARTICOLO 108
 
 Il presente accordo e' approvato dalle Parti conformemente alle rispettive procedure.
 
@@ -1309,11 +1307,11 @@ Il presente accordo entra in vigore il primo giorno del secondo mese successivo 
 
 A decorrere dalla sua entrata in vigore il presente accordo sostituisce, per quanto riguarda le relazioni tra la Repubblica di Bielorussia e la Comunita', l'accordo tra la Comunita' economica europea; la Comunita' europea dell'energia atomica e l'Unione delle Repubbliche Socialiste Sovietiche sugli scambi e sulla cooperazione economica e commerciale, firmato il 18 dicembre 1989 a Bruxelles.
 
-##### ARTICOLO 109
+#### ARTICOLO 109
 
 Qualora, in attesa che siano espletate le procedure necessarie per l'entrata in vigore del presente accordo, le disposizioni di alcune sue parti vengano applicate mediante un accordo interinale tra la Comunita' e la Bielorussia, le Parti contraenti decidono che, nella fattispecie, per "data di entrata in vigore dell'accordo" s'intende la data di entrata in vigore dell'accordo interinale.
 
-##### Elenco
+#### Elenco
 
 Elenco dei documenti allegati
 
@@ -1349,7 +1347,7 @@ paragrafo 2
 
 Protocollo relativo all'assistenza reciproca tra le autorita' amministrative nel settore doganale.
 
-##### Allegato I
+#### Allegato I
 
 ALLEGATO I
 
@@ -1379,7 +1377,7 @@ Armenia, Azerbaigian, Estonia, Georgia, Kazakistan, Lituania, Moldavia, Russia, 
 
 6\. Armenia, Azerbaigian, Georgia, Kazakistan, Kirghizistan, Moldavia, Russia, Tagikistan, Turkmenistan, Ucraina, Uzbekistan - speciali procedure doganali.
 
-##### Allegato II
+#### Allegato II
 
 ALLEGATO II
 
@@ -1397,7 +1395,7 @@ Queste disposizioni non possono essere aggirate aumentando la protezione tariffa
 
 5\. La Repubblica di Bielorussia informa il Consiglio di cooperazione in merito a tutte le misure che intende prendere a norma del presente allegato; su richiesta della Comunita', prima dell'adozione si tengono consultazioni in seno al Consiglio di cooperazione su tali misure e sui settori cui si applicano.
 
-##### Allegato III
+#### Allegato III
 
 ALLEGATO III
 
@@ -1437,7 +1435,7 @@ Agenzie di stampa
 
 In alcuni Stati membri la partecipazione straniera alle case editrici e alle societa' radiotelevisive e' limitata.
 
-##### Allegato IV
+#### Allegato IV
 
 ALLEGATO IV
 
@@ -1469,7 +1467,7 @@ a decorrere dall'entrata in vigore del presente accordo, le societa' comunitarie
 
 Le suddette riserve si applicano, su base non discriminatoria, per un periodo transitorio non superiore a cinque anni dalla data di entrata in vigore del presente accordo.
 
-##### Allegato V
+#### Allegato V
 
 ALLEGATO V
 
@@ -1559,7 +1557,7 @@ b) le attivita' svolte dalle banche centrali, dagli enti o dai dipartimenti gove
 
 c) le attivita' che rientrano nel sistema ufficiale della previdenza sociale o nei programmi di pensionamento dello Stato, escluse le attivita' svolte da fornitori di servizi finanziari in concorrenza con enti pubblici o con istituzioni private.
 
-##### Allegato VI
+#### Allegato VI
 
 ALLEGATO VI
 
@@ -1651,7 +1649,7 @@ Servizi elaborazione dati CPC 843
 
 Fornitura e trasferimento delle informazioni finanziarie e elaborazione dei dati finanziari (cfr. paragrafi B.11 e B.12 dell'allegato V).
 
-##### Allegato VII
+#### Allegato VII
 
 ALLEGATO VII
 
@@ -1675,7 +1673,7 @@ Parte B
 
 2\. Qualora le nuove legislazioni o i nuovi regolamenti introdotti nella Repubblica di Bielorussia durante il periodo transitorio di cui al paragrafo 1 rendano le condizioni per la prestazione transfrontaliera di servizi da parte di societa' o filiali comunitarie piu' restrittive rispetto alla situazione esistente il giorno della firma dell'accordo, le legislazioni e i regolamenti in questione non si applicheranno a dette societa' e filiali fintanto che non saranno passati tre anni da detta entrata in vigore.
 
-##### Allegato VIII
+#### Allegato VIII
 
 ALLEGATO VIII
 
@@ -1719,7 +1717,7 @@ TRA LE AUTORITA' AMMINISTRATIVE
 
 IN MATERIA DOGANALE
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 Definizioni
 
@@ -1735,7 +1733,7 @@ d) per "autorita' interpellata" s'intende l'autorita' amministrativa competente,
 
 e) per "infrazione" s'intende ogni violazione della legislazione doganale ovvero ogni tentata violazione di detta legislazione.
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Campo di applicazione
 
@@ -1743,7 +1741,7 @@ Campo di applicazione
 
 2\. L'assistenza in materia doganale prevista dal presente protocollo si applica ad ogni autorita' amministrative delle Parti competente per l'applicazione dello stesso. Essa non pregiudica le norme che disciplinano l'assistenza reciproca in materia penale ne' copre le informazioni ottenute grazie a poteri esercitati su richiesta dell'autorita' giudiziaria salvo accordo di detta autorita'.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 Assistenza su richiesta
 
@@ -1761,7 +1759,7 @@ c) i mezzi di trasporto per i quali vi sono fondati motivi di ritenere che siano
 
 d) i luoghi dove partite di merci sono state immagazzinate in modo da fare legittimamente supporre che sono destinate ad operazioni contrarie alla legislazione doganale dell'altra Parte.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Assistenza spontanea
 
@@ -1773,7 +1771,7 @@ Le Parti si prestano nell'ambito delle loro competenze assistenza reciproca, in 
 
 \- merci note per essere soggette a sostanziali infrazioni della legislazione doganale.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 Consegna/Notifica
 
@@ -1787,7 +1785,7 @@ necessarie per
 
 che rientrano nel campo di applicazione del presente protocollo ad un destinatario, residente o stabilito sul suo territorio. In tal caso, si applica l'articolo 6, paragrafo 3.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 Forma e contenuto delle domande di assistenza
 
@@ -1811,7 +1809,7 @@ f) una sintesi dei fatti e delle indagini gia' svolte, salvo per i casi di cui a
 
 4\. Se la domanda non risponde ai requisiti formali stabiliti puo' esserne richiesta la correzione o il completamento; tuttavia possono essere disposte misure cautelative.
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 Adempimento delle domande
 
@@ -1823,7 +1821,7 @@ Adempimento delle domande
 
 4\. I funzionari di una Parte, d'intesa con l'altra Parte e alle condizioni da essa stabilite, possono essere presenti alle indagini condotte nel suo territorio.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 Forma in cui devono essere comunicate le informazioni
 
@@ -1831,7 +1829,7 @@ Forma in cui devono essere comunicate le informazioni
 
 2\. I documenti di cui al paragrafo 1 possono essere sostituiti da informazioni computerizzate prodotte in qualsiasi forma per gli stessi fini.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 Deroghe all'obbligo di fornire assistenza
 
@@ -1847,7 +1845,7 @@ c) violare un segreto industriale, commerciale o professionale.
 
 3\. Se l'assistenza e' rifiutata o negata, la decisione e le sue motivazioni devono essere notificate senza indugio all'autorita' richiedente.
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 Obbligo di osservare la riservatezza
 
@@ -1863,7 +1861,7 @@ Su richiesta, la Parte che riceve i dati informa la Parte che li ha forniti dell
 
 5\. Fatti salvi i casi in cui prevale il pubblico interesse, la persona interessata puo' ottenere, su richiesta, informazioni sulla memorizzazione dei dati e sui suoi scopi.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 Uso delle informazioni
 
@@ -1873,19 +1871,19 @@ Uso delle informazioni
 
 3\. Nei loro documenti probatori, nelle loro relazioni e testimonianze, nonche' nei procedimenti e nelle azioni penali promossi dinanzi al tribunale, le Parti possono utilizzare come prova le informazioni ottenute e i documenti consultati conformemente alle disposizioni del presente protocollo.
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 Esperti e testimoni
 
 Un funzionario dell'autorita' interpellata puo' essere autorizzato a comparire, nei limiti dell'autorizzazione concessa, in qualita' di esperto o testimone in azioni giudiziarie o amministrative riguardanti le materie di cui al presente protocollo, nella giurisdizione di un'altra Parte e produrre oggetti, documenti ovvero loro copie autenticate che possano occorrere nel procedimento. Nella richiesta di comparizione deve essere specificamente indicato su quale argomento e a quale titolo il funzionario sara' interrogato.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 Spese di assistenza
 
 Le Parti rinunciano reciprocamente a tutte le richieste di rimborso delle spese sostenute in virtu' del presente protocollo, escluse, a seconda dei casi, le spese per esperti e testimoni nonche' per gli interpreti e traduttori che non dipendono da pubblici servizi.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 Esecuzione
 
@@ -1895,7 +1893,7 @@ Essi possono raccomandare ai competenti organismi le modifiche del presente prot
 
 2\. Le Parti si consultano e si tengono reciprocamente informate in merito alle norme specifiche di esecuzione adottate conformemente alle disposizioni del presente protocollo.
 
-##### ARTICOLO 15
+#### ARTICOLO 15
 
 Complementarita'
 
@@ -1903,7 +1901,7 @@ Complementarita'
 
 2\. Fatto salvo l'articolo 11, detti accordi non recano pregiudizio alle disposizioni della Comunita' che disciplinano la comunicazione, tra i competenti servizi della Commissione e le autorita' doganali degli Stati membri, di tutte le informazioni ottenute in materia doganale che possano interessare la Comunita'.
 
-##### Atto finale
+#### Atto finale
 
 ATTO FINALE
 
@@ -1987,7 +1985,7 @@ I plenipotenziari degli Stati membri e della Comunita' e i plenipotenziari della
 
 Scambio di lettere tra la Comunita' e la Repubblica di Bielorussia sullo stabilimento delle societa'.
 
-##### Dichiarazioni
+#### Dichiarazioni
 
 DICHIARAZIONE COMUNE RELATIVA ALL'ARTICOLO 17
 
@@ -2045,7 +2043,7 @@ DICHIARAZIONE UNILATERALE DELLA REPUBBLICA FRANCESE
 
 La Repubblica francese fa notare che l'accordo di partenariato e di cooperazione con la Repubblica di Bielorussia non si applica ai paesi e territori d'oltremare associati alla Comunita' europea in virtu' del trattato che istituisce la Comunita' europea.
 
-##### Scambio di lettere
+#### Scambio di lettere
 
 SCAMBIO DI LETTERE
 

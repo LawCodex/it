@@ -26,15 +26,13 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I. - Modificazioni e integrazioni al regio decreto-legge 14 aprile 1939,
+## TITOLO I. - Modificazioni e integrazioni al regio decreto-legge 14 aprile 1939, n. 636, convertito nella legge 6 luglio 1939, n. 1272, e successive modificazioni.
 
-### n. 636, convertito nella legge 6 luglio 1939, n. 1272, e successive - modificazioni.
-
-#### Art. 1
+### Art. 1
 
 Le tabelle A, B, C, D ed E, allegate al regio decreto-legge 14 aprile 1939, n. 636, convertito nella, legge 6 luglio 1939, n. 1272, sono sostituite dalle tabelle A e B allegate alla presente legge.
 
-#### Art. 2
+### Art. 2
 
 Gli articoli 6, 8, 9, 12 e 13 del regio decreto-legge 14 aprile 1939, n. 636, convertito nella legge 6 luglio 1939, n. 1272, sono sostituiti dai seguenti:
 
@@ -182,11 +180,11 @@ AGGIORNAMENTO (7)
 
 Il D.P.R. 27 aprile 1968, n. 488 ha disposto (con l'art. 18) che la presente modifica ha effetto dal 1° maggio 1968.
 
-#### Art. 3
+### Art. 3
 
 Tutte le pensioni sono maggiorate di una aliquota, pari ad un dodicesimo del loro ammontare annuo, da corrispondersi in occasione delle festivita' natalizie.
 
-#### Art. 4
+### Art. 4
 
 A decorrere dalla data di entrata in vigore della presente legge, i periodi per i quali e' corrisposta la indennita' ordinaria dell'assicurazione obbligatoria contro la dissocupazione sono considerati come periodi di contribuzione ai fini del diritto alla pensione e della misura della pensione stessa.
 
@@ -204,29 +202,27 @@ Le pensioni, le ricostituzioni ed i supplementi di pensione, definiti precedente
 
 Per i periodi da computarsi come utili ai fini del comma precedente e per la copertura del conseguente onere a carico della gestione dell'assicurazione per la tubercolosi, si seguono gli stessi criteri previsti nei commi secondo e terzo del presente articolo.
 
-#### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.P.R. 31 DICEMBRE 1971, N. 1432))
 
-#### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.P.R. 31 DICEMBRE 1971, N. 1432))
 
-#### Art. 7
+### Art. 7
 
 I contributi dovuti al Fondo per l'adeguamento delle pensioni, di cui al successivo art. 14, ai fini della prosecuzione volontaria di cui al precedente art. 5 sono costituiti dalla somma delle quote a) e b) di cui all'art. 16, nella misura percentuale prevista dall'art. 31, ridotta del 15 per cento, sulle retribuzioni comprese nella classe o categoria a cui e' inscritto l'assicurato all'atto nel quale viene richiesta l'autorizzazione alla prosecuzione volontaria.
 
-#### Art. 8
+### Art. 8
 
 L'acquisto delle marche per le assicurazioni sociali obbligatorie deve essere effettuato in coincidenza col versamento del contributo dovuto al Fondo per l'adeguamento delle pensioni, presso il medesimo ufficio che riceve il versamento. L'ufficio stesso fara' risultare, mediante apposita annotazione sui documenti di versamento, l'avvenuto acquisto delle marche in corrispondenza al numero dei lavoratori soggetti all'assicurazione obbligatoria per l'invalidita', la vecchiaia e i superstiti, e alle classi di retribuzione.
 
 L'applicazione delle marche sulle tessere personali dei lavoratori assicurati e' in conseguenza effettuata per l'intero periodo di paga cui si riferisce il versamento di cui al precedente comma entro 10 giorni dalla scadenza del periodo medesimo, salva la facolta' prevista dall'art. 21 del regolamento per l'esecuzione del regio decreto 30 dicembre 1923, n. 3184, approvato con regio decreto 28 agosto 1924, n. 1422.
 
-## TITOLO II - Adeguamento delle pensioni per l'invalidita',
+## TITOLO II - Adeguamento delle pensioni per l'invalidita', la vecchiaia e i superstiti
 
-### la vecchiaia e i superstiti
-
-#### Art. 9
+### Art. 9
 
 Le pensioni a carico dell'assicurazione obbligatoria per la invalidita', la vecchiaia ed i superstiti:
 
@@ -266,7 +262,7 @@ AGGIORNAMENTO (6)
 
 La L. 12 agosto 1962, n. 1338, come modificata dalla L. 21 luglio 1965, n. 903, ha disposto (con l'art. 1) che "Il coefficiente di moltiplicazione delle pensioni base contemplate dall'articolo 9 della legge 4 aprile 1952, n. 218, nel testo modificato dalla legge 26 novembre 1955, n. 1125, e' elevato a 86,4 volte".
 
-#### Art. 10
+### Art. 10
 
 Il trattamento di pensione di cui all'articolo precedente sostituisce l'assegno integrativo, l'indennita' di caropane e gli assegni straordinari e supplementari di contingenza di cui al decreto legislativo luogotenenziale 1 marzo 1945, n. 177, al decreto legislativo del Capo provvisorio dello Stato 6 maggio 1947, n. 563, al decreto legislativo del Capo provvisorio dello Stato 29 luglio 1947, n. 689, alla legge 14 giugno 1949, n. 322 e successive modificazioni.
 
@@ -316,15 +312,15 @@ b) spetta il trattamento minimo sulla pensione di invalidita' o di vecchiaia qua
 
 Cessa dal diritto ai trattamenti di cui alle precedenti lettere a) e b) il pensionato allorche' rimanga unico titolare della pensione di riversibilita' e di quella diretta."
 
-#### Art. 11
+### Art. 11
 
 ((ARTICOLO ABROGATO DALLA L. 12 AGOSTO 1962, N. 1338))
 
-#### Art. 12
+### Art. 12
 
 ((ARTICOLO ABROGATO DALLA L. 21 LUGLIO 1965, N. 903))
 
-#### Art. 13
+### Art. 13
 
 Nel caso di morte dell'assicurato senza che sussista per i superstiti il diritto alla pensione, spetta al coniuge un'indennita' pari a 45 volte l'ammontare dei contributi versati, sempreche' nel quinquennio precedente la morte risulti versato o accreditato almeno un quindicesimo dei contributi indicati al n. 1) del primo comma dell'art. 9 del regio decreto-legge 14 aprile 1939, n. 636, modificato dall'art. 2 della presente legge.
 
@@ -334,7 +330,7 @@ In mancanza del coniuge l'indennita' spetta ai figli, sempreche' per essi sussis
 
 L'indennita' spettante ai figli e' liberamente pagata a chi esercita la patria potesta'.
 
-#### Art. 14
+### Art. 14
 
 Il Fondo di integrazione delle assicurazioni sociali, istituito col decreto legislativo luogotenenziale 1 marzo 1945, n. 177 ed il Fondo di solidarieta' sociale, istituito con il decreto legislativo del Capo provvisorio dello Stato 29 luglio 1947, n. 689, sono soppressi.
 
@@ -352,7 +348,7 @@ Sono conseguentemente soppressi il Comitato speciale ed il Collegio dei sindaci 
 
 L'importo netto del fondo di riserva, risultante dal bilancio di chiusura al 31 dicembre 1950 della gestione dell'assicurazione obbligatoria per la nuzialita' - la natalita', soppressa con l'art. 24 della legge 26 agosto 1950, n. 860, e' devoluto all'Ente nazionale per la assistenza agli orfani dei lavoratori italiani, di cui al decreto legislativo 23 marzo 1948, n. 327.
 
-#### Art. 15
+### Art. 15
 
 I contributi dovuti per qualsiasi forma di assicurazione sociale, per il trattamento a favore delle lavoratrici madri, per la costruzione di case per lavoratori (Gestione I.N.A.-Casa) e per l'assistenza agli orfani dei lavoratori italiani sono calcolati sull'intero ammontare della retribuzione.
 
@@ -372,7 +368,7 @@ AGGIORNAMENTO (3)
 
 La L. 20 febbraio 1958, n. 55 ha disposto (con l'art. 13, ultimo comma) che "Il limite minimo di retribuzione giornaliera previsto dall'art. 15, comma terzo, della legge 4 aprile 1952, n. 218, ai fini del calcolo dei contributi di previdenza e di assistenza sociale, e' elevato a lire 500."
 
-#### Art. 16
+### Art. 16
 
 All'onere derivante al Fondo per l'adeguamento delle pensioni dalla corresponsione delle prestazioni previste dagli articoli 9, 10, 13, 26, 29, 30 e 34 della presente legge, si provvede con un contributo dei lavoratori soggetti all'assicurazione obbligatoria per l'invalidita', la vecchiaia ed i superstiti, con un contributo dei datori di lavoro e con il concorso dello Stato.
 
@@ -380,7 +376,7 @@ All'onere derivante al Fondo per l'adeguamento delle pensioni dalla corresponsio
 
 ((COMMA ABROGATO DALLA L. 21 LUGLIO 1965, N. 903)).
 
-#### Art. 17
+### Art. 17
 
 Il contributo dei lavoratori e dei datori di lavoro e' stabilito in percentuale sull'ammontare della retribuzione lorda del lavoratore, determinata in base alle vigenti disposizioni ai fini del calcolo dei contributi dovuti per gli assegni familiari. Nel caso in cui siano stabilite, ai sensi dell'art. 6 del regio decreto-legge 14 aprile 1939, n. 636, modificato dall'art. 2 della presente legge, apposite tabelle di retribuzioni medie, il contributo dei lavoratori e dei datori di lavoro e' riferito alle retribuzioni medie stesse.
 
@@ -412,21 +408,21 @@ Il D.P.R. 5 marzo 1973 (in G.U. 18/10/1973, n. 270) ha disposto (con l'art. 1, c
 
 Ha inoltre disposto (con l'art. 2, comma 1) che "Il presente entra in vigore dal giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale con effetto dalle date indicate nelle allegate tabelle".
 
-#### Art. 18
+### Art. 18
 
 ((ARTICOLO ABROGATO DALLA L. 21 LUGLIO 1965, N. 903))
 
-#### Art. 19
+### Art. 19
 
 Il datore di lavoro e' responsabile del pagamento dei contributi anche per la parte a carico del lavoratore qualunque patto in contrario e' nullo.
 
 Il contributo a carico del lavoratore e' trattenuto dal datore di lavoro sulla retribuzione corrisposta al lavoratore stesso alla scadenza del periodo di paga cui il contributo si riferisce.
 
-#### Art. 20
+### Art. 20
 
 Nei contributi di cui agli articoli 5, 6, 16 e 17, sono assorbiti quelli dovuti per la corresponsione della indennita' di caropane, nelle prestazioni dell'assicurazione obbligatoria invalidita', vecchiaia e superstiti, ai termini dei decreti legislativi del Capo provvisorio dello Stato 6 maggio 1947, n. 563, e 16 luglio 1947, n. 770, e della legge 7 luglio 1948, n. 1093.
 
-#### Art. 21
+### Art. 21
 
 Le prestazioni a carico del Fondo di integrazione per le assicurazioni sociali a favore degli assicurati contro la tubercolosi e contro la disoccupazione involontaria sono corrisposte direttamente dalle rispettive assicurazioni obbligatorie nei limiti, nei modi e con l'osservanza delle norme vigenti in materia.
 
@@ -434,11 +430,11 @@ I contributi dovuti al Fondo predetto per la tubercolosi e per la disoccupazione
 
 Per la determinazione della misura e delle modalita' di riscossione dei contributi suddetti si applicano le norme contenute nei commi secondo, terzo, quarto e quinto del precedente art. 17.
 
-#### Art. 22
+### Art. 22
 
 Si osservano, per le prestazioni ed i contributi previsti dalla presente legge, sempre che siano applicabili, le disposizioni del regio decreto-legge 4 ottobre 1935, n. 1827, convertito, con modificazioni, nella legge 6 aprile 1936, n. 1155, sul perfezionamento e coordinamento legislativo della previdenza sociale, comprese quelle sui benefici, i privilegi e le esenzioni fiscali, nonche' le disposizioni del regio decreto-legge 14 aprile 1939, n. 636, convertito, con modificazioni, nella legge 6 luglio 1939, n. 1272.
 
-#### Art. 23
+### Art. 23
 
 Il datore di lavoro che non provvede al pagamento dei contributi entro il termine stabilito o vi provvede in misura inferiore alla dovuta e' tenuto al pagamento dei contributi e delle parti di contributo non versato tanto per la quota a proprio carico quanto per quella a carico dei lavoratori, nonche' al versamento di una somma aggiuntiva pari a quella dovuta, ed e' punito con l'ammenda da lire 1000 a lire 20.000 per ogni dipendente per il quale sia stato omesso in tutto o in parte il pagamento del contributo.
 
@@ -450,7 +446,7 @@ Chiunque fa dichiarazioni false o compie altri atti fraudolenti al fine di procu
 
 I proventi delle pene pecuniarie sono devoluti a beneficio del Fondo per l'adeguamento delle pensioni.
 
-#### Art. 24
+### Art. 24
 
 Nelle contravvenzioni alle norme della presente legge, il contravventore, prima dell'apertura del dibattimento nel giudizio di primo grado, puo' presentare domanda di oblazione all'Istituto nazionale della previdenza sociale il quale, previo parere del Comitato esecutivo, determina la somma da pagarsi entro i limiti, minimo e massimo, della ammenda stabilita.
 
@@ -458,7 +454,7 @@ Nel caso in cui la contravvenzione riguardi contributi non pagati, l'Istituto pu
 
 ## TITOLO III - Disposizioni transitorie e finali
 
-#### Art. 25
+### Art. 25
 
 Fermi restando i requisiti di anzianita' di iscrizione nell'assicurazione obbligatoria per l'invalidita', la vecchiaia e i superstiti, in deroga alle disposizioni sui minimi di contribuzione necessari al conseguimento della pensione stabiliti dall'art. 9 del regio decreto 14 aprile 1939, n. 636, modificato dall'art. 2 della presente legge, tra la data di entrata in vigore della legge stessa ed il 1 gennaio 1962 i periodi minimi necessari a liquidare la pensione sono ridotti, per ciascun anno, alle quote indicate nel seguente prospetto:
 
@@ -487,19 +483,19 @@ Per coloro che si avvalgono della facolta' di prosecuzione
 
 volontaria, di cui al precedente art. 5, nel periodo di validita' delle disposizioni di cui al presente articolo, i minimi contributivi ai fini del diritto alla liquidazione della pensione sono quelli stabiliti per l'anno nel quale l'assicurato presenta la domanda di autorizzazione alla prosecuzione volontaria.
 
-#### Art. 26
+### Art. 26
 
 E' garantito a tutti i titolari di pensione in corso alla data di entrata in vigore della presente legge un aumento minimo, rispetto al trattamento complessivo goduto dal pensionato alla data stessa, di lire 3600 annue.
 
 L'aumento minimo annuo di cui al comma precedente si applica anche al trattamento di pensione da corrispondersi al pensionato al quale si applicano le disposizioni di cui all'art. 12.
 
-#### Art. 27
+### Art. 27
 
 L'obbligo del versamento dei contributi dovuti per le forme di previdenza e di assistenza sociale obbligatorie previste dalla presente legge non cessa qualora il lavoratore, in eta' superiore ai 55 anni se donna e 60 anni se uomo, presti attivita' retribuita alle dipendenze altrui.
 
 ((COMMA ABROGATO DALLA L. 12 AGOSTO 1962, N. 1338)).
 
-#### Art. 28
+### Art. 28
 
 Coloro che alla data di entrata in vigore della presente legge risultino ammessi alla prosecuzione volontaria ai sensi degli articoli 57 e 58 del regio decreto-legge 4 ottobre 1935, n. 1827, devono, entro un anno dalla data suddetta, uniformarsi alle prescrizioni della presente legge.
 
@@ -507,7 +503,7 @@ Nel termine medesimo essi devono riconsegnare all'Istituto nazionale della previ
 
 Ai contributi versati sulle tessere di cui al comma precedente riconsegnate nel termine sopra indicato si applicano le disposizioni di cui all'ultimo comma dell'art. 6 della presente legge. Tuttavia, l'assicurato che abbia in corso la prosecuzione volontaria della contribuzione ai sensi dell'art. 57 succitato, potra' chiedere la liquidazione della pensione di invalidita' solo dopo aver versati almeno 52 contributi settimanali con le norme di cui alla presente legge.
 
-#### Art. 29
+### Art. 29
 
 Agli iscritti nell'assicurazione facoltativa di cui al testo unico 30 maggio 1907, n. 376, e al titolo IV del regio decreto-legge 4 ottobre 1935, n. 1827, compete unicamente la pensione calcolata in base alle tariffe approvate con regio decreto 9 ottobre 1922, n. 1403.
 
@@ -557,11 +553,11 @@ AGGIORNAMENTO (14)
 
 La Corte Costituzionale, con sentenza 8 - 21 marzo 1989, n. 141 (in G.U. 1a s.s. 29/03/1989, n. 13) ha dichiarato "l'illegittimita' costituzionale dell'art. 29, comma terzo, della legge 4 aprile 1952, n. 218 (Riordinamento delle pensioni dell'assicurazione obbligatoria per l'invalidita', la vecchiaia ed i superstiti), nella parte in cui non prevede un meccanismo di adeguamento dell'importo nominale dei contributi versati dal giorno della sua entrata in vigore in poi."
 
-#### Art. 30
+### Art. 30
 
 In caso di morte, dopo l'entrata in vigore della presente legge, di un pensionato che abbia conseguito il diritto alla pensione nel periodo compreso fra il 1 gennaio 1940 e il 31 dicembre 1944, spetta ai superstiti una indennita' pari all'ammontare di una annualita' della pensione rivalutata ai sensi del precedente art. 9, escluse le maggiorazioni per i figli.
 
-#### Art. 31
+### Art. 31
 
 A decorrere dalla data di entrata in vigore della presente legge e fino a tutto l'anno 1952 l'onere derivante al Fondo per l'adeguamento delle pensioni dalla corresponsione delle prestazioni previste dai precedenti articoli 9, 10, 13, 26 e 30 e' ripartito, in deroga a quanto disposto dall'art. 16, fra i datori di lavoro, i lavoratori e lo Stato secondo le seguenti quote:
 
@@ -627,7 +623,7 @@ c) per ogni giornata di colono o mezza-
 
 dro.................................. L. 4,82
 
-#### Art. 32
+### Art. 32
 
 All'onere derivante dalla presente legge a carico dello Stato:
 
@@ -637,11 +633,11 @@ b) per l'esercizio 1952-53, si fara' fronte coi fondi iscritti al capitolo n. 90
 
 Il Ministro per il tesoro e' autorizzato ad apportare con propri decreti le occorrenti variazioni di bilancio.
 
-#### Art. 33
+### Art. 33
 
 Sino a quando non saranno determinate, ai sensi del precedente art. 17, le norme per il versamento dei contributi dovuti al Fondo per l'adeguamento delle pensioni dalle categorie di datori di lavoro non soggetti al regio decreto-legge 17 giugno 1937, n. 1048 e successive disposizioni, il versamento dei contributi medesimi e' effettuato in base alle norme contenute nel decreto Ministeriale 15 gennaio 1946, sulla riscossione dei contributi dovuti al soppresso Fondo di integrazione per le assicurazioni sociali.
 
-#### Art. 34
+### Art. 34
 
 Le norme contenute nella presente legge si applicano anche alle pensioni liquidate o da liquidare dell'E.N.P.A.L.S. ai propri assicurati, con le seguenti modifiche:
 
@@ -653,7 +649,7 @@ Il limite minimo di contribuzione previsto dal precedente art. 5 per la prosecuz
 
 ((COMMA ABROGATO DALLA L. 21 LUGLIO 1965, N. 903)).
 
-#### Art. 35
+### Art. 35
 
 Fino a che non sia diversamente disposto, ai beneficiari di pensione dei fondi e trattamenti speciali di previdenza sostitutivi dell'assicurazione obbligatoria per l'invalidita', la vecchiaia ed i superstiti si continueranno a corrispondere le prestazioni gia' a carico del Fondo di integrazione per le assicurazioni sociali e del Fondo di solidarieta' sociale.
 
@@ -661,7 +657,7 @@ Le disposizioni di cui al precedente comma valgono anche per le pensioni derivan
 
 Gli oneri derivanti dall'applicazione dei commi primo e secondo del presente articolo saranno sostenuti dal Fondo per l'adeguamento delle pensioni, al quale saranno versati i contributi gia' di pertinenza degli anzidetti due fondi.
 
-#### Art. 36
+### Art. 36
 
 A carico del Fondo adeguamento pensioni e' stabilito, in favore dell'Opera nazionale pensionati d'Italia, un contributo annuo di lire 120 per ogni pensione in corso di pagamento nell'assicurazione obbligatoria al 30 giugno di ciascun anno.
 
@@ -673,7 +669,7 @@ All'Opera nazionale per i pensionati d'Italia si applicano tutte le esenzioni ed
 
 L'art. 10 del decreto legislativo 23 marzo 1948, n. 361, e' abrogato.
 
-#### Art. 37
+### Art. 37
 
 Entro cinque anni dalla data di entrata in vigore della presente legge, con decreto del Presidente della Repubblica, su proposta del Ministro per il lavoro e la previdenza sociale, di concerto col Ministro per il tesoro, potranno essere emanate, in conformita' dei principi e dei criteri direttivi cui si informa la presente legge, disposizioni transitorie e di attuazione, nonche' norme intese a:
 
@@ -681,11 +677,11 @@ Entro cinque anni dalla data di entrata in vigore della presente legge, con decr
 
 2\) raccogliere in un unico testo le disposizioni che regolano la materia.
 
-#### Art. 38
+### Art. 38
 
 Sono abrogati gli articoli 57 e 58 del regio decreto-legge 4 ottobre 1935, n. 1827, il terzo comma dell'art. 35 del regio decreto-legge 14 aprile 1939, n. 636 e ogni altra disposizione contraria o incompatibile con quelle della presente legge.
 
-#### Art. 39
+### Art. 39
 
 La decorrenza di applicazione della presente legge per quanto riguarda le prestazioni e' stabilita al primo giorno del terzo mese antecedente a quello di entrata in vigore della legge medesima.
 
@@ -701,7 +697,7 @@ Visto, il Guardasigilli: ZOLI
 
 ## TITOLO III - Disposizioni transitorie e finali
 
-#### Tabelle
+### Tabelle
 
 TABELLA A.
 

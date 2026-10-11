@@ -38,11 +38,9 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I - MODIFICHE DELLE LEGGI 10 FEBBRAIO 1962, N. 57,
+## CAPO I - MODIFICHE DELLE LEGGI 10 FEBBRAIO 1962, N. 57, 31 MAGGIO 1965, N. 575, 26 LUGLIO 1975, N. 354 E 13 SETTEMBRE 1982, N. 646.
 
-### 31 MAGGIO 1965, N. 575, 26 LUGLIO 1975, N. 354 - E 13 SETTEMBRE 1982, N. 646.
-
-###### Art. 1
+### Art. 1
 
 1\. L'articolo 2-bis della legge 31 maggio 1965, n. 575, e' sostituito dal seguente:
 
@@ -64,7 +62,7 @@ Previa autorizzazione del procuratore della Repubblica o del giudice procedente,
 
 > Nella Gazzetta Ufficiale - serie generale - del 25 maggio 1990 si procedera' alla ripubblicazione del testo della presente legge corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 14 marzo 1986, n. 217.
 
-###### Art. 2
+### Art. 2
 
 1\. I commi terzo e quarto dell'articolo 2-ter della legge 31 maggio 1965, n. 575, sono sostituiti dai seguenti:
 
@@ -80,7 +78,7 @@ Agli stessi fini il rpocedimento puo' essere iniziato o proseguito allorche' la 
 
 In ogni caso il sequestro e la confisca possono essere disposti anche in relazione a beni sottoposti a sequestro in un procedimento penale, ma i relativi effetti sono sospesi per tutta la durata dello stesso e si estinguono ove venga disposta la confisca degli stessi beni in sede penale".
 
-###### Art. 3
+### Art. 3
 
 1\. L'articolo 10 della legge 31 maggio 1965, n. 575, e' sostituito dal seguente:
 
@@ -106,7 +104,7 @@ f) contributi, finanziamenti o mutui agevolati ed altre erogazioni dello stesso 
 
 5\. Per le licenze ed autorizzazioni di polizia, ad eccezione di quelle relative alle armi, munizioni ed esplosivi, e per gli altri provvedimenti di cui al comma 1 le decadenze e i divieti previsti dal presente articolo possono essere esclusi dal giudice nel caso in cui per effetto degli stessi verrebbero a mancare i mezzi di sostentamento all'interessato e alla famiglia".
 
-###### Art. 4
+### Art. 4
 
 1\. Nel primo comma dell'articolo 10-bis della legge 31 maggio 1965, n. 575, dopo le parole "e le iscrizioni" sono inserite le seguenti: "nonche' le autorizzazioni, le abilitazioni e le erogazioni".
 
@@ -126,19 +124,19 @@ Per i provvedimenti di cui al comma 5 dell'articolo 10 la comunicazione, su moti
 
 "Le stesse pene si applicano in caso di rilascio di licenze, concessioni, autorizzazioni o abilitazioni ovvero di iscrizioni nonche' di concessione di erogazioni in violazione delle disposizioni di cui all'articolo precedente".
 
-###### Art. 5
+### Art. 5
 
 1\. Nel primo comma dell'articolo 10-quater della legge 31 maggio 1965, n. 575, le parole "all'articolo 10-ter" sono sostituite dalle seguenti: "al comma 4 dell'artocolo 10" ed in fine e' aggiunto il seguente periodo: "Ai fini dei relativi accertamenti si applicano le disposizioni degli articoli 2-bis e 2-ter".
 
 2\. Nel secondo comma del medesimo articolo 10-quater le parole "all'articolo precedente" sono sostituite dalle seguenti: "dal comma 4 dell'articolo 10".
 
-###### Art. 6
+### Art. 6
 
 1\. Il primo comma dell'articolo 10-quinquies della legge 31 maggio 1965, n. 575, e' sostituito dal seguente:
 
 "Il pubblico amministratore, il funzionario o il dipendente dello Stato o di altro ente pubblico ovvero il concessionario di opere e di servizi pubblici che consente alla conclusione di contratti o subcontratti in violazione dei divieti previsti dall'articolo 10, e' punito con la reclusione da due a quattro anni".
 
-###### Art. 7
+### Art. 7
 
 1\. Dopo l'articolo 10-quinquies della legge 31 maggio 1965, n. 575, e' aggiunto il seguente:
 
@@ -184,13 +182,13 @@ Alla predetta verifica possono altresi' procedere le altre amministrazioni o ent
 
 16\. Decorso un anno dalla firma del contratto riguardante opere o lavori per la pubblica amministrazione, l'amministrazione o ente pubblico committente o concedente e' comunque tenuto ad effettuare la verifica di cui al comma 15".
 
-###### Art. 8
+### Art. 8
 
 1\. Nel primo comma dell'articolo 21 della legge 13 settembre 1982, n.
 
 646, le parole "Le stesse pene si applicano al subappaltatore e all'affidatario del cottimo." sono sostituite dalle seguenti: "Nei confronti del subappaltatore e dell'affidatario del cottimo si applica la pena dell'arresto da sei mesi ad un anno e dell'ammenda pari ad un terzo del valore dell'opera ricevuta in subappalto o in cottimo.".
 
-###### Art. 9
+### Art. 9
 
 1\. Dopo l'articolo 23 della legge 13 settembre 1982, n. 646, e' inserito il seguente:
 
@@ -202,7 +200,7 @@ Alla predetta verifica possono altresi' procedere le altre amministrazioni o ent
 
 4\. Quando sia stata pronunciata condanna definitiva per i delitti di cui al comma 1, il tribunale competente per l'applicazione della misura di prevenzione dispone le misure patrimoniali e interdittive previste dalla legge 31 maggio 1965, n. 575".
 
-###### Art. 10
+### Art. 10
 
 1\. Nel primo comma dell'articolo 25 della legge 13 settembre 1982, n.
 
@@ -218,7 +216,7 @@ Alla predetta verifica possono altresi' procedere le altre amministrazioni o ent
 
 "La revoca del provvedimento con il quale e' stata disposta una misura di prevenzione, non preclude l'utilizzazione ai fini fiscali degli elementi acquisiti nel corso degli accertamenti svolti ai sensi del primo comma".
 
-###### Art. 11
+### Art. 11
 
 1\. Il primo comma dell'articolo 30 della legge 13 settembre 1982, n. 646, e' sostituito dal seguente:
 
@@ -226,35 +224,27 @@ Alla predetta verifica possono altresi' procedere le altre amministrazioni o ent
 
 Sono esclusi i beni destinati al soddisfacimento dei bisogni quotidiani".
 
-###### Art. 12
+### Art. 12
 
 1\. Nel numero 2-bis) dell'articolo 13 della legge 10 febbraio 1962, n. 57, le parole "dagli articoli 10 e 10-ter" sono sostituite dalle seguenti: "dall'articolo 10".
 
 2\. Nel numero 2-bis) del primo comma dell'articolo 21 della legge 10 febbraio 1962, n. 57, dopo le parole "di un provvedimento" e' inserita la seguente: "definitivo".
 
-###### Art. 13
+### Art. 13
 
 1\. Nell'articolo 30-ter della legge 26 luglio 1975, n. 354, dopo il comma 1 e' inserito il seguente:
 
 "1-bis. Per i condannati per reati commessi per finalita' di terrorismo o di eversione dell'ordinamento costituzionale, di criminalita' organizzata, nonche' per il reato indicato nell'articolo 630 del codice penale, devono essere acquisiti elementi tali da escludere la attualita' dei collegamenti con la criminalita' organizzata".
 
-## CAPO II. - AMBITO DI APPLICAZIONE DELLE LEGGI 31 MAGGIO
+## CAPO II. - AMBITO DI APPLICAZIONE DELLE LEGGI 31 MAGGIO 1965, N. 575, E 13 SETTEMBRE 1982, N. 646. EFFETTI DELLA RIABILITAZIONE E DISPOSIZIONI A TUTELA DELLA TRASPARENZA DELL'ATTIVITA' DELLE REGIONI E DEGLI ENTI LOCALI E IN MATERIA DI PUBBLICI APPALTI.
 
-### 1965, N. 575, E - 13 SETTEMBRE 1982, N. 646.
-
-#### EFFETTI DELLA RIABILITAZIONE E - DISPOSIZIONI A
-
-##### TUTELA DELLA TRASPARENZA DELL'ATTIVITA' DELLE - REGIONI
-
-###### E DEGLI ENTI LOCALI E IN MATERIA DI - PUBBLICI APPALTI.
-
-###### Art. 14
+### Art. 14
 
 ((ARTICOLO ABROGATO DAL D.L. 23 MAGGIO 2008, N. 92, CONVERTITO,
 
 CON MODIFICAZIONI, DALLA L. 24 LUGLIO 2008, N. 125))
 
-###### Art. 15
+### Art. 15
 
 1\. Non possono essere candidati alle elezioni regionali, provinciali, comunali e circoscrizionali e non possono comunque ricoprire le cariche di presidente della giunta regionale, assessore e consigliere regionale, presidente della giunta provinciale, sindaco, assessore e consigliere provinciale e comunale, presidente e componente del consiglio circoscrizionale, presidente e componente del consiglio di amministrazione dei consorzi, presidente e componente dei consigli e delle giunte delle unioni di comuni, consigliere di amministrazione e presidente delle aziende speciali e delle istituzioni di cui all'articolo 23 della legge 8 giugno 1990, n. 142, amministratore e componente degli organi comunque denominati delle unita' sanitarie locali, presidente e componente degli organi esecutivi delle comunita' montane:
 
@@ -320,15 +310,15 @@ AGGIORNAMENTO (26)
 
 Il D.Lgs. 31 dicembre 2012, n. 235 ha disposto (con l'art. 17, comma 1, lettera b)) che a decorrere dalla data di entrata in vigore del suddetto decreto e' abrogato "l'articolo 15 della legge 19 marzo 1990, n. 55, salvo per quanto riguarda la disciplina per il personale dipendente dalle regioni".
 
-###### Art. 15-bis
+### Art. 15-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267))
 
-###### Art. 16
+### Art. 16
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267))
 
-###### Art. 17
+### Art. 17
 
 1\. ((COMMA ABROGATO DAL D.LGS. 12 APRILE 2006,N. 163)).
 
@@ -336,11 +326,11 @@ Il D.Lgs. 31 dicembre 2012, n. 235 ha disposto (con l'art. 17, comma 1, lettera 
 
 3\. Entro lo stesso termine di cui al comma 2, con decreto del Presidente del Consiglio dei ministri, previa deliberazione del Consiglio dei ministri, su proposta del Ministro del tesoro, d'intesa con il Ministro dei lavori pubblici, sono, altresi', definite disposizioni per il controllo sulle composizioni azionarie dei soggetti aggiudicatari di opere pubbliche, ivi compresi i concessionari, e sui relativi mutamenti societari. Con lo stesso decreto sono comunque vietate intestazioni ad interposte persone, di cui deve essere comunque prevista la cessazione entro un termine predeterminato, salvo le intestazioni a societa' fiduciarie autorizzate ai sensi della legge 23 novembre 1939, n. 1966, a condizione che queste ultime provvedano, entro trenta giorni dalla richiesta effettuata dai soggetti aggiudicatari, a comunicare alle amministrazioni interessate l'identita' dei fiducianti; in presenza di violazioni delle disposizioni del presente comma, si procede alla sospensione dall'Albo nazionale dei costruttori o, nei casi di recidiva, alla cancellazione dall'Albo stesso.
 
-###### Art. 18
+### Art. 18
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-###### Art. 19
+### Art. 19
 
 1\. Il primo comma dell'articolo 20 della legge 8 agosto 1977, n. 584, e' sostituito dal seguente:
 
@@ -354,27 +344,25 @@ Il D.Lgs. 31 dicembre 2012, n. 235 ha disposto (con l'art. 17, comma 1, lettera 
 
 4\. ((COMMA ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163)).
 
-###### Art. 20
+### Art. 20
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-## Capo III. - MODIFICHE DEL CODICE PENALE. DISPOSIZIONI DIVERSE
+## Capo III. - MODIFICHE DEL CODICE PENALE. DISPOSIZIONI DIVERSE DI ATTUAZIONE E TRANSITORIE. ABROGAZIONE DI NORME
 
-### DI ATTUAZIONE E TRANSITORIE. - ABROGAZIONE DI NORME
-
-###### Art. 21
+### Art. 21
 
 1\. L'articolo 32-quater del codice penale e' sostituito dal seguente:
 
 "Art. 32-quater. (Casi nei quali alla condanna consegue l'incapacita' di contrattare con la pubblica amministrazione). - Ogni condanna per i delitti previsti dagli articoli 317, 318, 319, 320, 321, 353, 355, 356, 416, 416-bis, 437,501, 501-bis, 640, numero 1) del secondo comma, commessi in danno o in vantaggio di un'attivita' imprenditoriale o comunque in relazione ad essa importa l'incapacita' di contrattare con la pubblica amministrazione".
 
-###### Art. 22
+### Art. 22
 
 1\. Dopo l'articolo 640 del codice penale e' inserito il seguente:
 
 "Art. 640-bis. - (Truffa aggravata per il conseguimento di erogazioni pubbliche). - La pena e' della reclusione da uno a sei anni e si procede d'ufficio se il fatto di cui all'articolo 640 riguarda contributi, finanziamenti, mutui agevolati ovvero altre erogazioni dello stesso tipo, comunque denominate, concessi o erogati da parte dello Stato, di altri enti pubblici o delle Comunita' europee".
 
-###### Art. 23
+### Art. 23
 
 1\. L'articolo 648-bis del codice penale e' sostituito dal seguente:
 
@@ -384,7 +372,7 @@ La pena e' aumentata quando il fatto e' commesso nell'esercizio di un'attivita' 
 
 Si applica l'ultimo comma dell'articolo 648".
 
-###### Art. 24
+### Art. 24
 
 1\. Dopo l'articolo 648-bis del codice penale e' inserito il seguente:
 
@@ -394,25 +382,25 @@ La pena e' autmentata quando il fatto e' commesso nell'esercizio di un'attivita'
 
 Si applica l'ultimo comma dell'articolo 648.
 
-###### Art. 25
+### Art. 25
 
 1\. Nel primo comma dell'articolo 379 del codice penale, le parole "e del caso preveduto dall'articolo 648" sono sostituite dalle seguenti:
 
 "e dei casi previsti dagli articoli 648, 648-bis e 648-ter".
 
-###### Art. 26
+### Art. 26
 
 1\. Quando i fatti previsti dagli articoli 648, 648-bis e 648-ter del codice penale sono commessi nell'esercizio di attivita' bancaria, professionale o di cambio-valuta ovverso di altra attivita' soggetta ad autorizzazione, licenza, iscrizione in appositi albi o registri o ad altro titolo abilitante, si applicano le misure disciplinari ovvero i provvedimentidi sospensione o di revoca del titolo abilitante previsti dai rispettivi ordinamenti.
 
 ((1-bis. Le disposizioni del comma 1 si applicano anche quando l'attivita' illecita integri i delitti previsti dall'articolo 270-bis del codice penale in relazione alle condotte di finanziamento del terrorismo, anche internazionale)).
 
-###### Art. 27
+### Art. 27
 
 1\. Oltre a quanto previsto dall'articolo 4 della legge 22 maggio 1975, n. 152, e dalle disposizioni in materia di produzione e traffico illecito degli stupefacenti e delle sostanze psicotrope, gli ufficiali ed agenti di polizia giudiziaria, nel corso di operazioni di polizia per la prevenzione e la repressione del delitto previsto dall'articolo 416-bis del codice penale e di quelli commessi in relazione ad esso, nonche' dei delitti previsti dagli articoli 648-bis e 648-ter dello stesso codice e di quelli indicati nei medesimi articoli, possono procedere in ogni luogo al controllo e all'ispezione dei mezzi di trasporto, dei bagagli e degli effetti personali quando hanno fondato motivo di ritenere che possono essere rinvenuti denaro o valori costituenti il prezzo della liberazione della persona sequestrata, o provenienti dai delitti predetti, nonche' armi, munizioni o esplosivi. Dell'esito dei controlli e delle ispezioni e' redatto processo verbale in appositi moduli, trasmessi entro quarantotto ore al procuratore della Repubblica, il quale, se ne ricorrono i presupposti, li convalida entro le successive quarantotto ore.
 
 2\. Nelle medesime circostanze, in casi eccezionali di necessita' ed urgenza che non consentono un tempestivo provvedimento dell'autorita' giudiziaria, gli ufficiali di polizia giudiziaria possono altresi' procedere a perquisizioni, dandone notizia, senza ritardo, e comunque entro quarantotto ore, al procuratore della Repubblica il quale, se ne ricorrono i presupposti, le convalida entro le successive quarantotto ore.
 
-###### Art. 28
+### Art. 28
 
 1\. Nelle societa' fiduciarie e di revisione ed in quelle di gestione dei fondi comuni di investimento, le cariche comunque denominate di amministratore, di direttore generale, di dirigente munito di rappresentanza e di sindaco non possono essere rivestite da coloro che non sono in possesso dei requisiti di cui alla lettera c) del quarto comma dell'articolo 1 della legge 23 marzo 1983, n. 77, e degli ulteriori requisiti morali e professionali richiesti dalle disposizioni vigenti, nonche' da coloro che sono stati sottoposti alle misure di prevenzione disposte ai sensi della legge 27 dicembre 1956, n. 1423, o della legge 31 maggio 1965, n. 575, cosi' come successivamente modificate e integrate, salvi gli effetti della riabilitazione. Per le societa' che svolgono le attivita' di raccolta del risparmio fra il pubblico sotto ogni forma e di esercizio del credito continuano ad applicarsi le disposizioni del decreto del Presidente della Repubblica 27 giugno 1985, n. 350.
 
@@ -424,7 +412,7 @@ Si applica l'ultimo comma dell'articolo 648.
 
 5\. Con decreto del Presidente della Repubblica da emanarsi, su proposta del Presidente del Consiglio dei ministri, previa deliberazione del Consiglio dei ministri, entro centoventi giorni dalla data di entrata in vigore della presente legge, sono stabilite le disposizioni di attuazione del presente articolo e di coordinamento con le leggi speciali.
 
-###### Art. 29
+### Art. 29
 
 1\. L'articolo 96 del regio decreto-legge 12 marzo 1936, n. 375, e' sostituito dal seguente:
 
@@ -434,7 +422,7 @@ Si applica l'ultimo comma dell'articolo 648.
 
 3\. Quando i funzionari delegati, nell'esercizio delle funzioni loro attribuite, vengono a conoscenza che da qualche ente o persona sia esercitata l'attivita' prevista dall'articolo 1 senza l'autorizzazione della Banca d'Italia, ne fanno denunzia a quest'ultima per i provvedimenti a norma del comma 1".
 
-###### Art. 30
+### Art. 30
 
 1\. L'articolo 13 del decreto-legge 15 dicembre 1979, n. 625, convertito, con modificazioni, nella legge 6 febbraio 1980, n. 15, e' sostituito dal seguente:
 
@@ -460,35 +448,35 @@ d) altri operatori finanziari e di borsa al cui capitale partecipano, anche per 
 
 7\. L'importo di cui al comma 1 e' determinato con decreto del Ministro di grazia e giustizia emanato di concerto con il Ministro del tesoro, sentito il Comitato interministeriale per il credito e il risparmio". \_tfe\_taj 2. Le disposizioni di cui al comma 1 hanno effetto dal trentesimo giorno dalla data di entrata in vigore della presente legge per i soggetti indicati alle rimanenti lettere. Le modalita' della loro attuazione sono disciplinate dal Comitato interministeriale per il credito e il risparmio.
 
-###### Art. 31
+### Art. 31
 
 1\. Il primo comma dell'articolo 9 della legge 4 giugno 1985, n- 281, e' sostituito dal seguente:
 
 "Chiunque partecipa in una societa' esercente attivita' bancarie, societa' con azioni quotate in borsa, societa' per azioni esercenti il credito, nonche' casse rurali e banche popolari ed ogni altro ente creditizio, in misure superiore al due per cento del capitale di questa, deve darne comunicazione scritta alla societa' stessa e alla Banca d'Italia entro trenta giorni da quello in cui la partecipazione ha superato il detto limite. Le successive variazioni di ciascuna partecipazione devono essere comunicate entro trenta giorni da quello in cui la misura dell'aumento o della diminuzione ha superato la meta' della percentuale stabilita o da quello in cui la partecipazione si e' ridotta entro la percentuale stessa".
 
-###### Art. 32
+### Art. 32
 
 1\. Il numero 2) dell'articol 5 del decreto del Presidente della Repubblica 27 giugno 1985, n. 350, e' sostituito dal seguente:
 
 "2) siano stati sottoposti a misure di prevenzione disposte ai sensi della legge 27 dicembre 1956, n. 1423. o della legge 31 maggio 1965, n. 575, cosi' come successivamente modificate e integrate, salvi gli effetti della riabilitazione".
 
-###### Art. 33
+### Art. 33
 
 1\. Dopo l'articolo 2 della legge 7 ottobre 1969, n. 742, e' inserito il seguente:
 
 "Art. 2-bis. - I. Nei procedimenti per l'applicazione di una misura di prevenzione, le disposizioni dell'articolo 1 non si applicano quando sia stata provvisoriamente disposta una misura personale o interdittiva o sia stato disposto il sequestro dei beni, qualora gli interessati o i loro difensori espressamente rinunzino alla sospensione dei termini, ovvero il giudice, a richiesta del pubblico ministero, dichiari, con ordinanza motivata non impugnabile, l'urgenza del procedimento".
 
-###### Art. 34
+### Art. 34
 
 ((ARTICOLO ABROGATO DAL D.LGS. 6 SETTEMBRE 2011, N. 159))
 
-###### Art. 35
+### Art. 35
 
 1\. Qualora nei procedimenti in corso alla data di entrata in vigore della presente legge per il delitto di cui all'articolo 414-bis del codice penale siano state disposte le indagini e le misure finora previste dall'articolo 24 della legge 13 settembre 1982, n. 646, il procedimento relativo all'applicazione delle suddette misure prosegue innanzi al giudice competente per l'applicazione della misura di prevenzione ai sensi della legge 31 maggio 1965, n- 575, ferma restando l'efficacia dei provvedimenti gia' adottati dal giudice penale.
 
 2\. A tal fine, il giudice penale trasmette gli atti necessari, ad eccezione di quelli che occorra tenere segreti ai fini del procedimento di prevenzione non sia in corso, al procuratore della Repubblica competente; si osservano le disposizioni di cui all'articolo 23-bis della legge 13 settembre 1982, n. 646.
 
-###### Art. 36
+### Art. 36
 
 1\. Sono abrogati l'articolo 10-ter della legge 31 maggio 1965, n. 575, il quarto comma dell'articolo 23 e l'articolo 24 della legge 13 settembre 1982, n. 646.
 

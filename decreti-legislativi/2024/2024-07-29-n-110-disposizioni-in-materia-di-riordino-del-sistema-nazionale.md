@@ -48,11 +48,9 @@ Sulla proposta del Ministro dell'economia e delle finanze;
 
 Emana il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Disposizioni in materia di riscossione
 
-### Disposizioni in materia di riscossione
-
-#### Art. 1
+### Art. 1
 
 Pianificazione annuale dell'attivita' di riscossione
 
@@ -276,7 +274,7 @@ Pianificazione annuale dell'attivita' di riscossione
 
 > 2\) revisione del sistema della riscossione delle entrate degli enti locali anche attraverso forme di cooperazione tra lo Stato e gli enti locali, anche mediante incentivazioni non onerose per il bilancio dello Stato, per rendere piu' efficienti le attivita' di gestione delle entrate degli enti locali con particolare riferimento alle attivita' dirette all'individuazione di basi imponibili immobiliari non dichiarate. La revisione deve riguardare anche il sistema di vigilanza sui soggetti abilitati ad effettuare l'attivita' di accertamento e di riscossione delle entrate degli enti locali, nonche' sui soggetti che svolgono esclusivamente le relative funzioni e attivita' di supporto propedeutiche all'accertamento e alla riscossione delle entrate degli enti locali e delle societa' da essi partecipate;».
 
-#### Art. 2
+### Art. 2
 
 Adempimenti dell'Agente della riscossione
 
@@ -448,7 +446,7 @@ d) la trasmissione telematica all'ente creditore, entro la fine di ogni mese e s
 
 > 22-bis. Al fine di garantire la piena informazione dei soggetti sprovvisti di domicilio digitale, fino al 30 novembre 2023 il gestore della piattaforma invia al destinatario che non abbia eletto domicilio digitale, qualora non abbia gia' perfezionato la notifica tramite accesso alla piattaforma ai sensi del comma 9, lettera b), numero 3), una copia analogica dell'atto unitamente all'avviso di avvenuta ricezione in forma cartacea. I contratti di appalto stipulati dal gestore della piattaforma sono conseguentemente integrati con tutti gli scaglioni di peso previsti dal tariffario del servizio postale universale. Ai maggiori oneri di stampa, imbustamento e recapito, pari a 979.050 euro per l'anno 2023, si provvede a valere sulle risorse di cui all'articolo 1, comma 403, della legge 27 dicembre 2019, n. 160. Per i medesimi fini di cui al primo periodo, il gestore della piattaforma puo' individuare tramite avviso pubblico i soggetti autorizzati a fornire il servizio di cui al comma 20, alle medesime condizioni previste dai decreti adottati ai sensi dei commi 14 e 15, curandone la progressiva integrazione sulla base della diffusione territoriale dei punti di prossimita' dei fornitori individuati, ed eroga, nelle more dell'avvio dei contratti con i medesimi fornitori, i servizi necessari per consentire l'accesso universale alla piattaforma, con diritto alla ripetizione dei relativi costi a carico dei destinatari delle notificazioni.».
 
-#### Art. 3
+### Art. 3
 
 Discarico automatico o anticipato
 
@@ -472,7 +470,7 @@ b) tra il ventiquattresimo e il trentesimo mese successivo a quello della presa 
 
 4\. A seguito del discarico o dell'esercizio della facolta' prevista dal comma 3, gli enti creditori possono chiedere all'agente della riscossione la documentazione disponibile, relativa all'attivita' di riscossione svolta, se necessaria per l'esercizio del diritto di credito. Con uno o piu' decreti del Ministero dell'economia e delle finanze, adottati previa intesa in sede di Conferenza unificata di cui all'articolo 8 del decreto legislativo n. 281 del 1997, sono definiti i termini di presentazione ed evasione, in via telematica, di tali richieste, anche in relazione al numero di carichi interessati, nonche' le specifiche tipologie di atti e documenti da fornire; relativamente ai carichi di cui al comma 3, lettera a), tali decreti sono adottati tenendo anche conto dell'analisi effettuata dalla commissione costituita ai sensi dell'articolo 7, comma 1.
 
-#### Art. 4
+### Art. 4
 
 Differimento del discarico automatico e produzione dei relativi effetti
 
@@ -536,7 +534,7 @@ b) a quello di inadempimento, revoca o decadenza dal beneficio ovvero di revoca 
 
 > 4-bis.».
 
-#### Art. 5
+### Art. 5
 
 Riaffidamento dei carichi
 
@@ -624,7 +622,7 @@ L'adesione a tali condizioni e' comunicata dall'ente creditore all'Agenzia entro
 
 > \- Per i riferimenti all'art. 19 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, si veda nelle note all'art. 4.
 
-#### Art. 6
+### Art. 6
 
 Verifiche, controlli e responsabilita' dell'agente della riscossione
 
@@ -686,7 +684,7 @@ b) dell'articolo 2, comma 1, lettera b), sia derivata, relativamente agli adempi
 
 > \- Il regolamento (UE) 2015/1589 del Consiglio, del 13 luglio 2015, recante modalita' di applicazione dell'art. 108 del trattato sul funzionamento dell'Unione europea, e' pubblicato nella G.U.U.E. del 24.9.2015 L 248.
 
-#### Art. 7
+### Art. 7
 
 Disposizioni relative al magazzino in carico all'Agenzia delle entrate-riscossione
 
@@ -706,7 +704,7 @@ c) il 31 dicembre 2031, per i carichi affidati dal 2018 al 2024.
 
 > \- Per i riferimenti all'art. 8 del decreto legislativo 28 agosto 1997, n. 281, si veda nelle note alle premesse.
 
-#### Art. 8
+### Art. 8
 
 Trattamento delle quote non riscosse riguardanti le risorse proprie tradizionali di cui all'articolo 2, paragrafo 1, lettera a), della decisione (UE, Euratom) 2020/2053 del Consiglio e delle somme dovute a titolo di recupero di aiuti di Stato ai sensi dell'articolo 16 del regolamento UE 2015/1589 affidate dal 1° gennaio 2025
 
@@ -742,7 +740,7 @@ In assenza di verifica le quote di cui al presente comma sono discaricate.
 
 > \- Per i riferimenti all'art. 19 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, si veda nelle note all'art. 4.
 
-#### Art. 9
+### Art. 9
 
 Trattamento delle quote non riscosse riguardanti le risorse proprie tradizionali di cui all'articolo 2, paragrafo 1, lettera a), della decisione (UE, Euratom) 2020/2053 del Consiglio e le somme dovute a titolo di recupero di aiuti di Stato ai sensi dell'articolo 16 del regolamento UE 2015/1589 affidate dal 1° gennaio 2000 al 31 dicembre 2024
 
@@ -774,7 +772,7 @@ b) nel periodo tra la data di affidamento del carico e il 31 dicembre 2031 sono 
 
 > \- Per i riferimenti all'art. 19 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, si veda nelle note all'art. 4.
 
-#### Art. 10
+### Art. 10
 
 Norme di coordinamento e abrogazione
 
@@ -794,11 +792,9 @@ d) l'articolo 1, commi 684, primo periodo, 684-bis, 684-ter, 685, ultimo periodo
 
 > \- L'art. 1, commi da 531 a 535, della legge 24 dicembre 2012, n. 228 e l'art. 17, commi 1 e 2, del decreto legislativo 30 giugno 2011, n. 123, abrogati dal presente decreto, contenevano disposizioni relative al Comitato di indirizzo e verifica dell'attivita' di riscossione mediante ruolo.
 
-## Capo II
+## Capo II - Disposizioni complementari
 
-### Disposizioni complementari
-
-#### Art. 11
+### Art. 11
 
 Integrazione logistica tra Agenzia delle entrate
 
@@ -820,7 +816,7 @@ c) le parole: «, di immobili demaniali oppure» sono sostituite dalle seguenti:
 
 > 5-quinquies. Al fine di agevolare l'integrazione logistica dell'Agenzia delle entrate e dell'Agenzia delle entrate-Riscossione anche attraverso la gestione congiunta dei fabbisogni immobiliari, l'Agenzia delle entrate-Riscossione puo' avvalersi, alle medesime condizioni, di tutte le soluzioni allocative nella disponibilita' dell'Agenzia delle entrate, anche nel caso di utilizzo di immobili demaniali, ovvero previo rimborso della corrispondente quota di canone, di edifici appartenenti ai fondi pubblici di investimento immobiliare o oggetto di acquisto da parte degli enti previdenziali, ai sensi dell'articolo 8, comma 4, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122. Ove richiesto dall'Agenzia delle entrate, nell'assegnazione di tali tipologie di immobili, ovvero ai fini dell'attuazione delle previsioni dell'articolo 8, comma 4, sopra richiamato, l'Agenzia del demanio considera congiuntamente i fabbisogni espressi dall'Agenzia delle entrate stessa e dall'Agenzia delle entrate-Riscossione.».
 
-#### Art. 12
+### Art. 12
 
 Disposizioni in materia di impugnazione
 
@@ -870,7 +866,7 @@ f) nell'ambito della cessione dell'azienda, tenuto conto di quanto previsto dall
 
 > f) nell'ambito della cessione dell'azienda, tenuto conto di quanto previsto dall'articolo 14 del decreto legislativo 18 dicembre 1997, n. 472.».
 
-#### Art. 13
+### Art. 13
 
 Disposizioni in materia di dilazione
 
@@ -1010,7 +1006,7 @@ h) al comma 3-bis, le parole: «a un massimo di settantadue» sono sostituite da
 
 > \- Per i riferimenti al testo dell'art. 19 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, si veda nelle note all'art. 4.
 
-#### Art. 14
+### Art. 14
 
 Adeguamento delle disposizioni in materia di concentrazione della riscossione nell'accertamento
 
@@ -1102,7 +1098,7 @@ Adeguamento delle disposizioni in materia di concentrazione della riscossione ne
 
 > 8.2) addizionale erariale della tassa automobilistica di cui all'articolo 23, comma 21, del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111.».
 
-#### Art. 15
+### Art. 15
 
 Riscossione nei confronti dei coobbligati solidali
 
@@ -1132,7 +1128,7 @@ c) all'articolo 50, comma 1, dopo le parole: «cartella di pagamento», sono ins
 
 > 3\. L'avviso di cui al comma 2 e' redatto in conformita' al modello approvato con decreto del Ministero delle finanze e perde efficacia trascorso un anno dalla data della notifica.».
 
-#### Art. 16
+### Art. 16
 
 Disposizioni in materia di compensazione tra rimborsi e importi iscritti a ruolo
 
@@ -1196,7 +1192,7 @@ c) il comma 2 e' abrogato.
 
 > 2\. Per l'omesso o ritardato versamento alle sezioni di tesoreria provinciale o alle casse degli enti destinatari conseguente a rimborsi erroneamente erogati dal concessionario si applicano le disposizioni previste all'art. 104 del decreto del Presidente della Repubblica 28 gennaio 1988, n. 43.».
 
-#### Art. 17
+### Art. 17
 
 Disposizioni in materia di resa del conto
 
@@ -1228,7 +1224,7 @@ Disposizioni in materia di resa del conto
 
 > Nei casi pero' che taluno dei suindicati consigli, enti o funzionari delegati sia imputabile di colpa o negligenza nell'adempimento dell'incarico ad esso affidato, o di morosita' alla presentazione dei conti periodici cui e' tenuto, l'amministrazione competente puo' richiedere che la Corte dei conti, sulla istanza del procuratore generale della Corte medesima, sottoponga i presunti responsabili a speciale giudizio in analogia a quanto pei conti giudiziali e' stabilito dall'art. 35 della legge 14 agosto 1862, n. 800.».
 
-#### Art. 18
+### Art. 18
 
 Disposizioni finanziarie
 
@@ -1280,7 +1276,7 @@ c) quanto a 17,34 milioni di euro per l'anno 2034, 16,77 milioni di euro per l'a
 
 > «Art. 23 (Clausola di salvaguardia). - 2. In sede di attuazione della delega di cui all'articolo 1, il Governo, nell'esercizio delle funzioni di coordinamento della finanza pubblica, nel caso di perdita di gettito delle regioni a statuto speciale e delle province autonome di Trento e di Bolzano promuove intese nel rispetto dei principi indicati dalla giurisprudenza costituzionale e dall'articolo 17 della legge 31 dicembre 2009, n. 196.».
 
-#### Art. 19
+### Art. 19
 
 Entrata in vigore
 

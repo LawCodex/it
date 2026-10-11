@@ -30,7 +30,7 @@ la seguente legge:
 
 ## CAPO I - DISPOSIZIONI GENERALI
 
-#### Art. 1 - Autorizzazione all'adesione
+### Art. 1 - Autorizzazione all'adesione
 
 1\. Il Presidente della Repubblica e' autorizzato ad aderire al Trattato concluso il 27 maggio 2005 tra il Regno del Belgio, la Repubblica federale di Germania, il Regno di Spagna, la Repubblica francese, il Granducato di Lussemburgo, il Regno dei Paesi Bassi e la Repubblica d'Austria, relativo all'approfondimento della cooperazione transfrontaliera, in particolare allo scopo di contrastare il terrorismo, la criminalita' transfrontaliera e la migrazione illegale (Trattato di Prum), di seguito denominato "Trattato".
 
@@ -38,23 +38,21 @@ la seguente legge:
 
 > Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operante il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
-#### Art. 2 - Ordine di esecuzione
+### Art. 2 - Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data al Trattato, a decorrere dal novantesimo giorno successivo al deposito dello strumento di adesione, in conformita' a quanto disposto dall'articolo 51, paragrafo 3, dello stesso Trattato.
 
-#### Art. 3 - Autorita' di riferimento per le attivita' previste dal Trattato
+### Art. 3 - Autorita' di riferimento per le attivita' previste dal Trattato
 
 1\. Le autorita' di riferimento per le attivita' previste dal Trattato sono individuate con uno o piu' decreti del Ministro dell'interno e del Ministro della giustizia.
 
-#### Art. 4 - Risarcimento del danno
+### Art. 4 - Risarcimento del danno
 
 1\. Fermo restando quanto previsto dall'articolo 30 del Trattato, quando agenti di una Parte contraente operano nel territorio nazionale, lo Stato italiano provvede al risarcimento dei danni causati dal personale straniero limitatamente a quelli derivanti dallo svolgimento delle attivita' svolte conformemente al medesimo Trattato.
 
-## CAPO II - ISTITUZIONE DELLA BANCA DATI NAZIONALE DEL DNA E DEL
+## CAPO II - ISTITUZIONE DELLA BANCA DATI NAZIONALE DEL DNA E DEL LABORATORIO CENTRALE PER LA BANCA DATI NAZIONALE DEL DNA
 
-### LABORATORIO CENTRALE PER LA BANCA DATI NAZIONALE DEL DNA
-
-#### Art. 5
+### Art. 5
 
 (Istituzione della banca dati nazionale del DNA
 
@@ -64,7 +62,7 @@ e del laboratorio centrale per la banca dati nazionale del DNA)
 
 2\. Presso il Ministero della giustizia, Dipartimento dell'amministrazione penitenziaria, e' istituito il laboratorio centrale per la banca dati nazionale del DNA.
 
-#### Art. 6 - Definizioni
+### Art. 6 - Definizioni
 
 1\. Ai fini della presente legge si intendono per:
 
@@ -84,7 +82,7 @@ g) "dati identificativi": dati personali che permettono l'identificazione dirett
 
 h) "tipizzazione": complesso delle operazioni tecniche di laboratorio che conducono alla produzione del profilo del DNA.
 
-#### Art. 7 - Attivita' della banca dati nazionale del DNA
+### Art. 7 - Attivita' della banca dati nazionale del DNA
 
 1\. La banca dati nazionale del DNA provvede alle seguenti attivita':
 
@@ -96,7 +94,7 @@ c) raccolta dei profili del DNA di persone scomparse o loro consanguinei, di cad
 
 d) raffronto dei profili del DNA a fini di identificazione.
 
-#### Art. 8
+### Art. 8
 
 (Attivita' del laboratorio centrale
 
@@ -108,7 +106,7 @@ a) tipizzazione del profilo del DNA dei soggetti di cui all'articolo 9, commi 1 
 
 b) conservazione dei campioni biologici dai quali sono tipizzati i profili del DNA.
 
-#### Art. 9
+### Art. 9
 
 (Prelievo di campione biologico
 
@@ -250,7 +248,7 @@ h) reati previsti dal testo unico delle disposizioni in materia di intermediazio
 
 > \- Il regio decreto 24 febbraio 1998, n. 58 (Testo unico delle disposizioni in materia di intermediazine finanziaria, ai sensi degli articoli 8 e 21 della legge 6 febbraio 1996, n. 52) e' pubblicato nella Gazzetta Ufficiale 26 marzo 1998, n. 71, supplemento ordinario.
 
-#### Art. 10
+### Art. 10
 
 (Profili del DNA tipizzati da reperti biologici acquisiti
 
@@ -264,7 +262,7 @@ nel corso di procedimenti penali)
 
 > «Art. 655 (Funzioni del pubblico ministero). - 1. Salvo che sia diversamente disposto, il pubblico ministero presso il giudice indicato nell'art. 665 cura d'ufficio l'esecuzione dei provvedimenti.».
 
-#### Art. 11
+### Art. 11
 
 (Metodologia di analisi di reperti e campioni biologici
 
@@ -278,7 +276,7 @@ nella banca dati nazionale del DNA)
 
 3\. I sistemi di analisi sono applicati esclusivamente alle sequenze del DNA che non consentono la identificazione delle patologie da cui puo' essere affetto l'interessato.
 
-#### Art. 12 - Trattamento e accesso ai dati; tracciabilita' dei campioni
+### Art. 12 - Trattamento e accesso ai dati; tracciabilita' dei campioni
 
 1\. I profili del DNA e i relativi campioni non contengono le informazioni che consentono l'identificazione diretta del soggetto cui sono riferiti.
 
@@ -290,7 +288,7 @@ nella banca dati nazionale del DNA)
 
 5\. Il personale addetto alla banca dati nazionale del DNA e al laboratorio centrale per la banca dati nazionale del DNA e' tenuto al segreto per gli atti, i dati e le informazioni di cui sia venuto a conoscenza a causa o nell'esercizio delle proprie funzioni.
 
-#### Art. 13 - Cancellazione dei dati e distruzione dei campioni biologici
+### Art. 13 - Cancellazione dei dati e distruzione dei campioni biologici
 
 1\. A seguito di assoluzione con sentenza definitiva perche' il fatto non sussiste, perche' l'imputato non lo ha commesso, perche' il fatto non costituisce reato o perche' il fatto non e' previsto dalla legge come reato, e' disposta d'ufficio la cancellazione dei profili del DNA acquisiti ai sensi dell'articolo 9 e la distruzione dei relativi campioni biologici.
 
@@ -300,13 +298,13 @@ nella banca dati nazionale del DNA)
 
 4\. In ogni altro caso, il profilo del DNA resta inserito nella banca dati nazionale del DNA per i tempi stabiliti nel regolamento d'attuazione, d'intesa con il Garante per la protezione dei dati personali, e comunque non oltre quaranta anni dall'ultima circostanza che ne ha determinato l'inserimento, e il campione biologico e' conservato per i tempi stabiliti nel regolamento di attuazione, d'intesa con il Garante per la protezione dei dati personali, e comunque non oltre venti anni dall'ultima circostanza che ne ha determinato il prelievo.
 
-#### Art. 14 - Sanzioni
+### Art. 14 - Sanzioni
 
 1\. Il pubblico ufficiale che comunica o fa uso di dati ed informazioni in violazione delle disposizioni di cui al presente capo, o al di fuori dei fini previsti dallo stesso capo, e' punito, salvo che il fatto costituisca piu' grave reato, con la reclusione da uno a tre anni.
 
 2\. Se il fatto e' commesso per colpa, la pena e' della reclusione fino a sei mesi.
 
-#### Art. 15 - Istituzioni di garanzia
+### Art. 15 - Istituzioni di garanzia
 
 1\. Il controllo sulla banca dati nazionale del DNA e' esercitato dal Garante per la protezione dei dati personali, nei modi previsti dalla legge e dai regolamenti vigenti.
 
@@ -314,7 +312,7 @@ nella banca dati nazionale del DNA)
 
 3\. Il Garante per la protezione dei dati personali e il CNBBSV provvedono all'espletamento dei compiti di cui ai commi 1 e 2 nell'ambito delle risorse umane, strumentali e finanziarie gia' in dotazione agli stessi.
 
-#### Art. 16 - Regolamenti di attuazione
+### Art. 16 - Regolamenti di attuazione
 
 1\. Con uno o piu' regolamenti adottati, entro quattro mesi dalla data di entrata in vigore della presente legge, ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, su proposta del Ministro della giustizia, del Ministro dell'interno e del Ministro del lavoro, della salute e delle politiche sociali, di concerto con il Ministro della difesa, con il Ministro dell'economia e delle finanze e con il Ministro delle politiche agricole alimentari e forestali, sentiti il Garante per la protezione dei dati personali e il CNBBSV, sono disciplinati, in conformita' ai principi e ai criteri direttivi della presente legge:
 
@@ -340,7 +338,7 @@ Qualora detto termine venga a scadere nei quindici giorni antecedenti allo spira
 
 > «2. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio del Ministri, sentito il Consiglio di Stato e previo parere delle Commissioni parlamentari competenti in materia, che si pronunciano entro trenta giorni dalla richiesta, sono emanati i regolamenti per la disciplina delle materie, non coperte da riserva assoluta di legge prevista dalla Costituzione, per le quali le leggi della Repubblica, autorizzando l'esercizio della potesta' regolamentare del Governo, determinano le norme generali regolatrici della materia e dispongono l'abrogazione delle norme vigenti, con effetto dall'entrata in vigore delle norme regolamentari.».
 
-#### Art. 17 - Norme transitorie
+### Art. 17 - Norme transitorie
 
 1\. I profili del DNA ricavati da reperti acquisiti nel corso di procedimenti penali anteriormente alla data di entrata in vigore della presente legge, previo nulla osta dell'autorita' giudiziaria, sono trasferiti dalle Forze di polizia alla banca dati nazionale del DNA entro il 31 dicembre ((2021)).
 
@@ -352,7 +350,7 @@ a) istituzioni di elevata specializzazione, per l'esecuzione, anche presso labor
 
 b) singole Forze di polizia, per lo svolgimento di specifici programmi di formazione ed addestramento.
 
-#### Art. 18 - Istituzione dei ruoli tecnici del Corpo di polizia penitenziaria
+### Art. 18 - Istituzione dei ruoli tecnici del Corpo di polizia penitenziaria
 
 1\. Il Governo e' delegato ad adottare, entro un anno dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi per provvedere alla integrazione dell'ordinamento del personale del Corpo di polizia penitenziaria mediante l'istituzione di ruoli tecnici nei quali inquadrare il personale da impiegare nelle attivita' del laboratorio centrale di cui all'articolo 5, comma 2. I decreti legislativi previsti dal presente comma sono adottati su proposta del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze e con il Ministro per la pubblica amministrazione e l'innovazione. Gli schemi dei decreti legislativi sono trasmessi al Parlamento, ai fini dell'espressione dei pareti da parte delle Commissioni competenti per materia e per le conseguenze di carattere finanziario che sono resi entro il termine di trenta giorni dalla data di trasmissione, decorso il quale i decreti sono adottati anche in mancanza dei pareri. Qualora detto termine venga a scadere nei trenta giorni antecedenti allo spirare del termine previsto dal primo periodo del presente comma o successivamente, la scadenza di quest'ultimo e' prorogata di sessanta giorni.
 
@@ -368,7 +366,7 @@ d) disciplina dello stato giuridico del personale, e in particolare del comando 
 
 e) attribuzione, ove occorra e limitatamente alle funzioni esercitate, delle qualita' di agente e ufficiale di polizia giudiziaria e di pubblica sicurezza al personale che svolge attivita' tecnico-scientifica e che esplica mansioni di carattere professionale in relazione al ruolo di appartenenza.
 
-#### Art. 19
+### Art. 19
 
 (Informazione al Parlamento sulle attivita' della banca dati
 
@@ -378,11 +376,9 @@ per la medesima banca dati)
 
 1\. I Ministri dell'interno e della giustizia informano il Parlamento, con cadenza annuale, in ordine alle attivita' svolte, nel periodo di riferimento, rispettivamente dalla banca dati nazionale del DNA e dal laboratorio centrale per la medesima banca dati, nonche' in ordine allo stato di attuazione delle norme previste dal presente capo per le parti di rispettiva competenza.
 
-## CAPO III - SCAMBIO DI INFORMAZIONI
+## CAPO III - SCAMBIO DI INFORMAZIONI E ALTRE FORME DI COOPERAZIONE
 
-### E ALTRE FORME DI COOPERAZIONE
-
-#### Art. 20 - Scambio informativo dei dati del DNA e di dati personali
+### Art. 20 - Scambio informativo dei dati del DNA e di dati personali
 
 1\. Le disposizioni di cui agli articoli da 2 a 7 del Trattato, concernenti lo scambio informativo dei profili del DNA, e quelle concernenti lo scambio informativo dei dati dattiloscopici, di quelli contenuti nei registri di immatricolazione dei veicoli, nonche' di quelli relativi alle manifestazioni sportive, di cui agli articoli 8, 9, 12 e 15 del Trattato, si applicano conformemente al codice in materia di protezione dei dati personali, di cui al decreto legislativo 30 giugno 2003, n. 196, e successive modificazioni.
 
@@ -390,13 +386,13 @@ per la medesima banca dati)
 
 > \- Il decreto legislativo 30 giugno 2003, n. 196 (Codice in materia di protezione dei dati personali), e' pubblicato nella Gazzetta Ufficiale 29 luglio 2003, n. 174, supplemento ordinario.
 
-#### Art. 21 - Utilizzo di guardie armate a bordo degli aeromobili
+### Art. 21 - Utilizzo di guardie armate a bordo degli aeromobili
 
 1\. Ai fini dell'applicazione dell'articolo 17 del Trattato, entro sessanta giorni dalla data di entrata in vigore della presente legge, le competenti autorita' nazionali propongono alle competenti autorita' delle Parti contraenti e degli altri Stati che hanno aderito al Trattato la stipula di un accordo separato, ai sensi del citato articolo 17, paragrafo 5, anche al fine di integrare le informazioni di cui all'allegato 1 dello stesso Trattato.
 
 2\. L'autorizzazione generale di porto d'armi d'ordinanza e di munizioni, di cui all'articolo 18, paragrafo 1, del Trattato, consente il trasporto sul territorio nazionale delle relative armi dall'uscita dall'aeromobile fino al luogo di deposito nelle zone di sicurezza, di cui al medesimo articolo 18, paragrafo 2.
 
-#### Art. 22 - Status e poteri dei componenti di operazioni comuni
+### Art. 22 - Status e poteri dei componenti di operazioni comuni
 
 1\. Ai fini dell'attuazione dell'articolo 24 del Trattato, gli appartenenti agli organi di polizia degli altri Stati contraenti che partecipano sul territorio nazionale ad operazioni comuni, distaccati dalle autorita' rispettivamente competenti, possono svolgere le funzioni previste dall'atto costitutivo delle unita' miste, sottoscritto dall'autorita' di pubblica sicurezza individuata ai sensi dell'articolo 3 della presente legge, nei limiti consentiti dalle disposizioni di legge o di regolamento in vigore nel territorio dello Stato. Agli stessi soggetti, nei medesimi limiti, sono attribuite le funzioni di agente di pubblica sicurezza e di agente di polizia giudiziaria.
 
@@ -416,7 +412,7 @@ per la medesima banca dati)
 
 > 2-quater. Per i danni causati dagli agenti di polizia di Paesi diversi da quelli di cui al comma 2-bis, durante lo svolgimento dei servizi di cui al medesimo comma 2-bis, si osservano, in quanto compatibili, le disposizioni dell'art. 43 della Convenzione del 19 giugno 1990, di applicazione dell'Accordo di Schengen, resa esecutiva dalla legge 30 settembre 1993, n. 388.».
 
-#### Art. 23 - Poteri in caso di interventi d'urgenza sul territorio nazionale
+### Art. 23 - Poteri in caso di interventi d'urgenza sul territorio nazionale
 
 1\. Ai fini dell'attuazione dell'articolo 25 del Trattato:
 
@@ -434,11 +430,9 @@ b) gli appartenenti agli organi di polizia dello Stato contraente confinante pos
 
 > 2\. La persona fermata, se non e' cittadino italiano, e' rimessa in liberta' dalla medesima autorita' che ha proceduto al fermo al piu' tardi alla scadenza del termine indicato nel paragrafo 6 dell'art. 41 della Convenzione, se entro lo stesso termine non si e' proceduto all'arresto al sensi dell'art. 716 del codice di procedura penale.».
 
-## CAPO IV - MODIFICHE AL CODICE DI PROCEDURA PENALE
+## CAPO IV - MODIFICHE AL CODICE DI PROCEDURA PENALE IN MATERIA DI ACCERTAMENTI TECNICI IDONEI AD INCIDERE SULLA LIBERTA' PERSONALE
 
-### IN MATERIA DI ACCERTAMENTI TECNICI IDONEI - AD INCIDERE SULLA LIBERTA' PERSONALE
-
-#### Art. 24 - Introduzione dell'articolo 224-bis del codice di procedura penale
+### Art. 24 - Introduzione dell'articolo 224-bis del codice di procedura penale
 
 1\. Dopo l'articolo 224 del codice di procedura penale e' inserito il seguente:
 
@@ -468,7 +462,7 @@ f) l'indicazione del luogo, del giorno e dell'ora stabiliti per il compimento de
 
 7\. L'atto e' nullo se la persona sottoposta al prelievo o agli accertamenti non e' assistita dal difensore nominato".
 
-#### Art. 25
+### Art. 25
 
 (Introduzione dell'articolo 359-bis
 
@@ -482,7 +476,7 @@ del codice di procedura penale)
 
 3\. Nei casi di cui ai commi 1 e 2, le disposizioni degli articoli 132, comma 2, e 224-bis, commi 2, 4 e 5, si applicano a pena di nullita' delle operazioni e di inutilizzabilita' delle informazioni cosi' acquisite. Si applicano le disposizioni di cui al comma 2 dell' articolo 191".
 
-#### Art. 26 - Modifica all'articolo 133 del codice di procedura penale
+### Art. 26 - Modifica all'articolo 133 del codice di procedura penale
 
 1\. Al comma 1 dell'articolo 133 del codice di procedura penale, dopo le parole: "il perito," sono inserite le seguenti: "la persona sottoposta all'esame del perito diversa dall'imputato,".
 
@@ -494,7 +488,7 @@ del codice di procedura penale)
 
 > 2\. Si applicano le disposizioni dell'art. 132. »
 
-#### Art. 27 - Modifica all'articolo 354 del codice di procedura penale
+### Art. 27 - Modifica all'articolo 354 del codice di procedura penale
 
 1\. All'articolo 354, comma 3, del codice di procedura penale, il secondo periodo e' soppresso.
 
@@ -508,7 +502,7 @@ del codice di procedura penale)
 
 > 3\. Se ricorrono i presupposti previsti dal comma 2, gli ufficiali di polizia giudiziaria compiono i necessari accertamenti e rilievi sulle persone diversi dalla ispezione personale.».
 
-#### Art. 28 - Modifica all'articolo 392 del codice di procedura penale
+### Art. 28 - Modifica all'articolo 392 del codice di procedura penale
 
 1\. All'articolo 392, comma 2, del codice di procedura penale, sono aggiunte, in fine, le seguenti parole: "ovvero che comporti l'esecuzione di accertamenti o prelievi su persona vivente previsti dall'articolo 224-bis".
 
@@ -536,7 +530,7 @@ del codice di procedura penale)
 
 > 2\. Il pubblico ministero e la persona sottoposta alle indagini possono altresi' chiedere una perizia che, se fosse disposta nel dibattimento, ne potrebbe determinare una sospensione superiore a sessanta giorni ovvero che comporti l'esecuzione di accertamenti o prelievi su persona vivente previste dall'art. 224-bis.».
 
-#### Art. 29
+### Art. 29
 
 (Introduzione degli articoli 72-bis, 72-ter e 72-quater
 
@@ -562,7 +556,7 @@ All'esito della perizia su campioni biologici, ai sensi dell'articolo 224-bis de
 
 ## CAPO V - DISPOSIZIONI FINALI
 
-#### Art. 30 - Informazione al Parlamento sulla cooperazione di polizia
+### Art. 30 - Informazione al Parlamento sulla cooperazione di polizia
 
 1\. Il Ministro dell'interno informa annualmente il Comitato parlamentare di cui all'articolo 18 della legge 30 settembre 1993, n. 388, e successive modificazioni, sullo stato di attuazione delle previsioni del Trattato, sulle azioni intraprese e sugli accordi conclusi, con specifico riferimento a quelli attuativi di cui all'articolo 44 del Trattato medesimo.
 
@@ -584,11 +578,11 @@ All'esito della perizia su campioni biologici, ai sensi dell'articolo 224-bis de
 
 > 7\. Le spese per il funzionamento del Comitato parlamentare sono poste per meta' a carico del bilancio interno del Senato della Repubblica e per meta' a carico del bilancio interno della Camera dei deputati.».
 
-#### Art. 31 - Accordi internazionali
+### Art. 31 - Accordi internazionali
 
 1\. L'attuazione delle disposizioni di cui alla presente legge avviene in conformita' agli accordi internazionali sottoscritti e ratificati dalla Repubblica.
 
-#### Art. 32 - Copertura finanziaria
+### Art. 32 - Copertura finanziaria
 
 1\. Per l'istituzione e il funzionamento della banca dati nazionale del DNA e del laboratorio centrale per la banca dati nazionale del DNA, per le convenzioni di cui all'articolo 17, comma 3, e per lo scambio informativo dei dati del DNA e di dati personali, e' autorizzata la spesa di euro 11.184.200 per l'anno 2008, di euro 6.210.000 per l'anno 2009, di euro 4.910.000 per l'anno 2010 e di euro 4.110.000 a decorrere dall'anno 2011, cui si provvede: per gli anni 2008 e 2009, mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2008-2010, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2008, allo scopo parzialmente utilizzando, quanto ad euro 5.892.100 per l'anno 2008 ed euro 3.205.000 per l'anno 2009, l'accantonamento relativo al Ministero dell'interno e, quanto ad euro 5.292.100 per l'anno 2008 ed euro 3.005.000 per l'anno 2009, l'accantonamento relativo al Ministero della giustizia; quanto ad euro 4.910.000 a decorrere dall'anno 2010, mediante riduzione dell'autorizzazione di spesa recata dall'articolo 3, comma 151, della legge 24 dicembre 2003, n. 350.
 
@@ -620,7 +614,7 @@ All'esito della perizia su campioni biologici, ai sensi dell'articolo 224-bis de
 
 > Allo stato di previsione della spesa del Ministero del tesoro e' allegato l'elenco dei capitoli di cui al precedente numero 2), da approvarsi, con apposito articolo, dalla legge di approvazione del bilancio.».
 
-#### Art. 33 - Entrata in vigore
+### Art. 33 - Entrata in vigore
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -642,7 +636,7 @@ Visto, Il Guardasigilli: Alfano
 
 ## CAPO V - DISPOSIZIONI FINALI
 
-#### Allegato
+### Allegato
 
 Allegato
 

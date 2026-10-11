@@ -754,11 +754,11 @@ Art. 4 - Ulteriori abrogazioni
 
 ## ALLEGATO 1 - CODICE DEL PROCESSO AMMINISTRATIVO
 
-### LIBRO PRIMO - DISPOSIZIONI GENERALI
+## LIBRO PRIMO - DISPOSIZIONI GENERALI
 
-#### Titolo I - Principi e organi della giurisdizione amministrativa
+### Titolo I - Principi e organi della giurisdizione amministrativa
 
-##### Capo I - Principi generali
+#### Capo I - Principi generali
 
 ALLEGATO 1
 
@@ -808,7 +808,7 @@ Dovere di motivazione e sinteticita' degli atti
 
 2\. Il giudice e le parti redigono gli atti in maniera chiara e sintetica ((, secondo quanto disposto dalle norme di attuazione)).
 
-##### Capo II - Organi della giurisdizione amministrativa
+#### Capo II - Organi della giurisdizione amministrativa
 
 ###### Art. 4
 
@@ -842,7 +842,7 @@ Consiglio di Stato
 
 6\. Gli appelli avverso le pronunce del Tribunale amministrativo regionale della Sicilia sono proposti al Consiglio di giustizia amministrativa per la Regione siciliana, nel rispetto delle disposizioni dello statuto speciale e delle relative norme di attuazione.
 
-##### Capo III - Giurisdizione amministrativa
+#### Capo III - Giurisdizione amministrativa
 
 ###### Art. 7
 
@@ -928,7 +928,7 @@ Rapporti con l'arbitrato
 
 1\. Le controversie concernenti diritti soggettivi devolute alla giurisdizione del giudice amministrativo possono essere risolte mediante arbitrato rituale di diritto ((ai sensi degli articoli 806 e seguenti del codice di procedura civile)).
 
-##### Capo IV - Competenza
+#### Capo IV - Competenza
 
 ###### Art. 13
 
@@ -988,7 +988,7 @@ L'ordinanza provvede anche sulle spese del regolamento salvo il caso di regolame
 
 3\. La pronuncia sulla competenza resa dal Consiglio di Stato, in sede di regolamento o di appello ai sensi dell'articolo 62, comma 4, vincola i tribunali amministrativi regionali. Se viene indicato come competente un tribunale diverso da quello adito, il giudizio deve essere riassunto nel termine perentorio di trenta giorni dalla notificazione dell'ordinanza che pronuncia sul regolamento, ovvero entro sessanta giorni dalla sua pubblicazione.))
 
-##### Capo V - Astensione e ricusazione
+#### Capo V - Astensione e ricusazione
 
 ###### Art. 17
 
@@ -1018,7 +1018,7 @@ Ricusazione
 
 L'accoglimento dell'istanza di ricusazione rende nulli gli atti compiuti ai sensi del comma 4 con la partecipazione del giudice ricusato.
 
-##### Capo VI - Ausiliari del giudice
+#### Capo VI - Ausiliari del giudice
 
 ###### Art. 19
 
@@ -1054,7 +1054,7 @@ Commissario ad acta
 
 1\. Nell'ambito della propria giurisdizione, il giudice amministrativo, se deve sostituirsi all'amministrazione, puo' nominare come proprio ausiliario un commissario ad acta. Si applica l'articolo 20, comma 2.
 
-#### Titolo II - Parti e difensori
+### Titolo II - Parti e difensori
 
 ###### Art. 22
 
@@ -1108,9 +1108,9 @@ Spese di giudizio
 
 2\. Il giudice condanna d'ufficio la parte soccombente al pagamento di una sanzione pecuniaria, in misura non inferiore al doppio e non superiore al quintuplo del contributo unificato dovuto per il ricorso introduttivo del giudizio, quando la parte soccombente ha agito o resistito temerariamente in giudizio. ((Nelle controversie in materia di appalti di cui agli articoli 119, lettera a), e 120 l'importo della sanzione pecuniaria puo' essere elevato fino all'uno per cento del valore del contratto, ove superiore al suddetto limite.)) Al gettito delle sanzioni previste dal presente comma si applica l'articolo 15 delle norme di attuazione.
 
-#### Titolo III - Azioni e domande
+### Titolo III - Azioni e domande
 
-##### Capo I - Contraddittorio e intervento
+#### Capo I - Contraddittorio e intervento
 
 ###### Art. 27
 
@@ -1130,7 +1130,7 @@ Intervento
 
 3\. Il giudice, anche su istanza di parte, quando ritiene opportuno che il processo si svolga nei confronti di un terzo, ne ordina l'intervento.
 
-##### Capo II - Azioni di cognizione
+#### Capo II - Azioni di cognizione
 
 ###### Art. 29
 
@@ -1184,7 +1184,7 @@ Pluralita' delle domande e conversione delle azioni
 
 2\. Il giudice qualifica l'azione proposta in base ai suoi elementi sostanziali. Sussistendone i presupposti il giudice puo' sempre disporre la conversione delle azioni.
 
-#### Titolo IV - Pronunce giurisdizionali
+### Titolo IV - Pronunce giurisdizionali
 
 ###### Art. 33
 
@@ -1262,7 +1262,7 @@ Errore scusabile
 
 1\. Il giudice puo' disporre, anche d'ufficio, la rimessione in termini per errore scusabile in presenza di oggettive ragioni di incertezza su questioni di diritto o di gravi impedimenti di fatto.
 
-#### Titolo V - Disposizioni di rinvio
+### Titolo V - Disposizioni di rinvio
 
 ###### Art. 38
 
@@ -1278,13 +1278,13 @@ Rinvio esterno
 
 2\. Le notificazioni degli atti del processo amministrativo sono comunque disciplinate dal codice di procedura civile e dalle leggi speciali concernenti la notificazione degli atti giudiziari in materia civile.
 
-### LIBRO SECONDO - PROCESSO AMMINISTRATIVO DI PRIMO GRADO
+## LIBRO SECONDO - PROCESSO AMMINISTRATIVO DI PRIMO GRADO
 
-#### Titolo I - Disposizioni generali
+### Titolo I - Disposizioni generali
 
-##### Capo I - Ricorso
+#### Capo I - Ricorso
 
-###### Sezione I - Ricorso e costituzione delle parti
+##### Sezione I - Ricorso e costituzione delle parti
 
 ###### Art. 40
 
@@ -1492,7 +1492,7 @@ Intervento per ordine del giudice
 
 2\. La costituzione dell'interventore avviene secondo le modalita' di cui all'articolo 46. Si applica l'articolo 49, comma 3, terzo periodo.
 
-###### Sezione II - Abbreviazione, proroga e sospensione dei termini
+##### Sezione II - Abbreviazione, proroga e sospensione dei termini
 
 ###### Art. 52
 
@@ -1546,7 +1546,7 @@ AGGIORNAMENTO (29)
 
 L'aggiornamento in calce, precedentemente disposto dall'art. 3, comma 1 del D.L. 8 marzo 2020, n. 11 e' stato eliminato; la modifica ha perso efficacia per effetto dell'abrogazione del D.L. medesimo ad opera della L. 24 aprile 2020, n. 27, la quale ne ha contestualmente fatti salvi gli effetti.
 
-#### Titolo II - Procedimento cautelare
+### Titolo II - Procedimento cautelare
 
 ###### Art. 55
 
@@ -1670,9 +1670,9 @@ Appello cautelare
 
 ((4. Nel giudizio di cui al presente articolo e' rilevata anche d'ufficio la violazione, in primo grado, degli articoli 10, comma 2, 13, 14, 15, comma 2, 42, comma 4, e 55, comma 13. Se rileva la violazione degli articoli 13, 14, 15, comma 2, 42, comma 4 e 55, comma 13, il giudice competente per l'appello cautelare sottopone la questione al contraddittorio delle parti ai sensi dell'articolo 73, comma 3, e regola d'ufficio la competenza ai sensi dell'articolo 16, comma 3. Quando dichiara l'incompetenza del tribunale amministrativo regionale adito, con la stessa ordinanza annulla le misure cautelari emanate da un giudice diverso da quello di cui all'articolo 15, comma 6. Per la definizione della fase cautelare si applica l'articolo 15, comma 8.))
 
-#### Titolo III - Mezzi di prova e attivita' istruttoria
+### Titolo III - Mezzi di prova e attivita' istruttoria
 
-##### Capo I - Mezzi di prova
+#### Capo I - Mezzi di prova
 
 ###### Art. 63
 
@@ -1708,7 +1708,7 @@ Mezzi di prova
 
 > Se rifiuta il terzo, il giudice lo condanna a una pena pecuniaria da euro 250 a euro 1.500.».
 
-##### Capo II - Ammissione e assunzione delle prove
+#### Capo II - Ammissione e assunzione delle prove
 
 ###### Art. 64
 
@@ -1804,9 +1804,9 @@ Surrogazione del giudice delegato all'istruttoria
 
 1\. La surrogazione del magistrato delegato o la nomina di altro magistrato che debba sostituirlo in qualche atto relativo all'esecuzione della prova e' disposta con provvedimento del presidente, ancorche' la delega abbia avuto luogo con ordinanza collegiale.
 
-#### Titolo IV - Riunione, discussione e decisione dei ricorsi
+### Titolo IV - Riunione, discussione e decisione dei ricorsi
 
-##### Capo I - Riunione dei ricorsi
+#### Capo I - Riunione dei ricorsi
 
 ###### Art. 70
 
@@ -1814,7 +1814,7 @@ Riunione dei ricorsi
 
 1\. Il collegio puo', su istanza di parte o d'ufficio, disporre la riunione di ricorsi connessi.
 
-##### Capo II - Discussione
+#### Capo II - Discussione
 
 ###### Art. 71
 
@@ -1874,7 +1874,7 @@ Sentenze in forma semplificata
 
 1\. Nel caso in cui ravvisi la manifesta fondatezza ovvero la manifesta irricevibilita', inammissibilita', improcedibilita' o infondatezza del ricorso, il giudice decide con sentenza in forma semplificata. La motivazione della sentenza puo' consistere in un sintetico riferimento al punto di fatto o di diritto ritenuto risolutivo ovvero, se del caso, ad un precedente conforme.
 
-##### Capo III - Deliberazione
+#### Capo III - Deliberazione
 
 ###### Art. 75
 
@@ -1896,9 +1896,9 @@ Modalita' della votazione
 
 4\. Si applicano l'articolo 276, secondo, quarto e quinto comma, del codice di procedura civile e ((l'articolo)) 118, quarto comma, delle disposizioni per l'attuazione del codice di procedura civile.
 
-#### Titolo V - Incidenti nel processo
+### Titolo V - Incidenti nel processo
 
-##### Capo I - Incidente di falso
+#### Capo I - Incidente di falso
 
 ###### Art. 77
 
@@ -1920,7 +1920,7 @@ Deposito della sentenza resa sulla querela di falso
 
 2\. Il ricorso e' dichiarato estinto se nessuna parte deposita la copia della sentenza nel termine di novanta giorni dal suo passaggio in giudicato.
 
-##### Capo II - Sospensione e interruzione del processo
+#### Capo II - Sospensione e interruzione del processo
 
 ###### Art. 79
 
@@ -1944,7 +1944,7 @@ Prosecuzione o riassunzione del processo sospeso o interrotto
 
 ((3-bis. In tutti i casi di sospensione e interruzione del giudizio il presidente puo' disporre istruttoria per accertare la persistenza delle ragioni che le hanno determinate e l'udienza e' fissata d'ufficio trascorsi tre mesi dalla cessazione di tali ragioni)).
 
-#### Titolo VI - Estinzione e improcedibilita'
+### Titolo VI - Estinzione e improcedibilita'
 
 ###### Art. 81
 
@@ -2000,7 +2000,7 @@ Forma e rito per l'estinzione e per l'improcedibilita'
 
 9\. L'estinzione e l'improcedibilita' sono dichiarate con sentenza se si verificano, o vengono accertate, all'udienza di discussione.
 
-#### Titolo VII - Correzione di errore materiale dei provvedimenti del giudice
+### Titolo VII - Correzione di errore materiale dei provvedimenti del giudice
 
 ###### Art. 86
 
@@ -2012,7 +2012,7 @@ Procedimento di correzione
 
 3\. La correzione si effettua a margine o in calce al provvedimento originale, con indicazione del decreto o dell'ordinanza che l'ha disposta.
 
-#### Titolo VIII - Udienze
+### Titolo VIII - Udienze
 
 ###### Art. 87
 
@@ -2044,7 +2044,7 @@ AGGIORNAMENTO (29)
 
 L'aggiornamento in calce, precedentemente disposto dall'art. 3, comma 6 del D.L. 8 marzo 2020, n. 11 e' stato eliminato; la modifica ha perso efficacia per effetto dell'abrogazione del D.L. medesimo ad opera della L. 24 aprile 2020, n. 27, la quale ne ha contestualmente fatti salvi gli effetti.
 
-#### Titolo IX - Sentenza
+### Titolo IX - Sentenza
 
 ###### Art. 88
 
@@ -2108,9 +2108,9 @@ Pubblicita' della sentenza
 
 > In ogni caso, quando pronuncia sulle spese ai sensi dell'articolo 91, il giudice, anche d'ufficio, puo' altresi' condannare la parte soccombente al pagamento, a favore della controparte, di una somma equitativamente determinata.».
 
-### LIBRO TERZO - IMPUGNAZIONI
+## LIBRO TERZO - IMPUGNAZIONI
 
-#### Titolo I - Impugnazioni in generale
+### Titolo I - Impugnazioni in generale
 
 ###### Art. 91
 
@@ -2210,7 +2210,7 @@ Deferimento all'adunanza plenaria
 
 5\. Se ritiene che la questione e' di particolare importanza, l'adunanza plenaria puo' comunque enunciare il principio di diritto nell'interesse della legge anche quando dichiara il ricorso irricevibile, inammissibile o improcedibile, ovvero l'estinzione del giudizio. In tali casi, la pronuncia dell'adunanza plenaria non ha effetto sul provvedimento impugnato.
 
-#### Titolo II - Appello
+### Titolo II - Appello
 
 ###### Art. 100
 
@@ -2260,7 +2260,7 @@ Rimessione al primo giudice
 
 ((3. Le parti devono riassumere il processo con ricorso notificato nel termine perentorio di novanta giorni dalla notificazione o, se anteriore, dalla comunicazione della sentenza o dell'ordinanza.))
 
-#### Titolo III - Revocazione
+### Titolo III - Revocazione
 
 ###### Art. 106
 
@@ -2292,7 +2292,7 @@ Impugnazione della sentenza emessa nel giudizio di revocazione
 
 2\. La sentenza emessa nel giudizio di revocazione non puo' essere impugnata per revocazione.
 
-#### Titolo IV - Opposizione di terzo
+### Titolo IV - Opposizione di terzo
 
 ###### Art. 108
 
@@ -2310,7 +2310,7 @@ Competenza
 
 2\. Se e' proposto appello contro la sentenza di primo grado, il terzo deve introdurre la domanda di cui all'articolo 108 intervenendo nel giudizio di appello. Se l'opposizione di terzo e' gia' stata proposta al giudice di primo grado, questo la dichiara improcedibile e, se l'opponente non vi ha ancora provveduto, fissa un termine per l'intervento nel giudizio di appello, ai sensi del periodo precedente.
 
-#### Titolo V - Ricorso per cassazione
+### Titolo V - Ricorso per cassazione
 
 ###### Art. 110
 
@@ -2324,9 +2324,9 @@ Sospensione della sentenza
 
 1\. Il Consiglio di Stato, se richiesto con istanza previamente notificata alle altre parti, in caso di eccezionale gravita' ed urgenza, puo' sospendere gli effetti della sentenza impugnata e disporre le altre opportune misure cautelari. Al procedimento si applicano gli articoli 55, commi 2, 5, 6 e 7, e 56, commi 1, primo periodo, 2, 3, 4 e 5. ((Copia dell'ordinanza e' trasmessa alla cancelleria della Corte di cassazione.))
 
-### LIBRO QUARTO - OTTEMPERANZA E RITI SPECIALI
+## LIBRO QUARTO - OTTEMPERANZA E RITI SPECIALI
 
-#### Titolo I - Giudizio di ottemperanza
+### Titolo I - Giudizio di ottemperanza
 
 ###### Art. 112
 
@@ -2416,7 +2416,7 @@ AGGIORNAMENTO (45)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-#### Titolo II - Rito in materia di accesso ai documenti amministrativi
+### Titolo II - Rito in materia di accesso ai documenti amministrativi
 
 ###### Art. 116
 
@@ -2432,7 +2432,7 @@ Rito in materia di accesso ai documenti amministrativi
 
 5\. Le disposizioni di cui al presente articolo si applicano anche ai giudizi di impugnazione.
 
-#### Titolo III - Tutela contro l'inerzia della pubblica amministrazione
+### Titolo III - Tutela contro l'inerzia della pubblica amministrazione
 
 ###### Art. 117
 
@@ -2462,7 +2462,7 @@ Il D.L. 21 giugno 2013, n. 69 ha disposto (con l'art. 28, comma 4) che "Nel giud
 
 Ha inoltre disposto (con l'art. 28, comma 10) che "Le disposizioni del presente articolo si applicano, in via sperimentale e dalla data di entrata in vigore della legge di conversione del presente decreto, ai procedimenti amministrativi relativi all'avvio e all'esercizio dell'attivita' di impresa iniziati successivamente al detta data di entrata in vigore".
 
-#### Titolo IV - Procedimento di ingiunzione
+### Titolo IV - Procedimento di ingiunzione
 
 ###### Art. 118
 
@@ -2470,7 +2470,7 @@ Decreto ingiuntivo
 
 1\. Nelle controversie devolute alla giurisdizione esclusiva del giudice amministrativo, aventi ad oggetto diritti soggettivi di natura patrimoniale, si applica il Capo I del Titolo I del Libro IV del codice di procedura civile. Per l'ingiunzione e' competente il presidente o un magistrato da lui delegato. L'opposizione si propone con ricorso.
 
-#### Titolo V - Riti abbreviati relativi a speciali controversie
+### Titolo V - Riti abbreviati relativi a speciali controversie
 
 ###### Art. 119
 
@@ -2722,9 +2722,9 @@ b) alle procedure di progettazione, approvazione e realizzazione degli intervent
 
 c) alle opere di cui all'articolo 32, comma 18, del decreto-legge 6 luglio 2011, n. 98 convertito in legge 15 luglio 2011, n. 111)).
 
-#### Titolo VI - Contenzioso sulle operazioni elettorali
+### Titolo VI - Contenzioso sulle operazioni elettorali
 
-##### Capo I - Disposizioni comuni al contenzioso elettorale
+#### Capo I - Disposizioni comuni al contenzioso elettorale
 
 ###### Art. 126
 
@@ -2744,7 +2744,7 @@ Inammissibilita' del ricorso straordinario al Presidente della Repubblica
 
 1\. Nella materia di cui al presente Titolo non e' ammesso il ricorso straordinario al Presidente della Repubblica.
 
-##### Capo II - Tutela anticipata avverso gli atti di esclusione dai procedimenti elettorali preparatori per le elezioni comunali, provinciali e regionali
+#### Capo II - Tutela anticipata avverso gli atti di esclusione dai procedimenti elettorali preparatori per le elezioni comunali, provinciali e regionali
 
 ###### Art. 129
 
@@ -2792,7 +2792,7 @@ AGGIORNAMENTO (21)
 
 Il D.L. 31 agosto 2016, n. 168, convertito con modificazioni dalla L. 25 ottobre 2016, n. 197, nel modificare l'art. 20, comma 1-bis del D.L. 27 giugno 2015, n. 83, convertito con modificazioni dalla L. 6 agosto 2015, n. 132, ha conseguentemente disposto (con l'art. 7, comma 3) che la modifica del comma 4 del presente articolo ha efficacia con riguardo ai giudizi introdotti con i ricorsi depositati, in primo o in secondo grado, a far data dal 1° gennaio 2017; ai ricorsi depositati anteriormente a tale data, continuano ad applicarsi, fino all'esaurimento del grado di giudizio nel quale sono pendenti alla data stessa e comunque non oltre il 1° gennaio 2018, le norme vigenti alla data di entrata in vigore del medesimo D.L. 31 agosto 2016, n. 168.
 
-##### Capo III - Rito relativo alle operazioni elettorali di comuni, province, regioni e Parlamento europeo
+#### Capo III - Rito relativo alle operazioni elettorali di comuni, province, regioni e Parlamento europeo
 
 ###### Art. 130
 
@@ -2864,7 +2864,7 @@ Procedimento in appello in relazione alle operazioni elettorali del Parlamento e
 
 3\. Per quanto non disposto dal presente articolo si applicano le norme dell'articolo 131.
 
-### LIBRO QUINTO - NORME FINALI
+## LIBRO QUINTO - NORME FINALI
 
 ###### Art. 133
 
@@ -3172,7 +3172,7 @@ Norma finanziaria
 
 ## Allegato 2 - Norme di attuazione
 
-#### Titolo I - Registri - Orario di segreteria
+### Titolo I - Registri - Orario di segreteria
 
 ALLEGATO 2
 
@@ -3284,7 +3284,7 @@ Il D.L. 31 agosto 2016, n. 168, convertito con modificazioni dalla L. 25 ottobre
 
 Ha inoltre disposto (con l'art. 7, comma 3) che la presente modifica ha efficacia con riguardo ai giudizi introdotti con i ricorsi depositati, in primo o in secondo grado, a far data dal 1° gennaio 2017; ai ricorsi depositati anteriormente a tale data, continuano ad applicarsi, fino all'esaurimento del grado di giudizio nel quale sono pendenti alla data stessa e comunque non oltre il 1° gennaio 2018, le norme vigenti alla data di entrata in vigore del medesimo D.L. 31 agosto 2016, n. 168.
 
-#### Titolo II - Fascicoli di parte e d'ufficio
+### Titolo II - Fascicoli di parte e d'ufficio
 
 ###### Art. 5
 
@@ -3338,7 +3338,7 @@ Rilascio di copie
 
 1\. Il segretario rilascia copia delle decisioni e di ogni altro provvedimento del giudice a richiesta degli interessati e a loro spese.
 
-#### Titolo III - Ordine di fissazione dei ricorsi - Udienze
+### Titolo III - Ordine di fissazione dei ricorsi - Udienze
 
 ###### Art. 8
 
@@ -3396,7 +3396,7 @@ Polizia dell'udienza
 
 > 4\. Non possono in ogni caso essere autorizzate le riprese o le trasmissioni dei dibattimenti che si svolgono a porte chiuse a norma dell'articolo 472 commi 1, 2 e 4 del codice.».
 
-#### Titolo IV - ((Processo amministrativo telematico e criteri di redazione degli atti processuali))
+### Titolo IV - ((Processo amministrativo telematico e criteri di redazione degli atti processuali))
 
 ###### Art. 13
 
@@ -3456,7 +3456,7 @@ Ha inoltre disposto (con l'art. 7, comma 3) che la presente modifica ha efficaci
 
 ((1. Fermo quanto previsto dall' articolo 87, comma 4-bis, del codice, in tutti i casi di trattazione di cause da remoto la segreteria comunica, almeno tre giorni prima della trattazione, l'avviso dell'ora e delle modalita' di collegamento. Si da' atto nel verbale dell'udienza delle modalita' con cui si accerta l'identita' dei soggetti partecipanti e della libera volonta' delle parti, anche ai fini della disciplina sulla protezione dei dati personali. I verbali e le decisioni deliberate all'esito dell'udienza o della camera di consiglio si considerano, rispettivamente, formati ed assunte nel comune sede dell'ufficio giudiziario presso il quale e' stato iscritto il ricorso trattato. Il luogo da cui si collegano i magistrati, gli avvocati, le parti che si difendano personalmente e il personale addetto e' considerato aula di udienza a tutti gli effetti di legge. In alternativa alla partecipazione alla discussione da remoto, il difensore puo' chiedere il passaggio della causa in decisione fino alle ore 12 del terzo giorno antecedente a quello dell'udienza stessa; il difensore che deposita tale richiesta e' considerato presente a ogni effetto. Ai magistrati che partecipano alla trattazione di cause da remoto non spetta alcun trattamento di missione ne' alcun rimborso di spese)).
 
-#### Titolo V - Spese di giustizia
+### Titolo V - Spese di giustizia
 
 ###### Art. 14
 
@@ -3486,7 +3486,7 @@ Misure straordinarie per la riduzione dell'arretrato e per l'incentivazione dell
 
 ## Allegato 3 - Norme transitorie
 
-#### Titolo I - Definizione dei ricorsi pendenti da piu' di cinque anni alla data di entrata in vigore del codice del processo amministrativo
+### Titolo I - Definizione dei ricorsi pendenti da piu' di cinque anni alla data di entrata in vigore del codice del processo amministrativo
 
 ALLEGATO 3
 
@@ -3502,7 +3502,7 @@ Nuova istanza di fissazione d'udienza
 
 3\. Se, nella pendenza del termine di cui al comma 1, e' comunicato alle parti l'avviso di fissazione dell'udienza di discussione, il giudice provvede ai sensi dell'articolo 82, comma 2, del codice.
 
-#### Titolo II - Ulteriori disposizioni transitorie
+### Titolo II - Ulteriori disposizioni transitorie
 
 ###### Art. 2
 

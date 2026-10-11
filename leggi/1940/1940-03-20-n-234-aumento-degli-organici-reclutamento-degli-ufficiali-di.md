@@ -34,7 +34,7 @@ loro Commissioni legislative, hanno approvato;
 
 Noi abbiamo sanzionato e promulghiamo quanto segue:
 
-### Art. 1
+## Art. 1
 
 Il Corpo della Regia guardia di finanza e' comandato da un generale di Corpo d'armata in servizio permanente effettivo dei Regio esercito, e si compone del personale militare di cui ai seguenti
 
@@ -176,7 +176,7 @@ militari di truppa:
 
 2.500 allievi finanzieri".
 
-### Art. 2
+## Art. 2
 
 ((Possono conseguire, a domanda e senza esami, la nomina a sottotenente di complemento della Regia guardia di finanza, qualora posseggano i requisiti di cittadinanza e di condotta richiesti per la nomina in servizio permanente e siano dichiarati idonei secondo le norme stabilite dal regolamento organico:
 
@@ -186,23 +186,23 @@ militari di truppa:
 
 4\) i marescialli maggiori della Regia guardia di finanza, all'atto della loro cessazione dal servizio permanente, purche' abbiano acquisito in via normale il diritto al collocamento a riposo, per aver compiuto il periodo minimo di servizio all'uopo prescritto)).
 
-### Art. 3
+## Art. 3
 
 ((ARTICOLO ABROGATO DALLA L. 27 FEBBRAIO 1955, N. 84))
 
-### Art. 4
+## Art. 4
 
 I funzionari civili dello Stato di grado non inferiore al quinto possono ottenere, se militari in congedo illimitato della Regia guardia di finanza, la nomina a sottotenente di complemento dello stesso Regio corpo, prescindendo dalla presentazione dei titoli di studio, purche' non abbiano superato il cinquantacinquesimo anno di eta'.
 
-### Art. 5
+## Art. 5
 
 I sottufficiali del Corpo della Regia guardia di finanza, che non abbiano i requisiti speciali per essere nominati sottotenenti di complemento nel Corpo medesimo, ed i militari di truppa della Regia guardia di finanza possono essere nominati ufficiali di complemento nell'Arma di fanteria alle condizioni all'uopo previste dalle leggi sul reclutamento degli ufficiali del Regio esercito.
 
-### Art. 6
+## Art. 6
 
 Restano ferme le disposizioni di cui agli articoli 6 e 9 - primo comma - del R. decreto-legge 4 ottobre 1935-XIII, n. 1961, convertito nella legge 9 gennaio 1936-XIV, n. 75.
 
-### Art. 7
+## Art. 7
 
 Le lettere a) e b) dell'art. 9 della legge 7 giugno 1937-XV, n. 913, sono sostituite come segue:
 
@@ -210,7 +210,7 @@ Le lettere a) e b) dell'art. 9 della legge 7 giugno 1937-XV, n. 913, sono sostit
 
 «b) brigadiere: sei mesi di servizio d'istituto in reparti di una legione di frontiera o della Libia o dell'Africa Orientale Italiana o dell'Albania, oppure d'imbarco sulle unita' del naviglio del Corpo».
 
-### Art. 8
+## Art. 8
 
 L'art. 10 della legge 7 giugno 1937-XV, n. 913, e' sostituito dal seguente:
 
@@ -218,21 +218,21 @@ L'art. 10 della legge 7 giugno 1937-XV, n. 913, e' sostituito dal seguente:
 
 ## Disposizioni transitorie e finali.
 
-### Art. 9
+## Art. 9
 
 I sottufficiali in congedo della Regia guardia di finanza che, dal 24 maggio 1915 al 4 novembre 1918, od anche in tempi diversi da tale periodo della guerra 1915-18, abbiano prestato non meno di quattro mesi di effettivo servizio col grado di brigadiere o di maresciallo, in zona di operazione, presso reparti operanti o presso Comandi mobilitati, purche' non abbiano superato cinquantacinque anni di eta', possono, a domanda, essere nominati sottotenenti di complemento nella Regia guardia di finanza, anche se non provvisti del titolo di studio e senza obbligo di esami, purche' abbiano ottenuta una ricompensa al valor militare o una promozione per merito di guerra e siano dichiarati idonei da una Commissione speciale di avanzamento, secondo le norme che saranno stabilite dal regolamento.
 
 Per tali ufficiali di complemento l'avanzamento e' limitato al grado di capitano.
 
-### Art. 10
+## Art. 10
 
 Nell'attesa della pubblicazione del regolamento, le norme esecutive per il reclutamento degli ufficiali di complemento della Regia guardia di finanza, attualmente in vigore, continueranno ad essere seguite, per quanto possibile, nella prima applicazione della presente legge.
 
-### Art. 11
+## Art. 11
 
 Il Governo del Re, previa deliberazione del Consiglio dei Ministri e sentito il parere del Consiglio di Stato, e' autorizzato a pubblicare il testo unico delle leggi e dei decreti legislativi riguardanti l'ordinamento della Regia guardia di finanza, con facolta' di coordinare fra di loro le varie disposizioni, di porle in armonia con le altre leggi e decreti legislativi e di apportarvi le modificazioni ed integrazioni che ritenga necessarie.
 
-### Art. 12
+## Art. 12
 
 Sono abrogate tutte le disposizioni contrarie a quelle della presente legge o con essa incompatibili.
 

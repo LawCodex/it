@@ -28,31 +28,27 @@ PROMULGA
 
 la seguente legge:
 
-## Titolo I - NORME IN MATERIA DI INTEGRAZIONE SALARIALE E DI
+## Titolo I - NORME IN MATERIA DI INTEGRAZIONE SALARIALE E DI ECCEDENZE DI PERSONALE
 
-### ECCEDENZE DI PERSONALE - Capo I
+### Capo I - NORME IN MATERIA DI INTEGRAZIONE SALARIALE
 
-#### NORME IN MATERIA DI INTEGRAZIONE SALARIALE
-
-##### Art. 1
+#### Art. 1
 
 ((ARTICOLO ABROGATO DAL D.LGS. 14 SETTEMBRE 2015, N. 148))
 
-##### Art. 2
+#### Art. 2
 
 ((ARTICOLO ABROGATO DAL D.LGS. 14 SETTEMBRE 2015, N. 148))
 
-##### Art. 3
+#### Art. 3
 
 ((ARTICOLO ABROGATO DALLA L. 28 GIUGNO 2012, N. 92))
 
-## Titolo I - NORME IN MATERIA DI INTEGRAZIONE SALARIALE E DI ECCEDENZE DI
+## Titolo I - NORME IN MATERIA DI INTEGRAZIONE SALARIALE E DI ECCEDENZE DI PERSONALE
 
-### PERSONALE - Capo II
+### Capo II - NORME IN MATERIA DI MOBILITA'
 
-#### NORME IN MATERIA DI MOBILITA'
-
-##### Art. 4
+#### Art. 4
 
 Procedura per la dichiarazione di mobilita'
 
@@ -178,7 +174,7 @@ AGGIORNAMENTO (50)
 
 Il D.L. 21 ottobre 2021, n. 146 ha disposto (con l'art. 11, comma 7) che "Ai datori di lavoro che presentano domanda di integrazione salariale ai sensi dei commi 1, 2 e 6 resta precluso l'avvio delle procedure di cui agli articoli 4, 5 e 24 della legge 23 luglio 1991, n. 223, per la durata della fruizione del trattamento di integrazione salariale".
 
-##### Art. 5
+#### Art. 5
 
 (Criteri di scelta dei lavoratori ed oneri a carico delle imprese) 1. L'individuazione dei lavoratori da licenziare deve avvenire in relazione alle esigenze tecnico-produttive, ed organizzative del complesso aziendale, nel rispetto dei criteri previsti da contratti collettivi stipulati con i sindacati di cui all'articolo 4, comma 2, ovvero in mancanza di questi contratti nel rispetto dei seguenti criteri in concorso tra loro;
 
@@ -292,29 +288,27 @@ AGGIORNAMENTO (50)
 
 Il D.L. 21 ottobre 2021, n. 146 ha disposto (con l'art. 11, comma 7) che "Ai datori di lavoro che presentano domanda di integrazione salariale ai sensi dei commi 1, 2 e 6 resta precluso l'avvio delle procedure di cui agli articoli 4, 5 e 24 della legge 23 luglio 1991, n. 223, per la durata della fruizione del trattamento di integrazione salariale".
 
-##### Art. 6
+#### Art. 6
 
 ((ARTICOLO ABROGATO DALLA L. 28 GIUGNO 2012, N. 92))
 
-##### Art. 7
+#### Art. 7
 
 ((ARTICOLO ABROGATO DALLA L. 28 GIUGNO 2012, N. 92))
 
-##### Art. 8
+#### Art. 8
 
 ((ARTICOLO ABROGATO DALLA L. 28 GIUGNO 2012, N. 92))
 
-##### Art. 9
+#### Art. 9
 
 ((ARTICOLO ABROGATO DALLA L. 28 GIUGNO 2012, N. 92))
 
-## Titolo I - NORME IN MATERIA DI INTEGRAZIONE SALARIALE E DI
+## Titolo I - NORME IN MATERIA DI INTEGRAZIONE SALARIALE E DI ECCEDENZE DI PERSONALE
 
-### ECCEDENZE DI PERSONALE - Capo III
+### Capo III - NORME IN MATERIA DI CASSA INTEGRAZIONE E TRATTAMENTI DI DISOCCUPAZIONE PER I LAVORATORI DEL SETTORE DELL'EDILIZIA
 
-#### NORME IN MATERIA DI CASSA INTEGRAZIONE E TRATTAMENTI DI - DISOCCUPAZIONE PER I LAVORATORI DEL SETTORE DELL'EDILIZIA
-
-##### Art. 10 - Norme in materia di integrazione salariale per i lavoratori del settore dell'edilizia
+#### Art. 10 - Norme in materia di integrazione salariale per i lavoratori del settore dell'edilizia
 
 1\. Le disposizioni di cui all'articolo 1 della legge 3 febbraio 1964, n. 77, si applicano anche nel caso di eventi, non imputabili al datore di lavoro o al lavoratore, connessi al mancato rispetto dei termini previsti nei contratti di appalto per la realizzazione di opere pubbliche di grandi dimensioni, alle varianti di carattere necessario apportate ai progetti originari delle predette opere, nonche' ai provvedimenti dell'autorita' giudiziaria emanati ai sensi della legge 31 maggio 1965, n. 575, e successive modificazioni ed integrazioni. (4)
 
@@ -336,7 +330,7 @@ Il D.L. 20 maggio 1993, n. 148, convertito, con modificazioni, dalla L. 19 lugli
 
 Ha inoltre disposto (con l'art. 11, comma 1) che "Le disposizioni del presente decreto hanno effetto dall'11 maggio 1993".
 
-##### Art. 11 - Norme in materia di trattamento specialedi disoccupazione per i lavoratori licenziati da imprese edili ed affini
+#### Art. 11 - Norme in materia di trattamento specialedi disoccupazione per i lavoratori licenziati da imprese edili ed affini
 
 1\. All'articolo 9 della legge 6 agosto 1975, n. 427, i commi secondo e terzo sono sostituiti dal seguente:
 
@@ -348,25 +342,23 @@ Ha inoltre disposto (con l'art. 11, comma 1) che "Le disposizioni del presente d
 
 4\. Le imprese edili impegnate in opere o in lavori finanziati, in tutto o in parte, dallo Stato, dalle Regioni e degli enti pubblici sono tenute a riservare ai lavoratori titolari del trattamento speciale di disoccupazione di cui ai commi 1 e 2 una percentuale delle assunzioni da effettuare in aggiunta all'organico aziendale esistente all'atto dell'affidamento dei lavori, ai fini dello svolgimento di tali opere e lavori. Tale percentuale e' determinata dalla Commissione regionale per l'impiego in misura non superiore al venticinque per cento ed e' comprensiva di quella prevista dall'articolo 25, comma 1.
 
-## Titolo I - NORME IN MATERIA DI INTEGRAZIONE SALARIALE E DI ECCEDENZE DI
+## Titolo I - NORME IN MATERIA DI INTEGRAZIONE SALARIALE E DI ECCEDENZE DI PERSONALE
 
-### PERSONALE - Capo IV
+### Capo IV - NORME FINALI E TRANSITORIE
 
-#### NORME FINALI E TRANSITORIE
-
-##### Art. 12
+#### Art. 12
 
 ((ARTICOLO ABROGATO DAL D.LGS. 14 SETTEMBRE 2015, N. 148))
 
-##### Art. 13
+#### Art. 13
 
 ((ARTICOLO ABROGATO DAL D.LGS. 14 SETTEMBRE 2015, N. 148))
 
-##### Art. 14
+#### Art. 14
 
 ((ARTICOLO ABROGATO DAL D.LGS. 14 SETTEMBRE 2015, N. 148))
 
-##### Art. 15 - Lavoratori in cassa integrazione e opere o servizi di pubblica utilita'
+#### Art. 15 - Lavoratori in cassa integrazione e opere o servizi di pubblica utilita'
 
 1\. Il secondo comma dell'articolo 1-bis del decreto legge 28 maggio 1981, n. 244 convertito, con modificazioni, dalla legge 24 luglio 1981, n. 390 come sostituito dall'articolo 8 della legge 28 febbraio 1986, n. 41, non si applica nei casi in cui l'amministrazione pubblica interessata utilizzi i lavoratori per un numero di ore ridotto proporzionalmente alla misura del trattamento di integrazione salariale spettante al lavoratore.
 
@@ -374,7 +366,7 @@ Ha inoltre disposto (con l'art. 11, comma 1) che "Le disposizioni del presente d
 
 > \- Per il testo dell'art. 1 bis del D.L. n. 244/1981 v. note all'art. 6.
 
-##### Art. 16 - Indennita' di mobilita' per i lavoratori disoccupati in conseguenza di licenziamento per riduzione di personale
+#### Art. 16 - Indennita' di mobilita' per i lavoratori disoccupati in conseguenza di licenziamento per riduzione di personale
 
 1\. ((COMMA ABROGATO DALLA L. 28 GIUGNO 2012, N. 92)).
 
@@ -400,7 +392,7 @@ Il D.L. 25 giugno 2008, n. 112, convertito, con modificazioni,
 
 dalla L. 6 agosto 2008, n. 133, ha disposto (con l'art. 20, comma 3) che la suddetta modifica decorre dal 1° gennaio 2009.
 
-##### Art. 17 - Rintegrazione dei lavoratori e procedure di mobilita'
+#### Art. 17 - Rintegrazione dei lavoratori e procedure di mobilita'
 
 1\. Qualora i lavoratori il cui rapporto sia risolto ai sensi degli articoli 4, comma 9, e 24 vengano reintegrati a norma dell'articolo 18 della legge 20 maggio 1970, n. 300, e successive modificazioni, l'impresa, sempre nel rispetto dei criteri di scelta di cui all'articolo 5, comma 1, puo' procedere alla risoluzione del rapporto di lavoro di un numero di lavoratori pari a quello dei lavoratori reintegrati senza dover esperire una nuova procedura, dandone previa comunicazione alle rappresentanze sindacali aziendali.
 
@@ -408,7 +400,7 @@ dalla L. 6 agosto 2008, n. 133, ha disposto (con l'art. 20, comma 3) che la sudd
 
 > \- Per il testo dell'art. 18 della legge 20 maggio 1990, n. 300/1970 v. note all'art. 5.
 
-##### Art. 18 - Norme in materia di contributi associativi
+#### Art. 18 - Norme in materia di contributi associativi
 
 1\. Il diritto di avvalersi del sistema delle trattenute per il versamento dei contibuti associativi, previsto dall'articolo 2 della legge 27 dicembre 1973, n. 852, e' esteso ai beneficiari dell'indennita' di mobilita', dei trattamenti di disoccupazione ordinari e speciali e dei trattamenti ordinari e straordinari di integrazione salariale nel caso di pagamento diretto di questi ultimi da parte dell'Inps.
 
@@ -430,7 +422,7 @@ Nei casi di pagamento diretto dei trattamenti di integrazione salariale, il dato
 
 > "Le associazioni sindacali dei lavoratori hanno diritto di percepire, tramite ritenuta sul salario, i contributi sindacali che i lavoratori intendono loro versare, con modalita' stabilite dei contratti collettivi di lavoro, che garantiscano la segretezza del versamento effettuato dal lavoratore a ciascuna associazione sindacale".
 
-##### Art. 19 - Lavoro a tempo parziale e anticipazione del pensionamento
+#### Art. 19 - Lavoro a tempo parziale e anticipazione del pensionamento
 
 1\. Nel caso di imprese beneficiarie da ventiquattro mesi dell'intervento straordinario di integrazione salariale, quando il contratto collettivo aziendale stipulato con i sindacati dei lavoratori aderenti alle confederazioni maggiormente rappresentative sul piano nazionale preveda il ricorso al lavoro a tempo parziale, al fine di evitare, in tutto o in parte, la riduzione del personale, ovvero al fine di consentire l'assunzione di nuovo personale, ai lavoratori dipendenti da tali imprese, che abbiano una eta' inferiore di non piu' di sessanta mesi rispetto a quella prevista per la pensione di vecchiaia e una anzianita' contributiva non inferiore a quindici anni, qualora essi convengano con il datore di lavoro, ai sensi di tale contratto collettivo, il passaggio al tempo parziale per un orario non inferiore a diciotto ore settimanali e' riconosciuto a domanda, previa autorizzazione dell'Ufficio regionale del lavoro e della massima occupazione, con decorrenza del mese successivo a quello della sua presentazione, il diritto alla pensione di vecchiaia. ((4))
 
@@ -450,7 +442,7 @@ Il D.L. 20 maggio 1993, n. 148, convertito, con modificazioni, dalla L. 19 lugli
 
 Ha inoltre disposto (con l'art. 11, comma 1) che "Le disposizioni del presente decreto hanno effetto dall'11 maggio 1993".
 
-##### Art. 20 - Contratti di reinserimento dei lavoratori disoccupati
+#### Art. 20 - Contratti di reinserimento dei lavoratori disoccupati
 
 1\. I lavoratori che fruiscono da almeno dodici mesi del trattamento speciale di disocuppazione, ((...)), possono essere assunti nominativamente mediante chiamata dalle liste di cui all'articolo 8, comma 9, della legge 29 dicembre 1990, n. 407, con contratto di reinserimento dai datori di lavoro, che al momento dell'instaurazione del rapporto di lavoro, non abbiano nell'azienda sospensioni dal lavoro in atto ai sensi dell'articolo 2 della legge 12 agosto 1977, n. 675, ovvero non abbiano proceduto a riduzione di personale nei dodici mesi precedenti, salvo che l'assunzione non avvenga ai fini di acquisire professionalita' sostanzialmente diverse da quelle dei lavoratori interessati alle predette riduzioni o sospensioni di personale. ((4))
 
@@ -468,7 +460,7 @@ AGGIORNAMENTO (4)
 
 Il D.L. 20 maggio 1993, n. 148, convertito, con modificazioni, dalla L. 19 luglio 1993, n. 236, ha disposto (con l'art. 11, comma 1) che "Le disposizioni del presente decreto hanno effetto dall'11 maggio 1993".
 
-##### Art. 21 - Norme in materia di trattamenti per i lavoratori appartenenti al settore dell'agricoltura
+#### Art. 21 - Norme in materia di trattamenti per i lavoratori appartenenti al settore dell'agricoltura
 
 1\. Gli impiegati ed operai agricoli con contratto a tempo indeterminato hanno diritto al trattamento di integrazione salariale di cui all'articolo 8 della legge 8 agosto 1972, n. 457, anche nei casi di sospensioni operate per esigenze di riconversione e ristrutturazione aziendale da imprese che occupino almeno sei lavoratori con contratto a tempo indeterminato ovvero che ne occupino quattro con contratto a tempo indeterminato, e nell'anno precedente abbiano impiegato manodopera agricola per un numero di giornate non inferiore a milleottanta. Le predette esigenze devono essere previamente accertate dal Ministro del lavoro e della previdenza sociale su proposta del comitato amministratore della gestione prestazioni temporanee ai lavoratori dipendenti di cui all'articolo 25 della legge 9 marzo 1989, n. 88.
 
@@ -490,7 +482,7 @@ I periodi di corresponsione del predetto trattamento non concorrono alla configu
 
 8\. Per i trattamenti di cui ai commi 4, 5 e 6, ivi compresi quelli relativi alla mancata copertura assicurativa, si applicano le disposizioni dell'articolo 37 della legge 9 marzo 1989, n. 88.
 
-##### Art. 22 - Disciplina transitoria
+#### Art. 22 - Disciplina transitoria
 
 1\. I provvedimenti di prima concessione del trattamento straordinario di integrazione salariale richiesti con domande presentate anteriormente alla data di pubblicazione della presente legge, sono assunti secondo la previgente normativa ed il trattamento puo' essere concesso per un periodo la cui scadenza non superi il centottantesimo giorno dalla data di entrata in vigore della presente legge.
 
@@ -554,7 +546,7 @@ AGGIORNAMENTO (9)
 
 Il D.L. 01 ottobre 1996, n. 510, convertito, con modificazioni, dalla L. 28 novembre 1996, n. 608, nel modificare l'art. 5, comma 17 del D.L. 16 maggio 1994, n. 299, convertito, con modificazioni, dalla L. 19 luglio 1994, n. 451, ha disposto (con l'art. 4, comma 1, lettera b)) che "Per i lavoratori di cui all'articolo 22, commi 7 e 8, della legge 23 luglio 1991, n. 223, il periodo di fruizione dei relativi trattamenti, in scadenza entro l'anno 1994, e' prorogato fino al 31 dicembre 1994, previa domanda, da inoltrarsi alle sezioni circoscrizionali per l'impiego competenti per territorio da parte dei soggetti interessati, corredata da dichiarazione resa ai sensi della legge 4 gennaio 1968, n. 15, attestante la persistenza dello stato di disoccupazione".
 
-##### Art. 23 - Reimpiego presso GEPI S.p.A. e INSAR S.p.A.
+#### Art. 23 - Reimpiego presso GEPI S.p.A. e INSAR S.p.A.
 
 1\. Restano fermi, nei confronti dei lavoratori di cui all'articolo 22, comma 6, i compiti di reimpiego svolti dalla GEPI S.p.A. e dall'INSAR S.p.A. in base alle vegenti leggi.
 
@@ -564,7 +556,7 @@ Il D.L. 01 ottobre 1996, n. 510, convertito, con modificazioni, dalla L. 28 nove
 
 4\. Con decreto del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro, sono determinate le modalita' e le condizioni per la corresponsione degli importi di cui ai commi 2 e 3. Tali importo sono utilizzati dalla GEPI S.p.A. e dalla INSAR S.p.A. per il finanziamento delle iniziative di reimpiego di cui al comma 1, ivi comprese le convenzioni con soggetti pubblici o privati dirette a favorire lo sviluppo di nuova occupzione, nonche' il rempiego o la modalita' dei lavoratori di imprese interessate a processi di crisi industriale.
 
-##### Art. 24 - Norme in materia di riduzione del personale
+#### Art. 24 - Norme in materia di riduzione del personale
 
 1\. Le disposizioni di cui all'articolo 4, commi da 2 a 12, e 15-bis e all'articolo 5, commi da 1 a 5, si applicano alle imprese che occupino piu' di quindici dipendenti, compresi i dirigenti, e che, in conseguenza di una riduzione o trasformazione di attivita' o di lavoro, intendano effettuare almeno cinque licenziamenti, nell'arco di centoventi giorni, in ciascuna unita' produttiva, o in piu' unita' produttive nell'ambito del territorio di una stessa provincia. Fermi i requisiti numerici e temporali prescritti dal presente comma, alle imprese in stato di liquidazione giudiziale si applicano le disposizioni di cui all'articolo 189, comma 6, del codice della crisi e dell'insolvenza. Tali disposizioni si applicanoper tutti i licenziamenti che, nello stesso arco di tempo e nello stesso ambito, siano comunque riconducibili alla medesima riduzione o trasformazione. (4) (38) (49) (51)
 
@@ -688,7 +680,7 @@ Il D.L. 21 ottobre 2021, n. 146 ha disposto (con l'art. 11, comma 7) che "Ai dat
 
 ### Capo I - Riforma delle procedure di avviamento
 
-##### Art. 25 - Riforma delle procedure di avviamento al lavoro
+#### Art. 25 - Riforma delle procedure di avviamento al lavoro
 
 1\. COMMA ABROGATO DAL D.LGS. 19 DICEMBRE 2002, N. 297.
 
@@ -724,11 +716,11 @@ La L. 23 dicembre 2009, n. 191 ha disposto (con l'art. 2, comma 134) che "In via
 
 ### Capo II - Disposizioni diverse
 
-##### Art. 26 - Disposizioni diverse
+#### Art. 26 - Disposizioni diverse
 
 1\. Nelle domande presentate per beneficiare del contributo del Fondo sociale europeo, i soggetti che realizzano azioni di formazione professionale sono tenuti ad indicare, tra le spese per le predette azioni, gli oneri per le integrazioni salariali, le indennita' di mobilita' e le assicurazioni sociali obbligatorie, previdenziali ed assistenziali, relativi ai lavoratori coinvolti nelle azioni di formazione professionale. Tali oneri costituiscono contributo finanziario pubblico per l'accesso al Fondo sociale europeo.
 
-##### Art. 27 - Trattamenti di anzianita' e ristrutturazioni di aziende ad alta capacita' innovativa e competitivita' mondiale
+#### Art. 27 - Trattamenti di anzianita' e ristrutturazioni di aziende ad alta capacita' innovativa e competitivita' mondiale
 
 1\. I lavoratori dipendenti da imprese industriali caratterizzate da elevati livelli di innovazione, tecnologica, competitivita' mondiale, capacita' innovativa, tali da essere definite di interesse nazionale, interessate da esigenze di ristrutturazione e riorganizzazione con adeguati programmi di sviluppo e di investimenti, che possano far valere nell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti almeno trenta anni di anzianita' assicurativa e contributiva agli effetti delle disposizioni del primo comma, lettere a) e b), dell'articolo 22 della legge 30 aprile 1969, n. 153, e successive modificazioni ed integrazioni, hanno facolta' di richiedere entro il 31 dicembre 1991 concessione di un trattamento di pensione secondo la disciplina di cui all'articolo 22 citato con una maggiorazione dell'anzianita' assicurativa e contributiva pari al periodo necessario per la maturazione del requisito dei trentacinque anni prescritto dalla disposizioni suddette, ed in ogni caso non superiore al periodo compreso tra la data di risoluzione del rapporto e quella del compimento di sessanta anni, se uomini, o di cinquantacinque anni se due.
 
@@ -758,7 +750,7 @@ AGGIORNAMENTO (2)
 
 Il D.L. 14 agosto 1992, n. 364, convertito, con modificazioni, dalla L. 19 ottobre 1992, n. 406, ha disposto (con l'art. 1, comma 2) che "Il contributo a carico delle imprese, previsto dal comma 5 dell'articolo 27 della legge 23 luglio 1991, n. 223, da corrispondere alla gestione pensionistica competente, e' elevato al 50%".
 
-##### Art. 28 - Riserva annua di posti presso gli uffici pubblici
+#### Art. 28 - Riserva annua di posti presso gli uffici pubblici
 
 1\. La riserva annua prevista dall'articolo 1, comma 7, della legge 29 dicembre 1990 n. 407, dei posti disponibili presso gli uffici pubblici situati nelle regioni del Centro Nord, e' elevata dal trenta al cinquanta per cento e si applica ai lavoratori sospesi a zero ore beneficiari del trattamento stroardinario di integrazione salariale da un periodo superiore a dodici mesi; con il decreto del Presidente del Consiglio dei ministri di cui al citato articolo 1, comma 7, sono altresi' stabiliti i criteri e le modalita' per l'attuazione della riserva.
 
@@ -770,7 +762,7 @@ Il D.L. 14 agosto 1992, n. 364, convertito, con modificazioni, dalla L. 19 ottob
 
 > "7. Per tutte le assunzioni da effettuarsi ai sensi dell'articolo 16 della legge 28 febbraio 1987, n. 56 e suc- cessive modificazioni ed integrazioni, per la copertura dei posti disponibili presso gli uffici situati nelle regioni del centro-nord si applica, per tre anni dalla data di entrata in vigore della presente legge una riserva del 30 per cento dei posti per i lavoratori delle aziende operanti nelle suddette regioni che fruiscono a qualsiasi titolo dell'intervento di integrazione salariale straordinaria per piu' di dodici mesi, con chiamata da apposite liste di lavoratori in cassa integrazione guadani. Con decreto del Presidente del Consiglio dei Ministri, di concerto con i Ministri del lavoro e della previdenza sociale del tesoro, sono stabiliti, entro trenta giorni dalla data di entrata in vigore della presente legge, i criteri e le modalita' per l'iscrizione nelle predette liste dei lavoratori beneficiari del trattamento di integrazione salariale straordinaria in possesso dei prescritti requisti per l'accesso ai pubblici impieghi".
 
-##### Art. 29 - Trattamenti di anzianita' nel settore siderurgico pubblico
+#### Art. 29 - Trattamenti di anzianita' nel settore siderurgico pubblico
 
 1\. La facolta' di cui all'articolo 27, con le contribuzioni a carico delle imprese dal medesimo previste, e' esercitabile fino al 31 dicembre 1991 ai fini del conseguimento della pensione di vecchiaia, con una maggiorazione dell'anzianita' assicurativa per i periodi mancanti al raggiungimento della normale eta' per essa prevista, dai lavoratori dipendenti dalle imprese industriali del settore siderurgico pubblico ivi comprese le imprese di cui all'articolo 1, comma 2 del decreto-legge 1 aprile 1989, n. 120, convertito, con le modificazioni dalla legge 15 maggio 1989, n. 181, dalle imprese produttrici di materiali refrattari, dalle imprese produttrici di elettrodi di frafite artificiale per l'ndustria siderurgica e dalle imprese del settore cantieristico pubblico, limitatamente alle imprese di costruzione, riparazione, demolizione e trasformazione navale, di eta' non inferiore a quella di cui all'articolo 1, primo comma, della legge 31 maggio 1984, n. 193, e all'articolo 5, comma 5, del decreto-legge 30 dicembre 1987, n. 536, convertito, con modificazioni, dalla legge 29 febbraio 1988, n. 48, che possano far valere non meno di quindici anni di anzianita' contributiva, nei limiti di novemila unita'. Con decreto del Ministro del lavoro e della previdenza sociale e del Ministro delle partecipazioni statali sono emanate le norme di attuazione per la ripartizione del predetto limite numerico tra le aziende interessate. ((1))
 
@@ -780,7 +772,7 @@ AGGIORNAMENTO (1)
 
 La L. 20 gennaio 1992, n. 22 ha disposto (con l'art. 3, comma 4) che "Il termine di cui agli articoli 27 e 29 della legge 23 luglio 1991, n. 223, e' differito dal 31 dicembre 1991 al 31 gennaio 1992".
 
-##### Art. 30 - Trasferimento dell'iscrizione alle liste di collocamento e cancellazione dalle liste
+#### Art. 30 - Trasferimento dell'iscrizione alle liste di collocamento e cancellazione dalle liste
 
 1\. Il comma 2 dell'articolo 16 legge 28 febbraio 1987, n. 56 e' sostituito dal seguente:
 
@@ -800,7 +792,7 @@ La L. 20 gennaio 1992, n. 22 ha disposto (con l'art. 3, comma 4) che "Il termine
 
 > "Art. 12 (Cancellazione dalle liste). - 1. Nei confronti del lavoratore che per due volte consecutive, senza giustificato motivo, non risponde alla convocazione, ovvero rifiuti il posto di lavoro a tempo indeterminato, corrispondente ai suoi requisiti, professionali, la commissione circoscrizionale, dispone la decadenza dal diritto all'indennita' di disoccupazione e la cancellazione dalle liste".
 
-##### Art. 31
+#### Art. 31
 
 (Trattamento speciale di disoccupazione e pensionamento anticipato) 1. Le disposizioni di cui all'articolo 11 trovano applicazione, ricorrendone i presupposti, anche per i lavoratori edili licenziati a decorrere dal primo gennaio 1989.
 

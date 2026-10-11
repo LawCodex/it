@@ -26,9 +26,7 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I - DELL'OBBLIGATORIETA' DELL'ASSICURAZIONE, DELLE PERSONE
-
-### ASSISTIBILI E DEGLI ELENCHI NOMINATIVI DELLE STESSE
+## CAPO I - DELL'OBBLIGATORIETA' DELL'ASSICURAZIONE, DELLE PERSONE ASSISTIBILI E DEGLI ELENCHI NOMINATIVI DELLE STESSE
 
 #### Art. 1
 
@@ -314,9 +312,7 @@ Le Casse mutue provinciali e la Federazione nazionale di cui ai commi precedenti
 
 Sono applicabili alle Casse mutue provinciali e alla Federazione nazionale tutti i benefici, i privilegi e le esenzioni tributarie concesse all'Istituto nazionale della previdenza sociale.
 
-## Sezione I - Delle elezioni per la costituzione degli organi
-
-### di amministrazione
+### Sezione I - Delle elezioni per la costituzione degli organi di amministrazione
 
 #### Art. 16
 
@@ -334,7 +330,7 @@ Ciascun delegato deve intervenire personalmente e vota per un numero di candidat
 
 Per ciascuna categoria risultano eletti i candidati che ottengono il maggior numero di voti. A parita' di voti viene eletto, per ciascuna categoria, il piu' anziano di eta'.
 
-## Sezione II - Degli organi provinciali di amministrazione
+### Sezione II - Degli organi provinciali di amministrazione
 
 #### Art. 17
 
@@ -432,7 +428,7 @@ I sindaci esercitano il loro mandato, anche individualmente ed assistono alle ri
 
 I membri supplenti esercitano le loro funzioni in sostituzione dei revisori effettivi in conformita' delle norme contenute nell'articolo 2401 dei Codice civile, in quanto applicabili.
 
-## Sezione III - Degli organi centrali di amministrazione
+### Sezione III - Degli organi centrali di amministrazione
 
 #### Art. 23
 
@@ -570,7 +566,7 @@ Il direttore sovraintende al funzionamento tecnico ed alla disciplina dei serviz
 
 Il direttore partecipa, con voto consultivo, alle riunioni del Consiglio centrale e della Giunta centrale.
 
-## Sezione IV - Disposizioni diverse
+### Sezione IV - Disposizioni diverse
 
 #### Art. 31
 

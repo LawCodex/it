@@ -40,9 +40,9 @@ il seguente regolamento:
 
 ## Titolo I - DISPOSIZIONI GENERALI
 
-### § 1. DEFINIZIONI E CLASSIFICAZIONI DI CARATTERE GENERALE - (Artt. 1-3 Codice della Strada)
+#### § 1. DEFINIZIONI E CLASSIFICAZIONI DI CARATTERE GENERALE - (Artt. 1-3 Codice della Strada)
 
-###### Art. 1 (Art. 1 Cod. Str.) - Relazione annuale
+##### Art. 1 (Art. 1 Cod. Str.) - Relazione annuale
 
 1\. La relazione annuale, predisposta dalla Presidenza del Consiglio sulla base di specifici rapporti e indagini, riguardanti i diversi profili sociali, ambientali ed economici della circolazione e della sicurezza stradale e' trasmessa alla Presidenza del Senato della Repubblica e della Camera dei deputati entro il 30 giugno. I rapporti e le indagini sono elaborati dai ministeri, anche avvalendosi dell'apporto di studi e ricerche effettuati da istituzioni, pubbliche e private, particolarmente qualificate nel settore.
 
@@ -84,7 +84,7 @@ il seguente regolamento:
 
 > e) l'organizzazione del lavoro ed i rapporti di lavori dei pubblici dipendenti in base agli accordi sindacali.
 
-###### Art. 2 (Art. 2 Cod. Str.) - Classificazione delle strade
+##### Art. 2 (Art. 2 Cod. Str.) - Classificazione delle strade
 
 ((1. Il decreto del Ministro dei lavori pubblici, di cui all'articolo 2, comma 8, del codice, per la classificazione amministrativa delle strade statali esistenti alla data del 1 gennaio 1993, e' predisposto dall'Ispettorato generale per la circolazione e la sicurezza stradale, sulla base degli elenchi previsti dalla legge 21 aprile 1962, n. 181, modificati ed aggiornati secondo i criteri di cui all'articolo 2, commi 5, 6 e 7, del codice. Le strade statali costruite successivamente all'entrata in vigore del codice, sono classificate con decreto del Ministro dei lavori pubblici - Ispettorato generale per la circolazione e la sicurezza stradale, secondo i medesimi criteri.
 
@@ -108,7 +108,7 @@ Tale trasmissione e' effettuata entro un mese dalla definizione del collaudo del
 
 ((10. I divieti e le prescrizioni, previste dal codice e dal presente regolamento per le strade inserite negli itinerari internazionali, si applicano unicamente a quelle gia' in possesso delle caratteristiche richieste dagli accordi internazionali per tale classificazione.))
 
-###### Art. 3 (Art. 2 Cod. Str.) - Declassificazione delle strade
+##### Art. 3 (Art. 2 Cod. Str.) - Declassificazione delle strade
 
 ((1. Successivamente alla classificazione di tutte le strade statali e non statali, effettuata con le procedure previste all'articolo 2, qualora alcune di esse rientrino nei casi previsti dall'articolo 2, comma 9, del codice, si provvede alla declassificazione delle stesse, intendendosi come tale il passaggio da una all'altra delle classi previste dall'articolo 2, comma 6, del codice.
 
@@ -122,7 +122,7 @@ Tale trasmissione e' effettuata entro un mese dalla definizione del collaudo del
 
 6\. Per le strade militari si applicano le procedure di declassificazione previste per le strade statali, mediante emanazione di decreto da parte del Ministro della difesa su proposta del Comando Regione Militare territoriale, previo parere dell'organo tecnico militare competente.))
 
-###### Art. 4 (Art. 2 Cod. Str.) - Passaggi di proprieta' fra enti proprietari delle strade
+##### Art. 4 (Art. 2 Cod. Str.) - Passaggi di proprieta' fra enti proprietari delle strade
 
 1\. Qualora per variazioni di itinerario o per varianti alle strade esistenti, ((...)) , si rende necessario il trasferimento di strade, o di tronchi di esse, fra gli enti proprietari, fatto salvo quanto previsto all'articolo 3, si provvede a norma dei commi seguenti.
 
@@ -138,7 +138,7 @@ Tale trasmissione e' effettuata entro un mese dalla definizione del collaudo del
 
 6\. ((COMMA SOPPRESSO DAL D.P.R. 16 SETTEMBRE 1996, N. 610)).
 
-###### Art. 5 (( (Artt. 3 e 4 Cod. Str.) )) - Altre definizioni stradali e di traffico; ((delimitazione del centro abitato))
+##### Art. 5 (( (Artt. 3 e 4 Cod. Str.) )) - Altre definizioni stradali e di traffico; ((delimitazione del centro abitato))
 
 1\. Le altre definizioni stradali e di traffico di specifico rilievo tecnico di cui all'articolo 3, comma 2, del codice sono contenute nelle singole disposizioni del presente regolamento riguardanti le varie materie.
 
@@ -162,9 +162,9 @@ Ove si renda necessario per garantire gli spazi di avvistamento, e' ammesso lo s
 
 7\. Nei casi in cui la delimitazione del centro abitato interessi strade non comunali, la deliberazione della giunta municipale, prevista dall'articolo 4, comma 1, del codice, con la relativa cartografia allegata, e' inviata all'ente proprietario della strada interessata, prima della pubblicazione all'albo pretorio, indicando la data di inizio di quest'ultima. Entro il termine di pubblicazione l'ente stesso puo' inviare al comune osservazioni o proposte in merito. Su esse si esprime definitivamente la giunta municipale con deliberazione che e' pubblicata all'albo pretorio per dieci giorni consecutivi e comunicata all'ente interessato entro questo stesso termine. Contro tale provvedimento e' ammesso ricorso ai sensi dell'articolo 37, comma 3, del codice.))
 
-## § 2. DISPOSIZIONI GENERALI SULLA CIRCOLAZIONE - (Artt. 5 - 6 Codice della Strada)
+#### § 2. DISPOSIZIONI GENERALI SULLA CIRCOLAZIONE - (Artt. 5 - 6 Codice della Strada)
 
-###### Art. 6 (Art. 5 Cod. Str.)
+##### Art. 6 (Art. 5 Cod. Str.)
 
 (( (Modalita' e procedura per l'esercizio della diffida da parte del Ministro dei lavori pubblici. Sostituzione in caso di inadempienza).
 
@@ -188,7 +188,7 @@ E' fissato il termine, che non puo' essere, in genere, inferiore ai sessanta gio
 
 9\. Ultimata l'esecuzione delle opere, il Ministro dei lavori pubblici emette ordinanza-ingiunzione, a carico dell'ente diffidato, di rivalere completamente il Ministero dei lavori pubblici di tutte le somme erogate per l'esecuzione delle stesse, fissando il termine per il pagamento; in caso di inadempienza nel termine fissato, l'ordinanza-ingiunzione acquista immediata efficacia esecutiva ai sensi delle disposizioni di legge vigenti.))
 
-###### Art. 7 - Art. 6 Cod. Str.
+##### Art. 7 - Art. 6 Cod. Str.
 
 (Limitazioni alla circolazione. Condizioni e deroghe)
 
@@ -212,15 +212,13 @@ b) il termine massimo di tolleranza, rispetto alle fasce orarie di cui alla lett
 
 5\. Con il decreto di cui al comma 1 sono individuati i veicoli che trasportano cose o merci destinate a servizi pubblici essenziali o che soddisfano primarie esigenze della collettivita', ivi comprese quelle legate alle attivita' agricole, da escludere dal divieto di circolazione; sono altresi' escluse dal divieto i veicoli, appartenenti al servizio di polizia e della pubblica amministrazione circolanti per motivi di servizio.
 
-###### Art. 8 (Art. 6 Cod. Str.) - Aree interne ai porti e aeroporti
+##### Art. 8 (Art. 6 Cod. Str.) - Aree interne ai porti e aeroporti
 
 1\. Ai fini delle competenze previste dall'articolo 6, comma 7, del codice, sono considerate aree interne ai porti e agli aeroporti quelle poste entro le recinzioni di confine: i confini sono definiti con appositi atti amministrativi emanati dalle competenti autorita' marittime e aeroportuali, resi noti con idonee indicazioni.
 
-## § 3. VEICOLI ECCEZIONALI E VEICOLI ADIBITI - A TRASPORTI ECCEZIONALI
+#### § 3. VEICOLI ECCEZIONALI E VEICOLI ADIBITI - A TRASPORTI ECCEZIONALI (Art. 10 Codice della Strada)
 
-### (Art. 10 Codice della Strada)
-
-###### Art. 9 (Art. 10 Cod. Str.) - Veicoli eccezionali e veicoli adibiti a trasporti eccezionali
+##### Art. 9 (Art. 10 Cod. Str.) - Veicoli eccezionali e veicoli adibiti a trasporti eccezionali
 
 1\. Le caratteristiche costruttive e funzionali dei veicoli eccezionali e di quelli adibiti al trasporto eccezionale, eccedenti i limiti previsti dall'articolo 62 del codice, sono quelle indicate nell'appendice I al presente titolo.
 
@@ -230,7 +228,7 @@ b) il termine massimo di tolleranza, rispetto alle fasce orarie di cui alla lett
 
 ((3-bis. Salvo quanto previsto dall'articolo 10, comma 2, lettera b), comma 3 e comma 6 del codice, un trasporto in condizioni di eccezionalita' e' consentito quando anche una sola delle cose trasportate, indivisibile ai sensi dell'articolo 10, comma 4, del codice, determina eccedenze rispetto ai limiti di sagoma o di massa fissati dagli articoli 61 e 62 del codice, o entrambi, e non e' possibile eseguirlo in condizioni ordinarie.))
 
-###### Art. 10 (Art. 10 Cod. Str.) - Veicoli qualificati mezzi d'opera
+##### Art. 10 (Art. 10 Cod. Str.) - Veicoli qualificati mezzi d'opera
 
 1\. Le caratteristiche costruttive e funzionali dei veicoli qualificati mezzi d'opera, di cui all'articolo 10, comma 16, e all'articolo 54, comma 1, lettera n), del codice, sono determinate dalle disposizioni indicate nell'appendice III al presente titolo.
 
@@ -242,7 +240,7 @@ AGGIORNAMENTO (46)
 
 Il D.P.R. 12 febbraio 2013, n. 31 ha disposto (con l'art. 2, comma 1) che "All'articolo 10, comma 2, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, le parole: "Ministero dei trasporti e della navigazione - Direzione generale della Motorizzazione Civile e dei Trasporti in Concessione (M.C.T.C.)" sono sostituite dalle seguenti: "Ministero delle infrastrutture e dei trasporti - Direzione generale per la motorizzazione"."
 
-###### Art. 11 (Art. 10 Cod. Str.) - Dispositivi di segnalazione visiva
+##### Art. 11 (Art. 10 Cod. Str.) - Dispositivi di segnalazione visiva
 
 1\. I trasporti eccezionali e i veicoli eccezionali, ivi compresi i mezzi d'opera, devono essere muniti di dispositivi supplementari di segnalazione visiva, ad integrazione di quelli di cui devono essere dotati in base alle disposizioni del presente regolamento.
 
@@ -268,7 +266,7 @@ a) al comma 2, le parole: "Ministero dei trasporti e della navigazione - Direzio
 
 b) al comma 6, le parole: "Ministero dei trasporti e della navigazione - Direzione generale della Motorizzazione Civile e dei Trasporti in Concessione (M.C.T.C.)" sono sostituite dalle seguenti: "Ministero delle infrastrutture e dei trasporti - Direzione generale per la motorizzazione"."
 
-###### Art. 12 (Artt. 10-159 Cod. Str.) - Autoveicoli adibiti al soccorso o alla rimozione di veicoli
+##### Art. 12 (Artt. 10-159 Cod. Str.) - Autoveicoli adibiti al soccorso o alla rimozione di veicoli
 
 1\. Gli autoveicoli di cui agli articoli 10, comma 12, e 159, comma 2, del codice, adibiti al soccorso o alla rimozione di veicoli, sono denominati autoveicoli ad uso speciale per il soccorso stradale. Le loro caratteristiche costruttive e funzionali sono indicate nell'appendice IV al presente titolo.
 
@@ -282,7 +280,7 @@ AGGIORNAMENTO (46)
 
 Il D.P.R. 12 febbraio 2013, n. 31 ha disposto (con l'art. 4, comma 1) che "All'articolo 12, comma 3, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, le parole: "Ministero dei trasporti e della navigazione - Direzione generale della Motorizzazione Civile e dei Trasporti in Concessione (M.C.T.C.)" sono sostituite dalle seguenti: "Ministero delle infrastrutture e dei trasporti - Direzione generale per la motorizzazione"."
 
-###### Art. 13 (Art. 10 Cod. Str.) - Tipi di autorizzazioni alla circolazione per veicoli e trasporti eccezionali
+##### Art. 13 (Art. 10 Cod. Str.) - Tipi di autorizzazioni alla circolazione per veicoli e trasporti eccezionali
 
 1\. Le autorizzazioni alla circolazione per i veicoli e i trasporti eccezionali, di cui all'articolo 10, comma 6, del codice, sono dei seguenti tipi:
 
@@ -370,7 +368,7 @@ AGGIORNAMENTO (46)
 
 Il D.P.R. 12 febbraio 2013, n. 31 ha disposto (con l'art. 5, comma 1, lettera c)) che al comma 2, punto A, lettera c), del presente articolo, le parole: "siano costituite sempre da materiale della stessa natura e siano riconducibili sempre ad una stessa tipologia" sono sostituite dalle seguenti: "rispettino le condizioni di cui al comma 9".
 
-###### Art. 14
+##### Art. 14
 
 (( (Art. 10 Codice della strada) ))
 
@@ -430,7 +428,7 @@ Nei casi di trasferimento per riparazione, soccorso o rimozione la domanda puo' 
 
 13\. La copia del documento di circolazione o del documento sostitutivo di cui ai commi 8, 9 e 12, deve essere relativa ad un documento valido e presentata in forma semplice; deve essere esibito, contestualmente, l'originale del documento stesso, ovvero la copia deve essere dichiarata dall'interessato conforme all'originale, ai sensi delle vigenti norme in materia di dichiarazioni sostitutive di atto di notorieta'. L'ente rilasciante l'autorizzazione attesta sulla copia, se del caso, la presa visione del documento originale. I soggetti che presentano piu' domande di autorizzazione presso lo stesso ente e per lo stesso veicolo possono fornire, per tutte le domande successive alla prima, nell'arco temporale di un anno, gli estremi della medesima e dichiarando che, dalla data della prima presentazione, il documento di circolazione o il documento sostitutivo non hanno subito modifiche ed hanno mantenuto validita' per la circolazione.))
 
-###### Art. 15
+##### Art. 15
 
 (( (Art.10 Codice della strada) ))
 
@@ -452,7 +450,7 @@ d) copia del documento di circolazione o del documento sostitutivo, presentata c
 
 5\. Le domande di modifiche ovvero integrazioni ad autorizzazioni gia' rilasciate ed in corso di validita' devono essere presentate con le modalita' previste dal comma 2, e devono essere evase nei termini previsti dal comma 3.))
 
-###### Art. 16 - Art. 10 Cod. Str.
+##### Art. 16 - Art. 10 Cod. Str.
 
 Provvedimento di autorizzazione
 
@@ -538,7 +536,7 @@ AGGIORNAMENTO (46)
 
 Il D.P.R. 12 febbraio 2013, n. 31 ha disposto (con l'art. 8, comma 1, lettera g)) che al comma 14-bis del presente articolo le parole "all'articolo 12, commi 1 e 3-bis" sono sostituite dalle seguenti: "all'articolo 12, comma 1, ovvero il personale abilitato di cui all'articolo 12, comma 3-bis".
 
-###### Art. 17 (Art. 10 Cod. Str.) - Durata delle autorizzazioni
+##### Art. 17 (Art. 10 Cod. Str.) - Durata delle autorizzazioni
 
 ((1. Le autorizzazioni di tipo singolo e multiplo non possono essere rilasciate per un periodo superiore rispettivamente a mesi tre ed a mesi sei.))
 
@@ -550,7 +548,7 @@ Il D.P.R. 12 febbraio 2013, n. 31 ha disposto (con l'art. 8, comma 1, lettera g)
 
 5\. E' fatto obbligo al titolare dell'autorizzazione di accertarsi, prima dell'inizio di ciascun viaggio, della percorribilita' delle strade o tratti di strada oggetto dell'autorizzazione.
 
-###### Art. 18 (Art. 10 Cod. Str.) - Indennizzo
+##### Art. 18 (Art. 10 Cod. Str.) - Indennizzo
 
 1\. La misura dell'indennizzo dovuto agli enti che rilasciano l'autorizzazione per la maggiore usura della strada in relazione al transito dei veicoli e dei trasporti eccezionali eccedenti le masse stabilite dall'articolo 62 del codice, si calcola con le modalita' di cui alle tabelle I.1, I.2, I.3 che fanno parte integrante del presente regolamento. Detta misura, a partire dal 1 gennaio 1994, e' adeguata automaticamente, per ciascun anno solare, alle variazioni degli indici ISTAT relativi ai prezzi al consumo per le famiglie degli operai ed impiegati (media nazionale), con arrotondamento alle mille lire inferiori per importi fino a cinquecento lire, ed alle mille lire superiori per importi oltre le cinquecento lire. Per gli indici ISTAT di riferimento, si assumono gli ultimi pubblicati nella Gazzetta Ufficiale, entro il 1 dicembre dell'anno precedente a quello in cui devono essere applicati gli adeguamenti.
 
@@ -598,19 +596,19 @@ c) veicoli e trasporti di cui all'articolo 13, comma 2, punto B), lettera c):
 
 10\. Le disposizioni di cui al presente articolo, ad eccezione dei commi 1, 2 e 3 , non si applicano alle autorizzazioni rilasciate dagli enti concessionari di autostrade.
 
-###### Art. 19 (Art. 10 Cod. Str.) - Oneri a carico del richiedente
+##### Art. 19 (Art. 10 Cod. Str.) - Oneri a carico del richiedente
 
 ((1. Sono poste a carico del richiedente l'autorizzazione le eventuali spese inerenti i sopralluoghi, gli accertamenti riguardanti l'agibilita' del percorso e le eventuali opere di rafforzamento necessarie e le spese relative alla istruzione della pratica.
 
 2\. L'ente che rilascia l'autorizzazione puo' esigere la costituzione di apposita polizza fidejussoria, assicurativa o bancaria, a garanzia degli eventuali danni che possono essere arrecati alla strada e alle relative pertinenze nonche' alle persone o alle cose in dipendenza del transito del veicolo o del trasporto eccezionale autorizzato. Nel caso in cui detta polizza sia richiesta, all'atto del ritiro dell'autorizzazione, il richiedente e' tenuto a esibirne copia.))
 
-###### Art. 20 (Art. 10 Cod. Str.) - Aggiornamenti
+##### Art. 20 (Art. 10 Cod. Str.) - Aggiornamenti
 
 ((1. Gli enti proprietari di strade provvedono a mantenere aggiornati i catasti stradali di rispettiva competenza introducendo tutte le informazioni necessarie per il tempestivo rilascio delle autorizzazioni. Compete agli stessi enti istituire e tenere aggiornato un archivio delle autorizzazioni rilasciate.))
 
-## § 4. SERVIZI DI POLIZIA STRADALE - (Artt. 11-12 Codice della Strada)
+#### § 4. SERVIZI DI POLIZIA STRADALE - (Artt. 11-12 Codice della Strada)
 
-###### Art. 21 (Art. 11 Cod. Str.)
+##### Art. 21 (Art. 11 Cod. Str.)
 
 (Coordinamento dei servizi di Polizia Stradale.
 
@@ -628,7 +626,7 @@ Rilascio di informazioni)
 
 6\. Se dall'incidente siano derivate lesioni alle persone, le informazioni sono fornite, in pendenza di procedimento penale, previa autorizzazione della autorita' giudiziaria, ovvero previa attestazione prodotta dall'interessato e rilasciata dalla medesima autorita' dell'avvenuto decorso del termine utile previsto per la presentazione della querela.
 
-###### Art. 22 (Art. 12 Cod. Str.) - Organi preposti
+##### Art. 22 (Art. 12 Cod. Str.) - Organi preposti
 
 1\. Ai servizi di polizia stradale, ai sensi dell'articolo 12, comma 1, del codice, provvede il Ministero dell'interno, Dipartimento della Pubblica Sicurezza - Servizio Polizia Stradale.
 
@@ -638,7 +636,7 @@ Rilascio di informazioni)
 
 ((4. Il personale militare di cui all'articolo 12, comma 4, del codice, anche in esecuzione dell'articolo 192, commi 5 e 6, dello stesso codice, segnala agli organi di cui all'articolo 12, comma 1, del codice le infrazioni di chiunque non abbia ottemperato alle segnalazioni volte ad assicurare la marcia delle colonne militari.))
 
-###### Art. 23 (Art. 12 Cod. Str.) - Esame di qualificazione
+##### Art. 23 (Art. 12 Cod. Str.) - Esame di qualificazione
 
 1\. Le amministrazioni cui appartiene il personale di cui all'articolo 12, comma 3, del codice, stabiliscono l'organizzazione e le procedure per lo svolgimento di corsi di preparazione e qualificazione per sostenere i prescritti esami di idoneita' per l'espletamento dei servizi di polizia stradale di cui all'articolo 11, comma 1, lettere a) ed e) del codice. Per gli enti di cui all'articolo 12, comma 3, ((lettera)) b), del codice, provvedono le regioni per il proprio personale, le province per il personale delle province stesse ed i comuni per il personale di appartenenza.
 
@@ -650,7 +648,7 @@ Rilascio di informazioni)
 
 5\. Al titolare della tessera di riconoscimento di cui al comma 4 e' consentita la libera circolazione sui trasporti pubblici urbani e sui trasporti automobilistici di linea nell'ambito del territorio di competenza della amministrazione di appartenenza.
 
-###### Art. 24 (( (Art. 12 Cod. Str.) - Segnale distintivo e norme d'uso. Intimazione dell'alt
+##### Art. 24 (( (Art. 12 Cod. Str.) - Segnale distintivo e norme d'uso. Intimazione dell'alt
 
 1\. Il segnale distintivo, che i soggetti che espletano i servizi di polizia stradale usano quando non sono in uniforme, ai sensi dell'articolo 12, comma 5, del codice, e' conforme al modello stabilito nella figura I.2 e rispondente alle seguenti caratteristiche:
 
@@ -670,7 +668,7 @@ d) manico di metallo o di materiale sintetico di colore bianco lungo 30 cm, sull
 
 5\. L'intimazione dell'ALT ad opera di organi di polizia stradale non in uniforme ed a bordo di veicoli di servizio o privati e' eseguita sorpassando il veicolo da fermare ed esibendo dal finestrino il segnale distintivo di cui al comma 1.))
 
-###### ART. 25 (( (Art. 14 Cod. Str.) - Attivita' di tutela delle strade
+##### ART. 25 (( (Art. 14 Cod. Str.) - Attivita' di tutela delle strade
 
 1\. Nell'espletamento dei servizi di polizia stradale di competenza, le amministrazioni alle quali appartiene il personale di cui all'articolo 12, comma 3, del codice, provvedono direttamente a svolgere tutte le fasi del procedimento amministrativo sanzionatorio.
 
@@ -680,11 +678,11 @@ d) manico di metallo o di materiale sintetico di colore bianco lungo 30 cm, sull
 
 ## Titolo II - COSTRUZIONE E TUTELA DELLE STRADE
 
-### Capo I - § ((1. ATTIVITA' DI TUTELA DELLE STRADE
+### Capo I
 
-#### E FASCE DI RISPETTO (Artt. 14 - 18 Codice della Strada) ))
+#### § ((1. ATTIVITA' DI TUTELA DELLE STRADE - E FASCE DI RISPETTO (Artt. 14 - 18 Codice della Strada) ))
 
-###### Art. 26 (Art. 16 Cod. Str.) - Fasce di rispetto fuori dai centri abitati
+##### Art. 26 (Art. 16 Cod. Str.) - Fasce di rispetto fuori dai centri abitati
 
 ((1. La distanza dal confine stradale, fuori dai centri abitati, da rispettare nell'aprire canali, fossi o nell'eseguire qualsiasi escavazione lateralmente alle strade, non puo' essere inferiore alla profondita' dei canali, fossi od escavazioni, ed in ogni caso non puo' essere inferiore a 3 m.
 
@@ -724,7 +722,7 @@ b) 3 m per le strade di tipo C, F.
 
 9\. Le prescrizioni contenute nei commi 1 ed 8 non si applicano alle opere e colture preesistenti)).
 
-###### Art. 27 (Art. 17 Cod. Str.) - Fasce di rispetto nelle curve fuori dai centri abitati
+##### Art. 27 (Art. 17 Cod. Str.) - Fasce di rispetto nelle curve fuori dai centri abitati
 
 1\. La fascia di rispetto nelle curve fuori dai centri abitati, da determinarsi in relazione all'ampiezza della curvatura, e' soggetta alle seguenti norme:
 
@@ -732,7 +730,7 @@ a) nei tratti di strada con curvatura di raggio superiore a 250 m si osservano l
 
 b) nei tratti di strada con curvatura di raggio inferiore o uguale a 250 m, la fascia di rispetto e' delimitata verso le proprieta' latistanti, dalla corda congiungente i punti di tangenza, ovvero dalla linea, tracciata alla distanza dal confine stradale indicata dall'articolo 26 in base al tipo di strada, ove tale linea dovesse risultare esterna alla predetta corda.
 
-###### Art. 28
+##### Art. 28
 
 (( (Fasce di rispetto per l'edificazione nei centri abitati).
 
@@ -760,15 +758,13 @@ b) m 2 per le strade di tipo D.
 
 5\. Per le altre strade, nei casi di cui al comma 4, non sono stabilite, distanze minime dal confine stradale ai fini della sicurezza della circolazione.))
 
-## § 2. INSTALLAZIONE DI OPERE - E CANTIERI ED APERTURA DI ACCESSI SULLE STRADE
+#### § 2. INSTALLAZIONE DI OPERE - E CANTIERI ED APERTURA DI ACCESSI SULLE STRADE (Artt. 20-22 Codice della Strada)
 
-### (Artt. 20-22 Codice della Strada)
-
-###### Art. 29 (Art. 20 Cod. Str.) - Ubicazione di chioschi od altre installazioni
+##### Art. 29 (Art. 20 Cod. Str.) - Ubicazione di chioschi od altre installazioni
 
 1\. Per l'ubicazione di chioschi, edicole od altre installazioni anche a carattere provvisorio, fuori dai centri abitati, si applicano le disposizioni di cui all' ((articolo 26, commi 7 e 8,)) nonche' quelle di cui agli articoli 16, comma 2, e 20, comma 2, del codice.
 
-###### Art. 30 (Art. 21 Cod. Str.) - Segnalamento temporaneo
+##### Art. 30 (Art. 21 Cod. Str.) - Segnalamento temporaneo
 
 1\. I lavori ed i depositi su strada e i relativi cantieri devono essere dotati di sistemi di segnalamento temporaneo mediante l'impiego di specifici segnali previsti dal presente regolamento ed autorizzati dall'ente proprietario, ai sensi dell'articolo 5, comma 3, del codice.
 
@@ -800,7 +796,7 @@ Al termine dei lavori e alla fine dell'emergenza deve essere tempestivamente rip
 
 9\. Il ripristino delle condizioni di transitabilita' a seguito di un qualsiasi danneggiamento subito dalle sedi stradali sopraindicate deve avere inizio immediatamente dopo la cessazione dell'evento che ha determinato il danneggiamento stesso.
 
-###### Art. 31 (Art. 21 Cod. Str.) - Segnalamento e delimitazione dei cantieri
+##### Art. 31 (Art. 21 Cod. Str.) - Segnalamento e delimitazione dei cantieri
 
 1\. Gli accorgimenti necessari alla sicurezza e alla fluidita' della circolazione nel tratto di strada che precede un cantiere o una zona di lavoro o di deposito di materiali, consistono in un segnalamento adeguato alle velocita' consentite ai veicoli, alle dimensioni della deviazione ed alle manovre da eseguire all'altezza del cantiere, al tipo di strada e alle situazioni di traffico e locali.
 
@@ -856,7 +852,7 @@ e) gli altri mezzi di segnalamento in aggiunta o in sostituzione di quelli previ
 
 6\. Per ottenere la preventiva autorizzazione di cui al comma 5, lettera e), l'ente proprietario o concessionario deve presentare tempestiva istanza all'Ispettorato generale per la circolazione e la sicurezza stradale del Ministero dei lavori pubblici indicando la necessita' od opportunita' del segnalamento aggiunto o sostitutivo e le modalita' di tali segnalamenti e della loro apposizione, con indicazione del periodo in cui il segnalamento medesimo deve essere apposto. L'Ispettorato generale, se del caso, autorizza il segnalamento in tempo utile e con lo stesso provvedimento autorizzatorio puo' apportare modifiche di carattere tecnico o temporale.
 
-###### Art. 32 (Art. 21 Cod. Str.) - Barriere
+##### Art. 32 (Art. 21 Cod. Str.) - Barriere
 
 1\. Le barriere segnalano i limiti dei cantieri stradali; sono disposte parallelamente al piano stradale e sostenute da cavalletti o da altri sostegni idonei. Sono obbligatorie sui lati frontali di delimitazione del cantiere o sulle testate di approccio. Possono essere sostituite con elementi idonei di pari efficacia, purche' approvati dall'Ispettorato generale per la circolazione e la sicurezza stradale del Ministero dei lavori pubblici e in conformita' alle direttive da esso impartite.
 
@@ -870,7 +866,7 @@ e) gli altri mezzi di segnalamento in aggiunta o in sostituzione di quelli previ
 
 Le punte delle frecce devono essere rivolte nella direzione della deviazione. Deve avere una dimensione "normale" non inferiore a 60 x 240 cm e "grande" di 90 x 360 cm, oppure deve essere composta da ((almeno)) quattro moduli di dimensione normale 60 x 60 cm o grande 90 x 90 cm, (fig. II.395) posti orizzontalmente con il bordo inferiore ad altezza non inferiore a 80 cm da terra, preceduti e seguiti da un segnale di passaggio obbligatorio (fig. II.393/b). La larghezza delle zone rosse deve essere pari a 1,2 volte quella delle zone bianche. Per quelle in uso nei centri abitati le dimensioni possono essere ridotte alla meta'.
 
-###### Art. 33 (Art. 21 Cod. Str.) - Delineatori speciali
+##### Art. 33 (Art. 21 Cod. Str.) - Delineatori speciali
 
 1\. I delineatori speciali sono dei seguenti tipi:
 
@@ -898,7 +894,7 @@ da 100 a 200 20
 
 Il delineatore presenta sulla faccia un disegno a punta di freccia bianca su fondo rosso. La dimensione "normale" e' 60 x 60 cm, quella "grande" e' di 90 x 90 centimetri.
 
-###### Art. 34 (Art. 21 Cod. Str.) - Coni e delineatori flessibili
+##### Art. 34 (Art. 21 Cod. Str.) - Coni e delineatori flessibili
 
 1\. Il CONO (fig. II.396) deve essere usato per delimitare ed evidenziare zone di lavoro o operazioni di manutenzione ((di durata non superiore ai due giorni)) , per il tracciamento di segnaletica orizzontale, per indicare le aree interessate da incidenti, gli incanalamenti temporanei per posti di blocco, la separazione provvisoria di opposti sensi di marcia e delimitazione di ostacoli provvisori. Il cono deve essere costituito da materiali flessibili quali gomma o plastica. E' di colore rosso con anelli di colore bianco retroriflettenti; le dimensioni, nelle tre versioni e in tutte le sue parti, sono specificate nelle figure. Il cono deve avere una adeguata base di appoggio appesantita dall'interno o dall'esterno per garantirne la stabilita' in ogni condizione. La ((frequenza)) di posa e' di 12 m in rettifilo e di 5 m in curva. Nei centri abitati la ((frequenza)) e' dimezzata, salvo diversa distanza necessaria per particolari situazioni della strada e del traffico.
 
@@ -906,7 +902,7 @@ Il delineatore presenta sulla faccia un disegno a punta di freccia bianca su fon
 
 3\. Le caratteristiche dei materiali da utilizzare per i coni e per i delineatori flessibili sono stabilite con apposito disciplinare tecnico approvato con decreto del Ministro dei lavori pubblici da pubblicare nella Gazzetta Ufficiale della Repubblica.
 
-###### Art. 35 (Art. 21 Cod. Str.)
+##### Art. 35 (Art. 21 Cod. Str.)
 
 (Segnali orizzontali temporanei e dispositivi retroriflettenti
 
@@ -924,7 +920,7 @@ integrativi ((o sostitutivi)) )
 
 6\. I dispositivi retroriflettenti integrativi ((possono)) essere usati per rafforzare i segnali orizzontali temporanei in situazioni particolarmente pericolose. Essi devono riflettere luce di colore giallo e non devono avere un'altezza superiore a 2,5 cm. Sono applicati con idoneo adesivo di sicurezza ((od altri sistemi di ancoraggio)) alla pavimentazione, in modo da evitare distacchi, in conseguenza della sollecitazione del traffico. Devono poter essere facilmente rimossi senza produrre danni al manto stradale conformemente a quanto disposto dall'articolo 30, comma 5. La frequenza di posa massima di tali dispositivi e' di 12 m in ((rettilineo)) e di 3 m in curva. Altri mezzi di segnalamento temporaneo in aggiunta o in sostituzione di quelli previsti possono essere impiegati previa approvazione del Ministero dei lavori pubblici, in conformita' alle direttive da esso impartite. Al riguardo si applica la disposizione dell'articolo 31, comma 6.
 
-###### Art. 36 (Art. 21 Cod. Str.) - Visibilita' notturna
+##### Art. 36 (Art. 21 Cod. Str.) - Visibilita' notturna
 
 1\. La visibilita' notturna dei segnali verticali da utilizzare nei lavori stradali e' regolamentata nell'articolo 79.
 
@@ -944,7 +940,7 @@ integrativi ((o sostitutivi)) )
 
 ((9. I dispositivi luminosi di cui ai commi 6, 7 e 8 sono soggetti ad approvazione da parte del Ministero dei lavori pubblici.))
 
-###### Art. 37 (Art. 21 Cod. Str.) - Persone al lavoro
+##### Art. 37 (Art. 21 Cod. Str.) - Persone al lavoro
 
 1\. Coloro che operano in prossimita' della delimitazione di un cantiere o che comunque sono esposti al traffico dei veicoli nello svolgimento della loro attivita' lavorativa, devono essere visibili sia di giorno che di notte mediante indumenti di lavoro fluorescenti e rifrangenti.
 
@@ -954,7 +950,7 @@ integrativi ((o sostitutivi)) )
 
 4\. Le tipologie degli indumenti e le caratteristiche dei materiali fluorescenti, rifrangenti e fluororifrangenti sono stabilite con apposito disciplinare tecnico approvato con decreto del Ministro dei lavori pubblici e da pubblicare nella Gazzetta Ufficiale della Repubblica.
 
-###### Art. 38 (Art. 21 Cod. Str.) - Veicoli operativi
+##### Art. 38 (Art. 21 Cod. Str.) - Veicoli operativi
 
 1\. I veicoli operativi, i macchinari e i mezzi d'opera impiegati per i lavori o per la manutenzione stradale, fermi od in movimento ((se esposti al traffico,)), devono portare posteriormente un pannello a strisce bianche e rosse, integrato da un segnale di PASSAGGIO OBBLIGATORIO con freccia orientata verso il lato dove il veicolo puo' essere superato (fig. II.398). Il pannello e il segnale "PASSAGGIO OBBLIGATORIO" devono essere realizzati con pellicola retroriflettente di classe 2 come previsto all'articolo 79, comma 10.
 
@@ -968,7 +964,7 @@ II.384, II.385 o II.386), SENSO UNICO ALTERNATO (figg. II.41 e II.45) e LIMITE M
 
 b) sulle strade extra-urbane con i segnali di cui alla lettera a) con i segnali di LIMITE MASSIMO DI VELOCITA' a scalare e i segnali di PASSAGGIO OBBLIGATORIO in numero sufficiente a delineare l'eventuale incanalamento del traffico a monte.
 
-###### Art. 39 (Art. 21 Cod. Str.) - Cantieri mobili
+##### Art. 39 (Art. 21 Cod. Str.) - Cantieri mobili
 
 1\. Un cantiere stradale si definisce "mobile" se e' caratterizzato da una velocita' media di avanzamento dei lavori, che puo' variare da poche centinaia di m/giorno a qualche km/h.
 
@@ -982,7 +978,7 @@ b) SEGNALAMENTO DI LOCALIZZAZIONE posto a terra e spostato in maniera coordinata
 
 ((4. Sulle strade di tipo E ed F, nei casi di cantiere mobile costituito dalla attivita' di un veicolo operativo, segnalato come previsto all'articolo 38, comma 1, il segnale LAVORI, in deroga a quanto previsto all'articolo 31, comma 2, puo' essere sostituito con un moviere, munito di bandiera, ai sensi dell'articolo 42, comma 3, lettera b).))
 
-###### Art. 40 (Art. 21 Cod. Str.) - Sicurezza dei pedoni nei cantieri stradali
+##### Art. 40 (Art. 21 Cod. Str.) - Sicurezza dei pedoni nei cantieri stradali
 
 1\. La segnaletica di sicurezza dei lavori, dei depositi, degli scavi e dei cantieri stradali deve comprendere speciali accorgimenti a difesa della incolumita' dei pedoni che transitano in prossimita' dei cantieri stessi.
 
@@ -994,13 +990,13 @@ b) SEGNALAMENTO DI LOCALIZZAZIONE posto a terra e spostato in maniera coordinata
 
 5\. Tombini e ogni tipo di portello, aperti anche per un tempo brevissimo, situati sulla carreggiata o in banchine o su marciapiedi, devono essere completamente recintati (fig. II.402).
 
-###### Art. 41 (Art. 21 Cod. Str.) - Limitazioni di velocita' in prossimita' di lavori o di cantieri stradali
+##### Art. 41 (Art. 21 Cod. Str.) - Limitazioni di velocita' in prossimita' di lavori o di cantieri stradali
 
 1\. Le limitazioni di velocita' temporanee in prossimita' di lavori o di cantieri stradali, sono subordinate, salvo casi di urgenza, al consenso ed alle direttive dell'ente proprietario della strada. Il LIMITE DI VELOCITA' deve essere posto in opera di seguito al segnale LAVORI, ovvero abbinato con esso sullo stesso supporto. Il valore della limitazione, salvo casi eccezionali, non deve essere inferiore a 30 km/h. Quando sia opportuno limitare la velocita' su strade di rapido scorrimento occorre apporre limiti a scalare.
 
 2\. Alla fine della zona lavori o del cantiere, se e' apposto il segnale VIA LIBERA, non occorre quello di FINE LIMITAZIONE DI VELOCITA'. E' invece necessario il segnale FINE LIMITAZIONE DI VELOCITA' se altri divieti restano in vigore. Se una limitazione di velocita' diversa permane anche dopo la fine della zona lavori, e' sufficiente installare il segnale col nuovo limite senza porre quello di FINE LIMITE PRECEDENTE.
 
-###### Art. 42 (Art. 21 Cod. Str.) - Strettoie e sensi unici alternati
+##### Art. 42 (Art. 21 Cod. Str.) - Strettoie e sensi unici alternati
 
 1\. Qualora la presenza dei lavori, dei depositi o dei cantieri stradali determini un restringimento della carreggiata e' necessario apporre il segnale di pericolo temporaneo STRETTOIA in una delle tre versioni previste (figg. II.384, II.385 e II.386). Se tale segnale viene posto vicino alla zona lavori o di cantiere, dopo gli altri eventuali presegnali deve essere corredato da pannello integrativo indicante la distanza della strettoia.
 
@@ -1022,7 +1018,7 @@ c) TRANSITO ALTERNATO A MEZZO SEMAFORI.
 
 Quando non sia possibile ricorrere ai due sistemi precedenti per la lunghezza della strettoia o a causa della non visibilita' reciproca tra le due estremita' della strettoia stessa, il senso alternato deve essere regolato da due semafori comandati a mano o con funzionamento automatico. Nel caso di cicli a tempo fisso, la fase di rosso non deve superare i 2', salvo casi eccezionali di strettoie di grande lunghezza. Fuori dei centri abitati l'impianto semaforico deve essere preceduto dal segnale di pericolo temporaneo SEMAFORO (fig. II.404) con una luce gialla lampeggiante inserita al posto del disco giallo del simbolo. Il collegamento "semaforo-centralino-semaforo" puo' avvenire via cavo o via radio ((o con altri sistemi che comunque garantiscano l'affidabilita' del collegamento)). Il semaforo va posto sul lato destro, all'altezza della striscia di arresto temporanea. Se il traffico in approccio puo' disporsi su piu' file, il semaforo deve essere ripetuto a sinistra, sulla linea di separazione dei sensi di marcia. La messa in funzione di un impianto semaforico per transito alternato deve essere autorizzata dall'ente proprietario o concessionario della strada, che ha la facolta' di stabilire o modificare la durata delle fasi, in relazione alle situazioni di traffico.
 
-###### Art. 43 (Art. 21 Cod. Str.) - Deviazioni di itinerario
+##### Art. 43 (Art. 21 Cod. Str.) - Deviazioni di itinerario
 
 1\. Si ha una deviazione di itinerario quando tutto il traffico o parte di esso viene trasferito su una sede diversa (itinerario deviato) dall'itinerario normale. Le deviazioni possono essere obbligatorie (deviazione vera e propria) oppure facoltative (itinerario raccomandato). Qualsiasi deviazione puo' essere decisa ed autorizzata dall'ente proprietario o concessionario della strada interrotta. Qualora l'itinerario deviato coinvolga altri enti proprietari o concessionari occorrono l'accordo e l'intesa preventivi di tutti gli enti interessati.
 
@@ -1062,7 +1058,7 @@ b) segnali DIVIETO DI TRANSITO, DIREZIONE OBBLIGATORIA, barriere direzionali nel
 
 c) segnalamento del possibile accesso ai residenti lungo la strada interrotta, ma in modo da escludere dubbi od esitazioni per il traffico a transito vietato.
 
-###### Art. 44 (Art. 22 Cod. Str.) - Accessi in generale
+##### Art. 44 (Art. 22 Cod. Str.) - Accessi in generale
 
 1\. Ai fini dell'articolo 22 del codice, si definiscono accessi:
 
@@ -1072,7 +1068,7 @@ b) le immissioni per veicoli da un'area privata laterale alla strada di uso pubb
 
 2\. Gli accessi di cui al comma 1 si distinguono in accessi a raso, accessi a livelli sfalsati e accessi misti. Per gli accessi a raso e per quelli a livelli sfalsati valgono le corrispondenti definizioni di intersezione di cui ((all'articolo 3)) del codice. Gli accessi misti presentano, al contempo, le caratteristiche degli accessi a raso e di quelli a livelli sfalsati.
 
-###### Art. 45 (art. 22 Cod. Str.) - Accessi alle strade extraurbane
+##### Art. 45 (art. 22 Cod. Str.) - Accessi alle strade extraurbane
 
 1\. Nelle autostrade non sono consentiti accessi privati.
 
@@ -1094,7 +1090,7 @@ b) le immissioni per veicoli da un'area privata laterale alla strada di uso pubb
 
 ((10. E' consentita l'apertura di accessi provvisori per motivi temporanei quali l'apertura di cantieri o simili. In tali casi deve essere disposta idonea segnalazione di pericolo ed, eventualmente, quella di divieto.))
 
-###### Art. 46 (Art. 22 Cod. Str.) - Accessi nelle strade urbane. Passo carrabile
+##### Art. 46 (Art. 22 Cod. Str.) - Accessi nelle strade urbane. Passo carrabile
 
 1\. La costruzione dei passi carrabili e' autorizzata dall'ente proprietario della strada nel rispetto della normativa edilizia e urbanistica vigente.
 
@@ -1116,9 +1112,9 @@ d) ((LETTERA SOPPRESSA DAL D.P.R. 16 SETTEMBRE 1996, N. 610)).
 
 ((6. I comuni hanno la facolta' di autorizzare distanze inferiori a quelle fissate al comma 2, lettera a), per i passi carrabili gia' esistenti alla data di entrata in vigore del presente regolamento, nel caso in cui sia tecnicamente impossibile procedere all'adeguamento di cui all'articolo 22, comma 2, del codice.))
 
-## § 3. PUBBLICITA' SULLE STRADE E SUI VEICOLI - (Art. 23 Codice della Strada)
+#### § 3. PUBBLICITA' SULLE STRADE E SUI VEICOLI - (Art. 23 Codice della Strada)
 
-###### Art. 47 (Art. 23 Cod. Str.) - Definizione dei mezzi pubblicitari
+##### Art. 47 (Art. 23 Cod. Str.) - Definizione dei mezzi pubblicitari
 
 ((1. Si definisce "insegna di esercizio" la scritta in caratteri alfanumerici, completata eventualmente da simboli e da marchi, realizzata e supportata con materiali di qualsiasi natura, installata nella sede dell'attivita' a cui si riferisce o nelle pertinenze accessorie alla stessa. Puo' essere luminosa sia per luce propria che per luce indiretta.
 
@@ -1140,7 +1136,7 @@ d) ((LETTERA SOPPRESSA DAL D.P.R. 16 SETTEMBRE 1996, N. 610)).
 
 10\. Le definizioni riportate nei commi precedenti sono valide per l'applicazione dei successivi articoli relativi alla pubblicita', nei suoi riflessi sulla sicurezza stradale.))
 
-###### Art. 48 (( (Art. 23 Cod. Str.) - Dimensioni
+##### Art. 48 (( (Art. 23 Cod. Str.) - Dimensioni
 
 1\. I cartelli, le insegne di esercizio e gli altri mezzi pubblicitari previsti dall'articolo 23 del codice e definiti nell'articolo 47, se installati fuori dai centri abitati non devono superare la superficie di 6 m2, ad eccezione delle insegne di esercizio poste parallelamente al senso di marcia dei veicoli o in aderenza ai fabbricati, che possono raggiungere la superficie di 20 m2; qualora la superficie di ciascuna facciata dell'edificio ove ha sede l'attivita' sia superiore a 100 m2, e' possibile incrementare la superficie dell'insegna di esercizio nella misura del 10% della superficie di facciata eccedente 100 m2, fino al limite di 50 m2.
 
@@ -1148,7 +1144,7 @@ d) ((LETTERA SOPPRESSA DAL D.P.R. 16 SETTEMBRE 1996, N. 610)).
 
 3\. Le preinsegne hanno forma rettangolare e dimensioni contenute entro i limiti inferiori di 1 m x 0,20 m e superiori di 1,50 m x 0,30 m. E' ammesso l'abbinamento sulla stessa struttura di sostegno di un numero massimo di sei preinsegne per ogni senso di marcia a condizione che le stesse abbiano le stesse dimensioni e costituiscano oggetto di un'unica autorizzazione.))
 
-###### Art. 49 (Art. 23 Cod. Str.)
+##### Art. 49 (Art. 23 Cod. Str.)
 
 (( (Caratteristiche dei cartelli, delle insegne di esercizio
 
@@ -1166,7 +1162,7 @@ e degli altri mezzi pubblicitari) ))
 
 6\. I segni orizzontali reclamistici, ove consentiti ai sensi dell'articolo 51, comma 9, devono essere realizzati con materiali rimovibili ma ben ancorati, nel momento dell'utilizzo, alla superficie stradale e che garantiscano una buona aderenza dei veicoli sugli stessi.
 
-###### Art. 50 (Art. 23 Cod. Str.)
+##### Art. 50 (Art. 23 Cod. Str.)
 
 (Caratteristiche dei cartelli
 
@@ -1182,7 +1178,7 @@ Particolare cautela e' adottata nell'uso dei colori, specialmente del rosso e de
 
 4\. Entro i centri abitati si applicano le disposizioni previste dai regolamenti comunali.
 
-###### Art. 51 (Art. 23 Cod. Str.)
+##### Art. 51 (Art. 23 Cod. Str.)
 
 (Ubicazione lungo le strade
 
@@ -1272,7 +1268,7 @@ Per gli striscioni, le locandine e gli stendardi, le distanze dagli altri cartel
 
 15\. La collocazione di insegne di esercizio nell'ambito e in prossimita' dei luoghi di cui all'articolo 23, comma 3, del codice, e' subordinata, oltre che all'autorizzazione di cui all'articolo 23, comma 4, del codice, al nulla osta rilasciato dal competente organo di tutela.))
 
-###### Art. 52 (Art. 23 Cod. Str.)
+##### Art. 52 (Art. 23 Cod. Str.)
 
 (Ubicazione dei mezzi pubblicitari nelle stazioni di servizio
 
@@ -1286,7 +1282,7 @@ e nelle aree di parcheggio)
 
 ((4. In ognuno dei casi suddetti si applicano tutte le altre disposizioni del codice e del presente regolamento.))
 
-###### Art. 53 (Art. 23 Cod. Str.) - Autorizzazioni
+##### Art. 53 (Art. 23 Cod. Str.) - Autorizzazioni
 
 1\. L'autorizzazione al posizionamento di cartelli ((, di insegne di esercizio)) e di altri mezzi pubblicitari fuori dai centri abitati, lungo le strade o in vista di essa, richiesta dall'articolo 23, comma 4, del codice, e' rilasciata:
 
@@ -1316,7 +1312,7 @@ d) per le strade militari dal comando territoriale competente.
 
 10\. Gli enti proprietari predispongono, ogni tre anni, a richiesta del Ministro dei lavori pubblici - Ispettorato generale per la circolazione e la sicurezza stradale, specifico rapporto sulla densita' pubblicitaria per aree territorialmente definite. I dati relativi alle indagini all'uopo svolte sono destinati a popolare il sistema informativo dell'archivio nazionale delle strade di cui agli articoli 225 e 226 del codice.
 
-###### Art. 54 (Art. 23 Cod. Str.) - Obblighi del titolare dell'autorizzazione
+##### Art. 54 (Art. 23 Cod. Str.) - Obblighi del titolare dell'autorizzazione
 
 1\. E' fatto obbligo al titolare dell'autorizzazione di:
 
@@ -1330,7 +1326,7 @@ d) procedere alla rimozione nel caso di decadenza o revoca dell'autorizzazione o
 
 2\. E' fatto obbligo al titolare dell'autorizzazione, rilasciata per la posa di segni orizzontali reclamistici, nonche' di striscioni, locandine e stendardi, nei casi previsti dall'articolo 51, comma 9, di provvedere alla rimozione degli stessi entro le ventiquattro ore successive alla conclusione della manifestazione o dello spettacolo per il cui svolgimento sono stati autorizzati, ripristinando il preesistente stato dei luoghi ed il preesistente grado di aderenza delle superfici stradali.
 
-###### Art. 55 (Art. 23 Cod. Str.) - Targhette di identificazione
+##### Art. 55 (Art. 23 Cod. Str.) - Targhette di identificazione
 
 1\. Su ogni cartello o mezzo pubblicitario autorizzato dovra' essere saldamente fissata, a cura e a spese del titolare dell'autorizzazione, una targhetta metallica, posta in posizione facilmente accessibile, sulla quale sono riportati, con caratteri incisi, i seguenti dati:
 
@@ -1344,7 +1340,7 @@ d) progressiva chilometrica del punto di installazione;
 
 e) data di scadenza. ((Per i mezzi pubblicitari per i quali risulti difficoltosa l'applicazione di targhette, e' ammesso che i suddetti dati siano riportati con scritte a carattere indelebile.)) ((2. La targhetta o la scritta di cui al comma 1 devono essere sostituite ad ogni rinnovo dell'autorizzazione ed ogniqualvolta intervenga una variazione di uno dei dati su di esse riportati.))
 
-###### Art. 56 (Art. 23 Cod. Str.) - Vigilanza
+##### Art. 56 (Art. 23 Cod. Str.) - Vigilanza
 
 1\. Gli enti proprietari delle strade sono tenuti a vigilare, a mezzo del proprio personale competente in materia di viabilita', sulla corretta realizzazione e sull'esatto posizionamento dei cartelli ((, delle insegne di esercizio)) e degli altri mezzi pubblicitari rispetto a quanto autorizzato. Gli stessi enti sono obbligati a vigilare anche sullo stato di conservazione e sulla buona manutenzione dei cartelli (( , delle insegne di esercizio )) e degli altri mezzi pubblicitari oltreche' sui termini di scadenza delle autorizzazioni concesse.
 
@@ -1360,7 +1356,7 @@ In caso di inottemperanza si procede d'ufficio.
 
 6\. Tutti i messaggi, esposti difformemente dalle autorizzazioni rilasciate, dovranno essere rimossi, previa contestazione scritta, a cura e spese del soggetto titolare dell'autorizzazione o del concessionario, entro il termine di ((otto giorni)) dalla diffida pervenuta. In caso d'inottemperanza si procede d'ufficio.
 
-###### Art. 57 (Art. 23 Cod. Str.) - Pubblicita' sui veicoli
+##### Art. 57 (Art. 23 Cod. Str.) - Pubblicita' sui veicoli
 
 1\. L'apposizione sui veicoli di pubblicita' non luminosa e' consentita, salvo quanto previsto ai commi 3 e 4, unicamente se non effettuata per conto terzi a titolo oneroso e se realizzata con sporgenze non superiori a 3 cm rispetto alla superficie del veicolo sulla quale sono applicate, fermi restando i limiti di cui all'articolo 61 del codice. Sulle autovetture ad uso privato e' consentita unicamente l'apposizione del marchio e della ragione sociale della ditta cui appartiene il veicolo.
 
@@ -1410,7 +1406,7 @@ AGGIORNAMENTO (17)
 
 Il D.Lgs. 19 novembre 1997, n. 422, come modificato dal D.Lgs. 20 settembre 1999, n. 400, ha disposto (con l'art. 57, comma 2) che nel comma 2 del presente articolo, dopo le parole: "di linea" sono inserite le seguenti: "e non di linea", ad eccezione dei taxi.
 
-###### Art. 58 (Art. 23 Cod. Str.)
+##### Art. 58 (Art. 23 Cod. Str.)
 
 (Adattamenti delle forme di pubblicita' esistenti
 
@@ -1418,7 +1414,7 @@ all'entrata in vigore del codice)
 
 1\. I cartelli o mezzi pubblicitari installati sulla base di autorizzazioni in essere all'atto dell'entrata in vigore del codice e non rispondenti alle disposizioni dello stesso e del presente regolamento, devono essere ((adeguati entro tre anni)) dalla sua entrata in vigore, a cura e a spese del titolare dell'autorizzazione, fatto salvo il diritto dello stesso al rimborso della somma anticipata per la residua durata dell'autorizzazione non sfruttata ((...)) ((, qualora il cartello debba essere rimosso per impossibilita' di adeguamento. Qualora l'autorizzazione scada prima del termine suddetto, il rinnovo della stessa e' subordinato all'adeguamento entro il termine di decorrenza del rinnovo stesso.)) 2. Per i cartelli e gli altri mezzi pubblicitari per i quali, in base alle distanze minime previste dall'articolo 51 occorre provvedere, a cura e spesa del titolare dell'autorizzazione, ad uno spostamento, si procede, per ogni lato della strada, nella direzione inversa al corrispondente senso di marcia, effettuando gli spostamenti unicamente negli interspazi risultanti tra i successivi punti di riferimento (intersezioni, segnali stradali). I cartelli e gli altri mezzi pubblicitari che non possono piu' trovare collocazione in ciascuno degli interspazi devono essere rimossi e possono essere ricollocati in altro tratto stradale disponibile solo dopo il rilascio di una nuova autorizzazione per la diversa posizione, fermi restando la durata e gli importi gia' corrisposti per l'autorizzazione originaria.
 
-###### Art. 59 (Art. 23 Cod. Str.) - Pubblicita' fonica
+##### Art. 59 (Art. 23 Cod. Str.) - Pubblicita' fonica
 
 ((1. La pubblicita' fonica fuori dai centri abitati e' consentita dalle ore 9,00 alle ore 13,00 e dalle ore 16,30 alle ore 19,30.
 
@@ -1430,11 +1426,9 @@ all'entrata in vigore del codice)
 
 5\. In tutti i casi, la pubblicita' fonica non deve superare i limiti massimi di esposizione al rumore fissati dal decreto del Presidente del Consiglio dei Ministri 1 marzo 1991.))
 
-## § 4. PERTINENZE, ATTRAVERSAMENTI - E CONDOTTA DELLE ACQUE
+#### § 4. PERTINENZE, ATTRAVERSAMENTI - E CONDOTTA DELLE ACQUE (Artt. 24-33 Codice della Strada)
 
-### (Artt. 24-33 Codice della Strada)
-
-###### Art. 60 (Art. 24 Cod. Str.) - Ubicazione delle pertinenze di servizio
+##### Art. 60 (Art. 24 Cod. Str.) - Ubicazione delle pertinenze di servizio
 
 1\. La localizzazione delle pertinenze di servizio indicate nell'articolo 24, comma 4, del codice, e' parte integrante del progetto stradale e deve rispondere ai requisiti di sicurezza e fluidita' del traffico. ((Per le pertinenze che costituiscono aree di servizio destinate al rifornimento e al ristoro, le previsioni progettuali si limitano ad individuarne il numero minimo in relazione alle esigenze, in accordo con i piani regionali di riorganizzazione della rete di distribuzione dei carburanti.))
 
@@ -1444,7 +1438,7 @@ all'entrata in vigore del codice)
 
 4\. Ulteriori criteri per la localizzazione e gli standards dimensionali e qualitativi delle pertinenze di servizio sono fissati dalle norme che il Ministro dei lavori pubblici emana ai sensi dell'articolo 13 del codice, ((in conformita' con le specifiche norme di settore vigenti.))
 
-###### Art. 61 (Art. 24 Cod. Str.)
+##### Art. 61 (Art. 24 Cod. Str.)
 
 (Aree di servizio destinate al rifornimento
 
@@ -1456,13 +1450,13 @@ e al ristoro degli utenti)
 
 3\. Sulle strade di tipo E ed F ((in ambito urbano)) gli impianti di distribuzione dei carburanti devono rispondere, per quanto riguarda gli accessi ai requisiti previsti per i passi carrabili, di cui all'articolo 46. Gli impianti di distribuzione, comprese le relative aree di sosta, non devono impegnare in ogni caso la carreggiata stradale.
 
-###### Art. 62 (Art. 24 Cod. Str.) - Aree di servizio destinate a parcheggio e sosta
+##### Art. 62 (Art. 24 Cod. Str.) - Aree di servizio destinate a parcheggio e sosta
 
 1\. Le aree di servizio destinate al parcheggio ed alla sosta dei veicoli devono essere dotate di un'area apposita per il parcheggio, con indicazioni, a mezzo di strisce longitudinali bianche a terra, dei singoli posti macchina. Tale area deve essere munita del segnale di parcheggio, come stabilito dal presente regolamento.
 
 2\. Esse devono essere dotate, inoltre, di area destinata alla sosta, con spazi destinati alla medesima, con zona a verde e devono essere attrezzate con camminamenti pedonali, sedili e, se possibile, con punti per picnic. Devono essere dotate, altresi', di adeguati servizi igienici collettivi e di contenitori per la raccolta differenziale dei rifiuti.
 
-###### Art. 63 (Art. 24 Cod. Str.)
+##### Art. 63 (Art. 24 Cod. Str.)
 
 (Aree e fabbricati di manutenzione
 
@@ -1472,7 +1466,7 @@ e di esercizio della rete viaria)
 
 ((2. Le stazioni destinate alle operazioni di esazione del pedaggio si configurano come aree nelle quali sono svolte le attivita' di esazione, di informazione , di vendita dei mezzi di pagamento del pedaggio e di assistenza all'utenza. L'accesso ai servizi deve essere realizzato in modo da non interferire con la circolazione dei veicoli.))
 
-###### Art. 64 (Art. 24 Cod. Str.) - Concessione
+##### Art. 64 (Art. 24 Cod. Str.) - Concessione
 
 1\. L'ente proprietario della strada puo' concedere, ad uno o piu' richiedenti, nel rispetto dei criteri dettati dalle disposizioni vigenti in materia, l'uso dell'area necessaria per la realizzazione delle opere e la gestione dei servizi. Qualora l'ente proprietario si avvalga della facolta' di affidare in concessione la realizzazione dell'opera e la gestione dei servizi ad uno o piu' richiedenti, potra' essere affidata a terzi la gestione di taluni servizi di cui l'area e' dotata, previa autorizzazione dell'ente proprietario della strada.
 
@@ -1484,7 +1478,7 @@ e di esercizio della rete viaria)
 
 5\. La convenzione puo' subire modificazioni e integrazioni a mezzo di una successiva convenzione, anche a richiesta del soggetto concessionario, in relazione alle variate esigenze del traffico e della utenza.
 
-###### Art. 65 (Art. 25 Cod. Str.) - Attraversamenti ed occupazioni stradali in generale
+##### Art. 65 (Art. 25 Cod. Str.) - Attraversamenti ed occupazioni stradali in generale
 
 1\. Gli attraversamenti e le occupazioni di strade, di cui all'articolo 25 del codice, possono essere realizzati a raso o mediante strutture sopraelevate o in sotterraneo. Essi ((...)) si distinguono in:
 
@@ -1498,7 +1492,7 @@ b) ((occupazioni)) longitudinali se seguono parallelamente l'asse della strada e
 
 ((4. La soluzione tecnica prescelta per la realizzazione degli attraversamenti e delle occupazioni deve tenere conto della sicurezza e fluidita' della circolazione sia durante l'esecuzione dei lavori che durante l'uso dell'impianto oggetto dell'attraversamento e dell'occupazione medesimi, nonche' della possibilita' di ampliamento della sede stradale. In ogni caso sono osservate le norme tecniche e di sicurezza previste per ciascun impianto.))
 
-###### Art. 66 (Art. 25 Cod. Str.) - Attraversamenti in sotterraneo o con strutture sopraelevate
+##### Art. 66 (Art. 25 Cod. Str.) - Attraversamenti in sotterraneo o con strutture sopraelevate
 
 1\. Gli attraversamenti trasversali in sotterraneo sono posizionati in appositi manufatti o in cunicoli e pozzetti, sono realizzati, ove possibile, con sistema a spinta degli stessi nel corpo stradale e devono essere idonei a proteggere gli impianti in essi collocati ed assorbire le sollecitazioni derivanti dalla circolazione stradale.
 
@@ -1520,7 +1514,7 @@ b) ((occupazioni)) longitudinali se seguono parallelamente l'asse della strada e
 
 10\. COMMA SOPPRESSO DAL D.P.R. 16 SETTEMBRE 1996, N. 610.
 
-###### Art. 67 (Art. 25 Cod. Str.)
+##### Art. 67 (Art. 25 Cod. Str.)
 
 (Concessione per la realizzazione degli attraversamenti
 
@@ -1556,7 +1550,7 @@ Per gli stessi enti concessionari la somma dovuta per l'uso e l'occupazione dell
 
 Detta verifica deve essere eseguita dall'ente proprietario della strada entro trenta giorni dalla comunicazione di ultimazione dei lavori, effettuata dal concessionario.))
 
-###### Art. 68 (Art. 25 Cod. Str.) - Cassonetti per la raccolta anche differenziata dei rifiuti
+##### Art. 68 (Art. 25 Cod. Str.) - Cassonetti per la raccolta anche differenziata dei rifiuti
 
 1\. I cassonetti per la raccolta anche differenziata dei rifiuti solidi urbani di qualsiasi tipo di cui all'articolo 25, comma 3, del codice, devono essere collocati in genere fuori della carreggiata in modo, comunque, da non arrecare pericolo o intralcio alla circolazione.
 
@@ -1570,7 +1564,7 @@ Le pellicole rifrangenti devono possedere i requisiti colorimetrici e fotometric
 
 5\. Ove il cassonetto venga collocato ai margini della carreggiata l'area di ubicazione dello stesso deve essere delimitata con segnaletica orizzontale conforme all'articolo 152, comma 2.
 
-###### Art. 69 (Art. 28 Cod. Str.) - Obblighi dei concessionari di determinati servizi
+##### Art. 69 (Art. 28 Cod. Str.) - Obblighi dei concessionari di determinati servizi
 
 1\. Quando si verificano le condizioni di cui all'articolo 28, comma 1 del codice, l'ente proprietario indica con proprio atto, comunicato con raccomandata con avviso di ricevimento, ai concessionari indicati, le condizioni e le prescrizioni necessarie per la conservazione della strada e la sicurezza della circolazione. Nello stesso atto sono indicati i termini in cui le predette prescrizioni devono essere eseguite, ed i relativi lavori effettuati, con la eventuale fissazione di penali nell'ipotesi di ritardo ((imputabile al concessionario, ferma restando la possibilita' di prorogare detti termini su motivata richiesta del concessionario stesso.))
 
@@ -1578,19 +1572,19 @@ Le pellicole rifrangenti devono possedere i requisiti colorimetrici e fotometric
 
 Se il concessionario non versa le somme richieste entro trenta giorni dal ricevimento della raccomandata, l'ente proprietario richiede all'autorita' competente l'emanazione del decreto ingiuntivo, secondo la legislazione vigente.))
 
-###### Art. 70 (Art. 32 Cod. Str.) - Condotta delle acque
+##### Art. 70 (Art. 32 Cod. Str.) - Condotta delle acque
 
 1\. Nell'ipotesi prevista dall'articolo 32, commi 4 e 5 del codice, l'ente proprietario della strada, con raccomandata con avviso di ricevimento, ingiunge ai soggetti di cui ai commi 1 e 2 dello stesso articolo, l'esecuzione delle opere a loro imposte dai richiamati commi, indicando le modalita', le condizioni e le prescrizioni da eseguire, nonche' i termini entro cui le opere devono essere effettuate.
 
 2\. In caso di inadempimento agli obblighi di cui al comma 1, l'ente proprietario della strada procede alla esecuzione diretta, comunicando, con raccomandata con avviso di ricevimento, al soggetto tenuto la data di inizio dei lavori e, successivamente ai lavori, le spese sostenute. Se tale soggetto non versa le somme richieste entro trenta giorni dal ricevimento della raccomandata, l'ente proprietario richiede al Prefetto l'emanazione di decreto ingiuntivo avente immediata efficacia esecutiva secondo la legislazione vigente.
 
-###### Art. 71 (Art. 33 Cod. Str.) - Canali artificiali e manufatti sui medesimi
+##### Art. 71 (Art. 33 Cod. Str.) - Canali artificiali e manufatti sui medesimi
 
 1\. Nelle ipotesi in cui i soggetti tenuti all'adempimento degli obblighi e delle opere indicati dall'articolo 33 del codice non vi ottemperino spontaneamente, si applicano le disposizioni di cui all'articolo 70.
 
-## § 5. ONERI SUPPLEMENTARI - (Art. 34 Codice della Strada)
+#### § 5. ONERI SUPPLEMENTARI - (Art. 34 Codice della Strada)
 
-###### Art. 72 (Art. 34 Cod. Str.) - Oneri supplementari a carico dei mezzi d'opera per l'adeguamento delle infrastrutture stradali
+##### Art. 72 (Art. 34 Cod. Str.) - Oneri supplementari a carico dei mezzi d'opera per l'adeguamento delle infrastrutture stradali
 
 1\. Il Ministero dei lavori pubblici, sulla base dei dati forniti dal Ministero del tesoro in ordine all'importo complessivo dei proventi dell'indennizzo d'usura acquisiti ai sensi dell'articolo 34, comma 3, del codice, predispone, alla fine di ciascun esercizio finanziario, specifico rapporto alla Conferenza Stato-Regioni di cui all'articolo 12 della legge 23 agosto 1988, n. 400.
 
@@ -1612,11 +1606,11 @@ AGGIORNAMENTO (52)
 
 La L. 28 dicembre 2015, n. 208 ha disposto (con l'art. 1, comma 596) che "A decorrere dall'anno 2016 cessano i trasferimenti erariali in favore delle regioni a statuto speciale previsti dall'articolo 34, comma 4, del decreto legislativo 30 aprile 1992, n. 285, e dall'articolo 72, comma 3, del regolamento di cui al decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, concernenti gli indennizzi di usura derivanti dall'uso dei mezzi d'opera".
 
-## Capo II - § 1. COMPETENZE
+### Capo II
 
-### (Art. 35 Codice della Strada)
+#### § 1. COMPETENZE - (Art. 35 Codice della Strada)
 
-###### Art. 73 (Art. 35 Cod. Str.) - Competenze
+##### Art. 73 (Art. 35 Cod. Str.) - Competenze
 
 1\. Il coordinamento degli enti proprietari delle strade per il perseguimento dei fini indicati all'articolo 35, comma 1, del codice, e nei casi richiamati e' promosso e gestito dall'Ispettorato generale per la circolazione e la sicurezza stradale del Ministero dei lavori pubblici nei termini e con le modalita' previsti dall'articolo 14 della legge 7 agosto 1990, n. 241.
 
@@ -1656,13 +1650,13 @@ La L. 28 dicembre 2015, n. 208 ha disposto (con l'art. 1, comma 596) che "A deco
 
 > Art. 8 (Attribuzioni particolari dei dirigenti superiori). - Ai dirigenti superiori preposti ai servizi dipendenti organicamente dal Ministro spettano, nell'ambito della competenza del proprio ufficio, le attribuzioni stabilite nel primo comma del precedente art. 7".
 
-## § 2. LA SEGNALETICA IN GENERALE - (Artt. 37-38 Codice della Strada)
+#### § 2. LA SEGNALETICA IN GENERALE - (Artt. 37-38 Codice della Strada)
 
-###### Art. 74
+##### Art. 74
 
 ((ARTICOLO ABROGATO DAL D.L. 16 LUGLIO 2020, N. 76, CONVERTITO CON MODIFICAZIONI DALLA L. 11 SETTEMBRE 2020, N. 120))
 
-###### Art. 75 (Art. 38 Cod. Str.) - Campo di applicazione delle norme sulla segnaletica
+##### Art. 75 (Art. 38 Cod. Str.) - Campo di applicazione delle norme sulla segnaletica
 
 1\. Il campo di applicazione delle norme relative ai segnali stradali si estende alle strade pubbliche e alle strade comprese nell'area dei porti, degli aeroporti, degli autoporti, delle universita', degli ospedali, dei cimiteri, dei mercati, delle caserme e dei campi militari, nonche' di altre aree demaniali aperte al pubblico transito.
 
@@ -1670,7 +1664,7 @@ La L. 28 dicembre 2015, n. 208 ha disposto (con l'art. 1, comma 596) che "A deco
 
 3\. Le norme di regolamento relative all'articolo 38, commi 5 e 9, del codice, sono stabilite negli articoli che seguono, relativi alla segnaletica, per gruppi di segnali.
 
-###### Art. 76 (Art. 38 Cod. Str.) - Segnali per le esigenze dell'autorita' militare
+##### Art. 76 (Art. 38 Cod. Str.) - Segnali per le esigenze dell'autorita' militare
 
 1\. I segnali di cui all'articolo 38, comma 11, del codice, sono i seguenti:
 
@@ -1686,11 +1680,9 @@ c) segnali campali temporanei.
 
 4\. La installazione dei segnali va comunicata all'ente proprietario con l'indicazione del tempo in cui verra' effettuata. La installazione stessa e' effettuata dal personale militare; il Comando competente puo' richiedere il concorso dell'ente proprietario, concordando con esso i tempi e le modalita' di essa.
 
-## § 3. LA SEGNALETICA VERTICALE
+#### § 3. LA SEGNALETICA VERTICALE - (Art. 39 Codice della Strada) A) Segnali verticali in generale
 
-### (Art. 39 Codice della Strada) - A) Segnali verticali in generale
-
-###### Art. 77 (Art. 39 Cod. Str.) - Norme generali sui segnali verticali
+##### Art. 77 (Art. 39 Cod. Str.) - Norme generali sui segnali verticali
 
 1\. I segnali stradali verticali da apporre sulle strade per segnalare agli utenti un pericolo, una prescrizione o una indicazione, ai sensi dell'articolo 39 del codice, devono avere, nella parte anteriore visibile dagli utenti, forma, dimensioni, colori e caratteristiche conformi alle norme del presente regolamento e alle relative figure e tabelle allegate che ne fanno parte integrante.
 
@@ -1706,7 +1698,7 @@ c) segnali campali temporanei.
 
 7\. Il retro dei segnali stradali deve essere di colore neutro opaco. Su esso devono essere chiaramente indicati l'ente o l'amministrazioneproprietari della strada, il marchio della ditta che ha fabbricato il segnale e l'anno di fabbricazione nonche' il numero della autorizzazione concessa dal Ministero dei lavori pubblici alla ditta medesima per la fabbricazione dei segnali stradali. L'insieme delle predette annotazioni non puo' superare la superficie di 200 cm(Elevato al Quadrato). Per i segnali di prescrizione, ad eccezione di quelli utilizzati nei cantieri stradali, devono essere riportati, inoltre, gli estremi dell'ordinanza di apposizione.
 
-###### Art. 78 (Art. 39 Cod. Str.) - Colori dei segnali verticali
+##### Art. 78 (Art. 39 Cod. Str.) - Colori dei segnali verticali
 
 1\. I colori da utilizzare per i segnali stradali sono di seguito indicati ed hanno le caratteristiche colorimetriche stabilite con disciplinare tecnico di cui all'articolo 79, comma 9. Per i segnali di pericolo e prescrizione permanenti si impiegano i colori bianco, blu, rosso e nero, fatte salve le eccezioni previste nelle figure e modelli allegati al presente regolamento.
 
@@ -1756,7 +1748,7 @@ d) grigio: sul bianco.
 
 5\. Il colore grigio e' ottenuto con una parziale copertura (50%) del fondo bianco con il colore nero.
 
-###### Art. 79 (Art. 39 Cod. Str.) - Visibilita' dei segnali
+##### Art. 79 (Art. 39 Cod. Str.) - Visibilita' dei segnali
 
 1\. Per ciascun segnale deve essere garantito uno spazio di avvistamento tra il conducente ed il segnale stesso libero da ostacoli per una corretta visibilita'. In tale spazio il conducente deve progressivamente poter percepire la presenza del segnale, riconoscerlo come segnale stradale, identificarne il significato e, nel caso di segnali sul posto, di cui al comma 2, attuare il comportamento richiesto.
 
@@ -1805,7 +1797,7 @@ Le misure minime dello spazio di avvistamento dei segnali di indicazione sono ri
 
 13\. Sullo stesso sostegno non devono essere posti segnali con caratteristiche di illuminazione o di rifrangenza differenti fra loro.
 
-###### Art. 80 (Art. 39 Cod. Str.) - Dimensioni e formati dei segnali verticali
+##### Art. 80 (Art. 39 Cod. Str.) - Dimensioni e formati dei segnali verticali
 
 1\. Il formato e le dimensioni dei segnali verticali, esclusi quelli di indicazione e quelli di cui ai commi 4, 5, 6 e 7, sono stabiliti nelle tabelle II.1, II.2, II.3, II.4, II.5, II.6, II.7, II.8, II.9, II.10, II.11, II.12, II.13, II.14 e II.15 che fanno parte integrante del presente regolamento.
 
@@ -1821,7 +1813,7 @@ Le misure minime dello spazio di avvistamento dei segnali di indicazione sono ri
 
 7\. Le dimensioni dei segnali di preavviso e di quelli di conferma nonche' di quei segnali per i quali non siano stati fissati specifici dimensionamenti negli articoli relativi alla segnaletica di indicazione, sono determinate dall'altezza delle lettere commisurate alla distanza di leggibilita' richiesta in funzione della velocita' locale predominante e dal numero delle iscrizioni, secondo le norme riguardanti la segnaletica di indicazione (tabelle II.16, II.17, II.18, II.19, II.20, II.21 che fanno parte integrante del presente regolamento).
 
-###### Art. 81 (Art. 39 Cod. Str.) - Installazione dei segnali verticali
+##### Art. 81 (Art. 39 Cod. Str.) - Installazione dei segnali verticali
 
 1\. I segnali verticali sono installati, di norma, sul lato destro della strada. Possono essere ripetuti sul lato sinistro ovvero installati su isole spartitraffico o al di sopra della carreggiata, quando e' necessario per motivi di sicurezza ovvero previsto dalle norme specifiche relative alle singole categorie di segnali.
 
@@ -1849,7 +1841,7 @@ Le misure minime dello spazio di avvistamento dei segnali di indicazione sono ri
 
 13\. I segnali possono essere installati in versione mobile e con carattere temporaneo per comprovati motivi operativi o per situazioni ambientali di emergenza e di traffico, nonche' nell'ambito di cantieri stradali o su attrezzature di lavoro fisse o mobili.
 
-###### Art. 82 (Art. 39 Cod. Str.)
+##### Art. 82 (Art. 39 Cod. Str.)
 
 (Caratteristiche dei sostegni, supporti ed altri materiali
 
@@ -1865,7 +1857,7 @@ usati per la segnaletica stradale)
 
 5\. Ogni sostegno, ad eccezione delle strutture complesse e di quelle portanti lanterne semaforiche, deve portare di norma un solo segnale. Quando e' necessario segnalare piu' pericoli o prescrizioni nello stesso luogo, e' tollerato l'abbinamento di due segnali ((del medesimo formato)) sullo stesso sostegno.
 
-###### Art. 83 (Art. 39 Cod. Str.) - Pannelli integrativi
+##### Art. 83 (Art. 39 Cod. Str.) - Pannelli integrativi
 
 1\. I segnali possono essere muniti di pannelli integrativi nei seguenti casi:
 
@@ -1931,7 +1923,7 @@ del servizio N.U. Pulizia strada modelli II.6/q1, II.6/q2
 
 ## B) Segnali di pericolo
 
-###### Art. 84 (Art. 39 Cod. Str.) - Segnali di pericolo in generale
+##### Art. 84 (Art. 39 Cod. Str.) - Segnali di pericolo in generale
 
 1\. I segnali di pericolo hanno forma di triangolo equilatero con un vertice diretto verso l'alto.
 
@@ -1947,7 +1939,7 @@ del servizio N.U. Pulizia strada modelli II.6/q1, II.6/q2
 
 7\. In caso di abbinamento di un segnale di pericolo con un segnale di ((prescrizione)) sullo stesso sostegno, il primo deve essere sempre al di sopra del secondo.
 
-###### Art. 85 (Art. 39 Cod. Str.) - Segnali relativi a strada deformata, dosso e cunetta
+##### Art. 85 (Art. 39 Cod. Str.) - Segnali relativi a strada deformata, dosso e cunetta
 
 1\. Il segnale STRADA DEFORMATA (fig. II.1) deve essere usato per presegnalare un tratto di strada in cattivo stato o con pavimentazione irregolare.
 
@@ -1955,7 +1947,7 @@ del servizio N.U. Pulizia strada modelli II.6/q1, II.6/q2
 
 3\. Il segnale CUNETTA (fig.II.3) deve essere usato per presegnalare una anomalia altimetrica concava della strada.
 
-###### Art. 86 (Art. 39 Cod. Str.) - Segnali relativi a curve pericolose
+##### Art. 86 (Art. 39 Cod. Str.) - Segnali relativi a curve pericolose
 
 1\. Per presegnalare una curva pericolosa, per caratteristiche planimetriche o per insufficiente visibilita', deve essere usato uno dei seguenti segnali:
 
@@ -1971,7 +1963,7 @@ d) DOPPIA CURVA, LA PRIMA A SINISTRA (fig. II.7).
 
 3\. Per segnalare una serie di tornanti in successione si deve impiegare il segnale c) o d) a seconda dell'andamento della prima curva, aggiungendo il pannello integrativo modello II.6/p1. Ciascun tornante puo' essere indicato con un numero su apposito pannello da collocare sul margine del ciglio stradale esterno e al centro della curva (modello II.6/p2).
 
-###### Art. 87 (Art. 39 Cod. Str.) - Segnali di passaggio a livello
+##### Art. 87 (Art. 39 Cod. Str.) - Segnali di passaggio a livello
 
 1\. Il segnale di PASSAGGIO A LIVELLO CON BARRIERE (fig. II.8) deve essere usato per presegnalare ogni attraversamento ferroviario munito di barriere o semibarriere.
 
@@ -1989,7 +1981,7 @@ II.10/c, II.10/d).
 
 7\. In prossimita' di una diramazione stradale su cui esiste un passaggio a livello con o senza barriere, a distanza inferiore a quella prescritta per l'impianto del primo segnale di pericolo, si deve fare uso di uno dei segnali specifici di pericolo, di formato piccolo, inseriti nei segnali di preavviso di intersezione, da apporre sulla strada non interessata dall'attraversamento ferroviario a cura e spese dell'ente proprietario della stessa, ad una distanza dall'intersezione non inferiore ai valori di cui all'articolo 126, comma 2 (fig. II.240).
 
-###### Art. 88 (Art. 39 Cod. Str.)
+##### Art. 88 (Art. 39 Cod. Str.)
 
 (Segnali di attraversamento tranviario,
 
@@ -2003,13 +1995,13 @@ attraversamento pedonale e attraversamento ciclabile)
 
 4\. Il segnale di cui ai commi 2 e 3 puo' essere usato nelle altre strade dei centri abitati solo quando le condizioni del traffico ne consigliano l'impiego per motivi di sicurezza.
 
-###### Art. 89 (Art. 39 Cod. Str.) - Segnali di pendenza pericolosa
+##### Art. 89 (Art. 39 Cod. Str.) - Segnali di pendenza pericolosa
 
 1\. Il segnale di DISCESA PERICOLOSA (fig. II.15) o di SALITA RIPIDA (fig. II.16) deve essere utilizzato per presegnalare un tratto di strada con andamento rispettivamente discendente o ascendente secondo il senso di marcia, con pendenza tale da costituire pericolo in conseguenza di fattori locali particolarmente sfavorevoli.
 
 2\. La pendenza, in ambedue i casi, deve essere espressa in percentuale.
 
-###### Art. 90 (Art. 39 Cod. Str.) - Segnali di strettoia
+##### Art. 90 (Art. 39 Cod. Str.) - Segnali di strettoia
 
 1\. Il segnale STRETTOIA SIMMETRICA (fig. II.17) deve essere usato per presegnalare un restringimento simmetrico della carreggiata costituente pericolo per la circolazione stradale.
 
@@ -2019,33 +2011,33 @@ attraversamento pedonale e attraversamento ciclabile)
 
 4\. Disposizioni particolari possono essere emanate dal Ministero dei lavori pubblici per organizzare la circolazione in presenza di strettoie.
 
-###### Art. 91 (Art. 39 Cod. Str.) - Segnale di ponte mobile
+##### Art. 91 (Art. 39 Cod. Str.) - Segnale di ponte mobile
 
 1\. Il segnale PONTE MOBILE (fig. II.20) deve essere usato per presegnalare una struttura stradale mobile comunque manovrabile.
 
 Sotto il segnale potra' essere apposto il primo dei pannelli distanziometrici di cui all'articolo 87, comma 4, con eventuale indicazione degli orari di manovra o di funzionamento su pannello integrativo modello II.3.
 
-###### Art. 92 (Art. 39 Cod. Str.) - Segnale di banchina pericolosa
+##### Art. 92 (Art. 39 Cod. Str.) - Segnale di banchina pericolosa
 
 1\. Il segnale BANCHINA PERICOLOSA (fig. II.21) deve essere usato per presegnalare un tratto di strada con banchina cedevole o non praticabile, o il pericolo di caduta in una cunetta profonda o in un fosso in caso di accostamento.
 
 2\. ((COMMA SOPPRESSO DAL D.P.R. 16 SETTEMBRE 1996, N. 610)).
 
-###### Art. 93 (Art. 39 Cod. Str.) - Segnale di strada sdrucciolevole
+##### Art. 93 (Art. 39 Cod. Str.) - Segnale di strada sdrucciolevole
 
 1\. Il segnale STRADA SDRUCCIOLEVOLE (fig. II.22) deve essere usato per presegnalare un tratto della carreggiata che in particolari condizioni puo' presentare una superficie sdrucciolevole in misura superiore al normale.
 
 2\. Le particolari condizioni, consistenti prevalentemente in pioggia, gelo o altre cause localizzate, devono essere indicate mediante i pannelli integrativi modello II.6 unitamente a quelli integrativi modello II.2 e modello II.5. Per pioggia e gelo si devono utilizzare ((i pannelli II.6/h)) e II.6/i; per altre cause localizzate non raffigurabili con simboli, sul pannello deve esserne riportata sinteticamente la natura.
 
-###### Art. 94 (Art. 39 Cod. Str.) - Segnale bambini
+##### Art. 94 (Art. 39 Cod. Str.) - Segnale bambini
 
 1\. Il segnale BAMBINI (fig. II.23) deve essere usato per presegnalare luoghi frequentati da fanciulli quali le scuole, i giardini pubblici, i campi di gioco ed altri ambienti di richiamo per costoro.
 
-###### Art. 95 (Art. 39 Cod. Str.) - Segnali relativi agli animali
+##### Art. 95 (Art. 39 Cod. Str.) - Segnali relativi agli animali
 
 1\. I segnali ANIMALI VAGANTI sono di due tipi: ANIMALI DOMESTICI (fig. II.24) e ANIMALI SELVATICI (fig. II.25); essi devono essere usati per presegnalare la vicinanza di un tratto di strada con probabile attraversamento di animali.
 
-###### Art. 96 (Art. 39 Cod. Str.) - Segnali di doppio senso di circolazione e di circolazione rotatoria
+##### Art. 96 (Art. 39 Cod. Str.) - Segnali di doppio senso di circolazione e di circolazione rotatoria
 
 1\. Il segnale DOPPIO SENSO DI CIRCOLAZIONE (fig. II.26) deve essere usato per presegnalare un tratto di strada dove la circolazione si svolge nei due sensi sulla stessa carreggiata, quando nel tratto di strada precedente la circolazione e' regolata a senso unico.
 
@@ -2059,11 +2051,11 @@ Sotto il segnale potra' essere apposto il primo dei pannelli distanziometrici di
 
 6\. Il segnale CIRCOLAZIONE ROTATORIA (fig. II.27) deve essere installato sulle strade extraurbane per presegnalare una intersezione tra due o piu' strade regolamentate con circolazione rotatoria. Nei centri abitati puo' essere usato solo quando le condizioni del traffico ne consigliano l'impiego per motivi di sicurezza.
 
-###### Art. 97 (Art. 39 Cod. Str.) - Segnale di sbocco su molo o su argine
+##### Art. 97 (Art. 39 Cod. Str.) - Segnale di sbocco su molo o su argine
 
 1\. Il segnale SBOCCO SU MOLO O SU ARGINE (fig. II.28) deve essere usato per presegnalare che la strada sbocca su un molo o su un argine di fiume o di canale, con pericolo di caduta in acqua.
 
-###### Art. 98 (Art. 39 Cod. Str.)
+##### Art. 98 (Art. 39 Cod. Str.)
 
 (Segnali di materiale instabile sulla strada
 
@@ -2073,7 +2065,7 @@ e di caduta massi)
 
 2\. Il segnale CADUTA MASSI deve essere usato per presegnalare un tratto di strada ove esiste pericolo per la caduta di pietre e di massi o l'eventuale presenza dei medesimi sulla carreggiata. Il simbolo ha la scarpata o pendice a sinistra o a destra a seconda che le stesse siano rispettivamente a sinistra (fig. II.30/a) o a destra (fig. II.30/b).
 
-###### Art. 99 (Art. 39 Cod. Str.) - Segnale semaforo
+##### Art. 99 (Art. 39 Cod. Str.) - Segnale semaforo
 
 1\. Il segnale SEMAFORO deve essere usato per presegnalare un impianto semaforico. ((Il suo impiego e' obbligatorio sulle strade extraurbane.))
 
@@ -2083,21 +2075,21 @@ e di caduta massi)
 
 4\. Le dimensioni del segnale devono essere di formato grande ovunque le condizioni di impianto lo consentano.
 
-###### Art. 100 (Art. 39 Cod. Str.) - Segnale aeromobili
+##### Art. 100 (Art. 39 Cod. Str.) - Segnale aeromobili
 
 1\. Il segnale AEROMOBILI (fig. II.32) deve essere usato per presegnalare la possibilita' di improvvisi e forti rumori od abbagliamenti, su strade in prossimita' di aerodromi od aviosuperfici, dovuti ad aeromobili a bassa quota.
 
-###### Art. 101 (Art. 39 Cod. Str.) - Segnale forte vento laterale
+##### Art. 101 (Art. 39 Cod. Str.) - Segnale forte vento laterale
 
 1\. Il segnale FORTE VENTO LATERALE (fig. II.33) deve essere usato per presegnalare un tratto di strada dove possono verificarsi forti raffiche di vento laterale, come viadotti esposti, uscite da gallerie, fine di tratti in trincea o analoghe situazioni.
 
-###### Art. 102 (Art. 39 Cod. Str.) - Segnale pericolo di incendio
+##### Art. 102 (Art. 39 Cod. Str.) - Segnale pericolo di incendio
 
 1\. Il segnale PERICOLO DI INCENDIO (fig. II.34) deve essere impiegato per richiamare l'attenzione degli utenti della strada sul pericolo di infiammabilita' delle zone boschive attraversate o contigue alla strada, ovvero in vicinanza di luoghi ad alto rischio di incendio.
 
 2\. Il segnale deve essere corredato da pannello integrativo modello II.2 con l'indicazione della estesa della zona a rischio.
 
-###### Art. 103 (Art. 39 Cod. Str.) - Segnale di altri pericoli
+##### Art. 103 (Art. 39 Cod. Str.) - Segnale di altri pericoli
 
 1\. Il segnale ALTRI PERICOLI (fig. II.35) deve essere usato per presegnalare un pericolo diverso da quelli previsti dagli articoli precedenti.
 
@@ -2105,7 +2097,7 @@ e di caduta massi)
 
 ## C) Segnali di prescrizione
 
-###### Art. 104 (Art. 39 Cod. Str.) - Disposizioni generali sui segnali di prescrizione
+##### Art. 104 (Art. 39 Cod. Str.) - Disposizioni generali sui segnali di prescrizione
 
 1\. I segnali che comportano prescrizioni imposte dall'autorita' competente agli utenti della strada si suddividono in:
 
@@ -2127,7 +2119,7 @@ c) SEGNALI DI OBBLIGO.
 
 ## a) Segnali di precedenza
 
-###### Art. 105 (Art. 39 Cod. Str.) - Disposizioni generali sui segnali di precedenza
+##### Art. 105 (Art. 39 Cod. Str.) - Disposizioni generali sui segnali di precedenza
 
 1\. I segnali stradali che rendono noto agli utenti di dover dare o avere la precedenza si dividono in due classi:
 
@@ -2163,7 +2155,7 @@ i) diritto di precedenza nei sensi unici alternati (art. 114).
 
 6\. I segnali di precedenza di cui al comma 1, classe I, lettere a) e b), posti in corrispondenza delle intersezioni regolate da semaforo si intendono validi solo quando il semaforo e' spento o a luce gialla lampeggiante. In questi casi non deve essere applicato alcun pannello integrativo con tale specifica.
 
-###### Art. 106 (Art. 39 Cod. Str.) - Segnale di dare precedenza
+##### Art. 106 (Art. 39 Cod. Str.) - Segnale di dare precedenza
 
 1\. Il segnale DARE PRECEDENZA (fig. II.36) deve essere usato sul ramo della intersezione che non gode del diritto di precedenza, per indicare ai conducenti l'obbligo di dare la precedenza ai veicoli che circolano nei due sensi sulla strada sulla quale essi stanno per immettersi o che vanno ad attraversare.
 
@@ -2177,7 +2169,7 @@ b) provvedere mediante opportuni sbancamenti, diserbamenti, taglio di cespugli o
 
 4\. Il segnale deve essere integrato, laddove la pavimentazione stradale lo consenta, con la segnaletica orizzontale prevista nell'articolo 144 e puo' essere integrato con il simbolo previsto nell'articolo 148, comma 9.
 
-###### Art. 107 (Art. 39 Cod. Str.) - Segnale fermarsi e dare precedenza
+##### Art. 107 (Art. 39 Cod. Str.) - Segnale fermarsi e dare precedenza
 
 1\. Il segnale FERMARSI E DARE PRECEDENZA (fig. II.37) deve essere installato nelle intersezioni o nei luoghi che non godono del diritto di precedenza, per indicare ai conducenti l'obbligo di fermarsi, in corrispondenza dell'apposita striscia di arresto, e di dare la precedenza prima di inoltrarsi nell'area dell'intersezione o di immettersi nel flusso della circolazione.
 
@@ -2187,7 +2179,7 @@ b) provvedere mediante opportuni sbancamenti, diserbamenti, taglio di cespugli o
 
 4\. Il segnale deve essere installato in corrispondenza della soglia della intersezione o quanto piu' possibile vicino ad essa.
 
-###### Art. 108 (Art. 39 Cod. Str.) - Segnali di preavviso di precedenza
+##### Art. 108 (Art. 39 Cod. Str.) - Segnali di preavviso di precedenza
 
 1\. I segnali di PREAVVISO DI DARE PRECEDENZA (fig. II.38) e di PREAVVISO DI FERMARSI E DARE PRECEDENZA (fig. II.39) devono essere installati nel tratto prossimo all'immissione sulla strada con precedenza fuori dei centri abitati, e dentro i centri abitati alle intersezioni con strade aventi limite di velocita' superiore a quello stabilito dall'articolo 142, comma 1 del codice ovvero quando le condizioni del traffico ne consigliano l'impiego per motivi di sicurezza o di disciplina della circolazione.
 
@@ -2197,11 +2189,11 @@ b) provvedere mediante opportuni sbancamenti, diserbamenti, taglio di cespugli o
 
 4\. Sulle strade di cui al comma 1, allorche' esistano altre intersezioni tra il segnale di preavviso di precedenza e l'intersezione, il segnale deve essere ripetuto dopo ogni intersezione, integrato con il pannello modello II.1 indicante la relativa distanza.
 
-###### Art. 109 (Art. 39 Cod. Str.) - Segnale di intersezione con precedenza a destra
+##### Art. 109 (Art. 39 Cod. Str.) - Segnale di intersezione con precedenza a destra
 
 1\. Il segnale INTERSEZIONE CON PRECEDENZA A DESTRA (fig. II.40) deve essere installato sulle strade extraurbane per presegnalare una intersezione tra due o piu' strade per le quali vige la regola generale della precedenza a destra. Tale segnale nei centri abitati puo' essere usato solo quando le condizioni del traffico ne consigliano l'impiego per motivi di sicurezza.
 
-###### Art. 110 (Art. 39 Cod. Str.) - Segnale di dare precedenza nei sensi unici alternati
+##### Art. 110 (Art. 39 Cod. Str.) - Segnale di dare precedenza nei sensi unici alternati
 
 1\. Il segnale DARE PRECEDENZA NEI SENSI UNICI ALTERNATI (fig.
 
@@ -2211,7 +2203,7 @@ II.41) deve essere usato all'inizio delle strettoie permanenti o temporanee nell
 
 3\. Nelle strettoie con il senso unico alternato ed i cui imbocchi non sono visibili uno dall'altro o che distino piu' di 50 m, si deve porre in opera un impianto semaforico funzionante per l'intera giornata. Qualora le condizioni del traffico lo richiedano, ovvero quando il senso unico alternato sia attivato per un tempo determinato, in luogo del semaforo puo' essere disposto un servizio di segnalamento manuale mediante personale a cio' delegato dell'ente proprietario della strada ((...)).
 
-###### Art. 111 (Art. 39 Cod. Str.) - Segnale di fine del diritto di precedenza
+##### Art. 111 (Art. 39 Cod. Str.) - Segnale di fine del diritto di precedenza
 
 1\. Il segnale FINE DEL DIRITTO DI PRECEDENZA (fig. II.42) deve essere usato per indicare agli utenti della strada con priorita' che la strada non gode piu' del diritto di precedenza. Esso puo' essere installato solo quando sulla strada sia stato installato il segnale DIRITTO DI PRECEDENZA (fig. II.44).
 
@@ -2221,7 +2213,7 @@ II.41) deve essere usato all'inizio delle strettoie permanenti o temporanee nell
 
 4\. I segnali posti prima del punto ove cessa la precedenza devono essere corredati da pannello integrativo modello II.1.
 
-###### Art. 112 (Art. 39 Cod. Str.) - Segnale di intersezione con diritto di precedenza
+##### Art. 112 (Art. 39 Cod. Str.) - Segnale di intersezione con diritto di precedenza
 
 1\. Il segnale INTERSEZIONE CON DIRITTO DI PRECEDENZA (fig. II.43/a) deve essere usato sulle strade extraurbane e, ove ritenuto necessario, su quelle urbane, per presegnalare una intersezione con strade subordinate.
 
@@ -2229,13 +2221,13 @@ II.41) deve essere usato all'inizio delle strettoie permanenti o temporanee nell
 
 3\. Sulle strade subordinate devono essere installati i segnali che indicano l'obbligo di dare la precedenza ((...)) ((o di fermarsi e dare la precedenza.))
 
-###### Art. 113 (Art. 39 Cod. Str.) - Segnale di diritto di precedenza
+##### Art. 113 (Art. 39 Cod. Str.) - Segnale di diritto di precedenza
 
 1\. Il segnale DIRITTO DI PRECEDENZA (fig. II.44) deve essere usato per indicare che un tratto di strada gode del diritto di precedenza.
 
 2\. Il segnale puo' essere ripetuto in formato piccolo prima e dopo ogni intersezione o, eventualmente, su isole spartitraffico nelle intersezioni canalizzate, corredato di pannello integrativo modello II.7.
 
-###### Art. 114 (Art. 39 Cod. Str.) - Segnale di diritto di precedenza nei sensi unici alternati
+##### Art. 114 (Art. 39 Cod. Str.) - Segnale di diritto di precedenza nei sensi unici alternati
 
 1\. Il segnale DIRITTO DI PRECEDENZA NEI SENSI UNICI ALTERNATI (fig.
 
@@ -2243,13 +2235,13 @@ II.45) deve essere usato in prossimita' delle strettoie nelle quali e' istituito
 
 ## b) Segnali di divieto
 
-###### Art. 115 (Art. 39 Cod. Str.) - Segnali di divieto in generale
+##### Art. 115 (Art. 39 Cod. Str.) - Segnali di divieto in generale
 
 1\. I segnali di divieto sono di forma circolare e vietano agli utenti il transito o determinate direzioni di marcia, una particolare manovra, ovvero impongono limitazioni.
 
 2\. I segnali di divieto si dividono in generici o specifici: sono generici quelli che si riferiscono a tutti i veicoli; sono specifici quelli afferenti solo a categorie di veicoli o a particolari categorie di utenti.
 
-###### Art. 116 (Art. 39 Cod. Str.) - Segnali di divieto generici
+##### Art. 116 (Art. 39 Cod. Str.) - Segnali di divieto generici
 
 1\. I segnali di divieto relativi alla circolazione di tutti i veicoli sono:
 
@@ -2265,7 +2257,7 @@ e) il segnale LIMITE MASSIMO DI VELOCITA' (fig. II.50), che indica la velocita' 
 
 f) il segnale DIVIETO DI SEGNALAZIONI ACUSTICHE (fig. II.51), che indica che e' proibito, salvo in caso di pericolo immediato, l'uso di avvisatori acustici.
 
-###### Art. 117 (Art. 39 Cod. Str.) - Segnali di divieto specifici
+##### Art. 117 (Art. 39 Cod. Str.) - Segnali di divieto specifici
 
 1\. I segnali di divieto alla circolazione relativi a particolari categorie di veicoli sono:
 
@@ -2301,7 +2293,7 @@ o) il segnale TRANSITO VIETATO AI VEICOLI CHE TRASPORTANO ESPLOSIVI O PRODOTTI F
 
 2\. Se le condizioni locali di impianto impediscono l'impiego di segnali di divieto singoli o di segnali di divieto integrati da pannelli di limitazione modello II.4/a e' consentito l'inserimento in un solo segnale di un massimo di due simboli relativi alle categorie di veicoli soggette al divieto.
 
-###### Art. 118 (Art. 39 Cod. Str.)
+##### Art. 118 (Art. 39 Cod. Str.)
 
 (Segnali di limitazioni alle dimensioni
 
@@ -2323,7 +2315,7 @@ e) il segnale TRANSITO VIETATO AI VEICOLI AVENTI MASSA PER ASSE SUPERIORE A . TO
 
 3\. I valori numerici inseriti nei segnali, di cui al comma 1, sono riferiti alle effettive dimensioni e alla massa del veicolo al momento del transito dello stesso.
 
-###### Art. 119 (Art. 39 Cod. Str.) - Segnali di fine ((divieto))
+##### Art. 119 (Art. 39 Cod. Str.) - Segnali di fine ((divieto))
 
 1\. I segnali che indicano la fine ((di un divieto)) sono:
 
@@ -2337,7 +2329,7 @@ d) il segnale FINE DIVIETO DI SORPASSO PER I VEICOLI DI MASSA A PIENO CARICO SUP
 
 2\. I segnali sono a fondo bianco con simboli in grigio scuro e barra obliqua nera.
 
-###### Art. 120 (Art. 39 Cod. Str.) - Segnali di fermata, di sosta e di parcheggio
+##### Art. 120 (Art. 39 Cod. Str.) - Segnali di fermata, di sosta e di parcheggio
 
 1\. I segnali che regolano la FERMATA, la SOSTA ed il PARCHEGGIO, o che forniscono indicazioni utili a tal fine, sono:
 
@@ -2375,7 +2367,7 @@ II.79/a, II.79/b). Per segnalare all'utenza la rimozione coatta del mezzo nel tr
 
 ## c) Segnali di obbligo
 
-###### Art. 121 (Art. 39 Cod. Str.) - Segnali di obbligo in generale
+##### Art. 121 (Art. 39 Cod. Str.) - Segnali di obbligo in generale
 
 1\. I segnali di obbligo sono di forma circolare ed impongono agli utenti uno specifico comportamento, ovvero una particolare condizione di circolazione da rispettare.
 
@@ -2387,7 +2379,7 @@ salvo deroghe indicate mediante pannello integrativo
 
 modello II.4.
 
-###### Art. 122 (Art. 39 Cod. Str.) - Segnali di obbligo generico
+##### Art. 122 (Art. 39 Cod. Str.) - Segnali di obbligo generico
 
 1\. I segnali di obbligo generico sono:
 
@@ -2433,7 +2425,7 @@ d) il segnale PERCORSO RISERVATO AI QUADRUPEDI DA SOMA O DA SELLA (fig. II.94) c
 
 10\. La fine dell'obbligo dei segnali di cui al comma 9 deve essere indicata con analogo segnale barrato obliquamente da una fascia rossa (figg. II.89 - II.91 - II.93/a - II.93/b - II.95).
 
-###### Art. 123 (Art. 39 Cod. Str.) - Segnali di obbligo specifico
+##### Art. 123 (Art. 39 Cod. Str.) - Segnali di obbligo specifico
 
 1\. I segnali di obbligo specifico sono:
 
@@ -2459,7 +2451,7 @@ Entrambi i segnali devono essere posti in modo da non costituire pericolo o preg
 
 (Art. 39 Codice della Strada)
 
-###### Art. 124 (Art. 39 Cod. Str.) - Generalita' dei segnali di indicazione
+##### Art. 124 (Art. 39 Cod. Str.) - Generalita' dei segnali di indicazione
 
 1\. Si definiscono "segnali di indicazione" quei segnali che forniscono agli utenti della strada informazioni necessarie per la corretta e sicura circolazione, nonche' per l'individuazione di itinerari, localita', servizi ed impianti stradali.
 
@@ -2493,7 +2485,7 @@ d) confermare, dopo l'intersezione, le destinazioni raggiungibili.
 
 9\. Se i segnali contengono una o piu' indicazioni della stessa natura, il colore di fondo e' quello proprio della o delle destinazioni cui esse indirizzano.
 
-###### Art. 125 (Art. 39 Cod. Str.)
+##### Art. 125 (Art. 39 Cod. Str.)
 
 (Iscrizioni, lettere e simboli
 
@@ -2549,7 +2541,7 @@ c) ogni altra iscrizione di natura differente da quella dei nomi propri ((...)),
 
 10\. Lo spessore del tratto dei caratteri negativi (chiari su fondo scuro) deve essere ridotto di circa il 15% rispetto allo spessore dei caratteri positivi (scuri su fondo chiaro).
 
-###### Art. 126 (Art. 39 Cod. Str.) - Posizionamento dei segnali di indicazione
+##### Art. 126 (Art. 39 Cod. Str.) - Posizionamento dei segnali di indicazione
 
 1\. I segnali di preavviso di cui all'articolo 127 devono essere posizionati conformemente a quanto disposto dall'articolo 81. Per detti segnali occorre assicurare uno spazio di avvistamento "d" in funzione della velocita' locale predominante, conformemente ai valori espressi nella seguente tabella:
 
@@ -2619,7 +2611,7 @@ e) impossibilita' di realizzare razionali impianti di segnali laterali efficaci.
 
 10\. La stabilita' delle strutture portanti dei segnali, nonche' l'idoneita' delle fondazioni e degli ancoraggi, devono essere calcolati o verificati da tecnici dell'ente proprietario della strada.
 
-###### Art. 127 (Art. 39 Cod. Str.) - Segnali di preavviso
+##### Art. 127 (Art. 39 Cod. Str.) - Segnali di preavviso
 
 1\. I segnali di preavviso si suddividono in due tipologie:
 
@@ -2671,7 +2663,7 @@ d) diretta a destra e a sinistra.
 
 16\. Con circolari del Ministro dei lavori pubblici, da pubblicare nella Gazzetta Ufficiale della Repubblica, sono esemplificate le soluzioni segnaletiche di dettaglio per le aree di svincolo, di servizio o di parcheggio, per le stazioni autostradali, per l'avvio alle autostrade, nonche' per particolari soluzioni segnaletiche anche relative ad altre strade.
 
-###### Art. 128 (Art. 39 Cod. Str.) - Segnali di direzione
+##### Art. 128 (Art. 39 Cod. Str.) - Segnali di direzione
 
 1\. I segnali di direzione sulle strade all'interno dei centri abitati hanno forma rettangolare e devono essere conformi alle caratteristiche indicate ((nelle tabelle II.13/a e II.13/b)) (fig.
 
@@ -2723,7 +2715,7 @@ i) i segnali di direzione componenti i gruppi segnaletici sulle strade extraurba
 
 9\. L'onere dell'installazione del telaio di supporto e' a carico dell'ente proprietario o concessionario della strada sulla quale e' posto il gruppo. Anche i singoli segnali di direzione che indicano punti urbani di pubblico interesse, nonche' le localita' da raggiungere per viabilita' ordinaria, devono essere posti a cura del predetto ente. Costituiscono eccezione a tale regola le installazioni di singoli cartelli con specifiche indicazioni, che possono essere forniti dagli enti interessati e posti in opera a loro cura, previa autorizzazione dell'ente proprietario o concessionario della strada.
 
-###### Art. 129 (Art. 39 Cod. Str.)
+##### Art. 129 (Art. 39 Cod. Str.)
 
 (Segnali di identificazione strade e progressive distanziometriche) 1. I simboli di identificazione delle strade sono composti da lettere e cifre in combinazione, le cui caratteristiche sono:
 
@@ -2749,7 +2741,7 @@ II.269, II.270 e a II.271).
 
 6\. Con circolare del Ministro dei lavori pubblici, da pubblicare nella Gazzetta Ufficiale della Repubblica, sono stabiliti i numeri da attribuire alle autostrade ed ai trafori.
 
-###### Art. 130 (Art. 39 Cod. Str.) - Segnale di itinerario
+##### Art. 130 (Art. 39 Cod. Str.) - Segnale di itinerario
 
 1\. Sulle autostrade e sulle strade extraurbane principali si puo' fare uso del SEGNALE DI ITINERARIO (fig. II.272).
 
@@ -2757,7 +2749,7 @@ II.269, II.270 e a II.271).
 
 3\. Questo segnale non deve contenere piu' di cinque righe di iscrizioni. Le iscrizioni relative a localita' urbane, turistiche o geografiche devono essere inserite all'interno di inserti aventi il colore specifico a norma dell'articolo 78.
 
-###### Art. 131 (Art. 39 Cod. Str.) - Segnali di localita' e di localizzazione
+##### Art. 131 (Art. 39 Cod. Str.) - Segnali di localita' e di localizzazione
 
 1\. I segnali che localizzano il territorio ai fini della circolazione stradale sono del tipo:
 
@@ -2801,7 +2793,7 @@ d) nella riga o righe sottostanti il centro abitato o i centri abitati successiv
 
 10\. I segnali di cui al comma 9 sono posti perpendicolarmente all'asse stradale, all'altezza del punto segnalato e sono costituiti dal simbolo e da una freccia orizzontale rivolta verso l'ingresso. I simboli sono fissati nelle figure da II.100 a II.231. Le dimensioni sono le stesse di quelle dei segnali che indicano servizi di impianti utili (tab. II.8). Il colore del fondo e' bianco, con cornice e freccia nera (figure da II.277 a II.284).
 
-###### Art. 132 (Art. 39 Cod. Str.) - Segnali di conferma
+##### Art. 132 (Art. 39 Cod. Str.) - Segnali di conferma
 
 1\. I segnali di conferma possono essere posti sulle strade di uscita dalle principali localita' o dopo attraversamenti di intersezioni complesse.
 
@@ -2819,7 +2811,7 @@ II.286). In tal caso e' opportuno che detti segnali compaiano anche sul preavvis
 
 7\. I simboli di cui all'articolo 125, comma 2, abbinati a frecce verticali, possono costituire segnali di conferma (figg. II.287, II.288, II.289); abbinati a frecce orizzontali possono costituire segnali di direzione.
 
-###### Art. 133 (Art. 39 Cod. Str.) - Segnale nome-strada
+##### Art. 133 (Art. 39 Cod. Str.) - Segnale nome-strada
 
 1\. Il segnale NOME-STRADA indica il nome di strade, vie, piazze, viali e di qualsiasi altra tipologia viaria e deve essere collocato nei centri abitati su entrambi i lati di tutte le strade in corrispondenza delle intersezioni.
 
@@ -2847,7 +2839,7 @@ e) nei casi b), c) e d) l'altezza dei segnali e' compresa tra 2,50 e 3,00 m, sal
 
 8\. Il segnale NOME-STRADA non deve essere abbinato ad installazioni pubblicitarie.
 
-###### Art. 134 (Art. 39 Cod. Str.) - Segnali turistici e di territorio
+##### Art. 134 (Art. 39 Cod. Str.) - Segnali turistici e di territorio
 
 1\. Le indicazioni di questa categoria possono essere inserite nei segnali di cui agli articoli 127, 128, 130 e 131 e si suddividono nelle seguenti tipologie espresse in maniera sintetica, rinviando per il dettaglio all'articolo 78, comma 2:
 
@@ -2889,7 +2881,7 @@ c) una serie di segnali specializzati di preavviso e direzione, posti in sequenz
 
 11\. I segnali di indicazione alberghiera sono a fondo bianco con cornici, simboli, iscrizioni e composizione grafica come esemplificati dalle figure.
 
-###### Art. 135 (Art. 39 Cod. Str.) - Segnali utili per la guida
+##### Art. 135 (Art. 39 Cod. Str.) - Segnali utili per la guida
 
 1\. I segnali utili per la guida devono essere collocati in prossimita' del luogo indicato (segnali di localizzazione). Tali segnali possono essere preceduti da un segnale di tipo composito (segnale di preavviso), che riporta anche una freccia indicante la direzione da seguire, ed eventualmente possono essere abbinati ad un pannello integrativo modello II.1, indicante la distanza in metri tra il segnale e il luogo indicato. I segnali di questa categoria devono avere le dimensioni di cui alle tabelle II.6 e II.7, salvo diversa indicazione. Per le autostrade devono essere adottate dimensioni di 120 x 120 cm per il tipo quadrato, con proporzionale aumento delle altre grandezze, e colore di fondo verde, salvo le specifiche eccezioni. Se utilizzati come inserti, le loro dimensioni devono essere adeguate a quelle del segnale in cui sono inseriti ed alla relativa composizione grafica.
 
@@ -3001,7 +2993,7 @@ d) nel quarto, il limite massimo di velocita' sulle autostrade.
 
 Il bordo del cartello e la parte superiore sono a fondo blu o verde a seconda della viabilita' su cui il segnale e' installato, i riquadri sono a fondo bianco, i simboli dei primi due riquadri sono neri e il secondo e' barrato da una linea rossa obliqua.
 
-###### Art. 136 (Art. 39 Cod. Str.) - Segnali che forniscono indicazioni di servizi utili
+##### Art. 136 (Art. 39 Cod. Str.) - Segnali che forniscono indicazioni di servizi utili
 
 1\. I segnali che forniscono indicazioni di servizi utili devono essere collocati in prossimita' del servizio segnalato, salvo che il cartello sia integrato da una freccia indicante la direzione da seguire; possono essere abbinati ad un pannello integrativo modello II.1 indicante la distanza in metri tra il segnale ed il servizio indicato. L'eventuale denominazione puo' essere riportata nello spazio sottostante il simbolo. I simboli relativi ai segnali di cui al presente articolo possono essere utilizzati, in formato opportunamente ridotto, entro i segnali di preavviso, di preselezione, di direzione e di conferma. Le dimensioni sono riportate nella tabella II.8, salvo diversa indicazione; per le autostrade devono essere adottate dimensioni di 150 x 225 cm con proporzionale aumento delle altre grandezze. Se il servizio e' fornito nell'ambito autostradale, i segnali sono a fondo verde.
 
@@ -3051,9 +3043,9 @@ II.377) indica un'area attrezzata riservata alla sosta e al parcheggio delle aut
 
 21\. Il segnale POLIZIA (figg. da II.378 a II.381) indica la sede piu' vicina di un posto o ufficio di un organo di polizia. Sul segnale devono essere indicate la localita', la via ed il numero di telefono. E' installato lungo la viabilita' extraurbana in prossimita' degli accessi ai centri abitati. Il segnale e' a fondo bianco con scritte in nero ed ha dimensioni di ((60 x 90)) cm. ((E' installato a cura e spese del comune in cui ha sede il posto o organo di polizia.))
 
-## § 4. LA SEGNALETICA ORIZZONTALE - (Art. 40 Codice della Strada)
+#### § 4. LA SEGNALETICA ORIZZONTALE - (Art. 40 Codice della Strada)
 
-###### Art. 137 (Art. 40 Cod. Str.) - Disposizioni generali sui segnali orizzontali
+##### Art. 137 (Art. 40 Cod. Str.) - Disposizioni generali sui segnali orizzontali
 
 1\. Tutti i segnali orizzontali devono essere realizzati con materiali tali da renderli visibili sia di giorno che di notte anche in presenza di pioggia o con fondo stradale bagnato; nei casi di elevata frequenza di condizioni atmosferiche avverse possono essere utilizzati materiali particolari.
 
@@ -3081,7 +3073,7 @@ Il loro impiego e' specificato per ogni categoria di segnali negli articoli segu
 
 8\. I segnali orizzontali, quando non siano piu' rispondenti allo scopo per il quale sono stati eseguiti, devono essere rimossi o sverniciati, con idonee tecniche esecutive tali da evitare, anche con il trascorrere del tempo, confusione con i nuovi segnali. ((Le superfici dalle quali e' stata rimossa la segnaletica non devono scostarsi sostanzialmente, per quanto riguarda la loro rugosita', tonalita' cromatica e caratteristiche di riflessione, dalla superficie stradale circostante. Il deflusso dell'acqua superficiale non deve essere ulteriormente ostacolato.))
 
-###### Art. 138 (art. 40 Cod. Str.) - Strisce longitudinali
+##### Art. 138 (art. 40 Cod. Str.) - Strisce longitudinali
 
 1\. Le strisce longitudinali servono per separare i sensi di marcia o le corsie di marcia, per delimitare la carreggiata ovvero per incanalare i veicoli verso determinate direzioni; la larghezza minima della strisce longitudinali, escluse quelle di margine, e' di 15 cm per le autostrade e per le strade extraurbane principali, di 12 cm ((per le strade extraurbane secondarie, urbane di scorrimento ed urbane di quartiere e 10 cm per le strade locali)).
 
@@ -3136,7 +3128,7 @@ _____________________________________________________________________
 
 6\. Il tracciamento delle strisce longitudinali e' obbligatorio su tutti i tipi di strade, ad eccezione delle strade non dotate di pavimentazione idonea alla posa delle strisce, mentre e' facoltativo su quelle locali.
 
-###### Art. 139 (Art. 40 Cod. Str.) - Strisce di separazione dei sensi di marcia
+##### Art. 139 (Art. 40 Cod. Str.) - Strisce di separazione dei sensi di marcia
 
 1\. La separazione dei sensi di marcia si realizza mediante una o due strisce longitudinali affiancate di colore bianco e di uguale larghezza; la distanza tra le due strisce affiancate deve essere non inferiore alla larghezza di una di esse.
 
@@ -3182,7 +3174,7 @@ d) quando si predispone uno spartitraffico, anche senza apposito manufatto, per 
 
 11\. Per preavvisare i conducenti dell'approssimarsi di una striscia longitudinale continua di separazione dei sensi di marcia, si possono adottare strisce longitudinali discontinue del tipo "d", di cui alla tabella dell'articolo 138, comma 3.
 
-###### Art. 140 (Art. 40 Cod. Str.) - Strisce di corsia
+##### Art. 140 (Art. 40 Cod. Str.) - Strisce di corsia
 
 1\. Il modulo di corsia, inteso come distanza tra gli assi delle strisce che delimitano la corsia, e' funzione della sua destinazione, del tipo di strada, del tipo di veicoli in transito e della sua regolazione; il modulo va scelto tra i seguenti valori: 2,75 m - 3 m - 3,25 m - 3,5 m - 3,75 m; mentre per le corsie di emergenza il modulo va scelto nell'intervallo tra 2 e 3,5 m.
 
@@ -3198,7 +3190,7 @@ d) quando si predispone uno spartitraffico, anche senza apposito manufatto, per 
 
 7\. Le piste ciclabili, qualora non protette da elementi in elevazione sulla pavimentazione, sono separate dalle corsie di marcia mediante due strisce continue affiancate, una bianca di 12 cm di larghezza ed una gialla di 30 cm distanziate tra loro di 12 cm; la striscia gialla deve essere posta sul lato della pista ciclabile (fig. II.427/b).
 
-###### Art. 141 (Art. 40 Cod. Str.) - Strisce di margine della carreggiata
+##### Art. 141 (Art. 40 Cod. Str.) - Strisce di margine della carreggiata
 
 1\. I margini della carreggiata sono segnalati con strisce di colore bianco.
 
@@ -3210,7 +3202,7 @@ d) quando si predispone uno spartitraffico, anche senza apposito manufatto, per 
 
 5\. Le strisce di margine delle autostrade e delle strade extraurbane principali, nelle zone di nebbia o in quelle in cui si verificano frequenti condizioni atmosferiche avverse, possono essere dotate di ((elementi in rilievo)) che producono un effetto sonoro o inducono una vibrazione sul veicolo, per avvertire il conducente della sua posizione rispetto al margine della carreggiata; tale accorgimento puo' essere adottato tutte le volte che sia ritenuto necessario. ((In tale caso lo spessore della striscia, compresi gli elementi in rilievo, puo' raggiungere 6 mm.)) Sia i materiali da utilizzare per la costruzione degli elementi a rilievo, che il profilo degli stessi, sono soggetti ad approvazione da parte del Ministero dei lavori pubblici - Ispettorato generale per la circolazione e la sicurezza stradale.
 
-###### Art. 142 (Art. 40 Cod. Str.) - Strisce di raccordo
+##### Art. 142 (Art. 40 Cod. Str.) - Strisce di raccordo
 
 1\. Le strisce di raccordo sono strisce continue oblique di colore bianco e vanno usate in dipendenza di variazioni della larghezza della carreggiata utilizzabile dal traffico, o delle corsie.
 
@@ -3220,13 +3212,13 @@ d) quando si predispone uno spartitraffico, anche senza apposito manufatto, per 
 
 4\. Le strisce di raccordo per far divergere il traffico da ostacoli o isole posti entro la carreggiata devono essere realizzate come indicato in figura II.430.
 
-###### Art. 143 (Art. 40 Cod. Str.) - Strisce di guida sulle intersezioni
+##### Art. 143 (Art. 40 Cod. Str.) - Strisce di guida sulle intersezioni
 
 1\. Le strisce di guida sulle intersezioni sono del tipo "g", di cui alla tabella dell'articolo 138, comma 3, sono curve, discontinue, di colore bianco e possono essere tracciate nelle aree di intersezione per guidare i veicoli in manovra secondo una corretta traiettoria (figg. II.431/a e II.431/b).
 
 2\. Le strisce di guida sulle intersezioni possono essere tracciate altresi' per indicare i limiti dell'ingombro in curva dei tram.
 
-###### Art. 144 (Art. 40 Cod. Str.) - Strisce trasversali
+##### Art. 144 (Art. 40 Cod. Str.) - Strisce trasversali
 
 1\. Le strisce trasversali, o linee di arresto, sono continue o dis- continue e di colore bianco; quelle continue hanno larghezza minima di 50 cm e vanno usate in corrispondenza delle intersezioni semaforizzate, degli attraversamenti pedonali semaforizzati ed in presenza del segnale FERMARSI E DARE PRECEDENZA (figg. II.432/a, II.432/b, II.432/c); quelle discontinue vanno usate in presenza del segnale DARE PRECEDENZA.
 
@@ -3238,7 +3230,7 @@ d) quando si predispone uno spartitraffico, anche senza apposito manufatto, per 
 
 5\. Sulle intersezioni regolate mediante segnali semaforici, la linea di arresto deve essere tracciata prima dell'attraversamento pedonale ad una distanza di 1 m dal limite di questo (fig. II.431/a).
 
-###### Art. 145 (Art. 40 Cod. Str.) - Attraversamenti pedonali
+##### Art. 145 (Art. 40 Cod. Str.) - Attraversamenti pedonali
 
 1\. Gli attraversamenti pedonali sono evidenziati sulla carreggiata mediante zebrature con strisce bianche parallele alla direzione di marcia dei veicoli, di lunghezza non inferiore a 2,50 m, sulle strade locali e su quelle urbane di quartiere, e a 4 m, sulle altre strade; la larghezza delle strisce e degli intervalli e' di 50 cm (fig.
 
@@ -3252,7 +3244,7 @@ II.434).
 
 Su tale striscia e' vietata la sosta (fig. II.436).
 
-###### Art. 146 (Art. 40 Cod. Str.) - Attraversamenti ciclabili
+##### Art. 146 (Art. 40 Cod. Str.) - Attraversamenti ciclabili
 
 1\. Gli attraversamenti ciclabili devono essere previsti solo per garantire la continuita' delle piste ciclabili nelle aree di intersezione.
 
@@ -3262,7 +3254,7 @@ Su tale striscia e' vietata la sosta (fig. II.436).
 
 Su tale striscia e' vietata la sosta.
 
-###### Art. 147 (Art. 40 Cod. Str.) - Frecce direzionali
+##### Art. 147 (Art. 40 Cod. Str.) - Frecce direzionali
 
 1\. Sulle strade aventi un numero sufficiente di corsie per consentire la preselezione e l'attestamento dei veicoli in prossimita' di una intersezione, le corsie da riservare a determinate manovre, devono essere contrassegnate a mezzo di frecce direzionali di colore bianco.
 
@@ -3290,7 +3282,7 @@ f) freccia di rientro.
 
 7\. L'intervallo longitudinale tra piu' frecce uguali, ripetute lungo la stessa corsia, non deve essere inferiore a 10 m; il numero delle frecce da ripetere deve essere commisurato alla lunghezza delle zone di preselezione e di attestamento.
 
-###### Art. 148 (Art. 40 Cod. Str.) - Iscrizioni e simboli
+##### Art. 148 (Art. 40 Cod. Str.) - Iscrizioni e simboli
 
 1\. Iscrizioni e simboli possono essere tracciati sulla pavimentazione esclusivamente allo scopo di guidare o regolare il traffico. Per le iscrizioni devono essere impiegati i caratteri alfanumerici di cui alle tabelle II.26/a, II.26/b, II.26/c e II.26/d che fanno parte integrante del presente regolamento.
 
@@ -3316,7 +3308,7 @@ f) freccia di rientro.
 
 12\. Altri simboli od iscrizioni, non replicanti la segnaletica verticale, possono essere consentiti previa ((autorizzazione)) del Ministero dei lavori pubblici - Ispettorato generale per la circolazione e la sicurezza stradale.
 
-###### Art. 149 (Art. 40 Cod. Str.)
+##### Art. 149 (Art. 40 Cod. Str.)
 
 (Strisce di delimitazione degli stalli di sosta
 
@@ -3340,7 +3332,7 @@ c) giallo per gli stalli di sosta riservati.
 
 5\. Gli stalli di sosta riservati alle persone invalide devono essere delimitati da strisce gialle e contrassegnati sulla pavimentazione dall'apposito simbolo; devono, inoltre, essere affiancati da uno spazio libero necessario per consentire l'apertura dello sportello del veicolo nonche' la manovra di entrata e di uscita dal veicolo, ovvero per consentire l'accesso al marciapiede (figure II.445/a, II.445/b, II.445/c).
 
-###### Art. 150 (Art. 40 Cod. Str.) - Presegnalamento di isole di traffico o di ostacoli entro la carreggiata
+##### Art. 150 (Art. 40 Cod. Str.) - Presegnalamento di isole di traffico o di ostacoli entro la carreggiata
 
 1\. Le isole di traffico a raso sulla pavimentazione ed i triangoli di presegnalamento delle isole di traffico in rilievo devono essere evidenziati mediante zebrature poste entro le strisce di raccordo per l'incanalamento dei veicoli o tra queste ed il bordo della carreggiata.
 
@@ -3350,7 +3342,7 @@ c) giallo per gli stalli di sosta riservati.
 
 4\. Sulle zone di presegnalamento e' vietata la sosta.
 
-###### Art. 151 (Art. 40 Cod. Str.) - Strisce di delimitazione della fermata dei veicoli in servizio di trasporto pubblico collettivo di linea
+##### Art. 151 (Art. 40 Cod. Str.) - Strisce di delimitazione della fermata dei veicoli in servizio di trasporto pubblico collettivo di linea
 
 1\. Le strisce di delimitazione della fermata dei veicoli in servizio di trasporto pubblico collettivo di linea sono costituite da una striscia longitudinale gialla discontinua, posta ad una distanza minima di 2,70 m dal marciapiede o dalla striscia di margine continua, e da due strisce trasversali gialle continue che si raccordano perpendicolarmente alle precedenti; nel caso di golfi di fermata le strisce trasversali possono non essere tracciate. La larghezza delle strisce e' di 12 cm.
 
@@ -3362,7 +3354,7 @@ c) giallo per gli stalli di sosta riservati.
 
 5\. Nelle zone di fermata e' vietata la sosta dei veicoli.
 
-###### Art. 152 (Art. 40 Cod. Str.) - Altri segnali orizzontali
+##### Art. 152 (Art. 40 Cod. Str.) - Altri segnali orizzontali
 
 1\. I segnali orizzontali di cantiere sono disciplinati dall'articolo 35.
 
@@ -3374,7 +3366,7 @@ c) giallo per gli stalli di sosta riservati.
 
 ((5.)) Per quanto attiene ad altri dispositivi per segnali orizzontali essi sono regolati dall'articolo 154.
 
-###### Art. 153 (Art. 40 Cod. Str.)
+##### Art. 153 (Art. 40 Cod. Str.)
 
 (Dispositivi retroriflettenti integrativi
 
@@ -3390,7 +3382,7 @@ dei segnali orizzontali)
 
 ((4.)) Le caratteristiche ((dimensionali,)) fotometriche, colorimetriche e di resistenza all'impatto, nonche' i loro metodi di misura, sono stabiliti con disciplinare tecnico approvato con decreto del Ministro dei lavori pubblici, da pubblicare sulla Gazzetta Ufficiale della Repubblica.
 
-###### Art. 154 (Art. 40 Cod. Str.) - Altri dispositivi per segnaletica orizzontale
+##### Art. 154 (Art. 40 Cod. Str.) - Altri dispositivi per segnaletica orizzontale
 
 1\. I dispositivi come chiodi, inserti e simili, devono essere installati a raso della pavimentazione o ((sporgenti al massimo 3 cm)).
 
@@ -3400,25 +3392,25 @@ dei segnali orizzontali)
 
 4\. I dispositivi per la realizzazione dei segni sulla carreggiata sono soggetti all'approvazione del Ministero dei lavori pubblici - Ispettorato generale per la circolazione e la sicurezza stradale.
 
-###### Art. 155 (Art. 40 Cod. Str.) - Segnali orizzontali vietati
+##### Art. 155 (Art. 40 Cod. Str.) - Segnali orizzontali vietati
 
 1\. Nessun altro segno non rimovibile e' consentito sulle carreggiate stradali, soggette a pubblico transito all'infuori di quelli previsti dalle presenti norme, escludendosi anche indicazioni connesse con gare su strada o competizioni sportive.
 
-## § 5. SEGNALI LUMINOSI - (Art. 41 Codice della Strada)
+#### § 5. SEGNALI LUMINOSI - (Art. 41 Codice della Strada)
 
-###### Art. 156 (Art. 41 Cod. Str.) - Segnali luminosi di pericolo e di prescrizione
+##### Art. 156 (Art. 41 Cod. Str.) - Segnali luminosi di pericolo e di prescrizione
 
 1\. I segnali stradali verticali di pericolo e di prescrizione possono essere illuminati per trasparenza, purche' colori, dimensioni e forme siano quelli prescritti per i normali segnali verticali, ne venga assicurata l'uniformita' di illuminazione e non producano abbagliamento.
 
-###### Art. 157 (Art. 41 Cod. Str.) - Segnali luminosi di indicazione
+##### Art. 157 (Art. 41 Cod. Str.) - Segnali luminosi di indicazione
 
 1\. I segnali stradali di indicazione di maggiore importanza possono essere illuminati per trasparenza, purche' colori, dimensioni e forme siano quelli prescritti per i normali segnali verticali, ne venga assicurata l'uniformita' di illuminazione e non producano abbagliamento.
 
-###### Art. 158 (Art. 41 Cod. Str.) - Funzione delle lanterne semaforiche
+##### Art. 158 (Art. 41 Cod. Str.) - Funzione delle lanterne semaforiche
 
 1\. Le lanterne semaforiche, escluse le lanterne semaforiche gialle lampeggianti, servono per regolare, nel tempo, l'avanzamento delle correnti di traffico in una intersezione o in un tronco stradale.
 
-###### Art. 159 (Art. 41 Cod. Str.) - Lanterne semaforiche veicolari normali
+##### Art. 159 (Art. 41 Cod. Str.) - Lanterne semaforiche veicolari normali
 
 1\. Le lanterne semaforiche veicolari normali sono a tre luci colorate di forma circolare, disposte verticalmente nel seguente modo: luce rossa in alto, luce gialla al centro e luce verde in basso (fig. II.449).
 
@@ -3436,7 +3428,7 @@ c) luce rossa.
 
 ((5. Se la manovra di svolta a destra e' consentita con continuita', la lanterna semaforica veicolare normale puo' essere integrata con una luce verde direzionale posizionata in basso, a destra della luce verde veicolare.))
 
-###### Art. 160 (Art. 41 Cod. Str.) - Lanterne semaforiche veicolari di corsia
+##### Art. 160 (Art. 41 Cod. Str.) - Lanterne semaforiche veicolari di corsia
 
 1\. Le lanterne semaforiche veicolari di corsia sono a tre luci a forma di frecce luminose su fondo nero circolare disposte verticalmente nel seguente modo: freccia rossa in alto, freccia gialla al centro, freccia verde in basso (figure II.450 e II.451).
 
@@ -3448,7 +3440,7 @@ c) luce rossa.
 
 5\. Nelle intersezioni tra strade formanti angolo retto, ((o prossimo a 90 gradi,)) nel caso in cui esista una corsia mista per due manovre, le relative frecce colorate possono essere accoppiate in un'unica luce.
 
-###### Art. 161 (Art. 41 Cod. Str.) - Lanterne semaforiche per i veicoli di trasporto pubblico
+##### Art. 161 (Art. 41 Cod. Str.) - Lanterne semaforiche per i veicoli di trasporto pubblico
 
 1\. Le lanterne semaforiche per i veicoli di trasporto pubblico (figg. II.452 e II.453) sono destinate esclusivamente a tale tipo di veicoli e possono essere a tre o piu' luci con i seguenti simboli:
 
@@ -3474,7 +3466,7 @@ c) barra bianca orizzontale.
 
 4\. Le lanterne semaforiche per i veicoli di trasporto pubblico vanno usate unicamente quando le lanterne veicolari normali o di corsia possono ingenerare confusione all'avanzamento delle varie correnti di traffico veicolare.
 
-###### Art. 162 (Art. 41 Cod. Str.) - Lanterne semaforiche pedonali
+##### Art. 162 (Art. 41 Cod. Str.) - Lanterne semaforiche pedonali
 
 1\. Le lanterne semaforiche pedonali sono destinate esclusivamente alla regolazione degli attraversamenti pedonali semaforizzati; esse sono a tre luci con i seguenti simboli:
 
@@ -3508,7 +3500,7 @@ c) assenza di suono con significato di arresto, in sincrono con la luce rossa.
 
 7\. Il livello delle emissioni sonore deve essere tarato per ogni impianto in maniera che, tenuto conto del livello sonoro di fondo, sia distintamente percettibile senza arrecare disturbo.
 
-###### Art. 163 (Art. 41 Cod. Str.) - Lanterne semaforiche per velocipedi
+##### Art. 163 (Art. 41 Cod. Str.) - Lanterne semaforiche per velocipedi
 
 1\. Le lanterne semaforiche per velocipedi sono destinate esclusivamente alla regolazione degli attraversamenti ciclabili semaforizzati; esse sono a tre luci con i seguenti simboli:
 
@@ -3532,7 +3524,7 @@ c) bicicletta rossa.
 
 4\. Le lanterne semaforiche per velocipedi vanno usate solo in corrispondenza di piste ciclabili; in assenza di tali piste vanno adottate le normali lanterne pedonali in quanto ((i conducenti dei velocipedi)) devono seguire un comportamento identico a quello dei pedoni.
 
-###### Art. 164 (Art. 41 Cod. Str.) - Lanterne semaforiche veicolari per corsie reversibili
+##### Art. 164 (Art. 41 Cod. Str.) - Lanterne semaforiche veicolari per corsie reversibili
 
 1\. Le lanterne semaforiche veicolari per corsie reversibili hanno lo scopo di consentire la reversibilita' del senso di marcia su de- terminate corsie di una carreggiata suddivisa in tre o piu' corsie oppure su determinati varchi di stazioni autostradali o, in genere, di barriere di controllo o di pedaggio; tali lanterne devono essere disposte orizzontalmente al di sopra della corsia di marcia cui si riferiscono e presentano due luci:
 
@@ -3544,7 +3536,7 @@ b) luce verde, a forma di freccia verticale su fondo nero con la punta diretta v
 
 3\. Almeno una delle due lanterne di cui al comma 1, lettere a) e b), deve essere collocata, coerentemente con il senso di marcia, anche sulle corsie non reversibili.
 
-###### Art. 165 (Art. 41 Cod. Str.) - Lanterne semaforiche gialle lampeggianti
+##### Art. 165 (Art. 41 Cod. Str.) - Lanterne semaforiche gialle lampeggianti
 
 1\. Le lanterne semaforiche gialle lampeggianti (fig. II.460) sono di tre tipi:
 
@@ -3560,7 +3552,7 @@ c) una luce circolare lampeggiante con il simbolo di una bicicletta gialla su fo
 
 4\. Durante il periodo di accensione delle luci gialle di cui al comma 1, lettere b) e c), i veicoli in manovra di svolta su intersezione semaforizzata possono procedere dando la precedenza ai pedoni o ((ai velocipedi)) che percorrono l'attraversamento antistante la corsia da cui ha inizio la manovra di svolta.
 
-###### Art. 166 (Art. 41 Cod. Str.) - Lanterne semaforiche speciali
+##### Art. 166 (Art. 41 Cod. Str.) - Lanterne semaforiche speciali
 
 1\. Le lanterne semaforiche speciali (fig. II.461) sono:
 
@@ -3580,7 +3572,7 @@ c) lanterna semaforica di "onda verde".
 
 6\. Le indicazioni fornite dalle luci di cui al comma 1, lettera c), consigliano ai conducenti dei veicoli, in uscita dal ramo dell'intersezione su cui e' posta la lanterna, la velocita' da mantenere nel rispetto di tutte le altre norme di comportamento, allo scopo di poter trovare la via libera alla successiva intersezione semaforizzata.
 
-###### Art. 167 (Art. 41 Cod. Str.) - Dimensioni ed illuminazione delle luci semaforiche
+##### Art. 167 (Art. 41 Cod. Str.) - Dimensioni ed illuminazione delle luci semaforiche
 
 1\. Le dimensioni delle luci sono normalmente di 200 mm di diametro; puo' essere altresi' consentito l'uso di luci di diametro da 300 mm, anche limitatamente alla sola luce rossa. L'uso delle luci di diametro di 300 mm non e' consentito per le lanterne semaforiche per i veicoli di trasporto pubblico, per le lanterne pedonali, per le lanterne per i velocipedi, per le lanterne di cui all'articolo 165, comma 1, lettere b) e c), e per le lanterne di cui all'articolo 166, comma 1, lettera c). Le luci delle lanterne semaforiche veicolari per corsie reversibili hanno diametro maggiorato fino a 600 mm.
 
@@ -3590,7 +3582,7 @@ c) lanterna semaforica di "onda verde".
 
 4\. Le luci semaforiche devono essere munite di opportuna ed efficiente visiera, atta a consentire la visibilita' in ogni condizione di luce, nonche' ad impedire, per quanto possibile, che i conducenti vedano altre luci semaforiche orientate verso altre direzioni.
 
-###### Art. 168 (Art. 41 Cod. Str.) - Installazione delle lanterne semaforiche
+##### Art. 168 (Art. 41 Cod. Str.) - Installazione delle lanterne semaforiche
 
 1\. Le lanterne semaforiche veicolari vanno installate su pali posti sul margine destro della carreggiata, sul marciapiede ovvero su apposite isole di canalizzazione o spartitraffico.
 
@@ -3616,7 +3608,7 @@ c) lanterna semaforica di "onda verde".
 
 12\. Le luci semaforiche installate lateralmente alle corsie di marcia possono essere ripetute nello stesso ordine in formato ridotto di diametro non superiore a 9 cm, all'altezza di 1,30 m circa, lungo il palo di sostegno, con la direzione dell'asse ottico luminoso angolato opportunamente per la migliore visibilita' da parte dei conducenti posti in prima posizione, dietro la linea di arresto; tale tipo di luci puo' essere adottato solo in presenza delle lanterne veicolari normali, per non ingenerare confusione negli utenti.
 
-###### Art. 169 (Art. 41 Cod. Str.)
+##### Art. 169 (Art. 41 Cod. Str.)
 
 (( (Funzionamento degli impianti semaforici) ))
 
@@ -3628,7 +3620,7 @@ c) lanterna semaforica di "onda verde".
 
 ((4. L'impianto semaforico deve essere dotato di dispositivi che non consentano la contemporaneita' di segnali in contrasto fra loro e che, in caso di blocco o di guasti, rendano automatico il passaggio dell'impianto a luci gialle lampeggianti.))
 
-###### Art. 170 (Art. 41 Cod. Str.) - Segnali luminosi particolari
+##### Art. 170 (Art. 41 Cod. Str.) - Segnali luminosi particolari
 
 1\. Segnali luminosi particolari sono:
 
@@ -3656,13 +3648,13 @@ b) le colonnine luminose ed i segnali incassati nella carreggiata o nei bordi di
 
 ((10. I delineatori di margine luminosi devono essere a luce fissa, con gli stessi colori dei delineatori normali di margine di cui all'articolo 173 e installati con le stesse modalita'. Non devono provocare abbagliamento.))
 
-###### Art. 171 (Art. 41 Cod. Str.) - Frequenza dei lampeggiatori
+##### Art. 171 (Art. 41 Cod. Str.) - Frequenza dei lampeggiatori
 
 1\. Nei lampeggiatori la frequenza del ciclo deve essere non inferiore a 50 volte al minuto e non superiore a 80. I due tempi di ACCESO e di SPENTO, che compongono il ciclo, devono essere di uguale durata.
 
-## § 6. SEGNALI COMPLEMENTARI - (Art. 42 Codice della Strada)
+#### § 6. SEGNALI COMPLEMENTARI - (Art. 42 Codice della Strada)
 
-###### Art. 172 (Art. 42 Cod. Str.) - Generalita' e suddivisioni
+##### Art. 172 (Art. 42 Cod. Str.) - Generalita' e suddivisioni
 
 1\. Ai sensi dell'articolo 42, comma 1, del codice, sono segnali complementari i dispositivi e mezzi segnaletici atti a fornire ai conducenti le informazioni utili alla determinazione della traiettoria di marcia nelle varie situazioni stradali ed alla percezione di ostacoli posti in prossimita' o entro la carreggiata, nonche' quelli atti a rafforzare l'efficacia dei normali segni sulla carreggiata.
 
@@ -3676,7 +3668,7 @@ c) mezzi e dispositivi per segnalare gli ostacoli;
 
 d) isole di traffico.
 
-###### Art. 173 (Art. 42 Cod. Str.) - Delineatori normali di margine
+##### Art. 173 (Art. 42 Cod. Str.) - Delineatori normali di margine
 
 1\. I delineatori normali di margine (fig. II.463) devono essere installati lungo quei tronchi stradali, fuori dei centri abitati, nei quali la velocita' locale predominante, l'andamento planoaltimetrico o le condizioni climatiche locali rendono necessario visualizzare a distanza l'andamento dell'asse stradale.
 
@@ -3722,7 +3714,7 @@ b) nelle strade a doppio senso di marcia: sul lato destro deve apparire un eleme
 
 10\. In presenza di barriere di sicurezza, muri, parapetti o altri impedimenti, i delineatori possono essere sostituiti da elementi rifrangenti, fissati ai manufatti, aventi le medesime dimensioni e caratteristiche, posti anche nell'onda del nastro della barriera o al di sopra di esso; e' opportuno che l'altezza da terra degli elementi rifrangenti sia la stessa di quelli inseriti nei delineatori normali.
 
-###### Art. 174 (Art. 42 Cod. Str.) - Delineatori speciali
+##### Art. 174 (Art. 42 Cod. Str.) - Delineatori speciali
 
 1\. I delineatori speciali sottoindicati sono utilizzati come dispositivi permanenti nei casi previsti dal presente articolo:
 
@@ -3806,7 +3798,7 @@ g) Dispositivi di delineazione luminosa.
 
 Curve, punti critici o altre anomalie stradali possono essere evidenziate con dispositivi di delineazione luminosi purche' colori, forme e modalita' d'uso assicurino l'uniformita' di illuminazione e l'assenza di abbagliamento. Tali dispositivi sono soggetti ad approvazione da parte del Ministero dei lavori pubblici - Ispettorato generale per la circolazione e la sicurezza stradale, che ne autorizza l'uso per le situazioni specifiche.
 
-###### Art. 175 (Art. 42 Cod. Str.) - Dispositivi di segnalazione di ostacoli
+##### Art. 175 (Art. 42 Cod. Str.) - Dispositivi di segnalazione di ostacoli
 
 1\. Gli ostacoli, le anomalie e i punti critici stradali, ove non siano eliminabili, devono essere segnalati in tutti i casi in cui sia giudicato necessario a causa della loro posizione aumentarne la visibilita', particolarmente nelle ore notturne.
 
@@ -3820,7 +3812,7 @@ Curve, punti critici o altre anomalie stradali possono essere evidenziate con di
 
 6\. Le cuspidi di aiuole o spartitraffico possono essere presegnalate con appositi dispositivi che devono essere approvati dal Ministero dei lavori pubblici - Ispettorato generale per la circolazione e la sicurezza stradale.
 
-###### Art. 176 (Art. 42 Cod. Str.) - Modalita' di realizzazione delle isole di traffico
+##### Art. 176 (Art. 42 Cod. Str.) - Modalita' di realizzazione delle isole di traffico
 
 1\. Le isole di traffico possono essere realizzate nei seguenti modi:
 
@@ -3836,7 +3828,7 @@ c) isole permanenti: possono essere realizzate mediante getto di calcestruzzo ce
 
 3\. Il sistema a raso dovra' di massima essere adottato durante il periodo di sperimentazione dell'isola di traffico.
 
-###### Art. 177 (Art. 42 Cod. Str.) - Segnalazione delle isole di traffico
+##### Art. 177 (Art. 42 Cod. Str.) - Segnalazione delle isole di traffico
 
 1\. L'approssimarsi di un'isola di traffico di qualunque tipo deve essere segnalato da una striscia bianca continua di sufficiente lunghezza e da opportuna zebratura nella parte di pavimentazione stradale che precede la testata dell'isola cosi' come precisato all'articolo 150.
 
@@ -3854,7 +3846,7 @@ c) isole permanenti: possono essere realizzate mediante getto di calcestruzzo ce
 
 II.82/a, II.82/b e II.83).
 
-###### Art. 178 (Art. 42 Cod. Str.)
+##### Art. 178 (Art. 42 Cod. Str.)
 
 (Elementi prefabbricati per salvagenti pedonali
 
@@ -3872,7 +3864,7 @@ Possono essere dotati di inserti rifrangenti o di altri sistemi catadiottrici pe
 
 5\. I delimitatori di corsia di cui ai commi 3 e 4 devono essere approvati dal Ministero dei lavori pubblici - Ispettorato generale per la circolazione e la sicurezza stradale e posti in opera previa ordinanza dell'ente proprietario della strada.
 
-###### Art. 179 (Art. 42 Cod. Str.) - Rallentatori di velocita'
+##### Art. 179 (Art. 42 Cod. Str.) - Rallentatori di velocita'
 
 ((1. Su tutte le strade, per tutta la larghezza della carreggiata, ovvero per una o piu' corsie nel senso di marcia interessato, si possono adottare sistemi di rallentamento della velocita' costituiti da bande trasversali ad effetto ottico, acustico o vibratorio, ottenibili con opportuni mezzi di segnalamento orizzontale o trattamento della superficie della pavimentazione.))
 
@@ -3904,7 +3896,7 @@ I tipi a) e b) devono essere realizzati in elementi modulari in gomma o material
 
 Tutti i tipi di rallentatori sono)) posti in opera previa ordinanza dell'ente proprietario della strada che ne determina il tipo e la ubicazione.
 
-###### Art. 180 (Art. 42 Cod. Str.) - Dissuasori di sosta
+##### Art. 180 (Art. 42 Cod. Str.) - Dissuasori di sosta
 
 1\. I dissuasori di sosta sono dispositivi stradali atti ad impedire la sosta di veicoli in aree o zone determinate. Essi possono essere utilizzati per costituire un impedimento materiale alla sosta abusiva.
 
@@ -3918,9 +3910,9 @@ Tutti i tipi di rallentatori sono)) posti in opera previa ordinanza dell'ente pr
 
 6\. I dissuasori di sosta devono essere ((autorizzati)) dal Ministero dei lavori pubblici - Ispettorato generale per la circolazione e la sicurezza stradale e posti in opera previa ordinanza dell'ente proprietario della strada.
 
-## § 7. SEGNALI DEGLI AGENTI DEL TRAFFICO - (Art. 43 Codice della Strada)
+#### § 7. SEGNALI DEGLI AGENTI DEL TRAFFICO - (Art. 43 Codice della Strada)
 
-###### Art. 181 (Art. 43 Cod. Str.) - Segnali manuali degli agenti del traffico
+##### Art. 181 (Art. 43 Cod. Str.) - Segnali manuali degli agenti del traffico
 
 1\. Ferme restando le disposizioni contenute nell'articolo 43 del codice, per consentire il deflusso delle correnti veicolari di svolta a sinistra, fermando le correnti veicolari dirette provenienti in senso contrario, gli agenti preposti alla regolazione del traffico devono effettuare il segnale manuale con le braccia distese orizzontalmente e perpendicolarmente tra loro, dirette rispettivamente verso la direzione di provenienza e di destinazione della o delle correnti di svolta.
 
@@ -3930,13 +3922,13 @@ a) l'oscillazione di una luce rossa con significato di "arresto" per gli utenti 
 
 b) l'intimazione dell'alt o di via libera effettuata con l'apposito segnale distintivo di cui all'articolo 24.
 
-###### Art. 182 (Art. 43 Cod. Str.) - Altri segnali degli agenti del traffico
+##### Art. 182 (Art. 43 Cod. Str.) - Altri segnali degli agenti del traffico
 
 1\. Quando sia necessario arrestare tutta la circolazione per consentire il passaggio di veicoli adibiti a servizi di polizia o antincendio e delle autoambulanze, nell'espletamento di servizi urgenti di istituto, l'agente preposto alla regolazione del traffico deve fare uso di un fischietto emettendo un suono prolungato. A questo segnale i veicoli ed i pedoni in procinto di impegnare una intersezione devono immediatamente fermarsi fino al successivo segnale di via libera, dato con due suoni brevi di fischietto. Quelli che si trovano entro l'area di intersezione devono affrettarsi a sgomberarla.
 
 2\. Un suono prolungato di fischietto, in altre circostanze, puo' essere utilizzato per intimare l'alt al trasgressore di norme della circolazione.
 
-###### Art. 183 (Art. 43 Cod. Str.) - Visibilita' degli agenti del traffico
+##### Art. 183 (Art. 43 Cod. Str.) - Visibilita' degli agenti del traffico
 
 1\. Gli agenti preposti alla regolazione del traffico e gli organi di polizia stradale di cui all'articolo 12 del codice, durante i servizi previsti dall'articolo 11, commi 1 e 2, del codice, quando operano sulla strada devono essere visibili a distanza, sia di giorno che di notte, mediante l'uso di appositi capi di vestiario o dell'uniforme confezionati con tessuto rifrangente di colore bianco o grigio argento a luce riflessa bianca.
 
@@ -3956,9 +3948,9 @@ b) l'intimazione dell'alt o di via libera effettuata con l'apposito segnale dist
 
 9\. La pellicola vinilica bianca rifrangente di cui al comma 2 deve avere caratteristiche fotometriche corrispondenti alla classe 1 del disciplinare tecnico di cui all'articolo 79, comma 9.
 
-## § 8. SEGNALETICA RELATIVA AI PASSAGGI A LIVELLO - (Art. 44 Codice della Strada)
+#### § 8. SEGNALETICA RELATIVA AI PASSAGGI A LIVELLO - (Art. 44 Codice della Strada)
 
-###### Art. 184 (Art. 44 Cod. Str.) - Disposizioni generali sulle segnalazioni dei passaggi a livello) 1. In caso di avaria dei meccanismi di chiusura dei passaggi a livello con barriere o semibarriere, le stesse sono sostituite con almeno un cavalletto per parte che deve essere esternamente a strisce rifrangenti bianche e rosse. Le barriere e le semibarriere sono, altresi', sostituibili con una bandiera rossa rifrangente e con una lanterna a luce rossa di notte e negli altri casi di scarsa visibilita', manovrate dall'addetto alla custodia dei passaggi a livello. ((Nel periodo di tempo intercorrente tra l'insorgere dell'avaria dei meccanismi di chiusura dei passaggi a livello e l'apposizione delle protezioni suindicate, l'esercente la ferrovia provvede a disciplinare la circolazione dei treni, in relazione alla sicurezza dei passaggi a livello.)
+##### Art. 184 (Art. 44 Cod. Str.) - Disposizioni generali sulle segnalazioni dei passaggi a livello) 1. In caso di avaria dei meccanismi di chiusura dei passaggi a livello con barriere o semibarriere, le stesse sono sostituite con almeno un cavalletto per parte che deve essere esternamente a strisce rifrangenti bianche e rosse. Le barriere e le semibarriere sono, altresi', sostituibili con una bandiera rossa rifrangente e con una lanterna a luce rossa di notte e negli altri casi di scarsa visibilita', manovrate dall'addetto alla custodia dei passaggi a livello. ((Nel periodo di tempo intercorrente tra l'insorgere dell'avaria dei meccanismi di chiusura dei passaggi a livello e l'apposizione delle protezioni suindicate, l'esercente la ferrovia provvede a disciplinare la circolazione dei treni, in relazione alla sicurezza dei passaggi a livello.)
 
 2\. Le barriere e le semibarriere devono essere esternamente a strisce rifrangenti bianche e rosse. Su ogni semibarriera devono essere collocate almeno due luci rosse delle quali una in corrispondenza della estremita' libera. Luci rosse possono essere collocate anche sulle barriere.
 
@@ -3980,7 +3972,7 @@ c) CROCE DI S. ANDREA e dispositivo luminoso a due luci rosse lampeggianti alter
 
 8\. La lanterna a luce rossa di cui al comma 1 e' del tipo regolamentare per l'esercizio ferroviario.
 
-###### Art. 185 (Art. 44 Cod. Str.) - Caratteristiche delle strisce bianche e rosse delle barriere
+##### Art. 185 (Art. 44 Cod. Str.) - Caratteristiche delle strisce bianche e rosse delle barriere
 
 1\. La superficie delle barriere o semibarriere dei passaggi a livello rivolta verso la strada deve essere a strisce alternate bianche e rosse, deve essere non inferiore a 0,20 m(Elevato al Quadrato) per ogni metro lineare di barriera o semibarriera; valutata sul piano verticale parallelo alla barriera o semibarriera medesima, almeno per la meta' della larghezza della carreggiata sbarrata dalle barriere o semibarriere.
 
@@ -3992,7 +3984,7 @@ c) CROCE DI S. ANDREA e dispositivo luminoso a due luci rosse lampeggianti alter
 
 5\. Le strisce bianche e rosse devono essere rifrangenti e realizzate con pellicola ad elevata efficienza (classe 2).
 
-###### Art. 186 (Art. 44 Cod. Str.) - Dispositivi di segnalazione acustica ed ottica delle barriere
+##### Art. 186 (Art. 44 Cod. Str.) - Dispositivi di segnalazione acustica ed ottica delle barriere
 
 1\. Nei passaggi a livello muniti di barriere i dispositivi di segnalazione ottica a luce rossa, ove previsti, sono installati normalmente sul margine destro della carreggiata nelle immediate vicinanze del passaggio a livello e collocati in modo da essere visibili dalla strada alla maggiore distanza possibile. L'altezza da terra del centro dei dispositivi di segnalazione ottica deve essere compresa tra 2 m e 2,50 m; le caratteristiche geometriche dei dispositivi sono indicati nella figura II.477.
 
@@ -4004,7 +3996,7 @@ Qualora la luce rossa sia resa visibile posteriormente, il dispositivo di segnal
 
 4\. Il funzionamento dei dispositivi di segnalazione acustica deve iniziare almeno 5 secondi prima dell'inizio dell'abbassamento delle barriere e terminare non prima della fine dell'abbassamento delle stesse.
 
-###### Art. 187 (Art. 44 Cod. Str.)
+##### Art. 187 (Art. 44 Cod. Str.)
 
 (Dispositivi di segnalazione ottica ed acustica delle semibarriere) 1. Nei passaggi a livello muniti di semibarriere, i dispositivi di segnalazione luminosa devono avere le dimensioni di cui alla figura II.478, essere installati sul margine destro della carreggiata e nelle immediate vicinanze del passaggio a livello e collocati in modo da risultare visibili dalla strada alla maggiore distanza possibile.
 
@@ -4018,7 +4010,7 @@ L'altezza da terra del centro dei dispositivi deve essere non inferiore a 2 m e 
 
 5\. La chiusura delle barriere nonche' il funzionamento delle segnalazioni luminose ed acustiche devono proseguire fino al termine del passaggio del treno.
 
-###### Art. 188 (Art. 44 Cod. Str.) - Caratteristiche dei dispositivi di segnalazione dei passaggi a livello senza barriere
+##### Art. 188 (Art. 44 Cod. Str.) - Caratteristiche dei dispositivi di segnalazione dei passaggi a livello senza barriere
 
 1\. I segnali CROCE DI S. ANDREA e DOPPIA CROCE DI S. ANDREA devono avere la forma e le dimensioni di cui rispettivamente alle figure II.10/a, II.10/b, II.10/c e II.10/d.
 
@@ -4026,7 +4018,7 @@ L'altezza da terra del centro dei dispositivi deve essere non inferiore a 2 m e 
 
 3\. I dispositivi di segnalazione luminosa e acustica dei passaggi a livello senza barriere devono avere caratteristiche uguali a quelle prescritte nell'articolo 187, inoltre, i due segnali luminosi devono essere installati preferibilmente sul medesimo stante della croce di S. Andrea, immediatamente al di sotto delle ali della croce medesima.
 
-###### Art. 189 (Art. 44 Cod. Str.)
+##### Art. 189 (Art. 44 Cod. Str.)
 
 (Cavalletti da impiegarsi in corrispondenza dei passaggi a livello) 1. I cavalletti da impiegarsi in corrispondenza dei passaggi a livello con barriere o semibarriere, nei casi di avaria dei meccanismi di chiusura, devono avere altezza compresa tra 1 m e 1,40 m, lunghezza di almeno 1,50 m e recare superiormente un pannello dell'altezza di 0,25 m della lunghezza del cavalletto con la superficie, dal lato strada, a strisce bianche e rosse inclinate a 45 , ciascuna di larghezza compresa tra 0,15 m e 0,20 m.
 
@@ -4034,7 +4026,7 @@ L'altezza da terra del centro dei dispositivi deve essere non inferiore a 2 m e 
 
 3\. Le strisce bianche e rosse e il disco rosso con bordo bianco devono essere rifrangenti e realizzati con pellicola ad elevata efficienza (classe 2).
 
-###### Art. 190 (Art. 44 Cod. Str.)
+##### Art. 190 (Art. 44 Cod. Str.)
 
 (Visibilita' ai passaggi a livello
 
@@ -4042,7 +4034,7 @@ senza barriere non forniti di segnalazione luminosa)
 
 1\. La visibilita' della strada ferrata in corrispondenza dei passaggi a livello senza barriere non provvisti di segnalazione luminosa e' da considerarsi sufficiente allorche' l'utente della strada abbia una visuale libera sulla ferrovia tale che gli consenta, in relazione alla velocita' massima dei treni sulla linea, di effettuare l'attraversamento quando nessun treno sia in vista.
 
-###### Art. 191 (Art. 44 Cod. Str.) - Attraversamento di linee ferroviarie di raccordo
+##### Art. 191 (Art. 44 Cod. Str.) - Attraversamento di linee ferroviarie di raccordo
 
 1\. Quando la strada e' attraversata da un binario di raccordo ferroviario ed il passaggio di convogli e' regolato a vista con segnali manuali di agenti o di personale addetto alla manovra, l'attraversamento deve essere segnalato ((...)) mediante il segnale ALTRI PERICOLI (fig. II.35) con pannello integrativo modello II.6/c e successiva CROCE DI S. ANDREA in vicinanza del binario stesso. Il segnale e' facoltativo nei centri abitati.
 
@@ -4050,9 +4042,9 @@ senza barriere non forniti di segnalazione luminosa)
 
 3\. La posa dei segnali di pericolo installati in prossimita' dell'attraversamento e' effettuata a cura e a spese dell'esercente la ferrovia o del proprietario del raccordo; la posa degli altri segnali e' effettuata, invece, a cura e spese degli enti proprietari della strada.
 
-## § 9 - CONTROLLI ED OMOLOGAZIONI - (Art. 45 Codice della Strada)
+#### § 9 - CONTROLLI ED OMOLOGAZIONI - (Art. 45 Codice della Strada)
 
-###### Art. 192 (Art. 45 Cod. Str.) - Omologazione ed approvazione
+##### Art. 192 (Art. 45 Cod. Str.) - Omologazione ed approvazione
 
 1\. Ogni volta che nel codice e nel presente regolamento e' prevista la omologazione o la approvazione di segnali, di dispositivi, di apparecchiature, di mezzi tecnici per la disciplina di controllo e la regolazione del traffico, di mezzi tecnici per l'accertamento e il rilevamento automatico delle violazioni alle norme di circolazione, di materiali, attrezzi o quant'altro previsto a tale scopo, di competenza del Ministero dei lavori pubblici, l'interessato deve presentare domanda, in carta legale a tale dicastero, indirizzandola all'Ispettorato generale per la circolazione e la sicurezza stradale, corredata da una relazione tecnica sull'oggetto della richiesta, da certificazioni di enti riconosciuti o laboratori autorizzati su prove alle quali l'elemento e' stato gia' sottoposto, nonche' da ogni altro elemento di prova idoneo a dimostrare l'utilita' e l'efficienza dell'oggetto di cui si chiede l'omologazione o l'approvazione e presentando almeno due prototipi dello stesso. Alla domanda deve essere allegata la ricevuta dell'avvenuto versamento dell'importo dovuto per le operazioni tecnico-amministrative ai sensi dell'articolo 405.
 
@@ -4090,7 +4082,7 @@ Il Decreto 4 dicembre 2019 (in G.U. 24/01/2020, n. 19) ha disposto:
 
 \- (con l'art. 2, comma 4) che "A decorrere dal 1° gennaio 2021 i dispositivi segnaletici di cui all'art. 1, comma 1, ai fini della commercializzazione, devono essere provvisti esclusivamente della dichiarazione di prestazione di prodotto".
 
-###### Art. 193 (Art. 45 Cod. Str.)
+##### Art. 193 (Art. 45 Cod. Str.)
 
 (Imprese autorizzate alla fabbricazione
 
@@ -4128,7 +4120,7 @@ o) certificazioni di regolarita' in materia di sicurezza per la messa a terra de
 
 3\. La rispondenza ai requisiti di cui al comma 2 dovra' essere dimostrata all'atto della prima autorizzazione. Detta autorizzazione avra' validita' ((per un triennio)) dalla data del rilascio e verra' rinnovata previa domanda da presentarsi allo stesso servizio di cui al comma 1, almeno due mesi prima della scadenza ((triennale)).
 
-###### Art. 194 (Art. 45 Cod. Str.) - Dotazioni tecniche e attrezzature
+##### Art. 194 (Art. 45 Cod. Str.) - Dotazioni tecniche e attrezzature
 
 1\. Le imprese che intendono ottenere l'autorizzazione di cui all'articolo 45, comma 8, del codice, devono disporre di almeno un ambiente di lavoro idoneo a norma di legge ((ed essere in possesso)) delle seguenti attrezzature minime:
 
@@ -4162,7 +4154,7 @@ g) forno di essiccazione.
 
 3\. Le attrezzature di cui al comma 2 devono essere in regola ed avere i requisiti previsti dalle disposizioni di legge in vigore in materia di prevenzione degli infortuni e di antinquinamento.
 
-###### Art. 195 (Art. 45 Cod. Str.)
+##### Art. 195 (Art. 45 Cod. Str.)
 
 (Condizioni per la revoca
 
@@ -4190,7 +4182,7 @@ e) ((LETTERA SOPPRESSA DAL D.P.R. 16 SETTEMBRE 1996, N. 610)).
 
 ### CAPO I - DEI VEICOLI IN GENERALE
 
-###### Art. 196 (Art. 46 Cod. Str.) - Caratteristiche dei veicoli per uso di bambini o di invalidi
+##### Art. 196 (Art. 46 Cod. Str.) - Caratteristiche dei veicoli per uso di bambini o di invalidi
 
 1\. I veicoli per uso di bambini o di invalidi devono presentare caratteristiche costruttive tali da non determinare il superamento dei limiti sotto indicati:
 
@@ -4214,11 +4206,11 @@ Tale limite e' quello ottenuto per costruzione ed e' riferito al numero di giri 
 
 3\. In relazione a sopravvenute esigenze costruttive nonche' all'unificazione dei veicoli per uso di invalidi, il Ministro dei trasporti ((e della navigazione)) puo' stabilire per tali veicoli caratteristiche costruttive diverse da quelle indicate al comma 1.
 
-###### Art. 197 (Art. 48 Cod. Str.) - Azionamento dei veicoli a braccia
+##### Art. 197 (Art. 48 Cod. Str.) - Azionamento dei veicoli a braccia
 
 1\. L'azionamento dei veicoli a braccia, mediante la forza muscolare del conducente, deve essere realizzato in modo diverso da quello derivante dall'uso di pedali o di similari dispositivi.
 
-###### Art. 198 (Art. 52 Cod. Str.)
+##### Art. 198 (Art. 52 Cod. Str.)
 
 (Caratteristiche costruttive e modalita' di controllo
 
@@ -4234,7 +4226,7 @@ Le modalita' di prova sono stabilite con tabella di unificazione emanata dal Min
 
 3\. Le caratteristiche costruttive di cui alla allegata appendice I possono essere variate ((o integrate)) dal Ministro dei trasporti ((e della navigazione)) con proprio provvedimento in relazione ad esigenze di sicurezza della circolazione o a sopravvenuta evoluzione delle tecnologie costruttive.
 
-###### Art. 199 (Art. 53 Cod. Str.) - Caratteristiche costruttive dei quadricicli a motore
+##### Art. 199 (Art. 53 Cod. Str.) - Caratteristiche costruttive dei quadricicli a motore
 
 1\. Le caratteristiche del motore dei quadricicli, nonche' le caratteristiche tecniche della paratia di divisione del vano cabina, devono soddisfare le prescrizioni di cui all'appendice II al presente titolo.
 
@@ -4244,7 +4236,7 @@ Le modalita' di prova sono stabilite con tabella di unificazione emanata dal Min
 
 4\. Le caratteristiche di cui al comma 1 possono essere variate ((o integrate)) dal Ministro dei trasporti ((e della navigazione)) con proprio provvedimento in relazione ad esigenze di sicurezza della circolazione o a sopravvenuta evoluzione delle tecnologie costruttive.
 
-###### Art. 200 (Art. 53 Cod. Str.)
+##### Art. 200 (Art. 53 Cod. Str.)
 
 (Motoveicoli per trasporti specifici
 
@@ -4294,7 +4286,7 @@ p) dotati di altre attrezzature riconosciute idonee per usi speciali dal Ministe
 
 3\. Ai motoveicoli ad uso speciale e' attribuita, nelle annotazioni delle rispettive carte di circolazione, una portata fittizia ai fini fiscali, determinata dalla differenza tra la massa complessiva del veicolo e la tara dello stesso attrezzato con carrozzeria cassone o, in mancanza di tale versione, la tara dell'autotelaio incrementata del 20%.
 
-###### Art. 201 (Art. 54 Cod. Str.) - Autotreni attrezzati per carichi indivisibili
+##### Art. 201 (Art. 54 Cod. Str.) - Autotreni attrezzati per carichi indivisibili
 
 ((1. Costituiscono un'unica unita', ai sensi dell'articolo 54, comma 1, lettera h), del codice, ed ai fini dell'applicazione dell'articolo 164, comma 2, del codice, gli autotreni costituiti da un autoveicolo e da un rimorchio per il trasporto specifico di imbarcazioni o di velivoli.
 
@@ -4308,7 +4300,7 @@ Qualora si verifichi eccedenza rispetto all'articolo 62 del codice, ciascuno dei
 
 5\. La realizzazione dei complessi di cui al comma 4 deve avvenire nel rispetto delle specifiche tecniche determinate al riguardo dal Ministero dei trasporti e della navigazione - Direzione generale della M.C.T.C..))
 
-###### Art. 202 (Art. 54 Cod. Str.) - Materiali trasportabili dai veicoli mezzi d'opera
+##### Art. 202 (Art. 54 Cod. Str.) - Materiali trasportabili dai veicoli mezzi d'opera
 
 1\. Tra i materiali assimilati indicati dall'articolo 54, comma 1, lettera n), del codice, sono compresi quelli impiegati nel ciclo produttivo delle imprese forestali e quelli derivanti dalla raccolta e compattazione dei rifiuti solidi urbani, o dello spurgo dei pozzi neri effettuata mediante idonee apparecchiature installate sui veicoli mezzi d'opera.
 
@@ -4320,7 +4312,7 @@ AGGIORNAMENTO (11)
 
 La L. 23 dicembre 1997, n. 454 ha disposto (con l'art. 11, comma 3) che il presente articolo cessa di avere applicazione dalla data di entrata in vigore della stessa L. 454/1997.
 
-###### Art. 203 (Art. 54 Cod. Str.)
+##### Art. 203 (Art. 54 Cod. Str.)
 
 (Autoveicoli per trasporti specifici
 
@@ -4428,7 +4420,7 @@ hh) autoveicoli attrezzati a laboratori mobili o con apparecchiature mobili di r
 
 3\. Per gli autoveicoli non compresi nell'elenco di cui alla tariffa I annessa alla legge 21 maggio 1955, n. 463, aggiornato con decreto ministeriale 15 marzo 1958 e' attribuita, nelle annotazioni delle rispettive carte di circolazione, una portata fittizia ai fini fiscali, determinata dalla differenza tra massa complessiva del veicolo e la tara dello stesso attrezzato con carrozzeria cassone o, in mancanza di tale versione, la tara dell'autotelaio incrementata del 20%.
 
-###### Art. 204 (Art. 56 Cod. Str.)
+##### Art. 204 (Art. 56 Cod. Str.)
 
 (Rimorchi per trasporti specifici
 
@@ -4500,7 +4492,7 @@ s) dotati di altre attrezzature riconosciute idonee per l'uso speciale dal Minis
 
 3\. Per i rimorchi non compresi nell'elenco di cui alla tariffa I annessa alla legge 21 maggio 1955, n. 463, aggiornato dal decreto ministeriale 15 marzo 1958 e' attribuita, nelle annotazioni delle rispettive carte di circolazione, una portata fittizia ai fini fiscali, determinata dalla differenza tra massa complessiva del veicolo e la tara dello stesso attrezzato con carrozzeria cassone o, in mancanza di tale versione, la tara del telaio incrementata del 20%.
 
-###### Art. 205 (Art. 56 Cod. Str.)
+##### Art. 205 (Art. 56 Cod. Str.)
 
 (Dimensioni, masse, organi di traino
 
@@ -4522,7 +4514,7 @@ c) per i soli autobus di massa a vuoto superiore a 2500 kg: 4,10 m di lunghezza,
 
 5\. Nella carta di circolazione del veicolo trattore devono essere annotati il numero del telaio, le dimensioni, la carrozzeria, la massa complessiva ed il tipo di dispositivo di frenatura del carrello appendice di cui e' ammesso il traino.
 
-###### Art. 206 (Art. 57 Cod. Str.) - Attrezzature delle macchine agricole
+##### Art. 206 (Art. 57 Cod. Str.) - Attrezzature delle macchine agricole
 
 1\. Le attrezzature delle macchine agricole sono apparecchiature utilizzate per l'effettuazione delle attivita' agricole e forestali di cui all'articolo 57, comma 1, del codice ((e per lo svolgimento delle attivita' di manutenzione e di tutela del territorio)).
 
@@ -4536,7 +4528,7 @@ c) per i soli autobus di massa a vuoto superiore a 2500 kg: 4,10 m di lunghezza,
 
 5\. Sono fatte salve, in quanto applicabili, le disposizioni contenute nella legge 8 agosto 1977, n. 572 e successive modificazioni.
 
-###### Art. 207 (Art. 57 Cod. Str.) - Trattrici agricole con piano di carico
+##### Art. 207 (Art. 57 Cod. Str.) - Trattrici agricole con piano di carico
 
 1\. Le trattrici agricole di cui all'articolo 57, comma 2, lettera a), punto 1), del codice possono essere allestite con piano di carico anche amovibile nel rispetto delle prescrizioni seguenti:
 
@@ -4552,7 +4544,7 @@ b) quando la carreggiata minima di uno degli assi e' superiore a ((1,35)) m, la 
 
 2\. Nel caso di accoppiamento di trattrice agricola con rimorchio ad uno o piu' assi, ovvero con macchina agricola operatrice trainata, non si devono verificare interferenze tra i piani di carico dei veicoli nell'ambito dei gradi di liberta' previsti per gli organi di agganciamento.
 
-###### Art. 208 (Art. 57 Cod. Str.)
+##### Art. 208 (Art. 57 Cod. Str.)
 
 (Limiti per il trasporto delle persone
 
@@ -4566,7 +4558,7 @@ con le macchine agricole)
 
 4\. Sulla carta di circolazione del rimorchio devono essere, inoltre, indicate le targhe delle trattrici alle quali il rimorchio stesso puo' essere agganciato.
 
-###### Art. 209 (Art. 57 Cod. Str.)
+##### Art. 209 (Art. 57 Cod. Str.)
 
 (Equipaggiamento ed attrezzatura delle macchine
 
@@ -4588,7 +4580,7 @@ agricole semoventi per il trasporto di persone)
 
 8\. Il numero delle persone trasportabili e' commisurato al numero dei posti a sedere e, comunque, mai superiore a 20. Inoltre la somma della massa delle persone trasportate, determinata assumendo convenzionalmente la massa di ciascuna persona pari a 70 kg piu' 10 kg di bagagli o attrezzi, e della tara del rimorchio attrezzato, non deve superare la massa complessiva a pieno carico assegnata al rimorchio stesso in sede di omologazione.
 
-###### Art. 210 (Art. 57 Cod. Str.)
+##### Art. 210 (Art. 57 Cod. Str.)
 
 (Velocita' teorica ed effettiva
 
@@ -4600,7 +4592,7 @@ delle macchine agricole semoventi)
 
 3\. Alle velocita' massime del veicolo indicate dal costruttore e rientranti nei limiti previsti dall'articolo 57 del codice, si applicano le tolleranze previste al riguardo dalle normative comunitarie.
 
-###### Art. 211 (Art. 58 Cod. Str.)
+##### Art. 211 (Art. 58 Cod. Str.)
 
 (Limiti e modalita' di circolazione
 
@@ -4610,11 +4602,11 @@ delle macchine operatrici)
 
 3\. Delle possibilita' previste al comma 2 deve essere fatta esplicita menzione sulla carta di circolazione rilasciata da un'ufficio provinciale della Direzione generale della M.C.T.C. per la macchina operatrice interessata.
 
-###### Art. 212 (Art. 58 Cod. Str.) - Attrezzature delle macchine operatrici
+##### Art. 212 (Art. 58 Cod. Str.) - Attrezzature delle macchine operatrici
 
 1\. Le macchine operatrici possono essere approvate od omologate con attrezzature tra loro diversificate, a condizione che il sistema di lavoro non subisca variazioni secondo le prescrizioni dettate in merito dal Ministro dei trasporti con proprio decreto.
 
-###### Art. 213 (Art. 58 Cod. Str.)
+##### Art. 213 (Art. 58 Cod. Str.)
 
 (Disciplina dei mezzi di movimentazione
 
@@ -4626,7 +4618,7 @@ destinati ad operare nelle aree portuali)
 
 3\. Le prescrizioni tecniche per l'immissione in circolazione dei mezzi di movimentazione sono stabilite dal Ministro dei trasporti con proprio decreto.
 
-###### Art. 214 (Art. 60 Cod. Str.) - Motoveicoli ed autoveicoli d'epoca
+##### Art. 214 (Art. 60 Cod. Str.) - Motoveicoli ed autoveicoli d'epoca
 
 1\. Ai veicoli d'epoca, ((iscritti nell'apposito elenco previsto nell'art. 60, comma 2, del codice,)) per la circolazione nei luoghi consentiti, e' rilasciato il foglio di via e la targa provvisoria previsti dall'articolo 99 del codice.
 
@@ -4644,7 +4636,7 @@ c) 15 km/h, nel caso in cui il veicolo non sia munito di pneumatici.
 
 ((5. Le tariffe per l'iscrizione e la cancellazione nell'apposito elenco, istituito presso il Centro storico della Direzione generale della M.C.T.C., sono stabilite dal Ministro dei trasporti e della navigazione, di concerto con il Ministro del tesoro, sentito il Ministro delle finanze.))
 
-###### Art. 215 (Art. 60 Cod. Str.)
+##### Art. 215 (Art. 60 Cod. Str.)
 
 (Motoveicoli ed autoveicoli d'interesse storico
 
@@ -4666,7 +4658,7 @@ o collezionistico)
 
 8\. Le tariffe ((per)) l'iscrizione e la cancellazione dai registri di cui al comma 1, nonche' le certificazioni rilasciate dagli stessi, sono stabilite periodicamente ((dal Ministro dei trasporti e della navigazione di concerto con il Ministro del tesoro, sentito il Ministro delle finanze.))
 
-###### Art. 216 (Art. 61 Cod. Str.)
+##### Art. 216 (Art. 61 Cod. Str.)
 
 (Lunghezza massima degli autoarticolati,
 
@@ -4682,7 +4674,7 @@ degli autotreni e dei filotreni)
 
 > \- La direttiva 85/3 e' stata recepita con D. M. 22 gennaio 1988, n. 78: "Attuazione delle direttive CEE n. 85/3 e n. 86/630 relative ai pesi, alle dimensioni e a certe altre caratteristiche tecniche di taluni veicoli stradali", pubblicato nella Gazzetta Ufficiale n. 64 del 17 marzo 1988.
 
-###### Art. 217 (Art. 61 Cod. Str.) - Inscrivibilita' in curva dei veicoli - Fascia d'ingombro
+##### Art. 217 (Art. 61 Cod. Str.) - Inscrivibilita' in curva dei veicoli - Fascia d'ingombro
 
 1\. Ogni veicolo a motore, o complesso di veicoli, ((compreso il relativo carico,)) deve potersi inscrivere in una corona circolare (fascia d'ingombro) di raggio esterno 12,50 m e raggio interno 5,30 m. Per i complessi di veicoli deve, inoltre, essere verificata la condizione di inscrizione del complesso entro la ((zona racchiusa dalla)) curva di minor raggio descritta dal veicolo trattore, nonche' la possibilita' di transito su curve altimetriche della superficie stradale.
 
@@ -4692,11 +4684,11 @@ degli autotreni e dei filotreni)
 
 ((4.)) Al fine di stabilire condizioni generalizzate di compatibilita' tra veicoli trattori e veicoli rimorchiati, il Ministero dei trasporti ((e della navigazione)) - Direzione generale della M.C.T.C. definisce le caratteristiche di normalizzazione di tali veicoli, sostitutive delle verifiche indicate al comma 1.
 
-###### Art. 218 (Art. 62 Cod. Str.) - Massa limite sugli assi
+##### Art. 218 (Art. 62 Cod. Str.) - Massa limite sugli assi
 
 1\. Fermo restando quanto prescritto dall'articolo 62 del codice, la massa massima gravante su ciascun asse di un veicolo non puo' eccedere il valore limite riconosciuto ammissibile dalla casa costruttrice del veicolo stesso. Nel caso di inosservanza si applicano le sanzioni previste dall'articolo 62, comma 7, del codice.
 
-###### Art. 219 (Art. 63 Cod. Str.)
+##### Art. 219 (Art. 63 Cod. Str.)
 
 (Valore massimo della massa rimorchiabile e sua determinazione.
 
@@ -4710,11 +4702,9 @@ Procedure per l'agganciamento dei rimorchi)
 
 L'autorizzazione alla circolazione del complesso deve essere annotata sulla carta di circolazione del rimorchio o del semirimorchio con le modalita' dettate dalle prescrizioni predette.
 
-## CAPO II - DEI VEICOLI A TRAZIONE ANIMALE,
+### CAPO II - DEI VEICOLI A TRAZIONE ANIMALE, SLITTE E VELOCIPEDI
 
-### SLITTE E VELOCIPEDI
-
-###### Art. 220 (Artt. 64 e 69 Cod. Str.) - Dispositivi di frenatura dei veicoli a trazione animale e delle slitte
+##### Art. 220 (Artt. 64 e 69 Cod. Str.) - Dispositivi di frenatura dei veicoli a trazione animale e delle slitte
 
 1\. Il sistema frenante dei veicoli a trazione animale, a due ruote con cerchioni in ferro, realizzato con ceppi, tappi o tamponi, agenti sui cerchioni, deve essere azionato a mezzo di una manovella a vite meccanica o a vite senza fine. La manovella di azionamento del freno deve essere situata, di regola, sulla parte esterna di una delle stanghe. I ceppi, tappi o tamponi si appoggiano sulla superficie esterna del cerchione in ferro e con la pressione esercitata agiscono da freno del veicolo.
 
@@ -4728,7 +4718,7 @@ E' necessario che almeno le due ruote posteriori siano munite di detto dispositi
 
 5\. Le slitte devono avere un dispositivo di frenatura consistente in uno o piu' arpioni applicati sui longheroni delle slitte stesse e manovrati con leve o volantini, oppure a mezzo rullo ancorato alla estremita' posteriore dei due longheroni, munito di arpioni e manovrato per mezzo di leve o volantino, oppure a mezzo di catene avvolte nella parte anteriore dei longheroni. L'uso di questi dispositivi di frenatura e' consentito soltanto su strade ricoperte da uno strato di neve o di ghiaccio, sufficiente a preservare il manto stradale.
 
-###### Art. 221 (Artt. 65 e 69 Cod. Str.) - Dispositivi di segnalazione visiva dei veicoli a trazione animale e delle slitte
+##### Art. 221 (Artt. 65 e 69 Cod. Str.) - Dispositivi di segnalazione visiva dei veicoli a trazione animale e delle slitte
 
 1\. La segnalazione anteriore a luce bianca dei veicoli a trazione animale e delle slitte deve essere realizzata mediante due fanali la cui luce sia visibile in avanti almeno da 100 m di distanza.
 
@@ -4738,7 +4728,7 @@ E' necessario che almeno le due ruote posteriori siano munite di detto dispositi
 
 4\. I catadiottri di cui devono essere muniti i veicoli a trazione animale e le slitte devono rispondere alle stesse prescrizioni valide per i catadiottri degli autoveicoli. Detti dispositivi possono rimanere sospesi in guisa da oscillare purche' sia sempre assicurata la visibilita' geometrica stabilita per ciascuno di essi.
 
-###### Art. 222 (Art. 67 Cod. Str.) - Targhe dei veicoli a trazione animale e delle slitte
+##### Art. 222 (Art. 67 Cod. Str.) - Targhe dei veicoli a trazione animale e delle slitte
 
 1\. La targa di riconoscimento dei veicoli a trazione animale e delle slitte e' costituita da un lamierino di alluminio di forma rettangolare dello spessore di 7/10 di mm e delle dimensioni di 68 mm x 190 mm. Detta targa, che agli angoli deve essere provvista di fori per il fissaggio nella parte anteriore destra del veicolo, deve avere il fondo: rosso lacca, se destinata a veicoli per trasporto di persone, verde, se destinata ai veicoli per trasporto di cose,
 
@@ -4768,7 +4758,7 @@ e) in basso, a destra: il contrassegno circolare dello Stato recante il simbolo 
 
 7\. Il prezzo di fornitura delle targhe di riconoscimento fissato con il decreto di cui all'articolo 67, comma 3, del codice, puo' essere aggiornato con cadenza biennale con decreto del Ministro dei lavori pubblici.
 
-###### Art. 223 (Art. 68 e 69 Cod. Str.)
+##### Art. 223 (Art. 68 e 69 Cod. Str.)
 
 (Dispositivi di frenatura ((e di segnalazione acustica))
 
@@ -4784,7 +4774,7 @@ dei velocipedi)
 
 ((5. Il suono emesso dal campanello deve essere di intensita' tale da poter essere percepito ad almeno 30 m di distanza.))
 
-###### Art. 224 (Art. 68 e 69 Cod. Str.) - Dispositivi di segnalazione visiva dei velocipedi
+##### Art. 224 (Art. 68 e 69 Cod. Str.) - Dispositivi di segnalazione visiva dei velocipedi
 
 ((1. La luce anteriore consiste in un fanale a luce bianca o gialla, ad alimentazione elettrica, posto ad una altezza compresa tra un minimo ((di 30 cm)) ed un massimo di 100 cm da terra ed orientato in modo che l'asse ottico incontri il terreno antistante il velocipede a non oltre 20 m.
 
@@ -4808,7 +4798,7 @@ dei velocipedi)
 
 ((10.)) I tipi di dispositivi previsti dalla suddetta appendice devono essere omologati dal Ministero dei lavori pubblici - Ispettorato generale per la circolazione e la sicurezza stradale e devono portare stampigliati, in posizione visibile, gli elementi di cui all'articolo 192, comma 7, e, qualora agli effetti del montaggio sia prescritta una determinata posizione, la dicitura "alto" od altra simile.))
 
-###### Art. 225 (Art. 68 e 69 Cod. Str.)
+##### Art. 225 (Art. 68 e 69 Cod. Str.)
 
 (( (Caratteristiche costruttive delle attrezzature per il trasporto dei bambini sui velocipedi)
 
@@ -4828,7 +4818,7 @@ Tale dichiarazione e' sottoscritta, sotto la propria responsabilita', dal produt
 
 7\. Sono consentiti i rimorchi per velocipedi purche' la lunghezza del velocipede, compreso il rimorchio, non superi 3 m. La larghezza massima totale del rimorchio non deve essere superiore a 75 cm e l'altezza massima, compreso il carico, non deve essere superiore a 1 m. La massa trasportabile non deve essere superiore a 50 Kg. Per la circolazione notturna il rimorchio e' equipaggiato con i dispositivi di segnalazione visiva posteriore e laterale previsti per i velocipedi all'articolo 224.))
 
-###### Art. 226 - Art. 70 Cod. Str.
+##### Art. 226 - Art. 70 Cod. Str.
 
 (Servizio di piazza con veicoli a trazione animale)
 
@@ -4870,15 +4860,11 @@ d) rispondenza del veicolo alle caratteristiche di cui al comma 1, risultanti da
 
 8\. Il Sindaco puo' disporre in ogni momento la revisione quando si accerti o si presuma che il veicolo non risponda piu' alle condizioni richieste, fissando il relativo termine. A tale revisione si applicano le disposizioni del comma 7.
 
-## CAPO III - VEICOLI A MOTORE E LORO RIMORCHI
+### CAPO III - VEICOLI A MOTORE E LORO RIMORCHI Sez. I - NORME COSTRUTTIVE E DI EQUIPAGGIAMENTO E ACCERTAMENTI TECNICI PER LA CIRCOLAZIONE
 
-### Sez. I - NORME COSTRUTTIVE E DI EQUIPAGGIAMENTO - E ACCERTAMENTI TECNICI PER LA CIRCOLAZIONE
+#### § 1. CARATTERISTICHE COSTRUTTIVE, DI EQUIPAGGIAMENTO - E DI IDENTIFICAZIONE (Artt. 71-74 Codice della Strada)
 
-#### § 1. CARATTERISTICHE COSTRUTTIVE, DI EQUIPAGGIAMENTO - E DI IDENTIFICAZIONE
-
-##### (Artt. 71-74 Codice della Strada)
-
-###### Art. 227 (Art. 71 Cod. Str.) - Caratteristiche costruttive e funzionali dei veicoli a motore e loro rimorchi
+##### Art. 227 (Art. 71 Cod. Str.) - Caratteristiche costruttive e funzionali dei veicoli a motore e loro rimorchi
 
 1\. Le caratteristiche generali costruttive e funzionali dei veicoli, soggette ad accertamento, sono quelle indicate nell'appendice V al presente titolo. Nell'ambito di tali caratteristiche il ((Ministero dei trasporti e della navigazione - Direzione generale della M.C.T.C.)), stabilisce quali devono essere oggetto di accertamento, in relazione a ciascuna categoria di veicoli.
 
@@ -4886,7 +4872,7 @@ d) rispondenza del veicolo alle caratteristiche di cui al comma 1, risultanti da
 
 3\. Il ((Ministero dei trasporti e della navigazione - Direzione generale della M.C.T.C.)) , di concerto con gli ((altri Ministeri)), quando interessati, puo', in relazione ad esigenze di sicurezza della circolazione o di protezione dell'ambiente, stabilire ulteriori caratteristiche costruttive e funzionali in aggiunta a quelle elencate nei commi precedenti.
 
-###### Art. 228 (Art. 72 Cod. Str.)
+##### Art. 228 (Art. 72 Cod. Str.)
 
 (Dispositivi di equipaggiamento dei veicoli a motore
 
@@ -4898,13 +4884,13 @@ In alternativa, i predetti dispositivi possono essere conformi alle prescrizioni
 
 2\. Fanno eccezione i dispositivi di ritenuta e di protezione dei veicoli destinati ad essere condotti dagli invalidi ovvero al loro trasporto, le cui caratteristiche sono determinate dal Ministro dei trasporti con proprio provvedimento, da emanare nel termine di cui all'articolo 232 del codice.
 
-###### Art. 229 (Art. 72 Cod. Str.) - Contachilometri
+##### Art. 229 (Art. 72 Cod. Str.) - Contachilometri
 
 ((1. Il contachilometri installato sugli autoveicoli deve fornire almeno l'indicazione relativa alla distanza chilometrica totale percorsa, a partire dalla prima messa in circolazione degli stessi autoveicoli o dal riazzeramento automatico di tale indicazione. Esso deve altresi' essere privo di dispositivi di azzeramento manuale e non deve essere manomesso. E' consentita l'installazione di un contachilometri parziale azzerabile.
 
 2\. Le indicazioni del dispositivo devono cadere nel campo di visibilita' diretta del conducente ed essere ad almeno cinque cifre, ciascuna variabile progressivamente da zero a nove.))
 
-###### Art. 230 (Art. 72 Cod. Str.) - Segnale mobile plurifunzionale di soccorso
+##### Art. 230 (Art. 72 Cod. Str.) - Segnale mobile plurifunzionale di soccorso
 
 1\. Il segnale mobile plurifunzionale di soccorso, di cui, ai sensi dell'articolo 72, comma 3, ((...)), del codice, ((possono)) essere dotati gli autoveicoli in circolazione e che i conducenti ((possono)) esporre nei casi di fermata dell'autoveicolo dovuta ad una delle seguenti situazioni di difficolta' e di emergenza:
 
@@ -4946,7 +4932,7 @@ c) simbolo DISTRIBUTORE (fig. III.2/d).
 
 12\. ((COMMA SOPPRESSO DAL D.P.R. 16 SETTEMBRE 1996, N. 610)).
 
-###### Art. 231 (Art. 72 Cod. Str.) - Particolari costruttivi del segnale mobile plurifunzionale di soccorso
+##### Art. 231 (Art. 72 Cod. Str.) - Particolari costruttivi del segnale mobile plurifunzionale di soccorso
 
 1\. I particolari costruttivi del segnale mobile plurifunzionale di soccorso, che e' soggetto ad omologazione ai sensi dell'articolo 230, sono i seguenti:
 
@@ -4962,19 +4948,17 @@ e) il dispositivo deve avere un basamento idoneo a mantenerlo con gli schermi ne
 
 2\. Le specifiche delle diciture, dei simboli e del materiale utilizzato nonche' delle modalita' di prova sono quelle indicate nell'appendice VI al presente titolo.
 
-###### Art. 232 (Art. 74 Cod. Str.) - Targhette e numeri di identificazione
+##### Art. 232 (Art. 74 Cod. Str.) - Targhette e numeri di identificazione
 
 1\. Le caratteristiche, le modalita' di applicazione e le indicazioni delle targhette, nonche' le caratteristiche dei numeri di identificazione apposti dal costruttore del veicolo o dal suo mandatario sono quelle stabilite dalle direttive comunitarie al riguardo o, in alternativa, dalle raccomandazioni emanate dall'ufficio europeo per le Nazioni Unite, Commissione economica per l'Europa.
 
-###### Art. 233 (Art. 74 Cod. Str.) - Punzonatura d'ufficio del numero di telaio
+##### Art. 233 (Art. 74 Cod. Str.) - Punzonatura d'ufficio del numero di telaio
 
 1\. Nel caso di irregolarita' o di mancanza del numero originale del telaio, di cui all'articolo 74, comma 3, del codice, viene riprodotto con appositi punzoni, a cura degli uffici della Direzione generale della M.C.T.C., un numero distintivo preceduto e seguito dal marchio dell'ufficio stesso (stella a cinque punte recante nell'interno la sigla della provincia ((di appartenenza dell'ufficio stesso)) ) , seguendo i criteri indicati nell'appendice VII del presente regolamento.
 
-## § 2. CERTIFICATO DI APPROVAZIONE, ORIGINE - ED OMOLOGAZIONE
+#### § 2. CERTIFICATO DI APPROVAZIONE, ORIGINE - ED OMOLOGAZIONE (Artt. 76-79 Codice della Strada)
 
-### (Artt. 76-79 Codice della Strada)
-
-###### Art. 234 (Art. 76 Cod. Str.) - Certificato di approvazione
+##### Art. 234 (Art. 76 Cod. Str.) - Certificato di approvazione
 
 1\. Il certificato di approvazione, rilasciato ai sensi dell'articolo 76, comma 1, del codice, deve essere redatto su modello approvato dal Ministero dei trasporti - Direzione generale della M.C.T.C. e deve contenere tutti i dati necessari per la compilazione della parte tecnica della carta di circolazione del veicolo cui si riferisce, oltre al numero di telaio di quest'ultimo ed alla fabbrica e tipo.
 
@@ -5016,7 +5000,7 @@ e) il dispositivo deve avere un basamento idoneo a mantenerlo con gli schermi ne
 
 > 3\. Restano ferme le altre attribuzioni gia' conferite al Centro superiore ricerche prove autoveicoli e dispositivi, con sede a Roma".
 
-###### Art. 235 (Art. 76 Cod. Str.) - Certificato di origine
+##### Art. 235 (Art. 76 Cod. Str.) - Certificato di origine
 
 1\. Il certificato di origine di un veicolo, di cui all'articolo 76, comma 2, del codice, ((...)) deve contenere le seguenti indicazioni:
 
@@ -5034,7 +5018,7 @@ e) data di rilascio.
 
 ((3. Se i certificati di origine sono privi, in tutto o in parte, dei dati tecnici del veicolo, questi ultimi devono risultare da altra idonea documentazione.))
 
-###### Art. 236 (Art. 78 Cod. Str.)
+##### Art. 236 (Art. 78 Cod. Str.)
 
 (Modifica delle caratteristiche costruttive dei veicoli in
 
@@ -5070,7 +5054,7 @@ m) il collegamento del motore alla struttura del veicolo e' subordinata al rilas
 
 ((4. La Direzione generale della M.C.T.C. definisce le competenze dei propri uffici periferici, tenuto anche conto della necessita' di distribuzione dei carichi di lavoro e delle possibilita' operative degli uffici stessi, nonche' delle particolari collocazioni territoriali delle ditte costruttrici o trasformatrici.))
 
-###### Art. 237 (Art. 79 Cod. Str.)
+##### Art. 237 (Art. 79 Cod. Str.)
 
 (Efficienza dei veicoli a motore e loro rimorchi
 
@@ -5086,9 +5070,9 @@ in circolazione)
 
 > \- Per la legge 3 marzo 1987, n. 59, si veda in nota all'art. 227.
 
-## § 3. REVISIONI - (Art. 80-81 Codice della Strada)
+#### § 3. REVISIONI - (Art. 80-81 Codice della Strada)
 
-###### Art. 238 (Art. 80 Cod. Str.) - Elementi su cui devono essere effettuati i controlli tecnici
+##### Art. 238 (Art. 80 Cod. Str.) - Elementi su cui devono essere effettuati i controlli tecnici
 
 1\. Gli elementi che costituiscono l'equipaggiamento dei veicoli, aventi rilevanza ai fini della sicurezza e su cui devono essere effettuati i controlli tecnici di cui all'articolo 80, comma 1, del codice, sono indicati nell'appendice IX al presente titolo rispettivamente per i veicoli soggetti a revisione periodica annuale oppure a revisione periodica biennale.
 
@@ -5096,7 +5080,7 @@ in circolazione)
 
 3\. Il Ministero dei trasporti - Direzione generale della M.C.T.C. aggiorna con propri provvedimenti la normativa di cui al presente articolo, in relazione all'evolversi della tecnologia relativa ai veicoli ed alle strumentazioni ed attrezzature necessarie per il loro controllo.
 
-###### Art. 239 (Art. 80 Cod. Str.)
+##### Art. 239 (Art. 80 Cod. Str.)
 
 Revisioni presso imprese o consorzi e requisiti
 
@@ -5148,7 +5132,7 @@ d.3) ingresso avente larghezza ed altezza rispettivamente non inferiori a 2,50 m
 
 6\. Sono a carico dell'impresa, o del consorzio che richiede la concessione, tutte le spese inerenti i sopralluoghi effettuati dai funzionari della Direzione generale della M.C.T.C., per accertare la sussistenza dei requisiti tecnico-professionali necessari. Gli importi relativi, unitamente a quelli riguardanti i sopralluoghi volti a verificare il permanere dei predetti requisiti, sono stabiliti con decreto del Ministro dei trasporti e della navigazione, di concerto con il Ministro del tesoro, sentito il Ministro delle finanze.
 
-###### Art. 240 (Art. 80 Cod. Str.) - Requisiti dei titolari delle imprese e dei responsabili tecnici
+##### Art. 240 (Art. 80 Cod. Str.) - Requisiti dei titolari delle imprese e dei responsabili tecnici
 
 1\. I requisiti personali e professionali del titolare dell'impresa individuale, quando questa si avvalga di una sola sede operativa, o in sua vece e negli altri casi, ivi compresi i consorzi, del responsabile tecnico, sono i seguenti:
 
@@ -5170,7 +5154,7 @@ h) aver superato un apposito corso di formazione organizzato secondo le modalita
 
 2\. Il responsabile tecnico deve inoltre svolgere la propria attivita' in maniera continuativa presso la sede operativa dell'impresa o presso il consorzio cui e' stata rilasciata la concessione stessa. Il responsabile tecnico non puo' operare presso piu' di una sede operativa di impresa o presso piu' di un consorzio che effettui il servizio di revisione ed e' tenuto a presenziare e certificare personalmente tutte le fasi delle operazioni di revisione che si riferiscono alla sua responsabilita'. In caso di temporanea assenza od impedimento del responsabile tecnico, quest'ultimo puo' essere sostituito, per un periodo non superiore a trenta giorni l'anno, dai soggetti e con i criteri stabiliti dal Dipartimento dei trasporti terrestri.
 
-###### Art. 241 (art. 80 Cod. Str.)
+##### Art. 241 (art. 80 Cod. Str.)
 
 (Attrezzature delle imprese e dei consorzi
 
@@ -5182,7 +5166,7 @@ abilitati alla revisione dei veicoli)
 
 3\. Il Ministero dei trasporti e della navigazione - Direzione generale della M.C.T.C. aggiorna con propri provvedimenti la normativa di cui al presente articolo, in relazione all'evolversi della tecnologia relativa ai veicoli ed alle strumentazioni ed attrezzature necessarie per il loro controllo.
 
-###### Art. 242 (Art. 81 Cod. Str.)
+##### Art. 242 (Art. 81 Cod. Str.)
 
 (Profili professionali che da'nno titolo all'effettuazione degli
 
@@ -5198,11 +5182,11 @@ accertamenti tecnici)
 
 ## Sez. II - DESTINAZIONE ED USO DEI VEICOLI
 
-###### Art. 243 (Art. 82 Cod. Str.) - Caratteristiche costruttive dei veicoli in relazione alla destinazione ed all'uso degli stessi
+##### Art. 243 (Art. 82 Cod. Str.) - Caratteristiche costruttive dei veicoli in relazione alla destinazione ed all'uso degli stessi
 
 1\. Le caratteristiche costruttive dei veicoli, in relazione a quanto disposto dall'articolo 82, comma 7, del codice, devono soddisfare le prescrizioni fissate dall'articolo 227, comma 2, in relazione ((al punto F)) dell'appendice V al presente titolo.
 
-###### Art. 244 (artt. 84 e 85 Cod. Str.)
+##### Art. 244 (artt. 84 e 85 Cod. Str.)
 
 ( ((Servizio)) di noleggio con conducente
 
@@ -5212,11 +5196,11 @@ per trasporto di persone)
 
 ((1.)) Ai fini della possibile destinazione a noleggio con conducente, di cui all'articolo 85, comma 2, del codice, vengono considerate adibite al trasporto specifico di persone sia le autoambulanze cosiddette di trasporto che quelle cosiddette di soccorso.
 
-## Sez. III - DOCUMENTI DI CIRCOLAZIONE E IMMATRICOLAZIONE - § 1. FORMALITA' PER LA CIRCOLAZIONE
+## Sez. III - DOCUMENTI DI CIRCOLAZIONE E IMMATRICOLAZIONE
 
-### DI AUTOVEICOLI, MOTOVEICOLI E CICLOMOTORI - (Artt. 93-99 Codice della Strada)
+#### § 1. FORMALITA' PER LA CIRCOLAZIONE - DI AUTOVEICOLI, MOTOVEICOLI E CICLOMOTORI (Artt. 93-99 Codice della Strada)
 
-###### Art. 245 (Art. 93 Cod. Str.) - Comunicazioni fra gli uffici della M.C.T.C e del P.R.A.
+##### Art. 245 (Art. 93 Cod. Str.) - Comunicazioni fra gli uffici della M.C.T.C e del P.R.A.
 
 ((1. Al fine del rilascio della carta di circolazione di cui all'articolo 93, comma 5, del codice, il centro elaborazione dati del Dipartimento per i trasporti, la navigazione, gli affari generali ed il personale trasmette contestualmente al sistema informativo del P.R.A., in via telematica, i dati di identificazione dei veicoli, nonche' i dati e le documentazioni in formato elettronico relativi alle generalita' di chi si e' dichiarato proprietario, dell'usufruttuario o del locatario con facolta' di acquisto o del venditore con patto di riservato dominio, e quelli relativi allo stato giuridico-patrimoniale del veicolo, alla sussistenza di privilegi e ipoteche, di provvedimenti amministrativi e giudiziari che incidono sulla proprieta' e sulla disponibilita' dei veicoli stessi, nonche' di provvedimenti di fermo amministrativo.))
 
@@ -5226,7 +5210,7 @@ per trasporto di persone)
 
 4\. ((COMMA ABROGATO DAL D.P.R. 8 NOVEMBRE 2018, N. 144)).
 
-###### Art. 246 (Art. 93 Cod. Str.)
+##### Art. 246 (Art. 93 Cod. Str.)
 
 (Caratteristiche dei veicoli
 
@@ -5236,7 +5220,7 @@ destinati a servizio di polizia stradale)
 
 2\. Il Ministro dei trasporti ((e della navigazione)) puo' stabilire che ai veicoli di cui al comma 1 venga rilasciata una speciale targa di immatricolazione, anche in deroga ai criteri fissati nel comma 1, lettere a) e c), dell'appendice XII al presente titolo, al fine dell'indicazione che detti veicoli sono destinati esclusivamente al servizio di polizia stradale.
 
-###### Art. 247 (Art. 94 Cod. Str.) - Comunicazioni degli uffici della M.C.T.C. e del P.R.A.
+##### Art. 247 (Art. 94 Cod. Str.) - Comunicazioni degli uffici della M.C.T.C. e del P.R.A.
 
 ((1. Al fine del rilascio della carta di circolazione di cui all'articolo 94, comma 1, del codice, il centro elaborazione dati del Dipartimento per i trasporti, la navigazione, gli affari generali ed il personale trasmette al sistema informativo del P.R.A., in via telematica, i dati di identificazione dei veicoli di cui viene chiesto il trasferimento di proprieta', nonche' i dati e le documentazioni in formato elettronico relativi alle generalita' di chi si e' dichiarato nuovo proprietario.
 
@@ -5252,7 +5236,7 @@ AGGIORNAMENTO (10)
 
 La L. 27 dicembre 1997, n. 449 ha disposto (con l'art. 17, comma 25) che gli obblighi di eseguire i versamenti di cui al comma 3 del presente articolo, sono soppressi.
 
-###### Art. 247-bis
+##### Art. 247-bis
 
 ((Variazione dell'intestatario della carta di circolazione e intestazione temporanea di autoveicoli, motoveicoli e rimorchi))
 
@@ -5270,7 +5254,7 @@ d) all'aggiornamento della carta di circolazione di autoveicoli, motoveicoli e r
 
 e) al di fuori dei casi precedenti, all'aggiornamento della carta di circolazione di autoveicoli, motoveicoli e rimorchi, che siano in disponibilita' di soggetto diverso dall'intestatario per periodi superiori ai trenta giorni, in forza di contratti o atti unilaterali che, in conformita' alle norme dell'ordinamento civilistico, comunque determinino tale disponibilita'.))
 
-###### Art. 248 (Art. 97 Cod. Str.)
+##### Art. 248 (Art. 97 Cod. Str.)
 
 (( (Targa per ciclomotori).
 
@@ -5280,7 +5264,7 @@ e) al di fuori dei casi precedenti, all'aggiornamento della carta di circolazion
 
 3\. La targa e' strettamente legata al titolare, che la applica solo al veicolo identificato nel certificato di circolazione di cui risulta intestatario. Chi risulta intestatario di piu' veicoli deve conseguentemente munirsi di un corrispondente numero di certificati di circolazione e di targhe.))
 
-###### Art. 249 (Art. 97 Cod. Str.)
+##### Art. 249 (Art. 97 Cod. Str.)
 
 (( (Utilizzazione della targa in caso di trasferimento di
 
@@ -5290,7 +5274,7 @@ proprieta' dei ciclomotori).
 
 2\. Il titolare che non intenda riutilizzare la targa assegnatagli provvede alla sua distruzione e ne da' comunicazione ad un ufficio motorizzazione civile del Dipartimento per i trasporti terrestri, ovvero ad uno dei soggetti di cui all'articolo 251, con le modalita' stabilite dal Ministero delle infrastrutture e dei trasporti, ai fini dell'aggiornamento della sezione "ciclomotori" dell'Archivio nazionale dei veicoli.))
 
-###### Art. 250 (Art. 97 Cod. Str.)
+##### Art. 250 (Art. 97 Cod. Str.)
 
 ((Caratteristiche e
 
@@ -5308,7 +5292,7 @@ modalita' di applicazione della targa per ciclomotori))
 
 7\. Il Ministro dei trasporti e della navigazione puo', in caso di particolari esigenze, stabilire caratteristiche diverse da quelle indicate ((nei commi 1 e 2)).
 
-###### Art. 251 (Art. 97 Cod. Str.)
+##### Art. 251 (Art. 97 Cod. Str.)
 
 (( (Affidamento delle procedure di rilascio di targhe e
 
@@ -5318,7 +5302,7 @@ certificati di circolazione).
 
 2\. I soggetti che esercitano attivita' di consulenza per la circolazione dei mezzi di trasporto, di cui alla legge 8 agosto 1991, n. 264, e successive modificazioni, abilitati al rilascio delle targhe e dei certificati di circolazione dei ciclomotori ai sensi del comma 1, espongono, all'esterno dei locali dove hanno la sede, l'insegna indicata nella figura III 3/a)).
 
-###### Art. 252 (Art. 97 Cod. Str.)
+##### Art. 252 (Art. 97 Cod. Str.)
 
 (( (Adempimenti dell'intestatario del certificato di circolazione).
 
@@ -5338,7 +5322,7 @@ Analogamente procede in caso di deterioramento della targa, previa distruzione d
 
 6\. Nei casi non previsti al comma 5, l'intestatario deve chiedere, entro trenta giorni dal trasferimento di residenza, l'aggiornamento del certificato di circolazione ad un ufficio motorizzazione civile del Dipartimento per i trasporti terrestri o ad uno dei soggetti di cui all'articolo 251 che provvedono a rilasciare contestualmente alla domanda, con le modalita' prescritte dal Ministero delle infrastrutture e dei trasporti, un tagliando, recante la nuova residenza, da apporre sul certificato di circolazione.))
 
-###### Art. 253 (Art. 97 Cod. Str.) - Norme transitorie per i ciclomotori in circolazione
+##### Art. 253 (Art. 97 Cod. Str.) - Norme transitorie per i ciclomotori in circolazione
 
 1\. I ciclomotori muniti di certificato di idoneita' tecnica, ovvero di certificato di conformita', gia' rilasciato alla data del 30 giugno 1993, potranno continuare a circolare senza il contrassegno di identificazione:
 
@@ -5360,11 +5344,11 @@ rilasciato prima del 1 luglio 1989.
 
 2\. Per l'assegnazione ed il rilascio del contrassegno ai ciclomotori di cui al comma 1, nonche' per la sua registrazione, si applicano le norme del presente regolamento.
 
-###### Art. 254
+##### Art. 254
 
 ((ARTICOLO ABROGATO DAL D.P.R. 24 NOVEMBRE 2001, N. 474))
 
-###### Art. 255 (Art. 99 Cod. Str.) - Targhe provvisorie di circolazione
+##### Art. 255 (Art. 99 Cod. Str.) - Targhe provvisorie di circolazione
 
 1\. Le sigle di individuazione degli uffici provinciali della Direzione generale della M.C.T.C., ai fini del rilascio delle targhe provvisorie di cui all'articolo 99 del codice sono quelle indicate nell'appendice XI al presente titolo.
 
@@ -5378,9 +5362,9 @@ c) serie progressiva costituita da cinque caratteri numerici.
 
 Il ((Ministero dei trasporti e della navigazione - Direzione generale della M.C.T.C.)) puo' stabilire che la serie in questione sia modificata ed integrata da caratteri alfabetici.
 
-## § 2. TARGHE - (Artt. 100-102 Codice della Strada)
+#### § 2. TARGHE - (Artt. 100-102 Codice della Strada)
 
-###### Art. 256 (Art. 100 Cod. Str.) - Definizione delle targhe di immatricolazione, ripetitrici e di riconoscimento
+##### Art. 256 (Art. 100 Cod. Str.) - Definizione delle targhe di immatricolazione, ripetitrici e di riconoscimento
 
 1\. Agli effetti del presente regolamento, si definiscono targhe d'immatricolazione:
 
@@ -5424,13 +5408,13 @@ AGGIORNAMENTO (44)
 
 Il D.P.R. 28 settembre 2012, n. 198, ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui agli articoli da 2 a 7 entrano in vigore a decorrere dal novantesimo giorno successivo alla data di pubblicazione del presente decreto e, per effetto dell'articolo 11, comma 8, della legge 29 luglio 2010, n. 120, si applicano ai soli rimorchi immatricolati successivamente alla predetta data di entrata in vigore, fatta salva la facolta' di immatricolare nuovamente quelli gia' immessi in circolazione."
 
-###### Art. 257 (Art. 100 Cod. Str.) - Criteri per la formazione dei dati delle targhe dei veicoli a motore e dei rimorchi
+##### Art. 257 (Art. 100 Cod. Str.) - Criteri per la formazione dei dati delle targhe dei veicoli a motore e dei rimorchi
 
 1\. I criteri per la formazione dei dati riportati nelle targhe di cui all'articolo 100, comma 9, del codice, sono quelli riportati nell'appendice XII al presente titolo.
 
 2\. Fermo restando quanto previsto dall'articolo 246, il Ministro dei trasporti puo', in caso di particolari esigenze, stabilire una successione ed un impiego di caratteri alfanumerici diversi da quelli indicati al comma 1 della suddetta appendice XII.
 
-###### Art. 258 (Art. 100 Cod. Str.) - Collocazione delle targhe di immatricolazione, ripetitrici e di riconoscimento
+##### Art. 258 (Art. 100 Cod. Str.) - Collocazione delle targhe di immatricolazione, ripetitrici e di riconoscimento
 
 1\. Gli alloggiamenti delle targhe d'immatricolazione ripetitrici e di riconoscimento devono presentare una superficie piana o approssimativamente piana, di ampiezza idonea a contenere la targa cui sono destinati. Fermo restando quanto stabilito nella materia dalle norme previgenti per i veicoli immatricolati anteriormente al 1 gennaio 1999, le dimensioni e la collocazione dei diversi tipi di targhe sono le seguenti:
 
@@ -5458,7 +5442,7 @@ AGGIORNAMENTO (44)
 
 Il D.P.R. 28 settembre 2012, n. 198, ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui agli articoli da 2 a 7 entrano in vigore a decorrere dal novantesimo giorno successivo alla data di pubblicazione del presente decreto e, per effetto dell'articolo 11, comma 8, della legge 29 luglio 2010, n. 120, si applicano ai soli rimorchi immatricolati successivamente alla predetta data di entrata in vigore, fatta salva la facolta' di immatricolare nuovamente quelli gia' immessi in circolazione."
 
-###### Art. 259 (Art. 100 Cod. Str.) - Modalita' di installazione delle targhe
+##### Art. 259 (Art. 100 Cod. Str.) - Modalita' di installazione delle targhe
 
 1\. Gli alloggiamenti devono essere tali che, a seguito del loro corretto montaggio, le targhe presentino le seguenti caratteristiche:
 
@@ -5486,7 +5470,7 @@ AGGIORNAMENTO (44)
 
 Il D.P.R. 28 settembre 2012, n. 198, ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui agli articoli da 2 a 7 entrano in vigore a decorrere dal novantesimo giorno successivo alla data di pubblicazione del presente decreto e, per effetto dell'articolo 11, comma 8, della legge 29 luglio 2010, n. 120, si applicano ai soli rimorchi immatricolati successivamente alla predetta data di entrata in vigore, fatta salva la facolta' di immatricolare nuovamente quelli gia' immessi in circolazione."
 
-###### Art. 260 (Art. 100 Cod. Str.) - Caratteristiche costruttive, dimensionali, fotometriche, cromatiche e di leggibilita' delle targhe. Requisiti di idoneita' per la loro accettazione
+##### Art. 260 (Art. 100 Cod. Str.) - Caratteristiche costruttive, dimensionali, fotometriche, cromatiche e di leggibilita' delle targhe. Requisiti di idoneita' per la loro accettazione
 
 1\. Il fondo delle targhe e' giallo per le targhe di immatricolazione delle macchine agricole semoventi o trainate, delle macchine operatrici semoventi o trainate e per tutte le targhe ripetitrici; e' bianco in tutti gli altri casi ad eccezione delle parti poste all'estremita' delle targhe per autoveicoli ((, loro rimorchi)) e motoveicoli. I caratteri ed il marchio ufficiale della Repubblica italiana sono neri, la sigla I e' bianca, ad eccezione dei casi di seguito indicati:
 
@@ -5514,17 +5498,17 @@ AGGIORNAMENTO (44)
 
 Il D.P.R. 28 settembre 2012, n. 198, ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui agli articoli da 2 a 7 entrano in vigore a decorrere dal novantesimo giorno successivo alla data di pubblicazione del presente decreto e, per effetto dell'articolo 11, comma 8, della legge 29 luglio 2010, n. 120, si applicano ai soli rimorchi immatricolati successivamente alla predetta data di entrata in vigore, fatta salva la facolta' di immatricolare nuovamente quelli gia' immessi in circolazione."
 
-###### Art. 261 (Artt. 100 e 101 Cod. Str.) - Modelli di targhe
+##### Art. 261 (Artt. 100 e 101 Cod. Str.) - Modelli di targhe
 
 1\. I modelli delle targhe sono depositati presso il Ministero dei trasporti ((e della navigazione)) - Direzione generale della M.C.T.C.
 
 2\. ((COMMA SOPPRESSO DAL D.P.R. 16 SETTEMBRE 1996, N. 610)).
 
-###### Art. 262 (Art. 100 Cod. Str.) - Marchio ufficiale
+##### Art. 262 (Art. 100 Cod. Str.) - Marchio ufficiale
 
 1\. Il marchio ufficiale, che le targhe di ogni tipo devono portare, e' costituito da una stella a cinque punte tra un ramo di olivo ed uno di quercia, della forma e dimensioni di cui alla figura III.5.
 
-###### Art. 263 (( (Art. 100 Cod. Str.)
+##### Art. 263 (( (Art. 100 Cod. Str.)
 
 (Proventi della maggiorazione del costo di produzione delle
 
@@ -5536,9 +5520,9 @@ a) nella misura non inferiore al 95% per studi di carattere tecnico, per pubblic
 
 b) in misura non eccedente il 5% per compensi al personale effettivamente addetto alle ricerche suddette, anche in relazione alla eventuale articolazione in turni delle relative sperimentazioni.))
 
-## § 3. CESSAZIONE DALLA CIRCOLAZIONE - (Art. 103 Codice della Strada)
+#### § 3. CESSAZIONE DALLA CIRCOLAZIONE - (Art. 103 Codice della Strada)
 
-###### Art. 264 (Art. 103 Cod. Str.) - Informazioni in tema di cessazione dalla circolazione
+##### Art. 264 (Art. 103 Cod. Str.) - Informazioni in tema di cessazione dalla circolazione
 
 1\. L'ufficio del P.R.A. da' comunicazione con le modalita' di cui all'articolo 245, della distruzione, demolizione o definitiva esportazione all'estero dei veicoli, all'ufficio provinciale della M.C.T.C., entro tre giorni dall'avvenuta registrazione delle relative formalita'.
 
@@ -5568,13 +5552,11 @@ AGGIORNAMENTO (63)
 
 Il D.Lgs. 3 settembre 2020, n. 119 ha disposto (con l'art. 2, comma 2) che "Il decreto del Presidente della Repubblica di cui all'articolo 1, comma 1, lettera m), e' adottato entro centottanta giorni dalla data di entrata in vigore del presente decreto. Fino alla data di entrata in vigore del predetto decreto del Presidente della Repubblica continuano ad applicarsi le disposizioni previste all'articolo 264 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495."
 
-## CAPO IV - CIRCOLAZIONE SU STRADA DELLE MACCHINE
+### CAPO IV - CIRCOLAZIONE SU STRADA DELLE MACCHINE AGRICOLE E DELLE MACCHINE OPERATRICI
 
-### AGRICOLE E DELLE MACCHINE OPERATRICI - § 1. DISPOSIZIONI SULLA CIRCOLAZIONE
+#### § 1. DISPOSIZIONI SULLA CIRCOLAZIONE - DI MACCHINE AGRICOLE ECCEZIONALI (Artt. 104-105 Codice della Strada)
 
-#### DI MACCHINE AGRICOLE ECCEZIONALI - (Artt. 104-105 Codice della Strada)
-
-###### Art. 265 (Art. 104 Cod. Str.)
+##### Art. 265 (Art. 104 Cod. Str.)
 
 (Pannelli di segnalazione delle macchine agricole eccezionali e delle
 
@@ -5584,7 +5566,7 @@ macchine agricole equipaggiate con attrezzature portate e semiportate).
 
 2\. Le macchine agricole, equipaggiate con attrezzature portate o semiportate che eccedono la sagoma del veicolo, devono essere segnalate con pannelli installati ed approvati secondo le modalita' stabilite con decreto del ((Ministero dei trasporti e della navigazione - Direzione generale della M.C.T.C.)).
 
-###### Art. 266 (Art. 104 Cod. Str.)
+##### Art. 266 (Art. 104 Cod. Str.)
 
 (Dispositivo supplementare di segnalazione visiva
 
@@ -5604,13 +5586,13 @@ L'angolo tra due zone di mascheramento non deve risultare inferiore a 20°. Piu'
 
 6\. Il dispositivo supplementare deve rimanere in funzione anche quando non e' obbligatorio l'uso dei dispositivi di segnalazione visiva e di illuminazione.
 
-###### Art. 267 (Art. 104 Cod. Str.) - Ripartizione delle masse delle macchine agricole eccezionali
+##### Art. 267 (Art. 104 Cod. Str.) - Ripartizione delle masse delle macchine agricole eccezionali
 
 1\. Per le macchine agricole semoventi eccezionali dovra' essere verificato che il rapporto tra la massa gravante sugli assi direttivi e quella gravante sui rimanenti assi non sia mai inferiore a 0,25, salvo quanto disposto al comma 2.
 
 2\. Tale rapporto non deve essere inferiore a 0,18 per le macchine agricole semoventi eccezionali aventi velocita' inferiori a 15 km/h ovvero a 0,15 per le macchine semicingolate.
 
-###### Art. 268
+##### Art. 268
 
 (( (Art. 104 Codice della strada) ))
 
@@ -5642,17 +5624,15 @@ Detta scorta puo' essere realizzata con autoveicoli di cui dispone l'impresa agr
 
 8\. Per i casi previsti dagli articoli 98 e 99 del codice, la durata massima dell'autorizzazione non puo' essere superiore rispettivamente a quattro mesi e a un mese; se dovuto, l'indennizzo d'usura e' valutato ai sensi del comma 6 e l'importo puo' essere versato in misura non inferiore a 1/3 ovvero a 1/12 di quello annuale. Per la circolazione ai sensi dell'articolo 98 del codice le domande di autorizzazione possono essere presentate da parte dei soggetti e per le finalita' di cui all'articolo 1, comma 1, del decreto del Presidente della Repubblica 24 novembre 2001, n. 474. In luogo della documentazione relativa al veicolo, esse possono essere corredate da una dichiarazione sostitutiva di atto di notorieta', sottoscritta dal legale rappresentante della ditta costruttrice, contenente le specifiche tecniche ed identificative di cui al comma 1; tale documentazione deve essere completata dalla copia del certificato della targa di prova o del foglio di via che accompagna la targa provvisoria di cui all'articolo 255. E', altresi', consentito che l'autorizzazione sia relativa alla circolazione di una determinata tipologia di macchina agricola eccezionale; in tal caso la durata dell'autorizzazione non puo' essere superiore a dodici mesi, deve riportare i limiti dimensionali e ponderali entro i quali la tipologia di macchina e' ammessa a circolare, e deve essere accompagnata, volta per volta, dalla copia della carta di circolazione, se trattasi di macchina agricola eccezionale gia' immatricolata, dalla copia del certificato di approvazione o di omologazione di cui all'articolo 76, commi 1 e 6, del codice se trattasi di macchina agricola eccezionale non ancora immatricolata, o da dichiarazione sostitutiva del costruttore, se trattasi di prototipo sperimentale, nonche' dal disegno d'insieme della macchina nella sua effettiva configurazione di marcia.))
 
-## § 2. COSTRUZIONE ED EQUIPAGGIAMENTO - DELLE MACCHINE AGRICOLE
+#### § 2. COSTRUZIONE ED EQUIPAGGIAMENTO - DELLE MACCHINE AGRICOLE (Art. 106 Codice della Strada)
 
-### (Art. 106 Codice della Strada)
-
-###### Art. 269 (Art. 106 Cod. Str.) - Blocco dei comandi dei sistemi di lavoro degli attrezzi delle macchine agricole
+##### Art. 269 (Art. 106 Cod. Str.) - Blocco dei comandi dei sistemi di lavoro degli attrezzi delle macchine agricole
 
 1\. I comandi del o dei sistemi di lavoro dei vari attrezzi non devono poter essere azionati involontariamente durante la marcia su strada delle macchine agricole.
 
 2\. Il sistema di lavoro, inoltre, deve poter essere bloccato con sistemi di sicura efficacia ed affidabilita', nella posizione individuata per la marcia su strada in sede di visita e prova.
 
-###### Art. 270 (Art. 106 Cod. Str.) - Campo di visibilita' e tergicristallo delle macchine agricole
+##### Art. 270 (Art. 106 Cod. Str.) - Campo di visibilita' e tergicristallo delle macchine agricole
 
 1\. Il campo di visibilita' delle macchine agricole semoventi di cui all'articolo 106, comma 1, del codice puo' essere verificato secondo le prescrizioni di cui all'allegato 3 del decreto del Presidente della Repubblica 10 febbraio 1981, n. 212 ovvero secondo le prescrizioni tecniche dettate in proposito dal Ministro dei trasporti.
 
@@ -5660,11 +5640,11 @@ Detta scorta puo' essere realizzata con autoveicoli di cui dispone l'impresa agr
 
 > \- Per il D.P.R. 10 febbraio 1981, n. 212, si veda in nota all'art. 209.
 
-###### Art. 271 (Art. 106 Cod. Str.) - Dispositivi di protezione in caso di capovolgimento delle trattrici agricole
+##### Art. 271 (Art. 106 Cod. Str.) - Dispositivi di protezione in caso di capovolgimento delle trattrici agricole
 
 1\. Le trattrici agricole a ruote devono essere equipaggiate con uno dei dispositivi di protezione del conducente in caso di capovolgimento, previsti dai decreti emanati per il recepimento delle specifiche direttive comunitarie ovvero dai codici emanati dall'Organizzazione per la Cooperazione e lo Sviluppo Economico (O.C.S.E.), seguendo le prescrizioni in essi contenute, in quanto applicabili, indipendentemente dalla velocita' sviluppata dalle trattrici stesse.
 
-###### Art. 272 (Art. 106 Cod. Str.) - Sedile per il conducente delle trattrici agricole
+##### Art. 272 (Art. 106 Cod. Str.) - Sedile per il conducente delle trattrici agricole
 
 1\. Il sedile per il conducente delle trattrici agricole a ruote con pneumatici deve corrispondere alle prescrizioni dell'allegato 11 del decreto del Presidente della Repubblica 10 febbraio 1981, n. 212 e successivi aggiornamenti.
 
@@ -5672,7 +5652,7 @@ Detta scorta puo' essere realizzata con autoveicoli di cui dispone l'impresa agr
 
 > \- Per il D.P.R. 10 febbraio 1981, n. 212, si veda in nota all'art. 209.
 
-###### Art. 273 (Art. 106 Cod. Str.) - Dispositivi di segnalazione visiva e di illuminazione delle macchine agricole
+##### Art. 273 (Art. 106 Cod. Str.) - Dispositivi di segnalazione visiva e di illuminazione delle macchine agricole
 
 1\. Le macchine agricole semoventi e trainate devono essere munite dei dispositivi di segnalazione visiva e di illuminazione di cui all'articolo 12, commi 1 e 2, del decreto ministeriale 4 maggio 1983.
 
@@ -5686,7 +5666,7 @@ Le caratteristiche di tali dispositivi, le quote di montaggio nonche' gli angoli
 
 > \- Per il D.P.R. 10 febbraio 1981, n. 212, si veda in nota all'art. 209.
 
-###### Art. 274 (Art. 106 Cod. Str.)
+##### Art. 274 (Art. 106 Cod. Str.)
 
 (Dispositivi di frenatura
 
@@ -5704,7 +5684,7 @@ delle macchine agricole semoventi)
 
 > \- Per il D.P.R. 10 febbraio 1981, n. 212, si veda in nota all'art. 209.
 
-###### Art. 275 (Art. 106 Cod. Str.)
+##### Art. 275 (Art. 106 Cod. Str.)
 
 (Massa rimorchiabile
 
@@ -5736,7 +5716,7 @@ d) 5 per le macchine agricole traenti a ruote gommate se il dispositivo di frena
 
 5\. Per massa della macchina agricola in ordine di marcia si intende la massa della macchina agricola con serbatoi e radiatori pieni, con conducente di massa di 75 kg, priva degli eventuali attrezzi portati o semiportati, delle zavorre e del piano di carico ((, qualora amovibile)).
 
-###### Art. 276 (Art. 106 Cod. Str.) - Dispositivi di frenatura dei rimorchi agricoli e delle macchine agricole operatrici trainate
+##### Art. 276 (Art. 106 Cod. Str.) - Dispositivi di frenatura dei rimorchi agricoli e delle macchine agricole operatrici trainate
 
 1\. Un rimorchio agricolo di massa complessiva a pieno carico fino a 1,5 t e' considerato parte integrante della trattrice agricola traente quando le dimensioni di ingombro, compresi gli organi di agganciamento, non superano 4,00 m di lunghezza e 2,00 m di larghezza.
 
@@ -5758,7 +5738,7 @@ d) 5 per le macchine agricole traenti a ruote gommate se il dispositivo di frena
 
 10\. Con provvedimento del Ministro dei trasporti, di concerto con il Ministro dell'agricoltura e delle foreste, possono essere stabilite prescrizioni diverse da quelle indicate nei commi precedenti.
 
-###### Art. 277 (Art. 106 Cod. Str.) - Efficienza della frenatura dei treni costituiti da macchine agricole
+##### Art. 277 (Art. 106 Cod. Str.) - Efficienza della frenatura dei treni costituiti da macchine agricole
 
 1\. Nei treni costituiti da una macchina agricola semovente, di cui all'articolo 57 del codice, e da una macchina agricola operatrice trainata priva di freni, di massa complessiva a pieno carico non superiore a quella della macchina agricola semovente, ovvero in quelli costituiti da una trattrice agricola e da un rimorchio agricolo considerato parte integrante delle trattrice stessa, ai sensi dell'articolo 276, comma 1, l'efficienza ottenuta con il dispositivo di frenatura di servizio deve garantire decelerazioni medie minime, riferite alle diverse velocita', quali risultano dalla tabella III.4 che fa parte integrante del presente regolamento.
 
@@ -5768,15 +5748,15 @@ d) 5 per le macchine agricole traenti a ruote gommate se il dispositivo di frena
 
 4\. Con provvedimento del Ministro dei trasporti, di concerto con il Ministro dell'agricoltura e delle foreste, possono essere stabilite prescrizioni diverse da quelle indicate nei commi precedenti.
 
-###### Art. 278 (Art. 106 Cod. Str.) - Dispositivo di sterzo delle macchine agricole
+##### Art. 278 (Art. 106 Cod. Str.) - Dispositivo di sterzo delle macchine agricole
 
 1\. Il dispositivo di sterzo delle macchine agricole semoventi, di cui all'articolo 57 del codice, deve rispondere alle prescrizioni riportate in tabelle di unificazione approvate dal Ministro dei trasporti.
 
-###### Art. 279 (Art. 106 Cod. Str.) - Fascia di ingombro delle macchine agricole eccezionali
+##### Art. 279 (Art. 106 Cod. Str.) - Fascia di ingombro delle macchine agricole eccezionali
 
 1\. Le macchine agricole semoventi, di cui all'articolo 57 del codice, ed i loro complessi, le cui dimensioni eccedono per esigenze funzionali quelle stabilite dall'articolo 104 del codice, devono inscriversi nella fascia d'ingombro stabilita dal Ministro dei trasporti con proprio provvedimento.
 
-###### Art. 280 (Art. 106 Cod. Str.) - Livelli sonori delle macchine agricole semoventi
+##### Art. 280 (Art. 106 Cod. Str.) - Livelli sonori delle macchine agricole semoventi
 
 1\. ((La determinazione del livello sonoro all'orecchio del conducente ed i relativi limiti ammissibili, in occasione dell'approvazione o dell'omologazione dei trattori agricoli a ruote, e' effettuata secondo)) le prescrizioni di cui all'allegato 8 del decreto del Presidente della Repubblica 10 febbraio 1981, n. 212 e successivi aggiornamenti.
 
@@ -5786,7 +5766,7 @@ d) 5 per le macchine agricole traenti a ruote gommate se il dispositivo di frena
 
 4\. I dispositivi di aspirazione e di scarico sono individuati mediante apposita punzonatura impressa sugli stessi dalla casa costruttrice.
 
-###### Art. 281 (Art. 106 Cod. Str.) - Dispositivi di segnalazione acustica delle macchine agricole semoventi
+##### Art. 281 (Art. 106 Cod. Str.) - Dispositivi di segnalazione acustica delle macchine agricole semoventi
 
 1\. Le macchine agricole semoventi, di cui all'articolo 57 del codice, devono essere munite di un dispositivo di segnalazione acustica le cui caratteristiche devono rispondere alle prescrizioni dell'allegato VIII del decreto del Presidente della Repubblica 11 gennaio 1980, n. 76 e successivi aggiornamenti.
 
@@ -5794,7 +5774,7 @@ d) 5 per le macchine agricole traenti a ruote gommate se il dispositivo di frena
 
 > \- Per il D.P.R. 11 gennaio 1980, n. 76, si veda in nota all'art. 280.
 
-###### Art. 282 (Art. 106 Cod. Str.)
+##### Art. 282 (Art. 106 Cod. Str.)
 
 (Dispositivo retrovisore
 
@@ -5802,7 +5782,7 @@ delle macchine agricole semoventi)
 
 1\. Il dispositivo retrovisore delle macchine agricole semoventi ((...)) di cui all'articolo 57 del codice, deve rispondere alle prescrizioni di cui all'allegato 2 del decreto del Presidente della Repubblica 10 febbraio 1981, n. 212 e successivi aggiornamenti.
 
-###### Art. 283 (Art. 106 Cod. Str.) - Sovrapattini delle macchine agricole cingolate
+##### Art. 283 (Art. 106 Cod. Str.) - Sovrapattini delle macchine agricole cingolate
 
 1\. I sovrapattini sono dispositivi di adattamento per la marcia su strada delle macchine cingolate, da applicarsi su tutte le suole dei cingoli muniti di costola di aggrappamento, allo scopo di impedire il danneggiamento del manto stradale. I sovrapattini possono essere interamente metallici o con elementi di gomma. L'area convenzionale di appoggio di un sovrapattino e' quella della superficie prevista per l'appoggio sul terreno supposto perfettamente rigido e piano; esso si misura convenzionalmente sul disegno del sovrapattino escludendo le superfici di raccordo.
 
@@ -5812,7 +5792,7 @@ delle macchine agricole semoventi)
 
 4\. Ai fini dell'ammissione alla circolazione su strada delle macchine cingolate, la pressione convenzionale di appoggio, determinata sulla base delle prescrizioni di cui al comma 3, non deve superare 6,5 daN/cm(Elevato al Quadrato).
 
-###### Art. 284 (Art. 106 Cod. Str.) - Ganci delle macchine agricole semoventi
+##### Art. 284 (Art. 106 Cod. Str.) - Ganci delle macchine agricole semoventi
 
 1\. I ganci di traino applicati alle macchine agricole semoventi si suddividono nelle seguenti categorie:
 
@@ -5836,7 +5816,7 @@ D3 - per il traino di macchine agricole aventi masse a pieno carico non superior
 
 3\. I tipi dei ganci devono essere approvati dal Ministero dei trasporti. Su ogni esemplare dei ganci devono essere indicati in maniera chiara, indelebile e facilmente visibile il marchio di fabbrica, la categoria cui il gancio appartiene, l'anno di fabbricazione e gli estremi della approvazione.
 
-###### Art. 285 (Art. 106 Cod. Str.) - Occhioni delle macchine agricole trainate
+##### Art. 285 (Art. 106 Cod. Str.) - Occhioni delle macchine agricole trainate
 
 1\. Gli occhioni applicati al timone delle macchine agricole trainate, si suddividono nelle seguenti categorie:
 
@@ -5860,11 +5840,11 @@ F3 - per macchine agricole trainate di massa a pieno carico non superiore a 2000
 
 3\. I tipi degli occhioni devono essere approvati dal Ministero dei trasporti - Direzione generale della M.C.T.C. Su ogni esemplare degli occhioni devono essere indicati in maniera chiara, indelebile e facilmente visibile il marchio di fabbrica, la categoria cui l'occhione appartiene, l'anno di fabbricazione e gli estremi dell'approvazione.
 
-###### Art. 286 (Art. 106 Cod. Str.) - Timoni delle macchine agricole trainate
+##### Art. 286 (Art. 106 Cod. Str.) - Timoni delle macchine agricole trainate
 
 1\. I timoni delle macchine agricole trainate devono avere caratteristiche dimensionali determinate in base a calcoli di progetto da effettuare secondo criteri tecnici fissati dal Ministero dei trasporti - Direzione generale della M.C.T.C.; il calcolo va fatto per ogni tipo di timone in base alla massa complessiva a pieno carico del tipo di veicolo cui il timone stesso e' destinato e deve tenere conto delle sollecitazioni che possono verificarsi nelle di- verse condizioni d'impiego nonche' delle caratteristiche del materiale.
 
-###### Art. 287 (Art. 106 Cod. Str.)
+##### Art. 287 (Art. 106 Cod. Str.)
 
 (Verifica per le macchine agricole della posizione del dispositivo di
 
@@ -5874,7 +5854,7 @@ traino nonche' del carico verticale ammissibile su di esso).
 
 2\. L'altezza del dispositivo nonche' le prescrizioni per le rela- tive verifiche e prove dovranno rispondere a tabelle di unificazione approvate dal Ministero dei trasporti - Direzione generale della M.C.T.C.
 
-###### Art. 288 (Art. 106 Cod. Str.)
+##### Art. 288 (Art. 106 Cod. Str.)
 
 (Inquinamento da gas di scarico
 
@@ -5886,7 +5866,7 @@ prodotto dalle macchine agricole)
 
 > \- Per il D.P.R. 10 febbraio 1981, n. 212, si veda in nota all'art. 209.
 
-###### Art. 289 (Art. 106 Cod. Str.)
+##### Art. 289 (Art. 106 Cod. Str.)
 
 (Caratteristiche costruttive e funzionali
 
@@ -5898,11 +5878,9 @@ delle macchine agricole)
 
 > \- Per la legge 3 marzo 1987, n. 59, si veda in nota all'art. 227.
 
-## § 3. CERTIFICATI DI IDONEITa' E DI OMOLOGAZIONE, - CARTA DI CIRCOLAZIONE DELLE MACCHINE AGRICOLE
+#### § 3. CERTIFICATI DI IDONEITa' E DI OMOLOGAZIONE, - CARTA DI CIRCOLAZIONE DELLE MACCHINE AGRICOLE (Artt. 107-110 Codice della Strada)
 
-### (Artt. 107-110 Codice della Strada)
-
-###### Art. 290 (Art. 107 Cod. Str.) - Definizione della potenza e determinazione delle curve caratteristiche dei motori installati su macchine agricole
+##### Art. 290 (Art. 107 Cod. Str.) - Definizione della potenza e determinazione delle curve caratteristiche dei motori installati su macchine agricole
 
 1\. Ai fini delle verifiche e delle prove, per potenza nominale del motore di una macchina agricola semovente, di cui all'articolo 57 del codice, s'intende la potenza massima misurata mediante un freno dinamometrico, accoppiato all'albero motore, in corrispondenza al numero dei giri ed al grado di alimentazione stabiliti dal costruttore per la produzione di serie.
 
@@ -5910,7 +5888,7 @@ delle macchine agricole)
 
 3\. Le curve caratteristiche del motore devono essere rilevate secondo le norme stabilite da tabelle approvate dal Ministero dei trasporti - Direzione generale della M.C.T.C..
 
-###### Art. 291 (Art. 107 Cod. Str.)
+##### Art. 291 (Art. 107 Cod. Str.)
 
 (Verifiche e prove
 
@@ -5988,7 +5966,7 @@ per l'omologazione delle macchine agricole)
 
 5\. Per l'omologazione dei tipi di macchine agricole e per le rela- tive procedure si applicano le norme dettate dal codice e dal presente regolamento in ordine all'omologazione dei tipi dei veicoli a motore e dei rimorchi.
 
-###### Art. 292 (Art. 107 Cod. Str.)
+##### Art. 292 (Art. 107 Cod. Str.)
 
 (Macchine agricole operatrici trainate
 
@@ -6004,7 +5982,7 @@ c) gli erpici.
 
 2\. Con provvedimento del Ministro dei trasporti, di concerto con il Ministro dell'agricoltura e delle foreste, possono essere individuate altre categorie di macchine agricole operatrici trainate escluse dall'obbligo suddetto. Con lo stesso provvedimento sono individuate le modalita' e le cautele per la circolazione delle macchine suddette.
 
-###### Art. 293 (Art. 108 Cod. Str.)
+##### Art. 293 (Art. 108 Cod. Str.)
 
 (Carta di circolazione e certificato di idoneita' tecnica
 
@@ -6032,7 +6010,7 @@ c) caratteristiche tecniche del veicolo.
 
 3\. Il Ministro dei trasporti, con proprio provvedimento, puo' stabilire eventuali altri elementi che devono essere contenuti nella carta di circolazione e nel certificato di idoneita' tecnica, nonche' le modalita' esecutive delle presenti norme.
 
-###### Art. 294 (Art. 110 Cod. Str.)
+##### Art. 294 (Art. 110 Cod. Str.)
 
 (Immatricolazione, rilascio della carta di circolazione e del
 
@@ -6050,25 +6028,25 @@ Nel caso di enti o consorzi pubblici, la dichiarazione di titolarita' e' rilasci
 
 4\. Il trasferimento di proprieta' delle macchine agricole, di cui all'articolo 57 del codice, puo' avvenire solo a favore dei soggetti in possesso della dichiarazione citata al comma 3 e viene annotato sugli appositi registri della Direzione generale della M.C.T.C., secondo le procedure dalla stessa stabilite.
 
-## § 4. REVISIONE DELLE MACCHINE AGRICOLE - (Art. 111 Codice della Strada)
+#### § 4. REVISIONE DELLE MACCHINE AGRICOLE - (Art. 111 Codice della Strada)
 
-###### Art. 295 (Art. 111 Cod. Str.) - Revisione delle macchine agricole in circolazione
+##### Art. 295 (Art. 111 Cod. Str.) - Revisione delle macchine agricole in circolazione
 
 1\. Le revisioni delle macchine agricole soggette ad immatricolazione sono stabilite con provvedimento del Ministro dei trasporti, di concerto con il Ministro dell'agricoltura e delle foreste, con periodicita' non inferiori a cinque anni, a partire dalla data di prima immatricolazione delle macchine agricole stesse.
 
 2\. I requisiti minimi di sicurezza, da accertare con le modalita' prescritte dal provvedimento di cui al comma 1, sono, in quanto applicabili, i medesimi dei veicoli di pari massa complessiva, stabiliti nelle appendici VIII e IX al presente titolo.
 
-## § 5. CIRCOLAZIONE DELLE MACCHINE OPERATRICI - (Art. 114 Codice della Strada)
+#### § 5. CIRCOLAZIONE DELLE MACCHINE OPERATRICI - (Art. 114 Codice della Strada)
 
-###### Art. 296 (Art. 114 Cod. Str.) - Segnalazione delle macchine operatrici eccezionali
+##### Art. 296 (Art. 114 Cod. Str.) - Segnalazione delle macchine operatrici eccezionali
 
 1\. Le macchine operatrici, che, per necessita' funzionali, eccedono le dimensioni previste dall'articolo 114 del codice, devono essere segnalate con pannelli approvati secondo le modalita' stabilite dal ((Ministero dei trasporti e della navigazione - Direzione generale della M.C.T.C.)). Il ((Ministero dei trasporti e della navigazione - Direzione generale della M.C.T.C.)) stabilisce le prescrizioni concernenti il numero ed il montaggio dei pannelli suddetti nonche' le eventuali altre segnalazioni ritenute necessarie.
 
-###### Art. 297 (Art. 114 Cod. Str.) - Campo di visibilita' delle macchine operatrici
+##### Art. 297 (Art. 114 Cod. Str.) - Campo di visibilita' delle macchine operatrici
 
 1\. Il campo di visibilita' delle macchine operatrici, di cui all'articolo 58 del codice, deve essere verificato secondo le prescrizioni tecniche dettate in proposito dal Ministro dei trasporti con proprio decreto.
 
-###### Art. 298 (Art. 114 Cod. Str.) - Registrazione e targatura delle macchine operatrici
+##### Art. 298 (Art. 114 Cod. Str.) - Registrazione e targatura delle macchine operatrici
 
 1\. Le macchine operatrici, ammesse a circolare su strada ai sensi dell'articolo 114 del codice, devono essere immatricolate presso un ufficio provinciale della Direzione generale della M.C.T.C., che provvede al rilascio della carta di circolazione e della relativa targa a colui che dichiari di essere il proprietario del veicolo.
 
@@ -6080,17 +6058,17 @@ Nel caso di enti o consorzi pubblici, la dichiarazione di titolarita' e' rilasci
 
 5\. Il proprietario della macchina operatrice data in permuta deve comunicare ad un ufficio provinciale della Direzione generale della M.C.T.C. la temporanea cessazione dalla circolazione della macchina operatrice stessa indicando il depositario del mezzo e la sua sede.
 
-###### Art. 299 (Art. 114 Cod. Str.) - Macchine operatrici: dispositivo antincastro
+##### Art. 299 (Art. 114 Cod. Str.) - Macchine operatrici: dispositivo antincastro
 
 1\. Le macchine operatrici, assimilabili costruttivamente ((ai veicoli della categoria N od O)), devono essere equipaggiate con i dispositivi antincastro in conformita' di quanto disposto dalla normativa in vigore per gli stessi ((veicoli)).
 
 2\. E' ammessa deroga all'obbligo del montaggio del dispositivo antincastro qualora la sua presenza sia incompatibile con l'utilizzazione della macchina operatrice oppure quando la sua funzione puo' essere svolta con altro dispositivo di equivalente efficacia.
 
-###### Art. 300 (Art. 114 Cod. Str.) - Organi di traino delle macchine operatrici ed accertamento della massa massima rimorchiabile
+##### Art. 300 (Art. 114 Cod. Str.) - Organi di traino delle macchine operatrici ed accertamento della massa massima rimorchiabile
 
 1\. Le macchine operatrici semoventi, qualora abilitate al traino, e le macchine operatrici trainate devono essere equipaggiate con idonei organi di traino secondo le prescrizioni dettate dal Ministro dei trasporti con proprio provvedimento. Con lo stesso decreto sono dettate le modalita' di accertamento della massa massima rimorchiabile.
 
-###### Art. 301 (Art. 114 Cod. Str.)
+##### Art. 301 (Art. 114 Cod. Str.)
 
 (Dispositivi di frenatura
 
@@ -6110,7 +6088,7 @@ delle macchine operatrici semoventi)
 
 > \- Per la direttiva 71/320 CEE si veda in nota all'art. 9.
 
-###### Art. 302 (Art. 114 Cod. Str.)
+##### Art. 302 (Art. 114 Cod. Str.)
 
 (Dispositivi di frenatura
 
@@ -6124,7 +6102,7 @@ delle macchine operatrici trainate)
 
 4\. Ogni macchina operatrice trainata di massa complessiva a pieno carico superiore a 1,5 t deve essere munita di un dispositivo di frenatura di stazionamento avente le stesse caratteristiche indicate all'articolo 276, comma 8.
 
-###### Art. 303 (Art. 114 Cod. Str.)
+##### Art. 303 (Art. 114 Cod. Str.)
 
 (( Masse massime e ripartizioni delle stesse sugli assi ))
 
@@ -6138,13 +6116,13 @@ b) 15 km/h per le masse superiori a 18 t.
 
 ((3.)) ((Le masse indicate al comma 2)) sono ammesse anche su assi contigui, purche' la distanza tra essi sia superiore a 1,20 m. Tali assi devono essere muniti di sospensioni elastiche e devono poter compensare tra loro il carico per dislivelli reciproci di 10 cm; il massimo travaso di carico non deve superare il (Piu' o Meno) 25% della massa che grava su ogni asse nella condizione di complanarita'.
 
-###### Art. 304 (Art. 114 Cod. Str.) - Revisione delle macchine operatrici in circolazione
+##### Art. 304 (Art. 114 Cod. Str.) - Revisione delle macchine operatrici in circolazione
 
 1\. Le revisioni delle macchine operatrici soggette ad immatricolazione sono stabilite con provvedimento del Ministro dei trasporti, con periodicita' non inferiore a cinque anni a partire dalla data di prima immatricolazione delle macchine operatrici stesse.
 
 2\. I requisiti minimi di sicurezza, da accertare con le modalita' prescritte dal provvedimento di cui al comma 1 sono, in quanto applicabili, i medesimi dei veicoli di pari massa complessiva stabiliti nelle appendici VIII e IX al presente titolo.
 
-###### Art. 305 (Art. 114 Cod. Str.)
+##### Art. 305 (Art. 114 Cod. Str.)
 
 (Caratteristiche costruttive e funzionali
 
@@ -6152,7 +6130,7 @@ delle macchine operatrici)
 
 1\. Il Ministro dei trasporti ((e della navigazione)), con proprio provvedimento, in relazione ad esigenze costruttive e funzionali delle macchine operatrici ((a ruote o cingolate)), puo' stabilire caratteristiche costruttive e funzionali ((a integrazione o modificazione di)) quelle indicate nel presente regolamento per le macchine stesse.
 
-###### Art. 306 (Art. 114 Cod. Str.) - Norme di richiamo
+##### Art. 306 (Art. 114 Cod. Str.) - Norme di richiamo
 
 1\. Alle macchine operatrici, di cui all'articolo 58 del codice, si applicano le seguenti disposizioni relative alle macchine agricole:
 
@@ -6188,19 +6166,17 @@ q) articolo 291, commi 1 e 2 (ad esclusione dei punti 2.6, 2.7, 2.8, 2.18, 2.19 
 
 r) articolo 293, commi 1 e 3 (carta di circolazione).
 
-## Titolo IV - GUIDA DEI VEICOLI
+## Titolo IV - GUIDA DEI VEICOLI E CONDUZIONE DEGLI ANIMALI
 
-### E CONDUZIONE DEGLI ANIMALI - § 1. PATENTE DI GUIDA
+#### § 1. PATENTE DI GUIDA - (Artt. 115-121 Codice della Strada) A) Disposizioni generali sulla patente e sul CAP (Artt. da 115 a 118 Codice della Strada)
 
-#### (Artt. 115-121 Codice della Strada) - A) Disposizioni generali sulla patente e sul CAP (Artt. da 115 a 118 Codice della Strada)
-
-###### Art. 307 (Art. 115 Cod. Str.) - Attestato di idoneita' psicofisica
+##### Art. 307 (Art. 115 Cod. Str.) - Attestato di idoneita' psicofisica
 
 1\. Lo specifico attestato di cui all'articolo 115, comma 2, lettera b), del codice, e' rilasciato dalla commissione medica locale di cui all'articolo 119, comma 4, del codice, medesimo a seguito di visita medica specialistica rivolta ad accertare la persistenza dei requisiti fisici e psichici richiesti.
 
 2\. L'attestato di cui al comma 1, conforme al modello IV.1, che fa parte integrante del presente regolamento, se accompagnato dalla patente di guida in corso di validita' e, ove ricorra il caso, dal certificato di abilitazione professionale, consente la guida di autobus, autocarri, autotreni, autoarticolati, autosnodati adibiti a trasporto di persone, per il periodo di un anno a partire dalla data di rilascio dell'attestato ovvero nei piu' ridotti limiti temporali indicati nell'attestato stesso.
 
-###### Art. 308 (Art. 116 Cod. Str.)
+##### Art. 308 (Art. 116 Cod. Str.)
 
 (Modello e caratteristiche della patente di guida ((- Guida dei
 
@@ -6220,7 +6196,7 @@ Le altre caratteristiche sono riportate nel modello IV.2, che fa parte integrant
 
 ((4. Le disposizioni di cui all'articolo 116, commi 3 e 4, del codice, si applicano anche nel caso di complessi formati da autoveicolo, anche non classificato per il soccorso stradale, e da rimorchio costituito da veicolo in avaria. E' sufficiente che il conducente del complesso sia in possesso della sola patente di guida del veicolo traente isolato, quando venga rimorchiato un autoveicolo su cui sia presente altro conducente, munito della relativa patente di guida ed in grado di azionare i dispositivi di frenatura e di sterzo del veicolo trainato, cosi' da costituire valido ausilio per la corretta marcia del complesso stesso.))
 
-###### Art. 309 (Art. 116 Cod. Str.) - Annotazione del gruppo sanguigno
+##### Art. 309 (Art. 116 Cod. Str.) - Annotazione del gruppo sanguigno
 
 ((1. Il gruppo sanguigno di appartenenza del titolare, qualora annotato sulla patente di guida, e' riportato nell'apposito spazio a cio' destinato, come risulta a pagina 2 del modello IV.2.))
 
@@ -6230,7 +6206,7 @@ Le altre caratteristiche sono riportate nel modello IV.2, che fa parte integrant
 
 4\. Il titolare e' tenuto a verificare, all'atto del ritiro della patente, sia nel caso di primo rilascio che in quelli di estensione o duplicato, l'esattezza dell'indicazione relativa al gruppo sanguigno ((, qualora annotato,)) per lettura diretta della scheda originale in suo possesso ed a chiederne la rettifica, in caso di constatato errore, all'ufficio provinciale della M.C.T.C.
 
-###### Art. 310 (Art. 116 Cod. Str.) - Tipi di certificati di abilitazione professionale: CAP
+##### Art. 310 (Art. 116 Cod. Str.) - Tipi di certificati di abilitazione professionale: CAP
 
 1\. I certificati di abilitazione professionale (CAP), di cui all'art. 116, comma 8, del codice, sono dei seguenti tipi:
 
@@ -6276,7 +6252,7 @@ AGGIORNAMENTO (10)
 
 La L. 27 dicembre 1997, n. 449 ha disposto (con l'art. 17, comma 26) che e' soppresso il certificato di abilitazione professionale del tipo KE di cui agli articoli 310 e seguenti del presente decreto, e successive modificazioni ed integrazioni.
 
-###### Art. 311 - Art. 116 Cod. Str.
+##### Art. 311 - Art. 116 Cod. Str.
 
 (Requisiti per il rilascio del CAP)
 
@@ -6316,7 +6292,7 @@ AGGIORNAMENTO (10)
 
 La L. 27 dicembre 1997, n. 449 ha disposto (con l'art. 17, comma 26) che e' soppresso il certificato di abilitazione professionale del tipo KE di cui agli articoli 310 e seguenti del presente decreto, e successive modificazioni ed integrazioni.
 
-###### Art. 312 (Art. 116 Cod. Str.) - Programma d'esame per il conseguimento dei certificati di abilitazione professionale
+##### Art. 312 (Art. 116 Cod. Str.) - Programma d'esame per il conseguimento dei certificati di abilitazione professionale
 
 1\. Gli argomenti del programma di esame per il conseguimento del certificato di abilitazione professionale sono quelli indicati nell'appendice I' al presente titolo. ((10))
 
@@ -6326,7 +6302,7 @@ AGGIORNAMENTO (10)
 
 La L. 27 dicembre 1997, n. 449 ha disposto (con l'art. 17, comma 26) che e' soppresso il certificato di abilitazione professionale del tipo KE di cui agli articoli 310 e seguenti del presente decreto, e successive modificazioni ed integrazioni.
 
-###### Art. 313 (Art. 116 Cod. Str.)
+##### Art. 313 (Art. 116 Cod. Str.)
 
 (Modalita' di rilascio e relativa validita'.
 
@@ -6354,7 +6330,7 @@ AGGIORNAMENTO (10)
 
 La L. 27 dicembre 1997, n. 449 ha disposto (con l'art. 17, comma 26) che e' soppresso il certificato di abilitazione professionale del tipo KE di cui agli articoli 310 e seguenti del presente decreto, e successive modificazioni ed integrazioni.
 
-###### Art. 314 (Art. 116 Cod. Str.) - Rilascio del CAP per conversione di documento estero
+##### Art. 314 (Art. 116 Cod. Str.) - Rilascio del CAP per conversione di documento estero
 
 1\. I titolari di patente estera possono, a domanda, ottenere il certificato di abilitazione professionale in occasione della conversione della patente estera in patente nazionale, qualora dalla patente estera, ovvero dalla stessa corredata dal relativo certificato di abilitazione professionale, risulti che sono abilitati a condurre i veicoli adibiti ai trasporti, elencati nell'articolo 310.
 
@@ -6366,7 +6342,7 @@ AGGIORNAMENTO (10)
 
 La L. 27 dicembre 1997, n. 449 ha disposto (con l'art. 17, comma 26) che e' soppresso il certificato di abilitazione professionale del tipo KE di cui agli articoli 310 e seguenti del presente decreto, e successive modificazioni ed integrazioni.
 
-###### Art. 315 (Art. 116 Cod. Str.) - Certificato di formazione professionale relativo alle merci pericolose
+##### Art. 315 (Art. 116 Cod. Str.) - Certificato di formazione professionale relativo alle merci pericolose
 
 1\. Ai conducenti che effettuano trasporti nazionali ed internazionali su strada di merci pericolose, il certificato di formazione professionale, conforme al modello approvato dal Ministro dei trasporti e della navigazione, e' rilasciato in base a quanto disposto in materia con la legge 19 febbraio 1992, n. 142. ((10))
 
@@ -6376,7 +6352,7 @@ AGGIORNAMENTO (10)
 
 La L. 27 dicembre 1997, n. 449 ha disposto (con l'art. 17, comma 26) che e' soppresso il certificato di abilitazione professionale del tipo KE di cui agli articoli 310 e seguenti del presente decreto, e successive modificazioni ed integrazioni.
 
-###### Art. 316 (Art. 117 Cod. Str.) - Limitazioni nella guida
+##### Art. 316 (Art. 117 Cod. Str.) - Limitazioni nella guida
 
 1\. Ai fini del controllo dell'osservanza delle limitazioni della guida di cui all'articolo 117 del codice, le carte di circolazione dei motocicli devono contenere l'indicazione della potenza massima espressa in chilowatt e della potenza specifica, riferita alla tara, espressa in chilowatt per chilogrammo. ((PERIODO SOPPRESSO DAL D.L. 1 APRILE 1995, N. 98, CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 1995, N. 204)).
 
@@ -6384,7 +6360,7 @@ La L. 27 dicembre 1997, n. 449 ha disposto (con l'art. 17, comma 26) che e' sopp
 
 3\. ((COMMA SOPPRESSO DAL D.L. 1 APRILE 1995, N. 98, CONVERTITO CON MODIFICAZIONI DALLA L. 30 MAGGIO 1995, N. 204)).
 
-###### Art. 317 (Art. 118 Cod. Str.)
+##### Art. 317 (Art. 118 Cod. Str.)
 
 (Esami per il conseguimento del certificato di idoneita'
 
@@ -6416,7 +6392,7 @@ d) dei provvedimenti di urgenza da adottare in caso di guasti.
 
 9\. Previo rinnovo della domanda e delle certificazioni, i candidati che hanno sostenuto gli esami con esito non favorevole possono ripresentarsi ad un successivo esame solo dopo che sia stato ripetuto il periodo di esercitazioni e sia trascorso almeno un mese.
 
-###### Art. 318 (Art. 118 Cod. Str.)
+##### Art. 318 (Art. 118 Cod. Str.)
 
 (Rilascio del certificato di idoneita' alla guida di filoveicoli) 1. Il direttore dell'Ufficio Speciale Trasporti Impianti Fissi (USTIF) della Direzione generale della M.C.T.C. rilascia, ai candidati che hanno superato gli esami, un certificato di idoneita' alle funzioni di guidatore di filoveicoli, conforme al modello approvato dal Ministro dei trasporti ((e della navigazione)), che e' valido solo se accompagnato dalla patente ((di guida per autoveicoli e dall'eventuale certificato di abilitazione professionale, secondo quanto prescritto dall'articolo 118, commi 1 e 2)), del codice. I certificati di idoneita' rilasciati in base alla normativa precedentemente in vigore conservano la loro validita'.
 
@@ -6424,7 +6400,7 @@ d) dei provvedimenti di urgenza da adottare in caso di guasti.
 
 ## B) Requisiti per il rilascio della patente di guida (Artt. da 119 a - 121 Codice della Strada)
 
-###### Art. 319 (Art. 119 Cod. Str.) - Requisiti fisici e psichici per il conseguimento, la revisione e la conferma di validita' della patente di guida
+##### Art. 319 (Art. 119 Cod. Str.) - Requisiti fisici e psichici per il conseguimento, la revisione e la conferma di validita' della patente di guida
 
 1\. Per il conseguimento, la revisione o la conferma di validita' della patente di guida per autoveicoli o motoveicoli occorre che il richiedente, all'accertamento sanitario praticato con i comuni esami clinici e con gli accertamenti specialistici ritenuti necessari, non risulti affetto da malattia fisica o psichica, deficienza organica o minorazione psichica, anatomica o funzionale, tale da impedire di condurre con sicurezza ((i tipi)) di veicoli alla guida dei quali la patente abilita ((...)).
 
@@ -6438,17 +6414,17 @@ d) dei provvedimenti di urgenza da adottare in caso di guasti.
 
 ((5.)) Il medico accertatore di cui all'articolo 119, comma 2, del codice, effettua la visita medica di idoneita' alla guida presso la struttura pubblica di appartenenza o comunque all'interno ((di gabinetti medici dotati delle attrezzature necessarie allo scopo.))
 
-###### Art. 320 (Art. 119 Cod. Str.) - Malattie invalidanti
+##### Art. 320 (Art. 119 Cod. Str.) - Malattie invalidanti
 
 1\. Le malattie ed affezioni riportate nell'appendice II al presente titolo, con le specificazioni per ognuna di esse indicate nell'appendice medesima, escludono la possibilita' di rilascio del certificato di idoneita' alla guida.
 
-###### Art. 321 (Art. 119 Cod. Str.) - Efficienza degli arti
+##### Art. 321 (Art. 119 Cod. Str.) - Efficienza degli arti
 
 1\. Non possono conseguire o ottenere la conferma di validita' della ((...)) patente di guida coloro che presentino, in uno o piu' arti, alterazioni anatomiche o funzionali invalidanti. Sono da giudicare invalidanti, ai fini della guida, le alterazioni anatomiche o funzionali, considerate singolarmente e nel loro insieme, tali da menomare la forza o la rapidita' dei movimenti necessari per eseguire con sicurezza tutte le manovre inerenti alla guida di quei determinati tipi di veicoli ai quali la patente abilita.
 
 2\. Ai fini del presente articolo l'efficienza degli arti deve essere valutata senza l'uso di apparecchi di protesi od ortesi.
 
-###### Art. 322 (Art. 119 Cod. Str.) - Requisiti visivi
+##### Art. 322 (Art. 119 Cod. Str.) - Requisiti visivi
 
 1\. Per il conseguimento, la conferma di validita' o la revisione della patente di guida per motoveicoli ed autoveicoli di qualsiasi categoria e' necessario che il richiedente possegga campo visivo normale e senso cromatico sufficiente per distinguere rapidamente e con sicurezza i colori in uso nella segnaletica stradale, una sufficiente visione notturna e la visione binoculare.
 
@@ -6476,7 +6452,7 @@ d) dei provvedimenti di urgenza da adottare in caso di guasti.
 
 13\. Nel caso in cui la riduzione del visus o degli altri parametri oculari dipenda da una malattia dell'apparato visivo il certificato dovra' essere rilasciato dalla commissione medica locale la quale potra' indicare l'opportunita' che la validita' della patente sia ridotta ad un periodo non superiore a due anni.
 
-###### Art. 323 (Art. 119 Cod. Str.) - Requisiti uditivi
+##### Art. 323 (Art. 119 Cod. Str.) - Requisiti uditivi
 
 1\. Per il conseguimento, la conferma di validita' o la revisione della patente di guida per motoveicoli ed autoveicoli delle categorie A e B occorre percepire da ciascun orecchio la voce di conversazione con fonemi combinati a non meno di due metri di distanza.
 
@@ -6486,13 +6462,13 @@ L'efficienza delle protesi deve essere attestata dal costruttore con certificazi
 
 3\. Per il conseguimento, la conferma di validita' o la revisione della patente di guida per autoveicoli delle categorie C, D, E occorre percepire la voce di conversazione con fonemi combinati a non meno di otto metri di distanza complessivamente e a non meno di due metri dall'orecchio che sente di meno, con valutazione della funzione uditiva senza l'uso di apparecchi correttivi.
 
-###### Art. 324 (( (Art. 119 Cod. Str.) - Valutazione psicodiagnostica e test psicoattitudinali
+##### Art. 324 (( (Art. 119 Cod. Str.) - Valutazione psicodiagnostica e test psicoattitudinali
 
 1\. Per il conseguimento, la conferma di validita' o per la revisione della patente di guida per autoveicoli delle categorie C, D ed E e per le patenti speciali delle categorie C e D, sono richiesti tempi di reazione a stimoli semplici e complessi, luminosi ed acustici, sufficientemente rapidi e regolari per poter essere classificati almeno nel quarto decile della scala decilica di classificazione.
 
 2\. Nel caso sia richiesta, ai sensi dell'articolo 119, comma 9, del codice, una valutazione psicodiagnostica, devono essere effettuate, oltre alle prove di cui al comma 1, anche altre prove di attenzione, di percezione e, su specifica indicazione del medico o della commissione medica richiedente, prove di valutazione della personalita'. In ogni caso gli psicologi che procedono alle valutazioni previste dal presente articolo devono essere in possesso, oltre che dei requisiti di cui all'articolo 119, comma 9, del codice, di una specifica formazione nel settore della sicurezza stradale.))
 
-###### Art. 325 (Art. 119 Cod. Str.) - Requisiti visivi per il conseguimento, la conferma e la revisione della patente speciale delle categorie ((A, B, C e D))
+##### Art. 325 (Art. 119 Cod. Str.) - Requisiti visivi per il conseguimento, la conferma e la revisione della patente speciale delle categorie ((A, B, C e D))
 
 1\. Possono conseguire o ottenere la conferma di validita' o essere sottoposti alla revisione della patente speciale delle categorie A e B:
 
@@ -6514,7 +6490,7 @@ d) coloro che raggiungono i minimi di visus prescritti dalle lettere a), b) e c)
 
 6\. Per il conseguimento, la conferma di validita' o la revisione ((delle patenti speciali di categoria C e D)), i requisiti visivi richiesti sono gli stessi di quelli previsti per il conseguimento, la conferma di validita' o per la revisione ((delle patenti di guida di categoria C e D.))
 
-###### Art. 326 (Art. 119 Cod. Str.) - Requisiti uditivi per il conseguimento, la conferma e la revisione della patente speciale delle categorie ((A, B, C e D))
+##### Art. 326 (Art. 119 Cod. Str.) - Requisiti uditivi per il conseguimento, la conferma e la revisione della patente speciale delle categorie ((A, B, C e D))
 
 1\. Possono conseguire, ottenere la conferma di validita' o essere sottoposti a revisione della patente speciale delle categorie A e B, coloro che non raggiungono i requisiti uditivi richiesti per la patente di guida ((...)) della categoria A e B, purche' i veicoli siano muniti su ambedue i lati di specchi retrovisori di superficie e caratteristiche non inferiori a quelle prescritte per lo specchio esterno d'obbligo.
 
@@ -6524,7 +6500,7 @@ d) coloro che raggiungono i minimi di visus prescritti dalle lettere a), b) e c)
 
 4\. Le caratteristiche tecniche delle protesi, e la loro efficienza, devono essere attestate dal costruttore con certificazione, rilasciata in data non anteriore a tre mesi, da esibire all'organo medico che procede all'accertamento dell'idoneita' fisica.
 
-###### Art. 327 (Art. 119 Cod. Str.)
+##### Art. 327 (Art. 119 Cod. Str.)
 
 (Requisiti relativi agli arti e alla colonna vertebrale, per il
 
@@ -6544,7 +6520,7 @@ delle categorie A, B, C e D)
 
 6\. La commissione medica locale nel valutare la possibilita' del rilascio di patenti speciali ai portatori di piu' minorazioni rela- tive a piu' organi o apparati considera lo stato psicofisico complessivo del soggetto, e puo' fissare un periodo di validita' minore di quello massimo previsto dall'articolo 126 del codice.
 
-###### Art. 328 (Art. 119 Cod. Str.)
+##### Art. 328 (Art. 119 Cod. Str.)
 
 (Requisiti relativi ad anomalie somatiche per il conseguimento,
 
@@ -6554,7 +6530,7 @@ categorie ((A, B, C e D)) )
 
 1\. Coloro che, per anomalie della conformazione o dello sviluppo somatico non possono eseguire agevolmente e con sicurezza tutte le manovre inerenti alla guida di quei determinati tipi di veicoli ai quali la patente abilita, possono conseguire, ottenere la conferma di validita' o essere sottoposti a revisione della patente speciale delle categorie ((A, B, C e D)), purche' i veicoli siano adattati secondo le loro esigenze ovvero presentino caratteristiche costruttive tali da rendere superfluo l'adattamento.
 
-###### Art. 329 (Art. 119 Cod. Str.)
+##### Art. 329 (Art. 119 Cod. Str.)
 
 ((Patenti speciali delle categorie C e D))
 
@@ -6564,7 +6540,7 @@ categorie ((A, B, C e D)) )
 
 3\. Le limitazioni devono essere riportate sulla patente; in questa deve essere precisato quale protesi o ortesi sia prescritta, ove ricorra, e quale adattamento sia richiesto sul veicolo.
 
-###### Art. 330 (Art. 119 Cod. Str.) - Commissioni mediche locali
+##### Art. 330 (Art. 119 Cod. Str.) - Commissioni mediche locali
 
 1\. Le commissioni mediche locali sono costituite con provvedimento del presidente della regione o delle province autonome di Trento e di Bolzano, presso i servizi dell'Azienda sanitaria locale, che svolgono funzioni in materia medico-legale.
 
@@ -6604,7 +6580,7 @@ L'istituzione di tali commissioni, richiesta dal sindaco del capoluogo di provin
 
 17\. Il Ministro della salute, di concerto con il Ministro dell'economia e finanze, sentiti il Ministro delle infrastrutture e dei trasporti e la Conferenza permanente per i rapporti tra lo Stato, le Regioni e le Province autonome di Trento e di Bolzano, determina i diritti dovuti dagli utenti per le operazioni di competenza delle commissioni mediche locali, le quote da destinare per le spese di funzionamento delle stesse, comprese quelle relative all'ufficio di segreteria, nonche' le quote per gli emolumenti ed i rimborsi di spese ai componenti delle commissioni medesime. La misura dei diritti dovuti dagli utenti deve essere determinata in modo tale da garantire l'integrale copertura delle spese di funzionamento delle suddette commissioni.
 
-###### Art. 331 (( (Art. 119 cod. str.) ))
+##### Art. 331 (( (Art. 119 cod. str.) ))
 
 (( (Attestazione dei requisiti di idoneita' psicofisica alla guida di veicoli a motore).))
 
@@ -6620,7 +6596,7 @@ AGGIORNAMENTO (59)
 
 Il D.P.R. 28 marzo 2019, n. 54 ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente regolamento si applicano dal 1° giugno 2019".
 
-###### Art. 332 (Art. 121 Cod. Str.)
+##### Art. 332 (Art. 121 Cod. Str.)
 
 (( Competenze dei dipendenti del Dipartimento per i trasporti, la navigazione, gli affari generali ed il personale del Ministero delle infrastrutture e dei trasporti in materia di esami di idoneita')) ((1. Ferme restando le autorizzazioni ad effettuare esami di guida rilasciate in conformita' alla normativa dell'Unione europea anteriormente al 19 gennaio 2013 e le autorizzazioni ad effettuare esami di guida di cui all'Allegato IV, paragrafo 2-bis, punti 2-bis.1, 2-bis.2 e 2-bis.3, del decreto legislativo 18 aprile 2011, n. 59, come modificato dall'articolo 11 della legge 29 luglio 2015, n. 115, gli esami di idoneita' di cui agli articoli 118, 121, 128 e 168 del codice, nonche' le prove per il conseguimento del certificato di abilitazione professionale di tipo KA e KB e della carta di qualificazione del conducente sono effettuati dai dipendenti in servizio presso il Dipartimento per i trasporti, la navigazione, gli affari generali ed il personale del Ministero delle infrastrutture e dei trasporti, secondo il quadro di riferimento di cui alla tabella IV.1, che fa parte integrante del presente regolamento.))
 
@@ -6628,7 +6604,7 @@ Il D.P.R. 28 marzo 2019, n. 54 ha disposto (con l'art. 3, comma 1) che "Le dispo
 
 3\. Nell'eventualita' di innovazioni nell'ordinamento giuridico del personale, il Ministro ((delle infrastrutture e dei trasporti)) provvede a stabilire l'equiparazione tra i profili professionali precedenti e le figure professionali del nuovo ordinamento.
 
-###### Art. 333 (Art. 121 Cod. Str.)
+##### Art. 333 (Art. 121 Cod. Str.)
 
 ( ((Esami con veicoli muniti di doppi comandi.)) Modalita'
 
@@ -6638,15 +6614,15 @@ e termini per il rilascio della patente)
 
 2\. A seguito del superamento dell'esame di guida, il funzionario esaminatore rilascia la patente dopo aver apposto la data dell'esame, la data di scadenza della patente e la propria firma negli spazi a cio' destinati. La patente di guida e' preventivamente firmata dal direttore dell'ufficio provinciale della Direzione generale della M.C.T.C. o da un suo delegato a convalida della regolarita' della procedura seguita fino all'effettuazione dell'esame di guida.))
 
-## § 2 - AUTOSCUOLE - (Artt. 122-123 Codice della Strada)
+#### § 2 - AUTOSCUOLE - (Artt. 122-123 Codice della Strada)
 
-###### Art. 334 (Art. 122 Cod. Str.) - Contrassegno per le esercitazioni di guida
+##### Art. 334 (Art. 122 Cod. Str.) - Contrassegno per le esercitazioni di guida
 
 1\. Gli autoveicoli per le esercitazioni e gli esami di guida condotti da aspiranti conducenti devono essere muniti, nella parte anteriore e posteriore, di un contrassegno recante la lettera P dell'alfabeto, maiuscola, di colore nero su fondo bianco retroriflettente. Tale contrassegno va applicato in posizione verticale o subverticale in modo ben visibile e tale da non ostacolare la necessaria visibilita' dal posto di guida e da quello occupato da colui che funge da istruttore. Le dimensioni del contrassegno e quelle della lettera P sono riportate, a seconda i casi che ricorrono, nelle figure IV.1, IV.2, IV.3.
 
 2\. Per gli autoveicoli facenti parte del parco veicolare delle autoscuole o dei centri di istruzione, il contrassegno deve essere costituito da un pannello rettangolare ad angoli arrotondati, recante la scritta SCUOLA GUIDA, in colore nero su fondo bianco retroriflettente, applicato anteriormente e posteriormente, in posizione verticale o subverticale in modo da risultare ben visibile e tale da non ostacolare la necessaria visibilita' dal posto di guida e da quello occupato da colui che funge da istruttore. Le dimensioni del contrassegno e quelle della scritta sono riportate, a seconda i casi che ricorrono, nelle figure IV.4, IV.5.
 
-###### Art. 335 (Art. 123 Cod. Str.) - Rilascio dell'autorizzazione alle autoscuole
+##### Art. 335 (Art. 123 Cod. Str.) - Rilascio dell'autorizzazione alle autoscuole
 
 1\. L'autorizzazione per lo svolgimento di attivita' di educazione stradale, di istruzione e formazione dei conducenti di veicoli a motore e' rilasciata previo accertamento della sussistenza dei requisiti prescritti dall'articolo 123 del codice, cosi' come specificato nel presente regolamento.
 
@@ -6684,7 +6660,7 @@ b) autoscuole per conducenti di veicoli a motore per la preparazione di candidat
 
 ((16. I veicoli classificati ad uso autoscuola possono essere utilizzati anche per il trasporto degli allievi da e per la sede degli esami, nonche' per ogni incombenza connessa all'attivita'.))
 
-###### Art. 336 (Art. 123 Cod. Str.) - Vigilanza tecnica sulle autoscuole
+##### Art. 336 (Art. 123 Cod. Str.) - Vigilanza tecnica sulle autoscuole
 
 1\. La vigilanza tecnica ad opera dell'ufficio provinciale della Direzione generale della M.C.T.C. nella cui circoscrizione ha sede l'autoscuola o il centro di istruzione automobilistica, deve essere svolta con attivita' ispettiva anche durante lo svolgimento delle lezioni e durante l'effettuazione degli esami.
 
@@ -6714,7 +6690,7 @@ h) il rispetto delle direttive impartite dal Ministero dei trasporti, ai sensi d
 
 5\. Nelle more dell'espletamento della procedura di cui ai commi 2, 3 e 4 e' fatta salva la facolta' del direttore dell'ufficio Provinciale della Direzione generale della M.C.T.C. di adottare le misure urgenti ritenute piu' idonee a garantire l'osservanza della normativa vigente.
 
-###### Art. 337 (Art. 123 Cod. Str.)
+##### Art. 337 (Art. 123 Cod. Str.)
 
 (Attivita' di consulenza
 
@@ -6722,13 +6698,13 @@ da parte degli enti pubblici non economici)
 
 ((1. L'attivita' di consulenza degli enti pubblici non economici e' disciplinata dalla legge 8 agosto 1991, n. 264, cosi' come modificata e integrata dalla legge 4 gennaio 1994, n. 11. Essa e' svolta dagli appositi uffici dipendenti, individuati tramite elenco da comunicare alle competenti province ed agli uffici periferici della Direzione generale della M.C.T.C., entro tre mesi dalla data di entrata in vigore del presente regolamento. Tale elenco deve essere aggiornato ad ogni variazione che venga apportata allo stesso.))
 
-## § 3 - ALTRE DISPOSIZIONI - (Artt. 127-139 Codice della Strada)
+#### § 3 - ALTRE DISPOSIZIONI - (Artt. 127-139 Codice della Strada)
 
-###### Art. 338
+##### Art. 338
 
 ((ARTICOLO ABROGATO DAL D.P.R. 9 MARZO 2000, N. 104))
 
-###### Art. 339 (Artt. 132 e 133 Cod. Str.) - Identificazione dei veicoli immatricolati negli Stati esteri e sigla distintiva dello Stato italiano
+##### Art. 339 (Artt. 132 e 133 Cod. Str.) - Identificazione dei veicoli immatricolati negli Stati esteri e sigla distintiva dello Stato italiano
 
 1\. Il contrassegno di immatricolazione degli autoveicoli, dei motoveicoli e dei rimorchi, di cui all'articolo 132, comma 3, del gia' fatto codice, qualora non vengano per esso impiegate cifre arabe e lettere in caratteri latini, deve essere ripetuto utilizzando tali cifre e caratteri. Detto contrassegno deve essere conforme alle norme stabilite da convenzioni internazionali cui l'Italia abbia aderito oppure alle disposizioni contenute in accordi di reciprocita'.
 
@@ -6736,7 +6712,7 @@ da parte degli enti pubblici non economici)
 
 3\. La sigla di cui al comma 2 puo' essere dipinta direttamente sul veicolo, oppure apposta su targhetta. Nel primo caso la sigla dovra' essere situata su una superficie verticale o sensibilmente verticale, nella parte posteriore del veicolo; nel secondo caso la targhetta dovra' essere fissata nella parte posteriore del veicolo in posizione sensibilmente verticale e perpendicolare al piano longitudinale di simmetria del veicolo medesimo.
 
-###### Art. 340 (Art. 134 Cod. Str.)
+##### Art. 340 (Art. 134 Cod. Str.)
 
 (Immatricolazione di autoveicoli e motoveicoli appartenenti a
 
@@ -6754,7 +6730,7 @@ c) dichiarazione di conformita' o certificato di origine oppure carta di circola
 
 3\. Gli uffici provinciali della Direzione generale della M.C.T.C. indicati al comma 1, ricevuta la domanda, provvedono ad iscrivere il veicolo rilasciando la targa di riconoscimento prevista dall'articolo 256, comma 4, lettera b), e la carta di circolazione, secondo le pro- cedure dettate al riguardo dal Ministero dei Trasporti ((e della navigazione)) - Direzione generale della M.C.T.C.
 
-###### Art. 341 (Art. 139 Cod. Str.) - Patente di servizio per il personale che esplica il servizio di polizia stradale
+##### Art. 341 (Art. 139 Cod. Str.) - Patente di servizio per il personale che esplica il servizio di polizia stradale
 
 1\. La patente di servizio abilita il titolare alla conduzione di motoveicoli, autovetture, autocarri, autoveicoli per trasporto promiscuo di persone e cose, per uso speciale o per trasporti specifici. Viene rilasciata al personale che ha seguito un apposito ciclo di esercitazioni a carattere sia teorico che pratico.
 
@@ -6780,19 +6756,19 @@ c) un funzionario del comando o dell'ufficio, come membro.
 
 ## Titolo V - NORME DI COMPORTAMENTO
 
-### § 1 - LIMITAZIONI DELLA VELOCITA' - (Artt. 141-142 Codice della Strada)
+#### § 1 - LIMITAZIONI DELLA VELOCITA' - (Artt. 141-142 Codice della Strada)
 
-###### Art. 342 (Art. 141 Cod. Str.) - Obbligo di limitare la velocita'
+##### Art. 342 (Art. 141 Cod. Str.) - Obbligo di limitare la velocita'
 
 1\. L'obbligo di limitare la velocita', di cui all'articolo 141, comma 1, del codice inizia dal momento in cui sia possibile al conducente percepire l'esistenza di un pericolo e, comunque, in presenza di un segnale di prescrizione o di pericolo.
 
-###### Art. 343 (Art. 142 Cod. Str.) - Limitazioni temporanee di velocita'
+##### Art. 343 (Art. 142 Cod. Str.) - Limitazioni temporanee di velocita'
 
 1\. In prossimita' di scuole, istituti, campi sportivi, o quando si svolgono manifestazioni varie, possono essere imposti su una strada o parte di essa, a cura dell'ente proprietario, limiti temporanei di velocita' per tutto il periodo o i periodi di tempo della giornata, nei quali tale limitazione sia ritenuta necessaria ai fini della sicurezza della circolazione. L'imposizione di questi limiti deve essere portata a conoscenza dei conducenti mediante i prescritti segnali.
 
 2\. L'ente proprietario della strada, qualora sussistano particolari situazioni di pericolo, puo' prescrivere lungo il tratto di strada interessato, opportune limitazioni di velocita' mediante i prescritti segnali.
 
-###### Art. 344 (Art. 142 Cod. Str.) - Limitazioni permanenti di velocita'
+##### Art. 344 (Art. 142 Cod. Str.) - Limitazioni permanenti di velocita'
 
 1\. Nella parte posteriore dei veicoli indicati all'articolo 142, comma 4, del codice ((devono essere apposti in modo ben visibile, i contrassegni in materiale retroriflettente, riportanti in cifre i limiti di velocita' prescritti)).
 
@@ -6808,7 +6784,7 @@ c) materiale retroriflettente: pellicola ad elevata efficienza (classe 2).
 
 Ciascun contrassegno deve portare in modo visibile il marchio di omologazione secondo il tipo determinato dal Ministero dei trasporti ((e della navigazione)).
 
-###### Art. 345 (Art. 142 Cod. Str.)
+##### Art. 345 (Art. 142 Cod. Str.)
 
 (Apparecchiature e mezzi di accertamento
 
@@ -6822,11 +6798,9 @@ della osservanza dei limiti di velocita')
 
 4\. Per l'accertamento delle violazioni ai limiti di velocita', le apparecchiature di cui al comma 1 devono essere gestite direttamente dagli organi di polizia stradale cui all'articolo 12 del codice, e devono essere nella disponibilita' degli stessi.
 
-## §2 - COMPORTAMENTI RIGUARDANTI - LA MARCIA DEI VEICOLI
+#### §2 - COMPORTAMENTI RIGUARDANTI - LA MARCIA DEI VEICOLI (Artt. 144-155 Codice della Strada)
 
-### (Artt. 144-155 Codice della Strada)
-
-###### Art. 346 (Art. 144 Cod. Str.) - Marcia per file parallele
+##### Art. 346 (Art. 144 Cod. Str.) - Marcia per file parallele
 
 1\. Nel caso di marcia per file parallele e' consentito lo scorrimento di una fila di veicoli rispetto a quella adiacente, in quanto ognuna delle file deve sempre procedere entro la propria corsia.
 
@@ -6848,7 +6822,7 @@ b) che il veicolo che lo precede non abbia a sua volta gia' iniziato, ovvero seg
 
 8\. Attraverso le porte della citta' ed i fornici aperti nelle mura urbane, ove il transito non sia regolato da appositi segnali o dagli agenti, i conducenti devono, di regola, impegnare il primo passaggio veicolare a cominciare dalla loro destra. Quando il traffico sia intenso e l'osservare la regola di cui sopra lo intralci, i veicoli possono impegnare anche gli altri fornici disponibili per ogni senso di marcia, usando tempestivamente gli appositi segnali, ai sensi del comma 3.
 
-###### Art. 347 (Art. 148 Cod. Str.) - Sorpasso
+##### Art. 347 (Art. 148 Cod. Str.) - Sorpasso
 
 1\. Non e' consentito il sorpasso sulle corsie di accelerazione e decelerazione.
 
@@ -6856,25 +6830,25 @@ b) che il veicolo che lo precede non abbia a sua volta gia' iniziato, ovvero seg
 
 3\. Non e' consentito il sorpasso in prossimita' e in corrispondenza delle intersezioni non regolate da semafori ovvero da agenti del traffico. Qualora un veicolo si arresti per consentire l'attraversamento ai pedoni o per dare la precedenza ad altri veicoli, devono arrestarsi anche quelli che procedono nelle altre file parallele.
 
-###### Art. 348 (Art. 149 Cod. Str.) - Distanza di sicurezza tra i veicoli
+##### Art. 348 (Art. 149 Cod. Str.) - Distanza di sicurezza tra i veicoli
 
 1\. La distanza di sicurezza tra due veicoli deve sempre essere commisurata alla velocita', alla prontezza dei riflessi del conducente, alle condizioni del traffico, a quelle planoaltimetriche della strada, alle condizioni atmosferiche, al tipo e allo stato di efficienza del veicolo, all'entita' del carico, nonche' ad ogni altra circostanza influente.
 
 2\. La distanza di sicurezza deve essere almeno uguale allo spazio percorso durante il tempo che passa tra la prima percezione di un pericolo e l'inizio della frenata.
 
-###### Art. 349 (Art. 154 Cod. Str.) - Inversione
+##### Art. 349 (Art. 154 Cod. Str.) - Inversione
 
 1\. Nelle aree urbane la manovra di inversione ad 'U' e' vietata quando per compierla e' necessario attraversare la mezzeria della strada segnata con striscia longitudinale continua; e' parimenti vietata in corrispondenza dei bracci di strada adducenti alle aree di intersezione, oltre che negli altri casi previsti dall'articolo 154, comma 6, del codice.
 
-###### Art. 350 (Art. 155 Cod. Str.) - Limiti sonori massimi
+##### Art. 350 (Art. 155 Cod. Str.) - Limiti sonori massimi
 
 1\. Il livello sonoro emesso da apparecchi radio o di riproduzione sonora a bordo dei veicoli di cui all'articolo 155, comma 3, del codice, non puo' superare nell'uso 60 LAeq dB (A) misurato a 10 cm dall'orecchio del guidatore con il microfono rivolto verso la sorgente e con il veicolo a portiere e finestrini chiusi, e, comunque, deve essere tale da non recare pregiudizio alla guida del veicolo.
 
 2\. L'emissione sonora dei dispositivi di cui all'articolo 155, comma 4, del codice deve essere intervallata e non puo' superare in ogni caso la durata massima di tre minuti.
 
-## § 3 - ARRESTI, SOSTE E FERMATE DEI VEICOLI - (Artt. 157-163 Codice della Strada)
+#### § 3 - ARRESTI, SOSTE E FERMATE DEI VEICOLI - (Artt. 157-163 Codice della Strada)
 
-###### Art. 351 (Art. 157 Cod. Str.) - Arresti e soste dei veicoli in generale
+##### Art. 351 (Art. 157 Cod. Str.) - Arresti e soste dei veicoli in generale
 
 1\. Nel caso di incolonnamento di veicoli, il conducente non puo' ne' arrestare, ne' fermare la marcia del veicolo in modo da impegnare l'area di intersezione, senza essersi assicurato di poter sgombrare l'area stessa in tempo utile a consentire l'attraversamento dei pedoni e il deflusso delle correnti di circolazione trasversale.
 
@@ -6882,7 +6856,7 @@ b) che il veicolo che lo precede non abbia a sua volta gia' iniziato, ovvero seg
 
 3\. Le manovre indicate dall'articolo 157, comma 7, del codice, devono essere, nei casi consentiti dalla stessa norma, sempre eseguite nel tempo strettamente necessario, in relazione alle condizioni del traffico, in modo da assicurare la sicurezza del medesimo.
 
-###### Art. 352 (Art. 157 Cod. Str.)
+##### Art. 352 (Art. 157 Cod. Str.)
 
 (Fermata degli autoveicoli in servizio pubblico
 
@@ -6902,7 +6876,7 @@ di linea per trasporto di persone)
 
 7\. Le fermate degli autobus di cui al presente articolo devono essere effettuate esclusivamente nelle zone indicate nei commi che precedono, in modo da evitare che i passeggeri in salita o in discesa dai mezzi impegnino la carreggiata, diminuendo la capacita' della strada ed intralciando il traffico sulla stessa.
 
-###### Art. 353 (Art. 158 Cod. Str.) - Fermata e sosta dei veicoli
+##### Art. 353 (Art. 158 Cod. Str.) - Fermata e sosta dei veicoli
 
 1\. Non e' consentito fermarsi per chiedere informazioni agli agenti del traffico, quando cio' possa causare intralcio o rallentamento alla circolazione.
 
@@ -6910,7 +6884,7 @@ di linea per trasporto di persone)
 
 3\. Il veicolo in sosta deve avere il motore spento.
 
-###### Art. 354 (Art. 159 Cod. Str.)
+##### Art. 354 (Art. 159 Cod. Str.)
 
 (Concessione del servizio di rimozione e veicoli ad esso addetti) 1. Il servizio di rimozione dei veicoli ai sensi dell'articolo 159 del codice puo' essere affidato in concessione biennale rinnovabile a soggetti in possesso della licenza di rimessa ai sensi dell'articolo 19 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, che dispongono di almeno uno dei veicoli con le caratteristiche tecniche definite all'articolo 12 e che siano in possesso dei seguenti requisiti:
 
@@ -6982,7 +6956,7 @@ si applicano le tariffe della lettera B) aumentate del 10% per ogni tonnellata, 
 
 2\. E' data facolta', agli enti concedenti il servizio di rimozione dei veicoli, di prevedere una variazione in aumento o in diminuizione di ogni singola voce tariffaria, non superiore al 20% di quella stabilita dal presente decreto a fronte di particolari situazioni temporali ed ambientali, alla densita' di traffico, alla dislocazione delle depositerie ed alla variazione della popolazione presente nel territorio interessato.
 
-###### Art. 355 (Art. 159 Cod. Str.) - Attrezzo a chiave per il blocco dei veicoli
+##### Art. 355 (Art. 159 Cod. Str.) - Attrezzo a chiave per il blocco dei veicoli
 
 1\. L'attrezzo a chiave per il blocco delle ruote dei veicoli previsto dall'articolo 159, comma 3, del codice deve avere le seguenti caratteristiche:
 
@@ -7014,7 +6988,7 @@ Nel decreto di omologazione devono essere riportate anche le modalita' di applic
 
 5\. E' vietato il blocco dei veicoli destinati a servizi di polizia, anche se privati, di ambulanze, dei Vigili del Fuoco, di soccorso, nonche' di quelli dei medici che si trovano in attivita' di servizio in situazione di emergenza, e degli invalidi, purche' muniti di apposito contrassegno.
 
-###### Art. 356 (Art. 161 Cod. Str.) - Ingombro della carreggiata
+##### Art. 356 (Art. 161 Cod. Str.) - Ingombro della carreggiata
 
 1\. Nel caso di incidente stradale che provochi l'ingombro della carreggiata da parte di veicoli danneggiati che non e' possibile rimuovere tempestivamente, questo deve essere immediatamente presegnalato mediante uno o piu' segnali del tipo previsto dall'articolo 162 del codice a cura dei conducenti o dei passeggeri dei veicoli danneggiati. Qualora questi siano impossibilitati a farlo, tale presegnalazione deve essere effettuata a cura degli agenti del traffico o dei cantonieri stradali sopraggiunti sul luogo dell'incidente.
 
@@ -7028,7 +7002,7 @@ c) rimozione delle sostanze pericolose cadute o, quanto meno, ripristino dell'ad
 
 3\. Nei casi previsti dai commi 1 e 2, i conducenti o i passeggeri dei veicoli interessati sono tenuti, nel piu' breve tempo possibile, ad avvertire l'organo di polizia stradale piu' vicino al luogo dell'incidente.
 
-###### Art. 357 (Art. 162 Cod. Str.)
+##### Art. 357 (Art. 162 Cod. Str.)
 
 (Presegnalamento e posizione
 
@@ -7046,7 +7020,7 @@ b) di notte, per il veicolo, quando manchino o siano insufficienti le luci poste
 
 4\. L'utente deve aver cura di togliere il segnale al momento della cessazione della sosta o, comunque, dell'ingombro.
 
-###### Art. 358 (Art. 162 Cod. Str.) - Tipo ed omologazione del segnale mobile di pericolo
+##### Art. 358 (Art. 162 Cod. Str.) - Tipo ed omologazione del segnale mobile di pericolo
 
 1\. Il segnale mobile di pericolo indicato nell'articolo 162, comma 2, del codice ((, che fa parte dell'equipaggiamento dei veicoli, ai sensi dell'articolo 72, comma 2, del codice,)) riproduce, con dimensioni ridotte a due terzi, il tipo piccolo del segnale ALTRI PERICOLI di cui all'articolo 103 (fig. II.35).
 
@@ -7056,7 +7030,7 @@ b) di notte, per il veicolo, quando manchino o siano insufficienti le luci poste
 
 4\. Sono ammissibili i segnali mobili di pericolo omologati ((...)) nel rispetto delle prescrizioni del regolamento n. 27 della Commissione Economica per l'Europa dell'Organizzazione delle Nazioni Unite.
 
-###### Art. 359 (Art. 162 Cod. Str.) - Caratteristiche colorimetriche, fotometriche e tecnologiche del segnale mobile di pericolo
+##### Art. 359 (Art. 162 Cod. Str.) - Caratteristiche colorimetriche, fotometriche e tecnologiche del segnale mobile di pericolo
 
 1\. Il materiale retroriflettente, che, a norma dell'articolo 162, comma 2, del codice deve rivestire la faccia utile del segnale mobile di pericolo, deve avere coordinate tricromatiche per il materiale nuovo, nei colori bianco e rosso, che rientrano nelle zone del diagramma colorimetrico standard C.I.E. 1931 riportate nella tabella che segue. Il fattore di luminanza non deve essere inferiore al valore minimo prescritto, per i due colori, e riportato nella stessa tabella.
 
@@ -7100,7 +7074,7 @@ _______________|_______________________|_____________________________
 
 3\. Il materiale rifrangente deve aderire perfettamente al supporto su cui e' applicato senza punti di distacco.
 
-###### Art. 360 (Art. 163 Cod. Str.) - Convogli militari, cortei e simili
+##### Art. 360 (Art. 163 Cod. Str.) - Convogli militari, cortei e simili
 
 1\. Ai conducenti dei veicoli che fanno parte di convogli militari, o di colonne di truppa, o di cortei o di processioni, incombe l'obbligo di occupare la larghezza di carreggiata strettamente indispensabile sulla propria destra, onde arrecare il minimo intralcio alla circolazione normale.
 
@@ -7112,11 +7086,9 @@ _______________|_______________________|_____________________________
 
 5\. Nel caso di convogli di autoveicoli in numero superiore a dieci unita', sul primo veicolo della colonna nel senso di marcia deve essere collocato anteriormente un cartello a fondo bianco con l'iscrizione in nero INIZIO COLONNA e posteriormente un cartello a fondo bianco con iscrizione in nero FINE COLONNA. Sull'ultimo veicolo della colonna, nel senso di marcia dovra' essere collocato anteriormente analogo cartello con l'iscrizione FINE COLONNA e posteriormente altro cartello con l'iscrizione INIZIO COLONNA ((.)) ((Una competizione ciclistica o atletica in corso di svolgimento puo' essere indicata con analoghi cartelli riportanti le iscrizioni "INIZIO GARA . . .." e "FINE GARA . . .." con le modalita' prescritte nel provvedimento di autorizzazione della gara.))
 
-## § 4 - CARICHI SPORGENTI - E TRASPORTO MERCI PERICOLOSE
+#### § 4 - CARICHI SPORGENTI - E TRASPORTO MERCI PERICOLOSE (Artt. 163-168 Codice della Strada)
 
-### (Artt. 163-168 Codice della Strada)
-
-###### Art. 361 (Art. 164 Cod. Str.) - Pannelli per la segnalazione della sporgenza longitudinale del carico
+##### Art. 361 (Art. 164 Cod. Str.) - Pannelli per la segnalazione della sporgenza longitudinale del carico
 
 1\. I pannelli quadrangolari per segnalare sporgenze longitudinali del carico da installarsi alla estremita' della sporgenza ai sensi dell'articolo 164, comma 9, del codice devono corrispondere al tipo indicato nella figura V.3 e devono avere una superficie minima di 2500 cm(Elevato al Quadrato). Detta superficie deve essere rivestita con materiale retroriflettente a strisce alternate bianche e rosse disposte a 45°.
 
@@ -7144,33 +7116,33 @@ Il Decreto 4 dicembre 2019 (in G.U. 24/01/2020, n. 19) ha disposto:
 
 \- (con l'art. 2, comma 4) che "A decorrere dal 1° gennaio 2021 i dispositivi segnaletici di cui all'art. 1, comma 1, ai fini della commercializzazione, devono essere provvisti esclusivamente della dichiarazione di prestazione di prodotto".
 
-###### Art. 362 (Art. 164 Cod. Str.) - Restituzione dei documenti
+##### Art. 362 (Art. 164 Cod. Str.) - Restituzione dei documenti
 
 1\. Qualora la idonea sistemazione del carico, ordinata ai sensi dell'articolo 164, comma 9, del codice, possa essere ripristinata immediatamente, i documenti ritirati vengono contestualmente restituiti, previa verifica ad opera dell'organo accertatore ed espressa annotazione sullo stesso verbale di constatazione della violazione.
 
 2\. Qualora il ripristino sia differito nel tempo, la restituzione dei documenti ritirati deve essere richiesta al comando da cui dipende l'organo accertatore, che procedera' alla restituzione dopo la constatazione che il viaggio puo' essere ripreso nel rispetto delle condizioni richieste dall'articolo 164, comma 9, del codice, previa espressa annotazione sul verbale di constatazione della violazione.
 
-###### Art. 363 (Art. 167 Cod. Str.) - Accertamento della massa dei veicoli
+##### Art. 363 (Art. 167 Cod. Str.) - Accertamento della massa dei veicoli
 
 1\. Ai fini della determinazione della massa esatta del veicolo, gli organi di polizia stradale, ove non provvisti di strumenti propri di pesa, potranno disporre che la pesatura sia effettuata nella piu' vicina localita' in cui esista una pesa pubblica idonea ad un'unica pesatura del veicolo e, in mancanza di questa, con qualsiasi pesa privata, purche' in regola con le prescritte verifiche di legge.
 
-###### Art. 364 (Art. 168 Cod. Str.) - Disposizioni applicabili
+##### Art. 364 (Art. 168 Cod. Str.) - Disposizioni applicabili
 
 1\. Fino all'emanazione dei decreti di cui all'articolo 168, ((commi 2 e 4)) del codice, sono fatte salve le norme di cui ai decreti ministeriali adottati ai sensi ((degli articoli 2 e 4)) della legge 10 luglio 1970, n. 579.
 
-###### Art. 365 (( (Art. 168 Cod. Str.) - Definizioni
+##### Art. 365 (( (Art. 168 Cod. Str.) - Definizioni
 
 1\. Le definizioni di imballaggi, grandi imballaggi per il trasporto alla rinfusa (GIR), recipienti, cisterne e veicoli cisterna, contenitori e casse mobili comunque destinati al trasporto di merci pericolose sono quelle riportate negli allegati all'accordo europeo relativo al trasporto internazionale su strada di merci pericolose (ADR) di cui alla legge 12 agosto 1962, n. 1839, e successive modificazioni e integrazioni.))
 
-###### Art. 366 (Art. 168 Cod. Str.) - Circolazione dei veicoli che trasportano merci pericolose
+##### Art. 366 (Art. 168 Cod. Str.) - Circolazione dei veicoli che trasportano merci pericolose
 
 1\. Fatte salve le prescrizioni generali del codice della strada per la circolazione dei veicoli, il Ministro dei lavori pubblici, di concerto con il Ministro dei trasporti puo' emanare decreti per disciplinare la circolazione dei veicoli adibiti al trasporto di de- terminate materie pericolose in corrispondenza di tratti di strade che possono comportare particolari condizioni di rischio quali ad esempio gallerie, viadotti od altri punti singolari.
 
-###### Art. 367 (Art. 168 Cod. Str.) - Sosta dei veicoli che trasportano merci pericolose
+##### Art. 367 (Art. 168 Cod. Str.) - Sosta dei veicoli che trasportano merci pericolose
 
 1\. Fatte salve le disposizioni generali previste dal codice della strada per la fermata e la sosta dei veicoli, con decreto del Ministro dei trasporti possono essere prescritte particolari condizioni di sicurezza per lo stazionamento dei veicoli che trasportano merci pericolose.
 
-###### Art. 368 (Art. 168 Cod. Str.) - Trasporto merci pericolose con veicoli eccezionali od in condizioni di eccezionalita'
+##### Art. 368 (Art. 168 Cod. Str.) - Trasporto merci pericolose con veicoli eccezionali od in condizioni di eccezionalita'
 
 1\. E' vietato il trasporto di merci pericolose con veicoli eccezionali, o in condizioni di eccezionalita', fatte salve le condizioni di ammissibilita' previste nel presente articolo nonche' le competenze del Ministero dei lavori pubblici e degli enti proprietari delle strade.
 
@@ -7178,19 +7150,19 @@ Il Decreto 4 dicembre 2019 (in G.U. 24/01/2020, n. 19) ha disposto:
 
 3\. La Direzione generale della M.C.T.C. puo' rilasciare singole specifiche e motivate autorizzazioni per il trasporto di merci pericolose con veicoli eccezionali, o in condizioni di eccezionalita', quando ricorrano particolari e giustificate esigenze di trasporto.
 
-###### Art. 369 (Art. 168 Cod. Str.) - Controlli
+##### Art. 369 (Art. 168 Cod. Str.) - Controlli
 
 ((1. Le ditte interessate dalle prescrizioni emanate con i decreti di cui all'articolo 168 del codice sono soggette ai controlli, stabiliti con decreto del Ministero dei trasporti e della navigazione - Direzione generale della M.C.T.C., per verificare l'ottemperanza, ai fini della sicurezza, delle prescrizioni stesse.
 
 2\. I controlli hanno luogo con le stesse modalita' previste dall'articolo 80, comma 10, del codice, e dall'art. 239.))
 
-###### Art. 370 (Art. 168 Cod. Str.) - Incidenti in cui siano coinvolti veicoli che trasportano merci pericolose
+##### Art. 370 (Art. 168 Cod. Str.) - Incidenti in cui siano coinvolti veicoli che trasportano merci pericolose
 
 1\. Il Ministro dei trasporti, di concerto con il Ministro dell'interno, emana con decreto le disposizioni per la rilevazione e l'analisi degli incidenti in cui risultano coinvolti veicoli e recipienti utilizzati per il trasporto di merci pericolose. Con il medesimo decreto viene prevista la possibilita' di disporre tutti gli accertamenti ritenuti necessari, ai fini della sicurezza, per l'approfondimento delle indagini sulle cause e modalita' degli incidenti stessi, avvalendosi anche della collaborazione di enti qualificati, al fine di acquisire ogni elemento utile per l'esame e l'emanazione di eventuali ulteriori disposizioni.
 
-## § 5 - ALTRI COMPORTAMENTI - (Artt. 169-173 Codice della Strada)
+#### § 5 - ALTRI COMPORTAMENTI - (Artt. 169-173 Codice della Strada)
 
-###### Art. 371 (Art. 169 Cod. Str.) - Persone e carichi trasportabili
+##### Art. 371 (Art. 169 Cod. Str.) - Persone e carichi trasportabili
 
 1\. Il numero massimo di persone trasportabili sulle autovetture, anche se adibite al trasporto di persone e di cose, gia' immatricolate alla data del 23 giugno 1966, e' quello indicato sulle relative carte di circolazione tra le caratteristiche tecniche alla voce "posti totali n. .." oppure sulle licenze di circolazione rilasciate ai sensi del regio decreto 8 dicembre 1933, n.1740, alla analoga voce "posti n. .. compreso il conducente".
 
@@ -7208,9 +7180,9 @@ Il Decreto 4 dicembre 2019 (in G.U. 24/01/2020, n. 19) ha disposto:
 
 > \- Il R.D. 8 dicembre 1933, n. 1740, reca: "Testo unico di norme per la tutela delle strade e per la circolazione".
 
-## § 6 - CIRCOLAZIONE SULLE AUTOSTRADE - (Artt. 175-176 Codice della Strada)
+#### § 6 - CIRCOLAZIONE SULLE AUTOSTRADE - (Artt. 175-176 Codice della Strada)
 
-###### Art. 372 (Art. 175 Cod. Str.) - Disposizioni in ordine alla circolazione sulle autostrade e sulle strade extraurbane principali
+##### Art. 372 (Art. 175 Cod. Str.) - Disposizioni in ordine alla circolazione sulle autostrade e sulle strade extraurbane principali
 
 1\. Sono vietate sull'autostrada competizioni motoristiche, nonche' riunioni, giuochi e gare sportive in genere. Sulle autostrade e nelle zone ad esse adiacenti o prospicienti sono vietate tutte quelle azioni o situazioni che possono procurare pericolo alla sicurezza della circolazione. L'ente proprietario o concessionario ingiunge al responsabile di eliminare la situazione di pericolo e, in caso di inottemperanza, si procede ai sensi del Capo I, Sezione II del Titolo VI del codice.
 
@@ -7224,7 +7196,7 @@ Il Decreto 4 dicembre 2019 (in G.U. 24/01/2020, n. 19) ha disposto:
 
 6\. Gli accertamenti delle condizioni e dei limiti indicati nell'articolo 175 del codice e nel presente articolo devono di regola essere effettuati all'ingresso nell'autostrada e il veicolo considerato non in regola non e' ammesso alla circolazione su di essa. Se l'accertamento e' fatto dopo l'ingresso, il veicolo non in regola deve lasciare l'autostrada alla prima uscita dopo il luogo dell'accertamento, sotto la sorveglianza dell'agente o funzionario accertatore.
 
-###### Art. 373 (Art. 176 Cod. Str.) - Pedaggi
+##### Art. 373 (Art. 176 Cod. Str.) - Pedaggi
 
 1\. Al pagamento del pedaggio, quando esso e' dovuto, e degli oneri di accertamento previsti dall'articolo 372 sono obbligati solidalmente sia il conducente che il proprietario del veicolo. Per il recupero degli importi dovuti all'ente proprietario dell'autostrada si applicano le norme del Testo Unico approvato con Regio Decreto 14 aprile 1910, n. 639 e successive integrazioni e modificazioni.
 
@@ -7254,7 +7226,7 @@ l) i veicoli dei funzionari del Ministero dell'interno, dell'A.N.A.S., della Dir
 
 4\. Durante la permanenza sull'autostrada a pagamento, il conducente e' tenuto a conservare accuratamente il titolo di transito evitando nel modo piu' assoluto di piegarlo o, comunque, di danneggiarlo.
 
-###### Art. 374 (Art. 176 Cod. Str.) - Soccorso stradale e rimozione
+##### Art. 374 (Art. 176 Cod. Str.) - Soccorso stradale e rimozione
 
 1\. L'attivita' di soccorso stradale e di rimozione di veicoli sulle autostrade puo' essere affidata in concessione dall'ente proprietario della strada a soggetti autorizzati all'esercizio delle attivita' di autoriparazione di cui alla legge 5 febbraio 1992, n. 122.
 
@@ -7262,9 +7234,9 @@ l) i veicoli dei funzionari del Ministero dell'interno, dell'A.N.A.S., della Dir
 
 > \- Per la legge n. 122 del 1992 si veda in nota all'art. 239.
 
-## § 7 - (( VEICOLI SENZA CRONOTACHIGRAFO E CON CRONOTACHIGRAFO - - POSSESSO DEI DOCUMENTI DI GUIDA (Artt. 178 - 180 Codice della Strada) ))
+#### § 7 - (( VEICOLI SENZA CRONOTACHIGRAFO E CON CRONOTACHIGRAFO - - POSSESSO DEI DOCUMENTI DI GUIDA (Artt. 178 - 180 Codice della Strada) ))
 
-###### Art. 375 (( (Art. 178 e 179 Cod. Str.) - Documenti di viaggio e cronotachigrafo
+##### Art. 375 (( (Art. 178 e 179 Cod. Str.) - Documenti di viaggio e cronotachigrafo
 
 1\. I libretti individuali, gli estratti del registro di servizio e le copie dell'orario di servizio sono disciplinate dal Regolamento n. 3820/85 del Consiglio delle Comunita' Europee del 20 dicembre 1985 e successive modificazioni.
 
@@ -7272,7 +7244,7 @@ l) i veicoli dei funzionari del Ministero dell'interno, dell'A.N.A.S., della Dir
 
 3\. L'Ufficio o l'officina di cui al comma 2 rilasciano certificazione dell'avvenuta regolarizzazione e dell'esito positivo della verifica. La certificazione e' fatta pervenire, a cura del titolare della licenza, all'organo che ha proceduto alla contestazione della violazione.))
 
-###### Art. 376 (( (Art. 180 Cod. Str.)
+##### Art. 376 (( (Art. 180 Cod. Str.)
 
 (Presentazione di informazioni e documenti a comandi
 
@@ -7347,9 +7319,9 @@ dell'art. 376 del Regolamento di esecuzione del C.d.S.
 
 \* Da inviare all'Ufficio o Comando che ha contestato la violazione.))
 
-## § 8 - CIRCOLAZIONE DEI VELOCIPEDI - (Art. 182 Codice della Strada)
+#### § 8 - CIRCOLAZIONE DEI VELOCIPEDI - (Art. 182 Codice della Strada)
 
-###### Art. 377 (Art. 182 Cod. Str.) - Circolazione dei velocipedi
+##### Art. 377 (Art. 182 Cod. Str.) - Circolazione dei velocipedi
 
 1\. I ciclisti nella marcia ordinaria in sede promiscua ((devono)) sempre evitare improvvisi scarti, ovvero movimenti a zig-zag, che possono essere di intralcio o pericolo per i veicoli che seguono.
 
@@ -7371,9 +7343,9 @@ Prima del montaggio della attrezzatura e' necessario procedere ad una verifica d
 
 7\. Ove le piste ciclabili si interrompano, immettendosi nelle carreggiate a traffico veloce o attraversino le carreggiate stesse, i ciclisti sono tenuti ad effettuare le manovre con la massima cautela evitando improvvisi cambiamenti di direzione.
 
-## § 9 - CIRCOLAZIONE E SOSTA DELLE AUTOCARAVAN - (Art. 185 Codice della Strada)
+#### § 9 - CIRCOLAZIONE E SOSTA DELLE AUTOCARAVAN - (Art. 185 Codice della Strada)
 
-###### Art. 378 (Art. 185 Cod. Str.) - Impianti di smaltimento igienico-sanitario
+##### Art. 378 (Art. 185 Cod. Str.) - Impianti di smaltimento igienico-sanitario
 
 ((1. La realizzazione degli impianti igienico-sanitari, destinati ad accogliere i residui organici e le acque chiare e luride raccolti negli impianti interni delle autocaravan, e' obbligatoria lungo le strade e autostrade unicamente nelle aree di servizio dotate di impianti di ristorazione, ovvero di officine di assistenza meccanica, ed aventi una superficie complessiva non inferiore a 10.000 m2, nonche' nelle aree attrezzate riservate alla sosta e al parcheggio delle autocaravan.
 
@@ -7401,11 +7373,9 @@ Le tariffe per tale servizio sono quelle liberamente determinate dai singoli ope
 
 7\. Ogni area dove e' realizzato un impianto igienico-sanitario e' indicata, a cura dell'ente gestore, dall'apposito segnale stradale (fig. II.377). Il simbolo dello stesso segnale in formato ridotto (fig. II.179) puo' essere impiegato in forma di inserto su segnali di indicazione.))
 
-## § 10 - CIRCOLAZIONE DELLE PERSONE - DEDITE ALL'ALCOOL E DEGLI INVALIDI
+#### § 10 - CIRCOLAZIONE DELLE PERSONE - DEDITE ALL'ALCOOL E DEGLI INVALIDI (Artt. 186-188 Codice della Strada)
 
-### (Artt. 186-188 Codice della Strada)
-
-###### Art. 379 (Art. 186 Cod. Str.) - Guida sotto l'influenza dell'alcool
+##### Art. 379 (Art. 186 Cod. Str.) - Guida sotto l'influenza dell'alcool
 
 1\. L'accertamento dello stato di ebbrezza ai sensi dell'articolo 186, comma 4, del codice, si effettua mediante l'analisi dell'aria alveolare espirata: qualora, in base al valore della concentrazione di alcool nell'aria alveolare espirata, la concentrazione alcoolemica corrisponda o superi 0,8 grammi per litro (g/l), il soggetto viene ritenuto in stato di ebbrezza.
 
@@ -7425,7 +7395,7 @@ Le tariffe per tale servizio sono quelle liberamente determinate dai singoli ope
 
 9\. Il Ministero dei trasporti ((e della navigazione)) determina, aggiornandolo, l'ammontare dei diritti dovuti dai richiedenti per le operazioni previste nei commi 6, 7 e 8.
 
-###### Art. 380 (Art. 187 Cod. Str.) - Revisione della patente
+##### Art. 380 (Art. 187 Cod. Str.) - Revisione della patente
 
 1\. La visita medica per la revisione della patente prevista dall'articolo 187, comma 3, del codice, deve, ove ricorra il caso, essere disposta nel piu' breve tempo possibile e comunicata all'interessato entro trenta giorni dalla data del certificato emesso dai centri di cui al comma 2 dello stesso articolo.
 
@@ -7433,7 +7403,7 @@ Le tariffe per tale servizio sono quelle liberamente determinate dai singoli ope
 
 3\. L'esito della visita medica e' comunicato, a cura del guidatore, al prefetto entro quindici giorni. In caso di esito positivo, il prefetto dispone, entro il piu' breve tempo possibile, la cessazione della sospensione della patente e ne ordina la consegna al titolare. ((In caso di esito negativo il prefetto ne da' immediata comunicazione ai competenti uffici provinciali della M.C.T.C. per il tramite del collegamento informatico integrato gia' esistente tra i sistemi informatici della Direzione generale della M.C.T.C. e della Direzione generale dell'Amministrazione degli Affari generali e del Personale del Ministero dell'interno, affinche' i suddetti uffici provinciali della M.C.T.C. procedano alla revoca della patente ai sensi dell'articolo 130, comma 1, lettera a), del codice.))
 
-###### Art. 381 (Art. 188 Cod. Str.) - Strutture , contrassegno e segnaletica per la mobilita' delle persone invalide
+##### Art. 381 (Art. 188 Cod. Str.) - Strutture , contrassegno e segnaletica per la mobilita' delle persone invalide
 
 1\. Ai fini di cui all'articolo 188, comma 1, del codice, gli enti proprietari della strada devono allestire e mantenere funzionali ed efficienti tutte le strutture per consentire ed agevolare la mobilita' delle persone invalide.
 
@@ -7453,17 +7423,11 @@ II 79/a). Tale agevolazione, se l'interessato non ha disponibilita' di uno spazi
 
 6\. Gli schemi delle strutture e le modalita' di segnalamento delle stesse, nonche' le modalita' di apposizione della segnaletica necessaria e quant'altro utile alla realizzazione delle opere indi- cate nel comma 1, sono determinati con apposito disciplinare tecnico, approvato dal Ministro delle infrastrutture e dei trasporti sentito il Ministro della salute.
 
-## Titolo VI - DEGLI ILLECITI PREVISTI DAL CODICE
+## Titolo VI - DEGLI ILLECITI PREVISTI DAL CODICE DELLA STRADA E DELLE RELATIVE SANZIONI
 
-### DELLA STRADA E DELLE RELATIVE SANZIONI - CAPO I
+### CAPO I - DEGLI ILLECITI AMMINISTRATIVI E DELLE RELATIVE SANZIONI Sez. I. DEGLI ILLECITI AMMINISTRATIVI IMPORTANTI SANZIONI AMMINISTRATIVE PECUNIARIE ED APPLICAZIONE DI QUESTE ULTIME. (Artt. 196-208 Codice della Strada)
 
-#### DEGLI ILLECITI AMMINISTRATIVI - E DELLE RELATIVE SANZIONI
-
-##### Sez. I. DEGLI ILLECITI AMMINISTRATIVI IMPORTANTI SANZIONI - AMMINISTRATIVE PECUNIARIE ED APPLICAZIONE DI QUESTE ULTIME.
-
-###### (Artt. 196-208 Codice della Strada)
-
-###### Art. 382 (Art. 196 Cod. Str.) - Solidarieta' e iscrizione a ruolo
+##### Art. 382 (Art. 196 Cod. Str.) - Solidarieta' e iscrizione a ruolo
 
 1\. Nei casi di solidarieta' per il pagamento di somme di denaro a titolo di sanzioni amministrative pecuniarie, ai fini della formazione del ruolo, l'amministrazione determina, ai sensi degli articoli 1292 e seguenti del codice civile, quale tra i condebitori solidali e' sottoposto ad esecuzione coattiva.
 
@@ -7473,7 +7437,7 @@ II 79/a). Tale agevolazione, se l'interessato non ha disponibilita' di uno spazi
 
 > "Art. 1292 (Nozione della solidarieta'). - L'obbligazione e' in solido quando piu' debitori sono obbligati tutti per la medesima prestazione, in modo che ciascuno puo' essere costretto all'adempimento per la totalita' e l'adempimento da parte di uno libera gli altri; oppure quando tra piu' creditori ciascuno ha diritto di chiedere l'adempimento dell'intera obbligazione e l'adempimento conseguito da uno di essi libera il debitore verso tutti i creditori".
 
-###### Art. 383 (Art. 200 Cod. Str.) - Contestazione - Verbale di accertamento
+##### Art. 383 (Art. 200 Cod. Str.) - Contestazione - Verbale di accertamento
 
 1\. Il verbale deve contenere l'indicazione del giorno, dell'ora e della localita' nei quali la violazione e' avvenuta, delle generalita' e della residenza del trasgressore e, ove del caso, l'indicazione del proprietario del veicolo, o del soggetto solidale, degli estremi della patente di guida, del tipo del veicolo e della targa di riconoscimento, la sommaria esposizione del fatto, nonche' la citazione della norma violata e le eventuali dichiarazioni delle quali il trasgressore chiede l'inserzione.
 
@@ -7483,7 +7447,7 @@ II 79/a). Tale agevolazione, se l'interessato non ha disponibilita' di uno spazi
 
 4\. Il verbale deve in genere essere conforme al modello VI.1 allegato, che fa parte integrante del presente regolamento; se redatto con sistemi meccanizzati o di elaborazione dati, deve riportare le stesse indicazioni contenute nel modello.
 
-###### Art. 384 (Art. 201 Cod. Str.) - Casi di impossibilita' della contestazione immediata
+##### Art. 384 (Art. 201 Cod. Str.) - Casi di impossibilita' della contestazione immediata
 
 1\. I casi di materiale impossibilita' della contestazione immediata prevista dall'articolo 201, comma 1, del codice, sono, a titolo esemplificativo, i seguenti:
 
@@ -7499,7 +7463,7 @@ e) accertamento della violazione per mezzo di appositi apparecchi di rilevamento
 
 f) accertamento della violazione in assenza del trasgressore e del proprietario del veicolo.
 
-###### Art. 385 (Art. 201 Cod. Str.) - Modalita' della contestazione non immediata
+##### Art. 385 (Art. 201 Cod. Str.) - Modalita' della contestazione non immediata
 
 1\. Qualora la contestazione, nelle ipotesi di cui all'articolo 384, non abbia potuto aver luogo all'atto dell'accertamento della violazione, l'organo accertatore compila il verbale con gli elementi di tempo, di luogo e di fatto che ha potuto acquisire specificando i motivi per i quali non e' stato possibile procedere alla contestazione immediata, e lo trasmette al comando o ufficio da cui dipende.
 
@@ -7509,7 +7473,7 @@ f) accertamento della violazione in assenza del trasgressore e del proprietario 
 
 4\. Si applicano le disposizioni di cui all'articolo 383, commi 3 e 4.
 
-###### Art. 386 (Art. 201 Cod. Str.) - Notificazione dei verbali a soggetto estraneo
+##### Art. 386 (Art. 201 Cod. Str.) - Notificazione dei verbali a soggetto estraneo
 
 1\. Quando viene effettuata la notificazione all'intestatario del certificato di proprieta' o ad uno dei soggetti indicati nell'articolo 196 del codice e questi, con dichiarazione contenente, nel caso di alienazione, gli estremi dell'atto notarile, informa l'ufficio o il comando procedente che non e' proprietario del veicolo, ne' titolare di alcuno dei diritti di cui al medesimo articolo 196 alla data dell'accertamento della violazione per la quale si procede, l'ufficio o comando interessati, se riscontrano l'esattezza delle notizie fornite, rinnovano la notificazione all'effettivo responsabile, con relativo addebito delle ulteriori spese, entro i termini previsti dall'articolo 201 del codice. Tali termini decorrono dalla data di ricezione da parte dell'ufficio o comando delle notizie fornite dal destinatario della precedente notificazione.
 
@@ -7521,7 +7485,7 @@ f) accertamento della violazione in assenza del trasgressore e del proprietario 
 
 L'ufficio o comando procedente puo' rilevare l'errore ai sensi del comma 3 fino alla formazione del ruolo.
 
-###### Art. 387 (Art. 202 Cod. Str.) - Quietanza del pagamento in misura ridotta
+##### Art. 387 (Art. 202 Cod. Str.) - Quietanza del pagamento in misura ridotta
 
 1\. Per ogni pagamento in misura ridotta effettuato nel termine, viene compilata e rilasciata apposita quietanza dall'organo al quale e' effettuato. Per i pagamenti effettuati a mezzo posta o banca, valgono le ricevute dei rispettivi versamenti.
 
@@ -7535,13 +7499,13 @@ L'ufficio o comando procedente puo' rilevare l'errore ai sensi del comma 3 fino 
 
 > \- Il D.P.R. 30 settembre 1963, n. 1409, reca: "Norme relative all'ordinamento ed al personale degli archivi di Stato".
 
-###### Art. 388 (Art. 203 Cod. Str.) - Ricorso al Prefetto
+##### Art. 388 (Art. 203 Cod. Str.) - Ricorso al Prefetto
 
 1\. Nel caso di ricorso proposto per posta, la data di presentazione e' quella di spedizione della relativa raccomandata, con avviso di ricevimento.
 
 2\. Quando il ricorso e' presentato direttamente al prefetto, competente a norma dell'articolo 203 del codice, questi lo trasmette all'ufficio o comando cui appartiene l'organo accertatore per gli adempimenti di cui al comma 2 dello stesso articolo.
 
-###### Art. 389 (Art. 206 Cod. Str.) - Ricevibilita' ed effetti dei pagamenti
+##### Art. 389 (Art. 206 Cod. Str.) - Ricevibilita' ed effetti dei pagamenti
 
 1\. Il pagamento effettuato in misura inferiore rispetto a quanto previsto dal codice, non ha valore quale pagamento ai fini dell'estinzione dell'obbligazione.
 
@@ -7549,11 +7513,11 @@ L'ufficio o comando procedente puo' rilevare l'errore ai sensi del comma 3 fino 
 
 3\. L'eventuale pagamento, oltre sessanta giorni dalla contestazione o notificazione, ma prima della formazione del ruolo, ((e' pari alla somma dovuta a norma dell'articolo 203, comma 3, del codice,)) oltre alle spese del procedimento ((e)) non da' luogo all'emissione del ruolo stesso. In tal caso deve essere rilasciata quietanza analoga a quella di cui all'articolo 387. La somma riscossa fa parte dei proventi di cui all'articolo 206 del codice, unitamente a quelli riscossi a mezzo dei ruoli di cui all'articolo 27 della legge 24 novembre 1981, n. 689.
 
-###### Art. 390 (Art. 206 Cod. Str.) - Erronea iscrizione a ruolo
+##### Art. 390 (Art. 206 Cod. Str.) - Erronea iscrizione a ruolo
 
 1\. In caso di erronea iscrizione a ruolo, l'autorita' amministrativa che ha emesso il ruolo ai sensi dell'articolo 206, comma 2, del codice, chiede all'esattore la cancellazione, dandone notizia all'intendenza di finanza competente per territorio.
 
-###### Art. 391 (Art. 207 Cod. Str.) - Quietanza versamento della cauzione o ritiro della patente
+##### Art. 391 (Art. 207 Cod. Str.) - Quietanza versamento della cauzione o ritiro della patente
 
 1\. La somma ricevuta dall'agente accertatore ai sensi dell'articolo 207, comma 1, del codice deve essere versata all'ufficio o comando da cui questi dipende. La quietanza rilasciata ai sensi dell'articolo 387 e' allegata alla copia del verbale consegnato dallo stesso agente accertatore ai sensi dell' articolo 200, comma 4, del codice, e conservata dall'ufficio o comando, secondo quanto dispone il comma 3 dello stesso articolo 387.
 
@@ -7563,13 +7527,13 @@ L'ufficio o comando procedente puo' rilevare l'errore ai sensi del comma 3 fino 
 
 4\. In caso di ritiro della patente, se non viene effettuato il pagamento in misura ridotta ai sensi dell'articolo 202 del codice, il documento e' trattenuto presso l'ufficio o comando interessato, che lo ((tiene)) a disposizione del Prefetto a cui deve essere presentato il rapporto della violazione, unitamente al verbale di accertamento, per il procedimento ai sensi dell'articolo 204 del codice. Il Prefetto dispone con l'ordinanza ingiunzione anche la restituzione, con le cautele necessarie per l'adempimento dell'obbligazione conseguente.
 
-###### Art. 392 (Art. 208 Cod. Str.) - Versamenti all'Ufficio del registro
+##### Art. 392 (Art. 208 Cod. Str.) - Versamenti all'Ufficio del registro
 
 1\. I proventi spettanti allo Stato, ai sensi dell'articolo 208, comma 1, del codice, devono essere versati mensilmente dalle singole amministrazioni all'ufficio del registro competente per territorio.
 
 2\. Degli avvenuti versamenti gli uffici del registro danno comunicazione al Ministero dei lavori pubblici mediante riepiloghi mensili, contenenti l'indicazione delle somme versate da ciascuna amministrazione.
 
-###### Art. 393 (Art. 208 Cod. Str.)
+##### Art. 393 (Art. 208 Cod. Str.)
 
 Proventi delle violazioni spettanti agli enti locali
 
@@ -7581,11 +7545,9 @@ ed alle Forze dell'Ordine.
 
 3\. Limitatamente alle quote dei proventi da destinarsi a finalita' di assistenza e previdenza del personale della Polizia di Stato, dell'Arma dei Carabinieri ((, della Guardia di finanza, della Polizia penitenziaria e del Corpo forestale dello Stato)), la ripartizione dei fondi e' determinata annualmente con decreto del Ministro dell'interno, proporzionalmente all'entita' dell'ammontare delle violazioni accertate dagli Organismi o dei Corpi anzidetti.
 
-## Sez. II - DELLE SANZIONI AMMINISTRATIVE ACCESSORIE - A SANZIONI AMMINISTRATIVE PECUNIARIE
+## Sez. II - DELLE SANZIONI AMMINISTRATIVE ACCESSORIE - A SANZIONI AMMINISTRATIVE PECUNIARIE (Artt. 213-218 Codice della Strada)
 
-### (Artt. 213-218 Codice della Strada)
-
-###### Art. 394 (Art. 213 Cod. Str.) - Sequestro del veicolo
+##### Art. 394 (Art. 213 Cod. Str.) - Sequestro del veicolo
 
 1\. Nel caso di sequestro del veicolo ai sensi dell'articolo 213, comma 2, del codice, il veicolo e' condotto nel luogo scelto per la custodia, giusta i commi 3 e 4, a cura dell'organo procedente. Se e' presente il conducente, il veicolo e' condotto dal medesimo a cura e sotto la vigilanza dell'organo procedente ((, ovvero puo' essere condotto dallo stesso conducente, su percorso espressamente indicato dall'organo procedente)). In tutti gli altri casi questo provvede al trasferimento o al traino del veicolo con i mezzi che ritiene piu' idonei, in modo da non apportare danno al veicolo stesso; le spese relative rientrano tra quelle attinenti all'esecuzione del sequestro.
 
@@ -7607,11 +7569,11 @@ Analogamente, nel caso in cui sia necessario sostituire il custode, si redige ve
 
 ((9. La segnalazione dello stato di sequestro del veicolo e' realizzata con l'apposizione di uno o piu' fogli adesivi sulla parte anteriore o sul vetro parabrezza, recanti l'iscrizione: "Veicolo sottoposto a sequestro" e con l'indicazione degli estremi del provvedimento che lo ha disposto. Le dimensioni dell'adesivo non devono essere inferiori a 20X30 cm.))
 
-###### Art. 395 (Art. 213 Cod. Str.)
+##### Art. 395 (Art. 213 Cod. Str.)
 
 ((ARTICOLO ABROGATO DAL D.L.30 SETTEMBRE 2003, N. 269, CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326))
 
-###### Art. 396 (Art. 214 Cod. Str.) - Fermo amministrativo del veicolo
+##### Art. 396 (Art. 214 Cod. Str.) - Fermo amministrativo del veicolo
 
 1\. Nelle ipotesi di fermo amministrativo del veicolo disposto ai sensi dell'articolo 214, ((comma 1)) , del codice, si applicano, in quanto compatibili, le norme sul sequestro di veicoli di cui all'articolo 394.
 
@@ -7621,7 +7583,7 @@ Analogamente, nel caso in cui sia necessario sostituire il custode, si redige ve
 
 4\. La restituzione del ciclomotore e' effettuata attraverso la riconsegna del certificato di idoneita' tecnica del veicolo all'avente titolo, da parte dell'organo di polizia che ha accertato la violazione, nei propri uffici. Nell'ipotesi di custodia presso un deposito autorizzato si applicano le disposizioni del comma 2.))
 
-###### Art. 397 (Art. 215 Cod. Str.)
+##### Art. 397 (Art. 215 Cod. Str.)
 
 Rimozione del veicolo
 
@@ -7633,7 +7595,7 @@ Rimozione del veicolo
 
 5\. ((COMMA ABROGATO DAL D.L.30 SETTEMBRE 2003, N. 269, CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326)).
 
-###### Art. 398 (Art. 215 Cod. Str.)
+##### Art. 398 (Art. 215 Cod. Str.)
 
 Blocco del veicolo
 
@@ -7643,7 +7605,7 @@ Blocco del veicolo
 
 3\. ((COMMA ABROGATO DAL D.L.30 SETTEMBRE 2003, N. 269, CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326)).
 
-###### Art. 399 (( (Artt. 216 e 217 Cod. Str.)
+##### Art. 399 (( (Artt. 216 e 217 Cod. Str.)
 
 (Ritiro dei documenti di circolazione, della targa o della
 
@@ -7677,7 +7639,7 @@ Data . . . . . . . . . .
 
 3\. Nell'ipotesi del ritiro della targa, previsto dall'articolo 216, comma 1, del codice, l'agente accertatore provvede a ritirarla dopo che il veicolo e' stato depositato in uno dei luoghi indicati dal comma 1, e la consegna all'ufficio o comando da cui dipende. Del ritiro e' redatto apposito verbale, di cui una copia e' consegnata all'avente diritto. Al deposito, in caso di ritiro di targa, si applicano le disposizioni di cui al comma 1.
 
-###### Art. 400 (Art. 218 Cod. Str.) - Sospensione della patente di guida in caso di recidiva
+##### Art. 400 (Art. 218 Cod. Str.) - Sospensione della patente di guida in caso di recidiva
 
 1\. Per consentire la pratica applicazione della sanzione, ai sensi dell'articolo 218, comma 3, del codice, l'aumento della durata della sospensione della patente di guida a seguito di piu' violazioni della medesima disposizione di legge, o la comminazione della sanzione della revoca della patente nei casi previsti dal vigente codice, presso ogni ufficio provinciale della Direzione generale della
 
@@ -7689,11 +7651,9 @@ schedario in cui sono annotati, alfabeticamente per nome del titolare della pate
 
 ## Titolo VII - DISPOSIZIONI FINALI E TRANSITORIE
 
-### CAPO I - DISPOSIZIONI FINALI
+### CAPO I - DISPOSIZIONI FINALI (Artt. 226-231 Codice della Strada)
 
-#### (Artt. 226-231 Codice della Strada)
-
-###### Art. 401 (Art. 226 Cod. Str.) - Archivio nazionale delle strade
+##### Art. 401 (Art. 226 Cod. Str.) - Archivio nazionale delle strade
 
 1\. L'archivio nazionale delle strade, che deve contenere, ai sensi dell'articolo 226, commi da 1 a 4, tutti i dati relativi allo stato tecnico e giuridico delle strade con indicazioni del traffico veicolare e degli incidenti, e' completamente informatizzato e distinto in cinque sezioni ad accesso diretto, fra loro interconnesse, capaci di fornire una visione selezionata o complessiva dei dati da cui risultano popolate.
 
@@ -7721,7 +7681,7 @@ schedario in cui sono annotati, alfabeticamente per nome del titolare della pate
 
 > \- Per la legge n. 241 del 1990 si veda in nota all'art. 73.
 
-###### Art. 402 (Art. 226 Cod. Str.) - Archivio nazionale dei veicoli
+##### Art. 402 (Art. 226 Cod. Str.) - Archivio nazionale dei veicoli
 
 1\. L'archivio nazionale dei veicoli, costituito presso la Direzione generale della M.C.T.C. ai sensi dell'articolo 226, commi da 5 a 9, del codice, contiene i dati relativi alle abilitazioni di cui all'articolo 47, lettere e), f), g), h), i), l), m) n), del codice, e' completamente informatizzato ed i suoi dati sono gestiti all'interno del sistema informatico della Direzione generale della M.C.T.C. in cinque distinte sezioni ad accesso diretto, fra loro strettamente interconnesse, capaci di fornire una visione selezionata o complessiva dei dati da cui risultano popolate.
 
@@ -7745,7 +7705,7 @@ schedario in cui sono annotati, alfabeticamente per nome del titolare della pate
 
 11\. Al fine di assicurare la puntuale adeguatezza dell'informatizzazione alle esigenze della Amministrazione, la tempestivita' dell'intervento informatico nonche' l'uniformita' di indirizzo di tale intervento, la divisione della Direzione generale della M.C.T.C. che, all'entrata in vigore del presente regolamento, gestisce il centro elaborazione dati, e' posta, ferma restando la tabella I allegata alla legge 1 dicembre 1986, n. 870, alle dipendenze del Direttore generale della Direzione generale della M.C.T.C. ed assume tutte le competenze necessarie per garantire l'informatizzazione delle procedure nonche' la gestione amministrativo-contabile del sistema. Con decreto del Ministro dei trasporti e della navigazione vengono di conseguenza variate le competenze delle Direzioni centrali. Il punto D del quadro a) ed il punto D del quadro b) della predetta tabella sono integrati con la previsione della funzione di direttore del CEIS. L'organizzazione interna del CEIS viene stabilita con norme regolamentari adottate con decreto del Ministro dei trasporti e della navigazione ai sensi dell'articolo 3, comma 2, della legge 13 giugno 1991, n.190.
 
-###### Art. 403 (Art. 226 Cod. Str.) - Anagrafe nazionale degli abilitati alla guida
+##### Art. 403 (Art. 226 Cod. Str.) - Anagrafe nazionale degli abilitati alla guida
 
 1\. L'anagrafe nazionale degli abilitati alla guida, costituita presso la Direzione generale della M.C.T.C., ai sensi dell'articolo 226, commi da 10 a 12, del codice, contiene i dati relativi alle abilitazioni di cui all'articolo 116 del codice, e' completamente informatizzata ed i suoi dati sono gestiti all'interno del sistema informatico della Direzione generale della M.C.T.C. in cinque distinte sezioni ad accesso diretto, tra loro strettamente interconnesse e capaci di fornire una visione selezionata o complessiva dei dati da cui risultano popolate.
 
@@ -7767,7 +7727,7 @@ Le sezioni di cui ai commi 4 e 5 verranno popolate utilizzando i dati gia' dispo
 
 9\. L'anagrafe degli abilitati alla guida e' in contatto telematico con l'archivio delle strade e con l'archivio dei veicoli di cui agli articoli 401 e 402.
 
-###### Art. 404 (Art. 227 Cod. Str.) - Dispositivi di monitoraggio
+##### Art. 404 (Art. 227 Cod. Str.) - Dispositivi di monitoraggio
 
 1\. I dispositivi di monitoraggio, di cui all'articolo 227, comma 1, del codice, sono installati dagli enti proprietari della strada nei luoghi di ciascuna strada, in cui l'installazione risulti piu' opportuna tenuto conto delle direttive comunitarie e della circolare da emanarsi da parte del Ministero dei lavori pubblici - Ispettorato generale per la circolazione e la sicurezza stradale, entro due mesi dall'entrata in vigore del codice. Gli enti proprietari indicano tempestivamente al Ministero dei lavori pubblici - Ispettorato generale per la circolazione e la sicurezza stradale, i luoghi dell'installazione ed inseriscono gli stessi nel proprio catasto stradale, entro trenta giorni dall'indicazione; la prima installazione deve avvenire nel termine indicato dall'articolo 239, comma 2, del codice. L'indicazione puo' essere modificata o aggiornata dall'ente proprietario ogni qual volta le esigenze del traffico o della circolazione lo richiedano.
 
@@ -7775,7 +7735,7 @@ Le sezioni di cui ai commi 4 e 5 verranno popolate utilizzando i dati gia' dispo
 
 3\. Per i dispositivi per il rilevamento dell'inquinamento acustico ed atmosferico, di cui all'articolo 227, comma 2, del codice, l'ente proprietario e' tenuto ad osservare le direttive impartite dal Ministero dell'ambiente, sentito il Ministero dei lavori pubblici. In esse sono indicati i luoghi in cui, per ogni strada, i dispositivi devono essere eventualmente impiantati, le modalita' di installazione e di funzionamento dei medesimi. Per l'installazione si osservano i termini di cui all'articolo 239, comma 2, del codice. L'ente proprietario della strada e' tenuto mensilmente ad inviare i dati raccolti all'archivio nazionale delle strade di cui all'articolo 226 del codice e al Ministero dell'ambiente, secondo le modalita' che saranno stabilite di concerto dal Ministero dei lavori pubblici e dal Ministero dell'ambiente.
 
-###### Art. 405 (Art. 228 Cod. Str.)
+##### Art. 405 (Art. 228 Cod. Str.)
 
 (Regolamentazione dei diritti dovuti dagli interessati per le
 
@@ -7805,7 +7765,7 @@ Visite e prove per il rilascio o il rinnovo del certificato di conformita' ADR a
 
 5\. Gli importi di cui all'articolo 16, lettera a), della legge 1 dicembre 1986, n. 870 sono gestiti dall'organismo di cui all'articolo 6 della legge 16 febbraio 1967, n. 14.))
 
-###### Art. 406 (Art. 231 Cod. Str.) - Abrogazione di disposizioni regolamentari precedentemente in vigore e recepimento delle direttive comunitarie
+##### Art. 406 (Art. 231 Cod. Str.) - Abrogazione di disposizioni regolamentari precedentemente in vigore e recepimento delle direttive comunitarie
 
 1\. Le vigenti disposizioni regolamentari riguardanti l'attuazione del codice della strada non inserite nel presente regolamento restano ferme, ad eccezione di quelle contrarie o incompatibili con le nuove norme.
 
@@ -7815,17 +7775,13 @@ Visite e prove per il rilascio o il rinnovo del certificato di conformita' ADR a
 
 ((4. Le direttive comunitarie, nelle materie disciplinate dal presente regolamento, sono applicate nella versione integrata o modificata in vigore al momento dell'applicazione delle direttive medesime e sono recepite con le modalita' ed i tempi di cui all'articolo 229 del codice.))
 
-## CAPO - II
+### CAPO II - DISPOSIZIONI TRANSITORIE (Artt. 232-240 Codice della Strada)
 
-### DISPOSIZIONI - TRANSITORIE
-
-#### (Artt. 232-240 Codice della Strada)
-
-###### Art. 407 (Artt. da 232 a 240 Cod. Str.) - Disposizione transitoria
+##### Art. 407 (Artt. da 232 a 240 Cod. Str.) - Disposizione transitoria
 
 1\. Le disposizioni del presente regolamento sono applicate con i termini e le decorrenze stabilite per le singole disposizioni del codice cui si riferiscono. Fino alle relative date si applicano le disposizioni regolamentari previgenti, salvo diverse disposizioni delle corrispondenti norme transitorie del codice.
 
-###### Art. 408 (Art. 240 Cod. Str.) - Entrata in vigore delle disposizioni del presente regolamento
+##### Art. 408 (Art. 240 Cod. Str.) - Entrata in vigore delle disposizioni del presente regolamento
 
 1\. Fermo restando quanto previsto dall'articolo 407, le disposizioni del presente regolamento entrano in vigore
 
@@ -7853,13 +7809,9 @@ Registrato alla Corte dei conti, addi' 21 dicembre 1992
 
 Atti di Governo, registro n. 87, foglio n. 1
 
-## CAPO - II
+### CAPO II - DISPOSIZIONI TRANSITORIE (Artt. 232-240 Codice della Strada)
 
-### DISPOSIZIONI - TRANSITORIE
-
-#### (Artt. 232-240 Codice della Strada)
-
-###### Appendici al Titolo I
+##### Appendici al Titolo I
 
 APPENDICI AL TITOLO I
 
@@ -8083,7 +8035,7 @@ h) tutte le parti a sbalzo degli allestimenti che possono ruotare in un qualsias
 
 i) il sistema di lavoro deve inoltre essere bloccato, con valvole sul circuito idraulico o con vincoli meccanici, nella posizione individuata per la marcia su strada in sede di visita e prova.
 
-###### Appendici al Titolo III
+##### Appendici al Titolo III
 
 APPENDICI AL TITOLO III
 
@@ -10280,7 +10232,7 @@ AGGIORNAMENTO (55)
 
 Il D.P.R. 20 luglio 2017, n. 140 ha disposto (con l'art. 2, comma 2) che "I veicoli dotati di targhe di immatricolazione con le sigle delle province, di cui al comma 1, possono continuare a circolare fino a una nuova immatricolazione o fino alla cessazione dalla circolazione".
 
-###### Appendici al Titolo IV
+##### Appendici al Titolo IV
 
 APPENDICI AL TITOLO IV
 
@@ -10444,7 +10396,7 @@ AGGIORNAMENTO (54)
 
 Il D.Lgs. 18 aprile 2011, n. 59, come modificato dal Decreto 22 dicembre 2015 (in G.U. 13/01/2016, n. 9), ha disposto (con l'Allegato III) che "Conseguentemente, all'appendice II - Art. 320 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, le voci relative alle seguenti patologie: affezioni cardiovascolari, diabete, epilessia, malattie del sistema nervoso, malattie psichiche, sostanze psicoattive, sono soppresse".
 
-###### Allegati
+##### Allegati
 
 ALLEGATI
 

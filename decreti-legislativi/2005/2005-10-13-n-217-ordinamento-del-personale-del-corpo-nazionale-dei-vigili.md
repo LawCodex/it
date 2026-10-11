@@ -42,13 +42,11 @@ Emana il seguente decreto legislativo:
 
 ## Titolo I - (( (Ordinamento del personale non direttivo e non dirigente del Corpo nazionale dei vigili del fuoco). ))
 
-### Capo I
+### Capo I - (( (Ruoli del personale non direttivo e non dirigente che espleta funzioni operative). ))
 
-#### (( (Ruoli del personale non direttivo e non dirigente che espleta funzioni operative). ))
+#### ((Sezione I)) - (( (Ruoli dei vigili del fuoco, dei capi squadra e dei capi reparto, degli ispettori antincendi). ))
 
-##### ((Sezione I)) - (( (Ruoli dei vigili del fuoco, dei capi squadra e dei capi reparto, degli ispettori antincendi). ))
-
-###### Art. 1
+##### Art. 1
 
 (( (Istituzione dei ruoli).))
 
@@ -74,7 +72,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 2
+##### Art. 2
 
 (( (Funzioni di polizia giudiziaria).))
 
@@ -92,9 +90,9 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## ((Sezione II)) - (( (Ruolo dei vigili del fuoco). ))
+#### ((Sezione II)) - (( (Ruolo dei vigili del fuoco). ))
 
-###### Art. 3
+##### Art. 3
 
 (( (Articolazione del ruolo dei vigili del fuoco). ))
 
@@ -114,7 +112,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 4
+##### Art. 4
 
 (( (Funzioni del personale appartenente al ruolo dei vigili del fuoco). ))
 
@@ -130,7 +128,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 5 - Accesso al ruolo dei vigili del fuoco
+##### Art. 5 - Accesso al ruolo dei vigili del fuoco
 
 1\. L'accesso alla qualifica di vigile del fuoco avviene mediante concorso pubblico, per titoli ed esami, con facolta' di far precedere le prove di esame da forme di preselezione, il cui superamento costituisce requisito essenziale per la successiva partecipazione al concorso medesimo. Al concorso possono partecipare i cittadini italiani in possesso dei seguenti requisiti:
 
@@ -164,7 +162,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 6 - Corso di formazione per allievi vigili del fuoco
+##### Art. 6 - Corso di formazione per allievi vigili del fuoco
 
 1\. Gli allievi vigili del fuoco frequentano, presso le scuole centrali antincendi o le altre strutture centrali e periferiche del Corpo nazionale, un corso di formazione residenziale della durata di nove mesi, di cui sei mesi di formazione teorico-pratica e tre mesi di applicazione pratica. (14)
 
@@ -216,7 +214,7 @@ AGGIORNAMENTO (41)
 
 La L. 4 aprile 2025, n. 42, come modificata dal D.L. 24 febbraio 2026, n. 23, convertito con modificazioni dalla L. 24 aprile 2026, n. 54, ha disposto (con l'art. 14, comma 2) che "Allo scopo di rafforzare i servizi di soccorso pubblico e di prevenzione degli incendi per far fronte alle emergenze connesse agli eventi giubilari del 2025, in deroga a quanto previsto dall'articolo 6, comma 3, ultimo periodo, e dall'articolo 144, comma 7, del decreto legislativo 13 ottobre 2005, n. 217, a decorrere dalla data di entrata in vigore della presente legge e fino al 31 ottobre 2026, i trasferimenti del personale del ruolo dei vigili del fuoco e del ruolo dei direttivi che espletano funzioni operative possono essere disposti, a domanda, con provvedimento del Capo del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile, anche se il dipendente non abbia maturato il requisito minimo di permanenza in sede".
 
-###### Art. 7
+##### Art. 7
 
 (( (Dimissioni ed espulsione dal corso di formazione).))
 
@@ -250,7 +248,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 8
+##### Art. 8
 
 (( (Promozione alla qualifica di vigile del fuoco esperto e attribuzione di uno scatto convenzionale).))
 
@@ -266,7 +264,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 9
+##### Art. 9
 
 (( (Promozione alla qualifica di vigile del fuoco coordinatore e attribuzione di uno scatto convenzionale). ))
 
@@ -282,9 +280,9 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## ((Sezione III)) - (( (Ruolo dei capi squadra e dei capi reparto). ))
+#### ((Sezione III)) - (( (Ruolo dei capi squadra e dei capi reparto). ))
 
-###### Art. 10
+##### Art. 10
 
 (( (Articolazione del ruolo dei capi squadra e dei capi reparto). ))
 
@@ -304,7 +302,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 11
+##### Art. 11
 
 (( (Funzioni del personale appartenente al ruolo dei capi squadra e dei capi reparto). ))
 
@@ -322,7 +320,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 12 - Immissione nel ruolo dei capi squadra e dei capi reparto
+##### Art. 12 - Immissione nel ruolo dei capi squadra e dei capi reparto
 
 1\. L'accesso alla qualifica di capo squadra avviene, nel limite dei posti disponibili al 31 dicembre di ogni anno, mediante concorso interno per titoli e superamento di un successivo corso di formazione professionale, della durata non inferiore a tre mesi, riservato al personale che, alla predetta data, rivesta la qualifica di vigile del fuoco coordinatore. (24) (26) (36) ((37))
 
@@ -376,7 +374,7 @@ AGGIORNAMENTO (37)
 
 Il D.L. 15 maggio 2024, n. 63 ha disposto (con l'art. 14, comma 2) che "Al fine di assicurare la pronta operativita' e l'efficace svolgimento delle funzioni attribuite al Corpo nazionale dei vigili del fuoco, ivi comprese quelle previste dal decreto legislativo 13 ottobre 2005, n. 217, finalizzate a prevenire incidenti rilevanti negli impianti di interesse strategico nazionale, in deroga a quanto previsto dall'articolo 12, comma 1, del citato decreto legislativo n. 217 del 2005, la durata del corso di formazione della procedura concorsuale per l'accesso al ruolo dei capi squadra e capi reparto con decorrenza dal 1° gennaio 2023, per un numero di posti corrispondente a quelli vacanti al 31 dicembre 2022, e' ridotta, in via eccezionale, a cinque settimane".
 
-###### Art. 13
+##### Art. 13
 
 (( (Dimissioni ed espulsione dal corso di formazione professionale).))
 
@@ -406,7 +404,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 14
+##### Art. 14
 
 (( (Promozione alla qualifica di capo squadra esperto). ))
 
@@ -420,7 +418,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 15
+##### Art. 15
 
 (( (Promozione alla qualifica di capo reparto). ))
 
@@ -438,7 +436,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 16
+##### Art. 16
 
 (( (Attribuzione di uno scatto convenzionale ai capi reparto). ))
 
@@ -458,9 +456,9 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## ((Sezione IV)) - (( (Ruolo degli ispettori antincendi). ))
+#### ((Sezione IV)) - (( (Ruolo degli ispettori antincendi). ))
 
-###### Art. 17
+##### Art. 17
 
 (( (Articolazione del ruolo degli ispettori antincendi). ))
 
@@ -480,7 +478,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 18
+##### Art. 18
 
 (( Funzioni del personale appartenente al ruolo degli ispettori antincendi). ))
 
@@ -496,7 +494,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 19
+##### Art. 19
 
 (( (Accesso al ruolo degli ispettori antincendi). ))
 
@@ -530,7 +528,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 20
+##### Art. 20
 
 (( (Concorso pubblico per l'accesso alla qualifica di ispettore antincendi). ))
 
@@ -564,7 +562,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 21
+##### Art. 21
 
 (( (Corso di formazione e tirocinio per ispettore antincendi). ))
 
@@ -594,7 +592,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 22
+##### Art. 22
 
 (( (Dimissioni ed espulsione dal corso di formazione e dal tirocinio). ))
 
@@ -628,7 +626,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 23
+##### Art. 23
 
 (( (Concorso interno per l'accesso alla qualifica di ispettore antincendi). ))
 
@@ -656,7 +654,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 24
+##### Art. 24
 
 (( (Dimissioni ed espulsione dal corso di formazione). ))
 
@@ -688,7 +686,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 25
+##### Art. 25
 
 (( (Promozione alla qualifica di ispettore antincendi esperto). ))
 
@@ -702,7 +700,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 26
+##### Art. 26
 
 (( (Attribuzione di uno scatto convenzionale agli ispettori antincendi esperti).))
 
@@ -716,7 +714,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 27
+##### Art. 27
 
 (( (Promozione alla qualifica di ispettore antincendi coordinatore).))
 
@@ -734,7 +732,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 28
+##### Art. 28
 
 (( (Attribuzione di uno scatto convenzionale agli ispettori antincendi coordinatori). ))
 
@@ -748,13 +746,11 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## Capo II - (( (Ruoli del personale non direttivo e non dirigente che espleta funzioni specialistiche). ))
+### Capo II - (( (Ruoli del personale non direttivo e non dirigente che espleta funzioni specialistiche). ))
 
-### ((Sezione I))
+#### ((Sezione I)) - (( (Istituzione dei ruoli del personale specialista). ))
 
-#### (( (Istituzione dei ruoli del personale specialista). ))
-
-###### Art. 29 - Ruoli del personale specialista
+##### Art. 29 - Ruoli del personale specialista
 
 1\. Sono istituiti i seguenti ruoli del personale del Corpo nazionale che espleta funzioni specialistiche:
 
@@ -776,9 +772,9 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## ((Sezione II)) - (( (Ruoli delle specialita' aeronaviganti). ))
+#### ((Sezione II)) - (( (Ruoli delle specialita' aeronaviganti). ))
 
-###### Art. 30
+##### Art. 30
 
 (( (Articolazione dei ruoli delle specialita' aeronaviganti). ))
 
@@ -866,7 +862,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 31
+##### Art. 31
 
 (( (Funzioni del personale dei ruoli delle specialita' aeronaviganti). ))
 
@@ -888,7 +884,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 32
+##### Art. 32
 
 (( (Accesso al ruolo dei piloti di aeromobile e al ruolo degli specialisti di aeromobile). ))
 
@@ -924,7 +920,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 33
+##### Art. 33
 
 (( (Concorso pubblico per l'accesso alla qualifica di pilota di aeromobile vigile del fuoco). ))
 
@@ -962,7 +958,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 34
+##### Art. 34
 
 (( (Concorso pubblico per l'accesso alla qualifica di specialista di aeromobile vigile del fuoco). ))
 
@@ -1000,7 +996,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 35
+##### Art. 35
 
 (( (Accesso al ruolo degli elisoccorritori). ))
 
@@ -1024,7 +1020,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 36
+##### Art. 36
 
 (( (Promozioni alle qualifiche di pilota di aeromobile vigile del fuoco esperto, di specialista di aeromobile vigile del fuoco esperto e di elisoccorritore vigile del fuoco esperto e attribuzione degli scatti convenzionali). ))
 
@@ -1040,7 +1036,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 37
+##### Art. 37
 
 (( (Promozioni alle qualifiche di pilota di aeromobile vigile del fuoco coordinatore, di specialista di aeromobile vigile del fuoco coordinatore e di elisoccorritore vigile del fuoco coordinatore e attribuzione degli scatti convenzionali). ))
 
@@ -1056,7 +1052,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 38 - Promozioni alle qualifiche di pilota di aeromobile capo squadra, di specialista di aeromobile capo squadra e di elisoccorritore capo squadra
+##### Art. 38 - Promozioni alle qualifiche di pilota di aeromobile capo squadra, di specialista di aeromobile capo squadra e di elisoccorritore capo squadra
 
 1\. La promozione alle qualifiche di pilota di aeromobile capo squadra, di specialista di aeromobile capo squadra e di elisoccorritore capo squadra avviene, nel limite dei posti disponibili al 31 dicembre di ogni anno, mediante selezione interna, per titoli e superamento di un corso di formazione professionale della durata non inferiore a tre mesi, riservata al personale che, alla predetta data, rivesta, rispettivamente, le qualifiche di pilota di aeromobile vigile del fuoco coordinatore, di specialista di aeromobile vigile del fuoco coordinatore e di elisoccorritore vigile del fuoco coordinatore. ((36))
 
@@ -1084,7 +1080,7 @@ AGGIORNAMENTO (36)
 
 Il D.L. 22 giugno 2023, n. 75 ha disposto (con l'art. 26, comma 5) che "Per le medesime finalita' di cui al comma 4, in deroga a quanto previsto dagli articoli 38, comma 1, e 55, comma 1, del decreto legislativo 13 ottobre 2005, n. 217, la durata dei corsi di formazione delle selezioni interne per la promozione alle qualifiche di pilota di aeromobile capo squadra, di nautico di coperta capo squadra, di nautico di macchina capo squadra e di sommozzatore capo squadra, con decorrenza 1° gennaio 2020, 1° gennaio 2021 e 1° gennaio 2022, per un numero di posti corrispondente rispettivamente a quelli vacanti al 31 dicembre 2019, al 31 dicembre 2020 e al 31 dicembre 2021, e' ridotta, in via eccezionale, a cinque settimane".
 
-###### Art. 39
+##### Art. 39
 
 (( (Promozioni alle qualifiche di pilota di aeromobile capo squadra esperto, di specialista di aeromobile capo squadra esperto e di elisoccorritore capo squadra esperto). ))
 
@@ -1098,7 +1094,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 40
+##### Art. 40
 
 (( (Promozioni alle qualifiche di pilota di aeromobile capo reparto, di specialista di aeromobile capo reparto e di elisoccorritore capo reparto). ))
 
@@ -1116,7 +1112,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 41
+##### Art. 41
 
 (( (Attribuzione di uno scatto convenzionale al personale con le qualifiche di pilota di aeromobile capo reparto, di specialista di aeromobile capo reparto e di elisoccorritore capo reparto). ))
 
@@ -1130,7 +1126,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 42
+##### Art. 42
 
 (( (Promozioni alle qualifiche di pilota di aeromobile ispettore, di specialista di aeromobile ispettore e di elisoccorritore ispettore).))
 
@@ -1164,7 +1160,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 43
+##### Art. 43
 
 (( (Promozioni alle qualifiche di pilota di aeromobile ispettore esperto, di specialista di aeromobile ispettore esperto e di elisoccorritore ispettore esperto). ))
 
@@ -1178,7 +1174,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 44
+##### Art. 44
 
 (( (Attribuzione di uno scatto convenzionale al personale con le qualifiche di pilota di aeromobile ispettore esperto, di specialista di aeromobile ispettore esperto e di elisoccorritore ispettore esperto). ))
 
@@ -1192,7 +1188,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 45
+##### Art. 45
 
 (( (Promozioni alle qualifiche di pilota di aeromobile ispettore coordinatore, di specialista di aeromobile ispettore coordinatore e di elisoccorritore ispettore coordinatore). ))
 
@@ -1210,7 +1206,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 46
+##### Art. 46
 
 (( (Attribuzione di uno scatto convenzionale al personale con qualifiche di pilota di aeromobile ispettore coordinatore, di specialista di aeromobile ispettore coordinatore e di elisoccorritore ispettore coordinatore). ))
 
@@ -1224,9 +1220,9 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## ((Sezione III)) - (( (Ruoli delle specialita' nautiche e dei sommozzatori). ))
+#### ((Sezione III)) - (( (Ruoli delle specialita' nautiche e dei sommozzatori). ))
 
-###### Art. 47
+##### Art. 47
 
 (( (Articolazione dei ruoli delle specialita' nautiche e dei sommozzatori). ))
 
@@ -1314,7 +1310,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 48
+##### Art. 48
 
 (( (Funzioni del personale dei ruoli delle specialita' nautiche e dei sommozzatori). ))
 
@@ -1336,7 +1332,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 49
+##### Art. 49
 
 (( (Accesso al ruolo dei nautici di coperta e al ruolo dei nautici di macchina). ))
 
@@ -1362,7 +1358,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 50
+##### Art. 50
 
 (( (Concorsi pubblici per l'accesso alle qualifiche di nautico di coperta vigile del fuoco e di nautico di macchina vigile del fuoco).))
 
@@ -1400,7 +1396,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 51
+##### Art. 51
 
 (( (Accesso al ruolo dei sommozzatori). ))
 
@@ -1424,7 +1420,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 52
+##### Art. 52
 
 (( (Concorso pubblico per l'accesso alla qualifica di sommozzatore vigile del fuoco). ))
 
@@ -1462,7 +1458,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 53
+##### Art. 53
 
 (( (Promozioni alle qualifiche di nautico di coperta vigile del fuoco esperto, di nautico di macchina vigile del fuoco esperto e di sommozzatore vigile del fuoco esperto e attribuzione degli scatti convenzionali). ))
 
@@ -1478,7 +1474,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 54
+##### Art. 54
 
 (( (Promozioni alle qualifiche di nautico di coperta vigile del fuoco coordinatore, di nautico di macchina vigile del fuoco coordinatore e di sommozzatore vigile del fuoco coordinatore e attribuzione degli scatti convenzionali). ))
 
@@ -1494,7 +1490,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 55 - Promozioni alle qualifiche di nautico di coperta capo squadra, di nautico di macchina capo squadra e di sommozzatore capo squadra
+##### Art. 55 - Promozioni alle qualifiche di nautico di coperta capo squadra, di nautico di macchina capo squadra e di sommozzatore capo squadra
 
 1\. La promozione alle qualifiche di nautico di coperta capo squadra, di nautico di macchina capo squadra e di sommozzatore capo squadra avviene, nel limite dei posti disponibili al 31 dicembre di ogni anno, mediante selezione interna, per titoli e superamento di un corso di formazione della durata non inferiore a tre mesi, riservata al personale che, alla predetta data, rivesta, rispettivamente, le qualifiche di nautico di coperta vigile del fuoco coordinatore, di nautico di macchina vigile del fuoco coordinatore e di sommozzatore vigile del fuoco coordinatore. ((36))
 
@@ -1522,7 +1518,7 @@ AGGIORNAMENTO (36)
 
 Il D.L. 22 giugno 2023, n. 75 ha disposto (con l'art. 26, comma 5) che "Per le medesime finalita' di cui al comma 4, in deroga a quanto previsto dagli articoli 38, comma 1, e 55, comma 1, del decreto legislativo 13 ottobre 2005, n. 217, la durata dei corsi di formazione delle selezioni interne per la promozione alle qualifiche di pilota di aeromobile capo squadra, di nautico di coperta capo squadra, di nautico di macchina capo squadra e di sommozzatore capo squadra, con decorrenza 1° gennaio 2020, 1° gennaio 2021 e 1° gennaio 2022, per un numero di posti corrispondente rispettivamente a quelli vacanti al 31 dicembre 2019, al 31 dicembre 2020 e al 31 dicembre 2021, e' ridotta, in via eccezionale, a cinque settimane".
 
-###### Art. 56
+##### Art. 56
 
 (( (Promozioni alle qualifiche di nautico di coperta capo squadra esperto, di nautico di macchina capo squadra esperto e di sommozzatore capo squadra esperto). ))
 
@@ -1536,7 +1532,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 57
+##### Art. 57
 
 (( (Promozioni alle qualifiche di nautico di coperta capo reparto, di nautico di macchina capo reparto e di sommozzatore capo reparto). ))
 
@@ -1554,7 +1550,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 58
+##### Art. 58
 
 (( (Attribuzione di uno scatto convenzionale al personale con le qualifiche di nautico di coperta capo reparto, di nautico di macchina capo reparto e di sommozzatore capo reparto). ))
 
@@ -1568,7 +1564,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 59
+##### Art. 59
 
 (( (Promozioni alle qualifiche di nautico di coperta ispettore, di nautico di macchina ispettore e di sommozzatore ispettore). ))
 
@@ -1596,7 +1592,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 60
+##### Art. 60
 
 (( (Promozioni alle qualifiche di nautico di coperta ispettore esperto, di nautico di macchina ispettore esperto e di sommozzatore ispettore esperto). ))
 
@@ -1610,7 +1606,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 61
+##### Art. 61
 
 (( (Attribuzione di uno scatto convenzionale al personale con le qualifiche di nautico di coperta ispettore esperto, di nautico di macchina ispettore esperto e di sommozzatore ispettore esperto). ))
 
@@ -1624,7 +1620,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 62
+##### Art. 62
 
 (( (Promozioni alle qualifiche di nautico di coperta ispettore coordinatore, di nautico di macchina ispettore coordinatore e di sommozzatore ispettore coordinatore). ))
 
@@ -1642,7 +1638,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 63
+##### Art. 63
 
 (( (Attribuzione di uno scatto convenzionale al personale con qualifiche di nautico di coperta ispettore coordinatore, di nautico di macchina ispettore coordinatore e di sommozzatore ispettore coordinatore). ))
 
@@ -1656,9 +1652,9 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## ((Sezione IV)) - (( (Disposizioni comuni per i ruoli del personale specialista). ))
+#### ((Sezione IV)) - (( (Disposizioni comuni per i ruoli del personale specialista). ))
 
-###### Art. 64
+##### Art. 64
 
 (( (Valutazione annuale per gli ispettori dei ruoli del personale specialista). ))
 
@@ -1686,7 +1682,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 65
+##### Art. 65
 
 (( (Transito in altri ruoli). ))
 
@@ -1710,9 +1706,9 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## Capo III - (( (Altre disposizioni relative al personale non direttivo e non dirigente che espleta funzioni operative e funzioni specialistiche). ))
+### Capo III - (( (Altre disposizioni relative al personale non direttivo e non dirigente che espleta funzioni operative e funzioni specialistiche). ))
 
-###### Art. 66
+##### Art. 66
 
 (( (Conferimento delle promozioni per merito straordinario). ))
 
@@ -1730,7 +1726,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 67
+##### Art. 67
 
 (( (Decorrenza, procedimento e Commissione per le promozioni per merito straordinario). ))
 
@@ -1752,13 +1748,11 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## Capo IV - (( (Ruoli tecnico-professionali del personale non direttivo e non dirigente). ))
+### Capo IV - (( (Ruoli tecnico-professionali del personale non direttivo e non dirigente). ))
 
-### ((Sezione I))
+#### ((Sezione I)) - (( (Istituzione dei ruoli tecnico-professionali). ))
 
-#### (( (Istituzione dei ruoli tecnico-professionali). ))
-
-###### Art. 68 - Istituzione dei ruoli
+##### Art. 68 - Istituzione dei ruoli
 
 1\. Sono istituiti i seguenti ruoli tecnico-professionali del personale del Corpo nazionale:
 
@@ -1788,9 +1782,9 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## ((Sezione II)) - (( (Ruolo degli operatori e degli assistenti).))
+#### ((Sezione II)) - (( (Ruolo degli operatori e degli assistenti).))
 
-###### Art. 69
+##### Art. 69
 
 (( (Articolazione del ruolo degli operatori e degli assistenti). ))
 
@@ -1810,7 +1804,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 70
+##### Art. 70
 
 (( (Funzioni del personale appartenente al ruolo degli operatori e degli assistenti). ))
 
@@ -1830,7 +1824,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 71
+##### Art. 71
 
 (( (Accesso al ruolo degli operatori e degli assistenti). ))
 
@@ -1874,7 +1868,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 72
+##### Art. 72
 
 (( (Promozione alla qualifica di operatore esperto). ))
 
@@ -1888,7 +1882,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 73
+##### Art. 73
 
 (( (Attribuzione di uno scatto convenzionale al personale con qualifica di operatore esperto). ))
 
@@ -1902,7 +1896,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 74
+##### Art. 74
 
 (( (Promozione alla qualifica di assistente). ))
 
@@ -1918,7 +1912,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 75
+##### Art. 75
 
 (( (Attribuzione di uno scatto convenzionale al personale con qualifica di assistente). ))
 
@@ -1932,9 +1926,9 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## ((Sezione III)) - (( (Ruolo degli ispettori logistico-gestionali). ))
+#### ((Sezione III)) - (( (Ruolo degli ispettori logistico-gestionali). ))
 
-###### Art. 76
+##### Art. 76
 
 (( (Articolazione del ruolo degli ispettori logistico-gestionali). ))
 
@@ -1954,7 +1948,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 77
+##### Art. 77
 
 (( (Funzioni del personale appartenente al ruolo degli ispettori logistico-gestionali). ))
 
@@ -1970,7 +1964,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 78
+##### Art. 78
 
 (( (Accesso al ruolo degli ispettori logistico-gestionali). ))
 
@@ -2002,7 +1996,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 79
+##### Art. 79
 
 (( (Concorso pubblico per l'accesso alla qualifica di ispettore logistico-gestionale). ))
 
@@ -2034,7 +2028,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 80
+##### Art. 80
 
 (( (Corso di formazione e tirocinio per ispettore logistico-gestionale). ))
 
@@ -2060,7 +2054,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 81
+##### Art. 81
 
 (( (Dimissioni ed espulsione dal corso di formazione e dal tirocinio). ))
 
@@ -2094,7 +2088,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 82
+##### Art. 82
 
 (( (Concorso interno per l'accesso alla qualifica di ispettore logistico-gestionale).))
 
@@ -2114,7 +2108,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 83
+##### Art. 83
 
 (( (Dimissioni ed espulsione dal corso di formazione). ))
 
@@ -2146,7 +2140,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 84
+##### Art. 84
 
 (( (Promozione alla qualifica di ispettore logistico-gestionale esperto).))
 
@@ -2160,7 +2154,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 85
+##### Art. 85
 
 (( (Attribuzione di uno scatto convenzionale agli ispettori logistico-gestionali esperti).))
 
@@ -2174,7 +2168,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 86
+##### Art. 86
 
 (( (Promozione alla qualifica di ispettore logistico-gestionale coordinatore). ))
 
@@ -2192,7 +2186,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 87
+##### Art. 87
 
 (( (Attribuzione di uno scatto convenzionale agli ispettori logistico-gestionali coordinatori). ))
 
@@ -2206,9 +2200,9 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## ((Sezione IV)) - (( (Ruolo degli ispettori informatici). ))
+#### ((Sezione IV)) - (( (Ruolo degli ispettori informatici). ))
 
-###### Art. 88
+##### Art. 88
 
 (( (Articolazione del ruolo degli ispettori informatici).))
 
@@ -2226,7 +2220,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 89
+##### Art. 89
 
 (( (Funzioni del personale appartenente al ruolo degli ispettori informatici). ))
 
@@ -2242,7 +2236,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 90
+##### Art. 90
 
 (( (Accesso al ruolo degli ispettori informatici). ))
 
@@ -2272,7 +2266,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 91
+##### Art. 91
 
 (( (Concorso pubblico per l'accesso alla qualifica di ispettore informatico). ))
 
@@ -2304,7 +2298,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 92
+##### Art. 92
 
 (( (Corso di formazione e tirocinio per ispettore informatico). ))
 
@@ -2332,7 +2326,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 93
+##### Art. 93
 
 (( (Dimissioni ed espulsione dal corso di formazione e dal tirocinio). ))
 
@@ -2366,7 +2360,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 94
+##### Art. 94
 
 (( (Concorso interno per l'accesso alla qualifica di ispettore informatico). ))
 
@@ -2388,7 +2382,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 95
+##### Art. 95
 
 (( (Dimissioni ed espulsione dal corso di formazione). ))
 
@@ -2420,7 +2414,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 96
+##### Art. 96
 
 (( (Promozione alla qualifica di ispettore informatico esperto). ))
 
@@ -2434,7 +2428,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 97
+##### Art. 97
 
 (( (Attribuzione di uno scatto convenzionale agli ispettori informatici esperti). ))
 
@@ -2448,7 +2442,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 98
+##### Art. 98
 
 (( (Promozione alla qualifica di ispettore informatico coordinatore).))
 
@@ -2466,7 +2460,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 99
+##### Art. 99
 
 (( (Attribuzione di uno scatto convenzionale agli ispettori informatici coordinatori). ))
 
@@ -2480,9 +2474,9 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## ((Sezione V)) - (( (Ruolo degli ispettori tecnico-scientifici). ))
+#### ((Sezione V)) - (( (Ruolo degli ispettori tecnico-scientifici). ))
 
-###### Art. 100
+##### Art. 100
 
 (( (Articolazione del ruolo degli ispettori tecnico-scientifici).))
 
@@ -2502,7 +2496,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 101
+##### Art. 101
 
 (( (Funzioni del personale appartenente al ruolo degli ispettori tecnico-scientifici). ))
 
@@ -2518,7 +2512,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 102
+##### Art. 102
 
 (( (Accesso al ruolo degli ispettori tecnico-scientifici).))
 
@@ -2548,7 +2542,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 103
+##### Art. 103
 
 (( (Concorso pubblico per l'accesso alla qualifica di ispettore tecnico-scientifico). ))
 
@@ -2580,7 +2574,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 104
+##### Art. 104
 
 (( (Corso di formazione e tirocinio per ispettore tecnico-scientifico). ))
 
@@ -2594,7 +2588,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 105
+##### Art. 105
 
 (( (Dimissioni ed espulsione dal corso di formazione e dal tirocinio). ))
 
@@ -2628,7 +2622,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 106
+##### Art. 106
 
 (( (Concorso interno per l'accesso alla qualifica di ispettore tecnico-scientifico). ))
 
@@ -2648,7 +2642,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 107
+##### Art. 107
 
 (( (Dimissioni ed espulsione dal corso di formazione). ))
 
@@ -2680,7 +2674,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 108
+##### Art. 108
 
 (( (Promozione alla qualifica di ispettore tecnico-scientifico esperto). ))
 
@@ -2694,7 +2688,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 109
+##### Art. 109
 
 (( (Attribuzione di uno scatto convenzionale agli ispettori tecnico-scientifici esperti). ))
 
@@ -2708,7 +2702,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 110
+##### Art. 110
 
 (( (Promozione alla qualifica di ispettore tecnico-scientifico coordinatore). ))
 
@@ -2726,7 +2720,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 111
+##### Art. 111
 
 (( (Attribuzione di uno scatto convenzionale agli ispettori tecnico-scientifici coordinatori). ))
 
@@ -2740,9 +2734,9 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## ((Sezione VI)) - (( (Ruolo degli ispettori sanitari).))
+#### ((Sezione VI)) - (( (Ruolo degli ispettori sanitari).))
 
-###### Art. 112
+##### Art. 112
 
 (( (Articolazione del ruolo degli ispettori sanitari). ))
 
@@ -2762,7 +2756,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 113
+##### Art. 113
 
 (( (Funzioni del personale appartenente al ruolo degli ispettori sanitari). ))
 
@@ -2778,7 +2772,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 114
+##### Art. 114
 
 (( (Accesso al ruolo degli ispettori sanitari). ))
 
@@ -2808,7 +2802,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 115
+##### Art. 115
 
 (( Concorso pubblico per l'accesso alla qualifica di ispettore sanitario). ))
 
@@ -2844,7 +2838,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 116
+##### Art. 116
 
 (( (Corso di formazione e tirocinio per ispettore sanitario). ))
 
@@ -2870,7 +2864,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 117
+##### Art. 117
 
 (( (Dimissioni ed espulsione dal corso di formazione e dal tirocinio). ))
 
@@ -2904,7 +2898,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 118
+##### Art. 118
 
 (( (Concorso interno per l'accesso alla qualifica di ispettore sanitario). ))
 
@@ -2926,7 +2920,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 119
+##### Art. 119
 
 (( (Dimissioni ed espulsione dal corso di formazione). ))
 
@@ -2958,7 +2952,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 120
+##### Art. 120
 
 (( (Promozione alla qualifica di ispettore sanitario esperto). ))
 
@@ -2972,7 +2966,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 121
+##### Art. 121
 
 (( (Attribuzione di uno scatto convenzionale agli ispettori sanitari esperti). ))
 
@@ -2984,7 +2978,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 122
+##### Art. 122
 
 (( (Promozione alla qualifica di ispettore sanitario coordinatore). ))
 
@@ -3002,19 +2996,17 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 123
+##### Art. 123
 
 (( (Attribuzione di uno scatto convenzionale agli ispettori sanitari coordinatori). ))
 
 ((1. E' attribuito uno scatto convenzionale al personale con qualifica di ispettore sanitario coordinatore che abbia maturato otto anni di effettivo servizio nella qualifica, che nel triennio precedente non abbia riportato una sanzione disciplinare pari o piu' grave della sanzione pecuniaria, e che non sia stato sospeso cautelarmente dal servizio, rinviato a giudizio o ammesso ai riti alternativi per i delitti di cui all'articolo 10, comma 1, del decreto legislativo 31 dicembre 2012, n. 235, ovvero sottoposto a procedimento disciplinare per l'applicazione di una sanzione disciplinare pari o piu' grave della sanzione pecuniaria. In caso di proscioglimento, l'attribuzione dello scatto convenzionale avviene anche con effetto retroattivo.))
 
-## Capo V - (( (Ruoli di rappresentanza del personale non direttivo e non dirigente). ))
+### Capo V - (( (Ruoli di rappresentanza del personale non direttivo e non dirigente). ))
 
-### ((Sezione I))
+#### ((Sezione I)) - (( (Ruoli della banda musicale). ))
 
-#### (( (Ruoli della banda musicale). ))
-
-###### Art. 124
+##### Art. 124
 
 (( ((Istituzione e articolazione dei ruoli della banda musicale). ))
 
@@ -3036,7 +3028,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 125
+##### Art. 125
 
 (( (Funzioni del personale appartenente ai ruoli della banda musicale). ))
 
@@ -3058,7 +3050,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 126
+##### Art. 126
 
 (( (Accesso ai ruoli della banda musicale). ))
 
@@ -3094,7 +3086,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 127
+##### Art. 127
 
 (( (Promozioni alle qualifiche superiori e attribuzione di scatti convenzionali). ))
 
@@ -3118,7 +3110,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 128
+##### Art. 128
 
 (( (Sopravvenuta inidoneita'). ))
 
@@ -3134,9 +3126,9 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## ((Sezione II)) - (( (Ruolo degli atleti del gruppo sportivo vigili del fuoco Fiamme Rosse). ))
+#### ((Sezione II)) - (( (Ruolo degli atleti del gruppo sportivo vigili del fuoco Fiamme Rosse). ))
 
-###### Art. 129
+##### Art. 129
 
 (( (Istituzione e articolazione del ruolo degli atleti del gruppo sportivo vigili del fuoco Fiamme Rosse). ))
 
@@ -3152,7 +3144,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 130
+##### Art. 130
 
 (( (Funzioni del personale appartenente al ruolo degli atleti del gruppo sportivo vigili del fuoco Fiamme Rosse). ))
 
@@ -3170,7 +3162,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 131
+##### Art. 131
 
 (( (Accesso al ruolo degli atleti del gruppo sportivo vigili del fuoco Fiamme Rosse). ))
 
@@ -3208,7 +3200,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 132
+##### Art. 132
 
 (( (Attribuzione di scatti convenzionali). ))
 
@@ -3224,11 +3216,11 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 132-bis
+##### Art. 132-bis
 
 ((IL D.LGS. 6 OTTOBRE 2018, N. 127 HA DISPOSTO LA TOTALE MODIFICA DEL PRESENTE PROVVEDIMENTO RIDEFINENDONE LA STRUTTURA DI TITOLI, CAPI ED ARTICOLI))
 
-###### Art. 133
+##### Art. 133
 
 (( (Sopravvenuta inidoneita'). ))
 
@@ -3244,9 +3236,9 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## Capo VI - (( (Valutazione annuale del personale appartenente ai ruoli degli ispettori). ))
+### Capo VI - (( (Valutazione annuale del personale appartenente ai ruoli degli ispettori). ))
 
-###### Art. 134
+##### Art. 134
 
 (( (Valutazione annuale del personale appartenente ai ruoli degli ispettori). ))
 
@@ -3274,9 +3266,9 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## ((Capo VII)) - (( (Procedimento negoziale del personale non direttivo e non dirigente). ))
+### ((Capo VII)) - (( (Procedimento negoziale del personale non direttivo e non dirigente). ))
 
-###### Art. 135
+##### Art. 135
 
 (( (Consultazione delle organizzazioni sindacali nell'ambito della programmazione finanziaria e di bilancio). ))
 
@@ -3290,7 +3282,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 136
+##### Art. 136
 
 (( (Ambito di applicazione). ))
 
@@ -3308,7 +3300,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 137
+##### Art. 137
 
 (( (Delegazioni negoziali). ))
 
@@ -3322,7 +3314,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 138
+##### Art. 138
 
 (( (Materie di negoziazione). ))
 
@@ -3370,7 +3362,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 139
+##### Art. 139
 
 (( (Procedura di negoziazione). ))
 
@@ -3396,7 +3388,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 140
+##### Art. 140
 
 (( (Accordi integrativi nazionali e accordi decentrati). ))
 
@@ -3418,11 +3410,9 @@ Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli ef
 
 ## Titolo II - (( (Ordinamento del personale direttivo e dirigente del Corpo nazionale dei vigili del fuoco). ))
 
-### Capo I
+### Capo I - (( (Ruoli dei direttivi e dei dirigenti che espletano funzioni operative).))
 
-#### (( (Ruoli dei direttivi e dei dirigenti che espletano funzioni operative).))
-
-###### Art. 141
+##### Art. 141
 
 (( (Istituzione e articolazione dei ruoli dei direttivi e dei dirigenti che espletano funzioni operative). ))
 
@@ -3460,7 +3450,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 142
+##### Art. 142
 
 (( (Funzioni del personale appartenente ai ruoli dei direttivi e dei dirigenti che espletano funzioni operative). ))
 
@@ -3480,7 +3470,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 143
+##### Art. 143
 
 (( (Accesso al ruolo dei direttivi che espletano funzioni operative). ))
 
@@ -3518,7 +3508,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 144 - Corso di formazione e tirocinio per vice direttore
+##### Art. 144 - Corso di formazione e tirocinio per vice direttore
 
 1\. I vincitori del concorso di cui all'articolo 143 sono nominati vice direttori in prova. Il periodo di prova ha la durata di dodici mesi, di cui nove mesi di corso di formazione residenziale teorico-pratica presso l'Istituto superiore antincendi, e tre mesi di tirocinio tecnico-operativo presso i comandi dei vigili del fuoco.
 
@@ -3564,7 +3554,7 @@ AGGIORNAMENTO (41)
 
 La L. 4 aprile 2025, n. 42, come modificata dal D.L. 24 febbraio 2026, n. 23, convertito con modificazioni dalla L. 24 aprile 2026, n. 54, ha disposto (con l'art. 14, comma 2) che "Allo scopo di rafforzare i servizi di soccorso pubblico e di prevenzione degli incendi per far fronte alle emergenze connesse agli eventi giubilari del 2025, in deroga a quanto previsto dall'articolo 6, comma 3, ultimo periodo, e dall'articolo 144, comma 7, del decreto legislativo 13 ottobre 2005, n. 217, a decorrere dalla data di entrata in vigore della presente legge e fino al 31 ottobre 2026, i trasferimenti del personale del ruolo dei vigili del fuoco e del ruolo dei direttivi che espletano funzioni operative possono essere disposti, a domanda, con provvedimento del Capo del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile, anche se il dipendente non abbia maturato il requisito minimo di permanenza in sede".
 
-###### Art. 145
+##### Art. 145
 
 (( (Dimissioni ed espulsione dal corso di formazione e dal tirocinio). ))
 
@@ -3600,7 +3590,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 146
+##### Art. 146
 
 (( (Promozione alla qualifica di direttore). ))
 
@@ -3616,7 +3606,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 147
+##### Art. 147
 
 (( (Promozione alla qualifica di direttore vicedirigente). ))
 
@@ -3630,7 +3620,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 148
+##### Art. 148
 
 (( (Accesso al ruolo dei dirigenti che espletano funzioni operative). ))
 
@@ -3652,7 +3642,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 149
+##### Art. 149
 
 (( (Promozione alla qualifica di dirigente superiore). ))
 
@@ -3668,7 +3658,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 150
+##### Art. 150
 
 (( (Percorso di carriera).))
 
@@ -3684,7 +3674,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 151 - Nomina a dirigente generale
+##### Art. 151 - Nomina a dirigente generale
 
 1\. I dirigenti generali sono nominati tra i dirigenti superiori con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, su proposta del Ministro dell'interno, nei limiti delle disponibilita' di organico.
 
@@ -3706,7 +3696,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 152
+##### Art. 152
 
 (( (Capo del Corpo nazionale) )).
 
@@ -3722,13 +3712,11 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## Capo II - (( (Ruoli tecnico-professionali del personale direttivo e dirigente). ))
+### Capo II - (( (Ruoli tecnico-professionali del personale direttivo e dirigente). ))
 
-### ((Sezione I))
+#### ((Sezione I)) - (( (Ruoli dei direttivi e dei dirigenti logistico-gestionali). ))
 
-#### (( (Ruoli dei direttivi e dei dirigenti logistico-gestionali). ))
-
-###### Art. 153
+##### Art. 153
 
 (( (Istituzione e articolazione dei ruoli dei direttivi e dei dirigenti logistico-gestionali). ))
 
@@ -3760,7 +3748,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 154
+##### Art. 154
 
 (( (Funzioni del personale appartenente ai ruoli dei direttivi e dei dirigenti logistico-gestionali). ))
 
@@ -3780,7 +3768,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 155
+##### Art. 155
 
 (( (Accesso al ruolo dei direttivi logistico-gestionali). ))
 
@@ -3816,7 +3804,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 156
+##### Art. 156
 
 (( (Corso di formazione e tirocinio per vice direttore logistico-gestionale).))
 
@@ -3844,7 +3832,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 157
+##### Art. 157
 
 (( (Dimissioni ed espulsione dal corso di formazione e dal tirocinio). ))
 
@@ -3880,7 +3868,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 158
+##### Art. 158
 
 (( (Promozione alla qualifica di direttore logistico-gestionale). ))
 
@@ -3896,7 +3884,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 159
+##### Art. 159
 
 (( (Promozione alla qualifica di direttore vicedirigente logistico-gestionale). ))
 
@@ -3910,7 +3898,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 160
+##### Art. 160
 
 (( (Accesso al ruolo dei dirigenti logistico-gestionali).))
 
@@ -3930,7 +3918,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 161
+##### Art. 161
 
 (( (Percorso di carriera). ))
 
@@ -3944,9 +3932,9 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## ((Sezione II)) - (( (Ruoli dei direttivi e dei dirigenti informatici). ))
+#### ((Sezione II)) - (( (Ruoli dei direttivi e dei dirigenti informatici). ))
 
-###### Art. 162
+##### Art. 162
 
 (( (Istituzione e articolazione dei ruoli dei direttivi e dei dirigenti informatici).))
 
@@ -3978,7 +3966,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 163
+##### Art. 163
 
 (( (Funzioni del personale appartenente ai ruoli dei direttivi e dei dirigenti informatici). ))
 
@@ -3998,7 +3986,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 164
+##### Art. 164
 
 (( (Accesso al ruolo dei direttivi informatici).))
 
@@ -4034,7 +4022,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 165
+##### Art. 165
 
 (( (Corso di formazione e tirocinio per vice direttore informatico). ))
 
@@ -4062,7 +4050,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 166
+##### Art. 166
 
 (( (Dimissioni ed espulsione dal corso di formazione e dal tirocinio). ))
 
@@ -4098,7 +4086,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 167
+##### Art. 167
 
 (( (Promozione alla qualifica di direttore informatico).))
 
@@ -4114,7 +4102,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 168
+##### Art. 168
 
 (( (Promozione alla qualifica di direttore vicedirigente informatico).))
 
@@ -4140,7 +4128,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 169
+##### Art. 169
 
 (( (Accesso al ruolo dei dirigenti informatici). ))
 
@@ -4160,7 +4148,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 170
+##### Art. 170
 
 (( (Percorso di carriera). ))
 
@@ -4174,9 +4162,9 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## ((Sezione III)) - (( (Ruolo dei direttivi tecnico-scientifici). ))
+#### ((Sezione III)) - (( (Ruolo dei direttivi tecnico-scientifici). ))
 
-###### Art. 171
+##### Art. 171
 
 (( (Istituzione e articolazione del ruolo dei direttivi tecnico-scientifici). ))
 
@@ -4200,7 +4188,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 172
+##### Art. 172
 
 (( (Funzioni del personale appartenente al ruolo dei direttivi tecnico-scientifici). ))
 
@@ -4216,7 +4204,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 173
+##### Art. 173
 
 (( (Accesso al ruolo dei direttivi tecnico-scientifici). ))
 
@@ -4252,7 +4240,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 174
+##### Art. 174
 
 (( (Corso di formazione e tirocinio per vice direttore tecnico-scientifico). ))
 
@@ -4280,7 +4268,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 175
+##### Art. 175
 
 (( (Dimissioni ed espulsione dal corso di formazione e dal tirocinio). ))
 
@@ -4316,7 +4304,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 176
+##### Art. 176
 
 (( (Promozione alla qualifica di direttore tecnico-scientifico). ))
 
@@ -4332,7 +4320,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 177
+##### Art. 177
 
 (( (Promozione alla qualifica di direttore vicedirigente tecnico-scientifico). ))
 
@@ -4346,9 +4334,9 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## ((Sezione IV)) - (( (Ruoli dei direttivi e dei dirigenti sanitari). ))
+#### ((Sezione IV)) - (( (Ruoli dei direttivi e dei dirigenti sanitari). ))
 
-###### Art. 178
+##### Art. 178
 
 (( (Istituzione e articolazione dei ruoli dei direttivi e dei dirigenti sanitari). ))
 
@@ -4382,7 +4370,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 179
+##### Art. 179
 
 (( (Funzioni del personale appartenente ai ruoli dei direttivi e dei dirigenti sanitari). ))
 
@@ -4434,7 +4422,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 180
+##### Art. 180
 
 (( (Accesso al ruolo dei direttivi sanitari). ))
 
@@ -4472,7 +4460,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 181
+##### Art. 181
 
 (( (Corso di formazione e tirocinio per vice direttore sanitario). ))
 
@@ -4502,7 +4490,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 182
+##### Art. 182
 
 (( (Dimissioni ed espulsione dal corso di formazione e dal tirocinio). ))
 
@@ -4538,7 +4526,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 183
+##### Art. 183
 
 (( (Promozione alla qualifica di direttore sanitario). ))
 
@@ -4554,7 +4542,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 184
+##### Art. 184
 
 (( (Promozione alla qualifica di direttore vicedirigente sanitario). ))
 
@@ -4568,7 +4556,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 185
+##### Art. 185
 
 (( (Accesso al ruolo dei dirigenti sanitari). ))
 
@@ -4588,7 +4576,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 186
+##### Art. 186
 
 (( (Promozione alla qualifica di dirigente superiore sanitario). ))
 
@@ -4604,7 +4592,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 187
+##### Art. 187
 
 (( (Percorso di carriera). ))
 
@@ -4618,9 +4606,9 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## ((Sezione V)) - (( (Ruoli dei direttivi e dei dirigenti ginnico-sportivi). ))
+#### ((Sezione V)) - (( (Ruoli dei direttivi e dei dirigenti ginnico-sportivi). ))
 
-###### Art. 188
+##### Art. 188
 
 (( (Istituzione e articolazione dei ruoli dei direttivi e dei dirigenti ginnico-sportivi). ))
 
@@ -4656,7 +4644,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 189
+##### Art. 189
 
 (( (Funzioni del personale appartenente ai ruoli dei direttivi e dei dirigenti ginnico-sportivi). ))
 
@@ -4692,7 +4680,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 190
+##### Art. 190
 
 (( (Accesso al ruolo dei direttivi ginnico-sportivi). ))
 
@@ -4726,7 +4714,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 191
+##### Art. 191
 
 (( (Corso di formazione e tirocinio per vice direttore ginnico-sportivo). ))
 
@@ -4756,7 +4744,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 192
+##### Art. 192
 
 (( (Dimissioni ed espulsione dal corso di formazione e dal tirocinio). ))
 
@@ -4792,7 +4780,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 193
+##### Art. 193
 
 (( (Promozione alla qualifica di direttore ginnico-sportivo). ))
 
@@ -4808,7 +4796,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 194
+##### Art. 194
 
 (( (Promozione alla qualifica di direttore vicedirigente ginnico-sportivo). ))
 
@@ -4820,7 +4808,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 195
+##### Art. 195
 
 (( (Accesso al ruolo dei dirigenti ginnico-sportivi). ))
 
@@ -4840,7 +4828,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 196
+##### Art. 196
 
 (( (Promozione alla qualifica di dirigente superiore ginnico-sportivo). ))
 
@@ -4856,7 +4844,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 197
+##### Art. 197
 
 (( (Percorso di carriera). ))
 
@@ -4870,9 +4858,9 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## Capo III - (( (Disposizioni comuni al personale direttivo e dirigente). ))
+### Capo III - (( (Disposizioni comuni al personale direttivo e dirigente). ))
 
-###### Art. 198
+##### Art. 198
 
 (( (Individuazione delle posizioni organizzative per il personale appartenente ai ruoli direttivi). ))
 
@@ -4890,7 +4878,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 199
+##### Art. 199
 
 (( (Conferimento delle posizioni organizzative per il personale direttivo). ))
 
@@ -4906,7 +4894,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 200
+##### Art. 200
 
 (( (Individuazione degli incarichi di livello dirigenziale). ))
 
@@ -4922,7 +4910,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 201
+##### Art. 201
 
 (( (Conferimento degli incarichi di livello dirigenziale). ))
 
@@ -4944,7 +4932,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 202
+##### Art. 202
 
 (( (Valutazione annuale dei direttivi e dei dirigenti). ))
 
@@ -4980,7 +4968,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 203
+##### Art. 203
 
 (( (Norme relative agli scrutini di promozione). ))
 
@@ -5006,7 +4994,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 204
+##### Art. 204
 
 (( (Commissione per la progressione in carriera). ))
 
@@ -5024,7 +5012,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 205
+##### Art. 205
 
 (( (Verifica dei risultati e responsabilita' dirigenziale). ))
 
@@ -5042,7 +5030,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 206
+##### Art. 206
 
 (( (Collocamento in disponibilita'). ))
 
@@ -5064,7 +5052,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 207
+##### Art. 207
 
 (( (Collocamento in disponibilita' a domanda). ))
 
@@ -5080,7 +5068,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 208
+##### Art. 208
 
 (( (Trattamento economico). ))
 
@@ -5098,7 +5086,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 209
+##### Art. 209
 
 (( (Retribuzione di rischio e di posizione). ))
 
@@ -5116,7 +5104,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 210
+##### Art. 210
 
 (( (Retribuzione di risultato). ))
 
@@ -5134,7 +5122,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 211
+##### Art. 211
 
 (( (Attribuzione di uno scatto convenzionale al personale appartenente ai ruoli dei direttivi e dei dirigenti). ))
 
@@ -5152,7 +5140,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 212
+##### Art. 212
 
 (( (Attribuzione di uno scatto convenzionale al personale appartenente ai ruoli dei direttivi e dei dirigenti logistico-gestionali e informatici). ))
 
@@ -5166,13 +5154,11 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## Capo IV - (( (Ruolo dei direttivi aggiunti del personale del Corpo nazionale). ))
+### Capo IV - (( (Ruolo dei direttivi aggiunti del personale del Corpo nazionale). ))
 
-### ((Sezione I))
+#### ((Sezione I)) - (( (Ruolo dei direttivi aggiunti che espletano funzioni operative). ))
 
-#### (( (Ruolo dei direttivi aggiunti che espletano funzioni operative). ))
-
-###### Art. 213
+##### Art. 213
 
 (( (Istituzione e articolazione del ruolo dei direttivi aggiunti). ))
 
@@ -5196,7 +5182,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 214
+##### Art. 214
 
 (( (Funzioni dei direttivi aggiunti). ))
 
@@ -5212,7 +5198,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 215
+##### Art. 215
 
 (( (Concorso interno per l'accesso alla qualifica di vice direttore aggiunto). ))
 
@@ -5240,7 +5226,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 216
+##### Art. 216
 
 (( (Corso di formazione per l'immissione nella qualifica di vice direttore aggiunto). ))
 
@@ -5260,7 +5246,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 217
+##### Art. 217
 
 (( (Dimissioni ed espulsione dal corso di formazione). ))
 
@@ -5292,7 +5278,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 218
+##### Art. 218
 
 (( (Promozione alla qualifica di direttore aggiunto). ))
 
@@ -5308,7 +5294,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 219
+##### Art. 219
 
 (( (Promozione alla qualifica di direttore coordinatore). ))
 
@@ -5322,7 +5308,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 220
+##### Art. 220
 
 (( (Valutazione annuale del personale appartenente al ruolo dei direttivi aggiunti). ))
 
@@ -5350,7 +5336,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 221
+##### Art. 221
 
 (( (Attribuzione di uno scatto convenzionale al personale appartenente al ruolo dei direttivi aggiunti). ))
 
@@ -5368,15 +5354,15 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 222
+##### Art. 222
 
 ((ARTICOLO ABROGATO DAL D.L. 22 APRILE 2023, N. 44))
 
-###### Art. 223
+##### Art. 223
 
 ((ARTICOLO ABROGATO DAL D.L. 22 APRILE 2023, N. 44))
 
-###### Art. 224
+##### Art. 224
 
 (( (Procedimento negoziale del personale appartenente al ruolo dei direttivi aggiunti). ))
 
@@ -5390,9 +5376,9 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## Capo V - (( (Procedimento negoziale del personale direttivo e dirigente). ))
+### Capo V - (( (Procedimento negoziale del personale direttivo e dirigente). ))
 
-###### Art. 225
+##### Art. 225
 
 (( (Consultazione delle organizzazioni sindacali nell'ambito della programmazione finanziaria e di bilancio). ))
 
@@ -5406,7 +5392,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 226
+##### Art. 226
 
 (( (Ambito di applicazione). ))
 
@@ -5424,7 +5410,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 227
+##### Art. 227
 
 (( (Delegazioni negoziali). ))
 
@@ -5438,7 +5424,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 228
+##### Art. 228
 
 (( (Materie di negoziazione). ))
 
@@ -5482,7 +5468,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 229
+##### Art. 229
 
 (( (Procedura di negoziazione). ))
 
@@ -5508,7 +5494,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 230
+##### Art. 230
 
 (( (Accordi integrativi nazionali e accordi decentrati). ))
 
@@ -5528,11 +5514,9 @@ Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli ef
 
 ## Titolo IV - (( (Disposizioni comuni al personale del Corpo nazionale). ))
 
-### Capo I
+### Capo I - (( (Disposizioni riguardanti la costituzione, la modificazione e l'estinzione del rapporto di impiego). ))
 
-#### (( (Disposizioni riguardanti la costituzione, la modificazione - e l'estinzione del rapporto di impiego). ))
-
-###### Art. 231
+##### Art. 231
 
 (( (Accesso al Corpo nazionale). ))
 
@@ -5548,7 +5532,7 @@ c) mobilita' dai Corpi permanenti dei vigili del fuoco delle province autonome d
 
 3\. E' abrogato l'articolo 2 della legge 27 dicembre 1973, n. 850.))
 
-###### Art. 232
+##### Art. 232
 
 (( (Mobilita' degli appartenenti ai Corpi permanenti dei vigili del fuoco delle province autonome di Trento e di Bolzano e della regione Valle d'Aosta). ))
 
@@ -5558,7 +5542,7 @@ c) mobilita' dai Corpi permanenti dei vigili del fuoco delle province autonome d
 
 3\. Ferme restando le verifiche di cui al comma 2, gli appartenenti ai Corpi permanenti dei vigili del fuoco delle province autonome di Trento e di Bolzano e della regione Valle d'Aosta possono essere chiamati a frequentare un corso di formazione e di tirocinio operativo presso le scuole centrali antincendi o le altre strutture centrali e periferiche del Corpo nazionale.))
 
-###### Art. 233
+##### Art. 233
 
 (( (Comando e collocamento fuori ruolo). ))
 
@@ -5570,7 +5554,7 @@ c) mobilita' dai Corpi permanenti dei vigili del fuoco delle province autonome d
 
 4\. Per quanto non previsto dal presente articolo, ivi incluso il comando e il collocamento fuori ruolo del personale delle pubbliche amministrazioni presso il Dipartimento e le strutture periferiche del Corpo nazionale, si applicano, in quanto compatibili, gli articoli 56, 57, 58 e 59 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, nonche' le relative disposizioni di attuazione.))
 
-###### Art. 234
+##### Art. 234
 
 (( (Mutamento di funzioni e trasferimento di ruolo per sopravvenuta inidoneita' psico-fisica). ))
 
@@ -5586,7 +5570,7 @@ c) mobilita' dai Corpi permanenti dei vigili del fuoco delle province autonome d
 
 6\. Le disposizioni di cui al presente articolo si applicano, in quanto compatibili, agli allievi vigili del fuoco in prova.))
 
-###### Art. 235
+##### Art. 235
 
 (( (Riammissione in servizio). ))
 
@@ -5598,7 +5582,7 @@ c) mobilita' dai Corpi permanenti dei vigili del fuoco delle province autonome d
 
 4\. Qualora, per effetto della cessazione del rapporto di impiego, il personale goda di trattamento pensionistico, si applicano le vigenti disposizioni in materia di cumulo tra trattamento retributivo e trattamento pensionistico.))
 
-###### Art. 236
+##### Art. 236
 
 (( (Cause di cessazione dal servizio e limiti di eta' per il collocamento a riposo). ))
 
@@ -5606,9 +5590,9 @@ c) mobilita' dai Corpi permanenti dei vigili del fuoco delle province autonome d
 
 2\. I limiti di eta' per il collocamento a riposo del personale appartenente ai ruoli dei vigili del fuoco, dei capi squadra e dei capi reparto e alle corrispondenti qualifiche dei ruoli del personale che espleta funzioni specialistiche, di cui al titolo I, capi I e II, sono disciplinati dall'articolo 2, comma 1, del decreto legislativo 30 aprile 1997, n. 165. Per il rimanente personale dei ruoli non direttivi e non dirigenti di cui al titolo I, capi I e II, fermo restando quanto previsto dagli articoli 19, comma 9, 42, comma 7 e 59, comma 7, per il personale dei ruoli non direttivi e non dirigenti di cui al titolo I, capi IV e V, e per quello dei ruoli direttivi e dirigenti di cui al titolo II, si applicano le disposizioni di cui all'articolo 4 del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092.))
 
-## Capo II - (( (Altre disposizioni comuni). ))
+### Capo II - (( (Altre disposizioni comuni). ))
 
-###### Art. 237
+##### Art. 237
 
 (( (Diritti e prerogative sindacali nelle sedi di servizio). ))
 
@@ -5616,7 +5600,7 @@ c) mobilita' dai Corpi permanenti dei vigili del fuoco delle province autonome d
 
 2\. In ragione dell'unicita' del procedimento negoziale previsto per il personale appartenente alle qualifiche direttive e dirigenziali e della tendenziale omogeneita' dei rispettivi ordinamenti, i diritti e le prerogative sindacali sono riconosciuti al personale direttivo nelle medesime forme previste per il personale di livello dirigenziale.))
 
-###### Art. 238
+##### Art. 238
 
 (( (Diritti e doveri del personale del Corpo nazionale). ))
 
@@ -5624,7 +5608,7 @@ c) mobilita' dai Corpi permanenti dei vigili del fuoco delle province autonome d
 
 2\. Nei casi in cui non siano applicabili, ai sensi del comma 1, norme di legge o di regolamento o comunque per gli aspetti non diversamente disciplinati da leggi o regolamenti, i doveri del personale del Corpo nazionale possono essere integrati o specificati dai codici di comportamento adottati ai sensi dei commi 1 e 5 dell'articolo 54 del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni.))
 
-###### Art. 239
+##### Art. 239
 
 (( (Sanzioni disciplinari). ))
 
@@ -5664,13 +5648,13 @@ g) le disposizioni transitorie in relazione anche ai procedimenti pendenti alla 
 
 4\. Il regolamento indicato al comma 2 puo' anche prevedere la riproduzione delle corrispondenti disposizioni contenute nei contratti collettivi nazionali e integrativi di lavoro relativi al personale del Corpo nazionale.))
 
-###### Art. 240
+##### Art. 240
 
 (( (Regolamento di servizio del Corpo nazionale). ))
 
 ((1. Il regolamento di servizio del Corpo nazionale e' approvato con decreto del Presidente della Repubblica, da adottare ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, sentite le organizzazioni sindacali rappresentative sul piano nazionale del personale del Corpo.))
 
-###### Art. 241
+##### Art. 241
 
 (( (Modifica e ripartizione territoriale delle dotazioni organiche del personale del Corpo nazionale). ))
 
@@ -5678,7 +5662,7 @@ g) le disposizioni transitorie in relazione anche ai procedimenti pendenti alla 
 
 2\. Alla ripartizione delle dotazioni organiche di cui al comma 1 nelle strutture centrali e periferiche dell'amministrazione dell'interno si provvede con decreto del Ministro dell'interno, da comunicare alla Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica.))
 
-###### Art. 242
+##### Art. 242
 
 (( (Formazione del personale). ))
 
@@ -5700,7 +5684,7 @@ g) le disposizioni transitorie in relazione anche ai procedimenti pendenti alla 
 
 9\. Qualora il Dipartimento riconosca la stretta ed effettiva connessione delle iniziative di formazione svolte dal funzionario ai sensi del comma 8 con l'attivita' di servizio e l'incarico affidatogli, esso puo' concorrere, nei limiti delle risorse finanziarie disponibili, con un proprio contributo alla spesa sostenuta e debitamente documentata.))
 
-###### Art. 243
+##### Art. 243
 
 (( (Norme relative agli scrutini di promozione e ai concorsi). ))
 
@@ -5712,7 +5696,7 @@ g) le disposizioni transitorie in relazione anche ai procedimenti pendenti alla 
 
 Agli stessi fini si tiene conto della data di inquadramento giuridico nella qualifica e della sussistenza di eventuali cause di perdita dell'anzianita'.))
 
-###### Art. 244
+##### Art. 244
 
 (( (Disciplina del rapporto di impiego a tempo parziale e del telelavoro). ))
 
@@ -5724,11 +5708,9 @@ Agli stessi fini si tiene conto della data di inquadramento giuridico nella qual
 
 ## Titolo VI - (( (Norme di inquadramento, concorsi straordinari e disposizioni economico-finanziarie). ))
 
-### Capo I
+### Capo I - (( (Norme di inquadramento). ))
 
-#### (( (Norme di inquadramento). ))
-
-###### Art. 245
+##### Art. 245
 
 (( (Inquadramento nelle qualifiche del ruolo dei vigili del fuoco). ))
 
@@ -5762,7 +5744,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 246
+##### Art. 246
 
 (( (Inquadramento nelle qualifiche del ruolo dei capi squadra e dei capi reparto). ))
 
@@ -5790,7 +5772,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 247
+##### Art. 247
 
 (( (Inquadramento nelle qualifiche del ruolo degli ispettori antincendi). ))
 
@@ -5824,7 +5806,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 248
+##### Art. 248
 
 (( (Inquadramento nelle qualifiche del ruolo dei pilota di aeromobile e del ruolo degli specialisti di aeromobile). ))
 
@@ -5894,7 +5876,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 249 - Inquadramento nelle qualifiche del ruolo degli elisoccorritori
+##### Art. 249 - Inquadramento nelle qualifiche del ruolo degli elisoccorritori
 
 1\. Il personale appartenente al ruolo dei vigili del fuoco e al ruolo dei capi squadra e dei capi reparto, in possesso della specializzazione speleo alpino fluviale di livello 2B gia' impiegato nello specifico servizio operativo presso i reparti volo del Dipartimento, e' inquadrato, a domanda, ai sensi dei commi 2 e 3, nelle qualifiche del ruolo degli elisoccorritori, ((in fase di prima applicazione, anche in soprannumero riassorbibile con le vacanze ordinarie delle dotazioni organiche, ferma restando la consistenza complessiva del ruolo prevista nella tabella A allegata al presente decreto. Fino all'assorbimento del soprannumero e' reso indisponibile un numero finanziariamente equivalente di posti nei ruoli, rispettivamente, dei vigili del fuoco, dei capi squadra e dei capi reparto e degli ispettori antincendio, di cui all'articolo 1, comma 1, lettere a), b) e c) )). Ai fini del predetto inquadramento si applica il criterio della maggiore anzianita' nella medesima specializzazione.
 
@@ -5962,7 +5944,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 250
+##### Art. 250
 
 (( (Inquadramento nelle qualifiche del ruolo degli specialisti nautici di coperta e del ruolo degli specialisti nautici di macchina). ))
 
@@ -6034,7 +6016,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 251
+##### Art. 251
 
 (( (Inquadramento nelle qualifiche del ruolo dei sommozzatori). ))
 
@@ -6104,7 +6086,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 252
+##### Art. 252
 
 (( (Inquadramento nelle qualifiche del ruolo degli operatori e degli assistenti). ))
 
@@ -6140,7 +6122,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 253
+##### Art. 253
 
 (( (Inquadramento nelle qualifiche del ruolo degli ispettori logistico-gestionali). ))
 
@@ -6174,7 +6156,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 254
+##### Art. 254
 
 (( (Inquadramento nelle qualifiche del ruolo degli ispettori informatici). ))
 
@@ -6208,7 +6190,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 255
+##### Art. 255
 
 (( (Inquadramento nelle qualifiche dei ruoli della banda musicale dei vigili del fuoco). ))
 
@@ -6228,7 +6210,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 256
+##### Art. 256
 
 (( (Inquadramento nella qualifica del ruolo degli atleti del gruppo sportivo vigili del fuoco Fiamme Rosse). ))
 
@@ -6244,7 +6226,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 257
+##### Art. 257
 
 (( (Inquadramento nelle qualifiche del ruolo dei direttivi logistico-gestionali). ))
 
@@ -6270,7 +6252,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 258
+##### Art. 258
 
 (( (Inquadramento nelle qualifiche del ruolo dei direttivi informatici). ))
 
@@ -6296,9 +6278,9 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## Capo II - (( (Concorsi straordinari). ))
+### Capo II - (( (Concorsi straordinari). ))
 
-###### Art. 259
+##### Art. 259
 
 (( (Concorsi straordinari a direttore, direttore logistico-gestionale e direttore informatico). ))
 
@@ -6326,7 +6308,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 260
+##### Art. 260
 
 (( (Concorsi straordinari per primo dirigente). ))
 
@@ -6352,9 +6334,9 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## Capo III - (( (Disposizioni economico-finanziarie). ))
+### Capo III - (( (Disposizioni economico-finanziarie). ))
 
-###### Art. 261
+##### Art. 261
 
 (( (Clausola di salvaguardia retributiva). ))
 
@@ -6368,7 +6350,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 262
+##### Art. 262
 
 (( (Trattamento economico). ))
 
@@ -6382,9 +6364,9 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 6 ottobre 2018, n. 127 ha disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici di cui al presente articolo decorrono dalla data del 1° gennaio 2018.
 
-## Capo III - (( (Disposizioni economico-finanziarie). ))
+### Capo III - (( (Disposizioni economico-finanziarie). ))
 
-###### Tabella A
+##### Tabella A
 
 Tabella A
 
@@ -6899,7 +6881,7 @@ AGGIORNAMENTO (35)
 
 Il D.L. 13 giugno 2023, n. 69 ha disposto (con l'art. 12, comma 1) che "Al fine di garantire gli attuali standard operativi e i livelli di efficienza ed efficacia del Corpo nazionale dei vigili del fuoco, in relazione alla richiesta di sicurezza proveniente dal territorio nazionale, le dotazioni organiche delle qualifiche di vigile del fuoco e di operatore sono incrementate rispettivamente di 350 e di 200 unita'. Conseguentemente, la dotazione organica di cui alla Tabella A, allegata al decreto legislativo 13 ottobre 2005, n. 217, e' rideterminata secondo i suddetti incrementi".
 
-###### Tabella B
+##### Tabella B
 
 Tabella B
 
@@ -7086,7 +7068,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 22 aprile 2023, n. 44 ha disposto (con l'art. 15, comma 33) che la presente modifica si applica a decorrere dal 1° luglio 2023.
 
-###### Tabella C
+##### Tabella C
 
 TABELLA C
 
@@ -7220,7 +7202,7 @@ Il D.P.R. 23 giugno 2025, n. 125, nel modificare l'art. 22-bis, comma 1 del D.L.
 
 \- (con l'art. 5, comma 1) che le misure dell'indennita' mensile per il personale non direttivo e non dirigente dei ruoli tecnico-professionali e dei ruoli di rappresentanza del Corpo nazionale dei vigili del fuoco, come stabilite dall'articolo 22-bis, comma 1, del decreto-legge 9 agosto 2022, n. 115, convertito, con modificazioni, dalla legge 21 settembre 2022, n. 142, a decorrere dal 1° gennaio 2024 sono incrementate degli importi mensili lordi e rideterminate negli importi mensili lordi secondo quanto riportato nelle tabelle allegate al medesimo D.P.R. 23 giugno 2025, n. 125.
 
-###### Tabella D
+##### Tabella D
 
 Tabella D
 

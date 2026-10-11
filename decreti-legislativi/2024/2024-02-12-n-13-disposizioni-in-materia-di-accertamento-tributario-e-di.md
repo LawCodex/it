@@ -56,11 +56,9 @@ il seguente decreto legislativo:
 
 ## Titolo I - DISPOSIZIONI IN MATERIA DI ACCERTAMENTO TRIBUTARIO
 
-### Capo I
+### Capo I - Disposizioni in materia di procedimento accertativo
 
-#### Disposizioni in materia di procedimento accertativo
-
-##### Art. 1
+#### Art. 1
 
 Partecipazione del contribuente al procedimento di accertamento
 
@@ -660,7 +658,7 @@ b) dopo l'articolo 26 e' inserito il seguente:
 
 > Per quanto non e' regolato dal presente articolo si applicano le disposizioni dell'art. 60 del predetto decreto; per la notificazione della cartella di pagamento ai contribuenti non residenti si applicano le disposizioni di cui al quarto e quinto comma dell'articolo 60 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600.».
 
-##### Art. 2
+#### Art. 2
 
 Razionalizzazione e riordino delle disposizioni normative in materia di attivita' di analisi del rischio
 
@@ -780,7 +778,7 @@ b) le parole: «e' titolare» sono sostituite dalle seguenti: «dispone, con il 
 
 > «15. Al fine di garantire la continuita' delle funzioni di controllo e monitoraggio dei dati fiscali e finanziari, i diritti dell'azionista della societa' di gestione del sistema informativo dell'amministrazione finanziaria ai sensi dell'articolo 22, comma 4, della legge 30 dicembre 1991, n. 413, sono esercitati dal Ministero dell'economia e delle finanze ai sensi dell'articolo 6, comma 7, del regolamento di cui al decreto del Presidente della Repubblica 30 gennaio 2008, n. 43, che provvede agli atti conseguenti in base alla legislazione vigente. Sono abrogate tutte le disposizioni incompatibili con il presente comma. Il consiglio di amministrazione, composto di cinque componenti, e' conseguentemente rinnovato entro il 30 giugno 2008 senza applicazione dell'articolo 2383, terzo comma, del codice civile.».
 
-##### Art. 3
+#### Art. 3
 
 Introduzione di specifiche forme di cooperazione tra le amministrazioni nazionali ed estere e riordino delle forme di cooperazione esistenti
 
@@ -848,7 +846,7 @@ Si applicano, in quanto compatibili, i commi 3, 4 e 5.».
 
 2\. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri per la finanza pubblica e l'Amministrazione competente provvede all'espletamento delle attivita' ivi previste con le risorse umane, strumentali e finanziarie previste a legislazione vigente.
 
-##### Art. 4
+#### Art. 4
 
 Prevenzione e contrasto dei fenomeni evasivi e fraudolenti in ambito IVA
 
@@ -1018,7 +1016,7 @@ b) all'articolo 35, dopo il comma 7-ter e' inserito il seguente:
 
 > 7-quinquies. Nei confronti del rappresentante fiscale, nominato ai sensi dell'articolo 17, terzo comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, che non adempie agli obblighi di cui all'articolo 35, comma 7-quater, terzo periodo, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e' irrogata la sanzione amministrativa da euro 3.000 a euro 50.000; non si applica l'articolo 12 del decreto legislativo 18 dicembre 1997, n. 472.».
 
-##### Art. 5
+#### Art. 5
 
 Revisione dei termini di prescrizione e decadenza
 
@@ -1062,17 +1060,15 @@ b) l'articolo 29 e' sostituito dal seguente:
 
 ## Titolo II - DISCIPLINA DEL CONCORDATO PREVENTIVO BIENNALE
 
-### Capo I
+### Capo I - Disposizioni generali
 
-#### Disposizioni generali
-
-##### Art. 6
+#### Art. 6
 
 Finalita'
 
 1\. Al fine di razionalizzare gli obblighi dichiarativi e di favorire l'adempimento spontaneo, i contribuenti di minori dimensioni, titolari di reddito di impresa e di lavoro autonomo derivante dall'esercizio di arti e professioni che svolgono attivita' nel territorio dello Stato, possono accedere a un concordato preventivo biennale alle condizioni e secondo le modalita' previste dal presente titolo.
 
-##### Art. 7
+#### Art. 7
 
 Ambito di applicazione
 
@@ -1190,7 +1186,7 @@ Ambito di applicazione
 
 > 89\. Con decreti di natura non regolamentare del Ministro dell'economia e delle finanze possono essere dettate le disposizioni necessarie per l'attuazione dei commi da 54 a 88. Con provvedimenti del direttore dell'Agenzia delle entrate sono stabilite le relative modalita' applicative.»
 
-##### Art. 8
+#### Art. 8
 
 Procedure informatiche di ausilio all'attuazione del concordato
 
@@ -1202,7 +1198,7 @@ Procedure informatiche di ausilio all'attuazione del concordato
 
 ((4. Per il 2024 i programmi informatici di cui al comma 1 sono resi disponibili entro il 15 giugno ovvero entro il 15 luglio per i contribuenti in regime forfetario gia' dall'anno 2023.))
 
-##### Art. 9
+#### Art. 9
 
 Elaborazione e adesione alla proposta di concordato
 
@@ -1236,11 +1232,9 @@ AGGIORNAMENTO (6)
 
 Il D.L. 27 marzo 2026, n. 38, convertito con modificazioni dalla L. 22 maggio 2026, n. 88, ha disposto (con l'art. 7-bis, comma 3) che "Per il biennio 2026-2027 il termine per aderire alla proposta di concordato, di cui all'articolo 9, comma 3, del decreto legislativo 12 febbraio 2024, n. 13, e' differito al 31 ottobre 2026 ovvero all'ultimo giorno del decimo mese successivo a quello di chiusura del periodo d'imposta per i soggetti con periodo d'imposta non coincidente con l'anno solare".
 
-## Capo II - Contribuenti per i quali si applicano gli Indici sintetici di
+### Capo II - Contribuenti per i quali si applicano gli Indici sintetici di affidabilita' fiscale
 
-### affidabilita' fiscale
-
-##### Art. 10
+#### Art. 10
 
 Concordato per i soggetti che applicano gli indici sintetici di affidabilita' fiscale - requisiti
 
@@ -1256,7 +1250,7 @@ AGGIORNAMENTO (9)
 
 Il D.Lgs. 7 agosto 2026, n. 148 ha disposto (con l'art. 28, comma 3) che la presente modifica si applica a decorrere dal biennio d'imposta 2026-2027.
 
-##### Art. 11
+#### Art. 11
 
 Cause di esclusione
 
@@ -1290,7 +1284,7 @@ AGGIORNAMENTO (9)
 
 Il D.Lgs. 7 agosto 2026, n. 148 ha disposto (con l'art. 28, comma 3) che le presenti modifiche si applicano a decorrere dal biennio d'imposta 2026-2027.
 
-##### Art. 12
+#### Art. 12
 
 Effetti dell'accettazione della proposta
 
@@ -1422,7 +1416,7 @@ Effetti dell'accettazione della proposta
 
 > 5\. Le singole leggi e atti aventi forza di legge possono stabilire, a integrazione di quanto previsto nel presente articolo, ulteriori circostanze che importino l'attenuazione della sanzione.».
 
-##### Art. 13
+#### Art. 13
 
 Adempimenti
 
@@ -1436,7 +1430,7 @@ b) alla comunicazione dei dati mediante la presentazione dei modelli per l'appli
 
 > \- Per il riferimento all'articolo 9-bis del decreto-legge 24 aprile 2017, n. 50, convertito, con modificazioni, dalla legge 21 giugno 2017, n. 96, si veda nelle note all'articolo 1.
 
-##### Art. 14
+#### Art. 14
 
 Rinnovo del concordato
 
@@ -1456,7 +1450,7 @@ AGGIORNAMENTO (9)
 
 Il D.Lgs. 7 agosto 2026, n. 148 ha disposto (con l'art. 28, comma 3) che le presenti modifiche si applicano a decorrere dal biennio d'imposta 2026-2027.
 
-##### Art. 15
+#### Art. 15
 
 Reddito di lavoro autonomo oggetto di concordato
 
@@ -1478,7 +1472,7 @@ AGGIORNAMENTO (4)
 
 Il D.Lgs. 12 giugno 2025, n. 81 ha disposto (con l'art. 13, comma 2) che "In deroga all'articolo 3 della legge 27 luglio 2000, 212, le disposizioni di cui al comma 1 si applicano a decorrere dalle opzioni esercitate per l'adesione al concordato relative al biennio 2025- 2026".
 
-##### Art. 16
+#### Art. 16
 
 Reddito d'impresa oggetto di concordato
 
@@ -1518,7 +1512,7 @@ AGGIORNAMENTO (6)
 
 Il D.L. 27 marzo 2026, n. 38, convertito con modificazioni dalla L. 22 maggio 2026, n. 88, ha disposto (con l'art. 7, comma 3-bis, lettera b)) che "al comma 2, dopo le parole: "la maggiorazione del costo del lavoro" sono inserite le seguenti: ", la maggiorazione delle quote di ammortamento e dei canoni di locazione finanziaria"".
 
-##### Art. 17
+#### Art. 17
 
 (( (Valore della produzione netta oggetto di concordato). ))
 
@@ -1526,13 +1520,13 @@ Il D.L. 27 marzo 2026, n. 38, convertito con modificazioni dalla L. 22 maggio 20
 
 2\. Il saldo netto tra le componenti di cui al comma 1 determina una corrispondente variazione del valore della produzione netta concordato ferma restando la dichiarazione di un valore minimo di 2.000 euro.))
 
-##### Art. 18
+#### Art. 18
 
 Effetti del concordato ai fini dell'imposta sul valore aggiunto
 
 1\. L'adesione al concordato non produce effetti ai fini dell'imposta sul valore aggiunto, la cui applicazione avviene secondo le regole ordinarie.
 
-##### Art. 19
+#### Art. 19
 
 Rilevanza delle basi imponibili concordate
 
@@ -1550,7 +1544,7 @@ AGGIORNAMENTO (9)
 
 Il D.Lgs. 7 agosto 2026, n. 148 ha disposto (con l'art. 28, comma 3) che la presente modifica si applica a decorrere dal biennio d'imposta 2026-2027.
 
-##### Art. 20 - Determinazione degli acconti
+#### Art. 20 - Determinazione degli acconti
 
 1\. L'acconto delle imposte sui redditi e dell'imposta regionale sulle attivita' produttive relativo ai periodi d'imposta oggetto del concordato e' determinato secondo le regole ordinarie tenendo conto dei redditi e del valore della produzione netta concordati.
 
@@ -1572,7 +1566,7 @@ AGGIORNAMENTO (9)
 
 Il D.Lgs. 7 agosto 2026, n. 148 ha disposto (con l'art. 28, comma 3) che la presente modifica si applica a decorrere dal biennio d'imposta 2026-2027.
 
-##### Art. 20-bis - Regime opzionale di imposizione sostitutiva sul maggior reddito concordato per i soggetti che applicano gli indici sintetici di affidabilita' fiscale
+#### Art. 20-bis - Regime opzionale di imposizione sostitutiva sul maggior reddito concordato per i soggetti che applicano gli indici sintetici di affidabilita' fiscale
 
 1\. Per i periodi d'imposta oggetto del concordato, i contribuenti che aderiscono alla proposta dell'Agenzia delle entrate possono assoggettare la parte di reddito d'impresa o di lavoro autonomo derivante dall'adesione al concordato, che risulta eccedente rispetto al corrispondente reddito dichiarato nel periodo d'imposta antecedente a quelli cui si riferisce la proposta, rettificato secondo quanto disposto dagli articoli 15 e 16, a una imposta sostitutiva delle imposte sul reddito, addizionali comprese, applicando un'aliquota:
 
@@ -1596,7 +1590,7 @@ AGGIORNAMENTO (4)
 
 Il D.Lgs. 12 giugno 2025, n. 81 ha disposto (con l'art. 8, comma 2) che "La disposizione di cui al comma 1 si applica a partire dalle adesioni al concordato preventivo biennale per il biennio 2025-2026, purche' non esercitate prima della data di entrata in vigore del presente decreto".
 
-##### Art. 21
+#### Art. 21
 
 Cessazione del concordato
 
@@ -1628,7 +1622,7 @@ AGGIORNAMENTO (9)
 
 Il D.Lgs. 7 agosto 2026, n. 148 ha disposto (con l'art. 28, comma 3) che le presenti modifiche si applicano a decorrere dal biennio d'imposta 2026-2027.
 
-##### Art. 22
+#### Art. 22
 
 Decadenza del concordato
 
@@ -1668,61 +1662,61 @@ AGGIORNAMENTO (9)
 
 Il D.Lgs. 7 agosto 2026, n. 148 ha disposto (con l'art. 28, comma 3) che le presenti modifiche si applicano a decorrere dal biennio d'imposta 2026-2027.
 
-## Capo III - Contribuenti che aderiscono al regime forfetario
+### Capo III - Contribuenti che aderiscono al regime forfetario
 
 ### ((CAPO ABROGATO DAL D.LGS. 12 GIUGNO 2025, n. 81))
 
-##### Art. 23
+#### Art. 23
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 GIUGNO 2025, N. 81))
 
-##### Art. 24
+#### Art. 24
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 GIUGNO 2025, N. 81))
 
-##### Art. 25
+#### Art. 25
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 GIUGNO 2025, N. 81))
 
-##### Art. 26
+#### Art. 26
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 GIUGNO 2025, N. 81))
 
-##### Art. 27
+#### Art. 27
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 GIUGNO 2025, N. 81))
 
-##### Art. 28
+#### Art. 28
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 GIUGNO 2025, N. 81))
 
-##### Art. 29
+#### Art. 29
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 GIUGNO 2025, N. 81))
 
-##### Art. 30
+#### Art. 30
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 GIUGNO 2025, N. 81))
 
-##### Art. 31
+#### Art. 31
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 GIUGNO 2025, N. 81))
 
-##### Art. 31-bis
+#### Art. 31-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 GIUGNO 2025, N. 81))
 
-##### Art. 32
+#### Art. 32
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 GIUGNO 2025, N. 81))
 
-##### Art. 33
+#### Art. 33
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 GIUGNO 2025, N. 81))
 
-## Capo IV - Disposizioni comuni di coordinamento e conclusive
+### Capo IV - Disposizioni comuni di coordinamento e conclusive
 
-##### Art. 34
+#### Art. 34
 
 Attivita' di accertamento
 
@@ -1762,7 +1756,7 @@ Attivita' di accertamento
 
 > Le disposizioni dei commi precedenti valgono, in quanto applicabili, anche per i redditi delle imprese minori e per quelli derivanti dall'esercizio di arti e professioni, con riferimento alle scritture contabili rispettivamente indicate negli artt. 18 e 19. Il reddito di impresa dei soggetti indicati nel quarto comma dell'art. 18, che non hanno provveduto agli adempimenti contabili di cui ai precedenti commi dello stesso articolo, e' determinato in ogni caso ai sensi del secondo comma del presente articolo.».
 
-##### Art. 35
+#### Art. 35
 
 Disposizioni di coordinamento
 
@@ -1786,7 +1780,7 @@ Disposizioni di coordinamento
 
 > \- Il decreto del Presidente del Consiglio dei ministri 5 dicembre 2013, n. 159, concernente: «Regolamento concernente la revisione delle modalita' di determinazione e i campi di applicazione dell'Indicatore della situazione economica equivalente (ISEE)», e' stato pubblicato nella Gazzetta Ufficiale 24 gennaio 2014, n. 19.
 
-##### Art. 36
+#### Art. 36
 
 Commissione degli esperti
 
@@ -1796,7 +1790,7 @@ Commissione degli esperti
 
 > \- Per il riferimento all'articolo 9-bis del decreto-legge 24 aprile 2017, n. 50, convertito, con modificazioni, dalla legge 21 giugno 2017, n. 96, si veda nelle note all'articolo 1.
 
-##### Art. 37
+#### Art. 37
 
 Differimento del termine dei versamenti del saldo e del primo acconto per il primo anno di applicazione del concordato
 
@@ -1804,11 +1798,11 @@ Differimento del termine dei versamenti del saldo e del primo acconto per il pri
 
 2\. Le disposizioni di cui al comma 1 si applicano, oltre che ai soggetti che adottano gli indici sintetici di affidabilita' fiscale o che presentano cause di esclusione dagli stessi, compresi quelli che adottano il regime di cui all'articolo 27, comma 1, del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalle legge 15 luglio 2011, n. 111, nonche' quelli che applicano il regime forfetario di cui all'articolo 1, commi da 54 a 86, della legge n. 190 del 2014, anche ai soggetti che partecipano a societa', associazioni e imprese ai sensi degli articoli 5, 115 e 116, del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica n. 917 del 1986.
 
-##### Art. 38
+#### Art. 38
 
 ((ARTICOLO ABROGATO DAL D.LGS. 5 AGOSTO 2024, N. 108))
 
-##### Art. 39
+#### Art. 39
 
 Clausola di invarianza finanziaria
 
@@ -1816,11 +1810,9 @@ Clausola di invarianza finanziaria
 
 ## Titolo III - DISPOSIZIONI FINALI
 
-### Capo I
+### Capo I - Disposizioni finanziarie, entrata in vigore e decorrenza
 
-#### Disposizioni finanziarie, entrata in vigore e decorrenza
-
-##### Art. 40
+#### Art. 40
 
 Disposizioni finanziarie
 
@@ -1830,7 +1822,7 @@ Disposizioni finanziarie
 
 3\. Le maggiori entrate erariali, per il biennio 2024-2025, derivanti dall'attuazione delle disposizioni di cui al titolo II, ad eccezione di quelle relative all'articolo 10, comma 2, e le eventuali maggiori entrate derivanti dall'attuazione dell'articolo 2-quater del decreto-legge 9 agosto 2024, n. 113, convertito, con modificazioni, dalla legge 7 ottobre 2024, n. 143, affluiscono al pertinente capitolo dell'entrata del bilancio dello Stato, e nella misura determinata sulla base del monitoraggio effettuato dal Ministero dell'economia e delle finanze - Dipartimento delle finanze e dall'Agenzia delle entrate sono destinate, anche mediante riassegnazione, al fondo di cui al comma 1 , per essere prioritariamente destinate alla riduzione delle aliquote di cui all'articolo 11, comma 1, ((del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica)) 22 dicembre 1986, n. 917.
 
-##### Art. 41
+#### Art. 41
 
 Entrata in vigore e decorrenza
 

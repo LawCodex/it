@@ -32,7 +32,7 @@ la seguente legge:
 
 ## CAPO I - IN MATERIA DI PERSONALE
 
-#### Art. 1 - Pubblico impiego
+### Art. 1 - Pubblico impiego
 
 1\. Per il 1991, i trasferimenti e le assunzioni di personale nelle amministrazioni pubbliche avvengono secondo le disposizioni del decreto del Presidente del Consiglio dei ministri 5 agosto 1988, n. 325, e della legge 29 dicembre 1988, n. 554, con modificazioni ad esse apportate dall'articolo 10-bis del decreto-legge 2 marzo 1989, n. 66, convertito, con modificazioni, dalla legge 24 aprile 1989, n. 144.
 
@@ -66,11 +66,9 @@ AGGIORNAMENTO (4)
 
 La L. 30 dicembre 1991, n. 412 ha disposto (con l'art. 5, comma 2) che i riferimenti temporali gia' prorogati dal comma 2 del presente articolo, sono ulteriormente prorogati di un anno, ad eccezione di quelli relativi all'utilizzo delle graduatorie esistenti nelle varie amministrazioni.
 
-## CAPO I - DISPOSIZIONI
+## CAPO I - DISPOSIZIONI IN MATERIA DI PERSONALE
 
-### IN MATERIA DI PERSONALE
-
-#### Art. 2 - Abrogazione di norme
+### Art. 2 - Abrogazione di norme
 
 1\. Gli articoli 15 e 25 della legge 7 agosto 1990, n. 232, sono abrogati.
 
@@ -82,11 +80,9 @@ La L. 30 dicembre 1991, n. 412 ha disposto (con l'art. 5, comma 2) che i riferim
 
 > "Art. 25 (Liquidazione della pensione privilegiata e dell'equo indennizzo). - 1. Per il personale militare e delle forze di polizia, in sede di liquidazione della pensione privilegiata e dell'equo indennizzo, non e' richiesto il parere previsto dall'articolo 166 del testo unico approvato con decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092".
 
-## CAPO II - DISPOSIZIONI IN MATERIA
+## CAPO II - DISPOSIZIONI IN MATERIA DI ASSISTENZA, SANITA' E LAVORO
 
-### DI ASSISTENZA, SANITA' E LAVORO
-
-#### Art. 3 - Prestazioni pensionistiche a favore dei minorati civili
+### Art. 3 - Prestazioni pensionistiche a favore dei minorati civili
 
 1\. Le prestazioni pensionistiche erogate dal Ministero dell'interno con esclusione di quelle erogate ai ciechi civili, ai sordomuti e agli invalidi totali non sono compatibili con prestazioni a carattere diretto, concesse a seguito di invalidita' contratte per causa di guerra, di lavoro o di servizio, nonche' con le pensioni dirette di invalidita' a qualsiasi titolo erogate dall'assicurazione generale obbligatoria per l'invalidita', la vecchiaia e i superstiti dei lavoratori dipendenti, dalle gestioni pensionistiche per i lavoratori autonomi e da ogni altra gestione pensionistica per i lavoratori dipendenti avente carattere obbligatorio. E' comunque data facolta' all'interessato di optare per il trattamento economico piu' favorevole.
 
@@ -104,7 +100,7 @@ AGGIORNAMENTO (8)
 
 Il Decreto 31 ottobre 1992, n. 553 ha disposto (con l'art. 5, comma 1) che il regime delle incompatibilita' di cui al presente articolo si applica agli invalidi civili parziali che non abbiano conseguito la prestazione erogata dal Ministero dell'interno alla data del 1 gennaio 1992.
 
-#### Art. 4 - Modalita' di accesso delle amministrazioni pubbliche all'anagrafe tributaria
+### Art. 4 - Modalita' di accesso delle amministrazioni pubbliche all'anagrafe tributaria
 
 1\. Ai fini della realizzazione di una efficace banca dati per la lotta al riciclaggio di denaro di provenienza illecita, nonche' per consentire la verifica dei limiti di reddito ove previsti per erogazioni di benefici assistenziali, il Governo e' delegato ad adottare, entro sei mesi dalla data di entrata in vigore della presente legge, un decreto legislativo per la disciplina delle modalita' di accesso delle amministrazioni pubbliche al sistema informativo dell'anagrafe tributaria, sulla base dei seguenti principi:
 
@@ -128,7 +124,7 @@ c) deve essere garantito il rispetto delle disposizioni di cui agli articoli 7 e
 
 > 2\. Nelle ipotesi di cui al comma 1 resta salva la facolta' dell'amministrazione di adottare, anche prima della effettuazione delle comunicazioni di cui al medesimo comma 1, provvedimenti cautelari.".
 
-#### Art. 5 - Norme relative al settore sanitario
+### Art. 5 - Norme relative al settore sanitario
 
 1\. Dal 1 febbraio 1991 decadono i provvedimenti disposti in applicazione degli istituti normativi ed economici di cui agli articoli 15, 17, 18, da 66 a 73, 80, 81, 82 e da 101 a 108 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270; dalla stessa data si applicano, anche nelle more della pubblicazione del decreto del Presidente della Repubblica di recepimento, i corrispondenti istituti previsti dal nuovo accordo di lavoro. Le regioni e le province autonome provvedono ad applicare gli istituti stessi limitatamente a situazioni di inderogabili esigenze operative.
 
@@ -190,7 +186,7 @@ AGGIORNAMENTO (12)
 
 La L. 23 dicembre 1994, n. 724 ha disposto (con l'art. 1, comma 16-bis) che sono esenti le prestazioni diagnostiche e terapeutiche di cui all'ultimo periodo del comma 3 del presente articolo.
 
-#### Art. 6 - Eta' pensionabile e prosecuzione del rapporto di lavoro
+### Art. 6 - Eta' pensionabile e prosecuzione del rapporto di lavoro
 
 1\. Gli iscritti all'assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti dei lavoratori dipedenti ed alle gestioni sostitutive, esonerative o esclusive della medesima possono continuare a prestare la loro opera fino al compimento del sessantaduesimo anno di eta', anche nel caso in cui abbiano raggiunto l'anzianita' contributiva massima utile prevista dai singoli ordinamenti, sempreche' non abbiano ottenuto o non richiedano la liquidazione di una pensione a carico dell'istituto nazionale della previdenza sociale o dei trattamenti sostitutivi, esonerativi o esclusivi dell'assicurazione generale obbligatoria, purche' di vecchiaia.
 
@@ -218,7 +214,7 @@ AGGIORNAMENTO (6)
 
 Il D.Lgs. 30 dicembre 1992, n. 503 ha disposto (con l'art. 1, comma 2) che il limite di eta' previsto per l'applicazione delle disposizioni contenute nel presente articolo, e' elevato fino al compimento del 65 anno.
 
-#### Art. 7 - Trattamenti pensionistici per le attivita' svolte all'estero e per i residenti all'estero
+### Art. 7 - Trattamenti pensionistici per le attivita' svolte all'estero e per i residenti all'estero
 
 1\. Il secondo comma dell'articolo 8 della legge 30 aprile 1969, n. 153, e' sostituito dal seguente:
 
@@ -230,7 +226,7 @@ Il D.Lgs. 30 dicembre 1992, n. 503 ha disposto (con l'art. 1, comma 2) che il li
 
 4\. Con decreto del Ministro del lavoro e della previdenza sociale, di concerto con i Ministri degli affari esteri e del tesoro, sono emanate le norme regolamentari di attuazione del secondo comma dell'articolo 8 della legge 30 aprile 1969, n. 153, come sostituito dal comma 1 del presente articolo.
 
-#### Art. 8 - Norme in materia di contratti di formazione e lavoro
+### Art. 8 - Norme in materia di contratti di formazione e lavoro
 
 1\. Fino alla data di entrata in vigore della legge di riforma dei contratti di formazione e lavoro, a favore dei datori di lavoro operanti nelle aree non ricomprese nei territori del Mezzogiorno di cui al testo unico approvato con decreto del Presidente della Repubblica 6 marzo 1978, n. 218, per i lavoratori assunti con tali contratti a decorrere dal 1 gennaio 1991, si applica, sulle correnti aliquote dei contributi previdenziali ed assistenziali dovuti, una riduzione del 25 per cento.
 
@@ -270,7 +266,7 @@ AGGIORNAMENTO (15)
 
 La L. 23 dicembre 2014, n. 190 ha disposto (con l'art. 1, comma 121) che "I benefici contributivi di cui all'articolo 8, comma 9, della legge 29 dicembre 1990, n. 407, e successive modificazioni, sono soppressi con riferimento alle assunzioni dei lavoratori ivi indicati decorrenti dal 1º gennaio 2015".
 
-#### Art. 9 - Aliquote contributive
+### Art. 9 - Aliquote contributive
 
 1\. A decorrere dal periodo di paga in corso al 1° gennaio 1991, per le finalita' di cui all'articolo 2 della legge 5 novembre 1968, n. 1115, e' stabilito per le imprese appartenenti ai settori indicati al predetto articolo 2, ivi incluse quelle alle quali l'intervento e' stato esteso, in via permanente, con successivo provvedimento legislativo, con esclusione di quelle indicate all'articolo 2 della legge 27 luglio 1979, n. 301, un contributo pari a 0,6 punti percentuali e a 0,3 punti percentuali della retribuzione determinata a norma dell'articolo 12 della legge 30 aprile 1969, n. 153, rispettivamente a carico dei datori di lavoro e dei lavoratori interessati.
 
@@ -316,7 +312,7 @@ La L. 23 dicembre 2014, n. 190 ha disposto (con l'art. 1, comma 121) che "I bene
 
 ## CAPO III - DISPOSIZIONI VARIE
 
-#### Art. 10 - Fondo comune regionale
+### Art. 10 - Fondo comune regionale
 
 1\. Per l'anno 1991 la quota del 15 per cento dell'imposta di fabbricazione sugli oli minerali, loro derivati e prodotti analoghi, indicata alla lettera a) del primo comma dell'articolo 8 della legge 16 maggio 1970, n. 281, e' ridotta al 12,42, per cento.
 
@@ -382,7 +378,7 @@ c) quanto a lire 497 miliardi, con quota parte delle entrate di cui al comma 2.
 
 > \- Il testo dell'art. 1, comma 4, della legge 1 febbraio 1989, n. 40 (cit.) e' il seguente: "4. Per l'anno 1989, rimangono acquisite al bilancio dello Stato le entrate di cui all'articolo 1-duodecies del decreto-legge 18 agosto 1978, n. 481, convertito, con modificazioni, dalla legge 21 ottobre 1978, n. 641, che affluiscono ai capitoli di entrata 3344, 3355 e 3356, quelle di cui ai decreti del Presidente della Repubblica 18 aprile 1979, che affluiscono ai capitoli di entrata 3360 e 3358, per la parte spettante alle regioni a statuto ordinario, nonche' quelle di cui all'articolo 2, lettera a), della legge 29 novembre 1977, n. 891, che affluiscono al capitolo 2224.".
 
-#### Art. 11 - Fondo garanzia autostrade
+### Art. 11 - Fondo garanzia autostrade
 
 1\. Il Fondo centrale di garanzia per le autostrade e le ferrovie metropolitane e' autorizzato a provvedere al pagamento delle rate dei mutui contratti dalla Societa' autostrade romane ed abruzzesi (SARA) per la costruzione delle autostrade Roma-Alba Adriatica e Torano-Pescara, nonche' di quelli contratti ai sensi e per gli effetti dell'articolo 17 della legge 12 agosto 1982, n. 531.
 
@@ -396,7 +392,7 @@ AGGIORNAMENTO (13)
 
 La L. 27 dicembre 2006, n. 296, ha disposto (con l'art. 1, comma 1021) che il sovrapprezzo tariffario autostradale previsto dal presente articolo e' soppresso. A decorrere dal l° gennaio 2007 e' istituito, sulle tariffe di pedaggio di tutte le autostrade, un sovrapprezzo il cui importo e' pari: a) per le classi di pedaggio A e B, a 2 millesimi di euro a chilometro dal l° gennaio 2007, a 2,5 millesimi di euro a chilometro dal l° gennaio 2008 e a 3 millesimi di euro a chilometro dal l° gennaio 2009; b) per le classi di pedaggio 3, 4 e 5, a 6 millesimi di euro a chilometro dal l° gennaio 2007, a 7,5 millesimi di euro a chilometro dal l° gennaio 2008 e a 9 millesimi di euro a chilometro dal l° gennaio 2009. I conseguenti introiti sono dovuti ad ANAS Spa, quale corrispettivo forfetario delle sue prestazioni volte ad assicurare l' adduzione del traffico alle tratte autostradali in concessione, attraverso la manutenzione ordinaria e straordinaria, l'adeguamento e il miglioramento delle strade ed autostrade non a pedaggio in gestione alla stessa ANAS Spa.
 
-#### Art. 12
+### Art. 12
 
 (Fondo perequativo per le
 
@@ -488,7 +484,7 @@ camere di commercio)
 
 > 2\. Le facolta' previste dall'art. 12 della legge 2 aprile 1968, n. 475, competono anche alle amministrazioni comunali nelle ipotesi di cui all'articolo 9 della legge medesima".
 
-#### Art. 13
+### Art. 13
 
 (Utilizzazione delle risorse
 
@@ -546,7 +542,7 @@ destinate al commercio)
 
 > Il Ministro per il tesoro e' autorizzato ad effettuare con propri decreti le necessarie variazioni di bilancio".
 
-#### Art. 14 - Canone radiotelevisivo
+### Art. 14 - Canone radiotelevisivo
 
 1\. La lettera b) del numero 125 della tariffa annessa al decreto del Presidente della Repubblica 26 ottobre 1972, n. 641, gia' sostituita dall'articolo 1 del decreto legge 1o febbraio 1977, n. 11, convertito, con modificazioni, dalla legge 31 marzo 1977, n. 90, e' sostituita dalla lettera b) di cui alla tabella allegata alla presente legge.
 
@@ -564,7 +560,7 @@ ANDREOTTI, Presidente del Consiglio dei Ministri Visto, il Guardasigilli: VASALL
 
 ## CAPO III - DISPOSIZIONI VARIE
 
-#### Tabella
+### Tabella
 
 TABELLA.
 

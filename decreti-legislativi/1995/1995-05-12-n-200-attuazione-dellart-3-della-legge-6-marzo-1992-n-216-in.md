@@ -44,11 +44,9 @@ E M A N A
 
 il seguente decreto legislativo:
 
-## CAPO I - RIORDINAMENTO DEI RUOLI DEL PERSONALE NON DIRETTIVO DEL CORPO
+## CAPO I - RIORDINAMENTO DEI RUOLI DEL PERSONALE NON DIRETTIVO DEL CORPO DI POLIZIA PENITENZIARIA
 
-### DI POLIZIA PENITENZIARIA
-
-#### Art. 1
+### Art. 1
 
 1\. Nell'art. 4 del capo II, titolo I, del decreto legislativo 30 ottobre 1992, n. 443, il comma 2 e' soppresso.
 
@@ -106,7 +104,7 @@ il seguente decreto legislativo:
 
 > 5\. Al personale della qualifica di assistente capo che abbia superato il corso di cui al comma 2 sono attribuite le mansioni indicate nel comma 3, con il margine di iniziativa e di discrezionalita' inerente alla qualifica di ufficiale di polizia giudiziaria".
 
-#### Art. 1-bis
+### Art. 1-bis
 
 ((1. Nel capo III, titolo I, del decreto legislativo 30 ottobre 1992, n. 443, sono apportate le seguenti modificazioni:
 
@@ -118,7 +116,7 @@ b) all'articolo 7, comma 1, la lettera d) e' sostituita dalla seguente:
 
 "d) gli allievi e gli allievi agenti in prova che siano stati per qualsiasi motivo, salvo che l'assenza sia determinata dall'adempimento di un dovere, assenti dal corso per piu' di sessanta giorni, anche non consecutivi, o di novanta giorni se l'assenza e' stata determinata da infermita' contratta durante il corso; in quest'ultimo caso l'allievo o l'agente in prova e' ammesso a partecipare al primo corso successivo alla sua riacquistata idoneita' fisico-psichica")).
 
-#### Art. 2
+### Art. 2
 
 1\. Nel capo III, titolo I, del decreto legislativo 30 ottobre 1992, n. 443, sono apportate le seguenti modificazioni:
 
@@ -140,7 +138,7 @@ c) gli articoli 12 e 13 sono soppressi.
 
 3\. In caso di accesso ai ruoli superiori, lo scatto aggiuntivo di cui al presente articolo e' attribuito come assegno ad personam riassorbibile e non cumulabile con lo scatto gerarchico previsto nello stesso livello retributivo.")).
 
-#### Art. 3
+### Art. 3
 
 1\. Nel capo IV, titolo I, del decreto legislativo 30 ottobre 1992, n. 443, sono apportate le seguenti modificazioni:
 
@@ -204,7 +202,7 @@ g) l'art. 21 e' sostituito dal seguente:
 
 3\. In caso di accesso ai ruoli superiori, lo scatto aggiuntivo di cui al presente articolo e' attribuito come assegno ad personam riassorbibile e non cumulabile con lo scatto gerarchico previsto per lo stesso livello retributivo.")).
 
-#### Art. 4
+### Art. 4
 
 1\. Nel capo V, titolo I, del decreto legislativo 30 ottobre 1992, n. 443, sono apportate le seguenti modificazioni:
 
@@ -302,7 +300,7 @@ Tale trattamento economico e' riassorbito all'atto dell'accesso al livello retri
 
 2\. Per il personale sospeso cautelarmente dal servizio, rinviato a giudizio o ammesso ai riti alternativi per i delitti di cui all'articolo 15, comma 1, lettere a) e b), della legge 19 marzo 1990, n. 55 e successive modificazioni ovvero sottoposto a procedimento disciplinare per l'applicazione di una sanzione piu' grave della deplorazione, l'attribuzione dello scatto aggiuntivo avviene, anche con effetto retroattivo, dopo la definizione dei relativi procedimenti, fermo restando quanto previsto dal comma 1 del presente articolo. Si applicano le disposizioni contenute negli articoli 94 e 95 del decreto del Presidente della Repubblica 3 gennaio 1957, n. 3.")).
 
-#### Art. 5
+### Art. 5
 
 1\. Nel capo V, titolo I, del decreto legislativo 30 ottobre 1992, n. 443, dopo l'art. 30, ((sono inseriti i seguenti articoli)):
 
@@ -332,13 +330,13 @@ Articolo 30-quater (Ispettore superiore 'sostituto commissario) - 1. Gli ispetto
 
 Articolo 30-quinquies (Riassorbimento degli scatti aggiuntivi). - 1. Gli scatti aggiuntivi di cui agli articoli 30-ter e 30-quater sono riassorbiti all'atto dell'accesso al livello retributivo superiore.")).
 
-#### Art. 6
+### Art. 6
 
 1\. La tabella A prevista dall'art. 1, comma 3, del decreto legislativo 30 ottobre 1992, n. 443, come modificata ed integrata dalla legge 26 luglio 1993, n. 254, e' sostituita dalla tabella A allegata al presente decreto.
 
 ## CAPO II - NORME TRANSITORIE E FINALI
 
-#### Art. 7
+### Art. 7
 
 Inquadramento nel ruolo dei sovrintendenti
 
@@ -356,7 +354,7 @@ Inquadramento nel ruolo dei sovrintendenti
 
 7\. Il personale inquadrato ai sensi del presente articolo conserva, anche ai fini della progressione alla qualifica superiore, l'anzianita' eccedente quella minima prevista per l'inquadramento. Lo stesso personale, per l'ammissione agli scrutini di cui agli articoli 20 e 21 del decreto legislativo 30 ottobre 1992, n. 443, beneficia, per una sola volta, di una riduzione del periodo di permanenza nella qualifica pari al tempo per il quale ha rivestito la qualifica di ufficiali di polizia giudiziaria.
 
-#### Art. 8
+### Art. 8
 
 Inquadramento nel ruolo degli ispettori
 
@@ -378,7 +376,7 @@ Il personale che riveste la qualifica di vice ispettore, inquadrato ai sensi del
 
 4\. Per il personale di cui al comma 1, lettere d) e c), proveniente dal ruolo dei sovrintendenti, ai fini dell'ammissione allo scrutinio di promozione alla qualifica di ispettore e ispettore capo conserva l'anzianita' posseduta nel ruolo dei sovrintendenti per un massimo di due anni; ((per il personale di cui al comma 1, lettera d), del presente articolo,)) ai fini dell'ammissione allo scrutinio di promozione alla qualifica di ispettore capo, la permanenza minima nella qualifica di ispettore e' ridotta di due anni.
 
-#### Art. 9
+### Art. 9
 
 Concorso ad ispettore superiore
 
@@ -390,7 +388,7 @@ b) per contingente di cento posti l'anno, previa selezione, alla quale e' ammess
 
 2\. Alla selezione di cui al comma 1 puo' partecipare il personale ivi indicato che, nei tre anni precedenti, non abbia riportato sanzioni disciplinari pari o piu' gravi alla deplorazione e abbia riportato un giudizio non inferiore a "buono".
 
-#### Art. 10
+### Art. 10
 
 Concorsi, esami e scrutini in atto
 
@@ -398,13 +396,13 @@ Concorsi, esami e scrutini in atto
 
 2\. Il personale suddetto, ove consegua nomine o promozioni ai sensi del comma 1, e' inquadrato secondo le modalita' di cui agli articoli 7, 8 e 9 del presente decreto.
 
-#### Art. 11
+### Art. 11
 
 Decorrenza giuridica ed economica
 
 1\. Le disposizioni di cui ((al presente decreto)) hanno effetto giuridico ed economico dal 1 settembre 1995 relativamente al personale in servizio alla stessa data.
 
-#### Art. 12
+### Art. 12
 
 Equiparazione con il personale non direttivo
 
@@ -414,7 +412,7 @@ delle altre forze di polizia
 
 ## CAPO III - TRATTAMENTO ECONOMICO
 
-#### Art. 13
+### Art. 13
 
 Trattamento economico
 
@@ -448,7 +446,7 @@ Trattamento economico
 
 > 4-bis. Le disposizioni della legge 24 gennaio 1986, n. 17, si applicano anche al personale della Polizia di Stato e del Corpo forestale dello Stato".
 
-#### Art. 14
+### Art. 14
 
 Clausola finanziaria
 
@@ -476,7 +474,7 @@ Visto, il Guardasigilli: MANCUSO
 
 ## CAPO III - TRATTAMENTO ECONOMICO
 
-#### Tabella A
+### Tabella A
 
 Tabella A (prevista dall'art. 6, comma 1)
 

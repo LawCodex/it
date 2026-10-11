@@ -28,13 +28,11 @@ Promulga
 
 la seguente legge:
 
-## Capo I - DISPOSIZIONI IN MATERIA
+## Capo I - DISPOSIZIONI IN MATERIA DI IMPOSTE SUI REDDITI
 
-### DI IMPOSTE SUI REDDITI - Sezione I
+### Sezione I - Disposizioni in materia di redditi di impresa
 
-#### Disposizioni in materia di redditi - di impresa
-
-##### Art. 1
+#### Art. 1
 
 (Disposizioni in materia di redditi di imprese estere partecipate e di applicazione dell'imposta ai non residenti finalizzate al
 
@@ -176,7 +174,7 @@ d) l'articolo 106-bis e' sostituito dal seguente:
 
 > "Art. 106-bis (Credito per le imposte pagate all'estero e credito d'imposta figurativo). - 1. L'imposta corrispondente al credito per le imposte pagate all'estero di cui all'art. 15, nonche' quella relativa ai redditi prodotti all'estero, per i quali in base alle convenzioni contro le doppie imposizioni sui redditi e' riconosciuto il credito d'imposta figurativo, sono computate, fino a concorrenza dei predetti crediti, nell'ammontare delle imposte di cui al comma 4 dell'art. 105, recante adempimenti per l'attribuzione del credito di imposta ai soci o partecipanti sugli utili distribuiti, secondo i criteri previsti per gli utili di cui al numero 2) del predetto comma.".
 
-##### Art. 2
+#### Art. 2
 
 (Razionalizzazione delle disposizioni
 
@@ -208,7 +206,7 @@ in materia di valutazione delle operazioni fuori bilancio)
 
 > 3\. Se le operazioni di cui al comma 1 sono poste in essere con finalita' di copertura dei rischi relativi ad attivita' e passivita' produttive di interessi, i relativi componenti positivi e negativi concorrono a formare il reddito, secondo lo stesso criterio di imputazione degli interessi, se le operazioni hanno finalita' di copertura di rischi connessi a specifiche attivita' e passivita', ovvero secondo la durata del contratto, se le operazioni hanno finalita' di copertura di rischi connessi ad insiemi di attivita' e passivita'. A tal fine l'operazione si considera di copertura quando ha l'obiettiva funzione di ridurre o trasferire il rischio di variazione del valore di singole attivita' e passivita' o di insiemi di attivita' e passivita'.".
 
-##### Art. 3
+#### Art. 3
 
 Disposizioni di semplificazione in materia
 
@@ -246,7 +244,7 @@ AGGIORNAMENTO (3)
 
 La L. 18 ottobre 2001, n. 383 ha disposto (con l'art. 5, comma 1) che le agevolazioni fiscali di cui ai commi 1 e 2 del presente articolo sono soppresse, salvo quanto disposto dal predetto articolo 5, comma 1 lettere a) e b).
 
-##### Art. 4
+#### Art. 4
 
 Norma interpretativa
 
@@ -258,7 +256,7 @@ AGGIORNAMENTO (17)
 
 La Corte Costituzionale, con sentenza 11-27 luglio 2007, n. 330 (in G.U. 1a s.s. 1/8/2007, n. 30) ha dichiarato "l'illegittimita' costituzionale dell'articolo 4, comma 1, secondo periodo, della legge 21 novembre 2000, n. 342 (Misure in materia fiscale), nella parte in cui dispone che non si fa luogo a restituzione dell'imposta sul valore aggiunto" e "ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87, l'illegittimita' costituzionale dell'articolo 4, comma 1, secondo periodo, della legge n. 342 del 2000, nella parte in cui dispone che non si fa luogo a restituzione di soprattasse e pene pecuniarie in materia di imposta sul valore aggiunto".
 
-##### Art. 5
+#### Art. 5
 
 (Disposizioni in materia di redditi d'impresa relativamente ad
 
@@ -290,7 +288,7 @@ agevolazioni fiscali a favore delle imprese danneggiate dagli eventi alluvionali
 
 > 6-ter. Nei casi di avvenuta delocalizzazione previsti dal presente articolo, i proprietari dei territori resi liberi, ricompresi nelle fasce A e B del piano-stralcio adottato dall'Autorita' di bacino del fiume Po, possono accedere, nei limiti delle risorse disponibili, iscritte nello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica nell'ambito dell'unita' previsionale di base 3.2.1.8 "Sviluppo dell'esportazione e della domanda estera", ai crediti agevolati di cui al presente articolo al fine di avviare sui medesimi terreni attivita' agricole, a condizione che il 5 per cento degli stessi venga destinato ad interventi di rinaturalizzazione. In questi casi il finanziamento ricomprende gli oneri relativi alla bonifica e all'adeguamento ad uso agricolo del terreno, agli interventi di rinaturalizzazione della porzione allo scopo riservata, all'avviamento dell'attivita' produttiva ed all'acquisto di mezzi e scorte ad essa destinati, nei limiti stabiliti all'ultimo periodo del comma 2. I crediti agevolati possono essere concessi anche agli affittuari dei terreni medesimi. L'esercente l'attivita' agricola deve assicurare idonea manutenzione anche delle porzioni di terreno sulle quali ha attuato gli interventi di rinaturalizzazione, pena l'avvio del procedimento di revoca del credito agevolato. Le condizioni e le modalita' dell'intervento agevolativo del Mediocredito centrale S.p.A. e della Cassa per il credito alle imprese artigiane S.p.A. - Artigiancassa, ove non gia' disciplinate con il decreto ministeriale emanato ai sensi del comma 5, vengono disciplinate con un ulteriore decreto del Ministro del tesoro, del bilancio e della programmazione economica, di concerto con il Ministro per le politiche agricole, con il Ministro dei lavori pubblici, con il Ministro dell'ambiente e con il Ministro delegato per il coordinamento della protezione civile.".
 
-##### Art. 6
+#### Art. 6
 
 (Modifiche ai decreti legislativi 8 ottobre 1997, n. 358, e 18
 
@@ -368,7 +366,7 @@ d) nell'articolo 2, concernente la disciplina dell'imposta sostitutiva, al comma
 
 > e) alle permute e ai conferimenti di azioni o quote, mediante i quali uno dei soggetti indicati nella lettera a) acquisti o integri una partecipazione di controllo, ai sensi dell'art. 2359, comma 1, n. 1, del codice civile, in uno dei soggetti indicati nella stessa lettera, residente in uno Stato della Comunita' diverso da quello del primo, attribuendo ai partecipanti proprie azioni o quote in cambio di quelle ricevute in permuta o conferimento ed un eventuale conguaglio in danaro non superiore al 10% del valore nominale delle suddette azioni o quote, sempre che alcuno dei partecipanti che effettuano il cambio sia residente nel territorio dello Stato ovvero la partecipazione scambiata sia relativa ad una stabile organizzazione nel territorio dello Stato di un soggetto indicato nella lettera a).".
 
-##### Art. 7
+#### Art. 7
 
 (Modifica all'articolo 8 del decreto legislativo 23 dicembre 1999, n. 505, in materia di fondi comuni che investono in partecipazioni
 
@@ -390,7 +388,7 @@ qualificate)
 
 > 5\. Le disposizioni di cui al presente articolo si applicano a decorrere dal 1 gennaio 2000.".
 
-##### Art. 8
+#### Art. 8
 
 (Conferimenti di beni o aziende a favore
 
@@ -422,7 +420,7 @@ di centri di assistenza fiscale)
 
 > "Art. 25 (Disciplina tributaria della costituzione di societa' con contestuale conferimento di azienda). - 1. Nel caso in cui venga costituita una societa' con contestuale conferimento dell'azienda da parte dell'imprenditore individuale in applicazione del decreto legislativo 8 ottobre 1997, n. 358, il conferimento stesso e' soggetto alle imposte di registro, ipotecarie e catastali in misura fissa; l'imposta comunale sull'incremento di valore degli immobili compresi nell'azienda e' ridotta alla meta'. Il soggetto passivo puo' richiedere l'applicazione, alternativamente alla predetta riduzione, di una imposta sostitutiva di quella comunale sull'incremento di valore degli immobili in misura pari allo 0,5 per cento del valore complessivo degli immobili al 12 dicembre 1992. In tal caso si applicano le disposizioni dell'art. 11, comma 3, del decreto-legge 28 marzo 1997, n. 79, convertito, con modificazioni, dalla legge 28 maggio 1997, n. 140.".
 
-##### Art. 9
+#### Art. 9
 
 (Trattamento fiscale degli avanzi di gestione del CONAI e dei
 
@@ -432,15 +430,15 @@ consorzi di imballaggio)
 
 "2-bis. Per il raggiungimento degli obiettivi pluriennali di recupero e riciclaggio, gli eventuali avanzi di gestione accantonati dal CONAI e dai consorzi di cui all'articolo 40 nelle riserve costituenti il loro patrimonio netto non concorrono alla formazione del reddito a condizione che sia rispettato il divieto di distribuzione, sotto qualsiasi forma, ai consorziati di tali avanzi e riserve, anche in caso di scioglimento dei consorzi e del CONAI.((PERIODO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152)).
 
-## Sezione II - Rivalutazione dei beni delle imprese
+### Sezione II - Rivalutazione dei beni delle imprese
 
-##### Art. 10
+#### Art. 10
 
 Ambito di applicazione della rivalutazione
 
 1\. I soggetti indicati nell'articolo 87, comma 1, lettere a) e b), del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, possono, anche in deroga all'articolo 2426 del codice civile e ad ogni altra disposizione di legge vigente in materia, rivalutare i beni materiali e immateriali con esclusione di quelli alla cui produzione o al cui scambio e' diretta l'attivita' di impresa, nonche' le partecipazioni in societa' controllate e in societa' collegate ai sensi dell'articolo 2359 del codice civile costituenti immobilizzazioni, risultanti dal bilancio relativo all'esercizio ((in corso alla data del 31 dicembre 2002)).
 
-##### Art. 11 - Modalita' di effettuazione della rivalutazione
+#### Art. 11 - Modalita' di effettuazione della rivalutazione
 
 1\. La rivalutazione di cui all'articolo 10 deve essere eseguita nel bilancio o rendiconto dell'esercizio successivo a quello di cui al medesimo articolo 10, per il quale il termine di approvazione scade successivamente alla data di entrata in vigore della presente legge, deve riguardare tutti i beni appartenenti alla stessa categoria omogenea e deve essere annotata nel relativo inventario e nella nota integrativa. A tal fine si intendono compresi in due distinte categorie gli immobili e i beni mobili iscritti in pubblici registri.
 
@@ -450,7 +448,7 @@ Ambito di applicazione della rivalutazione
 
 4\. Nell'inventario relativo all'esercizio in cui la rivalutazione viene eseguita deve essere indicato anche il prezzo di costo con le eventuali rivalutazioni eseguite, in conformita' a precedenti leggi di rivalutazione, dei beni rivalutati.
 
-##### Art. 12 - Imposta sostitutiva
+#### Art. 12 - Imposta sostitutiva
 
 1\. Sui maggiori valori dei beni iscritti in bilancio, di cui all'articolo 11, e' dovuta un'imposta sostitutiva dell'imposta sul reddito delle persone fisiche, dell'imposta sul reddito delle persone giuridiche e dell'imposta regionale sulle attivita' produttive pari al 19 per cento relativamente ai beni ammortizzabili e pari al 15 per cento relativamente ai beni non ammortizzabili.
 
@@ -462,7 +460,7 @@ Ambito di applicazione della rivalutazione
 
 > \- Per il titolo del decreto legislativo 9 luglio 1997, n. 241, si veda nelle note all'art. 8.
 
-##### Art. 13 - Contabilizzazione della rivalutazione
+#### Art. 13 - Contabilizzazione della rivalutazione
 
 1\. Il saldo attivo risultante dalle rivalutazioni eseguite ai sensi degli articoli 10 e 11 deve essere imputato al capitale o accantonato in una speciale riserva designata con riferimento alla presente legge, con esclusione di ogni diversa utilizzazione.
 
@@ -490,7 +488,7 @@ Ambito di applicazione della rivalutazione
 
 > \- Per il titolo del decreto legislativo 18 dicembre 1997, n. 466, si veda nelle note all'art. 3.
 
-##### Art. 14 - Riconoscimento fiscale di maggiori valori iscritti in bilancio
+#### Art. 14 - Riconoscimento fiscale di maggiori valori iscritti in bilancio
 
 1\. Le disposizioni dell'articolo 12 possono essere applicate per il riconoscimento ai fini dell'imposta sul reddito delle persone fisiche, dell'imposta sul reddito delle persone giuridiche e dell'imposta regionale sulle attivita' produttive dei maggiori valori, iscritti nel bilancio di cui al comma 1 dell'articolo 10, dei beni indicati nello stesso articolo 10.
 
@@ -502,7 +500,7 @@ Ambito di applicazione della rivalutazione
 
 > \- Per il testo dell'art. 54, comma 2-bis, del Testo unico delle imposte sui redditi, approvato con il citato decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, si rinvia alle note all'art. 54.
 
-##### Art. 15 - Ulteriori soggetti ammessi alle rivalutazioni
+#### Art. 15 - Ulteriori soggetti ammessi alle rivalutazioni
 
 1\. Le disposizioni degli articoli da 10 a 14 si applicano, per i beni relativi alle attivita' commerciali esercitate, anche alle imprese individuali, alle societa' in nome collettivo, in accomandita semplice ed equiparate e agli enti pubblici e privati di cui all'articolo 87, comma 1, lettera c), del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, nonche' alle societa' ed enti di cui alla lettera d) del comma 1 dello stesso articolo 87 e alle persone fisiche non residenti che esercitano attivita' commerciali nel territorio dello Stato mediante stabili organizzazioni.
 
@@ -542,7 +540,7 @@ Ambito di applicazione della rivalutazione
 
 > Ai fini del presente articolo si assumono come ricavi conseguiti nel periodo di imposta i corrispettivi delle operazioni registrate o soggette a registrazione nel periodo stesso agli effetti della imposta sul valore aggiunto e di quelle annotate o soggette ad annotazioni a norma del terzo comma.".
 
-##### Art. 16 - Modalita' attuative della rivalutazione
+#### Art. 16 - Modalita' attuative della rivalutazione
 
 1\. Con decreto del Ministro delle finanze, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, e da pubblicare nella Gazzetta Ufficiale entro novanta giorni dalla data di entrata in vigore della presente legge, sono stabilite le modalita' di attuazione delle disposizioni di cui agli articoli da 10 a 15, ferme restando, in quanto compatibili con quelle della presente legge, le disposizioni contenute nelle precedenti leggi di rivalutazione e quelle di relativa attuazione.
 
@@ -558,11 +556,9 @@ Ambito di applicazione della rivalutazione
 
 > 4\. -- 4-bis. (Omissis).".
 
-## Sezione III - Disposizioni fiscali per i settori
+### Sezione III - Disposizioni fiscali per i settori Bancario e finanziario
 
-### Bancario e finanziario
-
-##### Art. 17
+#### Art. 17
 
 Societa' destinatarie di conferimenti
 
@@ -584,7 +580,7 @@ AGGIORNAMENTO (12)
 
 La L. 24 dicembre 2003, n. 350 ha disposto (con l'art. 2, comma 26) che "Le disposizioni previste dagli articoli 17, 18 e 20 della legge 21 novembre 2000, n. 342, possono essere applicate anche con riferimento ai beni risultanti dal bilancio relativo all'esercizio in corso alla data del 31 dicembre 2003. In questo caso la misura dell'imposta sostitutiva del 19 per cento e' ridotta al 12 per cento e quella del 15 per cento e' ridotta al 9 per cento".
 
-##### Art. 18
+#### Art. 18
 
 Societa' che hanno eseguito conferimenti
 
@@ -602,7 +598,7 @@ AGGIORNAMENTO (12)
 
 La L. 24 dicembre 2003, n. 350 ha disposto (con l'art. 2, comma 26) che "Le disposizioni previste dagli articoli 17, 18 e 20 della legge 21 novembre 2000, n. 342, possono essere applicate anche con riferimento ai beni risultanti dal bilancio relativo all'esercizio in corso alla data del 31 dicembre 2003. In questo caso la misura dell'imposta sostitutiva del 19 per cento e' ridotta al 12 per cento e quella del 15 per cento e' ridotta al 9 per cento".
 
-##### Art. 19
+#### Art. 19
 
 (Societa' destinatarie di conferimenti
 
@@ -616,7 +612,7 @@ previsti dal decreto legislativo
 
 > \- Per l'art. 4, comma 1, del decreto legislativo 8 ottobre 1997, n. 358, si veda nelle note all'art. 6.
 
-##### Art. 20
+#### Art. 20
 
 Disciplina dell'imposta sostitutiva
 
@@ -632,7 +628,7 @@ AGGIORNAMENTO (12)
 
 La L. 24 dicembre 2003, n. 350 ha disposto (con l'art. 2, comma 26) che "Le disposizioni previste dagli articoli 17, 18 e 20 della legge 21 novembre 2000, n. 342, possono essere applicate anche con riferimento ai beni risultanti dal bilancio relativo all'esercizio in corso alla data del 31 dicembre 2003. In questo caso la misura dell'imposta sostitutiva del 19 per cento e' ridotta al 12 per cento e quella del 15 per cento e' ridotta al 9 per cento".
 
-##### Art. 21 - Disposizioni attuative
+#### Art. 21 - Disposizioni attuative
 
 1\. Per la liquidazione, l'accertamento, la riscossione, le sanzioni, i rimborsi e il contenzioso in materia di imposta sostitutiva di cui agli articoli da 17 a 20, si applicano le disposizioni previste per le imposte sui redditi.
 
@@ -642,7 +638,7 @@ La L. 24 dicembre 2003, n. 350 ha disposto (con l'art. 2, comma 26) che "Le disp
 
 > \- Per l'art. 17, comma 3, della legge 23 agosto 1988, n. 400, si veda le note dell'art. 16.
 
-##### Art. 22 - Fondo di copertura di rischi su crediti
+#### Art. 22 - Fondo di copertura di rischi su crediti
 
 1\. Per gli enti creditizi e finanziari di cui al decreto legislativo 27 gennaio 1992, n. 87, e successive modificazioni, l'ammontare del fondo di copertura di rischi su crediti di cui all'articolo 71, comma 3, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, in materia di svalutazione dei crediti e accantonamenti per rischi su crediti, iscritto nel bilancio relativo all'esercizio in corso al 1° gennaio 1999, puo' essere trasferito, in tutto o in parte, al fondo per rischi bancari generali di cui all'articolo 11, comma 2, del citato decreto legislativo n. 87 del 1992.
 
@@ -670,7 +666,7 @@ L'imposta deve essere versata in tre rate annuali di pari importo: la prima con 
 
 > \- Per l'art. 17, comma 3, della legge 23 agosto 1988, n. 400, si veda le note dell'art. 16.
 
-##### Art. 23 - Svalutazione dei crediti ed accantonamenti per rischi su crediti
+#### Art. 23 - Svalutazione dei crediti ed accantonamenti per rischi su crediti
 
 1\. Al comma 3 dell'articolo 71 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, in materia di svalutazione dei crediti e accantonamenti per rischi su crediti, ovunque ricorrano, le parole: "0,50 per cento" sono sostituite dalle seguenti: "0,60 per cento" e le parole: "nei sette esercizi successivi" sono sostituite dalle seguenti: "nei nove esercizi successivi".
 
@@ -692,7 +688,7 @@ L'imposta deve essere versata in tre rate annuali di pari importo: la prima con 
 
 > 6\. Per i crediti per interessi di mora, le svalutazioni e gli accantonamenti di cui ai precedenti commi sono deducibili fino a concorrenza dell'ammontare dei crediti stessi maturato nell'esercizio. Si applicano le disposizioni di cui al comma 2, calcolando l'eccedenza con riferimento all'ammontare complessivo del valore nominale dei crediti per interessi di mora; per gli enti creditizi e finanziari si applicano le disposizioni del comma 5, calcolando l'eccedenza del fondo con riferimento al valore dei crediti per interessi di mora risultanti in bilancio.".
 
-##### Art. 24
+#### Art. 24
 
 (Regolarizzazione degli adempimenti
 
@@ -704,7 +700,7 @@ degli intermediari)
 
 > \- Il decreto legislativo 21 novembre 1997, n. 461, recante "Riordino della disciplina tributaria dei redditi di capitale e dei redditi diversi, a norma dell'art. 3, comma 160, della L. 23 dicembre 1996, n. 662", e' pubblicato nella Gazzetta Ufficiale 3 gennaio 1998, n. 2, S.O.
 
-##### Art. 25
+#### Art. 25
 
 (Deposito di titoli esteri presso depositari centralizzati non
 
@@ -730,7 +726,7 @@ residenti)
 
 > 3-bis. Le disposizioni del presente articolo e quelle dell'art. 7 non si applicano ai proventi dei titoli depositati dalle banche centrali aderenti al Sistema europeo di banche centrali (SEBC) e dalla Banca centrale europea (BCE), direttamente o indirettamente, presso i soggetti indicati dalla BCE nella lista dei sistemi di regolamento dei titoli, idonei per le operazioni di credito del SEBC.".
 
-##### Art. 26
+#### Art. 26
 
 (Disposizioni per agevolare il rimborso di imposta ai soggetti non
 
@@ -806,11 +802,9 @@ residenti)
 
 > 5\. Con decreto dell'Amministrazione finanziaria sono stabilite le modalita' di attuazione delle disposizioni del presente articolo.".
 
-## Sezione IV - Disposizioni fiscali concernenti
+### Sezione IV - Disposizioni fiscali concernenti gli enti territoriali
 
-### gli enti territoriali
-
-##### Art. 27 - Disposizioni in materia di titoli obbligazionari emessi dagli enti territoriali
+#### Art. 27 - Disposizioni in materia di titoli obbligazionari emessi dagli enti territoriali
 
 1\. All'articolo 1, comma 2, del decreto legislativo 1° aprile 1996, n. 239, recante disposizioni in materia di regime fiscale degli interessi, premi ed altri frutti delle obbligazioni e titoli similari, pubblici e privati, il secondo periodo e' sostituito dai seguenti: "L'imposta affluisce all'entrata del bilancio dello Stato e il 50 per cento del gettito della medesima imposta che si renderebbe applicabile sull'intero ammontare degli interessi passivi del prestito e' di competenza degli enti emittenti. Alla retrocessione agli enti territoriali emittenti i titoli obbligazionari della predetta quota di competenza si provvede mediante utilizzo di parte delle entrate affluite al bilancio dello Stato e riassegnate, con decreto del Ministro del tesoro, del bilancio e della programmazione economica, allo stato di previsione del Ministero dell'interno".
 
@@ -832,7 +826,7 @@ residenti)
 
 > 3\. (Omissis).".
 
-##### Art. 28
+#### Art. 28
 
 Disposizioni in materia di addizionale provinciale e comunale
 
@@ -886,7 +880,7 @@ all'imposta sul reddito delle persone fisiche
 
 > \- Il decreto legislativo 18 dicembre 1997, n. 471, recante "Riforma delle sanzioni tributarie non penali in materia di imposte dirette, di imposta sul valore aggiunto e di riscossione dei tributi, a norma dell'art. 3, comma 133, lettera q), della legge 23 dicembre 1996, n. 662", e' pubblicato nella Gazzetta Ufficiale 8 gennaio 1998, n. 5, S.O.
 
-##### Art. 29 - Utilizzo del credito d'imposta per i comuni
+#### Art. 29 - Utilizzo del credito d'imposta per i comuni
 
 1\. Nell'articolo 14 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, concernente il credito d'imposta per gli utili distribuiti da societa' ed enti, e successive modificazioni, dopo il comma 1, e' inserito il seguente:
 
@@ -916,11 +910,9 @@ all'imposta sul reddito delle persone fisiche
 
 > 7-bis. Le disposizioni del presente articolo non si applicano per gli utili percepiti dall'usufruttuario allorche' la costituzione o la cessione del diritto di usufrutto sono state poste in essere da soggetti non residenti, privi nel territorio dello Stato di una stabile organizzazione.".
 
-## Sezione V - Disposizioni modificative e comunque
+### Sezione V - Disposizioni modificative e comunque concernenti il testo unico delle imposte sui redditi
 
-### concernenti il testo unico delle imposte - sui redditi
-
-##### Art. 30
+#### Art. 30
 
 (Deducibilita' degli oneri contributivi relativi ai servizi
 
@@ -978,7 +970,7 @@ domestici)
 
 > \- Il decreto legislativo 18 febbraio 2000, n. 47, recante "Riforma della disciplina fiscale della previdenza complementare, a norma dell'art. 3 della legge 13 maggio 1999, n. 133", e' pubblicato nella Gazzetta Ufficiale 9 marzo 2000, n. 57, S.O.
 
-##### Art. 31 - Spese di assistenza specifica
+#### Art. 31 - Spese di assistenza specifica
 
 1\. Nell'articolo 13-bis del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, concernente detrazioni per oneri, al comma 1, lettera c), secondo periodo, dopo le parole: "dalle spese mediche" sono inserite le seguenti: "e di assistenza specifica".
 
@@ -990,7 +982,7 @@ domestici)
 
 > \- Per il testo dell'art. 13-bis del Testo unico delle imposte sui redditi approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, cosi' come modificato dalla presente legge, si rinvia alle note all'art. 37.
 
-##### Art. 32 - Disposizioni in materia di spese veterinarie
+#### Art. 32 - Disposizioni in materia di spese veterinarie
 
 1\. Nell'articolo 13-bis, comma 1, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, concernente detrazioni per oneri, dopo la lettera c) e' inserita la seguente:
 
@@ -1006,7 +998,7 @@ domestici)
 
 > \- Per il testo dell'art. 13-bis del Testo unico delle imposte sui redditi approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, cosi' come modificato dalla presente legge, si rinvia alle note all'art. 37.
 
-##### Art. 33
+#### Art. 33
 
 (Restituzione della quota fissa individuale
 
@@ -1080,7 +1072,7 @@ per l'assistenza medica di base)
 
 > Per il testo dell'art. 17 del citato decreto legislativo 9 luglio 1997, si rinvia alle note all'art. 83.
 
-##### Art. 34
+#### Art. 34
 
 (Disposizioni in materia di redditi
 
@@ -1276,7 +1268,7 @@ c) all'articolo 25, concernente ritenuta sui redditi di lavoro autonomo e su alt
 
 > I compensi e le somme di cui al n. 9) dell'art. 19 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597 corrisposti a non residenti sono soggetti ad una ritenuta del 30 per cento a titolo d'imposta sulla parte imponibile del loro ammontare. Ne sono esclusi i compensi corrisposti a stabili organizzazioni nel territorio dello Stato di soggetti non residenti.".
 
-##### Art. 35 - Indennita' di trasferta degli ufficiali giudiziari
+#### Art. 35 - Indennita' di trasferta degli ufficiali giudiziari
 
 1\. I soggetti che non hanno dichiarato, in tutto o in parte, le indennita' di trasferta di cui all'articolo 133 dell'ordinamento approvato con decreto del Presidente della Repubblica 15 dicembre 1959, n. 1229, relative agli anni 1993-1997, possono regolarizzare e definire la loro posizione con l'amministrazione delle finanze, versando le relative imposte, sulla base del decreto legislativo 2 settembre 1997, n. 314, che ne ha previsto la tassazione nella misura del 50 per cento, al netto degli acconti versati ai sensi degli articoli 146 e 154 del citato ordinamento approvato con decreto del Presidente della Repubblica 15 dicembre 1959, n. 1229, senza l'applicazione di interessi e sanzioni, in unica soluzione entro il 28 febbraio 2001, oppure in dodici rate bimestrali di eguale importo a decorrere dalla stessa data.
 
@@ -1326,7 +1318,7 @@ c) all'articolo 25, concernente ritenuta sui redditi di lavoro autonomo e su alt
 
 > Il decreto legislativo 2 settembre 1997, n. 314, recante "Armonizzazione, razionalizzazione e semplificazione delle disposizioni fiscali e previdenziali concernenti i redditi di lavoro dipendente e dei relativi adempimenti da parte dei datori di lavoro", e' stato pubblicato nella Gazzetta Ufficiale 19 settembre 1997, n. 219, S.O.
 
-##### Art. 36 - Redditi da lavoro dipendente prodotto all'estero
+#### Art. 36 - Redditi da lavoro dipendente prodotto all'estero
 
 1\. Nell'articolo 48 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, concernente determinazione del reddito di lavoro dipendente, dopo il comma 8, e' inserito il seguente:
 
@@ -1446,7 +1438,7 @@ c) all'articolo 25, concernente ritenuta sui redditi di lavoro autonomo e su alt
 
 > I decreti legislativi 2 settembre 1997, n. 314, 21 novembre 1997, n. 461 e 18 dicembre 1997, n. 466 e n. 467 sono stati gia' citati, rispettivamente, nelle note agli articoli 35, 24, 13 e 6 della presente legge.
 
-##### Art. 37
+#### Art. 37
 
 (Disposizioni tributarie in materia
 
@@ -1654,7 +1646,7 @@ b) i commi 5 e 6 sono abrogati.
 
 > \- Il decreto del Ministro delle finanze 26 novembre 1999, n. 473, recante "Regolamento recante norme di attuazione dell'art. 25 della legge 13 maggio 1999, n. 133, relativo a disposizioni tributarie in materia di associazioni sportive dilettantistiche" e' stato pubblicato nella Gazzetta Ufficiale 16 dicembre 1999, n. 294.
 
-##### Art. 38 - Erogazioni liberali per progetti culturali
+#### Art. 38 - Erogazioni liberali per progetti culturali
 
 1\. All'articolo 65, comma 2, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, concernente oneri di utilita' sociale, dopo la lettera c-octies), introdotta dall'articolo 37 della presente legge, e' aggiunta la seguente:
 
@@ -1700,7 +1692,7 @@ b) i commi 5 e 6 sono abrogati.
 
 > 4\. Le erogazioni liberali diverse da quelle considerate nei precedenti commi e nel comma 1 dell'art. 62 non sono ammesse in deduzione.".
 
-##### Art. 39
+#### Art. 39
 
 Disposizioni fiscali relative a fondi pubblici di agevolazione
 
@@ -1712,7 +1704,7 @@ AGGIORNAMENTO (15)
 
 La Corte costituzionale, con sentenza 13-26 luglio 2005, n. 320 (in G.U. 1a s.s. 3/8/2005, n. 31) ha dichiarato l'illegittimita' costituzionale del presente articolo 39 nella parte in cui dispone che "non si fa luogo a rimborso di imposte gia' pagate".
 
-##### Art. 40 - Campione d'Italia
+#### Art. 40 - Campione d'Italia
 
 1\. Le disposizioni recate dall'articolo 132 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, relativo al comune di Campione d'Italia, devono intendersi applicabili anche nei confronti dei soggetti iscritti nell'anagrafe degli italiani residenti all'estero (AIRE) del comune di Campione d'Italia i quali, gia' iscritti nell'anagrafe della popolazione residente nel predetto comune, hanno nello stesso il domicilio fiscale.
 
@@ -1746,7 +1738,7 @@ c) il comma 3 e' sostituito dal seguente:
 
 ### Sezione I - Norme in materia di IVA
 
-##### Art. 41
+#### Art. 41
 
 (Disposizioni di coordinamento formale e razionalizzazione della
 
@@ -1826,7 +1818,7 @@ d) nell'articolo 74, concernente disposizioni relative a particolari settori, l'
 
 > 2\. Per gli acquisti intracomunitari effettuati senza pagamento dell'imposta a norma delle disposizioni di cui alla lettera c) del primo comma e al secondo comma dell'art. 8 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, non si applica la disposizione di cui alla lettera c) del primo comma dell'art. 1 del decretolegge 29 dicembre 1983, n. 746, convertito, con modificazioni, dalla legge 27 febbraio 1984, n. 17.".
 
-##### Art. 42 - Norme in materia di mercato dell'oro
+#### Art. 42 - Norme in materia di mercato dell'oro
 
 1\. All'articolo 10, primo comma, numero 11), primo periodo, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, in materia di operazioni esenti, e successive modificazioni, dopo le parole: "trasformano oro in oro da investimento" sono inserite le seguenti: "ovvero commerciano oro da investimento,".
 
@@ -1962,7 +1954,7 @@ d) nell'articolo 74, concernente disposizioni relative a particolari settori, l'
 
 > 12\. Per quanto riguarda gli adempimenti contabili, nonche' per le modalita' e i termini di pagamento delle imposte, si applica l'art. 3, comma 136, della legge 23 dicembre 1996, n. 662.".
 
-##### Art. 43 - IVA sulle mense scolastiche
+#### Art. 43 - IVA sulle mense scolastiche
 
 1\. Rientrano tra le prestazioni di servizi di cui al numero 37) della tabella A, parte II, allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, le somministrazioni di alimenti e bevande effettuate dagli enti locali nelle scuole di ogni ordine e grado, nonche' nelle scuole materne e negli asili nido. Resta fermo il trattamento fiscale gia' applicato e non si fa luogo a rimborso di imposte gia' pagate, ne' e' consentita la variazione di cui all'articolo 26 del citato decreto del Presidente della Repubblica n.
 
@@ -1974,11 +1966,11 @@ d) nell'articolo 74, concernente disposizioni relative a particolari settori, l'
 
 > \- Per il testo dell'art. 26 del citato decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, si rimanda alle note all'art. 42.
 
-##### Art. 44 - IVA sui premi relativi alle corse di cavalli
+#### Art. 44 - IVA sui premi relativi alle corse di cavalli
 
 1\. I soggetti, proprietari o gestori di almeno cinque cavalli da corsa, impiegati regolarmente durante l'anno in corse di trotto, galoppo e siepone, organizzate dall'Unione nazionale per l'incremento delle razze equine (UNIRE), possono iscriversi, entro il mese di dicembre, in apposito elenco tenuto presso la stessa UNIRE che controlla l'esistenza e il permanere dei requisiti per l'iscrizione; ai soggetti iscritti al predetto elenco l'imposta sul valore aggiunto nell'anno seguente si applica ((con l'aliquota ordinaria)) anche sui premi corrisposti ai sensi dell'articolo 3 della legge 24 marzo 1942, n. 315, e successive modificazioni.
 
-##### Art. 45
+#### Art. 45
 
 Regime speciale per gli esercenti
 
@@ -2010,7 +2002,7 @@ AGGIORNAMENTO (1)
 
 La L. 23 dicembre 2000, n. 388 ha disposto (con l'art. 31, comma 4) che "L'articolo 45 della legge 21 novembre 2000, n. 342, concernente il regime speciale per gli esercenti agenzie di vendite all'asta, previsto ai fini dell'applicazione dell'imposta sul valore aggiunto, si applica a decorrere dal 1 gennaio 2001".
 
-##### Art. 46 - Disposizioni in materia di territorialita' ai fini IVA
+#### Art. 46 - Disposizioni in materia di territorialita' ai fini IVA
 
 1\. All'articolo 7 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, concernente territorialita' dell'imposta, al quarto comma, lettera f), le parole: "a soggetti domiciliati o residenti fuori della Comunita' economica europea" sono soppresse.
 
@@ -2056,7 +2048,7 @@ La L. 23 dicembre 2000, n. 388 ha disposto (con l'art. 31, comma 4) che "L'artic
 
 > Non si considerano effettuate nel territorio dello Stato le cessioni all'esportazione, le operazioni assimilate a cessioni all'esportazione e i servizi internazionali o connessi agli scambi internazionali di cui ai successivi articoli 8, 8-bis e 9.".
 
-##### Art. 47 - Contabilita' separata ai fini della detrazione IVA
+#### Art. 47 - Contabilita' separata ai fini della detrazione IVA
 
 1\. Tra gli enti indicati all'articolo 19-ter, terzo comma, secondo periodo, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, in materia di detrazione per gli enti non commerciali, devono intendersi ricomprese le amministrazioni dello Stato.
 
@@ -2074,7 +2066,7 @@ La L. 23 dicembre 2000, n. 388 ha disposto (con l'art. 31, comma 4) che "L'artic
 
 > Le disposizioni del precedente comma si applicano anche agli enti pubblici di assistenza e beneficenza ed a quelli di previdenza nonche' all'Automobile club d'Italia e agli automobile clubs.".
 
-##### Art. 48 - Aliquota IVA del 10 per cento per le strutture ricettive
+#### Art. 48 - Aliquota IVA del 10 per cento per le strutture ricettive
 
 1\. Al numero 120) della tabella A, parte III, allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, le parole: "nelle aziende alberghiere e nei parchi di campeggio" sono sostituite dalle seguenti: "nelle strutture ricettive di cui all'articolo 6 della legge 17 maggio 1983, n. 217, e successive modificazioni".
 
@@ -2084,7 +2076,7 @@ La L. 23 dicembre 2000, n. 388 ha disposto (con l'art. 31, comma 4) che "L'artic
 
 > \- Per il testo dei numeri 120) e 121) della tabella A, parte III, allegata al citato decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, si rinvia alle note all'art. 49.
 
-##### Art. 49 - Aliquota IVA del 10 per cento sui prodotti omeopatici
+#### Art. 49 - Aliquota IVA del 10 per cento sui prodotti omeopatici
 
 1\. Nella tabella A, parte III, allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, il numero 114) e' sostituito dal seguente:
 
@@ -2114,7 +2106,7 @@ La L. 23 dicembre 2000, n. 388 ha disposto (con l'art. 31, comma 4) che "L'artic
 
 > 122)-127-septiesdecies) (Omissis).".
 
-##### Art. 50 - Agevolazioni per i disabili
+#### Art. 50 - Agevolazioni per i disabili
 
 1\. Il numero 31) della tabella A, parte II, allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n 633, e successive modificazioni, e' sostituito dal seguente:
 
@@ -2288,11 +2280,11 @@ La L. 23 dicembre 2000, n. 388 ha disposto (con l'art. 31, comma 4) che "L'artic
 
 > 7\. Il pagamento della tassa automobilistica erariale e regionale non e' dovuto con riferimento ai motoveicoli e agli autoveicoli di cui ai commi 1 e 3.".
 
-##### Art. 51 - Acquisizione di aree e di opere da parte dei comuni
+#### Art. 51 - Acquisizione di aree e di opere da parte dei comuni
 
 1\. Non e' da intendere rilevante ai fini dell'imposta sul valore aggiunto, neppure agli effetti delle limitazioni del diritto alla detrazione, la cessione nei confronti dei comuni di aree o di opere di urbanizzazione, a scomputo di contributi di urbanizzazione o in esecuzione di convenzioni di lottizzazione.
 
-##### Art. 52 - Rimborsi trimestrali delle eccedenze di credito IVA
+#### Art. 52 - Rimborsi trimestrali delle eccedenze di credito IVA
 
 1\. Al secondo comma dell'articolo 38-bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, sono aggiunte, in fine, le seguenti parole: "nonche' nelle ipotesi di cui alla lettera c) del medesimo terzo comma quando effettua acquisti ed importazioni di beni ammortizzabili per un ammontare superiore ai due terzi dell'ammontare complessivo degli acquisti e delle importazioni di beni e servizi imponibili ai fini dell'imposta sul valore aggiunto".
 
@@ -2334,7 +2326,7 @@ La L. 23 dicembre 2000, n. 388 ha disposto (con l'art. 31, comma 4) che "L'artic
 
 > L'ammontare del rimborso erogabile senza garanzia non puo' eccedere il 100 per cento della media dei versamenti affluiti nel conto fiscale nel corso del biennio precedente.".
 
-##### Art. 53
+#### Art. 53
 
 (Modifiche all'articolo 6 della legge 13 maggio 1999, n. 133,
 
@@ -2418,7 +2410,7 @@ f) al comma 4, le parole: "31 dicembre 2000" sono sostituite dalle seguenti: "31
 
 > 15\. I prodotti alimentari non piu' commercializzati o non idonei alla commercializzazione per carenza o errori di confezionamento, di etichettatura, di peso o per altri motivi similari nonche' per prossimita' della data di scadenza, ceduti gratuitamente ai soggetti indicati nell'articolo 10, numero 12), del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633 (24), e da questi ritirati presso i luoghi di esercizio dell'impresa, si considerano distrutti agli effetti dell'imposta sul valore aggiunto.".
 
-##### Art. 54 - Donazioni di opere librarie e di dotazioni informatiche
+#### Art. 54 - Donazioni di opere librarie e di dotazioni informatiche
 
 1\. I prodotti editoriali e le dotazioni informatiche non piu' commercializzati o non idonei alla commercializzazione, ceduti gratuitamente agli enti locali, agli istituti di prevenzione e pena, alle istituzioni scolastiche, agli orfanotrofi ed enti religiosi, sono considerati distrutti agli effetti dell'imposta sul valore aggiunto e non si considerano destinati a finalita' estranee all'esercizio dell'impresa ai sensi dell'articolo 53, comma 2, in materia di ricavi, e dell'articolo 54, comma 1, lettera d), in materia di plusvalenze patrimoniali, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917.
 
@@ -2476,9 +2468,9 @@ f) al comma 4, le parole: "31 dicembre 2000" sono sostituite dalle seguenti: "31
 
 > Per il testo dell'art 17, comma 3, della legge 23 agosto 1988, n. 400, si rimanda alle note all'art. 16.
 
-## Sezione II - Norme in materia di altre imposte indirette
+### Sezione II - Norme in materia di altre imposte indirette
 
-##### Art. 55
+#### Art. 55
 
 Disposizioni di razionalizzazione in materia di tasse sulle concessioni governative e di imposta di bollo
 
@@ -2492,7 +2484,7 @@ Disposizioni di razionalizzazione in materia di tasse sulle concessioni governat
 
 5\. Alla nota 3-ter del comma 2-bis dell'articolo 13 della tariffa, parte I, annessa al decreto del Presidente della Repubblica 26 ottobre 1972, n. 642, recante l'indicazione degli atti soggetti all'imposta di bollo, come da ultimo modificata dall'articolo 6, comma 1, lettera b), della legge 8 maggio 1998, n. 146, e' aggiunto, in fine, il seguente periodo: "Non sono altresi' soggette all'imposta le comunicazioni relative ai depositi di titoli emessi con modalita' diverse da quelle cartolari e comunque oggetto di successiva dematerializzazione, il cui complessivo valore nominale o di rimborso posseduto presso ciascuna banca sia pari o inferiore a mille euro". 6.((COMMA ABROGATO DAL D.L. 24 APRILE 2014, N. 66, CONVERTITO CON MODIFICAZIONI DALLA L. 23 GIUGNO 2014, N. 89)).
 
-##### Art. 56 - Contributo unificato per le spese degli atti giudiziari
+#### Art. 56 - Contributo unificato per le spese degli atti giudiziari
 
 1\. All'articolo 9, comma 2, della legge 23 dicembre 1999, n.488, concernente il contributo unificato per le spese degli atti giudiziari, le parole: ", amministrativi e in materia tavolare" sono sostituite dalle seguenti "e amministrativi".
 
@@ -2524,7 +2516,7 @@ Disposizioni di razionalizzazione in materia di tasse sulle concessioni governat
 
 > 11\. Le disposizioni del presente articolo si applicano dal 1 luglio 2000, ai procedimenti iscritti a ruolo a decorrere dalla medesima data. Detto termine puo' essere prorogato, per un periodo massimo di sei mesi, con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro della giustizia e del Ministro delle finanze, tenendo conto di oggettive esigenze organizzative degli uffici, o di accertate difficolta' dei soggetti interessati per gli adempimenti posti a loro carico. Per i procedimenti gia' iscritti a ruolo al 1 luglio 2000 ovvero all'eventuale nuovo termine fissato ai sensi del secondo periodo, la parte puo' valersi delle disposizioni del presente articolo versando l'importo del contributo di cui alla tabella 1 in ragione del 50 per cento. Non si fa luogo al rimborso o alla ripetizione di quanto gia' pagato a titolo di imposta di bollo, di tassa di iscrizione a ruolo e di diritti di cancelleria.".
 
-##### Art. 57
+#### Art. 57
 
 (Soppressione della tassa sui ricorsi straordinari al Presidente
 
@@ -2544,7 +2536,7 @@ della Repubblica)
 
 > Le disposizioni di questo articolo entrano in vigore il sessantesimo giorno dalla data della pubblicazione della presente legge.".
 
-##### Art. 58 - Accisa per i servizi pubblici di trasporto
+#### Art. 58 - Accisa per i servizi pubblici di trasporto
 
 1\. Al numero 15 della tabella A allegata al testo unico approvato con decreto legislativo 26 ottobre 1995, n. 504, sono aggiunte in fine le parole: "e dagli autobus urbani ed extraurbani adibiti a sevizio pubblico".
 
@@ -2912,7 +2904,7 @@ della Repubblica)
 
 > processi produttivi". |Esenzione
 
-##### Art. 59
+#### Art. 59
 
 (Modifiche al testo unico approvato con decreto legislativo 26
 
@@ -2962,7 +2954,7 @@ b) all'articolo 7, comma 1, all'alinea, le parole: "che comporti l'esigibilita' 
 
 > 3\. Lo scambio e l'utilizzazione di informazioni necessarie per l'attuazione della cooperazione amministrativa con gli altri Stati membri, nonche' le azioni di mutua assistenza amministrativa con i medesimi Stati e con i servizi antifrode dell'Unione europea, avvengono in conformita' delle disposizioni comunitarie e con l'osservanza delle modalita' previste dai competenti organi comunitari.".
 
-##### Art. 60 - Disposizioni in materia di fonti di energia
+#### Art. 60 - Disposizioni in materia di fonti di energia
 
 1\. All'articolo 8, comma 10, lettera f), della legge 23 dicembre 1998, n. 448, dopo le parole: "zone climatiche E ed F" sono inserite le seguenti: "ovvero per gli impianti e le reti di teleriscaldamento alimentati da energia geotermica".
 
@@ -3080,7 +3072,7 @@ b) al comma 3, dopo la lettera e) e' aggiunta la seguente:
 
 > 4\. L'amministrazione finanziaria ha facolta' di autorizzare, nel periodo che intercede fra l'impianto e l'attivazione regolare dell'officina, esperimenti in esenzione da imposta per la prova ed il collaudo degli apparecchi, purche' tali esperimenti abbiano una durata non superiore a tre giorni.
 
-##### Art. 61
+#### Art. 61
 
 Disposizioni in materia di autotrasporto
 
@@ -3102,7 +3094,7 @@ Disposizioni in materia di autotrasporto
 
 5\. Alla legge 23 dicembre 1999, n. 488, dopo la tabella 2 e' inserita la tabella 2-bis di cui all'allegato 1 della presente legge.
 
-##### Art. 62 - Disposizioni in materia di trattamento fiscale del reddito dei soci delle cooperative di autotrasporto
+#### Art. 62 - Disposizioni in materia di trattamento fiscale del reddito dei soci delle cooperative di autotrasporto
 
 1\. La disposizione di cui all'articolo 62, comma 1-quater, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, si applica ai fini della determinazione del reddito di cui all'articolo 47, comma 1, lettera a), del medesimo testo unico, se la societa' cooperativa autorizzata all'autotrasporto non fruisce della deduzione dell'importo ivi previsto, ne' della deduzione analitica delle spese sostenute, in relazione alle trasferte effettuate dai soci fuori del territorio comunale.
 
@@ -3120,7 +3112,7 @@ Disposizioni in materia di autotrasporto
 
 > 2\. - 4. (Omissis).".
 
-##### Art. 63 - Tasse automobilistiche per particolari categorie di veicoli
+#### Art. 63 - Tasse automobilistiche per particolari categorie di veicoli
 
 1\. Sono esentati dal pagamento delle tasse automobilistiche i veicoli ed i motoveicoli, esclusi quelli adibiti ad uso professionale, a decorrere dall'anno in cui si compie il trentesimo anno dalla loro costruzione. Salvo prova contraria, i veicoli di cui al primo periodo si considerano costruiti nell'anno di prima immatricolazione in Italia o in altro Stato. PERIODO SOPPRESSO DALLA L. 23 DICEMBRE 2014, N. 190.
 
@@ -3134,7 +3126,7 @@ Disposizioni in materia di autotrasporto
 
 4\. I veicoli di cui al comma 1 sono assoggettati, in caso di utilizzazione sulla pubblica strada, ad una tassa di circolazione forfettaria annua di lire 50.000 per gli autoveicoli e di lire 20.000 per i motoveicoli. Per la liquidazione, la riscossione e l'accertamento della predetta tassa, si applicano, in quanto compatibili, le disposizioni che disciplinano la tassa automobilistica, di cui al testo unico delle leggi sulle tasse automobilistiche, approvato con decreto del Presidente della Repubblica 5 febbraio 1953, n. 39, e successive modificazioni. Per i predetti veicoli l'imposta provinciale di trascrizione e' fissata in lire 100.000 per gli autoveicoli ed in lire 50.000 per i motoveicoli.
 
-##### Art. 64 - Accisa sui tabacchi lavorati
+#### Art. 64 - Accisa sui tabacchi lavorati
 
 1\. In attuazione della direttiva 1999/81/CE, del Consiglio, del 29 luglio 1999, e con riferimento alle altre direttive comunitarie disciplinanti le imposte sui tabacchi lavorati, il Ministro delle finanze, con proprio decreto da emanare entro il 31 marzo 2001, dispone modifiche al sistema di tassazione dei tabacchi lavorati relative anche alla struttura dell'accisa. Contemporaneamente a tali modifiche sono emanate le disposizioni concernenti le variazioni delle tariffe dei prezzi di vendita al pubblico dei tabacchi lavorati nel rispetto di quanto previsto dall'articolo 2 della legge 13 luglio 1965, n. 825, e successive modificazioni. Le predette misure devono assicurare maggiori entrate di importo non inferiore a lire 150 miliardi, in ragione annua.
 
@@ -3148,7 +3140,7 @@ Disposizioni in materia di autotrasporto
 
 > Per i generi importati la tariffa di vendita e' aumentata dell'importo dei dazi doganali vigenti all'atto della vendita.".
 
-##### Art. 65 - Disposizioni in materia di rivendite di generi di monopolio
+#### Art. 65 - Disposizioni in materia di rivendite di generi di monopolio
 
 1\. I rivenditori di generi di monopolio, in servizio da almeno un anno alla data di entrata in vigore della presente legge come gerenti provvisori senza titolo al conferimento diretto, ai sensi dell'articolo 29 della legge 22 dicembre 1957, n. 1293, e dell'articolo 66 del relativo regolamento di esecuzione, approvato con decreto del Presidente della Repubblica 14 ottobre 1958, n. 1074, ed in attesa della sistemazione a termini di legge della rivendita vacante, possono conseguire l'assegnazione a trattativa privata delle rivendite che gestiscono, dietro versamento di un corrispettivo fissato dalla commissione di cui all'articolo 1, primo comma, lettera b), della legge 23 luglio 1980, n. 384, e successive modificazioni.
 
@@ -3162,7 +3154,7 @@ AGGIORNAMENTO (18)
 
 Il D.L. 1 luglio 2009, n. 78, convertito con modificazioni dalla L. 3 agosto 2009, n. 102 ha disposto (con l'art. 23, comma 21-sexies) che "Il termine per le istanze di cui al comma 2 dell'articolo 65 della legge 21 novembre 2000, n. 342, e' riaperto per i centottanta giorni successivi alla data di entrata in vigore della legge di conversione del presente decreto per le rivendite gia' istituite con contratto antecedente alla data del 31 dicembre 2008 in possesso dei requisiti stabiliti dal citato comma, purche', entro i centoventi giorni successivi alla data di entrata in vigore della legge di conversione del presente decreto, siano intestate a persone fisiche".
 
-##### Art. 66
+#### Art. 66
 
 (Modifiche al regime di agevolazione fiscale per l'accesso alla prima casa a favore del personale delle Forze armate e delle Forze di
 
@@ -3236,7 +3228,7 @@ polizia)
 
 > Per il testo dell'art. 13-bis del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, recante "Approvazione del testo unico delle imposte sui redditi", cosi' come modificato dalla presente legge, si rimanda alle note all'articolo 31.
 
-##### Art. 67
+#### Art. 67
 
 (Trasferimenti di beni mobili e immobili posti in essere
 
@@ -3248,7 +3240,7 @@ dall'Associazione nazionale fra mutilati e invalidi di guerra)
 
 > \- Il R.D. 16 dicembre 1929, n. 2162, recante "Erezione in ente morale dell'Associazione nazionale fra mutilati ed invalidi di guerra", e' pubblicato nella Gazzetta Ufficiale 30 dicembre 1929, n. 303.
 
-##### Art. 68 - Termine per il versamento dell'imposta di registro per i contratti di locazione e affitto di beni immobili
+#### Art. 68 - Termine per il versamento dell'imposta di registro per i contratti di locazione e affitto di beni immobili
 
 1\. All'articolo 17, comma 1, del testo unico delle disposizioni concernenti l'imposta di registro, approvato con decreto del Presidente della Repubblica 26 aprile 1986, n. 131, le parole: "venti giorni" sono sostituite dalle seguenti: "trenta giorni".
 
@@ -3266,7 +3258,7 @@ dall'Associazione nazionale fra mutilati e invalidi di guerra)
 
 > 3-bis. Per i contratti di affitto di fondi rustici non formati per atto pubblico o scrittura privata autenticata, l'obbligo della registrazione puo' essere assolto presentando all'ufficio del registro, entro il mese di febbraio, una denuncia in doppio originale relativa ai contratti in essere nell'anno precedente. La denuncia deve essere sottoscritta e presentata da una delle parti contraenti e deve contenere le generalita' e il domicilio nonche' il codice fiscale delle parti contraenti, il luogo e la data di stipulazione, l'oggetto, il corrispettivo pattuito e la durata del contratto.".
 
-##### Art. 69
+#### Art. 69
 
 Norme in materia di imposta sulle successioni e sulle donazioni
 
@@ -3394,11 +3386,9 @@ c) efficienza ed efficacia dell'attivita' amministrativa.
 
 15\. Le disposizioni contenute nel presente articolo si applicano alle successioni per le quali il termine di presentazione delle relative dichiarazioni scade successivamente al 31 dicembre 2000 ed alle donazioni fatte a decorrere dal 1° gennaio 2001.
 
-## Capo III - DISPOSIZIONI IN MATERIA DI ACCERTAMENTO, DI RISCOSSIONE, DI
+## Capo III - DISPOSIZIONI IN MATERIA DI ACCERTAMENTO, DI RISCOSSIONE, DI CONTENZIOSO TRIBUTARIO, DI IMMOBILI PUBBLICI E PER IL FUNZIONAMENTO DELL'AMMINISTRAZIONE FINANZIARIA
 
-### CONTENZIOSO TRIBUTARIO, DI IMMOBILI PUBBLICI E PER IL FUNZIONAMENTO - DELL'AMMINISTRAZIONE FINANZIARIA
-
-##### Art. 70
+#### Art. 70
 
 (Disposizioni riguardanti l'accertamento basato sugli studi di
 
@@ -3410,7 +3400,7 @@ settore e l'accertamento basato sui parametri)
 
 3\. La disposizione di cui al comma 2 si applica anche in caso di intervenuta definizione degli accertamenti basati sui parametri previsti dall'articolo 3, commi 181 e 184, della legge 28 dicembre 1995, n. 549, relativi al periodo d'imposta 1998 e ai successivi.
 
-##### Art. 71 - Adeguamento alle risultanze degli studi di settore
+#### Art. 71 - Adeguamento alle risultanze degli studi di settore
 
 1\. Per il secondo periodo d'imposta in cui trovano applicazione gli studi di settore, approvati con decreti del Ministro delle finanze del 30 marzo 1999, pubblicati nei supplementi ordinari n. 61 e n. 62 alla Gazzetta Ufficiale n. 75 del 31 marzo 1999, non si applicano sanzioni e interessi nei confronti dei contribuenti che indicano nella dichiarazione dei redditi ricavi, non annotati nelle scritture contabili, per adeguarli a quelli derivanti dall'applicazione dei predetti studi di settore.
 
@@ -3426,7 +3416,7 @@ settore e l'accertamento basato sui parametri)
 
 > \- Il decreto ministeriale 30 marzo 1999, recante "Approvazione, in base all'art. 62-bis del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427, degli studi di settore relativi ad attivita' economiche nel settore delle manifatture", e' pubblicato nella Gazzetta Ufficiale n. 75 del 31 marzo 1999, S.O. n. 62.
 
-##### Art. 72 - Adempimenti contabili dei soggetti esercenti piu' attivita'
+#### Art. 72 - Adempimenti contabili dei soggetti esercenti piu' attivita'
 
 1\. I contribuenti nei confronti dei quali trovano applicazione gli studi di settore ed i parametri possono indicare, nei modelli di dichiarazione dei redditi riguardanti il periodo d'imposta in corso al 31 dicembre 1999, codici di attivita' relativi all'attivita' prevalente ed a quelle secondarie diversi da quelli risultanti all'amministrazione finanziaria. L'indicazione dei predetti codici nei modelli di dichiarazione produce gli effetti della dichiarazione di cui all'articolo 35, terzo comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, e non si applicano, per il periodo d'imposta in corso al 31 dicembre 1999 e per i periodi d'imposta precedenti, le sanzioni connesse alla mancata o errata comunicazione dei predetti codici.
 
@@ -3458,7 +3448,7 @@ settore e l'accertamento basato sui parametri)
 
 > I soggetti che intraprendono l'esercizio di una impresa, arte o professione, se ritengono di realizzare un volume di affari che comporti l'applicazione degli articoli 32, 33 e 34, terzo comma, devono indicarlo nella dichiarazione da presentare a norma del primo comma e devono osservare la disciplina rispettivamente stabilita.".
 
-##### Art. 73 - Liquidazione della Societa' esattorie vacanti spa
+#### Art. 73 - Liquidazione della Societa' esattorie vacanti spa
 
 1\. A decorrere dalla data di entrata in vigore della presente legge cessa di avere effetto la legge 4 agosto 1977, n. 524.
 
@@ -3484,7 +3474,7 @@ settore e l'accertamento basato sui parametri)
 
 > Dalla data della presentazione della domanda e fino alla data dell'effettiva liquidazione dell'indennita' l'esattore ha diritto ad una tolleranza sui versamenti di cui all'art. 10 del decreto del Presidente della Repubblica 29 settembre 1973, n. 603, pari all'ammontare dell'integrazione dovutagli. Qualora non vi sia capienza nei carichi in scadenza l'intendente di finanza autorizza l'esattore a rivalersi sui versamenti di cui all'art. 7 dello stesso decreto.".
 
-##### Art. 74 - Attribuzione o modificazione delle rendite catastali
+#### Art. 74 - Attribuzione o modificazione delle rendite catastali
 
 1\. A decorrere dal 1° gennaio 2000, gli atti comunque attributivi o modificativi delle rendite catastali per terreni e fabbricati sono efficaci solo a decorrere dalla loro notificazione, a cura dell'ufficio del territorio competente, ai soggetti intestatari della partita. Dall'avvenuta notificazione decorre il termine di cui all'articolo 21 del decreto legislativo 31 dicembre 1992, n. 546, e successive modificazioni, per proporre il ricorso di cui all'articolo 2, comma 3, dello stesso decreto legislativo. Dell'avvenuta notificazione gli uffici competenti danno tempestiva comunicazione ai comuni interessati. ((16))
 
@@ -3504,13 +3494,13 @@ AGGIORNAMENTO (16)
 
 Il D.L. 3 ottobre 2006, n. 262, convertito con modificazioni dalla L. 24 novembre 2006, n. 286, come modificato dalla L. 27 dicembre 2006, n. 296 ha disposto (con l'art. 2, comma 34) che "In deroga alle vigenti disposizioni ed in particolare all'articolo 74, comma 1, della legge 21 novembre 2000, n. 342, l'Agenzia del territorio, con apposito comunicato da pubblicare nella Gazzetta Ufficiale, rende noto, per ciascun comune, il completamento delle operazioni e provvede a pubblicizzare, per i sessanta giorni successivi alla pubblicazione del comunicato, presso i Comuni interessati, tramite gli uffici provinciali e sul proprio sito internet, i risultati delle relative operazioni catastali di aggiornamento".
 
-##### Art. 75 - Rimborsi automatizzati
+#### Art. 75 - Rimborsi automatizzati
 
 1\. Possono essere effettuati mediante procedure automatizzate i rimborsi delle imposte e delle tasse individuate con decreti del Ministero delle finanze; con i predetti decreti sono altresi' determinate le modalita' di esecuzione di tali rimborsi.
 
 2\. Fino all'emanazione dei decreti previsti dal comma 1, i rimborsi di cui allo stesso comma sono eseguiti secondo le disposizioni vigenti alla data di entrata in vigore della presente legge.
 
-##### Art. 76
+#### Art. 76
 
 (Cessione di crediti tributari da parte di enti locali e Camere di
 
@@ -3588,7 +3578,7 @@ b) danno luogo a successione a titolo particolare nei diritti ceduti.
 
 > La sentenza pronunciata contro questi ultimi spiega sempre i suoi effetti anche contro il successore a titolo particolare ed e' impugnabile anche da lui, salve le norme sull'acquisto in buona fede dei mobili e sulla trascrizione.".
 
-##### Art. 77
+#### Art. 77
 
 Modifica del sistema di remunerazione
 
@@ -3612,7 +3602,7 @@ c) l'articolo 5, concernente la riscossione tramite ruolo, e' abrogato;
 
 d) ((LETTERA ABROGATA DAL D.L. 24 SETTEMBRE 2002, N. 209, CONVERTITO CON MODIFICAZIONI DALLA L. 22 NOVEMBRE 2002, N. 265)).
 
-##### Art. 78
+#### Art. 78
 
 (Attivita' di liquidazione, accertamento e riscossione dei tributi
 
@@ -3652,7 +3642,7 @@ locali)
 
 > 7\. Con decreto del Ministro delle finanze, da emanare secondo le procedure di cui all'articolo 53, sono stabilite disposizioni generali in ordine ai criteri di affidamento e di svolgimento dei servizi in questione al fine di assicurare la necessaria trasparenza e funzionalita', nonche' la misura dei compensi, tenuto anche conto delle effettive riscossioni.".
 
-##### Art. 79 - Definizione automatica delle domande di rimborso e di discarico
+#### Art. 79 - Definizione automatica delle domande di rimborso e di discarico
 
 1\. Relativamente alle quote non superiori a cinquecento milioni di lire, i concessionari e i commissari governativi del servizio nazionale della riscossione possono definire automaticamente le domande di rimborso e di discarico per inesigibilita' da essi presentate dal 1° gennaio 1998 al 30 giugno 1999, giacenti presso gli uffici e non ancora esaminate.
 
@@ -3726,11 +3716,11 @@ Tale definizione deve essere ultimata entro il 31 maggio 2002.
 
 > 5\. 8-bis. (Omissis).".
 
-##### Art. 80
+#### Art. 80
 
 ((ARTICOLO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
 
-##### Art. 81 - Utilizzazione dell'avanzo patrimoniale del Fondo di previdenza per gli impiegati dipendenti dalle esattorie e ricevitorie delle imposte dirette
+#### Art. 81 - Utilizzazione dell'avanzo patrimoniale del Fondo di previdenza per gli impiegati dipendenti dalle esattorie e ricevitorie delle imposte dirette
 
 1\. Nell'ambito dei processi di ristrutturazione aziendale conseguenti all'applicazione dei decreti legislativi di attuazione della legge 28 settembre 1998, n. 337, l'avanzo patrimoniale, al netto delle riserve legali, esistente alla data del 31 dicembre 1998, del Fondo di previdenza di cui alla legge 2 aprile 1958, n. 377, e successive modificazioni, e' utilizzato in modo frazionato per un periodo non inferiore a sei anni a decorrere dal 1° gennaio 2001 con le modalita' stabilite, previo accordo tra le parti, con decreto del Ministro del lavoro e della previdenza sociale di concerto con il Ministro del tesoro, del bilancio e della programmazione economica e con il Ministro delle finanze.
 
@@ -3740,7 +3730,7 @@ Tale definizione deve essere ultimata entro il 31 maggio 2002.
 
 > La legge 2 aprile 1958, n. 377, recante "Norme sul riordinamento del Fondo di previdenza per gli impiegati dipendenti dalle esattorie e ricevitorie delle imposte dirette", e' pubblicata nella Gazzetta Ufficiale 23 aprile 1958, n. 98.
 
-##### Art. 82
+#### Art. 82
 
 Disposizioni concernenti le liti fiscali
 
@@ -3764,7 +3754,7 @@ b) per valore della lite si intende l'importo dell'imposta, al netto degli inter
 
 7\. Con regolamento da emanare ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, sono stabilite le modalita' di presentazione delle domande di cui al comma 1, le procedure per il controllo delle stesse, le modalita' per l'estinzione dei giudizi, e le altre norme occorrenti per l'applicazione del presente articolo.
 
-##### Art. 83
+#### Art. 83
 
 (Razionalizzazione del sistema di versamento unitario e
 
@@ -3808,7 +3798,7 @@ compensazione)
 
 > 2-bis. (Comma abrogato)".
 
-##### Art. 84 - Incompatibilita' dei giudici tributari
+#### Art. 84 - Incompatibilita' dei giudici tributari
 
 1\. All'articolo 8, comma 1, del decreto legislativo 31 dicembre 1992, n. 545, la lettera i) e' sostituita dalla seguente:
 
@@ -3854,7 +3844,7 @@ compensazione)
 
 > \- Per il testo dell'art. 21 del D.Lgs. 31 dicembre 1992, n. 545, sopra citato, si rinvia alle note all'art. 85.
 
-##### Art. 85
+#### Art. 85
 
 Composizione del consiglio di presidenza
 
@@ -3920,7 +3910,7 @@ della giustizia tributaria
 
 > 2\. Ai componenti del consiglio di presidenza spetta, se con residenza fuori Roma, il trattamento di missione nella misura prevista per la qualifica rivestita e comunque non inferiore a quella prevista per il dirigente generale dello Stato, livello C".
 
-##### Art. 86 - Modifica al decreto legislativo 31 dicembre 1992, n. 545
+#### Art. 86 - Modifica al decreto legislativo 31 dicembre 1992, n. 545
 
 1\. All'articolo 13 del decreto legislativo 31 dicembre 1992, n. 545, e successive modificazioni, dopo il comma 3, e' aggiunto il seguente: "3-bis. I compensi di cui ai commi 1, 2 e 3 sono cumulabili con i trattamenti pensionistici e di quiescenza comunque denominati".
 
@@ -3936,7 +3926,7 @@ della giustizia tributaria
 
 > 3-bis. I compensi di cui ai commi 1, 2 e 3 sono cumulabili con i trattamenti pensionistici e di quiescenza comunque denominati.".
 
-##### Art. 87 - Utilizzo di risorse finanziarie
+#### Art. 87 - Utilizzo di risorse finanziarie
 
 1\. All'articolo 35 della legge 8 maggio 1998, n. 146, dopo il comma 3, e' aggiunto il seguente:
 
@@ -3954,7 +3944,7 @@ della giustizia tributaria
 
 > 3-bis. Le risorse non utilizzate per le finalita' di cui ai commi da 1 a 3 affluiscono al fondo unico di amministrazione del Ministero delle finanze per essere destinate, con i criteri e le modalita' stabiliti dalla contrattazione collettiva integrativa, al miglioramento della produttivita' individuale e collettiva ed alla formazione e alla incentivazione della mobilita' del personale.".
 
-##### Art. 88
+#### Art. 88
 
 (Razionalizzazione delle procedure relative
 
@@ -3972,7 +3962,7 @@ ai corsi di riqualificazione)
 
 > 208\. 244. (Omissis).".
 
-##### Art. 89 - Trattamento economico di talune categorie di personale del Ministero delle finanze
+#### Art. 89 - Trattamento economico di talune categorie di personale del Ministero delle finanze
 
 1\. Al comma 23 dell'articolo 45 del decreto legislativo 31 marzo 1998, n. 80, introdotto dal comma 6 dell'articolo 22 del decreto legislativo 29 ottobre 1998, n. 387, e' aggiunto, in fine, il seguente periodo: "Il trattamento economico fondamentale del personale inserito nel ruolo provvisorio ad esaurimento del Ministero delle finanze, istituito dall'articolo 4, comma 1, del decreto legislativo 9 luglio 1998, n. 283, in posizione di comando, di fuori ruolo o in altra analoga posizione, presso enti pubblici territoriali, enti pubblici non economici o altre amministrazioni pubbliche dotate di autonomia finanziaria, rimane a carico dell'amministrazione di appartenenza".
 
@@ -3990,7 +3980,7 @@ ai corsi di riqualificazione)
 
 ## Capo IV - IMPOSTA REGIONALE SULLE EMISSIONI SONORE DEGLI AEROMOBILI
 
-##### Art. 90 - Istituzione dell'imposta regionale sulle emissioni sonore degli aeromobili
+#### Art. 90 - Istituzione dell'imposta regionale sulle emissioni sonore degli aeromobili
 
 1\. A decorrere dall'anno 2001 e' istituita l'imposta regionale sulle emissioni sonore degli aeromobili civili il cui gettito e' destinato prioritariamente al completamento dei sistemi di monitoraggio acustico e al disinquinamento acustico e all'eventuale indennizzo delle popolazioni residenti delle zone A e B dell'intorno aeroportuale come definite dal decreto del Ministro dell'ambiente del 31 ottobre 1997, pubblicato nella Gazzetta Ufficiale n. 267 del 15 novembre 1997. L'imposta stabilita nella misura di cui all'articolo 92 e' dovuta ad ogni regione o provincia autonoma per ogni decollo ed atterraggio dell'aeromobile civile negli aeroporti civili.
 
@@ -4008,7 +3998,7 @@ AGGIORNAMENTO (22)
 
 Il D.Lgs. 6 maggio 2011, n. 68 ha disposto (con l'art. 8, comma 1) che "Ferma la facolta' per le regioni di sopprimerli, a decorrere dal 1° gennaio 2013 sono trasformati in tributi propri regionali la tassa per l'abilitazione all'esercizio professionale, l'imposta regionale sulle concessioni statali dei beni del demanio marittimo, l'imposta regionale sulle concessioni statali per l'occupazione e l'uso dei beni del patrimonio indisponibile, la tassa per l'occupazione di spazi ed aree pubbliche regionali, le tasse sulle concessioni regionali, l'imposta sulle emissioni sonore degli aeromobili, di cui all'articolo 190 del Regio Decreto 31 agosto 1933, n. 1592, all'articolo 121 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, agli articoli 1, 5 e 6 del decreto-legge 5 ottobre 1993, n. 400, convertito, con modificazioni, dalla legge 4 dicembre 1993, n. 494, all'articolo 2 della legge 16 maggio 1970, n. 281, all'articolo 5 della citata legge n. 281 del 1970, all'articolo 3 della citata legge n. 281 del 1970, agli articoli da 90 a 95 della legge 21 novembre 2000, n. 342".
 
-##### Art. 91 - Soggetto obbligato ed esenzioni
+#### Art. 91 - Soggetto obbligato ed esenzioni
 
 1\. Il soggetto obbligato al pagamento dell'imposta di cui all'articolo 90 e' l'esercente dell'aeromobile, il quale provvede al versamento su base trimestrale, entro il quinto giorno del mese successivo ad ogni semestre.
 
@@ -4022,7 +4012,7 @@ AGGIORNAMENTO (22)
 
 Il D.Lgs. 6 maggio 2011, n. 68 ha disposto (con l'art. 8, comma 1) che "Ferma la facolta' per le regioni di sopprimerli, a decorrere dal 1° gennaio 2013 sono trasformati in tributi propri regionali la tassa per l'abilitazione all'esercizio professionale, l'imposta regionale sulle concessioni statali dei beni del demanio marittimo, l'imposta regionale sulle concessioni statali per l'occupazione e l'uso dei beni del patrimonio indisponibile, la tassa per l'occupazione di spazi ed aree pubbliche regionali, le tasse sulle concessioni regionali, l'imposta sulle emissioni sonore degli aeromobili, di cui all'articolo 190 del Regio Decreto 31 agosto 1933, n. 1592, all'articolo 121 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, agli articoli 1, 5 e 6 del decreto-legge 5 ottobre 1993, n. 400, convertito, con modificazioni, dalla legge 4 dicembre 1993, n. 494, all'articolo 2 della legge 16 maggio 1970, n. 281, all'articolo 5 della citata legge n. 281 del 1970, all'articolo 3 della citata legge n. 281 del 1970, agli articoli da 90 a 95 della legge 21 novembre 2000, n. 342".
 
-##### Art. 92 - Determinazione e versamento dell'imposta
+#### Art. 92 - Determinazione e versamento dell'imposta
 
 1\. L'imposta di cui all'articolo 90 e' determinata, sulla base dell'emissione sonora dell'aeromobile civile come indicata nelle norme sulla certificazione acustica internazionale, nelle seguenti misure:
 
@@ -4044,7 +4034,7 @@ AGGIORNAMENTO (22)
 
 Il D.Lgs. 6 maggio 2011, n. 68 ha disposto (con l'art. 8, comma 1) che "Ferma la facolta' per le regioni di sopprimerli, a decorrere dal 1° gennaio 2013 sono trasformati in tributi propri regionali la tassa per l'abilitazione all'esercizio professionale, l'imposta regionale sulle concessioni statali dei beni del demanio marittimo, l'imposta regionale sulle concessioni statali per l'occupazione e l'uso dei beni del patrimonio indisponibile, la tassa per l'occupazione di spazi ed aree pubbliche regionali, le tasse sulle concessioni regionali, l'imposta sulle emissioni sonore degli aeromobili, di cui all'articolo 190 del Regio Decreto 31 agosto 1933, n. 1592, all'articolo 121 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, agli articoli 1, 5 e 6 del decreto-legge 5 ottobre 1993, n. 400, convertito, con modificazioni, dalla legge 4 dicembre 1993, n. 494, all'articolo 2 della legge 16 maggio 1970, n. 281, all'articolo 5 della citata legge n. 281 del 1970, all'articolo 3 della citata legge n. 281 del 1970, agli articoli da 90 a 95 della legge 21 novembre 2000, n. 342".
 
-##### Art. 93 - Poteri delle regioni e delle province autonome
+#### Art. 93 - Poteri delle regioni e delle province autonome
 
 1\. Le misure dell'imposta di cui all'articolo 92 possono essere variate con apposita legge dalle regioni e dalle province autonome, entro il 31 luglio di ogni anno, con effetto dal 1° gennaio successivo in misura non superiore all'indice ISTAT dei prezzi al consumo per la collettivita' nazionale.
 
@@ -4058,7 +4048,7 @@ AGGIORNAMENTO (22)
 
 Il D.Lgs. 6 maggio 2011, n. 68 ha disposto (con l'art. 8, comma 1) che "Ferma la facolta' per le regioni di sopprimerli, a decorrere dal 1° gennaio 2013 sono trasformati in tributi propri regionali la tassa per l'abilitazione all'esercizio professionale, l'imposta regionale sulle concessioni statali dei beni del demanio marittimo, l'imposta regionale sulle concessioni statali per l'occupazione e l'uso dei beni del patrimonio indisponibile, la tassa per l'occupazione di spazi ed aree pubbliche regionali, le tasse sulle concessioni regionali, l'imposta sulle emissioni sonore degli aeromobili, di cui all'articolo 190 del Regio Decreto 31 agosto 1933, n. 1592, all'articolo 121 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, agli articoli 1, 5 e 6 del decreto-legge 5 ottobre 1993, n. 400, convertito, con modificazioni, dalla legge 4 dicembre 1993, n. 494, all'articolo 2 della legge 16 maggio 1970, n. 281, all'articolo 5 della citata legge n. 281 del 1970, all'articolo 3 della citata legge n. 281 del 1970, agli articoli da 90 a 95 della legge 21 novembre 2000, n. 342".
 
-##### Art. 94 - Sanzioni e contenzioso
+#### Art. 94 - Sanzioni e contenzioso
 
 1\. Per l'omessa presentazione della dichiarazione si applica la sanzione amministrativa dal 100 al 200 per cento dell'imposta dovuta.
 
@@ -4078,7 +4068,7 @@ AGGIORNAMENTO (22)
 
 Il D.Lgs. 6 maggio 2011, n. 68 ha disposto (con l'art. 8, comma 1) che "Ferma la facolta' per le regioni di sopprimerli, a decorrere dal 1° gennaio 2013 sono trasformati in tributi propri regionali la tassa per l'abilitazione all'esercizio professionale, l'imposta regionale sulle concessioni statali dei beni del demanio marittimo, l'imposta regionale sulle concessioni statali per l'occupazione e l'uso dei beni del patrimonio indisponibile, la tassa per l'occupazione di spazi ed aree pubbliche regionali, le tasse sulle concessioni regionali, l'imposta sulle emissioni sonore degli aeromobili, di cui all'articolo 190 del Regio Decreto 31 agosto 1933, n. 1592, all'articolo 121 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, agli articoli 1, 5 e 6 del decreto-legge 5 ottobre 1993, n. 400, convertito, con modificazioni, dalla legge 4 dicembre 1993, n. 494, all'articolo 2 della legge 16 maggio 1970, n. 281, all'articolo 5 della citata legge n. 281 del 1970, all'articolo 3 della citata legge n. 281 del 1970, agli articoli da 90 a 95 della legge 21 novembre 2000, n. 342".
 
-##### Art. 95 - Disposizioni transitorie e finali
+#### Art. 95 - Disposizioni transitorie e finali
 
 1\. A decorrere dal 1° gennaio 2001 sono soppresse l'imposta erariale sugli aeromobili di cui all'articolo 10 del decreto-legge 27 aprile 1990, n. 90, convertito, con modificazioni, dalla legge 26 giugno 1990, n. 165, e l'imposta erariale regionale sulle emissioni sonore degli aeromobili di cui all'articolo 18 della legge 27 dicembre 1997, n. 449.
 
@@ -4096,7 +4086,7 @@ Il D.Lgs. 6 maggio 2011, n. 68 ha disposto (con l'art. 8, comma 1) che "Ferma la
 
 ## Capo V - NORME FINALI
 
-##### Art. 96
+#### Art. 96
 
 Disposizioni in materia di volontariato e di canone radio per attivita' antincendio e di protezione civile
 
@@ -4110,7 +4100,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 3 luglio 2017, n. 117 ha disposto (con l'art. 102, comma 3) che "Le disposizioni di cui all'articolo 12, comma 2, della legge 11 agosto 1991, n. 266, all'articolo 13 della legge 7 dicembre 2000, n. 383, e all'articolo 96, comma 1, della legge 21 novembre 2000, n. 342, sono abrogate a decorrere dalla data di efficacia del decreto del Ministro dell'economia e delle finanze di cui all'articolo 103, comma 2, finalizzato a dare attuazione a quanto previsto dall'articolo 73, comma 1".
 
-##### Art. 97 - Proroga di termini per la concessione di agevolazioni alle regioni Umbria e Marche colpite da eventi sismici
+#### Art. 97 - Proroga di termini per la concessione di agevolazioni alle regioni Umbria e Marche colpite da eventi sismici
 
 1\. I termini previsti dal decreto del Ministro dell'interno 28 settembre 1998, n. 499, gia' prorogati, in attuazione del disposto di cui all'articolo 3, comma 1, del decreto-legge 13 maggio 1999, n. 132, convertito, con modificazioni, dalla legge 13 luglio 1999, n. 226, con l'articolo 5, comma 2, dell'ordinanza del Ministro dell'interno delegato per il coordinamento della protezione civile n. 2991 del 31 maggio 1999, pubblicata nella Gazzetta Ufficiale n. 129 del 4 giugno 1999, sono prorogati di ulteriori dodici mesi.
 
@@ -4132,7 +4122,7 @@ Il D.Lgs. 3 luglio 2017, n. 117 ha disposto (con l'art. 102, comma 3) che "Le di
 
 > Il comma 2, dell'art. 5 del medesimo decreto del Presidente della Repubblica n. 499/1998 e' soppresso".
 
-##### Art. 98 - Rilevanza fiscale del bilancio dell'Ufficio italiano dei cambi
+#### Art. 98 - Rilevanza fiscale del bilancio dell'Ufficio italiano dei cambi
 
 1\. All'articolo 4, comma 1, del decreto legislativo 26 agosto 1998, n. 319, recante il riordino dell'Ufficio italiano dei cambi, dopo il primo periodo e' inserito il seguente: "Il bilancio compilato in conformita' dell'articolo 8, comma 1, del decreto legislativo 10 marzo 1998, n. 43, rileva anche agli effetti tributari".
 
@@ -4148,7 +4138,7 @@ Il D.Lgs. 3 luglio 2017, n. 117 ha disposto (con l'art. 102, comma 3) che "Le di
 
 > 3\. Alla fine di ogni esercizio gli utili netti sono assegnati alla Banca. Le eventuali perdite sono a carico della Banca stessa".
 
-##### Art. 99 - Proroga di termini
+#### Art. 99 - Proroga di termini
 
 1\. Nella legge 13 maggio 1999, n. 133, sono apportate le seguenti modificazioni:
 
@@ -4340,7 +4330,7 @@ d) all'articolo 35, comma 1, le parole: "dodici mesi dalla data di entrata in vi
 
 > 20\. E' soppressa l'indennita' di lire 2 per ogni chilometro di percorso per i viaggi compiuti gratuitamente con mezzi di trasporto forniti dall'amministrazione, ai sensi del terzo comma dell'art. 14 della legge 18 dicembre 1973, n. 836.".
 
-##### Art. 100
+#### Art. 100
 
 Riforma del sistema delle tasse e diritti marittimi
 
@@ -4362,7 +4352,7 @@ AGGIORNAMENTO (8)
 
 La L. 1 agosto 2002, n. 166 ha disposto (con l'art. 36, comma 1) che "Il termine di adozione del regolamento di cui all'articolo 100 della legge 21 novembre 2000, n. 342, e' prorogato al 30 giugno 2002".
 
-##### Art. 101 - Semplificazione degli adempimenti contabili
+#### Art. 101 - Semplificazione degli adempimenti contabili
 
 1\. Qualora intervengano, dopo l'entrata in vigore dei regolamenti previsti dall'articolo 3, comma 136, della legge 23 dicembre 1996, n. 662, nuove disposizioni legislative che regolino le materie ivi disciplinate, a meno che la legge sopravvenuta non lo escluda espressamente, possono essere emanati comunque ulteriori regolamenti ai sensi e per gli effetti del predetto articolo 3, comma 136, della citata legge n. 662 del 1996.
 
@@ -4378,7 +4368,7 @@ La L. 1 agosto 2002, n. 166 ha disposto (con l'art. 36, comma 1) che "Il termine
 
 > 137.-217. (Omissis).".
 
-##### Art. 102 - Copertura finanziaria
+#### Art. 102 - Copertura finanziaria
 
 1\. Ai maggiori oneri recati dalla presente legge, valutati in complessive lire 42,6 miliardi per l'anno 2000, lire 2.508,85 miliardi per l'anno 2001 e lire 1.471,4 miliardi a decorrere dall'anno 2002 si provvede, quanto a lire 42,6 miliardi per l'anno 2000, 82,6 miliardi per l'anno 2001 e 175,4 miliardi per l'anno 2002, mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2000-2002, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno finanziario 2000, parzialmente utilizzando, quanto a lire 26,6 miliardi per l'anno 2000, 72,6 miliardi per l'anno 2001 e 71,6 miliardi per l'anno 2002, l'accantonamento relativo al Ministero del tesoro, del bilancio e della programmazione economica, quanto a lire 16 miliardi per l'anno 2000, 10 miliardi per l'anno 2001 e 103,8 miliardi per l'anno 2002, l'accantonamento relativo al Ministero delle finanze e per la restante quota mediante utilizzo di parte delle maggiori entrate recate dalla presente legge.
 
@@ -4410,7 +4400,7 @@ Visto, il Guardasigilli: Fassino
 
 ## Capo V - NORME FINALI
 
-##### Allegato 1
+#### Allegato 1
 
 Allegato 1
 

@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## CAPO I. - DISPOSIZIONI GENERALI SUI PROCEDIMENTI
+## CAPO I. - DISPOSIZIONI GENERALI SUI PROCEDIMENTI PER L'ADEMPIMENTO DEGLI OBBLIGHI COMUNITARI
 
-### PER L'ADEMPIMENTO DEGLI OBBLIGHI COMUNITARI
-
-#### Art. 1
+### Art. 1
 
 Delega al Governo per l'attuazione di direttive comunitarie
 
@@ -62,7 +60,7 @@ La L. 3 febbraio 2003, n. 14 ha disposto (con l'art. 29, comma 1) che "Ai fini d
 
 Ha inoltre disposto (con l'art. 30, comma 1) "Il termine per il recepimento della direttiva 2001/65/CE del Parlamento europeo e del Consiglio, del 27 settembre 2001, che modifica le direttive 78/660/ CEE, 83/349/CEE e 86/635/CEE per quanto riguarda le regole di valutazione per i conti annuali e consolidati di taluni tipi di societa' nonche' di banche e di altre istituzioni finanziarie, previsto all'articolo 1, comma 1, della legge 1 marzo 2002, n. 39, e' prorogato di sei mesi".
 
-#### Art. 2 - Principi e criteri direttivi generali della delega legislativa
+### Art. 2 - Principi e criteri direttivi generali della delega legislativa
 
 1\. Salvi gli specifici principi e criteri direttivi stabiliti negli articoli seguenti ed in aggiunta a quelli contenuti nelle direttive da attuare, i decreti legislativi di cui all'articolo 1 saranno informati ai seguenti principi e criteri direttivi generali:
 
@@ -104,7 +102,7 @@ g) quando si verifichino sovrapposizioni di competenze fra amministrazioni diver
 
 > "2. I disegni di legge, gli schemi di decreto legislativo e gli emendamenti di iniziativa governativa che comportino conseguenze finanziarie devono essere corredati da una relazione tecnica, predisposta dalle amministrazioni competenti e verificata dal Ministero del tesoro, del bilancio e della programmazione economica sulla quantificazione delle entrate e degli oneri recati da ciascuna disposizione, nonche' delle relative coperture, con la specificazione, per la spesa corrente e per le minori entrate, degli oneri annuali fino alla completa attuazione delle norme e, per le spese in conto capitale, della modulazione relativa agli anni compresi nel bilancio pluriennale e dell'onere complessivo in relazione agli obiettivi fisici previsti. Nella relazione sono indicati i dati e i metodi utilizzati per la quantificazione, le loro fonti e ogni elemento utile per la verifica tecnica in sede parlamentare secondo le norme da adottare con i regolamenti parlamentari".
 
-#### Art. 3 - Delega al Governo per la disciplina sanzionatoria di violazioni di disposizioni comunitarie
+### Art. 3 - Delega al Governo per la disciplina sanzionatoria di violazioni di disposizioni comunitarie
 
 1\. Al fine di assicurare la piena integrazione delle norme comunitarie nell'ordinamento nazionale, il Governo, fatte salve le norme penali vigenti, e' delegato ad emanare, entro due anni dalla data di entrata in vigore della presente legge, disposizioni recanti sanzioni penali o amministrative per le violazioni di direttive comunitarie attuate in via regolamentare o amministrativa ai sensi della legge 22 febbraio 1994, n. 146, della legge 24 aprile 1998, n. 128, e della presente legge, e di regolamenti comunitari vigenti alla data di entrata in vigore della presente legge, per i quali non siano gia' previste sanzioni penali o amministrative.
 
@@ -120,11 +118,11 @@ g) quando si verifichino sovrapposizioni di competenze fra amministrazioni diver
 
 > \- Per quanto riguarda la legge 23 agosto 1988, n. 400 vedi le note all'art. 1.
 
-#### Art. 4 - Oneri relativi a prestazioni e controlli
+### Art. 4 - Oneri relativi a prestazioni e controlli
 
 1\. Nell'attuazione delle normative comunitarie, gli oneri di prestazioni e controlli da eseguire da parte di uffici pubblici in applicazione delle normative medesime sono posti a carico dei soggetti interessati in relazione al costo effettivo del servizio, ove cio' non risulti in contrasto con la disciplina comunitaria. Le tariffe di cui al precedente periodo sono predeterminate e pubbliche.
 
-#### Art. 5 - Riordinamento normativo nelle materie interessate dalle direttive comunitarie
+### Art. 5 - Riordinamento normativo nelle materie interessate dalle direttive comunitarie
 
 1\. Il Governo e' delegato ad emanare, con le modalita' di cui ai commi 2 e 3 dell'articolo 1, entro diciotto mesi dalla data di entrata in vigore della presente legge, testi unici delle disposizioni dettate in attuazione delle deleghe conferite per il recepimento di direttive comunitarie, al fine di coordinare le medesime con le norme legislative vigenti nelle stesse materie, apportando le sole integrazioni e modificazioni necessarie a garantire la semplificazione e la coerenza logica, sistematica e lessicale della normativa.
 
@@ -132,7 +130,7 @@ g) quando si verifichino sovrapposizioni di competenze fra amministrazioni diver
 
 3\. Il presente articolo non si applica alla materia della sicurezza e igiene del lavoro.
 
-#### Art. 6 - Modifiche alla legge 9 marzo 1989, n. 86
+### Art. 6 - Modifiche alla legge 9 marzo 1989, n. 86
 
 1\. Alla legge 9 marzo 1989, n. 86, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -158,11 +156,9 @@ b) all'articolo 3, comma 1, dopo la lettera a) e' inserita la seguente:
 
 > c) autorizzazione al Governo ad attuare in via regolamentare le direttive o le raccomandazioni (CECA) a norma dell'art. 4".
 
-## CAPO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO, CRITERI SPECIFICI DI DELEGA
+## CAPO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO, CRITERI SPECIFICI DI DELEGA LEGISLATIVA
 
-### LEGISLATIVA
-
-#### Art. 7 - Modifica all'articolo 8 della legge 11 ottobre 1986, n. 713, in materia di prodotti cosmetici
+### Art. 7 - Modifica all'articolo 8 della legge 11 ottobre 1986, n. 713, in materia di prodotti cosmetici
 
 1\. All'articolo 8 della legge 11 ottobre 1986, n. 713, e successive modificazioni, il comma 2 e' sostituito dal seguente:
 
@@ -228,7 +224,7 @@ Gli ingredienti in concentrazione inferiore all'1 per cento possono essere menzi
 
 > 15\. Chiunque contravviene alle disposizioni del presente articolo soggiace alla sanzione amministrativa da lire cinquecentomila a lire quattromilioni".
 
-#### Art. 8 - Modifica all'articolo 18 del decreto legislativo 4 agosto 1999, n. 339, in materia di acque minerali naturali e acque di sorgente
+### Art. 8 - Modifica all'articolo 18 del decreto legislativo 4 agosto 1999, n. 339, in materia di acque minerali naturali e acque di sorgente
 
 1\. All'articolo 18 del decreto legislativo 4 agosto 1999, n. 339, dopo il comma 1 e' aggiunto il seguente:
 
@@ -244,7 +240,7 @@ Gli ingredienti in concentrazione inferiore all'1 per cento possono essere menzi
 
 > \- La Direttiva del Parlamento europeo e del Consiglio che modifica la direttiva 80/777/CEE del Consiglio in materia di ravvicinamento delle legislazioni degli Stati membri sull'utilizzazione e la commercializzazione delle acque minerali naturali e' pubblicata nella G.U.C.E. 23 novembre 1996, n. L 299.
 
-#### Art. 9 - Modifica all'articolo 11 del decreto legislativo 25 gennaio 1992, n. 105, in materia di utilizzazione e di commercializzazione delle acque minerali naturali
+### Art. 9 - Modifica all'articolo 11 del decreto legislativo 25 gennaio 1992, n. 105, in materia di utilizzazione e di commercializzazione delle acque minerali naturali
 
 1\. All'articolo 11, comma 1, del decreto legislativo 25 gennaio 1992, n. 105, e successive modificazioni, la lettera c) e' sostituita dalla seguente:
 
@@ -286,7 +282,7 @@ Gli ingredienti in concentrazione inferiore all'1 per cento possono essere menzi
 
 > i) informazioni circa gli eventuali trattamenti di cui all'art. 7, comma 1, lettere c) e d)".
 
-#### Art. 10 - Modifiche al decreto legislativo 9 novembre 1998, n. 427, in materia di tutela dell'acquirente di diritto di godimento a tempo parziale di beni immobili
+### Art. 10 - Modifiche al decreto legislativo 9 novembre 1998, n. 427, in materia di tutela dell'acquirente di diritto di godimento a tempo parziale di beni immobili
 
 1\. Al decreto legislativo 9 novembre 1998, n. 427, sono apportate le seguenti modificazioni:
 
@@ -308,7 +304,7 @@ b) all'articolo 12, il comma 1 e' sostituito dal seguente:
 
 > 3\. Ai fini dell'accertamento dell'infrazione e dell'applicazione della sanzione si applica l'art. 11, comma 3, del decreto legislativo 15 gennaio 1992, n. 50".
 
-#### Art. 11 - Modifica all'articolo 3 della legge 30 luglio 1998, n. 281, recante disciplina dei diritti dei consumatori e degli utenti
+### Art. 11 - Modifica all'articolo 3 della legge 30 luglio 1998, n. 281, recante disciplina dei diritti dei consumatori e degli utenti
 
 1\. Al fine di completare l'attuazione della direttiva 98/27/CE del Parlamento europeo e del Consiglio, del 19 maggio 1998, relativa a provvedimenti inibitori a tutela degli interessi dei consumatori, all'articolo 3 della legge 30 luglio 1998, n. 281, dopo il comma 5 e' inserito il seguente:
 
@@ -348,7 +344,7 @@ b) all'articolo 12, il comma 1 e' sostituito dal seguente:
 
 > 7\. Fatte salve le norme sulla litispendenza, sulla continenza, sulla connesione e sulla riunione dei procedimenti, le disposizioni di cui al presente articolo non precludono il diritto ad azioni individuali dei consumatori che siano danneggiati dalle medesime violazioni".
 
-#### Art. 12 - Delega al Governo per la disciplina sanzionatoria in materia alimentare
+### Art. 12 - Delega al Governo per la disciplina sanzionatoria in materia alimentare
 
 1\. Il Governo, fatte salve le norme penali vigenti, e' delegato ad emanare, entro un anno dalla data di entrata in vigore della presente legge, disposizioni recanti sanzioni penali o amministrative per le violazioni dei regolamenti di cui al comma 1 dell'articolo 50 della legge 22 febbraio 1994, n. 146, in materia di regolamentazione dei prodotti alimentari.
 
@@ -372,7 +368,7 @@ b) all'articolo 12, il comma 1 e' sostituito dal seguente:
 
 > 4\. In ogni caso, qualora il termine previsto per l'esercizio della delega ecceda i due anni, il Governo e' tenuto a richiedere il parere delle Camere sugli schemi dei decreti delegati. Il parere e' espresso dalle Commissioni permanenti delle due Camere competenti per materia entro sessanta giorni, indicando specificamente le eventuali disposizioni non ritenute corrispondenti alle direttive della legge di delegazione. Il Governo, nei trenta giorni successivi, esaminato il parere, ritrasmette, con le sue osservazioni e con eventuali modificazioni, i testi alle Commissioni per il parere definitivo che deve essere espresso entro trenta giorni".
 
-#### Art. 13 - Modifiche all'articolo 1 del decreto legislativo 14 maggio 2001, n. 223, recante norme sanzionatorie in materia di aiuto comunitario alla produzione di olio di oliva e alla trasformazione delle olive da tavola
+### Art. 13 - Modifiche all'articolo 1 del decreto legislativo 14 maggio 2001, n. 223, recante norme sanzionatorie in materia di aiuto comunitario alla produzione di olio di oliva e alla trasformazione delle olive da tavola
 
 1\. All'articolo 1 del decreto legislativo 14 maggio 2001, n. 223, sono apportate le seguenti modificazioni:
 
@@ -398,7 +394,7 @@ b) al comma 4, le parole: "di cui all'articolo 6, paragrafo 2, della decisione n
 
 > 7\. Le regioni, nei casi previsti dai commi 1, 2, 3, 4 e 5 provvedono, anche ai sensi del decreto del Ministro delle politiche acricole e forestali del 21 giugno 2000, n. 217, alle irrogazioni delle relative sanzioni".
 
-#### Art. 14 - Modifica all'articolo 53 del decreto legislativo 5 febbraio 1997, n. 22, in materia di traffico illecito di rifiuti
+### Art. 14 - Modifica all'articolo 53 del decreto legislativo 5 febbraio 1997, n. 22, in materia di traffico illecito di rifiuti
 
 1\. All'articolo 53 del decreto legislativo 5 febbraio 1997, n. 22, il comma 1 e' sostituito dal seguente:
 
@@ -416,7 +412,7 @@ b) al comma 4, le parole: "di cui all'articolo 6, paragrafo 2, della decisione n
 
 > \- Il regolamento del Consiglio (CEE) del 1 febbraio 1993 n. 259 reca: "relativo alla sorveglianza e al controllo delle spedizioni di rifiuti all'interno della Comunita' europea, nonche' in entrata e in uscita dal suo territorio" e' pubblicato nella Gazzetta Ufficiale delle Comunita' europee 6 febbraio 1993, n. L 30.
 
-#### Art. 15 - Modifiche all'articolo 9-quinquies del decreto-legge 9 settembre 1988, n. 397, in materia di raccolta e riciclaggio di batterie esauste
+### Art. 15 - Modifiche all'articolo 9-quinquies del decreto-legge 9 settembre 1988, n. 397, in materia di raccolta e riciclaggio di batterie esauste
 
 1\. All'articolo 9-quinquies del decreto-legge 9 settembre 1988, n. 397, convertito, con modificazioni, dalla legge 9 novembre 1988, n. 475, sono apportate le seguenti modificazioni:
 
@@ -462,7 +458,7 @@ b) dopo il comma 6, e' inserito il seguente:
 
 > 10\. Chiunque, in ragione della propria attivita' ed in attesa del conferimento al consorzio, detenga batterie esauste, e' obbligato a stoccare le batterie stesse in apposito contenitore conforme alle disposizioni vigenti in materia di smaltimento dei rifiuti".
 
-#### Art. 16 - Modifica all'articolo 8 della legge 9 febbraio 1982, n. 31, recante libera prestazione di servizi da parte degli avvocati cittadini degli Stati membri dell'Unione europea
+### Art. 16 - Modifica all'articolo 8 della legge 9 febbraio 1982, n. 31, recante libera prestazione di servizi da parte degli avvocati cittadini degli Stati membri dell'Unione europea
 
 1\. All'articolo 8 della legge 9 febbraio 1982, n. 31, le parole: "otto anni" sono sostituite dalle seguenti: "dodici anni".
 
@@ -472,7 +468,7 @@ b) dopo il comma 6, e' inserito il seguente:
 
 > "Art. 8 (Patrocinio davanti alle giurisdizioni superiori). - Gli avvocati indicati all'art. 1 sono ammessi al patrocinio davanti alla Corte di cassazione ed alle altre giurisdizioni di cui all'art. 4, secondo comma, del regio decreto - legge 27 novembre 1993, n. 1578 convertito, con modificazioni, nella legge 22 gennaio 1934, n. 36, indipendentemente dall'iscrizione nell'albo speciale di cui all'art. 33 del predetto regio decreto - legge n. 1578, purche' dimostrino di aver esercitato la professione per almeno dodici anni, ovvero di essere ammessi ad esercitare la professione nello Stato membro di provenienza dinanzi ad autorita' giurisdizionali corrispondenti".
 
-#### Art. 17 - Modifica dell'articolo 12 della legge 8 marzo 1991, n. 81, recante legge-quadro per la professione di maestro di sci e ulteriori disposizioni in materia di ordinamento della professione di guida alpina
+### Art. 17 - Modifica dell'articolo 12 della legge 8 marzo 1991, n. 81, recante legge-quadro per la professione di maestro di sci e ulteriori disposizioni in materia di ordinamento della professione di guida alpina
 
 1\. L'articolo 12 della legge 8 marzo 1991, n. 81, e' sostituito dal seguente:
 
@@ -488,7 +484,7 @@ b) dopo il comma 6, e' inserito il seguente:
 
 > \- La legge 8 marzo 1991, n. 81 reca: "Legge-quadro per la professione di maestro di sci e ulteriori disposizioni in materia di ordinamento della professione di guida alpina".
 
-#### Art. 18 - Modifica all'articolo 27 del decreto legislativo 17 agosto 1999, n. 368, di attuazione della direttiva 93/16/CEE in materia di libera circolazione dei medici e di reciproco riconoscimento dei loro diplomi, certificati e altri titoli
+### Art. 18 - Modifica all'articolo 27 del decreto legislativo 17 agosto 1999, n. 368, di attuazione della direttiva 93/16/CEE in materia di libera circolazione dei medici e di reciproco riconoscimento dei loro diplomi, certificati e altri titoli
 
 1\. All'articolo 27 del decreto legislativo 17 agosto 1999, n. 368, il comma 7 e' abrogato.
 
@@ -512,7 +508,7 @@ b) dopo il comma 6, e' inserito il seguente:
 
 > 7\. (abrogato)".
 
-#### Art. 19 - Delega al Governo per la modifica del decreto legislativo 25 novembre 1996, n. 624, recante attuazione di direttive comunitarie in materia di sicurezza e salute dei lavoratori nelle industrie estrattive
+### Art. 19 - Delega al Governo per la modifica del decreto legislativo 25 novembre 1996, n. 624, recante attuazione di direttive comunitarie in materia di sicurezza e salute dei lavoratori nelle industrie estrattive
 
 1\. Il Governo e' delegato ad emanare, entro un anno dalla data di entrata in vigore della presente legge, disposizioni integrative e correttive del decreto legislativo 25 novembre 1996, n. 624, nel rispetto dei principi e criteri direttivi e con l'osservanza delle procedure indicate dagli articoli 1 e 34 della legge 22 febbraio 1994, n. 146, e dall'articolo 6 della legge 6 febbraio 1996, n. 52, prevedendo che, per talune tipologie di attivita' estrattive, con decreto del Ministro delle attivita' produttive, di concerto, ove d'interesse, con il Ministro dell'istruzione, dell'universita' e della ricerca, possano essere individuati i requisiti professionali per la nomina di direttore responsabile, anche diversi da quelli di cui all'articolo 20 del citato decreto legislativo n. 624 del 1996.
 
@@ -574,7 +570,7 @@ b) dopo il comma 6, e' inserito il seguente:
 
 > 12-18 (omissis)".
 
-#### Art. 20 - Modifiche all'articolo 36 del decreto legislativo 19 settembre 1994, n. 626, di attuazione di direttive comunitarie riguardanti il miglioramento della sicurezza e della salute dei lavoratori
+### Art. 20 - Modifiche all'articolo 36 del decreto legislativo 19 settembre 1994, n. 626, di attuazione di direttive comunitarie riguardanti il miglioramento della sicurezza e della salute dei lavoratori
 
 1\. Il termine di cui al comma 8-bis dell'articolo 36 del decreto legislativo 19 settembre 1994, n. 626, introdotto dall'articolo 3, comma 3, del decreto legislativo 4 agosto 1999, n. 359, di recepimento della direttiva 95/63/CE del Consiglio, del 5 dicembre 1995, concernente le attrezzature di lavoro, e' differito al 5 dicembre 2002 limitatamente alle attrezzature individuate ai punti 1.3 e 1.4 dell'allegato XV.
 
@@ -584,7 +580,7 @@ b) dopo il comma 6, e' inserito il seguente:
 
 > "8-bis. Il datore di lavoro adegua ai requisiti di cui all'allegato XV, entro il 30 giugno 2001, le attrezzature di lavoro indicate nel predetto allegato, gia' messe a disposizione dei lavoratori alla data del 5 dicembre 1998 e non soggette a norme nazionali di attuazione di direttive comunitarie concernenti disposizioni di carattere costruttivo, allorche' esiste per l'attrezzatura di lavoro considerata un rischio corrispondente".
 
-#### Art. 21 - Delega al Governo per l'esecuzione della sentenza della Corte di giustizia delle Comunita' europee del 15 novembre 2001, nella causa C-49/00 e parziale attuazione
+### Art. 21 - Delega al Governo per l'esecuzione della sentenza della Corte di giustizia delle Comunita' europee del 15 novembre 2001, nella causa C-49/00 e parziale attuazione
 
 1\. Il Governo e' delegato ad emanare, nel termine di cui al comma 1 dell'articolo 1 della presente legge, un decreto legislativo recante le modifiche al decreto legislativo 19 settembre 1994, n. 626, e successive modificazioni, necessarie ai fini dell'adeguamento ai principi e criteri affermati dalla sentenza della Corte di giustizia delle Comunita' europee del 15 novembre 2001, nella causa C-49/00. Il decreto legislativo e' emanato con le modalita' di cui ai commi 2 e 3 dell'articolo 1, e nel rispetto dei principi e dei criteri stabiliti nell'articolo 2.
 
@@ -602,7 +598,7 @@ b) dopo il comma 6, e' inserito il seguente:
 
 > "6. Salvo quanto previsto dal comma 5, se le capacita' dei dipendenti all'interno dell'azienda ovvero dell'unita' produttiva sono insufficienti, il datore di lavoro deve far ricorso a persone o servizi esterni all'azienda, previa consultazione del rappresentate per la sicurezza".
 
-#### Art. 22 - Delega al Governo per l'attuazione delle direttive 93/104/CE in materia di orario di lavoro, 2000/34/CE di modifica della direttiva 93/104/CE, 1999/63/CE relativa all'accordo sull'organizzazione dell'orario di lavoro della gente di mare, 2000/79/CE relativa all'attuazione dell'accordo sull'organizzazione dell'orario di lavoro del personale di volo nell'aviazione civile
+### Art. 22 - Delega al Governo per l'attuazione delle direttive 93/104/CE in materia di orario di lavoro, 2000/34/CE di modifica della direttiva 93/104/CE, 1999/63/CE relativa all'accordo sull'organizzazione dell'orario di lavoro della gente di mare, 2000/79/CE relativa all'attuazione dell'accordo sull'organizzazione dell'orario di lavoro del personale di volo nell'aviazione civile
 
 1\. Il Governo e' delegato ad emanare, su proposta del Ministro per le politiche comunitarie e del Ministro del lavoro e delle politiche sociali, entro un anno dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi recanti le norme per l'attuazione organica delle direttive 93/104/CE del Consiglio, del 23 novembre 1993, in materia di orario di lavoro, 2000/34/CE del Parlamento europeo e del Consiglio, del 22 giugno 2000, di modifica della direttiva 93/104/CE, 1999/63/CE del Consiglio, del 21 giugno 1999, relativa all'accordo sull'organizzazione dell'orario di lavoro della gente di mare, 2000/79/CE del Consiglio, del 27 novembre 2000, relativa all'attuazione dell'accordo sull'organizzazione dell'orario di lavoro del personale di volo nell'aviazione civile.
 
@@ -628,7 +624,7 @@ b) riconoscimento degli effetti dei contratti collettivi vigenti alla data di en
 
 > \- Il decreto legislativo 26 novembre 1999, n. 532 reca "Disposizioni in materia di lavoro notturno, a norma dell'art. 17, comma 2, della legge 5 febbraio 1999, n. 25 e' pubblicato nella Gazzetta Ufficiale 21 gennaio 2000, n. 16.
 
-#### Art. 23 - Delega al Governo per la modifica del decreto legislativo 27 gennaio 1992, n. 119, recante attuazione di direttive comunitarie relative ai medicinali veterinari
+### Art. 23 - Delega al Governo per la modifica del decreto legislativo 27 gennaio 1992, n. 119, recante attuazione di direttive comunitarie relative ai medicinali veterinari
 
 1\. Il Governo e' delegato ad emanare un decreto legislativo volto a riordinare la disciplina relativa ai medicinali veterinari recata dal decreto legislativo 27 gennaio 1992, n. 119, apportandovi ulteriori modificazioni e integrazioni, nel rispetto dei principi e delle disposizioni comunitarie in materia, nonche' dei seguenti principi e criteri direttivi:
 
@@ -652,7 +648,7 @@ c) delegificare le disposizioni relative alle procedure e ai procedimenti ammini
 
 > c) se il medicinale di cui alla lettera b) non esiste e comunque, entro i limiti imposti dalla normativa vigente, un medicinale veterinario preparato estemporaneamente da un farmacista conformemente alle indicazioni contenute nella prescrizione veterinaria".
 
-#### Art. 24 - Modifiche all'articolo 1 della legge 23 giugno 2000, n. 178, recante istituzione del Centro nazionale di informazione e documentazione europea
+### Art. 24 - Modifiche all'articolo 1 della legge 23 giugno 2000, n. 178, recante istituzione del Centro nazionale di informazione e documentazione europea
 
 1\. All'articolo 1 della legge 23 giugno 2000, n. 178, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -692,7 +688,7 @@ b) al comma 6, le parole: "2.000 milioni di lire a decorrere dal 2000" sono sost
 
 > 7\. Il Ministero del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorenti variazioni di bilancio.".
 
-#### Art. 25 - Modifica all'articolo 1 del decreto-legge 31 maggio 1994, n. 332, in materia di procedure di dismissione di partecipazioni dello Stato e degli enti pubblici in societa' per azioni
+### Art. 25 - Modifica all'articolo 1 del decreto-legge 31 maggio 1994, n. 332, in materia di procedure di dismissione di partecipazioni dello Stato e degli enti pubblici in societa' per azioni
 
 1\. All'articolo 1, comma 5, del decreto-legge 31 maggio 1994, n. 332, convertito, con modificazioni, dalla legge 30 luglio 1994, n. 474, le parole: "iscritti da almeno cinque anni negli albi previsti dalla legge" sono soppresse.
 
@@ -702,7 +698,7 @@ b) al comma 6, le parole: "2.000 milioni di lire a decorrere dal 2000" sono sost
 
 > "5. Il Ministro del tesoro, di concerto con il Ministro del bilancio e della programmazione economica e con il Ministro dell'industria, del commercio e dell'artigianato, per quanto concerne le partecipazioni del Ministero del tesoro, e gli altri enti pubblici per le loro partecipazioni, ai fini della predisposizione ed esecuzione delle operazioni di alienazione delle azioni delle societa' di cui al comma 1 e loro controllate e delle operazioni di conferimento, possono affidare, salvo quanto previsto dalla direttiva 92/50/CEE del Consiglio, del 18 giugno 1992, a societa' di provata esperienza e capacita' operativa nazionali ed estere, nonche' a singoli professionisti incarichi di studio, consulenza, valutazione, assistenza operativa, amministrazione di titoli di proprieta' dello Stato e direzione delle operazioni di collocamento con facolta' di compiere per conto dello Stato operazioni strumentali e complementari, fatte salve le incompatibilita' derivanti da conflitti d'interesse. Gli incarichi di valutazione non possono essere affidati a societa' di revisione che abbiano svolto incarichi di consulenza in favore delle societa' di cui al comma 1 nei due anni precedenti la data di entrata in vigore del presente decreto. I compensi e le modalita' di pagamento degli incarichi di cui al presente comma devono essere previamente stabiliti dalle parti".
 
-#### Art. 26 - Attuazione della direttiva 2000/35/CE, in materia di lotta contro i ritardi di pagamento nelle transazioni commerciali
+### Art. 26 - Attuazione della direttiva 2000/35/CE, in materia di lotta contro i ritardi di pagamento nelle transazioni commerciali
 
 1\. Al fine di contrastare i ritardi di pagamento che costituiscono un ostacolo al buon funzionamento del mercato interno e di garantire l'applicazione di norme uniformi sia alle operazioni interne che a quelle transfrontaliere, il Governo e' delegato ad emanare, entro il termine di cui all'articolo 1, comma 1, uno o piu' decreti legislativi per adeguare la normativa vigente in materia di ritardi di pagamento ai principi e alle prescrizioni della direttiva 2000/35/CE del Parlamento europeo e del Consiglio, del 29 giugno 2000, relativa alla lotta contro i ritardi di pagamento nelle transazioni commerciali.
 
@@ -756,7 +752,7 @@ g) prevedere che le associazioni di cui alla lettera f) siano legittimate ad esp
 
 > "3. In caso di mancato rispetto del termine di pagamento il committente deve al subfornitore, senza bisogno di costituzione in mora, interessi corrispondenti al tasso ufficiale di sconto maggiorato di cinque punti percentuali, salva la pattuizione tra le parti di interessi moratori in misura superiore e salva la prova del danno ulteriore. Ove il ritardo nel pagamento ecceda i trenta giorni dal termine convenuto, il committente incorre, inoltre, in una penale pari al 5 per cento dell'importo in relazione al quale non ha rispettato i termini.".
 
-#### Art. 27 - Attuazione della direttiva 2000/13/CE, relativa al ravvicinamento delle legislazioni degli Stati membri concernenti l'etichettatura e la presentazione dei prodotti alimentari, nonche' la relativa pubblicita
+### Art. 27 - Attuazione della direttiva 2000/13/CE, relativa al ravvicinamento delle legislazioni degli Stati membri concernenti l'etichettatura e la presentazione dei prodotti alimentari, nonche' la relativa pubblicita
 
 1\. L'attuazione della direttiva 2000/13/CE del Parlamento europeo e del Consiglio, del 20 marzo 2000, relativa al ravvicinamento delle legislazioni degli Stati membri concernenti l'etichettatura e la presentazione dei prodotti alimentari, nonche' la relativa pubblicita', sara' informata al principio e criterio direttivo della introduzione, accanto al sistema di etichettatura obbligatorio, di un sistema di etichettatura volontario aggiuntivo, certificato da organismi di controllo riconosciuti dalla Comunita' europea, che consenta di evidenziare le caratteristiche qualitative e di tipicita' del prodotto commercializzato.
 
@@ -764,7 +760,7 @@ g) prevedere che le associazioni di cui alla lettera f) siano legittimate ad esp
 
 > \- La direttiva del 20 marzo 2000, n. 2000/13/CE reca "Direttiva del Parlamento europeo e del consiglio relativa al ravvicinamento delle legislazioni degli Stati membri concernenti l'etichettatura e la presentazione dei prodotti alimentari, nonche' la relativa pubblicita'" e' pubblicata nella G.U.C.E. 6 maggio 2000, n. L 109.
 
-#### Art. 28 - Attuazione della direttiva 2000/36/CE, relativa ai prodotti di cacao e di cioccolato destinati all'alimentazione umana
+### Art. 28 - Attuazione della direttiva 2000/36/CE, relativa ai prodotti di cacao e di cioccolato destinati all'alimentazione umana
 
 1\. L'attuazione della direttiva 2000/36/CE del Parlamento europeo e del Consiglio, del 23 giugno 2000, relativa ai prodotti di cacao e di cioccolato destinati all'alimentazione umana, sara' informata ai seguenti principi e criteri direttivi:
 
@@ -776,7 +772,7 @@ b) individuare meccanismi di certificazione di qualita' per i prodotti tipici ch
 
 > \- La direttiva del 23 giugno 2000, n. 2000/36/CE reca "Direttiva del Parlamento europeo e del consiglio relativa ai prodotti di cacao e di cioccolato destinati all'alimentazione umana" e' pubblicata nella G.U.C.E. 3 agosto 2000, n. L 197.
 
-#### Art. 29 - Attuazione della direttiva 2000/43/CE, che attua il principio della parita' di trattamento fra le persone indipendentemente dalla razza e dall'origine etnica
+### Art. 29 - Attuazione della direttiva 2000/43/CE, che attua il principio della parita' di trattamento fra le persone indipendentemente dalla razza e dall'origine etnica
 
 1\. Il Governo e' delegato ad emanare, entro il termine e con le modalita' di cui all'articolo 1, commi 1 e 2, uno o piu' decreti legislativi al fine di dare organica attuazione alla direttiva 2000/43/CE del Consiglio, del 29 giugno 2000, e di coordinare le disposizioni vigenti in materia di garanzie contro le discriminazioni per cause direttamente o indirettamente connesse con la razza o l'origine etnica, anche attraverso la modifica e l'integrazione delle norme in materia di garanzie contro le discriminazioni, ivi compresi gli articoli 43 e 44 del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286, nel rispetto dei seguenti principi e criteri direttivi:
 
@@ -896,7 +892,7 @@ l) prevedere che l'ufficio di cui alla lettera i) possa avvalersi anche di perso
 
 > Quando i decreti delegati di cui alla presente legge prevedano misure di intervento finanziario non contemplate da leggi vigenti e non rientranti nell'attivita' ordinaria delle amministrazioni statali o regionali competenti, si provvede a carico del fondo di rotazione di cui all'art. 5".
 
-#### Art. 30 - Attuazione della direttiva 2001/29/CE, sull'armonizzazione di taluni aspetti del diritto d'autore e dei diritti connessi nella societa' dell'informazione
+### Art. 30 - Attuazione della direttiva 2001/29/CE, sull'armonizzazione di taluni aspetti del diritto d'autore e dei diritti connessi nella societa' dell'informazione
 
 1\. Il Governo e' delegato ad emanare, entro il termine e con le modalita' di cui all'articolo 1, commi 1 e 2, un decreto legislativo al fine di dare organica attuazione alla direttiva 2001/29/CE del Parlamento europeo e del Consiglio, del 22 maggio 2001, e di adeguare e coordinare le disposizioni vigenti dell'ordinamento interno in materia di diritto d'autore e di diritti connessi, ivi compresa la legge 22 aprile 1941, n. 633, e successive modificazioni, alle norme derivanti dagli obblighi internazionali in materia, nel rispetto dei principi e criteri direttivi generali di cui all'articolo 2, oltre che dei seguenti:
 
@@ -920,7 +916,7 @@ g) prevedere un'adeguata protezione giuridica a tutela delle informazioni sul re
 
 > \- La legge 22 aprile 1941, n. 633 reca: "Protezione del diritto d'autore e di altri diritti connessi al suo esercizio".
 
-#### Art. 31 - Attuazione della direttiva 2000/31/CE, relativa a taluni aspetti giuridici dei servizi della societa' dell'informazione, in particolare il commercio elettronico, nel mercato interno
+### Art. 31 - Attuazione della direttiva 2000/31/CE, relativa a taluni aspetti giuridici dei servizi della societa' dell'informazione, in particolare il commercio elettronico, nel mercato interno
 
 1\. Il Governo e' delegato ad emanare, entro il termine e con le modalita' di cui all'articolo 1, commi 1 e 2, un decreto legislativo per dare organica attuazione alla direttiva 2000/31/CE del Parlamento europeo e del Consiglio, dell'8 giugno 2000, relativa a taluni aspetti giuridici dei servizi della societa' dell'informazione, in particolare il commercio elettronico, nel mercato interno, nel rispetto dei principi e criteri direttivi generali di cui all'articolo 2, nonche' dei seguenti principi e criteri direttivi:
 
@@ -976,7 +972,7 @@ m) prevedere che, in caso di dissenso fra prestatore e destinatario del servizio
 
 > \- La legge 7 marzo 2001, n. 62 reca: "Nuove norme sull'editoria e sui prodotti editoriali e modifiche alla legge 5 agosto 1981, n. 416".
 
-#### Art. 32 - Attuazione della direttiva 2000/59/CE, relativa agli impianti portuali di raccolta per i rifiuti prodotti dalle navi e i residui del carico
+### Art. 32 - Attuazione della direttiva 2000/59/CE, relativa agli impianti portuali di raccolta per i rifiuti prodotti dalle navi e i residui del carico
 
 1\. Il Governo e' delegato ad emanare, senza nuovi o maggiori oneri per il bilancio dello Stato, entro il termine e con le modalita' di cui all'articolo 1, commi 1 e 2, uno o piu' decreti legislativi al fine di dare organica attuazione alla direttiva 2000/59/CE del Parlamento europeo e del Consiglio, del 27 novembre 2000, relativa agli impianti portuali di raccolta per i rifiuti prodotti dalle navi e i residui del carico, nel rispetto dei principi e criteri direttivi generali di cui all'articolo 2, nonche' dei seguenti principi e criteri direttivi: prevedere per il naviglio militare dello Stato che con decreto del Ministro della difesa, di concerto con i Ministri interessati, siano determinate, tenuto conto della particolare struttura delle unita' navali, le specifiche prescrizioni tecniche cui le navi da guerra ed ausiliarie si devono attenere, con riferimento alle caratteristiche di ogni classe di unita'; prevedere altresi' per le navi delle Forze di polizia ad ordinamento civile che, con decreto del Ministro dell' interno, di concerto con gli altri Ministri interessati, siano determinate, tenuto conto della particolare struttura delle unita' navali, le specifiche prescrizioni tecniche cui le navi delle predette Forze di polizia si devono attenere, con riferimento alle caratteristiche di ogni classe di unita'.
 
@@ -984,7 +980,7 @@ m) prevedere che, in caso di dissenso fra prestatore e destinatario del servizio
 
 > \- La direttiva del 27 novembre 2000, n. 2000/59/CE reca: "Direttiva del Parlamento europeo e del Consiglio relativa agli impianti portuali di raccolta per i rifiuti prodotti dalle navi e i residui del carico" e' pubblicata nella G.U.C.E. 28 dicembre 2000, n. L 332.
 
-#### Art. 33 - Modifiche agli articoli 134 e 138 del testo unico delle leggi di pubblica sicurezza
+### Art. 33 - Modifiche agli articoli 134 e 138 del testo unico delle leggi di pubblica sicurezza
 
 1\. Al testo unico delle leggi di pubblica sicurezza, di cui al regio decreto 18 giugno 1931, n. 773, sono apportate le seguenti modificazioni:
 
@@ -1032,7 +1028,7 @@ d) all'articolo 138, dopo il secondo comma e' aggiunto il seguente:
 
 > Le guardie particolari giurate, cittadini di Stati membri dell'Unione europea, possono conseguire la licenza di porto d'armi secondo quanto stabilito dal decreto legislativo 30 dicembre 1992, n. 527, e dal relativo regolamento di esecuzione, di cui al decreto del Ministro dell'interno 30 ottobre 1996, n. 635. Si osservano, altresi', le disposizioni degli articoli 71 e 256 del regolamento di esecuzione del presente testo unico.
 
-#### Art. 34 - Modifica all'articolo 4 della legge 11 febbraio 1992, n. 157, in materia di protezione della fauna selvatica e di prelievo venatorio
+### Art. 34 - Modifica all'articolo 4 della legge 11 febbraio 1992, n. 157, in materia di protezione della fauna selvatica e di prelievo venatorio
 
 1\. Il comma 4 dell'articolo 4 della legge 11 febbraio 1992, n. 157, e' sostituito dal seguente:
 
@@ -1058,7 +1054,7 @@ d) all'articolo 138, dopo il secondo comma e' aggiunto il seguente:
 
 > 6\. Le regioni emanano norme in ordine al soccorso, alla detenzione temporanea e alla successiva liberazione di fauna selvatica in difficolta'".
 
-#### Art. 35 - Modifiche all'allegato A al testo unico di cui al decreto legislativo 29 ottobre 1999, n. 490, in materia di valori applicabili alle categorie di beni culturali illecitamente usciti dal territorio di uno Stato membro dell'Unione europea suscettibili di restituzione
+### Art. 35 - Modifiche all'allegato A al testo unico di cui al decreto legislativo 29 ottobre 1999, n. 490, in materia di valori applicabili alle categorie di beni culturali illecitamente usciti dal territorio di uno Stato membro dell'Unione europea suscettibili di restituzione
 
 1\. La lettera B dell'allegato A al testo unico delle disposizioni legislative in materia di beni culturali e ambientali, di cui al decreto legislativo 29 ottobre 1999, n. 490, e' sostituita dalla seguente:
 
@@ -1110,7 +1106,7 @@ Il rispetto delle condizioni relative ai valori deve essere accertato al momento
 
 > \- Il decreto legislativo 29 ottobre 1999, n. 490 reca: "Testo unico delle disposizioni legislative in materia di beni culturali e ambientali, a norma dell'art. 1 della legge 8 ottobre 1997, n. 352".
 
-#### Art. 36 - Modifica all'articolo 9 del decreto del Presidente della Repubblica 9 febbraio 2001, n. 187, in materia di produzione e commercializzazione di sfarinati e paste alimentari
+### Art. 36 - Modifica all'articolo 9 del decreto del Presidente della Repubblica 9 febbraio 2001, n. 187, in materia di produzione e commercializzazione di sfarinati e paste alimentari
 
 1\. L'ultimo periodo del comma 4 dell'articolo 9 del regolamento di cui al decreto del Presidente della Repubblica 9 febbraio 2001, n. 187, e' soppresso.
 
@@ -1142,7 +1138,7 @@ Il rispetto delle condizioni relative ai valori deve essere accertato al momento
 
 > 6\. Sono denominate paste stabilizzate le paste alimentari che hanno un tenore di umidita' non inferiore al 20 per cento e un'attivita' dell'acqua libera (Aw) non superiore a 0,92 e che sono state sottoposte a trattamenti termici e a tecnologie di produzione che consentono il trasporto e la conservazione a temperatura ambiente".
 
-#### Art. 37 - Modifica dell'articolo 12 del decreto legislativo 27 gennaio 1992, n. 111, di attuazione della direttiva 89/398/CE in materia di prodotti alimentari destinati ad un'alimentazione particolare
+### Art. 37 - Modifica dell'articolo 12 del decreto legislativo 27 gennaio 1992, n. 111, di attuazione della direttiva 89/398/CE in materia di prodotti alimentari destinati ad un'alimentazione particolare
 
 1\. L'articolo 12 del decreto legislativo 27 gennaio 1992, n. 111, e' sostituito dal seguente:
 
@@ -1152,7 +1148,7 @@ Il rispetto delle condizioni relative ai valori deve essere accertato al momento
 
 > \- Il decreto legislativo 27 gennaio 1992, n. 111 reca: "Attuazione della direttiva 89/398/CEE concernente i prodotti alimentari destinati ad una alimentazione particolare".
 
-#### Art. 38 - Modifica all'articolo 40 della legge 24 aprile 1998, n. 128, in materia di organizzazioni dei produttori nel settore ortofrutticolo
+### Art. 38 - Modifica all'articolo 40 della legge 24 aprile 1998, n. 128, in materia di organizzazioni dei produttori nel settore ortofrutticolo
 
 1\. Il comma 4 dell'articolo 40 della legge 24 aprile 1998, n. 128, e' sostituito dal seguente:
 
@@ -1202,7 +1198,7 @@ Il rispetto delle condizioni relative ai valori deve essere accertato al momento
 
 > 9\. Il Governo esercita, ai sensi dell'art. 11 della legge 9 marzo 1989, n. 86, il potere sostituivo in caso di inadempienza delle regioni o province autonome nell'adozione dei provvedimenti amministrativi relativi all'attuazione dei regolamenti suddetti.
 
-#### Art. 39 - Modifiche all'articolo 108 del decreto legislativo 17 marzo 1995, n. 230, nonche' all'articolo 4 e all'allegato III del decreto legislativo 26 maggio 2000, n. 187, di attuazione di direttive EURATOM in materia di radiazioni ionizzanti
+### Art. 39 - Modifiche all'articolo 108 del decreto legislativo 17 marzo 1995, n. 230, nonche' all'articolo 4 e all'allegato III del decreto legislativo 26 maggio 2000, n. 187, di attuazione di direttive EURATOM in materia di radiazioni ionizzanti
 
 1\. All'articolo 108 del decreto legislativo 17 marzo 1995, n. 230, sono apportate le seguenti modificazioni:
 
@@ -1340,7 +1336,7 @@ c) il secondo periodo del primo capoverso del punto 7 e' soppresso.
 
 > Non sono sottoposti alla disciplina del decreto del Ministro della sanita' 28 luglio 1977 pubblicato nella Gazzetta Ufficiale n. 216 del 9 agosto 1977 i radiofarmaci utilizzati per ricerca per i quali siano disponibili sufficienti dati sulla qualita' e sulla sicurezza di impiego nell'uomo in rapporto alla indicazione proposta per la ricerca. In tal caso lo sperimentatore coordinatore dichiara, e il Comitato Etico accerta, che siano rispettate le condizioni di affidabilita', con le inerenti specifiche, di cui all'Allegato I del citato decreto".
 
-#### Art. 40 - Modifica al decreto legislativo 30 dicembre 1992, n. 540, in materia di etichettatura dei medicinali per uso umano
+### Art. 40 - Modifica al decreto legislativo 30 dicembre 1992, n. 540, in materia di etichettatura dei medicinali per uso umano
 
 1\. Al decreto legislativo 30 dicembre 1992, n. 540, e successive modificazioni, dopo l'articolo 5 e' inserito il seguente:
 
@@ -1358,7 +1354,7 @@ c) il secondo periodo del primo capoverso del punto 7 e' soppresso.
 
 > \- La legge 23 dicembre 2000, n. 388, pubblicata nella Gazzetta Ufficiale 29 dicembre 2000, n. 302 reca: "Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 2001)".
 
-#### Art. 41 - Delega al Governo per l'attuazione integrale della direttiva 96/61/CE sulla prevenzione e riduzione integrate dell'inquinamento
+### Art. 41 - Delega al Governo per l'attuazione integrale della direttiva 96/61/CE sulla prevenzione e riduzione integrate dell'inquinamento
 
 1\. Il Governo e' delegato ad emanare, entro dodici mesi dalla data di entrata in vigore della presente legge, un decreto legislativo per l'integrale attuazione della direttiva 96/61/CE del Consiglio, del 24 settembre 1996, sulla prevenzione e la riduzione integrate dell'inquinamento, mediante modifiche al decreto legislativo 4 agosto 1999, n. 372, in base ai seguenti principi e criteri direttivi:
 
@@ -1374,7 +1370,7 @@ b) indicazione esemplificativa delle autorizzazioni gia' in atto, da considerare
 
 > \- Il decreto legislativo 4 agosto 1999, n. 372, pubblicato nella Gazzetta Ufficiale 26 ottobre 1999, n. 252. Attuazione della direttiva 96/61/CE relativa alla prevenzione e riduzione integrate dell'inquinamento.
 
-#### Art. 42 - Delega al Governo per l'attuazione della direttiva 1999/31/CE, relativa alle discariche di rifiuti, e criteri specifici di delega
+### Art. 42 - Delega al Governo per l'attuazione della direttiva 1999/31/CE, relativa alle discariche di rifiuti, e criteri specifici di delega
 
 1\. Il Governo e' delegato ad emanare, entro il termine di un anno dalla data di entrata in vigore della presente legge, un decreto legislativo recante le norme occorrenti per dare attuazione alla direttiva 1999/31/CE del Consiglio, del 26 aprile 1999, relativa alle discariche di rifiuti.
 
@@ -1386,7 +1382,7 @@ b) indicazione esemplificativa delle autorizzazioni gia' in atto, da considerare
 
 > \- La Direttiva del Consiglio 1999/31/CE relativa alle discariche di rifiuti, e' pubblicata nella G.U.C.E. 16 luglio 1999, n. L 182.
 
-#### Art. 43
+### Art. 43
 
 (Delega al Governo per il recepimento della direttiva 2001/77/CE
 
@@ -1408,7 +1404,7 @@ e) ((LETTERA ABROGATA DALLA L. 27 DICEMBRE 2006, N. 296)).
 
 f) prevedere che dall'applicazione delle disposizioni del presente articolo non derivino nuovi o maggiori oneri, ne' minori entrate a carico del bilancio dello Stato.
 
-#### Art. 44 - Installazione di generatori di calore
+### Art. 44 - Installazione di generatori di calore
 
 1\. L'ultimo periodo del comma 10 dell'articolo 5, del regolamento di cui al decreto del Presidente della Repubblica 26 agosto 1993, n. 412, come sostituito dall'articolo 3 del decreto del Presidente della Repubblica 21 dicembre 1999, n. 551, e' soppresso.
 
@@ -1492,11 +1488,11 @@ f) prevedere che dall'applicazione delle disposizioni del presente articolo non 
 
 > bb) "onda significativa": l'onda media corrispondente a un terzo dell'altezza delle onde piu' alte osservate in un determinato periodo".
 
-#### Art. 45 - Modifica al decreto legislativo 4 febbraio 2000, n. 45, recante attuazione della direttiva 98/18/CE relativa alle disposizioni e alle norme di sicurezza per le navi da passeggeri adibite a viaggi nazionali
+### Art. 45 - Modifica al decreto legislativo 4 febbraio 2000, n. 45, recante attuazione della direttiva 98/18/CE relativa alle disposizioni e alle norme di sicurezza per le navi da passeggeri adibite a viaggi nazionali
 
 1\. All'articolo 1, comma 1, lettera g), del decreto legislativo 4 febbraio 2000, n. 45, le parole: "di emanazione del presente decreto o successivamente" sono sostituite dalle seguenti: "del 1 luglio 1998 o successivamente".
 
-#### Art. 46 - Modifica all'articolo 3 della legge 8 agosto 1991, n. 264, recante disciplina dell'attivita' di consulenza per la circolazione dei mezzi di trasporto
+### Art. 46 - Modifica all'articolo 3 della legge 8 agosto 1991, n. 264, recante disciplina dell'attivita' di consulenza per la circolazione dei mezzi di trasporto
 
 1\. All'articolo 3 della legge 8 agosto 1991, n. 264, e successive modificazioni, e' aggiunto il seguente comma:
 
@@ -1536,7 +1532,7 @@ f) prevedere che dall'applicazione delle disposizioni del presente articolo non 
 
 > 4-bis. L'autorizzazione non e' richiesta per l'esercente attivita' di servizi tecnico-amministrativi di altro Stato membro dell'Unione europea secondo le disposizioni di quest'ultimo, che fornisca occasionalmente in Italia, per conto della propria clientela, le prestazioni di consulenza di cui alla presente legge".
 
-#### Art. 47 - Adeguamento alla normativa europea di disposizioni del codice della navigazione concernenti le licenze di volo
+### Art. 47 - Adeguamento alla normativa europea di disposizioni del codice della navigazione concernenti le licenze di volo
 
 1\. Dopo il quarto comma dell'articolo 731 del codice della navigazione, e' aggiunto il seguente:
 
@@ -1720,7 +1716,7 @@ h) la lettera c) del comma 2 dell'articolo 74 e' abrogata.
 
 > 3\. Il requisito di cui al precedente comma 2, lettera b) non e' richiesto quando la stessa abilitazione venga rilasciata con la limitazione ad effettuare l'istruzione esclusivamente con l'impiego di verricello".
 
-#### Art. 48 - Modifica all'articolo 788 del codice della navigazione
+### Art. 48 - Modifica all'articolo 788 del codice della navigazione
 
 1\. Dopo il primo comma dell'articolo 788 del codice della navigazione e' inserito il seguente:
 
@@ -1740,7 +1736,7 @@ h) la lettera c) del comma 2 dell'articolo 74 e' abrogata.
 
 > Le scuole di pilotaggio possono operare anche su aviosuperfici disciplinate dalla legge 2 aprile 1968, n. 518. Il Ministero dei trasporti e della navigazione puo' in applicazione dell'art. 10 del decreto del Ministro dei trasporti 10 marzo 1988, pubblicato nella Gazzetta Ufficiale n. 205 del 1 settembre 1988, modificativo del decreto del Ministro per i trasporti e l'aviazione civile 27 dicembre 1971, pubblicato nella Gazzetta Ufficiale n. 164 del 28 giugno 1972, recante norme di attuazione della legge 2 aprile 1968, n. 518, emanare disposizioni limitative dell'attivita' di scuola di pilotaggio avuto riguardo alle condizioni delle singole aviosuperfici".
 
-#### Art. 49 - Attuazione della direttiva 2000/26/CE, concernente il ravvicinamento delle legislazioni degli Stati membri in materia di assicurazione della responsabilita' civile risultante dalla circolazione dei veicoli
+### Art. 49 - Attuazione della direttiva 2000/26/CE, concernente il ravvicinamento delle legislazioni degli Stati membri in materia di assicurazione della responsabilita' civile risultante dalla circolazione dei veicoli
 
 1\. L'attuazione della direttiva 2000/26/CE del Parlamento europeo e del Consiglio, del 16 maggio 2000, concernente il ravvicinamento delle legislazioni degli Stati membri in materia di assicurazione della responsabilita' civile risultante dalla circolazione di autoveicoli e che modifica le direttive 73/239/CEE del Consiglio, del 24 luglio 1973, e 88/357/CEE del Consiglio, del 22 giugno 1988, e' informata ai seguenti principi e criteri direttivi:
 
@@ -1762,7 +1758,7 @@ e) prevedere che, nel caso in cui l'impresa di assicurazione non abbia nominato 
 
 > \- La direttiva n. 88/357/CEE del Consiglio che coordina le disposizioni legislative, regolamentari ed amministrative riguardanti l'assicurazione diretta diversa dall'assicurazione sulla vita, e fissa le disposizioni volte ad agevolare l'esercizio effettivo della libera prestazione di servizi e modifica la direttiva n. 73/239/CEE, e' pubblicata nella G.U.C.E. 4 luglio 1988, n. L 172.
 
-#### Art. 50 - Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni comunitarie e agli accordi internazionali in materia di prodotti e tecnologie a duplice uso
+### Art. 50 - Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni comunitarie e agli accordi internazionali in materia di prodotti e tecnologie a duplice uso
 
 1\. Il Governo e' delegato ad emanare, entro il termine di un anno dalla data di entrata in vigore della presente legge, su proposta del Presidente del Consiglio dei ministri o del Ministro per le politiche comunitarie, e del Ministro delle attivita' produttive, con le modalita' di cui ai commi 2 e 3 dell'articolo 1, un decreto legislativo ai fini del riordino e della semplificazione delle procedure di autorizzazione all'esportazione di prodotti e tecnologie a duplice uso, nel rispetto dei principi e delle disposizioni comunitarie in materia, nonche' dei seguenti principi e criteri direttivi:
 
@@ -1782,7 +1778,7 @@ e) previsione di misure sanzionatorie effettive, proporzionate e dissuasive nei 
 
 > \- Il regolamento (CE) n. 1334/2000 del 22 giugno 2000 del Consiglio che istituisce un regime comunitario di controllo delle esportazioni di prodotti e tecnologie a duplice uso e' pubblicato nella G.U.C.E. 30 giugno 2000, n. L 159.
 
-#### Art. 51 - Disposizioni in materia di trasmissioni transfrontaliere
+### Art. 51 - Disposizioni in materia di trasmissioni transfrontaliere
 
 1\. Dopo l'articolo 3 della legge 31 luglio 1997, n. 249, e successive modificazioni, e' inserito il seguente:
 
@@ -1808,7 +1804,7 @@ c) violazione manifesta, seria e grave del divieto di trasmissione di programmi 
 
 > \- La legge 30 aprile 1998, n. 122 reca: "Differimento di termini previsti dalla legge 31 luglio 1997, n. 249, relativi all'Autorita' per le garanzie nelle comunicazioni, nonche' norme in materia di programmazione e di interruzioni pubblicitarie televisive.
 
-#### Art. 52 - Disposizioni in materia di televendita
+### Art. 52 - Disposizioni in materia di televendita
 
 1\. Dopo l'articolo 3 della legge 30 aprile 1998, n. 122, e successive modificazioni, e' inserito il seguente:
 
@@ -1824,7 +1820,7 @@ c) non sfruttare la particolare fiducia che i minorenni ripongono nei genitori, 
 
 d) non mostrare, senza motivo, minorenni in situazioni pericolose".
 
-#### Art. 53 - Modifica all'articolo 23 del decreto legislativo 17 marzo 1995, n. 157, di attuazione della direttiva 92/50/CEE in materia di appalti pubblici di servizi e abrogazione del decreto del Presidente del Consiglio dei ministri 27 febbraio 1997, n. 116
+### Art. 53 - Modifica all'articolo 23 del decreto legislativo 17 marzo 1995, n. 157, di attuazione della direttiva 92/50/CEE in materia di appalti pubblici di servizi e abrogazione del decreto del Presidente del Consiglio dei ministri 27 febbraio 1997, n. 116
 
 1\. All'articolo 23 del decreto legislativo 17 marzo 1995, n. 157, il comma 6 e' sostituito dal seguente:
 
@@ -1854,7 +1850,7 @@ d) non mostrare, senza motivo, minorenni in situazioni pericolose".
 
 > 6\. I parametri di valutazione e di ponderazione degli elementi di cui al comma 1, lettera b), volti a garantire il corretto rapporto prezzo-qualita' in relazione al servizio da affidare, sono stabiliti dalle singole amministrazioni aggiudicatrici in sede di bando o di lettera d'invito".
 
-#### Art. 54 - Misure relative all'attuazione della programmazione cofinanziata dall'Unione europea per il periodo 2000-2006
+### Art. 54 - Misure relative all'attuazione della programmazione cofinanziata dall'Unione europea per il periodo 2000-2006
 
 1\. Il fondo di rotazione di cui all'articolo 5 della legge 16 aprile 1987, n. 183, e' autorizzato a destinare, a valere sulle proprie disponibilita' finanziarie, un importo non superiore a 5.164.569 euro annui, per l'attivazione ed il potenziamento del sistema di monitoraggio, di pagamento e di controllo degli interventi cofinanziati dall'Unione europea, nonche' per lo studio di particolari problematiche connesse con il finanziamento del bilancio comunitario, anche attraverso collaborazioni esterne, fatte salve le competenze delle amministrazioni interessate in relazione ai loro interventi.
 
@@ -1882,7 +1878,7 @@ Per le annualita' successive, il fondo procede alle relative anticipazioni sulla
 
 > 3\. Restano salvi i rapporti finanziari direttamente intrattenuti con le Comunita' europee dalle amministrazioni e dagli organismi di cui all'art. 2 del decreto del Presidente della Repubblica 16 aprile 1971, n. 321, ed alla legge 26 novembre 1975, n. 748".
 
-#### Art. 55 - Istituti di moneta elettronica
+### Art. 55 - Istituti di moneta elettronica
 
 1\. Ai fini dell'attuazione delle direttive 2000/46/CE e 2000/28/CE del Parlamento europeo e del Consiglio, entrambe del 18 settembre 2000, in materia di istituti di moneta elettronica, al testo unico delle leggi in materia bancaria e creditizia di cui al decreto legislativo 1 settembre 1993, n. 385, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -2156,7 +2152,7 @@ h) all'articolo 144, comma 1, dopo le parole: "109, commi 2 e 3," e' inserita la
 
 > 5\. Le sanzioni amministrative pecuniarie previste per i dipendenti dai commi 1, 3 e 4 si applicano anche a coloro che operano sulla base di rapporti che ne determinano l'inserimento nell'organizzazione della banca, anche in forma diversa dal rapporto di lavoro subordinato".
 
-#### Art. 56
+### Art. 56
 
 (Disposizioni in materia di prevenzione dell'uso del sistema
 
@@ -2368,11 +2364,9 @@ Visto, il Guardasigilli: Castelli
 
 > La direttiva 2001/1986/CE e' pubblicata nella G.U.C.E. 10 novembre 2001, n. L 294.
 
-## CAPO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO, CRITERI SPECIFICI DI DELEGA
+## CAPO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO, CRITERI SPECIFICI DI DELEGA LEGISLATIVA
 
-### LEGISLATIVA
-
-#### Allegato A
+### Allegato A
 
 ALLEGATO A
 
@@ -2420,7 +2414,7 @@ ALLEGATO A
 
 2001/78/CE della Commissione, del 13 settembre 2001, che modifica l'allegato IV della direttiva 93/36/CEE del Consiglio, gli allegati IV, V e VI della direttiva 93/37/CEE del Consiglio, gli allegati III e IV della direttiva 92/50/CEE del Consiglio, modificate dalla direttiva 97/52/CE, nonche' gli allegati da XII a XV, XVII e XVIII della direttiva 93/38/CEE del Consiglio, modificata dalla direttiva 98/4/CE (Direttiva sull'impiego di modelli di formulari nella pubblicazione degli avvisi di gare d'appalto pubbliche).
 
-#### Allegato B
+### Allegato B
 
 ALLEGATO B
 

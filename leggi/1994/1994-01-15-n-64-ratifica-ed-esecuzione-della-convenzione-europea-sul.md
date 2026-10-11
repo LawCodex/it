@@ -27,15 +27,15 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+#### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la convenzione europea sul riconoscimento e l'esecuzione delle decisioni in materia di affidamento dei minori e di ristabilimento dell'affidamento, aperta alla firma a Lussemburgo il 20 maggio 1980, nonche' la convenzione sugli aspetti civili della sottrazione internazionale di minori, aperta alla firma a L'Aja il 25 ottobre 1980.
 
-### Art. 2
+#### Art. 2
 
 1\. Piena ed intera esecuzione e' data alle convenzioni di cui all'articolo 1, a decorrere dalla data della loro entrata in vigore, in conformita' a quanto previsto dall'articolo 22 della convenzione di Lussemburgo e dall'articolo 43 della convenzione de L'Aja.
 
-### Art. 3
+#### Art. 3
 
 1\. Il Ministero di grazia e giustizia, Ufficio per la giustizia minorile, e' autorita' centrale ai sensi e per gli effetti dell'articolo 3 della convenzione de L'Aja del 28 maggio 1970 sul rimpatrio dei minori, dell'articolo 2 della convenzione europea di Lussemburgo del 20 maggio 1980 sul riconoscimento e l'esecuzione delle decisioni in materia di affidamento dei minori e di ristabilimento dell'affidamento, nonche' dell'articolo 6 della convenzione de L'Aja del 25 ottobre 1980 sugli aspetti civili della sottrazione internazionale di minori.
 
@@ -45,7 +45,7 @@ la seguente legge:
 
 4\. Il Ministero di grazia e giustizia, Ufficio per la giustizia minorile, e' altresi' designato come autorita' centrale competente per gli adempimenti di cui agli articoli 6 e 11 della convenzione de L'Aja del 5 ottobre 1961 sulla competenza delle autorita' e sulla legge applicabile in materia di protezione dei minori.
 
-### Art. 4
+#### Art. 4
 
 1\. Il riconoscimento e l'esecuzione nel territorio dello Stato dei provvedimenti adottati dalle autorita' straniere per la protezione dei minori, ai sensi dell'articolo 7 della convenzione de L'Aja del 5 ottobre 1961, sono disposti dal tribunale per i minorenni del luogo in cui i provvedimenti stessi devono avere attuazione.
 
@@ -55,7 +55,7 @@ la seguente legge:
 
 4\. L'attuazione nello Stato, ai sensi dell'articolo 6 della convenzione de L'Aja del 5 ottobre 1961, dei provvedimenti adottati dalle autorita' straniere e' di competenza del giudice tutelare del luogo ove il minore risiede, ovvero, ricorrendo l'ipotesi, del luogo ove si trovano i beni in ordine ai quali sono stati adottati i provvedimenti.
 
-### Art. 5
+#### Art. 5
 
 1\. Le decisioni sulle richieste di rimpatrio di minori dal territorio dello Stato, avanzate dalle autorita' straniere, ai sensi dell'articolo 2, paragrafo 1, e dell'articolo 4 della convenzione de L'Aja del 28 maggio 1970, sono adottate dal tribunale per i minorenni del luogo dove il minore risiede.
 
@@ -71,7 +71,7 @@ la seguente legge:
 
 7\. Contro il decreto del tribunale per i minorenni e' ammesso ricorso per cassazione.
 
-### Art. 6
+#### Art. 6
 
 1\. Il riconoscimento e l'esecuzione nel territorio dello Stato delle decisioni relative all'affidamento dei minori ed al diritto di visita adottate dalle autorita' straniere ai sensi degli articoli 7, 11 e 12 della convenzione di Lussemburgo del 20 maggio 1980 sono disposti dal tribunale per i minorenni del luogo in cui i provvedimenti stessi devono avere attuazione.
 
@@ -81,7 +81,7 @@ la seguente legge:
 
 4\. Il procuratore della Repubblica presso il tribunale per i minorenni cura l'esecuzione delle decisioni anche avvalendosi dei servizi minorili dell'Amministrazione della giustizia, e ne da' immediatamente avviso all'autorita' centrale.
 
-### Art. 7
+#### Art. 7
 
 1\. Le richieste tendenti ad ottenere il ritorno del minore presso l'affidatario al quale e' stato sottratto, o a ristabilire l'esercizio effettivo del diritto di visita, sono presentate per il tramite dell'autorita' centrale a norma degli articoli 8 e 21 della convenzione de L'Aja del 25 ottobre 1980.
 
@@ -95,13 +95,13 @@ la seguente legge:
 
 6\. E' fatta salva la facolta' per l'interessato di adire direttamente le competenti autorita', a norma dell'articolo 29 della convenzione di cui al comma 1.
 
-### Art. 8
+#### Art. 8
 
 1\. All'onere derivante dall'attuazione della presente legge, pari a lire 100 milioni annue a decorrere dell'anno 1993, ivi comprese le minori entrate di cui all'articolo 3, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1993-1995, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1993, all'uopo parzialmente utilizzando l'accantonamento riguardante il Ministero degli affari esteri.
 
 2\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-### Art. 9
+#### Art. 9
 
 1\. La presente legge entra in vigore dopo tre mesi dal giorno della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -121,7 +121,7 @@ Visto, il Guardasigilli: CONSO
 
 ## Allegati
 
-### Convention
+#### Convention
 
 CONVENTION
 
@@ -153,7 +153,7 @@ Desiderosi di stabilire delle relazioni di cooperazione giudiziaria tra le rispe
 
 Hanno convenuto quanto segue:
 
-### Art. 1
+#### Art. 1
 
 Ai fini della presente Convenzione, si intende per:
 
@@ -171,7 +171,7 @@ ii) uno spostamento dichiarato successivamente illecito ai sensi dell'articolo 1
 
 ## TITOLO I. - Autorita' centrali
 
-### Art. 2
+#### Art. 2
 
 1\. Ciascuno Stato contraente designera' una autorita' centrale che esercitera' le funzioni previste nella presente Convenzione.
 
@@ -179,7 +179,7 @@ ii) uno spostamento dichiarato successivamente illecito ai sensi dell'articolo 1
 
 3\. Ogni designazione effettuata in applicazione del presente articolo deve essere notificata al Segretario Generale del Consiglio d'Europa.
 
-### Art. 3
+#### Art. 3
 
 1 Le autorita' centrali degli Stati contraenti devono cooperare tra loro e promuovere un concerto tra le autorita' competenti e i loro rispettivi paesi. Esse debbono agire con ogni diligenza necessaria.
 
@@ -191,7 +191,7 @@ b) si comunicano reciprocamente su loro domanda informazioni concernenti la loro
 
 c) si tengono reciprocamente informate circa le difficolta' che possono nascere in occasione dell'applicazione della Convenzione e si adoperano, nella massima misura possibile, per eliminare gli ostacoli che si frappongono alla sua applicazione.
 
-### Art. 4
+#### Art. 4
 
 1\. Chiunque abbia ottenuto in uno Stato contraente un provvedimento relativo all'affidamento di un minore e desideri ottenere in un altro Stato contraente il riconoscimento o l'esecuzione di tale provvedimento puo' rivolgersi, a tale scopo, mediante ricorso, all'autorita' centrale di ogni Stato contraente.
 
@@ -203,7 +203,7 @@ c) si tengono reciprocamente informate circa le difficolta' che possono nascere 
 
 5\. L'autorita' centrale adita informa senza indugio il ricorrente dell'esito della sua domanda.
 
-### Art. 5
+#### Art. 5
 
 1\. L'autorita' centrale dello Stato richiesto adotta o si adopera perche' venga adottata nel piu' breve termine ogni disposizione che esso ritiene idonea, rivolgendosi, se del caso, alle autorita' competenti, per:
 
@@ -223,7 +223,7 @@ e) informare l'autorita' richiedente sulle misure adottate.
 
 4\. Se il riconoscimento o l'esecuzione e' rifiutato e se l'autorita' centrale dello Stato richiesto ritiene di dover dar corso alla domanda del ricorrente di promuovere in tale Stato una azione nel merito, detta autorita' fa il possibile per assicurare la rappresentanza del ricorrente nel procedimento in condizioni non meno favorevoli di quelle di cui puo' beneficiare una persona che risiede e che possiede la cittadinanza di detto Stato e, a tale scopo, puo' in particolare rivolgersi alle sue autorita' competenti.
 
-### Art. 6
+#### Art. 6
 
 1\. Salvo accordi particolari conclusi tra le autorita' centrali interessate e salvo le disposizioni del paragrafo 3 del presente articolo:
 
@@ -237,11 +237,11 @@ b) l'autorita' centrale dello Stato richiesto deve tuttavia accettare le comunic
 
 ## TITOLO II - Riconoscimento ed esecuzione dei provvedimenti e ripristino dell'affidamento dei minori
 
-### Art. 7
+#### Art. 7
 
 I provvedimenti relativi all'affidamento pronunciati in uno Stato contraente sono riconosciuti e, quando siano esecutivi nello Stato d'origine, ricevono esecuzione in ogni altro Stato contraente.
 
-### Art. 8
+#### Art. 8
 
 1\. In caso di trasferimento illegittimo, l'autorita' centrale dello Stato richiesto fara' procedere immediatamente alla restituzione del minore:
 
@@ -253,7 +253,7 @@ b) se la domanda di restituzione e' stata proposta ad una autorita' centrale ent
 
 3\. Se tra la persona che ha in affidamento il minore e un'altra persona e' intervenuto un accordo, omologato da un'autorita' competente, per concedere alla seconda un diritto di visita e se allo scadere del periodo convenuto il minore, dopo essere stato portato all'estero, non e' stato restituito alla persona che lo aveva in affidamento, si procede al ripristino del diritto di affidamento in conformita' ai paragrafi 1 e 2 del presente articolo. Lo stesso dicasi in caso di provvedimento dell'autorita' competente che accorda questo stesso diritto a una persona che non ha l'affidamento del minore.
 
-### Art. 9
+#### Art. 9
 
 1\. Nei casi di trasferimento illegittimo diversi da quelli previsti all'articolo 8 e se si e' fatto ricorso ad una autorita' centrale entro il termine di sei mesi a partire dal trasferimento, il riconoscimento e l'esecuzione non possono essere rifiutati se non quando:
 
@@ -273,7 +273,7 @@ c) il provvedimento e' incompatibile con quello relativo all'affidamento divenut
 
 3\. In nessun caso il provvedimento puo' essere oggetto di esame nel merito.
 
-### Art. 10
+#### Art. 10
 
 1\. Nei casi diversi da quelli di cui agli articoli 8 e 9, il riconoscimento e l'esecuzione possono essere rifiutati non soltanto per i motivi previsti dall'articolo 9, ma anche per uno dei motivi seguenti:
 
@@ -297,7 +297,7 @@ b) se nello Stato richiesto e' pendente un procedimento riguardante l'affidament
 
 c) se un altro provvedimento relativo all'affidamento del minore e' oggetto di un procedimento di esecuzione o di ogni altro procedimento relativo al riconoscimento del provvedimento stesso.
 
-### Art. 11
+#### Art. 11
 
 1\. I provvedimenti sul diritto di visita e le disposizioni dei provvedimenti relativi all'affidamento vertenti sul diritto di visita sono riconosciuti e posti ad esecuzione alle stesse condizioni previste per gli altri provvedimenti relativi all'affidamento.
 
@@ -305,13 +305,13 @@ c) se un altro provvedimento relativo all'affidamento del minore e' oggetto di u
 
 3\. Quando non si e' provveduto sul diritto di visita ovvero quando il riconoscimento o l'esecuzione del provvedimento relativo all'affidamento viene rifiutato, l'autorita' centrale dello Stato richiesto puo' rivolgersi alle proprie autorita' competenti a decidere sul diritto di visita, a richiesta della persona che invoca tale diritto.
 
-### Art. 12
+#### Art. 12
 
 Qualora alla data in cui il minore e' trasferito oltre una frontiera internazionale non esista un provvedimento esecutivo in ordine al suo affidamento, pronunciato in uno Stato contraente, le disposizioni della presente Convenzione si applicano ad ogni successivo provvedimento riguardante l'affidamento del minore che riconosca l'illiceita' del trasferimento ed emesso in uno Stato contraente a richiesta di ogni persona interessata.
 
 ## TITOLO III - Procedura
 
-### Art. 13
+#### Art. 13
 
 La domanda di riconoscimento o di esecuzione in un altro Stato contraente di un provvedimento relativo all'affidamento deve essere accompagnata:
 
@@ -329,11 +329,11 @@ f) da proposte sulle modalita' del ripristino dell'affidamento del minore.
 
 2\. I documenti di cui sopra debbono, se del caso, essere accompagnati da una traduzione secondo le norme di cui all'articolo 6.
 
-### Art. 14
+#### Art. 14
 
 Ogni Stato contraente applica al riconoscimento ed all'esecuzione di un provvedimento relativo all'affidamento una procedura semplice e rapida. A tal fine fa in modo che la domanda di "exequatur" possa essere proposta su semplice ricorso.
 
-### Art. 15
+#### Art. 15
 
 1\. Prima di decidere sull'applicazione del paragrafo 1. b) dell'articolo 10, l'autorita' che dipende dallo Stato richiesto:
 
@@ -347,29 +347,29 @@ b) puo' chiedere che vengano effettuate delle opportune indagini.
 
 3\. Le richieste di indagini ed i loro risultati possono essere indirizzati all'autorita' interessata attraverso le autorita' centrali.
 
-### Art. 16
+#### Art. 16
 
 Ai fini della presente Convenzione, nessuna legalizzazione o formalita' analoga puo' essere richiesta.
 
 ## TITOLO IV - Riserve
 
-### Art. 17
+#### Art. 17
 
 1\. Ogni Stato contraente puo' formulare la riserva in base alla quale, nei casi previsti dagli articoli 8 e 9 o in uno soltanto di detti articoli, il riconoscimento e l'esecuzione di provvedimenti relativi all'affidamento potranno essere rifiutati per i motivi, tra quelli previsti dall'articolo 10, che saranno indicati nella riserva.
 
 2\. Il riconoscimento e l'esecuzione dei provvedimenti pronunciati in uno Stato contraente che ha fatto la riserva di cui al paragrafo 1 del presente articolo possono essere rifiutati in ogni altro Stato contraente per uno dei motivi aggiuntivi indicati in detta riserva.
 
-### Art. 18
+#### Art. 18
 
 Ogni Stato contraente puo' formulare la riserva in base alla quale non e' vincolato alle disposizioni dell'articolo 12. Le disposizioni della presente Convenzione non si applicano ai provvedimenti di cui all'articolo 12 che sono stati pronunciati in uno Stato contraente che ha fatto tale riserva.
 
 ## TITOLO V - Altri strumenti
 
-### Art. 19
+#### Art. 19
 
 La presente Convenzione non impedisce che un altro strumento internazionale vincolante lo Stato d'origine e lo Stato richiesto o il diritto non convenzionale dello Stato richiesto siano invocati per ottenere il riconoscimento o l'esecuzione di un provvedimento.
 
-### Art. 20
+#### Art. 20
 
 1\. La presente Convenzione non pregiudica gli impegni che uno Stato contraente puo' avere nei confronti di uno Stato non contraente in virtu' di uno strumento internazionale avente per oggetto materie regolate dalla presente Convenzione.
 
@@ -377,23 +377,23 @@ La presente Convenzione non impedisce che un altro strumento internazionale vinc
 
 ## TITOLO VI - Clausole finali
 
-### Art. 21
+#### Art. 21
 
 La presente Convenzione e' aperta alla firma degli Stati membri del Consiglio d'Europa. Sara' soggetta a ratifica, accettazione od approvazione. Gli strumenti di ratifica, di accettazione od approvazione saranno depositati presso il Segretario Generale del Consiglio d'Europa.
 
-### Art. 22
+#### Art. 22
 
 1\. La presente Convenzione entrera' in vigore il primo giorno del mese successivo allo scadere di un periodo di tre mesi dalla data in cui tre Stati membri del Consiglio d'Europa avranno espresso il loro consenso ad essere vincolati dalla Convenzione in conformita' alle disposizioni dell'articolo 21.
 
 2\. Per ogni Stato membro che esprimera' successivamente il proprio consenso ad essere vincolato dalla Convenzione, quest'ultima entrera' in vigore il primo giorno del mese successivo allo scadere di un periodo di tre mesi dalla data del deposito dello strumento di ratifica, di accettazione od approvazione.
 
-### Art. 23
+#### Art. 23
 
 1\. Dopo l'entrata in vigore della presente Convenzione, il Comitato dei Ministri del Consiglio d'Europa potra' invitare ogni Stato non membro del Consiglio ad aderire alla presente Convenzione, mediante decisione presa con la maggioranza prevista dall'articolo 20.d) dello Statuto ed alla unanimita' dei rappresentanti degli Stati contraenti che hanno il diritto di partecipare al Comitato.
 
 2\. Per ogni Stato aderente, la Convenzione entrera' in vigore il primo giorno del mese successivo allo scadere di un periodo di tre mesi dalla data di deposito dello strumento di adesione presso il Segretario Generale del Consiglio d'Europa.
 
-### Art. 24
+#### Art. 24
 
 1\. Ogni Stato puo', all'atto della firma od al momento del deposito del suo strumento di ratifica, di accettazione, di approvazione o di adesione, designare il o i territori ai quali si applichera' la presente Convenzione.
 
@@ -401,7 +401,7 @@ La presente Convenzione e' aperta alla firma degli Stati membri del Consiglio d'
 
 3\. Ogni dichiarazione fatta in virtu' dei due paragrafi precedenti potra' essere ritirata, per quanto concerne ciascun territorio indicato nella dichiarazione, mediante notificazione indirizzata al Segretario Generale. Il ritiro avra' effetto il primo giorno del mese successivo allo scadere di un periodo di sei mesi dalla data di ricevimento della notificazione da parte del Segretario Generale.
 
-### Art. 25
+#### Art. 25
 
 1\. Uno Stato che comprende due o piu' unita' territoriali nelle quali si applicano ordinamenti giuridici diversi in materia di affidamento dei minori e di riconoscimento ed esecuzione di provvedimenti relativi all'affidamento puo', al momento del deposito del suo strumento di ratifica, di accettazione, di approvazione o di adesione, dichiarare che la presente Convenzione si applichera' a tutte queste unita' territoriali, ovvero ad una o piu' di esse.
 
@@ -409,7 +409,7 @@ La presente Convenzione e' aperta alla firma degli Stati membri del Consiglio d'
 
 3\. Ogni dichiarazione fatta in virtu' dei due paragrafi precedenti, potra' essere ritirata, per quanto concerne ogni unita' territoriale designata in tale dichiarazione, mediante notificazione indirizzata al Segretario Generale. Il ritiro avra' effetto a partire dal primo giorno del mese successivo allo scadere di un periodo di sei mesi dal ricevimento della notificazione da parte del Segretario Generale.
 
-### Art. 26
+#### Art. 26
 
 1\. Nei confronti di uno Stato che, in materia di affidamento dei minori, abbia due o piu' ordinamenti giuridici di applicazione territoriale:
 
@@ -419,23 +419,23 @@ b) il riferimento allo Stato di origine od allo Stato richiesto deve essere inte
 
 2\. Il paragrafo 1.a) del presente articolo si applica anche, mutatis mutandis, agli Stati i quali, in materia di affidamento dei minori, abbiano due o piu' ordinamenti giuridici di applicazione personale.
 
-### Art. 27
+#### Art. 27
 
 1\. Ogni Stato puo', al momento della firma od al momento del deposito del proprio strumento di ratifica, di accettazione, di approvazione o di adesione, dichiarare di avvalersi di una o piu' riserve che figurano al paragrafo 3 dell'articolo 6, all'articolo 17 ed all'articolo 18 della presente Convenzione. Non e' ammessa alcuna altra riserva.
 
 2\. Ogni Stato contraente che ha formulato una riserva in virtu' del paragrafo precedente puo' ritirarla in tutto od in parte indirizzando una notificazione al Segretario Generale del Consiglio d'Europa. Il ritiro avra' effetto alla data di ricevimento della notificazione da parte del Segretario Generale.
 
-### Art. 28
+#### Art. 28
 
 Al termine del terzo anno successivo alla data d'entrata in vigore della presente Convenzione e, per sua iniziativa, in qualsiasi altro momento successivo a tale data, il Segretario Generale del Consiglio d'Europa, invitera' i rappresentanti delle autorita' centrali designate dagli Stati contraenti a riunirsi al fine di studiare e facilitare il funzionamento della Convenzione. Ogni Stato membro del Consiglio d'Europa che non e' parte alla Convenzione potra' farsi rappresentare da un osservatore. I lavori di ciascuna di queste riunioni saranno oggetto di un rapporto che sara' inviato per conoscenza al Comitato dei Ministri del Consiglio d'Europa.
 
-### Art. 29
+#### Art. 29
 
 1\. Ogni parte puo', in qualunque momento, denunciare la presente Convenzione indirizzando una notificazione al Segretario Generale del Consiglio d'Europa.
 
 2\. La denuncia avra' effetto a partire dal primo giorno del mese successivo allo scadere di un periodo di sei mesi dalla data di ricevimento della notificazione da parte del Segretario Generale.
 
-### Art. 30
+#### Art. 30
 
 Il Segretario Generale del Consiglio d'Europa notifichera' agli Stati membri del Consiglio e ad ogni Stato che abbia aderito alla presente Convenzione:
 
@@ -451,7 +451,7 @@ IN FEDE DI CHE, i sottoscritti, all'uopo debitamente autorizzati, hanno firmato 
 
 FATTO A LUSSEMBURGO, il 20 maggio 1980, in francese ed inglese, entrambi i testi facendo egualmente fede, in unico esemplare che sara' depositato negli archivi del Consiglio d'Europa. Il Segretario Generale del Consiglio d'Europa ne comunichera' copia munita di certificazione di conformita' a ciascuno degli Stati membri del Consiglio d'Europa ed ad ogni Stato invitato ad aderire alla presente Convenzione.
 
-## CAPO I - Campo di applicazione della Convenzione
+### CAPO I - Campo di applicazione della Convenzione
 
 I-CONVENZIONE SUGLI ASPETTI CIVILI DELLA SOTTRAZIONE INTERNAZIONALE DI MINORI
 
@@ -463,7 +463,7 @@ Desiderando proteggere il minore, a livello internazionale, contro gli effetti n
 
 Hanno determinato di concludere a tale scopo una Convenzione, ed hanno convenuto le seguenti regolamentazioni:
 
-### Articolo Primo
+#### Articolo Primo
 
 La presente Convenzione ha come fine:
 
@@ -471,11 +471,11 @@ a di assicurare l'immediato rientro dei minori illecitamente trasferiti o tratte
 
 b di assicurare che i diritti di affidamento e di visita previsti in uno Stato contraente siano effettivamente rispettati negli altri Stati contraenti.
 
-### Articolo 2
+#### Articolo 2
 
 Gli Stati contraenti prendono ogni adeguato provvedimento per assicurare, nell'ambito del proprio territorio, la realizzazione degli obiettivi della Convenzione. A tal fine, essi dovranno avvalersi delle procedure d'urgenza a loro disposizione.
 
-### Articolo 3
+#### Articolo 3
 
 Il trasferimento o il mancato rientro di un minore e' ritenuto illecito:
 
@@ -485,11 +485,11 @@ b se tali diritti rano effetivamente esercitati, individualmente o congiuntament
 
 Il diritto di custodia citato al capoverso a) di cui sopra puo' in particolare derivare direttamente dalla legge, da una decisione giudiziaria o amministrativa, o da un accordo in vigore in base alla legislazione del predetto Stato.
 
-### Articolo 4
+#### Articolo 4
 
 La Convenzione si applica ad ogni minore che aveva la propria residenza abituale in uno Stato contraente immediatamente prima della violazione dei diritti di affidamento o di visita. L'applicazione della Convenzione cessa allorche' il minore compie 16 anni.
 
-### Articolo 5
+#### Articolo 5
 
 Ai sensi della presente Convenzione:
 
@@ -497,13 +497,13 @@ a - il "diritto di affidamento" comprende i diritti concernenti la cura della pe
 
 b - il "diritto di visita" comprende il diritto di condurre il minore in un luogo diverso dalla sua residenza abituale per un periodo limitato di tempo.
 
-## CAPO II - AUTORITA' CENTRALI
+### CAPO II - AUTORITA' CENTRALI
 
-### Articolo 6
+#### Articolo 6
 
 Ciascuno Stato contraente nomina un'Autorita' Centrale, che sara' incaricata di adempiere agli obblighi che le vengono imposti dalla Convenzione. Uno Stato federale, uno Stato nel quale sono in vigore molteplici ordinamenti legislativi, o uno Stato che abbia assetti territoriali autonomi, hanno facolta' di nominare piu' di una Autorita' Centrale e di specificare l'estensione territoriale dei poteri di ciascuna di dette Autorita'. Qualora uno Stato abbia nominato piu' di una Autorita' Centrale, esso designera' l'Autorita' centrale alla quale le domande possono essere inviate per essere trasmesse all'Autorita' centrale competente nell'ambito di questo Stato.
 
-### Articolo 7
+#### Articolo 7
 
 Le Autorita' centrali devono cooperare reciprocamente e promuovere la cooperazione tra le Autorita' competenti nei loro rispettivi Stati, al fine di assicurare l'immediato rientro dei minori e conseguire gli altri obiettivi della Convenzione.
 
@@ -523,9 +523,9 @@ h - per assicurare che siano prese, a livello amministrativo, le ne- cessarie mi
 
 i) - per tenersi reciprocamente informate riguardo al funzionamento della Convenzione, rimuovendo, per quanto possibile, ogni eventuale ostacolo riscontrato nella sua applicazione.
 
-## CAPO III - RITORNO DEL MINORE
+### CAPO III - RITORNO DEL MINORE
 
-### Articolo 8
+#### Articolo 8
 
 Ogni persona, istituzione od ente, che adduca che un minore e' stato trasferito o trattenuto in violazione di un diritto di affidamento, puo' rivolgersi sia all'Autorita' centrale della residenza abituale del minore, sia a quella di ogni altro Stato contraente, al fine di ottenere assistenza per assicurare il ritorno del minore.
 
@@ -545,21 +545,21 @@ f - un attestato o una dichiarazione giurata, rilasciata dall'Autori- ta' centra
 
 g - ogni altro documento pertinente.
 
-### Articolo 9
+#### Articolo 9
 
 Se l'Autorita' centrale che riceve una domanda ai sensi dell'Articolo 8, ha motivo di ritenere che il minore si trova in un altro Stato contraente, essa trasmette la domanda direttamente, ed immediatamente, all'Autorita' centrale di questo Stato contraente e ne informa l'Autorita' centrale richiedente, o, se del caso, il richiedente.
 
-### Articolo 10
+#### Articolo 10
 
 L'Autorita' centrale dello Stato in cui si trova il minore prendera' o fara' prendere ogni adeguato provvedimento per assicurare la sua riconsegna volontaria.
 
-### Articolo 11
+#### Articolo 11
 
 Le Autorita' giudiziarie o amministrative di ogni Stato contraente devono procedere d'urgenza per quanto riguarda il ritorno del minore.
 
 Qualora l'Autorita' giudiziaria o Amministrativa richiesta non abbia deliberato entro un termine di sei settimane dalla data d'inizio del procedimento il richiedente (o l'Autorita' centrale dello Stato richiesto), di sua iniziativa, o su richiesta dell'Autorita' centrale dello Stato richiedente, puo' domandare una dichiarazione in cui siano esposti i motivi del ritardo. Qualora la risposta venga ricevuta dall'Autorita' centrale dello Stato richiesto, detta Autorita' deve trasmettere la risposta all'Autorita' centrale dello Stato richiedente, o, se del caso, al richiedente.
 
-### Articolo 12
+#### Articolo 12
 
 Qualora un minore sia stato illecitamente trasferito o trattenuto ai sensi dell'articolo 3, e sia trascorso un periodo inferiore ad un anno, a decorrere dal traferimento o dal mancato ritorno del minore, fino alla presentazione dell'istanza presso l'Autorita' giudiziaria o amministrativa dello Stato contraente dove si trova il minore, l'Autorita' adita ordina il suo ritorno immediato.
 
@@ -567,7 +567,7 @@ L'Autorita' giudiziaria o amministrativa, benche' adita dopo la scadenza del per
 
 Se l'autorita' giudiziaria o amministrativa dello Stato richiesto ha motivo di ritenere che il minore e' stato condotto in un altro Stato, essa puo' sospendere la procedura o respingere la domanda di ritorno del minore.
 
-### Articolo 13
+#### Articolo 13
 
 Nonostante le disposizioni del precedente articolo, l'autorita' giudiziaria o amministrativa dello Stato richiesto non e' tenuta ad ordinare il ritorno del minore qualora la persona, istituzione od ente che si oppone al ritorno, dimostri:
 
@@ -579,37 +579,37 @@ L'Autorita' giudiziaria o amministrativa puo' altresi' rifiutarsi di ordinare il
 
 Nel valutare le circostanze di cui al presente Articolo, le Autorita' giudiziarie e amministrative devono tener conto delle informazioni fornite dall'Autorita' centrale o da ogni altra Autorita' competente dello Satto di residenza del minore, riguardo alla sua situazione sociale.
 
-### Articolo 14
+#### Articolo 14
 
 Nel determinare se vi sia stato o meno un trasferimento od un mancato ritorno illecito, ai sensi dell'Articol 3, l'Autorita' giudiziaria o amministrativa dello Stato richiesto puo' tener conto direttamente della legislazione e delle decisioni giudiziarie o amministrative, formalmente riconosciute o meno nello Stato di residenza abituale del minore, senza ricorrere alle procedure specifiche per la prova di detta legislazione, o per il riconoscimento delle decisioni giudiziali straniere che sarebbero altrimenti applicabili.
 
-### Articolo 15
+#### Articolo 15
 
 Le autorita' giudiziarie o amministrative di uno Stato contraente hanno facolta', prima di decretare il ritorno del minore, di domandare che il richiedente produca una decisione o attestato emesso dalle Autorita' dello Stato di residenza abituale del minore, comprovante che il trasferimento o il mancato rientro era illecito ai sensi dell'Articolo 3 della Convenzione, sempre che tale decisione o attestato possa essere ottenuto in quello Stato. Le Autorita' centrali degli Stati contraenti assistono il richiedente, per quanto possibile, nell'ottenimento di detta decisione o attestato.
 
-### Articolo 16
+#### Articolo 16
 
 Dopo aver ricevuto notizia di un trasferimento illecito di un minore o del suo mancato ritorno ai sensi dell'Articolo 3, le Autorita' giudiziarie o amministrative dello Stato contraente nel quale il minore e' stato trasferito o e' trattenuto, non potranno deliberare per quanto riguarda il merito dei diritti di affidamento, fino a quando non sia stabilito che le condizioni della presente Convenzione, relativa al ritorno del minore sono soddisfatte, a meno che non venga presentata una istanza, in applicazione della presente Convenzione, entro un periodo di tempo ragionevole a seguito della ricezione della notizia.
 
-### Articolo 17
+#### Articolo 17
 
 Il solo fatto che una decisione relativa all'affidamento sia stata presa o sia passibile di riconoscimento dello Stato richiesto non puo' giustificare il rifiuto di fare ritornare il minore, in forza della presente Convenzione; tuttavia, le Autorita' giudiziarie o amministrative dello Stato richiesto possono prendere in considerazione le motivazioni della decisione nell'applicare la Convenzione.
 
-### Articolo 18
+#### Articolo 18
 
 Le disposizioni del presente capo non limitano il potere dell'Autorita' giudiziaria o amministrativa di ordinare il ritorno del minore in qualsiasi momento.
 
-### Articolo 19
+#### Articolo 19
 
 Una decisione relativa al ritorno del minore, pronunciata conformemente alla presente Convenzione, non pregiudica il merito del diritto di custodia.
 
-### Articolo 20
+#### Articolo 20
 
 Il ritorno del minore, in conformita' con le disposizioni dell'articolo 12, puo' essere rifiutato, nel caso che non fosse consentito dai principi fondamentali dello Stato richiesto relativi alla protezione dei diritti dell'uomo e delle liberta' fondamentali.
 
-## CAPO IV - DIRITTO DI VISITA
+### CAPO IV - DIRITTO DI VISITA
 
-### Articolo 21
+#### Articolo 21
 
 Una domanda concernente l'organizzazione o la tutela dell'esercizio effettivo del diritto di visita, puo' essere inoltrata all'Autorita' centrale di uno Stato contraente con le stesse modalita' di quelle previste per la domanda di ritorno del minore.
 
@@ -619,27 +619,27 @@ Le Autorita' centrali faranno i passi necessari per rimuovere, per quanto possib
 
 Le Autorita' centrali, sia direttamente, sia per il tramite di intermediari, possono avviare, o agevolare, una procedura legale al fine di organizzare o tutelare il diritto di visita e le condizioni cui l'esercizio di detto diritto di visita possa essere soggetto.
 
-## CAPO 5 - DISPOSIZIONI GENERALI
+### CAPO 5 - DISPOSIZIONI GENERALI
 
-### Articolo 22
+#### Articolo 22
 
 Nessuna cauzione o deposito, con qualsiasi denominazione venga indicata, puo' essere prescritta come garanzia del pagamento dei costi e delle spese relative alle procedure giudiziarie ed amministrative di cui alla presente Conversione.
 
-### Articolo 23
+#### Articolo 23
 
 Nessuna legalizzazione o analoga formalita', potra' essere richiesta in base alla Convenzione.
 
-### Articolo 24
+#### Articolo 24
 
 Ogni domanda, comunicazione o altro documento inviato all'Autorita' centrale dello Stato richiesto, dovra' essere redatto in lingua originale ed accompagnato da una traduzione della lingua ufficiale, o in una delle lingue ufficiali dello Stato richiesto, oppure, qualora cio' sia difficilmente realizzabile, da una traduzione in francese o in inglese.
 
 Tuttavia, uno Stato contraente avra' facolta', applicando la riserva prevista all'Articolo 42, di opporsi alla utilizzazione sia del francese, sia dell'inglese (ma non di entrambe) in ogni istanza, comunicazione, o altro documento inviato alla propria Autorita' Centrale.
 
-### Articolo 25
+#### Articolo 25
 
 I cittadini di uno Stato contraente, e le persone che risiedono abitualmente in questo Stato, avranno diritto, per tutto quanto riguarda l'applicazione della presente Convenzione, all'assistenza giudiziaria e legale in ogni altro Stato contraente, alle medesime condizioni che se fossero essi stessi cittadini di quest'ultimo Stato e vi risiedessero abitualmente.
 
-### Articolo 26
+#### Articolo 26
 
 Ogni Autorita' centrale si fara' carico delle proprie spese relative alla applicazione della Convenzione.
 
@@ -651,23 +651,23 @@ Cio' nonostante, uno Stato contraente, nell'esprimere la riserva prevista all'ar
 
 Nell'ordinare il ritorno del minore, o nel deliberare sul diritto di visita, in conformita' alla presente Convenzione, l'Autorita' giudiziaria o amministrativa puo', se del caso, porre a carico della presona che ha trasferito o trattenuto il minore, o che ha impedito l'esercizio del diritto di visita, il pagamento di tutte le spese necessarie sostenute dal richiedente, o a nome del richiedente, ivi comprese le spese di viaggio, i costi relativi all'assistenza giudiziaria del richiedente ed al ritorno del minore, nonche' tutti i costi e le spese sostenute per localizzare il minore.
 
-### Articolo 27
+#### Articolo 27
 
 Qualora sia evidente che le condizioni prescritte dalla Convenzione non siano osservate, o che la domanda non ha fondamento, l'Autorita' centrale non e' tenuta ad accettare l'istanza. In tal caso, essa deve immediatamente notificare le sue motivazioni al richiedente, o, se del caso, all'Autorita' centrale che ha trasmesso la domanda.
 
-### Articolo 28
+#### Articolo 28
 
 Un'Autorita' centrale puo' esigere che la domanda sia accompagnata da un'autorizzazione scritta che le dia facolta' di agire per conto del richiedente, o di nominare un rappresentante abilitato ad agire per suo conto.
 
-### Articolo 29
+#### Articolo 29
 
 La Convenzione non pregiudica la facolta' per la persona, l'istituzione o l'ente che adduca che vi e' stata violazione dei diritti di o di visita, ai sensi dell'Articolo 3 o dell'Articolo 21, di rivolgersi direttamente alle Autorita' giudiziarie o amministrative dello Stato contraente, in applicazione o meno delle disposizioni della Convenzione.
 
-### Articolo 30
+#### Articolo 30
 
 Ogni domanda, inoltrata all'Autorita' centrale, o direttamente alle Autorita' giudiziarie o amministrative di uno Stato contraente in applicazione della Convenzione, nonche' ogni documento o informazione allegata o fornita da un'Autorita' centrale, sara' dai ribunali o dalle autorita' amministrative degli Stati contraenti.
 
-### Articolo 31
+#### Articolo 31
 
 Nel caso di uno Stato che dispone, in materia di custodia dei minori, di due o piu' ordinamenti legislativi, applicabili in unita' territoriali diverse:
 
@@ -675,37 +675,37 @@ a - ogni riferimento alla residenza abituale in detto Stato deve es- sere inteso
 
 b - ogni riferimento alla legislazione dello Stato della residenza abituale deve essere inteso come riferentesi alla legislazione dell'unita' territoriale in cui il minore abitualmente risiede.
 
-### Articolo 32
+#### Articolo 32
 
 Nel caso di uno Stato il quale dispone, in materia di custodia dei minori, di due o piu' ordinamenti legislativi applicabili a diverse categorie di persone, ogni riferimento alla legislazione di detto Stato deve essere inteso come riferentesi all'ordinamento legislativo specificato dalla legislazione di questo Stato.
 
-### Articolo 33
+#### Articolo 33
 
 Uno Stato nel quale le diverse unita' territoriali abbiano le proprie regolamentazioni in materia di affidamento dei minori, non e' tenuto ad applicare la Convenzione, quando uno Stato il cui ordinamento legislativo sia unificato, non e' tenuto ad applicarla.
 
-### Articolo 34
+#### Articolo 34
 
 Nelle materie di sua competenza, la Convenzione prevale sulla "Convenzione del 5 Ottobre 1961, relativa alla competenza delle Autorita' ed alla legislazione applicabile in materia di protezione dei minori", tra gli Stati Parti alle due Convenzioni. La presente Convenzione non esclude peraltro che un altro strumento internazionale in vigore tra lo Stato di origine lo Stato richiesto, o che la legislazione non convenzionale dello Stato richiesto, siano invocati per ottenere il ritorno di un minore che e' stato illecitamente trasferito o trattenuto, o al fine di organizzare il diritto di visita.
 
-### Articolo 35
+#### Articolo 35
 
 La Convenzione avra' effetto nei confronti degli Stati contraenti solo per quanto riguarda i trasferimenti o mancati ritorni illeciti verificatisi dopo la sua entrata in vigore nei predetti Stati.
 
 Qualora una dichiarazione sia stata effettuata, in base agli articoli 39 o 40, il riferimento ad uno Stato contraente di cui al capoverso precedente dovra' essere inteso come riferentesi all'unita' o alle unita' territoriali cui si applica la Convenzione.
 
-### Articolo 36
+#### Articolo 36
 
 Nulla nella presente Convenzione impedira' a due o piu' Stati contraenti, al fine di limitare le restrizioni cui il ritorno del minore puo' essere soggetto, di decidere di comune accordo di derogare a quelle regolamentazioni della Convenzione suscettibili di implicare tali restrizioni.
 
-## CAPO VI - CLAUSOLE FINALI
+### CAPO VI - CLAUSOLE FINALI
 
-### Articolo 37
+#### Articolo 37
 
 La Convenzione e' aperta alla firma degli Stati che erano Membri della Conferenza dell'Aja di diritto internazionale privato al momento della Quattordicesima sessione.
 
 Essa sara' ratificata, accettata o approvata e gli strumenti di ratifica, di accettazione o di approvazione saranno depositati presso il Ministero degli Affari Esteri del Regno dei Paesi Bassi.
 
-### Articolo 38
+#### Articolo 38
 
 Ogni altro Stato potra' aderire alla Convenzione. Lo strumento di adesione sara' depositato presso il Ministero degli Affari Esteri del Regno dei Paesi Bassi.
 
@@ -715,21 +715,21 @@ L'adesione avra' effetto solo nei rapporti tra lo Stato aderente e gli Stati con
 
 La Convenzione entrera' in vigore, tra lo Stato aderente e lo Stato il quale abbia dichiarato di accettare detta adesione, il primo giorno del terzo mese successivo al deposito della dichiarazione di accettazione.
 
-### Articolo 39
+#### Articolo 39
 
 Ciascuno Stato, al momento della firma, ratifica, accettazione, approvazione o adesione, potra' dichiarare che la Convenzione sara' estesa all'insieme dei territori di cui la rappresentanza a livello iternazionale, o ad uno o piu' di essi. Tale dichiarazione avra' effetto nel momento in cui la Convenzione entra in vigore nei confronti di detto Stato. La predetta dichiarazione, nonche' ogni successiva estensione, sara' notificata al Ministero degli Affari Esteri del Regno dei Paesi Bassi.
 
-### Articolo 40
+#### Articolo 40
 
 Uno Stato contraente che comprende due o piu' unita' territoriali, nelle quali sono in vigore ordinamenti legislativi diversi per quanto riguarda le materie che sono oggetto della presente Convenzione, potra', al momento della firma, ratifica, accettazione, approvazione o adesione, dichiarare che la presente Convenzione si applichera' a tutte le sue unita' territoriali, o solamente ad una o piu' di loro, e potra' in ogni tempo modificare detta dichiarazione formulando una nuova dichiarazione.
 
 Queste dichiarazioni saranno notificate al Ministero degli Affari Esteri del Regno dei Paesi Bassi ed indicheranno espressamente le unita' territoriali cui e' applicata la Convenzione.
 
-### Articolo 41
+#### Articolo 41
 
 Se uno Stato contraente ha un sistema governativo che prevede che i poteri esecutivi, giudiziari e legislativi siano ripartiti tra le Autorita' centrali ed altre Autorita' di detto Stato, la firma, ratifica, accettazione o approvazione della Convenzione, o l'adesione a quest'ultima; o una dichiarazione resa in forza dell'articolo 40, non avranno alcuna conseguenza per quanto riguarda la ripartizione interna dei poteri in questo Stato.
 
-### Articolo 42
+#### Articolo 42
 
 Ciascuno Stato contraente potra', non oltre il momento di ratifica, accettazione, approvazione o di adesione, oppure al momento di una dichiarazione effettuata si sensi degli articoli 39 o 40, esprimere sia l'una, sia entrambe le riserve di cui agli articoli 24 e 26, capoverso 3. Nessuna altra riserva sara' ammessa.
 
@@ -737,7 +737,7 @@ Ciascun Stato potra', in ogni momento, ritirare una riserva gia' formulata. Dett
 
 La riserva cessera' di avere effetto il primo giorno del terzo mese successivo alla notifica di cui al capoverso precedente.
 
-### Articolo 43
+#### Articolo 43
 
 La Convezione entrera' in vigore il primo giorno del terzo mese successivo al deposito del terzo strumento di ratifica, accettazione, approvazione o adesione di cui agli articoli 37 e 38.
 
@@ -747,7 +747,7 @@ In seguito la Convenzione entrera' in vigore:
 
 2\) per i territori o le unita' territoriali cui la Convenzione e' stata estesa, conformemente all'articolo 39 o 40, il primo giorno del terzo mese dopo la notifica di cui ai suddetti articoli.
 
-### Articolo 44
+#### Articolo 44
 
 La Convenzione avra' una durata di cinque anni a decorrere dalla data della sua entrata in vigore, conformemente con l'articolo 43, primo capoverso, anche nei confronti degli Stati che l'avranno ratificata, accettata o approvata successivamente o che vi abbiano aderito.
 
@@ -755,7 +755,7 @@ La Convenzione sara' tacitamente rinnovata ogni cinque anni, salvo denuncia. La 
 
 La denuncia avra' effetto solo nei confronti dello Stato che l'abbia notificata. La Convenzione rimarra' in vigore per gli altri Stati contraenti.
 
-### Articolo 45
+#### Articolo 45
 
 Il Ministero degli Affari Esteri del Regno dei Paesi Bassi notifichera' agli Stati membri della Conferenza, nonche' agli Stati che abbiano aderito, conformemente con le disposizioni dell'articolo 38:
 

@@ -28,7 +28,7 @@ la seguente legge:
 
 ## TITOLO I - DISPOSIZIONI GENERALI
 
-##### Art. 1
+#### Art. 1
 
 Opere disciplinate dalla legge
 
@@ -38,7 +38,7 @@ Tali norme si applicano alle costruzioni di edilizia ordinaria.
 
 Le altre opere che non siano del tipo indicato nel comma precedente, come ponti, viadotti, torri ed in genere, costruzioni speciali con prevalente sviluppo verticale, sono soggette alla disciplina delle presente legge, in quanto non sia diversamente disposto da leggi speciali.
 
-##### Art. 2
+#### Art. 2
 
 Norme tecniche generali
 
@@ -54,7 +54,7 @@ Qualora le opere indicate nel terzo comma dell'articolo 1 della presente legge s
 
 In tutti i Comuni, frazioni e loro parti, anche se non riconosciuti sismici, nei quali sia intervenuto o intervenga lo Stato per opere di consolidamento di abitati, nessuna opera e nessun lavoro potranno essere eseguiti senza la preventiva autorizzazione dell'Ufficio del genio civile.
 
-##### Art. 3
+#### Art. 3
 
 Tipo delle strutture da adottare negli edifici pubblici e privati
 
@@ -64,7 +64,7 @@ Gli edifici pubblici o privati con sette o piu' piani, entro e fuori terra, debb
 
 La relativa dichiarazione e' rilasciata dal presidente del Consiglio superiore dei lavori pubblici su conforme parere dello stesso Consiglio)).
 
-##### Art. 4
+#### Art. 4
 
 Norme tecniche di buona costruzione
 
@@ -104,13 +104,11 @@ l) vietato di eseguire modifiche e lavori di grande riparazione ad edifici non r
 
 E' fatto obbligo ai proprietari, allorche' si dovesse provvedere a riparazioni di guasti del tempo oppure alla trasformazione di edifici esistenti, di ridurre, riparare o ricostruire gli edifici stessi secondo le norme precedenti e secondo quelle contenute nei regolamenti edilizi comunali.
 
-## TITOLO II - NORME PER LE LOCALITA' SISMICHE
+## TITOLO II - NORME PER LE LOCALITA' SISMICHE DI PRIMA E SECONDA CATEGORIA
 
-### DI PRIMA E SECONDA CATEGORIA
+### CAPO I - Nuove costruzioni
 
-#### CAPO I - Nuove costruzioni
-
-##### Art. 5
+#### Art. 5
 
 Terreni edificatori
 
@@ -122,7 +120,7 @@ Puo' essere consentito di costruire edifici su appicchi di roccia compatta, purc
 
 Quando il terreno e' in pendio ed atto alla costruzione, puo' consentirsi, ai fini edilizi, la sistemazione a ripiani.
 
-##### Art. 6
+#### Art. 6
 
 Larghezza delle strade e degli intervalli d'isolamento
 
@@ -136,7 +134,7 @@ La larghezza degli intervalli di isolamento tra due edifici, cioe' la distanza m
 
 In nessun caso, negli intervalli d'isolamento, potranno consentirsi costruzioni di qualsiasi tipo, anche a carattere provvisorio, salvo temporanei ingombri.
 
-##### Art. 7
+#### Art. 7
 
 Altezza massima degli edifici e numero dei piani
 
@@ -156,7 +154,7 @@ Nelle strade o terreni in pendio l'altezza massima puo' raggiungere metri 26 pur
 
 I nuovi edifici saranno costruiti a non piu' di sette piani, oltre ad un piano seminterrato o cantinato, l'altezza netta del quale non deve pero' superare metri 4,80.
 
-##### Art. 8
+#### Art. 8
 
 Altezze degli edifici, in relazione alla larghezza
 
@@ -180,7 +178,7 @@ Le Amministrazioni comunali debbono prescrivere, nei loro regolamenti edilizi, l
 
 Agli effetti del presente articolo sono computate come larghezze libere di strade o come intervalli di isolamento, rispetto unicamente a ciascun erigendo edificio, le larghezze delle aree ammessevi lungo le fronti destinate a giardini, a cortile esterno o comunque non coperte, anche se cintate o sottratte all'uso pubblico e create con terrazzamento.
 
-##### Art. 9
+#### Art. 9
 
 Sistemi costruttivi
 
@@ -194,7 +192,7 @@ Se i due edifici vengono eseguiti contemporaneamente con lo stesso sistema costr
 
 Sono ammesse costruzioni con l'uso di pannellature di materie sintetiche o di prefabbricati leggeri, previo motivato nulla osta dell'Ufficio del genio civile.
 
-##### Art. 10
+#### Art. 10
 
 Requisiti delle costituzioni non intelaiate
 
@@ -272,7 +270,7 @@ Per i solai e le coperture si rimanda alla prescrizione di cui alla lettera D) d
 
 La relativa dichiarazione d'idoneita' e' rilasciata dal presidente del Consiglio superiore dei lavori pubblici su conforme parere dello stesso Consiglio)).
 
-##### Art. 11
+#### Art. 11
 
 Requisiti delle costruzioni intelaiate
 
@@ -286,7 +284,7 @@ Nel caso di edifici nei quali l'altezza di uno o piu' piani sia superiore ai met
 
 Per quanto riguarda i tramezzi interni valgono le prescrizioni di cui all'articolo 10, lettera f), per l'una e per l'altra categoria.
 
-##### Art. 12
+#### Art. 12
 
 Calcoli di stabilita'
 
@@ -342,7 +340,7 @@ Nelle calcolazioni delle membrature in conglomerato cementizio armato devono ado
 
 Negli edifici in muratura ordinaria sono da osservarsi le prescrizioni di cui alla lettera a) del presente articolo per quanto riguarda il calcolo dei solai e delle coperture.
 
-##### Art. 13
+#### Art. 13
 
 Modalita' esecutive delle costruzioni
 
@@ -456,7 +454,7 @@ I sostegni debbono essere fissati in corrispondenza, del montanti nei fabbricati
 
 Allorche' siano eseguiti lavori di ampliamento di linee elettriche esistenti ovvero di sostituzione anche parziale delle linee stesse nelle zone nelle quali si applicano le presenti norme, devono essere, studiate ed attuate tutte le necessarie modificazioni alle distribuzioni pubbliche e private esistenti, in modo che risultino rispettate le disposizioni del presente articolo.
 
-##### Art. 14
+#### Art. 14
 
 Costruzione in legno
 
@@ -468,7 +466,7 @@ Le costole montanti degli edifici con ossatura in legno debbono essere di un sol
 
 Qualsiasi altra unione delle parti costituenti l'organismo statico e' soggetta alla prescrizione di cui al comma precedente.
 
-##### Art. 15
+#### Art. 15
 
 Osservanza delle disposizioni vigenti per l'accettazione
 
@@ -478,7 +476,7 @@ Per l'accettazione di tutti i materiali, dei leganti idraulici, delle calci aere
 
 Per la progettazione e la esecuzione delle opere in cemento armato nelle localita' sismiche, fermi restando i compiti demandati alle Prefetture dalle norme vigenti in materia, agli Uffici del genio civile, compete l'obbligo della vigilanza sull'osservanza delle presenti norme.
 
-##### Art. 16
+#### Art. 16
 
 Le norme di cui agli articoli precedenti sono inderogabili
 
@@ -488,11 +486,9 @@ Puo' altresi' essere consentita una riduzione dei coefficienti sismici indicati 
 
 La concessione delle deroghe indicate nei due commi precedenti e' subordinata ad apposita istruttoria da parte dell'Ufficio del genio civile competente ed al parere favorevole del Consiglio superiore dei lavori pubblici.
 
-## Capo II - NUOVE COSTRUZIONI NEI CENTRI ABITATI ESISTENTI,
+### Capo II - NUOVE COSTRUZIONI NEI CENTRI ABITATI ESISTENTI, RICOSTRUZIONI E SOPRAELEVAZIONI
 
-### RICOSTRUZIONI E SOPRAELEVAZIONI
-
-##### Art. 17
+#### Art. 17
 
 Altezza degli edifici in relazione alla larghezza
 
@@ -502,7 +498,7 @@ Quando non esistono piani regolatori e regolamenti edilizi, le ricostruzioni e l
 
 La decisione sulle eventuali opposizioni avverso le direttive di cui al comma precedente spetta al provveditore regionale alle opere pubbliche, il quale decide definitivamente, sentito il Comitato tecnico-amministrativo.
 
-##### Art. 18
+#### Art. 18
 
 Sistemi costruttivi - Divieti - Eccezioni
 
@@ -528,7 +524,7 @@ Nei Comuni e nelle frazioni di Comune di cui alla tabella n. 6 allegata al testo
 
 Il Ministro per i lavori pubblici ha facolta', su richiesta dei Comuni interessati e previo parere del Consiglio superiore dei lavori pubblici, di modificare i confini delle localita' dove sussiste il divieto di costruzione.
 
-##### Art. 19
+#### Art. 19
 
 Sopraelevazioni
 
@@ -552,9 +548,9 @@ Tali collegamenti e saldatura dovranno essere constatati dall'Ufficio del genio 
 
 Se il fabbricato da sopraelevare e' a due piani o piu' piani e la scala esistente sia stata costruita con i sistemi vietati dal precedente articolo 13, lettera E) essa deve essere demolita e ricostruita in conformita' delle presenti nome.
 
-## Capo III - RIPARAZIONI
+### Capo III - RIPARAZIONI
 
-##### Art. 20
+#### Art. 20
 
 Criteri generali - Divieti ed eccezioni
 
@@ -568,13 +564,13 @@ E' inoltre vietata la riparazione, nonche' la destinazione ad abitazione degli e
 
 Tuttavia, per gli edilici esistenti nelle predette localita' su appicchi di roccia compatta, puo' estendersi, anche per le riparazioni, la disposizione contenuta nel terzo comma dell'articolo 5, sempreche', con la limitazione di distanza imposta da detto comma, riesca praticamente possibile eseguire dette riparazioni, nel senso che la rimanente parte del fabbricato resti utilizzabile.
 
-##### Art. 21
+#### Art. 21
 
 Edifici non interamente distrutti
 
 Per gli edifici non interamente distrutti o demoliti sono applicabili le norme per le ricostruzioni alle parti da ricostruire e quelle per le riparazioni alle parti danneggiate, restando assolutamente vietato qualsiasi adattamento o sopraelevazione anche a carattere provvisorio.
 
-##### Art. 22
+#### Art. 22
 
 Modalita' esecutive per le riparazioni degli edifici non intelaiati
 
@@ -598,21 +594,21 @@ Le disposizioni del presente articolo si applicano soltanto a quegli stabili che
 
 9\) gli attici, le cornici, i balconi e le strutture sovrastanti ai piani di gronda, debbono essere ridotti in conformita' a quanto prescritto dall'articolo 13, lettera C) e lettera G) e le condutture di cui allo stesso articolo, lettera I), debbono essere disposte in modo da con intaccare le murature, anzi da permettere la intelaiatura.
 
-##### Art. 23
+#### Art. 23
 
 Validita' esecutive per le riparazioni degli edifici intelaiati
 
 Le membrature degli edifici intelaiati che presentino lesioni tali da renderle inutilizzabili, debbono essere demolite e ricostruite unitamente alle altre membrature ad esse connesse nella stessa funzione portante.
 
-##### Art. 24
+#### Art. 24
 
 Edifici di speciale importanza artistica
 
 Per l'esecuzione di qualsiasi lavoro di riparazione in edifici o manufatti di carattere monumentale o aventi, comunque, interesse archeologico, storico o artistico, siano essi pubblici o di privata proprieta', restano ferme le disposizioni stabilite dalle leggi 1 giugno 1939, n. 1689, e 29 giugno 1939, n. 1197.
 
-## CAPO IV. - VIGILANZA SULLE COSTRUZIONI
+### CAPO IV. - VIGILANZA SULLE COSTRUZIONI
 
-##### Art. 25
+#### Art. 25
 
 Denunzia dei lavori, presentazione ed esame dei progetti
 
@@ -636,7 +632,7 @@ All'Ufficio del genio civile compete, inoltre, la determinazione dei criteri da 
 
 Compete al Consiglio superiore dei lavori pubblici l'esame dei progetti che comportino concessioni delle deroghe previste all'articolo 16.
 
-##### Art. 26
+#### Art. 26
 
 Autorizzazione per l'inizio dei lavori
 
@@ -646,7 +642,7 @@ L'autorizzazione viene comunicata, subito dopo al rilascio, al Comune per i prov
 
 I lavori devono essere diretti da un professionista autorizzato ai sensi delle norme vigenti.
 
-##### Art. 27
+#### Art. 27
 
 Registro delle denunzie dei lavori
 
@@ -654,13 +650,13 @@ In ogni Comune deve essere tenuto un registro delle denunzie dei lavori di cui a
 
 Il registro dev'essere esibito, costantemente aggiornato, a semplice richiesta, ai funzionari dell'Ufficio del genio civile ed agli altri ufficiali ed agenti indicati nell'ultimo comma dell'articolo 38.
 
-##### Art. 28
+#### Art. 28
 
 Sanzioni
 
 Chiunque non ottemperi alle prescrizioni contenute nella presente legge o alle prescrizioni tecniche impartite dal Consiglio superiore dei lavori pubblici in base al penultimo comma dell'articolo 2, e' punito con la multa da lire 100.000 a lire 2.000.000.
 
-##### Art. 29
+#### Art. 29
 
 Accertamento delle violazioni
 
@@ -668,7 +664,7 @@ Gli ufficiali ed agenti indicati nell'articolo 38, appena accertato un fatto cos
 
 L'ingegnere capo di detto Ufficio, previ, occorrendo, ulteriori accertamenti di carattere tecnico, trasmette il processo verbale al pretore con le sue deduzioni.
 
-##### Art. 30
+#### Art. 30
 
 Sospensione dei lavori
 
@@ -680,7 +676,7 @@ Il prefetto, su richiesta dell'ingegnere capo del Genio civile, e' tenuto ad ass
 
 L'ordine di sospensione produce i suoi effetti sino alla data in cui la pronuncia dell'autorita' giudiziaria diviene irrevocabile.
 
-##### Art. 31
+#### Art. 31
 
 Procedimento
 
@@ -690,25 +686,25 @@ Dev'essere in ogni caso citato per il dibattimento l'ingegnere capo dell'Ufficio
 
 Con il decreto o con la sentenza di condanna il pretore ordina la demolizione delle opere o delle parti delle stesse costruite in difformita' alle norme della presente legge ovvero impartisce le prescrizioni necessarie per rendere le opere conformi alle norme stesse, fissando il relativo termine.
 
-##### Art. 32
+#### Art. 32
 
 Esecuzione d'ufficio
 
 Qualora il condannato non ottemperi all'ordinamento all'ordine o alle prescrizioni di cui all'articolo precedente, dati con sentenza irrevocabile o con decreto esecutivo, l'Ufficio del genio civile provvede, se del caso, con l'assistenza della forza pubblica, a spese del condannato.
 
-##### Art. 33
+#### Art. 33
 
 Competenza del provveditore alle opere pubbliche
 
 Qualora il reato sia estinto per qualsiasi causa, l'ordine di demolizione o le prescrizioni di cui all'articolo 31, terzo comma, sono dati con provvedimento definitivo dal provveditore regionale alle opere pubbliche sentito il Comitato tecnico amministrativo.
 
-##### Art. 34
+#### Art. 34
 
 Comunicazione del provvedimento al Genio civile
 
 Copia della sentenza irrevocabile o del decreto esecutivo emessi in base alle precedenti disposizioni, deve essere comunicata, a cura del cancelliere, al competente Ufficio del genio civile entro quindici giorni da quello in cui la sentenza e' divenuta irrevocabile o il decreto e' divenuto esecutivo.
 
-##### Art. 35
+#### Art. 35
 
 Modalita' per le esecuzioni di ufficio
 
@@ -720,7 +716,7 @@ La riscossione delle somme dovute dai contravventori, per il titolo suindicato e
 
 Il versamento delle somme stesse sara' fatto con imputazione ad apposito capitolo del bilancio della entrata.
 
-##### Art. 36
+#### Art. 36
 
 Provvedimenti sostitutivi del prefetto
 
@@ -728,13 +724,13 @@ Quando concorrano ragioni di particolare gravita' ed urgenza, il prefetto puo', 
 
 In tal caso, il prefetto fa rapporto al pretore per il procedimento penale in ordine alle violazioni accertate.
 
-##### Art. 37
+#### Art. 37
 
 Utilizzazione di edifici
 
 Il rilascio da parte dei prefetti della licenza d'uso per gli edifici costruiti in cemento armato e delle licenze di abitabilita' da parte dei Comuni e' condizionata alla esibizione di un certificato da rilasciarsi dall'Ufficio del genio civile che attesti la perfetta rispondenza dell'opera eseguita alle norme per l'edilizia antisismica.
 
-##### Art. 38
+#### Art. 38
 
 Vigilanza per l'osservanza delle norme tecniche
 
@@ -744,7 +740,7 @@ I funzionari del Genio civile debbono altresi' accertare se le riparazioni, rico
 
 ## TITOLO IV. - DISPOSIZIONI TRANSITORIE E FINALI
 
-##### Art. 39
+#### Art. 39
 
 Costruzioni in corso
 
@@ -756,7 +752,7 @@ Nel certificato l'Ufficio del genio civile dichiara che l'opera in corso di esec
 
 La violazione dell'obbligo della denuncia di cui al primo comma o l'inosservanza alle prescrizioni dell'Ufficio del genio civile di cui al terzo comma, sono punite con l'ammenda da lire 60.000 a lire 600.000.
 
-##### Art. 40
+#### Art. 40
 
 Costruzioni eseguite col sussidio dello Stato
 
@@ -772,7 +768,7 @@ Il valore dei fabbricati, agli effetti della determinazione del limite massimo d
 
 L'inosservanza delle prescrizioni dell'Ufficio del genio civile di cui al terzo comma del presente articolo e' punita ai sensi dell'ultimo comma dell'articolo precedente.
 
-##### Art. 41
+#### Art. 41
 
 Approvazione dei progetti ai fini
 
@@ -780,13 +776,13 @@ della concessione di sussidi statali
 
 L'approvazione dei progetti di riparazione, di ricostruzione e di nuova costruzione, ai fini della concessione di sussidi statali e' demandata all'ingegnere capo del Genio civile fino all'ammontare di lire trenta milioni, al Comitato tecnico amministrativo presso i Provveditorati regionali alle opere pubbliche fino a lire 200 milioni ed al Consiglio superiore dei lavori pubblici per importi superiori a lire 200 milioni.
 
-##### Art. 42
+#### Art. 42
 
 Opere eseguite a cura del Genio militare
 
 Le disposizioni contenute negli articoli dal 25 al 40 della presente legge non si applicano alle opere che, ai sensi delle vigenti norme, si eseguono a cura del Genio militare.
 
-##### Art. 43
+#### Art. 43
 
 Entrata in vigore della legge
 
@@ -804,7 +800,7 @@ Visto, il Guardasigilli: BOSCO
 
 ## TITOLO IV. - DISPOSIZIONI TRANSITORIE E FINALI
 
-##### Elenco
+#### Elenco
 
 Elenco dei Comuni e frazioni e parti di Comune nei quali e' obbligatoria l'osservanza delle norme tecniche di edilizia per le localita' sismiche della 1ª e della 2ª categoria.
 

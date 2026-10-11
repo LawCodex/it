@@ -44,11 +44,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I
+## Titolo I - Revisione del sistema sanzionatorio penale tributario
 
-### Revisione del sistema sanzionatorio penale tributario
-
-##### Art. 1
+#### Art. 1
 
 Modifica dell'articolo 1 del decreto legislativo
 
@@ -108,7 +106,7 @@ d) dopo la lettera g) sono aggiunte le seguenti: «g-bis) per "operazioni simula
 
 > g-ter) per "mezzi fraudolenti" si intendono condotte artificiose attive nonche' quelle omissive realizzate in violazione di uno specifico obbligo giuridico, che determinano una falsa rappresentazione della realta'.".
 
-##### Art. 2
+#### Art. 2
 
 Modifica dell'articolo 2 del decreto legislativo 10 marzo 2000, n. 74, in materia di dichiarazione fraudolenta mediante uso di fatture o altri documenti per operazioni inesistenti
 
@@ -124,7 +122,7 @@ Modifica dell'articolo 2 del decreto legislativo 10 marzo 2000, n. 74, in materi
 
 > (Omissis).".
 
-##### Art. 3
+#### Art. 3
 
 Modifica dell'articolo 3 del decreto legislativo 10 marzo 2000, n. 74, in materia di dichiarazione fraudolenta mediante altri artifici
 
@@ -142,7 +140,7 @@ b) l'ammontare complessivo degli elementi attivi sottratti all'imposizione, anch
 
 3\. Ai fini dell'applicazione della disposizione del comma 1, non costituiscono mezzi fraudolenti la mera violazione degli obblighi di fatturazione e di annotazione degli elementi attivi nelle scritture contabili o la sola indicazione nelle fatture o nelle annotazioni di elementi attivi inferiori a quelli reali.».
 
-##### Art. 4
+#### Art. 4
 
 Modifica dell'articolo 4 del decreto legislativo 10 marzo 2000, n. 74, in materia di dichiarazione infedele
 
@@ -172,7 +170,7 @@ d) la parola: "fittizi", ovunque presente, e' sostituita dalla seguente: "inesis
 
 > 1-ter. Fuori dei casi di cui al comma 1-bis, non danno luogo a fatti punibili le valutazioni che singolarmente considerate, differiscono in misura inferiore al 10 per cento da quelle corrette. Degli importi compresi in tale percentuale non si tiene conto nella verifica del superamento delle soglie di punibilita' previste dal comma 1, lettere a) e b).".
 
-##### Art. 5
+#### Art. 5
 
 Modifica dell'articolo 5 del decreto legislativo 10 marzo 2000, n. 74, in materia di omessa dichiarazione
 
@@ -192,7 +190,7 @@ b) al comma 2, le parole: "dal comma 1" sono sostituite dalle seguenti: "dai com
 
 > 2\. Ai fini della disposizione prevista dai commi 1 e 1-bis non si considera omessa la dichiarazione presentata entro novanta giorni dalla scadenza del termine o non sottoscritta o non redatta su uno stampato conforme al modello prescritto.".
 
-##### Art. 6
+#### Art. 6
 
 Modifica dell'articolo 10 del decreto legislativo 10 marzo 2000, n. 74, in materia di occultamento o di distruzione di documenti contabili
 
@@ -204,7 +202,7 @@ Modifica dell'articolo 10 del decreto legislativo 10 marzo 2000, n. 74, in mater
 
 > "Art. 10 (Occultamento o distruzione di documenti contabili). - 1. Salvo che il fatto costituisca piu' grave reato, e' punito con la reclusione da un anno e sei mesi a sei anni chiunque, al fine di evadere le imposte sui redditi o sul valore aggiunto, ovvero di consentire l'evasione a terzi, occulta o distrugge in tutto o in parte le scritture contabili o i documenti di cui e' obbligatoria la conservazione, in modo da non consentire la ricostruzione dei redditi o del volume di affari.".
 
-##### Art. 7
+#### Art. 7
 
 Modifica dell'articolo 10-bis del decreto legislativo 10 marzo 2000, n. 74, in materia di omesso versamento di ritenute certificate
 
@@ -222,7 +220,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale, con sentenza 23 giugno - 14 luglio 2022, n. 175 (in G.U. 1ª s.s. 20/07/2022 n. 29), ha dichiarato "l'illegittimita' costituzionale dell'art. 7, comma 1, lettera b), del decreto legislativo 24 settembre 2015, n. 158 (Revisione del sistema sanzionatorio, in attuazione dell'articolo 8, comma 1, della legge 11 marzo 2014, n. 23) - nella parte in cui ha inserito le parole «dovute sulla base della stessa dichiarazione o» nel testo dell'art. 10-bis del decreto legislativo 10 marzo 2000, n. 74 (Nuova disciplina dei reati in materia di imposte sui redditi e sul valore aggiunto, a norma dell'articolo 9 della legge 25 giugno 1999, n. 205) e dello stesso art. 10-bis del d.lgs. n. 74 del 2000 limitatamente alle parole «dovute sulla base della stessa dichiarazione o»" e "in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e sul funzionamento della Corte costituzionale), l'illegittimita' costituzionale dell'art. 7, comma 1, lettera a), del d.lgs. n. 158 del 2015, e dell'art. 10-bis del d.lgs. n. 74 del 2000 limitatamente alle parole «dovute o» contenute nella rubrica della disposizione".
 
-##### Art. 8
+#### Art. 8
 
 Modifica dell'articolo 10-ter del decreto legislativo 10 marzo 2000, n. 74, in materia di omesso versamento dell'imposta sul valore aggiunto
 
@@ -230,7 +228,7 @@ Modifica dell'articolo 10-ter del decreto legislativo 10 marzo 2000, n. 74, in m
 
 «Art. 10-ter (Omesso versamento di IVA). - 1. E' punito con la reclusione da sei mesi a due anni chiunque non versa, entro il termine per il versamento dell'acconto relativo al periodo d'imposta successivo, l'imposta sul valore aggiunto dovuta in base alla dichiarazione annuale, per un ammontare superiore a euro duecentocinquantamila per ciascun periodo d'imposta.».
 
-##### Art. 9
+#### Art. 9
 
 Modifica dell'articolo 10-quater del decreto legislativo 10 marzo 2000, n. 74, in materia di indebita compensazione
 
@@ -240,7 +238,7 @@ Modifica dell'articolo 10-quater del decreto legislativo 10 marzo 2000, n. 74, i
 
 2\. E' punito con la reclusione da un anno e sei mesi a sei anni chiunque non versa le somme dovute, utilizzando in compensazione, ai sensi dell'articolo 17 del decreto legislativo 9 luglio 1997, n. 241, crediti inesistenti per un importo annuo superiore ai cinquantamila euro.».
 
-##### Art. 10
+#### Art. 10
 
 Confisca
 
@@ -250,7 +248,7 @@ Confisca
 
 2\. La confisca non opera per la parte che il contribuente si impegna a versare all'erario anche in presenza di sequestro. Nel caso di mancato versamento la confisca e' sempre disposta.».
 
-##### Art. 11
+#### Art. 11
 
 Modifica dell'articolo 13 del decreto legislativo 10 marzo 2000, n. 74, in materia di cause di estinzione e circostanze del reato.
 
@@ -264,7 +262,7 @@ Pagamento del debito tributario
 
 3\. Qualora, prima della dichiarazione di apertura del dibattimento di primo grado, il debito tributario sia in fase di estinzione mediante rateizzazione, anche ai fini dell'applicabilita' dell'articolo 13-bis, e' dato un termine di tre mesi per il pagamento del debito residuo. In tal caso la prescrizione e' sospesa. Il Giudice ha facolta' di prorogare tale termine una sola volta per non oltre tre mesi, qualora lo ritenga necessario, ferma restando la sospensione della prescrizione.».
 
-##### Art. 12
+#### Art. 12
 
 Circostanze del reato
 
@@ -276,7 +274,7 @@ Circostanze del reato
 
 3\. Le pene stabilite per i delitti di cui al titolo II sono aumentate della meta' se il reato e' commesso dal concorrente nell'esercizio dell'attivita' di consulenza fiscale svolta da un professionista o da un intermediario finanziario o bancario attraverso l'elaborazione o la commercializzazione di modelli di evasione fiscale.».
 
-##### Art. 13
+#### Art. 13
 
 Custodia giudiziale dei beni sequestrati nell'ambito
 
@@ -288,7 +286,7 @@ di procedimenti penali relativi a delitti tributari
 
 2\. Restano ferme le disposizioni dell'articolo 61, comma 23, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e dell'articolo 2 del decreto-legge 16 settembre 2008, n. 143, convertito, con modificazioni, dalla legge 13 novembre 2008, n. 181.».
 
-##### Art. 14
+#### Art. 14
 
 Abrogazioni
 
@@ -306,11 +304,9 @@ b) il comma 143 dell'articolo 1 della legge 24 dicembre 2007, n. 244.
 
 ## Titolo II - Revisione del sistema sanzionatorio amministrativo
 
-### Capo I - Sanzioni tributarie non penali in materia di imposte
+### Capo I - Sanzioni tributarie non penali in materia di imposte dirette, di imposta sul valore aggiunto e di riscossione dei tributi
 
-#### dirette, di imposta sul valore aggiunto - e di riscossione dei tributi
-
-##### Art. 15
+#### Art. 15
 
 Modifiche al decreto legislativo
 
@@ -654,11 +650,9 @@ q) all'articolo 15:
 
 > 2-bis. Per l'omessa presentazione del modello di versamento contenente i dati relativi alla eseguita compensazione, si applica la sanzione di euro 100, ridotta a euro 50 se il ritardo non e' superiore a cinque giorni lavorativi.".
 
-## Capo II
+### Capo II - Sanzioni amministrative per le violazioni di norme tributarie
 
-### Sanzioni amministrative per le violazioni - di norme tributarie
-
-##### Art. 16
+#### Art. 16
 
 Modifiche al decreto legislativo
 
@@ -814,11 +808,9 @@ h) all'articolo 23, comma 1, le parole: ", ancorche' non definitivo" sono sostit
 
 > 4\. Se non sussiste giurisdizione delle commissioni tributarie, e' ammessa azione avanti al tribunale, cui e' rimesso il potere di sospensione.".
 
-## Capo III
+### Capo III - Altre disposizioni
 
-### Altre disposizioni
-
-##### Art. 17
+#### Art. 17
 
 Sanzione applicabile in caso di cessioni, risoluzioni e proroghe anche tacite dei contratti di locazione e di affitto di beni immobili
 
@@ -858,7 +850,7 @@ c) il comma 2 e' soppresso.
 
 > (Omissis).".
 
-##### Art. 18
+#### Art. 18
 
 Altre modifiche in materia di sanzioni ai fini dell'imposta di registro
 
@@ -876,7 +868,7 @@ b) all'articolo 72, comma 1, le parole: "dal duecento al quattrocento per cento"
 
 > "Art. 72 (Occultazione di corrispettivo). - 1. Se viene occultato anche in parte il corrispettivo convenuto, si applica la sanzione amministrativa dal centoventi al duecentoquaranta per cento della differenza tra l'imposta dovuta e quella gia' applicata in base al corrispettivo dichiarato, detratto, tuttavia, l'importo della sanzione eventualmente irrogata ai sensi dell'art. 71.".
 
-##### Art. 19
+#### Art. 19
 
 Associazioni sportive dilettantistiche
 
@@ -890,7 +882,7 @@ Associazioni sportive dilettantistiche
 
 > 5\. I pagamenti a favore di societa', enti o associazioni sportive dilettantistiche di cui al presente articolo e i versamenti da questi effettuati sono eseguiti, se di importo pari o superiore a 1.000 euro, tramite conti correnti bancari o postali a loro intestati ovvero secondo altre modalita' idonee a consentire all'amministrazione finanziaria lo svolgimento di efficaci controlli, che possono essere stabilite con decreto del Ministro delle finanze da emanare ai sensi dell'art. 17, comma 3, della legge 23 agosto 1988, n. 400. L'inosservanza della presente disposizione comporta l'applicazione delle sanzioni previste dall'art. 11 del decreto legislativo 18 dicembre 1997, n. 471, recante riforma delle sanzioni tributarie non penali in materia di imposte dirette, di imposta sul valore aggiunto e di riscossione dei tributi.".
 
-##### Art. 20
+#### Art. 20
 
 Modifica dell'atto di recupero
 
@@ -906,7 +898,7 @@ Modifica dell'atto di recupero
 
 > 421\. Ferme restando le attribuzioni e i poteri previsti dagli articoli 31 e seguenti del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e successive modificazioni, nonche' quelli previsti dagli articoli 51 e seguenti del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, per la riscossione dei crediti indebitamente utilizzati in tutto o in parte, anche in compensazione ai sensi dell'art. 17 del decreto legislativo 9 luglio 1997, n. 241, e successive modificazioni, nonche' per il recupero delle relative sanzioni e interessi l'Agenzia delle entrate puo' emanare apposito atto di recupero motivato da notificare al contribuente con le modalita' previste dall'art. 60 del citato decreto del Presidente della Repubblica n. 600 del 1973. La disposizione del primo periodo non si applica alle attivita' di recupero delle somme di cui all'art. 1, comma 3, del decreto-legge 20 marzo 2002, n. 36, convertito, con modificazioni, dalla legge 17 maggio 2002, n. 96, e all'art. 1, comma 2, del decreto-legge 24 dicembre 2002, n. 282, convertito, con modificazioni, dalla legge 21 febbraio 2003, n. 27.".
 
-##### Art. 21
+#### Art. 21
 
 Violazioni in materia di certificazione unica
 
@@ -944,7 +936,7 @@ b) dopo l'ultimo periodo e' aggiunto il seguente: "Se la certificazione e' corre
 
 > 6-quinquies. Le certificazioni di cui al comma 6-ter sono trasmesse in via telematica all'Agenzia delle entrate entro il 7 marzo dell'anno successivo a quello in cui le somme e i valori sono stati corrisposti. Per ogni certificazione omessa, tardiva o errata si applica la sanzione di cento euro in deroga a quanto previsto dall'art. 12, del decreto legislativo 18 dicembre 1997, n. 472, con un massimo di euro 50.000 per sostituto di imposta. Nei casi di errata trasmissione della certificazione, la sanzione non si applica se la trasmissione della corretta certificazione e' effettuata entro i cinque giorni successivi alla scadenza indicata nel primo periodo. Se la certificazione e' correttamente trasmessa entro sessanta giorni dal termine previsto nel primo periodo, la sanzione e' ridotta a un terzo, con un massimo di euro 20.000.".
 
-##### Art. 22
+#### Art. 22
 
 Violazioni degli obblighi di comunicazione degli enti
 
@@ -966,7 +958,7 @@ b) dopo l'ultimo periodo e' aggiunto il seguente: "Se la comunicazione e' corret
 
 > 26\. Gli elenchi debbono essere predisposti su supporti magnetici con le modalita' ed i termini stabiliti con decreto del Ministro delle finanze. In caso di inosservanza degli obblighi relativi a tali elenchi si applicano le sanzioni previste dall'art. 13 del d.P.R. 29 settembre 1973, n. 605, e successive modificazioni. Le modalita' e il contenuto della trasmissione sono definite con provvedimento del Direttore dell'Agenzia delle entrate. In caso di omessa, tardiva o errata trasmissione dei dati di cui al comma 25 si applica la sanzione di cento euro per ogni comunicazione in deroga a quanto previsto dall'art. 12, del decreto legislativo 18 dicembre 1997, n. 472, con un massimo di euro 50.000 per soggetto terzo. Nei casi di errata comunicazione dei dati, la sanzione non si applica se la trasmissione dei dati corretti e' effettuata entro i cinque giorni successivi alla scadenza di cui al comma 25, ovvero, in caso di segnalazione da parte dell'Agenzia delle entrate, entro i cinque giorni successivi alla segnalazione stessa. Se la comunicazione e' correttamente trasmessa entro sessanta giorni dalla scadenza di cui al comma 25, la sanzione e' ridotta a un terzo, con un massimo di euro 20.000.".
 
-##### Art. 23
+#### Art. 23
 
 Violazioni degli obblighi di comunicazione
 
@@ -1006,7 +998,7 @@ al Sistema tessera sanitaria
 
 > 6\. L'Agenzia delle entrate effettua controlli sulla correttezza dei dati trasmessi dai soggetti terzi con i poteri di cui al decreto del Presidente della Repubblica 29 settembre 1973, n. 600.".
 
-##### Art. 24
+#### Art. 24
 
 Riduzione sanzionatoria in caso di rettifiche
 
@@ -1034,7 +1026,7 @@ del CAF o del professionista
 
 > 1-bis. Nei casi di violazioni commesse ai sensi dei commi 1 e 3 del presente articolo e dell'art. 7-bis, si applicano, in quanto compatibili, le disposizioni del decreto legislativo 18 dicembre 1997, n. 472. Il centro di assistenza fiscale per il quale abbia operato il trasgressore e' obbligato solidalmente con il trasgressore stesso al pagamento di una somma pari alla sanzione irrogata.".
 
-##### Art. 25
+#### Art. 25
 
 Procedimento di computo in diminuzione
 
@@ -1108,7 +1100,7 @@ delle perdite in accertamento
 
 > Fino alla scadenza del termine stabilito nei commi precedenti l'accertamento puo' essere integrato o modificato in aumento mediante la notificazione di nuovi avvisi, in base alla sopravvenuta conoscenza di nuovi elementi. Nell'avviso devono essere specificatamente indicati, a pena di nullita', i nuovi elementi e gli atti o fatti attraverso i quali sono venuti a conoscenza dell'ufficio delle imposte.".
 
-##### Art. 26
+#### Art. 26
 
 Ulteriori modifiche in materia di imposta di registro
 
@@ -1130,7 +1122,7 @@ Per i decreti di trasferimento e gli atti da essi ricevuti, i cancellieri devono
 
 > 4\. Nei casi di cui al comma secondo dell'art. 12 la registrazione deve essere richiesta entro venti giorni dalla iscrizione nel registro delle imprese, prevista dagli articoli 2505 e seguenti del codice civile, e in ogni caso non oltre sessanta giorni dalla istituzione o dal trasferimento della sede amministrativa, legale o secondaria nel territorio dello Stato, o dalle altre operazioni di cui all'art. 4.".
 
-##### Art. 27
+#### Art. 27
 
 Modifiche in materia di imposte ipotecaria e catastale
 
@@ -1156,7 +1148,7 @@ b) al comma 2, le parole: "da lire duecentomila a lire quattro milioni." sono so
 
 > 2\. Se l'omissione riguarda trascrizioni o annotazioni soggette ad imposta fissa o non soggette ad imposta o da eseguirsi a debito, ovvero per le quali l'imposta e' stata gia' pagata entro il termine stabilito, si applica la sanzione amministrativa da euro 100 a euro 2.000, ridotta a euro 50 se la richiesta e' effettuata con ritardo non superiore a trenta giorni.".
 
-##### Art. 28
+#### Art. 28
 
 Modifiche in materia di imposta
 
@@ -1170,7 +1162,7 @@ sulle successioni e donazioni
 
 > "Art. 50 (Omissione della dichiarazione). - 1. Chi omette di presentare la dichiarazione della successione, quella sostitutiva o la dichiarazione integrativa e' punito con la sanzione amministrativa dal centoventi al duecentoquaranta per cento dell'imposta liquidata o riliquidata d'ufficio. Se non e' dovuta imposta si applica la sanzione amministrativa da lire da euro 250 a euro 1.000. Se la dichiarazione e' presentata con un ritardo non superiore a trenta giorni, si applica la sanzione amministrativa dal sessanta al centoventi per cento dell'ammontare dell'imposta liquidata o riliquidata dall'ufficio. Se non e' dovuta imposta si applica la sanzione amministrativa da euro 150 a euro 500.".
 
-##### Art. 29
+#### Art. 29
 
 Modifiche in materia di imposta di bollo
 
@@ -1192,7 +1184,7 @@ b) all'articolo 25, comma 3, dopo il primo periodo e' aggiunto il seguente: "Se 
 
 > 3\. L'omessa o infedele dichiarazione di conguaglio prevista dal quinto e dall'ultimo comma dell'art. 15 e' punita con la sanzione amministrativa dal cento al duecento per cento dell'imposta dovuta. Se la dichiarazione di conguaglio e' presentata con un ritardo non superiore a trenta giorni, si applica la sanzione amministrativa dal cinquanta al cento per cento dell'ammontare dell'imposta dovuta.".
 
-##### Art. 30
+#### Art. 30
 
 Modifiche in materia di imposta sugli intrattenimenti
 
@@ -1252,7 +1244,7 @@ b) il comma 4 e' abrogato.
 
 > 4\. (Abrogato).".
 
-##### Art. 31
+#### Art. 31
 
 Modifiche in materia di fatture
 
@@ -1326,11 +1318,9 @@ per operazioni inesistenti
 
 > 8\. Le spese di emissione della fattura e dei conseguenti adempimenti e formalita' non possono formare oggetto di addebito a qualsiasi titolo.".
 
-## Titolo III
+## Titolo III - Decorrenza degli effetti, abrogazioni e disposizioni finanziarie
 
-### Decorrenza degli effetti, - abrogazioni e disposizioni finanziarie
-
-##### Art. 32
+#### Art. 32
 
 Decorrenza degli effetti e abrogazioni
 
@@ -1348,7 +1338,7 @@ d) l'articolo 3, comma 5, del decreto legislativo 14 marzo 2011, n. 23;
 
 3\. Nell'articolo 34, comma 4, della legge 23 dicembre 2000, n. 388, le parole: "di cui al decreto legislativo 21 novembre 1997, n. 461" sono soppresse.
 
-##### Art. 33
+#### Art. 33
 
 Disposizione finanziaria
 

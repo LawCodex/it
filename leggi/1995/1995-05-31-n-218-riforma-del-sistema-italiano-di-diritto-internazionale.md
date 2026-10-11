@@ -30,7 +30,7 @@ la seguente legge:
 
 ## TITOLO I - DISPOSIZIONI GENERALI
 
-##### Art. 1 - Oggetto della legge
+#### Art. 1 - Oggetto della legge
 
 1\. La presente legge determina l'ambito della giurisdizione italiana, pone i criteri per l'individuazione del diritto applicabile e disciplina l'efficacia delle sentenze e degli atti stranieri.
 
@@ -38,7 +38,7 @@ la seguente legge:
 
 > Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
-##### Art. 2 - Convenzioni internazionali
+#### Art. 2 - Convenzioni internazionali
 
 1\. Le disposizioni della presente legge non pregiudicano l'applicazione delle convenzioni internazionali in vigore per l'Italia.
 
@@ -46,7 +46,7 @@ la seguente legge:
 
 ## TITOLO II - GIURISDIZIONE ITALIANA
 
-##### Art. 3 - Ambito della giurisdizione
+#### Art. 3 - Ambito della giurisdizione
 
 1\. La giurisdizione italiana sussiste quando il convenuto e' domiciliato o residente in Italia o vi ha un rappresentante che sia autorizzato a stare in giudizio a norma dell'articolo 77 del codice di procedura civile e negli altri casi in cui e' prevista dalla legge.
 
@@ -56,7 +56,7 @@ la seguente legge:
 
 > \- La legge 21 giugno 1971, n. 804, reca: "Ratifica ed esecuzione della convenzione concernente la competenza giurisdizionale e l'esecuzione delle decisioni in materia civile e commerciale e protocollo, firmati a Bruxelles il 27 settembre 1968".
 
-##### Art. 4 - Accettazione e deroga della giurisdizione
+#### Art. 4 - Accettazione e deroga della giurisdizione
 
 1\. Quando non vi sia giurisdizione in base all'articolo 3, essa nondimeno sussiste se le parti l'abbiano convenzionalmente accettata e tale accettazione sia provata per iscritto, ovvero il convenuto compaia nel processo senza eccepire il difetto di giurisdizione nel primo atto difensivo.
 
@@ -64,7 +64,7 @@ la seguente legge:
 
 3\. La deroga e' inefficace se il giudice o gli arbitri incaricati declinano la giurisdizione o comunque non possono conoscere della causa.
 
-##### Art. 5
+#### Art. 5
 
 (Azioni reali relative ad immobili
 
@@ -72,11 +72,11 @@ siti all'estero)
 
 1\. La giurisdizione italiana non sussiste rispetto ad azioni reali aventi ad oggetto beni immobili situati all'estero.
 
-##### Art. 6 - Questioni preliminari
+#### Art. 6 - Questioni preliminari
 
 1\. Il giudice italiano conosce, incidentalmente, le questioni che non rientrano nella giurisdizione italiana e la cui soluzione e' necessaria per decidere sulla domanda proposta.
 
-##### Art. 7 - Pendenza di un processo straniero
+#### Art. 7 - Pendenza di un processo straniero
 
 1\. Quando, nel corso del giudizio, sia eccepita la previa pendenza tra le stesse parti di domanda avente il medesimo oggetto e il medesimo titolo dinanzi a un giudice straniero, il giudice italiano, se ritiene che il provvedimento straniero possa produrre effetto per l'ordinamento italiano, sospende il giudizio. Se il giudice straniero declina la propria giurisdizione o se il provvedimento straniero non e' riconosciuto nell'ordinamento italiano, il giudizio in Italia prosegue, previa riassunzione ad istanza della parte interessata.
 
@@ -84,23 +84,23 @@ siti all'estero)
 
 3\. Nel caso di pregiudizialita' di una causa straniera, il giudice italiano puo' sospendere il processo se ritiene che il provvedimento straniero possa produrre effetti per l'ordinamento italiano.
 
-##### Art. 8 - Momento determinante della giurisdizione
+#### Art. 8 - Momento determinante della giurisdizione
 
 1\. Per la determinazione della giurisdizione italiana si applica l'articolo 5 del codice di procedura civile. Tuttavia la giurisdizione sussiste se i fatti e le norme che la determinano sopravvengono nel corso del processo.
 
-##### Art. 9 - Giurisdizione volontaria
+#### Art. 9 - Giurisdizione volontaria
 
 1\. In materia di giurisdizione volontaria, la giurisdizione sussiste, oltre che nei casi specificamente contemplati dalla presente legge e in quelli in cui e' prevista la competenza per territorio di un giudice italiano, quando il provvedimento richiesto concerne un cittadino italiano o una persona residente in Italia o quando esso riguarda situazioni o rapporti ai quali e' applicabile la legge italiana.
 
-##### Art. 10 - Materia cautelare
+#### Art. 10 - Materia cautelare
 
 1\. In materia cautelare, la giurisdizione italiana sussiste quando il provvedimento deve essere eseguito in Italia o quando il giudice italiano ha giurisdizione nel merito.
 
-##### Art. 11 - Rilevabilita' del difetto di giurisdizione
+#### Art. 11 - Rilevabilita' del difetto di giurisdizione
 
 1\. Il difetto di giurisdizione puo' essere rilevato, in qualunque stato e grado del processo, soltanto dal convenuto costituito che non abbia espressamente o tacitamente accettato la giurisdizione italiana. E' rilevato dal giudice d'ufficio, sempre in qualunque stato e grado del processo, se il convenuto e' contumace, se ricorre l'ipotesi di cui all'articolo 5, ovvero se la giurisdizione italiana e' esclusa per effetto di una norma internazionale.
 
-##### Art. 12 - Legge regolatrice del processo
+#### Art. 12 - Legge regolatrice del processo
 
 1\. Il processo civile che si svolge in Italia e' regolato dalla legge italiana.
 
@@ -108,7 +108,7 @@ siti all'estero)
 
 ### CAPO I - DISPOSIZIONI GENERALI
 
-##### Art. 13 - Rinvio
+#### Art. 13 - Rinvio
 
 1\. Quando negli articoli successivi e' richiamata la legge straniera, si tiene conto del rinvio operato dal diritto internazionale privato straniero alla legge di un altro Stato:
 
@@ -130,7 +130,7 @@ Titolo.
 
 4\. Quando la presente legge dichiara in ogni caso applicabile una convenzione internazionale si segue sempre, in materia di rinvio, la soluzione adottata dalla convenzione.
 
-##### Art. 14
+#### Art. 14
 
 (Conoscenza della legge straniera
 
@@ -140,7 +140,7 @@ applicabile)
 
 2\. Qualora il giudice non riesca ad accertare la legge straniera indicata, neanche con l'aiuto delle parti, applica la legge richiamata mediante altri criteri di collegamento eventualmente previsti per la medesima ipotesi normativa. In mancanza si applica la legge italiana.
 
-##### Art. 15
+#### Art. 15
 
 (Interpretazione e applicazione
 
@@ -148,23 +148,23 @@ della legge straniera)
 
 1\. La legge straniera e' applicata secondo i propri criteri di interpretazione e di applicazione nel tempo.
 
-##### Art. 16 - Ordine pubblico
+#### Art. 16 - Ordine pubblico
 
 1\. La legge straniera non e' applicata se i suoi effetti sono contrari all'ordine pubblico.
 
 2\. In tal caso si applica la legge richiamata mediante altri criteri di collegamento eventualmente previsti per la medesima ipotesi normativa. In mancanza si applica la legge italiana.
 
-##### Art. 17 - Norme di applicazione necessaria
+#### Art. 17 - Norme di applicazione necessaria
 
 1\. E' fatta salva la prevalenza sulle disposizioni che seguono delle norme italiane che, in considerazione del loro oggetto e del loro scopo, debbono essere applicate nonostante il richiamo alla legge straniera.
 
-##### Art. 18 - Ordinamenti plurilegislativi
+#### Art. 18 - Ordinamenti plurilegislativi
 
 1\. Se nell'ordinamento dello Stato richiamato dalle disposizioni della presente legge coesistono piu' sistemi normativi a base territoriale o personale, la legge applicabile si determina secondo i criteri utilizzati da quell'ordinamento.
 
 2\. Se tali criteri non possono essere individuati, si applica il sistema normativo con il quale il caso di specie presenta il collegamento piu' stretto.
 
-##### Art. 19
+#### Art. 19
 
 (Apolidi, rifugiati e persone
 
@@ -178,15 +178,15 @@ con piu' cittadinanze)
 
 ### CAPO II - CAPACITA' E DIRITTI DELLE PERSONE FISICHE
 
-##### Art. 20 - Capacita' giuridica delle persone fisiche
+#### Art. 20 - Capacita' giuridica delle persone fisiche
 
 1\. La capacita' giuridica delle persone fisiche e' regolata dalla loro legge nazionale. Le condizioni speciali di capacita', prescritte dalla legge regolatrice di un rapporto, sono disciplinate dalla stessa legge.
 
-##### Art. 21 - Commorienza
+#### Art. 21 - Commorienza
 
 1\. Quando occorre stabilire la sopravvivenza di una persona ad un'altra e non consta quale di esse sia morta prima, il momento della morte si accerta in base alla legge regolatrice del rapporto rispetto al quale l'accertamento rileva.
 
-##### Art. 22 - Scomparsa, assenza e morte presunta
+#### Art. 22 - Scomparsa, assenza e morte presunta
 
 1\. I presupposti e gli effetti della scomparsa, dell'assenza e della morte presunta di una persona sono regolati dalla sua ultima legge nazionale.
 
@@ -198,7 +198,7 @@ b) se l'ultima residenza della persona era in Italia;
 
 c) se l'accertamento della scomparsa, dell'assenza o della morte presunta puo' produrre effetti giuridici nell'ordinamento italiano.
 
-##### Art. 23 - Capacita' di agire delle persone fisiche
+#### Art. 23 - Capacita' di agire delle persone fisiche
 
 1\. La capacita' di agire delle persone fisiche e' regolata dalla loro legge nazionale. Tuttavia, quando la legge regolatrice di un atto prescrive condizioni speciali di capacita' di agire, queste sono regolate dalla stessa legge.
 
@@ -208,7 +208,7 @@ c) se l'accertamento della scomparsa, dell'assenza o della morte presunta puo' p
 
 4\. Le limitazioni di cui ai commi 2 e 3 non si applicano agli atti relativi a rapporti di famiglia e di successione per causa di morte, ne' agli atti relativi a diritti reali su immobili situati in uno Stato diverso da quello in cui l'atto e' compiuto.
 
-##### Art. 24 - Diritti della personalita'
+#### Art. 24 - Diritti della personalita'
 
 1\. L'esistenza ed il contenuto dei diritti della personalita' sono regolati dalla legge nazionale del soggetto; tuttavia i diritti che derivano da un rapporto di famiglia sono regolati dalla legge applicabile a tale rapporto.
 
@@ -218,7 +218,7 @@ c) se l'accertamento della scomparsa, dell'assenza o della morte presunta puo' p
 
 ### CAPO III - PERSONE GIURIDICHE
 
-##### Art. 25 - Societa' ed altri enti
+#### Art. 25 - Societa' ed altri enti
 
 1\. Le societa', le associazioni, le fondazioni ed ogni altro ente, pubblico o privato, anche se privo di natura associativa, sono disciplinati dalla legge dello Stato nel cui territorio e' stato perfezionato il procedimento di costituzione. Si applica, tuttavia, la legge italiana se la sede dell'amministrazione e' situata in Italia, ovvero se in Italia si trova l'oggetto principale di tali enti.
 
@@ -248,25 +248,25 @@ i) le conseguenze delle violazioni della legge o dell'atto costitutivo.
 
 ### CAPO IV - RAPPORTI DI FAMIGLIA
 
-##### Art. 26 - Promessa di matrimonio
+#### Art. 26 - Promessa di matrimonio
 
 1\. La promessa di matrimonio e le conseguenze della sua violazione sono regolate dalla legge nazionale comune dei nubendi o, in mancanza, dalla legge italiana.
 
-##### Art. 27 - Condizioni per contrarre matrimonio
+#### Art. 27 - Condizioni per contrarre matrimonio
 
 1\. La capacita' matrimoniale e le altre condizioni per contrarre matrimonio sono regolate dalla legge nazionale di ciascun nubendo al momento del matrimonio. Resta salvo lo stato libero che uno dei nubendi abbia acquistato per effetto di un giudicato italiano o riconosciuto in Italia.
 
-##### Art. 28 - Forma del matrimonio
+#### Art. 28 - Forma del matrimonio
 
 1\. Il matrimonio e' valido, quanto alla forma, se e' considerato tale dalla legge del luogo di celebrazione o dalla legge nazionale di almeno uno dei coniugi al momento della celebrazione o dalla legge dello Stato di comune residenza in tale momento.
 
-##### Art. 29 - Rapporti personali tra coniugi
+#### Art. 29 - Rapporti personali tra coniugi
 
 1\. I rapporti personali tra coniugi sono regolati dalla legge nazionale comune.
 
 2\. I rapporti personali tra coniugi aventi diverse cittadinanze o piu' cittadinanze comuni sono regolati dalla legge dello Stato nel quale la vita matrimoniale e' prevalentemente localizzata.
 
-##### Art. 30 - Rapporti patrimoniali tra coniugi
+#### Art. 30 - Rapporti patrimoniali tra coniugi
 
 1\. I rapporti patrimoniali tra coniugi sono regolati dalla legge applicabile ai loro rapporti personali. I coniugi possono tuttavia convenire per iscritto che i loro rapporti patrimoniali sono regolati dalla legge dello Stato di cui almeno uno di essi e' cittadino o nel quale almeno uno di essi risiede.
 
@@ -274,7 +274,7 @@ i) le conseguenze delle violazioni della legge o dell'atto costitutivo.
 
 3\. Il regime dei rapporti patrimoniali fra coniugi regolato da una legge straniera e' opponibile ai terzi solo se questi ne abbiano avuto conoscenza o lo abbiano ignorato per loro colpa. Relativamente ai diritti reali su beni immobili, l'opponibilita' e' limitata ai casi in cui siano state rispettate le forme di pubblicita' prescritte dalla legge dello Stato in cui i beni si trovano.
 
-##### Art. 30-bis
+#### Art. 30-bis
 
 (( (Contratti di convivenza). ))
 
@@ -282,7 +282,7 @@ i) le conseguenze delle violazioni della legge o dell'atto costitutivo.
 
 2\. Sono fatte salve le norme nazionali, europee ed internazionali che regolano il caso di cittadinanza plurima)).
 
-##### Art. 31 - Scelta della legge applicabile al divorzio e alla separazione personale
+#### Art. 31 - Scelta della legge applicabile al divorzio e alla separazione personale
 
 1\. La separazione personale e lo scioglimento del matrimonio sono regolati dalla legge designata dal regolamento n. 2010/1259/UE del Consiglio del 20 dicembre 2010 relativo ad una cooperazione rafforzata nel settore della legge applicabile al divorzio e alla separazione personale, e successive modificazioni.
 
@@ -304,17 +304,17 @@ AGGIORNAMENTO (8)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-##### Art. 32 - Giurisdizione in materia di nullita', annullamento, separazione personale e scioglimento del matrimonio
+#### Art. 32 - Giurisdizione in materia di nullita', annullamento, separazione personale e scioglimento del matrimonio
 
 1\. In materia di nullita' e di annullamento del matrimonio, di separazione personale e di scioglimento del matrimonio, la giurisdizione italiana sussiste, oltre che nei casi previsti dall'articolo 3, anche quando uno dei coniugi e' cittadino italiano o il matrimonio e' stato celebrato in Italia.
 
-##### Art. 32-bis
+#### Art. 32-bis
 
 (( (Matrimonio contratto all'estero da cittadini italiani dello stesso sesso).))
 
 ((1. Il matrimonio contratto all'estero da cittadini italiani con persona dello stesso sesso produce gli effetti dell'unione civile regolata dalla legge italiana.))
 
-##### Art. 32-ter
+#### Art. 32-ter
 
 (( (Unione civile tra persone maggiorenni dello stesso sesso).))
 
@@ -328,7 +328,7 @@ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n.
 
 5\. Alle obbligazioni alimentari si applica l'articolo 45.))
 
-##### Art. 32-quater
+#### Art. 32-quater
 
 (( (Scioglimento dell'unione civile).))
 
@@ -336,13 +336,13 @@ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n.
 
 2\. Lo scioglimento dell'unione civile e' regolato dalla legge applicabile al divorzio in conformita' al regolamento n. 1259/2010/UE del Consiglio del 20 dicembre 2010 relativo ad una cooperazione rafforzata nel settore della legge applicabile al divorzio e alla separazione personale.))
 
-##### Art. 32-quinquies
+#### Art. 32-quinquies
 
 (( (Unione civile costituita all'estero tra cittadini italiani dello stesso sesso).))
 
 ((1. L'unione civile, o altro istituto analogo, costituiti all'estero tra cittadini italiani dello stesso sesso abitualmente residenti in Italia produce gli effetti dell'unione civile regolata dalla legge italiana.))
 
-##### Art. 33
+#### Art. 33
 
 ((Filiazione))
 
@@ -354,11 +354,11 @@ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n.
 
 4\. Sono di applicazione necessaria le norme del diritto italiano che sanciscono l'unicita' dello stato di figlio.))
 
-##### Art. 34
+#### Art. 34
 
 ((ARICOLO ABROGATO DAL D.LGS. 28 DICEMBRE 2013, N. 154))
 
-##### Art. 35 - Riconoscimento di figlio ((...))
+#### Art. 35 - Riconoscimento di figlio ((...))
 
 ((1. Le condizioni per il riconoscimento del figlio sono regolate dalla legge nazionale del figlio al momento della nascita, o se piu' favorevole, dalla legge nazionale del soggetto che fa il riconoscimento, nel momento in cui questo avviene; se tali leggi non prevedono il riconoscimento si applica la legge italiana.))
 
@@ -366,11 +366,11 @@ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n.
 
 3\. La forma del riconoscimento e' regolata dalla legge dello Stato in cui esso e' fatto o da quella che ne disciplina la sostanza.
 
-##### Art. 36 - Rapporti tra genitori e figli
+#### Art. 36 - Rapporti tra genitori e figli
 
 1\. I rapporti personali e patrimoniali tra genitori e figli, compresa la ((responsabilita' genitoriale)), sono regolati dalla legge nazionale del figlio.
 
-##### Art. 36-bis
+#### Art. 36-bis
 
 ((1. Nonostante il richiamo ad altra legge, si applicano in ogni caso le norme del diritto italiano che:
 
@@ -380,7 +380,7 @@ b) stabiliscono il dovere di entrambi i genitori di provvedere al mantenimento d
 
 c) attribuiscono al giudice il potere di adottare provvedimenti limitativi o ablativi della responsabilita' genitoriale in presenza di condotte pregiudizievoli per il figlio.))
 
-##### Art. 37 - Giurisdizione in materia di filiazione
+#### Art. 37 - Giurisdizione in materia di filiazione
 
 1\. In materia di filiazione e di rapporti personali fra genitori e figli la giurisdizione italiana sussiste, oltre che nei casi previsti rispettivamente dagli articoli 3 e 9, anche quando uno dei genitori o il figlio e' cittadino italiano o risiede in Italia.
 
@@ -388,17 +388,17 @@ c) attribuiscono al giudice il potere di adottare provvedimenti limitativi o abl
 
 ### CAPO V - ADOZIONE
 
-##### Art. 38 - Adozione
+#### Art. 38 - Adozione
 
 1\. I presupposti, la costituzione e la revoca dell'adozione sono regolati dal diritto nazionale dell'adottante o degli adottanti se comune o, in mancanza, dal diritto dello Stato nel quale gli adottanti sono entrambi residenti, ovvero da quello dello Stato nel quale la loro vita matrimoniale e' prevalentemente localizzata, al momento dell'adozione. Tuttavia si applica il diritto italiano quando e' richiesta al giudice italiano l'adozione di un minore, idonea ad attribuirgli lo stato di figlio ((...)).
 
 2\. E' in ogni caso salva l'applicazione della legge nazionale dell'adottando maggiorenne per la disciplina dei consensi che essa eventualmente richieda.
 
-##### Art. 39 - Rapporto fra adottato e famiglia adottiva
+#### Art. 39 - Rapporto fra adottato e famiglia adottiva
 
 1\. I rapporti personali e patrimoniali fra l'adottato e l'adottante o gli adottanti ed i parenti di questi sono regolati dal diritto nazionale dell'adottante o degli adottanti se comune o, in mancanza, dal diritto dello Stato nel quale gli adottanti sono entrambi residenti ovvero da quello dello Stato nel quale la loro vita matrimoniale e' prevalentemente localizzata.
 
-##### Art. 40 - Giurisdizione in materia di adozione
+#### Art. 40 - Giurisdizione in materia di adozione
 
 1\. I giudici italiani hanno giurisdizione in materia di adozione allorche':
 
@@ -408,7 +408,7 @@ b) l'adottando e' un minore in stato di abbandono in Italia.
 
 2\. In materia di rapporti personali o patrimoniali fra l'adottato e l'adottante o gli adottanti ed i parenti di questi i giudici italiani hanno giurisdizione, oltre che nelle ipotesi previste dall'articolo 3, ogni qualvolta l'adozione si e' costituita in base al diritto italiano.
 
-##### Art. 41
+#### Art. 41
 
 (Riconoscimento dei provvedimenti stranieri
 
@@ -420,11 +420,9 @@ in materia di adozione)
 
 ## TITOLO III - DIRITTO APPLICABILE
 
-### CAPO VI - PROTEZIONE DEGLI INCAPACI E OBBLIGHI
+### CAPO VI - PROTEZIONE DEGLI INCAPACI E OBBLIGHI ALIMENTARI
 
-#### ALIMENTARI
-
-##### Art. 42
+#### Art. 42
 
 (Giurisdizione e legge applicabile in materia
 
@@ -438,13 +436,13 @@ di protezione dei minori)
 
 > \- La legge 24 ottobre 1980, n. 742, reca: Ratifica ed esecuzione della convenzione sulla competenza delle autorita' e sulla legge applicabile in materia di protezione dei minori, adottata a L'Aja il 5 ottobre 1961".
 
-##### Art. 43 - Protezione dei maggiori d'eta'
+#### Art. 43 - Protezione dei maggiori d'eta'
 
 1\. I presupposti e gli effetti delle misure di protezione degli incapaci maggiori di eta', nonche' i rapporti fra l'incapace e chi ne ha la cura, sono regolati dalla legge nazionale dell'incapace.
 
 Tuttavia, per proteggere in via provvisoria e urgente la persona o i beni dell'incapace, il giudice italiano puo' adottare le misure previste dalla legge italiana.
 
-##### Art. 44
+#### Art. 44
 
 (Giurisdizione in materia di protezione
 
@@ -454,7 +452,7 @@ dei maggiori d'eta')
 
 2\. Quando in base all'articolo 66 nell'ordinamento italiano si producono gli effetti di un provvedimento straniero in materia di capacita' di uno straniero, la giurisdizione italiana sussiste per pronunciare i provvedimenti modificativi o integrativi eventualmente necessari.
 
-##### Art. 45
+#### Art. 45
 
 (( (Obbligazioni alimentari nella famiglia).))
 
@@ -464,7 +462,7 @@ dei maggiori d'eta')
 
 ### CAPO VII - SUCCESSIONI
 
-##### Art. 46 - Successione per causa di morte
+#### Art. 46 - Successione per causa di morte
 
 1\. La successione per causa di morte e' regolata dalla legge nazionale del soggetto della cui eredita' si tratta, al momento della morte.
 
@@ -474,19 +472,19 @@ Nell'ipotesi di successione di un cittadino italiano, la scelta non pregiudica i
 
 3\. La divisione ereditaria e' regolata dalla legge applicabile alla successione, salvo che i condividenti, d'accordo fra loro, abbiano designato la legge del luogo d'apertura della successione o del luogo ove si trovano uno o piu' beni ereditari.
 
-##### Art. 47 - Capacita' di testare
+#### Art. 47 - Capacita' di testare
 
 1\. La capacita' di disporre per testamento, di modificarlo o di revocarlo e' regolata dalla legge nazionale del disponente al momento del testamento, della modifica o della revoca.
 
-##### Art. 48 - Forma del testamento
+#### Art. 48 - Forma del testamento
 
 1\. Il testamento e' valido, quanto alla forma, se e' considerato tale dalla legge dello Stato nel quale il testatore ha disposto, ovvero dalla legge dello Stato di cui il testatore, al momento del testamento o della morte, era cittadino o dalla legge dello Stato in cui aveva il domicilio o la residenza.
 
-##### Art. 49 - Successione dello Stato
+#### Art. 49 - Successione dello Stato
 
 1\. Quando la legge applicabile alla successione, in mancanza di successibili, non attribuisce la successione allo Stato, i beni ereditari esistenti in Italia sono devoluti allo Stato italiano.
 
-##### Art. 50 - Giurisdizione in materia successoria
+#### Art. 50 - Giurisdizione in materia successoria
 
 1\. In materia successoria la giurisdizione italiana sussiste:
 
@@ -504,25 +502,25 @@ e) se la domanda concerne beni situati in Italia.
 
 ### CAPO VIII - DIRITTI REALI
 
-##### Art. 51 - Possesso e diritti reali
+#### Art. 51 - Possesso e diritti reali
 
 1\. Il possesso, la proprieta' e gli altri diritti reali sui beni mobili ed immobili sono regolati dalla legge dello Stato in cui i beni si trovano.
 
 2\. La stessa legge ne regola l'acquisto e la perdita, salvo che in materia successoria e nei casi in cui l'attribuzione di un diritto reale dipenda da un rapporto di famiglia o da un contratto.
 
-##### Art. 52 - Diritti reali su beni in transito
+#### Art. 52 - Diritti reali su beni in transito
 
 1\. I diritti reali su beni in transito sono regolati dalla legge del luogo di destinazione.
 
-##### Art. 53 - Usucapione di beni mobili
+#### Art. 53 - Usucapione di beni mobili
 
 1\. L'usucapione di beni mobili e' regolata dalla legge dello Stato in cui il bene si trova al compimento del termine prescritto.
 
-##### Art. 54 - Diritti su beni immateriali
+#### Art. 54 - Diritti su beni immateriali
 
 1\. I diritti su beni immateriali sono regolati dalla legge dello Stato di utilizzazione.
 
-##### Art. 55
+#### Art. 55
 
 (Pubblicita' degli atti relativi
 
@@ -534,7 +532,7 @@ ai diritti reali)
 
 ### CAPO IX - DONAZIONI
 
-##### Art. 56 - Donazioni
+#### Art. 56 - Donazioni
 
 1\. Le donazioni sono regolate dalla legge nazionale del donante al momento della donazione.
 
@@ -546,7 +544,7 @@ ai diritti reali)
 
 ### CAPO X - OBBLIGAZIONI CONTRATTUALI
 
-##### Art. 57 - Obbligazioni contrattuali
+#### Art. 57 - Obbligazioni contrattuali
 
 1\. Le obbligazioni contrattuali sono in ogni caso regolate dalla Convenzione di Roma del 19 giugno 1980 sulla legge applicabile alle obbligazioni contrattuali, resa esecutiva con la legge 18 dicembre 1984, n. 975, senza pregiudizio delle altre convenzioni internazionali, in quanto applicabili.
 
@@ -558,11 +556,11 @@ ai diritti reali)
 
 ### CAPO XI - OBBLIGAZIONI NON CONTRATTUALI
 
-##### Art. 58 - Promessa unilaterale
+#### Art. 58 - Promessa unilaterale
 
 1\. La promessa unilaterale e' regolata dalla legge dello Stato in cui viene manifestata.
 
-##### Art. 59 - Titoli di credito
+#### Art. 59 - Titoli di credito
 
 1\. La cambiale, il vaglia cambiario e l'assegno sono in ogni caso regolati dalle disposizioni contenute nelle Convenzioni di Ginevra del 7 giugno 1930, sui conflitti di legge in materia di cambiale e di vaglia cambiario, di cui al regio decreto-legge 25 agosto 1932, n. 1130, convertito dalla legge 22 dicembre 1932, n. 1946, e del 19 marzo 1931, sui conflitti di legge in materia di assegni bancari, di cui al regio decreto-legge 24 agosto 1933, n. 1077, convertito dalla legge 4 gennaio 1934, n. 61.
 
@@ -576,23 +574,23 @@ ai diritti reali)
 
 > \- Il R.D.L. 24 agosto 1933, n. 1077, convertito dalla legge 4 gennaio 1934, n. 61, reca: "Esecuzione alle convenzioni stipulate a Ginevra il 19 marzo 1931, fra l'Italia ed altri Stati, per l'unificazione del diritto cambiario".
 
-##### Art. 60 - Rappresentanza volontaria
+#### Art. 60 - Rappresentanza volontaria
 
 1\. La rappresentanza volontaria e' regolata dalla legge dello Stato in cui il rappresentante ha la propria sede d'affari sempre che egli agisca a titolo professionale e che tale sede sia conosciuta o conoscibile dal terzo. In assenza di tali condizioni si applica la legge dello Stato in cui il rappresentante esercita in via principale i suoi poteri nel caso concreto.
 
 2\. L'atto di conferimento dei poteri di rappresentanza e' valido, quanto alla forma, se considerato tale dalla legge che ne regola la sostanza oppure dalla legge dello Stato in cui e' posto in essere.
 
-##### Art. 61 - Obbligazioni nascenti dalla legge
+#### Art. 61 - Obbligazioni nascenti dalla legge
 
 1\. La gestione di affari altrui, l'arricchimento senza causa, il pagamento dell'indebito e le altre obbligazioni legali, non diversamente regolate dalla presente legge, sono sottoposti alla legge dello Stato in cui si e' verificato il fatto da cui deriva l'obbligazione.
 
-##### Art. 62 - Responsabilita' per fatto illecito
+#### Art. 62 - Responsabilita' per fatto illecito
 
 1\. La responsabilita' per fatto illecito e' regolata dalla legge dello Stato in cui si e' verificato l'evento. Tuttavia il danneggiato puo' chiedere l'applicazione della legge dello Stato in cui si e' verificato il fatto che ha causato il danno.
 
 2\. Qualora il fatto illecito coinvolga soltanto cittadini di un medesimo Stato in esso residenti, si applica la legge di tale Stato.
 
-##### Art. 63
+#### Art. 63
 
 (Responsabilita' extracontrattuale per danno
 
@@ -600,11 +598,9 @@ da prodotto)
 
 1\. La responsabilita' per danno da prodotto e' regolata, a scelta del danneggiato, dalla legge dello Stato in cui si trova il domicilio o l'amministrazione del produttore, oppure da quella dello Stato in cui il prodotto e' stato acquistato, a meno che il produttore provi che il prodotto vi e' stato immesso in commercio senza il suo consenso.
 
-## TITOLO IV - EFFICACIA DI SENTENZE
+## TITOLO IV - EFFICACIA DI SENTENZE ED ATTI STRANIERI
 
-### ED ATTI STRANIERI
-
-##### Art. 64 - Riconoscimento di sentenze straniere
+#### Art. 64 - Riconoscimento di sentenze straniere
 
 1\. La sentenza straniera e' riconosciuta in Italia senza che sia necessario il ricorso ad alcun procedimento quando:
 
@@ -622,11 +618,11 @@ f) non pende un processo davanti a un giudice italiano per il medesimo oggetto e
 
 g) le sue disposizioni non producono effetti contrari all'ordine pubblico.
 
-##### Art. 65 - Riconoscimento di provvedimenti stranieri
+#### Art. 65 - Riconoscimento di provvedimenti stranieri
 
 1\. Hanno effetto in Italia i provvedimenti stranieri relativi alla capacita' delle persone nonche' all'esistenza di rapporti di famiglia o di diritti della personalita' quando essi sono stati pronunciati dalle autorita' dello Stato la cui legge e' richiamata dalle norme della presente legge o producono effetti nell'ordinamento di quello Stato, anche se pronunciati da autorita' di altro Stato, purche' non siano contrari all'ordine pubblico e siano stati rispettati i diritti essenziali della difesa.
 
-##### Art. 66
+#### Art. 66
 
 (Riconoscimento di provvedimenti stranieri
 
@@ -634,7 +630,7 @@ di giurisdizione volontaria)
 
 1\. I provvedimenti stranieri di volontaria giurisdizione sono riconosciuti senza che sia necessario il ricorso ad alcun procedimento, sempre che siano rispettate le condizioni di cui all'articolo 65, in quanto applicabili, quando sono pronunciati dalle autorita' dello Stato la cui legge e' richiamata dalle disposizioni della presente legge, o producono effetti nell'ordinamento di quello Stato ancorche' emanati da autorita' di altro Stato, ovvero sono pronunciati da un'autorita' che sia competente in base a criteri corrispondenti a quelli propri dell'ordinamento italiano.
 
-##### Art. 67 - Attuazione di sentenze e provvedimenti stranieri di giurisdizione volontaria e contestazione del riconoscimento
+#### Art. 67 - Attuazione di sentenze e provvedimenti stranieri di giurisdizione volontaria e contestazione del riconoscimento
 
 1\. In caso di mancata ottemperanza o di contestazione del riconoscimento della sentenza straniera o del provvedimento straniero di volontaria giurisdizione, ovvero quando sia necessario procedere ad esecuzione forzata, chiunque vi abbia interesse puo' chiedere ((all'autorita' giudiziaria ordinaria)) l'accertamento dei requisiti del riconoscimento. ((3))
 
@@ -652,7 +648,7 @@ Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, commi 1 e 2) che 
 
 2\. Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
 
-##### Art. 68
+#### Art. 68
 
 (Attuazione ed esecuzione di atti pubblici
 
@@ -660,7 +656,7 @@ ricevuti all'estero)
 
 1\. Le norme di cui all'articolo 67 si applicano anche rispetto all'attuazione e all'esecuzione forzata in Italia di atti pubblici ricevuti in uno Stato estero e ivi muniti di forza esecutiva.
 
-##### Art. 69
+#### Art. 69
 
 (Assunzione di mezzi di prova disposti da
 
@@ -676,11 +672,11 @@ giudici stranieri)
 
 5\. L'assunzione o l'espletamento richiesti sono disciplinati dalla legge italiana. Tuttavia si osservano le forme espressamente richieste dall'autorita' giudiziaria straniera in quanto compatibili con i principi dell'ordinamento italiano.
 
-##### Art. 70 - Esecuzione richiesta in via diplomatica
+#### Art. 70 - Esecuzione richiesta in via diplomatica
 
 1\. Se la richiesta per l'assunzione di mezzi di prova di atti di istruzione e' fatta in via diplomatica e la parte interessata non ha costituito un procuratore che ne promuova l'assunzione, i provvedimenti necessari per questa sono pronunciati d'ufficio dal giudice procedente e le notificazioni sono fatte a cura del cancelliere.
 
-##### Art. 71 - Notificazione di atti di autorita' straniere
+#### Art. 71 - Notificazione di atti di autorita' straniere
 
 1\. La notificazione di citazioni a comparire davanti ad autorita' straniere o di altri atti provenienti da uno Stato estero e' autorizzata dal pubblico ministero presso il tribunale nella cui giurisdizione la notificazione si deve eseguire.
 
@@ -690,19 +686,19 @@ giudici stranieri)
 
 ## TITOLO V - DISPOSIZIONI TRANSITORIE E FINALI
 
-##### Art. 72 - Disposizioni transitorie
+#### Art. 72 - Disposizioni transitorie
 
 1\. La presente legge si applica in tutti i giudizi iniziati dopo la data della sua entrata in vigore, fatta salva l'applicabilita' alle situazioni esaurite prima di tale data delle previgenti norme di diritto internazionale privato.
 
 2\. I giudizi pendenti sono decisi dal giudice italiano se i fatti e le norme che determinano la giurisdizione sopravvengono nel corso del processo.
 
-##### Art. 73
+#### Art. 73
 
 (( (Abrogazioni).
 
 ((1. Sono abrogati gli articoli dal 17 al 31 delle disposizioni sulla legge in generale premesse al codice civile, nonche' gli articoli 2505 e 2509 del codice civile e gli articoli 2, 3, 4 e 37, secondo comma, del codice di procedura civile; gli articoli dal 796 all'805 del codice di procedura civile sono abrogati a far data dal 31 dicembre 1996.))
 
-##### Art. 74
+#### Art. 74
 
 (( (Entrata in vigore).
 

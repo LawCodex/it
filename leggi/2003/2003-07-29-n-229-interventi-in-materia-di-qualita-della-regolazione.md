@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## CAPO I - NUOVA DISCIPLINA IN MATERIA DI SEMPLIFICAZIONE
+## CAPO I - NUOVA DISCIPLINA IN MATERIA DI SEMPLIFICAZIONE E RIASSETTO NORMATIVO
 
-### E RIASSETTO NORMATIVO
-
-#### ART. 1 - Riassetto normativo e codificazione
+### ART. 1 - Riassetto normativo e codificazione
 
 1\. L'articolo 20 della legge 15 marzo 1997, n. 59, e successive modificazioni, e' sostituito dal seguente:
 
@@ -192,7 +190,7 @@ g) regolazione, ove possibile, di tutti gli aspetti organizzativi e di tutte le 
 
 > Le regioni, per le materie di loro competenza, provvederanno con legge nel termine previsto dal comma precedente.».
 
-#### Art. 2
+### Art. 2
 
 Riassetto normativo in materia di produzione normativa,
 
@@ -218,7 +216,7 @@ f) previsione e definizione di procedure di verifica dell'impatto regolatorio, a
 
 4\. Il decreto legislativo di cui al comma 1 e' emanato previo parere delle Commissioni parlamentari competenti reso entro il termine di sessanta giorni dal ricevimento della richiesta.
 
-#### Art. 3
+### Art. 3
 
 Riassetto normativo in materia di sicurezza del lavoro
 
@@ -248,7 +246,7 @@ m) modifica o integrazione delle discipline vigenti per i singoli settori intere
 
 n) esclusione di qualsiasi onere finanziario per il lavoratore in relazione all'adozione delle misure relative alla sicurezza, all'igiene e alla tutela della salute dei lavoratori.
 
-#### Art. 4
+### Art. 4
 
 Riassetto in materia di assicurazioni
 
@@ -278,7 +276,7 @@ h) riformulazione dell'apparato sanzionatorio alla luce dei principi generali in
 
 i) riassetto della disciplina dei rapporti tra l'ISVAP e il Governo, in ordine alle procedure di crisi cui sono assoggettate le imprese di assicurazione.
 
-#### Art. 5
+### Art. 5
 
 Riassetto in materia di incentivi alle attivita' produttive
 
@@ -292,7 +290,7 @@ c) delegificazione e rinvio alla normazione regolamentare dello Stato e alla nor
 
 d) definizione, tra i principi fondamentali per la legislazione regionale, della priorita' di intervento a favore delle attivita' produttive situate nelle aree territoriali meno sviluppate e nelle zone montane, del raccordo tra i diversi strumenti di incentivazione anche di carattere fiscale, della previsione di procedure semplificate per le imprese artigiane e le piccole e medie imprese.
 
-#### Art. 6
+### Art. 6
 
 Riassetto in materia di prodotti alimentari
 
@@ -310,7 +308,7 @@ e) semplificazione delle procedure esistenti, eliminando quelle che pongono a ca
 
 f) distinzione tra norme di produzione e di commercializzazione, con particolare riferimento agli aspetti tecnici e merceologici, norme concernenti il controllo dei prodotti, norme concernenti la istituzione di un unico sistema sanzionatorio.
 
-#### Art. 7
+### Art. 7
 
 Riassetto in materia di tutela dei consumatori
 
@@ -324,7 +322,7 @@ c) conclusione, in materia di contratti a distanza, del regime di vigenza transi
 
 d) coordinamento, nelle procedure di composizione extragiudiziale delle controversie, dell'intervento delle associazioni dei consumatori, nel rispetto delle raccomandazioni della Commissione delle Comunita' europee.
 
-#### Art. 8
+### Art. 8
 
 Riassetto in materia di metrologia legale
 
@@ -336,7 +334,7 @@ b) semplificazione e deregolamentazione degli adempimenti amministrativi per gli
 
 c) armonizzazione della disciplina con le raccomandazioni e le indicazioni dell'Unione europea e degli organismi internazionali sui pesi e sulle misure.
 
-#### Art. 9
+### Art. 9
 
 Riassetto in materia di internazionalizzazione delle imprese
 
@@ -366,7 +364,7 @@ Qualora detto termine venga a scadere nei trenta giorni antecedenti alla scadenz
 
 1-quinquies. Entro un anno dalla data di entrata in vigore dei decreti legislativi di cui al comma 1-bis, il Governo puo' emanare disposizioni correttive e integrative, nel rispetto dei principi e criteri direttivi di cui al comma 1-ter e con la procedura di cui al comma 1-quater ))
 
-#### Art. 10
+### Art. 10
 
 Riassetto in materia di societa' dell'informazione
 
@@ -396,7 +394,7 @@ e) le modalita' di accesso informatico ai documenti e alle banche dati di compet
 
 3\. Il Governo e' delegato ad adottare uno o piu' decreti legislativi recanti disposizioni correttive e integrative dei decreti legislativi di cui al comma 1, nel rispetto degli oggetti e dei principi e criteri direttivi determinati dal presente articolo, entro (( quindici mesi )) decorrenti dalla data di scadenza del termine di cui al medesimo comma 1.
 
-#### Art. 11
+### Art. 11
 
 Riassetto delle disposizioni relative
 
@@ -418,11 +416,9 @@ c) coordinamento e adeguamento della normativa alle disposizioni comunitarie e a
 
 2\. All'attuazione ed esecuzione delle disposizioni emanate ai sensi del comma 1 si provvede con uno o piu' regolamenti, da emanare ai sensi dell'articolo 17, commi 1 e 3, della legge 23 agosto 1988, n. 400, e successive modificazioni, entro dodici mesi dalla data di entrata in vigore dei decreti legislativi di cui al citato comma 1.
 
-## CAPO II - DISPOSIZIONI IN MATERIA DI ANALISI DI IMPATTO
+## CAPO II - DISPOSIZIONI IN MATERIA DI ANALISI DI IMPATTO DELLA REGOLAMENTAZIONE E DI ATTI NORMATIVI GOVERNATIVI. DISPOSIZIONI IN MATERIA DI PUBBLICO IMPIEGO
 
-### DELLA REGOLAMENTAZIONE E DI ATTI NORMATIVI GOVERNATIVI. - DISPOSIZIONI IN MATERIA DI PUBBLICO IMPIEGO
-
-#### ART. 12
+### ART. 12
 
 (Analisi di impatto delle funzioni di vigilanza e regolazione
 
@@ -440,7 +436,7 @@ delle autorita' amministrative indipendenti).
 
 > \- La legge 10 ottobre 1990, n. 287, e successive modificazioni, reca: «Norme per la tutela della concorrenza e del mercato».
 
-#### ART. 13
+### ART. 13
 
 (Disposizioni relative all'attivita' della Corte dei conti
 
@@ -510,7 +506,7 @@ e all'accesso alla magistratura della Corte dei conti).
 
 > Alla lettera a) dell'art. 45 del regio decreto 12 ottobre 1933, n. 1364, sono soppresse le parole "della regia universita' di Roma".».
 
-#### ART. 14 - Modifiche al decreto legislativo 30 marzo 2001, n. 165
+### ART. 14 - Modifiche al decreto legislativo 30 marzo 2001, n. 165
 
 1\. Al comma 2, primo periodo, dell'articolo 28 del decreto legislativo 30 marzo 2001, n. 165, come sostituito dall'articolo 3 della legge 15 luglio 2002, n. 145, dopo le parole: "almeno cinque anni di servizio", sono inserite le seguenti: "o, se in possesso del diploma di specializzazione conseguito presso le scuole di specializzazione individuate con decreto del Presidente del Consiglio dei ministri, di concerto con il Ministro dell'istruzione, dell'universita' e della ricerca, almeno tre anni di servizio".
 
@@ -564,7 +560,7 @@ e all'accesso alla magistratura della Corte dei conti).
 
 > 4\. Le pubbliche amministrazioni adempiono agli obblighi assunti con i contratti collettivi nazionali o integrativi dalla data della sottoscrizione definitiva e ne assicurano l'osservanza nelle forme previste dai rispettivi ordinamenti.».
 
-#### ART. 15
+### ART. 15
 
 (Modifica all'articolo 38 della legge
 
@@ -592,29 +588,29 @@ e all'accesso alla magistratura della Corte dei conti).
 
 ## CAPO III - MISURE TELEMATICHE
 
-#### Art. 16
+### Art. 16
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 MARZO 2005, N. 82 ))
 
-#### Art. 17
+### Art. 17
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 MARZO 2005, N. 82 ))
 
-#### Art. 18
+### Art. 18
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 MARZO 2005, N. 82 ))
 
-#### Art. 19
+### Art. 19
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 MARZO 2005, N. 82 ))
 
 ## CAPO IV - DISPOSIZIONI TRANSITORIE E FINALI
 
-#### ART. 20 - Norme transitorie
+### ART. 20 - Norme transitorie
 
 1\. Per la legge per la semplificazione e il riassetto normativo dell'anno 2003 i termini di cui al comma 1 dell'articolo 20 della legge 15 marzo 1997, n. 59, come sostituito dall'articolo 1 della presente legge, sono rispettivamente fissati al novantesimo e al centoventesimo giorno dalla data di entrata in vigore della presente legge.
 
-#### Art. 20-bis - Decreti legislativi correttivi e integrativi
+### Art. 20-bis - Decreti legislativi correttivi e integrativi
 
 1\. Entro un anno dalla data di entrata in vigore dei decreti legislativi di cui agli articoli 2,3,4,5,6,7,8,9 e 11, il Governo puo' adottare, nel rispetto degli oggetti e dei principi e criteri direttivi fissati dalla presente legge e secondo i principi e i criteri direttivi e la procedura di cui all'articolo 20 della legge 15 marzo 1997, n. 59, e successive modificazioni, uno o piu' decreti legislativi recanti disposizioni integrative e correttive. (8) ((9))
 
@@ -630,7 +626,7 @@ AGGIORNAMENTO (9)
 
 La L. 26 febbraio 2007, n. 17 (con l'art. 1, comma 2) ha disposto che "Il termine di un anno previsto dall'articolo 20-bis, comma 1, della legge 29 luglio 2003, n. 229, per l'adozione di decreti legislativi integrativi e correttivi del decreto legislativo di cui all'articolo 11 della medesima legge, e' prorogato di un anno."
 
-#### ART. 21 - Copertura finanziaria
+### ART. 21 - Copertura finanziaria
 
 1\. Dall'esercizio di ciascuna delle deleghe di cui al Capo I non devono derivare maggiori oneri a carico del bilancio dello Stato.
 
@@ -640,7 +636,7 @@ La L. 26 febbraio 2007, n. 17 (con l'art. 1, comma 2) ha disposto che "Il termin
 
 4\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### ART. 22 - Modifiche alla legge 24 novembre 2000, n. 340
+### ART. 22 - Modifiche alla legge 24 novembre 2000, n. 340
 
 1\. L'articolo 35 della legge 24 novembre 2000, n. 340, e' sostituito dal seguente:
 
@@ -1170,7 +1166,7 @@ Decreto legislativo 30 ottobre 1992, n. 444, articolo 10".
 
 > Decreto legislativo 30 ottobre 1992, n. 444, art. 10.».
 
-#### ART. 23 - Abrogazioni
+### ART. 23 - Abrogazioni
 
 1\. A decorrere dalla data di entrata in vigore della presente legge, la legge 10 marzo 1969, n. 116, e' abrogata.
 

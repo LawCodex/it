@@ -28,7 +28,7 @@ la seguente legge:
 
 ## TITOLO I. - Del diritto alla pensione di guerra in generale.
 
-#### Art. 1
+### Art. 1
 
 Ai militari delle Forze armate, agli appartenenti a Corpi o servizi ausiliari, alle infermiere volontarie della Croce Rossa italiana, che abbiano in guerra riportato ferite o lesioni o contratto infermita', da cui sia derivata perdita o menomazione della capacita', di lavoro, ed alle loro famiglie, quando da tali ferite, lesioni o infermita', sia derivata la morte, sono conferite pensioni, assegni o indennita' di guerra, alle condizioni e nei modi stabiliti dalla presente legge.
 
@@ -36,7 +36,7 @@ Le equiparazioni fra i gradi dei personali appartenenti ai Corpi o servizi ausil
 
 Ai militari addetti in stabilimenti, cantieri o lavori esercitati od assunti da Enti pubblici o da privati, ancorche' vi abbiano prestato servizio in qualita' di comandati, si applica il regime delle pensioni di guerra, quando trattisi di decesso o invalidita' direttamente derivanti da azioni belliche.
 
-#### Art. 2
+### Art. 2
 
 La morte o l'invalidita' da' diritto a pensione, assegno o indennita' di guerra, quando le ferite, le lesioni o le malattie che l'hanno determinata siano state riportate od aggravate per causa del servizio di guerra.
 
@@ -46,7 +46,7 @@ Non si considerano reparti operanti quelli che furono dichiarati tali soltanto p
 
 Si presumono dipendenti da causa di servizio le malattie epidemico-contagiose contratte durante la prestazione del servizio militare in tempo di guerra.
 
-#### Art. 3
+### Art. 3
 
 La morte o l'invalidita' determinate da ferite, lesioni o malattie, riportate o aggravate durante lo stato di prigionia presso il nemico, si presumono dipendenti da causa di servizio di guerra, salvo prova contraria.
 
@@ -54,13 +54,13 @@ Non spetta mai pensione, assegno o indennita', quando risulti che il militare si
 
 Tuttavia le pensioni o gli assegni possono anche essere conferiti in via provvisoria, salvo revoca quando il competente Ministero dichiari che il militare cadde prigioniero per circostanze a lui imputabili.
 
-#### Art. 4
+### Art. 4
 
 Spetta la pensione, l'assegno o la indennita' di guerra, quando sussistano le altre condizioni necessarie, anche ai militari dei Corpi o servizi operanti in Paesi esteri o in Paesi militarmente occupati o nelle Colonie, e alle loro famiglie.
 
 In questo capo ha sempre luogo la presunzione di cui al secondo comma dell'art. 2.
 
-#### Art. 5
+### Art. 5
 
 Spetta la pensione, l'assegno o la indennita' di guerra, anche quando l'invalidita' o la morte sia stata determinata da ferite, lesioni o malattie, riportate od aggravate per causa di servizio attinente alla guerra.
 
@@ -70,13 +70,13 @@ Sono anche considerati attinenti alla guerra i servizi resi dai militari richiam
 
 Il servizio prestato in uffici che non siano al seguito di truppe operanti non si considera mai come servizio di guerra o attinente alla guerra, salvo nel caso in cui l'invalidita' o la morte derivino da azioni belliche.
 
-#### Art. 6
+### Art. 6
 
 Non spetta mai pensione, assegno o indennita', nei casi in cui la invalidita' o la morte siano state causate da dolo o colpa grave del militare, oppure quando derivino da fatti che non abbiano alcuna relazione col servizio di guerra o attinente alla guerra.
 
 In ogni caso non hanno alcuna relazione col servizio di guerra o attinente alla guerra le infermita' dovute ai comuni fattori etimologici, che possa ritenersi si sarebbero ugualmente manifestate o aggravate ancorche' il militare non si fosse trovato in servizio.
 
-#### Art. 7
+### Art. 7
 
 Sono considerati come morti per causa del servizio di guerra, agli effetti della presente legge, i militari dei quali, dopo due mesi da un fatto d'arme o dall'esecuzione di un incarico ricevuto durante azioni di guerra, non si abbiano piu' notizie.
 
@@ -86,15 +86,15 @@ Nel caso che, dopo liquidata la pensione, venga accertato che il militare scompa
 
 Uguale imputazione viene fatta quando, liquidata la pensione, sia accertato che la morte del militare ha avuto luogo in un tempo posteriore a quello della presunta morte.
 
-#### Art. 8
+### Art. 8
 
 E' equiparato al servizio militare, agli effetti della concessione di pensioni, assegni o indennita' di guerra, il servizio prestato da tutti i cittadini che, in occasione dello stato di guerra, vengano militarizzati dalle competenti autorita' e posti al seguito di truppe operanti.
 
-#### Art. 9
+### Art. 9
 
 Fuori dei casi in cui si verifica la militarizzazione di diritto ai sensi dell'articolo precedente, i cittadini militarizzati per svolgere un'attivita' connessa con la preparazione e la difesa militare o con la condotta della guerra in generale, ed in caso di morte i loro congiunti, possono conseguire pensioni, assegni o indennita' di guerra, soltanto quando trattisi di invalidita' o di decesso derivanti da azioni belliche.
 
-#### Art. 10
+### Art. 10
 
 Sono conferite pensioni, assegni o indennita' di guerra, ai cittadini italiani divenuti invalidi ed alle famiglie dei cittadini italiani morti per qualsiasi fatto di guerra che sia stato la causa violenta, diretta ed immediata della invalidita' o della morte. ((25))
 
@@ -112,7 +112,7 @@ AGGIORNAMENTO (25)
 
 La Corte Costituzionale con sentenza 10 - 18 dicembre 1987, n. 561 (in G.U. 1a s.s. 23/12/1987, n. 54) ha dichiarato "l'illegittimita' costituzionale degli artt. 10, primo comma e 22 della legge 10 agosto 1950, n. 648 nella parte in cui non prevedono un trattamento pensionistico di guerra che indennizzi i danni anche non patrimoniali patiti dalle vittime di violenze carnali consumate in occasione di fatti bellici."
 
-#### Art. 11
+### Art. 11
 
 Le disposizioni di cui all'articolo precedente si applicano anche nel caso della esistenza di un rapporto di dipendenza dell'infortunato dallo Stato o da Enti pubblici o da ditte private.
 
@@ -120,7 +120,7 @@ Qualora pero' fosse dovuta indennita' in base alle norme vigenti in materia di a
 
 La pensione, l'assegno o l'indennita' di guerra, non e' cumulabile con qualsiasi altro indennizzo liquidato per lo stesso titolo, a meno che tale indennizzo derivi da atti di previdenza facoltativi esistenti a favore dell'interessato.
 
-#### Art. 12
+### Art. 12
 
 L'opzione e' fatta mediante dichiarazione resa, davanti al pretore del luogo di domicilio dell'interessato ed e' irretrattabile. ((Qualora tuttavia, per effetto di disposizioni legislative emanate successivamente all'esercizio dell'opzione, il trattamento di pensione, assegno o indennita' di guerra venisse a risultare piu' favorevole di quello conseguito a norma del secondo comma del precedente articolo 11 in base alle norme vigenti in materia di assicurazione contro gli infortuni sul lavoro, ovvero in virtu' di contratto, gli interessati sono ammessi ad optare per il trattamento piu' favorevole, a condizione che la opzione venga esercitata, con le modalita' previste dal presente articolo, successivamente alla data di entrata in vigore delle disposizioni legislative che abbiano determinato il maggior favore del trattamento di pensione, assegno o indennita' di guerra)).
 
@@ -130,7 +130,7 @@ Cosi' anche, se l'indennita' di infortunio sia stata gia' liquidata in rendita v
 
 ((Copia autentica della dichiarazione di opzione va allegata alla domanda da presentarsi al Ministero del tesoro a norma del successivo articolo 101)).
 
-#### Art. 13
+### Art. 13
 
 L'opzione per l'indennita' di infortunio implica rinunzia alla pensione o all'assegno di guerra anche per i successivi aventi diritto.
 
@@ -140,23 +140,23 @@ Ogni volta che venga a mancare uno dei compartecipi, il quale abbia optato per l
 
 Quando l'interessato opti per la indennita' e vi siano altri ai quali potrebbe in tutto o in parte devolversi successivamente il diritto alla pensione o all'assegno di guerra, il pretore determina se e quale quota della indennita' che si corrisponde debba essere vincolata a garanzia dei successivi aventi diritto.
 
-#### Art. 14
+### Art. 14
 
 Nei casi di invalidita' o di morte di militari per eventi di servizio prestato in territori esteri, gli aventi diritto alla pensione o all'assegno di guerra hanno facolta' di optare, con le norme di cui agli articoli 12 e 13, fra la pensione o L'assegno stesso e l'indennita' che possa loro spettare a carico dei Governi di detti territori.
 
 L'opzione per la pensione o l'assegno di guerra implica rinunzia alla indennita'. In tal caso le somme pagate dai Governi esteri sono devolute all'Erario.
 
-#### Art. 15
+### Art. 15
 
 Le norme dell'articolo precedente si applicano anche nei casi di morte o di invalidita' di cittadini italiani, in dipendenza di fatti di guerra, ovunque avvenuti e che diano luogo a liquidazione di indennita' da parte di Governi esteri.
 
-#### Art. 16
+### Art. 16
 
 Nel caso di infortunio per causa di guerra che colpisca, equipaggi di navi mercantili i quali, al momento del disastro, erano militarizzati, e' in facolta' degli interessati di optare fra la pensione, l'assegno o l'indennita', previsti dalla legge sull'assicurazione contro gli infortuni degli operai sul lavoro, vigenti alla data del sinistro, nonche' dalle disposizioni speciali per gli equipaggi suddetti, e la pensione o l'assegno di guerra.
 
 Anche in tale caso si applicano le norme dei precedenti articoli 12 e 13.
 
-#### Art. 17
+### Art. 17
 
 Il militare di carriera divenuto invalido per causa del servizio di guerra o attinente alla guerra, e la sua famiglia, in caso di morte, hanno sempre facolta' di optare per la pensione privilegiata ordinaria, che spetterebbe a termini delle disposizioni vigenti all'epoca in cui si verifico' l'evento di servizio, e in base agli stipendi goduti a quella data, integrata dagli assegni accessori annessi alla pensione di guerra, in essi compreso l'assegno speciale temporaneo istituito con decreto legislativo 29 dicembre 1946, n. 576.
 
@@ -170,13 +170,13 @@ La causa della morte, delle lesioni o delle infermita', la loro gravita' e le lo
 
 Le disposizioni di questo articolo e quelle degli articoli 18 e 19 sono applicabili ai cittadini italiani ritenuti invalidi per fatti di guerra di cui all'art. 10.
 
-#### Art. 18
+### Art. 18
 
 Gli impiegati e i salariati delle Amministrazioni dello Stato che provvedono al pagamento delle pensioni con i propri bilanci o con fondi speciali, nonche' delle Aziende municipalizzate e di tutti gli Enti pubblici che facciano al proprio personale un trattamento privilegiato nei casi di inabilita' contratta o di morte avvenuta per causa di servizio, quando siano morti o divenuti permanentemente inabili al servizio per le cause indicate nel precedente articolo, sono considerati morti o feriti a causa dell'esercizio delle loro funzioni agli effetti della pensione privilegiata, dovuta in applicazione dei regolamenti degli Enti e delle Amministrazioni suddette, qualora detta pensione sia piu' favorevole di quella di guerra.
 
 La differenza tra gli assegni liquidati in applicazione del comma precedente e il trattamento normale dovuto in base alle disposizioni proprie delle Amministrazioni ed Enti, di cui al comma stesso, e' a carico dello Stato.
 
-#### Art. 19
+### Art. 19
 
 Le norme di cui all'articolo precedente si applicano altresi' ai dipendenti di tutti gli Enti per i quali sia ammesso, dalle norme vigenti, il riparto delle spese per le pensioni tra essi e lo Stato, in dipendenza dei servizi a quelli e a questo rispettivamente prestati, agli iscritti alla Cassa nazionale per la previdenza marinara; nonche' a tutti gli iscritti ai fondi, e trattamenti di previdenza costituiti presso l'Istituto nazionale della previdenza sociale, in virtu' di disposizioni legislative e regolamentari, ovvero di accordo collettivo o convenzione stipulata tra l'Istituto e l'Ente o l'Azienda da cui gli iscritti dipendono.
 
@@ -184,11 +184,11 @@ Le stesse norme si applicano alle varie categorie di personale iscritto agli Ist
 
 Se gli Enti, Amministrazioni o Istituti, di cui all'art. 18 ed ai commi precedenti, siano tenuti a corrispondere solamente una indennita' per una volta tanto, per gli effetti del presente articolo si provvede alla sua valutazione in rendita, vitalizia o temporanea in base alle apposite tabelle annesse alle leggi e ai regolamenti delle singole gestioni o delle gestioni affini.
 
-#### Art. 20
+### Art. 20
 
 Con le norme emanate in materia di pensione di guerra si intende regolato verso lo Stato qualsiasi diritto del militare che, per causa del servizio di guerra o attinente alla guerra, e del civile che, per causa di fatti di guerra, abbiano riportato ferite o contratto infermita' e, in caso di morte, qualsiasi diritto degli eredi o di terzi.
 
-#### Art. 21
+### Art. 21
 
 Le pensioni, gli assegni o le indennita', di cui alla presente legge, sono soggetti alle disposizioni generali concernenti le pensioni civili e militari, in quanto non contrastino con quelle della presente legge.
 
@@ -196,7 +196,7 @@ Per gli invalidi di guerra restano tuttavia in vigore le eccezioni stabilite dal
 
 ## TITOLO II - Dei diritti dei mutilati ed invalidi di guerra
 
-#### Art. 22
+### Art. 22
 
 Il militare che, per effetto di ferite, lesioni o infermita', riportate o aggravate per causa del servizio di guerra o attinente alla guerra ed il cittadino che, per causa dei fatti di guerra indicati al precedente art. 10, abbiano subito menomazione della integrita' personale ascrivibile ad una delle categorie di cui alla annessa tabella A, hanno diritto a pensione vitalizia, se la menomazione non e' suscettibile col tempo di modificazione, o ad assegno rinnovabile, se la menomazione non e' suscettibile.
 
@@ -210,7 +210,7 @@ AGGIORNAMENTO (25)
 
 La Corte Costituzionale con sentenza 10 - 18 dicembre 1987, n. 561 (in G.U. 1a s.s. 23/12/1987, n. 54) ha dichiarato "l'illegittimita' costituzionale degli artt. 10, primo comma e 22 della legge 10 agosto 1950, n. 648 nella parte in cui non prevedono un trattamento pensionistico di guerra che indennizzi i danni anche non patrimoniali patiti dalle vittime di violenze carnali consumate in occasione di fatti bellici."
 
-#### Art. 23
+### Art. 23
 
 L'assegno rinnovabile e' accordato per periodi di tempo non inferiori a due anni, ne' superiori a quattro.
 
@@ -220,7 +220,7 @@ La somma dei vari periodi per cui e' accordato l'assegno rinnovabile non puo' ec
 
 La somma dei periodi di cui al comma precedente non puo' eccedere i quattro anni per gli invalidi affetti da tubercolosi o da altre malattie di cui alla tabella E, e fruenti per la stessa malattia di assegno rinnovabile con superinvalidita'. In ogni caso, qualora i detti invalidi, alla scadenza dell'assegno, vengano riconosciuti migliorati si da essere ascrivibili ad una categoria inferiore alla prima, conservano immutato il trattamento economico precedente per un biennio, ed il nuovo trattamento decorrera' dalla scadenza del biennio medesimo ove venga riconfermata la ascrivibilita' alla categoria inferiore.
 
-#### Art. 24
+### Art. 24
 
 Qualora alla scadenza del periodo di assegno rinnovabile non sia compiuto il procedimento per la nuova valutazione dell'invalidita', l'assegno e' prorogato per non oltre un anno, in base agli atti della relativa liquidazione.
 
@@ -228,7 +228,7 @@ Nei casi di riduzione di categoria, la somma corrisposta per proroga sara' imput
 
 Nel caso in cui all'invalido non venga concesso ulteriore assegno per guarigione, la somma suddetta sara' abbuonata.
 
-#### Art. 25
+### Art. 25
 
 ((Il richiedente la pensione di guerra che, senza giustificato motivo, dopo due inviti, di cui il secondo ad almeno due mesi di distanza dal primo, non si presenti alla chiamata per prima visita sanitaria entro sei mesi dal secondo invito, dovra' produrre nuova domanda di accertamenti sanitari. La pensione, l'assegno o l'indennita', eventualmente speltanti, decorreranno dal primo del mese successivo a quello della presentazione della domanda stessa.
 
@@ -238,7 +238,7 @@ La domanda non sara' ammessa, in entrambi i casi, scorsi dieci anni dalla scaden
 
 Le Commissioni mediche, di cui al successivo articolo 103, sono tenute a comunicare al Ministero del tesoro (Direzione generale delle pensioni di guerra) i nominativi degli interessati che non si sono presentati al primo accertamento sanitario oppure alla visita per la rinnovazione dell'assegno entro i predetti termini, trasmettendo i documenti comprovanti la data di notificazione dell'invito)).
 
-#### Art. 26
+### Art. 26
 
 Per il trattamento di pensione sono istituite due tabelle, annesse alla presente legge e distinte con le lettere C e D.
 
@@ -254,7 +254,7 @@ ovvero quando le mutilazioni siano state riportate durante operazioni di rastrel
 
 Negli altri casi si applica la tabella D.
 
-#### Art. 27
+### Art. 27
 
 La pensione, l'assegno o l'indennita' di guerra sono liquidati, per ciascuna categoria di invalidita', in base alla seguente ripartizione per gruppi di gradi:
 
@@ -272,7 +272,7 @@ Le infermiere volontarie della Croce Rossa italiana sono equiparate, ai fini del
 
 Al cittadino divenuto invalido per fatto di guerra, di cui all'art. 10, la pensione, l'assegno o l'indennita' si liquida nella misura stabilita per il gruppo dei militari di truppa. Ove pero' egli, al momento dell'evento, risulti in possesso di un grado militare, anche nelle categorie in congedo, la pensione, l'assegno o l'indennita' e' concessa in base a tale grado.
 
-#### Art. 28
+### Art. 28
 
 Oltre la pensione o l'assegno rinnovabile, e' dovuto agli invalidi affetti dalle mutilazioni o infermita' elencate nell'allegata tabella E' un assegno per superinvalidita', nella misura indicata nella tabella stessa.
 
@@ -294,7 +294,7 @@ lire 30.000 per i titolari di pensione di guerra di 1ª categoria con assegno di
 
 lire 25.000 per i titolari di pensione di guerra di 1ª categoria senza assegno di superinvalidita'."
 
-#### Art. 29
+### Art. 29
 
 Ai titolari di pensione di guerra di la categoria, cui spetta un assegno di superinvalidita', ai sensi del precedente art. 28, e' concesso un assegno supplementare non riversibile rispettivamente di annue lire 66.000 per le lettere A, A-bis, B; lire 60.000 per le lettere C, D ed E; e di lire 54.000 per le lettere F e G della tabella E annessa alla presente legge.
 
@@ -314,35 +314,35 @@ AGGIORNAMENTO (7)
 
 La L. 26 luglio 1957, n. 616 ha disposto (con l'art. 2, comma 2, lettera c)) che e' soppresso "l'assegno supplementare di cui all'art. 29 dalla legge 10 agosto 1950, n. 648, e successive modificazioni."
 
-#### Art. 30
+### Art. 30
 
 ((Agli invalidi per infermita' tubercolare, o di sospetta natura tubercolare, che non abbiano assegno di superinvalidita', e' concesso un assegno di cura non riversibile nella misura di annue lire 96.000 se si tratta di infermita' ascrivibile ad una delle categorie dalla 2ª alla 5ª e di annue lire 48.000 se l'infermita' stessa sia ascrivibile alle categorie dalla 6ª all'8ª dell'annessa tabella A)).
 
-#### Art. 31
+### Art. 31
 
 ((ARTICOLO SOPPRESSO DALLA L. 18 MAGGIO 1967, N. 318))
 
-#### Art. 32
+### Art. 32
 
 ((Qualora l'invalido fruisca di cura ospedaliera di ricovero per mezzo dell'Opera nazionale per gli invalidi di guerra, di cui al regio decreto-legge 18 agosto 1942, n. 1175, convertito nella legge 5 maggio 1949, n. 178, o di altre Amministrazioni, gli assegni di cui agli articoli 30 e 31 della presente legge 3 e 4 della legge 26 luglio 1957, n. 616, sono sottoposti a ritenuta in misura non superiore ad un quarto per il periodo di tempo corrispondente al ricovero, in relazione al trattamento che l'invalido riceve, alle spese che l'Opera nazionale o l'Amministrazione competente deve sostenere presso i singoli Istituti di ricovero ed alle condizioni di famiglia dell'invalido. Il relativo importo e' versato a favore della detta Opera ovvero delle altre Amministrazioni interessate)).
 
-#### Art. 33
+### Art. 33
 
 Il ricovero degli invalidi di guerra di ambedue i sessi, di eta' minore, in Istituti appositi che ne curino la rieducazione e qualificazione professionale in rapporto alle attitudini residue, e' affidato all'Opera nazionale per gli invalidi di guerra. L'Opera si varra' del concorso di Enti giuridicamente riconosciuti che esplichino attivita' rientranti nei fini del presente articolo.
 
-#### Art. 34
+### Art. 34
 
 Per i minori invalidi di 1ª categoria la necessita' del ricovero e' presunta.
 
 Il trattamento complessivo di pensione di guerra, detratta la ritenuta di cui all'art. 32, e' corrisposto con le cautele di legge ai legali rappresentanti dei minori medesimi.
 
-#### Art. 35
+### Art. 35
 
 Per i minori ascritti a categorie inferiori alla prima, l'Opera nazionale per gli invalidi di guerra accertera' la opportunita' del ricovero.
 
 Nel caso affermativo, a favore dei minori invalidi e' istituita una indennita' di ricovero comprensiva degli eventuali assegni supplementari e di cura, dell'importo di lire 10.000 mensili, da devolvere direttamente all'Opera predetta.
 
-#### Art. 36
+### Art. 36
 
 Al ricovero dei minori invalidi non si provvede:
 
@@ -350,19 +350,19 @@ a) quando, in rapporto alle loro condizioni fisiche, sia esclusa dall'Opera nazi
 
 b) quando i genitori o tutori dei minori diano all'Opera nazionale invalidi di guerra la prova di essere in grado di provvedere essi stessi in modo sufficiente alla rieducazione e qualificazione dei minori stessi.
 
-#### Art. 37
+### Art. 37
 
 Nell'interesse dei minori ricoverati, ascritti a categorie inferiori alla 1ª, e con le cautele di legge e' corrisposta ai loro legali rappresentanti la quota del trattamento complessivo di pensione di guerra detratti gli assegni supplementare e di cura.
 
-#### Art. 38
+### Art. 38
 
 Nel caso in cui i genitori o tutori non siano in grado di fornire la prova di cui all'art. 36, lettera b), e si oppongano al ricovero, gli assegni di superinvalidita', supplementare, di cura e di cumulo dovuti al minore, anziche' alle famiglie saranno versati all'Opera nazionale invalidi di guerra, che li amministrera' nell'interesse dei minori, fino all'eta' maggiore degli stessi.
 
-#### Art. 39
+### Art. 39
 
 Contro la decisione dell'Opera nazionale invalidi di guerra, relativamente al disposto dell'art. 35 e dell'articolo 36, lettera b), e' ammesso in prima ed ultima istanza il ricorso al Ministro dell'interno entro il termine di giorni 90 dalla notifica del provvedimento.
 
-#### Art. 40
+### Art. 40
 
 Quando il militare od il civile, gia' affetto da perdita anatomica o funzionale di uno degli organi per causa estranea alla guerra, perda in tutto od in parte l'organo superstite per causa di guerra, la pensione o l'assegno si liquida in base alla categoria corrispondente alla invalidita' complessiva risultante dalle lesioni dei due organi.
 
@@ -372,7 +372,7 @@ Le indennita' dovute all'invalido da Enti pubblici, da Istituti o da privati per
 
 Nel caso di cui al secondo comma del presente articolo l'assegno avra' decorrenza dal primo giorno del mese successivo alla presentazione della domanda.
 
-#### Art. 41
+### Art. 41
 
 Ai mutilati ed agli invalidi forniti di pensione o assegno rinnovabile della 2ª, 3ª e 4ª categoria ed a quelli ascritti alle categorie dalla 5ª all'8ª, quando abbiano compiuto, rispettivamente, il 55° ed il 60° anno di eta', e risulti altresi' che il reddito complessivo netto, definito ai fini dell'imposta complementare, giusta l'articolo 130 del testo unico delle leggi sulle imposte dirette approvato con decreto del Presidente della Repubblica 29 gennaio 1958, n. 645, non sia superiore a lire 720.000 annue, e' concesso un assegno di previdenza, non riversibile ne' sequestrabile, di annue lire 144.000.
 
@@ -398,11 +398,11 @@ AGGIORNAMENTO (13)
 
 La L. 9 novembre 1961, n. 1240, come modificata dalla L. 25 novembre 1964, n. 1266, a sua volta modificata dalla L. 18 maggio 1967, n. 318 ha disposto (con l'art. 4) che "L'ammontare dell'assegno di previdenza, previsto dall'articolo 2 della legge 25 novembre 1964, n. 1266, a favore dei mutilati e degli invalidi titolari di pensione o di assegno rinnovabile dalla 2ª all'8ª categoria, e' elevato da lire 174.000 a lire 186.000 annue".
 
-#### Art. 42
+### Art. 42
 
 L'assegno di previdenza non spetta ai grandi invalidi ed ai mutilati ed invalidi provvisti di pensione o assegno rinnovabile di 1ª categoria, nonche' a coloro che abbiano ottenuto una indennita' una volta tanto ai sensi dell'art. 22 secondo comma.
 
-#### Art. 43
+### Art. 43
 
 Per ottenere la concessione dell'assegno di previdenza, gli interessati devono presentare domanda al Ministero del tesoro, Direzione generale delle pensioni di guerra.
 
@@ -410,7 +410,7 @@ L'assegno decorre dal compimento dell'eta' di cui al primo comma dell'art. 41.
 
 Qualora la domanda venga presentata oltre un anno dal compimento dell'eta' di cui al comma precedente e nei casi di inabilita' indicati nel secondo e terzo comma dell'art. 41 l'assegno decorrera' dal primo giorno del mese successivo a quello della presentazione della domanda.
 
-#### Art. 44
+### Art. 44
 
 ((Ai mutilati ed agli invalidi di guerra, con diritto a pensione o ad assegno delle categorie dalla 2ª all'8ª, e che siano incollocabili ai sensi dell'articolo 3, lettera b), della legge 3 giugno 1950, n. 375, in quanto, per la natura ed il grado della loro invalidita' di guerra, possano riuscire di pregiudizio alla salute ed incolumita' dei compagni di lavoro od alla sicurezza degli impianti e che risultino effettivamente incollocati, e' attribuito, in aggiunta alla pensione, e fino al compimento del 65° anno di eta', un assegno di incollocabilita' nella misura pari alla differenza fra il trattamento complessivo corrispondente alla 1ª categoria senza superinvalidita' e quello complessivo, compresi gli eventuali assegni accessori, di cui sono titolari. Ove il diritto all'assegno di incollocabilita' derivi da infermita' neuro-psichica od epilettica, ascrivibile alla 2ª 3ª o 4ª categoria, l'assegno stesso viene liquidato, fino al compimento del 65° anno di eta' in misura pari alla differenza fra il trattamento complessivo corrispondente alla 1ª categoria con assegno di superinvalidita' di cui alla tabella E, lettera G, esclusa l'indennita' di accompagnamento, e quello complessivo, compresi gli eventuali assegni accessori, di cui gli invalidi fruiscono.
 
@@ -438,7 +438,7 @@ AGGIORNAMENTO (2)
 
 La L. 11 aprile 1953, n. 263 ha disposto (con l'art. 4) che "L'ammontare dell'assegno di incollocamento, previsto dal secondo comma dell'art. 44 della legge 10 agosto 1950, n. 648, per gli invalidi di guerra forniti di pensione od assegno di categoria inferiore alla prima, e' elevato con effetto dal 1 luglio 1953, da lire 72.000 a lire 144.000 annue."
 
-#### Art. 44-bis
+### Art. 44-bis
 
 ((Ai mutilati ed invalidi di guerra residenti sul territorio nazionale, forniti di pensione o di assegno rinnovabile dalla 2ª all'8ª categoria, di eta' inferiore ai 60 anni compiuti, quando siano incollocati, e' concesso un assegno di incollocamento di lire 186.000 annue)).
 
@@ -460,7 +460,7 @@ AGGIORNAMENTO (12)
 
 La 9 novembre 1961, n. 1240, come modificata dalla L. 25 novembre 1964, n. 1266, ha disposto (con l'art. 7) che "L'ammontare dell'assegno di collocamento previsto dall'articolo 7 della legge 9 novembre 1961, n. 1240, per gli invalidi di guerra forniti di pensione o di assegno di categoria inferiore alla prima e' elevato da lire 144.000 a lire 174.000 annue".
 
-#### Art. 45
+### Art. 45
 
 Ai mutilati ed invalidi di guerra affetti da una delle mutilazioni o invalidita' contemplate nella tabella E della legge 10 agosto 1950, n. 648, e' accordata una indennita' per l'assunzione e la retribuzione di un accompagnatore, anche nel caso che il servizio di accompagnamento venga disimpegnato da un familiare del minorato.
 
@@ -564,7 +564,7 @@ E' data facolta' al grande invalido della scelta tra l'accompagnatore militare e
 
 L'indennita' e' corrisposta anche quando gli invalidi siano ricoverati in ospedale o in altri luoghi di cura."
 
-#### Art. 46
+### Art. 46
 
 ((L'invalido provvisto di pensione o di assegno di prima categoria ha diritto di conseguire, su domanda, a titolo di integrazione, un aumento annuo:
 
@@ -582,17 +582,17 @@ AGGIORNAMENTO (7)
 
 La L. 26 luglio 1957, n. 616 ha disposto (con l'art. 8) che "L'aumento annuo per i figli, previsto dall'art. 46 della legge 10 agosto 1950, n. 648, a favore degli invalidi titolari di prima categoria, e' elevato da lire 3000 a lire 36.000 annue."
 
-#### Art. 47
+### Art. 47
 
 Agli effetti del precedente articolo sono parificati ai figli legittimi i figli legittimati per susseguente matrimonio.
 
 L'aumento integratore spetta anche per i tigli legittimati con decreto, per i figli naturali riconosciuti e per i figli adottati nelle forme di legge purche' la legittimazione, il concepimento e l'adozione siano rispettivamente avvenuti prima dell'evento di servizio o del fatto di guerra da cui derivo' l'invalidita'.
 
-#### Art. 48
+### Art. 48
 
 Le disposizioni degli articoli 46 e 47 sono estese alla donna provvista di pensione o di assegno di prima categoria.
 
-#### Art. 49
+### Art. 49
 
 Agli ufficiali in servizio permanente effettivo che cessino od abbiano cessato da tale posizione per ferite, lesioni od infermita', riportate od aggravate a causa di guerra, e' concesso, dalla data di cessazione dal servizio, il cumulo della pensione o dell'assegno rinnovabile di guerra, compresi tutti gli assegni accessori, con il trattamento ordinario di quiescenza loro spettante liquidato in base al numero degli anni di servizio utile, aumentato di quattro anni.
 
@@ -604,7 +604,7 @@ Il trattamento normale di quiescenza e' liquidato dagli enti competenti, secondo
 
 Resta fermo il diritto di opzione per la pensione privilegiata ordinaria contemplato dall'art. 17.
 
-#### Art. 50
+### Art. 50
 
 Le disposizioni di cui al precedente articolo, sono applicabili agli ufficiali provenienti dal servizio effettivo anche se conseguano od abbiano conseguito la pensione o l'assegno rinnovabile di guerra dopo aver cessato dal servizio stesso.
 
@@ -612,7 +612,7 @@ In tal caso, pero', resta esclusa la concessione dei quattro anni di aumento, di
 
 Le suddette norme sono applicabili anche a sottufficiali e militari di carriera, nonche' ai personali civili contemplati negli articoli 10, 17, 18, 19.
 
-#### Art. 51
+### Art. 51
 
 Per il militare inviato in licenza speciale in attesa del trattamento di guerra, la pensione, assegno o indennita', decorre dal giorno in cui l'interessato fu collocato nella suddetta posizione.
 
@@ -626,13 +626,13 @@ Per i cittadini divenuti invalidi per fatti di guerra di cui all'art. 10 la pens
 
 Ove la domanda sia stata presentata oltre un anno dopo la data dell'evento, la pensione, assegno o indennita' decorre dal primo giorno del mese successivo a quello della presentazione della domanda stessa.
 
-#### Art. 52
+### Art. 52
 
 Ai militari inviati in licenza speciale e' in facolta' del Ministro per il tesoro di concedere, a titolo di anticipazione e qualora vi siano elementi di presunzione circa la dipendenza da causa di servizio della invalidita', la pensione o l'assegno corrispondente alla categoria proposta all'atto dell'invio in licenza speciale, nella misura stabilita dall'annessa tabella D con gli eventuali assegni accessori.
 
 In caso di denegata pensione o di concessione di pensione o di assegno in misura inferiore a quella corrisposta a titolo di anticipazione, le somme non dovute o pagate in piu', in base al presente articolo, sono abbuonate.
 
-#### Art. 53
+### Art. 53
 
 ((Nei casi di aggravamento delle infermita' per le quali siasi concessa pensione ed assegno rinnovabile ed indennita' per una volta tanto, l'invalido puo' chiederne la revisione senza limite di tempo.
 
@@ -648,7 +648,7 @@ Uguale deduzione della somma gia liquidata si fara' nel caso di nuova liquidazio
 
 Se l'indennita' per una volta tanto viene convertita in pensione o in assegno rinnovabile, le somme pagate in piu' di quelle che sarebbero state dovute per una pensione o assegno di 8ª categoria durante il periodo intercorso tra l'accertamento dell'invalidita' e quello dell'aggravamento, vengono recuperate, mediante trattenuta sui ratei arretrati. Ove residuino altre somme a debito del militare il recupero sara' effettuato sui ratei successivi secondo le norme stabilite dall'art. 2 del testo unico approvato con decreto del Presidente della Repubblica 5 gennaio 1950, n. 180.
 
-#### Art. 54
+### Art. 54
 
 Nessuna modificazione nel trattamento di pensione viene fatta agli invalidi di guerra, qualunque sia il grado della rieducazione professionale conseguita e qualunque sia lo stipendio, mercede o assegno che a qualsiasi titolo essi possano riscuotere per l'opera propria dallo Stato, da enti pubblici o da privati. Il godimento di una pensione o di un assegno di guerra non e' ostacolo al conseguimento di una pensione ordinaria quando l'invalido venga ad acquistarine il diritto indipendente, niente dall'invalidita', di guerra.
 
@@ -660,7 +660,7 @@ Quando l'invalido e' costretto ad abbandonare il servizio in conseguenza dell'in
 
 ## TITOLO III - Dei diritti della vedova e degli orfani.
 
-#### Art. 55
+### Art. 55
 
 La vedova del militare morto per causa di servizio di guerra o attinente alla guerra, o del civile morto per i fatti di guerra di cui all'art. 10, contro la quale non sussista sentenza per separazione personale passata in giudicato, ha diritto alla pensione di guerra nella misura stabilita dall'annessa tabella G, quando la morte sia derivata da ferite, lesioni od infermita', riportate in contratte nelle circostanze indicate dal secondo comma dell'art. 26.
 
@@ -682,7 +682,7 @@ AGGIORNAMENTO (27)
 
 La Corte Costituzionale con sentenza 18 - 27 luglio 2006, n. 311 (in GU 1a s.s. 02/08/2006, n. 31) ha dichiarato "l'illegittimita' costituzionale dell'art. 55 della legge 10 agosto 1950, n. 648 (Riordinamento delle disposizioni sulle pensioni di guerra), nella parte in cui non prevede il vedovo quale soggetto di diritto alla pensione indiretta di guerra."
 
-#### Art. 56
+### Art. 56
 
 Alle vedove in possesso di pensione di guerra e' concesso un assegno di previdenza di annue lire 42.000, quando abbiano raggiunto il 60° anno di eta', o, anteriormente, qualora siano o divengano inabili a qualsiasi proficuo lavoro e risultino in istato di bisogno.
 
@@ -704,7 +704,7 @@ L. 9.000 annue dal 1° luglio 1962;
 
 L. 24.000 annue dal 1° luglio 1963."
 
-#### Art. 57
+### Art. 57
 
 Quando il militare od il civile, appartenenti ad uno dei personali contemplati negli articoli 17, 18, 19, abbiano acquistato diritto a trattamento ordinario di quiescenza, la vedova, in aggiunta al trattamento ordinario di riversibilita' ad essa spettante, consegue la pensione di guerra.
 
@@ -712,7 +712,7 @@ Se il militare od il civile non abbiano raggiunto il limite di anzianita' per co
 
 Nulla e' innovato circa il diritto di opzione per la pensione privilegiata ordinaria contemplata dagli articoli 17, 18, 19.
 
-#### Art. 58
+### Art. 58
 
 La vedova ha diritto alla pensione di guerra se il matrimonio e' stato contratto anteriormente alle ferite o malattie da cui derivo' la morte del militare o del civile. A tale effetto l'infermita' non dipendente da causa violenta. esterna si presume contratta per i civili nel giorno dell'evento, e per i militari nel giorno della prima constatazione, e, in ogni caso, non oltre il giorno del congedo o del collocamento a riposo.
 
@@ -722,7 +722,7 @@ Per la vedova, del civile morto per la causa di guerra di cui all'art. 10 e del 
 
 Se il militare od il civile erano provvisti di pensione o di assegno rinnovabile, si considera tempestivo il matrimonio in qualunque tempo contratto, purche' sia durato non meno di un anno, ovvero sia nata prole ancorche' postuma.
 
-#### Art. 59
+### Art. 59
 
 La vedova che passi ad altre nozze perde la pensione. ((20a))
 
@@ -748,7 +748,7 @@ AGGIORNAMENTO (20a)
 
 La Corte Costituzionale con sentenza 27 giugno-8 luglio 1975, n. 184 (in G.U. 1a s.s. 16/07/1975, n. 188) ha dichiarato "l'illegittimita' costituzionale dell'art. 59, primo comma, legge 10 agosto 1950, n. 648, "Riordinamento delle disposizioni sulle pensioni di guerra" e del corrispondente art. 47, primo comma, legge 18 marzo 1968, n. 313 "Riordinamento della legislazione pensionistica di guerra", nella parte in cui stabiliscono che la vedova che passi ad altre nozze perde la pensione per il solo fatto del matrimonio anche se il marito non fruisce di reddito assoggettabile alla imposta complementare."
 
-#### Art. 60
+### Art. 60
 
 Quando esistano orfani di eta' minore dei 21 anni ed inoltre nubili, se donne, alla vedova del militare o del civile e' corrisposta la pensione nella misura, indicata dalla annessa tabella I, nei casi in cui sarebbe stata applicabile la tabella G e nella misura indicata dalla tabella L, nei casi in cui sarebbe stata applicabile la tabella H.
 
@@ -760,7 +760,7 @@ Nel caso che l'invalidita' sia temporanea, la pensione viene liquidata in base a
 
 L'inabilita' a qualsiasi proficuo lavoro della vedova e' da considerarsi presunta al compimento della eta' di 70 anni.
 
-#### Art. 61
+### Art. 61
 
 Se con la vedova, concorra prole al godimento della pensione di guerra, questa e' ulteriormente integrata, con un aumento di annue lire 36.000 per ciascun orfano, finche' non compia il 21° anno di eta' e sia nubile se di sesso femminile, oppure anche dopo compiuti gli anni 21, purche' sia inabile assolutamente a qualsiasi proficuo lavoro.
 
@@ -778,7 +778,7 @@ L. 36.000 annue dal 1° luglio 1962.
 
 L'assegno integratore per gli orfani previsto dall'articolo 61 della legge 10 agosto 1950, n. 648, e dal presente articolo, e' concesso fino al 26° anno di eta' quando trattasi di orfano studente universitario."
 
-#### Art. 62
+### Art. 62
 
 I figli e le figlie nubili, minorenni, del militare morto per causa del servizio di guerra o attinente alla guerra o del civile deceduto per fatti di guerra contemplati nell'art. 10, qualora siano altresi' privi della madre o questa, per qualunque motivo, non possa conseguire la pensione o la perda per passaggio a nuove nozze, ovvero venga a mancare dopo la morte del marito, hanno diritto alla pensione nella misura di quella vedovile, con i benefici di cui agli articoli 60 e 61. (16)
 
@@ -816,7 +816,7 @@ AGGIORNAMENTO (24)
 
 La Corte Costituzionale con sentenza 19 - 23 dicembre 1986, n. 285 (in G.U. 1a s.s. 31/12/1986, n. 61) ha dichiarato "l'illegittimita' costituzionale dell'art. 62, terzo comma, legge 10 agosto 1950 n. 648 (Riordinamento delle disposizioni sulle pensioni di guerra) e dell'art. 50, terzo comma, legge 18 marzo 1968 n. 313 (Riordinamento della legislazione pensionistica di guerra) limitatamente alla parte in cui - ai fini del diritto a pensione degli orfani - prevedono l'inabilita' a proficuo lavoro nonche' le precarie determinate condizioni economiche del padre."
 
-#### Art. 63
+### Art. 63
 
 Hanno diritto alla pensione, nei casi previsti dal precedente articolo, anche i figli e le figlie nubili maggiorenni divenuti inabili a qualsiasi proficuo lavoro per una infermita' ascrivibile alla prima categoria dell'annessa tabella A, prima di avere raggiunto la maggiore eta' o prima della data di cessazione del diritto a pensione da parte del genitore. (16) ((20))
 
@@ -836,7 +836,7 @@ AGGIORNAMENTO (20)
 
 La Corte Costituzionale con sentenza 20 - 25 febbraio 1975, n. 37 (in G.U. 1a s.s. 26/02/1975, n. 55) ha dichiarato "l'illegittimita' costituzionale dell'art. 63, comma primo, della legge 10 agosto 1950, n. 648, sul "Riordinamento delle disposizioni sulle pensioni di guerra", e del corrispondente art. 51, comma primo, della successiva legge 18 marzo 1968, n. 313, limitatamente alla parte in cui subordinano il diritto alla pensione indiretta di guerra dei figli e delle figlie maggiorenni comunque inabili a qualsiasi proficuo lavoro alla condizione che siano divenuti tali prima di aver raggiunto la maggiore eta' oppure prima della data di cessazione del diritto del genitore."
 
-#### Art. 64
+### Art. 64
 
 I figli legittimati per susseguente matrimonio sono equiparati ai tigli legittimi nel diritto a pensione di guerra.
 
@@ -850,7 +850,7 @@ AGGIORNAMENTO (26)
 
 La Corte Costituzionale con sentenza 05 - 21 luglio 1988, n. 828 (in G.U. 1a s.s. 27/07/1988, n. 30) ha dichiarato "l'illegittimita' costituzionale dell'art. 64, secondo comma, della legge 10 agosto 1950 n. 648 (Riordinamento delle disposizioni sulle pensioni di guerra) limitatamente alle parole "non oltre il termine di un anno dalla cessazione dello stato di guerra"."
 
-#### Art. 65
+### Art. 65
 
 La pensione si perde dagli orfani quando siano giunti alla eta' maggiore, salvo il caso di inabilita' a qualsiasi proficuo lavoro prevista dal primo comma, dell'art. 63 e dalle figlie anche di eta' minore, quando abbiano contratto matrimonio. ((16))
 
@@ -860,7 +860,7 @@ AGGIORNAMENTO (16)
 
 La Corte Costituzionale con sentenza 16 - 22 giugno 1971, n. 135 (in G.U. 1a s.s. 30/06/1971, n. 163) ha dichiarato l'illegittimita' costituzionale del presente articolo nella parte in cui dispone che la pensione si perde dalle figlie o che le stesse decadono dal diritto quando contraggono matrimonio.
 
-#### Art. 66
+### Art. 66
 
 Alla vedova, che viva separata per una ragione qualsiasi da tutti o da taluno soltanto dei figli dell'ultimo o di precedente matrimonio del marito deceduto, o da quelli indicati nel secondo comma dell'art. 64, e' devoluta la meta' della pensione ad essa spettante a termini dell'art. 55.
 
@@ -874,7 +874,7 @@ Se la vedova si trova nelle coudizioni previste dal terzo comma dell'art. 60, an
 
 L'aumento integratore di cui all'art. 61 e' devoluto esclusivamente a favore dei figli ed in parti uguali fra essi.
 
-#### Art. 67
+### Art. 67
 
 Se la vedova e' privata in tutto o in parte dell'esercizio della patria potesta', ovvero trascuri di provvedere alla educazione dell'orfano in corrispondenza ai mezzi di cui puo' disporre, il Giudice delle tutele, in applicazione della legge 26 luglio 1929, n. 1397, puo' determinare la quota spettante al figlio sulla pensione in misura anche maggiore di quella stabilita dall'articolo precedente, e puo' ordinare che sia riscossa ed erogata a vantaggio dell'orfano dal Comitato provinciale o da alcuni degli Enti indicati nell'art. 34 della legge predetta.
 
@@ -886,11 +886,11 @@ Lo stesso provvedimento il Giudice delle tutele puo' adottare quando l'orfano si
 
 Resta impregiudicato ogni altro diritto che possa spettare al figlio a termini degli articoli 147 e 148 del Codice civile.
 
-#### Art. 68
+### Art. 68
 
 In caso di morte o di perdita del diritto a pensione della vedova o degli orfani, la pensione della vedova e le quote degli orfani si devolvono o si accrescono ai superstiti, salvo le riduzioni previste dall'art. 61, dal giorno successivo a quello della morte, o dal giorno della perdita del diritto stesso.
 
-#### Art. 69
+### Art. 69
 
 ARTICOLO SOPPRESSO DALLA L. 18 MAGGIO 1967, n. 318 ((21))
 
@@ -900,7 +900,7 @@ AGGIORNAMENTO (21)
 
 La Corte Costituzionale con sentenza 25 - 30 gennaio 1980, n. 9 (in GU 1a s.s. 06/02/1980, n. 36) ha dichiarato "l'illegittimita' costituzionale dell'art. 69 della legge 10 agosto 1950, n. 648, nella parte in cui non prevede, accanto alla vedova, anche il vedovo quale soggetto di diritto alla riversibilita' di pensione di guerra gia' fruita dal coniuge".
 
-#### Art. 70
+### Art. 70
 
 In mancanza di diversa disposizione, la pensione e gli assegni regolati dal presente titolo decorrono dal giorno successivo a quello della morte o della scomparsa del militare o del civile.
 
@@ -910,7 +910,7 @@ Nei casi di promozione postuma degli ufficiali delle forze armate, le competenze
 
 ## TITOLO IV - Dei diritti dei genitori, dei collaterali e degli assimilati.
 
-#### Art. 71
+### Art. 71
 
 Quando il militare morto per causa del servizio di guerra o attinente alla guerra od il civile deceduto per i fatti di guerra contemplati nell'art. 10 non abbia lasciato vedova o figli con diritto a pensione, la pensione e' concessa:
 
@@ -934,7 +934,7 @@ AGGIORNAMENTO (15)
 
 La Corte Costituzionale con sentenza 21 - 28 marzo 1969, n. 53 (in G.U. 1a s.s. 02/04/1969, n. 85) ha dichiarato "l'illegittimita' costituzionale degli artt. 71, comma primo, lett. e, 77, comma primo, e 74, comma secondo, della legge 10 agosto 1950, n. 648, sul "Riordinamento delle disposizioni sulle pensioni di guerra" limitatamente alle parti in cui prevedono che la pensione indiretta spetta alle sorelle del militare morto per causa di servizio di guerra o del civile deceduto per fatto di guerra, solo in quanto nubili".
 
-#### Art. 72
+### Art. 72
 
 Ai genitori in possesso di pensione di guerra e' concesso un assegno di previdenza di annue lire 42.000, quando abbiano raggiunto il 65° anno di eta', o, anteriormente, qualora siano o divengano inabili a qualsiasi proficuo lavoro e risultino in istato di bisogno.
 
@@ -958,7 +958,7 @@ L. 24.000 annue dal 1° luglio 1963.
 
 Il limite di eta' previsto dall'articolo 72 della legge 10 agosto 1950, n. 648, e successive modificazioni ed integrazioni, e' ridotto al 60° anno."
 
-#### Art. 73
+### Art. 73
 
 ((Per la concessione della pensione di cui al precedente articolo 71 occorre che ai genitori, collaterali od assimilati siano venuti a mancare, a causa della morte del militare o del civile, i necessari mezzi di sussistenza, tenendo conto dell'aiuto che il dante causa ad essi prestava al momento della morte. Si terra' anche conto dell'aiuto che il figlio sarebbe stato presumibilmente in grado di prestare ai genitori in qualsiasi momento futuro.
 
@@ -976,7 +976,7 @@ AGGIORNAMENTO (9)
 
 La L. 9 novembre 1961, n. 1240 ha disposto (con l'art. 17) che "Il reddito complessivo previsto dagli articoli 62, comma terzo, e 73, comma terzo, della legge 10 agosto 1950, n. 648, modificati dall'articolo 7 della legge 26 luglio 1957, n. 616, e' elevato a lire 720.000 annue, e sara' valutato nei modi e con i criteri stabiliti dall'articolo 41 della legge 10 agosto 1950, n. 648, modificato dall'articolo 4 della presente legge."
 
-#### Art. 74
+### Art. 74
 
 Quando le condizioni generali per la concessione della pensione si verifichino posteriormente alla morte del militare o del civile, il diritto alla pensione viene riconosciuto a decorrere dal giorno in cui tutte le condizioni prescritte si sono verificate.
 
@@ -988,7 +988,7 @@ AGGIORNAMENTO (15)
 
 La Corte Costituzionale con sentenza 21 - 28 marzo 1969, n. 53 (in G.U. 1a s.s. 02/04/1969, n. 85) ha dichiarato "l'illegittimita' costituzionale degli artt. 71, comma primo, lett. e, 77, comma primo, e 74, comma secondo, della legge 10 agosto 1950, n. 648, sul "Riordinamento delle disposizioni sulle pensioni di guerra" limitatamente alle parti in cui prevedono che la pensione indiretta spetta alle sorelle del militare morto per causa di servizio di guerra o del civile deceduto per fatto di guerra, solo in quanto nubili".
 
-#### Art. 75
+### Art. 75
 
 ((Agli effetti della pensione di guerra, in mancanza dei genitori legittimi, sono equiparati ad essi coloro che abbiano adottato il militare o il civile nelle forme di legge prima dell'evento che ne cagiono' la morte.
 
@@ -1000,7 +1000,7 @@ Se i genitori contraggono matrimonio dopo il decesso del militare o del civile g
 
 In mancanza degli adottanti e dei genitori naturali di cui ai precedenti commi, sono equiparati ai genitori legittimi coloro che abbiano affiliato il militare ed il civile, nelle forme di legge, prima dell'evento che ne cagiono' la morte)).
 
-#### Art. 76
+### Art. 76
 
 Alla madre vedova e' equiparata quella che, alla data del decesso del figlio, viveva effettivamente separata dal marito, anche se di seconde nozze, senza riceverne gli alimenti.
 
@@ -1018,7 +1018,7 @@ AGGIORNAMENTO (18)
 
 La Corte Costituzionale con sentenza 27 giugno-9 luglio 1974, n. 221 (in G.U. 1a ss 17/07/1974, n. 187) ha dichiarato "l'illegittimita' costituzionale dell'art. 76, ultimo comma, della legge 10 agosto 1950, n. 648, nella parte in cui non riconosce il diritto alla pensione indiretta di guerra alla madre passata a nuove nozze successivamente alla morte del figlio".
 
-#### Art. 77
+### Art. 77
 
 Ai fratelli e alle sorelle nubili, minorenni, sono equiparati i fratelli e le sorelle nubili maggiorenni, che, alla data del decesso del militare o del civile, siano inabili a qualsiasi proficuo lavoro per una infermita' ascrivibile alla prima categoria dell'annessa tabella A; o che siano divenuti tali anche dopo la suddetta data, ma prima di raggiungere la maggiore eta' o prima del giorno dal quale dovrebbe devolversi in loro favore la pensione gia' liquidata al padre o alla madre. (15)
 
@@ -1036,13 +1036,13 @@ AGGIORNAMENTO (19)
 
 La Corte Costituzionale con sentenza 5 - 21 luglio 1988, n. 828 (in G.U. 1a s.s. 27/07/1988, n. 30) ha dichiarato "l'illegittimita' costituzionale dell'art. 77 della legge 10 agosto 1950, n. 648, sul "Riordinamento delle disposizioni sulle pensioni di guerra", e del corrispondente art. 75 della successiva legge 18 marzo 1968, n. 313, limitatamente alla parte in cui su ordinano il diritto alla pensione indiretta di guerra dei fratelli e sorelle maggiorenni comunque inabili a qualsiasi proficuo lavoro alla condizione che l'inabilita' sussista alla data del decesso del militare o del civile o che divengano inabili anche dopo tale data ma prima di raggiungere la maggiore eta' o prima del giorno dal quale dovrebbe devolversi in loro favore la pensione gia' liquidata al padre o alla madre."
 
-#### Art. 78
+### Art. 78
 
 Ai genitori del militare o del civile morto lasciando vedova o prole con diritto a pensione, e' concessa una pensione speciale, pari ad un terzo di quella stabilita dall'art. 71, purche' sussistano le altre condizioni prescritte dall'art. 73.
 
 La pensione suddetta non e' cumulabile con altra pensione che possa spettare a termini dell'art. 71; non e' soggetta alla riduzione, di cui all'art. 73, e' soggetta all'aumento per cessato godimento di pensione da parte della vedova e della prole del militare o del civile, e rimane integra anche quando sia stata, da parte degli alri aventi diritto, esercitata l'opzione per l'indennita' secondo gli articoli 11 e successivi.
 
-#### Art. 79
+### Art. 79
 
 Il genitore che abbia perduto piu' figli militari per causa del servizio di guerra od attinente alla guerra ed anche, se civili, per i fatti di guerra contemplati nell'art. 10, consegue, a prescindere dall'eta' e dalle condizioni economiche, la pensione piu' favorevole che gli compete.
 
@@ -1050,7 +1050,7 @@ Oltre tale pensione compete anche un aumento da calcolarsi in base alla pensione
 
 Ai collaterali ed agli assimilati, che si trovino nelle condizioni previste dall'art. 73, spetta la pensione nella misura piu' favorevole senza il beneficio di cui sopra.
 
-#### Art. 80
+### Art. 80
 
 Il genitore che abbia perduto piu' figli militari o civili per causa di guerra ed inoltre uno o piu' figli militari per causa di servizio ordinario, consegue lo stesso trattamento di cui all'articolo precedente.
 
@@ -1058,7 +1058,7 @@ Nel caso che uno soltanto dei figli sia morto per causa di guerra, la concession
 
 Qualora la pensione che compete per il figlio morto a causa del servizio ordinario sia piu' favorevole, viene liquidata dall'Amministrazione di appartenenza, mentre gli aumenti previsti dall'articolo precedente sono liquidati dal Ministero del tesoro.
 
-#### Art. 81
+### Art. 81
 
 Il genitore che per la morte di uno o piu' figli sia rimasto totalmente privo di prole consegue, finche' duri tale situazione, la pensione piu' favorevole che gli compete in base alle tabelle M, N, O e P, compreso l'assegno speciale temporaneo, aumentata della meta'.
 
@@ -1066,7 +1066,7 @@ Se abbia, perduto l'unico figlio spetta lo stesso trattamento di cui al comma pr
 
 L'aumento e' cumulabile con quello contemplato nell'art. 79.
 
-#### Art. 82
+### Art. 82
 
 Ai genitori, collaterali ed assimilati del militare o del civile che si trovino nelle condizioni di cui al primo comma dell'art. 73 ed inoltre siano inabili a qualsiasi proficuo lavoro per una infermita' ascrivibile alla prima categoria dell'annessa tabella A, e' concessa la pensione nella misura indicata dall'annessa tabella O nei casi in cui sarebbe stata applicabile la tabella M e nella misura indicata dalla tabella P nei casi in cui sarebbe stata applicabile la tabella N.
 
@@ -1074,49 +1074,47 @@ Nei casi di cui all'art. 78, si applica la riduzione prevista dal primo comma de
 
 L'inabilita' a qualsiasi proficuo lavoro e' da considerarsi presunta al compimento della eta' di 70 anni.
 
-#### Art. 83
+### Art. 83
 
 La pensione di guerra si perde dalla madre e dalle sorelle che contraggono matrimonio, o dai fratelli e dalle sorelle, che raggiungono gli anni 21, salvo il caso di cui all'art. 77.
 
 Nel calcolare l'eta' del padre e dell'assimilato, ai soli effetti dell'art. 71, la frazione di anno si considera come anno intero, se eccede i sei mesi e si trascura, se c eguale o inferiore ai sei mesi.
 
-#### Art. 84
+### Art. 84
 
 Ove i genitori o gli assimilati del militare o del civile siano entrambi viventi all'atto in cui sorge il diritto alla pensione di guerra, questa, in caso di morte di uno di essi, si consolida nel superstite.
 
 La stessa pensione si devolve a favore dei collaterali del militare o del civile quando divengano orfani e siano minorenni o inabili a qualsiasi lavoro proficuo ed, inoltre, nubili se sorelle.
 
-## TITOLO. V.
+## TITOLO. V. - Riversibilita' dei soprassoldi annessi alle medaglie al valor militare.
 
-### Riversibilita' dei soprassoldi annessi alle medaglie al valor - militare.
-
-#### Art. 85
+### Art. 85
 
 Il soprassoldo di medaglia al valore per fatto di guerra si devolve per intero alla vedova ed agli orfani secondo le norme di cui al titolo III della presente legge.
 
-#### Art. 86
+### Art. 86
 
 Quando il decorato sia morto senza lasciare vedova ed orfani con diritto a soprassoldo, questo spetta ai genitori, collaterali ed assimilati, nell'ordine stabilito dall'art. 71 e con le norme degli articoli 75, 76, 83 e 84.
 
-#### Art. 86-bis
+### Art. 86-bis
 
 ((I congiunti dei decorati di medaglia al valor militare che presentino la domanda per conseguire, ai sensi dei precedenti articoli 85 ed 86, la riversibilita' del relativo assegno oltre il termine di un anno dalla trascrizione dell'atto di morte del decorato nei registri di stato civile, o dalla partecipazione della dichiarazione di irreperibilita' al Comune dell'ultimo domicilio, conseguono il beneficio a decorrere dal primo giorno del mese successivo a quello della presentazione della domanda)).
 
-#### Art. 87
+### Art. 87
 
 Per concedere la riversibilita' del soprassoldo di cui ai precedenti articoli 85 e 86, e' necessario accertare, di intesa con la competente Amministrazione militare, se colui il quale e' autorizzato a fregiarsi della decorazione sia immune da gravi carichi penali e morali.
 
-#### Art. 88
+### Art. 88
 
 La perdita o la sospensione del diritto a fregiarsi delle medaglie al valor militare comporta, in ogni caso, la perdita o la sospensione del relativo soprassoldo.
 
 Nei casi di cui al precedente comma la riversibilita' del soprassoldo e' ammessa, su domanda, a favore delle persone di famiglia per le quali la riversibilita' e' consentita dalle disposizioni vigenti in caso di decesso del decorato.
 
-#### Art. 89
+### Art. 89
 
 Il ripristino del diritto a fregiarsi delle medaglie al valor militare comporta la riattivazione del pagamento al decorato del soprassoldo, dalla data in cui il ripristino ha effetto, verso contemporanea cessazione ed imputazione delle somme eventualmente corrisposte a favore dei congiunti.
 
-#### Art. 90
+### Art. 90
 
 Di tutti i provvedimenti che abbiano, comunque, influenza sul pagamenti del soprassoldo annesso alle medaglie al valor militare di cui sono insigniti i militari in congedo e gli estranei alle forze militari, l'Amministrazione competente da' notizia al Ministero del tesoro, per gli eventuali provvedimenti di sua competenza.
 
@@ -1124,7 +1122,7 @@ La cessazione o la riattivazione del pagamento del soprassoldo deve sempre avere
 
 ## TITOLO, VI - Perdita, sospensione e revoca delle pensioni e degli assegni.
 
-#### Art. 91
+### Art. 91
 
 Il diritto a conseguire la pensione, l'assegno o la indennita' ed il godimento della pensione o dell'assegno gia' conseguito, si perdono per fatti posteriori all'evento, da cui derivo' l'invalidita', dai militari di ogni grado che abbiano riportato condanna a pena superiore a tre anni, pronunziata in base ai Codici penali militari, e che renda il condannato indegno di appartenere alle forze armate, nonche' dai militari e dai civili che abbiano riportato condanna che importi la interdizione prepetua dai pubblici uffici.
 
@@ -1140,7 +1138,7 @@ AGGIORNAMENTO (14)
 
 La Corte Costituzionale con sentenza 2 - 19 luglio 1968, n. 113 (in G.U. 1a s.s. 20/07/1968, n. 184) ha dichiarato l'illegittimita' costituzionale "dell'art. 91 della legge 10 agosto 1950, n. 648, sul riordinamento delle disposizioni sulle pensioni di guerra".
 
-#### Art. 92
+### Art. 92
 
 La moglie, i figli, i genitori, i collaterali e gli assimilati del militare morto per causa del servizio di guerra o attinente alla guerra e del civile deceduto per i fatti di guerra contemplati nell'art. 10, i quali siano incorsi in una condanna, che importi l'interdizione perpetua dai pubblici uffici, perdono il diritto a conseguire o godere la pensione o l'assegno. Nel caso di condanna che importi l'interdizione temporanea dai pubblici uffici, l'esercizio del diritto e' sospeso durante l'espiazione della pena, nonche' durante il periodo dell'interdizione ad essa connessa. ((17))
 
@@ -1156,7 +1154,7 @@ AGGIORNAMENTO (17)
 
 La Corte Costituzionale con sentenza 18 - 30 giugno 1971, n. 147 (in G.U. 1a s.s. 07/07/1971, n. 170 ) ha dichiarato "l'illegittimita' costituzionale dell'art. 92, primo comma, della legge 10 agosto 1950, n. 648, recante "Riordinamento delle disposizioni sulle pensioni di guerra"".
 
-#### Art. 93
+### Art. 93
 
 Il diritto a pensione, assegno od indennita' che sia stato perduto definitivamente per una qualunque delle cause contemplate dai precedenti articoli, puo' essere ripristinato quando sia intervenuta amnistia, grazia o riabilitazione.
 
@@ -1164,7 +1162,7 @@ Quando il diritto sia stato semplicemente sospeso per condanna a pena che import
 
 Ripristinato il diritto del titolare, cessano in tutti i casi di avere effetto i provvedimenti per la devoluzione della pensione o dell'assegno a favore degli altri aventi diritto.
 
-#### Art. 94
+### Art. 94
 
 Durante l'espiazione di qualsiasi pena restrittiva della liberta' personale, di durata superiore ad un anno, derivante da condanna che non importi perdita della pensione e dell'assegno gia' conseguiti dal militare o dal civile, gli assegni stessi sono soggetti alla ritenuta della meta'.
 
@@ -1172,13 +1170,13 @@ Se il condannato ha moglie dalla quale non sia separato con sentenza passata in 
 
 Se il condannato e' il coniuge o uno dei figli, dei genitori; dei collaterali o degli assimilati, la pensione o l'assegno si devolve, durante l'espiazione della pena, agli altri aventi diritto, ai quali spetterebbe qualora egli fosse morto.
 
-#### Art. 95
+### Art. 95
 
 Chi acquista o ha acquistato per propria volonta' una cittadinanza straniera, decade dal diritto a conseguire od a godere pensioni, assegni o indennita' di guerra.
 
 I minori che abbiano acquistato una cittadinanza straniera col concorso della volonta' propria o di quella del genitore esercente la patria potesta', o del tutore, decadono in ogni caso dal diritto a conseguire od a godere pensioni, assegni o indennita' di guerra se, al raggiungimento della maggiore eta', conservino, tacitamente o per espressa dichiarazione di volonta', la cittadinanza, straniera.
 
-#### Art. 96
+### Art. 96
 
 Le disposizioni di cui al precedente articolo non si applicano:
 
@@ -1192,13 +1190,13 @@ d) a chi non aveva la cittadinanza italiana al momento della concessione del ben
 
 ((e) a chi, risiedendo stabilmente all'estero per ragioni di lavoro, abbia dovuto acquistare la cittadinanza straniera per ottenere il posto di lavoro)).
 
-#### Art. 97
+### Art. 97
 
 Il diritto a pensione, assegno od indennita', che sia stato perduto in applicazione dell'art. 95 puo' essere ripristinato qualora l'interessato provi di aver riacquistato la cittadinanza italiana.
 
 Il ripristino ha effetto dal giorno della pronuncia del relativo provvedimento da parte della competente autorita' italiana.
 
-#### Art. 98
+### Art. 98
 
 ((I provvedimenti concessivi di pensione di guerra possono essere, in qualsiasi tempo, revocati o modificati quando:
 
@@ -1218,11 +1216,9 @@ A chiunque, senza giustificato motivo, rifiuti di presentarsi alle visite di cui
 
 Il miglioramento clinico conseguito per cure effettuate dall'invalido successivamente all'ammissione vitalizia al diritto pensionistico di guerra non puo' mai costituire motivo di modificazione del trattamento di pensione, ne' di riduzione o soppressione di assegni, salvo quanto disposto dal precedente articolo 44 per i casi di revoca o sospensione del trattamento di incollocabilita')).
 
-## TITOLO VII - Procedura per la liquidazione e la revoca delle pensioni e degli
+## TITOLO VII - Procedura per la liquidazione e la revoca delle pensioni e degli assegni.
 
-### assegni.
-
-#### Art. 99
+### Art. 99
 
 ((Le pensioni, gli assegni e le indennita' previsti dalla presente legge sono liquidati dal Ministro per il tesoro.
 
@@ -1242,7 +1238,7 @@ I membri del Comitato di liquidazione non possono essere nominati o confermati n
 
 Alla direzione della segreteria del Comitato e' preposto un funzionario del Ministero del tesoro con qualifica non inferiore a quella di direttore di divisione)).
 
-#### Art. 100
+### Art. 100
 
 ((Il Comitato di liquidazione puo' funzionare anche suddividendosi in sezioni.
 
@@ -1262,13 +1258,13 @@ Il Ministro per il tesoro stabilisce, con proprio decreto, le misure delle inden
 
 L'articolo 36 della legge 9 novembre 1961, n. 1240, e' abrogato)).
 
-#### Art. 101
+### Art. 101
 
 Il procedimento per la liquidazione si inizia a domanda dell'interessato o di ufficio.
 
 La domanda, diretta al Ministro per il tesoro, e' esente da tassa di bollo, salvo che abbia per oggetto la concessione della pensione o dell'assegno di riversibilita' ordinaria regolato dall'art. 69. Anche i documenti relativi alla domanda sono esenti da tassa di bollo, e la legalizzazione delle copie degli atti dello stato civile viene eseguita gratuitamente.
 
-#### Art. 102
+### Art. 102
 
 Il procedimento per la liquidazione si inizia di ufficio quando la ferita, lesione o infermita', riportata dal militare sia stata riconosciuta dipendente da causa di servizio dalle competenti autorita' amministrative e sanitarie.
 
@@ -1276,7 +1272,7 @@ In tal caso, se il militare al termine della eventuale degenza ospedaliera o del
 
 Contemporaneamente il militare e' inviato in licenza speciale in atteso del trattamento di quiescenza.
 
-#### Art. 103
+### Art. 103
 
 Gli accertamenti sanitari relativi alle cause ed alla entita' delle menomazioni dell'integrita' fisica del militare o del civile vengono eseguiti mediante visita diretta da parte di una Commissione composta di ufficiali medici di cui almeno uno ufficiale superiore con funzioni di presidente, di medici appartenenti al personale civile dello Stato, di ruolo o a contratto, e di sanitari civili scelti fra quelli designati dalla Associazione nazionale tra i mutilati e gli invalidi di guerra e dall'Associazione nazionale famiglie dei caduti in guerra, nonche' di un sanitario avente la qualifica di mutilato o di invalido per la lotta di liberazione, di uno avente la qualifica di partigiano combattente e di uno designato dall'Associazione nazionale vittime civili di guerra.
 
@@ -1298,7 +1294,7 @@ Un estratto del verbale viene consegnato all'interessato, che deve dichiarare se
 
 ((Ai lavori di segreteria della Commissione si provvede con personale dipendente dai Ministeri della difesa e del tesoro)).
 
-#### Art. 104
+### Art. 104
 
 Il parere della Commissione, qualora non sia accettato dall'interessato, e' sottoposto alla revisione di una Commissione superiore nominata dal Ministro per il tesoro, di intesa con il Ministro per la difesa, composta di ufficiali generali e superiori medici del servizio permanente o delle categorie in congedo di cui almeno due docenti universitari nella specialita' relativa alle lesioni o infermita' in esame, nonche' di un sanitario avente la qualifica di mutilato od invalido per la lotta di liberazione e di uno avente la qualifica di partigiano combattente. Per i docenti universitari e' sufficiente il grado di capitano.
 
@@ -1308,7 +1304,7 @@ Gli ufficiali in congedo saranno richiamati in servizio per l'espletamento del l
 
 La Commissione e' presieduta da un ufficiale generale medico.
 
-#### Art. 105
+### Art. 105
 
 La Commissione medica superiore puo' funzionare anche suddividendosi in Sottocommissioni, presiedute ciascuna dal presidente o dall'ufficiale piu' elevato in grado o piu' anziano, e decide con l'intervento di non meno cinque membri, fra i quali almeno uno dei designati dall'Associazione nazionale dei mutilati ed invalidi di guerra, uno dei designati dall'Associazione nazionale famiglie dei caduti in guerra, uno dei designati dall'Associazione nazionale vittime civili di guerra ed uno avente la qualifica di mutilato o di invalido per la lotta di liberazione o di partigiano combattente.
 
@@ -1316,7 +1312,7 @@ Essa esprime di regola il proprio parere sui documenti; ma qualora lo ritenga op
 
 La Commissione da inoltre parere ogni qualvolta ne sia richiesta del Ministro per il tesoro.
 
-#### Art. 106
+### Art. 106
 
 ((Le ferite, lesioni o infermita' dalle quali sia derivata la invalidita' o la morte del militare o del civile debbono essere constatate dagli Enti sanitari o dalle altre competenti autorita' militari o civili, in ogni caso non oltre i cinque anni dalla cessazione del servizio di guerra o attinente alla guerra oppure dagli eventi bellici indicati nell'articolo 10. Per i minori e i dementi il termine predetto rimane sospeso finche', duri la incapacita giuridica.
 
@@ -1338,7 +1334,7 @@ AGGIORNAMENTO (9)
 
 La L. 9 novembre 1961, n. 1240 ha disposto (con l'art. 42) che "Per gli invalidi affetti da parkinsonismo manifestatosi non oltre il 31 dicembre 1958 in conseguenza di una infezione encefalitica, contratta nella guerra 1940-45, o di altre cause di servizio occorse nella predetta guerra alle quali il parkinsonismo sia direttamente riportabile, il termine per la presentazione della domanda di pensione, in deroga a quanto disposto dall'ultimo comma del dell'art. 106 della legge 10 agosto 1950, n. 648, modificato ai sensi del precedente art. 24, verra' a scadere due anni dopo l'entrata in vigore della presente legge."
 
-#### Art. 107
+### Art. 107
 
 ((Le domande per conseguire il trattamento pensionistico sono ammesse senza limite di tempo purche' si verifichino le condizioni stabilite dall'articolo 106 e successive modificazioni)). ((9))
 
@@ -1348,7 +1344,7 @@ AGGIORNAMENTO (9)
 
 La L. 9 novembre 1961, n. 1240 ha disposto (con l'art. 41) che "Per i cittadini italiani appartenenti al Territorio di Trieste - gia' Zona A e B - nonche' per quelli esodati dal territorio ceduto alla Repubblica popolare federativa jugoslava in forza del Trattato di pace, firmato a Parigi il 10 febbraio 1947, i termini gia' previsti dagli articoli 107 e 108 della legge 10 agosto 1950, n. 648, scadono sei mesi dopo l'entrata in vigore della presente legge."
 
-#### Art. 108
+### Art. 108
 
 ((Il militare che presenti la domanda dopo un anno dalla effettiva cessazione del servizio ed il civile dalla data dell'evento dannoso, sono ammessi a godere della pensione o dell'assegno dal primo giorno del mese successivo a quello della presentazione della domanda.
 
@@ -1364,11 +1360,11 @@ AGGIORNAMENTO (9)
 
 La L. 9 novembre 1961, n. 1240 ha disposto (con l'art. 41) che "Per i cittadini italiani appartenenti al Territorio di Trieste - gia' Zona A e B - nonche' per quelli esodati dal territorio ceduto alla Repubblica popolare federativa jugoslava in forza del Trattato di pace, firmato a Parigi il 10 febbraio 1947, i termini gia' previsti dagli articoli 107 e 108 della legge 10 agosto 1950, n. 648, scadono sei mesi dopo l'entrata in vigore della presente legge."
 
-#### Art. 109
+### Art. 109
 
 Quando il Ministro per il tesoro, per insufficiente documentazione o per altro motivo, non ritenga di poter deliberare definitivamente sulla concessione della pensione o dell'assegno da conferire, puo' procedere a liquidazione provvisoria allo stato degli atti.
 
-#### Art. 110
+### Art. 110
 
 Nel caso di perdita, di sospensione o di riduzione della pensione o dell'assegno per condanna penale, il Ministro per il tesoro provvede, dopo passata in giudicato la sentenza, a sopprimere, sospendere o ridurre gli assegni gia' liquidati.
 
@@ -1384,15 +1380,15 @@ Sulla proposta del Comitato, il Ministro decide in via definitiva con provvedime
 
 Avverso tale decisione e' ammesso, da parte degli interessati e del Procuratore generale, ricorso alla Corte dei conti, nei modi e termini stabiliti dal successivo art. 114.
 
-#### Art. 111
+### Art. 111
 
 Quando venga a cessare il godimento di una pensione o di un assegno di guerra e sia da far luogo ad ulteriore liquidazione a favore dello stesso titolare o di successivi aventi diritto, ma si riscontri taluno dei motivi di perdita o riduzione della pensione o dell'assegno previsti negli articoli 98, primo e secondo comma e 110, secondo comma della presente legge, il Ministro per il tesoro decide con la procedura stabilita dal predetto art. 110.
 
-#### Art. 112
+### Art. 112
 
 Quando la Corte dei conti, nei giudizi sui ricorsi contro decreti ministeriali relativi a pensioni od assegni di guerra, ritenga possa farsi luogo a provvedimento di revoca, ai sensi degli articoli 98 e 110, rinvia gli atti al Ministro per il tesoro, salvo l'eventuale corso dei giudizi medesimi.
 
-#### Art. 113
+### Art. 113
 
 ((Tutti i provvedimenti relativi alle pensioni, agli assegni ed alle indennita' regolati dalla presente legge, devono essere notificati agli interessati a mezzo dello ufficiale giudiziario o del messo comunale nel territorio della Repubblica, ed a cura degli agenti consolari all'estero, ovvero per lettera raccomandata, con avviso di ricevimento, spedita a mezzo del servizio postale)).
 
@@ -1404,7 +1400,7 @@ Qualora i sindaci contravvengano, a tale disposizione o, comunque, si verifichin
 
 Le spese sono a carico dei comuni inadempienti.
 
-#### Art. 114
+### Art. 114
 
 Contro il provvedimento del Ministro per il tesoro e' ammesso il ricorso alla Corte dei conti, da presentarsi entro il termine perentorio di novanta giorni dalla notificazione del provvedimento e, nei casi in cui questa venga omessa, di novanta giorni dalla data di consegna del certificato di iscrizione (libretto di pensione) risultante dall'apposito registro. Qualora la notifica del provvedimento impugnato sia stata eseguita a mezzo del servizio postale, il termine per la presentazione del ricorso decorrera' dalla data di consegna risultante dall'avviso di ricevimento.
 
@@ -1422,13 +1418,13 @@ AGGIORNAMENTO (22)
 
 La Corte Costituzionale con sentenza 19 - 25 giugno 1980, n. 97 (in GU 1a s.s. 02/07/1980, n. 180) ha dichiarato "la illegittimita' costituzionale degli artt. 114 della legge 10 agosto 1950, n. 648, e 109 della legge 18 marzo 1968, n. 313, nella parte in cui prescrivono, per la proposizione dei ricorsi in materia di pensioni, assegni o indennita' di guerra, da parte degli aventi diritto, il termine perentorio di novanta giorni dalla data di notificazione o consegna del provvedimento impugnato".
 
-#### Art. 115
+### Art. 115
 
 Se, in dipendenza di un medesimo evento attribuito a causa di servizio, siano negate la pensione di guerra dal Ministero del tesoro e la pensione privilegiata ordinaria dal competente Ministero e l'interessato impugni entrambi i provvedimenti negativi, la decisione, anche sul diritto alla pensione di guerra, spetta alla Sezione della Corte dei conti competente per la pensione privilegiata ordinaria.
 
 Il ricorso puo' essere prodotto entro 90 giorni dalla piu' recente data di notificazione dei due provvedimenti negativi se proposto contro entrambi o anche esclusivamente contro il primo di essi, purche' la seconda pronuncia sia avvenuta in sede di rinvio per competenza ovvero su domanda fatta dall'interessato entro 90 giorni dalla prima notificazione.
 
-#### Art. 116
+### Art. 116
 
 I ricorsi in materia di pensioni di guerra sono decisi da tre Sezioni speciali della Corte dei conti composte ciascuna di un presidente di Sezione, un presidente di Sezione aggiunto ed un congruo numero di consiglieri, primi referendari e referendari assegnati con ordinanza, del Presidente della Corte dei conti.
 
@@ -1440,7 +1436,7 @@ Il personale di magistratura della Corte e' aumentato, nel ruolo organico per i 
 
 ## TITOLO VIII - Disposizioni generali e transitorie.
 
-#### Art. 117
+### Art. 117
 
 La presente legge entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -1458,7 +1454,7 @@ Dopo un anno dalla pubblicazione della presente legge scade il termine per la pr
 
 Le pensioni di riversibilita' ordinaria concesse ai sensi dell'art. 35 del regio decreto 12 luglio 1923, n. 1491, saranno riesaminate in base alle disposizioni ed alle tabelle di cui alla presente legge.
 
-#### Art. 118
+### Art. 118
 
 Dopo due anni dalla pubblicazione della presente legge scadono i termini:
 
@@ -1468,7 +1464,7 @@ b) di cui al primo e secondo comma dell'art. 107 per le invalidita' derivanti da
 
 c) per una sola domanda di aggravamento consentita, agli effetti del primo comma dell'art. 53, relativamente agli eventi verificatisi anteriormente al 1 settembre 1939 nei casi in cui era scaduto il termine a norma della legislazione precedente.
 
-#### Art. 119
+### Art. 119
 
 Su richiesta degli interessati, sono sottoposte a revisione le pratiche di pensione comunque definite negativamente, relative ad infortuni subiti, senza colpa dell'infortunato, per esplosione di ordigni bellici.
 
@@ -1476,23 +1472,23 @@ L'Amministrazione dello Stato puo' rivalersi, per le somme liquidate, contro il 
 
 La istanza di revisione deve essere presentata al Ministero del tesoro entro 90 giorni dalla entrata in vigore i della presente legge, sotto pena di decadenza.
 
-#### Art. 120
+### Art. 120
 
 Quando il trattamento stabilito dalla presente legge risulti piu' favorevole per i pensionati che in precedenza avevano optato per la pensione privilegiata ordinaria, gli interessati dovranno presentare la domanda entro il termine di cui all'articolo precedente.
 
-#### Art. 121
+### Art. 121
 
 I congiunti dei militari e dei civili morti per causa della guerra aventi diritto a pensione od assegno di guerra in base alle norme vigenti anteriormente, con esclusione di altri congiunti ammessi al diritto dalla presente legge, ne conservano il godimento e gli esclusi non subentrano se non quando vengono a mancare i primi concessionari.
 
 Se pero' la pensione o l'assegno di cui sono in godimento i primi concessionari e' inferiore, per qualsiasi motivo, a quello che potrebbe spettare agli esclusi, a costoro viene liquidata la differenza a decorrere dal giorno dal quale avrebbero avuto diritto alla pensione o all'assegno, qualora non fossero esistiti gli attuali titolari.
 
-#### Art. 122
+### Art. 122
 
 Le disposizioni della presente legge si applicano anche agli operai che durante la guerra 1915-18, essendo addetti ad opere e servizi per conto dell'Amministrazione militare, hanno riportato per offesa di armi o di mezzi bellici del nemico ovvero nella zona delle operazioni di guerra, in occasione del lavoro e per causa violenta, lesioni o ferite dalle quali sia derivata una invalidita' ascrivibile alle prime due categorie della annessa tabella A ed alle loro famiglie in caso di morte.
 
 Non sono compresi tra le persone aventi diritto a pensione od assegno di guerra i militari addetti quali operai in stabilimenti, cantieri, o lavori esercitati od assunti da Enti pubblici o dai privati, ancorche' vi abbiano prestato servizio in qualita' di comandati durante la guerra 1915-18, e i cittadini italiani che abbiano riportato in conseguenza della stessa guerra una, invalidita' dovuta a qualsiasi fatto di guerra che ne sia stato la causa violenta, diretta ed immediata, ed in caso di morte le loro famiglie, qualora l'invalidita' o la morte si siano verificate in occasione della prestazione di servizio obbligatorio o volontario tale da esporre la persona a rischio di guerra.
 
-#### Art. 123
+### Art. 123
 
 Nulla e' innovato alla concessione della indennita' di contingenza prevista dall'art. 1 del decreto-legge luogotenenziale 29 aprile 1946, n. 299, nonche' alla concessione, per le pensioni dirette, dell'assegno speciale temporaneo di cui all'art. 11 del decreto legislativo 1 settembre 1947, n. 1108.
 
@@ -1500,11 +1496,11 @@ L'assegno speciale temporaneo di cui all'art. 1 del decreto legislativo 14 april
 
 L'assegno speciale temporaneo di cui all'art. 11 del decreto legislativo 1 settembre 1947, n. 1108, spettante ai genitori, collaterali e assimilati, e' elevato a lire 14.000 annue.
 
-#### Art. 124
+### Art. 124
 
 Con l'entrata in vigore della presente legge sono abrogate tutte le disposizioni contrarie o con essa non compatibili.
 
-#### Art. 125
+### Art. 125
 
 L'onere derivante al bilancio dello Stato, per il corrente esercizio finanziario 1949-50, dalla attuazione della presente legge, sara' fronteggiato per sei miliardi con le maggiori entrate previste dalla legge 18 aprile 1950, n. 254, recante variazioni allo stato di previsione del l'entrata per l'esercizio finanziario 1949-50 (terzo provvedimento), e per 5 miliardi con le maggiori entrate previste dalla legge 28 luglio 1950, n. 568, recante variazioni allo stato di previsione dell'entrata, per l'esercizio finanziario 1949-50 (quinto provvedimento).
 
@@ -1522,7 +1518,7 @@ Visto, il Guardasigilli: PICCIONI
 
 ## TITOLO VIII - Disposizioni generali e transitorie.
 
-#### Tabella A
+### Tabella A
 
 TABELLA A
 
@@ -1930,7 +1926,7 @@ f) Quando il militare od il civile, gia' affetto da perdita anatomica o funziona
 
 Lo stesso trattamento compete all'invalido che dopo aver liquidato la pensione di guerra per perdita anatomica o funzionale di uno degli organi, venga a perdere per causa estranea alla guerra in tutto o in parte l'organo superstite.
 
-#### Tabella B
+### Tabella B
 
 TABELLA B.
 
@@ -2038,31 +2034,31 @@ f) Quando il militare od il civile, gia' affetto da perdita anatomica o funziona
 
 Lo stesso trattamento compete all'invalido che dopo aver liquidato la pensione di guerra per perdita anatomica o funzionale di uno degli organi, venga a perdere per causa estranea alla guerra in tutto o in parte l'organo superstite.
 
-#### Tabella C
+### Tabella C
 
 TABELLA C.
 
 ----&gt; ((Parte di provvedimento in formato grafico)) &lt;----
 
-#### Tabella D
+### Tabella D
 
 TABELLA D.
 
 ----&gt; ((Parte di provvedimento in formato grafico)) &lt;----
 
-#### Tabella E
+### Tabella E
 
 TABELLA E.
 
 ----&gt; ((Parte di provvedimento in formato grafico)) &lt;----
 
-#### Tabella F
+### Tabella F
 
 TABELLA F.
 
 ((TABELLA SOPPRESSA DALLA L. 18 MAGGIO 1967, N. 318))
 
-#### Tabella G
+### Tabella G
 
 TABELLA G.
 
@@ -2070,7 +2066,7 @@ Vedove ed orfani
 
 ----&gt; ((Parte di provvedimento in formato grafico)) &lt;----
 
-#### Tabella H
+### Tabella H
 
 TABELLA H.
 
@@ -2078,7 +2074,7 @@ Vedove ed orfani
 
 Ufficiali generali. . . . . . . . . . . . . . . . . . . . . L. 53.000 Ufficiali superiori . . . . . . . . . . . . . . . . . . . . L. 47.706 Ufficiali inferiori . . . . . . . . . . . . . . . . . . . . L. 34.518 Sottufficiali e truppa. . . . . . . . . . . . . . . . . . . L. 17.366
 
-#### Tabella I
+### Tabella I
 
 TABELLA I.
 
@@ -2086,13 +2082,13 @@ Vedove ed orfani
 
 ----&gt; ((Parte di provvedimento in formato grafico)) &lt;----
 
-#### Tabella L
+### Tabella L
 
 TABELLA L.
 
 ((TABELLA SOPPRESSA DALLA L. 25 GENNAIO 1962, N. 12))
 
-#### Tabella M
+### Tabella M
 
 TABELLA M.
 
@@ -2100,13 +2096,13 @@ Genitori, collaterali ed assimilati
 
 ----&gt; ((Parte di provvedimento in formato grafico)) &lt;----
 
-#### Tabella N
+### Tabella N
 
 TABELLA N.
 
 ((TABELLA SOPPRESSA DALLA L. 25 GENNAIO 1962, N. 12))
 
-#### Tabella O
+### Tabella O
 
 TABELLA O.
 
@@ -2114,7 +2110,7 @@ Genitori, collaterali ed assimilati
 
 ----&gt; ((Parte di provvedimento in formato grafico)) &lt;----
 
-#### Tabella P
+### Tabella P
 
 TABELLA P.
 

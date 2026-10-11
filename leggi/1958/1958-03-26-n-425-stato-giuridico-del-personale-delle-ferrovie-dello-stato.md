@@ -28,131 +28,129 @@ la seguente legge:
 
 ## TITOLO I - Disposizioni generali.
 
-##### Art. 1
+#### Art. 1
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 2
+#### Art. 2
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
 ## TITOLO II - Costituzione del rapporto
 
-### CAPO I
+### CAPO I - AMMISSIONE.
 
-#### AMMISSIONE.
-
-##### Art. 3
+#### Art. 3
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 4
+#### Art. 4
 
 ((ARTICOLO ABROGATO DALLA L. 27 LUGLIO 1967, N. 668))
 
-##### Art. 5
+#### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 6
+#### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 7
+#### Art. 7
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 8
+#### Art. 8
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 9
+#### Art. 9
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 10
+#### Art. 10
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 11
+#### Art. 11
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 12
+#### Art. 12
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 13
+#### Art. 13
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 14
+#### Art. 14
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 15
+#### Art. 15
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-## CAPO II - NOMINE.
+### CAPO II - NOMINE.
 
-##### Art. 16
-
-((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
-
-##### Art. 17
+#### Art. 16
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 18
+#### Art. 17
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 19
+#### Art. 18
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 20
+#### Art. 19
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 21
+#### Art. 20
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 22
+#### Art. 21
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 23
+#### Art. 22
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 24
+#### Art. 23
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 25
+#### Art. 24
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 26
+#### Art. 25
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 27
+#### Art. 26
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 28
+#### Art. 27
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 29
+#### Art. 28
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 30
+#### Art. 29
+
+((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+#### Art. 30
 
 Attribuzioni del personale ausiliario degli uffici.
 
@@ -162,187 +160,187 @@ Attribuzioni del personale ausiliario degli uffici.
 
 COMMA SOPPRESSO DAL D.P.R. 28 DICEMBRE 1970, N. 1077.
 
-##### Art. 31
+#### Art. 31
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 32
+#### Art. 32
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
 ## TITOLO III - Obblighi e garanzie del personale.
 
-##### Art. 33
+#### Art. 33
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 34
+#### Art. 34
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 35
+#### Art. 35
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 36
+#### Art. 36
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 37
+#### Art. 37
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 38
+#### Art. 38
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 39
+#### Art. 39
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 40
+#### Art. 40
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 41
+#### Art. 41
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 42
+#### Art. 42
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 43
+#### Art. 43
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 44
+#### Art. 44
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 45
+#### Art. 45
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 46
+#### Art. 46
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 47
+#### Art. 47
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 48
+#### Art. 48
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 49
+#### Art. 49
 
 ((ARTICOLO ABROGATO DALLA L. 6 OTTOBRE 1981, N. 564))
 
-##### Art. 50
+#### Art. 50
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 51
+#### Art. 51
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 52
+#### Art. 52
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 53
+#### Art. 53
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 54
+#### Art. 54
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 55
+#### Art. 55
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 56
+#### Art. 56
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 57
+#### Art. 57
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 58
+#### Art. 58
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 59
+#### Art. 59
 
 ((ARTICOLO SOPPRESSO DALLA L. 6 FEBBRAIO 1979, N. 42))
 
-##### Art. 60
+#### Art. 60
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 61
+#### Art. 61
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 62
+#### Art. 62
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 63
+#### Art. 63
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 64
+#### Art. 64
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
 ## TITOLO IV - Rapporti informativi e qualificazioni.
 
-### ((TITOLO SOPPRESSO DALLA L. 6 FEBBRAIO 1979, N. 42))
+## ((TITOLO SOPPRESSO DALLA L. 6 FEBBRAIO 1979, N. 42))
 
-##### Art. 65
-
-((ARTICOLO SOPPRESSO DALLA L. 6 FEBBRAIO 1979, N. 42))
-
-##### Art. 66
+#### Art. 65
 
 ((ARTICOLO SOPPRESSO DALLA L. 6 FEBBRAIO 1979, N. 42))
 
-##### Art. 67
+#### Art. 66
 
 ((ARTICOLO SOPPRESSO DALLA L. 6 FEBBRAIO 1979, N. 42))
 
-##### Art. 68
+#### Art. 67
 
 ((ARTICOLO SOPPRESSO DALLA L. 6 FEBBRAIO 1979, N. 42))
 
-##### Art. 69
+#### Art. 68
 
 ((ARTICOLO SOPPRESSO DALLA L. 6 FEBBRAIO 1979, N. 42))
 
-##### Art. 70
+#### Art. 69
 
 ((ARTICOLO SOPPRESSO DALLA L. 6 FEBBRAIO 1979, N. 42))
 
-##### Art. 71
+#### Art. 70
+
+((ARTICOLO SOPPRESSO DALLA L. 6 FEBBRAIO 1979, N. 42))
+
+#### Art. 71
 
 ((ARTICOLO SOPPRESSO DALLA L. 6 FEBBRAIO 1979, N. 42))
 
 ## TITOLO V - Avanzamenti del personale.
 
-##### Art. 72 - Sistemi di avanzamento
+#### Art. 72 - Sistemi di avanzamento
 
 ((COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212)).
 
-##### Art. 73
+#### Art. 73
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 74
+#### Art. 74
 
 Esami di idoneita' e di abilitazione
 
@@ -360,389 +358,383 @@ COMMA ABROGATO DAL D.P.R. 28 DICEMBRE 1970, N. 1077, COME MODIFICATO DALLA L. 12
 
 ((COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212)).
 
-##### Art. 75
+#### Art. 75
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 76
+#### Art. 76
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 77
+#### Art. 77
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 78
+#### Art. 78
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 79
+#### Art. 79
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 80
+#### Art. 80
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 81
+#### Art. 81
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 82
+#### Art. 82
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 83
+#### Art. 83
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 84
+#### Art. 84
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 85
+#### Art. 85
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-## TITOLO VI - Congedi, assenze per malattie, aspettative,
+## TITOLO VI - Congedi, assenze per malattie, aspettative, comandi, collocamenti fuori ruolo e disponibilita'.
 
-### comandi, collocamenti fuori ruolo e disponibilita'.
-
-##### Art. 86
+#### Art. 86
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 87
+#### Art. 87
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 88
+#### Art. 88
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 89
+#### Art. 89
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 90
+#### Art. 90
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 91
+#### Art. 91
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 92
+#### Art. 92
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 93
+#### Art. 93
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 94
+#### Art. 94
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 95
+#### Art. 95
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 96
+#### Art. 96
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 97
+#### Art. 97
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 98
+#### Art. 98
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 99
+#### Art. 99
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 100
+#### Art. 100
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 101
+#### Art. 101
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 102
+#### Art. 102
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
 ## TITOLO VII - Disciplina
 
-### CAPO I
+### CAPO I - SANZIONI DISCIPLINARI E MANCANZE PER LE QUALI SI APPLICANO.
 
-#### SANZIONI DISCIPLINARI E MANCANZE PER LE QUALI SI APPLICANO.
-
-##### Art. 103
+#### Art. 103
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 104
+#### Art. 104
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 105
+#### Art. 105
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 106
+#### Art. 106
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 107
+#### Art. 107
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 108
+#### Art. 108
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 109
+#### Art. 109
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 110
+#### Art. 110
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 111
+#### Art. 111
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 112
+#### Art. 112
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 113
+#### Art. 113
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 114
+#### Art. 114
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 115
+#### Art. 115
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 116
+#### Art. 116
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 117
+#### Art. 117
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 118
+#### Art. 118
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 119
+#### Art. 119
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 120
+#### Art. 120
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 121
+#### Art. 121
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 122
+#### Art. 122
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 123
+#### Art. 123
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 124
+#### Art. 124
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-## CAPO II - COMPETENZA E PROCEDIMENTO PER LA IRROGAZIONE DELLE SANZIONI
+### CAPO II - COMPETENZA E PROCEDIMENTO PER LA IRROGAZIONE DELLE SANZIONI DISCIPLINARI.
 
-### DISCIPLINARI.
-
-##### Art. 125
+#### Art. 125
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 126
+#### Art. 126
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 127
+#### Art. 127
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 128
+#### Art. 128
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 129
+#### Art. 129
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 130
+#### Art. 130
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 131
+#### Art. 131
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 132
+#### Art. 132
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 133
+#### Art. 133
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 134
+#### Art. 134
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 135
+#### Art. 135
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 136
+#### Art. 136
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 137
+#### Art. 137
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 138
+#### Art. 138
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 139
+#### Art. 139
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 140
+#### Art. 140
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 141
+#### Art. 141
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 142
+#### Art. 142
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 143
+#### Art. 143
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 144
+#### Art. 144
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 145
+#### Art. 145
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-## CAPO III - SOSPENSIONE D'UFFICIO E CAUTELARE.
+### CAPO III - SOSPENSIONE D'UFFICIO E CAUTELARE.
 
-##### Art. 146
-
-((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
-
-##### Art. 147
+#### Art. 146
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 148
+#### Art. 147
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 149
+#### Art. 148
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 150
+#### Art. 149
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-## CAPO IV - RICORSI
-
-##### Art. 151
+#### Art. 150
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 152
+### CAPO IV - RICORSI
+
+#### Art. 151
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 153
+#### Art. 152
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-## CAPO V - REINTEGRAZIONE E RIABILITAZIONE.
-
-##### Art. 154
+#### Art. 153
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 155
+### CAPO V - REINTEGRAZIONE E RIABILITAZIONE.
+
+#### Art. 154
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 156
+#### Art. 155
+
+((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+#### Art. 156
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
 ## TITOLO VIII - Estinzione del rapporto.
 
-##### Art. 157
+#### Art. 157
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 158
+#### Art. 158
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 159
+#### Art. 159
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 160
+#### Art. 160
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 161
+#### Art. 161
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 162
+#### Art. 162
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 163
+#### Art. 163
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 164
+#### Art. 164
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 165
+#### Art. 165
 
 Collocamento a riposo d'ufficio.
 
@@ -764,139 +756,137 @@ AGGIORNAMENTO (19)
 
 La L. 6 ottobre 1981, n. 564 ha disposto (con l'art. 9, comma 7) l'abrogazione del quarto comma dell'art. 165 della L. 26 marzo 1958, n. 425.
 
-##### Art. 166
+#### Art. 166
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 167
+#### Art. 167
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 168
+#### Art. 168
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
 ## TITOLO IX - Disposizioni finali e transitorie
 
-### CAPO I
+### CAPO I - DISPOSIZIONI GENERALI PER L'INQUADRAMENTO DEL PERSONALE, PER LA FORMAZIONE DEI RUOLI E PER L'ASSEGNAZIONE DELLE CLASSI DI STIPENDIO.
 
-#### DISPOSIZIONI GENERALI PER L'INQUADRAMENTO DEL PERSONALE, PER LA - FORMAZIONE DEI RUOLI E PER L'ASSEGNAZIONE DELLE CLASSI DI STIPENDIO.
-
-##### Art. 169
+#### Art. 169
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 170
+#### Art. 170
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 171
+#### Art. 171
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 172
+#### Art. 172
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 173
+#### Art. 173
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 174
+#### Art. 174
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 175
+#### Art. 175
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-## CAPO II - DISPOSIZIONI SPECIALI PER IL PERSONALE DIRETTIVO.
+### CAPO II - DISPOSIZIONI SPECIALI PER IL PERSONALE DIRETTIVO.
 
-##### Art. 176
-
-((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
-
-##### Art. 177
+#### Art. 176
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-## CAPO III - DISPOSIZIONI SPECIALI PER IL PERSONALE DEGLI UFFICI.
-
-##### Art. 178
+#### Art. 177
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 179
+### CAPO III - DISPOSIZIONI SPECIALI PER IL PERSONALE DEGLI UFFICI.
+
+#### Art. 178
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 180
+#### Art. 179
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 181
+#### Art. 180
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 182
+#### Art. 181
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 183
+#### Art. 182
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 184
+#### Art. 183
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 185
+#### Art. 184
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 186
+#### Art. 185
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-## CAPO IV - DISPOSIZIONI SPECIALI PER IL PERSONALE DELL'ESERCIZIO.
-
-##### Art. 187
+#### Art. 186
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 188
+### CAPO IV - DISPOSIZIONI SPECIALI PER IL PERSONALE DELL'ESERCIZIO.
+
+#### Art. 187
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 189
+#### Art. 188
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 190
+#### Art. 189
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 191
+#### Art. 190
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 192
+#### Art. 191
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 193
+#### Art. 192
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 194
+#### Art. 193
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 195
+#### Art. 194
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-##### Art. 196
+#### Art. 195
+
+((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+#### Art. 196
 
 Situazioni particolari di personale.
 
@@ -914,7 +904,7 @@ COMMA ABROGATO DALLA L. 18 FEBBRAIO 1963, N. 304
 
 COMMA ABROGATO DALLA L. 18 FEBBRAIO 1963, N. 304
 
-##### Art. 197
+#### Art. 197
 
 Personale dell'esercizio distaccato presso gli uffici.
 
@@ -928,7 +918,7 @@ L'inquadramento di cui di comma precedenti e' limitato ai posti disponibili nell
 
 Il personale che non ottiene l'inquadramento di cui ai precedenti comma, viene restituito all'esercizio o vi rimane se la restituzione sia stata effettuata, ad eccezione di quello fisicamente inidoneo che verra' inquadrato nelle qualifiche degli uffici, esclusa, in tal caso, l'applicazione del precedente art. 179, man mano che si verificheranno ulteriori vacanze di posti, fino al suo totale assorbimento.
 
-##### Art. 198
+#### Art. 198
 
 Personale in servizio di ruolo e non di ruolo alla
 
@@ -940,7 +930,7 @@ Ferme rimanendo le disposizioni di cui agli articoli 7, 8 e 9 del decreto del Pr
 
 I dipendenti con qualifiche del personale delle stazioni che avessero gia' beneficiato di provvedimenti previsti dai decreti indicati nel precedente comma, potranno optare per il provvedimento di cui al medesimo comma, sempre che siano in possesso dei requisiti da esso previsti. Nei loro confronti saranno ricuperate le maggiori competenze corrisposte in dipendenza del beneficio di carriera gia' fruito, limitatamente al periodo di tempo in cui il beneficio stesso si e' concretato.
 
-##### Art. 199
+#### Art. 199
 
 Personale gia' comandato nei territori coloniali.
 
@@ -950,9 +940,9 @@ I predetti agenti parteciperanno al primo concorso interno per l'avanzamento all
 
 L'avanzamento, eventualmente conseguito in base alla disposizione del precedente comma, dara' titolo a partecipare, ora per allora, ai concorsi interni o agli scrutini per le promozioni ai gradi successivi e gli eventuali successivi avanzamenti saranno conferiti, anche in soprannumero, con la stessa decorrenza attribuita ai promossi del concorso interno o dello scrutinio originario, osservandosi le modalita' del comma precedente a seconda che i concorsi originari siano stati indetti con o senza limitazione di posti.
 
-## CAPO V - DISPOSIZIONI VARIE.
+### CAPO V - DISPOSIZIONI VARIE.
 
-##### Art. 200
+#### Art. 200
 
 Disciplina.
 
@@ -968,7 +958,7 @@ Ai ricorsi prodotti prima dell'entrata in vigore della presente legge avverso pr
 
 Ai ricorsi prodotti dopo l'entrata in vigore della presente legge si applicano, invece, le norme della legge stessa anche se i provvedimenti punitivi impugnati siano stati adottati in base alle norme del precedente regolamento del personale.
 
-##### Art. 201
+#### Art. 201
 
 Collocamento a riposo di agenti fisicamente inidonei e conservati in impiego.
 
@@ -984,7 +974,7 @@ AGGIORNAMENTO (3)
 
 La L. 31 gennaio 1960, n. 39 ha disposto (con l'articolo unico) che la sostituzione del testo dell'art. 201 della legge 26 marzo 1958, n. 425 ha effetto dal 1 maggio 1958.
 
-##### Art. 202
+#### Art. 202
 
 Personale straordinario.
 
@@ -994,13 +984,13 @@ Il personale stesso e' conservato in servizio in qualita' di straordinario fino 
 
 Per le mancanze disciplinari e' applicabile, al predetto personale straordinario, il trattamento previsto all'art. 23 per il personale in prova.
 
-##### Art. 203
+#### Art. 203
 
 Permanenza in vigore di norme speciali del precedente regolamento del personale.
 
 Le disposizioni di cui agli articoli dal n. 126 al n. 131 del precedente regolamento del personale restano in vigore per i casi in cui sono tuttora da applicarsi.
 
-##### Art. 204
+#### Art. 204
 
 Ammissione agli esami o scrutini in seguito a proscioglimento dai
 
@@ -1008,7 +998,7 @@ addebiti disciplinari o penali.
 
 ((I dipendenti che anteriormente alla data di entrata in vigore della presente legge siano stati esclusi da concorsi interni per esami, per aver riportato una qualificazione inferiore a quella di buono, a seguito di procedimento penale o disciplinare, o perche' sottoposti ai procedimenti medesimi e che successivamente siano stati prosciolti da ogni addebito o puniti con sanzione che non abbia comportato una qualificazione inferiore a buono, sono ammessi al primo concorso interno per il conferimento della conseguente promozione che e' attribuita con le modalita' previste dall'articolo 83, qualora riportino un punteggio non inferiore a quello dell'ultimo promosso nel concorso originario, anche in soprannumero. La suddetta condizione del punteggio non e' richiesta per i concorsi alle qualifiche di cui all'allegato 13.))
 
-##### Art. 205
+#### Art. 205
 
 Dipendenti esclusi dagli esami di promozione per scadenti qualificazioni.
 
@@ -1020,13 +1010,13 @@ I dipendenti che, avendo chiesto di partecipare ai concorsi di cui al primo comm
 
 Agli stessi concorsi riservati sono, altresi', ammessi quei dipendenti che non completarono le prove di esame nei concorsi dai quali vennero esclusi per gli stessi motivi indicati nel primo comma, al fine di sostenere le ulteriori prove, purche' in quelle precedentemente sostenute non abbiano riportata una puntazione insufficiente al proseguimento degli esami.
 
-##### Art. 206
+#### Art. 206
 
 Notificazione dei provvedimenti di pensione.
 
 I provvedimenti di pensione adottati dall'Azienda autonomia delle ferrovie dello Stato possono essere comunicati agli interessati, ai fini dell'art. 22 del testo unico, approvato con regio decreto 22 aprile 1909, numero 229, anche tramite il sindaco del comune di residenza oppure tramite l'autorita' ferroviaria.
 
-##### Art. 207
+#### Art. 207
 
 Coordinamento delle qualifiche previste dalle "disposizioni sulle competenze accessorie" approvate con legge 31 luglio 1957, n. 685, con quelle risultanti dagli allegati di cui al precedente art. 1.
 
@@ -1034,19 +1024,19 @@ Il quadro di equiparazione delle qualifiche di cui all'art. 90 delle disposizion
 
 Sono soppresse la qualifica di operaio tecnico e tutte le indennita' e compensi previsti per la qualifica stessa, dalle disposizioni sulle competenze accessorie di cui al precedente comma.
 
-##### Art. 208
+#### Art. 208
 
 Norme di applicazione
 
 Il Ministro per i trasporti emanera' con propri provvedimenti, le norme di applicazione della presente legge e determinera' la disponibilita' dei posti per ciascun inquadramento o concorso, ripartendo, proporzionalmente al numero degli aspiranti, i posti di ciascuna qualifica che risultano vacanti alla data di entrata in vigore della presente legge, quando ad essa concorrano categorie diverse di dipendenti, per titolo diverso.
 
-##### Art. 209
+#### Art. 209
 
 Richiamo alla legge generale.
 
 Per le materie non specificatamente disciplinate dalla presente legge valgono le disposizioni della legge generale concernente lo statuto degli impiegati civili dello Stato.
 
-##### Art. 210
+#### Art. 210
 
 Congedo ordinario per l'anno 1957.
 
@@ -1058,7 +1048,7 @@ Il congedo ordinario spettante per l'anno 1957 ai seguenti dipendenti dell'azien
 
 17 giorni per gli agenti dei gradi inferiori al 12° (esclusi gli uscieri) che non abbiano compiuto i dieci anni di servizio.
 
-##### Art. 211
+#### Art. 211
 
 Assunzione del personale impiegato nei servizi
 
@@ -1072,7 +1062,7 @@ AGGIORNAMENTO (5)
 
 La legge 18 febbraio 1963, n. 304 ha disposto (con l'art. 21) che "La presente legge ha effetto dal 1 ottobre 1961".
 
-##### Art. 212
+#### Art. 212
 
 Servizi appaltati da riassumere in gestione diretta.
 
@@ -1090,7 +1080,7 @@ e) accudienza, ingrassaggio, smontaggio e montaggio delle locomotive e mezzi di 
 
 Non sono compresi, nei servizi di cui alla lettera e), i servizi di manovra appaltati alle imprese private nei porti di Genova e Savona ed eventuali altri del genere che dovessero essere appaltati altrove; sono altresi' esclusi tutti i servizi di pulizia piazzali, locali, ecc.
 
-##### Art. 213
+#### Art. 213
 
 Requisiti e procedura per l'assunzione ai sensi dell'art. 211.
 
@@ -1120,13 +1110,13 @@ AGGIORNAMENTO (5)
 
 La legge 18 febbraio 1963, n. 304 ha disposto (con l'art. 21) che "La presente legge ha effetto dal 1 ottobre 1961".
 
-##### Art. 214
+#### Art. 214
 
 Provvedimenti di assunzione in gestione diretta di cui all'art. 212.
 
 Con decreto del Ministro per i trasporti viene disposta l'assunzione in gestione diretta, da parte dell'Azienda delle ferrovie dello Stato, dei servizi di cui allo art. 212, e vengono determinati contemporaneamente i quantitativi di personale da assumere ai sensi dei precedenti articoli, per l'espletamento dei servizi stessi; nel limite dei posti disponibili, fissandone anche la data di assunzione.
 
-##### Art. 215
+#### Art. 215
 
 Orario di lavoro.
 
@@ -1134,19 +1124,19 @@ Le norme sull'orario di lavoro contenute nel decreto legislativo 22 luglio 1923,
 
 Con la stessa decorrenza saranno emanate le norme di cui all'art. 34.
 
-##### Art. 216
+#### Art. 216
 
 Funzionari dell'Azienda membri del Consiglio di amministrazione.
 
 I funzionari dell'Azienda che alla data di entrata in vigore della presente legge fanno parte, come membri, del Consiglio di amministrazione, sono conservati in servizio fino alla cessazione del loro attuale mandato in seno al Consiglio stesso.
 
-##### Art. 217
+#### Art. 217
 
 Abrogazione del precedente regolamento.
 
 E' approvato il presente stato giuridico del personale delle Ferrovie dello Stato in sostituzione del regolamento del personale medesimo, approvato con regio decreto-legge 7 aprile 1925, n. 405, e successive modificazioni.
 
-##### Art. 218
+#### Art. 218
 
 Decorrenza.
 
@@ -1164,9 +1154,9 @@ Visto, il Guardasigilli:
 
 GONELLA
 
-## CAPO V - DISPOSIZIONI VARIE.
+### CAPO V - DISPOSIZIONI VARIE.
 
-##### Allegato n.1
+#### Allegato n.1
 
 ALLEGATI N. 1, 2 e 3
 
@@ -1326,7 +1316,7 @@ capo superiore (r.e.)."
 
 La L. 6 febbraio 1979, n. 42 ha inoltre disposto (con l'art.33, comma 3) che la modifica ha effetto dal 1 ottobre 1978.
 
-##### Allegato n.2
+#### Allegato n.2
 
 ALLEGATO N. 2
 
@@ -1536,7 +1526,7 @@ capo superiore (r.e.)."
 
 La L. 6 febbraio 1979, n. 42 ha inoltre disposto (con l'art.33, comma 3) che la modifica ha effetto dal 1 ottobre 1978.
 
-##### Allegato n.3
+#### Allegato n.3
 
 ALLEGATO N. 3
 
@@ -1864,7 +1854,7 @@ Il D.P.R. 28 dicembre 1970, n. 1077, come modificato dalla L. 6 giugno 1975, n. 
 
 Parte di provvedimento in formato grafico
 
-##### Allegato n.4
+#### Allegato n.4
 
 ALLEGATO N. 4 (Art. 17 - S. G.)
 
@@ -2006,7 +1996,7 @@ Il D.P.R. 28 dicembre 1970, n. 1077, come modificato dalla L. 6 giugno 1975, n. 
 
 Parte di provvedimento in formato grafico
 
-##### Allegato n.5
+#### Allegato n.5
 
 ALLEGATO N. 5
 
@@ -2028,7 +2018,7 @@ Parte di provvedimento in formato grafico
 
 La stessa legge ha inoltre disposto (con l'art. 8, comma 1) che "la presente legge ha effetto dal 30 giugno 1961".
 
-##### Allegato n.6
+#### Allegato n.6
 
 ALLEGATO N. 6 (Art. 62 - S. G.)
 
@@ -2036,7 +2026,7 @@ Stato matricolare
 
 Parte di provvedimento in formato grafico
 
-##### Allegato n.7
+#### Allegato n.7
 
 ALLEGATO N. 7 (Art. 69 - S. G)
 
@@ -2044,7 +2034,7 @@ MOD. A:
 
 Parte di provvedimento in formato grafico
 
-##### Allegato n.8
+#### Allegato n.8
 
 ALLEGATO N. 8.
 
@@ -2054,7 +2044,7 @@ MOD. B:
 
 Parte di provvedimento in formato grafico
 
-##### Allegato n.9
+#### Allegato n.9
 
 ALLEGATO N. 9 (Art. 69 - S. G.)
 
@@ -2062,13 +2052,13 @@ MOD. C:
 
 Parte di provvedimento in formato grafico
 
-##### Allegato n.10
+#### Allegato n.10
 
 ALLEGATO N. 10 (Art. 71 - S. G.)
 
 Parte di provvedimento in formato grafico
 
-##### Allegato n.11
+#### Allegato n.11
 
 ALLEGATO N. 11.
 
@@ -2114,7 +2104,7 @@ AGGIORNAMENTO (9)
 
 Il D.P.R. 28 dicembre 1970, n. 1077 ha disposto (con l'art. 153, comma 2) che "il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto dal 1 luglio 1970".
 
-##### Allegato n.12
+#### Allegato n.12
 
 ALLEGATO N. 12
 
@@ -2259,7 +2249,7 @@ Il D.P.R. 28 dicembre 1970, n. 1077, come modificato dalla L. 1° giugno 1977, n
 
 Parte di provvedimento in formato grafico
 
-##### Allegato n.13
+#### Allegato n.13
 
 ALLEGATO N. 13 (Art. 82 - S. G.)
 
@@ -2295,7 +2285,7 @@ AGGIORNAMENTO (10)
 
 Il D.P.R. 28 dicembre 1970, n. 1077, come modificato dalla L. 6 giugno 1975, n. 197 ha disposto (con l'art. 105) che "Al quadro n.7 annesso al decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077, concernente le qualifiche cui si accede per concorso interno per esami con graduatorie di promovibilita' ad esaurimento,l'asterisco da cui risulta contrassegnata la qualifica di macchinista, ai fini dell'applicazione dei commi quarto e quinto dell'articolo 82 della legge 26 marzo 1958, n. 425, e' soppresso".
 
-##### Allegato n.14
+#### Allegato n.14
 
 ALLEGATO N. 14
 
@@ -2313,7 +2303,7 @@ AGGIORNAMENTO (9)
 
 Il D.P.R. 28 dicembre 1970, n. 1077 ha disposto (con l'art. 153, comma 2) che "il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto dal 1 luglio 1970".
 
-##### Allegato n.15
+#### Allegato n.15
 
 ALLEGATO N. 15 (Art. 165 - S. G.)
 
@@ -2373,7 +2363,7 @@ AGGIORNAMENTO (11)
 
 Il D.P.R. 28 dicembre 1970, n. 1077, come modificato dalla L. 1° giugno 1977, n. 276 ha disposto (con l'art. 105) che "Ad integrazione del quadro n.9 annesso al decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077, i limiti di eta' e di servizio per il collocamento a riposo di ufficio delle qualifiche di primo ufficiale marconista e di ufficiale marconista sono fissati, rispettivamente,in 60 e 25 anni".
 
-##### Allegato n.16
+#### Allegato n.16
 
 ALLEGATO N. 16
 

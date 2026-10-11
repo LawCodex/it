@@ -65,11 +65,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - RECEPIMENTO DELLA DIRETTIVA 2007/65/CE
 
-### RECEPIMENTO DELLA DIRETTIVA 2007/65/CE
-
-#### Art. 1
+### Art. 1
 
 Oggetto
 
@@ -273,7 +271,7 @@ Oggetto
 
 > 2\. Formano oggetto del testo unico le disposizioni in materia di servizi di media audiovisivi e di radiofonia, quali la trasmissione di programmi televisivi, sia lineari che a richiesta, di programmi radiofonici e di programmi-dati, anche ad accesso condizionato, nonche' la fornitura di servizi interattivi associati e di servizi di accesso condizionato su qualsiasi piattaforma di diffusione.».
 
-#### Art. 2
+### Art. 2
 
 Ambito di applicazione
 
@@ -305,7 +303,7 @@ b) anche se non utilizzano un collegamento terra-satellite situato in Italia, se
 
 6\. I fornitori di servizi media audiovisivi appartenenti a Stati membri dell'Unione europea sottoposti alla giurisdizione italiana ai sensi del presente articolo sono tenuti al rispetto delle norme dell'ordinamento giuridico italiano applicabili ai fornitori di servizi di media audiovisivi.».
 
-#### Art. 3
+### Art. 3
 
 Trasmissioni transfrontaliere
 
@@ -359,7 +357,7 @@ b) notificato alla Commissione e allo Stato membro dell'Unione europea alla cui 
 
 9\. Le disposizioni del presente articolo si applicano, con i necessari adattamenti, alle trasmissioni televisive provenienti da Stati parti della Convenzione di Strasburgo sulla televisione transfrontaliera del 5 maggio 1989, ratificata con legge 5 ottobre 1991 n. 327, che non sono anche Stati membri dell'Unione europea.».
 
-#### Art. 4
+### Art. 4
 
 Definizioni
 
@@ -501,7 +499,7 @@ oo) "Ministero", il Ministero dello sviluppo economico.
 
 2\. Le definizioni di cui al comma 1 si applicano per analogia ai servizi radiofonici. Laddove non diversamente specificato, sponsorizzazione e televendita comprendono anche le attivita' svolte a mezzo della radiodiffusione sonora.».
 
-#### Art. 5
+### Art. 5
 
 Garanzie per gli utenti
 
@@ -545,7 +543,7 @@ f) revisione del piano di numerazione in base allo sviluppo del mercato, sentiti
 
 7\. Le disposizioni del presente articolo si applicano anche alle emittenti radiofoniche ed ai servizi dalle stesse forniti.».
 
-#### Art. 6
+### Art. 6
 
 Protezione del diritto d'autore
 
@@ -561,7 +559,7 @@ b) si astengono dal trasmettere o ri-trasmettere, o mettere comunque a disposizi
 
 3\. L'Autorita' emana le disposizioni regolamentari necessarie per rendere effettiva l'osservanza dei limiti e divieti di cui al presente articolo.».
 
-#### Art. 7
+### Art. 7
 
 Eventi di particolare rilevanza
 
@@ -569,7 +567,7 @@ Eventi di particolare rilevanza
 
 «Art. 32-ter (Eventi di particolare rilevanza). - 1. Con deliberazione dell'Autorita' e' compilata una lista degli eventi, nazionali e non, considerati di particolare rilevanza per la societa' di cui e' assicurata la diffusione su palinsesti in chiaro, in diretta o in differita. L'Autorita' determina altresi' se le trasmissioni televisive di tali eventi debbano essere in diretta o in differita, in forma integrale ovvero parziale. La lista e' comunicata alla Commissione europea secondo quanto previsto dall'articolo 3-undecies della direttiva 89/552/CEE del 3 ottobre 1989, del Consiglio, come da ultimo modificata dalla direttiva 2007/65/CE, del Parlamento europeo e del Consiglio.».
 
-#### Art. 8
+### Art. 8
 
 Brevi estratti di cronaca
 
@@ -593,7 +591,7 @@ f) la lunghezza massima dei brevi estratti e i limiti di tempo per la loro trasm
 
 g) l'eventuale compenso pattuito non deve superare i costi supplementari direttamente sostenuti per la fornitura dell'accesso.».
 
-#### Art. 9
+### Art. 9
 
 Tutela dei minori
 
@@ -629,7 +627,7 @@ Le eventuali modificazioni del Codice o l'adozione di nuovi atti di autoregolame
 
 11\. L'Autorita' stabilisce con proprio regolamento da adottare entro il 30 giugno 2010, la disciplina di dettaglio prevista dal comma 5. I fornitori di servizi di media audiovisivi o di servizi si conformano alla menzionata disciplina di dettaglio entro trenta giorni dalla data di entrata in vigore del regolamento della Autorita', comunque garantendo che i contenuti di cui trattasi siano ricevibili e fruibili unicamente nel rispetto delle condizioni fissate dall'Autorita' ai sensi del comma 5.».
 
-#### Art. 10
+### Art. 10
 
 Comunicazioni commerciali
 
@@ -665,7 +663,7 @@ g) le comunicazioni commerciali audiovisive non arrecano pregiudizio fisico o mo
 
 3\. Le disposizioni del presente articolo si applicano altresi' alle emittenti radiofoniche ed ai servizi dalle stesse forniti.».
 
-#### Art. 11
+### Art. 11
 
 Interruzioni pubblicitarie
 
@@ -705,7 +703,7 @@ f) non usare l'indicazione del rilevante grado alcolico come qualita' positiva d
 
 11\. Le disposizioni del presente articolo si applicano altresi' alla pubblicita' ed alle televendite trasmesse dalle emittenti radiofoniche.».
 
-#### Art. 12
+### Art. 12
 
 Limiti di affollamento
 
@@ -739,7 +737,7 @@ I soggetti diversi dalle emittenti, anche analogiche,e dalle emittenti radiofoni
 
 13\. Ai fini del presente articolo, l'ora d'orologio si computa partendo, per ciascuna giornata di programmazione, dall'ora e dal minuto di inizio delle trasmissioni di ciascuna emittente, anche analogica; per "orario giornaliero di programmazione" si intende il tempo che intercorre, per ciascun giorno solare, tra l'inizio ed il termine effettivi delle trasmissioni di ciascuna emittente, anche analogica.».
 
-#### Art. 13
+### Art. 13
 
 Sponsorizzazioni
 
@@ -765,7 +763,7 @@ c) non devono stimolare all'acquisto o al noleggio dei prodotti o servizi dello 
 
 7\. Le disposizioni del presente articolo si applicano altresi' alle emittenti radiofoniche ed ai servizi dalle stesse forniti.».
 
-#### Art. 14
+### Art. 14
 
 Televendite
 
@@ -795,7 +793,7 @@ Televendite
 
 > 2-ter. Ai palinsesti dedicati esclusivamente alla pubblicita', alle televendite, ovvero all'autopromozione non si applicano l'art. 37, commi da 1 a 7, l'art. 38, comma2, e l'art. 44.».
 
-#### Art. 15
+### Art. 15
 
 Inserimento di prodotti
 
@@ -819,7 +817,7 @@ c) non danno indebito rilievo ai prodotti in questione.
 
 2\. Le disposizioni del presente articolo si applicano unicamente ai programmi prodotti successivamente alla data di entrata in vigore del presente decreto.
 
-#### Art. 16
+### Art. 16
 
 Produzione audiovisiva europea
 
@@ -845,11 +843,9 @@ Con decreto del Ministro dello sviluppo economico e del Ministro per i beni e le
 
 2\. Il decreto interministeriale di cui al comma 3 dell'articolo 44 del decreto legislativo 31 luglio 2005, n. 177, come sostituito dal comma 1 del presente articolo, e' adottato entro sei mesi dalla data di entrata in vigore del presente decreto.
 
-## Capo II
+## Capo II - NORME DI COORDINAMENTO DEL TESTO UNICO DELLA RADIOTELEVISIONE
 
-### NORME DI COORDINAMENTO DEL TESTO UNICO - DELLA RADIOTELEVISIONE
-
-#### Art. 17
+### Art. 17
 
 Norme integrative e di coordinamento
 
@@ -1381,7 +1377,7 @@ zz) all'articolo 53, comma 1, le parole: «per la diffusione circolare dei progr
 
 > «Art. 53 (Principio di specialita'). - 1. In considerazione degli obiettivi di tutela del pluralismo e degli altri obiettivi di interesse generale perseguiti, tenendo conto dell'esigenza di incoraggiare l'uso efficace e la gestione efficiente delle radiofrequenze, di adottare misure proporzionate agli obiettivi, di incoraggiare investimenti efficienti in materia di infrastrutture, promovendo innovazione, e di adottare misure rispettose e tali da non ostacolare lo sviluppo dei mercati emergenti, le disposizioni del presente testo unico in materia di reti utilizzate per la diffusione di servizi di media audiovisivi e radiofonici di cui all'art. 1, comma 2, costituiscono disposizioni speciali, e prevalgono, ai sensi dell'art. 2, comma 3, del decreto legislativo 1° agosto 2003, n. 259, su quelle dettate in materia dal medesimo.».
 
-#### Art. 18
+### Art. 18
 
 Allineamento dei titoli abilitativi
 
@@ -1399,7 +1395,7 @@ Allineamento dei titoli abilitativi
 
 > Art. 14 (Disposizioni particolari per la regione autonoma Valle d'Aosta e per le province autonome di Trento e di Bolzano). - 1. Fermo restando il rispetto dei principi fondamentali previsti dal presente testo unico, la regione autonoma Valle d'Aosta e le province autonome di Trento e di Bolzano provvedono alle finalita' di cui al medesimo testo unico nell'ambito delle specifiche competenze ad esse spettanti ai sensi dello Statuto speciale e delle relative norme di attuazione, anche con riferimento alle disposizioni del titolo V della parte seconda della Costituzione, per le parti in cui prevedono forme di autonomia piu' ampie rispetto a quelle gia' attribuite.».
 
-#### Art. 19
+### Art. 19
 
 Disposizioni finanziarie
 
@@ -1407,7 +1403,7 @@ Disposizioni finanziarie
 
 2\. Le amministrazioni interessate provvedono all'adempimento dei compiti derivanti dal presente decreto con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-#### Art. 20
+### Art. 20
 
 Entrata in vigore
 

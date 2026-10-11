@@ -28,7 +28,7 @@ la seguente legge:
 
 ## TITOLO I - DISPOSIZIONI GENERALI
 
-#### ART. 1 - Indirizzo e coordinamento degli interventi nel mercato agricolo-alimentare
+### ART. 1 - Indirizzo e coordinamento degli interventi nel mercato agricolo-alimentare
 
 Il CIPAA - Comitato interministeriale per la politica agricola e alimentare - istituito con legge 27 dicembre 1977, n. 984, in conformita' con la normativa comunitaria ed in armonia con le indicazioni contenute nel piano nazionale di cui all'articolo 3 della citata legge 27 dicembre 1977, n. 984, determina gli indirizzi e gli obiettivi della politica agricoloalimentare, ivi compresi quelli relativi agli interventi sul mercato dei prodotti agricolo-alimentari, dei prodotti ortofrutticoli trasformati, dei prodotti della distillazione vitivinicola, nonche' dei prodotti ittici, necessari ad assicurare il regolare andamento del mercato stesso e degli approvvigionamenti alimentari al consumo.
 
@@ -40,11 +40,11 @@ Eventuali modifiche ed integrazioni al programma di cui al comma precedente sono
 
 In allegato ai documenti sottoposti all'esame del CIPAA ai sensi dei precedenti commi il Ministero dell'agricoltura e delle foreste e' tenuto altresi' a trasmettere le relazioni previsionali e consuntive relative alle attivita' svolte dall'AIMA per gli interventi comunitari, nonche' alle attivita' svolte dagli enti o organismi pubblici di cui al successivo articolo 3, primo comma, lettera a).
 
-#### ART. 2 - Mercato risicolo
+### ART. 2 - Mercato risicolo
 
 In attuazione di quanto prevedono il secondo comma dell'articolo 71, l'articolo 72 e l'articolo 77 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, per il coordinamento finanziario degli interventi regionali con quelli nazionali attinenti ai mercati, e per le funzioni di promozione per il miglioramento della produzione del riso, l'Ente nazionale risi e le regioni interessate concordano i rispettivi interventi per la regolazione del mercato risicolo, sulla base di una programmazione annuale.
 
-#### ART. 3 - Compiti e ordinamento dell'AIMA
+### ART. 3 - Compiti e ordinamento dell'AIMA
 
 Per l'attuazione degli indirizzi e degli obiettivi stabiliti dal CIPAA in conformita' a quanto previsto dall'articolo 1, l'AIMA:
 
@@ -74,7 +74,7 @@ Con lo statuto-regolamento si provvede altresi' ad adeguare l'organizzazione e l
 
 Lo statuto-regolamento, in relazione ai criteri ed alle direttive di cui al secondo comma del presente articolo, determina altresi' i necessari ed opportuni adattamenti alle norme di contabilita' generale dello Stato per quanto concerne le procedure da seguire per l'attivita' contrattuale e l'aggiudicazione delle relative forniture, nonche' le procedure e le modalita' di pagamento, i modi di prestazione delle cauzioni e della eventuale loro restituzione, tenuto anche conto della necessita' di assicurare l'esecuzione degli interventi disposti dalla CEE in conformita' ai tempi e alle modalita' stabiliti dalla normativa comunitaria.
 
-#### ART. 4 - Organi dell'AIMA e loro competenze
+### ART. 4 - Organi dell'AIMA e loro competenze
 
 Gli organi dell'AIMA sono:
 
@@ -142,7 +142,7 @@ Il Collegio dei revisori, per l'esercizio delle sue funzioni, si avvale di un uf
 
 Il Collegio dei revisori dei conti ha diritto di presenziare alle riunioni del Consiglio di amministrazione dell'AIMA.
 
-#### ART. 5 - Comitato consultivo nazionale
+### ART. 5 - Comitato consultivo nazionale
 
 Al fine di assicurare la partecipazione all'attivita' dell'AIMA delle categorie interessate e delle loro organizzazioni e' istituito un Comitato consultivo nazionale cosi' composto:
 
@@ -180,11 +180,11 @@ d) su tutte le questioni ad esso sottoposte dal Consiglio di amministrazione del
 
 Il parere del Comitato consultivo e' obbligatorio per quanto riguarda l'accoglimento o la reiezione delle domande di iscrizione all'albo di cui al successivo articolo 8.
 
-#### ART. 6 - Comitato consultivo-regionale
+### ART. 6 - Comitato consultivo-regionale
 
 Ciascuna regione puo' costituire un Comitato consultivo regionale sulla base dei criteri di cui al precedente articolo 5, per formulare proposte per il coordinamento dell'attivita' dell'AIMA con l'azione regionale in campo agricolo.
 
-#### ART. 7 - Personale
+### ART. 7 - Personale
 
 L'Azienda e' dotata di personale inquadrato in ruoli organici da essa amministrati, al quale si applica l'ordinamento e lo stato giuridico previsti per i dipendenti civili dello Stato.
 
@@ -194,11 +194,9 @@ Il trattamento economico del personale AIMA e' fissato sulla base di accordi con
 
 Entro 60 giorni dalla data dell'accordo, con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, sono emanate le norme di attuazione dell'accordo stesso.
 
-## TITOLO II - DISPOSIZIONI CONCERNENTI LE OPERAZIONI E GLI INTERVENTI DI COMPETENZA
+## TITOLO II - DISPOSIZIONI CONCERNENTI LE OPERAZIONI E GLI INTERVENTI DI COMPETENZA DELL'AIMA
 
-### DELL'AIMA
-
-#### ART. 8 - Operazioni relative agli interventi sul mercato agricolo-alimentare
+### ART. 8 - Operazioni relative agli interventi sul mercato agricolo-alimentare
 
 Per il compimento delle operazioni relative ai compiti previsti alle lettere a) e b) del precedente articolo 3, l'AIMA si avvale prioritariamente di associazioni ed unioni di produttori agricoli riconosciute, di cooperative e loro consorzi, nonche' degli altri operatori che risultino iscritti all'albo di cui al presente articolo, mediante convenzioni stipulate sulla base delle condizioni generali deliberate dal Consiglio di amministrazione ed approvate dal CIPAA.
 
@@ -206,17 +204,17 @@ Le convenzioni sono stipulate mediante licitazione privata ovvero, quando questa
 
 Entro sei mesi dall'entrata in vigore della presente legge, il Consiglio di amministrazione dell'AIMA, sentito il Comitato consultivo nazionale, sulla base delle condizioni generali di cui al primo comma stabilisce i requisiti di idoneita' tecnica necessaria e le modalita' per la iscrizione all'albo degli assuntori, secondo le specifiche categorie merceologiche.
 
-#### Art. 8-bis
+### Art. 8-bis
 
 ((Quando ricorrano circostanze che non consentano normali operazioni di immagazzinaggio a medio o lungo termine o insorgano particolari esigenze di tutela della salute pubblica, l'AIMA provvede alla eliminazione dei prodotti agricoli e zootecnici e loro derivati che hanno formato oggetto del suo intervento nel rispetto delle vigenti disposizioni di igiene pubblica)).
 
-#### ART. 9 - Finanziamenti per le operazioni di intervento
+### ART. 9 - Finanziamenti per le operazioni di intervento
 
 Per l'attuazione dei compiti di cui alle lettere a), b) e c) del precedente articolo 3, l'AIMA, con le disponibilita' di cui all'articolo 10 della presente legge, assicura alle cooperative e loro consorzi (in via prioritaria quando costituite con prevalenza di soci coltivatori diretti), nonche' alle associazioni dei produttori, assuntori dei relativi servizi, i finanziamenti necessari per le operazioni di acquisto dai conferenti con le modalita' che verranno stabilite dal Consiglio di amministrazione dell'AIMA e approvate dal CIPAA.
 
 ## TITOLO III - DISPOSIZIONI FINANZIARIE E CONTROLLI
 
-#### ART. 10 - Risorse finanziarie
+### ART. 10 - Risorse finanziarie
 
 I mezzi finanziari per l'espletamento dei compiti dell'AIMA sono costituiti:
 
@@ -244,7 +242,7 @@ La L. 27 dicembre 1997, n. 449 ha disposto (con l'art. 55, comma 25) che all'art
 
 La stessa L. 27 dicembre 1997, n. 449 ha, inoltre, disposto (con l'art. 55, comma 26) che l'articolo 10, sesto comma, della presente legge, deve intendersi "come diretto a regolare esclusivamente i rapporti finanziari tra lo Stato, e per esso l'Azienda di Stato per gli interventi nel mercato agricolo, e l'Unione europea".
 
-#### ART. 11 - Controlli sulla gestione
+### ART. 11 - Controlli sulla gestione
 
 Presso l'AIMA e' istituito un apposito ufficio della Corte dei conti per il controllo sulla gestione dell'Azienda con le modalita' previste dagli articoli 5, 6, 7, 8 e 9 della legge 21 marzo 1958, n. 259, e che riferisce al Parlamento anche sull'efficienza economica e finanziaria dell'attivita' svolta dall'azienda nell'esercizio esaminato.
 
@@ -258,7 +256,7 @@ Sulla base delle risultanze delle ispezioni effettuate il Consiglio di Amministr
 
 Per l'esecuzione dei controlli di cui al precedente quarto comma e per tutti quelli che si rendessero necessari in ordine alle attivita' ed ai compiti dell'Azienda dovra' essere istituito, con lo statuto-regolamento di cui al precedente articolo 3, un apposito ufficio ispettivo.
 
-#### ART. 12 - Disposizioni in materia fiscale e rappresentanza in giudizio
+### ART. 12 - Disposizioni in materia fiscale e rappresentanza in giudizio
 
 Valgono per l'Azienda le disposizioni vigenti in materia fiscale per le altre amministrazioni dello Stato.
 
@@ -266,11 +264,11 @@ Nei giudizi attivi e passivi avanti l'autorita' giudiziaria ordinaria e dei coll
 
 ## TITOLO IV - DISPOSIZIONI TRANSITORIE E FINALI
 
-#### ART. 13 - Personale in servizio
+### ART. 13 - Personale in servizio
 
 Sino all'esaurimento delle operazioni di inquadramento del personale attualmente in servizio presso l'AIMA e la sezione specializzata per il tabacco, in conformita' a quanto previsto nei successivi articoli, l'AIMA, per lo svolgimento di compiti istituzionali, continua ad avvalersi del personale medesimo, che resta nei ruoli delle Amministrazioni o degli enti di provenienza ed al medesimo, sino a detta data, continuano ad applicarsi le disposizioni sul trattamento giuridico ed economico stabilite dalle amministrazioni di provenienza.
 
-#### ART. 14 - Inquadramento nei ruoli dell'AIMA
+### ART. 14 - Inquadramento nei ruoli dell'AIMA
 
 Nella prima attuazione della presente legge ha diritto di essere inquadrato, anche in soprannumero, nei ruoli dell'Azienda il personale di ruolo del Ministero dell'agricoltura e delle foreste e della Amministrazione dei monopoli di Stato nonche' il personale dell'Ufficio di ragioneria in servizio presso l'AIMA alla data del 30 giugno 1982, che ne faccia domanda entro sessanta giorni dalla pubblicazione del decreto di approvazione dello statuto-regolamento.
 
@@ -278,7 +276,7 @@ Con decorrenza dalla data di entrata in vigore della presente legge, detto perso
 
 Per il personale dell'Amministrazione dei Monopoli di Stato, inquadrato dalla Azienda in apposito ruolo speciale ad esaurimento, e' fatto salvo il trattamento economico acquisito mediante l'attribuzione di apposito assegno personale, pensionabile, da riassorbire con i successivi miglioramenti economici.
 
-#### ART. 15 - Concorso per titoli
+### ART. 15 - Concorso per titoli
 
 Entro tre mesi dalla entrata in vigore della presente legge e' indetto un concorso per titoli per ciascuna delle qualifiche funzionali indicate nella allegata tabella B, riservato al personale in servizio presso l'Azienda alla data del 30 giugno 1981, appartenente ad enti ai quali l'AIMA rimborsa i relativi emolumenti mensili.
 
@@ -286,11 +284,11 @@ La Commissione paritetica di cui all'articolo 17 della presente legge stabilira'
 
 Al suddetto personale che verra' immesso nei ruoli dell'AIMA, ai soli fini economici e' riconosciuto il periodo di servizio prestato presso l'Azienda.
 
-#### ART. 16 - Prima attuazione della legge
+### ART. 16 - Prima attuazione della legge
 
 Nella prima attuazione della presente legge l'emanazione di bandi di concorso per la copertura dei posti di cui all'allegata tabella B sara' effettuata prescindendo dalla procedura prevista dall'articolo 27 della legge 18 marzo 1968, n. 249.
 
-#### ART. 17 - Commissione paritetica
+### ART. 17 - Commissione paritetica
 
 Per le operazioni relative all'inquadramento del personale di cui all'articolo 14, e' istituita presso l'Azienda una apposita Commissione paritetica, nominata con decreto del Ministro dell'agricoltura e delle foreste, presieduta dal direttore generale e composta da quattro dirigenti in rappresentanza dell'AIMA e da quattro dipendenti designati dalle organizzazioni sindacali maggiormente rappresentative sul piano nazionale e relativi supplenti nonche' da un dipendente dell'Azienda con funzioni di segretario.
 
@@ -300,13 +298,13 @@ Le decisioni della Commissione sono valide se adottate con la presenza di almeno
 
 L'inquadramento di cui al presente articolo avverra' entro 12 mesi dall'entrata in vigore della presente legge.
 
-#### ART. 18 - Organismi in carica
+### ART. 18 - Organismi in carica
 
 Sino alla data di costituzione del Consiglio di amministrazione dell'AIMA previsto dalla presente legge, restano in carica il Consiglio di amministrazione dell'AIMA ed il Comitato tecnico per la sezione specializzata per il tabacco in funzione alla data dell'entrata in vigore della presente legge.
 
 Sino alla data di approvazione dello statuto-regolamento si applicano le norme vigenti in materia di controllo contabile.
 
-#### ART. 19 - Abrogazione di disposizioni
+### ART. 19 - Abrogazione di disposizioni
 
 Le disposizioni della presente legge sostituiscono quelle di cui alle leggi 13 maggio 1966, n. 303 e 31 marzo 1971, n. 144, e successive modificazioni ed integrazioni;
 
@@ -328,7 +326,7 @@ Visto, il Guardasigilli: DARIDA
 
 ## TITOLO IV - DISPOSIZIONI TRANSITORIE E FINALI
 
-#### Tabella A
+### Tabella A
 
 Tabella A
 

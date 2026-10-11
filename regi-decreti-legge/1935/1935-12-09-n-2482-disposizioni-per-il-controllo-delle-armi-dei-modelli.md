@@ -42,27 +42,27 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Minist
 
 Abbiamo decretato e decretiamo:
 
-### Art. 1
+## Art. 1
 
 Le armi dei modelli regolamentari delle Forze armate allestite dall'industria privata e quelle comunque esistenti presso enti vari dovranno essere collaudate presso le fabbriche d'armi dipendenti dal Ministero della guerra.
 
 Il collaudo subito dovra' risultare da apposito marchio impresso dallo stabilimento che l'ha eseguito e da un certificato di prova rilasciato dallo stabilimento stesso.
 
-### Art. 2
+## Art. 2
 
 Gli stabilimenti del Regio esercito autorizzati ad eseguire i collaudi e ad applicare il marchio di cui sopra, sono la Fabbrica d'armi del Regio esercito di Terni e la sezione di Fabbrica d'armi del Regio esercito di Gardone Val Trompia.
 
-### Art. 3
+## Art. 3
 
 Il collaudo di cui sopra verra' effettuato dagli stabilimenti predetti a richiesta e a spese delle ditte produttrici e degli enti che detengono le armi, applicando le norme prescritte dai capitolati in vigore per l'Esercito.
 
-### Art. 4
+## Art. 4
 
 Il certificato di prova di cui al precedente art. 1 e' soggetto alla tassa di bollo ai sensi dell'art. 67 della tariffa allegato A alla legge 30 dicembre 1923-II, n. 3268, modificata, per quanto riguarda la misura, dai Regi decreti-legge 17 marzo 1930-VIII, n. 142, o 10 dicembre 1934-XIII, n. 1983.
 
 Le sanzioni a carico dei trasgressori alle norme contenute nel presente decreto sono quelle previste dai Regi decreti-legge 30 dicembre 1923-II, n. 3152, e 7 maggio 1925-III, n. 714.
 
-### Art. 5
+## Art. 5
 
 Le norme contrarie al presente decreto contenute nell'art. 8 del R. decreto-legge 30 dicembre 1923-II, n. 3152, sono abrogate. Pertanto il detto articolo rimane cosi' modificato:
 
@@ -70,7 +70,7 @@ Le norme contrarie al presente decreto contenute nell'art. 8 del R. decreto-legg
 
 ## Disposizione transitoria.
 
-### Art. 6
+## Art. 6
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 

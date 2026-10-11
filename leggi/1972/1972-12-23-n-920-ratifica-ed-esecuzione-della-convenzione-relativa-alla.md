@@ -26,33 +26,33 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la Convenzione relativa alla creazione di un istituto universitario europeo, firmata a Firenze il 19 aprile 1972, con allegato protocollo sui privilegi e sulle immunita'.
 
-#### Art. 2
+### Art. 2
 
 Piena ed intera esecuzione e' data alla Convenzione con allegato protocollo, di cui all'art. 1, a decorrere dalla sua entrata in vigore in conformita' all'art. 36 della convenzione medesima.
 
-#### Art. 3
+### Art. 3
 
 I lasciti, i legati, le donazioni e qualsiasi altro atto di liberalita', mortis causa o tra vivi, a favore dell'Istituto universitario europeo, sono esenti da qualsiasi imposta, tassa o contributo a favore dello Stato, delle regioni, delle province e dei comuni.
 
-#### Art. 4
+### Art. 4
 
 Le esenzioni fiscali di cui all'articolo precedente sono applicate a partire dall'entrata in vigore dell'Accordo di sede, previsto dall'art. 4 della Convenzione, ed in quanto dall'Accordo predetto richieste.
 
-#### Art. 5
+### Art. 5
 
 In applicazione dell'art. 19 della Convenzione e' autorizzata a titolo di contributo a carico dell'Italia, per il triennio 1973-75, la complessiva spesa di milioni 630 cosi' ripartita: 140 milioni per l'anno 1973; 210 milioni per l'anno 1974 e 280 milioni per l'anno 1975.
 
-#### Art. 6
+### Art. 6
 
 In relazione all'impegno derivante all'Italia dall'art. 25 della Convenzione, e' autorizzata la spesa di lire 3.500 milioni per la progettazione, la costruzione e l'arredamento in Firenze della sede dell'Istituto universitario europeo, nonche' per la realizzazione delle occorrenti attrezzature, comprese quelle di carattere sportivo, ricreativo e residenziale; per le opere di urbanizzazione connesse al funzionamento del complesso edilizio universitario e per l'eventuale acquisizione o affitto di aree ed edifici.
 
 Detta somma sara' iscritta nello stato di previsione della spesa del Ministero dei lavori pubblici in ragione di lire 1.500 milioni per l'anno 1973 e lire 2.000 milioni per l'anno 1974.
 
-#### Art. 7
+### Art. 7
 
 E' istituita una commissione con i compiti di cui al successivo art. 8, nominata con decreto del Ministro per i lavori pubblici di concerto con quelli della pubblica istruzione e del tesoro, cosi' composta:
 
@@ -82,7 +82,7 @@ Il D.P.R. 14 maggio 2007, n.92. ha disposto (con l'art. 1, comma 1) che "I comit
 
 c) Commissione interministeriale di cui all'articolo 7 della legge 23 dicembre 1972, n. 920, di ratifica della convenzione relativa alla creazione dell'Istituto universitario europeo con sede in Firenze, che per le esigenze di supporto fa capo direttamente ai competenti uffici del Consiglio superiore dei lavori pubblici."
 
-#### Art. 8
+### Art. 8
 
 I compiti della commissione di cui all'articolo precedente sono i seguenti:
 
@@ -98,7 +98,7 @@ e) assumere ogni altra iniziativa necessaria ai fini della migliore realizzazion
 
 Per l'espletamento dei suoi compiti la commissione puo' conferire anche incarichi di studio o consulenza.
 
-#### Art. 9
+### Art. 9
 
 Alla progettazione del complesso si puo' provvedere, anche in deroga alle vigenti disposizioni, mediante pubblico concorso o a mezzo di uno o piu' liberi professionisti designati a norma del precedente art. 8.
 
@@ -106,7 +106,7 @@ Il conferimento dell'incarico di progettazione, l'approvazione della relativa co
 
 I compensi da corrispondere per progettazione o direzione dei lavori sono stabiliti in base alle tariffe professionali vigenti decurtate del 20 per cento.
 
-#### Art. 10
+### Art. 10
 
 All'approvazione dei progetti, all'appalto e gestione dei lavori, nonche' alle eventuali espropriazioni provvede il Ministero dei lavori pubblici, secondo le competenze fissate dalle norme in vigore.
 
@@ -114,21 +114,21 @@ Sui progetti si pronuncia la commissione di cui all'art. 7.
 
 L'approvazione dei progetti equivale a dichiarazione di pubblica utilita' delle opere e i relativi lavori sono dichiarati urgenti ed indifferibili a tutti gli effetti di legge.
 
-#### Art. 11
+### Art. 11
 
 La direzione dei lavori potra' essere affidata al progettista incaricato o vincitore del concorso o, in caso di piu' progettisti, ad uno di essi su parere della commissione predetta.
 
-#### Art. 12
+### Art. 12
 
 Sui fondi stanziati con l'art. 6 gravano anche le spese di funzionamento della commissione nonche' quelle per gli incarichi di cui all'art. 8, ultimo comma.
 
 Per quanto riguarda la manutenzione ordinaria o straordinaria del complesso edilizio si applica il disposto dell'art. 25, secondo comma, della legge 24 luglio 1962, n. 1073.
 
-#### Art. 13
+### Art. 13
 
 Per le necessita' di approntamento e sistemazione della sede dell'Istituto, tutti gli atti ed i contratti posti in essere dall'amministrazione dello Stato in applicazione della presente legge, nonche' i materiali acquistati ai fini ufficiali dell'Istituto sono esenti da qualsiasi imposizione erariale o locale, ad essi normalmente applicabile.
 
-#### Art. 14
+### Art. 14
 
 All'onere di lire 140 milioni previsto per l'anno 1973 dall'art. 5 si provvede mediante riduzione dello stanziamento del capitolo n. 3523 dello stato di previsione della spesa del Ministero del tesoro per l'anno stesso.
 
@@ -230,7 +230,7 @@ Segretario di Stato agli affari esteri
 
 I quali, dopo aver scambiato i loro pieni poteri, riconosciuti in buona e debita forma, hanno convenuto quanto segue:
 
-#### Articolo 1
+### Articolo 1
 
 Con la presente Convenzione gli Stati membri delle Comunita'
 
@@ -238,7 +238,7 @@ europee (in appresso denominati Stati contraenti) creano in comune l'Istituto un
 
 L'Istituto ha sede a Firenze.
 
-#### Articolo 2
+### Articolo 2
 
 1\. - L'istituto ha il compito di contribuire, con la sua azione nel
 
@@ -252,7 +252,7 @@ livello universitario piu' elevato.
 
 confronto di idee e di esperienze su argomenti particolari nei settori che sono oggetto dei suoi studi e delle sue ricerche.
 
-#### Articolo 3
+### Articolo 3
 
 1\. - Gli Stati contraenti prendono tutte le misure atte a
 
@@ -264,7 +264,7 @@ facilitare il compimento della missione dell'Istituto, nel rispetto della libert
 
 universita' e tutti gli organismi di insegnamento e di ricerca, nazionali o internazionali, che desiderino apportargli il loro contributo; esso puo' concludere accordi con Stati ed organismi internazionali.
 
-#### Articolo 4
+### Articolo 4
 
 L'Istituto e il suo personale godono dei privilegi e delle
 
@@ -276,7 +276,7 @@ accordo sulla sede, approvato all'unanimita' dal Consiglio superiore.
 
 ## CAPITOLO II - STRUTTURA AMMINISTRATIVA
 
-#### Articolo 5
+### Articolo 5
 
 Gli organi dell'Istituto sono:
 
@@ -286,7 +286,7 @@ b) il presidente dell'istituto;
 
 c) il Consiglio accademico.
 
-#### Articolo 6
+### Articolo 6
 
 1\. - Il Consiglio superiore e' composto di rappresentanti dei
 
@@ -364,7 +364,7 @@ Le deliberazioni sono valide se hanno ottenuto almeno dodici voti che esprimano 
 
 8\. - Le astensioni non ostano all'adozione delle deliberazioni del Consiglio superiore per le quali e' richiesta l'unanimita'.
 
-#### Articolo 7
+### Articolo 7
 
 1\. - Il presidente dirige l'Istituto. Procede all'esecuzione degli atti e delle decisioni adottati in applicazione della Convenzione o vigila su tale esecuzione e prende le decisioni amministrative che non rientrano nelle competenze degli altri organi dell'Istituto.
 
@@ -388,7 +388,7 @@ in base ad un elenco di tre nominativi proposti dal Consiglio accademico.
 
 E' nominato per tre anni. Il suo mandato puo' essere rinnovato una sola volta.
 
-#### Articolo 8
+### Articolo 8
 
 1\. - Un segretario generale assiste il presidente dell'istituto nei
 
@@ -402,7 +402,7 @@ disposizioni regolamentari previste dallo articolo 6, paragrafo 5, lettera a).
 
 possono essere della medesima nazionalita', salvo unanime decisione contraria del Consiglio superiore.
 
-#### Articolo 9
+### Articolo 9
 
 1\. - Il Consiglio accademico possiede una competenza generale in
 
@@ -464,17 +464,15 @@ sottoporre al Consiglio superiore proposte sulle questioni che sono di competenz
 
 7\. - Un ufficio di presidenza del Consiglio accademico, presieduto dal presidente dell'Istituto e assistito dal segretario generale, e composto dal presidente e dai capi di dipartimento, svolge i compiti particolari affidatigli dal Consiglio accademico. Esso rende conto a quest'ultimo delle condizioni in cui ha svolto tali compiti.
 
-## CAPITOLO III - STRUTTURA ACCADEMICA
+## CAPITOLO III - STRUTTURA ACCADEMICA A. - Organizzazione accademica
 
-### A. - Organizzazione accademica
-
-#### Articolo 10
+### Articolo 10
 
 L'istituto e' organizzato in dipartimenti, che costituiscono le
 
 unita' di base della ricerca e dell'insegnamento e nell'ambito delle quali sono raggruppati seminari.
 
-#### Articolo 11
+### Articolo 11
 
 1\. - Sin dalla sua creazione l'Istituto comporta quattro
 
@@ -494,7 +492,7 @@ consultazione del Consiglio accademico e tenendo conto dell'esperienza acquisita
 
 2\. - Nei limiti dei mezzi concessigli dal bilancio e dei programmi adottati dal Consiglio accademico, il dipartimento dispone di un'ampia autonomia nello svolgimento dei lavori di studio e di ricerca che gli incombono e viene dotato del personale necessario al suo funzionamento.
 
-#### Articolo 12
+### Articolo 12
 
 1\. - Le attivita' di ricerca si svolgono essenzialmente nell'ambito
 
@@ -514,7 +512,7 @@ svolgere viene comunicato al Consiglio accademico dai capi di dipartimento, prev
 
 potranno partecipare persone che abbiano gia' una esperienza professionale nelle discipline che sono oggetto degli studi e delle ricerche dell'Istituto.
 
-#### Articolo 13
+### Articolo 13
 
 1\. - L'istituto dispone di una biblioteca e di un servizio di
 
@@ -528,7 +526,7 @@ Le modalita' d'applicazione di questa disposizione sono fissate
 
 nell'accordo relativo alla sede.
 
-#### Articolo 14
+### Articolo 14
 
 1\. - L'Istituto e' abilitato a conferire, per le discipline che
 
@@ -544,7 +542,7 @@ previsti dal presente articolo sono definite dal Consiglio accademico e richiedo
 
 ## B. - Corpo insegnante e ricercatori
 
-#### Articolo 15
+### Articolo 15
 
 1\. - Il corpo insegnante e' composto dei capi di dipartimento, dei professori, degli assistenti e degli altri docenti.
 
@@ -556,7 +554,7 @@ L'Istituto puo' inoltre ricorrere al concorso di cittadini di altri Stati.
 
 prendono tutte le disposizioni atte a facilitare la mobilita' delle persone invitate a far parte del corpo insegnante dell'Istituto.
 
-#### Articolo 16
+### Articolo 16
 
 1\. - Ai sensi della Convenzione, i ricercatori dello Istituto sono gli studenti o i ricercatori in possesso di titoli universitari nazionali che comprovino la loro idoneita' ad intraprendere o proseguire ricerche, che soddisfino alle condizioni previste all'articolo 27, paragrafo 3 e che siano ammessi all'Istituto.
 
@@ -572,7 +570,7 @@ Le autorita' competenti degli Stati contraenti collaborano con
 
 l'istituto per l'applicazione della procedura di ammissione.
 
-#### Articolo 17
+### Articolo 17
 
 1\. - Ciascuno degli Stati contraenti favorisce, entro i limiti
 
@@ -588,7 +586,7 @@ dell'Istituto possano beneficiare delle borse di studio assegnate dalle Comunita
 
 ## CAPITOLO IV - DISPOSIZIONI FINANZIARIE
 
-#### Articolo 18
+### Articolo 18
 
 1\. - Per ogni esercizio viene stabilito un bilancio di
 
@@ -610,7 +608,7 @@ dicembre.
 
 4\. - Le entrate e le spese sono espresse in lire italiane.
 
-#### Articolo 19
+### Articolo 19
 
 1\. - I contributi finanziari degli Stati contraenti, destinati a
 
@@ -632,7 +630,7 @@ Paesi Bassi. . . . . . . . . . . . . . . . . . . . . . . . . . 7,9
 
 su basi definite nel corso di un esame effettuato a decorrere dal 1 gennaio 1977, tenuto conto dello sviluppo registrato a tale data in seno alle Comunita' europee e dell'alternativa offerta dal finanziamento comunitario.
 
-#### Articolo 20
+### Articolo 20
 
 1\. - Le spese iscritte nel bilancio sono autorizzate per la durata di un esercizio finanziario, salvo disposizioni contrarie adottate conformemente all'articolo 26.
 
@@ -642,7 +640,7 @@ dell'articolo 26, gli stanziamenti che non siano quelli relativi alle spese per 
 
 3\. - Gli stanziamenti sono specificatamente registrati in capitoli che raggruppano le spese secondo la loro natura o la loro destinazione, e ripartiti, per quanto occorra, in conformita' delle disposizioni regolamentari finanziarie.
 
-#### Articolo 21
+### Articolo 21
 
 1\. - Il presidente cura l'esecuzione del bilancio conformemente
 
@@ -652,7 +650,7 @@ alle disposizioni regolamentari finanziarie ed entro i limiti degli stanziamenti
 
 storni di stanziamenti da capitolo a capitolo e da suddivisione a suddivisione.
 
-#### Articolo 22
+### Articolo 22
 
 Se, all'inizio di un esercizio finanziario, il bilancio non e'
 
@@ -662,7 +660,7 @@ Deliberando a maggioranza qualificata, il Consiglio superiore puo' autorizzare s
 
 Gli Stati contraenti versano ogni mese, a titolo provvisionale, in conformita' del criterio di ripartizione adottato per l'esercizio precedente, le somme necessarie per assicurare l'applicazione del presente articolo.
 
-#### Articolo 23
+### Articolo 23
 
 1\. - Il Consiglio superiore nomina due verificatori di diversa
 
@@ -678,7 +676,7 @@ verificatori potrebbero aver bisogno nell'esercizio delle loro funzioni.
 
 condizioni alle quali viene dato atto al presidente dell'esecuzione del bilancio.
 
-#### Articolo 24
+### Articolo 24
 
 1\. - Il presidente stabilisce un progetto di previsioni finanziarie
 
@@ -688,7 +686,7 @@ triennale e, previa consultazione del Consiglio accademico, lo sottopone al Cons
 
 fissate dalle disposizioni regolamentari finanziarie.
 
-#### Articolo 25
+### Articolo 25
 
 1\. - La Repubblica italiana mette gratuitamente a disposizione
 
@@ -702,7 +700,7 @@ insegnante, dei ricercatori e del personale dell'Istituto un ristorante attrezza
 
 nell'accordo relativo alla sede.
 
-#### Articolo 26
+### Articolo 26
 
 1\. - Il Consiglio superiore, deliberando all'unanimita' su proposta
 
@@ -726,7 +724,7 @@ degli ordinatori e contabili.
 
 ## CAPITOLO V - DISPOSIZIONI VARIE
 
-#### Articolo 27
+### Articolo 27
 
 1\. - Le lingue ufficiali dell'istituto sono il francese, l'inglese,
 
@@ -744,13 +742,13 @@ Il Consiglio accademico puo' ammettere un'eccezione per gli
 
 specialisti chiamati a partecipare a determinati lavori dell'Istituto.
 
-#### Articolo 28
+### Articolo 28
 
 In ciascuno degli Stati contraenti l'Istituto gode della piu' ampia
 
 capacita' giuridica riconosciuta dalle legislazioni nazionali alle persone giuridiche. In particolare esso puo' acquistare o alienare beni immobili o mobili, concludere contratti e stare in giudizio; a tal fine l'Istituto e' rappresentato dal presidente.
 
-#### Articolo 29
+### Articolo 29
 
 Le controversie che possono sorgere tra gli Stati contraenti o tra uno o piu' Stati contraenti e l'Istituto sull'applicazione o sull'interpretazione della Convenzione, e che non hanno potuto essere risolte dal Consiglio superiore vengono, a richiesta di una parte della controversia, sottoposte ad arbitrato.
 
@@ -764,7 +762,7 @@ dell'organo arbitrale.
 
 ## CAPITOLO VI - DISPOSIZIONI TRANSITORIE E FINALI
 
-#### Articolo 30
+### Articolo 30
 
 1\. - Il Consiglio superiore si riunisce immediatamente dopo
 
@@ -780,11 +778,11 @@ Il Consiglio accademico potra' deliberare validamente non appena
 
 sara' composto del presidente, del segretario generale e degli otto docenti summenzionati.
 
-#### Articolo 31
+### Articolo 31
 
 Il Consiglio superiore procede alla prima nomina del presidente e del segretario generale dell'Istituto deliberando all'unanimita'.
 
-#### Articolo 32
+### Articolo 32
 
 1\. - L'adesione di qualsiasi Stato membro delle Comunita' europee diverso dagli Stati contraenti viene effettuata mediante il deposito di uno strumento di adesione presso il governo della Repubblica italiana.
 
@@ -792,7 +790,7 @@ Il Consiglio superiore procede alla prima nomina del presidente e del segretario
 
 che delibera all'unanimita' e d'intesa con lo Stato aderente, ha determinato le necessarie modifiche da apportare alle disposizioni della Convenzione, in particolare all'articolo 6, paragrafo 7, e all'articolo 19, paragrafo 1.
 
-#### Articolo 33
+### Articolo 33
 
 Il governo di qualsiasi Stato contraente, il presidente
 
@@ -800,13 +798,13 @@ dell'Istituto o il Consiglio accademico possono sottoporre al Consiglio superior
 
 Se il Consiglio superiore, deliberando all'unanimita', esprime parere favorevole sulla riunione di una Conferenza dei rappresentanti dei governi degli Stati contraenti, questa e' convocata dal governo che assume la presidenza del Consiglio superiore.
 
-#### Articolo 34
+### Articolo 34
 
 Se per raggiungere uno degli scopi definiti dalla Convenzione
 
 risulti necessaria l'azione di uno degli organi dell'Istituto, senza che la presente Convenzione abbia previsto i poteri d'intervento all'uopo necessari, il Consiglio superiore, deliberando all'unanimita', prende le disposizioni del caso.
 
-#### Articolo 35
+### Articolo 35
 
 1\. - La Convenzione si applica al territorio europeo degli Stati
 
@@ -814,7 +812,7 @@ contraenti, ai dipartimenti francesi d'oltremare e ai territori francesi d'oltre
 
 2\. - Ciascuno Stato contraente, al momento della firma, ratifica, accettazione o approvazione della Convenzione o dell'adesione a quest'ultima nonche' in qualsiasi momento successivo, puo' dichiarare, mediante notifica al governo della Repubblica italiana, che la Convenzione si applichera' al territorio o ai territori extraeuropei designati in detta dichiarazione di cui esso assicura le relazioni internazionali.
 
-#### Articolo 36
+### Articolo 36
 
 La Convenzione sara' sottoposta alla ratifica, all'accettazione, o all'approvazione, conformemente alle norme costituzionali degli Stati contraenti.
 
@@ -822,7 +820,7 @@ Essa entrera' in vigore il primo giorno del mese successivo alla
 
 data in cui il governo della Repubblica italiana avra' ricevuto l'ultima notifica dell'avvenuto espletamento di tali formalita'.
 
-#### Articolo 37
+### Articolo 37
 
 Il governo della Repubblica italiana notifichera' agli Stati
 
@@ -838,7 +836,7 @@ d) ogni modifica apportata alla Convenzione in conformita'
 
 dell'articolo 33.
 
-#### Articolo 38
+### Articolo 38
 
 La Convenzione, redatta in lingua francese, in lingua italiana, in lingua olandese e in lingua tedesca, i quattro testi facenti tutti ugualmente fede, sara' depositata negli archivi del governo della Repubblica italiana che provvedera' a rimetterne copia certificata conforme a ciascuno dei governi degli altri Stati contraenti.
 
@@ -888,7 +886,7 @@ Desiderosi di definire i privilegi e le immunita' necessari al buon
 
 funzionamento di detto Istituto hanno convenuto le seguenti disposizioni:
 
-#### Articolo 1
+### Articolo 1
 
 Nell'ambito delle sue attivita' ufficiali, l'Istituto universitario
 
@@ -906,7 +904,7 @@ c) laddove il Consiglio superiore, deliberando all'unanimita',
 
 abbia in un caso particolare rinunciato al beneficio della presente disposizione.
 
-#### Articolo 2
+### Articolo 2
 
 1\. - I locali e gli edifici dell'Istituto sono inviolabili.
 
@@ -918,13 +916,13 @@ servano da rifugio a chiunque sia perseguito per reato flagrante o per un delitt
 
 3\. - Gli archivi dell'Istituto sono inviolabili.
 
-#### Articolo 3
+### Articolo 3
 
 I beni e gli averi dell'istituto non possono essere oggetto di
 
 alcun provvedimento di coercizione amministrativa o preliminare a un giudizio, come requisizione, confisca, espropriazione o sequestro conservativo, eccetto nei casi previsti all'articolo 1, lettere a), b) e c).
 
-#### Articolo 4
+### Articolo 4
 
 1\. - I prodotti importati o esportati dall'Istituto e strettamente necessari all'esercizio delle sue attivita' ufficiali sono esenti da ogni imposta sulla cifra d'affari, dazio doganale e altre imposte o tasse, divieti o restrizioni all'importazione o all'esportazione, fatte salve le disposizioni nazionali in materia di tutela del patrimonio artistico e culturale degli Stati contraenti.
 
@@ -936,7 +934,7 @@ d'informazione spediti dall'Istituto o all'Istituto stesso nel quadro delle sue 
 
 contraente, per le sue comunicazioni ufficiali e per la trasmissione di tutti i suoi documenti, del trattamento concesso da questo Stato alle organizzazioni internazionali. La corrispondenza ufficiale e le altre comunicazioni ufficiali dell'Istituto non possono essere censurate.
 
-#### Articolo 5
+### Articolo 5
 
 1\. - Nel quadro delle sue attivita' ufficiali, l'Istituto i suoi
 
@@ -948,7 +946,7 @@ strettamente necessari all'esercizio delle sue attivita' ufficiali, il cui prezz
 
 3\. - Nessuna esenzione e' concessa per quanto riguarda le imposte, tasse e diritti che costituiscono mera remunerazione di servizi di pubblica utilita'.
 
-#### Articolo 6
+### Articolo 6
 
 L'Istituto puo' ricevere e detenere fondi, valuta, numerari o
 
@@ -956,7 +954,7 @@ valori mobiliari; puo' disporne liberamente, fatte salve le disposizioni naziona
 
 ## CAPITOLO II - REGIME APPLICABILE AI RAPPRESENTANTI DEGLI STATI CONTRAENTI, AL PRESIDENTE, AL SEGRETARIO GENERALE, AI MEMBRI DEL CORPO INSEGNANTE E ALLE ALTRE PERSONE CHE FANNO PARTE DELL'ISTITUTO
 
-#### Articolo 7
+### Articolo 7
 
 I rappresentanti degli Stati contraenti ed i loro consiglieri che partecipano, alle riunioni del Consiglio superiore dell'Istituto godono, nell'esercizio delle loro funzioni e durante i loro viaggi a destinazione o in provenienza dai luoghi di attivita', dei privilegi, delle immunita' o delle agevolazioni seguenti:
 
@@ -978,13 +976,13 @@ Le disposizioni del presente articolo si applicano del pari al
 
 rappresentante delle Comunita' europee che partecipa alle riunioni del Consiglio superiore.
 
-#### Articolo 8
+### Articolo 8
 
 Gli Stati contraenti, in stretta collaborazione con l'Istituto,
 
 faranno quanto e' in loro potere affinche' alle personalita' che prendono parte ai lavori dell'Istituto, in particolare a quelle di cui all'articolo 9, paragrafo 3, della Convenzione, vengano concesse tutte le agevolazioni amministrative necessarie, segnatamente in materia di spostamenti, soggiorno e cambio.
 
-#### Articolo 9
+### Articolo 9
 
 1\. - Il presidente, il segretario generale e, fatto salvo il
 
@@ -1010,13 +1008,13 @@ interessato per la durata di almeno un anno, del diritto d'importare in franchig
 
 l'Istituto, prendono ogni provvedimento utile per facilitare l'entrata, il soggiorno e la partenza delle persone che beneficiano delle disposizioni del presente articolo.
 
-#### Articolo 10
+### Articolo 10
 
 Gli Stati contraenti, in stretta collaborazione con l'istituto,
 
 prendono ogni provvedimento utile per assicurare e facilitare l'entrata, il soggiorno e la partenza dei ricercatori.
 
-#### Articolo 11
+### Articolo 11
 
 1\. - Lo statuto del personale e disposizioni regolamentari
 
@@ -1030,7 +1028,7 @@ Tale opzione, che puo' essere fatta una sola volta, prende effetto alla data d'e
 
 appropriate e disposizioni regolamentari per quanto riguarda i membri del corpo insegnante ed i ricercatori cittadini di Stati diversi dagli Stati contraenti.
 
-#### Articolo 12
+### Articolo 12
 
 1\. - Alle condizioni ed in conformita' della procedura stabilita
 
@@ -1044,7 +1042,7 @@ rendite e alle pensioni erogate dall'Istituto agli ex presidenti, segretari gene
 
 patrimonio, dei diritti di successione nonche' delle convenzioni concluse tra gli Stati contraenti al fine di evitare le doppie imposizioni, i presidenti, i segretari generali, i membri del corpo insegnante ed il personale dell'istituto i quali, in ragione esclusivamente dell'esercizio delle loro funzioni al servizio dell'Istituto, stabiliscono la loro residenza nel territorio di uno Stato contraente diverso dal paese ove avevano il domicilio fiscale al momento dell'entrata in servizio presso l'Istituto, sono considerati, sia nel paese di residenza che nel paese del domicilio fiscale, come tuttora domiciliati in quest'ultimo paese, se quest'ultimo e' Stato contraente. Tale disposizione si applica ugualmente al coniuge, sempreche' non eserciti una propria attivita' professionale, nonche' ai figli a carico delle persone indicate nel presente articolo affidate alla loro custodia.
 
-#### Articolo 13
+### Articolo 13
 
 Il Consiglio superiore, deliberando all'unanimita', determina le
 
@@ -1052,7 +1050,7 @@ categorie di persone alle quali si applicano in tutto o in parte le disposizioni
 
 ## CAPITOLO III - DISPOSIZIONI GENERALI
 
-#### Articolo 14
+### Articolo 14
 
 1\. - I privilegi, le immunita' e le agevolazioni accordati dal
 
@@ -1080,23 +1078,23 @@ il presidente dell'Istituto per quanto riguarda i membri del
 
 corpo insegnante ed il personale dell'Istituto.
 
-#### Articolo 15
+### Articolo 15
 
 Le disposizioni del presente Protocollo non possono porre in
 
 questione il diritto di ciascuno Stato contraente di prendere le opportune precauzioni per la sua sicurezza.
 
-#### Articolo 16
+### Articolo 16
 
 Nessun Stato contraente e' tenuto ad accordare ai suoi cittadini ed ai residenti permanenti i privilegi e le immunita' di cui agli articoli 7, 9, lettere c) e d) e 10.
 
-#### Articolo 17
+### Articolo 17
 
 Le attivita' ufficiali dell'istituto ai sensi del presente
 
 Protocollo comprendono il suo funzionamento amministrativo e le sue attivita' d'insegnamento e di ricerca per l'attivazione delle finalita' definite dalla Convenzione relativa alla creazione di un Istituto universitario europeo.
 
-#### Articolo 18
+### Articolo 18
 
 Senza pregiudizio dell'articolo 9, paragrafo 1, lettera d), nessun esonero e' concesso per quanto riguarda i beni destinati esclusivamente ai bisogni propri dei membri del personale dell'Istituto.
 
@@ -1104,7 +1102,7 @@ I beni importati o acquistati in virtu' delle disposizioni del
 
 presente Protocollo possono, in seguito, essere venduti, ceduti o affittati solo alle condizioni stabilite dai governi degli Stati che hanno accordato le esenzioni.
 
-#### Articolo 19
+### Articolo 19
 
 1\. - Le disposizioni del presente Protocollo saranno applicate in uno spirito di stretta cooperazione dal presidente dell'Istituto e dalle competenti autorita' degli Stati contraenti per facilitare, nel rispetto dell'indipendenza dell'Istituto, la buona amministrazione della giustizia, l'applicazione della legislazione sociale, dei regolamenti di polizia, di sicurezza o di sanita' pubblica e per impedire ogni abuso dei privilegi, delle immunita' e delle agevolazioni previsti dal Protocollo. La procedura di cooperazione menzionata nel presente paragrafo potra' essere specificata negli accordi complementari previsti all'articolo 20.
 
@@ -1112,13 +1110,13 @@ presente Protocollo possono, in seguito, essere venduti, ceduti o affittati solo
 
 beneficiano delle disposizioni degli articoli da 9 a 12, nonche' il regime che e' loro applicabile sono comunicati periodicamente ai governi degli Stati contraenti.
 
-#### Articolo 20
+### Articolo 20
 
 L'Istituto e uno o piu' Stati contraenti possono, concludere
 
 accordi complementari per l'esecuzione e l'applicazione del presente Protocollo. Le decisioni del Consiglio superiore per l'applicazione del presente articolo sono adottate all'unanimita'.
 
-#### Articolo 21
+### Articolo 21
 
 Le disposizioni dell'articolo 29 della Convenzione sono applicabili alle controversie relative al presente Protocollo.
 
@@ -1136,7 +1134,7 @@ Jean DUPONG
 
 Th. E. WESTERTERP
 
-#### Atto finale
+### Atto finale
 
 Atto finale
 
@@ -1176,7 +1174,7 @@ Jean DUPONG
 
 Th. E. WESTERTERP
 
-#### Allegato I
+### Allegato I
 
 ALLEGATO I
 
@@ -1350,7 +1348,7 @@ adottata nella sessione del Consiglio e della Conferenza dei Ministri per la pub
 
 devono collaborare tra loro per organizzare e determinare nel modo piu' appropriato i rispettivi programmi di studio per tutto quanto riguarda le materie e attivita' parallele o convergenti".
 
-#### Allegato II
+### Allegato II
 
 ALLEGATO II
 

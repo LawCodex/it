@@ -722,7 +722,7 @@ Il divieto di transito o di sosta puo' essere stabilito dal ministro per le comu
 
 ##### CAPO II - Del pilotaggio
 
-###### Sezione I - Del pilotaggio marittimo
+**Sezione I - Del pilotaggio marittimo**
 
 ###### Art. 86 - Istituzione del servizio di pilotaggio
 
@@ -796,7 +796,7 @@ Nelle localita' di approdo o di transito ove non sia costituita una corporazione
 
 Il servizio dei marittimi abilitati al pilotaggio e' regolato dalle norme di questo capo, in quanto applicabili. Le tariffe relative a tale servizio sono approvate dal direttore marittimo.
 
-###### Sezione II - Del pilotaggio nella navigazione interna
+**Sezione II - Del pilotaggio nella navigazione interna**
 
 ###### Art. 97 - Personale abilitato al pilotaggio
 
@@ -1226,7 +1226,7 @@ All'assunzione di personale navigante della navigazione interna per la formazion
 
 ##### CAPO I - Dell'ammissione della nave alla navigazione
 
-###### Sezione I - Dell'individuazione della nave
+**Sezione I - Dell'individuazione della nave**
 
 ###### Art. 136 - Navi e galleggianti
 
@@ -1282,7 +1282,7 @@ Il nome delle navi predette deve essere diverso e dissimile da ogni altro gia' r
 
 Il nome o il numero della nave o del galleggiante e l'indicazione del luogo dell'ufficio d'iscrizione devono essere segnati sullo scafo nei modi stabiliti dal regolamento.
 
-###### Sezione II - Dei requisiti di nazionalita'
+**Sezione II - Dei requisiti di nazionalita'**
 
 ###### Art. 143
 
@@ -1308,7 +1308,7 @@ b) le navi di nuova costruzione o provenienti da un registro straniero non comun
 
 3\. Per l'istituzione dei registri speciali di cui al comma 2, per l'attuazione e il completamento delle disposizioni in esso contenute, nel rispetto della riserva di cui all'articolo 224 del codice della navigazione, si provvede con decreto del Ministro della marina mercantile)).
 
-###### Sezione III - Dell'iscrizione della nave e dell'abilitazione alla navigazione
+**Sezione III - Dell'iscrizione della nave e dell'abilitazione alla navigazione**
 
 ###### Art. 146 - Iscrizione delle navi e dei galleggianti
 
@@ -1426,7 +1426,7 @@ In caso di mutamento del proprietario, nonche' di cambiamento del numero, della 
 
 Le navi abilitate alla navigazione a norma dell'articolo 149 inalberano la bandiera italiana.
 
-###### Sezione IV - Della dismissione di bandiera e della cancellazione dai registri
+**Sezione IV - Della dismissione di bandiera e della cancellazione dai registri**
 
 ###### Art. 156 - Dismissione della bandiera e sospensione temporanea dell'abilitazione alla navigazione
 
@@ -3326,7 +3326,7 @@ Nei casi in cui il viaggio non sia iniziato o compiuto, il termine decorre dal g
 
 ##### CAPO III - Del trasporto
 
-###### Sezione I - Del trasporto di persone
+**Sezione I - Del trasporto di persone**
 
 ###### Art. 396 - Forma del contratto
 
@@ -3456,7 +3456,7 @@ I diritti derivanti dal contratto di trasporto di bagagli registrati si prescriv
 
 Nei trasporti che hanno inizio o termine fuori di Europa o dei paesi bagnati dal Mediterraneo, la prescrizione dei diritti indicati nei comma precedenti si compie col decorso di un anno.
 
-###### Sezione II - Del trasporto di cose in generale
+**Sezione II - Del trasporto di cose in generale**
 
 ###### Art. 419 - Trasporti di cose
 
@@ -3578,7 +3578,7 @@ I diritti derivanti dal contratto di trasporto di cose si prescrivono col decors
 
 Nei trasporti che hanno inizio o termine fuori di Europa o dei paesi bagnati dal Mediterraneo, la prescrizione si compie col decorso di un anno.
 
-###### Sezione III - Del trasporto di carico totale o parziale
+**Sezione III - Del trasporto di carico totale o parziale**
 
 ###### Art. 439 - Norme applicabili
 
@@ -3644,7 +3644,7 @@ Se il destinatario e' irreperibile o rifiuta di ricevere il carico, ovvero se si
 
 Se il destinatario, dopo aver acquistato i diritti nascenti dal contratto, ritarda a ritirare il carico o se sorge controversia intorno all'esecuzione della consegna, il vettore puo' procedere al deposito delle merci presso un terzo a norma dell'articolo 1514 del codice civile o, trattandosi di merci soggette a rapido deterioramento, alla vendita per conto del destinatario a norma dell'articolo 1515 dello stesso codice, dandone avviso all'interessato.
 
-###### Sezione IV - Del trasporto di cose determinate
+**Sezione IV - Del trasporto di cose determinate**
 
 ###### Art. 451 - Sostituibilita' della nave
 
@@ -3676,7 +3676,7 @@ Il vettore che esegue la riconsegna al destinatario senza riscuotere i propri cr
 
 Salvo diverso patto od uso, nel caso di mancato arrivo delle merci, il destinatario puo' far valere i diritti nascenti dal contratto soltanto dal giorno in cui la perdita e' stata riconosciuta dal vettore, o altrimenti dopo sette giorni dal termine in cui le merci avrebbero dovuto giungere a destinazione.
 
-###### Sezione V - Della polizza ricevuto per l'imbarco e della polizza di carico
+**Sezione V - Della polizza ricevuto per l'imbarco e della polizza di carico**
 
 ###### Art. 457 - Dichiarazione d'imbarco
 
@@ -4262,7 +4262,7 @@ L'esercizio dell'azione per ottenere l'indennita', mediante abbandono delle cose
 
 ##### CAPO I - Dei privilegi
 
-###### Sezione I - Disposizioni generali
+**Sezione I - Disposizioni generali**
 
 ###### Art. 548 - Preferenza dei privilegi
 
@@ -4282,7 +4282,7 @@ Lo stesso diritto spetta ai creditori perdenti in seguito alla detta surrogazion
 
 Il trasferimento del credito privilegiato produce anche il trasferimento del privilegio.
 
-###### Sezione II - Dei privilegi sulla nave e sul nolo
+**Sezione II - Dei privilegi sulla nave e sul nolo**
 
 ###### Art. 552 - Privilegi sulla nave e sul nolo
 
@@ -4364,7 +4364,7 @@ Questo termine decorre dalla data della trascrizione dell'atto di alienazione, s
 
 Le disposizioni di questo capo non si applicano nel caso che la nave sia esercitata da un armatore non proprietario, che ne abbia acquistata la disponibilita' in seguito ad un atto illecito, quando il creditore sia di cio' a conoscenza.
 
-###### Sezione III - Dei privilegi sulle cose caricate
+**Sezione III - Dei privilegi sulle cose caricate**
 
 ###### Art. 561 - Privilegi sulle cose caricate
 
@@ -4590,7 +4590,7 @@ Per tutto quanto non e' espressamente regolato dal presente titolo, si applicano
 
 ##### CAPO II - Delle cause per sinistri marittimi
 
-###### Sezione I - Della competenza
+**Sezione I - Della competenza**
 
 ###### Art. 589 - Competenza per materia e per valore
 
@@ -4636,7 +4636,7 @@ Se il fatto che vi ha dato luogo e' avvenuto nel mare territoriale, le cause con
 
 Se il fatto e' avvenuto fuori del mare territoriale, le cause sono proposte avanti il comandante di porto capo del circondario o il tribunale della circoscrizione, nella quale e' avvenuto il primo approdo della nave danneggiata, o l'arrivo della maggior parte dei naufraghi, o, in mancanza avanti il capo del circondario o il tribunale della circoscrizione nella quale e' il luogo di iscrizione della nave.
 
-###### Sezione II - Del procedimento avanti i comandanti di porto
+**Sezione II - Del procedimento avanti i comandanti di porto**
 
 ###### Art. 591 - Forma della domanda
 
@@ -4696,7 +4696,7 @@ Il processo verbale costituisce titolo esecutivo.
 
 Se il componimento non riesce, si compila processo verbale, sottoscritto dalle parti, dal comandante di porto e dal cancelliere, e ad esso si allegano gli atti relativi agli eventuali accertamenti di fatto.
 
-###### Sezione III - Del procedimento avanti i tribunali e le corti di appello
+**Sezione III - Del procedimento avanti i tribunali e le corti di appello**
 
 ###### Art. 599 - Nomina di consulenti tecnici
 
@@ -6590,7 +6590,9 @@ Nei processi verbali le autorita' predette fanno constare le dichiarazioni dei s
 
 ((Le conseguenze della scomparizione da bordo o per perdita dell'aeromobile sono regolate dagli articoli 211 e 212. Le competenze dell'autorita' marittima sono attribuite all'autorita' di pubblica sicurezza.))
 
-#### TITOLO DECIMO - ((TITOLO ABROGATO DAL D.LGS. 9 MAGGIO 2005, N. 96))
+#### TITOLO DECIMO
+
+#### ((TITOLO ABROGATO DAL D.LGS. 9 MAGGIO 2005, N. 96))
 
 ###### Art. 839
 
@@ -7276,7 +7278,7 @@ Nei rapporti interni fra noleggiante e noleggiatore, il noleggiante assume i ris
 
 ##### ((CAPO III)) - ((Del trasporto))
 
-###### ((Sezione I)) - ((Del trasporto di persone e di bagagli))
+**((Sezione I)) - ((Del trasporto di persone e di bagagli))**
 
 ###### Art. 941 - Norme applicabili
 
@@ -7384,7 +7386,7 @@ La stessa norma si applica quando l'impedimento riguarda uno dei congiunti o deg
 
 Gli stessi diritti non sono assoggettati alle norme che regolano la prescrizione.))
 
-###### Sezione II - Del trasporto di cose
+**Sezione II - Del trasporto di cose**
 
 ###### Art. 950 - Forma del contratto
 
@@ -7432,7 +7434,7 @@ Gli stessi diritti non sono assoggettati alle norme che regolano la prescrizione
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2006, N. 151))
 
-###### Sezione III - Della lettera di trasporto aereo
+**Sezione III - Della lettera di trasporto aereo**
 
 ###### Art. 956
 
@@ -7470,9 +7472,7 @@ Gli stessi diritti non sono assoggettati alle norme che regolano la prescrizione
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2006, N. 151))
 
-#### TITOLO SECONDO - DELLA RESPONSABILITA' PER DANNI A TERZI SULLA SUPERFICIE E PER DANNI DA URTO
-
-##### ((...))
+#### TITOLO SECONDO - DELLA RESPONSABILITA' PER DANNI A TERZI SULLA SUPERFICIE E PER DANNI DA URTO ((...))
 
 ###### Art. 965
 
@@ -7662,7 +7662,9 @@ Il diritto al rimborso delle spese e al conseguimento del premio si prescrive co
 
 #### TITOLO QUARTO - DELLE ASSICURAZIONI
 
-##### CAPO I - ((CAPO ABROGATO DAL D.LGS. 9 MAGGIO 2005, N. 96))
+##### CAPO I
+
+##### ((CAPO ABROGATO DAL D.LGS. 9 MAGGIO 2005, N. 96))
 
 ###### Art. 996
 
@@ -7758,7 +7760,7 @@ La dichiarazione di abbandono dell'aeromobile e quella con la quale l'assicurato
 
 ##### CAPO III - Delle assicurazioni per danni a terzi sulla superficie e per danni da urto
 
-###### Sezione I - Assicurazione obbligatoria della responsabilita' per danni a terzi sulla superficie
+**Sezione I - Assicurazione obbligatoria della responsabilita' per danni a terzi sulla superficie**
 
 ###### Art. 1010 - Nota comprovante l'assicurazione
 
@@ -7806,7 +7808,7 @@ Al di fuori delle eccezioni previste nei comma precedenti, l'assicuratore puo' o
 
 Nei casi previsti dal secondo, terzo e quarto comma dell'articolo precedente, l'assicuratore ha azione di rivalsa contro l'esercente per la somma pagata al terzo danneggiato.
 
-###### Sezione II - Assicurazione della responsabilita' per danni da urto
+**Sezione II - Assicurazione della responsabilita' per danni da urto**
 
 ###### Art. 1017 - Rischio
 
@@ -8296,7 +8298,7 @@ La condanna per il delitto previsto dall'articolo 1089 importa l'interdizione te
 
 ##### CAPO II - Dei delitti contro la polizia di bordo e della navigazione
 
-###### Sezione I - Dei delitti contro la polizia di bordo
+**Sezione I - Dei delitti contro la polizia di bordo**
 
 ###### Art. 1091
 
@@ -8364,7 +8366,7 @@ Alla stessa pena soggiace il componente dell'equipaggio dell'aeromobile, che sen
 
 Se dal fatto deriva l'incendio, il naufragio o la sommersione della nave o del galleggiante ovvero l'incendio, la caduta o la perdita dell'aeromobile, la pena e' da due ad otto anni. Se la nave o l'aeromobile e' adibito a trasporto di persone, la pena e' da tre a dodici anni.
 
-###### Sezione II - Dei delitti contro la polizia della navigazione
+**Sezione II - Dei delitti contro la polizia della navigazione**
 
 ###### Art. 1099 - Rifiuto di obbedienza a nave da guerra
 
@@ -8390,7 +8392,7 @@ Fuori dei casi previsti nell'articolo 260 del codice penale, e' punito con la re
 
 2° il comandante dell'aeromobile nazionale o straniero, che viola il divieto di sorvolo stabilito nell'art. 793.
 
-###### Sezione III - Disposizione comune alle sezioni precedenti
+**Sezione III - Disposizione comune alle sezioni precedenti**
 
 ###### Art. 1103 - Pene accessorie
 
@@ -8556,7 +8558,7 @@ Se il delitto previsto nell'articolo 449 del codice penale e' commesso da appart
 
 ##### CAPO V - Del delitti contro la fede pubblica
 
-###### Sezione I - Della falsita' in atti
+**Sezione I - Della falsita' in atti**
 
 ###### Art. 1126 - Documenti equiparati agli atti pubblici agli effetti della pena
 
@@ -8574,7 +8576,7 @@ Chiunque, senza essere concorso nella falsita', fa uso di uno degli atti falsi p
 
 Si applica il secondo comma dell'articolo 489 del codice penale.
 
-###### Sezione II - Delle altre falsita'
+**Sezione II - Delle altre falsita'**
 
 ###### Art. 1129 - Falsa dichiarazione di proprieta' o dei requisiti di nazionalita'
 
@@ -8616,7 +8618,7 @@ Se la costruzione viene iniziata, la pena e' aumentata fino a un terzo.
 
 Chiunque, al fine di procurare a se' o ad altri un vantaggio o di recare ad altri un danno, si vale di un documento di lavoro marittimo o aeronautico appartenente ad altra persona e' punito, qualora il fatto non costituisca un altro delitto contro la fede pubblica, con la reclusione fino a un anno.
 
-###### Sezione III - Disposizione comune alle sezioni precedenti
+**Sezione III - Disposizione comune alle sezioni precedenti**
 
 ###### Art. 1134 - Pene accessorie
 

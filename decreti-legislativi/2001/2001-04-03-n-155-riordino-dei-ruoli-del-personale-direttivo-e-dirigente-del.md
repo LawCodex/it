@@ -50,7 +50,7 @@ il seguente decreto legislativo:
 
 ## Capo I - ((Carriera dei funzionari del Corpo forestale dello Stato: ruolo direttivo dei funzionari e ruolo dei dirigenti del Corpo forestale dello Stato))
 
-#### Art. 1
+### Art. 1
 
 Istituzione del ruolo direttivo dei
 
@@ -72,7 +72,7 @@ c) (( vice questore aggiunto forestale )).
 
 5\. Al personale di cui al comma 1 non si applica il primo comma dell'articolo 17 della legge 11 luglio 1980, n. 312.
 
-#### Art. 2
+### Art. 2
 
 Funzioni del personale del ruolo direttivo
 
@@ -84,7 +84,7 @@ dei funzionari del Corpo forestale dello Stato
 
 2\. I commissari capo forestali ed i commissari superiori forestali provvedono, inoltre, all'addestramento del personale dipendente e svolgono, in relazione alla professionalita' posseduta, compiti di istruzione e formazione del personale del Corpo forestale dello Stato. Espletano altresi' funzioni di verifica dei risultati conseguiti relativamente a piu' unita' organiche non aventi rilevanza esterna, attivita' di studio e di elaborazione di piani e programmi con autonoma determinazione dei processi formativi ed attuativi in ordine ad obiettivi e ad indirizzi prefissati, collaborano in attivita' ispettive, al sistema del controllo di gestione, nonche' nelle attivita' di valutazione e controllo di effettiva attuazione delle scelte contenute nelle direttive ed atti di indirizzo politico. ))
 
-#### Art. 3
+### Art. 3
 
 (( Accesso alla carriera dei
 
@@ -118,7 +118,7 @@ dall'elettorato attivo e coloro che siano stati destituiti o espulsi dall'impieg
 
 (( 5-bis. Nel limite del venti per cento dei posti disponibili nei profili professionali di cui all'articolo 1, comma 4, l'accesso alla qualifica iniziale del ruolo direttivo dei funzionari del Corpo forestale dello Stato avviene mediante concorso interno per titoli ed esami, al quale e' ammesso a partecipare il personale del Corpo forestale dello Stato in possesso del prescritto diploma di laurea e dei requisiti attitudinali richiesti, il quale non abbia riportato nei tre anni precedenti la sanzione disciplinare piu' grave della sospensione o riduzione dello stipendio per un mese ed abbia riportato, nello stesso periodo, un giudizio complessivo non inferiore a "buono". Per il personale con qualifica inferiore a quella di vice ispettore o qualifica corrispondente e' richiesta un'anzianita' di servizio di almeno tre anni alla data del bando che indice il concorso. Il bando di concorso da emanarsi con le modalita' di cui al comma 5, determina anche i titoli oggetto di valutazione. I posti non coperti sono conferiti secondo l'ordine della graduatoria di merito del concorso pubblico per esami di cui al comma 1. ))
 
-#### Art. 4
+### Art. 4
 
 Corso di formazione iniziale per la conferma nel ruolo
 
@@ -138,7 +138,7 @@ direttivo dei funzionari del Corpo forestale dello Stato
 
 7\. Ai frequentatori del corso si applicano le disposizioni di cui all'articolo 59, secondo comma, della legge 1o aprile 1981, n. 121.
 
-#### Art. 5
+### Art. 5
 
 Dimissioni dal corso di formazione iniziale
 
@@ -168,13 +168,13 @@ e) sono stati per qualsiasi motivo assenti dall'attivita' corsuale per piu' di n
 
 > "Art. 50 (Disposizioni diverse). - Nei confronti degli appartenenti ai ruoli del Corpo forestale dello Stato vincitori dei concorsi pubblici previsti dal presente decreto si applica, per il periodo di frequenza dei corrispondenti corsi di formazione, l'art. 28 della legge 10 ottobre 1986, n. 668".
 
-#### Art. 6
+### Art. 6
 
 Promozione a ((vice questore aggiunto forestale))
 
 1\. La promozione a ((vice questore aggiunto forestale)) si consegue, a ruolo aperto, mediante scrutinio per merito comparativo al quale e' ammesso il personale con la qualifica di commissario capo forestale che abbia compiuto cinque anni e sei mesi di effettivo servizio nella qualifica.
 
-#### Art. 7
+### Art. 7
 
 Qualifiche del ruolo dei dirigenti
 
@@ -202,7 +202,7 @@ Fino all'adozione dei predetti provvedimenti, da emanare entro (( diciotto mesi 
 
 7\. Al secondo periodo del secondo comma dell'articolo 18 della legge 1o aprile 1981, n. 121, sono aggiunte in fine le seguenti parole: "ed il dirigente generale capo del Corpo forestale dello Stato".
 
-#### Art. 8
+### Art. 8
 
 Nomina a primo dirigente
 
@@ -224,7 +224,7 @@ b) nel limite del restante venti per cento dei posti disponibili al 31 dicembre 
 
 6\. Gli appartenenti al ruolo direttivo dei funzionari del Corpo forestale dello Stato conseguono a titolo onorifico la qualifica di primo dirigente del ruolo dei dirigenti del Corpo forestale dello Stato il giorno successivo alla cessazione dal servizio per limiti di eta', infermita' o decesso, se rivestono la qualifica non inferiore a quella di ((vice questore aggiunto forestale)) e nel quinquennio precedente abbiano prestato servizio senza demerito.
 
-#### Art. 9
+### Art. 9
 
 Concorso per la nomina a primo dirigente
 
@@ -256,7 +256,7 @@ d) nei cinque anni precedenti la sanzione disciplinare della sospensione dalla q
 
 8\. Con il decreto di nomina sono designati altrettanti componenti supplenti ai fini della sostituzione dei componenti effettivi.
 
-#### Art. 10
+### Art. 10
 
 Promozione alla qualifica di dirigente superiore
 
@@ -264,7 +264,7 @@ Promozione alla qualifica di dirigente superiore
 
 2\. Le promozioni hanno effetto dal 1o gennaio dell'anno successivo a quello nel quale si sono verificate le vacanze.
 
-#### Art. 11
+### Art. 11
 
 Valutazione annuale dei dirigenti
 
@@ -296,11 +296,9 @@ Valutazione annuale dei dirigenti
 
 > Non si fa luogo al rapporto informativo e al giudizio complessivo per i dirigenti superiori dei quali vanno, per altro, segnalati, dai competenti superiori gerarchici, i fatti meritevoli di particolare menzione sotto il profilo del merito o del demerito, verificatisi nell'anno".
 
-## Capo II - Ruolo direttivo speciale
+## Capo II - Ruolo direttivo speciale del Corpo forestale dello Stato
 
-### del Corpo forestale dello Stato
-
-#### Art. 12
+### Art. 12
 
 Istituzione del ruolo direttivo speciale
 
@@ -318,7 +316,7 @@ d) ((vice questore aggiunto forestale)) del ruolo direttivo speciale.
 
 2\. La dotazione organica del ruolo di cui al comma 1 e' indicata nella tabella C allegata al presente decreto e determina la contestuale riduzione a 1392 unita' della dotazione organica del ruolo dei sovrintendenti del Corpo forestale dello Stato, di cui alla tabella A allegata al decreto legislativo 12 maggio 1995, n. 201.
 
-#### Art. 13
+### Art. 13
 
 Funzioni del personale del ruolo direttivo
 
@@ -330,7 +328,7 @@ speciale del Corpo forestale dello Stato
 
 3\. I commissari capo forestali ed i commissari superiori forestali del ruolo direttivo speciale collaborano direttamente con i commissari capo forestali ed i commissari superiori forestali del ruolo direttivo dei funzionari del Corpo forestale dello Stato. I commissari superiori forestali del ruolo direttivo speciale dirigono, inoltre, uffici o servizi con organizzazione autonoma con le connesse responsabilita'.
 
-#### Art. 14
+### Art. 14
 
 Accesso al ruolo direttivo speciale
 
@@ -352,7 +350,7 @@ d) nei cinque anni precedenti, una sanzione disciplinare piu' grave di quella in
 
 4\. Coloro che partecipano al concorso di cui al comma 1 devono effettuare gli accertamenti medici e psico-attitudinali specificamente previsti per l'accesso al ruolo di cui all'articolo 1.
 
-#### Art. 15
+### Art. 15
 
 Corso di formazione per la conferma nel ruolo direttivo
 
@@ -386,7 +384,7 @@ speciale del Corpo forestale dello Stato
 
 > Ai funzionari del ruolo dei Commissari e ai primi dirigenti che abbiano prestato servizio senza demerito per 25 anni, e' attribuito il trattamento economico spettante al dirigente superiore".
 
-#### Art. 16
+### Art. 16
 
 Dimissioni dal corso di formazione
 
@@ -410,7 +408,7 @@ e) sono stati per qualsiasi motivo assenti dall'attivita' corsuale per piu' di n
 
 > \- Per il testo dell'art. 50 del decreto legislativo 12 maggio 1995, n. 201, si veda nelle note all'art. 5.
 
-#### Art. 17
+### Art. 17
 
 Promozione a commissario capo forestale del ruolo
 
@@ -418,7 +416,7 @@ direttivo speciale del Corpo forestale dello Stato
 
 1\. La promozione a commissario capo forestale del ruolo direttivo speciale del Corpo forestale dello Stato si consegue, nel limite dei posti disponibili, mediante scrutinio per merito comparativo, al quale e' ammesso il personale con la qualifica di commissario forestale del ruolo direttivo speciale che abbia compiuto sei anni di effettivo servizio nella qualifica.
 
-#### Art. 18
+### Art. 18
 
 Promozione a ((vice questore aggiunto forestale))
 
@@ -426,7 +424,7 @@ del ruolo direttivo speciale del Corpo forestale dello Stato
 
 1\. La promozione a ((vice questore aggiunto forestale)) del ruolo direttivo speciale del Corpo forestale dello Stato si consegue, a ruolo aperto, mediante scrutinio per merito comparativo, al quale e' ammesso il personale con la qualifica di commissario capo forestale del ruolo direttivo speciale che abbia compiuto cinque anni e sei mesi di effettivo servizio nella qualifica.
 
-#### Art. 19
+### Art. 19
 
 Conferimento a titolo onorifico di qualifiche
 
@@ -438,13 +436,13 @@ connesse alla cessazione dal servizio
 
 ## Capo III - Disposizioni comuni, transitorie e finali
 
-#### Art. 20
+### Art. 20
 
 Aggiornamento professionale
 
 1\. L'aggiornamento del personale dei ruoli dei dirigenti, direttivo dei funzionari e direttivo speciale del Corpo forestale dello Stato e' assicurato durante lo svolgimento dell'intera carriera. Oltre alla frequenza di corsi organizzati dalla scuola di perfezionamento delle Forze di polizia, l'amministrazione promuove lo svolgimento di percorsi di formazione che possono essere effettuati anche attraverso apposite convenzioni presso strutture formative pubbliche o private.
 
-#### Art. 21
+### Art. 21
 
 Ordine gerarchico
 
@@ -454,7 +452,7 @@ Ordine gerarchico
 
 3\. Ai fini di quanto previsto dal comma 1 i dirigenti precedono i funzionari della qualifica ad esaurimento di ispettore generale, ai quali e' attribuita la qualifica di sostituto ufficiale di pubblica sicurezza, permanendo in quella di ufficiale di polizia giudiziaria.
 
-#### Art. 22
+### Art. 22
 
 Inquadramento nel ruolo direttivo dei
 
@@ -478,19 +476,19 @@ AGGIORNAMENTO (2)
 
 Il D.Lgs. 28 dicembre 2001, n. 472 ha disposto (con l'art. 3, comma 1) che " La disposizione dell'articolo 22, comma 3, del decreto legislativo 3 aprile 2001, n. 155, e' interpretata e correttamente applicata nel senso che l'anzianita' maturata nella IX qualifica funzionale degli Ufficiali del Corpo forestale dello Stato si conserva nell'inquadramento previsto dal medesimo articolo 22. "
 
-#### Art. 23
+### Art. 23
 
 (( ARTICOLO ABROGATO DAL D.L. 3 MAGGIO 2001, N. 157,
 
 CONVERTITO CON MODIFICAZIONI DALLA L. 3 LUGLIO 2001, N. 250 ))
 
-#### Art. 24
+### Art. 24
 
 Copertura di posti dirigenziali
 
 1\. Le disposizioni di cui all'articolo 8 si applicano per la copertura di tutti i posti vacanti al 31 dicembre 2001 ivi compresi quelli dei cicli precedenti non messi a concorso secondo la normativa previgente.
 
-#### Art. 25
+### Art. 25
 
 Disposizioni finali
 
@@ -522,7 +520,7 @@ Disposizioni finali
 
 > Si osservano, in quanto applicabili, le disposizioni di cui ai commi quarto, quinto, sesto, settimo e nono dell'art. 22".
 
-#### Art. 26
+### Art. 26
 
 Disposizioni di coordinamento
 
@@ -546,7 +544,7 @@ Disposizioni di coordinamento
 
 > Le forze di polizia possono essere utilizzate anche per il servizio di pubblico soccorso".
 
-#### Art. 27
+### Art. 27
 
 Copertura finanziaria
 
@@ -588,7 +586,7 @@ Visto, il Guardasigilli: Fassino
 
 ## Capo III - Disposizioni comuni, transitorie e finali
 
-#### Tabelle
+### Tabelle
 
 Tabella A
 

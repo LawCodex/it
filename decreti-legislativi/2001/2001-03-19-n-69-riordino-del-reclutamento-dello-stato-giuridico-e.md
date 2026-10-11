@@ -60,13 +60,11 @@ EMANA
 
 il seguente decreto legislativo:
 
-## TITOLO I - RUOLI E RECLUTAMENTO DEGLI UFFICIALI
+## TITOLO I - RUOLI E RECLUTAMENTO DEGLI UFFICIALI DEL CORPO DELLA GIARDIA DI FINANZA
 
-### DEL CORPO DELLA GIARDIA DI FINANZA
+### CAPO I - RUOLI DEGLI UFFICIALI
 
-#### CAPO I - RUOLI DEGLI UFFICIALI
-
-###### Art. 1 - Ambito di applicazione
+##### Art. 1 - Ambito di applicazione
 
 1\. Il presente decreto disciplina, in attuazione della delega prevista dall'articolo 4, della legge 31 marzo 2000, n. 78, i ruoli e le relative dotazioni organiche, il reclutamento e l'avanzamento degli ufficiali e reca disposizioni attinenti allo stato giuridico degli ufficiali in servizio permanente del Corpo della Guardia di finanza.
 
@@ -90,7 +88,7 @@ AGGIORNAMENTO (6)
 
 La L. 3 giugno 2010, n. 79 ha disposto (con l'art. 1, comma 4) che Le disposizioni del comma 4 dell'articolo 1 del decreto legislativo 19 marzo 2001, n. 69, come modificato dal comma 3 dell'art. 1, acquistano efficacia dalla data di assunzione della carica del Comandante generale del Corpo della guardia di finanza, nominato secondo le procedure stabilite dal primo comma del citato articolo 4 della legge n. 189 del 1959, come sostituito dal comma 1, lettera a), numero 1), del presente articolo.
 
-###### Art. 2 - Ruoli degli ufficiali
+##### Art. 2 - Ruoli degli ufficiali
 
 1\. I ruoli, con carriera a sviluppo dirigenziale, nei quali sono iscritti gli ufficiali del servizio permanente del Corpo della Guardia di finanza sono i seguenti:
 
@@ -114,11 +112,11 @@ d) ruolo tecnico-logistico-amministrativo.
 
 ((3-bis. A decorrere dalla data di transito prevista dall'articolo 36, comma 33, del decreto legislativo 29 maggio 2017, n. 95, i militari della Guardia di finanza nominati sottotenenti di complemento ovvero della riserva di complemento, ai sensi della legge 20 marzo 1940, n. 234 e della legge 27 febbraio 1955, n. 84, sono rispettivamente iscritti nel corrispondente ruolo del congedo relativo al ruolo normale - comparto speciale.))
 
-###### Art. 3
+##### Art. 3
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-###### Art. 4
+##### Art. 4
 
 (( (Funzionamento dei ruoli).))
 
@@ -126,9 +124,9 @@ d) ruolo tecnico-logistico-amministrativo.
 
 2\. Gli aumenti o le diminuzioni degli organici rispetto a quelli previsti dalle tabelle allegate al presente decreto sono realizzati a decorrere dal 1° gennaio 2017, secondo le progressioni ivi indicate.))
 
-## CAPO II - RECLUTAMENTO DEGLI UFFICIALI
+### CAPO II - RECLUTAMENTO DEGLI UFFICIALI
 
-###### Art. 5 - Disposizioni comuni
+##### Art. 5 - Disposizioni comuni
 
 1\. Per conseguire la nomina ad ufficiale in servizio permanente effettivo del Corpo della (Guardia di finanza e' necessario possedere i seguenti requisiti:
 
@@ -190,7 +188,7 @@ Nel caso in cui alcuni dei posti messi a concorso risultino scoperti per rinunci
 
 6\. Nel caso di ammissione all'Accademia o conseguimento della nomina ad ufficiale in servizio permanente effettivo per effetto delle disposizioni del presente decreto, al personale proveniente, senza soluzione di continuita', dagli ufficiali di complemento, dai ruoli ispettori, sovrintendenti, appuntati e finanzieri, qualora gli emolumenti fissi e continuativi in godimento siano superiori a quelli spettanti nella nuova posizione, e' attribuito un assegno personale pari alla relativa differenza, riassorbibile con i futuri incrementi stipendiali conseguenti a progressione di carriera o a disposizioni normative a carattere generale.
 
-###### Art. 6 - Ufficiali del ruolo normale
+##### Art. 6 - Ufficiali del ruolo normale
 
 1\. Gli ufficiali del ruolo normale del Corpo della guardia di finanza sono tratti mediante concorso:
 
@@ -218,7 +216,7 @@ a) fino al 31 dicembre 2021, ai marescialli capi, marescialli aiutanti e luogote
 
 b) dal 1° gennaio 2022 al 31 dicembre 2026, ai marescialli capi, marescialli aiutanti e luogotenenti del Corpo della guardia di finanza, in possesso di laurea triennale nelle materie indicate nel decreto del Ministro dell'economia e delle finanze di cui all'articolo 5, comma 2, del decreto legislativo 19 marzo 2001, n. 69".
 
-###### Art. 6-bis - Accesso mediante concorso pubblico al ruolo normale - comparti ordinario e aeronavale degli ufficiali
+##### Art. 6-bis - Accesso mediante concorso pubblico al ruolo normale - comparti ordinario e aeronavale degli ufficiali
 
 1\. Gli ufficiali del ruolo normale - comparti ordinario e aeronavale, selezionati mediante concorso pubblico, sono tratti con il grado di sottotenente da coloro che hanno completato, con esito favorevole, il secondo anno di corso dell'Accademia della Guardia di finanza.
 
@@ -262,7 +260,7 @@ AGGIORNAMENTO (15)
 
 Il D.L. 14 agosto 2020, n. 104, convertito con modificazioni dalla L. 13 ottobre 2020, n. 126, ha disposto (con l'art. 37, comma 5-quinquies) che la presente modifica ha effetto a decorrere dall'inizio dell'anno accademico 2021/2022.
 
-###### Art. 6-ter - Accesso mediante concorso interno al ruolo normale - comparto speciale degli ufficiali
+##### Art. 6-ter - Accesso mediante concorso interno al ruolo normale - comparto speciale degli ufficiali
 
 1\. Al concorso di cui all'articolo 6, comma 1, lettera b), possono partecipare gli appartenenti alla Guardia di finanza, in servizio permanente, dei ruoli ispettori, sovrintendenti, appuntati e finanzieri, in possesso di laurea specialistica o magistrale prevista dal decreto di cui all'articolo 5, comma 2, che:
 
@@ -278,15 +276,15 @@ b) abbiano riportato nell'ultimo biennio la qualifica finale non inferiore a «s
 
 5\. COMMA ABROGATO DAL D.LGS. 5 OTTOBRE 2018, N. 126.
 
-###### Art. 7
+##### Art. 7
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-###### Art. 8
+##### Art. 8
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-###### Art. 9 - Ufficiali del ruolo tecnico-logistico-amministrativo
+##### Art. 9 - Ufficiali del ruolo tecnico-logistico-amministrativo
 
 1\. L'accesso al ruolo tecnico-logistico-amministrativo del Corpo della guardia di finanza avviene, con il grado di tenente, mediante concorso per titoli ed esami, al quale possono partecipare i cittadini in possesso di laurea specialistica o magistrale in discipline attinenti alla specialita' per la quale concorrono o anche di ulteriori titoli di studio specialistici o abilitativi, ((individuati dal bando di concorso tra quelli)) previsti dal decreto di cui all'articolo 5, comma 2, che non abbiano superato il ((32° anno)) di eta'. Per gli ispettori, i sovrintendenti, gli appuntati e i finanzieri del Corpo della guardia di finanza il limite massimo di eta' di cui al presente comma e' elevato a 45 anni.
 
@@ -300,7 +298,7 @@ Gli effetti economici della nomina decorrono, in ogni caso, dalla data di effett
 
 ((4-bis. Gli ufficiali medici del ruolo tecnico-logistico-amministrativo accedono ai corsi di specializzazione unicamente ai sensi dell'articolo 35, comma 3, del decreto legislativo 17 agosto 1999, n. 368. Resta ferma la facolta' del Corpo della guardia di finanza di autorizzare, a domanda dell'interessato, la prosecuzione del corso di specializzazione avviato prima dell'assunzione in servizio presso il medesimo Corpo secondo le modalita' previste dall'articolo 40, comma 2, del decreto legislativo 17 agosto 1999, n. 368.))
 
-###### Art. 10 - Alimentazione dei ruoli
+##### Art. 10 - Alimentazione dei ruoli
 
 1 Il numero dei posti da mettere annualmente a concorso per l'ammissione:
 
@@ -308,7 +306,7 @@ a) nel ruolo normale - comparti ordinario, aeronavale e speciale non puo' supera
 
 b) nel ruolo tecnico logistico amministrativo non puo' superare le vacanze esistenti nell'organico complessivo degli ufficiali inferiori e superiori di detto ruolo.
 
-###### Art. 11 - Obblighi da servizio
+##### Art. 11 - Obblighi da servizio
 
 1\. Gli allievi ufficiali reclutati ai sensi dell'articolo 6-bis hanno l'obbligo di contrarre, all'atto dell'ammissione al corso, una ferma di tre anni. Ai fini della nomina a sottotenente hanno l'obbligo di contrarre una nuova ferma di dieci anni, che assorbe quella da espletare e decorre dalla stessa data di nomina. Tale obbligo di servizio costituisce presupposto per la nomina a ufficiale.
 
@@ -342,7 +340,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 5 ottobre 2018, n. 126 ha disposto (con l'art. 9, comma 1, lettera e)) che "le parole: «Ministero delle finanze» sono sostituite dalle seguenti: «Ministro dell'economia e delle finanze»".
 
-###### Art. 11-bis
+##### Art. 11-bis
 
 (( (Impiego degli ufficiali del ruolo normale - comparto aeronavale e del ruolo tecnico-logistico-amministrativo). ))
 
@@ -354,17 +352,15 @@ Il D.Lgs. 5 ottobre 2018, n. 126 ha disposto (con l'art. 9, comma 1, lettera e))
 
 ### CAPO I - AVANZAMENTO
 
-#### Sezione 1
+#### Sezione 1 - Norme fondamentali
 
-##### Norme fondamentali
-
-###### Art. 12 - Requisiti per l'avanzamento
+##### Art. 12 - Requisiti per l'avanzamento
 
 1\. Per l'avanzamento al grado superiore l'ufficiale deve possedere i requisiti fisici, morali, di carattere, intellettuali, di cultura, professionali, necessari per bene adempiere le funzioni del nuovo grado. Aver disimpegnato bene le funzioni del proprio grado e' condizione indispensabile, ma non sufficiente, per l'avanzamento al grado superiore.
 
 2\. Per l'avanzamento ai vari gradi di generale a requisiti di cui al comma 1, devono essere posseduti in modo eminente, in relazione alle funzioni di alto comando o di alta direzione da esercitare nel nuovo grado.
 
-###### Art. 13 - Modalita' di avanzamento
+##### Art. 13 - Modalita' di avanzamento
 
 1\. L'avanzamento degli ufficiali ha luogo
 
@@ -382,11 +378,9 @@ c) per meriti eccezionali.
 
 ((4-bis. L'avanzamento e' il complesso delle procedure autoritative e delle operazioni tecnico-amministrative, disciplinate dal presente decreto legislativo, necessarie per la progressione di carriera del personale militare. In materia di avanzamento, gli obblighi di partecipazione procedimentale e di motivazione sono assolti secondo le modalita' previste dal presente decreto legislativo.))
 
-## SEZIONE II - AUTORITA' COMPETENTI AD ESPRIMERE GIUDIZI SULL'AVANZAMENTO
+#### SEZIONE II - AUTORITA' COMPETENTI AD ESPRIMERE GIUDIZI SULL'AVANZAMENTO E PROCEDIMENTO DI VALUTAZIONE
 
-### E PROCEDIMENTO DI VALUTAZIONE
-
-###### Art. 14 - Commissioni di avanzamento. Generalita
+##### Art. 14 - Commissioni di avanzamento. Generalita
 
 1\. Esprimono giudizi sull'avanzamento ad anzianita' ed a scelta:
 
@@ -418,7 +412,7 @@ AGGIORNAMENTO (7)
 
 Il D.L. 12 luglio 2011, n. 107, convertito con modificazioni dalla L. 2 agosto 2011, n. 130, ha disposto (con l'art. 6, comma 4-bis) che "Al fine di garantire la piena funzionalita' del Corpo della guardia di finanza, anche in relazione alle esigenze connesse alle missioni internazionali, l'articolo 14, comma 2, del decreto legislativo 19 marzo 2001, n. 69, si interpreta nel senso che i componenti delle commissioni di avanzamento devono appartenere ai ruoli del servizio permanente effettivo, salvo che ricoprano cariche per le quali e' prevista la partecipazione a tali commissioni".
 
-###### Art. 15 - Norme procedurali
+##### Art. 15 - Norme procedurali
 
 1\. Le commissioni di avanzamento sono convocate, ai sensi dell'articolo 14, dal Comandante Generale della Guardia di finanza con propria determinazione ((e, per l'espletamento delle proprie attivita', possono avvalersi della competente articolazione tecnica del Comando Generale)).
 
@@ -428,13 +422,13 @@ Il D.L. 12 luglio 2011, n. 107, convertito con modificazioni dalla L. 2 agosto 2
 
 4\. Le deliberazioni sono prese a maggioranza dei presenti. In caso di parita' prevale il voto del Presidente.
 
-###### Art. 16 - Commissione superiore di avanzamento
+##### Art. 16 - Commissione superiore di avanzamento
 
 1\. La Commissione superiore di avanzamento e' composta dal Comandante Generale e dai generali di corpo d'armata della Guardia di finanza.
 
 2\. Assume la presidenza della Commissione il Comandante Generale della Guardia di finanza o, in caso di assenza o di impedimento, il Generale di Corpo d'Armata piu' anziano in grado e, a parita' di anzianita' di grado, il piu' anziano in ruolo tra i presenti.
 
-###### Art. 17 - Commissione ordinaria di avanzamento
+##### Art. 17 - Commissione ordinaria di avanzamento
 
 1\. La Commissione ordinaria da avanzamento e composta:
 
@@ -448,9 +442,9 @@ d) dal colonnello piu' anziano in ruolo del ruolo tecnico logistico amministrati
 
 2\. In caso di assenza o di impedimento del Presidente, assume la presidenza l'ufficiale piu' elevato in grado e, a parita' di grado, al piu' anziano in ruolo.
 
-## SEZIONE III - VALUTAZIONE PER L'AVANZAMENTO
+#### SEZIONE III - VALUTAZIONE PER L'AVANZAMENTO
 
-###### Art. 18 - Aliquote di ruolo ed impedimenti alla valutazione
+##### Art. 18 - Aliquote di ruolo ed impedimenti alla valutazione
 
 1\. L'ufficiale, per essere valutato per l'avanzamento ad anzianita' o a scelta, deve, trovarsi compreso in apposite aliquote di ruolo, salvo che il presente decreto non disponga altrimenti.
 
@@ -470,7 +464,7 @@ d) ((in aspettativa per qualsiasi motivo per una durata non inferiore a sessanta
 
 5\. La valutazione dell'ufficiale che, inserito nell'aliquota di valutazione, si trovi in una delle condizioni di cui al comma 3 e' sospesa. Quando eccezionalmente le autorita' competenti ritengano di non poter addivenire alla pronuncia del giudizio sull'avanzamento, sospendono il giudizio indicandone i motivi. All'ufficiale e' data comunicazione della sospensione della valutazione e dei motivi che l'hanno determinata.
 
-###### Art. 19
+##### Art. 19
 
 (Elementi di giudizio. Documentazione caratteristica e matricolare.
 
@@ -484,7 +478,7 @@ Pareri facoltativi ed obbligatori)
 
 3\. Le commissioni di avanzamento hanno facolta' di interpellare qualunque superiore di grado in servizio, che abbia o abbia avuto alle dipendenze l'ufficiale.
 
-###### Art. 20 - Procedura di valutazione degli avanzamenti ad anzianita
+##### Art. 20 - Procedura di valutazione degli avanzamenti ad anzianita
 
 1\. Il giudizio di avanzamento ad anzianita' si esprime dichiarando se l'ufficiale sottoposto a valutazione sia idoneo o non idoneo all'avanzamento. E' giudicato idoneo dalla commissione di avanzamento l'ufficiale che riporti un numero di voti favorevoli superiore alla meta' dei votanti.
 
@@ -492,7 +486,7 @@ Pareri facoltativi ed obbligatori)
 
 ((2-bis. Gli ufficiali delle categorie del congedo, di qualsiasi ruolo, dichiarati non idonei all'avanzamento non sono piu' valutati e non possono piu' essere trattenuti o richiamati in servizio, a nessun titolo. Ove gia' trattenuti o richiamati, a qualunque titolo, cessano dal trattenimento o dal richiamo in servizio entro 30 giorni dalla data di notifica del provvedimento di non idoneita'.))
 
-###### Art. 21 - Procedura di valutazione degli avanzamenti a scelta
+##### Art. 21 - Procedura di valutazione degli avanzamenti a scelta
 
 1\. Il giudizio di avanzamento a scelta si articola in due fasi. La prima fase e' diretta ad accertate se ciascun ufficiale sottoposto a valutazione sia idoneo o non idoneo all'adempimento delle funzioni del grado superiore. E' giudicato idoneo dalla commissione l'ufficiale che riporta un numero di voti favorevoli superiore ai due terzi dei votanti. Gli ufficiali che hanno riportato giudizio di idoneita' e gli ufficiali che hanno riportato giudizio di non idoneita' sono iscritti dalla commissione in due distinti elenchi, in ordine di ruolo.
 
@@ -550,9 +544,9 @@ AGGIORNAMENTO (14)
 
 Il D.Lgs. 29 maggio 2017, n. 95, come modificato dal D.Lgs. 27 dicembre 2019, n. 172, ha disposto (con l'art. 36, comma 40) che "La promozione di cui all'articolo 21, comma 7-ter, del decreto legislativo 19 marzo 2001, n. 69, e' attribuita a partire dall'anno 2024".
 
-## SEZIONE IV - QUADRI DI AVANZAMENTO E PROMOZIONI
+#### SEZIONE IV - QUADRI DI AVANZAMENTO E PROMOZIONI
 
-###### Art. 22
+##### Art. 22
 
 (( (Approvazione degli atti delle Commissioni di avanzamento) ))
 
@@ -568,7 +562,7 @@ Il D.Lgs. 29 maggio 2017, n. 95, come modificato dal D.Lgs. 27 dicembre 2019, n.
 
 6\. Agli ufficiali valutati per l'avanzamento e' data comunicazione dell'esito dell'avanzamento.
 
-###### Art. 23 - Promozioni
+##### Art. 23 - Promozioni
 
 1\. ((COMMA ABROGATO DAL D.LGS. 27 DICEMBRE 2019, N. 172)).
 
@@ -580,7 +574,7 @@ Il D.Lgs. 29 maggio 2017, n. 95, come modificato dal D.Lgs. 27 dicembre 2019, n.
 
 5\. La morte dell'ufficiale o la permanente inidoneita' fisica derivante da ferite, lesioni o malattie riportate in servizio o per causa di servizio, non impedisce la promozione quando l'ufficiale avrebbe potuto conseguirla con anzianita' anteriore alla data del decesso o del sopravvenire della non idoneita'.
 
-###### Art. 24
+##### Art. 24
 
 (( (Annullamento della valutazione) ))
 
@@ -594,7 +588,7 @@ Il D.Lgs. 29 maggio 2017, n. 95, come modificato dal D.Lgs. 27 dicembre 2019, n.
 
 5\. Il provvedimento ((...)) di annullamento della valutazione di cui al comma 1 ((...)) e' disposto con determinazione dal Comandante Generale della Guardia di finanza.
 
-###### Art. 25
+##### Art. 25
 
 (( (Perdita dei requisiti per la promozione) ))
 
@@ -608,15 +602,15 @@ Il D.Lgs. 29 maggio 2017, n. 95, come modificato dal D.Lgs. 27 dicembre 2019, n.
 
 5\. All'ufficiale e' data comunicazione dell'((annullamento della valutazione)) e dei motivi che l'hanno ((determinato)).
 
-###### Art. 26 - Promozioni non annuali. Promozioni a seguito di cause di esclusione
+##### Art. 26 - Promozioni non annuali. Promozioni a seguito di cause di esclusione
 
 1\. Per i gradi del ruolo tecnico-logistico-amministrativo nei quali le promozioni a scelta non si effettuano tutti gli anni, il Ministro dell'economia e delle finanze o il Comandante Generale della Guardia di finanza, per gli anni in cui non sono previste promozioni, approvano egualmente la graduatoria. Sono conferite le promozioni solo se nel corso dell'anno si verificano una o piu' vacanze nei gradi rispettivamente superiori e, in tal caso, il nuovo ciclo di promozioni decorre da tale anno. ((Le promozioni di cui al presente comma sono conferite con decorrenza dalla data in cui si verificano le vacanze)).
 
 2\. Qualora nei confronti di un ufficiale sia annullata la valutazione a scelta per una delle cause stabilite dalla legge, acquisisce titolo alla promozione il parigrado collocato nella graduatoria di merito dopo l'ultimo degli ufficiali gia' in posizione utile per l'avanzamento al grado superiore.
 
-## CAPO II - AVANZAMENTO DEGLI UFFICIALI IN SERVIZIO PERMANENTE EFFETTIVO
+### CAPO II - AVANZAMENTO DEGLI UFFICIALI IN SERVIZIO PERMANENTE EFFETTIVO
 
-###### Art. 27 - Requisiti per la valutazione
+##### Art. 27 - Requisiti per la valutazione
 
 1\. L'ufficiale in servizio permanente effettivo, per essere valutato per l'avanzamento, deve, in relazione al ruolo di appartenenza:
 
@@ -634,7 +628,7 @@ b) essere in possesso dei titoli e aver superato gli esami e i corsi eventualmen
 
 6\. Ai fini della determinazione delle anzianita' minime di grado richieste per l'inclusione nelle aliquote di valutazione di cui all'articolo 28, si computa sia l'anno solare di conferimento del grado rivestito, sia quello di inserimento nelle aliquote di valutazione per l' avanzamento al grado superiore.
 
-###### Art. 28 - Formazione delle aliquote e valutazione
+##### Art. 28 - Formazione delle aliquote e valutazione
 
 1\. Il 30 settembre di ogni anno, il Comandante Generale della Guardia di finanza, con propria determinazione, indica gli ufficiali da valutare per ((l'avanzamento al grado superiore)) per l'anno successivo. In tali determinazioni sono inclusi:
 
@@ -686,7 +680,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs 29 maggio 2017, n. 95, come modificato dal D.Lgs. 5 ottobre 2018, n. 126, ha disposto (con l'art. 36, comma 42) che "Ai tenenti colonnelli del ruolo normale - comparto speciale, l'articolo 28, comma 3, del decreto legislativo 19 marzo 2001, n. 69 si applica a partire dall'anno di inclusione in aliquota per la quarta valutazione dei tenenti colonnelli reclutati ai sensi dello stesso decreto legislativo 19 marzo 2001, n. 69, come modificato dal presente decreto. Fino all'anno precedente, i predetti ufficiali sono valutati e iscritti in un'unica graduatoria di merito e il numero delle promozioni e' stabilito annualmente dal Comandante generale della Guardia di finanza in relazione alla composizione dell'aliquota di valutazione e all'esigenza di mantenimento di adeguati e paritari tassi di avanzamento".
 
-###### Art. 29 - Vacanze organiche
+##### Art. 29 - Vacanze organiche
 
 1\. Determinano vacanze organiche
 
@@ -706,13 +700,13 @@ e) i decessi.
 
 4\. Al riassorbimento delle posizioni degli ufficiali che cessano dal soprannumero si procede al verificarsi della prima vacanza successiva all'attribuzione delle promozioni tabellari e, comunque, entro l'anno successivo a quello della cessazione della posizione di soprannumero.
 
-###### Art. 29-bis - Ufficiali in soprannumero agli organici
+##### Art. 29-bis - Ufficiali in soprannumero agli organici
 
 1\. Fermi restando i collocamenti in soprannumero agli organici previsti da altre fonti normative, possono essere altresi' collocati in soprannumero agli organici, nel numero massimo di ((venticinque unita')) e, comunque, nel limite di spesa annuale di ((790.000 euro)), gli ufficiali del Corpo della guardia di finanza da distaccare presso le Forze armate e le altre Forze di polizia ovvero da impiegare per esigenze delle altre amministrazioni dello Stato.
 
 2\. Le posizioni soprannumerarie di cui al comma 1 sono disposte con determinazione del Comandante generale della guardia di finanza.
 
-###### Art. 30 - Promozioni annuali
+##### Art. 30 - Promozioni annuali
 
 1\. Nei gradi in cui l'avanzamento ha luogo a scelta, il numero delle promozioni fisse annuali e' stabilito per ciascun grado nelle tabelle 1 e 4 allegate al presente decreto. ((A partire dall'aliquota di valutazione per il 2020, la decorrenza delle promozioni a scelta e' fissata al 1º gennaio dell'anno cui si riferisce l'aliquota di valutazione.))
 
@@ -730,7 +724,7 @@ b) agli ufficiali valutati ad anzianita' e giudicati idonei secondo l'ordine di 
 
 4-bis. Il colonnello del ruolo del maestro direttore della banda musicale del Corpo della guardia di finanza di cui all'articolo 7 del decreto legislativo 27 febbraio 1991, n. 79 non e' computato ai fini del calcolo delle eccedenze di cui al comma 4.
 
-###### Art. 31 - Modalita' per colmare le vacanze
+##### Art. 31 - Modalita' per colmare le vacanze
 
 1\. Qualora, effettuate in un grado le promozioni stabilite per l'anno dalle tabelle 1 per il ruolo normale - comparto ordinario e 4, allegate al presente decreto, si constatino al 1^ luglio vacanze, nel grado superiore, le stesse sono colmate con promozioni aggiuntive.
 
@@ -740,11 +734,9 @@ Tali promozioni ((, conferite con decorrenza 1° luglio,)) non possono eccedere 
 
 3\. Nel caso di cui al comma 2, il Ministro dell'economia e delle finanze ha facolta' di richiamare in servizio gli ufficiali dall'aspettativa per riduzione dei quadri ovvero dall'ausiliaria.
 
-## CAPO III - CESSAZIONE DELLE CAUSE IMPEDITIVE
+### CAPO III - CESSAZIONE DELLE CAUSE IMPEDITIVE DELLA VALUTAZIONE O DELLA PROMOZIONE
 
-### DELLA VALUTAZIONE O DELLA PROMOZIONE
-
-###### Art. 32 - Effetti della cessazione delle cause impeditive della valutazione o della promozione
+##### Art. 32 - Effetti della cessazione delle cause impeditive della valutazione o della promozione
 
 1\. All'ufficiale nei cui riguardi il procedimento penale o quello disciplinare, avviato per l'eventuale irrogazione di una sanzione di stato, si sia concluso con esito favorevole o per il quale sia stata revocata la sospensione dall'impiego di carattere precauzionale o che sia stato in aspettativa per infermita' dipendente da causa di servizio ((ovvero in aspettativa con riconoscimento dell'anzianita' di servizio)), quando sia valutato o nuovamente valutato, si applicano le disposizioni seguenti:
 
@@ -766,7 +758,7 @@ c) all'ufficiale non inserito in aliquota a suo tempo per mancanza delle condizi
 
 c-bis) all'ufficiale che, a seguito di giudizio ai sensi del comma 1 ovvero degli articoli 33 e 34, abbia maturato titolo all'inclusione in aliquota per annualita' pregresse.
 
-###### Art. 33 - Effetti della cessazione delle cause che hanno determinato la sospensione del giudizio di avanzamento
+##### Art. 33 - Effetti della cessazione delle cause che hanno determinato la sospensione del giudizio di avanzamento
 
 1\. L'ufficiale nei cui riguardi sia stato sospeso il giudizio sull'avanzamento in base alle disposizioni di cui all'articolo 18, comma 5, e' valutato per l'avanzamento quando le autorita' competenti riconoscano cessati i motivi della sospensione ((...)). ((La posizione dell'ufficiale, in ogni caso, e' presa nuovamente in esame l'anno successivo.))
 
@@ -782,7 +774,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 29 maggio 2017, n. 95, come modificato dal D.Lgs. 5 ottobre 2018, n. 126, ha disposto (con l'art. 36, comma 60-quater) che "Al fine di salvaguardare i livelli di funzionalita' del Corpo della guardia di finanza, l'ultimo periodo dell'articolo 33, comma 2, lettera b), del decreto legislativo 19 marzo 2001, n. 69 non si applica con riferimento alle promozioni al grado di generale di divisione nell'anno 2019, salvo che non si determinino, al 1° luglio del medesimo anno, eccedenze nell'organico previsto dalla colonna n. 2 della tabella n. 1 allegata al medesimo decreto legislativo 19 marzo 2001, n. 69".
 
-###### Art. 34 - Rinnovazione del giudizio di avanzamento
+##### Art. 34 - Rinnovazione del giudizio di avanzamento
 
 1\. Nei casi di rinnovazione di un giudizio di avanzamento annullato d'ufficio o in seguito ad accorgimento di ricorso giurisdizionale o di ricorso straordinario al Presidente, della Repubblica si applicano le seguenti disposizioni:
 
@@ -800,9 +792,9 @@ b) l'ufficiale appartenente al grado nel quale l'avanzamento ha luogo a scelta, 
 
 6\. Le disposizioni del presente articolo si applicano a tutte le innovazioni di giudizi di avanzamento successive alla data di entrata in vigore del presente decreto, indipendentemente ((dall'anno)) di riferimento.
 
-## CAPO IV - NORME PARTICOLARI PER I SOTTOTENENTI
+### CAPO IV - NORME PARTICOLARI PER I SOTTOTENENTI
 
-###### Art. 35 - Avanzamento dei sottotenenti della Guardia di finanza
+##### Art. 35 - Avanzamento dei sottotenenti della Guardia di finanza
 
 1\. L'avanzamento dei sottotenenti ha luogo ad anzianita'.
 
@@ -820,7 +812,7 @@ b) l'ufficiale appartenente al grado nel quale l'avanzamento ha luogo a scelta, 
 
 ## TITOLO III - MODIFICHE ALLE NORME SULLO STATO GIURIDICO DEGLI UFFICIALI
 
-###### Art. 36 - Limiti di eta' per il collocamento in congedo
+##### Art. 36 - Limiti di eta' per il collocamento in congedo
 
 1\. Per il Corpo della Guardia di finanza, in luogo della tabella I, allegata alla legge 15 dicembre 1959, n. 1089, come modificata dalla tabella D, allegata alla legge 27 dicembre 1990, n. 404, e indicata all'articolo 7, della stessa legge, si applica la tabella 5 allegata al presente decreto.
 
@@ -846,7 +838,7 @@ b) l'ufficiale appartenente al grado nel quale l'avanzamento ha luogo a scelta, 
 
 > Tenente Colonnello, Maggiore, Capitano e Subalterni 60".
 
-###### Art. 37 - Norme di collegamento in materia di stato giuridico
+##### Art. 37 - Norme di collegamento in materia di stato giuridico
 
 1\. Gli articoli 21, 25, 43 e 63, della legge 10 aprile 1954, n. 113 come modificati dagli articoli da 32 a 36 del decreto legislativo 30 dicembre 1997, n. 490, si applicano anche agli ufficiali della Guardia di finanza.
 
@@ -894,7 +886,7 @@ b) l'ufficiale appartenente al grado nel quale l'avanzamento ha luogo a scelta, 
 
 > b) 70 anni se ufficiale superiore o inferiore".
 
-###### Art. 38 - Documentazione caratteristica
+##### Art. 38 - Documentazione caratteristica
 
 1\. A decorrere dal 1^ gennaio 2001 si procede alla redazione della documentazione caratteristica anche nei confronti dei generali di divisione del Corpo della Guardia di Finanza con le modalita' di cui al decreto del Presidente della Repubblica 13 febbraio 1967 n. 429.
 
@@ -916,7 +908,7 @@ Il D.Lgs. 27 dicembre 2019, n. 172, ha disposto (con l'art. 42, comma 1, lettera
 
 a) l'articolo 38 del decreto legislativo 19 marzo 2001, n. 69".
 
-###### Art. 38-bis
+##### Art. 38-bis
 
 (( (Composizione del consiglio di disciplina) ))
 
@@ -932,7 +924,7 @@ c) il comma 3 e' sostituito dal seguente:
 
 "3. In caso di indisponibilita' di ufficiali in servizio permanente del Corpo, sono chiamati a far parte del consiglio di disciplina, per i generali e i colonnelli, ufficiali generali della Guardia di finanza appartenenti all'ausiliaria o alla riserva ovvero, in caso di indisponibilita' anche di costoro, ufficiali generali o di grado corrispondente in servizio permanente delle altre Forze armate.". ))
 
-###### Art. 39 - Riammissione in servizio
+##### Art. 39 - Riammissione in servizio
 
 1\. Gli ufficiali del ruolo normale ((...)) e tecnico-logistico- amministrativo, posti in congedo a domanda, possono ottenere la riammissione in servizio a condizione che:
 
@@ -960,31 +952,29 @@ e) del proficuo impiego in servizio in relazione alle qualita' professionali e a
 
 ## TITOLO IV - ASSESTAMENTO DEI RUOLI
 
-### CAPO I
+### CAPO I - RUOLO AERONAVALE
 
-#### RUOLO AERONAVALE
-
-###### Art. 40
+##### Art. 40
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-###### Art. 41
+##### Art. 41
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-## CAPO II - RUOLO SPECIALE
+### CAPO II - RUOLO SPECIALE
 
-###### Art. 42
-
-((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
-
-###### Art. 43
+##### Art. 42
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-## CAPO III - RUOLO TECNICO-LOGISTICO-AMMINISTRATIVO
+##### Art. 43
 
-###### Art. 44 - Composizione del ruolo tecnico-logistico-amministrativo
+((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
+
+### CAPO III - RUOLO TECNICO-LOGISTICO-AMMINISTRATIVO
+
+##### Art. 44 - Composizione del ruolo tecnico-logistico-amministrativo
 
 1\. Il ruolo tecnico logistico amministrativo degli ufficiali in servizio permanente effettivo del Corpo della Guardia di finanza e' articolato nei seguenti comparti e specialita':
 
@@ -996,27 +986,25 @@ c) comparto sanitario specialita' sanita', specialita' veterinaria e specialita'
 
 2\. A seguito dell'istituzione del ruolo di cui al comma 1, le esigenze dei servizi amministrativi del Corpo della Guardia di finanza sono progressivamente soddisfatte, anche con riguardo alle funzioni dirigenziali, da ufficiali generali o colonnelli appartenenti, prioritariamente, al ruolo tecnico-logistico-amministrativo.
 
-###### Art. 45
+##### Art. 45
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-###### Art. 46
+##### Art. 46
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
 ## TITOLO V - NORME TRANSITORIE E FINALI
 
-### CAPO I
+### CAPO I - NORME TRANSITORIE VARIE
 
-#### NORME TRANSITORIE VARIE
-
-###### Art. 47 - Limiti di eta
+##### Art. 47 - Limiti di eta
 
 1\. I generali di brigata in servizio alla data di entrata in vigore del presente decreto possono chiedere, con domanda irrevocabile da presentare entro sessanta giorni da tale data, l'applicazione nei loro confronti dei limiti di eta' previsti dalla previgente normativa.
 
 2\. Ai concorsi previsti dall'articolo 7, commi 8 e 10, e dall'articolo 8, banditi entro sei anni dalla data di entrata in vigore del presente decreto, e' ammesso a partecipare anche il personale del Corpo che, in possesso degli altri requisiti, abbia superato il 42o anno di eta'.
 
-###### Art. 48 - Aliquote di valutazione
+##### Art. 48 - Aliquote di valutazione
 
 1\. Le disposizioni relative alla determinazione delle aliquote di valutazione a scelta, alle permanenze minime nei gradi in cui l'avanzamento avviene ad anzianita' e all'entita' delle promozioni annue, di cui alle tabelle 1, 2, 3 e 4 allegate al presente decreto, si applicano al termine del periodo transitorio fissato per ciascun grado.
 
@@ -1024,15 +1012,15 @@ c) comparto sanitario specialita' sanita', specialita' veterinaria e specialita'
 
 3\. Sino al 31 dicembre 2008, i periodi minimi di comando indicati nelle tabelle di cui al comma 1 sono ridotti alla meta'.
 
-###### Art. 49 - Collocamento in aspettativa per riduzione di quadri
+##### Art. 49 - Collocamento in aspettativa per riduzione di quadri
 
 1\. (( . . . )) il collocamento in aspettativa per riduzione di quadri e' disposto al 31 dicembre dell'anno di riferimento.
 
 2\. Gli ufficiali che ricoprono le cariche di Ministro o di Sottosegretario di Stato sono considerati in soprannumero agli organici.
 
-## CAPO II - NORME TRANSITORIE IN MATERIA DI AVANZAMENTO
+### CAPO II - NORME TRANSITORIE IN MATERIA DI AVANZAMENTO
 
-###### Art. 50 - Disciplina del periodo transitorio per il grado di generale di corpo d'armata
+##### Art. 50 - Disciplina del periodo transitorio per il grado di generale di corpo d'armata
 
 1\. Il grado di generale di corpo d'armata del Corpo della Guardia di finanza e' istituito con effetto dal 1^ ottobre 2000. Le promozioni a tale grado sono attribuite a decorrere dal 1^ gennaio 2001.
 
@@ -1048,7 +1036,7 @@ Per tali ufficiali, ai fini dell'inclusione nell'aliquota di valutazione per l'a
 
 6\. Il generale di divisione non valutato a suo tempo per mancanza delle condizioni previste dal comma 5, per il quale il raggiungimento delle condizioni predette sia stato ritardato per motivi di servizio riconosciuti dal ((Ministro dell'economia e delle finanze)) o per motivi di salute dipendenti da causa di servizio, e' valutato in occasione della formazione della prima graduatoria per l'avanzamento al grado vertice successiva al raggiungimento delle predette condizioni. Se giudicato idoneo e se riporti un punto di merito per cui sarebbe promosso nella stessa graduatoria, e' promosso anche se non esiste vacanza nel grado superiore, con l'anzianita' che gli sarebbe spettata se la promozione avesse avuto luogo a suo tempo. In tal caso si applicano le disposizioni di cui all'articolo 34, commi 2 e 3, del presente decreto.
 
-###### Art. 51
+##### Art. 51
 
 Determinazione delle aliquote di valutazione nel periodo transitorio
 
@@ -1170,7 +1158,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 29 maggio 2017, n. 95 ha disposto (con l'art. 36, comma 36) che "Con l'entrata in vigore del presente decreto, cessano di avere efficacia le disposizioni transitorie di cui agli articoli 51 e 52 del decreto legislativo 19 marzo 2001, n. 69".
 
-###### Art. 52
+##### Art. 52
 
 Determinazione delle promozioni nel periodo transitorio
 
@@ -1240,7 +1228,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 29 maggio 2017, n. 95 ha disposto (con l'art. 36, comma 36) che "Con l'entrata in vigore del presente decreto, cessano di avere efficacia le disposizioni transitorie di cui agli articoli 51 e 52 del decreto legislativo 19 marzo 2001, n. 69".
 
-###### Art. 53
+##### Art. 53
 
 Disposizioni comuni per il periodo transitorio
 
@@ -1258,7 +1246,7 @@ b) il concorso di cui all'articolo 8, comma 1, lettera a), e' indetto per 4 post
 
 c) il concorso di cui all'articolo 8, comma 1, lettera b), e' indetto per 4 posti.
 
-###### Art. 54 - Commissioni di avanzamento
+##### Art. 54 - Commissioni di avanzamento
 
 1\. Sino al 31 dicembre 2003, la Commissione superiore di avanzamento di cui all'articolo 16, e' composta anche dai generali di divisione di cui all'articolo 50, comma 2.
 
@@ -1268,15 +1256,15 @@ sono individuati nei sette piu' anziani in ruolo con priorita' per quelli che ri
 
 3\. Restano ferme, anche nel periodo transitorio, le altre disposizioni di cui all'articolo 17.
 
-## CAPO III - NORME FINALI
+### CAPO III - NORME FINALI
 
-###### Art. 55
+##### Art. 55
 
 (( (Attribuzioni degli ufficiali del ruolo tecnico-logistico-amministrativo della Guardia di finanza).))
 
 ((1. Gli ufficiali del ruolo tecnico-logistico-amministrativo hanno, nell'esercizio delle funzioni proprie della specialita' d'appartenenza, le medesime attribuzioni, facolta' e competenze riconosciute dalle leggi e dagli ordinamenti vigenti agli ufficiali dei ruoli normali delle Forze armate costituiti per l'assolvimento di analoghe mansioni.))
 
-###### Art. 56
+##### Art. 56
 
 (( (Precedenza al comando e attribuzioni). ))
 
@@ -1286,7 +1274,7 @@ sono individuati nei sette piu' anziani in ruolo con priorita' per quelli che ri
 
 3\. Ferme restando le attribuzioni previste dalle norme di ordinamento e le competenze stabilite dalle altre leggi e regolamenti, i capitani del Corpo della guardia di finanza, in relazione alla specifica qualificazione professionale propria degli ufficiali, cui si correlano autonoma responsabilita' decisionale e rilevante professionalita', assumono piena responsabilita' per le direttive impartite e per i risultati conseguiti, svolgono compiti di studio e partecipano all'attivita' degli ufficiali con grado dirigenziale, che sostituiscono in caso di assenza o impedimento.))
 
-###### Art.57
+##### Art.57
 
 ( Disciplina del ((corso superiore di polizia
 
@@ -1318,7 +1306,7 @@ Le materie ed i relativi programmi sono approvati con determinazione del Comanda
 
 3\. A decorrere dalla data di entrata un vigore del presente decreto e' abrogata la tabella 2 allegata alla legge 24 ottobre 1966, n. 887, come modificata dalla legge 3 maggio 1971, n. 320.
 
-###### Art. 58 - Disposizioni concernenti gradi e qualifiche delle Forze di Polizia e delle Forze Armate
+##### Art. 58 - Disposizioni concernenti gradi e qualifiche delle Forze di Polizia e delle Forze Armate
 
 1\. Dalla data di entrata in vigore del provvedimento legislativo di cui all'articolo 71 del decreto legislativo emanato ai sensi dell'articolo 5, della legge 31 marzo 2000, n. 78, con decorrenza dal 15 marzo 2001, l'equiparazione tra i gradi e le qualifiche dei ruoli normali degli ufficiali dell'Arma dei Carabinieri e del Corpo della Guardia di finanza con i funzionari delle altre Forze di Polizia di cui all'articolo 16, commi 1 e 2, della legge 1o aprile 1981, n. 121, per l'effetto del presente decreto e degli articoli 3, 4, 5 e 7, commi 1 e 2, della legge 31 marzo 2000, n. 78, e' stabilita come di seguito:
 
@@ -1416,7 +1404,7 @@ g) tenente : commissario.
 
 > 5\. Ai graduati e militari di truppa in ferma breve sono attribuite le paghe nette giornaliere nella misura percentuale di cui alla tabella allegata alla presente legge rispetto al valore della retribuzione mensile del grado iniziale del ruolo dei volontari di truppa in servizio permanente, costituita dallo stipendio mensile iniziale lordo e dall'indennita' integrativa speciale vigente per i dipendenti dello Stato al 1o gennaio di ogni anno".
 
-###### Art. 59
+##### Art. 59
 
 (( (Adeguamento dei ruoli, delle specialita' del ruolo tecnico-logistico-amministrativo e delle rispettive dotazioni organiche).))
 
@@ -1426,17 +1414,17 @@ a) i periodi di comando e le dotazioni organiche dei singoli ruoli previsti dal 
 
 b) l'articolazione del ruolo tecnico-logistico-amministrativo, mediante soppressione, accorpamento o istituzione di nuove specialita' al fine di adeguarla alle effettive esigenze di sostegno tecnico-logistico.))
 
-###### Art. 60
+##### Art. 60
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-###### Art. 61 - Disposizioni comuni in materia di transiti tra ruoli
+##### Art. 61 - Disposizioni comuni in materia di transiti tra ruoli
 
 1\. Gli ufficiali che abbiano ottenuto il trasferimento a domanda in altro ruolo non possono transitare nuovamente nel ruolo di provenienza, ne' in altro ruolo.
 
 2\. Non e' ammesso il transito in altro ruolo degli ufficiali che hanno conseguito il titolo di ((Scuola di polizia economico-finanziaria)), di cui alla legge 3 maggio 1971, n. 320, e successive modificazioni e integrazioni.
 
-###### Art. 62 - Norme applicabili
+##### Art. 62 - Norme applicabili
 
 1\. Agli ufficiali dei ruoli normale e tecnico logistico amministrativo della Guardia di finanza per quanto non previsto dal presente decreto si applicano le leggi in vigore in materia di reclutamento, stato giuridico e avanzamento degli ufficiali dell'Esercito.
 
@@ -1444,11 +1432,11 @@ b) l'articolazione del ruolo tecnico-logistico-amministrativo, mediante soppress
 
 2\. Le assunzioni di personale derivanti dall'attuazione del presente decreto sono attuate nel rispetto delle procedure di programmazione previste dall'articolo 39 della legge 27 dicembre 1997, n. 449, e successive modificazioni ed integrazioni.
 
-###### Art. 63 - Avanzamento per meriti eccezionali
+##### Art. 63 - Avanzamento per meriti eccezionali
 
 1\. I ((luogotenenti del Corpo della guardia di finanza)) possono conseguire avanzamento straordinario per meriti eccezionali ((, disciplinato dall'articolo 61)) del decreto legislativo 12 maggio 1995, n. 199, al grado di sottotenente del ruolo ((normale - comparto speciale)).
 
-###### Art. 64 - Competenze ed attribuzioni degli ufficiali medici della Guardia di finanza
+##### Art. 64 - Competenze ed attribuzioni degli ufficiali medici della Guardia di finanza
 
 1\. In relazione alle esigenze di carattere sanitario, gli ufficiali medici in servizio nel Corpo della Guardia di finanza, oltre alle competenze generali derivanti dal loro status di ufficiali medici delle Forze Armate, hanno le seguenti attribuzioni:
 
@@ -1470,7 +1458,7 @@ b) fruire, a livello locale come centralmente, a condizione di reciprocita', del
 
 2-bis. Il servizio sanitario del Corpo della guardia di finanza provvede, ai sensi del regio decreto-legge 19 gennaio 1928, n. 26, convertito dalla legge 6 settembre 1928, n. 2103, all'assistenza sanitaria e alla tutela della salute del personale in servizio con le risorse umane, finanziare e strumentali disponibili a legislazione vigente nonche', anche a favore del personale in congedo e dei rispettivi familiari, con le risorse del Fondo di assistenza per i finanzieri, integralmente riassegnabili secondo le norme previste dal relativo statuto. Si applicano, in quanto compatibili, gli articoli da 181 a 195 del decreto legislativo 15 marzo 2010, n. 66. Con decreto del Ministro dell'economia e delle finanze sono emanate le conseguenti disposizioni tecniche attuative dell'ordinamento del servizio sanitario del medesimo Corpo e dei rapporti con il predetto Fondo.
 
-###### Art. 65 - Ricompense al valore e al merito della Guardia di finanza
+##### Art. 65 - Ricompense al valore e al merito della Guardia di finanza
 
 1\. Per premiare gli atti di singolare coraggio compiuti in attivita' d'istituto svolte dalla Guardia di finanza, diretti a salvare vite umane, ad impedire sinistri o ad attenuarne le conseguenze, nonche' imprese e studi volti allo sviluppo e al progresso del Corpo ovvero singole azioni caratterizzate da somma perizia, da cui siano derivati lustro e decoro alla Guardia di finanza, sono istituite le seguenti ricompense.
 
@@ -1494,7 +1482,7 @@ b) imprese, studi e azioni caratterizzate da somma perizia
 
 3\. I requisiti, le modalita' di attribuzione, le caratteristiche delle decorazioni, le autorita' competenti a formulare le proposte di conferimento e la composizione della commissione presieduta dal Comandante Generale della Guardia di finanza per l'espressione del parere sulla concessione, sono determinati con regolamento del ((Ministro dell'economia e delle finanze)), emanato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400.
 
-###### Art. 66 - Norme che non si applicano alla Guardia di finanza
+##### Art. 66 - Norme che non si applicano alla Guardia di finanza
 
 1\. Non si applicano al Corpo della Guardia di finanza:
 
@@ -1612,7 +1600,7 @@ b) gli articoli 58 commi 1, 3 e 4, 59 comma 1, e 60 della legge 10 maggio 1983, 
 
 > "Art. 60. Il consiglio di disciplina per gli ufficiali dei ruoli di cui all'articolo 53 e' composto con le stesse modalita' previste per gli ufficiali delle Armi dell'Esercito, del Corpo di stato maggiore della Marina, del ruolo naviganti normale dell'Aeronautica e degli ufficiali del Corpo della Guardia di finanza".
 
-###### Art. 67 - Modificazione e abrogazione di norme
+##### Art. 67 - Modificazione e abrogazione di norme
 
 1\. Al decreto del Presidente della Repubblica 29 gennaio 1999, n. 34, concernente norme relative alla struttura ordinativa del Corpo della Guardia di finanza, sono approvate le seguenti modificazioni:
 
@@ -1668,7 +1656,7 @@ m) l'articolo 8, della legge 28 marzo 1997, n. 85.
 
 4\. Dalla data di entrata in vigore del presente decreto e' abrogato l'articolo 6, del Regio Decreto 3 giugno 1926, n. 1163.
 
-###### Art. 68 - Riduzione e rimodulazione degli organici
+##### Art. 68 - Riduzione e rimodulazione degli organici
 
 1\. Le consistenze organiche del personale appartenente ai ruoli ispettori, sovrintendenti, appuntati e finanzieri di cui agli articoli 3, 17 e 33 del decreto legislativo 12 maggio 1995, n. 199, sono cosi' rideterminate:
 
@@ -1680,7 +1668,7 @@ c) ruolo appuntati e finanzieri n. 26.807 unita'.
 
 2\. La riduzione della consistenza organica del ruolo sovrintendenti di cui al comma 1, lett. b), operata ai fini della compensazione degli oneri di cui al presente decreto per una quota pari a 200 unita', sara' praticata gradualmente, salvaguardando in ogni caso l'attivita' di contrasto all'evasione fiscale ed alla criminalita' economica e finanziaria svolta dalla Guardia di finanza sul territorio, mediante appositi decreti del ((Ministro dell'economia e delle finanze)), di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, in proporzione all'effettivo incremento della consistenza dei ruoli degli ufficiali e sino al raggiungimento dei nuovi volumi organici per essi previsti, in modo tale da assicurare che l'onere netto annuo determinato dall'attuazione del presente decreto non ecceda le risorse finanziarie di cui all'articolo 69.
 
-###### Art. 69 - Clausola finanziaria
+##### Art. 69 - Clausola finanziaria
 
 1\. All'onere derivante dall'applicazione del presente decreto si
 
@@ -1694,7 +1682,7 @@ provvede con le risorse finanziarie previste dall'articolo 8, della legge 31 mar
 
 > 2\. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio".
 
-###### Art. 70 - Entrata in vigore
+##### Art. 70 - Entrata in vigore
 
 1\. Il presente decreto entra in vigore a decorrere dal giorno successivo alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica Italiana.
 
@@ -1722,7 +1710,7 @@ BASSANINI, Ministro per la funzione pubblica
 
 Visto, il Guardasigilli: FASSINO
 
-## CAPO III - NORME FINALI
+### CAPO III - NORME FINALI
 
 Tabella n. 1
 
@@ -1746,7 +1734,7 @@ Parte di provvedimento in formato grafico
 
 Tabella n. 5
 
-###### Art. 36 comma 1
+##### Art. 36 comma 1
 
 Parte di provvedimento in formato grafico
 

@@ -27,19 +27,19 @@ Promulga
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo di mutua assistenza amministrativa tra il Governo della Repubblica italiana ed il Governo del Regno di Norvegia, per la prevenzione, l'accertamento e la repressione delle infrazioni doganali, con Allegato, fatto a Oslo il 16 giugno 2004.
 
-### Art. 2
+## Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data dall'Accordo di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 24 dell'Accordo stesso.
 
-### Art. 3
+## Art. 3
 
 Copertura finanziaria
 
@@ -47,7 +47,7 @@ Copertura finanziaria
 
 2\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-### Art. 4
+## Art. 4
 
 Entrata in vigore
 
@@ -85,7 +85,7 @@ Tenuto conto della Raccomandazione del Consiglio di Cooperazione Doganale sulla 
 
 Hanno convenuto quanto segue:
 
-### Articolo 1
+## Articolo 1
 
 Ai fini del presente Accordo si intende per:
 
@@ -119,7 +119,7 @@ j) "intelligence", l'elaborazione e l'interconnessione dei dati raccolti al fine
 
 ## CAMPO D'APPLICAZIONE DELL'ACCORDO
 
-### Articolo 2
+## Articolo 2
 
 1\. Le Parti Contraenti, per il tramite delle loro Amministrazioni doganali, si prestano mutua assistenza amministrativa alle condizioni stabilite dal presente Accordo, al fine di:
 
@@ -133,7 +133,7 @@ b) prevenire, ricercare e reprimere le infrazioni della legislazione doganale.
 
 ## CAMPO D'APPLICAZIONE DELL'ASSISTENZA
 
-### Articolo 3
+## Articolo 3
 
 1\. L'assistenza prevista dal presente Accordo e' scambiata direttamente tra le Amministrazioni doganali.
 
@@ -143,7 +143,7 @@ b) prevenire, ricercare e reprimere le infrazioni della legislazione doganale.
 
 ## CASI DI ASSISTENZA
 
-### Articolo 4
+## Articolo 4
 
 1\. Su richiesta; l'Amministrazione doganale adita fornisce tutte le informazioni sulla legislazione e le procedure doganali nazionali applicabili in quella Parte Contraente e rilevanti per le indagini relative ad un'infrazione doganale.
 
@@ -153,7 +153,7 @@ a) nuove tecniche per l'applicazione della legislazione doganale delle quali sia
 
 b) nuove tendenze, strumenti o metodi impiegati per commettere infrazioni doganali.
 
-### Articolo 5
+## Articolo 5
 
 Le Amministrazioni doganali, su richiesta o di propria iniziativa, si forniscono ogni informazione su:
 
@@ -161,7 +161,7 @@ a) la regolarita' dell'esportazione dal territorio doganale della Parte Contraen
 
 b) la regolarita' dell'importazione nel territorio doganale della Parte Contraente adita delle merci esportate dal territorio doganale della Parte Contraente richiedente, ed il regime doganale nel quale le merci sono state collocate.
 
-### Articolo 6
+## Articolo 6
 
 Le Amministrazioni doganali delle Parti Contraenti si comunicano, su richiesta e, all'occorrenza, previa indagine, nell'ambito delle disposizioni legislative e regolamentari pertinenti, ogni informazione atta ad assicurare l'esatta percezione di diritti e tasse doganali, in particolare quelle che agevolano:
 
@@ -169,7 +169,7 @@ a) la determinazione del valore in dogana, della classificazione tariffaria e de
 
 b) l'applicazione delle disposizioni concernenti i divieti, le restrizioni ed i controlli.
 
-### Articolo 7
+## Articolo 7
 
 Su richiesta, l'Amministrazione doganale adita fornisce informazioni ed intelligence ed esercita un controllo speciale su:
 
@@ -181,13 +181,13 @@ c) mezzi di trasporto sospettati dall'Amministrazione doganale richiedente di es
 
 d) locali sospettati dall'Amministrazione doganale richiedente di essere impiegati per commettere infrazioni doganali sul territorio doganale dell'una o dell'altra Parte Contraente.
 
-### Articolo 8
+## Articolo 8
 
 1\. Le Amministrazioni doganali si forniscono reciprocamente, su richiesta o di propria iniziativa, informazioni ed intelligence circa le transazioni effettuate o progettate che costituiscono o sembrano costituire un'infrazione doganale.
 
 2\. Nei casi che potrebbero comportare un danno sostanziale all'economia, alla salute pubblica, alla sicurezza pubblica o ad ogni altro interesse vitale di una Parte Contraente, l'Amministrazione doganale dell'altra Parte Contraente fornisce, ove possibile, informazioni ed intelligence di propria iniziativa.
 
-### Articolo 9
+## Articolo 9
 
 Le Amministrazioni doganali:
 
@@ -195,7 +195,7 @@ a) si prestano mutua assistenza per applicare misure temporanee o avviare proced
 
 b) dispongono dei beni, proventi o mezzi strumentali confiscati in seguito all'assistenza fornita nel quadro del presente Accordo, in conformita' alle disposizioni legislative ed amministrative nazionali della Parte Contraente che esercita il controllo di questi beni, proventi o mezzi strumentali.
 
-### Articolo 10
+## Articolo 10
 
 Le Amministrazioni doganali possono fornirsi reciprocamente assistenza tecnica in materie doganali attraverso:
 
@@ -207,7 +207,7 @@ c) lo scambio di esperti in materie doganali.
 
 ## RECUPERO CREDITI
 
-### Articolo 11
+## Articolo 11
 
 1\. L'Amministrazione doganale adita, su richiesta, provvede al recupero crediti in relazione a diritti, tasse, spese e interessi relativi all'importazione e all'esportazione.
 
@@ -237,7 +237,7 @@ c) lo scambio di esperti in materie doganali.
 
 ## DOCUMENTI ED INTELLIGENCE
 
-### Articolo 12
+## Articolo 12
 
 1\. I documenti in originale vengono richiesti soltanto quando le copie conformi autenticate sono ritenute insufficienti e sono restituiti non appena possibile; i relativi diritti dell'Amministrazione doganale adita o dei terzi restano impregiudicati.
 
@@ -247,7 +247,7 @@ c) lo scambio di esperti in materie doganali.
 
 ## UTILIZZAZIONE DEI DOCUMENTI E DELLE INFORMAZIONI
 
-### Articolo 13
+## Articolo 13
 
 1\. Le informazioni, le comunicazioni ed i documenti ricevuti nel quadro dell'assistenza amministrativa possono essere usati in procedimenti civili, penali ed amministrativi, alle condizioni stabilite dalle rispettive legislazioni interne vigenti in materia, unicamente per gli scopi previsti dal presente Accordo.
 
@@ -259,7 +259,7 @@ c) lo scambio di esperti in materie doganali.
 
 ## COMUNICAZIONI DELLE RICHIESTE
 
-### Articolo 14
+## Articolo 14
 
 1\. Le richieste d'assistenza, ai sensi del presente Accordo, sono presentate per iscritto e devono essere accompagnate da ogni documento ritenuto utile. Quando le circostanze lo esigano, le richieste possono anche essere formulate oralmente. In tal caso esse devono essere confermate per iscritto senza indugio.
 
@@ -283,7 +283,7 @@ d) il nome e l'indirizzo delle parti coinvolte nel procedimento, se conosciuti.
 
 ## ESECUZIONE DELLE RICHIESTE
 
-### Articolo 15
+## Articolo 15
 
 1\. Se l'Amministrazione doganale adita non dispone dei documenti o delle informazioni richiesti, essa deve conformemente alle proprie disposizioni legislative ed amministrative nazionali:
 
@@ -295,7 +295,7 @@ c) indicare quali sono le Autorita' competenti in materia.
 
 2\. Ogni indagine iniziata conformemente alle disposizioni del paragrafo 1 lett. a) del presente articolo puo' comportare l'acquisizione di deposizioni fatte dalle persone alle quali vengono richieste informazioni in relazione ad una infrazione doganale, nonche' quelle rilasciate da testimoni ed esperti.
 
-### Articolo 16
+## Articolo 16
 
 1\. Su richiesta scritta, al fine di indagare su una infrazione doganale, funzionari all'uopo designati dall'Amministrazione doganale richiedente possono, con l'autorizzazione dell'Amministrazione doganale adita ed alle condizioni eventualmente imposte da quest'ultima:
 
@@ -311,13 +311,13 @@ Essi beneficiano sul posto della stessa protezione ed assistenza accordate ai fu
 
 ## PROTEZIONE DATI PERSONALI
 
-### Articolo 17
+## Articolo 17
 
 Qualora le Parti contraenti si scambino dati personali ai sensi del presente Accordo, esse garantiscono uno standard di protezione almeno equivalente al livello di protezione derivante dall'applicazione dei principi elencati nell'allegato al presente Accordo, di cui esso e' parte integrante.
 
 ## ESPERTI E TESTIMONI
 
-### Articolo 18
+## Articolo 18
 
 1\. Su richiesta di una Parte Contraente, l'Amministrazione doganale dell'altra Parte Contraente autorizza, quando possibile, i propri funzionari a deporre, in qualita' di testimoni od esperti, nei procedimenti giudiziari o amministrativi relativi ad infrazioni doganali perseguite nel territorio della Parte Contraente richiedente ed a produrre oggetti, atti ed altri documenti, o copie autenticate degli stessi, necessari per i procedimenti. La richiesta di comparizione precisa, in particolare, in quale causa ed in quale veste il funzionario dovra' deporre.
 
@@ -325,7 +325,7 @@ Qualora le Parti contraenti si scambino dati personali ai sensi del presente Acc
 
 ## ECCEZIONI
 
-### Articolo 19
+## Articolo 19
 
 1\. Qualora l'assistenza prevista dal presente Accordo possa pregiudicare la sovranita', la sicurezza, l'ordine pubblico od altri interessi nazionali fondamentali di una Parte Contraente, o comporti la violazione di' un segreto industriale, commerciale o professionale, oppure si riveli incompatibile con le disposizioni legislative ed amministrative nazionali, l'assistenza puo' essere rifiutata, fornita parzialmente o fornita in base a determinati requisiti o condizioni.
 
@@ -337,7 +337,7 @@ Qualora le Parti contraenti si scambino dati personali ai sensi del presente Acc
 
 ## COSTI
 
-### Articolo 20
+## Articolo 20
 
 1\. Le Amministrazioni doganali rinunciano ad ogni rivendicazione per il rimborso delle spese originate dall'applicazione del presente Accordo, fatta eccezione delle spese e delle indennita' versate agli esperti ed ai testimoni, nonche' dei costi degli interpreti e dei traduttori, quando questi non siano funzionari dello Stato, che devono essere a carico dell'Amministrazione doganale richiedente.
 
@@ -345,7 +345,7 @@ Qualora le Parti contraenti si scambino dati personali ai sensi del presente Acc
 
 ## ATTUAZIONE DELL'ACCORDO
 
-### Articolo 21
+## Articolo 21
 
 1\. Le Amministrazioni doganali delle Parti Contraenti stabiliscono direttamente le disposizioni che regolano l'applicazione del presente Accordo.
 
@@ -353,23 +353,23 @@ Qualora le Parti contraenti si scambino dati personali ai sensi del presente Acc
 
 3\. Le dispute per le quali non vengano trovate soluzioni sono regolate per via diplomatica.
 
-### Articolo 22
+## Articolo 22
 
 L'Agenzia delle Dogane italiana e la Direzione delle Dogane e delle Accise norvegese, comunicano direttamente al fine di trattare le questioni sorte dall'applicazione del presente Accordo che non siano questioni di politica estera o di diritto internazionale. Le Amministrazioni doganali stabiliscono di concerto le disposizioni dettagliate per applicazione del presente Accordo.
 
 ## AMBITO TERRITORIALE
 
-### Articolo 23
+## Articolo 23
 
 Il presente Accordo e' applicabile ai territori doganali delle due Parti Contraenti cosi' come essi sono definiti dalle rispettive disposizioni legislative ed amministrative.
 
 ## ENTRATA IN VIGORE E DENUNCIA
 
-### Articolo 24
+## Articolo 24
 
 1\. Il presente Accordo entra in vigore il primo giorno del secondo mese dalla data di ricezione della seconda delle due notifiche con le quali le Parti Contraenti si sono notificate ufficialmente l'avvenuto espletamento delle rispettive procedure interne per l'entrata in vigore.
 
-### Articolo 25
+## Articolo 25
 
 Il presente Accordo e' concluso per una durata illimitata, ma ciascuna delle Parti Contraenti puo' denunciarlo in qualsiasi momento con notifica per via diplomatica.
 
@@ -377,7 +377,7 @@ La denuncia avra' effetto tre mesi dopo la sua notifica all'altra Parte Contraen
 
 I procedimenti in corso saranno in ogni caso completati secondo le disposizioni del presente Accordo.
 
-### Articolo 26
+## Articolo 26
 
 Su richiesta di una delle Amministrazioni doganali o alla scadenza di un termine di cinque anni dalla data d'entrata in vigore del presente Accordo, le Parti Contraenti si riuniscono al fine di esaminarlo, salvo se esse si notifichino l'un l'altra per iscritto che questo esame non e' necessario.
 
@@ -393,7 +393,7 @@ Repubblica italiana Regno di Norvegia
 
 Parte di provvedimento in formato grafico
 
-### Allegato
+## Allegato
 
 ALLEGATO
 
@@ -441,6 +441,6 @@ privacy delle persone alle quali si riferiscono i dati stessi.
 
 7\. Nessuna delle disposizioni del presente allegato deve essere interpretata nel senso di limitare o altrimenti intaccare la possibilita' per una Parte Contraente di accordare alle persone alle quali si riferiscono i dati in questione una protezione piu' ampia di quella prevista nel presente allegato.
 
-### Agreement
+## Agreement
 
 Parte di provvedimento in formato grafico

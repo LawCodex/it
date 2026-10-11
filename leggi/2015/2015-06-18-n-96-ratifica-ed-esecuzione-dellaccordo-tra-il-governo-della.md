@@ -30,19 +30,19 @@ Promulga
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo tra il Governo della Repubblica italiana e il Governo della Regione amministrativa speciale di Hong Kong della Repubblica popolare cinese per evitare le doppie imposizioni in materia di imposte sul reddito e per prevenire le evasioni fiscali, con Protocollo, fatto a Hong Kong il 14 gennaio 2013.
 
-#### Art. 2
+### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 28 dell'Accordo stesso.
 
-#### Art. 3
+### Art. 3
 
 Copertura finanziaria
 
@@ -50,7 +50,7 @@ Copertura finanziaria
 
 2\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 4
+### Art. 4
 
 Entrata in vigore
 
@@ -80,13 +80,13 @@ Nell'intento di concludere un Accordo per evitare le doppie imposizioni in mater
 
 Hanno convenuto quanto segue:
 
-#### Art. 1
+### Art. 1
 
 Soggetti
 
 Il presente Accordo si applica alle persone che sono residenti di una o di entrambe le Parti Contraenti.
 
-#### Art. 2
+### Art. 2
 
 Imposte considerate
 
@@ -120,11 +120,9 @@ ancorche' riscosse mediante accertamento.
 
 5\. Le imposte esistenti, nonche' le imposte istituite dopo la firma del presente Accordo, sono di seguito definite quali «imposta italiana» oppure «imposta della Regione Amministrativa Speciale di Hong Kong», a seconda del contesto.
 
-## Capitolo II
+## Capitolo II - DEFINIZIONI
 
-### DEFINIZIONI
-
-#### Art. 3
+### Art. 3
 
 Definizioni generali
 
@@ -162,7 +160,7 @@ Definizioni generali
 
 3\. Per l'applicazione delle disposizioni del presente Accordo in qualunque momento da parte di una Parte Contraente, le espressioni ivi non definite hanno, a meno che il contesto non richieda una diversa interpretazione, il significato che a esse e' attribuito in quel momento dalla legislazione di detta Parte relativamente alle imposte cui si applica l'Accordo, prevalendo ogni significato attribuito dalle leggi fiscali applicabili di detta Parte sul significato dato al termine nell'ambito di altre leggi di detta Parte.
 
-#### Art. 4
+### Art. 4
 
 Residenti
 
@@ -192,7 +190,7 @@ Residenti
 
 3\. Quando, in base alla disposizioni del paragrafo 1, una persona diversa da una persona fisica e' residente di entrambe le Parti Contraenti, le autorita' competenti delle Parti Contraenti faranno del loro meglio per risolvere la questione di comune accordo tenuto conto della sede della sua direzione effettiva. In mancanza di tale accordo, detta persona non ha diritto a rivendicare alcuno sgravio o esenzione d'imposta previsti dall'Accordo.
 
-#### Art. 5
+### Art. 5
 
 Stabile organizzazione
 
@@ -236,7 +234,7 @@ Stabile organizzazione
 
 ## Capitolo III - Imposizione dei redditi
 
-#### Art. 6
+### Art. 6
 
 Redditi immobiliari
 
@@ -250,7 +248,7 @@ L'usufrutto dei beni immobili e i diritti relativi a canoni variabili o fissi pe
 
 4\. Le disposizioni dei paragrafi 1 e 3 si applicano anche ai redditi derivanti da beni immobili di un'impresa, nonche' ai redditi dei beni immobili utilizzati per l'esercizio di una professione indipendente.
 
-#### Art. 7
+### Art. 7
 
 Utile delle imprese
 
@@ -262,7 +260,7 @@ Utile delle imprese
 
 4\. Quando gli utili comprendono elementi di reddito considerati separatamente in altri articoli del presente Accordo, le disposizioni di tali articoli non sono modificate da quelle del presente articolo.
 
-#### Art. 8
+### Art. 8
 
 Navigazione marittima e aerea
 
@@ -270,7 +268,7 @@ Navigazione marittima e aerea
 
 2\. Le disposizioni del paragrafo 1 si applicano parimenti agli utili derivanti dalla partecipazione a un fondo comune (pool), a un esercizio in comune o ad un organismo internazionale di esercizio.
 
-#### Art. 9
+### Art. 9
 
 Imprese associate
 
@@ -284,7 +282,7 @@ e, nell'uno e nell'altro caso, le due imprese, nelle loro relazioni commerciali 
 
 2\. Allorche' una Parte Contraente include tra gli utili di un'impresa di detta Parte - e di conseguenza assoggetta a tassazione - gli utili sui quali un'impresa dell'altra Parte Contraente e' stata sottoposta a tassazione in detta altra Parte, e gli utili cosi' inclusi sono utili che sarebbero stati realizzati dall'impresa della prima Parte se le condizioni convenute tra le due imprese fossero state quelle che si sarebbero convenute tra imprese indipendenti, l'altra Parte procede ad un'apposita rettifica dell'ammontare dell'imposta ivi applicata su tali utili. Tali rettifiche dovranno effettuarsi unicamente in conformita' con la procedura amichevole di cui all'articolo 24 del presente Accordo.
 
-#### Art. 10
+### Art. 10
 
 Dividendi
 
@@ -302,7 +300,7 @@ Le autorita' competenti delle Parti contraenti stabiliranno di comune accordo le
 
 6\. Le disposizioni del presente articolo non si applicano qualora lo scopo principale o uno degli scopi principali della persona interessata alla creazione o alla cessione delle azioni o di altre quote rispetto alle quali sono pagati i dividendi, sia stato quello di ottenere i benefici previsti dal presente articolo mediante tale creazione o cessione.
 
-#### Art. 11
+### Art. 11
 
 Interessi
 
@@ -330,7 +328,7 @@ Tuttavia, quando il debitore degli interessi, sia esso residente o no di una Par
 
 8\. Le disposizioni del presente articolo non si applicano qualora lo scopo principale o uno degli scopi principali della persona interessata alla creazione o alla cessione del credito rispetto al quale sono pagati gli interessi, sia stato quello di ottenere i benefici previsti dal presente articolo per mezzo di detta creazione o cessione.
 
-#### Art. 12
+### Art. 12
 
 Canoni
 
@@ -350,7 +348,7 @@ In tal caso, sono applicabili, a seconda dei casi, le disposizioni degli articol
 
 7\. Le disposizioni del presente articolo non si applicano qualora lo scopo principale o uno degli scopi principali della persona interessata alla creazione o alla cessione dei diritti rispetto ai quali sono pagati i canoni, sia stato quello di ottenere i benefici previsti dal presente articolo per mezzo di detta creazione o cessione.
 
-#### Art. 13
+### Art. 13
 
 Utili di capitale
 
@@ -366,7 +364,7 @@ Tuttavia, il presente paragrafo non si applica agli utili derivanti dall'alienaz
 
 5\. Gli utili derivanti dall'alienazione di ogni altro bene diverso da quelli menzionati ai paragrafi 1, 2, 3 e 4 sono imponibili soltanto nella Parte Contraente di cui l'alienante e' residente.
 
-#### Art. 14
+### Art. 14
 
 Professioni indipendenti
 
@@ -378,7 +376,7 @@ Professioni indipendenti
 
 2\. L'espressione «libera professione» comprende, in particolare, le attivita' indipendenti di carattere scientifico, letterario, artistico, educativo e pedagogico, nonche' le attivita' indipendenti di medici, avvocati, ingegneri, architetti, dentisti e contabili.
 
-#### Art. 15
+### Art. 15
 
 Lavoro subordinato
 
@@ -398,13 +396,13 @@ Se l'attivita' e' quivi svolta , le remunerazioni percepite a tale titolo sono i
 
 4\. Se un residente di una Parte Contraente diviene residente dell'altra Parte Contraente, i pagamenti ricevuti da detto residente in relazione all'attivita' dipendente svolta nella prima Parte come indennita' di fine rapporto o altri pagamenti forfettari di natura analoga sono imponibili in detta Parte Contraente.
 
-#### Art. 16
+### Art. 16
 
 Compensi degli amministratori
 
 I compensi degli amministratori e le altre retribuzioni analoghe che un residente di una Parte Contraente riceve in qualita' di membro del Consiglio di amministrazione di una societa' residente dell'altra Parte Contraente, sono imponibili in detta altra Parte.
 
-#### Art. 17
+### Art. 17
 
 Artisti e Sportivi
 
@@ -412,7 +410,7 @@ Artisti e Sportivi
 
 2\. Quando il reddito derivante da prestazioni personali svolte da un artista di spettacolo o da uno sportivo, in tale qualita', e' attribuito a una persona diversa dall'artista o dallo sportivo medesimo, detto reddito puo' essere tassato nella Parte Contraente in cui dette prestazioni sono svolte, nonostante le disposizioni degli Articoli 7, 14 e 15.
 
-#### Art. 18
+### Art. 18
 
 Pensioni
 
@@ -420,7 +418,7 @@ Pensioni
 
 2\. Le pensioni e le altre remunerazioni analoghe provenienti da una Parte Contraente comprendono i pagamenti di fondi pensione o piani pensionistici cui possono partecipare persone fisiche per ottenere prestazioni pensionistiche, laddove tale fondo pensione o piano pensionistico sia riconosciuto ai fini fiscali o regolamentato in conformita' con la legislazione di detta Parte Contraente.
 
-#### Art. 19
+### Art. 19
 
 Funzioni pubbliche
 
@@ -444,7 +442,7 @@ e
 
 3\. Le disposizioni degli Articoli 15, 16, 17 e 18 si applicano ai salari, agli stipendi, alle pensioni ed altre remunerazioni analoghe pagate in corrispettivo di servizi resi nell'ambito di un'attivita' industriale o commerciale esercitata da una Parte Contraente o da una sua suddivisione politica o amministrativa o da un suo ente locale.
 
-#### Art. 20
+### Art. 20
 
 Studenti
 
@@ -452,7 +450,7 @@ Studenti
 
 2\. I benefici previsti dal presente Articolo sono applicabili soltanto per un periodo non superiore a sei anni consecutivi a partire dalla data del suo arrivo nella prima Parte contraente.
 
-#### Art. 21
+### Art. 21
 
 Altri redditi
 
@@ -466,7 +464,7 @@ Altri redditi
 
 ## Capitolo IV - Metodi per eliminare la doppia imposizione
 
-#### Art. 22
+### Art. 22
 
 Eliminazione della doppia imposizione
 
@@ -488,7 +486,7 @@ Tuttavia, nessuna detrazione sara' accordata ove l'elemento di reddito sia assog
 
 ## Capitolo V - Disposizioni particolari
 
-#### Art. 23
+### Art. 23
 
 Non discriminazione
 
@@ -502,7 +500,7 @@ La presente disposizione si applica altresi', nonostante le disposizioni dell'Ar
 
 4\. Le imprese di una Parte Contraente, il cui capitale e' in tutto in parte, direttamente o indirettamente, posseduto o controllato da uno o piu' residenti dell'altra Parte Contraente, non sono assoggettate nella prima Parte Contraente ad alcuna imposizione o obbligo ad essa relativo, diversi o piu' onerosi di quelli cui sono o potranno essere assoggettate le altre imprese della stessa natura della prima Parte.
 
-#### Art. 24
+### Art. 24
 
 Procedura amichevole
 
@@ -522,7 +520,7 @@ Procedura amichevole
 
 ogni questione irrisolta derivante dal caso stesso sara' sottoposta ad arbitrato su richiesta della persona interessata e a condizione che entrambe le autorita' competenti e la persona convengano per iscritto di essere vincolate dalla decisione della commissione arbitrale. Tuttavia, tali questioni irrisolte non saranno sottoposte ad arbitrato se una decisione sulle stesse e' gia' stata pronunciata da un organo giudiziario o amministrativo di una delle due Parti. La decisione della commissione arbitrale su un caso specifico sara' vincolante per entrambe le Parti contraenti in relazione a quel caso e sara' applicata a prescindere dai termini previsti dalle legislazioni nazionali delle Parti. Le autorita' competenti delle Parti contraenti regoleranno di comune accordo le modalita' di applicazione del presente paragrafo.
 
-#### Art. 25
+### Art. 25
 
 Scambio di informazioni
 
@@ -542,7 +540,7 @@ Scambio di informazioni
 
 5\. Le disposizioni del paragrafo 3 non possono in nessun caso essere interpretate nel senso che una Parte Contraente possa rifiutare di fornire le informazioni solo in quanto le stesse sono detenute da una banca, da un'altra istituzione finanziaria, da un mandatario o una persona che opera in qualita' di agente o fiduciario o perche' dette informazioni si riferiscono a partecipazioni in una persona.
 
-#### Art. 26
+### Art. 26
 
 Membri delle missioni diplomatiche
 
@@ -550,7 +548,7 @@ e degli uffici consolari
 
 Le disposizioni del presente Accordo non pregiudicano i privilegi fiscali di cui beneficiano i membri delle missioni diplomatiche o degli uffici consolari in virtu' delle regole generali del diritto internazionale o delle disposizioni di accordi particolari.
 
-#### Art. 27
+### Art. 27
 
 Disposizioni varie
 
@@ -558,7 +556,7 @@ Le disposizioni del presente Accordo non pregiudicano il diritto di ciascuna Par
 
 ## Capitolo VI - Disposizioni finali
 
-#### Art. 28
+### Art. 28
 
 Entrata in vigore
 
@@ -574,7 +572,7 @@ Ciascuna delle Parti Contraenti notifichera' all'altra il completamento delle pr
 
 con riferimento alle imposte della Regione Amministrativa Speciale di Hong Kong, per ciascun anno di accertamento che inizia il, o successivamente al, 1° aprile dell'anno solare successivo a quello in cui il presente Accordo entra in vigore.
 
-#### Art. 29
+### Art. 29
 
 Cessazione
 
@@ -596,7 +594,7 @@ FATTO a Hong Kong, il 14 giorno di gennaio 2013 in duplice esemplare, nelle ling
 
 Parte di provvedimento in formato grafico
 
-#### Protocollo
+### Protocollo
 
 PROTOCOLLO
 

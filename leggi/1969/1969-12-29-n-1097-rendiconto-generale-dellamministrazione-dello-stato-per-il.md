@@ -27,7 +27,7 @@ la seguente legge:
 
 ## ENTRATE E SPESE DI COMPETENZA DEL PERIODO 1 luglio-31 DICEMBRE 1964
 
-### Art. 1
+## Art. 1
 
 Le entrate ordinarie e straordinarie dello
 
@@ -49,7 +49,7 @@ rimasero da versare... " 134.965.961.002
  -----------------
 ```
 
-### Art. 2
+## Art. 2
 
 Le spese ordinarie e straordinarie dello
 
@@ -66,7 +66,7 @@ dal conto consuntivo del bilancio, in........ L. 3.614.119.769.870 delle quali f
  -----------------
 ```
 
-### Art. 3
+## Art. 3
 
 Il riepilogo generale dei risultati delle
 
@@ -106,7 +106,7 @@ Entrate...................................... L. 3.262.018.652.853 Spese........
 
 ## ENTRATE E SPESE RESIDUE DELL'ESERCIZIO - 1963-64 ED ESERCIZI PRECEDENTI
 
-### Art. 4
+## Art. 4
 
 I residui attivi alla chiusura dell'eser-
 
@@ -126,7 +126,7 @@ rimasero da versare.... " 298.914.742.309
  -----------------
 ```
 
-### Art. 5
+## Art. 5
 
 I residui passivi alla chiusura dell'eser-
 
@@ -143,7 +143,7 @@ conto consuntivo del bilancio, in............ L. 3.376.524.180.654 dei quali fur
 
 ## RESIDUI ATTIVI E PASSIVI ALLA CHIUSURA DEL PERIODO 1 luglio-31 - DICEMBRE 1964
 
-### Art. 6
+## Art. 6
 
 I residui attivi alla chiusura del periodo 1 luglio-31 dicembre 1964 sono stabiliti, come dal conto consuntivo del bilancio, nelle seguenti somme:
 
@@ -162,7 +162,7 @@ degli esercizi precedenti (articolo 4)....... " 519.791.854.341 Somme riscosse e
  -----------------
 ```
 
-### Art. 7
+## Art. 7
 
 I residui passivi alla chiusura del periodo 1 luglio-31 dicembre 1964 sono stabiliti, come dal conto consuntivo del bilancio, nelle seguenti somme:
 
@@ -181,7 +181,7 @@ esercizi precedenti (articolo 5)............. " 2.249.852.936.461
 
 ## SITUAZIONE FINANZIARIA
 
-### Art. 8
+## Art. 8
 
 E' accertato nella somma di lire 6.247.602.682.461 il disavanzo finanziario del conto del Tesoro alla fine del periodo 1 luglio-31 dicembre 1964 come risulta dai seguenti dati:
 
@@ -233,11 +233,11 @@ tabilita generale......................... " 23.760
 
 ## DISPOSIZIONI SPECIALI
 
-### Art. 9
+## Art. 9
 
 Sono stabiliti nella somma di lire 23.760 i discarichi consentiti nel periodo 1 luglio-31 dicembre 1964 ai tesorieri per casi di forza maggiore, ai sensi dell'articolo 194 del regolamento per la amministrazione del patrimonio e per la contabilita' generale dello Stato approvato con regio decreto 23 maggio 1924, n. 827.
 
-### Art. 10
+## Art. 10
 
 Sono approvate le eccedenze d'impegno risultate in sede di consuntivo sul conto della competenza e sul conto dei residui ai capitoli degli stati di previsione della spesa dei Ministeri sottoindicati per il periodo 1 luglio-31 dicembre 1964 come dal dettaglio che segue:
 
@@ -287,13 +287,13 @@ lotto (spesa obbligatoria). - L. 12.496.616.500
 
 ## AMMINISTRAZIONI ED AZIENDE SPECIALI - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-### Art. 11
+## Art. 11
 
 Le entrate ordinarie e straordinarie del bilancio dell'Amministrazione dei monopoli di Stato e quelle del Monopolio banane, accertate nel periodo 1 luglio-31 dicembre 1964 per la competenza propria del periodo medesimo, sono stabilite, quali risultano dal conto consuntivo della amministrazione stessa, allegato al consuntivo del Ministero delle finanze:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 12
+## Art. 12
 
 Le spese ordinarie e straordinarie del bilancio delle amministrazioni predette, accertate nel periodo 1 luglio-31 dicembre 1964 per la competenza propria del periodo stesso, sono stabilite:
 
@@ -321,13 +321,13 @@ per il Monopolio banane........ " 7.911.063.413
  ----------------
 ```
 
-### Art. 13
+## Art. 13
 
 I residui attivi alla chiusura dell'esercizio 1963-64 restano determinati:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 14
+## Art. 14
 
 I residui passivi alla chiusura dell'esercizio 1963-64 restano determinati:
 
@@ -354,7 +354,7 @@ per il Monopolio banane........ " 40.621.474
  ----------------
 ```
 
-### Art. 15
+## Art. 15
 
 I residui attivi alla chiusura del periodo 1 luglio-31 dicembre 1964 sono stabiliti nelle seguenti somme:
 
@@ -406,7 +406,7 @@ per il Monopolio banane........ " 689.677.470
 
 -------------- L. 11.315.261.825
 
-### Art. 16
+## Art. 16
 
 I residui passivi alla chiusura del periodo 1 luglio-31 dicembre 1964 sono stabiliti nelle seguenti somme:
 
@@ -450,7 +450,7 @@ per il Monopolio banane........ " 7.951.684.887
  --------------
 ```
 
-### Art. 17
+## Art. 17
 
 La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine del periodo 1 luglio-31 dicembre 1964, risulta come appresso:
 
@@ -479,7 +479,7 @@ del Monopolio banane........... " 18.402.160.159
 
 ## ARCHIVI NOTARILI
 
-### Art. 18
+## Art. 18
 
 E' approvato il conto consuntivo degli Archivi notarili, per il periodo 1 luglio-31 dicembre 1964, nelle risultanze seguenti:
 
@@ -492,7 +492,7 @@ Entrate.......................................... L. 4.142.996.689 Spese........
 
 ## ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-### Art. 19
+## Art. 19
 
 Le entrate dell'Istituto agronomico per l'oltre-
 
@@ -513,7 +513,7 @@ predetto, in....................................... L. 51.315.830 delle quali fu
  -------------
 ```
 
-### Art. 20
+## Art. 20
 
 Le spese dell'istituto predetto, accertate nel
 
@@ -528,7 +528,7 @@ in................................................. L. 51.315.830 delle quali fu
  -------------
 ```
 
-### Art. 21
+## Art. 21
 
 I residui attivi alla chiusura dell'esercizio
 
@@ -541,7 +541,7 @@ furono riscossi e versati.......................... " 10.375.000
  -------------
 ```
 
-### Art. 22
+## Art. 22
 
 I residui passivi alla chiusura dell'esercizio
 
@@ -554,7 +554,7 @@ dicembre 1964...................................... " 8.754.990
  -------------
 ```
 
-### Art. 23
+## Art. 23
 
 I residui attivi alla chiusura del periodo 1 luglio-31 dicembre 1964 sono stabiliti nelle seguenti somme:
 
@@ -577,7 +577,7 @@ pilogo dell'entrata)
  -------------
 ```
 
-### Art. 24
+## Art. 24
 
 I residui passivi alla chiusura del periodo 1 luglio-31 dicembre 1964 sono stabiliti nelle seguenti somme:
 
@@ -598,7 +598,7 @@ zi precedenti (articolo 22)........................ " 13.252.492
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-### Art. 25
+## Art. 25
 
 Le entrate ordinarie e straordinarie del bilancio
 
@@ -627,7 +627,7 @@ rimasero da versare.............. " 498.467
  -------------
 ```
 
-### Art. 26
+## Art. 26
 
 Le spese ordinarie e straordinarie del bilancio
 
@@ -644,7 +644,7 @@ delle quali furono pagate.......................... " 8.504.785.275
  -------------
 ```
 
-### Art. 27
+## Art. 27
 
 I residui attivi alla chiusura dell'esercizio
 
@@ -662,7 +662,7 @@ rimasero da versare........... " 24.662
  --------------
 ```
 
-### Art. 28
+## Art. 28
 
 I residui passivi alla chiusura dell'esercizio
 
@@ -675,7 +675,7 @@ dicembre 1964...................................... " 558.621.403
  -------------
 ```
 
-### Art. 29
+## Art. 29
 
 I residui attivi alla chiusura del periodo 1 luglio-31 dicembre 1964 sono stabiliti nelle seguenti somme:
 
@@ -698,7 +698,7 @@ pilogo dell'entrata)............................... " 523.129
  --------------
 ```
 
-### Art. 30
+## Art. 30
 
 I residui passivi alla chiusura del periodo 1 luglio-31 dicembre 1964 sono stabiliti nelle seguenti somme:
 
@@ -717,7 +717,7 @@ zi precedenti (articolo 28)........................ " 749.708.493
  -------------
 ```
 
-### Art. 31
+## Art. 31
 
 E' accertato nella somma di lire 3.212.826,30 il saldo attivo del conto finanziario dell'Amministrazione del Fondo per il culto alla fine del periodo 1 luglio-31 dicembre 1964, come risulta dai seguenti dati:
 
@@ -760,7 +760,7 @@ al 31 dicembre 1964.......... " 32.473.813.851
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-### Art. 32
+## Art. 32
 
 Le entrate ordinarie e straordinarie del bilan-
 
@@ -790,7 +790,7 @@ rimasero da versare............... " 4.828
  -------------
 ```
 
-### Art. 33
+## Art. 33
 
 Le spese ordinarie e straordinarie del bilancio
 
@@ -807,7 +807,7 @@ te in............................................ L. 224.603.637 delle quali fur
  -------------
 ```
 
-### Art. 34
+## Art. 34
 
 I residui attivi alla chiusura dell'esercizio
 
@@ -825,7 +825,7 @@ rimasero da versare............. " 40
  -------------
 ```
 
-### Art. 35
+## Art. 35
 
 I residui passivi alla chiusura dell'esercizio
 
@@ -838,7 +838,7 @@ dicembre 1964.................................... " 102.272.358
  -------------
 ```
 
-### Art. 36
+## Art. 36
 
 I residui attivi alla chiusura del periodo 1 luglio-31 dicembre 1964 sono stabiliti nelle seguenti somme:
 
@@ -857,7 +857,7 @@ riepilogo dell'entrata).......................... " 4.868
  -------------
 ```
 
-### Art. 37
+## Art. 37
 
 I residui passivi alla chiusura del periodo 1 luglio-31 dicembre 1964 sono stabiliti nelle seguenti somme:
 
@@ -874,7 +874,7 @@ cizi precedenti (articolo 35).................... " 87.225.359
  -------------
 ```
 
-### Art. 38
+## Art. 38
 
 E' accertato nella somma di lire 4.926.709,58 il saldo attivo del conto finanziario del Fondo di beneficenza e di religione nella citta' di Roma, alla fine del periodo 1 luglio-31 dicembre 1964, come risulta dai seguenti dati:
 
@@ -917,7 +917,7 @@ al 31 dicembre 1964............. " 799.752.146
 
 ## AZIENDA DEI PATRIMONI RIUNITI EX ECONOMALI
 
-### Art. 39
+## Art. 39
 
 Le entrate ordinarie e straordinarie dell'A-
 
@@ -938,7 +938,7 @@ consuntivo del Ministero dell'interno, in........ L. 187.605.065 delle quali fur
  -------------
 ```
 
-### Art. 40
+## Art. 40
 
 Le spese ordinarie e straordinarie dell'azienda
 
@@ -955,7 +955,7 @@ consuntivo, in................................... L. 160.145.977 delle quali fur
  -------------
 ```
 
-### Art. 41
+## Art. 41
 
 I residui attivi alla chiusura dell'esercizio
 
@@ -975,7 +975,7 @@ rimasero da versare............. " 23.716
  -------------
 ```
 
-### Art. 42
+## Art. 42
 
 I residui passivi alla chiusura dell'esercizio
 
@@ -990,7 +990,7 @@ dicembre 1964.................................... " 52.863.732
  -------------
 ```
 
-### Art. 43
+## Art. 43
 
 I residui attivi alla chiusura del periodo 1 luglio-31 dicembre 1964 sono stabiliti, come dal conto consuntivo dell'azienda, nelle seguenti somme:
 
@@ -1009,7 +1009,7 @@ lonna s del riepilogo dell'entrata).............. " 23.716
  -------------
 ```
 
-### Art. 44
+## Art. 44
 
 I residui passivi alla chiusura del periodo 1 luglio-31 dicembre 1964 sono stabiliti, come dal conto consuntivo dell'azienda, nelle seguenti somme:
 
@@ -1028,7 +1028,7 @@ cizi precedenti (articolo 42).................... " 78.021.661
  -------------
 ```
 
-### Art. 45
+## Art. 45
 
 E' accertato nella somma di lire 14.614.309,88 il saldo attivo del conto finanziario dell'Azienda dei patrimoni riuniti ex economali, alla fine del periodo 1 luglio-31 dicembre 1964, come risulta dai seguenti dati:
 
@@ -1070,7 +1070,7 @@ al 31 dicembre 1964............. " 70.362.630
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE
 
-### Art. 46
+## Art. 46
 
 Le entrate ordinarie e straordinarie del bilan-
 
@@ -1091,7 +1091,7 @@ nistero dei lavori pubblici, sono stabilite in... L. 136.061.081.910 delle quali
  ---------------
 ```
 
-### Art. 47
+## Art. 47
 
 Le spese ordinarie e straordinarie del bilancio
 
@@ -1108,7 +1108,7 @@ in............................................... L. 136.061.081.910 delle quali
  ---------------
 ```
 
-### Art. 48
+## Art. 48
 
 I residui attivi alla chiusura dell'esercizio
 
@@ -1121,7 +1121,7 @@ furono riscossi e versati.................... " 142.060.039.279
  ---------------
 ```
 
-### Art. 49
+## Art. 49
 
 I residui passivi alla chiusura dell'esercizio
 
@@ -1134,7 +1134,7 @@ dicembre 1964.................................... " 90.127.408.146
  ---------------
 ```
 
-### Art. 50
+## Art. 50
 
 I residui attivi alla chiusura del periodo 1 luglio-31 dicembre 1964 sono stabiliti nelle seguenti somme:
 
@@ -1153,7 +1153,7 @@ riepilogo dell'entrata).......................... -
  ---------------
 ```
 
-### Art. 51
+## Art. 51
 
 I residui passivi alla chiusura del periodo 1 luglio-31 dicembre 1964 sono stabiliti nelle seguenti somme:
 
@@ -1172,7 +1172,7 @@ cizi precedenti (articolo 49).................... " 194.314.020.556
 
 ## AMMINISTRAZIONE DELLE POSTE E DEI TELEGRAFI
 
-### Art. 52
+## Art. 52
 
 Le entrate ordinarie e straordinarie del bilan-
 
@@ -1193,7 +1193,7 @@ le telecomunicazioni per il periodo predetto, in. L. 195.970.165.641 delle quali
  ---------------
 ```
 
-### Art. 53
+## Art. 53
 
 Le spese ordinarie e straordinarie del bilancio
 
@@ -1210,7 +1210,7 @@ in............................................... L. 195.970.165.641 delle quali
  ---------------
 ```
 
-### Art. 54
+## Art. 54
 
 I residui attivi alla chiusura dell'esercizio
 
@@ -1223,7 +1223,7 @@ furono riscossi e versati........................ " 90.334.286.590
  ---------------
 ```
 
-### Art. 55
+## Art. 55
 
 I residui passivi alla chiusura dell'esercizio
 
@@ -1231,7 +1231,7 @@ I residui passivi alla chiusura dell'esercizio
 
 furono pagati.................................... " 89.519.525.408 e rimasero da pagare al 31 dicembre 1964......... L. 98.319.206.732
 
-### Art. 56
+## Art. 56
 
 I residui attivi alla chiusura del periodo 1 luglio-31 dicembre 1964 sono stabiliti nelle seguenti somme:
 
@@ -1248,7 +1248,7 @@ esercizi precedenti (articolo 54)................ " 90.553.545.567
  ---------------
 ```
 
-### Art. 57
+## Art. 57
 
 I residui passivi alla chiusura del periodo 1 luglio-31 dicembre 1964 sono stabiliti nelle seguenti somme:
 
@@ -1267,7 +1267,7 @@ cizi precedenti (articolo 55).................... " 98.319.206.732
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Art. 58
+## Art. 58
 
 Le entrate ordinarie e straordinarie del bilan-
 
@@ -1297,7 +1297,7 @@ rimasero da versare......... " 15.027.432.965
  ---------------
 ```
 
-### Art. 59
+## Art. 59
 
 Le spese ordinarie e straordinarie del bilancio
 
@@ -1314,7 +1314,7 @@ te in............................................ L. 57.537.680.197 delle quali 
  ---------------
 ```
 
-### Art. 60
+## Art. 60
 
 I residui attivi alla chiusura dell'esercizio
 
@@ -1332,7 +1332,7 @@ rimasero da versare.......... " 33.792.759.485
  ---------------
 ```
 
-### Art. 61
+## Art. 61
 
 I residui passivi alla chiusura dell'esercizio
 
@@ -1345,7 +1345,7 @@ furono pagati.................................... " 24.052.075.158
  ---------------
 ```
 
-### Art. 62
+## Art. 62
 
 I residui attivi alla chiusura del periodo 1 luglio-31 dicembre 1964 sono stabiliti nelle seguenti somme:
 
@@ -1364,7 +1364,7 @@ riepilogo dell'entrata).......................... " 48.820.192.450
  ---------------
 ```
 
-### Art. 63
+## Art. 63
 
 I residui passivi alla chiusura del periodo 1 luglio-31 dicembre 1964 sono stabiliti nelle seguenti somme:
 
@@ -1383,7 +1383,7 @@ cizi precedenti (articolo 61).................... " 84.671.133.520
 
 ## AMMINISTRAZIONE DELLE FERROVIE DELLO STATO
 
-### Art. 64
+## Art. 64
 
 Le entrate ordinarie e straordinarie del bilan-
 
@@ -1410,7 +1410,7 @@ il periodo predetto, in.......................... L. 889.296.941.193 delle quali
  ---------------
 ```
 
-### Art. 65
+## Art. 65
 
 Le spese ordinarie e straordinarie del bilancio
 
@@ -1429,7 +1429,7 @@ do medesimo, sono stabilite in................... L. 889.296.941.193 delle quali
  ---------------
 ```
 
-### Art. 66
+## Art. 66
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione delle ferrovie dello Stato, di competenza del periodo 1 luglio-31 dicembre 1964, rimane cosi' stabilito:
 
@@ -1445,7 +1445,7 @@ Ordinaria........................................ L. 307.823.771.616 Straordinar
  ---------------
 ```
 
-### Art. 67
+## Art. 67
 
 I residui attivi alla chiusura dell'esercizio
 
@@ -1458,7 +1458,7 @@ furono riscossi e versati..................... " 139.466.358.401
  ---------------
 ```
 
-### Art. 68
+## Art. 68
 
 I residui passivi alla chiusura dell'esercizio
 
@@ -1471,7 +1471,7 @@ furono pagati.................................... " 119.511.112.242
  ---------------
 ```
 
-### Art. 69
+## Art. 69
 
 I residui attivi alla chiusura del periodo 1 luglio-31 dicembre 1964 sono stabiliti nelle seguenti somme:
 
@@ -1488,7 +1488,7 @@ esercizi precedenti (articolo 67)................ " 298.122.331.583
  ---------------
 ```
 
-### Art. 70
+## Art. 70
 
 I residui passivi alla chiusura del periodo 1 luglio-31 dicembre 1964 sono stabiliti nelle seguenti somme:
 
@@ -1507,7 +1507,7 @@ cizi precedenti (articolo 68).................... " 249.436.427.813
 
 ## AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### Art. 71
+## Art. 71
 
 Le entrate ordinarie e straordinarie del bilan-
 
@@ -1537,7 +1537,7 @@ rimasero da versare.......... " 422.786.374
  ---------------
 ```
 
-### Art. 72
+## Art. 72
 
 Le spese ordinarie e straordinarie del bilancio
 
@@ -1552,7 +1552,7 @@ del periodo medesimo, sono stabilite, in......... L. 5.082.763.113 delle quali f
  ---------------
 ```
 
-### Art. 73
+## Art. 73
 
 I residui attivi alla chiusura dell'esercizio
 
@@ -1570,7 +1570,7 @@ rimasero da versare.......... " 2.039.939.763
  ---------------
 ```
 
-### Art. 74
+## Art. 74
 
 I residui passivi alla chiusura dell'esercizio
 
@@ -1583,7 +1583,7 @@ dicembre 1964.................................... " 1.270.710.217
  ---------------
 ```
 
-### Art. 75
+## Art. 75
 
 I residui attivi alla chiusura del periodo 1 luglio-31 dicembre 1964 sono stabiliti nelle seguenti somme:
 
@@ -1602,7 +1602,7 @@ riepilogo dell'entrata).......................... " 2.462.726.137
  ---------------
 ```
 
-### Art. 76
+## Art. 76
 
 I residui passivi alla chiusura del periodo 1 luglio-31 dicembre 1964 sono stabiliti nelle seguenti somme:
 
@@ -1619,7 +1619,7 @@ cizi precedenti (articolo 74).................... " 7.746.397.763
  ---------------
 ```
 
-### Art. 77
+## Art. 77
 
 La situazione finanziaria dell'Azienda di Stato per le foreste demaniali, alla fine del periodo 1 luglio-31 dicembre 1964 risulta dai seguenti dati:
 

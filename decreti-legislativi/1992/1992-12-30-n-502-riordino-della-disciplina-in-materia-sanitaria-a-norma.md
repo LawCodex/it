@@ -38,7 +38,7 @@ EMANA
 
 il seguente decreto legislativo:
 
-## TITOLO I - ORDINAMENTO
+### TITOLO I - ORDINAMENTO
 
 #### Art. 1 - Tutela del diritto alla salute, programmazione sanitaria e definizione dei livelli essenziali e uniformi di assistenza
 
@@ -678,7 +678,7 @@ f) igiene degli allevamenti e delle produzioni zootecniche.
 
 2\. Il dipartimento di prevenzione assicura, nella programmazione della propria attivita' destinata alla tutela della salute e della sicurezza negli ambienti di lavoro, il raccordo con gli organismi paritetici previsti dall'articolo 20 del decreto legislativo 19 settembre 1994, n. 626, o, qualora non ancora costituiti, con le parti sociali.))
 
-## TITOLO II - PRESTAZIONI
+### TITOLO II - PRESTAZIONI
 
 #### Art. 8
 
@@ -1148,7 +1148,7 @@ Controllo di qualita'
 
 ((4. Il Ministro della sanita' accerta lo stato di attuazione presso le regioni del sistema di controllo delle prescrizioni mediche e delle commissioni professionali di verifica. La rilevazione dei dati contenuti nelle prescrizioni mediche e' attuata dalle regioni e dalle province autonome con gli strumenti ritenuti piu' idonei. Il Ministro della sanita' acquisisce il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano in ordine alla eventuale attivazione dei poteri sostitutivi. Ove tale parere non sia espresso entro trenta giorni, il Ministro provvede direttamente.))
 
-## TITOLO III - FINANZIAMENTO
+### TITOLO III - FINANZIAMENTO
 
 #### Art. 11
 
@@ -1302,9 +1302,9 @@ AGGIORNAMENTO (4)
 
 La Corte Costituzionale, con sentenza 11 giugno-28 luglio 1993, n. 355 (in G.U. 1a s.s. 4/8/1993, n. 32), ha dichiarato l'illegittimita' costituzionale del primo comma del presente articolo "nella parte in cui, nello stabilire l'esonero immediato e totale dello Stato da interventi finanziari volti a far fronte ai disavanzi di gestione delle unita' sanitarie locali e delle aziende ospedaliere, non prevede una adeguata disciplina diretta a rendere graduale il passaggio e la messa a regime del sistema di finanziamento previsto nello stesso decreto legislativo n. 502 del 1992".
 
-## TITOLO IV - PARTECIPAZIONE E TUTELA DEI DIRITTI
+### TITOLO IV
 
-### DEI CITTADINI
+## PARTECIPAZIONE E TUTELA DEI DIRITTI - DEI CITTADINI
 
 #### Art. 14
 
@@ -1330,7 +1330,7 @@ I rapporti tra aziende ed organismi di volontariato che esplicano funzioni di se
 
 8\. Le regioni, le unita' sanitarie locali e le aziende ospedaliere promuovono iniziative di formazione e di aggiornamento del personale adibito al contatto con il pubblico sui temi inerenti la tutela dei diritti dei cittadini, da realizzare anche con il concorso e la collaborazione delle rappresentanze professionali e sindacali.
 
-## TITOLO V - PERSONALE
+### TITOLO V - PERSONALE
 
 #### Art. 15 - Disciplina della dirigenza medica e delle professioni sanitarie
 
@@ -1664,7 +1664,7 @@ Lo stesso accordo definisce i criteri in base ai quali l'Istituto superiore di s
 
 3\. La regione disciplina la composizione e le funzioni del Comitato di dipartimento nonche' le modalita' di partecipazione dello stesso alla individuazione dei direttori di dipartimento.))
 
-## TITOLO VI - NORME FINALI E TRANSITORIE
+### TITOLO VI - NORME FINALI E TRANSITORIE
 
 #### Art. 18
 

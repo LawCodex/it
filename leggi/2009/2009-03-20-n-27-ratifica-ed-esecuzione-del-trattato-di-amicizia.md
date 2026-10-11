@@ -27,19 +27,19 @@ Promulga
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare il Trattato di amicizia, partenariato e cooperazione fra la Repubblica italiana e la Repubblica dell'Iraq, fatto a Roma il 23 gennaio 2007.
 
-#### Art. 2
+### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data al Trattato di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 17 del Trattato stesso.
 
-#### Art. 3
+### Art. 3
 
 Disposizioni finanziarie
 
@@ -47,7 +47,7 @@ Disposizioni finanziarie
 
 2\. Agli eventuali oneri derivanti dall'attuazione dell'articolo 16 del Trattato di cui all'articolo 1, fino ad un importo massimo di 400 milioni di euro nel triennio 2009-2011, si provvede a valere sulle disponibilita' del Fondo rotativo di cui all'articolo 6 della legge 26 febbraio 1987, n. 49, e successive modificazioni.
 
-#### Art. 4
+### Art. 4
 
 Entrata in vigore
 
@@ -143,7 +143,7 @@ Le Parti adotteranno tutte le iniziative che consentano di disporre di uno spazi
 
 Le Parti si dichiarano decise a far rispettare ed applicare tali principi in uno spirito di fiducia reciproca per sviluppare al meglio i loro rapporti di cooperazione e sfruttare il dinamismo e la creativita' delle loro societa', nella ricerca di nuovi obiettivi comuni di cooperazione reciprocamente vantaggiosi.
 
-#### Articolo 1
+### Articolo 1
 
 Le Parti, desiderose di rinsaldare i legami che le uniscono, si propongono di istituire un quadro bilaterale di contatti politici adeguato al livello di cooperazione e concertazione a cui esse aspirano. A tal fine, decidono di' istituzionalizzare quanto segue:
 
@@ -157,27 +157,25 @@ qualvolta cio' sia necessario riunioni degli Alti Funzionari dei due Paesi.
 
 Verranno altresi' incoraggiati i contatti ed il dialogo fra i Parlamenti, le organizzazioni professionali, i rappresentanti dei movimenti associativi, del settore privato e delle istituzioni universitarie, Culturali, scientifiche e tecnologiche dell'Italia e dell'Iraq.
 
-## CAPITOLO II - RAPPORTI DI COOPERAZIONE
+## CAPITOLO II - RAPPORTI DI COOPERAZIONE Cooperazione economica e finanziaria
 
-### Cooperazione economica e finanziaria
-
-#### Articolo 2
+### Articolo 2
 
 I Governi della Repubblica Italiana e della Repubblica dell'Iraq, conformemente alle convenzioni ed agli strumenti sottoscritti dai due Paesi, imprimeranno un nuovo slancio alla cooperazione economica e finanziaria allo scopo di favore il dinamismo e la modernizzazione dell'economia irachena.
 
-#### Articolo 3
+### Articolo 3
 
 Le Parti svilupperanno ed incoraggeranno i rapporti tra gli operatori dei due Paesi nei settori produttivi e dei servizi, nonche' la realizzazione di progetti di investimento e la creazione di societa' miste.
 
 A tal fine, le Parti stabiliscono altresi' di elaborare ed attuare dei Piani di Azione congiunti, in particolare a vantaggio delle piccole e medie imprese.
 
-#### Articolo 4
+### Articolo 4
 
 Le Parti attribuiranno particolare attenzione allo sviluppo dei progetti di infrastrutture di interesse comune, in particolare nei settori delle fonti energetiche, della generazione elettrica, dei trasporti, delle comunicazioni, della tutela dell'ambiente, della lotta all'inquinamento, delle opere idrauliche e dei poli tecnologici.
 
 ## Cooperazione nel campo della sicurezza
 
-#### Articolo 5
+### Articolo 5
 
 Le Parti promuoveranno la cooperazione fra le rispettive Forze Armate e di Polizia, sia a livello bilaterale, che nei contesti multilaterali, concentrandosi con particolare attenzione sugli scambi di personale, la realizzazione di corsi di formazione e perfezionamento, e sull'addestramento e lo svolgimento di esercitazioni congiunte.
 
@@ -185,7 +183,7 @@ Le Parti promuoveranno altresi' la cooperazione industriale nel settore della si
 
 ## Cooperazione per la crescita socio-economica
 
-#### Articolo 6
+### Articolo 6
 
 Le Parti, consapevoli della necessita' di incoraggiare tale cooperazione, sia a livello bilaterale, che multilaterale, con il fine di promuovere lo sviluppo socio-economico delle rispettive popolazioni, con una particolare attenzione alle donne, alla prima infanzia, ai giovani cd alle fasce piu' deboli, definiranno programmi e progetti specifici nei diversi settori.
 
@@ -203,7 +201,7 @@ svantaggiati. A tal fine, Esse si impegneranno ad incoraggiare l'attuazione di p
 
 ## Cooperazione in campo culturale, dell'istruzione, scientifico e tecnologico
 
-#### Articolo 7
+### Articolo 7
 
 Le Parti, consapevoli dell'importanza del patrimonio storico e culturale comune,
 
@@ -215,11 +213,11 @@ Le Parti, riconoscendo l'importanza della diversita' delle espressioni culturali
 
 Esse stabiliscono, aldila' di estendere la cooperazione a nuovi i settori di interesse comune, quali le industrie culturali ed il turismo culturale.
 
-#### Articolo 8
+### Articolo 8
 
 Le Parti favoriranno l'insegnamento della lingua italiana in Iraq e araba in Italia, nonche' la creazione e la gestione di Centri culturali nei rispettivi territori.
 
-#### Articolo 9
+### Articolo 9
 
 Le Parti intensificheranno la collaborazione esistente nel settore media-audiovisivo, per quanto riguarda sia le rispettive emittenti radiotelevisive pubbliche, sia le reti private e promuoveranno scambi cultural-formativi per le vari figure professionali del settore.
 
@@ -227,7 +225,7 @@ Verra' attribuita una particolare attenzione alla cinematografia, alle grandi re
 
 ## Cooperazione per la tutela e valorizzazione del patrimonio culturale materiale ed immateriale
 
-#### Articolo 10
+### Articolo 10
 
 Le Parti, consapevoli della rilevanza dei rispettivi patrimoni culturali e della loro importanza primaria nella storia delle civilta' mondiali, promuoveranno ed incoraggeranno iniziative comuni di tutela e valorizzazione dei beni culturali materiali e immateriali, con particolare riguardo a:
 
@@ -249,7 +247,7 @@ A tal fine le Parti promuoveranno adeguati piani di formazione tecnico-professio
 
 ## Cooperazione nel settore medico-sanitario
 
-#### Articolo 11
+### Articolo 11
 
 Le Parti, consapevoli del fondamentale ruolo sociale ricoperto dai rispettivi sistemi sanitari e nella volonta' comune di contribuire al continuo miglioramerto dell'accesso di tutti i cittadini ai servizi di diagnosi e cura su principi di universalita', uguaglianza equita' ed appropriatezza, si impegnano a collaborare attivamente per la ricostruzione e lo sviluppo del sistema sanitario iracheno, in un quadro di cooperazione in campo clinico-scientifico, tecnologico, organizzativo e di ricerca, con particolare attenzione ai soggetti piu' deboli ed alla prima infanzia.
 
@@ -265,13 +263,13 @@ A tale fine verra' favorito l'interscambio delle professionalita' specifiche. si
 
 ## Cooperazione Consolare
 
-#### Art. 12
+### Art. 12
 
 Le Parti decidono di rafforzare le loro relazioni consolari al fine di facilitare la tutela dei diritti e degli interessi delle persone fisiche e giuridiche di ciascuna delle Parti contraenti nel territorio dell'altra Parte contraente.
 
 ## Cooperazione nel settore legale, giudiziario e amministrativo
 
-#### Art. 13
+### Art. 13
 
 Le Parti decidono di:
 
@@ -281,7 +279,7 @@ b. collaborare, anche attraverso lo scambio di esperti, nel contrasto internazio
 
 ## Commissione Mista di Cooperazione ad Alto Livello
 
-#### Articolo 14
+### Articolo 14
 
 Al fine di facilitare l'esecuzione del presente Trattato e' costituita tra le Parti una Commissione Mista di Cooperazione ad Alto Livello, co-presieduta dai Ministri degli Affari Esteri dei due Paesi. Tale Commissione e' composta da rappresentanti ed esperti dei due Paesi. La sua composizione sara' concordata in funzione delle specifiche esigenze degli ambiti di sviluppo della cooperazione.
 
@@ -303,7 +301,7 @@ Ciascuna delle due Parti costituira' presso i rispettivi Ministeri degli Affari 
 
 ## Cooperazione finanziaria
 
-#### Articolo 15
+### Articolo 15
 
 Il Governo della Repubblica Italiana si impegna a facilitare la disponibilita' di strumenti creditizi ed assicurativi per mettere in grado gli enti e le imprese e le societa' italiane di eseguire progetti di sviluppo in Iraq su cui si accorderanno le due Parti.
 
@@ -311,13 +309,13 @@ Il Governo della Repubblica dell'Iraq si adoperera' perche' siano concessi a ent
 
 ## Disposizioni applicative
 
-#### Articolo 16
+### Articolo 16
 
 Per il conseguimento degli obiettivi e delle collaborazioni di cui al presente Trattato, cosi' come individuati dalla Commissione Mista ad Alto Livello, il Governo della Repubblica italiana si impegna a rendere disponibile un importo fino a 400 milioni di Euro in crediti di aiuto entro il triennio dall'entrata in vigore del presente Trattato, rinnovabile per lo stesso periodo alle condizioni e nei limiti delle vigenti normative internazionali.
 
 ## Disposizioni finali
 
-#### Articolo 17
+### Articolo 17
 
 a) Le disposizioni del Presente Trattato non pregiudicano le
 
@@ -347,7 +345,7 @@ Il Ministro degli Affari Esteri Il Ministro degli Affari Esteri
 
 Parte di provvedimento in formato grafico
 
-#### Treaty
+### Treaty
 
 Allegato
 

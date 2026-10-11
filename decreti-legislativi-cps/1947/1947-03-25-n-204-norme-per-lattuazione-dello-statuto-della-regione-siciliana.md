@@ -36,11 +36,9 @@ HA SANZIONATO E PROMULGA:
 
 ## TITOLO I - DEGLI ORGANI DELLA REGIONE
 
-### SEZIONE I
+### SEZIONE I - Disposizioni relative all'Assemblea regionale.
 
-#### Disposizioni relative all'Assemblea regionale.
-
-###### Art. 1
+#### Art. 1
 
 L'Assemblea regionale, per la prima adunanza, e' convocata dall'Alto Commissario per la Sicilia entro trenta giorni dalla proclamazione degli eletti, con invito da notificarsi ai deputati, a domicilio, almeno dieci giorni prima di quello stabilito per l'adunanza.
 
@@ -50,13 +48,13 @@ L'invito deve contenere l'ordine del giorno della seduta.
 
 Per le successive adunanze l'Assemblea e' convocata dal suo Presidente con le modalita' previste dai comma precedenti.
 
-###### Art. 2
+#### Art. 2
 
 La presidenza provvisoria dell'Assemblea, nella prima adunanza, e' assunta dal deputato piu' anziano di eta'.
 
 I due deputati piu' giovani fra i presenti funzionano da segretari.
 
-###### Art. 3
+#### Art. 3
 
 L'Assemblea nella prima adunanza procedera':
 
@@ -64,7 +62,7 @@ a) alla convalida della elezione dei propri componenti;
 
 b) alla costituzione dell'ufficio definitivo di presidenza con la elezione del presidente, dei due vicepresidenti, di tre segretari e di tre questori.
 
-###### Art. 4
+#### Art. 4
 
 Fino a quando l'Assemblea non avra' approvato il proprio regolamento interno, saranno applicate le norme vigenti per l'Assemblea costituente per:
 
@@ -72,7 +70,7 @@ a) la convalida degli eletti, l'elezione dei componenti l'ufficio definitivo di 
 
 b) le adunanze, le discussioni, le deliberazioni e votazioni, c) le interpellanze, le interrogazioni e le mozioni.
 
-###### Art. 5
+#### Art. 5
 
 Fino a quando l'Assemblea non avra' approvato il regolamento previsto dall'articolo precedente, l'ordinamento dei propri uffici ed il regolamento per il personale dipendente:
 
@@ -82,11 +80,11 @@ b) ogni Commissione permanente e' costituita da cinque deputati ed elegge nel pr
 
 c) il numero e la competenza delle Commissioni saranno stabiliti dall'ufficio di presidenza. Si dovranno, pero', in ogni caso costituire una Commissione per la convalida dei deputati eletti e una Commissione per il regolamento interno.
 
-###### Art. 6
+#### Art. 6
 
 La formula del giuramento che i deputati prestano nell'Assemblea prima di essere ammessi all'esercizio delle loro funzioni, e' la seguente: "Giuro di essere fedele alla Repubblica italiana ed al suo Capo, di osservare lealmente le leggi dello Stato e della Regione e di esercitare con coscienza le funzioni inerenti al mio ufficio al solo scopo del bene inseparabile dello Stato e della Regione siciliana".
 
-###### Art. 7
+#### Art. 7
 
 I rappresentanti degli interessi professionali che devono partecipare alle riunioni delle Commissioni dell'Assemblea per la elaborazione dei progetti di legge ai sensi dell'art. 12 dello Statuto, sono nominati dalle stesse Commissioni di volta in volta, secondo le materie, fra i membri delle Camere di commercio, industria ed agricoltura, delle organizzazioni di datori di lavoro e di lavoratori e dei Consigli degli ordini professionali.
 
@@ -98,15 +96,13 @@ I rappresentanti previsti nei comma precedenti hanno voto consultivo.
 
 Il trattamento ad essi dovuto sara' determinato dall'Assemblea regionale.
 
-## SEZIONE II - Disposizioni relative al Presidente regionale
+### SEZIONE II - Disposizioni relative al Presidente regionale ed alla Giunta regionale.
 
-### ed alla Giunta regionale.
-
-###### Art. 8
+#### Art. 8
 
 Costituito l'ufficio definitivo di presidenza ai sensi dei precedente art. 3, l'Assemblea procedera', a scrutinio segreto, alla elezione del Presidente regionale, di otto assessori effettivi e di quattro supplenti.
 
-###### Art. 9
+#### Art. 9
 
 La elezione del Presidente regionale e' fatta a maggioranza assoluta di voti, e non e' valida se alla votazione non sono intervenuti i due terzi dei deputati assegnati alla Regione.
 
@@ -116,13 +112,13 @@ Quando nessun candidato abbia ottenuto la maggioranza assoluta predetta, l'elezi
 
 Ove nessuno ottenga la maggioranza assoluta di voti, si procede nella stessa seduta ad una votazione di ballottaggio, ed e' proclamato eletto chi ha conseguito il maggior numero di voti.
 
-###### Art. 10
+#### Art. 10
 
 Le elezioni degli assessori effettivi e supplenti avranno luogo con votazioni distinte, a scrutinio segreto, con l'intervento di almeno la meta' dei deputati assegnati alla Regione ed a maggioranza assoluta di voti.
 
 Dopo due votazioni consecutive si procede al ballottaggio fra i candidati che hanno riportato il maggior numero di voti nella seconda votazione, ed a parita' di voti rimane eletto il piu' anziano di eta'.
 
-###### Art. 11
+#### Art. 11
 
 La Giunta regionale delibera a maggioranza, assoluta di voti, ed in caso di parita' prevale il voto del presidente.
 
@@ -130,15 +126,11 @@ Le sue deliberazioni non sono valide se non interviene la meta' dei membri che l
 
 Gli assessori supplenti sostituiscono gli effettivi in caso di assenza o di impedimento.
 
-## TITOLO II - NORME GIURIDICHE EMANATE DALL'ASSEMBLEA
+## TITOLO II - NORME GIURIDICHE EMANATE DALL'ASSEMBLEA E DAL GOVERNO REGIONALE
 
-### E DAL GOVERNO REGIONALE
+### SEZIONE I - Disposizioni relative alla promulgazione e pubblicazione delle leggi e dei regolamenti.
 
-#### SEZIONE I - Disposizioni relative alla promulgazione e pubblicazione
-
-##### delle leggi e dei regolamenti.
-
-###### Art. 12
+#### Art. 12
 
 Per la promulgazione delle leggi approvate dall'Assemblea regionale sara' usata la seguente formula:
 
@@ -146,7 +138,7 @@ Per la promulgazione delle leggi approvate dall'Assemblea regionale sara' usata 
 
 "La presente legge sara' pubblicata nella Gazzetta Ufficiale della Regione siciliana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione".
 
-###### Art. 13
+#### Art. 13
 
 I regolamenti del Governo regionale sono emanati con decreto del Presidente regionale, previa deliberazione della Giunta regionale.
 
@@ -154,17 +146,15 @@ Per la promulgazione dei regolamenti sara' usata la seguente formula finale che 
 
 "Il presente decreto sara' pubblicato nella Gazzetta Ufficiale della Regione siciliana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare".
 
-###### Art. 14
+#### Art. 14
 
 Le leggi approvate dall'Assemblea regionale ed i regolamenti emanati dal Governo regionale, oltre che pubblicati nella Gazzetta Ufficiale della Regione siciliana, debbono essere pubblicati per notizia nella Gazzetta Ufficiale della Repubblica.
 
 Per la pubblicazione predetta, alle leggi e ai regolamenti della Regione sara' fatto lo stesso trattamento prescritto per la pubblicazione delle leggi e dei regolamenti dello Stato.
 
-## SEZIONE II - Disposizioni relative alla Gazzetta Ufficiale
+### SEZIONE II - Disposizioni relative alla Gazzetta Ufficiale della Regione siciliana.
 
-### della Regione siciliana.
-
-###### Art. 15
+#### Art. 15
 
 La pubblicazione della Gazzetta Ufficiale della Regione siciliana si fara' alla fine di ogni settimana, ed in via eccezionale quando occorre.
 
@@ -178,7 +168,7 @@ nella terza saranno pubblicati gli annunzi e gli avvisi di cui e' obbligatoria l
 
 I Fogli degli annunzi legali delle provincie sono sostituiti a tutti gli effetti dalla Gazzetta Ufficiale della Regione siciliana.
 
-###### Art. 16
+#### Art. 16
 
 La direzione, l'amministrazione e la redazione della "Gazzetta" sono affidate ad un ufficio dell'Amministrazione regionale.
 
@@ -186,7 +176,7 @@ Per le inserzioni, gli abbonamenti e per quant'altro non previsto dal presente d
 
 Disposizione finale.
 
-###### Art. 17
+#### Art. 17
 
 Le disposizioni del presente decreto rimarranno in vigore fino a quando non sara' altrimenti disposto dalle leggi regionali.
 

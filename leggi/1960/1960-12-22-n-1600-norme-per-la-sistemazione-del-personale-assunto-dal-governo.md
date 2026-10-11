@@ -26,11 +26,9 @@ la seguente legge:
 
 ## TITOLO I - PERSONALE CIVILE
 
-### Capo I
+### Capo I - Personale civile non di ruolo assunto con mansioni impiegatizie o salariali presso gli uffici delle Amministrazioni statali
 
-#### Personale civile non di ruolo assunto con mansioni impiegatizie o - salariali presso gli uffici delle Amministrazioni statali
-
-##### Art. 1
+#### Art. 1
 
 I benefici previsti dall'articolo 1 della legge 28 agosto 1954, n. 961, sono estesi agli impiegati civili non di ruolo in possesso dei prescritti requisiti, che siano stati assunti dopo il 1 maggio 1948 ed anteriormente al 26 ottobre 1954 a seguito di provvedimento della Amministrazione militare anglo-americana negli uffici delle Amministrazioni statali esistenti nel Territorio di Trieste e che si trovino attualmente in servizio negli uffici stessi.
 
@@ -38,15 +36,13 @@ Gli impiegati che, ai sensi del precedente comma, hanno titolo all'inquadramento
 
 La sistemazione contesa dai precedenti commi non puo' comunque avere decorrenza da data anteriore al 26 ottobre 1954, ed il periodo compreso tra la data di sistemazione ed il 1 luglio 1956 e' considerato come anzianita' di ruolo speciale transitorio.
 
-##### Art. 2
+#### Art. 2
 
 Al personale salariato assunto con provvedimento della, Amministrazione militare anglo-americana presso le Amministrazioni statali esistenti nel Territorio di Trieste, e tuttora in servizio, si applicano, con decorrenza non anteriore al 26 ottobre 1954, le disposizioni relative ai salariati dello Stato.
 
-## Capo II - Personale civile assunto con mansioni impiegatizie o salariali alle
+### Capo II - Personale civile assunto con mansioni impiegatizie o salariali alle dirette dipendenze dell'Amministrazione anglo-americana nel Territorio di Trieste
 
-### dirette dipendenze dell'Amministrazione anglo-americana nel - Territorio di Trieste
-
-##### Art. 3
+#### Art. 3
 
 E' istituito un "ruolo speciale ad esaurimento" tenuto dal Ministero del tesoro, nel quale sono inquadrati i cittadini italiani attualmente in servizio alle dipendenze del Commissariato generale del Governo per il Territorio di Trieste, come impiegati o come salariati gia' assunti alle dirette dipendenze dell'Amministrazione anglo-americana nella Venezia Giulia e nel Territorio stesso, compresi i dipendenti in servizio ininterrotto dal 25 ottobre 1954, della Sezione lavori aiuto-disoccupati del Dipartimento dei lavori pubblici (S.E.L.A.D.) e del Centro addestramento maestranze (C.A.M.).
 
@@ -54,7 +50,7 @@ Tale personale e' inquadrato nelle qualifiche o categorie di detto ruolo secondo
 
 Al personale inquadrato nel "ruolo speciale" sono estese, in quanto applicabili e per quanto non previsto dalla presente legge, le disposizioni relative allo stato giuridico al trattamento economico e di quiescenza del personale civile di ruolo dello Stato.
 
-##### Art. 4
+#### Art. 4
 
 Sul formale inquadramento delibera, entro centottanta giorni dalla data di entrata in vigore della presente legge, una apposita Commissione istituita presso la Presidenza del Consiglio dei Ministri, e composta da un magistrato del Consiglio di Stato, che la presiede, da un funzionario in servizio presso la Presidenza del Consiglio dei Ministri, da un funzionario del Ministero dell'interno e da un funzionario del Ministero del tesoro (Ragioneria generale dello Stato) con qualifica non inferiore a direttore di divisione, nonche' da un funzionario designato dal Commissario generale del Governo per il Territorio di Trieste. Per ciascun componente e' nominato un supplente.
 
@@ -64,11 +60,11 @@ L'assegnazione del personale alle singole Amministrazioni, anche con ordinamento
 
 I provvedimenti della Commissione sono definitivi.
 
-##### Art. 5
+#### Art. 5
 
 ((ARTICOLO SOPPRESSO DALLA L. 11 LUGLIO 1980, N. 312))
 
-##### Art. 6
+#### Art. 6
 
 Al personale inquadrato nel "ruolo speciale ad esaurimento" e' attribuita, con effetto dalla data di inquadramento, la retribuzione corrispondente al coefficiente o alla qualifica assegnata in applicazione delle tabelle A e B, tenendo conto della anzianita' di servizio per la determinazione degli aumenti periodici maturati dall'ultima promozione conseguita.
 
@@ -80,7 +76,7 @@ AGGIORNAMENTO (3)
 
 La L. 15 novembre 1973, n. 734 ha disposto (con l'art. 27) che gli assegni personali di cui agli articoli 6 e 28 della legge 22 dicembre 1960, n. 1600, sono ridotti mensilmente sino alla concorrenza dell'assegno perequativo pensionabile istituito con l'art. 1 della legge 15 novembre 1973, n. 734.
 
-##### Art. 7
+#### Art. 7
 
 Il servizio prestato dalla data di assunzione alle dipendenze dell'Amministrazione militare anglo-americana nella Venezia Giulia e nel Territorio di Trieste, e' riscattabile, ai fini del trattamento di quiescenza, con le modalita' ed alle condizioni previste dall'articolo 9, comma primo e terzo, del decreto legislativo 7 aprile 1948, n. 262.
 
@@ -88,7 +84,7 @@ Lo stesso personale ha facolta' di optare, entro sessanta giorni dalla data di c
 
 Il servizio prestato dalla data del 26 ottobre 1954 alle dipendenze del Commissariato generale del Governo del Territorio di Trieste, e' equiparato al servizio di ruolo prestato nelle Amministrazioni dello Stato, salvi gli effetti derivanti dall'esercizio del diritto di opzione per quanto attiene ai trattamento previdenziale.
 
-##### Art. 8
+#### Art. 8
 
 Gli impiegati del "ruolo speciale" sono trattenuti in servizio fino al compimento del 65° anno di eta' o del 40° anno di servizio.
 
@@ -96,7 +92,7 @@ I salariati inquadrati nel "ruolo speciale" sono trattenuti in servizio sino al 
 
 I dipendenti che alla scadenza dei termini predetti non abbiano ancora maturato il diritto al trattamento di quiescenza fruiscono di una anzianita' convenzionale ragguagliata ai periodo necessario per il conseguimento di tale diritto, fino ad un massimo di 5 anni.
 
-##### Art. 9
+#### Art. 9
 
 Il personale investito di funzioni giudiziarie dalla Amministrazione militare anglo-americana, cessa dalle funzioni medesime e sara' utilizzato per altre funzioni.
 
@@ -104,33 +100,31 @@ Si applicano ad esso le disposizioni di cui al presente capo.
 
 Ai fini dell'assegnazione del coefficiente di retribuzione detto personale e' equiparato al personale civile appartenente alla "super-categoria".
 
-##### Art. 10
+#### Art. 10
 
 Al personale inquadrato nel "ruolo speciale" si applicano le disposizioni del comma secondo dell'articolo 1 per il collocamento nei ruoli aggiunti.
 
 La domanda di collocamento nei ruoli aggiunti deve essere presentata, a pena di decadenza, non oltre sessanta giorni dal compimento dell'anzianita' di servizio stabilita dall'articolo 1 del decreto legislativo 7 aprile 1948, n. 262, e qualora l'anzianita' stessa sia gia' maturata alla data del provvedimento di inquadramento nel "ruolo speciale", non oltre sessanta giorni dalla data di comunicazione del provvedimento; all'atto della ammissione nel ruolo aggiunto l'interessato viene cancellato dal ruolo speciale.
 
-## Capo III - Istituzione dell'Ufficio regionale del lavoro e inquadramento del
+### Capo III - Istituzione dell'Ufficio regionale del lavoro e inquadramento del relativo personale
 
-### relativo personale
-
-##### Art. 11
+#### Art. 11
 
 E' istituito a Trieste l'Ufficio regionale del lavoro e della massima occupazione ai sensi ed agli effetti degli articoli 22 e 23 del decreto del Presidente della. Repubblica 19 marzo 1955, n. 520.
 
 Oltre ai compiti demandati dagli articoli citati, esso esercita anche azione di coordinamento e vigilanza sugli Uffici provinciali del lavoro e della massima occupazione di Gorizia e di Udine.
 
-##### Art. 12
+#### Art. 12
 
 In relazione alle esigenze di servizio derivanti dalla attuazione del precedente articolo i ruoli organici del personale degli uffici del lavoro, di cui ai quadri n. 17 delle carriere direttive, n. 35 delle carriere di concetto, n. 55 delle carriere esecutive e n. 75 delle carriere del personale ausiliario, allegati al decreto del Presidente della Repubblica 11 gennaio 1956, n. 16, sono sostituiti, rispettivamente, da quelli stabiliti dalle tabelle D, E, F, G, allegate alla presente legge.
 
-##### Art. 13
+#### Art. 13
 
 Il personale dipendente dal Commissariato generale del Governo per il Territorio di Trieste e in possesso dei requisiti prescritti per l'accesso alle carriere statali, gia' assunto dal Governo militare alleato nel Territorio medesimo per l'esigenza dei servizi, che istituzionalmente rientrano nell'attuale competenza degli organi centrali e periferici del Ministero del lavoro e della previdenza sociale, puo' essere inquadrato, su domanda da presentarsi coi relativi documenti al Commissariato generale del Governo entro sessanta giorni dalla data dell'entrata in vigore della presente legge, nei ruoli organici previsti dal precedente articolo 12 nei limiti dell'aumento derivanti dall'attuazione dello stesso articolo 12 e con i criteri fissati dagli articoli 14 e 15.
 
 In quanto applicabile, si osserva il disposto dell'articolo 47 del decreto del Presidente della Repubblica, 19 marzo 1955, n. 520.
 
-##### Art. 14
+#### Art. 14
 
 Nel ruolo della carriera direttiva puo' essere inquadrato il personale che sia provvisto del diploma di laurea e svolga almeno dal 26 ottobre 1954 funzioni proprie del ruolo stesso.
 
@@ -148,7 +142,7 @@ Ai fini dell'ammissione agli esami di concorso e di idoneita' per la promozione 
 
 Il collocamento nella qualifica di "agente tecnico", nel limite di due posti puo' essere effettuato per coloro i quali svolgono le mansioni di autista da data anteriore al 26 ottobre 1954, con il contemporaneo possesso della patente di guida richiesta dalle vigenti disposizioni.
 
-##### Art. 15
+#### Art. 15
 
 Il personale dipendente dal Commissariato generale del Governo per il Territorio di Trieste, in possesso dei requisiti prescritti per l'accesso agli impieghi statali, gia' assunto dal Governo militare alleato per le esigenze dei servizi indicati dal precedente articolo 13 che non chiede o non ottenga l'inquadramento ivi previsto e' mantenuto in servizio con il rapporto a contratto quinquennale disciplinato dal decreto legislativo 15 aprile 1948, n. 381, non oltre il 65° anno di eta'.
 
@@ -156,7 +150,7 @@ L'assegnazione alle singole qualifiche superiori alle iniziali delle categorie d
 
 In corrispondenza delle unita', trattenute in servizio con rapporto di impiego a contratto quinquennale a norma dei precedenti commi e fino alla loro cessazione dal servizio, devono essere mantenuti vacanti altrettanti posti nelle qualifiche inizali dei ruoli delle carriere di concetto, esecutive e del personale ausiliario degli uffici del lavoro, nei limiti degli aumenti risultanti dalle tabelle D, E, F e G, allegate alla presente legge.
 
-##### Art. 16
+#### Art. 16
 
 L'inquadramento nei ruoli organici e la assegnazione alle categorie di personale a contratto, in attuazione rispettivamente dei precedenti articoli 13, 14 e 15, sono disposti con decreto dei Ministro per il lavoro e la previdenza sociale, su proposta della Commissione prevista, dall'articolo 45 del decreto del Presidente della Repubblica 19 marzo 1955, n. 520, che a tal fine compila apposite graduatorie di merito.
 
@@ -166,13 +160,11 @@ La proposta, di cui al precedente primo comuni, deve essere formulata entro cent
 
 In quanto applicabile, si osserva il disposto degli articoli 6 e 7.
 
-## TITOLO II - PERSONALE DEI CORPI DI POLIZIA
+## TITOLO II - PERSONALE DEI CORPI DI POLIZIA DELLA VENEZIA GIULIA
 
-### DELLA VENEZIA GIULIA
+### Capo I - Collocamento in ruoli organici separati e limitati
 
-#### Capo I - Collocamento in ruoli organici separati e limitati
-
-##### Art. 17
+#### Art. 17
 
 Il personale dei Corpi della polizia della Venezia Giulia, della polizia amministrativa, della guardia di finanza, della soppressa "Divisione prigioni" e del Corpo forestale di Trieste, assunto dall'amministrazione anglo-americana nella Venezia Giulia ed in servizio alla data di entrata in vigore della presente legge, viene assunto in servizio rispettivamente nei Corpi delle guardie di pubblica, sicurezza, della guardia di finanza, e forestale dello Stato ed e' iscritto in ruoli separati e limitati sino al grado di maggiore presso detti Corpi in base alla tabella C di equiparazione allegata alla presente legge.
 
@@ -184,25 +176,23 @@ Per il personale i cui gradi vengono unificati in base alla tabella C, l'anziani
 
 L'anzianita' relativa e' determinata dalla valutazione comparativa dei meriti acquisiti durante il servizio prestato.
 
-##### Art. 18
+#### Art. 18
 
 Al formale inquadramento previsto dal precedente articolo provvederanno le Commissioni di avanzamento istituite per ciascuno dei Corpi delle guardie di pubblica sicurezza, della guardia di finanza e forestale dello Stato entro centottanta giorni dalla data di entrata in vigore della presente legge.
 
-##### Art. 19
+#### Art. 19
 
 Per l'attribuzione degli aumenti periodici di stipendio al personale di cui al presente capo verra' computato per l'intero periodo di servizio prestato nel Corpo di provenienza dalla data di promozione al grado rivestito.
 
 Si applicano, in quanto compatibili, le disposizioni degli articoli 6 e 7 della presente legge.
 
-##### Art. 20
+#### Art. 20
 
 A coloro che siano colpiti da limiti di eta' per la permanenza in servizio nel grado rivestito e non abbiano raggiunto l'anzianita' minima prevista per il trattamento di quiescenza, si applicano le disposizioni del terzo comma dell'articolo 8.
 
-## Capo II - Opzione per l'ammissione ai corsi di qualificazione e per
+### Capo II - Opzione per l'ammissione ai corsi di qualificazione e per l'inquadramento negli impieghi civili
 
-### l'inquadramento negli impieghi civili
-
-##### Art. 21
+#### Art. 21
 
 Il personale di cui al precedente capo, puo' chiedere entro sessanta giorni dall'entrata in vigore della presente legge:
 
@@ -216,7 +206,7 @@ AGGIORNAMENTO (2)
 
 La L. 6 agosto 1966, n. 631 ha disposto (con l'art. 3, comma 1) che "Agli impiegati inquadrati nel "Ruolo ad esaurimento", ai sensi degli articoli 21, lettera b) e 27 della legge 22 dicembre 1960, n. 1600, con la retribuzione corrispondente ai coefficienti 131 e 180, di cui alla tabella C allegata alla legge stessa, e' attribuito, dal 1 gennaio 1966, il trattamento economico iniziale corrispondente rispettivamente agli ex coefficienti 180 e 202".
 
-##### Art. 22
+#### Art. 22
 
 Il personale che gode di trattamento di pensione ordinaria non privilegiata a carico dello Stato puo' chiedere:
 
@@ -224,7 +214,7 @@ a) l'inquadramento negli impieghi delle Amministrazioni civili dello Stato ai se
 
 b) entro sessanta giorni dalla entrata in vigore della presente legge, l'esonero dal servizio e la rivalutazione dello pensione per il servizio prestato nel Corpo di provenienza, e per il grado raggiunto, a norma della citata legge 11 aprile 1938, n. 420, e successive modificazioni.
 
-##### Art. 23
+#### Art. 23
 
 Gli aspiranti ai corsi debbono essere in possesso, alla data di entrata in vigore della presente legge, dei seguenti requisiti:
 
@@ -246,13 +236,13 @@ b) per l'ammissione ai corsi per la nomina a guardia o grado corrispondente:
 
 3\) essere in possesso degli altri requisiti, ad eccezione dello stato di celibe o di vedovo senza prole, prescritti per l'arruolamento nel Corpo delle guardie di pubblica, sicurezza, delle guardie di finanza, degli agenti di custodia o foresta, le dello Stato.
 
-##### Art. 24
+#### Art. 24
 
 I corsi di qualificazione per la nomina a sottotenente hanno la durata di nove mesi; i corsi di qualificazione per la nomina a guardia e grado corrispondente, hanno la durata di tre mesi.
 
 I corsi predetti sono effettuati nei termini e con le modalita' che saranno stabilite con decreto dei Ministri competenti.
 
-##### Art. 25
+#### Art. 25
 
 Gli aspiranti ammessi ai corsi di qualificazione per la nomina a sottotenente, guardia e gradi corrispondenti sono, con decorrenza dalla data di inizio dei corsi, assunti in via di esperimento nel grado rispettivamente di sottotenente, guardia o grado corrispondente, con diritto al trattamento economico iniziale di tale grado.
 
@@ -266,13 +256,13 @@ Non possono essere coperti col personale nominate ai sensi dei precedenti commi 
 
 I posti in soprannumero, che si determinano in applicazione del presente articolo, saranno riassorbiti per i gradi di sottotenente, guardia e gradi corrispondenti con un terzo delle successive vacanze nei gradi stessi.
 
-##### Art. 26
+#### Art. 26
 
 Coloro i quali abbiano presentato domanda di ammissione ai corsi di qualificazione di cui ai precedenti articoli e non l'abbiano ottenuta per mancanza di requisiti, che non costituiscano impedimento alla nomina negli impieghi civili dello Stato, possono chiedere l'inquadramento negli impieghi stessi secondo le modalita' indicate nel precedente articolo 21.
 
 Gli aspiranti ammessi ai corsi di qualificazione che non conseguano la nomina a sottotenente o guardia cessano dal servizio dalla data di comunicazione della dichiarazione di inidoneita'. A tale personale e' corrisposta una indennita' pari a tante mensilita' dello stipendio percepito nel Corpo di provenienza quanti sono gli anni di servizio prestati nei Corpi stessi.
 
-##### Art. 27
+#### Art. 27
 
 L'inquadramento previsto dal primo comma, lettera b) del precedente articolo 21 si effettua assegnando tale personale al coefficiente corrispondente al grado in cui sarebbe stato collocato nel soprannumero ai sensi della tabella di equiparazione C. ((2))
 
@@ -282,7 +272,7 @@ AGGIORNAMENTO (2)
 
 La L. 6 agosto 1966, n. 631 ha disposto (con l'art. 3, comma 1) che "Agli impiegati inquadrati nel "Ruolo ad esaurimento", ai sensi degli articoli 21, lettera b) e 27 della legge 22 dicembre 1960, n. 1600, con la retribuzione corrispondente ai coefficienti 131 e 180, di cui alla tabella C allegata alla legge stessa, e' attribuito, dal 1 gennaio 1966, il trattamento economico iniziale corrispondente rispettivamente agli ex coefficienti 180 e 202".
 
-##### Art. 28
+#### Art. 28
 
 Al personale collocato nel soprannumero di cui all'articolo 17 e a quello inquadrato negli impieghi delle Amministrazioni civili dello Stato di cui al precedente articolo 21 e' attribuito on assegno personale non riassorbibile negli scatti biennali e negli aumenti determinati dal carico di famiglia pari all'eventuale differenza fra il totale degli emolumenti spettantigli al momento della entrata in vigore della presente legge ed il totale degli emolumenti derivanti dalla sua applicazione. ((3))
 
@@ -292,7 +282,7 @@ AGGIORNAMENTO (3)
 
 La L. 15 novembre 1973, n. 734 ha disposto (con l'art. 27) che gli assegni personali di cui agli articoli 6 e 28 della legge 22 dicembre 1960, n. 1600, sono ridotti mensilmente sino alla concorrenza dell'assegno perequativo pensionabile istituito con l'art. 1 della legge 15 novembre 1973, n. 734.
 
-##### Art. 29
+#### Art. 29
 
 Il servizio prestato antecedentemente alla entrata in Singole della presente legge nei Corpi di polizia istituiti dall'Amministrazione anglo-americana nella Venezia Giulia e' considerato valido agli effetti delle assicurazioni sociali obbligatorie anche per coloro che sono comunque cessati dal servizio.
 
@@ -304,13 +294,13 @@ Nei centottanta giorni successivi, gli interessati, anche se precedentemente dec
 
 ## TITOLO III - DISPOSIZIONI FINALI
 
-##### Art. 30
+#### Art. 30
 
 Al personale previsto dalla presente legge che gode un trattamento di pensione ordinaria, diretta, non privilegiata a carico dello Stato, si applica la legge 11 aprile 1938, n. 420, e successive modificazioni.
 
 Al personale che gode un trattamento di pensione ordinaria non privilegiata, a carico di un ente pubblico, o di azienda annessa, viene detratto dalla retribuzione spettante ai sensi della presente legge l'importo della pensione in godimento.
 
-##### Art. 31
+#### Art. 31
 
 Al personale che presenta domanda di cessazione dal servizio entro centottanta giorni dalla data di entrata in vigore della presente legge, e' concesso, in aggiunta all'indennita' di anzianita' stabilita, dall'ordinamento che disciplina il relativo rapporto, una somma pari a due mensilita' della retribuzione complessiva in godimento quanti sono gli anni di servizio lino ad un massimo di dodici anni.
 
@@ -318,7 +308,7 @@ La cessazione dal servizio prevista ai sensi del precedente comma e' disposta da
 
 Il personale che fruisca delle disposizioni del presente articolo non potra' essere riassunto alle dipendenze dello Stato salvo che per pubblico concorso.
 
-##### Art. 32
+#### Art. 32
 
 A favore di tutto il personale di cui alla presente legge viene abbuonata l'indennita' per anzianita' di servizio percepita per il servizio prestato presso l'Amministrazione anglo-americana.
 
@@ -326,7 +316,7 @@ Nel caso di nomina nei ruoli organici o di sistemazione nei ruoli aggiunti, il s
 
 Qualora la nuova retribuzione risulti inferiore, verra' corrisposto un assegno personale, non riassorbibile negli scatti biennali e negli aumenti determinati dal carico di famiglia, pari alla differenza tra gli assegni percepiti e quelli spettanti nella nuova posizione giuridica.
 
-##### Art. 33
+#### Art. 33
 
 Al personale previsto dalla presente legge che chieda il collocamento a riposo entro centottanta giorni dalla data di comunicazione del provvedimento di inquadramento, e' attribuita una anzianita' convenzionale pari al periodo necessario per maturare l'anzianita' minima richiesta per ottenere il trattamento di quiescenza.
 
@@ -334,15 +324,15 @@ Tale anzianita' convenzionale non potra' comunque superare i cinque anni e vale 
 
 Il computo dell'anzianita' di servizio, ai fini dell'applicazione del presente articolo, viene fatto con riferimento alla data di cessazione dal servizio.
 
-##### Art. 34
+#### Art. 34
 
 Per l'inquadramento del personale femminile di polizia che non abbia fatto domanda ai sensi dell'articolo 14 della legge 7 dicembre 1959, n. 1083, o la cui domanda non sia stata accettata, oppure intenda optare per l'inquadramento nel personale civile, si osservano i criteri stabiliti dall'articolo 28.
 
-##### Art. 35
+#### Art. 35
 
 Al personale di cui al decreto del Commissario generale del Governo per il Territorio di Trieste 30 novembre 1954, n. 54, e' attribuito, dalla data di entrata in vigore della presente legge, il trattamento economico o di quiescenza relativo al grado rivestito precedentemente all'applicazione del decreto medesimo.
 
-##### Art. 36
+#### Art. 36
 
 Agli oneri dipendenti dalla attuazione della presente legge si provvedera' a carico dei fondi, a disposizione del Commissario generale del Governo per il Territorio di Trieste, destinati alle occorrenze relative al Territorio medesimo.
 
@@ -360,7 +350,7 @@ Visto, il Guardasigilli: GONELLA
 
 ## TITOLO III - DISPOSIZIONI FINALI
 
-##### Tabella A
+#### Tabella A
 
 TABELLA A.
 
@@ -380,7 +370,7 @@ Super categoria...................................... 500
 
 5ª categoria......................................... 202
 
-##### Tabella B
+#### Tabella B
 
 TABELLA B.
 
@@ -418,7 +408,7 @@ zate
 
 A/4-C/5-D/5 operaie comuni 6ª categoria: operaie comuni
 
-##### Tabella C
+#### Tabella C
 
 TABELLA C.
 
@@ -446,19 +436,19 @@ Caporale......................... Brigadiere............ 180
 
 Guardia.......................... Guardia............... 131
 
-##### Tabella D
+#### Tabella D
 
 TABELLA D.
 
 ((Parte di provvedimento in formato grafico))
 
-##### Tabella E
+#### Tabella E
 
 TABELLA E.
 
 ((Parte di provvedimento in formato grafico))
 
-##### Tabella F
+#### Tabella F
 
 TABELLA F.
 
@@ -498,7 +488,7 @@ Nella carriera di cui al punto a) sono inquadrati, previo giudizio favorevole de
 
 Ha inoltre disposto (con l'art. 153) che la presente modifica ha effetto dal 1 luglio 1970.
 
-##### Tabella G
+#### Tabella G
 
 TABELLA G.
 

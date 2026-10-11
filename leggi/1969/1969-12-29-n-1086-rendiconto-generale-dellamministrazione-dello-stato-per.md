@@ -30,7 +30,7 @@ la seguente legge:
 
 ## ENTRATE E SPESE DI COMPETENZA DELL'ESERCIZIO FINANZIARIO 1962-63
 
-### Art. 1
+## Art. 1
 
 Le entrate ordinarie e straordinarie dello Stato, accertate nell'esercizio finanziario 1962-63 per la competenza propria dell'esercizio stesso, sono stabilite, quali risultano dal conto consuntivo del bilancio,
 
@@ -46,7 +46,7 @@ rimasero da versare.......L. 194.789.239.865
 
 L.5.087.378.778.614 e rimasero da riscuotere....................... L. 325.529.067.519
 
-### Art. 2
+## Art. 2
 
 Le spese ordinarie e straordinarie dello Stato, accertate nell'esercizio finanziario 1962-63 per la competenza propria dell'esercizio stesso, sono stabilite, quali risultano dal conto consuntivo del bilancio,
 
@@ -56,7 +56,7 @@ in............................................. L. 6.110.366.260.617 delle quali
 
 e rimasero da pagare........................... L. 1.580.291.134.654
 
-### Art. 3
+## Art. 3
 
 Il riepilogo generale dei risultati delle entrate e delle spese di competenza dell'esercizio finanziario 1962-63, rimane cosi' stabilito:
 
@@ -72,7 +72,7 @@ Entrate........................................ L. 5.412.907.846.133 Spese......
 
 ## ENTRATE E SPESE RESIDUE DELL'ESERCIZIO 1961-62 ED ESERCIZI PRECEDENTI
 
-### Art. 4
+## Art. 4
 
 I residui attivi alla chiusura dell'esercizio 1961-62 restano determinati, come dal conto consuntivo del bilancio,
 
@@ -86,7 +86,7 @@ rimasero da versare........L. 192.766.175.089
 
 L. 584.348.668.310 e rimasero da riscuotere al 30 giugno 1963..... L. 354.705.885.218
 
-### Art. 5
+## Art. 5
 
 I residui passivi alla chiusura dell'esercizio 1961-62 restano determinati, come dal conto consuntivo del bilancio,
 
@@ -94,7 +94,7 @@ in............................................. L. 2.471.875.223.682 dei quali f
 
 ## RESIDUI ATTIVI E PASSIVI ALLA CHIUSURA DELL'ESERCIZIO FINANZIARIO - 1962-63
 
-### Art. 6
+## Art. 6
 
 I residui attivi alla chiusura dell'esercizio finanziario 1962-63, sono stabiliti, come dal conto consuntivo del bilancio, nelle seguenti somme:
 
@@ -108,7 +108,7 @@ degli esercizi precedenti (articolo 4)......... L. 354.705.885.218 Somme riscoss
 
 (colonna s del riassunto generale)............. L. 387.555.414.954 Residui attivi al 30 giugno 1963.... L. 1.067.790.367.691
 
-### Art. 7
+## Art. 7
 
 I residui passivi alla chiusura dell'esercizio finanziario 1962-63 sono stabiliti, come dal conto consuntivo del bilancio, nelle seguenti somme:
 
@@ -122,7 +122,7 @@ esercizi precedenti (articolo 5)............... L. 1.342.040.862.653 Residui pas
 
 ## SITUAZIONE FINANZIARIA
 
-### Art. 8
+## Art. 8
 
 E' accertato nella somma di lire 5.660.955.790.778,05 il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 1962-63 come risulta dai seguenti dati:
 
@@ -168,11 +168,11 @@ di contabilita generale ......................L. 4.733.015 - Totale del passivo.
 
 ## DISPOSIZIONI SPECIALI
 
-### Art. 9
+## Art. 9
 
 Sono stabiliti nella somma di lire 4.733.015 i discarichi consentiti, nell'esercizio 1962-63, ai tesorieri per casi di forza maggiore, ai sensi dell'articolo 194 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato approvato con regio decreto 23 maggio 1924, n. 827.
 
-### Art. 10
+## Art. 10
 
 Sono approvate le eccedenze d'impegno risultate in sede di consuntivo sul conto della competenza, ai sottoindicati capitoli dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1962-63:
 
@@ -182,7 +182,7 @@ Capitolo n. 30. - Somme occorrenti per la regolazione delle quote di entrate era
 
 ## AMMINISTRAZIONI ED AZIENDE SPECIALI - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-### Art. 11
+## Art. 11
 
 Le entrate ordinarie e straordinarie del bilancio dell'Amministrazione dei monopoli di Stato, accertate nell'esercizio finanziario 1962-63, per la competenza propria dell'esercizio medesimo, sono stabilite, quali risultano dal conto consuntivo dell'Amministrazione stessa, allegato al consuntivo del Ministero delle finanze,
 
@@ -198,13 +198,13 @@ L.145.074.041.616
 
 e rimasero da riscuotere......................... L. 810.969.122
 
-### Art. 12
+## Art. 12
 
 Le spese ordinarie e straordinarie del bilancio dell'amministrazione predetta, accertate nell'esercizio finanziario 1962-63 per la competenza propria dell'esercizio stesso,
 
 sono stabilite in................................. L. 145.885.010.738 delle quali furono pagate........................L. 118.071.178.269 e rimasero da pagare.............................L. 27.813.832.469
 
-### Art. 13
+## Art. 13
 
 I residui attivi alla chiusura dell'esercizio
 
@@ -218,13 +218,13 @@ rimasero da versare.......... L. 2.450
 
 L. 2.219.674.278 e rimasero da riscuotere al 30 giugno 1963......L. 441.560.352
 
-### Art. 14
+## Art. 14
 
 I residui passivi alla chiusura dell'esercizio
 
 1961-62, restano determinati in.................. L. 39.905.232.161 dei quali furono pagati nel 1962-63............ L. 32.375.696.510 e rimasero da pagare al 30 giugno 1963......... L. 7.529.535.651
 
-### Art. 15
+## Art. 15
 
 I residui attivi alla chiusura dell'esercizio finanziario 1962-63 sono stabiliti nelle seguenti somme:
 
@@ -238,7 +238,7 @@ degli esercizi precedenti (articolo 13).......... L. 441.560.352 Somme riscosse 
 
 (colonna s del riepilogo dell'entrata) .......... L. 1.300.713.851 Residui attivi al 30 giugno 1963... L. 2.553.243.325
 
-### Art. 16
+## Art. 16
 
 I residui passivi alla chiusura dell'esercizio finanziario 1962-63 sono stabiliti nelle seguenti somme:
 
@@ -250,7 +250,7 @@ finanziario 1962-63 (articolo 12)................ L. 27.813.832.469 Somme rimast
 
 esercizi precedenti (articolo 14)................ L. 7.529.535.651 Residui passivi al 30 giugno 1963... L. 35.343.368.120
 
-### Art. 17
+## Art. 17
 
 La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dell'esercizio finanziario 1962-63, risulta come appresso:
 
@@ -262,13 +262,13 @@ Speso dell'esercizio 1962-63..................... L. 145.885.010.738
 
 ## AZIENDA MONOPOLIO BANANE
 
-### Art. 18
+## Art. 18
 
 Le entrate ordinarie e straordinarie dell'Azienda monopolio banane accertate nell'esercizio finanziario 1962-63, per la competenza propria dell'esercizio medesimo, sono stabilite, quali risultano dal conto consuntivo dell'amministrazione stessa, allegato al conto consuntivo del Ministero delle finanze,
 
 in............................................... L. 30.416.787.007 delle quali furono riscosse e versate............ L. 29.761.404.577 e rimasero da riscuotere......................... L. 655.382.430
 
-### Art. 19
+## Art. 19
 
 Le spese ordinarie e straordinarie dell'azienda predetta, accertate nell'esercizio finanziario 1962-63, per la competenza propria dell'esercizio stesso,
 
@@ -278,7 +278,7 @@ delle quali furono pagate........................ L. 16.423.892.070
 
 e rimasero da pagare............................. L. 13.992.894.937
 
-### Art. 20
+## Art. 20
 
 I residui attivi alla chiusura dell'esercizio 1961-62 restano determinati
 
@@ -286,13 +286,13 @@ in............................................... L. 295.791.385 dei quali nell'
 
 riscossi e versati............................. L. 287.956.550 e rimasero da riscuotere al 30 giugno 1963....... L. 7.834.835
 
-### Art. 21
+## Art. 21
 
 I residui passivi alla chiusura dell'esercizio 1961-62 restano determinati
 
 in............................................... L. 13.785.110.692 dei quali furono pagati nel 1962-63.............. L. 13.772.744.539 e rimasero da pagare al 30 giugno 1963........... L. 12.366.153
 
-### Art. 22
+## Art. 22
 
 I residui attivi alla chiusura dell'esercizio finanziario 1962-63 sono stabiliti nelle seguenti somme:
 
@@ -308,7 +308,7 @@ degli esercizi precedenti (articolo 20).......... L. 7.834.835 Somme riscosse e 
 
 Residui attivi al 30 giugno 1963... L. 663.217.265
 
-### Art. 23
+## Art. 23
 
 I residui passivi alla chiusura dell'esercizio finanziario 1962-63 sono stabiliti nelle seguenti somme:
 
@@ -324,7 +324,7 @@ Residui passivi al 30 giugno 1963... L. 14.005.261.090
 
 ## ARCHIVI NOTARILI
 
-### Art. 24
+## Art. 24
 
 E' approvato il conto consuntivo degli Archivi notarili, per l'esercizio 1962-63, nelle risultanze seguenti:
 
@@ -332,19 +332,19 @@ Entrate. . . . . . . . . . . . . . . . . . . . . . . L. 8.533.615.144 Spese. . .
 
 ## ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-### Art. 25
+## Art. 25
 
 Le entrate dell'Istituto agronomico per l'oltremare, accertate nell'esercizio finanziario 1962-63, per la competenza propria dell'esercizio medesimo, sono stabilite, quali risultano dal conto consuntivo dell'Istituto stesso, allegato al conto consuntivo del Ministero degli affari esteri per l'esercizio finanziario predetto,
 
 in............................................... L. 79.760.565 delle quali furono riscosse e versate............ L. 74.601.245 e rimasero da riscuotere......................... L. 5.159.320
 
-### Art. 26
+## Art. 26
 
 Le spese dell'istituto predetto, accertate nell'esercizio finanziario 1962-63, per la competenza propria dell'esercizio medesimo,
 
 sono stabilite in................................ L. 79.760.565 delle quali furono pagate........................ L. 71.894.735 e rimasero da pagare............................. L. 7.865.830
 
-### Art. 27
+## Art. 27
 
 I residui attivi alla chiusura dell'esercizio
 
@@ -352,13 +352,13 @@ I residui attivi alla chiusura dell'esercizio
 
 riscossi e versati............................... L. 3.378.000 e rimasero da riscuotere al 30 giugno 1963....... L. 60.000
 
-### Art. 28
+## Art. 28
 
 I residui passivi alla chiusura dell'esercizio
 
 1961-62 restano determinati in................... L. 14.680.981 dei quali furono pagati nel 1962-63.............. L. 6.092.715 e rimasero da pagare al 30 giugno 1963........... L. 8.588.266
 
-### Art. 29
+## Art. 29
 
 I residui attivi alla chiusura dell'esercizio 1962-63 sono stabiliti nelle seguenti somme:
 
@@ -374,7 +374,7 @@ degli esercizi precedenti (articolo 27).......... L. 60.000 Somme riscosse e non
 
 Residui attivi al 30 giugno 1963... L. 5.219.320
 
-### Art. 30
+## Art. 30
 
 I residui passivi alla chiusura dell'esercizio 1962-63 sono stabiliti nelle seguenti somme:
 
@@ -386,7 +386,7 @@ finanziario 1962-63 (articolo 26) ............... L. 7.865.830 Somme rimaste da 
 
 esercizi precedenti (articolo 28)................ L. 8.588.266 Residui passivi al 30 giugno 1963... L. 16.454.096
 
-### Art. 31
+## Art. 31
 
 Sono approvate le eccedenze di impegno risultate in sede di consuntivo, sul conto della competenza, ai sottoindicati articoli dello stato di previsione nella spesa dell'Istituto agronomico per l'oltremare per l'esercizio finanziario 1962-63:
 
@@ -398,7 +398,7 @@ personale operaio e relativi oneri previdenziali. L. 325.000
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-### Art. 32
+## Art. 32
 
 Le entrate ordinarie e straordinarie del bilancio dell'Amministrazione del Fondo per il culto, accertate nell'esercizio finanziario 1962-63 per la competenza propria dell'esercizio medesimo, sono stabilite, quali risultano dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'Interno,
 
@@ -412,13 +412,13 @@ rimasero da versare................. L. 1.278.380
 
 L. 139.319.211 e rimasero da riscuotere......................... L. 15.051.386.096
 
-### Art. 33
+## Art. 33
 
 Le spese ordinarie e straordinarie del bilancio dell'amministrazione predetta, accertate nell'esercizio finanziario 1962-63 per la competenza propria dell'esercizio stesso,
 
 sono stabilite in................................ L. 15.206.963.389 delle quali furono pagate........................ L. 14.372.621.549 e rimasero da pagare............................. L. 834.341.840
 
-### Art. 34
+## Art. 34
 
 I residui attivi alla chiusura dell'esercizio 1961-62, restano determinati
 
@@ -432,13 +432,13 @@ rimasero da versare............... L. 1.672
 
 L. 2 5.852.616.133 e rimasero da riscuotere al 30 giugno 1963....... L. 342.379.345
 
-### Art. 35
+## Art. 35
 
 I residui passivi alla chiusura dell'esercizio
 
 1961-62 restano determinati in.................... L. 1.749.014.027 dei quali furono pagati nel 1962-63............... L. 1.251.078.244 e rimasero da pagare al 30 giugno 1963............ L. 497.935.783
 
-### Art. 36
+## Art. 36
 
 I residui attivi alla chiusura dell'esercizio finanziario 1962-63 sono stabiliti nelle seguenti somme:
 
@@ -452,7 +452,7 @@ esercizi precedenti (articolo 34)................ L. 342.379.345 Somme riscosse 
 
 (colonna s del riepilogo dell'entrata) .......... L. 1.280.052 Residui attivi al 30 giugno 1963... L. 15.395.045.493
 
-### Art. 37
+## Art. 37
 
 I residui passivi alla chiusura dell'esercizio finanziario 1962-63 sono stabiliti nelle seguenti somme:
 
@@ -464,7 +464,7 @@ finanziario 1962-63 (articolo 33)................ L. 834.341.840 Somme rimaste d
 
 esercizi precedenti (articolo 35)................ L. 497.935.783 Residui passivi al 30 giugno 1963... L. 1.332.277.623
 
-### Art. 38
+## Art. 38
 
 E' accertato nella somma di lire 24.337.823,30 il saldo attivo del conto finanziario dell'Amministrazione del Fondo per il culto alla fine dell'esercizio 1962-63, come risulta dai seguenti dati:
 
@@ -508,7 +508,7 @@ Saldo attivo al 30 giugno 1963... L. 24.337.823,30 Totale a pareggio dell'attivo
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-### Art. 39
+## Art. 39
 
 Le entrate ordinarie e straordinarie del bilancio del Fondo di beneficenza e di religione nella citta' di Roma, accertate nell'esercizio 1962-63, per la competenza propria dell'esercizio medesimo sono stabilite, quali risultano dal conto consuntivo di detta amministrazione, allegato al conto consuntivo del Ministero dell'interno,
 
@@ -522,13 +522,13 @@ rimasero da versare................ L. 1.290
 
 L. 3.862.754 e rimasero da riscuotere......................... L. 382.482.370
 
-### Art. 40
+## Art. 40
 
 Le spese ordinarie e straordinarie del bilancio dell'amministrazione predetta, accertate nell'esercizio finanziario 1962-63, per la competenza propria dell'esercizio medesimo,
 
 sono stabilite in................................ L. 399.029.054 delle quali furono pagate....................... L. 212.671.273 e rimasero da pagare............................. L. 186.357.781
 
-### Art. 41
+## Art. 41
 
 I residui attivi alla chiusura dell'esercizio
 
@@ -542,13 +542,13 @@ rimasero da versare............... L. 40
 
 L. 572.951.297 e rimasero da riscuotere al 30 giugno 1963....... L. 972.589
 
-### Art. 42
+## Art. 42
 
 I residui passivi alla chiusura dell'esercizio
 
 1961-62 restano determinati in................... L. 166.581.879 dei quali furono pagati nel 1962-63.............. L. 152.698.882 e rimasero da pagare al 30 giugno 1963........... L. 13.882.997
 
-### Art. 43
+## Art. 43
 
 I residui attivi alla chiusura dell'esercizio 1962-63 sono stabiliti nelle seguenti somme:
 
@@ -568,7 +568,7 @@ Somme riscosse e non versate
 
 Residui ((attivi)) al 30 giugno 1963... L. 383.456.289
 
-### Art. 44
+## Art. 44
 
 I residui passivi alla chiusura dell'esercizio finanziario 1962-63 sono stabiliti nelle seguenti somme:
 
@@ -580,7 +580,7 @@ dell'esercizio finanziario 1962-63 (articolo 40). L. 186.357.781 Somme rimaste d
 
 degli esercizi precedenti (articolo 42).......... L. 13.882.997 Residui passivi al 30 giugno 1963... L. 200.240.778
 
-### Art. 45
+## Art. 45
 
 E' accertato nella somma di lire 2.492.265,58 il saldo attivo del conto finanziario del Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1962-63, come risulta dai seguenti dati:
 
@@ -624,19 +624,19 @@ Saldo attivo al 30 giugno 1963................... L. 2.492.265,58 Totale a pareg
 
 ## AZIENDA DEI PATRIMONI RIUNITI EX ECONOMALI
 
-### Art. 46
+## Art. 46
 
 Le entrate ordinarie e straordinarie dell'Azienda dei patrimoni riuniti ex economali, accertate nell'esercizio finanziario 1962-63, per la competenza propria dell'esercizio stesso, sono stabilite, quali risultano dal conto consuntivo dell'amministrazione medesima, allegato al conto consuntivo del Ministero dell'interno,
 
 in............................................... L. 404.614.496 delle quali furono riscosse e versate............ L. 242.042.961 e rimasero da riscuotere......................... L. 162.571.535
 
-### Art. 47
+## Art. 47
 
 Le spese ordinarie e straordinarie dell'azienda predetta, accertate nell'esercizio finanziario 1962-63 per la competenza propria dell'esercizio stesso, sono stabilite, quali risultano dal conto consuntivo
 
 in............................................... L. 411.567.483 delle quali furono pagate........................ L. 219.132.428 e rimasero da pagare............................. L. 192.435.055
 
-### Art. 48
+## Art. 48
 
 I residui attivi alla chiusura dell'esercizio finanziario 1961-62 restano determinati, come dal conto consuntivo dell'azienda,
 
@@ -650,7 +650,7 @@ rimasero da versare................ L. 1.390
 
 L. 51.054.888 e rimasero da riscuotere al 30 giugno 1963....... L. 5.064.960
 
-### Art. 49
+## Art. 49
 
 I residui passivi alla chiusura dell'esercizio
 
@@ -658,7 +658,7 @@ I residui passivi alla chiusura dell'esercizio
 
 consuntivo dell'azienda, in....................... L. 110.730.106 dei quali furono pagati nel 1962-63............... L. 70.126.304 e rimasero da pagare al 30 giugno 1963............ L. - 40.603.802
 
-### Art. 50
+## Art. 50
 
 I residui attivi alla chiusura dell'esercizio finanziario 1962-63 sono stabiliti, come dal conto consuntivo dell'azienda, nelle seguenti somme:
 
@@ -672,7 +672,7 @@ degli esercizi precedenti (articolo 48).......... L. 5.064.960 Somme riscosse e 
 
 (colonna s del riepilogo dell'entrata)........... L. 1.390 Residui attivi al 30 giugno 1963... L. 167.637.885
 
-### Art. 51
+## Art. 51
 
 I residui passivi alla chiusura dell'esercizio finanziario 1962-63 sono stabiliti, come dal conto consuntivo dell'azienda, nelle seguenti somme:
 
@@ -684,7 +684,7 @@ per la competenza propria dell'esercizio 1962-63
 
 esercizi precedenti (articolo 49)................ L. 40.603.802 Residui passivi al 30 giugno 1963... L. 233.038.857
 
-### Art. 52
+## Art. 52
 
 E' accertato nella somma di lire 15.130.712,88 il saldo attivo del conto finanziario dell'Azienda dei patrimoni riuniti ex economali, alla fine dell'esercizio 1962-63, come risulta dai seguenti dati:
 
@@ -730,19 +730,19 @@ Saldo attivo al 30 giugno 1963... L. 15.130.712,88 Totale a pareggio dell'attivo
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE
 
-### Art. 53
+## Art. 53
 
 Le entrate ordinarie e straordinarie del bilancio dell'Azienda nazionale autonoma delle strade accertate nell'esercizio finanziario 1962-63, per la competenza propria dell'esercizio medesimo, quali risultano dal conto consuntivo dell'amministrazione stessa, allegato al consuntivo del Ministero dei lavori pubblici,
 
 sono stabilite in................................ L. 174.586.182.963 delle quali furono riscosse e versate............ L. 112.484.226.712 e rimasero da riscuotere......................... L. 62.101.956.251
 
-### Art. 54
+## Art. 54
 
 Le spese ordinarie e straordinarie del bilancio dell'amministrazione predetta, accertate nell'esercizio finanziario 1962-63 per la competenza propria dell'esercizio medesimo,
 
 sono stabilite in................................ L. 174.586.182.963 delle quali furono pagate........................ L. 64.835.660.626 e rimasero da pagare............................. L. 109.750.522.337
 
-### Art. 55
+## Art. 55
 
 I residui attivi alla chiusura dell'esercizio
 
@@ -750,13 +750,13 @@ I residui attivi alla chiusura dell'esercizio
 
 riscossi e versati............................... L. 36.476.785.120 e rimasero da riscuotere al 30 giugno 1963....... L. 46.022.257.979
 
-### Art. 56
+## Art. 56
 
 I residui passivi alla chiusura dell'esercizio
 
 1961-62 restano determinati in................... L. 129.972.909.448 dei quali furono pagati nel 1962-63.............. L. 44.765.933.475 e rimasero da pagare al 30 giugno 1963........... L. 85.206.975.973
 
-### Art. 57
+## Art. 57
 
 I residui attivi alla chiusura dell'esercizio 1962-63 sono stabiliti nelle seguenti somme:
 
@@ -772,7 +772,7 @@ degli esercizi precedenti (articolo 55).......... L. 46.022.257.979 Somme riscos
 
 Residui attivi al 30 giugno 1963... L. 108.124.214.230
 
-### Art. 58
+## Art. 58
 
 I residui passivi alla chiusura dell'esercizio 1962-63 sono stabiliti nelle seguenti somme:
 
@@ -786,19 +786,19 @@ degli esercizi precedenti (articolo 56).......... L. 85.206.975.973 esidui passi
 
 ## AMMINISTRAZIONE DELLE POSTE E DEI TELEGRAFI
 
-### Art. 59
+## Art. 59
 
 Le entrate ordinarie e straordinarie del bilancio dell'Amministrazione delle poste e dei telegrafi, accertate nell'esercizio 1962-63 per la competenza propria dell'esercizio medesimo, sono stabilite, come risulta dal conto consuntivo dell'amministrazione stessa, allegato al conto consuntivo del Ministero delle poste e delle telecomunicazioni per l'esercizio finanziario predetto,
 
 in............................................... L. 309.145.336.921 delle quali furono riscosse e versate............ L. 194.073.625.485 e rimasero da riscuotere......................... L. 115.071.711.436
 
-### Art. 60
+## Art. 60
 
 Le spese ordinarie e straordinarie del bilancio dell'amministrazione predetta, accertate nell'esercizio 1962-63 per, la competenza propria dell'esercizio medesimo,
 
 sono stabilite in................................ L. 309.145.336.921 delle quali furono pagate........................ L. 181.829.245.429 e rimasero da pagare............................. L. 127.316.091.492
 
-### Art. 61
+## Art. 61
 
 I residui attivi alla chiusura dell'esercizio
 
@@ -806,13 +806,13 @@ I residui attivi alla chiusura dell'esercizio
 
 riscossi e versati............................... L. 62.975.850.693 e rimasero da riscuotere al 30 giugno 1963....... L. 21.056.952.347
 
-### Art. 62
+## Art. 62
 
 I residui passivi alla chiusura dell'esercizio
 
 1961-62 restano determinati in................... L. 91.799.220.001 dei quali nell'esercizio 1962-63 furono pagati... L. 51.066.576.119 e rimasero da pagare al 30 giugno 1963........... L. 40.732.643.882
 
-### Art. 63
+## Art. 63
 
 I residui attivi alla chiusura dell'esercizio 1962-63 sono stabiliti nelle seguenti somme:
 
@@ -824,7 +824,7 @@ dell'esercizio 1962-63 (articolo 59)............. L. 115.071.711.436 Somme rimas
 
 degli esercizi precedenti (articolo 61).......... L. 21.056.952.347 Residui attivi al 30 giugno 1963... L. 136.128.663.783
 
-### Art. 64
+## Art. 64
 
 I residui passivi alla chiusura dell'esercizio 1962-63 sono stabiliti nelle seguenti somme:
 
@@ -838,7 +838,7 @@ esercizi precedenti (articolo 62)................ L. 40.732.643.882 Residui pass
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Art. 65
+## Art. 65
 
 Le entrate ordinarie e straordinarie del bilancio dell'Azienda di Stato per i servizi telefonici, accertate nell'esercizio finanziario 1962-63 per la competenza propria dell'esercizio medesimo, sono stabilite, come risulta dal conto consuntivo dell'amministrazione stessa allegato al conto consuntivo del Ministero delle poste e delle telecomunicazioni per
 
@@ -852,13 +852,13 @@ rimasero da versare............. L. 24.996.180.555
 
 L. 89.326.228.633 e rimasero da riscuotere......................... L. 18.726.261.081
 
-### Art. 66
+## Art. 66
 
 Le spese ordinarie e straordinarie del bilancio dell'amministrazione predetta, accertate nell'esercizio finanziario 1962-63 per la competenza propria dell'esercizio medesimo,
 
 sono stabilite in................................ L. 108.052.489.714 delle quali furono pagate........................ L. 42.150.184.600 e rimasero da pagare............................. L. 65.902.305.114
 
-### Art. 67
+## Art. 67
 
 I residui attivi alla chiusura dell'esercizio
 
@@ -872,13 +872,13 @@ rimasero da versare.............. L. 14.997.708.335
 
 L. 28.235.071.174 e rimasero da riscuotere al 30 giugno 1963........ L. 1.138.749.035
 
-### Art. 68
+## Art. 68
 
 I residui passivi alla chiusura dell'esercizio
 
 1961-62 restano determinati in.................... L. 60.019.618.303 dei quali nell'esercizio 1962-63 furono pagati.... L. 33.737.442.830 e rimasero da pagare al 30 giugno 1963............ L. 26.282.175.473
 
-### Art. 69
+## Art. 69
 
 I residui attivi alla chiusura dell'esercizio 1962-63 sono stabilite nelle seguenti somme:
 
@@ -892,7 +892,7 @@ degli esercizi precedenti (articolo 67)........... L. 1.138.749.035 Somme riscos
 
 (colonna s del riepilogo dell'entrata)............ L. 39.993.888.890 Residui attivi al 30 giugno 1963... L. 59.858.899.006
 
-### Art. 70
+## Art. 70
 
 I residui passivi alla chiusura dell'esercizio 1962-63 sono stabiliti nelle seguenti somme:
 
@@ -906,19 +906,19 @@ degli esercizi precedenti (articolo 68).......... L. 26.282.175.473 Residui pass
 
 ## AMMINISTRAZIONE DELLE FERROVIE DELLO STATO
 
-### Art. 71
+## Art. 71
 
 Le entrate ordinarie e straordinarie del bilancio dell'Amministrazione delle ferrovie dello Stato comprese quelle delle gestioni speciali ed autonome e per partite di giro, accertate nell'esercizio finanziario 1962-63 per la competenza propria dell'esercizio medesimo, sono stabilite, come risulta dal conto consuntivo dell'Amministrazione stessa, allegato al consuntivo del Ministero dei trasporti e dell'aviazione civile per l'esercizio predetto,
 
 in.............................................. L. 1.574.018.459.730 delle quali furono riscosse e versate........... L. 1.317.892.688.531 e rimasero da riscuotere......................... L. 256.125.771.199
 
-### Art. 72
+## Art. 72
 
 Le spese ordinarie e straordinarie del bilancio dell'amministrazione predetta, comprese quelle delle gestioni speciali ed autonome e per partite di giro, accertate nell'esercizio finanziario 1962-63, per la competenza propria dell'esercizio medesimo,
 
 sono stabilite in............................... L. 1.574.018.459.730 delle quali furono pagate....................... L. 1.387.432.012.151 e rimasero da pagare............................. L. 186.586.447.579
 
-### Art. 73
+## Art. 73
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione delle ferrovie dello Stato, di competenza dell'esercizio finanziario 1962-63, rimane cosi' stabilito:
 
@@ -928,7 +928,7 @@ Ordinaria........................................ L. 564.096.230.504 Straordinar
 
 Ordinaria........................................ L. 564.096.230.504 Straordinaria.................................... L. 195.556.702.998 Gestioni speciali ed autonome.................... L. 778.400.242.031 Partite di giro.................................. L. 35.965.284.197 L. 1.574.018.459.730
 
-### Art. 74
+## Art. 74
 
 I residui attivi alla chiusura dell'esercizio
 
@@ -936,13 +936,13 @@ I residui attivi alla chiusura dell'esercizio
 
 furono riscossi e versati........................ L. 117.472.219.249 e rimasero da versare al 30 giugno 1963.......... L. 9.083.206.625
 
-### Art. 75
+## Art. 75
 
 I residui passivi alla chiusura dell'esercizio
 
 1961-62 restano determinati in................... L. 130.619.954.734 dei quali furono pagati nel 1962-63.............. L. 74.528.520.974 e rimasero da pagare al 30 giugno 1963........... L. 56.091.433.760
 
-### Art. 76
+## Art. 76
 
 I residui attivi alla chiusura dell'esercizio 1962-63 sono stabiliti nelle seguenti somme:
 
@@ -954,7 +954,7 @@ dell'esercizio 1962-63 (articolo 71)............. L. 256.125.771.199 Somme rimas
 
 degli esercizi precedenti (articolo 74).......... L. 9.083.206.625 Residui attivi al 30 giugno 1963... L. 265.208.977.824
 
-### Art. 77
+## Art. 77
 
 I residui passivi alla chiusura dell'esercizio 1962-63 sono stabiliti nelle seguenti somme:
 
@@ -966,13 +966,13 @@ dell'esercizio 1962-63 (articolo 72)............. L. 186.586.447.579 Somme rimas
 
 esercizi precedenti (articolo 75)................ L. 56.091.433.760 Residui passivi al 30 giugno 1963................ L. 242.677.881.339
 
-### Art. 78
+## Art. 78
 
 E' approvata l'eccedenza di impegni di lire 615.014, risultata, in sede di consuntivo, sul conto della competenza del capitolo n. 150 "Spese per acquisti e diverse", dello stato di previsione della spesa dell'Amministrazione delle ferrovie dello Stato, per l'esercizio finanziario 1962-63.
 
 ## AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### Art. 79
+## Art. 79
 
 Le entrate ordinarie e straordinarie del bilancio dell'Azienda di Stato per le foreste demaniali, accertate nell'esercizio 1962-63 per la competenza propria dell'esercizio medesimo, sono stabilite, quali risultano dal conto consuntivo dell'azienda stessa, allegato al conto consuntivo del Ministero dell'agricoltura e delle foreste,
 
@@ -986,13 +986,13 @@ rimasero da versare............. L. 517.879.666
 
 L. 2.113.408.904 e rimasero, da riscuotere........................ L. 1.597.783.849
 
-### Art. 80
+## Art. 80
 
 Le spese ordinarie e straordinarie del bilancio dell'azienda predetta, accertate nell'esercizio finanziario 1962-63 per la competenza propria dell'esercizio medesimo,
 
 sono stabilite in................................ L. 3.711.192.753 delle quali furono pagate........................ L. 1.683.604.166 e rimasero da pagare............................. L. 2.027.588.587
 
-### Art. 81
+## Art. 81
 
 I residui attivi alla chiusura dell'esercizio
 
@@ -1010,13 +1010,13 @@ L. 931.590.897
 
 e rimasero da riscuotere al 30 giugno 1963..........L. 953.965.228
 
-### Art. 82
+## Art. 82
 
 I residui passivi alla chiusura dell'esercizio
 
 1961-62, restano determinati in.................. L. 3.478.202.119 dei quali furono pagati nel 1962-63.............. L. 1.630.534.488 e rimasero da pagare al 30 giugno 1963........... L. 1.847.667.631
 
-### Art. 83
+## Art. 83
 
 I residui attivi alla chiusura dell'esercizio finanziario 1962-63, sono stabiliti nelle seguenti somme:
 
@@ -1028,7 +1028,7 @@ L. 1.597.783.849 Somme rimaste da riscuotere sui residui degli esercizi preceden
 
 (articolo 81)....................................L. 953.965.228 Somme riscosse e non versate (colonna s del riepilogo dell'entrata) ........... L. 691.003.033 Residui attivi al 30 giugno 1963.....L. 3.242.752.110
 
-### Art. 84
+## Art. 84
 
 I residui passivi alla chiusura dell'esercizio finanziario 1962-63 sono stabiliti nelle seguenti somme:
 
@@ -1040,7 +1040,7 @@ finanziario 1962-63 (articolo 80)................ L. 2.027.588.587 Somme rimaste
 
 esercizi precedenti (articolo 82)................ L. 1.847.667.631 Residui passivi al 30 giugno 1963................ L. 3.875.256.218
 
-### Art. 85
+## Art. 85
 
 E' accertato nella somma di lire 1.109.652 il saldo attivo del conto finanziario dell'Azienda di Stato per le foreste demaniali, alla fine dell'esercizio 1962-63 come risulta dai seguenti dati:
 

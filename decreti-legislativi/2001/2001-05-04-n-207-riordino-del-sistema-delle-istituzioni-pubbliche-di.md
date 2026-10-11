@@ -282,7 +282,7 @@ c) dopo l'articolo 11-bis e' aggiunto il seguente: "Art. 11-ter. - Atti costitut
 
 7\. La disciplina delle erogazioni liberali prevista dall'articolo 13 del decreto legislativo 4 dicembre 1997, n. 460, relativa alle organizzazioni non lucrative di utilita' sociale, e' estesa alle istituzioni riordinate in aziende di servizi.
 
-## Capo II - Aziende di servizi
+### Capo II - Aziende di servizi
 
 #### Art. 5
 
@@ -492,7 +492,7 @@ IPAB che svolgono attivita' indiretta in campo socio-assistenziale mediante dest
 
 2\. Le istituzioni di cui al comma 1, qualsiasi sia la loro originaria natura, qualora a norma dell'articolo 5 debba escludersi la loro trasformazione in azienda pubblica di servizi alla persona, si trasformano in fondazioni di diritto privato. A tali fondazioni si applicano le disposizioni di cui al capo III.
 
-## Capo III - Persone giuridiche di diritto privato
+### Capo III - Persone giuridiche di diritto privato
 
 #### Art. 16
 
@@ -568,7 +568,7 @@ Patrimonio
 
 > L'esecuzione delle deliberazioni contrarie all'ordine pubblico o al buon costume puo' essere sospesa anche dall'autorita' governativa".
 
-## Capo IV - F u s i o n i
+### Capo IV - F u s i o n i
 
 #### Art. 19
 
@@ -598,7 +598,7 @@ Rinvio alla disciplina regionale
 
 > 5\. Ai sensi dell'art. 129 del decreto legislativo 31 marzo 1998, n. 112, competono allo Stato la definizione e la ripartizione del Fondo nazionale per le politiche sociali, la spesa per pensioni, assegni e indennita' considerati a carico del comparto assistenziale quali le indennita' spettanti agli invalidi civili, l'assegno sociale di cui all'art. 3, comma 6, della legge 8 agosto 1995, n. 335, il reddito minimo di inserimento di cui all'art. 59, comma 47, della legge 27 dicembre 1997, n. 449, nonche' eventuali progetti di settore individuati ai sensi del Piano nazionale di cui all'art. 18 della presente legge.".
 
-## Capo V - Disposizioni varie
+### Capo V - Disposizioni varie
 
 #### Art. 20
 

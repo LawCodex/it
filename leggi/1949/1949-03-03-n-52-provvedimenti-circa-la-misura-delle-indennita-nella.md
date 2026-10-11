@@ -26,11 +26,9 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - Modificazioni ed integrazioni del regio decreto
+## TITOLO I - Modificazioni ed integrazioni del regio decreto 17 agosto 1935, n. 1765, e delle disposizioni modificative di esso
 
-### 17 agosto 1935, n. 1765, e delle disposizioni - modificative di esso
-
-#### Art. 1
+### Art. 1
 
 Il secondo ed il terzo comma, dell'art. 24 del regio decreto 17 agosto 1935, n. 1765, concernente l'assicurazione obbligatoria contro gli infortuni sui lavoro e le malattie professionali nell'industria, modificato con l'art. 2 del decreto legislativo 25 gennaio 1947, n. 14, e con l'art. 1 del decreto legislativo 19 febbraio 1948, n. 254, sono sostituiti dai seguenti:
 
@@ -42,7 +40,7 @@ Il secondo ed il terzo comma, dell'art. 24 del regio decreto 17 agosto 1935, n. 
 
 Nei casi di inabilita' permanente assoluta, nei quali sia indispensabile all'invalido un'assistenza personale continuativa, la, rendita e' integrata da un assegno di lire tremila mensili per tutta la durata di detta assistenza; non si fa luogo ad integrazione quando l'assistenza personale sia esercitata o direttamente dall'Istituto assicuratore in luogo di ricovero o da parte di altri enti".
 
-#### Art. 2
+### Art. 2
 
 All'art. 27 del regio decreto 17 agosto 1935, n. 1765, modificato con l'art. 3 del decreto legislativo 25 gennaio 1947, n. 14, e con l'art. 1 del decreto legislativo 19 febbraio 1948, n. 254, sono apportate le seguenti modificazioni:
 
@@ -56,7 +54,7 @@ b) l'ultimo periodo del terzo comma ed il quarto comma sono sostituiti rispettiv
 
 Per gli addetti alla navigazione marittima ed alla pesca marittima l'assegno e' pari ad una mensilita' di retribuzione con un minimo secondo le misure indicate nel comma precedente".
 
-#### Art. 3
+### Art. 3
 
 Il terzo comma dell'art. 39 del regio decreto 17 agosto 1935, n. 1765, modificato con l'art. 1 del decreto legislativo 19 febbraio 1948, n. 254, e' sostituito dal seguente:
 
@@ -74,13 +72,13 @@ AGGIORNAMENTO (2)
 
 La L. 4 dicembre 1954, n. 1222 ha disposto (con l'articolo unico, comma 2) che "Le retribuzioni massime annue previste dall'art. 3 della legge 3 marzo 1949, n. 52, per i componenti lo stato maggiore della navigazione marittima e della pesca marittima, sono elevate, con decorrenza dalla data di entrata in vigore della legge 11 gennaio 1952, n. 33, a lire 475.000 per i comandanti e per i capi macchinisti, a lire 400.000 per i primi ufficiali di coperta e di macchina e a lire 350.000 per gli altri ufficiali."
 
-#### Art. 4
+### Art. 4
 
 Nel regio decreto 17 agosto 1935, n. 1765, e nei successivi provvedimenti integrativi o modificativi alla parola "salario" e' sostituita la parola "retribuzione".
 
 ## TITOLO II - Rivalutazioni e disposizioni generali
 
-#### Art. 5
+### Art. 5
 
 Con decorrenza dal 1 gennaio 1949, le rendite per morte e quelle per inabilita' permanente liquidate in forma definita dal trentacinque al cento per cento per infortunio sul lavoro o malattia professionale, a norma del regio decreto 17 agosto 1935, n. 1765, in corso alla data suddetta, sono rivalutate secondo i criteri fissati dall'art. 1 della presente legge sulla base di una retribuzione annua:
 
@@ -100,7 +98,7 @@ Per i componenti lo stato maggiore della navigazione marittima e della pesca mar
 
 3\) per gli altri ufficiali rispettivamente lire centoquarantamila, centosettantacinquemila e duecentodiecimila.
 
-#### Art. 6
+### Art. 6
 
 Ai grandi invalidi del lavoro, liquidati in capitale a norma della legge (testo unico) 31 gennaio 1904, n. 51, e del regio decreto 13 maggio 1929, n. 928, assistiti ai sensi dell'art. 61 del regio decreto 17 agosto 1935, n. 1765, e' concesso, con decorrenza dal 1 gennaio 1949, un assegno continuativo mensile di lire cinquemila, per i grandi invalidi aventi una inabilita' permanente fino all'ottantanove per cento e di lire settemila per quelli aventi una inabilita' permanente dal novanta al cento per cento: detto assegno assorbe quelli precedentemente concessi.((1))
 
@@ -110,7 +108,7 @@ AGGIORNAMENTO (1)
 
 La L. 11 gennaio 1952, n. 33 ha disposto (con l'art. 4, comma 1) che "Con decorrenza dal 1 luglio 1950 gli assegni mensili di lire tremila, cinquemila e settemila previsti dagli articoli 6 e 7 della legge 3 marzo 1949, n. 52, in favore degli invalidi del lavoro gia' liquidati in capitale a norma della legge 31 gennaio 1904, n. 51, del regio decreto 13 maggio 1929, n. 928, nonche' in favore degli invalidi titolari di rendite vitalizie costituite in base alla legge ed al decreto predetti, sono aumentati rispettivamente a lire seimila, dodicimila e diciottomila. Per gli invalidi aventi un grado di inabilita' permanente assoluta la misura dell'assegno e' elevabile a lire venticinquemila nei casi nei quali sia indispensabile una assistenza personale continuativa a norma dell'art. 1, lettera A della presente legge."
 
-#### Art. 7
+### Art. 7
 
 Ai titolari di rendita, vitalizia costituita in virtu' delle disposizioni contenute nell'art. 15 della legge (testo unico) 31 gennaio 1904, n. 51, e agli inabili ai quali sia dovuta una rendita vitalizia in virtu' delle disposizioni contenute nell'art. 111 del regolamento 21 novembre 1918, n. 1889, per l'esecuzione del decreto-legge luogotenenziale 23 agosto 1917, n. 1450, e' concesso, con decorrenza dal 1 gennaio 1949, un assegno continuativo mensile di lire tremila per quelli aventi una inabilita' permanente dal cinquanta al settantanove per cento, di lire cinquemila per quelli aventi una inabilita' permanente dall'ottanta all'ottantanove per cento, e di lire settemila per quelli aventi una inabilita' permanente dal novanta ai cento per cento: detto assegno assorbe quelli precedentemente concessi.
 
@@ -122,27 +120,27 @@ AGGIORNAMENTO (1)
 
 La L. 11 gennaio 1952, n. 33 ha disposto (con l'art. 4, comma 1) che "Con decorrenza dal 1 luglio 1950 gli assegni mensili di lire tremila, cinquemila e settemila previsti dagli articoli 6 e 7 della legge 3 marzo 1949, n. 52, in favore degli invalidi del lavoro gia' liquidati in capitale a norma della legge 31 gennaio 1904, n. 51, del regio decreto 13 maggio 1929, n. 928, nonche' in favore degli invalidi titolari di rendite vitalizie costituite in base alla legge ed al decreto predetti, sono aumentati rispettivamente a lire seimila, dodicimila e diciottomila. Per gli invalidi aventi un grado di inabilita' permanente assoluta la misura dell'assegno e' elevabile a lire venticinquemila nei casi nei quali sia indispensabile una assistenza personale continuativa a norma dell'art. 1, lettera A della presente legge."
 
-#### Art. 8
+### Art. 8
 
 Ai titolari di rendita liquidata a norma del regio decreto 17 agosto 1935, n. 1765, per infortunio sul lavoro avvenuto fino al 31 maggio 1946, con grado di inabilita' permanente in forma definita non superiore ad venti per cento, e' concesso di richiedere all'Istituto assicuratore, non prima della scadenza di un quadriennio dalla data di costituzione della rendita, la corresponsione, ad estinzione di ogni diritto relativo, di una somma pari al valore capitale della ulteriore rendita dovuta, calcolato in base alle tabelle di cui all'art. 49 del regio decreto suddetto, approvate con decreto Ministeriale 16 febbraio 1938 e modificate con il decreto Ministeriale 31 luglio 1942, aumentato del dieci per cento.
 
 In caso di nuovo infortunio indennizzabile con una rendita di inabilita' permanente, nel quale si abbia concorso tra quest'ultima inabilita' e quella che ha dato luogo alla liquidazione della rendita riscattata, si procede secondo il criterio stabilito dall'art. 11 del regio decreto 15 dicembre 1936, n. 2276, e dall'art. 52 del regolamento approvato col regio decreto 25 gennaio 1937, n. 200.
 
-#### Art. 9
+### Art. 9
 
 Le modifiche e integrazioni previste dagli articoli 1, 2 e 3 della presente legge si applicano ai casi di infortunio avvenuti dal 1 gennaio 1949 ed alle malattie professionali manifestatesi da tale data.
 
-#### Art. 10
+### Art. 10
 
 Con effetto dal 1 gennaio 1949 e' soppressa l'addizionale del sette per cento dei premi disposta a carico dei datori di lavoro con l'art. 14 del decreto legislativo 25 gennaio 1947, n. 14, per la copertura, degli oneri derivanti dalla corresponsione degli assegni di carovita e sono abrogate le disposizioni di cui al primo comma dell'art. 11, modificato col decreto legislativo 29 luglio 1947, n. 918, ed agli articoli da 12 a 15 del decreto legislativo 25 gennaio 1947, n. 14, e quelle di cui agli articoli 2 e 3 del decreto legislativo 19 febbraio 1948, n. 254.
 
 Rimangono ferme le disposizioni concernenti le indennita' di caropane stabilite con altri provvedimenti salvo quelle concernenti le addizionali sui premi per l'assicurazione contro gli infortuni sul lavoro, le quali sono soppresse.
 
-#### Art. 11
+### Art. 11
 
 Le disposizioni della presente legge si applicano anche ai dipendenti dalle aziende autonome dei Ministeri dei trasporti e delle poste e telecomunicazioni di cui al n. 2 dell'art. 48 del regio decreto 17 agosto 1935, n. 1765, e agli addetti alla navigazione marittima ed alla pesca marittima.
 
-#### Art. 12
+### Art. 12
 
 Le rate di rendita, compresi gli accessori integrativi, pagate e da pagare dall'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro a invalidi permanenti ed a superstiti, in dipendenza di infortuni determinati da rischio di guerra, sono a carico dello Stato.
 
@@ -152,7 +150,7 @@ Le rate di rendita e gli accessori integrativi erogati dal predetto Istituto in 
 
 Oltre ai rimborsi di cui ai commi precedenti non e' dovuto da parte dello Stato alcun pagamento per interessi e per quote di spese generali di amministrazione.
 
-#### Art. 13
+### Art. 13
 
 Le disposizioni dell'articolo precedente si applicano anche alle Casse mutue marittime tirriena, adriatica e mediterranea per gli infortuni e le malattie.
 
@@ -160,11 +158,11 @@ Le somme gia' versate o che saranno versate alle suddette Casse marittime dall'U
 
 Qualora l'importo delle somme versate dall'Unione italiana di riassicurazione fino al 30 giugno 1948 risulti inferiore all'importo delle rate di rendita ed accessori integrativi pagati dalle Casse marittime fino a tale data, il rimborso dello Stato e' limitato alla differenza; qualora invece l'importo sia superiore, l'eccedenza, aumentata dagli eventuali successivi versamenti fatti dall'Unione italiana di riassicurazione, e' portata a diminuzione dei rimborsi dovuti per l'esercizio 1948-49 e seguenti.
 
-#### Art. 14
+### Art. 14
 
 Per i maggiori oneri a carico dello Stato per l'aumento delle indennita' per gli infortuni e le malattie professionali, dovute ai dipendenti dello Stato, ai quali si applicano le disposizioni del regio decreto 17 agosto 1935, n. 1765, e successive modificazioni, sara' provveduto con decreto del Ministro per il tesoro, merce' prelievo dal fondo di riserva per le spese obbligatorie.
 
-#### Art. 15
+### Art. 15
 
 Le disposizioni della presente legge si applicano con effetto dal 1 gennaio 1949.
 
@@ -184,7 +182,7 @@ Visto, i Guardasigilli: GRASSI
 
 ## TITOLO II - Rivalutazioni e disposizioni generali
 
-#### Tabella
+### Tabella
 
 TABELLA ALLEGATA
 

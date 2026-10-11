@@ -26,11 +26,9 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I. - NORME SULLA DETERMINAZIONE
+## TITOLO I. - NORME SULLA DETERMINAZIONE E SUL PAGAMENTO DEL CANONE
 
-### E SUL PAGAMENTO DEL CANONE
-
-#### Art. 1
+### Art. 1
 
 L'articolo 1 della legge 12 giugno 1962, n. 567, e' sostituito dal seguente:
 
@@ -48,7 +46,7 @@ AGGIORNAMENTO (3)
 
 La Corte Costituzionale con sentenza 14 - 27 luglio 1972, n. 155 (in G.U. 1a s.s. 02/08/1972, n. 201) ha dichiarato "l'illegittimita' costituzionale dell'art. 1 della stessa legge, nella parte in cui non prevede alcuna forma di periodica rivalutazione del canone in danaro".
 
-#### Art. 2
+### Art. 2
 
 L'articolo 2 della legge 12 giugno 1962, n. 567, e' sostituito dal seguente:
 
@@ -78,7 +76,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza 23 febbraio - 1 marzo 1972, n. 35 (in G.U. 1a s.s. 8/3/1972, n. 65) ha "dichiarato la illegittimita' costituzionale della legge 11 febbraio 1971, n. 11, recante "Nuova disciplina dell'affitto dei fondi rustici", nella parte in cui essa disciplina anche i contratti di affitto relativi ai masi chiusi, di cui al testo unico 7 febbraio 1962, n. 8, approvato con decreto del Presidente della Giunta provinciale di Bolzano".
 
-#### Art. 3
+### Art. 3
 
 L'articolo 3 della legge 12 giugno 1962, n. 567, e' sostituito dal seguente:
 
@@ -110,7 +108,7 @@ La Corte Costituzionale con sentenza 14 - 27 luglio 1972, n. 155 (in G.U. 1a s.s
 
 Ha inoltre dichiarato "l'illegittimita' costituzionale dell'art. 3, secondo e sesto comma, della stessa legge, nella parte in cui fissa fra 12 e 45 e, con riferimento a un caso particolare, in 36, i coefficienti di moltiplicazione del reddito dominicale ai fini della determinazione del canone".
 
-#### Art. 4
+### Art. 4
 
 Il canone per il fondo od i fondi oggetto del contratto e' determinato moltiplicando il reddito dominicale, di cui al secondo comma dell'articolo 3, dei fondi stessi per i coefficienti stabiliti dalla commissione. (3)
 
@@ -140,7 +138,7 @@ AGGIORNAMENTO (6)
 
 La Corte Costituzionale con sentenza 19 - 22 dicembre 1977, n. 153 (in G.U. 1a s.s. del 28/12/1977, n. 353) ha dichiarato "la illegittimita' costituzionale degli artt. 4, terzo comma, e 15, primo comma, della legge 11 febbraio 1971, n. 11, nella parte in cui non prevedono un'adeguata revisione del canone per il caso di migliorie eseguite dal proprietario".
 
-#### Art. 5
+### Art. 5
 
 L'articolo 4 della legge 12 giugno 1962, n. 567, e' sostituito dal seguente:
 
@@ -156,7 +154,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza 23 febbraio - 1 marzo 1972, n. 35 (in G.U. 1a s.s. 8/3/1972, n. 65) ha "dichiarato la illegittimita' costituzionale della legge 11 febbraio 1971, n. 11, recante "Nuova disciplina dell'affitto dei fondi rustici", nella parte in cui essa disciplina anche i contratti di affitto relativi ai masi chiusi, di cui al testo unico 7 febbraio 1962, n. 8, approvato con decreto del Presidente della Giunta provinciale di Bolzano".
 
-#### Art. 6
+### Art. 6
 
 L'articolo 5 della legge 12 giugno 1962, n. 567, e' sostituito dal seguente:
 
@@ -186,7 +184,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza 23 febbraio - 1 marzo 1972, n. 35 (in G.U. 1a s.s. 8/3/1972, n. 65) ha "dichiarato la illegittimita' costituzionale della legge 11 febbraio 1971, n. 11, recante "Nuova disciplina dell'affitto dei fondi rustici", nella parte in cui essa disciplina anche i contratti di affitto relativi ai masi chiusi, di cui al testo unico 7 febbraio 1962, n. 8, approvato con decreto del Presidente della Giunta provinciale di Bolzano".
 
-#### Art. 7
+### Art. 7
 
 Il pagamento dell'ammontare massimo stabilito per ciascuna zona agraria omogenea dalle tabelle per i canoni di equo affitto dei fondi rustici costituisce, ad ogni effetto, adempimento dell'obbligo del canone, anche se non viene proposta azione di perequazione a mente dell'articolo 7 della legge 12 giugno 1962, n. 567.
 
@@ -200,7 +198,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza 23 febbraio - 1 marzo 1972, n. 35 (in G.U. 1a s.s. 8/3/1972, n. 65) ha "dichiarato la illegittimita' costituzionale della legge 11 febbraio 1971, n. 11, recante "Nuova disciplina dell'affitto dei fondi rustici", nella parte in cui essa disciplina anche i contratti di affitto relativi ai masi chiusi, di cui al testo unico 7 febbraio 1962, n. 8, approvato con decreto del Presidente della Giunta provinciale di Bolzano".
 
-#### Art. 8
+### Art. 8
 
 L'articolo 7 della legge 12 giugno 1962, n. 567, e' sostituito dal seguente:
 
@@ -212,7 +210,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza 23 febbraio - 1 marzo 1972, n. 35 (in G.U. 1a s.s. 8/3/1972, n. 65) ha "dichiarato la illegittimita' costituzionale della legge 11 febbraio 1971, n. 11, recante "Nuova disciplina dell'affitto dei fondi rustici", nella parte in cui essa disciplina anche i contratti di affitto relativi ai masi chiusi, di cui al testo unico 7 febbraio 1962, n. 8, approvato con decreto del Presidente della Giunta provinciale di Bolzano".
 
-#### Art. 9
+### Art. 9
 
 Resta in vigore l'articolo 11 della legge 18 agosto 1948, n. 1140.((2))
 
@@ -222,11 +220,9 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza 23 febbraio - 1 marzo 1972, n. 35 (in G.U. 1a s.s. 8/3/1972, n. 65) ha "dichiarato la illegittimita' costituzionale della legge 11 febbraio 1971, n. 11, recante "Nuova disciplina dell'affitto dei fondi rustici", nella parte in cui essa disciplina anche i contratti di affitto relativi ai masi chiusi, di cui al testo unico 7 febbraio 1962, n. 8, approvato con decreto del Presidente della Giunta provinciale di Bolzano".
 
-## TITOLO II. - NORME SUI POTERI DELL'AFFITTUARIO
+## TITOLO II. - NORME SUI POTERI DELL'AFFITTUARIO E SULLA ESECUZIONE DEI MIGLIORAMENTI
 
-### E SULLA ESECUZIONE DEI MIGLIORAMENTI
-
-#### Art. 10
+### Art. 10
 
 L'affittuario puo' prendere tutte le iniziative di organizzazione e di gestione richieste dalla razionale coltivazione del fondo, dagli allevamenti di animali o dall'esercizio delle attivita' connesse di cui all'articolo 2135 del codice civile, anche in relazione alle direttive di programmazione economica stabilite dalle competenti autorita'.
 
@@ -242,7 +238,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza 23 febbraio - 1 marzo 1972, n. 35 (in G.U. 1a s.s. 8/3/1972, n. 65) ha "dichiarato la illegittimita' costituzionale della legge 11 febbraio 1971, n. 11, recante "Nuova disciplina dell'affitto dei fondi rustici", nella parte in cui essa disciplina anche i contratti di affitto relativi ai masi chiusi, di cui al testo unico 7 febbraio 1962, n. 8, approvato con decreto del Presidente della Giunta provinciale di Bolzano".
 
-#### Art. 11
+### Art. 11
 
 Ciascuna delle parti puo' eseguire miglioramenti del fondo e dei fabbricati rurali purche' corrispondenti ai programmi regionali di sviluppo, o in difetto, alle tendenze di sviluppo delle zone in cui essi ricadono. Sono considerati miglioramenti anche le addizioni eseguite o che si intendono eseguire per la utilizzazione agricola del fondo.
 
@@ -260,7 +256,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza 23 febbraio - 1 marzo 1972, n. 35 (in G.U. 1a s.s. 8/3/1972, n. 65) ha "dichiarato la illegittimita' costituzionale della legge 11 febbraio 1971, n. 11, recante "Nuova disciplina dell'affitto dei fondi rustici", nella parte in cui essa disciplina anche i contratti di affitto relativi ai masi chiusi, di cui al testo unico 7 febbraio 1962, n. 8, approvato con decreto del Presidente della Giunta provinciale di Bolzano".
 
-#### Art. 12
+### Art. 12
 
 Qualora l'affittuario abbia eseguito a sue spese miglioramenti con le procedure di cui agli articoli 11 e 14, non opera, nel caso di vendita del fondo, l'effetto risolutivo previsto dall'articolo 3 della legge 28 marzo 1957, n. 244, ed il contratto di affitto, alla sua scadenza, e' prorogato per un periodo non inferiore ad anni dodici, anche se sia assoggettato alla proroga legale. ((6))
 
@@ -282,7 +278,7 @@ AGGIORNAMENTO (6)
 
 La Corte Costituzionale con la sentenza 19 - 22 dicembre 1977, n. 153 (in G.U. 1a s.s. 28/12/1977, n. 353) ha dichiarato l'illegittimita' costituzionale dell'art. 12, primo comma, della legge 11 febbraio 1971, n. 11, "nella parte in cui non limita gli effetti giuridici ivi previsti a favore dell'affittuario che abbia eseguito a sue spese miglioramenti, in relazione alle sole opere di miglioramento che determinino un sostanziale e permanente aumento di valore del fondo ed un apprezzabile incremento della sua produttivita'".
 
-#### Art. 13
+### Art. 13
 
 Per l'esecuzione dei miglioramenti previsti dalle disposizioni della presente legge possono essere concessi direttamente agli affittuari, singoli o associati, i contributi e le altre agevolazioni, statali o regionali, di cui alle leggi in vigore, purche' risulti in qualsiasi modo l'esistenza del rapporto di affittanza. I mutui contratti dall'affittuario coltivatore diretto sono coperti dalla garanzia sussidiaria del fondo interbancario ai sensi dell'articolo 56 della legge 27 ottobre 1966, n. 910, ed e' ammesso l'accollo di essi da parte del locatore o di altro affittuario che subentri nella conduzione del fondo migliorato.
 
@@ -294,7 +290,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza 23 febbraio-1 marzo 1972, n. 35 (in G.U. 1a s.s. 08/03/1972, n. 65) ha dichiarato "la illegittimita' costituzionale dell'art. 13 della stessa legge, nella parte in cui dispone sull'assegnazione diretta agli affittuari anche dei contributi disposti da leggi regionali del Trentino-Alto Adige"; inoltre ha dichiarato la illegittimita' costituzionale della legge 11 febbraio 1971, n. 11, recante "Nuova disciplina dell'affitto dei fondi rustici", nella parte in cui essa disciplina anche i contratti di affitto relativi ai masi chiusi, di cui al testo unico 7 febbraio 1962, n. 8, approvato con decreto del Presidente della Giunta provinciale di Bolzano".
 
-#### Art. 14
+### Art. 14
 
 L'affittuario coltivatore diretto che sia tale ai sensi degli articoli 24 e 25 della presente legge, puo' compiere i miglioramenti del fondo e dei fabbricati rurali di cui ai precedenti articoli dandone comunicazione, con lettera raccomandata con ricevuta di ritorno, al locatore, il quale, entro quindici giorni dalla ricezione della stessa, puo' ricorrere all'Ispettorato agrario provinciale.
 
@@ -314,7 +310,7 @@ AGGIORNAMENTO (6)
 
 La Corte Costituzionale con la sentenza 19 - 22 dicembre 1977, n. 153 (in G.U. 1a s.s. 28/12/1977, n. 353) ha dichiarato l'illegittimita' costituzionale dell'art. 14, secondo comma, della legge 11 febbraio 1971, n. 11.
 
-#### Art. 15
+### Art. 15
 
 Il locatore che ha eseguito i miglioramenti puo' chiedere all'affittuario l'aumento del fitto corrispondente alla nuova classificazione del fondo in base all'articolo 4. ((6))
 
@@ -340,7 +336,7 @@ AGGIORNAMENTO (6)
 
 La Corte Costituzionale con la sentenza 19 - 22 dicembre 1977, n. 153 (in G.U. 1a s.s. 28.12.1977, n. 353) ha dichiarato "la illegittimita' costituzionale degli artt. 4, terzo comma, e 15, primo comma, della legge 11 febbraio 1971, n. 11, nella parte in cui non prevedono un'adeguata revisione del canone per il caso di migliorie eseguite dal proprietario".
 
-#### Art. 16
+### Art. 16
 
 Qualora la casa rurale adibita all'abitazione dell'affittuario e della sua famiglia non presenti le condizioni di abitabilita' prescritte dalle norme relative alla tutela dell'igiene e della sanita', ovvero abbisogni degli essenziali servizi igienici ovvero di urgenti riparazioni indispensabili per il godimento della casa stessa, l'affittuario puo' eseguire direttamente le opere necessarie conformemente alle prescrizioni ed ai limiti delle leggi sulla edilizia popolare ed economica, previo parere favorevole degli uffici tecnico o sanitario comunali, purche' ne dia contemporaneamente avviso al locatore e salvo che, il proprietario non dia inizio entro quindici giorni alle opere e non le completi entro i termini tecnici.
 
@@ -356,7 +352,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza 23 febbraio - 1 marzo 1972, n. 35 (in G.U. 1a s.s. 8/3/1972, n. 65) ha "dichiarato la illegittimita' costituzionale della legge 11 febbraio 1971, n. 11, recante "Nuova disciplina dell'affitto dei fondi rustici", nella parte in cui essa disciplina anche i contratti di affitto relativi ai masi chiusi, di cui al testo unico 7 febbraio 1962, n. 8, approvato con decreto del Presidente della Giunta provinciale di Bolzano".
 
-#### Art. 17
+### Art. 17
 
 Per i contratti di affitto a conduttore non coltivatore, regolati dalla legge 22 luglio 1966, n. 606, il periodo minimo di durata di cui al primo comma dell'articolo 1 della legge stessa e' elevato a 15 anni e la disciplina ivi contenuta si applica ai contratti in corso alla data di entrata in vigore della presente legge anche se stipulati prima dell'entrata in vigore della legge 22 luglio 1966, n. 606.
 
@@ -370,7 +366,7 @@ La Corte Costituzionale con sentenza 23 febbraio - 1 marzo 1972, n. 35 (in G.U. 
 
 ## TITOLO III. - NORME FINALI
 
-#### Art. 18
+### Art. 18
 
 Ai contratti di affitto misto a colonia parziaria o mezzadria si applicano le disposizioni che regolano l'affitto a coltivatore diretto.
 
@@ -382,7 +378,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza 23 febbraio - 1 marzo 1972, n. 35 (in G.U. 1a s.s. 8/3/1972, n. 65) ha "dichiarato la illegittimita' costituzionale della legge 11 febbraio 1971, n. 11, recante "Nuova disciplina dell'affitto dei fondi rustici", nella parte in cui essa disciplina anche i contratti di affitto relativi ai masi chiusi, di cui al testo unico 7 febbraio 1962, n. 8, approvato con decreto del Presidente della Giunta provinciale di Bolzano".
 
-#### Art. 19
+### Art. 19
 
 Le clausole contrattuali che prevedono la concessione separata delle colture del suolo da quelle del soprasuolo o che prevedono sullo stesso fondo forme contrattuali diverse e per diverse coltivazioni, sono nulle di pieno diritto.
 
@@ -400,7 +396,7 @@ AGGIORNAMENTO (7)
 
 La Corte Costituzionale con la sentenza 11 - 16 novembre 1981, n. 181 (in G.U. 1a s.s. del 18/11/1981, n. 318) ha dichiarato "l'illegittimita' costituzionale dell'art. 19, secondo comma, della legge 11 febbraio 1971, n. 11.".
 
-#### Art. 20
+### Art. 20
 
 L'affittuario di terreni ricadenti in comprensorio consortile il quale, per obbligo derivante da contratto, sia tenuto a pagare contributi consortili di esercizio per opere pubbliche di bonifica e di irrigazione, nonche' per opere comuni di miglioramento fondiario, e' iscritto, a sua richiesta, solidalmente con il proprietario, nei catasti consortili e nei ruoli di contribuenza, ed acquista diritto all'elettorato attivo e passivo nelle elezioni degli organi dei consorzi di bonifica, di bonifica montana e di miglioramento fondiario.
 
@@ -412,7 +408,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza 23 febbraio - 1 marzo 1972, n. 35 (in G.U. 1a s.s. 8/3/1972, n. 65) ha "dichiarato la illegittimita' costituzionale della legge 11 febbraio 1971, n. 11, recante "Nuova disciplina dell'affitto dei fondi rustici", nella parte in cui essa disciplina anche i contratti di affitto relativi ai masi chiusi, di cui al testo unico 7 febbraio 1962, n. 8, approvato con decreto del Presidente della Giunta provinciale di Bolzano".
 
-#### Art. 21
+### Art. 21
 
 Salvo quanto previsto dall'ultimo comma del precedente articolo 12, sono vietati il subaffitto, la cessione del contratto di affitto ed in generale ogni forma di subconcessione dei fondi rustici.
 
@@ -424,7 +420,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza 23 febbraio - 1 marzo 1972, n. 35 (in G.U. 1a s.s. 8/3/1972, n. 65) ha "dichiarato la illegittimita' costituzionale della legge 11 febbraio 1971, n. 11, recante "Nuova disciplina dell'affitto dei fondi rustici", nella parte in cui essa disciplina anche i contratti di affitto relativi ai masi chiusi, di cui al testo unico 7 febbraio 1962, n. 8, approvato con decreto del Presidente della Giunta provinciale di Bolzano".
 
-#### Art. 22
+### Art. 22
 
 Le norme della legge 12 giugno 1962, n. 567, e della presente legge si applicano anche ai terreni che comunque vengano concessi per l'utilizzazione agricola o silvo-pastorale dallo Stato, dalle province, dai comuni e da altri enti. Qualora vi sia richiesta da parte dei lavoratori manuali della terra o coltivatori diretti, singoli od associati, lo Stato, le province, i comuni o gli altri enti, per la concessione o l'affitto dei terreni di loro proprieta', devono adottare la licitazione privata o la trattativa privata.
 
@@ -438,7 +434,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza 23 febbraio - 1 marzo 1972, n. 35 (in G.U. 1a s.s. 8/3/1972, n. 65) ha "dichiarato la illegittimita' costituzionale della legge 11 febbraio 1971, n. 11, recante "Nuova disciplina dell'affitto dei fondi rustici", nella parte in cui essa disciplina anche i contratti di affitto relativi ai masi chiusi, di cui al testo unico 7 febbraio 1962, n. 8, approvato con decreto del Presidente della Giunta provinciale di Bolzano".
 
-#### Art. 23
+### Art. 23
 
 Le rinunce e le transazioni, che hanno per oggetto diritti dell'affittuario derivanti dalla presente legge e da ogni altra legge, nazionale o regionale, non sono valide.
 
@@ -452,7 +448,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza 23 febbraio - 1 marzo 1972, n. 35 (in G.U. 1a s.s. 8/3/1972, n. 65) ha "dichiarato la illegittimita' costituzionale della legge 11 febbraio 1971, n. 11, recante "Nuova disciplina dell'affitto dei fondi rustici", nella parte in cui essa disciplina anche i contratti di affitto relativi ai masi chiusi, di cui al testo unico 7 febbraio 1962, n. 8, approvato con decreto del Presidente della Giunta provinciale di Bolzano".
 
-#### Art. 24
+### Art. 24
 
 In parziale deroga all'articolo 13 della legge 15 settembre 1964, n. 756, sono trasformati in contratti d'affitto, a richiesta del coltivatore, i contratti in corso nei quali vi sono elementi di contratto di affitto ancorche' non prevalenti, i contratti di affitto per la utilizzazione delle erbe, i contratti di soccida con conferimento di pascolo e i contratti di pascolo, anche di durata inferiore ad un anno, con corrispettivo rapportato al numero dei capi di bestiame introdotti nel fondo.
 
@@ -468,7 +464,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza 23 febbraio - 1 marzo 1972, n. 35 (in G.U. 1a s.s. 8/3/1972, n. 65) ha "dichiarato la illegittimita' costituzionale della legge 11 febbraio 1971, n. 11, recante "Nuova disciplina dell'affitto dei fondi rustici", nella parte in cui essa disciplina anche i contratti di affitto relativi ai masi chiusi, di cui al testo unico 7 febbraio 1962, n. 8, approvato con decreto del Presidente della Giunta provinciale di Bolzano".
 
-#### Art. 25
+### Art. 25
 
 Agli effetti della legge 11 luglio 1952, n. 765, e successive modificazioni, integrazioni e proroghe, della legge 12 giugno 1962, n. 567, e della presente legge, e' coltivatore diretto l'affittuario che sia tale a norma dello articolo 1, terzo comma, della legge 25 giugno 1949, numero 353, tenuto conto, agli effetti del computo del fabbisogno di giornate lavorative del fondo, anche dello impiego delle macchine agricole.
 
@@ -480,7 +476,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza 23 febbraio - 1 marzo 1972, n. 35 (in G.U. 1a s.s. 8/3/1972, n. 65) ha "dichiarato la illegittimita' costituzionale della legge 11 febbraio 1971, n. 11, recante "Nuova disciplina dell'affitto dei fondi rustici", nella parte in cui essa disciplina anche i contratti di affitto relativi ai masi chiusi, di cui al testo unico 7 febbraio 1962, n. 8, approvato con decreto del Presidente della Giunta provinciale di Bolzano".
 
-#### Art. 26
+### Art. 26
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 2011, N. 150)) ((9))
 
@@ -492,7 +488,7 @@ Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, commi 1 e 2) che 
 
 2\. Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
 
-#### Art. 27
+### Art. 27
 
 Le norme della presente legge che riguardano l'affitto a coltivatore diretto si applicano anche alle affittanze collettive ed alle concessioni di terre ai sensi del decreto legislativo luogotenenziale 19 ottobre 1944, numero 279, e successive modificazioni e integrazioni.((2))
 
@@ -502,7 +498,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza 23 febbraio - 1 marzo 1972, n. 35 (in G.U. 1a s.s. 8/3/1972, n. 65) ha "dichiarato la illegittimita' costituzionale della legge 11 febbraio 1971, n. 11, recante "Nuova disciplina dell'affitto dei fondi rustici", nella parte in cui essa disciplina anche i contratti di affitto relativi ai masi chiusi, di cui al testo unico 7 febbraio 1962, n. 8, approvato con decreto del Presidente della Giunta provinciale di Bolzano".
 
-#### Art. 28
+### Art. 28
 
 Resta fermo il diritto dell'affittuario di ripetere le somme eventualmente corrisposte in eccedenza ai livelli massimi di equita' stabiliti nelle tabelle provinciali di equo canone e nella presente legge e si applicano agli affittuari coltivatori diretti i termini di prescrizione previsti per i rapporti di lavoro subordinato con decorrenza dalla data di cessazione del rapporto.((2))
 
@@ -512,7 +508,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza 23 febbraio - 1 marzo 1972, n. 35 (in G.U. 1a s.s. 8/3/1972, n. 65) ha "dichiarato la illegittimita' costituzionale della legge 11 febbraio 1971, n. 11, recante "Nuova disciplina dell'affitto dei fondi rustici", nella parte in cui essa disciplina anche i contratti di affitto relativi ai masi chiusi, di cui al testo unico 7 febbraio 1962, n. 8, approvato con decreto del Presidente della Giunta provinciale di Bolzano".
 
-#### Art. 29
+### Art. 29
 
 Le disposizioni della presente legge sono inderogabili, salvo quanto disposto dal terzo comma dell'articolo 23.
 
@@ -526,7 +522,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza 23 febbraio - 1 marzo 1972, n. 35 (in G.U. 1a s.s. 8/3/1972, n. 65) ha "dichiarato la illegittimita' costituzionale della legge 11 febbraio 1971, n. 11, recante "Nuova disciplina dell'affitto dei fondi rustici", nella parte in cui essa disciplina anche i contratti di affitto relativi ai masi chiusi, di cui al testo unico 7 febbraio 1962, n. 8, approvato con decreto del Presidente della Giunta provinciale di Bolzano".
 
-#### Art. 30
+### Art. 30
 
 I criteri relativi alla determinazione del canone nello affitto di fondi rustici, ai sensi della presente legge, entreranno in applicazione a decorrere dall'inizio della annata agraria 1970-71. I termini relativi al primo quadriennio saranno stabiliti, occorrendo, anche in deroga all'articolo 3, con decreto del Ministro per l'agricoltura e le foreste entro sessanta giorni dall'entrata in vigore della presente legge. In mancanza ed in ogni caso, alla fine dell'annata agraria 1970-71 si applicano le norme di cui al sesto e settimo comma dell'articolo 3.((2))
 
@@ -536,11 +532,11 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza 23 febbraio - 1 marzo 1972, n. 35 (in G.U. 1a s.s. 8/3/1972, n. 65) ha "dichiarato la illegittimita' costituzionale della legge 11 febbraio 1971, n. 11, recante "Nuova disciplina dell'affitto dei fondi rustici", nella parte in cui essa disciplina anche i contratti di affitto relativi ai masi chiusi, di cui al testo unico 7 febbraio 1962, n. 8, approvato con decreto del Presidente della Giunta provinciale di Bolzano".
 
-#### Art. 31
+### Art. 31
 
 Per le province e per le annate in cui le tabelle di cui alla legge 12 giugno 1962, n. 567, non siano state approntate o siano state comunque annullate, il canone non puo' superare i limiti previsti dall'articolo 3.
 
-#### Art. 32
+### Art. 32
 
 E' abrogato l'articolo unico della legge 13 giugno 1961, n. 527. (1)(2)((5))
 

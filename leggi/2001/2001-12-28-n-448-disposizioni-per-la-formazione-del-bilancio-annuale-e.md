@@ -30,7 +30,7 @@ la seguente legge:
 
 ## TITOLO I - DISPOSIZIONI DI CARATTERE FINANZIARIO
 
-### Art. 1 - Risultati differenziali
+#### Art. 1 - Risultati differenziali
 
 1\. Per l'anno 2002, il livello massimo del saldo netto da finanziare resta determinato in termini di competenza in 33.157 milioni di euro, al netto di 14.649 milioni di euro per regolazioni debitorie. Tenuto conto delle operazioni di rimborso di prestiti, il livello massimo del ricorso al mercato finanziario di cui all'articolo 11 della legge 5 agosto 1978, n. 468, e successive modificazioni, ivi compreso l'indebitamento all'estero per un importo complessivo non superiore a 2.066 milioni di euro relativo ad interventi non considerati nel bilancio di previsione per il 2002, resta fissato, in termini di competenza, in 224.636 milioni di euro per l'anno finanziario 2002.
 
@@ -50,7 +50,7 @@ la seguente legge:
 
 ## TITOLO II - DISPOSIZIONI IN MATERIA DI ENTRATA
 
-### Art. 2
+#### Art. 2
 
 (Modificazioni alla disciplina dell'IRPEF per le famiglie, della
 
@@ -76,7 +76,7 @@ detraibilita' delle spese sostenute dai soggetti sordomuti e della deducibilita'
 
 6\. Il disposto dell'articolo 2, comma 1, lettera c), della legge 23 dicembre 2000, n. 388, e' sospeso per l'anno 2002.
 
-### Art. 3
+#### Art. 3
 
 Disposizioni in materia di beni di impresa
 
@@ -108,7 +108,7 @@ In tale caso, ai fini della determinazione dell'imposta sostitutiva, il corrispe
 
 13\. Al comma 2 dell'articolo 31 della legge 24 novembre 2000, n. 340, le parole: "Decorso un anno" sono sostituite dalle seguenti: "Decorsi due anni". Con decreto del Ministro dell'economia e delle finanze, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono approvate le modalita' per il pagamento dell'imposta di bollo di cui al decreto del Presidente della Repubblica 26 ottobre 1972, n. 642, dovuta sulle domande, le denunce e gli atti che le accompagnano, presentate all'ufficio del registro delle imprese per via telematica, ai sensi dell'articolo 31, comma 2, della legge 24 novembre 2000, n. 340, nonche' la nuova tariffa dell'imposta di bollo dovuta su tali atti ((prevedendo diverse misure per societa' di capitali, societa' di persone ed imprese individuali)).
 
-### Art. 4 - Riserve e fondi in sospensione di imposta
+#### Art. 4 - Riserve e fondi in sospensione di imposta
 
 1\. Le riserve e gli altri fondi in sospensione di imposta, anche se imputati al capitale sociale o al fondo di dotazione, esistenti nel bilancio o rendiconto dell'esercizio in corso alla data del 31 dicembre 2001, possono essere soggetti ad imposta sostitutiva delle imposte sui redditi in misura pari al 19 per cento.
 
@@ -122,7 +122,7 @@ In tale caso, ai fini della determinazione dell'imposta sostitutiva, il corrispe
 
 6\. Per la liquidazione, l'accertamento, la riscossione, i rimborsi, le sanzioni ed il contenzioso si applicano le disposizioni previste per le imposte sui redditi.
 
-### Art. 5
+#### Art. 5
 
 Rideterminazione dei valori di acquisto di partecipazioni
 
@@ -282,11 +282,11 @@ La L. 30 dicembre 2023, n. 213 ha disposto (con l'art. 1, comma 52) che "Le disp
 
 Ha inoltre disposto (con l'art. 1, comma 53) che "Sui valori di acquisto delle partecipazioni negoziate e non negoziate in mercati regolamentati o in sistemi multilaterali di negoziazione e dei terreni edificabili e con destinazione agricola rideterminati con le modalita' e nei termini indicati dal comma 52, le aliquote delle imposte sostitutive di cui all'articolo 5, commi 1-bis e 2, della legge 28 dicembre 2001, n. 448, sono pari entrambe al 16 per cento e l'aliquota di cui all'articolo 7, comma 2, della medesima legge e' aumentata al 16 per cento".
 
-### Art. 6 - Modifica all'articolo 2474 del codice civile
+#### Art. 6 - Modifica all'articolo 2474 del codice civile
 
 1\. Al secondo comma dell'articolo 2474 del codice civile, come modificato dall'articolo 4, comma 2, lettera b), del decreto legislativo 24 giugno 1998, n. 213, dopo la parola: "soci" sono inserite le seguenti: "relative alle societa' di nuova costituzione".
 
-### Art. 7
+#### Art. 7
 
 Rideterminazione dei valori di acquisto dei terreni edificabili e con destinazione agricola
 
@@ -446,13 +446,13 @@ La L. 30 dicembre 2023, n. 213 ha disposto (con l'art. 1, comma 52) che "Le disp
 
 Ha inoltre disposto (con l'art. 1, comma 53) che "Sui valori di acquisto delle partecipazioni negoziate e non negoziate in mercati regolamentati o in sistemi multilaterali di negoziazione e dei terreni edificabili e con destinazione agricola rideterminati con le modalita' e nei termini indicati dal comma 52, le aliquote delle imposte sostitutive di cui all'articolo 5, commi 1-bis e 2, della legge 28 dicembre 2001, n. 448, sono pari entrambe al 16 per cento e l'aliquota di cui all'articolo 7, comma 2, della medesima legge e' aumentata al 16 per cento".
 
-### Art. 8 - Soppressione dell'imposta comunale sull'incremento di valore degli immobili
+#### Art. 8 - Soppressione dell'imposta comunale sull'incremento di valore degli immobili
 
 1\. L'imposta comunale sull'incremento di valore degli immobili di cui al decreto del Presidente della Repubblica 26 ottobre 1972, n. 643, non e' dovuta per i presupposti che si verificano a decorrere dal 1 gennaio 2002.
 
 2\. Per gli immobili assoggettati all'imposta straordinaria sull'incremento di valore degli immobili di cui ai decreto-legge 13 settembre 1991, n. 299, convertito, con modificazioni, dalla legge 18 novembre 1991, n. 363, e' escluso l'obbligo della dichiarazione di cui all'articolo 18 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 643, se il valore finale alla data del 31 ottobre 1991 e' stato dichiarato in misura non inferiore a quella che risultava applicando all'ammontare della rendita catastale, anche presunta, i moltiplicatori previsti dall'articolo 1, comma 8, del citato decreto-legge n. 299 del 1991, e se non e' dovuta imposta.
 
-### Art. 9
+#### Art. 9
 
 Ulteriori effetti di precedenti disposizioni fiscali
 
@@ -540,7 +540,7 @@ AGGIORNAMENTO (9)
 
 La L. 27 dicembre 2002, n. 289 ha disposto (con l'art. 19, comma 3) che il beneficio fiscale di cui al comma 6 del presente articolo, e' prorogato fino al 31 dicembre 2003 fino all'importo complessivo di 100.000 euro di spese, per le esigenze di tutela ambientale e di difesa del territorio e del suolo dai rischi da dissesto idrogeologico.
 
-### Art. 10
+#### Art. 10
 
 Modificazioni all'imposta sulle insegne di esercizio
 
@@ -582,7 +582,7 @@ AGGIORNAMENTO (42)
 
 La L. 6 agosto 2013, n. 97 ha disposto (con l'art. 10, comma 2) che "Gli affidamenti del servizio di accertamento e riscossione di entrate comunali effettuati ai sensi dell'articolo 10, comma 2, della legge 28 dicembre 2001, n. 448, in essere alla data di entrata in vigore della presente legge, cessano l'ultimo giorno del terzo mese successivo alla data di entrata in vigore della presente legge, ferma restando la data di scadenza dei relativi contratti, laddove anteriore".
 
-### Art. 11
+#### Art. 11
 
 Modifiche al decreto legislativo 17 maggio 1999, n. 153,
 
@@ -646,7 +646,7 @@ La Corte Costituzionale, con sentenza 24-29 settembre 2003, n. 301 (in G.U. 1a s
 
 \- l'illegittimita' costituzionale del comma 4 del presente articolo nella parte in cui prevede nella composizione dell'organo di indirizzo "una prevalente e qualificata rappresentanza degli enti, diversi dallo Stato, di cui all'articolo 114 della Costituzione, idonea a rifletterne le competenze nei settori ammessi in base agli articoli 117 e 118 della Costituzione", anziche' "una prevalente e qualificata rappresentanza degli enti, pubblici e privati, espressivi delle realta' locali."
 
-### Art. 12 - Interventi per l'ulteriore potenziamento della giustizia tributaria
+#### Art. 12 - Interventi per l'ulteriore potenziamento della giustizia tributaria
 
 1\. Al decreto legislativo 31 dicembre 1992, n. 545, recante disposizioni sull'ordinamento degli organi speciali di giurisdizione tributaria, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -674,7 +674,7 @@ Appartengono alla giurisdizione tributaria tutte le controversie aventi ad ogget
 
 3\. Il giudice tributario risolve in via incidentale ogni questione da cui dipende la decisione delle controversie rientranti nella propria giurisdizione, fatta eccezione per le questioni in materia di querela di falso e sullo stato o la capacita' delle persone, diversa dalla capacita' di stare in giudizio".
 
-### Art. 13
+#### Art. 13
 
 Riduzione delle aliquote delle accise sui prodotti petroliferi
 
@@ -690,11 +690,11 @@ AGGIORNAMENTO (16)
 
 La L. 24 dicembre 2003, n. 350 ha disposto (con l'art. 2, comma 13) che le disposizioni di cui al comma 2 del presente articolo sono prorogate fino al 31 dicembre 2004.
 
-### Art. 14
+#### Art. 14
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2007, N. 26))
 
-### Art. 15 - Disposizioni per il settore dell'autotrasporto
+#### Art. 15 - Disposizioni per il settore dell'autotrasporto
 
 1\. Per gli interventi previsti dall'articolo 2, comma 3, del decreto-legge 28 dicembre 1998, n. 451, convertito, con modificazioni, dalla legge 26 febbraio 1999, n. 40, come prorogati dall'articolo 45, comma 1, lettera c), della legge 23 dicembre 1999, n. 488, e' autorizzata per l'anno 2002 un'ulteriore spesa di 10.329.138 euro in aggiunta a quella disposta dall'articolo 2, comma 2, del decreto-legge 22 giugno 2000, n. 167, convertito, con modificazioni, dalla legge 10 agosto 2000, n. 229.
 
@@ -710,7 +710,7 @@ La L. 24 dicembre 2003, n. 350 ha disposto (con l'art. 2, comma 13) che le dispo
 
 ## TITOLO III - DISPOSIZIONI IN MATERIA DI SPESA
 
-### Art. 16
+#### Art. 16
 
 Rinnovi contrattuali
 
@@ -740,7 +740,7 @@ La L. 27 dicembre 2002, n. 289 ha disposto:
 
 \- (con l'art. 33, comma 2) che le risorse previste dal comma 2 del presente articolo, per corrispondere i miglioramenti retributivi al personale statale in regime di diritto pubblico sono incrementate, a decorrere dall'anno 2003, di 208 milioni di euro, di cui 185 milioni di euro da destinare ai trattamenti economici, finalizzati anche all'incentivazione della produttivita', del personale delle Forze armate e dei Corpi di polizia di cui al decreto legislativo 12 maggio 1995, n. 195, e successive modificazioni, mediante l'attivazione delle apposite procedure previste dallo stesso decreto legislativo n. 195 del 1995.
 
-### Art. 17 - Compatibilita' della spesa in materia di contrattazione collettiva nazionale ed integrativa
+#### Art. 17 - Compatibilita' della spesa in materia di contrattazione collettiva nazionale ed integrativa
 
 1\. Al comma 3 dell'articolo 47 del decreto legislativo 30 marzo 2001, n. 165, sono aggiunti, in fine, i seguenti periodi: "Per le amministrazioni di cui all'articolo 41, comma 3, l'esame delle ipotesi di accordo e' effettuato dal competente comitato di settore e dal Presidente del Consiglio dei ministri, che si esprime attraverso il Ministro per la funzione pubblica, previa deliberazione del Consiglio dei ministri. In caso di divergenza nella valutazione degli oneri e ove il comitato di settore disponga comunque per l'ulteriore corso dell'accordo, resta in ogni caso escluso qualsiasi concorso dello Stato alla copertura delle spese derivanti dalle disposizioni sulle quali il Governo ha formulato osservazioni".
 
@@ -754,7 +754,7 @@ La L. 27 dicembre 2002, n. 289 ha disposto:
 
 4\. Tra gli enti pubblici non economici di cui all'articolo 39, comma 3-ter, della legge 27 dicembre 1997, n. 449, e successive modificazioni, si intendono ricompresi anche quelli di cui all'articolo 70, comma 4, del presente decreto legislativo".
 
-### Art. 18 - Riordino degli organismi collegiali
+#### Art. 18 - Riordino degli organismi collegiali
 
 1\. Ai fini del contenimento della spesa e di maggiore funzionalita' dei servizi e delle procedure, e' fatto divieto alle pubbliche amministrazioni, escluse quelle delle regioni, delle province, dei comuni e delle comunita' montane, di istituire comitati, commissioni, consigli ed altri organismi collegiali, ad eccezione di quelli di carattere tecnico e ad elevata specializzazione indispensabili per la realizzazione di obiettivi istituzionali non perseguibili attraverso l'utilizzazione del proprio personale.
 
@@ -762,7 +762,7 @@ La L. 27 dicembre 2002, n. 289 ha disposto:
 
 3\. Scaduto il termine di cui al comma 2 senza che si sia provveduto agli adempimenti ivi previsti, e' fatto divieto di corrispondere alcun compenso ai componenti degli organismi collegiali.
 
-### Art. 19
+#### Art. 19
 
 Assunzioni di personale
 
@@ -820,7 +820,7 @@ AGGIORNAMENTO (16)
 
 La L. 27 dicembre 2002, n. 289, come modificata dalla L. 24 dicembre 2003, n. 350, ha disposto (con l'art. 34, comma 20) che i comandi in atto del personale della societa' per azioni Poste italiane e dell'Istituto Poligrafico e Zecca dello Stato, di cui al comma 9 del presente articolo, sono prorogati sino al 31 dicembre 2004.
 
-### Art. 20 - Disposizioni particolari in materia di assunzioni di personale nella regione Sicilia
+#### Art. 20 - Disposizioni particolari in materia di assunzioni di personale nella regione Sicilia
 
 1\. La regione Sicilia e gli enti locali della regione medesima provvedono alla trasformazione in rapporti a tempo indeterminato dei rapporti di lavoro a tempo determinato instaurati, ai sensi dell'articolo 21, comma 2, dell'ordinanza del Ministro per il coordinamento della protezione civile n. 2212/FPC, del 3 febbraio 1992, pubblicata nella Gazzetta Ufficiale n. 28 del 4 febbraio 1992, come sostituito dall'articolo 13 dell'ordinanza del Presidente del Consiglio dei ministri n. 2414/FPC del 18 settembre 1995, pubblicata nella Gazzetta Ufficiale n. 227 del 28 settembre 1995, e degli articoli 14, comma 14, e 23-quater del decreto-legge 30 gennaio 1998, n. 6, convertito, con modificazioni, dalla legge 30 marzo 1998, n. 61, e successive modificazioni, dalla regione medesima e dagli enti locali delle province di Siracusa, Catania e Ragusa, colpiti dagli eventi sismici del dicembre 1990, sulla base di apposite procedure selettive, nell'ambito della programmazione triennale del fabbisogno di personale, nei limiti delle dotazioni organiche. Alla relativa spesa si provvede a valere sulle disponibilita' dei fondi assegnati alla regione Sicilia ai sensi dell'articolo 1 della legge 31 dicembre 1991, n. 433, e successive modificazioni.((37))
 
@@ -834,11 +834,11 @@ AGGIORNAMENTO (37)
 
 La L. 24 dicembre 2007, n. 244, ha disposto (con l'art. 2, comma 553) che "La Regione siciliana, in deroga ai limiti imposti dall'articolo 20, comma 1, della legge 28 dicembre 2001, n. 448, e con oneri a carico del proprio bilancio, e' autorizzata alla trasformazione a tempo indeterminato dei contratti stipulati con il personale di protezione civile proveniente da organismi di diritto pubblico individuato dall'articolo 76 della legge regionale della Regione siciliana 1° settembre 1993, n. 25, e successive modificazioni, gia' equiparato, ai sensi dell'articolo 7 della legge regionale della Regione siciliana 10 ottobre 1994, n. 38, e dell'articolo 48 della legge regionale della Regione siciliana 10 dicembre 2001, n. 21, a quello dalla stessa amministrato."
 
-### Art. 21
+#### Art. 21
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-### Art. 22
+#### Art. 22
 
 Disposizioni in materia di organizzazione scolastica
 
@@ -896,7 +896,7 @@ AGGIORNAMENTO (50)
 
 La L. 13 luglio 2015, n. 107 ha disposto (con l'art. 1, comma 194) che "In sede di prima applicazione della presente legge e limitatamente all'anno scolastico 2015/2016, per la determinazione dell'organico dell'autonomia non e' richiesto il parere di cui all'articolo 22, comma 2, della legge 28 dicembre 2001, n. 448".
 
-### Art. 23 - Riduzione dei compensi per i Ministri e contenimento delle spese di personale
+#### Art. 23 - Riduzione dei compensi per i Ministri e contenimento delle spese di personale
 
 1\. Il trattamento economico complessivo dei Ministri previsto dall'articolo 2, primo comma, della legge 8 aprile 1952, n. 212, e successive modificazioni, e' ridotto del 10 per cento a decorrere dal 1 gennaio 2002.
 
@@ -904,9 +904,9 @@ La L. 13 luglio 2015, n. 107 ha disposto (con l'art. 1, comma 194) che "In sede 
 
 3\. Per il triennio 2002-2004 e' fatto divieto a tutte le amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, di adottare provvedimenti per l'estensione di decisioni giurisdizionali aventi forza di giudicato, o comunque divenute esecutive, in materia di personale delle amministrazioni pubbliche.
 
-## CAPO II - SPESE DELLE AMMINISTRAZIONI PUBBLICHE
+### CAPO II - SPESE DELLE AMMINISTRAZIONI PUBBLICHE
 
-### Art. 24
+#### Art. 24
 
 Patto di stabilita' interno per province e comuni
 
@@ -944,7 +944,7 @@ opportune azioni dirette ad attuare l'esternalizzazione dei servizi al fine di r
 
 14\. Alle finalita' di cui al presente articolo provvedono, per il rispettivo territorio, le province autonome di Trento e di Bolzano, ai sensi delle competenze alle stesse attribuite dallo statuto speciale e dalle relative norme di attuazione.
 
-### Art. 25
+#### Art. 25
 
 Finanza decentrata
 
@@ -1008,13 +1008,13 @@ AGGIORNAMENTO (33)
 
 La L. 24 dicembre 2007, n. 244, ha disposto (con l'art. 2, comma 6) che e' soppressa l'autorizzazione di spesa prevista al comma 11 del presente articolo.
 
-### Art. 26 - Fondo per lo sviluppo degli investimenti degli enti locali
+#### Art. 26 - Fondo per lo sviluppo degli investimenti degli enti locali
 
 1\. Il comma 11 dell'articolo 53 della legge 23 dicembre 2000, n. 388, e' sostituito dal seguente:
 
 "11. Il fondo per lo sviluppo degli investimenti degli enti locali di cui all'articolo 28, comma 1, lettera c), del decreto legislativo 30 dicembre 1992, n. 504, risultante a consuntivo per l'anno 2001 e' mantenuto allo stesso livello per l'anno 2002, e' incrementato del tasso di inflazione programmato a decorrere dall'anno 2003 con una utilizzazione nell'ambito della revisione dei trasferimenti degli enti locali ed e' finalizzato all'attribuzione di contributi sulle rate di ammortamento dei mutui ancora in essere. Per l'anno 2002 le restanti risorse disponibili sono destinate per il 50 per cento ad incremento del fondo ordinario e per il restante 50 per cento sono distribuite secondo i criteri e per le finalita' di cui all'articolo 31, comma 11, della legge 23 dicembre 1998, n. 448. Ai fini dell'applicazione dell'articolo 9, comma 3, del decreto legislativo 30 giugno 1997, n. 244, recante riordino del sistema dei trasferimenti agli enti locali, nel calcolo delle risorse e' considerato il fondo perequativo degli squilibri di fiscalita' locale".
 
-### Art. 27
+#### Art. 27
 
 Disposizioni finanziarie per gli enti locali
 
@@ -1076,9 +1076,9 @@ AGGIORNAMENTO (9)
 
 La L. 27 dicembre 2002, n. 289 ha disposto (con l'art. 31, comma 10) che a decorrere dal 1 gennaio 2003, le basi di calcolo dei sovracanoni di cui al comma 10 del presente articolo, sono fissate rispettivamente in 18 euro e 4,50 euro.
 
-## CAPO III - PATTO DI STABILITA' INTERNO PER GLI ENTI PUBBLICI
+### CAPO III - PATTO DI STABILITA' INTERNO PER GLI ENTI PUBBLICI
 
-### Art. 28
+#### Art. 28
 
 Trasformazione e soppressione di enti pubblici
 
@@ -1112,7 +1112,7 @@ AGGIORNAMENTO (33)
 
 La L. 24 dicembre 2007, n. 244, ha disposto (con l'art. 2, comma 640) che sono comunque fatti salvi i regolamenti emanati in applicazione dell' articolo 28.
 
-### Art. 29
+#### Art. 29
 
 Misure di efficienza delle pubbliche amministrazioni
 
@@ -1146,11 +1146,11 @@ a) definisce indirizzi per l'impiego ottimale della informatizzazione nelle pubb
 
 b) definisce programmi di valutazione tecnica ed economica dei progetti in corso e di quelli da adottare da parte delle amministrazioni statali anche ad ordinamento autonomo e degli enti pubblici non economici nazionali, nonche' assicura la verifica ed il monitoraggio dell'impiego delle risorse in relazione ai progetti informatici eseguiti, ove necessario avvalendosi delle strutture dell'Autorita' per l'informatica nella pubblica amministrazione (AIPA) ((, fino alla data di entrata in vigore del regolamento di cui al comma 6)); le risorse, eventualmente accertate dal Ministro dell'economia e delle finanze, di concerto con il Ministro per l'innovazione e le tecnologie, quali economie di spesa, sono destinate al finanziamento di progetti innovativi nel settore informatico.
 
-### Art. 30 - Attivita' di supporto al Ministero del lavoro e delle politiche sociali
+#### Art. 30 - Attivita' di supporto al Ministero del lavoro e delle politiche sociali
 
 1\. Il Ministero del lavoro e delle politiche sociali si avvale di Italia Lavoro Spa, istituita con la direttiva del Presidente del Consiglio dei ministri del 13 maggio 1997, pubblicata nella Gazzetta Ufficiale n. 128 del 4 giugno 1997, per la promozione e la gestione di azioni nel campo delle politiche attive del lavoro e dell'assistenza tecnica ai servizi per l'impiego. Il Ministero del lavoro e delle politiche sociali assegna direttamente a Italia Lavoro Spa, con provvedimento amministrativo, funzioni, servizi e risorse relativi a tali compiti.
 
-### Art. 31 - Misure in materia di servizi della pubblica amministrazione e di sostegno dell'occupazione nelle regioni del Sud
+#### Art. 31 - Misure in materia di servizi della pubblica amministrazione e di sostegno dell'occupazione nelle regioni del Sud
 
 1\. Al fine di migliorare i rapporti con i cittadini e con le imprese, le amministrazioni dello Stato, centrali e periferiche, le agenzie, gli enti locali possono attivare, entro il primo semestre del 2002, iniziative per il colloquio diretto con l'utenza, via telefono o via web, a valere sugli ordinari stanziamenti di bilancio nonche' sulle disponibilita' indicate nei piani per il 2002 approvati dall'AIPA.
 
@@ -1166,7 +1166,7 @@ c) compresenza di soggetti pubblici o istituzioni a prevalente carattere pubblic
 
 4\. Con regolamento emanato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, il Presidente del Consiglio dei ministri, su proposta congiunta del Ministro per la funzione pubblica e del Ministro per l'innovazione e le tecnologie, individua le amministrazioni e le agenzie di cui al comma 1 e stabilisce le disposizioni attuative del presente articolo, entro novanta giorni dalla data di entrata in vigore della presente legge.
 
-### Art. 32
+#### Art. 32
 
 Contenimento e razionalizzazione delle spese
 
@@ -1178,7 +1178,7 @@ Contenimento e razionalizzazione delle spese
 
 3\. La dotazione delle unita' previsionali di base di cui al comma 2 e' quantificata annualmente ai sensi dell'articolo 11, comma 3, lettera d), della legge 5 agosto 1978, n. 468, e successive modificazioni. Per gli anni 2002, 2003 e 2004, la dotazione e' ridotta del 10,43 per cento rispetto all'importo complessivamente risultante sulla base della legislazione vigente.
 
-### Art. 33
+#### Art. 33
 
 Servizi dei beni culturali
 
@@ -1186,11 +1186,11 @@ Servizi dei beni culturali
 
 "b-bis) dare in concessione a soggetti diversi da quelli statali la gestione di servizi finalizzati al miglioramento della fruizione pubblica e della valorizzazione del patrimonio artistico come definiti dall'articolo 152, comma 3, del decreto legislativo 31 marzo 1998, n. 112, secondo modalita', criteri e garanzie definiti con regolamento emanato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400. Il suddetto regolamento dovra' stabilire, tra l'altro: le procedure di affidamento dei servizi, che dovranno avvenire mediante licitazione privata, con i criteri concorrenti dell'offerta economica piu' vantaggiosa e della proposta di offerta di servizi qualitativamente piu' favorevole dal punto di vista della crescita culturale degli utenti e della tutela e valorizzazione dei beni, e comunque nel rispetto della normativa nazionale ed europea; i rispettivi compiti dello Stato e dei concessionari riguardo alle questioni relative ai restauri e all'ordinaria manutenzione dei beni oggetto del servizio, ferma restando la riserva statale sulla tutela dei beni; i criteri, le regole e le garanzie per il reclutamento del personale, le professionalita' necessarie rispetto ai diversi compiti, i livelli retributivi minimi per il personale, a prescindere dal contratto di impiego; i parametri di offerta al pubblico e di gestione dei siti culturali. Tali parametri dovranno attenersi ai principi stabiliti all'articolo 2, comma 1, dello Statuto dell'International Council of Museums. Con lo stesso regolamento sono fissati i meccanismi per la determinazione della durata della concessione per un periodo non inferiore a cinque anni e del canone complessivo da corrispondere allo Stato per tutta la durata stabilita, da versare anticipatamente all'atto della stipulazione della relativa convenzione nella misura di almeno il 50 per cento; la stessa convenzione deve prevedere che, all'atto della cessazione per qualsiasi causa della concessione, i beni culturali conferiti in gestione dal Ministero ritornino nella disponibilita' di quest'ultimo. La presentazione, da parte dei soggetti concorrenti, di progetti di gestione e valorizzazione complessi e plurimi che includano accanto a beni e siti di maggiore rilevanza anche beni e siti cosiddetti "minori" collocati in centri urbani con popolazione pari o inferiore a 30.000 abitanti, verra' considerata titolo di preferenza a condizione che sia sempre e comunque salvaguardata l'autonomia scientifica e di immagine individuale propria del museo minore".
 
-### Art. 34 - Personale a tempo determinato del Ministero per i beni e le attivita' culturali
+#### Art. 34 - Personale a tempo determinato del Ministero per i beni e le attivita' culturali
 
 1\. Il Ministero per i beni e le attivita' culturali e' autorizzato ad avvalersi, fino al 31 dicembre 2002, del personale gia' assunto a tempo determinato ai sensi dell'articolo 8, comma 7, del decreto-legge 30 gennaio 1998, n. 6, convertito, con modificazioni, dalla legge 30 marzo 1998, n. 61, dell'articolo 22, comma 5, della legge 23 dicembre 1998, n. 448, e dell'articolo 1, comma 1, della legge 16 dicembre 1999, n. 494. Sono fatte salve le eventuali successive scadenze previste dai contratti in essere sulla base di specifiche disposizioni legislative.
 
-### Art. 35
+#### Art. 35
 
 Norme in materia di servizi pubblici locali
 
@@ -1304,13 +1304,13 @@ c) societa' di capitali costituite o partecipate dagli enti locali, regolate dal
 
 16\. COMMA ABROGATO DAL D.L. 30 SETTEMBRE 2003, N. 269, CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326.
 
-### Art. 36 - Organici del personale
+#### Art. 36 - Organici del personale
 
 1\. In conseguenza delle attivita' poste in essere ai sensi del presente capo, le pubbliche amministrazioni apportano, con le modalita' previste dai rispettivi ordinamenti, le relative variazioni in diminuzione alle proprie dotazioni organiche. Ai fini dell'individuazione delle eccedenze di personale e delle conseguenti procedure di mobilita', si applicano le vigenti disposizioni, anche di natura contrattuale.
 
-## CAPO IV - INTERVENTI IN MATERIA PREVIDENZIALE E SOCIALE
+### CAPO IV - INTERVENTI IN MATERIA PREVIDENZIALE E SOCIALE
 
-### Art. 37
+#### Art. 37
 
 Gestioni previdenziali
 
@@ -1324,7 +1324,7 @@ b) in 141,51 milioni di euro in favore del Fondo pensioni lavoratori dipendenti,
 
 3\. I medesimi complessivi importi di cui ai commi 1 e 2 sono ripartiti tra le gestioni interessate con il procedimento di cui all'articolo 14 della legge 7 agosto 1990, n. 241, e successive modificazioni, al netto, per quanto attiene al trasferimento di cui al comma 1, lettera a), della somma di 1.144,98 milioni di euro attribuita alla gestione per i coltivatori diretti, mezzadri e coloni a completamento dell'integrale assunzione a carico dello Stato dell'onere relativo ai trattamenti pensionistici liquidati anteriormente al 1 gennaio 1989, nonche' al netto delle somme di 2,07 milioni di euro e di 49,58 milioni di euro di pertinenza, rispettivamente, della gestione speciale minatori e dell'ENPALS.
 
-### Art. 38
+#### Art. 38
 
 Incremento delle pensioni in favore di soggetti disagiati
 
@@ -1406,7 +1406,7 @@ AGGIORNAMENTO (74)
 
 La L. 30 dicembre 2025, n. 199 ha disposto (con l'art. 1, comma 179) che "Nell'ambito del processo di incremento delle pensioni per i soggetti in condizioni disagiate, a decorrere dal 1° gennaio 2026, l'importo mensile di cui all'alinea del comma 1 dell'articolo 38 della legge 28 dicembre 2001, n. 448, e l'importo annuo di cui alle lettere a) e b) del comma 5 del medesimo articolo 38, aumentato ai sensi della lettera d) del suddetto comma 5, come rideterminati ai sensi dell'articolo 5, comma 5, del decreto-legge 2 luglio 2007, n. 81, convertito, con modificazioni, dalla legge 3 agosto 2007, n. 127, sono incrementati rispettivamente di 20 euro e di 260 euro".
 
-### Art. 39
+#### Art. 39
 
 Norme a favore dei lavoratori affetti da talassemia major e
 
@@ -1418,15 +1418,15 @@ drepanocitosi e in materia di uso dei farmaci di automedicazione
 
 3\. In relazione a quanto previsto dall'articolo 85, comma 24, della legge 23 dicembre 2000, n. 388, e dal decreto-legge 18 settembre 2001, n. 347, convertito, con modificazioni, dalla legge 16 novembre 2001, n. 405, sulla migliore informazione possibile a tutela della salute pubblica, il Ministero della salute, di intesa con le imprese del settore farmaceutico dell'automedicazione, promuove una campagna istituzionale al fine di informare i cittadini sul migliore uso dei farmaci di automedicazione nella cura delle patologie minori, anche attraverso il ruolo professionale del farmacista, i cui costi saranno a carico delle imprese del settore.
 
-## CAPO V - INTERVENTI NEL SETTORE SANITARIO
+### CAPO V - INTERVENTI NEL SETTORE SANITARIO
 
-### Art. 40 - Concorso delle regioni al rispetto degli obiettivi
+#### Art. 40 - Concorso delle regioni al rispetto degli obiettivi
 
 1\. Il mancato rispetto degli impegni indicati al punto 19 dell'Accordo tra Governo, regioni e province autonome dell'8 agosto 2001 in materia sanitaria, comporta, per il finanziamento della spesa nel settore, il ripristino per la regione e le province autonome inadempienti del livello stabilito nell'Accordo tra Governo, regioni e province autonome del 3 agosto 2000, come integrato dall'articolo 85, comma 6, della legge 23 dicembre 2000, n. 388.
 
-## CAPO VI - STRUMENTI DI GESTIONE DEL DEBITO PUBBLICO
+### CAPO VI - STRUMENTI DI GESTIONE DEL DEBITO PUBBLICO
 
-### Art. 41
+#### Art. 41
 
 Finanza degli enti territoriali
 
@@ -1444,15 +1444,15 @@ Con lo stesso decreto sono approvate le norme relative all'ammortamento del debi
 
 4\. Per il finanziamento di spese di parte corrente, il comma 3 dell'articolo 194 del citato testo unico di cui al decreto legislativo 18 agosto 2000, n. 267, si applica limitatamente alla copertura dei debiti fuori bilancio maturati anteriormente alla data di entrata in vigore della legge costituzionale 18 ottobre 2001, n. 3.
 
-### Art. 42 - Riduzione del costo del debito pubblico
+#### Art. 42 - Riduzione del costo del debito pubblico
 
 1\. All'articolo 11 della legge 23 dicembre 1998, n. 448, il comma 5 e' sostituito dal seguente:
 
 "5. Per le finalita' di cui al presente articolo, il Ministro dell'economia e delle finanze e' autorizzato ad effettuare, con l'osservanza delle disposizioni di cui all'articolo 38 della legge 30 marzo 1981, n. 119, e successive modificazioni, emissioni di titoli del debito pubblico negli anni 1999 e successivi; tali emissioni non concorrono al raggiungimento del limite dell'importo massimo di emissione di titoli pubblici annualmente stabilito dalla legge di approvazione del bilancio. Il ricavo netto delle suddette emissioni, limitato a lire 2.500 miliardi per la prima annualita', verra' attribuito al Ministero dell'economia e delle finanze, che provvedera' a soddisfare gli aventi diritto con le modalita' di cui al comma 6; per le annualita' successive, l'importo massimo di titoli pubblici sara' determinato con la legge finanziaria. L'emissione dei titoli autorizzati e il relativo ammontare saranno stabiliti con decreto del Ministro dell'economia e delle finanze, sulla base delle somme che si accerteranno come effettivamente necessarie per il completamento delle attivita' di rimborso".
 
-## CAPO VII - INTERVENTI IN MATERIA DI LAVORO
+### CAPO VII - INTERVENTI IN MATERIA DI LAVORO
 
-### Art. 43 - Riduzione del costo del lavoro
+#### Art. 43 - Riduzione del costo del lavoro
 
 1\. A decorrere dall'anno 2002 restano confermate:
 
@@ -1468,7 +1468,7 @@ b) il regime contributivo delle erogazioni previste dai contratti di secondo liv
 
 3\. La disposizione di cui al comma 7 dell'articolo 69 della legge 23 dicembre 2000, n. 388, si applica a decorrere dalla data di entrata in vigore della legge 11 novembre 1983, n. 638.
 
-### Art. 44 - Sgravi per i nuovi assunti
+#### Art. 44 - Sgravi per i nuovi assunti
 
 1\. A tutti i datori di lavoro privati ed agli enti pubblici economici, operanti nelle regioni Campania, Basilicata, Sicilia, Puglia, Calabria e Sardegna, e' riconosciuto, per i nuovi assunti nell'anno 2002 ad incremento delle unita' effettivamente occupate al 31 dicembre 2001 e per un periodo di tre anni dalla data di assunzione del singolo lavoratore, lo sgravio contributivo in misura totale dei contributi dovuti all'Istituto nazionale della previdenza sociale (INPS) e all'Ente nazionale di previdenza e di assistenza per i lavoratori dello spettacolo (ENPALS) a loro carico, sulle retribuzioni assoggettate a contribuzione per il Fondo pensioni lavoratori dipendenti e per il Fondo pensioni per i lavoratori dello spettacolo. Il beneficio si intende riconosciuto anche alle societa' cooperative di lavoro, relativamente ai nuovi soci lavoratori con i quali venga instaurato un rapporto di lavoro assimilabile a quello di lavoro dipendente. Ai fini della concessione delle predette agevolazioni, si applicano le condizioni stabilite all'articolo 3, comma 6, della legge 23 dicembre 1998, n. 448, aggiornando al 31 dicembre 2001 le date di cui alla lettera a) del medesimo comma 6 dell'articolo 3.
 
@@ -1476,9 +1476,9 @@ b) il regime contributivo delle erogazioni previste dai contratti di secondo liv
 
 3\. Il beneficio di cui al comma 1 e' riconosciuto, nei limiti della disciplina degli aiuti di importanza minore di cui al regolamento (CE) n. 69/2001 della Commissione, del 12 gennaio 2001, anche ai datori di lavoro operanti nei territori delle regioni Abruzzo e Molise, nonche' nei territori delle sezioni circoscrizionali del collocamento nelle quali il tasso medio di disoccupazione, calcolato riparametrando il dato provinciale secondo la definizione allargata ISTAT, rilevata per il 2000, sia superiore alla media nazionale risultante dalla medesima rilevazione e che siano confinanti con le aree dell'obiettivo 1 di cui all'allegato I della decisione (CE) n. 1999/502, del 1 luglio 1999. Il beneficio di cui al presente comma e' cumulabile con altri benefici eventualmente concessi, nel rispetto dei limiti e delle modalita' di cui al citato regolamento (CE) n. 69/2001.
 
-## CAPO VIII - INTERVENTI IN MATERIA DI INVESTIMENTI PUBBLICI
+### CAPO VIII - INTERVENTI IN MATERIA DI INVESTIMENTI PUBBLICI
 
-### Art. 45
+#### Art. 45
 
 Limiti di impegno
 
@@ -1490,7 +1490,7 @@ Limiti di impegno
 
 4\. Per la prosecuzione ed il completamento degli interventi di cui all'articolo 144, comma 5, della legge 23 dicembre 2000, n. 388, e' autorizzata la spesa di 7 milioni di euro a decorrere dall'anno 2003.
 
-### Art. 46
+#### Art. 46
 
 Fondo investimenti
 
@@ -1510,7 +1510,7 @@ AGGIORNAMENTO (33)
 
 La L. 24 dicembre 2007, n. 244, ha disposto (con l'art. 3, comma 33) che il presente articolo 46 cessa di avere efficacia a decorrere dall'anno 2008.
 
-### Art. 47 - Finanziamento delle grandi opere e di altri interventi
+#### Art. 47 - Finanziamento delle grandi opere e di altri interventi
 
 1\. Per il finanziamento del piano straordinario delle infrastrutture e delle opere di grandi dimensioni a livello regionale e locale, individuate dal CIPE, la Cassa depositi e prestiti puo' intervenire, per fini di interesse generale, anche in collaborazione con altre istituzioni finanziarie, a favore di soggetti pubblici e privati ai quali fanno carico gli studi, la progettazione, la realizzazione e la gestione delle opere, mediante operazioni di finanziamento sotto qualsiasi forma, anche di finanza di progetto, di prestazioni di garanzie e di assunzioni di nuove partecipazioni che non dovranno essere di maggioranza ne' comunque di controllo ai sensi dell'articolo 2359 del codice civile.
 
@@ -1534,7 +1534,7 @@ La L. 24 dicembre 2007, n. 244, ha disposto (con l'art. 3, comma 33) che il pres
 
 10\. A valere sulle risorse destinate dalla presente legge al rifinanziamento del fondo di cui alla legge 15 dicembre 1990, n. 396, una somma pari a 3 milioni di euro per il 2002 e' utilizzata per la progettazione di interventi, di particolare pregio architettonico ed urbanistico, nel quadro delle iniziative volte al perseguimento dell'obiettivo di definizione organica del piano di localizzazione degli uffici pubblici, di cui all'articolo 1 della medesima legge n. 396 del 1990. I soggetti pubblici interessati presentano le proposte relative ai predetti interventi entro quarantacinque giorni dalla data di entrata in vigore della presente legge.
 
-### Art. 48 - Misure a sostegno degli investimenti in ricerca e sviluppo
+#### Art. 48 - Misure a sostegno degli investimenti in ricerca e sviluppo
 
 1\. Il credito di imposta di cui all'articolo 108 della legge 23 dicembre 2000, n. 388, si applica, nell'esercizio 2002, limitatamente alle imprese ubicate nelle aree territoriali individuate dalla decisione della Commissione europea 13 marzo 2000 come destinatarie degli aiuti a finalita' regionale di cui alla deroga prevista dall'articolo 87, paragrafo 3, lettera a), del Trattato istitutivo della Comunita' europea, e successive modificazioni, nella misura massima dell'85 per cento dell'incremento delle spese di ricerca e sviluppo sostenute rispetto alla media delle analoghe spese sostenute nei tre esercizi precedenti. Per le piccole e medie imprese che svolgono attivita' industriale, il credito di imposta di cui all'articolo 108 della citata legge n. 388 del 2000 si applica nella misura massima del 100 per cento dell'incremento delle predette spese. Il credito di imposta e' comunque attribuito entro la misura massima consentita nel rispetto dei criteri e dei limiti di intensita' di aiuto stabiliti dalla comunicazione della Commissione europea 96/C, 45/06, concernente la disciplina comunitaria per gli aiuti di Stato alla ricerca e sviluppo, come modificata dalla comunicazione 98/C, 48/02. Il credito di imposta e' fruibile previa autorizzazione della Commissione europea. A tale fine, il Ministro dell'economia e delle finanze procede all'inoltro alla Commissione della richiesta di preventiva autorizzazione.
 
@@ -1544,9 +1544,9 @@ La L. 24 dicembre 2007, n. 244, ha disposto (con l'art. 3, comma 33) che il pres
 
 4\. Le modalita' di applicazione dell'incentivo fiscale di cui al presente articolo sono disciplinate con decreto del Ministro delle attivita' produttive, di concerto con il Ministro dell'economia e delle finanze, da adottare entro due mesi dalla data di entrata in vigore della presente legge.
 
-## CAPO IX - ALTRI INTERVENTI
+### CAPO IX - ALTRI INTERVENTI
 
-### Art. 49
+#### Art. 49
 
 Beni mobili registrati sequestrati e confiscati
 
@@ -1564,13 +1564,13 @@ d) attribuire all'autorita' amministrativa il potere di disporre, anche d'uffici
 
 3\. Tutti i beni mobili registrati sequestrati e confiscati devono essere posti in vendita, tramite asta pubblica, entro un anno dalla data della confisca. Il ricavato, al netto delle somme di euro 77,50 milioni per l'anno 2002, 129,10 milioni per l'anno 2003 e 232,40 milioni a decorrere dall'anno 2004, e' utilizzato per l'acquisto di attrezzature necessarie all'ammodernamento tecnologico e strumentale degli uffici della Polizia, dei Carabinieri, della Guardia di finanza e della Polizia penitenziaria, previa deduzione delle spese procedurali. Restano ferme le disposizioni vigenti che consentono l'affidamento e l'assegnazione dei beni mobili registrati sequestrati e confiscati alle Forze di polizia che ne facciano richiesta per l'impiego in attivita' istituzionali.
 
-### Art. 50
+#### Art. 50
 
 ((ARTICOLO ABROGATO DAL D.L. 30 SETTEMBRE 2003, N. 269,
 
 CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326))
 
-### Art. 51 - Fondi per le vittime dell'estorsione, dell'usura e della mafia
+#### Art. 51 - Fondi per le vittime dell'estorsione, dell'usura e della mafia
 
 1\. Dopo l'articolo 18 della legge 23 febbraio 1999, n. 44, e' inserito il seguente:
 
@@ -1582,7 +1582,7 @@ CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326))
 
 2\. All'articolo 6, comma 4, della legge 22 dicembre 1999, n. 512, e' aggiunto, in fine, il seguente periodo: "Le somme recuperate attraverso la surroga sono versate dal concessionario in conto entrata del bilancia dello Stato, per essere riassegnate sul capitolo di spesa dello stato di previsione del Ministero dell'interno, riguardante il Fondo di rotazione per la solidarieta' alle vittime dei reati di tipo mafioso".
 
-### Art. 52
+#### Art. 52
 
 Interventi vari
 
@@ -1878,7 +1878,7 @@ c) articolo 52, comma 18, della legge 28 dicembre 2001, n. 448".
 
 \- Il regolamento di cui all'art. 1, comma 164, lettera c) della L. 28 dicembre 2015, n. 208 e' stato emanato con D.P.R. 23 agosto 2017, n. 146, pubblicato in G.U. 12/10/2017, n. 239.
 
-### Art. 53
+#### Art. 53
 
 Disposizioni concernenti lo stabilimento
 
@@ -1888,7 +1888,7 @@ ILVA di Genova Cornigliano
 
 2\. La regione Liguria conferisce le aree di cui al comma 1 ad una societa' per azioni allo scopo costituita, alla quale potranno partecipare, a richiesta, il comune di Genova e la provincia di Genova in quota complessivamente e congiuntamente paritaria a quella della regione Liguria. Tale societa' verra' altresi' partecipata in quota minoritaria da soggetto designato dal Governo. La societa' per azioni dispone di dette aree anche per definire, secondo le modalita' piu' opportune, la disciplina complessiva dei rapporti giuridico-economici relativi al soggetto privato attuale concessionario, garantisce la continuita' dell'attuale occupazione anche attraverso il consolidamento delle lavorazioni a freddo e utilizza le risorse indicate al comma 1. In tale quadro il Governo garantisce il mantenimento della continuita' occupazionale di tutti i lavoratori interessati ((anche tramite il ricorso all'istituto del lavoro socialmente utile secondo quanto previsto dall'articolo 26 del decreto legislativo 14 settembre 2015, n. 150. Allo scopo sono utilizzate le risorse di cui all'articolo 5, comma 14, del decreto-legge 14 marzo 2005, n. 35, convertito, con modificazioni, dalla legge 14 maggio 2005, n. 80)). Tutti i trasferimenti previsti dal presente articolo sono esenti da imposizioni fiscali.
 
-### Art. 54
+#### Art. 54
 
 Fondo nazionale per il sostegno alla progettazione
 
@@ -1922,7 +1922,7 @@ AGGIORNAMENTO (22)
 
 La Corte Costituzionale, con sentenza 20-29 gennaio 2004, n. 49 (in G.U. 1a s.s. 4/2/2004, n. 5) ha dichiarato l'illegittimita' costituzionale del presente articolo 54.
 
-### Art. 55
+#### Art. 55
 
 Fondo nazionale per la realizzazione di
 
@@ -1944,19 +1944,19 @@ AGGIORNAMENTO (24)
 
 La Corte Costituzionale, con sentenza 20-29 gennaio 2004, n. 49 (in G.U. 1a s.s. 4/2/2004, n. 5) ha dichiarato l'illegittimita' costituzionale del presente articolo 55.
 
-### Art. 56 - Disposizioni in favore del Parco nazionale del Cilento e Vallo di Diano
+#### Art. 56 - Disposizioni in favore del Parco nazionale del Cilento e Vallo di Diano
 
 1\. Al fine di promuovere la realizzazione di interventi urgenti per la protezione dal fenomeno dell'erosione delle coste del Tirreno meridionale ricadenti nel Parco nazionale del Cilento e Vallo di Diano, e' riconosciuto un contributo straordinario in favore del Ministero delle infrastrutture e dei trasporti, nella misura di 5,64 milioni di euro per l'anno 2002, 12,911 milioni di euro per l'anno 2003 e 12,911 milioni di euro per l'anno 2004.
 
-### Art. 57 - Disposizioni in materia di risorse finanziarie da destinare alla societa' Ferrovie dello Stato Spa
+#### Art. 57 - Disposizioni in materia di risorse finanziarie da destinare alla societa' Ferrovie dello Stato Spa
 
 1\. Al fine di consentire l'attribuzione alla societa' Ferrovie dello Stato Spa, in conto aumento di capitale sociale, delle risorse finanziarie di cui all'articolo 1, comma 3, e all'articolo 3, comma 1, della legge 8 ottobre 1998, n. 354, nonche' all'articolo 145, comma 78, della legge 23 dicembre 2000, n. 388, i corrispondenti stanziamenti iscritti nello stato di previsione del Ministero delle infrastrutture e dei trasporti sono trasferiti nello stato di previsione del Ministero dell'economia e delle finanze.
 
-### Art. 58 - Modifica all'articolo 23 della legge 5 marzo 2001, n. 57
+#### Art. 58 - Modifica all'articolo 23 della legge 5 marzo 2001, n. 57
 
 1\. Al comma 1 dell'articolo 23 della legge 5 marzo 2001, n. 57, le parole: "non superiore al 40 per cento" sono sostituite dalle seguenti: "non superiore all'80 per cento". Conseguentemente, al comma 5 dell'articolo 1 del regolamento di cui al decreto del Ministro delle comunicazioni 24 ottobre 2001, n. 407, le parole: "non superiore al 40 per cento" sono sostituite dalle seguenti: "non superiore all'80 per cento".
 
-### Art. 59
+#### Art. 59
 
 ((ARTICOLO ABROGATO DAL D.L. 22 GIUGNO 2012, N. 83, CONVERTITO, CON MODIFICAZIONI, DALLA L. 7 AGOSTO 2012, N. 134)) ((39))
 
@@ -1966,7 +1966,7 @@ AGGIORNAMENTO (39)
 
 Il D.L. 22 giugno 2012, n. 83, convertito, con modificazioni, dalla L. 7 agosto 2012, n. 134, ha disposto (con l'art. 23, comma 11) che "I procedimenti avviati in data anteriore a quella di entrata in vigore del presente decreto-legge sono disciplinati, ai fini della concessione e dell'erogazione delle agevolazioni e comunque fino alla loro definizione, dalle disposizioni delle leggi di cui all'Allegato 1 e dalle norme di semplificazione recate dal presente decreto-legge."
 
-### Art. 60 - Modifiche all'articolo 8 della legge 23 dicembre 2000, n. 388
+#### Art. 60 - Modifiche all'articolo 8 della legge 23 dicembre 2000, n. 388
 
 1\. All'articolo 8 della legge 23 dicembre 2000, n. 388, sono apportate le seguenti modificazioni:
 
@@ -1982,13 +1982,13 @@ d) dopo il comma 7 e' inserito il seguente:
 
 2\. Alle imprese agricole di cui all'articolo 1 del decreto legislativo 18 maggio 2001, n. 228, che effettuano investimenti ai sensi dell'articolo 8 della legge 23 dicembre 2000, n. 388, come modificato dal comma 1 del presente articolo, si applicano le limitazioni di cui all'articolo 5, comma 2, della legge 18 ottobre 2001, n. 383.
 
-### Art. 61 - Modifica all'articolo 45 della legge 23 dicembre 2000, n. 388
+#### Art. 61 - Modifica all'articolo 45 della legge 23 dicembre 2000, n. 388
 
 1\. Dopo il comma 3 dell'articolo 45 della legge 23 dicembre 2000, n. 388, e' aggiunto il seguente:
 
 "3-bis. Tra gli immobili di cui al comma 3 rientrano anche quelli ad uso non abitativo qualora destinati, realizzati, assegnati oppure utilizzati per i profughi di cui al citato comma 3, ed allorche' negli stessi immobili si svolgano o si siano svolte attivita' culturali, sociali, scolastiche e sanitarie. Rientrano altresi' nei predetti immobili quelli destinati allo svolgimento di attivita' commerciali o artigianali, nella misura in cui siano diretti a soddisfare esigenze di primaria necessita', in attuazione degli scopi statutari degli enti soppressi di cui al comma 3".
 
-### Art. 62 - Modifiche all'articolo 109 della legge 23 dicembre 2000, n. 388
+#### Art. 62 - Modifiche all'articolo 109 della legge 23 dicembre 2000, n. 388
 
 1\. All'articolo 109 della legge 23 dicembre 2000, n. 388, sono apportate le seguenti modificazioni:
 
@@ -2016,11 +2016,11 @@ f) le categorie di soggetti beneficiari;
 
 g) le modalita' di verifica della corretta e tempestiva attuazione delle iniziative e di valutazione dei risultati conseguiti".
 
-### Art. 63 - Modifica all'articolo 4 della legge 30 dicembre 1991, n. 412
+#### Art. 63 - Modifica all'articolo 4 della legge 30 dicembre 1991, n. 412
 
 1\. All'articolo 4, comma 15, della legge 30 dicembre 1991, n. 412, dopo le parole: "policlinici universitari a diretta gestione," sono inserite le seguenti: "gli ospedali classificati".
 
-### Art. 64
+#### Art. 64
 
 Modifiche all'articolo 2 del
 
@@ -2046,7 +2046,7 @@ AGGIORNAMENTO (19)
 
 La Corte costituzionale, con sentenza 18 dicembre 2003-13 gennaio 2004, n. 12 (in G.U. 1a s.s. 21/1/2004, n. 3) ha dichiarato l'illegittimita' costituzionale del presente articolo 64.
 
-### Art. 65 - Disposizioni in favore delle imprese armatrici delle unita' da pesca e a tutela dell'occupazione del personale marittimo
+#### Art. 65 - Disposizioni in favore delle imprese armatrici delle unita' da pesca e a tutela dell'occupazione del personale marittimo
 
 1\. Alle imprese armatrici di unita' da pesca che ottemperino a quanto stabilito dall'articolo 3 del regolamento (CE) n. 2847/93 del Consiglio, del 12 ottobre 1993, che intendano conseguire per le stesse l'abilitazione alla categoria di pesca appropriata all'attivita' cui il peschereccio e' funzionalmente orientato, nonche' alle imprese armatrici di unita' da pesca esistenti ed aventi lunghezza fra le perpendicolari superiore a diciotto metri che debbano essere adeguate alle previsioni di cui al decreto legislativo 17 agosto 1999, n. 298, e' concesso un contributo in conto capitale sulle spese di investimento per gli interventi strutturali di adeguamento necessari. A tale fine e' autorizzata la spesa di 7,50 milioni di euro per l'anno 2002 e di 5 milioni di euro per ciascuno degli anni 2003 e 2004.
 
@@ -2060,7 +2060,7 @@ a) a parziale modifica di quanto previsto dal decreto del Ministro dei trasporti
 
 b) i marittimi per i quali siano richiesti i certificati di antincendio di base, sopravvivenza e salvataggio e primo soccorso elementare ai sensi della Convenzione STCW/95, e che non abbiano frequentato i corsi o sostenuto esami, vengono ugualmente certificati qualora abbiano navigato per un periodo di sei mesi negli ultimi cinque anni. Su di essi gravera' comunque l'obbligo di frequentare i corsi e sostenere gli esami per antincendio di base e sopravvivenza e salvataggio e sostenere soltanto gli esami per il primo soccorso elementare, entro dodici mesi, a far data dal 1 febbraio 2002. Trascorso tale termine senza che siano stati frequentati i corsi e sostenuti gli esami, le certificazioni rilasciate ai sensi del presente comma perdono efficacia.
 
-### Art. 66 - Interventi per la protezione dall'influenza catarrale dei ruminanti
+#### Art. 66 - Interventi per la protezione dall'influenza catarrale dei ruminanti
 
 1\. Gli interventi di cui alla lettera b) del comma 2 dell'articolo 7-bis del decreto-legge 11 gennaio 2001, n. 1, convertito, con modificazioni, dalla legge 9 marzo 2001, n. 49, e successive modificazioni, sono estesi, per i capi destinati alla macellazione a decorrere dal 1 aprile 2001 e fino al 31 dicembre 2002, alle aziende zootecniche e alle cooperative di allevamento bovini ubicate nelle regioni e province sottoposte a sorveglianza dell'influenza catarrale dei ruminanti (blue tongue) di cui all'allegato I della decisione 2001/783/CE della Commissione, del 9 novembre 2001.
 
@@ -2078,7 +2078,7 @@ b) un indennizzo di 51, 64 euro a capo per gli stessi motivi di cui alla lettera
 
 "a) interventi strutturali e di indennizzo per assicurare l'agibilita' degli allevamenti bovini che operano nella linee vacca-vitello, nonche' di prevenzione in allevamenti di bovini e ovini, in zone di protezione di sorveglianza istituite dall'autorita' sanitaria a seguito della accertata presenza di influenza catarrale dei ruminanti: euro 10.329.138 per ciascuno degli anni 2002 e 2003;".
 
-### Art. 67
+#### Art. 67
 
 Programmazione negoziata in agricoltura
 
@@ -2090,17 +2090,17 @@ Programmazione negoziata in agricoltura
 
 3\. All'articolo 124, comma 1, della legge 23 dicembre 2000, n. 388, e' aggiunto il seguente periodo: "Per tali patti, per i quali sia stato emanato il decreto di approvazione da parte del Ministro competente, il finanziamento pubblico riguarda tutte le iniziative imprenditoriali ed infrastrutturali previste da ciascun patto, anche se le stesse sono attuabili parzialmente all'esterno delle aree classificate depresse".
 
-### Art. 68
+#### Art. 68
 
 ((ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2002, N. 289))
 
-### Art. 69 - Semplificazione delle procedure di spesa
+#### Art. 69 - Semplificazione delle procedure di spesa
 
 1\. Al fine di agevolare il conseguimento degli obiettivi di crescita e di occupazione, con uno o piu' regolamenti, da emanare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, entro sei mesi dalla data di entrata in vigore della presente legge, il Governo, su proposta del Ministro dell'economia e delle finanze e dei Ministri competenti, emana disposizioni per la semplificazione e l'accelerazione delle procedure di spesa, con particolare riferimento agli interventi nelle aree depresse.
 
 2\. Gli schemi dei regolamenti di cui al comma 1 sono trasmessi al Parlamento per l'acquisizione del parere da parte delle Commissioni competenti, da rendere entro trenta giorni dal ricevimento della richiesta. Decorso inutilmente tale termine, i regolamenti possono essere comunque emanati.
 
-### Art. 70
+#### Art. 70
 
 Disposizioni in materia di asili nido
 
@@ -2138,7 +2138,7 @@ AGGIORNAMENTO (26)
 
 La L. 30 dicembre 2004, n. 311 ha disposto (con l'art. 1, comma 59) la soppressione del fondo di cui al presente articolo 70.
 
-### Art. 71
+#### Art. 71
 
 ((ARTICOLO ABROGATO DAL D.L. 28 DICEMBRE 2001, N. 452,
 
@@ -2150,7 +2150,7 @@ AGGIORNAMENTO (1a)
 
 Il D.L. 28 dicembre 2001, n. 452, convertito con modificazioni dalla L. 27 febbraio 2002, n. 16 ha disposto (con l'art. 16-bis, comma 2) che " Sono privi di effetto tutti gli atti e i provvedimenti eventualmente adottati in applicazione del citato articolo 71 della legge n. 448 del 2001."
 
-### Art. 72 - Indennizzo delle aziende commerciali in crisi
+#### Art. 72 - Indennizzo delle aziende commerciali in crisi
 
 1\. L'indennizzo di cui all'articolo 1 del decreto legislativo 28 marzo 1996, n. 207, e' concesso, con le medesime modalita' ivi previste, anche ai soggetti che si trovino in possesso dei requisiti di cui all'articolo 2 del predetto decreto legislativo nel periodo compreso tra il 1 gennaio 2002 e il 31 dicembre 2004.
 
@@ -2158,7 +2158,7 @@ Il D.L. 28 dicembre 2001, n. 452, convertito con modificazioni dalla L. 27 febbr
 
 3\. Le domande di cui all'articolo 7 del citato decreto legislativo n. 207 del 1996 possono essere presentate dai soggetti di cui al comma 1 entro il 31 gennaio 2005.
 
-### Art. 73 - Assegnazione di fondi
+#### Art. 73 - Assegnazione di fondi
 
 1\. I fondi di cui alla legge 30 giugno 1998, n. 208, come rifinanziata dalla presente legge, sono assegnati a progetti selezionati secondo criteri di avanzamento progettuale e di coerenza programmatica, con particolare riferimento alle priorita' della programmazione comunitaria 2000-2006 e con ricorso a metodi premiali; tali criteri e metodi sono attuati con le procedure di cui all'articolo 19, comma 5-bis, del decreto legislativo 3 aprile 1993, n. 96.
 
@@ -2170,21 +2170,21 @@ AGGIORNAMENTO (9)
 
 La L. 27 dicembre 2002, n. 289 ha disposto (con l'art. 80, comma 24) che "Il limite d'impegno di cui all'articolo 73, comma 2, della legge 28 dicembre 2001, n. 448, deve intendersi come stanziamento annuo per quindici anni da erogare annualmente."
 
-### Art. 74 - Disposizioni in materia di trasmissioni televisive e radiofoniche
+#### Art. 74 - Disposizioni in materia di trasmissioni televisive e radiofoniche
 
 1\. Nella tabella A, parte III, di cui all'articolo 16 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, al numero 123-ter), dopo le parole: "a mezzo di reti via cavo o via satellite" sono aggiunte le parole: "ivi comprese le trasmissioni televisive punto-punto".
 
 2\. Fino all'attuazione del piano nazionale di assegnazione delle frequenze radiofoniche in tecnica analogica, i soggetti titolari di concessione radiofonica comunitaria in ambito nazionale sono autorizzati ad attivare nuovi impianti, su base non interferenziale con altri legittimi utilizzatori dello spettro radioelettrico e nel rispetto delle normative vigenti in materia di emissioni elettromagnetiche, sino al raggiungimento della copertura di cui all'articolo 3, comma 5, della legge 31 luglio 1997, n. 249. Decorsi novanta giorni dalla comunicazione di attivazione degli impianti al Ministero delle comunicazioni ed in mancanza di segnalazioni di interferenze, la frequenza utilizzata si intende autorizzata.
 
-### Art. 75 - Cessione di credito della regione Sicilia
+#### Art. 75 - Cessione di credito della regione Sicilia
 
 1\. Il credito vantato dalla regione Sicilia a fronte dei limiti d'impegno quindicennali, previsti dall'articolo 55 della legge 23 dicembre 1999, n. 488, e da successivi provvedimenti legislativi, assunti dallo Stato al fine della corresponsione del contributo dovuto, a titolo di solidarieta' nazionale, di cui all'articolo 38 dello statuto regionale, puo' formare oggetto di cessione da parte della regione medesima al fine di attualizzare i relativi importi.
 
-### Art. 76 - Regime fiscale dei trasferimenti di beni immobili
+#### Art. 76 - Regime fiscale dei trasferimenti di beni immobili
 
 1\. Il regime fiscale previsto dall'articolo 33, comma 3, della legge 23 dicembre 2000, n. 388, si intende applicabile nei confronti dei trasferimenti di beni immobili, compresi in piani urbanistici particolareggiati, comunque denominati, regolarmente approvati ai sensi della normativa statale o regionale, a condizione che l'utilizzazione edificatoria dell'area avvenga entro cinque anni dal trasferimento, anche nel caso in cui l'acquirente non disponesse in precedenza di altro immobile compreso nello stesso piano urbanistico.
 
-### Art. 77 - Approvazione della decisione n. 2000/597/CE, relativa al sistema delle risorse proprie delle Comunita' europee
+#### Art. 77 - Approvazione della decisione n. 2000/597/CE, relativa al sistema delle risorse proprie delle Comunita' europee
 
 1\. E' approvata la decisione n. 2000/597/ CE del Consiglio, del 29 settembre 2000, relativa al sistema delle risorse proprie delle Comunita' europee.
 
@@ -2192,7 +2192,7 @@ La L. 27 dicembre 2002, n. 289 ha disposto (con l'art. 80, comma 24) che "Il lim
 
 ## TITOLO IV - NORME FINALI
 
-### Art. 78 - Fondi speciali e tabelle
+#### Art. 78 - Fondi speciali e tabelle
 
 1\. Gli importi da iscrivere nei fondi speciali di cui all'articolo 11-bis della legge 5 agosto 1978, n. 468, e successive modificazioni, per il finanziamento dei provvedimenti legislativi che si prevede possano essere approvati ne] triennio 2002-2004, restano determinati, per ciascuno degli anni 2002, 2003 e 2004, nelle misure indicate nelle Tabelle A e B, allegate alla presente legge, rispettivamente per il fondo speciale destinato alle spese correnti e per il fondo speciale destinato alle spese in conto capitale.
 
@@ -2206,7 +2206,7 @@ La L. 27 dicembre 2002, n. 289 ha disposto (con l'art. 80, comma 24) che "Il lim
 
 6\. A valere sulle autorizzazioni di spesa in conto capitale recate da leggi a carattere pluriennale, riportate nella Tabella F, le amministrazioni e gli enti pubblici possono assumere impegni nell'anno 2002, a carico di esercizi futuri nei limiti massimi di impegnabilita' indicati per ciascuna disposizione legislativa in apposita colonna della stessa Tabella, ivi compresi gli impegni gia' assunti nei precedenti esercizi a valere sulle autorizzazioni medesime.
 
-### Art. 79 - Copertura finanziaria ed entrata in vigore
+#### Art. 79 - Copertura finanziaria ed entrata in vigore
 
 1\. La copertura della presente legge per le nuove o maggiori spese correnti, per le riduzioni di entrata e per le nuove finalizzazioni nette da iscrivere nel Fondo speciale di parte corrente viene assicurata, ai sensi dell'articolo 11, comma 5, della legge 5 agosto 1978, n. 468, secondo il prospetto allegato.
 
@@ -2228,7 +2228,7 @@ Visto, Il Guardasigilli: CASTELLI
 
 ## TITOLO IV - NORME FINALI
 
-### Allegato A
+#### Allegato A
 
 ALLEGATI E TABELLE
 
@@ -2322,7 +2322,7 @@ Isole del Mare Ligure
 
 16-bis. Monte Isola))
 
-### Tabella 1
+#### Tabella 1
 
 Tabella 1
 
@@ -2896,7 +2896,7 @@ AGGIORNAMENTO (9)
 
 La L. 27 dicembre 2002, n. 289 ha disposto (con l'art. 80, comma 53) che "a decorrere dall'anno 2003, l'Istituto per la contabilita' nazionale viene inserito nell'elenco degli enti indicati nella tabella 1 allegata alla citata legge n. 448 del 2001 per essere incluso nel riparto delle risorse di cui al predetto articolo 32".
 
-### Tabella 2
+#### Tabella 2
 
 TABELLA 2
 
@@ -3050,7 +3050,7 @@ IMPIEGO AUTORIZZATI 83.981 123.696 92.961
 
 SPESA COMPLESSIVA ANNUA 83.981 207.677 300.638
 
-### Prospetto di Copertura
+#### Prospetto di Copertura
 
 Prospetto di Copertura
 
@@ -3144,7 +3144,7 @@ legislazione vigente 3.282,6 13.514,1 18.863,6
 
 N.B. - La copertura e' al netto di 981 milioni di euro relativi alle maggiori entrate previste per il rientro dei capitali dall'estero, in quanto considerate secondo i criteri di contabilita' nazionale entrate in conto capitale.
 
-### Tabella A
+#### Tabella A
 
 TABELLE
 
@@ -3279,7 +3279,7 @@ agricole e forestali 12.635 12.809 12.809
                   TOTALE TABELLA A     1.001.015 1.191.586 1.181.333 =============================
 ```
 
-### Tabella B
+#### Tabella B
 
 TABELLA B
 
@@ -3373,7 +3373,7 @@ regolazione debitoria
 
 TOTALE TABELLA B 6.524.254 1.546.005 1.851.137
 
-### Tabella C
+#### Tabella C
 
 TABELLA C
 
@@ -5382,7 +5382,7 @@ regionali - cap. 2391) 6.313 6.118 5.978
               TOTALE GENERALE           22402005  19455472  19187840 ============================
 ```
 
-### Tabella D
+#### Tabella D
 
 TABELLA D
 
@@ -6134,7 +6134,7 @@ scientifica - cap. 7010) 25.823 77.469 -
               TOTALE GENERALE      3.471.059   5.266.507  16.715.957 =================================
 ```
 
-### Tabella E
+#### Tabella E
 
 TABELLA E
 
@@ -6255,7 +6255,7 @@ di comunicazioni - cap. 7590) - 20.000 - -
                                     - 785.899  - 259.469    - 25.000 =================================
 ```
 
-### Tabella F
+#### Tabella F
 
 TABELLA F
 

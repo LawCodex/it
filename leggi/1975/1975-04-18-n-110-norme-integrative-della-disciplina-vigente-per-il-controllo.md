@@ -24,7 +24,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Armi da guerra, armi tipo guerra e munizioni da guerra
 
@@ -42,7 +42,7 @@ AGGIORNAMENTO (17)
 
 Il D.Lgs. 6 settembre 2011, n. 159 ha disposto (con l'art. 72, comma 1) che "Le pene stabilite per i reati concernenti le armi alterate nonche' le armi e le munizioni di cui all'articolo 1 della legge 18 aprile 1975, n. 110, sono triplicate e quelle stabilite per i reati concernenti le armi e le munizioni di cui all'articolo 2, commi primo e secondo, della stessa legge sono aumentate nella misura in cui al terzo comma dell'articolo 99 del codice penale, se i fatti sono commessi da persona sottoposta con provvedimento definitivo ad una misura di prevenzione personale durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne e' cessata l'esecuzione".
 
-### Art. 2
+## Art. 2
 
 Armi e munizioni comuni da sparo
 
@@ -78,13 +78,13 @@ AGGIORNAMENTO (17)
 
 Il D.Lgs. 6 settembre 2011, n. 159 ha disposto (con l'art. 72, comma 1) che "Le pene stabilite per i reati concernenti le armi alterate nonche' le armi e le munizioni di cui all'articolo 1 della legge 18 aprile 1975, n. 110, sono triplicate e quelle stabilite per i reati concernenti le armi e le munizioni di cui all'articolo 2, commi primo e secondo, della stessa legge sono aumentate nella misura in cui al terzo comma dell'articolo 99 del codice penale, se i fatti sono commessi da persona sottoposta con provvedimento definitivo ad una misura di prevenzione personale durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne e' cessata l'esecuzione".
 
-### Art. 3
+## Art. 3
 
 Alterazione di armi
 
 Chiunque, alterando in qualsiasi modo le caratteristiche meccaniche o le dimensioni di un'arma, ne aumenti la potenzialita' di offesa, ovvero ne renda piu' agevole il porto, l'uso o l'occultamento, e' punito con la reclusione da uno a tre anni e con la multa da lire trecentomila a lire due milioni.
 
-### Art. 4
+## Art. 4
 
 Porto di armi od oggetti atti ad offendere
 
@@ -142,7 +142,7 @@ Il D.L. 15 settembre 2023, n. 123 ha disposto (con l'art. 4, comma 1, lettera a)
 
 Ha inoltre disposto (con l'art. 4, comma 1, lettera c)) che al quinto comma, del presente articolo "le parole: «da sei a diciotto mesi» sono sostituite dalle seguenti: «da uno a tre anni»".
 
-### Art. 4-bis
+## Art. 4-bis
 
 ((Porto di armi per cui non e' ammessa licenza e di particolari strumenti da punta e taglio))
 
@@ -162,7 +162,7 @@ d) in un luogo in cui vi sia concorso o adunanza di persone ovvero una riunione 
 
 2-ter. Con la condanna deve essere disposta la confisca degli strumenti di cui al comma 1.
 
-### Art. 4-ter
+## Art. 4-ter
 
 (( (Sanzioni amministrative connesse al porto di armi o di strumenti atti ad offendere da parte di minori di anni diciotto).))
 
@@ -172,7 +172,7 @@ d) in un luogo in cui vi sia concorso o adunanza di persone ovvero una riunione 
 
 3\. ((Le entrate derivanti dall'applicazione delle sanzioni pecuniarie previste dal presente articolo affluiscono ad apposito capitolo dell'entrata del bilancio dello Stato per essere riassegnate, nel medesimo esercizio finanziario, allo stato di previsione del Ministero dell'interno e per essere utilizzate, nel medesimo esercizio finanziario, per la remunerazione delle prestazioni di lavoro straordinario rese dal personale contrattualizzato non dirigenziale dell'Amministrazione civile.))
 
-### Art. 4-quater - Divieto di vendita ai minori di strumenti atti ad offendere
+## Art. 4-quater - Divieto di vendita ai minori di strumenti atti ad offendere
 
 1\. E' vietato vendere o in qualsiasi altro modo cedere a minori di anni diciotto ((gli strumenti di cui agli articoli 4, ottavo comma, e 4-bis, comma 1)).
 
@@ -196,7 +196,7 @@ AGGIORNAMENTO (30)
 
 Il D.L. 24 febbraio 2026, n. 23, convertito con modificazioni dalla L. 24 aprile 2026, n. 54, ha disposto (con l'art. 1, comma 3) che "Le disposizioni di cui all'articolo 4-quater, commi 3 e 4, della legge 18 aprile 1975, n. 110, introdotto dal presente articolo, si applicano decorsi sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto".
 
-### Art. 5
+## Art. 5
 
 Limiti alle registrazioni
 
@@ -220,7 +220,7 @@ Chiunque produce o pone in commercio gli strumenti di cui al presente articolo, 
 
 Quando l'uso o il porto d'armi e' previsto quale elemento costitutivo o circostanza aggravante del reato, il reato stesso sussiste o e' aggravato anche qualora si tratti di arma per uso scenico o di strumenti riproducenti armi la cui canna non sia occlusa a norma del quarto comma.
 
-### Art. 5-bis
+## Art. 5-bis
 
 (( (Disposizioni particolari per gli strumenti da segnalazione acustica, gli strumenti lanciarazzi e gli strumenti di autodifesa). ))
 
@@ -236,7 +236,7 @@ AGGIORNAMENTO (82)
 
 La L. 23 dicembre 2021, n. 238 ha disposto (con l'art. 18, comma 2) che "Agli strumenti di cui all'articolo 5-bis, comma 1, della legge 18 aprile 1975, n. 110, introdotto dal comma 1, lettera c), del presente articolo, legittimamente prodotti, importati o detenuti alla data di entrata in vigore della presente legge, continuano ad applicarsi le disposizioni vigenti anteriormente alla medesima data".
 
-### Art. 6
+## Art. 6
 
 Commissione consultiva centrale per il controllo delle armi
 
@@ -258,11 +258,11 @@ AGGIORNAMENTO (11)
 
 Il D.P.R. 9 maggio 1994, n. 608, nel modificare gli articoli 1 e 2 della L. 16 luglio 1982, n. 452, ha conseguentemente disposto (con l'art. 2, comma 1) che e' soppresso, ai sensi dell'art. 1, comma 28, lettera a), della legge 24 dicembre 1993, n. 537, l'organo collegiale "Commissione consultiva centrale delle armi" di cui al presente articolo.
 
-### Art. 7
+## Art. 7
 
 ((ARTICOLO ABROGATO DALLA L. 12 NOVEMBRE 2011, N. 183))
 
-### Art. 8
+## Art. 8
 
 Accertamento per il rilascio di autorizzazioni di polizia in materia di armi
 
@@ -286,7 +286,7 @@ Coloro che esercitano l'industria di riparazione delle armi devono richiedere al
 
 L'articolo 33 del testo unico delle leggi di pubblica sicurezza 18 giugno 1931, n. 773, e' abrogato.
 
-### Art. 9
+## Art. 9
 
 Requisiti soggettivi per le autorizzazioni di polizia in materia di armi
 
@@ -294,7 +294,7 @@ Oltre quanto stabilito dall'articolo 11 del testo unico delle leggi di pubblica 
 
 Ferme restando le disposizioni contenute nell'articolo 8 della legge 31 maggio 1965, n. 575, le autorizzazioni di cui al primo comma non possono essere rilasciate a coloro che siano sottoposti ad una delle misure di prevenzione previste dalla legge 27 dicembre 1956, numero 1423.
 
-### Art. 10
+## Art. 10
 
 Divieto di detenzione e raccolta di armi da guerra
 
@@ -338,7 +338,7 @@ Il D.Lgs. 26 ottobre 2010, n. 204 ha disposto (con l'art. 5, comma 1, lettera e)
 
 3\) al comma 10, le parole: "da euro 206 a euro 1032" sono sostituite dalle seguenti: "da 1.500 euro a 10.000 euro"".
 
-### Art. 11
+## Art. 11
 
 Marcatura delle armi comuni da sparo
 
@@ -378,7 +378,7 @@ All'onere di 270 milioni si provvede mediante corrispondente riduzione dello sta
 
 Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-### Art. 11-bis
+## Art. 11-bis
 
 (( Tracciabilita' delle armi e delle munizioni. ))
 
@@ -398,7 +398,7 @@ Il D.Lgs. 10 agosto 2018, n. 104 ha disposto (con l'art. 14, comma 2, lettera c)
 
 c) all'articolo 11-bis della legge 18 aprile 1975, n. 110, il riferimento all'archivio di cui all'articolo 3 del decreto legislativo 25 gennaio 2010, n. 8, si intende sostituito dal riferimento al sistema informatico di cui all'articolo 11, comma 1".
 
-### Art. 12
+## Art. 12
 
 Importazione definitiva di armi comuni da sparo
 
@@ -410,7 +410,7 @@ Il rilascio delle licenze d'importazione e' subordinato all'accertamento dell'es
 
 ((Non puo' essere autorizzata l'importazione di armi comuni da sparo che non abbiano superato la verifica di cui all'articolo 23, comma 12-sexiesdecies, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135.)) Chiunque importa armi in numero superiore a tre senza munirsi della licenza di cui al primo comma e' punito con la reclusione da uno a sei anni e con la multa da lire duecentomila a lire un milione e cinquecentomila.
 
-### Art. 13
+## Art. 13
 
 Modalita' per l'importazione definitiva di armi comuni da sparo.
 
@@ -418,7 +418,7 @@ La dogana alla quale vengono presentate per l'importazione definitiva armi comun
 
 E' abrogato l'ultimo comma dell'articolo 1 della legge 23 febbraio 1960, n. 186.
 
-### Art. 13-bis
+## Art. 13-bis
 
 ((Immissione sul mercato delle armi provenienti da
 
@@ -434,7 +434,7 @@ scorte governative
 
 5\. Prima dell'avvio delle procedure di cessione delle armi di cui al presente articolo, le Amministrazioni interessate devono darne comunicazione al Ministero dell'interno ed alla questura della provincia dove sono ubicati gli arsenali nei quali sono tenute in deposito.))
 
-### Art. 14
+## Art. 14
 
 Armi inidonee e non catalogate
 
@@ -450,7 +450,7 @@ Le disposizioni contenute nel secondo, terzo e quarto comma sono applicabili anc
 
 ((COMMA ABROGATO DAL D.LGS. 29 SETTEMBRE 2013, N. 121)).
 
-### Art. 15
+## Art. 15
 
 Importazione temporanea di armi comuni da sparo
 
@@ -468,7 +468,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 26 ottobre 2010, n. 204 ha disposto (con l'art. 5, comma 1, lettera i)) che al presente articolo "al quarto comma, le parole: "da euro 20 a euro 103" sono sostituite dalle seguenti: "da 4.000 euro a 30.000 euro"".
 
-### Art. 16
+## Art. 16
 
 Esportazione di armi
 
@@ -484,7 +484,7 @@ Con decreto del Ministro per le finanze, di concerto col Ministro per l'interno,
 
 Con decreto del Ministro per l'interno, sentito il Ministro per i beni culturali, da pubblicarsi nella Gazzetta Ufficiale, sono determinate le modalita' relative alla temporanea esportazione di armi antiche, artistiche, rare o comunque aventi importanza storica ai fini di mostre e scambi culturali.
 
-### Art. 17
+## Art. 17
 
 (( Compravendita di armi comuni da sparo per corrispondenza o mediante contratto a distanza.
 
@@ -492,7 +492,7 @@ Con decreto del Ministro per l'interno, sentito il Ministro per i beni culturali
 
 2\. I trasgressori sono puniti con la reclusione da uno a sei mesi e con la multa fino a euro 154.))
 
-### Art. 18
+## Art. 18
 
 Modalita' per il trasporto di armi ed esplosivi
 
@@ -504,7 +504,7 @@ Chiunque non osserva le disposizioni del primo comma o quelle del decreto minist
 
 Le disposizioni del presente articolo non si applicano alle cartucce da caccia a pallini, a salve, da tiro e ad uso industriale ed alle polveri relative alle armi da caccia. Il rilascio ai commessi delle tessere di riconoscimento previste dall'articolo 52 del regolamento 6 maggio 1940, n. 635, per il recapito di armi nella provincia e' attribuito alla competenza del questore, previo accertamento della sussistenza dei requisiti di cui al precedente articolo 9.
 
-### Art. 19
+## Art. 19
 
 Trasporto di parti di armi
 
@@ -520,7 +520,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 26 ottobre 2010, n. 204 ha disposto (con l'art. 5, comma 1, lettera l)) che al presente articolo "al secondo comma, le parole : "con l'ammenda da euro 41 a euro 165" sono sostituite dalle seguenti: "con l'ammenda da 250 euro a 1.000 euro" e le parole: "con l'ammenda fino a euro 82" sono sostituite dalle seguenti: "con l'ammenda fino a 500 euro."".
 
-### Art. 20
+## Art. 20
 
 Custodia delle armi e degli esplosivi
 
@@ -542,7 +542,7 @@ Salva l'applicazione delle sanzioni previste dalle vigenti disposizioni in mater
 
 ((Con uno o piu' decreti del Ministro dell'interno, da adottarsi entro sei mesi dalla data di entrata in vigore della presente disposizione sono determinate le modalita' ed i termini di custodia delle armi e delle parti di cui al primo comma in relazione al numero di armi o parti di armi detenute, prevedendo anche sistemi di sicurezza elettronici o di difesa passiva, nonche' le modalita' ed i termini per assicurare, anche con modalita' telematiche, la tracciabilita' di tutte le armi, delle loro parti e delle munizioni, attraverso l'introduzione di meccanismi di semplificazione e snellimento degli adempimenti previsti.))
 
-### Art. 20-bis
+## Art. 20-bis
 
 (((Omessa custodia di armi).
 
@@ -558,13 +558,13 @@ b) nei luoghi in cui puo' svolgersi l'attivita' venatoria.
 
 Quando i fatti di cui ai commi precedenti riguardano le armi, le munizioni o gli esplosivi indicati nell'articolo 1 o armi clandestine, la pena e' della reclusione da uno a tre anni.))
 
-### Art. 21
+## Art. 21
 
 Distrazione o sottrazione di armi
 
 Chiunque distrae dalla prevista destinazione, sottrae o comunque detiene le armi di cui agli articoli 1 e 2 al fine di sovvertire l'ordinamento dello Stato ovvero di mettere in pericolo la vita delle persone o la sicurezza della collettivita' mediante la commissione di attentati o comunque di uno dei reati previsti dal capo I, titolo VI, del libro II del codice penale o dagli articoli 284, 285, 286 e 306 dello stesso codice, e' punito con la reclusione da cinque a quindici anni.
 
-### Art. 22
+## Art. 22
 
 Locazione e comodato di armi
 
@@ -580,7 +580,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 26 ottobre 2010, n. 204 ha disposto (con l'art. 5, comma 1, lettera n)) che al presente articolo "al secondo comma le parole: "da euro 206 a euro 1549" sono sostituite dalle seguenti: "da 2.000 euro a 20.000 euro"".
 
-### Art. 23
+## Art. 23
 
 Armi clandestine
 
@@ -628,7 +628,7 @@ Il D.Lgs. 26 ottobre 2010, n. 204 ha disposto (con l'art. 5, comma 1, lettera o)
 
 3\) al quarto comma, le parole: "e la multa da euro 154 a euro 1.549" sono sostituite dalle seguenti: "e con la multa da 2.000 euro a 20.000 euro"".
 
-### Art. 24
+## Art. 24
 
 Divieto di fabbricazione di esplosivi non riconosciuti
 
@@ -636,7 +636,7 @@ Chiunque fabbrica un prodotto esplodente non riconosciuto o modifica o altera la
 
 La sanzione di cui al comma precedente non si applica ai fabbricanti di prodotti esplodenti titolari di licenza rilasciata dal Ministero dell'interno per l'attivita' di ricerca, studio e sperimentazione condotta nel proprio stabilimento.
 
-### Art. 25
+## Art. 25
 
 Registro delle operazioni giornaliere
 
@@ -648,19 +648,19 @@ Con la stessa pena sono punite le persone indicate nel primo comma del citato ar
 
 Sono punite con l'arresto da venti giorni a tre mesi e con l'ammenda fino a lire centomila le persone obbligate a tenere il predetto registro le quali rifiutano ingiustificatamente di esibire il registro stesso agli ufficiali ed agenti di pubblica sicurezza che ne facciano richiesta.
 
-### Art. 26
+## Art. 26
 
 Limiti alla detenzione senza denuncia di munizioni
 
 E' soggetto all'obbligo della denuncia, stabilito dall'articolo 38 del testo unico delle leggi di pubblica sicurezza 18 giugno 1931, n. 773, chi, in possesso di armi regolarmente denunziate, detiene munizioni per armi comuni da sparo eccedenti la dotazione di 1000 cartucce a pallini per fucili da caccia.
 
-### Art. 27
+## Art. 27
 
 Requisiti soggettivi per le autorizzazioni in materia di esplosivi
 
 Il rilascio delle licenze di cui agli articoli 46 e 47 del testo unico delle leggi di pubblica sicurezza 18 giugno 1931, n. 773, e' subordinato all'accertamento dei requisiti di cui al precedente articolo 9.
 
-### Art. 28
+## Art. 28
 
 Responsabilita' nell'impiego di esplosivi
 
@@ -668,13 +668,13 @@ I titolari delle licenze di deposito per il consumo permanente, temporaneo o gio
 
 Chiunque non osserva le disposizioni di cui al precedente comma e' punito con la reclusione da tre mesi ad un anno e con la multa da lire centomila a lire un milione.
 
-### Art. 29
+## Art. 29
 
 Distrazione o sottrazione di esplosivi
 
 Chiunque distrae dalla prevista destinazione, sottrae o comunque detiene esplosivi di ogni genere al fine di sovvertire l'ordinamento dello Stato ovvero di mettere in pericolo la vita delle persone o la sicurezza della collettivita' mediante la commissione di attentati o comunque di uno dei reati previsti dal capo I, titolo VI del libro II del codice penale o dagli articoli 284, 285, 286 e 306 dello stesso codice, e' punito con la reclusione da cinque a quindici anni.
 
-### Art. 30
+## Art. 30
 
 Armi, munizioni ed esplosivi delle Forze armate e dei Corpi armati dello Stato
 
@@ -682,7 +682,7 @@ Le autorizzazioni previste dal testo unico delle leggi di pubblica sicurezza 18 
 
 Con decreto del Ministro per la difesa, da pubblicarsi nella Gazzetta Ufficiale, di concerto con il Ministro per l'interno, verranno specificati i documenti di accompagnamento necessari per il trasporto delle armi o di parti di esse, di munizioni e di esplosivi che non venga effettuato direttamente dalle Forze armate o dai Corpi armati dello Stato.
 
-### Art. 31
+## Art. 31
 
 Vigilanza sulle attivita' di tiro a segno
 
@@ -718,7 +718,7 @@ E' stato ripristinato il testo gia' in vigore dal 09-10-2010 a seguito della sop
 
 medesimo.
 
-### Art. 32
+## Art. 32
 
 Vigilanza sulle armi e munizioni raccolte nei musei
 
@@ -744,7 +744,7 @@ Le armi riconosciute di interesse storico e artistico saranno destinate alle rac
 
 Tale disciplina non si applica alle armi in dotazione ai Corpi armati dello Stato eventualmente destinate alla distruzione.
 
-### Art. 33
+## Art. 33
 
 (((Aste pubbliche)
 
@@ -752,7 +752,7 @@ Tale disciplina non si applica alle armi in dotazione ai Corpi armati dello Stat
 
 2\. Salvo che il fatto non costituisca piu' grave reato, il trasgressore dell' obbligo di cui al comma 1 e' punito con l'arresto da tre mesi a tre anni e con l'ammenda da lire duecentomila a lire un milione)).
 
-### Art. 34
+## Art. 34
 
 Sanzioni penali
 
@@ -760,13 +760,13 @@ Le pene stabilite dal codice penale e dal testo unico delle leggi di pubblica si
 
 In ogni caso l'arresto non puo' essere inferiore a tre mesi.
 
-### Art. 35
+## Art. 35
 
 Giudizio direttissimo
 
 Per i reati previsti dalla presente legge, si procede in ogni caso con il giudizio direttissimo salvo che non siano necessarie speciali indagini. Per i reati connessi si procede, di regola, previa separazione dei giudizi.
 
-### Art. 36
+## Art. 36
 
 Sanatorie
 
@@ -778,23 +778,23 @@ Non sono, infine, punibili quanti detengono, in forza di denunzia, presentata a 
 
 ## DISPOSIZIONI TRANSITORIE E FINALI
 
-### Art. 37
+## Art. 37
 
 Sino alla pubblicazione del catalogo nazionale delle armi comuni da sparo previsto dall'articolo 7, ne sono ammesse la produzione, l'importazione e l'esportazione, a condizione che gli esercenti tali attivita' siano muniti delle prescritte licenze dell'autorita' di pubblica sicurezza e che ogni arma sia contrassegnata dal numero di matricola.
 
 Sono, altresi', consentiti, anche dopo la pubblicazione del catalogo nazionale di cui all'articolo 7, l'esportazione ed il commercio di armi comuni da sparo non catalogate, prodotte od importate anteriormente, purche' registrate con i rispettivi numeri di matricola, a norma dell'articolo 35 del testo unico delle leggi di pubblica sicurezza 18 giugno 1931, n. 773.
 
-### Art. 38
+## Art. 38
 
 Le disposizioni di cui all'articolo 5 della presente legge concernenti i giocattoli si applicano decorso un anno dal giorno di entrata in vigore della legge stessa.
 
-### Art. 39
+## Art. 39
 
 Entro sei mesi dall'entrata in vigore della presente legge l'autorita' di pubblica sicurezza deve procedere ad una revisione straordinaria delle autorizzazioni a privati per la raccolta di armi da guerra o tipo guerra o di parti di esse o di munizioni da guerra, previste dall'articolo 28 del testo unico delle leggi di pubblica sicurezza 18 giugno 1931, n. 773.
 
 Nella ipotesi di revoca della licenza, le armi, entro trenta giorni dal relativo provvedimento, possono essere cedute agli enti pubblici, nonche' ai soggetti muniti di autorizzazione per la fabbricazione di armi da guerra o tipo guerra o di munizioni da guerra, ad enti e persone residenti all'estero.
 
-### Art. 40
+## Art. 40
 
 Per tutto quanto non previsto dalla presente legge continuano ad applicarsi le disposizioni del testo unico delle leggi di pubblica sicurezza 18 giugno 1931, n. 773, del regio decreto 6 maggio 1940, n. 635, con le successive rispettive modificazioni, nonche' le altre vigenti disposizioni legislative e regolamentari in materia di armi ed esplosivi.
 

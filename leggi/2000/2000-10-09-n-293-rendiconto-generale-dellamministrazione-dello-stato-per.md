@@ -385,7 +385,7 @@ di Stato
 
 trattamenti - 181.630 -
 
-## Capo II - CONTO GENERALE DEL PATRIMONIO
+### Capo II - CONTO GENERALE DEL PATRIMONIO
 
 #### Art. 8 - Risultati generali della gestione patrimoniale
 
@@ -467,7 +467,7 @@ dell'esercizio
  ==============
 ```
 
-## Capo II - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
+### Capo II - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
 #### Art. 11 - Entrate
 
@@ -535,7 +535,7 @@ Spese dell'esercizio 1999 " 22.308.795.758.638
 
 Saldo della gestione di competenza L. -
 
-## Capo III - ARCHIVI NOTARILI
+### Capo III - ARCHIVI NOTARILI
 
 #### Art. 15 - Avanzo
 
@@ -551,7 +551,7 @@ Spese " 381.337.970.528
  ===================
 ```
 
-## Capo IV - FONDO EDIFICI DI CULTO
+### Capo IV - FONDO EDIFICI DI CULTO
 
 #### Art. 16 - Entrate
 
@@ -661,7 +661,7 @@ Visco, Ministro del tesoro, del bilancio e della programmazione economica
 
 Visto, il Guardasigilli: Fassino
 
-## Capo IV - FONDO EDIFICI DI CULTO
+### Capo IV - FONDO EDIFICI DI CULTO
 
 #### Allegato n.1
 

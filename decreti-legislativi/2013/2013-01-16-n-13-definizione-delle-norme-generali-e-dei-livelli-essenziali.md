@@ -110,11 +110,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Disposizioni generali
 
-### Disposizioni generali
-
-#### Art. 1
+### Art. 1
 
 Oggetto
 
@@ -526,7 +524,7 @@ Oggetto
 
 > 4\. La Conferenza unificata di cui al comma 1 e' convocata dal Presidente del Consiglio dei Ministri. Le sedute sono presiedute dal Presidente del Consiglio dei Ministri o, su sua delega, dal Ministro per gli affari regionali o, se tale incarico non e' conferito, dal Ministro dell'interno.».
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -566,7 +564,7 @@ m) «qualificazione»: titolo di istruzione e di formazione, ivi compreso quello
 
 n) «sistema nazionale di certificazione delle competenze»: l'insieme dei servizi di individuazione e validazione e certificazione delle competenze erogati nel rispetto delle norme generali, dei livelli essenziali delle prestazioni e degli standard minimi di cui al presente decreto.
 
-#### Art. 3
+### Art. 3
 
 Sistema nazionale di certificazione delle competenze
 
@@ -610,11 +608,9 @@ Il comitato organizza periodici incontri con le parti economiche e sociali al fi
 
 > \- Per il testo dell'art. 8 del citato decreto legislativo n. 281 del 1997, si veda nelle note alle premesse.
 
-## Capo II
+## Capo II - Livelli essenziali delle prestazioni e standard minimi di servizio del sistema nazionale di certificazione delle competenze
 
-### Livelli essenziali delle prestazioni e standard minimi di servizio - del sistema nazionale di certificazione delle competenze
-
-#### Art. 4
+### Art. 4
 
 Livelli essenziali delle prestazioni
 
@@ -630,7 +626,7 @@ e standard minimi di servizio
 
 5\. Ferme restando le disposizioni di cui al presente decreto e di cui ai regimi di autorizzazione o accreditamento degli enti pubblici titolari, gli enti titolati, per l'erogazione di servizi di certificazione delle competenze in conformita' alle norme tecniche UNI in quanto applicabili, devono essere in possesso dell'accreditamento da parte dell'organismo nazionale italiano di accreditamento.
 
-#### Art. 5
+### Art. 5
 
 Standard minimi di processo
 
@@ -646,7 +642,7 @@ a) l'articolazione nelle seguenti fasi:
 
 b) l'adozione di misure personalizzate di informazione e orientamento in favore dei destinatari dei servizi di individuazione e validazione e certificazione delle competenze.
 
-#### Art. 6
+### Art. 6
 
 Standard minimi di attestazione
 
@@ -676,7 +672,7 @@ b) la registrazione dei documenti di validazione e dei certificati rilasciati ne
 
 > (omissis).».
 
-#### Art. 7
+### Art. 7
 
 Standard minimi di sistema
 
@@ -700,11 +696,9 @@ g) l'adozione di dispositivi che, nel rispetto delle scelte operate da ciascun e
 
 > \- Per il testo dell'art. 4, comma 51, della citata legge n. 92 del 2012, si veda nelle note alle premesse.
 
-## Capo III
+## Capo III - Repertorio nazionale dei titoli di istruzione e formazione e delle qualificazioni professionali
 
-### Repertorio nazionale dei titoli di istruzione e formazione e delle - qualificazioni professionali
-
-#### Art. 8
+### Art. 8
 
 Repertorio nazionale dei titoli di istruzione
 
@@ -732,11 +726,9 @@ d) referenziazione delle qualificazioni del repertorio al Quadro europeo delle q
 
 > \- Per il testo dell'art. 6, comma 3, del citato decreto legislativo n. 167 del 201, si veda nelle note alle premesse.
 
-## Capo IV
+## Capo IV - Monitoraggio e valutazione di sistema
 
-### Monitoraggio e valutazione di sistema
-
-#### Art. 9
+### Art. 9
 
 Monitoraggio e valutazione
 
@@ -748,11 +740,9 @@ Monitoraggio e valutazione
 
 > \- Per il testo dell'art. 4, comma 51, della citata legge n. 92 del 2012, si veda nelle note alle premesse.
 
-## Capo V
+## Capo V - Disposizioni finali
 
-### Disposizioni finali
-
-#### Art. 10
+### Art. 10
 
 Regioni a statuto speciale e province autonome
 
@@ -760,7 +750,7 @@ di Trento e di Bolzano
 
 1\. Le regioni a statuto speciale e le province autonome di Trento e di Bolzano, fermo restando quanto previsto dagli ordinamenti nazionali in materia di istruzione scolastica e universitaria, provvedono all'attuazione del presente decreto legislativo nell'ambito delle competenze ad esse spettanti e secondo quanto disposto dai rispettivi statuti speciali.
 
-#### Art. 11
+### Art. 11
 
 Disposizioni finali
 

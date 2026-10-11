@@ -30,7 +30,7 @@ la seguente legge:
 
 ## CAPO I - DEL GIUDICE DI PACE
 
-##### Art. 1
+### Art. 1
 
 Istituzione e funzioni del giudice di pace
 
@@ -42,7 +42,7 @@ Istituzione e funzioni del giudice di pace
 
 > Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
-##### Art. 2
+### Art. 2
 
 (( (Sede e circondario degli uffici del giudice di pace). ))
 
@@ -60,65 +60,65 @@ Il D.Lgs. 7 settembre 2012, n. 156 ha disposto (con l'art. 5, comma 1) che "Le d
 
 Ha inoltre disposto (con l'art. 5, comma 2) che "Nei sei mesi successivi al termine di efficacia indicato al comma 1, le udienze precedentemente fissate dinanzi al giudice di pace di uno degli uffici soppressi sono tenute presso i medesimi uffici. Gli eventuali rinvii sono effettuati dinanzi all'ufficio competente a norma dell'articolo 1, comma 2".
 
-##### Art. 3
+### Art. 3
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 LUGLIO 2017, N. 116))
 
-##### Art. 4
+### Art. 4
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 LUGLIO 2017, N. 116))
 
-##### Art. 4-bis
+### Art. 4-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 LUGLIO 2017, N. 116))
 
-##### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 LUGLIO 2017, N. 116))
 
-##### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 LUGLIO 2017, N. 116))
 
-##### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 LUGLIO 2017, N. 116))
 
-##### Art. 8
+### Art. 8
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 LUGLIO 2017, N. 116))
 
-##### Art. 8-bis
+### Art. 8-bis
 
 ((ARTICOLO ABROGATO DALLA L. 24 NOVEMBRE 1999, N. 468))
 
-##### Art. 9
+### Art. 9
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 LUGLIO 2017, N. 116))
 
-##### Art. 10
+### Art. 10
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 LUGLIO 2017, N. 116))
 
-##### Art. 10-bis
+### Art. 10-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 LUGLIO 2017, N. 116))
 
-##### Art. 10-ter
+### Art. 10-ter
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 LUGLIO 2017, N. 116))
 
-##### Art. 10-quater
+### Art. 10-quater
 
 (( (Sostituzione dei rappresentanti designati dai consigli dell'ordine degli avvocati).
 
 1\. Nelle ipotesi di cui al comma 2-bis dell'articolo 7 e al comma 4 dell'articolo 9, i rappresentanti designati dai consigli dell'ordine degli avvocati del distretto di corte di appello, iscritti all'albo professionale relativo al circondario in cui esercita le proprie funzioni il giudice di pace sottoposto alla valutazione del consiglio giudiziario, sono sostituiti da rappresentanti supplenti iscritti all'albo professionale relativo ad un diverso circondario. ))
 
-##### Art. 11
+### Art. 11
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 LUGLIO 2017, N. 116, COME MODIFICATO DAL D.L. 9 GIUGNO 2021, N. 80, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2021, N. 113))
 
-##### Art. 12
+### Art. 12
 
 Cancelleria del giudice di pace e personale ausiliario
 
@@ -154,7 +154,7 @@ c) 640 della V qualifica funzionale.
 
 6\. Alla copertura dei posti di organico recati in aumento dal comma 3 si provvede mediante immissione in ruolo con priorita' dei messi di conciliazione non dipendenti comunali, purche' in possesso del decreto di nomina rilasciato dal presidente del tribunale anteriormente alla data del 31 dicembre 1989, secondo modalita' consistenti con decreto del Ministro di grazia e giustizia, da emanarsi entro sei mesi dalla data di pubblicazione nella Gazzetta Ufficiale della presente legge.
 
-##### Art. 13
+### Art. 13
 
 (( (Notificazione degli atti)
 
@@ -162,7 +162,7 @@ c) 640 della V qualifica funzionale.
 
 2\. Ai messi di conciliazione, che assumono la nuova denominazione di messi del giudice di pace, si applicano, limitatamente al servizio di notificazione, le norme dell'ordinamento approvato con decreto del Presidente della Repubblica 15 dicembre 1959, n. 1229, e successive modificazioni.))
 
-##### Art. 14
+### Art. 14
 
 Locali, attrezzature e servizi degli uffici del Giudice di Pace
 
@@ -174,21 +174,19 @@ Locali, attrezzature e servizi degli uffici del Giudice di Pace
 
 > \- La legge n. 392/1941 reca: "Trasferimento ai comuni del servizio dei locali e dei mobili degli uffici giudiziari".
 
-##### Art. 15
+### Art. 15
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 LUGLIO 2017, N. 116))
 
-##### Art. 16
+### Art. 16
 
 Sorveglianza
 
 1\. La sorveglianza sugli uffici del giudice di pace e' esercitata dal Consiglio superiore della magistratura con possibilita' di delega al presidente del tribunale territorialmente competente.
 
-## CAPO II - COMPETENZE E PROCEDIMENTO
+## CAPO II - COMPETENZE E PROCEDIMENTO CIVILE DEL GIUDICE DI PACE
 
-### CIVILE DEL GIUDICE DI PACE
-
-##### Art. 17
+### Art. 17
 
 Competenza del giudice di pace
 
@@ -256,7 +254,7 @@ E' competente qualunque ne sia il valore:
 
 > 17\. L'onere derivante dall'attuazione del comma 16, lettera a), e' determinato in lire 6.050 milioni annui a decorere dal 1991".
 
-##### Art. 18
+### Art. 18
 
 Competenza del pretore
 
@@ -280,7 +278,7 @@ Competenza del pretore
 
 > 4\) (per le cause relative alla misura e alle modalita' di uso dei servizi di condominio di case) (numero in vigore il 1 gennaio 1993, abrogato dal giorno successivo)".
 
-##### Art. 19
+### Art. 19
 
 Connessione
 
@@ -308,7 +306,7 @@ Se le cause connesse ai sensi del sesto comma sono proposte davanti al giudice d
 
 > Se le cause connesse ai sensi del sesto comma sono proposte davanti al giudice di pace e al pretore o al tribunale, il giudice di pace deve pronunziare anche d'ufficio la connessione a favore del pretore o del tribunale".
 
-##### Art. 20
+### Art. 20
 
 Patrocinio
 
@@ -320,7 +318,7 @@ Negli altri casi, le parti non possono stare in giudizio se non col ministero o 
 
 Salvi i casi in cui la legge dispone altrimenti, davanti al pretore, al tribunale e alla corte d'appello le parti debbono stare in giudizio col ministero di un procuratore legalmente esercente; e davanti alla Corte di cassazione col ministero di un avvocato iscritto nell'apposito albo".
 
-##### Art. 21
+### Art. 21
 
 Giudizio secondo equita'
 
@@ -336,7 +334,7 @@ Giudizio secondo equita'
 
 > Il giudice di pace decide secondo equita' le cause il cui valore non eccede lire due milioni".
 
-##### Art. 22
+### Art. 22
 
 Rinvio alle norme relative al procedimento davanti al tribunale
 
@@ -348,7 +346,7 @@ Rinvio alle norme relative al procedimento davanti al tribunale
 
 \- Il procedimento davanti al pretore e al giudice di pace, per tutto cio' che non e' regolato nel presente titolo o in altre espresse disposizioni, e' retto dalle norme relative al procedimento davanti al tribunale, in quanto applicabili".
 
-##### Art. 23
+### Art. 23
 
 Poteri istruttori del giudice
 
@@ -356,7 +354,7 @@ Poteri istruttori del giudice
 
 "Art. 312 - (Poteri istruttori del giudice). - Il pretore o il giudice di pace puo' disporre d'ufficio la prova testimoniale formulandone i capitoli, quando le parti nell'esposizione dei fatti si sono riferite a persone che appaiono in grado di conoscere la verita'".
 
-##### Art. 24
+### Art. 24
 
 Querela di falso
 
@@ -364,7 +362,7 @@ Querela di falso
 
 "Art. 313 - (Querela di falso). - Se e' proposta querela di falso, il pretore o il giudice di pace, quando ritiene il documento impugnato rilevante per la decisione, sospende il giudizio e rimette le parti davanti al tribunale per il relativo procedimento. Puo' anche disporre a norma dell'articolo 225, secondo comma".
 
-##### Art. 25
+### Art. 25
 
 Forma della domanda
 
@@ -380,7 +378,7 @@ DISPOSIZIONI SPECIALI PE IL PROCEDIMENTO DAVANTI AL GIUDICE DI PACE".
 
 La domanda si puo' anche proporre verbalmente. Di essa il giudice di pace fa redigere processo verbale che, a cura dell'attore, e' notificato con citazione a comparire a udienza fissa".
 
-##### Art. 26
+### Art. 26
 
 Rappresentanza davanti al giudice di pace
 
@@ -390,7 +388,7 @@ Rappresentanza davanti al giudice di pace
 
 Il mandato a rappresentare comprende sempre quello a transigere e a conciliare".
 
-##### Art. 27
+### Art. 27
 
 Contenuto della domanda
 
@@ -402,7 +400,7 @@ Tra il giorno della notificazione di cui all'articolo 316 e quello della compari
 
 Se la citazione indica un giorno nel quale il giudice di pace non tiene udienza, la comparizione e' d'ufficio rimandata all'udienza immediatamente successiva".
 
-##### Art. 28
+### Art. 28
 
 Costituzione delle parti
 
@@ -412,7 +410,7 @@ Costituzione delle parti
 
 Le parti, che non hanno precedentemente dichiarato la residenza o eletto domicilio nel comune in cui ha sede l'ufficio del giudice di pace, debbono farlo con dichiarazione ricevuta nel processo verbale al momento della costituzione".
 
-##### Art. 29
+### Art. 29
 
 Trattazione della causa
 
@@ -430,7 +428,7 @@ Quando sia reso necessario dalle attivita' svolte dalle parti in prima udienza, 
 
 I documenti prodotti dalle parti possono essere inseriti nel fascicolo di ufficio ed ivi conservati fino alla definizione del giudizio".
 
-##### Art. 30
+### Art. 30
 
 Decisione
 
@@ -440,7 +438,7 @@ Decisione
 
 La sentenza e' depositata in cancelleria entro quindici giorni dalla discussione".
 
-##### Art. 31
+### Art. 31
 
 Conciliazione in sede non contenziosa
 
@@ -452,7 +450,7 @@ Il processo verbale di conciliazione in sede non contenziosa costituisce titolo 
 
 Negli altri casi il processo verbale ha valore di scrittura privata riconosciuta in giudizio".
 
-##### Art. 32
+### Art. 32
 
 Termini per le impugnazioni
 
@@ -470,7 +468,7 @@ Termini per le impugnazioni
 
 > Il termine per proporre il ricorso per cassazione e' di giorni sessanta".
 
-##### Art. 33
+### Art. 33
 
 Impugnazione
 
@@ -488,7 +486,7 @@ Impugnazione
 
 > Sono altresi' inappellabili le sentenze del giudice di pace pronunziate secondo equita'".
 
-##### Art. 34
+### Art. 34
 
 Giudice dell'appello
 
@@ -504,39 +502,35 @@ Giudice dell'appello
 
 > L'appello contro le sentenze del giudice di pace si propone al tribunale nel cui circondario ha sede il giudice che ha pronunciato la sentenza".
 
-## CAPO III - COMPETENZA E PROCEDIMENTO
+## CAPO III - COMPETENZA E PROCEDIMENTO PENALE DEL GIUDICE DI PACE
 
-### PENALE DEL GIUDICE DI PACE
+## ((CAPO ABROGATO DALLA L. 24 NOVEMBRE 1999, N. 468))
 
-#### ((CAPO ABROGATO DALLA L. 24 NOVEMBRE 1999, N. 468))
-
-##### Art. 35
+### Art. 35
 
 ((ARTICOLO ABROGATO DALLA L. 24 NOVEMBRE 1999, N. 468))
 
-##### Art. 36
+### Art. 36
 
 ((ARTICOLO ABROGATO DALLA L. 24 NOVEMBRE 1999, N. 468))
 
-##### Art. 37
+### Art. 37
 
 ((ARTICOLO ABROGATO DALLA L. 24 NOVEMBRE 1999, N. 468))
 
-##### Art. 38
+### Art. 38
 
 ((ARTICOLO ABROGATO DALLA L. 24 NOVEMBRE 1999, N. 468))
 
-## CAPO IV - NOME DI COORDINAMENTO,
+## CAPO IV - NOME DI COORDINAMENTO, TRANSITORIE E FINALI
 
-### TRANSITORIE E FINALI
-
-##### Art. 39
+### Art. 39
 
 Coordinamento
 
 1\. In tutte le disposizioni di legge in cui vengono usate le espressioni "conciliatore", "giudice conciliatore" e "vice conciliatore" ovvero "ufficio di conciliazione", queste debbono intendersi sostituite rispettivamente con le espressioni "giudice di pace" e "ufficio del giudice di pace".
 
-##### Art. 40
+### Art. 40
 
 Norme per le regioni
 
@@ -550,7 +544,7 @@ Trentino-Alto Adige e Valle d'Aosta
 
 4\. Per quanto non specificamente previsto dal presente articolo, si provvede con le norme di coordinamento e di attuazione ai sensi dell'articolo 42, sentiti gli enti interessati.
 
-##### Art. 41
+### Art. 41
 
 Conoscenza delle lingue italiana, tedesca e francese
 
@@ -582,7 +576,7 @@ Conoscenza delle lingue italiana, tedesca e francese
 
 > Art. 54. - Le norme di cui agli articoli precedenti si applicano anche ai concorsi bandi da enti pubblici non economici, quando ricorrano le condizioni previste dalle norme medesime".
 
-##### Art. 42
+### Art. 42
 
 Norme di coordinamento e di attuazione
 
@@ -612,7 +606,7 @@ Norme di coordinamento e di attuazione
 
 > 4\. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di "regolamento", sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale".
 
-##### Art. 43
+### Art. 43
 
 Cause pendenti
 
@@ -622,11 +616,11 @@ Cause pendenti
 
 > \- Per il nuovo testo dell'art. 8 del codice di procedura civile, in vigore dal 2 gennaio 1993, si veda in nota all'art. 18.
 
-##### Art. 44
+### Art. 44
 
 ((ARTICOLO ABROGATO DALLA L. 16 DICEMBRE 1999, N. 479))
 
-##### Art. 45
+### Art. 45
 
 Dei giudici
 
@@ -674,7 +668,7 @@ h) dal tribunale di sorveglianza;
 
 > Sono regolati da leggi speciali (l'ordinamento giudiziario dell'impero e degli altri territori soggetti alla sovranita' dello Stato), le giurisdizioni amministrative ed ogni altra giurisdizione speciale nonche' le giurisdizioni per i ratei militari e marittimi".
 
-##### Art. 46
+### Art. 46
 
 Regime fiscale
 
@@ -690,7 +684,7 @@ AGGIORNAMENTO (4)
 
 Il D.Lgs. 19 febbraio 1998, n. 51, come modificato dalla L. 16 giugno 1998, n. 188, ha disposto (con l'art. 247, comma 1) che l'abrogazione del comma 2 del presente articolo ha effetto a decorrere dal 2 giugno 1999.
 
-##### Art. 47
+### Art. 47
 
 Abrogazioni
 
@@ -712,7 +706,7 @@ Abrogazioni
 
 > \- Il capo I (articoli 20-29) del titolo II dell'ordinamento giudiziario, approvato con R.D. n. 12/1941, abrogato dal 2 gennaio 1993 dal presente articolo, reca norme relative all'ufficio del giudice conciliatore ed ha per titolo: "Del giudice conciliatore".
 
-##### Art. 48
+### Art. 48
 
 Copertura finanziaria
 
@@ -722,13 +716,13 @@ Copertura finanziaria
 
 3\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 49
+### Art. 49
 
 (( (Efficacia di singole disposizioni).
 
 1\. Le disposizioni di cui agli articoli 3, commi 2 e 3; 7; 9; 10; 11; 13; da 15 a 34; da 39 a 41 e da 43 a 47 hanno efficacia a partire dal 1 maggio 1995.))
 
-##### Art. 50
+### Art. 50
 
 Entrata in vigore della legge 26 novembre 1990, n. 353
 
@@ -740,7 +734,7 @@ Entrata in vigore della legge 26 novembre 1990, n. 353
 
 > \- L'entrata in vigore della legge 353/1990, recante: "Provvedimenti urgenti per il processo civile", era stata prevista, dalla originaria stesura dell'art. 92, al 1 gennaio 1992, fatta eccezione per la disposizione di cui all'art. 1, entrata in vigore il 16 dicembre 1990, secondo le ordinarie regole di vacatio, riguardante la sostituzione dell'art. 1284 del codice civile sul saggio degli interessi legali.
 
-##### Art. 51
+### Art. 51
 
 ((ARTICOLO ABROGATO DAL D.L. 7 OTTOBRE 1994, N. 571, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 DICEMBRE 1994, N. 673))
 
@@ -760,11 +754,9 @@ giustizia
 
 Visto, il Guardasigilli: MARTELLI
 
-## CAPO IV - NOME DI COORDINAMENTO,
+## CAPO IV - NOME DI COORDINAMENTO, TRANSITORIE E FINALI
 
-### TRANSITORIE E FINALI
-
-##### Tabella A
+### Tabella A
 
 Tabella A - Articolo 2, comma 1
 
@@ -2756,7 +2748,7 @@ Il D.Lgs. 7 settembre 2012, n. 156 ha disposto (con l'art. 5, comma 1) che "Le d
 
 Ha inoltre disposto (con l'art. 5, comma 2) che "Nei sei mesi successivi al termine di efficacia indicato al comma 1, le udienze precedentemente fissate dinanzi al giudice di pace di uno degli uffici soppressi sono tenute presso i medesimi uffici. Gli eventuali rinvii sono effettuati dinanzi all'ufficio competente a norma dell'articolo 1, comma 2".
 
-##### Tabella A
+### Tabella A
 
 -------------
 

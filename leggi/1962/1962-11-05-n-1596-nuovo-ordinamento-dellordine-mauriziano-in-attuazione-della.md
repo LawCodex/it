@@ -26,17 +26,17 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 L'Ordine Mauriziano e' conservato come ente ospedaliero, con gli altri suoi compiti in materia di beneficenza, di istruzione e di culto, da esercitarsi in conformita' della presente legge.
 
-### Art. 2
+## Art. 2
 
 L'Ordine Mauriziano ha personalita' giuridica di diritto pubblico, e' posto sotto l'Alto patronato del Presidente della Repubblica e la vigilanza del Ministro per l'interno.
 
 L'Ordine ha sede in Torino.
 
-### Art. 3
+## Art. 3
 
 Sono organi dell'Ordine:
 
@@ -48,7 +48,7 @@ Sono organi dell'Ordine:
 
 4\) il Collegio dei revisori.
 
-### Art. 4
+## Art. 4
 
 Il presidente e' nominato con decreto del Presidente della Repubblica, su proposta del Presidente del Consiglio dei Ministri, di concerto con il Ministro per l'interno, per la durata di quattro anni.
 
@@ -56,7 +56,7 @@ Il presidente ha la legale rappresentanza dell'Ente, ne dirige e coordina l'atti
 
 In caso di impedimento o di assenza e' sostituito dal membro piu' anziano della Giunta esecutiva.
 
-### Art. 5
+## Art. 5
 
 Il Consiglio di amministrazione e' composto:
 
@@ -68,7 +68,7 @@ da tre membri designati dal Consiglio regionale del Piemonte fra personalita' do
 
 Il Consiglio e' nominato per la durata di un quadriennio con decreto del Presidente della Repubblica, su proposta del Presidente del Consiglio dei Ministri, di concerto col Ministro per l'interno.
 
-### Art. 6
+## Art. 6
 
 La Giunta esecutiva e' composta:
 
@@ -76,7 +76,7 @@ dal presidente;
 
 da due membri scelti annualmente nel proprio seno dal Consiglio di amministrazione.
 
-### Art. 7
+## Art. 7
 
 Spetta al Consiglio di amministrazione deliberare:
 
@@ -110,13 +110,13 @@ Per le materie indicate al numero 6) trova applicazione la legge 5 giugno 1850, 
 
 Le deliberazioni del Consiglio sono prese a maggioranza assoluta, con la presenza di almeno cinque membri.
 
-### Art. 8
+## Art. 8
 
 La Giunta esecutiva delibera sugli atti non espressamente riservati al Consiglio di amministrazione.
 
 In caso di urgenza essa prende le deliberazioni di competenza del Consiglio, con l'obbligo di sottoporle al Consiglio stesso, per la ratifica, nella prima riunione successiva.
 
-### Art. 9
+## Art. 9
 
 Presso l'Ente e' costituito un Collegio dei revisori composto:
 
@@ -134,13 +134,13 @@ Il Collegio dei revisori provvede al riscontro degli atti di gestione, accerta l
 
 I revisori esercitano il loro mandato anche individualmente ed hanno facolta' di intervenire alle sedute del Consiglio di amministrazione e della Giunta esecutiva.
 
-### Art. 10
+## Art. 10
 
 Il direttore generale dell'Ente e' nominato dal Consiglio di amministrazione con l'osservanza delle disposizioni contenute nel regolamento del personale di cui al numero 1) dell'articolo 7; la relativa deliberazione deve essere approvata dal Presidente del Consiglio dei Ministri, di concerto con i Ministri per l'interno e per la sanita'.
 
 Il direttore generale e' il capo degli uffici e dei servizi e risponde del loro normale funzionamento; partecipa con voto consultivo alle sedute del Consiglio di amministrazione e della Giunta esecutiva e cura l'esecuzione delle relative deliberazioni.
 
-### Art. 11
+## Art. 11
 
 L'esercizio finanziario dell'Ordine ha inizio il 1 gennaio e termina il 31 dicembre di ogni anno.
 
@@ -150,11 +150,11 @@ Entro tre mesi dalla chiusura dell'esercizio finanziario il presidente deve invi
 
 ## Norme transitorie
 
-### Art. 12
+## Art. 12
 
 Fino a quando non saranno emanati i regolamenti previsti dall'articolo 7, n. 1, della presente legge, si osserveranno, in quanto applicabili, le vigenti disposizioni statutarie e regolamentari dell'Ordine, relative agli uffici, ai servizi ed al personale.
 
-### Art. 13
+## Art. 13
 
 Fino a quando non sara' eletto il Consiglio della Regione Piemonte, alla nomina dei tre membri di cui all'articolo 5, e del revisore di cui all'articolo 9, provvede il Presidente del Consiglio dei Ministri, scegliendo tra persone proposte dai Presidenti dei Consigli provinciali del Piemonte, in ragione di una per ciascuna Provincia e per ciascuna carica.
 

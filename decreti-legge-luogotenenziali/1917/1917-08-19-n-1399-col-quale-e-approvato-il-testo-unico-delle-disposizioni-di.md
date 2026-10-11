@@ -278,7 +278,7 @@ Universita' degli studi.
 
 Nessun altro addebito sara' fatto a carico della Provincia, del Comune e della Camera di commercio e arte di Messina per detto contributo sino a nuova disposizione.
 
-## CAPO II. - Addizionale alle imposte e tasse ed assegnazioni sui relativi proventi.
+#### CAPO II. - Addizionale alle imposte e tasse ed assegnazioni sui relativi proventi.
 
 ###### Art. 10
 
@@ -464,9 +464,9 @@ b) nei Comuni che, per verifiche gia' eseguite al 17 luglio 1913, risultino aver
 
 La somma all'uopo occorrente sara' prelevata dai proventi di cui all'art. 10 ed inscritta, in capitoli speciali istituiti con decreto del ministro del tesoro, nella parte straordinaria degli stati di previsione della spesa dei vari Ministeri.
 
-## CAPO III. - Bilanci degli enti locali.
+#### CAPO III. - Bilanci degli enti locali.
 
-### Sezione I. - Autorità tutoria.
+##### Sezione I. - Autorità tutoria.
 
 ###### Art. 20
 
@@ -502,7 +502,7 @@ Il Regio D.L. 19 gennaio 1939, n. 293, convertito senza modificazioni dalla L. 2
 
 ((Oltre quanto e' disposto dell'art. 169 spetta al Ministero dell'interno previ i pareri di cui all'art. 21 di approvare le deliberazioni di tutti i Comuni di cui alla tabella n.1, relativa alla contrattazione di mutui o a spese che vincolino i bilanci per oltre cinque anni)).
 
-## Sezione II. - Entrate e spese.
+##### Sezione II. - Entrate e spese.
 
 ###### Art. 23
 
@@ -594,7 +594,7 @@ Art. 35 testo unico.
 
 Fino a contraria disposizione sono considerati come maestri i rurali, per gli effetti della indennita' di disagiata residenza, di cui all'art. 67 della legge 15 luglio 1906, n. 383, i maestri di tutti i Comuni indicati nella tabella n. 1, allegata al presente testo unico.
 
-## Sezione III. - Conti consuntivi distrutti o smarriti.
+##### Sezione III. - Conti consuntivi distrutti o smarriti.
 
 ###### Art. 31
 
@@ -656,11 +656,13 @@ Art. 41 testo unico.
 
 Le precedenti disposizioni sono applicabili ai conti consuntivi delle provincie, ferme restando la competenza della Corte di conti.
 
-## TITOLO I. - Opere.
+### TITOLO I. - Opere.
 
-### CAPO I. - Opere immediate.
+#### CAPO I. - Opere immediate.
 
-#### Sezione I. - Demolizioni e sgombri. - § I. - Sgombro delle aree pubbliche.
+##### Sezione I. - Demolizioni e sgombri.
+
+**§ I. - Sgombro delle aree pubbliche.**
 
 ###### Art. 37
 
@@ -698,7 +700,7 @@ Art. 45 testo unico.
 
 Lo Stato non e' civilmente responsabile per tutto cio' che ha tratto all'esecuzione delle disposizioni del presente paragrafo.
 
-## § II - Sgombro delle aree di privata proprietà.
+**§ II - Sgombro delle aree di privata proprietà.**
 
 ###### Art. 41
 
@@ -848,7 +850,9 @@ Art. 58 testo unico.
 
 I Comuni nei quali, per ubicazione dell'abitato e per deficienza di aree disponibili, sia dimostrata la necessita' di riedificare nelle zone dei fabbricati distrutti o danneggiati, possono essere autorizzati dal Ministero dei lavori pubblici, sentita la Commissione di cui all'art. 20, a provvedere alla demolizione ed allo sgombro dei fabbricati non utilizzabili, con le norme di cui agli articoli dal 41 al 52.
 
-## Sezione II. - Aree e baracche. - § 1. - Aree.
+##### Sezione II. - Aree e baracche.
+
+**§ 1. - Aree.**
 
 ###### Art. 54
 
@@ -1020,7 +1024,7 @@ Alle permute di aree dello Stato, di valore anche superiore alle L. 100.000, con
 
 Le aree di pertinenza comunale, occorrenti per l'esecuzione di opere in servizio dello Stato, sono cedute dai Comuni stessi gratuitamente, in quanto trovino corrispettivo nelle aree passate in proprieta' dei Comuni agli effetti dell'art. 54.
 
-## § II. - Baracche.
+**§ II. - Baracche.**
 
 ###### Art. 66
 
@@ -1164,7 +1168,7 @@ Sono cedute alle Congregazioni di carita' le casette di cemento armato, costruit
 
 Per l'uso delle casette le Congregazioni di carita' hanno diritto di imporre un canone, da determinarsi sentito il genio civile.
 
-## § IV. - Disposizioni comuni alle aree e alle baracche.
+**§ IV. - Disposizioni comuni alle aree e alle baracche.**
 
 ###### Art. 76
 
@@ -1196,7 +1200,7 @@ Art. 82 testo unico.
 
 ((Tutti gli atti per la concessione di baracche e di aree per costruzione di ricoveri personali, nonche' quelli per la vendita di baracche, per concessioni od alienazioni gratuite od a condizioni di favore, di cui all'art. 63, sono esenti da qualsiasi tassa)).
 
-## Sezione III. - Rimborsi di spese e pagamenti di canoni.
+##### Sezione III. - Rimborsi di spese e pagamenti di canoni.
 
 ###### Art. 79
 
@@ -1278,7 +1282,7 @@ Per la riscossione, i versamenti e le esenzioni sono applicabili le disposizioni
 
 Le somme relative sono versate in tesoreria dal ricevitore provinciale.
 
-## Sezione IV. - Alloggi provvisori per impiegati.
+##### Sezione IV. - Alloggi provvisori per impiegati.
 
 ###### Art. 85
 
@@ -1402,9 +1406,7 @@ Articoli 2 e 14 R. decreto 18 giugno 1914, n.700 - ((...)).
 
 La gestione delle aree e delle baracche cedute ai Comuni e degli alloggi provvisori per gli impiegati dello Stato in Messina e Reggio Calabria e' affidata all' ((Unione edilizia messinese)), all'ente edilizio di Reggio Calabria, a norma degli articoli 363 e 396.
 
-## CAPO II. - Opere definitive.
-
-### Sezione I. - Edifici pubblici, case economiche e case per gli impiegati.
+#### CAPO II. - Opere definitive. Sezione I. - Edifici pubblici, case economiche e case per gli impiegati.
 
 ###### Art. 97
 
@@ -1538,7 +1540,7 @@ Per gli atti che possono occorrere per l'esecuzione del presente articolo il com
 
 Restano ferme le disposizioni contenute nella legge (testo unico) 27 febbraio 1908, n. 89, per le case popolari.
 
-## Sezione II. - Altre opere dello Stato.
+##### Sezione II. - Altre opere dello Stato.
 
 ###### Art. 111
 
@@ -1588,7 +1590,9 @@ Il trasferimento degli immobili di cui sopra e' regolato con le modalita' stabil
 
 Gli immobili sono dal Ministero della guerra riconsegnati al Demanio nello stato in cui si trovano, completamente sgombri dei materiali mobili di pertinenza dell'Amministrazione della guerra, la quale ha facolta' di asportare gli oggetti di arredamento fissi esistenti nei vari fabbricati e di demolire ed asportare le baracche che si trovano nei terreni che abbandona.
 
-## Sezione III. - Piani regolatori. - § I. - Procedura, agevolazioni e termini.
+##### Sezione III. - Piani regolatori.
+
+**§ I. - Procedura, agevolazioni e termini.**
 
 ###### Art. 115
 
@@ -1914,7 +1918,7 @@ AGGIORNAMENTO (1)
 
 L'errata-Corrige in G.U. 4/2/1918, n. 29 ha disposto che nel presente articolo si richiamano le disposizioni dell'art. 194, anziche' quelle dell'art. 184.
 
-## § III. - Uffici dei piani regolatori.
+**§ III. - Uffici dei piani regolatori.**
 
 ###### Art. 138
 
@@ -2110,11 +2114,11 @@ Art. 70 testo unico.
 
 Allo scadere del vincolo cesseranno i benefici accordati dalla legge ai concessionari di aree nella zona industriale)).
 
-## Capo III. - Norme di esecuzione.
+#### Capo III. - Norme di esecuzione.
 
-### Sezione I. - Procedimento di espropriazione. - § I. - Dichiarazione di pubblica utilità.
+##### Sezione I. - Procedimento di espropriazione.
 
-#### a) Opere immediate.
+**§ I. - Dichiarazione di pubblica utilità. - a) Opere immediate.**
 
 ###### Art. 157
 
@@ -2154,7 +2158,7 @@ E' dichiarata di pubblica utilita' la costruzione nei Comuni colpiti dal terremo
 
 All'((Unione edilizia messinese)) e a tali enti i Comuni possono cedere in enfiteusi aree di loro proprieta'.
 
-## § II. Liquidazione delle indennità.
+**§ II. Liquidazione delle indennità.**
 
 ###### Art. 161
 
@@ -2328,7 +2332,7 @@ Contro la sentenza del Collegio arbitrale di secondo grado per le espropriazioni
 
 In caso di annullamento della sentenza, la Corte di cassazione rinvia la causa per nuovo esame avanti lo stesso Collegio di secondo grado, il quale deve uniformarsi alla massima di diritto stabilita dalla Cassazione.
 
-## § III. - Procedimento d'espropriazione. - a) Norme generali.
+**§ III. - Procedimento d'espropriazione. - a) Norme generali.**
 
 ###### art. 173
 
@@ -2526,7 +2530,7 @@ Il D.L. 20 giugno 2002, n. 122, convertito con modificazioni dalla L. 1 agosto 2
 
 Il D.P.R. 8 giugno 2001, n. 327, come modificato dal D.Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo al 30 giugno 2003.
 
-## § IV. - Occupazioni temporanee.
+**§ IV. - Occupazioni temporanee.**
 
 ###### art. 185
 
@@ -2712,7 +2716,9 @@ Art. 182 testo unico.
 
 A tutti gli atti e contratti relativi alle opere che sono eseguite a cura dello Stato, delle Provincie e dei Comuni, nonche' dei Comitati di soccorso, per riparare i danni cagionati dal terremoto del 28 dicembre 1908, sono applicabili le disposizioni dell'art. 300, comma 6°.
 
-## Sezione III. - Norme costruttive. - § I. - Disposizioni generali.
+##### Sezione III. - Norme costruttive.
+
+**§ I. - Disposizioni generali.**
 
 ###### Art. 202
 
@@ -2740,7 +2746,7 @@ AGGIORNAMENTO (24)
 
 Il Regio Decreto 22 luglio 1923, n. 1634, convertito senza modificazioni dalla L. 17 aprile 1925, n. 473, come modificato dall'Errata-Corrige in G.U. 05/10/1923, n. 234, ha disposto (con l'art. 1, comma 1) che "Ferma restando ad ogni altro effetto l'inclusione del comune di Castelmola nelle tabelle annesse al testo unico 19 agosto 1917, n. 1399, la disposizione dell'articolo 203 della legge medesima, in eccezione dell'articolo 202, si estende a quelle zone del territorio comunale di Castelmola, che si trovano sulla dorsale del Monte Tauro, in continuazione alle zone del territorio di Taormina gia' contemplate dal citato articolo 203".
 
-## § II. - Nuove costruzioni.
+**§ II. - Nuove costruzioni.**
 
 ###### Art. 204
 
@@ -3084,7 +3090,7 @@ d) qualunque altra opera che non sia ammessa dalle presenti norme, oppure che po
 
 I rapporti tra le forze orizzontali da introdurre convenzionalmente nei calcoli ed i corrispondenti pesi debbono essere eguali ad un ottavo per il piano terreno degli edifici che al piano di gronda non siano piu' alti di m. 10 o di m. 12 nei casi consentiti dall'articolo 206, primo comma; ad un sesto per il piano superiore di detti edifici e per quelli di altezza maggiore)).
 
-## § III. - Ricostruzioni.
+**§ III. - Ricostruzioni.**
 
 ###### Art. 230
 
@@ -3112,7 +3118,7 @@ Nelle ricostruzioni e' concessa l'utilizzazione delle fondazioni preesistenti, q
 
 208\.
 
-## § IV. - Riparazioni.
+**§ IV. - Riparazioni.**
 
 ###### Art. 233
 
@@ -3200,7 +3206,7 @@ Art. 221 testo unico - Art. 38 norme approvate con R. decreto 29 aprile 1915, n.
 
 Nel caso di edifici non interamente caduti od abbattuti, alle parti da ripararsi vengono applicate le norme del presente paragrafo, meno per la parte da ricostruirsi, la cui altezza deve essere uguale a quella permessa, a norma del precedente art. 231.
 
-## § V. - Norme igieniche.
+**§ V. - Norme igieniche.**
 
 ###### Art. 242
 
@@ -3232,7 +3238,7 @@ Art. 223 testo unico - Art. 40 norme approvate con R. decreto 29 aprile 1915, n.
 
 Nella costruzione degli edifici scolastici dovranno osservarsi, oltre le presenti norme, anche quelle tecniche ed igieniche approvate col R. decreto 11 gennaio 1912, n. 12.
 
-## § VI. - Sanzioni, azioni, procedimenti.
+**§ VI. - Sanzioni, azioni, procedimenti.**
 
 ###### Art. 244
 
@@ -3394,7 +3400,7 @@ Gli ufficiali di polizia giudiziaria, gli ufficiali del genio civile, gli ingegn
 
 I suddetti funzionari quando debbono accedere per altri incarichi qualsiansi nei Comuni danneggiati debbono, compatibilmente con gli stessi incarichi, accertare se le riparazioni, ricostruzioni o nuove costruzioni procedono in conformita' delle presenti norme.
 
-## § VII. - Disposizioni transitorie.
+**§ VII. - Disposizioni transitorie.**
 
 ###### Art. 258
 
@@ -3430,7 +3436,7 @@ Art. 240 testo unico.
 
 Prima di provvedere ai sensi indicati nei due articoli precedenti, il pretore od il tribunale, da cui sia stato emesso il decreto o la sentenza, dovra' richiedere che l'Ufficio del genio civile proceda a constatazioni tecniche, per accertare che lo stato e la costruzione dell'edificio siano compatibili con le disposizioni contenute nel testo unico approvato con R. decreto 12 ottobre 1913, n. 1261, e se sara' necessario, potra' anche ricorrere all'opera di uno o piu' periti, in conformita' di quanto e' stabilito nell'art. 250.
 
-## § VIII. - Zone sismiche.
+**§ VIII. - Zone sismiche.**
 
 ###### Art. 262
 
@@ -3470,7 +3476,7 @@ Le infrazioni alle disposizioni contenute nei due precedenti articoli sono punit
 
 #### CAPO I. - Disposizioni generali.
 
-##### § 1. - Mutuo di favore e contributo dello Stato.
+**§ 1. - Mutuo di favore e contributo dello Stato.**
 
 ###### Art. 265
 
@@ -3484,7 +3490,7 @@ Detti mutui ipotecari, al saggio d'interesse non superiore al 4% sono ammortizza
 
 La spesa relativa e' inscritta nel bilancio del Ministero del tesoro.
 
-## § II - Mutuanti.
+**§ II - Mutuanti.**
 
 ###### Art. 266
 
@@ -3496,7 +3502,7 @@ Sono autorizzati a concedere i mutui di favore il Consorzio di cui all'art. 301,
 
 Gli Istituti sovventori, i quali esercitano il credito fondiario, hanno facolta' di compiere le suddette operazioni derogando alle disposizioni della legge (testo unico) 16 luglio 1905, n. 696.
 
-## § III. - Mutuatari.
+**§ III. - Mutuatari.**
 
 ###### Art. 267
 
@@ -3586,7 +3592,7 @@ Art. 254 testo unico.
 
 I danneggiati dal terremoto del 28 dicembre 1908 possono ottenere il mutuo dal Consorzio, o dagli altri Istituti mutuanti, quando anche gli edifici da riparare o da ricostruire fossero gia' stati colpiti dai terremoti del 1905 e 1907, e per la intera somma occorrente alla riparazione o ricostruzione.
 
-## § IV - Area per la ricostruzione.
+**§ IV - Area per la ricostruzione.**
 
 ###### Art. 276
 
@@ -3604,7 +3610,7 @@ Coloro che intendono valersi della facolta' di cui al precedente comma, debbono 
 
 Il mutuo per la ricostruzione delle case distrutte o danneggiate nei Comuni i cui abitati sono soggetti a spostamento, puo' essere impiegato anche per costruire nel territorio dei nuovi centri, su aree concesse ai sensi dell'art. 67 della legge 9 luglio 1908, n. 445, o in altro Comune della Provincia. Per le case da ricostruire nel territorio dei nuovi centri, il biennio per la somministrazione rateale del mutuo decorre dal giorno del sorteggio delle aree, giusta l'articolo 71 della citata legge.
 
-## § V. - Regolamento dei diritti di condominio.
+**§ V. - Regolamento dei diritti di condominio.**
 
 ###### Art. 277
 
@@ -3666,7 +3672,7 @@ Art. 261 testo unico.
 
 Tutte le questioni relative al regolamento dei rapporti di condominio o di proprieta' divisa dei fabbricati danneggiati o distrutti comprese quelle che insorgessero tra condomini e proprietari di parti' di uno stesso edificio per la liquidazione delle rispettive indennita' e per il modo o il tempo con cui provvedere alle nuove costruzioni, sono deferite al Collegio speciale di cui all'art. 492. Esso puo' dare tutti i provvedimenti utili a promuovere l'accordo. Se l'accordo non sia raggiungibile, decide in merito alla controversia e, quando si tratti di fabbricati distrutti, puo' anche ordinare la vendita all'asta dell'area comune, stabilendo se l'asta debba essere limitata ai soli condomini o possa essere aperta a tutti, fissando il prezzo di base dell'asta e delegando un notaio a presiederla. In tal caso, il ricavato della vendita e' ripartito, in proporzione dei rispettivi imponibili, fra tutti i condomini.
 
-## § VI. - Ammontare del mutuo.
+**§ VI. - Ammontare del mutuo.**
 
 ###### Art. 283
 
@@ -3796,7 +3802,7 @@ L'agenzia delle imposte annota, secondo la loro data di presentazione, tutte le 
 
 L'agenzia delle imposte rilascia all'ente denunciante un certificato, da cui risulti la eseguita annotazione. In tale certificato deve altresi' dichiararsi, se sulla stessa partita catastale e per lo stesso titolo esistano o meno annotazioni precedenti. In caso affermativo l'agenzia delle imposte deve indicare all'ente richiedente anche gli estremi delle preesistenti annotazioni. L'esercizio utile del diritto a mutuo di favore con ogni effetto relativo e' determinato dalla priorita' delle annotazioni all'agenzia delle imposte.
 
-## § VIII - Somministrazione ed ammortamento del mutuo.
+**§ VIII - Somministrazione ed ammortamento del mutuo.**
 
 ###### Art. 293
 
@@ -3838,7 +3844,7 @@ Contro il mutuatario moroso, dietro richiesta del Consorzio o altro Istituto cre
 
 Sono inoltre applicabili, per il procedimento di esecuzione, le disposizioni del titolo VII del testo unico delle leggi sul credito fondiario, approvato con R. decreto 16 luglio 1905, n. 646.
 
-## § IX. - Ipoteche.
+**§ IX. - Ipoteche.**
 
 ###### Art. 296
 
@@ -3908,7 +3914,7 @@ AGGIORNAMENTO (27)
 
 Il Regio D.L. 17 gennaio 1924, n. 75, convertito senza modificazioni dalla L. 17 aprile 1925, n. 473, ha disposto (con l'art. 16, comma 1) che "E' prorogato al 30 giugno 1924 il termine di cui all'articolo 299 del testo unico approvato con decreto Luogotenenziale 19 agosto 1917, n. 1399, gia' prorogato al 31 dicembre 1923 con l'art. 27 del R. decreto-legge 3 maggio 1920, n. 545, per quanto concerne la procedura di esecuzione sugli immobili colpiti dal terremoto del 28 dicembre 1908".
 
-## § X. - Esenzioni fiscali.
+**§ X. - Esenzioni fiscali.**
 
 ###### Art. 300
 
@@ -3930,9 +3936,9 @@ L'inscrizione a garanzia del quarto e la garanzia di un ente intermedio di cui a
 
 Inoltre le operazioni relative a mutui di favore o da questi dipendenti fatte dal Consorzio, dagli altri Istituti indicati nell'articolo 266, come pure le operazioni dell'Istituto Vittorio Emanuele III, godono di ogni altra agevolezza od esenzione applicabile alle operazioni ordinarie degli Istituti che esercitano il credito fondiario nel Regno.
 
-## CAPO II. - Consorzio per la concessione di mutui.
+#### CAPO II. - Consorzio per la concessione di mutui.
 
-### § I. - Istituzione e capitale iniziale del Consorzio.
+**§ I. - Istituzione e capitale iniziale del Consorzio.**
 
 ###### Art. 301
 
@@ -4002,7 +4008,7 @@ Art. 282 testo unico.
 
 La responsabilita' degli Istituti costituenti il Consorzio e' limitata alla somma da ciascuno di essi conferita: nessun'altra responsabilita' loro incombe.
 
-## § II. - Amministrazione del Consorzio.
+**§ II. - Amministrazione del Consorzio.**
 
 ###### Art. 305
 
@@ -4042,7 +4048,7 @@ Art. 286 testo unico.
 
 Il Consorzio e' sottoposto alla vigilanza dei Ministeri dell'industria commercio e lavoro e del tesoro.
 
-## § III. - Capitale del Consorzio.
+**§ III. - Capitale del Consorzio.**
 
 ###### Art. 309
 
@@ -4250,7 +4256,7 @@ b) la riserve straordinaria accumulata in capitale ed interessi fino al 30 giugn
 
 c) gli interessi che si matureranno dal 1° gennaio 1922 tanto sui nuovi accantonamenti di cui alla lettera a) quanto sul fondo accumulato di cui alla lettera b) saranno a libera disposizione del Consorzio".
 
-## § IV. - Somministrazione dei mutui.
+**§ IV. - Somministrazione dei mutui.**
 
 ###### Art. 314
 
@@ -4384,7 +4390,7 @@ b) la riserve straordinaria accumulata in capitale ed interessi fino al 30 giugn
 
 c) gli interessi che si matureranno dal 1° gennaio 1922 tanto sui nuovi accantonamenti di cui alla lettera a) quanto sul fondo accumulato di cui alla lettera b) saranno a libera disposizione del Consorzio".
 
-## § V. - Liquidazione del Consorzio.
+**§ V. - Liquidazione del Consorzio.**
 
 ###### Art. 317
 
@@ -4476,7 +4482,7 @@ b) la riserve straordinaria accumulata in capitale ed interessi fino al 30 giugn
 
 c) gli interessi che si matureranno dal 1° gennaio 1922 tanto sui nuovi accantonamenti di cui alla lettera a) quanto sul fondo accumulato di cui alla lettera b) saranno a libera disposizione del Consorzio".
 
-## § VI. - Disposizioni varie.
+**§ VI. - Disposizioni varie.**
 
 ###### Art. 319
 
@@ -4494,9 +4500,7 @@ Art. 298 testo unico.
 
 Le competenze dei notai sugli atti stipulati dal Consorzio, per la concessione dei mutui ai danneggiati dal terremoto del 28 dicembre 1908, sono ridotte alla meta' di quelle fissate dalla legge in vigore.
 
-## Capo III. - Istituto Vittorio Emanuele III
-
-### per i danneggiati dai terremoti di Reggio Calabria.
+#### Capo III. - Istituto Vittorio Emanuele III per i danneggiati dai terremoti di Reggio Calabria.
 
 ###### Art. 321
 
@@ -4618,7 +4622,7 @@ Nella concessione dei mutui stessi, l'Istituto deve preferire le domande di colo
 
 Con l'approvazione dei ministri del tesoro e dell'industria, commercio e lavoro, il Consiglio d'amministrazione dell'Istituto ha facolta' di determinare il limite massimo della somma entro cui le singole domande di mutuo devono essere contenute.
 
-## Capo IV. - Contributo diretto dello Stato.
+#### Capo IV. - Contributo diretto dello Stato.
 
 ###### Art. 331
 
@@ -4694,7 +4698,7 @@ AGGIORNAMENTO (27)
 
 Il Regio D.L. 17 gennaio 1924, n. 75, convertito senza modificazioni dalla L. 17 aprile 1925, n. 473, nel modificare l'art. 11, comma 1 del Regio D.L. 3 maggio 1920, n. 545, convertito senza modificazioni dalla L. 17 aprile 1925, n. 473, ha conseguentemente disposto (con l'art. 13, comma 1) che "Il limite di L. 5000 del reddito imponibile complessivo stabilito dagli articoli 8 e seguenti e 28 del R. decreto 3 maggio 1920, n. 545, e' elevato a L. 15,000, agli effetti della concessione del contributo dello Stato di cui all'art. 1 del Regio decreto-legge 27 settembre 1923, n. 2309".
 
-## TITOLO II. - Unione edilizia nazionale.
+### TITOLO II. - Unione edilizia nazionale.
 
 ###### Art. 336
 
@@ -4710,9 +4714,9 @@ Provvede inoltre:
 
 2° per conto del Comune medesimo e avvalendosi dell'opera dell'ufficio del piano regolatore, alla compilazione del piano della zona industriale di quella citta', alle espropriazioni, alla sistemazione ed alle concessioni o vendite dei terreni compresi in detta zona, a termini dell'art. 153.
 
-## Capo I. - Gestione propria dell'Unione edilizia nazionale sede di Messina.
+#### Capo I. - Gestione propria dell'Unione edilizia nazionale sede di Messina.
 
-### Sezione I. - Patrimonio.
+##### Sezione I. - Patrimonio.
 
 ###### Art. 337
 
@@ -4842,7 +4846,7 @@ Art. 12 R. decreto 18 giugno 1914, n. 700 - Decreto Luogotenenziale 4 febbraio 1
 
 Al passaggio dei beni all'Unione edilizia nazionale - sede di Messina - non e' applicabile l'art. 1969, n. 1, del Codice civile.
 
-## Sezione II. - Diritti dei proprietari.
+##### Sezione II. - Diritti dei proprietari.
 
 ###### Art. 347
 
@@ -5032,9 +5036,9 @@ Qualora l'Unione intenda contrarre mutui ipotecari sulle case costruite, ricostr
 
 Le somme mutuate debbono essere versate al conto corrente stabilito dall'art. 360 ed erogate esclusivamente in ricostruzioni, riparazioni, o nuove costruzioni.
 
-## Capo II. - Azienda separata dell'Unione edilizia nazionale
+#### Capo II. - Azienda separata dell'Unione edilizia nazionale Sede di Messina
 
-### Sede di Messina - Sezione 1ª - Patrimonio amministrato.
+##### Sezione 1ª - Patrimonio amministrato.
 
 ###### Art. 363
 
@@ -5088,7 +5092,7 @@ I canoni per l'uso delle baracche degli impiegati delle Amministrazioni pubblich
 
 E' fatta eccezione per il prodotto dei canoni delle baracche donate da Governi esteri e da Comitati, per i quali e' osservato il disposto dell'art. 88, comma 2°.
 
-## Sezione III. - Case economiche e case per impiegati.
+##### Sezione III. - Case economiche e case per impiegati.
 
 ###### Art. 367
 
@@ -5120,7 +5124,7 @@ L'unione edilizia nazionale e' autorizzata a contrarre mutui ipotecari estinguib
 
 Nei limiti delle annualita' costituite, risultanti dalle rendite nette debitamente accertate negli ultimi due conti, l'Unione edilizia nazionale puo' anche fare operazioni di credito con la Cassa depositi e prestiti per sviluppare ed intensificare il proprio programma di costruzione di case economiche, a condizione che il mutuo stesso sia assunto e garantito dai Comune a termini di legge, salvo al Comune il diritto di rivalsa. A tali mutui sono applicabili le norme dell'art. 24 del testo unico 27 febbraio 1908, n. 89.
 
-## Capo III. - Gestione della zona industriale.
+#### Capo III. - Gestione della zona industriale.
 
 ###### Art. 370
 
@@ -5142,9 +5146,9 @@ In caso di inadempienza i concessionari decadono dalla concessione.
 
 Qualora non sia possibile trasformare in tutto o in parte l'edificio, l'Unione puo' consentire che la concessione rimanga in vigore fino alla sua scadenza, purche' il concessionario paghi un congruo canone suppletivo. In tal caso pero' il concessionario, malgrado qualsiasi patto preesistente in contrario, non avra' diritto a rinnovazione e perdera' il diritto di acquisto del terreno.
 
-## Capo IV. - Disposizioni generali.
+#### Capo IV. - Disposizioni generali.
 
-### Sezione I - Bilanci e conti.
+##### Sezione I - Bilanci e conti.
 
 ###### Art. 372
 
@@ -5196,7 +5200,7 @@ Art. 11 Regio decreto 13 aprile 1915, n. 572.
 
 Contro le decisioni sui conti e' ammesso il ricorso alla Corte dei Conti. I membri del Consiglio d'amministrazione ed i funzionari dell'ente sono sottoposti alla giurisdizione della Corte dei conti nei casi previsti dall'art. 64 (testo unico) sulla contabilita' generale dello Stato 17 febbraio 1884, n. 2016.
 
-## Sezione II - Amministrazione.
+##### Sezione II - Amministrazione.
 
 ###### Art. 377
 
@@ -5238,7 +5242,7 @@ A decorrere dal 1° luglio 1917, e per un quinquennio, lo Stato versera', a tito
 
 Con decreto del ministro del tesoro sara' inscritta nello stato di previsione della spesa del Ministero del tesoro pel 1917-918 la rata che verra' stabilita per quell'esercizio finanziario.
 
-## Sezione III. - Agevolazioni tributarie.
+##### Sezione III. - Agevolazioni tributarie.
 
 ###### Art. 380
 
@@ -5292,7 +5296,7 @@ Art. 352 testo unico - Arte 11 R. decreto 18 giugno 1914, n. 700. (Decreti prefe
 
 Ai decreti prefettizi di cui all'art. 344 sono applicabili tutte le disposizioni dell'art. 184.
 
-## Sezione IV. - Disposizioni varie.
+##### Sezione IV. - Disposizioni varie.
 
 ###### Art. 385
 
@@ -5402,7 +5406,7 @@ Art. 354 testo unico. - Decreto Luogotenenziale 4 febbraio 1917, n. 151.
 
 con decreto del ministro dei lavori pubblici, l'Unione edilizia nazionale potra' essere autorizzata ad estendere la sua azione, ai termini del presente titolo, anche nei comuni colpiti dal terremoto del 1908 ed anche nei paesi danneggiati da altri disastri tellurici e dalla guerra, per l'attuazione dei provvedimenti che siano stabiliti da leggi speciali.
 
-## TITOLO III. - Ente edilizio di Reggio Calabria.
+### TITOLO III. - Ente edilizio di Reggio Calabria.
 
 ###### Art. 395
 
@@ -5558,9 +5562,9 @@ Articoli 20, 21, 22, 23, 24, 25, 26, 27, 28, 29 e 43 del decreto Regio 18 giugno
 
 Sono applicabili all'ente edilizio le disposizioni degli articoli 363 ultimo comma, 365, 367, 375, 376, 383, 387, 388, 390, 391 e 392.
 
-## TITOLO IV. - Agevolazioni fiscali e tributarie.
+### TITOLO IV. - Agevolazioni fiscali e tributarie.
 
-### Capo I. - Imposte e sovrimposte sui terreni e sui fabbricati.
+#### Capo I. - Imposte e sovrimposte sui terreni e sui fabbricati.
 
 ###### Art. 404
 
@@ -5588,7 +5592,7 @@ Art. 357 testo unico.
 
 in tutti i Comuni di cui alla tabella n. 2 allegata al presente testo unico, il termine di 10 anni per fruire delle esenzioni decennali dalle imposte di cui agli articoli 3 e 4 della legge 15 luglio 1906, n. 383, e' prorogato di anni quattro. S'intendono compresi nei benefici di cui alla suddetta legge gli opifici ricostruiti in seguito al terremoto del 28 dicembre 1908 senza pregiudizio dell'applicazione dell'articolo precedente.
 
-## Capo II. - Dazi di consumo, provvedimenti doganali e diritti marittimi.
+#### Capo II. - Dazi di consumo, provvedimenti doganali e diritti marittimi.
 
 ###### Art. 407
 
@@ -5658,7 +5662,7 @@ AGGIORNAMENTO (49)
 
 Il Regio D.L. 21 gennaio 1935, n. 82, convertito senza modificazioni dalla L. 13 giugno 1935, n. 1146, ha disposto (con l'art. 1, comma 1) che "Il termine di cui all'art. 411 del testo unico delle leggi emanate in conseguenza del terremoto del 28 dicembre 1908, approvato con decreto-legge Luogotenenziale 19 agosto 1917, n. 1399, convertito nella legge 17 aprile 1925, n. 473, gia' prorogato al 20 luglio 1935, in conformita' del R. decreto-legge 28 luglio 1925, n. 1549, convertito nella legge 18 marzo 1926, n. 562, e' ulteriormente prorogato di cinque anni".
 
-## Capo III. - Altre imposte e tasse.
+#### Capo III. - Altre imposte e tasse.
 
 ###### Art. 412
 
@@ -5870,7 +5874,7 @@ c) dei materiali occorrenti per la costruzione degli Istituti per il ricovero e 
 
 I viaggi dei minorenni e delle persone sovraccennate hanno luogo in base a richieste rilasciate dai prefetti del Regno su domanda dell'Opera nazionale di patronato «Regina Elena» o di uno dei Sottocomitati dell'Opera stessa.
 
-## CAPO II. - Accertamento dei decessi.
+#### CAPO II. - Accertamento dei decessi.
 
 ###### Art. 432
 
@@ -5956,7 +5960,7 @@ Art. 409 testo unico.
 
 Tutti gli atti contemplati nel presente capo sono esenti da tassa e spese.
 
-## Capo III. - Integrazione di atti e documenti.
+#### Capo III. - Integrazione di atti e documenti.
 
 ###### Art. 439
 
@@ -5980,7 +5984,7 @@ Il procedimento e' esente da ogni tassa di bollo e da qualsiasi diritto fiscale.
 
 Le spese della perizia sono a carico della parte che ne fa istanza.
 
-## Capo IV. - Accessione d'immobili.
+#### Capo IV. - Accessione d'immobili.
 
 ###### Art. 441
 
@@ -5994,9 +5998,9 @@ In mancanza di accordo sul prezzo dell'edificio o sull'indennizzo per il suolo, 
 
 A tale magistratura sono inoltre devolute tutte le controversie che abbiano origine dall'applicazione del presente articolo.
 
-## TITOLO II. - Disposizioni di diritto commerciale.
+### TITOLO II. - Disposizioni di diritto commerciale.
 
-### Capo I. - Duplicati di titoli.
+#### Capo I. - Duplicati di titoli.
 
 ###### Art. 442
 
@@ -6048,7 +6052,7 @@ In caso di perdita di polizze di assicurazione sulla vita, gli interessati posso
 
 Tutti gli atti occorrenti per conseguire il duplicato della polizza sono esenti da ogni tassa di bollo e le pubblicazioni nel giornale degli annunzi giudiziari della Provincia sono fatte senza spesa.
 
-## Capo II. - Assicurazioni.
+#### Capo II. - Assicurazioni.
 
 ###### Art. 447
 
@@ -6150,7 +6154,7 @@ Trascorsi tre anni dal giorno del deposito delle somme assicurate presso la Cass
 
 Con apposita legge saranno stabilite le norme per l'assegnazione delle somme predette non pagate ad eredi od aventi diritto e prescritte per effetto della disposizione della prima parte del presente articolo.
 
-## Capo III. - Istituti di credito fondiario.
+#### Capo III. - Istituti di credito fondiario.
 
 ###### Art. 457
 
@@ -6166,11 +6170,11 @@ Tali debiti sono ripartiti, col carico dei relativi interessi, in tante rate qua
 
 Le ipoteche esistenti a favore degli Istituti fondiari garentiscono con l'efficacia dell'attuale loro grado, anche il debito di cui la riscossione e' sospesa, e relativi accessori.
 
-## TITOLO III. - Magistrature speciali.
+### TITOLO III. - Magistrature speciali.
 
-### Capo I. - Attribuzioni di possesso.
+#### Capo I. - Attribuzioni di possesso.
 
-#### Sezione I. - Istituzione delle Commissioni.
+##### Sezione I. - Istituzione delle Commissioni.
 
 ###### Art. 458
 
@@ -6202,7 +6206,9 @@ Le decisioni relative al possesso di beni immobili sono deliberate in collegio d
 
 Le distribuzioni del servizio fra i commissari, e la formazione dei collegi sono regolate dai presidenti delle Commissioni. I presidenti possono anche ordinare che le decisioni relative al possesso di beni mobili siano, per ragioni del loro valore o per altre ragioni, deliberate collegialmente.
 
-## Sezione II - Beni mobili. - § 1 - Ricupero ed assegnazione in possesso.
+##### Sezione II - Beni mobili.
+
+**§ 1 - Ricupero ed assegnazione in possesso.**
 
 ###### Art. 461
 
@@ -6374,7 +6380,7 @@ Quando, entro il 21 luglio 1915, non sia stato riconosciuto o attribuito, sulla 
 
 Quando, entro il 21 luglio 1920, non sia stato riconosciuto o attribuito sulla base delle medesime presunzioni, un titolare ai depositi suddetti e ai pegni esistenti presso le Casse di risparmio e i Monti di pieta' aventi la sede principale o una succursale nei luoghi colpiti dal disastro, le somme depositate e i sopravanzi di vendite dei pegni sono devoluti alla stessa Opera nazionale di patronato.
 
-## Sezione III. - Beni immobili.
+##### Sezione III. - Beni immobili.
 
 ###### Art. 478
 
@@ -6432,7 +6438,7 @@ Art. 467 testo unico.
 
 I decreti che venissero emessi in difformita' alle risultanze dei ripetuti elenchi possono, a mente dell'art. 486, essere in ogni tempo revocati, anche su ricorso dell'Istituto mutuante, quante volte questi possa giustificare nei suoi mutuatari o prestatori di garanzia un diritto al possesso maggiore e piu' certo di quello gia' riconosciuto a favore di terzi.
 
-## Sezione IV. - Norme per il funzionamento delle Commissioni.
+##### Sezione IV. - Norme per il funzionamento delle Commissioni.
 
 ###### Art. 483
 
@@ -6540,7 +6546,7 @@ Art. 476 testo unico.
 
 Le disposizioni del presente capo sono estese, in quanto applicabili, al procedimento per l'attribuzione e il ricupero dei beni di competenza del pretore.
 
-## Capo II. - Controversie relative ad immobili danneggiati o distrutti.
+#### Capo II. - Controversie relative ad immobili danneggiati o distrutti.
 
 ###### Art. 492
 
@@ -6636,7 +6642,7 @@ Ferme restando le norme in vigore per il gratuito patrocinio tutti gli atti del 
 
 Con RR. decreti sara' stabilito quant'altro occorra per il funzionamento dei collegi, e sara' fissato il giorno in cui cesseranno di funzionare.
 
-## TITOLO III. - Iscrizioni e trascrizioni ipotecarie.
+### TITOLO III. - Iscrizioni e trascrizioni ipotecarie.
 
 ###### Art. 500
 
@@ -6688,9 +6694,9 @@ Art. 6 decreto Luogotenenziale 15 febbraio 1917, n. 324.
 
 Le disposizioni del Codice civile, relativamente alle persone cui incombe l'obbligo di eseguire le iscrizioni delle ipoteche, sono applicabili alle stesse persone, eccettuati i cancellieri ed i notai, anche per la riproduzione stabilita dai precedenti articoli.
 
-## TITOLO IV. - Pubblica istruzione.
+### TITOLO IV. - Pubblica istruzione.
 
-### Capo I. - Tasse scolastiche.
+#### Capo I. - Tasse scolastiche.
 
 ###### Art. 506
 
@@ -6732,7 +6738,7 @@ Art. 503 testo unico.
 
 La deliberazione per l'esonero dalle tasse scolastiche a favore degli orfani sottoposti alla tutela dell'Opera nazionale di patronato «Regina Elena» puo' essere presa dalle autorita' competenti in seguito a regolare istanza presentata dal Comitato centrale dell'Opera stessa o dai sottocomitati locali, di cui all'art. 419 del presente testo unico.
 
-## Capo II. - Personale.
+#### Capo II. - Personale.
 
 ###### Art. 511
 
@@ -6788,7 +6794,7 @@ Art. 509 testo unico.
 
 il Governo del Re ha facolta' di accordare il trasferimento ad altre Universita' delle libere docenze concesse per l'Universita' di Messina, senza che occorra sentire il parere della competente Facolta' o scuola.
 
-## TITOLO V. - Ordinamento amministrativo.
+### TITOLO V. - Ordinamento amministrativo.
 
 ###### Art. 517
 
@@ -6834,7 +6840,7 @@ Art. 515 testo unico.
 
 I provvedimenti sono adottati per decreto Reale, su proposta del ministro dell'interno, uditi i pareri del Consiglio superiore dei lavori pubblici e del Consiglio di Stato.
 
-## TITOLO VI. - Disposizioni per le pensioni.
+### TITOLO VI. - Disposizioni per le pensioni.
 
 ###### Art. 522
 

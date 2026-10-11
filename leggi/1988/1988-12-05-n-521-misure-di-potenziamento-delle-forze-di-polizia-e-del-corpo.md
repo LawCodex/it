@@ -30,11 +30,9 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I - MISURE DI POTENZIAMENTO
+## CAPO I - MISURE DI POTENZIAMENTO E AMMODERNAMENTO DELLE FORZE DI POLIZIA
 
-### E AMMODERNAMENTO - DELLE FORZE DI POLIZIA
-
-##### ART. 1 - Piano di potenziamento e ammodernamento delle forze di polizia per il quinquennio 1988-1992
+### ART. 1 - Piano di potenziamento e ammodernamento delle forze di polizia per il quinquennio 1988-1992
 
 1\. Il Ministro dell'interno e' autorizzato ad attuare un piano di interventi straordinari per il quinquennio 1988-1992, con particolare riguardo alle regioni Campania, Calabria e Sicilia, per la realizzazione di opere e di infrastrutture, anche con l'acquisto di immobili, nonche' per la realizzazione di mezzi tecnici e logistici, comprese le attrezzature di sicurezza, allo scopo di potenziare ed ammodernare le strutture e le dotazioni della polizia di Stato, dell'Arma dei carabinieri, del Corpo della guardia di finanza, del Corpo degli agenti di custodia e del Corpo forestale dello Stato, nel quadro del coordinamento e della pianificazione previsti dall'articolo 6 della legge 1 aprile 1981, n. 121.
 
@@ -50,7 +48,7 @@ Ulteriori autorizzazioni di spesa per la completa realizzazione del piano sono d
 
 6\. Agli stanziamenti autorizzati con il presente articolo si applicano le disposizioni di cui all'articolo 36 del regio decreto 18 novembre 1923, n. 2440 e successive modificazioni.
 
-##### ART. 2 - Acquisizione di aree e di immobili
+### ART. 2 - Acquisizione di aree e di immobili
 
 1\. Per le realizzazioni immobiliari indicate nel programma di cui all'articolo 1 possono essere utilizzate anche aree od immobili di proprieta' dello Stato, ovvero di proprieta' dei comuni interessati o dei privati, acquisiti anche mediante permuta.
 
@@ -62,7 +60,7 @@ Ulteriori autorizzazioni di spesa per la completa realizzazione del piano sono d
 
 > Il R.D.L. n. 2000/1923 concerne: "Norme per la permuta di immobili demaniali adibiti ad uso di pubblici uffici".
 
-##### ART. 3
+### ART. 3
 
 (Commissione per la pianificazione
 
@@ -100,7 +98,7 @@ i) dal direttore dell'ufficio per il coordinamento e la pianificazione, di cui a
 
 > Per il testo dell'art. 6 della legge n. 121/1981 si veda nelle note all'art. 1.
 
-##### ART. 4 - Disposizioni in deroga
+### ART. 4 - Disposizioni in deroga
 
 1\. Per l'attuazione del piano di cui all'articolo 1 il Ministro dell'interno e' autorizzato ad avvalersi di enti e di imprese, eventualmente in deroga al disposto degli articoli 107 e 113 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con decreto del Presidente della Repubblica 6 marzo 1978, n. 218, come modificato dalla legge 1 marzo 1986, n. 64, che abbiamo particolare competenza e idonei mezzi tecnici.
 
@@ -182,13 +180,13 @@ i) dal direttore dell'ufficio per il coordinamento e la pianificazione, di cui a
 
 > g) quando la fornitura richieda misure speciali di sicurezza e di segretezza in conformita' di disposizioni legislative, regolamentari e amministrative vigenti, o quando lo esiga la protezione degli interessi essenziali della sicurezza dello Stato".
 
-##### ART. 5 - Stipulazione dei contratti e delle convenzioni
+### ART. 5 - Stipulazione dei contratti e delle convenzioni
 
 1\. I contratti e le convenzioni relativi ad esecuzione di lavori, a provviste e forniture inerenti all'attuazione del piano di cui all'articolo 1, esclusi quelli relativi ad acquisto di immobili, sono stipulati dal capo della polizia - direttore generale della pubblica sicurezza, o da un suo delegato, per l'amministrazione della pubblica sicurezza; dal comandante generale dell'Arma dei carabinieri, o da un suo delegato, per quelli dell'Arma stessa; dal comandate generale della guardia di finanza o da un suo delegato, per quelli di detto Corpo; dal direttore generale degli istituti di prevenzione e di pena, o da un suo delegato, per quelli riguardanti il Corpo degli agenti di custodia, e dal direttore generale per l'economia montana e per le foreste o da un suo delegato, per quelli riguardanti il Corpo forestale dello Stato.
 
 2\. Detti contratti e convenzioni sono aprrovati con decreto del Ministro dell'interno.
 
-##### ART. 6 - Poligoni di tiro
+### ART. 6 - Poligoni di tiro
 
 1\. Le disposizioni di cui alla legge 6 agosto 1967, n. 765, e alla legge 28 gennaio 1977, n. 10, come modificata dall'articolo 20 della legge 28 febbraio 1985, n. 47, non si applicano per la costruzione di poligoni di tiro previsti dai piani di cui all'articolo 1, purche' i poligoni stessi siano costruiti nell'ambito di edifici adibiti a caserme appartenenti al demanio militare o civile o, comunque, in uso all'amministrazione della pubblica sicurezza, all'Arma dei carabinieri, al Corpo della guardia di finanza, al Corpo degli agenti di custodia o al Corpo forestale dello Stato indicati nell'articolo 1.
 
@@ -212,7 +210,7 @@ i) dal direttore dell'ufficio per il coordinamento e la pianificazione, di cui a
 
 > Le disposizioni di cui al comma precedente sostituiscono quelle di cui all'art. 17 della legge 28 gennaio 1977, n. 10".
 
-##### ART. 7
+### ART. 7
 
 (Relazione al parlamento del Ministro
 
@@ -220,23 +218,19 @@ dell'interno).
 
 1\. Il Ministro dell'interno riferisce al Parlamento entro il 31 marzo di ciascun anno sullo sviluppo attuattivo del piano di cui all'articolo 1.
 
-##### ART. 8 - Disposizioni finanziarie
+### ART. 8 - Disposizioni finanziarie
 
 1\. All'onere di lire 60 miliardi per l'anno 1988 e di lire 30 miliardi per l'anno 1989 derivante dall'attuazione del capo I della presente legge si provvede mediante riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1988-1990, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1988, all'uopo utilizzando quota parte dello specifico accantonamento "Misure di potenziamento delle forze di polizia e del Corpo nazionale dei vigili del fuoco".
 
 2\. Il ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-## CAPO II - AUMENTO DELL'ORGANICO E PROGRAMMA DI COSTRUZIONE,
+## CAPO II - AUMENTO DELL'ORGANICO E PROGRAMMA DI COSTRUZIONE, AMPLIAMENTO E RISTRUTTURAZIONE DELLE SEDI DI SERVIZIO E DELLE INFRASTRUTTURE DEL CORPO NAZIONALE DEI VIGILI DEL FUOCO
 
-### AMPLIAMENTO E RISTRUTTURAZIONE DELLE SEDI - DI SERVIZIO E DELLE INFRASTRUTTURE DEL CORPO
-
-#### NAZIONALE DEI VIGILI DEL FUOCO
-
-##### Art. 9
+### Art. 9
 
 (( ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139 ))
 
-##### ART. 10
+### ART. 10
 
 (Sostituzione dell'articolo 10 della legge
 
@@ -246,7 +240,7 @@ dell'interno).
 
 "ART. 10. 1. Per sopperire alle esigenze degli organi centrali o periferici del Corpo nazionale dei vigili del fuoco sono istituiti appositi ruoli di supporto tecnico e di supporto amministrativo".
 
-##### ART. 11
+### ART. 11
 
 (Modifiche ai requisiti richiesti per l'accesso alla carriera
 
@@ -360,7 +354,7 @@ dei vigili del fuoco).
 
 > \- La legge n. 482/1968 reca norme concernenti la disciplina generale delle assunzioni obbligatorie presso le pubbliche amministrazioni e le aziende private.
 
-##### ART. 12
+### ART. 12
 
 (Accertamento della permanenza
 
@@ -390,7 +384,7 @@ del requisito dell'idoneita' psicofisica).
 
 > La decadenza di cui alle lettere c) e d) e' disposta sentito il consiglio di amministrazione".
 
-##### ART. 13 - Titoli per l'esercizio delle attivita' di volo
+### ART. 13 - Titoli per l'esercizio delle attivita' di volo
 
 1\. Il ((capo del Corpo nazionale dei vigili del fuoco)) rilascia i titoli per l'esercizio delle attivita' di volo del personale del Corpo nazionale dei vigili del fuoco.
 
@@ -408,7 +402,7 @@ b-ter) brevetto di specialista di aereo;
 
 4\. Con decreto del capo del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile sono inoltre stabilite le modalita' di svolgimento dei corsi e degli esami, i requisiti per le abilitazioni sui vari tipi di aeromobili e per le qualificazioni professionali nonche' le conseguenti annotazioni sui titoli.
 
-##### ART. 14 - Procedure concorsuali
+### ART. 14 - Procedure concorsuali
 
 1\. Per l'accesso alle diverse carriere del Corpo nazionale dei vigili del fuoco sono banditi concorsi pubblici per il conseguimento della idoneita' all'assunzione che dara' titolo alle nomine secondo l'ordine della graduatoria.
 
@@ -432,31 +426,31 @@ b-ter) brevetto di specialista di aereo;
 
 11\. Con decreto del Ministro dell'interno, d'intesa con le organizzazioni sindacali di categoria maggiormante rappresentative, sono stabilite le modalita' di espletamento dei concorsi di assunzione nei ruoli del Corpo nazionale dei vigili del fuoco, i requisiti speciali richiesti per la partecipazione nonche' le materie oggetto delle prove di esame.
 
-##### Art. 15
+### Art. 15
 
 (( ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139 ))
 
-##### Art. 16
+### Art. 16
 
 (( ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139 ))
 
-##### Art. 17
+### Art. 17
 
 (( ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139 ))
 
-##### Art. 18
+### Art. 18
 
 (( ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139 ))
 
-##### Art. 19
+### Art. 19
 
 (( ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139 ))
 
-##### Art. 20
+### Art. 20
 
 (( ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139 ))
 
-##### ART. 21
+### ART. 21
 
 (Disposizioni a favore degli orfani e delle vedove del
 
@@ -504,21 +498,21 @@ personale deceduto per causa di servizio).
 
 > \- Per l'art. 14 del D.P.R. n. 210/1984 vedi nelle note all'art. 20.
 
-##### Art. 22
+### Art. 22
 
 (( ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139 ))
 
-##### ART. 23 - Accertamenti sanitari di natura specialistica
+### ART. 23 - Accertamenti sanitari di natura specialistica
 
 1\. In relazione a particolari situazioni che richiedono accertamenti sanitari di natura specialistica, si puo' far ricorso a medici specialisti in discipline scientifiche diverse, estranei all'amministrazione.
 
 2\. I compensi per i membri delle commissioni cui partecipano i medici di cui al comma 1 sono determinati con decreto del Ministro dell'interno, di concerto con il Ministro del tesoro.
 
-##### Art. 24
+### Art. 24
 
 (( ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139 ))
 
-##### ART. 25
+### ART. 25
 
 (Conferimento delle qualifiche di primo dirigente
 
@@ -554,45 +548,45 @@ e di dirigente superiore).
 
 > (4) Ogni scrutinato ha diritto di prendere visione o di ottenere, a proprie spese, copia dei criteri di valutazione dei titoli, nonche' del verbale della seduta del consiglio, del quaderno di scrutinio, della propria scheda personale e di quelle dei promossi".
 
-##### Art. 26
+### Art. 26
 
 (( ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139 ))
 
-##### Art. 27
+### Art. 27
 
 (( ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139 ))
 
-##### Art. 28
+### Art. 28
 
 (( ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139 ))
 
-##### Art. 29
+### Art. 29
 
 (( ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139 ))
 
-##### Art. 30
+### Art. 30
 
 (( ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139 ))
 
-##### ART. 31 - Personale di leva
+### ART. 31 - Personale di leva
 
 1\. Su richiesta del Ministro dell'interno, il personale del Corpo nazionale dei vigili del fuoco che abbia obblighi di servizio militare di leva, o che stia assolvendo i medesimi, viene lasciato a disposizione delle scuole centrali antincendi per frequentare il prescritto corso di formazione professionale.
 
 2\. Al termine del corso il personale medesimo assolvera' o completera' il servizio militare di leva.
 
-##### Art. 32
+### Art. 32
 
 (( ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139 ))
 
-##### Art. 33
+### Art. 33
 
 (( ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139 ))
 
-##### Art. 34
+### Art. 34
 
 (( ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139 ))
 
-##### Art. 35
+### Art. 35
 
 Disciplina per il personale volontario
 
@@ -626,13 +620,13 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 8 marzo 2006, n. 139 ha disposto (con l'art. 35, comma 1, lettera pp)) che il presente articolo e' mantenuto in vigore fino alla emanazione del regolamento di cui all'art. 11 dello stesso D.Lgs. 139/2006.
 
-##### ART. 36 - Disposizioni finanziarie
+### ART. 36 - Disposizioni finanziarie
 
 1\. All'onere derivante dall'attuazione degli articoli dal 9 al 26 del capo II, valutato in lire 19.600 milioni per l'anno 1989, in lire 49.000 milioni per l'anno 1990 e in lire 79.800 milioni per l'anno 1991, ivi comprese le spese per acquisto di beni e servizi pari, rispettivamente, a lire 2.800 milioni per l'anno 1989, a lire 5.200 milioni per l'anno 1990 e a lire 6.500 milioni per l'anno 1991, e a quello derivante dalla realizzazione del programma di cui all'articolo 27 dello stesso capo II, pari a lire 400 milioni per l'anno 1989, lire 11.000 milioni per l'anno 1990 e lire 200 milioni per l'anno 1991, si provvede mediante riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1989-1991, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1989, all'uopo utilizzando quota parte dello specifico accantonamento "Misure di potenziamento delle forze di polizia e del Corpo nazionale dei vigili del fuoco".
 
 2\. Il Ministro del tesoro e' autorizzato ad apportare, con i propri decreti, le occorrenti variazioni di bilancio.
 
-##### ART. 37 - Entrata in vigore
+### ART. 37 - Entrata in vigore
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -648,13 +642,9 @@ GAVA, Ministro dell'interno
 
 Visto, il Guardasigilli: VASSALLI
 
-## CAPO II - AUMENTO DELL'ORGANICO E PROGRAMMA DI COSTRUZIONE,
+## CAPO II - AUMENTO DELL'ORGANICO E PROGRAMMA DI COSTRUZIONE, AMPLIAMENTO E RISTRUTTURAZIONE DELLE SEDI DI SERVIZIO E DELLE INFRASTRUTTURE DEL CORPO NAZIONALE DEI VIGILI DEL FUOCO
 
-### AMPLIAMENTO E RISTRUTTURAZIONE DELLE SEDI - DI SERVIZIO E DELLE INFRASTRUTTURE DEL CORPO
-
-#### NAZIONALE DEI VIGILI DEL FUOCO
-
-##### Tabella A
+### Tabella A
 
 TABELLA A (Articolo 9)
 

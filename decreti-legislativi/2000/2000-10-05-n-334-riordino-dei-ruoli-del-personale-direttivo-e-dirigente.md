@@ -48,7 +48,7 @@ il seguente decreto legislativo:
 
 ### Capo I - Carriera dei funzionari di Polizia
 
-##### Art. 1
+#### Art. 1
 
 (( (Articolazione della carriera dei funzionari di Polizia).))
 
@@ -82,7 +82,7 @@ Il D.Lgs. 29 maggio 2017, n. 95 ha disposto (con l'art. 2, comma 1, lettera v)) 
 
 v) al 1° gennaio del 2018, il personale appartenente alla medesima data al ruolo dei commissari e dei dirigenti di cui all'articolo 1 del decreto legislativo 5 ottobre 2000, n. 334, nel testo vigente il giorno precedente alla data di entrata in vigore del presente decreto, transita nella carriera dei funzionari di cui all'articolo 1 del medesimo decreto legislativo, come modificato dal presente decreto, mantenendo l'anzianita' posseduta e l'ordine di ruolo alla medesima data e assumendo la corrispondente qualifica del nuovo ruolo, fermo restando quanto previsto alle lettere z) e aa)".
 
-##### Art. 2 - Funzioni
+#### Art. 2 - Funzioni
 
 1\. Il personale della carriera dei funzionari di Polizia, di cui all'articolo 1, esercita, in relazione alla specifica qualificazione professionale, le funzioni inerenti ai compiti istituzionali dell'Amministrazione della pubblica sicurezza implicanti autonoma responsabilita' decisionale e rilevante professionalita' e quelle allo stesso personale attribuite dalle disposizioni vigenti, nonche' la direzione di uffici o reparti, di cui alla struttura organizzativa delle articolazioni centrali e periferiche dell'Amministrazione della pubblica sicurezza, prevista in attuazione dell'articolo 6 della legge 31 marzo 2000, n. 78, con le connesse responsabilita' per le direttive e le istruzioni impartite e per i risultati conseguiti.
 
@@ -112,7 +112,7 @@ Il D.Lgs. 29 maggio 2017, n. 95 ha disposto (con l'art. 2, comma 1, lettera gg))
 
 gg) con decorrenza 1° gennaio 2018, il personale con la qualifica di primo dirigente, dirigente superiore e dirigente generale di pubblica sicurezza, accede alle funzioni di cui all'articolo 2 del decreto legislativo 5 ottobre 2000, n. 334, e alla tabella A allegata al decreto del Presidente della Repubblica 24 aprile 1982, n. 335, come modificata dalla tabella 1 allegata al presente decreto".
 
-##### Art. 2-bis
+#### Art. 2-bis
 
 Accesso alla carriera dei funzionari di Polizia
 
@@ -120,7 +120,7 @@ Accesso alla carriera dei funzionari di Polizia
 
 ((1-bis. Al fine di garantire l'organico sviluppo della progressione del personale della carriera dei funzionari, il numero dei posti annualmente messi a concorso ai sensi delle lettere a) e b) del comma 1 e' determinato considerando la complessiva carenza nella dotazione organica della carriera. Sulla base degli esiti del concorso per commissario, il concorso per vice commissario e' bandito in modo che il numero complessivo dei funzionari che accedono alla carriera attraverso il concorso interno e attraverso le riserve nel concorso pubblico di cui all'articolo 3, comma 4, non superi il cinquanta per cento dei posti complessivamente messi a concorso in ciascun anno.))
 
-##### Art. 3 - Accesso alla carriera dei funzionari di Polizia mediante concorso pubblico
+#### Art. 3 - Accesso alla carriera dei funzionari di Polizia mediante concorso pubblico
 
 1\. L'accesso alla qualifica di commissario, ai sensi dell'articolo 2-bis, comma 1, lettera a), avviene mediante concorso pubblico, per titoli ed esami, al quale possono partecipare i cittadini italiani che godono ((dei diritti civili e politici e che sono in possesso della laurea magistrale o specialistica a contenuto giuridico ai sensi di quanto previsto dal comma 2.)) Il limite di eta' per la partecipazione al concorso, non superiore a trenta anni, e' stabilito dal regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127, fatte salve le deroghe di cui al predetto regolamento. Le qualita' ((...))e di condotta sono quelle previste dalle disposizioni di cui all'articolo 35, comma 6, del decreto legislativo 30 marzo 2001, n. 165. (14) (15)
 
@@ -144,7 +144,7 @@ AGGIORNAMENTO (15)
 
 Il D.Lgs. 29 maggio 2017, n. 95, come modificato dal D.Lgs. 5 ottobre 2018, n. 126, ha disposto (con l'art. 3, comma 5) che "Fino alla data di entrata in vigore dei decreti e dei regolamenti di cui agli articoli 6, comma 1, lettera b), 6, comma 7, 24-quater, comma 6, 27, comma 7, 27-bis, comma 1, lettera b), del decreto del Presidente della Repubblica 24 aprile 1982, n. 335, agli articoli 5, commi 1 e 8, 20-quater, comma 6, 25-bis, comma 1, 25-ter, comma 5, del decreto del Presidente della Repubblica 24 aprile 1982, n. 337, e agli articoli 3, commi 1, 2, 3 e 4, e 4, comma 6, 31, comma 1, e 46, comma 1, del decreto legislativo 5 ottobre 2000, n. 334, continuano ad applicarsi le disposizioni vigenti alla data di entrata in vigore del presente decreto".
 
-##### Art. 4
+#### Art. 4
 
 Corso di formazione iniziale per l'accesso alla qualifica di commissario
 
@@ -204,7 +204,7 @@ AGGIORNAMENTO (31)
 
 La L. 4 aprile 2025, n. 42, ha disposto (con l'art. 1, comma 3) che "Le disposizioni di cui ai commi 1 e 2, lettera a), si applicano in relazione ai concorsi banditi successivamente alla data di entrata in vigore della presente legge".
 
-##### Art. 5
+#### Art. 5
 
 Dimissioni dal corso di formazione iniziale
 
@@ -230,7 +230,7 @@ e) sono stati per qualsiasi motivo assenti dall'attivita' corsuale per piu' di n
 
 5\. Salvo quanto previsto dall'articolo 28 della legge 10 ottobre 1986, n. 668, i provvedimenti di dimissione e di espulsione dal corso determinano la cessazione di ogni rapporto con l'Amministrazione. I provvedimenti di espulsione costituiscono, inoltre, causa ostativa alla partecipazione ai successivi concorsi per la nomina a commissario.
 
-##### Art. 5-bis
+#### Art. 5-bis
 
 (( (Accesso alla carriera dei funzionari di Polizia mediante concorso interno). ))
 
@@ -254,7 +254,7 @@ Il D.Lgs. 29 maggio 2017, n. 95 ha disposto (con l'art. 2, comma 1, lettera u)) 
 
 u) fino all'anno 2026, per la partecipazione al concorso interno per vice commissario, di cui all'articolo 5-bis del decreto legislativo 5 ottobre 2000, n. 334, non e' richiesto il requisito dell'eta' ivi previsto".
 
-##### Art. 5-ter - Corso di formazione per l'accesso alla qualifica di vice commissario
+#### Art. 5-ter - Corso di formazione per l'accesso alla qualifica di vice commissario
 
 1\. I vincitori del concorso di cui all'articolo 5-bis frequentano un corso di formazione della durata di un anno presso la scuola superiore di polizia, preordinato anche all'acquisizione dei crediti formativi per il conseguimento di una delle lauree magistrali o specialistiche di cui all'articolo 3, comma 2, sulla base di programmi e modalita' coerenti con le norme concernenti l'autonomia didattica degli atenei. L'insegnamento e' impartito da docenti universitari, magistrati, appartenenti all'Amministrazione dello Stato o esperti estranei ad essa secondo i principi stabiliti dall'articolo 60 della legge 1° aprile 1981, n. 121.
 
@@ -270,7 +270,7 @@ u) fino all'anno 2026, per la partecipazione al concorso interno per vice commis
 
 7\. Ai frequentatori del corso di formazione si applicano le disposizioni di cui all'articolo 59, ((secondo comma)), della legge 1° aprile 1981, n. 121.
 
-##### Art. 5-quater
+#### Art. 5-quater
 
 (( (Dimissioni dal corso di formazione).))
 
@@ -286,19 +286,19 @@ d) non superano l'esame finale del corso.
 
 2\. I provvedimenti di dimissione e di espulsione dal corso determinano il rientro del personale nel ruolo e nella qualifica di provenienza. I provvedimenti di espulsione costituiscono, inoltre, causa ostativa alla partecipazione ai successivi concorsi per la nomina a vice commissario e a commissario. Si applicano le disposizioni di cui all'articolo 5, ma i periodi massimi di assenza di cui al comma 1, lettera e), e al comma 2 del predetto articolo sono ridotti della meta'. Si applicano, altresi', le disposizioni di cui al medesimo articolo 5, commi 3, 4, e, in quanto compatibili, 5.))
 
-##### Art. 5-quinquies
+#### Art. 5-quinquies
 
 (( (Promozione a commissario).))
 
 ((1. La promozione a commissario dei vice commissari di cui all'articolo 5-ter, si consegue, a ruolo aperto, mediante scrutinio per merito assoluto, al quale e' ammesso il personale con la qualifica di vice commissario che abbia compiuto due anni di effettivo servizio nella qualifica, comprensivo del periodo di corso.))
 
-##### Art. 5-sexies
+#### Art. 5-sexies
 
 (( (Promozione a commissario capo).))
 
 ((1. La promozione a commissario capo dei commissari di cui all'articolo 5-quinquies si consegue, a ruolo aperto, mediante scrutinio per merito assoluto, al quale e' ammesso il personale con la qualifica di commissario che abbia compiuto cinque anni di effettivo servizio nella qualifica)).
 
-##### Art. 6 - Promozione a vice questore aggiunto
+#### Art. 6 - Promozione a vice questore aggiunto
 
 1\. La promozione a vice questore aggiunto si consegue:
 
@@ -312,13 +312,13 @@ b) per i commissari capo che accedono alla carriera mediante concorso interno, n
 
 4\. Le modalita' di svolgimento del corso di formazione dirigenziale di cui al comma 1, lettera a) ((del presente articolo)), le modalita' di svolgimento dell'esame finale, nonche' i criteri per la formazione della graduatoria ((...)) di fine corso sono determinati con ((regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400.))
 
-##### Art. 6-bis
+#### Art. 6-bis
 
 (( (Promozione a vice questore).))
 
 ((1. La promozione a vice questore si consegue, a ruolo aperto, mediante scrutinio per merito comparativo al quale e' ammesso il personale con la qualifica di vice questore aggiunto che abbia compiuto cinque anni di effettivo servizio nella qualifica.))
 
-##### Art. 7 - Promozione a primo dirigente
+#### Art. 7 - Promozione a primo dirigente
 
 1\. La promozione alla qualifica di primo dirigente si consegue, ((nel limite dei posti disponibili al 30 giugno e al 31 dicembre)) di ogni anno, mediante scrutinio per merito comparativo al quale e' ammesso il personale con la qualifica di vice questore che abbia compiuto almeno quattro anni di effettivo servizio nella qualifica. ((, rispettivamente, entro le predette date del 30 giugno e del 31 dicembre.))
 
@@ -336,11 +336,11 @@ Il D.Lgs. 29 maggio 2017, n. 95 ha disposto (con l'art. 2, comma 1, lettera ee))
 
 ee) in deroga a quanto previsto dall'articolo 7 del decreto legislativo 5 ottobre 2000, n. 334, allo scrutinio per merito comparativo per la promozione a primo dirigente, con decorrenza dal 1° gennaio 2019 al 1° gennaio 2022, sono ammessi i vice questori con un'anzianita' di effettivo servizio nella carriera e nel ruolo dei commissari di almeno diciassette anni. Per l'ammissione al corso di formazione dirigenziale per l'accesso alla qualifica di primo dirigente, per la promozione alla medesima qualifica mediante concorso, e per la promozione alla qualifica di dirigente superiore, con decorrenza 1° gennaio 2018, in relazione ai posti disponibili al 31 dicembre 2017, si applicano le disposizioni, rispettivamente, di cui agli articoli 7, 8 e 9 del medesimo decreto legislativo, nel testo vigente il giorno precedente alla data di entrata in vigore del presente decreto, nonche' le altre disposizioni gia' vigenti per le modalita' di svolgimento dei relativi scrutini e prova concorsuale".
 
-##### Art. 8
+#### Art. 8
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-##### Art. 9
+#### Art. 9
 
 ((Promozione a dirigente superiore))
 
@@ -348,11 +348,11 @@ ee) in deroga a quanto previsto dall'articolo 7 del decreto legislativo 5 ottobr
 
 2\. Le promozioni hanno effetto ((, rispettivamente, dal 1° luglio e)) dal 1o gennaio ((successivi.))
 
-##### Art. 10
+#### Art. 10
 
 ((ARTICOLO ABROGATO DAL D.L. 27 DICEMBRE 2024, N. 202, CONVERTITO CON MODIFICAZIONI DALLA L. 21 FEBBRAIO 2025, N. 15))
 
-##### Art. 11
+#### Art. 11
 
 Nomina a dirigente generale di pubblica sicurezza
 
@@ -368,7 +368,7 @@ Nomina a dirigente generale di pubblica sicurezza
 
 6\. Le disposizioni di cui al presente articolo si applicano per le nomine da conferire a partire dal 1o gennaio 2002. Fino a tale data continuano ad applicarsi le disposizioni vigenti.
 
-##### Art. 12
+#### Art. 12
 
 Modifica all'articolo 42
 
@@ -388,7 +388,7 @@ della legge 1 aprile 1981, n. 121
 
 6\. In relazione a quanto previsto al comma 3 e ai provvedimenti da adottarsi a norma dell'articolo 20 del decreto legislativo 19 maggio 2000, n. 139, la qualifica di prefetto di cui all'articolo 2, comma 1, del decreto n. 139 del 2000, deve intendersi di rango non inferiore a livello dirigenziale B".
 
-##### Art. 13
+#### Art. 13
 
 Limiti di eta' per il collocamento a riposo d'ufficio
 
@@ -402,45 +402,45 @@ qualifiche inferiori: 60 anni.
 
 3\. La tabella B allegata al decreto del Presidente della Repubblica 24 aprile 1982, n. 335, e' sostituita dalla tabella 2 allegata al presente decreto.
 
-## Capo II - Ruolo direttivo speciale
+### Capo II - Ruolo direttivo speciale
 
 ### ((CAPO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-##### Art. 14
+#### Art. 14
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-##### Art. 15
+#### Art. 15
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-##### Art. 16
+#### Art. 16
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-##### Art. 17
+#### Art. 17
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-##### Art. 18
+#### Art. 18
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-##### Art. 19
+#### Art. 19
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-##### Art. 20
+#### Art. 20
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-##### Art. 21
+#### Art. 21
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-## Capo III - Disposizioni transitorie
+### Capo III - Disposizioni transitorie
 
-##### Art. 22
+#### Art. 22
 
 Disposizioni transitorie per
 
@@ -452,7 +452,7 @@ l'accesso al ruolo dei commissari
 
 Superato l'esame finale del corso gli stessi sono confermati nel ruolo dei commissari con la qualifica di commissario capo. ))
 
-##### Art. 22-bis
+#### Art. 22-bis
 
 Inquadramenti del personale del ruolo dei commissari
 
@@ -480,7 +480,7 @@ Il D.Lgs. 28 dicembre 2001, n. 477 ha disposto (con l'art. 11, comma 1) che " La
 
 Analogamente devono interpretarsi ed applicarsi le disposizioni corrispondenti degli articoli 37-bis, comma 2, e 53-bis, comma 2. "
 
-##### Art. 22-ter
+#### Art. 22-ter
 
 (( (Disposizioni conseguenti agli inquadramenti). ))
 
@@ -490,7 +490,7 @@ Analogamente devono interpretarsi ed applicarsi le disposizioni corrispondenti d
 
 3\. Fermo restando quanto previsto dal comma 1 dell'articolo 23, agli scrutini e ai concorsi di cui all'articolo 7, comma 1, per il conferimento dei posti che si renderanno disponibili nella qualifica di primo dirigente fino al 31 dicembre 2002 e' ammesso esclusivamente il personale che alla data di entrata in vigore del presente decreto riveste la qualifica di vice questore aggiunto, ovvero quelle di commissario capo e di commissario, sempre che, alla stessa data, sia in possesso di un'anzianita' complessiva nel ruolo non inferiore a nove anni e sei mesi. ))
 
-##### Art. 23
+#### Art. 23
 
 Disposizioni transitorie in materia di progressione in carriera del personale appartenente al ruolo dei commissari e dei dirigenti
 
@@ -506,15 +506,15 @@ Disposizioni transitorie in materia di progressione in carriera del personale ap
 
 6\. COMMA ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95.
 
-##### Art. 24
+#### Art. 24
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-##### Art. 25
+#### Art. 25
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-##### Art. 26
+#### Art. 26
 
 Disposizioni transitorie riguardanti i
 
@@ -530,7 +530,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 6 maggio 2002, n. 83, convertito con modificazioni dalla L. 2 luglio 2002, n. 133 ha disposto (con l'art. 7, comma 2-bis) che " Il comma 1 dell'articolo 26 del decreto legislativo 5 ottobre 2000, n. 334, come modificato dal comma 2 dell'articolo 4 del decreto legislativo 28 dicembre 2001, n. 477, e' da intendere nel senso che, fermo restando il principio dell'invarianza della spesa, tutti i dirigenti generali di pubblica sicurezza destinatari del predetto articolo 26 sono collocati in posizione sovrannumeraria da riassorbirsi all'atto della cessazione dal servizio per qualsiasi causa a decorrere dalla data di entrata in vigore del citato decreto legislativo n. 477 del 2001, pur se inquadrati nella qualifica di prefetto prima di tale data, anche permanendo nell'incarico ricoperto alla data di entrata in vigore del presente decreto-legge ".
 
-##### Art. 27
+#### Art. 27
 
 Collocamento a riposo del personale in servizio
 
@@ -588,13 +588,13 @@ AGGIORNAMENTO (2)
 
 Il D.Lgs. 28 dicembre 2001, n. 477 ha disposto (con l'art. 10, comma 1, lettera c)) che "all'articolo 27, comma 1, capoverso, le parole: "Anno del raggiungimento dei 65 anni di eta'" sono sostituite dalle seguenti: "Anno di collocamento a riposo per il raggiungimento del 65° anno di eta'"
 
-##### Art. 28
+#### Art. 28
 
 Disciplina del collocamento a riposo per i ruoli ad esaurimento
 
 1\. Il personale in servizio alla data di entrata in vigore del presente decreto appartenente ai ruoli ad esaurimento dei commissari e dei dirigenti conserva i limiti di eta' per il collocamento a riposo d'ufficio previsti dai precedenti ordinamenti.
 
-##### Art. 28-bis
+#### Art. 28-bis
 
 (( (Collocamento in disponibilita' a domanda). ))
 
@@ -612,7 +612,7 @@ b) abbiano compiuto sessantatre' anni di eta' se rivestono la qualifica di dirig
 
 ### Capo I - Carriera dei funzionari tecnici ((di Polizia))
 
-##### Art. 29 - Articolazione della carriera dei funzionari tecnici di Polizia
+#### Art. 29 - Articolazione della carriera dei funzionari tecnici di Polizia
 
 1\. La carriera dei funzionari tecnici di Polizia, con sviluppo dirigenziale, si distingue come segue:
 
@@ -656,7 +656,7 @@ Il D.Lgs. 29 maggio 2017, n. 95 ha disposto (con l'art. 2, comma 1, lettera ggg)
 
 ggg) al 1° gennaio del 2018, il personale appartenente alla medesima data al ruolo dei direttori e dei dirigenti tecnici di cui all'articolo 29 del decreto legislativo 5 ottobre 2000, n. 334, nel testo vigente il giorno precedente alla data di entrata in vigore del presente decreto, transita nella carriera dei funzionari tecnici di cui all'articolo 29 del medesimo decreto legislativo, come modificato dal presente decreto, mantenendo l'anzianita' posseduta e l'ordine di ruolo alla medesima data e assumendo la corrispondente qualifica del nuovo ruolo, fermo restando quanto previsto al periodo successivo e alla lettera hhh). I direttori tecnici capo, in servizio al 1° gennaio 2018, con almeno tredici anni di effettivo servizio nel ruolo dei direttori tecnici, sono promossi alla qualifica di direttore tecnico superiore, mediante scrutinio per merito assoluto, nell'ambito della dotazione organica complessiva di direttore tecnico capo e direttore tecnico superiore prevista dalla tabella A del decreto del Presidente della Repubblica 24 aprile 1982, n. 337, come modificata dalla tabella 2, di cui all'articolo 3, comma 1, del presente decreto".
 
-##### Art. 30 - Funzioni
+#### Art. 30 - Funzioni
 
 1\. Il personale della carriera dei funzionari tecnici di Polizia, in relazione alla specifica qualificazione professionale, esercita le funzioni tecnico-scientifiche inerenti ai compiti istituzionali dell'Amministrazione della pubblica sicurezza implicanti autonoma responsabilita' decisionale e rilevante professionalita' e quelle allo stesso attribuite dalle disposizioni vigenti, nonche' la direzione di uffici o reparti, con le connesse responsabilita' per le direttive e le istruzioni impartite e per i risultati conseguiti.
 
@@ -678,7 +678,7 @@ Il D.Lgs. 29 maggio 2017, n. 95 ha disposto (con l'art. 2, comma 1, lettera mmm)
 
 mmm) con decorrenza 1° gennaio 2018, il personale con la qualifica di primo dirigente tecnico, dirigente superiore tecnico e dirigente generale tecnico, accede alle funzioni di cui all'articolo 30 del decreto legislativo 5 ottobre 2000, n. 334, e alla tabella A allegata al decreto del Presidente della Repubblica 24 aprile 1982, n. 337, come modificata dalla tabella 2 allegata al presente decreto".
 
-##### Art. 31 - Accesso alla carriera dei funzionari tecnici di Polizia
+#### Art. 31 - Accesso alla carriera dei funzionari tecnici di Polizia
 
 1\. L'accesso alla qualifica iniziale della carriera dei funzionari tecnici di Polizia avviene mediante concorso pubblico, per titoli ed esami, al quale possono partecipare i cittadini italiani che godono dei diritti civili e politici e che sono in possesso dei requisiti previsti dai commi 2 e 3. Il limite di eta' per la partecipazione al concorso, non superiore a ((trentadue anni)), e' stabilito dal regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127, ferme restando le deroghe di cui al predetto regolamento. Le qualita' di condotta sono previste dalle disposizioni di cui all'articolo 35, comma 6, del decreto legislativo 30 marzo 2001, n. 165. (14) (23)
 
@@ -702,7 +702,7 @@ AGGIORNAMENTO (23)
 
 La Corte Costituzionale con sentenza 19 - 22 dicembre 2022, n. 262 (in G.U. 1ª s.s. 28/12/2022, n. 52) ha dichiarato "l'illegittimita' costituzionale dell'art. 31, comma 1, del decreto legislativo 5 ottobre 2000, n. 334 (Riordino dei ruoli del personale direttivo e dirigente della Polizia di Stato, a norma dell'articolo 5, comma 1, della legge 31 marzo 2000, n. 78), nella parte in cui prevede che il limite di eta' «non superiore a trenta anni» si applica al concorso per l'accesso al ruolo dei funzionari tecnici psicologi della Polizia di Stato".
 
-##### Art. 32
+#### Art. 32
 
 ((Corso di formazione iniziale per l'immissione nella carriera dei funzionari tecnici di Polizia.))
 
@@ -720,7 +720,7 @@ Al termine del periodo di tirocinio, la conferma nella qualifica di commissario 
 
 5\. Ai frequentatori del corso di formazione iniziale, provenienti dagli altri ruoli della Polizia di Stato, si applicano le disposizioni di cui all'articolo 59, secondo comma, della legge 1o aprile 1981, n. 121.
 
-##### Art. 33 - Promozione a direttore tecnico capo
+#### Art. 33 - Promozione a direttore tecnico capo
 
 1\. La promozione a direttore tecnico capo si consegue, nel limite dei posti disponibili ((al 30 giugno e)) al 31 dicembre di ogni anno, in ciascun ruolo, mediante scrutinio per merito comparativo e superamento del corso di formazione dirigenziale, della durata non superiore a tre mesi, con ((esame finale, ferma restando, per coloro che superano il corso, la collocazione in ruolo secondo gli esiti dello scrutinio.)) Allo scrutinio per merito comparativo e' ammesso il personale della carriera dei funzionari tecnici ((che abbia compiuto almeno sette anni di effettivo servizio nella qualifica di commissario capo tecnico)) ((, rispettivamente, entro le predette date del 30 giugno e del 31 dicembre)).
 
@@ -730,13 +730,13 @@ Al termine del periodo di tirocinio, la conferma nella qualifica di commissario 
 
 4\. Le modalita' di svolgimento del corso di formazione dirigenziale di cui al comma 1 ((del presente articolo)), le modalita' di svolgimento dell'esame finale, nonche' i criteri per la formazione della graduatoria di fine corso, sono determinati con ((regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400.))
 
-##### Art. 33-bis
+#### Art. 33-bis
 
 (( (Promozione a direttore tecnico superiore).))
 
 ((1. La promozione a direttore tecnico superiore si consegue, a ruolo aperto, mediante scrutinio per merito comparativo al quale e' ammesso il personale con la qualifica di direttore tecnico capo che abbia compiuto cinque anni di effettivo servizio nella qualifica.))
 
-##### Art. 34 - Promozione a primo dirigente tecnico
+#### Art. 34 - Promozione a primo dirigente tecnico
 
 1\. La promozione alla qualifica di primo dirigente tecnico si consegue, ((nel limite dei posti disponibili al 30 giugno e al 31 dicembre)) di ogni anno, mediante scrutinio per merito comparativo al quale e' ammesso il personale con la qualifica di direttore tecnico superiore che abbia compiuto almeno quattro anni di effettivo servizio nella qualifica.((, rispettivamente, entro le predette date del 30 giugno e del 31 dicembre.))
 
@@ -754,11 +754,11 @@ Il D.Lgs. 29 maggio 2017, n. 95 ha disposto (con l'art. 2, comma 1, lettera lll)
 
 lll) in deroga a quanto previsto dall'articolo 34 del decreto legislativo 5 ottobre 2000, n. 334, allo scrutinio per merito comparativo per la promozione a primo dirigente tecnico, con decorrenza dal 1° gennaio 2019 al 1° gennaio 2022, sono ammessi i direttori tecnici capo con un'anzianita' di effettivo servizio nella carriera e nel ruolo dei direttori tecnici di almeno diciassette anni. Per l'ammissione al corso di formazione dirigenziale per l'accesso alla qualifica di primo dirigente tecnico, per la promozione alla medesima qualifica mediante concorso, e per la promozione alla qualifica di dirigente superiore tecnico, con decorrenza 1° gennaio 2018, in relazione ai posti disponibili al 31 dicembre 2017, si applicano le disposizioni, rispettivamente, di cui agli articoli 34, 35 e 36 del medesimo decreto legislativo, nel testo vigente il giorno precedente alla data di entrata in vigore del presente decreto, nonche' le altre disposizioni gia' vigenti per le modalita' di svolgimento dei relativi scrutini e prova concorsuale".
 
-##### Art. 35
+#### Art. 35
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-##### Art. 36
+#### Art. 36
 
 Promozione ((a)) dirigente superiore tecnico
 
@@ -768,11 +768,11 @@ Promozione ((a)) dirigente superiore tecnico
 
 3\. Le promozioni hanno effetto ((, rispettivamente, dal 1° luglio e)) dal 1 gennaio ((successivi.))
 
-##### Art. 36-bis - Nomina a dirigente generale tecnico
+#### Art. 36-bis - Nomina a dirigente generale tecnico
 
 1\. La nomina a dirigente generale tecnico, di cui alla tabella A allegata al decreto del Presidente della Repubblica 24 aprile 1982, n. 337, e' disposta con le modalita' di cui all'articolo 11 ((del presente decreto legislativo)). ((PERIODO SOPPRERSSO DAL D.LGS. 27 DICEMBRE 2019, N. 172)).
 
-##### Art. 37
+#### Art. 37
 
 Norma di rinvio
 
@@ -782,9 +782,9 @@ Norma di rinvio
 
 1-ter. ((Al personale appartenente al ruolo degli psicologi della carriera dei funzionari tecnici si applicano le disposizioni di cui all'articolo 52-bis)).
 
-## Capo II - Disposizioni transitorie
+### Capo II - Disposizioni transitorie
 
-##### Art. 37-bis
+#### Art. 37-bis
 
 Inquadramenti del personale dei ruoli dei direttori tecnici
 
@@ -806,7 +806,7 @@ Il D.Lgs. 28 dicembre 2001, n. 477 ha disposto (con l'art. 11, comma 1) che " La
 
 Analogamente devono interpretarsi ed applicarsi le disposizioni corrispondenti degli articoli 37-bis, comma 2, e 53-bis, comma 2. "
 
-##### Art. 37-ter
+#### Art. 37-ter
 
 Disposizioni conseguenti agli inquadramenti
 
@@ -816,7 +816,7 @@ Disposizioni conseguenti agli inquadramenti
 
 3\. Il personale inquadrato nella qualifica di direttore tecnico principale puo' partecipare al concorso per l'accesso alla qualifica di primo dirigente, di cui all'articolo 34, comma 1, lettera b), al compimento di sette anni di effettivo servizio nel ruolo dei direttori tecnici.
 
-##### Art. 38
+#### Art. 38
 
 Disposizioni transitorie in materia di progressione in carriera
 
@@ -828,7 +828,7 @@ del personale dei ruoli dei direttori tecnici
 
 3\. Fino all'emanazione del regolamento ministeriale indicato nell'articolo 7, comma 4, il corso di formazione dirigenziale continua ad essere disciplinato dalle disposizioni vigenti alla data di entrata in vigore del presente decreto.
 
-##### Art. 39
+#### Art. 39
 
 Disposizioni transitorie per
 
@@ -842,7 +842,7 @@ Superato l'esame finale del corso gli stessi sono confermati nel ruolo dei diret
 
 1-ter. Nell'ambito del contingente complessivo di personale della Polizia di Stato da assumere in relazione alle autorizzazioni per l'anno 2001, ai sensi dell'articolo 39, comma 3, della legge 27 dicembre 1997, n. 449, e successive modificazioni, la graduatoria di merito degli idonei del primo concorso straordinario per l'accesso alle qualifiche iniziali dei ruoli dei direttori tecnici, indetto ai sensi dell'articolo 7 della legge 28 marzo 1997, n. 85, rimane efficace per la copertura dei posti disponibili in ciascun ruolo, riferiti alle dotazioni organiche indicate nella tabella 4 allegata al presente decreto, fino al raggiungimento del limite del cinquanta per cento delle vacanze complessive alla data di entrata in vigore del medesimo decreto. ))
 
-##### Art. 40
+#### Art. 40
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
@@ -862,21 +862,19 @@ nn) in sostituzione del ruolo speciale ad esaurimento dei direttori tecnici, di 
 
 2\) 40 posti riservati agli ispettori superiori tecnici del settore sanitario in possesso del titolo di studio che consente l'esercizio dell'attivita' sanitaria".
 
-##### Art. 41
+#### Art. 41
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-##### Art. 42
+#### Art. 42
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
 ## Titolo III - CARRIERE DEI MEDICI E DEI MEDICI VETERINARI ((DELLA POLIZIA DI STATO))
 
-### Capo I - Carriere dei medici e dei medici veterinari di
+### Capo I - Carriere dei medici e dei medici veterinari di Polizia
 
-#### Polizia
-
-##### Art. 43
+#### Art. 43
 
 (( (Carriere dei medici e dei medici veterinari di Polizia).))
 
@@ -922,7 +920,7 @@ Il D.Lgs. 29 maggio 2017, n. 95 ha disposto (con l'art. 2, comma 1, lettera ooo)
 
 ooo) al 1° gennaio 2018, il personale appartenente alla medesima data al ruolo professionale dei direttivi e dei dirigenti medici di cui all'articolo 43 del decreto legislativo 5 ottobre 2000, n. 334, nel testo vigente il giorno precedente alla data di entrata in vigore del presente decreto, transita nella carriera dei medici di cui all'articolo 43 del medesimo decreto legislativo, mantenendo l'anzianita' posseduta e l'ordine di ruolo alla medesima data e assumendo la corrispondente qualifica del nuovo ruolo, fermo restando quanto previsto dalle lettere ppp) e qqq)".
 
-##### Art. 44 - Attribuzioni dei medici di Polizia
+#### Art. 44 - Attribuzioni dei medici di Polizia
 
 1\. I medici di Polizia, fermo restando quanto disposto dall'articolo 6, lettera z), della legge 23 dicembre 1978, n. 833, indipendentemente dal diploma di specializzazione di cui sono in possesso, hanno le seguenti attribuzioni:
 
@@ -974,13 +972,13 @@ Il D.Lgs. 29 maggio 2017, n. 95 ha disposto (con l'art. 2, comma 1, lettera ttt)
 
 ttt) con decorrenza 1° gennaio 2018, il personale con la qualifica di primo dirigente medico, dirigente superiore medico e di dirigente generale medico accede alle funzioni di cui all'articolo 44 del decreto legislativo 5 ottobre 2000, n. 334, e alla tabella A allegata al decreto del Presidente della Repubblica 24 aprile 1982, n. 338, come modificata dalla tabella 3, di cui all'articolo 3, comma 1, allegata al presente decreto".
 
-##### Art. 45 - Attribuzioni particolari dei medici di Polizia
+#### Art. 45 - Attribuzioni particolari dei medici di Polizia
 
 1\. I medici principali collaborano con i medici di qualifica superiore e sono preposti agli uffici, determinati con decreto del capo della polizia-direttore generale della pubblica sicurezza, non riservati alle qualifiche superiori. ((Gli stessi possono essere altresi' componenti delle commissioni medico legali, di cui al decreto del Presidente della Repubblica 29 ottobre 2001, n. 461 e all'articolo 1-ter del decreto-legge 31 marzo 2005, n. 45, convertito, con modificazioni, dalla legge 31 maggio 2005, n. 89.)) 2. I medici capo e i medici superiori, quali delegati, possono presiedere commissioni medico legali.
 
 3\. Il personale a partire dalla qualifica di medico capo e' preposto agli uffici sanitari presso le articolazioni centrali e periferiche dell'Amministrazione della pubblica sicurezza nelle quali si ritenga necessaria la presenza di un medico, in relazione alla qualifica rivestita e alle funzioni rispettivamente indicate nella Tabella A allegata al decreto del Presidente della Repubblica 24 aprile 1982, n. 338, e a quelle determinate con decreto del Ministro dell'interno, di cui alla struttura organizzativa delle articolazioni periferiche dell'Amministrazione della pubblica sicurezza, previste in attuazione dell'articolo 6 della legge 31 marzo 2000, n. 78, con le connesse responsabilita' per le direttive e le istruzioni impartite e per i risultati conseguiti.
 
-##### Art. 45-bis
+#### Art. 45-bis
 
 (( (Attribuzioni dei medici veterinari di Polizia).))
 
@@ -1008,7 +1006,7 @@ l) possono essere impiegati, in relazione alle esigenze di servizio, e limitatam
 
 2\. Per le modalita' di individuazione delle funzioni dei medici principali veterinari e delle qualifiche superiori, si applica quanto previsto dall'articolo 45, rispettivamente, per i medici principali e per i medici a partire dai medici capo.))
 
-##### Art. 46 - Accesso alle carriere dei medici e dei medici veterinari di Polizia
+#### Art. 46 - Accesso alle carriere dei medici e dei medici veterinari di Polizia
 
 1\. L' accesso alla qualifica iniziale delle carriere dei medici e dei medici veterinari di Polizia avviene mediante concorso pubblico, per titoli ed esami, al quale possono partecipare i cittadini italiani che godono dei diritti ((civili e)) politici, in possesso, per la carriera dei medici, della laurea in medicina e chirurgia e del diploma di specializzazione nelle discipline individuate nei bandi di concorso e dell'abilitazione all'esercizio professionale ed iscrizione al relativo albo, e, per la carriera dei medici veterinari, della laurea in medicina veterinaria e dell'abilitazione all'esercizio professionale ed iscrizione al relativo albo nonche', per entrambe le carriere, dei requisiti previsti dal regolamento di cui al comma 2. Il limite di eta' per la partecipazione al concorso, non superiore a trentacinque anni, e' stabilito dal regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127, ferme restando le deroghe di cui al predetto regolamento. Le qualita' ((...)) di condotta sono previste dalle disposizioni di cui all'articolo 35, comma 6, del decreto legislativo
 
@@ -1034,7 +1032,7 @@ Il D.Lgs. 29 maggio 2017, n. 95 ha disposto (con l'art. 3, comma 5)
 
 che "Fino alla data di entrata in vigore dei decreti e dei regolamenti di cui agli articoli 6, comma 1, lettera b), 6, comma 7, 24-quater, comma 6, 27, comma 7, 27-bis, comma 1, lettera b), del decreto del Presidente della Repubblica 24 aprile 1982, n. 335, agli articoli 5, commi 1 e 8, 20-quater, comma 6, 25-bis, comma 1, 25-ter, comma 5, del decreto del Presidente della Repubblica 24 aprile 1982, n. 337, e agli articoli 3, commi 1, 3 e 4, e 4, comma 6, 31, comma 1, e 46, comma 1, del decreto legislativo 5 ottobre 2000, n. 334, continuano ad applicarsi le disposizioni vigenti alla data di entrata in vigore del presente decreto".
 
-##### Art. 47
+#### Art. 47
 
 ((Corso di formazione iniziale per l'immissione nelle carriere dei medici e medici veterinari di Polizia))
 
@@ -1050,7 +1048,7 @@ L'insegnamento e' impartito da docenti universitari, magistrati, appartenenti al
 
 5\. Ai frequentatori del corso di formazione iniziale, provenienti dagli altri ruoli della Polizia di Stato, si applicano le disposizioni di cui all'articolo 59, secondo comma, della legge 1 aprile 1981, n. 121.
 
-##### Art. 48 - Promozione a medico capo e a medico veterinario capo
+#### Art. 48 - Promozione a medico capo e a medico veterinario capo
 
 1\. L'accesso alla qualifica di medico capo e di medico veterinario capo avviene, nel limite dei posti disponibili ((al 30 giugno e)) al 31 dicembre di ogni anno, mediante scrutinio per merito comparativo e superamento del corso di formazione dirigenziale, della durata non superiore a tre mesi, ((con esame finale, ferma restando, per coloro che superano il corso, la collocazione in ruolo secondo gli esiti dello scrutinio.)) Allo scrutinio per merito comparativo e' ammesso il personale delle carriere dei medici e dei medici veterinari ((che abbia compiuto, rispettivamente entro le predette date del 30 giugno e del 31 dicembre, almeno due anni e sei mesi di effettivo servizio nella qualifica di medico principale e sette anni e sei mesi nella qualifica di medico veterinario principale.)).
 
@@ -1072,13 +1070,13 @@ Il D.Lgs. 29 maggio 2017, n. 95, come modificato dal D.Lgs. 27 dicembre 2019, n.
 
 qqq-bis) in deroga alle disposizioni di cui all'articolo 48 del decreto legislativo 5 ottobre 2000, n. 334, nonche' di cui al medesimo articolo nel testo vigente il giorno precedente alla data di entrata in vigore del presente decreto legislativo, i medici principali gia' frequentatori del 13° corso di formazione iniziale per medici della Polizia di Stato, ai fini della promozione alla qualifica di medico capo, accedono al medesimo scrutinio a cui sono ammessi i medici principali gia' frequentatori del 14° corso di formazione iniziale per medici della Polizia di Stato e, in caso di promozione, i primi conseguono la qualifica con decorrenza dal giorno precedente rispetto a quello previsto per i secondi".
 
-##### Art. 48-bis
+#### Art. 48-bis
 
 (( (Promozione a medico superiore e a medico veterinario superiore).))
 
 ((1. La promozione a medico superiore e a medico veterinario superiore si consegue, a ruolo aperto, mediante scrutinio per merito comparativo al quale e' ammesso il personale con la qualifica di medico capo e di medico veterinario capo che abbia compiuto cinque anni di effettivo servizio nella qualifica.))
 
-##### Art. 49 - Promozione a primo dirigente medico e a primo dirigente medico veterinario
+#### Art. 49 - Promozione a primo dirigente medico e a primo dirigente medico veterinario
 
 1\. La promozione alla qualifica di primo dirigente medico e di primo dirigente medico veterinario si consegue, ((nel limite dei posti disponibili al 30 giugno e al 31 dicembre)) di ogni anno, mediante scrutinio per merito comparativo al quale e' ammesso il personale con la qualifica di medico superiore e di medico veterinario superiore che abbia compiuto almeno quattro anni di effettivo servizio nella qualifica. ((, rispettivamente, entro le predette date del 30 giugno e del 31 dicembre.))
 
@@ -1106,11 +1104,11 @@ Il D.Lgs. 29 maggio 2017, n. 95, come modificato dal D.Lgs. 5 ottobre 2018, n. 1
 
 sss)in deroga a quanto previsto dall'articolo 49 del decreto legislativo 5 ottobre 2000, n. 334, allo scrutinio per merito comparativo per la promozione a primo dirigente medico, con decorrenza dal 1° gennaio 2019 al 1° gennaio 2022, sono ammessi i medici superiori con un'anzianita' di effettivo servizio nella carriera dei medici di almeno diciassette anni. Per l'ammissione al corso di formazione dirigenziale per l'accesso alla qualifica di primo dirigente medico, per la promozione alla medesima qualifica mediante concorso, e per la promozione alla qualifica di dirigente superiore medico, con decorrenza 1° gennaio 2018, in relazione ai posti disponibili al 31 dicembre 2017, si applicano le disposizioni, rispettivamente, di cui all'articoli 49, 50 e 51 del medesimo decreto legislativo, nel testo vigente il giorno precedente alla data di entrata in vigore del presente decreto, nonche' le altre disposizioni gia' vigenti per le modalita' di svolgimento dei relativi scrutini e prova concorsuale".
 
-##### Art. 50
+#### Art. 50
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-##### Art. 51
+#### Art. 51
 
 ((Promozione a dirigente superiore medico))
 
@@ -1120,27 +1118,27 @@ sss)in deroga a quanto previsto dall'articolo 49 del decreto legislativo 5 ottob
 
 3\. Le promozioni hanno effetto ((, rispettivamente, dal 1° luglio e)) dal 1o gennaio ((successivi.))
 
-##### Art. 52 - Aggiornamento professionale e formazione specialistica
+#### Art. 52 - Aggiornamento professionale e formazione specialistica
 
 1\. Con riferimento alle attribuzioni di cui all'articolo 44 del presente decreto, all'aggiornamento professionale dei medici della Polizia di Stato provvede ((anche)) l'Amministrazione attraverso specifici ed obbligatori percorsi formativi. Presso il Dipartimento della pubblica sicurezza e' istituito ed aggiornato un apposito elenco dei medici della Polizia di Stato che svolgono le funzioni di medico competente nell'ambito delle attivita' e dei luoghi di lavoro dell'Amministrazione. Tale elenco viene trasmesso entro il 31 dicembre di ogni anno al Ministero della salute.
 
 2\. Per le esigenze di formazione specialistica dei medici della Polizia di Stato, nell'ambito dei posti risultanti dalla programmazione di cui all'articolo 35, comma 1, del decreto legislativo 17 agosto 1999, n. 368, e' stabilita, d'intesa con l'Amministrazione, una riserva di posti complessivamente non superiore al cinque per cento.
 
-##### Art. 52-bis
+#### Art. 52-bis
 
 ((Attivita' libero-professionale dei medici e dei medici veterinari di Polizia.))
 
 1\. Ai medici e ai medici veterinari della Polizia di Stato non sono applicabili le norme relative alle incompatibilita' inerenti all'esercizio delle attivita' libero-professionali, fermo restando il divieto, per i medici, di svolgere attivita' libero-professionale, a titolo oneroso, nei confronti degli appartenenti all'Amministrazione della pubblica sicurezza e nei procedimenti medico-legali nei quali e' coinvolta, quale controparte, la stessa Amministrazione.
 
-##### Art. 53
+#### Art. 53
 
 Norma di rinvio
 
 1\. Al personale appartenente alle carriere dei medici e dei medici veterinari di Polizia si applicano le disposizioni di cui all'articolo 2, comma 3, lettera b), ultimo periodo, e quelle di cui agli articoli 13, 27, 28 e 28-bis ((...)).
 
-## Capo II - Disposizioni transitorie
+### Capo II - Disposizioni transitorie
 
-##### Art. 53-bis
+#### Art. 53-bis
 
 (Inquadramenti del personale del
 
@@ -1164,7 +1162,7 @@ Il D.Lgs. 28 dicembre 2001, n. 477 ha disposto (con l'art. 11, comma 1) che " La
 
 Analogamente devono interpretarsi ed applicarsi le disposizioni corrispondenti degli articoli 37-bis, comma 2, e 53-bis, comma 2. "
 
-##### Art. 53-ter
+#### Art. 53-ter
 
 (( (Disposizioni conseguenti agli inquadramenti). ))
 
@@ -1176,7 +1174,7 @@ consegue la promozione alla qualifica di medico capo, a ruolo aperto, mediante s
 
 3\. Fermo restando quanto previsto dal comma 1 dell'articolo 54, agli scrutini e ai concorsi di cui all'articolo 49, comma 1, per il conferimento dei posti che si renderanno disponibili nella qualifica di primo dirigente medico fino al 31 dicembre 2002, e' ammesso esclusivamente il personale che alla data di entrata in vigore del presente decreto riveste la qualifica di medico capo, ovvero quelle di medico principale e di medico, sempre che, alla stessa data, sia in possesso di un'anzianita' complessiva nel ruolo non inferiore a nove anni e sei mesi. ))
 
-##### Art. 54
+#### Art. 54
 
 Disposizioni transitorie in materia di progressione in carriera
 
@@ -1188,7 +1186,7 @@ del personale appartenente ai ruoli professionali dei sanitari
 
 3\. Fino all'emanazione del regolamento ministeriale indicato nell'articolo 7, comma 4, il corso di formazione dirigenziale continua ad essere disciplinato dalle disposizioni vigenti alla data di entrata in vigore del presente decreto.
 
-##### Art. 54-bis
+#### Art. 54-bis
 
 (( (Disposizioni transitorie per l'accesso
 
@@ -1198,7 +1196,7 @@ al ruolo dei direttivi medici). ))
 
 2\. Durante la frequenza del corso di cui al comma 1, i vincitori del concorso rivestono la qualifica di medico. Superato l'esame finale del corso gli stessi sono confermati nel ruolo dei direttivi medici con la qualifica di medico principale. ))
 
-##### Art. 55
+#### Art. 55
 
 Transito dei dirigenti e dei direttori tecnici medico legali
 
@@ -1212,11 +1210,11 @@ nei ruoli professionali dei sanitari della Polizia di Stato
 
 ## Titolo IV - DISPOSIZIONI COMUNI
 
-##### Art. 55-bis
+#### Art. 55-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 DICEMBRE 2019, N. 172))
 
-##### Art. 56
+#### Art. 56
 
 Riconoscimento dei crediti formativi
 
@@ -1240,7 +1238,7 @@ Riconoscimento dei crediti formativi
 
 > "Art. 5 (Crediti formativi universitari). - 7. Le universita' possono riconoscere come crediti formativi universitari, secondo criteri predeterminati, le conoscenze e abilita' professionali certificate ai sensi della normativa vigente in materia, nonche' altre conoscenze e abilita' maturate in attivita' formative di livello post-secondario alla cui progettazione e realizzazione l'universita' abbia concorso".
 
-##### Art. 57 - Aggiornamento professionale
+#### Art. 57 - Aggiornamento professionale
 
 1\. Al fine di assicurare periodici percorsi formativi per il personale appartenente alle carriere dei funzionari di Polizia, di cui ai titoli I, II e III, il Dipartimento della pubblica sicurezza, oltre ai corsi per la formazione iniziale, per quella specialistica e per quella dirigenziale, organizza corsi di aggiornamento per gli appartenenti alle medesime carriere.
 
@@ -1288,7 +1286,7 @@ Il D.L. 28 dicembre 2006, n. 300 convertito con modificazioni dalla L. 26 febbra
 
 Il D.L. 29 dicembre 2010, n. 225, convertito con modificazioni dalla L. 26 febbraio 2011, n. 10, come modificato dal D.L. 30 dicembre 2016, n. 244, convertito con modificazioni dalla L. 27 febbraio 2017, n. 19, ha disposto (con l'art. 2, comma 6-quinquies) che "In deroga a quanto previsto dall'articolo 57, comma 5, del decreto legislativo 5 ottobre 2000, n. 334, la disposizione di cui al comma 3 del medesimo articolo 57 non si applica agli scrutini per l'ammissione al corso di formazione per l'accesso alla qualifica di primo dirigente della Polizia di Stato, da conferire con decorrenza anteriore al 31 dicembre 2017".
 
-##### Art. 58
+#### Art. 58
 
 Conferimento dei posti di funzione di livello dirigenziale
 
@@ -1304,7 +1302,7 @@ Conferimento dei posti di funzione di livello dirigenziale
 
 5\. Restano ferme le disposizioni concernenti il collocamento in disponibilita', il comando e il collocamento fuori ruolo.
 
-##### Art. 59
+#### Art. 59
 
 Commissione per la progressione in carriera
 
@@ -1324,7 +1322,7 @@ Commissione per la progressione in carriera
 
 8\. Le disposizioni di cui al presente articolo si applicano alle nomine e alle promozioni successive al 31 dicembre 2001.
 
-##### Art. 59-bis
+#### Art. 59-bis
 
 (( (Criteri di valutazione per gli scrutini).))
 
@@ -1342,7 +1340,7 @@ Commissione per la progressione in carriera
 
 7\. Per le promozioni a dirigente superiore e qualifiche equiparate, ai primi dirigenti e qualifiche equiparate ammessi a scrutinio il coefficiente di anzianita' di cui al comma 5 e' assegnato nella misura di punti due, di punti quattro e di punti sei per i funzionari ammessi a scrutinio, rispettivamente, con cinque anni, sei anni o almeno sette anni di effettivo servizio nella qualifica precedente.))
 
-##### Art. 60
+#### Art. 60
 
 Cause di esclusione dagli scrutini
 
@@ -1358,7 +1356,7 @@ d) nei cinque anni precedenti lo scrutinio abbia riportato la sanzione disciplin
 
 2\. Le disposizioni di cui al comma 1, non trovano applicazione con riferimento ai giudizi complessivi espressi ed alle sanzioni disciplinari irrogate fino all'entrata in vigore del presente decreto.
 
-##### Art. 61
+#### Art. 61
 
 Sospensione dalla partecipazione agli scrutini
 
@@ -1368,7 +1366,7 @@ Sospensione dalla partecipazione agli scrutini
 
 3\. Le disposizioni di cui al comma 1, si applicano agli scrutini per le promozioni successive al 31 dicembre 2001.
 
-##### Art. 62
+#### Art. 62
 
 Valutazione annuale dei dirigenti
 
@@ -1398,7 +1396,7 @@ Il D.L. 10 settembre 2004, n. 238, convertito con L. 5 novembre 2004, n. 263 ha 
 
 2003."
 
-##### Art. 63
+#### Art. 63
 
 Promozioni per merito straordinario alle qualifiche dirigenziali
 
@@ -1406,7 +1404,7 @@ Promozioni per merito straordinario alle qualifiche dirigenziali
 
 2\. Non possono essere attribuite promozioni per merito straordinario alle qualifiche dirigenziali per piu' di una volta nel corso della carriera; ricorrendo i presupposti di un'ulteriore promozione, al funzionario interessato sono attribuiti i benefici economici di cui all'ultimo comma dell'articolo 75 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335.
 
-##### Art. 64
+#### Art. 64
 
 Collocamento in disponibilita'
 
@@ -1424,7 +1422,7 @@ Collocamento in disponibilita'
 
 5-ter. ((Se in corrispondenza della qualifica conseguita con la promozione o con la nomina permane la possibilita' di collocamento in disponibilita', il decreto di promozione o di nomina puo' disporre il collocamento in disponibilita', anche nella nuova qualifica)).
 
-##### Art. 65
+#### Art. 65
 
 Rideterminazione delle funzioni e delle dotazioni organiche
 
@@ -1432,7 +1430,7 @@ Rideterminazione delle funzioni e delle dotazioni organiche
 
 2\. ((COMMA ABROGATO DALLA L. 4 APRILE 2025, N. 42)).
 
-##### Art. 65-bis
+#### Art. 65-bis
 
 (( (Riconoscimento dell'anzianita' pregressa). ))
 
@@ -1442,7 +1440,7 @@ Rideterminazione delle funzioni e delle dotazioni organiche
 
 3\. Le disposizioni di cui ai commi 1 e 2 si applicano, altresi', ai funzionari delle corrispondenti qualifiche delle Forze di Polizia ad ordinamento civile. ))
 
-##### Art. 65-ter - Ruolo d'onore dell'Amministrazione della Pubblica Sicurezza
+#### Art. 65-ter - Ruolo d'onore dell'Amministrazione della Pubblica Sicurezza
 
 1\. Fermo restando quanto previsto dal decreto del Presidente della Repubblica 24 aprile 1982, n. 339, il personale dei ruoli dei direttivi e dei dirigenti della Polizia di Stato, giudicato assolutamente inidoneo all'assolvimento dei compiti d'istituto per mutilazioni o invalidita' riportati in servizio e per causa di servizio che abbiano dato luogo a pensione privilegiata ordinaria delle prime otto categorie, e' iscritto nel ruolo d'onore dell'Amministrazione della Pubblica Sicurezza, previa dispensa dal servizio per inidoneita' assoluta nel ruolo di appartenenza, ovvero, nelle ipotesi di cui al comma 3, previo giudizio medico-legale di inidoneita' assoluta al servizio. ((14))
 
@@ -1468,11 +1466,9 @@ Il D.Lgs. 29 maggio 2017, n. 95 ha disposto (con l'art. 1, comma 5, lettera lll)
 
 Ha inoltre disposto (con l'art. 3, comma 10) che "Nel ruolo d'onore di cui all'articolo 65-ter del decreto legislativo 5 ottobre 2000, n. 334, e' iscritto anche il personale dei ruoli degli agenti e assistenti, dei sovrintendenti e degli ispettori e dei corrispondenti ruoli tecnici e tecnico-scientifici della Polizia di Stato".
 
-## Titolo V - DISPOSIZIONI CONCERNENTI IL CAPO DELLA POLIZIA - DIRETTORE GENERALE
+## Titolo V - DISPOSIZIONI CONCERNENTI IL CAPO DELLA POLIZIA - DIRETTORE GENERALE DELLA PUBBLICA SICUREZZA
 
-### DELLA PUBBLICA SICUREZZA
-
-##### Art. 66
+#### Art. 66
 
 Posizione gerarchica e funzionale del capo della polizia direttore generale della pubblica sicurezza
 
@@ -1498,13 +1494,13 @@ Posizione gerarchica e funzionale del capo della polizia direttore generale dell
 
 ## Titolo VI - DISPOSIZIONI FINALI
 
-##### Art. 67 - Riorganizzazione (( della Scuola superiore di polizia) )
+#### Art. 67 - Riorganizzazione (( della Scuola superiore di polizia) )
 
 1\. All'adeguamento dell'assetto organizzativo e funzionale ((della Scuola superiore di polizia, istituita)) nell'ambito dell'Amministrazione della Pubblica Sicurezza per la formazione, l'aggiornamento professionale e la specializzazione del personale appartenente ai ruoli dei dirigenti e direttivi della Polizia di Stato, si provvede con regolamento da emanare ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, su proposta del Ministro dell'interno, di concerto con il Ministro dell'economia e delle finanze e con il Ministro per la funzione pubblica, disciplinandone il raccordo con le competenti articolazioni dell'Amministrazione della pubblica sicurezza (( , con il Centro Alti Studi del Ministero dell'interno (CASMI) )) e con gli altri istituti di alta formazione del Ministero dell'interno e delle altre Amministrazioni pubbliche, assicurando livelli di autonomia istituzionale, gestionale, finanziaria e contabile, coerenti con i compiti previsti dal presente decreto. ((Alla direzione della Scuola superiore di polizia puo' essere preposto un prefetto o un dirigente generale di pubblica sicurezza nell'ambito della dotazione organica di cui, rispettivamente, alla tabella B allegata al decreto legislativo 19 maggio 2000, n. 139, e alla tabella A allegata al decreto del Presidente della Repubblica 24 aprile 1982, n. 335)).
 
 2\. Fermo restando quanto previsto dall'articolo 69 comma 1, lettera f), dalla data di entrata in vigore del regolamento di cui al comma 1, il decreto del Presidente della Repubblica 24 aprile 1982, n. 341, e' abrogato.
 
-##### Art. 68
+#### Art. 68
 
 Modifiche alla normativa vigente
 
@@ -1572,7 +1568,7 @@ Fino all'emanazione del suddetto regolamento di semplificazione, le modalita' pe
 
 11\. All'articolo 7, comma 2, della legge 28 marzo 1997, n. 85, le parole "appartenente rispettivamente ad uno dei ruoli del personale che espleta funzioni di polizia o ad uno dei ruoli del personale che espleta funzioni tecnico-scientifiche o tecniche" sono sostituite dalle seguenti: "appartenente ad uno dei ruoli del personale che espleta funzioni di polizia o ad uno dei ruoli del personale che espleta funzioni tecnico-scientifiche o tecniche.".
 
-##### Art. 68-bis
+#### Art. 68-bis
 
 (( (Disposizioni transitorie per il conferimento dei posti di funzione di livello dirigenziale).
 
@@ -1580,7 +1576,7 @@ Fino all'emanazione del suddetto regolamento di semplificazione, le modalita' pe
 
 2\. Alle promozioni aventi decorrenza dal 1° luglio 2019 si applicano i medesimi criteri di valutazione dei titoli di cui all'articolo 62 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335, applicati agli scrutini aventi decorrenza dal 1° gennaio 2019. Al relativo onere, nel limite massimo di 500.000 euro per l'anno 2019, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2019-2021, nell'ambito del programma 'Fondi di riserva e speciali' della missione 'Fondi da ripartire' dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2019, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero dell'interno)).
 
-##### Art. 69
+#### Art. 69
 
 Abrogazioni
 
@@ -1610,7 +1606,7 @@ b) gli articoli 34, 35, 36 e 37 del decreto del Presidente della Repubblica 24 a
 
 c) gli articoli 9, 10, 12 e 13 del decreto del Presidente della Repubblica 24 aprile 1982, n. 338. ))
 
-##### Art. 70
+#### Art. 70
 
 Rinvio alle disposizioni vigenti
 
@@ -1620,19 +1616,19 @@ Rinvio alle disposizioni vigenti
 
 > \- Per l'argomento dei decreti del Presidente della Repubblica 24 aprile 1982, numeri 335, 337 e 338, vedi, rispettivamente, nelle note agli articoli 1, 29 e 43.
 
-##### Art. 71
+#### Art. 71
 
 Inquadramenti
 
 1\. Con successivo provvedimento legislativo sono determinate le modalita' applicative di inquadramento del personale in servizio negli attuali ruoli direttivi della Polizia di Stato nei nuovi ruoli dei commissari, dei direttori tecnici e dei direttivi medici, previsti dal presente decreto, con decorrenza dal 15 marzo 2001.
 
-##### Art. 72
+#### Art. 72
 
 Determinazione dei posti indisponibili nel ruolo degli operatori e dei collaboratori tecnici
 
 1\. La determinazione dei posti indisponibili nella dotazione organica del ruolo degli operatori e dei collaboratori tecnici ai fini dell'attuazione dell'articolo 40, sara' attuata mediante apposito decreto del Ministro dell'interno, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, in proporzione all'effettivo incremento della consistenza dei ruoli, in modo tale da assicurare che l'onere netto annuo determinato dall'applicazione del presente decreto non ecceda le risorse finanziarie di cui all'articolo 73.
 
-##### Art. 73
+#### Art. 73
 
 Clausola finanziaria
 
@@ -1668,7 +1664,7 @@ Visto, il Guardasigilli: Fassino
 
 ## Titolo VI - DISPOSIZIONI FINALI
 
-##### Tabella 1
+#### Tabella 1
 
 Tabella 1 (richiamata dagli artt. 1 e 14)
 
@@ -1866,7 +1862,7 @@ La Tabella A allegata al decreto del Presidente della Repubblica 24 aprile 1982,
 +----------------------------------------------+-----------+
 ```
 
-##### Tabella 2
+#### Tabella 2
 
 Tabella 2
 
@@ -1897,7 +1893,7 @@ LIMITI DI ETA' PER IL COLLOCAMENTO A RIPOSO DEL PERSONALE DELLA POLIZIA DI STATO
 +-----------------------------------------+---------------------------+
 ```
 
-##### Tabella 3
+#### Tabella 3
 
 Tabella 3 (richiamata dall'art. 27)
 
@@ -2063,7 +2059,7 @@ ALTRE QUALIFICHE
 ---------------------------------------------------------------------
 ```
 
-##### Tabella 4
+#### Tabella 4
 
 Tabella 4
 
@@ -2260,7 +2256,7 @@ RUOLO DEI DIRIGENTI TECNICI PSICOLOGI
 +------------------------+-----------------+-------------------------+
 ```
 
-##### Tabella 5
+#### Tabella 5
 
 Tabella 5 (richiamata dall'art. 43)
 
@@ -2344,7 +2340,7 @@ RUOLO DEI DIRETTIVI MEDICI
 
 (c) Aumento di due unita' relative alla dotazione organica della soppressa qualifica di primo dirigente tecnico medico legale.
 
-##### Tabella 6
+#### Tabella 6
 
 Tabella 6
 

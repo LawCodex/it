@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 **Rendiconto generale dell'Amministrazione dello Stato per l'esercizio finanziario 1976.**
 
-#### Art. 1
+## Art. 1
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
@@ -33,7 +33,7 @@ Il conto consuntivo dello Stato per l'esercizio 1976 e' approvato secondo le ris
 
 ## ENTRATE E SPESE COMPETENZA DELL'ESERCIZIO FINANZIARIO 1976
 
-#### Art. 2
+## Art. 2
 
 ART 2.
 
@@ -61,7 +61,7 @@ rimasero da versare .. L. 1.011.672.442.239
  e rimasero da riscuotere .................. L. 2.215.817.504.173 ==================
 ```
 
-#### ART. 3
+## ART. 3
 
 Le spese correnti, in conto capitale e per
 
@@ -75,7 +75,7 @@ lite in ..................................... L. 48.540.836.140.072 delle quali 
 
 ------------------ e rimasero da pagare ........................ L. 10.626.285.009.652 ==================
 
-#### ART. 4
+## ART. 4
 
 Il riepilogo generale delle entrate e delle spese di competenza dell'esercizio 1976 risulta stabilito come segue:
 
@@ -89,7 +89,7 @@ Entrate tributarie ed extra-tributarie...... L. 35.808.991.039.228 Spese corrent
 
 ## ENTRATE E SPESE RESIDUE DELL'ESERCIZIO FINANZIARIO 1975 ED ESERCIZI - PRECEDENTI
 
-#### ART. 5
+## ART. 5
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -104,7 +104,7 @@ rimasero da versare .. L. 884.571.423.604
  ------------------ e rimasero da riscuotere al 31 dicembre 1976 L. 1.244.173.548.545 ==================
 ```
 
-#### ART. 6
+## ART. 6
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -114,7 +114,7 @@ zio 1975 risultano stabiliti in ............. L. 17.175.707.696.507 dei quali fu
 
 ## RESIDUI ATTIVI E PASSIVI ALLA CHIUSURA DELL'ESERCIZIO FINANZIARIO - 1976
 
-#### ART. 7
+## ART. 7
 
 I residui attivi alla chiusura dell'esercizio 1976 risultano stabiliti nelle seguenti somme:
 
@@ -130,7 +130,7 @@ degli esercizi precedenti (Articolo 5) ...... L. 1.244.173.548.545 Somme riscoss
 
 ------------------ Residui attivi al 31 dicembre 1976 ... L. 5.356.234.918.561 ==================
 
-#### ART. 8
+## ART. 8
 
 I residui passivi alla chiusura dell'esercizio 1976 risultano stabiliti nelle seguenti somme:
 
@@ -146,7 +146,7 @@ esercizi precedenti (articolo 6) ............ L. 7.976.741.945.420
 
 ## SITUAZIONE FINANZIARIA
 
-#### ART. 9
+## ART. 9
 
 Il disavanzo finanziario del conto del tesoro alla fine dell'esercizio 1976 e' accertato nella somma di lire 43.558.522.950.356 come risulta dai seguenti dati:
 
@@ -190,25 +190,25 @@ lita generale dello Stato ................... L. 37.610
 
 ## DISPOSIZIONI SPECIALI
 
-#### ART. 10
+## ART. 10
 
 Sono stabiliti nella somma di lire 37.610 i discarichi consentiti, nell'esercizio 1976, ai tesorieri per casi di forza maggiore, ai sensi dell'articolo 194 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato approvato con regio decreto 23 maggio 1924, n. 827.
 
-#### ART. 11
+## ART. 11
 
 Alle spese di cui al capitolo n. 2811 dello stato di previsione della spesa del Ministero delle finanze si applicano, per l'anno finanziario 1976, le disposizioni contenute nel secondo e nel terzo comma dell'articolo 36 del regio decreto 18 novembre 1923, n. 2440, sulla contabilita' generale dello Stato.
 
-#### ART. 12
+## ART. 12
 
 Con riferimento alla consistenza dei residui attivi risultanti al 31 dicembre 1976, vengono eliminati per l'importo complessivo di lire 252.288.164.702, i crediti erariali accertati nei confronti del Ministero della Difesa, relativamente all'"imposta di fabbricazione sugli olii minerali derivati e prodotti analoghi" (capitolo n. 1409 per lire 223.242.506.488), alla "sovrimposta di confine sugli oli minerali, loro derivati e prodotti analoghi" (capitolo n. 1460, per lire 17.960.864.417) e all'"imposta generale sull'entrata" (capitolo n. 1202, per lire 11.084.793.797).
 
 I residui attivi relativi ai suddetti prestiti restano pertanto stabiliti, per i citati capitoli n. 1409, n. 1460 e n. 1202, rispettivamente, in lire 17.783.239.139, lire 8.188.871.123 e lire 45.887.844.856.
 
-#### ART. 13
+## ART. 13
 
 Ai fini della determinazione dell'utile della Cassa Depositi e Prestiti, da versare al bilancio dello Stato, e della sistemazione delle perdite delle gestioni annesse, si applica, per l'anno finanziario 1976, l'articolo 9-octies della legge 17 marzo 1977, n. 62.
 
-#### ART. 14
+## ART. 14
 
 Sono approvate le eccedenze di impegni risultate in sede di consuntivo sul conto della competenza e sul conto dei residui ai capitoli degli stati di previsione della spesa dei Ministeri sottoindicati per l'esercizio finanziario 1976, come risulta dal dettaglio che segue:
 
@@ -428,11 +428,9 @@ fortuni sul lavoro e le
 
 malattie professionali .. L. 18.904.857 -
 
-## AZIENDE SPECIALI ED AUTONOME
+## AZIENDE SPECIALI ED AUTONOME - AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### AZIENDA DI STATO PER LE FORESTE DEMANIALI
-
-#### ART. 15
+## ART. 15
 
 Le entrate correnti ed in conto capitale del
 
@@ -459,7 +457,7 @@ rimasero da versare .. L. 4.639.886.756
  ------------------ e rimasero da riscuotere .................... L. 2.760.590.504 ==================
 ```
 
-#### ART. 16
+## ART. 16
 
 Le spese correnti ed in conto capitale del
 
@@ -473,7 +471,7 @@ tano stabilite in ........................... L. 15.471.752.149 delle quali furo
 
 ------------------ e rimasero da pagare ........................ L. 9.443.530.004 ==================
 
-#### ART. 17
+## ART. 17
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -488,7 +486,7 @@ rimasero da versare .. L. 2.581.062.146
  ------------------ e rimasero da riscuotere al 31 dicembre 1976. L. 230.607.755 ==================
 ```
 
-#### ART. 18
+## ART. 18
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -496,7 +494,7 @@ zio 1975 risultano stabiliti in ............. L. 16.787.573.592 dei quali furono
 
 ------------------ e rimasero da pagare al 31 dicembre 1976..... L. 10.786.380.430 ==================
 
-#### ART. 19
+## ART. 19
 
 I residui attivi alla chiusura dell'esercizio 1976 risultano stabiliti nelle seguenti somme:
 
@@ -512,7 +510,7 @@ riepilogo dell'entrata ...................... L. 7220.948.902
 
 ------------------ Residui attivi al 31 dicembre 1976 ... L. 10.212.147.161 ==================
 
-#### ART. 20
+## ART. 20
 
 I residui passivi alla chiusura dell'esercizio 1976 risultano stabiliti nelle seguenti somme:
 
@@ -526,7 +524,7 @@ esercizi precedenti (articolo 18) ........... L. 10.786.380.430
 
 ------------------ Residui passivi al 31 dicembre 1976 ... L. 20.229.910.434 ==================
 
-#### ART. 21
+## ART. 21
 
 La situazione finanziaria dell'Azienda di Stato per le foreste demaniali, alla fine dell'esercizio 1976, risulta come appresso:
 
@@ -567,7 +565,7 @@ al 31 dicembre 1976 ...... L. 3.652.277.724
 
 ## ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-#### ART. 22
+## ART. 22
 
 Le entrate correnti dell'Istituto agronomico
 
@@ -585,7 +583,7 @@ in .......................................... L. 300.964.800 delle quali furono 
 
 ------------------
 
-#### ART. 23
+## ART. 23
 
 Le spese correnti dell'Istituto predetto,
 
@@ -597,11 +595,11 @@ mo, risultano stabilite in .................. L. 300.964.800 delle quali furono 
 
 ------------------ e rimasero da pagare ........................ L. 97.335.388 ==================
 
-#### ART. 24
+## ART. 24
 
 I residui attivi alla chiusura dell'esercizio 1975, stabiliti in lire 1.224.750, sono rimasti integralmente da riscuotere.
 
-#### ART. 25
+## ART. 25
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -609,11 +607,11 @@ zio 1975 risultano stabiliti in ............. L. 52.691.329 dei quali furono pag
 
 ------------------ e rimasero da pagare al 31 dicembre 1976 .... L. 13.219.305 ==================
 
-#### ART. 26
+## ART. 26
 
 I residui attivi alla chiusura dell'esercizio 1976 risultano stabiliti in lire 1.224.750 relativi a somme rimaste da riscuotere sui residui alla chiusura dell'esercizio 1975 (articolo 24).
 
-#### ART. 27
+## ART. 27
 
 I residui passivi alla chiusura dell'esercizio 1976 risultano stabiliti nelle seguenti somme:
 
@@ -629,7 +627,7 @@ esercizi precedenti (articolo 25) ........... L. 13.219.305
 
 ## AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-#### ART. 28
+## ART. 28
 
 Le entrate correnti, in conto capitale e
 
@@ -660,7 +658,7 @@ rimasero da versare ..... L. 7.203.532.644
  ------------------ e rimasero da riscuotere .................... L. 75.471.352.628 ==================
 ```
 
-#### ART. 29
+## ART. 29
 
 Le spese correnti, in conto capitale e per
 
@@ -678,7 +676,7 @@ in .......................................... L. 516.927.552.256 delle quali fur
 
 ------------------ e rimasero da pagare ........................ L. 76.469.285.292 ==================
 
-#### ART. 30
+## ART. 30
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -693,7 +691,7 @@ rimasero da versare ....... L. -
  ------------------ e rimasero da riscuotere al 31 dicembre 1976. L. 65.769.893.976 ==================
 ```
 
-#### ART. 31
+## ART. 31
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -701,7 +699,7 @@ zio 1975 risultano stabiliti in ............. L. 69.190.253.487 dei quali furono
 
 ------------------ e rimasero da pagare al 31 dicembre 1976 .... L. 26.841.092.155 ==================
 
-#### ART. 32
+## ART. 32
 
 I residui attivi alla chiusura dell'esercizio 1976 risultano stabiliti nelle seguenti somme:
 
@@ -717,7 +715,7 @@ riepilogo dell'entrata) ..................... L. 7.203.532.644
 
 ------------------ Residui attivi al 31 dicembre 1976 ... L. 148.444.779.248 ==================
 
-#### ART. 33
+## ART. 33
 
 I residui passivi alla chiusura dell'esercizio 1976 risultano stabiliti nelle seguenti somme:
 
@@ -731,7 +729,7 @@ esercizi precedenti (articolo 31) ........... L. 26.841.092.155
 
 ------------------ Residui passivi al 31 dicembre 1976 ... L. 103.310.377.447
 
-#### ART. 34
+## ART. 34
 
 La situazione finanziaria dell'Amministrazione autonoma dei Monopoli di Stato, alla fine dell'esercizio 1976, risulta come appresso:
 
@@ -759,7 +757,7 @@ al 31 dicembre 1976 ...... L. 90.881.064.810
  ------------------ Totale del passivo ... L. 516.930.790.388 ==================
 ```
 
-#### ART. 35
+## ART. 35
 
 Per la copertura del disavanzo di gestione dell'esercizio finanziario 1976 accertato per l'Amministrazione autonoma dei monopoli di Stato, la Cassa depositi e prestiti e' autorizzata a concedere all'Amministrazione predetta sui fondi dei conti correnti postali, di cui all'articolo 1 del decreto legislativo luogotenenziale 22 novembre 1945, n. 822, anticipazioni per complessive lire 37.939.181.059, estinguibili in 35 anni al saggio vigente per i mutui all'epoca della concessione.
 
@@ -771,7 +769,7 @@ L'onere relativo fara' carico al bilancio dello Stato.
 
 ## ARCHIVI NOTARILI
 
-#### ART. 36
+## ART. 36
 
 E' approvato il conto consuntivo degli Archivi notarili per l'esercizio finanziario 1976, nelle risultanze seguenti:
 
@@ -781,7 +779,7 @@ Entrate .................................... L. 39.652.807.194 Spese ...........
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-#### ART. 37
+## ART. 37
 
 Le entrate correnti ed in conto capitale del
 
@@ -808,7 +806,7 @@ rimasero da versare ...... L. 2.106.324
  ------------------ e rimasero da riscuotere .................... L. 55.128.750 ==================
 ```
 
-#### ART. 38
+## ART. 38
 
 Le spese correnti ed in conto capitale del
 
@@ -822,7 +820,7 @@ sultano stabilite in ........................ L. 45.022.894.247 delle quali furo
 
 ------------------ e rimasero da pagare ........................ L. 11.902.699.503 ==================
 
-#### ART. 39
+## ART. 39
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -837,7 +835,7 @@ rimasero da versare ...... L. 748.549
  ------------------ e rimasero da riscuotere al 31 dicembre 1976. L. 98.286.727 ==================
 ```
 
-#### ART. 40
+## ART. 40
 
 I residui passivi alla chiusura dell'eserci
 
@@ -845,7 +843,7 @@ zio 1975 risultano sta biliti in ............ L. 7.565.346.222 dei quali furono 
 
 ------------------ e rimasero da pagare al 31 dicembre 1976 .... L. 4.050.409.881 ==================
 
-#### ART. 41
+## ART. 41
 
 I residui attivi alla chiusura dell'esercizio 1976 risultano stabiliti nelle seguenti somme:
 
@@ -861,7 +859,7 @@ riepilogo dell'entrata) ..................... L. 2.854.873
 
 ------------------ Residui attivi al 31 dicembre 1976 ... L. 156.270.350 ==================
 
-#### ART. 42
+## ART. 42
 
 I residui passivi alla chiusura dell'esercizio 1976 risultano stabiliti nelle seguenti somme:
 
@@ -875,7 +873,7 @@ esercizi precedenti (articolo 40) ........... L. 4.050.409.881
 
 ------------------ Residui passivi al 31 dicembre 1976 ... L. 15.953.109.384 ==================
 
-#### ART. 43
+## ART. 43
 
 La situazione finanziaria dell'Amministrazione del Fondo per il Culto, alla fine dell'esercizio 1976, risulta come segue:
 
@@ -913,7 +911,7 @@ Spese dell'esercizio 1976 ................... L. 45.022.894.247
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-#### ART. 44
+## ART. 44
 
 Le entrate correnti ed in conto capitale del
 
@@ -940,7 +938,7 @@ rimasero da versare ...... L. -
  ------------------ e rimasero da riscuotere .................... L. 6.060.762 ==================
 ```
 
-#### ART. 45
+## ART. 45
 
 Le spese correnti ed in conto capitale del
 
@@ -954,7 +952,7 @@ risultano stabilite in ...................... L. 1.013.693.719 delle quali furon
 
 ------------------ e rimasero da pagare ........................ L. 358.673.515 ==================
 
-#### ART. 46
+## ART. 46
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -969,7 +967,7 @@ rimasero da versare ....... L. 5.928
  ----------------- e rimasero da riscuotere al 31 dicembre 1976 . L. 17.058.768 =================
 ```
 
-#### ART. 47
+## ART. 47
 
 I residui passivi alla chiusura dell'eser-
 
@@ -977,7 +975,7 @@ cizio 1975 risultano stabiliti in ........... L. 529.824.423 dei quali furono pa
 
 ------------------ e rimasero da pagare al 31 dicembre 1976..... L. 131.606.731 ==================
 
-#### ART. 48
+## ART. 48
 
 I residui attivi alla chiusura dell'esercizio 1976 risultano stabiliti nelle seguenti somme:
 
@@ -993,7 +991,7 @@ del riepilogo dell'entrata) ................. L. 5.928
 
 ------------------ Residui attivi al 31 dicembre 1976 .......... L. 23.125.458 ==================
 
-#### ART. 49
+## ART. 49
 
 I residui passivi alla chiusura dell'esercizio 1976 risultano stabiliti nelle seguenti somme:
 
@@ -1007,7 +1005,7 @@ esercizi precedenti (articolo 47) ........... L. 131.606.731
 
 ------------------ Residui passivi al 31 dicembre 1976 ......... L. 490.280.246 ==================
 
-#### ART. 50
+## ART. 50
 
 La situazione finanziaria del Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1976, risulta come segue:
 
@@ -1042,7 +1040,7 @@ Spese dell'esercizio 1976 ................... L. 1.013.693.719
 
 ## PATRIMONI RIUNITI EX ECONOMALI
 
-#### ART. 51
+## ART. 51
 
 Le entrate correnti ed in conto capitale
 
@@ -1069,7 +1067,7 @@ rimasero da versare ...... L. 22.859.242
  ------------------ rimasero da riscuotere ...................... L. 55.526.159 ==================
 ```
 
-#### ART. 52
+## ART. 52
 
 Le spese correnti ed in conto capitale
 
@@ -1083,7 +1081,7 @@ lite in ..................................... L. 770.727.617 delle quali furono 
 
 ------------------ e rimasero da pagare ........................ L. 237.873.657 ==================
 
-#### ART. 53
+## ART. 53
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1091,7 +1089,7 @@ zio 1975 risultano stabiliti in ............. L. 247.540.100 dei quali nell'eser
 
 ------------------ e rimasero da riscuotere al 31 dicembre 1976. L. 6.297.489 ==================
 
-#### ART. 54
+## ART. 54
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1099,7 +1097,7 @@ zio 1975 risultano stabiliti in ............. L. 192.317.846 dei quali furono pa
 
 ------------------ e rimasero da pagare al 31 dicembre 1976 .... L. 63.688.050 ==================
 
-#### ART. 55
+## ART. 55
 
 I residui attivi alla chiusura dell'esercizio 1976 risultano stabiliti nelle seguenti somme:
 
@@ -1115,7 +1113,7 @@ riepilogo dell'entrata) ..................... L. 44.782.168
 
 ------------------ Residui attivi al 31 dicembre 1976 .......... L. 106.605.816 ==================
 
-#### ART. 56
+## ART. 56
 
 I residui passivi alla chiusura dell'esercizio 1976 risultano stabiliti nelle seguenti somme:
 
@@ -1129,7 +1127,7 @@ esercizi precedenti (articolo 54) ........... L. 63.688.050
 
 ------------------ Residui passivi al 31 dicembre 1976 ... L. 301.561.707 ==================
 
-#### ART. 57
+## ART. 57
 
 La situazione finanziaria dell'Azienda dei patrimoni riuniti ex economali, alla fine dell'esercizio 1976, risulta come segue:
 
@@ -1166,7 +1164,7 @@ al 31 dicembre 1976 ...... L. 247.540.100
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE
 
-#### ART. 58
+## ART. 58
 
 Le entrate correnti e in conto capitale del
 
@@ -1186,7 +1184,7 @@ pubblici, in ................................ L. 576.906.640.741 delle quali fur
 
 ------------------ e rimasero da riscuotere .................... L. 25.646.045 ==================
 
-#### Art. 59
+## Art. 59
 
 Le spese correnti, in conto capitale e per
 
@@ -1200,7 +1198,7 @@ esercizio medesimo, risultano stabilite in .. L. 582.305.016.081 delle quali fur
 
 ------------------ e rimasero da pagare ........................ L. 281.404.678.870 ==================
 
-#### ART. 60
+## ART. 60
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1210,7 +1208,7 @@ e versati ................................... L. 166.786.705.015
 
 ------------------ e rimasero da riscuotere al 31 dicembre 1976. L. 985.845.528.741 ==================
 
-#### ART. 61
+## ART. 61
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1218,7 +1216,7 @@ zio 1975 risultano stabiliti in ............. L. 968.902.494.296 dei quali furon
 
 ------------------ e rimasero da pagare al 31 dicembre 1976..... L. 615.407.826.434 ==================
 
-#### ART. 62
+## ART. 62
 
 I residui attivi alla chiusura dell'esercizio 1976 risultano stabiliti nelle seguenti somme:
 
@@ -1232,7 +1230,7 @@ degli esercizi precedenti (articolo 60) ..... L. 985.845.528.741
 
 ------------------ Residui attivi al 31 dicembre 1976 ... L. 985.871.174.786 ==================
 
-#### ART. 63
+## ART. 63
 
 I residui passivi alla chiusura dell'esercizio 1976 risultano stabiliti nelle seguenti somme:
 
@@ -1248,7 +1246,7 @@ esercizi precedenti (articolo 61) ........... L. 615.407.826.434
 
 ## AMMINISTRAZIONE DELLE POSTE E DELLE TELECOMUNICAZIONI
 
-#### ART. 64
+## ART. 64
 
 Le entrate correnti, in conto capitale e per
 
@@ -1270,7 +1268,7 @@ delle telecomunicazioni, in ................. L. 2.113.279.024.185 delle quali f
 
 ------------------ e rimasero da riscuotere .................... L. 1.111.413.423.236 ==================
 
-#### ART. 65
+## ART. 65
 
 Le spese correnti, in conto capitale e per
 
@@ -1284,7 +1282,7 @@ ercizio medesimo, risultano stabilite in .... L. 2.113.279.024.185 delle quali f
 
 ------------------ e rimasero da pagare ........................ L. 1.015.120.343.343 ==================
 
-#### ART. 66
+## ART. 66
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1294,7 +1292,7 @@ e versati ................................... L. 1.329.026.135.930
 
 ------------------ e rimasero da riscuotere al 31 dicembre 1976. L. 257.284.608.856 ==================
 
-#### ART. 67
+## ART. 67
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1302,7 +1300,7 @@ zio 1975 risultano stabiliti in ............. L. 1.001.037.274.344 dei quali nel
 
 ------------------ e rimasero da pagare al 31 dicembre 1976 .... L. 389.728.463.387 ==================
 
-#### ART. 68
+## ART. 68
 
 I residui attivi ala chiusura dell'esercizio 1976 risultano stabiliti nelle seguenti somme:
 
@@ -1316,7 +1314,7 @@ degli esercizi precedenti (articolo 66) ..... L. 257.284.608.856
 
 ------------------ Residui attivi al 31 dicembre 1976 ... L. 1.368.698.032.092 ==================
 
-#### ART. 69
+## ART. 69
 
 I residui passivi alla chiusura dell'esercizio 1976 risultano stabiliti nelle seguenti somme:
 
@@ -1332,7 +1330,7 @@ esercizi precedenti (articolo 67) ........... L. 389.728.463.387
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-#### ART. 70
+## ART. 70
 
 Le entrate correnti, in conto capitale e per
 
@@ -1356,7 +1354,7 @@ furono riscosse e versate ................... L. 537.864.768.895
 
 ------------------ e rimasero da riscuotere .................... L. 141.628.026.860 ==================
 
-#### ART. 71
+## ART. 71
 
 Le spese correnti, in conto capitale e per
 
@@ -1370,7 +1368,7 @@ esercizio medesimo, risultano stabilite in .. L. 679.492.795.755 delle quali fur
 
 ------------------ e rimasero da pagare ........................ L. 326.987.001.785 ==================
 
-#### ART. 72
+## ART. 72
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1385,7 +1383,7 @@ rimasero da versare ..... L. 1.600.378.455
  ------------------ e rimasero da riscuotere al 31 dicembre 1976. L. 2.248.001.332 ==================
 ```
 
-#### ART. 73
+## ART. 73
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1393,7 +1391,7 @@ zio 1975 risultano stabiliti ................ L. 428.803.061.188 dei quali nell'
 
 ------------------ e rimasero da pagare al 31 dicembre 1976 .... L. 163.672.311.819 ==================
 
-#### ART. 74
+## ART. 74
 
 I residui attivi alla chiusura dell'esercizio 1976 risultano stabiliti nelle seguenti somme:
 
@@ -1409,7 +1407,7 @@ riepilogo dell'entrata) ..................... L. 1.600.378.455
 
 ------------------ Residui attivi al 31 dicembre 1976 ... L. 145.476.406.647 ==================
 
-#### ART. 75
+## ART. 75
 
 I residui passivi alla chiusura dell'esercizio 1976 risultano stabiliti nelle seguenti somme:
 
@@ -1425,7 +1423,7 @@ esercizi precedenti (articolo 73) ........... L. 163.672.311.819
 
 ## AZIENDA AUTONOMA DELLE FERROVIE DELLO STATO
 
-#### ART. 76
+## ART. 76
 
 Le entrate correnti, in conto capitale e per
 
@@ -1447,7 +1445,7 @@ consuntivo del Ministero dei trasporti in ... L. 7.747.224.021.314 delle quali f
 
 ------------------ e rimasero da riscuotere .................... L. 894.703.165.308 ==================
 
-#### ART. 77
+## ART. 77
 
 Le spese correnti, in conto capitale e per
 
@@ -1463,7 +1461,7 @@ in .......................................... L. 7.747.224.021.314 delle quali f
 
 ------------------ e rimasero da pagare ........................ L. 1.521.187.533.117 ==================
 
-#### ART. 78
+## ART. 78
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Azienda autonoma delle ferrovie dello Stato, di competenza dell'esercizio 1976, risulta cosi' stabilito:
 
@@ -1479,7 +1477,7 @@ nome) ....................................... L. 3.660.114.064.880 spese delle g
 
 ------------------ L. 7.747.224.021.314 ==================
 
-#### ART. 79
+## ART. 79
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1489,7 +1487,7 @@ si e versati ................................ L. 820.657.681.467
 
 ------------------ e rimasero da riscuotere al 31 dicembre 1976. L. 670.808.768.256 ==================
 
-#### ART. 80
+## ART. 80
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1497,7 +1495,7 @@ zio 1975 risultano stabiliti in ............. L. 1.876.583.580.337 dei quali nel
 
 ------------------ e rimasero da pagare al 31 dicembre 1976 .... L. 674.393.615.276 ==================
 
-#### ART. 81
+## ART. 81
 
 I residui attivi alla chiusura dell'esercizio 1976 risultano stabiliti nelle seguenti somme:
 
@@ -1511,7 +1509,7 @@ degli esercizi precedenti (articolo 79) ..... L. 670.808.768.256
 
 ------------------ Residui attivi al 31 dicembre 1976 ... L. 1.565.511.933.564 ==================
 
-#### ART. 82
+## ART. 82
 
 I residui passivi alla chiusura dell'esercizio 1976 risultano stabiliti nelle seguenti somme:
 

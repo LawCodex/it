@@ -128,7 +128,7 @@ L'ufficiale subisce nel ruolo una detrazione di anzianita' quando sia stato:
 
 La detrazione di anzianita' di cui al primo comma e' corrispondente al periodo di tempo in cui l'ufficiale si sia trovato in una delle posizioni sopra indicate.
 
-## CAPO II
+### CAPO II
 
 #### Art. 13
 
@@ -446,7 +446,7 @@ Ai capitani dei Corpo delle guardie di pubblica sicurezza si applicano le forme 
 
 ((Per l'attribuzione della qualifica di 1° capitano l'ufficiale deve aver compiuto 12 anni di servizio nel grado di capitano del Corpo delle guardie di pubblica sicurezza.))
 
-## CAPO III
+### CAPO III
 
 #### Art. 38
 
@@ -662,7 +662,7 @@ L'accettazione delle dimissioni dal grado estingue l'azione disciplinare.
 
 ## TITOLO IV - AVANZAMENTO
 
-### ((TITOLO ABROGATO DALLA L. 13 DICEMBRE 1965, N. 1366))
+## ((TITOLO ABROGATO DALLA L. 13 DICEMBRE 1965, N. 1366))
 
 #### Art. 59
 

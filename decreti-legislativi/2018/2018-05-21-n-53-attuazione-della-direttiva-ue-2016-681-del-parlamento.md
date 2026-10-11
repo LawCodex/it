@@ -70,11 +70,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Disposizioni generali
 
-### Disposizioni generali
-
-#### Art. 1
+### Art. 1
 
 Oggetto e ambito di applicazione
 
@@ -140,7 +138,7 @@ b) le modalita' del trattamento dei dati di cui alla lettera a), comprese le ope
 
 > Per i riferimenti normativi della direttiva (UE) 2016/681, si veda nelle note alle premesse.
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -454,11 +452,9 @@ f) «valico di frontiera», il valico di frontiera presidiato da uffici o repart
 
 > La direttiva 2004/82/CE del Consiglio concernente l'obbligo dei vettori di comunicare i dati relativi alle persone trasportate e' pubblicata nella G.U.U.E. 6 agosto 2004, n. L 261.
 
-## Capo II
+## Capo II - Finalita' del trattamento dei dati e organizzazione del Sistema Informativo
 
-### Finalita' del trattamento dei dati e organizzazione del Sistema - Informativo
-
-#### Art. 3
+### Art. 3
 
 Finalita' dei trattamenti
 
@@ -466,7 +462,7 @@ Finalita' dei trattamenti
 
 2\. I dati API raccolti e resi disponibili agli Uffici incaricati dei controlli di polizia di frontiera a norma del presente decreto sono trattati al fine di migliorare i controlli alle frontiere esterne e prevenire l'immigrazione illegale. In caso di ripristino temporaneo dei controlli di frontiera alle frontiere interne il trattamento dei dati API e' esteso anche ai voli intra-UE.
 
-#### Art. 4
+### Art. 4
 
 Sistema Informativo
 
@@ -520,7 +516,7 @@ g) di trasferimento dei dati PNR da parte dei vettori aerei.
 
 > Per i riferimenti normativi della decisione di esecuzione (UE) 2017/759, si veda nelle note alle premesse.
 
-#### Art. 5
+### Art. 5
 
 Modalita' di trasferimento dei dati PNR al Sistema Informativo
 
@@ -542,7 +538,7 @@ b) immediatamente dopo la chiusura del volo, quando non e' piu' possibile l'imba
 
 7\. Nel caso in cui i vettori trasferiscano dati diversi da quelli indicati nell'allegato I della direttiva (UE) 2016/681, l'UIP nazionale provvede senza ritardo alla loro definitiva cancellazione.
 
-#### Art. 6
+### Art. 6
 
 Unita' d'informazione sui passeggeri (UIP) nazionale
 
@@ -600,13 +596,13 @@ e) scambia sia i dati PNR che i risultati del loro trattamento con le UIP di alt
 
 > Il compenso e' stabilito, in relazione all'importanza ed alla durata dell'incarico, con decreto del Ministro dell'interno, di concerto con il Ministro del tesoro.».
 
-#### Art. 7
+### Art. 7
 
 Uffici incaricati dei controlli di polizia di frontiera
 
 1\. Gli Uffici incaricati di effettuare i controlli delle persone alle frontiere esterne attraverso le quali i passeggeri entrano nel territorio dello Stato provvedono al trattamento dei dati API per agevolare l'esecuzione di tali controlli al fine di prevenire l'immigrazione irregolare.
 
-#### Art. 8
+### Art. 8
 
 Trattamento dei dati PNR
 
@@ -630,7 +626,7 @@ b) trattare i dati PNR sulla base di criteri predeterminati ai sensi del comma 2
 
 > Per i riferimenti al regolamento (UE) 2016/399 del Parlamento europeo e del Consiglio, si veda nelle note all'art. 3.
 
-#### Art. 9
+### Art. 9
 
 Trattamento dei dati API
 
@@ -640,7 +636,7 @@ Trattamento dei dati API
 
 3\. Per le finalita' di cui all'articolo 3, comma 2, i dati API, trascorsi sei mesi dal loro ricevimento, sono resi indisponibili agli Uffici incaricati dei controlli di polizia di frontiera.
 
-#### Art. 10
+### Art. 10
 
 Periodo di conservazione dei dati PNR e pseudonimizzazione
 
@@ -692,17 +688,15 @@ b) del Vice Capo della Polizia - Direttore Centrale della Polizia Criminale, per
 
 > Per il testo degli articoli 4, 6 e 7 della legge 3 agosto 2007, n. 124 si veda nelle note all'art. 2.
 
-#### Art. 11
+### Art. 11
 
 Conservazione dei dati API
 
 1\. Il vettore aereo e' obbligato a cancellare, entro ventiquattro ore dall'arrivo del volo, i dati API trasmessi.
 
-## Capo III
+## Capo III - Trasferimento e scambio dei dati PNR e dei risultati del loro trattamento
 
-### Trasferimento e scambio dei dati PNR e dei risultati del loro - trattamento
-
-#### Art. 12
+### Art. 12
 
 Trasferimento dei dati PNR alle autorita' competenti nazionali
 
@@ -710,7 +704,7 @@ Trasferimento dei dati PNR alle autorita' competenti nazionali
 
 2\. Le decisioni delle autorita' competenti nazionali che determinino conseguenze giuridiche negative per l'interessato non possono essere adottate esclusivamente sulla base del trattamento automatizzato dei dati PNR, ne' possono fondarsi sull'origine razziale o etnica, sulle opinioni politiche, sulla religione o sulle convinzioni filosofiche, sull'appartenenza sindacale, sullo stato di salute, sulla vita sessuale o sull'orientamento sessuale dell'interessato.
 
-#### Art. 13
+### Art. 13
 
 Trasferimento dei dati PNR alle UIP degli Stati membri
 
@@ -722,13 +716,13 @@ Trasferimento dei dati PNR alle UIP degli Stati membri
 
 4\. Nel caso di pericolo imminente e concreto che possa essere commesso un reato di terrorismo o un altro reato grave, l'UIP di uno Stato membro puo' chiedere all'UIP nazionale che i dati PNR siano trasmessi, ai sensi dell'articolo 5, comma 6, anche in un momento antecedente rispetto a quelli indicati dall'articolo 5, comma 5.
 
-#### Art. 14
+### Art. 14
 
 Trasferimento dei dati PNR alle autorita' competenti degli Stati membri
 
 1\. L'UIP nazionale trasmette i dati PNR direttamente alle autorita' competenti di altri Stati membri che ne abbiano fatto richiesta, nel rispetto delle previsioni recate dall'articolo 13, commi 2 e 3, in presenza di situazioni di emergenza che non consentano di inoltrare la medesima richiesta attraverso l'UIP del proprio Stato.
 
-#### Art. 15
+### Art. 15
 
 Trasferimento dei dati PNR da parte di Stati membri
 
@@ -736,7 +730,7 @@ Trasferimento dei dati PNR da parte di Stati membri
 
 2\. Nel caso di pericolo imminente e concreto che possa essere commesso un reato di terrorismo o altro reato grave, l'UIP nazionale puo' chiedere all'UIP di altro Stato membro che i dati PNR siano trasmessi, ai sensi dell'articolo 5, comma 6, anche in un momento antecedente a quelli indicati dall'articolo 5, comma 5.
 
-#### Art. 16
+### Art. 16
 
 Richiesta dei dati PNR da parte delle autorita' competenti nazionali
 
@@ -744,7 +738,7 @@ Richiesta dei dati PNR da parte delle autorita' competenti nazionali
 
 2\. In situazioni di emergenza che non consentano di inoltrare la richiesta attraverso l'UIP nazionale, le autorita' competenti nazionali possono richiedere direttamente all'UIP di altro Stato membro la trasmissione dei dati PNR, nel rispetto delle previsioni recate dall'articolo 13, comma 2. Copia della richiesta e' inoltrata tempestivamente all'UIP nazionale.
 
-#### Art. 17
+### Art. 17
 
 Modalita' di scambio delle informazioni
 
@@ -752,7 +746,7 @@ Modalita' di scambio delle informazioni
 
 2\. In casi di emergenza, il punto di contatto nazionale e' l'UIP nazionale.
 
-#### Art. 18
+### Art. 18
 
 Trasferimento dei dati PNR a Europol
 
@@ -766,7 +760,7 @@ Trasferimento dei dati PNR a Europol
 
 > Il regolamento (UE) 2016/794 del Parlamento europeo e del Consiglio dell'11 maggio 2016 che istituisce l'Agenzia dell'Unione europea per la cooperazione nell'attivita' di contrasto (Europol) e sostituisce e abroga le decisioni del Consiglio 2009/371/GAI, 2009/934/GAI, 2009/935/GAI, 2009/936/GAI e 2009/968/GAI, e' pubblicato nella G.U.U.E. 24 maggio 2016, n. L 135.
 
-#### Art. 19
+### Art. 19
 
 Trasferimento dei dati PNR a Paesi terzi
 
@@ -790,11 +784,9 @@ b) il consenso preliminare non possa essere ottenuto in tempo utile.
 
 > Per i riferimenti normativi della direttiva (UE) 2016/680, si veda nelle note alle premesse.
 
-## Capo IV
+## Capo IV - Disposizioni in materia di protezione dei dati personali
 
-### Disposizioni in materia di protezione dei dati personali
-
-#### Art. 20
+### Art. 20
 
 Autorita' nazionale di controllo
 
@@ -802,7 +794,7 @@ Autorita' nazionale di controllo
 
 2\. La medesima autorita', su richiesta dell'interessato, esprime pareri in merito all'esercizio dei diritti di protezione dei dati personali derivanti dalle disposizioni del presente decreto.
 
-#### Art. 21
+### Art. 21
 
 Responsabile della protezione dei dati
 
@@ -818,7 +810,7 @@ Responsabile della protezione dei dati
 
 > Per i riferimenti normativi della direttiva (UE) 2016/680 si veda nelle note alle premesse.
 
-#### Art. 22
+### Art. 22
 
 Protezione dei dati personali
 
@@ -864,7 +856,7 @@ Detti registri, anche in relazione alle esigenze di tracciamento e monitoraggio 
 
 > TITOLO III Difesa e sicurezza dello stato».
 
-#### Art. 23
+### Art. 23
 
 Diritti dell'interessato
 
@@ -892,11 +884,9 @@ Diritti dell'interessato
 
 > 5\. Chiunque viene a conoscenza dell'esistenza di dati personali che lo riguardano, trattati anche in forma non automatizzata in violazione di disposizioni di legge o di regolamento, puo' chiedere al tribunale del luogo ove risiede il titolare del trattamento di compiere gli accertamenti necessari e di ordinare la rettifica, l'integrazione, la cancellazione o la trasformazione in forma anonima dei dati medesimi.».
 
-## Capo V
+## Capo V - Disposizioni sanzionatorie e finali
 
-### Disposizioni sanzionatorie e finali
-
-#### Art. 24
+### Art. 24
 
 Sanzioni
 
@@ -1026,7 +1016,7 @@ Sanzioni
 
 > 9-septies. Il Dipartimento della pubblica sicurezza del Ministero dell'interno assicura, nell'ambito delle attivita' di contrasto dell'immigrazione irregolare, la gestione e il monitoraggio, con modalita' informatiche, dei procedimenti amministrativi riguardanti le posizioni di ingresso e soggiorno irregolare anche attraverso il Sistema Informativo Automatizzato. A tal fine sono predisposte le necessarie interconnessioni con il Centro elaborazione dati interforze di cui all'art. 8 della legge 1° aprile 1981, n. 121, con il Sistema informativo Schengen di cui al regolamento CE 1987/2006 del 20 dicembre 2006 nonche' con il Sistema Automatizzato di Identificazione delle Impronte ed e' assicurato il tempestivo scambio di informazioni con il Sistema gestione accoglienza del Dipartimento per le liberta' civili e l'immigrazione del medesimo Ministero dell'interno.».
 
-#### Art. 25
+### Art. 25
 
 Statistiche
 
@@ -1036,7 +1026,7 @@ a) il numero totale di passeggeri i cui dati PNR sono stati raccolti e scambiati
 
 b) il numero di passeggeri individuati a fini di ulteriori verifiche ai sensi dell'articolo 6, comma 2, lettera b).
 
-#### Art. 26
+### Art. 26
 
 Disposizioni transitorie e finali
 
@@ -1046,7 +1036,7 @@ Disposizioni transitorie e finali
 
 3\. Il Dipartimento della Pubblica Sicurezza provvede ad effettuare il monitoraggio della congruita' delle risorse finanziarie destinate alla realizzazione del Sistema Informativo nonche', a partire dall'esercizio finanziario 2019, di quelle destinate al funzionamento dello stesso.
 
-#### Art. 27
+### Art. 27
 
 Clausola di neutralita' finanziaria
 

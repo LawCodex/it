@@ -24,11 +24,11 @@ Ha sanzionato e promulga la seguente legge approvata dall'Assemblea Costituente:
 
 ## TITOLO I - DELL'ELETTORATO ATTIVO.
 
-#### Art. 1
+### Art. 1
 
 Sono elettori tutti i cittadini italiani che abbiano compiuto il 21° anno di eta' e non si trovino in alcuna delle condizioni previste dall'art. 2.
 
-#### Art. 2
+### Art. 2
 
 Non sono elettori:
 
@@ -64,13 +64,13 @@ Le disposizioni dei numeri 5, 6, 7 e 8 non si applicano se la sentenza di condan
 
 ## TITOLO II - DELLE LISTE ELETTORALI.
 
-#### Art. 3
+### Art. 3
 
 Sono iscritti d'ufficio nelle liste elettorali i cittadini che, possedendo i requisiti per essere elettori e non essendo incorsi nella perdita definitiva o temporanea del diritto elettorale attivo, sono compresi nel registro della popolazione stabile del comune.
 
 ((COMMA SOPPRESSO DALLA L. 22 GENNAIO 1966, N. 1)).
 
-#### Art. 4
+### Art. 4
 
 ((Le liste elettorali, distinte per uomini e donne, sono compilate in ordine alfabetico in doppio esemplare e indicano per ogni iscritto:
 
@@ -96,7 +96,7 @@ Entrambi gli esemplari delle nuove liste unificate, previa approvazione da parte
 
 Le vecchie liste sono conservate rispettivamente dall'ufficio comunale e dalla Commissione elettorale mandamentale finche' non si procedera' ad una nuova unificazione)).
 
-#### Art. 5
+### Art. 5
 
 Presso ogni comune e' istituito lo schedario elettorale, che e' formato di una parte principale e di due compartimenti ed e' tenuto in ordine alfabetico.
 
@@ -120,7 +120,7 @@ AGGIORNAMENTO (6)
 
 La L. 22 gennaio 1966, n. 1 ha disposto (con l'art. 32) che "All'articolo 5, secondo comma, della legge 7 ottobre 1947, n. 1058, la parola "elettore" e' soppressa."
 
-#### Art. 6
+### Art. 6
 
 ((Il sindaco, in base ai registri dello stato civile e dell'anagrafe e sulla scorta dello schedario elettorale, provvede:
 
@@ -130,7 +130,7 @@ b) entro il mese di agosto, alla compilazione di un elenco in ordine alfabetico,
 
 In caso di distruzione totale o parziale o d'irregolare tenuta del registro di popolazione, vi suppliscono le indicazioni fornite dagli atti dello stato civile, dalle liste di leva e dai ruoli matricolari depositati nell'archivio comunale. Ove manchino anche tali indicazioni, puo' farsi ricorso a registri, atti e documenti in possesso di altri enti od uffici.
 
-#### Art. 7
+### Art. 7
 
 ((Entro i termini stabiliti dal primo comma dell'articolo precedente, il sindaco trasmette, per ogni singolo nominativo, un estratto dell'elenco ivi previsto agli uffici dei casellari giudiziali competenti)).
 
@@ -138,19 +138,19 @@ Per coloro che abbiano ottenuto la cittadinanza italiana e per i cittadini itali
 
 ((Gli uffici dei casellari, rispettivamente entro il 20 marzo ed il 20 settembre, restituiscono ai Comuni gli estratti suddetti, previa apposizione della annotazione "Nulla" per ciascun nominativo nei cui confronti non sussista alcuna iscrizione per reati che comportino la perdita della capacita' elettorale, e della trascrizione, per gli altri nominativi, delle iscrizioni esistenti, osservato il disposto di cui all'articolo 609 del codice di procedura penale)).
 
-#### Art. 8
+### Art. 8
 
 ((L'autorita' provinciale di pubblica sicurezza trasmette ai Comuni, rispettivamente entro il 20 marzo ed il 20 settembre, l'elenco dei cittadini che si trovino sottoposti alle misure di prevenzione previste dall'articolo 3 della legge 27 dicembre 1956, n. 1423, e che abbiano compiuto o compiano il 21° anno di eta' entro il semestre successivo)).
 
-#### Art. 9
+### Art. 9
 
 ((ARTICOLO SOPPRESSO DALLA L. 22 GENNAIO 1966, N. 1))
 
-#### Art. 10
+### Art. 10
 
 ((ARTICOLO SOPPRESSO DALLA L. 22 GENNAIO 1966, N. 1))
 
-#### Art. 11
+### Art. 11
 
 ((I cittadini italiani che vengono cancellati dal registro di popolazione stabile del Comune per emigrazione definitiva all'estero restano iscritti nelle liste elettorali del Comune per sei anni a decorrere dalla data della cancellazione anagrafica, sempreche' conservino i requisiti per essere elettori.
 
@@ -168,7 +168,7 @@ Per coloro che domandano la iscrizione o la reiscrizione nelle liste il sindaco 
 
 Della condizione di cittadino residente all'estero e' fatta apposita annotazione nelle liste generali e sezionali e nello schedario elettorale)).
 
-#### Art. 12
+### Art. 12
 
 ((Il Consiglio comunale, nella prima seduta, successiva alla elezione del sindaco e della Giunta municipale, elegge, nel proprio seno, la Commissione elettorale comunale. La Commissione rimane in carica fino all'insediamento di quella eletta dal nuovo Consiglio.
 
@@ -200,7 +200,7 @@ Finche' la Commissione non sara' ricostituita, in case di necessita' le relative
 
 Nei Comuni retti da commissario, i componenti della Commissione elettorale comunale restano in carica sotto la presidenza del commissario stesso; nel caso in cui non si raggiunga il minimo legale nella riunione di seconda convocazione provvede il commissario)).
 
-#### Art. 13
+### Art. 13
 
 ((Non oltre il 10 aprile ed il 10 ottobre di ciascun anno, la Commissione elettorale comunale procede alla formazione, in ordine alfabetico, di due elenchi separati per la revisione semestrale delle liste.
 
@@ -212,11 +212,11 @@ Nel secondo elenco la Commissione propone la cancellazione degli iscritti che so
 
 Accanto a ciascun nominativo va apposta un'annotazione indicante il titolo ed i documenti per i quali l'iscrizione o la cancellazione e' proposta)).
 
-#### Art. 14
+### Art. 14
 
 Di tutte le operazioni compiute dalla Commissione comunale per la revisione delle liste elettorali il segretario redige, su apposito registro, il verbale che e' sottoscritto dai membri della Commissione presenti alla seduta e dal segretario. Quando le deliberazioni della Commissione non siano concordi, il verbale deve recare l'indicazione del voto di ciascuno dei componenti e delle ragioni addotte anche dai dissenzienti.
 
-#### Art. 15
+### Art. 15
 
 ((Entro l'11 aprile e l'11 ottobre di ciascun anno il sindaco invita, con manifesto da affiggersi all'albo comunale e in altri luoghi pubblici, chiunque intenda proporre ricorsi contro le decisioni della Commissione elettorale comunale, adottate ai sensi dell'articolo 13, a presentarli rispettivamente non oltre il 20 aprile e il 20 ottobre con le modalita' di cui al successivo articolo 17)).
 
@@ -236,7 +236,7 @@ Il primo e il secondo comma sono sostituiti dai seguenti:
 
 Durante questo periodo un esemplare delle liste generali, maschili e femminili, sottoscritto dal presidente della Commissione elettorale comunale e dal segretario, deve rimanere depositato nell'ufficio comunale, insieme con i titoli e i documenti relativi a ciascun nominativo. Ogni cittadino ha diritto di prenderne visione."
 
-#### Art. 16
+### Art. 16
 
 La pubblicazione prescritta dall'articolo precedente tiene luogo di notificazione nei confronti di coloro dei quali la Commissione comunale ha proposto l'iscrizione nelle liste elettorali.
 
@@ -244,7 +244,7 @@ La pubblicazione prescritta dall'articolo precedente tiene luogo di notificazion
 
 La notificazione e' eseguita per mezzo degli agenti comunali, che devono chiedere il rilascio di apposita ricevuta. In mancanza di ricevuta, l'attestazione degli agenti circa l'avvenuta notificazione fa fede fino a prova in contrario.
 
-#### Art. 17
+### Art. 17
 
 Ogni cittadino, nel termine indicato nell'art. 15, puo' ricorrere alla Commissione elettorale mandamentale contro qualsiasi iscrizione, cancellazione, diniego di iscrizione od omissione di cancellazione negli elenchi proposti dalla Commissione comunale. ((1))
 
@@ -266,7 +266,7 @@ Il primo comma e' sostituito dal seguente:
 
 "Ogni cittadino, entro il 26 dicembre 1947, puo' ricorrere alla Commissione elettorale mandamentale contro qualsiasi iscrizione o diniego di iscrizione nelle liste generali predisposte dalla Commissione elettorale comunale".
 
-#### Art. 18
+### Art. 18
 
 In ogni Comune capoluogo di mandamento giudiziario, dopo l'insediamento del Consiglio provinciale, e' costituita, con decreto del presidente della Corte d'appello, una Commissione elettorale mandamentale, ((dal prefetto o da un suo delegato)) , e composta da quattro membri effettivi e da quattro membri supplenti, di cui uno effettivo ed uno supplente designati dal prefetto e tre effettivi e tre supplenti designati dal Consiglio provinciale.((8))
 
@@ -308,7 +308,7 @@ AGGIORNAMENTO (8)
 
 Il D.Lgs. 19 febbraio 1998, n. 51 ha disposto (con l'art. 247, comma 1) che la presente modifica entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace decorso il termine stabilito dall'articolo 1, comma 1, lettera r), della legge 16 luglio 1997.
 
-#### Art. 19
+### Art. 19
 
 Nei mandamenti che abbiano una popolazione superiore ai 50.000 abitanti possono essere costituite, su proposta del presidente della Commissione mandamentale, Sottocommissioni elettorali in proporzione di una per ogni 50.000 abitanti o frazione di 50.000. ((PERIODO ABROGATO DAL D.LGS. 19 FEBBRAIO 1998, N. 51)). Le Sottocommissioni sono presiedute da magistrati in attivita' di servizio, a riposo od onorari ed hanno la stessa composizione prevista per la Commissione elettorale mandamentale. Il presidente della Commissione mandamentale ripartisce i compiti fra questa e le Sottocommissioni e ne coordina e vigila la attivita'. ((8a))
 
@@ -326,13 +326,13 @@ AGGIORNAMENTO (8a)
 
 Il D.Lgs. 19 febbraio 1998, n. 51, come modificato dalla L. 16 giugno 1998, n. 188, ha disposto (con l'art. 247, comma 1) che la presente modifica ha effetto "a decorrere dal 2 giugno 1999, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
 
-#### Art. 20
+### Art. 20
 
 Qualora la circoscrizione di un mandamento giudiziario comprenda comuni di piu' provincie, il Primo presidente della Corte d'appello puo' determinare con proprio decreto, la competenza territoriale delle Commissioni elettorali in maniera che essa sia esercitata nell'ambito di una sola provincia.
 
 Analogamente il Primo presidente della Corte d'appello, quando la situazione dei luoghi lo consigli, ha facolta' di determinare, con proprio decreto, la competenza territoriale della Commissione elettorale mandamentale in difformita' della circoscrizione giudiziaria.
 
-#### Art. 21
+### Art. 21
 
 La Commissione elettorale mandamentale e le Sottocommissioni compiono le proprie operazioni con l'intervento del presidente e di almeno due commissari.
 
@@ -346,7 +346,7 @@ Le decisioni devono essere motivate; quando esse non siano concordi, nel verbale
 
 Copia dei verbali e' trasmessa, entro il termine di giorni cinque, al prefetto ed al procuratore della Repubblica presso il tribunale competente per territorio.
 
-#### Art. 22
+### Art. 22
 
 ((Decorso il termine di cui all'articolo 15, e rispettivamente non piu' tardi del 23 aprile e del 23 ottobre, il sindaco deve trasmettere al presidente della Commissione elettorale mandamentale:
 
@@ -380,7 +380,7 @@ Il primo e il secondo comma sono sostituiti dai seguenti:
 
 L'altro esemplare delle liste rimane conservato nella segreteria del Comune".
 
-#### Art. 23
+### Art. 23
 
 La Commissione elettorale mandamentale:
 
@@ -410,7 +410,7 @@ Il terzo comma e' sostituito dal seguente:
 
 "La Commissione si raduna non prima del sesto giorno successivo a quello nel quale ha ricevuto gli atti".
 
-#### Art. 24
+### Art. 24
 
 ((Entro il 10 giugno e il 10 dicembre, la Commissione elettorale mandamentale deve avere provveduto alla approvazione degli elenchi ed alle relative variazioni da effettuare sull'esemplare delle liste generali depositate presso la Commissione stessa. Nei medesimi termini gli elenchi devono essere restituiti al Comune insieme con tutti i documenti. Il segretario comunale ne invia immediatamente ricevuta al presidente della commissione.
 
@@ -424,7 +424,7 @@ Le liste rettificate, insieme con gli elenchi approvati, debbono rimanere deposi
 
 Tale pubblicazione tiene luogo di notificazione nei confronti dei cittadini iscritti dalla Commissione elettorale mandamentale nelle liste elettorali)).
 
-#### Art. 25
+### Art. 25
 
 Alle liste elettorali, rettificate in conformita' dei precedenti articoli, non possono apportarsi, sino alla revisione ((del semestre)) successivo, altre variazioni se non in conseguenza:
 
@@ -450,7 +450,7 @@ La Commissione mandamentale decide sui ricorsi nel termine di 15 giorni dalla lo
 
 Per i cittadini residenti all'estero si osservano le disposizioni degli articoli 11, 17 e 23.
 
-#### Art. 25-bis
+### Art. 25-bis
 
 ((Entro dieci giorni dalla data di pubblicazione del manifesto di convocazione dei comizi elettorali, la Commissione elettorale comunale compila un elenco in triplice copia dei cittadini che, pur essendo compresi nelle liste elettorali, non avranno compiuto, nel primo giorno fissato per le elezioni, il 21ª anno di eta'.
 
@@ -460,11 +460,9 @@ Delle altre due copie una e' pubblicata nell'albo pretorio del Comune, l'altra r
 
 Contro l'inclusione o l'esclusione nell'anzidetto elenco e' ammesso ricorso da parte di ogni cittadino alla Commissione elettorale mandamentale)).
 
-## TITOLO III - DELLA RIPARTIZIONE DEI COMUNI IN SEZIONI ELETTORALI
+## TITOLO III - DELLA RIPARTIZIONE DEI COMUNI IN SEZIONI ELETTORALI E DELLA COMPILAZIONE DELLE LISTE DI SEZIONE
 
-### E DELLA COMPILAZIONE DELLE LISTE DI SEZIONE
-
-#### Art. 26
+### Art. 26
 
 Ogni comune e' diviso in sezioni elettorali.
 
@@ -472,21 +470,21 @@ La divisione in sezioni e' fatta indistintamente per ((iscritti)) di sesso masch
 
 Quando particolari condizioni di lontananza o di viabilita' rendano difficile l'esercizio del diritto elettorale, si possono costituire sezioni con un numero minore di 100 iscritti, ma non inferiore a 50.
 
-#### Art. 27
+### Art. 27
 
 ((Entro il 10 aprile e il 10 ottobre di ciascun anno, la Commissione elettorale comunale, dopo aver compiuto gli adempimenti di cui all'articolo 13, provvede, con una unica deliberazione, alla revisione della ripartizione del Comune in sezioni elettorali, della circoscrizione delle sezioni e del luogo di riunione di ciascuna di esse e dell'assegnazione degli iscritti alle singole sezioni, nonche' alla revisione delle liste per le sezioni gia' esistenti ed alla compilazione delle liste delle persone iscritte per ogni nuova sezione)).
 
-#### Art. 28
+### Art. 28
 
 ((Il cittadino iscritto e' assegnato alla sezione nella cui circoscrizione ha, secondo l'indicazione della lista generale, la propria abitazione.
 
 I connazionali residenti all'estero sono ripartiti tra le singole sezioni secondo l'ordine alfabetico, salvoche', per la loro entita' numerica, si renda necessaria l'istituzione di apposite sezioni)).
 
-#### Art. 29
+### Art. 29
 
 Le liste di sezione devono essere compilate distintamente per sesso, in triplice esemplare, e contenere due colonne rispettivamente per le firme di identificazione degli elettori e per le firme di riscontro per l'accertamento dei votanti; le liste vanno sottoscritte dai componenti della Commissione comunale e dal segretario e devono recare il bollo dell'ufficio comunale.
 
-#### Art. 30
+### Art. 30
 
 Possono avere sede nello stesso fabbricato sino a quattro sezioni; ma l'accesso dalla strada alla sala deve condurre solo a due sezioni e non piu' di due sezioni possono avere l'accesso dalla medesima strada.
 
@@ -496,7 +494,7 @@ Quando, per sopravvenute gravi circostanze, sorga la necessita' di variare i luo
 
 Qualora la variazione sia approvata, il presidente della Commissione mandamentale ne da' immediato avviso al prefetto e al sindaco, il quale deve portarla a conoscenza del pubblico con manifesto da affiggersi due giorni prima del giorno delle elezioni.
 
-#### Art. 31
+### Art. 31
 
 ((Non piu' tardi dell'11 aprile e dell'11 ottobre, il sindaco, con il medesimo manifesto di cui all'articolo 15, invita chiunque intenda proporre ricorsi contro la ripartizione del Comune in sezioni, la circoscrizione delle sezioni, la determinazione dei luoghi di riunione di ciascuna di esse, l'assegnazione degli iscritti alle singole sezioni, a presentarli rispettivamente entro il 20 aprile e il 20 ottobre alla Commissione elettorale mandamentale, anche per il tramite del Comune, che ne rilascia ricevuta)).
 
@@ -518,7 +516,7 @@ La L. 12 dicembre 1947, n. 1379 ha disposto (con l'art. 1) che "Per la prima for
 
 Il termine di cui al penultimo comma e' anticipato al 31 dicembre 1947."
 
-#### Art. 32
+### Art. 32
 
 ((entro il 10 giugno e il 10 dicembre)) la Commissione mandamentale decide sui reclami, approva le nuove liste di sezione e le variazioni a quelle delle sezioni preesistenti, tenendo conto delle decisioni adottate ai sensi dell'art. 23, e autentica le liste, attestando in calce a ciascuna di esse il numero ((degli iscritti)) che vi sono compresi, dopo aver riportato sopra i due esemplari delle liste relative alle sezioni preesistenti depositati presso di essa, le variazioni gia' approvate.(1)(5)
 
@@ -552,7 +550,7 @@ AGGIORNAMENTO (5)
 
 La L. 9 febbraio 1963, n. 46 ha disposto (con l'art. 1) che "In caso di indizione delle elezioni politiche per una data compresa tra il 1° ed il 30 aprile, i termini previsti dal primo e dall'ultimo comma dell'articolo 24 e dal primo comma dell'articolo 32 della legge 7 ottobre 1947, n. 1058, sono anticipati, ad ogni effetto, per l'anno in cui tale indizione si verifica, di un numero di giorni pari a quelli che intercorrono fra la data della votazione e il 1 maggio."
 
-#### Art. 32-bis
+### Art. 32-bis
 
 ((Il cittadino iscritto nelle liste, che trasferisce la propria abitazione nella circoscrizione di altra sezione del Comune, deve essere compreso nella lista elettorale di quest'ultima quando il trasferimento stesso sia stato regolarmente notificato all'anagrafe.
 
@@ -560,7 +558,7 @@ La Commissione elettorale comunale apporta d'ufficio le occorrenti variazioni co
 
 ## TITOLO IV - DEI RICORSI GIUDIZIARI.
 
-#### Art. 33
+### Art. 33
 
 Contro le decisioni della Commissione elettorale mandamentale o delle sue Sottocommissioni, qualsiasi cittadino puo' proporre impugnativa davanti alla Corte di appello con semplice ricorso, sul quale il presidente fissa, con decreto, l'udienza di discussione della causa in via d'urgenza.
 
@@ -568,17 +566,17 @@ Analoga azione puo' essere promossa per falsa o erronea rettificazione delle lis
 
 Il ricorso dev'essere notificato, col relativo decreto di fissazione d'udienza, ((al cittadino o ai cittadini)) interessati ed alla Commissione elettorale, a pena di nullita', entro venti giorni dalla notificazione di cui al penultimo comma dell'art. 24 se e' proposto dallo stesso cittadino che aveva reclamato o aveva presentato direttamente alla Commissione una domanda d'iscrizione o era stato dalla Commissione medesima cancellato dalle liste; entro trenta giorni dall'ultimo giorno di pubblicazione della lista rettificata, negli altri casi. I termini anzidetti sono raddoppiati per i cittadini residenti all'estero di cui all'art. 11.
 
-#### Art. 34
+### Art. 34
 
 Il ricorso coi relativi documenti dev'essere, a pena di decadenza, depositato nella cancelleria della Corte di appello entro dieci giorni dalla notifica. La causa e' decisa, senza che occorra ministero di procuratore o di avvocato, sulla relazione fatta in udienza pubblica da un consigliere della Corte, sentite le parti o i loro difensori, se si presentano, ed il pubblico ministero nelle sue conclusioni orali.
 
 Per i cittadini residenti all'estero, il ricorso e' depositato entro il termine di sessanta giorni dalla data della notificazione.
 
-#### Art. 35
+### Art. 35
 
 Il ricorso puo' essere proposto anche dal procuratore della Repubblica presso il tribunale competente per territorio nello stesso termine e con le stesse modalita' di cui ai precedenti articoli 33 e 34; nel medesimo termine, il procuratore della Repubblica, qualora riscontri nel fatto che ha dato origine al ricorso estremi di reato, promuove l'azione penale.
 
-#### Art. 36
+### Art. 36
 
 Le sentenze della Corte d'appello sono comunicate immediatamente dalla cancelleria, oltreche' al presidente della Commissione elettorale mandamentale, al sindaco che ne cura l'esecuzione e la notificazione, senza spesa, agli interessati.
 
@@ -590,13 +588,13 @@ Sul semplice ricorso il presidente fissa, in via di urgenza, l'udienza per la di
 
 Per l'esecuzione e notificazione delle sentenze della Corte di cassazione si osservano le disposizioni di cui al primo comma.
 
-#### Art. 37
+### Art. 37
 
 I ricorsi giudiziari non hanno effetto sospensivo dei provvedimenti o delle decisioni contro i quali sono proposti.
 
 ## TITOLO V - DISPOSIZIONI VARIE.
 
-#### Art. 38
+### Art. 38
 
 Qualora per effetto di modificazioni intervenute nelle circoscrizioni comunali occorra procedere alla compilazione delle liste elettorali di un nuovo comune, questo e' tenuto a provvedervi, non oltre novanta giorni dalla pubblicazione nella Gazzetta Ufficiale del decreto col quale e' costituito, mediante stralcio dei propri ((iscritti)) dalle liste del comune ex capoluogo.
 
@@ -610,15 +608,15 @@ Qualora la pubblicazione del decreto recante modificazioni nella circoscrizione 
 
 Nel caso in cui il decreto sia pubblicato dopo la convocazione dei comizi elettorali, i termini previsti dal presente articolo decorrono dal decimo giorno successivo a quello stabilito per le elezioni. Ove la convocazione sia stata indetta per la elezione dei Consigli comunali, i comizi sono sospesi con provvedimento del prefetto e i termini anzidetti decorrono dalla data del provvedimento di sospensione.
 
-#### Art. 39
+### Art. 39
 
 A richiesta dei comuni e delle Commissioni elettorali, i pubblici uffici devono fornire i documenti necessari per gli accertamenti relativi alla revisione delle liste.
 
-#### Art. 40
+### Art. 40
 
 Tutti gli atti concernenti l'esercizio del diritto elettorale, relativi al procedimento amministrativo o al giudiziario, sono redatti in carta libera ed esenti dalla tassa di registro, dal deposito in caso di soccombenza per il ricorso in cassazione e dalle spese di cancelleria.
 
-#### Art. 41
+### Art. 41
 
 Gli atti relativi alla revisione ((semestrale)) delle liste elettorali sono sempre ostensibili a chiunque.
 
@@ -630,11 +628,11 @@ Le liste devono recare l'indicazione dell'anno e del numero di protocollo dell'i
 
 Chiunque puo' copiare, stampare o mettere in vendita le liste elettorali del comune.
 
-#### Art. 42
+### Art. 42
 
 Il sindaco o chi ne esercita le funzioni, i componenti delle Commissioni elettorali ed i rispettivi segretari sono personalmente responsabili della regolarita' degli adempimenti loro assegnati dalla presente legge.
 
-#### Art. 43
+### Art. 43
 
 In caso di ritardo, da parte degli organi comunali, nell'adempimento dei compiti prescritti dalla presente legge, il prefetto delega un suo commissario.
 
@@ -644,41 +642,41 @@ Delle infrazioni alla legge, che hanno provocato l'invio del commissario, il pre
 
 ## TITOLO VI - DISPOSIZIONI PENALI.
 
-#### Art. 44
+### Art. 44
 
 Chiunque, essendovi obbligato per legge, non compie, nei termini e modi prescritti, le operazioni per la tenuta e la revisione delle liste ((elettorali)), la compilazione e l'affissione degli elenchi o non fa eseguire le notificazioni relative o non cura la conservazione delle liste e degli atti relativi, e' punito con l'ammenda da lire 1000 a lire 5000.
 
 Se l'omissione e' dolosa, la pena e' della reclusione sino ad un anno e della multa da lire 2000 a lire 10.000.
 
-#### Art. 45
+### Art. 45
 
 Chiunque iscrive nelle liste o negli elenchi un ((cittadino)) che non aveva il diritto di essere iscritto o cancella un ((cittadino)) che non doveva essere cancellato, ovvero non iscrive un ((cittadino)) che aveva il diritto all'iscrizione o non cancella un ((cittadino)) che doveva essere cancellato, ovvero include o sposta arbitrariamente schede dallo schedario di cui all'art. 5, e' punito con l'ammenda da lire 1000 a lire 5000.
 
 Se il fatto e' doloso, la pena e' della reclusione sino ad un anno e della multa da lire 2000 a lire 10.000.
 
-#### Art. 46
+### Art. 46
 
 Chiunque forma una lista o un elenco ((di cittadini iscritti nelle liste elettorali)) in tutto o in parte falsi, ovvero altera o sopprime, in tutto o in parte, una lista o un elenco ((di cittadini iscritti nelle liste elettorali)), e' punito con la reclusione sino a tre anni e con la multa da lire 3000 a lire 20.000.
 
 Alla stessa pena soggiace chiunque sottrae od altera schede, registri e documenti relativi alle liste ed agli elenchi ((di cittadini iscritti nelle liste elettorali)).
 
-#### Art. 47
+### Art. 47
 
 Chiunque, con qualsiasi mezzo atto ad ingannare o sorprendere l'altrui buona fede, ottiene indebitamente per se' o per altri che sia effettuata un'iscrizione o non sia effettuata una cancellazione negli elenchi e nelle liste degli elettori o che sia effettuata la cancellazione d'uno o ((piu' cittadini)), e' punito con la reclusione sino ad un anno e con la multa da lire 1000 a lire 10.000.
 
 Tali pene sono aumentate di un sesto se il colpevole sia componente di una Commissione elettorale comunale o mandamentale.
 
-#### Art. 48
+### Art. 48
 
 Chiunque proponga, a termini dell'art. 33, un'impugnativa avverso le decisioni della Commissione elettorale mandamentale o delle Sottocommissioni, o per falsa od erronea rettificazione delle liste elettorali, e' punito, ove il ricorso sia riconosciuto temerario o manifestamente infondato, con la multa da lire 1000 a lire 5000.
 
 La condanna e' pronunciata dalla Corte di appello con la medesima sentenza che rigetta l'impugnativa.
 
-#### Art. 49
+### Art. 49
 
 Chiunque, contrariamente alle disposizioni della presente legge, rifiuta di pubblicare ovvero di far prendere notizia o copia degli elenchi e delle liste ((elettorali)) e dei relativi documenti, e' punito con la reclusione sino a sei mesi e con la multa da lire 1000 a lire 5000.
 
-#### Art. 50
+### Art. 50
 
 Le condanne per i reati previsti dal presente titolo, ove venga dal giudice applicata la pena della reclusione, importano sempre l'interdizione dai pubblici uffici per un tempo non minore di due e non superiore a cinque anni.
 
@@ -690,45 +688,45 @@ Ai delitti dolosi previsti dal presente titolo non sono applicabili le disposizi
 
 ## TITOLO VII - DISPOSIZIONI TRANSITORIE E FINALI.
 
-#### Art. 51
+### Art. 51
 
 ((ARTICOLO ABROGATO DALLA L. 22 GENNAIO 1966, N. 1))
 
-#### Art. 52
+### Art. 52
 
 ((ARTICOLO SOPPRESSO DALLA L. 22 GENNAIO 1966, N. 1))
 
-#### Art. 53
+### Art. 53
 
 ((ARTICOLO ABROGATO DALLA L. 22 GENNAIO 1966, N. 1))
 
-#### Art. 54
+### Art. 54
 
 ((ARTICOLO ABROGATO DALLA L. 22 GENNAIO 1966, N. 1))
 
-#### Art. 55
+### Art. 55
 
 ((ARTICOLO ABROGATO DALLA L. 22 GENNAIO 1966, N. 1))
 
-#### Art. 56
+### Art. 56
 
 ((ARTICOLO ABROGATO DALLA L. 22 GENNAIO 1966, N. 1))
 
-#### Art. 57
+### Art. 57
 
 Le spese per la tenuta e la revisione annuale delle liste elettorali sono a carico dei comuni, ad eccezione di quelle per la prima revisione che sono assunte a carico dello Stato.
 
 Le spese per il funzionamento delle Commissioni elettorali mandamentali e delle eventuali Sottocommissioni gravano sul bilancio dei comuni compresi nella circoscrizione del mandamento giudiziario e sono ripartite tra i comuni medesimi in base alla rispettiva popolazione elettorale. Il riparto e' reso esecutorio dal Prefetto.
 
-#### Art. 58
+### Art. 58
 
 Il Ministro per il tesoro e' autorizzato a provvedere, con propri decreti, alle variazioni da introdurre in bilancio in dipendenza delle disposizioni della presente legge.
 
-#### Art. 59
+### Art. 59
 
 Sono abrogate le disposizioni contrarie o comunque incompatibili con la presente legge.
 
-#### Art. 60
+### Art. 60
 
 La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica.
 

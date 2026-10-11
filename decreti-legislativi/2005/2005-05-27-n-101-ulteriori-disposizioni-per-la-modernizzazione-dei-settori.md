@@ -41,11 +41,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I - Norme in materia di soggetti ed attivita', integrita' aziendale e
+## Capo I - Norme in materia di soggetti ed attivita', integrita' aziendale e semplificazione amministrativa in agricoltura.
 
-### semplificazione amministrativa in agricoltura.
-
-#### Art. 1
+### Art. 1
 
 Imprenditore agricolo professionale
 
@@ -243,7 +241,7 @@ c) dopo il comma 3, e' inserito il seguente:
 
 > 5-quinquies. L'art. 12 della legge 9 maggio 1975, n. 153, e successive modificazioni, e' abrogato.
 
-#### Art. 2
+### Art. 2
 
 Societa' agricole
 
@@ -275,7 +273,7 @@ b) sono aggiunte, in fine, le seguenti parole: «e per ogni altro adempimento a 
 
 > 4-bis. Le agevolazioni di cui al comma 4 sono riconosciute anche alle societa' agricole di persone con almeno un socio coltivatore diretto, alle societa' agricole di capitali con almeno un amministratore coltivatore diretto, nonche' alle societa' cooperative con almeno un amministratore socio coltivatore diretto, iscritti nella relativa gestione previdenziale e assistenziale. In ogni caso le agevolazioni, se richieste dalla societa', non possono essere riconosciute anche al coltivatore diretto socio o amministratore. La perdita dei requisiti di cui al presente comma nei cinque anni dalla data di applicazione delle agevolazioni determina la decadenza dalle agevolazioni medesime.».
 
-#### Art. 3
+### Art. 3
 
 Conservazione dell'integrita' fondiaria
 
@@ -327,7 +325,7 @@ Gli onorari notarili in tale ipotesi sono determinati in misura fissa, con appli
 
 > 11-quater. La costituzione di compendio unico puo' avvenire anche in riferimento a terreni agricoli e relative pertinenze gia' di proprieta' della parte, mediante dichiarazione unilaterale del proprietario resa innanzi a notaio nelle forme dell'atto pubblico. Gli onorari notarili in tale ipotesi sono determinati in misura fissa, con applicazione della voce di tariffa di cui all'art. 6, comma 2, della tariffa degli onorari spettanti ai notai approvata con decreto del Ministero della giustizia del 27 novembre 2001, pubblicato nella Gazzetta Ufficiale n. 292 del 17 dicembre 2001".».
 
-#### Art. 4
+### Art. 4
 
 Semplificazione degli adempimenti amministrativi
 
@@ -423,11 +421,9 @@ L'indennita' aggiuntiva di cui al comma 1 e' determinata ai sensi dell'articolo 
 
 > 5\. Le disposizioni di cui al presente articolo si applicano anche agli atti di acquisto posti in essere in data antecedente di almeno cinque anni la data di entrata in vigore del presente decreto.».
 
-## Capo II - Norme in materia di interventi finanziari
+## Capo II - Norme in materia di interventi finanziari a sostegno delle imprese agricole
 
-### a sostegno delle imprese agricole
-
-#### Art. 5
+### Art. 5
 
 Interventi per favorire la capitalizzazione delle imprese
 

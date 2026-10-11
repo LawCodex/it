@@ -28,15 +28,15 @@ promulga
 
 la seguente legge:
 
-#### Art. 1 - Autorizzazione alla ratifica
+### Art. 1 - Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare il Trattato di amicizia, partenariato e cooperazione tra la Repubblica italiana e la Grande Giamahiria araba libica popolare socialista, fatto a Bengasi il 30 agosto 2008.
 
-#### Art. 2 - Ordine di esecuzione
+### Art. 2 - Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data al Trattato di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 23 del Trattato stesso.
 
-#### Art. 3
+### Art. 3
 
 ((ARTICOLO ABROGATO DAL D.L. 21 GIUGNO 2022, N. 73)) ((3))
 
@@ -46,7 +46,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 21 giugno 2022, n. 73 ha disposto (con l'art. 9, comma 2) che la presente abrogazione ha effetto a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2020.
 
-#### Art. 4 - Riconoscimento di un ulteriore indennizzo ai soggetti titolari di beni, diritti e interessi sottoposti in Libia a misure limitative
+### Art. 4 - Riconoscimento di un ulteriore indennizzo ai soggetti titolari di beni, diritti e interessi sottoposti in Libia a misure limitative
 
 1\. Ai cittadini italiani nonche' agli enti e alle societa' di nazionalita' italiana gia' operanti in Libia, in favore dei quali la legge 6 dicembre 1971, n. 1066, ha previsto la concessione di anticipazioni in relazione a beni, diritti e interessi perduti a seguito di provvedimenti adottati dalle autorita' libiche, ovvero che hanno beneficiato delle disposizioni di cui alla legge 26 gennaio 1980, n. 16, alla legge 5 aprile 1985, n. 135, nonche' alla legge 29 gennaio 1994, n. 98, e' corrisposto un ulteriore indennizzo, per gli anni dal 2009 al 2011, nei limiti delle risorse del fondo di cui al comma 5.
 
@@ -64,7 +64,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 29 dicembre 2011, n. 216, convertito con modificazioni dalla L. 24 febbraio 2012, n. 14, ha disposto (con l'art. 25-bis, comma 1, alinea) che "L'impegno di spesa di cui all'articolo 4 della legge 6 febbraio 2009, n. 7, e' prorogato alle medesime condizioni per l'anno 2012."
 
-#### Art. 5 - Copertura finanziaria
+### Art. 5 - Copertura finanziaria
 
 1\. Agli oneri derivanti dall'attuazione degli articoli 10, lettere a), b), c) e d), e 19 del Trattato di cui all'articolo 1, pari a euro 34.200.200 per l'anno 2009, a euro 74.216.200 per l'anno 2010, a euro 70.716.200 per l'anno 2011 e a euro 1.336.200 per ciascuno degli anni dal 2012 al 2029, e a quelli derivanti dall'attuazione dell'articolo 8 dello stesso Trattato, valutati in 180 milioni di euro per ciascuno degli anni dal 2009 al 2028, nonche' agli oneri derivanti dall'attuazione dell'articolo 4 della presente legge, pari a 50 milioni di euro per ciascuno degli anni dal 2009 al 2011, si provvede mediante utilizzo di quota parte delle maggiori entrate derivanti dall'attuazione dell'articolo 3.
 
@@ -78,7 +78,7 @@ AGGIORNAMENTO (2)
 
 Il D.L. 4 giugno 2013, n. 63, convertito con modificazioni dalla L. 3 agosto 2013, n. 90, ha disposto (con l'art. 21, comma 2) che "L'autorizzazione di spesa di cui all'articolo 5 della legge 6 febbraio 2009, n. 7 e' incrementata di 413,1 milioni di euro per l'anno 2024".
 
-#### Art. 6 - Entrata in vigore
+### Art. 6 - Entrata in vigore
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -90,9 +90,7 @@ NAPOLITANO
 
 Berlusconi, Presidente del Consiglio dei Ministri Frattini, Ministro degli affari esteri Visto, il Guardasigilli: Alfano
 
-## Capo I
-
-### PRINCIPI GENERALI
+## Capo I - PRINCIPI GENERALI
 
 Allegato
 
@@ -122,25 +120,25 @@ esprimendo, pertanto, l'intenzione di fare del presente Trattato il quadro giuri
 
 hanno convenuto quanto segue:
 
-#### Articolo 1
+### Articolo 1
 
 Rispetto della legalita' internazionale
 
 Le Parti, nel sottolineare la comune visione della centralita' delle Nazioni Unite nel sistema di relazioni internazionali, si impegnano ad adempiere in buona fede agli obblighi da esse sottoscritti, sia quelli derivanti dai principi e dalle norme del Diritto Internazionale universalmente riconosciuti, sia quelli inerenti al rispetto dell'Ordinamento Internazionale.
 
-#### Articolo 2
+### Articolo 2
 
 Uguagliatasi sovrana
 
 Le Parti rispettano reciprocamente la loro uguaglianza sovrana, nonche' tutti i diritti ad essa inerenti compreso, in particolare, il diritto alla liberta' ed all'indipendenza politica. Esse rispettano altresi' il diritto di ciascuna delle Parti di scegliere e sviluppare liberamente il proprio sistema politico, sociale, economico e culturale.
 
-#### Articolo 3
+### Articolo 3
 
 Non ricorso alla minaccia o all'Impiego della forza
 
 Le Parti si impegnano a non ricorrere alla minaccia o all'impiego della forza contro l'integrita' territoriale o l'indipendenza politica dell'altra Parte o a qualunque altra forma incompatibile con la Carta delle Nazioni Unite.
 
-#### Articolo 4
+### Articolo 4
 
 Non ingerenza negli affari interni
 
@@ -148,29 +146,27 @@ Non ingerenza negli affari interni
 
 2\. Nel rispetto dei principi della legalita' internazionale, l'Italia non usera', ne' permettera' l'uso dei propri territori in qualsiasi atto ostile contro la Libia e la Libia non usera', ne' permettera' l'uso dei propri territori in qualsiasi atto ostile contro l'Italia.
 
-#### Articolo 5
+### Articolo 5
 
 Soluzione pacifica delle controversie
 
 In uno spirito conforme alle motivazioni che hanno portato alla stipula del presente Trattato di Amicizia, Partenariato e Cooperazione, le Parti definiscono in modo,pacifico le controversie che potrebbero insorgere tra di loro, favorendo l'adozione di soluzioni giuste ed eque, in modo da non pregiudicare la pace e la sicurezza regionale ed internazionale.
 
-#### Articolo 6
+### Articolo 6
 
 Rispetto dei diritti umani e delle liberta' fondamentali
 
 Le Parti, di comune accordo, agiscono conformemente alle rispettive legislazioni, agli obiettivi e ai principi della Carta delle Nazioni Unite e della Dichiarazione Universale dei Diritti dell'Uomo.
 
-#### Articolo 7
+### Articolo 7
 
 Dialogo e comprensione tra culture e civilta'
 
 Le Parti adottano tutte le iniziative che consentano di disporre di uno spazio culturale comune, ispirandosi ai loro legami storici ed umani. Le iniziative suddette si ispirano ai principi della tolleranza, della coesistenza e del rispetto reciproco, della valorizzazione e dell'arricchimento del patrimonio comune materiale e immateriale, nel contesto bilaterale e regionale.
 
-## Capo II
+## Capo II - CHIUSURA DEL CAPITOLO DEL PASSATO E DEI CONTENZIOSI
 
-### CHIUSURA DEL CAPITOLO DEL PASSATO E DEI CONTENZIOSI
-
-#### Articolo 8
+### Articolo 8
 
 Progetti infrastrutturali di base
 
@@ -186,7 +182,7 @@ Progetti infrastrutturali di base
 
 6\. La Grande Giamahiria agevola la Parte italiana e le aziende esecutrici nel reperimento dei materiali accessibili in loco e nell'espletamento di procedure doganali e di importazione esentandole dal pagamento di eventuali tasse. I consumi di energia elettrica, gas, acqua e linee telefoniche, saranno pagati con l'esenzione delle tasse.
 
-#### Articolo 9
+### Articolo 9
 
 Commissione Mista
 
@@ -204,7 +200,7 @@ La Gran Giamahiria si impegna, inoltre, ad abrogare tutti i provvedimenti e le n
 
 6\. La Commissione Mista segnala ai competenti Uffici degli Affari Esteri delle due Parti eventuali inadempienze, proponendo ipotesi tecniche di soluzione.
 
-#### Articolo 10
+### Articolo 10
 
 Iniziative Speciali
 
@@ -220,13 +216,13 @@ d) Il ripristino del pagamento delle pensioni di guerra ai titolari libici, civi
 
 e) La restituzione alla Libia di manoscritti e reperti archeologici trasferiti in Italia da quei territori in epoca coloniale: il Comitato Misto di cui all'articolo 16 del presente Trattato individua i reperti e i manoscritti che saranno, successivamente, oggetto di un atto normativo ad hoc finalizzato alla loro restituzione.
 
-#### Articolo 11
+### Articolo 11
 
 Visti ai cittadini Italiani espulsi dalla Libia
 
 La Grande Giamahiria si impegna dalla firma del presente Trattato a concedere senza limitazioni o restrizioni di sorta ai cittadini italiani espulsi nel passato dalla Libia, i visti di ingresso che gli interessati dovessero richiedere per motivi di turismo, di visita o lavoro o per altre finalita'.
 
-#### Articolo 12
+### Articolo 12
 
 Fondo sociale
 
@@ -238,7 +234,7 @@ Fondo sociale
 
 4\. Definite le modalita' di gestione dell'ammontare gia' costituito del Fondo Sociale e le iniziative da finanziare, le due Parti considerano definitivamente esaurito il Fondo sociale.
 
-#### Articolo 13
+### Articolo 13
 
 Crediti
 
@@ -246,11 +242,9 @@ Crediti
 
 2\. Con il medesimo scambio di lettere, le Parti si impegnano a raggiungere una soluzione anche per quanto riguarda gli eventuali debiti di natura fiscale e/o amministrativa di aziende italiane nei confronti di Enti libici.
 
-## Capo III
+## Capo III - NUOVO PARTENARIATO BILATERALE
 
-### NUOVO PARTENARIATO BILATERALE
-
-#### Articolo 14
+### Articolo 14
 
 Comitato di Partenariato e consultazioni politiche
 
@@ -268,13 +262,13 @@ d) lo svolgimento di' regolari consultazioni tra altri rappresentanti delle due 
 
 3\. Il Ministro degli Affari Esteri e il Segretario del Comitato Popolare Generale per il Collegamento Estero e la Cooperazione Internazionale, ricevuta la segnalazione di cui all'Articolo 9 comma 6, si adoperano per definire una soluzione adeguata.
 
-#### Articolo 15
+### Articolo 15
 
 Cooperazione negli ambiti scientifici
 
 Le due Parti intensificano la collaborazione nel campo della scienza e della tecnologia e realizzano programmi di formazione e di specializzazione a livello posi-universitario. Favoriscono a tal fine lo sviluppo di rapporti tra le Universita' e tra gli Istituti di ricerca e di Formazione dei due Paesi. Sviluppano ulteriormente la collaborazione nel campo sanitario e in quello della ricerca medica, promuovendo i rapporti tra enti ed organismi dei due Paesi.
 
-#### Articolo 16
+### Articolo 16
 
 Cooperazione culturale
 
@@ -286,7 +280,7 @@ Cooperazione culturale
 
 4\. Le due Parti concordano sulla opportunita' di rendere le nuove generazioni sempre piu' consapevoli delle conseguenze negative generate dalle aggressioni e dalla violenza e si adoperano per la diffusione di una cultura ispirata ai principi della tolleranza e della collaborazione tra i Popoli.
 
-#### Articolo 17
+### Articolo 17
 
 Collaborazione economica e industriale
 
@@ -298,7 +292,7 @@ Collaborazione economica e industriale
 
 4\. Le due Parti si adoperano per concordare entro breve una Intesa tecnica in materia di cooperazione economica, scientifica e tecnologica nel settore della pesca e dell'acquacoltura e favoriscono Intese analoghe tra altri Enti competenti dei due Paesi.
 
-#### Articolo 18
+### Articolo 18
 
 Collaborazione energetica
 
@@ -306,7 +300,7 @@ Collaborazione energetica
 
 2\. Attribuiscono particolare rilievo alle energie rinnovabili ed incoraggiano la cooperazione tra enti ed organismi dei due Paesi, sia sul piano industriale che su quello della ricerca e della formazione.
 
-#### Articolo 19
+### Articolo 19
 
 Collaborazione nella lotta al terrorismo, alla criminalita' organizzata, al traffico di stupefacenti, all'immigrazione clandestina
 
@@ -316,7 +310,7 @@ Collaborazione nella lotta al terrorismo, alla criminalita' organizzata, al traf
 
 3\. Le due Parti collaborano alla definizione di iniziative, sia bilaterali, sia in ambito regionale, per prevenire il fenomeno dell'immigrazione clandestina nei Paesi di origine dei flussi migratori.
 
-#### Articolo 20
+### Articolo 20
 
 Collaborazione nel settore della Difesa
 
@@ -326,19 +320,19 @@ Collaborazione nel settore della Difesa
 
 3\. In tale ambito, l'Italia sosterra' nelle sedi internazionali la richiesta della Libia di indennizzi per i danni subiti da propri cittadini vittime dello scoppio delle mine e per la riabilitazione dei territori danneggiati, con tutti gli Stati interessati.
 
-#### Articolo 21
+### Articolo 21
 
 Collaborazione nel settore della non proliferazione e del disarmo
 
 Le due Parti si impegnano a proseguire e rinsaldare la collaborazione nel settore del disarmo e della non proliferazione delle armi di distruzione di' massa e dei relativi vettori e ad adoperarsi per fare della Regione del Mediterraneo una zona libera da tali armi, nel pieno rispetto degli obblighi derivanti dagli Accordi e Trattati internazionali in materia.
 
-#### Articolo 22
+### Articolo 22
 
 Collaborazione parlamentare e tra Enti locali
 
 Le due Parti favoriscono lo sviluppo di rapporti tra il Parlamento italiano ed il Congresso Generale del Popolo della Grande Giamahiria, nonche' tra gli Enti locali, nella consapevolezza della loro importanza per una piu' intensa cd approfondita conoscenza reciproca.
 
-#### Articolo 23
+### Articolo 23
 
 Disposizioni finali
 

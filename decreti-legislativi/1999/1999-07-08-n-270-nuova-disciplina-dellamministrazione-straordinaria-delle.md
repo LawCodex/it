@@ -182,7 +182,7 @@ f) stabilisce se la gestione dell'impresa, fino a quando non si proceda a norma 
 
 3\. La corte di appello, se accoglie il reclamo, rimette d'ufficio gli atti al tribunale per la dichiarazione dello stato di insolvenza.
 
-## CAPO II - ORGANI
+### CAPO II - ORGANI
 
 ##### Art. 13 - Competenza del tribunale che ha dichiarato lo stato di insolvenza
 
@@ -216,7 +216,7 @@ f) stabilisce se la gestione dell'impresa, fino a quando non si proceda a norma 
 
 2\. Il decreto del giudice delegato e' impugnabile nei modi indicati dall'articolo 14, comma 2.
 
-## CAPO III - EFFETTI E PROWEDIMENTI IMMEDIATI
+### CAPO III - EFFETTI E PROWEDIMENTI IMMEDIATI
 
 ##### Art. 18 - Effetti della dichiarazione dello stato di insolvenza
 
@@ -290,7 +290,7 @@ Il D.L. 18 ottobre 2012, n. 179, convertito, con modificazioni dalla L. 17 dicem
 
 Ha inoltre disposto (con l'art. 17, comma 5) che "Per le procedure in cui, alla data di entrata in vigore della legge di conversione del presente decreto, sia stata effettuata la comunicazione di cui al comma 4, le disposizioni di cui ai commi 1 e 2 del presente articolo si applicano a decorrere dal 31 ottobre 2013. Il curatore, il commissario giudiziale, il commissario liquidatore e il commissario straordinario entro il 30 giugno 2013 comunicano ai creditori e ai terzi titolari di diritti sui beni il loro indirizzo di posta elettronica certificata e li invitano a comunicare, entro tre mesi, l'indirizzo di posta elettronica certificata al quale ricevere tutte le comunicazioni relative alla procedura, avvertendoli di rendere nota ogni successiva variazione e che in caso di omessa indicazione le comunicazioni sono eseguite esclusivamente mediante deposito in cancelleria."
 
-## CAPO IV - SOCETA CON SOCI ILLIMITATAMENTE RESPONSABILI
+### CAPO IV - SOCETA CON SOCI ILLIMITATAMENTE RESPONSABILI
 
 ##### Art. 23 - Dichiarazione dello stato di insolvenza di societa' con soci illimitatamente responsabili
 
@@ -458,7 +458,7 @@ Restano in ogni caso salvi gli effetti degli atti legalmente compiuti dagli orga
 
 1\. Per quanto non previsto dal presente decreto, si applicano alla procedura di amministrazione straordinaria, in quanto eompatibili, le disposizioni sulla liquidazione coatta amministrativa, sostituito al commissario liquidatore il commissario straordinario.
 
-## CAPO II - ORGANI
+### CAPO II - ORGANI
 
 ##### Art. 37 - Vigilanza sulla procedura
 
@@ -592,7 +592,7 @@ b-quinquies) incremento del 10 per cento del compenso, ove all'atto della chiusu
 
 c) determinazione del compenso dei membri esperti del Comitato di sorveglianza secondo importi minimi e massimi definiti in relazione al numero degli occupati, al fatturato e al numero delle imprese del gruppo assoggettate alla procedura.
 
-## CAPO III - EFFETTI
+### CAPO III - EFFETTI
 
 ##### Art. 48 - Divieto di azioni esecutive individuali
 
@@ -674,7 +674,7 @@ puo' chiedere l'ammissione sotto condizione dello scioglimento o del subentro de
 
 > \- Per il testo dell'art. 111, comma 1 , n. 1), del R.D. n. 267/1942, si veda la nota all'art. 20.
 
-## CAPO IV - ACCERTAMENTO DEL PASSIVO
+### CAPO IV - ACCERTAMENTO DEL PASSIVO
 
 ##### Art. 53 - Accertamento del passivo
 
@@ -790,7 +790,7 @@ puo' chiedere l'ammissione sotto condizione dello scioglimento o del subentro de
 
 > Ciascun creditore ha diritto di contestare i crediti dei creditori con i quali si trova in concorso".
 
-## CAPO V - DEFINIZIONE ED ESECUZIONE DEL PROGRAMMA
+### CAPO V - DEFINIZIONE ED ESECUZIONE DEL PROGRAMMA
 
 ##### Art. 54 - Predisposizione del programma
 
@@ -1012,9 +1012,7 @@ Il D.L. 1 ottobre 2015, n. 154, convertito con modificazioni dalla L. 29 novembr
 
 4\. Alla scadenza del termine prorogato, il commissario straordinario presenta una ulteriore relazione a norma dell'articolo 61, commi 3 e 4.
 
-## CAPO VI - RIPARTIZIONE DELL'ATTIVO
-
-### Art. 67.
+### CAPO VI - RIPARTIZIONE DELL'ATTIVO Art. 67.
 
 ##### Art. 67 - Ripartizione dell'attivo
 
@@ -1068,7 +1066,7 @@ Il D.L. 1 ottobre 2015, n. 154, convertito con modificazioni dalla L. 29 novembr
 
 > Per i creditori che non si presentano o sono irreperibili la somma dovuta e' depositata presso un istituto di credito. Il certificato di deposito vale quietanza".
 
-## CAPO VI - RIPARTIZIONE DELL'ATTIVO
+### CAPO VI - RIPARTIZIONE DELL'ATTIVO
 
 ##### Art. 68 - Acconti ai creditori
 
@@ -1078,9 +1076,9 @@ Il D.L. 1 ottobre 2015, n. 154, convertito con modificazioni dalla L. 29 novembr
 
 3\. Le disposizioni del presente articolo si applicano indipendentemente dal tipo di programma adottato fra quelli alternativamente previsti dall'articolo 27, comma 2.
 
-## CAPO VII - CESSAZIONE DELLA PROCEDURA
+### CAPO VII - CESSAZIONE DELLA PROCEDURA
 
-### SEZIONE I - CONVERSIONE DELL'AMMINISTRAZIONE STRAORDINARIA IN FALLIMENTO
+#### SEZIONE I - CONVERSIONE DELL'AMMINISTRAZIONE STRAORDINARIA IN FALLIMENTO
 
 ##### Art. 69 - Conversione in corso di procedura
 
@@ -1112,7 +1110,7 @@ L'accertamento dello stato passivo, se non esaurito, prosegue sulla base delle d
 
 1\. In tutti i casi in cui e' disposta la conversione della procedura di amministrazione straordinaria in fallimento, il commissario straordinario presenta il bilancio della procedura con il conto della gestione a norma dell'articolo 75.
 
-## SEZIONE II - CHIUSURA DELLA PROCEDURA
+#### SEZIONE II - CHIUSURA DELLA PROCEDURA
 
 ##### Art. 73 - Cessazione dell'esercizio dell'impresa
 
@@ -1222,7 +1220,7 @@ d) stabilisce i termini previsti dall'articolo 8, comma 1, lettere d) ed e), abb
 
 3\. La sentenza e' comunicata e affissa a norma dell'articolo 8, comma 3.
 
-## SEZIONE III - CONCORDATO
+#### SEZIONE III - CONCORDATO
 
 ##### Art. 78 - Concordato
 
@@ -1258,9 +1256,7 @@ d) stabilisce i termini previsti dall'articolo 8, comma 1, lettere d) ed e), abb
 
 ## TITOLO IV - GRUPPO DI IMPRESE
 
-### CAPO I - ESTENSIONE DELL'AMMINISTRAZIONE STRAORDINARIA ALLE IMPRESE DEL
-
-#### GRUPPO
+### CAPO I - ESTENSIONE DELL'AMMINISTRAZIONE STRAORDINARIA ALLE IMPRESE DEL GRUPPO
 
 ##### Art. 80 - Definizioni
 
@@ -1344,7 +1340,7 @@ dura madre o in relazione ad altra impresa del gruppo ammessa alla procedura.
 
 1\. La conversione in fallimento e la chiusura della procedura madre a norma degli articoli 11, 69, 70 e 74, comma 1, determinano la conversione in fallimento della procedura di amministrazione straordinaria delle imprese del gruppo in rapporto alle quali non sussistono le condizioni previste dall'articolo 27.
 
-## CAPO II - RESPONSABILITA E AZIONI REVOCATORIE
+### CAPO II - RESPONSABILITA E AZIONI REVOCATORIE
 
 ##### Art. 88 - Definizioni
 

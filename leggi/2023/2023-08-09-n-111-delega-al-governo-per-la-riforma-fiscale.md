@@ -444,7 +444,7 @@ f) semplificare e razionalizzare il regime delle societa' estere controllate (co
 
 > \- La direttiva (UE) 2022/2523 del Consiglio, del 14 dicembre 2022, intesa a garantire un livello di imposizione fiscale minimo globale per i gruppi multinazionali di imprese e i gruppi nazionali su larga scala nell'Unione, e' pubblicata nella Gazzetta ufficiale dell'Unione europea L 328/1 del 22 dicembre 2022.
 
-## Capo II - Statuto dei diritti del contribuente
+### Capo II - Statuto dei diritti del contribuente
 
 #### Art. 4
 
@@ -852,7 +852,7 @@ m) completare e razionalizzare le misure fiscali previste per gli enti sportivi 
 
 n) adottare misure volte a favorire la permanenza in Italia di studenti ivi formati, anche mediante la razionalizzazione degli incentivi per il rientro in Italia di persone ivi formate occupate all'estero.
 
-## Capo II - Gli altri tributi indiretti
+### Capo II - Gli altri tributi indiretti
 
 #### Art. 10
 
@@ -920,7 +920,7 @@ e) semplificare gli adempimenti amministrativi relativi alla detenzione, alla ve
 
 f) rivedere la disciplina dell'applicazione dell'imposta di consumo sugli oli lubrificanti, sui bitumi di petrolio e sugli altri prodotti utilizzati per la lubrificazione meccanica, con particolare riguardo all'aggiornamento dell'elenco dei prodotti rientranti nella base imponibile del tributo in relazione all'evoluzione del mercato di riferimento e alla semplificazione delle procedure e degli adempimenti amministrativi inerenti all'applicazione della medesima imposta di consumo.
 
-## Capo III - I tributi regionali e locali
+### Capo III - I tributi regionali e locali
 
 #### Art. 13
 
@@ -1104,7 +1104,7 @@ b) per le citta' metropolitane, un tributo proprio destinato ad assicurare l'ese
 
 > 6\. - 7.»
 
-## Capo IV - I giochi
+### Capo IV - I giochi
 
 #### Art. 15
 
@@ -1598,7 +1598,7 @@ m) disciplinare le modalita' di assegnazione dei magistrati e dei giudici tribut
 
 m-bis) ((uniformare l'ordinamento, lo stato giuridico e il ruolo dei magistrati tributari, in quanto compatibili, a quelli della magistratura ordinaria, con riferimento, in particolare, fatte salve le prerogative dell'avvio del procedimento disciplinare attribuite al Presidente del Consiglio dei ministri e al presidente della corte di giustizia tributaria di secondo grado nonche' quelle decisorie del Consiglio di presidenza della giustizia tributaria, alle fattispecie disciplinari, con le relative sanzioni e procedure, e al regime delle incompatibilita', della dispensa dal servizio e del trasferimento di ufficio)).
 
-## Capo II - Le sanzioni
+### Capo II - Le sanzioni
 
 #### Art. 20
 

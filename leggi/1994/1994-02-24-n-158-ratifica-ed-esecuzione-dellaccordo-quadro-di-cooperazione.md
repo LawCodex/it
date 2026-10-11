@@ -27,15 +27,15 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'accordo quadro di cooperazione economica, industriale, scientifico- tecnologica, tecnica e culturale tra Italia e Bolivia, fatto a Roma il 30 aprile 1990.
 
-### Art. 2
+## Art. 2
 
 1\. Piena ed intera esecuzione e' data all'accordo di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore in conformita' a quanto disposto dall'articolo XVI dell'accordo stesso.
 
-### Art. 3
+## Art. 3
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -71,11 +71,11 @@ Repubblica della Bolivia
 
 \- considerando l'esigenza di intensificare la loro solidarieta' ed amicizia attraverso un Accordo Quadro di collaborazione economica, sciantifica-tecnologica, culturale e di cooperazione allo sviluppo, hanno convenuto quanto segue:
 
-### ARTICOLO I
+## ARTICOLO I
 
 Le Parti intendono accrescere l'afflusso di investimenti nei rispettivi territori, sia attraverso i tradizionali interventi produttivi, sia privilegiando la collaborazione nel settore delle piccole e medie imprese. Verra' incoraggiata la costituzione di societa' miste attraverso l'attivazione degli strumenti disponibili, come l'Art. 7 della legge italiana 49/87, idonei ad assicurare un adeguato sostegno finanziario e tecnologico. Verra' conferita priorita' ai programmi volti a prevenire e combattere il narcotraffico ed il consumo della droga. Particolare attenzione verra' inoltre prestata a programmi finalizzati alla razionale utilizzazione delle risorse naturali ed alla preservazione dei rispettivi ecosistemi. Le Parti infine conferiranno particolare importanza ad intese tra cooperative dei due Paesi.
 
-### ARTICOLO II
+## ARTICOLO II
 
 Al fine di intensificare le relazioni economiche, la Parte italiana si adoperera', compatibilmente con la normativa vigente, attraverso:
 
@@ -87,33 +87,33 @@ concedere linee di credito bancarie a condizioni "consensus", nel quadro di inte
 
 Le Parti si impegnano particolarmente ad identificare progetti validi che presentino un adeguato livello di redditivita' e garanzie appropriate di ripagamento e restituzione dei capitali investiti. In particolare, verra' conferita attenzione a settori quali l'agricoltura e l'industria anche attraverso la formazione di imprese miste. Ove richiesto verra' favorita la partecipazione di istituzioni pubbliche o private italiane a programmi boliviani di privatizzazione.
 
-### ARTICOLO III
+## ARTICOLO III
 
 Le Parti concordano, ai fini della promozione dello sviluppo economico, sull'importanza del cofinanziamento con organismi finanziari internazionali e regionali e con Paesi Terzi nei progetti che utilizzino le concessioni di linee di credito a condizioni "consensus".
 
-### ARTICOLO IV
+## ARTICOLO IV
 
 Verra' esaminata la possibilita' di ricorrere ad operazioni di conversione di quote del debito estero e di analoghi strumenti cosi' come altri sistemi o iniziative destinati a risolvere i problemi dell'indebitamento estero boliviano evitando al tempo stesso possibili effetti interni negativi.
 
-### ARTICOLO V
+## ARTICOLO V
 
 La Parte italiana dichiara la sua favorevole disposizione alla concessione di ogni possibile facilitazione per progetti di privatizzazione o di conversione di imprese pubbliche boliviane, in conformita' alla normativa locale all'uopo emanata.
 
-### ARTICOLO VI
+## ARTICOLO VI
 
 Ciascuna Parte provvedera', tenuto conto delle rispettive legislazioni, a concedere agli investimenti dell'altra un trattamento non meno favorevole di quello riservato agli investimenti di propri cittadini o di investitori di Paesi Terzi, qualunque sia il trattamento piu' favorevole concesso o da concedersi in base ad accordi bilaterali.
 
-### ARTICOLO VII
+## ARTICOLO VII
 
 Le Parti dedicheranno particolare attenzione all'obiettivo di dare vita ad iniziative legate all'attuazione di programmi nazionali finalizzati alla razionale utilizzazione delle rispettive risorse naturali, nel quadro della protezione dell'ambiente e della conservazione dei rispettivi ecosistemi, anche per mezzo di incentivi all'interscambio di tecnologie non inquinanti e di tecnologie specifiche per la protezione ambientale.
 
-### ARTICOLO VIII
+## ARTICOLO VIII
 
 Le Parti considerano con particolare attenzione il problema della droga e del narcotraffico e si impegneranno ad esercitare di comune accordo ogni piu' consona azione di lotta e prevenzione.
 
 In particolare la Parte italiana privilegera' le iniziative individuate di comune accordo tre le due Parti, ed in collegamento con gli interventi multilaterali, volte a sostenere lo sviluppo alternativo e la sostituzione delle coltivazioni illegali di coca ed a favorire gli interventi tesi a fronteggiare e prevenire il diffondersi dell'uso di sostanze stupefacenti tra la popolazione.
 
-### ARTICOLO IX
+## ARTICOLO IX
 
 Le Parti esprimono inoltre le seguenti intenzioni:
 
@@ -129,7 +129,7 @@ istituzioni accademiche e scientifiche italiane. Le intese necessarie definirann
 
 diffusione della cultura attraverso la promozione di eventi culturali, storici e artistici che contribuiscano ad una piu' approfondita conoscenza tra i due Paesi.
 
-### ARTICOLO X
+## ARTICOLO X
 
 Le Parti si adopereranno per:
 
@@ -149,7 +149,7 @@ produzione primaria al fine di ottimizzare lo sfruttamento delle risorse bolivia
 
 Le Parti riconoscono l'importanza e l'utilita' delle ONG come strumenti di cooperazione allo sviluppo in particolare nei settori di rilevante impatto sociale. La Parte boliviana si impegna a favorire l'attivita' delle ONG italiane nel suo territorio nazionale.
 
-### ARTICOLO XI
+## ARTICOLO XI
 
 Ai fini di una conduzione ottimale delle iniziative di cooperazione, le Parti concordano sull'opportunita' che i vari progetti di cooperazione finanziati, in tutto o in parte, in via bilaterale o multilaterale, dal Governo italiano godano in autonomia di gestione secondo modalita' da concordarsi.
 
@@ -163,11 +163,11 @@ Il Governo italiano studiera' forme operative per sostenere fondi boliviani di c
 
 ## MECCANISMI ISTITUZIONALI
 
-### ARTICOLO XII
+## ARTICOLO XII
 
 Per conferire un rinnovato impulso alle relazioni tra i due Paesi, le due Parti intendono realizzare strutture di consultazione a carattere periodico, considerando anche la possibilita' di riunioni di vertice tra il Presidente del Consiglio dei Ministri della Repubblica Italiana ed il Presidente della Repubblica della Bolivia, accompagnati o sostituiti dai rispettivi Ministri degli Affari Esteri.
 
-### ARTICOLO XIII
+## ARTICOLO XIII
 
 Al fine delle indicazioni di priorita', dell'individuazione dei progetti da realizzare, della valutazione del loro impatto ambientale nonche' per reperire gli strumenti finanziari utilizzabili ed esercitare funzioni generali di stimolo, di coordinamento e di controllo della collaborazione, le Parti hanno deciso la creazione di un apposito Comitato che sara' presieduto per periodi alterni da un alto funzionario del Ministero degli Affari Esteri dei due Paesi.
 
@@ -175,15 +175,15 @@ Esso sara' composto per la Parte italiana da rappresentanti del Ministero del Te
 
 Per la Parte boliviana sara' composto da rappresentanti dei Ministeri della Pianificazione e delle Finanze.
 
-### ARTICOLO XIV
+## ARTICOLO XIV
 
 Il Comitato previsto all'Articolo XIII potra' avvalersi del supporto di ogni istituzione od organismo pubblico e privato, nazionale o internazionale, la cui assistenza si ritenesse opportuna per offrire se necessario il suo sostegno tecnico per il coordinamento delle procedure di approvazioni dei programmi e dei progetti previsti, nonche' per l'acquisizione di elementi concreti di giudizio circa la validita' delle singole iniziative.
 
-### ARTICOLO XV
+## ARTICOLO XV
 
 Nessuna delle disposizioni del presente Accordo sara' in contrasto con gli impegni delle due Parti derivanti da accordi bilaterali o multilaterali in vigore.
 
-### ARTICOLO XVI
+## ARTICOLO XVI
 
 Il presente Accordo entrera' in vigore al momento dello scambio degli strumenti di ratifica ed avra' validita' quinquennale, rinnovabile tacitamente, salvo denuncia con preavviso non inferiore a
 

@@ -27,7 +27,7 @@ Promulga
 
 la seguente legge:
 
-### ART. 1 - Ratifica ed esecuzione
+## ART. 1 - Ratifica ed esecuzione
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare il Protocollo aggiuntivo dell'Accordo tra la Repubblica d'Austria, il Regno del Belgio, il Regno di Danimarca, la Repubblica di Finlandia, la Repubblica Federale di Germania, la Repubblica ellenica, l'Irlanda, la Repubblica italiana, il Granducato di Lussemburgo, il Regno dei Paesi Bassi, la Repubblica portoghese, il Regno di Spagna, il Regno di Svezia, la Comunita' europea dell'energia atomica (EURATOM) e l'Agenzia internazionale per l'energia atomica (AIEA) in esecuzione dell'articolo III, paragrafi 1 e 4, del Trattato di non proliferazione delle armi nucleari, con allegati, fatto a Vienna il 22 settembre 1998.
 
@@ -37,7 +37,7 @@ la seguente legge:
 
 > Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubbicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
-### ART. 2 - Designazione amministrazioni competenti
+## ART. 2 - Designazione amministrazioni competenti
 
 1\. Per dare attuazione alle disposizioni contenute nel Protocollo si designano:
 
@@ -47,7 +47,7 @@ b) il Ministero degli affari esteri competente per gli adempimenti di cui all'ar
 
 c) il Ministero della difesa competente per gli adempimenti connessi alle ispezioni nei siti militari e per l'effettuazione di studi, analisi ed altre attivita' inerenti all'esecuzione del Protocollo nei luoghi militari o di interesse militare.
 
-### ART. 3 - Deleghe di competenza
+## ART. 3 - Deleghe di competenza
 
 1\. Per gli adempimenti di cui all'articolo 2, lettera a), il Ministero delle attivita' produttive si avvale dell'Agenzia per la protezione dell'ambiente e per i servizi tecnici (APAT), ai sensi dell'articolo 38 del decreto legislativo 30 luglio 1999, n. 300, e successive modificazioni, e ai sensi del decreto del Presidente della Repubblica 8 agosto 2002, n. 207, stipulando apposite convenzioni quadro, secondo le modalita' previste all'articolo 10, comma 1.
 
@@ -97,7 +97,7 @@ c) il Ministero della difesa competente per gli adempimenti connessi alle ispezi
 
 > e) favorire l'attivita' di formazione, in particolare post-universitaria, anche al fine di consentire la crescita occupazionale qualificata].»
 
-### ART. 4 - Sanzioni
+## ART. 4 - Sanzioni
 
 1\. Chiunque produce, importa, esporta o comunque trasferisce, lavora o impiega per la trasformazione, usa o detiene, acquista e vende i materiali e le attrezzature previsti nel Protocollo e' tenuto a fornire i dati e le informazioni indicati negli articoli 2 e 3 dello stesso Protocollo, secondo le modalita' stabilite con decreto del Ministro delle attivita' produttive, di concerto con il Ministro dell'ambiente e della tutela del territorio, da adottare entro novanta giorni dalla data di entrata in vigore della presente legge.
 
@@ -105,13 +105,13 @@ c) il Ministero della difesa competente per gli adempimenti connessi alle ispezi
 
 3\. Le attivita' ispettive previste dagli articoli da 4 a 10 del Protocollo sono condotte da ispettori dell'AIEA. Chiunque ne impedisce o ne ostacola l'effettuazione e' punito con l'arresto fino a tre mesi o con l'ammenda da 3.000 euro a 15.000 euro.
 
-### ART. 5 - Copertura finanziaria
+## ART. 5 - Copertura finanziaria
 
 1\. Per l'attuazione della presente legge e' autorizzata la spesa di euro 517.680 per l'anno 2003 e di euro 305.935 annui a decorrere dal 2004. Al relativo onere si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2003-2005, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2003, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri.
 
 2\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-### ART. 6 - Entrata in vigore
+## ART. 6 - Entrata in vigore
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -147,7 +147,7 @@ CIO' PREMESSO, la Comunita', gli Stati e l'Agenzia hanno convenuto quanto segue:
 
 RAPPORTO TRA IL PROTOCOLLO E L'ACCORDO SULLE SALVAGUARDIE
 
-### Articolo 1
+## Articolo 1
 
 Le disposizioni dell'Accordo sulle salvaguardie si applicano al presente Protocollo nella misura in cui sono pertinenti e compatibili con le disposizioni del Protocollo stesso. In caso di conflitto tra le disposizioni dell'Accordo sulle salvaguardie e quelle del presente Protocollo, prevalgono le disposizioni di quest'ultimo.
 
@@ -155,7 +155,7 @@ COMUNICAZIONE DI INFORMAZIONI
 
 ## COMUNICAZIONE DI INFORMAZIONI
 
-### Articolo 2
+## Articolo 2
 
 a. Ciascuno Stato rilascia all'Agenzia una dichiarazione contenente le informazioni indicate ai punti i), ii), iv), ix) e x) seguenti. La Comunita' rilascia all'Agenzia una dichiarazione contenente le informazioni indicate ai punti v), vi) e vii) seguenti. Ciascuno Stato e la Comunita' rilasciano all'Agenzia una dichiarazione contenente le informazioni indicate ai punti iii) e viii) seguenti:
 
@@ -209,7 +209,7 @@ ii) una descrizione generale delle attivita' e dell'identita' della persona o de
 
 c. Su richiesta dell'Agenzia, uno Stato, o la Comunita' o se necessario, entrambi forniscono ulteriori dettagli o chiarimenti in merito a qualsiasi informazione comunicata a norma del presente articolo, qualora essi siano rilevanti ai fini delle salvaguardie.
 
-### Articolo 3
+## Articolo 3
 
 a. Ciascuno Stato o la Comunita' o entrambi, se del caso, comunicano all'Agenzia le informazioni indicate all'articolo 2, paragafo a., punti i), iii), iv), v), vi), lettera a), vii) e x) e all'articolo 2, paragrafo b., punto i) entro 180 giorni dall'entrata in vigore del presente Protocollo.
 
@@ -229,7 +229,7 @@ g. Ciascuno Stato comunica all'Agenzia le informazioni indicate all'articolo 2, 
 
 ACCESSI SUPPLEMENTARI
 
-### Articolo 4
+## Articolo 4
 
 Per l'esecuzione degli accessi supplementari previsti all'articolo 5 del presente Protocollo si applicano le seguenti disposizioni:
 
@@ -255,7 +255,7 @@ e. L'accesso puo' avvenire esclusivamente durante il normale orario di lavoro, s
 
 f. Lo Stato interessato o, in caso di accesso ai sensi dell'articolo 5, paragrafo a. o c. che riguardi materie nucleari, lo Stato interessato e la Comunita' hanno diritto di far accompagnare da loro rappresentanti e, se necessario, da ispettori della Comunita', gli ispettori dell'Agenzia durante l'accesso purche' cio' non comporti ritardi altri impedimenti all'esercizio delle funzioni degli ispettori dell'Agenzia.
 
-### Articolo 5
+## Articolo 5
 
 Ciascuno Stato accorda accesso all'Agenzia a:
 
@@ -273,7 +273,7 @@ b. qualsiasi localita' individuata dallo Stato interessato ai sensi dell'articol
 
 c. qualsiasi localita' specificamente indicata dall'Agenzia, diversa da quelle menzionate ai precedenti paragrafi a. e b., al fine di eseguire un prelievo di campioni ambientali specifici della localita', con l'intesa che se lo Stato interessato non sara' in grado di concedere tale accesso, detto Stato fara' tutto il possibile per soddisfare tempestivamente le richieste dell'Agenzia in localita' adiacenti o attraverso altri mezzi.
 
-### Articolo 6
+## Articolo 6
 
 In applicazione dell'articolo 5, l'Agenzia puo' eseguire le seguenti attivita':
 
@@ -285,7 +285,7 @@ c. per l'accesso ai sensi dell'articolo 5, paragrafo b.: osservazione visiva: pr
 
 d. per l'accesso ai sensi dell'articolo 5, paragrafo c.: prelievo di campioni ambientali e, qualora i risultati non fossero sufficienti per risolvere la questione o l'incongruenza riguardante la localizzazione specificata dall'Agenzia ai sensi dell'articolo 5, paragrafo c., ricorso in tali localita' all'osservazione visiva, ad apparecchi di rilevamento e misurazione delle radiazioni conformemente a quanto concordato con lo Stato interessato e, nel caso siano presenti materie nucleari, con le Comunita' e l'Agenzia, ad altre misure obiettive.
 
-### Articolo 7
+## Articolo 7
 
 a. Su richiesta di uno Stato, l'Agenzia e detto Stato concordano disposizioni per regolamentare gli accessi ai sensi del presente Protocollo in modo da impedire la diffusione di informazioni sensibili sulla proliferazione, di rispettare le prescrizioni in materia di sicurezza o protezione fisica o di tutelare informazioni sensibili suscettibili di valutazione economica o commerciali. Tali modalita' non devono precludere il diritto dell'Agenzia di condurre le attivita' necessarie per accertare con sufficiente certezza l'assenza nella localita' in questione di materie nucleari e di attivita' non dichiarate ovvero per risolvere questioni circa la correttezza e la completezza delle informazioni menzionate all'articolo 2 o incongruenze riguardanti tali informazioni.
 
@@ -293,15 +293,15 @@ b. All'atto della comunicazione delle informazioni di cui all'articolo 2, ciascu
 
 c. In attesa dell'entrata in vigore dei necessari accordi sussidiari, ciascuno Stato puo' applicare modalita' d'accesso compatibili con le disposizioni del precedente paragrafo a.
 
-### Articolo 8
+## Articolo 8
 
 Le disposizioni del presente Protocollo non precludono la facolta' di ciascuno Stato di offrire accesso all'Agenzia in altre localita', oltre a quelle menzionate agli articoli 5 e 9, o di chiedere all'Agenzia di condurre attivita' di verifica in una particolare localita'. L'Agenzia deve fare tempestivamente tutto il possibile per provvedere a tale richiesta.
 
-### Articolo 9
+## Articolo 9
 
 Ciascuno Stato accorda all'Agenzia accesso a tutte le localita' specificamente indicate dall'Agenzia al fine di effettuare un prelievo di campioni ambientali a vasto raggio, con l'intesa che se uno Stato non e' in grado di concedere tale accesso, detto Stato fara' tutto il possibile per soddisfare tempestivamente in altre localita' le richieste dell'Agenzia. L'Agenzia si astiene dal chiedere tale accesso fino a quando il ricorso al campionamento ambientale a vasto raggio e le relative procedure applicative non saranno stati approvati dal Consiglio, previe consultazioni tra l'Agenzia e lo Stato interessato.
 
-### Articolo 10
+## Articolo 10
 
 a. L'Agenzia informa lo Stato interessato e, se necessario, la Comunita':
 
@@ -315,7 +315,7 @@ b. L'Agenzia informa una volta all'anno lo Stato interessato e la Comunita' dell
 
 DESIGNAZIONE DEGLI ISPETTORI DELL'AGENZIA
 
-### Articolo 11
+## Articolo 11
 
 a. i) Il direttore generale notifica alla Comunita' e agli Stati
 
@@ -345,7 +345,7 @@ b. La notifica di cui al precedente paragrafo a. si considera ricevuta dalla Com
 
 VISTI
 
-### Articolo 12
+## Articolo 12
 
 Ciascuno Stato entro un mese dalla ricezione di un'apposita richiesta, concede all'ispettore designato, indicato nella richiesta, i visti multipli di entrata, di uscita e/o di transito nel suo territorio necessari per consentire all'ispettore di entrare e di rimanere nel territorio dello Stato interessato al fine di espletare le sue funzioni. I visti necessari devono essere validi per almeno un anno e devono essere rinnovati, qualora cio' sia necessario, per coprire il periodo in cui l'ispettore resta designato per gli Stati.
 
@@ -353,7 +353,7 @@ Ciascuno Stato entro un mese dalla ricezione di un'apposita richiesta, concede a
 
 ACCORDI SUSSIDIARI
 
-### Articolo 13
+## Articolo 13
 
 a. Qualora uno Stato o, se necessario, la Comunita' oppure l'Agenzia indichino che, e' necessario definire mediante accordi sussidiari le modalita' di applicazione delle misure previste dal presente Protocollo, detto Stato o detto Stato e la Comunita' si accordano con l'Agenzia sul contenuto degli accordi sussidiari entro novanta giorni dall'entrata in vigore del presente Protocollo o, nell'ipotesi in cui la necessita' di siffatti accordi sussidiari sia indicata successivamente all'entrata in vigore del presente Protocollo, entro novanta giorni dalla data di tale indicazione.
 
@@ -363,7 +363,7 @@ b. In attesa dell'entrata in vigore di ogni accordo sussidiario necessario, l'Ag
 
 SISTEMI DI COMUNICAZIONE
 
-### Articolo 14
+## Articolo 14
 
 a. Ciascuno Stato consente e tutela le libere comunicazioni dell'Agenzia per motivi di servizio tra gli ispettori dell'Agenzia che si trovino in detto Stato e la sede e/o gli uffici periferici dell'Agenzia, ivi compresa la trasmissione, automatica o meno, di informazioni ricavate da apparecchi di contenimento, e/o sorveglianza, ovvero di misurazione dell'Agenzia. L'Agenzia, in consultazione con lo Stato interessato, ha diritto di utilizzare i sistemi di comunicazioni dirette esistenti a livello internazionale, inclusi i sistemi via satellite e altre forme di telecomunicazione non utilizzati in detto Stato. Su richiesta di uno Stato o dell'Agenzia, le modalita' di esecuzione del presente paragrafo in detto Stato per quanto riguarda la trasmissione automatica o meno di informazioni prodotte da apparecchi di contenimento, e/o sorveglianza ovvero di misurazione dell'Agenzia sono definite negli accordi sussidiari.
 
@@ -373,7 +373,7 @@ b. La comunicazione e la trasmissione di informazioni ai sensi del precedente pa
 
 TUTELA DELLE INFORMAZIONI CONFIDENZIALI
 
-### Articolo 15
+## Articolo 15
 
 a. L'Agenzia mantiene un regime rigoroso idoneo ad assicurare una tutela effettiva contro la divulgazione di segreti commerciali, tecnologici e industriali ed altre informazioni riservate di cui e' venuta a conoscenza, ivi comprese le informazioni di cui viene a conoscenza nell'ambito dell'attuazione del presente Protocollo.
 
@@ -395,7 +395,7 @@ c. Il regime di cui al precedente paragrafo a. e' soggetto all'approvazione e al
 
 ALLEGATI
 
-### Articolo 16
+## Articolo 16
 
 a. Gli allegati formano parte integrante del presente Protocollo.
 
@@ -411,7 +411,7 @@ c. L'allegato III del presente Protocollo indica le modalita' di attuazione nell
 
 ENTRATA IN VIGORE
 
-### Articolo 17
+## Articolo 17
 
 a. Il presente Protocollo entra in vigore alla data in cui l'Agenzia riceve dalla Comunita' e dagli Stati notifica scritta dell'avvenuto espletamento di tutti gli adempimenti prescritti dai rispettivi ordinamenti per l'entrata in vigore.
 
@@ -423,7 +423,7 @@ c. Il direttore generale informa tempestivamente tutti gli Stati membri dell'Age
 
 DEFINIZIONI
 
-### Articolo 18
+## Articolo 18
 
 Ai fini del presente protocollo s'intende per:
 
@@ -479,7 +479,7 @@ Tehty Wienissä kahtena kappaleena 22 päivänä syyskuuta 1998 tanskan, hollann
 
 Utfardat i Wien i två exemplar den 22 september 1998 pa danska, engelska, finska, franska, grekiska, italienska, nederländska, portugisiska, spanska, svenska och tyska språken, varvid varje språkversion skall äga lika giltighet, utom ifall de skulle skilja sig åt då de texter som ingåtts på IAEA:s styrelses officiella språk skall ha företräde.
 
-### Allegato I
+## Allegato I
 
 ALLEGATO I
 
@@ -531,7 +531,7 @@ xi) Fabbricazione di contenitori per combustibile irraggiato.
 
 Per contenitori per combustibile irraggiato s'intende un contenitore adibito al trasporto e/o allo stoccaggio di combustibile irradiato che garantisce una protezione chimica, termica e radiologica e che garantisce la dissipazione del calore di decadimento durante la manipolazione, il trasporto e lo stoccaggio.
 
-### Allegato II
+## Allegato II
 
 ALLEGATO II
 
@@ -1381,7 +1381,7 @@ Nota esplicativa
 
 La conversione di UF6 in UF4 avviene per riduzione con idrogeno. sp;
 
-### Allegato III
+## Allegato III
 
 ALLEGATO III
 

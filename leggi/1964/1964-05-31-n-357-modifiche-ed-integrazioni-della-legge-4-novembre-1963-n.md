@@ -28,7 +28,7 @@ la seguente legge:
 
 ## OPERE PUBBLICHE ED ABITATI
 
-### Art. 1
+## Art. 1
 
 Gli articoli 1 e 2 della legge 4 novembre 1963, n. 1457, sono sostituiti dai seguenti
 
@@ -54,7 +54,7 @@ c) alle opere di riparazione e di ricostruzione di edifici pubblici o di uso pub
 
 d) al consolidamento e all'eventuale trasferimento degli abitati".
 
-### Art. 2
+## Art. 2
 
 Dopo l'articolo 2 della legge 4 novembre 1963, n. 1457, e' inserito il seguente
 
@@ -68,7 +68,7 @@ L'approvazione dei progetti comporta la dichiarazione di pubblica utilita', di i
 
 La ricostruzione degli edifici e delle opere previste dalla lettera c) del precedente articolo 2 puo' essere affidata dal Ministro per i lavori pubblici, di concerto con il Ministro per il tesoro, a Enti pubblici che risultino tecnicamente idonei".
 
-### Art. 3
+## Art. 3
 
 L'articolo 3 della legge 4 novembre 1963, n. 1457, e' sostituito dal seguente
 
@@ -120,11 +120,11 @@ Il valore venale di cui al secondo comma dell'articolo 12 della legge 18 aprile 
 
 Con decreto del Ministro per i lavori pubblici saranno stabiliti i criteri per l'assegnazione delle aree ai privati nel caso di trasferimento, anche parziale, degli abitati".
 
-### Art. 4
+## Art. 4
 
 Le convenzioni aventi per oggetto l'affidamento a liberi professionisti di incarichi per studi e progettazioni di cui al nuovo testo dell'articolo 1, n. 3, della legge 4 novembre 1963, n. 1457, possono essere stipulate dal Ministero dei lavori pubblici senza il concerto col Ministero del tesoro ed i pareri previsti dall'articolo 380 del testo unico 10 gennaio 1957, n. 3, e dagli articoli 5, 6, 7 e 9 del regio decreto 18 novembre 1923, n. 2440.
 
-### Art. 5
+## Art. 5
 
 Dopo l'articolo 3 della legge 4 novembre 1963, n. 1457, e' inserito il seguente:
 
@@ -134,7 +134,7 @@ Nei limiti delle somme anticipate, lo Stato e' surrogato ai beneficiari delle an
 
 Nel caso che lo Stato non possa esercitare, per qualsiasi causa, il diritto di surrogazione, le somme anticipate restano definitivamente acquisite ai beneficiari".
 
-### Art. 6
+## Art. 6
 
 Gli articoli 4 e 5 della legge 4 novembre 1963, n. 1457, sono sostituiti dai seguenti:
 
@@ -170,7 +170,7 @@ A coloro ai quali sono stati concessi contributi previsti dalla presente legge s
 
 La concessione di contributi prevista dall'articolo precedente, nonche' l'approvazione delle opere di cui al precedente articolo 2, in deroga ai limiti di competenza per valore e territoriale, e' demandata ai Provveditorati alle opere pubbliche di Venezia e di Trieste".
 
-### Art. 7
+## Art. 7
 
 Dopo l'articolo 5 della legge 4 novembre 1963, n. 1457, sono aggiunti i seguenti articoli:
 
@@ -186,7 +186,7 @@ Il limite d'impegno di cui al precedente articolo 5-bis gravera', per il periodo
 
 ## INTEGRAZIONI DEI BILANCI COMUNALI E PROVINCIALI
 
-### Art. 8
+## Art. 8
 
 Gli articoli 9 e 10 della legge 4 novembre 1963, n. 1457, sono sostituiti dai seguenti:
 
@@ -202,7 +202,7 @@ Per provvedere ai maggiori oneri recati dal presente articolo, le somme di cui a
 
 "Art. 10. - Nelle more dei provvedimenti previsti nell'articolo precedente, il Ministro per l'interno dispone, tramite i prefetti di Udine e di Belluno, anticipazioni in misura non superiore al terzo dell'importo complessivo delle spese ordinarie previste nell'ultimo bilancio approvato".
 
-### Art. 9
+## Art. 9
 
 Dopo l'articolo 10 della legge 4 novembre 1963, n. 1457, e' inserito il seguente:
 
@@ -210,7 +210,7 @@ Dopo l'articolo 10 della legge 4 novembre 1963, n. 1457, e' inserito il seguente
 
 ## AZIENDE INDUSTRIALI, COMMERCIALI - E ARTIGIANE
 
-### Art. 10
+## Art. 10
 
 Gli articoli 12, 13 e 14 della legge 4 novembre 1963, n. 1457, sono sostituiti dai seguenti:
 
@@ -238,7 +238,7 @@ Art. 14. - Le domande per ottenere le provvidenze di cui agli articoli 12 e 13 d
 
 L'entita' della spesa per la riattivazione o ricostruzione degli impianti o delle attrezzature danneggiate o distrutte e per la ricostituzione delle scorte ai fini dell'applicazione delle provvidenze previste dagli articoli 12 e 13 sara' determinata, per ciascuna Provincia, con decreto del prefetto in conformita' al parere espresso dalle Commissioni presiedute dal presidente della Provincia e composte dai rappresentanti dei comuni di Longarone, Castellavazzo e Erto e Casso, dell'intendente di finanza, dei direttore provinciale dell'ufficio del tesoro, del capo dell'ufficio tecnico erariale, del direttore provinciale dell'ufficio del lavoro, del presidente della camera di commercio e di tre rappresentanti rispettivamente dei datori di lavoro e dei lavoratori designati dalle organizzazioni sindacali piu' rappresentative e nominati dal prefetto".
 
-### Art. 11
+## Art. 11
 
 Dopo l'articolo 14 della legge 4 novembre 1963, numero 1457, sono inseriti i seguenti articoli
 
@@ -256,7 +256,7 @@ Dalla spesa sono detratte quelle per le quali siano stati concessi altri contrib
 
 Art. 14-ter. - Le provvidenze di cui all'articolo 12 possono essere cedute previa autorizzazione da parte della Commissione di cui all'articolo 14, ferma l'osservanza dell'articolo 13, commi secondo e terzo".
 
-### Art. 12
+## Art. 12
 
 Gli articoli 15 e 16 della legge 4 novembre 1963, numero 1457, sono sostituiti dai seguenti
 
@@ -270,7 +270,7 @@ I finanziamenti di cui alla lettera b) del primo comma, dell'articolo 12 sono au
 
 Nel finanziamento di cui alla lettera b) del primo comma dell'articolo 12 e' conglobato, con estensione della garanzia statale, il residuo debito esistente alla data del 9 ottobre 1963 a carico delle imprese suddette".
 
-### Art. 13
+## Art. 13
 
 Dopo l'articolo 16 della legge 4 novembre 1963, numero 1457, e' inserito il seguente:
 
@@ -282,7 +282,7 @@ Per le prestazioni riguardanti lavoro subordinato le imprese debitrici presenter
 
 La rivalsa dell'I.M.I. nei riguardi delle imprese debitrici potra' essere esercitata solo dopo che siano decorsi 4 anni dalla data di scadenza delle obbligazioni di cui ai precedenti commi, secondo un piano di graduale smobilizzo per una durata di tre anni".
 
-### Art. 14
+## Art. 14
 
 Al primo comma dell'articolo 17 della legge 4 novembre 1963, n. 1457, dopo le parole: "o per l'esercizio di pubblici servizi", sono aggiunte le parole: "e i loro aventi causa".
 
@@ -292,7 +292,7 @@ Dopo il secondo comma dell'articolo 17 della legge 4 novembre 1963, n. 1457, son
 
 In caso di decesso dell'intestatario il diritto spetta al coadiutore e, in mancanza, agli eredi legittimi limitatamente al coniuge, agli ascendenti in primo grado o ad uno dei figli dell'intestatario della rivendita".
 
-### Art. 15
+## Art. 15
 
 Gli articoli 18 e 19 della legge 4 novembre 1963, numero 1457, sono sostituiti dai seguenti:
 
@@ -314,7 +314,7 @@ Resta ferma per gli ammortamenti in corso, di cui al primo comma dello stesso ar
 
 d) per disciplinare le modalita' per la concessione della moratoria prevista dal precedente articolo 16-bis e per la rivalsa nei confronti della ditta debitrice, nonche' per stabilire la misura del relativo tasso di interesse che non dovra' comunque essere superiore al 3 per cento annuo".
 
-### Art. 16
+## Art. 16
 
 Dopo l'articolo 19 della legge 4 novembre 1963, numero 1457, sono inseriti i seguenti articoli:
 
@@ -332,7 +332,7 @@ b) un finanziamento, per la parte residua della spesa, con un tasso di interesse
 
 Le stesse provvidenze sono estese alle imprese industriali e artigianali site nei Comuni di cui all'articolo 1, che a causa dell'evento catastrofico abbiano subito danni accertati dalla Commissione di cui all'articolo 14".
 
-### Art. 17
+## Art. 17
 
 L'articolo 20 della legge 4 novembre 1963, n. 1457, e' sostituito dal seguente:
 
@@ -354,7 +354,7 @@ Con la legge di approvazione del bilancio di previsione dello Stato, per gli ese
 
 ## AZIENDE AGRICOLE
 
-### Art. 18
+## Art. 18
 
 Ferma restando l'autorizzazione di spesa prevista dall'articolo 21
 
@@ -370,7 +370,7 @@ Le domande di contributo devono essere presentate entro il 31 dicembre 1964 agli
 
 Alla concessione e liquidazione dei pagamenti di cui al presente articolo, si provvede in ognuna delle due Province sentita una Commissione presieduta dall'intendente di finanza e composta del presidente dell'Amministrazione provinciale, dell'ispettore provinciale dell'agricoltura, dell'ispettore ripartimentale delle foreste, del direttore provinciale del Tesoro, del capo dell'Ufficio tecnico erariale, del presidente della camera di commercio, industria e agricoltura e di tre rappresentanti designati dalle organizzazioni di categoria piu' rappresentative, nominati dal prefetto. La liquidazione avverra' sulla base dell'individuazione e definizione delle partite catastali dei terreni privati o demaniali danneggiati o distrutti, eseguite dai competenti uffici tecnici erariali".
 
-### Art. 19
+## Art. 19
 
 Dopo l'articolo 21 della legge 4 novembre 1963, numero 1457, sono inseriti i seguenti:
 
@@ -386,7 +386,7 @@ I mutui possono essere concessi in misura non superiore alla (differenza tra l'i
 
 Per detti mutui e' concessa la garanzia dello Stato sino ad un ammontare complessivo del 90 per cento della perdita accertata".
 
-### Art. 20
+## Art. 20
 
 Il Ministro per il lavoro e la previdenza sociale e' autorizzato ad esentare fino al 31 dicembre 1965, con proprio decreto, da emanarsi di concerto con il Ministro per il tesoro, dal pagamento dei contributi relativi alla pensione di invalidita' e vecchiaia, e per l'assistenza malattie, i coltivatori diretti titolari di aziende residenti nei Comuni e nelle localita' di cui all'articolo 1 della presente legge.
 
@@ -398,7 +398,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 14 dicembre 1965, n. 1333, convertito senza modificazioni dalla L. 9 febbraio 1966, n. 20, ha disposto (con l'art. 3, comma 1) che "Il termine del 31 dicembre 1965, stabilito dall'art. 20 della legge 31 maggio 1964, n. 357, e' prorogato fino al 31 dicembre 1966".
 
-### Art. 21
+## Art. 21
 
 Per far fronte agli oneri previsti dalla presente legge per le aziende agricole, e' autorizzata l'ulteriore spesa complessiva di lire 355 milioni, da iscriversi nello stato di previsione della spesa del Ministero dell'agricoltura e delle foreste in ragione di lire 177,5 milioni nel periodo 1 luglio-31 dicembre 1964 e di lire 177,5 milioni nell'esercizio 1965.
 
@@ -420,7 +420,7 @@ Con decreto del Ministro per il tesoro, su proposta del Ministro per l'agricoltu
 
 ## RENDITA AGLI INFORTUNATI E AI SUPERSTITI ASSISTENZA SANITARIA
 
-### Art. 22
+## Art. 22
 
 A coloro i quali siano rimasti invalidi per effetto della catastrofe del 9 ottobre 1963 e ai superstiti di coloro i quali siano deceduti o risultino dispersi per la medesima causa viene concessa una rendita di invalidita' o una rendita di riversibilita', secondo le norme in vigore per l'assicurazione obbligatoria contro gli infortuni sul lavoro, di cui al regio decreto 17 agosto 1935, n. 1765, e successive modificazioni ed integrazioni, in quanto applicabili.
 
@@ -428,19 +428,19 @@ Per coloro la cui rendita non e' calcolabile ai sensi del regio decreto 17 agost
 
 Le rendite di cui al presente articolo sono anticipate dall'I.N.A.I.L. e vengono rimborsate annualmente dallo Stato sulla base di apposita convenzione tra il Ministero del tesoro e l'Istituto predetto.
 
-### Art. 23
+## Art. 23
 
 I lavoratori subordinati od autonomi che alla data del 9 ottobre 1963 esplicavano la loro attivita' nei Comuni e localita' indicati dal precedente articolo 1 continuano a fruire per se' e per i loro familiari a carico, per il periodo di un quinquennio a decorrere dalla data predetta, dell'assistenza sanitaria di malattia, a carico degli Istituti, Enti o Casse presso i quali i lavoratori stessi risultavano assicurati contro le malattie, sempreche' non abbiano diritto a fruire dell'assistenza medesima per altro titolo.
 
 I superstiti di lavoratori subordinati od autonomi deceduti per effetto della catastrofe della diga del Vajont, verificatasi in data 9 ottobre 1963, nel territorio dei Comuni di cui al precedente articolo 1, i quali non abbiano altrimenti diritto all'assistenza sanitaria di malattia, fruiranno, per un quinquennio dalla data predetta, dell'assicurazione stessa, a carico dell'I.N.A.M. nei limiti, termini e modalita' previsti dalla legge 4 agosto 1955, n. 692, e successive modificazioni e integrazioni.
 
-### Art. 24
+## Art. 24
 
 Le provvidenze previste dagli articoli 24 e 26, terzo comma, della legge 4 novembre 1963, n. 1457, sono prorogate fino al 31 luglio 1964, e sono estese anche ai giovani in cerca di prima occupazione dopo il 9 ottobre 1963, nonche' ai militari che hanno usufruito del congedo speciale o sono stati esonerati dal servizio militare.
 
 Alla spesa per le provvidenze di cui al precedente comma si provvede nei modi indicati dall'articolo 27 della legge 4 novembre 1963, n. 1457.
 
-### Art. 25
+## Art. 25
 
 Nei limiti dell'assistenza prevista dal decreto legislativo 23 marzo 1948, n. 327, ratificato con legge 5 gennaio 1953, n. 35, concernente la previdenza ed assistenza degli orfani dei lavoratori italiani, sara' riconosciuta la precedenza nella erogazione delle prestazioni assistenziali da parte dell'Ente nazionale assistenza orfani lavoratori italiani agli orfani dei lavoratori periti nella sciagura del Vajont, aventi i requisiti richiesti dalla legge suddetta.
 
@@ -448,7 +448,7 @@ Gli studenti appartenenti a famiglie abitanti nei Comuni indicati all'articolo 1
 
 ## ESENZIONI E AGEVOLAZIONI TRIBUTARIE
 
-### Art. 26
+## Art. 26
 
 L'articolo 8 della legge 4 novembre 1963, n. 1457, e' sostituito dal seguente:
 
@@ -456,7 +456,7 @@ L'articolo 8 della legge 4 novembre 1963, n. 1457, e' sostituito dal seguente:
 
 Negli altri Comuni e localita' di cui all'articolo 1 della presente legge, la esenzione, in relazione al danno accertato, potra' essere concessa, a domanda degli interessati".
 
-### Art. 27
+## Art. 27
 
 Le intendenze di finanza possono concedere la rateazione dei tributi erariali, senza l'applicazione delle indennita' di mora e senza il pagamento degli interessi, anche a favore delle imprese che abbiano risentito un grave danno per l'inadempimento delle obbligazioni nascenti da forniture, da lavorazioni o da mutui effettuati prima del 9 ottobre 1963 a favore delle imprese di cui all'articolo 12 della legge 4 novembre 1963, n. 1457.
 
@@ -468,7 +468,7 @@ La rateazione non puo' eccedere le 24 rate bimestrali e la concessione e' subord
 
 3\) prova del danno, che deve essere grave in relazione alla potenzialita' economica dei richiedenti.
 
-### Art. 28
+## Art. 28
 
 Nei territori dei Comuni di cui all'art. 3 della presente legge, e imprese contemplate dagli articoli 12 e 13 della legge 1 novembre 1963, n. 1457, nonche' le nuove imprese che installino i propri impianti entro il 31 dicembre 1969 sono, esenti per dieci anni dalla data di inizio della loro attivita', rilevabile con atto della competente Camera di commercio, industria e agricoltura, da ogni tributo diretto sul reddito. (5) ((6))
 
@@ -484,7 +484,7 @@ AGGIORNAMENTO (6)
 
 La L. 23 dicembre 1970, n. 1042 ha disposto (con l'art. 4, comma 2) che "Nei territori dei comuni di Longarone e Castellavazzo, in provincia di Belluno, e di Erto e Casso, in provincia di Pordenone, la disposizione agevolativa di cui all'articolo 28 della legge 31 maggio 1964, n. 357, nel testo sostituito dall'articolo 4 del decreto-legge 14 dicembre 1965, n. 1333, gia' prorogata fino al 31 dicembre 1971 dall'articolo 4 della legge 18 marzo 1969, n. 91, e' ulteriormente prorogata fino al 31 dicembre 1972".
 
-### Art. 29
+## Art. 29
 
 Le imposte suppletive e complementari, accertate e non pagate alla data di entrata in vigore della presente legge e quelle ancora da accertare, afferenti a trasferimenti del diritto di proprieta' o di altro diritto reale su immobili, effettuati in data anteriore al 10 ottobre 1963 a titolo gratuito od oneroso, per atto tra vivi o mortis causa, non sono dovute qualora il contribuente provi che il bene cui l'imposta si riferisce e' andato distrutto per effetto della catastrofe del Vajont.
 
@@ -492,13 +492,13 @@ Nei casi di distruzione parziale le imposte di cui al comma precedente sono dovu
 
 Non si fa luogo alla restituzione delle imposte gia' pagate alla data di entrata in vigore della presente legge.
 
-### Art. 30
+## Art. 30
 
 E' accordato l'abbuono delle imposte di fabbricazione e delle imposte erariali sui consumi, nonche' l'esonero dal pagamento dei diritti doganali gravanti sulle merci vincolate alla finanza, anche se temporaneamente importate, andate distrutte nei Comuni di cui al precedente articolo 1 a causa della catastrofe del Vajont.
 
 Per i tributi di cui al precedente comma non sono applicabili le disposizioni dell'articolo 8 della legge 4 novembre 1963, n. 1457, modificato dal precedente articolo 26.
 
-### Art. 31
+## Art. 31
 
 L'articolo 29 della, legge 4 novembre 1963, n. 1457, sostituito dal seguente:
 
@@ -512,7 +512,7 @@ Per quanto non espressamente previsto dai precedenti commi, si applicano le agev
 
 Le disposizioni del presente articolo non si applicano agli stabilimenti industriali di nuovo impianto, che non costituiscono ricostruzione, ampliamento, ammodernamento di impianti preesistenti alla data del 9 ottobre 1963, o sostituzione degli stessi".
 
-### Art. 32
+## Art. 32
 
 Il primo comma dell'articolo 30 della legge 4 novembre 1963, n. 1457, e' sostituito dal seguente:
 
@@ -520,7 +520,7 @@ Il primo comma dell'articolo 30 della legge 4 novembre 1963, n. 1457, e' sostitu
 
 ## DISPOSIZIONI VARIE
 
-### Art. 33
+## Art. 33
 
 Il termine di 90 giorni, di cui agli articoli 3, 9, 10 e 11 della legge 30 luglio 1951, n. 948, sull'ammortamento dei titoli rappresentativi di depositi bancari, entro il quale l'ignoto detentore puo' presentare il titolo allo istituito emittente o notificargli l'opposizione, e' ridotto a 30 giorni, qualora i titolari dei buoni fruttiferi, dei libretti di risparmio nominativi o dei libretti di risparmio o di deposito al portatore, o considerati tali, risiedessero alla data del 9 ottobre 1963 nei Comuni di cui al precedente articolo 1.
 
@@ -528,7 +528,7 @@ La cifra di lire 10.000, di cui al secondo comma dello articolo 18 della legge 3
 
 Le pubblicazioni nella Gazzetta Ufficiale relative a procedure di ammortamento di titoli rappresentativi di depositi bancari distrutti o smarriti in occasione della catastrofe del Vajont sono effettuate gratuitamente.
 
-### Art. 34
+## Art. 34
 
 Puo' essere dichiarata la morte presunta delle persone scomparse nella catastrofe verificatasi il 9 ottobre 1963 nella zona del Vajont, senza che si abbiano piu' loro notizie, quando sia trascorso almeno un anno dalla data predetta.
 
@@ -536,11 +536,11 @@ La procedura istruttoria di cui agli articoli 727 e 728 del Codice di procedura 
 
 Si osservano, per quanto applicabili, le norme della legge 3 giugno 1949, n. 320, contenente disposizioni sulle persone scomparse in guerra.
 
-### Art. 35
+## Art. 35
 
 Ferme restando le disposizioni di cui all'articolo 31 della legge 4 novembre 1963, n. 1457, la dimostrazione della proprieta' dei beni immobili distrutti potra' essere fornita con una dichiarazione del sindaco del Comune, ove i beni si trovavano al momento della catastrofe, da cui risulti il possesso utile ai fini dell'articolo 1158 del Codice civile.
 
-### Art. 36
+## Art. 36
 
 Salvo il disposto dell'articolo 16 della legge 4 novembre 1963, n. 1457, modificato dal precedente articolo 12, la scadenza delle obbligazioni, sorte prima del 9 ottobre 1963, a carico di persone che risultino danneggiate nei beni dalla catastrofe del Vajont del 9 ottobre 1963, scadenti in detto giorno o in epoca successiva, resta sospesa fino alla data di inizio della riscossione dello indennizzo o contributi previsti dalla legge 4 novembre 1963, n. 1457, e dalla presente legge.
 
@@ -562,11 +562,11 @@ AGGIORNAMENTO (2)
 
 Il D.L. 11 ottobre 1965, n. 1119, convertito senza modificazioni dalla L. 6 dicembre 1965, n. 1310, ha disposto (con l'art. 2, comma 1) che il decreto medesimo ha effetto dal 10 ottobre 1965.
 
-### Art. 37
+## Art. 37
 
 Per le domande concernenti fatti che abbiano avuto origine dalla catastrofe del Vajont del 9 ottobre 1963, gli abitanti del comune di Erto e Casso possono adire anche le autorita' giudiziarie del distretto della Corte di appello di Trieste.
 
-### Art. 38
+## Art. 38
 
 ((Per le perdite di vestiario, di biancheria, mobilio, arredi e oggetti d'uso esistenti nelle unita' immobiliari distrutte o danneggiate per effetto della catastrofe del 9 ottobre 1963, e' corrisposto agli aventi diritto su domanda degli interessati da presentarsi entro tre mesi dall'entrata in vigore del presente decreto, sia che essi occupassero l'immobile a titolo di locazione che di proprieta', un contributo entro il limite massimo di lire un milione per le unita' immobiliari fino a 3 vani, di lire 1.200.000 per le unita' immobiliari fino a 4 vani, di lire 1.400.000 per le unita' immobiliari fino a 5 vani, di lire 1.500.000 per le unita' immobiliari fino a 6 vani, di lire 1.600.000 per le unita' immobiliari di 7 o piu' vani.
 
@@ -578,7 +578,7 @@ Qualora fossero state corrisposte a carico dello Stato sovvenzioni per lo stesso
 
 Per la corresponsione dei contributi di cui al presente articolo e' autorizzata la spesa di 1.000 milioni di lire da iscriversi nello stato di previsione della spesa del Ministero dell'interno per il periodo 1 luglio-31 dicembre 1964)).
 
-### Art. 39
+## Art. 39
 
 In luogo delle provvidenze previste dagli articoli 4 e 12 della legge 4 novembre 1963, n. 1457, modificati, rispettivamente, dai precedenti articoli 6 e 10, ai proprietari degli immobili e delle aziende industriali, commerciali e artigiane distrutti, che non intendono provvedere alla ricostruzione, puo' essere corrisposta una somma entro i limiti massimi dei due terzi del contributo previsto per la ricostruzione di ciascuna unita' immobiliare o dell'azienda, da ragguagliare al valore del bene alla data del 9 ottobre 1963.
 
@@ -588,11 +588,11 @@ Le somme da corrispondere, nei limiti di cui al primo comma, gravano sugli stanz
 
 Il primo comma del presente articolo non si applica nei confronti delle attrezzature mobili delle imprese edili distrutte o danneggiate. Ai proprietari di dette attrezzature sono concesse le provvidenze di cui allo articolo 12 della legge 4 novembre 1963, n. 1457 e seguenti, indipendentemente dalla ricostruzione delle attrezzature nei territori indicati dall'articolo 13 della predetta legge.
 
-### Art. 40
+## Art. 40
 
 Il Governo e' delegato ad emanare, entro tre mesi dalla data di entrata in vigore della presente legge, norme legislative per determinare le deroghe alle competenze ordinarie che risultino necessarie ai fini della accelerata esecuzione delle opere di ricostruzione e del coordinamento, snellimento e decentramento dei servizi statali relativi alle opere medesime.
 
-### Art. 41
+## Art. 41
 
 Alla maggiore spesa di lire 3.135 milioni prevista dagli articoli 8, 17, 21 e 38 della presente legge, per il periodo 1 luglio-31 dicembre 1964 si fa fronte con corrispondente riduzione dei fondi iscritti nello stato di previsione della spesa del Ministero del tesoro, per l'esercizio medesimo, riguardanti il finanziamento di provvedimenti legislativi in corso.
 

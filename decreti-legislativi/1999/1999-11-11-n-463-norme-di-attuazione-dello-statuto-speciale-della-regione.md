@@ -46,7 +46,7 @@ Capo I
 
 Modifiche al decreto del Presidente della Repubblica 20 gennaio 1973, n. 115, in materia di trasferimento alle province autonome di Trento e di Bolzano di beni demanial i e patrimoniali dello Stato e della regione
 
-#### Art. 1
+### Art. 1
 
 Trasferimento di beni concernenti
 
@@ -126,11 +126,9 @@ il demanio idrico statale
 
 > Il parere deve essere espresso nel termine di novanta giorni. Qualora il comandante territoriale non si pronunci entro il predetto termine, la mancata pronuncia equivale all'espressione del parere favorevole".
 
-## Capo II - Modifiche al decreto del Presidente della Repubblica 22 marzo 1974,
+## Capo II - Modifiche al decreto del Presidente della Repubblica 22 marzo 1974, n. 381, in materia di utilizzazione delle acque pubbliche e di opere idrauliche
 
-### n. 381, in materia di utilizzazione delle acque pubbliche e di opere - idrauliche
-
-#### Art. 2
+### Art. 2
 
 Modifiche all'articolo 5 del decreto del Presidente della Repubblica 22 marzo 1974, n. 381, e disposizioni in materia di piano generale
 
@@ -162,7 +160,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 6-7 novembre 2001, n. 353 (in G.U. 1a s.s. 14/11/2001, n. 44) ha dichiarato "l'illegittimita' costituzionale dell'art. 2, comma 1, lettera d), del decreto legislativo 11 novembre 1999, n. 463 (Norme di attuazione dello statuto speciale della Regione Trentino-Alto Adige in materia di demanio idrico, di opere idrauliche e di concessioni di grandi derivazioni a scopo idroelettrico, produzione e distribuzione di energia elettrica), limitatamente al periodo: "Ai fini della definizione della predetta intesa il Ministero dei lavori pubblici, sentiti i comitati istituzionali delle autorita' di bacino di rilievo nazionale interessati, assicura, attraverso opportuni strumenti di raccordo, la compatibilizzazione degli interessi comuni a piu' regioni e province autonome il cui territorio ricade in bacini idrografici di rilievo nazionale".
 
-#### Art. 3
+### Art. 3
 
 Sostituzione dell'articolo 6 del decreto del Presidente della Repubblica 22 marzo 1974, n. 381, concernente disposizioni particolari in materia di derivazioni di acque e di rilascio del minimo deflusso.
 
@@ -202,7 +200,7 @@ Sostituzione dell'articolo 6 del decreto del Presidente della Repubblica 22 marz
 
 > Esso e' sottoposto a revisione dopo i primi cinque anni e successivamente ogni quindici anni, seguendo lo stesso procedimento previsto per la sua formazione; nelle stesse forme possono essere approvate modifiche, prima della scadenza dei termini predetti, qualora il piano si riveli in qualche sua parte inattuabile o si manifesti comunque l'evidente convenienza di migliorarlo o di adattarlo a nuove esigenze".
 
-#### Art. 4
+### Art. 4
 
 Sostituzione dell'articolo 7 del decreto del Presidente della Repubblica 22 marzo 1974, n. 381, e delega alle province delle funzioni statali in materia di opere idrauliche di prima e seconda categoria.
 
@@ -234,7 +232,7 @@ Sostituzione dell'articolo 7 del decreto del Presidente della Repubblica 22 marz
 
 > In ordine agli archivi e documenti consegnati alle province ai sensi del primo comma del presente articolo, rimangono ferme le disposizioni di cui al decreto del Presidente della Repubblica 30 settembre 1963, n. 1409".
 
-#### Art. 5
+### Art. 5
 
 Modifiche all'articolo 11 del decreto del Presidente della Repubblica 22 marzo 1974, n. 381, concernenti disposizioni in materia di polizia idraulica.
 
@@ -256,7 +254,7 @@ Modifiche all'articolo 11 del decreto del Presidente della Repubblica 22 marzo 1
 
 > 4\. Le acque termali, minerali e per uso geotermico sono disciplinate da leggi speciali".
 
-#### Art. 6
+### Art. 6
 
 Introduzione dell'articolo 11-bis nel decreto del Presidente della Repubblica 22 marzo 1974, n. 381, concernente disposizioni per l'intavolazione e la voltura catastale dei beni relativi al demanio idrico provinciale.
 
@@ -264,7 +262,7 @@ Introduzione dell'articolo 11-bis nel decreto del Presidente della Repubblica 22
 
 "Art. 11-bis. - 1. I provvedimenti di accertamento dei limiti del demanio idrico provinciale, ivi comprese le spiagge lacuali, emanati in conformita' alla disciplina legislativa provinciale, costituiscono titolo per le conseguenti operazioni di intavolazione e di voltura catastale dei medesimi beni a favore della provincia. L'intavolazione e la voltura catastale sono effettuate a cura della provincia medesima".
 
-#### Art. 7
+### Art. 7
 
 Modifica all'articolo 14 del decreto del Presidente della Repubblica 22 marzo 1974, n. 381, concernente l'ambito territoriale di competenza per le concessioni di grandi derivazioni di acque pubbliche.
 
@@ -278,7 +276,7 @@ Modifica all'articolo 14 del decreto del Presidente della Repubblica 22 marzo 19
 
 > Per la concessione di grande derivazione a scopo idroelettrico dal torrente Avisio in localita' Stramentizzo spettano rispettivamente alle province di Trento e di Bolzano 2/3 e 1/3 dell'energia, o del corrispondente compenso in denaro, dovuti dal concessionario ai sensi del primo e terzo comma dell'art. 13 del decreto del Presidente della Repubblica 31 agosto 1972, n. 670, ferma restando la decorrenza di tali obblighi dalla data di entrata in vigore della legge costituzionale 10 novembre 1971, n. 1".
 
-#### Art. 8
+### Art. 8
 
 Introduzione dell'articolo 19-bis nel decreto del Presidente della Repubblica 22 marzo 1974, n. 381, concernente disposizioni sull'esercizio delle funzioni statali delegate alle province.
 
@@ -286,11 +284,9 @@ Introduzione dell'articolo 19-bis nel decreto del Presidente della Repubblica 22
 
 "Art. 19-bis. - 1. Ai fini dell'esercizio delle funzioni delegate con il presente decreto le province di Trento e di Bolzano, per il rispettivo territorio, applicano la normativa provinciale in materia di organizzazione degli uffici, di contabilita', di attivita' contrattuale, di lavori pubblici e di valutazione di impatto ambientale.".
 
-## Capo III - Modifiche al decreto del Presidente della Repubblica 26 marzo 1977,
+## Capo III - Modifiche al decreto del Presidente della Repubblica 26 marzo 1977, n. 235, in materia di produzione e distribuzione di energia
 
-### n. 235, in materia di produzione e distribuzione di energia
-
-#### Art. 9
+### Art. 9
 
 Modifiche al decreto del Presidente della Repubblica
 
@@ -472,7 +468,7 @@ l) fermo restando quanto disposto dall'articolo 10 del decreto del Presidente de
 
 > \- Il primo comma dell'art. 14 del citato D.P.R. 31 agosto 1972, n. 670, e' riportato nelle note all'art. 2.
 
-#### Art. 10
+### Art. 10
 
 Sostituzione dell'articolo 1 del decreto del Presidente della Repubblica 26 marzo 1977, n. 235, in materia di servizio elettrico locale.
 
@@ -582,7 +578,7 @@ b) di effettuare cessioni, scambi, vettoriamenti e diversioni di energia elettri
 
 > L'organo deliberante sara' costituito da membri eletti dai consigli comunali, assicurando la partecipazione delle minoranze. Per quanto attiene alla provincia di Bolzano, la partecipazione sara' assicurata compatibilmente con l'osservanza delle speciali norme relative alla rappresentanza dei gruppi linguistici".
 
-#### Art. 11
+### Art. 11
 
 Introduzione dell'articolo 1-bis nel decreto del Presidente della Repubblica 26 marzo 1977, n. 235, concernente la delega delle funzioni statali in materia di grandi derivazioni a scopo idroelettrico.
 
@@ -676,7 +672,7 @@ Resta fermo quanto previsto dalle convenzioni in atto tra Enel e province autono
 
 > L'attuazione del presente articolo e' subordinata all'approvazione del piano provinciale di cui all'art. 2 o alla costituzione dell'azienda provinciale di cui all'art. 10".
 
-#### Art. 12
+### Art. 12
 
 lntroduzione dell'articolo 1-ter nel decreto del Presidente della Repubblica 26 marzo 1977, n. 235, concernente il servizio pubblico di distribuzione dell'energia elettrica.
 
@@ -774,7 +770,7 @@ Relativamente al trasferimento alle province degli archivi e dei documenti si ap
 
 > \- Per il testo dell'art. 10 del D.P.R. 26 marzo 1977, n. 235, v. nelle note all'art. 19.
 
-#### Art. 13
+### Art. 13
 
 Introduzione dell'articolo 1-quater nel decreto del Presidente della Repubblica 26 marzo 1977, n. 235, concernente disposizioni per la destinazione dell'energia idroelettrica a servizi pubblici e a categorie di utenti.
 
@@ -798,7 +794,7 @@ Introduzione dell'articolo 1-quater nel decreto del Presidente della Repubblica 
 
 > "Le province stabiliscono altresi' con legge i criteri per la determinazione del prezzo dell'energia di cui sopra ceduta alle imprese distributrici, nonche' i criteri per le tariffe di utenza, le quali non possono comunque superare quelle deliberate dal CIP".
 
-#### Art. 14
+### Art. 14
 
 Modifica all'articolo 2 del decreto del Presidente della Repubblica 26 marzo 1977, n. 235, concernente il piano provinciale della distribuzione.
 
@@ -810,7 +806,7 @@ Modifica all'articolo 2 del decreto del Presidente della Repubblica 26 marzo 197
 
 > "Le deliberazioni degli enti locali relative a nuove assunzioni del servizio di distribuzione di energia elettrica sono rese esecutive dal competente organo provinciale previo accertamento della loro rispondenza alle indicazioni contenute in un piano della distribuzione approvato con provvedimento della provincia territorialmente competente e rispondente a criteri di economicita' e di piu' razionale utilizzazione dell'energia elettrica a disposizione del fabbisogno locale".
 
-#### Art. 15
+### Art. 15
 
 Modifica all'articolo 4 del decreto del Presidente della Repubblica 26 marzo 1977, n. 235, concernente il trasferimento degli impianti dell'Enel.
 
@@ -822,7 +818,7 @@ Modifica all'articolo 4 del decreto del Presidente della Repubblica 26 marzo 197
 
 > "Qualora nell'ambito del territorio nel quale il servizio di distribuzione e' stato assunto da ente locale ai sensi dei precedenti articoli, vi siano impianti di distribuzione dell'Enel, gli impianti stessi con decreto del presidente della giunta provinciale territorialmente competente sono trasferiti all'ente locale. A richiesta, sono trasferiti anche i beni relativi agli impianti di produzione dell'Enel qualora dismessi".
 
-#### Art. 16
+### Art. 16
 
 Modificazioni all'articolo 5 del decreto del Presidente della Repubblica 26 marzo 1977, n. 235, in materia di assunzione del servizio di distribuzione dell'energia elettrica da parte degli enti locali e di indennizzi.
 
@@ -858,7 +854,7 @@ c) dopo il terzo comma e' aggiunto il seguente:
 
 > \- Per il testo dell'art. 10 del D.P.R. 26 marzo 1977, n. 235, v. nelle note all'art. 19.
 
-#### Art. 17
+### Art. 17
 
 Modifica all'articolo 6 del decreto del Presidente della Repubblica 26 marzo 1977, n. 235, concernente il trasferimento all'ente locale di imprese esercitanti attivita' elettriche.
 
@@ -888,7 +884,7 @@ c) al terzo comma, le parole: "dell'ente" sono sostituite dalle seguenti: "del b
 
 > \- Il D.P.R. 25 febbraio 1963, n. 138, reca: "Norme relative agli indennizzi da corrispondere alle imprese assoggettate a trasferimento all'Enel".
 
-#### Art. 18
+### Art. 18
 
 Modificazioni all'articolo 9 del decreto del Presidente della Repubblica 26 marzo 1977, n. 235, in materia di rete nazionale di trasmissione dell'energia elettrica.
 
@@ -900,7 +896,7 @@ Modificazioni all'articolo 9 del decreto del Presidente della Repubblica 26 marz
 
 > \- Il primo comma dell'art. 14 del D.P.R. 31 agosto 1972, n. 670, e' riportato nelle note all'art. 2.
 
-#### Art. 19
+### Art. 19
 
 Modificazioni all'articolo 10 del decreto del Presidente della Repubblica 26 marzo 1977, n. 235, concernente il "soggetto elettrico provinciale".
 
@@ -928,7 +924,7 @@ Modificazioni all'articolo 10 del decreto del Presidente della Repubblica 26 mar
 
 ## Capo IV - Abrogazioni
 
-#### Art. 20
+### Art. 20
 
 Abrogazioni di disposizioni dei decreti del Presidente della Repubblica 22 marzo 1974, n. 381, 26 marzo 1977, n. 235, e 31 luglio 1978, n. 1017.
 
@@ -984,7 +980,7 @@ d) la lettera f) del primo comma dell'articolo 19.
 
 ## Capo V - Disposizioni finali
 
-#### Art. 21
+### Art. 21
 
 Disposizioni in materia di rimborso alle province autonome di
 

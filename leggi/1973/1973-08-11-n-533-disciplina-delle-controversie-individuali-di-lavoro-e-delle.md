@@ -26,7 +26,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il titolo IV del libro secondo del codice di procedura civile approvato con regio decreto 28 ottobre 1940, n. 1443, e' sostituito dal seguente:
 
@@ -316,11 +316,11 @@ Art. 447. - (Esecuzione provvisoria). - Le sentenze pronunciate nei giudizi rela
 
 Si applica il disposto dell'articolo 431.
 
-### Art. 2 - Abolizione dell'intervento in causa del pubblico ministero
+## Art. 2 - Abolizione dell'intervento in causa del pubblico ministero
 
 L'articolo 70, primo comma, n. 4, del codice di procedura civile e' abrogato.
 
-### Art. 3
+## Art. 3
 
 Al capo I del titolo V del libro terzo del codice di procedura civile e' aggiunta la seguente sezione:
 
@@ -332,7 +332,7 @@ Art. 618-bis. - (Procedimento). - Per le materie trattate nei capi I e II del ti
 
 Resta ferma la competenza del giudice dell'esecuzione nei casi previsti dal secondo comma dell'articolo 615 e dal secondo comma dell'articolo 617.
 
-### Art. 4 - Clausola compromissoria
+## Art. 4 - Clausola compromissoria
 
 Il secondo comma dell'articolo 808 del codice di procedura civile e' sostituito dai seguenti:
 
@@ -340,7 +340,7 @@ Il secondo comma dell'articolo 808 del codice di procedura civile e' sostituito 
 
 La sentenza arbitrale e' soggetta all'impugnazione per le nullita' previste dall'articolo 829 ed anche per violazione e falsa applicazione dei contratti e accordi collettivi".
 
-### Art. 5 - Arbitrato irrituale
+## Art. 5 - Arbitrato irrituale
 
 Nelle controversie riguardanti i rapporti di cui all'articolo 409 del codice di procedura civile l'arbitrato irrituale e' ammesso soltanto nei casi previsti dalla legge ovvero dai contratti e accordi collettivi. In questo ultimo caso, cio' deve avvenire senza pregiudizio della facolta' delle parti di adire l'autorita' giudiziaria.
 
@@ -348,7 +348,7 @@ Nelle controversie riguardanti i rapporti di cui all'articolo 409 del codice di 
 
 ((IL D.LGS. 30 MARZO 2001, N. 165 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE COMMA)).
 
-### Art. 6 - Rinunzie e transazioni
+## Art. 6 - Rinunzie e transazioni
 
 L'articolo 2113 del codice civile e' sostituito dal seguente:
 
@@ -360,15 +360,15 @@ Le rinunzie e le transazioni di cui ai commi precedenti possono essere impugnate
 
 Le disposizioni del presente articolo non si applicano alla conciliazione intervenuta ai sensi degli articoli 185, 410 e 411 del codice di procedura civile".
 
-### Art. 7 - Formazione del silenzio rifiuto sulla richiesta agli istituti previdenziali e assistenziali
+## Art. 7 - Formazione del silenzio rifiuto sulla richiesta agli istituti previdenziali e assistenziali
 
 In materia di previdenza e di assistenza obbligatorie, la richiesta all'istituto assicuratore si intende respinta, a tutti gli effetti di legge, quando siano trascorsi 120 giorni dalla data della presentazione, senza che l'istituto si sia pronunciato.
 
-### Art. 8 - Procedure amministrative in materia assistenziale e previdenziale
+## Art. 8 - Procedure amministrative in materia assistenziale e previdenziale
 
 Nelle procedure amministrative riguardanti le controversie di cui all'articolo 442 del codice di procedura civile, non si tiene conto dei vizi, delle preclusioni e delle decadenze verificatesi.
 
-### Art. 9
+## Art. 9
 
 Il capo V del titolo III delle disposizioni per l'attuazione del codice di procedura civile, approvate con regio decreto 18 dicembre 1941, n. 1368, e successive modificazioni, e' sostituito dal seguente:
 
@@ -402,7 +402,7 @@ Art. 152. - (Spese, competenze e onorari nei giudizi per prestazioni previdenzia
 
 ## DISPOSIZIONI SULLA GRATUITA DEL GIUDIZIO E SUL PATROCINIO STATALE
 
-### Art. 10 - Gratuita' del giudizio
+## Art. 10 - Gratuita' del giudizio
 
 L'articolo unico della legge 2 aprile 1958, n. 319, e' sostituito dal seguente:
 
@@ -414,7 +414,7 @@ Sono abolite relativamente ai ricorsi amministrativi riferentisi ai rapporti di 
 
 Le spese relative ai giudizi sono anticipate dagli uffici giudiziari e poste a carico dell'erario. Le disposizioni di cui al primo comma si applicano alle procedure di cui agli articoli 618-bis, 825 e 826 del codice di procedura civile".
 
-### Art. 11
+## Art. 11
 
 ((ARTICOLO ABROGATO DALLA L. 29 MARZO 2001, N. 134)). ((5))
 
@@ -424,7 +424,7 @@ AGGIORNAMENTO (5)
 
 Il D.P.R. 30 maggio 2002, n. 115 ha confermato (con l'art. 298, comma 1) l'abrogazione del presente articolo.
 
-### Art. 12
+## Art. 12
 
 ((ARTICOLO ABROGATO DALLA L. 29 MARZO 2001, N. 134)). ((5))
 
@@ -434,7 +434,7 @@ AGGIORNAMENTO (5)
 
 Il D.P.R. 30 maggio 2002, n. 115 ha confermato (con l'art. 298, comma 1) l'abrogazione del presente articolo.
 
-### Art. 13
+## Art. 13
 
 ((ARTICOLO ABROGATO DALLA L. 29 MARZO 2001, N. 134)). ((5))
 
@@ -444,7 +444,7 @@ AGGIORNAMENTO (5)
 
 Il D.P.R. 30 maggio 2002, n. 115 ha confermato (con l'art. 298, comma 1) l'abrogazione del presente articolo.
 
-### Art. 14
+## Art. 14
 
 ((ARTICOLO ABROGATO DALLA L. 29 MARZO 2001, N. 134)). ((5))
 
@@ -454,7 +454,7 @@ AGGIORNAMENTO (5)
 
 Il D.P.R. 30 maggio 2002, n. 115 ha confermato (con l'art. 298, comma 1) l'abrogazione del presente articolo.
 
-### Art. 15
+## Art. 15
 
 ((ARTICOLO ABROGATO DALLA L. 29 MARZO 2001, N. 134)). ((5))
 
@@ -464,7 +464,7 @@ AGGIORNAMENTO (5)
 
 Il D.P.R. 30 maggio 2002, n. 115 ha confermato (con l'art. 298, comma 1) l'abrogazione del presente articolo.
 
-### Art. 16
+## Art. 16
 
 ((ARTICOLO ABROGATO DALLA L. 29 MARZO 2001, N. 134)). ((5))
 
@@ -476,7 +476,7 @@ Il D.P.R. 30 maggio 2002, n. 115 ha confermato (con l'art. 298, comma 1) l'abrog
 
 ## DISPOSIZIONI SUL REGIME TRANSITORIO E SULLE STRUTTURE GIUDIZIARIE
 
-### Art. 17 - Costituzione delle preture in sezioni
+## Art. 17 - Costituzione delle preture in sezioni
 
 L'articolo 35 dell'ordinamento giudiziario, approvato con regio decreto 30 gennaio 1941, n. 12, e' cosi' modificato:
 
@@ -486,7 +486,7 @@ Nelle preture costituite in sezioni sono annualmente designate le sezioni alle q
 
 A ciascuna sezione debbono essere destinati i magistrati nel numero richiesto dalle esigenze del servizio, tenuto conto del numero dei processi pendenti e dell'urgenza della definizione delle controversie".
 
-### Art. 18 - Costituzione dei tribunali in sezioni
+## Art. 18 - Costituzione dei tribunali in sezioni
 
 L'articolo 46 dell'ordinamento giudiziario, approvato con regio decreto 30 gennaio 1941, n. 12, e' cosi' modificato:
 
@@ -496,11 +496,11 @@ Nei tribunali costituiti in sezioni sono annualmente designate le sezioni alle q
 
 A ciascuna sezione debbono essere destinati i magistrati nel numero richiesto dalle esigenze del servizio, tenuto conto del numero dei processi pendenti e della urgenza della definizione delle controversie".
 
-### Art. 19 - Sezione lavoro della Corte di cassazione
+## Art. 19 - Sezione lavoro della Corte di cassazione
 
 Presso la Corte di cassazione e' istituita una sezione incaricata esclusivamente della trattazione delle controversie di lavoro e di quelle in materia di previdenza e di assistenza. La Corte di cassazione nella detta sezione giudica col numero invariabile di cinque votanti.
 
-### Art. 20 - Disciplina transitoria dei giudizi pendenti
+## Art. 20 - Disciplina transitoria dei giudizi pendenti
 
 Le norme previste dalla presente legge sono applicabili anche ai giudizi in corso al momento della sua entrata in vigore.
 
@@ -510,7 +510,7 @@ Per le cause pendenti in primo grado avanti il tribunale, ove non siano pervenut
 
 L'appello e' proposto avanti la corte d'appello.
 
-### Art. 21 - Assegnazione dei magistrati agli uffici giudiziari
+## Art. 21 - Assegnazione dei magistrati agli uffici giudiziari
 
 Entro il 31 marzo successivo alla data di pubblicazione della presente legge, ed entro la stessa data di ogni anno successivo, i presidenti delle corti d'appello invieranno al Consiglio superiore della magistratura e al Ministro per la grazia e giustizia i dati statistici relativi alle controversie disciplinate dalla presente legge, comprendenti in particolare l'indicazione per ciascun ufficio del distretto del numero dei procedimenti pendenti al 31 dicembre dell'anno precedente, nonche' quello dei procedimenti sopravvenuti entro lo stesso anno.
 
@@ -522,7 +522,7 @@ Il Ministro di grazia e giustizia d'intesa con il Consiglio superiore della magi
 
 Per la copertura dei posti di organico presso le preture e i tribunali costituiti in piu' sezioni, sia la richiesta che la pubblicazione dei posti dovranno essere fatte con espresso riferimento alle esigenze di assegnare i magistrati alle sezioni incaricate della trattazione delle controversie previste dalla presente legge; e dovra', altresi', essere data la preferenza ai magistrati che, per essere stati gia' addetti esclusivamente alla trattazione delle controversie sopra ricordate per almeno due anni e per avere partecipato ai corsi di cui al comma precedente o per altra causa, abbiano una particolare competenza in materia. Anche in tal caso il magistrato trasferito non potra' essere incaricato della trattazione di controversie o di affari di diversa natura, se non dopo che siano trascorsi cinque anni dalla presa di possesso dell'ufficio, salvo che non ricorrano particolari motivi da indicare espressamente nel provvedimento di assegnazione.
 
-### Art. 22 - Costituzione delle sezioni per le controversie di lavoro fino alla definizione delle cause pendenti
+## Art. 22 - Costituzione delle sezioni per le controversie di lavoro fino alla definizione delle cause pendenti
 
 Fino a che non siano state decise tutte le controversie pendenti in primo grado innanzi alle preture e ai tribunali ed instaurate prima dell'entrata in vigore della presente legge, il numero dei magistrati addetti esclusivamente alla trattazione delle controversie di lavoro non potra' essere inferiore ad un terzo di quello di tutti i magistrati incaricati della trattazione delle controversie e degli affari civili.
 
@@ -532,15 +532,15 @@ Il capo dell'ufficio designera' i magistrati delle sezioni per le controversie d
 
 Agli altri magistrati della stessa sezione, sul cui ruolo non dovranno gravare cause pendenti a quella data, saranno assegnate le controversie instaurate dopo l'entrata in vigore della legge.
 
-### Art. 23 - Prove di concorso per l'ammissione in magistratura
+## Art. 23 - Prove di concorso per l'ammissione in magistratura
 
 Nelle prove orali del concorso per la nomina ad uditore giudiziario previsto dall'articolo 123 dell'ordinamento giudiziario, approvato con regio decreto 30 gennaio 1941, n. 12, sono inclusi il diritto del lavoro e la legislazione sociale.
 
-### Art. 24 - Adeguamento delle attrezzature. Onere finanziario
+## Art. 24 - Adeguamento delle attrezzature. Onere finanziario
 
 Per provvedere alle maggiori spese di ufficio dei tribunali e delle preture e all'adeguamento delle attrezzature delle preture in dipendenza della presente legge, gli stanziamenti dei capitoli 1114 e 1115 dello stato di previsione della spesa del Ministero di grazia e giustizia per l'anno finanziario 1973 sono aumentati rispettivamente della somma di lire 300 milioni e della somma di lire 1.450 milioni.
 
-### Art. 25
+## Art. 25
 
 (Aumento dell'organico della magistratura
 
@@ -550,7 +550,7 @@ Il ruolo organico della magistratura e' aumentato di trecento unita', con una ma
 
 Pertanto la tabella allegata alla legge 17 marzo 1969, n. 84, e' sostituita dalla tabella A allegata alla presente legge.
 
-### Art. 26 - Aumento degli organici dei cancellieri e dei coadiutori giudiziari - Onere finanziario
+## Art. 26 - Aumento degli organici dei cancellieri e dei coadiutori giudiziari - Onere finanziario
 
 Al fine di sopperire alle esigenze derivanti dall'applicazione della presente legge, i ruoli organici del personale della carriera delle cancellerie e dei coadiutori giudiziari sono aumentati rispettivamente di 200 e 250 unita', con una maggiore spesa annua complessiva di lire 819.720.000.
 
@@ -566,21 +566,21 @@ Le nomine ai posti messi a concorso in eccedenza a quelli disponibili alla data 
 
 Ai coadiutori giudiziari, oltre a quelli di ordine, possono essere affidati compiti di assistenza del giudice in udienza.
 
-### Art. 27 - Assunzione di dattilografi e stenodattilografi non di ruolo
+## Art. 27 - Assunzione di dattilografi e stenodattilografi non di ruolo
 
 I presidenti delle corti di appello, in attesa dell'espletamento dei concorsi di cui all'articolo precedente, per sopperire alle esigenze degli uffici di cancelleria addetti alle sezioni per le controversie di lavoro, possono autorizzare i presidenti dei tribunali e i dirigenti delle preture, a richiesta degli stessi, ad assumere dattilografi e stenodattilografi non di ruolo da destinare esclusivamente agli anzidetti uffici di cancelleria.
 
-### Art. 28 - Effetti del collocamento a riposo sui ruoli organici
+## Art. 28 - Effetti del collocamento a riposo sui ruoli organici
 
 Le disposizioni di cui all'ultimo comma dell'articolo 3 della legge 24 maggio 1970, n. 336, e al penultimo comma dell'articolo 67 del decreto del Presidente della Repubblica 30 giugno 1972, n. 748, non si applicano, con effetto dalla data di entrata in vigore delle disposizioni medesime, ai magistrati ed al personale dipendente dal Ministero di grazia e giustizia.
 
-### Art. 29 - Copertura finanziaria
+## Art. 29 - Copertura finanziaria
 
 All'onere finanziario derivante dalla presente legge, valutato per l'anno 1973 in complessive lire 4.942.760.000, si provvede con corrispondente riduzione del fondo di cui al capitolo 3523 dello stato di previsione della spesa del Ministero del tesoro per l'anno medesimo.
 
 Il Ministro per il tesoro e' autorizzato a provvedere, con propri decreti, alle occorrenti variazioni di bilancio.
 
-### Art. 30 - Entrata in vigore
+## Art. 30 - Entrata in vigore
 
 Salvo quanto disposto dal quarto comma dell'articolo 26, la presente legge entra in vigore 90 giorni dopo la pubblicazione sulla Gazzetta Ufficiale.
 
@@ -598,7 +598,7 @@ Visto, il Guardasigilli: ZAGARI
 
 ## DISPOSIZIONI SUL REGIME TRANSITORIO E SULLE STRUTTURE GIUDIZIARIE
 
-### Tabella A
+## Tabella A
 
 TABELLA A
 

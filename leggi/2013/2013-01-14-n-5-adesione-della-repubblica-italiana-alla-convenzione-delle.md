@@ -28,7 +28,7 @@ Promulga
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Autorizzazione all'adesione
 
@@ -38,7 +38,7 @@ Autorizzazione all'adesione
 
 > Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
-#### Art. 2
+### Art. 2
 
 Ordine di esecuzione
 
@@ -56,7 +56,7 @@ Ordine di esecuzione
 
 > (Omissis).».
 
-#### Art. 3
+### Art. 3
 
 Esecuzione delle sentenze della Corte internazionale di giustizia
 
@@ -72,7 +72,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 ottobre 2014, n. 238 (in G.U. 1a s.s. 29/10/2014, n. 45) ha dichiarato l'illegittimita' costituzionale del presente articolo.
 
-#### Art. 4
+### Art. 4
 
 Entrata in vigore
 
@@ -94,7 +94,7 @@ Visto, il Guardasigilli: Severino
 
 ## Allegati
 
-#### Convention
+### Convention
 
 Allegato
 
@@ -106,7 +106,7 @@ Parte di provvedimento in formato grafico
 
 ## Parte prima - Introduzione
 
-#### art. 1
+### art. 1
 
 Convenzione delle Nazioni Unite sulle immunita' giurisdizionali degli Stati e dei loro beni
 
@@ -130,7 +130,7 @@ Art. 1 Campo d'applicazione della presente Convenzione
 
 La presente Convenzione si applica all'immunita' giurisdizionale di uno Stato e dei suoi beni davanti ai tribunali di un altro Stato.
 
-#### Art. 2 Definizioni
+### Art. 2 Definizioni
 
 1\. Ai fini della presente Convenzione:
 
@@ -158,7 +158,7 @@ iii) ogni altro contratto o altra transazione di natura commerciale, industriale
 
 3\. Le disposizioni dei paragrafi 1 e 2 concernenti le definizioni dei termini impiegati nella presente Convenzione non pregiudicano l'impiego di tali termini ne' il senso che puo' essere dato loro in altri strumenti internazionali o nel diritto interno di uno Stato.
 
-#### art. 3
+### art. 3
 
 Art. 3 Privilegi e immunita' non pregiudicati dalla presente Convenzione
 
@@ -172,7 +172,7 @@ b) delle persone che vi sono assegnate.
 
 3\. La presente Convenzione non pregiudica i privilegi e le immunita' che il diritto internazionale riconosce a uno Stato per quanto concerne aeromobili o oggetti spaziali che gli appartengono o che esso gestisce.
 
-#### art. 4
+### art. 4
 
 Art. 4 Non retroattivita' della presente Convenzione
 
@@ -180,11 +180,11 @@ Senza pregiudizio dell'applicazione delle regole della presente Convenzione alle
 
 ## Parte seconda - Principi generali
 
-#### Art. 5 Immunita' degli Stati
+### Art. 5 Immunita' degli Stati
 
 Uno Stato beneficia, per se stesso e per i suoi beni, dell'immunita' giurisdizionale davanti ai tribunali di un altro Stato, secondo le disposizioni della presente Convenzione.
 
-#### art. 6
+### art. 6
 
 Art. 6 Modalita' d'attuazione dell'immunita' degli Stati
 
@@ -196,7 +196,7 @@ a) e' citato come parte nel procedimento; o
 
 b) non e' citato come parte nel procedimento, ma il procedimento e' di fatto mirato a recare pregiudizio ai suoi beni, diritti, interessi o attivita'.
 
-#### art. 7
+### art. 7
 
 Art. 7 Consenso esplicito all'esercizio della giurisdizione
 
@@ -210,7 +210,7 @@ c) mediante una dichiarazione davanti al tribunale o una comunicazione scritta i
 
 2\. L'accordo dato da uno Stato per l'applicazione della legge di un altro Stato non e' considerato consenso all'esercizio della giurisdizione dei tribunali dell'altro Stato.
 
-#### art. 8
+### art. 8
 
 Art. 8 Effetti della partecipazione a un procedimento davanti a un tribunale
 
@@ -230,7 +230,7 @@ b) far valere un diritto o un interesse nei confronti di un bene in causa nel pr
 
 4\. La non comparizione di uno Stato in un procedimento davanti a un tribunale di un altro Stato non puo' essere interpretata come consenso del primo Stato all'esercizio della giurisdizione di tale tribunale.
 
-#### Art. 9 Domande riconvenzionali
+### Art. 9 Domande riconvenzionali
 
 1\. Uno Stato che promuove un procedimento davanti a un tribunale di un altro Stato non puo' invocare l'immunita' giurisdizionale davanti a tale tribunale per quanto concerne una domanda riconvenzionale fondata sullo stesso rapporto giuridico o sugli stessi fatti della domanda principale.
 
@@ -240,7 +240,7 @@ b) far valere un diritto o un interesse nei confronti di un bene in causa nel pr
 
 ## Parte terza - Procedimenti in cui gli Stati non possono invocare l'immunita'
 
-#### Art. 10 Transazioni commerciali
+### Art. 10 Transazioni commerciali
 
 1\. Se uno Stato effettua una transazione commerciale con una persona fisica o giuridica straniera e se, in virtu' di norme applicabili del diritto internazionale privato, le contestazioni relative a tale transazione commerciale attengono alla giurisdizione di un tribunale di un altro Stato, lo Stato non puo' invocare l'immunita' giurisdizionale davanti a tale tribunale in un procedimento conseguente a detta transazione.
 
@@ -256,7 +256,7 @@ a) stare in giudizio; e
 
 b) acquisire, possedere o detenere e cedere beni, compresi i beni che lo Stato l'ha autorizzato a esercitare o gestire, e' implicato in un procedimento concernente una transazione commerciale in cui esso e' impegnato, l'immunita' giurisdizionale di cui beneficia lo Stato non e' pregiudicata.
 
-#### Art. 11 Contratti di lavoro
+### Art. 11 Contratti di lavoro
 
 1\. Sempre che gli Stati interessati non convengano diversamente, uno Stato non puo' invocare l'immunita' giurisdizionale davanti a un tribunale di un altro Stato, competente in materia, in un procedimento concernente un contratto di lavoro tra lo Stato e una persona fisica per un lavoro eseguito o da eseguirsi, interamente o in parte, sul territorio dell'altro Stato.
 
@@ -282,13 +282,13 @@ e) l'impiegato e' cittadino dello Stato datore di lavoro nel momento in cui l'az
 
 f) l'impiegato e lo Stato datore di lavoro hanno convenuto diversamente per scritto, fatte salve considerazioni d'ordine pubblico che conferiscono ai tribunali dello Stato del foro la giurisdizione esclusiva in ragione dell'oggetto dell'azione.
 
-#### art. 12
+### art. 12
 
 Art. 12 Lesione dell'integrita' fisica di una persona o danni ai beni
 
 Sempre che gli Stati interessati non convengano diversamente, uno Stato non puo' invocare l'immunita' giurisdizionale davanti a un tribunale di un altro Stato, competente in materia, in un procedimento concernente un'azione di riparazione pecuniaria in caso di decesso o di lesione dell'integrita' fisica di una persona, o in caso di danno o di perdita di un bene tangibile, dovuti a un atto o a un'omissione presumibilmente attribuibile allo Stato, se tale atto o omissione si sono prodotti, interamente o in parte, sul territorio dell'altro Stato e se l'autore dell'atto o dell'omissione era presente su tale territorio nel momento in cui si e' prodotto l'atto o l'omissione.
 
-#### art. 13
+### art. 13
 
 Art. 13 Proprieta', possesso e utilizzo di beni
 
@@ -300,7 +300,7 @@ b) di un diritto o interesse dello Stato su un bene mobiliare o immobiliare sort
 
 c) di un diritto o interesse dello Stato nell'amministrazione di beni quali beni di un trust, beni di un fallimento o beni di una societa' in caso di scioglimento.
 
-#### art. 14
+### art. 14
 
 Art. 14 Proprieta' intellettuale e industriale
 
@@ -310,7 +310,7 @@ a) la determinazione di un diritto dello Stato su un brevetto, un disegno o mode
 
 b) una presunta inosservanza da parte dello Stato, sul territorio dello Stato del foro, di un diritto secondo la lettera a) appartenente a un terzo e protetto dallo Stato del foro.
 
-#### art. 15
+### art. 15
 
 Art. 15 Partecipazione a societa' o altri gruppi
 
@@ -322,7 +322,7 @@ b) e' registrato o costituito conformemente alla legislazione dello Stato del fo
 
 2\. Uno Stato puo' tuttavia invocare l'immunita' giurisdizionale in un simile procedimento se gli Stati interessati l'hanno convenuto o se le parti alla controversia l'hanno stabilito mediante accordo scritto o se lo strumento che istituisce o regge la societa' o il gruppo in questione contiene disposizioni a questo riguardo.
 
-#### art. 16
+### art. 16
 
 Art. 16 Navi di cui uno Stato e' proprietario o esercente
 
@@ -338,7 +338,7 @@ Art. 16 Navi di cui uno Stato e' proprietario o esercente
 
 6\. Se in un procedimento si pone la questione del carattere governativo e non commerciale di una nave di cui uno Stato e' proprietario o esercente o di un carico di cui uno Stato e' proprietario, la presentazione davanti al tribunale di un'attestazione firmata da un rappresentante diplomatico o da un'altra autorita' competente di tale Stato avra' valore di prova del carattere della nave o del carico in questione.
 
-#### Art. 17 Effetti di un patto d'arbitrato
+### Art. 17 Effetti di un patto d'arbitrato
 
 Uno Stato che conclude per scritto un patto con una persona fisica o giuridica straniera allo scopo di sottoporre ad arbitrato contestazioni relative a una transazione commerciale non puo' invocare l'immunita' giurisdizionale davanti a un tribunale di un altro Stato, competente in materia, in un procedimento concernente:
 
@@ -348,11 +348,9 @@ b) la procedura d'arbitrato; o
 
 c) la conferma o l'annullamento del lodo arbitrale, sempre che il patto d'arbitrato non disponga diversamente.
 
-## Parte quarta - Immunita' degli Stati nei confronti delle misure coercitive in
+## Parte quarta - Immunita' degli Stati nei confronti delle misure coercitive in relazione a un procedimento davanti a un tribunale
 
-### relazione a un procedimento davanti a un tribunale
-
-#### art. 18
+### art. 18
 
 Art. 18 Immunita' degli Stati nei confronti delle misure coercitive anteriori alla sentenza
 
@@ -368,7 +366,7 @@ iii) una dichiarazione davanti al tribunale o una comunicazione scritta fatta do
 
 b) lo Stato abbia riservato o destinato beni all'adempimento della richiesta oggetto del procedimento in questione.
 
-#### art. 19
+### art. 19
 
 Art. 19 Immunita' degli Stati nei confronti delle misure coercitive posteriori alla sentenza
 
@@ -386,13 +384,13 @@ b) lo Stato abbia riservato o destinato beni all'adempimento della richiesta ogg
 
 c) lo Stato abbia stabilito che i beni sono specificamente utilizzati o destinati a essere utilizzati dallo Stato a scopi diversi da scopi di servizio pubblico non commerciali e sono situati sul territorio dello Stato del foro, a condizione che le misure coercitive posteriori alla sentenza riguardino soltanto beni che hanno un legame con l'ente contro il quale e' stato promosso il procedimento.
 
-#### art. 20
+### art. 20
 
 Art. 20 Effetti del consenso all'esercizio della giurisdizione sull'adozione di misure coercitive
 
 Nei casi in cui il consenso all'adozione di misure coercitive e' richiesto in virtu' degli articoli 18 e 19, il consenso all'esercizio della giurisdizione ai sensi dell'articolo 7 non implica che vi sia consenso all'adozione di misure coercitive.
 
-#### Art. 21 Categorie specifiche di beni
+### Art. 21 Categorie specifiche di beni
 
 1\. I beni statali delle seguenti categorie non sono considerati beni specificamente utilizzati o destinati a essere utilizzati dallo Stato a scopi diversi da scopi di servizio pubblico non commerciali ai sensi delle disposizioni dell'articolo 19 lettera c):
 
@@ -410,7 +408,7 @@ e) i beni facenti parte di un'esposizione di oggetti d'interesse scientifico, cu
 
 ## Parte quinta - Disposizioni varie
 
-#### art. 22
+### art. 22
 
 Art. 22 Notifica o comunicazione degli atti di citazione
 
@@ -432,7 +430,7 @@ ii) mediante qualsiasi altro mezzo accettato dallo Stato interessato, se la legg
 
 4\. Uno Stato che interviene nel merito di un procedimento promosso contro di lui non puo' in seguito opporre l'eccezione che la notifica o la comunicazione della citazione non sia stata conforme alle disposizioni dei paragrafi 1 e 3.
 
-#### Art. 23 Sentenza in contumacia
+### Art. 23 Sentenza in contumacia
 
 1\. Una sentenza in contumacia non puo' essere pronunciata contro uno Stato, eccetto che il tribunale assicuri che:
 
@@ -448,7 +446,7 @@ se del caso, da una traduzione nella lingua ufficiale o in una delle lingue uffi
 
 3\. Il termine per presentare ricorso contro una sentenza in contumacia non deve essere inferiore a quattro mesi e decorre dalla data in cui la copia della sentenza e' stata ricevuta o e' ritenuta essere stata ricevuta dallo Stato interessato.
 
-#### art. 24
+### art. 24
 
 Art. 24 Privilegi e immunita' nel corso di un procedimento davanti a un tribunale
 
@@ -458,15 +456,15 @@ Art. 24 Privilegi e immunita' nel corso di un procedimento davanti a un tribunal
 
 ## Parte sesta - Disposizioni finali
 
-#### Art. 25 Allegato
+### Art. 25 Allegato
 
 L'allegato della presente Convenzione costituisce parte integrante della stessa.
 
-#### Art. 26 Altri accordi internazionali
+### Art. 26 Altri accordi internazionali
 
 Le disposizioni della presente Convenzione non pregiudicano i diritti e gli obblighi degli Stati Parte in virtu' di accordi internazionali vigenti dei quali sono parti e che trattano questioni oggetto della presente Convenzione.
 
-#### Art. 27 Soluzione delle controversie
+### Art. 27 Soluzione delle controversie
 
 1\. Gli Stati Parte si impegnano a risolvere le controversie circa l'interpretazione o l'applicazione della presente Convenzione mediante negoziato.
 
@@ -478,11 +476,11 @@ Gli altri Stati Parte non sono vincolati al paragrafo 2 nei confronti di uno Sta
 
 4\. Uno Stato Parte che ha fatto una dichiarazione ai sensi del paragrafo 3 puo' ritirarla in qualsiasi momento mediante notifica al Segretario generale dell'Organizzazione delle Nazioni Unite.
 
-#### Art. 28 Firma
+### Art. 28 Firma
 
 La presente Convenzione e' aperta alla firma di tutti gli Stati fino al 17 gennaio 2007 presso la Sede dell'Organizzazione delle Nazioni Unite a New York.
 
-#### art. 29
+### art. 29
 
 Art. 29 Ratifica, accettazione, approvazione o adesione
 
@@ -492,13 +490,13 @@ Art. 29 Ratifica, accettazione, approvazione o adesione
 
 3\. Gli strumenti di ratifica, accettazione, approvazione o adesione saranno depositati presso il Segretario generale dell'Organizzazione delle Nazioni Unite.
 
-#### Art. 30 Entrata in vigore
+### Art. 30 Entrata in vigore
 
 1\. La presente Convenzione entrera' in vigore trenta giorni dopo la data del deposito del trentesimo strumento di ratifica, accettazione, approvazione o adesione presso il Segretario generale dell'Organizzazione delle Nazioni Unite.
 
 2\. Per ogni Stato che ratifichera', accettera' o approvera' la presente Convenzione o vi aderira' dopo il deposito del trentesimo strumento di ratifica, accettazione, approvazione o adesione, la presente Convenzione entrera' in vigore trenta giorni dopo la data del deposito dello strumento pertinente da parte dello Stato in questione.
 
-#### Art. 31 Denuncia
+### Art. 31 Denuncia
 
 1\. Ogni Stato Parte puo' denunciare la presente Convenzione mediante notifica scritta al Segretario generale dell'Organizzazione delle Nazioni Unite.
 
@@ -506,7 +504,7 @@ Art. 29 Ratifica, accettazione, approvazione o adesione
 
 3\. La denuncia non influisce in alcun modo sul dovere di ciascuno Stato Parte di adempiere qualsiasi obbligo enunciato nella presente Convenzione al quale esso, indipendentemente da quest'ultima, e' soggetto in virtu' del diritto internazionale.
 
-#### Art. 32 Depositario e notificazioni
+### Art. 32 Depositario e notificazioni
 
 1\. Il Segretario generale dell'Organizzazione delle Nazioni Unite e' depositario della presente Convenzione.
 
@@ -518,7 +516,7 @@ b) la data dell'entrata in vigore della presente Convenzione, conformemente all'
 
 c) tutti gli altri atti e tutte le altre notificazioni o comunicazioni in relazione alla presente Convenzione.
 
-#### Art. 33 Testi autentici
+### Art. 33 Testi autentici
 
 I testi arabo, cinese, francese, inglese, russo e spagnolo della presente Convenzione fanno ugualmente fede.
 
@@ -530,7 +528,7 @@ Interpretazione concordata di alcune disposizioni della Convenzione
 
 I1 presente allegato ha lo scopo di chiarire la portata delle disposizioni in questione.
 
-#### Art. 10
+### Art. 10
 
 Il termine «immunita'» menzionato nell'articolo 10 deve essere inteso nel contesto globale della presente Convenzione.
 

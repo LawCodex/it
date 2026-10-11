@@ -26,7 +26,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Dotazione organica e ruolo
 
@@ -40,7 +40,7 @@ Al servizio del collocamento della mano d'opera dei capoluoghi di provincia e de
 
 Ai collocatori comunali, oltre alle attribuzioni di cui all'articolo 1 della legge 16 maggio 1956, n. 562, ed all'articolo 12 ultimo comma, della legge 22 luglio 1961, n. 628, puo' essere affidato con decreto del Ministro per il lavoro e la previdenza sociale l'espletamento di particolari compiti che, comunque, non comportino l'esercizio diretto della funzione di vigilanza demandata agli ispettori del lavoro,
 
-### Art. 2
+## Art. 2
 
 Concorsi per l'immissione in ruolo
 
@@ -62,13 +62,13 @@ a) nozioni di ordinamento amministrativo;
 
 b) nozioni di statistica.
 
-### Art. 3
+## Art. 3
 
 Promozione a collocatore di 1ª classe
 
 La promozione a collocatore di la classe si consegue, a ruolo aperto, mediante scrutinio per merito comparativo al quale sono ammessi i collocatori di 2ª classe che abbiano compiuto cinque anni di effettivo servizio nella qualifica.
 
-### Art. 4
+## Art. 4
 
 Promozione a primo collocatore
 
@@ -80,21 +80,21 @@ La promozione a primo collocatore si consegue mediante:
 
 Per la promozione di cui al presente articolo, si osservano, in quanto applicabili, le norme previste dall'articolo 187 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
 
-### Art. 5
+## Art. 5
 
 Promozione a collocatore capo
 
 La promozione alla, qualifica di collocatore capo si consegue, per i posti disponibili, mediante scrutinio per merito comparativo al quale sono ammessi i primi collocatori che, alla data dello scrutinio, abbiano compiuto tre anni di effettivo servizio nella qualifica
 
-### Art. 6
+## Art. 6
 
 ((ARTICOLO ABROGATO DAL D.P.R. 28 DICEMBRE 1970, N. 1077))
 
-### Art. 7
+## Art. 7
 
 ((ARTICOLO ABROGATO DAL D.P.R. 28 DICEMBRE 1970, N. 1077))
 
-### Art. 8
+## Art. 8
 
 Rinvio
 
@@ -102,7 +102,7 @@ Per quanto non e' esplicitamente previsto nella presente legge al personale del 
 
 ## NORME TRANSITORIE E' FINALI
 
-### Art. 9
+## Art. 9
 
 Inquadramento collocatori comunali
 
@@ -118,7 +118,7 @@ L'inquadramento e' disposto previo giudizio favorevole della Commissione di cui 
 
 Le domande d'inquadramento di cui al presente articolo debbono pervenire al Ministero del lavoro e della previdenza sociale, tramite gli Uffici del lavoro e della massima occupazione, entro sessanta giorni dalla data di entrata in vigore della presente legge.
 
-### Art. 10
+## Art. 10
 
 Decorrenza inquadramento e valutazione servizio precedente
 
@@ -130,7 +130,7 @@ Per il personale inquadrato a norma del precedente articolo 9 il servizio presta
 
 Agli effetti del trattamento di quiescenza puo' essere riscattato, a domanda, il periodo di servizio prestato a contratto nelle qualifiche di cui alla legge 16 maggio 1956, n. 562, e nelle posizioni di incaricato temporaneo di cui all'articolo 27 del decreto del Presidente della Repubblica 19 marzo 1955, n. 520, di coadiutore di cui alla legge 21 agosto 1949, n. 586, e di corrispondente di cui alla legge 16 maggio 1956, n. 562. Si applicano a tal fine le disposizioni che disciplinano i riscatti dei servizi non di ruolo resi allo Stato)).
 
-### Art. 11
+## Art. 11
 
 Inquadramento dei corrispondenti
 
@@ -154,13 +154,13 @@ A decorrere dalla data di entrata in vigore della presente legge, cessa la facol
 
 All'onere di spesa relativo ai corrispondenti di cui al quarto comma del presente articolo, si provvedera' ai sensi del successivo articolo 16.
 
-### Art. 12
+## Art. 12
 
 Assolvimento degli obblighi militari
 
 Le norme del precedente articolo sono estese a coloro che, anteriormente alla data di entrata in vigore della presente legge e fino a quando sara' diventato efficace il decreto ministeriale d'inquadramento, siano cessati o cessino dall'incarico di corrispondenti, per l'assolvimento di obblighi militari, purche' ne facciano richiesta nel termine perentorio di sessanta giorni dalla data di entrata in vigore della presente legge di quindici giorni dalla data della chiamata alle armi.
 
-### Art. 13
+## Art. 13
 
 Commissione di inquadramento
 
@@ -188,7 +188,7 @@ Per la validita' delle riunioni della Commissione e' necessaria la presenza di a
 
 I lavori dalla Commissione dovranno essere ultimati entro dodici mesi dalla data di entrata in vigore della presente legge.
 
-### Art. 14
+## Art. 14
 
 Personale a contratto quinquennale
 
@@ -198,7 +198,7 @@ Le attribuzioni della Commissione di cui all'articolo 7 della legge 16 maggio 19
 
 In corrispondenza delle unita' mantenute in servizio a norma del primo comma del presente articolo, e fino alla loro cessazione dal servizio, devono essere mantenuti vacanti altrettanti posti nella dotazione organica delle qualifiche di collocatore di 1ª e 2ª classe del ruolo dei collocatori.
 
-### Art. 15
+## Art. 15
 
 Trattamento di previdenza
 
@@ -214,11 +214,11 @@ Ultimata la devoluzione all'ENPAS di cui al comma precedente, le eventuali ecced
 
 Le somme di cui trattasi, quali redditi del fondo mutuante nell'attivita' di assistenza creditizia, continuano ad essere esenti da ogni imposta conformemente all'articolo 10 della legge 25 novembre 1957, n. 1139, e al disposto del secondo comma dell'articolo 47 del decreto del Presidente della Repubblica 5 gennaio 1950, n. 180)).
 
-### Art. 16
+## Art. 16
 
 ((ARTICOLO ABROGATO DAL D.L. 2 MARZO 1974, N. 30, CONVERTITO, CON MODIFICAZIONI, DALLA L. 16 APRILE 1974, N. 114))
 
-### Art. 17
+## Art. 17
 
 La presente legge entra in vigore il primo giorno del mese successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e da tale data restano abrogate tutte le disposizioni con essa comunque contrastanti.
 

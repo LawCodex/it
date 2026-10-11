@@ -28,7 +28,7 @@ la seguente legge:
 
 ## Titolo I - PROGRAMMAZIONE SANITARIA E FINANZIARIA
 
-#### Art. 1
+### Art. 1
 
 Principi generali
 
@@ -132,7 +132,7 @@ Le regioni predispongono e approvano i propri piani sanitari regionali entro il 
 
 > Gli amministratori e i responsabili dell'ufficio di direzione dell'unita' sanitaria locale sono responsabili in solido delle spese disposte od autorizzate in eccedenza alla quota di dotazione loro attribuita, salvo che esse non siano determinate da esigenze obiettive di carattere locale da collegare a fattori straordinari di morbilita' accertati dagli organi sanitari della regione e finanziabili con la riserva di cui al quarto comma".
 
-#### Art. 2
+### Art. 2
 
 Obiettivi generali del piano sanitario nazionale
 
@@ -158,7 +158,7 @@ e) all'attivazione e al potenziamento dei servizi sanitari finalizzati alla real
 
 6\. I progetti-obiettivo sono finanziati in parte con risorse vincolate del fondo sanitario nazionale, in parte con risorse aggiuntive di provenienza diversa da quelle del fondo anzidetto, incluse quelle di competenza delle regioni e degli enti locali.
 
-#### Art. 3
+### Art. 3
 
 Prestazioni erogabili in forma indiretta
 
@@ -184,7 +184,7 @@ e prestazioni aggiuntive di assistenza sanitaria
 
 > "Le regioni e le province autonome possono con propria legge assicurare prestazioni di assistenza sanitaria aggiuntive a quelle previste dal precedente primo comma, con prelievo dalla quota del fondo comune di cui all'articolo 8 della legge 16 maggio 1970, n. 281, per le regioni a statuto ordinario, e dalle corrispondenti entrate di parte corrente previste dai rispettivi ordinamenti per le regioni a statuto speciale o province autonome, ovvero attingendo ad economie di gestione delle somme loro attribuite dal fondo sanitario nazionale. Le regioni e le province autonome sono tenute, nel caso, ad instaurare una contabilita' separata".
 
-#### Art. 4
+### Art. 4
 
 Osservazioni e opposizioni
 
@@ -192,7 +192,7 @@ Osservazioni e opposizioni
 
 2\. La presentazione delle anzidette osservazioni ed opposizioni non impedisce ne' preclude la proposizione di impugnative in via giurisdizionale.
 
-#### Art. 5
+### Art. 5
 
 Presidi e servizi di alta specialita'
 
@@ -218,7 +218,7 @@ c) le caratteristiche di professionalita' richieste per il personale.
 
 8\. Gli elenchi di cui ai commi 2 e 5 del presente articolo possono essere aggiornati o variati con la medesima procedura anche su richiesta delle singole regioni o province autonome o del Consiglio universitario nazionale.
 
-#### Art. 6
+### Art. 6
 
 Interventi in casi di inadempienza
 
@@ -228,17 +228,15 @@ Interventi in casi di inadempienza
 
 3\. In caso di omissione da parte delle unita' sanitarie locali di adempimenti amministrativi concernenti la pianificazione sanitaria regionale, previsti entro termini tassativi, si applicano le misure sostitutive stabilite dall'articolo 13 della legge 26 aprile 1982, n. 181, come modificato dall'articolo 11, comma 10, del decreto-legge 12 settembre 1983, n. 463, convertito, con modificazioni, dalla legge 11 novembre 1983, n. 638.
 
-## Titolo II - DETERMINAZIONE DELLE PRIORITA'
+## Titolo II - DETERMINAZIONE DELLE PRIORITA' PER IL TRIENNIO 1986-88
 
-### PER IL TRIENNIO 1986-88
-
-#### Art. 7
+### Art. 7
 
 Diritto alle prestazioni
 
 Per il triennio 1986-88 sono confermate le prestazioni sanitarie ed integrative attualmente erogate dal Servizio sanitario nazionale; annualmente vengono verificati i livelli e le modalita' di erogazione di tali prestazioni, previa relazione del Ministro della sanita' al Parlamento; eventuali modifiche possono essere apportate in sede di approvazione o modifica della legge di cui all'articolo 53 della legge 23 dicembre 1978, n. 833, come modificato, da ultimo, dall'articolo 1 della presente legge.
 
-#### Art. 8
+### Art. 8
 
 Azioni programmate e progetti-obiettivo
 
@@ -336,7 +334,7 @@ e) la prevenzione delle tossicomanie e la riabilitazione e il reinserimento dei 
 
 > Il Ministro della sanita' e le amministrazioni regionali sono tenuti a fornirsi reciprocamente ed a richiesta ogni notizia utile allo svolgimento delle proprie funzioni".
 
-#### Art. 9
+### Art. 9
 
 Piani sanitari delle regioni e delle province autonome
 
@@ -372,7 +370,7 @@ l) l'organizzazione delle attivita' di rilevazione dei dati epidemiologici, stat
 
 m) la specificazione delle risorse finanziarie aventi un vincolo di destinazione in base ai criteri di riparto del fondo sanitario nazionale e degli interventi programmati dalla regione o dalla provincia autonoma, nonche' i programmi delle attivita' da svolgere con tali fondi a destinazione vincolata.
 
-#### Art. 10
+### Art. 10
 
 Disposizioni particolari in materia
 
@@ -528,7 +526,7 @@ d) a migliorare la ricettivita' alberghiera dell'ospedale, anche per servizi da 
 
 > \- Il testo dell'art. 43, secondo comma, della legge n. 833/1978 e' riportato nella nota all'art. 10, comma 1, lettera a).
 
-#### Art. 11
+### Art. 11
 
 Programmi di sviluppo della ricerca epidemiologica
 
@@ -548,11 +546,9 @@ Programmi di sviluppo della ricerca epidemiologica
 
 > Con decreto del Ministro della sanita', sentito il Consiglio sanitario nazionale, sono dettate norme per i criteri in ordine alla scelta dei campioni di rilevazione e per la standardizzazione e comparazione dei dati sul piano nazionale e regionale".
 
-## Titolo III - NORME PER IL FINANZIAMENTO POLIENNALE DEL SERVIZIO SANITARIO
+## Titolo III - NORME PER IL FINANZIAMENTO POLIENNALE DEL SERVIZIO SANITARIO NAZIONALE
 
-### NAZIONALE
-
-#### Art. 12
+### Art. 12
 
 Disposizioni finanziarie per il triennio 1986-88
 
@@ -574,7 +570,7 @@ b) per la parte in conto capitale in lire 5.397 miliardi, di cui lire 1.680 mili
 
 ## Titolo IV - NORME TRANSITORIE E FINALI
 
-#### Art. 13
+### Art. 13
 
 Norme transitorie e finali
 

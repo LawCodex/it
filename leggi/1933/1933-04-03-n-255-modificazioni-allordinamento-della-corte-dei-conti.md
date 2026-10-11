@@ -31,7 +31,7 @@ Il Senato e la Camera dei deputati hanno approvato;
 
 Noi abbiamo sanzionato e promulghiamo quanto segue:
 
-### Art. 1
+## Art. 1
 
 La Corte dei conti e' divisa in tre Sezioni delle quali una di controllo e due giurisdizionali ed e' composta di:
 
@@ -55,7 +55,7 @@ Il procuratore generale ed i vice-procuratori generali rappresentano presso la C
 
 Un consigliere ha le funzioni di segretario generale.
 
-### Art. 2
+## Art. 2
 
 Il presidente della Corte dei conti riferisce al Capo del Governo, Primo Ministro Segretario di Stato, ai sensi dell'art. 1 del R. decreto 5 febbraio 1930, n. 21.
 
@@ -63,7 +63,7 @@ Fermo restando il disposto degli articoli 30 e 31 della legge 14 agosto 1862, n.
 
 La comunicazione prevista dall'art. 20 del R. decreto 18 novembre 1923, n. 2440, sara' fatta al Capo del Governo, Primo Ministro Segretario di Stato, ed al Parlamento.
 
-### Art. 3
+## Art. 3
 
 Il presidente della Corte, i presidenti di sezione, i consiglieri ed il procuratore generale sono nominati per decreto Reale su proposta del Capo del Governo, Primo Ministro Segretario di Stato, previa deliberazione del Consiglio dei Ministri.
 
@@ -75,13 +75,13 @@ Oltre i casi tassativamente stabiliti per legge o regolamento i consiglieri dell
 
 Previa determinazione del Consiglio dei Ministri per il collocamento fuori ruolo e fino al limite massimo di due, si applica ai consiglieri della Corte dei conti il disposto dell'articolo 2 del R. decreto-legge 15 ottobre 1925, n. 1791.
 
-### Art. 4
+## Art. 4
 
 Le nomine, promozioni e remozioni del personale di magistratura della Corte di grado 5° e 6° sono fatte con decreto Reale a relazione del Capo del Governo, Primo Ministro Segretario di Stato, giusta proposta del presidente della Corte con le norme del regolamento.
 
 Con le stesse modalita', ma con decreto del Capo del Governo, Primo Ministro Segretario di Stato, si provvede alle nomine, promozioni e remozioni degli impiegati delle carriere di concetto, di revisione e d'ordine.
 
-### Art. 5
+## Art. 5
 
 Sono ammessi nella carriera di concetto mediante concorso per titoli ed esame gli impiegati di gruppo A di altre Amministrazioni dello Stato e di gruppo B della Corte, provvisti del prescritto titolo di studio e qualificati ottimi nell'ultimo triennio, i quali abbiano non meno di quattro anni di servizio se di gruppo A e di otto se di gruppo B, ed in entrambi i casi non abbiano superato i trentacinque anni di eta', salvo l'eccezione stabilita a favore degli invalidi di guerra.
 
@@ -89,17 +89,17 @@ Non si applicano al personale della Corte le disposizioni del R. decreto 20 nove
 
 Il personale di revisione coadiuva quello di concetto in tutte le mansioni di carattere contabile ed e' assunto per pubblico concorso.
 
-### Art. 6
+## Art. 6
 
 La tabella annessa alla presente legge stabilisce il ruolo organico del personale della Corte.
 
-### Art. 7
+## Art. 7
 
 Al controllo degli atti di ogni singolo Ministero, che continuera' a svolgersi presso la Corte, e' delegato un consigliere coadiuvato da primi referendari o referendari preposti ad uffici costituiti da un congruo numero di funzionati ed impiegavi. Un presidente di sezione ne coordina l'azione.
 
 Con decreto Reale a relazione del Capo del Governo, Primo Ministro Segretario di Stato, di concerto con il Ministro per le finanze su proposta della Corte dei conti a Sezioni riunite potranno in via eccezionale essere istituiti uffici di riscontro presso le Amministrazioni centrali, quando cio' giudicato conveniente per un piu' rapido svolgimento del controllo.
 
-### Art. 8
+## Art. 8
 
 Qualora il consigliere delegato al riscontro riconosca contrari alle leggi ed ai regolamenti atti o decreti soggetti a registrazione ricusera' il visto restituendo i provvedimenti al Ministro con nota motivata.
 
@@ -111,7 +111,7 @@ Alla discussione possono intervenire i rappresentanti delle Amministrazioni inte
 
 Nulla e' innovato alle disposizioni vigenti per cio' che con, cerne la registrazione con riserva.
 
-### Art. 9
+## Art. 9
 
 Il rifiuto di registrazione e' assoluto ed annulla il provvedimento quando trattisi:
 
@@ -121,17 +121,17 @@ b) di decreti per nomine e promozioni di personale di qualsiasi ordine e grado, 
 
 c) di ordini di accreditamento a favore di funzionari delegati al pagamento di spese, emessi per un importo eccedente i limiti stabiliti dalle leggi.
 
-### Art. 10
+## Art. 10
 
 Uno dei consiglieri di cui al primo comma dell'art. 7 e' delegato al riscontro sul debito vitalizio e sulle spese fisse qualunque sia il bilancio cui facciano carico ed a quello sui magazzini dello Stato.
 
 Ai servizi relativi a tale riscontro puo' essere adibito anche personale non di ruolo, da assumersi mediante contratto a termine, con le norme stabilite nel regolamento.
 
-### Art. 11
+## Art. 11
 
 Fermo restando il disposto dell'art. 13 della legge 14 agosto 1862, n. 800, potra' il regolamento stabilire quali decreti Reali siano eccezionalmente esenti dal visto e dalla registrazione.
 
-### Art. 12
+## Art. 12
 
 La Corte tiene le scritture che le sono strettamente necessarie per l'esercizio della sua funzione.
 
@@ -139,7 +139,7 @@ Puo' valersi delle scritture tenute dalle ragionerie e puo' altresi' far proprie
 
 Quando vengano constatate irregolarita', la Corte ne da' comunicazione al Ministro competente per i suoi provvedimenti, salvo l'eventuale giudizio di responsabilita' a norma delle vigenti disposizioni.
 
-### Art. 13
+## Art. 13
 
 Ad integrazione delle normali funzioni di riscontro la Sezione del controllo ha facolta' di disporre eventuali accertamenti diretti presso funzionari ed agenti che abbiano maneggio di denaro o di materie di proprieta' dello Stato.
 
@@ -149,7 +149,7 @@ La stessa facolta' le spetta contro i funzionari cui sia fatto obbligo di trasme
 
 Con decreto Reale a relazione del Capo del Governo, Primo Ministro Segretario di Stato, di concerto col Ministro per le finanze, sentita la Corte dei conti, saranno determinati i funzionari cui debba far carico la responsabilita' di cui ai precedenti commi, i termini per la trasmissione degli atti, le penalita' e le modalita' per l'applicazione di esse.
 
-### Art. 14
+## Art. 14
 
 Delle due Sezioni giurisdizionali, una decide sui ricorsi in materia di pensioni di cui all'art. 19, l'altra decide in prima istanza o in grado di appello in tutte le rimanenti materie che le leggi vigenti attribuiscono al giudizio della Corte dei conti.
 
@@ -157,41 +157,41 @@ Per le deliberazioni di ciascuna Sezione e' necessario un numero dispari di vota
 
 Nulla e' innovato per cio' che riguarda la definizione in forma contenziosa di tutti i reclami degli impiegati della Corte del conti.
 
-### Art. 15
+## Art. 15
 
 Contro le decisioni di prima istanza in materia di conti giudiziali o riguardanti controversie comunque attinenti a gestioni contabili, e nei giudizi di responsabilita' per danno recato all'Erario, ai sensi della legge sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato, e' ammesso l'appello alle Sezioni riunite nel termine di 30 giorni purche' la somma oggetto della domanda giudiziale superi le L. 2000.
 
 Tale rimedio e' concesso, senza limite di somma, anche al pubblico ministero.
 
-### Art. 16
+## Art. 16
 
 La denunzia di cui al 2° comma dell'art. 83 della vigente legge sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato deve essere immediata.
 
 Il procuratore generale della Corte dei conti nelle istruttorie di sua competenza puo' disporre accertamenti diretti.
 
-### Art. 17
+## Art. 17
 
 Quando dall'esame dei conti sottoposti al giudizio della Corte emergano addebiti d'importo non superiore a L. 2000 il presidente della competente Sezione giurisdizionale o un consigliere da lui delegato potranno, sentito il pubblico ministero, determinare la somma da pagare all'Erario, salvo il giudizio della Corte nel caso di mancata accettazione da parte del contabile.
 
 Tale disposizione si applica anche nei giudizi di responsabilita' purche' il valore della causa non ecceda la detta somma.
 
-### Art. 18
+## Art. 18
 
 Sono abrogati l'art. 11 della legge 14 agosto 1862, n. 800, e tutte le altre disposizioni che attribuiscono alla Corte dei conti la liquidazione definitiva delle pensioni la quale viene affidata all'Amministrazione.
 
-### Art. 19
+## Art. 19
 
 Contro i provvedimenti definitivi di liquidazione delle pensioni e' ammesso il ricorso alla competente Sezione della Corte dei conti, la quale giudichera' con le norme della sua giurisdizione contenziosa.
 
 Alla medesima Sezione sono devoluti anche tutti gli altri ricorsi in materia di pensioni attualmente di competenza delle Sezioni riunite.
 
-### Art. 20
+## Art. 20
 
 Per le deliberazioni della Corte in Sezioni riunite e' necessario un numero dispari di votanti non inferiore a 11.
 
 ## Disposizioni transitorie.
 
-### Art. 21
+## Art. 21
 
 Alla eliminazione dell'arretrato esistente in materia di riscontro consuntivo e di contenzioso contabile alla data di entrata in vigore della presente legge provvederanno rispettivamente un consigliere coadiuvato da primi referendari o referendari ai sensi e con le modalita' di cui agli articoli 7 e 8 ed una Sezione speciale giurisdizionale composta di un presidente di sezione e di quattro membri di cui due potranno essere primi referendari o referendari.
 
@@ -209,7 +209,7 @@ Nulla e' innovato in materia di ricorsi per pensioni di guerra che continueranno
 
 Nel normale esame dei conti giudiziali successivi a quelli dell'esercizio 1932-33, se la Sezione speciale giurisdizionale di cui al presente articolo non avra' ancora giudicato l'ultimo conto arretrato di un determinato ufficio, la Corte potra' riprendere le rimanenze che figurano nei conti compilati dall'agente o dall'Amministrazione, salvo a far luogo in seguito ad una revocazione, ove occorra.
 
-### Art. 22
+## Art. 22
 
 Per i servizi di carattere transitorio ed eccezionale di cui al precedente articolo e per quelli relativi alle pensioni di guerra sono temporaneamente aggiunti al ruolo della Magistratura della Corte i posti indicati nell'annessa tabella B.
 
@@ -221,7 +221,7 @@ Il riassorbimento dei posti aggiunti nel ruolo della Magistratura verra' iniziat
 
 Il personale avventizio sara' licenziato a mano a mano che verranno ad esaurirsi i servizi di cui sopra.
 
-### Art. 23
+## Art. 23
 
 Il personale della Corte di grado inferiore al 4° che, alla data di entrata in vigore della presente legge, abbia, per la durata del servizio, maturato il diritto al massimo della pensione, sara' collocato a riposo d'autorita'.
 
@@ -233,7 +233,7 @@ Il decreto predetto non e' suscettibile di impugnativa.
 
 Il numero dei funzionari ed impiegati dispensati dal servizio non potra' superare l'aliquota di un ottavo del personale di grado inferiore al 4°.
 
-### Art. 24
+## Art. 24
 
 Il personale di magistratura e quello di concetto di grado superiore al 10° che non sara' stato eliminato a norma degli articoli precedenti verra' inquadrato nei nuovi ruoli col grado e nell'ordine di anzianita' in cui attualmente si trova.
 
@@ -243,7 +243,7 @@ I funzionari di gruppo A di altra Amministrazione dello Stato di grado non super
 
 Dall'inquadramento di cui ai precedenti commi verranno esclusi i primi segretari promossi a tale grado in base all'articolo 1 del R. decreto 20 novembre 1930, n. 1482, che non abbiano conseguito l'idoneita' gia' prescritta' per il grado medesimo.
 
-### Art. 25
+## Art. 25
 
 I posti del ruolo della magistratura di grado 5° e 6° e quelli del ruolo del personale di concetto che risulteranno vacanti dopo le nomine al grado 4° e dopo l'inquinamento di che al precedente articolo saranno ricoperti mediante promozione per merito comparativo dei funzionari del grado immediatamente inferiore che abbiano nel grado stesso non meno di un anno di anzianita'.
 
@@ -265,7 +265,7 @@ Coloro che supereranno l'esame di cui alla lettera a) saranno nominati secondo l
 
 Quei primi segretari e segretari che non conseguiranno la idoneita' saranno eliminati salvo passaggio, a domanda, nel gruppo B ove verranno inquadrati, con la rispettiva anzianita', nei gradi 9° e 10°. Essi potranno partecipare successivamente, per sole due volte, agli ordinari concorsi per l'ammissione al grado 9° del personale di concetto.
 
-### Art. 26
+## Art. 26
 
 I posti nella carriera di revisione (gruppo B) disponibili dopo l'applicazione dell'ultimo comma del precedente articolo saranno ricoperti:
 
@@ -277,7 +277,7 @@ c) mediante pubblico concorso con le norme stabilite dal regolamento.
 
 Le nomine di cui alla lettera a) avverranno nello stesso grado attualmente ricoperto; nel caso previsto dalla lettera b) nessuno potra' avvantaggiarsi di piu' di un grado e la anzianita' richiesta, per la eventuale promozione non dovra' essere inferiore ad un anno.
 
-### Art. 27
+## Art. 27
 
 La categoria di revisione istituita Col R. decreto 5 febbraio 1920, n. 97, e' soppressa.
 
@@ -287,7 +287,7 @@ Gli appartenenti a detto ruolo manterranno ad personam le attuali loro qualifich
 
 In corrispondenza al numero di impiegati compresi nel ruolo transitorio dovranno, per ciascun grado, lasciarsi altrettanti posti vacanti nel ruolo del personale di revisione.
 
-### Art. 28
+## Art. 28
 
 Il personale d'ordine che non sara' stato eliminato per collocamento a riposo o dispensa dal servizio ai sensi dei precedenti articoli, o che non avra' fatto passaggio nella categoria di revisione sara' inquadrato nel nuovo ruolo, nel rispettivo grado e nell'ordine di anzianita' in cui attualmente si trova.
 
@@ -297,13 +297,13 @@ a) mediante promozione degli impiegati dei gradi inferiori che abbiano non meno 
 
 b) mediante pubblico concorso con le norme del regolamento.
 
-### Art. 29
+## Art. 29
 
 La liquidazione della pensione ai funzionari ed impiegati che abbiano non meno di venti anni di servizio effettivamente prestato, dispensati ai sensi dei precedenti articoli, avverra' sulla base dello stipendio attuale che sara' considerato come percepito per la durata dell'ultimo triennio. La misura delle pensioni non potra' mai superare il massimo consentito dalle norme attualmente in vigore.
 
 A favore di quei funzionari che non avessero ancora raggiunto il minimo degli anni di servizio effettivo necessario per la liquidazione della pensione, sara' computato un aumento di non oltre cinque anni sul servizio predetto tanto agli effetti del compimento del periodo minimo necessario per conseguire il diritto al trattamento di riposo, quanto ai fini della misura dei relativi assegni.
 
-### Art. 30
+## Art. 30
 
 Le disposizioni dei precedenti articoli 23 e 29 si applicano anche al personale subalterno della Corte.
 
@@ -313,13 +313,13 @@ I posti iniziali del ruolo che risulteranno disponibili alla data di entrata in 
 
 ## Disposizioni finali.
 
-### Art. 31
+## Art. 31
 
 Il Governo del Re, sentita la Corte dei conti, provvedera' alla emanazione delle norme per la liquidazione delle pensioni da parte dell'Amministrazione e per il normale controllo preventivo della Corte dei conti su tale materia.
 
 Fino alla entrata in vigore delle norme predette continueranno ad applicarsi quelle che, in materia di pensioni, sono attualmente vigenti.
 
-### Art. 32
+## Art. 32
 
 Con decreti Reali a relazione del Capo del Governo, Primo Ministro Segretario di Stato, su proposta della Corte dei conti, saranno stabilite:
 
@@ -329,15 +329,15 @@ b) le norme per l'esercizio delle sue attribuzioni non contenziose;
 
 c) le norme per la carriera e la disciplina del personale della Corte stessa.
 
-### Art. 33
+## Art. 33
 
 Le variazioni al bilancio dipendenti dalla applicazione del la presente legge saranno disposte con decreto del Ministro per le finanze.
 
-### Art. 34
+## Art. 34
 
 Sono abrogate tutte le disposizioni contrarie alla presente legge.
 
-### Art. 35
+## Art. 35
 
 Il Governo del Re e' autorizzato, con le norme di che all'art. 32, a riordinare, coordinare e pubblicare in testo unico tutte le norme di legge riguardanti l'ordinamento della Corte dei conti con facolta' di introdurvi quelle disposizioni complementari ed integrative che si rendessero necessarie.
 
@@ -353,7 +353,7 @@ Visto, il Guardasigilli: DE FRANCISCI.
 
 ## Disposizioni finali.
 
-### Tabella A
+## Tabella A
 
 TABELLA A.
 
@@ -451,7 +451,7 @@ Magistratura. . . . . . . . . . . . . . . . . . . . . . . . . . 83 Personale di 
 
 Spesa per i servizi di cui all'art. 10 della legge L. 880.000.
 
-### Tabella B
+## Tabella B
 
 TABELLA B.
 

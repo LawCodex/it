@@ -25,41 +25,41 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Nello stato di previsione dell'entrata, negli stati di previsione dei Ministeri e nei bilanci delle amministrazioni e aziende autonome, approvati con la legge 23 aprile 1981, n. 164, sono introdotte, per l'anno 1981, le variazioni di cui alle annesse tabelle.
 
 ## STATO DI PREVISIONE DEL MINISTERO DEL TESORO
 
-### Art. 2
+## Art. 2
 
 L'importo massimo delle anticipazioni che il Ministero del tesoro e' autorizzato a concedere all'Azienda autonoma delle ferrovie dello Stato per l'anno finanziario 1981 fissato in lire 1.442.809.233.000 dall'articolo 7 della legge 23 aprile 1981, n. 164, relativa al bilancio di previsione dello Stato per l'anno finanziario 1981 e bilancio pluriennale per il triennio 1981-1983, e' aumentato di lire 230.000.000.000.
 
-### Art. 3
+## Art. 3
 
 L'importo massimo delle anticipazioni che il Ministero del tesoro e' autorizzato a concedere all'Amministrazione delle poste e delle telecomunicazioni per l'anno finanziario 1981, fissato in lire 1.760.777.837.000 dall'articolo 6 della legge 23 aprile 1981, n. 164, relativa al bilancio di previsione dello Stato per l'anno finanziario 1981 e bilancio pluriennale per il triennio 1981-1983, e' aumentato di lire 30.000.000.000.
 
-### Art. 4
+## Art. 4
 
 L'assegnazione di spesa prevista dalla legge 24 dicembre 1955, n. 1312, determinata con la tabella B allegata alla legge 23 aprile 1981, n. 164, e' aumentata di lire 500.000.000.
 
-### Art. 5
+## Art. 5
 
 L'assegnazione di spesa relativa alla legge 23 dicembre 1978, n. 833 - Istituzione del Servizio sanitario nazionale - determinata con la tabella B allegata alla legge 23 aprile 1981, n. 164, e modificata con l'articolo 8 della legge 20 novembre 1981, n. 652, e' stabilita, per l'anno finanziario 1981, in lire 21.948.000.000.000.
 
 ## STATO DI PREVISIONE DEL MINISTERO DELL'AGRICOLTURA E DELLE FORESTE
 
-### Art. 6
+## Art. 6
 
 Ai sensi dell'articolo 20, primo comma, della legge 27 dicembre 1977, n. 984, e' autorizzata, per l'anno finanziario 1981, la spesa di lire 2.500.000.000 da destinare al settore forestazione, per essere assegnata, in coerenza con le linee del piano agricolo nazionale adottato ai sensi e per gli effetti della medesima legge 27 dicembre 1977, n. 984, all'Ente Parco nazionale del Gran Paradiso e all'Ente autonomo del Parco nazionale d'Abruzzo, in ragione di lire 1.000.000.000 ciascuno, nonche' alla Gestione dell'ex Azienda di Stato per le foreste demaniali, in ragione di lire 500.000.000, per provvedere alle esigenze connesse alla tutela delle riserve naturali.
 
 ## DISPOSIZIONI FINALI
 
-### Art. 7
+## Art. 7
 
 Sugli stanziamenti di cui alla presente legge possono essere assunti impegni entro il termine di venti giorni dalla data di pubblicazione della legge medesima nella Gazzetta Ufficiale della Repubblica.
 
-### Art. 8
+## Art. 8
 
 La presente legge entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -75,7 +75,7 @@ Visto, il Guardasigilli: DARIDA
 
 ## DISPOSIZIONI FINALI
 
-### Tabella A
+## Tabella A
 
 TABELLA A.
 
@@ -83,7 +83,7 @@ TABELLA DI VARIAZIONI ALLO STATO DI PREVISIONE DELL'ENTRATA PER L'ANNO FINANZIAR
 
 Parte di provvedimento in formato grafico
 
-### Tabella B
+## Tabella B
 
 TABELLA B.
 
@@ -91,7 +91,7 @@ TABELLA DI VARIAZIONI AGLI STATI DI PREVISIONE DELLA SPESA PER L'ANNO FINANZIARI
 
 Parte di provvedimento in formato grafico
 
-### Tabella C
+## Tabella C
 
 TABELLA C.
 

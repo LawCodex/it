@@ -168,24 +168,54 @@ def split_article(text):
     return pre, label, rubric, "\n".join(rest)
 
 
+DIV_KINDS = [("PARTE", 0), ("LIBRO", 1), ("TITOLO", 2), ("CAPO", 3), ("CAPITOLO", 3),
+             ("SEZIONE", 4), ("SOTTOSEZIONE", 5), ("PARAGRAFO", 6), ("§", 6)]
+DIV_RE = re.compile(r"^[(\s]*(PARTE|LIBRO|TITOLO|CAPO|CAPITOLO|SEZIONE|SOTTOSEZIONE|PARAGRAFO|§)"
+                    r"(?=$|[\s\-.,:;)IVXLCDM0-9])", re.I)
+NUM_RE = re.compile(r"^[(\s]*([IVXLCDM]+|\d+|[A-Z])([\s.\-]*(BIS|TER|QUATER|QUINQUIES|SEXIES)?)"
+                    r"[)\s.]*$", re.I)
+
+
+def div_kind(seg):
+    if len(seg) > 60:
+        return None
+    m = DIV_RE.match(seg)
+    if not m:
+        return None
+    return dict(DIV_KINDS)[m.group(1).upper()]
+
+
 def group_headings(numnir):
-    """'LIBRO PRIMO*DELLE PERSONE*TITOLO I*...*' -> [(position, heading text)]."""
+    """Normattiva group label -> [(division rank or None, heading text)].
+
+    The label lists the divisions that start at this point, '*'-separated, e.g.
+    '-*-*LIBRO PRIMO*DELLE PERSONE E DELLA FAMIGLIA*TITOLO I*DELLE PERSONE FISICHE*' or
+    'Capo III**Gestione della prevenzione**Sezione*I**MISURE DI TUTELA**' ('-' = unchanged).
+    Each division keyword (Parte, Libro, Titolo, Capo, Sezione, §) starts a heading, the
+    following segments are its title; segments before any keyword are a standalone heading."""
     if not numnir:
         return []
-    parts = numnir.replace("\n", " ").split("*")
-    if parts and not parts[-1].strip():
-        parts = parts[:-1]
-    out = []
-    for p in range(0, len(parts), 2):
-        a = " ".join(parts[p].split())
-        b = " ".join(parts[p + 1].split()) if p + 1 < len(parts) else ""
-        a = "" if a == "-" else a
-        b = "" if b == "-" else b
-        if not a and not b:
-            continue
-        txt = a + (" - " + b if a and b else b)
-        out.append((p // 2, txt))
-    return out
+    segs = [" ".join(p.split()) for p in numnir.replace("\n", " ").split("*")]
+    segs = [p for p in segs if p and p != "-"]
+    out = []  # [kind, label, [titles]]
+    for seg in segs:
+        k = div_kind(seg)
+        if k is not None:
+            out.append([k, seg, []])
+        elif out and out[-1][0] is not None and not out[-1][2] and NUM_RE.match(seg) \
+                and not NUM_RE.match(out[-1][1].split()[-1] if len(out[-1][1].split()) > 1 else ""):
+            out[-1][1] += " " + seg            # 'Sezione' + 'I'
+        elif out:
+            out[-1][2].append(seg)
+        else:
+            out.append([None, seg, []])
+    res = []
+    for k, label, titles in out:
+        txt = label
+        if titles:
+            txt += " - " + " ".join(titles)
+        res.append((k, txt))
+    return res
 
 
 class Renderer:
@@ -207,7 +237,8 @@ def collect_positions(elems, acc):
     for x in elems or []:
         if x.get("nomeNir") not in ("articolo", "allegato") and x.get("numNir"):
             for p, _ in group_headings(x["numNir"]):
-                acc.add(p)
+                if p is not None:
+                    acc.add(p)
         collect_positions(x.get("elementi"), acc)
 
 
@@ -248,7 +279,10 @@ def render_elements(r, elems, rank, art_level, first):
                 render_elements(r, x["elementi"], rank, art_level, False)
         else:
             for p, txt in group_headings(x.get("numNir")):
-                r.heading(2 + rank[p], txt)
+                lvl = 2 + (rank[p] if p is not None else 0)
+                if lvl >= art_level and art_level == 6:
+                    lvl = 7  # rendered in bold, articles stay the deepest heading level
+                r.heading(lvl, txt)
             render_elements(r, x.get("elementi"), rank, art_level, False)
 
 

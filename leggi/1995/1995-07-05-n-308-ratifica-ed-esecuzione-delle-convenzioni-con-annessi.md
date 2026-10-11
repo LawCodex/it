@@ -27,11 +27,11 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare le convenzioni, con annessi, firmate a Vienna l'8 novembre 1968, sulla circolazione e sulla segnaletica stradale e ad aderire agli accordi europei, con annessi, firmati a Ginevra il 1 maggio 1971, sulle stesse materie ed al protocollo, con annessi, firmato a Ginevra il 1 marzo 1973, sui segnali stradali.
 
-#### Art. 2
+### Art. 2
 
 1\. Piena ed intera esecuzione e' data agli atti internazionali di cui all'articolo 1 a fare data della loro entrata in vigore conformemente a quanto disposto:
 
@@ -45,7 +45,7 @@ d) per l'accordo europeo sulla segnaletica stradale dall'articolo 4, paragrafo 2
 
 e) per il protocollo sulla segnaletica stradale dall'articolo 4, paragrafo 2.
 
-#### Art. 3
+### Art. 3
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -59,7 +59,7 @@ DINI, Presidente del Consiglio dei Ministri AGNELLI, Ministro degli affari ester
 
 ## Allegati
 
-#### Allegato
+### Allegato
 
 Acte Final
 
@@ -75,7 +75,7 @@ Parte di provvedimento in formato grafico
 
 Parte di provvedimento in formato grafico
 
-#### Atto finale
+### Atto finale
 
 ATTO FINALE DELLA CONFERENZA DELLE NAZIONI UNITE
 
@@ -385,7 +385,7 @@ NELL'INTENTO di facilitare la Circolazione stradale internazionale e di accresce
 
 HANNO CONVENUTO le seguenti disposizioni:
 
-#### Articolo 1
+### Articolo 1
 
 Definizioni
 
@@ -537,7 +537,7 @@ aa) l'obbligo per il conducente di un veicolo di "cedere il
 
 passaggio" ad altri veicoli significa che detto conducente non deve continuare la marcia o la manovra oppure riprenderla se cio' puo' costringere i conducenti di altri veicoli a modificare bruscamente la direzione o la velocita' dei loro veicoli.
 
-#### Articolo 2
+### Articolo 2
 
 Allegati alla Convenzione
 
@@ -571,7 +571,7 @@ L'allegato 7: permesso internazionale di guida;
 
 Sono parte integrante della presente Convenzione.
 
-#### Articolo 3
+### Articolo 3
 
 Obblighi delle Parti contraenti
 
@@ -623,7 +623,7 @@ Convenzione le misure che le Parti contraenti hanno preso o prenderanno sia unil
 
 non costituiscono un ostacolo al diritto di ogni Parte contraente di subordinare l'ammissione sul proprio territorio, in circolazione internazionale, degli autoveicoli, dei rimorchi, dei velocipedi e dei ciclomotori, nonche' dei loro conducenti e dei loro occupanti, alla propria regolamentazione dei trasporti commerciali di viaggiatori e di cose, alla propria regolamentazione in materia di assicurazione della responsabilita' civile dei conducenti ed alla propria regolamentazione in materia doganale, nonche' in generale alle proprie regolamentazioni in campi diversi dalla circolazione stradale.
 
-#### Articolo 4
+### Articolo 4
 
 Segnaletica
 
@@ -655,7 +655,7 @@ rischino sia di essere confusi con dei segnali o con altre installazioni che ser
 
 ## Capitolo II - NORME APPLICABILI ALLA CIRCOLAZIONE STRADALE
 
-#### Articolo 5
+### Articolo 5
 
 Valore della segnalazione
 
@@ -667,7 +667,7 @@ questione sembrino essere in contraddizione con altre norme di circolazione, con
 
 circolazione prevalgono su quelle indicate dai segnali stradali che regolano la precedenza.
 
-#### Articolo 6
+### Articolo 6
 
 Ingiunzioni date agli agenti preposti alla circolazione.
 
@@ -699,7 +699,7 @@ c) l'oscillazione di una luce rossa; questo gesto significa
 
 sulle prescrizioni indicate dai segnali luminosi della circolazione o dai segni sulla carreggiata nonche' sulle norme di circolazione.
 
-#### Articolo 7
+### Articolo 7
 
 Regole generali
 
@@ -711,7 +711,7 @@ che possa costituire un pericolo o un ostacolo per la circolazione, mettere in p
 
 utenti della strada debbano evitare di disturbare la circolazione o di rischiare di renderla pericolosa gettando, deponendo o abbandonando sulla strada oggetti o materiali o creando qualche altro ostacolo sulla strada. Gli utenti della strada che non hanno potuto evitare di creare un ostacolo o un pericolo debbono prendere le misure necessarie per rimuoverlo al piu' presto possibile e se non possono rimuoverlo immediatamente, per segnalarlo agli altri utenti della strada.
 
-#### Articolo 8
+### Articolo 8
 
 Conducenti
 
@@ -735,7 +735,7 @@ l'abilita' necessarie per la guida del veicolo; questa disposizione non e' tutta
 
 proprio veicolo o deve poter guidare i propri animali.
 
-#### Articolo 9
+### Articolo 9
 
 Greggi
 
@@ -743,7 +743,7 @@ Si raccomanda che le legislazioni nazionali prevedano che, salvo
 
 deroghe accordate per facilitare le migrazioni, i greggi siano suddivisi in gruppi di lunghezza moderata e separati gli uni dagli altri da intervalli sufficientemente distanziati per la convenienza della circolazione.
 
-#### Articolo 10
+### Articolo 10
 
 Posizione sulla carreggiata
 
@@ -771,7 +771,7 @@ b) Sulle carreggiate in cui la circolazione avviene nei due sensi
 
 e che comportano le tre corsie, nessun conducente deve occupare la corsia situata al bordo della carreggiata opposto a quello corrispondente al senso della circolazione.
 
-#### Articolo 11
+### Articolo 11
 
 Sorpasso e circolazione in file
 
@@ -887,7 +887,7 @@ b) Nel caso previsto dal comma a) del presente paragrafo, il
 
 modo di guida previsto sara' considerato non costituente un sorpasso ai sensi della presente Convenzione; tuttavia le disposizioni del paragrafo 9 del presente articolo restano applicabili.
 
-#### Articolo 12
+### Articolo 12
 
 Incrocio
 
@@ -899,7 +899,7 @@ distanza laterale sufficiente, e se necessario, accostarsi al bordo della carreg
 
 aventi analoghe caratteristiche in cui l'incrocio e' impossibile o difficile il conducente del veicolo che scende deve accostare il proprio veicolo per lasciar passare ogni veicolo che sale, salvo il caso in cui le piazzole che permettono ai veicoli di accostare siano disposte lungo la carreggiata in modo tale che, tenuto conto della velocita' e della posizione dei veicoli, il veicolo che sale disponga dinanzi a se' di una piazzola e che una retromarcia di uno dei veicoli sia necessaria se il veicolo che sale non si accosti su tale piazzola. Nel caso in cui uno dei due veicoli che stanno per incrociare debba fare retromarcia per consentire l'incrocio, e' il conducente del veicolo che scende che deve fare tale manovra salvo se questa si presenta chiaramente piu' facile per il conducente del veicolo che sale. Le Parti contraenti o le loro parti costitutive possono tuttavia per determinati veicoli o determinate strade o sezioni di strade prescrivere delle regole speciali differenti da quelle del presente paragrafo.
 
-#### Articolo 13
+### Articolo 13
 
 Velocita' e distanza tra veicoli
 
@@ -931,7 +931,7 @@ fissare delle cifre diverse da quelle che sono indicate nel presente paragrafo p
 
 come un impedimento per le Parti contraenti o le loro parti costitutive a prescrivere dei limiti, generali o locali, di velocita' per tutti i veicoli o per alcune categorie di veicoli o a prescrivere su alcune strade o su alcune categorie di strade sia delle velocita' minime e massime, sia soltanto delle velocita' minime o massime, o a prescrivere degli intervalli minimi giustificati dalla presenza sulla strada di alcune categorie di veicoli che presentino un pericolo particolare a causa specialmente del loro peso o del loro carico.
 
-#### Articolo 14
+### Articolo 14
 
 Prescrizioni generali per le manovre.
 
@@ -949,7 +949,7 @@ spostamento laterale, ogni conducente deve annunziare la sua intenzione chiarame
 
 L'indicazione deve cessare appena la manovra e' compiuta.
 
-#### Articolo 15
+### Articolo 15
 
 Prescrizioni particolari relative ai veicoli dei servizi
 
@@ -959,7 +959,7 @@ Si raccomanda che la legislazioni nazionali prevedano che, nei
 
 centri abitati allo scopo di facilitare la circolazione dei veicoli dei servizi regolari di trasporto pubblico, i conducenti degli altri veicoli, con riserva delle disposizioni del paragrafo 1 dell'articolo 17 della presente Convenzione rallentino e se necessario si fermino per consentire che i veicoli di trasporto pubblico effettuino la manovra necessaria per rimettersi in moto alla partenza delle fermate segnalate come tali. Le disposizioni cosi emanate dalle Parti contraenti o dalle loro parti costitutive non modificano in alcun modo l'obbligo per i conducenti dei veicoli di trasporto pubblico di adottare, dopo aver annunciato a mezzo degli indicatori di direzione la loro intenzione di rimettersi in moto, le precauzioni necessarie per evitare ogni rischio di incidente.
 
-#### Articolo 16
+### Articolo 16
 
 Cambiamenti di direzione
 
@@ -979,7 +979,7 @@ della possibilita' per le Parti contraenti o per le loro parti costitutive di em
 
 deve, senza pregiudizio delle disposizioni dell'articolo 21 della presente Convenzione per quanto riguarda i pedoni lasciar passare i veicoli provenienti in senso inverso sulla carreggiata che egli si appresta a lasciare ed i velocipedi ed i ciclomotori circolanti sulle piste per velocipedi che traversano la carreggiata sulla quale egli sta per immettersi.
 
-#### Articolo 17
+### Articolo 17
 
 Rallentamento
 
@@ -991,7 +991,7 @@ non richieste da motivi di sicurezza.
 
 l'andatura del proprio veicolo deve, a meno che tale rallentamento sia determinato da un pericolo imminente, assicurarsi preliminarmente che puo' farlo senza pericolo ne' intralcio eccessivo per gli altri conducenti. Deve inoltre, salvo se si e' assicurato di non essere seguito da un veicolo o di non essere seguito che a una distanza considerevole, indicare la propria intenzione chiaramente e sufficientemente in anticipo, facendo con il braccio un segno appropriato; tuttavia tale disposizione non si applica se l'indicazione di rallentamento e' data dall'accensione sul veicolo delle luci di arresto indicate al paragrafo 31 dell'allegato 5 della presente Convenzione.
 
-#### Articolo 18
+### Articolo 18
 
 Intersezioni ed obbligo di cedere il passaggio.
 
@@ -1031,7 +1031,7 @@ circolazione e' regolata da segnali luminosi di circolazione puo' lasciare liber
 
 su rotaie sono obbligati a cedere il passaggio ai veicoli che si muovono su rotaie.
 
-#### Articolo 19
+### Articolo 19
 
 Passaggi a livello
 
@@ -1055,7 +1055,7 @@ d) nessun utente della strada deve prolungare indebitamente
 
 l'attraversamento di un passaggio a livello; in caso di immobilizzazione forzata di un veicolo, il suo conducente deve sforzarsi di portarlo fuori delle linee ferroviarie e se non puo' farlo, deve prendere immediatamente tutte le misure in suo potere perche' i conducenti siano avvisati in tempo sufficiente dell'esistenza del pericolo.
 
-#### Articolo 20
+### Articolo 20
 
 Prescrizioni applicabili ai pedoni
 
@@ -1123,7 +1123,7 @@ pedoni non debbono allungare il loro percorso, attardarsi o arrestarsi senza nec
 
 possono emanare delle disposizioni piu' severe per i pedoni che attraversano le carreggiate.
 
-#### Articolo 21
+### Articolo 21
 
 Comportamento dei conducenti nei confronti dei pedoni
 
@@ -1151,7 +1151,7 @@ ad obbligare i conducenti dei veicoli a fermarsi ogni volta che
 
 dei pedoni si sono inoltrati o si inoltrano su di un passaggio pedonale segnalato come tale o delimitato da segni sulla carreggiata nelle condizioni previste nell'articolo 20 della presente Convenzione, oppure a vietar loro di impedire o di disturbare il passaggio dei pedoni che attraversano la carreggiata ad un'intersezione o nelle immediate vicinanze di un'intersezione, anche se non vi e' in quel punto un passaggio pedonale segnalato come tale o delimitato da segni sulla carreggiata.
 
-#### Articolo 22
+### Articolo 22
 
 Isole di rifugio sulla carreggiata
 
@@ -1167,7 +1167,7 @@ b) quando l'isola di rifugio, il salvagente o il dispositivo e'
 
 sull'asse di una carreggiata su cui la circolazione avviene nei due sensi; in quest'ultimo caso, il conducente deve lasciare l'isola di rifugio, il salvagente o il dispositivo dal lato opposto a quello corrispondente al senso della circolazione.
 
-#### Articolo 23
+### Articolo 23
 
 Fermata e sosta
 
@@ -1263,7 +1263,7 @@ immobilizzare il proprio veicolo in un luogo in cui la fermata e' vietata.
 
 un impedimento per le Parti contraenti o le loro parti costitutive ad imporre altre restrizioni di sosta o di fermata.
 
-#### Articolo 24
+### Articolo 24
 
 Apertura degli sportelli
 
@@ -1271,7 +1271,7 @@ E' vietato aprire lo sportello di un veicolo, lasciarlo aperto o
 
 scendere dal veicolo senza essersi assicurato che cio' non comporti un pericolo per gli altri utenti della strada.
 
-#### Articolo 25
+### Articolo 25
 
 Autostrade e strade di carattere simile
 
@@ -1311,7 +1311,7 @@ in anticipo, inoltrarsi nella corsia di circolazione corrispondente all'uscita d
 
 articolo, sono assimilate alle autostrade le altre strade riservate alla circolazione automobilistica debitamente segnalate come tali e nelle quali le proprieta' laterali non hanno accesso.
 
-#### Articolo 26
+### Articolo 26
 
 Prescrizioni particolari applicabili ai cortei e agli invalidi
 
@@ -1323,7 +1323,7 @@ militari, i gruppi di studenti in fila accompagnati da una guida e gli altri cor
 
 loro stessi o circolante a passo d'uomo possono usare i marciapiedi e le banchine praticabili.
 
-#### Articolo 27
+### Articolo 27
 
 Prescrizioni particolari applicabili ai ciclisti, ai ciclomotoristi
 
@@ -1345,7 +1345,7 @@ passeggeri sul loro veicolo, le Parti contraenti o le loro parti costitutive pos
 
 le loro parti costitutive possono vietare ai ciclisti di circolare sulla rimanente carreggiata. Nello stesso caso esse possono autorizzare i motociclisti a circolare sulla pista per velocipedi e, se lo ritengono utile, vietare loro di circolare sulla rimanente carreggiata.
 
-#### Articolo 28
+### Articolo 28
 
 Avvertimenti acustici e luminosi
 
@@ -1371,7 +1371,7 @@ l'alba, dare gli avvertimenti luminosi definiti al paragrafo 5 dell'articolo 33 
 
 autorizzare l'uso di avvertimenti luminosi ai fini previsti al paragrafo 1 b del presente articolo anche nei centri abitati.
 
-#### Articolo 29
+### Articolo 29
 
 Veicoli su rotaie
 
@@ -1383,7 +1383,7 @@ della strada deve, all'avvicinarsi di un tram o di un altro veicolo su rotaie, l
 
 adottare delle norme speciali, diverse da quelle definite dal presente articolo, per la circolazione su strada dei veicoli su rotaie o per l'incrocio o il sorpasso di questi veicoli. Tuttavia, le Parti contraenti o le loro parti costitutive non possono adottare delle disposizioni contrarie a quelle del paragrafo 7 dell'articolo 8 della presente Convenzione.
 
-#### Articolo 30
+### Articolo 30
 
 Carico dei veicoli
 
@@ -1429,7 +1429,7 @@ in modo che la loro estremita' laterale si trovi a piu' di 0,40 m (16 pollici) d
 
 interpretato come impedimento per le Parti contraenti o le loro parti costitutive a vietare, a limitare o a sottoporre ad una autorizzazione speciale le sporgenze di carico previste al detto paragrafo 4.
 
-#### Articolo 31
+### Articolo 31
 
 Comportamento in caso di incidente
 
@@ -1457,7 +1457,7 @@ avvertire la polizia e restare o tornare sul luogo dell'incidente fino all'arriv
 
 nella loro legislazione nazionale, astenersi dall'imporre la prescrizione prevista al comma d) del paragrafo 1) del presente articolo quando nessuna ferita grave e' stata provocata e nessuna delle persone implicate nell'incidente esige che sia avvisata la polizia.
 
-#### Articolo 32
+### Articolo 32
 
 Illuminazione: prescrizioni generali
 
@@ -1523,7 +1523,7 @@ ed in condizioni particolari.
 
 7\. Nulla nella presente Convenzione potra' essere interpretato come un impedimento per la legislazione nazionale ad imporre ai gruppi di pedoni condotti da una guida o formanti un corteo, nonche' ai conducenti di animali, isolati o in greggi, o di animali da tiro, da soma o da sella, di mostrare, quando circolano sulla carreggiata nelle circostanze indicate al paragrafo 2 b) del presente articolo, un dispositivo rifrangente o una luce; la luce riflessa o emessa deve essere allora sia bianca o giallo-selettivo verso l'avanti e rossa verso il dietro, sia arancione verso ambedue le direzioni.
 
-#### Articolo 33
+### Articolo 33
 
 Illuminazione: condizioni di impiego delle luci
 
@@ -1577,7 +1577,7 @@ come un impedimento per la legislazione nazionale ad imporre l'obbligo di utiliz
 
 dell'articolo 28 della presente Convenzione consistono nell'accensione intermittente a brevi intervalli dei proiettori di incrocio o nell'accensione intermittente dei proiettori di profondita' o nell'accensione alternata a brevi intervalli dei proiettori di incrocio e dei proiettori di profondita'.
 
-#### Articolo 34
+### Articolo 34
 
 Deroghe
 
@@ -1597,11 +1597,9 @@ la quale il personale che lavora alla costruzione, alla riparazione ed alla manu
 
 del presente articolo mentre sono al lavoro sulla strada, i conducenti degli altri veicoli possono, nella misura necessaria ed a condizione di adottare ogni utile precauzione, non osservare le disposizioni degli articoli 11 e 12 della presente Convenzione.
 
-## CAPITOLO III - CONDIZIONI PER L'AMMISSIONE DEGLI AUTOVEICOLI
+## CAPITOLO III - CONDIZIONI PER L'AMMISSIONE DEGLI AUTOVEICOLI E DEI RIMORCHI ALLA CIRCOLAZIONE INTERNAZIONALE
 
-### E DEI RIMORCHI ALLA CIRCOLAZIONE INTERNAZIONALE
-
-#### Articolo 35
+### Articolo 35
 
 Immatricolazione
 
@@ -1649,7 +1647,7 @@ come limitazione al diritto delle Parti contraenti e delle loro parti costitutiv
 
 ancora provviste istituiscano un servizio incaricato, su scala nazionale o regionale, di registrare gli autoveicoli messi in circolazione e di accentrare, per ogni veicolo, le informazioni iscritte su ogni certificato di immatricolazione.
 
-#### Articolo 36
+### Articolo 36
 
 Numero di immatricolazione
 
@@ -1665,7 +1663,7 @@ internazionale, recare sulla parte posteriore il proprio numero di immatricolazi
 
 immatricolazione previsto al presente articolo debbono essere conformi alle disposizioni dell'allegato 2 della presente Convenzione.
 
-#### Articolo 37
+### Articolo 37
 
 Segno distintivo dello Stato di immatricolazione
 
@@ -1681,7 +1679,7 @@ dell'articolo 36 della presente Convenzione, deve recare nella parte posteriore 
 
 distintivo previsto al presente articolo debbono essere conformi alle disposizioni dell'allegato 3 della presente Convenzione.
 
-#### Articolo 38
+### Articolo 38
 
 Marchi di identificazione
 
@@ -1689,7 +1687,7 @@ Ogni autoveicolo ed ogni rimorchio in circolazione internazionale
 
 debbono recare i marchi di identificazione definiti all'allegato 4 della presente Convenzione.
 
-#### Articolo 39
+### Articolo 39
 
 Prescrizioni tecniche
 
@@ -1697,7 +1695,7 @@ Ogni autoveicolo, ogni rimorchio e ogni complesso di veicoli in
 
 circolazione internazionale debbono soddisfare alle disposizioni dell'allegato 5 della presente Convenzione. Essi debbono inoltre essere in buono stato di marcia.
 
-#### Articolo 40
+### Articolo 40
 
 Disposizione transitoria
 
@@ -1707,7 +1705,7 @@ presente Convenzione conformemente al paragrafo 1 dell'articolo 47, i rimorchi i
 
 ## Capitolo IV - CONDUCENTI DI AUTOVEICOLI
 
-#### Articolo 41
+### Articolo 41
 
 Validita' delle patenti di guida
 
@@ -1775,7 +1773,7 @@ b) a riconoscere la validita' delle patenti sopra rilasciate a
 
 conducenti la cui residenza abituale al momento del rilascio non si trovava sul territorio in cui la patente e' stata rilasciata o la cui residenza e' stata trasferita, dopo tale rilascio, in un altro territorio.
 
-#### Articolo 42
+### Articolo 42
 
 Sospensione della validita' delle patenti di guida.
 
@@ -1807,7 +1805,7 @@ interessati le decisioni che saranno state comunicate loro conformemente alla pr
 
 come un'interdizione alle Parti contraenti o ad una delle loro parti costitutive di impedire ad un conducente titolare di una patente di guida, nazionale o internazionale, di guidare se e' evidente o provato che il suo stato non gli consente di guidare con sicurezza o se il diritto di guidare gli e' stato ritirato nello Stato in cui ha la sua residenza abituale.
 
-#### Articolo 43
+### Articolo 43
 
 Disposizione transitoria
 
@@ -1815,11 +1813,9 @@ Le patenti internazionali di guida conformi alle disposizioni
 
 della Convenzione sulla circolazione stradale, fatta a Ginevra il 19 settembre 1949 e rilasciate entro cinque anni dall'entrata in vigore della presente Convenzione conformemente al paragrafo 1 dell'articolo 47 della presente Convenzione saranno, per l'applicazione degli articoli 41 e 42 della presente Convenzione, assimilate alle patenti internazionali di guida previste nella presente Convenzione.
 
-## Capitolo V - CONDIZIONI PER L'AMMISSIONE DEI VELOCIPEDI
+## Capitolo V - CONDIZIONI PER L'AMMISSIONE DEI VELOCIPEDI E DEI CICLOMOTORI ALLA CIRCOLAZIONE INTERNAZIONALE
 
-### E DEI CICLOMOTORI ALLA CIRCOLAZIONE INTERNAZIONALE
-
-#### Articolo 44
+### Articolo 44
 
 1\. I velocipedi senza motore in circolazione internazionale
 
@@ -1863,7 +1859,7 @@ conformemente al paragrafo 2 dell'articolo 54 della presente Convenzione fatto u
 
 ## Capitolo VI - DISPOSIZIONI FINALI
 
-#### Articolo 45
+### Articolo 45
 
 1\. La presente Convenzione sara' aperta presso la sede
 
@@ -1881,7 +1877,7 @@ Stato previsto al paragrafo 1 del presente articolo. Gli strumenti di adesione s
 
 depositera' il proprio strumento di ratifica o di adesione, ogni Stato notifichera' al Segretario generale il segno distintivo che ha scelto perche' sia apposto in circolazione internazionale sui veicoli che ha immatricolati conformemente alle disposizioni dell'allegato 3 della presente Convenzione. Con un'altra notifica diretta al Segretario generale, ogni Stato puo' cambiare il segno distintivo che aveva scelto in precedenza.
 
-#### Articolo 46
+### Articolo 46
 
 1\. Ogni Stato potra', al momento in cui firmera' o ratifichera'
 
@@ -1895,7 +1891,7 @@ paragrafo 1 del presente articolo potra' in qualsiasi data successiva, con notif
 
 del presente articolo notifichera' al Segretario generale il o i segni distintivi che ha scelto perche' siano apposti in circolazione internazionale sui veicoli che sono stati immatricolati sul o sui territori interessati conformemente alle disposizioni dell'allegato 3 della presente Convenzione, con un altra notifica diretta al Segretario generale, ogni Stato puo' cambiare il segno distintivo che aveva scelto in precedenza.
 
-#### Articolo 47
+### Articolo 47
 
 1\. La presente Convenzione entrera' in vigore dodici mesi dopo
 
@@ -1905,13 +1901,13 @@ la data del deposito del quindicesimo strumento di ratifica o di adesione.
 
 aderira' dopo il deposito del quindicesimo strumento di ratifica o di adesione, la Convenzione entrera' in vigore dodici mesi, dopo la data del deposito, da parte di tale Stato, del suo strumento di ratifica o di adesione.
 
-#### Articolo 48
+### Articolo 48
 
 Alla sua entrata in vigore, la presente Convenzione abroghera' e
 
 sostituira', nelle relazioni tra le Parti contraenti, la Convenzione internazionale relativa alla circolazione automobilistica e la Convenzione internazionale relativa alla circolazione stradale firmata ambedue a Parigi il 24 aprile 1926, la Convenzione sulla regolazione della circolazione automobilistica interamericana aperta alla firma a Washington il 15 dicembre 1943 e la Convenzione sulla circolazione stradale aperta alla firma a Ginevra il 19 settembre 1949.
 
-#### Articolo 49
+### Articolo 49
 
 1\. Dopo un periodo di un anno a partire dall'entrata in vigore
 
@@ -1957,31 +1953,31 @@ durante il detto periodo di dodici mesi potra', in ogni momento, notificare al S
 
 conformemente al paragrafo 2 del presente articolo, e se non concorrono le condizioni prescritte al paragrafo 3 del presente articolo per la convocazione di una conferenza la proposta di emendamento sara' considerata respinta.
 
-#### Articolo 50
+### Articolo 50
 
 Ogni Parte contraente potra' denunciare la presente Convenzione a
 
 mezzo di notifica scritta diretta al Segretario generale. La denuncia avra' effetto un anno dopo la data in cui il Segretario generale avra' ricevuto la notifica.
 
-#### Articolo 51
+### Articolo 51
 
 La presente Convenzione cessera' di essere in vigore se il numero
 
 delle Parti contraenti sara' inferiore a cinque durante un periodo qualunque di dodici mesi consecutivi.
 
-#### Articolo 52
+### Articolo 52
 
 Ogni controversia tra due o piu' Parti contraenti relativa
 
 all'interpretazione o all'applicazione della presente Convenzione, che le Parti non abbiano potuto regolare a mezzo di negoziazione o in altro modo, potra' essere portata, su richiesta di una qualunque delle Parti contraenti interessate, davanti alla Corte internazionale di Giustizia, per essere decisa da questa.
 
-#### Articolo 53
+### Articolo 53
 
 Nessuna disposizione della presente Convenzione sara' interpretata
 
 come interdizione ad una Parte contraente di adottare le misure, compatibili con le misure della Carta delle Nazioni Unite e limitate alle esigenze della situazione, che essa ritiene necessarie per la propria sicurezza esterna o interna.
 
-#### Articolo 54
+### Articolo 54
 
 1\. Ogni Stato potra', al momento in cui firmera' la presente
 
@@ -2023,7 +2019,7 @@ b) modifica tali disposizioni negli stessi limiti per le altre
 
 Parti contraenti per quanto concerne i loro rapporti con la Parte contraente che ha notificato la riserva.
 
-#### Articolo 55
+### Articolo 55
 
 Oltre le dichiarazioni, notifiche e comunicazioni previste agli
 
@@ -2051,7 +2047,7 @@ f) l'abrogazione della presente Convenzione ai sensi
 
 dell'articolo 51.
 
-#### Articolo 56
+### Articolo 56
 
 L'originale della presente Convenzione, fatta in un solo
 
@@ -2063,7 +2059,7 @@ autorizzati dai loro rispettivi Governi, hanno firmato la presente Convenzione.
 
 Fatta a Vienna, l'8 novembre 1968.
 
-#### Allegato 1
+### Allegato 1
 
 ALLEGATI
 
@@ -2105,7 +2101,7 @@ c) veicoli articolati adibiti ai trasporti di persone.
 
 9\. Le Parti contraenti possono rifiutare di ammettere in circolazione internazionale sul loro territorio ogni autoveicolo o ogni rimorchio trainato da un autoveicolo che porti un segno distintivo diverso da quello previsto per tale veicolo all'articolo 37 della presente Convenzione.
 
-#### Allegato 2
+### Allegato 2
 
 ALLEGATO 2
 
@@ -2121,7 +2117,7 @@ CIRCOLAZIONE INTERNAZIONALE
 
 4\. Con riserva delle disposizioni del paragrafo 5 dell'articolo 32, la targa o la superficie nella quale e' apposto o dipinto il numero di immatricolazione puo' essere di materiale rifrangente.
 
-#### Allegato 3
+### Allegato 3
 
 Allegato 3
 
@@ -2143,7 +2139,7 @@ b) 0,175 m (6,9 pollici) e 0,115 m (4,5 pollici) se il segno distintivo reca men
 
 5\. Le disposizioni del paragrafo 3 dell'allegato 2 si applicano all'apposizione del segno distintivo sui veicoli.
 
-#### Allegato 4
+### Allegato 4
 
 ALLEGATO 4
 
@@ -2167,7 +2163,7 @@ c) Per i ciclomotori, l'indicazione della cilindrata ed il marchio "CM".
 
 2\. I marchi indicati al paragrafo 1 del presente allegato debbono essere posti in posizioni accessibili ed essere facilmente leggibili, inoltre essi debbono essere tali che sia difficile modificarli o sopprimerli. Le lettere e le cifre comprese nei marchi saranno sia unicamente in caratteri latini o in corsivo detto inglese ed in cifre arabe, sia ripetute in tale maniera.
 
-#### Allegato 5
+### Allegato 5
 
 Allegato 5
 
@@ -2509,7 +2505,7 @@ Per la verifica delle caratteristiche colorimetriche di tali filtri, deve essere
 
 (3) Si applica unicamente ai proiettori di incrocio ed ai proiettori di profondita'. Nel caso particolare dei proiettori fendi nebbia, la selettivita' del colore sara' riconosciuta soddisfacente se il fattore di purezza e' almeno uguale a 0,820; il limite verso il bianco y (pari o maggiore) - x + 0,966, dovra' essere in tale caso y (pari o maggiore) - x + 0,940 e y = 0,440.
 
-#### Allegato 6
+### Allegato 6
 
 ALLEGATO 6
 
@@ -2806,7 +2802,7 @@ Altre osservazioni possono essere apposte nelle pagine che non sono
 
 pagine modello.
 
-#### Allegato 7
+### Allegato 7
 
 ALLEGATO 7
 
@@ -3077,7 +3073,7 @@ IN VISTA di stabilire una maggiore uniformita' delle norme relative alla circola
 
 HANNO CONVENUTO quanto segue:
 
-#### Articolo primo
+### Articolo primo
 
 1\. Le Parti contraenti, parti alla Convenzione sulla circolazione stradale aperta alla firma a Vienna l'8 novembre 1968, prenderanno i provvedimenti appropriati affinche' le norme relative alla circolazione stradale in vigore sul loto territorio siano sostanzialmente conformi con le disposizioni dell'Annesso al presente Accordo.
 
@@ -3089,7 +3085,7 @@ b) tali norme possono contenere disposizioni non previsti nel presente Annesso.
 
 3\. Le disposizioni del presente articolo non obbligano le Parti contenenti a prevedere sanzioni penali per qualunque infrazione alle disposizioni dell'Annesso incorporate nelle loro norme di circolazione.
 
-#### Articolo 2
+### Articolo 2
 
 1\. Il presente Accordo sara' aperto fino al 31 dicembre \*1972 alla firma degli Stati che sono firmatari della Convenzione sulla circolazione stradale aperta alla firma a Vienna l'8 novembre 1968 o vi hanno aderito e che sono membri della Commissione economica per l'Europa delle Nazioni Unite, o ammessi alla Commissione a titolo consultivo in conformita' con il paragrafo 8 del mandato di questa Commissione.
 
@@ -3099,13 +3095,13 @@ b) tali norme possono contenere disposizioni non previsti nel presente Annesso.
 
 3\. Il presente Accordo rimarra' aperto all'adesione di ogni Stato di cui al paragrafo 1 del presente articolo e che e' Parte alla Convenzione sulla circolazione stradale aperta alla firma a Vienna l'8 novembre 1968. Gli strumenti di adesione saranno depositati presso il Segretario Generale.
 
-#### Articolo 3
+### Articolo 3
 
 1\. Ogni Stato potra' al momento in cui firmera' o ratifichera' il presente Accordo o vi aderira' o ad ogni successivo momento, dichiarare con notifica diretta al Segretario generale che l'Accordo diviene applicabile a tutti i territori o ad uno qualunque tra essi di cui assicura i rapporti internazionali. L'Accordo diverra' applicabile al territorio o ai territori designato(i) nella notifica trenta giorni dopo la data in cui il Segretario generale avra' ricevuto tale notifica o alla data di entrata in vigore dell'Accordo per lo Stato che invia la notifica, se tale data e' posteriore alla precedente.
 
 2\. Ogni Stato che avra' effettuato una dichiarazione in virtu' del paragrafo 1 del presente articolo potra' in qualsiasi data successiva, con notifica diretta al Segretario generale, dichiarare che l'Accordo cessera' di essere applicabile al territorio designato nella notifica e l'Accordo cessera' di essere applicabile al detto territorio un anno dopo la data in cui il Segretario generale avra' ricevuto tale notifica.
 
-#### Articolo 4
+### Articolo 4
 
 1\. Il presente Accordo entrera' in vigore dodici mesi dopo la data del deposito del decimo strumento di ratifica o di adesione.
 
@@ -3113,11 +3109,11 @@ b) tali norme possono contenere disposizioni non previsti nel presente Annesso.
 
 3\. Se la data di entrata in vigore come risulta dai paragrafi 1 e 2 del presente articolo e' precedente a quella che risulta dall'applicazione dell'Articolo 47 della Convenzione sulla circolazione stradale aperta alla firma a Vienna l'8 novembre 1968, e' a quest'ultima data che il presente Accordo entrera' in vigore ai sensi del paragrafo 1 del presente articolo.
 
-#### Articolo 5
+### Articolo 5
 
 Alla sua entrata in vigore, il presente Accordo abroghera' e sostituira', nei rapporti tra le Parti contraenti, le norme concernenti la circolazione stradale contenute nell'Accordo europeo che completa la Convenzione sulla circolazione stradale ed il Protocollo relativo alla segnaletica stradale del 1949, firmato a Ginevra il 16 settembre 1950 nonche' l'Accordo europeo relativo all'applicazione dell'articolo 23 della Convenzione del 1949 sulla circolazione stradale, relativo alle dimensioni ed ai pesi dei veicoli ammessi a circolare su alcune strade delle Parti contraenti in data 16 settembre 1950.
 
-#### Articolo 6
+### Articolo 6
 
 1\. Dopo un periodo di dodici mesi, a decorrere dall'entrata in vigore del presente Accordo, ogni Parte contraente potra' proporre uno o piu' emendamenti all'Accordo. Il testo di ogni proposta di emendamento, accompagnato da un esposto delle motivazioni, sara' inviato al Segretario Generale che lo comunichera' a tutte le Parti contraenti. Le Parti contraenti avranno la possibilita' di far Sapere al Segretario Generale entro un termine di dodici mesi a seguito della data di questa comunicazione: a) se accettano l'emendamento, oppure b) se esse lo respingono, oppure c) se esse desiderano che una conferenza sia convocata per esaminarlo. Il segretario Generale trasmettera' altresi' il testo dell'emendamento proposto agli altri Stati di cui all'articolo 2 del presente Accordo.
 
@@ -3141,25 +3137,25 @@ Il Segretario Generale stabilira' la data di entrata in vigore delle nuove dispo
 
 8\. Ciascun Stato al momento in cui firmera', o ratifichera' il presente Accordo o vi aderira', notifichera' al Segretario generale nome ed indirizzo della sua Amministrazione competente a dare il benestare previsto al paragrafo 7 del presente articolo.
 
-#### Articolo 7
+### Articolo 7
 
 Ogni Parte contraente potra' denunciare il presente accordo con notifica scritta diretta al Segretario generale. La denuncia avra' effetto un anno dopo la data in cui il Segretario generale avra' ricevuto la notifica. Ogni Parte contraente la quale cessi di essere Parte alla Convenzione sulla circolazione stradale aperta alla firma a Vienna l'8 novembre 1968, cessera' alla stessa data di essere Parte al presente Accordo.
 
-#### Articolo 8
+### Articolo 8
 
 Il presente Accordo cessera' di essere in vigore se il numero delle Parti contraenti e' inferiore a cinque durante un periodo qualunque di dodici mesi consecutivi, nonche' in ogni momento in cui cessera' di essere in vigore la Convenzione sulla circolazione stradale aperta alla firma a Vienna l'8 novembre 1968.
 
-#### Articolo 9
+### Articolo 9
 
 1\. Ogni controversia tra due o piu' Parti contraenti relativa all'interpretazione o all'applicazione del presente Accordo, che le Parti alla controversia non avrebbero potuto regolare a mezzo di negoziazione o in altro modo, sara' sottoposta ad arbitrato se una qualunque delle Parti contraenti alla controversia lo domanda e sara' di conseguenza deferita a uno o piu' arbitri prescelti di comune accordo dalle Parti alla controversia. Se, entro tre mesi a decorrere dalla richiesta di arbitrato, le Parti alla controversia non pervengono ad intendersi sulla scelta di un arbitro o degli arbitri una qualunque di dette Parti potra' domandare al Segretario generale dell'Organizzazione delle Nazioni Unite di nominare un arbitro unico dinanzi al quale la controversia sara' rinviata per la decisione.
 
 2\. La sentenza dell'arbitro o degli arbitri designati in conformita' con il paragrafo 1 del presente articolo sara' obbligatoria per le Parti contraenti alla controversia.
 
-#### Articolo 10
+### Articolo 10
 
 Nessuna disposizione del presente Accordo sara' interpretata nel senso di vietare ad una Parte contraente di prendere i provvedimenti compatibili con le norme dello Statuto delle Nazioni Unite e limitati alle esigenze dettate dalle circostanze, che essa ritenga necessarie per la sua sicurezza esterna o interna.
 
-#### Articolo 11
+### Articolo 11
 
 1\. Ogni Stato potra', all'atto della firma del presente Accordo o del deposito del suo strumento di ratifica o di adesione, dichiarare che non si considera vincolato dall'Articolo 9 del presente Accordo, le altre Parti contraenti non saranno vincolate dall'articolo 9 nei confronti di una qualunque delle Parti contraenti che avra' effettuato tale dichiarazione.
 
@@ -3177,7 +3173,7 @@ a) modifica, per la Parte contraente che ha effettuato o notificato detta riserv
 
 b) modifica queste disposizioni entro i medesimi limiti per le altre Parti contraenti per quanto riguarda i loro rapporti con la Parte contraente che ha effettuato o ha notificato la riserva.
 
-#### Articolo 12
+### Articolo 12
 
 Oltre alle dichiarazioni, notifiche e comunicazioni previste agli articoli 6 e 11 del presente Accordo, il Segretario generale notifichera' alle Parti contraenti ed agli altri Stati di cui all'articolo 2:
 
@@ -3193,7 +3189,7 @@ e) le denuncie a titolo dell'articolo 7;
 
 f) l'abrogazione del presente Accordo a titolo dell'articolo 8.
 
-#### Articolo 13
+### Articolo 13
 
 Dopo il 31 dicembre\* 1972, l'originale del presente Accordo sara' depositato presso il Segretario generale dell'Organizzazione delle Nazioni Unite, che ne trasmettera' copie certificate conformi a tutti gli Stati di cui all'articolo 2 del presente Accordo.
 
@@ -3203,7 +3199,7 @@ IN FEDE DI CHE, i sottoscritti, a tal fine debitamente autorizzati, hanno firmat
 
 FATTO, a Ginevra, il primo maggio mille novecentosettantuno, in un solo esemplare, nelle lingue inglese, francese e russa, i tre testi facenti ugualmente fede.
 
-#### Annesso
+### Annesso
 
 ANNESSO
 
@@ -3533,7 +3529,7 @@ RICONOSCENDO che l'uniformita' internazionale dei segnali e dei simboli stradali
 
 HANNO CONVENUTO le seguenti disposizioni:
 
-#### Articolo 1
+### Articolo 1
 
 Definizioni
 
@@ -3595,7 +3591,7 @@ t) i termini "senso di circolazione" e "corrispondente al senso di circolazione"
 
 u) l'obbligo per il conducente di un veicolo di "dare la precedenza" ad altri veicoli significa che detto conducente non deve continuare la marcia o la manovra oppure riprenderla se cio' puo' costringere i conducenti di altri veicoli a modificare bruscamente la direzione o la velocita' dei loro veicoli.
 
-#### Articolo 2
+### Articolo 2
 
 Allegati alla Convenzione
 
@@ -3623,7 +3619,7 @@ sono parte integrate della presente Convenzione.
 
 (\*) I testi stampati della Convenzione potranno presentare i segnali, i simboli ed i pannelli nella relativa parte del testo.
 
-#### Articolo 3
+### Articolo 3
 
 Obblighi delle Parti contraenti
 
@@ -3641,7 +3637,7 @@ b) al fine di permettere il miglioramento della tecniche di controllo della circ
 
 4\. Nulla puo' essere interpretato nella presente Convenzione come vincolante per la Parti contraenti di adottare tutti i tipi di segnali e di segni definiti nella presente Convenzione. Al contrario, le Parti contraenti limiteranno allo stretto necessario il numero dei tipi di segnali e di segni orizzontali che esse adotteranno.
 
-#### Articolo 4
+### Articolo 4
 
 Le parti contraenti si impegnano a fare in modo che sia vietato:
 
@@ -3651,7 +3647,7 @@ b) collocare dei pannelli, affissioni, segni o installazioni che possano sia ess
 
 ## Capitolo II - SEGNALI STRADALI
 
-#### Articolo 5
+### Articolo 5
 
 1\. Il sistema disposto nella presente Convenzione distingue le seguenti categorie di segnali stradali:
 
@@ -3689,7 +3685,7 @@ b) le Parti contraenti dovranno sforzarsi di mettersi d'accordo sul piano contin
 
 c) le disposizioni del paragrafo 3 dell'articolo 3 della presente Convenzione sono applicabili ai segnali e simboli dei tipi non adottati.
 
-#### Articolo 6
+### Articolo 6
 
 1\. I segnali saranno posti in maniera da essere riconosciuti facilmente e tempestivamente dai conducenti ai quali si rivolgono.
 
@@ -3707,13 +3703,13 @@ b) le dimensioni dei cartelli stradali siano tali che il segnale sia facilmente 
 
 c) le dimensioni dei segnali di pericolo generico e quelle dei segnali di prescrizione siano normalizzate sul territorio di ogni Parte contraente. In linea generale vi saranno quattro categorie di dimensioni per ciascun tipo di segnale: ridotte, normali, grandi e grandissime. I segnali di dimensioni ridotte saranno impiegati quando le condizioni non permettono l'impiego di segnali di dimensioni normali o quando la circolazione non puo' svolgersi che a lenta andatura essi potranno essere usati anche per ripetere un segnale precedente. I segnali di grandi dimensioni saranno impiegati sulle strade di ampia larghezza con circolazione veloce. I segnali di grandissime dimensioni saranno impiegati sulle strade a circolazione molto veloce soprattutto nelle autostrade.
 
-#### Articolo 7
+### Articolo 7
 
 1\. Si raccomanda che le legislazioni nazionali prevedano che, al fine di rendere piu' visibili e piu' leggibili la notte i segnali stradali, soprattutto i segnali di pericolo ed i segnali di prescrizione, ad eccezione di quelli che regolano la fermata e la sosta nelle strade illuminate dei centri abitati, siano illuminati o muniti di materiali o dispositivi riflettenti, ma senza che cio' comporti un abbagliamento degli utenti della strada.
 
 2\. Nulla nella presente Convenzione vieta di impiegare, per dare delle informazioni, degli avvertimenti o delle norme applicabili soltanto in determinate ore o in determinati giorni dei segnali le cui indicazioni siano visibili soltanto quando le informazioni che essi forniscono sono pertinenti.
 
-#### Articolo 8
+### Articolo 8
 
 1\. Per facilitare la comprensione internazionale dei segnali, il sistema di segnaletica definito nella presente Convenzione e' basato su forme e colori caratteristici di ciascuna categoria di segnali, cosi' come, ogni qualvolta sia possibile, sull'utilizzazione di simboli espressivi invece di iscrizioni. Nel caso in cui le Parti contraenti riterranno necessario apportare delle modifiche ai simboli previsti, dette modifiche non dovranno cambiare le loro caratteristiche essenziali.
 
@@ -3727,7 +3723,7 @@ c) le dimensioni dei segnali di pericolo generico e quelle dei segnali di prescr
 
 ## SEGNALI DI PERICOLO
 
-#### Articolo 9
+### Articolo 9
 
 1\. L'Allegato 1 della presente Convenzione riporta, nella sezione A, i modelli dei segnali di pericolo e, nella sezione B, i simboli da porre su detti segnali nonche' talune prescrizioni per l'impiego dei segnali stessi. Tuttavia i segnali ed i simboli di pericolo da porre in prossimita' di una intersezione sono descritti nell'allegato 2 alla presente Convenzione ed i simboli di pericolo posti in prossimita' di un passaggio a livello sono descritti nell'allegato 3.
 
@@ -3745,7 +3741,7 @@ In conformita' del paragrafo 2 dell'articolo 46 della presente Convenzione, ogni
 
 ## SEGNALI DI PRESCRIZIONE AD ECCEZIONE DI QUELLI CHE - RIGUARDANO LA FERMATA O LA SOSTA.
 
-#### Articolo 10
+### Articolo 10
 
 Segnali di precedenza
 
@@ -3767,19 +3763,19 @@ In conformita' al paragrafo 2 dell'articolo 46 della presente Convenzione, ogni 
 
 8\. Se, su una strada, l'approssimarsi di una intersezione e' indicato da un segnale di pericolo recante uno dei simboli A,22, oppure se la strada e' all'intersezione, una strada con diritto di precedenza che e' stata segnalata come tale con dei segnali tipo B,3 in conformita' alle disposizioni del paragrafo 7 del presente articolo, dovra' essere posto su tutte le altre strade all'intersezione un segnale B,1 oppure un segnale B,2; tuttavia la installazione dei segnali B,1 o B,2 non e' obbligatoria su strade quali i sentieri o strade di campagna, dove i conducenti che vi circolano devono, anche in assenza di questi segnali, dare la precedenza all'intersezione. Un segnale B,2 dovra' essere posto soltanto quando le autorita' competenti ritengano utile obbligare i conducenti ad arrestarsi, soprattutto in ragione della scarsa visibilita' per questi conducenti dei tratti di strada in cui si approssimano, situati da un lato o dall'altro dell'intersezione.
 
-#### Articolo 11
+### Articolo 11
 
 Segnali di divieto e di obbligo
 
 La sezione A dell'allegato 4 della presente Convenzione descrive i segnali di divieto o di obbligo ad eccezione di quelli che riguardano la fermata o la sosta ed il relativo significato. Questa sezione descrive ugualmente i segnali che indicano la fine dei divieti e degli obblighi o di alcuni di essi.
 
-#### Articolo 12
+### Articolo 12
 
 Segnalati di obbligo
 
 La sezione B dell'annesso 4 della presente Convenzione descrive i segnali di obbligo ed il relativo significato.
 
-#### Articolo 13
+### Articolo 13
 
 Prescrizioni comuni ai segnali descritti nell'Annesso 4 della presente Convenzione.
 
@@ -3789,7 +3785,7 @@ Prescrizioni comuni ai segnali descritti nell'Annesso 4 della presente Convenzio
 
 ## SEGNALI DI INDICAZIONE AD ECCEZIONE - DI QUELLI CHE RIGUARDANO LA SOSTA
 
-#### Articolo 14
+### Articolo 14
 
 1\. L'annesso 5 della presente Convenzione descrive i segnali che danno le indicazioni utili agli utenti della strada, ad eccezione dei segnali relativi alla sosta oppure ne riporta degli esempi; esso indica anche talune prescrizioni per il loro impiego.
 
@@ -3799,13 +3795,13 @@ Prescrizioni comuni ai segnali descritti nell'Annesso 4 della presente Convenzio
 
 4\. Nessun segnale rechera' iscrizioni in piu' di due lingue.
 
-#### Articolo 15
+### Articolo 15
 
 Segnali di preavviso di bivio
 
 I segnali di preavviso di bivio saranno posti ad una distanza tale dall'intersezione che la loro efficacia sia la migliore sia di giorno che di notte, tenuto conto delle condizioni della strada e della circolazione, soprattutto della velocita' abituale dei veicoli e della distanza alla quale e' visibile il segnale; detta distanza puo' non essere superiore ad una cinquantina di metri (55 yards) nei centri abitati, ma deve essere di almeno 500 metri (550 yards) sulle autostrade e sulle strade a circolazione veloce. I segnali possono essere ripetuti. Un pannello integrativo posto sotto il segnale puo' indicare la distanza tra il segnale e l'intersezione, l'iscrizione di questa distanza puo' essere ugualmente riportata in basso al segnale stesso.
 
-#### Articolo 16
+### Articolo 16
 
 Segnali di direzione
 
@@ -3813,13 +3809,13 @@ Segnali di direzione
 
 2\. Quando le distanze sono indicate, le cifre che le indicano debbono figurare alla stessa altezza del nome della localita'. Sui segnali di direzione che hanno la forma di una freccia, le cifre saranno poste tra il nome della localita' e la punta della freccia; sui segnali di forma rettangolare, saranno posti dopo il nome della localita'.
 
-#### Articolo 17
+### Articolo 17
 
 Segnali di identificazione di strade
 
 I segnali destinati ad identificare le strade sia dal loro numero, composto di cifre, di lettere o da una combinazione di cifre e di lettere, sia dal loro nome, saranno costituiti da detto numero o da detto nome inquadrato in un rettangolo o in uno stemma. Le Parti contraenti che hanno un sistema di classificazione delle strade possono tuttavia sostituire il rettangolo con un simbolo di classificazione.
 
-#### Articolo 18
+### Articolo 18
 
 Segnali di localita'
 
@@ -3829,19 +3825,19 @@ Segnali di localita'
 
 3\. I segnali di localita' che danno delle indicazioni diverse dal nome di un centro abitato devono esser assolutamente distinti dai segnali da E,9a e E,9d, in particolare per quanto riguarda il colore.
 
-#### Articolo 19
+### Articolo 19
 
 Segnali di conferma
 
 I segnali di conferma sono destinati a confermare, quando le autorita' competenti lo ritengano necessario, per esempio all'uscita di centri abitati importanti, la direzione della strada. Essi recano i nomi di una o piu' localita' alle condizioni fissate dal paragrafo 1 dell'articolo 16 della presente Convenzione. Quando sono menzionate le distanze, le cifre che le indicano sono riportate dopo il nome della localita'.
 
-#### Articolo 20
+### Articolo 20
 
 Segnale per i passaggi pedonali
 
 Il segnale E,11a oppure E,11b e' posto ai passaggi pedonali quando le autorita' competenti lo ritengano utile.
 
-#### Articolo 21
+### Articolo 21
 
 Prescrizioni comuni ai diversi segnali di indicazione
 
@@ -3851,13 +3847,13 @@ Prescrizioni comuni ai diversi segnali di indicazione
 
 ## SEGNALI RELATIVI ALA FERMATA ED ALLA SOSTA
 
-#### Articolo 22
+### Articolo 22
 
 L'annesso 6 della presente Convenzione descrive nella sezione A i segnali che vietano o limitano la fermata o la sosta e, nella sezione B, gli altri segnali che danno le indicazioni utili per la sosta; esso riporta il significato di detti segnali come anche alcune prescrizioni per il loro impiego.
 
 ## CAPITOLO III - SEGNALI LUMINOSI DI CIRCOLAZIONE
 
-#### Articolo 23
+### Articolo 23
 
 Segnali destinati a regolare il traffico dei veicoli
 
@@ -3901,7 +3897,7 @@ ii) Una luce gialla lampeggiante o due luci gialle che lampeggiano alternativame
 
 13\. Quando i segnali luminosi di circolazione sono destinati soltanti ai ciclisti, la restrizione sara' segnalata, se viene ritenuto necessario, per evitare confusione, dalla sagoma di un velocipede raffigurato nel segnale stesso oppure da un segnale di dimensioni ridotte completato da una targa rettangolare in cui figurera' un velocipede.
 
-#### Articolo 24
+### Articolo 24
 
 Segnali destinati ai soli pedoni
 
@@ -3925,13 +3921,13 @@ b) luci lampeggianti: la luce verde lampeggiante indica che il lasso di tempo du
 
 ## CAPITOLO IV - SEGNALETICA ORIZZONTALE
 
-#### Articolo 25
+### Articolo 25
 
 I segni sulla carreggiata (segnaletica orizzontale) sono impiegati, quando l'Autorita' competente lo ritiene necessario, per regolare la circolazione, avvisare o guidare gli utenti della strada.
 
 Essi possono essere impiegati sia separatamente sia con altri mezzi di segnalazione che li rinforzano oppure ne precisano le indicazioni.
 
-#### Articolo 26
+### Articolo 26
 
 1\. Un segno longitudinale consistente in una striscia continua posta sulla superficie della carreggiata indica che e' vietato a tutti i veicoli di oltrepassarla o di marciare a cavallo di essa, oltre che, quando il segno separa i due sensi di circolazione, di circolare dalla parte di detto segno che e' per i conducenti, opposto al bordo della carreggiata corrispondente al senso di circolazione. Un segno longitudinale costituito da due strisce continue ha lo stesso significato.
 
@@ -3947,7 +3943,7 @@ b) Il rapporto tra la lunghezza dell'intervallo tra i segmenti e la lunghezza de
 
 4\. Ai sensi del presente articolo, non si considerano segni longitudinali le strisce longitudinali che delimitano, per renderli piu' visibili, i bordi della carreggiata o che, connesse a strisce trasversali, delimitano sulla superficie della carreggiata delle zone di parcheggio.
 
-#### Articolo 27
+### Articolo 27
 
 1\. Un segno trasversale consistente in una striscia continua o in due strisce continue adiacenti apposte lungo la larghezza di una o piu' corsie indica la striscia di arresto imposta dal segnale B,2 "ARRESTO ALL'INCROCIO" previsto al paragrafo 3 dell'Articolo 10 della presente Convenzione. Un tale segno puo' essere anche impiegato per indicare la striscia di arresto eventualmente imposta da un segnale luminoso, da un segnale dato dall'Agente che dirige il traffico o prima di un passaggio a livello. Davanti ai segni che accompagnano il segnale B,2 puo' essere apposta sulla carreggiata la striscia "STOP".
 
@@ -3959,7 +3955,7 @@ b) Il rapporto tra la lunghezza dell'intervallo tra i segmenti e la lunghezza de
 
 5\. Per segnalare i passaggi previsti per l'attraversamento della carreggiata da parte dei ciclisti, saranno apposte sia delle strisce trasversali, sia altri segni che non possano essere confusi con i segni apposti ai passaggi pedonali.
 
-#### Articolo 28
+### Articolo 28
 
 1\. Altri segni sulla carreggiata, quali frecce, strisce parallele ed oblique o iscrizioni, possono essere impiegati per ripetere le indicazioni dei segnali o per dare agli utenti della strada delle indicazioni che non possono essere loro fornite in modo appropriato con i segnali. Tali segni saranno specialmente utilizzati per indicare i limiti delle zone o fasce di parcheggio, le fermate degli autobus o dei filobus dove e' vietata la sosta, come anche la preselezione prima delle intersezioni. Tuttavia, quando una freccia e' apposta su una carreggiata divisa in corsie per mezzo di segni longitudinali, i conducenti devono seguire la direzione o una delle direzioni indicate sulla corsia dove si trovano.
 
@@ -3967,7 +3963,7 @@ b) Il rapporto tra la lunghezza dell'intervallo tra i segmenti e la lunghezza de
 
 3\. Una striscia a zig-zag posta sul lato della carreggiata indica che e' vietata la sosta sul lato in questione per tutta la lunghezza di detta striscia.
 
-#### Articolo 29
+### Articolo 29
 
 1\. I segni sulla carreggiata menzionati negli articoli da 26 a 28 della presente Convenzione possono essere dipinti sulla carreggiata o apposti in ogni altro modo, purche' siano altrettanto efficaci.
 
@@ -3979,13 +3975,13 @@ Quando, sul territorio di una Parte contraente, vengono utilizzati i due colori 
 
 4\. Si raccomanda che i segni orizzontali destinati ai veicoli in movimento siano riflettorizzati, se la densita' del traffico lo esige e se l'illuminazione e' cattiva o inesistente.
 
-#### Articolo 30
+### Articolo 30
 
 L'annesso 8 della presente Convenzione costituisce un insieme di raccomandazioni relative agli schemi ed ai disegni della segnaletica orizzontale.
 
 ## CAPITOLO V - DISPOSIZIONI VARIE
 
-#### Articolo 31
+### Articolo 31
 
 Segnalazione dei cantieri
 
@@ -3997,7 +3993,7 @@ a) potranno essere di colore bianco le luci ed i dispositivi che sono visibili s
 
 b) potranno essere di colore bianco o giallo chiaro, le luci ed i dispositivi che segnalano i limiti di un cantiere che separa i due sensi di marcia.
 
-#### Articolo 32
+### Articolo 32
 
 Segnalazioni luminose o rifrangenti
 
@@ -4005,7 +4001,7 @@ Ogni Parte contraente adottera' su tutto il proprio territorio lo stesso colore 
 
 ## PASSAGGI A LIVELLO
 
-#### Articolo 33
+### Articolo 33
 
 1\. a) Se una segnalazione e' installata in corrispondenza di un passaggio a livello per avvertire l'approssimarsi dei treni oppure della imminente chiusura di barriere o semi-barriere, essa sara' costituita da una luce rossa lampeggiante o da luci rosse che lampeggiano alternativamente, come previsto al paragrafo 1,b) dell'articolo 23 della presente Convenzione. Tuttavia:
 
@@ -4019,13 +4015,13 @@ b) In ogni caso, la segnalazione luminosa puo' essere completata da un segnale a
 
 3\. In conformita' con il paragrafo 4 dell'articolo 10 della presente Convenzione, il segnale B,2 "ARRESTO ALL'INCROCIO" puo' essere collocato ad un passaggio a livello senza barriere, ne' semibarriere ne' segnalazione luminosa che avverta l'approssimarsi dei treni; ai passaggi a livello muniti di detto segnale, i conducenti devono fermarsi in corrispondenza della striscia di arresto oppure, in mancanza di quest'ultima, in corrispondenza del segnale, e ripartire soltanto dopo essersi assicurati che nessun treno si stia avvicinando.
 
-#### Articolo 34
+### Articolo 34
 
 1\. Nei passaggi a livello muniti di barriere, oppure di semibarriere disposte a meta' su ciascun lato della linea ferroviaria, la presenza di dette barriere o semibarriere poste in posizione trasversale rispetto alla strada indica che nessun utente della strada ha il diritto di oltrepassare la perpendicolare della barriera o semibarriera piu' vicina; il movimento delle barriere per porsi in posizione trasversale rispetto alla strada ed il movimento delle semibarriere hanno lo stesso significato.
 
 2\. La presenza della o delle luci rosse menzionate al punto a) del paragrafo 1 dell'articolo 33 della presente Convenzione, oppure l'entrata in funzione del segnale acustico menzionato al suddetto paragrafo 1, indica ugualmente che nessun utente della strada ha il diritto di oltrepassare la linea di arresto oppure, se non c'e' striscia di arresto, la perpendicolare del segnale. La presenza della luce gialla del sistema tricolore menzionata al punto a,i) del paragrafo 1 dell'articolo 33 indica che nessun utente della strada ha il diritto di oltrepassare la striscia di arresto oppure, se non c'e' la striscia di arresto, la perpendicolare del segnale, salvo per i veicoli che si trovino cosi' vicini quando si accende la luce gialla che essi non potrebbero piu' arrestarsi in condizioni di sicurezza sufficienti prima della perpendicolare di detto segnale.
 
-#### Articolo 35
+### Articolo 35
 
 1\. Le barriere o le semi barriere dei passaggi a livello saranno dipinte distintamente con strisce alternate di colore rosso e bianco, rosso e giallo, nero e bianco o giallo e nero; Tuttavia, esse potranno essere colorate solo in bianco o in giallo a condizione di essere munite al centro di un grande disco rosso.
 
@@ -4037,7 +4033,7 @@ b) negli incroci di linee ferroviarie con strade di campagna dove la circolazion
 
 3\. Sotto tutti i segnali di pericolo che richino uno dei simboli A,26 o A,27 descritti nll'Allegato 3 della presente Convenzione, puo' essere posto un pannello rettangolare con un lungo lato verticale avente tre barre rosse oblique su fondo bianco o giallo; allora saranno posti, approssimativamente a un terzo ed a due terzi della distanza tra il segnale e la linea ferroviaria, dei segnali supplementari costituiti da pannelli di identifica forma aventi rispettivamente una o due barre rosse oblique su fondo bianco o giallo. Detti segnali possono essere ripetuti sul lato opposto della carreggiata. La sezione C dell'Allegato 3 della presente Convenzione precisa la descrizione dei pannelli menzionati nel presente paragrafo.
 
-#### Articolo 36
+### Articolo 36
 
 Tenuto conto del particolare pericolo dei passaggi a livello, le Parti contraenti s'impegnano:
 
@@ -4061,7 +4057,7 @@ f) per quanto possibile, in prossimita' dei passaggi a livello muniti di barrier
 
 ## Capitolo VI - DISPOSIZIONI FINALI
 
-#### Articolo 37
+### Articolo 37
 
 1\. La presente Convenzione sara' aperta presso la sede dell'Organizzazione delle Nazioni Unite a New York fino al 31 dicembre 1969 alla firma di tutti gli Stati membri dell'Organizzazione delle Nazioni Unite o membri di una delle sue istituzioni specializzate o dell'agenzia internazionale dell'Energia Atomica o Parti dello Statuto della Corte Internazionale di Giustizia, e di ogni altro Stato invitato dall'Assemblea Generale della Organizzazione delle Nazioni Unite a divenire Parte della Convenzione.
 
@@ -4069,7 +4065,7 @@ f) per quanto possibile, in prossimita' dei passaggi a livello muniti di barrier
 
 3\. La presente Convenzione restera' aperta all'adesione di ogni Stato previsto al paragrafo 1 del presente articolo. Gli strumenti di adesione saranno depositati presso il Segretario generale.
 
-#### Articolo 38
+### Articolo 38
 
 1\. Ogni Stato potra', al momento in cui firmera' o ratifichera' la presente Convenzione oppure vi aderira', oppure ad ogni momento successivo, dichiarare, con notifica diretta al Segretario generale, che la Convenzione diviene applicabile a tutti i territori oppure in uno qualsiasi tra loro di cui esso stesso assicura le relazioni internazionali. La Convenzione diverra' applicabile nel territorio o nei territori designati nella notifica trenta giorni dopo la data alla quale il Segretario generale avra' ricevuto detta notifica oppure alla data di entrata in vigore della Convenzione per lo Stato che invia la notifica, se tale data e' posteriore alla precedente.
 
@@ -4077,17 +4073,17 @@ f) per quanto possibile, in prossimita' dei passaggi a livello muniti di barrier
 
 3\. Ogni Stato che avra' fatto una dichiarazione in virtu' del paragrafo 1 del presente articolo potra' ad ogni data ulteriore, per mezzo di notifica indirizzata al Segretario generale, dichiarare che la Convenzione cessera' di essere applicabile nel territorio designato nella notifica stessa e la Convenzione cessera' di essere applicabile nel detto territorio un anno dopo la data del ricevimento di detta notifica dal Segretario generale.
 
-#### Articolo 39
+### Articolo 39
 
 1\. La presente Convenzione entrera' in vigore dodici mesi dopo la data del deposito del quindicesimo strumento di ratifica o di adesione.
 
 2\. Per ogni Stato che ratifichera' la presente Convenzione oppure vi aderira' dopo il deposito del quindicesimo strumento di ratifica o di adesione, la Convenzione entrera' in vigore dodici mesi dopo la data del deposito per questo Stato, del proprio strumento di ratifica o di adesione.
 
-#### Articolo 40
+### Articolo 40
 
 Alla sua entrata in vigore, la presente Convenzione abroghera' e sostituira' nelle relazioni tra le Parti contraenti la Convenzione sulla unificazione della segnaletica stradale aperta alla firma a Ginevra il 30 marzo 1931, oppure il Protocollo relativo alla segnalazione stradale aperto alla firma a Ginevra il 19 settembre 1949.
 
-#### Articolo 41
+### Articolo 41
 
 1\. Dopo un periodo di un anno dalla data di entrata in vigore della presente Convenzione, ogni Parte contraente potra' proporre uno o piu' emendamenti alla Convenzione. Il testo di ogni proposta di emendamento, accompagnato da un esposto dei motivi sara' inviato al Segretario generale che lo comunichera' a tutte le Parti contraenti.
 
@@ -4109,23 +4105,23 @@ L'emendamento entrera' in vigore per la Parte contraente che avra' notificato la
 
 6\. Se la proposta di emendamento non e' ritenuta accettabile conformemente al paragrafo 2 del presente articolo, e se non concorrono le condizioni prescritte al paragrafo 3 del presente articolo per la convocazione di una conferenza, la proposta di emendamento sara' considerata respinta.
 
-#### Articolo 42
+### Articolo 42
 
 Ogni Parte contraente potra' denunciare la presente Convenzione a mezzo di notifica scritta diretta al Segretario generale. La denuncia avra' effetto un anno dopo la data in cui il Segretario generale avra' ricevuto la notifica.
 
-#### Articolo 43
+### Articolo 43
 
 La presente Convenzione cessera' di essere in vigore se il numero delle Parti contraenti e' inferiore a cinque durante un periodo qualunque di dodici mesi consecutivi.
 
-#### Articolo 44
+### Articolo 44
 
 Ogni controversia tra due o piu' Parti contraenti relativa all'interpretazione o all'applicazione della presente Convenzione, che le Parti non abbiano potuto regolare a mezzo di negoziazione o in altro modo, potra' essere portata, su richiesta di una qualunque delle Parti contraenti interessate, davanti alla Corte internazionale di Giustizia per essere decisa da questa.
 
-#### Articolo 45
+### Articolo 45
 
 Nessuna disposizione della presente Convenzione sara' interpretata come impedimento ad una Parte contraente di adottare le misure compatibili con le misure della Carta delle Nazioni Unite e limitate alle esigenze della situazione che essa ritiene necessarie per la propria sicurezza esterna o interna.
 
-#### Articolo 46
+### Articolo 46
 
 1\. Ogni Stato potra', al momento in cui firmera' la presente Convenzione, o depositera' il suo strumento di ratifica o di adesione, dichiarare che non si considera legato dall'articolo 44 della presente Convenzione. Le Parti contraenti non saranno legate dall'Articolo 44 nei confronti di una qualsiasi delle Parti contraenti che avra' fatto tale dichiarazione.
 
@@ -4155,7 +4151,7 @@ a) modifica, per la Parte contraente che ha formulato detta riserva, le disposiz
 
 b) modifica tali disposizioni negli stessi limiti per le altre Parti contraenti per quanto concerne i loro rapporti con la Parte contraente che ha notificato la riserva.
 
-#### Articolo 47
+### Articolo 47
 
 Oltre le dichiarazioni, notifiche e comunicazioni previste agli Artt. 41 e 46 della presente Convenzione, il Segretario generale notifichera' a tutti gli Stati previsti al paragrafo 1 dell'Articolo 37:
 
@@ -4171,7 +4167,7 @@ e) le denunce di cui all'articolo 42;
 
 f) la abrogazione della presente Convenzione di cui all'articolo 43.
 
-#### Articolo 48
+### Articolo 48
 
 L'originale della presente Convenzione, fatta in un solo esemplare, in lingua inglese, cinese, spagnola, francese e russa, i cinque testi facenti egualmente fede, sara' depositato presso il Segretario generale dell'Organizzazione delle Nazioni Unite, che ne trasmettera' copie certificate conformi a tutti gli Stati previsti al paragrafo 1 dell'articolo 37 della presente Convenzione.
 
@@ -4179,7 +4175,7 @@ IN FEDE DI CHE i sottoscritti plenipotenziari debitamente autorizzati dai loro r
 
 Fatta a Vienna, l'8 novembre dell'anno millenovecentosessantotto.
 
-#### Allegato 1
+### Allegato 1
 
 ALLEGATI
 
@@ -4327,7 +4323,7 @@ Le Parti contraenti possono, tuttavia, adottare dei simboli espressivi conformem
 
 Il segnale A,20 puo' essere impiegato particolarmente per segnalare l'attraversamento di binari ferroviari in cui contemporaneamente la circolazione e' molto lenta e la circolazione stradale e' regolata da un ferroviere che faccia i segnali manuali necessari.
 
-#### Allegato 2
+### Allegato 2
 
 Allegato 2
 
@@ -4427,7 +4423,7 @@ Nel caso in cui la circolazione si svolge sul lato sinistro, la posizione delle 
 
 Quando e' impiegato un segnale B,6 deve essere posto obbligatoriamente sulla strada all'altra estremita' della strettoia in questione il segnale B,5 destinato alla circolazione che procede in senso inverso.
 
-#### Allegato 3
+### Allegato 3
 
 ALLEGATO 3
 
@@ -4461,7 +4457,7 @@ I pannelli menzionati al paragrafo 3 dell'articolo 35 della Convenzione sono i s
 
 Sopra i segnali A,29b e A,29c potra' essere apposto, nello stesso modo in cui dovra' esserlo sul segnale A,29a, il segnale di pericolo del passaggio a livello.
 
-#### Allegato 4
+### Allegato 4
 
 ALLEGATO 4
 
@@ -4631,7 +4627,7 @@ i) Obbligo di catene per neve
 
 Il segnale D,9 "OBBLIGO DI CATENE PER NEVE" indica che i veicoli che circolano sulla strada all'inizio della quale esso e' posto sono obbligati a circolare con catene per neve almeno sulle due ruote motrici.
 
-#### Allegato 5
+### Allegato 5
 
 ALLEGATO 5
 
@@ -4797,7 +4793,7 @@ F,12 "CAMPEGGIO E RIMORCHI ABITABILI"
 
 F,13 "OSTELLO DELLA GIOVENTU'"
 
-#### Allegato 6
+### Allegato 6
 
 ALLEGATO 6
 
@@ -4883,7 +4879,7 @@ Su un pannello integrativo posto sotto il segnale o sul segnale stesso, dei simb
 
 Per indicare, nei centri abitati, l'uscita da una zona dove la sosta e' a durata limitata e le cui entrate sono munite del segnale C,21 contenente il segnale C,18, sara' impiegato il segnale E,24 costituito da un quadrato di colore chiaro sul quale s'inscrive, in grigio chiaro, il segnale C,18 e una banda diagonale nera o grigio scura o una serie di linee parallele nere o grigie formanti detta banda. Quando le entrate della zona sono munite del segnale C,21 contenenti il segnale E,23, le uscite possono essere segnalate da un pannello in cui figurano una banda diagonale nera o grigio scura o una serie di linee parallele nere o grigie che formano detta banda ed un disco di sosta su fondo chiaro.
 
-#### Annesso 7
+### Annesso 7
 
 ANNESSO 7
 
@@ -4899,7 +4895,7 @@ c) I pannelli integrativi sono posti sotto i segnali. Tuttavia, per i segnali di
 
 3\. I pannelli integrativi del "MODELLO 3" e del "MODELLO 4" relativi ai divieti ed alle restrizioni di sosta sono rispettivamente i modelli 3a, 3b e 3c e 4a, 4b e 4c (vedere allegato 6, sezione A, paragrafo 3).
 
-#### Allegato 8
+### Allegato 8
 
 ALLEGATO 8
 
@@ -5077,7 +5073,7 @@ ii) Segnalazioni sugli ostacoli
 
 Parte di provvedimento in formato grafico
 
-#### Allegato 9
+### Allegato 9
 
 Allegato 9
 
@@ -5093,11 +5089,11 @@ AUSPICANDO stabilire una maggiore uniformita' per quando riguarda le norme relat
 
 HANNO CONVENUTO quanto segue:
 
-#### Articolo primo
+### Articolo primo
 
 Le Parti contraenti, Parti alla Convenzione sulla segnaletica stradale aperta alla firma a Vienna l'8 novembre 1968, prenderanno adeguate misure affinche' il sistema di segnaletica stradale e di segnaletica orizzontale applicato sul loro territorio sia conforme con le disposizioni dell'annesso al presente Accordo.
 
-#### Articolo 2
+### Articolo 2
 
 1\. Il presente Accordo sara' aperto fino al 31 dicembre \* 1972 alla firma degli Stati che sono firmatari della Convenzione sulla segnaletica stradale aperta alla firma a Vienna l'8 novembre 1968, o che vi hanno aderito e che sono membri della Commissione economica per l'Europa delle Nazioni Unite, oppure ammessi a partecipare alla Commissione a titolo consultivo in conformita' con il paragrafo 8 del mandato di tale Commissione.
 
@@ -5107,7 +5103,7 @@ Le Parti contraenti, Parti alla Convenzione sulla segnaletica stradale aperta al
 
 3\. Il presente Accordo rimarra' aperto all'adesione di ogni Stato di cui al paragrafo 1 del presente articolo, e che e' Parte alla Convenzione sulla segnaletica stradale aperta alla firma a Vienna l'8 novembre 1968. Gli strumenti di adesione saranno depositati presso il Segretario Generale.
 
-#### Articolo 3
+### Articolo 3
 
 1\. Ogni Stato potra', all'atto della firma o della ratifica del presente Accordo, oppure all'atto di aderirvi, oppure ad ogni momento successivo, dichiarare con notifica diretta al Segretario generale, che l'Accordo diviene applicabile in tutti i territori oppure in uno qualsiasi tra loro di esso assicura le relazioni internazionali.
 
@@ -5115,7 +5111,7 @@ L'Accordo diverra' applicabile nel territorio o nei territori designati nella no
 
 2\. Ogni Stato che avra' fatto una dichiarazione in virtu' del paragrafo 1 del presente articolo potra' ad ogni data ulteriore per mezzo di notifica indirizzata al Segretario Generale, dichiarare che l'Accordo cessera' di essere applicabile nel detto territorio un anno dopo la data del ricevimento di detta notifica da parte del Segretario Generale.
 
-#### Articolo 4
+### Articolo 4
 
 1\. Il presente Accordo entrera' in vigore dodici mesi dopo la data del deposito del decimo strumento di ratifica o di adesione.
 
@@ -5123,11 +5119,11 @@ L'Accordo diverra' applicabile nel territorio o nei territori designati nella no
 
 3\. Se la data di entrata in vigore risultante dall'applicazione dei paragrafi 1 e 2 del presente articolo e' anteriore a quella risultante dall'applicazione dell'Articolo 39 della Convenzione sulla segnaletica stradale aperta alla firma a Vienna l'8 novembre 1968, e' a quest'ultima data che il presente Accordo entrera' in vigore ai sensi del paragrafo 1 del presente articolo.
 
-#### Articolo 5
+### Articolo 5
 
 Alla sua entrata in vigore, il presente Accordo abroghera' e sostituira', nelle relazioni tra le Parti contraenti le disposizioni relative al Protocollo sulla segnaletica stradale contenute nell'Accordo europeo che completa la Convenzione sulla circolazione stradale ed il Protocollo relativo alla segnaletica stradale del 1949, firmato a Ginevra il 16 settembre 1950, l'Accordo relativo alla segnaletica dei cantieri firmato a Ginevra il 16 dicembre 1955 e l'Accordo europeo relativo alla segnaletica orizzontale firmato a Ginevra il 13 dicembre 1957.
 
-#### Articolo 6
+### Articolo 6
 
 1\. Dopo un periodo di dodici mesi dalla data di entrata in vigore del presente Accordo, ogni Parte contraente potra' proporre uno o piu' emendamenti all'Accordo.
 
@@ -5157,25 +5153,25 @@ L'accordo tra le Amministrazioni competenti potra' prevedere che, durante un per
 
 8\. Ciascun Stato, all'atto della firma o della ratifica del presente Accordo, o della sua adesione, notifichera' al Segretario generale il nome ed indirizzo della sua Amministrazione competente a dare l'accordo previsto al paragrafo 7 del presente articolo.
 
-#### Articolo 7
+### Articolo 7
 
 Ogni Parte contraente potra' denunciare il presente Accordo per mezzo di notifica scritta diretta al Segretario generale. La denuncia avra' effetto un anno dopo la data alla quale il Segretario generale ne avra' ricevuto notifica. Ogni Parte contraente che cessera' di essere Parte alla Convenzione sulla segnaletica stradale aperta alla firma a Vienna l'8 novembre 1968, cessera' alla stessa data di essere Parte al presente Accordo.
 
-#### Articolo 8
+### Articolo 8
 
 Il presente Accordo cessera' di essere in vigore se il numero delle Parti contraenti e' inferiore a cinque durante un periodo qualunque di dodici mesi consecutivi, nonche' al momento in cui cessera' di essere in vigore la Convenzione sulla segnaletica stradale aperta alla firma a Vienna l'8 novembre 1968.
 
-#### Articolo 9
+### Articolo 9
 
 1\. Ogni controversia tra due o piu' Parti contraenti relative all'interpretazione o all'applicazione del presente Accordo, che le Parti alla controversia non abbiano potuto risolvere per via negoziale o in altra maniera, sara' sottoposta ad arbitrato se una qualsiasi delle Parti contraenti alla controversia lo richiede e sara' di conseguenza deferita ad uno o piu' arbitri scelti di comune accordo dalle Parti alla controversia. Se, entro tre mesi a decorrere dalla data della richiesta di arbitrato, le Parti alla controversia non pervengono ad accordarsi per quanto riguarda la scelta di un arbitro o degli arbitri, una qualunque di tali Parti potra' domandare al Segretario generale dell'Organizzazione delle Nazioni Unite, di designare un arbitro unico dinnanzi al quale la controversia sara' deferita per decisione.
 
 2\. La sentenza dell'arbitro o degli arbitri designati in conformita' con il paragrafo 1 del presente articolo sara' obbligatoria per le Parti contraenti alla controversia.
 
-#### Articolo 10
+### Articolo 10
 
 Nessuna disposizione del presente Accordo sara' interpretata come divieto ad una Parte contraente di adottare misure compatibili con le disposizioni dello Statuto delle Nazioni Unite e limitate alle esigenze della situazione, che essa ritenga necessarie per la sua sicurezza esterna o interna.
 
-#### Articolo 11
+### Articolo 11
 
 1\. Ogni Stato potra', al momento di firmare del presente Accordo o di depositare il proprio strumento di ratifica o di adesione, dichiarare che non si considera vincolato dall'articolo 9 del presente Accordo.
 
@@ -5195,7 +5191,7 @@ a) modifica, per la Parte contraente che ha fatto o notificato detta riserva le 
 
 b) modifica queste disposizioni entro gli stessi limiti, per le altre Parti contraenti per quanto riguarda le loro relazioni con la Parte contraente che ha effettuato o notificato la riserva.
 
-#### Articolo 12
+### Articolo 12
 
 Oltre alle dichiarazioni, notifiche e comunicazioni previste agli articoli 6 e 11 del presente Accordo, il Segretario generale notifichera' alle Parti contraenti ed agli altri Stati di cui all'articolo 2:
 
@@ -5211,7 +5207,7 @@ e) le denuncie ai sensi dell'articolo 7;
 
 f) l'abrogazione del presente Accordo ai sensi dell'articolo 8.
 
-#### Articolo 13
+### Articolo 13
 
 Dopo il 31 dicembre(\*) 1972, l'originale del presente Accordo sara' depositato presso il Segretario generale dell'Organizzazione delle Nazioni Unite, che ne trasmettera' copie certificate conformi a tutti gli Stati di cui all'articolo 2 del presente Accordo.
 
@@ -5221,7 +5217,7 @@ IN FEDE DI CHE, i sottoscritti a tal fine debitamente autorizzati hanno firmato 
 
 FATTO a Ginevra il 1 maggio 1971 in un solo esemplare in lingua francese, inglese e russa, i tre testi facenti ugualmente fede.
 
-#### Annesso
+### Annesso
 
 ANNESSO
 
@@ -5611,11 +5607,11 @@ IN VISTA di stabilire una maggiore uniformita' in Europa delle norme concernenti
 
 HANNO CONVENUTO quanto segue:
 
-#### Articolo primo
+### Articolo primo
 
 Le Parti contraenti, Parti alla Convenzione sulla segnaletica stradale aperta alla firma a Vienna l'8 Novembre 1968 ed all'Accordo europeo completante tale Convenzione aperto alla firma a Ginevra il 1 maggio 1971, adotteranno misure adeguate affinche' il sistema di segnaletica sul piano stradale applicato nel loro territorio, sia conforme con le disposizioni dell'annesso al presente Protocollo.
 
-#### Articolo 2
+### Articolo 2
 
 1\. Il presente Protocollo sara' aperto fino al 1 marzo 1974 alla firma degli Stati che sono firmatari della Convenzione sulla segnaletica stradale aperta alla firma a Vienna l'8 novembre 1968 e dell'Accordo europeo che completa questa Convenzione aperto alla firma a Ginevra il 1 maggio 1971, o che vi hanno aderito, che sono membri della Commissione economica per l'Europa delle Nazioni Unite, oppure ammessi a partecipare alla Commissione a titolo consultivo in conformita' con il paragrafo 8 del mandato di questa Commissione.
 
@@ -5623,13 +5619,13 @@ Le Parti contraenti, Parti alla Convenzione sulla segnaletica stradale aperta al
 
 3\. Il presente Protocollo rimarra' aperto all'adesione di ogni Stato di cui al paragrafo 1 del presente articolo, e che e' Parte alla Convenzione sulla segnaletica stradale aperta alla firma a Vienna l'8 novembre 1968, nonche' all'Accordo europeo che completa tale Convenzione aperto alla firma a Ginevra il 1 maggio 1971. Gli strumenti di adesione saranno depositati presso il Segretario generale.
 
-#### Articolo 3
+### Articolo 3
 
 1\. Ogni Stato potra', al momento in cui firmera' o ratifichera' il presente Protocollo oppure vi aderira', oppure ad ogni momento successivo, dichiarare con notifica diretta al Segretario generale che il Protocollo diviene applicabile a tutti i territori oppure ad uno qualsiasi tra loro di cui esso stesso assicura le relazioni internazionali. Il Protocollo diverra' applicabile nel territorio o nei territori designati nella notifica trenta giorni dopo la data alla quale il Segretario generale avra' ricevuto questa notifica o alla data di entrata in vigore del Protocollo per lo Stato che invia la notifica, se tale data e' posteriore alla precedente.
 
 2\. Ogni Stato che avra' fatto una dichiarazione in virtu' del paragrafo 1 del presente articolo, potra' ad ogni data ulteriore per mezzo di notifica indirizzata al Segretario Generale dichiarare che il Protocollo cessera' di essere applicabile nel detto territorio un anno dopo la data di ricezione di detta notifica da parte del Segretario Generale.
 
-#### Articolo 4
+### Articolo 4
 
 1\. Il presente Protocollo entrera' in vigore dodici mesi dopo la data del deposito del decimo strumento di ratifica o di adesione.
 
@@ -5637,11 +5633,11 @@ Le Parti contraenti, Parti alla Convenzione sulla segnaletica stradale aperta al
 
 3\. Se la data di entrata in vigore risultante dall'applicazione dei paragrafi 1 e 2 del presente articolo e' precedente a quella risultante dall'applicazione dell'Articolo 39 della Convenzione sulla segnaletica stradale aperta alla firma a Vienna l'8 novembre 1968, e' a quest'ultima data che il presente Protocollo entrera' in vigore ai sensi del paragrafo 1 del presente articolo.
 
-#### Articolo 5
+### Articolo 5
 
 All'atto della sua entrata in vigore, il presente Protocollo abroghera' e sostituira', nelle relazioni tra le Parti contraenti, le disposizioni relative al Protocollo relativo alla segnaletica stradale contenute nell'Accordo europeo completante la Convenzione sulla circolazione stradale ed il Protocollo relativo alla segnaletica stradale del 1949, firmato a Ginevra il 16 settembre 1950, l'Accordo relativo alla segnaletica dei cantieri, firmato a Ginevra il 16 dicembre 1955, e l'Accordo europeo sulla segnaletica sul piano stradale, firmato a Ginevra il 13 dicembre 1957.
 
-#### Articolo 6
+### Articolo 6
 
 1\. Dopo un periodo di dodici mesi, a decorrere dall'entrata in vigore del presente Protocollo, ogni Parte contraente potra' proporre uno o piu' emendamenti al Protocollo. Il testo di ogni proposta di emendamento, accompagnata da un esposto dei motivi, sara' indirizzato al Segretario Generale che lo comunichera' a tutte le Parti contraenti. Le Parti contraenti avranno la possibilita' di fargli sapere, entro dodici mesi dopo la data di questa comunicazione: a) se esse accettano l'emendamento, oppure b) se esse lo respingono, oppure c) se esse desiderano che una conferenza sia convocata per esaminarlo. Il segretario Generale trasmettera' altresi' il testo dell'emendamento proposto agli altri Stati di cui all'articolo 2 del presente Protocollo.
 
@@ -5667,25 +5663,25 @@ L'accordo tra le amministrazioni competenti potra' prevedere che, durante un per
 
 8\. Ciascun Stato, all'atto della firma o della ratifica del presente Accordo, o della sua adesione, notifichera' al Segretario Generale il nome ed indirizzo della sua amministrazione competente a dare l'accordo previsto al paragrafo 7 del presente articolo.
 
-#### Articolo 7
+### Articolo 7
 
 Ogni Parte contraente potra' denunciare il presente Accordo per mezzo di notifica scritta indirizzata al Segretario generale. La denuncia avra' effetto un anno dopo la data alla quale il Segretario generale ne avra' ricevuto notifica. Ogni Parte contraente, che cessera' di essere Parte alla Convenzione sulla segnaletica stradale aperta alla firma a Vienna l'8 novembre 1968, nonche' all'Accordo europeo completante detta Convenzione, aperto alla firma a Ginevra il 1 maggio 1971, cessera' alla stessa data di essere Parte al presente Protocollo.
 
-#### Articolo 8
+### Articolo 8
 
 Il presente Protocollo cessera' di essere in vigore se il numero delle Parti contraenti e' inferiore a cinque per un periodo qualsiasi di dodici mesi consecutivi, nonche' al momento in cui cessera' di essere in vigore la Convenzione sulla segnaletica stradale aperta alla firma a Vienna l'8 novembre 1968, nonche' all'Accordo europeo completante detta Convenzione, aperto alla firma a Ginevra il 1 maggio 1971.
 
-#### Articolo 9
+### Articolo 9
 
 1\. Ogni controversia tra due o piu' Parti contraenti relativa all'interpretazione o all'applicazione del presente Protocollo, che le Parti alla controversia non avessero potuto regolare per via negoziale o in altra maniera, sara' sottoposta ad arbitrato se una qualsiasi delle Parti contraenti alla controversia lo richiede e sara' di conseguenza deferita ad uno o piu' arbitri scelti di comune accordo tra le Parti alla controversia. Se, entro tre mesi a decorrere dalla domanda di arbitrato, le Parti alla controversia non pervengono ad accordarsi sulla scelta di un arbitro o di arbitri, una qualunque di queste Parti potra' domandare al Segretario Generale dell'Organizzazione delle Nazioni Unite, di designare un arbitro unico dinnanzi al quale la controversia sara' deferita per la decisione.
 
 2\. La sentenza dell'arbitro o degli arbitri designati in conformita' con il paragrafo 1 del presente articolo, sara' obbligatoria per le Parti contraenti alla controversia.
 
-#### Articolo 10
+### Articolo 10
 
 Nessuna disposizione del presente Protocollo sara' interpretata nel senso di vietare ad una Parte contraente di adottare misure compatibili con le disposizioni dello Statuto delle Nazioni Unite e limitate alle esigenze della situazione, che essa ritiene necessarie per la sua sicurezza esterna o interna.
 
-#### Articolo 11
+### Articolo 11
 
 1\. Ogni Stato potra', al momento di firmare il presente Protocollo o di depositare il suo strumento di ratifica o di adesione, dichiarare che non si considera vincolato dall'articolo 9 del presente Accordo.
 
@@ -5705,7 +5701,7 @@ a) modifica, per la Parte contraente che ha effettuato o notificato tale riserva
 
 b) modifica tali disposizioni entro i medesimi limiti per le altre Parti contraenti per quanto riguarda le loro relazioni con la Parte contraente che ha effettuato o notificato la riserva.
 
-#### Articolo 12
+### Articolo 12
 
 Oltre alle dichiarazioni, notifiche e comunicazioni previste agli articoli 6 e 11 del presente Protocollo, il Segretario generale notifichera' alle Parti contraenti ed agli altri Stati di cui all'articolo 2:
 
@@ -5721,7 +5717,7 @@ e) le denuncie ai sensi dell'articolo 7;
 
 f) l'abrogazione del presente Protocollo ai sensi dell'articolo 8.
 
-#### Articolo 13
+### Articolo 13
 
 Dopo il 1 marzo 1974, l'originale del presente Protocollo sara' depositato presso il Segretario generale dell'Organizzazione delle Nazioni Unite, che ne trasmettera' copie certificate conformi a tutti gli Stati di cui allo articolo 2 del presente Protocollo.
 
@@ -5729,7 +5725,7 @@ IN FEDE DI CHE, i sottoscritti, a tal fine debitamente autorizzati, hanno firmat
 
 FATTO a Ginevra, il 1 marzo 1973, in un solo esemplare, in lingua francese, inglese e russa, i tre testi facenti ugualmente fede.
 
-#### Annesso
+### Annesso
 
 ANNESSO
 

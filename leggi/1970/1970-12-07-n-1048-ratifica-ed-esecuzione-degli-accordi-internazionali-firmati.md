@@ -25,7 +25,7 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare i seguenti Atti internazionali relativi all'Associazione tra la Comunita' economica europea e gli Stati africani e malgascio associati a tale Comunita', firmati a Yaounde' il 29 luglio 1969:
 
@@ -37,11 +37,11 @@ c) Accordo interno relativo ai provvedimenti da prendere e alle procedure da seg
 
 d) Accordo interno relativo al finanziamento e alla gestione degli aiuti della Comunita'.
 
-##### Art. 2
+#### Art. 2
 
 Piena ed intera esecuzione e' data agli Atti internazionali indicati nell'articolo precedente a decorrere dal giorno della loro entrata in vigore in conformita' agli articoli 59, 5, 9 e 25 degli Accordi di cui alle lettere a), b), c) e d) dello stesso articolo.
 
-##### Art. 3
+#### Art. 3
 
 Per dare esecuzione agli obblighi derivanti dall'attuazione della presente legge viene autorizzata la spesa complessiva di lire 88 miliardi, ripartita come segue:
 
@@ -61,13 +61,13 @@ anno 1976 lire 14 miliardi;
 
 anno 1977 lire 15 miliardi.
 
-##### Art. 4
+#### Art. 4
 
 All'onere derivante dall'attuazione della presente legge, valutato in lire 5 miliardi per l'anno finanziario 1970 ed in lire 8 miliardi per l'anno finanziario 1971, si provvede mediante riduzione di pari importo degli stanziamenti rispettivamente iscritti al capitolo n. 3523 dello stato di previsione del Ministero del tesoro per gli anni finanziari medesimi.
 
 Il Ministro per il tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 5
+#### Art. 5
 
 Il Governo e' autorizzato ad emanare, con decreti aventi valore di legge ordinaria e secondo i principi direttivi contenuti negli Atti internazionali indicati nello articolo 1 della presente legge, le norme necessarie per dare esecuzione agli obblighi derivanti dagli Atti stessi nonche' le norme per dare esecuzione alle misure transitorie previste dal secondo comma dell'articolo 62 della Convenzione stessa.
 
@@ -83,7 +83,7 @@ Visto, il Guardasigilli: REALE
 
 ## Allegati
 
-##### art. 1
+#### art. 1
 
 Convenzione di Associazione tra la Comunita' economica europea e gli Stati africani e malgascio associati a tale Comunita' e documenti annessi.
 
@@ -303,11 +303,9 @@ Con tali disposizioni le Parti contraenti intendono sviluppare le loro relazioni
 
 ## TITOLO I - SCAMBI COMMERCIALI
 
-### Capitolo I
+### Capitolo I - Dazi doganali e restrizioni quantitative
 
-#### Dazi doganali e restrizioni quantitative
-
-##### Articolo 2
+#### Articolo 2
 
 1\. I prodotti originari degli Stati associati sono ammessi all'importazione nella Comunita' in esenzione da dazi doganali e tasse di effetto equivalente, ed il trattamento loro riservato non puo' essere piu' favorevole di quello che gli Stati membri si concedono tra loro.
 
@@ -321,7 +319,7 @@ Le disposizioni del Protocollo n. 1 allegato alla presente Convenzione precisano
 
 3\. Sulle modalita' di applicazione del presente articolo possono aver luogo consultazioni in seno al Consiglio di Associazione.
 
-##### Articolo 3
+#### Articolo 3
 
 1\. I prodotti originari della Comunita' sono ammessi all'importazione in ciascuno degli Stati associati in esenzione da dazi doganali e tasse di effetto equivalente.
 
@@ -331,17 +329,17 @@ Le disposizioni del Protocollo n. 1 allegato alla presente Convenzione precisano
 
 4\. A richiesta della Comunita', hanno luogo consultazioni in seno al Consiglio di Associazione sulle modalita' di applicazione del presente articolo.
 
-##### Articolo 4
+#### Articolo 4
 
 1\. Qualora uno Stato associato riscuota dazi all'esportazione sui propri prodotti destinati agli Stati membri, tali dazi non devono provocare, de jure o de facto, una discriminazione diretta o indiretta tra gli Stati membri.
 
 2\. Fatta salva l'applicazione dell'articolo 16, paragrafo 2, hanno luogo consultazioni in seno al Consiglio di Associazione qualora l'applicazione di tali dazi turbi seriamente le condizioni di concorrenza.
 
-##### Articolo 5
+#### Articolo 5
 
 Fatte salve le disposizioni particolari previste nella presente Convenzione, ciascuna Parte contraente si astiene dall'adottare misure o dall'introdurre pratiche fiscali interne atte a provocare direttamente o indirettamente una discriminazione tra i propri prodotti e i prodotti similari originari delle altre Parti contraenti.
 
-##### Articolo 6
+#### Articolo 6
 
 1\. La Comunita' non applica all'importazione dei prodotti originari degli Stati associati restrizioni quantitative o misure di effetto equivalente oltre a quelle che gli Stati membri applicano tra loro.
 
@@ -349,7 +347,7 @@ Fatte salve le disposizioni particolari previste nella presente Convenzione, cia
 
 3\. A richiesta di uno Stato associato, hanno luogo consultazioni in seno al Consiglio di Associazione sulle modalita' di applicazione del presente articolo.
 
-##### Articolo 7
+#### Articolo 7
 
 1\. Fatte salve le disposizioni del presente articolo, gli Stati associati non applicano restrizioni quantitative o misure di effetto equivalente all'importazione dei prodotti originari degli Stati membri.
 
@@ -363,17 +361,17 @@ Il ricorso a restrizioni quantitative e a misure di effetto equivalente puo' int
 
 5\. A richiesta della Comunita', hanno luogo consultazioni in seno al Consiglio di Associazione sulle modalita' di applicazione del presente articolo.
 
-##### Articolo 8
+#### Articolo 8
 
 Le disposizioni di cui agli articoli 6 e 7 non pregiudicano il regime che le Parti contraenti aderenti ad accordi mondiali riservano a taluni prodotti in applicazione di tali accordi.
 
-##### Articolo 9
+#### Articolo 9
 
 Le disposizioni di cui agli articoli 6, 7 e 8 non pregiudicano i divieti o restrizioni all'importazione, alla esportazione e al transito giustificati, da motivi di moralita' pubblica, di ordine pubblico, di pubblica sicurezza, di tutela della salute e della vita delle persone e degli animali o di preservazione dei vegetali, di protezione del patrimonio artistico, storico o archeologico nazionale, o di tutela della proprieta' industriale e commerciale.
 
 Tuttavia, tali divieti o restrizioni non devono costituire un mezzo di discriminazione arbitraria, ne' una restrizione dissimulata al commercio.
 
-##### Articolo 10
+#### Articolo 10
 
 1\. La nozione di "prodotti originari" ai fini dell'applicazione del presente Titolo ed i relativi metodi di cooperazione amministrativa definiti in applicazione della Convenzione di Associazione firmata a Yaounde' il 20 luglio 1963 rimangono applicabili.
 
@@ -381,9 +379,9 @@ Tuttavia, tali divieti o restrizioni non devono costituire un mezzo di discrimin
 
 3\. Qualora per un prodotto determinato non sia ancora stata definita la nozione di "prodotti originari" in applicazione di uno dei paragrafi precedenti, ciascuna Parte contraente continua ad applicare la propria regolamentazione.
 
-## Capitolo II - Disposizioni relative alla politica commerciale
+### Capitolo II - Disposizioni relative alla politica commerciale
 
-##### Articolo 11
+#### Articolo 11
 
 Fatte salve le disposizioni particolari proprie del commercio frontaliero e senza pregiudizio degli articoli 12 e 13:
 
@@ -391,13 +389,13 @@ il regime che gli Stati associati applicano, in virtu' del presente Titolo, ai p
 
 il regime che gli Stati associati applicano, in virtu' del presente Titolo, ai prodotti destinati alla Comunita' non puo' essere meno favorevole di quello applicato ai prodotti destinati allo Stato terzo piu' favorito.
 
-##### Articolo 12
+#### Articolo 12
 
 Gli Stati associati possono mantenere o creare tra loro unioni doganali, zone di libero scambio o concludere accordi di cooperazione economica.
 
 Il Consiglio di Associazione e' tenuto informato dagli Stati associati interessati.
 
-##### Articolo 13
+#### Articolo 13
 
 1\. Ciascuno Stato associato puo' mantenere o creare unioni doganali o zone di libero scambio, o concludere accordi di cooperazione economica con uno o piu' paesi terzi africani a livello di sviluppo comparabile, purche' cio' non abbia l'effetto di modificare le disposizioni concernenti l'origine relative all'applicazione della presente Convenzione.
 
@@ -407,7 +405,7 @@ Il Consiglio di Associazione e' tenuto informato dallo Stato o dagli Stati assoc
 
 3\. Se tali consultazioni rivelano incompatibilita' tra gli impegni degli Stati associati di cui al paragrafo 1 ed i principi e le disposizioni della presente Convenzione, il Consiglio di Associazione adotta, ove occorra, le misure necessarie al buon funzionamento dell'Associazione. Esso puo' del pari formulare ogni utile raccomandazione.
 
-##### Articolo 14
+#### Articolo 14
 
 Ciascuno Stato associato puo' altresi' mantenere o creare unioni doganali, zone di libero scambio o accordi di cooperazione economica con uno o piu' altri paesi terzi, purche' questi siano compatibili con le disposizioni della presente Convenzione e in particolare con l'articolo 11, nonche' con le disposizioni prese ai fini dell'applicazione dell'articolo 10.
 
@@ -415,7 +413,7 @@ Il Consiglio di Associazione e' tenuto informato dallo Stato o dagli Stati assoc
 
 A richiesta della Comunita', hanno luogo consultazioni in seno al Consiglio di Associazione.
 
-##### Articolo 15
+#### Articolo 15
 
 1\. Le Parti contraenti si informano reciprocamente in merito alle misure che esse intendono adottare in materia di politica commerciale nei confronti dei paesi terzi quando queste potrebbero pregiudicare gli interessi di una o piu' Parti contraenti.
 
@@ -423,9 +421,9 @@ A richiesta della Comunita', hanno luogo consultazioni in seno al Consiglio di A
 
 3\. Il Consiglio di Associazione definisce la procedura d'informazione e di consultazione relativa all'applicazione del presente Capitolo.
 
-## Capitolo III - Clausole di salvaguardia
+### Capitolo III - Clausole di salvaguardia
 
-##### Articolo 16
+#### Articolo 16
 
 1\. Qualora gravi perturbazioni si manifestino in un settore economico di uno o piu' Stati associati o ne compromettano la stabilita' finanziaria con l'estero, o qualora sorgano difficolta' tali da alterare la situazione economica di una regione di uno o piu' Stati associati, gli Stati interessati possono prendere le necessarie misure di salvaguardia.
 
@@ -441,11 +439,11 @@ Tali misure e le relative modalita' di applicazione sono notificate immediatamen
 
 ## TITOLO II - COOPERAZIONE FINANZIARIA E TECNICA
 
-##### Articolo 17
+#### Articolo 17
 
 La Comunita' partecipa, alle condizioni indicate nel presente Titolo e nel Protocollo n. 6 allegato alla presente Convenzione, alle misure atte a promuovere lo sviluppo economico e sociale degli Stati associati mediante uno sforzo complementare a quelli compiuti da tali Stati.
 
-##### Articolo 18
+#### Articolo 18
 
 Ai fini di cui all'articolo 17 e per la durata della presente Convenzione, un importo globale di 918 milioni di unita' di conto e' fornito onde coprire l'insieme degli interventi della Comunita':
 
@@ -457,7 +455,7 @@ a) per 828 milioni di unita' di conto, dagli Stati membri. Questo importo e' ver
 
 b) fino a concorrenza di 90 milioni di unita' di conto, dalla Banca Europea per gli investimenti, in appresso denominata la "Banca", sotto forma di prestiti concessi alle condizioni previste dal Protocollo n. 6 allegato alla presente Convenzione e dallo Statuto della Banca. Tali prestiti possono essere accompagnati da abbuoni di interessi. L'onere globale degli abbuoni di interessi relativi a prestiti della Banca concessi agli Stati associati dopo il 1° giugno 1964 e' imputato all'importo degli aiuti non rimborsabili.
 
-##### Articolo 19
+#### Articolo 19
 
 1\. Fatte salve le disposizioni di cui agli articoli 20 e 21, l'importo fissato all'articolo 18 e' impiegato per il finanziamento dei progetti e dei programmi, definiti, per quanto possibile, nel quadro di un programma o di un piano di sviluppo concernenti:
 
@@ -475,7 +473,7 @@ delle difficolta' di sviluppo di ciascuno degli Stati associati, tenuto conto de
 
 dell'interesse a promuovere la cooperazione regionale tra Stati associati ed eventualmente tra questi e uno o piu' Stati vicini.
 
-##### Articolo 20
+#### Articolo 20
 
 1\. Al fine di aiutare gli Stati associati a far fronte a difficolta' particolari e straordinarie, che creano una situazione eccezionale, aventi ripercussioni gravi sul loro potenziale economico e dovute ad un crollo dei prezzi mondiali oppure a calamita', quali carestia, inondazioni, e' istituito inoltre un fondo di riserva, costituito con prelievi effettuati sulla parte degli aiuti non rimborsabili di cui all'articolo 18.
 
@@ -489,11 +487,11 @@ Le somme versate a complemento non possono superare 45 milioni di unita' di cont
 
 Tuttavia, se al termine del terzo anno ed a causa dell'entita' delle difficolta' di cui al paragrafo 1, le somme previste sono manifestamente insufficienti, il Consiglio di Associazione puo' decidere di prelevare dagli aiuti non rimborsabili di cui all'articolo 18 una somma di 15 milioni di unita' di conto al massimo e destinarla agli aiuti di cui al presente articolo.
 
-##### Articolo 21
+#### Articolo 21
 
 La Comunita' puo' concedere sulle disponibilita' di tesoreria del Fondo anticipazioni per un importo massimo di 50 milioni di unita' di conto allo scopo di contribuire ad attenuare le conseguenze delle fluttuazioni temporanee dei prezzi mondiali.
 
-##### Articolo 22
+#### Articolo 22
 
 1\. Gli Stati associati informano la Commissione, possibilmente fin dall'entrata in vigore della presente Convenzione, dei loro progetti e programmi di sviluppo nonche' degli interventi per i quali intendono sollecitare un concorso finanziario della Comunita'.
 
@@ -503,15 +501,15 @@ Essi comunicheranno tutte le modificazioni successivamente intervenute.
 
 Tuttavia, la Comunita' puo' proporre progetti o programmi di cooperazione tecnica. Essa chiede l'accordo preliminare dello Stato associato o del gruppo di Stati associati interessati sulle grandi linee di tali progetti o programmi.
 
-##### Articolo 23
+#### Articolo 23
 
 La Comunita' istruisce le domande di finanziamento che le sono presentate in virtu' delle disposizioni dell'articolo 22. Essa mantiene con gli Stati associati i contatti necessari onde deliberare con piena cognizione di causa sui progetti e programmi che le sono sottoposti e per contribuire a promuovere uno sviluppo armonioso ed equilibrato di tutti gli Stati associati. Nell'istruire tali domande, la Comunita' tiene conto dei problemi specifici che si pongono per i paesi piu' svantaggiati in modo da assicurare loro un'assistenza finanziaria e tecnica appropriata. Lo Stato associato o il gruppo di Stati associati interessati e' informato del seguito dato alla sua domanda.
 
-##### Articolo 24
+#### Articolo 24
 
 Il concorso della Comunita' alla realizzazione di taluni progetti o programmi puo' assumere, previo accordo dello Stato associato o del gruppo di Stati associati interessati, la forma di cofinanziamento al quale parteciperebbero in particolare organismi ed istituti di credito e di sviluppo degli Stati associati o degli Stati membri, degli Stati terzi o degli organismi finanziari internazionali.
 
-##### Articolo 25
+#### Articolo 25
 
 1\. Alle condizioni di cui agli articoli 22 e 24, i beneficiari delle varie forme di aiuti della Comunita' di cui all'articolo 19 possono essere, a seconda dei casi: gli Stati associati; le persone giuridiche degli Stati membri o degli Stati associati che non perseguano principalmente scopi lucrativi, che presentino un carattere di interesse generale e siano sottoposte in questi Stati a controllo pubblico; le associazioni di produttori o organismi similari riconosciuti dalla Comunita' e dagli Stati associati o, in mancanza di tali associazioni e organismi, e a titolo eccezionale, i produttori stessi; gli organismi regionali o interstatali di cui facciano parte Stati associati.
 
@@ -523,65 +521,65 @@ b) dei prestiti della Banca e degli abbuoni di interessi ad essi relativi, dei p
 
 2\. I beneficiari degli aiuti di cui all'articolo 20 sono gli Stati associati. Le modalita' di attribuzione di tali aiuti sono stabilite di comune accordo tra la Comunita' e lo Stato o gli Stati associati beneficiari.
 
-##### Articolo 26
+#### Articolo 26
 
 1\. Per gli interventi il cui finanziamento e' assicurato dalla Comunita', alle aggiudicazioni, alle gare di appalto, ai contratti possono partecipare, a parita' di condizioni, tutte le persone fisiche e giuridiche degli Stati membri e degli Stati associati.
 
 2\. Le disposizioni di cui al paragrafo 1 non ostano alle misure atte a favorire la partecipazione di imprese di lavori o di produzione industriale o artigiana dello Stato associato interessato o d'un altro Stato associato della stessa regione, all'esecuzione di contratti di lavori di importanza limitata o di contratti di forniture per le quali esista una produzione locale.
 
-##### Articolo 27
+#### Articolo 27
 
 Il regime fiscale e doganale applicabile negli Stati associati agli appalti finanziati dalla Comunita' e' definito con decisione del Consiglio di Associazione nella prima sessione dopo l'entrata in vigore della Convenzione.
 
-##### Articolo 28
+#### Articolo 28
 
 1\. Le somme destinate al finanziamento dei progetti o dei programmi in applicazione delle disposizioni del presente Titolo devono essere utilizzate conformemente alle assegnazioni e nelle migliori condizioni economiche.
 
 2\. La gestione e la manutenzione dell'infrastruttura economica e sociale e delle attrezzature di produzione realizzate mediante aiuti comunitari incombono ai beneficiari.
 
-##### Articolo 29
+#### Articolo 29
 
 Il Consiglio di Associazione definisce l'orientamento generale della cooperazione finanziaria e tecnica nell'ambito dell'Associazione, sulla base, tra l'altro, di una relazione annua sottopostagli dalla Commissione in merito alla gestione dell'aiuto finanziario e tecnico della Comunita'. Questa relazione tiene conto dell'esperienza acquisita e dei contatti con gli Stati associati previsti all'articolo 23. Essa e' elaborata di concerto con la Banca per le parti che riguardano quest'ultima ed espone in particolare la situazione dell'impegno, dell'esecuzione e dell'utilizzazione dell'aiuto per natura del finanziamento e per Stati beneficiari. La relazione mette infine in evidenza eventuali disparita' ed altre imperfezioni costatate, tenuto conto in particolare dei principi di cui all'articolo 19, paragrafo 2.
 
-##### Articolo 30
+#### Articolo 30
 
 La mancata ratifica della presente Convenzione da parte di uno Stato associato, alle condizioni di cui all'articolo 59, o la denuncia della Convenzione, in conformita' dell'articolo 64, implica per le Parti contraenti l'obbligo di adeguare l'importo degli aiuti finanziari previsti nella presente Convenzione.
 
 ## TITOLO III - DIRITTO DI STABILIMENTO SERVIZI, PAGAMENTI E CAPITALI
 
-##### Articolo 31
+#### Articolo 31
 
 Il regime accordato da ciascuno Stato associato in materia di diritto di stabilimento o di prestazione di servizi non puo' implicare, de jure o de facto, direttamente o indirettamente, discriminazioni fra i cittadini o le societa' di ciascuno degli Stati membri.
 
 Tuttavia, i cittadini e le societa' di uno Stato membro possono, in uno Stato associato, beneficiare per una determinata attivita' delle disposizioni di cui al primo comma soltanto se lo Stato al quale appartengono accorda per la medesima attivita' vantaggi della stessa natura ai cittadini e alle societa' dello Stato associato in questione.
 
-##### Articolo 32
+#### Articolo 32
 
 Se uno Stato associato ai cittadini o alle societa' di uno Stato, che non sia ne Stato membro ne' Stato associato ai sensi della presente Convenzione, un trattamento piu' favorevole di quello derivante per i cittadini o le societa' degli Stati membri dall'applicazione delle disposizioni del presente Titolo, detto trattamento viene esteso ai cittadini o alle societa' degli Stati membri, tranne che esso sia previsto da accordi regionali.
 
-##### Articolo 33
+#### Articolo 33
 
 Il diritto di stabilimento ai sensi della presente Convenzione comporta, fatte salve le disposizioni sui movimenti di capitali, l'accesso alle attivita' non salariate e il loro esercizio, nonche' la costituzione e la gestione di imprese, in particolare di societa', e la creazione di agenzie succursali o filiali.
 
-##### Articolo 34
+#### Articolo 34
 
 Ai sensi della presente Convenzione, sono considerate servizi le prestazioni fornite normalmente dietro retribuzione, in quanto non siano regolate dalle disposizioni relative agli scambi commerciali, al diritto di stabilimento e ai movimenti di capitali. I servizi comprendono, in particolare, attivita' a carattere industriale, attivita' a carattere commerciale, attivita' artigiane e le attivita' delle libere professioni, escluse le attivita' salariate.
 
-##### Articolo 35
+#### Articolo 35
 
 Ai sensi della presente Convenzione, per societa' si intendono le societa' di diritto civile o di diritto commerciale, ivi comprese le societa' cooperative e le altre persone giuridiche di diritto pubblico o privato, ad eccezione delle societa' che non si prefiggono scopi di lucro.
 
 Le societa' di uno Stato membro o di uno Stato associato sono le societa' costituite conformemente alla legislazione di uno Stato membro o di uno Stato associato che abbiano la sede sociale, l'amministrazione centrale o il centro di attivita' principale in uno Stato membro o in uno Stato associato; tuttavia, qualora dette societa' abbiano in uno Stato membro od associato soltanto la sede sociale, la loro attivita' deve essere connessa in modo effettivo e continuo con l'economia di detto Stato membro o di detto Stato associato.
 
-##### Articolo 36
+#### Articolo 36
 
 A richiesta della Comunita' o degli Stati associati, il Consiglio di Associazione procede all'esame dei problemi inerenti all'applicazione degli articoli 31-35. Esso adotta inoltre le decisioni o raccomandazioni necessarie a tale applicazione.
 
-##### Articolo 37
+#### Articolo 37
 
 Ogni Stato firmatario si impegna ad autorizzare, entro i limiti della propria competenza in materia, i pagamenti relativi agli scambi di merci, di servizi e di capitali e ai salari, nonche' il trasferimento di questi pagamenti nello Stato membro o nello Stato associato in cui risiede il creditore o il beneficiario nella misura in cui la circolazione delle merci, dei servizi, dei capitali e delle persone sia liberalizzata in applicazione della presente Convenzione.
 
-##### Articolo 38
+#### Articolo 38
 
 Per tutta la durata dei prestiti, delle anticipazioni o delle partecipazioni di cui agli articoli 6, 7, 8, 9 e 11 del Protocollo n.
 
@@ -591,19 +589,19 @@ mettere a disposizione dei debitori le divise necessarie al pagamento degli inte
 
 mettere a disposizione della Banca le divise necessarie al trasferimento di tutte le somme corrispondenti ai proventi e prodotti delle operazioni che contribuiscono alla formazione di capitali a rischio delle imprese.
 
-##### Articolo 39
+#### Articolo 39
 
 1\. Gli Stati associati provvedono ad applicare un regime liberale di cambio per quanto riguarda gli investimenti ed i pagamenti correnti relativi ai movimenti di capitali che ne risultano, quando essi sono effettuati da persone residenti negli Stati membri.
 
 2\. Gli Stati associati trattano su un piano di parita' i cittadini e le societa' degli Stati membri per quanto riguarda i loro investimenti nonche' i movimenti di capitali che ne risultano.
 
-##### Articolo 40
+#### Articolo 40
 
 Il Consiglio di Associazione formula ogni utile raccomandazione alle Parti contraenti riguardo all'applicazione degli articoli 37, 38 e 39.
 
 ## TITOLO IV - LE ISTITUZIONI DELL'ASSOCIAZIONE
 
-##### Articolo 41
+#### Articolo 41
 
 Le istituzioni dell'Associazione sono:
 
@@ -613,7 +611,7 @@ la Conferenza parlamentare dell'Associazione,
 
 la Corte arbitrale dell'Associazione.
 
-##### Articolo 42
+#### Articolo 42
 
 Il Consiglio di Associazione e' composto dei membri del Consiglio delle Comunita' europee e di membri della Commissione delle Comunita' europee, da una parte, e di un membro del Governo di ciascuno Stato associato, dall'altra.
 
@@ -621,23 +619,23 @@ Ogni membro del Consiglio di Associazione puo' farsi rappresentare in caso d'imp
 
 Il Consiglio di Associazione puo' deliberare validamente ove sia presente la meta' dei membri del Consiglio delle Comunita' europee, un membro della Commissione e la meta' dei membri titolari in rappresentanza dei Governi degli Stati associati.
 
-##### Articolo 43
+#### Articolo 43
 
 La presidenza del Consiglio di Associazione e' esercitata a turno da un membro del Consiglio delle Comunita' europee e da un membro del Governo di uno Stato associato.
 
-##### Articolo 44
+#### Articolo 44
 
 Il Consiglio di Associazione si riunisce una volta all'anno su iniziativa del Presidente.
 
 Esso si riunisce inoltre ogniqualvolta sia necessario, alle condizioni stabilite dal regolamento interno.
 
-##### Articolo 45
+#### Articolo 45
 
 Il Consiglio di Associazione si pronuncia di comune accordo tra la Comunita', da un lato, e gli Stati associati, dall'altro.
 
 La Comunita' e gli Stati associati determinano, ciascuno con Protocollo interno, le modalita' di formazione delle rispettive posizioni.
 
-##### Articolo 46
+#### Articolo 46
 
 Nei casi previsti dalla presente Convenzione, il Consiglio di Associazione dispone del potere di decisione; queste decisioni sono obbligatorie per le Parti Contraenti che devono adottare le misure necessarie per la loro esecuzione.
 
@@ -647,17 +645,17 @@ Il Consiglio di Associazione esamina periodicamente, alla luce degli obiettivi d
 
 Il Consiglio di Associazione adotta il proprio regolamento interno.
 
-##### Articolo 47
+#### Articolo 47
 
 Il Consiglio di Associazione e' assistito nell'adempimento delle sue funzioni da un Comitato di Associazione composto di un rappresentante di ogni Stato membro e di un rappresentante della Commissione, da una parte, e di un rappresentante di ogni Stato associato, dall'altra.
 
-##### Articolo 48
+#### Articolo 48
 
 La presidenza del Comitato di Associazione e' assicurata dallo Stato che assume la presidenza del Consiglio di Associazione.
 
 Il Comitato di Associazione adotta il proprio regolamento interno che e' sottoposto al Consiglio di Associazione per l'approvazione.
 
-##### Articolo 49
+#### Articolo 49
 
 1\. Il Consiglio di Associazione definisce nel proprio regolamento interno i compiti e le competenze del Comitato di Associazione per garantire soprattutto la continuita' della cooperazione necessaria al buon funzionamento dell'Associazione.
 
@@ -665,17 +663,17 @@ Il Comitato di Associazione adotta il proprio regolamento interno che e' sottopo
 
 In tal caso, il Comitato di Associazione si pronuncia alle condizioni di cui all'articolo 45.
 
-##### Articolo 50
+#### Articolo 50
 
 Il Comitato di Associazione riferisce al Consiglio di Associazione sulle attivita' svolte, in particolare nei settori che sono stati oggetto di una delega di competenza.
 
 Esso presentera' altresi' al Consiglio di Associazione ogni utile proposta.
 
-##### Articolo 51
+#### Articolo 51
 
 Il segretario del Consiglio di Associazione e del Comitato di Associazione e' assicurato su base paritetica alle condizioni previste dal regolamento interno del Consiglio di Associazione.
 
-##### Articolo 52
+#### Articolo 52
 
 La Conferenza parlamentare dell'Associazione si riunisce una volta all'anno. Essa e' composta, su base paritetica, di membri del Parlamento Europeo e di membri dei Parlamenti degli Stati associati.
 
@@ -685,7 +683,7 @@ La Conferenza parlamentare puo' votare risoluzioni sulle materie concernenti l'A
 
 La Conferenza parlamentare e' preparata da una Commissione paritetica.
 
-##### Articolo 53
+#### Articolo 53
 
 1\. Le controversie sull'interpretazione o sull'applicazione della presente Convenzione tra uno Stato membro, piu' Stati membri o la Comunita', da una parte, ed uno o piu' Stati associati, dall'altra, sono deferite da una delle parti in causa al Consiglio di Associazione che, nella sessione piu' prossima, cerchera' una soluzione in via amichevole. Se il risultato e' negativo e le parti non raggiungono di comune accordo una soluzione appropriata, la controversia e' deferita, su richiesta della parte piu' diligente, alla Corte arbitrale dell'Associazione.
 
@@ -699,33 +697,33 @@ La Conferenza parlamentare e' preparata da una Commissione paritetica.
 
 6\. In occasione della prima riunione la Corte arbitrale adotta il proprio regolamento di procedura.
 
-##### Articolo 54
+#### Articolo 54
 
 Il Consiglio di Associazione puo' formulare ogni utile raccomandazione per facilitare i contatti fra la Comunita' e i rappresentanti degli interessi professionali degli Stati associati.
 
-##### Articolo 55
+#### Articolo 55
 
 Le spese di funzionamento delle istituzioni dell'Associazione sono ripartite conformemente a quanto stabilito dal Protocollo n. 10 allegato alla presente Convenzione.
 
 ## TITOLO V - DISPOSIZIONI GENERALI E FINALI
 
-##### Articolo 56
+#### Articolo 56
 
 I Trattati, le convenzioni, gli accordi o le intese di qualsiasi forma o natura fra uno o piu' Stati membri e fra uno o piu' Stati associati non devono essere di ostacolo all'applicazione delle disposizioni della presente Convenzione.
 
-##### Articolo 57
+#### Articolo 57
 
 La presente Convenzione si applica al territorio europeo degli Stati membri, da una parte, e al territorio degli Stati associati, dall'altra.
 
 Il Titolo I della presente Convenzione si applica ugualmente nelle relazioni fra i dipartimenti francesi d'oltremare e gli Stati associati.
 
-##### Articolo 58
+#### Articolo 58
 
 Per quanto riguarda la Comunita', la presente Convenzione sara' validamente conclusa con decisione del Consiglio delle Comunita' europee adottata conformemente alle disposizioni del Trattato e notificata alle Parti contraenti. Essa sara' ratificata dagli Stati firmatari secondo le rispettive norme costituzionali.
 
 Gli strumenti di ratifica e l'atto di notifica della conclusione della Convenzione sono depositati presso il Segretariato del Consiglio delle Comunita' europee, che ne informera' gli Stati firmatari.
 
-##### Articolo 59
+#### Articolo 59
 
 1\. La presente Convenzione entra in vigore il primo giorno del mese successivo alla data di deposito degli strumenti di ratifica da parte degli Stati membri e di almeno quindici Stati associati, nonche' dell'atto di notifica della conclusione della Convenzione da parte della Comunita'.
 
@@ -737,7 +735,7 @@ Gli Stati firmatari che ratificano la Convenzione alle condizioni di cui al para
 
 4\. Il regolamento interno degli organi dell'Associazione stabilisce se ed a quali condizioni i rappresentanti degli Stati firmatari, che alla data dell'entrata in vigore della Convenzione non l'hanno ancora ratificata, partecipano in veste di osservatori alle sedute degli organi dell'Associazione. Tali disposizioni restano in vigore solo fino al momento in cui la Convenzione e' applicabile a detti Stati e perderanno comunque ogni efficacia alla data in cui, in base alla modalita' di cui al paragrafo 2, lo Stato in questione non potra' piu' procedere alla ratifica della Convenzione.
 
-##### Articolo 60
+#### Articolo 60
 
 1\. Il Consiglio di Associazione viene informato di qualsiasi domanda di adesione o di associazione di uno Stato alla Comunita'.
 
@@ -749,31 +747,31 @@ Lo Stato in questione gode quindi degli stessi diritti ed e' sottoposto agli ste
 
 L'accessione non puo' pregiudicare i vantaggi derivanti agli Stati associati firmatari della presente Convenzione dalle disposizioni relative alla cooperazione finanziaria e tecnica.
 
-##### Articolo 61
+#### Articolo 61
 
 La presente Convenzione e' conclusa per una durata di cinque anni a decorrere dalla sua entrata in vigore e scadra' al piu' tardi il 31 gennaio 1975.
 
-##### Articolo 62
+#### Articolo 62
 
 Diciotto mesi prima della scadenza della presente Convenzione, le Parti contraenti esaminano le disposizioni che potrebbero essere previste per un nuovo periodo.
 
 Il Consiglio di Associazione adotta eventualmente le misure transitorie necessarie sino all'entrata in vigore della nuova Convenzione.
 
-##### Articolo 63
+#### Articolo 63
 
 La Comunita' e gli Stati membri assumono gli impegni di cui agli articoli 2 e 6 nei confronti degli Stati associati che, in base ad obblighi internazionali sussistenti al momento dell'entrata in vigore del Trattato e che prevedevano l'applicazione di un regime doganale particolare, ritengano di non poter garantire immediatamente in favore della Comunita' la reciprocita' di cui all'articolo 3, paragrafo 1.
 
 Le Parti contraenti interessate riesaminano la situazione al piu' tardi tre anni dopo l'entrata in vigore della Convenzione.
 
-##### Articolo 64
+#### Articolo 64
 
 La presente Convenzione puo' essere denunciata dalla Comunita' nei confronti di ciascuno Stato associato e da ciascuno Stato associato nei confronti della Comunita' con un preavviso di sei mesi.
 
-##### Articolo 65
+#### Articolo 65
 
 I Protocolli allegati alla presente Convenzione ne costituiscono parte integrante.
 
-##### Articolo 66
+#### Articolo 66
 
 La presente Convenzione redatta in unico esemplare in lingua tedesca, francese, italiana e olandese, i quattro testi facenti tutti ugualmente fede, sara' depositata negli archivi del Segretariato del Consiglio delle Comunita' europee che provvedera' a rimetterne copia certificata conforme a ciascuno dei Governi degli Stati firmatari.
 
@@ -919,7 +917,7 @@ Le Alte Parti contraenti
 
 Hanno convenuto le seguenti disposizioni che sono allegate alla Convenzione:
 
-##### Articolo 1
+#### Articolo 1
 
 1\. La Comunita' fissa, caso per caso, previa consultazione in seno al Consiglio di Associazione, il regime d'importazione per i prodotti o gruppi di prodotti previsti all'articolo 2, paragrafo 2, della Convenzione, originari degli Stati associati, quando gli Stati associati hanno un interesse economico all'esportazione di tali prodotti.
 
@@ -927,11 +925,11 @@ Il regime che la Comunita' riserva a tali prodotti e' piu' favorevole del regime
 
 2\. Tuttavia, se per un determinato prodotto la situazione economica della Comunita' lo giustifica, la Comunita' puo' eccezionalmente astenersi dall'istituire un regime speciale per tale prodotto degli Stati associati.
 
-##### Articolo 2
+#### Articolo 2
 
 Se i prodotti di cui all'articolo 2, paragrafo 2, primo trattino della Convenzione sono soggetti a dazi doganali all'importazione nella Comunita' e se nessuna disposizione sui relativi scambi con i paesi terzi e' prevista nell'ambito della politica agricola comune, in deroga alle disposizioni dell'articolo 1, la loro importazione nella Comunita', se originari degli Stati associati, e' disciplinata dalle disposizioni dell'articolo 2, paragrafo 1, della Convenzione.
 
-##### Articolo 3
+#### Articolo 3
 
 1\. Il regime stabilito per i vari prodotti in base al presente Protocollo e' applicabile sino alla scadenza della Convenzione.
 
@@ -947,7 +945,7 @@ Le Alte Parti contraenti
 
 Hanno convenuto le seguenti disposizioni che sono allegate alla Convenzione:
 
-##### Articolo 1
+#### Articolo 1
 
 Le necessita' di sviluppo degli Stati associati previste al paragrafo 2 dell'articolo 3 della Convenzione sono quelle risultanti:
 
@@ -959,7 +957,7 @@ dalle esigenze di equilibrare la loro bilancia dei pagamenti e per ovviare alle 
 
 dalla necessita' di garantire un rapido e sostenuto aumento del gettito delle esportazioni dei loro paesi.
 
-##### Articolo 2
+#### Articolo 2
 
 1\. Ciascuno Stato associato comunica al Consiglio di Associazione, entro tre mesi a decorrere dall'entrata in vigore della Convenzione, la sua tariffa doganale oppure l'elenco completo dei dazi doganali e delle tasse di effetto equivalente a tali dazi riscossi all'importazione dei prodotti originari della Comunita' e dei paesi terzi.
 
@@ -967,7 +965,7 @@ In detta comunicazione, ciascuno Stato associato specifica i dazi e le tasse di 
 
 2\. A richiesta della Comunita', hanno luogo consultazioni in seno al Consiglio di Associazione sulle tariffe doganali o sugli elenchi di cui al paragrafo 1.
 
-##### Articolo 3
+#### Articolo 3
 
 1\. Ciascuno Stato associato informa in tempo il Consiglio di Associazione dell'istituzione o dell'aumento dei dazi doganali o delle tasse di effetto equivalente a cui esso intende procedere a norma delle disposizioni dell'articolo 3, paragrafo 2, della Convenzione.
 
@@ -977,7 +975,7 @@ Tale comunicazione e' corredata d'informazioni di natura economica e finanziaria
 
 In caso di urgenza giustificata, tali misure possono essere applicate temporaneamente anche prima della consultazione, sempreche' il Consiglio di Associazione ne sia informato simultaneamente.
 
-##### Articolo 4
+#### Articolo 4
 
 1\. Ai fini della riscossione dei dazi doganali e delle tasse di effetto equivalente, mantenuti o introdotti conformemente all'articolo 3, paragrafo 2, della Convenzione, il valore in dogana da prendere in considerazione e' costituito dal valore effettivo della merce, nel luogo e al momento dell'introduzione nel territorio doganale, per la compravendita effettuata in condizioni di piena concorrenza fra un acquirente e un venditore indipendenti.
 
@@ -991,11 +989,11 @@ Le Alte Parti contraenti,
 
 Hanno convenuto le seguenti disposizioni che sono allegate alla Convenzione:
 
-##### Articolo 1
+#### Articolo 1
 
 Le necessita' di sviluppo di cui al paragrafo 2 dell'articolo 7 della Convenzione sono quelle riprese nell'articolo 1 del Protocollo n. 2.
 
-##### Articolo 2
+#### Articolo 2
 
 1\. Le restrizioni quantitative e le misure di effetto equivalente esistenti al momento dell'entrata in vigore della Convenzione e mantenute dagli Stati associati ai sensi del paragrafo 2 dell'articolo 7 di detta Convenzione, sono comunicate al Consiglio di Associazione, il piu' tardi tre mesi dopo l'entrata in vigore della Convenzione, unitamente ai chiarimenti necessari per valutare la necessita' del loro mantenimento.
 
@@ -1009,17 +1007,17 @@ In caso di urgenza debitamente giustificata e particolarmente per quanto riguard
 
 3\. Il Consiglio di Associazione procede alle consultazioni di cui ai precedenti paragrafi nel termine massimo di due mesi a decorrere dalla data della comunicazione. Se le consultazioni non hanno luogo entro questo termine lo Stato associato puo' mantenere o adottare le misure in questione.
 
-##### Articolo 3
+#### Articolo 3
 
 Le misure previste all'articolo 2 sono applicate a condizione che lo Stato associato interessato mantenga le possibilita' d'importazione senza discriminazione dei prodotti originari della Comunita'.
 
 Tali misure devono essere progressivamente mitigate sino a cessare del tutto, nella misura del possibile, al termine di un periodo da determinare caso per caso.
 
-##### Articolo 4
+#### Articolo 4
 
 Quando lo smercio di un prodotto determinato incontra difficolta' sul mercato interno di uno Stato associato, tale Stato puo', in deroga all'articolo 3 e previa consultazione in seno al Consiglio di Associazione, sospendere le importazioni di tale prodotto per una durata limitata, da determinare caso per caso, purche' esso dimostri l'esistenza di tale difficolta' e fornisca tutti i chiarimenti necessari per valutare la necessita' di vietare le importazioni.
 
-##### Prtotocollo n. 4
+#### Prtotocollo n. 4
 
 PROTOCOLLO N. 4
 
@@ -1031,7 +1029,7 @@ Hanno convenuto le seguenti disposizioni che sono allegate alla Convenzione:
 
 Le disposizioni della Convenzione e in particolare l'articolo 3 non si oppongono all'istituzione di un sistema generale di preferenze, ne' ostano a che gli Stati associati vi partecipino.
 
-##### Prtotocollo n. 5
+#### Prtotocollo n. 5
 
 PROTOCOLLO N. 5
 
@@ -1047,7 +1045,7 @@ Hanno convenuto le seguenti disposizioni che sono allegate alla Convenzione:
 
 3\. Tali consultazioni servono in particolare a intraprendere di comune accordo sul piano internazionale le azioni appropriate per risolvere i problemi posti dallo smercio e dalla commercializzazione dei prodotti tropicali.
 
-## CAPITOLO I - Natura delle operazioni
+### CAPITOLO I - Natura delle operazioni
 
 PROTOCOLLO N. 6 relativo alla gestione degli aiuti della Comunita'
 
@@ -1055,7 +1053,7 @@ Le Alte Parti contraenti,
 
 Hanno convenuto le seguenti disposizioni che sono allegate alla Convenzione:
 
-##### Articolo 1
+#### Articolo 1
 
 Gli investimenti previsti all'articolo 19 della Convenzione comprendono:
 
@@ -1067,7 +1065,7 @@ Tali azioni di sviluppo possono comprendere alcune ricerche applicate, nel quadr
 
 c) investimenti d'infrastruttura economica e sociale, ivi inclusa l'infrastruttura per agevolare l'insediamento delle industrie e dell'artigianato.
 
-##### Articolo 2
+#### Articolo 2
 
 La cooperazione tecnica connessa agli investimenti, prevista all'articolo 19 della Convenzione, comprende in particolare:
 
@@ -1083,7 +1081,7 @@ e) l'aiuto temporaneo per l'istituzione, l'avviamento e la gestione di un determ
 
 f) l'assunzione a carico temporanea dei tecnici e la fornitura dei beni di consumo necessari alla buona esecuzione di un progetto di investimento.
 
-##### Articolo 3
+#### Articolo 3
 
 La cooperazione tecnica generale prevista all'articolo 19 della Convenzione comprende in particolare:
 
@@ -1103,7 +1101,7 @@ g) studi riguardanti le prospettive ed i mezzi di sviluppo e di diversificazione
 
 h) l'informazione generale e la documentazione destinate a favorire lo sviluppo economico e sociale degli Stati associati, lo sviluppo degli scambi fra tali Stati e la Comunita', nonche' la buona realizzazione degli obiettivi della cooperazione finanziaria e tecnica.
 
-##### Articolo 4
+#### Articolo 4
 
 Gli aiuti alla commercializzazione e alla promozione delle vendite, previsti all'articolo 19 della Convenzione, hanno lo scopo di:
 
@@ -1117,9 +1115,9 @@ d) procedere a studi ed indagini di mercato e favorire il loro sfruttamento;
 
 e) migliorare l'informazione nella Comunita' e negli Stati associati per lo sviluppo degli scambi commerciali.
 
-## CAPITOLO II - Modalita' di finanziamento
+### CAPITOLO II - Modalita' di finanziamento
 
-##### Articolo 5
+#### Articolo 5
 
 1\. I progetti e i programmi sono finanziati mediante aiuti non rimborsabili, prestiti a condizioni speciali, prestiti della Banca con eventuale abbuono d'interessi, o mediante diversi di questi mezzi contemporaneamente.
 
@@ -1127,13 +1125,13 @@ Inoltre, per i loro investimenti, le imprese che esercitano la loro attivita' se
 
 2\. Tuttavia, le azioni di cooperazione tecnica previste agli articoli 2, 3 e 4 del presente Protocollo e gli aiuti previsti all'articolo 20 della Convenzione sono finanziati mediante aiuti non rimborsabili.
 
-##### Articolo 6
+#### Articolo 6
 
 I prestiti per il finanziamento di progetti d'investimenti economici sono concessi direttamente al beneficiario o eventualmente tramite lo Stato interessato, oppure tramite un organismo nazionale o multinazionale di finanziamento dello sviluppo che assume il ruolo di intermediario finanziario.
 
 Le condizioni e le modalita' di concessione da parte del mutuatario intermedio di questi prestiti al beneficiario finale sono adottate contemporaneamente e di comune accordo tra il mutuatario intermedio e le istituzioni comunitarie competenti per la concessione del prestito.
 
-##### Articolo 7
+#### Articolo 7
 
 1\. I prestiti a condizioni speciali servono a finanziare in tutto o in parte progetti di investimento di interesse generale per l'economia dello Stato associato sul cui territorio essi sono realizzati, nella misura in cui la redditivita' finanziaria dei progetti e la capacita' di indebitamento dello Stato associato interessato permettono tale finanziamento.
 
@@ -1141,7 +1139,7 @@ Le condizioni e le modalita' di concessione da parte del mutuatario intermedio d
 
 3\. La Comunita' stabilisce le modalita' per la concessione dei prestiti nonche' le modalita' d'esecuzione e di recupero degli stessi.
 
-##### Articolo 8
+#### Articolo 8
 
 1\. L'esame da parte della Banca dell'ammissibilita' dei progetti e la concessione di prestiti sulle proprie risorse hanno luogo secondo le modalita', condizioni e procedure previste dallo statuto della Banca e tenendo conto delle capacita' di indebitamento dello Stato interessato.
 
@@ -1151,19 +1149,19 @@ Le condizioni e le modalita' di concessione da parte del mutuatario intermedio d
 
 4\. L'importo globale degli abbuoni di interessi, attualizzato al suo valore al momento della firma del prestito, a un saggio e secondo le modalita' che la Comunita' deve fissare, e' versato direttamente alla Banca.
 
-##### Articolo 9
+#### Articolo 9
 
 Per favorire la realizzazione di progetti d'interesse generale per l'economia dello Stato associato sul cui territorio tali progetti vengono realizzati, la Comunita' puo' contribuire alla formazione di capitali a rischio, a favore dei beneficiari di cui all'articolo 25 della Convenzione, potenziandone i fondi con partecipazioni o altri mezzi appropriati.
 
 Tali contributi hanno carattere minoritario. Essi possono essere erogati congiuntamente con un prestito della Banca o eccezionalmente con un prestito a condizioni speciali.
 
-##### Articolo 10
+#### Articolo 10
 
 Le domande relative all'aiuto di cui all'articolo 20 della Convenzione, presentate alla Comunita', sono corredate dei dati economici e finanziari utili per valutare le conseguenze risultanti per l'economia dello Stato interessato dalle difficolta' particolari e straordinarie che possono motivare la concessione dell'aiuto eccezionale della Comunita'.
 
 In particolare, quando le difficolta' derivano da un crollo dei prezzi mondiali, l'aiuto chiesto e' concesso tenendo conto dell'importanza che il prodotto o i prodotti in questione hanno per l'economia dello Stato interessato, nonche' della situazione economica di detto Stato.
 
-##### Articolo 11
+#### Articolo 11
 
 1\. Le domande di anticipazioni di cui all'articolo 21 della Convenzione sono presentate dagli organismi nazionali o interstatali che si propongono di rimediare alle conseguenze delle fluttuazioni dei corsi dei prodotti, oppure dalle associazioni di produttori, con l'accordo dello Stato associato o degli Stati associati interessati.
 
@@ -1171,9 +1169,9 @@ In particolare, quando le difficolta' derivano da un crollo dei prezzi mondiali,
 
 3\. Il rimborso delle anticipazioni e il pagamento di eventuali indennita' di mora sono garantiti dallo Stato associato o dagli Stati associati interessati.
 
-## CAPITOLO III - Utilizzazione degli aiuti
+### CAPITOLO III - Utilizzazione degli aiuti
 
-##### Articolo 12
+#### Articolo 12
 
 1\. I fascicoli di cui all'articolo 22, paragrafo 2, della Convenzione sono presentati alla Comunita' indirizzandoli alla Commissione.
 
@@ -1181,35 +1179,35 @@ Tuttavia, sono presentati alla Banca i progetti per i quali e' richiesto un pres
 
 2\. Il modo di finanziamento previsto nella domanda non pregiudica le modalita' di finanziamento che saranno adottate dalla Comunita'.
 
-##### Articolo 13
+#### Articolo 13
 
 1\. Gli aiuti finanziari possono essere utilizzati a copertura di spese per importazioni, nonche' spese locali necessarie alla realizzazione dei progetti di investimento approvati.
 
 2\. Essi non possono essere utilizzati a copertura delle spese correnti di amministrazione, manutenzione e funzionamento.
 
-##### Articolo 14
+#### Articolo 14
 
 Le disposizioni relative ai monopoli e le restrizioni quantitative mantenute o introdotte in applicazione dell'articolo 7 della Convenzione e del Protocollo n. 3 non si applicano alle importazioni in uno Stato associato quando dette importazioni sono finanziate mediante aiuti comunitari.
 
-##### Articolo 15
+#### Articolo 15
 
 La Comunita' e gli Stati associati collaborano a tutte le misure volte ad assicurare che gli importi concessi dalla Comunita' siano utilizzati conformemente alle disposizioni di cui agli articoli 26 e 28 della Convenzione.
 
-##### Articolo 16
+#### Articolo 16
 
 Le clausole e le condizioni generali applicabili all'aggiudicazione e all'esecuzione degli appalti pubblici finanziati dal Fondo sono stabilite in una regolamentazione comune che, su proposta della Commissione, e' adottata con decisione del Consiglio di Associazione nella prima sessione dopo l'entrata in vigore della Convenzione.
 
-##### Articolo 17
+#### Articolo 17
 
 1\. Le autorita' competenti degli Stati associati sono responsabili dell'esecuzione dei progetti presentati dal loro governo e finanziati dalla Comunita'. Inoltre, gli organismi regionali o interstatali e le imprese sono responsabili, per quanto li riguarda, dell'esecuzione dei progetti da essi presentati.
 
 2\. I governi degli Stati associati e, se del caso, gli istituti o altri organismi specializzati degli Stati membri o degli Stati associati, sono responsabili dell'esecuzione delle azioni di cooperazione tecnica presentate dai governi.
 
-##### Articolo 18
+#### Articolo 18
 
 Le spese finanziarie ed amministrative per la gestione del Fondo e le spese inerenti al controllo dei progetti e' dei programmi sono imputate ai fondi destinati agli aiuti non rimborsabili.
 
-##### Articolo 19
+#### Articolo 19
 
 Un rappresentante della Banca assiste alle riunioni del Consiglio o del Comitato di Associazione quando all'ordine del giorno figurano punti inerenti ai settori che riguardano la Banca stessa.
 
@@ -1219,17 +1217,17 @@ Le Alte Parti contraenti,
 
 Hanno convenuto le disposizioni seguenti che sono allegate alla Convenzione:
 
-##### Articolo 1
+#### Articolo 1
 
 Il valore dell'unita' di conto utilizzato per esprimere importi nella Convenzione di Associazione o nelle disposizioni prese in applicazione della stessa e' di 0,88867088 grammi d'oro fino.
 
-##### Articolo 2
+#### Articolo 2
 
 La parita' della moneta di uno Stato membro rispetto all'unita' di conto definita all'articolo 1 e' il rapporto tra il peso d'oro fino contenuto in questa unita' di conto e il peso d'oro fino corrispondente alla parita' di tale moneta dichiarata al Fondo monetario internazionale.
 
 In mancanza di parita' dichiarata o qualora nei pagamenti correnti si applichino corsi che si discostano dalla parita' di un margine superiore a quello autorizzato dal Fondo monetario, il peso d'oro fino corrispondente alla parita' della moneta sara' calcolato in base al tasso di cambio applicato, per i pagamenti correnti nello Stato membro alla data del calcolo, ad una moneta definita direttamente o indirettamente e convertibile in oro e in base alla parita' di tale moneta convertibile dichiarata al Fondo monetario.
 
-##### Articolo 3
+#### Articolo 3
 
 L'unita' di conto definita all'articolo 1 restera' immutata durante tutto il periodo di esecuzione della Convenzione. Tuttavia, qualora prima della data di scadenza di quest'ultima intervenga una modifica uniformemente proporzionale della parita' di tutte le monete rispetto all'oro decisa dal Fondo monetario internazionale, in applicazione dell'articolo 4, sezione 7 degli statuti dello stesso, il peso d'oro fino dell'unita' di conto variera' in funzione inversa alla suddetta modifica.
 
@@ -1241,43 +1239,43 @@ Le Alte Parti contraenti,
 
 Hanno convenuto le seguenti disposizioni che sono allegate alla Convenzione:
 
-##### Articolo 1
+#### Articolo 1
 
 La Corte, istituita dall'articolo 41 della Convenzione, e' costituita ed esercita le proprie funzioni conformemente alle disposizioni della Convenzione e del presente statuto.
 
-## CAPITOLO I - Dei membri della Corte
+### CAPITOLO I - Dei membri della Corte
 
-##### Articolo 2
+#### Articolo 2
 
 I giudici e i giudici supplenti sono nominati per la durata della Convenzione. In caso di morte o di dimissioni di un giudice o di un giudice supplente, il Presidente della Corte ne informa il Consiglio di Associazione che procede senza indugio alla nomina del nuovo giudice o giudice supplente su proposta, a seconda dei casi, del Consiglio delle Comunita' europee o degli Stati associati.
 
 In caso di dimissioni, i giudici ed i giudici supplenti rimangono in carica fino alla nomina del successore.
 
-##### Articolo 3
+#### Articolo 3
 
 I membri titolari o supplenti della Corte prestano giuramento di esercitare le loro funzioni con imparzialita' e secondo coscienza e di mantenere il segreto sulle deliberazioni. Il giuramento e' prestato, nelle forme stabilite dalle rispettive leggi nazionali, nella prima udienza pubblica successiva alla nomina.
 
-##### Articolo 4
+#### Articolo 4
 
 Il Presidente della Corte e' nominato per la durata della Convenzione. In caso di morte o dimissioni del Presidente, la Corte ne informa il Consiglio di Associazione che procede senza indugio alla nomina di un nuovo Presidente.
 
 In caso di dimissioni, il Presidente rimane in carica fino alla nomina del successore.
 
-##### Articolo 5
+#### Articolo 5
 
 Qualora, per un motivo particolare, uno dei membri della Corte reputi di non dover intervenire nella decisione di una causa determinata, ne informa la Corte che delibera in materia.
 
 Qualora il Presidente reputi che un giudice della Corte non debba, per un motivo particolare, intervenire nella decisione di una causa determinata, interpella in proposito la Corte che delibera in materia.
 
-##### Articolo 6
+#### Articolo 6
 
 In caso d'impedimento di un giudice questi e' sostituito a titolo temporaneo dal supplente, alle condizioni in cui all'articolo 11, terzo comma; qualora anche quest'ultimo sia impedito, la sostituzione e' garantita alle stesse condizioni dal supplente dell'altro giudice, nominato su proposta delle stesse autorita'.
 
-##### Articolo 7
+#### Articolo 7
 
 In caso di impedimento del Presidente per motivi diversi dal decesso, il Consiglio di Associazione puo' designare una persona destinata a sostituirlo provvisoriamente nelle sue funzioni, in tutto o in parte.
 
-##### Articolo 8
+#### Articolo 8
 
 I membri della Corte godono dei privilegi, della immunita' e delle facilitazioni normalmente riconosciuti ai membri delle giurisdizioni internazionali e dai tribunali arbitrali internazionali, affinche' la Corte medesima possa assolvere nel migliore dei modi ai propri compiti.
 
@@ -1285,19 +1283,19 @@ In virtu' di quanto sopra, essi non possono in particolare venir perseguiti o ri
 
 Le immunita' di cui al presente articolo, eccezion fatta per quella predisposta in favore degli atti di cui al comma precedente, possono essere revocate dalla Corte.
 
-## CAPITOLO II - Dell'organizzazione e dei servizi della Corte
+### CAPITOLO II - Dell'organizzazione e dei servizi della Corte
 
-##### Articolo 9
+#### Articolo 9
 
 La Corte siede nello stesso luogo della Corte di Giustizia delle Comunita' europee.
 
-##### Articolo 10
+#### Articolo 10
 
 Il funzionamento dei servizi della Corte, ed in particolare della cancelleria, e' assicurato dai servizi della Corte di Giustizia delle comunita' europee.
 
-## CAPITOLO III - Del funzionamento della Corte
+### CAPITOLO III - Del funzionamento della Corte
 
-##### Articolo 11
+#### Articolo 11
 
 La Corte si riunisce secondo le proprie esigenze di funzionamento, su convocazione del Presidente.
 
@@ -1305,13 +1303,13 @@ La Corte siede e delibera validamente solo se composta dal Presidente e da quatt
 
 Il giudice supplente che sia intervenuto nella trattazione di una causa, partecipa alle sedute relative a tale causa fino alla sua conclusione.
 
-##### Articolo 12
+#### Articolo 12
 
 Le parti sono rappresentate da uno o piu' agenti all'uopo nominati.
 
 L'agente puo' essere assistito da un avvocato iscritto ad un albo professionale di uno Stato membro o di uno Stato associato o da un professore cittadino di uno Stato membro o di uno Stato associato la cui legislazione gli riconosca il diritto di patrocinare.
 
-##### Articolo 13
+#### Articolo 13
 
 Gli agenti, gli avvocati e i consulenti godono dinanzi alla Corte, per la durata delle loro missioni e degli spostamenti necessari al loro adempimento, dei privilegi e delle immunita' di rito.
 
@@ -1319,11 +1317,11 @@ Essi godono in specie dell'immunita' per le parole pronunziate e gli scritti pro
 
 La Corte puo' togliere i privilegi e le immunita' di cui al primo comma, quando ritenga che cio' non pregiudichi l'interesse della causa.
 
-##### Articolo 14
+#### Articolo 14
 
 Il procedimento e' contraddittorio; le relative modalita' sono stabilite dal presente statuto e dal regolamento di procedura della Corte.
 
-##### Articolo 15
+#### Articolo 15
 
 La Corte e' adita mediante istanza a cui la parte convenuta deve essere posta in grado di rispondere nel termine impartito dal Presidente.
 
@@ -1337,7 +1335,7 @@ le conclusioni della parte ricorrente;
 
 l'esposizione sommaria dei motivi invocati.
 
-##### Articolo 16
+#### Articolo 16
 
 La cancelleria trasmette copia dell'istanza al Consiglio di Associazione che la comunica agli Stati membri, alla Comunita' e agli Stati associati, i quali possono, prima della fine della fase scritta di cui al regolamento di procedura, depositare presso la Corte le loro osservazioni scritte, senza che peraltro essi divengano parti nella vertenza.
 
@@ -1345,11 +1343,11 @@ Qualora, a norma del presente statuto, si debba iniziare una procedura orale, gl
 
 La stessa disposizione si applica alla Comunita'.
 
-##### Articolo 17
+#### Articolo 17
 
 Le deliberazioni della Corte sono e restano segrete.
 
-##### Articolo 18
+#### Articolo 18
 
 Le sentenze arbitrali della Corte sono motivate e in esse e' fatta menzione dei nomi dei giudici che hanno partecipato alla deliberazione.
 
@@ -1357,11 +1355,11 @@ Esse vengono lette in udienza pubblica.
 
 La Corte decide sulle spese ex equo et bono.
 
-##### Articolo 19
+#### Articolo 19
 
 Dinanzi alla Corte possono essere usate le quattro lingue di cui all'articolo 66 della Convenzione, sia nelle comparse, sia nella procedura orale. Spetta alla cancelleria provvedere alla traduzione degli atti di procedura e delle deduzioni orali qualora essa sia chiesta da una delle parti o da uno Stato membro o da uno Stato associato che si sia valso delle disposizioni dell'articolo 16.
 
-##### Articolo 20
+#### Articolo 20
 
 La Corte puo' assumere o far assumere mezzi istruttori.
 
@@ -1369,25 +1367,25 @@ I testimoni regolarmente citati sono tenuti ad ottemperare alla citazione ed a p
 
 La Corte puo' denunciare alle autorita' nazionali la falsa testimonianza, la mancata comparizione dei testimoni ovvero la loro subornazione.
 
-##### Articolo 21
+#### Articolo 21
 
 La Corte puo' chiedere alle parti di produrre tutti i documenti e di fornire tutte le informazioni che essa ritiene necessarie.
 
 La Corte puo' del pari chiedere al Consiglio di Associazione, alla Comunita', agli Stati membri ed agli Stati associati che non siano parte in causa, tutte le informazioni necessarie alla soluzione della controversia.
 
-##### Articolo 22
+#### Articolo 22
 
 Qualora la Corte decida, su richiesta di una delle parti, oppure d'ufficio, di far ricorso a mezzi istruttori straordinari, ordina alle parti, o ad una delle parti, di versare su un conto speciale l'importo dell'anticipo che ritiene necessario per far fronte a tali mezzi istruttori.
 
 La Corte, nel deliberare sulle spese, decide dell'imputazione di tale somma.
 
-##### Articolo 23
+#### Articolo 23
 
 Sono considerate ripetibili le spese sostenute dalle parti e necessarie al patrocinio dei loro diritti, in specie le spese di viaggio e soggiorno ed il compenso all'agente o all'avvocato che rappresenta od assiste le parti dinanzi alla Corte, nonche' le spese per i mezzi istruttori straordinari ai sensi dell'articolo 22.
 
-## CAPITOLO IV - Delle spese di funzionamento della Corte
+### CAPITOLO IV - Delle spese di funzionamento della Corte
 
-##### Articolo 24
+#### Articolo 24
 
 Alle spese di viaggio e soggiorno dei membri della Corte, previste al secondo comma dell'articolo 3 del Protocollo n. 10, si provvede mediante anticipi della Corte di Giustizia delle Comunita' europee.
 
@@ -1395,7 +1393,7 @@ Il Presidente della Corte arbitrale, alla fine di ogni anno, trasmette al Consig
 
 La distinta e' approvata dal Consiglio di Associazione che ne ordina il rimborso nel termine di due mesi a decorrere dalla decisione. Il pagamento e' per meta' a carico della Comunita', e, per l'altra meta', viene ripartito tra gli Stati associati.
 
-## CAPITOLO I - Persone che partecipano ai lavori inerenti all'Associazione
+### CAPITOLO I - Persone che partecipano ai lavori inerenti all'Associazione
 
 PROTOCOLLO N. 9 sui privilegi e sulle immunita'
 
@@ -1411,25 +1409,25 @@ Considerando che il Protocollo relativo alle misure da adottare per l'applicazio
 
 Hanno convenuto le seguenti disposizioni che sono allegate alla Convenzione:
 
-##### Articolo 1
+#### Articolo 1
 
 I rappresentanti dei Governi degli Stati membri e degli Stati associati ed i rappresentanti delle Istituzioni delle Comunita' europee nonche' i loro consiglieri ed esperti e i membri del personale del Segretariato di coordinamento che partecipano nel territorio degli Stati membri o degli Stati associati ai lavori delle Istituzioni dell'Associazione o degli organi di coordinamento, oppure a lavori inerenti all'applicazione della Convenzione, godono nel territorio stesso durante l'esercizio delle loro funzioni e durante i loro viaggi a destinazione o in provenienza dal luogo della missione, dei privilegi, delle immunita' o delle agevolazioni d'uso.
 
 Le disposizioni del comma precedente si applicano altresi' ai membri della Conferenza parlamentare dell'Associazione, ai membri della Corte arbitrale dell'Associazione e ai funzionari e agenti di queste, nonche' ai membri degli organi della Banca Europea per gli Investimenti e al personale di questa.
 
-## CAPITOLO II - Beni, fondi e averi del Consiglio di coordinamento
+### CAPITOLO II - Beni, fondi e averi del Consiglio di coordinamento
 
-##### Articolo 2
+#### Articolo 2
 
 I locali e gli edifici utilizzati a fini ufficiali dal Consiglio di coordinamento sono inviolabili. Essi sono esenti da perquisizioni, requisizioni, confisca o espropriazione.
 
 Salvo nella misura necessaria alle inchieste alle quali un incidente causato da un autoveicolo appartenente al Consiglio di coordinamento o circolante per conto di quest'ultimo puo' dar luogo in caso di infrazione alle norme che regolano la circolazione stradale o di incidenti causati da tale veicolo, i beni e gli averi del Consiglio di coordinamento non possono essere oggetto di alcun provvedimento di coercizione amministrativa o giudiziaria senza autorizzazione della Corte arbitrale dell'Associazione.
 
-##### Articolo 3
+#### Articolo 3
 
 Gli archivi del Consiglio di coordinamento sono inviolabili.
 
-##### Articolo 4
+#### Articolo 4
 
 Il Consiglio di coordinamento, i suoi averi, entrate ed altri beni sono esenti da qualsiasi imposta diretta.
 
@@ -1437,41 +1435,41 @@ Ove il Consiglio di coordinamento effettui acquisti considerevoli di beni immobi
 
 Nessuna esenzione e' concessa per le imposte, tasse, diritti e canoni che costituiscono mera rimunerazione di servizi prestati.
 
-##### Articolo 5
+#### Articolo 5
 
 Il Consiglio di coordinamento e' esente da qualsiasi dazio doganale, divieto o restrizioni all'importazione e all'esportazione, in ordine agli oggetti destinati al suo uso ufficiale; gli oggetti cosi' importati non possono essere venduti ne' ceduti a titolo oneroso o gratuito nel territorio del paese in cui sono stati importati, salvo che cio' avvenga a condizioni approvate dal Governo di tale paese.
 
-## CAPITOLO III - Comunicazioni ufficiali
+### CAPITOLO III - Comunicazioni ufficiali
 
-##### Articolo 6
+#### Articolo 6
 
 Per le loro comunicazioni ufficiali e la trasmissione di tutti i loro documenti, la Comunita' economica europea, le Istituzioni dell'Associazione e gli organi di coordinamento godono nel territorio degli Stati firmatari del trattamento concesso alle organizzazioni internazionali.
 
 La corrispondenza ufficiale e le altre comunicazioni ufficiali della Comunita' economica europea, delle Istituzioni dell'Associazione e degli organi di coordinamento non possono essere censurate.
 
-## CAPITOLO IV - Personale del Segretariato di coordinamento
+### CAPITOLO IV - Personale del Segretariato di coordinamento
 
-##### Articolo 7
+#### Articolo 7
 
 Il Segretario e il Segretario aggiunto del Consiglio di coordinamento beneficiano, nello Stato che ospita la sede del Consiglio di coordinamento, sotto responsabilita' del Presidente in carica del Comitato di coordinamento, dei vantaggi riconosciuti ai membri del personale diplomatico delle missioni diplomatiche. Il coniuge e i figli minorenni conviventi beneficiano, alle stesse condizioni, dei vantaggi riconosciuti al coniuge e ai figli minorenni dei membri del personale diplomatico.
 
-##### Articolo 8
+#### Articolo 8
 
 Lo Stato che ospita la sede del Consiglio di coordinamento riconosce agli agenti permanenti del Segretariato di coordinamento diversi da quelli indicati all'articolo 7 l'immunita' di giurisdizione solamente per gli atti da essi compiuti in veste ufficiale e nei limiti delle loro attribuzioni. Sono esclusi dall'immunita' i casi di infrazione alle norme che regolano la circolazione degli autoveicoli da parte di un agente permanente del personale del Segretariato di coordinamento o di danni causati da un autoveicolo di sua proprieta' o da lui guidato.
 
-##### Articolo 9
+#### Articolo 9
 
 I nomi, le qualifiche e gli indirizzi del Presidente in carica del Comitato di coordinamento, del Segretario e del Segretario aggiunto del Consiglio di coordinamento, nonche' degli agenti permanenti del personale del Segretariato di coordinamento sono comunicati periodicamente, a cura del Presidente del Consiglio di coordinamento, al Governo dello Stato che ospita la sede del Consiglio di coordinamento.
 
-## CAPITOLO V - Disposizioni generali
+### CAPITOLO V - Disposizioni generali
 
-##### Articolo 10
+#### Articolo 10
 
 I privilegi, le immunita' e le agevolazioni previste dal presente Protocollo sono concessi ai beneficiari esclusivamente nell'interesse delle loro funzioni ufficiali.
 
 Le Istituzioni e gli organi di cui al presente Protocollo hanno l'obbligo di rinunciare all'immunita' ogniqualvolta reputino che cio' non sia contrario ai loro interessi.
 
-##### Articolo 11
+#### Articolo 11
 
 Le disposizioni dell'articolo 53 della Convenzione sono applicabili alle vertenze relative al presente Protocollo.
 
@@ -1485,13 +1483,13 @@ Le Alte Parti contraenti,
 
 Hanno convenuto le seguenti disposizioni che sono allegate alla Convenzione:
 
-##### Articolo 1
+#### Articolo 1
 
 Gli Stati membri e la Comunita', da un lato, gli Stati associati, dall'altro, assumono l'onere delle spese sostenute per partecipare alle sessioni del Consiglio di Associazione e degli organi che ne dipendono, per quanto riguarda sia le spese di personale, di viaggio e di soggiorno, sia le spese postali e di telecomunicazioni.
 
 Le spese d'interpretazione durante le sedute e di traduzione e riproduzione dei documenti e le spese per l'organizzazione materiale delle riunioni (locali, forniture, uscieri, ecc.) sono sostenute dalla Comunita' o dagli Stati associati, secondo che le riunioni abbiano luogo sul territorio di uno Stato membro o di uno Stato associato.
 
-##### Articolo 2
+#### Articolo 2
 
 La Comunita' e gli Stati associati assumono l'onere, ciascuno per quanto lo riguarda, delle spese di viaggio e di soggiorno dei loro partecipanti alle riunioni della Conferenza parlamentare dell'Associazione e della Commissione paritetica.
 
@@ -1499,7 +1497,7 @@ Alle stesse condizioni, assumono l'onere delle spese di viaggio e di soggiorno d
 
 Le spese d'interpretariato durante le sedute e di traduzione e riproduzione dei documenti e le spese per l'organizzazione materiale delle riunioni (locali, forniture e uscieri, ecc.) sono sostenute dalla Comunita' o dagli Stati associati, secondo che le riunioni abbiano luogo sul territorio di uno Stato membro o di uno Stato associato.
 
-##### Articolo 3
+#### Articolo 3
 
 I membri della Corte arbitrale hanno diritto al rimborso delle loro spese di viaggio e delle loro spese di soggiorno. Queste ultime sono stabilite in 20 unita' di conto per ogni giorno in cui i membri della Corte arbitrale esercitano le loro funzioni. Tali somme sono pagate loro dalla Corte arbitrale.
 
@@ -1577,7 +1575,7 @@ A. LAMANA
 
 P. EKLOU
 
-##### art. 1
+#### art. 1
 
 ACCORDO RELATIVO AI PRODOTTI DI COMPETENZA
 
@@ -1805,29 +1803,29 @@ Articolo 1
 
 Fatte salve le misure che potrebbero essere adottate in applicazione del Capitolo X del Trattato che istituisce la Comunita' europea del carbone e dell'acciaio, i prodotti di competenza di detta Comunita' sono ammessi all'importazione nella Comunita', quando sono originari degli Stati associati, in esenzione dai dazi doganali e dalle tasse di effetto equivalente a tali dazi senza che il trattamento riservato a tali prodotti possa essere piu' favorevole di quello che gli Stati membri si accordano tra loro.
 
-##### Articolo 2
+#### Articolo 2
 
 Fatta salva l'applicazione delle disposizioni dell'articolo 63 della Convenzione di Associazione, i prodotti summenzionati originari degli Stati membri sono ammessi all'importazione negli Stati associati in esenzione dai dazi doganali e dalle tasse di effetto equivalente a tali dazi nonche' dalle restrizioni quantitative e dalle misure di effetto equivalente, a condizioni analoghe a quelle che sono previste al Capitolo I del Titolo I e all'articolo 16, paragrafo 1, della Convenzione di Associazione nonche' ai Protocolli n. 2 e 3 ad essa allegati.
 
-##### Articolo 3
+#### Articolo 3
 
 Tra le parti interessate si hanno consultazioni tutte le volte che, secondo il parere di una di dette parti, l'applicazione delle disposizioni summenzionate lo richieda.
 
-##### Articolo 4
+#### Articolo 4
 
 Il presente Accordo non modifica i poteri e le competenze derivanti dalle disposizioni del Trattato che istituisce la Comunita' europea del carbone e dell'acciaio.
 
-##### Articolo 5
+#### Articolo 5
 
 Il presente Accordo e' approvato da ogni Stato firmatario conformemente alle proprie norme costituzionali.
 
 Il Governo di ogni Stato notifica al Segretariato del Consiglio delle Comunita' europee l'adempimento delle procedure richieste per l'entrata in vigore del presente Accordo. L'Accordo entra in vigore alla stessa data della Convenzione di Associazione.
 
-##### Articolo 6
+#### Articolo 6
 
 Il presente Accordo e' concluso per una durata di cinque anni a decorrere dalla sua entrata in vigore e scadra' al piu' tardi il 31 gennaio 1975. Esso non avra' piu' nessun effetto nei confronti di ogni Stato firmatario che, a norma dell'articolo 64 della Convenzione di Associazione, cessa di fare parte di quest'ultima.
 
-##### Articolo 7
+#### Articolo 7
 
 Il presente Accordo, redatto in unico esemplare in lingua tedesca, francese, italiana e olandese, i quattro testi facenti tutti ugualmente fede, sara' depositato negli archivi del Segretariato del Consiglio delle Comunita' europee che provvedera' a rimetterne copia certificata conforme a ciascuno dei Governi degli Stati firmatari.
 
@@ -1945,7 +1943,7 @@ Pour le President de la Republique Togolaise,
 
 Paulin EKLOU
 
-##### Atto finale
+#### Atto finale
 
 ATTO FINALE
 
@@ -2191,7 +2189,7 @@ Pour le President de la Republique Togolaise,
 
 Paulin EKLOU
 
-##### Allegato I
+#### Allegato I
 
 ALLEGATO I
 
@@ -2205,7 +2203,7 @@ Consapevoli dell'utilita' che un testo unico contenente tutte queste disposizion
 
 Convengono di incaricare la Commissione delle Comunita' europee di preparare prontamente un progetto di testo unico affinche' esso sia esaminato al piu' presto possibile dopo l'entrata in vigore della Convenzione suddetta.
 
-##### Allegato II
+#### Allegato II
 
 ALLEGATO II
 
@@ -2215,7 +2213,7 @@ Per i prodotti petroliferi la Comunita' si riserva di modificare il regime previ
 
 In questo caso la Comunita' concede alle importazioni di tali prodotti originari degli Stati associati vantaggi comparabili a quelli previsti nella Convenzione suddetta.
 
-##### Allegato III
+#### Allegato III
 
 ALLEGATO III
 
@@ -2223,7 +2221,7 @@ Dichiarazione dei rappresentanti dei Governi degli Stati membri e dei rappresent
 
 Fino all'entrata in vigore della decisione prevista all'articolo 27 della Convenzione di Associazione, il regime vigente in ciascuno Stato associato alla data del 31 maggio 1969 continua ad essere applicato.
 
-##### Allegato IV
+#### Allegato IV
 
 ALLEGATO IV
 
@@ -2231,7 +2229,7 @@ Dichiarazione dei rappresentanti dei Governi degli Stati membri e dei rappresent
 
 I rappresentanti dei Governi degli Stati membri ed i rappresentanti dei Governi degli Stati associati rinnovano, ove occorra e quando esse si riferiscono all'applicazione di disposizioni riprese nella nuova Convenzione le risoluzioni adottate dal Consiglio di Associazione in base all'articolo 27 della Convenzione di Associazione firmata a Yaounde' il 20 luglio 1963 per la definizione dell'orientamento generale della cooperazione finanziaria e tecnica.
 
-##### Allegato V
+#### Allegato V
 
 ALLEGATO V
 
@@ -2239,7 +2237,7 @@ Dichiarazione dei rappresentanti dei Governi degli Stati membri e dei rappresent
 
 I Governi degli Stati membri e i Governi degli Stati associati si sforzeranno di procedere, entro i limiti delle loro competenze in materia, alla liberalizzazione dei pagamenti di cui all'articolo 37 della Convenzione di Associazione oltre a quanto previsto dall'articolo stesso nella misura in cui cio' sia ad essi consentito dalla loro situazione economica generale e, in particolare, della situazione della loro bilancia dei pagamenti.
 
-##### Allegato VI
+#### Allegato VI
 
 ALLEGATO VI
 
@@ -2247,7 +2245,7 @@ Dichiarazione dei rappresentanti dei Governi degli Stati membri e dei rappresent
 
 Al fine di tener conto delle conseguenze derivanti, per taluni Stati associati, dalla loro appartenenza a gruppi monetari regionali, resta inteso che la parita' di cui all'articolo 39, paragrafo 2, della Convenzione di Associazione anche se non esclude assolutamente una possibile differenziazione di talune formalita' amministrative alle quali sono soggette le operazioni menzionate nell'articolo suddetto, a seconda che esse siano realizzate o no da cittadini della stessa zona monetaria, deve, in pratica, garantire una perfetta parita' di trattamento tra cittadini dei vari Stati membri.
 
-##### Allegato VII
+#### Allegato VII
 
 ALLEGATO VII
 
@@ -2257,7 +2255,7 @@ Dichiarazioni dei rappresentanti dei Governi degli Stati membri e dei rappresent
 
 2\. I Governi degli Stati membri e i Governi degli Stati associati procureranno di facilitare al massimo per le persone di cui all'articolo 1 del Protocollo n. 9 sui privilegi e sulle immunita' la concessione alle condizioni piu' favorevoli dei visti temporanei eventualmente necessari al compimento della loro missione.
 
-##### Allegato VIII
+#### Allegato VIII
 
 ALLEGATO VIII
 
@@ -2267,7 +2265,7 @@ buoni uffici
 
 Le Parti contraenti, che sono parti di una Controversia ai sensi dell'articolo 53 della Convenzione di Associazione sono disposte, se le circostanze lo permettono e salvo informarne il Consiglio di Associazione in modo che tutte le parti interessate possano far valere i loro diritti, a ricorrere, prima di portare la controversia davanti al Consiglio di Associazione, a una procedura di buoni uffici.
 
-##### Allegato IX
+#### Allegato IX
 
 ALLEGATO IX
 
@@ -2275,7 +2273,7 @@ Dichiarazione dei rappresentanti dei Governi degli Stati membri e dei rappresent
 
 I Governi degli Stati membri e i Governi degli Stati associati si impegnano ad adottare ogni disposizione intesa ad assicurare che i delitti di cui all'articolo 20, terzo comma, dello statuto della Corte arbitrale della Associazione siano puniti come i delitti corrispondenti di fronte ad un tribunale nazionale che deliberi in materia civile.
 
-##### Allegato X
+#### Allegato X
 
 ALLEGATO X
 
@@ -2283,7 +2281,7 @@ Dichiarazione dei rappresentanti dei Governi degli Stati membri relativa ai prod
 
 Risulta dalle disposizioni abbinate del Trattato che istituisce la Comunita' europea dell'energia atomica e del Trattato che istituisce la Comunita' economica europea che le disposizioni del Titolo I della Convenzione di Associazione sono applicabili ai beni e ai prodotti di cui agli articoli 92 e seguenti del Trattato che istituisce la Comunita' europea dell'energia atomica.
 
-##### Allegato XI
+#### Allegato XI
 
 ALLEGATO XI
 
@@ -2291,7 +2289,7 @@ Dichiarazione dei rappresentanti dei Governi degli Stati membri relativa al cont
 
 Qualora i quantitativi chiesti dalla Repubblica federale di Germania superino il contingente tariffario ad essa riservato in virtu' del Protocollo relativo al contingente tariffario per le importazioni di banane (ex 08.01 della Nomenclatura di Bruxelles), firmato dagli Stati membri il 25 marzo 1957, gli Stati associati esportatori saranno consultati sulle loro possibilita' di fornire, in condizioni appropriate, in tutto o in parte i quantitativi chiesti dalla Repubblica federale di Germania.
 
-##### Allegato XII
+#### Allegato XII
 
 ALLEGATO XII
 
@@ -2299,7 +2297,7 @@ Dichiarazione della Comunita' relativa all'articolo 25 della Convenzione di Asso
 
 Consapevole che l'articolo 25, paragrafo 1, della Convenzione di Associazione non esclude la possibilita' di partecipazioni nelle banche di sviluppo degli Stati associati, la Comunita' attira tuttavia l'attenzione di questi ultimi sul fatto che tali partecipazioni avverranno soltanto in casi eccezionali e se la Comunita' stessa disporra' di garanzie sufficienti da definire se del caso.
 
-##### Allegato XIII
+#### Allegato XIII
 
 ALLEGATO XIII
 
@@ -2307,7 +2305,7 @@ Dichiarazione del rappresentante del Governo della Repubblica federale di German
 
 Devono essere considerati cittadini della Repubblica federale di Germania tutti i tedeschi nel senso definito dalla legge fondamentale della Repubblica federale di Germania.
 
-##### Allegato XIV
+#### Allegato XIV
 
 ALLEGATO XIV
 
@@ -2341,7 +2339,7 @@ Previa consultazione della Commissione delle Comunita' europee,
 
 Hanno convenuto le disposizioni che seguono:
 
-##### Articolo 1
+#### Articolo 1
 
 1\. La posizione comune che i rappresentanti della Comunita' devono prendere in seno al Consiglio di Associazione e' adottata in conformita' delle disposizioni seguenti:
 
@@ -2353,7 +2351,7 @@ c) negli altri casi ed in particolare quando, in applicazione dell'articolo 49 d
 
 2\. La posizione comune che i rappresentanti della Comunita' prendono in seno al Comitato di Associazione e' adottata alle stesse condizioni di quelle fissate nel paragrafo 1.
 
-##### Articolo 2
+#### Articolo 2
 
 1\. Le decisioni e le raccomandazioni adottate dal Consiglio di Associazione sui problemi oggetto del Titolo I della Convenzione relativo agli scambi commerciali tra la Comunita' e gli Stati associati e dei Protocolli 1, 2, 3 e 5 sono oggetto, ai fini della loro applicazione, di atti del Consiglio che delibera alle condizioni in cui, in conformita' del Trattato, esso stabilisce la politica commerciale della Comunita' nei confronti dei paesi terzi, e determina l'attivita' di quest'ultima nell'ambito delle organizzazioni internazionali.
 
@@ -2365,7 +2363,7 @@ Le decisioni e le raccomandazioni adottate dal Consiglio di Associazione negli a
 
 3\. Le disposizioni dei paragrafi 1 e 2 sono anche applicabili per le decisioni e le raccomandazioni prese dal Comitato di Associazione in applicazione dell'articolo 49 della Convenzione.
 
-##### Articolo 3
+#### Articolo 3
 
 Per l'applicazione delle disposizioni del Titolo I della Convenzione di Associazione e dei Protocolli 1, 2, 3 e 5 che prevedono la possibilita' per la Comunita' di chiedere una consultazione, e' adottata la seguente procedura:
 
@@ -2375,13 +2373,13 @@ b) la posizione comune della Comunita' e' quella dello Stato membro richiedente 
 
 c) la domanda di consultazione e' trasmessa al Consiglio di Associazione dal Presidente in carica del Consiglio della Comunita' economica europea a nome della Comunita' di quest'ultima.
 
-##### Articolo 4
+#### Articolo 4
 
 Qualsiasi trattato, convenzione, accordo o intesa e qualsiasi parte di trattato, di convenzione, di accordo o di intesa che riguardi talune materie trattate nella Convenzione, di qualsiasi forma o natura, concluso o da concludere tra uno o piu' Stati membri e uno o piu' Stati associati, e' comunicato senza indugio, a cura dello Stato o degli Stati membri interessati, agli altri Stati membri e alla Commissione.
 
 A richiesta di uno Stato membro o della Commissione, il testo comunicato e' oggetto di una deliberazione del Consiglio.
 
-##### Articolo 5
+#### Articolo 5
 
 1\. Per l'applicazione dell'articolo 16, paragrafo 2 della Convenzione e per permettere ad uno Stato membro di far fronte alle difficolta' menzionate in questo articolo, la Commissione puo' autorizzare detto Stato a prendere le misure di salvaguardia necessarie, comprese quelle destinate a far fronte a una deviazione di traffico.
 
@@ -2397,7 +2395,7 @@ In tal caso sono applicabili le disposizioni del paragrafo 2.
 
 6\. La notificazione della Comunita' al Consiglio di Associazione di cui all'articolo 16, paragrafo 2, secondo comma, della Convenzione, e' fatta dalla Commissione.
 
-##### Articolo 6
+#### Articolo 6
 
 Quando uno Stato membro ritiene necessario ricorrere all'articolo 53 della Convenzione per i settori che non sono di competenza della Comunita', consulta in precedenza gli altri Stati membri.
 
@@ -2405,15 +2403,15 @@ Se il Consiglio di Associazione e' indotto a prender posizione sull'azione dello
 
 Il presente articolo e' del pari applicabile quando uno Stato membro ritiene necessario ricorrere alla procedura di buoni uffici prevista all'Allegato VIII dell'Atto finale.
 
-##### Articolo 7
+#### Articolo 7
 
 Le controversie sorte tra Stati membri, tra uno Stato membro e una Istituzione della Comunita' o tra Istituzioni della Comunita' circa la Convenzione, i Protocolli che vi sono allegati nonche' gli Accordi interni firmati per l'applicazione della Convenzione sono sottoposte, a richiesta della Parte piu' diligente, alla Corte di giustizia delle Comunita' alle condizioni previste dal Trattato e dal Protocollo relativo allo statuto della Corte di giustizia allegato a detto Trattato.
 
-##### Articolo 8
+#### Articolo 8
 
 Il Consiglio, deliberando all'unanimita', previa consultazione della Commissione, puo' modificare o completare in qualsiasi momento le disposizioni del presente Accordo.
 
-##### Articolo 9
+#### Articolo 9
 
 Il presente Accordo e' approvato da ogni Stato membro conformemente alle proprie norme costituzionali.
 
@@ -2421,7 +2419,7 @@ Il Governo di ciascuno Stato membro notifica al segretariato del Consiglio delle
 
 Il presente Accordo entra in vigore, nella misura in cui siano adempiute le condizioni di cui al primo comma, alla medesima data della Convenzione di Associazione. Esso rimane in applicazione per la stessa durata delle disposizioni di questa.
 
-##### Articolo 10
+#### Articolo 10
 
 Il presente Accordo, redatto in un unico esemplare in lingua tedesca, francese, italiana e olandese, i quattro testi facenti tutti egualmente fede, sara' depositato negli archivi del Segretariato del Consiglio delle Comunita' europee che ne trasmettera' copia certificata conforme a ciascuno dei Governi firmatari.
 
@@ -2453,7 +2451,7 @@ Mario PEDINI
 
 Albert BORSCHETTE
 
-## CAPITOLO I
+### CAPITOLO I
 
 ACCORDO INTERNO RELATIVO AL FINANZIAMENTO E ALLA GESTIONE DEGLI AIUTI DELLA COMUNITA'
 
@@ -2475,7 +2473,7 @@ Previa consultazione della Commissione delle Comunita' europee,
 
 Hanno convenuto le disposizioni che seguono:
 
-##### Articolo 1
+#### Articolo 1
 
 1\. Gli Stati membri istituiscono un Fondo europeo di sviluppo (1969), in appresso denominato il Fondo.
 
@@ -2489,7 +2487,7 @@ a) 828 milioni di unita' di conto per gli Stati associati, di cui 748 milioni so
 
 b) 72 milioni di unita' di conto per i paesi e territori e i dipartimenti francesi d'oltremare, di cui 62 milioni sotto forma di aiuti non rimborsabili e 10 milioni sotto forma di prestiti a condizioni speciali e di contributi alla formazione di capitali a rischio.
 
-##### Articolo 2
+#### Articolo 2
 
 All'importo di cui all'articolo 1, paragrafo 2, si aggiungono, fino a concorrenza di 100 milioni di unita' di conto, prestiti concessi dalla Banca Europea per gli investimenti, in appresso denominata la Banca, sui propri fondi, alle condizioni da essa fissate in conformita' delle disposizioni del suo Statuto.
 
@@ -2499,7 +2497,7 @@ a) fino a concorrenza di 90 milioni di unita' di conto, ad operazioni di finanzi
 
 b) fino a concorrenza di 10 milioni di unita' di conto, ad operazioni di finanziamento realizzate nei paesi e territori e nei dipartimenti francesi d'oltremare.
 
-##### Articolo 3
+#### Articolo 3
 
 1\. Entro un mese dall'entrata in vigore della Convenzione, e, successivamente, anteriormente al 1 settembre di ogni anno, la Commissione elabora e comunica al Consiglio uno stato di previsione degli impieghi da effettuare durante ciascun esercizio finanziario.
 
@@ -2513,17 +2511,17 @@ Qualora i contributi siano insufficienti per far fronte alle effettive necessita
 
 4\. I fondi, a decorrere dalla data della loro esigibilita' e per la durata del suddetto deposito, conservano il valore corrispondente alla parita' in vigore il giorno della loro esigibilita' in rapporto all'unita' di conto definita dal Protocollo n. 7 allegato alla Convenzione e dalle corrispondenti disposizioni della decisione.
 
-##### Articolo 4
+#### Articolo 4
 
 1\. Le eventuali rimanenze del Fondo saranno impiegate fino a esaurimento secondo le stesse modalita' previste dalla Convenzione, dalla decisione e dal presente Accordo.
 
 2\. Gli Stati membri si impegnano a versare, allo scadere della Convenzione e alle condizioni previste allo articolo 3, la parte dei loro contributi che non e' ancora stata richiesta.
 
-##### Articolo 5
+#### Articolo 5
 
 Tutte le operazioni finanziarie a favore degli Stati associati, dei paesi e territori e dei dipartimenti francesi d'oltremare, si effettuano alle condizioni previste dal presente Accordo e sono imputate al Fondo, ad eccezione dei prestiti concessi dalla Banca sui propri fondi.
 
-##### Articolo 6
+#### Articolo 6
 
 1\. Gli Stati membri s'impegnano - in proporzione alla loro sottoscrizione al capitale della Banca - a rendersi garanti verso la Banca medesima, rinunciando al beneficio di escussione per tutti gli impegni finanziari e pecuniari risultanti per i mutuatari dai suoi interventi sotto forma di prestiti su fondi propri concessi in applicazione della Convenzione e della decisione.
 
@@ -2533,7 +2531,7 @@ Tutte le operazioni finanziarie a favore degli Stati associati, dei paesi e terr
 
 4\. Gli impegni risultanti dalle disposizioni dei paragrafi precedenti formeranno oggetto di contratti di garanzia tra ciascuno Stato membro e la Banca.
 
-##### Articolo 7
+#### Articolo 7
 
 1\. Per l'applicazione dell'articolo 8, paragrafo 3, del Protocollo n. 6 e delle corrispondenti disposizioni della decisione per i paesi e territori, e nei limiti in essi fissati, il tasso dell'abbuono degli interessi che puo' essere applicato forfettariamente sui prestiti della Banca viene stabilito come segue:
 
@@ -2553,13 +2551,13 @@ L'organismo intermedio deve in questo caso applicare al beneficiario finale cond
 
 Qualora una riduzione del tasso dell'abbuono totale degli interessi si riveli necessario per rispondere alle disposizioni dell'articolo 8, paragrafo 3, del Protocollo n. 6, tale riduzione si applica per priorita' sull'abbuono accordato a norma del paragrafo 1 lettera c).
 
-## CAPITOLO II
+### CAPITOLO II
 
-##### Articolo 8
+#### Articolo 8
 
 Fatte salve le disposizioni degli articoli 13 - 16 e senza pregiudizio delle attribuzioni conferite dalla Comunita' alla Banca per la gestione di taluni aiuti, il Fondo e' gestito dalla Commissione secondo le modalita' fissate dal regolamento finanziario di cui all'articolo 23.
 
-##### Articolo 9
+#### Articolo 9
 
 1\. La Commissione e la Banca si comunicano, entro un termine massimo di due settimane, le domande di finanziamento che sono loro presentate alle condizioni previste dagli articoli 22 della Convenzione e 12 del Protocollo n. 6 e dalle corrispondenti disposizioni della decisione.
 
@@ -2569,7 +2567,7 @@ Esse si informano inoltre regolarmente in merito ai progetti non ancora presenta
 
 3\. In mancanza di un accordo tra la Commissione e la Banca sul modo di finanziamento piu' appropriato, il problema e' sottoposto, a titolo consultivo ed al piu' presto, al Comitato di cui all'articolo 13, in base ad un fascicolo succinto in cui sono indicate le posizioni rispettive della Commissione e della Banca. L'orientamento che si manifesta in seno al Comitato quanto al modo di finanziamento del progetto in causa lascia impregiudicate le proposte o i pareri elaborati da parte della Commissione o della Banca al termine dell'istruzione, nonche' la posizione del Comitato sulle proposte di finanziamento.
 
-##### Articolo 10
+#### Articolo 10
 
 1\. La Commissione istruisce i progetti che potrebbero essere finanziati mediante aiuti non rimborsabili, le domande relative agli aiuti previsti all'articolo 20 della Convenzione, nonche' i progetti, programmi ed azioni di cooperazione tecnica. Essa elabora le necessarie proposte di finanziamento.
 
@@ -2593,7 +2591,7 @@ Se la Banca ritiene che il progetto non possa essere oggetto di un tale prestito
 
 Essa elabora le proposte di finanziamento per tali anticipazioni che sono esaminate secondo la procedura accelerata prevista all'articolo 16.
 
-##### Articolo 11
+#### Articolo 11
 
 La Commissione - tramite il suo ufficio di collegamento - e la Banca si tengono reciprocamente informate dei progressi dell'istruzione delle domande di finanziamento.
 
@@ -2601,7 +2599,7 @@ Detto ufficio da' e raccoglie tutte le informazioni di carattere generale atte a
 
 Esso interviene in particolare nelle procedure previste all'articolo 9, paragrafi 1 e 2, ed all'articolo 10, paragrafo 4.
 
-##### Articolo 12
+#### Articolo 12
 
 1\. Fatti salvi i mandati conferiti alla Banca, ai sensi del paragrafo 2, la Commissione provvede per conto della Comunita' all'esecuzione finanziaria dei progetti o programmi finanziati dal Fondo alimentato conformemente alle disposizioni dell'articolo 1 ed effettua i pagamenti, in conformita' delle disposizioni del regolamento finanziario di cui all'articolo 23.
 
@@ -2611,7 +2609,7 @@ Quest'ultima e' titolare di tutti i diritti che ne derivano, segnatamente a tito
 
 3\. Le somme riscosse dalla Banca quali rimborsi, interessi ed accessori dei prestiti a condizioni speciali, o quali redditi, rimborsi o cessioni di contributi alla formazione di capitali a rischio o rimunerazione dell'esercizio dei diritti sociali connessi a tali contributi, dedotte le commissioni dovute alla Banca, restano acquisite alla Comunita' fino a quando non se ne disponga secondo le disposizioni previste all'articolo 19.
 
-##### Articolo 13
+#### Articolo 13
 
 1\. E' istituito un Comitato del Fondo composto di rappresentanti dei Governi degli Stati membri, in appresso denominato il Comitato.
 
@@ -2629,7 +2627,7 @@ Belgio. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9 Repubblica
 
 Il Comitato si pronuncia alla maggioranza qualificata di 67 voti.
 
-##### Articolo 14
+#### Articolo 14
 
 1\. Il Comitato emette il proprio parere in merito alle proposte di finanziamento sottopostegli in conformita' dell'articolo 10.
 
@@ -2649,27 +2647,27 @@ c) all'applicazione al progetto o programma considerato delle disposizioni dell'
 
 In questo caso, la proposta di finanziamento riveduta o completata e' sottoposta nuovamente al Comitato in una delle sue successive riunioni.
 
-##### Articolo 15
+#### Articolo 15
 
 1\. Le proposte di finanziamento corredate del parere del Comitato sono sottoposte per decisione alla Commissione.
 
 2\. La Commissione, qualora decida di scostarsi dal parere espresso dal Comitato o in mancanza di un parere favorevole di quest'ultimo, puo' ritirare la proposta di finanziamento ovvero adire il Consiglio che decide secondo le stesse modalita' di voto del Comitato.
 
-##### Articolo 16
+#### Articolo 16
 
 Per la concessione da parte della Comunita' degli aiuti previsti all'articolo 20 della Convenzione e delle anticipazioni previste all'articolo 21 della Convenzione e ai corrispondenti articoli della decisione nonche', eventualmente, per progetti o programmi che presentano un carattere d'urgenza, e' istituita dal regolamento finanziario di cui all'articolo 23 e dal regolamento interno del Comitato una procedura accelerata.
 
-##### Articolo 17
+#### Articolo 17
 
 Ai fini dell'informazione prevista all'articolo 14, paragrafo 2, nonche' per permettere la documentazione degli Stati membri, la Commissione raccoglie ogni utile informazione sugli aiuti agli Stati, paesi e territori associati e ai dipartimenti francesi d'oltremare, previsti o concessi sia dagli Stati membri, sia dalle Istituzioni internazionali o da altre fonti d'aiuti. Ciascuno Stato membro trasmette regolarmente alla Commissione i dati necessari.
 
-## CAPITOLO III
+### CAPITOLO III
 
-##### Articolo 18
+#### Articolo 18
 
 Fatti salvi i mandati conferiti alla Banca, ai sensi dell'articolo 12, paragrafo 2, la Commissione provvede all'esecuzione finanziaria dei progetti o programmi finanziati dal Fondo ed effettua i pagamenti, in conformita' delle disposizioni del regolamento finanziario di cui all'articolo 23.
 
-##### Articolo 19
+#### Articolo 19
 
 1\. Per la durata del presente Accordo, le somme versate alla Banca a titolo di pagamenti effettuati dai beneficiari di prestiti a condizioni speciali concesse rispettivamente agli Stati associati e ai paesi e territori successivamente al 1 giugno 1964 sono accreditate al Fondo, previa deduzione delle provvigioni dovute alla Banca per la gestione dei prestiti a condizioni speciali e dei contributi alla formazione di capitali a rischio finanziati con i mezzi del Fondo. Dette somme si aggiungono rispettivamente agli importi stabiliti all'articolo 18, lettera a), secondo trattino, della Convenzione e al corrispondente articolo della decisione.
 
@@ -2679,11 +2677,11 @@ I ricavi della cessione e i redditi derivanti da queste operazioni sono accredit
 
 3\. Dopo la scadenza del presente Accordo, le somme di cui ai paragrafi 1 e 2, previa deduzione delle provvigioni di cui al paragrafo 1, sono versate agli Stati membri in proporzione ai loro contributi al Fondo con i cui mezzi sono stati finanziati i relativi progetti, a meno che il Consiglio non decida all'unanimita' di destinarle ad altre operazioni.
 
-##### Articolo 20
+#### Articolo 20
 
 Il regolamento finanziario di cui all'articolo 23 precisa le modalita' di assegnazione degli eventuali introiti del Fondo diversi da quelli di cui all'articolo 19.
 
-##### Articolo 21
+#### Articolo 21
 
 1\. La Commissione si accerta delle condizioni alle quali gli aiuti della Comunita' finanziati dal Fondo sono posti in atto dagli Stati associati, dai paesi e territori o dagli altri eventuali beneficiari.
 
@@ -2691,7 +2689,7 @@ Il regolamento finanziario di cui all'articolo 23 precisa le modalita' di assegn
 
 3\. La Commissione informa il Consiglio, almeno una volta all'anno, in merito alle condizioni di cui ai paragrafi 1 e 2. Il Consiglio, deliberando alla maggioranza qualificata di cui all'articolo 13, prende le necessarie decisioni.
 
-##### Articolo 22
+#### Articolo 22
 
 1\. Al termine di ciascun esercizio, la Commissione chiude il conto della gestione trascorsa nonche' il bilancio del Fondo.
 
@@ -2699,13 +2697,13 @@ Il regolamento finanziario di cui all'articolo 23 precisa le modalita' di assegn
 
 3\. Il Consiglio, deliberando alla maggioranza qualificata di cui all'articolo 13, da' atto alla Commissione della gestione finanziaria del Fondo.
 
-## CAPITOLO IV
+### CAPITOLO IV
 
-##### Articolo 23
+#### Articolo 23
 
 Le disposizioni di applicazione del presente Accordo formano oggetto di un regolamento finanziario adottato, sin dall'entrata in vigore della Convenzione, dal Consiglio che delibera alla maggioranza qualificata di cui all'articolo 13, in base ad un progetto della Commissione e previo parere della Banca per quanto riguarda le disposizioni che interessano quest'ultima.
 
-##### Articolo 24
+#### Articolo 24
 
 1\. Le rimanenze del Fondo per lo sviluppo dei paesi e territori d'oltremare, istituito dalla Convenzione di applicazione allegata al Trattato, continueranno, salvo eccezioni previste dalla Convenzione di Associazione firmata a Yaounde' il 29 luglio 1969, ad essere amministrate alle condizioni previste da detta Convenzione di applicazione nonche' dalla regolamentazione in vigore il 31 dicembre 1962.
 
@@ -2713,13 +2711,13 @@ Le rimanenze del Fondo istituito dall'Accordo interno relativo al finanziamento 
 
 2\. Qualora per mancanza di mezzi dovuta all'esaurimento delle rimanenze fosse compromessa la soddisfacente realizzazione di progetti finanziati nel quadro dei Fondi di cui al paragrafo 1, la Commissione potra' presentare proposte supplementari di finanziamento alle condizioni stabilite all'articolo 13.
 
-##### Articolo 25
+#### Articolo 25
 
 Il presente Accordo e' approvato da ciascuno Stato membro conformemente alle proprie norme costituzionali. Il Governo di ciascuno Stato membro notifica al Segretariato del Consiglio delle Comunita' europee lo adempimento delle procedure richieste per la relativa entrata in vigore.
 
 Il presente Accordo e' concluso per la stessa durata della Convenzione. Tuttavia esso restera' in vigore nella misura necessaria per l'esecuzione integrale di tutte le operazioni finanziate a titolo del Fondo.
 
-##### Articolo 26
+#### Articolo 26
 
 Il presente Accordo, redatto in unico esemplare in lingua tedesca, francese, italiana e olandese, i quattro testi facenti tutti ugualmente fede, sara' depositato negli archivi del Segretariato del Consiglio delle Comunita' europee che provvedera' a rimetterne copia certificata conforme a ciascuno dei Governi degli Stati firmatari.
 

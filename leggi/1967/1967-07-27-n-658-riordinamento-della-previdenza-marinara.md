@@ -50,11 +50,9 @@ Il Comitato amministratore di cui all'articolo 6 del testo unico delle leggi sul
 
 Il Comitato amministratore esprime pareri sulla determinazione della misura dei contributi dovuti alla Gestione marittimi ed alla Gestione speciale ed in ogni altro caso previsto dalla presente legge.
 
-## TITOLO I - Gestione marittimi
+### TITOLO I - Gestione marittimi
 
-### CAPO I
-
-#### SOGGETTI
+#### CAPO I - SOGGETTI
 
 ###### Art. 3
 
@@ -84,7 +82,7 @@ g) le persone componenti l'equipaggio delle navi da diporto munite di carte di b
 
 h) gli allievi imbarcati sulle navi adibite a corsi pratici per il conseguimento dei titoli di abilitazione ai servizi di coperta e di macchina ovvero di radiotelegrafia.
 
-## CAPO II - CONTRIBUZIONI
+#### CAPO II - CONTRIBUZIONI
 
 ###### Art. 5
 
@@ -124,7 +122,7 @@ Rimborso contributi a favore dei superstiti in caso di morte di iscritto senza d
 
 In caso di morte dell'iscritto che non abbia raggiunto i requisiti per il diritto a pensione di cui all'articolo 15 della presente legge, spetta ai superstiti previsti dalle norme sull'assicurazione obbligatoria per l'invalidita', la vecchiaia ed i superstiti una somma pari all'importo dei contributi versati per l'iscritto medesimo nella Gestione marittimi ai sensi del precedente articolo 7, comprensiva dell'indennita' per morte corrisposta, in luogo di pensione, dalla citata assicurazione obbligatoria.
 
-## CAPO III - CONTRIBUZIONI FIGURATIVE
+#### CAPO III - CONTRIBUZIONI FIGURATIVE
 
 ###### Art. 9
 
@@ -168,7 +166,7 @@ I periodi di servizio militare prestati dagli iscritti alla Gestione marittimi p
 
 Agli effetti del presente articolo, sono considerati periodi di richiamo alle armi anche quelli di arruolamento volontario e di trattenimento alle armi dopo il compimento del periodo di ferma ordinaria.
 
-## CAPO IV - PRESTAZIONI
+#### CAPO IV - PRESTAZIONI
 
 ###### Art. 12
 
@@ -292,7 +290,7 @@ La data di decorrenza della pensione in favore dei piloti e' fissata secondo qua
 
 ((ARTICOLO ABROGATO DALLA L. 22 FEBBRAIO 1973, N. 27))
 
-## CAPO V - MODALITA' DI EROGAZIONE DELLE PRESTAZIONI
+#### CAPO V - MODALITA' DI EROGAZIONE DELLE PRESTAZIONI
 
 ###### Art. 20
 
@@ -320,7 +318,7 @@ Quando si verifichi l'ipotesi del precedente comma, l'istituto accerta, anche in
 
 Qualora sia accertata l'invalidita' predetta e sempreche' intervenga la liquidazione della pensione a carico della Gestione marittimi, le relative quote di prestazioni a carico dell'assicurazione obbligatoria, da attribuire alla Gestione marittimi ai sensi del precedente articolo 20, avranno la stessa decorrenza della pensione marittimi.
 
-## CAPO VI - FINANZIAMENTO
+#### CAPO VI - FINANZIAMENTO
 
 ###### Art. 22
 
@@ -350,13 +348,9 @@ AGGIORNAMENTO (1)
 
 La L. 28 marzo 1968, n. 479 ha disposto (con l'art. 19) che le modifiche del presente articolo hanno effetto dalla data di entrata in vigore della L. 27 luglio 1967, n. 658.
 
-## CAPO VII.
+#### CAPO VII. - NORME RELATIVE A PARTICOLARI CATEGORIE
 
-### NORME RELATIVE A PARTICOLARI CATEGORIE
-
-#### SEZIONE I. - PERSONALE DELLE NAVI-TRAGHETTO DIPENDENTE DALLA AZIENDA AUTONOMA
-
-##### DELLE FERROVIE DELLO STATO
+##### SEZIONE I. - PERSONALE DELLE NAVI-TRAGHETTO DIPENDENTE DALLA AZIENDA AUTONOMA DELLE FERROVIE DELLO STATO
 
 ###### Art. 23
 
@@ -458,9 +452,7 @@ articoli 41, 42 e 43 del Regolamento approvato con regio decreto 6 luglio 1922, 
 
 articolo 24 della legge 25 luglio 1952, n. 915.
 
-## SEZIONE II
-
-### PERSONALE APPARTENENTE AL CORPO EQUIPAGGI MILITARI MARITTIMI
+##### SEZIONE II - PERSONALE APPARTENENTE AL CORPO EQUIPAGGI MILITARI MARITTIMI
 
 ###### Art. 32
 
@@ -490,9 +482,7 @@ Parimenti le Gestioni predette rimborseranno allo Stato i contributi versati a f
 
 L'articolo 23 della legge 27 novembre 1956, n. 1368, e' abrogato.
 
-## SEZIONE I
-
-### MARITTIMI ITALIANI IMBARCATI SU NAVI STRANIERE E PILOTI ITALIANI CHE - EFFETTUANO SERVIZI IN ACQUE STRANIERE
+##### SEZIONE I - MARITTIMI ITALIANI IMBARCATI SU NAVI STRANIERE E PILOTI ITALIANI CHE EFFETTUANO SERVIZI IN ACQUE STRANIERE
 
 ###### Art. 35
 
@@ -582,7 +572,7 @@ Ai fini previsti dai precedenti commi, i servizi di pilotaggio, riscattati ai se
 
 Se l'iscritto consegua il diritto alle prestazioni della assicurazione obbligatoria, la Gestione marittimi provvede al trasferimento alla predetta assicurazione dei contributi calcolati nella misura stabilita dal secondo comma del presente articolo.
 
-## CAPO VIII - NORME SPECIALI
+#### CAPO VIII - NORME SPECIALI
 
 ###### Art. 40
 
@@ -674,7 +664,7 @@ I macchinisti navali possono ottenere, agli effetti delle prestazioni a carico d
 
 Il riconoscimento deve essere richiesto, a pena di decadenza, entro 2 anni dalla data del rilascio della patente.
 
-## CAPO IX - NORME TRANSITORIE E FINALI
+#### CAPO IX - NORME TRANSITORIE E FINALI
 
 ###### Art. 46
 
@@ -878,11 +868,9 @@ La copertura degli oneri relativi ai periodi di disoccupazione e di assistenza a
 
 Restano ferme le disposizioni per la copertura degli oneri derivanti all'assicurazione obbligatoria, per l'invalidita', la vecchiaia ed i superstiti dall'accreditamento dei periodi di assistenza indicati nel precedente comma.
 
-## TITOLO II - Gestione speciale
+### TITOLO II - Gestione speciale
 
-### CAPO I.
-
-#### NORME SULLA ISCRIZIONE
+#### CAPO I. - NORME SULLA ISCRIZIONE
 
 ###### Art. 58
 
@@ -914,7 +902,7 @@ Carattere integrativo della Gestione speciale.
 
 Il trattamento di pensione a carico della Gestione speciale, stabilito dal testo unico approvato con decreto del Presidente della Repubblica 26 dicembre 1962, numero 2109, e dalla presente legge, e' integrativo, fino a concorrenza dell'importo della pensione prevista dal presente titolo, delle prestazioni spettanti in base ai contributi versati e accreditati nell'assicurazione obbligatoria per l'invalidita', la vecchiaia ed i superstiti in relazione ai periodi valutati ai fini della pensione di cui al successivo articolo 67.
 
-## CAPO II - LA RETRIBUZIONE E LA CONTRIBUZIONE
+#### CAPO II - LA RETRIBUZIONE E LA CONTRIBUZIONE
 
 ###### Art. 61
 
@@ -1088,7 +1076,7 @@ L'importo della pensione, al netto delle maggiorazioni per familiari a carico, n
 
 Ai fini della determinazione della misura e delle condizioni per il conseguimento dei trattamenti minimi di pensione di cui al primo comma, si applicano le norme della assicurazione obbligatoria per l'invalidita', la vecchiaia ed i superstiti.
 
-## CAPO III - PERSONALE AMMINISTRATIVO
+#### CAPO III - PERSONALE AMMINISTRATIVO
 
 ###### Art. 69
 
@@ -1182,7 +1170,7 @@ La costituzione della posizione assicurativa nell'assicurazione obbligatoria per
 
 I maggiori oneri derivanti dall'applicazione delle precedenti norme sono inclusi, per l'importo risultante alla data di entrata in vigore della presente legge, nel disavanzo di cui al precedente articolo 64.
 
-## CAPO IV - PERSONALE DI STATO MAGGIORE NAVIGANTE
+#### CAPO IV - PERSONALE DI STATO MAGGIORE NAVIGANTE
 
 ###### Art. 76
 
@@ -1234,9 +1222,7 @@ La L. 22 febbraio 1973, n. 27 ha disposto (con l'art. 26, comma 1) che tale modi
 
 ((ARTICOLO ABROGATO DALLA L. 22 FEBBRAIO 1973, N. 27))
 
-## CAPO V - RAPPORTI CON L'ASSICURAZIONE OBBLIGATORIA PER L'INVALIDITA', LA
-
-### VECCHIAIA ED I SUPERSTITI E CON LA GESTIONE MARITTIMI
+#### CAPO V - RAPPORTI CON L'ASSICURAZIONE OBBLIGATORIA PER L'INVALIDITA', LA VECCHIAIA ED I SUPERSTITI E CON LA GESTIONE MARITTIMI
 
 ###### Art. 81
 
@@ -1290,11 +1276,7 @@ Per l'iscritto trasferito nella categoria dei dirigenti non e' piu' ammesso il v
 
 In tali casi la pensione spettante all'iscritto o ai superstiti e' calcolata in relazione alla retribuzione riferita alla data di cessazione del servizio o dell'iscrizione obbligatoria alla Gestione speciale oppure alla data di sospensione dei versamenti volontari e la pensione cosi' calcolata e' maggiorata nella stessa misura e con le stesse modalita' con le quali saranno maggiorate le pensioni liquidate con decorrenza dalla suddetta data di cessazione dal servizio o di trasferimento nella categoria dei dirigenti o di sospensione dei versamenti volontari.
 
-## CAPO VI
-
-### NORME SPECIALI, TRANSITORIE E MODIFICATIVE DELLE DISPOSIZIONI DEL - TESTO UNICO APPROVATO CON IL DECRETO DEL PRESIDENTE DELLA REPUBBLICA
-
-#### 26 DICEMBRE 1962, n. 2109.
+#### CAPO VI - NORME SPECIALI, TRANSITORIE E MODIFICATIVE DELLE DISPOSIZIONI DEL TESTO UNICO APPROVATO CON IL DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 DICEMBRE 1962, n. 2109.
 
 ###### Art. 85
 
@@ -1348,13 +1330,9 @@ Accreditamento in conto individuale fruttifero dei contributi versati dopo il pe
 
 Il pensionato gia' iscritto alla Cassa per la previdenza marinara, che abbia ottenuto una pensione a carico della Gestione marittimi o della Gestione speciale e si rioccupi presso gli uffici amministrativi delle aziende di cui all'articolo 58 della presente legge, ha diritto allo accreditamento in un conto di risparmio fruttifero al tasso di interesse del 4 per cento, della quota integrativa dei contributi dovuti alla Gestione speciale a norma dell'articolo 62 ed avra' restituita la quota medesima al momento della cessazione dal servizio.
 
-## TITOLO III - Norme generali relative alla Gestione marittimi ed alla Gestione
+### TITOLO III - Norme generali relative alla Gestione marittimi ed alla Gestione speciale
 
-### speciale
-
-#### CAPO I - ADEGUAMENTO DELLE PENSIONI E SOPPRESSIONE DEL FONDO ASSEGNI
-
-##### COMPLEMENTARI E DI ALTRE GESTIONI
+#### CAPO I - ADEGUAMENTO DELLE PENSIONI E SOPPRESSIONE DEL FONDO ASSEGNI COMPLEMENTARI E DI ALTRE GESTIONI
 
 ###### Art. 92
 
@@ -1370,7 +1348,7 @@ Il disavanzo del Fondo assegni complementari e' trasferito a carico della Gestio
 
 Le attivita' e le passivita' delle altre gestioni previste dal primo comma sono trasferite alla Gestione marittimi.
 
-## CAPO II - NORME PER LA RISOLUZIONE DELLE CONTROVERSIE
+#### CAPO II - NORME PER LA RISOLUZIONE DELLE CONTROVERSIE
 
 ###### Art. 94
 
@@ -1406,7 +1384,7 @@ Esenzione e riduzione delle tasse di bollo, di registro e giudiziarie
 
 Nei giudizi in cui sia parte la Cassa nazionale per la previdenza marinara si applicano, per quanto riguarda i benefici di esenzione e riduzione delle tasse di bollo, di registro e giudiziarie, le norme concernenti l'Istituto nazionale della previdenza sociale o quelle piu' favorevoli riguardanti la Cassa stessa.
 
-## CAPO III - NORME FINALI E TRANSITORIE
+#### CAPO III - NORME FINALI E TRANSITORIE
 
 ###### Art. 98
 
@@ -1472,7 +1450,7 @@ MORO - Bosco - REALE - COLOMBO - TREMELLONI - SCALFARO - NATALI
 
 Visto, il Guardasigilli: REALE
 
-## CAPO III - NORME FINALI E TRANSITORIE
+#### CAPO III - NORME FINALI E TRANSITORIE
 
 ###### Tabelle
 

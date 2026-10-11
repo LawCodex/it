@@ -46,13 +46,13 @@ il seguente decreto legislativo:
 
 ## Capo I - Disposizioni generali
 
-#### Art. 1
+### Art. 1
 
 Finalita'
 
 1\. Il presente decreto stabilisce le norme sull'attribuzione a cittadini di Paesi non appartenenti all'Unione europea o ad apolidi, di seguito denominati: «stranieri», ((della qualifica di beneficiario di protezione internazionale nonche' norme sul contenuto dello status riconosciuto)).
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -92,11 +92,9 @@ m) «minore non accompagnato»: lo straniero di eta' inferiore agli anni diciott
 
 n) «Paese di origine»: il Paese o i Paesi di cui il richiedente e' cittadino o, per un apolide, il Paese in cui aveva precedentemente la dimora abituale.
 
-## Capo II - Valutazione delle domande
+## Capo II - Valutazione delle domande di protezione internazionale
 
-### di protezione internazionale
-
-#### Art. 3
+### Art. 3
 
 Esame dei fatti e delle circostanze
 
@@ -130,7 +128,7 @@ d) il richiedente ha presentato la domanda di protezione internazionale il prima
 
 e) dai riscontri effettuati il richiedente e', in generale, attendibile.((Nel valutare l'attendibilita' del minore, si tiene conto anche del suo grado di maturita' e di sviluppo personale.))
 
-#### Art. 4
+### Art. 4
 
 Bisogno di protezione internazionale sorto
 
@@ -138,7 +136,7 @@ dopo aver lasciato il Paese d'origine
 
 1\. La domanda di protezione internazionale puo' essere motivata da avvenimenti verificatisi dopo la partenza del richiedente dal suo Paese di origine ovvero da attivita' svolte dal richiedente dopo la sua partenza dal Paese d'origine, in particolare quando sia accertato che le attivita' addotte costituiscono l'espressione e la continuazione di convinzioni od orientamenti gia' manifestati nel Paese d'origine.
 
-#### Art. 5
+### Art. 5
 
 Responsabili della persecuzione o del danno grave
 
@@ -150,7 +148,7 @@ b) i partiti o le organizzazioni che controllano lo Stato o una parte consistent
 
 c) soggetti non statuali, se i responsabili di cui alle lettere a) e b), comprese le organizzazioni internazionali, non possono o non vogliono fornire protezione, ai sensi dell'articolo 6, comma 2, contro persecuzioni o danni gravi.
 
-#### Art. 6
+### Art. 6
 
 Soggetti che offrono protezione
 
@@ -166,7 +164,7 @@ b) dei partiti o organizzazioni, comprese le organizzazioni internazionali, che 
 
 ## Capo III - Status di rifugiato
 
-#### Art. 7
+### Art. 7
 
 Atti di persecuzione
 
@@ -192,7 +190,7 @@ e) azioni giudiziarie o sanzioni penali in conseguenza del rifiuto di prestare s
 
 f) atti specificamente diretti contro un genere sessuale o contro l'infanzia.
 
-#### Art. 8
+### Art. 8
 
 Motivi di persecuzione
 
@@ -210,7 +208,7 @@ e) «opinione politica»: si riferisce, in particolare, alla professione di un'o
 
 2\. Nell'esaminare se un richiedente abbia un timore fondato di essere perseguitato, e' irrilevante che il richiedente possegga effettivamente le caratteristiche razziali, religiose, nazionali, sociali o politiche che provocano gli atti di persecuzione, purche' una siffatta caratteristica gli venga attribuita dall'autore delle persecuzioni.
 
-#### Art. 9
+### Art. 9
 
 Cessazione
 
@@ -236,7 +234,7 @@ f) se trattasi di un apolide, sia in grado di tornare nel Paese nel quale aveva 
 
 3\. La cessazione e' dichiarata sulla base di una valutazione individuale della situazione personale dello straniero.
 
-#### Art. 10
+### Art. 10
 
 Esclusione
 
@@ -252,13 +250,13 @@ c) che si sia reso colpevole di atti contrari alle finalita' e ai principi delle
 
 3\. Il comma 2 si applica anche alle persone che istigano o altrimenti concorrono alla commissione dei crimini, reati o atti in esso previsti.
 
-#### Art. 11
+### Art. 11
 
 Riconoscimento dello status di rifugiato
 
 1\. La domanda di protezione internazionale ha come esito il riconoscimento dello status di rifugiato quando la relativa domanda e' valutata positivamente in relazione a quanto stabilito negli articoli 3, 4, 5 e 6, in presenza dei presupposti di cui agli articoli 7 e 8, salvo che non sussistano le cause di cessazione e di esclusione di cui agli articoli 9 e 10.
 
-#### Art. 12
+### Art. 12
 
 Diniego dello status di rifugiato
 
@@ -270,7 +268,7 @@ b) sussistono fondati motivi per ritenere che lo straniero costituisce un perico
 
 c) lo straniero costituisce un pericolo per l'ordine e la sicurezza pubblica, essendo stato condannato con sentenza definitiva per i reati previsti dall'articolo 407, comma 2, lettera a), ((del codice di procedura penale ovvero dagli articoli 336, 583, 583-bis, 583-quater, 624 nell'ipotesi aggravata di cui all'articolo 625, primo comma, numero 3), e 624-bis, primo comma, del codice penale. I reati di cui all'articolo 407, comma 2, lettera a), numeri 2), 6) e 7-bis), del codice di procedura penale, sono rilevanti anche nelle fattispecie non aggravate)).
 
-#### Art. 13
+### Art. 13
 
 Revoca dello status di rifugiato
 
@@ -282,7 +280,7 @@ b) il riconoscimento dello status di rifugiato e' stato determinato, in modo esc
 
 ## Capo IV - Protezione sussidiaria
 
-#### Art. 14
+### Art. 14
 
 Danno grave
 
@@ -294,7 +292,7 @@ b) la tortura o altra forma di pena o trattamento inumano o degradante ai danni 
 
 c) la minaccia grave e individuale alla vita o alla persona di un civile derivante dalla violenza indiscriminata in situazioni di conflitto armato interno o internazionale.
 
-#### Art. 15
+### Art. 15
 
 Cessazione
 
@@ -306,7 +304,7 @@ Cessazione
 
 ((2-ter. Ai fini di cui al comma 2, e' rilevante ogni rientro, anche di breve durata, nel Paese di origine, ove non giustificato da gravi e comprovati motivi e per il periodo strettamente necessario)).
 
-#### Art. 16
+### Art. 16
 
 Esclusione
 
@@ -324,13 +322,13 @@ d-bis) costituisca un pericolo per l'ordine e la sicurezza pubblica, essendo sta
 
 2\. Il comma 1 si applica anche alle persone che istigano o altrimenti concorrono alla commissione dei crimini, reati o atti in esso menzionati.
 
-#### Art. 17
+### Art. 17
 
 Riconoscimento dello status di protezione sussidiaria
 
 1\. La domanda di protezione internazionale ha come esito il riconoscimento dello status di protezione sussidiaria, in conformita' a quanto stabilito dagli articoli 3, 4, 5 e 6, se ricorrono i presupposti di cui all'articolo 14 e non sussistono le cause di cessazione e di esclusione di cui agli articoli 15 e 16.
 
-#### Art. 18
+### Art. 18
 
 Revoca dello status di protezione sussidiaria
 
@@ -342,7 +340,7 @@ b) il riconoscimento dello status di protezione sussidiaria e' stato determinato
 
 ## Capo V - Contenuto della protezione internazionale
 
-#### Art. 19
+### Art. 19
 
 Disposizioni generali
 
@@ -352,7 +350,7 @@ Disposizioni generali
 
 ((2-bis. Nell'attuazione delle disposizioni del presente decreto e' preso in considerazione con carattere di priorita' il superiore interesse del minore.))
 
-#### Art. 20
+### Art. 20
 
 Protezione dall'espulsione
 
@@ -362,7 +360,7 @@ a) sussistono motivi per ritenere che rappresenti un pericolo per la sicurezza d
 
 b) rappresenta un pericolo per l'ordine e la sicurezza pubblica, essendo stato condannato con sentenza definitiva per un reato per il quale e' prevista la pena della reclusione non inferiore nel minimo a quattro anni o nel massimo a dieci anni.
 
-#### Art. 21
+### Art. 21
 
 Informazioni
 
@@ -370,7 +368,7 @@ Informazioni
 
 2\. Per garantire la piu' ampia informazione sui diritti e doveri degli status riconosciuti, in sede di audizione del richiedente lo status di protezione internazionale e' comunque fornita una informazione preliminare sui medesimi diritti e doveri.
 
-#### Art. 22
+### Art. 22
 
 Mantenimento del nucleo familiare
 
@@ -384,7 +382,7 @@ Mantenimento del nucleo familiare
 
 5\. Le disposizioni di cui al presente articolo non si applicano ai familiari che sono o sarebbero esclusi dallo status di rifugiato o dalla protezione sussidiaria ai sensi degli articoli 10, 12 e 16.
 
-#### Art. 23
+### Art. 23
 
 Permesso di soggiorno
 
@@ -392,7 +390,7 @@ Permesso di soggiorno
 
 2\. Ai titolari dello status di protezione sussidiaria e' rilasciato un permesso di soggiorno per protezione sussidiaria ((con validita' quinquennale)) rinnovabile previa verifica della permanenza delle condizioni che hanno consentito il riconoscimento della protezione sussidiaria. Tale permesso di soggiorno consente l'accesso al lavoro e allo studio ed e' convertibile per motivi di lavoro, sussistendone i requisiti.
 
-#### Art. 24
+### Art. 24
 
 Documenti di viaggio
 
@@ -402,7 +400,7 @@ Documenti di viaggio
 
 3\. Il rilascio dei documenti di cui ai commi 1 e 2 e' rifiutato ovvero, nel caso di rilascio, il documento e' ritirato se sussistono gravissimi motivi attinenti la sicurezza nazionale e l'ordine pubblico che ne impediscono il rilascio.
 
-#### Art. 25
+### Art. 25
 
 Accesso all'occupazione
 
@@ -410,7 +408,7 @@ Accesso all'occupazione
 
 2\. E' consentito al titolare dello status di rifugiato e dello status di protezione sussidiaria l'accesso al pubblico impiego, con le modalita' e le limitazioni previste per i cittadini dell'Unione europea.
 
-#### Art. 26
+### Art. 26
 
 Accesso all'istruzione
 
@@ -422,7 +420,7 @@ Accesso all'istruzione
 
 ((3-bis. Per il riconoscimento delle qualifiche professionali, dei diplomi, dei certificati e di altri titoli conseguiti all'estero dai titolari dello status di rifugiato o dello status di protezione sussidiaria, le amministrazioni competenti individuano sistemi appropriati di valutazione, convalida e accreditamento che consentono il riconoscimento dei titoli ai sensi dell'articolo 49 del decreto del Presidente della Repubblica 31 agosto 1999, n. 394, anche in assenza di certificazione da parte dello Stato in cui e' stato ottenuto il titolo, ove l'interessato dimostra di non poter acquisire detta certificazione.))
 
-#### Art. 27
+### Art. 27
 
 Assistenza sanitaria e sociale
 
@@ -430,7 +428,7 @@ Assistenza sanitaria e sociale
 
 ((1-bis. Il Ministero della salute adotta linee guida per la programmazione degli interventi di assistenza e riabilitazione nonche' per il trattamento dei disturbi psichici dei titolari dello status di rifugiato e dello status di protezione sussidiaria che hanno subito torture, stupri o altre forme gravi di violenza psicologica, fisica o sessuale, compresi eventuali programmi di formazione e aggiornamento specifici rivolti al personale sanitario da realizzarsi nell'ambito delle risorse finanziarie disponibili a legislazione vigente.))
 
-#### Art. 28
+### Art. 28
 
 Minori non accompagnati
 
@@ -440,7 +438,7 @@ Minori non accompagnati
 
 3\. Le iniziative per l'individuazione dei familiari del minore non accompagnato, titolare dello status di protezione internazionale, sono assunte ((, quanto prima, a seguito del riconoscimento della protezione ove non avviate in precedenza,)) nell'ambito delle convenzioni di cui all'articolo 8 del decreto legislativo 30 maggio 2005, n. 140, da stipulare anche con organismi o associazioni umanitarie a carattere nazionale o internazionale. I relativi programmi sono attuati nel superiore interesse del minore e con l'obbligo della assoluta riservatezza in modo da tutelare la sicurezza del titolare della protezione internazionale e dei suoi familiari.
 
-#### Art. 29
+### Art. 29
 
 Libera circolazione, integrazione e alloggio
 
@@ -454,7 +452,7 @@ Libera circolazione, integrazione e alloggio
 
 3-ter. L'accesso ai benefici relativi all'alloggio previsti dall'articolo 40, comma 6, del decreto legislativo 25 luglio 1998, n. 286, e' consentito ai titolari dello status di rifugiato e di protezione sussidiaria, in condizioni di parita' con i cittadini italiani.))
 
-#### Art. 30
+### Art. 30
 
 Rimpatrio
 
@@ -466,19 +464,19 @@ Rimpatrio
 
 ## Capo VI - Disposizioni finali
 
-#### Art. 31
+### Art. 31
 
 Punto di contatto
 
 1\. Il Ministero dell'interno - Dipartimento per le liberta' civili e l'immigrazione, in qualita' di punto di contatto, adotta, nel limite delle risorse umane, strumentali e finanziarie disponibili sulla base della legislazione vigente, ogni misura idonea ad instaurare una cooperazione diretta e lo scambio di informazioni ai fini dell'applicazione del presente decreto con i competenti uffici degli Stati membri dell'Unione europea.
 
-#### Art. 32
+### Art. 32
 
 Personale
 
 1\. Il personale componente delle Commissioni territoriali che provvede all'applicazione delle norme del presente decreto riceve una formazione di base per l'attuazione della disciplina secondo gli ordinamenti degli uffici e dei servizi in cui espleta la propria attivita' ed e' soggetto all'obbligo di riservatezza in ordine alle informazioni sui rifugiati e sui titolari della protezione sussidiaria che apprende sulla base della attivita' svolta.
 
-#### Art. 33
+### Art. 33
 
 Norma finanziaria
 
@@ -536,7 +534,7 @@ Norma finanziaria
 
 > 2\) per aumentare gli stanziamenti dei capitoli di spesa aventi carattere obbligatorio o connessi con l'accertamento e la riscossione delle entrate.».
 
-#### Art. 34
+### Art. 34
 
 Disposizioni transitorie e finali
 

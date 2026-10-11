@@ -64,11 +64,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - DISPOSIZIONI GENERALI
 
-### DISPOSIZIONI GENERALI
-
-#### Art. 1
+### Art. 1
 
 Oggetto e ambito di applicazione
 
@@ -306,7 +304,7 @@ Oggetto e ambito di applicazione
 
 > \- Per i riferimenti normativi alle direttive 2014/53/UE e 2014/35/UE, si veda nelle note alle premesse.
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -382,7 +380,7 @@ gg) «Commissione»: la Commissione europea.
 
 > \- Per i riferimenti normativi del regolamento (CE) n. 765/2008, si veda nelle note alle premesse.
 
-#### Art. 3
+### Art. 3
 
 Requisiti essenziali
 
@@ -424,7 +422,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 9 luglio 2024, n. 100, ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
 
-#### Art. 3-bis
+### Art. 3-bis
 
 (( (Possibilita' per i consumatori e gli altri utenti finali di acquistare determinate categorie o classi di apparecchiature radio senza dispositivo di ricarica).))
 
@@ -442,7 +440,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 9 luglio 2024, n. 100, ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
 
-#### Art. 4
+### Art. 4
 
 Fornitura di informazioni sulla conformita'
 
@@ -454,7 +452,7 @@ delle combinazioni di apparecchiature radio e software
 
 3\. Il Ministero attua, conformemente alla normativa vigente, gli atti di esecuzione adottati dalla Commissione europea che stabiliscono le modalita' operative della messa a disposizione delle informazioni sulla conformita' applicabili alle categorie e alle classi specificate dagli atti delegati adottati conformemente al comma 2.
 
-#### Art. 5
+### Art. 5
 
 Registrazione dei tipi di apparecchiatura radio
 
@@ -470,13 +468,13 @@ in talune categorie
 
 5\. L'impatto degli atti delegati di cui al comma 2 e' valutato dalle relazioni previste all'articolo 47 del presente decreto.
 
-#### Art. 6
+### Art. 6
 
 Messa a disposizione sul mercato
 
 1\. E' consentita la messa a disposizione sul mercato solo delle apparecchiature radio che si conformano al presente decreto. Il Ministero adotta i provvedimenti necessari a garantire il rispetto del presente articolo.
 
-#### Art. 7
+### Art. 7
 
 Messa in servizio e uso
 
@@ -488,7 +486,7 @@ Messa in servizio e uso
 
 > \- Per i riferimenti normativi alla direttiva 2002/21/UE, si veda nelle note all'articolo 2.
 
-#### Art. 8
+### Art. 8
 
 Notifica delle specifiche delle interfacce radio
 
@@ -508,7 +506,7 @@ b) delle interfacce radio che, in base agli atti di esecuzione adottati ai sensi
 
 > \- Per i riferimenti normativi della decisione n. 676/2002/CE, si veda nelle note all'articolo 7.
 
-#### Art. 9
+### Art. 9
 
 Libera circolazione delle apparecchiature radio
 
@@ -516,11 +514,9 @@ Libera circolazione delle apparecchiature radio
 
 2\. In occasione di fiere, esposizioni ed eventi simili, e' ammessa l'esposizione di apparecchiature radio che non rispettano il presente decreto, purche' un'indicazione visibile segnali chiaramente che tali apparecchiature non possono essere messe a disposizione sul mercato o messe in servizio fino a quando esse non siano state rese conformi al presente decreto. La dimostrazione di apparecchiature radio puo' avvenire solo a condizione che siano state adottate misure adeguate, secondo quanto prescritto dalla normativa vigente, per evitare interferenze dannose, perturbazioni elettromagnetiche e rischi per la salute o la sicurezza di persone, animali domestici o beni.
 
-## Capo II
+## Capo II - OBBLIGHI DEGLI OPERATORI ECONOMICI
 
-### OBBLIGHI DEGLI OPERATORI ECONOMICI
-
-#### Art. 10
+### Art. 10
 
 Obblighi dei fabbricanti
 
@@ -566,7 +562,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 9 luglio 2024, n. 100, ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
 
-#### Art. 11
+### Art. 11
 
 Rappresentanti autorizzati
 
@@ -580,7 +576,7 @@ b) a seguito di una richiesta motivata di un'autorita' nazionale competente, for
 
 c) cooperare con le autorita' nazionali competenti, su loro richiesta, a qualsiasi azione intrapresa per eliminare i rischi presentati dall'apparecchiatura radio che rientra nel mandato del rappresentante autorizzato.
 
-#### Art. 12
+### Art. 12
 
 Obblighi degli importatori
 
@@ -618,7 +614,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 9 luglio 2024, n. 100, ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
 
-#### Art. 13
+### Art. 13
 
 Obblighi dei distributori
 
@@ -646,7 +642,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 9 luglio 2024, n. 100, ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
 
-#### Art. 14
+### Art. 14
 
 Casi in cui gli obblighi dei fabbricanti si applicano
 
@@ -654,7 +650,7 @@ agli importatori e ai distributori
 
 1\. Un importatore o distributore e' ritenuto un fabbricante ai fini del presente decreto ed e' soggetto agli obblighi del fabbricante di cui all'articolo 10 quando immette sul mercato un'apparecchiatura radio con il proprio nome o marchio commerciale o modifica un'apparecchiatura radio gia' immessa sul mercato in modo tale da poterne condizionare la conformita' al presente decreto.
 
-#### Art. 15
+### Art. 15
 
 Identificazione degli operatori economici
 
@@ -666,17 +662,15 @@ b) qualsiasi operatore economico cui abbiano fornito apparecchiature radio.
 
 2\. Gli operatori economici devono essere in grado di presentare le informazioni di cui al comma 1 per dieci anni dal momento in cui sia stato loro fornita un'apparecchiatura radio e per dieci anni dal momento in cui essi abbiano fornito un'apparecchiatura radio.
 
-## Capo III
+## Capo III - CONFORMITA' DELLE APPARECCHIATURE RADIO
 
-### CONFORMITA' DELLE APPARECCHIATURE RADIO
-
-#### Art. 16
+### Art. 16
 
 Presunzione di conformita' delle apparecchiature radio
 
 1\. Le apparecchiature radio che sono conformi alle norme armonizzate o a parti di esse, i cui riferimenti sono stati pubblicati nella Gazzetta Ufficiale dell'Unione europea, sono considerate conformi ai requisiti essenziali di cui all'articolo 3, contemplati in tali norme o parti di esse.
 
-#### Art. 17
+### Art. 17
 
 Procedure di valutazione della conformita'
 
@@ -710,7 +704,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 9 luglio 2024, n. 100, ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
 
-#### Art. 18
+### Art. 18
 
 Dichiarazione di conformita' UE
 
@@ -722,7 +716,7 @@ Dichiarazione di conformita' UE
 
 4\. Con la dichiarazione di conformita' UE il fabbricante si assume la responsabilita' della conformita' dell'apparecchiatura radio ai requisiti del presente decreto.
 
-#### Art. 19
+### Art. 19
 
 Principi generali della marcatura CE
 
@@ -734,7 +728,7 @@ Principi generali della marcatura CE
 
 > \- Per i riferimenti normativi del regolamento (CE) n. 765/2008, si veda nelle note alle premesse.
 
-#### Art. 20
+### Art. 20
 
 Regole e condizioni per l'apposizione della marcatura CE e del numero di identificazione dell'organismo notificato.
 
@@ -746,7 +740,7 @@ Regole e condizioni per l'apposizione della marcatura CE e del numero di identif
 
 4\. Il Ministero assume le iniziative necessarie per garantire un'applicazione corretta del regime che disciplina la marcatura CE e promuove le azioni opportune contro l'uso improprio di tale marcatura.
 
-#### Art. 21
+### Art. 21
 
 Documentazione tecnica
 
@@ -762,11 +756,9 @@ Documentazione tecnica
 
 > \- Il decreto del Ministro delle comunicazioni 25 febbraio 2002, n. 84 (Regolamento concernente la procedura di accreditamento dei laboratori di prova) e' pubblicato nella Gazzetta Ufficiale 7 maggio 2002, n. 105.
 
-## Capo IV
+## Capo IV - NOTIFICA DEGLI ORGANISMI DI VALUTAZIONE DELLA CONFORMITA'
 
-### NOTIFICA DEGLI ORGANISMI DI VALUTAZIONE DELLA CONFORMITA'
-
-#### Art. 22
+### Art. 22
 
 Autorizzazione e notifica
 
@@ -776,7 +768,7 @@ Autorizzazione e notifica
 
 3\. Le spese di effettuazione delle attivita' di cui al comma 2 rientrano nelle prestazioni delle attivita' eseguite per conto terzi secondo la normativa vigente in materia.
 
-#### Art. 23
+### Art. 23
 
 Procedure di autorizzazione e di notifica
 
@@ -806,7 +798,7 @@ L'organismo nazionale di accreditamento rispetta comunque per quanto applicabili
 
 > 4\. Dall'attuazione delle disposizioni del presente articolo non devono derivare nuovi o maggiori oneri ne' minori entrate a carico della finanza pubblica. I Ministeri interessati provvedono all'attuazione del presente articolo con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.».
 
-#### Art. 24
+### Art. 24
 
 Prescrizioni relative all'autorita' di notifica
 
@@ -824,7 +816,7 @@ e) salvaguardando la riservatezza delle informazioni ottenute;
 
 f) assegnando a tali attivita' un numero di dipendenti competenti sufficiente per l'adeguata esecuzione dei suoi compiti.
 
-#### Art. 25
+### Art. 25
 
 Obbligo di informazione a carico dell'autorita'
 
@@ -832,7 +824,7 @@ di notifica
 
 1\. Il Ministero informa la Commissione europea delle procedure per la valutazione e la notifica degli organismi di valutazione della conformita' e per il controllo degli organismi notificati, nonche' di qualsiasi modifica delle stesse.
 
-#### Art. 26
+### Art. 26
 
 Prescrizioni relative agli organismi notificati
 
@@ -874,13 +866,13 @@ d) la capacita' di elaborare certificati di esame UE del tipo o approvazioni dei
 
 11\. Gli organismi di valutazione della conformita' partecipano alle attivita' di normalizzazione pertinenti, alle attivita' normative nel campo delle apparecchiature radio e della pianificazione delle frequenze, nonche' alle attivita' del gruppo di coordinamento degli organismi notificati, istituito a norma della pertinente normativa di armonizzazione dell'Unione, o garantiscono che il loro personale responsabile dell'esecuzione dei compiti di valutazione della conformita' ne sia informato, e applicano come guida generale le decisioni ed i documenti amministrativi prodotti da tale gruppo.
 
-#### Art. 27
+### Art. 27
 
 Presunzione di conformita' degli organismi notificati
 
 1\. Qualora dimostri la propria conformita' ai criteri stabiliti nelle pertinenti norme armonizzate o in parti di esse i cui riferimenti sono stati pubblicati nella Gazzetta Ufficiale dell'Unione europea, un organismo di valutazione della conformita' e' considerato conforme alle prescrizioni di cui all'articolo 26 nella misura in cui le norme applicabili armonizzate includano tali prescrizioni.
 
-#### Art. 28
+### Art. 28
 
 Affiliate e subappaltatori degli organismi notificati
 
@@ -892,7 +884,7 @@ Affiliate e subappaltatori degli organismi notificati
 
 4\. Gli organismi notificati mantengono a disposizione del Ministero i documenti pertinenti riguardanti la valutazione delle qualifiche del subappaltatore o dell'affiliata e del lavoro eseguito da questi ultimi a norma degli allegati III e IV.
 
-#### Art. 29
+### Art. 29
 
 Domanda di notifica
 
@@ -900,7 +892,7 @@ Domanda di notifica
 
 2\. La domanda di notifica e' accompagnata da una descrizione delle attivita' di valutazione della conformita', del modulo o dei moduli di valutazione della conformita' delle apparecchiature radio per le quali tale organismo dichiara di essere competente, nonche' da un certificato di accreditamento rilasciato dall'organismo nazionale di accreditamento che attesti che l'organismo di valutazione della conformita' e' conforme alle prescrizioni di cui all'articolo 26.
 
-#### Art. 30
+### Art. 30
 
 Procedura di notifica
 
@@ -914,13 +906,13 @@ Procedura di notifica
 
 5\. Il Ministero informa la Commissione europea e gli altri Stati membri di eventuali modifiche di rilievo apportate successivamente alla notifica.
 
-#### Art. 31
+### Art. 31
 
 Elenchi degli organismi notificati
 
 1\. L'elenco degli organismi notificati a norma del presente decreto, inclusi i numeri di identificazione loro assegnati e le attivita' per le quali sono stati notificati, e' a disposizione del pubblico sul sito istituzionale della Commissione.
 
-#### Art. 32
+### Art. 32
 
 Modifiche delle notifiche
 
@@ -930,7 +922,7 @@ Il Ministero informa immediatamente la Commissione europea e gli altri Stati mem
 
 2\. Nei casi di limitazione, sospensione o ritiro della notifica, oppure di cessazione dell'attivita' dell'organismo notificato, il Ministero prende le misure appropriate per garantire che le pratiche di tale organismo siano evase da un altro organismo notificato o siano rese disponibili per l'attivita' di sorveglianza del mercato.
 
-#### Art. 33
+### Art. 33
 
 Contestazione della competenza degli organismi notificati
 
@@ -938,7 +930,7 @@ Contestazione della competenza degli organismi notificati
 
 2\. Il Ministero attua, conformemente alla normativa vigente, l'atto di esecuzione che la Commissione europea ha adottato qualora la stessa accerti che un organismo notificato non soddisfa o non soddisfa piu' le prescrizioni per la sua notifica. Ai sensi del medesimo atto, il Ministero adotta le misure correttive necessarie e, all'occorrenza, ritira la notifica.
 
-#### Art. 34
+### Art. 34
 
 Obblighi operativi degli organismi notificati
 
@@ -954,13 +946,13 @@ Gli organismi di valutazione della conformita' svolgono le loro attivita' tenend
 
 5\. Qualora non siano prese misure correttive o queste ultime non producano il risultato richiesto, l'organismo notificato limita, sospende o ritira i certificati di esame UE del tipo o le approvazioni del sistema di qualita', a seconda dei casi.
 
-#### Art. 35
+### Art. 35
 
 Ricorso contro le decisioni degli organismi notificati
 
 1\. Avverso le decisioni degli organismi notificati puo' essere espletata l'apposita procedura di ricorso a tal fine indicata dall'organismo nazionale di accreditamento.
 
-#### Art. 36
+### Art. 36
 
 Obbligo di informazione a carico degli organismi notificati
 
@@ -978,23 +970,21 @@ d) su richiesta, delle attivita' di valutazione della conformita' eseguite nell'
 
 3\. Gli organismi notificati adempiono agli obblighi di informazione di cui agli allegati III e IV.
 
-#### Art. 37
+### Art. 37
 
 Scambio di esperienze
 
 1\. Il Ministero partecipa allo scambio di esperienze organizzato dalla Commissione europea tra le autorita' nazionali degli Stati membri responsabili della politica di notifica.
 
-#### Art. 38
+### Art. 38
 
 Coordinamento degli organismi notificati
 
 1\. Il Ministero richiede agli organismi notificati la partecipazione, direttamente o mediante rappresentanti designati, al lavoro del gruppo settoriale di organismi notificati, quale sistema appropriato di coordinamento e di cooperazione tra organismi notificati, istituito dalla Commissione europea.
 
-## Capo V
+## Capo V - SORVEGLIANZA DEL MERCATO, CONTROLLO DELLE APPARECCHIATURE RADIO E PROCEDURA DI SALVAGUARDIA
 
-### SORVEGLIANZA DEL MERCATO, CONTROLLO DELLE APPARECCHIATURE RADIO E - PROCEDURA DI SALVAGUARDIA
-
-#### Art. 39
+### Art. 39
 
 Sorveglianza del mercato e controllo delle apparecchiature radio
 
@@ -1080,7 +1070,7 @@ b) nel caso in cui sono venuti meno i requisiti accertati al momento del rilasci
 
 > \- Per i riferimenti normativi del decreto del Ministro delle comunicazioni 25 febbraio 2002, n. 84, si veda nelle note all'articolo 2.
 
-#### Art. 40
+### Art. 40
 
 ((Procedura a livello nazionale per le apparecchiature radio che presentano rischi o non sono conformi ai requisiti essenziali)) ((1))
 
@@ -1110,7 +1100,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 9 luglio 2024, n. 100, ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
 
-#### Art. 41
+### Art. 41
 
 Procedura di salvaguardia dell'Unione
 
@@ -1120,7 +1110,7 @@ a) le misure adottate dal Ministero non sono giustificate, il Ministero stesso a
 
 b) le misure adottate dal Ministero o da altra autorita' di sorveglianza di altro Stato membro sono giustificate, il Ministero adotta tutti i provvedimenti necessari per conformarsi a tale decisione, adottando tutte le misure necessarie per garantire che l'apparecchiatura radio non conforme sia ritirata o richiamata dal mercato e ne informa la Commissione europea. I provvedimenti sono emanati all'atto del ricevimento della decisione della Commissione europea.
 
-#### Art. 42
+### Art. 42
 
 Apparecchiature radio conformi che presentano rischi
 
@@ -1136,7 +1126,7 @@ Apparecchiature radio conformi che presentano rischi
 
 > \- Per i riferimenti normativi alla direttiva 2014/53/UE, si veda nelle note alle premesse.
 
-#### Art. 43
+### Art. 43
 
 Procedura a livello nazionale per le apparecchiature radio non conformi
 
@@ -1178,11 +1168,9 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 9 luglio 2024, n. 100, ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
 
-## Capo VI
+## Capo VI - COMMISSIONE CONSULTIVA E COMITATO
 
-### COMMISSIONE CONSULTIVA E COMITATO
-
-#### Art. 44
+### Art. 44
 
 Commissione consultiva
 
@@ -1190,7 +1178,7 @@ Commissione consultiva
 
 2\. Il funzionamento della commissione di cui al comma 1 e' assicurato con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente e per la partecipazione alla commissione medesima non e' prevista la corresponsione di alcuna indennita' o compenso ne' rimborso spese.
 
-#### Art. 45
+### Art. 45
 
 Procedura di comitato
 
@@ -1200,11 +1188,9 @@ Procedura di comitato
 
 > \- Per i riferimenti normativi alla direttiva 2014/53/UE, si veda nelle note alle premesse.
 
-## Capo VII
+## Capo VII - SANZIONI
 
-### SANZIONI
-
-#### Art. 46
+### Art. 46
 
 Sanzioni
 
@@ -1240,11 +1226,9 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 9 luglio 2024, n. 100, ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
 
-## Capo VIII
+## Capo VIII - DISPOSIZIONI TRANSITORIE E FINALI
 
-### DISPOSIZIONI TRANSITORIE E FINALI
-
-#### Art. 47
+### Art. 47
 
 Revisione e relazioni
 
@@ -1254,13 +1238,13 @@ Revisione e relazioni
 
 > \- Per i riferimenti normativi alla direttiva 2014/53/UE, si veda nelle note alle premesse.
 
-#### Art. 48
+### Art. 48
 
 Disposizioni transitorie
 
 1\. E' consentita la messa a disposizione sul mercato o la messa in servizio delle apparecchiature radio oggetto del presente decreto che sono conformi alla normativa vigente prima del 13 giugno 2016 e che sono state immesse sul mercato anteriormente al 13 giugno 2017.
 
-#### Art. 49
+### Art. 49
 
 Disposizioni finali
 
@@ -1274,7 +1258,7 @@ Disposizioni finali
 
 > \- Per i riferimenti normativi alla direttiva 2014/53/UE, si veda nelle note alle premesse.
 
-#### Art. 50
+### Art. 50
 
 Abrogazione
 
@@ -1310,7 +1294,7 @@ Abrogazione
 
 > \- Per i riferimenti normativi del decreto legislativo 26 ottobre 2010, n. 198, si veda nelle note alle premesse.
 
-#### Art. 51
+### Art. 51
 
 Clausola di invarianza finanziaria
 
@@ -1318,7 +1302,7 @@ Clausola di invarianza finanziaria
 
 Le amministrazioni pubbliche competenti provvedono all'adempimento dei compiti derivanti dal presente decreto con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-#### Art. 52
+### Art. 52
 
 Entrata in vigore
 
@@ -1350,7 +1334,7 @@ Visto, il Guardasigilli: Orlando
 
 ## Allegati
 
-#### Allegato I
+### Allegato I
 
 Allegato I
 
@@ -1376,7 +1360,7 @@ b) aeromobili senza equipaggio e relativi motori, eliche, parti ed equipaggiamen
 
 4\. Kit di valutazione su misura per professionisti, destinati a essere utilizzati unicamente in strutture di ricerca e sviluppo a tali fini.
 
-#### Allegato I bis
+### Allegato I bis
 
 ((Allegato I-bis
 
@@ -1474,7 +1458,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 9 luglio 2024, n. 100, ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
 
-#### Allegato II
+### Allegato II
 
 Allegato II
 
@@ -1504,7 +1488,7 @@ Il fabbricante prende tutte le misure necessarie affinche' il processo di fabbri
 
 Gli obblighi del fabbricante di cui al punto 4 possono essere adempiuti dal suo rappresentante autorizzato, a nome del fabbricante e sotto la sua responsabilita', purche' siano specificati nel mandato.
 
-#### Allegato III
+### Allegato III
 
 Allegato III
 
@@ -1566,7 +1550,7 @@ Il fabbricante prende tutte le misure necessarie affinche' il processo di fabbri
 
 Gli obblighi del fabbricante di cui al punto 3 possono essere adempiuti dal suo rappresentante autorizzato, a nome del fabbricante e sotto la sua responsabilita', purche' siano specificati nel mandato.
 
-#### Allegato IV
+### Allegato IV
 
 Allegato IV
 
@@ -1654,7 +1638,7 @@ d) le decisioni e le relazioni trasmesse dall'organismo notificato di cui ai pun
 
 Gli obblighi del fabbricante di cui ai punti 3.1, 3.5, 5 e 6 possono essere adempiuti dal suo rappresentante autorizzato, a nome del fabbricante e sotto la sua responsabilita', purche' siano specificati nel mandato.
 
-#### Allegato V
+### Allegato V
 
 Allegato V
 
@@ -1686,7 +1670,7 @@ h) le relazioni sulle prove effettuate;
 
 i) una spiegazione in merito alla conformita' ai requisiti di cui all'articolo 10, comma 2, e alla disponibilita' o meno sulla confezione delle informazioni ai sensi dell'articolo 10, comma 10.
 
-#### Allegato VI
+### Allegato VI
 
 Allegato VI
 
@@ -1724,7 +1708,7 @@ Firmato a nome e per conto di: ...
 
 (1) L'assegnazione di un numero, da parte del fabbricante, alla dichiarazione di conformita' UE e' opzionale.
 
-#### Allegato VII
+### Allegato VII
 
 Allegato VII
 

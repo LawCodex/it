@@ -30,7 +30,7 @@ la seguente legge:
 
 ## CAPO I - DISPOSIZIONI GENERALI
 
-#### ART. 1
+### ART. 1
 
 Finalita'
 
@@ -44,7 +44,7 @@ AGGIORNAMENTO (4)
 
 La L. 24 aprile 1998, n. 128 ha disposto (con l'art. 16, comma 3) che la disposizione di cui al comma 2 del presente articolo 1 ha efficacia decorsi centoventi giorni dalla data di entrata in vigore della suddetta legge.
 
-#### ART. 2
+### ART. 2
 
 Definizioni
 
@@ -74,7 +74,7 @@ c) rifiuti di amianto: i materiali di scarto delle attivita' estrattive di amian
 
 > tremolite (n. CAS 77536-68-6)".
 
-#### ART. 3
+### ART. 3
 
 (( (Valori limite.)
 
@@ -96,11 +96,9 @@ AGGIORNAMENTO (4)
 
 La L. 24 aprile 1998, n. 128 ha disposto (con l'art. 16, comma 3) che le disposizioni di cui al presente articolo 3 hanno efficacia decorsi centoventi giorni dalla data di entrata in vigore della suddetta legge.
 
-## CAPO II - ISTITUZIONE DELLA COMMISSIONE DI
+## CAPO II - ISTITUZIONE DELLA COMMISSIONE DI VALUTAZIONE E NORME DI ATTUAZIONE
 
-### VALUTAZIONE E NORME DI ATTUAZIONE
-
-#### ART. 4
+### ART. 4
 
 Istituzione della commissione per la
 
@@ -146,7 +144,7 @@ n) un rappresentante delle associazioni di protezione ambientale di cui all'arti
 
 > 2\. Il Ministro, al solo fine di ottenere, per la prima composizione del Consiglio nazionale per l'ambiente, le terne di cui al precedente art. 12, comma 1, lettera c), effettua, entro trenta giorni dall'entrata in vigore della presente legge, una prima individuazione delle associazioni a carattere nazionale e di quelle presenti in almeno cinque regioni, secondo i criteri di cui al precedente comma 1, e ne informa il Parlamento".
 
-#### ART. 5
+### ART. 5
 
 Compiti della commissione
 
@@ -172,7 +170,7 @@ f) a predisporre, entro centottanta giorni dalla data di entrata in vigore della
 
 > \- Il D.P.R. n. 915/1982 reca: "Attuazione delle direttive CEE n. 75/442 relativa ai rifiuti, n. 76/403 relativa allo smaltimento dei policlorodifenili e dei policlorotrifenili e n. 78/319 relativa ai rifiuti tossici e nocivi".
 
-#### ART. 6
+### ART. 6
 
 Norme di attuazione
 
@@ -202,7 +200,7 @@ Norme di attuazione
 
 > d) gli atti di indirizzo e di coordinamento dell'attivita' amministrativa delle regioni e, nel rispetto delle disposizioni statutarie, delle regioni a statuto speciale e delle province autonome di Trento e Bolzano; gli atti di sua competenza previsti dall'art. 127 della Costituzione e dagli statuti regionali e delle province autonome di Trento e Bolzano, salvo quanto stabilito dagli statuti speciali per la regione siciliana e per la regione Valle d'Aosta".
 
-#### ART. 7
+### ART. 7
 
 Conferenza nazionale
 
@@ -234,11 +232,9 @@ Conferenza nazionale
 
 > \- Per il testo dell'art. 13 della legge n. 349/1986 si veda in nota all'art. 4.
 
-## CAPO III - TUTELA DELL'AMBIENTE
+## CAPO III - TUTELA DELL'AMBIENTE E DELLA SALUTE
 
-### E DELLA SALUTE
-
-#### ART. 8
+### ART. 8
 
 Classificazione, imballaggio, etichettatura
 
@@ -250,7 +246,7 @@ Classificazione, imballaggio, etichettatura
 
 > \- Il D.P.R. n. 215/1988 reca: "Attuazione delle direttive CEE numeri 83/478 e 85/610 recanti, rispettivamente, la quinta e la settima modifica (amianto) della direttiva CEE n. 76/769 per il ravvicinamento delle disposizioni legisla- tive, regolamentari ed amministrative degli Stati membri relative alle restrizioni in materia di immissione sul mercato e di uso di talune sostanze e preparati pericolosi, ai sensi dell'art. 15 della legge 16 aprile 1987, n. 183".
 
-#### ART. 9
+### ART. 9
 
 Controllo sulle dispersioni causate dai
 
@@ -272,7 +268,7 @@ d) le misure adottate o in via di adozione ai fini della tutela della salute dei
 
 3\. Nella prima attuazione della presente legge la relazione di cui al comma 1 deve riferirisi anche alle attivita' dell'impresa svolte nell'ultimo quinquennio ed essere articolata per ciascin anno.
 
-#### ART. 10
+### ART. 10
 
 Piani regionali e delle province autonome
 
@@ -308,7 +304,7 @@ l) il censimento degli edifici nei quali siano presenti materiali o prodotti con
 
 > \- Per il titolo del D.P.R. n. 915/1982 si veda in nota all'art. 5.
 
-#### ART. 11
+### ART. 11
 
 Risanamento della miniera di Balangero
 
@@ -318,7 +314,7 @@ Risanamento della miniera di Balangero
 
 3\. All'onere derivante dall'attuazione del comma 2, pari a lire 15 miliardi per l'anno 1992 e a lire 15 miliardi per l'anno 1993, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1992-1994, al capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno 1992, all'uopo parzialmente utilizzando l'accantonamento "Norme per la riconversione delle produzioni a base di amianto (di cui lire 6,3 miliardi quale limite di impegno dal 1993)".
 
-#### ART. 12
+### ART. 12
 
 Rimozione dell'amianto
 
@@ -392,11 +388,9 @@ e tutela dell'ambiente
 
 > f) agli esplosivi".
 
-## CAPO IV - MISURE DI SOSTEGNO
+## CAPO IV - MISURE DI SOSTEGNO PER I LAVORATORI
 
-### PER I LAVORATORI
-
-#### Art. 13
+### Art. 13
 
 Trattamento straordinario di integrazione salariale e pensionamento anticipato
 
@@ -440,7 +434,7 @@ La L. 27 dicembre 2017, n. 205 ha disposto (con l'art. 1, comma 247) che "I bene
 
 ## CAPO V - SOSTEGNO ALLE IMPRESE
 
-#### ART. 14
+### ART. 14
 
 ((ARTICOLO ABROGATO DAL D.L. 22 GIUGNO 2012, N. 83, CONVERTITO, CON MODIFICAZIONI, DALLA L. 7 AGOSTO 2012, N. 134)) ((8))
 
@@ -452,7 +446,7 @@ Il D.L. 22 giugno 2012, n. 83, convertito con modificazioni dalla L. 7 agosto 20
 
 ## CAPO VI - SANZIONI
 
-#### ART. 15
+### ART. 15
 
 Sanzioni
 
@@ -468,7 +462,7 @@ Sanzioni
 
 ## CAPO VII - DISPOSIZIONI FINANZIARIE
 
-#### ART. 16
+### ART. 16
 
 Disposizioni finanziarie
 
@@ -494,7 +488,7 @@ ANDREOTTI, Presidente del Consiglio dei Ministri Visto, Il Guardasigilli: MARTEL
 
 ## CAPO VII - DISPOSIZIONI FINANZIARIE
 
-#### Tabella
+### Tabella
 
 TABELLA
 

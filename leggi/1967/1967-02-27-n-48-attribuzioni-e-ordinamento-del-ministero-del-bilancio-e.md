@@ -26,15 +26,13 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - ATTRIBUZIONI ED ORDINAMENTO DEL MINISTERO DEL BILANCIO E DELLA
+## TITOLO I - ATTRIBUZIONI ED ORDINAMENTO DEL MINISTERO DEL BILANCIO E DELLA PROGRAMMAZIONE ECONOMICA
 
-### PROGRAMMAZIONE ECONOMICA
-
-#### Art. 1
+### Art. 1
 
 ((ARTICOLO ABROGATO DAL D.LGS. 5 DICEMBRE 1997, N. 430))
 
-#### Art. 2 - Attribuzioni del Ministero in materia di bilancio, economica e finanziaria
+### Art. 2 - Attribuzioni del Ministero in materia di bilancio, economica e finanziaria
 
 Il Ministro per il bilancio e per la programmazione economica:
 
@@ -46,7 +44,7 @@ c) entro il primo giorno non festivo di ottobre fa la esposizione economico-fina
 
 d) da' il proprio concerto ai Ministri interessati per la presentazione dei provvedimenti legislativi che comportino autorizzazione di spese correnti od in conto capitale per un importo superiore ad un miliardo di lire ovvero che comportino autorizzazione di spese in conto capitale poste a carico di piu' esercizi finanziari, qualunque sia l'ammontare, nonche' alla presentazione dei provvedimenti legislativi che comportino diminuzione di entrate od istituzione di nuovi tributi o modificazioni nei riguardi dei tributi vigenti.
 
-#### Art. 3 - Attribuzioni del Ministro in materia di programmazione economica
+### Art. 3 - Attribuzioni del Ministro in materia di programmazione economica
 
 Il Ministro per il bilancio e per la programmazione economica:
 
@@ -58,23 +56,23 @@ c) da' preventivo parere ai disegni di legge e agli atti aventi forza di legge r
 
 d) riferisce periodicamente al Presidente del Consiglio dei Ministri ed al Comitato interministeriale di cui all'articolo 16 sull'attuazione del programma.
 
-#### Art. 4
+### Art. 4
 
 ((ARTICOLO ABROGATO DAL D.P.R. 20 FEBBRAIO 1998, N. 38))
 
-#### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.P.R. 20 FEBBRAIO 1998, N. 38))
 
-#### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.P.R. 20 FEBBRAIO 1998, N. 38))
 
-#### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DAL D.P.R. 20 FEBBRAIO 1998, N. 38))
 
-#### Art. 8 - Commissione consultiva interministeriale per la programmazione economica
+### Art. 8 - Commissione consultiva interministeriale per la programmazione economica
 
 E' costituita presso il Ministero del bilancio e della programmazione economica una Commissione consultiva interministeriale per l'esame dei problemi pertinenti alle varie Amministrazioni in materia di programmazione. Detta Commissione e' presieduta dal Ministro e ne fanno parte il segretario della programmazione, il direttore generale per l'attuazione della programmazione economica e rappresentanti della Presidenza del Consiglio dei Ministri e di ciascun Ministero.
 
@@ -92,7 +90,7 @@ AGGIORNAMENTO (10)
 
 Il D.P.R. 9 maggio 1994, n. 608 ha disposto (con l'art. 2, comma 1) che e' soppresso, ai sensi dell'art. 1, comma 28, lettera a), della legge 24 dicembre 1993, n. 537, l'organo collegiale "Commissione consultiva interministeriale" di cui al presente provvedimento.
 
-#### Art. 9 - Commissione consultiva interregionale
+### Art. 9 - Commissione consultiva interregionale
 
 E' costituita presso il Ministero del bilancio e della programmazione economica una Commissione consultiva interregionale per l'esame dei problemi riguardanti le Regioni in materia di programmazione.
 
@@ -106,7 +104,7 @@ AGGIORNAMENTO (6)
 
 Il D.Lgs. 16 dicembre 1989, n. 418 ha disposto (con l'art. 3, comma 1) che la Commissione interregionale per la programmazione economica di cui al presente articolo e' soppressa; ha inoltre disposto (con l'art. 3, comma 2) che "Le attribuzioni conferite agli organismi di cui al comma 1 dalla legge, dal regolamento o da atto amministrativo e relative alle funzioni indicate dal comma 1 dell'art. 1 sono trasferite alla Conferenza".
 
-#### Art. 10
+### Art. 10
 
 ((ARTICOLO ABROGATO DAL D.P.R. 20 FEBBRAIO 1998, N. 38)) ((9a))
 
@@ -116,7 +114,7 @@ AGGIORNAMENTO (9a)
 
 Il D.P.R. 20 febbraio 1998, n. 38 ha disposto (con l'art. 4, comma 3) che e' soppresso l'incarico di Segretario generale della programmazione economica previsto dal presente articolo.
 
-#### Art. 11 - Ruolo del personale per i compiti della programmazione
+### Art. 11 - Ruolo del personale per i compiti della programmazione
 
 Per i compiti di studio e di attuazione della programmazione e' istituito un ruolo di consiglieri economici nel campo tecnico ed economico. Il ruolo ha una dotazione organica di trenta unita', distinta come dalla allegata tabella A.
 
@@ -140,7 +138,7 @@ Possono essere ammessi al concorso, di cui al comma precedente, anche i laureati
 
 I partecipanti al concorso di cui al presente articolo debbono essere in possesso dei requisiti generali per l'accesso agli impieghi civili dello Stato, salvo quello del limite di eta', che, per gli appartenenti alle categorie indicate nei punti a), c) ed e) e' stabilita in anni quaranta.
 
-#### Art. 12 - Promozioni e nomina di consiglieri economici
+### Art. 12 - Promozioni e nomina di consiglieri economici
 
 La promozione a consigliere economico di seconda classe si consegue mediante scrutinio per merito comparativo al quale sono ammessi i consiglieri economici di terza classe che abbiano compiuto tre anni di effettivo servizio nella qualifica.
 
@@ -150,7 +148,7 @@ Nella prima attuazione della presente legge, con decreto del Presidente della Re
 
 Le persone predette debbono essere in possesso dei requisiti generali per l'accesso agli impieghi civili dello Stato, salvo i limiti di eta'.
 
-#### Art. 13
+### Art. 13
 
 (Delega e disposizioni per l'istituzione dei ruoli organici del
 
@@ -178,7 +176,7 @@ Il provvedimento delegato potra' anche stabilire che una aliquota non superiore 
 
 Le norme delegate disciplineranno, altresi', l'inquadramento a domanda dei sottufficiali e militari di truppa in carriera continuativa o raffermati, in servizio presso il Ministero del bilancio o la Segreteria generale del C.I.R. almeno dal 30 giugno 1966, nei ruoli organici ai sensi del precedente terzo comma con le opportune norme di equiparazione.
 
-#### Art. 14 - Conferimento di incarichi professionali ed assunzioni di personale specializzato
+### Art. 14 - Conferimento di incarichi professionali ed assunzioni di personale specializzato
 
 In relazione a particolari esigenze, il Ministro per il bilancio e per la programmazione economica e' autorizzato a conferire, prescindendo dalle limitazioni di cui all'articolo 380, terzo comma, del testo unico approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, speciali incarichi professionali ad esperti estranei all'Amministrazione dello Stato, con la remunerazione da stabilire con il decreto di conferimento dell'incarico, anche in deroga alle vigenti disposizioni.
 
@@ -186,7 +184,7 @@ Il Ministro per il bilancio e per la programmazione economica puo' assumere pers
 
 Il contingente di personale specializzato da assumere a contratto, ai sensi del comma precedente, e' determinato con decreto del Ministro per il bilancio e per la programmazione economica, di concerto con il Ministro per il tesoro. Con apposito disciplinare da adottarsi con decreto del Ministro per il bilancio e per la programmazione economica, di concerto con il Ministro per il tesoro saranno stabilite le modalita' di retribuzione e le altre norme necessarie ad integrare la disciplina del rapporto, al quale si applicano le disposizioni di cui agli articoli 5, 6, 7, 9 e 12 della legge 23 giugno 1961, n. 520.
 
-#### Art. 15 - Esecuzioni di indagini da parte di istituti di ricerca
+### Art. 15 - Esecuzioni di indagini da parte di istituti di ricerca
 
 Per le indagini, gli studi e le rilevazioni da compiere ai fini della presente legge, il Ministro per il bilancio e per la programmazione economica si avvale dell'Istituto di studi per la programmazione economica (I.S.P.E.), di cui all'articolo 19.
 
@@ -196,11 +194,9 @@ L'esecuzione di particolari indagini o studi puo' essere affidata ad altri Enti 
 
 Le Regioni e le Province di Trento e di Bolzano possono richiedere agli Istituti, di cui al primo e secondo comma, elementi necessari all'adempimento dei propri compiti in ordine alla programmazione economica.
 
-## TITOLO II. - COMITATO INTERMINISTERIALE PER LA PROGRAMMAZIONE
+## TITOLO II. - COMITATO INTERMINISTERIALE PER LA PROGRAMMAZIONE ECONOMICA
 
-### ECONOMICA
-
-#### Art. 16 - Costituzione ed attribuzioni del Comitato interministeriale per la programmazione economica
+### Art. 16 - Costituzione ed attribuzioni del Comitato interministeriale per la programmazione economica
 
 E' costituito il "Comitato interministeriale per la programmazione economica".
 
@@ -244,7 +240,7 @@ AGGIORNAMENTO (17)
 
 Il D.L. 14 ottobre 2019, n. 111, convertito con modificazioni dalla L. 12 dicembre 2019, n. 141, ha disposto (con l'art. 1-bis, comma 1) che a decorrere dal 1° gennaio 2021 "nella legge 27 febbraio 1967, n. 48, e in ogni altra disposizione vigente, qualunque richiamo al Comitato interministeriale per la programmazione economica deve intendersi riferito al Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile (CIPESS)".
 
-#### Art. 17 - Approvazione da parte del Comitato interministeriale per la programmazione economica del programma annuale di attivita' dell'Istituto centrale di statistica in materia di programmazione economica
+### Art. 17 - Approvazione da parte del Comitato interministeriale per la programmazione economica del programma annuale di attivita' dell'Istituto centrale di statistica in materia di programmazione economica
 
 Il Comitato Interministeriale per la programmazione economica approva il programma annuale di attivita' dell'Istituto centrale di statistica per quanto concerne le rilevazioni interessanti la programmazione economica, ferme restando, per la vigilanza dell'Istituto le disposizioni di cui al regio decreto-legge 27 maggio 1929, n. 1285, convertito nella legge 21 dicembre 1929, n. 2238.
 
@@ -260,7 +256,7 @@ AGGIORNAMENTO (17)
 
 Il D.L. 14 ottobre 2019, n. 111, convertito con modificazioni dalla L. 12 dicembre 2019, n. 141, ha disposto (con l'art. 1-bis, comma 1) che a decorrere dal 1° gennaio 2021 "nella legge 27 febbraio 1967, n. 48, e in ogni altra disposizione vigente, qualunque richiamo al Comitato interministeriale per la programmazione economica deve intendersi riferito al Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile (CIPESS)".
 
-#### Art. 18 - Soppressione del Comitato interministeriale per la ricostruzione e delega per il riordinamento degli altri Comitati interministeriali con competenza in materia economica e finanziaria
+### Art. 18 - Soppressione del Comitato interministeriale per la ricostruzione e delega per il riordinamento degli altri Comitati interministeriali con competenza in materia economica e finanziaria
 
 Il Comitato interministeriale per la ricostruzione (C.I.R.) istituito in base al decreto legislativo luogotenenziale 12 luglio 1945, n. 432, e' soppresso.
 
@@ -284,11 +280,9 @@ AGGIORNAMENTO (17)
 
 Il D.L. 14 ottobre 2019, n. 111, convertito con modificazioni dalla L. 12 dicembre 2019, n. 141, ha disposto (con l'art. 1-bis, comma 1) che a decorrere dal 1° gennaio 2021 "nella legge 27 febbraio 1967, n. 48, e in ogni altra disposizione vigente, qualunque richiamo al Comitato interministeriale per la programmazione economica deve intendersi riferito al Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile (CIPESS)".
 
-## TITOLO III. - ISTITUTO DI STUDI
+## TITOLO III. - ISTITUTO DI STUDI PER LA PROGRAMMAZIONE ECONOMICA (I.S.P.E.)
 
-### PER LA PROGRAMMAZIONE ECONOMICA (I.S.P.E.)
-
-#### Art. 19 - Costituzione e attribuzioni dell'I.S.P.E.
+### Art. 19 - Costituzione e attribuzioni dell'I.S.P.E.
 
 ((L'Istituto di studi per la programmazione economica (ISPE) svolge indagini, ricerche e rilevazioni inerenti alla programmazione economica ai fini della preparazione dei documenti programmatici, nonche' alla valutazione preventiva, ove necessario, e all'analisi sullo stato di attuazione dei provvedimenti legislativi di politica economica e sociale e sui loro effetti. Tale attivita' e' svolta con particolare attenzione agli studi sulle tendenze di medio e lungo periodo dell'economia utili alle decisioni di politica economica e sociale del Governo.
 
@@ -306,7 +300,7 @@ L'Istituto svolge, inoltre, gli incarichi che, mediante convenzione, ad esso ven
 
 L'Istituto ha personalita' giuridica di diritto pubblico ed e' sottoposto alla vigilanza ed all'alta direzione del Ministro del bilancio e della programmazione economica, il quale, per il perseguimento dei compiti di cui sopra, impartisce le direttive al presidente dell'Istituto)).
 
-#### Art. 20 - Organi dell'I.S.P.E.
+### Art. 20 - Organi dell'I.S.P.E.
 
 Sono organi dell'Istituto di studi per la programmazione economica: il Presidente;
 
@@ -314,13 +308,13 @@ il Comitato amministrativo;
 
 il Collegio dei revisori.
 
-#### Art. 21 - Presidente dell'I.S.P.E.
+### Art. 21 - Presidente dell'I.S.P.E.
 
 ((Il presidente dell'ISPE e' nominato dal Ministro del bilancio e della programmazione economica tra studiosi particolarmente qualificati nelle discipline economiche.
 
 Con decreto del Ministro del bilancio e della programmazione economica, di concerto con il Ministro del tesoro, sara' stabilita l'indennita' spettante per detto incarico)).
 
-#### Art. 22 - Comitato amministrativo dell'I.S.P.E.
+### Art. 22 - Comitato amministrativo dell'I.S.P.E.
 
 ((Il comitato amministrativo e' composto dal presidente dell'Istituto e da sette membri, di cui uno designato dal Presidente del Consiglio dei Ministri, due dal Ministro del bilancio e della programmazione economica, uno dal Ministro del tesoro, tre dalla Conferenza permanente dei presidenti delle giunte regionali e delle province autonome di Trento e Bolzano.
 
@@ -330,7 +324,7 @@ Il presidente ed i membri del comitato amministrativo restano in carica tre anni
 
 Alle riunioni del comitato amministrativo partecipa il direttore dell'Istituto con voto consultivo)).
 
-#### Art. 23 - Attribuzioni del Comitato amministrativo dell'I.S.P.E.
+### Art. 23 - Attribuzioni del Comitato amministrativo dell'I.S.P.E.
 
 Il Comitato amministrativo dell'Istituto di studi per la programmazione economica provvede all'amministrazione dell'Istituto ed in particolare:
 
@@ -344,13 +338,13 @@ I bilanci preventivi e consuntivi, nonche' copia delle deliberazioni adottate da
 
 Le deliberazioni del Comitato amministrativo sono esecutive dopo venti giorni dall'invio delle rispettive copie al Ministero del bilancio e della programmazione economica.
 
-#### Art. 24 - Deliberazioni dello statuto e organizzazione interna dell'istituto
+### Art. 24 - Deliberazioni dello statuto e organizzazione interna dell'istituto
 
 Nella sua prima sessione il Comitato amministrativo deliberera' lo statuto dell'Istituto, da approvarsi con decreto del Presidente della Repubblica, sulla proposta del Ministro per il bilancio e per la programmazione economica, di concerto con il Ministro per il tesoro.
 
 Lo statuto determinera' l'organizzazione dell'Istituto.
 
-#### Art. 25 - Collegio dei revisori dei conti dell'I.S.P.E.
+### Art. 25 - Collegio dei revisori dei conti dell'I.S.P.E.
 
 Il Collegio dei revisori dei conti dell'Istituto di studi per la programmazione economica e' nominato con decreto del Ministro per il bilancio e per la programmazione economica e dura in carica tre anni.
 
@@ -366,19 +360,19 @@ c) eseguire il riscontro finanziario della gestione;
 
 d) redigere apposite relazioni ai bilanci preventivi e consuntivi dell'Istituto.
 
-#### Art. 26 - Del personale dell'I.S.P.E. e del relativo trattamento economico
+### Art. 26 - Del personale dell'I.S.P.E. e del relativo trattamento economico
 
 La consistenza numerica del personale necessario per le esigenze funzionali dell'Istituto, nonche' lo stato giuridico ed il trattamento economico di attivita', a qualsiasi titolo, e di previdenza e quiescenza del personale medesimo sono stabiliti, con deliberazione del Comitato amministrativo da sottoporre alla approvazione del Ministro per il bilancio e per la programmazione economica, di concerto con il Ministro per il tesoro.
 
-#### Art. 27 - Trattamento tributario nei riguardi dell'I.S.P.E.
+### Art. 27 - Trattamento tributario nei riguardi dell'I.S.P.E.
 
 Agli effetti di qualsiasi imposta, tassa o diritto in genere stabiliti dalle leggi generali, escluse le tasse postali telegrafiche e telefoniche, l'Istituto di studi per la programmazione economica e' parificato alle Amministrazioni dello Stato.
 
-#### Art. 28 - Controllo della Corte dei conti nei riguardi dell'I.S.P.E
+### Art. 28 - Controllo della Corte dei conti nei riguardi dell'I.S.P.E
 
 La gestione finanziaria dell'Istituto e' assoggettata al controllo della Corte dei conti a norma degli articoli 4, 5 e 6 della legge 21 marzo 1958, n. 259.
 
-#### Art. 29 - Spese per il funzionamento dell'ISPE
+### Art. 29 - Spese per il funzionamento dell'ISPE
 
 ((Al conseguimento dei fini istituzionali indicati nello articolo 19 della presente legge l'Istituto provvede:
 
@@ -402,11 +396,11 @@ La L. 18 marzo 1968, n. 239 ha disposto (con l'art. 1) che "Il contributo dello 
 
 ## TITOLO IV - DISPOSIZIONI TRANSITORIE FINALI E FINANZIARIE
 
-#### Art. 30 - Rappresentanza del Ministero in seno ad enti ed istituti pubblici
+### Art. 30 - Rappresentanza del Ministero in seno ad enti ed istituti pubblici
 
 Il Governo della Repubblica e' delegato ad emanare, entro un anno dall'entrata in vigore della presente legge, le norme necessarie per la integrazione con un rappresentante del Ministero del bilancio e della programmazione economica degli organi deliberativi degli enti ed istituti aventi personalita' giuridica di diritto pubblico, che svolgano azione economica e sociale rilevante ai fini della programmazione economica e siano sottoposti ai controlli di cui alla legge 21 marzo 1958, n. 259.
 
-#### Art. 31 - Informazioni e dati in relazione ai compiti del Comitato interministeriale per la programmazione economica e del Ministero
+### Art. 31 - Informazioni e dati in relazione ai compiti del Comitato interministeriale per la programmazione economica e del Ministero
 
 Gli organi della pubblica Amministrazione e gli enti pubblici sono tenuti a fornire al Comitato interministeriale per la programmazione economica e al Ministero del bilancio e della programmazione economica le informazioni, i dati e gli elementi che vengano ad essi richiesti in relazione ai compiti che sono demandati al Comitato ed al Ministero medesimo ed ai fini dell'elaborazione, attuazione e verifica del programma economico nazionale.
 
@@ -418,11 +412,11 @@ AGGIORNAMENTO (17)
 
 Il D.L. 14 ottobre 2019, n. 111, convertito con modificazioni dalla L. 12 dicembre 2019, n. 141, ha disposto (con l'art. 1-bis, comma 1) che a decorrere dal 1° gennaio 2021 "nella legge 27 febbraio 1967, n. 48, e in ogni altra disposizione vigente, qualunque richiamo al Comitato interministeriale per la programmazione economica deve intendersi riferito al Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile (CIPESS)".
 
-#### Art. 32 - Abrogazione di disposizioni legislative
+### Art. 32 - Abrogazione di disposizioni legislative
 
 Sono abrogati gli articoli 2 e seguenti del decreto legislativo del Capo provvisorio dello Stato 4 giugno 1947, n. 407, il decreto del Capo provvisorio dello Stato 4 novembre 1947, n. 1584, nonche' ogni altra norma contraria o incompatibile con la presente legge, la quale entra in vigore il primo giorno del mese successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
-#### Art. 33 - Spese per il primo funzionamento del Ministero, del Comitato interministeriale per la programmazione economica e dell'Istituto di studi per la programmazione economica
+### Art. 33 - Spese per il primo funzionamento del Ministero, del Comitato interministeriale per la programmazione economica e dell'Istituto di studi per la programmazione economica
 
 Fino all'approvazione dello stato di previsione della spesa del Ministero del bilancio e della programmazione economica, alle spese occorrenti sara' provveduto con gli stanziamenti dello stato di previsione della spesa del Ministero del bilancio, nonche' con i fondi iscritti nello stato di previsione della spesa del Ministero del tesoro per i servizi del Comitato interministeriale per la ricostruzione (C.I.R.), che saranno trasferiti, in uno con le disponibilita' esistenti in conto residui, allo stesso stato di previsione del Ministero del bilancio.
 
@@ -452,7 +446,7 @@ Il D.L. 14 ottobre 2019, n. 111, convertito con modificazioni dalla L. 12 dicemb
 
 ## TITOLO IV - DISPOSIZIONI TRANSITORIE FINALI E FINANZIARIE
 
-#### Tabella A
+### Tabella A
 
 TABELLA A
 

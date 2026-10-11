@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I
+## Capo I - MODIFICHE ALLA LEGISLAZIONE VIGENTE IN MATERIA DI USURA E DI ESTORSIONE
 
-### MODIFICHE ALLA LEGISLAZIONE VIGENTE IN MATERIA DI USURA E DI - ESTORSIONE
-
-###### Art. 1
+##### Art. 1
 
 Modifiche alla legge 7 marzo 1996, n. 108
 
@@ -180,7 +178,7 @@ La partecipazione alla commissione e' a titolo gratuito. Le riunioni della commi
 
 > 6-ter. Ove sussistano tutte le condizioni indicate nel comma 1, e' consentita la presentazione di un'unica istanza di riabilitazione anche in riferimento a piu' protesti, purche' compresi nello spazio temporale di un triennio.".
 
-###### Art. 2
+##### Art. 2
 
 Modifiche alla legge 23 febbraio 1999, n. 44
 
@@ -256,7 +254,7 @@ d) all'articolo 20:
 
 > 4\. A decorrere dalla data di entrata in vigore del regolamento previsto dall'articolo 21, la gestione del Fondo di solidarieta' per le vittime delle richieste estorsive, istituito dall'articolo 18 della presente legge, e del Fondo di solidarieta' per le vittime dell'usura, istituito dall'articolo 14, comma 1, della legge 7 marzo 1996, n. 108 , e' attribuita alla CONSAP, che vi provvede per conto del Ministero dell'interno sulla base di apposita concessione.
 
-###### Art. 3
+##### Art. 3
 
 Modifica all'articolo 1, comma 881, della legge 27 dicembre 2006, n. 296
 
@@ -270,7 +268,7 @@ Modifica all'articolo 1, comma 881, della legge 27 dicembre 2006, n. 296
 
 > Tali risorse sono attribuite unitariamente al patrimonio a fini di vigilanza dei relativi confidi, senza vincoli di destinazione, fatta eccezione per i soggetti di cui all'articolo 2 del regolamento di cui al decreto del Presidente della Repubblica 11 giugno 1997, n. 315, per i quali permangono i vincoli di destinazione previsti dalla legge 7 marzo 1996, n. 108.".
 
-###### Art. 4
+##### Art. 4
 
 Modifiche all'articolo 629 del codice penale
 
@@ -290,7 +288,7 @@ b) al secondo comma, le parole: «da euro 1.032 a euro 3.098» sono sostituite d
 
 > La pena e' della reclusione da sei a venti anni e della multa da euro 5.000 a euro 15.000, se concorre taluna delle circostanze indicate nell'ultimo capoverso dell'articolo precedente .".
 
-###### Art. 5
+##### Art. 5
 
 Modifica all'articolo 135 del decreto legislativo 12 aprile 2006, n. 163
 
@@ -310,17 +308,13 @@ Modifica all'articolo 135 del decreto legislativo 12 aprile 2006, n. 163
 
 > 2\. Nel caso di risoluzione, l'appaltatore ha diritto soltanto al pagamento dei lavori regolarmente eseguiti, decurtato degli oneri aggiuntivi derivanti dallo scioglimento del contratto.".
 
-## CAPO II
+## CAPO II - ((PROCEDIMENTI DI COMPOSIZIONE DELLA CRISI DA SOVRAINDEBITAMENTO E DI LIQUIDAZIONE DEL PATRIMONIO))
 
-### ((PROCEDIMENTI DI COMPOSIZIONE DELLA CRISI DA SOVRAINDEBITAMENTO E DI - LIQUIDAZIONE DEL PATRIMONIO))
+### ((SEZIONE PRIMA - PROCEDURE DI COMPOSIZIONE DELLA CRISI DA SOVRAINDEBITAMENTO))
 
-#### ((SEZIONE PRIMA
+#### ((§ 1 Disposizioni generali))
 
-##### PROCEDURE DI COMPOSIZIONE DELLA CRISI DA SOVRAINDEBITAMENTO))
-
-###### ((§ 1 Disposizioni generali))
-
-###### Art. 6
+##### Art. 6
 
 Finalita' e definizioni
 
@@ -346,7 +340,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 28 ottobre 2020, n. 137, convertito con modificazioni dalla L. 18 dicembre 2020, n. 176, ha disposto (con l'art. 4-ter, comma 2) che "Le disposizioni di cui al comma 1 si applicano anche alle procedure pendenti alla data di entrata in vigore della legge di conversione del presente decreto".
 
-###### Art. 7
+##### Art. 7
 
 Presupposti di ammissibilita'
 
@@ -392,7 +386,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 28 ottobre 2020, n. 137, convertito con modificazioni dalla L. 18 dicembre 2020, n. 176, ha disposto (con l'art. 4-ter, comma 2) che "Le disposizioni di cui al comma 1 si applicano anche alle procedure pendenti alla data di entrata in vigore della legge di conversione del presente decreto".
 
-###### Art. 7-bis
+##### Art. 7-bis
 
 (( (Procedure familiari).))
 
@@ -412,7 +406,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 28 ottobre 2020, n. 137, convertito con modificazioni dalla L. 18 dicembre 2020, n. 176, ha disposto (con l'art. 4-ter, comma 2) che "Le disposizioni di cui al comma 1 si applicano anche alle procedure pendenti alla data di entrata in vigore della legge di conversione del presente decreto".
 
-###### Art. 8
+##### Art. 8
 
 Contenuto dell'accordo o del piano del consumatore
 
@@ -446,7 +440,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 28 ottobre 2020, n. 137, convertito con modificazioni dalla L. 18 dicembre 2020, n. 176, ha disposto (con l'art. 4-ter, comma 2) che "Le disposizioni di cui al comma 1 si applicano anche alle procedure pendenti alla data di entrata in vigore della legge di conversione del presente decreto".
 
-###### Art. 9
+##### Art. 9
 
 Deposito della proposta
 
@@ -504,9 +498,9 @@ AGGIORNAMENTO (5)
 
 Il D.L. 28 ottobre 2020, n. 137, convertito con modificazioni dalla L. 18 dicembre 2020, n. 176, ha disposto (con l'art. 4-ter, comma 2) che "Le disposizioni di cui al comma 1 si applicano anche alle procedure pendenti alla data di entrata in vigore della legge di conversione del presente decreto".
 
-## ((§ 2 Accordo di composizione della crisi))
+#### ((§ 2 Accordo di composizione della crisi))
 
-###### Art. 10
+##### Art. 10
 
 Procedimento
 
@@ -534,7 +528,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni, dalla L. 17 dicembre 2012, n. 221 ha disposto (con l'art. 18, comma 2) che "Le disposizioni di cui al comma 1 del presente articolo si applicano ai procedimenti instaurati dal trentesimo giorno successivo a quello della data di entrata in vigore della legge di conversione del presente decreto."
 
-###### Art. 11
+##### Art. 11
 
 Raggiungimento dell'accordo
 
@@ -554,7 +548,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221, ha disposto (con l'art. 18, comma 2) che "Le disposizioni di cui al comma 1 del presente articolo si applicano ai procedimenti instaurati dal trentesimo giorno successivo a quello della data di entrata in vigore della legge di conversione del presente decreto".
 
-###### Art. 12
+##### Art. 12
 
 Omologazione dell'accordo
 
@@ -586,9 +580,9 @@ AGGIORNAMENTO (5)
 
 Il D.L. 28 ottobre 2020, n. 137, convertito con modificazioni dalla L. 18 dicembre 2020, n. 176, ha disposto (con l'art. 4-ter, comma 2) che "Le disposizioni di cui al comma 1 si applicano anche alle procedure pendenti alla data di entrata in vigore della legge di conversione del presente decreto".
 
-## ((§ 3 Piano del consumatore))
+#### ((§ 3 Piano del consumatore))
 
-###### Art. 12-bis - Procedimento di omologazione del piano del consumatore
+##### Art. 12-bis - Procedimento di omologazione del piano del consumatore
 
 1\. Il giudice, se la proposta soddisfa i requisiti previsti dagli articoli 7, 8 e 9 e verificata l'assenza di atti in frode ai creditori, fissa immediatamente con decreto l'udienza, disponendo, a cura dell'organismo di composizione della crisi, la comunicazione, almeno trenta giorni prima, a tutti i creditori della proposta e del decreto. Tra il giorno del deposito della documentazione di cui all'articolo 9 e l'udienza non devono decorrere piu' di sessanta giorni.
 
@@ -618,7 +612,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 28 ottobre 2020, n. 137, convertito con modificazioni dalla L. 18 dicembre 2020, n. 176, ha disposto (con l'art. 4-ter, comma 2) che "Le disposizioni di cui al comma 1 si applicano anche alle procedure pendenti alla data di entrata in vigore della legge di conversione del presente decreto".
 
-###### Art. 12-ter
+##### Art. 12-ter
 
 (( (Effetti dell'omologazione del piano del consumatore).))
 
@@ -638,7 +632,7 @@ Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicemb
 
 ## ((§ 4 Esecuzione e cessazione degli effetti dell'accordo di composizione della crisi e del piano del consumatore))
 
-###### Art. 13
+##### Art. 13
 
 Esecuzione dell'accordo o del piano del consumatore
 
@@ -668,7 +662,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 28 ottobre 2020, n. 137, convertito con modificazioni dalla L. 18 dicembre 2020, n. 176, ha disposto (con l'art. 4-ter, comma 2) che "Le disposizioni di cui al comma 1 si applicano anche alle procedure pendenti alla data di entrata in vigore della legge di conversione del presente decreto".
 
-###### Art. 14
+##### Art. 14
 
 Impugnazione e risoluzione dell'accordo
 
@@ -690,7 +684,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221, ha disposto (con l'art. 18, comma 2) che "Le disposizioni di cui al comma 1 del presente articolo si applicano ai procedimenti instaurati dal trentesimo giorno successivo a quello della data di entrata in vigore della legge di conversione del presente decreto."
 
-###### Art. 14-bis
+##### Art. 14-bis
 
 (( (Revoca e cessazione degli effetti dell'omologazione del piano del consumatore).))
 
@@ -716,11 +710,9 @@ AGGIORNAMENTO (1)
 
 Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221, ha disposto (con l'art. 18, comma 2) che "Le disposizioni di cui al comma 1 del presente articolo si applicano ai procedimenti instaurati dal trentesimo giorno successivo a quello della data di entrata in vigore della legge di conversione del presente decreto."
 
-## ((SEZIONE SECONDA
+### ((SEZIONE SECONDA - LIQUIDAZIONE DEL PATRIMONIO))
 
-### LIQUIDAZIONE DEL PATRIMONIO))
-
-###### Art. 14-ter - Liquidazione dei beni
+##### Art. 14-ter - Liquidazione dei beni
 
 1\. In alternativa alla proposta per la composizione della crisi, il debitore, in stato di sovraindebitamento e per il quale non ricorrono le condizioni di inammissibilita' di cui all'articolo 7, comma 2, lettere a) e b), puo' chiedere la liquidazione di tutti i suoi beni.
 
@@ -770,7 +762,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 28 ottobre 2020, n. 137, convertito con modificazioni dalla L. 18 dicembre 2020, n. 176, ha disposto (con l'art. 4-ter, comma 2) che "Le disposizioni di cui al comma 1 si applicano anche alle procedure pendenti alla data di entrata in vigore della legge di conversione del presente decreto".
 
-###### Art. 14-quater
+##### Art. 14-quater
 
 (( (Conversione della procedura di composizione in liquidazione).))
 
@@ -782,7 +774,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221, ha disposto (con l'art. 18, comma 2) che "Le disposizioni di cui al comma 1 del presente articolo si applicano ai procedimenti instaurati dal trentesimo giorno successivo a quello della data di entrata in vigore della legge di conversione del presente decreto."
 
-###### Art. 14-quinquies - Decreto di apertura della liquidazione
+##### Art. 14-quinquies - Decreto di apertura della liquidazione
 
 1\. Il giudice, se la domanda soddisfa i requisiti di cui all'articolo 14-ter, verificata l'assenza di atti in frode ai creditori negli ultimi cinque anni, dichiara aperta la procedura di liquidazione. Si applica l'articolo 10, comma 6.
 
@@ -810,7 +802,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni, dalla L. 17 dicembre 2012, n. 221 ha disposto (con l'art. 18, comma 2) che "Le disposizioni di cui al comma 1 del presente articolo si applicano ai procedimenti instaurati dal trentesimo giorno successivo a quello della data di entrata in vigore della legge di conversione del presente decreto".
 
-###### Art. 14-sexies
+##### Art. 14-sexies
 
 (( (Inventario ed elenco dei creditori).))
 
@@ -828,7 +820,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221 ha disposto (con l'art. 18, comma 2) che "Le disposizioni di cui al comma 1 del presente articolo si applicano ai procedimenti instaurati dal trentesimo giorno successivo a quello della data di entrata in vigore della legge di conversione del presente decreto."
 
-###### Art. 14-septies
+##### Art. 14-septies
 
 (( (Domanda di partecipazione alla liquidazione).))
 
@@ -852,7 +844,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221, ha disposto (con l'art. 18, comma 2) che "Le disposizioni di cui al comma 1 del presente articolo si applicano ai procedimenti instaurati dal trentesimo giorno successivo a quello della data di entrata in vigore della legge di conversione del presente decreto."
 
-###### Art. 14-octies
+##### Art. 14-octies
 
 (( (Formazione del passivo).))
 
@@ -870,7 +862,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221, ha disposto (con l'art. 18, comma 2) che "Le disposizioni di cui al comma 1 del presente articolo si applicano ai procedimenti instaurati dal trentesimo giorno successivo a quello della data di entrata in vigore della legge di conversione del presente decreto."
 
-###### Art. 14-novies
+##### Art. 14-novies
 
 (( (Liquidazione).))
 
@@ -890,7 +882,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221, ha disposto (con l'art. 18, comma 2) che "Le disposizioni di cui al comma 1 del presente articolo si applicano ai procedimenti instaurati dal trentesimo giorno successivo a quello della data di entrata in vigore della legge di conversione del presente decreto."
 
-###### Art. 14-decies
+##### Art. 14-decies
 
 (( (Azioni del liquidatore). ))
 
@@ -914,7 +906,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 28 ottobre 2020, n. 137, convertito con modificazioni dalla L. 18 dicembre 2020, n. 176, ha disposto (con l'art. 4-ter, comma 2) che "Le disposizioni di cui al comma 1 si applicano anche alle procedure pendenti alla data di entrata in vigore della legge di conversione del presente decreto".
 
-###### Art. 14-undecies
+##### Art. 14-undecies
 
 (( (Beni e crediti sopravvenuti).))
 
@@ -926,7 +918,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221, ha disposto (con l'art. 18, comma 2) che "Le disposizioni di cui al comma 1 del presente articolo si applicano ai procedimenti instaurati dal trentesimo giorno successivo a quello della data di entrata in vigore della legge di conversione del presente decreto."
 
-###### Art. 14-duodecies
+##### Art. 14-duodecies
 
 (( (Creditori posteriori). ))
 
@@ -940,7 +932,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221, ha disposto (con l'art. 18, comma 2) che "Le disposizioni di cui al comma 1 del presente articolo si applicano ai procedimenti instaurati dal trentesimo giorno successivo a quello della data di entrata in vigore della legge di conversione del presente decreto."
 
-###### Art. 14-terdecies
+##### Art. 14-terdecies
 
 (( (Esdebitazione). ))
 
@@ -988,7 +980,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221, ha disposto (con l'art. 18, comma 2) che "Le disposizioni di cui al comma 1 del presente articolo si applicano ai procedimenti instaurati dal trentesimo giorno successivo a quello della data di entrata in vigore della legge di conversione del presente decreto."
 
-###### Art. 14-quaterdecies
+##### Art. 14-quaterdecies
 
 (( (Debitore incapiente). ))
 
@@ -1034,11 +1026,9 @@ AGGIORNAMENTO (5)
 
 Il D.L. 28 ottobre 2020, n. 137, convertito con modificazioni dalla L. 18 dicembre 2020, n. 176, ha disposto (con l'art. 4-ter, comma 2) che "Le disposizioni di cui al comma 1 si applicano anche alle procedure pendenti alla data di entrata in vigore della legge di conversione del presente decreto".
 
-## ((SEZIONE TERZA
+### ((SEZIONE TERZA - DISPOSIZIONI COMUNI))
 
-### DISPOSIZIONI COMUNI))
-
-###### Art. 15
+##### Art. 15
 
 (( (Organismi di composizione della crisi). ))
 
@@ -1070,7 +1060,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221, ha disposto (con l'art. 18, comma 2) che "Le disposizioni di cui al comma 1 del presente articolo si applicano ai procedimenti instaurati dal trentesimo giorno successivo a quello della data di entrata in vigore della legge di conversione del presente decreto."
 
-###### Art. 16
+##### Art. 16
 
 (( (Sanzioni). ))
 
@@ -1098,7 +1088,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221, ha disposto (con l'art. 18, comma 2) che "Le disposizioni di cui al comma 1 del presente articolo si applicano ai procedimenti instaurati dal trentesimo giorno successivo a quello della data di entrata in vigore della legge di conversione del presente decreto."
 
-###### Art. 17
+##### Art. 17
 
 ((ARTICOLO NON PIU' PREVISTO DAL D.L. 18 OTTOBRE 2012, N. 179, CONVERTITO CON MODIFICAZIONI DALLA L. 17 DICEMBRE 2012, N. 221 ))((1))
 
@@ -1108,7 +1098,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221 ha disposto (con l'art. 18, comma 2) che "Le disposizioni di cui al comma 1 del presente articolo si applicano ai procedimenti instaurati dal trentesimo giorno successivo a quello della data di entrata in vigore della legge di conversione del presente decreto."
 
-###### Art. 18
+##### Art. 18
 
 ((ARTICOLO NON PIU' PREVISTO DAL D.L. 18 OTTOBRE 2012, N. 179, CONVERTITO CON MODIFICAZIONI DALLA L. 17 DICEMBRE 2012, N. 221)) ((1))
 
@@ -1118,7 +1108,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221, ha disposto (con l'art. 18, comma 2) che "Le disposizioni di cui al comma 1 del presente articolo si applicano ai procedimenti instaurati dal trentesimo giorno successivo a quello della data di entrata in vigore della legge di conversione del presente decreto."
 
-###### Art. 19
+##### Art. 19
 
 ((ARTICOLO NON PIU' PREVISTO DAL D.L. 18 OTTOBRE 2012, N. 179, CONVERTITO CON MODIFICAZIONI DALLA L. 17 DICEMBRE 2012, N. 221)) ((1))
 
@@ -1128,7 +1118,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221, ha disposto (con l'art. 18, comma 2) che "Le disposizioni di cui al comma 1 del presente articolo si applicano ai procedimenti instaurati dal trentesimo giorno successivo a quello della data di entrata in vigore della legge di conversione del presente decreto."
 
-###### Art. 20
+##### Art. 20
 
 ((ARTICOLO NON PIU' PREVISTO DAL D.L. 18 OTTOBRE 2012, N. 179, CONVERTITO CON MODIFICAZIONI DALLA L. 17 DICEMBRE 2012, N. 221,)) ((1))
 
@@ -1138,11 +1128,9 @@ AGGIORNAMENTO (1)
 
 Il D.L. 18 ottobre 2012, n. 179, convertito con modificazioni dalla L. 17 dicembre 2012, n. 221, ha disposto (con l'art. 18, comma 2) che "Le disposizioni di cui al comma 1 del presente articolo si applicano ai procedimenti instaurati dal trentesimo giorno successivo a quello della data di entrata in vigore della legge di conversione del presente decreto."
 
-## Capo III
+## Capo III - ENTRATA IN VIGORE
 
-### ENTRATA IN VIGORE
-
-###### Art. 21
+##### Art. 21
 
 Entrata in vigore
 

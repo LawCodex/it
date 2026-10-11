@@ -25,21 +25,21 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'accordo di partenariato e cooperazione tra le Comunita' europee ed i loro Stati membri, da un lato, e la Repubblica di Armenia, dall'altro, con quattro allegati, un protocollo, atto finale e lettera di accompagnamento, fatto a Lussemburgo il 22 aprile 1996.
 
-##### Art. 2
+#### Art. 2
 
 1\. Piena ed intera esecuzione e' data all'accordo di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore in conformita' a quanto disposto dall'articolo 101 dell'accordo stesso.
 
-##### Art. 3
+#### Art. 3
 
 1\. All'onere derivante dall'attuazione della presente legge, valutato in lire 12 milioni annue a decorrere dal 1997, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1997-1999, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1997, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri.
 
 2\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorenti variazioni di bilancio.
 
-##### Art. 4
+#### Art. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
@@ -151,7 +151,7 @@ DESIDEROSI di avviare una cooperazione culturale e di migliorare il flusso delle
 
 HANNO DECISO QUANTO SEGUE:
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 E' istituito un partenariato tra la Comunita' e i suoi Stati membri, da una parte, e la Repubblica di Armenia, dall'altra. Gli obiettivi del partenariato sono:
 
@@ -165,21 +165,21 @@ gettare le basi per una cooperazione legislativa, economica, sociale, finanziari
 
 ## TITOLO I - PRINCIPI GENERALI
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Il rispetto della democrazia, i principi del diritto internazionale e i diritti dell'uomo definiti, in particolare, nella Carta delle Nazioni Unite, nell'Atto finale di Helsinki e nella Carta di Parigi per una nuova Europa, nonche' i principi dell'economia di mercato, compresi quelli enunciati nei documenti della Conferenza CSCE di Bonn, sono alla base delle politiche interna ed estera delle Parti e costituiscono elementi fondamentali del partenariato e del presente accordo.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 Le Parti ritengono fondamentale, per la loro futura prosperita' e stabilita', che i nuovi Stati indipendenti sorti dopo lo scioglimento dell'Unione delle Repubbliche Socialiste Sovietiche (in appresso denominati "Stati indipendenti") mantengano e sviluppino la cooperazione tra di essi in base ai principi dell'Atto finale di Helsinki e al diritto internazionale, in uno spirito di buon vicinato, e che moltiplichino gli sforzi per promuovere questo processo.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Se necessario, le Parti riesaminano le mutate circostanze nella Repubblica di Armenia, in particolare per quanto riguarda le condizioni economiche e l'attuazione delle riforme economiche orientate verso il mercato. Tenendo conto di tali circostanze, il consiglio di cooperazione puo' suggerire alle Parti di ampliare una o piu' sezioni del presente accordo.
 
 ## TITOLO II - DIALOGO POLITICO
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 Le Parti avviano un regolare dialogo politico, che intendono sviluppare e intensificare per accompagnare e consolidare il ravvicinamento tra la Comunita' e la Repubblica di Armenia, sostenere i mutamenti politici ed economici in corso in questo paese e contribuire ad instaurare nuove forme di cooperazione. Detto dialogo politico:
 
@@ -191,11 +191,11 @@ Le Parti avviano un regolare dialogo politico, che intendono sviluppare e intens
 
 Il dialogo puo' svolgersi a livello regionale, onde contribuire a risolvere conflitti e tensioni regionali.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 A livello ministeriale, il dialogo politico si svolgera' nell'ambito del consiglio di cooperazione istituito a norma dell'articolo 81 e, previo mutuo accordo, in altre occasioni.
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 Le Parti creeranno altre procedure e altri meccanismi per il dialogo politico, in particolare nelle forme seguenti:
 
@@ -205,13 +205,13 @@ Le Parti creeranno altre procedure e altri meccanismi per il dialogo politico, i
 
 \- utilizzando qualsiasi altro mezzo, compresa la possibilita' di riunioni tra esperti, che possa contribuire a consolidare e a sviluppare tale dialogo.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 A livello parlamentare, il dialogo politico si svolgera' nell'ambito del comitato parlamentare di cooperazione istituito a norma dell'articolo 83.
 
 ## TITOLO III - SCAMBI DI MERCI
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 1\. Le Parti si concedono reciprocamente il trattamento della nazione piu' favorita in tutti settori, per quanto riguarda:
 
@@ -235,7 +235,7 @@ c) ai vantaggi concessi ai paesi limitrofi per agevolare il traffico frontaliero
 
 3\. Le disposizioni del paragrafo 1 non si applicano, per un periodo transitorio che scadra' il 31 dicembre 1998 o, se precedente, al momento dell'adesione della Repubblica di Armenia all'OMC, ai vantaggi definiti nell'allegato I concessi dalla Repubblica di Armenia agli altri Stati dell'ex URSS.
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 1\. Le Parti convengono che il principio del libero transito e' fondamentale per conseguire gli obiettivi del presente accordo.
 
@@ -245,21 +245,21 @@ A tale riguardo, ciascuna delle Parti consente il transito senza restrizioni att
 
 3\. Le disposizioni del presente articolo lasciano impregiudicate tutte le norme speciali concordate tra le Parti relative a settori particolari quali i trasporti o a determinati prodotti.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 Fatti salvi i diritti e gli obblighi derivanti dalle convenzioni internazionali sull'ammissione temporanea delle merci cui hanno aderito entrambe le Parti, ciascuna di queste ultime concede all'altra l'esenzione dagli oneri all'importazione e dai dazi sulle merci in ammissione temporanea, nei casi e secondo le procedure previsti da qualsiasi altra convenzione in materia cui abbia aderito, secondo la propria legislazione. Si terra' conto delle condizioni alle quali le Parti hanno accettato gli obblighi derivanti da tale convenzione.
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 1\. Le merci originarie della Repubblica di Armenia sono importate nella Comunita' in esenzione da restrizioni quantitative, fatte salve le disposizioni degli articoli 14, 17 e 18 del presente accordo.
 
 2\. Le merci originarie della Comunita' sono importate nella Repubblica di Armenia in esenzione da tutte le restrizioni quantitative o misure di effetto equivalente.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 Le merci sono commercializzate tra le Parti ai prezzi di mercato.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 1\. Se un prodotto e' importato nel territorio di una delle Parti in quantita' talmente grandi o in condizioni tali da provocare o da minacciare di provocare pregiudizio ai produttori nazionali di prodotti simili o direttamente concorrenti, la Comunita' o la Repubblica di Armenia, a seconda dei casi, possono prendere le misure opportune attenendosi alle seguenti procedure e condizioni.
 
@@ -273,19 +273,19 @@ Le merci sono commercializzate tra le Parti ai prezzi di mercato.
 
 6\. Nessuna disposizione del presente articolo pregiudica ne' compromette minimamente l'adozione, ad opera di una delle Parti, di misure antidumping o compensative a norma dell'articolo VI del GATT, dell'accordo sull'attuazione dell'articolo VI del GATT, dell'accordo sull'interpretazione e sull'applicazione degli articoli VI, XVI e XXIII del GATT o della relativa legislazione interna.
 
-##### ARTICOLO 15
+#### ARTICOLO 15
 
 Le Parti si impegnano a prendere in considerazione possibili sviluppi delle disposizioni del presente accordo relative agli scambi di merci tra di esse in funzione delle circostanze, compresa l'adesione della Repubblica di Armenia all'OMC. Il consiglio di cooperazione di cui all'articolo 75 puo' formulare raccomandazioni alle Parti su questi sviluppi; se li accettano, le Parti possono procedere a detti sviluppi mediante un accordo concluso secondo le rispettive procedure.
 
-##### ARTICOLO 16
+#### ARTICOLO 16
 
 Il presente accordo lascia impregiudicati i divieti o le restrizioni sulle importazioni, sulle esportazioni o sul transito giustificati da motivi di moralita' pubblica, di ordine pubblico, di pubblica sicurezza, dalla tutela della vita e della salute delle persone, degli animali o delle piante, dalla tutela delle risorse naturali, dalla protezione del patrimonio artistico, storico o archeologico nazionale, dalla tutela della proprieta' intellettuale, industriale o commerciale oppure da norme relative all'oro e all'argento. Tuttavia, tali divieti e restrizioni non devono costituire un mezzo di discriminazione arbitraria, ne' una restrizione dissimulata al commercio tra le Parti.
 
-##### ARTICOLO 17
+#### ARTICOLO 17
 
 Il presente titolo non si applica agli scambi di prodotti tessili che rientrano nei capitoli 50-63 della nomenclatura combinata, la cui disciplina e' contenuta in un accordo a parte siglato il 18 gennaio 1996 e applicato in via provvisoria dal 1 gennaio 1996.
 
-##### ARTICOLO 18
+#### ARTICOLO 18
 
 1\. Gli scambi dei prodotti contemplati dal trattato che istituisce la Comunita' europea del carbone e dell'acciaio sono disciplinati dalle disposizioni del presente titolo, fatta eccezione per l'articolo 12.
 
@@ -293,33 +293,31 @@ Il presente titolo non si applica agli scambi di prodotti tessili che rientrano 
 
 Il gruppo di contatto procede a regolari scambi di informazioni su tutte le questioni siderurgiche che interessano le Parti.
 
-##### ARTICOLO 19
+#### ARTICOLO 19
 
 Gli scambi di materiali nucleari si effettuano in base alle disposizioni del trattato che istituisce la Comunita' europea dell'energia atomica. Se necessario, ad essi si applicano le disposizioni di un accordo specifico che sara' concluso tra la Comunita' europea dell'energia atomica e la Repubblica di Armenia.
 
 ## TITOLO IV - DISPOSIZIONI RIGUARDANTI LE ATTIVITA' COMMERCIALI E GLI INVESTIMENTI
 
-### CAPITOLO I
+### CAPITOLO I - CONDIZIONI DI LAVORO
 
-#### CONDIZIONI DI LAVORO
-
-##### ARTICOLO 20
+#### ARTICOLO 20
 
 1\. Secondo le leggi, condizioni e procedure applicabili in ciascuno Stato membro, la Comunita' e gli Stati membri si adoperano per evitare che i cittadini armeni legalmente impiegati sul territorio di uno Stato membro siano oggetto, rispetto ai propri cittadini, di discriminazioni basate sulla nazionalita' per quanto riguarda le condizioni di lavoro, di retribuzione o di licenziamento.
 
 2\. Secondo le leggi, condizioni e procedure applicabili nella Repubblica di Armenia, la Repubblica di Armenia si adopera per evitare che i cittadini di uno Stato membro legalmente impiegati sul suo territorio siano oggetto, rispetto ai propri cittadini, di discriminazioni basate sulla nazionalita' per quanto riguarda le condizioni di lavoro, di retribuzione o di licenziamento.
 
-##### ARTICOLO 21
+#### ARTICOLO 21
 
 Il consiglio di cooperazione esamina in che modo sia possibile migliorare le condizioni di lavoro per gli uomini d'affari in base agli impegni internazionali delle Parti, compresi quelli che figurano nel documento della conferenza CSCE di Bonn.
 
-##### ARTICOLO 22
+#### ARTICOLO 22
 
 Il consiglio di cooperazione formula raccomandazioni per l'applicazione degli articoli 20 e 21.
 
-## CAPITOLO II - CONDIZIONI PER LO STABILIMENTO E L'ATTIVITA' DELLE SOCIETA'
+### CAPITOLO II - CONDIZIONI PER LO STABILIMENTO E L'ATTIVITA' DELLE SOCIETA'
 
-##### ARTICOLO 23
+#### ARTICOLO 23
 
 1\. Secondo le rispettive legislazioni e normative, la Comunita' e gli Stati membri concedono alle societa' armene, definite all'articolo 25, lettera d), stabilite sul loro territorio, un trattamento non meno favorevole di quello concesso a qualsiasi paese terzo.
 
@@ -329,7 +327,7 @@ Il consiglio di cooperazione formula raccomandazioni per l'applicazione degli ar
 
 4\. La Repubblica di Armenia concede alle societa' comunitarie, definite all'articolo 24, lettera d), che si stabiliscono sul suo territorio, un trattamento non meno favorevole di quello concesso alle sue societa' o, se migliore, alle societa' dei paesi terzi. Essa concede inoltre alle consociate e alle filiali di societa' comunitarie stabilite sul suo territorio un trattamento non meno favorevole, per la loro attivita', di quello concesso alle sue societa' e filiali oppure, se migliore, alle societa' o filiali di paesi terzi.
 
-##### ARTICOLO 24
+#### ARTICOLO 24
 
 1\. Fatte salve le disposizioni dell'articolo 97, le disposizioni dell'articolo 23 non si applicano al trasporto aereo, fluviale e marittimo.
 
@@ -349,7 +347,7 @@ e) la conclusione di accordi commerciali, compresa la partecipazione al capitale
 
 f) le operazioni effettuate a nome delle societa', l'organizzazione dello scalo della nave o, se necessario, la ripresa del carico.
 
-##### ARTICOLO 25
+#### ARTICOLO 25
 
 Ai fini del presente accordo:
 
@@ -369,7 +367,7 @@ f) Per "attivita' economiche" si intendono le attivita' di natura industriale, c
 
 Per quanto riguarda il trasporto marittimo internazionale, comprese le operazioni intermodali che comprendono una tratta marittima, i cittadini degli Stati membri o della Repubblica di Armenia stabiliti al di fuori della Comunita' o della Repubblica di Armenia rispettivamente e le agenzie marittime stabilite al di fuori della Comunita' o della Repubblica di Armenia e controllate da cittadini di uno Stato membro o della Repubblica di Armenia rispettivamente, beneficiano delle disposizioni del presente capitolo e del capitolo III se le loro navi sono registrate in detto Stato membro o nella Repubblica di Armenia in base alle rispettive legislazioni.
 
-##### ARTICOLO 26
+#### ARTICOLO 26
 
 1\. Fatte salve le altre disposizioni del presente accordo, alle Parti non e' impedita l'adozione di misure cautelative per tutelare gli investitori, i depositanti, gli assicurati o le persone nei confronti delle quali un fornitore di servizi finanziari ha un obbligo fiduciario, oppure per garantire l'integrita' e la stabilita' del sistema finanziario. Qualora tali misure non siano conformi alle disposizioni del presente accordo esse non vengono utilizzate dalle Parti per eludere gli obblighi ivi previsti.
 
@@ -377,11 +375,11 @@ Per quanto riguarda il trasporto marittimo internazionale, comprese le operazion
 
 3\. Ai fini del presente accordo, per "servizi finanziari" si intendono le attivita' descritte nell'allegato III.
 
-##### ARTICOLO 27
+#### ARTICOLO 27
 
 Le disposizioni del presente accordo non pregiudicano l'applicazione, ad opera di ciascuna Parte, di ogni misura necessaria per impedire l'elusione delle misure riguardanti l'accesso dei paesi terzi al loro mercato attraverso le disposizioni del presente accordo.
 
-##### ARTICOLO 28
+#### ARTICOLO 28
 
 1\. Fatte salve le disposizioni del capitolo I del presente titolo, una societa' comunitaria o armena stabilita rispettivamente sul territorio della Repubblica di Armenia o della Comunita' ha il diritto di assumere o di far assumere da una delle sue controllate o sedi secondarie, in base alla legislazione in vigore nel paese di stabilimento, sul territorio rispettivamente della Repubblica di Armenia e della Comunita', cittadini degli Stati membri della Comunita' e della Repubblica di Armenia, purche' si tratti di quadri intermedi a norma del paragrafo 2, impiegati esclusivamente da societa' o sedi secondarie. I permessi di soggiorno e di lavoro di questi dipendenti coprono unicamente la durata di tale occupazione.
 
@@ -399,7 +397,7 @@ b) I dipendenti di un'organizzazione in possesso di conoscenze non comuni indisp
 
 c) Per "persona trasferita all'interno della societa'" si intende una persona fisica che lavora presso un'organizzazione sul territorio di una delle Parti e temporaneamente trasferita nel quadro di attivita' economiche svolte sul territorio dell'altra Parte; l'organizzazione in questione deve avere la sede principale sul territorio di una Parte e il trasferimento deve avvenire verso un'impresa (sede secondaria, controllata) di questa organizzazione, che effettivamente svolge attivita' economiche simili sul territorio dell'altra Parte.
 
-##### ARTICOLO 29
+#### ARTICOLO 29
 
 1\. Le Parti si adoperano per evitare di adottare misure o avviare azioni tali da rendere le condizioni per lo stabilimento e l'attivita' delle societa' dell'altra Parte piu' restrittive rispetto alla situazione esistente il giorno che precede la firma del presente accordo.
 
@@ -409,19 +407,19 @@ c) Per "persona trasferita all'interno della societa'" si intende una persona fi
 
 4\. Qualora l'introduzione nella Repubblica di Armenia di nuove leggi o di nuovi regolamenti renda le condizioni per l'attivita' delle controllate e sedi secondarie di societa' comunitarie stabilite nella Repubblica di Armenia piu' restrittive rispetto alla situazione esistente il giorno della firma del presente accordo, dette leggi o detti regolamenti non si applicano, per i tre anni successivi all'entrata in vigore dell'atto in questione, alle controllate e sedi secondarie gia' stabilite nella Repubblica di Armenia al momento dell'entrata in vigore dell'atto stesso.
 
-## CAPITOLO III - FORNITURA TRANSNAZIONALE DI SERVIZI TRA LA COMUNITA' E LA REPUBBLICA DI ARMENIA
+### CAPITOLO III - FORNITURA TRANSNAZIONALE DI SERVIZI TRA LA COMUNITA' E LA REPUBBLICA DI ARMENIA
 
-##### ARTICOLO 30
+#### ARTICOLO 30
 
 1\. In base alle disposizioni del presente capitolo, le Parti si impegnano ad adottare le misure necessarie per autorizzare progressivamente la fornitura di servizi da parte di societa' comunitarie o armene stabilite in una Parte diversa da quella del destinatario dei servizi, tenendo conto dell'evoluzione dei settori terziari delle Parti.
 
 2\. Il consiglio di cooperazione formula raccomandazioni per l'applicazione del paragrafo 1.
 
-##### ARTICOLO 31
+#### ARTICOLO 31
 
 Le Parti collaborano al fine di sviluppare nella Repubblica di Armenia un settore terziario orientato verso il mercato.
 
-##### ARTICOLO 32
+#### ARTICOLO 32
 
 1\. Le Parti si impegnano ad applicare efficacemente il principio dell'accesso illimitato al mercato e al traffico marittimo internazionale su base commerciale.
 
@@ -443,35 +441,35 @@ d) all'entrata in vigore dell'accordo aboliscono tutte le misure unilaterali, no
 
 4\. I cittadini e le societa' della Comunita' che forniscono servizi di trasporto marittimo internazionale sono autorizzati ad effettuare collegamenti internazionali mare-fiume lungo le idrovie della Repubblica di Armenia e viceversa.
 
-##### ARTICOLO 33
+#### ARTICOLO 33
 
 Al fine di garantire uno sviluppo coordinato dei trasporti tra le Parti in funzione delle loro esigenze commerciali, le condizioni del reciproco accesso al mercato nonche' la fornitura di servizi di trasporto stradale, ferroviario, fluviale e, se del caso, aereo potranno essere trattate da specifici accordi, negoziati se necessario dalle Parti, dopo l'entrata in vigore del presente accordo.
 
-## CAPITOLO IV - DISPOSIZIONI GENERALI
+### CAPITOLO IV - DISPOSIZIONI GENERALI
 
-##### ARTICOLO 34
+#### ARTICOLO 34
 
 1\. L'applicazione delle disposizioni del presente titolo e' soggetta alle limitazioni giustificate da motivi di ordine pubblico, pubblica sicurezza o sanita' pubblica.
 
 2\. Dette disposizioni non si applicano alle attivita', svolte sul territorio di ciascuna Parte, connesse, anche occasionalmente, all'esercizio delle potesta' pubbliche.
 
-##### ARTICOLO 35
+#### ARTICOLO 35
 
 Ai fini del presente titolo, nessun elemento del presente accordo vieta alle Parti di applicare le rispettive leggi e regolamenti in materia di ingresso e soggiorno, occupazione, condizioni di lavoro e di stabilimento delle persone fisiche e fornitura di servizi, purche' non le applichino in modo da vanificare o compromettere i vantaggi risultanti per una delle Parti da una disposizione specifica del presente accordo. Quanto precede non pregiudica l'applicazione dell'articolo 34.
 
-##### ARTICOLO 36
+#### ARTICOLO 36
 
 Beneficiano delle disposizioni dei capitoli II, III e IV del presente titolo anche le societa' controllate e possedute esclusivamente e congiuntamente da societa' armene e comunitarie.
 
-##### ARTICOLO 37
+#### ARTICOLO 37
 
 A decorrere dal primo giorno del mese che precede l'entrata in vigore dei corrispondenti obblighi dell'Accordo generale sul commercio e sui servizi (GATS), il trattamento concesso da ciascuna Parte all'altra ai sensi del presente accordo per i settori o le misure contemplati dal GATS non puo' comunque essere meno favorevole di quello concesso dalla Parte in questione a norma del GATS per ciascun settore, sottosettore e modo di fornitura dei servizi.
 
-##### ARTICOLO 38
+#### ARTICOLO 38
 
 Ai fini dei capitoli II, III e IV non si tiene conto del trattamento concesso dalla Comunita', dai suoi Stati membri o dalla Repubblica di Armenia in base agli impegni assunti nel quadro di accordi di integrazione economica a norma dei principi dell'articolo V del GATS.
 
-##### ARTICOLO 39
+#### ARTICOLO 39
 
 1\. Il trattamento della nazione piu' favorita concesso a norma del presente titolo non si applica ai vantaggi fiscali che le Parti concedono o concederanno in base ad accordi tesi a evitare la doppia imposizione o ad altre intese fiscali.
 
@@ -479,7 +477,7 @@ Ai fini dei capitoli II, III e IV non si tiene conto del trattamento concesso da
 
 3\. Nessun elemento del presente titolo puo' essere interpretato nel senso di impedire agli Stati membri o alla Repubblica di Armenia di fare distinzioni, nell'applicare le pertinenti disposizioni della loro legislazione tributaria, tra contribuenti la cui situazione non e' identica, in particolare per quanto riguarda il luogo di residenza.
 
-##### ARTICOLO 40
+#### ARTICOLO 40
 
 Fatto salvo il disposto dell'articolo 28, nessuna disposizione dei capitoli II, III e IV puo' essere intesa nel senso che dia diritto:
 
@@ -495,7 +493,7 @@ Fatto salvo il disposto dell'articolo 28, nessuna disposizione dei capitoli II, 
 
 ## TITOLO V - PAGAMENTI CORRENTI E CAPITALE
 
-##### ARTICOLO 41
+#### ARTICOLO 41
 
 1\. Le Parti si impegnano ad autorizzare l'uso di moneta liberamente convertibile per tutti i pagamenti correnti tra residenti della Comunita' e della Repubblica di Armenia in relazione alla circolazione di beni, servizi o persone che avvenga in base alle disposizioni del presente accordo.
 
@@ -509,9 +507,9 @@ Fatto salvo il disposto dell'articolo 28, nessuna disposizione dei capitoli II, 
 
 6\. Fatti salvi i paragrafi 1 e 2, qualora, in circostanze eccezionali, la circolazione dei capitali tra la Comunita' e la Repubblica di Armenia provochi o minacci di provocare gravi difficolta' per la gestione delle politiche valutarie o monetarie nella Comunita' o nella Repubblica di Armenia, ciascuna Parte rispettivamente puo' adottare misure di salvaguardia in merito per un periodo non superiore a sei mesi, a condizione che dette misure siano assolutamente necessarie.
 
-## CAPITOLO VI - TUTELA DELLA PROPRIETA' INTELLETTUALE, INDUSTRIALE E COMMERCIALE
+### CAPITOLO VI - TUTELA DELLA PROPRIETA' INTELLETTUALE, INDUSTRIALE E COMMERCIALE
 
-##### ARTICOLO 42
+#### ARTICOLO 42
 
 1\. A norma delle disposizioni del presente articolo e dell'allegato II, la Repubblica di Armenia continua a migliorare la tutela dei diritti di proprieta' intellettuale, industriale e commerciale al fine di garantire, entro la fine del quinto anno dall'entrata in vigore dell'accordo, un livello di protezione analogo a quello esistente nella Comunita', prevedendo anche strumenti efficaci per l'attuazione di tali diritti.
 
@@ -519,7 +517,7 @@ Fatto salvo il disposto dell'articolo 28, nessuna disposizione dei capitoli II, 
 
 ## TITOLO V - COOPERAZIONE LEGISLATIVA
 
-##### ARTICOLO 43
+#### ARTICOLO 43
 
 1\. Le Parti riconoscono che il ravvicinamento della legislazione attuale e futura della Repubblica di Armenia a quella della Comunita' e' fondamentale per il consolidamento dei vincoli economici tra le Parti. La Repubblica di Armenia si adoperera' al fine di rendere la propria legislazione progressivamente compatibile con quella della Comunita'.
 
@@ -541,7 +539,7 @@ Fatto salvo il disposto dell'articolo 28, nessuna disposizione dei capitoli II, 
 
 ## TITOLO VI - COOPERAZIONE ECONOMICA
 
-##### ARTICOLO 44
+#### ARTICOLO 44
 
 1\. La Comunita' e la Repubblica di Armenia istituiscono una cooperazione economica per favorire il processo di riforma e di rilancio dell'economia nonche' lo sviluppo sostenibile della Repubblica di Armenia. Tale cooperazione rafforzera' e sviluppera' i vincoli economici esistenti a vantaggio di entrambe le Parti.
 
@@ -553,7 +551,7 @@ Fatto salvo il disposto dell'articolo 28, nessuna disposizione dei capitoli II, 
 
 5\. Se del caso, la Comunita' puo' fornire assistenza tecnica per la cooperazione economica e le altre forme di cooperazione previste dal presente accordo tenendo conto del regolamento del Consiglio relativo all'assistenza tecnica a favore degli Stati indipendenti, delle priorita' concordate nel programma indicativo per l'assistenza tecnica della Comunita' alla Repubblica di Armenia e delle procedure stabilite per il suo coordinamento ed attuazione.
 
-##### ARTICOLO 45
+#### ARTICOLO 45
 
 Cooperazione nel settore gli scambi di beni e di servizi
 
@@ -567,7 +565,7 @@ La cooperazione riguardera' aspetti specifici direttamente connessi all'agevolaz
 
 \- l'assistenza per preparare l'eventuale adesione della Repubblica di Armenia all'OMC.
 
-##### ARTICOLO 46
+#### ARTICOLO 46
 
 Cooperazione industriale
 
@@ -585,7 +583,7 @@ Cooperazione industriale
 
 2\. Le disposizioni del presente articolo non pregiudicano l'applicazione delle regole di concorrenza comunitarie applicabili alle imprese.
 
-##### ARTICOLO 47
+#### ARTICOLO 47
 
 Promozione e tutela degli investimenti
 
@@ -603,13 +601,13 @@ Promozione e tutela degli investimenti
 
 \- lo scambio di informazioni sulle possibilita' di investimenti sotto forma, tra l'altro, di fiere commerciali, esposizioni, settimane commerciali e altre manifestazioni.
 
-##### ARTICOLO 48
+#### ARTICOLO 48
 
 Commesse pubbliche
 
 Le Parti collaborano per favorire la trasparenza e il rispetto delle regole di concorrenza nell'aggiudicazione degli appalti per la fornitura di beni e servizi, in particolare mediante bandi di gara.
 
-##### ARTICOLO 49
+#### ARTICOLO 49
 
 Cooperazione in materia di standards e di valutazione della conformita'
 
@@ -623,7 +621,7 @@ Cooperazione in materia di standards e di valutazione della conformita'
 
 \- mettere in comune l'esperienza e le informazioni tecniche in materia di gestione della qualita'.
 
-##### ARTICOLO 50
+#### ARTICOLO 50
 
 Prodotti minerari e materie prime
 
@@ -643,7 +641,7 @@ Prodotti minerari e materie prime
 
 \- la sicurezza nell'industria mineraria.
 
-##### ARTICOLO 51
+#### ARTICOLO 51
 
 Cooperazione scientifica e tecnologica
 
@@ -665,7 +663,7 @@ Nello svolgimento di queste attivita' di cooperazione, particolare attenzione e'
 
 3\. La cooperazione prevista al presente articolo e' attuata in base ad intese specifiche da negoziare e concludere secondo le procedure adottate da ciascuna Parte definendo, tra l'altro, opportune disposizioni in materia di DPI.
 
-##### ARTICOLO 52
+#### ARTICOLO 52
 
 Istruzione e formazione
 
@@ -693,13 +691,13 @@ Istruzione e formazione
 
 3\. L'eventuale partecipazione di una Parte ai programmi dell'altra in materia di istruzione e formazione potra' essere esaminata secondo le rispettive procedure; se del caso saranno definiti quadri istituzionali e programmi di cooperazione basandosi sulla partecipazione della Repubblica di Armenia al programma TEMPUS della Comunita'.
 
-##### ARTICOLO 53
+#### ARTICOLO 53
 
 Agricoltura e settore agroindustriale
 
 La cooperazione in questo settore si prefigge il proseguimento della riforma agraria, l'ammodernamento, la privatizzazione e la ristrutturazione dell'agricoltura, dell'agroindustria e del terziario nella Repubblica di Armenia, lo sviluppo dei mercati interno ed estero per i prodotti armeni, in condizioni da assicurare la protezione dell'ambiente e tenendo conto dell'esigenza di regolarizzare l'approvvigionamento alimentare, nonche' lo sviluppo delle imprese di produzione, di trasformazione e di distribuzione dei prodotti agricoli. Le Parti cercano inoltre di ravvicinare progressivamente le norme armene alle norme tecniche comunitarie in materia di prodotti alimentari industriali e agricoli, comprese le norme sanitarie e fitosanitarie.
 
-##### ARTICOLO 54
+#### ARTICOLO 54
 
 Energia
 
@@ -729,7 +727,7 @@ Energia
 
 3\. Le Parti si scambiano informazioni sui progetti d'investimenti nel settore energetico, in particolare per quanto riguarda la costruzione e il ripristino degli oleodotti, dei gasdotti o degli altri mezzi di trasporto dei prodotti energetici. Esse collaborano per applicare al meglio le disposizioni del Titolo IV e dell'articolo 47 riguardo agli investimenti nel settore energetico.
 
-##### ARTICOLO 55
+#### ARTICOLO 55
 
 Ambiente
 
@@ -789,7 +787,7 @@ Ambiente
 
 \- studi sull'impatto ambientale.
 
-##### ARTICOLO 56
+#### ARTICOLO 56
 
 Trasporti
 
@@ -809,7 +807,7 @@ La cooperazione comprende, tra l'altro:
 
 \- la predisposizione di un contesto legislativo e istituzionale per l'elaborazione e l'attuazione delle varie politiche, compresa la privatizzazione del settore dei trasporti.
 
-##### ARTICOLO 57
+#### ARTICOLO 57
 
 Servizi postali e telecomunicazioni
 
@@ -833,7 +831,7 @@ Nell'ambito dei rispettivi poteri e delle rispettive competenze, le Parti amplia
 
 \- impartire la formazione necessaria per gestire i servizi delle poste e telecomunicazioni in normali condizioni di mercato.
 
-##### ARTICOLO 58
+#### ARTICOLO 58
 
 Servizi finanziari
 
@@ -847,7 +845,7 @@ La cooperazione e' volta ad agevolare l'inserimento della Repubblica di Armenia 
 
 La cooperazione contribuisce in particolare a sviluppare le relazioni tra la Repubblica di Armenia e gli Stati membri nel settore dei servizi finanziari.
 
-##### ARTICOLO 59
+#### ARTICOLO 59
 
 Sviluppo regionale
 
@@ -857,7 +855,7 @@ Sviluppo regionale
 
 Esse incoraggiano inoltre i contatti diretti tra le rispettive regioni e organizzazioni pubbliche incaricate di programmare lo sviluppo regionale per consentire loro di scambiare metodi e mezzi atti ad incentivare lo sviluppo regionale.
 
-##### ARTICOLO 60
+#### ARTICOLO 60
 
 Cooperazione sociale
 
@@ -889,7 +887,7 @@ La cooperazione comprende in particolare:
 
 Dette riforme mirano a introdurre nella Repubblica di Armenia metodi di protezione consoni alle economie di mercato e comprendono tutte le forme di previdenza sociale.
 
-##### ARTICOLO 61
+#### ARTICOLO 61
 
 Turismo
 
@@ -907,7 +905,7 @@ Le Parti intensificano e sviluppano la cooperazione tra loro, che comprende azio
 
 \- impartire la formazione necessaria per sviluppare il turismo.
 
-##### ARTICOLO 62
+#### ARTICOLO 62
 
 Piccole e medie imprese
 
@@ -921,19 +919,19 @@ Piccole e medie imprese
 
 \- sviluppo di parchi tecnologici.
 
-##### ARTICOLO 63
+#### ARTICOLO 63
 
 Informazione e comunicazione
 
 Le Parti favoriscono l'uso di metodi moderni per il trattamento dell'informazione, anche a livello dei mass media, e un efficace reciproco scambio di informazioni. Si privilegiano i programmi volti a diffondere tra la popolazione le informazioni di base sulla Comunita' e sulla Repubblica di Armenia compreso, nei limiti del possibile, l'accesso alle banche dati nel pieno rispetto dei diritti di proprieta' intellettuale.
 
-##### ARTICOLO 64
+#### ARTICOLO 64
 
 Tutela dei consumatori
 
 Le Parti collaboreranno strettamente per rendere compatibili i rispettivi sistemi di tutela dei consumatori. Tale cooperazione puo' comprendere scambi di informazioni sull'elaborazione delle leggi e sulla riforma istituzionale, la creazione di sistemi permanenti di informazione reciproca sui prodotti pericolosi, il miglioramento dell'informazione fornita ai consumatori, in particolare per quanto riguarda i prezzi, le caratteristiche dei prodotti e i servizi offerti, lo sviluppo degli scambi tra coloro che rappresentano gli interessi dei consumatori, una maggiore compatibilita' delle politiche di tutela dei consumatori, l'organizzazione di seminari e cicli di formazione.
 
-##### ARTICOLO 65
+#### ARTICOLO 65
 
 Dogane
 
@@ -959,7 +957,7 @@ Si fornira' l'assistenza tecnica necessaria.
 
 3\. Fatta salva l'ulteriore cooperazione prevista nel presente accordo, in particolare gli articoli 69 e 71, l'assistenza reciproca tra le autorita' amministrative delle Parti per le questioni doganali e' disciplinata dalle disposizioni del protocollo allegato al presente accordo.
 
-##### ARTICOLO 66
+#### ARTICOLO 66
 
 Cooperazione statistica
 
@@ -975,7 +973,7 @@ In particolare, le Parti cooperano al fine di:
 
 La Comunita' fornisce a tal fine alla Repubblica di Armenia l'assistenza tecnica necessaria.
 
-##### ARTICOLO 67
+#### ARTICOLO 67
 
 Economia
 
@@ -989,7 +987,7 @@ La Comunita' fornisce assistenza tecnica per:
 
 ## TITOLO VII - COOPERAZIONE PER LE QUESTIONI RELATIVE ALLA DEMOCRAZIA E AI DIRITTI DELL'UOMO
 
-##### ARTICOLO 68
+#### ARTICOLO 68
 
 Le Parti collaborano in merito a tutte le questioni connesse all'insediamento o al rafforzamento delle istituzioni democratiche, comprese quelle necessarie per consolidare lo Stato di diritto, nonche' alla tutela dei diritti dell'uomo e delle liberta' fondamentali secondo i principi del diritto internazionale e dell'OSCE.
 
@@ -997,7 +995,7 @@ La cooperazione in questo settore comprende programmi di assistenza tecnica per 
 
 ## TITOLO VIII - COOPERAZIONE PER LA PREVENZIONE DELLE ATTIVITA' ILLEGALI E PER LA PREVENZIONE E IL CONTROLLO DELL'IMMIGRAZIONE ILLEGALE
 
-##### ARTICOLO 69
+#### ARTICOLO 69
 
 Le Parti collaborano al fine di prevenire attivita' illegali quali:
 
@@ -1019,7 +1017,7 @@ La cooperazione nei suddetti settori avviene mediante consultazioni e una strett
 
 \- elaborazione di misure reciprocamente accettabili per impedire le attivita' illecite.
 
-##### ARTICOLO 70
+#### ARTICOLO 70
 
 Riciclaggio del denaro
 
@@ -1027,13 +1025,13 @@ Riciclaggio del denaro
 
 2\. La cooperazione in questo settore comprende un'assistenza amministrativa e tecnica volta a definire norme adeguate contro il riciclaggio del denaro equivalenti a quelle adottate in materia dalla Comunita' e dai consessi internazionali, compresa la Task Force Azione finanziaria (FATF).
 
-##### ARTICOLO 71
+#### ARTICOLO 71
 
 Droga
 
 Nell'ambito dei rispettivi poteri e delle rispettive competenze, le Parti cooperano per aumentare l'efficacia delle politiche e delle misure volte a combattere la produzione, la fornitura e il traffico illecito di stupefacenti e sostanze psicotrope, compreso il dirottamento dei precursori verso usi diversi, e per promuovere la prevenzione e la riduzione della domanda di droga. La cooperazione in materia si basa sulla consultazione e su uno stretto coordinamento tra le Parti per quanto riguarda gli obiettivi e le iniziative nei diversi settori connessi alla droga.
 
-##### ARTICOLO 72
+#### ARTICOLO 72
 
 Immigrazioni illegale
 
@@ -1051,35 +1049,35 @@ Gli Stati membri e la Repubblica di Armenia, inoltre, forniranno ai loro cittadi
 
 ## TITOLO IX - COOPERAZIONE CULTURALE
 
-##### ARTICOLO 73
+#### ARTICOLO 73
 
 Le Parti si impegnano a promuovere, incoraggiare e agevolare la cooperazione culturale. All'occorrenza, si possono estendere alla Repubblica di Armenia i programmi di cooperazione culturale della Comunita' o di uno o piu' Stati membri nonche' sviluppare altre attivita' di reciproco interesse.
 
 ## TITOLO X - COOPERAZIONE FINANZIARIA NEL SETTORE DELLA ASSISTENZA TECNICA
 
-##### ARTICOLO 74
+#### ARTICOLO 74
 
 Per conseguire gli obiettivi del presente accordo e a norma degli articoli 75, 76 e 77, la Repubblica di Armenia beneficia di assistenza finanziaria temporanea fornita dalla Comunita' sotto forma di aiuti non rimborsabili per l'assistenza tecnica intesi ad accelerare la trasformazione economica del paese.
 
-##### ARTICOLO 75
+#### ARTICOLO 75
 
 Detta assistenza finanziaria si svolge nell'ambito del Tacis, come previsto dal relativo regolamento del Consiglio.
 
-##### ARTICOLO 76
+#### ARTICOLO 76
 
 Gli obiettivi e i settori dell'assistenza finanziaria comunitaria sono stabiliti in un programma indicativo che riflette le priorita' concordate tra le Parti in funzione delle esigenze della Repubblica di Armenia, della capacita' di assorbimento dei vari settori e dello stato di avanzamento delle riforme. Le Parti ne informano il consiglio di cooperazione.
 
-##### ARTICOLO 77
+#### ARTICOLO 77
 
 Per consentire un impiego ottimale delle risorse disponibili, le Parti si adoperano affinche' i contributi comunitari per l'assistenza tecnica siano erogati in stretto coordinamento con quelli provenienti da altre fonti quali gli Stati membri, altri paesi e organizzazioni internazionali tra cui la Banca internazionale per la ricostruzione e lo sviluppo e la Banca europea per la ricostruzione e lo sviluppo.
 
 ## TITOLO XI - DISPOSIZIONI ISTITUZIONALI, GENERALI E FINALI
 
-##### ARTICOLO 78
+#### ARTICOLO 78
 
 E istituito un consiglio di cooperazione incaricato di sorvegliare l'attuazione del presente accordo. Il consiglio si riunisce a livello ministeriale una volta all'anno. Esso esamina tutte le questioni importanti inerenti al presente accordo e qualunque altro problema bilaterale o internazionale di reciproco interesse per il conseguimento degli obiettivi del presente accordo. Il consiglio di cooperazione puo' formulare opportune raccomandazioni con l'accordo di entrambe le Parti.
 
-##### ARTICOLO 79
+#### ARTICOLO 79
 
 1\. Il consiglio di cooperazione e' composto da membri del Consiglio dell'Unione europea e della Commissione delle Comunita' europee, da un lato, e da membri del governo della Repubblica di Armenia dall'altro.
 
@@ -1087,7 +1085,7 @@ E istituito un consiglio di cooperazione incaricato di sorvegliare l'attuazione 
 
 3\. Il consiglio di cooperazione e' presieduto a turno da un rappresentante della Comunita' e da un membro del governo della Repubblica di Armenia.
 
-##### ARTICOLO 80
+#### ARTICOLO 80
 
 1\. Nell'esercizio delle sue funzioni, il consiglio di cooperazione e' assistito da un comitato di cooperazione composto da rappresentanti di membri del Consiglio dell'Unione europea e della Commissione delle Comunita' europee, da un lato, e da rappresentanti del governo della Repubblica di Armenia, normalmente alti funzionari, dall'altro. Il comitato di cooperazione e' presieduto a turno dalla Comunita' e dalla Repubblica di Armenia.
 
@@ -1095,19 +1093,19 @@ Il regolamento interno del consiglio di cooperazione stabilisce i compiti del co
 
 2\. Il consiglio di cooperazione puo' delegare taluni suoi poteri al comitato di cooperazione, che assicura la continuita' tra le riunioni del consiglio di cooperazione.
 
-##### ARTICOLO 81
+#### ARTICOLO 81
 
 Il consiglio di cooperazione puo' decidere di creare tutti i comitati o organi speciali necessari per coadiuvarlo nell'esercizio delle sue funzioni, determinandone la composizione, le mansioni e le modalita' di funzionamento.
 
-##### ARTICOLO 82
+#### ARTICOLO 82
 
 Nell'esaminare le questioni sollevate nel quadro del presente accordo in relazione ad una disposizione che si riferisca a un articolo del GATT/OMC, il consiglio di cooperazione tiene conto, per quanto possibile, dell'interpretazione data generalmente a detto articolo del GATT/OMC dei membri dell'OMC.
 
-##### ARTICOLO 83
+#### ARTICOLO 83
 
 E' istituito un comitato parlamentare di cooperazione, che riunisce e consente scambi di opinioni tra membri dell'Assemblea nazionale della Repubblica di Armenia e del Parlamento europeo. Tale comitato stabilisce la frequenza delle proprie riunioni.
 
-##### ARTICOLO 84
+#### ARTICOLO 84
 
 1\. Il comitato parlamentare di cooperazione e' composto da membri del Parlamento europeo e dell'Assemblea nazionale della Repubblica di Armenia.
 
@@ -1115,7 +1113,7 @@ E' istituito un comitato parlamentare di cooperazione, che riunisce e consente s
 
 3\. Il comitato parlamentare di cooperazione e' presieduto a turno dal Parlamento europeo e dall'Assemblea nazionale della Repubblica di Armenia, in base alle norme che saranno previste nel regolamento interno.
 
-##### ARTICOLO 85
+#### ARTICOLO 85
 
 Il comitato parlamentare di cooperazione puo' chiedere tutte le informazioni utili per quanto riguarda l'applicazione del presente accordo al consiglio di cooperazione, che gli fornisce dette informazioni.
 
@@ -1123,7 +1121,7 @@ Il comitato parlamentare di cooperazione e' informato delle raccomandazioni del 
 
 Il comitato parlamentare di cooperazione puo' presentare raccomandazioni al consiglio di cooperazione.
 
-##### ARTICOLO 86
+#### ARTICOLO 86
 
 1\. Nell'ambito del presente accordo, ciascuna delle Parti si impegna a garantire che le persone fisiche e giuridiche dell'altra Parte possano adire senza discriminazioni, rispetto ai propri cittadini, i competenti organi giudiziari e amministrativi delle Parti per tutelare i loro diritti individuali e di proprieta', inclusi quelli riguardanti la proprieta' intellettuale, industriale e commerciale.
 
@@ -1137,7 +1135,7 @@ Il comitato parlamentare di cooperazione puo' presentare raccomandazioni al cons
 
 \- incoraggiano il ricorso alle norme di arbitrato elaborate dalla Commissione delle Nazioni Unite per il diritto commerciale internazionale (UNCITRAL) e il ricorso all'arbitrato da parte di ogni organismo di uno Stato firmatario della convenzione per il riconoscimento e l'esecuzione delle sentenze arbitrali straniere adottata a New York il 10 giugno 1958.
 
-##### ARTICOLO 87
+#### ARTICOLO 87
 
 Nessuna disposizione del presente accordo impedisce a una delle Parti di prendere le misure:
 
@@ -1149,7 +1147,7 @@ c) che giudica essenziali per la propria sicurezza in caso di gravi disordini in
 
 d) che ritiene necessarie per adempiere agli obblighi e agli impegni internazionali sul controllo del duplice uso dei beni e delle tecnologie industriali.
 
-##### ARTICOLO 88
+#### ARTICOLO 88
 
 1\. Nei settori contemplati dal presente accordo e fatta salva qualsiasi disposizione speciale ivi contenuta:
 
@@ -1159,7 +1157,7 @@ d) che ritiene necessarie per adempiere agli obblighi e agli impegni internazion
 
 2\. Le disposizioni del paragrafo 1 non pregiudicano il diritto delle Parti di applicare le pertinenti disposizioni della loro normativa fiscale ai contribuenti che non si trovano in situazioni identiche per quanto riguarda il luogo di residenza.
 
-##### ARTICOLO 89
+#### ARTICOLO 89
 
 1\. Ciascuna Parte puo' adire il consiglio di cooperazione per qualsiasi controversia relativa all'applicazione o all'interpretazione del presente accordo.
 
@@ -1173,29 +1171,29 @@ Le raccomandazioni del conciliatore vengono adottate a maggioranza e non sono vi
 
 4\. Il consiglio di cooperazione puo' stabilire norme di procedura per la composizione delle controversie.
 
-##### ARTICOLO 90
+#### ARTICOLO 90
 
 Le Parti convengono di consultarsi tempestivamente, attraverso i canali appropriati, su richiesta di una di esse per discutere di tutte le questioni inerenti all'interpretazione o all'applicazione del presente accordo e di altri aspetti delle loro relazioni.
 
 Le disposizioni del presente articolo non pregiudicano l'applicazione degli articoli 14, 89 e 95.
 
-##### ARTICOLO 91
+#### ARTICOLO 91
 
 Il trattamento riservato alla Repubblica di Armenia in base al presente accordo non puo' comunque essere piu' favorevole di quello che gli Stati membri si concedono reciprocamente.
 
-##### ARTICOLO 92
+#### ARTICOLO 92
 
 Ai fini del presente accordo, per "Parti" si intendono la Repubblica di Armenia, da un lato, e la Comunita', o gli Stati membri, o la Comunita' e gli Stati membri, a seconda dei rispettivi poteri, dall'altro.
 
-##### ARTICOLO 93
+#### ARTICOLO 93
 
 Fintantoche' le questioni contemplate dal presente accordo rientrano nel trattato e nei protocolli della Carta europea dell'energia, a decorrere dall'entrata in vigore di quest'ultima i suddetti trattato e protocolli si applicano, se ivi previsto, a tali questioni.
 
-##### ARTICOLO 94
+#### ARTICOLO 94
 
 Il presente accordo e' concluso per un periodo iniziale di dieci anni, dopo di che potra' essere automaticamente rinnovato di anno in anno a condizione che nessuna delle Parti lo denunci dandone notifica per iscritto all'altra Parte sei mesi prima della scadenza.
 
-##### ARTICOLO 95
+#### ARTICOLO 95
 
 1\. Le Parti prendono tutte le misure generali o specifiche necessarie per l'adempimento degli obblighi previsti dal presente accordo e si adoperano per il conseguimento dei suoi obiettivi.
 
@@ -1203,27 +1201,27 @@ Il presente accordo e' concluso per un periodo iniziale di dieci anni, dopo di c
 
 Nella scelta delle misure, si privilegiano quelle che meno perturbano il funzionamento del presente accordo. Se l'altra Parte lo richiede, le misure decise vengono comunicate senza indugio al consiglio di cooperazione.
 
-##### ARTICOLO 96
+#### ARTICOLO 96
 
 Gli allegati I, II, III e IV e il protocollo costituiscono parte integrante del presente accordo.
 
-##### ARTICOLO 97
+#### ARTICOLO 97
 
 Fino a che gli individui e gli operatori economici non godranno di diritti equivalenti a norma del presente accordo, quest'ultimo non pregiudichera' i diritti loro garantiti dagli accordi in vigore tra uno o piu' Stati membri, da una parte, e la Repubblica di Armenia, dall'altra, fatta eccezione per i settori di competenza comunitaria e fermi restando gli obblighi che l'accordo impone agli Stati membri nei settori di loro competenza.
 
-##### ARTICOLO 98
+#### ARTICOLO 98
 
 Il presente accordo si applica, da un lato, ai territori cui si applicano i trattati che istituiscono la Comunita' europea, la Comunita' europea del carbone e dell'acciaio e la Comunita' europea dell'energia atomica, alle condizioni ivi precisate, e, dall'altro, al territorio della Repubblica di Armenia.
 
-##### ARTICOLO 99
+#### ARTICOLO 99
 
 Il Segretario generale del Consiglio dell'Unione europea e' depositario del presente accordo.
 
-##### ARTICOLO 100
+#### ARTICOLO 100
 
 L'originale del presente accordo, redatto nelle lingue danese, finlandese, francese, greca, inglese, italiana, olandese, portoghese, spagnola, svedese, tedesca e armena, tutti i testi facenti ugualmente fede, e' depositato presso il Segretario Generale del Consiglio dell'Unione europea.
 
-##### ARTICOLO 101
+#### ARTICOLO 101
 
 Il presente accordo e' approvato dalle Parti secondo le rispettive procedure.
 
@@ -1231,11 +1229,11 @@ L'accordo entra in vigore il primo giorno del secondo mese successivo alla data 
 
 A decorrere dalla sua entrata in vigore il presente accordo sostituisce, per quanto riguarda le relazioni tra la Repubblica di Armenia e la Comunita', l'accordo tra la Comunita' economica europea, la Comunita' europea dell'energia atomica e l'Unione delle Repubbliche Socialiste Sovietiche sugli scambi e sulla cooperazione economica e commerciale, firmato il 18 dicembre 1989 a Bruxelles.
 
-##### ARTICOLO 102
+#### ARTICOLO 102
 
 Qualora, in attesa che siano espletate le procedure necessarie per l'entrata in vigore del presente accordo, le disposizioni di alcune sue parti siano applicate mediante un accordo interinale tra la Comunita' e la Repubblica di Armenia le Parti convengono che, nel caso specifico, per "data di entrata in vigore dell'accordo" si intende la data di entrata in vigore dell'accordo interinale.
 
-##### Allegato I
+#### Allegato I
 
 Parte di provvedimento in formato grafico
 
@@ -1249,7 +1247,7 @@ Tutti gli Stati indipendenti:
 
 Non sono applicati dazi all'importazione.
 
-##### Allegato II
+#### Allegato II
 
 ALLEGATO II
 
@@ -1301,7 +1299,7 @@ industriale (atto di Stoccolma del 1967, emendato nel 1979);
 
 5\. Le disposizioni del paragrafo 4 non si applicano ai vantaggi concessi dalla Repubblica di Armenia a un paese terzo, su base reciproca, ne' ai vantaggi concessi dalla Repubblica di Armenia ad un altro paese dell'ex U.R.S.S.
 
-##### Allegato III
+#### Allegato III
 
 ALLEGATO III
 
@@ -1395,7 +1393,7 @@ b) le attivita' svolte dalle banche centrali, dagli enti o dai dipartimenti gove
 
 c) le attivita' che rientrano nel sistema ufficiale della previdenza sociale o nei programmi di pensionamento dello Stato, escluse le attivita' svolte da fornitori di servizi finanziari in concorrenza con enti pubblici o con istituzioni private.
 
-##### Allegato IV
+#### Allegato IV
 
 ALLEGATO IV
 
@@ -1441,7 +1439,7 @@ TRA LE AUTORITA' AMMINISTRATIVE
 
 IN MATERIA DOGANALE
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 Definizioni
 
@@ -1455,7 +1453,7 @@ c) "autorita' interpellata": l'autorita' amministrativa competente all'uopo desi
 
 d) "dati personali": tutte le informazioni relative ad una persona fisica identificata.
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Campo di applicazione
 
@@ -1463,7 +1461,7 @@ Campo di applicazione
 
 2\. L'assistenza in materia doganale prevista dal presente protocollo si applica ad ogni autorita' amministrativa delle Parti competente per l'applicazione dello stesso. Essa non pregiudica le norme che disciplinano l'assistenza reciproca in materia penale ne' copre le informazioni ottenute grazie a poteri esercitati su richiesta dell'autorita' giudiziaria salvo accordo di detta autorita'.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 Assistenza su richiesta
 
@@ -1481,7 +1479,7 @@ c) i movimenti di merci per i quali sia stata segnalata la possibilita' che dian
 
 d) i mezzi di trasporto per i quali vi sono fondati motivi di ritenere che siano stati, siano ovvero possano essere utilizzati per operazioni in violazione della normativa doganale.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Assistenza spontanea
 
@@ -1497,7 +1495,7 @@ Le Parti si prestano assistenza reciproca, senza richiesta preventiva in base al
 
 \- mezzi di trasporto per i quali vi sono fondati motivi di ritenere che siano stati, siano ovvero possano essere utilizzati per violare la legislazione doganale.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 Consegna/Notifica
 
@@ -1509,7 +1507,7 @@ Su domanda dell'autorita' richiedente, l'autorita' interpellata, in base alla pr
 
 che rientrano nel campo di applicazione del presente protocollo ad un destinatario, residente o stabilito sul suo territorio. In tal caso si applica l'articolo 6, paragrafo 3 per quanto riguarda la domanda stessa.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 Forma e contenuto delle domande di assistenza
 
@@ -1533,7 +1531,7 @@ f) una sintesi dei fatti e delle indagini gia' svolte, salvo per i casi di cui a
 
 4\. Se la domanda non risponde ai requisiti formali stabiliti puo' esserne richiesta la correzione o il completamento; tuttavia possono essere disposte misure cautelative.
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 Accoglimento delle domande
 
@@ -1545,7 +1543,7 @@ Accoglimento delle domande
 
 4\. I funzionari di una Parte, d'intesa con l'altra Parte, possono essere presenti alle indagini condotte nel territorio di quest'ultima.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 Forma in cui devono essere comunicate le informazioni
 
@@ -1553,7 +1551,7 @@ Forma in cui devono essere comunicate le informazioni
 
 2\. I documenti di cui al paragrafo 1 possono essere sostituiti da informazioni computerizzate prodotte in qualsiasi forma per gli stessi fini.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 Eccezioni all'obbligo di fornire assistenza
 
@@ -1571,7 +1569,7 @@ d) violare un segreto industriale, commerciale o professionale.
 
 3\. Se l'assistenza e' negata, la decisione e le sue motivazioni devono essere notificate senza indugio all'autorita' richiedente.
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 Scambi di informazioni e riservatezza
 
@@ -1585,7 +1583,7 @@ Scambi di informazioni e riservatezza
 
 5\. Nei verbali, nelle relazioni e nelle testimonianze, nonche' nei procedimenti e nelle azioni penali promossi dinanzi a un tribunale, le Parti possono utilizzare come prova le informazioni ottenute e i documenti consultati in base alle disposizioni del presente protocollo.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 Esperti e testimoni
 
@@ -1593,13 +1591,13 @@ Esperti e testimoni
 
 2\. Il funzionario autorizzato gode della protezione assicurata dalla legislazione vigente ai funzionari dell'autorita' richiedente nel suo territorio.
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 Spese di assistenza
 
 Le Parti rinunciano reciprocamente a tutte le richieste di rimborso delle spese sostenute a norma del presente protocollo, escluse, a seconda dei casi, le spese per esperti e testimoni nonche' per gli interpreti e traduttori che non dipendono da pubblici servizi.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 Applicazione
 
@@ -1609,13 +1607,13 @@ Essi decidono in merito a tutte le misure pratiche e alle disposizioni necessari
 
 2\. Le Parti si consultano e si tengono reciprocamente informate in merito alle norme specifiche di esecuzione adottate in base alle disposizioni del presente protocollo.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 Complementarita'
 
 Fatto salvo l'articolo 10, gli eventuali accordi di assistenza reciproca conclusi fra uno o piu' Stati membri e la Repubblica di Armenia non pregiudicano le disposizioni comunitarie che disciplinano la comunicazione fra i competenti servizi della Commissione delle Comunita' europee e le autorita' doganali degli Stati membri delle informazioni ottenute in materia doganale che possano interessare la Comunita'.
 
-##### Atto finale
+#### Atto finale
 
 ATTO FINALE
 
@@ -1743,7 +1741,7 @@ b) nell'inosservanza degli elementi di base del presente accordo di cui all'arti
 
 2\. Le Parti convengono che per "misure del caso" di cui all'articolo 95 si intendono le misure prese in base al diritto internazionale. Se una Parte prende una misura in un caso particolarmente urgente a norma dell'articolo 95, l'altra Parte puo' ricorrere alla procedura di composizione delle controversie.
 
-##### Scambio di lettere
+#### Scambio di lettere
 
 SCAMBIO DI LETTERE
 

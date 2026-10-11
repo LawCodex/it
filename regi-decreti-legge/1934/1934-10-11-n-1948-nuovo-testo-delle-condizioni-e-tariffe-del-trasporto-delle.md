@@ -44,15 +44,15 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di 
 
 Abbiamo decretato e decretiamo:
 
-##### Art. 1
+#### Art. 1
 
 Sono approvate le nuove « Condizioni e tariffe per i trasporti delle persone sulle Ferrovie dello Stato » nel testo allegato al presente decreto e vistato, d'ordine Nostro, dal Ministro proponente.
 
-##### Art. 2
+#### Art. 2
 
 Le nuove « Condizioni e tariffe per i trasporti delle persone sulle Ferrovie dello Stato » entreranno in vigore dal 1° gennaio 1935-XIII.
 
-##### Art. 3
+#### Art. 3
 
 ((COMMA ABROGATO DALLA L. 22 DICEMBRE 1948, N. 1456))
 
@@ -102,7 +102,7 @@ Il D. Lgs. del Capo Provvisorio dello Stato 29 marzo 1947, n. 164 ha disposto (c
 
 CONDIZIONI E TARIFFE PER I TRASPORTI DELLE PERSONE
 
-##### Art. 1
+#### Art. 1
 
 OBBLIGHI DELL'AMMINISTRAZIONE.
 
@@ -128,7 +128,7 @@ AGGIORNAMENTO (9)
 
 Il D.P.R. 28 gennaio 1949, n. 12 ha disposto (con l'art. 1, comma 1) che "Nel capo 1 - Disposizioni generali - il minimo di eccedenza di tassa di cui all'art. 1 Par. 3, secondo comma, e' elevato da lire due a lire cinquanta per biglietto".
 
-##### Art. 2
+#### Art. 2
 
 OBBLIGHI DI CHI SI SERVE DELLA FERROVIA.
 
@@ -146,7 +146,7 @@ e) pagare agli agenti incaricati delle riscossioni le somme da essi richieste pe
 
 f) risarcire - senza pregiudizio delle pene comminate dalle leggi e dai decreti in vigore - tutti i danni che cagiona all'Amministrazione ed al suo personale; e se i danni sono arrecati a cose per la cui sostituzione o riparazione la Ferrovia abbia stabilita una tariffa, pagare l'indennita' in base ai prezzi della tariffa stessa.
 
-##### Art. 3
+#### Art. 3
 
 MODO DI ESECUZIONE DEI TRASPORTI.
 
@@ -158,7 +158,7 @@ La categoria dei treni e' stabilita dall'Amministrazione, in relazione al serviz
 
 § 2. - Con gli orari, possono essere stabilite particolari limitazioni per determinati treni e linee.
 
-##### Art. 4
+#### Art. 4
 
 STAZIONI E RECINTI FERROVIARI; SALE D'ASPETTO E CAFFE; CARROZZE E TRENI; DIVIETO DI FUMARE; RECLAMI CONTRO IL SERVIZIO DELLE FERROVIE.
 
@@ -236,9 +236,9 @@ Il possessore del biglietto di entrata puo' accedere ai marciapiedi interni dell
 
 Il biglietto di entrata e' valevole fino al termine dell'ora successiva a quella di emissione indicata sul biglietto stesso".
 
-## Capo II - DEL CONTRATTO DI TRASPORTO
+### Capo II - DEL CONTRATTO DI TRASPORTO
 
-##### Art. 5
+#### Art. 5
 
 AMMISSIONE AL TRASPORTO. BIGLIETTO.
 
@@ -300,7 +300,7 @@ Il commercio dei biglietti e la loro rivendita, qualora non sia autorizzata dall
 
 ((Per i biglietti nominativi e' prescritto il possesso, da parte del viaggiatore, di un documento personale di identificazione, da esibire a richiesta degli agenti ferroviari)).
 
-##### Art. 6
+#### Art. 6
 
 PERSONE ESCLUSE DAI TRENI O AMMESSE CONDIZIONATAMENTE.
 
@@ -314,7 +314,7 @@ Le persone malate o travagliate da affezioni che possono recare incomodo o sgrad
 
 Le persone ammalatesi durante il viaggio debbono essere trasportate almeno fino alla prima stazione dove possano trovare le cure necessarie.
 
-##### Art. 7
+#### Art. 7
 
 TRASPORTO DEI RAGAZZI.
 
@@ -330,7 +330,7 @@ AGGIORNAMENTO (18)
 
 Il D.P.R. 4 febbraio 1977, n. 32 ha disposto (con l'art. 1, comma 1, numero 12) che "[...] 12) il limite di eta' di 14 anni previsto dall'art. 7 per fruire della meta' prezzo e' modificato in 12 anni".
 
-##### Art. 8
+#### Art. 8
 
 MODIFICAZIONI AL CONTRATTO DI TRASPORTO.
 
@@ -374,7 +374,7 @@ Il D.Lgs. Luogotenenziale 29 marzo 1945, n. 151 ha disposto (con l'art. 3, commi
 
 Le eventuali frazioni di lira delle cifre risultanti dagli aumenti di cui ai precedenti commi, sono arrotondate in piu' fino alla lira intera".
 
-##### Art. 8-bis
+#### Art. 8-bis
 
 IRREGOLARITA' ED ABUSI.
 
@@ -434,7 +434,7 @@ Se di viaggiatore, consegnato all'arrivo del treno al capo stazione, si presta a
 
 Par. 10. - Soprattasse, penalita' e diritti pei biglietti collettivi. - Le soprattasse, le penalita' fisse e diritti si applicano per viaggiatore e in ogni caso separatamente da quelle previste per i colli a mano dalle Condizioni e Tariffe per i trasporti delle cose.
 
-##### Art. 9
+#### Art. 9
 
 INTERRUZIONI. RITARDI. SOPPRESSIONE TRENI.
 
@@ -478,7 +478,7 @@ Tuttavia, nell'ipotesi di cui alla lettera c), la sanzione pecuniaria e' applica
 
 Il pagamento degli importi stessi non conferisce al trasgressore il diritto di mantenere l'indebita occupazione di posti »".
 
-##### Art. 10
+#### Art. 10
 
 RIMBORSI.
 
@@ -516,9 +516,9 @@ AGGIORNAMENTO (9)
 
 Il D.P.R. 28 gennaio 1949, n. 12 ha disposto (con l'art. 1, comma 1) che "Nell'art. 10 Par. 3 del capo II, il massimo di lire 10 per viaggiatore ore e' elevato a lire trecento".
 
-## Capo III - RESPONSABILITA' - AZIONI
+### Capo III - RESPONSABILITA' - AZIONI
 
-##### Art. 11
+#### Art. 11
 
 RESPONSABILITA' E SUE LIMITAZIONI.
 
@@ -532,7 +532,7 @@ L'Amministrazione non risponde dell'operato dei suoi agenti e delle altre person
 
 § 4. - Responsabilita' per danno alle persone. - Se il viaggiatore subisce un danno nella persona in conseguenza di anormalita' verificatasi nell'esercizio ferroviario, l'Amministrazione ne risponde, a meno che provi che l'anormalita' e' avvenuta per caso fortuito o forza maggiore.
 
-##### Art. 12
+#### Art. 12
 
 DELL'AZIONE.
 
@@ -566,7 +566,7 @@ Il D.P.R. 19 ottobre 1979, n. 588 ha disposto (con l'art. 1, comma 1, numero 13)
 
 "Nei casi previsti dal comma d) del par. 1 e dal comma c) del par. 2, dalla somma da rimborsare viene dedotto un diritto del 10% col minimo di L. 500 e col massimo di L. 1.600 per viaggiatore. In ogni caso non si da' luogo a rimborso se la somma da corrispondere al viaggiatore, dopo l'applicazione della deduzione di cui sopra, risulti inferiore a L. 500"".
 
-##### Art. 13
+#### Art. 13
 
 ACCERTAMENTO SANITARIO DEI DANNI ALLE PERSONE.
 
@@ -588,7 +588,7 @@ Al predetto articolo 13 e' aggiunto, in fine, il seguente 5:
 
 "Responsabilita' in caso di incidenti nucleari. - Per danni conseguenti ad un incidente nucleare, da qualunque causa determinato, si applicano le disposizioni della legge 31 dicembre 1962, n. 1860 e del decreto del Presidente della Repubblica 10 maggio 1975, n. 519"".
 
-##### Art. 14
+#### Art. 14
 
 RAPPRESENTANZA DELL'AMMINISTRAZIONE.
 
@@ -608,7 +608,7 @@ AGGIORNAMENTO (19)
 
 La L. 7 ottobre 1977, n. 754 ha disposto (con l'art. 2, comma 1) che "All'articolo 14, § 1, delle "Condizioni e tariffe per i trasporti delle persone sulle ferrovie dello Stato" la lettera c) e' sostituita dalla seguente: "c) al viaggiatore in caso di danno subito alla persona durante la permanenza sui veicoli ferroviari o al momento in cui vi sale o ne discende, ovvero agli aventi diritto qualora il viaggiatore sia perito a causa del danno medesimo"".
 
-##### Art. 15
+#### Art. 15
 
 RECLAMO PREVENTIVO.
 
@@ -634,7 +634,7 @@ AGGIORNAMENTO (35)
 
 La Corte Costituzionale con sentenza 9 - 25 luglio 2008, n. 296 (in G.U. 1ª s.s. 30/07/2008, n. 32) ha dichiarato "la illegittimita' costituzionale dell'art. 15, primo comma, dell'allegato al regio decreto-legge 11 ottobre 1934, n. 1948 (Nuovo testo delle condizioni e tariffe per il trasporto delle persone sulle ferrovie dello Stato), convertito in legge 4 aprile 1935, n. 911 (Conversione in legge del r.d.l. 11 ottobre 1934, n. 1948, concernente l'approvazione di nuove «Condizioni e tariffe per il trasporto delle persone sulle Ferrovie dello Stato»)".
 
-##### Art. 16
+#### Art. 16
 
 PRESCRIZIONE DELLE AZIONI.
 
@@ -642,13 +642,11 @@ PRESCRIZIONE DELLE AZIONI.
 
 § 2 - Facolta' di delega. - Il Ministro per i trasporti e i direttori compartimentali, trattandosi di fatti non personali possono delegare, quali rappresentanti dell'amministrazione per determinati incombenti giudiziali, come il giuramento, l'interrogatorio o simili, quei funzionari che ebbero parte nel fatto o che ne hanno speciale conoscenza in ragione delle loro funzioni)).
 
-## PARTE II - TARIFFE
+## PARTE II - TARIFFE Condizioni particolari per l'applicazione delle tariffe - Prezzi
 
-### Condizioni particolari per l'applicazione delle - tariffe - Prezzi
+### Capo IV - FORMAZIONE DEI PREZZI DI TRASPORTO
 
-#### Capo IV - FORMAZIONE DEI PREZZI DI TRASPORTO
-
-##### Art. 17
+#### Art. 17
 
 CALCOLO DEI PREZZI.
 
@@ -700,7 +698,7 @@ Il Regio D.L. 22 dicembre 1938, n. 1927, convertito senza modificazioni dalla L.
 
 Ha inoltre disposto (con l'art. 9, comma 1) che "I provvedimenti di cui al presente decreto-legge entreranno in vigore con il 1° gennaio 1939-XVII".
 
-##### art. 18
+#### art. 18
 
 ((Art. 18.
 
@@ -716,7 +714,7 @@ In caso di morte del viaggiatore, il diritto degli aventi causa al risarcimento 
 
 § 3 - Decorrenza del termine in caso di riconoscimento di debito. - Se interviene un riconoscimento di debito prima che sia maturato il termine di cui al precedente § 1, il termine ricomincia a decorrere integralmente, per la parte di debito riconosciuta, dal giorno del riconoscimento)).
 
-##### Art. 19
+#### Art. 19
 
 BIGLIETTI DI SUPPLEMENTO.
 
@@ -826,9 +824,9 @@ Art. 19 - Calcolo dei prezzi:
 
 "I prezzi minimi per viaggiatore, sia per adulti che per ragazzi e per qualsiasi tariffa, eccettuate le tariffe n. 14, n. 14- bis e n. 14-ter, sono stabiliti in L. 2.500 per la 1a classe ed in L. 1.500 per la 2a classe"".
 
-## Capo V \<br/>((TARIFFA PER VIAGGI DI CORSA SEMPLICE))
+### Capo V \<br/>((TARIFFA PER VIAGGI DI CORSA SEMPLICE))
 
-##### Art. 20
+#### Art. 20
 
 LIMITI DI APPLICAZIONE.
 
@@ -848,7 +846,7 @@ I biglietti validi per una percorrenza non superiore a 700 km., e per cui la tar
 
 L'Amministrazione puo' emanare norme particolari per regolare la facolta' prevista dal secondo alinea del presente paragrafo e per l'uso delle deviazioni, e puo' inoltre stabilire un prezzo comune per due o piu' vie)).
 
-##### Art. 21
+#### Art. 21
 
 ((VALIDITA' E FERMATE.
 
@@ -872,7 +870,7 @@ L'uso delle fermate non e' subordinato ad alcuna speciale formalita' da parte de
 
 La durata delle fermate e' limitata soltanto dalla validita' del biglietto)).
 
-##### Art. 21-bis
+#### Art. 21-bis
 
 CONDIZIONI PARTICOLARI.
 
@@ -894,9 +892,9 @@ Il Decreto 31 dicembre 1985 (in G.U. 09/10/1986, n. 235) ha disposto (con l'art.
 
 Art. 21-bis - Oneri fiscali. - I prezzi indicati nelle presenti condizioni e tariffe relativi a prestazioni soggette all'imposta sul valore aggiunto (IVA) sono comprensivi di tale imposta".
 
-## Capo VI \<br/>((TARIFFA PER VIAGGI DI ANDATA E RITORNO))
+### Capo VI \<br/>((TARIFFA PER VIAGGI DI ANDATA E RITORNO))
 
-##### Art. 22
+#### Art. 22
 
 LIMITI DI APPLICAZIONE.
 
@@ -940,7 +938,7 @@ I prezzi dei biglietti di andata e ritorno per manifestazioni o speciali si otte
 
 Ai biglietti di andata e ritorno per fiere e mercati, festivi e per manifestazioni non si applica la riduzione per ragazzi dai quattro ai quattordici anni prevista dall'art. 7.
 
-##### Art. 23
+#### Art. 23
 
 VIAGGI DI DOPPIA CORSA
 
@@ -974,7 +972,7 @@ La durata delle fermate e' limitata soltanto dalla validita' del biglietto.
 
 Par. 8 - Norme applicabili. - Per quanto non previsto dal presente articolo, valgono le norme sui biglietti di andata e ritorno.
 
-##### Art. 24
+#### Art. 24
 
 ((FERMATE INTERMEDIE.
 
@@ -990,7 +988,7 @@ L'uso delle fermate intermedie non e' subordinato ad alcuna speciale formalita' 
 
 L'Amministrazione puo' stabilire particolari condizioni circa le fermate intermedie da effettuarsi con biglietti di andata e ritorno locali)).
 
-##### Art. 25
+#### Art. 25
 
 CONDIZIONI PARTICOLARI.
 
@@ -1046,9 +1044,9 @@ AGGIORNAMENTO (15)
 
 Il D.P.R. 16 aprile 1974, n. 165 ha disposto (con l'art. 1, comma 1, numero 3) che "I biglietti di andata e ritorno per fiere e mercati e di andata e ritorno festivi, di cui all'art. 25, sono soppressi".
 
-## Capo VII - TARIFFE PER TRASPORTI SPECIALI
+### Capo VII - TARIFFE PER TRASPORTI SPECIALI
 
-##### Art. 26
+#### Art. 26
 
 ((TRENI SPECIALI.
 
@@ -1074,7 +1072,7 @@ L'Amministrazione ha altresi' facolta' di effettuare, senza obbligo di rispettar
 
 Ai trasporti con treni speciali a iniziativa dell'Amministrazione si applicano i prezzi e le condizioni della tariffa n. 11)).
 
-##### art. 26-bis
+#### art. 26-bis
 
 ((Art. 26-bis.
 
@@ -1090,7 +1088,7 @@ L'Amministrazione non assume alcun impegno di fornire i tipi di carrozze richies
 
 La domanda di proseguimento senza trasbordo viene accolta compatibilmente con le esigenze di servizio. Per il proseguimento senza trasbordo, quando richiesto, sono dovute le tasse indicate nell'Allegato n. 1, punto 14)).
 
-##### Art. 27
+#### Art. 27
 
 COMPARTIMENTI INTERI.
 
@@ -1114,7 +1112,7 @@ In aggiunta ai prezzi suddetti, e' dovuto, per ogni compartimento, il diritto fi
 
 ((La concessione dei compartimenti interi e' accordata compatibilmente con le esigenze del servizio)).
 
-##### Art. 28
+#### Art. 28
 
 CARROZZE SALONE E SALONCINI DELL'AMMINISTRAZIONE.
 
@@ -1136,7 +1134,7 @@ Col pagamento delle tasse suddette resta a disposizione dei viaggiatori l'intera
 
 Se i viaggiatori intendono riservarsi anche detti compartimenti laterali devono pagare per ciascuno di essi anche le tasse di cui ai primi tre capoversi dall'art. 27 e, se i detti compartimenti offrono posti a letto, devono pagare in aggiunta e per ogni letto un supplemento pari al prezzo di un biglietto di prima classe a tariffa n. 3.
 
-##### Art. 29
+#### Art. 29
 
 CARROZZE DI ALTRE AMMINISTRAZIONI E DEI PRIVATI.
 
@@ -1152,7 +1150,7 @@ Quando sia consentito il trasporto nelle carrozze suddette dei colli bagaglio ec
 
 ((Il Ministro per i trasporti e l'aviazione civile, in relazione alle esigenze del mercato ed alle condizioni dello esercizio ferroviario, ha facolta' di sospendere temporaneamente l'applicazione delle tariffe per treni speciali e di modificare sia la misura delle riduzioni sia le condizioni di applicazione delle tariffe stesse)).
 
-##### Art. 30
+#### Art. 30
 
 AMMALATI E DEMENTI.
 
@@ -1188,7 +1186,7 @@ AGGIORNAMENTO (27)
 
 Il D.P.R. 2 agosto 1982, n. 659 ha disposto (con l'art. 1, comma 1, numero 12) che "[...] 12) al terzo capoverso dell'articolo 30 e' aggiunto quanto segue: "Contemporaneamente a detta domanda deve essere versato il deposito cauzionale indicato nell'allegato n. 1, punto 16-bis. Se, per fatto di chi ha richiesto il trasporto, questo non abbia piu' luogo nel giorno ed ora stabiliti, l'Amministrazione ha diritto di trattenere il deposito cauzionale".
 
-##### Art. 31
+#### Art. 31
 
 ((CARROZZE CON COMPARTIMENTO PER TRASPORTO FERETRI.
 
@@ -1198,7 +1196,7 @@ Hanno diritto di prendere posto nella carrozza speciale tre persone adulte. Due 
 
 Ogni persona in piu' deve munirsi di un biglietto di prima classe a tariffa n. 5. Nel computo delle persone non si tiene conto dei ragazzi d'eta' inferiore ai 4 anni)).
 
-##### Art. 32
+#### Art. 32
 
 REGOLE COMUNI PER I TRASPORTI SPECIALI
 
@@ -1212,9 +1210,9 @@ Quando queste prevedono il pagamento di un numero minimo di biglietti, il supple
 
 ((Per l'impiego di veicoli di proprieta' di terzi, sia in composizione a treni ordinari che a treni speciali, l'Amministrazione ha facolta' di stabilire particolari disposizioni, sia riguardo ai prezzi che alle altre condizioni di impiego)).
 
-## Capo VIII - TARIFFE PER VIAGGI IN COMITIVA
+### Capo VIII - TARIFFE PER VIAGGI IN COMITIVA
 
-##### Art. 33
+#### Art. 33
 
 ((LIMITI DI APPLICAZIONE.
 
@@ -1266,7 +1264,7 @@ Par. 3. - Limitazioni. - Nessuna riduzione e' consentita per i viaggi in carrozz
 
 Par. 4. - Traffico turistico internazionale. - La Direzione generale delle ferrovie dello Stato, ai fini dell'acquisizione di traffico turistico da e per l'estero, ha facolta' di stabilire, di volta in volta, condizioni e prezzi particolari per l'effettuazione di trasporti in comitiva a carattere periodico)).
 
-##### Art. 34
+#### Art. 34
 
 ((VALIDITA' DEI BIGLIETTI. - FERMATE.
 
@@ -1276,7 +1274,7 @@ Per i biglietti di cui alla lettera c) del par. 1 dell'art. 33 (comitive festive
 
 Le comitive di cui ai precedenti alinea hanno diritto di effettuare, entro i termini di validita' del biglietto, un numero illimitato di fermate intermedie)).
 
-##### Art. 35
+#### Art. 35
 
 ((CONDIZIONI PARTICOLARI.
 
@@ -1314,7 +1312,7 @@ Il passaggio ad un treno di categoria superiore, per la quale il prezzo di trasp
 
 Par. 4. - Rimborsi. - L'Amministrazione non e' tenuta ad accordare i rimborsi previsti dall'art. 10, se le circostanze che danno diritto al rimborso non si verificano per tutti i componenti la comitiva)).
 
-##### Art. 36
+#### Art. 36
 
 ARTICOLO NON PIU' PREVISTO DAL D.P.R. 26 GIUGNO 1956, N. 582
 
@@ -1364,7 +1362,7 @@ Il D.P.R. 31 marzo 1983, n. 120 ha disposto (con l'art. 2, comma 1) che "Con dec
 
 ## Capo IX \<br/>((TARIFFE PER VIAGGI CIRCOLARI AD ITINERARIO COMBINABILE))
 
-##### Art. 37
+#### Art. 37
 
 LIMITI DI APPLICAZIONE - PREZZI.
 
@@ -1388,7 +1386,7 @@ AGGIORNAMENTO (20)
 
 Il D.P.R. 7 giugno 1978, n. 342 ha disposto (con l'art. 1, comma 1, numero 16)) che "[...] 16) le indicazioni "trenta giorni" e "sessanta giorni" figuranti agli articoli 37, 40 paragrafo 2, 43 paragrafo 10 e 45, paragrafo 6, sono modificate rispettivamente in, un mese e in due mesi".
 
-##### Art. 38
+#### Art. 38
 
 BIGLIETTI - FERMATE.
 
@@ -1408,7 +1406,7 @@ Par. -2. - Validita dei biglietti. - La validita' dei biglietti e' stabilita in 
 
 Par. 3. - FERMATE. - I biglietti danno diritto ad effettuare, lungo l'itinerario sui medesimi indicato, un numero illimitato di fermate intermedie, la cui durata e' limitata soltanto dalla validita' del biglietto.
 
-##### Art. 39
+#### Art. 39
 
 ((CONDIZIONI PARTICOLARI.
 
@@ -1440,9 +1438,9 @@ Il Regio D.L. 22 dicembre 1938, n. 1927, convertito senza modificazioni dalla L.
 
 Ha inoltre disposto (con l'art. 9, comma 1) che "I provvedimenti di cui al presente decreto-legge entreranno in vigore con il 1° gennaio 1939-XVII".
 
-## Capo X - ((TARIFFE PER BIGLIETTI DI ABBONAMENTO ORDINARIO))
+### Capo X - ((TARIFFE PER BIGLIETTI DI ABBONAMENTO ORDINARIO))
 
-##### Art. 40
+#### Art. 40
 
 LIMITI DI APPLICAZIONE.
 
@@ -1474,7 +1472,7 @@ AGGIORNAMENTO (20)
 
 Il D.P.R. 7 giugno 1978, n. 342 ha disposto (con l'art. 1, comma 1, numero 16)) che "[...] 16) le indicazioni "trenta giorni" e "sessanta giorni" figuranti agli articoli 37, 40 paragrafo 2, 43 paragrafo 10 e 45, paragrafo 6, sono modificate rispettivamente in, un mese e in due mesi".
 
-##### Art. 41
+#### Art. 41
 
 ((CONDIZIONI DI APPLICAZIONE.
 
@@ -1564,9 +1562,9 @@ Il Regio D.L. 22 dicembre 1938, n. 1927, convertito senza modificazioni dalla L.
 
 Ha inoltre disposto (con l'art. 9, comma 1) che "I provvedimenti di cui al presente decreto-legge entreranno in vigore con il 1° gennaio 1939-XVII".
 
-## Capo XI - ((TARIFFA PER BIGLIETTI DI ABBONAMENTO A RIDUZIONE))
+### Capo XI - ((TARIFFA PER BIGLIETTI DI ABBONAMENTO A RIDUZIONE))
 
-##### Art. 42
+#### Art. 42
 
 ((LIMITI DI APPLICAZIONE.
 
@@ -1606,7 +1604,7 @@ Il biglietto di abbonamento a riduzione non da' diritto a fermate intermedie.
 
 L'Amministrazione non e' tenuta a rilasciare piu' di un abbonamento per volta a ciascun avente diritto)).
 
-##### Art. 43
+#### Art. 43
 
 CONDIZIONI PARTICOLARI.
 
@@ -1690,11 +1688,9 @@ AGGIORNAMENTO (28)
 
 Il D.P.R. 31 marzo 1983, n. 120 ha disposto (con l'art. 1, comma 1) che "Con decorrenza 1 maggio 1983 alle "Condizioni e tariffe per i trasporti delle persone sulle ferrovie dello Stato" sono apportate le seguenti modificazioni: [...] 11) il prezzo dell'abbonamento speciale valido per il servizio urbano di Roma, previsto all'articolo 43 par. 11, e' fissato in L. 6.000".
 
-## Capo XII - ((TARIFFA PER BIGLIETTI DI ABBONAMENTO
+### Capo XII - ((TARIFFA PER BIGLIETTI DI ABBONAMENTO AI SUPPLEMENTI PER TRENI RAPIDI))
 
-### AI SUPPLEMENTI PER TRENI RAPIDI))
-
-##### Art. 44
+#### Art. 44
 
 ((Limiti di applicazione
 
@@ -1770,7 +1766,7 @@ Il D.P.R. 19 ottobre 1979, n. 588 ha disposto (con l'art. 1, comma 1, numero 16)
 
 "Gli abbonamenti di cui alle precedenti lettere a), c) e d) si rilasciano per percorrenze non superiori a 250 chilometri. Tuttavia per quelli a favore dei docenti universitari e degli iscritti ad istituti di istruzione superiore a carattere universitario, nonche' per quelli a favore dei magistrati di ogni ordine e grado, la percorrenza massima e' elevata a 350 chilometri"".
 
-##### Art. 45
+#### Art. 45
 
 ((Condizioni particolari
 
@@ -1936,17 +1932,15 @@ AGGIORNAMENTO (27)
 
 Il D.P.R. 2 agosto 1982, n. 659 ha disposto (con l'art. 1, comma 1, numero 13) che "[...] 13) all'art. 45 paragrafo 6 le parole "con un minimo di lire mille" figuranti all'ultimo capoverso sono soppresse".
 
-## CAPO XIII - TARIFFA PER BIGLIETTI DI ABBONAMENTO
+### CAPO XIII - TARIFFA PER BIGLIETTI DI ABBONAMENTO PER IL PERSONALE CIVILE E MILITARE DELLE AMMINISTRAZIONI DELLO STATO E RISPETTIVE FAMIGLIE
 
-### PER IL PERSONALE CIVILE E MILITARE DELLE AMMINISTRAZIONI - DELLO STATO E RISPETTIVE FAMIGLIE
+### ((CAPO NON PIU' PREVISTO DAL D.P.R. 26 GIUGNO 1956, N. 582))
 
-#### ((CAPO NON PIU' PREVISTO DAL D.P.R. 26 GIUGNO 1956, N. 582))
-
-##### Art. 46
+#### Art. 46
 
 ((ARTICOLO NON PIU' PREVISTO DAL D.P.R. 26 GIUGNO 1956, N. 582))
 
-##### art. 47
+#### art. 47
 
 Condizioni e tariffe per i trasporti delle persone-art. 47
 
@@ -1954,13 +1948,13 @@ Condizioni e tariffe per i trasporti delle persone-art. 47
 
 ## Capo XIV \<br/>((TARIFFA PER BIGLIETTI DI ABBONAMENTO SETTIMANALI E FESTIVI PER IMPIEGATI, OPERAI E BRACCIANTI))
 
-##### art. 48
+#### art. 48
 
 Condizioni e tariffe per i trasporti delle persone-art. 48
 
 ((ARTICOLO ABROGATO DAL DECRETO 15 NOVEMBRE 1989 (IN G.U. 28/11/1989) ))
 
-##### Art. 49
+#### Art. 49
 
 CONDIZIONI PARTICOLARI.
 
@@ -2020,7 +2014,7 @@ Il D.Lgs. Luogotenenziale 30 gennaio 1946, n. 10 ha disposto (con l'art. 2, comm
 
 "Alle persone indicate nei precedenti comma a) e b) l'Amministrazione puo' rilasciare altresi' biglietti di abbonamento festivi di 2° e 3° classe valevoli per quattro viaggi di andata e quattro di ritorno da effettuarsi in corrispondenza di quattro domeniche consecutive -- o di quattro festivita' consecutive comprese fra quelle indicate nell'allegato n. 3 -- per recarsi dalla localita' di lavoro o di studio a quella della propria residenza o di residenza della propria famiglia e per ritornarne. I viaggi di andata debbono essere effettuati il giorno precedente il festivo, quelli di ritorno al luogo di lavoro o di studio nelle ore pomeridiane del giorno festivo o nel giorno feriale seguente"".
 
-##### Art. 50
+#### Art. 50
 
 ARTICOLO NON PIU' PREVISTO DAL D.P.R. 28 GENNAIO 1949, N. 12
 
@@ -2040,9 +2034,9 @@ Il D.P.R. 19 ottobre 1979, n. 588 ha disposto (con l'art. 1, comma 1, numero 17)
 
 "Tale data non puo' essere posteriore a due mesi da quella di emissione per i biglietti rilasciati in Europa e a sei mesi per quelli rilasciati nei Paesi extraeuropei"".
 
-## Capo XV - TARIFFA PER BIGLIETTI DI LIBERA CIRCOLAZIONE
+### Capo XV - TARIFFA PER BIGLIETTI DI LIBERA CIRCOLAZIONE
 
-##### Art. 51
+#### Art. 51
 
 LIMITI DI APPLICAZIONE.
 
@@ -2068,7 +2062,7 @@ AGGIORNAMENTO (13)
 
 Il D.P.R. 26 giugno 1956, n. 582 ha disposto (con l'art. 2, comma 1) che "Le indicazioni circa la durata di validita' di 10 o 20 giorni, contenute nel primo alinea dell'art. 51, sono abrogate e sostituite rispettivamente dalle indicazioni di 15 o 30 giorni".
 
-##### Art. 52
+#### Art. 52
 
 CONDIZIONI PARTICOLARI.
 
@@ -2086,11 +2080,9 @@ AGGIORNAMENTO (13)
 
 Il D.P.R. 26 giugno 1956, n. 582 ha disposto (con l'art. 2, comma 1) che "Il quinto alinea dell'art. 52, riguardante la facolta' di proroga dei biglietti, e' abrogato".
 
-## Capo XVI - TESSERE DI AUTORIZZAZIONE PER L'ACQUISTO DI BIGLIETTI A
+### Capo XVI - TESSERE DI AUTORIZZAZIONE PER L'ACQUISTO DI BIGLIETTI A PREZZO RIDOTTO
 
-### PREZZO RIDOTTO
-
-##### Art. 53
+#### Art. 53
 
 LIMITI DI APPLICAZIONE.
 
@@ -2112,7 +2104,7 @@ Alle tessere di autorizzazione ed ai relativi viaggi di corsa semplice a prezzo 
 
 ((Per la vendita all'estero dei biglietti chilometrici, la Direzione generale delle ferrovie dello Stato ha la facolta' di esprimere in valuta estera il valore tariffario del biglietto e di garantire tale valore per periodi determinati dalla Direzione generale medesima, comunque di durata non superiore ai 18 mesi)).
 
-##### Art. 54
+#### Art. 54
 
 CONDIZIONI DI APPLICAZIONE.
 
@@ -2120,9 +2112,9 @@ i biglietti chilometrici sono rilasciati a vista dalle stazioni e dalle agenzie 
 
 La validita' decorre dal giorno in cui se ne inizia l'utilizzazione risultante dalla data della prima vidimazione. ((Tale data non puo' essere apposta oltre il termine di un mese da quella di emissione)).
 
-## Capo XVII - TARIFFA PER FAMIGLIE VIAGGIANTI IN GRUPPO
+### Capo XVII - TARIFFA PER FAMIGLIE VIAGGIANTI IN GRUPPO
 
-##### Art. 55
+#### Art. 55
 
 LIMITI DI APPLICAZIONE.
 
@@ -2132,15 +2124,15 @@ Agli effetti della riduzione sopradetta si considerano componenti di una medesim
 
 Le persone di servizio sono soltanto quelle salariate che prestano opera manuale e fanno servizio continuativo, come camerieri, domestici, fantesche, bambinaie, governanti, autisti e simili, esclusi quindi i precettori, gli istitutori e simili.
 
-##### Art. 56
+#### Art. 56
 
 CONDIZIONI PARTICOLARI.
 
 L'Amministrazione ha facolta' di stabilire le condizioni particolari ed ogni modalita' per l'applicazione della tariffa di cui al presente Capo.
 
-## Capo XVIII - TARIFFE PER LINEE IN PARTICOLARI CONDIZIONI DI ESERCIZIO
+### Capo XVIII - TARIFFE PER LINEE IN PARTICOLARI CONDIZIONI DI ESERCIZIO
 
-##### Art. 57
+#### Art. 57
 
 ((LINEE COMPLEMENTARI A SCARTAMENTO RIDOTTO DELLA SICILIA.
 
@@ -2160,7 +2152,7 @@ f) le tasse accessorie previste dalle seguenti Condizioni e Tariffe si applicano
 
 Per i trasporti delle persone in servizio diretto con la rete principale e per quelli in transito sulle complementari la tassazione e' fatta sui percorsi separati delle due reti in base alle tariffe competenti. Le tasse accessorie previste dalle singole tariffe per i viaggi delle persone si applicano una sola volta. Per i biglietti di abbonamento di cui ai capi X, XI, XII, XIII e XIV, la tassazione e' fatta sul cumulo delle distanze effettive)).
 
-##### Art. 58
+#### Art. 58
 
 ((LINEE SECONDARIE DELLA VENEZIA TRIDENTINA.
 
@@ -2170,7 +2162,7 @@ Ai trasporti sulla linea Chiusa Val Gardena-Plan Val Gardena si applicano integr
 
 Nei viaggi in servizio diretto con la rete principale si applicano le disposizioni stabilite dall'ultimo alinea del precedente art. 57)).
 
-##### Art. 59
+#### Art. 59
 
 ((LINEA NAPOLI-POZZUOLI SOLFATARA (METROPOLITANA).
 
@@ -2196,19 +2188,19 @@ in base alla distanza minima tassabile di km. 5 per la percorrenza Napoli Campi 
 
 In servizio diretto fra la linea Napoli-Pozzuoli Solfatara e la rete principale si applicano integralmente le condizioni e tariffe in vigore su quest'ultima, col cumulo delle distanze reali)).
 
-##### Art. 60
+#### Art. 60
 
 LINEA CERIGNOLA CAMPAGNA-CERIGNOLA.
 
 In servizio locale della linea Cerignola Campagna-Cerignola si applicano integralmente le tariffe e condizioni in vigore sulla rete principale. In servizio fra detta linea e la rete principale si applicano le condizioni e le tariffe in vigore su quest'ultima, tassando separatamente il percorso di detta linea da quello della rete principale ((...)).
 
-## Capo XIX - TRASPORTI MILITARI E CONCESSIONI SPECIALI
+### Capo XIX - TRASPORTI MILITARI E CONCESSIONI SPECIALI
 
-##### Art. 61
+#### Art. 61
 
 ((ARTICOLO SOPPRESSO DAL D.P.R. 28 GENNAIO 1949, N. 12))
 
-##### Prezzi
+#### Prezzi
 
 PREZZI.
 
@@ -2668,7 +2660,7 @@ L'Ente ferrovie dello Stato e' autorizzato a modificare i prezzi della tariffa 1
 
 ## PARTE III
 
-##### Allegato n. 1
+#### Allegato n. 1
 
 ALLEGATI
 
@@ -2738,7 +2730,7 @@ AGGIORNAMENTO (28)
 
 Il D.P.R. 31 marzo 1983, n. 120 ha disposto (con l'art. 1, comma 1) che la presente modifica avra' decorrenza 1 maggio 1983.
 
-##### Allegato n. 2
+#### Allegato n. 2
 
 ALLEGATO N. 2.
 
@@ -2798,7 +2790,7 @@ a) Le monete d'oro calanti il mezzo per cento e quelle d'argento calanti l'uno p
 
 b) le monete d'oro francesi da L. 5 e 10 di diametro inferiore a quello delle monete italiane dello stesso valore.
 
-##### Allegato n. 3
+#### Allegato n. 3
 
 ALLEGATO N. 3.
 
@@ -2832,7 +2824,7 @@ Il giorno dell'Epifania;
 
 » » di Natale.
 
-##### Allegato n. 4
+#### Allegato n. 4
 
 ALLEGATO N. 4.
 

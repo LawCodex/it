@@ -28,11 +28,9 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - MODIFICHE AL LIBRO SESTO DEL CODICE CIVILE ED ALLE RELATIVE
+## TITOLO I - MODIFICHE AL LIBRO SESTO DEL CODICE CIVILE ED ALLE RELATIVE DISPOSIZIONI DI ATTUAZIONE
 
-### DISPOSIZIONI DI ATTUAZIONE
-
-#### Art. 1
+### Art. 1
 
 L'articolo 2659 del codice civile e' sostituito dal seguente:
 
@@ -48,7 +46,7 @@ L'articolo 2659 del codice civile e' sostituito dal seguente:
 
 Se l'acquisto, la rinunzia o la modificazione del diritto sono sottoposti a termine o a condizione, se ne deve fare menzione nella nota di trascrizione. Tale menzione non e' necessaria se, al momento in cui l'atto si trascrive, la condizione sospensiva si e' verificata o la condizione risolutiva e' mancata ovvero il termine iniziale e' scaduto".
 
-#### Art. 2
+### Art. 2
 
 Il numero 1) del secondo comma dell'articolo 2660 del codice civile e' sostituito dal seguente:
 
@@ -76,7 +74,7 @@ Il numero 1) del secondo comma dell'articolo 2660 del codice civile e' sostituit
 
 > 6\) la condizione o il termine, qualora siano apposti alla disposizione testamentaria, salvo il caso contemplato dal secondo comma del precedente articolo, nonche' la sostituzione fidecommissaria, qualora sia stata disposta a norma dell'art. 692".
 
-#### Art. 3
+### Art. 3
 
 Il primo comma dell'articolo 2664 del codice civile e' sostituito dal seguente:
 
@@ -90,7 +88,7 @@ Il primo comma dell'articolo 2664 del codice civile e' sostituito dal seguente:
 
 > Il conservatore deve restituire al richiedente uno degli originali della nota, nel quale deve certificare l'eseguita trascrizione con le indicazioni sopra accennate".
 
-#### Art. 4
+### Art. 4
 
 Il secondo comma dell'articolo 2673 del codice civile e' sostituito dal seguente:
 
@@ -106,7 +104,7 @@ Il secondo comma dell'articolo 2673 del codice civile e' sostituito dal seguente
 
 > Il conservatore deve anche rilasciare copia dei documenti che sono depositati presso di lui in originale o i cui originali sono depositati negli atti di un notaio o in pubblico archivio fuori della circoscrizione del tribunale nella quale ha sede il suo ufficio".
 
-#### Art. 5
+### Art. 5
 
 Il primo comma dell'articolo 2674 di codice civile e' sostituito dal seguente:
 
@@ -120,13 +118,13 @@ Il primo comma dell'articolo 2674 di codice civile e' sostituito dal seguente:
 
 > In ogni altro caso il conservatore non puo' ricusare o ritardare di ricevere la consegna dei titoli presentati e di eseguire le trascrizioni, iscrizioni o annotazioni richieste, nonche' di spedire le copie o i certificati. Le parti possono far stendere immediatamente verbale di rifiuto o del ritardo da un notaio o da un ufficiale giudiziario assistito da due testimoni".
 
-#### Art. 6
+### Art. 6
 
 Dopo l'articolo 113 delle disposizioni per l'attuazione del codice civile e' inserito il seguente:
 
 "Art. 113-bis. - Il conservatore, nel caso in cui non riceva i titoli e le note ai sensi dell'articolo 2674 del codice, indica sulle note i motivi del rifiuto e restituisce uno degli originali alla parte richiedente. La parte puo' avvalersi del procedimento stabilito nell'articolo 745 del codice di procedura civile. Dello stesso procedimento la parte puo' avvalersi per il ritardo nel rilascio di certificati o di copie. Il pubblico ministero comunica al Ministero di grazia e giustizia e al Ministero delle finanze la decisione adottata".
 
-#### Art. 7
+### Art. 7
 
 Dopo l'articolo 2674 del codice civile e' inserito il seguente:
 
@@ -134,7 +132,7 @@ Dopo l'articolo 2674 del codice civile e' inserito il seguente:
 
 La parte a favore della quale e' stata eseguita la formalita' con riserva deve proporre reclamo all'autorita' giudiziaria".
 
-#### Art. 8
+### Art. 8
 
 Dopo l'articolo 113-bis delle disposizioni per l'attuazione del codice civile e' inserito il seguente:
 
@@ -148,13 +146,13 @@ A margine della formalita' eseguita con riserva il conservatore annota la propos
 
 Quando il reclamo non e' proposto o e' rigettato definitivamente, la formalita' perde ogni effetto".
 
-#### Art. 9
+### Art. 9
 
 L'articolo 2677 del codice civile e' sostituito dal seguente:
 
 "Art. 2677 - (Orario per le domande di trascrizione o di iscrizione). - Il conservatore non puo' ricevere alcuna domanda di trascrizione o di iscrizione fuorche' nelle ore, determinate dalla legge, nelle quali l'ufficio e' aperto al pubblico".
 
-#### Art. 10
+### Art. 10
 
 L'articolo 2678 del codice civile e' sostituito dal seguente:
 
@@ -164,7 +162,7 @@ Questo registro deve indicare il numero d'ordine, il giorno della richiesta ed i
 
 Appena avvenuta l'accettazione del titolo e della nota, il conservatore ne deve dare ricevuta in carta libera all'esibitore, senza spesa; la ricevuta contiene l'indicazione del numero di presentazione".
 
-#### Art. 11
+### Art. 11
 
 L'articolo 2679 del codice civile e' sostituito dal seguente:
 
@@ -178,7 +176,7 @@ L'articolo 2679 del codice civile e' sostituito dal seguente:
 
 Deve inoltre tenere gli altri registri che sono ordinati dalla legge".
 
-#### Art. 12
+### Art. 12
 
 L'articolo 2680 del codice civile e' sostituito dal seguente:
 
@@ -190,13 +188,13 @@ Il registro, alla fine di ciascun giorno, deve essere chiuso con l'indicazione d
 
 In esso si deve rigorosamente osservare la serie delle date, dei fogli e dei numeri d'ordine".
 
-#### Art. 13
+### Art. 13
 
 L'articolo 2826 del codice civile e' sostituito dal seguente:
 
 "Art. 2826 - (Indicazione dell'immobile ipotecato). Nell'atto di concessione dell'ipoteca l'immobile deve essere specificamente designato con l'indicazione della sua natura, del comune in cui si trova, nonche' dei dati di identificazione catastale; per i fabbricati in corso di costruzione devono essere indicati i dati di identificazione catastale del terreno su cui insistono".
 
-#### Art. 14
+### Art. 14
 
 L'articolo 2839 del codice civile e' sostituito dal seguente:
 
@@ -222,7 +220,7 @@ Per le obbligazioni all'ordine o al portatore si devono osservare le norme dell'
 
 7\) la natura e la situazione dei beni gravati, con le indicazioni prescritte dall'articolo 2826".
 
-#### Art. 15
+### Art. 15
 
 Il primo comma dell'articolo 2887 del codice civile e' sostituito dal seguente:
 
@@ -238,7 +236,7 @@ Il primo comma dell'articolo 2887 del codice civile e' sostituito dal seguente:
 
 ## TITOLO II - NORME DI SERVIZIO IPOTECARIO
 
-#### Art. 16
+### Art. 16
 
 I servizi delle conservatorie dei registri immobiliari sono meccanizzati mediante l'uso di elaboratori elettronici.
 
@@ -248,7 +246,7 @@ Con lo stesso o con successivo decreto interministeriale viene stabilita per cia
 
 ((Con successivo decreto del Ministro delle finanze, di concerto con il Ministro di grazia e giustizia, viene stabilita, per ciascuna conservatoria dei registri immobiliari, la data a decorrere dalla quale la presentazione della nota di trascrizione, di iscrizione e della domanda di annotazione da qualunque titolo derivanti avviene secondo le modalita' stabilite dal secondo periodo del secondo comma.))
 
-#### Art. 17
+### Art. 17
 
 Le note di trascrizione o iscrizione di cui agli articoli 2659, 2660 e 2839 del codice civile debbono essere redatte su modelli a stampa conformi a quelli approvati con decreto interministeriale da emanarsi di concerto tra il Ministro delle finanze e il Ministro di grazia e giustizia.
 
@@ -266,17 +264,17 @@ L'avviso di vendita esattoriale costituisce, il titolo per la trascrizione del p
 
 Ad eccezione delle rettifiche eventualmente occorrenti per errori materiali dell'ufficio e per le trascrizioni, iscrizioni e rinnovazioni da eseguirsi d'ufficio a norma di legge, non e' consentito alle conservatorie di redigere le note di trascrizione, di iscrizione, di rinnovazione e di annotazione, nonche' le domande di certificati ipotecari.
 
-#### Art. 18
+### Art. 18
 
 Oltre ai casi previsti dall'articolo 2674 del codice civile, il conservatore non puo' ricevere le note di trascrizione, iscrizione o annotazione quando non sono conformi alle disposizioni di cui al precedente articolo.
 
-#### Art. 19
+### Art. 19
 
 Il conservatore, oltre ai registri di cui agli articoli 2678 e 2679 del codice civile, deve tenere gli archivi, i registri e gli elenchi che saranno stabiliti con il decreto interministeriale previsto dal secondo comma dell'articolo 16.
 
 Le annotazioni previste dalla legge sono eseguite in calce alle note originali di cui all'articolo 2664 del codice civile mediante indicazione della natura, della data e del numero particolare della formalita' di annotazione.
 
-#### Art. 19-bis
+### Art. 19-bis
 
 ((1. Fatto salvo quanto previsto dall'articolo 61 del codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, le annotazioni nei pubblici registri immobiliari relative a trascrizioni, iscrizioni e annotazioni sono eseguite, a tutti gli effetti di legge, mediante l'inserimento dei dati relativi alle domande di annotazione negli archivi informatici delle conservatorie dei registri immobiliari.
 
@@ -288,7 +286,7 @@ Le annotazioni previste dalla legge sono eseguite in calce alle note originali d
 
 5\. L'Agenzia del territorio provvede all'assolvimento dei nuovi compiti derivantidall'attuazione del presente articolo con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente, senza nuovi o maggiori oneri a carico della finanza pubblica)).
 
-#### Art. 20
+### Art. 20
 
 Per ogni ispezione ipotecaria il richiedente deve presentare alla conservatoria apposita richiesta su moduli a stampa forniti dall'Amministrazione finanziaria.
 
@@ -304,7 +302,7 @@ Il richiedente puo' in ogni caso avere in visione la nota originale o il titolo.
 
 Il decreto interministeriale previsto dal secondo comma dell'articolo 16 potra' autorizzare le ispezioni anche mediante interrogazione a distanza direttamente sugli elaboratori elettronici utilizzati dalle conservatorie, stabilendone le modalita' e le caratteristiche tecniche.
 
-#### Art. 21
+### Art. 21
 
 Per il rilascio di ogni stato o certificato, generale o speciale, delle trascrizioni, iscrizioni o rinnovazioni e per ogni copia delle medesime formalita', delle note originali, delle annotazioni e dei titoli depositati nelle conservatorie, il richiedente deve presentare al conservatore apposita domanda sottoscritta, compilata su moduli a stampa conformi a quelli approvati dall'Amministrazione finanziaria.
 
@@ -314,7 +312,7 @@ Il conservatore rilascia alla parte richiedente ricevuta in carta libera delle d
 
 Ove la parte lo richieda il conservatore deve rilasciare, in base ad un'unica domanda, il certificato cumulativo delle iscrizioni e trascrizioni.
 
-#### Art. 22
+### Art. 22
 
 I certificati ipotecari devono contenere, oltre alla copia della domanda di parte, l'elenco cronologico e le copie delle relative formalita'.
 
@@ -324,11 +322,11 @@ Non devono essere comprese nei certificati ipotecari le iscrizioni soggette a ri
 
 Le certificazioni negative possono essere redatte anche mediante scritturazione meccanica.
 
-#### Art. 23
+### Art. 23
 
 (( 1. I conservatori dei registri immobiliari inviano ogni quindici giorni al procuratore della Repubblica del tribunale nella cui circoscrizione e' stabilito l'ufficio copia del registro generale d'ordine su supporto informatico o con modalita' telematiche. ))
 
-#### Art. 24
+### Art. 24
 
 ((1. Nelle conservatorie l'orario di apertura al pubblico di cui all'articolo 2677 del codice civile e' fissato dalle ore 8,30 alle ore 13 dei giorni feriali, con esclusione del sabato. Le ispezioni nei registri immobiliari e il rilascio di copie di formalita' e di certificazioni possono essere effettuati, oltre che nell'orario di apertura al pubblico di cui al periodo precedente, anche negli orari pubblicati nel sito internet dell'Agenzia delle entrate.
 
@@ -340,21 +338,21 @@ AGGIORNAMENTO (2)
 
 Il D.L. 25 settembre 2001, n. 350 convertito con modificazioni con la L. 29 novembre 2001, n. 409 ha disposto che: "In deroga a quanto stabilito dall'articolo 24, primo comma, della legge 27 febbraio 1985, n. 52, gli uffici provinciali dell'Agenzia del territorio restano chiusi al pubblico il 29 ed il 31 dicembre 2001. Agli effetti di quanto previsto dall'articolo 24, secondo comma, della citata legge n. 52 del 1985, il giorno 28 dicembre 2001 e' considerato ultimo giorno lavorativo."
 
-#### Art. 25
+### Art. 25
 
 I conservatori dei registri immobiliari, per quanto concerne l'esercizio delle funzioni e l'adempimento degli obblighi loro attribuiti dal codice civile, sono sottoposti alla vigilanza del Ministero di grazia e giustizia; sotto ogni altro riguardo essi dipendono dal Ministero delle finanze.
 
-#### Art. 26
+### Art. 26
 
 Le disposizioni contenute nella presente legge si applicano anche agli uffici misti del registro e conservatorie dei registri immobiliari.
 
-#### Art. 27
+### Art. 27
 
 Sino all'emanazione del decreto interministeriale previsto dall'ultimo comma dell'articolo 16, non si applicano le disposizioni del primo comma dell'articolo 19.
 
 Le ispezioni, le certificazioni ed il rilascio di copie, in relazione a formalita' eseguite fino a tutto il giorno precedente l'attivazione del servizio meccanografico, si effettuano secondo la normativa vigente alla data di entrata in vigore della presente legge.
 
-#### Art. 28
+### Art. 28
 
 Nelle conservatorie e negli uffici misti del registro e conservatorie dei registri immobiliari nei quali, alla data di entrata in vigore della presente legge, non e' stata effettuata la riproduzione delle note relative alle formalita' di trascrizione, di iscrizione, di rinnovazione e di annotazione previste dall'articolo 1 della legge 23 ottobre 1969, n. 789, i registri particolari sono costituiti dalle raccolte delle note tenute nei modi di cui all'articolo 2664 del codice civile.
 
@@ -366,7 +364,7 @@ Nelle conservatorie e negli uffici misti del registro e conservatorie dei regist
 
 ## TITOLO III - NORME FINALI
 
-#### Art. 29
+### Art. 29
 
 Negli atti con cui si concede l'ipoteca o di cui si chiede la trascrizione, l'immobile deve essere designato anche con l'indicazione di almeno tre dei suoi confini.
 
@@ -380,7 +378,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 31 maggio 2010, n. 78, convertito con modificazioni dalla L. 30 luglio 2010, n. 122, ha disposto (con l'art. 19, comma 16) che "Le disposizioni di cui ai commi 14 e 15 si applicano a decorrere dal 1° luglio 2010. Nel rispetto dei principi desumibili dal presente articolo, nei territori in cui vige il regime tavolare le regioni a statuto speciale e le province autonome adottano disposizioni per l'applicazione di quanto dallo stesso previsto al fine di assicurare il necessario coordinamento con l'ordinamento tavolare".
 
-#### Art. 30
+### Art. 30
 
 Sono abrogati il secondo comma dell'articolo 2669 ed il secondo comma dell'articolo 2836 del codice civile, nonche' ogni altra norma incompatibile con la presente legge.
 
@@ -394,7 +392,7 @@ Sono abrogati il secondo comma dell'articolo 2669 ed il secondo comma dell'artic
 
 > "Se il titolo per l'iscrizione risulta da un atto pubblico ricevuto nello Stato o da una sentenza o da altro provvedimento giudiziale ad essa parificato, si deve presentare copia del titolo".
 
-#### Art. 31
+### Art. 31
 
 La presente legge entra in vigore centottanta giorni dopo la sua pubblicazione nella Gazzetta Ufficiale.
 

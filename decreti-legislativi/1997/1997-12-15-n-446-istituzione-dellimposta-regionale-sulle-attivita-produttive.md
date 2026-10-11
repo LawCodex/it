@@ -52,7 +52,7 @@ il seguente decreto legislativo:
 
 ## TITOLO I - ISTITUZIONE E DISCIPLINA DELL'IMPOSTA REGIONALE SULLE ATTIVITA' PRODUTTIVE
 
-##### Art. 1
+### Art. 1
 
 Istituzione dell'imposta
 
@@ -254,7 +254,7 @@ Istituzione dell'imposta
 
 > \- L'art. 8 del D.Lgs. n. 281 del 1997 e' riportato in nota all'art. 25.
 
-##### Art. 2
+### Art. 2
 
 Presupposto dell'imposta
 
@@ -262,7 +262,7 @@ Presupposto dell'imposta
 
 ((1-bis. Non sussiste autonoma organizzazione ai fini dell'imposta nel caso di medici che abbiano sottoscritto specifiche convenzioni con le strutture ospedaliere per lo svolgimento della professione all'interno di tali strutture, laddove gli stessi percepiscano per l'attivita' svolta presso le medesime strutture piu' del 75 per cento del proprio reddito complessivo. Sono in ogni caso irrilevanti, ai fini della sussistenza dell'autonoma organizzazione, l'ammontare del reddito realizzato e le spese direttamente connesse all'attivita' svolta. L'esistenza dell'autonoma organizzazione e' comunque configurabile in presenza di elementi che superano lo standard e i parametri previsti dalla convenzione con il Servizio sanitario nazionale)).
 
-##### Art. 3
+### Art. 3
 
 Soggetti passivi
 
@@ -312,7 +312,7 @@ AGGIORNAMENTO (70)
 
 La L. 30 dicembre 20231, n. 234, ha disposto (con l'art. 1, comma 8) che "A decorrere dal periodo d'imposta in corso alla data di entrata in vigore della presente legge, l'imposta regionale sulle attivita' produttive (IRAP), di cui al decreto legislativo 15 dicembre 1997, n. 446, non e' dovuta dalle persone fisiche esercenti attivita' commerciali ed esercenti arti e professioni di cui alle lettere b) e c) del comma 1 dell'articolo 3 del medesimo decreto legislativo n. 446 del 1997".
 
-##### Art. 4
+### Art. 4
 
 Base imponibile
 
@@ -334,7 +334,7 @@ AGGIORNAMENTO (52)
 
 La L. 28 dicembre 2015, n. 208, ha disposto (con l'art. 1, comma 72) che "Le disposizioni del comma 70 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2015".
 
-##### Art. 5 - Determinazione del valore della produzione netta delle societa' di capitali e degli enti commerciali
+### Art. 5 - Determinazione del valore della produzione netta delle societa' di capitali e degli enti commerciali
 
 1\. Per i soggetti di cui all'articolo 3, comma 1, lettera a), non esercenti le attivita' di cui agli articoli 6 e 7, la base imponibile e' determinata dalla differenza tra il valore e i costi della produzione di cui alle lettere A) e B) dell'articolo 2425 del codice civile, con esclusione delle voci di cui ai numeri 9), 10), lettere c) e d), 12) e 13), nonche' dei componenti positivi e negativi di natura straordinaria derivanti da trasferimenti di azienda o di rami di azienda, cosi' come risultanti dal conto economico dell'esercizio. (54)
 
@@ -406,7 +406,7 @@ Il D.Lgs. 19 giugno 2026, n. 117 ha disposto (con l'art. 375, comma 1, lettera i
 
 Ha inoltre disposto (con l'art. 377, comma 1) che la presente disposizione si applica a decorrere dal 1° gennaio 2027.
 
-##### Art. 5-bis - Determinazione del valore della produzione netta delle societa' di persone e delle imprese individuali
+### Art. 5-bis - Determinazione del valore della produzione netta delle societa' di persone e delle imprese individuali
 
 1\. Per i soggetti di cui all'articolo 3, comma 1, lettera b), la base imponibile e' determinata dalla differenza tra l'ammontare dei ricavi di cui all'articolo 85, comma 1, lettere a), b), f) e g), del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e delle variazioni delle rimanenze finali di cui agli articoli 92 e 93 del medesimo testo unico, e l'ammontare dei costi delle materie prime, sussidiarie e di consumo, delle merci, dei servizi, dell'ammortamento e dei canoni di locazione anche finanziaria dei beni strumentali materiali e immateriali. Non sono deducibili: le spese per il personale dipendente e assimilato; i costi, i compensi e gli utili indicati nel comma 1, lettera b), numeri da 2) a 5), dell'articolo 11 del presente decreto; la quota interessi dei canoni di locazione finanziaria, desunta dal contratto; le perdite su crediti; l'imposta comunale sugli immobili di cui al decreto legislativo 30 dicembre 1992, n. 504. I contributi erogati in base a norma di legge concorrono comunque alla formazione del valore della produzione, fatta eccezione per quelli correlati a costi indeducibili. I componenti rilevanti si assumono secondo le regole di qualificazione, imputazione temporale e classificazione valevoli per la determinazione del reddito d'impresa ai fini dell'imposta personale.
 
@@ -448,7 +448,7 @@ Il D.Lgs. 19 giugno 2026, n. 117 ha disposto (con l'art. 375, comma 1, lettera i
 
 Ha inoltre disposto (con l'art. 377, comma 1) che la presente disposizione si applica a decorrere dal 1° gennaio 2027.
 
-##### Art. 6 - Determinazione del valore della produzione netta delle banche e di altri enti e societa' finanziari
+### Art. 6 - Determinazione del valore della produzione netta delle banche e di altri enti e societa' finanziari
 
 1\. Per gli intermediari finanziari, salvo quanto previsto nei successivi commi, la base imponibile e' determinata dalla somma algebrica delle seguenti voci del conto economico redatto in conformita' agli schemi risultanti dai provvedimenti emessi ai sensi dell'articolo 9, comma 1, del decreto legislativo 28 febbraio 2005, n. 38:
 
@@ -582,7 +582,7 @@ Il D.Lgs. 19 giugno 2026, n. 117 ha disposto (con l'art. 375, comma 1, lettera i
 
 Ha inoltre disposto (con l'art. 377, comma 1) che la presente disposizione si applica a decorrere dal 1° gennaio 2027.
 
-##### Art. 7 - Determinazione del valore della produzione netta delle imprese di assicurazione
+### Art. 7 - Determinazione del valore della produzione netta delle imprese di assicurazione
 
 1\. Per le imprese di assicurazione, la base imponibile e' determinata apportando alla somma dei risultati del conto tecnico dei rami danni (voce 29) e del conto tecnico dei rami vita (voce 80) del conto economico le seguenti variazioni:
 
@@ -660,7 +660,7 @@ Il D.Lgs. 19 giugno 2026, n. 117 ha disposto (con l'art. 375, comma 1, lettera i
 
 Ha inoltre disposto (con l'art. 377, comma 1) che la presente disposizione si applica a decorrere dal 1° gennaio 2027.
 
-##### Art. 8
+### Art. 8
 
 Determinazione del valore della produzione netta dei soggetti di cui all'articolo 3, comma 1, lettera c)
 
@@ -672,7 +672,7 @@ AGGIORNAMENTO (35)
 
 La L. 24 dicembre 2007, n. 244 ha disposto (con l'art. 1, comma 51) che "Le disposizioni di cui al comma 50 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007."
 
-##### Art. 9
+### Art. 9
 
 ((Determinazione del valore della produzione netta per alcuni soggetti del settore agricolo)) ((52))
 
@@ -696,7 +696,7 @@ AGGIORNAMENTO (52)
 
 La L. 28 dicembre 2015, n. 208, ha disposto (con l'art. 1, comma 72) che "Le disposizioni del comma 70 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2015".
 
-##### Art. 10
+### Art. 10
 
 Determinazione del valore della produzione netta dei soggetti di cui all'articolo 3, comma 1, lettera e)
 
@@ -724,7 +724,7 @@ AGGIORNAMENTO (8)
 
 Il D.Lgs. 30 dicembre 1999, n. 506 ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
 
-##### Art. 10-bis
+### Art. 10-bis
 
 (Determinazione del valore della produzione netta
 
@@ -740,7 +740,7 @@ AGGIORNAMENTO (8)
 
 Il D.Lgs. 30 dicembre 1999, n. 506 ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
 
-##### Art. 11 - Disposizioni comuni per la determinazione del valore della produzione netta
+### Art. 11 - Disposizioni comuni per la determinazione del valore della produzione netta
 
 1\. Nella determinazione della base imponibile:
 
@@ -886,7 +886,7 @@ AGGIORNAMENTO (81)
 
 Il D.L. 27 marzo 2026, n. 38, convertito con modificazioni dalla L. 22 maggio 2026, n. 88, ha disposto (con l'art. 3, comma 3) che "Le disposizioni di cui ai commi 1 e 2 si applicano a decorrere dal periodo d'imposta in corso al 31 dicembre 2024".
 
-##### Art. 11-bis
+### Art. 11-bis
 
 (( ARTICOLO ABROGATO DALLA L. 24 DICEMBRE 2007, N. 244 )) ((35))
 
@@ -896,7 +896,7 @@ AGGIORNAMENTO (35)
 
 La L. 24 dicembre 2007, n. 244 ha disposto (con l'art. 1, comma 51) che "Le disposizioni di cui al comma 50 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007."
 
-##### Art. 12
+### Art. 12
 
 Determinazione del valore della produzione netta realizzata fuori dal territorio dello Stato o da soggetti non residenti.
 
@@ -934,7 +934,7 @@ La L. 20 novembre 2017, n. 167 ha disposto (con l'art. 10, comma 1) che "Dal per
 
 Ha inoltre disposto (con l'art. 10, comma 2) che "Le disposizioni del comma 1 del presente articolo si applicano a condizione che sia rispettato quanto previsto dagli articoli 1, comma 5, e 3 del decreto-legge 30 dicembre 1997, n. 457, convertito, con modificazioni, dalla legge 27 febbraio 1998, n. 30, dall'articolo 317 del codice della navigazione e dall'articolo 426 del regolamento per l'esecuzione del codice della navigazione (navigazione marittima), di cui al decreto del Presidente della Repubblica 15 febbraio 1952, n. 328".
 
-##### Art. 13
+### Art. 13
 
 Disposizioni concernenti il GEIE
 
@@ -946,19 +946,19 @@ Disposizioni concernenti il GEIE
 
 4\. Il gruppo residente e la stabile organizzazione di un gruppo non residente si considerano domiciliati nel territorio del comune nel quale hanno il domicilio fiscale ai fini delle imposte sui redditi.
 
-##### Art. 14
+### Art. 14
 
 Periodo di imposta
 
 1\. L'imposta e' dovuta per periodi di imposta a ciascuno dei quali corrisponde una obbligazione tributaria autonoma. Il periodo di imposta e' determinato secondo i criteri stabiliti ai fini delle imposte sui redditi.
 
-##### Art. 15
+### Art. 15
 
 Spettanza dell'imposta
 
 1\. L'imposta e' dovuta alla regione nel cui territorio il valore della produzione netta e' realizzato.
 
-##### Art. 16
+### Art. 16
 
 Determinazione dell'imposta
 
@@ -1016,7 +1016,7 @@ AGGIORNAMENTO (80)
 
 Il D.L. 20 febbraio 2026, n. 21 ha disposto (con l'art. 3, comma 1) che per il periodo d'imposta successivo a quello in corso al 31 dicembre 2025 e per quello successivo, l'aliquota di cui al presente articolo, commi 1 e 1-bis, e' aumentata di due punti percentuali per i soggetti esercenti, in via prevalente, le attivita' economiche individuate dai codici ATECO di cui alla tabella 1 allegata al medesimo Decreto-Legge.
 
-##### Art. 17
+### Art. 17
 
 Agevolazioni di carattere territoriale e per categorie di soggetti
 
@@ -1044,7 +1044,7 @@ AGGIORNAMENTO (3)
 
 Il D. Lgs. 19 novembre 1998, n. 422 ha disposto (con l'art. 4, comma 2) che le modifiche apportate al comma 3 del presente articolo 17 si applicano a decorrere dal periodo d'imposta in corso alla data del 1 gennaio 1998.
 
-##### Art. 18
+### Art. 18
 
 Agevolazioni per nuove iniziative produttive
 
@@ -1054,7 +1054,7 @@ Agevolazioni per nuove iniziative produttive
 
 2\. Con le leggi regionali di cui all'articolo 24, possono essere aumentati la percentuale e l'importo massimo della riduzione dell'imposta regionale sulle attivita' produttive di cui al comma 1.
 
-##### Art. 19
+### Art. 19
 
 Dichiarazione dei soggetti passivi
 
@@ -1078,19 +1078,19 @@ AGGIORNAMENTO (8)
 
 Il D.Lgs. 30 dicembre 1999, n. 506 ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
 
-##### Art. 20
+### Art. 20
 
 Obblighi contabili
 
 1\. Ai fini dell'imposta di cui al presente titolo i soggetti passivi devono osservare gli obblighi documentali e contabili ai quali sono tenuti ai fini delle imposte sul reddito e sul valore aggiunto.
 
-##### Art. 21
+### Art. 21
 
 Domicilio dei soggetti passivi
 
 1\. Ogni soggetto passivo si considera domiciliato nel comune nel quale ha il domicilio fiscale secondo le disposizioni previste dal decreto del Presidente della Repubblica 29 settembre 1973, n. 600.
 
-##### Art. 22
+### Art. 22
 
 Giurisdizione sulle controversie
 
@@ -1100,7 +1100,7 @@ Giurisdizione sulle controversie
 
 > \- Il D.Lgs 31 dicembre 1992, n. 546, reca: "Disposizioni sul processo tributario in attuazione della delega al Governo contenuta nell'art. 30 della legge 30 dicembre 1991, n. 413".
 
-##### Art. 23
+### Art. 23
 
 Accesso alle informazioni
 
@@ -1110,7 +1110,7 @@ Accesso alle informazioni
 
 3\. Con decreto del Ministro delle finanze, sentita la Conferenza Stato-Regioni, sono stabilite le modalita' di collegamento degli uffici regionali con il sistema informativo dell'anagrafe tributaria e di utilizzazione dei relativi servizi anche ai fini dello scambio di informazioni di interesse fiscale.
 
-##### Art. 24
+### Art. 24
 
 Poteri delle regioni
 
@@ -1134,7 +1134,7 @@ AGGIORNAMENTO (8)
 
 Il D.Lgs. 30 dicembre 1999, n. 506 ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
 
-##### Art. 25
+### Art. 25
 
 Disciplina temporanea
 
@@ -1268,7 +1268,7 @@ Disciplina temporanea
 
 > \- Il comma 3 dell'art. 17 della legge n. 400/1988 e' riportato in nota all'art. 24.
 
-##### Art. 26
+### Art. 26
 
 Attribuzione allo Stato di quote del gettito dell'imposta
 
@@ -1278,7 +1278,7 @@ Attribuzione allo Stato di quote del gettito dell'imposta
 
 3\. Con decreto del Ministro delle finanze, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, d'intesa con la Conferenza Stato-Regioni, e' determinata la quota di cui al comma 1 e le relative modalita' di attribuzione. Con decreto del Ministro delle finanze, di concerto con il Ministro del tesoro, sentita la Conferenza Stato-Regioni, e' determinata la quota di cui al comma 2 e le relative modalita' di attribuzione.
 
-##### Art. 27
+### Art. 27
 
 Compartecipazione dei comuni e delle provincie al gettito dell'imposta
 
@@ -1300,11 +1300,11 @@ AGGIORNAMENTO (10)
 
 Il D. Lgs. 18 febbraio 2000, n.56 ha disposto (con l'art. 11, comma 1) che a decorrere dall'anno 2001 e' abolita la compartecipazione dei comuni e delle province al gettito dell'IRAP, prevista dal presente articolo; il corrispondente gettito rimane attribuito alle regioni.
 
-##### Art. 28
+### Art. 28
 
 ((ARTICOLO ABROGATO DAL D. LGS. 10 APRILE 1998, N. 137))
 
-##### Art. 29
+### Art. 29
 
 Finanziamento delle citta' metropolitane
 
@@ -1334,7 +1334,7 @@ Finanziamento delle citta' metropolitane
 
 > 3\. Ai comuni dell'area metropolitana restano le funzioni non attribuite espressamente alla citta' metropolitana".
 
-##### Art. 30
+### Art. 30
 
 Riscossione dell'imposta e versamento in acconto
 
@@ -1358,13 +1358,13 @@ AGGIORNAMENTO (8)
 
 Il D.Lgs. 30 dicembre 1999, n. 506 ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
 
-##### Art. 31
+### Art. 31
 
 Primo acconto di imposta
 
 1\. Per il primo periodo di imposta nel quale, a norma degli articoli 36 e 37, l'imposta e' applicabile, l'acconto di cui all'articolo 30, comma 3, da versare in due rate di pari importo, e' pari al 120 per cento della imposta figurativa liquidabile sul valore della produzione netta realizzato nel periodo di imposta precedente, determinato secondo le disposizioni degli articoli da 4 a 11 e risultante da un apposito prospetto redatto su stampato conforme al modello approvato con decreto del Ministro delle finanze da allegare alla prima dichiarazione dei redditi da presentare a decorrere dalla data di entrata in vigore del presente decreto ovvero, per i soggetti non tenuti alla presentazione di essa, risultante da apposita dichiarazione, redatta e sottoscritta a norma dell'articolo 19, da presentare nel mese di giugno dell'anno di entrata in vigore del presente decreto.((Gli omessi o insufficienti versamenti dell'imposta relativi al primo periodo di applicazione della stessa, i cui termini sono scaduti alla data del 30 ottobre 1998, possono essere regolarizzati entro il termine di scadenza del primo versamento dell'imposta da effettare sucessivamente alla predetta data applicando gli interessi calcolati al tasso legale con maturazione giorno per giorno.))
 
-##### Art. 32
+### Art. 32
 
 ((ARTICOLO ABROGATO DAL D.LGS. 24 SETTEMBRE 2015, N. 158, COME MODIFICATO DALLA LEGGE 28 DICEMBRE 2015, N. 208)) ((51))
 
@@ -1374,7 +1374,7 @@ AGGIORNAMENTO (51)
 
 Il D.Lgs. 24 settembre 2015, n. 158 aveva precedentemente disposto (con l'art. 32, comma 2, lettera a)) l'abrogazione del presente articolo a decorrere dal 1 gennaio 2017.
 
-##### Art. 33
+### Art. 33
 
 ((ARTICOLO ABROGATO DAL D.LGS. 24 SETTEMBRE 2015, N. 158, COME MODIFICATO DALLA LEGGE 28 DICEMBRE 2015, N. 208)) ((51))
 
@@ -1384,7 +1384,7 @@ AGGIORNAMENTO (51)
 
 Il D.Lgs. 24 settembre 2015, n. 158 aveva precedentemente disposto (con l'art. 32, comma 2, lettera a)) l'abrogazione del presente articolo a decorrere dal 1 gennaio 2017.
 
-##### Art. 34
+### Art. 34
 
 Ritardato o omesso versamento dell'imposta
 
@@ -1404,13 +1404,13 @@ Ritardato o omesso versamento dell'imposta
 
 > L'interesse si applica anche sul maggior ammontare delle imposte o ritenute alla fonte riscuotibili mediante versamento diretto liquidato dall'Ufficio delle imposte ai sensi dell'art. 36-bis, secondo comma, e 36-ter, del D.P.R. 29 settembre 1973, n. 600".
 
-##### Art. 35
+### Art. 35
 
 Violazioni degli obblighi relativi alla contabilita'
 
 1\. Per le violazioni degli obblighi relativi alla tenuta o conservazione della contabilita' si applicano le sanzioni previste in materia di imposte dirette e di imposta sul valore aggiunto.
 
-##### Art. 36
+### Art. 36
 
 Decorrenza dell'imposta
 
@@ -1492,7 +1492,7 @@ e) l'imposta sul patrimonio netto delle imprese, istituita con decreto-legge 30 
 
 > b) ai soggetti diversi da quelli indicati alla lettera a): tassa per l'attribuzione e annuale: ammontare: L. 100.000".
 
-##### Art. 37
+### Art. 37
 
 Soggetti con periodo di imposta non coincidente
 
@@ -1504,7 +1504,7 @@ con l'anno solare
 
 3\. I soggetti di cui al comma 2 possono scomputare dall'acconto di cui all'articolo 31 i dodicesimi dell'imposta e della tassa di cui all'articolo 36, comma 1, lettere c) e d), dovute per l'anno precedente a quello di entrata in vigore del presente decreto e relativi ai mesi interi compresi tra la data dalla quale ha effetto nei loro confronti, a norma del medesimo comma 2, l'abolizione dei predetti tributi e quella di entrata in vigore del presente decreto, nonche' l'importo dei contributi di cui alla lettera a) del medesimo comma dell'articolo 36 eventualmente versati con riferimento ai predetti mesi. Non si fa luogo in ogni caso al rimborso degli importi non scomputati.
 
-##### Art. 38
+### Art. 38
 
 Determinazione del Fondo sanitario nazionale
 
@@ -1526,7 +1526,7 @@ AGGIORNAMENTO (10)
 
 Il D. Lgs. 18 febbraio 2000, n.56 ha disposto (con l'art. 13, comma 1) che dall'anno 2001 cessano di avere effetto nei confronti delle regioni a statuto ordinario le disposizioni previste dal presente articolo.
 
-##### Art. 39
+### Art. 39
 
 Ripartizione del Fondo sanitario nazionale
 
@@ -1546,7 +1546,7 @@ AGGIORNAMENTO (10)
 
 Il D. Lgs. 18 febbraio 2000, n.56 ha disposto (con l'art. 13, comma 1) che dall'anno 2001 cessano di avere effetto nei confronti delle regioni a statuto ordinario le disposizioni dei commi 1, 2, 3 e 4 del presente articolo.
 
-##### Art. 40
+### Art. 40
 
 Modalita' per il riversamento dell'Irap
 
@@ -1586,7 +1586,7 @@ e dell'addizionale Irpef
 
 > Gli ordinativi possono emettersi anche per il pagamento di qualsiasi altra spesa quando la amministrazione lo giudichi opportuno".
 
-##### Art. 41
+### Art. 41
 
 Determinazione delle eccedenze
 
@@ -1604,7 +1604,7 @@ AGGIORNAMENTO (8)
 
 Il D.Lgs. 30 dicembre 1999, n. 506 ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
 
-##### Art. 42
+### Art. 42
 
 Versamento delle eccedenze
 
@@ -1622,7 +1622,7 @@ Versamento delle eccedenze
 
 7\. Relativamente alle regioni a statuto speciale ed alle provincie autonome di Trento e di Bolzano le eccedenze positive o negative di risorse di cui all'articolo 41, commi 2 e 3, vengono compensate (( per gli anni dal 1998 al 2002 )), nel rispetto degli statuti di autonomia mediante variazioni delle quote del fondo sanitario nazionale, trasferimenti di funzioni, modifica delle quote variabili previste ai sensi degli statuti o acquisizione delle eccedenze al bilancio dello Stato. A partire dall'anno ((2003)) non si da' luogo a recupero delle eccedenze, ma si procede attraverso il trasferimento di nuove funzioni amministrative, definite con le procedure fissate dai rispettivi statuti di autonomia, fino all'esaurimento delle eccedenze medesime.
 
-##### Art. 43
+### Art. 43
 
 Riferimenti sistematici
 
@@ -1630,13 +1630,13 @@ Riferimenti sistematici
 
 2\. I rapporti finanziari tra lo Stato, le autonomie speciali e gli enti locali devono essere disciplinati in modo tale da mantenere il necessario equilibrio finanziario.
 
-##### Art. 44
+### Art. 44
 
 Adeguamento dei trattati internazionali
 
 1\. Ai fini dell'applicazione dei trattati internazionali in materia tributaria, l'imposta regionale sulle attivita' produttive e' equiparata ai tributi erariali aboliti con l'articolo 36.
 
-##### Art. 45
+### Art. 45
 
 Disposizioni transitorie
 
@@ -1664,13 +1664,9 @@ AGGIORNAMENTO (52)
 
 La L. 28 dicembre 2015, n. 208, ha disposto (con l'art. 1, comma 72) che "Le disposizioni del comma 70 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2015".
 
-## TITOLO II - Revisione degli scaglioni, delle aliquote e delle detrazioni
+## TITOLO II - Revisione degli scaglioni, delle aliquote e delle detrazioni dell'imposta sul reddito delle persone fisiche, istituzione dell'addizionale regionale all'imposta sul reddito delle persone fisiche.
 
-### dell'imposta sul reddito delle persone fisiche, - istituzione dell'addizionale regionale all'imposta sul reddito
-
-#### delle persone fisiche.
-
-##### Art. 46
+### Art. 46
 
 Revisione delle aliquote
 
@@ -1708,7 +1704,7 @@ e) oltre lire 135.000.000 ........................ 45,5%".
 
 > 3\. Dall'imposta netta si detrae l'ammontare dei crediti di imposta spettanti al contribuente a norma degli articoli 14 e 15. Se l'ammontare dei crediti di imposta e' superiore a quello dell'imposta netta il contribuente ha diritto, a sua scelta, di computare l'eccedenza in diminuzione dell'imposta relativa al periodo di imposta successivo o di chiederne il rimborso in sede di dichiarazione dei redditi".
 
-##### Art. 47
+### Art. 47
 
 Revisione delle detrazioni per carichi di famiglia
 
@@ -1732,7 +1728,7 @@ b) per ciascun figlio, compresi i figli naturali riconosciuti, i figli adottivi 
 
 4\. Le detrazioni per carichi di famiglia sono rapportate a mese e competono dal mese in cui si sono verificate a quello in cui sono cessate le condizioni richieste.".
 
-##### Art. 48
+### Art. 48
 
 Detrazioni per lavoro dipendente, autonomo e di impresa e trattamento tributario delle indennita' di fine rapporto
 
@@ -1832,7 +1828,7 @@ g) lire 100.000 se l'ammontare complessivo dei redditi di lavoro autonomo e di i
 
 > 6\. Con decreti del Ministro delle finanze sono stabiliti i criteri e le modalita' per lo scambio delle informazioni occorrenti ai fini dell'applicazione del comma 2 tra i soggetti tenuti alla corresponsione delle indennita' e delle altre somme in dipendenza della cessazione del medesimo rapporto di lavoro".
 
-##### Art. 49
+### Art. 49
 
 Detrazioni per oneri
 
@@ -1840,7 +1836,7 @@ Detrazioni per oneri
 
 2\. Le disposizioni del comma 1 si applicano agli oneri sostenuti dal periodo di imposta in corso alla data del 1 gennaio 1998.
 
-##### Art. 50
+### Art. 50
 
 Istituzione dell'addizionale regionale all'imposta sul reddito delle persone fisiche
 
@@ -1900,7 +1896,7 @@ La L. 30 dicembre 2024, n. 207 ha disposto (con l'art. 1, comma 726) che "Al fin
 
 ## TITOLO III - Riordino della disciplina dei tributi locali
 
-##### Art. 51
+### Art. 51
 
 Imposte e tasse abolite
 
@@ -1916,7 +1912,7 @@ c) l'addizionale provinciale all'imposta erariale di trascrizione di cui all'art
 
 3\. I versamenti relativi ai tributi indicati nei commi 1 e 2, i cui presupposti di imposizione si verificano anteriormente alla data dalla quale, nei confronti dei singoli soggetti passivi, ha effetto la loro abolizione, sono effettuati anche successivamente a tale data.
 
-##### Art. 52
+### Art. 52
 
 Potesta' regolamentare generale delle province e dei comuni
 
@@ -1998,7 +1994,7 @@ AGGIORNAMENTO (75)
 
 Il D.L. 27 dicembre 2024, n. 202, convertito con modificazioni dalla L. 21 febbraio 2025, n. 15, ha disposto (con l'art. 3, comma 14-septies) che "le disposizioni di cui agli articoli 52, comma 5, lettera b), numero 1), e 53, comma 1, del decreto legislativo n. 446 del 1997, conformemente alla disciplina recata dalla normativa dell'Unione europea direttamente applicabile, si interpretano nel senso che le societa' di scopo, di cui all'articolo 194 del codice dei contratti pubblici, di cui al decreto legislativo 31 marzo 2023, n. 36, o di progetto, di cui al previgente articolo 184 del codice dei contratti pubblici, di cui al decreto legislativo 18 aprile 2016, n. 50, costituite per svolgere attivita' di accertamento e di riscossione o attivita' di supporto ad esse propedeutiche, non sono iscritte nell'albo di cui all'articolo 53 del decreto legislativo n. 446 del 1997, laddove la societa' aggiudicataria del bando di gara per l'affidamento del servizio di accertamento e di riscossione delle entrate degli enti locali, socia della stessa societa' di scopo risulti gia' iscritta nel predetto albo. Gli atti di accertamento e di riscossione emessi dalle societa' di scopo di cui al precedente periodo sono da considerare legittimi in quanto emessi in luogo dell'aggiudicatario, comunque tenuto a garantire in solido l'adempimento di tutte le prestazioni erogate direttamente dalle predette societa'".
 
-##### Art. 53
+### Art. 53
 
 (( (Albo per l'accertamento e riscossione delle entrate delle regioni e degli enti locali).))
 
@@ -2028,7 +2024,7 @@ b) ((agli obblighi di comunicazione periodica da parte dell'ente e dei soggetti 
 
 8\. ((Il regolamento di cui al decreto del Ministro dell'economia e delle finanze 13 aprile 2022, n. 101 e' abrogato a decorrere dalla data di entrata in vigore dei provvedimenti di cui ai commi 2 e 3. Le iscrizioni nell'albo, eseguite ai sensi del citato decreto del Ministro dell'economia e delle finanze n. 101 del 2022, continuano a produrre effetti anche a seguito dell'entrata in vigore dei decreti di cui ai commi 2 e 3. Gli iscritti presentano, entro novanta giorni dalla data di entrata in vigore dei menzionati provvedimenti, una dichiarazione, resa ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, in cui attestano l'esistenza dei requisiti previsti dai medesimi provvedimenti per l'iscrizione nell'albo.))
 
-##### Art. 54
+### Art. 54
 
 Approvazione delle tariffe e dei prezzi pubblici
 
@@ -2042,7 +2038,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 23 marzo 1998, n. 56 ha disposto (con l'art. 7, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1998."
 
-##### Art. 55
+### Art. 55
 
 Tasse sulle concessioni delle regioni a statuto ordinario
 
@@ -2052,7 +2048,7 @@ Tasse sulle concessioni delle regioni a statuto ordinario
 
 > \- Il D.Lgs. 22 giugno 1991, n. 230, reca: "Approvazione della tariffa delle tasse sulle concessioni regionali ai sensi dell'art. 3 della legge 16 maggio 1970, n. 281, come sostituito dall'art. 4 della legge 14 giugno 1990, n. 358" ed e' pubblicato nella Gazzetta Ufficiale n. 179 del 1 agosto 1991, successivamente modificato con D.Lgs. 23 gennaio 1992, n. 31.
 
-##### Art. 56
+### Art. 56
 
 Imposta provinciale di trascrizione
 
@@ -2094,7 +2090,7 @@ AGGIORNAMENTO (43)
 
 La L. 27 dicembre 2013, n. 147 ha disposto (con l'art. 1, comma 165) che la presente modifica si applica a decorrere dal 1º gennaio 2014.
 
-##### Art. 57
+### Art. 57
 
 Revisione delle imposte di registro
 
@@ -2250,7 +2246,7 @@ d) nella tabella, relativa agli atti per i quali non vi e' l'obbligo di chiedere
 
 > 3\. Se i beni di cui al presente articolo sono compresi insieme con altri beni o diritti in uno stesso atto di donazione, del loro valore non si tiene conto nella determinazione dell'imposta a norma dell'art. 57".
 
-##### Art. 58
+### Art. 58
 
 Modifiche alla disciplina dell'imposta comunale sugli immobili
 
@@ -2270,7 +2266,7 @@ c) nel comma 1 dell'articolo 13, concernente i rimborsi dell'imposta, l'ultimo p
 
 4\. COMMA ABROGATO DAL D.LGS. 30 DICEMBRE 1999, N. 506.
 
-##### Art. 59
+### Art. 59
 
 Potesta' regolamentare in materia di imposta comunale sugli immobili
 
@@ -2308,7 +2304,7 @@ p) prevedere che ai fini del potenziamento degli uffici tributari del comune, ai
 
 3\. COMMA ABROGATO DALLA L. 27 DICEMBRE 2006, N. 296.
 
-##### Art. 60
+### Art. 60
 
 Attribuzione alle provincie e ai comuni del gettito di imposte
 
@@ -2330,7 +2326,7 @@ AGGIORNAMENTO (4)
 
 La L. 23 dicembre 1998, n. 448 ha disposto (con l'art. 31, comma 16) che "Il termine fissato al 1 gennaio 1999 dall'articolo 60, comma 5, del decreto legislativo 15 dicembre 1997, n. 446, relativamente alle disposizioni di cui al comma 2 del medesimo articolo 60, e' differito al 1 gennaio 2000."
 
-##### Art. 61
+### Art. 61
 
 Riduzione dei trasferimenti erariali agli enti locali
 
@@ -2348,7 +2344,7 @@ AGGIORNAMENTO (4)
 
 La L. 23 dicembre 1998, n. 448 ha disposto (con l'art. 31, comma 18) che "Tutti i riferimenti temporali previsti all'articolo 61, comma 1, del decreto legislativo 15 dicembre 1997, n. 446, limitatamente all'attribuzione del gettito delle imposte di cui all'articolo 60, comma 2, del menzionato decreto legislativo, sono differiti di un anno."
 
-##### Art. 62
+### Art. 62
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160 (64) ((65))
 
@@ -2364,7 +2360,7 @@ AGGIORNAMENTO (65)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-##### Art. 63
+### Art. 63
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160)) (64) ((65))
 
@@ -2380,7 +2376,7 @@ AGGIORNAMENTO (65)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-##### Art. 64
+### Art. 64
 
 Disposizioni finali e transitorie
 
@@ -2392,13 +2388,13 @@ Disposizioni finali e transitorie
 
 ## Titolo IV - DISPOSIZIONI COMUNI
 
-##### Art. 65
+### Art. 65
 
 Variazioni di bilancio
 
 1\. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le variazioni di bilancio occorrenti per l'attuazione del presente decreto.
 
-##### Art. 66
+### Art. 66
 
 Entrata in vigore
 

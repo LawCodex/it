@@ -28,11 +28,11 @@ la seguente legge:
 
 ## TITOLO I - REFERENDUM PREVISTO DALL'ARTICOLO 138 DELLA COSTITUZIONE
 
-#### Art. 1
+### Art. 1
 
 Quando le Camere abbiano approvato una legge di revisione della Costituzione o altra legge costituzionale, i rispettivi Presidenti ne danno comunicazione al Governo indicando se l'approvazione sia avvenuta con la maggioranza prevista dal primo comma o con quella prevista dal terzo comma dell'articolo 138 della Costituzione.
 
-#### Art. 2
+### Art. 2
 
 La promulgazione delle leggi costituzionali approvate con la maggioranza prevista dal terzo comma dell'articolo 138 della Costituzione, e' espressa con la formula seguente:
 
@@ -44,19 +44,19 @@ Il Presidente della Repubblica promulga la seguente legge costituzionale:
 
 La presente legge costituzionale, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato".
 
-#### Art. 3
+### Art. 3
 
 Qualora l'approvazione sia avvenuta con la maggioranza prevista dal primo comma dell'articolo 138 della Costituzione, il Ministro per la grazia e la giustizia deve provvedere alla immediata pubblicazione della legge nella Gazzetta Ufficiale con il titolo "Testo di legge costituzionale approvato in seconda votazione a maggioranza assoluta, ma inferiore ai due terzi dei membri di ciascuna Camera", completato dalla data della sua approvazione finale da parte delle Camere e preceduto dall'avvertimento che, entro tre mesi, un quinto dei membri di una Camera, o cinquecentomila elettori, o cinque consigli regionali possono domandare che si proceda al referendum popolare.
 
 La legge di cui al comma precedente e' inserita nella Gazzetta Ufficiale a cura del Governo, distintamente dalle altre leggi, senza numero d'ordine e senza formula di promulgazione.
 
-#### Art. 4
+### Art. 4
 
 La richiesta di referendum di cui all'art. 138 della Costituzione deve contenere l'indicazione della legge di revisione della Costituzione o della legge costituzionale che si intende sottoporre alla votazione popolare, e deve altresi' citare la data della sua approvazione finale da parte delle Camere, la data e il numero della Gazzetta Ufficiale nella quale essa e' stata pubblicata.
 
 La predetta richiesta deve pervenire alla cancelleria della Corte di cassazione entro tre mesi dalla pubblicazione effettuata a norma dell'articolo 3.
 
-#### Art. 5
+### Art. 5
 
 Quando entro il termine di tre mesi dalla pubblicazione prevista dall'articolo 3 non sia stata avanzata domanda di referendum, il Presidente della Repubblica provvede alla promulgazione della legge con la formula seguente:
 
@@ -72,7 +72,7 @@ La presente legge costituzionale, munita del sigillo dello Stato, sara' inserta 
 
 La promulgazione deve avvenire entro un mese dalla scadenza del termine indicato nel primo comma.
 
-#### Art. 6
+### Art. 6
 
 Qualora la richiesta prevista dall'articolo 4 sia effettuata da membri di una delle Camere in numero non inferiore ad un quinto dei componenti della Camera stessa, le sottoscrizioni dei richiedenti sono autenticate dalla segreteria della Camera cui appartengono, la quale attesta al tempo stesso che essi sono parlamentari in carica.
 
@@ -84,7 +84,7 @@ Del deposito, a cura del cancelliere, si da' atto mediante processo verbale, fac
 
 Il verbale e' redatto in duplice originale, con la sottoscrizione dei presentatori e del cancelliere. Un originale e' allegato alla richiesta, l'altro viene consegnato ai presentatori a prova dell'avvenuto deposito.
 
-#### Art. 7
+### Art. 7
 
 Al fine di raccogliere le firme necessarie a promuovere da almeno 500.000 elettori la richiesta prevista dall'articolo 4, i promotori della raccolta, in numero non inferiore a dieci, devono presentarsi, muniti di certificati comprovanti la loro iscrizione nelle liste elettorali di un comune della Repubblica ((o nell'elenco dei cittadini italiani residenti all'estero di cui alla legge in materia di esercizio del diritto di voto dei cittadini italiani residenti all'estero)), alla cancelleria della Corte di cassazione, che ne da' atto con verbale, copia del quale viene rilasciata ai promotori.
 
@@ -94,7 +94,7 @@ Per la raccolta delle firme devono essere usati fogli di dimensioni uguali a que
 
 Successivamente alla pubblicazione nella Gazzetta Ufficiale dell'annuncio di cui al primo comma, i fogli previsti dal comma precedente devono essere presentati a cura dei promotori, o di qualsiasi elettore, alle segreterie comunali o alle cancellerie degli uffici giudiziari. Il funzionario preposto agli uffici suddetti appone ai fogli il bollo dell'ufficio, la data e la propria firma e li restituisce ai presentatori entro due giorni dalla presentazione.
 
-#### Art. 8
+### Art. 8
 
 La richiesta di referendum viene effettuata con la firma da parte degli elettori dei fogli di cui all'articolo precedente.
 
@@ -110,13 +110,13 @@ Per le prestazioni del notaio, del cancelliere, del giudice conciliatore e del s
 
 Alla richiesta di referendum debbono essere allegati i certificati, anche collettivi, dei sindaci dei singoli comuni, ai quali appartengono i sottoscrittori, che ne attestano la iscrizione nelle liste elettorali dei comuni medesimi ovvero, per i cittadini italiani residenti all'estero, la loro iscrizione nell'elenco dei cittadini italiani residenti all'estero di cui alla legge in materia di esercizio del diritto di voto dei cittadini italiani residenti all'estero. I sindaci debbono rilasciare tali certificati entro 48 ore dalla relativa richiesta. ((I certificati elettorali rilasciati mediante posta elettronica certificata o un servizio elettronico di recapito certificato qualificato, possono essere depositati, unitamente alla richiesta di referendum e al messaggio a cui sono acclusi, come duplicato informatico ai sensi dell'articolo 1, comma 1, lettera i-quinquies), del codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, ovvero come copia analogica di documento informatico se dotati del contrassegno a stampa di cui all'articolo 23, comma 2-bis, del medesimo codice)).
 
-#### Art. 9
+### Art. 9
 
 Il deposito presso la cancelleria della Corte di cassazione di tutti i fogli contenenti le firme e dei certificati elettorali dei sottoscrittori vale come richiesta ai sensi dell'articolo 4. Esso deve essere effettuato da almeno tre dei promotori, i quali dichiarano al cancelliere il numero delle firme che appoggiano la richiesta.
 
 Del deposito, a cura del cancelliere, si da' atto mediante processo verbale, con le modalita' stabilite dal terzo e dal quarto comma dell'articolo 6.
 
-#### Art. 10
+### Art. 10
 
 Al fine di promuovere la richiesta di cui all'articolo 4 da parte di cinque consigli regionali, il consiglio regionale che intende assumere l'iniziativa deve adottare apposita deliberazione.
 
@@ -128,13 +128,13 @@ Tali deliberazioni sono comunicate, a cura della segreteria del consiglio che pe
 
 Le segreterie dei consigli regionali che abbiano adottato tale deliberazione e abbiano nominato i propri delegati ne danno comunicazione alla segreteria del consiglio che ha preso l'iniziativa, perche' vi sia dato seguito.
 
-#### Art. 11
+### Art. 11
 
 I delegati di non meno di cinque consigli regionali, che abbiano approvato identica deliberazione, redigono o sottoscrivono l'atto di richiesta, e lo presentano personalmente, entro tre mesi dalla pubblicazione di cui all'articolo 3, alla cancelleria della Corte di cassazione, unitamente alle copie autentiche delle deliberazioni di richiesta di referendum e di nomina di delegati approvate da ciascun consiglio regionale.
 
 Del deposito si da' atto in processo verbale con le modalita' stabilite dal terzo e dal quarto comma dell'articolo 6. Esso viene redatto in sei o piu' originali, in modo che un originale possa essere consegnato al delegato di ciascun consiglio regionale.
 
-#### Art. 12
+### Art. 12
 
 ((Presso la Corte di cassazione e' costituito un ufficio centrale per il referendum, composto dai tre presidenti di sezione della Corte di cassazione piu' anziani nonche' dai tre consiglieri piu' anziani di ciascuna sezione. Il piu' anziano dei tre presidenti presiede l'ufficio e gli altri due esercitano le funzioni di vice presidente)).
 
@@ -146,13 +146,13 @@ Se, in base alle deduzioni dei presentatori da depositarsi entro 5 giorni, l'Uff
 
 ((Per la validita' delle operazioni dell'ufficio centrale per il referendum e' sufficiente la presenza del presidente o di un vice presidente e di sedici consiglieri)).
 
-#### Art. 13
+### Art. 13
 
 L'ordinanza dell'Ufficio centrale che decide sulla legittimita' della richiesta di referendum e' immediatamente comunicata al Presidente della Repubblica, ai Presidenti delle Camere, al Presidente del Consiglio dei Ministri ed al Presidente della Corte costituzionale.
 
 Essa deve essere notificata a mezzo ufficiale giudiziario, entro cinque giorni, rispettivamente ai tre delegati dei parlamentari richiedenti, oppure ai presentatori della richiesta dei 500 mila elettori, oppure ai delegati dei cinque consigli regionali.
 
-#### Art. 14
+### Art. 14
 
 Qualora l'ordinanza dell'Ufficio centrale dichiari l'illegittimita' della richiesta, la legge costituzionale, sempreche' sia decorso il termine di tre mesi dalla pubblicazione di cui all'articolo 37 viene promulgata dal Presidente della Repubblica con la seguente formula: "La Camera dei deputati e il Senato della Repubblica con la maggioranza assoluta dei rispettivi componenti hanno approvato;
 
@@ -164,7 +164,7 @@ Il Presidente della Repubblica promulga la seguente legge costituzionale:
 
 La presente legge costituzionale, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato".
 
-#### Art. 15
+### Art. 15
 
 Il referendum e' indetto con decreto del Presidente della Repubblica, su deliberazione del Consiglio dei Ministri, entro sessanta giorni dalla comunicazione dell'ordinanza che lo abbia ammesso. ((13))
 
@@ -178,21 +178,21 @@ AGGIORNAMENTO (13)
 
 Il D.L. 17 marzo 2020, n. 18, convertito con modificazioni dalla L. 24 aprile 2020, n. 27, ha disposto (con l'art. 81, comma 1) che "In considerazione dello stato di emergenza sul territorio nazionale relativo al rischio sanitario connesso all'insorgenza di patologie derivanti da agenti virali trasmissibili, dichiarato con la delibera del Consiglio dei ministri del 31 gennaio 2020, pubblicata nella Gazzetta Ufficiale n. 26 del 1° febbraio 2020, in deroga a quanto previsto dall'articolo 15, primo comma, della legge 25 maggio 1970, n. 352, il termine entro il quale e' indetto il referendum confermativo del testo di legge costituzionale, recante: «Modifiche agli articoli 56, 57 e 59 della Costituzione in materia di riduzione del numero dei parlamentari», pubblicato nella Gazzetta Ufficiale, Serie Generale, n. 240 del 12 ottobre 2019, e' fissato in duecentoquaranta giorni dalla comunicazione dell'ordinanza che lo ha ammesso".
 
-#### Art. 16
+### Art. 16
 
 Il quesito da sottoporre a referendum consiste nella formula seguente: "Approvate il testo della legge di revisione dell'articolo... (o degli articoli...) della Costituzione, concernente... (o concernenti...), approvato dal Parlamento e pubblicato - nella Gazzetta Ufficiale numero... del... ?"; ovvero: "Approvate il testo della legge costituzionale.. concernente... approvato dal Parlamento e pubblicato nella Gazzetta Ufficiale numero... del... ?".
 
-#### Art. 17
+### Art. 17
 
 La votazione per il referendum si svolge a suffragio universale con voto diretto, libero e segreto.
 
 L'elettorato attivo, la tenuta e la revisione annuale delle liste elettorali, la ripartizione dei comuni in sezioni elettorali e la scelta dei luoghi di riunione sono disciplinati dalle disposizioni del testo unico 20 marzo 1967, n. 223.
 
-#### Art. 18
+### Art. 18
 
 ((ARTICOLO ABROGATO DAL D. P. R. 8 SETTEMBRE 2000, n. 299))
 
-#### Art. 19
+### Art. 19
 
 L'Ufficio di sezione per il referendum e' composto di un presidente, di tre scrutatori, di cui uno, a scelta del presidente, assume le funzioni di vicepresidente, e di un segretario.
 
@@ -200,7 +200,7 @@ Alle operazioni di voto e di scrutinio presso i seggi, nonche' alle operazioni d
 
 Alle designazioni dei predetti rappresentanti provvede, per i seggi e per gli Uffici provinciali, persona munita di mandato, autenticato da notaio, da parte del presidente o del segretario provinciale del partito o gruppo politico oppure da parte dei promotori del referendum e, per l'Ufficio centrale del referendum, persona munita di mandato, autenticato da notaio, da parte del presidente o del segretario nazionale del partito o del gruppo politico o dei promotori del referendum.
 
-#### Art. 20
+### Art. 20
 
 Le schede per il referendum, di carta consistente, di tipo unico e di identico colore, sono fornite dal Ministero dell'interno con le caratteristiche risultanti dai modelli riprodotti nelle tabelle A e B allegate alla presente legge.
 
@@ -212,7 +212,7 @@ L'elettore vota tracciando sulla scheda con la matita un segno sulla risposta da
 
 Nel caso di cui al terzo comma, l'Ufficio di sezione per il referendum osserva, per gli scrutini, l'ordine di deposito presso la cancelleria della Corte di cassazione delle richieste di referendum.
 
-#### Art. 21
+### Art. 21
 
 Presso il tribunale, nella cui circoscrizione e' compreso il capoluogo della provincia, e' costituito l'Ufficio provinciale per il referendum, composto da tre magistrati, nominati dal presidente del tribunale entro quaranta giorni dalla data del decreto che indice il referendum. Dei tre magistrati il piu' anziano assume le funzioni di presidente. Sono nominati anche magistrati supplenti per sostituire i primi in caso di impedimento.
 
@@ -224,7 +224,7 @@ Sulla base dei verbali di scrutinio, trasmessi dagli uffici di sezione per il re
 
 I delegati o i promotori della richiesta di referendum hanno la facolta' di prendere cognizione e di fare copia, anche per mezzo di un loro incaricato, dell'esemplare del verbale depositato presso la cancelleria del tribunale.
 
-#### Art. 22
+### Art. 22
 
 L'Ufficio centrale per il referendum, appena pervenuti i verbali di tutti gli Uffici provinciali((...)) procede, in pubblica adunanza, con l'intervento del procuratore generale della Corte di cassazione, facendosi assistere per l'esecuzione materiale dei calcoli da esperti designati dal primo presidente, all'accertamento della somma dei voti validi favorevoli e dei voti validi contrari alla legge di revisione costituzionale o alla legge costituzionale su cui si vota e alla conseguente proclamazione dei risultati del referendum.
 
@@ -234,15 +234,15 @@ Un esemplare e' depositato presso la cancelleria della Corte di cassazione, unit
 
 ((Se lo ritiene necessario ai fini delle operazioni e della proclamazione di cui al primo comma, l'Ufficio centrale per il referendum richiede agli uffici provinciali la trasmissione, per mezzo di corriere speciale, dei verbali e dei documenti depositati presso la cancelleria del tribunale)).
 
-#### Art. 23
+### Art. 23
 
 Sulle proteste e sui reclami relativi alle operazioni di votazione e di scrutinio presentati agli Uffici provinciali per il referendum o all'Ufficio centrale, decide quest'ultimo, nella pubblica adunanza di cui all'articolo precedente, prima di procedere alle operazioni ivi previste.
 
-#### Art. 24
+### Art. 24
 
 L'Ufficio centrale procede alla proclamazione dei risultati del referendum, mediante attestazione che la legge di revisione della Costituzione o la legge costituzionale sottoposta a referendum ha riportato, considerando i voti validi, un maggior numero di voti affermativi al quesito e un minor numero di voti negativi, ovvero, in caso contrario, che il numero dei voti affermativi non e' maggiore del numero dei voti negativi.
 
-#### Art. 25
+### Art. 25
 
 Il Presidente della Repubblica, in base al verbale che gli e' trasmesso dall'Ufficio centrale per il referendum, qualora risulti che la legge sottoposta a referendum abbia riportato un maggior numero di voti validi favorevoli, procede alla promulgazione con la formula seguente:
 
@@ -256,13 +256,13 @@ Il Presidente della Repubblica promulga la seguente legge costituzionale:
 
 La presente legge costituzionale, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare seme legge dello Stato".
 
-#### Art. 26
+### Art. 26
 
 Nel caso in cui il risultato del referendum sia sfavorevole all'approvazione della legge, il Ministro per la grazia e la giustizia, dopo aver ricevuto la relativa comunicazione dall'Ufficio centrale per il referendum, cura la pubblicazione del risultato medesimo nella Gazzetta Ufficiale.
 
 ## TITOLO II - REFERENDUM PREVISTO DALL'ARTICOLO 75 DELLA COSTITUZIONE
 
-#### Art. 27
+### Art. 27
 
 Al fine di raccogliere le firme dei 500.000 elettori necessari per il referendum previsto dall'articolo 75 della Costituzione, nei fogli vidimati dal funzionario, di cui all'articolo 7, si devono indicare i termini del quesito che si intende sottoporre alla votazione popolare, e la legge o l'atto avente forza di legge dei quali si propone l'abrogazione, completando la formula "volete che sia abrogata..." con la data, il numero e il titolo della legge o dell'atto avente valore di legge sul quale il referendum sia richiesto.
 
@@ -270,25 +270,25 @@ Qualora si richieda referendum per abrogazione parziale, nella formula indicata 
 
 Qualora si richieda referendum per la abrogazione di parte di uno o piu' articoli di legge, oltre all'indicazione della legge e dell'articolo di cui ai precedenti commi primo e secondo, deve essere inserita l'indicazione del comma, e dovra' essere altresi' integralmente trascritto il testo letterale delle disposizioni di legge delle quali sia proposta l'abrogazione.
 
-#### Art. 28
+### Art. 28
 
 Salvo il disposto dell'articolo 31, il deposito presso la cancelleria della Corte di cassazione di tutti i fogli contenenti le firme e dei certificati elettorali dei sottoscrittori deve essere effettuato entro tre mesi dalla data del timbro apposto sui fogli medesimi a norma dell'articolo 7, ultimo comma. Tale deposito deve essere effettuato da almeno tre dei promotori, i quali dichiarano al cancelliere il numero delle firme che appoggiano la richiesta.
 
-#### Art. 29
+### Art. 29
 
 Nel caso di richiesta del referendum previsto dall'articolo 75 della Costituzione da parte di non meno di cinque consigli regionali, la richiesta stessa deve contenere, oltre al quesito e all'indicazione delle disposizioni di legge delle quali si propone la abrogazione ai sensi del predetto articolo, l'indicazione dei consigli regionali che abbiano deliberato di presentarla, della data della rispettiva deliberazione, che non deve essere anteriore di oltre quattro mesi alla presentazione, e dei delegati di ciascun consiglio, uno effettivo e uno supplente; deve essere sottoscritta dai delegati, e deve essere corredata da copia di dette deliberazioni, sottoscritta dal presidente di ciascun consiglio.
 
-#### Art. 30
+### Art. 30
 
 La deliberazione di richiedere referendum deve essere approvata dal consiglio regionale con il voto della maggioranza dei consiglieri assegnati alla regione e deve contenere l'indicazione della legge o della norma della quale si proponga l'abrogazione, in conformita' delle prescrizioni dell'articolo 27.
 
 Qualora la deliberazione di richiedere il referendum sia approvata da altri consigli regionali con modificazione del quesito, questi procedono come iniziatori di nuova proposta.
 
-#### Art. 31
+### Art. 31
 
 Non puo' essere depositata richiesta di referendum nell'anno anteriore alla scadenza di una delle due Camere e nei sei mesi successivi alla data di convocazione dei comizi elettorali per l'elezione di una delle Camere medesime.
 
-#### Art. 32
+### Art. 32
 
 Salvo il disposto dell'articolo precedente, le richieste di referendum devono essere depositate in ciascun anno dal 1 gennaio al 30 settembre.
 
@@ -314,7 +314,7 @@ AGGIORNAMENTO(17)
 
 Il D.L. 30 settembre 2021, n. 132 ha disposto (con l'art. 3, comma 1) che "Per le richieste di referendum previsto dall'articolo 75 della Costituzione, annunciate nella Gazzetta Ufficiale ai sensi degli articoli 7 e 27 della legge 25 maggio 1970, n. 352, dopo il 15 giugno 2021 ed entro la data di entrata in vigore del presente decreto, i termini previsti dagli articoli 32 e 33, commi primo e quarto, della citata legge n. 352 del 1970 sono prorogati di un mese".
 
-#### Art. 33
+### Art. 33
 
 Il presidente della Corte costituzionale, ricevuta comunicazione dell'ordinanza dell'Ufficio centrale che dichiara la legittimita' di una o piu' richieste di referendum, fissa il giorno della deliberazione in camera di consiglio non oltre il 20 gennaio dell'anno successivo a quello in cui la predetta ordinanza e' stata pronunciata, e nomina il giudice relatore. ((17))
 
@@ -332,7 +332,7 @@ AGGIORNAMENTO(17)
 
 Il D.L. 30 settembre 2021, n. 132 ha disposto (con l'art. 3, comma 1) che "Per le richieste di referendum previsto dall'articolo 75 della Costituzione, annunciate nella Gazzetta Ufficiale ai sensi degli articoli 7 e 27 della legge 25 maggio 1970, n. 352, dopo il 15 giugno 2021 ed entro la data di entrata in vigore del presente decreto, i termini previsti dagli articoli 32 e 33, commi primo e quarto, della citata legge n. 352 del 1970 sono prorogati di un mese".
 
-#### Art. 34
+### Art. 34
 
 Ricevuta comunicazione della sentenza della Corte costituzionale, il Presidente della Repubblica, su deliberazione del Consiglio dei Ministri, indice con decreto il referendum, fissando la data di convocazione degli elettori in una domenica compresa tra il 15 aprile ed il 15 giugno.
 
@@ -346,7 +346,7 @@ AGGIORNAMENTO(3)
 
 La L. 7 agosto 1987, n. 332 ha disposto (con l'art. 1, comma 1) che "In deroga a quanto previsto dall'articolo 34, terzo comma, della legge 25 maggio 1970, n. 352, i termini del procedimento per i referendum, indetti con i decreti del Presidente della Repubblica 5 aprile 1987, pubblicati nella Gazzetta Ufficiale della Repubblica italiana n. 80 del 6 aprile 1987, e sospesi per effetto dell'anticipato scioglimento della Camera dei deputati e del Senato della Repubblica disposto con decreto del Presidente della Repubblica 28 aprile 1987, n. 159, riprendono a decorrere dal giorno successivo alla data di entrata in vigore della presente legge".
 
-#### Art. 35
+### Art. 35
 
 Le schede per il referendum sono di carta consistente, di tipo unico e di identico colore: sono fornite dal Ministero dell'interno con le caratteristiche risultanti dal modello riprodotto nelle tabelle C e D allegate alla presente legge.
 
@@ -356,13 +356,13 @@ All'elettore vengono consegnate per la votazione tante schede di colore diverso 
 
 L'elettore vota tracciando sulla scheda con la matita un segno sulla risposta da lui prescelta e, comunque, nel rettangolo che la contiene.
 
-#### Art. 36
+### Art. 36
 
 ((L'Ufficio centrale per il referendum, appena pervenuti i verbali, procede)), in pubblica adunanza con l'intervento del procuratore generale della Corte di cassazione, facendosi assistere, per l'esecuzione materiale dei calcoli, da esperti designati dal primo presidente, all'accertamento della partecipazione alla votazione della maggioranza degli aventi diritto, alla somma dei voti validi favorevoli e dei voti validi contrari all'abrogazione della legge, e alla conseguente proclamazione dei risultati del referendum.
 
 ((Se lo ritiene necessario ai fini delle operazioni e della proclamazione di cui al primo comma, l'Ufficio centrale per il referendum richiede agli uffici provinciali la trasmissione, per mezzo di corriere speciale, dei verbali e dei documenti depositati presso la cancelleria del tribunale)).
 
-#### Art. 37
+### Art. 37
 
 Qualora il risultato del referendum sia favorevole all'abrogazione di una legge, o di un atto avente forza di legge, o di singole disposizioni di essi, il Presidente della Repubblica, con proprio decreto, dichiara l'avvenuta abrogazione della legge, o dell'atto avente forza di legge, o delle disposizioni suddette.
 
@@ -376,11 +376,11 @@ AGGIORNAMENTO(3)
 
 La L. 7 agosto 1987, n. 332 ha disposto (con l'art. 2, comma 1) che "In deroga a quanto previsto dall'articolo 37, ultimo comma, della legge 25 maggio 1970, n. 352, il Presidente della Repubblica, su proposta del Ministro interessato, previa deliberazione del Consiglio dei Ministri, puo' ritardare l'entrata in vigore dell'abrogazione delle disposizioni legislative oggetto dei referendum indicati nell'articolo 1, per un termine non superiore a centoventi giorni dalla data della pubblicazione nella Gazzetta Ufficiale della Repubblica italiana del decreto di cui al primo comma del citato articolo 37".
 
-#### Art. 38
+### Art. 38
 
 Nel caso che il risultato del referendum sia contrario all'abrogazione di una legge, o di un atto avente forza di legge, o di singole disposizioni di essi, ne e' data notizia e non puo' proporsi richiesta di referendum per l'abrogazione della medesima legge, o atto avente forza di legge, o delle disposizioni suddette, fermo il disposto dell'articolo 31, prima che siano trascorsi cinque anni.
 
-#### Art. 39
+### Art. 39
 
 Se prima della data dello svolgimento del referendum, la legge, o l'atto avente forza di legge, o le singole disposizioni di essi cui il referendum si riferisce, siano stati abrogati, l'Ufficio centrale per il referendum dichiara che le operazioni relative non hanno piu' corso. ((2))
 
@@ -390,19 +390,17 @@ AGGIORNAMENTO(2)
 
 La Corte Costituzionale, con sentenza 16 - 17 maggio 1978, n. 68 (in G.U. 1a s.s. 19/05/1978 n. 138) ha dichiarato "l'illegittimita' costituzionale dell'art. 39 della legge 25 maggio 1970, n. 352, limitatamente alla parte in cui non prevede che se l'abrogazione degli atti o delle singole disposizioni cui si riferisce il referendum venga accompagnata da altra disciplina della stessa materia, senza modificare ne' i principi ispiratori della complessiva disciplina preesistente ne' i contenuti normativi essenziali dei singoli precetti, il referendum si effettui sulle nuove disposizioni legislative".
 
-#### Art. 40
+### Art. 40
 
 Per quanto non previsto dal presente Titolo si osservano, in quanto applicabili, le norme di cui al Titolo I.
 
-## TITOLO III - REFERENDUM PER LA MODIFICAZIONE TERRITORIALE DELLE REGIONI PREVISTI
+## TITOLO III - REFERENDUM PER LA MODIFICAZIONE TERRITORIALE DELLE REGIONI PREVISTI DALL'ARTICOLO 132 DELLA COSTITUZIONE
 
-### DALL'ARTICOLO 132 DELLA COSTITUZIONE
-
-#### Art. 41
+### Art. 41
 
 I quesiti da sottoporre a referendum, a norma dello articolo 132 della Costituzione, per la fusione di regioni esistenti o per la creazione di nuove regioni o per il distacco da una regione e l'aggregazione ad altra di una o piu' province o di uno o piu' comuni, devono essere espressi, rispettivamente, con la formula: "Volete che la regione... sia fusa con la regione... per costituire insieme un'unica regione?"; oppure: "Volete che il territorio delle province... (o dei comuni...) sia separato dalla regione... (o dalle regioni...) per formare regione a se' stante?"; oppure: "Volete che il territorio della provincia... (o delle province...) sia separato dalla regione... per entrare a far parte integrante della regione...?"; oppure: "Volete che il territorio del comune...(o dei comuni...) sia separato dalla regione... per entrare a far parte integrante della regione...?", e l'indicazione delle regioni, delle province e dei comuni di cui trattasi. Puo' essere inserita l'indicazione del nome della nuova regione della quale si proponga la costituzione per fusione o per separazione.
 
-#### Art. 42
+### Art. 42
 
 La richiesta di referendum per la fusione di regioni deve essere corredata delle deliberazioni, identiche per oggetto, di tanti consigli comunali che rappresentino almeno un terzo della popolazione complessiva delle regioni della cui fusione si tratta.
 
@@ -420,7 +418,7 @@ AGGIORNAMENTO (12)
 
 La Corte Costituzionale, con sentenza 28 ottobre-10 novembre 2004 n 334, (in G.U. 1a s.s. 17/11/2004, n. 45) ha dichiarato "l'illegittimita' costituzionale dell'art. 42, secondo comma, della legge 25 maggio 1970, n. 352 (Norme sui referendum previsti dalla Costituzione e sulla iniziativa legislativa del popolo), nella parte in cui prescrive che la richiesta di referendum per il distacco di una Provincia o di un Comune da una Regione e l'aggregazione ad altra Regione deve essere corredata - oltre che delle deliberazioni, identiche nell'oggetto, rispettivamente dei consigli Provinciali e dei consigli comunali delle Province e dei Comuni di cui si propone il distacco - anche delle deliberazioni, identiche nell'oggetto, "di tanti consigli Provinciali o di tanti consigli comunali che rappresentino almeno un terzo della restante popolazione della Regione dalla quale e' proposto il distacco delle Province o dei Comuni predetti" e "di tanti consigli provinciali o di tanti consigli comunali che rappresentino almeno un terzo della popolazione della Regione alla quale si propone che le Province o i Comuni siano aggregati"."
 
-#### Art. 43
+### Art. 43
 
 L'Ufficio centrale per il referendum, costituito presso la Corte di cassazione secondo le norme dell'articolo 12, accerta che la richiesta di referendum sia conforme alle norme dell'articolo 132 della Carta costituzionale e della legge, verificando in particolare che sia raggiunto il numero minimo prescritto delle deliberazioni depositate.
 
@@ -428,7 +426,7 @@ L'ordinanza dell'Ufficio centrale che dichiara la legittimita' della richiesta d
 
 L'ordinanza che dichiara illegittima la richiesta e' affissa all'albo della Corte di cassazione e pubblicata nella Gazzetta Ufficiale della Repubblica.
 
-#### Art. 44
+### Art. 44
 
 Il referendum e' indetto con decreto del Presidente della Repubblica, su deliberazione del Consiglio dei Ministri, entro tre mesi dalla comunicazione dell'ordinanza che dichiara la legittimita' della richiesta, per una data di non oltre tre mesi da quella del decreto.
 
@@ -438,7 +436,7 @@ Il referendum e' indetto nel territorio delle regioni della cui fusione si tratt
 
 Partecipano alla votazione tutti i cittadini iscritti nelle liste elettorali di cui al testo unico 20 marzo 1967, numero 223, dei comuni compresi nel territorio anzidetto.
 
-#### Art. 45
+### Art. 45
 
 L'Ufficio centrale per il referendum, costituito presso la Corte di cassazione, procede alla somma dei risultati del referendum relativi a tutto il territorio nel quale esso si e' svolto, e ne proclama il risultato.
 
@@ -450,7 +448,7 @@ Nel caso di approvazione della proposta sottoposta a referendum, il Ministro per
 
 Qualora la proposta non sia approvata, non puo' essere rinnovata prima che siano trascorsi cinque anni.
 
-#### Art. 46
+### Art. 46
 
 La promulgazione della legge costituzionale prevista dall'articolo 132, primo comma, della Costituzione, nell'ipotesi di approvazione da parte delle Camere con la maggioranza indicata nel terzo comma dell'articolo 138 della Costituzione, e' espressa con la formula seguente:
 
@@ -474,13 +472,13 @@ Il Presidente della Repubblica promulga la seguente legge:
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato".
 
-#### Art. 47
+### Art. 47
 
 Per quanto non previsto dal presente Titolo si osservano, in quanto applicabili, le norme di cui ai Titoli I e II.
 
 ## TITOLO IV - INIZIATIVA DEL POPOLO NELLA FORMAZIONE DELLE LEGGI
 
-#### Art. 48
+### Art. 48
 
 La proposta, da parte di almeno 50 mila elettori, dei progetti di legge ai sensi dell'articolo 71, comma secondo, della Costituzione, deve essere presentata, corredata delle firme degli elettori proponenti, al Presidente di una delle due Camere.
 
@@ -488,7 +486,7 @@ Spetta a tale Camera provvedere alla verifica ed al computo delle firme dei rich
 
 Possono essere proponenti i cittadini iscritti nelle liste elettorali, previste dal testo-unico 20 marzo 1967, n. 223, e coloro che siano muniti di una delle sentenze di cui al primo ed all'ultimo comma dell'articolo 45 del testo anzidetto.
 
-#### Art. 49
+### Art. 49
 
 La proposta deve contenere il progetto redatto in articoli, accompagnato da una relazione che ne illustri le finalita' e le norme.
 
@@ -500,11 +498,11 @@ Se il testo del progetto supera le tre facciate di ogni foglio, esso va contenut
 
 ## TITOLO V - DISPOSIZIONI FINALI
 
-#### Art. 50
+### Art. 50
 
 Per tutto cio' che non e' disciplinato nella presente legge si osservano, in quanto applicabili, le disposizioni del testo unico delle leggi per l'elezione della Camera dei deputati, approvato con decreto del Presidente della Repubblica 30 marzo 1957, n. 361 ((nonche', per i cittadini italiani residenti all'estero, le disposizioni della legge in materia di esercizio del diritto di voto dei cittadini italiani residenti all'estero)).
 
-#### Art. 51
+### Art. 51
 
 Le disposizioni penali, contenute nel Titolo VII del testo unico delle leggi per la elezione della Camera dei deputati, si applicano anche con riferimento alle disposizioni della presente legge.
 
@@ -512,7 +510,7 @@ Le sanzioni previste dagli articoli 96, 97 e 98 del suddetto testo unico si appl
 
 Le sanzioni previste dall'articolo 103 del suddetto testo unico si applicano anche quando i fatti previsti nell'articolo medesimo riguardino espressioni di voto relative all'oggetto del referendum.
 
-#### Art. 52
+### Art. 52
 
 ((Alla propaganda relativa allo svolgimento dei referendum previsti dalla presente legge si applicano le disposizioni contenute nelle leggi 4 aprile 1956, n. 212, e 24 aprile 1975, n. 130.
 
@@ -522,7 +520,7 @@ Qualora abbiano luogo contemporaneamente piu' referendum, a ciascun partito o gr
 
 In ogni caso deve essere rivolta istanza alla giunta municipale entro il trentaquattresimo giorno antecedente alla data della votazione per l'assegnazione dei prescritti spazi.
 
-#### Art. 53
+### Art. 53
 
 Le spese per lo svolgimento dei referendum di cui ai Titoli I e II della presente legge sono a carico dello Stato.
 
@@ -544,7 +542,7 @@ Visto, il Guardasigilli: REALE
 
 ## TITOLO V - DISPOSIZIONI FINALI
 
-#### Tabella
+### Tabella
 
 (( Tabella A
 

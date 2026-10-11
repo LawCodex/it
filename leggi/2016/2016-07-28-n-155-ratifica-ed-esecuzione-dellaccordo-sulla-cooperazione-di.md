@@ -30,7 +30,7 @@ Promulga
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Autorizzazione alla ratifica
 
@@ -40,13 +40,13 @@ Autorizzazione alla ratifica
 
 > Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
-#### Art. 2
+### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 43 dell'Accordo stesso.
 
-#### Art. 3
+### Art. 3
 
 Copertura finanziaria
 
@@ -60,7 +60,7 @@ Copertura finanziaria
 
 5\. Dall'attuazione dell'Accordo di cui all'articolo 1 non devono derivare nuovi o maggiori oneri per la finanza pubblica, ad eccezione di quelli espressamente previsti e quantificati nel comma 1 del presente articolo. Alle eventuali ulteriori attivita' si provvede con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
-#### Art. 4
+### Art. 4
 
 Entrata in vigore
 
@@ -112,9 +112,7 @@ Visto, il Guardasigilli: Orlando
 
 > (Omissis).».
 
-## Titolo I - DEFINIZIONI E OBIETTIVI
-
-### DELLA COOPERAZIONE
+## Titolo I - DEFINIZIONI E OBIETTIVI DELLA COOPERAZIONE
 
 Allegato
 
@@ -140,13 +138,13 @@ richiamando la Convenzione di Strasburgo per la protezione delle persone in rela
 
 Convengono quanto segue:
 
-#### Art. 1
+### Art. 1
 
 Obiettivi
 
 Le Parti, nel rispetto della propria sovranita' nazionale, delle proprie leggi, nonche' delle competenze territoriali delle autorita' amministrative e giudiziarie, attuano una cooperazione transfrontaliera tra i rispettivi organi competenti, anche mediante la definizione di nuove modalita' di cooperazione in materia di polizia e le attivita' del centro comune.
 
-#### Art. 2
+### Art. 2
 
 Autorita' competenti
 
@@ -156,7 +154,7 @@ per la Repubblica italiana, il Dipartimento della Pubblica Sicurezza del Ministe
 
 per la Confederazione Svizzera, le autorita' federali in materia di polizia, di immigrazione e di dogana, in particolare il Corpo delle guardie di confine, nonche' le polizie cantonali e le autorita' cantonali in materia di migrazione.
 
-#### Art. 3
+### Art. 3
 
 Zona di frontiera
 
@@ -166,7 +164,7 @@ per la Repubblica italiana: dai territori delle Province di Aosta, di Verbano-Cu
 
 per la Confederazione Svizzera: dai territori dei Cantoni del Vallese, del Ticino e dei Grigioni.
 
-#### Art. 4
+### Art. 4
 
 Definizioni
 
@@ -178,11 +176,9 @@ Ai fini del presente Accordo si intendono per:
 
 «sorveglianza», l'applicazione di tutte le disposizioni normative delle Parti, riguardanti la salvaguardia dell'ordine pubblico e della sicurezza pubblica e in particolare la lotta ai traffici illeciti e all'immigrazione illegale.
 
-## Titolo II - DISPOSIZIONI GENERALI
+## Titolo II - DISPOSIZIONI GENERALI SULLA COOPERAZIONE
 
-### SULLA COOPERAZIONE
-
-#### Art. 5
+### Art. 5
 
 Ambito della cooperazione
 
@@ -206,7 +202,7 @@ h. la criminalita' informatica, con particolare riguardo agli attacchi alle infr
 
 2\. Le Parti collaborano inoltre nella prevenzione e repressione di atti terroristici in conformita' alla normativa in vigore nei propri Paesi e agli obblighi internazionali, comprese le pertinenti Convenzioni internazionali e Risoluzioni del Consiglio di Sicurezza delle Nazioni Unite.
 
-#### Art. 6
+### Art. 6
 
 Forme di cooperazione
 
@@ -256,7 +252,7 @@ c. in caso di ricerche di autori di reato in fuga;
 
 d. in caso di incremento del flusso di persone in transito alla frontiera.
 
-#### Art. 7
+### Art. 7
 
 Assistenza su richiesta
 
@@ -276,7 +272,7 @@ d. una descrizione dell'assistenza richiesta;
 
 e. qualsiasi altra informazione che possa contribuire all'effettiva esecuzione della richiesta.
 
-#### Art. 8
+### Art. 8
 
 Rifiuto di assistenza
 
@@ -288,7 +284,7 @@ Rifiuto di assistenza
 
 4\. L'Autorita' competente richiedente riceve notifica scritta e motivata sul totale o parziale rifiuto di eseguire la richiesta.
 
-#### Art. 9
+### Art. 9
 
 Esecuzione delle richieste
 
@@ -300,17 +296,15 @@ Esecuzione delle richieste
 
 4\. L'Autorita' competente richiesta puo' chiedere tutte le informazioni che ritiene necessarie alla adeguata esecuzione della richiesta.
 
-#### Art. 10
+### Art. 10
 
 Assistenza spontanea
 
 In casi particolari, nel rispetto della propria normativa nazionale, le Autorita' competenti possono comunicarsi spontaneamente, anche senza una preventiva richiesta, informazioni utili a prevenire minacce concrete alla sicurezza, all'ordine pubblico o a contrastare la criminalita'.
 
-## Titolo III - MODALITA' PARTICOLARI
+## Titolo III - MODALITA' PARTICOLARI DI COOPERAZIONE DI POLIZIA
 
-### DI COOPERAZIONE DI POLIZIA
-
-#### Art. 11
+### Art. 11
 
 Osservazione transfrontaliera
 
@@ -332,7 +326,7 @@ per la Repubblica italiana, gli ufficiali e agenti di polizia giudiziaria ai sen
 
 per la Confederazione Svizzera, gli agenti di polizia della Confederazione e dei Cantoni, nonche' gli agenti del Corpo delle guardie di confine e delle sezioni antifrode doganali.
 
-#### Art. 12
+### Art. 12
 
 Inseguimento transfrontaliero
 
@@ -354,7 +348,7 @@ per la Repubblica italiana, gli ufficiali e agenti di polizia giudiziaria ai sen
 
 per la Confederazione Svizzera, gli agenti di polizia della Confederazione e dei Cantoni, nonche' gli agenti del Corpo delle guardie di confine e delle sezioni antifrode doganali.
 
-#### Art. 13
+### Art. 13
 
 Consegne sorvegliate
 
@@ -362,19 +356,19 @@ Consegne sorvegliate
 
 2\. Le consegne sorvegliate sono effettuate in virtu' delle modalita' disciplinate dall'Intesa d'esecuzione del 17 novembre 2009 sulle consegne sorvegliate transfrontaliere tra l'Italia e la Svizzera.
 
-#### Art. 14
+### Art. 14
 
 Interventi comuni
 
 Allo scopo di intensificare la cooperazione, le Autorita' competenti formano, in caso di necessita', gruppi misti di analisi, di lavoro e di indagine in cui agenti di una Parte assumono, in occasione di interventi sul territorio dell'altra Parte, funzioni di consulenza e assistenza.
 
-#### Art. 15
+### Art. 15
 
 Distacco di personale di collegamento
 
 Le Autorita' competenti, nel rispetto della normativa nazionale e di comune intesa, possono distaccare personale con funzione di collegamento al fine di promuovere ed accelerare la cooperazione, soprattutto lo scambio di informazioni e l'adempimento di richieste di assistenza.
 
-#### Art. 16
+### Art. 16
 
 Protezione testimoni
 
@@ -390,7 +384,7 @@ Protezione testimoni
 
 6\. La Parte richiesta puo' porre fine alla cooperazione se motivi gravi lo giustificano e se ne ha informato precedentemente la Parte richiedente. In tali casi la Parte richiedente e' tenuta a riprendere in custodia le persone da proteggere.
 
-#### Art. 17
+### Art. 17
 
 Misure in caso di pericolo grave ed imminente
 
@@ -408,7 +402,7 @@ per la Repubblica italiana, alla Direzione Centrale della Polizia Criminale - Se
 
 per la Confederazione Svizzera, al settore svizzero del centro comune.
 
-#### Art. 18
+### Art. 18
 
 Assistenza in caso di eventi di vasta portata,
 
@@ -424,7 +418,7 @@ c. prestando assistenza, nel limite del possibile, su richiesta della Parte sul 
 
 2\. Nel caso di invio di agenti di una Parte nel territorio dell'altra Parte, le Autorita' competenti possono, attraverso uno specifico accordo, affidare loro compiti esecutivi, comprese le competenze di pubblica autorita'. Tali compiti potranno essere svolti unicamente sotto la direzione del servizio responsabile e nel rispetto della normativa nazionale della Parte sul cui territorio avviene l'intervento. Le misure adottate dagli agenti che intervengono sono ascritte all'altra Parte.
 
-#### Art. 19
+### Art. 19
 
 Sostegno in situazioni di crisi o eventi straordinari
 
@@ -440,7 +434,7 @@ Sostegno in situazioni di crisi o eventi straordinari
 
 6\. Negli interventi sul territorio della Parte richiedente, gli agenti dell'unita' speciale della Parte che presta assistenza sono autorizzati ad operare e ad adottare tutte le misure necessarie per preparare l'assistenza richiesta. In tale contesto, essi operano sotto la responsabilita', la direzione e la sfera di competenza della Parte richiedente, rispettandone le disposizioni ed attenendosi alle competenze loro attribuite dalla propria normativa nazionale.
 
-#### Art. 20
+### Art. 20
 
 Agenti di sicurezza nell'aviazione
 
@@ -452,7 +446,7 @@ Agenti di sicurezza nell'aviazione
 
 4\. I dettagli della cooperazione, soprattutto le questioni riguardanti l'impiego operativo degli agenti di sicurezza nell'aviazione, saranno disciplinati in un accordo.
 
-#### Art. 21
+### Art. 21
 
 Sostegno in caso di rimpatri
 
@@ -464,7 +458,7 @@ e allontanamenti congiunti
 
 3\. Le Autorita' competenti potranno concordare lo svolgimento di attivita' congiunte di frontiera per la prevenzione e il contrasto all'immigrazione illegale, compresi i pattugliamenti congiunti.
 
-#### Art. 22
+### Art. 22
 
 Transito
 
@@ -478,11 +472,9 @@ per la Confederazione Svizzera, al settore svizzero del centro comune.
 
 3\. Nei casi previsti ai paragrafi 1 e 2, gli agenti in transito non possono svolgere funzioni di polizia nel territorio dell'altra Parte e sono soggetti alla normativa nazionale di quest'ultima, comprese le disposizioni sulla circolazione stradale.
 
-## Titolo IV - COOPERAZIONE DIRETTA
+## Titolo IV - COOPERAZIONE DIRETTA NELLA ZONA DI FRONTIERA
 
-### NELLA ZONA DI FRONTIERA
-
-#### Art. 23
+### Art. 23
 
 Pattugliamento misto
 
@@ -494,7 +486,7 @@ Pattugliamento misto
 
 4\. I diritti e gli obblighi degli agenti, nonche' le condizioni di esecuzione delle operazioni previste, sono disciplinati dalla normativa nazionale del Paese in cui si svolgono le operazioni.
 
-#### Art. 24
+### Art. 24
 
 Attuazione del pattugliamento misto
 
@@ -502,7 +494,7 @@ Le Autorita' preposte a definire le modalita' dei pattugliamenti misti sono:
 
 per la Repubblica italiana, la Direzione Centrale della Polizia Criminale - Servizio per la Cooperazione Internazionale di Polizia; per la Confederazione Svizzera, il settore svizzero del centro comune.
 
-#### Art. 25
+### Art. 25
 
 Misure transfrontaliere in ambito ferroviario e lacustre
 
@@ -518,7 +510,7 @@ Misure transfrontaliere in ambito ferroviario e lacustre
 
 6\. Le modalita' applicative per le disposizioni del presente articolo saranno definite dalle Autorita' competenti attraverso appositi accordi di esecuzione ai sensi dall'art. 38.
 
-#### Art. 26
+### Art. 26
 
 Servizi di scorta transfrontalieri
 
@@ -536,7 +528,7 @@ Servizi di scorta transfrontalieri
 
 ## Titolo V - CENTRO COMUNE
 
-#### Art. 27
+### Art. 27
 
 Organizzazione
 
@@ -544,7 +536,7 @@ Organizzazione
 
 2\. Nell'ambito delle loro rispettive competenze, gli agenti in servizio nel centro comune lavorano in gruppo, si assistono reciprocamente, si scambiano informazioni sulla cooperazione transfrontaliera, le raccolgono, le analizzano e le trasmettono senza pregiudicare lo scambio di informazioni per il tramite degli organi centrali nazionali e della cooperazione diretta.
 
-#### Art. 28
+### Art. 28
 
 Gestione delle informazioni
 
@@ -554,7 +546,7 @@ Gestione delle informazioni
 
 ## Titolo VI - PROTEZIONE DEI DATI
 
-#### Art. 29
+### Art. 29
 
 Limiti relativi all'utilizzo delle informazioni
 
@@ -578,7 +570,7 @@ e dei documenti
 
 Se viene confermato che i dati trasmessi sono imprecisi, ciascuna Autorita' adotta le misure necessarie per correggere le informazioni.
 
-#### Art. 30
+### Art. 30
 
 Misure organizzative
 
@@ -586,7 +578,7 @@ Ciascuna Parte garantisce un livello di protezione dei dati personali acquisiti 
 
 ## Titolo VII - RAPPORTI GIURIDICI DURANTE ATTI UFFICIALI NELL'ALTRA PARTE
 
-#### Art. 31
+### Art. 31
 
 Entrata, uscita e soggiorno
 
@@ -594,7 +586,7 @@ Entrata, uscita e soggiorno
 
 2\. Gli agenti di una Parte che intervengono sul territorio dell'altra Parte devono essere in grado di provare in qualsiasi momento la loro qualifica ufficiale.
 
-#### Art. 32
+### Art. 32
 
 Uniformi, armi di servizio e mezzi di comunicazione
 
@@ -604,7 +596,7 @@ Uniformi, armi di servizio e mezzi di comunicazione
 
 3\. Dopo l'entrata in vigore del presente Accordo, le Autorita' competenti definiranno le modalita' applicative della cooperazione prevista nei due commi precedenti attraverso la stesura di uno specifico accordo di esecuzione ai sensi dell'art. 38.
 
-#### Art. 33
+### Art. 33
 
 Impiego di mezzi terrestri, navali e aerei
 
@@ -614,7 +606,7 @@ Impiego di mezzi terrestri, navali e aerei
 
 Durante tali interventi vanno rispettate le prescrizioni che regolano il traffico aereo.
 
-#### Art. 34
+### Art. 34
 
 Rapporti di servizio, protezione ed assistenza
 
@@ -622,7 +614,7 @@ Rapporti di servizio, protezione ed assistenza
 
 2\. Le Parti sono tenute a prestare agli agenti inviati dall'altra Parte nell'esercizio delle loro funzioni, la stessa protezione ed assistenza riservata ai propri agenti.
 
-#### Art. 35
+### Art. 35
 
 Responsabilita'
 
@@ -630,7 +622,7 @@ Responsabilita'
 
 2\. La Parte che ha risarcito il danno ai danneggiati o ai loro aventi diritto, ne ottiene il rimborso dall'altra Parte, a meno che l'intervento non sia avvenuto su sua richiesta. In caso di danni nei confronti delle Parti, queste ultime rinunciano a far valere il danno subito, a meno che gli agenti non abbiano causato il danno intenzionalmente o per negligenza grave.
 
-#### Art. 36
+### Art. 36
 
 Situazione giuridica degli agenti
 
@@ -640,13 +632,13 @@ Gli agenti di una Parte che conformemente al presente Accordo operano sul territ
 
 ## Titolo VIII - DISPOSIZIONI FINALI
 
-#### Art. 37
+### Art. 37
 
 Disposizioni di natura finanziaria
 
 Le spese connesse alla trattazione di una richiesta ai sensi del presente Accordo sono sostenute dalla Parte richiesta, salvo che sia diversamente concordato per iscritto dalle Autorita' competenti.
 
-#### Art. 38
+### Art. 38
 
 Applicazione dell'Accordo
 
@@ -654,19 +646,19 @@ Applicazione dell'Accordo
 
 2\. Le Autorita' competenti, con successive comunicazioni, possono designare punti di contatto ai fini dell'attuazione pratica del presente Accordo.
 
-#### Art. 39
+### Art. 39
 
 Obblighi imposti da altri accordi internazionali
 
 Il presente Accordo non influisce sui diritti e sugli obblighi derivanti alle Parti da altri accordi internazionali.
 
-#### Art. 40
+### Art. 40
 
 Lingua
 
 Le autorita' competenti usano le lingue italiana e francese come mezzo di comunicazione.
 
-#### Art. 41
+### Art. 41
 
 Comitato Misto, riunioni di esperti
 
@@ -682,13 +674,13 @@ e risoluzione delle controversie
 
 5\. Le controversie che dovessero sorgere in merito all'interpretazione o all'attuazione del presente Accordo, saranno risolte tramite negoziati e consultazioni reciproche tra le Parti.
 
-#### Art. 42
+### Art. 42
 
 Emendamenti
 
 Il presente Accordo potra' essere emendato con il consenso reciproco delle Parti attraverso le rispettive procedure interne. Gli emendamenti costituiranno parte integrante del presente Accordo ed entreranno in vigore in conformita' a quanto disposto dall'art. 43 del presente Accordo.
 
-#### Art. 43
+### Art. 43
 
 Entrata in vigore e denuncia
 

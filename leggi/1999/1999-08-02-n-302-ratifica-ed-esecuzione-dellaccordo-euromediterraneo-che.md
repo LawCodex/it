@@ -25,21 +25,21 @@ PROMULGA
 
 la seguente legge:
 
-##### ART. 1
+#### ART. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo euromediterraneo che istituisce un'associazione tra le Comunita' europee ed i loro Stati membri, da una parte, e il Regno del Marocco, dall'altra, con sette allegati, cinque protocolli e atto finale, fatto a Bruxelles il 26 febbraio 1996.
 
-##### ART. 2
+#### ART. 2
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore secondo quanto disposto dall'articolo 96 dell'Accordo stesso.
 
-##### ART. 3
+#### ART. 3
 
 1\. All'onere derivante dall'attuazione della presente legge, valutato in lire 9 milioni annue a decorrere dal 1999, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1999-2001, nell'ambito dell'unita' previsionale di base di parte corrente " Fondo speciale " dello stato di previsione del ministero del tesoro, del bilancio e della programmazione economica per l'anno 1999, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri.
 
 2\. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### ART. 4
+#### ART. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta ufficiale.
 
@@ -135,7 +135,7 @@ CONVINTI che il presente accordo definisce un quadro propizio allo sviluppo di u
 
 HANNO CONVENUTO QUANTO SEGUE:
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 1\. E' istituita un'associazione tra la Comunita' e i suoi Stati membri, da una parte, e il Marocco, dall'altra.
 
@@ -151,13 +151,13 @@ HANNO CONVENUTO QUANTO SEGUE:
 
 \- promuovere la cooperazione in campo economico, sociale, culturale e finanziario.
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Il rispetto dei principi democratici e dei diritti fondamentali dell'uomo quali enunciati nella dichiarazione universale dei diritti dell'uomo, ispira le politiche interne e internazionali della Comunita' e del Marocco e costituisce un elemento essenziale del presente accordo.
 
 ## TITOLO I - DIALOGO POLITICO
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 1\. Si istituisce un dialogo politico continuativo tra le Parti al fine di instaurare duraturi vincoli di solidarieta' che contribuiranno alla prosperita', alla stabilita' e alla sicurezza della regione mediterranea e svilupperanno un clima di comprensione e tolleranza tra culture.
 
@@ -171,11 +171,11 @@ c) promuovere il consolidamento della sicurezza e della stabilita' nella regione
 
 d) consentire la messa a punto di iniziative comuni.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Il dialogo politico riguarda qualsiasi aspetto di comune interesse per le Parti e, piu' in particolare, le condizioni atte a garantire la pace, la sicurezza e lo sviluppo regionale sostenendo gli sforzi finalizzati alla cooperazione, soprattutto nell'ambito del Magreb.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 Il dialogo politico si svolgera' a scadenze regolari e ogniqualvolta sara' necessario, in particolare
 
@@ -189,25 +189,25 @@ d) se necessario, attraverso qualsiasi altra modalita' che possa contribuire all
 
 ## TITOLO II - LIBERA CIRCOLAZIONE DELLE MERCI
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 Nel corso di un periodo transitorio della durata massima di dodici anni a decorrere dall'entrata in vigore del presente accordo, la Comunita' e il Marocco istituiscono progressivamente una zona di libero scambio, secondo le modalita' indicate in appresso e in conformita' con le disposizioni dell'Accordo generale sulle tariffe doganali e sul commercio del 1994 e degli altri accordi multilaterali sugli scambi di merci allegati all'accordo che istituisce l'Organizzazione mondiale del commercio, in appresso denominata "GATT".
 
-## CAPITOLO I - PRODOTTI INDUSTRIALI
+### CAPITOLO I - PRODOTTI INDUSTRIALI
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 Le disposizioni del presente capitolo si applicano ai prodotti originari della Comunita' e del Marocco diversi da quelli specificati nell'allegato II del trattato che istituisce la Comunita' europea.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 Negli scambi tra la Comunita' e il Marocco non sono introdotti nuovi dazi doganali all'importazione ne' tasse di effetto equivalente.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 I prodotti originari del Marocco sono ammessi all'importazione nella Comunita' in esenzione da dazi doganali e dalle tasse d'effetto equivalente.
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 1\. Le disposizioni del presente capitolo non ostano al mantenimento, da parte della Comunita', di un elemento agricolo all'importazione dei prodotti elencati nell'allegato 1 originari del Marocco.
 
@@ -231,7 +231,7 @@ Per i prodotti di cui agli elenchi n. 1 e 3 dell'allegato 2 originari della Comu
 
 6\. La riduzione di cui al paragrafo 5, l'elenco dei prodotti interessati e, se del caso, i contingenti tariffari entro il cui limite si applica la riduzione sono stabiliti dal Consiglio di associazione.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 1\. A decorrere dall'entrata in vigore del presente accordo sono soppressi i dazi doganali e le tasse di effetto equivalente applicabili all'importazione in Marocco ai prodotti originari della Comunita' diversi da quelli elencati negli allegati 3, 4, 5 e 6.
 
@@ -275,7 +275,7 @@ Dodici anni dopo l'entrata in vigore del presente accordo, i dazi rimanenti sono
 
 7\. Marocco comunica alla Comunita' i suoi dazi di base.
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 1\. Il Marocco si impegna ad eliminare, entro tre anni a decorrere dall'entrata in vigore del presente accordo, i prezzi di riferimento applicati il 1 luglio 1995 ai prodotti di cui all'allegato 5.
 
@@ -291,11 +291,11 @@ b) il regime applicabile ai prodotti degli elenchi 1 e 2 e' riesaminato dal Cons
 
 In occasione di tale esame, il Consiglio di associazione definisce il calendario dello smantellamento tariffario per i prodotti di cui all'allegato 6, fatta eccezione per i prodotti di cui alla sottovoce tariffaria 630900.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 Le disposizioni relative all'abolizione dei dazi doganali sulle importazioni si applicano anche ai dazi doganali di carattere fiscale.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 1\. Il Marocco puo' adottare misure eccezionali di durata limitata, in deroga alle disposizioni dell'articolo 11, maggiorando o reintroducendo dazi doganali.
 
@@ -311,31 +311,31 @@ Il Marocco informa il Comitato di associazione di ogni misura eccezionale che in
 
 2\. In deroga alle disposizioni del paragrafo 1, quarto comma, il Comitato di associazione puo', a titolo eccezionale, per tener conto delle difficolta' attinenti alla creazione di una nuova industria, autorizzare il Marocco a mantenere le misure gia' adottate ai sensi del paragrafo 1 per un periodo massimo di tre anni oltre il periodo di transizione di dodici anni.
 
-## CAPITOLO II - PRODOTTI AGRICOLI E PRODOTTI DELLA PESCA
+### CAPITOLO II - PRODOTTI AGRICOLI E PRODOTTI DELLA PESCA
 
-##### ARTICOLO 15
+#### ARTICOLO 15
 
 Le disposizioni del presente capitolo si applicano i prodotti originari della Comunita' e del Marocco elencati nell'allegato II del trattato che istituisce la Comunita' europea.
 
-##### ARTICOLO 16
+#### ARTICOLO 16
 
 La Comunita' e il Marocco attuano progressivamente una maggiore liberalizzazione nei reciproci scambi di prodotti agricoli e di prodotti della pesca.
 
-##### ARTICOLO 17
+#### ARTICOLO 17
 
 1\. I prodotti agricoli e i prodotti della pesca originari del Marocco beneficiano all'importazione nella Comunita' delle disposizioni di cui rispettivamente ai protocolli n. 1 e 2.
 
 2\. I prodotti agricoli originari della Comunita' beneficiano all'importazione in Marocco delle disposizioni di cui al protocollo n. 3.
 
-##### ARTICOLO 18
+#### ARTICOLO 18
 
 1\. A decorrere dal 1 gennaio 2000, la Comunita' e il Marocco esaminano la situazione al fine di fissare le misure di liberalizzazione che la Comunita' e il Marocco dovranno applicare a decorrere dal 1 gennaio 2001 conformemente all'obiettivo di cui all'articolo 16.
 
 2\. Fatte salve le disposizioni del paragrafo 1 e tenendo conto dei flussi di scambio dei prodotti agricoli tra le Parti, nonche' della particolare importanza di determinati prodotti, la Comunita' e il Marocco esaminano, nell'ambito del Consiglio di associazione, prodotto per prodotto e su basi di reciprocita', la possibilita' di accordarsi adeguate concessioni.
 
-## CAPITOLO III - DISPOSIZIONI COMUNI
+### CAPITOLO III - DISPOSIZIONI COMUNI
 
-##### ARTICOLO 19
+#### ARTICOLO 19
 
 1\. Negli scambi tra la Comunita' e il Marocco non e' introdotta alcuna nuova restrizione quantitativa all'importazione, ne' alcuna misura d'effetto equivalente.
 
@@ -343,7 +343,7 @@ La Comunita' e il Marocco attuano progressivamente una maggiore liberalizzazione
 
 3\. La Comunita' e il Marocco non applicano alle reciproche esportazioni ne' dazi doganali e tasse d'effetto equivalente, ne' restrizioni quantitative e misure d'effetto equivalente.
 
-##### ARTICOLO 20
+#### ARTICOLO 20
 
 1\. Qualora sia emanata una normativa specifica come conseguenza dell'attuazione delle loro politiche agricole o siano modificate le normative esistenti o in caso di modifica o di sviluppo delle disposizioni relative all'attuazione delle loro politiche agricole, la Comunita' e il Marocco possono modificare, per i prodotti che ne costituiscono oggetto, il regime stabilito dal presente accordo.
 
@@ -353,29 +353,29 @@ La Parte che procede a tale modifica ne informa il Comitato di associazione. Su 
 
 3\. La modifica del regime istituito dal presente accordo costituira' oggetto, su richiesta dell'altra Parte contraente, di consultazioni in seno al Consiglio di associazione.
 
-##### ARTICOLO 21
+#### ARTICOLO 21
 
 I prodotti originari del Marocco non beneficiano all'importazione nella Comunita' di un trattamento piu' favorevole di quello che gli stati membri si applicano reciprocamente.
 
 Le disposizioni del presente accordo si applicano senza pregiudizio di quelle di cui al regolamento (CEE) n. 1191/91 del Consiglio del 26 giugno 1991, relativo all'applicazione delle disposizioni del diritto comunitario alle isole Canarie.
 
-##### ARTICOLO 22
+#### ARTICOLO 22
 
 1\. Le due Parti si astengono dall'introdurre qualsiasi misura o prassi di natura fiscale interna che istituisca, direttamente o indirettamente, discriminazioni tra i prodotti di una Parte e i prodotti analoghi originari dell'altra Parte.
 
 2\. I prodotti esportati verso il territorio di una delle due Parti non possono beneficiare di un rimborso delle imposte interne indirette superiore all'ammontare delle imposte indirette cui sono stati direttamente o indirettamente assoggettati.
 
-##### ARTICOLO 23
+#### ARTICOLO 23
 
 1\. Il presente accordo non osta al mantenimento o all'istituzione di unioni doganali, di zone di libero scambio o di accordi sugli scambi transfrontalieri se non nella misura in cui essi alterano le condizioni commerciali previste dal presente accordo.
 
 2\. Nell'ambito del Comitato di associazione si tengono consultazioni tra le Parti in merito agli accordi istitutivi di unioni doganali o zone di libero scambio e, se del caso, in merito ad altre importanti questioni relative alle loro rispettive politiche commerciali con i paesi terzi. In particolare nel caso in cui un paese terzo entri a far parte della Comunita', si tengono consultazioni di questo tipo per garantire che si tenga conto dei reciproci interessi della Comunita' e del Marocco sanciti dal presente accordo.
 
-##### ARTICOLO 24
+#### ARTICOLO 24
 
 Qualora una delle Parti constati che negli scambi con l'altra Parte si verificano pratiche di dumping, ai sensi dell'articolo VI dell'Accordo generale sulle tariffe doganali e il commercio, essa puo' adottare le misure adeguate contro tali pratiche in conformita' dell'Accordo relativo all'applicazione dell'articolo VI dell'Accordo generale sulle tariffe doganali e il commercio e della propria pertinente legislazione interna, alle condizioni e secondo le procedure di cui all'articolo 27 del presente accordo.
 
-##### ARTICOLO 25
+#### ARTICOLO 25
 
 Qualora un prodotto sia importato in quantita' maggiorate e in condizioni tali da provocare o minacciare di provocare:
 
@@ -387,7 +387,7 @@ direttamente concorrenziali nel territorio di una delle Parti, o
 
 la Comunita' o il Marocco possono adottare le opportune misure alle condizioni e secondo le procedure specificate nell'articolo 27.
 
-##### ARTICOLO 26
+#### ARTICOLO 26
 
 Qualora l'osservanza delle disposizioni dell'articolo 19, paragrafo 3 comporti:
 
@@ -399,7 +399,7 @@ ii) una penuria grave, o la minaccia di penuria grave, di un prodotto essenziale
 
 e qualora le circostanze di cui sopra diano luogo, o possano dar luogo, a gravi difficolta' per la Parte esportatrice, quest'ultima puo' adottare le opportune misure, alle condizioni e secondo le procedure specificate nell'articolo 27. Dette misure hanno carattere non discriminatorio e sono eliminate quando la situazione non ne giustifica piu' il mantenimento.
 
-##### ARTICOLO 27
+#### ARTICOLO 27
 
 1\. Nel caso in cui la Comunita' o il Marocco assoggettino le importazioni di prodotti suscettibili di creare le difficolta' di cui all'articolo 25 a una procedura amministrativa finalizzata a fornire tempestive informazioni sull'andamento dei flussi commerciali, essa ne informa l'altra Parte.
 
@@ -423,21 +423,21 @@ Il Consiglio di associazione puo' adottare qualsiasi decisione utile per porre f
 
 d) qualora circostanze eccezionali che richiedono un intervento immediato rendano impossibile un informazione o, a seconda dei casi, un esame preventivo, la Comunita' o il Marocco puo' applicare immediatamente, nelle situazioni specificate negli articoli 24, 25 e 26, le misure di salvaguardia strettamente necessarie per far fronte alla situazione. Essa ne informa immediatamente l'altra Parte.
 
-##### ARTICOLO 28
+#### ARTICOLO 28
 
 Il presente accordo lascia impregiudicati i divieti o le restrizioni all'importazione, all'esportazione o al transito giustificati da motivi di moralita' pubblica, di ordine pubblico, di pubblica sicurezza, di tutela della salute e della vita delle persone e degli animali o di preservazione dei vegetali, di protezione del patrimonio artistico, storico o archeologico nazionale o di tutela della proprieta' intellettuale, industriale e commerciale o dalle norme relative all'oro e' all'argento. Tuttavia, tali divieti o restrizioni non devono costituire un mezzo di discriminazione arbitraria, ne' una restrizione dissimulata al commercio tra le Parti.
 
-##### ARTICOLO 29
+#### ARTICOLO 29
 
 La nozione di "prodotti originari", ai fini dell'applicazione delle disposizioni del presente titolo e i relativi metodi di cooperazione amministrativa, e' definita nel protocollo n. 4.
 
-##### ARTICOLO 30
+#### ARTICOLO 30
 
 Per classificare le merci negli scambi tra le Parti si utilizza la nomenclatura combinata delle merci.
 
 ## TITOLO III - DIRITTO DI STABILIMENTO E SERVIZI
 
-##### ARTICOLO 31
+#### ARTICOLO 31
 
 1\. Le Parti convengono di estendere il campo di applicazione del presente accordo per comprendere il diritto di stabilimento delle societa' di una Parte sul territorio dell'altra e la liberalizzazione della prestazione di servizi ad opera delle societa' di una Parte a favore di destinatari dei servizi situati nell'altra Parte.
 
@@ -449,7 +449,7 @@ Nel formulare dette raccomandazioni, il Consiglio di associazione tiene conto de
 
 4\. Fatto salvo il paragrafo 3, il Consiglio di associazione esamina, a decorrere dall'entrata in vigore del presente accordo, il settore dei trasporti marittimi internazionali al fine di raccomandare le misure di liberalizzazione piu' opportune. Il Consiglio di associazione tiene conto dei risultati dei negoziati svolti nell'ambito dei GATS in questo settore dopo la fine dell'Uruguay Round.
 
-##### ARTICOLO 32
+#### ARTICOLO 32
 
 1\. In una prima fase, le Parti ribadiscono i loro rispettivi obblighi ai sensi dei GATS, in particolare il reciproco riconoscimento del trattamento della nazione piu' favorita per i settori dei servizi contemplati da tale obbligo.
 
@@ -461,27 +461,25 @@ b) agli altri vantaggi accordati conformemente all'elenco delle esenzioni alla c
 
 ## TITOLO IV - PAGAMENTI, CAPITALI, CONCORRENZA E ALTRE DISPOSIZIONI ECONOMICHE
 
-### CAPITOLO I
+### CAPITOLO I - PAGAMENTI CORRENTI E MOVIMENTO DI CAPITALI
 
-#### PAGAMENTI CORRENTI E MOVIMENTO DI CAPITALI
-
-##### ARTICOLO 33
+#### ARTICOLO 33
 
 Fatte salve le disposizioni dell'articolo 35, le Parti si impegnano ad autorizzare, in una moneta liberamente convertibile, tutti i pagamenti correnti relativi a operazioni correnti.
 
-##### ARTICOLO 34
+#### ARTICOLO 34
 
 1\. Per quanto riguarda le operazioni in conto capitale, a decorrere dall'entrata in vigore del presente accordo la Comunita' e il Marocco garantiscono la libera circolazione dei capitali relativi ad investimenti diretti in Marocco effettuati da societa' costituite secondo la normativa in vigore, nonche' la liquidazione e il rimpatrio dei profitti di detti investimenti e di qualsiasi beneficio che ne derivi.
 
 2\. Le Parti si consultano reciprocamente per facilitare il movimento dei capitali tra la Comunita' e il Marocco e per liberalizzarlo integralmente quando ricorreranno le necessarie condizioni.
 
-##### ARTICOLO 35
+#### ARTICOLO 35
 
 Qualora uno o piu' Stati membri della Comunita' o il Marocco abbiano, o corrano un imminente rischio di avere, gravi difficolta' di bilancia dei pagamenti, la Comunita' o il Marocco, a seconda dei casi, possono adottare, alle condizioni di cui al GATT e agli articoli VIII e XIV degli Statuti del Fondo monetario Internazionale, misure restrittive di durata limitata alle operazioni correnti, la cui portata non deve eccedere quella strettamente necessaria per ovviare alla situazione della bilancia dei pagamenti. La Comunita' o il Marocco, secondo il caso, ne informa immediatamente l'altra Parte e le presenta il piu' rapidamente possibile un calendario per l'abolizione di tali misure.
 
-## CAPITOLO II - CONCORRENZA E ALTRE DISPOSIZIONI ECONOMICHE
+### CAPITOLO II - CONCORRENZA E ALTRE DISPOSIZIONI ECONOMICHE
 
-##### ARTICOLO 36
+#### ARTICOLO 36
 
 1\. Sono incompatibili con il corretto funzionamento del presente accordo, nella misura in cui possono incidere sugli scambi tra la Comunita' e il Marocco:
 
@@ -531,29 +529,29 @@ Nel caso di pratiche incompatibili ai sensi del paragrafo 1, lettera c) del pres
 
 7\. Fatte salve eventuali disposizioni contrarie adottate in conformita' del paragrafo 3, le Parti si scambiano informazioni tenendo conto delle limitazioni imposte dal rispetto del segreto professionale e dal segreto aziendale.
 
-##### ARTICOLO 37
+#### ARTICOLO 37
 
 Gli Stati membri e il Marocco adeguano progressivamente, senza pregiudizio degli impegni assunti in sede di GATT, gli eventuali monopoli di Stato di natura commerciale per garantire che, alla scadenza del quinto anno successivo all'entrata in vigore del presente accordo, non esistano piu' discriminazioni tra cittadini degli Stati membri e del Marocco rispetto alle condizioni di approvvigionamento e di commercializzazione delle merci. Il Comitato di associazione e' informato delle misure adottate a tal fine.
 
-##### ARTICOLO 38
+#### ARTICOLO 38
 
 Per quanto riguarda le imprese pubbliche o le imprese cui sono stati concessi diritti speciali o esclusivi, il Consiglio di associazione provvede affinche', a decorrere dal quinto anno successivo alla data di entrata in vigore del presente accordo, non venga adottata ne' mantenuta alcuna misura che possa ripercuotersi sugli scambi tra la Comunita' e il Marocco in senso contrario agli interessi delle Parti.
 
 La presente disposizione non osta all'esecuzione, di diritto o di fatto, di compiti particolari assegnati a tali imprese.
 
-##### ARTICOLO 39
+#### ARTICOLO 39
 
 1\. Le Parti assicurano un'adeguata ed efficace tutela dei diritti di proprieta' intellettuale, industriale e commerciale, conformemente ai massimi standard internazionali, ivi compresi strumenti efficaci per far valere tali diritti.
 
 2\. L'attuazione del presente articolo e dell'allegato 7 e' periodicamente esaminata dalle Parti. In caso di difficolta' nel settore della proprieta' intellettuale, industriale e commerciale che si ripercuotano sugli scambi commerciali si tengono, su richiesta dell'una o dell'altra Parte, consultazioni urgenti per giungere a soluzioni reciprocamente soddisfacenti.
 
-##### ARTICOLO 40
+#### ARTICOLO 40
 
 1\. Le Parti adottano le disposizioni atte a promuovere l'utilizzo, da parte del Marocco, delle normative tecniche della Comunita' e delle norme europee relative alla qualita' dei prodotti industriali e agroalimentari, nonche' le procedure di certificazione.
 
 2\. Sulla base dei principi di cui al paragrafo 1, le Parti concludono accordi di reciproco riconoscimento delle certificazioni, quando ricorrono le necessarie condizioni.
 
-##### ARTICOLO 41
+#### ARTICOLO 41
 
 1\. Le Parti si prefiggono l'obiettivo della reciproca e progressiva liberalizzazione degli appalti pubblici.
 
@@ -561,7 +559,7 @@ La presente disposizione non osta all'esecuzione, di diritto o di fatto, di comp
 
 ## TITOLO V - COOPERAZIONE ECONOMICA
 
-##### ARTICOLO 42
+#### ARTICOLO 42
 
 Obiettivi
 
@@ -569,7 +567,7 @@ Obiettivi
 
 2\. Obiettivo della cooperazione economica e' sostenere l'azione del Marocco per favorirne un duraturo sviluppo economico e sociale.
 
-##### ARTICOLO 43
+#### ARTICOLO 43
 
 Ambito di applicazione
 
@@ -583,7 +581,7 @@ Ambito di applicazione
 
 5\. Se del caso, le Parti determinano, di comune accordo altri settori di cooperazione economica.
 
-##### ARTICOLO 44
+#### ARTICOLO 44
 
 Strumenti e modalita'
 
@@ -599,7 +597,7 @@ d) l'esecuzione di iniziative congiunte;
 
 e) l'assistenza tecnica, amministrativa e regolamentare.
 
-##### ARTICOLO 45
+#### ARTICOLO 45
 
 Cooperazione regionale
 
@@ -619,7 +617,7 @@ f) le questioni doganali;
 
 g) le istituzioni regionali e l'attuazione di programmi e politiche comuni o armonizzati.
 
-##### ARTICOLO 46
+#### ARTICOLO 46
 
 Istruzione e formazione
 
@@ -631,7 +629,7 @@ b) piu' in particolare, promuovere l'accesso della popolazione femminile all'ist
 
 c) favorire l'instaurazione di vincoli duraturi tra organismi specializzati delle Parti al fine di mettere in comune e scambiare esperienze e risorse.
 
-##### ARTICOLO 47
+#### ARTICOLO 47
 
 Cooperazione scientifica, tecnica e tecnologica
 
@@ -651,7 +649,7 @@ c) stimolare l'innovazione tecnologica, il trasferimento di nuove tecnologie e d
 
 d) promuovere tutte le iniziative finalizzate a creare sinergie d'impatto regionale.
 
-##### ARTICOLO 48
+#### ARTICOLO 48
 
 Ambiente
 
@@ -665,7 +663,7 @@ b) conseguenze dello sviluppo, in particolare dello sviluppo industriale (sicure
 
 c) controllo e prevenzione dell'inquinamento marino.
 
-##### ARTICOLO 49
+#### ARTICOLO 49
 
 Cooperazione industriale
 
@@ -681,7 +679,7 @@ d) valorizzare le risorse umane e il potenziale industriale del Marocco attraver
 
 e) facilitare l'accesso al credito per il finanziamento degli investimenti.
 
-##### ARTICOLO 50
+#### ARTICOLO 50
 
 Promozione e tutela degli investimenti
 
@@ -691,7 +689,7 @@ a) l'istituzione di procedure armonizzate e semplificate, di meccanismi di inves
 
 b) la definizione di un quadro giuridico che favorisca gli investimenti, se del caso, attraverso la conclusione, tra il Marocco e gli Stati membri, di accordi di tutela degli investimenti e di accordi contro la doppia imposizione.
 
-##### ARTICOLO 51
+#### ARTICOLO 51
 
 Cooperazione in materia di normalizzazione e di valutazione della conformita'
 
@@ -703,13 +701,13 @@ b) l'adeguamento dei laboratori marocchini che consenta di concludere, in futuro
 
 c) le strutture marocchine responsabili della proprieta' intellettuale, industriale e commerciale, della normalizzazione e della qualita'.
 
-##### ARTICOLO 52
+#### ARTICOLO 52
 
 Ravvicinamento delle legislazioni
 
 Obiettivo della cooperazione e' aiutare il Marocco a ravvicinare la sua legislazione a quella della Comunita' nei settori contemplati dal presente accordo.
 
-##### ARTICOLO 53
+#### ARTICOLO 53
 
 Servizi finanziari
 
@@ -719,7 +717,7 @@ a) consolidare e ristrutturare i settori finanziari del Marocco;
 
 b) migliorare i sistemi contabili, di revisione dei conti, di vigilanza, di regolamentazione dei servizi finanziari e di controllo finanziario del Marocco.
 
-##### ARTICOLO 54
+#### ARTICOLO 54
 
 Agricoltura e pesca
 
@@ -731,7 +729,7 @@ b) la diversificazione delle produzioni e degli sbocchi all'estero.
 
 c) la cooperazione in campo sanitario e fitosanitario e nel settore delle tecniche di coltura.
 
-##### ARTICOLO 55
+#### ARTICOLO 55
 
 Trasporti
 
@@ -745,7 +743,7 @@ c) il rinnovamento delle attrezzature tecniche in linea con tali standard comuni
 
 d) il progressivo miglioramento delle condizioni di transito stradale, marittimo e multimodale e della gestione dei porti e degli aeroporti, del traffico marittimo, aereo e delle ferrovie.
 
-##### ARTICOLO 56
+#### ARTICOLO 56
 
 Telecomunicazioni e tecnologie dell'informazione
 
@@ -759,7 +757,7 @@ c) la diffusione delle nuove tecnologie dell'informazione, in particolare nel ca
 
 d) lo stimolo della ricerca e della definizione di nuovi mezzi di comunicazione e di tecnologie dell'informazione al fine di sviluppare il mercato delle attrezzature, dei servizi e delle applicazioni connesse alle tecnologie dell'informazione e alle comunicazioni, ai servizi e alle installazioni.
 
-##### ARTICOLO 57
+#### ARTICOLO 57
 
 Energia
 
@@ -773,7 +771,7 @@ c) la ricerca applicata relativa alle reti di banche-dati tra operatori economic
 
 d) il sostegno ai programmi di ammodernamento e di sviluppo delle reti energetiche e delle loro interconnessioni con le reti della Comunita'.
 
-##### ARTICOLO 58
+#### ARTICOLO 58
 
 Turismo
 
@@ -785,7 +783,7 @@ b) lo sviluppo del marketing;
 
 c) il potenziamento del turismo giovanile.
 
-##### ARTICOLO 59
+#### ARTICOLO 59
 
 Cooperazione nel settore doganale
 
@@ -797,13 +795,13 @@ b) l'introduzione del documento amministrativo unico e di una connessione tra i 
 
 2\. Fatte salve le ulteriori forme di cooperazione previste nel presente accordo, in particolare agli articoli 61 e 62, le autorita' amministrative delle Parti contraenti si prestano reciproca esistenza secondo le disposizioni del protocollo n. 5.
 
-##### ARTICOLO 60
+#### ARTICOLO 60
 
 Cooperazione nel settore statistico
 
 La cooperazione e' finalizzata al ravvicinamento delle metodologie utilizzate dalle Parti e all'impiego dei dati statistici relativi e tutti i settori contemplati dal presente accordo che si prestino all'elaborazione di statistiche.
 
-##### ARTICOLO 61
+#### ARTICOLO 61
 
 Riciclaggio del denaro.
 
@@ -811,7 +809,7 @@ Riciclaggio del denaro.
 
 2\. La cooperazione nel settore comprende un'assistenza amministrativa e tecnica finalizzata all'adozione di norme adeguate per combattere il riciclaggio del denaro, equivalenti a quelle adottate in materia dalla Comunita' e dai consessi internazionali, ivi compresa la Task Force internazionale "Azione finanziaria" (FATF).
 
-##### ARTICOLO 62
+#### ARTICOLO 62
 
 Lotta contro gli stupefacenti
 
@@ -835,17 +833,15 @@ c) definizione di norme relative alla prevenzione dell'utilizzazione abusiva di 
 
 d) preparazione e attuazione di programmi di sviluppo alternativo delle aree di produzione illecita di piante contenenti principi ad azione stupefacente.
 
-##### ARTICOLO 63
+#### ARTICOLO 63
 
 Le due Parti determinano congiuntamente le modalita' necessarie per l'attuazione della cooperazione nei settori di cui al presente Titolo.
 
 ## TITOLO VI - COOPERAZIONE SOCIALE E CULTURALE
 
-### CAPITOLO I
+### CAPITOLO I - DISPOSIZIONI RELATIVE Al LAVORATORI
 
-#### DISPOSIZIONI RELATIVE Al LAVORATORI
-
-##### ARTICOLO 64
+#### ARTICOLO 64
 
 1\. Ogni Stato membro concede ai lavoratori di cittadinanza marocchina occupati nel suo territorio un regime che, per quanto riguarda le condizioni di lavoro, di retribuzione e di licenziamento, e' caratterizzato dall'assenza di qualsiasi discriminazione basata sulla nazionalita' rispetto ai propri cittadini.
 
@@ -853,7 +849,7 @@ Le due Parti determinano congiuntamente le modalita' necessarie per l'attuazione
 
 3\. Il Marocco concede lo stesso regime ai lavoratori cittadini degli Stati membri occupati nel suo territorio.
 
-##### ARTICOLO 65
+#### ARTICOLO 65
 
 1\. Fatte salve le disposizioni dei paragrafi seguenti, i lavoratori di cittadinanza marocchina ed i loro familiari conviventi godono in materia di previdenza sociale, di un regime caratterizzato dall'assenza di qualsiasi discriminazione basata sulla cittadinanza rispetto ai cittadini degli Stati membri nei quali essi sono occupati.
 
@@ -869,23 +865,23 @@ La presente disposizione, tuttavia, non puo' avere l'effetto di rendere applicab
 
 5\. Il Marocco concede ai lavoratori cittadini degli Stati membri occupati sul suo territorio e ai loro familiari un regime analogo a quello di cui ai paragrafi 1, 3 e 4.
 
-##### ARTICOLO 66
+#### ARTICOLO 66
 
 Le disposizioni del presente capitolo non si applicano ai cittadini di una delle Parti che risiedono o lavorano illegalmente nel territorio del paese ospite.
 
-##### ARTICOLO 67
+#### ARTICOLO 67
 
 1\. Entro il termine del primo anno successivo all'entrata in vigore del presente accordo il Consiglio di associazione adotta le disposizioni per l'applicazione dei principi enunciati nell'articolo 65.
 
 2\. Il Consiglio di associazione precisale modalita' di una cooperazione amministrativa che offra le garanzie di gestione e di controllo necessarie all'applicazione delle disposizioni di cui al paragrafo l.
 
-##### ARTICOLO 68
+#### ARTICOLO 68
 
 Le disposizioni emanate dal Consiglio di associazione a norma dell'articolo 67 non pregiudicano i diritti e gli obblighi derivanti dagli accordi bilaterali che vincolano il Marocco e gli Stati membri, qualora essi prevedano un regime piu' favorevole per i cittadini marocchini o per i cittadini degli Stati membri.
 
-## CAPITOLO II - DIALOGO IN CAMPO SOCIALE
+### CAPITOLO II - DIALOGO IN CAMPO SOCIALE
 
-##### ARTICOLO 69
+#### ARTICOLO 69
 
 1\. Tra le Parti si instaura un dialogo periodico su tutti gli aspetti del settore sociale cui esse siano interessate.
 
@@ -901,13 +897,13 @@ c) all'immigrazione clandestina e alle condizioni di rimpatrio delle persone la 
 
 d) alle azioni e ai programmi per la promozione della parita' di trattamento tra cittadini del Marocco e della Comunita', della reciproca conoscenza delle culture e delle civilta', dello sviluppo della tolleranza e dell'abolizione delle discriminazioni.
 
-##### ARTICOLO 70
+#### ARTICOLO 70
 
 Il dialogo nel settore sociale avviene agli stessi livelli e secondo le stesse modalita' di quelli previsti al Titolo I, che puo' anche essere utilizzato come quadro di riferimento.
 
-## CAPITOLO III - AZIONI DI COOPERAZIONE IN CAMPO-SOCIALE
+### CAPITOLO III - AZIONI DI COOPERAZIONE IN CAMPO-SOCIALE
 
-##### ARTICOLO 71
+#### ARTICOLO 71
 
 1\. Per consolidare la cooperazione tra le Parti in campo sociale, si istituiscono azioni e programmi relativi a qualsiasi argomento di interesse per esse.
 
@@ -927,17 +923,17 @@ f) il miglioramento del sistema di copertura sanitaria;
 
 g) l'attuazione e il finanziamento di programmi di scambio e di svago a favore di gruppi misti di giovani d'origine europea e marocchina residenti negli Stati membri per promuovere la reciproca conoscenza delle culture e favorire la tolleranza.
 
-##### ARTICOLO 72
+#### ARTICOLO 72
 
 Le azioni di cooperazione possono essere realizzate in coordinamento con gli Stati membri e con gli organismi internazionali competenti.
 
-##### ARTICOLO 73
+#### ARTICOLO 73
 
 Entro il termine del primo anno successivo alla data di entrata in vigore del presente accordo il Consiglio di associazione crea un gruppo di lavoro incaricato di valutare in modo permanente e a scadenze regolari l'attuazione delle disposizioni dei capitoli 1-3.
 
-## CAPITOLO IV - COOPERAZIONE IN CAMPO CULTURALE
+### CAPITOLO IV - COOPERAZIONE IN CAMPO CULTURALE
 
-##### ARTICOLO 74
+#### ARTICOLO 74
 
 1\. Al fine di migliorare la reciproca conoscenza e comprensione, e tenendo conto delle azioni gia' svolte, le Parti si impegnano nel rispetto reciproco delle culture a definire meglio le condizioni di un dialogo culturale duraturo e a promuovere tra loro una cooperazione culturale continuativa, dalla quale non sia escluso a priori alcun settore di attivita'.
 
@@ -947,7 +943,7 @@ Entro il termine del primo anno successivo alla data di entrata in vigore del pr
 
 ## TITOLO VII - COOPERAZIONE FINANZIARIA
 
-##### ARTICOLO 75
+#### ARTICOLO 75
 
 Al fine di contribuire alla piena attuazione degli obiettivi del presente accordo, si istituisce una cooperazione finanziaria a favore del Marocco secondo le modalita' e con gli strumenti finanziari adeguati.
 
@@ -965,23 +961,23 @@ Gli ambiti di applicazione di tale cooperazione, oltre agli aspetti contemplati 
 
 \- misure di accompagnamento delle politiche istituite nei settori sociali.
 
-##### ARTICOLO 76
+#### ARTICOLO 76
 
 Nel quadro degli strumenti comunitari destinati a sostenere il programma di adeguamento strutturale nei paesi mediterranei, e in stretto coordinamento con le autorita' marocchine e gli altri donatori, in particolare le istituzioni finanziarie internazionali, la Comunita' studiera' gli strumenti piu' adeguati per sostenere le politiche strutturali del Marocco finalizzate a ristabilire i grandi equilibri finanziari e a creare un ambiente economico propizio all'accelerazione della crescita, assicurandosi nel contempo di migliorare il benessere sociale della popolazione.
 
-##### ARTICOLO 77
+#### ARTICOLO 77
 
 Per garantire un'impostazione coordinata nei confronti dei problemi macroeconomici e finanziari a carattere eccezionale che potrebbero derivare dalla progressiva attuazione delle disposizioni del presente accordo, le Parti seguono con particolare attenzione l'evoluzione dei reciproci scambi commerciali e delle relazioni finanziarie tra la Comunita' e il Marocco nel quadro del dialogo economico continuativo istituito ai sensi del Titolo V.
 
 ## TITOLO VIII - DISPOSIZIONI ISTITUZIONALI, GENERALI E FINALI
 
-##### ARTICOLO 78
+#### ARTICOLO 78
 
 E' istituito un Consiglio di associazione che si riunisce e livello ministeriale una volta all'anno e ogniqualvolta le circostanze lo richiedono, su iniziativa del suo presidente e alle condizioni previste nel suo regolamento interno.
 
 Esso esamina le questioni importanti inerenti al presente accordo e qualunque altro problema bilaterale o internazionale di reciproco interesse.
 
-##### ARTICOLO 79
+#### ARTICOLO 79
 
 1\. Il Consiglio di associazione e' composto da membri del Consiglio dell'Unione europea e da membri della Commissione delle Comunita' europee, da una parte, e da membri del governo del Regno del Marocco, dall'altra.
 
@@ -991,7 +987,7 @@ Esso esamina le questioni importanti inerenti al presente accordo e qualunque al
 
 4\. Il Consiglio di associazione e' presieduto a turno da un membro del Consiglio dell'Unione europea e da un membro del governo del Regno del Marocco, secondo le disposizioni da stabilirsi nel suo regolamento interno.
 
-##### ARTICOLO 80
+#### ARTICOLO 80
 
 Ai fini della realizzazione degli obiettivi stabiliti del presente accordo, il Consiglio di associazione ha il potere di prendere decisioni.
 
@@ -999,13 +995,13 @@ Le decisioni adottate sono vincolanti per le Parti, che prendono le misure neces
 
 Le decisioni e raccomandazioni sono adottate di comune accordo tra le due Parti.
 
-##### ARTICOLO 81
+#### ARTICOLO 81
 
 1\. E' istituito un Comitato di associazione, incaricato della gestione dell'accordo fatte salve le competenze attribuite al Consiglio.
 
 2\. Il Consiglio di associazione puo' delegare al Comitato la totalita' o una parte delle proprie competenze.
 
-##### ARTICOLO 82
+#### ARTICOLO 82
 
 1\. Il Comitato di associazione che si riunisce a livello di funzionari e' composto da rappresentanti dei membri del Consiglio dell'Unione europea e della Commissione delle Comunita' europee, da una parte, e da rappresentanti del governo del Regno del Marocco, dall'altra.
 
@@ -1015,21 +1011,21 @@ Le decisioni e raccomandazioni sono adottate di comune accordo tra le due Parti.
 
 In linea di massima, il Comitato di associazione si riunisce a turni alterni nella Comunita' e in Marocco.
 
-##### ARTICOLO 83
+#### ARTICOLO 83
 
 Il Comitato di associazione e' abilitato ad adottare decisioni per la gestione dell'accordo, nonche' nei settori per i quali il Consiglio gli ha delegato le proprie competenze.
 
 Le decisioni sono adottate di comune accordo tra le Parti e sono vincolanti per le Parti, che sono tenute ad adottare le misure necessarie per la loro esecuzione.
 
-##### ARTICOLO 84
+#### ARTICOLO 84
 
 Il Consiglio di associazione puo' decidere di costituire qualsiasi gruppo di lavoro o organismo necessario per l'attuazione dell'accordo.
 
-##### ARTICOLO 85
+#### ARTICOLO 85
 
 Il Consiglio di associazione adotta tutte le misure utili per agevolare la cooperazione e i contatti tra il Parlamento europeo e le istituzioni parlamentari del Regno del Marocco, nonche' tra il Comitato economico e sociale della Comunita' e l'istituzione analoga del Regno del Marocco.
 
-##### ARTICOLO 86
+#### ARTICOLO 86
 
 1\. Ciascuna delle Parti puo' sottoporre al Consiglio di associazione qualsiasi controversia relativa all'applicazione o all'interpretazione del presente accordo.
 
@@ -1045,7 +1041,7 @@ Le decisioni arbitrali sono pronunciate a maggioranza.
 
 Ciascuna delle Parti in causa deve adottare le misure richieste per l'applicazione del lodo arbitrale.
 
-##### ARTICOLO 87
+#### ARTICOLO 87
 
 Nessuna disposizione del presente accordo impedisce a una Parte contraente di adottare qualsiasi misura:
 
@@ -1055,7 +1051,7 @@ b) inerente alla produzione o al commercio di armi, munizioni o materiale bellic
 
 c) ritenute essenziali per la propria sicurezza in caso di gravi disordini interni che compromettano il mantenimento dell'ordine pubblico, in tempo di guerra o in occasione di gravi tensioni internazionali che possano sfociare in una guerra o ai fini del rispetto di impegni assunti per il mantenimento della pace e della sicurezza internazionale.
 
-##### ARTICOLO 88
+#### ARTICOLO 88
 
 Nei settori contemplati dal presente accordo e fatta salva qualsiasi disposizione speciale ivi contenuta:
 
@@ -1063,7 +1059,7 @@ Nei settori contemplati dal presente accordo e fatta salva qualsiasi disposizion
 
 \- il regime applicato dalla Comunita' nei confronti del Regno del Marocco non puo' dar luogo ad alcuna discriminazione tra i cittadini marocchini o le loro societa'.
 
-##### ARTICOLO 89
+#### ARTICOLO 89
 
 Nessuna disposizione del presente accordo avra' come effetto:
 
@@ -1073,7 +1069,7 @@ Nessuna disposizione del presente accordo avra' come effetto:
 
 \- di ostacolare il diritto di una Parte di applicare le disposizioni pertinenti della sua legislazione fiscale ai contribuenti che non si trovano in una situazione identica per quanto riguarda la loro residenza.
 
-##### ARTICOLO 90
+#### ARTICOLO 90
 
 1\. Le Parti adottano qualsiasi misura generale o particolare necessaria per l'adempimento degli obblighi che incombono loro ai sensi del presente accordo. Esse si adoperano per la realizzazione degli obiettivi fissati dal presente accordo.
 
@@ -1081,29 +1077,29 @@ Nessuna disposizione del presente accordo avra' come effetto:
 
 Nella scelta delle misure, si privilegiano quelle meno lesive per il funzionamento del presente accordo. Le misure decise sono comunicate senza indugio al Consiglio di associazione e, qualora l'altra Parte ne faccia richiesta, sono oggetto di consultazioni in seno al Consiglio di associazione.
 
-##### ARTICOLO 91
+#### ARTICOLO 91
 
 I protocolli 1-5 e gli allegati 1-7 costituiscono parte integrante dell'accordo. Le dichiarazioni e gli scambi di lettere figurano nell'atto finale che costituisce parte integrante dell'accordo.
 
-##### ARTICOLO 92
+#### ARTICOLO 92
 
 Ai fini del presente accordo, per "Parti" si intende la Comunita', gli Stati membri, o la Comunita' e i suoi Stati membri, secondo le loro rispettive competenze, da una parte, e il Marocco, dall'altra.
 
-##### ARTICOLO 93
+#### ARTICOLO 93
 
 Il presente accordo e' concluso per un periodo illimitato.
 
 Ciascuna delle Parti puo' denunciare il presente accordo dandone notifica all'altra Parte. Il presente accordo cessa di applicarsi sei mesi dopo la data di tale notifica.
 
-##### ARTICOLO 94
+#### ARTICOLO 94
 
 Il presente accordo si applica ai territori in cui si applicano i trattati che istituiscono la Comunita' europea e la Comunita' europea del carbone e dell'acciaio, alle condizioni in essi indicate, da una parte, e al territorio del Regno del Marocco, dall'altra.
 
-##### ARTICOLO 95
+#### ARTICOLO 95
 
 Il presente accordo e' redatto in due esemplari in lingua danese, finnica francese, greca, inglese, italiana, olandese, portoghese, spagnola, svedese tedesca e araba, ciascun testo facente ugualmente fede.
 
-##### ARTICOLO 96
+#### ARTICOLO 96
 
 1\. Il presente accordo e' approvato dalle Parti contraenti secondo le loro rispettive procedure.
 
@@ -1119,7 +1115,7 @@ italiana europee
 
 Parte di provvedimento in formato grafico
 
-##### Allegato 1
+#### Allegato 1
 
 ELENCO DEGLI ALLEGATI
 
@@ -1796,7 +1792,7 @@ Prodotti di cui all'articolo 10, paragrafo 1
 
 Parte di provvedimento in formato grafico
 
-##### Allegato 2
+#### Allegato 2
 
 ALLEGATO 2
 
@@ -1950,7 +1946,7 @@ CODICE NC|                 DESIGNAZIONE DELLE MERCI
 
 Parte di provvedimento in formato grafico
 
-##### Allegato 3
+#### Allegato 3
 
 ALLEGATO 3
 
@@ -2082,25 +2078,25 @@ Marocco
 
 Parte di provvedimento in formato grafico
 
-##### Allegato 4
+#### Allegato 4
 
 Allegato 4
 
 Parte di provvedimento in formato grafico
 
-##### Allegato 5
+#### Allegato 5
 
 Allegato 5
 
 Parte di provvedimento in formato grafico
 
-##### Allegato 6
+#### Allegato 6
 
 Allegato 6
 
 Parte di provvedimento in formato grafico
 
-##### Allegato 7
+#### Allegato 7
 
 ALLEGATO 7
 
@@ -2148,7 +2144,7 @@ RELATIVO AL REGIME APPLICABILE ALL'IMPORTAZIONE
 
 NELLA COMUNITA' DI PRODOTTI AGRICOLI DEL MAROCCO
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 1\. I prodotti figuranti nell'allegato originari del Marocco sono ammessi all'importazione nella Comunita' alle condizioni indicate in appresso e in allegato.
 
@@ -2168,7 +2164,7 @@ Se le importazioni di un prodotto superano il quantitativo di riferimento, la Co
 
 6\. Per alcuni prodotti diversi da quelli di cui ai paragrafi 3 e 4 e indicati alla colonna, e), la Comunita' puo' fissare un quantitativo di riferimento ai sensi del paragrafo 4 se, in base al bilancio annuale degli scambi da essa stabilito, constata che i quantitativi importati rischiano di creare difficolta' sul mercato comunitario. Se successivamente il prodotto e' assoggettato a un contingente tariffario, nelle condizioni indicate al paragrafo 4, il dazio della tariffa doganale comune e', secondo i prodotti, applicato nella sua totalita' o ridotto nelle proporzioni indicate alla colonna c) per i quantitativi importati eccedenti il contingente.
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 1\. Per i prodotti originari del Marocco di cui agli articoli 3 e 4, i prezzi d'entrata a partire dai quali i dazi specifici sono ridotti a zero sono pari ai prezzi (in appresso denominanti "prezzi d'entrata convenzionali") previsti nel quadro dei quantitativi massimi, dei periodi e alle condizioni specificati nei suddetti articoli.
 
@@ -2184,7 +2180,7 @@ b) Se il prezzo d'entrata di una partita e' inferiore al 92% del prezzo d'entrat
 
 6\. Le due parti si consultano ogni anno, nel corso dei secondo trimestre, per esaminare gli scambi della campagna precedente, nonche' in qualsiasi momento, su richiesta di una delle parti, entro un termine non superiore ai tre giorni lavorativi, e adottano, se necessario, le opportune misure per garantire la piena realizzazione dell'obiettivo di cui al paragrafo 5 e agli articoli 3 e 4 del presente protocollo.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 1\. Per quanto riguarda i pomodori freschi di cui alla voce NC 0702.00:
 
@@ -2222,7 +2218,7 @@ a)per ciascuna campagna, dal lo ottobre al 20 aprile e per un quantitativo massi
 
 b) il Marocco notifica ogni mese ai servizi della Commissione i quantitativi esportati nel mese precedente.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Per i prodotti di seguito indicati, i prezzi d'entrata convenzionali a partire dai quali i dazi specifici sono ridotti a zero sono pari, entro i limiti dei quantitativi e dei periodi stabiliti, ai prezzi seguenti:
 
@@ -2246,7 +2242,7 @@ Per i prodotti di seguito indicati, i prezzi d'entrata convenzionali a partire d
 +--------------+--------------+-----------------+-----------------+
 ```
 
-##### Allegato
+#### Allegato
 
 ALLEGATO
 
@@ -2258,7 +2254,7 @@ RELATIVO AL REGIME APPLICABILE ALL'IMPORTAZIONE
 
 NELLA COMUNITA' DEI PRODOTTI DELLA PESCA ORIGINARI DEL MAROCCO
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 I prodotti elencati qui di seguito originari del Marocco sono ammessi all'importazione nella Comunita' in esenzione da dazi doganali.
 
@@ -2337,7 +2333,7 @@ ex 1604 20 50|unicolor
 ----------------------------------------------------------------------
 ```
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Le importazioni nella Comunita' di preparazioni e conserve di sardine delle voci NC 1604 13 11, 1604 13 19 ed ex 1604 20 50 originarie del Marocco beneficiano del regime fissato all'articolo 1 nel rispetto delle disposizioni qui di seguito indicate:
 
@@ -2363,11 +2359,11 @@ RELATIVO AL REGIME APPLICABILE ALL'IMPORTAZIONE
 
 IN MAROCCO DI PRODOTTI AGRICOLI ORIGINARI DELLA COMUNITA'
 
-##### ARTICOLO UNICO
+#### ARTICOLO UNICO
 
 Per i prodotti originari della Comunita' elencati nell'allegato, i dazi doganali all'importazione in Marocco non sono superiori a quelli indicati alla colonna a) nei limiti dei contingenti tariffari indicati alla colonna b)j.
 
-##### Allegato
+#### Allegato
 
 ALLEGATO
 
@@ -2810,7 +2806,7 @@ PROTOCOLLO N. 4
 
 RELATIVO ALLA DEFINIZIONE DELLA NOZIONE DI "PRODOTTI ORIGINARI" E AI METODI DI COOPERAZIONE AMMINISTRATIVA
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 Definizioni
 
@@ -2840,7 +2836,7 @@ k) con il termine "spedizione" si intendono i prodotti spediti contemporaneament
 
 ## TITOLO II - DEFINIZIONE DELLA NOZIONE DI "PRODOTTI ORIGINARI"
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Criteri d'origine
 
@@ -2856,7 +2852,7 @@ a) i prodotti totalmente ottenuti in Marocco ai sensi dell'articolo 6 del presen
 
 b) i prodotti ottenuti in Marocco contenenti materiali non totalmente ottenuti sul suo territorio a condizione che detti materiali siano stati oggetto in Marocco di lavorazioni o trasformazioni sufficienti ai sensi dell'articolo 7 del presente protocollo.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 Cumulo bilaterale
 
@@ -2864,7 +2860,7 @@ Cumulo bilaterale
 
 2\. In deroga all'articolo 2, paragrafo 2, lettera b), i prodotti originari della Comunita' ai sensi del presente protocollo sono considerati prodotti originari del Marocco e non si richiede che tali prodotti siano stati oggetto, in Marocco, di lavorazioni o trasformazioni sufficienti, purche' siano stati oggetto di lavorazioni o trasformazioni che vanno al di la' di quelle previste dall'articolo 8 del presente protocollo.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Cumulo con materiali originari dell'Algeria o della Tunisia
 
@@ -2876,7 +2872,7 @@ Cumulo con materiali originari dell'Algeria o della Tunisia
 
 4\. Le disposizioni di cui ai paragrafi 1 e 2 relative ai materiali originari della Tunisia si applicano unicamente a condizione che gli scambi effettuati tra la Comunita' e la Tunisia e quelli tra il Marocco e la Tunisia siano disciplinati da norme d'origine identiche.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 Cumulo della lavorazione o delle trasformazioni
 
@@ -2886,7 +2882,7 @@ Cumulo della lavorazione o delle trasformazioni
 
 3\. Qualora, in applicazione delle disposizioni dei paragrafi 1 e 2, i prodotti originari siano ottenuti in due o piu' degli Stati di cui alle presenti disposizioni o nella Comunita', tali prodotti si considerano originari dello Stato o della Comunita' dove e' stata effettuata l'ultima lavorazione o trasformazione, a condizione che detta lavorazione o trasformazione vada al di la' di quelle di cui all'articolo 8.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 Prodotti totalmente ottenuti
 
@@ -2932,7 +2928,7 @@ k) le merci ottenute esclusivamente a partire dal prodotti indicati alle lettere
 
 Le navi operanti in alto mare, comprese le "navi officina" a bordo delle quali viene effettuata la trasformazione o la lavorazione dei prodotti della loro pesca, sono considerate parte del territorio della Comunita' o del Marocco, purche' ricorrano le condizioni di cui al paragrafo 2.
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 Prodotti sufficientemente lavorati o trasformati
 
@@ -2944,7 +2940,7 @@ Quando, nell'elenco dell'allegato II, viene applicata una regola percentuale per
 
 3\. Le suddette condizioni stabiliscono, per tutti i prodotti contemplati dall'accordo, la lavorazione o la trasformazione cui devono essere sottoposti i materiali non originari impiegati nella fabbricazione di questi prodotti, e si applicano solo a detti materiali. Ne consegue pertanto che, se un prodotto che ha acquisito il carattere originario, perche' soddisfa le condizioni indicate nell'elenco per detto prodotto, e' impiegato nella fabbricazione di un altro prodotto, le condizioni applicabili al prodotto in cui esso e' incorporato non gli si applicano, e non si prendono in considerazione i materiali non originari eventualmente impiegati nella sua fabbricazione.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 Lavorazioni o trasformazioni insufficienti
 
@@ -2968,7 +2964,7 @@ g) il cumulo di due o piu' operazioni indicate nelle lettere da a) a f);
 
 h) la macellazione degli animali.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 Unita' da prendere in considerazione
 
@@ -2982,19 +2978,19 @@ b) quando una spedizione consiste in vari prodotti fra loro identici, classifica
 
 2\. Ogniqualvolta, conformemente alla regola generale 5 del sistema armonizzato, si considera che l'imballaggio formi un tutto unico con il prodotto ai fini della classificazione, detto imballaggio viene preso in considerazione anche per la determinazione dell'origine.
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 Accessori, pezzi di ricambio e utensili
 
 Gli accessori, pezzi di ricambio e utensili che vengono consegnati con un'attrezzatura, una macchina, un apparecchio o un veicolo, fanno parte del loro normale equipaggiamento e il cui prezzo e' compreso in quello di questi ultimi o non e' fatturato a parte sono considerati un tutto unico con l'attrezzatura, la macchina, l'apparecchio o il veicolo in questione.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 Assortimenti
 
 Gli assortimenti, ai sensi della regola generale 3 dei sistema armonizzato, sono considerati originari a condizione che tutti i prodotti che li compongono siano originari. Tuttavia, un assortimento composto di prodotti originari e non originari e' considerato originario nel suo insieme, a condizione che il valore dei prodotti non originari non superi il 15% del prezzo franco fabbrica dell'assortimento.
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 Elementi neutri
 
@@ -3002,13 +2998,13 @@ Allo scopo di determinare se un prodotto e' originario della Comunita' o del Mar
 
 ## TITOLO III - REQUISITI TERRITORIALI
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 Principio della territorialita'
 
 Le condizioni stabilite nel titolo II relative all'acquisizione dei carattere di prodotto originario, vanno rispettate senza interruzione nella Comunita' o in Marocco, fatte salve le disposizioni degli articoli 4 e 5.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 Reimportazione delle merci
 
@@ -3018,7 +3014,7 @@ a) che le merci reimportate sono le stesse che erano state esportate, e
 
 b) che esse non sono state sottoposte ad alcuna operazione, oltre a quelle necessarie per conservarle in buono stato durante la loro permanenza nel paese in questione o nel corso dell'esportazione.
 
-##### ARTICOLO 15
+#### ARTICOLO 15
 
 Trasporto diretto
 
@@ -3042,7 +3038,7 @@ ovvero,
 
 c) in mancanza di questi documenti, qualsiasi documento probatorio.
 
-##### ARTICOLO 16
+#### ARTICOLO 16
 
 Esposizioni
 
@@ -3062,13 +3058,13 @@ d) dal momento in cui sono stati inviati all'esposizione, i prodotti non sono st
 
 ## TITOLO IV - PROVA DELL'ORIGINE
 
-##### ARTICOLO 17
+#### ARTICOLO 17
 
 Certificato di circolazione EUR
 
 Il carattere originario dei prodotti, ai sensi de presente protocollo, viene dimostrato mediante un certificato di circolazione EUR 1, il cui modello figura nell'allegato III del presente protocollo.
 
-##### ARTICOLO 18
+#### ARTICOLO 18
 
 Normale procedura di rilascio dei certificati di circolazione EUR. 1
 
@@ -3094,7 +3090,7 @@ Spetta inoltre alle autorita' doganali che rilasciano il certificato accertarsi 
 
 7\. La data del rilascio del certificato di circolazione delle merci EUR. 1 deve essere indicata nella parte del certificato riservata alle autorita' doganali. sp; 8. Il certificato di circolazione delle merci EUR. 1 e' rilasciato dalle autorita' doganali del paese d'esportazione al momento dell'esportazione dei prodotti ai quali si riferisce. Esso e' tenuto a disposizione dell'esportatore dal momento in cui l'esportazione ha effettivamente luogo o e' assicurata.
 
-##### ARTICOLO 19
+#### ARTICOLO 19
 
 Rilascio a posteriori del certificato di circolazione EUR. 1
 
@@ -3114,7 +3110,7 @@ b) viene fornita alle autorita' doganali la prova soddisfacente che il certifica
 
 5\. Le diciture di cui al paragrafo 4 devono figurare nella casella "osservazioni" del certificato di circolazione delle merci EUR. l.
 
-##### ARTICOLO 20
+#### ARTICOLO 20
 
 Rilascio di duplicati del certificato di circolazione EUR. 1
 
@@ -3128,7 +3124,7 @@ Rilascio di duplicati del certificato di circolazione EUR. 1
 
 4\. Il duplicato, su cui deve figurare la data di rilascio del certificato di circolazione EUR. 1 originale, e' valido a decorrere da questa data.
 
-##### ARTICOLO 21
+#### ARTICOLO 21
 
 Sostituzione dei certificati
 
@@ -3138,7 +3134,7 @@ Sostituzione dei certificati
 
 3\. Il certificato sostitutivo e' rilasciato in base a una domanda scritta del riesportatore, previa verifica da parte delle autorita' competenti delle informazioni fornite nella domanda. La data di rilascio e il numero di serie del certificato Eur. l. originario devono figurare nella casella n. 7.
 
-##### ARTICOLO 22
+#### ARTICOLO 22
 
 Procedura semplificata per il rilascio dei certificati
 
@@ -3182,7 +3178,7 @@ c) nei casi di cui al paragrafo 3, lettera b), l'autorita' che e' competente ad 
 
 13\. Le disposizioni, del presente articolo non pregiudicano l'applicazione delle norme della Comunita', degli stati membri e del Marocco relative alle formalita' doganali e all'uso dei documenti doganali.
 
-##### ARTICOLO 23
+#### ARTICOLO 23
 
 Scheda informativa e dichiarazione
 
@@ -3192,7 +3188,7 @@ Scheda informativa e dichiarazione
 
 3\. La scheda informativa relativa ai prodotti utilizzati e' rilasciata a richiesta dell'esportatore dei medesimi, nei casi di cui al paragrafo 2 o, su iniziativa di detto esportatore, dall'ufficio doganale competente dello Stato da cui detti prodotti sono stati esportati. Essa e' redatta in due esemplari, uno dei quali e' rilasciato al richiedente, cui compete farlo pervenire all'esportatore dei prodotti finali o all'ufficio doganale al quale si richiede il certificato di circolazione delle merci EUR. 1 per tali prodotti. Il secondo esemplare e' conservato per almeno tre anni dall'ufficio che l'ha rilasciato.
 
-##### ARTICOLO 24
+#### ARTICOLO 24
 
 Validita' della prova d'origine
 
@@ -3202,19 +3198,19 @@ Validita' della prova d'origine
 
 3\. A parte tali casi, le autorita' doganali del paese importatore possono accettare i certificati di circolazione EUR. 1 se i prodotti sono stati presentati loro prima della scadenza di detto termine.
 
-##### ARTICOLO 25
+#### ARTICOLO 25
 
 Presentazione della prova d'origine
 
 1\. I certificati di circolazione delle merci EUR. 1 sono presentati alle autorita' doganali del paese d'importazione conformemente alle procedure applicabili in tale paese. Dette autorita' possono esigere la presentazione di una traduzione del certificato EUR. 1. Esse possono anche richiedere che la dichiarazione di importazione sia completata da una dichiarazione dell'importatore secondo la quale per i prodotti ricorrono le condizioni richieste per l'applicazione dell'Accordo.
 
-##### ARTICOLO 26
+#### ARTICOLO 26
 
 Importazioni con spedizioni scaglionate
 
 Quando, su richiesta dell'importatore e alle condizioni stabilite dalle autorita' doganali del paese d'importazione, i prodotti smontati o non assemblati ai sensi della regola generale 2, lettera a) del sistema armonizzato, di cui ai capitoli 84 e 85 del sistema armonizzato, sono importati con spedizioni scaglionate, per tali prodotti viene presentata alle autorita' doganali un'unica prova d'origine al momento dell'importazione della prima spedizione parziale.
 
-##### ARTICOLO 27
+#### ARTICOLO 27
 
 Dichiarazione su fattura
 
@@ -3228,7 +3224,7 @@ Dichiarazione su fattura
 
 5\. Le disposizioni degli articoli 24 e 25 si applicano mutatis mutandis alla dichiarazione su fattura.
 
-##### ARTICOLO 28
+#### ARTICOLO 28
 
 Esonero dalla prova formale dell'origine
 
@@ -3238,7 +3234,7 @@ Esonero dalla prova formale dell'origine
 
 3\. Inoltre, il valore complessivo dei prodotti non deve superare 500 ecu se si tratta di piccole spedizioni oppure 1.200 ecu se si tratta del contenuto dei bagagli personali dei viaggiatori.
 
-##### ARTICOLO 29
+#### ARTICOLO 29
 
 Conservazione delle prove dell'origine e dei documenti giustificativi
 
@@ -3252,7 +3248,7 @@ domanda di cui all'articolo 18 paragrafo 2
 
 4\. Le autorita' doganali del paese importatore conservano per almeno tre anni i certificati EUR. 1 che sono stati loro presentati.
 
-##### ARTICOLO 30
+#### ARTICOLO 30
 
 Discordanze ed errori formali
 
@@ -3260,7 +3256,7 @@ Discordanze ed errori formali
 
 2\. in caso di errori formali evidenti, come errori di battitura, sul certificato di circolazione EUR. 1 o sulla dichiarazione su fattura, il documento non viene respinto se detti errori non sono tali da destare dubbi sull'esattezza delle diciture in esso contenute.
 
-##### ARTICOLO 31
+#### ARTICOLO 31
 
 Importi espressi in ecu.
 
@@ -3276,13 +3272,13 @@ Nel procedere a detta revisione, il Consiglio di associazione garantisce che non
 
 ## TITOLO V - MODALITA DI COOPERAZIONE AMMINISTRATIVA
 
-##### ARTICOLO 32
+#### ARTICOLO 32
 
 Comunicazione dell'impronta dei timbri e degli indirizzi
 
 Le autorita' doganali degli Stati membri e del Marocco si comunicano a vicenda, tramite la Commissione delle Comunita' europee, il facsimile dell'impronta dei timbri utilizzati nei loro uffici per il rilascio dei certificati EUR. 1 e l'indirizzo delle autorita' doganali competenti per il rilascio dei certificati EUR. 1 e per il controllo di detti certificati e delle dichiarazioni su fattura.
 
-##### ARTICOLO 33
+#### ARTICOLO 33
 
 Controllo dei certificati di circolazione delle merci EUR. 1 delle dichiarazioni su fattura e delle schede informative
 
@@ -3302,7 +3298,7 @@ Esse forniscono, a sostegno della richiesta di controllo a posteriori, ogni docu
 
 7\. Il controllo a posteriori delle schede informative di cui all'articolo 23 e' effettuato nei casi previsti al paragrafo 1 e con modalita' analoghe a quelle stabilite ai paragrafi da 2 a 6.
 
-##### ARTICOLO 34
+#### ARTICOLO 34
 
 Soluzione delle controversie
 
@@ -3310,13 +3306,13 @@ Le controversie riguardanti le procedure di controllo di cui all'articolo 33 che
 
 Per la soluzione delle controversie tra l'importatore e le autorita' doganali dello Stato di importazione si applica comunque la legislazione di tale Stato.
 
-##### ARTICOLO 35
+#### ARTICOLO 35
 
 Sanzioni
 
 Si applicano sanzioni nei confronti di chiunque rediga o faccia redigere un documento contenente dati inesatti, allo scopo di ottenere un trattamento preferenziale per i prodotti.
 
-##### Articolo 36
+#### Articolo 36
 
 Zone franche
 
@@ -3326,13 +3322,13 @@ Zone franche
 
 ## TITOLO VI - CEUTA E MELILLA
 
-##### ARTICOLO 37
+#### ARTICOLO 37
 
 Applicazione del protocollo
 
 1\. Nell'espressione "Comunita'" utilizzata nel presente protocollo non rientrano Ceuta e Melilla. Nell'espressione "prodotti originari della Comunita'" non rientrano i prodotti originari di queste zone. sp; 2. Il presente protocollo si applica, mutatis mutandis, ai prodotti originari di Ceuta e di Melilla, fatte salve le condizioni particolari di cui all'articolo 38.
 
-##### ARTICOLO 38
+#### ARTICOLO 38
 
 Condizioni particolari
 
@@ -3372,13 +3368,13 @@ ii) che tali prodotti siano originari, ai sensi del presente protocollo, di Ceut
 
 ## TITOLO VII - DISPOSIZIONI FINALI
 
-##### ARTICOLO 39
+#### ARTICOLO 39
 
 Modifiche del protocollo
 
 Il Consiglio di associazione puo' decidere di modificare, a richiesta di una delle due Parti o del Comitato di cooperazione doganale, l'applicazione delle disposizioni del presente protocollo.
 
-##### ARTICOLO 40
+#### ARTICOLO 40
 
 Comitato di cooperazione doganale
 
@@ -3386,31 +3382,31 @@ Comitato di cooperazione doganale
 
 2\. Il Comitato e' composto, da un lato, da esperti degli Stati membri e da funzionari dei servizi della Commissione delle Comunita' europee che si occupano di problemi doganali e, dall'altro, da esperti in materia doganale del Marocco.
 
-##### ARTICOLO 41
+#### ARTICOLO 41
 
 Allegati
 
 Gli allegati del presente protocollo ne costituiscono parte integrante.
 
-##### ARTICOLO 42
+#### ARTICOLO 42
 
 Esecuzione del protocollo
 
 La Comunita' e il Marocco prendono, ciascuno per quanto lo riguarda, le misure necessarie all'esecuzione del presente protocollo.
 
-##### ARTICOLO 43
+#### ARTICOLO 43
 
 Intese con l'Algeria e la Tunisia
 
 Le Parti contraenti prendono tutte le misure necessarie per la conclusione di intese con l'Algeria e la Tunisia ai fini dell'applicazione del presente protocollo. Esse si notificano reciprocamente le misure prese a tal fine.
 
-##### ARTICOLO 44
+#### ARTICOLO 44
 
 Merci in transito o in deposito
 
 Le disposizioni dell'Accordo possono applicarsi alle merci rispondenti alle disposizioni del presente protocollo che, alla data dell'entrata in vigore dell'Accordo, si trovano in transito, nel territorio della Comunita' o del Marocco oppure, laddove si applicano le disposizioni degli articoli 3, 4 e 5, in regime di deposito provvisorio, di deposito doganale o di zona franca in Algeria o in Tunisia, a condizione che vengano presentati entro un termine di quattro mesi a decorrere da tale data alle autorita' doganali dello Stato di importazione un certificato EUR. 1 , rilasciato a posteriori dalle autorita' competenti dello Stato di esportazione, nonche' i documenti dai quali risulta che le merci sono state oggetto di trasporto diretto.
 
-##### Allegato I
+#### Allegato I
 
 ALLEGATO I
 
@@ -3618,7 +3614,7 @@ o) (solo per gli oli pesanti diversi dal gasolio e dagli oli combustibili della 
 
 7.3. Ai sensi delle voci ex 2707, da 2713 a 2715, ex 2901, ex 2902 e ex 3403, le operazioni semplici quali la pulitura, la decantazione, la desalificazione, la disidratazione, il filtraggio, la colorazione, la marcatura, l'ottenimento di un tenore di zolfo mescolando prodotti con tenori di zolfo diversi, qualsiasi combinazione di queste operazioni o di operazioni analoghe non conferiscono 'origine.
 
-##### Allegato II
+#### Allegato II
 
 ALLEGATO II
 
@@ -6604,7 +6600,7 @@ essere oggetto i materiali non originari per conferire un carattere originario a
 |         |indicate in appresso |                        |            |
 ```
 
-##### Allegato II
+#### Allegato II
 
 ```text
 +---------+---------------------+-------------------------------------+
@@ -9594,7 +9590,7 @@ essere oggetto i materiali non originari per conferire un carattere originario a
 |
 ```
 
-##### Allegato II
+#### Allegato II
 
 ```text
 +---------+---------------------+-------------------------------------+
@@ -10698,7 +10694,7 @@ essere oggetto i materiali non originari per conferire un carattere originario a
 
 Parte di provvedimento in formato grafico
 
-##### Allegato III
+#### Allegato III
 
 ALLEGATO III
 
@@ -11010,7 +11006,7 @@ Fatto a..........addi......
 
 Parte di provvedimento in formato grafico
 
-##### Allegato IV
+#### Allegato IV
 
 ALLEGATO IV
 
@@ -11018,13 +11014,13 @@ Dichiarazione di cui all'articolo 27
 
 Parte di provvedimento in formato grafico
 
-##### Allegato V
+#### Allegato V
 
 ALLEGATO V
 
 Parte di provvedimento in formato grafico
 
-##### Allegato VI
+#### Allegato VI
 
 ALLEGATO VI
 
@@ -11076,7 +11072,7 @@ Fatto a.............. il..................
 
 Parte di provvedimento in formato grafico
 
-##### Allegato VII
+#### Allegato VII
 
 ALLEGATO VII
 
@@ -11250,7 +11246,7 @@ NOTE
 
 Parte di provvedimento in formato grafico
 
-##### Allegato VIII
+#### Allegato VIII
 
 ALLEGATO VIII
 
@@ -11268,7 +11264,7 @@ Per l'applicazione dell'articolo 39 del protocollo, la comunita' si dichiara dis
 
 PROTOCOLLO N. 5 RELATIVO ALL'ASSISTENZA RECIPROCA TRA LE AUTORITA' AMMINISTRATIVE IN MATERIA DOGANALE
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 Definizioni
 
@@ -11282,7 +11278,7 @@ c) "autorita' interpellata": l'autorita' amministrativa competente all'uopo desi
 
 d) "dati a carattere personale": qualsiasi informazione relativa a una persona fisica identificata o identificabile.
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Ambito di applicazione
 
@@ -11290,7 +11286,7 @@ Ambito di applicazione
 
 2\. L'assistenza in materia doganale prevista dal presente protocollo si applica ad ogni autorita' amministrativa delle Parti contraenti competente per l'applicazione dello stesso. Essa non pregiudica le norme che disciplinano l'assistenza reciproca in materia penale ne' copre le informazioni ottenute grazie a poteri esercitati su richiesta dell'autorita' giudiziaria salvo accordo di detta autorita'.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 Assistenza su richiesta
 
@@ -11308,7 +11304,7 @@ c) i movimenti di merci per i quali sia stata segnalata la possibilita' che dian
 
 d) i mezzi di trasporto per i quali vi sono fondati motivi di ritenere che siano stati, siano ovvero possano essere utilizzati per effettuare operazioni contrarie alla legislazione doganale.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Assistenza spontanea
 
@@ -11324,7 +11320,7 @@ Le Parti contraenti si prestano assistenza reciproca, in conformita' delle rispe
 
 \- mezzi di trasporto che si possa ragionevolmente ritenere siano stati, siano o possano essere utilizzati per effettuare operazioni contrarie alla legislazione doganale;
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 Comunicazione/Notifica
 
@@ -11338,7 +11334,7 @@ necessarie per
 
 che rientrano nell'ambito di applicazione del presente protocollo a un destinatario, residente o stabilito sul suo territorio. In tal caso, si applica l'articolo 6, paragrafo 3.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 Forma e contenuto delle domande di assistenza
 
@@ -11364,7 +11360,7 @@ f) una sintesi dei fatti e delle indagini gia' svolte, salvo per i casi di cui a
 
 4\. Se la domanda non risponde ai requisiti formali stabiliti se ne puo' richiedere la correzione o il completamento; tuttavia possono essere disposte misure cautelative.
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 Adempimento delle domande
 
@@ -11376,7 +11372,7 @@ Adempimento delle domande
 
 4\. I funzionari di una Parte contraente; d'intesa con l'altra Parte contraente interessata e alle condizioni stabilite da quest'ultima, possono essere presenti alle indagini condotte nel territorio di quest'ultima.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 Forma in cui devono essere comunicate le informazioni
 
@@ -11384,7 +11380,7 @@ Forma in cui devono essere comunicate le informazioni
 
 2\. La consegna dei documenti di cui al paragrafo 1 puo' essere sostituita dalla fornitura di informazioni computerizzate prodotte in qualsiasi forma per gli stessi fini.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 Eccezioni all'obbligo di fornire assistenza
 
@@ -11408,7 +11404,7 @@ d) implichi una violazione di un segreto industriale, commerciale o professional
 
 3\. Se l'assistenza e' rifiutata, la decisione e le sue motivazioni devono essere notificate senza indugio all'autorita' richiedente.
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 Obbligo di osservare la riservatezza
 
@@ -11416,7 +11412,7 @@ Obbligo di osservare la riservatezza
 
 2\. La comunicazione di dati a carattere personale puo' avvenire unicamente se il livello di tutela delle persone previsto dalla legislazione delle Parti contraenti e' equivalente. Le Parti contraenti devono quantomeno garantire un livello di tutela che si ispiri ai principi delle disposizioni riportate in allegato al presente protocollo.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 Uso delle informazioni
 
@@ -11426,7 +11422,7 @@ Uso delle informazioni
 
 3\. Nei loro documenti probatori, nelle loro relazioni e testimonianze, nonche' nei procedimenti e nelle azioni penali promossi dinanzi agli organi giurisdizionali, le Parti contraenti possono utilizzare come prova le informazioni ottenute e i documenti consultati conformemente alle disposizioni del presente protocollo.
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 Esperti e testimoni
 
@@ -11434,13 +11430,13 @@ Esperti e testimoni
 
 2\. Il funzionario autorizzato beneficia, sul territorio dell'autorita' richiedente, della tutela accordata ai suoi funzionari dalla legislazione in vigore.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 Spese di assistenza
 
 Le Parti contraenti rinunciano reciprocamente a tutte le richieste di rimborso delle spese sostenute in virtu' dell'applicazione del presente protocollo, escluse, se del caso, le spese per esperti, testimoni, interpreti e traduttori che non dipendono da pubblici servizi.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 Esecuzione
 
@@ -11448,7 +11444,7 @@ Esecuzione
 
 2\. Le Parti contraenti si consultano e si tengono reciprocamente informate in merito alle modalita' di applicazione adottate conformemente alle disposizioni del presente protocollo.
 
-##### ARTICOLO 15
+#### ARTICOLO 15
 
 Complementarita'
 
@@ -11458,7 +11454,7 @@ Inoltre esso non osta alla fornitura di un'assistenza reciproca piu' vasta ai se
 
 2\. Fatto salvo l'articolo 11, detti accordi non recano pregiudizio alle disposizioni della Comunita' che disciplinano la comunicazione, tra i competenti servizi della Commissione e le autorita' doganali degli Stati membri, di tutte le informazioni raccolte in materia doganale che possano interessare la Comunita'.
 
-##### Allegato
+#### Allegato
 
 ALLEGATO
 
@@ -11502,7 +11498,7 @@ b) proteggere le persone cui i dati in questione si riferiscono o i diritti e le
 
 6\. Nessuna disposizione del presente allegato dev'essere interpretata come una limitazione o un ostacolo alla possibilita', per una Parte contraente, di accordare alle persone cui si riferiscono i dati in questione una tutela superiore a quella prevista dal presente allegato.
 
-##### Atto finale
+#### Atto finale
 
 ATTO FINALE
 
@@ -11638,7 +11634,7 @@ I plenipotenziari degli stati membri e della Comunita' hanno preso atto delle se
 
 Marocco
 
-##### Dichiarazioni
+#### Dichiarazioni
 
 DICHIARAZIONI COMUNI
 
@@ -11732,7 +11728,7 @@ DICHIARAZIONE COMUNE RELATIVA ALLA RIAMMISSIONE
 
 Le parti convengono di adottare bilateralmente le disposizioni e le misure opportune per la riammissione dei rispettivi cittadini che hanno lasciato il loro paese. A tal fine, nel caso degli Stati membri dell'Unione europea si considerano cittadini le persone aventi la cittadinanza degli Stati membri quali definite ai fini comunitari.
 
-##### Accordo
+#### Accordo
 
 ACCORDO IN FORMA DI SCAMBIO DI LETTERE TRA LA COMUNITA' E IL REGNO DEL MAROCCO RELATIVO ALL'ARTICOLO 12, PARAGRAFO 1 PER QUANTO RIGUARDA L'ELIMINAZIONE DEI PREZZI DI RIFERIMENTO APPLICATI DAL MAROCCO ALL'IMPORTAZIONE DI TALUNI PRODOTTI TESSILI E CAPI DI ABBIGLIAMENTO
 
@@ -11906,7 +11902,7 @@ considerazione.
 
 Per il Governo del Regno del Marocco
 
-##### Accordo
+#### Accordo
 
 ACCORDO IN FORMA DI SCAMBIO DI LETTERE TRA LA COMUNI E
 
@@ -12104,7 +12100,7 @@ Per il Governo del
 
 Regno del Marocco
 
-##### Dichiarazioni
+#### Dichiarazioni
 
 DICHIARAZIONE DELLA COMUNITA
 

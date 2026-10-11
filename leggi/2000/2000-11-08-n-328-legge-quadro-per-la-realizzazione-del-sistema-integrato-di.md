@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I - PRINCIPI GENERALI DEL SISTEMA
+## Capo I - PRINCIPI GENERALI DEL SISTEMA INTEGRATO DI INTERVENTI E SERVIZI SOCIALI
 
-### INTEGRATO DI INTERVENTI E - SERVIZI SOCIALI
-
-##### Art. 1 - Principi generali e finalita'
+#### Art. 1 - Principi generali e finalita'
 
 1\. La Repubblica assicura alle persone e alle famiglie un sistema integrato di interventi e servizi sociali, promuove interventi per garantire la qualita' della vita, pari opportunita', non discriminazione e diritti di cittadinanza, previene, elimina o riduce le condizioni di disabilita', di bisogno e di disagio individuale e familiare, derivanti da inadeguatezza di reddito, difficolta' sociali e condizioni di non autonomia, in coerenza con gli articoli 2, 3 e 38 della Costituzione.
 
@@ -104,7 +102,7 @@ la seguente legge:
 
 > Le leggi della Repubblica possono demandare alla regione il potere di emanare norme per la loro attuazione".
 
-##### Art. 2 - Diritto alle prestazioni
+#### Art. 2 - Diritto alle prestazioni
 
 1\. Hanno diritto di usufruire delle prestazioni e dei servizi del sistema integrato di interventi e servizi sociali i cittadini italiani e, nel rispetto degli accordi internazionali, con le modalita' e nei limiti definiti dalle leggi regionali, anche i cittadini di Stati appartenenti all'Unione europea ed i loro familiari, nonche' gli stranieri, individuati ai sensi dell'articolo 41 del testo unico di cui al decreto legislativo 25 luglio 1998, n. 286. Ai profughi, agli stranieri ed agli apolidi sono garantite le misure di prima assistenza, di cui all'articolo 129, comma 1, lettera h), del decreto legislativo 31 marzo 1998, n. 112.
 
@@ -200,7 +198,7 @@ la seguente legge:
 
 > "3. Qualora per il numero dei destinatari la comunicazione personale non sia possibile o risulti particolarmente gravosa, l'amministrazione provvede a rendere noti gli elementi di cui al comma 2 mediante forme di pubblicita' idonee di volta in volta stabilite dall'amministrazione medesima".
 
-##### Art. 3
+#### Art. 3
 
 (Principi per la programmazione degli interventi e delle risorse del sistema
 
@@ -276,7 +274,7 @@ b) concertazione e cooperazione tra i diversi livelli istituzionali, tra questi 
 
 > \- Per il testo dell'art. 3, comma 6, della citata n. 335 del 1995, si veda in note all'art. 2, comma 2.
 
-##### Art. 4 - Sistema di finanziamento delle politiche sociali
+#### Art. 4 - Sistema di finanziamento delle politiche sociali
 
 1\. La realizzazione del sistema integrato di interventi e servizi sociali si avvale di un finanziamento plurimo a cui concorrono, secondo competenze differenziate e con dotazioni finanziarie afferenti ai rispettivi bilanci, i soggetti di cui all'articolo 1, comma 3.
 
@@ -334,7 +332,7 @@ b) concertazione e cooperazione tra i diversi livelli istituzionali, tra questi 
 
 > "47. A decorrere dall'anno 1998, in via sperimentale, in attesa della riforma degli istituti che prevedono trasferimenti di reddito alle persone, e nei limiti delle risorse preordinate allo scopo nell'ambito del Fondo di cui al comma 44, e' introdotto l'istituto del reddito minimo di inserimento a favore dei soggetti privi di reddito singoli o con uno o piu' figli a carico ed impossibilitati a provvedere per cause psichiche, fisiche e sociali al mantenimento proprio e dei figli".
 
-##### Art. 5 - Ruolo del terzo settore
+#### Art. 5 - Ruolo del terzo settore
 
 1\. Per favorire l'attuazione del principio di sussidiarieta', gli enti locali, le regioni e lo Stato, nell'ambito delle risorse disponibili in base ai piani di cui agli articoli 18 e 19, promuovono azioni per il sostegno e la qualificazione dei soggetti operanti nel terzo settore anche attraverso politiche formative ed interventi per l'accesso agevolato al credito ed ai fondi dell'Unione europea.
 
@@ -370,11 +368,9 @@ b) concertazione e cooperazione tra i diversi livelli istituzionali, tra questi 
 
 > 6\. E' soppresso l'ultimo periodo della lettera a) del primo comma dell'art. 17 della legge 16 maggio 1970, n. 281".
 
-## Capo II - ASSETTO ISTITUZIONALE E ORGANIZZAZIONE
+## Capo II - ASSETTO ISTITUZIONALE E ORGANIZZAZIONE DEL SISTEMA INTEGRATO DI INTERVENTI E SERVIZI SOCIALI
 
-### DEL SISTEMA INTEGRATO DI INTERVENTI E - SERVIZI SOCIALI
-
-##### Art. 6 - Funzioni dei comuni
+#### Art. 6 - Funzioni dei comuni
 
 1\. I comuni sono titolari delle funzioni amministrative concernenti gli interventi sociali svolti a livello locale e concorrono alla programmazione regionale. Tali funzioni sono esercitate dai comuni adottando sul piano territoriale gli assetti piu' funzionali alla gestione, alla spesa ed al rapporto con i cittadini, secondo le modalita' stabilite dalla legge 8 giugno 1990, n. 142, come da ultimo modificata dalla legge 3 agosto 1999, n. 265.
 
@@ -412,7 +408,7 @@ e) garantire ai cittadini i diritti di partecipazione al controllo di qualita' d
 
 > \- Per il testo dell'art. 132, comma 1, del citato decreto legislativo n. 112 del 1998, si veda in nota all'art. 4, comma 3.
 
-##### Art. 7 - Funzioni delle province
+#### Art. 7 - Funzioni delle province
 
 1\. Le province concorrono alla programmazione del sistema integrato di interventi e servizi sociali per i compiti previsti dall'articolo 15 della legge 8 giugno 1990, n. 142, nonche' dall'articolo 132 del decreto legislativo 31 marzo 1998, n. 112, secondo le modalita' definite dalle regioni che disciplinano il ruolo delle province in ordine:
 
@@ -456,7 +452,7 @@ d) alla partecipazione alla definizione e all'attuazione dei piani di zona.
 
 > \- Per il testo dell'art. 132 del citato decreto legislativo 112 del 1998, si veda in nota all'art. 4, comma 3.
 
-##### Art. 8 - Funzioni delle regioni
+#### Art. 8 - Funzioni delle regioni
 
 1\. Le regioni esercitano le funzioni di programmazione, coordinamento e indirizzo degli interventi sociali nonche' di verifica della rispettiva attuazione a livello territoriale e disciplinano l'integrazione degli interventi stessi, con particolare riferimento all'attivita' sanitaria e socio-sanitaria ad elevata integrazione sanitaria di cui all'articolo 2, comma 1, lettera n), della legge 30 novembre 1998, n. 419.
 
@@ -560,7 +556,7 @@ o) esercizio dei poteri sostitutivi, secondo le modalita' indicate dalla legge r
 
 > \- Per il testo dell'art. 3 del citato decreto legislativo n. 112 del 1998, si veda in note all'art. 8, comma 3.
 
-##### Art. 9 - Funzioni dello Stato
+#### Art. 9 - Funzioni dello Stato
 
 1\. Allo Stato spetta l'esercizio delle funzioni di cui all'articolo 129 del decreto legislativo 31 marzo 1998, n. 112, nonche' dei poteri di indirizzo e coordinamento e di regolazione delle politiche sociali per i seguenti aspetti:
 
@@ -614,7 +610,7 @@ f) ripartizione delle risorse del Fondo nazionale per le politiche sociali secon
 
 > \- Per il testo dell'art. 129, comma 2, del citato decreto legislativo n. 112 del 1998, si veda in note all'art. 2, comma 1.
 
-##### Art. 10
+#### Art. 10
 
 (Istituzioni pubbliche di assistenza
 
@@ -652,7 +648,7 @@ i) esclusione di nuovi o maggiori oneri a carico della finanza pubblica.
 
 > \- Per il testo dell'art. 8 del citato decreto legislativo n. 281 del 1997, si veda in nota all'art. 9, comma 2.
 
-##### Art. 11 - Autorizzazione e accreditamento
+#### Art. 11 - Autorizzazione e accreditamento
 
 1\. I servizi e le strutture a ciclo residenziale e semiresidenziale a gestione pubblica o dei soggetti di cui all'articolo 1, comma 5, sono autorizzati dai comuni. L'autorizzazione e' rilasciata in conformita' ai requisiti stabiliti dalla legge regionale, che recepisce e integra, in relazione alle esigenze locali, i requisiti minimi nazionali determinati ai sensi dell'articolo 9, comma 1, lettera c), con decreto del Ministro per la solidarieta' sociale, sentiti i Ministri interessati e la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281.
 
@@ -666,7 +662,7 @@ i) esclusione di nuovi o maggiori oneri a carico della finanza pubblica.
 
 > \- Per il testo dell'art. 8 del citato decreto legislativo n. 281 del 1997, si veda in nota all'art. 9, comma 2.
 
-##### Art. 12 - Figure professionali sociali
+#### Art. 12 - Figure professionali sociali
 
 1\. Con decreto del Ministro per la solidarieta' sociale, da emanare entro centottanta giorni dalla data di entrata in vigore della presente legge, di concerto con i Ministri della sanita', del lavoro e della previdenza sociale, della pubblica istruzione e dell'universita' e della ricerca scientifica e tecnologica, sulla base dei criteri e dei parametri individuati dalla Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, ai sensi dell'articolo 129, comma 2, del decreto legislativo 31 marzo 1998, n. 112, sono definiti i profili professionali delle figure professionali sociali.
 
@@ -784,7 +780,7 @@ c) i criteri per il riconoscimento e la equiparazione dei profili professionali 
 
 > \- Il decreto legislativo 3 febbraio 1993, n. 29, recante: "Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'art. 2 della legge 23 ottobre 1992, n. 421", e' pubblicato nella Gazzetta Ufficiale del 6 febbraio 1993, n. 30, supplemento ordinario.
 
-##### Art. 13 - Carta dei servizi sociali
+#### Art. 13 - Carta dei servizi sociali
 
 1\. Al fine di tutelare le posizioni soggettive degli utenti, entro centottanta giorni dalla data di entrata in vigore della presente legge, con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro per la solidarieta' sociale, d'intesa con i Ministri interessati, e' adottato lo schema generale di riferimento della carta dei servizi sociali. Entro sei mesi dalla pubblicazione nella Gazzetta Ufficiale del citato decreto del Presidente del Consiglio dei ministri, ciascun ente erogatore di servizi adotta una carta dei servizi sociali ed e' tenuto a darne adeguata pubblicita' agli utenti.
 
@@ -792,11 +788,9 @@ c) i criteri per il riconoscimento e la equiparazione dei profili professionali 
 
 3\. L'adozione della carta dei servizi sociali da parte degli erogatori delle prestazioni e dei servizi sociali costituisce requisito necessario ai fini dell'accreditamento.
 
-## Capo III - DISPOSIZIONI PER LA REALIZZAZIONE DI PARTICOLARI
+## Capo III - DISPOSIZIONI PER LA REALIZZAZIONE DI PARTICOLARI INTERVENTI DI INTEGRAZIONE E SOSTEGNO SOCIALE
 
-### INTERVENTI DI INTEGRAZIONE E - SOSTEGNO SOCIALE
-
-##### Art. 14 - Progetto di vita delle persone con disabilita'
+#### Art. 14 - Progetto di vita delle persone con disabilita'
 
 1\. Le persone con disabilita' di cui alla legge 5 febbraio 1992, n. 104, possono richiedere l'elaborazione del progetto di vita di cui all'articolo 2, comma 2, lettera c), della legge 22 dicembre 2021, n. 227.
 
@@ -832,7 +826,7 @@ AGGIORNAMENTO (8)
 
 Il D.Lgs. 3 maggio 2024, n. 62, come modificato dal D.L. 27 dicembre 2024, n. 202, convertito con modificazioni dalla L. 21 febbraio 2025, n. 15, ha disposto (con l'art. 40, comma 2) che le presenti modifiche si applicano nei territori interessati dalla sperimentazione di cui all'articolo 33 del suddetto D.Lgs. a decorrere dal 1° gennaio 2025 e, sul restante territorio nazionale, a decorrere dal 1° gennaio 2027.
 
-##### Art. 15
+#### Art. 15
 
 (Sostegno domiciliare per le persone anziane non autosufficienti) 1. Ferme restando le competenze del Servizio sanitario nazionale in materia di prevenzione, cura e riabilitazione, per le patologie acute e croniche, particolarmente per i soggetti non autosufficienti, nell'ambito del Fondo nazionale per le politiche sociali il Ministro per la solidarieta' sociale, con proprio decreto, emanato di concerto con i Ministri della sanita' e per le pari opportunita', sentita la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, determina annualmente la quota da riservare ai servizi a favore delle persone anziane non autosufficienti, per favorirne l'autonomia e sostenere il nucleo familiare nell'assistenza domiciliare alle persone anziane che ne fanno richiesta.
 
@@ -848,7 +842,7 @@ Qualora una o piu' regioni non provvedano all'impegno contabile delle quote di c
 
 > \- Per il testo dell'art. 8 del citato decreto legislativo n. 281 del 1997, si veda in nota all'art. 9, comma 2.
 
-##### Art. 16
+#### Art. 16
 
 (Valorizzazione e sostegno
 
@@ -914,7 +908,7 @@ f) servizi per l'affido familiare, per sostenere, con qualificati interventi e p
 
 > \- La legge 28 agosto 1997, n. 285, recante: "Disposizioni per la promozione di diritti e di opportunita' per l'infanzia e l'adolescenza", e' pubblicata nella Gazzetta Ufficiale 5 settembre 1997, n. 207.
 
-##### Art. 17 - Titoli per l'acquisto di servizi sociali
+#### Art. 17 - Titoli per l'acquisto di servizi sociali
 
 1\. Fermo restando quanto previsto dall'articolo 2, comma 2, i comuni possono prevedere la concessione, su richiesta dell'interessato, di titoli validi per l'acquisto di servizi sociali dai soggetti accreditati del sistema integrato di interventi e servizi sociali ovvero come sostitutivi delle prestazioni economiche diverse da quelle correlate al minimo vitale previste dall'articolo 24, comma 1, lettera a), numeri 1) e 2), della presente legge, nonche' dalle pensioni sociali di cui all'articolo 26 della legge 30 aprile 1969, n. 153, e successive modificazioni, e dagli assegni erogati ai sensi dell'articolo 3, comma 6, della legge 8 agosto 1995, n. 335.
 
@@ -926,11 +920,9 @@ f) servizi per l'affido familiare, per sostenere, con qualificati interventi e p
 
 > \- Per il testo dell'art. 3, comma 6, della citata legge n. 335 del 1995, si veda in nota all'art. 2, comma 2.
 
-## Capo IV - STRUMENTI PER FAVORIRE IL RIORDINO DEL SISTEMA
+## Capo IV - STRUMENTI PER FAVORIRE IL RIORDINO DEL SISTEMA INTEGRATO DI INTERVENTI E SERVIZI SOCIALI
 
-### INTEGRATO DI INTERVENTI E SERVIZI SOCIALI
-
-##### Art. 18
+#### Art. 18
 
 (Piano nazionale e piani regionali
 
@@ -1018,7 +1010,7 @@ o) gli indirizzi per la predisposizione di programmi integrati per obiettivi di 
 
 > 8\. La legge regionale disciplina altresi', con norme di carattere generale, modi e procedimenti per la verifica della compatibilita' fra gli strumenti di cui al comma 7 e i programmi regionali, ove esistenti".
 
-##### Art. 19 - Piano di zona
+#### Art. 19 - Piano di zona
 
 1\. I comuni associati, negli ambiti territoriali di cui all'articolo 8, comma 3, lettera a), a tutela dei diritti della popolazione, d'intesa con le aziende unita' sanitarie locali, provvedono, nell'ambito delle risorse disponibili, ai sensi dell'articolo 4, per gli interventi sociali e socio-sanitari, secondo le indicazioni del piano regionale di cui all'articolo 18, comma 6, a definire il piano di zona, che individua:
 
@@ -1074,7 +1066,7 @@ d) prevedere iniziative di formazione e di aggiornamento degli operatori finaliz
 
 > Restano salve le competenze di cui all'art. 7, legge 1o marzo 1986, n. 64".
 
-##### Art. 20
+#### Art. 20
 
 Fondo nazionale per le politiche sociali
 
@@ -1122,17 +1114,15 @@ AGGIORNAMENTO (2)
 
 La L. 23 dicembre 2014, n. 190 ha disposto (con l'art. 1, comma 158) che "Lo stanziamento del Fondo nazionale per le politiche sociali, di cui all'articolo 20, comma 8, della legge 8 novembre 2000, n. 328, e' incrementato di 300 milioni di euro annui a decorrere dall'anno 2015".
 
-##### Art. 21
+#### Art. 21
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 SETTEMBRE 2017, N. 147))
 
-## Capo V - INTERVENTI, SERVIZI ED EMOLUMENTI ECONOMICI
+## Capo V - INTERVENTI, SERVIZI ED EMOLUMENTI ECONOMICI DEL SISTEMA INTEGRATO DI INTERVENTI E SERVIZI SOCIALI
 
-### DEL SISTEMA INTEGRATO DI INTERVENTI - E SERVIZI SOCIALI
+### Sezione I - Disposizioni generali
 
-#### Sezione I - Disposizioni generali
-
-##### Art. 22
+#### Art. 22
 
 (Definizione del sistema integrato
 
@@ -1232,11 +1222,11 @@ assistenziali
 
 > \- Per il titolo della citata legge n. 104 del 1992, si veda in nota all'art. 14, comma 1.
 
-##### Art. 23
+#### Art. 23
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 SETTEMBRE 2017, N. 147))
 
-##### Art. 24
+#### Art. 24
 
 (Delega al Governo per il riordino degli
 
@@ -1318,7 +1308,7 @@ h) revisione e snellimento delle procedure relative all'accertamento dell'invali
 
 > \- Per il testo dell'art. 1, comma 1, lettere a) e b), della citata legge n. 476 del 1987 e successive modificazioni, si veda in note all'art. 18, comma 2.
 
-##### Art. 25 - Accertamento della condizione economica del richiedente
+#### Art. 25 - Accertamento della condizione economica del richiedente
 
 1\. Ai fini dell'accesso ai servizi disciplinati dalla presente legge, la verifica della condizione economica del richiedente e' effettuata secondo le disposizioni previste dal decreto legislativo 31 marzo 1998, n. 109, come modificato dal decreto legislativo 3 maggio 2000, n. 130.
 
@@ -1326,7 +1316,7 @@ h) revisione e snellimento delle procedure relative all'accertamento dell'invali
 
 > \- Per il titolo del citato decreto legislativo n. 109 del 1998, come modificato dal decreto legislativo 3 maggio 2000, n. 130, recante: "Disposizioni correttive ed integrative del decreto legislativo 31 marzo 1998, n. 109, in materia di criteri unificati di valutazione della situazione economica dei soggetti che richiedono prestazioni sociali agevolate", pubblicato nella Gazzetta Ufficiale del 23 maggio 2000, n. 118, si veda in nota all'art. 18, comma 3, lettera g).
 
-##### Art. 26 - Utilizzo di fondi integrativi per prestazioni sociali
+#### Art. 26 - Utilizzo di fondi integrativi per prestazioni sociali
 
 1\. L'ambito di applicazione dei fondi integrativi previsti dall'articolo 9 del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni, comprende le spese sostenute dall'assistito per le prestazioni sociali erogate nell'ambito dei programmi assistenziali intensivi e prolungati finalizzati a garantire la permanenza a domicilio ovvero in strutture residenziali o semiresidenziali delle persone anziane e disabili.
 
@@ -1394,7 +1384,7 @@ h) revisione e snellimento delle procedure relative all'accertamento dell'invali
 
 ## Capo VI - DISPOSIZIONI FINALI
 
-##### Art. 27
+#### Art. 27
 
 (Istituzione della Commissione di indagine
 
@@ -1410,7 +1400,7 @@ Le funzioni di segreteria della Commissione sono assicurate dal personale del Di
 
 5\. Gli oneri derivanti dal funzionamento della Commissione, determinati nel limite massimo di lire 250 milioni annue, sono a carico del Fondo nazionale per le politiche sociali.
 
-##### Art. 28
+#### Art. 28
 
 (Interventi urgenti per le situazioni
 
@@ -1428,7 +1418,7 @@ di poverta' estrema)
 
 > \- Per il testo dell'art. 8 del citato decreto legislativo n. 281 del 1997, si veda in nota all'art. 9, comma 2.
 
-##### Art. 29 - Disposizioni sul personale
+#### Art. 29 - Disposizioni sul personale
 
 1\. La Presidenza del Consiglio dei ministri e' autorizzata a bandire concorsi pubblici per il reclutamento di cento unita' di personale dotate di professionalita' ed esperienza in materia di politiche sociali, per lo svolgimento, in particolare, delle funzioni statali previste dalla presente legge, nonche' in materia di adozioni internazionali, politiche di integrazione degli immigrati e tutela dei minori non accompagnati. Al predetto personale non si applica la disposizione di cui all'articolo 12, comma 1, lettera c), della legge 15 marzo 1997, n. 59. Le assunzioni avvengono in deroga ai termini ed alle modalita' di cui all'articolo 39 della legge 27 dicembre 1997, n. 449, e successive modificazioni.
 
@@ -1534,7 +1524,7 @@ di poverta' estrema)
 
 > 28\. Nell'esercizio dei compiti attribuiti dall'art. 1, comma 62, della legge 23 dicembre 1996, n. 662, il Corpo della guardia di finanza agisce avvalendosi dei poteri di polizia tributaria previsti dal decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e dal decreto del Presidente della Repubblica 29 settembre 1973, n. 600. Nel corso delle verifiche previste dall'art. 1, comma 62, della legge 23 dicembre 1996, n. 662, non e' opponibile il segreto d'ufficio.
 
-##### Art. 30 - Abrogazioni
+#### Art. 30 - Abrogazioni
 
 1\. Alla data di entrata in vigore della presente legge sono abrogati l'articolo 72 della legge 17 luglio 1890, n. 6972, e il comma 45 dell'articolo 59 della legge 27 dicembre 1997, n. 449.
 

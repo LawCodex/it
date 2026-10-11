@@ -26,7 +26,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Ruolo organico
 
@@ -34,7 +34,7 @@ La dotazione organica degli operai del Corpo forestale dello Stato, fissata con 
 
 Gruppo capi operai . . . . . . . . . . . . . . . . . . . . . . N. 140 Categoria 1ª - Specializzati . . . . . . . . . . . . . . . . . N. 476 Categoria 2ª - Qualificati . . . . . . . . . . . . . . . . . . N. 804 Categoria 3ª Comuni. . . . . . . . . . . . . . . . . . . . . . N. 289
 
-### Art. 2
+## Art. 2
 
 Trattamento economico del personale operaio
 
@@ -52,13 +52,13 @@ Operai qualificati ..................................... L. 880.3 00
 
 Operai comuni .......................................... L. 833.1 00
 
-### Art. 3
+## Art. 3
 
 Stato giuridico del personale operaio
 
 Al personale operaio, di cui all'articolo 1, si applicano le disposizioni contenute negli articoli 7, 10, 11, 12, 13, 14, 15, 16 e 17 del decreto del Presidente della Repubblica 18 novembre 1965, n. 1480.
 
-### Art. 4
+## Art. 4
 
 Consiglio di amministrazione
 
@@ -72,13 +72,13 @@ Le funzioni di segretario sono esercitate da un impiegato della carriera diretti
 
 ## NORME TRANSITORIE
 
-### Art. 5
+## Art. 5
 
 Inquadramento operai di 4ª e 5ª categoria
 
 Gli operai che alla data di entrata in vigore della presente legge risultano inquadrati nella 4ª e 5ª categoria di cui all'art. 2 della legge 5 marzo 1961, n. 90, sono collocati nella categoria degli operai comuni di cui al precedente art. 1, ferma restando, ad ogni effetto di legge, l'anzianita' di servizio posseduta.
 
-### Art. 6
+## Art. 6
 
 Disposizioni per il passaggio di categoria dei salariati
 
@@ -90,7 +90,7 @@ Sulle domande di inquadramento in categoria superiore delibera il consiglio di a
 
 Per ogni operaio collocato in soprannumero deve essere lasciato vacante fino al riassorbimento un posto nella categoria inferiore.
 
-### Art. 7
+## Art. 7
 
 Trattamento economico in caso di nomina a capo operaio
 
@@ -98,7 +98,7 @@ o di passaggio a categoria superiore
 
 In caso di nomina a capo operaio o di passaggio a categoria superiore, all'operaio con retribuzione superiore a quella prevista inizialmente nella nuova categoria sono attribuiti, nella nuova posizione, gli aumenti periodici necessari per assicurare una retribuzione di importo immediatamente superiore a quello spettante al momento dell'avanzamento.
 
-### Art. 8
+## Art. 8
 
 Riconoscimento ai fini economici
 
@@ -108,7 +108,7 @@ Il servizio reso, anche in periodi discontinui in qualita' di operaio non di ruo
 
 Tale domanda dovra' essere presentata entro 90 giorni dalla data di entrata in vigore della presente legge.
 
-### Art. 9
+## Art. 9
 
 Applicabilita' agli operai del Corpo forestale dello Stato
 
@@ -116,19 +116,19 @@ delle norme di cui alla legge 5 marzo 1961, n. 90
 
 Sono applicabili agli operai del Ministero dell'agricoltura e delle foreste le norme contenute nella legge 5 marzo 1961, n. 90, che non risultino modificate dalla presente legge, e tutte le altre norme legislative concernenti gli operai dello Stato che siano compatibili con quelle contenute nella legge stessa.
 
-### Art. 10
+## Art. 10
 
 Operai adibiti a mansioni non salariali
 
 Al personale operaio adibito con carattere permanente da data anteriore al 29 marzo 1961, a mansioni di natura non salariale sono estese, a domanda, da presentarsi entro trenta giorni dalla data di entrata in vigore della presente legge, le disposizioni dell'art. 21 della legge 26 febbraio 1952, n. 67, a decorrere dalla data di entrata in vigore della presente legge.
 
-### Art. 11
+## Art. 11
 
 Nelle piante organiche del personale operaio del Ministero dell'agricoltura e delle foreste - di cui ai decreti del Presidente della Repubblica 22 settembre 1961 e 19 novembre 1961, e alla tabella XVI annessa alla legge 15 dicembre 1961, n. 1304, viene istituita la qualifica di "Capo operaio", rispettivamente per n. 3, 25 e 22 posti.
 
 In relazione all'istituzione della qualifica di capo operaio vengono ridotte di un pari numero di posti le dotazioni organiche della qualifica di "operaio specializzato", previste nelle corrispondenti piante organiche.
 
-### Art. 12
+## Art. 12
 
 Applicabilita' delle norme agli operai del
 
@@ -136,7 +136,7 @@ Ministero dell'agricoltura e delle foreste
 
 Le disposizioni contenute negli articoli 2 e seguenti della presente legge sono applicate anche agli operai permanenti del Ministero dell'agricoltura e delle foreste di cui alle piante organiche istituite con decreti del Presidente della Repubblica 22 settembre 1961, e 19 novembre 1961, nonche' agli operai permanenti dei servizi degli Istituti di incremento ippico di cui alla tabella XVI annessa alla legge 15 dicembre 1961, n. 1304.
 
-### Art. 13
+## Art. 13
 
 Onere finanziario
 

@@ -26,13 +26,9 @@ promulga
 
 la seguente legge:
 
-## Capo I - Ratifica, esecuzione
+## Capo I - Ratifica, esecuzione ed attuazione dell'accordo tra Italia e svizzera, fatto a Roma il 10 settembre 1998
 
-### ed attuazione dell'accordo tra - Italia e svizzera, fatto a Roma
-
-#### il 10 settembre 1998
-
-##### Art. 1
+### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo tra Italia e Svizzera che completa la Convenzione europea di assistenza giudiziaria in materia penale del 20 aprile 1959 e ne agevola l'applicazione, fatto a Roma il 10 settembre 1998, di seguito denominato "Accordo".
 
@@ -42,15 +38,15 @@ la seguente legge:
 
 > Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'articolo 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
-##### Art. 2
+### Art. 2
 
 1\. Ai fini del paragrafo 3 dell'articolo II dell'Accordo, costituisce truffa in materia fiscale la condotta di chi, con artifizi o raggiri, inducendo in errore l'autorita' amministrativa, procura a se' o ad altri un ingiusto profitto, con danno all'ente pubblico defraudandolo di un tributo la cui entita' comporta un reato fiscale.
 
-##### Art. 3
+### Art. 3
 
 1\. Il Ministro della giustizia non da' corso alla rogatoria nei casi previsti dal paragrafo 2 dell'articolo III dell'Accordo, nel caso in cui lo Stato richiedente non assicuri condizioni di reciprocita'.
 
-##### Art. 4
+### Art. 4
 
 1\. Quando le informazioni ricevute ai sensi dell'articolo IV dell'Accordo possono essere utilizzate in procedimenti diversi da quello per il quale sono state richieste, il magistrato che procede ne da' immediata comunicazione all'autorita' che le ha fornite, e alle sue eventuali determinazioni si conforma. Si applica l'articolo 729 del codice di procedura penale.
 
@@ -62,23 +58,23 @@ la seguente legge:
 
 > 2\. Si applica la disposizione dell'art. 191, comma 2.".
 
-##### Art. 5
+### Art. 5
 
 1\. Il Ministro della giustizia provvede sulla consegna dei beni indicati all'articolo VIII dell'Accordo, sentita l'autorita' giudiziaria procedente e previo provvedimento di cessazione delle misure cautelari cui eventualmente siano sottoposti e, nel caso di beni assoggettati a una specifica disciplina amministrativa, sentita l'eventuale amministrazione competente.
 
-##### Art. 6
+### Art. 6
 
 1\. Gli atti compiuti congiuntamente con l'autorita' straniera o a norma dell'articolo XXI dell'Accordo, hanno efficacia processuale se compiuti con l'osservanza delle norme del codice di procedura penale.
 
 2\. Nel caso di inosservanza delle norme di cui al comma 1 gli atti compiuti sono soggetti alle sanzioni processuali previste dal codice di procedura penale.
 
-##### Art. 7
+### Art. 7
 
 1\. Nel caso in cui l'imputato e' cittadino svizzero o risiede stabilmente in tale Stato, il Ministro della giustizia presenta la denuncia di cui all'articolo 21 della Convenzione di cui all'articolo 1, sentito il pubblico ministero competente per il procedimento e tenuto conto degli interessi delle parti offese.
 
 2\. Le disposizioni di cui al comma 1 si applicano anche nel caso in cui l'imputato sia cittadino italiano o risieda stabilmente in Italia.
 
-##### Art. 8
+### Art. 8
 
 1\. Quando lo Stato richiesto ha comunicato di accettare il procedimento penale a norma dell'articolo XXVI dell'Accordo, il giudice, anche a richiesta di parte, sentito il pubblico ministero, dispone con ordinanza la sospensione del procedimento penale. E' tuttavia fatto salvo il previo compimento di atti urgenti e di cui non sia possibile la ripetizione.
 
@@ -88,11 +84,9 @@ la seguente legge:
 
 4\. Nelle ipotesi di cui al paragrafo 2 dell'articolo XXVI dell'Accordo, il giudice pronuncia sentenza di non luogo a procedere.
 
-## Capo II - MODIFICHE AL CODICE PENALE
+## Capo II - MODIFICHE AL CODICE PENALE E AL CODICE DI PROCEDURA PENALE
 
-### E AL CODICE DI PROCEDURA PENALE
-
-##### Art. 9
+### Art. 9
 
 1\. All'articolo 696 del codice di procedura penale, il comma 1 e' sostituito dal seguente:
 
@@ -106,7 +100,7 @@ la seguente legge:
 
 > 2\. Se tali norme mancano o non dispongono diversamente, si applicano le norme che seguono.".
 
-##### Art. 10
+### Art. 10
 
 1\. Al comma 1 dell'articolo 724 del codice di procedura penale, le parole: "Fuori dei casi previsti dall'articolo 726," sono sostituite dalle seguenti: "Fuori dei casi previsti dagli articoli 726 e 726-ter,".
 
@@ -178,7 +172,7 @@ la seguente legge:
 
 > "3-bis. Quando si tratta di procedimenti per i delitti, consumati o tentati, di cui all'art. 416-bis o 630 del codice penale, per i delitti commessi avvalendosi delle condizioni previste dal predetto art. 461-bis ovvero al fine di agevolare l'attivita' delle associazioni previste dallo stesso articolo, nonche' per i delitti previsti dall'art. 74 del testo unico approvato con decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, e dell'art. 291-quarter del testo unico approvato con decreto del Presidente della Repubblica 23 gennaio 1973, n. 43, le funzioni indicate nel comma 1, lettera a), sono attribuite all'ufficio del pubblico ministero presso il tribunale del capoluogo del distretto nel cui ambito ha sede il giudice competente".
 
-##### Art. 11
+### Art. 11
 
 1\. Dopo l'articolo 726 del codice di procedura penale sono inseriti i seguenti:
 
@@ -226,7 +220,7 @@ Art. 726-ter. - (Rogatoria proveniente da autorita' amministrativa straniera). -
 
 > "2. Per il compimento degli atti richiesti si applicano le norme di questo codice, salva l'osservanza delle forme espressamente richieste dall'autorita' giudiziaria straniera che non siano contrarie ai principi dell'ordinamento giuridico dello Stato.".
 
-##### Art. 12
+### Art. 12
 
 1\. Dopo il comma 5 dell'articolo 727 del codice di procedura penale, sono aggiunti i seguenti:
 
@@ -254,7 +248,7 @@ Art. 726-ter. - (Rogatoria proveniente da autorita' amministrativa straniera). -
 
 > \- Il testo dell'art. 51, comma 3-bis, del codice di procedura penale, e' riportato nelle note all'art. 10.
 
-##### Art. 13
+### Art. 13
 
 1\. All'articolo 729 del codice di procedura penale, il comma 1 e' sostituito dai seguenti:
 
@@ -280,7 +274,7 @@ Art. 726-ter. - (Rogatoria proveniente da autorita' amministrativa straniera). -
 
 > \- Il testo dell'art. 727, comma 5-bis, e' riportato nelle note all'art. 12.
 
-##### Art. 14
+### Art. 14
 
 1\. Dopo il comma 2 dell'articolo 730 del codice di procedura penale, e' inserito il seguente:
 
@@ -298,7 +292,7 @@ Art. 726-ter. - (Rogatoria proveniente da autorita' amministrativa straniera). -
 
 > 3\. La richiesta alla corte di appello contiene la specificazione degli effetti per i quali il riconoscimento e' domandato.".
 
-##### Art. 15
+### Art. 15
 
 1\. Dopo l'articolo 204 delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, approvate con decreto legislativo 28 luglio 1989, n. 271, e' inserito il seguente:
 
@@ -310,7 +304,7 @@ Art. 726-ter. - (Rogatoria proveniente da autorita' amministrativa straniera). -
 
 > \- L'art. 726-ter del codice di procedura penale e' riportato nelle note all'art. 11.
 
-##### Art. 16
+### Art. 16
 
 1\. Dopo l'articolo 205 delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, approvate con decreto legislativo 28 luglio 1989, n. 271, sono inseriti i seguenti:
 
@@ -384,7 +378,7 @@ Art. 205-ter. - (Partecipazione al processo a distanza per l'imputato detenuto a
 
 > 5\. Le modalita' di cui al comma 2 possono essere altresi' adottate, a richiesta di parte, per l'esame della persona di cui e' stata disposta la nuova assunzione a norma dell'art. 495, comma 1, del codice, o quando vi siano gravi difficolta' ad assicurare la comparazione della persona da sottoporre ad esame.".
 
-##### Art. 17
+### Art. 17
 
 1\. Dopo l'articolo 384 del codice penale e' inserito il seguente:
 
@@ -424,7 +418,7 @@ Art. 205-ter. - (Partecipazione al processo a distanza per l'imputato detenuto a
 
 ## Capo III - DISPOSIZIONI TRANSITORIE E FINALI
 
-##### Art. 18
+### Art. 18
 
 1\. Le disposizioni processuali della presente legge si applicano ai procedimenti in corso che versano nella fase delle indagini preliminari ovvero nei quali e' in corso o deve aver luogo l'udienza preliminare.
 
@@ -506,13 +500,13 @@ Art. 205-ter. - (Partecipazione al processo a distanza per l'imputato detenuto a
 
 > La prescrizione riprendere il suo corso dal giorno in cui e' cessata la causa della sospensione. In caso di autorizzazione a procedere, il corso della prescrizione riprende dal giorno in cui l'autorita' competente accoglie la richiesta.".
 
-##### Art. 19
+### Art. 19
 
 1\. All'onere derivante dall'attuazione della presente legge, pari a lire 1.050 milioni annue a decorrere dall'anno 2001, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2001-2003, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 2001, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri.
 
 2\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 20
+### Art. 20
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -536,7 +530,7 @@ La Repubblica italiana e la Confederazione svizzera, desiderose di semplificare 
 
 hanno convenuto quanto segue:
 
-##### Art. I
+### Art. I
 
 Disposizioni generali
 
@@ -544,7 +538,7 @@ Disposizioni generali
 
 2\. Il paragrafo 1 non pregiudica l'applicazione delle disposizioni piu' favorevoli degli accordi bilaterali o multilaterali vigenti tra gli Stati contraenti ne' delle eventuali disposizioni nazionali piu' favorevoli nel settore dell'assistenza giudiziaria in materia penale.))
 
-##### Art. II
+### Art. II
 
 ((Campo di applicazione (Ad art. 1 della Convenzione)
 
@@ -562,7 +556,7 @@ d) nei procedimenti concernenti gli obblighi di riparazione per detenzione ingiu
 
 3\. L'assistenza giudiziaria e' concessa anche qualora il procedimento riguardi fatti che costituiscono truffa in materia fiscale cosi' come definita dal diritto dello Stato richiesto.))
 
-##### Art. III
+### Art. III
 
 ((Ne bis in idem (Ad art. 2 della Convenzione)
 
@@ -582,7 +576,7 @@ a) il procedimento instaurato nello Stato richiedente non e' diretto unicamente 
 
 b) l'esecuzione della richiesta e' tale da discolparla.))
 
-##### Art. IV
+### Art. IV
 
 ((Utilizzazione delle informazioni (specialita')
 
@@ -592,7 +586,7 @@ b) l'esecuzione della richiesta e' tale da discolparla.))
 
 3\. E' subordinata all'autorizzazione dello Stato richiesto la trasmissione a uno Stato terzo delle informazioni di cui al paragrafo 1 del presente articolo.))
 
-##### Art. V
+### Art. V
 
 ((Modalita' di esecuzione richieste (ad art. 3 della Convenzione)
 
@@ -608,7 +602,7 @@ b) l'esecuzione della richiesta e' tale da discolparla.))
 
 6\. Se necessario, lo Stato richiedente puo' esigere che lo Stato richiesto mantenga riservata la domanda di assistenza e tutto quanto ad essa connesso, purche' cio' non sia in conflitto con i principi del diritto dello Stato richiesto.))
 
-##### Art. VI
+### Art. VI
 
 ((Videoconferenza (Ad art. 3 della Convenzione)
 
@@ -644,13 +638,13 @@ L'autorita' giudiziaria dello Stato richiesto attesta altresi' che le attivita' 
 
 9\. Il collegamento mediante videoconferenza puo' essere richiesto anche nei confronti di una persona sottoposta a procedimento penale, nel caso in cui per la persona in questione non sia opportuno o possibile comparire personalmente nel territorio dello Stato richiedente. In questo caso la videoconferenza puo' essere effettuata solo dopo aver acquisito il consenso della persona in questione. E' inoltre assicurata la presenza di un difensore, il quale potra' essere presente nel luogo ove si trova la persona sottoposta a procedimento penale, oppure avanti l'autorita' giudiziaria dello Stato richiedente, nel qual caso puo' colloquiare riservatamente con il suo assistito mediante strumenti tecnici idonei.))
 
-##### Art. VII
+### Art. VII
 
 ((Diritto di pegno a vantaggio del fisco (Ad art. 3 della Convenzione)
 
 1\. Lo Stato richiesto non si avvale del diritto di pegno doganale ne' di altre garanzie reali relative al diritto delle dogane o delle imposte, quando consegna gli oggetti rinunciando alla loro restituzione, a meno che il proprietario di tali oggetti, parte lesa del reato, non sia debitore anche lui dei diritti elusi.))
 
-##### Art. VIII
+### Art. VIII
 
 ((Consegna di beni provenienti da un reato (Ad art. 3 della Convenzione)
 
@@ -658,7 +652,7 @@ L'autorita' giudiziaria dello Stato richiesto attesta altresi' che le attivita' 
 
 2\. E' riservata qualsiasi pretesa, che non sia stata soddisfatta o garantita, avanzata su tali beni da una persona estranea al reato.))
 
-##### Art. IX
+### Art. IX
 
 ((Presenza di persone straniere nello Stato richiesto (Ad art. 4 della Convenzione)
 
@@ -668,7 +662,7 @@ L'autorita' giudiziaria dello Stato richiesto attesta altresi' che le attivita' 
 
 3\. Le persone in questione non possono utilizzare nello Stato richiedente, per indagini o come mezzi di prova, le informazioni inerenti a una sfera protetta da segreto portate a loro conoscenza, prima che l'autorita' competente abbia deciso definitivamente sulla concessione e l'estensione dell'assistenza.))
 
-##### Art. X
+### Art. X
 
 ((Misure coercitive (Ad art. 5 della Convenzione)
 
@@ -688,13 +682,13 @@ e) qualsivoglia altra misura che implichi coercizione e sia prevista come tale d
 
 3\. In caso di rifiuto nelle ipotesi di cui al paragrafo 2, lettere d) ed e), l'autorita' richiesta dovra' illustrare la previsione di legge.))
 
-##### Art. XI
+### Art. XI
 
 ((Restituzione degli oggetti, dei fascicoli (per la Svizzera: "degli inserti") o dei documenti (Ad art. 6 della Convenzione)
 
 1\. Lo Stato richiedente non e' obbligato alla restituzione degli oggetti e degli originali dei fascicoli (per la Svizzera: "degli inserti") o dei documenti prevista dall'art. 6, paragrafo 2, della Convenzione, salvo che lo Stato richiesto non ne faccia espressa domanda.))
 
-##### Art. XII
+### Art. XII
 
 ((Notifica per posta (Ad art. 7 della Convenzione)
 
@@ -706,7 +700,7 @@ e) qualsivoglia altra misura che implichi coercizione e sia prevista come tale d
 
 4\. Ai fini del presente articolo la competente autorita' dello Stato richiesto fornira', su domanda della competente autorita' dello Stato richiedente, ogni notizia utile sulle generalita' e sull'indirizzo della persona a cui deve essere inviato l'atto o il provvedimento.))
 
-##### Art. XIII
+### Art. XIII
 
 ((Anticipo delle spese al testimone o al perito (Ad art. 10 della Convenzione)
 
@@ -714,7 +708,7 @@ e) qualsivoglia altra misura che implichi coercizione e sia prevista come tale d
 
 2\. Nel caso in cui uno Stato effettui una citazione nelle forme previste dall'art. XII, l'altro Stato, sul cui territorio si trova il testimone o il perito, potra' ugualmente concedere un anticipo.))
 
-##### Art. XIV
+### Art. XIV
 
 ((Consegna temporanea di persone detenute allo Stato richiesto (Ad artt. 11 e 12 della Convenzione)
 
@@ -726,7 +720,7 @@ e) qualsivoglia altra misura che implichi coercizione e sia prevista come tale d
 
 4\. Le disposizioni precedenti si applicano per analogia nel caso di transito di una persona detenuta sul territorio di uno dei due Stati.))
 
-##### Art. XV
+### Art. XV
 
 ((Consegna temporanea di persone detenute allo Stato richiedente (Ad art. 11 della Convenzione)
 
@@ -736,7 +730,7 @@ e) qualsivoglia altra misura che implichi coercizione e sia prevista come tale d
 
 3\. Il presente articolo si applica anche alla consegna prevista all'art. 19, paragrafo 2, della Convenzione europea di estradizione del 13 dicembre 1957, prima che una decisione in merito all'estradizione sia stata adottata.))
 
-##### Art. XVI
+### Art. XVI
 
 ((Forma e contenuto delle domande (Ad art. 14 della Convenzione)
 
@@ -748,7 +742,7 @@ b) se necessario, l'indicazione precisa dei motivi per i quali l'autorita' richi
 
 2\. Per consentire una piu' rapida definizione dei procedimenti, il Ministero di grazia e giustizia e l'Ufficio federale di polizia provvedono a predisporre, d'accordo tra loro, appositi moduli che potranno essere utilizzati per la redazione delle domande di assistenza giudiziaria da trasmettere con i documenti necessari.))
 
-##### Art. XVII
+### Art. XVII
 
 ((Vie di trasmissione (Ad art. 15 della Convenzione)
 
@@ -762,7 +756,7 @@ b) se necessario, l'indicazione precisa dei motivi per i quali l'autorita' richi
 
 5\. Le domande di estratti del casellario giudiziale ai fini penali, comprese quelle relative alla cancellazione dell'iscrizione al casellario, sono indirizzate da una parte all'Ufficio del Casellario presso il Ministero di grazia e giustizia e dall'altra parte all'Ufficio federale di polizia.))
 
-##### Art. XVIII
+### Art. XVIII
 
 ((Richieste di assistenza giudiziaria relative a casi di criminalita' organizzata, di corruzione o di altri gravi reati
 
@@ -776,13 +770,13 @@ b) in Svizzera, la decisione sulle domande di assistenza giudiziaria e sulle ric
 
 3\. Queste autorita' possono prendere contatti diretti tra loro.))
 
-##### Art. XIX
+### Art. XIX
 
 ((Trattazione dei casi che riguardano piu' autorita'
 
 1\. Nel caso in cui l'esecuzione di una domanda necessiti di indagini che coinvolgono piu' autorita', competenti dello Stato richiesto, tale domanda e' indirizzata all'autorita' centrale di quest'ultimo, la quale adotta tutte le misure previste dal diritto nazionale per assicurare una rapida esecuzione della domanda.))
 
-##### Art. XX
+### Art. XX
 
 ((Esecuzione semplificata
 
@@ -790,25 +784,25 @@ b) in Svizzera, la decisione sulle domande di assistenza giudiziaria e sulle ric
 
 2\. Se la consegna concerne soltanto una parte dei documenti, delle informazioni o dei valori, lo Stato richiesto da' seguito per il rimanente alla procedura d'assistenza.))
 
-##### Art. XXI
+### Art. XXI
 
 ((Indagini comuni
 
 1\. Nell'ambito di fatti oggetto di procedimenti penali in ciascuno dei due Stati, le autorita' giudiziarie interessate, eventualmente accompagnate da organi di polizia possono, previa informazione al Ministero di grazia e giustizia, Direzione generale degli affari penali - Ufficio II e all'Ufficio federale di polizia, operare congiuntamente in seno a gruppi d'indagine comuni.))
 
-##### Art. XXII
+### Art. XXII
 
 ((Lingua (Ad art. 16 della Convenzione)
 
 1\. Non e' richiesta la traduzione delle domande e degli atti allegati presentati secondo la Convenzione o il presente Accordo.))
 
-##### Art. XXIII
+### Art. XXIII
 
 ((Rimborso di spese (Ad art. 20 della Convenzione)
 
 1\. Oltre al rimborso delle spese di cui all'art. VI, paragrafo 7, del presente Accordo, sono rimborsate le spese per la consegna di beni e valori al fine della restituzione alla parte lesa nonche' le spese straordinarie derivanti dall'esecuzione, secondo l'art. V, paragrafo 1, del presente Accordo, delle richieste di assistenza giudiziaria.))
 
-##### Art. XXIV
+### Art. XXIV
 
 ((Accettazione della denuncia ai fini di perseguimenti (Ad art. 21 della Convenzione)
 
@@ -816,7 +810,7 @@ b) in Svizzera, la decisione sulle domande di assistenza giudiziaria e sulle ric
 
 2\. Quando il diritto dei due Stati esige che sia sporta querela, quella presentata dalla parte lesa in tempo utile presso l'autorita' competente dello Stato richiedente ha effetto anche nello Stato richiesto. Nel caso in cui sia necessaria unicamente secondo il diritto dello Stato richiesto, la querela deve essere presentata in seguito presso l'autorita' competente di tale Stato, entro il termine legale a decorrere dalla data del ricevimento della denuncia.))
 
-##### Art. XXV
+### Art. XXV
 
 ((Documenti a sostegno di una denuncia ai fini di perseguimenti
 
@@ -830,7 +824,7 @@ c) da una copia delle norme penali applicabili secondo il diritto dello Stato ri
 
 d) da ogni informazione utile relativa all'identita' e all'indirizzo della persona da perseguire.))
 
-##### Art. XXVI
+### Art. XXVI
 
 ((Effetti dell'accettazione della denuncia ai fini di perseguimenti
 
@@ -850,13 +844,13 @@ c) l'esecuzione della sanzione penale e' parzialmente o totalmente sospesa o se 
 
 5\. Gli articoli da XXIV a XXVI del presente Accordo si applicano anche alla procedura regolata dall'art. 6, paragrafo 2, della Convenzione europea di estradizione del 13 dicembre 1957.))
 
-##### Art. XXVII
+### Art. XXVII
 
 ((Scambio di decisioni di condanna (Ad art. 22 della Convenzione)
 
 1\. Su espressa domanda e per singoli casi, le autorita' giudiziarie dei due Stati si trasmettono copia autenticata dei provvedimenti penali adottati contro i loro cittadini per permettere all'autorita' giudiziaria richiedente di esaminare se sia necessario adottare misure sul piano interno.))
 
-##### Art. XXVIII
+### Art. XXVIII
 
 ((Comunicazione spontanea di informazioni
 
@@ -868,7 +862,7 @@ b) queste informazioni potrebbero concludersi con una domanda formulata da quest
 
 2\. La comunicazione di queste informazioni non deve pregiudicare le proprie indagini o procedimenti penali.))
 
-##### Art. XXIX
+### Art. XXIX
 
 ((Conseguenze della denuncia della Convenzione (Ad art. 29 della Convenzione)
 
@@ -876,7 +870,7 @@ b) queste informazioni potrebbero concludersi con una domanda formulata da quest
 
 2\. Il presente Accordo si estingue alla data in cui avra' effetto la denuncia della Convenzione.))
 
-##### Art. XXX
+### Art. XXX
 
 ((Scambi di opinioni e soluzioni di controversie
 
@@ -894,13 +888,13 @@ b) queste informazioni potrebbero concludersi con una domanda formulata da quest
 
 7\. Le decisioni del tribunale arbitrale sono definitive e obbligatorie per i due Stati.))
 
-##### Art. XXXI
+### Art. XXXI
 
 ((Riserve e dichiarazioni formulate in relazione alla Convenzione
 
 1\. Le riserve e le dichiarazioni formulate dall'Italia e dalla Svizzera alla Convenzione si applicano, nelle relazioni tra i due Stati, nella misura in cui esse non sono modificate dalle disposizioni del presente Accordo.))
 
-##### Art. XXXII
+### Art. XXXII
 
 ((Entrata in vigore
 
@@ -908,7 +902,7 @@ b) queste informazioni potrebbero concludersi con una domanda formulata da quest
 
 2\. Il presente Accordo entra in vigore il primo giorno del secondo mese successivo alla data di ricezione della seconda notifica.))
 
-##### Art. XXXIII
+### Art. XXXIII
 
 ((D e n u n c i a
 

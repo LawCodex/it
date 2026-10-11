@@ -26,13 +26,13 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Ruoli organici del Corpo forestale dello Stato
 
 I ruoli organici del personale del Corpo forestale dello Stato sono stabiliti nelle tabelle I, II, III, IV, V e VI annesse alla presente legge.
 
-### Art. 2
+## Art. 2
 
 Soppressione dei ruoli del personale dei
 
@@ -40,7 +40,7 @@ servizi dell'economia montana e delle foreste
 
 Il ruolo tecnico superiore, quello ad esaurimento, nonche' i ruoli della carriera di concetto ed esecutiva ed il ruolo dei sottufficiali, delle guardie scelte, e delle guardie dei servizi dell'economia montana e delle foreste di cui ai quadri 15-a, 15-b, 33, 53 e 81 allegati al decreto del Presidente della Repubblica 11 gennaio 1956, n. 16, e successive modificazioni, sono soppressi.
 
-### Art. 3
+## Art. 3
 
 Modifica delle tabelle VIII, IX e XIV allegate
 
@@ -48,7 +48,7 @@ alla legge 15 dicembre 1961, n. 1301.
 
 Le tabelle VIII, IX e XIV, annesse alla legge 15 dicembre 1961, n. 1304, sono sostituite dalle tabelle VII, VIII e IX annesse alla presente legge.
 
-### Art. 4
+## Art. 4
 
 Istituzione di sezioni specializzate presso gli
 
@@ -56,7 +56,7 @@ ispettori regionali e ripartimentali delle foreste
 
 Il Ministro per l'agricoltura e per le foreste e' autorizzato ad istituire presso gli Ispettorati regionali e ripartimentali delle foreste mediante decreto da pubblic rare nella Gazzetta Ufficiale, Sezioni specializzate per le opere pubbliche e di bonifica montana o per l'economia agro-silvo-pastorale, ed altre eventuali, in relazione alle esigenze funzionali di detti uffici ed alle specifiche caratteristiche delle circoscrizioni territoriali.
 
-### Art. 5
+## Art. 5
 
 Distaccamenti e stazioni forestali
 
@@ -64,7 +64,7 @@ Il Ministro per l'agricoltura e per le foreste e' autorizzato ad istituire dista
 
 Ai distaccamenti sono preposti, di norma, marescialli dei tre gradi; alle stazioni sono preposti, di norma brigadieri e vicebrigadieri.
 
-### Art. 6
+## Art. 6
 
 Uso degli automezzi per missionari di servizio
 
@@ -74,7 +74,7 @@ Gli stessi ispettori determinano i limiti di percorrenza trimestrali entro i qua
 
 Per quanto non previsto dai due precedenti commi, si applica l'articolo 13 della legge 15 aprile 1961, n. 291.
 
-### Art. 7
+## Art. 7
 
 Norme per l'avanzamento
 
@@ -90,7 +90,7 @@ Nulla e' innovato per l'avanzamento ai gradi di vice brigadiere, di maresciallo 
 
 Il giudizio per la idoneita' e la valutazione del merito comparativo sui promuovendi sono demandati al Consiglio di amministrazione del Corpo forestale dello Stato.
 
-### Art. 8
+## Art. 8
 
 Estensione delle disposizioni degli articoli 27, 28,
 
@@ -98,7 +98,7 @@ Estensione delle disposizioni degli articoli 27, 28,
 
 Le disposizioni di cui agli articoli 27, 28, 31 e 46 della legge 15 dicembre 1961, n. 1304, si applicano anche nei confronti del personale proveniente dal soppresso Ufficio nazionale statistico economico dell'agricoltura, inquadrato nei ruoli di cui alle tabelle I, III, IV e V annesse alla presente legge.
 
-### Art. 9
+## Art. 9
 
 Trattamento economico del personale appartenente al ruolo transitorio istituito con il decreto del Presidente della Repubblica 2 maggio 1953, n. 604.
 
@@ -106,7 +106,7 @@ Al personale appartenente al ruolo transitorio istituito con il decreto del Pres
 
 A tal fine la qualifica di sorvegliante capo e' equiparata al grado di brigadiere del Corpo forestale dello Stato e le qualifiche di sorvegliante di la e di 2ª classe sono equiparate al grado di guardia scelta del Corpo forestale dello Stato.
 
-### Art. 10
+## Art. 10
 
 Riserva di posti per sottufficiali e guardie
 
@@ -136,7 +136,7 @@ AGGIORNAMENTO (2)
 
 \- Il regolamento di cui all'art. 23-bis, comma 4 del D.Lgs. 12 maggio 1995, n. 201, come modificato dal D.Lgs. 28 febbraio 2001, n. 87, e' stato emanato con Decreto 7 ottobre 2005, n. 228, pubblicato in G.U. 04/11/2005, n. 257.
 
-### Art. 11
+## Art. 11
 
 Modalita' per il passaggio nella carriera esecutiva del Corpo forestale dello Stato ed in quella ausiliaria del Ministero dell'agricoltura e delle foreste.
 
@@ -156,7 +156,7 @@ AGGIORNAMENTO (2)
 
 \- Il regolamento di cui all'art. 23-bis, comma 4 del D.Lgs. 12 maggio 1995, n. 201, come modificato dal D.Lgs. 28 febbraio 2001, n. 87, e' stato emanato con Decreto 7 ottobre 2005, n. 228, pubblicato in G.U. 04/11/2005, n. 257.
 
-### Art. 12
+## Art. 12
 
 Trattamento economico per il personale proveniente dai sottufficiali, dalle guardie scelte e guardie del Corpo forestale dello Stato.
 
@@ -174,7 +174,7 @@ AGGIORNAMENTO (2)
 
 ## NORME TRANSITORIE E FINALI
 
-### Art. 13
+## Art. 13
 
 Collocamento del personale nei nuovi ruoli
 
@@ -188,7 +188,7 @@ Il collocamento del personale nei ruoli organici di cui alle predette tabelle e'
 
 In ciascuna qualifica o grado attribuito, l'ordine di successione e' determinato dalla anzianita' posseduta e dalla posizione acquisita nella qualifica o grado di appartenenza, alla data di entrata in vigore della presente legge.
 
-### Art. 14
+## Art. 14
 
 Inquadramento del personale dei ruoli aggiunti
 
@@ -198,7 +198,7 @@ Il personale di cui al precedente comma e' inserito nelle predette qualifiche do
 
 Le norme di cui ai precedenti commi e quelle dell'articolo 23 della legge 15 dicembre 1961, n. 1304, si applicano anche nei confronti del personale in servizio alla data di entrata in vigore della presente legge che sara' inquadrato nei ruoli aggiunti corrispondenti ai ruoli organici del Ministero dell'agricoltura e delle foreste, successivamente alla data di entrata in vigore della legge stessa.
 
-### Art. 15
+## Art. 15
 
 Conferimento del grado di vice brigadiere mediante esame di idoneita'
 
@@ -214,7 +214,7 @@ d) non abbiano riportato sanzioni disciplinari nei due anni precedenti la data d
 
 Il requisito di cui alla lettera a) deve essere posseduto alla data di scadenza del termine stabilito per la presentazione delle domande di partecipazione all'esame.
 
-### Art. 16
+## Art. 16
 
 Svolgimento dell'esame di idoneita'
 
@@ -232,7 +232,7 @@ La nomina a vice brigadiere e' conferita con decreto del Ministro nell'ordine de
 
 Il giudizio sull'idoneita' e la formazione della graduatoria sono demandati ad una Commissione esaminatrice nominata con decreto del Ministro e composta: da un ispettore generale del ruolo tecnico superiore del Corpo forestale dello Stato, che la presiede e da quattro impiegati dello stesso ruolo con la qualifica no inferiore ad ispettore principale. Esercita le funzioni di segretario un impiegato con la qualifica non inferiore ad ispettore ed equiparata.
 
-### Art. 17
+## Art. 17
 
 Norme per la promozione a primo archivista dei
 
@@ -240,7 +240,7 @@ sottufficiali transitati nella carriera esecutiva
 
 I sottufficiali del Corpo forestale dello Stato collocati nella carriera esecutiva a norma dei precedenti articoli, non possono essere scrutinati per la promozione a primo archivista, fino a quando il personale in ruolo o pervenuto nel ruolo a seguito del concorso, bandito precedentemente alla data di entrata in vigore della presente legge, non abbia maturato la prescritta anzianita' per la promozione a tale qualifica.
 
-### Art. 18
+## Art. 18
 
 Riserva di posti per i dipendenti non di ruolo
 
@@ -248,7 +248,7 @@ Nel primo triennio di applicazione della presente legge, tutti i posti disponibi
 
 Le modalita' dei concorsi di cui al precedente comma sono determinate dal Ministro per l'agricoltura e per le foreste con i decreti con i quali i concorsi stessi vengono indetti.
 
-### Art. 19
+## Art. 19
 
 Riduzione del periodo di anzianita' per le promozioni
 
@@ -258,13 +258,13 @@ Per i primi ai concorsi che saranno banditi dopo l'entrata in vigore della prese
 
 Le riduzioni di anzianita' di cui ai precedenti comuni non si applicano al personale che abbia gia' fruito di analogo beneficio in base a norme relative alle carriere del Ministero dell'agricoltura e delle foreste, in precedenti promozioni.
 
-### Art. 20
+## Art. 20
 
 Norme finanziarie
 
 I proventi netti, finora non utilizzati, derivanti dalla passione di grano estero, affluiranno, fino all'importo di lire 2.400 milioni, ad apposito conto corrente di Tesoreria dal quale saranno prelevati per essere versati allo stato di previsione dell'entrata a copertura degli oneri recati dalla presente legge.
 
-### Art. 21
+## Art. 21
 
 Copertura della spesa
 
@@ -272,7 +272,7 @@ Agli oneri di lire 400 milioni e di lire 2.000 milioni, derivanti dall'applicazi
 
 Il Ministro per il tesoro e' autorizzato a provvedere, con propri decreti, alle occorrenti variazioni di bilancio negli esercizi sopraindicati.
 
-### Art. 22
+## Art. 22
 
 Decorrenza delle legge
 
@@ -290,7 +290,7 @@ Visto, il Guardasigilli: BOSCO
 
 ## NORME TRANSITORIE E FINALI
 
-### Tabelle
+## Tabelle
 
 TABELLA I
 

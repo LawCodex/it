@@ -30,19 +30,19 @@ Promulga
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo quadro globale di partenariato e cooperazione tra l'Unione europea e i suoi Stati membri, da una parte, e la Repubblica socialista del Vietnam, dall'altra, fatto a Bruxelles il 27 giugno 2012.
 
-#### Art. 2
+### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 63 dell'Accordo stesso.
 
-#### Art. 3
+### Art. 3
 
 Copertura finanziaria
 
@@ -54,7 +54,7 @@ Copertura finanziaria
 
 4\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 4
+### Art. 4
 
 Entrata in vigore
 
@@ -192,7 +192,7 @@ Constatando che le disposizioni del presente accordo, che rientrano nell'ambito 
 
 Hanno convenuto quanto segue:
 
-#### Art. 1
+### Art. 1
 
 Principi generali
 
@@ -208,7 +208,7 @@ Principi generali
 
 6\. Le parti convengono che la cooperazione ai sensi del presente accordo si svolgera' nel rispetto dei rispettivi ordinamenti, normative e regolamentazioni nazionali.
 
-#### Art. 2
+### Art. 2
 
 Obiettivi della cooperazione
 
@@ -238,7 +238,7 @@ j) accentuare il ruolo e la visibilita' di ciascuna parte nella regione dell'alt
 
 k) promuovere la comprensione fra le rispettive popolazioni, anche tramite la cooperazione tra organizzazioni quali gruppi di riflessione, universita', imprese e media, attraverso seminari, conferenze, interazione fra i giovani e altre attivita'.
 
-#### Art. 3
+### Art. 3
 
 Cooperazione nell'ambito
 
@@ -248,7 +248,7 @@ delle organizzazioni regionali e internazionali
 
 2\. Le parti convengono inoltre di promuovere la cooperazione nei suddetti ambiti tra gruppi di riflessione, universita', ONG, imprese e media tramite l'organizzazione di seminari, conferenze e altre attivita' connesse, a condizione che tale cooperazione si basi su un reciproco consenso.
 
-#### Art. 4
+### Art. 4
 
 Cooperazione bilaterale e regionale
 
@@ -258,7 +258,7 @@ Cooperazione bilaterale e regionale
 
 ## Titolo II - COOPERAZIONE ALLO SVILUPPO
 
-#### Art. 5
+### Art. 5
 
 Principi generali
 
@@ -266,7 +266,7 @@ Principi generali
 
 2\. Le parti convengono di promuovere le attivita' di cooperazione nel rispetto delle rispettive procedure e risorse.
 
-#### Art. 6
+### Art. 6
 
 Finalita' della cooperazione
 
@@ -284,7 +284,7 @@ e) prevenire e affrontare le conseguenze dei cambiamenti climatici;
 
 f) sostenere politiche e strumenti che favoriscano un'integrazione progressiva nell'economia e negli scambi mondiali.
 
-#### Art. 7
+### Art. 7
 
 Forme di cooperazione
 
@@ -302,7 +302,7 @@ d) lo scambio di informazioni circa le migliori pratiche in materia di efficacia
 
 ## Titolo III - PACE E SICUREZZA
 
-#### Art. 8
+### Art. 8
 
 Lotta alla proliferazione delle armi
 
@@ -318,7 +318,7 @@ b) creando, nei limiti delle rispettive capacita', un efficace sistema di contro
 
 3\. Le parti convengono di intrattenere un regolare dialogo politico che accompagnera' e consolidera' gli elementi suddetti.
 
-#### Art. 9
+### Art. 9
 
 Cooperazione nella lotta contro il commercio illecito
 
@@ -332,7 +332,7 @@ in tutti i loro aspetti
 
 3\. Le parti si impegnano ad avviare, se necessario, un dialogo finalizzato allo scambio di opinioni e informazioni, a sviluppare una comprensione comune delle questioni e dei problemi connessi al commercio illecito di armi leggere e di piccolo calibro e a rafforzare la capacita' delle parti di prevenire, combattere ed eliminare tale commercio.
 
-#### Art. 10
+### Art. 10
 
 Cooperazione in materia di lotta al terrorismo
 
@@ -354,7 +354,7 @@ f) promuovendo la cooperazione tra gli Stati membri delle Nazioni Unite onde att
 
 g) condividendo le migliori pratiche in materia di tutela dei diritti umani nella lotta contro il terrorismo.
 
-#### Art. 11
+### Art. 11
 
 Cooperazione giudiziaria
 
@@ -366,11 +366,9 @@ Cooperazione giudiziaria
 
 4\. Le parti individuano nella Corte penale internazionale un'istituzione progressiva e indipendente il cui operato e' finalizzato alla pace e alla giustizia internazionali. Le parti concordano di cooperare al fine di potenziare il quadro giuridico atto a prevenire e a punire i crimini piu' gravi che riguardano la comunita' internazionale, e di prendere in considerazione la possibilita' di aderire allo Statuto di Roma. Le parti convengono che sarebbero proficui il dialogo e la cooperazione al riguardo.
 
-## Titolo IV - COOPERAZIONE IN MATERIA
+## Titolo IV - COOPERAZIONE IN MATERIA DI SCAMBI E INVESTIMENTI
 
-### DI SCAMBI E INVESTIMENTI
-
-#### Art. 12
+### Art. 12
 
 Principi generali
 
@@ -388,7 +386,7 @@ Principi generali
 
 7\. Nell'intento di mettere a frutto le singole potenzialita' e la loro complementarieta' economica, le parti si impegnano ad esplorare e cercare ulteriori opportunita' e soluzioni per potenziare le loro relazioni in materia di scambi e investimenti anche, eventualmente, negoziando accordi di libero scambio o di altra natura vantaggiosi per entrambe.
 
-#### Art. 13
+### Art. 13
 
 Sviluppo del commercio
 
@@ -396,7 +394,7 @@ Sviluppo del commercio
 
 2\. Per promuovere gli scambi e gli investimenti tra di esse, le parti si avvalgono pienamente degli aiuti al commercio e di altri programmi complementari di assistenza.
 
-#### Art. 14
+### Art. 14
 
 Questioni sanitarie e fitosanitarie
 
@@ -412,7 +410,7 @@ e benessere degli animali
 
 5\. Le parti designano punti di contatto per le comunicazioni sulle questioni di cui al presente articolo.
 
-#### Art. 15
+### Art. 15
 
 Ostacoli tecnici agli scambi
 
@@ -422,7 +420,7 @@ Ostacoli tecnici agli scambi
 
 3\. La cooperazione in materia di ostacoli tecnici agli scambi si svolge, tra l'altro, mediante il dialogo attraverso i canali preposti, progetti comuni e programmi di assistenza tecnica e di potenziamento della capacita'. All'occorrenza, le parti designano punti di contatto per le comunicazioni sulle questioni di cui al presente articolo.
 
-#### Art. 16
+### Art. 16
 
 Cooperazione in materia doganale
 
@@ -450,13 +448,13 @@ c) ad assicurare un approccio che equilibri la facilitazione degli scambi e la l
 
 4\. Le parti si impegnano a mobilitare le risorse di assistenza tecnica per sostenere l'attuazione della cooperazione in materia doganale e della regolamentazione in materia di facilitazione degli scambi di cui al presente accordo.
 
-#### Art. 17
+### Art. 17
 
 Investimenti
 
 Le parti incentivano maggiori flussi di investimento creando un ambiente per gli investimenti piu' attraente e stabile grazie ad un dialogo regolare inteso ad una maggiore comprensione e cooperazione in materia, vagliando dispositivi amministrativi atti ad agevolare i flussi di investimento, promuovendo norme stabili, trasparenti e aperte e garantendo ai propri investitori di operare in condizioni di parita'.
 
-#### Art. 18
+### Art. 18
 
 Politica della concorrenza
 
@@ -464,13 +462,13 @@ Politica della concorrenza
 
 2\. A tal fine, in fase di elaborazione e applicazione delle norme e dei regolamenti in materia di concorrenza, le parti possono varare interventi di potenziamento della capacita' e altre attivita' di cooperazione, compatibilmente con gli stanziamenti disponibili a titolo dei rispettivi strumenti e programmi di cooperazione.
 
-#### Art. 19
+### Art. 19
 
 Servizi
 
 Le parti istituiscono un dialogo regolare che consenta loro segnatamente di: scambiarsi informazioni sui rispettivi contesti regolamentari al fine di individuare le migliori pratiche; promuovere l'accesso ai rispettivi mercati, anche del commercio elettronico; rendere piu' accessibili le fonti di capitale e le tecnologie; facilitare gli scambi di servizi tra entrambe le regioni e sui mercati dei Paesi terzi.
 
-#### Art. 20
+### Art. 20
 
 Tutela dei diritti di proprieta' intellettuale
 
@@ -480,7 +478,7 @@ Tutela dei diritti di proprieta' intellettuale
 
 3\. La cooperazione si realizza secondo le modalita' convenute dalle parti, anche attraverso lo scambio di informazioni e esperienze su aspetti quali l'applicazione pratica, la promozione, la diffusione, la semplificazione, la gestione, l'armonizzazione, la tutela, attuazione e applicazione effettiva dei diritti di proprieta' intellettuale, la prevenzione delle violazioni di tali diritti e la lotta alla pirateria e alla contraffazione, ivi inclusi la creazione e il potenziamento delle organizzazioni preposte al controllo e alla tutela di questi diritti.
 
-#### Art. 21
+### Art. 21
 
 Maggiore partecipazione degli attori economici
 
@@ -488,17 +486,15 @@ Maggiore partecipazione degli attori economici
 
 2\. Le parti incoraggiano un dialogo tra i rispettivi enti di regolamentazione e attori del settore privato al fine di discutere sugli ultimi sviluppi del clima degli scambi e degli investimenti, di esplorare le necessita' di sviluppo del settore privato e di scambiare opinioni circa i quadri strategici atti a potenziare la competitivita' delle imprese.
 
-#### Art. 22
+### Art. 22
 
 Consultazioni
 
 Onde garantire sicurezza e prevedibilita' alle loro relazioni commerciali bilaterali, le parti convengono di consultarsi quanto prima possibile e in tempi rapidi, su richiesta di una di esse, su eventuali contrasti che potrebbero sorgere nell'ambito delle questioni commerciali o connesse agli scambi di cui al presente titolo.
 
-## Titolo V - COOPERAZIONE NEL SETTORE
+## Titolo V - COOPERAZIONE NEL SETTORE DELLA GIUSTIZIA
 
-### DELLA GIUSTIZIA
-
-#### Art. 23
+### Art. 23
 
 Lotta alla criminalita' organizzata
 
@@ -506,7 +502,7 @@ Le parti convengono di cooperare per combattere la criminalita' organizzata, la 
 
 Tale cooperazione intende, in particolare, attuare e promuovere le norme e gli strumenti internazionali pertinenti, quali la convenzione delle Nazioni Unite contro la criminalita' organizzata transnazionale e relativi protocolli addizionali e la convenzione delle Nazioni Unite contro la corruzione, ove applicabili.
 
-#### Art. 24
+### Art. 24
 
 Cooperazione nella lotta contro il riciclaggio
 
@@ -516,7 +512,7 @@ di denaro e il finanziamento del terrorismo
 
 2\. Le due parti convengono di promuovere la formazione e l'assistenza tecnica ai fini dell'elaborazione e dell'attuazione delle normative e dell'efficiente funzionamento dei meccanismi di lotta contro il riciclaggio di denaro e il finanziamento del terrorismo. In particolare, la cooperazione consente lo scambio delle pertinenti informazioni tre le autorita' competenti delle parti, nell'ambito delle rispettive normative, sulla base di norme appropriate per la lotta al riciclaggio di denaro e al finanziamento del terrorismo equivalenti a quelle adottate dalle parti e dagli organi internazionali che operano nel settore, come la task force «Azione finanziaria» (FATF).
 
-#### Art. 25
+### Art. 25
 
 Cooperazione nella lotta agli stupefacenti
 
@@ -526,7 +522,7 @@ Cooperazione nella lotta agli stupefacenti
 
 3\. La cooperazione tra le parti comprende l'assistenza tecnica e amministrativa in particolare nei seguenti settori: elaborazione della legislazione e delle politiche nazionali; creazione di istituzioni e centri di informazione e di monitoraggio nazionali; formazione del personale; ricerca sugli stupefacenti; sforzi intesi a ridurre la domanda di stupefacenti e i danni da essi causati e cooperazione giudiziaria e di polizia e controllo efficace sui precursori per la produzione illecita di stupefacenti e sostanze psicotrope. Le parti possono concordare l'inclusione di altri settori.
 
-#### Art. 26
+### Art. 26
 
 Protezione dei dati personali
 
@@ -534,11 +530,9 @@ Protezione dei dati personali
 
 2\. La cooperazione sulla protezione dei dati personali puo' comprendere, tra l'altro, l'assistenza tecnica sotto forma di scambio d'informazioni e conoscenze.
 
-## Titolo VI - SVILUPPO SOCIOECONOMICO
+## Titolo VI - SVILUPPO SOCIOECONOMICO E ALTRI SETTORI DI COOPERAZIONE
 
-### E ALTRI SETTORI DI COOPERAZIONE
-
-#### Art. 27
+### Art. 27
 
 Cooperazione in materia di migrazione
 
@@ -574,7 +568,7 @@ Le parti forniscono ai propri cittadini documenti d'identita' adeguati a tal fin
 
 4\. Nel rispetto delle normative e delle procedure rispettive, le parti potenzieranno la cooperazione in materia di riammissione nell'intento di negoziare, su richiesta di una parte e come consensualmente convenuto, un accordo tra l'UE e il Vietnam di riammissione dei rispettivi cittadini.
 
-#### Art. 28
+### Art. 28
 
 Istruzione e formazione
 
@@ -586,7 +580,7 @@ Istruzione e formazione
 
 4\. Le parti convengono inoltre di avviare un dialogo sulle questioni di reciproco interesse riguardanti la modernizzazione dei sistemi d'istruzione superiore e dei sistemi di formazione tecnica e professionale, con eventuali misure di assistenza tecnica intese, tra l'altro, a migliorare il quadro delle qualifiche e la garanzia di qualita'.
 
-#### Art. 29
+### Art. 29
 
 Sanita'
 
@@ -608,7 +602,7 @@ f) la prevenzione e il controllo delle malattie non trasmissibili, tramite lo sc
 
 3\. Le parti riconoscono l'importanza dell'ulteriore modernizzazione del settore sanitario e convengono di potenziare la capacita' e l'assistenza tecnica in questo ambito.
 
-#### Art. 30
+### Art. 30
 
 Ambiente e risorse naturali
 
@@ -642,7 +636,7 @@ j) potenziare la capacita' di gestione fondiaria, garantire un'economia fondiari
 
 5\. A tal fine, le parti si impegnano a potenziare la cooperazione in ambito bilaterale e multilaterale, anche tramite programmi di assistenza tecnica volti a promuovere lo sviluppo, il trasferimento e l'utilizzo di tecnologie rispettose dell'ambiente, e tramite iniziative e accordi di partenariato basati sul principio del reciproco vantaggio per la rapida realizzazione degli obiettivi di sviluppo del millennio.
 
-#### Art. 31
+### Art. 31
 
 Cooperazione in materia
 
@@ -672,7 +666,7 @@ d) intensificano il potenziamento della capacita' e delle istituzioni al fine di
 
 e) promuovono le azioni di sensibilizzazione, rivolte soprattutto alle popolazioni piu' esposte o che vivono in aree vulnerabili, e agevolano la partecipazione delle comunita' locali agli interventi in risposta ai cambiamenti climatici.
 
-#### Art. 32
+### Art. 32
 
 Agricoltura, foreste, allevamento,
 
@@ -704,7 +698,7 @@ k) sostegno e promozione della gestione sostenibile delle foreste, compreso l'ad
 
 2\. Le parti convengono di vagliare le possibilita' di assistenza tecnica in materia di produzione vegetale e allevamento, che comprenda, ma non esclusivamente, il miglioramento della produttivita' animale e vegetale e la qualita' dei prodotti e convengono inoltre di prendere in considerazione l'istituzione di programmi di potenziamento della capacita' intesi a sviluppare la capacita' gestionale in questo settore.
 
-#### Art. 33
+### Art. 33
 
 Cooperazione in materia di parita' di genere
 
@@ -716,7 +710,7 @@ a) garantire che le strategie, le politiche e i programmi di sviluppo tengano de
 
 b) consentire lo scambio di esperienze e modelli per la promozione della parita' di genere e promuovere l'adozione di misure positive in favore delle donne.
 
-#### Art. 34
+### Art. 34
 
 Cooperazione in materia di residuati bellici
 
@@ -726,7 +720,7 @@ a) la condivisione di esperienze, il dialogo, il potenziamento della capacita' g
 
 b) la comunicazione e l'informazione sulla prevenzione degli incidenti causati da ordigni e mine e la riabilitazione e il reinserimento sociale delle vittime di ordigni e mine.
 
-#### Art. 35
+### Art. 35
 
 Cooperazione in materia di diritti umani
 
@@ -744,7 +738,7 @@ c) il potenziamento dell'attuale dialogo in materia di diritti umani;
 
 d) il potenziamento della collaborazione in seno alle istituzioni delle Nazioni Unite che si occupano di diritti umani.
 
-#### Art. 36
+### Art. 36
 
 Riforma della pubblica amministrazione
 
@@ -766,7 +760,7 @@ g) riformando il servizio pubblico, gli enti e le procedure amministrative;
 
 h) potenziando la capacita' di ammodernamento dell'amministrazione pubblica.
 
-#### Art. 37
+### Art. 37
 
 Associazioni e organizzazioni non governative
 
@@ -782,7 +776,7 @@ c) ricevere risorse finanziarie, compatibilmente con le norme interne di ciascun
 
 d) partecipare all'attuazione dei programmi di cooperazione nei settori che le riguardano.
 
-#### Art. 38
+### Art. 38
 
 Cultura
 
@@ -792,7 +786,7 @@ Cultura
 
 3\. Le parti convengono di consultarsi e di collaborare nei pertinenti consessi internazionali, quali l'UNESCO, al fine di perseguire obiettivi comuni e promuovere la diversita' culturale nonche' tutelare il patrimonio culturale. In tal senso, esse convengono di promuovere la ratifica della Convenzione dell'UNESCO sulla protezione e la promozione della diversita' delle espressioni culturali, adottata il 20 ottobre 2005, e di intensificare la cooperazione finalizzata alla sua attuazione, ponendo l'accento sul dialogo politico e integrando le tematiche culturali nelle strategie di sviluppo sostenibile e di riduzione della poverta', affinche', agevolando lo sviluppo delle industrie culturali, possa fiorire un settore culturale dinamico. Le parti ribadiscono l'impegno volto ad incoraggiare la ratifica di tale convenzione da parte di altri Stati.
 
-#### Art. 39
+### Art. 39
 
 Cooperazione scientifica e tecnologica
 
@@ -830,7 +824,7 @@ b) incoraggiare l'integrazione della ricerca e dello sviluppo nei programmi/prog
 
 7\. Le parti convengono di profondere il massimo impegno per sensibilizzare maggiormente il pubblico alle possibilita' offerte dai rispettivi programmi di cooperazione scientifica e tecnologica.
 
-#### Art. 40
+### Art. 40
 
 Cooperazione in materia di tecnologie
 
@@ -860,7 +854,7 @@ i) agevolare la cooperazione tra le loro istituzioni competenti e gli attori dei
 
 j) incoraggiare ulteriormente la cooperazione tra le imprese delle parti che si occupano di TIC, compreso il trasferimento di tecnologia.
 
-#### Art. 41
+### Art. 41
 
 Trasporti
 
@@ -878,7 +872,7 @@ d) un dialogo sui servizi di trasporto marittimo finalizzato ad un accesso illim
 
 e) l'applicazione delle norme di sicurezza e anti-inquinamento, specie per quanto riguarda i trasporti marittimi e aerei, in linea con le pertinenti convenzioni internazionali, e la cooperazione nei consessi internazionali appropriati intesa ad una migliore applicazione delle normative internazionali. A tal fine, le parti promuoveranno la cooperazione e l'assistenza tecniche sulle questioni connesse alla sicurezza dei trasporti, anche per quanto riguarda le operazioni di ricerca e salvataggio e le indagini su vittime e sinistri.
 
-#### Art. 42
+### Art. 42
 
 Energia
 
@@ -896,7 +890,7 @@ e) tener conto dei nessi tra l'accesso abbordabile a servizi energetici e svilup
 
 2\. A tal fine, le parti convengono di promuovere, nel reciproco vantaggio, i contatti e le attivita' di ricerca comuni e di potenziare l'assistenza tecnica e i progetti di potenziamento della capacita' nell'ambito delle pertinenti sedi regionali sulle modalita' di produzione pulite e sulla tutela ambientale. Le due parti esamineranno ulteriori possibilita' di intensificare la cooperazione in materia di sicurezza nucleare, nell'ambito dell'attuale quadro normativo e strategico.
 
-#### Art. 43
+### Art. 43
 
 Turismo
 
@@ -914,7 +908,7 @@ d) l'assistenza tecnica e il potenziamento della capacita', anche tramite progra
 
 e) promozione dell'industria turistica, in particolare degli operatori turistici e delle agenzie di viaggio delle due parti affinche' approfondiscano la cooperazione bilaterale, inclusa la formazione.
 
-#### Art. 44
+### Art. 44
 
 Cooperazione in materia di politica industriale e PMI
 
@@ -932,13 +926,13 @@ e) promuovendo la responsabilita' sociale delle imprese e pratiche commerciali r
 
 f) conducendo, in determinati comparti industriali, progetti di ricerca comuni, assistenza tecnica e mediante la cooperazione sulle norme, i regolamenti tecnici e le procedure di valutazione della conformita', come consensualmente convenuto.
 
-#### Art. 45
+### Art. 45
 
 Dialogo sulla politica economica
 
 Le parti convengono di collaborare alla promozione dello scambio di informazioni sulle rispettive tendenze e strategie economiche nonche' alla condivisione di esperienze in materia di coordinamento delle politiche economiche nell'ambito della cooperazione e dell'integrazione economica regionali tramite dispositivi bilaterali e multilaterali esistenti nei settori di reciproco interesse, compreso lo scambio di informazioni sul processo di riforma e privatizzazione delle imprese statali, nel rispetto delle normative e dei regolamenti delle parti.
 
-#### Art. 46
+### Art. 46
 
 Cooperazione in materia tributaria
 
@@ -948,13 +942,13 @@ Cooperazione in materia tributaria
 
 3\. Le parti incentiveranno l'attuazione effettiva di accordi fiscali bilaterali tra gli Stati membri e il Vietnam e si impegneranno a prendere in considerazione la conclusione di accordi di questo tipo in futuro.
 
-#### Art. 47
+### Art. 47
 
 Cooperazione in materia di servizi finanziari
 
 Le parti convengono di avviare un dialogo, finalizzato in particolare allo scambio di informazioni ed esperienze sui rispettivi contesti regolamentari, e di intensificare la cooperazione al fine di migliorare i sistemi contabili, di audit, di sorveglianza e regolamentari del settore bancario, assicurativo e di altri comparti del settore finanziario, anche tramite programmi di potenziamento della capacita' in settori di reciproco interesse.
 
-#### Art. 48
+### Art. 48
 
 Cooperazione in materia di prevenzione
 
@@ -972,7 +966,7 @@ c) fornirsi reciproco sostegno in termini di tecnologie, attrezzature specializz
 
 d) intensificare il dialogo tra le autorita' delle parti responsabili della gestione delle catastrofi naturali e degli interventi d'urgenza, al fine di sostenere e potenziare la cooperazione in questo settore.
 
-#### Art. 49
+### Art. 49
 
 Pianificazione e sviluppo urbani e regionali
 
@@ -998,7 +992,7 @@ c) cooperazione nell'ambito delle pertinenti organizzazioni internazionali, qual
 
 3\. Le parti convengono di intensificare la cooperazione e consentire lo scambio di esperienze e informazioni tra le loro autorita' regionali e urbane al fine di trovare soluzioni a problematiche complesse promuovendo lo sviluppo sostenibile.
 
-#### Art. 50
+### Art. 50
 
 Lavoro, occupazione e affari sociali
 
@@ -1012,7 +1006,7 @@ Lavoro, occupazione e affari sociali
 
 5\. Le forme di cooperazione possono comprendere programmi e progetti specifici consensualmente convenuti, nonche' il potenziamento della capacita', lo scambio di strategie ed iniziative su temi d'interesse comune a livello bilaterale o multilaterale, quali ASEM, UE-ASEAN e OIL.
 
-#### Art. 51
+### Art. 51
 
 Statistiche
 
@@ -1022,7 +1016,7 @@ Statistiche
 
 ## Titolo VII - QUADRO ISTITUZIONALE
 
-#### Art. 52
+### Art. 52
 
 Comitato misto
 
@@ -1052,7 +1046,7 @@ g) esaminare tutte le informazioni presentate da una parte in merito all'adempim
 
 ## Titolo VIII - DISPOSIZIONI FINALI
 
-#### Art. 53
+### Art. 53
 
 Risorse disponibili per la cooperazione
 
@@ -1060,7 +1054,7 @@ Risorse disponibili per la cooperazione
 
 2\. Le parti incoraggiano la Banca europea per gli investimenti a proseguire i suoi interventi in Vietnam, conformemente alle sue procedure e ai suoi criteri di finanziamento.
 
-#### Art. 54
+### Art. 54
 
 Clausola evolutiva
 
@@ -1068,7 +1062,7 @@ Clausola evolutiva
 
 2\. Ai fini dell'applicazione del presente accordo, ciascuna parte puo' formulare suggerimenti per ampliare l'ambito di applicazione della cooperazione, tenendo conto dell'esperienza acquisita in fase di attuazione.
 
-#### Art. 55
+### Art. 55
 
 Altri accordi
 
@@ -1078,7 +1072,7 @@ Altri accordi
 
 3\. Gli accordi in vigore in settori di cooperazione specifici che rientrano nell'ambito di applicazione del presente accordo sono considerati parte delle relazioni bilaterali complessive disciplinate dal presente accordo e del quadro istituzionale comune.
 
-#### Art. 56
+### Art. 56
 
 Applicazione e interpretazione dell'accordo
 
@@ -1086,7 +1080,7 @@ Applicazione e interpretazione dell'accordo
 
 2\. Il comitato misto puo' comporre la vertenza formulando una raccomandazione.
 
-#### Art. 57
+### Art. 57
 
 Adempimento degli obblighi
 
@@ -1100,37 +1094,37 @@ Adempimento degli obblighi
 
 Tali misure sono comunicate senza indugio all'altra parte e, se quest'ultima lo richiede, sono oggetto di consultazioni in sede di comitato misto.
 
-#### Art. 58
+### Art. 58
 
 Agevolazioni
 
 Per facilitare la cooperazione nell'ambito del presente accordo, le due parti convengono di accordare a esperti e funzionari che partecipano all'attuazione della cooperazione le agevolazioni necessarie a svolgere le rispettive mansioni, in conformita' delle norme interne e dei regolamenti delle parti.
 
-#### Art. 59
+### Art. 59
 
 Dichiarazioni
 
 Le dichiarazioni allegate al presente accordo costituiscono parte integrante del medesimo.
 
-#### Art. 60
+### Art. 60
 
 Applicazione territoriale
 
 Il presente accordo si applica, da una parte, al territorio in cui si applica il trattato sull'Unione europea, alle condizioni ivi stabilite, e, dall'altra, al territorio della Repubblica socialista del Vietnam.
 
-#### Art. 61
+### Art. 61
 
 Definizione delle parti
 
 Ai fini del presente accordo, per «parti» si intendono l'Unione o i suoi Stati membri oppure l'Unione e i suoi Stati membri, in base alle rispettive competenze, da una parte, e la Repubblica socialista del Vietnam, dall'altra.
 
-#### Art. 62
+### Art. 62
 
 Sicurezza nazionale e diffusione delle informazioni
 
 Nessuna disposizione del presente accordo puo' essere interpretata nel senso di chiedere a una delle parti di fornire un'informazione la cui diffusione sia considerata contraria ai suoi interessi essenziali di sicurezza.
 
-#### Art. 63
+### Art. 63
 
 Entrata in vigore e durata
 
@@ -1144,19 +1138,19 @@ Esso e' automaticamente prorogato per periodi successivi di un anno, a meno che,
 
 4\. Il presente accordo puo' essere denunciato da ciascuna parte con notifica di denuncia per iscritto data all'altra parte. La denuncia ha effetto sei mesi dopo che l'altra parte ne ha ricevuto notifica.
 
-#### Art. 64
+### Art. 64
 
 Notifiche
 
 Le notifiche effettuate a norma dell'articolo 63 sono inviate rispettivamente al segretariato generale del Consiglio dell'Unione europea e al Ministro degli affari esteri del Vietnam.
 
-#### Art. 65
+### Art. 65
 
 Testo autentico
 
 Il presente accordo e' redatto, in duplice esemplare, in lingua bulgara, ceca, danese, estone, finlandese, francese, greca, inglese, italiana, lettone, lituana, maltese, olandese, polacca, portoghese, rumena, slovacca, slovena, spagnola, svedese, tedesca, ungherese e vietnamita, tutti i testi facenti ugualmente fede.
 
-#### Dichiarazioni
+### Dichiarazioni
 
 Allegato
 

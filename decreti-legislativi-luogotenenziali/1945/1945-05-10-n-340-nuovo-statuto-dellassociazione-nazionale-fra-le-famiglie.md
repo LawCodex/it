@@ -37,7 +37,7 @@ Sulla proposta del Ministro Segretario di Stato per l'aeronautica;
 
 Abbiamo decretato e decretiamo:
 
-### Articolo unico
+## Articolo unico
 
 Lo statuto dell'Associazione nazionale fra le famiglie caduti dell'Aeronautica e fra mutilati del volo, annesso al R. decreto 11 agosto 1939, n. 1629, e' sostituito da quello allegato al presente decreto; visto e firmato d'ordine Nostro, dal Ministro per l'aeronautica.
 
@@ -59,7 +59,7 @@ Atti del Governo, registro n. 4, foglio n. 166. - Frasca
 
 Statuto dell'Associazione nazionale fra le famiglie caduti dell'Aeronautica e fra i mutilati del volo
 
-### Art. 1
+## Art. 1
 
 L'Associazione nazionale fra le famiglie dei caduti dell'Aeronautica e mutilati del volo ha la sede centrale in Roma e sezioni periferiche nelle varie provincie d'Italia.
 
@@ -71,13 +71,13 @@ b)Sezione mutilati del volo.
 
 L'Associazione e' apolitica.
 
-### Art. 2
+## Art. 2
 
 Per caduti d'aeronautica si intende tutti coloro che praticando l'esercizio del volo siano morti o in seguito ad incidente di volo, avvenuto nell'esercizio di un servizio aeronavigante comandato, o per eventi comunque direttamente conseguenti l'esercizio del volo.
 
 Per mutilati del volo si intendono coloro che siano stati riconosciuti tali dal Ministero dell'aeronautica.
 
-### Art. 3
+## Art. 3
 
 L'Associazione nazionale per il raggiungimento dei propri fini:
 
@@ -87,7 +87,7 @@ b) promuove tutte le iniziative tendenti a creare ed a moltiplicare i contatti f
 
 c) raccoglie il materiale biografico e statistico dei caduti e dei mutilati.
 
-### Art. 4
+## Art. 4
 
 Hanno diritto ad essere soci dell'Associazione, presentando domanda ai Consigli direttivi sezionali:
 
@@ -101,7 +101,7 @@ a) in rappresentanza di ogni caduto, uno solo dei parenti nel seguente ordine di
 
 b) ogni singolo mutilato.
 
-### Art. 5
+## Art. 5
 
 A domanda hanno diritto alle iscrizione all'Associazione i parenti del caduto (genitori, figli, fratelli, sorelle) oltre alla persona che a sensi dell'art. 4 ne ha assunto la rappresentanza.
 
@@ -109,13 +109,13 @@ Detti soci costituiscono la categoria dei soci allegati,
 
 I diritti morali e materiali spettano solo ai soci che rappresentano il caduto di cui all'art. 4.
 
-### Art. 6
+## Art. 6
 
 Possono essere soci benemeriti quelle persone e quegli enti che se ne siano resi particolarmente degni per avere comunque contribuito al conseguimento degli scopi sociali.
 
 I soci benemeriti saranno iscritti in un albo d'onore.
 
-### Art. 7
+## Art. 7
 
 I soci devono:
 
@@ -123,13 +123,13 @@ a) osservare le disposizioni statutarie e regolamentari deliberate dagli organi 
 
 b) cooperate nei limiti delle proprie possibilita' all'attuazione degli scopi sociali.
 
-### Art. 8
+## Art. 8
 
 Decade dalla qualita' di socio la vedova che contragga nuove nozze.
 
 La decadenza e' pronunciata dalla competente Sezione. Puo' subentrare nella qualita' di socio altro rappresentante a norma dell'art. 4.
 
-### Art. 9
+## Art. 9
 
 Incorre nella perdita della qualita' di socio chi si rende comunque indegno di appartenere all'Associazione.
 
@@ -137,7 +137,7 @@ L'indegnita' e' segnalata, con motivata proposta, dalle Sezioni al Comitato cent
 
 Per la decadenza pronunciata, l'interessato puo' ricorrere entro 30 giorni dalla comunicazione contro il deliberato del Comitato centrale. In tal caso il verdetto definitivo e' devoluto al Collegio dei probiviri di cui all'art. 14.
 
-### Art. 10
+## Art. 10
 
 Sono organi dell'Associazione:
 
@@ -149,7 +149,7 @@ c) i Consigli direttivi delle Sezioni periferiche.
 
 ## Del Comitato centrale
 
-### Art. 11
+## Art. 11
 
 Il Comitato centrale e' formato da undici membri, dei quali dieci nominati dall'assemblea dei Consigli direttivi sezionali e uno dal Ministero dell'aeronautica.
 
@@ -157,7 +157,7 @@ Il Comitato centrale ellegge fra i propri componenti nella seduta di insediament
 
 Il Comitato centrale dura in carica un biennio con decorrenza dal 1° gennaio dell'anno in corso.
 
-### Art. 12
+## Art. 12
 
 Il Comitato centrale e' investito di tutti i poteri deliberativi atti a conseguire gli scopi sociali.
 
@@ -189,7 +189,7 @@ n) l'accettazione di lasciti donazioni e simili;
 
 o) l'investimento di somme liquide comunque concernenti il patrimonio dell'Associazione.
 
-### Art. 13
+## Art. 13
 
 Il Comitato centrale si riunisce non meno di una volta ogni trimestre ad invito del presidente o del vice presidente qualora questi ne sia stato delegato.
 
@@ -197,19 +197,19 @@ Il Comitato centrale si convoca pure qualora tre dei suoi componenti lo richieda
 
 Le deliberazioni sono prese a maggioranza assoluta.
 
-### Art. 14
+## Art. 14
 
 Il Collegio dei probiviri e' composto di tre membri, scelti fra i soci dell'Associazione stessa, nominati dal Comitato centrale.
 
 I probiviri durano in carica un biennio; con decorrenza dal 1° gennaio dell'anno in corso.
 
-### Art. 15
+## Art. 15
 
 E' di competenza del Collegio dei probiviri pronunciarsi su ogni divergenza che possa sorgere fra membri ed organi o fra membri e membri la cui modalita' di definizione non sia prevista dallo statuto sociale e dai regolamenti interni dell'Associazione.
 
 ## Della Presidenza
 
-### Art. 16
+## Art. 16
 
 La Presidenza e' l'organo centrale esecutivo dell'Associazione. E' costituita da:
 
@@ -227,13 +227,13 @@ Esiste incompatibilita' fra le cariche della presidenza e quelle sezionali.
 
 Durano in carica un biennio.
 
-### Art. 17
+## Art. 17
 
 Il presidente e' investito della rappresentanza dell'Associazione a tutti gli effetti morali e legali. A lui sono affidate le funzioni esecutive. Puo' ove lo ritenga opportuno e necessario - delegare tali rappresentanze e funzioni al vice presidente.
 
 ## Delle Sezioni periferiche (Regionali - Provinciali - Locali)
 
-### Art. 18
+## Art. 18
 
 Lo Sezioni (Regionali - Provinciali - Locali) costituiscono l'elemento fondamentale dell'Associazione. Esse sono costituite nelle localita' dove il numero dei soci non sia inferiore a 200.
 
@@ -251,11 +251,11 @@ A.N.F.C.A.M.V. - Sezione di . . . . . . . . . . . . . . . . . . . .
 
 Le Sezioni potranno essere ospitate, sempre che possibile dai locali Enti aeronautici.
 
-### Art. 19
+## Art. 19
 
 Le sedi delle Sezioni sono scelte liberamente dai soci qualora il numero degli iscritti sia riconosciuto numericamente sufficiente ai sensi dell'art. 18. Negli altri casi la sede e l'eventuale raggruppamento di provincie, ponti determinati dal Comitato centrale.
 
-### Art. 20
+## Art. 20
 
 Ogni Sezione e' retta da un Consiglio direttivo composto da un numero vario di membri - da tre a sette a seconda del numero dei soci secondo quanto segue:
 
@@ -273,25 +273,25 @@ I membri del Consiglio direttivo nominano nel proprio interno il presidente ed i
 
 Durano in carica un biennio, con decorrenza dal 1° gennaio dell'anno in corso.
 
-### Art. 21
+## Art. 21
 
 Il segretario della Sezione e' scelto dal Consiglio direttivo fra i soci che siano in grado di accudire alla funzione con la necessaria continuita'.
 
-### Art. 22
+## Art. 22
 
 L'assemblea dei soci e' convocata dal Consiglio direttivo una volta all'anno in seduta ordinaria entro il 1° bimestre dell'anno - per l'approvazione del bilancio consuntivo e la nomina, ogni biennio, delle cariche sezionali e discutere tutti gli argomenti posti all'ordine del giorno.
 
-### Art. 23
+## Art. 23
 
 Su richiesta di almeno un decimo dei soci della Sezione il Consiglio direttivo e' tenuto a convocare l'assemblea in riunione straordinaria. Nella richiesta dovranno essere specificati gli argomenti che i richiedenti ritengano debbano essere sottoposti all'esame dell'assemblea.
 
 Il Consiglio direttivo puo' convocare l'assemblea in riunione straordinaria ogni qual volta lo ritenga necessario.
 
-### Art. 24
+## Art. 24
 
 Il Comitato centrale puo' disporre per la convocazione in riunione straordinaria dell'assemblea sezionale di qualsiasi Sezione, qualora ritenga cio' necessario per la determinazione di particolari situazioni
 
-### Art. 25
+## Art. 25
 
 Nelle assemblee sezionali sono ammesse:
 
@@ -303,7 +303,7 @@ Il Consiglio direttivo dovra' rendere noto l'ordine del giorno ai soci con l'avv
 
 L'assemblea e' valida in prima riunione qualora siano presenti, di persona o per delega, o per corrispondenza, almeno un quarto dei soci. Mancando la validita' per deficienza di intervenuti, entro 15 giorni l'assemblea sara' indetta in seconda convocazione, valida qualora siano presenti di persona o per delega o per corrispondenza, almeno un sesto dei soci.
 
-### Art. 26
+## Art. 26
 
 Al Consiglio direttivo delle sezioni compete:
 
@@ -319,17 +319,17 @@ c) inoltrare al Comitato centrale eventuali proposte di modifiche statutarie che
 
 f) compilare il bilancio consuntivo della Sezione, sottoponendolo alla approvazione dell'assemblea dei soci e rimettendolo alla Presidenza dell'associazione;
 
-### Art. 27
+## Art. 27
 
 Tutte le cariche sono onorifiche e gratuite. Il Comitato centrale puo' tuttavia concedere che sia corrisposta una retribuzione, nella misura che riterra' opportuna, in relazione alle entrate ordinarie, ai soci che esercitano funzioni di segretario sia nel Comitato centrale come nei Consigli direttivi sezionali.
 
-### Art. 28
+## Art. 28
 
 In caso di dimissioni o di morte di membri del Consiglio direttivo sezionale per cui lo stesso fosse ridotto a meno della meta', si provvedera' alla sostituzione a mezzo di elezioni suppletive.
 
 ## Della convocazione dei consigli direttivi sezionali in assemblea
 
-### Art. 29
+## Art. 29
 
 Della Convocazione Dei Consigli Direttivi Sezionali n Assemblea
 
@@ -347,7 +347,7 @@ Il Comitato centrale diramera' l'avviso di convocazione.- unitamente all'ordine 
 
 Nell'ordine del giorno dovra' essere tenuto conto di ogni questione od argomento - definitosi nei contatti fra la Presidenza, Comitato centrale e Sezione - che si ritenga debba richiedere una decisione dell'assemblea rappresentante la totalita' dei soci.
 
-### Art. 30
+## Art. 30
 
 Su richiesta di un numero di Sezioni rappresentanti un quinto dei soci, il Comitato centrale e' tenuto a convocare i Consigli direttivi sezionali in assemblea straordinaria. Nella richiesta debbono essere precisati gia' gli argomenti che si vuole siano posti all'ordine del giorno.
 
@@ -355,7 +355,7 @@ Il Comitato centrale puo' deliberare la riunione dei Consigli direttivi sezional
 
 L'avviso di convocazione delle riunioni straordinarie - con relativo ordine del giorno - dovra' essere diramato con almeno 60 giorni di anticipo sulla data prescelta.
 
-### Art. 31
+## Art. 31
 
 Alle riunioni dei Consigli direttivi sezionali - ordinarie e straordinarie - sono ammesse:
 
@@ -365,7 +365,7 @@ le votazioni per corrispondenza.
 
 In casi particolari - quando gli argomenti all'ordine del giorno si presume richiedano particolari discussioni - il Comitato puo' deliberare che i membri dei Consigli direttivi sezionali esprimono nella loro totalita' il loro voto per corrispondenza.
 
-### Art. 32
+## Art. 32
 
 Le decisioni dei membri dei Consigli direttivi sezionali riuniti in assemblea, sono prese a maggioranza di voti rappresentati. Ogni membro del Consiglio direttivo sezionale rappresenta un numero di soci pari a quello della Sezione - della cui rappresentanza fa parte diviso per il numero dei membri del Consiglio direttivo della stessa.
 
@@ -375,7 +375,7 @@ Le assemblee dei Consigli direttivi sezionali si riuniscono di norma a Roma.
 
 ## Del patrimonio e della gestione amministrativa
 
-### Art. 33
+## Art. 33
 
 Il patrimonio dell'Ente e' costituito:
 
@@ -389,11 +389,11 @@ d) dai contributi di persone ed enti benemeriti;
 
 e) da tutti gli altri valori di cui viene in possesso.
 
-### Art. 34
+## Art. 34
 
 Il movimento dei fondi puo' essere solo disposto a firma del presidente o del vice presidente quando questo sia stato all'uopo delegato.
 
-### Art. 35
+## Art. 35
 
 Le rendite annullate per provvedere all'ordinaria gestione dell'Associazione comprendono:
 
@@ -405,19 +405,19 @@ c) i contributi volontariamente assegnati all'Associazione da enti o persone;
 
 d) i profitti, rimborsi e recuperi vari.
 
-### Art. 36
+## Art. 36
 
 Il controllo generale della gestione amministrativa e contabile e' devoluta a tre sindaci effettivi e due supplenti. Dei sindaci effettivi uno e' nominato dal Ministero dell'aeronautica; i rimanenti ed i supplenti sono designati dall'assemblea dei Consigli direttivi sezionali.
 
 I sindaci rimangono in carica un biennio e possono essere riconfermati. Essi esaminano gli inventarii bilanci di previsione ed i conti consuntivi annuali della Sede centrate e delle Sezioni e presentano una relazione conclusiva al Comitato centrale. Essi possono in qualsiasi epoca verificare lo stato di cassa della Sede centrale come delle Sezioni.
 
-### Art. 37
+## Art. 37
 
 La Presidenza dell'associazione compila, nel mese di novembre di ogni anno, il proprio bilancio di previsione. Tale bilancio sara' sottoposto al Comitato centrale.
 
 Un esemplare del bilancio generale di previsione e' trasmesso al Ministero dell'aeronautica.
 
-### Art. 38
+## Art. 38
 
 L'anno finanziario sociale coincide con l'anno solare. Entro il 10 marzo ogni Sezione trasmette alla Presidenza il proprio bilancio consuntivo approvato dall'assemblea ordinaria dei soci.
 
@@ -425,21 +425,21 @@ La Presidenza compila a sua volta il rendiconto economico e patrimoniale general
 
 ## Disposizioni transitorie
 
-### Art. 39
+## Art. 39
 
 Il presente statuto ha valore - in via transitoria in quanto approvato dall'assemblea dei soci della Sezione di Roma e sottoposto al visto del Ministero dell'aeronautica, cui compete la abrogazione del Regio decreto-legge n. 1629, in data 11 agosto 1939, che rendeva valido il precedente statuto.
 
-### Art. 40
+## Art. 40
 
 Il Consiglio direttivo della Sezione, di Roma assumera' - in via transitoria - le funzioni del Comitato centrale previste dallo statuto. Provvedera' quindi alla nomina del presidente e di un vice presidente della Associazione in base all'art. 12.
 
 Per tale particolare funzione il Consiglio direttivo della Sezione di Roma sara' eletto su nove membri anziche' su sette.
 
-### Art. 41
+## Art. 41
 
 Il Comitato centrale provvisorio adottera' tutti i provvedimenti che riterra' opportuno per la graduale estensione delle norme statutarie alle Sezioni.
 
-### Art. 42
+## Art. 42
 
 Quando le Sezioni d'Italia - in numero considerato sufficiente dal Comitato centrale provvisorio - saranno in grado di eleggere i propri Consigli direttivi - a norma dello statuto - e si potra' procedere alla riunione degli stessi in assemblea, questa sara' chiamata:
 

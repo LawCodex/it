@@ -76,11 +76,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Riordino dell'Istituto superiore di sanita'
 
-### Riordino dell'Istituto superiore di sanita'
-
-#### Art. 1
+### Art. 1
 
 Programmazione delle attivita'
 
@@ -190,7 +188,7 @@ Programmazione delle attivita'
 
 > \- Per il comma 4 dell'articolo 5 del decreto legislativo 31 dicembre 2009, n. 213, si veda nelle note alle premesse.
 
-#### Art. 2
+### Art. 2
 
 Statuto
 
@@ -278,7 +276,7 @@ e) prevede che in caso di mancata costituzione degli organi o in caso di loro im
 
 > \- La legge 4 marzo 2009, n. 15 reca: "Delega al Governo finalizzata all'ottimizzazione della produttivita' del lavoro pubblico e alla efficienza e trasparenza delle pubbliche amministrazioni nonche' disposizioni integrative delle funzioni attribuite al Consiglio nazionale dell'economia e del lavoro e alla Corte dei conti".
 
-#### Art. 3
+### Art. 3
 
 Regolamenti
 
@@ -362,7 +360,7 @@ c) disciplinano le modalita' attraverso le quali detti Centri utilizzano le riso
 
 > \- Per il decreto legislativo 5 giugno 1998, n. 204 si veda nelle note alle premesse.
 
-#### Art. 4
+### Art. 4
 
 Organi
 
@@ -486,7 +484,7 @@ I revisori, ad eccezione di quello designato dal Ministro dell'economia e delle 
 
 > "3. Fermo restando quanto previsto dall'art. 1, comma 58 della legge 23 dicembre 2005, n. 266, a decorrere dal 1° gennaio 2011 le indennita', i compensi, i gettoni, le retribuzioni o le altre utilita' comunque denominate, corrisposti dalle pubbliche amministrazioni di cui al comma 3 dell'articolo 1 della legge 31 dicembre 2009, n. 196, incluse le autorita' indipendenti, ai componenti di organi di indirizzo, direzione e controllo, consigli di amministrazione e organi collegiali comunque denominati ed ai titolari di incarichi di qualsiasi tipo, sono automaticamente ridotte del 10 per cento rispetto agli importi risultanti alla data del 30 aprile 2010. Sino al 31 dicembre 2013, gli emolumenti di cui al presente comma non possono superare gli importi risultanti alla data del 30 aprile 2010, come ridotti ai sensi del presente comma. Le disposizioni del presente comma si applicano ai commissari straordinari del Governo di cui all'articolo 11 della legge 23 agosto 1988, n. 400 nonche' agli altri commissari straordinari, comunque denominati. La riduzione non si applica al trattamento retributivo di servizio."
 
-#### Art. 5
+### Art. 5
 
 Direttore generale
 
@@ -532,7 +530,7 @@ Il rapporto di lavoro del direttore generale e' regolato con contratto di diritt
 
 > 9\. (abrogato)"
 
-#### Art. 6
+### Art. 6
 
 Incompatibilita'
 
@@ -540,7 +538,7 @@ Incompatibilita'
 
 2\. I componenti del Consiglio di amministrazione, del Comitato scientifico e del Collegio dei revisori dei conti non possono essere amministratori o dipendenti di societa' che partecipino a programmi di ricerca nei quali e' presente l'Istituto.
 
-#### Art. 7
+### Art. 7
 
 Disposizioni transitorie
 
@@ -548,7 +546,7 @@ Disposizioni transitorie
 
 2\. La nomina del Presidente dell'Istituto, dei componenti del Consiglio di amministrazione, del Comitato scientifico e del Collegio dei revisori deve intervenire entro sessanta giorni dalla data di entrata in vigore del presente decreto legislativo.
 
-#### Art. 8
+### Art. 8
 
 Abrogazioni
 
@@ -570,11 +568,9 @@ c) il decreto del Presidente della Repubblica 20 gennaio 2001, n. 70, ad eccezio
 
 > \- Il decreto del Presidente della Repubblica 20 gennaio 2001, n. 70 per il quale vedasi le note all'articolo 2, e' abrogato, ad eccezione dell'articolo 1, dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3 del presente decreto.
 
-## Capo II
+## Capo II - Riordino degli Istituti zooprofilattici sperimentali
 
-### Riordino degli Istituti zooprofilattici sperimentali
-
-#### Art. 9
+### Art. 9
 
 Modalita' di esercizio delle funzioni
 
@@ -586,7 +582,7 @@ Modalita' di esercizio delle funzioni
 
 4\. Le prestazioni erogate dagli Istituti per le quali e' prevista la corresponsione di un corrispettivo, ed i criteri per la determinazione, da parte delle Regioni, delle relative tariffe, sono stabilite con decreto del Ministro della salute non avente carattere regolamentare, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le Regioni e le Province autonome.
 
-#### Art. 10
+### Art. 10
 
 Principi per l'esercizio delle competenze regionali
 
@@ -748,7 +744,7 @@ b) razionalizzazione ed ottimizzazione delle spese e dei costi di funzionamento,
 
 > L'intervento adottato dal Governo non preclude l'esercizio delle funzioni regionali per le quali si e' provveduto in via sostitutiva ed e' efficace sino a quando i competenti organi regionali abbiano provveduto.".
 
-#### Art. 11
+### Art. 11
 
 Organi
 
@@ -782,7 +778,7 @@ c) vi e' impossibilita' di funzionamento degli organi di amministrazione e gesti
 
 9\. Al direttore generale ed al collegio dei revisori dei conti si applicano le disposizioni di cui agli articoli 3 e 3-bis del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni, in quanto compatibili con il presente decreto legislativo.
 
-#### Art. 12
+### Art. 12
 
 Statuto e regolamento
 
@@ -794,7 +790,7 @@ Qualora il consiglio di amministrazione non provveda entro il termine, la Region
 
 3\. Restano salve le disposizioni di cui all'articolo 11, commi 3 e 4.
 
-#### Art. 13
+### Art. 13
 
 Comitato di supporto strategico
 
@@ -804,7 +800,7 @@ Comitato di supporto strategico
 
 3\. Con il decreto di cui al comma 1 sono determinate anche le modalita' di funzionamento del Comitato.
 
-#### Art. 14
+### Art. 14
 
 Controlli
 
@@ -816,7 +812,7 @@ Controlli
 
 > "8. E' abolito il controllo dei comitati regionali di controllo sugli atti delle unita' sanitarie locali e degli istituti di ricovero e cura a carattere scientifico, nonche' degli enti di cui all'articolo 41, secondo comma, L. 23 dicembre 1978, n. 833 e degli enti ospedalieri di cui all'articolo 1, comma 13, del D.L. 6 febbraio 1991, n. 35 , convertito, con modificazioni, dalla L. 4 aprile 1991, n. 111. Limitatamente agli atti delle unita' sanitarie locali e dei sopracitati enti ospedalieri riguardanti il bilancio di previsione, le variazioni di bilancio e il conto consuntivo, la determinazione della consistenza qualitativa e quantitativa complessiva del personale, la deliberazione di programmi di spese pluriennali e i provvedimenti che disciplinano l'attuazione dei contratti e delle convenzioni, il controllo preventivo e' assicurato direttamente dalla regione, che e' tenuta a pronunciarsi, anche in forma di silenzio-assenso, entro quaranta giorni dal ricevimento dell'atto. I provvedimenti come sopra approvati diventano definitivi. Per gli istituti di ricovero e cura a carattere scientifico, il controllo di cui agli articoli 16, 17 e 18 del D.P.R. 31 luglio 1980, n. 617 , e' esteso anche ai provvedimenti riguardanti i programmi di spesa pluriennali e quelli per la disciplina e l'attribuzione dei contratti e delle convenzioni. Il termine di trenta giorni previsto dall'articolo 18, D.P.R. 31 luglio 1980, n. 617 , e' modificato in quaranta giorni.".
 
-#### Art. 15
+### Art. 15
 
 Disposizioni transitorie
 
@@ -864,7 +860,7 @@ Disposizioni transitorie
 
 > \- Il decreto ministeriale 6 maggio 2008 reca: "Disposizioni attuative dell'articolo 1, comma 566, della legge 27 dicembre 2006, n. 296, volte ad assicurare continuita' nell'attivita' di sorveglianza epidemiologica in ambito zooprofilattico".
 
-#### Art. 16
+### Art. 16
 
 Abrogazioni
 
@@ -876,11 +872,9 @@ Abrogazioni
 
 > \- Le disposizioni del decreto legislativo 30 giugno 1993, n. 270, incompatibili con il presente decreto legislativo, sono abrogate dalla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12 del presente decreto.
 
-## Capo III
+## Capo III - Riordino dell'Agenzia nazionale per i servizi sanitari regionali
 
-### Riordino dell'Agenzia nazionale per i servizi sanitari regionali
-
-#### Art. 17
+### Art. 17
 
 Statuto e regolamento di organizzazione e funzionamento
 
@@ -892,7 +886,7 @@ a) determina le modalita' di organizzazione dell'Agenzia sulla base del principi
 
 b) specifica e articola le attribuzioni degli organi di cui all'articolo 18 e le modalita' di funzionamento.
 
-#### Art. 18
+### Art. 18
 
 Modificazioni al decreto legislativo 31 marzo 1998, n. 115 e successive modificazioni
 
@@ -952,7 +946,7 @@ E' possibile visualizzare il testo originario accedendo alla versione pdf della 
 
 > Il decreto del Presidente del Consiglio dei Ministri 14 febbraio 2012, pubblicato nella Gazzetta Ufficiale n. 115 del 18 maggio 2012, concerne " Conferma dell'incarico di direttore dell'Agenzia nazionale per i servizi sanitari regionali".
 
-#### Art. 19
+### Art. 19
 
 Regolamento di amministrazione e del personale
 
@@ -972,11 +966,9 @@ Regolamento di amministrazione e del personale
 
 > "4. L'Agenzia puo' avvalersi di esperti con rapporto di collaborazione coordinata e continuativa nel limite massimo di dieci unita'."
 
-## Capo IV
+## Capo IV - Lega italiana per la lotta contro i tumori
 
-### Lega italiana per la lotta contro i tumori
-
-#### Art. 20
+### Art. 20
 
 Riordino
 
@@ -988,7 +980,7 @@ Riordino
 
 > \- Per il comma 1 dell'articolo 2 della legge 4 novembre 2010, n. 183, si veda nelle note alle premesse.
 
-#### Art. 21
+### Art. 21
 
 Organi centrali
 
@@ -1004,7 +996,7 @@ c) il Collegio dei revisori dei conti.
 
 3\. Il presidente e' scelto tra personalita' di riconosciuta competenza e professionalita', documentata attraverso la presentazione di curricula.
 
-#### Art. 22
+### Art. 22
 
 Articolazione della LILT
 
@@ -1014,7 +1006,7 @@ Articolazione della LILT
 
 3\. La LILT puo' procedere alla costituzione, nel rispetto della normativa vigente, di una Fondazione non avente scopo di lucro, per il perseguimento, il finanziamento, la promozione e il supporto alle proprie attivita' istituzionali.
 
-#### Art. 23
+### Art. 23
 
 Disposizioni transitorie
 
@@ -1022,11 +1014,9 @@ Disposizioni transitorie
 
 2\. In caso di mancata approvazione dello statuto o di costituzione degli organi nei termini di cui all'articolo 20, comma 2 e del comma 1 del presente articolo, il Ministro della salute nomina, con proprio decreto, un commissario straordinario per un periodo massimo di dodici mesi, che assume i poteri di ordinaria e straordinaria amministrazione. Entro tale periodo dovranno essere nominati gli organi di amministrazione secondo le modalita' previste dal presente decreto legislativo.
 
-## Capo V
+## Capo V - Norme finali
 
-### Norme finali
-
-#### Art. 24
+### Art. 24
 
 Invarianza di oneri
 

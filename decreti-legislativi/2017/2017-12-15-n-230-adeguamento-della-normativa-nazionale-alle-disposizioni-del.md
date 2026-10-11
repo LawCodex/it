@@ -66,7 +66,7 @@ il seguente decreto legislativo:
 
 ## Titolo I - DISPOSIZIONI GENERALI
 
-#### Art. 1
+### Art. 1
 
 Finalita'
 
@@ -204,7 +204,7 @@ e) alla disciplina sanzionatoria per la violazione delle disposizioni del regola
 
 > Per i riferimenti normativi del regolamento (UE) n. 1143/2014 si veda nelle note alle premesse.
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -224,7 +224,7 @@ e) «impianto»: istituto o struttura presso cui sono tenuti in confinamento ese
 
 > Per i riferimenti normativi del decreto legislativo 19 agosto 2005, n. 214 si veda nelle note alle premesse.
 
-#### Art. 3
+### Art. 3
 
 Autorita' nazionale competente
 
@@ -264,7 +264,7 @@ g) provvede al coordinamento ed alla cooperazione con gli altri Stati membri e c
 
 > b) Comandi, retti da generale di divisione o di brigata, che esercitano funzioni di direzione, di coordinamento e di controllo dei reparti dipendenti.».
 
-#### Art. 4
+### Art. 4
 
 Coordinamento con la legislazione in materia di organizzazione dei controlli veterinari su prodotti e animali provenienti da Paesi terzi
 
@@ -282,7 +282,7 @@ Coordinamento con la legislazione in materia di organizzazione dei controlli vet
 
 > Il Regolamento (CE) n. 136/2004 della Commissione del 22 gennaio 2004 Regolamento della Commissione che fissa le modalita' dei controlli veterinari da effettuare ai posti d'ispezione frontalieri della Comunita' sui prodotti importati da paesi terzi e' pubblicato nella G.U.U.E. 28 gennaio 2004, n. L 21. Entrato in vigore il 1° marzo 2004.
 
-#### Art. 5
+### Art. 5
 
 Elenco delle specie esotiche invasive
 
@@ -294,7 +294,7 @@ di rilevanza nazionale
 
 ## Titolo II - PREVENZIONE
 
-#### Art. 6
+### Art. 6
 
 Divieti
 
@@ -320,7 +320,7 @@ h) rilasciati nell'ambiente.
 
 > Per i riferimenti normativi del regolamento (UE) n. 1143/2014 si veda nelle note alle premesse.
 
-#### Art. 7
+### Art. 7
 
 Piano d'azione sui vettori delle specie esotiche invasive
 
@@ -354,7 +354,7 @@ Piano d'azione sui vettori delle specie esotiche invasive
 
 ## Titolo III - PERMESSI E AUTORIZZAZIONI IN DEROGA
 
-#### Art. 8
+### Art. 8
 
 Istruttoria per rilascio dei permessi previsti all'articolo 8 del regolamento
 
@@ -376,7 +376,7 @@ Istruttoria per rilascio dei permessi previsti all'articolo 8 del regolamento
 
 > La legge 7 agosto 1990, n. 241, recante nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi e' pubblicata nella Gazzetta Ufficiale 18 agosto 1990, n. 192.
 
-#### Art. 9
+### Art. 9
 
 Rilascio dei permessi previsti
 
@@ -418,7 +418,7 @@ m) la durata dell'autorizzazione.
 
 > Regolamento (CEE) n. 2658/87 relativo alla nomenclatura tariffaria e statistica ed alla tariffa doganale comune e' pubblicato nella G.U.C.E. 7 settembre 1987, n. L 256.
 
-#### Art. 10
+### Art. 10
 
 Istruttoria per rilascio delle autorizzazioni previste all'articolo 9 del regolamento
 
@@ -438,7 +438,7 @@ Istruttoria per rilascio delle autorizzazioni previste all'articolo 9 del regola
 
 > Per i riferimenti alla legge 7 agosto 1990, n. 241, si veda nelle note all'art. 8.
 
-#### Art. 11
+### Art. 11
 
 Rilascio delle autorizzazioni previste
 
@@ -450,7 +450,7 @@ all'articolo 9 del regolamento
 
 3\. Il Ministero rende disponibili le informazioni di cui all'articolo 8, paragrafo 7, del regolamento nel proprio sito istituzionale.
 
-#### Art. 12
+### Art. 12
 
 Registro di detenzione degli esemplari delle specie esotiche invasive di rilevanza unionale e nazionale ed obblighi dei soggetti autorizzati
 
@@ -466,7 +466,7 @@ d) tenere il registro di detenzione degli esemplari di specie esotiche invasive 
 
 2\. Con decreto del Ministro dell'ambiente e della tutela del territorio e del mare sono definiti contenuto, formato e modalita' di compilazione del registro di detenzione degli esemplari delle specie esotiche invasive di rilevanza unionale e nazionale di cui al comma 1, lettera d).
 
-#### Art. 13
+### Art. 13
 
 Accessi ed ispezioni agli impianti autorizzati
 
@@ -482,7 +482,7 @@ b) alla diffida e contestuale sospensione del permesso o dell'autorizzazione per
 
 c) alla revoca del permesso o dell'autorizzazione in caso di mancato adeguamento alle prescrizioni imposte con la diffida e in caso di reiterate violazioni che determinino situazione di pericolo per la salute pubblica o per la sanita' animale, per l'ambiente e per il patrimonio agro-zootecnico che siano accertate dalle autorita' competenti.
 
-#### Art. 14
+### Art. 14
 
 Giardini zoologici e orti botanici
 
@@ -508,7 +508,7 @@ Giardini zoologici e orti botanici
 
 ## Titolo IV - CONTROLLI ALL'IMPORTAZIONE
 
-#### Art. 15
+### Art. 15
 
 Controlli ufficiali di cui all'articolo 15 del regolamento
 
@@ -576,7 +576,7 @@ Controlli ufficiali di cui all'articolo 15 del regolamento
 
 > Il decreto legislativo 19 novembre 2008, n. 194 recante disciplina delle modalita' di rifinanziamento dei controlli sanitari ufficiali in attuazione del regolamento (CE) n. 882/2004 e' pubblicato nella Gazzetta Ufficiale 11 dicembre 2008, n. 289.
 
-#### Art. 16
+### Art. 16
 
 Obblighi degli importatori
 
@@ -598,7 +598,7 @@ b) sia indicato il numero del permesso o dell'autorizzazione rilasciati ai sensi
 
 > Il regolamento (UE) 952/2013 del 9 ottobre 2013 che istituisce il codice doganale dell'Unione (rifusione) e' pubblicato nella G.U.U.E. 10 ottobre 2013, n. L 269.
 
-#### Art. 17
+### Art. 17
 
 Misure ufficiali all'importazione
 
@@ -704,11 +704,9 @@ b) respingono oppure, qualora il respingimento non sia possibile, sopprimono o d
 
 > 7\. Se dai controlli di cui ai commi 1 e 2, si constati un'infrazione grave o infrazioni reiterate alla normativa veterinaria comunitaria, si applica quanto previsto all'articolo 22.».
 
-## Titolo V - CONTROLLI, RILEVAMENTO PRECOCE
+## Titolo V - CONTROLLI, RILEVAMENTO PRECOCE ED ERADICAZIONE RAPIDA
 
-### ED ERADICAZIONE RAPIDA
-
-#### Art. 18
+### Art. 18
 
 Sistema di sorveglianza
 
@@ -754,7 +752,7 @@ d) proposte di misure di gestione degli esemplari delle specie esotiche invasive
 
 > La direttiva 2008/56/CE che istituisce un quadro per l'azione comunitaria nel campo della politica per l'ambiente marino (direttiva quadro sulla strategia per l'ambiente marino) e' pubblicata nella G.U.U.E. 25 giugno 2008, n. L 164.
 
-#### Art. 19
+### Art. 19
 
 Rilevamento precoce ed eradicazione rapida
 
@@ -790,7 +788,7 @@ c) trasmette alla Commissione europea le informazioni previste dall'articolo 17,
 
 > Il decreto del Presidente della Repubblica 8 settembre 1997, n. 357 recante attuazione della direttiva 92/43/CEE relativa alla conservazione degli habitat naturali e seminaturali, nonche' della flora e della fauna selvatiche e' pubblicato nella Gazz. Uff. 23 ottobre 1997, n. 248, S.O.
 
-#### Art. 20
+### Art. 20
 
 Deroghe all'obbligo di eradicazione rapida
 
@@ -804,7 +802,7 @@ Deroghe all'obbligo di eradicazione rapida
 
 5\. Il Ministero informa le Regioni e le Province autonome di Trento e Bolzano in merito alle comunicazioni intercorse con la Commissione europea.
 
-#### Art. 21
+### Art. 21
 
 Misure di emergenza
 
@@ -818,11 +816,9 @@ Misure di emergenza
 
 > Per i riferimenti normativi del regolamento (UE) n. 1143/2014 si veda nelle note alle premesse.
 
-## Titolo VI - GESTIONE DELLE SPECIE ESOTICHE
+## Titolo VI - GESTIONE DELLE SPECIE ESOTICHE INVASIVE AMPIAMENTE DIFFUSE
 
-### INVASIVE AMPIAMENTE DIFFUSE
-
-#### Art. 22
+### Art. 22
 
 Misure di gestione
 
@@ -858,7 +854,7 @@ Misure di gestione
 
 > 1-septies. Il piano o programma, dopo che e' stato adottato, e' pubblicato nel sito web dell'autorita' competente unitamente ad una dichiarazione di sintesi nella quale l'autorita' stessa da' conto delle considerazioni che sono state alla base della decisione. La dichiarazione contiene altresi' informazioni sulla partecipazione del pubblico.».
 
-#### Art. 23
+### Art. 23
 
 Ripristino degli ecosistemi danneggiati
 
@@ -878,7 +874,7 @@ b) misure volte a sostenere la prevenzione dalla reinvasione dopo una campagna d
 
 > «NORME IN MATERIA DI TUTELA RISARCITORIA CONTRO I DANNI ALL'AMBIENTE».
 
-#### Art. 24
+### Art. 24
 
 Recupero dei costi
 
@@ -892,7 +888,7 @@ Recupero dei costi
 
 ## Titolo VII - SANZIONI
 
-#### Art. 25
+### Art. 25
 
 Sanzioni
 
@@ -954,11 +950,9 @@ c) soppressione degli animali o distruzione dei vegetali per i quali non e' stat
 
 > b) Comandi, retti da generale di divisione o di brigata, che esercitano funzioni di direzione, di coordinamento e di controllo dei reparti dipendenti.».
 
-## Titolo VIII
+## Titolo VIII - NORME TRANSITORIE E FINALI
 
-### NORME TRANSITORIE E FINALI
-
-#### Art. 26
+### Art. 26
 
 Denuncia del possesso di esemplari
 
@@ -976,7 +970,7 @@ di specie esotiche invasive
 
 > Per i riferimenti normativi del regolamento (UE) n. 1143/2014 si veda nelle note alle premesse.
 
-#### Art. 27
+### Art. 27
 
 Disposizioni transitorie per proprietari non commerciali
 
@@ -998,7 +992,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 25 luglio 2018, n. 91, convertito con modificazioni dalla L. 21 settembre 2018, n. 108, ha disposto (con l'art. 3, comma 1) che "Il termine per la denuncia del possesso di esemplari di specie esotiche invasive di cui all'articolo 27, comma 1, del decreto legislativo 15 dicembre 2017, n. 230, iscritte nell'elenco dell'Unione alla data di entrata in vigore del medesimo decreto, e' prorogato al 31 agosto 2019".
 
-#### Art. 28
+### Art. 28
 
 Disposizioni transitorie per scorte commerciali
 
@@ -1020,7 +1014,7 @@ Disposizioni transitorie per scorte commerciali
 
 > Il regolamento (CE) n. 708/2007, relativo all'impiego in acquacoltura di specie esotiche e di specie localmente assenti, e' pubblicato nella G.U.U.E. 28 giugno 2007, n. L 168.
 
-#### Art. 29
+### Art. 29
 
 Tariffe
 
@@ -1030,7 +1024,7 @@ Tariffe
 
 3\. Il Ministro dell'economia e delle finanze provvede con propri decreti alle occorrenti variazioni di bilancio.
 
-#### Art. 30
+### Art. 30
 
 Clausola di invarianza finanziaria
 

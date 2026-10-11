@@ -44,11 +44,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - FINALITA' E DESTINATARI DEI CONTRIBUTI
 
-### FINALITA' E DESTINATARI DEI CONTRIBUTI
-
-###### Art. 1
+#### Art. 1
 
 Finalita'
 
@@ -178,7 +176,7 @@ Finalita'
 
 > 6\. Con decreto del Presidente del Consiglio dei ministri e' annualmente stabilita la destinazione delle risorse ai diversi interventi di competenza della Presidenza del Consiglio dei ministri.».
 
-###### Art. 2
+#### Art. 2
 
 Beneficiari dei contributi all'editoria
 
@@ -254,7 +252,7 @@ AGGIORNAMENTO (12)
 
 La L. 27 dicembre 2019, n. 160, come modificata dal D.L. 30 dicembre 2023, n. 215, convertito con modificazioni dalla L. 23 febbraio 2024, n. 18, nel modificare l'art. 1, comma 810 della L. 30 dicembre 2018, n. 145, ha conseguentemente disposto (con l'art. 1, comma 394) che "In previsione di una revisione organica della normativa a tutela del pluralismo dell'informazione, che tenga conto anche delle nuove modalita' di fruizione dell'informazione da parte dei cittadini, tutti i termini di cui all'articolo 1, comma 810, della legge 30 dicembre 2018, n. 145, sono differiti di novantasei mesi. Sono conseguentemente differite le riduzioni applicabili alla contribuzione diretta, di cui al decreto legislativo 15 maggio 2017, n. 70".
 
-###### Art. 3
+#### Art. 3
 
 Soggetti non ammessi ai contributi
 
@@ -272,13 +270,9 @@ AGGIORNAMENTO (3)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, ha disposto (con l'art. 1, comma 10-quinquiesdecies) che "Nelle more della revisione organica della normativa di cui all'articolo 1, comma 810, della legge 30 dicembre 2018, n. 145, l'articolo 3, comma 1, lettera c), del decreto legislativo 15 maggio 2017, n. 70, si interpreta nel senso che non possono accedere ai contributi all'editoria le imprese editrici di quotidiani e periodici partecipate, con quote maggioritarie, da gruppi editoriali quotati o partecipati da societa' quotate in mercati regolamentati".
 
-## Capo II
+## Capo II - REQUISITI E CRITERI PER IL CALCOLO DEL CONTRIBUTO A FAVORE DELLE COOPERATIVE GIORNALISTICHE, DEGLI ENTI SENZA FINI DI LUCRO E DELLE IMPRESE IL CUI CAPITALE SIA DETENUTO INTERAMENTE O IN MISURA MAGGIORITARIA DA ENTI SENZA FINI DI LUCRO
 
-### REQUISITI E CRITERI PER IL CALCOLO DEL CONTRIBUTO A FAVORE DELLE - COOPERATIVE GIORNALISTICHE, DEGLI ENTI SENZA FINI DI LUCRO E DELLE
-
-#### IMPRESE IL CUI CAPITALE SIA DETENUTO INTERAMENTE O IN MISURA - MAGGIORITARIA DA ENTI SENZA FINI DI LUCRO
-
-###### Art. 4
+#### Art. 4
 
 Cooperative giornalistiche
 
@@ -416,7 +410,7 @@ d) aver espressamente previsto nello statuto:
 
 > L'assemblea puo' deliberare la ripartizione dei ristorni a ciascun socio anche mediante aumento proporzionale delle rispettive quote o con l'emissione di nuove azioni, in deroga a quanto previsto dall'articolo 2525, ovvero mediante l'emissione di strumenti finanziari.».
 
-###### Art. 5
+#### Art. 5
 
 Requisiti di accesso
 
@@ -450,7 +444,7 @@ g) impegno ad adottare misure idonee a contrastare qualsiasi forma di pubblicita
 
 3\. Il requisito di cui al comma 1, lettera a), non si applica alle imprese, alle associazioni ed agli enti che provvedono ad adeguare l'assetto societario alle prescrizioni del presente decreto e che hanno percepito il contributo per l'annualita' precedente a quella in cui provvedono all'adeguamento. ((I requisiti di cui al comma 1, lettere a) e d), non si applicano alle cooperative giornalistiche costituite per subentrare nella gestione di una testata quotidiana di proprieta' di una societa' editrice in procedura fallimentare.))
 
-###### Art. 6
+#### Art. 6
 
 Distribuzione e vendita delle copie su carta
 
@@ -464,7 +458,7 @@ Sono, altresi', considerate copie distribuite quelle cedute in connessione con i
 
 4\. Nel caso di testate vendute in abbinamento ad altre, per le quali non e' individuabile il distinto prezzo di vendita, l'individuazione del prezzo e' effettuata tramite i documenti contabili di vendita, gli estratti conto del distributore, in possesso dell'impresa editrice ovvero tramite i contratti in essere con la testata abbinata.
 
-###### Art. 7
+#### Art. 7
 
 Edizione in formato digitale della testata
 
@@ -482,7 +476,7 @@ b) venti articoli o contenuti multimediali originali, aggiornati con una frequen
 
 5\. L'edizione digitale fruibile a titolo oneroso deve essere dotata di un sistema di pubblicazione che consenta la gestione di abbonamenti o di contenuti a pagamento, di una piattaforma che consenta l'integrazione con sistemi di pagamento digitale nonche' di un sistema di gestione di spazi pubblicitari digitali, anche attraverso soggetti concessionari.
 
-###### Art. 8
+#### Art. 8
 
 Criteri di calcolo del contributo
 
@@ -570,7 +564,7 @@ d) una riduzione del contributo pari all'importo dello stipendio eccedente il li
 
 > «Art. 13 (Limite al trattamento economico del personale pubblico e delle societa' partecipate). - 1. A decorrere dal 1° maggio 2014 il limite massimo retributivo riferito al primo presidente della Corte di cassazione previsto dagli articoli 23-bis e 23-ter del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, e successive modificazioni e integrazioni, e' fissato in euro 240.000 annui al lordo dei contributi previdenziali ed assistenziali e degli oneri fiscali a carico del dipendente. A decorrere dalla predetta data i riferimenti al limite retributivo di cui ai predetti articoli 23-bis e 23-ter contenuti in disposizioni legislative e regolamentari vigenti alla data di entrata in vigore del presente decreto, si intendono sostituiti dal predetto importo. Sono in ogni caso fatti salvi gli eventuali limiti retributivi in vigore al 30 aprile 2014 determinati per effetto di apposite disposizioni legislative, regolamentari e statutarie, qualora inferiori al limite fissato dal presente articolo.».
 
-###### Art. 9
+#### Art. 9
 
 Criteri di calcolo del contributo per l'edizione esclusivamente in formato digitale
 
@@ -594,19 +588,15 @@ c) una quota aggiuntiva in proporzione al numero di utenti unici finali raggiunt
 
 5\. All'edizione della testata pubblicata esclusivamente in formato digitale si applicano, altresi', le disposizioni di cui all'articolo 8, commi 3, 4, 14, 15 e 16.
 
-## Capo III
+## Capo III - PROCEDIMENTO DI LIQUIDAZIONE DEI CONTRIBUTI DIRETTI PER LE COOPERATIVE GIORNALISTICHE, GLI ENTI SENZA FINI DI LUCRO E LE IMPRESE IL CUI CAPITALE SIA DETENUTO INTERAMENTE O IN MISURA MAGGIORITARIA DA ENTI SENZA FINI DI LUCRO
 
-### PROCEDIMENTO DI LIQUIDAZIONE DEI CONTRIBUTI DIRETTI PER LE - COOPERATIVE GIORNALISTICHE, GLI ENTI SENZA FINI DI LUCRO E LE IMPRESE
-
-#### IL CUI CAPITALE SIA DETENUTO INTERAMENTE O IN MISURA MAGGIORITARIA DA - ENTI SENZA FINI DI LUCRO
-
-###### Art. 10
+#### Art. 10
 
 Domande e documentazione
 
 1\. Con decreto del Presidente del Consiglio dei ministri, da emanarsi entro 45 giorni dalla data di entrata in vigore del presente decreto, sono stabilite le modalita' della domanda di accesso ai contributi e la documentazione istruttoria da produrre.
 
-###### Art. 11
+#### Art. 11
 
 Erogazione del contributo
 
@@ -638,7 +628,7 @@ Erogazione del contributo
 
 > 2-bis. Con decreto di natura non regolamentare del Ministro dell'economia e delle finanze, l'importo di cui al comma 1 puo' essere aumentato, in misura comunque non superiore al doppio, ovvero diminuito.».
 
-###### Art. 12
+#### Art. 12
 
 Termine di conclusione del procedimento
 
@@ -652,7 +642,7 @@ Termine di conclusione del procedimento
 
 > 2\. Annualmente il Dipartimento per l'informazione e l'editoria trasmette alla Guardia di finanza l'elenco dei soggetti ammessi al contributo ed i relativi importi erogati ai fini dello sviluppo di eventuali accertamenti e controlli, anche a campione.».
 
-###### Art. 13
+#### Art. 13
 
 Verifiche a campione
 
@@ -672,11 +662,9 @@ Verifiche a campione
 
 > 4\. Se i reati indicati nei commi 1, 2 e 3 sono commessi per ottenere la nomina ad un pubblico ufficio o l'autorizzazione all'esercizio di una professione o arte, il giudice, nei casi piu' gravi, puo' applicare l'interdizione temporanea dai pubblici uffici o dalla professione e arte.».
 
-## Capo IV
+## Capo IV - CONTRIBUTO PER IL SOSTEGNO ALLE TESTATE ESPRESSIONE DI MINORANZE LINGUISTICHE
 
-### CONTRIBUTO PER IL SOSTEGNO ALLE TESTATE ESPRESSIONE DI MINORANZE - LINGUISTICHE
-
-###### Art. 14
+#### Art. 14
 
 Beneficiari del contributo
 
@@ -696,15 +684,11 @@ Beneficiari del contributo
 
 > 1\.
 
-## Capo V
+## Capo V - CONTRIBUTO PER IL SOSTEGNO ALLA STAMPA ITALIANA DIFFUSA ALL'ESTERO
 
-### CONTRIBUTO PER IL SOSTEGNO ALLA STAMPA ITALIANA DIFFUSA ALL'ESTERO
+### Sezione I - Disposizioni generali
 
-#### Sezione I
-
-##### Disposizioni generali
-
-###### Art. 15
+#### Art. 15
 
 Beneficiari del contributo
 
@@ -718,7 +702,7 @@ b) periodici italiani in lingua italiana editi e diffusi all'estero o editi in I
 
 3\. Si considerano prevalentemente diffusi all'estero i quotidiani e i periodici con una diffusione all'estero non inferiore al 60 per cento delle copie complessivamente distribuite. Per i quotidiani editi esclusivamente in formato digitale, si considerano prevalentemente diffusi all'estero quelli che raggiungono una percentuale di utenti unici mensili all'estero non inferiore al 60 per cento del numero totale di utenti unici mensili.
 
-###### Art. 16
+#### Art. 16
 
 Tasso di cambio e documentazione in lingua straniera
 
@@ -728,11 +712,9 @@ Tasso di cambio e documentazione in lingua straniera
 
 3\. La documentazione in lingua straniera e' accompagnata dalla relativa traduzione in lingua italiana conforme al testo straniero certificata dal competente ufficio consolare o da un traduttore ufficiale.
 
-## Sezione II
+### Sezione II - Quotidiani diffusi all'estero
 
-### Quotidiani diffusi all'estero
-
-###### Art. 17
+#### Art. 17
 
 Requisiti di accesso
 
@@ -744,7 +726,7 @@ Requisiti di accesso
 
 4\. Per l'edizione in formato digitale della testata si applicano le disposizioni contenute nell'articolo 7.
 
-###### Art. 18
+#### Art. 18
 
 Criteri di calcolo del contributo
 
@@ -754,7 +736,7 @@ Criteri di calcolo del contributo
 
 3\. Per l'edizione in formato digitale della testata si applicano le disposizioni contenute nell'articolo 9, commi 1, 2, 3 e 5.
 
-###### Art. 19
+#### Art. 19
 
 Procedimento per la concessione del contributo
 
@@ -764,7 +746,7 @@ Procedimento per la concessione del contributo
 
 3\. Il procedimento per la concessione del contributo si conclude nel termine previsto dall'articolo 12. A tale data il provvedimento e' comunque adottato sulla base delle risultanze istruttorie acquisite, fermo restando il potere dell'amministrazione di procedere al recupero delle somme che risultino indebitamente percepite all'esito dei controlli successivi.
 
-###### Art. 20
+#### Art. 20
 
 Erogazione del contributo
 
@@ -780,11 +762,9 @@ Erogazione del contributo
 
 > 1\.
 
-## Sezione III
+### Sezione III - Periodici diffusi all'estero
 
-### Periodici diffusi all'estero
-
-###### Art. 21
+#### Art. 21
 
 Requisiti di accesso
 
@@ -798,7 +778,7 @@ a) periodicita' almeno trimestrale della testata nell'anno di riferimento del co
 
 b) trattazione di argomenti di interesse delle comunita' italiane all'estero, avuto riguardo anche alla diffusione della lingua e della cultura italiana e al contributo alla promozione del sistema Italia all'estero, attestati dal competente capo dell'ufficio consolare italiano di prima categoria. Per le testate edite all'estero, la trattazione deve essere svolta con testi scritti almeno per il 50 per cento in lingua italiana.
 
-###### Art. 22
+#### Art. 22
 
 Criteri di calcolo del contributo
 
@@ -830,7 +810,7 @@ Se il prezzo effettivo di vendita, convertito in euro ai sensi dell'articolo 16,
 
 6\. Il contributo non puo' superare il limite massimo del 5 per cento del corrispondente stanziamento annuale destinato alla stampa periodica italiana all'estero. Al contributo non si applica il limite previsto dall'articolo 8, comma 16.
 
-###### Art. 23
+#### Art. 23
 
 Procedimento per la concessione del contributo
 
@@ -840,7 +820,7 @@ Procedimento per la concessione del contributo
 
 3\. Il procedimento per la concessione dei contributi e' concluso entro il 31 ottobre dell'anno successivo a quello cui si riferisce il contributo. A tale data il provvedimento e' comunque adottato sulla base delle risultanze istruttorie acquisite, fermo restando il potere dell'amministrazione di procedere al recupero delle somme che risultino indebitamente percepite all'esito dei controlli successivi.
 
-###### Art. 24
+#### Art. 24
 
 Erogazione del contributo
 
@@ -860,15 +840,11 @@ Erogazione del contributo
 
 > \- Per il riferimento all'art. 48-bis del citato decreto del Presidente della Repubblica n. 602 del 1973, si veda nelle note all'art. 11.
 
-## Capo VI
+## Capo VI - CONTRIBUTO A SOSTEGNO DELL'EDITORIA SPECIALE PERIODICA PER NON VEDENTI E IPOVEDENTI E A TUTELA DEI CONSUMATORI E DEGLI UTENTI
 
-### CONTRIBUTO A SOSTEGNO DELL'EDITORIA SPECIALE PERIODICA PER NON - VEDENTI E IPOVEDENTI E A TUTELA DEI CONSUMATORI E DEGLI UTENTI
+### Sezione I - Disposizioni generali
 
-#### Sezione I
-
-##### Disposizioni generali
-
-###### Art. 25
+#### Art. 25
 
 Beneficiari del contributo
 
@@ -876,11 +852,9 @@ Beneficiari del contributo
 
 2\. Alle associazioni di cui all'articolo 2, comma 1, lettera f), sono concessi contributi per i periodici divulgativi di contenuti strettamente attinenti alla tutela dei consumatori.
 
-## Sezione II
+### Sezione II - Periodici per non vedenti e ipovedenti
 
-### Periodici per non vedenti e ipovedenti
-
-###### Art. 26
+#### Art. 26
 
 Requisiti di accesso
 
@@ -888,7 +862,7 @@ Requisiti di accesso
 
 2\. Per accedere al contributo e' altresi' necessario che la testata abbia una periodicita' almeno quadrimestrale nell'anno di riferimento del contributo.
 
-###### Art. 27
+#### Art. 27
 
 Erogazione del contributo e criteri di calcolo
 
@@ -918,7 +892,7 @@ d) il 10 per cento, in parti uguali, per la diffusione delle riviste in formato 
 
 > 1\.
 
-###### Art. 28
+#### Art. 28
 
 Procedimento per la concessione del contributo
 
@@ -928,11 +902,9 @@ Procedimento per la concessione del contributo
 
 3\. Il procedimento per la concessione del contributo si conclude entro il 30 settembre dell'anno successivo a quello di riferimento del contributo. A tale data il provvedimento e' comunque adottato sulla base delle risultanze istruttorie acquisite, fermo restando il potere dell'amministrazione di procedere al recupero delle somme che risultino indebitamente percepite all'esito dei controlli successivi.
 
-## Sezione III
+### Sezione III - Periodici editi dalle associazioni dei consumatori e degli utenti
 
-### Periodici editi dalle associazioni dei consumatori e degli utenti
-
-###### Art. 29
+#### Art. 29
 
 Requisiti di accesso
 
@@ -946,7 +918,7 @@ Requisiti di accesso
 
 > \- Per il riferimento all'art. 137 del citato decreto legislativo n. 206 del 2005, si veda nelle note all'art. 2.
 
-###### Art. 30
+#### Art. 30
 
 Erogazione del contributo e criteri di calcolo
 
@@ -974,7 +946,7 @@ Al contributo non si applica il limite previsto dall'articolo 8, comma 16.
 
 > 1\.
 
-###### Art. 31
+#### Art. 31
 
 Procedimento per la concessione del contributo
 
@@ -984,11 +956,9 @@ Procedimento per la concessione del contributo
 
 3\. Il procedimento per la concessione del contributo si conclude entro il 30 settembre dell'anno successivo a quello cui si riferisce il contributo. A tale data il provvedimento e' comunque adottato sulla base delle risultanze istruttorie acquisite, fermo restando il potere dell'amministrazione di procedere al recupero delle somme che risultino indebitamente percepite all'esito dei controlli successivi.
 
-## Capo VII
+## Capo VII - ABROGAZIONI ED ENTRATA IN VIGORE
 
-### ABROGAZIONI ED ENTRATA IN VIGORE
-
-###### Art. 32
+#### Art. 32
 
 Abrogazioni
 
@@ -1268,7 +1238,7 @@ u) decreto del Presidente della Repubblica 11 agosto 2014, n. 138.
 
 > 5-ter. All'articolo 1, comma 6, lettera a), numero 5), della legge 31 luglio 1997, n. 249, dopo le parole: "le imprese concessionarie di pubblicita' da trasmettere mediante impianti radiofonici o televisivi o da diffondere su giornali quotidiani o periodici," sono inserite le seguenti: "sul web e altre piattaforme digitali fisse o mobili.".».
 
-###### Art. 33
+#### Art. 33
 
 Entrata in vigore
 

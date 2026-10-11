@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I - Principi generali e sistema di coordinamento e programmazione
+## Capo I - Principi generali e sistema di coordinamento e programmazione interministeriale
 
-### interministeriale
-
-##### Art. 1
+### Art. 1
 
 Definizioni
 
@@ -282,7 +280,7 @@ f) «caregiver familiari»: i soggetti di cui all'articolo 1, comma 255, della l
 
 > «255. Si definisce caregiver familiare la persona che assiste e si prende cura del coniuge, dell'altra parte dell'unione civile tra persone dello stesso sesso o del convivente di fatto ai sensi della legge 20 maggio 2016, n. 76, di un familiare o di un affine entro il secondo grado, ovvero, nei soli casi indicati dall'articolo 33, comma 3, della legge 5 febbraio 1992, n. 104, di un familiare entro il terzo grado che, a causa di malattia, infermita' o disabilita', anche croniche o degenerative, non sia autosufficiente e in grado di prendersi cura di se', sia riconosciuto invalido in quanto bisognoso di assistenza globale e continua di lunga durata ai sensi dell'articolo 3, comma 3, della legge 5 febbraio 1992, n. 104, o sia titolare di indennita' di accompagnamento ai sensi della legge 11 febbraio 1980, n. 18».
 
-##### Art. 2
+### Art. 2
 
 Oggetto, principi e criteri direttivi generali di delega e istituzione del Comitato interministeriale per le politiche in favore della popolazione anziana
 
@@ -328,13 +326,9 @@ d) monitora l'attuazione del Piano nazionale per l'invecchiamento attivo, l'incl
 
 5\. All'attuazione delle disposizioni di cui ai commi 3 e 4 la Presidenza del Consiglio dei ministri provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente sul proprio bilancio e, comunque, senza nuovi o maggiori oneri per la finanza pubblica.
 
-## Capo II - Deleghe al Governo in materia di politiche per l'invecchiamento
+## Capo II - Deleghe al Governo in materia di politiche per l'invecchiamento attivo, la promozione dell'autonomia, la prevenzione della fragilita', l'assistenza e la cura delle persone anziane anche non autosufficienti
 
-### attivo, la promozione dell'autonomia, la prevenzione della - fragilita', l'assistenza e la cura delle persone anziane anche non
-
-#### autosufficienti
-
-##### Art. 3
+### Art. 3
 
 Delega al Governo in materia di invecchiamento attivo, promozione dell'inclusione sociale e prevenzione della fragilita'
 
@@ -380,7 +374,7 @@ c) con riguardo agli interventi per la prevenzione della fragilita', in coerenza
 
 2\) all'esito della valutazione, svolgimento presso il PUA dell'attivita' di screening per l'individuazione dei fabbisogni di assistenza della persona e per i necessari orientamento e supporto informativo ai fini dell'accesso al continuum di servizi e alle reti di inclusione sociale previsti dalla programmazione integrata socio-assistenziale e sociosanitaria statale e regionale.
 
-##### Art. 4
+### Art. 4
 
 Delega al Governo in materia di assistenza sociale, sanitaria e sociosanitaria per le persone anziane non autosufficienti
 
@@ -788,7 +782,7 @@ s) al fine di favorire e sostenere le migliori condizioni di vita delle persone 
 
 > 4-bis. Salvo il disposto dei commi 2 e 3, il mancato adempimento degli obblighi di alimentazione del fascicolo sanitario elettronico (FSE), nei termini indicati dall'articolo 12, comma 1, del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221, e nel rispetto delle modalita' e delle misure tecniche individuate ai sensi del comma 7 del medesimo articolo 12, costituisce grave inadempimento degli obblighi assunti mediante la stipula dei contratti e degli accordi contrattuali di cui all'articolo 8-quinquies».
 
-##### Art. 5
+### Art. 5
 
 Delega al Governo in materia di politiche per la sostenibilita' economica e la flessibilita' dei servizi di cura e assistenza a lungo termine per le persone anziane e per le persone anziane non autosufficienti
 
@@ -832,7 +826,7 @@ c) al fine di sostenere il processo di progressivo ed equilibrato miglioramento 
 
 ## Capo III - Disposizioni finali
 
-##### Art. 6
+### Art. 6
 
 Procedimento per l'adozione dei decreti legislativi
 
@@ -844,13 +838,13 @@ Procedimento per l'adozione dei decreti legislativi
 
 > \- Per l'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, si veda nelle note all'articolo 2.
 
-##### Art. 7
+### Art. 7
 
 Clausola di salvaguardia
 
 1\. Le disposizioni della presente legge e quelle dei decreti legislativi emanati in attuazione della stessa sono applicabili nelle regioni a statuto speciale e nelle province autonome di Trento e di Bolzano compatibilmente con i rispettivi statuti e le relative norme di attuazione.
 
-##### Art. 8
+### Art. 8
 
 Disposizioni finanziarie
 
@@ -970,7 +964,7 @@ c) del Fondo di cui all'articolo 1, commi 1250, 1251 e 1252, della legge 27 dice
 
 > «2. Le leggi di delega comportanti oneri recano i mezzi di copertura necessari per l'adozione dei relativi decreti legislativi. Qualora, in sede di conferimento della delega, per la complessita' della materia trattata, non sia possibile procedere alla determinazione degli effetti finanziari derivanti dai decreti legislativi, la quantificazione degli stessi e' effettuata al momento dell'adozione dei singoli decreti legislativi. I decreti legislativi dai quali derivano nuovi o maggiori oneri sono emanati solo successivamente all'entrata in vigore dei provvedimenti legislativi che stanzino le occorrenti risorse finanziarie. A ciascuno schema di decreto legislativo e' allegata una relazione tecnica, predisposta ai sensi del comma 3, che da' conto della neutralita' finanziaria del medesimo decreto ovvero dei nuovi o maggiori oneri da esso derivanti e dei corrispondenti mezzi di copertura».
 
-##### Art. 9
+### Art. 9
 
 Entrata in vigore
 

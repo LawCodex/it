@@ -27,7 +27,7 @@ la seguente legge:
 
 ## TITOLO I - NORME RELATIVE AL TRATTAMENTO DI PENSIONE
 
-#### Art. 1
+### Art. 1
 
 La lettera a) dell'articolo 6 della legge 2 aprile 1958, n. 377, e' sostituita dalla seguente:
 
@@ -37,19 +37,19 @@ Presso la gestione del Fondo e' costituita una speciale riserva, il cui ammontar
 
 In sede di prima costituzione l'ammontare della predetta riserva deve essere pari all'importo di due annualita' delle integrazioni a carico del Fondo, in corso di pagamento alla data del 31 dicembre 1968".
 
-#### Art. 2
+### Art. 2
 
 Con decorrenza dal 1 gennaio 1969, il punto 1) dell'articolo 10 della legge 2 aprile 1958, n. 377, e' sostituito dal seguente:
 
 "1) per il trattamento integrativo di pensione di cui all'articolo 2, primo comma, punto 1), con un contributo calcolato in base al sistema tecnico finanziario della ripartizione pari al 5,50 per cento della retribuzione corrisposta agli iscritti e indicata al punto 1) del successivo articolo 13".
 
-#### Art. 3
+### Art. 3
 
 L'ultimo comma del punto 1) dell'articolo 13 della legge 2 aprile 1958, n. 377, e' sostituito dal seguente:
 
 "Qualora la retribuzione corrisposta nel mese risulti inferiore a lire 40.000 il contributo e' sempre commisurato su tale limite minimo".
 
-#### Art. 4
+### Art. 4
 
 Con decorrenza dal 1 gennaio 1969, il primo e il secondo comma dell'articolo 23 della legge 2 aprile 1958, n. 377, sono sostituiti dai seguenti:
 
@@ -57,7 +57,7 @@ Con decorrenza dal 1 gennaio 1969, il primo e il secondo comma dell'articolo 23 
 
 La retribuzione utile ai fini del calcolo della pensione annua complessiva a norma del precedente comma non puo' essere di ammontare superiore alla media delle retribuzioni percepite dall'iscritto nell'ultimo triennio di servizio, maggiorata del 20 per cento".
 
-#### Art. 5
+### Art. 5
 
 Con decorrenza dal 1 luglio 1967, all'articolo 23 della legge 2 aprile 1958, n. 377, sono aggiunti i seguenti commi:
 
@@ -67,7 +67,7 @@ La maggiorazione spetta anche per la moglie o per il marito a carico e invalido 
 
 La maggiorazione per i familiari a carico di cui ai commi precedenti non spetta ai titolari di pensione liquidata a totale carico del Fondo".
 
-#### Art. 6
+### Art. 6
 
 Con decorrenza dal 1 gennaio 1969, l'articolo 24 della legge 2 aprile 1958, n. 377, e' sostituito dal seguente:
 
@@ -89,17 +89,17 @@ La pensione annua spettante ai sensi della presente legge e' corrisposta agli av
 
 La tredicesima quota e' corrisposta per un importo proporzionale al numero delle quote di pensione maturate nell'anno".
 
-#### Art. 7
+### Art. 7
 
 La facolta' di cui al comma secondo dell'articolo 32 della legge 2 aprile 1958, n. 377, puo' essere esercitata anche dall'iscritto il quale, all'atto della cessazione dal servizio presso esattorie e ricevitorie delle imposte dirette, abbia conseguito il requisito minimo di contribuzione per la pensione di vecchiaia previsto dalla legge citata. Detta facolta' non puo' essere piu' esercitata quando sia decorso il quinto anno precedente il compimento dell'eta' pensionabile secondo le norme del Fondo.
 
 Una volta esercitata la facolta' prevista dal precedente comma non e' consentito il ripristino dell'iscrizione al Fondo.
 
-#### Art. 8
+### Art. 8
 
 Gli iscritti al Fondo, che siano cessati dal servizio anteriormente alla data di entrata in vigore della presente legge, possono esercitare la facolta' prevista dall'articolo precedente, fino a che non sia decorso il secondo anno anteriore a quello di compimento dell'eta' pensionabile secondo le norme del Fondo. La richiesta di liquidazione deve essere comunque presentata, a pena di decadenza, entro un anno dalla data di entrata in vigore della presente legge.
 
-#### Art. 9
+### Art. 9
 
 Con decorrenza dal 1 gennaio 1969, gli articoli 34 e 35 della legge 2 aprile 1958, n. 377, sono sostituiti dal seguente:
 
@@ -117,13 +117,13 @@ Se la morte dell'iscritto e' avvenuta in costanza del rapporto di lavoro, le ali
 
 Nel caso di concorso di piu' superstiti e di perdita del diritto a pensione da parte di uno di essi, il trattamento complessivo e' riliquidato secondo le norme precedenti".
 
-#### Art. 10
+### Art. 10
 
 Le pensioni e quote di pensione di riversibilita' o indirette, liquidate ai sensi dell'articolo 34 della legge 2 aprile 1958, n. 377, a seguito di decessi avvenuti in data anteriore a quella di pubblicazione della presente legge, a favore di figli in eta' compresa tra il diciottesimo e il ventunesimo anno sono corrisposte fino al compimento del ventunesimo anno di eta'. Le pensioni e quote di pensione non dovute dall'assicurazione generale obbligatoria sono poste a carico del Fondo fino al compimento del ventunesimo anno di eta'.
 
 Ai soggetti di cui al comma precedente e' corrisposta la pensione o quota di pensione secondo le norme dell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia e i superstiti, anche dopo il compimento del ventunesimo anno di eta', purche' sussistano le condizioni previste dal precedente articolo.
 
-#### Art. 11
+### Art. 11
 
 L'articolo 37 della legge 2 aprile 1958, n. 377, e' sostituito dal seguente:
 
@@ -131,7 +131,7 @@ L'articolo 37 della legge 2 aprile 1958, n. 377, e' sostituito dal seguente:
 
 Al coniuge che perda il diritto alla pensione per sopravvenuto matrimonio, spetta l'assegno a carico dell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia e i superstiti, di cui all'art. 13 della legge 4 aprile 1952, n. 218, e successive modificazioni".
 
-#### Art. 12
+### Art. 12
 
 L'articolo 38 della legge 2 aprile 1.958, n. 377, e' sostituito dal seguente:
 
@@ -141,17 +141,15 @@ Qualora manchi il coniuge, l'indennita' di cui al comma precedente spetta ai fig
 
 Per la liquidazione dell'indennita' a carico dell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia e i superstiti si applicano le norme di tale assicurazione".
 
-#### Art. 13
+### Art. 13
 
 A decorrere dal 1 gennaio 1969 la perequazione automatica delle pensioni e' applicata secondo le norme di cui all'articolo 19 della legge 30 aprile 1969, n. 153.
 
 A decorrere dal 1 gennaio 1969 l'articolo 39 della legge 2 aprile 1958, n. 377, e' abrogato.
 
-## TITOLO II - NORME RELATIVE ALLE PRESTAZIONI
+## TITOLO II - NORME RELATIVE ALLE PRESTAZIONI IN CAPITALE
 
-### IN CAPITALE
-
-#### Art. 14
+### Art. 14
 
 Il punto 2) dell'articolo 2 della legge 2 aprile 1958, n. 377, e' sostituito dal seguente:
 
@@ -159,19 +157,19 @@ Il punto 2) dell'articolo 2 della legge 2 aprile 1958, n. 377, e' sostituito dal
 
 Il secondo comma dell'articolo 2 della legge 2 aprile 1958, n. 377, e' abrogato.
 
-#### Art. 15
+### Art. 15
 
 La lettera d) dell'articolo 5 della legge 2 aprile 1958, n. 377, e' sostituita dalla seguente:
 
 "d) esprimere parere sulle norme relative al trattamento di anzianita', che si intendano inserire nei contratti collettivi di lavoro di categoria e nei regolamenti aziendali".
 
-#### Art. 16
+### Art. 16
 
 La lettera b) dell'articolo 6 della legge 2 aprile 1958, n. 377, e' sostituita dalla seguente:
 
 "b) per le prestazioni di capitale di cui al comma primo, punto 2), dello stesso articolo 2, con il sistema della ripartizione annuale dell'onere, limitatamente alla parte di capitale commisurata all'indennita' di anzianita' dovuta per la cessazione del rapporto di lavoro, ai sensi dei contratti collettivi di lavoro e dei regolamenti aziendali; per la parte di capitale corrispondente alla integrazione dovuta per i casi di cessazione del rapporto di lavoro, derivante da morte o da invalidita' dell'iscritto, debitamente accertata ai sensi dell'articolo 21, con una assicurazione temporanea di gruppo a premio annuo costante".
 
-#### Art. 17
+### Art. 17
 
 Nella gestione di cui all'articolo 14 della presente legge e' costituita una speciale riserva, il cui importo dovra' essere pari, alla fine di ciascun anno, al doppio delle indennita' di anzianita' corrisposte nell'anno medesimo.
 
@@ -179,7 +177,7 @@ Tale consistenza sara' raggiunta entro il primo decennio di applicazione della p
 
 La riserva di cui al primo comma sara' incrementata dagli eventuali avanzi annuali relativi all'assicurazione temporanea di gruppo per le integrazioni dovute nei casi di morte o di invalidita' dell'iscritto.
 
-#### Art. 18
+### Art. 18
 
 Il secondo comma dell'articolo 7 della legge 2 aprile 1958, n. 377, e' sostituito dal seguente:
 
@@ -187,7 +185,7 @@ Il secondo comma dell'articolo 7 della legge 2 aprile 1958, n. 377, e' sostituit
 
 Il terzo comma dell'articolo 7 della legge 2 aprile 1958, n. 377, e' abrogato.
 
-#### Art. 19
+### Art. 19
 
 Il punto 2), lettere a) e b), dell'articolo 10 della legge 2 aprile 1958, n. 377, e' sostituito dal seguente:
 
@@ -197,17 +195,17 @@ a) per il 16 per cento alla gestione per le indennita' di anzianita';
 
 b) per l'1 per cento all'assicurazione temporanea di gruppo, per l'integrazione dovuta nei casi di morte o di invalidita' dell'iscritto".
 
-#### Art. 20
+### Art. 20
 
 Dal gettito dei contributi di cui all'articolo 10, punto 2), lettera a), della legge 2 aprile 1958, n. 377, nel testo sostituito dal precedente articolo 19, l'Istituto nazionale della previdenza sociale provvede a reintroitare, a favore del Fondo di previdenza per gli impiegati dipendenti da esattorie e ricevitorie delle imposte dirette, le somme, maggiorate dell'interesse al tasso annuo del 5,50 per cento, anticipate fino alla data di entrata in vigore della presente legge, per consentire il pagamento delle indennita' di anzianita'.
 
-#### Art. 21
+### Art. 21
 
 Il punto 2) dell'articolo 41 della legge 2 aprile 1958, n. 377, e' sostituito dal seguente:
 
 "2) per gli iscritti che cessano dal servizio per cause diverse da quelle indicate al punto 1) del presente articolo, all'intero ammontare dell'indennita' di anzianita'".
 
-#### Art. 22
+### Art. 22
 
 L'articolo 42 della legge 2 aprile 1958, n. 377, e' sostituito dal seguente:
 
@@ -219,7 +217,7 @@ per la parte commisurata all'indennita' di anzianita' agli aventi diritto ai sen
 
 per la restante parte, corrispondente alla integrazione di cui al punto 1) dell'articolo 41, al coniuge, ai figli minori e, se viventi a carico, ai figli maggiorenni, ai genitori e agli altri parenti entro il secondo grado; la ripartizione e' fatta in parti uguali".
 
-#### Art. 23
+### Art. 23
 
 L'articolo 45 della legge 2 aprile 1958, n. 377, e' sostituito dal seguente:
 
@@ -233,7 +231,7 @@ Il pagamento della somma dovuta puo' essere effettuato in unica soluzione, conte
 
 Qualora il lavoratore abbia gia' riscosso le prestazioni di capitale pertinenti al precedente rapporto, e' tenuto ad effettuarne il rimborso al Fondo entro il termine perentorio di un mese dalla comunicazione della concessione del ricongiungimento, con l'aggiunta dei relativi interessi nella misura del 4,50 per cento dal giorno della riscossione".
 
-#### Art. 24
+### Art. 24
 
 L'articolo 46 della legge 2 aprile 1958, n. 377, e' sostituito dal seguente:
 
@@ -245,7 +243,7 @@ Per la differenza, il Fondo esercita rivalsa entro 5 anni verso il datore di lav
 
 Nei casi di morte o di invalidita', l'onere delle prestazioni di capitale e' a totale carico del Fondo".
 
-#### Art. 25
+### Art. 25
 
 L'articolo 48 della legge 2 aprile 1958, n. 377, e' sostituito dal seguente:
 
@@ -257,7 +255,7 @@ Il Fondo ha diritto di trattenere, anche in caso di morte dell'iscritto, sulle s
 
 ## TITOLO III - NORME TRANSITORIE E DI ATTUAZIONE
 
-#### Art. 26
+### Art. 26
 
 I trattamenti complessivi di pensione spettanti ai titolari di pensione di vecchiaia e invalidita' in essere alla data del 1 gennaio 1969, liquidati dal Fondo con decorrenza anteriore al 1 gennaio 1950, sono riliquidati, sostituendo agli importi di pensione indicati nell'articolo 67 della legge 2 aprile 1958, n. 377, quelli riportati nella seguente tabella, nei quali sono assorbiti gli scatti di scala mobile maturati a tutto il 31 maggio 1966:
 
@@ -349,7 +347,7 @@ Classe di importo Indiretta o di della pensione base annua Diretta riversibilita
 
 Le somme erogate ai sensi del precedente comma sono a carico del Fondo.
 
-#### Art. 27
+### Art. 27
 
 Alle pensioni liquidate dal Fondo con le decorrenze sottoindicate, in essere alla data del 31 dicembre 1968, sono applicate, sugli importi in atto a tale data, le seguenti percentuali di aumento, con effetto dal 1 gennaio 1969:
 
@@ -383,7 +381,7 @@ Le somme erogate ai sensi del precedente comma sono a carico del
 
 Fondo.
 
-#### Art. 28
+### Art. 28
 
 A decorrere dal 1 gennaio 1969, gli importi delle pensioni in essere a tale data, risultanti dall'applicazione della presente legge, sono rivalutati, applicando ad essi i sottoelencati coefficienti, che, ai sensi dell'articolo 39 della legge 2 aprile 1958, n. 377, tengono conto delle variazioni dell'indice del costo della vita verificatesi dal 1 giugno 1966 al 31 dicembre 1968.
 
@@ -403,13 +401,13 @@ il 1 gennaio 1968 e il 31 dicem-
 
 bre 1968.......................... coeff. 1,006921
 
-#### Art. 29
+### Art. 29
 
 L'articolo 57 della legge 2 aprile 1958, n. 377, e' sostituito dal seguente:
 
 "Gli iscritti al Fondo alla data di entrata in vigore della presente legge, a favore dei quali risultino versati o accreditati contributi nell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia e i superstiti per periodi anteriori alla data di iscrizione al Fondo stesso, ovvero risultino effettuati versamenti volontari nella assicurazione predetta per periodi anteriori alla data di entrata in vigore della presente legge, anche se contemporanei all'iscrizione al Fondo, hanno diritto, oltreche' alla pensione calcolata ai sensi dell'art. 23, ad un supplemento pari alla quota della pensione liquidata dall'assicurazione obbligatoria in relazione ai predetti contributi".
 
-#### Art. 30
+### Art. 30
 
 L'Istituto nazionale delle assicurazioni cessa, con effetto dalla data di entrata in vigore della presente legge, dalla gestione della capitalizzazione e dell'assicurazione temporanea di gruppo, affidatagli dall'Istituto nazionale della previdenza sociale, a norma della legge 2 aprile 1958, n. 377, e successive modificazioni.
 
@@ -421,11 +419,11 @@ Dalla data di entrata in vigore della presente legge, l'Istituto nazionale della
 
 L'Istituto nazionale delle assicurazioni trasferisce all'Istituto nazionale della previdenza sociale i fascicoli individuali, i documenti e le scritture contabili relativi a tutti gli iscritti al Fondo sino alla data di entrata in vigore della presente legge, nonche' ogni altro documento e atto in suo possesso concernente i rapporti ancora pendenti con le aziende e con gli iscritti.
 
-#### Art. 31
+### Art. 31
 
 La rappresentanza dell'Istituto nazionale delle assicurazioni in seno al comitato speciale di cui all'articolo 4 della legge 2 aprile 1958, n. 377, e' soppressa.
 
-#### Art. 32
+### Art. 32
 
 Le aliquote contributive di cui all'articolo 10, nn. 1 e 2, della legge 2 aprile 1958, n. 377, nel testo sostituito dagli articoli 2 e 19 della presente legge, possono essere variate, in relazione al fabbisogno del Fondo e alle risultanze di gestione dell'anno precedente, con effetto dal 1 gennaio dell'anno in cui la variazione viene disposta, mediante decreto del Presidente della Repubblica, su proposta del Ministro per il lavoro e la previdenza sociale, di concerto con il Ministro per il tesoro, sentito il comitato speciale del Fondo.
 
@@ -435,11 +433,11 @@ Dopo il primo quadriennio di applicazione della presente legge, potra' essere va
 
 E' abrogato l'articolo 12 della legge 2 aprile 1958; n. 377, nel testo sostituito dall'articolo 2 della legge 27 giugno 1957, n. 536.
 
-#### Art. 33
+### Art. 33
 
 Sono abrogati gli articoli 40, 44 e 47 della legge 2 aprile 1958, n. 377, la legge 27 giugno 1967, n. 536, il decreto del Presidente della Repubblica 9 aprile 1969, nonche' tutte le norme incompatibili con quelle della presente legge.
 
-#### Art. 34
+### Art. 34
 
 La presente legge entra in vigore il primo giorno del mese successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 

@@ -118,9 +118,7 @@ Visto, il Guardasigilli: Nordio
 
 ## TITOLO I - Oggetto e ambito di applicazione
 
-### Capo I
-
-#### Disposizioni generali
+### Capo I - Disposizioni generali
 
 TESTO UNICO IN MATERIA DI IMPOSTA SUL VALORE AGGIUNTO
 
@@ -136,9 +134,7 @@ Operazioni imponibili
 
 ## TITOLO II - Ambito territoriale di applicazione
 
-### Capo I
-
-#### Definizioni
+### Capo I - Definizioni
 
 ##### ART. 2
 
@@ -174,9 +170,7 @@ g) per «locazione, anche finanziaria, noleggio e simili, a breve termine di mez
 
 ## TITOLO III - Soggetti passivi
 
-### Capo I
-
-#### Esercizio di imprese, arti e professioni
+### Capo I - Esercizio di imprese, arti e professioni
 
 ##### ART. 3
 
@@ -274,9 +268,7 @@ Esercizio di arti e professioni
 
 ## TITOLO IV - Operazioni imponibili
 
-### Capo I
-
-#### Cessione di beni
+### Capo I - Cessione di beni
 
 ##### ART. 5
 
@@ -348,7 +340,7 @@ b) le vendite a distanza di beni importati da territori terzi o da paesi terzi, 
 
 2\. Il soggetto passivo che facilita tramite l'uso di un'interfaccia elettronica le cessioni di beni di cui al comma 1 si considera cessionario e rivenditore di detti beni.
 
-## Capo II - Acquisti intraunionali di beni
+### Capo II - Acquisti intraunionali di beni
 
 ##### ART. 8
 
@@ -426,7 +418,7 @@ e) il giorno in cui i beni sono stati effettivamente distrutti, rubati o perduti
 
 5\. L'acquisto intraunionale e' effettuato dal soggetto che entro dodici mesi dall'arrivo dei beni nello Stato sostituisce il soggetto passivo destinatario della cessione purche', al momento della sostituzione, siano soddisfatte tutte le altre condizioni di cui al comma 1 e il soggetto passivo che spedisce o trasporta i beni annoti la sostituzione nel registro di cui all'articolo 101, comma 5.
 
-## Capo III - Prestazioni di servizi
+### Capo III - Prestazioni di servizi
 
 ##### ART. 10
 
@@ -484,7 +476,7 @@ b) delle apparecchiature terminali per il servizio radiomobile pubblico terrestr
 
 7\. I contributi imposti dai consorzi di bonifica e le spese generali per le concessioni di opere pubbliche agli stessi assentite dallo Stato e dalle regioni non costituiscono, ai fini dell'imposta sul valore aggiunto, corrispettivi per prestazioni di servizi svolte nell'esercizio di attivita' commerciali di cui all'articolo 2195 del codice civile.
 
-## Capo IV - Importazioni
+### Capo IV - Importazioni
 
 ##### ART. 11
 
@@ -510,7 +502,7 @@ d) le operazioni di immissione in consumo relative a beni provenienti dal Monte 
 
 5\. Nell'ambito dell'analisi dei rischi effettuata secondo i principi stabiliti dal codice doganale dell'Unione, di cui al regolamento (UE) n. 952/2013 del Parlamento europeo e del Consiglio, del 9 ottobre 2013, qualora venga richiesta la documentazione indicata al comma 4, l'autorita' doganale puo' esigere la costituzione di una cauzione pari all'importo dell'imposta sospesa.L'autorita' doganale procede all'incameramento della cauzione se, entro quarantacinque giorni dallo svincolo delle merci, non pervenga la predetta documentazione.L'autorita' doganale provvede, altresi', all'incameramento della cauzione, qualora tale documentazione non sia ritenuta comprovante l'effettivo trasferimento dei beni oggetto dell'importazione in un altro Stato membro dell'Unione europea. La cauzione non e' richiesta ai soggetti in possesso dell'autorizzazione prevista dall'articolo 38 del regolamento (UE) n. 952/2013 e a quelli esonerati ai sensi dell'articolo 51 dell'allegato 1 al decreto legislativo 26 settembre 2024, n. 141.
 
-## Capo V - Buono corrispettivo
+### Capo V - Buono corrispettivo
 
 ##### ART. 12
 
@@ -548,9 +540,7 @@ Buono-corrispettivo multiuso
 
 ## TITOLO V - Luogo delle operazioni imponibili
 
-### Capo I
-
-#### Cessioni di beni
+### Capo I - Cessioni di beni
 
 ##### ART. 15
 
@@ -568,7 +558,7 @@ a) quando il cessionario e' un soggetto passivo-rivenditore stabilito nel territ
 
 b) quando il cessionario e' un soggetto diverso dal rivenditore, se i beni sono usati o consumati nel territorio dello Stato. Se la totalita' o parte dei beni non e' di fatto utilizzata dal cessionario, limitatamente alla parte non usata o non consumata, le cessioni anzidette si considerano comunque effettuate nel territorio dello Stato quando sono poste in essere nei confronti di soggetti, compresi quelli che non agiscono nell'esercizio di impresa, arte o professioni, stabiliti nel territorio dello Stato; non si considerano effettuate nel territorio dello Stato le cessioni poste in essere nei confronti di stabili organizzazioni all'estero, per le quali sono effettuati gli acquisti da parte di soggetti domiciliati o residenti in Italia.
 
-## Capo II - Operazioni intraunionali
+### Capo II - Operazioni intraunionali
 
 ##### ART. 16
 
@@ -592,7 +582,7 @@ c) il cedente non ha optato per l'applicazione dell'imposta nel territorio dello
 
 5\. Le vendite a distanza di beni importati da territori terzi o paesi terzi in un altro Stato membro si considerano effettuate nel territorio dello Stato se il luogo di arrivo della spedizione o del trasporto e' nel territorio dello Stato. Le vendite a distanza di beni importati nello Stato, con arrivo della spedizione o del trasporto nello Stato medesimo, si considerano ivi effettuate se dichiarate nell'ambito del regime speciale di cui all'articolo 151.
 
-## Capo III - Prestazioni di servizi
+### Capo III - Prestazioni di servizi
 
 ##### ART. 17
 
@@ -736,9 +726,7 @@ c) il prestatore non ha optato per l'applicazione dell'imposta nell'altro Stato 
 
 ## TITOLO VI - Fatto generatore ed esigibilità dell'imposta
 
-### Capo I
-
-#### Cessioni di beni e prestazioni di servizi
+### Capo I - Cessioni di beni e prestazioni di servizi
 
 ##### ART. 24
 
@@ -782,7 +770,7 @@ Effettuazione delle operazioni sul mercato elettrico e nel sistema del gas natur
 
 3\. Le cessioni di gas effettuate nel sistema del gas naturale di cui all'articolo 2, comma 1, lettera ee), del decreto legislativo 23 maggio 2000, n. 164, si considerano effettuate, ai fini e per gli effetti di cui all'articolo 24, all'atto del pagamento del corrispettivo, salvo il disposto del comma 4 del medesimo articolo 24.
 
-## Capo II - Cessioni e acquisti intraunionali
+### Capo II - Cessioni e acquisti intraunionali
 
 ##### ART. 26
 
@@ -798,9 +786,7 @@ Effettuazione delle cessioni e degli acquisti intraunionali
 
 ## TITOLO VII - Base imponibile
 
-### Capo I
-
-#### Disposizioni generali
+### Capo I - Disposizioni generali
 
 ##### ART. 27
 
@@ -900,7 +886,7 @@ Cessioni e prestazioni accessorie
 
 2\. Se la cessione o prestazione principale e' soggetta all'imposta, i corrispettivi delle cessioni o prestazioni accessorie imponibili concorrono a formarne la base imponibile.
 
-## Capo II - Acquisti intraunionali di beni
+### Capo II - Acquisti intraunionali di beni
 
 ##### ART. 32
 
@@ -914,7 +900,7 @@ Base imponibile per gli acquisti intraunionali
 
 3\. Per le introduzioni di cui all'articolo 8, comma 3 lettera a), e per gli invii di cui all'articolo 39, comma 2, lettera b), la base imponibile e' costituita dal prezzo di acquisto o, in mancanza, dal prezzo di costo dei beni o di beni simili, determinati nel momento in cui si effettuano tali operazioni.
 
-## Capo III - Importazioni
+### Capo III - Importazioni
 
 ##### ART. 33
 
@@ -928,9 +914,7 @@ Determinazione dell'imposta all'importazione
 
 ## TITOLO VIII - Aliquote
 
-### Capo I
-
-#### Aliquote dell'imposta
+### Capo I - Aliquote dell'imposta
 
 ##### ART. 34
 
@@ -980,9 +964,7 @@ Applicazione delle aliquote per la somministrazione di gas naturale (articolo 7,
 
 ## TITOLO IX - Esenzioni e non imponibilità
 
-### Capo I
-
-#### Operazioni esenti
+### Capo I - Operazioni esenti
 
 ##### ART. 37
 
@@ -1076,7 +1058,7 @@ Regime dell'IVA per prestazioni di chirurgia estetica
 
 2\. Sono fatti salvi i comportamenti dei contribuenti adottati in relazione alle prestazioni sanitarie di chirurgia estetica effettuate anteriormente alla data di entrata in vigore della legge 15 dicembre 2023, n. 191. Non si fa luogo a rimborsi di imposta.
 
-## Capo II - Operazioni non imponibili connesse alle operazioni intraunionali
+### Capo II - Operazioni non imponibili connesse alle operazioni intraunionali
 
 ##### ART. 39
 
@@ -1184,7 +1166,7 @@ Altre operazioni non imponibili
 
 1\. Non sono imponibili, anche agli effetti dell'articolo 45, comma 2, le cessioni di beni, anche tramite commissionari, effettuate nei confronti di cessionari o commissionari di questi se i beni sono trasportati o spediti in altro Stato membro a cura o a nome del cedente, anche per incarico dei propri cessionari o commissionari di questi. La disposizione si applica anche se i beni sono stati sottoposti per conto del cessionario, ad opera del cedente stesso o di terzi, a lavorazione, trasformazione, montaggio, assiemaggio o adattamento ad altri beni.
 
-## Capo III - Operazioni non imponibili connesse alle importazioni
+### Capo III - Operazioni non imponibili connesse alle importazioni
 
 ##### ART. 44
 
@@ -1208,7 +1190,7 @@ f) le importazioni di gas mediante un sistema di gas naturale o una rete conness
 
 g) le importazioni di beni per le quali l'imposta e' dichiarata nell'ambito del regime speciale di cui all'articolo 151, a condizione che nella dichiarazione doganale di importazione sia indicato il numero individuale di identificazione IVA attribuito per l'applicazione di detto regime speciale al fornitore o al rappresentante fiscale che agisce in suo nome e per suo conto.
 
-## Capo IV - Operazioni non imponibili connesse all'esportazione
+### Capo IV - Operazioni non imponibili connesse all'esportazione
 
 ##### ART. 45
 
@@ -1342,7 +1324,7 @@ Cessioni non imponibili a soggetti domiciliati o residenti fuori dell'Unione eur
 
 3\. Le operazioni di rimborso di cui al comma 2, possono essere effettuate da intermediari, purche' regolarmente iscritti all'albo degli istituti di pagamento di cui all'articolo 114-septies del testo unico delle leggi in materia bancaria e creditizia di cui al decreto legislativo 1° settembre 1993, n. 385.
 
-## Capo V - Operazioni non imponibili assimilate
+### Capo V - Operazioni non imponibili assimilate
 
 ##### ART. 52
 
@@ -1376,7 +1358,7 @@ i) le cessioni di beni e le prestazioni di servizi effettuate nei confronti degl
 
 4\. Il regime di non imponibilita' previsto dal comma 1, lettera f), e il conseguente regime di cui all'articolo 44, comma 1, lettera c), si applicano alle operazioni compiute a partire dal 1° gennaio 2021. Per rendere non imponibili le operazioni assoggettate all'imposta sul valore aggiunto, effettuate prima della data di entrata in vigore della legge 17 dicembre 2021, n. 215, sono emesse note di variazione in diminuzione dell'imposta, ai sensi dell'articolo 92.
 
-## Capo VI - Depositi IVA
+### Capo VI - Depositi IVA
 
 ##### ART. 53
 
@@ -1446,9 +1428,7 @@ Disposizioni speciali per benzina e gasolio introdotti in un deposito
 
 ## TITOLO X - Rivalsa e detrazione
 
-### Capo I
-
-#### Rivalsa
+### Capo I - Rivalsa
 
 ##### ART. 55
 
@@ -1466,7 +1446,7 @@ Rivalsa
 
 5\. Il credito di rivalsa ha privilegio speciale sui beni immobili oggetto della cessione o ai quali si riferisce il servizio ai sensi degli articoli 2758 e 2772 del codice civile e, se relativo alla cessione di beni mobili, ha privilegio sulla generalita' dei mobili del debitore con lo stesso grado del privilegio generale stabilito negli articoli 2751-bis, primo comma, numero 2), e 2752 del codice civile, cui tuttavia e' posposto.
 
-## Capo II - Detrazione
+### Capo II - Detrazione
 
 ##### ART. 56
 
@@ -1592,9 +1572,7 @@ d) la facolta' di acquisire beni e servizi senza pagamento dell'imposta, ai sens
 
 ## TITOLO XI - Volume d'affari ed esercizio di più attività
 
-### Capo I
-
-#### Volume d'affari
+### Capo I - Volume d'affari
 
 ##### ART. 62
 
@@ -1624,9 +1602,7 @@ Esercizio di piu' attivita'
 
 ## TITOLO XII - Obblighi dei soggetti passivi
 
-### Capo I
-
-#### Debitori dell'imposta
+### Capo I - Debitori dell'imposta
 
 ##### ART. 64
 
@@ -1710,7 +1686,7 @@ e) societa' partecipate, per una percentuale complessiva del capitale non inferi
 
 6\. Le disposizioni del presente articolo non si applicano alle prestazioni di servizi rese ai soggetti di cui ai commi 1, 2 e 5, i cui compensi sono assoggettati a ritenute alla fonte a titolo di imposta sul reddito ovvero a ritenuta a titolo di acconto di cui all'articolo 38 del testo unico in materia di versamenti e di riscossione, di cui al decreto legislativo 24 marzo 2025, n. 33.
 
-## Capo II - Debitore dell'imposta per le operazioni intraunionali
+### Capo II - Debitore dell'imposta per le operazioni intraunionali
 
 ##### ART. 66
 
@@ -1726,7 +1702,7 @@ Debitore dell'imposta per le operazioni intraunionali
 
 4\. Per le operazioni effettuate nel territorio dello Stato a norma dell'articolo 16, comma 3, da soggetto residente in altro Stato membro gli obblighi e i diritti derivanti dall'applicazione dell'imposta devono essere adempiuti o esercitati direttamente dal medesimo soggetto, identificato ai sensi dell'articolo 70, o da un rappresentante fiscale nominato ai sensi dell'articolo 64, comma 3.
 
-## Capo III - Debitore dell'imposta per le importazioni
+### Capo III - Debitore dell'imposta per le importazioni
 
 ##### ART. 67
 
@@ -1748,7 +1724,7 @@ Applicazione dell'imposta all'importazione
 
 7\. Per le cessioni e le importazioni di argento, in lingotti o grani, di purezza pari o superiore a 900 millesimi, si applicano le disposizioni di cui al comma 5 e dell'articolo 64, comma 5.
 
-## Capo IV - Inizio, variazione e cessazione attività
+### Capo IV - Inizio, variazione e cessazione attività
 
 ##### ART. 68
 
@@ -1870,7 +1846,7 @@ Pubblicita' in materia di partita IVA
 
 1\. Al fine di contrastare le frodi in materia di imposta sul valore aggiunto, l'Agenzia delle entrate rende disponibile a chiunque, con servizio di libero accesso, la possibilita' di verificare puntualmente, mediante i dati disponibili in anagrafe tributaria, la validita' del numero di partita IVA attribuito ai sensi dell'articolo 68 o articolo 70. Il servizio fornisce le informazioni relative allo stato di attivita' della partita IVA inserita e alla denominazione del soggetto o, in assenza di questa, al cognome e nome della persona fisica titolare.
 
-## Capo V - Fatturazione e registrazione delle operazioni
+### Capo V - Fatturazione e registrazione delle operazioni
 
 ##### ART. 72
 
@@ -2460,7 +2436,7 @@ Estensione delle disposizioni recate dal regolamento di cui al decreto del Presi
 
 1\. Le disposizioni recate dal regolamento per la semplificazione delle modalita' di certificazione dei corrispettivi per le societa' e le associazioni sportive dilettantistiche, di cui al decreto del Presidente della Repubblica 13 marzo 2002, n. 69, si applicano anche alle associazioni pro-loco, alle bande musicali amatoriali, ai cori ed alle compagnie teatrali amatoriali, per le manifestazioni dalle stesse organizzate.
 
-## Capo VI - Fatturazione e registrazione delle operazioni intraunionali
+### Capo VI - Fatturazione e registrazione delle operazioni intraunionali
 
 ##### ART. 97
 
@@ -2552,7 +2528,7 @@ Gli uffici delle dogane possono altresi' effettuare i controlli necessari per l'
 
 12\. Per l'omissione o l'inesattezza dei dati di cui all'articolo 13 del regolamento (UE) 2019/2152 del Parlamento europeo e del Consiglio, del 27 novembre 2019, si applicano le sanzioni amministrative alle sole imprese che rispondono ai requisiti indicati nei decreti del Presidente della Repubblica emanati annualmente ai sensi dall'articolo 7, comma 1, del decreto legislativo 6 settembre 1989, n. 322, concernente l'elenco delle indagini per le quali la mancata fornitura dei dati si configura come violazione dell'obbligo di risposta, ai sensi degli articoli 7 e 11 del citato decreto legislativo n. 322 del 1989. Le sanzioni sono applicate una sola volta per ogni elenco intrastat mensile inesatto o incompleto a prescindere dal numero di transazioni mancanti o riportate in modo errato nell'elenco stesso.
 
-## Capo VII - Obblighi generali dei prestatori di servizi di pagamento
+### Capo VII - Obblighi generali dei prestatori di servizi di pagamento
 
 ##### ART. 102
 
@@ -2676,9 +2652,7 @@ Ambito di applicazione
 
 ## TITOLO XIII - Riscossione
 
-### Capo I
-
-#### Liquidazione e versamenti
+### Capo I - Liquidazione e versamenti
 
 ##### ART. 109
 
@@ -2740,9 +2714,7 @@ Riscossione coattiva e privilegi
 
 ## TITOLO XIV - Rimborsi
 
-### Capo I
-
-#### Disposizioni varie
+### Capo I - Disposizioni varie
 
 ##### ART. 114
 
@@ -2938,9 +2910,7 @@ Esecuzione dei rimborsi a soggetti non residenti stabiliti in Stati non apparten
 
 ## TITOLO XV - Gruppo IVA
 
-### Capo I
-
-#### Disposizioni generali
+### Capo I - Disposizioni generali
 
 ##### ART. 121
 
@@ -3168,9 +3138,7 @@ Disposizioni speciali e di attuazione
 
 ## TITOLO XVI - Regimi speciali
 
-### Capo I
-
-#### Liquidazione dell'IVA secondo la contabilità di cassa
+### Capo I - Liquidazione dell'IVA secondo la contabilità di cassa
 
 ##### ART. 132
 
@@ -3186,7 +3154,7 @@ Liquidazione dell'IVA secondo la contabilita' di cassa
 
 4\. Con decreto del Ministro dell'economia e delle finanze sono stabilite le disposizioni di attuazione del presente articolo.
 
-## Capo II - Regime speciale per i produttori agricoli e ittici
+### Capo II - Regime speciale per i produttori agricoli e ittici
 
 ##### ART. 133
 
@@ -3266,7 +3234,7 @@ Interventi a sostegno della produzione agricola
 
 1\. Gli aiuti, premi, contributi, compensazioni finanziarie erogati dall'Agenzia per le erogazioni in agricoltura (AGEA) devono intendersi interventi destinati al sostegno della produzione agricola e pertanto non sono prestazioni imponibili ai fini dell'IVA.
 
-## Capo III - Disposizioni relative a determinati settori
+### Capo III - Disposizioni relative a determinati settori
 
 ##### ART. 139
 
@@ -3342,7 +3310,7 @@ Disposizioni per la liquidazione giudiziale e la liquidazione coatta amministrat
 
 3\. In deroga a quanto disposto dall'articolo 116, comma 1, i rimborsi previsti nell'articolo 114, non ancora liquidati alla data della dichiarazione di liquidazione giudiziale o di liquidazione coatta amministrativa e i rimborsi successivi, sono eseguiti senza la prestazione delle prescritte garanzie per un ammontare non superiore a euro 258.228,45.
 
-## Capo IV - Agenzie di viaggio e turismo
+### Capo IV - Agenzie di viaggio e turismo
 
 ##### ART. 141
 
@@ -3372,7 +3340,7 @@ Disposizioni per le agenzie di viaggio e turismo
 
 11\. Con decreto del Ministro dell'economia e delle finanze, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono stabilite le modalita' di attuazione del presente articolo.
 
-## Capo V - Attività spettacolistiche
+### Capo V - Attività spettacolistiche
 
 ##### ART. 142
 
@@ -3394,7 +3362,7 @@ Disposizioni per le attivita' spettacolistiche
 
 7\. Ai fini dell'applicazione dell'aliquota IVA, le consumazioni obbligatorie nelle discoteche e sale da ballo si considerano accessorie alle attivita' di intrattenimento o di spettacolo ivi svolte.
 
-## Capo VI - Regime speciale per i rivenditori di beni usati, di oggetti d'arte, di antiquariato o da collezione
+### Capo VI - Regime speciale per i rivenditori di beni usati, di oggetti d'arte, di antiquariato o da collezione
 
 ##### ART. 143
 
@@ -3496,7 +3464,7 @@ c) soggetti passivi d'imposta che abbiano assoggettato l'operazione al particola
 
 4\. Le cessioni di beni agli esercenti agenzie di vendita all'asta si considerano effettuate all'atto della vendita dei beni medesimi da parte del commissionario.
 
-## Capo VII - Regimi speciali One stop shop (OSS) e Import one stop shop (IOSS)
+### Capo VII - Regimi speciali One stop shop (OSS) e Import one stop shop (IOSS)
 
 ##### ART. 149
 
@@ -3690,7 +3658,7 @@ Disposizioni sulla riscossione e ripartizione dell'imposta
 
 3\. Con il decreto di cui al comma 1 sono altresi' stabilite le modalita' di ripartizione dell'imposta di cui al medesimo comma, di contabilizzazione dell'imposta versata agli Stati membri di identificazione dai soggetti di cui all'articolo 152, comma 1, in relazione ai servizi prestati nel territorio dello Stato, nonche' di rendicontazione delle operazioni effettuate per il tramite della nuova contabilita' speciale.
 
-## Capo VIII - Disposizioni relative a mezzi di trasporto nuovi
+### Capo VIII - Disposizioni relative a mezzi di trasporto nuovi
 
 ##### ART. 154
 
@@ -3708,7 +3676,7 @@ Disposizioni relative ai mezzi di trasporto nuovi
 
 5\. Ai fini dell'applicazione del comma 3, i soggetti di imposta trasmettono al Dipartimento per i trasporti e la navigazione del Ministero delle infrastrutture e dei trasporti, entro il termine di quindici giorni dall'acquisto e, in ogni caso, prima dell'immatricolazione, il numero identificativo intraunionale nonche' il numero di telaio degli autoveicoli, motoveicoli e loro rimorchi acquistati. Per i successivi passaggi interni precedenti l'immatricolazione il numero identificativo intraunionale e' sostituito dal codice fiscale del fornitore. In mancanza delle informazioni da parte dei soggetti di imposta gli uffici preposti non procedono all'immatricolazione. La comunicazione e' altresi' effettuata, entro il termine di quindici giorni dalla vendita, anche in caso di cessione intraunionale o di esportazione dei medesimi veicoli.
 
-## Capo IX - Disposizioni per la identificazione di determinati prodotti
+### Capo IX - Disposizioni per la identificazione di determinati prodotti
 
 ##### ART. 155
 
@@ -3728,7 +3696,7 @@ c) dischi, nastri ed altri analoghi supporti fonografici.
 
 3\. Con successivi decreti le disposizioni di cui al comma 2 possono essere estese anche a prodotti confezionati in tessuto o in pelle, anche artificiali, diversi dagli indumenti.
 
-## Capo X - Regime speciale per la dichiarazione e il pagamento dell'IVA all'importazione
+### Capo X - Regime speciale per la dichiarazione e il pagamento dell'IVA all'importazione
 
 ##### ART. 156
 
@@ -3752,9 +3720,7 @@ Regime speciale per la dichiarazione e il pagamento dell'IVA all'importazione
 
 ## TITOLO XVII - Regimi di franchigia
 
-### Capo I
-
-#### Regime nazionale di franchigia
+### Capo I - Regime nazionale di franchigia
 
 ##### ART. 157
 
@@ -3762,11 +3728,9 @@ Regime nazionale di franchigia
 
 1\. I contribuenti persone fisiche esercenti attivita' d'impresa, arti o professioni applicano, ai fini dell'imposta sul valore aggiunto, il regime ((di cui alla parte II, titolo I, capo XXI, del testo unico delle disposizioni legislative in materia di imposte sui redditi, di cui al decreto legislativo 19 giugno 2026, n. 117)).
 
-## Capo II - Regime transfrontaliero di franchigia
+### Capo II - Regime transfrontaliero di franchigia
 
-### Sezione I
-
-#### Disposizioni generali
+#### Sezione I - Disposizioni generali
 
 ##### ART. 158
 
@@ -3798,7 +3762,7 @@ g) «numero di identificazione EX»: il numero di identificazione individuale pr
 
 5\. Con provvedimento del direttore dell'Agenzia delle entrate sono stabilite le modalita' attuative del presente titolo.
 
-## Sezione II - Regime di franchigia applicato nello Stato da parte di soggetti stabiliti in altri Stati membri dell'Unione europea
+#### Sezione II - Regime di franchigia applicato nello Stato da parte di soggetti stabiliti in altri Stati membri dell'Unione europea
 
 ##### ART. 159
 
@@ -3866,7 +3830,7 @@ d) negli altri casi in cui e' disattivato il numero di identificazione EX, dal m
 
 2\. L'Agenzia delle entrate, sulla base delle informazioni ricevute dallo Stato di stabilimento nonche' di quelle eventualmente a sua disposizione, comunica tempestivamente con mezzi elettronici allo Stato di stabilimento la data in cui il regime di franchigia ha cessato di applicarsi nel territorio dello Stato.
 
-## Sezione III - Regime di franchigia applicato in altri Stati membri dell'Unione europea da parte di soggetti stabiliti nello Stato
+#### Sezione III - Regime di franchigia applicato in altri Stati membri dell'Unione europea da parte di soggetti stabiliti nello Stato
 
 ##### ART. 163
 
@@ -3956,9 +3920,7 @@ b) se e' superata la soglia di volume d'affari annuo prevista da tale Stato per 
 
 ## TITOLO XVIII - Disposizioni di coordinamento finale
 
-### Capo I
-
-#### Disposizioni varie
+### Capo I - Disposizioni varie
 
 ##### ART. 168
 

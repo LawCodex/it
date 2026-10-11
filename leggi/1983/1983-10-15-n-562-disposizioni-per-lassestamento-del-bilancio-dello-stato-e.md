@@ -29,27 +29,27 @@ la seguente legge:
 
 ## (Disposizioni generati)
 
-### Art. 1
+## Art. 1
 
 Nello stato di previsione dell'entrata, negli stati di previsione dei Ministeri e nei bilanci delle Amministrazioni e Aziende autonome, approvati con la legge 28 aprile 1983, n. 133, sono introdotte; per l'anno finanziario 1983, e variazioni di cui alle annesse tabelle.
 
 ## (Stato di previsione del Ministero del tesoro)
 
-### Art. 2
+## Art. 2
 
 L'importo massimo delle anticipazioni che il Ministro del tesoro e' autorizzato a concedere all'Amministrazione delle poste e delle telecomunicazioni a copertura del disavanzo di gestione per l'anno finanziario 1983, fissato in lire 1.572.887.648.000 dall'articolo 4, secondo comma, della legge 28 aprile 1983, n. 133, relativa al bilancio di previsione dello Stato per l'anno finanziario 1983 e bilancio pluriennale per il triennio 1983-1985, e' diminuito di lire 139.255.994.000.
 
-### Art. 3
+## Art. 3
 
 L'importo massimo delle anticipazioni da concedere all'Azienda autonoma delle ferrovie dello Stato a copertura del disavanzo di gestione per l'anno finanziario 1982, fissato dall'articolo 4, secondo comma, della legge 30 aprile 1982, n. 188, e' aumentato di lire 27.653.000.000.
 
 ## (Stato di previsione del Ministero dell'agricoltura e delle foreste)
 
-### Art. 4
+## Art. 4
 
 La Cassa depositi e prestiti, a valere sui fondi accantonati sul conto corrente di tesoreria n. 3 - costituito mediante il versamento degli avanzi di gestione dell'ex Azienda di Stato per le foreste demaniali - e' autorizzata a versare, al capitolo n. 3589 del capo XVII dello stato di previsione dell'entrata, la somma di lire 40.024.210 corrispondente all'ammontare dei residui passivi eliminati dal bilancio della predetta gestione alla chiusura dell'esercizio 1982, per l'intervenuta perenzione amministrativa.
 
-### Art. 5
+## Art. 5
 
 La Cassa depositi e prestiti, a valere sui fondi accantonati sul conto corrente di tesoreria n. 3 - costituito mediante il versamento degli avanzi di gestione dell'ex Azienda di Stato per le foreste demaniali - e' autorizzata a versare ad apposito capitolo dello stato di previsione dell'entrata la somma di lire 11.000.000.000.
 
@@ -57,13 +57,13 @@ Detta somma sara' assegnata, con decreto del Ministro del tesoro, ad apposito ca
 
 ## (Stato di previsione del Ministero del turismo e dello spettacolo)
 
-### Art. 6
+## Art. 6
 
 Il Ministro del tesoro e' autorizzato a provvedere, con propri decreti, alle variazioni compensative per competenza e cassa che si rendessero necessarie per l'attuazione del dodicesimo comma dell'articolo 3 della legge 10 maggio 1983, n. 182, tra i capitoli nn. 2564 e 2574 e nn. 8036 e 8042 dello stato di previsione del Ministero del turismo e dello spettacolo per l'anno finanziario 1983.
 
 ## (Disposizioni diverse)
 
-### Art. 7
+## Art. 7
 
 Gli stanziamenti di competenza relativi alle disposizioni di legge sottoindicate, gia' autorizzati con la tabella B di cui all'articolo 25, terzo comma, della legge 28 aprile 1983 n. 133, sono cosi' modificati ed integrati:
 
@@ -83,7 +83,7 @@ Legge 11 luglio 1980, n. 312 - Nuovo assetto retributivo-funzionale del personal
 
 \- Articolo 25, ottavo comma, compenso particolare al personale dell'Istituto superiore di sanita' (cap. n. 4509) . . . 2.200.000.000
 
-### Art. 8
+## Art. 8
 
 La presente legge entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale della Repubblica.
 
@@ -99,7 +99,7 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 ## (Disposizioni diverse)
 
-### Tabelle
+## Tabelle
 
 TABELLA n. 1
 

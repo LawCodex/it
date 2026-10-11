@@ -25,11 +25,11 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo tra l'Italia e la Jugoslavia sugli autotrasporti di viaggiatori e di merci, concluso a Belgrado il 27 luglio 1960, e gli Scambi di Note effettuati a Belgrado l'8-19 dicembre 1961, il 4-5 dicembre 1962 ed il 28 gennaio 1964 recanti modifiche all'Accordo stesso.
 
-### Art. 2
+## Art. 2
 
 Piena ed intera esecuzione e' data all'Accordo e agli Scambi di Note di cui al precedente articolo a decorrere dalla loro entrata in vigore, in conformita' all'articolo 40 dell'Accordo stesso.
 
@@ -53,7 +53,7 @@ IL GOVERNO DELLA REPUBBLICA ITALIANA ed il GOVERNO DELLA REPUBBLICA
 
 POPOLARE FEDERALE DI JUGOSLAVIA, desiderosi di regolare gli autotrasporti di viaggiatori e merci ed il transito attraverso i rispettivi territori con veicoli commerciali, si sono accordati su quanto appresso:
 
-### Articolo 1
+## Articolo 1
 
 E' considerata autolinea regolare, agli effetti del presente
 
@@ -69,13 +69,13 @@ I veicoli debbono accettare ai fini del trasporto qualsiasi
 
 viaggiatore che si presenti ai punti di partenza o in altri punti di fermata od eventualmente stabiliti purche' vi siano dei posti liberi.
 
-### Articolo 2
+## Articolo 2
 
 Le autolinee regolari fra i due Paesi sono istituite di comune
 
 accordo dalle Autorita' competenti delle Parti contraenti direttamente oppure sulla base delle decisioni della Commissione Mista prevista dall'articolo 38 del presente Accordo.
 
-### Articolo 3
+## Articolo 3
 
 Il servizio di trasporto viaggiatori sulle autolinee regolari e'
 
@@ -105,7 +105,7 @@ L'Autorita' competente di una delle Parti contraenti trasmette a
 
 quella dell'altra Parte le domande ammesse accompagnate da tutta la documentazione richiesta e dall'atto di concessione che permette di eseguire il trasporto sul percorso nel proprio territorio.
 
-### Articolo 4
+## Articolo 4
 
 Le imprese non possono effettuare servizio locale di viaggiatori
 
@@ -113,13 +113,13 @@ nel territorio dell'altra Parte contraente, salvo diverse intese tra le Autorita
 
 ## Autolinee regolari in transito
 
-### Articolo 5
+## Articolo 5
 
 E' considerata autolinea regolare in transito, agli effetti del
 
 presente Accordo, un autoservizio in partenza dal territorio di una delle Parti contraenti che attraversa il territorio dell'altra parte con destinazione un terzo paese senza che alcun passeggero sia preso o deposto nell'attraversare il territorio dell'altra parte.
 
-### Articolo 6
+## Articolo 6
 
 L'autolinea regolare in transito deve rispondere alle seguenti
 
@@ -139,7 +139,7 @@ L'istituzione di linee regolari in transito che non rispondono a
 
 tutte le condizioni previste al comma precedente e' soggetta a preventive intese fra le Autorita' competenti delle Parti contraenti.
 
-### Articolo 7
+## Articolo 7
 
 Il servizio delle autolinee in transito di cui all'articolo 6 e'
 
@@ -163,7 +163,7 @@ quella dell'altra Parte le domande ammesse munite di tutti gli elementi richiest
 
 ## Servizio di "navette"
 
-### Articolo 8
+## Articolo 8
 
 Per servizio di navette si intende, agli effetti del presente
 
@@ -173,7 +173,7 @@ Solo i viaggi effettivi di andata e di ritorno fanno parte del
 
 servizio di navette dovendosi effettuare a vuoto il primo viaggio di ritorno e l'ultimo di andata.
 
-### Articolo 9
+## Articolo 9
 
 Per effettuare un servizio di navette fra due localita' di cui una e' situata nel territorio di una Parte contraente e l'altra nel territorio dell'altra Parte contraente, e necessario ottenere l'autorizzazione delle due Parti contraenti.
 
@@ -189,7 +189,7 @@ competente della Parte contraente che ha ricevuto le domande trasmette all'Autor
 
 ## Servizi occasionali di autobus
 
-### Articolo 10
+## Articolo 10
 
 E' considerato servizio occasionale di autobus, agli effetti del
 
@@ -213,7 +213,7 @@ c) servizio effettuato con veicolo a vuoto sul territorio
 
 dell'altra Parte contraente, in base ad accordo preventivamente concluso per ricevere comitive turistiche e trasportarle nel Paese di immatricolazione.
 
-### Articolo 11
+## Articolo 11
 
 I trasporti previsti alle lettere a) e b) del precedente articolo 10 sono effettuati senza alcuna autorizzazione.
 
@@ -225,7 +225,7 @@ Quando i servizi di cui al precedente comma comportano piu' viaggi in tempi succ
 
 ## Altri servizi di autobus
 
-### Articolo 12
+## Articolo 12
 
 Per tutti gli altri servizi di autobus non previsti negli articoli precedenti e' necessario ottenere preventivamente per ogni singolo, caso una autorizzazione rilasciata dall'Autorita' competente dell'altra Parte contraente.
 
@@ -237,7 +237,7 @@ l'itinerario, la finalita' del viaggio stesso, la descrizione del veicolo da uti
 
 L'Autorita' competente di una delle Parti contraenti trasmette le domande ammesse all'Autorita' competente dell'altra Parte contraente al fine di ottenere la relativa autorizzazione accompagnandole con tutta la documentazione richiesta e con l'autorizzazione ad effettuare il trasporto sul proprio territorio.
 
-### Articolo 13
+## Articolo 13
 
 Fermo restando quanto disposto dagli articoli 5, 6 e 7 per le linee
 
@@ -249,7 +249,7 @@ diretta alle Autorita' competenti della Parte contraente nel cui territorio hann
 
 I trasporti di cui agli articoli 10 e 12 nonche' quelli di cui al presente articolo non possono assumere il carattere di autolinea regolare.
 
-### Articolo 14
+## Articolo 14
 
 Sono esclusi dal presente Accordo i trasporti di viaggiatori che si
 
@@ -257,7 +257,7 @@ effettuano in zone per le quali esistano particolari accordi, salvo il caso in c
 
 ## II. - TRASPORTO DI MERCI - Trasporti fra i due Paesi e trasporti in transito
 
-### Articolo 15
+## Articolo 15
 
 L'impresa che effettua il trasporto di merci ed avente la sede
 
@@ -267,7 +267,7 @@ Per merce, ai sensi del presente Accordo, si intende ogni bene o
 
 carico di qualsiasi natura.
 
-### Articolo 16
+## Articolo 16
 
 Non sono soggetti all'autorizzazione prevista nell'articolo
 
@@ -289,7 +289,7 @@ cinematografiche;
 
 f) i trasporti per trasloco di mobili e masserizie.
 
-### Articolo 17
+## Articolo 17
 
 Le autorizzazioni ad effettuare il trasporto di merci vengono
 
@@ -299,7 +299,7 @@ Le Autorita' competenti delle Parti contraenti determinano di
 
 comune accordo e su basi di reciprocita' il numero delle autorizzazioni al trasporto internazionale da rilasciare ogni anno, valevoli distintamente per trasporti da effettuarsi in partenza e con destinazione nelle zone di frontiera e per trasporti per tutto il restante territorio dell'altro Paese, ivi comprese le autorizzazioni relative al transito.
 
-### Articolo 18
+## Articolo 18
 
 Le autorizzazioni vengono rilasciate in conformita' ad un modello concordato fra le Autorita' competenti delle Parti contraenti direttamente oppure sulla base delle decisioni della Commissione Mista.
 
@@ -311,7 +311,7 @@ Gli organi competenti si scambiano ogni tre mesi le copie delle
 
 autorizzazioni rilasciate.
 
-### Articolo 19
+## Articolo 19
 
 Non e' permesso assumere sul territorio dell'altra Parte contraente
 
@@ -319,7 +319,7 @@ il carico di merci che debbono essere scaricate sul territorio della medesima al
 
 E' altresi' vietato ai trasportatori domiciliati nel territorio di una delle Parti effettuare trasporti tra l'altro Paese contraente ed un paese terzo, salvo apposita autorizzazione speciale dell'altra Parte.
 
-### Articolo 20
+## Articolo 20
 
 Il trasporto di merci nel viaggio di ritorno non e' soggetto ad
 
@@ -327,7 +327,7 @@ autorizzazione.
 
 ## III. - DISPOSIZIONI DI CARATTERE GENERALE - Requisiti delle imprese
 
-### Articolo 21
+## Articolo 21
 
 Le imprese debbono possedere la capacita' tecnica, commerciale e
 
@@ -335,11 +335,11 @@ professionale necessaria per eseguire in modo soddisfacente il trasporto interna
 
 ## Requisiti tecnici del veicolo
 
-### Articolo 22
+## Articolo 22
 
 Il trasporto internazionale di viaggiatori, ai sensi del presente Accordo, deve essere eseguito soltanto con veicoli che assicurino la comodita' e la sicurezza dei viaggiatori.
 
-### Articolo 23
+## Articolo 23
 
 Il trasporto internazionale di merci, ai sensi del presente
 
@@ -347,13 +347,13 @@ Accordo, deve essere eseguito soltanto con veicoli idonei al trasporto stesso e 
 
 ## Documenti di circolazione e di guida
 
-### Articolo 24
+## Articolo 24
 
 Ogni autoveicolo deve essere munito del documento nazionale di
 
 circolazione contenente il numero di immatricolazione, il nome o la marca del costruttore dell'autoveicolo, i numeri del motore e del telaio, il numero dei posti viaggiatori o la portata utile, il nome e l'indirizzo del proprietario.
 
-### Articolo 25
+## Articolo 25
 
 Ogni conducente deve essere in possesso della patente di guida
 
@@ -361,19 +361,19 @@ nazionale o internazionale.
 
 ## Documenti necessari per effettuare i trasporti
 
-### Articolo 26
+## Articolo 26
 
 Ogni autoveicolo deve essere munito di un documento in duplice
 
 copia nel quale devono essere registrati da persona idonea tutti i dati che permettano di stabilire il servizio effettuato sul territorio dell'altra Parte contraente espresso in viaggiatori-chilometro o in tonnellate-chilometro. Una di queste copie sara' lasciata alla dogana di uscita.
 
-### Articolo 27
+## Articolo 27
 
 Per il trasporto di viaggiatori in servizio internazionale di
 
 linea, ai termini del presente Accordo, sono rilasciati biglietti di viaggio secondo modelli stabiliti di comune accordo dalle Autorita' competenti delle Parti contraenti.
 
-### Articolo 28
+## Articolo 28
 
 I biglietti di viaggio sono pagati nella moneta della Parte
 
@@ -383,7 +383,7 @@ Analogamente potranno essere pagati i biglietti di andata e ritorno
 
 qualora le Autorita' competenti delle Parti contraenti ne autorizzino il rilascio.
 
-### Articolo 29
+## Articolo 29
 
 Durante il trasporto dei viaggiatori e delle merci eseguito secondo
 
@@ -395,7 +395,7 @@ b) per il trasporto delle merci: l'autorizzazione prevista dal
 
 presente Accordo o la sua copia o fotocopia debitamente autenticata.
 
-### Articolo 30
+## Articolo 30
 
 Le modalita' per il rilascio dei biglietti, per la compilazione dei
 
@@ -405,7 +405,7 @@ accordo dai rispettivi organi delle Parti contraenti Assicurazione
 
 ## Assicurazione
 
-### Articolo 31
+## Articolo 31
 
 Tutte le imprese che effettuano il trasporto internazionale di
 
@@ -417,7 +417,7 @@ assicurazione deve corrispondere a quello prescritto nel territorio della Parte 
 
 ## Passaporti
 
-### Articolo 32
+## Articolo 32
 
 Il personale impiegato nei veicoli a mezzo dei quali si effettua il
 
@@ -429,7 +429,7 @@ durata da un minimo di tre mesi fino ad un anno e per piu' viaggi.
 
 ## Rispetto delle leggi nazionali
 
-### Articolo 33
+## Articolo 33
 
 I trasportatori e il personale impiegato nei veicoli a mezzo dei
 
@@ -441,7 +441,7 @@ risponde davanti alle Autorita' competenti della Parte contraente nel territorio
 
 ## Sanzioni
 
-### Articolo 34
+## Articolo 34
 
 In caso di violazione delle disposizioni del presente Accordo
 
@@ -463,7 +463,7 @@ dalle disposizioni vigenti nel Paese del trasportatore.
 
 ## Trasferimenti valutari
 
-### Articolo 35
+## Articolo 35
 
 I trasferimenti valutari derivanti dal presente Accordo vengono
 
@@ -471,7 +471,7 @@ effettuati in conformita' delle disposizioni vigenti tra i due Paesi in materia 
 
 ## Regime fiscale
 
-### Articolo 36
+## Articolo 36
 
 Le imprese la cui sede si trova nel territorio di una delle Parti contraenti che effettuano il trasporto delle merci secondo le clausole del presente Accordo, sono tenute al pagamento delle tasse sui veicoli e sui trasporti effettuati nel territorio dell'altra Parte contraente stabilite nell'Allegato n. 1 che forma parte integrante del presente Accordo.
 
@@ -483,13 +483,13 @@ Le imprese la cui sede si trova nel territorio di una delle Parti contraenti e c
 
 ## Commissione Mista
 
-### Articolo 37
+## Articolo 37
 
 Tutte le questioni riferentisi all'applicazione del presente
 
 Accordo saranno regolate d'intesa fra le Autorita' competenti delle Parti contraenti.
 
-### Articolo 38
+## Articolo 38
 
 Allo scopo di decidere su determinate questioni poste
 
@@ -497,7 +497,7 @@ preventivamente dalle Autorita' competenti nonche' su quelle rimaste insolute ne
 
 ## Procedura doganale
 
-### Articolo 39
+## Articolo 39
 
 Per quanto riguarda la procedura doganale, nel caso in cui il
 
@@ -509,7 +509,7 @@ Convenzione doganale relativa all'importazione temporanea dei veicoli stradali c
 
 ## Clausole finali
 
-### Articolo 40
+## Articolo 40
 
 Il presente Accordo sara' soggetto a ratifica da parte dei due
 
@@ -533,7 +533,7 @@ Per il Governo della Repubblica italiana
 
 Alberto BERIO
 
-### Allegato 1
+## Allegato 1
 
 ALLEGATO N. 1
 
@@ -541,7 +541,7 @@ Tasse su autoveicoli per trasporto di merci
 
 Parte di provvedimento in formato grafico
 
-### Allegato 2
+## Allegato 2
 
 ELENCO DEI COMUNI DELLA ZONA DI FRONTIERA DI CUI AL 21 COMMA DELL'ARTICOLO 36 DEL PRESENTE ACCORDO
 
@@ -635,7 +635,7 @@ Distretto di Nuova Gorizia
 
 1\. Comune di Castagnevizza.
 
-### Scambio di Note
+## Scambio di Note
 
 N. 91169/6
 
@@ -687,13 +687,13 @@ TESTO IN LINGUA
 
 Parte di provvedimento in formato grafico
 
-### Allegato 2
+## Allegato 2
 
 ALLEGATO N. 2
 
 Parte di provvedimento in formato grafico
 
-### Scambio di Note
+## Scambio di Note
 
 Parte di provvedimento in formato grafico
 

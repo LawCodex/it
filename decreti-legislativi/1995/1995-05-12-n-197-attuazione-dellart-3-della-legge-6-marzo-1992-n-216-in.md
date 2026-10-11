@@ -44,7 +44,7 @@ il seguente decreto legislativo:
 
 ## CAPO I - RIORDINAMENTO DEI RUOLI DEL PERSONALE CHE ESPLETA FUNZIONI DI POLIZIA
 
-#### Art. 1
+### Art. 1
 
 1\. Le disposizioni del Titolo I - Capi I, II e III del decreto del Presidente della Repubblica 24 aprile 1982, n. 335, concernente l'ordinamento del personale della Polizia di Stato che espleta funzioni di polizia, sono modificate a norma dei seguenti commi.
 
@@ -180,7 +180,7 @@ Art. 6-quater (Addestramento e corsi di specializzazione e di aggiornamento per 
 
 9\. Gli articoli 13 e 14 sono abrogati.
 
-#### Art. 2
+### Art. 2
 
 1\. Le disposizioni del Titolo I - Capo IV del decreto del Presidente della Repubblica 24 aprile 1982, n. 335, sono modificate a norma dei seguenti commi.
 
@@ -268,7 +268,7 @@ Art. 24-septies (Promozione e sovrintendente capo). - 1. La promozione alla qual
 
 4\. Lo scatto aggiuntivo di cui al presente articolo e' attribuito come assegno ad personam riassorbibile e non cumulabile con lo scatto gerarchico previsto per lo stesso livello retributivo, in caso di accesso ai ruoli superiori")).
 
-#### Art. 3
+### Art. 3
 
 1\. Le disposizioni del Titolo I - Capo V del decreto del Presidente della Repubblica 24 aprile 1982, n. 335, sono modificate a norma dei seguenti commi.
 
@@ -442,13 +442,13 @@ Art. 31-quinquies (Riassorbimento degli scatti aggiuntivi)
 
 1\. Gli scatti aggiuntivi di cui agli articoli 31-ter e 31-quater sono riassorbiti all'atto dell'accesso al livello retributivo superiore." )).
 
-#### Art. 3-bis
+### Art. 3-bis
 
 (( (Cause di sospensione dagli scrutini). ))
 
 (( 1. Le disposizioni relative alla sospensione dalla partecipazione agli scrutini del personale dei ruoli dei direttivi e dei dirigenti della Polizia di Stato si applicano anche al personale non direttivo. ))
 
-#### Art. 4
+### Art. 4
 
 1\. La tabella A allegata al decreto del Presidente della Repubblica 24 aprile 1982, n. 335, e' sostituita, nelle parti relative al ruolo degli ispettori, al ruolo dei sovrintendenti ed a quello degli agenti e assistenti, dalla tabella 1 allegata al presente decreto.
 
@@ -540,11 +540,9 @@ Art. 31-quinquies (Riassorbimento degli scatti aggiuntivi)
 
 > (\*) Nella dotazione sono compresi gli allievi frequentatori del corso per la nomina".
 
-## CAPO II - RIORDINAMENTO DEI RUOLI DEL PERSONALE DELLA POLIZIA DI STATO CHE
+## CAPO II - RIORDINAMENTO DEI RUOLI DEL PERSONALE DELLA POLIZIA DI STATO CHE ESPLETA ATTIVITA' TECNICO-SCIENTIFICA O TECNICA.
 
-### ESPLETA ATTIVITA' TECNICO-SCIENTIFICA O TECNICA.
-
-#### Art. 5
+### Art. 5
 
 1\. Le disposizioni del Titolo I - Capi I, II e III del decreto del Presidente della Repubblica 24 aprile 1982, n. 337, concernente l'ordinamento del personale della Polizia di Stato che espleta attivita' tecnico-scientifica o tecnica, sono modificate a norma dei seguenti commi.
 
@@ -634,7 +632,7 @@ Superato il periodo di prova, vengono nominati operatori tecnici.
 
 3\. Per il personale sospeso cautelarmente dal servizio, rinviato a giudizio o ammesso ai riti alternativi per i delitti di cui articolo 15, comma 1, lettere a) e b), della legge 19 marzo 1990, n. 55 e successive modificazioni ovvero sottoposto a procedimento disciplinare per l'applicazione di una sanzione piu' grave della deplorazione, l'attribuzione dello scatto aggiuntivo avviene, anche con effetto retroattivo, dopo la definizione dei relativi procedimenti, fermo restando quanto previsto dal comma 2. Si applicano le disposizioni contenute negli articoli 94 e 95 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.")).
 
-#### Art. 6
+### Art. 6
 
 1\. Le disposizioni del Capo IV del decreto del Presidente della Repubblica 24 aprile 1982, n. 337, sono modificate a norma dei seguenti commi.
 
@@ -724,7 +722,7 @@ Art. 20-septies (Promozione alla qualifica di revisore tecnico capo). - 1. La pr
 
 "Art. 21 (Mobilita' nell'ambito della qualifica del personale dei ruoli degli operatori e collaboratori tecnici e dei revisori tecnici). - 1. E' in facolta' dell'amministrazione disporre, in relazione alle esigenze di servizio, che il personale appartenente ai ruoli degli operatori e collaboratori tecnici e dei revisori tecnici frequenti anche dopo la nomina, corsi di qualificazione per l'esercizio delle mansioni di altri profili professionali previsti per il ruolo di appartenenza.".
 
-#### Art. 7
+### Art. 7
 
 1\. Le disposizioni del Capo V del decreto del Presidente della Repubblica 24 aprile 1982, n. 337, sono modificate a norma dei seguenti commi.
 
@@ -894,7 +892,7 @@ Art. 31-sexies (Riassorbimento degli scatti aggiuntivi)
 
 31-quinquies sono riassorbiti all'atto dell'accesso al livello retributivo superiore."
 
-#### Art. 8
+### Art. 8
 
 1\. L'art. 42 del decreto del Presidente della Repubblica 24 aprile 1982, n. 337, e' sostituito dal seguente:
 
@@ -912,17 +910,15 @@ Art. 31-sexies (Riassorbimento degli scatti aggiuntivi)
 
 > Agli operatori tecnici, operatori tecnici scelti e collaboratori tecnici e' attribuita la qualifica di agente di polizia giudiziaria limitatamente alle funzioni esercitate. Ai collaboratori tecnici capo e agli appartenenti ai ruoli dei revisori tecnici, periti tecnici, direttori tecnici, nonche' ai primi dirigenti del ruolo dei dirigenti tecnici, e' attribuita la qualifica di ufficiali di polizia giudiziaria limitatamente alle funzioni esercitate".
 
-#### Art. 9
+### Art. 9
 
 (( 1. La tabella A allegata al decreto del Presidente della Repubblica 24 aprile l982, n. 337, come sostituita dalla tabella 4 allegata al decreto legislativo 5 ottobre 2000, n. 334, e' sostituita, nelle parti relative ai ruoli degli operatori e dei collaboratori tecnici, dei revisori tecnici dei periti tecnici, dalla tabella 2 allegata al presente decreto. ))
 
 2\. La tabella B allegata al decreto del Presidente della Repubblica 24 aprile 1982, n. 337, e' sostituita, nelle parti relative ai ruoli di cui al comma 1, dalla tabella 3 allegata al presente decreto.
 
-## CAPO III - RIORDINAMENTO DEI RUOLI DEL PERSONALE DELLA BANDA MUSICALE DELLA
+## CAPO III - RIORDINAMENTO DEI RUOLI DEL PERSONALE DELLA BANDA MUSICALE DELLA POLIZIA DI STATO.
 
-### POLIZIA DI STATO.
-
-#### Art. 10
+### Art. 10
 
 1\. Le disposizioni del Titolo II - Capi I e II, del decreto del Presidente della Repubblica 30 aprile 1987, n. 240, concernente il nuovo ordinamento della banda musicale della Polizia di Stato, sono modificate a norma dei seguenti commi:
 
@@ -1036,7 +1032,7 @@ Art. 15-sexies (Riassorbimento degli scatti aggiuntivi)
 
 "orchestrali".
 
-#### Art. 11
+### Art. 11
 
 1\. Le tabelle F e G, allegate al decreto del Presidente della Repubblica 30 aprile 1987, n. 240, sono sostituite dalle tabelle F e G allegate al presente decreto.
 
@@ -1128,7 +1124,7 @@ Art. 15-sexies (Riassorbimento degli scatti aggiuntivi)
 
 ## CAPO IV - DISPOSIZIONI TRANSITORIE E FINALI
 
-#### Art. 12
+### Art. 12
 
 1\. Gli assistenti capo in possesso della qualifica di ufficiale di polizia giudiziaria, in servizio alla data di entrata in vigore del presente decreto, che abbiano oltre ventinove anni di effettivo servizio, sono inquadrati nella qualifica di sovrintendente capo del nuovo ruolo dei sovrintendenti della Polizia di Stato, secondo l'ordine di ruolo.
 
@@ -1142,7 +1138,7 @@ Art. 15-sexies (Riassorbimento degli scatti aggiuntivi)
 
 6\. Il personale inquadrato ai sensi del presente articolo conserva, anche ai fini della progressione alla qualifica superiore, l'anzianita' eccedente quella minima prevista per l'inquadramento. Lo stesso personale, per l'ammissione agli scrutini di cui agli articoli 24-sexies e 24-septies beneficia, per una sola volta, di una riduzione del periodo di permanenza nella qualifica pari al tempo per il quale ha rivestito la qualifica di ufficiale di polizia giudiziaria.
 
-#### Art. 13
+### Art. 13
 
 1\. Il personale del ruolo degli ispettori e dei sovrintendenti di cui al decreto del Presidente della Repubblica 24 aprile 1982, n. 335, in servizio alla data di entrata in vigore del presente decreto e' inquadrato in ordine di qualifica e di ruolo, anche in sovrannumero riassorbibile con le normali vacanze, nelle sottoelencate qualifiche del ruolo degli ispettori, istituito con il presente decreto, conservando, se piu' favorevole, il trattamento economico in godimento:
 
@@ -1164,7 +1160,7 @@ d) nella qualifica di vice ispettore, il personale che riveste la qualifica di s
 
 > \- Il D.P.R. 24 aprile 1982, n. 335, recava: "Ordinamento del personale della Polizia di Stato che espleta funzioni di polizia";
 
-#### Art. 14
+### Art. 14
 
 1\. Per un periodo di quattro anni dalla data di entrata in vigore del presente decreto la promozione alla qualifica di ispettore superiore-sostituto ufficiale di pubblica sicurezza si consegue, anche in soprannumero:
 
@@ -1176,7 +1172,7 @@ b) per contingenti di 1000 posti l'anno, previa selezione alla quale e' ammesso 
 
 3\. Le procedure inerenti alla prima delle selezioni di cui alla lettera b) del comma 1 sono avviate immediatamente dopo l'effettuazione dell'inquadramento previsto all'articolo 13, comma 1, lettera a) e le sole promozioni relative a detta prima selezione sono conferite con decorrenza dalla data dell'inquadramento suddetto ai soli fini giuridici. I promossi conseguono la qualifica di ispettore superiore andandosi a collocare nel ruolo immediatamente dopo gli ispettori superiori inquadrati nella qualifica ai sensi dell'art. 13, comma 1, lettera a), che, prima dell'inquadramento, li precedevano nel ruolo.
 
-#### Art. 15
+### Art. 15
 
 1\. Nell'ambito dell'amministrazione della pubblica sicurezza e' istituito il ruolo ad esaurimento degli ispettori del personale della polizia di Stato che espleta funzioni di polizia.
 
@@ -1198,13 +1194,13 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 28 febbraio 2001, n. 53 ha disposto (con l'art. 14, comma 1) che "I ruoli ad esaurimento degli ispettori e dei periti tecnici di cui agli articoli 15 e 19 del decreto legislativo 12 maggio 1995, n. 197 sono soppressi".
 
-#### Art. 16
+### Art. 16
 
 1\. Sono fatti salvi le procedure e gli effetti relativi ai concorsi interni e agli scrutini di promozione del personale appartenente ai ruoli degli ispettori, dei sovrintendenti e degli assistenti ed agenti in corso alla data di entrata in vigore del presente decreto.
 
 Il personale suddetto, ove consegua nomine o promozioni ((ai sensi del periodo precedente)) e' inquadrato secondo le modalita' di cui agli articoli 12, 13 e 14.
 
-#### Art. 17
+### Art. 17
 
 1\. Le disposizioni del presente capo si applicano, in quanto compatibili, al personale del ruolo degli operatori e collaboratori tecnici avente la qualifica di ufficiale di polizia giudiziaria, a quello del ruolo dei revisori tecnici e a quello del ruolo dei periti tecnici.
 
@@ -1212,11 +1208,11 @@ Il personale suddetto, ove consegua nomine o promozioni ((ai sensi del periodo p
 
 2\. Prima di procedere all'inquadramento di cui al comma 1, le promozioni ancora non conferite nel ruolo dei periti tecnici saranno attribuite, ora per allora, nel limite dei posti disponibili in ciascuna qualifica, prescindendo dai contingenti dei vari profili professionali. A tal fine le promozioni alla qualifica di perito tecnico principale non ancora conferite saranno attribuite, ora per allora, nei limiti dei posti disponibili, mediante scrutini per merito comparativo ai quali e' ammesso il personale con la qualifica di perito tecnico che abbia compiuto almeno cinque anni di servizio nella qualifica.
 
-#### Art. 18
+### Art. 18
 
 1\. Il personale del ruolo degli operatori e collaboratori tecnici ed il personale del ruolo dei revisori tecnici che, in virtu' delle disposizioni del presente capo, e' ammesso all'inquadramento del ruolo dei revisori tecnici e nel ruolo dei periti tecnici, frequenta un corso straordinario di aggiornamento della durata di tre mesi da effettuarsi sulle materie tecniche del corrispondente profilo professionale del ruolo di inquadramento, con le modalita' da stabilirsi con decreto del Ministro dell'interno. Detto decreto deve contenere la definizione, anche per categorie omogenee, delle corrispondenze fra i profili professionali della qualifica di provenienza e quelli del ruolo di inquadramento.
 
-#### Art. 18-bis
+### Art. 18-bis
 
 (( 1. Per il primo concorso interno indetto successivamente al 1 settembre 1995, la nomina alla qualifica iniziale del ruolo dei revisori tecnici si consegue, in ciascun profilo professionale, mediante concorso per titoli e superamento di un successivo corso di formazione tecnico professionale di durata non inferiore a dodici mesi.
 
@@ -1228,7 +1224,7 @@ Il personale suddetto, ove consegua nomine o promozioni ((ai sensi del periodo p
 
 5\. Salvo quanto previsto dai commi precedenti, si applicano le disposizioni di cui all'articolo 20-quater del decreto del Presidente della Repubblica 24 aprile 1982, n. 337. ))
 
-#### Art. 18-ter
+### Art. 18-ter
 
 (( 1. Per il primo concorso interno indetto successivamente al 1 settembre 1995, la nomina alla qualifica iniziale del ruolo dei periti tecnici si consegue, in ciascun profilo professionale, mediante concorso per titoli di servizio ed esame, consistente in una prova scritta e in un colloquio, e superamento di un successivo corso di formazione tecnico professionale di durata non inferiore a dodici mesi.
 
@@ -1240,7 +1236,7 @@ Il personale suddetto, ove consegua nomine o promozioni ((ai sensi del periodo p
 
 5\. Salvo quanto previsto dai commi precedenti, si applicano le disposizioni di cui all'articolo 25-ter del decreto del Presidente della Repubblica 24 aprile 1982, n. 337. ))
 
-#### Art. 19
+### Art. 19
 
 1\. Nell'ambito dell'amministrazione della pubblica sicurezza e' istituito il ruolo ad esaurimento dei periti tecnici del personale della Polizia di Stato che espleta attivita' tecnico scientifica o tecnica.
 
@@ -1256,7 +1252,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 28 febbraio 2001, n. 53 ha disposto (con l'art. 14, comma 1) che "I ruoli ad esaurimento degli ispettori e dei periti tecnici di cui agli articoli 15 e 19 del decreto legislativo 12 maggio 1995, n. 197 sono soppressi".
 
-#### Art. 20
+### Art. 20
 
 1\. Il personale del ruolo degli esecutori della banda musicale della Polizia di Stato, in servizio alla data di entrata in vigore del presente decreto e' inquadrato secondo l'ordine di ruolo e di qualifica, anche in soprannumero riassorbibile con le vacanze ordinarie, nelle sottoelencate qualifiche del ruolo degli orchestrali, istituito con il presente decreto conservando, se piu' favorevole, il trattamento economico in godimento:
 
@@ -1266,19 +1262,19 @@ b) nella qualifica di orchestrale perito tecnico capo, gli esecutori della secon
 
 2\. Ai fini della progressione in carriera, le anzianita' di servizio nelle qualifiche di ruolo degli esecutori sono valutate secondo le disposizioni previste dall'art. 14 del presente decreto, in quanto compatibili.
 
-#### Art. 20-bis
+### Art. 20-bis
 
 (( (Disposizioni applicabili al personale dalia Polizia di Stato) ))
 
 (( 1. L'articolo 2, comma 10, del decreto legge 21 settembre 1987, n. 387, convertito, con modificazioni, dalla legge 20 novembre 1987, n. 472, e' applicabile, con decorrenza 1 settembre 1995, nei confronti del personale della Polizia di Stato che, alla data di entrata in vigore della predetta disposizione, abbia rivestito qualifiche equiparate a quelle per le quali e' stato concesso il beneficio ivi previsto. A tal fine, le attribuzioni economiche saranno determinate con i medesimi criteri previsti dallo stesso articolo e non potranno essere cumulate con analogo beneficio concesso per lo stesso titolo, ne' con l'emolumento di cui l'articolo 2, comma 22-bis, del predetto decreto-legge. ))
 
-#### Art. 21
+### Art. 21
 
 1\. In corrispondenza dei posti del personale inquadrato nei ruoli ad esaurimento di cui all'articolo 15 e 18 sono resi indisponibili altrettanti posti rispettivamente nel ruolo degli ispettori e nel ruolo dei periti tecnici.
 
 2\. In corrispondenza dei posti del personale eventualmente inquadrato in soprannumero ai sensi degli articoli 12, 13 e 14, sono resi indisponibili altrettati posti nel ruolo degli agenti e assistenti.
 
-#### Art. 22
+### Art. 22
 
 1\. Le disposizioni del presente decreto non innovano quelle dell'articolo 26 della legge 1 febbraio 1989, n. 53, e quelle dell'articolo 5 del decreto-legge 4 ottobre 1990, n. 276, convertito, con modificazioni, dalla legge 30 novembre 1990, n. 359.
 
@@ -1288,11 +1284,11 @@ b) nella qualifica di orchestrale perito tecnico capo, gli esecutori della secon
 
 > \- Il testo dell'art. 5 del decreto-legge 4 ottobre 1990, n. 276 citato e' riportato in nota all'art. 3;
 
-#### Art. 23
+### Art. 23
 
 1\. Le disposizioni di cui al presente decreto si applicano a decorrere dal 1 settembre 1995, relativanente al personale comunque in servizio alla stessa data.
 
-#### Art. 24
+### Art. 24
 
 1\. Alla legge 1 aprile l981, n. 12l, dopo l'articolo 43 e' inserito il seguente:
 
@@ -1302,7 +1298,7 @@ b) nella qualifica di orchestrale perito tecnico capo, gli esecutori della secon
 
 3\. Le caratteristiche dei distintivi e le insegne di grado degli appartenenti alle forze di polizia di cui alla tabella allegata al presente articolo e del personale di grado equivalente delle Forze Armate, sono stabiliti con decreto del Ministro compente, previa intesa con gli altri Ministri interessati. Fino all'enanazione del predetto decreto continuano ad applicarsi le disposizioni in vigore per ciascuna Forza di polizia o Forza Armata.".
 
-#### Art. 25
+### Art. 25
 
 1\. All'onere derivante dall'applicazione del presente decreto si provvede ai sensi dell'articolo 1 della legge 29 aprile 1995, n. 130.
 
@@ -1336,7 +1332,7 @@ Visto, il Guardasigilli: MANCUSO
 
 ## CAPO IV - DISPOSIZIONI TRANSITORIE E FINALI
 
-#### Tabella 1
+### Tabella 1
 
 TABELLA 1
 

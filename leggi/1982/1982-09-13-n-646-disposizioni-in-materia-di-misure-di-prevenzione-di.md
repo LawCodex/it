@@ -30,7 +30,7 @@ la seguente legge:
 
 ## Capo I - DISPOSIZIONI PENALI E PROCESSUALI
 
-#### Art. 1
+### Art. 1
 
 Dopo l'articolo 416 del codice penale e' aggiunto il seguente:
 
@@ -50,39 +50,39 @@ Nei confronti del condannato e' sempre obbligatoria la confisca delle cose che s
 
 Le disposizioni del presente articolo si applicano anche alla camorra e alle altre associazioni, comunque localmente denominate, che valendosi della forza intimidatrice del vincolo associativo perseguono scopi corrispondenti a quelli delle associazioni di tipo mafioso".
 
-#### Art. 2
+### Art. 2
 
 Dopo il primo comma dell'articolo 378 del codice penale e' inserito il seguente:
 
 "Quando il delitto commesso e' quello previsto dall'articolo 416-bis, si applica, in ogni caso, la pena della reclusione non inferiore a due anni".
 
-#### Art. 3
+### Art. 3
 
 Il secondo comma dell'articolo 379 del codice penale e' sostituito dal seguente:
 
 "Si applicano le disposizioni del primo e dell'ultimo capoverso dell'articolo precedente".
 
-#### Art. 4
+### Art. 4
 
 Nel primo comma dell'articolo 165-ter del codice di procedura penale tra i numeri "306" e "422" e' inserito il seguente: "416-bis".
 
-#### Art. 5
+### Art. 5
 
 Nell'articolo 253 del codice di procedura penale dopo il numero 5) e' aggiunto il seguente:
 
 "6) del delitto preveduto dall'articolo 416-bis del codice penale".
 
-#### Art. 6
+### Art. 6
 
 Dopo l'ultimo comma dell'articolo 448 del codice di procedura penale e' aggiunto il seguente:
 
 "Per i delitti previsti dall'articolo 416 del codice penale e per quelli indicati nel primo comma dell'articolo 165-ter del codice di procedura penale il giudice, anche d'ufficio, puo' procedere all'esame dei testimoni ordinando che il procedimento si svolga a porte chiuse per il tempo necessario all'esame".
 
-#### Art. 7
+### Art. 7
 
 Nel secondo comma dell'articolo 47 della legge 26 luglio 1975, n. 354, in fine, sono aggiunte le seguenti parole "e associazione di tipo mafioso".
 
-#### Art. 8
+### Art. 8
 
 Dopo l'articolo 513 del codice penale e' aggiunto il seguente:
 
@@ -90,7 +90,7 @@ Dopo l'articolo 513 del codice penale e' aggiunto il seguente:
 
 La pena e' aumentata se gli atti di concorrenza riguardano un'attivita' finanziata in tutto o in parte ed in qualsiasi modo dallo Stato o da altri enti pubblici".
 
-#### Art. 9
+### Art. 9
 
 All'ultimo comma dell'articolo 628 del codice penale 6 aggiunto, dopo il n. 2), il seguente:
 
@@ -98,7 +98,7 @@ All'ultimo comma dell'articolo 628 del codice penale 6 aggiunto, dopo il n. 2), 
 
 ## Capo II - DISPOSIZIONI IN MATERIA DI MISURE DI PREVENZIONE
 
-#### Art. 10
+### Art. 10
 
 L'ultimo comma dell'articolo 3 della legge 27 dicembre 1956, n. 1423, e' sostituito dai seguenti commi:
 
@@ -106,7 +106,7 @@ L'ultimo comma dell'articolo 3 della legge 27 dicembre 1956, n. 1423, e' sostitu
 
 Il soggiorno obbligatorio e' disposto in un comune o frazione di esso con popolazione non superiore ai 5 mila abitanti lontano da grandi aree metropolitane, tale da assicurare un efficace controllo delle persone sottoposte alla misura di prevenzione e che sia sede di un ufficio di polizia".
 
-#### Art. 11
+### Art. 11
 
 Dopo l'articolo 7 della legge 27 dicembre 1956, n. 1423, sono aggiunti i seguenti articoli:
 
@@ -128,19 +128,19 @@ Del decreto e' altresi' data notizia, anche a mezzo del telefono o del telegrafo
 
 "Art. 7-ter. - La persona che, avendo ottenuto l'autorizzazione di cui all'articolo precedente, non rientri nel termine stabilito nel comune di soggiorno obbligato, o non osservi le prescrizioni fissate per il viaggio, ovvero si allontani dal comune dove ha chiesto di recarsi, e' punita con la reclusione da due a cinque anni; e' consentito l'arresto anche fuori dei casi di flagranza".
 
-#### Art. 12
+### Art. 12
 
 Il secondo comma dell'articolo 9 della legge 27 dicembre 1956, n. 1423, e' sostituito dal seguente:
 
 "Se l'inosservanza riguarda la sorveglianza speciale con l'obbligo o il divieto di soggiorno, si applica la pena della reclusione da due a cinque anni".
 
-#### Art. 13
+### Art. 13
 
 L'articolo 1 della legge 31 maggio 1965, n. 575, e' sostituito dal seguente:
 
 "La presente legge si applica agli indiziati di appartenere ad associazioni di tipo mafioso, alla camorra o ad altre associazioni, comunque localmente denominate, che perseguono finalita' o agiscono con metodi corrispondenti a quelli delle associazioni di tipo mafioso".
 
-#### Art. 14
+### Art. 14
 
 Dopo l'articolo 2 della legge 31 maggio 1965, n. 575, sono aggiunti i seguenti:
 
@@ -176,7 +176,7 @@ Le spese relative alle garanzie reali previste dal terzo comma dell'articolo 3-b
 
 Il rimborso delle spese postali e dell'indennita' di trasferta spettante all'ufficiale giudiziario e' regolato dalla legge 7 febbraio 1979, n. 59.))
 
-#### Art. 15
+### Art. 15
 
 Dopo l'articolo 3 della legge 31 maggio 1965, n. 575, sono aggiunti i seguenti articoli:
 
@@ -204,17 +204,17 @@ Le impugnazioni contro detti provvedimenti sono regolate dalle disposizioni dei 
 
 I provvedimenti emessi dal giudice penale, con i quali si limita o si esclude la disponibilita' dei beni, hanno effetto prevalente sui provvedimenti emessi, riguardo agli stessi beni, in occasione di una procedura per l'applicazione di una delle misure di prevenzione previste dall'articolo 3 della legge 27 dicembre 1956, n. 1423".
 
-#### Art. 16
+### Art. 16
 
 ((ARTICOLO ABROGATO DAL D.LGS. 6 SETTEMBRE 2011, N. 159))
 
-#### Art. 17
+### Art. 17
 
 L'articolo 5 della legge 31 maggio 1965, n. 575, e' sostituito dal seguente:
 
 "L'allontanamento abusivo dal comune ((o dalla frazione di comune)) di soggiorno obbligatorio e' punito con la reclusione da due a cinque anni e' consentito l'arresto anche fuori dai casi di flagranza".
 
-#### Art. 18
+### Art. 18
 
 L'articolo 7 della legge 31 maggio 1965, n. 575, e' sostituito dal seguente:
 
@@ -224,7 +224,7 @@ In ogni caso si procede d'ufficio ed e' consentito l'arresto anche fuori dei cas
 
 Alla pena e' aggiunta una misura di sicurezza detentiva".
 
-#### Art. 19
+### Art. 19
 
 L'articolo 10 della legge 31 maggio 1965, n. 575, e' sostituito dal seguente:
 
@@ -234,7 +234,7 @@ Nel corso del procedimento di prevenzione, di cui all'articolo 4 della legge 27 
 
 Il provvedimento che applica la misura di prevenzione comporta che le licenze, le concessioni e le iscrizioni per le quali e' intervenuta decadenza non possono essere in ogni caso disposte e, se disposte, sono revocate di diritto, a favore delle persone sottoposte alle misure di prevenzione e a favore del coniuge, dei figli e delle altre persone con esse conviventi".
 
-#### Art. 20
+### Art. 20
 
 Dopo l'articolo 10 della legge 31 maggio 1965, n. 575, cosi' come sostituito dalla presente legge, sono aggiunti i seguenti articoli:
 
@@ -264,7 +264,7 @@ Si applicano le disposizioni di cui al primo e al secondo comma dell'articolo 3-
 
 Se il fatto e' commesso per colpa la pena e' della reclusione da tre mesi ad un anno".
 
-#### Art. 21
+### Art. 21
 
 Chiunque, avendo in appalto opere riguardanti la pubblica amministrazione, concede anche di fatto, in subappalto o a cottimo, in tutto o in parte, le opere stesse, senza l'autorizzazione dell'autorita' competente, e' punito con ((la reclusione da uno a cinque anni e con la multa)) non inferiore ad un terzo del valore dell'opera concessa in subappalto o a cottimo e non superiore ad un terzo del valore complessivo dell'opera ricevuta in appalto. Nei confronti del subappaltatore e dell'affidatario del cottimo si applica la pena ((della reclusione da uno a cinque anni e della multa.)) pari ad un terzo del valore dell'opera ricevuta in subappalto o in cottimo. E' data all'amministrazione appaltante la facolta' di chiedere la risoluzione del contratto.
 
@@ -280,13 +280,13 @@ AGGIORNAMENTO (2)
 
 La L. 23 dicembre 1982, n. 936 ha disposto (con l'art. 4, comma 1) che "A modifica e integrazione del disposto di cui all'ultimo comma dell'articolo 21 della legge 13 settembre 1982, n. 646, come modificato dall'articolo 1 della legge 12 ottobre 1982, n. 726, per i rapporti di subappalto e cottimo contemplati nell'articolo 21 predetto, in corso alla data del 29 settembre 1982, l'autorizzazione deve essere richiesta, entro trenta giorni dalla data di entrata in vigore della presente legge, all'autorita' competente, la quale si pronuncia entro sessanta giorni dalla ricezione della domanda. Se l'autorizzazione non viene richiesta o viene negata, la prosecuzione dei rapporti di subappalto e di cottimo e' punita con le pene stabilite nel primo comma del richiamato articolo 21 della legge 13 settembre 1982, n. 646, come modificato dall'articolo 1 della legge 12 ottobre 1982, n. 726, sopracitata, ferma restando la facolta' dell'amministrazione appaltante di chiedere la risoluzione del contratto".
 
-#### Art. 22
+### Art. 22
 
 L'eventuale custodia dei cantieri installati per la realizzazione di opere pubbliche deve essere affidata a persone provviste della qualifica di guardia particolare giurata.
 
 In caso di inosservanza della disposizione che precede, l'appaltatore e il direttore dei lavori sono puniti con l'arresto fino a tre mesi o con l'ammenda da lire centomila ad un milione.
 
-#### Art. 23
+### Art. 23
 
 Dopo il numero 2) dell'articolo 13 della legge 10 febbraio 1962, n. 57, e' aggiunto il seguente:
 
@@ -302,7 +302,7 @@ Dopo il numero 2) del primo comma dell'articolo 21 della legge 10 febbraio 1962,
 
 ((COMMA ABROGATO DALLA L. 19 MARZO 1990, N. 55))
 
-#### Art. 23-bis
+### Art. 23-bis
 
 1\. Quando si procede nei confronti di persone imputate del delitto di cui all'articolo 416-bis del codice penale o del delitto di cui all'articolo 75 della legge 22 dicembre 1975, n. 685, il pubblico ministero ne da' senza ritardo comunicazione al procuratore della Repubblica ((presso il tribunale del capoluogo del distretto ove dimora la persona)) per il promuovimento, qualora non sia gia' in corso, del procedimento per l'applicazione di una misura di prevenzione, ai sensi della legge 31 maggio 1965, n. 575.
 
@@ -312,13 +312,13 @@ Dopo il numero 2) del primo comma dell'articolo 21 della legge 10 febbraio 1962,
 
 4\. COMMA ABROGATO DAL D.L. 13 MAGGIO 1991, N. 152, CONVERTITO CON MODIFICAZIONI DALLA L. 12 LUGLIO 1991, N. 203.
 
-#### Art. 24
+### Art. 24
 
 ((ARTICOLO ABROGATO DALLA L. 19 MARZO 1990, N. 55))
 
 ## Capo III - DISPOSIZIONI FISCALI E' TRIBUTARIE
 
-#### Art. 25
+### Art. 25
 
 1\. A carico delle persone nei cui confronti ((sia stato adottato un decreto di cui al comma 2-bis dell'articolo 41-bis della legge 26 luglio 1975, n. 354,)) sia stata emanata sentenza di condanna anche non definitiva per taluno dei reati previsti dall'articolo 51, comma 3-bis, del codice di procedura penale ovvero per il delitto di cui all'articolo 12-quinquies, comma 1, del decreto-legge 8 giugno 1992, n. 306, convertito, con modificazioni, dalla legge 7 agosto 1992, n. 356, ovvero sia stata disposta, con provvedimento anche non definitivo, una misura di prevenzione ai sensi della legge 31 maggio 1965, n. 575, il nucleo di polizia tributaria del Corpo della guardia di finanza, competente in relazione al luogo di dimora abituale del soggetto, puo' procedere alla verifica della relativa posizione fiscale, economica e patrimoniale ai fini dell'accertamento di illeciti valutari e societari e comunque in materia economica e finanziaria, anche allo scopo di verificare l'osservanza della disciplina dei divieti autorizzatori, concessori o abilitativi di cui all'articolo 10 della citata legge n. 575 del 1965, e successive modificazioni.
 
@@ -332,21 +332,21 @@ Dopo il numero 2) del primo comma dell'articolo 21 della legge 10 febbraio 1962,
 
 6\. Ai fini dell'accertamento delle imposte sui redditi e dell'imposta sul valore aggiunto, ai dati, alle notizie e ai documenti acquisiti ai sensi del comma 4 si applicano le disposizioni di cui all'articolo 51, secondo comma, numero 2), secondo periodo, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, e all'articolo 32, primo comma, numero 2), secondo periodo, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e successive modificazioni.
 
-#### Art. 26
+### Art. 26
 
 Tutti gli elementi acquisiti in occasione delle indagini di cui all'articolo precedente, e comunque le variazioni patrimoniali superiori a lire 20 milioni intervenute negli ultimi tre anni, con riguardo sia ai conferenti sia ai beneficiari, devono essere comunicati anche ai sensi del Titolo 6 della legge 1 aprile 1981, n. 121.
 
-#### Art. 27
+### Art. 27
 
 Quando dalla verifica operata dalla polizia tributaria, ai sensi del precedente articolo 25, emergono reati di natura fiscale, il procuratore della Repubblica esercita l'azione penale anche anteriormente al termine indicato dal secondo comma dell'articolo 13 del decreto-legge 10 luglio 1982, n. 429, convertito, con modificazioni, nella legge 7 agosto 1982, n. 516.
 
-#### Art. 28
+### Art. 28
 
 La cattura e' sempre obbligatoria per i delitti di carattere finanziario, valutario o societario puniti con pena detentiva e commessi da persone gia' condannate, con sentenza definitiva, per associazione di tipo mafioso ai sensi dell'articolo 416-bis del codice penale o gia' sottoposte, con provvedimento definitivo, ad una misura di prevenzione ai sensi della legge 31 maggio 1965, n. 575.
 
 Per la determinazione della durata della carcerazione preventiva si applica l'articolo 272 del codice di procedura penale, ma non possono in alcun caso essere superare i due terzi del massimo della pena irrogabile.
 
-#### Art. 29
+### Art. 29
 
 Se un reato finanziario, valutario o societario contestato a persona sottoposta con provvedimento definitivo a misure di prevenzione a norma della legge 31 maggio 1965, n. 575, o a persona condannata con sentenza definitiva per il delitto di associazione di tipo mafioso, e' connesso con altri diversi reali, non si fa luogo alla riunione del procedimento.
 
@@ -354,7 +354,7 @@ La competenza per i reati finanziari, valutari o societari contestati ad una del
 
 Salvo che sia stata offerta idonea cauzione, per i reati finanziari si deve in ogni caso procedere all'iscrizione dell'ipoteca legale o al sequestro previsti dall'articolo 189 del codice penale.
 
-#### Art. 30
+### Art. 30
 
 ((Le persone condannate con sentenza definitiva per taluno dei reati previsti dall'articolo 51, comma 3-bis, del codice di procedura penale ovvero per il delitto di cui all'articolo 12-quinquies, comma 1, del decreto-legge 8 giugno 1992, n. 306, convertito, con modificazioni, dalla legge 7 agosto 1992, n. 356, o gia' sottoposte, con provvedimento definitivo, ad una misura di prevenzione ai sensi della legge 31 maggio 1965, n. 575, sono tenute a comunicare per dieci anni, ed entro trenta giorni dal fatto, al nucleo di polizia tributaria del luogo di dimora abituale, tutte le variazioni nell'entita' e nella composizione del patrimonio concernenti elementi di valore non inferiore ad euro 10.329,14. Entro il 31 gennaio di ciascun anno, i soggetti di cui al periodo precedente sono altresi' tenuti a comunicare le variazioni intervenute nell'anno precedente, quando concernono complessivamente elementi di valore non inferiore ad euro 10.329,14. Sono esclusi i beni destinati al soddisfacimento dei bisogni quotidiani)).
 
@@ -362,7 +362,7 @@ Il termine di dieci anni decorre dalla data del decreto ovvero dalla data della 
 
 Gli obblighi previsti nel primo comma cessano quando la misura di prevenzione e' revocata a seguito di ricorso in appello o in cassazione.
 
-#### Art. 31
+### Art. 31
 
 Chiunque essendo tenuto, omette di comunicare entro i termini stabiliti dalla legge le variazioni patrimoniali indicate nell'articolo precedente e' punito con la reclusione da due a sei anni e con la multa da lire 20 milioni a lire 40 milioni.
 
@@ -370,11 +370,9 @@ Alla condanna segue la confisca dei beni a qualunque titolo acquistati nonche' d
 
 ((Nei casi in cui non sia possibile procedere alla confisca dei beni acquistati ovvero del corrispettivo dei beni alienati, il giudice ordina la confisca, per un valore equivalente, di somme di denaro, beni o altre utilita' dei quali i soggetti di cui all'articolo 30, primo comma, hanno la disponibilita')).
 
-## Capo IV - ISTITUZIONE DI UNA COMMISSIONE PARLAMENTARE
+## Capo IV - ISTITUZIONE DI UNA COMMISSIONE PARLAMENTARE SUL FENOMENO DELLA MAFIA
 
-### SUL FENOMENO DELLA MAFIA
-
-#### Art. 32
+### Art. 32
 
 E' istituita per la durata di tre anni una commissione parlamentare con il compito di:
 
@@ -390,7 +388,7 @@ AGGIORNAMENTO (2)
 
 La L. 31 gennaio 1986, n. 12 ha disposto (con l'art. 1) che "La durata della commissione parlamentare di cui al primo comma dell'articolo 32 della legge 13 settembre 1982, n. 646, e' prorogata per l'intero periodo della IX Legislatura".
 
-#### Art. 33
+### Art. 33
 
 La commissione e' composta da venti senatori e da venti deputati, scelti rispettivamente dal Presidente del Senato della Repubblica e dal Presidente della Camera dei deputati in proporzione al numero dei componenti i gruppi parlamentari, comunque assicurando la presenza di un rappresentante per ciascun gruppo esistente in almeno un ramo del Parlamento.
 
@@ -398,13 +396,13 @@ Il presidente della commissione e' scelto di comune accordo dai Presidenti delle
 
 La commissione elegge due vicepresidenti e due segretari.
 
-#### Art. 34
+### Art. 34
 
 L'attivita' ed il funzionamento della commissione sono disciplinati da un regolamento interno approvato dalla commissione prima dell'inizio dei lavori. Ciascun componente puo' proporre la modifica delle norme regolamentari.
 
 Tutte le volte che lo ritenga opportuno la commissione puo' riunirsi in seduta segreta.
 
-#### Art. 35
+### Art. 35
 
 Per l'espletamento delle sue funzioni la commissione fruisce di personale, locali e strumenti operativi disposti dai Presidenti delle Camere, d'intesa tra di loro.
 

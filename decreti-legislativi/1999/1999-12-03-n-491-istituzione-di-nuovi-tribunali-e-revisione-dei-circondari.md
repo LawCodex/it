@@ -37,11 +37,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I - Istituzione dei tribunali e delle procure della Repubblica di Tivoli
+## Capo I - Istituzione dei tribunali e delle procure della Repubblica di Tivoli e Giugliano in Campania e revisione dei circondari di Milano, Roma, Napoli, Palermo e Torino
 
-### e Giugliano in Campania e revisione dei circondari di Milano, Roma, - Napoli, Palermo e Torino
-
-#### Art. 1
+### Art. 1
 
 Istituzione del tribunale ordinario di Tivoli e revisione del
 
@@ -105,7 +103,7 @@ circondario dei tribunali compresi nel distretto della corte d'appello di Roma.
 
 > \- La tabella A allegata al regio decreto 30 gennaio 1941, n. 12 (Ordinamento giudiziario), prevede il numero delle sedi delle corti di appello, dei tribunali e delle preture della Repubblica.
 
-#### Art. 2
+### Art. 2
 
 Istituzione del tribunale ordinario di Giugliano in Campania e
 
@@ -117,7 +115,7 @@ revisione del circondario dei tribunali compresi nel distretto della corte d'app
 
 3\. Nel circondario del tribunale di Napoli e istituita la sezione distaccata di Casoria, con giurisdizione sui comuni di Arzano, Casavatore, Casoria.
 
-#### Art. 3
+### Art. 3
 
 Revisione del circondario dei tribunali compresi nel distretto della corte d'appello di Milano
 
@@ -131,7 +129,7 @@ Revisione del circondario dei tribunali compresi nel distretto della corte d'app
 
 5\. Alla sezione distaccata di Rho del tribunale di Milano e' altresi' attribuito il territorio dei comuni di Bareggio, Bernate Ticino, Boffalora sopra Ticino, Corbetta, Magenta, Marcallo con Casone, Mesero, Ossona, Santo Stefano Ticino, Sedriano, Vittuone.
 
-#### Art. 4
+### Art. 4
 
 Revisione del circondario dei tribunali compresi nel distretto della corte d'appello di Torino
 
@@ -145,7 +143,7 @@ Revisione del circondario dei tribunali compresi nel distretto della corte d'app
 
 5\. Al circondario del tribunale di Pinerolo e' altresi' attribuito il territorio dei comuni di Bruino, Candiolo, Orbassano, Piossasco, Sangano.
 
-#### Art. 5
+### Art. 5
 
 Revisione del circondario dei tribunali compresi nel distretto della corte d'appello di Palermo
 
@@ -163,7 +161,7 @@ Il testo del presente articolo e' gia' integrato con le correzioni apportate dal
 
 E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-#### Art. 6
+### Art. 6
 
 Variazioni alle tabelle A e B allegate al regio decreto 30 gennaio 1941, n. 12
 
@@ -175,7 +173,7 @@ Variazioni alle tabelle A e B allegate al regio decreto 30 gennaio 1941, n. 12
 
 ## Capo II - Disposizioni relative al personale
 
-#### Art. 7
+### Art. 7
 
 Determinazione degli organici degli uffici giudiziari e nomina dei capi e dei dirigenti dei tribunali di Tivoli e di Giugliano in
 
@@ -193,7 +191,7 @@ Campania e delle procure della Repubblica presso i medesimi tribunali.
 
 6\. Salvo quanto disposto dal comma 5, le modifiche di competenza territoriale introdotte dal presente decreto hanno efficacia dal centottantesimo giorno dalla data di entrata in vigore del decreto medesimo.
 
-#### Art. 8
+### Art. 8
 
 Copertura dell'organico dei tribunali di Tivoli e di Giugliano in
 
@@ -211,7 +209,7 @@ Campania e delle procure della Repubblica presso i medesimi tribunali.
 
 > \- Il decreto legislativo 3 febbraio 1993, n. 29, reca: "Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'art. 2 della legge 23 ottobre 1992, n. 421".
 
-#### Art. 9
+### Art. 9
 
 Distretti notarili
 
@@ -243,7 +241,7 @@ Distretti notarili
 
 ## Capo III - Disposizioni transitorie
 
-#### Art. 10
+### Art. 10
 
 Procedimenti pendenti
 

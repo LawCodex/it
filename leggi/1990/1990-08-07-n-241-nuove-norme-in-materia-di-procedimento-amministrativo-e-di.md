@@ -28,7 +28,7 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I - PRINCIPI
+### CAPO I - PRINCIPI
 
 #### Art. 1 - Principi generali dell'attivita' amministrativa
 
@@ -116,7 +116,7 @@ Il D.L. 21 giugno 2013, n. 69, convertito con modificazioni dalla L. 9 agosto 20
 
 1\. Per conseguire maggiore efficienza nella loro attivita', le amministrazioni pubbliche ((agiscono mediante strumenti informatici e telematici)), nei rapporti interni, tra le diverse amministrazioni e tra queste e i privati.
 
-## CAPO II - RESPONSABILE DEL PROCEDIMENTO
+### CAPO II - RESPONSABILE DEL PROCEDIMENTO
 
 #### Art. 4
 
@@ -156,9 +156,9 @@ e) adotta, ove ne abbia la competenza, il provvedimento finale, ovvero trasmette
 
 ((1. Il responsabile del procedimento e i titolari degli uffici competenti ad adottare i pareri, le valutazioni tecniche, gli atti endoprocedimentali e il provvedimento finale devono astenersi in caso di conflitto di interessi, segnalando ogni situazione di conflitto, anche potenziale)).
 
-## CAPO III - PARTECIPAZIONE
+### CAPO III
 
-### AL PROCEDIMENTO AMMINISTRATIVO
+## PARTECIPAZIONE - AL PROCEDIMENTO AMMINISTRATIVO
 
 #### Art. 7
 
@@ -242,9 +242,7 @@ b) di presentare memorie scritte e documenti, che l'amministrazione ha l'obbligo
 
 2\. Dette disposizioni non si applicano altresi' ai procedimenti tributari per i quali restano parimenti ferme le particolari norme che li regolano , nonche' ai procedimenti previsti dal decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, e successive modificazioni, e dal decreto legislativo 29 marzo 1993, n. 119, e successive modificazioni.
 
-## CAPO IV - SEMPLIFICAZIONE
-
-### DELL'AZIONE AMMINISTRATIVA
+### CAPO IV - SEMPLIFICAZIONE DELL'AZIONE AMMINISTRATIVA
 
 #### Art. 14 - Conferenze di servizi
 
@@ -534,9 +532,7 @@ Il D.P.R. 26 aprile 1992, n. 300 ha disposto:
 
 ((2-ter. La decorrenza del termine previsto dall'articolo 19, comma 3, e la formazione del silenzio assenso ai sensi dell'articolo 20 non escludono la responsabilita' del dipendente che non abbia agito tempestivamente nel caso in cui la segnalazione certificata o l'istanza del privato non fosse conforme alle norme vigenti.))
 
-## ((CAPO IV-BIS - EFFICACIA ED INVALIDITA' DEL PROVVEDIMENTO AMMINISTRATIVO.
-
-### REVOCA E RECESSO))
+### ((CAPO IV-BIS - EFFICACIA ED INVALIDITA' DEL PROVVEDIMENTO AMMINISTRATIVO. REVOCA E RECESSO))
 
 #### Art. 21-bis
 
@@ -614,7 +610,7 @@ b) i provvedimenti amministrativi illegittimi ai sensi dell'art. 21-octies della
 
 ((1. In caso di annullamento di un provvedimento finale in virtu' di una sentenza passata in giudicato, derivante da vizi inerenti ad uno o piu' atti emessi nel corso del procedimento di autorizzazione o di valutazione di impatto ambientale, il proponente puo' richiedere all'amministrazione procedente e, in caso di progetto sottoposto a valutazione di impatto ambientale, all'autorita' competente ai sensi del decreto legislativo 3 aprile 2006, n. 152, l'attivazione di un procedimento semplificato, ai fini della riadozione degli atti annullati. Qualora non si rendano necessarie modifiche al progetto e fermi restando tutti gli atti e i provvedimenti delle amministrazioni interessate resi nel suddetto procedimento, l'amministrazione o l'ente che abbia adottato l'atto ritenuto viziato si esprime provvedendo alle integrazioni necessarie per superare i rilievi indicati dalla sentenza. A tal fine, entro quindici giorni dalla ricezione dell'istanza del proponente, l'amministrazione procedente trasmette l'istanza all'amministrazione o all'ente che ha emanato l'atto da riemettere, che vi provvede entro trenta giorni. Ricevuto l'atto ai sensi del presente comma, o decorso il termine per l'adozione dell'atto stesso, l'amministrazione riemette, entro i successivi trenta giorni, il provvedimento di autorizzazione o di valutazione di impatto ambientale, in attuazione, ove necessario, degli articoli 14-quater e 14-quinquies della presente legge e dell'articolo 25, commi 2 e 2-bis, del decreto legislativo 3 aprile 2006, n. 152)).
 
-## CAPO V - ACCESSO AI DOCUMENTI AMMINISTRATIVI
+### CAPO V - ACCESSO AI DOCUMENTI AMMINISTRATIVI
 
 #### Art. 22 - Definizioni e principi in materia di accesso
 
@@ -742,7 +738,7 @@ Il D.L. 21 giugno 2013, n. 69, convertito con modificazioni dalla L. 9 agosto 20
 
 "Art. 15. - (Segreto d'ufficio). - 1. L'impiegato deve mantenere il segreto d'ufficio. Non puo' trasmettere a chi non ne abbia diritto informazioni riguardanti provvedimenti od operazioni amministrative, in corso o concluse, ovvero notizie di cui sia venuto a conoscenza a causa delle sue funzioni, al di fuori delle ipotesi e delle modalita' previste dalle norme sul diritto di accesso. Nell'ambito delle proprie attribuzioni, l'impiegato preposto ad un ufficio rilascia copie ed estratti di atti e documenti di ufficio nei casi non vietati dall'ordinamento".
 
-## CAPO VI - DISPOSIZIONI FINALI
+### CAPO VI - DISPOSIZIONI FINALI
 
 #### Art. 29 - Ambito di applicazione della legge
 

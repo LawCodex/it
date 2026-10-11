@@ -46,11 +46,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I - LIBERALIZZAZIONE
+## Titolo I - LIBERALIZZAZIONE DEL MERCATO ELETTRICO
 
-### DEL MERCATO ELETTRICO
-
-#### Art. 1
+### Art. 1
 
 Liberalizzazione e trasparenza societaria
 
@@ -170,7 +168,7 @@ Liberalizzazione e trasparenza societaria
 
 > p) controlla che ciascun soggetto esercente il servizio adotti, in base alla direttiva sui principi dell'erogazione dei servizi pubblici del Presidente del Consiglio dei Ministri del 27 gennaio 1994, pubblicata nella Gazzetta Ufficiale n. 43 del 22 febbraio 1994, una carta di servizio pubblico con indicazione di standards dei singoli servizi e ne verifica il rispetto".
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -252,7 +250,7 @@ Definizioni
 
 ## Titolo II - DISCIPLINA DEL SETTORE ELETTRICO
 
-#### Art. 3
+### Art. 3
 
 Gestore della rete di trasmissione nazionale
 
@@ -334,7 +332,7 @@ AGGIORNAMENTO (17)
 
 Il D.L. 22 giugno 2012, n. 83, convertito con modificazioni dalla L. 7 agosto 2012, n. 134, ha disposto (con l'art. 39, comma 3) che "I corrispettivi a copertura degli oneri generali di sistema elettrico ed i criteri di ripartizione dei medesimi oneri a carico dei clienti finali sono rideterminati dall'Autorita' per l'energia elettrica e il gas entro 60 giorni dalla data di emanazione dei decreti di cui al comma 1, in modo da tener conto della definizione di imprese a forte consumo di energia contenuta nei decreti di cui al medesimo comma 1 e nel rispetto dei vincoli di cui al comma 2, secondo indirizzi del Ministro dello sviluppo economico. Dalla data di entrata in vigore della rideterminazione e' conseguentemente abrogato l'ultimo periodo del comma 11 dell'articolo 3 del decreto legislativo 16 marzo 1999, n. 79".
 
-#### Art. 4
+### Art. 4
 
 Acquirente unico a garanzia dei clienti vincolati
 
@@ -358,7 +356,7 @@ Nell'effettuare detta stima, l'acquirente unico tiene conto dell'evoluzione del 
 
 9\. La misura del corrispettivo per le attivita' svolte dall'acquirente unico e' determinata dall'Autorita' per l'energia elettrica e il gas ed e' tale da incentivare la stessa societa' allo svolgimento delle attivita' di propria competenza secondo criteri di efficienza economica.
 
-#### Art. 5
+### Art. 5
 
 Funzioni di gestore del mercato
 
@@ -380,7 +378,7 @@ AGGIORNAMENTO (17)
 
 Il Decreto 20 aprile 2005 (in G.U. 28/04/2005, n. 97) ha disposto (con l'articolo unico, comma 1) che "Ai soli fini del decreto legislativo 29 dicembre 2003, n. 387, la data di entrata a regime del mercato elettrico di cui all'art. 5 del decreto legislativo 16 marzo 1999, n. 79, e' fissata al 30 giugno 2005".
 
-#### Art. 6
+### Art. 6
 
 Contrattazione bilaterale
 
@@ -392,7 +390,7 @@ Con determinazione dell'Autorita' per l'energia elettrica e il gas, da adottarsi
 
 4\. Fino all'attuazione del dispacciamento di merito economico, l'Autorita' per l'energia elettrica ed il gas vigila sul corretto comportamento degli operatori del mercato ed in particolare adotta idonei rimedi, anche sanzionatori, in caso di accordi in contrasto con le disposizioni di cui al comma 1.
 
-#### Art. 7
+### Art. 7
 
 Piccole reti isolate
 
@@ -404,7 +402,7 @@ b) sviluppo, ove possibile, dell'interconnessione con la rete di trasmissione na
 
 ((c) utilizzo prioritario delle fonti rinnovabili)).
 
-#### Art. 8
+### Art. 8
 
 Attivita' di produzione
 
@@ -434,7 +432,7 @@ b) i progetti di modifica o ripotenziamento sono valutati sotto il profilo urban
 
 > \- Per il testo dell'art. 17, comma 2, della legge 23 agosto 1988, n. 400, vedi nelle note all'art. 7.
 
-#### Art. 9
+### Art. 9
 
 L'attivita' di distribuzione
 
@@ -454,7 +452,7 @@ ove il Ministro non si esprima entro tale termine, la richiesta si intende accol
 
 7\. I soggetti titolari di concessioni di distribuzione possono costituire una o piu' societa' per azioni, di cui mantengono il controllo e a cui trasferiscono i beni e i rapporti in essere, le attivita' e le passivita' relativi alla distribuzione di energia elettrica e alla vendita ai clienti vincolati. L'Autorita' per l'energia elettrica e il gas provvede ad emanare i criteri per le opportune modalita' di separazione gestionale e amministrativa delle attivita' esercitate dalle predette societa'.
 
-#### Art. 10
+### Art. 10
 
 Attivita' di importazione ed esportazione
 
@@ -464,7 +462,7 @@ Attivita' di importazione ed esportazione
 
 3\. Con provvedimento dell'Autorita' per l'energia elettrica e il gas sono emanate norme sulla compatibilita' ambientale ed economica dell'energia elettrica importata da Paesi non appartenenti all'Unione europea tenuto conto delle condizioni di reciprocita'.
 
-#### Art. 11
+### Art. 11
 
 Energia elettrica da fonti rinnovabili
 
@@ -480,7 +478,7 @@ Energia elettrica da fonti rinnovabili
 
 6\. ((COMMA ABROGATO DAL D.LGS. 3 MARZO 2011, N. 28)).
 
-#### Art. 12
+### Art. 12
 
 Concessioni idroelettriche
 
@@ -606,11 +604,9 @@ b) sono prorogati al 31 luglio 2024 i due termini del 31 dicembre 2023 previsti 
 
 c) e' prorogato al 31 ottobre 2020 il termine del 31 marzo 2020 previsto dal comma 1-sexies dell'articolo 12 del decreto legislativo n. 79 del 1999".
 
-## Titolo III - DISPOSIZIONI PER L'ATTUAZIONE
+## Titolo III - DISPOSIZIONI PER L'ATTUAZIONE DELLA NUOVA DISCIPLINA DEL MERCATO ELETTRICO
 
-### DELLA NUOVA DISCIPLINA - DEL MERCATO ELETTRICO
-
-#### Art. 13
+### Art. 13
 
 Assetto societario dell'ENEL S.p.a.
 
@@ -634,7 +630,7 @@ e) ((lo smantellamento delle centrali)) elettronucleari dismesse, la chiusura de
 
 5\. L'atto di conferimento puo' stabilire che gli effetti del conferimento, anche ai fini delle imposte sul reddito, decorrano da una data non anteriore a quella in cui si chiude l'ultimo bilancio della societa' conferente.
 
-#### Art. 14
+### Art. 14
 
 Clienti idonei
 
@@ -688,7 +684,7 @@ Qualora tale diritto non sia esercitato, la fornitura ai suddetti clienti idonei
 
 8\. Sulla base delle disposizioni del presente articolo, i clienti idonei autocertificano all'Autorita' per l'energia elettrica e il gas la propria qualifica per l'anno 1999. La medesima Autorita' entro novanta giorni dalla data di entrata in vigore del presente decreto, stabilisce con proprio provvedimento le modalita' per riconoscere e verificare la qualifica di clienti idonei degli aventi diritto.
 
-#### Art. 15
+### Art. 15
 
 Norme transitorie in materia di fonti rinnovabili
 
@@ -702,11 +698,11 @@ Norme transitorie in materia di fonti rinnovabili
 
 5\. Fatte salve le disposizioni che disciplinano la localizzazione, la costruzione e l'esercizio di impianti di recupero di rifiuti, per gli stessi impianti la localizzazione prevista nelle convenzioni di cui al comma 1 puo' essere modificata previa comunicazione dei soggetti interessati al Ministero dell'industria, del commercio e dell'artigianato, e previo parere favorevole degli enti locali competenti per territorio. Con le stesse modalita' i produttori che, per documentati motivi tecnici, non soddisfino i limiti di potenza dedicata stabiliti in tali convenzioni possono trasferire in altro sito le quote di potenza elettrica non producibili nel sito originario. La comunicazione non sospende alcuno dei termini di cui ai commi 1 e 2.
 
-#### Art. 16
+### Art. 16
 
 ((ARTICOLO ABROGATO DALLA LEGGE 23 DICEMBRE 2005, N. 266))
 
-#### Art. 17
+### Art. 17
 
 Entrata in vigore
 

@@ -28,7 +28,7 @@ la seguente legge:
 
 ## CAPO I - DISPOSIZIONI COMUNI
 
-#### Art. 1 - Finalita'. Durata degli incentivi fiscali
+### Art. 1 - Finalita'. Durata degli incentivi fiscali
 
 1\. La presente legge intende contribuire allo sviluppo del Paese mediante la valorizzazione delle esperienze umane, culturali e professionali maturate da cittadini dell'Unione europea che hanno risieduto continuativamente per almeno ventiquattro mesi in Italia, che studiano, lavorano o che hanno conseguito una specializzazione post lauream all'estero e che decidono di fare rientro in Italia. A tale fine, la presente legge prevede la concessione di incentivi fiscali, sotto forma di minore imponibilita' del reddito, in favore dei soggetti individuati con il decreto di cui all'articolo 2, comma 2.
 
@@ -36,7 +36,7 @@ la seguente legge:
 
 ## CAPO II - INCENTIVI FISCALI PER I LAVORATORI
 
-#### Art. 2 - Caratteristiche dei soggetti beneficiari
+### Art. 2 - Caratteristiche dei soggetti beneficiari
 
 1\. Hanno diritto alla concessione dei benefici fiscali di cui all'articolo 3:
 
@@ -52,7 +52,7 @@ AGGIORNAMENTO (4)
 
 La L. 30 dicembre 2020, n. 178 ha disposto (con l'art. 1, comma 1127) che "L'articolo 2, comma 1, lettera b), della legge 30 dicembre 2010, n. 238, si interpreta nel senso che le fisiologiche interruzioni dell'anno accademico non precludono l'accesso agli incentivi fiscali per gli studenti che decidono di rientrare in Italia dopo avere svolto continuativamente un'attivita' di studio all'estero".
 
-#### Art. 3 - Caratteristiche dei benefici
+### Art. 3 - Caratteristiche dei benefici
 
 1\. I redditi di lavoro dipendente, i redditi d'impresa e i redditi di lavoro autonomo percepiti dalle persone fisiche di cui all'articolo 2 concorrono alla formazione della base imponibile ai fini dell'imposta sul reddito delle persone fisiche in misura ridotta, secondo le seguenti percentuali:
 
@@ -108,11 +108,9 @@ b) 30 per cento, per i lavoratori.
 
 > 279\. L'efficacia dei commi da 271 a 278 e' subordinata, ai sensi dell'art. 88, paragrafo 3, del Trattato istitutivo della Comunita' europea, all'autorizzazione della Commissione europea.».
 
-## CAPO III - AGEVOLAZIONI E TUTELA DEI DIRITTI
+## CAPO III - AGEVOLAZIONI E TUTELA DEI DIRITTI ACQUISITI PER I LAVORATORI CHE RIENTRANO IN ITALIA
 
-### ACQUISITI PER I LAVORATORI CHE - RIENTRANO IN ITALIA
-
-#### Art. 4 - Gestione delle procedure amministrative per il rientro in Italia
+### Art. 4 - Gestione delle procedure amministrative per il rientro in Italia
 
 1\. Le pratiche e gli adempimenti necessari a perfezionare il rientro in Italia delle persone fisiche cui si applica la presente legge sono curate dagli uffici consolari italiani all'estero, anche d'intesa con la societa' Italia Lavoro Spa. Alle persone fisiche che rientrano in Italia e' garantita, in quanto applicabile, l'attestazione delle proprie competenze e dei titoli acquisiti all'estero, attraverso il rilascio della documentazione «Europass», di cui alla decisione n. 2241/2004/CE del Parlamento europeo e del Consiglio, del 15 dicembre 2004.
 
@@ -122,7 +120,7 @@ b) 30 per cento, per i lavoratori.
 
 > \- La decisione n. 2241/2004/CE del Parlamento europeo e del Consiglio, del 15 dicembre 2004, reca: «Decisione del Parlamento europeo e del Consiglio relativa ad un quadro comunitario unico per la trasparenza delle qualifiche e delle competenze (Europass).».
 
-#### Art. 5
+### Art. 5
 
 (Riserva di alloggi
 
@@ -130,21 +128,19 @@ di edilizia residenziale pubblica)
 
 1\. Le regioni, nell'ambito delle loro disponibilita', possono riservare ai soggetti di cui all'articolo 2 una quota degli alloggi di edilizia residenziale pubblica destinati all'assegnazione in godimento o alla locazione per uso abitativo per un periodo non inferiore a ventiquattro mesi.
 
-#### Art. 6 - Tutela dei diritti acquisiti
+### Art. 6 - Tutela dei diritti acquisiti
 
 1\. Il Governo promuove la stipulazione di accordi bilaterali con gli Stati esteri di provenienza dei lavoratori di cui all'articolo 2, comma 1, lettera a), finalizzati a riconoscere a detti lavoratori il diritto alla totalizzazione dei contributi versati a forme di previdenza estere con quelli versati a forme di previdenza nazionale.
 
 Alla ratifica degli accordi di cui al presente comma si provvede solo successivamente all'individuazione, con apposito provvedimento legislativo, delle occorrenti risorse finanziarie.
 
-## CAPO IV - CAUSE DI DECADENZA
+## CAPO IV - CAUSE DI DECADENZA E DISPOSIZIONE FINANZIARIA
 
-### E DISPOSIZIONE FINANZIARIA
-
-#### Art. 7 - Cause di decadenza dai benefici
+### Art. 7 - Cause di decadenza dai benefici
 
 1\. Il beneficiario degli incentivi fiscali di cui all'articolo 3, comma 1, decade dal diritto agli stessi se trasferisce nuovamente la propria residenza o il proprio domicilio fuori dell'Italia prima del decorso di cinque anni dalla data della prima fruizione del beneficio. In tal caso si provvede al recupero dei benefici gia' fruiti, con applicazione delle relative sanzioni e interessi.
 
-#### Art. 8 - Disposizione finanziaria
+### Art. 8 - Disposizione finanziaria
 
 1\. Dall'attuazione delle disposizioni di cui al capo II della presente legge non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 

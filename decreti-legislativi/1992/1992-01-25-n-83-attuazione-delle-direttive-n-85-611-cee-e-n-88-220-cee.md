@@ -31,11 +31,9 @@ E M A N A
 
 il seguente decreto legislativo:
 
-## Titolo I - FONDI COMUNI DI INVESTIMENTO MOBILIARE
+## Titolo I - FONDI COMUNI DI INVESTIMENTO MOBILIARE APERTI DI DIRITTO NAZIONALE
 
-### APERTI DI DIRITTO NAZIONALE
-
-#### Art. 1
+### Art. 1
 
 1\. Prima dell'art. 1 della legge 23 marzo 1983, n. 77, e' inserita la seguente intitolazione:
 
@@ -85,7 +83,7 @@ alle prescrizioni di cui al comma 5 lettere c), d) ed e), fissa un termine per l
 
 12\. La societa' di gestione autorizzata ai sensi del comma 1 puo' assumere l'incarico di gestire il patrimonio di societa' di investimento a capitale variabile".
 
-#### Art. 2
+### Art. 2
 
 1\. L'art. 2 della legge 23 marzo 1983, n. 77, e' sostituito dal seguente:
 
@@ -121,7 +119,7 @@ n) le dipendenze della banca depositaria presso le quali sono tenuti a disposizi
 
 3\. Il regolamento contiene altresi' gli ulteriori elementi richiesti dalla Banca d'Italia ai sensi dell'art. 7, comma 3, lettera b)".
 
-#### Art. 3
+### Art. 3
 
 1\. Dopo l'art. 2 della legge 28 marzo 1983, n. 77, sono inseriti i seguenti:
 
@@ -151,7 +149,7 @@ Art. 2-ter (Sostituzione della societa' di gestione). - 1. Ferme restando le dis
 
 3\. La modifica del regolamento del fondo conseguente alla sostituzione della societa' di gestione deve essere pubblicata sui giornali di cui all'art. 2, lettera h), per due volte a distanza di quindici giorni. L'efficacia del provvedimento di cui all'art. 7, comma 3, lettera b), che approva la modifica regolamentare e' sospesa fino al trentesimo giorno successivo alla data dell'ultima pubblicazione. La Banca d'Italia puo', in casi eccezionali e tenendo conto dell'interesse dei partecipanti, conferire efficacia immediata al provvedimento di approvazione della modifica regolamentare".
 
-#### Art. 4
+### Art. 4
 
 1\. L'art. 3 della legge 23 marzo 1983, n. 77, e' sostituito dal seguente:
 
@@ -169,7 +167,7 @@ Della sospensione la societa' informa immediatamente il Ministro del tesoro, la 
 
 6\. Il commissario straordinario previsto dal successivo art. 8, secondo comma, e i commissari liquidatori previsti dallo stesso art. 8, secondo e terzo comma, possono, previa autorizzazione della Banca d'Italia, esercitare, nell'interesse comune dei partecipanti e a spese del fondo, l'azione di responsabilita' nei confronti dei componenti degli organi amministrativi e di controllo della societa' di gestione. Nei confronti degli stessi ciascun partecipante puo' esercitare l'azione di risarcimento dei danni".
 
-#### Art. 5
+### Art. 5
 
 1\. L'art. 4 della legge 23 marzo 1983, n. 77, e' sostituito dal seguente:
 
@@ -221,7 +219,7 @@ c) emessi recentemente e per essi nella delibera di emissione non sia prevista o
 
 14\. Fermo quanto previsto dall'art. 9, comma 13, della legge 2 gennaio 1991, n. 1, e' vietato l'investimento in azioni emesse dalla societa' gerente".
 
-#### Art. 6
+### Art. 6
 
 1\. L'art. 5 della legge 23 marzo 1983, n. 77, e' sostituito dal seguente:
 
@@ -239,7 +237,7 @@ d) con periodicita' almeno pari all'emissione o rimborso delle quote e comunque 
 
 3\. I partecipanti hanno inoltre diritto di ottenere gratuitamente anche a domicilio copia del rendiconto e della relazione semestrale".
 
-#### Art. 7
+### Art. 7
 
 1\. L'art. 6 della legge 23 marzo 1983, n. 77, e' sostituito dal seguente:
 
@@ -247,7 +245,7 @@ d) con periodicita' almeno pari all'emissione o rimborso delle quote e comunque 
 
 2\. I sindaci della societa' di gestione, anche individualmente, e gli amministratori e i sindaci della banca depositaria devono riferire senza ritardo alla Banca d'Italia sulle irregolarita' riscontrate nell'amministrazione della societa' e nella gestione del fondo comune".
 
-#### Art. 8
+### Art. 8
 
 1\. L'art. 7 della legge 23 marzo 1983, n. 77, e' sostituito dal seguente:
 
@@ -269,7 +267,7 @@ c) stabilisce - sentita la CONSOB - lo schema-tipo del bilancio e del conto dei 
 
 6\. Su richiesta delle societa' che intendono commercializzare quote dei propri fondi comuni negli altri Stati della Comunita' economica europea, il Ministro del tesoro, sentita la Banca d'Italia e la CONSOB, rilascia le attestazioni necessarie a comprovare che le societa' ed i fondi gestiti soddisfano le condizioni poste dalla direttiva del 20 dicembre 1985, n. 85/611 della Comunita' economica europea, come modificata dalla direttiva del 22 marzo 1988, n. 88/220 della Comunita' economica europea".
 
-#### Art. 9
+### Art. 9
 
 1\. Dopo l'art. 7 della legge 23 marzo 1983, n. 77, e' inserito il seguente:
 
@@ -277,7 +275,7 @@ c) stabilisce - sentita la CONSOB - lo schema-tipo del bilancio e del conto dei 
 
 2\. Qualsiasi decisione concernente la societa' di gestione adottata dalle competenti autorita' ai sensi dell'ultima parte del quarto comma dell'art. 3 e dell'art. 8, ovvero del quarto comma dell'art. 18 del decreto-legge 8 aprile 1974, n. 95, convertito, con modificazioni, dalla legge 7 giugno 1974, n. 216, e successive modificazioni e integrazioni, nonche' ogni altra grave misura adottata nei confronti della societa' di gestione, viene comunicata dalle autorita' di vigilanza alle autorita' analogamente competenti degli altri Stati della Comunita' economica europea in cui la societa' di gestione commercializza le quote dei propri fondi".
 
-#### Art. 10
+### Art. 10
 
 1\. L'art. 8 della legge 23 marzo 1983, n. 77, e' sostituito dal seguente:
 
@@ -287,7 +285,7 @@ c) stabilisce - sentita la CONSOB - lo schema-tipo del bilancio e del conto dei 
 
 3\. La societa' di gestione e' soggetta alla disciplina della amministrazione, straordinaria e della liquidazione coatta amministrativa, con esclusione del fallimento, ai sensi degli articoli 57 e seguenti del regio decreto-legge 12 marzo 1936, n. 375, convertito, con modificazioni, nella legge 7 marzo 1938, n. 141, e successive modificazioni e integrazioni".
 
-#### Art. 11
+### Art. 11
 
 1\. L'art. 9 della legge 23 marzo 1983, n. 77, e' sostituito dal seguente:
 
@@ -301,7 +299,7 @@ Sull'ammontare del valore netto del fondo proporzionalmente riferito alla rimane
 
 4\. Entro lo stesso termine previsto nel comma 2 la societa' di gestione deve provvedere a presentare annualmente la dichiarazione relativa a ciascuno degli ammontari ivi indicati su apposito modulo, conforme al modello approvato con decreto del Ministro delle finanze, allegandovi, oltre alla copia della distinta o al bollettino di versamento dell'imposta sostitutiva, anche il prospetto da cui risulta la composizione del fondo ai fini dell'applicazione delle aliquote previste nel comma 2. Le modalita' di effettuazione dei versamenti e la presentazione della dichiarazione prevista nel presente articolo sono disciplinate dalle disposizioni dei decreti del Presidente della Repubblica 29 settembre 1973, n. 600 e n. 602, nonche' da quelle di cui al decreto-legge 10 luglio 1982, n. 429, convertito dalla legge 7 agosto 1982, n. 516".
 
-#### Art. 12
+### Art. 12
 
 1\. L'art. 10 della legge 23 marzo 1983, n. 77, e' sostituito dal seguente:
 
@@ -321,7 +319,7 @@ La condanna comporta, altresi', in ogni caso la confisca delle cose mobili e imm
 
 7\. I soggetti di cui al comma 5, lettere d), dell'articolo 1, che non effettuano le comunicazioni previste dall'art. 1, comma 6, nel termine di quindici giorni dal momento in cui sono venuti a conoscenza degli eventi e delle situazioni ivi indicati sono puniti con l'arresto fino a tre mesi o con l'ammenda da lire due milioni a lire quaranta milioni. La condanna comporta l'applicazione delle pene accessorie di cui al comma 6".
 
-#### Art. 13
+### Art. 13
 
 1\. Dopo l'art. 10 della legge 23 marzo 1983, n. 77,
 

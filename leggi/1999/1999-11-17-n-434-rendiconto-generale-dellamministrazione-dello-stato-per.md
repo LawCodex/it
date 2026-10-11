@@ -25,11 +25,9 @@ Promulga
 
 la seguente legge:
 
-## TITOLO I
+## TITOLO I - APPROVAZIONE DEI RENDICONTI
 
-### APPROVAZIONE DEI RENDICONTI
-
-##### Art. 1 - Rendiconti
+#### Art. 1 - Rendiconti
 
 1\. Il rendiconto generale delle Amministrazioni dello Stato e i
 
@@ -43,11 +41,11 @@ articoli.
 
 > Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con d.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
-### TITOLO II - AMMINISTRAZIONI DELLO STATO
+## TITOLO II - AMMINISTRAZIONI DELLO STATO
 
-#### CAPO I - CONTO DEL BILANCIO
+### CAPO I - CONTO DEL BILANCIO
 
-##### Art. 2 - Entrate
+#### Art. 2 - Entrate
 
 1\. Le entrate tributarie, extratributarie, per alienazione ed
 
@@ -90,7 +88,7 @@ sercizio|                     |                  |                  |
  =========================
 ```
 
-##### Art. 3 - Spese
+#### Art. 3 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di
 
@@ -129,7 +127,7 @@ complessivamente a lire 227.883.084.719.281, cosi' risultanti:
 +================+========================================+======================+
 ```
 
-##### Art. 4 - Avanzo della gestione di competenza
+#### Art. 4 - Avanzo della gestione di competenza
 
 1\. L'avanzo della gestione di competenza dell'esercizio
 
@@ -173,7 +171,7 @@ di competenza 6.578.468.745.539
 
 =====================
 
-##### Art. 5 - Situazione finanziaria
+#### Art. 5 - Situazione finanziaria
 
 1\. Il disavanzo finanziario del conto del Tesoro alla fine
 
@@ -225,7 +223,7 @@ Disavanzo finanziario al 31 dicembre 1998 L. 319.425.280.656.340
 
 ----------------------
 
-##### Art. 6 - Approvazione degli allegati
+#### Art. 6 - Approvazione degli allegati
 
 1\. Sono approvati gli allegati n. 1 e n. 2, di cui all'articolo
 
@@ -241,7 +239,7 @@ agosto 1978, n. 468.
 
 > \- Per il testo dell'art. 12 della predetta legge n. 468/1978 si veda in nota all'allegato 2.
 
-##### Art. 7 - Eccedenze
+#### Art. 7 - Eccedenze
 
 1\. Sono approvate le eccedenze di impegni e di pagamenti
 
@@ -593,7 +591,7 @@ Lotto 1.595.050.388 - -
 
 ### CAPO II - CONTO GENERALE DEL PATRIMONIO
 
-##### Art. 8 - Risultati generali della gestione patrimoniale
+#### Art. 8 - Risultati generali della gestione patrimoniale
 
 1\. La situazione patrimoniale dell'Amministrazione dello Stato,
 
@@ -635,11 +633,11 @@ al 31 dicembre 1998 L. 1.968.834.342.614.115
 
 ========================
 
-### TITOLO III - AZIENDE SPECIALI ED AUTONOME
+## TITOLO III - AZIENDE SPECIALI ED AUTONOME
 
-#### CAPO I - ISTITUTO AGRONOMICO PER L'OLTREMARE
+### CAPO I - ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-##### Art. 9 - Entrate
+#### Art. 9 - Entrate
 
 1\. Le entrate correnti del bilancio dell'Istituto agronomico
 
@@ -655,7 +653,7 @@ versate.
 
 2\. Al 31 dicembre 1998 non risultano residui attivi.
 
-##### Art. 10 - Spese
+#### Art. 10 - Spese
 
 1\. Le spese correnti ed in conto capitale del bilancio
 
@@ -695,7 +693,7 @@ dell'esercizio
 
 ### CAPO II - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-##### Art. 11 - Entrate
+#### Art. 11 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di
 
@@ -733,7 +731,7 @@ in lire
  ============================
 ```
 
-##### Art. 12 - Spese
+#### Art. 12 - Spese
 
 1\. Le spese correnti ed in conto capitale e per rimborso di
 
@@ -780,7 +778,7 @@ dell'esercizio
 ===================================================================
 ```
 
-##### Art. 13 - Riassunto generale
+#### Art. 13 - Riassunto generale
 
 1\. Il riassunto generale dei risultati delle entrate e delle
 
@@ -809,7 +807,7 @@ Spese delle gestioni speciali 7.455.723.258.764
 ===================================================================
 ```
 
-##### Art. 14 - Situazione finanziaria
+#### Art. 14 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Amministrazione autonoma dei
 
@@ -829,7 +827,7 @@ Saldo della gestione di competenza -
 
 ### CAPO III - ARCHIVI NOTARILI
 
-##### Art. 15 - Avanzo
+#### Art. 15 - Avanzo
 
 l. L'avanzo della gestione del bilancio degli Archivi notarili,
 
@@ -848,7 +846,7 @@ Avanzo 48.853.594.567
 
 ### CAPO IV - FONDO EDIFICI DI CULTO
 
-##### Art. 16 - Entrate
+#### Art. 16 - Entrate
 
 1\. Le entrate correnti e in conto capitale del bilancio del
 
@@ -891,7 +889,7 @@ dell'esercizio
 ===================================================================
 ```
 
-##### Art. 17 - Spese
+#### Art. 17 - Spese
 
 1\. Le spese correnti ed in conto capitale del bilancio
 
@@ -934,7 +932,7 @@ dell'esercizio
 ===================================================================
 ```
 
-##### Art. 18 - Situazione finanziaria
+#### Art. 18 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Amministrazione del Fondo
 
@@ -1024,7 +1022,7 @@ Visto, il Guardasigilli: DILIBERTO
 
 ### CAPO IV - FONDO EDIFICI DI CULTO
 
-##### Allegato 1
+#### Allegato 1
 
 ALLEGATO n. 1
 
@@ -2696,7 +2694,7 @@ che costituiscono economie di spese.
 
 > \- Per il testo dell'ultimo comma dell'art. 9 della legge n. 468/1978 si veda in nota all'art. 6.
 
-##### Allegato 2
+#### Allegato 2
 
 ALLEGATO N. 2
 

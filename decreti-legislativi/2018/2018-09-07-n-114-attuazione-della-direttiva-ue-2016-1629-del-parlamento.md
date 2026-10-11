@@ -116,7 +116,7 @@ il seguente decreto legislativo:
 
 ## Capo I - Finalita', ambito di applicazione e definizioni
 
-#### Art. 1
+### Art. 1
 
 Finalita'
 
@@ -318,7 +318,7 @@ Finalita'
 
 > \- Il decreto del Presidente del Consiglio dei ministri 11 febbraio 2014, n. 72 (Regolamento di organizzazione del Ministero delle infrastrutture e dei trasporti, ai sensi dell'articolo 2 del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135) e' pubblicato nella Gazzetta Ufficiale 8 maggio 2014, n. 105.
 
-#### Art. 2
+### Art. 2
 
 Ambito di applicazione
 
@@ -362,7 +362,7 @@ d) unita' navali adibite alla navigazione marittima, quando in navigazione nelle
 
 > \- Per i riferimenti normativi del decreto del Presidente della Repubblica 8 novembre 1991, n. 435, si veda nelle note alle premesse.
 
-#### Art. 3
+### Art. 3
 
 Definizioni
 
@@ -446,7 +446,7 @@ aa) «volume d'immersione»: il volume immerso della nave espresso in metri cubi
 
 > h) moto d'acqua: si intende ogni unita' da diporto con lunghezza dello scafo inferiore a quattro metri, che utilizza un motore di propulsione con una pompa a getto d'acqua come fonte primaria di propulsione e destinata a essere azionata da una o piu' persone sedute, in piedi o inginocchiate sullo scafo, anziche' al suo interno.».
 
-#### Art. 4
+### Art. 4
 
 Funzioni dell'amministrazione
 
@@ -468,13 +468,13 @@ b) alla Commissione europea e agli Stati membri dell'Unione europea le informazi
 
 ## Capo II - Certificati della navigazione interna
 
-#### Art. 5
+### Art. 5
 
 Conformita' ai requisiti tecnici e di sicurezza
 
 1\. Le unita' navali nuove addette alla navigazione interna sono conformi ai requisiti tecnici del presente decreto. Tale conformita' e' attestata dai certificati europei della navigazione interna di cui agli articoli 8, 9 e 12.
 
-#### Art. 6
+### Art. 6
 
 Attivita' di accertamento e di certificazione
 
@@ -514,7 +514,7 @@ d) dopo un periodo di disarmo dell'unita' navale di durata superiore a un anno, 
 
 10\. Con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare, da emanarsi entro sessanta giorni dalla data di entrata in vigore del presente decreto, sono stabilite le procedure e le modalita' delle attivita' di accertamento e di rilascio dei certificati di cui agli articoli 8, 9 e 12.
 
-#### Art. 7
+### Art. 7
 
 Commissione territoriale della navigazione interna
 
@@ -544,7 +544,7 @@ b) di eseguire le visite tecniche con il massimo dell'integrita' professionale e
 
 8\. Ai componenti della Commissione di cui al comma 1 e' attribuito esclusivamente un rimborso spese da determinare con il decreto di cui all'articolo 23, comma 3.
 
-#### Art. 8
+### Art. 8
 
 Certificato europeo della navigazione interna
 
@@ -580,7 +580,7 @@ b) dieci anni per tutti gli altri tipi di unita' navale.
 
 > \- Per i riferimenti della direttiva (UE) 2016/1629, si veda nelle note alle premesse.
 
-#### Art. 9
+### Art. 9
 
 Certificato supplementare europeo della navigazione interna
 
@@ -588,7 +588,7 @@ Certificato supplementare europeo della navigazione interna
 
 2\. Le unita' navali provviste del certificato di cui al comma 1 che intendono usufruire della riduzione dei requisiti tecnici prevista dall'articolo 10 sono munite di un certificato supplementare europeo della navigazione interna, rilasciato su richiesta del proprietario, dell'armatore dell'unita' navale, o del loro rappresentante, dall'autorita' competente di cui all'allegato VI secondo il modello previsto nell'allegato VII e da tenersi a bordo, su presentazione del certificato previsto dalla Convenzione per la navigazione sul Reno nella sua versione aggiornata e alle condizioni di cui all'articolo 10.
 
-#### Art. 10
+### Art. 10
 
 Riduzione dei requisiti tecnici
 
@@ -600,7 +600,7 @@ La riduzione dei requisiti tecnici e' prevista con decreto del Ministro delle in
 
 3\. L'amministrazione notifica la riduzione dei requisiti tecnici alla Commissione europea almeno sei mesi prima dell'entrata in vigore del decreto di cui al comma 1.
 
-#### Art. 11
+### Art. 11
 
 Deroghe
 
@@ -614,7 +614,7 @@ Deroghe
 
 > \- Per i riferimenti della direttiva (UE) 2016/1629, si veda nelle note alle premesse.
 
-#### Art. 12
+### Art. 12
 
 Certificato provvisorio europeo della navigazione interna
 
@@ -646,7 +646,7 @@ b) non superiore a due mesi nei casi previsti dal comma 1, lettere b) e c).
 
 > \- Per i riferimenti della direttiva (UE) 2016/1629, si veda nelle note alle premesse.
 
-#### Art. 13
+### Art. 13
 
 Sostituzione del certificato europeo della navigazione interna
 
@@ -656,13 +656,13 @@ Sostituzione del certificato europeo della navigazione interna
 
 3\. Nel caso in cui i certificati sono danneggiati, l'autorita' competente che li ha rilasciati provvede al rilascio del duplicato, previa restituzione del certificato danneggiato. Il certificato sostitutivo deve indicare che si tratta di un duplicato.
 
-#### Art. 14
+### Art. 14
 
 Rifiuto di rilascio, di rinnovo e revoca dei certificati europei della navigazione interna
 
 1\. Il diniego sul rilascio o rinnovo dei certificati di cui agli articoli 8, 9 e 12 e' motivato e notificato all'interessato. I certificati sono revocati dall'autorita' competente di cui all'allegato VI, nel caso in cui l'unita' navale non e' piu' conforme ai requisiti tecnici del certificato.
 
-#### Art. 15
+### Art. 15
 
 Riconoscimento di certificati di navigabilita' interna emessi da Paesi terzi
 
@@ -670,17 +670,15 @@ Riconoscimento di certificati di navigabilita' interna emessi da Paesi terzi
 
 2\. Il certificato di navigabilita' debitamente riconosciuto o il certificato europeo della navigazione interna sono tenuti a bordo.
 
-#### Art. 16
+### Art. 16
 
 Registro dei certificati
 
 1\. L'autorita' competente di cui all'allegato VI detiene un registro, conforme all'allegato VIII, di tutti i certificati rilasciati o rinnovati ai sensi del presente decreto, secondo le disposizioni amministrative di cui all'articolo 2.17 dell'allegato V.
 
-## Capo III - Identificazione delle Unita' navali, organismi di classificazione e
+## Capo III - Identificazione delle Unita' navali, organismi di classificazione e ispezioni
 
-### ispezioni
-
-#### Art. 17
+### Art. 17
 
 Numero unico europeo di identificazione delle navi
 
@@ -690,7 +688,7 @@ Numero unico europeo di identificazione delle navi
 
 3\. L'amministrazione trasmette alla Commissione europea l'elenco delle autorita' competenti di cui al comma 2.
 
-#### Art. 18
+### Art. 18
 
 Banca dati europea degli scafi
 
@@ -822,7 +820,7 @@ b) agli ufficiali e agenti di polizia giudiziaria appartenenti al Corpo delle ca
 
 > 7\. Il Garante non e' competente per il controllo dei trattamenti effettuati dalle autorita' giudiziarie nell'esercizio delle loro funzioni.».
 
-#### Art. 19
+### Art. 19
 
 Organismo di classificazione
 
@@ -892,7 +890,7 @@ c) continua a commettere una violazione gia' sanzionata con la sospensione a nor
 
 17\. L'amministrazione comunica alla Commissione europea qualsiasi modifica relativa ai nomi o agli indirizzi degli organismi di classificazione per i quali ha richiesto il riconoscimento.
 
-#### Art. 20
+### Art. 20
 
 Accertamenti supplementari e ispezioni
 
@@ -914,7 +912,7 @@ Accertamenti supplementari e ispezioni
 
 ## Capo IV - Disposizioni finali
 
-#### Art. 21
+### Art. 21
 
 Modifica degli allegati
 
@@ -928,7 +926,7 @@ Modifica degli allegati
 
 > 1-bis. In relazione a quanto disposto dall'articolo 117, quinto comma, della Costituzione, i provvedimenti di cui al presente articolo possono essere adottati nelle materie di competenza legislativa delle regioni e delle province autonome di Trento e di Bolzano al fine di porre rimedio all'eventuale inerzia dei suddetti enti nel dare attuazione a norme dell'Unione europea. In tale caso, i provvedimenti statali adottati si applicano, per le regioni e per le province autonome nelle quali non sia ancora in vigore la rispettiva normativa di attuazione, a decorrere dalla scadenza del termine stabilito per l'attuazione della pertinente normativa europea e perdono comunque efficacia dalla data di entrata in vigore della normativa di attuazione di ciascuna regione o provincia autonoma. I provvedimenti recano l'esplicita indicazione della natura sostitutiva del potere esercitato e del carattere cedevole delle disposizioni in essi contenute.».
 
-#### Art. 22
+### Art. 22
 
 Sanzioni
 
@@ -986,7 +984,7 @@ Sanzioni
 
 > Le regioni, per le materie di loro competenza, provvederanno con legge nel termine previsto dal comma precedente.».
 
-#### Art. 23
+### Art. 23
 
 Disposizioni tariffarie
 
@@ -1048,7 +1046,7 @@ Le tariffe sono calcolate sulla base del criterio di copertura del costo effetti
 
 > 5\. Le entrate derivanti dalle tariffe determinate ai sensi del comma 4 sono attribuite, nei limiti previsti dalla legislazione vigente, alle amministrazioni che effettuano le prestazioni e i controlli, mediante riassegnazione ai sensi del regolamento di cui al decreto del Presidente della Repubblica 10 novembre 1999, n. 469.».
 
-#### Art. 24
+### Art. 24
 
 Disposizioni finanziarie
 
@@ -1056,7 +1054,7 @@ Disposizioni finanziarie
 
 2\. Le amministrazioni interessate provvedono agli adempimenti previsti dal presente decreto con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-#### Art. 25
+### Art. 25
 
 Disposizioni transitorie
 
@@ -1068,7 +1066,7 @@ Disposizioni transitorie
 
 > «Art. 1. - Se nel corso di un'ispezione le autorita' competenti rilevano che il certificato di una determinata nave non e' valido o che la nave non soddisfa i requisiti stabiliti nel certificato, ma che l'invalidita' o la non conformita' ai requisiti non comporta alcun pericolo manifesto, il proprietario della nave o un suo rappresentante adotta tutte le misure necessarie per porre rimedio alla situazione. L'autorita' che ha rilasciato o, da ultimo, rinnovato il certificato e' informata entro 7 giorni.».
 
-#### Art. 26
+### Art. 26
 
 Entrata in vigore
 
@@ -1102,7 +1100,7 @@ Visto, il Guardasigilli: Bonafede
 
 ## Allegati
 
-#### Allegato I
+### Allegato I
 
 Allegato I
 
@@ -1116,7 +1114,7 @@ Repubblica italiana
 
 Tutte le vie navigabili interne nazionali.
 
-#### Allegato II
+### Allegato II
 
 Allegato II
 
@@ -1126,7 +1124,7 @@ Requisiti tecnici minimi applicabili alle unita' navali addette alla navigazione
 
 I requisiti tecnici applicabili alle unita' navali sono quelli stabiliti nella norma ES-TRIN 2017/1.
 
-#### Allegato III
+### Allegato III
 
 Allegato III
 
@@ -1222,7 +1220,7 @@ Certificato/attestato di un organismo di classificazione
 
 riconosciuto))
 
-#### Allegato IV
+### Allegato IV
 
 Allegato IV
 
@@ -1282,7 +1280,7 @@ Art. 2.07 Menzioni e modifiche del certificato europeo della navigazione interna
 
 Nel caso in cui un'autorita' competente apporta una variazione o aggiunge un'informazione allo stesso, deve informarne l'autorita' competente di cui all'allegato VI che ha rilasciato il certificato.
 
-#### Art. 2.09 Visita di rinnovo
+### Art. 2.09 Visita di rinnovo
 
 1\. L'autorita' competente di cui all'allegato VI stabilisce un nuovo periodo di validita' del certificato europeo della navigazione interna in base ai risultati della visita tecnica di rinnovo. Il periodo di validita' e' menzionato nel certificato europeo della navigazione interna e comunicato all'autorita' competente che ha rilasciato tale certificato. Nei previsti casi eccezionali di proroga del certificato di cui all'articolo 8, comma 13, se, invece di prorogare la validita' del certificato comunitario si e' sostituito lo stesso con uno nuovo, il certificato europeo precedente viene restituito all'autorita' competente che lo ha rilasciato.
 
@@ -1332,7 +1330,7 @@ g) le amministrazioni nazionali competenti che autorizzano ditte specializzate c
 
 2\. La comunicazione di cui al comma 1, lettera d), deve essere effettuata entro un mese dalla revoca.
 
-#### Allegato VI
+### Allegato VI
 
 Allegato VI
 
@@ -1363,7 +1361,7 @@ Uffici della Motorizzazione civile
        +-------------------------------------+---------------+
 ```
 
-#### Allegato VII
+### Allegato VII
 
 Allegato VII
 
@@ -1389,7 +1387,7 @@ DELLA NAVIGAZIONE INTERNA
 
 Parte di provvedimento in formato grafico
 
-#### Allegato VIII
+### Allegato VIII
 
 Allegato VIII
 
@@ -1401,7 +1399,7 @@ DELLA NAVIGAZIONE INTERNA
 
 Parte di provvedimento in formato grafico
 
-#### Allegato IX
+### Allegato IX
 
 Allegato IX
 

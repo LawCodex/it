@@ -130,7 +130,7 @@ il seguente decreto legislativo:
 
 ## Capo I - Norme generali
 
-#### Art. 1
+### Art. 1
 
 Finalita' e campo di applicazione
 
@@ -456,7 +456,7 @@ d) il reimpiego delle sementi effettuato dagli agricoltori, ovvero lo scambio di
 
 > \- La direttiva di esecuzione (UE) n. 177/2020, della Commissione, dell'11 febbraio 2020 che modifica le direttive 66/401/CEE, 66/402/CEE, 68/193/CEE, 2002/55/CE, 2002/56/CE e 2002/57/CE del Consiglio, le direttive 93/49/CEE e 93/61/CEE della Commissione e le direttive di esecuzione 2014/21/UE e 2014/98/UE della Commissione per quanto riguarda gli organismi nocivi per le piante sulle sementi e altro materiale riproduttivo vegetale, e' pubblicata nella G.U.U.E. 13 febbraio 2020, n. L 41.
 
-#### Art. 2
+### Art. 2
 
 Autorita' nazionale competente
 
@@ -472,7 +472,7 @@ c) la predisposizione delle modalita' di attuazione dei controlli ufficiali dei 
 
 d) la tenuta e l'aggiornamento del Registro nazionale delle varieta'.
 
-#### Art. 3
+### Art. 3
 
 Definizioni
 
@@ -526,7 +526,7 @@ aa) unita' di vendita: la piu' piccola unita', commerciale o di altro tipo, util
 
 > \- Per il testo dell'articolo 11 della legge 4 ottobre 2019, n. 117, si veda nelle note alle premesse.
 
-#### Art. 4
+### Art. 4
 
 Classificazioni dei prodotti sementieri
 
@@ -568,7 +568,7 @@ f) categoria «mercantile ortiva»: le sementi e i materiali di moltiplicazione 
 
 5\. I requisiti delle categorie di cui al comma 3 sono stabiliti al Capo III.
 
-#### Art. 5
+### Art. 5
 
 Miscugli di sementi e di materiali di moltiplicazione
 
@@ -608,7 +608,7 @@ b) le condizioni relative alla commercializzazione dei miscugli di cui al comma 
 
 c) le specie cui si applicano le disposizioni di cui al comma 1, lettera f), le dimensioni massime per gli imballaggi e i requisiti per l'etichettatura.
 
-#### Art. 6
+### Art. 6
 
 Obblighi delle ditte sementiere
 
@@ -668,7 +668,7 @@ b) i commercianti che vendono esclusivamente al dettaglio prodotti sementieri gi
 
 ## Capo II - Registri di varieta'
 
-#### Art. 7
+### Art. 7
 
 Registri nazionali delle varieta' di specie agrarie e ortive
 
@@ -704,7 +704,7 @@ b) Registro delle varieta' le cui sementi possono essere controllate soltanto qu
 
 > Per i fini di cui al precedente primo comma e' autorizzata, per il triennio 1984-1986, la spesa di lire 6 miliardi in ragione di lire 2 miliardi per ciascuno degli anni dal 1984 al 1986.».
 
-#### Art. 8
+### Art. 8
 
 Domanda di iscrizione di varieta' di specie agrarie e ortive ai registri nazionali
 
@@ -714,7 +714,7 @@ Domanda di iscrizione di varieta' di specie agrarie e ortive ai registri naziona
 
 3\. Il costitutore ha facolta' di chiedere il segreto sulla descrizione dei componenti genealogici concernenti gli ibridi e le varieta' sintetiche e sui relativi esami a chiunque sia coinvolto nel processo di iscrizione della varieta'.
 
-#### Art. 9
+### Art. 9
 
 Requisiti per l'iscrizione delle varieta' di specie agrarie e ortive ai Registri nazionali
 
@@ -746,7 +746,7 @@ c) e' nota una varieta' protetta con una privativa o per la quale sia stata debi
 
 > \- Per i riferimenti della direttiva 2003/90/CE della Commissione, del 6 ottobre 2003, si veda nelle note alle premesse.
 
-#### Art. 10
+### Art. 10
 
 Deroghe ai requisiti per l'iscrizione delle varieta' ai Registri nazionali
 
@@ -758,7 +758,7 @@ Deroghe ai requisiti per l'iscrizione delle varieta' ai Registri nazionali
 
 4\. Nel caso di varieta' per le quali non e' richiesto un esame del valore agronomico e di utilizzazione, e' necessario verificare l'idoneita' all'uso dichiarato, attraverso un esame appropriato. In questi casi sono fissate le condizioni di esame.
 
-#### Art. 11
+### Art. 11
 
 Iscrizione di varieta' di specie agrarie e ortive ai Registri nazionali
 
@@ -770,7 +770,7 @@ Iscrizione di varieta' di specie agrarie e ortive ai Registri nazionali
 
 4\. Se i soggetti di cui ai commi 2 e 3 non adempiono alle prescrizioni relative al mantenimento in purezza della varieta', nel caso in cui la varieta' abbia un interesse economico di valenza nazionale o nell'interesse della conservazione delle risorse fitogenetiche, il Ministero assegna tale compito ad altro soggetto, pubblico o privato, che assume gli obblighi del costitutore. Nei suoi confronti il Ministero definisce le modalita' di distribuzione della semente di base.
 
-#### Art. 12
+### Art. 12
 
 Non assoggettabilita' delle varieta' iscritte nel catalogo comune a restrizioni commerciali e possibilita' di organizzare esperimenti temporanei in ambito europeo.
 
@@ -778,7 +778,7 @@ Non assoggettabilita' delle varieta' iscritte nel catalogo comune a restrizioni 
 
 2\. Il Ministero delle politiche agricole alimentari e forestali, sentito il Gruppo permanente per la protezione delle piante di cui all'articolo 11, puo' proporre o aderire ad esperimenti temporanei a livello dell'Unione, conformemente alle procedure previste dalle direttive dell'Unione di riferimento.
 
-#### Art. 13
+### Art. 13
 
 Denominazione varietale
 
@@ -792,7 +792,7 @@ Denominazione varietale
 
 > \- Per i riferimenti del regolamento (CE) n. 2009/637 del 22 luglio 2009, della Commissione, si veda nelle note alle premesse.
 
-#### Art. 14
+### Art. 14
 
 Gestione dei Registri nazionali delle varieta'
 
@@ -802,7 +802,7 @@ Gestione dei Registri nazionali delle varieta'
 
 3\. Con decreto del Ministro delle politiche agricole alimentari e forestali sono stabilite le procedure per la verifica delle varieta', nel secondo quinquennio di validita' della registrazione, ai fini del rinnovo della loro iscrizione.
 
-#### Art. 15
+### Art. 15
 
 Cancellazione e rettifiche di varieta' iscritte al registro delle varieta'
 
@@ -830,7 +830,7 @@ e) la validita' dell'iscrizione sia giunta a scadenza.
 
 7\. Se, dopo l'iscrizione di una varieta', risulta che la condizione di differenziabilita' non e' stata soddisfatta al momento dell'iscrizione, il provvedimento di iscrizione e' annullato. In tal caso, la varieta' non e' piu' considerata come una varieta' nota nella Unione europea, a partire dal momento della iscrizione iniziale.
 
-#### Art. 16
+### Art. 16
 
 Equivalenza dell'iscrizione nei Registri varietali e selezione conservatrice equivalente
 
@@ -844,7 +844,7 @@ Equivalenza dell'iscrizione nei Registri varietali e selezione conservatrice equ
 
 ## Capo III - Controlli e certificazioni
 
-#### Art. 17
+### Art. 17
 
 Controlli ai prodotti sementieri
 
@@ -860,7 +860,7 @@ Controlli ai prodotti sementieri
 
 > \- Per i riferimenti del regolamento (UE) 2017/625, si veda nelle note alle premesse.
 
-#### Art. 18
+### Art. 18
 
 Esecuzione dei controlli
 
@@ -878,7 +878,7 @@ Esecuzione dei controlli
 
 7\. Gli oneri derivanti dalle attivita' finalizzate al controllo e certificazione dei prodotti sementieri sono a carico del richiedente secondo le tariffe di cui all'articolo 82.
 
-#### Art. 19
+### Art. 19
 
 Registro del personale tecnico autorizzato ai controlli dei prodotti sementieri
 
@@ -912,7 +912,7 @@ d) non si attenga alle istruzioni ricevute con decreto del Ministero.
 
 > Agli stessi effetti e' pubblica la funzione amministrativa disciplinata da norme di diritto pubblico e da atti autoritativi e caratterizzata dalla formazione e dalla manifestazione della volonta' della pubblica amministrazione o dal suo svolgersi per mezzo di poteri autoritativi o certificativi.».
 
-#### Art. 20
+### Art. 20
 
 Certificazione dei prodotti sementieri e categorie di commercializzazione
 
@@ -926,7 +926,7 @@ Certificazione dei prodotti sementieri e categorie di commercializzazione
 
 5\. Con decreto del Ministro delle politiche agricole alimentari e forestali possono essere stabiliti i requisiti per la certificazione di categorie antecedenti alla «categoria di base».
 
-#### Art. 21
+### Art. 21
 
 Requisiti delle categorie di sementi di cereali
 
@@ -1006,7 +1006,7 @@ f) sementi certificate di seconda riproduzione (avena nuda, avena comune, avena 
 
 4\) per le quali, all'atto di un esame ufficiale o di un esame eseguito sotto sorveglianza ufficiale, sia stata constatata la rispondenza alle condizioni di cui ai numeri 1), 2) e 3).
 
-#### Art. 22
+### Art. 22
 
 Requisiti delle categorie di sementi di piante foraggere
 
@@ -1060,7 +1060,7 @@ e) sementi commerciali (generi e specie contemplati nell'allegato II, sezione B)
 
 3\) per le quali, all'atto di un esame ufficiale o di un esame eseguito sotto sorveglianza ufficiale, sia stata constatata la rispondenza alle condizioni di cui ai numeri 1) e 2).
 
-#### Art. 23
+### Art. 23
 
 Requisiti delle categorie di sementi di barbabietola da zucchero e da foraggio
 
@@ -1086,7 +1086,7 @@ b) sementi certificate:
 
 4\) per le quali, all'atto di un esame ufficiale o di un esame eseguito sotto sorveglianza ufficiale, sia stata constatata la rispondenza alle condizioni di cui ai numeri 1), 2) e 3).
 
-#### Art. 24
+### Art. 24
 
 Requisiti delle categorie e classi di commercializzazione tuberi-seme di patate
 
@@ -1158,7 +1158,7 @@ c) «tuberi-seme certificati»
 
 3.2) un'ispezione ufficiale ha determinato che i lotti di patate soddisfano i requisiti di cui alla sezione B, punto 6 dell'allegato VI.
 
-#### Art. 25
+### Art. 25
 
 Requisiti delle categorie di sementi di piante oleaginose e da fibra
 
@@ -1250,7 +1250,7 @@ h) sementi commerciali:
 
 2\. Con decreto del Ministro delle politiche agricole alimentare forestali, conformemente alle disposizioni dell'Unione, e' prevista l'inclusione al comma 1, lettere a) e b), di ibridi di piante oleaginose e da fibra, diverse da quelle di girasole.
 
-#### Art. 26
+### Art. 26
 
 Requisiti delle categorie di sementi di specie ortive
 
@@ -1296,7 +1296,7 @@ d) categoria mercantile ortiva:
 
 Agli oneri per l'effettuazione di tali controlli si provvede secondo le disposizioni di cui all'articolo 27, comma 10.
 
-#### Art. 27
+### Art. 27
 
 Controllo delle sementi ortive appartenenti alla categoria standard
 
@@ -1332,7 +1332,7 @@ Il relativo provvedimento potra' essere revocato, non appena sia garantito il ri
 
 10\. Le somme dovute dalle ditte sementiere per i controlli di cui al presente articolo, sono determinate sulla base delle tariffe di cui all'articolo 82.
 
-#### Art. 28
+### Art. 28
 
 Esiti del controllo e certificazione dei prodotti sementieri
 
@@ -1340,7 +1340,7 @@ Esiti del controllo e certificazione dei prodotti sementieri
 
 2\. I risultati dei controlli di cui all'articolo 17 sono registrati, conservati e resi disponibili al richiedente il controllo.
 
-#### Art. 29
+### Art. 29
 
 Requisiti per l'autorizzazione del personale addetto al controllo sotto sorveglianza ufficiale e modalita' di esercizio della sorveglianza su colture e sementi.
 
@@ -1412,7 +1412,7 @@ c) campionamento:
 
 4\. Gli oneri derivanti dalle attivita' di formazione e sorveglianza ufficiale, di cui al presente articolo, sono interamente a carico del richiedente l'autorizzazione secondo le tariffe di cui all'articolo 82.
 
-#### Art. 30
+### Art. 30
 
 Inadempienze relative ai controlli sotto sorveglianza ufficiale
 
@@ -1426,7 +1426,7 @@ Inadempienze relative ai controlli sotto sorveglianza ufficiale
 
 ## Capo IV - Condizioni per l'immissione in commercio
 
-#### Art. 31
+### Art. 31
 
 Immissione in commercio dei prodotti sementieri
 
@@ -1446,7 +1446,7 @@ b) le percentuali di germinabilita' dei singoli componenti non devono essere inf
 
 5\. Per gli oneri derivanti dal presente articolo si applicano le tariffe di cui all'articolo 82.
 
-#### Art. 32
+### Art. 32
 
 Imballaggi e cartellini
 
@@ -1470,7 +1470,7 @@ Imballaggi e cartellini
 
 > \- Per i riferimenti del regolamento (CE) n. 1107/2009, del Parlamento e del Consiglio, del 21 ottobre 2009, si veda nelle note alle premesse.
 
-#### Art. 33
+### Art. 33
 
 Imballaggi e cartellino relativo alla commercializzazione delle sementi di specie ortive standard
 
@@ -1492,7 +1492,7 @@ c) prelevare un campione di ciascun lotto destinato alla commercializzazione e t
 
 6\. Le operazioni di cui al comma 2 e al comma 5, lettere b) e c), sono sottoposte a controllo ufficiale secondo le disposizioni di cui all'articolo 27.
 
-#### Art. 34
+### Art. 34
 
 Cartellino del produttore
 
@@ -1508,7 +1508,7 @@ Il cartellino del produttore non puo' essere di colore bianco, azzurro, rosso, b
 
 4\. Per i miscugli e per le piccole confezioni, le indicazioni relative alla ditta produttrice possono essere sostituite con il marchio della ditta medesima.
 
-#### Art. 35
+### Art. 35
 
 Piccoli imballaggi
 
@@ -1526,7 +1526,7 @@ Piccoli imballaggi
 
 7\. Per gli oneri derivanti dal presente articolo si applicano le tariffe di cui all'articolo 82.
 
-#### Art. 36
+### Art. 36
 
 Tracciabilita' dei prodotti sementieri
 
@@ -1536,7 +1536,7 @@ Tracciabilita' dei prodotti sementieri
 
 3\. Il Ministero o l'organismo delegato verificano la validita' dei sistemi di tracciabilita' adottati.
 
-#### Art. 37
+### Art. 37
 
 Locali di commercializzazione
 
@@ -1544,7 +1544,7 @@ Locali di commercializzazione
 
 2\. Nei locali adibiti alla vendita promiscua, all'ingrosso e al dettaglio di prodotti sementieri e di analoghi prodotti destinati ad altri usi, sui recipienti e sugli imballaggi contenenti questi ultimi, e comunque sui prodotti non destinati alla riproduzione, devono essere apposti cartellini di dimensioni non inferiori a centimetri 10 per centimetri 20 recanti la dicitura: «Prodotto non destinato alla riproduzione».
 
-#### Art. 38
+### Art. 38
 
 Coltivazioni antecedenti la categoria di base e conservazione in purezza
 
@@ -1562,7 +1562,7 @@ d) nome, cognome indirizzo del moltiplicatore di materiale di moltiplicazione de
 
 3\. Gli oneri derivanti dalle attivita' di controllo sono a carico del responsabile della conservazione in purezza secondo le tariffe di cui all'articolo 82.
 
-#### Art. 39
+### Art. 39
 
 Associazioni varietali
 
@@ -1572,7 +1572,7 @@ Associazioni varietali
 
 3\. Le sementi dei componenti femminile e maschile sono trattate con conce di colore differente.
 
-#### Art. 40
+### Art. 40
 
 Condizioni per l'immissione in commercio di prodotti sementieri importati
 
@@ -1582,7 +1582,7 @@ Condizioni per l'immissione in commercio di prodotti sementieri importati
 
 3\. E' consentita la commercializzazione dei prodotti sementieri provenienti dagli Stati dell'Unione europea e commercializzati in detti Stati in conformita' delle norme di attuazione da essi adottate di disposizioni, vincolanti o facoltative, previste dalle direttive dell'Unione in materia, fatte salve le restrizioni indicate dalle stesse direttive concernenti le caratteristiche, le disposizioni relative all'esame, il contrassegno e la chiusura.
 
-#### Art. 41
+### Art. 41
 
 Cartellino della ditta importatrice
 
@@ -1598,7 +1598,7 @@ Cartellino della ditta importatrice
 
 6\. Chiunque importi prodotti sementieri destinati alla commercializzazione, deve garantire la registrazione dei dati che consentono di identificare cronologicamente ed analiticamente le partite di prodotti importati, gli operatori professionali che le hanno fornite e gli operatori professionali ai quali e' fornita ogni unita' di vendita, conformemente all'articolo 36.
 
-#### Art. 42
+### Art. 42
 
 Responsabilita' di chi commercializza i prodotti sementieri
 
@@ -1606,7 +1606,7 @@ Responsabilita' di chi commercializza i prodotti sementieri
 
 ## Capo V - Deroghe e divieti alla commercializzazione delle sementi
 
-#### Art. 43
+### Art. 43
 
 Deroga per piccoli quantitativi di sementi a scopi scientifici
 
@@ -1616,7 +1616,7 @@ Deroga per piccoli quantitativi di sementi a scopi scientifici
 
 3\. Con decreto del Ministro delle politiche agricole alimentari e forestali, da emanarsi entro centottanta giorni dalla entrata in vigore del presente decreto, sono stabilite le condizioni per il rilascio delle autorizzazioni di cui al presente articolo.
 
-#### Art. 44
+### Art. 44
 
 Requisiti minimi e difficolta' di approvvigionamento
 
@@ -1636,7 +1636,7 @@ Per i prodotti sementieri da importare da Paesi terzi le disposizioni di cui al 
 
 7\. Sono fatti salvi nell'applicazione del presente articolo gli impegni derivanti da convenzioni internazionali.
 
-#### Art. 45
+### Art. 45
 
 Divieto di commercializzare sementi per rischi fitosanitari, alla salute umana e all'ambiente
 
@@ -1656,7 +1656,7 @@ b) possa presentare un rischio per la salute umana o per l'ambiente, anche con r
 
 > \- La legge 15 gennaio 2004, n. 27 (Ratifica ed esecuzione del Protocollo di Cartagena sulla prevenzione dei rischi biotecnologici relativo alla Convenzione sulla diversita' biologica, con Allegati, fatto a Montreal il 29 gennaio 2000), e' pubblicata nella Gazzetta Ufficiale 4 febbraio 2004, n. 28, S.O.
 
-#### Art. 46
+### Art. 46
 
 Divieto di coltivare varieta' per rischi fitosanitari, alla salute umana e all'ambiente o perche' non adatta alla coltivazione nel territorio nazionale.
 
@@ -1670,11 +1670,9 @@ c) sussistano valide ragioni, diverse da quelle indicate alle lettere a) e b) pe
 
 2\. Nel caso di cui al comma 1, lettera c), la richiesta alla Commissione europea e' presentata dal Ministero anche su segnalazione dei Ministeri della salute e dell'ambiente e della tutela del territorio e del mare, per gli aspetti di rispettiva competenza.
 
-## Capo VI - Varieta' da conservazione, varieta' ortive prive di valore intrinseco
+## Capo VI - Varieta' da conservazione, varieta' ortive prive di valore intrinseco e sviluppate per la coltivazione in condizioni particolari e miscugli di preservazione
 
-### e sviluppate per la coltivazione in condizioni particolari e miscugli - di preservazione
-
-#### Art. 47
+### Art. 47
 
 Varieta' da conservazione e varieta' di specie ortive prive di valore intrinseco e sviluppate per la coltivazione in condizioni particolari.
 
@@ -1686,7 +1684,7 @@ b) per l'iscrizione nei Registri nazionali delle varieta' di specie di piante or
 
 c) per la commercializzazione delle sementi e tuberi-seme di patata di tali ecotipi e varieta'.
 
-#### Art. 48
+### Art. 48
 
 Definizioni
 
@@ -1720,7 +1718,7 @@ g) «miscela di sementi coltivate»: una miscela di sementi prodotte con il segu
 
 > \- La direttiva 92/43/CEE, del Consiglio del 21 maggio 1992 relativa alla conservazione degli habitat naturali e seminaturali e della flora e della fauna selvatiche, e' pubblicata nella G.U.C.E. 22 luglio 1992, n. L 206.
 
-#### Art. 49
+### Art. 49
 
 Ammissione al Registro nazionale delle varieta' da conservazione e delle varieta' ortive prive di valore intrinseco e sviluppate per la coltivazione in condizioni particolari.
 
@@ -1732,7 +1730,7 @@ Ammissione al Registro nazionale delle varieta' da conservazione e delle varieta
 
 4\. E' ammessa l'iscrizione delle varieta' sviluppate per la coltivazione in condizioni particolari nei Registri nazionali delle varieta' delle specie di piante ortive, di cui all'articolo 47, comma 1, lettera b), le cui sementi possono essere unicamente controllate come «sementi standard di una varieta' sviluppata per la coltivazione in condizioni particolari». Tali varieta' sono ammesse nei Registri nazionali delle varieta' di specie di piante ortive come «varieta' sviluppate per la coltivazione in condizioni particolari» le cui sementi devono essere controllate conformemente all'articolo 58.
 
-#### Art. 50
+### Art. 50
 
 Requisiti essenziali per l'ammissione ai Registri nazionali delle varieta' da conservazione e delle varieta' ortive prive di valore intrinseco e sviluppate per la coltivazione in condizioni particolari.
 
@@ -1754,7 +1752,7 @@ b) questionari tecnici delle linee guida dell'Unione internazionale per la prote
 
 > \- Per i riferimenti della direttiva 2003/91/CE, della Commissione, del 6 ottobre 2003, si veda nelle note alle premesse.
 
-#### Art. 51
+### Art. 51
 
 Inammissibilita' di varieta' da conservazione e di varieta' ortive sviluppate per la coltivazione in condizioni particolari.
 
@@ -1770,7 +1768,7 @@ b) e' protetta da una «privativa comunitaria per ritrovati vegetali» prevista 
 
 > \- Per i riferimenti normativi del decreto legislativo 10 febbraio 2005, n. 30, si veda nelle note alle premesse.
 
-#### Art. 52
+### Art. 52
 
 Domanda di iscrizione
 
@@ -1830,7 +1828,7 @@ Domanda di iscrizione
 
 > 9-quinquies. Nei provvedimenti rilasciati in ritardo su istanza di parte sono espressamente indicati il termine previsto dalla legge o dai regolamenti e quello effettivamente impiegato.».
 
-#### Art. 53
+### Art. 53
 
 Denominazione varietale
 
@@ -1842,7 +1840,7 @@ Denominazione varietale
 
 > \- Per i riferimenti del regolamento (CE) 637/2009, della Commissione del 23 luglio 2009, si veda nelle note alle premesse.
 
-#### Art. 54
+### Art. 54
 
 Zona di origine
 
@@ -1856,7 +1854,7 @@ Zona di origine
 
 5\. Se la zona d'origine e' situata, oltre che sul territorio nazionale, in altri Stati membri dell'Unione europea, la determinazione e' stabilita di comune accordo.
 
-#### Art. 55
+### Art. 55
 
 Zona di produzione delle sementi
 
@@ -1864,13 +1862,13 @@ Zona di produzione delle sementi
 
 2\. Le ulteriori zone di produzione delle sementi, individuate ai sensi del comma 1, devono essere notificate alla Commissione europea e agli Stati membri e sono autorizzate con procedura europea.
 
-#### Art. 56
+### Art. 56
 
 Selezione conservatrice
 
 1\. La selezione conservatrice di una varieta' da conservazione ammessa al Registro nazionale deve essere effettuata nella sua zona di origine.
 
-#### Art. 57
+### Art. 57
 
 Controllo delle colture di sementi
 
@@ -1878,7 +1876,7 @@ Controllo delle colture di sementi
 
 2\. I controlli di cui al presente articolo sono a carico dell'interessato secondo le tariffe di cui all'articolo 82.
 
-#### Art. 58
+### Art. 58
 
 Controllo delle sementi standard
 
@@ -1890,7 +1888,7 @@ Controllo delle sementi standard
 
 4\. I controlli di cui al presente articolo sono a carico dell'interessato secondo le tariffe di cui all'articolo 82.
 
-#### Art. 59
+### Art. 59
 
 Analisi delle sementi
 
@@ -1902,7 +1900,7 @@ Analisi delle sementi
 
 4\. Le analisi di cui al presente articolo sono a carico dell'interessato secondo le tariffe di cui all'articolo 82.
 
-#### Art. 60
+### Art. 60
 
 Certificazione delle sementi delle varieta' da conservazione di specie agrarie
 
@@ -1918,7 +1916,7 @@ Certificazione delle sementi delle varieta' da conservazione di specie agrarie
 
 6\. Per la commercializzazione dei tuberi-seme di patata non sono applicabili le disposizioni previste dall'allegato VI, della categoria certificata, relativamente al calibro.
 
-#### Art. 61
+### Art. 61
 
 Certificazione delle sementi delle varieta' da conservazione di specie ortive
 
@@ -1930,7 +1928,7 @@ Certificazione delle sementi delle varieta' da conservazione di specie ortive
 
 4\. Le sementi devono presentare un grado di purezza varietale sufficiente.
 
-#### Art. 62
+### Art. 62
 
 Autorizzazione alla commercializzazione delle miscele di sementi
 
@@ -1968,7 +1966,7 @@ m) l'anno di raccolta.
 
 6\. In relazione al comma 5, lettera c), per le miscele di sementi per la preservazione raccolte direttamente, e' sufficiente indicare i componenti per specie e, se del caso, sottospecie che sono caratteristici del tipo di habitat del sito di raccolta e che sono, in quanto componenti della miscela, importanti per la preservazione dell'ambiente naturale nel contesto della conservazione delle risorse genetiche.
 
-#### Art. 63
+### Art. 63
 
 Condizioni per l'autorizzazione delle miscele di sementi per la preservazione raccolte direttamente
 
@@ -1980,7 +1978,7 @@ Condizioni per l'autorizzazione delle miscele di sementi per la preservazione ra
 
 4\. La percentuale di specie e, se del caso, sottospecie che non rispettano le condizioni di cui al comma 2, non deve essere superiore all'1 per cento in peso. Le miscele di sementi per la preservazione raccolte direttamente non contengono Avena fatua, Avena sterilis e Cuscuta spp, la percentuale in Rumex spp, diversa da Rumex acetosella, Rumex acetosa e Rumex maritimus, non e' superiore allo 0,05 per cento in peso.
 
-#### Art. 64
+### Art. 64
 
 Condizioni per l'autorizzazione delle miscele di sementi per la preservazione coltivate
 
@@ -1994,7 +1992,7 @@ Condizioni per l'autorizzazione delle miscele di sementi per la preservazione co
 
 5\. Al fine di garantire la qualita' del materiale ottenuto e di consentire un adeguato controllo del processo produttivo da parte degli organi competenti, la moltiplicazione puo' essere effettuata solo nella zona di origine in cui e' sita la zona fonte.
 
-#### Art. 65
+### Art. 65
 
 Condizioni di commercializzazione
 
@@ -2014,7 +2012,7 @@ b) sono commercializzate nella loro zona di origine.
 
 6\. Se la miscela di sementi per la preservazione contiene una varieta' da conservazione, si applicano le disposizioni di cui agli articoli da 47 a 61.
 
-#### Art. 66
+### Art. 66
 
 Restrizioni quantitative
 
@@ -2028,7 +2026,7 @@ Restrizioni quantitative
 
 5\. La quantita' totale delle sementi per la preservazione che compongono le miscele commercializzate annualmente non deve superare il 5 per cento del peso totale delle miscele di piante foraggere commercializzate nel medesimo anno sul territorio nazionale.
 
-#### Art. 67
+### Art. 67
 
 Applicazione di restrizioni quantitative
 
@@ -2040,7 +2038,7 @@ Applicazione di restrizioni quantitative
 
 4\. Laddove, in base alle informazioni ricevute, sussista la possibilita' che siano superate le quantita' stabilite dall'articolo 66, il Ministero o l'organismo delegato, d'intesa con le regioni e province autonome competenti per territorio, stabilisce, per ciascun produttore, la quota che puo' essere commercializzata nel corso della stagione di produzione in questione.
 
-#### Art. 68
+### Art. 68
 
 Chiusura degli imballaggi e dei contenitori
 
@@ -2050,13 +2048,13 @@ Chiusura degli imballaggi e dei contenitori
 
 3\. Al fine di garantire la sigillatura conformemente al comma 2, il sistema di chiusura prevede l'aggiunta del cartellino o l'apposizione di un sigillo come condizione minima.
 
-#### Art. 69
+### Art. 69
 
 Etichettatura
 
 1\. Gli imballaggi e i contenitori di sementi delle varieta' da conservazione, di varieta' sviluppate per la coltivazione in condizioni particolari e quelli per le miscele di sementi per la preservazione sono muniti di un cartellino del produttore o di una scritta stampata o apposta con un timbro che riporta le indicazioni specificate nell'allegato VII.
 
-#### Art. 70
+### Art. 70
 
 Controlli ufficiali a posteriori
 
@@ -2068,7 +2066,7 @@ Controlli ufficiali a posteriori
 
 4\. I controlli di cui al presente articolo sono a carico dell'interessato secondo le tariffe di cui all'articolo 82.
 
-#### Art. 71
+### Art. 71
 
 Notifiche
 
@@ -2076,13 +2074,13 @@ Notifiche
 
 2\. Il Ministero notifica, su richiesta della Commissione e degli altri Stati membri, i quantitativi di sementi di ciascuna varieta' da conservazione di specie agrarie e ortive, di ogni varieta' di specie ortive sviluppata per la coltivazione in condizioni particolari e delle miscele di sementi per la preservazione commercializzati sul territorio nazionale.
 
-#### Art. 72
+### Art. 72
 
 Notifica delle organizzazioni riconosciute nel campo delle risorse fitogenetiche
 
 1\. Il Ministero provvede a notificare alla Commissione europea e agli altri Stati membri, le autorita' responsabili delle risorse fitogenetiche o le organizzazioni riconosciute in questo campo.
 
-#### Art. 73
+### Art. 73
 
 Commercializzazione di sementi di varieta' da conservazione
 
@@ -2104,7 +2102,7 @@ Commercializzazione di sementi di varieta' da conservazione
 
 ## Capo VII - Equivalenza Paesi terzi
 
-#### Art. 74
+### Art. 74
 
 Equivalenza sementi importate
 
@@ -2112,7 +2110,7 @@ Equivalenza sementi importate
 
 2\. Le sementi di barbabietole, di cereali, di foraggere e di piante oleaginose e da fibra indicate in allegato II, sezioni A e B, raccolte in altro Stato dell'Unione europea o in un Paese terzo equivalente e provenienti direttamente da sementi di base, certificate come tali in uno degli Stati dell'Unione europea, possono essere certificate in Italia sempreche' siano munite di attestato ufficiale dello Stato in cui e' stata effettuata la riproduzione, da cui risulti l'avvenuta esecuzione di un'ispezione in campo per la verifica delle condizioni prescritte ai fini della certificazione e sempreche', da un esame ufficiale dello Stato italiano, sia accertata la rispondenza dei prodotti sementieri ai requisiti prescritti per le sementi certificate.
 
-#### Art. 75
+### Art. 75
 
 Certificazione in Italia di sementi di cereali certificate in uno o piu' Stati europei o in un Paese terzo
 
@@ -2136,7 +2134,7 @@ c) e' stato constatato, al momento di un esame ufficiale che sono state rispetta
 
 5\. I controlli di cui al presente articolo sono a carico dell'interessato secondo le tariffe di cui all'articolo 82.
 
-#### Art. 76
+### Art. 76
 
 Certificazione in Italia di sementi di piante foraggere certificate in uno o piu' Stati europei o in un Paese terzo
 
@@ -2160,7 +2158,7 @@ c) e' stato constatato, al momento di un esame ufficiale, che sono state rispett
 
 5\. I controlli di cui al presente articolo sono a carico dell'interessato secondo le tariffe di cui all'articolo 82.
 
-#### Art. 77
+### Art. 77
 
 Certificazione in Italia di sementi di barbabietole certificate in uno o piu' Stati europei o in un Paese terzo
 
@@ -2180,7 +2178,7 @@ c) e' stato constatato, al momento di un esame ufficiale, che sono state rispett
 
 5\. I controlli di cui al presente articolo sono a carico dell'interessato secondo le tariffe di cui all'articolo 82.
 
-#### Art. 78
+### Art. 78
 
 Certificazione in Italia di sementi di piante oleaginose e da fibra certificate in uno o piu' Stati europei o in un Paese terzo.
 
@@ -2204,7 +2202,7 @@ c) e' stato constatato, al momento di un esame ufficiale che sono state rispetta
 
 5\. I controlli di cui al presente articolo sono a carico dell'interessato secondo le tariffe di cui all'articolo 82.
 
-#### Art. 79
+### Art. 79
 
 Certificazione in Italia di sementi di ortive certificate in uno o piu' Stati europei o in un Paese terzo
 
@@ -2228,7 +2226,7 @@ Certificazione in Italia di sementi di ortive certificate in uno o piu' Stati eu
 
 ## Capo VIII - Sanzioni amministrative e norme finanziarie
 
-#### Art. 80
+### Art. 80
 
 Sanzioni amministrative
 
@@ -2268,7 +2266,7 @@ Sanzioni amministrative
 
 18\. Il Ministero e i Servizi fitosanitari delle regioni e delle province autonome di Trento e di Bolzano sono competenti ad irrogare le sanzioni.
 
-#### Art. 81
+### Art. 81
 
 Obbligo di rapporto e contestazione da parte del personale addetto alla vigilanza
 
@@ -2292,7 +2290,7 @@ c) trasmettere, in ogni caso, copia del verbale al Prefetto territorialmente com
 
 > \- Per i riferimenti del regolamento (UE) 2016/2031, si veda nelle note alle premesse.
 
-#### Art. 82
+### Art. 82
 
 Tariffe
 
@@ -2348,7 +2346,7 @@ Tariffe
 
 > 5\. Le entrate derivanti dalle tariffe determinate ai sensi del comma 4 sono attribuite, nei limiti previsti dalla legislazione vigente, alle amministrazioni che effettuano le prestazioni e i controlli, mediante riassegnazione ai sensi del regolamento di cui al decreto del Presidente della Repubblica 10 novembre 1999, n. 469.».
 
-#### Art. 83
+### Art. 83
 
 Clausola di neutralita' finanziaria
 
@@ -2356,7 +2354,7 @@ Clausola di neutralita' finanziaria
 
 ## Capo IX - Norme transitorie e finali
 
-#### Art. 84
+### Art. 84
 
 Clausola di cedevolezza
 
@@ -2380,7 +2378,7 @@ Clausola di cedevolezza
 
 > 5\. Il Presidente del Consiglio dei Ministri o il Ministro per gli affari europei ogni sei mesi informa le Camere sullo stato di recepimento delle direttive europee da parte delle regioni e delle province autonome nelle materie di loro competenza, secondo modalita' di individuazione di tali direttive da definire con accordo in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano. A tal fine la Presidenza del Consiglio dei Ministri - Dipartimento per le politiche europee convoca annualmente le regioni e le province autonome nell'ambito della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, nella sessione europea dedicata alla predisposizione del disegno di legge di delegazione europea e del disegno di legge europea di cui all'articolo 29.».
 
-#### Art. 85
+### Art. 85
 
 Adeguamenti tecnici
 
@@ -2390,7 +2388,7 @@ Adeguamenti tecnici
 
 > \- Per il testo dell'articolo 17 della legge 23 agosto 1988, n. 400, si veda nelle note all'art. 6.
 
-#### Art. 86
+### Art. 86
 
 Norme transitorie
 
@@ -2398,7 +2396,7 @@ Norme transitorie
 
 2\. Il personale tecnico per i controlli ai prodotti sementieri gia' autorizzato alla data di entrata in vigore del presente decreto, e' iscritto d'ufficio in apposita sezione ad esaurimento del Registro del personale di cui all'articolo 19.
 
-#### Art. 87
+### Art. 87
 
 Abrogazioni
 
@@ -2660,7 +2658,7 @@ Visto, il Guardasigilli: Bonafede
 
 ## Allegati
 
-#### Allegato I
+### Allegato I
 
 Allegato I
 
@@ -3414,7 +3412,7 @@ Cynara cardunculus L. Cardo
 
 Cynara scolimus L. Carciofo
 
-#### Allegato II
+### Allegato II
 
 Allegato II
 
@@ -3962,7 +3960,7 @@ tutti gli ibridi delle specie e dei
 
 gruppi sopraindicati
 
-#### Allegato III
+### Allegato III
 
 Allegato III
 
@@ -4008,7 +4006,7 @@ B. Specie ortive
 +---------------------------------------+---------------------------+
 ```
 
-#### Allegato IV
+### Allegato IV
 
 Allegato IV
 
@@ -4203,7 +4201,7 @@ Zea mays Sementi di base diverse dalla line «inbred»;
 
 Altre specie.»"
 
-#### Allegato V
+### Allegato V
 
 Allegato V
 
@@ -4251,7 +4249,7 @@ i piccoli imballaggi non devono contenere un numero di tuberi superiore a 100 op
 
 H) Organi riproduttivi di piante ortive: i piccoli imballaggi non devono contenere un numero di pezzi superiore a 20.
 
-#### Allegato VI
+### Allegato VI
 
 Allegato VI
 
@@ -5660,7 +5658,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 5 agosto 2022 (in G.U. 03/09/2022, n. 206) ha disposto (con l'art. 2) che "Le disposizioni contenute nel presente decreto saranno in vigore fino al 31 agosto 2029".
 
-#### Allegato VII
+### Allegato VII
 
 Allegato VII
 
@@ -6566,7 +6564,7 @@ VII. Gradi tolleranza sulle percentuali di germinabilita' e purezza
            +-----------------------+---------------------+
 ```
 
-#### Allegato VIII
+### Allegato VIII
 
 ((Allegato VIII
 
@@ -7017,7 +7015,7 @@ Il Decreto 22 aprile 2026 (in G.U. 26/06/2026, n. 146), ha disposto (con l'art. 
 
 Ha inoltre disposto (con l'art. 4, comma 1) che "Il presente decreto, che sara' pubblicato nella Gazzetta Ufficiale della Repubblica italiana, e' soggetto al controllo preventivo di legittimita' della Corte dei conti, ai sensi dell'art. 3, comma 1, lettera c) della legge 14 gennaio 1994, n. 20, entra in vigore il giorno successivo la sua pubblicazione e si applica a decorrere dal 1° luglio 2026".
 
-#### Allegato IX
+### Allegato IX
 
 Allegato IX
 
@@ -8448,7 +8446,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 5 agosto 2022 (in G.U. 03/09/2022, n. 206) ha disposto (con l'art. 2) che "Le disposizioni contenute nel presente decreto saranno in vigore fino al 31 agosto 2029".
 
-#### Allegato X
+### Allegato X
 
 Allegato X
 
@@ -8559,7 +8557,7 @@ c) negligenza nella tenuta dei locali adibiti a laboratorio o nella taratura del
 
 d) utilizzo di metodologie non conformi a quanto stabilito dall' articolo 29, comma 1, lettera b), numero 1.1).
 
-#### Allegato XI
+### Allegato XI
 
 Allegato XI
 
@@ -8658,7 +8656,7 @@ di varieta' da conservazione di cui all'articolo 67, comma 3.
       +---------------------------+---------------------------+
 ```
 
-#### Allegato XII
+### Allegato XII
 
 Allegato XII
 

@@ -188,7 +188,7 @@ La carta alla quale la descrizione presente si riferisce, fa parte dell'allegato
 
 5\. Al fine di determinare sul posto le esatte frontiere fissate dagli Articoli 3, 4 e 22, i Commissari avranno facolta' di allontanarsi di mezzo chilometro dalla linea di confine fissata nel presente Trattato per adeguare la frontiera alle condizioni geografiche ed economiche locali, ma cio' alla condizione che nessun villaggio o citta' di piu' di 500 abitanti, nessuna ferrovia o strada importante, e nessuna importante sorgente di energia elettrica o d'acqua venga ad essere sottoposta in tal modo ad una sovranita' che non sia quella risultante dalle delimitazioni stabilite dal presente Trattato.
 
-## Sezione II - Francia (Clausole speciali)
+### Sezione II - Francia (Clausole speciali)
 
 #### Art. 6
 
@@ -216,7 +216,7 @@ Al fine di garantire all'Italia lo stesso godimento dell'energia idroelettrica e
 
 Affinche' l'Italia non debba soffrire alcuna diminuzione nelle forniture di energia elettrica che essa traeva da sorgenti esistenti nel territorio di Tenda-Briga prima della cessione di tale territorio alla Francia, quest'ultima dara' all'Italia, in forza di un accordo bilaterale, le garanzie tecniche stabilite all'Allegato III.
 
-## Sezione III - Austria (Clausole speciali)
+### Sezione III - Austria (Clausole speciali)
 
 #### Art. 10
 
@@ -224,9 +224,7 @@ Affinche' l'Italia non debba soffrire alcuna diminuzione nelle forniture di ener
 
 2\. Le Potenze Alleate ed Associate hanno preso atto delle intese (il cui testo e' riportato nell'Allegato IV) prese di comune accordo fra il Governo austriaco ed il Governo italiano il 5 settembre 1946.
 
-## Sezione IV - Repubblica Federale Popolare di Jugoslavia
-
-### (Clausole speciali)
+### Sezione IV - Repubblica Federale Popolare di Jugoslavia (Clausole speciali)
 
 #### Art. 11
 
@@ -278,7 +276,7 @@ I pescatori italiani godranno a Pelagosa e nelle acque circostanti degli stessi 
 
 L'approvvigionamento dell'acqua per Gorizia ed i suoi dintorni sara' regolato a norma delle disposizioni dell'Allegato V.
 
-## Sezione V - Grecia (Clausole speciali)
+### Sezione V - Grecia (Clausole speciali)
 
 #### Art. 14
 
@@ -308,7 +306,7 @@ L'Italia, la quale, in conformita' dell'Articolo 30 della Convenzione di Armisti
 
 L'Italia si impegna a riconoscere piena forza ai Trattati di Pace con la Romania, Bulgaria, Ungheria e Finlandia ed a quelle altre convenzioni od accordi che siano stati o siano per essere raggiunti dalle Potenze Alleate ed Associate rispetto all'Austria, alla Germania ed al Giappone, al fine di ristabilire la pace.
 
-## Sezione II - Nazionalità, Diritti civili e politici
+### Sezione II - Nazionalità, Diritti civili e politici
 
 #### Art. 19
 
@@ -332,7 +330,7 @@ L'Italia si impegna a riconoscere piena forza ai Trattati di Pace con la Romania
 
 5\. Le disposizioni dell'Allegato XIV, paragrafo 10 del presente Trattato, che si applicano al trasferimento dei beni appartenenti alle persone che optano per la nazionalita' italiana, si applicheranno egualmente al trasferimento dei beni tenenti alle persone che optano per la nazionalita' jugoslava, in base al presente Articolo.
 
-## Sezione III - Territorio libero di Trieste
+### Sezione III - Territorio libero di Trieste
 
 #### Art. 21
 
@@ -360,7 +358,7 @@ La frontiera fra Jugoslavia ed il Territorio Libero di Trieste sara' fissata com
 
 La carta alla quale la descrizione presente si riferisce, fa parte dell'Allegato I.
 
-## Sezione IV - Colonie italiane
+### Sezione IV - Colonie italiane
 
 #### Art. 23
 
@@ -370,7 +368,7 @@ La carta alla quale la descrizione presente si riferisce, fa parte dell'Allegato
 
 3\. La sorte definitiva di detti possedimenti sara' decisa di comune accordo dai Governi dell'Unione Sovietica, del Regno Unito, degli Stati Uniti d'America e della Francia entro un anno dall'entrata in vigore del presente Trattato e secondo i termini della dichiarazione comune fatta dai detti Governi il 10 febbraio 1947, il cui testo e' riprodotto nell'Allegato XI.
 
-## Sezione V - Speciali interessi della Cina
+### Sezione V - Speciali interessi della Cina
 
 #### Art. 24
 
@@ -384,7 +382,7 @@ L'Italia accetta l'annullamento del contratto d'affitto concessole dal Governo c
 
 L'Italia rinuncia a favore della Cina ai diritti accordatile rispetto alle Concessioni internazionali di Shanghai e di Amoy ed accetta che l'amministrazione e il controllo di dette Concessioni siano ritrasferite al Governo cinese.
 
-## Sezione VI - Albania
+### Sezione VI - Albania
 
 #### Art. 27
 
@@ -412,7 +410,7 @@ L'Italia riconosce che tutte le convenzioni ed intese intervenute tra l'Italia e
 
 L'Italia riconosce la validita' di ogni provvedimento che l'Albania potra' ritenere necessario di adottare in applicazione od esecuzione delle disposizioni di cui sopra.
 
-## Sezione VII - Etiopia
+### Sezione VII - Etiopia
 
 #### Art. 33
 
@@ -440,7 +438,7 @@ Entro diciotto mesi dall'entrata in vigore del presente Trattato, l'Italia resti
 
 La data, a decorrere dalla quale le disposizioni del presente Trattato diverranno applicabili, per quanto riguarda le misure e gli atti di qualsiasi natura che comportino responsabilita' per l'Italia o per i cittadini italiani nei riguardi della Etiopia, s'intendera' fissata al 3 ottobre 1935.
 
-## Sezione VIII - Accordi internazionali
+### Sezione VIII - Accordi internazionali
 
 #### Art. 39
 
@@ -462,7 +460,7 @@ L'Italia accettera' e riconoscera' ogni accordo che possa essere concluso dalle 
 
 L'Italia rinuncia ad ogni diritto od interesse che possa avere, in virtu' dell'Articolo 16 del Trattato di Losanna, firmato il 24 luglio 1923.
 
-## Sezione IX. - Trattati bilaterali
+### Sezione IX. - Trattati bilaterali
 
 #### Art. 44
 
@@ -496,7 +494,7 @@ Tutte le disposizioni dei trattati di cui sopra, che non siano compatibili con i
 
 Ognuna delle clausole militari, navali ed aeree del presente Trattato restera' in vigore, finche' non sara' stata modificata in tutto o in parte, mediante accordo tra le Potenze Alleate ed Associate e l'Italia, o, dopo che l'Italia sia divenuta membro delle Nazioni Unite, mediante accordo tra il Consiglio di Sicurezza e l'Italia.
 
-## Sezione II - Restrizioni generali
+### Sezione II - Restrizioni generali
 
 #### Art. 47
 
@@ -578,7 +576,7 @@ Il numero totale dei carri armati pesanti e medi delle Forze armate italiane non
 
 In nessun caso, un ufficiale o sottufficiale dell'ex-milizia fascista o dell'ex-esercito repubblicano fascista potra' essere ammesso, con il grado di ufficiale o di sottufficiale, nella Marina, nell'Esercito, nell'Aeronautica italiana, o nell'Arma dei Carabinieri, fatta eccezione per coloro che siano stati riabilitati dalle autorita' competenti, in conformita' della legge italiana.
 
-## Sezione III - Restrizioni imposte alla Marina italiana
+### Sezione III - Restrizioni imposte alla Marina italiana
 
 #### Art. 56
 
@@ -656,7 +654,7 @@ Due mesi dopo la conclusione delle operazioni di dragaggio delle mine da parte d
 
 4\. All'infuori degli effettivi autorizzati ai sensi dei paragrafi 1 e 2 e del personale dell'Aviazione per la Marina autorizzato ai sensi dell'Articolo 65, nessun altro personale potra' ricevere qualsiasi forma di istruzione navale, secondo la definizione datane nell'Allegato XIII B.
 
-## Sezione IV - Restrizioni imposte all'Esercito italiano
+### Sezione IV - Restrizioni imposte all'Esercito italiano
 
 #### Art. 61
 
@@ -670,7 +668,7 @@ Il personale dell'Esercito italiano in eccedenza agli effettivi autorizzati dall
 
 Nessun personale che non sia quello incorporato nell'Esercito italiano o nell'Arma dei Carabinieri potra' ricevere alcuna forma di istruzione militare, secondo la definizione datane nell'Allegato XIII B.
 
-## Sezione V - Restrizioni imposte alla Aeronautica militare italiana
+### Sezione V - Restrizioni imposte alla Aeronautica militare italiana
 
 #### Art. 64
 
@@ -688,9 +686,7 @@ Nessun personale che non sia quello incorporato nell'Esercito italiano o nell'Ar
 
 Il personale dell'Aeronautica militare italiana in eccedenza agli effettivi autorizzati dall'Articolo 65 di cui sopra, dovra' essere smobilitato entro sei mesi dall'entrata in vigore del presente Trattato.
 
-## Sezione VI - Destinazione del materiale bellico
-
-### (come definito dall'Allegato XIII, C)
+### Sezione VI - Destinazione del materiale bellico (come definito dall'Allegato XIII, C)
 
 #### Art. 67
 
@@ -704,7 +700,7 @@ Il personale dell'Aeronautica militare italiana in eccedenza agli effettivi auto
 
 5\. L'Italia fornira' ai Quattro Governi, entro sei mesi dall'entrata in vigore del presente Trattato, gli elenchi di tutto il materiale bellico in eccedenza.
 
-## Sezione VII - Azione preventiva contro il riarmo della Germania e del Giappone
+### Sezione VII - Azione preventiva contro il riarmo della Germania e del Giappone
 
 #### Art. 68
 
@@ -718,7 +714,7 @@ L'Italia s'impegna a non permettere l'impiego o l'allenamento in Italia di tecni
 
 L'Italia s'impegna a non acquistare e a non fabbricare alcun apparecchio civile che sia di disegno tedesco o giapponese o che comporti importanti elementi di fabbricazione o di disegno tedesco o giapponese.
 
-## Sezione VIII - Prigionieri di guerra
+### Sezione VIII - Prigionieri di guerra
 
 #### Art. 71
 
@@ -726,7 +722,7 @@ L'Italia s'impegna a non acquistare e a non fabbricare alcun apparecchio civile 
 
 2\. Tutte le spese, comprese le spese per il loro mantenimento, incorse per il trasferimento dei prigionieri di guerra italiani, dai rispettivi centri di rimpatrio, scelti dal Governo della Potenza Alleata o Associata interessata, al luogo del loro arrivo in territorio italiano, saranno a carico del Governo italiano.
 
-## Sezione IX - Rimozione delle mine
+### Sezione IX - Rimozione delle mine
 
 #### Art. 72
 
@@ -820,7 +816,7 @@ D) Riparazioni a favore di altri Stati.
 
 E) Indennita' per beni presi a titolo di riparazioni. Il Governo italiano s'impegna ad indennizzare le persone fisiche o giuridiche, dei cui beni ci si sia appropriati, in base alle disposizioni del presente Articolo, a titolo di riparazioni.
 
-## Sezione II - Restituzione da parte dell'Italia
+### Sezione II - Restituzione da parte dell'Italia
 
 #### Art. 75
 
@@ -842,7 +838,7 @@ E) Indennita' per beni presi a titolo di riparazioni. Il Governo italiano s'impe
 
 9\. Se, in casi specifici, fosse impossibile per l'Italia di effettuare la restituzione di oggetti aventi un valore artistico, storico od archeologico e appartenenti al patrimonio culturale della Nazione Unita, dal territorio della quale tali oggetti vennero sottratti, con la violenza o la costrizione, da parte delle Forze Armate, delle autorita' o di cittadini italiani, l'Italia s'impegna a consegnare alla Nazione Unita interessata oggetti della stessa natura e di valore approssimativamente equivalente a quello degli oggetti sottratti in quanto siffatti oggetti possano procurarsi in Italia.
 
-## Sezione III - Rinuncia a regioni da parte dell'Italia
+### Sezione III - Rinuncia a regioni da parte dell'Italia
 
 #### Art. 76
 
@@ -920,7 +916,7 @@ L'espressione «cittadini delle Nazioni Unite» s'applica anche a tutte le perso
 
 (c) Il termine «beni» serve a designare tutti i beni mobili e immobili, materiali ed incorporei, compresi i diritti di proprieta' industriale, letteraria e artistica e tutti i diritti od interessi in beni di qualsiasi natura. Senza pregiudizio delle disposizioni generali precedenti, l'espressione «beni delle Nazioni Unite e dei loro cittadini» comprende tutti i bastimenti destinati alla navigazione marittima e fluviale, compresi gli strumenti e l'armamento di bordo, che hanno appartenuto alle Nazioni Unite o ai loro cittadini o che sono stati iscritti nel territorio di una delle Nazioni Unite o hanno navigato battendo la bandiera di una delle Nazioni Unite e che, posteriormente al 10 giugno 1940, sia che si trovassero in acque italiane o che vi fossero state portate a forza, sono state poste sotto il controllo delle autorita' italiane come beni nemici o hanno cessato di essere a libera disposizione in Italia delle Nazioni Unite o dei loro cittadini, a seguito delle misure di controllo adottate dalle autorita' italiane in relazione all'esistenza di uno stato di guerra tra membri delle Nazioni Unite e la Germania.
 
-## Sezione II - Beni italiani situati nel territorio delle Potenze Alleate e Associate
+### Sezione II - Beni italiani situati nel territorio delle Potenze Alleate e Associate
 
 #### Art. 79
 
@@ -952,13 +948,13 @@ L'espressione «cittadini delle Nazioni Unite» s'applica anche a tutte le perso
 
 (g) fatta eccezione per i beni indicati all'Articolo 74, capo A, paragrafo 2 (b) e capo D paragrafo 1, i beni delle persone fisiche, residenti nei territori ceduti o nel Territorio Libero di Trieste, che non eserciteranno il diritto d'opzione per la nazionalita' italiana previsto dal presente Trattato, e i beni delle societa' o associazioni, la cui sede sociale sia situata nei territori ceduti o nel Territorio Libero di Trieste, a condizione che tali societa' o associazioni non appartengano o siano controllate da persone residenti in Italia. Nei casi previsti dall'Articolo 74, capo A, paragrafo 2 (b) e capo D, paragrafo 1, la questione dell'indennita' sara' regolata in conformita' delle disposizioni di cui all'Articolo 74, capo E.
 
-## Sezione III - Dichiarazione delle Potenze Alleate e Associate in ordine alle loro domande
+### Sezione III - Dichiarazione delle Potenze Alleate e Associate in ordine alle loro domande
 
 #### Art. 80
 
 Le Potenze Alleate e Associate dichiarano che i diritti ad esse attribuiti in base agli Articoli 74 e 79 del presente Trattato esauriscono tutte le loro domande e le domande dei loro cittadini per perdite o danni risultanti da fatti di guerra, ivi compresi i provvedimenti adottati durante l'occupazione dei loro territori, che siano imputabili all'Italia e che si svolsero fuori del territorio italiano, eccezione fatta delle domande fondate sugli Articoli 75 e 78.
 
-## Sezione IV - Debiti
+### Sezione IV - Debiti
 
 #### Art. 81
 

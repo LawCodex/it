@@ -30,25 +30,25 @@ Promulga
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo tra il Governo della Repubblica italiana e il Governo di Giamaica per eliminare le doppie imposizioni in materia di imposte sul reddito e per prevenire le evasioni e le elusioni fiscali, con Protocolli, fatto a Kingston il 19 gennaio 2018.
 
-### Art. 2
+## Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 31 dell'Accordo stesso.
 
-### Art. 3
+## Art. 3
 
 Clausola di invarianza finanziaria
 
 1\. Dall'attuazione della presente legge non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
-### Art. 4
+## Art. 4
 
 Entrata in vigore
 
@@ -80,13 +80,13 @@ Nell'intento di eliminare la doppia imposizione con riferimento alle imposte ogg
 
 Hanno convenuto quanto segue:
 
-### Articolo 1
+## Articolo 1
 
 SOGGETTI
 
 Il presente Accordo si applica alle persone che sono residenti di uno o di entrambi gli Stati contraenti.
 
-### Articolo 2
+## Articolo 2
 
 IMPOSTE CONSIDERATE
 
@@ -112,7 +112,7 @@ ancorche' riscosse mediante ritenuta alla fonte (qui di seguito indicate quali "
 
 4\. L'Accordo si applichera' anche alle imposte future di natura identica o sostanzialmente analoga che saranno istituite dopo la data della firma del presente Accordo in aggiunta, o in sostituzione, delle imposte attuali. Le autorita' competenti degli Stati contraenti si comunicheranno le modifiche sostanziali alle rispettive legislazioni fiscali.
 
-### Articolo 3
+## Articolo 3
 
 DEFINIZIONI GENERALI
 
@@ -154,7 +154,7 @@ DEFINIZIONI GENERALI
 
 2\. Per l'applicazione delle disposizioni dell'Accordo in qualunque momento da parte di uno Stato contraente, le espressioni ivi non definite hanno, a meno che il contesto non richieda una diversa interpretazione, il significalo che a essa e' attribuito in quel momento dalla legislazione di detto Stato relativamente alle imposte cui l'Accordo si applica, prevalendo ogni significato attribuito dalle leggi fiscali applicabili di detto Stato sul significato dato al temine nell'ambito di altre leggi di detto Stato.
 
-### Articolo 4
+## Articolo 4
 
 RESIDENTI
 
@@ -172,7 +172,7 @@ RESIDENTI
 
 3\. Quando, in base alle disposizioni del paragrafo 1, una persona diversa da una persona fisica e' residente di entrambi gli Stati contraenti, le autorita' competenti degli Stati contraenti faranno del loro meglio per determinare di comune accordo lo Stato contraente di cui tale persona e' considerata residente ai fini dell'accordo con particolare riguardo alla sede della sua direzione effettiva, al luogo in cui e' stata costituita o altrimenti creata e ad ogni altro elemento pertinente. In mancanza di tale accordo, detta persona non ha diritto ad alcun beneficio o esenzione d'imposta previsti dall'Accordo se non nella misura e nel modo che possa essere convenuto dalle autorita' competerti degli Stati contraenti.
 
-### Articolo 5
+## Articolo 5
 
 STABILE ORGANIZZAZIONE
 
@@ -228,7 +228,7 @@ si considera che tale impresa abbia una stabile organizzazione nel primo Stato c
 
 8\. Il fatto che una societa' residente di uno Stato contraente controlli o sia controllata da una societa' residente dell'altro Stato contraente ovvero svolga la propria attivita' in questo altro Stato (a mezzo di una stabile organizzazione oppure no) non costituisce di per se' motivo sufficiente per far considerare una qualsiasi delle dette societa' una stabile organizzazione dell'altra.
 
-### Articolo 6
+## Articolo 6
 
 REDDITI IMMOBILIARI
 
@@ -240,7 +240,7 @@ REDDITI IMMOBILIARI
 
 4\. Le disposizioni dei paragrafi 1 e 3 si applicano anche ai redditi derivanti da beni immobili di un'impresa, nonche' ai redditi dei beni immobili utilizzati per l'esercizio di una professione indipendente.
 
-### Articolo 7
+## Articolo 7
 
 UTILI DELLE IMPRESE
 
@@ -258,7 +258,7 @@ UTILI DELLE IMPRESE
 
 7\. Quando gli utili comprendono elementi di reddito considerati separatamente in altri Articoli del presente Accordo, le disposizioni di tali Articoli non vengono modificate da quelle del presente Articolo.
 
-### Articolo 8
+## Articolo 8
 
 NAVIGAZIONE MARITTIMA ED AEREA
 
@@ -274,7 +274,7 @@ b) nonostante le disposizioni dell'Articolo 12, gli utili derivanti dalla utiliz
 
 4\. Le disposizioni del paragrafo 1 si applicano parimenti agli utili derivanti dalla partecipazione a un fondo comune (pool), a un esercizio in comune o ad un organismo internazionale di esercizio.
 
-### Articolo 9
+## Articolo 9
 
 IMPRESE ASSOCIATE
 
@@ -288,7 +288,7 @@ e, nell'uno e nell'altro caso, le due imprese, nelle loro relazioni commerciali 
 
 2\. Allorche' uno Stato contraente include tra gli utili di un'impresa di detto Stato - e di conseguenza assoggetta a tassazione - gli utili sui quali un'impresa dell'altro Stato contraente e' stata sottoposta a tassazione in detto altro Stato contraente e gli utili cosi' inclusi sono utili che sarebbero stati realizzati dall'impresa del primo Stato se le condizioni convenute tra le due imprese fossero state quelle che si sarebbero convenute tra imprese indipendenti, allora l'altro Stato procede ad un'apposita rettifica dell'importo dell'imposta ivi applicata su tali utili. Tali rettifiche dovranno effettuarsi unicamente in conformita' con la procedura amichevole di cui all'Articolo 26.
 
-### Articolo 10
+## Articolo 10
 
 DIVIDENDI
 
@@ -310,7 +310,7 @@ Il presente paragrafo non riguarda l'imposizione della societa' per gli utili co
 
 6\. Nonostante le altre disposizioni del presente Accordo, allorche' un'impresa di uno Stato contraente ha una stabile organizzazione nell'altro Stato contraente, gli utili imponibili ai sensi del paragrafo 1 dell'Articolo 7, possono essere assoggettati a una ritenuta alla fonte in detto altro Stato contraente secondo la legislazione di detto Stato quando gli utili sono rimessi alla sede centrale; e detta ritenuta alla fonte, che e' l'unica ritenuta alla fonte cui la stabile organizzazione puo' essere assoggettata ai sensi del presente Articolo, non puo' eccedere il 5 per cento dell'ammontare di detti utili al netto dell'imposta sulle societa' prelevata in detto altro Stato contraente.
 
-### Articolo 11
+## Articolo 11
 
 INTERESSI
 
@@ -336,7 +336,7 @@ INTERESSI
 
 7\. Se, in conseguenza di particolari relazioni esistenti tra debitore e beneficiario effettivo o tra ciascuno di essi e terze persone, l'ammontare degli interessi, tenuto conto del credito per i quale sono pagati, eccede l'ammontare che sarebbe stato convenuto tra debitore e beneficiario effettivo in assenza di simili relazioni, le disposizioni del presente Articolo si applicano soltanto a quest'ultimo ammontare, in tal caso, la parte eccedente dei pagamenti e' imponibile in conformita' con la legislazione di ciascuno Stato contraente, tenuto conto delle altre disposizioni del presente Accordo.
 
-### Articolo 12
+## Articolo 12
 
 CANONI
 
@@ -360,7 +360,7 @@ CANONI
 
 6\. Se, in conseguenza di particolari relazioni esistenti tra il debitore e il beneficiario effettivo o tra ciascuno di' essi e terze persone, l'ammontare dei canoni, tenuto conto dell'uso, diritto o informazione per i quali sono stati pagati, eccede l'ammontare che sarebbe stato convenuto tra debitore e beneficiario effettivo in assenza di simili relazioni, le disposizioni del presente Articolo si applicano soltanto a quest'ultimo ammontare, in tal caso, la parte eccedente dei pagamenti e' imponibile in conformita' con la legislazione di ciascuno Stato contraente, tenuto conto delle altre disposizioni del presente Accordo.
 
-### Articolo 13
+## Articolo 13
 
 COMPENSI PER SERVIZI
 
@@ -396,7 +396,7 @@ In tal caso, sono applicabili, a seconda dei casi, le disposizioni degli Articol
 
 8\. Se, in conseguenza di particolari relazioni esistenti tra il debitore e il beneficiario effettivo dei compensi per servizi o tra ciascuno di essi e terze persone, l'ammontare dei compensi, tenuto conto dei servizi per i quali sono stati pagati, eccede l'ammontare che sarebbe stato convenuto tra debitore e beneficiario effettivo in assenza di simili relazioni, le disposizioni del presente Articolo si applicano soltanto a quest'ultimo ammontare. In tal caso, la parte eccedente dei compensi e' imponibile in conformita' con la legislazione di ciascuno Stato contraente, tenuto conto delle altre disposizioni del presente Accordo.
 
-### Articolo 14
+## Articolo 14
 
 UTILI DI CAPITALE
 
@@ -412,7 +412,7 @@ UTILI DI CAPITALE
 
 6\. Gli utili derivanti dall'alienazione di ogni altro bene diverso da quelli menzionati nei paragrafi 1, 2, 3, 4 e 5 sono imponibili soltanto nello Stato contraente di cui l'alienante e' residente.
 
-### Articolo 15
+## Articolo 15
 
 PROFESSIONI INDIPENDENTI
 
@@ -424,7 +424,7 @@ PROFESSIONI INDIPENDENTI
 
 2\. L'espressione "libera professione" comprende, in particolare, le attivita' indipendenti di carattere scientifico, letterario, artistico, educativo o pedagogico, nonche' le attivita' indipendenti di medici, avvocati, ingegneri, architetti, dentisti e contabili.
 
-### Articolo 16
+## Articolo 16
 
 LAVORO SUBORDINATO
 
@@ -442,13 +442,13 @@ LAVORO SUBORDINATO
 
 4\. I pagamenti effettuati in virtu' di un'attivita' dipendente in uno Stato contraente, quali indennita' di fine rapporto o altra somma forfetaria relativa a tale attivita' dipendente, sono imponibili soltanto in detto Stato contraente.
 
-### Articolo 17
+## Articolo 17
 
 COMPENSI DEGLI AMMINISTRATORI
 
 1\. I compensi degli amministratori e le altre retribuzioni analoghe che un residente di uno Stato contraente riceve in qualita' di membro del consiglio di amministrazione di una societa' residente dell'altro Stato contraente, sono imponibili in detto altro Stato.
 
-### Articolo 18
+## Articolo 18
 
 ARTISTI E SPORTIVI
 
@@ -458,7 +458,7 @@ ARTISTI E SPORTIVI
 
 3\. Nonostante le disposizioni dei paragrafi 1 e 2, i redditi che un residente di uno Stato contraente ritrae dalle sue prestazioni in qualita' di artista dello spettacolo o sportivo sono esenti dall'imposta prelevata dall'altro Stato contraente se il soggiorno in quell'altro Stato contraente e' sostanzialmente sostenuto con fondi pubblici del primo Stato o di una sua suddivisione politica o amministrativa o ente locale.
 
-### Articolo 19
+## Articolo 19
 
 PENSIONI
 
@@ -468,7 +468,7 @@ PENSIONI
 
 3\. L'espressione "altre remunerazioni analoghe" designa i pagamenti di fondi pensione o piani pensionistici cui possono partecipare persone fisiche per ottenere prestazioni pensionistiche, laddove tale fondo pensione o piano pensionistico sia regolamentato in conformita' con la legislazione di detto Stato contraente e riconosciuto come tale ai fini fiscali.
 
-### Articolo 20
+## Articolo 20
 
 FUNZIONI PUBBLICHE
 
@@ -486,7 +486,7 @@ FUNZIONI PUBBLICHE
 
 3\. Le disposizioni degli Articoli 16, 17,18 e 19 si applicano ai salari, agli stipendi, alle pensioni ed altre remunerazioni analoghe pagate in corrispettivo di servizi resi nell5ambito di un'attivita' industriale o commerciale esercitata da uno Stato contraente o da una sua suddivisione politica o amministrativa o da un suo ente locale.
 
-### Articolo 21
+## Articolo 21
 
 STUDENTI
 
@@ -498,7 +498,7 @@ STUDENTI
 
 2\. I benefici previsti dal presente Articolo sono applicabili soltanto per un periodo non superiore a sei anni consecutivi a partire dalla data del suo arrivo nel primo Stato.
 
-### Articolo 22
+## Articolo 22
 
 PROFESSORI E RICERCATORI
 
@@ -506,7 +506,7 @@ PROFESSORI E RICERCATORI
 
 2\. La disposizione del paragrafo 1 non si applica ai redditi da ricerca se questa e' intrapresa non nell'interesse pubblico ma principalmente nell'interesse privato di una o piu' persone determinate.
 
-### Articolo 23
+## Articolo 23
 
 ALTRI REDDITI
 
@@ -514,7 +514,7 @@ ALTRI REDDITI
 
 2\. Le disposizioni del paragrafo 1 non si' applicano ai redditi diversi da quelli derivanti da beni immobili secondo la definizione di cui al paragrafo 2 dell'Articolo 6, nel caso in cui il beneficiario di tali redditi, residente di uno Stato contraente, eserciti nell'altro Stato contraente un'attivita' commerciale o industriale per mezzo di una stabile organizzazione ivi situata o una professione indipendente mediante una base fissa ivi situata, ed il diritto o il bene produttivo del reddito si ricolleghi effettivamente a tale stabile organizzazione o base fissa. In tal caso, sono applicabili, a seconda dei casi, le disposizioni degli Articoli 7 o 15.
 
-### Articolo 24
+## Articolo 24
 
 ELIMINAZIONE DELLA DOPPIA IMPOSIZIONE
 
@@ -532,7 +532,7 @@ Tuttavia, nessuna detrazione sara' accordata ove l'elemento di reddito venga ass
 
 3\. Se, in conformita' a una disposizione del presente Accordo, i redditi derivati da un residente di uno Stato contraente sono esenti da imposta in detto Stato, tale Stato puo' tuttavia, nel calcolare l'imposta sugli altri redditi di detto residente, tenere in considerazione i redditi esentati.
 
-### Articolo 25
+## Articolo 25
 
 NON DISCRIMINAZIONE
 
@@ -550,7 +550,7 @@ La presente disposizione non puo' essere interpretata nel senso che feccia obbli
 
 6\. Le disposizioni del presente Articolo, fatte salve le disposizioni dell'Articolo 2, si applicano alle imposte di ogni tipo e descrizione.
 
-### Articolo 26
+## Articolo 26
 
 PROCEDURA AMICHEVOLE
 
@@ -564,7 +564,7 @@ PROCEDURA AMICHEVOLE
 
 5\. Nonostante altri trattati di cui gli Stati contraenti siano o possano diventare parti, qualsiasi controversia relativa ad una misura adottata da uno Stato contraente che concerne un'imposta di cui all'Articolo 2, oppure, nel caso di non discriminazione, qualsiasi misura fiscale adottata da uno Stato contraente, ivi compresa una controversia sull'applicazione o meno del presente Accordo, sara' risolta ai sensi dell'Accordo, a meno che le autorita' competenti degli Stati contraenti non convengano diversamente.
 
-### Articolo 27
+## Articolo 27
 
 SCAMBIO DI INFORMAZIONI
 
@@ -584,13 +584,13 @@ SCAMBIO DI INFORMAZIONI
 
 5\. Le disposizioni del paragrafo 3 non possono in nessun caso essere interpretate nel senso che uno Stato contraente possa rifiutare di fornire le informazioni solo in quanto le stesse sono detenute da una banca, da un'altra istituzione finanziaria, da un mandatario o una persona che opera in qualita' di agente o fiduciario o perche' dette informazioni si riferiscono a partecipazioni in una persona.
 
-### Articolo 28
+## Articolo 28
 
 MEMBRI DELLE MISSIONI DIPLOMATICHE E DEGLI UFFICI CONSOLARI
 
 Le disposizioni del presente Accordo non pregiudicano i privilegi fiscali di cui beneficiano i membri delle missioni diplomatiche o degli uffici consolari in virtu' delle regole generali del diritto internazionale o delle disposizioni di accordi particolari.
 
-### Articolo 29
+## Articolo 29
 
 RIMBORSI
 
@@ -600,13 +600,13 @@ RIMBORSI
 
 3\. Le disposizioni dei paragrafi 1 e 2 del presente Articolo non potranno essere interpretate nel senso di impedire alle autorita' competenti degli Stati Contraenti di stabilire procedure diverse per l'applicazione dei benefici previsti dall'Accordo.
 
-### Articolo 30
+## Articolo 30
 
 DIRITTO AI BENEFICI
 
 Nonostante le altre disposizioni del presente Accordo, un beneficio ai sensi del presente Accordo non puo' essere concesso in relazione ad un elemento di reddito se e' ragionevole concludere, tenuti presenti tutti i fatti e tutte le circostanze pertinenti, che l'ottenimento di tale beneficio era uno degli scopi principali di qualsiasi intesa o transazione che ha portato direttamente o indirettamente a tale beneficio, a meno che non sia stabilito che la concessione di tale beneficio in queste circostanze sarebbe conforme con l'oggetto e lo scopo delle pertinenti disposizioni del presente Accordo.
 
-### Articolo 31
+## Articolo 31
 
 ENTRATA IN VIGORE
 
@@ -618,7 +618,7 @@ ENTRATA IN VIGORE
 
 (b) con riferimento alle altre imposte sul reddito, alle imposte relative ai periodi imponibili che iniziano il o successivamente al 1° gennaio dell'anno solare successivo a quello in cui il presente Accordo entra in vigore.
 
-### Articolo 32
+## Articolo 32
 
 DENUNCIA
 
@@ -636,7 +636,7 @@ FATTO a Kingston, il 19 gennaio 2018, in duplice originale, ciscuno nelle lingue
 
 Parte di provvedimento in formato grafico
 
-### Protocollo all'accordo
+## Protocollo all'accordo
 
 PROTOCOLLO ALL'ACCORDO TRA IL GOVERNO DELLA REPUBBLICA ITALIANA ED IL GOVERNO DI GIAMAICA PER ELIMINARE LE DOPPIE IMPOSIZIONI IN MATERIA DI IMPOSTE SUL REDDITO I PER PREVENIRE LE EVASIONI E LE ELUSIONI FISCALI
 
@@ -668,7 +668,7 @@ PROTOCOLLO AGGIUNTIVO IN MATERIA DI ARBITRATO ALL'ACCORDO TRA IL GOVERNO DELLA R
 
 All'atto della firma dell'Accordo tra il Governo della Repubblica Italiana ed il Governo di Giamaica per eliminare le doppie imposizioni in materia di imposte sul reddito e per prevenire le evasioni e le elusioni fiscali, i sottoscritti hanno concordato le seguenti disposizioni in materia di arbitrato che formano parte integrante dell'Accordo.
 
-### Articolo 1
+## Articolo 1
 
 ARBITRATO OBBLIGATORIO E VINCOLANTE
 
@@ -744,7 +744,7 @@ c) casi relativi a persone con doppia residenza;
 
 d) casi che comportano sanzioni relative a frode fiscale, dolo e colpa grave.
 
-### Articolo 2
+## Articolo 2
 
 NOMINA DEGLI ARBITRI
 
@@ -764,7 +764,7 @@ d) Ciascuna autorita' competente fornisce una lista di cinque persone indipenden
 
 4\. Se i due membri del collegio arbitrale inizialmente designati non nominano il Presidente secondo le modalita' ed entro i termini temporali specificati nel paragrafo 2 oppure concordati dalle autorita' competenti degli Stati contraenti, il Presidente viene designato dal funzionario piu' alto in grado del Centro per le Politiche e Amministrazione Fiscali dell'Organizzazione per la Cooperazione e lo Sviluppo Economico che non abbia la nazionalita' di' alcuno dei due Stati Contraenti.
 
-### Articolo 3
+## Articolo 3
 
 RISERVATEZZA DELLE PROCEDURE DI ARBITRATO
 
@@ -772,7 +772,7 @@ RISERVATEZZA DELLE PROCEDURE DI ARBITRATO
 
 2\. Le autorita' competenti degli Stati contraenti assicurano che i membri del collegio arbitrale ed i loro collaboratori si impegnino per iscritto, prima di partecipare ad una procedura arbitrale, a trattare qualsiasi informazione concernente la procedura arbitrale in conformita' agli obblighi di riservatezza e di non divulgazione indicati nelle disposizioni dell'Articolo 27 dell'Accordo nonche' ai sensi delle leggi applicabili degli Stati contraenti.
 
-### Articolo 4
+## Articolo 4
 
 RISOLUZIONE DI UN CASO PRIMA DELLA CONCLUSIONE DELL'ARBITRATO
 
@@ -782,7 +782,7 @@ a) le autorita' competenti raggiungono un accordo amichevole per risolvere il ca
 
 b) la persona che ha sottoposto il caso ritira la richiesta di arbitrato o la richiesta di procedura amichevole.
 
-### Articolo 5
+## Articolo 5
 
 TIPOLOGIA DI PROCESSO ARBITRALE
 
@@ -796,13 +796,13 @@ c) Il collegio arbitrale sceglie, quale propria decisione, una delle proposte di
 
 2\. Prima dell'inizio della procedura arbitrale, le autorita' competenti degli Stati contraenti assicurano che ciascuna persona che ha sottoposto il caso e i suoi consulenti si impegnino per iscritto a non rivelare a qualsiasi altra persona ogni informazione ricevuta nel corso della procedura arbitrale da una delle autorita' competenti o dal collegio arbitrale. La procedura amichevole ai sensi dell'Articolo 26 dell'Accordo, nonche' la procedura arbitrale ai sensi del presente Protocollo, con riferimento al caso termina se, in qualsiasi momento dopo la presentazione di una richiesta di arbitrato e prima che il collegio arbitrale abbia comunicato la propria decisione alle autorita' competenti degli Stati contraenti, una persona che ha sottoposto il caso oppure uno dei consulenti di tale persona viola in maniera sostanziale tale impegno.
 
-### Articolo 6
+## Articolo 6
 
 ACCORDO SU UNA DIVERSA RISOLUZIONE
 
 Nonostante il paragrafo 4 dell'Articolo 1 del presente Protocollo, una decisione arbitrale ai sensi del presente Protocollo non e' vincolante per gli Stati contraenti e non e' attuata se le autorita' competenti degli Stati contraenti concordano una diversa risoluzione di tutte le questioni non risolte entro i tre mesi di' calendario successivi alla comunicazione alle stesse della decisione arbitrale.
 
-### Articolo 7
+## Articolo 7
 
 COSTI DELLA PROCEDURA ARBITRALE
 
@@ -814,7 +814,7 @@ In una procedura arbitrale ai sensi del presente Protocollo, a meno che le autor
 
 I costi sostenuti dalla persona interessata non sono a carico degli Stati contraenti, anche in caso di ritiro della denuncia.
 
-### Articolo 8
+## Articolo 8
 
 COMPATIBILITA'
 

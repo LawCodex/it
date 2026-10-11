@@ -150,11 +150,9 @@ il seguente decreto legislativo:
 
 ## Titolo I - Principi generali e misure a sostegno della popolazione anziana
 
-### Capo I
+### Capo I - Principi generali
 
-#### Principi generali
-
-##### Art. 1
+#### Art. 1
 
 Oggetto e finalita'
 
@@ -166,7 +164,7 @@ Oggetto e finalita'
 
 > Nella Gazzetta Ufficiale - Serie generale - n. 79 del 4 aprile 2024, si procedera' alla ripubblicazione del testo del presente decreto legislativo corredato delle relative note, ai sensi dell'art. 10, comma 3, del D.P.R. 28 dicembre 1985, n. 1092.
 
-##### Art. 2
+#### Art. 2
 
 Definizioni e disposizioni di coordinamento
 
@@ -182,7 +180,7 @@ d) «specifico bisogno assistenziale dell'anziano non autosufficiente»: lo spec
 
 2\. Resta ferma la disciplina relativa alla realizzazione di prestazioni, interventi e servizi assistenziali nell'ambito dell'offerta integrata dei servizi sociosanitari in favore di persone non autosufficienti gia' prevista a legislazione vigente alla data di entrata in vigore del presente decreto.
 
-##### Art. 3
+#### Art. 3
 
 Ruolo del Comitato interministeriale per le politiche in favore della popolazione anziana
 
@@ -192,9 +190,9 @@ Ruolo del Comitato interministeriale per le politiche in favore della popolazion
 
 3\. Il CIPA garantisce il coordinamento e la programmazione integrata delle politiche nazionali in favore delle persone anziane, con particolare riguardo ai soggetti fragili e non autosufficienti, nonche' la rilevazione continuativa delle attivita' svolte, dei servizi erogati e delle prestazioni rese, anche avvalendosi del Sistema nazionale per la popolazione anziana non autosufficiente (SNAA), di cui all'articolo 21, per quanto di competenza.
 
-## Capo II - Misure per la prevenzione della fragilità e per la promozione della salute, dell'invecchiamento attivo delle persone anziane, della sanità preventiva e della telemedicina in favore delle persone anziane
+### Capo II - Misure per la prevenzione della fragilità e per la promozione della salute, dell'invecchiamento attivo delle persone anziane, della sanità preventiva e della telemedicina in favore delle persone anziane
 
-##### Art. 4
+#### Art. 4
 
 Misure per la prevenzione della fragilita' e la promozione della salute delle persone anziane
 
@@ -214,7 +212,7 @@ c) la conoscenza adeguata delle misure di sicurezza da adottare in ambiente dome
 
 5\. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni interessate provvedono agli adempimenti previsti dal presente articolo con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-##### Art. 5
+#### Art. 5
 
 Misure per la promozione della salute e dell'invecchiamento attivo delle persone anziane da attuare nei luoghi di lavoro
 
@@ -222,7 +220,7 @@ Misure per la promozione della salute e dell'invecchiamento attivo delle persone
 
 2\. Il datore di lavoro adotta ogni iniziativa diretta a favorire le persone anziane nello svolgimento, anche parziale, della prestazione lavorativa in modalita' agile, nel rispetto della disciplina prevista dai contratti collettivi nazionali di settore vigenti.
 
-##### Art. 6
+#### Art. 6
 
 Misure per favorire l'invecchiamento attivo mediante la promozione dell'impegno delle persone anziane in attivita' di utilita' sociale e di volontariato
 
@@ -254,13 +252,13 @@ e) iniziative volte all'accrescimento della consapevolezza circa i corretti stil
 
 5\. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni interessate provvedono agli adempimenti previsti dal presente articolo con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-##### Art. 7
+#### Art. 7
 
 Promozione della mobilita' delle persone anziane
 
 1.Al fine di facilitare l'esercizio dell'autonomia e della mobilita' delle persone anziane nei contesti urbani ed extraurbani, anche mediante il superamento degli ostacoli che impediscono l'esercizio fisico, la fruizione degli spazi verdi e le occasioni di socializzazione e di incontro, entro novanta giorni dalla data di entrata in vigore del presente decreto, con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze, previa intesa in sede di Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, sono individuati livelli di servizio funzionali all'adeguamento dei servizi di trasporto pubblico locale alle esigenze di mobilita' delle persone anziane nei contesti urbani ed extraurbani. I predetti livelli di servizio sono definiti previa ricognizione dei servizi di mobilita' attivati dalle competenti amministrazioni territoriali a supporto della mobilita' delle persone anziane, tenuto conto dei dati disponibili sulla rilevazione della domanda, sulla determinazione delle matrici di origine e destinazione e sui fabbisogni di mobilita' della popolazione di riferimento. Il decreto di cui al primo periodo individua, per i livelli di servizio relativi alla mobilita' delle persone anziane, i relativi criteri di ponderazione ai fini della determinazione della quota di cui all'articolo 27, comma 2, lettera b), del decreto-legge 24 aprile 2017, n. 50, convertito, con modificazioni, dalla legge 21 giugno 2017, n. 96.
 
-##### Art. 8
+#### Art. 8
 
 Misure volte a favorire il turismo del benessere e il turismo lento
 
@@ -280,7 +278,7 @@ f) promuove, congiuntamente al Ministero della cultura, di concerto con il Minis
 
 2\. Con uno o piu' decreti del Ministro del turismo, di concerto con i Ministri dell'economia e delle finanze, della salute, della cultura, per le disabilita', per la famiglia, la natalita' e le pari opportunita', nonche' per lo sport e i giovani, ognuno per la parte di propria competenza, sentito il CIPA, da adottare entro novanta giorni dalla data di entrata in vigore del presente decreto, sono stabilite le modalita' di attuazione delle iniziative di cui al comma 1.
 
-##### Art. 9
+#### Art. 9
 
 Misure per la promozione di strumenti di sanita' preventiva e di telemedicina presso il domicilio delle persone anziane
 
@@ -296,7 +294,7 @@ Misure per la promozione di strumenti di sanita' preventiva e di telemedicina pr
 
 6\. Le prestazioni di telemedicina di cui al presente articolo vengono svolte dalle amministrazioni interessate con le risorse umane, strumentali e finanziarie, disponibili a legislazione vigente.
 
-##### Art. 10
+#### Art. 10
 
 Valutazione multidimensionale unificata
 
@@ -304,9 +302,9 @@ in favore delle persone anziane
 
 1\. Nell'ambito dei punti unici di accesso (PUA), di cui all'articolo 1, comma 163, della legge 30 dicembre 2021, n. 234, sono assicurati alle persone anziane, l'erogazione dell'orientamento e del sostegno informativo per favorire il pieno accesso agli interventi e ai servizi sociali e sociosanitari e la possibilita' di ottenere, ove occorra, una valutazione multidimensionale unificata secondo i criteri e le modalita' di cui all'articolo 27, in funzione della individuazione dei fabbisogni di assistenza.
 
-## Capo III - Misure volte a contrastare l'isolamento e la deprivazione relazionale e affettiva delle persone anziane, nonché a promuovere il mantenimento delle capacità fisiche, intellettive e sociali
+### Capo III - Misure volte a contrastare l'isolamento e la deprivazione relazionale e affettiva delle persone anziane, nonché a promuovere il mantenimento delle capacità fisiche, intellettive e sociali
 
-##### Art. 11
+#### Art. 11
 
 Valorizzazione delle attivita' volte a promuovere l'incontro e il dialogo intergenerazionale nelle istituzioni scolastiche e nelle universita', anche mediante il riconoscimento di crediti universitari e la promozione della conoscenza del patrimonio culturale immateriale
 
@@ -324,7 +322,7 @@ Valorizzazione delle attivita' volte a promuovere l'incontro e il dialogo interg
 
 7\. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni interessate provvedono agli adempimenti previsti dal presente articolo con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-##### Art. 12
+#### Art. 12
 
 Misure per la promozione dell'attivita' fisica e sportiva nella popolazione anziana
 
@@ -336,7 +334,7 @@ Misure per la promozione dell'attivita' fisica e sportiva nella popolazione anzi
 
 4\. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
-##### Art. 13
+#### Art. 13
 
 Misure per incentivare la relazione con animali da affezione
 
@@ -350,7 +348,7 @@ Misure per incentivare la relazione con animali da affezione
 
 5\. Al fine di sostenere il benessere psicologico delle persone anziane attraverso l'interazione delle stesse con gli animali d'affezione, con decreto del Ministro della salute, da adottare entro sei mesi dalla data di entrata in vigore del presente decreto, sono individuati i requisiti reddituali delle persone anziane beneficiarie, le modalita' di donazione e distribuzione gratuita di medicinali veterinari destinati alla cura degli animali d'affezione a enti del terzo settore, di cui al decreto legislativo 3 luglio 2017, n.117, e alle strutture di raccolta e ricovero degli animali abbandonati, nonche' le modalita' di utilizzazione dei predetti medicinali da parte dei medesimi enti e strutture e i farmaci esclusi dalla donazione. Col medesimo decreto sono previsti i requisiti dei locali e delle attrezzature idonei a garantire la corretta conservazione dei medicinali veterinari oggetto di donazione e le procedure volte alla tracciabilita' dei lotti dei medicinali ricevuti e distribuiti. E' vietata qualsiasi cessione a titolo oneroso dei farmaci oggetto di donazione.
 
-##### Art. 14
+#### Art. 14
 
 Progetti di servizio civile universale a favore delle persone anziane
 
@@ -362,9 +360,9 @@ b) sviluppare e promuovere un sistema di sostegno, solidarieta' e aiuto anche al
 
 2\. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri per la finanza pubblica. Le amministrazioni interessate provvedono agli adempimenti previsti dal presente articolo con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-## Capo IV - (( Coabitazione solidale domiciliare (senior cohousing) e coabitazione intergenerazionale (cohousing intergenerazionale) ))
+### Capo IV - (( Coabitazione solidale domiciliare (senior cohousing) e coabitazione intergenerazionale (cohousing intergenerazionale) ))
 
-##### Art. 15
+#### Art. 15
 
 Linee guida in materia di senior cohousing e di cohousing intergenerazionale
 
@@ -376,7 +374,7 @@ Per la partecipazione ai lavori del CIPA di cui al primo periodo non spettano co
 
 3\. Le forme di coabitazione di cui al comma 1 sono realizzate nell'ambito di case, case-famiglia, gruppi famiglia, gruppi appartamento e condomini solidali, aperti ai familiari, ai volontari, ai prestatori esterni di servizi sanitari, sociali e sociosanitari integrativi, nonche' ad iniziative e attivita' degli enti del terzo settore di cui al decreto legislativo 3 luglio 2017, n. 117.
 
-##### Art. 16
+#### Art. 16
 
 Criteri e prescrizioni per la realizzazione di progetti di coabitazione mediante rigenerazione urbana e riuso del patrimonio costruito
 
@@ -404,7 +402,7 @@ d) disponibilita' di servizi comuni aggiuntivi ideati per favorire la socialita'
 
 e) mobilita' dei beneficiari, anche agevolando la fruizione da parte degli stessi di spazi verdi e di luoghi di socializzazione.
 
-##### Art. 17
+#### Art. 17
 
 Progetti pilota sperimentali
 
@@ -414,7 +412,7 @@ Progetti pilota sperimentali
 
 3\. Per gli interventi di rigenerazione urbana e di riuso del patrimonio costruito per la realizzazione dei progetti di coabitazione di cui ai commi 1 e 2, ai fini della selezione dei progetti pilota, gli enti proponenti fanno riferimento, in via prioritaria e se coerenti con gli obiettivi perseguiti, agli immobili a destinazione pubblica, coerentemente con le linee guida contenute nel programma nazionale pluriennale di valorizzazione e dismissione del patrimonio immobiliare pubblico, di cui all'articolo 28-quinquies, comma 2, lettera a), del decreto-legge 22 giugno 2023, n. 75, convertito, con modificazioni, dalla legge 10 agosto 2023, n. 112.
 
-##### Art. 18
+#### Art. 18
 
 Monitoraggio
 
@@ -424,9 +422,9 @@ Monitoraggio
 
 3\. Dall'attuazione del presente articolo non derivano nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni interessate provvedono agli adempimenti previsti dal presente articolo con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-## Capo V - Misure in materia di alfabetizzazione informatica e di facilitazione digitale
+### Capo V - Misure in materia di alfabetizzazione informatica e di facilitazione digitale
 
-##### Art. 19
+#### Art. 19
 
 Rete dei servizi di facilitazione digitale
 
@@ -436,7 +434,7 @@ Rete dei servizi di facilitazione digitale
 
 2\. All'attuazione del presente articolo si provvede nell'ambito delle risorse finanziarie assegnate per l'attuazione dell'intervento relativo alla Missione 1, Componente 1, Investimento 1.7, Subinvestimento 1.7.2, del PNRR, senza nuovi o maggiori oneri a carico della finanza pubblica.
 
-##### Art. 20
+#### Art. 20
 
 Percorso per le competenze trasversali e per l'orientamento per ridurre il divario digitale
 
@@ -448,11 +446,9 @@ Percorso per le competenze trasversali e per l'orientamento per ridurre il divar
 
 ## Titolo II - Disposizioni in materia di assistenza sociale, sanitaria, sociosanitaria e prestazione universale in favore delle persone anziane non autosufficienti
 
-### Capo I
+### Capo I - Riordino, semplificazione e coordinamento delle attività di assistenza sociale, sanitaria e sociosanitaria per le persone anziane non autosufficienti e valutazione multidimensionale unificata
 
-#### Riordino, semplificazione e coordinamento delle attività di assistenza sociale, sanitaria e sociosanitaria per le persone anziane non autosufficienti e valutazione multidimensionale unificata
-
-##### Art. 21
+#### Art. 21
 
 Definizione e articolazione multilivello del Sistema nazionale per la popolazione anziana non autosufficiente
 
@@ -478,7 +474,7 @@ c) a livello locale, l'ATS e il distretto sanitario.
 
 8\. Alla realizzazione della programmazione integrata concorrono le attivita' concernenti l'attuazione delle linee di intervento progettuale a valere sulla Missione 5 - Inclusione e coesione e sulla Missione 6 - Salute, unitamente a quelle concernenti la rigenerazione urbana e la mobilita' accessibile e sostenibile, del Piano nazionale di ripresa e resilienza (PNRR).
 
-##### Art. 22
+#### Art. 22
 
 Individuazione ed erogazione dei livelli essenziali
 
@@ -494,7 +490,7 @@ b) servizi sociali di sollievo per le persone anziane non autosufficienti e le l
 
 c) servizi sociali di supporto per le persone anziane non autosufficienti e le loro famiglie.
 
-##### Art. 23
+#### Art. 23
 
 Sistema di monitoraggio dei livelli essenziali
 
@@ -510,7 +506,7 @@ Con il decreto di cui al comma 1, sono definite le modalita' attuative per la me
 
 4\. Al fine di garantire l'attuazione del presente articolo, si applicano le disposizioni di cui all'articolo 1, comma 198, della legge 30 dicembre 2023, n. 213.
 
-##### Art. 24
+#### Art. 24
 
 Funzioni degli ambiti territoriali sociali
 
@@ -532,7 +528,7 @@ d) gestione del personale nelle diverse forme associative adottate.
 
 5\. Il Ministro del lavoro e delle politiche sociali, di concerto con il Ministro della salute e con il Ministro dell'economia e delle finanze, previa intesa in sede di Conferenza unificata di cui all'articolo 8 del decreto legislativo n. 281 del 1997, provvede ad adottare, entro centoventi giorni dalla data di entrata in vigore del presente decreto e ad aggiornare periodicamente, anche ai sensi dell'articolo 1, comma 161, della legge 30 dicembre 2021, n. 234, linee guida finalizzate al miglioramento delle capacita' gestionali degli ATS e all'attuazione graduale e progressiva dei LEPS nel limite delle risorse disponibili a legislazione vigente.
 
-##### Art. 25
+#### Art. 25
 
 Servizi di comunita', modelli di rete e sussidiarieta' orizzontale
 
@@ -548,13 +544,13 @@ Servizi di comunita', modelli di rete e sussidiarieta' orizzontale
 
 6\. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni interessate provvedono agli adempimenti previsti dal presente articolo con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-##### Art. 26
+#### Art. 26
 
 Integrazione tra servizi sanitari, sociosanitari e sociali
 
 1\. Al fine di garantire la realizzazione integrata dei LEPS e LEA per le attivita' sociosanitarie e sociali, anche in coerenza con il Piano nazionale per la non autosufficienza per il triennio 2022-2024, in conformita' con quanto previsto dall'articolo 21, comma 2, lettere b) e c), gli ATS, le aziende sanitarie e i distretti sanitari, ciascuno per le proprie funzioni e competenze, sulla base della programmazione regionale integrata e in coerenza con quanto previsto dal Piano nazionale per l'assistenza e la cura della fragilita' e della non autosufficienza nella popolazione anziana, di cui all'articolo 2, comma 3, lettera a), della legge 23 marzo 2023, n. 33, e dal decreto del Presidente del Consiglio dei ministri 12 gennaio 2017, pubblicato nella Gazzetta Ufficiale n. 65 del 18 marzo 2017, Supplemento ordinario n. 15, provvedono a regolare, attraverso accordi di collaborazione organizzativi, le funzioni di erogazione delle prestazioni, degli interventi e dei servizi per le persone anziane non autosufficienti, assicurando l'effettiva integrazione operativa dei processi, secondo le previsioni dell'articolo 1, comma 163, della legge della legge 30 dicembre 2021, n. 234, in coerenza con i principi di cui alla legge 23 dicembre 1978, n. 833, al decreto legislativo 30 dicembre 1992, n. 502, e alla legge 8 novembre 2000, n. 328.
 
-##### Art. 27
+#### Art. 27
 
 Valutazione multidimensionale unificata
 
@@ -620,7 +616,7 @@ b) le risorse derivanti dal trasferimento alle regioni e agli enti locali delle 
 
 19\. Il budget di cura e assistenza, in relazione alla eventuale rimodulazione degli interventi previsti nel PAI effettuata nell'ambito del monitoraggio periodico di cui al comma 14, e' aggiornabile, anche in via d'urgenza, in funzione di esigenze indifferibili clinico-assistenziali della persona anziana.
 
-##### Art. 28
+#### Art. 28
 
 Attivita' dei punti unici di accesso e piattaforma digitale
 
@@ -646,7 +642,7 @@ d) relative alle eventuali cartelle sociali presso gli enti locali secondo quant
 
 7\. Nelle more della piena attuazione delle procedure previste dall'articolo 27 e dal presente articolo, e comunque ((non oltre la data del 31 dicembre 2027, anche nei territori interessati dalla fase sperimentale della riforma di cui al decreto legislativo 3 maggio 2024, n. 62)), continuano ad applicarsi le norme e le procedure vigenti per l'accesso alle misure e ai provvedimenti di competenza statale di cui al presente decreto e alle leggi 5 febbraio 1992, n. 104, 30 marzo 1971, n. 118, e 11 febbraio 1980, n. 18.
 
-##### Art. 29
+#### Art. 29
 
 Misure per garantire un'offerta integrata
 
@@ -666,7 +662,7 @@ L'assistenza domiciliare sociale rappresenta, ai sensi del Piano nazionale per l
 
 6\. In coerenza con la programmazione degli interventi delle Missioni 5 e 6 del PNRR, concorrono agli obiettivi di cui al comma 3 le misure di rigenerazione urbana, di mobilita' accessibile e sostenibile e quelle del ricorso alle soluzioni abitative indicate dall'articolo 3, comma 2, lettera a), della legge 23 marzo 2023, n. 33, quali: nuove forme di coabitazione solidale delle persone anziane, rafforzamento degli interventi delle reti di prossimita' intergenerazionale e tra persone anziane, interventi di adattamento dell'abitazione alle esigenze della persona con soluzioni domotiche e tecnologiche che favoriscano la continuita' delle relazioni personali e sociali a domicilio, compresi i servizi di telesoccorso e teleassistenza.
 
-##### Art. 30
+#### Art. 30
 
 Servizi residenziali, semiresidenziali e diurni socioassistenziali
 
@@ -678,7 +674,7 @@ Servizi residenziali, semiresidenziali e diurni socioassistenziali
 
 4\. All'attuazione del presente articolo si provvede a valere sulle risorse del Fondo politiche sociali di cui all'articolo 20 della legge 8 novembre 2000, 328, nei limiti delle risorse disponibili.
 
-##### Art. 31
+#### Art. 31
 
 Servizi residenziali e semiresidenziali sociosanitari
 
@@ -704,7 +700,7 @@ c) all'attitudine della struttura a contenere al proprio interno piu' nuclei abi
 
 d) alla dotazione da parte della struttura di soluzioni tecnologiche finalizzate a garantire la sicurezza del lavoro di cura e delle persone accolte, anche tramite l'implementazione graduale di sistemi di videosorveglianza nei limiti di quanto previsto dalla normativa del lavoro e dal diritto alla riservatezza della persone e della copertura finanziaria a legislazione vigente, nonche' di soluzioni di tecnologia assistenziale volte a favorire l'erogazione di prestazioni sanitarie di telemedicina, televisita, teleconsulto e telemonitoraggio, secondo le vigenti indicazioni di livello nazionale e in coerenza con il sistema di monitoraggio, valutazione e controllo introdotto dall'articolo 15 della legge 5 agosto 2022, n. 118.
 
-##### Art. 32
+#### Art. 32
 
 Misure per garantire l'accesso alle cure palliative
 
@@ -724,7 +720,7 @@ d) nelle strutture residenziali sociosanitarie e negli hospice.
 
 4\. A favore della persona anziana affetta da una patologia cronica e invalidante o caratterizzata da inarrestabile evoluzione con prognosi infausta, puo' essere realizzata una pianificazione delle cure condivisa tra il paziente e il medico, alla quale il medico e l'equipe sanitaria sono tenuti ad attenersi qualora il paziente venga a trovarsi nella condizione di non poter esprimere il proprio consenso o in una condizione di incapacita', ai sensi della legge 22 dicembre 2017, n. 219.
 
-##### Art. 33
+#### Art. 33
 
 Interventi per le persone con disabilita'
 
@@ -738,11 +734,9 @@ divenute anziane. Principio di continuita'
 
 In tale caso viene direttamente redatto il PAI che integra il progetto di vita individuale, partecipato e personalizzato di cui all'articolo 2, comma 2, lettera c), della legge 22 dicembre 2021, n. 227, se gia' esistente, e si predispone il budget di cura e di assistenza, in coerenza con il budget del progetto di vita, ove gia' predisposto.
 
-## Capo II - Disposizioni in materia di prestazione universale, agevolazioni contributive,
+### Capo II - Disposizioni in materia di prestazione universale, agevolazioni contributive, fiscali e caregiver familiari
 
-### fiscali e caregiver familiari
-
-##### Art. 34
+#### Art. 34
 
 Prestazione universale
 
@@ -754,7 +748,7 @@ Prestazione universale
 
 4\. Con uno o piu' decreti del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, sentito l'INPS e previa intesa in sede di Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, sono stabilite, entro novanta giorni dalla data di entrata in vigore del presente decreto, le modalita' attuative e operative della prestazione universale, dei relativi controlli e della eventuale revoca, nonche' le connesse attivita' preparatorie e organizzative, anche a carattere informativo, da espletarsi entro il 31 dicembre 2024. Dall'attuazione delle disposizioni di cui al presente comma non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
-##### Art. 35
+#### Art. 35
 
 Beneficiari e opzione
 
@@ -772,7 +766,7 @@ d) titolarita' dell'indennita' di accompagnamento di cui all'articolo 1, primo c
 
 3\. L'opzione di cui al comma 2, a domanda, puo' essere revocata in qualsiasi momento, con conseguente ripristino dell'indennita' di accompagnamento di cui all'articolo 1 della legge 11 febbraio 1980, n. 18, e delle ulteriori prestazioni di cui all'articolo 1, comma 164, della legge 30 dicembre 2021, n. 234, per i soggetti gia' titolari delle stesse prima dell'opzione.
 
-##### Art. 36
+#### Art. 36
 
 Oggetto del beneficio
 
@@ -796,7 +790,7 @@ Qualora dal monitoraggio emerga il verificarsi di scostamenti, anche in via pros
 
 7\. Alle attivita' amministrative derivanti dall'attuazione dal presente articolo, l'INPS provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-##### Art. 37
+#### Art. 37
 
 Ricognizione delle agevolazioni contributive e fiscali
 
@@ -810,7 +804,7 @@ c) l'articolo 51, comma 2, lettera f-ter), del TUIR che stabilisce che non conco
 
 d) l'articolo 51, comma 2, lettera f-quater), del TUIR che prevede che non concorrono a formare il reddito del lavoratore dipendente i contributi e i premi versati dal datore di lavoro a favore della generalita' dei dipendenti o di categorie di dipendenti per prestazioni, anche assicurative, aventi per oggetto il rischio di non autosufficienza nel compimento degli atti della vita quotidiana o aventi per oggetto il rischio di gravi patologie.
 
-##### Art. 38
+#### Art. 38
 
 Definizione degli standard formativi e formazione del personale addetto all'assistenza e al supporto delle persone anziane non autosufficienti
 
@@ -824,7 +818,7 @@ Definizione degli standard formativi e formazione del personale addetto all'assi
 
 5\. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
-##### Art. 39
+#### Art. 39
 
 Caregiver familiari
 
@@ -854,19 +848,19 @@ Caregiver familiari
 
 13\. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
-##### Art. 40
+#### Art. 40
 
 Ambito di applicazione del titolo II
 
 1\. Le disposizioni di cui al titolo II, fermo restando quanto previsto dagli articoli 33, commi 1 e 2, 34, 35 e 36, si applicano alle persone che abbiano compiuto 70 anni.
 
-##### Art. 41
+#### Art. 41
 
 Clausola di salvaguardia
 
 1\. Le disposizioni del presente decreto sono applicabili nelle regioni a statuto speciale e nelle province autonome di Trento e di Bolzano compatibilmente con i rispettivi statuti e le relative norme di attuazione, anche con riferimento alla legge costituzionale 18 ottobre 2001, n. 3.
 
-##### Art. 42
+#### Art. 42
 
 Disposizioni finanziarie
 
@@ -878,7 +872,7 @@ b) quanto a 125 milioni di euro per l'anno 2025 e 125 milioni di euro per l'anno
 
 c) quanto a 50 milioni di euro per l'anno 2025 e 50 milioni di euro per l'anno 2026 a valere sulle disponibilita' della Missione 5 del PNRR.
 
-##### Art. 43
+#### Art. 43
 
 Entrata in vigore
 

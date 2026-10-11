@@ -34,11 +34,9 @@ Noi abbiamo sanzionato e promulghiamo quanto segue:
 
 ## TITOLO I - COSTITUZIONE DELLA CASSA DI PREVIDENZA E CONTRIBUTI
 
-### CAPO
+### CAPO I - COSTITUZIONE DELLA CASSA
 
-#### I - COSTITUZIONE DELLA CASSA
-
-##### Art. 1
+#### Art. 1
 
 La Cassa di previdenza per le pensioni ai salariati degli Enti locali ha personalita' giuridica, ed ha sede in Roma. Essa provvede alle pensioni e alle indennita' dei salariati dei Comuni, delle Amministrazioni provinciali, delle Istituzioni pubbliche di beneficenza, delle Aziende speciali per l'impianto e l'esercizio dei servizi municipalizzati, nonche' degli altri Enti ai quali siano estese le disposizioni sulla Cassa.
 
@@ -50,11 +48,11 @@ Per gli effetti delle imposte, delle tasse e degli altri diritti stabiliti dalle
 
 Le spese di amministrazione sono a carico della Cassa di previdenza.
 
-##### Art. 2
+#### Art. 2
 
 Spetta alla Commissione di vigilanza sull'amministrazione della Cassa depositi e prestiti e degli Istituti di previdenza l'approvazione del rendiconto consuntivo della Cassa di previdenza per le pensioni ai salariati degli Enti locali, il quale, parificato dalla Corte dei conti, viene presentato alle Assemblee Legislative in allegato alla. relazione della Commissione medesima, entro l'anno successivo a quello cui il rendiconto si riferisce.
 
-##### Art. 3
+#### Art. 3
 
 Il patrimonio netto della Cassa di previdenza e' ripartito:
 
@@ -64,7 +62,7 @@ Il patrimonio netto della Cassa di previdenza e' ripartito:
 
 3\) in un fondo di utili da costituirsi a vantaggio degli iscritti alla Cassa, quando sia raggiunto il limite massimo della riserva di garanzia.
 
-##### Art. 4
+#### Art. 4
 
 Le entrate della Cassa sono costituite:
 
@@ -82,9 +80,9 @@ f) dai lasciti, dalle donazioni e da qualsiasi altro proventostraordinario;
 
 g) dagli interessi sulle attivita' della Cassa.
 
-## CAPO II - ISCRIZIONI OBBLIGATORIE E FACOLTATIVE
+### CAPO II - ISCRIZIONI OBBLIGATORIE E FACOLTATIVE
 
-##### Art. 5
+#### Art. 5
 
 La iscrizione alla Cassa e' obbligatoria per i salariati degli Enti contemplati dal precedente articolo 1 che percepiscano un salario annuo non minore di lire trecento, anche se corrisposto da due o piu' di detti Enti, e che siano stati assunti per la prima volta in posti stabiliti per legge o per organico, rispettivamente dalle date in appresso indicate:
 
@@ -132,11 +130,11 @@ Rimangono fermi, anche nei riguardi delle predette categorie, i disposti di cui 
 
 La norma di cui al precedente comma ha valore di interpretazione autentica".
 
-##### Art.6
+#### Art.6
 
 Agli Enti comunali di assistenza istituiti con la legge 3 giugno 1937-1V, n. 847, e ai rispettivi salariati, sono applicabili le disposizioni stabilite dal presente Ordinamento per le Istituzioni pubbliche di assistenza e beneficenza e per i loro salariati.
 
-##### Art. 7
+#### Art. 7
 
 L'iscrizione alla Cassa e' obbligatoria per il personale di servizio di ruolo degli Istituti musicali pareggiati:
 
@@ -146,27 +144,27 @@ b) dal 21 settembre 1932-X per gli Istituti gia' pareggiati al 15 maggio 1930-VI
 
 E' esentato dall'obbligo della iscrizione il personale di cui al primo comma del presente articolo che alle date sopraindicate fosse eventualmente iscritto a regolamenti o convenzioni speciali di pensione in vigore presso gli Istituti dianzi indicati, o assicurato agli Istituti indicati nel secondo comma del successivo art. 10.
 
-##### Art. 8
+#### Art. 8
 
 L'iscrizione alla Cassa e' facoltativa per i salariati di ciascuna delle categorie comprese nel precedente art. 5 con servizi anteriori alle date rispettivamente ivi indicate, e per quelli assunti posteriormente, i cui salari annui, anche se corrisposti da due o piu' Enti, non raggiungano la somma di lire trecento. I personali con salario inferiore a lire trecento, iscrivendosi, debbono versare alla Cassa, oltre al proprio, anche il contributo dell'Ente, a meno che questo se ne assuma volontapiamente l'onere.
 
-##### Art. 9
+#### Art. 9
 
 Per i salariati dell'Istituto nazionale fascista per l'assistenza dei dipendenti degli Enti locali indicati alla lettera d) del precedente art. 5, l'iscrizione decorre da data non anteriore al 1° giugno 1934-XII e non e' obbligatoria per quelli che al26 aprile 1934-XII avevano raggiunto l'eta' di anni 40.
 
-##### Art. 10
+#### Art. 10
 
 L'iscrizione alla Cassa non e' obbligatoria per i salariati di cui alla lettera a) del precedente art. 5, iscritti da data anteriore al 1° luglio 1926-1V a regolamenti o convenzioni speciali per le pensioni in vigore al 1° gennaio 1916, fatta eccezione per i salariati delle Aziende municipalizzate.
 
 Sono anche considerati a tutti gli effetti come iscritti a regolamenti o convenzioni speciali per le pensioni, i salariati di cui al comma precedente, i quali da data anteriore al 1° gennaio 1916 siano iscritti o assicurati, col concorso dell'Ente, all'Istituto Nazionale Fascista della previdenza sociale, all'Istituto Nazionale delle assicurazioni, o ad altri Istituti assicurativi.
 
-##### Art. 11
+#### Art. 11
 
 L'iscrizione alla Cassa non e' obbligatoria per i salariati di cui alle lettere b) e c) del precedente art. 5 iscritti a regolamenti o convenzioni speciali per le pensioni gia' vigenti rispettivamente al 1° luglio 1924-II, ed al 22 aprile 1925-III, oppure entrati in vigore anteriormente al 7 maggio 1926-IV, finche' tali regolamenti o convenzioni non siano abrogati, fatta eccezione per i salariati delle Aziende dei servizi municipalizzati.
 
 Sono anche considerati a tutti gli effetti come iscritti a regolamenti o convenzioni speciali per le pensioni i salariati di cui al comma precedente iscritti o assicurati, col concorso dell'Ente, a Casse, Istituti o Fondi speciali che provvedono al trattamento di quiescenza e che abbiano sede nei territori indicati alle lettere suindicate.
 
-##### Art. 12
+#### Art. 12
 
 I salariati iscritti ai regolamenti o convenzioni speciali per le pensioni o alle Casse, Istituti e Fondi speciali di cui ai precendenti articoli 7, 10 e 11 hanno facolta' di domandare di essere iscritti alla Cassa di previdenza, cessando la loro iscrizione ai regolamenti, convenzioni, Casse, Istituti e Fondi predetti.
 
@@ -176,17 +174,17 @@ Gli Enti hanno facolta' di chiedere l'iscrizione alla Cassa, anche dei propri sa
 
 Quando i salariati siano iscritti alla Cassa di previdenza, gli Enti sono tenuti al pagamento del contributo di cui al successivo art. 23.
 
-##### Art. 13
+#### Art. 13
 
 L'iscrizione non e' obbligatoria per i salariati di cui alla lettera e) dell'art. 5, per i quali, anteriomente alla pubblicazione del presente Ordinamento, sia stato assicurato, col concorso dell'Ente, un trattamento di quiescenza o di assicurazione con regolamento o convenzione speciale. Per tali salariati e' anche applicabile il precedente art. 12.
 
-##### Art. 14
+#### Art. 14
 
 Le Istituzioni pubbliche di assistenza e beneficenza le quali da sole o, se dipendenti da una stessa amministrazione, complessivamente, non raggiungano un importo di entrate effettive ordinarie di almeno lire venticinquemila, non sono obbligate ad iscrivere alla Cassa i propri salariati, ne' a corrispondere il contributo annuale di cui al successivo art. 23.
 
 I salariati di dette Istituzioni hanno facolta' di iscriversi alla Cassa corrispondendo, oltre al proprio, anche il contributo che farebbe carico all'Ente, a meno che questo se ne assuma volontariamente l'onere.
 
-##### Art. 15
+#### Art. 15
 
 Le Istituzioni pubbliche di assistenza e beneficenza contemplate dall'articolo precedente non possono assumere l'onere di alcun contributo alla Cassa se non siano autorizzate dalla Giunta provinciale amministrativa.
 
@@ -194,17 +192,17 @@ Tale autorizzazione e' pure necessaria nei casi contemplati dall'ultima parte de
 
 17\.
 
-##### Art. 16
+#### Art. 16
 
 Le Istituzioni pubbliche di assistenza e beneficenza le quali da sole o, se dipendenti da una stessa amministrazione, complessivamente raggiungano un importo di entrate effettive ordinarie di almeno lire venticinqueinila ed i Monti di credito su pegno di la categoria, nonche' gli Istituti di cui alla lettera .f) dell'art. 5 sono esonerati dal contributo alla Cassa per i posti vacanti o coperti da titolari non iscritti alla Cassa medesima.
 
-##### Art. 17
+#### Art. 17
 
 Gli Enti indicati nel precedente art. 16 sono esonerati da ogni contributo per i loro salariati in servizio gia' provvisti di pensione, che non sia di guerra ne' privilegiata ordinaria, o che appartengano a quelle categorie per le quali leggi o regolamenti prevedano un trattamento di quiescenza obbligatorio o facoltativo.
 
 I salariati anzidetti possono iscriversi alla Cassa di previdenza nella loro qualita' di dipendenti degli Enti predetti, corrispondendo, oltre al proprio, anche il contributo dell'Ente, a meno che quest'ultimo se ne assuma volontariamente l'onere.
 
-##### Art. 18
+#### Art. 18
 
 I salariati iscritti alla Cassa di previdenza addetti ai servizi comunali delle imposte di consumo, che, per effetto della cessione in appalto della relativa riscossione, passino al servizio temporaneo dell'appaltatore, restano iscritti alla Cassa, continuando a carico dei Comuni, con rivalsa sull'appaltatore, e dei salariati l'onere dei rispettivi contributi.
 
@@ -222,7 +220,7 @@ AGGIORNAMENTO (2)
 
 La L. 24 maggio 1952, n. 610 ha disposto (con l'art. 23, comma 1) che e' abolito il termine di un anno previsto dal presente articolo, comma terzo.
 
-##### Art. 19
+#### Art. 19
 
 I salariati iscritti alla Cassa di previdenza che siano assunti presso Consorzi di bonifica o idraulici aventi carattere di pubblica amministrazione, non contemplati nel precedente articolo 5, lettera e), e che siano adibiti a servizi di carattere permanente, anche se l'assunzione sia fatta a tempo determinato o a titolo di supplenza, hanno la facolta' di rimaneree iscritti o di essere reiscritti alla Cassa durante tale servizio corrispondendo i contributi personali, purche' ne facciano domanda entro un anno dalla data di assunzione in servizio presso i Consorzi predetti, ovvero entro un anno dalla pubblicazione del presente Ordinamento, se l'assunzione abbia avuto luogo anteriormente. In quest'ultimo caso la reiscrizione non puo' retrodatarsi per piu' di un anno dalla data di presentazione della domanda alla Prefettura o alla Cassa di previdenza.((2))
 
@@ -236,7 +234,7 @@ AGGIORNAMENTO (2)
 
 La L. 24 maggio 1952, n. 610 ha disposto (con l'art. 23, comma 1) che e' abolito il termine di un anno previsto dal presente articolo, comma primo.
 
-##### Art. 20
+#### Art. 20
 
 I salariati iscritti alla Cassa, i quali, per effetto del trasferimento dell'Azienda municipalizzata o del servizio gia' tenuto in gestione diretta dagli Enti, passino alla dipendenza di privati o di Enti non iscrivibili alla Cassa, hanno la facolta' di restare iscritti fino a che rimangano adibiti al medesimo servizio, sottoponendosi al pagamento del contributo proprio e di quello dell'Ente, da commisurarsi sulla retribuzione annua percepita presso gli Enti pubblici predetti all'atto del trasferimento e da versarsi direttamente ed in unica soluzione alle Sezioni di Regia Tesoreria provinciale entro il 31 dicembre dell'anno cui il contributo si riferisce. Sui contributi versati oltre detto termine sono dovuti gli interessi di mora al saggio legale.
 
@@ -262,7 +260,7 @@ AGGIORNAMENTO (2)
 
 La L. 24 maggio 1952, n. 610 ha disposto (con l'art. 23, comma 1) che e' abolito il termine di un anno previsto dal presente articolo, comma quarto.
 
-##### Art. 21
+#### Art. 21
 
 Per i salariati non obbligati all'iscrizione alla Cassa o comunque non iscrittivi facoltativamente od ai quali non sia assicurato un trattamento di quiescenza o di assicurazione con regolamento o convenzione speciale, valgono le norme del R. decreto-legge 4 ottobre 1935-XIII, n. 1827, convertito nella legge 6 aprile 1936-XIV, n. 1155 e successive modificazioni.
 
@@ -270,9 +268,9 @@ L'iscrizione facoltativa alla Cassa a carico dell'Ente e del salariato e' irrevo
 
 Salvo disposizioni speciali, l'iscrizione facoltativa ha effetto dal primo del mese successivo alla presentazione della relativa domanda alla Prefettura o alla Cassa di previdenza. Qualora il salariato siasi iscritto facoltativamente, con la corresponsione a proprio carico anche del contributo dell'Ente, potra' recedere dall'iscrizione, con diritto, ove abbia compiuto il periodo minimo rispettivamente prescritto, a conseguire l'indennita' o la pensione ai sensi dei successivi articoli:31 lettera a) e 32 lettera a). Il recesso ha effetto dal primo del mese successivo alla presentazione della relativa domanda alla Prefettura o alla Cassa di previdenza.
 
-## CAPO III - CONTRIBUTO
+### CAPO III - CONTRIBUTO
 
-##### Art. 22
+#### Art. 22
 
 Il contributo annuale a carico dei salariati iscritti alla Cassa e' fissato nella misura dell'otto per cento delle retribuzioni.
 
@@ -282,7 +280,7 @@ Quando nell'ammontare complessivo della retribuzione annua su cui va calcolato i
 
 Le variazioni di retribuzione che il salariato consegua nel corso dell'anno si considerano, ai fini del contributo, aventi decorrenza dal 1° gennaio successivo, salvo che esse dipendano da passaggio ad altro Ente.
 
-##### Art. 23
+#### Art. 23
 
 Il contributo annuale a carico degli Enti e' fissato nella misura del nove per cento delle retribuzioni corrisposte ai salariati iscritti e a quelli delle categorie comprese nel precedente art. 5, con servizi anteriori alle date rispettivamente ivi indicate, che non si siano avvalsi della facolta' di iscrizione alla Cassa, salvo quanto e' disposto per le Istituzioni pubbliche di assistenza e beneficenza e per i Monti di credito su pegno di prima categoria, dai precedenti articoli da 14 a 17 e ferme restando le disposizioni dell'art. 137 del R. decreto-legge 4 ottobre 1935-XIII, n. 1827.
 
@@ -296,11 +294,11 @@ Per i salariati in aspettativa per motivi di salute e per quelli in disponibilit
 
 Agli effetti del contributo il posto coperto dal salariato in aspettativa per motivi di famiglia o in sospensione dal servizio si considera vacante, salvo che a supplire il salariato stesso sia assunto altro salariato che per detta supplenza venga assoggettato all'iscrizione.
 
-##### Art. 24
+#### Art. 24
 
 In caso di servizio prestato da un salariato simultaneamente presso due o piu' degli Enti di cui ai precedenti articoli, i contributi, tanto per i salariati quanto per gli Enti, sono dovuti in ragione delle retribuzioni rispettivamente corrisposte al salariato medesimo da ciascun Ente.
 
-##### Art. 25
+#### Art. 25
 
 I salariati o altri a loro favore possono fare depositi volontari, da accreditarsi in appositi conti individuali, insieme con i rispettivi interessi annuali, valutati al saggio delle tabelle di liquidazione degli assegni di quiescenza dovuti dalla Cassa di previdenza.
 
@@ -308,7 +306,7 @@ Il capitale formato coi depositi volontari e' liquidato al titolare ovvero agli 
 
 Il titolare' al quale venga conferita una pensione puo' chiedere che il capitale costituito coi depositi volontari, o parte di esso, sia trasformato in assegno vitalizio supplementare, esente dalla ritenuta di cui al successivo articolo 29 e non riversibile alla vedova o agli orfani.
 
-##### Art. 26
+#### Art. 26
 
 Gli Enti di cui ai precedenti articoli debbono comunicare alla Prefettura entro il mese di gennaio di ogni anno l'elenco dei posti di salariato, dei rispettivi titolari e delle retribuzioni stabilite per l'anno in corso, anche in caso di vacanza del posto. Debbono inoltre comunicare l'elenco dei salariati che si trovino nelle condizioni di cui all'ultimo comma dell'art. 5 con l'indicazione delle relative retribuzioni previste per l'anno in corso. Negli stessi elenchi debbono inoltre essere fatte risultare le variazioni avvenute durante l'anno precedente in confronto della situazione gia' denunziata nel gennaio di tale anno.
 
@@ -340,7 +338,7 @@ Il personale permanente dei sottufficiali, vigili scelti e vigili del Corpo nazi
 
 Sui contributi non versati entro la prescritta scadenza decorrono a favore della Cassa gli interessi in ragione del sei per cento annuo, da esigersi con la procedura stabilita per la riscossione dei contributi.
 
-##### Art. 27
+#### Art. 27
 
 I ricorsi concernenti la iscrizione alla Cassa di previdenza e l'imposizione dei contributi debbono essere presentati, a pena di decadenza, alla Direzione generale della. Cassa depositi e prestiti e degli Istituti di previdenza, dai salariati, non oltre la cessazione definitiva dal servizio, e dagli Enti, non oltre il secondo anno successivo a quelli dell'emissione del ruolo.
 
@@ -350,7 +348,7 @@ Il ricorso non sospende l'obbligo del versamento dei contributi.
 
 Il Ministro per l'interno, sentita la Direzione generale della Cassa depositi e prestiti e degli Istituti di previdenza, decide con provvedimento definitivo, contro il quale e' ammesso il ricorso al Consiglio di Stato in via giurisdizionale o quello in via straordinaria al Re e Imperatore.
 
-##### Art. 28
+#### Art. 28
 
 Se l'Amministrazione del Comune o della Provincia non abbia eseguito, in tutto o in parte, nei termini di cui al precedente articolo 26, il pagamento delle somme dovue alla Cassa, l'esattore comunale o il ricevitore provinciale, su ordine dell'Intendenza di finanza, ne ritiene l'ammontare nel versamento della prima rata bimestrale successiva della sovrimposta, o, in difetto di questa, della prima rata degli altri proventi la cui riscossione sia a lui affidata e effettua il pagamento a favore della Cassa entro i dieci giorni successivi.
 
@@ -370,7 +368,7 @@ In tale caso i salariati hanno diritto di ottenere il rimborso dei contributi pe
 
 Le Istituzioni pubbliche di assistenza e beneficenza, le Aziende speciali e gli altri Enti, che hanno un tesoriere o cassiere speciale, debbono stabilire, nei relativi capitolati, la clausola di decadenza per il caso di mancato versamento dei contributi alla Cassa di previdenza.
 
-##### Art. 29
+#### Art. 29
 
 Le pensioni dirette liquidate dalla Cassa di previdenza sono soggette alla ritenuta del due per cento a favore della Cassa stessa.
 
@@ -386,9 +384,9 @@ La L. 11 aprile 1955, n. 379 ha disposto (con l'art. 32, comma 2) che "La ritenu
 
 Ha inoltre disposto (con l'art. 50, comma 1) che la presente modifica ha effetto dal 31 dicembre 1953.
 
-## CAPO IV - IMPIEGO DEI FONDI DELLA CASSA DI PREVIDENZA
+### CAPO IV - IMPIEGO DEI FONDI DELLA CASSA DI PREVIDENZA
 
-##### Art. 30
+#### Art. 30
 
 La Cassa depositi e prestiti riscuote le entrate della Cassa di previdenza per collocarle in impiego fruttifero a favore dell'Istituto.
 
@@ -398,11 +396,9 @@ I fondi sono impiegati nel piu' breve termine possibile e nel migliore interesse
 
 ## TITOLO II - INDENNITA' E PENSIONI
 
-### CAPO I
+### CAPO I - ACQUISTO E PERDITA DEL DIRITTO A INDENNITA' O PENSIONE
 
-#### ACQUISTO E PERDITA DEL - DIRITTO A INDENNITA' O PENSIONE
-
-##### Art. 31
+#### Art. 31
 
 Ha diritto di conseguire l'indennita' per una sola volta il salariato iscritto alla Cassa di previdenza, che dopo dieci anni e prima di venti anni di servizio utile:
 
@@ -426,7 +422,7 @@ Agli effetti del presente Ordinamento il salariato mantenuto nell'esercizio dell
 
 L'indennita' e' uguale ai quattro quinti del valore capitale, calcolato mediante l'applicazione della tabella B annessa al presente Ordinamento, della pensione teorica determinata in base alle disposizioni dei primi tre commi del successivo art. 33.
 
-##### Art. 32
+#### Art. 32
 
 Ha diritto di conseguire la pensione diretta il salariato iscritto alla Cassa di previdenza:
 
@@ -444,7 +440,7 @@ Agli effetti della precedente lettera d) si considerano, rispettivamente, avvenu
 
 La pensione di cui alla lettera d) deve essere richiesta nel termine perentorio di tre anni dalla cessazione del rapporto di servizio.
 
-##### Art. 33
+#### Art. 33
 
 La pensione diretta e' liquidata in base alle retribuzioni con le quali i salariati risultano iscritti negli elenchi dei contributi, mediante l'applicazione della tabella A annessa al presente Ordinamento e secondo le norme in essa indicate. Quando, per qualsiasi motivo, sia stata omessa l'iscrizione, o non risulti che siano stati assoggettati a contributo anche gli assegni in natura, o gli emolumenti dati in sostituzione di detti assegni, sono valutati, nel primo caso, le retribuzioni effettivamente godute, e, nel secondo caso, in aggiunta al salario gia' assoggettato a contributo, il valore degli assegni in natura e gli emolumenti dati in sostituzione, provvedendo al recupero dei relativi contributi.((2))
 
@@ -470,13 +466,13 @@ AGGIORNAMENTO (2)
 
 La L. 24 maggio 1952, n. 610 ha disposto (con l'art. 29, comma 1) che "A modifica di quanto disposto dal primo comma dell'art. 33 della legge 25 luglio 1941, n. 934. per le cessazioni dal servizio a partire dalla data di entrata in vigore della presente legge e relativamente alle retribuzioni decorrenti dal 1 gennaio 1950 in poi, la pensione e' liquidata in base alle retribuzioni ed agli altri assegni soggetti a contributo di cui al secondo comma dell'art. 22 della citata legge n. 934".
 
-##### Art. 34
+#### Art. 34
 
 Per la determinazione degli anni di servizio e dell'eta' dei salariati, quando risulti una frazione di anno, il periodo che eccede sei mesi e' calcolato per un anno intero, altrimenti si trascura.
 
 La disposizione del precedente comma non si applica per la determinazione del periodo minimo quinquennale d'iscrizione.
 
-##### Art. 35
+#### Art. 35
 
 Per l'ammissione al diritto ad indennita', o pensione del salariato cessato dal rapporto di servizio per inabilita' fisica, la Cassa ha facolta' di disporre l'accertamento dell'inabilita' mediante visita medica collegiale, da eseguirsi con le norme stabilite dal regolamento.
 
@@ -484,7 +480,7 @@ Con le stesse norme si procede alla visita medica nei casi previsti dalla letter
 
 La spesa della visita medica e' a carico del salariato.
 
-##### Art. 36
+#### Art. 36
 
 La vedova del salariato iscritto alla Cassa, coniugato prima della cessazione del rapporto di servizio, ha diritto all'indennita' se il salariato muore in attivita' di servizio, o entro un triennio dalla cessazione di esso, dopo 5 anni compiuti e prima di 20 anni di servizio utile, purche' il matrimonio sia stato contratto prima che il salariato avesse compiuto i 50 anni di eta' o almeno due anni prima della cessazione dal rapporto di servizio, ovvero dal matrimonio sia nata prole benche' postuma. Non ha diritto indennita' la vedova che alla morte del salariato ne era separata legalmente per sentenza passata in giudicato pronunciata per di lei colpa.
 
@@ -496,7 +492,7 @@ Allorquando sia fatto constare che gli interessi di tutti o di qualcuno degli or
 
 Gli orfani di salariata hanno diritto all'indennita' anche se hanno il padre vivente. Gli orfani di padre e di madre ambedue salariati hanno diritto ai due distinti trattamenti di riversibilita' previsti, secondo i casi, dal presente articolo e dal seguente art. 37.
 
-##### Art. 37
+#### Art. 37
 
 La vedova, nei riguardi del cui matrimonio con il salariato iscritto alla Cassa si verifichino le condizioni indicate Del primo comma del precedente art. 36, e che alla morte del salariato non ne sia separata legalmente per sentenza passata in giudicato pronunciata per di lei colpa, ha diritto di conseguire la pensione indiretta:
 
@@ -514,7 +510,7 @@ Quando ricorrano le condizioni previste dal comma quarto del precedente art. 36 
 
 Gli orfani di salariata hanno diritto alla pensione anche se abbiano il padre vivente.
 
-##### Art. 38
+#### Art. 38
 
 La misura della pensione indiretta e' stabilita in una quota percentuale della pensione dovuta all'iscritto, nei casi di cui alla lettera c) dell'articolo precedente, o di quella che gli sarebbe spettata per inabilita' non dipendente dal servizio, nei casi di cui alle lettere a) e b) dell'articolo stesso, come appresso:
 
@@ -536,7 +532,7 @@ Al diminuire del numero dei compartecipi la misura della pensione e' variata in 
 
 La misura della pensione liquidata alla vedova, con o senza prole, o agli orfani, non puo' essere inferiore a lire milleduecento, purche' non superi l'importo delle retribuzioni utili a pensione godute dal salariato nell'ultimo anno di servizio, ferma l'applicazione dell'ultimo comma dell'art. 33.
 
-##### Art. 39
+#### Art. 39
 
 La vedova dell'iscritto alla Cassa non separata legalmente dal marito per sentenza passata in giudicato, pronunziata per di lei colpa, quando l'iscritto sia morto in conseguenza di uno degli eventi di servizio considerati nella lettera d) del precedente art. 32, avveratosi dopo il matrimonio, ha diritto alla pensione indiretta, qualunque sia la durata dei servizi prestati dall'iscritto, in misura eguale a quella che sarebbe spettata o che fu liquidata al salariato.
 
@@ -550,17 +546,17 @@ La domanda per il conseguimento della pensione di cui nei commi precedenti deve 
 
 La vedova del salariato il quale abbia conseguito il diritto alla pensione di cui alla lettera d) dell'art. 32, qualora non le competa la pensione di cui al primo comma del presente articolo, ha diritto alla riversibilita' della pensione del marito alle condizioni e nelle proporzioni stabilite dagli articoli 37 e 38 quand'anche il matrimonio, contratto dal salariato dopo compiuti i 50 anni di eta', rimonti a meno di due anni anteriori alla cessazione del rapporto di servizio; in mancanza della vedova o quando questa non ne abbia diritto, la riversibilita' della predetta pensione spetta agli orfani alle condizioni e nelle proporzioni stabilite dagli articoli 37 e 38.
 
-##### Art. 40
+#### Art. 40
 
 La vedova che passa ad altre nozze perde il diritto alla pensione.
 
 Gli orfani e le orfane perdono il diritto alla pensione con la maggiore eta', e le orfane anche in eta' minore, se contraggano matrimonio.
 
-##### Art. 41
+#### Art. 41
 
 Nei riguardi degli aventi diritto a pensioni o ad indennita', che acquistino o abbiano acquistato una cittadinanza straniera, si applicano le disposizioni del R. decreto-legge 7 settembre 1933-XI, n. 1295.
 
-##### Art. 42
+#### Art. 42
 
 Il diritto a conseguire l'indennita' o la pensione e il godimento della pensione gia' conseguita si perdono dal salariato:
 
@@ -578,7 +574,7 @@ AGGIORNAMENTO (4)
 
 La Corte Costituzionale con sentenza 7-13 gennaio 1966, n. 3 (in G.U. 1ª s.s. 15/01/1966, n. 12) ha dichiarato l'illegittimita' costituzionale, a norma dell'art. 27 della legge 11 marzo 1953, n. 87, dell'art. 42, comma 1, numero 1 e comma 2.
 
-##### Art. 43
+#### Art. 43
 
 L'esercizio del diritto a conseguire l'indennita' o la pensione e il godimento della pensione gia' conseguita rimangono sospesi nel caso di interdizione temporanea dai pubblici uffici, fino a che sia interamente decorsa la durata dell'interdizione o l'interdizione stessa sia estinta.((4))
 
@@ -588,7 +584,7 @@ AGGIORNAMENTO (4)
 
 La Corte Costituzionale con sentenza 7-13 gennaio 1966, n. 3 (in G.U. 1ª s.s. 15/01/1966, n. 12) ha dichiarato l'illegittimita' costituzionale, a norma dell'art. 27 della legge 11 marzo 1953, n. 87, dell'art. 43.
 
-##### Art. 44
+#### Art. 44
 
 Nei casi di cui aiprecedenti articoli 42 e 43, alla moglie ed alla prole si liquidano l'indennita' o la pensione cui avrebbero avuto diritto se il salariato, la vedova o l'orfano condannati fossero morti il giorno in cui la condanna e' passata in giudicato.
 
@@ -600,7 +596,7 @@ Nel caso di ripristino del diritto, a pensione, o di termine della sospensione d
 
 Nel caso di ripristino del diritto a indennita', o di cessazione della sospensione di cui all'art. 43, nei riguardi della vedova o dell'orfano condannati, si fa luogo alla liquidazione a loro favore soltanto se l'indennita' non sia spettata ad altri aventi diritto.
 
-##### Art. 45
+#### Art. 45
 
 Nessun conferimento d'indennita' o di pensione, dirette o indirette, puo' essere fatto se il salariato non abbia contribuito alla Cassa di previdenza durante almeno cinque anni compiuti di servizio utile, eccezione fatta per i casi di cui ai precedenti articoli 32 lettera d) e 39.
 
@@ -610,9 +606,9 @@ La norma di cui al comma precedente si applica anche nel caso di riscatto di ser
 
 Sono pure computabili per il predetto periodo minimo i servizi prestati con iscrizione ai regolamenti o convenzioni speciali per le pensioni o alle Casse, Istituti o Fondi speciali contemplati dai precedenti articoli 7, ultimo comma, 10, 11 e 13, quelli resi allo Stato, che siano cumulabili ai termini del presente Ordinamento, e quelli cumulabili a norma del successivo art. 54.
 
-## CAPO II - SERVIZI UTILI A INDENNITA' O PENSIONI
+### CAPO II - SERVIZI UTILI A INDENNITA' O PENSIONI
 
-##### Art. 46
+#### Art. 46
 
 Il servizio utile per il conseguimento dell'indennita' o della pensione e' quello prestato dai salariati con diritto a retribuzione e alla iscrizione alla Cassa di previdenza, cui corrisponda il versamento dei contributi, nonche' il servizio riscattato.
 
@@ -624,11 +620,11 @@ E' pure calcolato utile il servizio militare prestato per richiamo dall'iscritto
 
 Nei riguardi dei salariati richiamati o trattenuti alle armi posteriormente al 1° gennaio, 1935-XIII, per esigenze militari di carattere eccezionale, o che, dopo tale data, con il consenso dell'Amministrazione da cui dipendono, abbiano contratto o contraggano nelle medesime circostanze arruolamento volontario nelle Forze armate, ivi compresa la Milizia Volontaria per la Sicurezza Nazionale, i servizi militari prestati in dette condizioni sono computati ai fini della imposizione dei contributi e della liquidazione degli assegni come resi agli Enti dai quali dipendevano alla data del richiamo o dell'arruolamento volontario o del trattenimento alle armi, e ad ogni effetto per i periodi medesimi si considerano godute le retribuzioni che ciascuno dei richiamati, trattenuti alle armi o arruolati volontariamente, avrebbe percepite se fosse rimasto in servizio presso gli Enti suaccennati.
 
-##### Art. 47
+#### Art. 47
 
 Il servizio prestato dal salariato licenziato a norma del primo comma dell'art. 247 del Testo unico della legge comunale e provinciale approvato con R. decreto 3 marzo 1934-XII, n. 383, e' improduttivo di trattamento di quiescenza tanto nei riguardi del salariato quanto nei riguardi della sua famiglia.
 
-##### Art. 48
+#### Art. 48
 
 Le campagne di guerra, riconosciute a norma delle relative disposizioni, sono valutale come altrettanti anni di servizio utile, dopo raggiunto il periodo minimo di servizio prescritto nei singoli casi per il conseguimento dell'indennita' o della pensione, senza che l'iscritto debba pagare alla Cassa alcun contributo per il relativo aumento della misura dell'indennita' o della pensione.
 
@@ -640,17 +636,17 @@ La quota di aumento dell'indennita' o della pensione rimane a carico della Cassa
 
 Gli aumenti di cui ai commi precedenti non sono dovuti a carico dell'Istituto di previdenza che liquida l'assegno, quando le campagne di guerra e le benemerenze fasciste siano state gia' valutate nella liquidazione di assegni di quiescenza a carico dello Stato, o di altri Istituti di previdenza, o di Enti contemplati dal presente Ordinamento.
 
-##### Art. 49
+#### Art. 49
 
 I periodi di tempo trascorsi in aspettativa per motivi di salute, ovvero in disponibilita', sono calcolati per intero agli effetti della indennita' o della pensione.
 
 I periodi di tempo trascorsi in aspettativa per motivi di famiglia o in sospensione dal servizio non sono calcolati.
 
-##### Art. 50
+#### Art. 50
 
 I servizi utili prestati simultaneamente presso due o piu' Enti si valutano come unico periodo, agli effetti del computo del servizio utile complessivo, ma, per la misura della pensione o della indennita', si tiene conto delle retribuzioni soggette a contributo percepite presso i vari Enti.
 
-##### Art. 51
+#### Art. 51
 
 Ai salariati iscritti o gia' iscritti alla Cassa e' riconosciuto, utile, per il conseguimento dell'indennita' o della pensione, il servizio prestato con iscrizione ai regolamenti, convenzioni speciali, Casse, Istituti, o Fondi speciali per le pensioni contemplati nei precedenti articoli 7, ultimo comma, 10, 11 e 13.
 
@@ -680,7 +676,7 @@ La L. 24 maggio 1952, n. 610 ha disposto (con l'art. 35, commi 1 e 2) che "L'ult
 
 Tale norma ha valore di interpretazione autentica agli effetti del cumulo di cui all'art. 13 del decreto legislativo 3 settembre 1946, n. 143".
 
-##### Art. 52
+#### Art. 52
 
 Nei casi di valutazione cumulativa di cui al precedente art. 51 se il salariato o la sua vedova o i suoi orfani, per il servizio prestato presso un Ente con iscrizione a regolamento o convenzione speciale di pensione, o alle Casse, Istituti o Fondi speciali di cui all'articolo medesimo abbiano ottenuto la restituzione dei contributi versati o conseguito l'indennita', la quota di indennita' o di pensione liquidata dalla Cassa a carico dell'Ente secondo le norme dell'articolo stesso, viene diminuita con le norme seguenti:
 
@@ -704,7 +700,7 @@ Il salariato che abbia conseguito un assegno di quiescenza a carico della Cassa 
 
 La rifusione deve effettuarsi in unica soluzione o con trattenuta dell'intera nuova pensione diretta, ed indiretta liquidata dalla Cassa di previdenza e degli eventuali accessori.
 
-##### Art. 53
+#### Art. 53
 
 L'indennita' o la pensione a favore del salariato che abbia prestato servizi presso due o piu' Enti di cui ai precedenti articoli 5 e 7 con iscrizione a regolamenti o convenzioni speciali di pensione o alle Casse, Istituti o Fondi speciali di cui al precedente art. 51, o della sui vedova o dei suoi orfani, quando non siavi stata iscrizione alla Cassa di previdenza, viene anche liquidata dalla Cassa medesima, con le norme stabilite dal presente Ordinamento, applicando, se del caso, il terzo comma del precedente art. 51.
 
@@ -716,7 +712,7 @@ La Cassa di previdenza si rivale sugli Enti delle quote messe a loro carico, con
 
 Quando ricorrano i casi previsti dai quattro ultimi commi del precedente art. 51 e dall'art. 52 sono applicabili le disposizioni ivi stabilite.
 
-##### Art. 54
+#### Art. 54
 
 Nei riguardi dei salariati che siano stati iscritti ad altri Istituti di previdenza, amministrati dalla Direzione generale della Cassa depositi e prestiti e degli Istituti di previdenza. esclusa l'Opera di previdenza per i personali civile e militare dello Stato, sono cumulabili, agli effetti del conseguimento del diritto a indennita' o a pensione a norma del presente Ordinamento, tutti i servizi valutabili secondo le disposizioni dei singoli Istituti, fermo restando quanto e' stabilito dall'art. 50 per il computo del servizio utile complessivo.
 
@@ -730,11 +726,11 @@ Gli altri Istituti di previdenza cui spetta la determinazione di quote di indenn
 
 Nel caso che vi siano quote a carico degli Enti, l'indennita' o l'intera pensione viene pagata dalla Cassa predetta, che si rivale sugli Enti medesimi, tenuto conto delle disposizioni contenute nei precedenti articoli 51 e 52.
 
-##### Art. 55
+#### Art. 55
 
 Nei casi di cui al precedente art. 54, se per i servizi prestati con iscrizione ad uno o piu' degli Istituti di predenza ivi indicati siano state gia' corrisposte l'indennita' o la pensione, il cumulo di cui all'articolo medesimo non puo' essere concesso se, entro il termine perentorio di un anno dalla cessazione definitiva del rapporto di servizio non sia fatta pervenire, alla Direzione generale della Cassa depositi e prestiti e degli Istituti di previdenza o alla Prefettura, dichiarazione di rinunziare al godimento della pensione gia' conferita e di voler rimborsare all'Istituto che ha conferito l'indennita' o la pensione, le somme da quste corrisposte con i relativi interessi composti al saggio di interesse delle tabelle di liquidazione della pensione o della indennita', in vigore per l'Istituto stesso alla data della dichiarazione. La rifusione deve effettuarsi in un'unica soluzione o con trattenuta integrale delle rate della nuova pensione diretta ed indiretta liquidata, e degli eventuali accessori.
 
-##### Art. 56
+#### Art. 56
 
 In tutti i casi in cui, nei riguardi del personale passato dal servizio dello Stato a quello degli Enti di cui agli articoli 5 e 7 del presente Ordinamento, o viceversa, il Testo unico 21 febbraio 1895, n. 70, e sue modificazioni o leggi speciali, stabiliscono la, valutazione cumulativa dei servizi resi allo Stato con quelli prestati alla dipendenza degli Enti, la liquidazione degli assegni e' fatta dallo Stato.
 
@@ -754,13 +750,13 @@ La quota dovuta dallo Stato e' a carico del Ministero alle cui dipendenze e' sta
 
 Il pagamento e' integralmente effettuato dalla Cassa di previdenza per gli assegni diretti ed indiretti relativi ai titolari che alla data di cessazione definitiva del rapporto di servizio erano alle dipendenze degli Enti e alle loro famiglie, salvo rivalsa della quota a carico dello Stato, nonche' di quelle a carico degli Enti con le norme stabilite per l'esazione dei contributi. Per i titolari che alla data di cessazione definitiva erano in servizio statale il pagamento e' integralmente effettuato dallo Stato, salvo rivalsa delle quote a carico della Cassa e degli Enti.
 
-##### Art. 57
+#### Art. 57
 
 Per il personale gia' iscritto alla Cassa di previdenza, addetto alle Aziende municipalizzate che esercitano pubblici servizi di trasporto, la quota di indennita' o di pensione a carico della Cassa di previdenza ai sensi dell'art. 34 del R. decreto 30 settembre 1920, n. 1538, e' determinata in base alle disposizioni del presente Ordinamento e ripartita con le norme stabilite dall'art. 3 del R. decreto 15 febbraio 1923-I, n. 574.
 
-## CAPO III - PROCEDIMENTO DI LIQUIDAZIONE E PAGAMENTO DEGLI ASSEGNI
+### CAPO III - PROCEDIMENTO DI LIQUIDAZIONE E PAGAMENTO DEGLI ASSEGNI
 
-##### Art. 58
+#### Art. 58
 
 Le istanze per il conseguimento dell'indennita' o della pensione devono essere presentate alla Prefettura, la quale le trasmette all'Amministrazione della Cassa di previdenza regolarmente istruite.
 
@@ -776,7 +772,7 @@ In tutti i casi di cui al precedente art. 56, la Direzione generale della Cassa 
 
 La Direzione generale predetta, ricevuta comunicazione del decreto di liquidazione da parte del competente Ministero, sottopone alla deliberazione del Consiglio di amministrazione l'accettazione delle quote poste a carico della Cassa di previdenza.
 
-##### Art. 59
+#### Art. 59
 
 Entro novanta giorni dalla comunicazione del decreto di cui al quarto comma dell'articolo precedente, gli interessati possono presentare ricorso alla Corte dei conti.((5))
 
@@ -792,7 +788,7 @@ La Corte Costituzionale con sentenza 14-15 gennaio 1976, n. 8 (in G.U. 1ª s.s. 
 
 6\) art. 59, primo comma, della legge 25 luglio 1941, n. 934, sull'ordinamento della Cassa di previdenza per le pensioni ai salariati degli Enti locali".
 
-##### Art. 60
+#### Art. 60
 
 Non e' ammesso il ricorso contro la liquidazione dell'indennita', per chi ne abbia fatto riscossione prima della scadenza del termine di cui all'art. 59.
 
@@ -808,7 +804,7 @@ Le pensioni sono pagate a rate mensili corrispondenti ai mesi del calendario ed 
 
 Le rate di pensione non domandate entro due anni dalla scadenza sono prescritte.
 
-##### Art. 61
+#### Art. 61
 
 La Cassa di previdenza corrisponde ai salariati, alla vedova ed agli orfani aventi diritto alla pensione, nell'intervallo di tempo occorrente alla liquidazione, un acconto mensile da imputarsi sulla pensione definitiva loro dovuta.
 
@@ -820,11 +816,9 @@ La corresponsione dell'acconto non e' soggetta a riscontro preventivo della Cort
 
 Gli Enti hanno facolta' di concedere direttamente gli acconti di pensione dandone notizia alla Cassa di previdenza, la quale, in sede di pagamento dell'assegno, provvede al rimborso sino alla concorrenza degli arretrati della pensione o della indennita' dovute. Sugli arretrati disponibili della pensione puo' anche essere ricuperato a favore dell'Istituto nazionale fascista per l'assistenza dei dipendenti degli Enti locali l'importo dell'assegno vitalizio eventualmente concesso da detto Istituto; l'eccedenza che risultasse ancora scoperta a favore dell'Istituto medesimo e' ricuperata con ritenuta del quinto sulle ulteriori rate della pensione.
 
-## CAPO IV - RIASSUNZIONE IN SERVIZIO DELL'ISCRITTO CHE ABBIA GIA'
+### CAPO IV - RIASSUNZIONE IN SERVIZIO DELL'ISCRITTO CHE ABBIA GIA' CONSEGUITO INDENNITA' O PENSIONE
 
-### CONSEGUITO INDENNITA' O PENSIONE
-
-##### Art. 62
+#### Art. 62
 
 Il salariato che abbia conseguito dalla Cassa di previdenza l'indennita' o la pensione, qualora riprenda servizio presso uno degli Enti contemplati dal presente Ordinamento, puo' continuare a godere della pensione e viene nuovamente iscritto alla Cassa, per conseguire l'indennita' o la pensione in ragione del nuovo servizio prestato e secondo le norme dell'Ordinamento stesso.
 
@@ -840,31 +834,29 @@ La rifusione di cui ai commi precedenti deve essere effettuata, in unica soluzio
 
 ## TITOLO III - DISPOSIZIONI GENERALI
 
-### CAPO I
+### CAPO I - BILANCI TECNICI E ACCERTAMENTO DEI SERVIZI
 
-#### BILANCI TECNICI E - ACCERTAMENTO DEI SERVIZI
-
-##### Art. 63
+#### Art. 63
 
 Ogni quinquennio l'Ufficio tecnico degli Istituti di previdenza compila il bilancio tecnico della Cassa di previdenza.
 
 Il regolamento determina le notizie statistiche da raccogliersi ogni anno per facilitare la compilazione dei bilanci tecnici e per preparare le eventuali riforme delle tabelle per la liquidazione degli assegni.
 
-##### Art. 64
+#### Art. 64
 
 Una Commissione appositamente nominata con decreto del Ministro per le finanze, ogni volta che occorrono provvedimenti di riforma nell'interesse della Cassa di previdenza, esamina i bilanci tecnici, le statistiche degli iscritti, e, in base ai risultati ottenuti, propone al Ministro per le finanze le opportune variazioni alle disposizioni in vigore per la Cassa di previdenza. Tali variazioni non possono diminuire le pensioni in corso di godimento.
 
 Della Commissione debbono anche far parte almeno un rappresentante del Ministero per l'interno e almeno un rappresentante degli iscritti alla Cassa designato dal Ministro Segretario di Stato Segretario del Partito Nazionale Fascista.
 
-##### Art. 65
+#### Art. 65
 
 La Direzione generale della Cassa depositi e prestiti e degli Istituti di previdenza provvede durante la carriera degli iscritti alla Cassa all'accertamento dei servizi utili per la pensione.
 
 Esercita inoltre, a mezzo dei funzionari all'uopo adibiti un'assidua vigilanza presso gli Enti locali e gli Uffici provinciali per assicurare la regolare imposizione e riscossione dei contributi a favore della Cassa, e la documentazione dei servizi resi dagli iscritti.
 
-## CAPO II - RISCATTI
+### CAPO II - RISCATTI
 
-##### Art. 66
+#### Art. 66
 
 Ai salariati iscritti alla Cassa di previdenza e' data facolta' di chiedere, con le norme di cui al successivo art. 67, il riscatto, agli effetti dell'indennita' o della pensione, dei periodi di servizio non contemporanei con altri servizi utili secondo il presente Ordinamento, prestati con qualsiasi qualifica:
 
@@ -884,7 +876,7 @@ g) presso Enti di diritto pubblico, non contemplati nelle precedenti lettere.
 
 Il servizio da riscattare ai sensi del presente articolo viene computato in anni interi trascurando le frazioni; le frazioni superiori a sei mesi possono, a richiesta dell'interessato, essere computate per un anno.
 
-##### Art. 67
+#### Art. 67
 
 La domanda per ottenere il riscatto di cui all'art. 66 deve essere presentata alla Prefettura o alla Cassa di previdenza, a pena di decadenza, prima della cessazione del rapporto di servizio e non oltre cinque anni:
 
@@ -896,7 +888,7 @@ c) dalla data di pubblicazione del presente Ordinamento, dai salariati che a tal
 
 d) dal reingresso in servizio con effettiva reiscrizione alla Cassa, dai salariati gia' iscritti che alla data di pubblicazione del presente Ordinamento non siano in servizio con iscrizione alla Cassa.
 
-##### Art. 68
+#### Art. 68
 
 Il contributo dovuto dal salariato per i riscatti di cui al precedente art. 66 e' pari al capitale accumulato, determinato secondo le norme allegate al presente Ordinamento, corrispondente al contributo del 15 per cento della retribuzione annua utile a pensione goduta all'atto della prima iscrizione alla Cassa di previdenza, per un periodo uguale a quello da riscattare.
 
@@ -906,7 +898,7 @@ La retribuzione da prendersi come base nella determinazione del contributo di ri
 
 Agli effetti del calcolo della indennita' e della pensione ciascun periodo riscattato secondo il presente Ordinamento, o secondo le norme dell'Ordinamento approvato con R. decreto-legge 15 aprile 1926-IV, n. 679, si considera antecedente a tutti gli altri servizi utili per se' stessi e a quelli riscattati in base a precedenti domande, e si tiene conto delle retribuzioni sulle quali il riscatto e' stato effettuato, senza applicare ad esse ne' le maggiorazioni ne' la riduzione, rispettivamente previste dal terzo comma del precedente art. 33 e dalle norme di applicazione della tabella A annessa al presente Ordinamento.
 
-##### Art. 69
+#### Art. 69
 
 Le domande di riscatto sono sottoposte alle deliberazioni del Consiglio di amministrazione della Cassa depositi e prestiti e degli Istituti di previdenza.
 
@@ -914,7 +906,7 @@ In conformita' delle deliberazioni di cui al comma precedente il Direttore gener
 
 Entro novanta giorni dalla comunicazione del decreto, l'interessato puo' presentare ricorso alla Corte dei conti. Lo stesso diritto di ricorso compete alla Direzione generale della Cassa depositi e prestiti e degli Istituti di previdenza, per la quale il termine predetto decorre dalla data della deliberazione.
 
-##### Art. 70
+#### Art. 70
 
 Il salariato ha facolta' di versare il contributo di riscatto di cui al precedente art. .68 in una sola volta, ovvero di chiedere che la somma corrispondente sia trasformata, in base alla tabella C annessa al presente Ordinamento, in un'annualita' da pagarsi a rate mensili per un numero di anni non superiore al doppio del periodo riscattato e in ogni caso non maggiore di quindici anni.
 
@@ -924,7 +916,7 @@ L'inizio del versamento rateale deve effettuarsi nel termine fissato dall'Ammini
 
 I debitori morosi sono tenuti al pagamento degli interessi composti del cinque per cento annuo sulle rate scadute e non ancora pagate.
 
-##### Art. 71
+#### Art. 71
 
 Per il salariato iscritto alla Cassa con decorrenza posteriore alla data di pubblicazione del presente Ordinamento, che riscatti un periodo maggiore di anni quindici, gli anni riscattati eccedenti il quindicennio sono riconosciuti solo per un periodo corrispondente al tempo trascorso con iscrizione alla Cassa dopo la presentazione della domanda di riscatto, e fino alla cessazione del rapporto di servizio, da calcolarsi a norma del primo comma del precedente art. 34. Il contributo di riscatto viene, se del caso, ridotto in proporzione del rapporto tra gli anni cosi' valutati e quelli di cui fu concesso il riscatto.
 
@@ -936,7 +928,7 @@ Il salariato che abbia iniziato il pagamento rateale del contributo di riscatto 
 
 ## TITOLO IV - DISPOSIZIONI TRANSITORIE
 
-##### Art. 72
+#### Art. 72
 
 E' riconosciuto utile ai termini del precedente art. 51, il servizio prestato in qualita' di salariato con iscrizione o assicurazione all'Istituto nazionale fascista per la previdenza sociale col concorso dell'Ente, da quei salariati che al 6 maggio 1926-IV, essendo in servizio stabile con nomina regolare presso gli Enti di cui al precedente articolo 5, lettere a), b), c), erano assicurati al predetto Istituto ai termini della legge sull'assicurazione obbligatoria contro l'invalidita' e la vecchiaia, ovvero vi erano stati iscritti, col concorso dell'Ente, non per obbligo di legge, dopo l'istituzione della Cassa di previdenza o dopo le sue successive estensioni ai vari gruppi di salariati cui la Cassa stessa provvede, purche' entro il 5 agosto 1926-IV siansi iscritti alla Cassa di previdenza, chiedendo, previo consenso dell'Ente, il riconoscimento dei servizi sopraindicati.
 
@@ -944,13 +936,13 @@ I salariati che al 6 maggio 1926-IV non erano in servizio nelle condizioni sopra
 
 Le disposizioni del presente articolo e quelle del corrispondente art. 19 della parte seconda dell'Ordinamento approvato con R. decreto-legge 15 aprile 1926-IV, n. 679, non si applicano al personale delle Aziende municipalizzate.
 
-##### Art. 73
+#### Art. 73
 
 I salariati delle Istituzioni pubbliche di assistenza e beneficenza, i quali, alla entrata in vigore del presente Ordinamento, siano iscritti alla Cassa col contributo dell'Ente a norma dell'Ordinamento approvato con R. decreto-legge 15 aprile 1926-IV, n. 679, continuano a rimanervi iscritti, anche se le Istituzioni predette non raggiungano l'importo di entrate effettive ordinarie stabilito dal precedente articolo 14, fermo restando a carico dell'Ente l'obbligo del contributo di cui all'articolo 23.
 
 L'obbligo stesso cessa se la rendita annua netta dell'Ente scenda al di sotto di lire cinquemila, salva agli interessati la facolta' di continuare nell'iscrizione ai sensi del precedente art. 20.
 
-##### Art. 74
+#### Art. 74
 
 I salariati degli Istituti indicati alla lettera f) del precedente art. 5 hanno facolta' di chiedere la regolarizzazione dell'iscrizione alla Cassa di preyidenza, anche per il periodo intercedente tra la data da cui l'Istituto ha cessato di essere obbligatoriamente soggetto alla Cassa e quella della entrata in vigore del presente Ordinamento, assoggettandosi al versamento, a proprio carico, dell'intero contributo relativo, salvo volontario concorso dell'Ente, e dell'interesse cinque per cento fino alla data di presentazione della domanda alla Prefettura o alla Cassa di previdenza, purche' nel periodo sopra indicato abbiano sempre prestato servizio nell'Istituto medesimo.
 
@@ -958,17 +950,17 @@ Le iscrizioni di fatto che fossero gia' state effettuate nel periodo sa accennat
 
 La domanda d'iscrizione facoltativa, con regolarizzazione di cui al precedente primo comma, deve essere presentata nel termine perentorio di due anni dalla pubblicazione del presente Ordinamento.
 
-##### Art. 75
+#### Art. 75
 
 Per le domande di riscatto prodotte prima della data di pubblicazione del presente Ordinamento alla Prefettura od alla Cassa di previdenza ai sensi delle disposizioni di cui alla parte seconda dell'Ordinamento approvato con Regio decreto-legge 15 aprile 1926-1V, n. 679, valgono le norme dell'Ordinamento stesso.
 
 Ai salariati che si siano avvalsi della facolta' concessa dagli articoli 7 della legge 20 dicembre 1914, n. 1382, 2 della legge 11 giugno 1916, n. 720, e 20 e 21 della parte seconda dell'Ordinamento approvato con R. decreto-legge 15 aprile 1926-IV, m 679, e' riconosciuto utile per il conseguimento dell'indennita' o della pensione il servizio riscattato in base elle disposizioni degli articoli stessi.
 
-##### Art. 76
+#### Art. 76
 
 Nei casi in cui, per disposizione di legge, gli iscritti alla Cassa di previdenza morti o resi permanentemente inabili al servizio per causa di terremoti siano da considerare morti o feriti a cagione dell'esercizio delle proprie mansioni agli effetti della pensione privilegiata, le differenze tra le pensioni dirette o indirette cosi' dovute e gli assegni normali sono a carico del Ministero delle finanze.
 
-##### Art. 77
+#### Art. 77
 
 Ai salariati iscritti alla Cassa di previdenza anteriormente al 6 maggio 1926-IV sono riconosciuti utili ai soli effetti del raggiungimento del minimo degli anni di servizio necessari per diritto alla pensione, ma non sono valutati nella determinazione della misura della pensione:
 
@@ -976,7 +968,7 @@ a) il servizio militare prestato con interruzione di iscrizione senza che abbia 
 
 b) il servizio prestato anteriormente a quello valutabile ai sensi del secondo comma del precedente art. 75.
 
-##### Art. 78
+#### Art. 78
 
 Le pensioni dirette liquidate o da liquidarsi a carico della Cassa di previdenza secondo le disposizioni anteriori al presente Ordinamento, per le cessazioni del rapporto di servizio a tutto il 31 dicembre 1937-XVI, sono aumentate del dieci per cento, con un aumento annuo minimo di lire duecentocinquanta e massimo di lire milleduecento.
 
@@ -986,15 +978,15 @@ Per le sopraindicate pensioni dirette ed indirette ripartite tra la Cassa e altr
 
 La pensione dovuta ai salariati cessati dal servizio dal 1° gennaio 1938-XVI alla data di pubblicazione del presente Ordinamento, alle loro vedove ed ai loro orfani, non puo' essere inferiore a quella risultante in base all'Ordinamento approvato col R. decreto-legge 15 aprile 1926-IV, n. 679, con l'aumento di cui ai commi precedenti.
 
-##### Art. 79
+#### Art. 79
 
 Le pensioni indirette dovute alle famiglie dei pensionati di cui al primo comma del precedente art. 78, morti posteriormente al 31 dicembre 1937-XVI, sono liquidate con l'applicazione delle norme del presente Ordinamento sulla base della pensione diretta aumentata a norma del comma stesso, salvo, per quanto riguarda le condizioni per il riconoscimento del diritto a pensione della vedova, le norme eventualmente piu' favorevoli dell'Ordinamento approvato con R. decreto-legge 15 aprile 1926-IV, n. 679.
 
-##### Art. 80
+#### Art. 80
 
 Dalla iscrizione obbligatoria per i Periodi di servizio prestati fino al 31 dicembre 1937-XVI, prevista dall'ultimo comma dell'art. 5 dell'Ordinamento della Cassa di previdenza per le pensioni agli impiegati degli Enti locali, approvato con R. decreto-legge 3 marzo 1938-XVI, n. 680, sono esonerati gli impiegati ivi indicati che ne facciano domanda entro il termine perentorio del 31 dicembre 1941-XX, ove per i periodi medesimi siano stati iscritti, con il concorso dell'Ente, all'Istituto nazionale fascista della previdenza sociale o all'Istituto nazionale delle assicurazioni o ad altri Istituti assicurativi; tali periodi, eccezione fatta per quelli prestati presso le Aziende speciali per l'impianto e l'esercizio dei servizi municipalizzati, saranno valutati, ai fini della liquidazione della indennita', o della pensione, cumulativamente con gli altri servizi utili, con le norme dell'art. 52 del citato Ordinamento.
 
-##### Art. 81
+#### Art. 81
 
 Le disposizioni della presente legge, per le quali non sia stabilita una diversa decorrenza, hanno effetto dal 1° gennaio 1938-XVI.
 
@@ -1010,7 +1002,7 @@ Visto, il Guardasigilli: Grandi
 
 ## TITOLO IV - DISPOSIZIONI TRANSITORIE
 
-##### Allegato 1
+#### Allegato 1
 
 Allegato 1.
 
@@ -1036,7 +1028,7 @@ Il Ministro per le finanze:
 
 Di Revel
 
-##### Allegato 2
+#### Allegato 2
 
 Allegato 2.
 
@@ -1068,7 +1060,7 @@ AGGIORNAMENTO (2)
 
 La L. 24 maggio 1952, n. 610 ha disposto (con l'art. 29, comma 2) che "Nei casi di cessazione dal servizio di cui al comma precedente, per gli iscritti alla Cassa di previdenza per le pensioni ai salariati degli Enti locali e alla Sezione autonoma per le pensioni agli insegnanti, ai fini della determinazione delle quote di pensioni teoriche relativo ad ogni aumento o diminuzione della retribuzione conseguito durante il servizio rispetto alla retribuzione iniziale, di cui al punto 2 delle norme per l'applicazione della tabella A) allegata alla citata legge 25 luglio 1941, n. 934 e della tabella A) allegata alla legge 6 febbraio 1941, n. 176, il periodo utile dalla data di variazione della retribuzione fino alla data della cessazione del rapporto di servizio, da computarsi in anni interi trascurando le frazioni non superiori ai sei mesi, e' calcolato con metodo diretto, anziche' - come previsto dal predetto punto 2 - per differenza tra il servizio complessivo e quello gia' prestato al momento della variazione della retribuzione".
 
-##### Allegato 3
+#### Allegato 3
 
 Allegato 3.
 
@@ -1082,7 +1074,7 @@ salariati degli Enti locali
 
 Parte di provvedimento in formato grafico
 
-##### Allegato 4
+#### Allegato 4
 
 Allegato 4.
 

@@ -28,19 +28,17 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I - ELEZIONE DEGLI ORGANI COMUNALI
+## CAPO I - ELEZIONE DEGLI ORGANI COMUNALI E PROVINCIALI
 
-### E PROVINCIALI
-
-#### Art. 1
+### Art. 1
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267))
 
-#### Art. 2
+### Art. 2
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267))
 
-#### Art. 3
+### Art. 3
 
 Sottoscrizione delle liste
 
@@ -80,7 +78,7 @@ AGGIORNAMENTO (4)
 
 Il D.L. 25 febbraio 1995, n. 50, convertito con modificazioni dalla L. 13 marzo 1995, n. 68, ha disposto (con l'art. 1-bis, comma 1) che "Per le elezioni dei consigli provinciali e comunali della primavera del 1995 che, ai sensi dell'articolo 4, comma 1, della legge 23 febbraio 1995, n. 43, si svolgono contestualmente alle elezioni dei consigli regionali delle regioni a statuto ordinario, il numero minimo di sottoscrizioni di cui rispettivamente al quarto comma dell'articolo 14 della legge 8 marzo 1951, n. 122, e successive modificazioni e integrazioni, e al comma 1 dell'articolo 3 della legge 25 marzo 1993, n. 81, e' ridotto alla meta'".
 
-#### Art. 4
+### Art. 4
 
 Fissazione della data
 
@@ -102,31 +100,31 @@ di svolgimento delle elezioni
 
 > Art. 2. - Le elezioni dei consigli comunali e provinciali, che devono essere rinnovati per motivi diversi dalla scadenza del mandato, si svolgono nelle stesse giornate domenicali di cui all'art. 1 se le condizioni che rendono necessario il rinnovo si siano verificate, rispettivamente, entro il 15 marzo ed entro il 15 settembre".
 
-#### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267))
 
-#### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267))
 
-#### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267))
 
-#### Art. 7-bis
+### Art. 7-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267))
 
-#### Art. 8
+### Art. 8
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267))
 
-#### Art. 9
+### Art. 9
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267))
 
-#### Art. 10
+### Art. 10
 
 Elezione dei consigli circoscrizionali
 
@@ -136,7 +134,7 @@ Elezione dei consigli circoscrizionali
 
 3\. Fino all'approvazione delle modifiche statutarie conseguenti, ai sensi dell'articolo 33 della presente legge, si applicano le norme per l'elezione dei consigli nei comuni con popolazione superiore a 15.000 abitanti.
 
-#### Art. 11
+### Art. 11
 
 (( (Durata delle operazioni di voto e di scrutinio).
 
@@ -144,81 +142,79 @@ Elezione dei consigli circoscrizionali
 
 2\. Dichiarata chiusa la votazione, il presidente del seggio, dopo aver proceduto ad effettuare le operazioni previste dall'articolo 53 del citato testo unico di cui al decreto del Presidente della Repubblica n. 570 del 1960, da' inizio alle operazioni per lo spoglio delle schede)).
 
-## CAPO II - COMPETENZE DEGLI ORGANI
+## CAPO II - COMPETENZE DEGLI ORGANI COMUNALI E PROVINCIALI
 
-### COMUNALI E PROVINCIALI
-
-#### Art. 12
+### Art. 12
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267))
 
-#### Art. 13
+### Art. 13
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267))
 
-#### Art. 14
+### Art. 14
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267))
 
-#### Art. 15
+### Art. 15
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267))
 
-#### Art. 16
+### Art. 16
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267))
 
-#### Art. 17
+### Art. 17
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267))
 
-#### Art. 18
+### Art. 18
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267))
 
-#### Art. 19
+### Art. 19
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267))
 
-#### Art. 20
+### Art. 20
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267))
 
-#### Art. 21
+### Art. 21
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267))
 
-#### Art. 22
+### Art. 22
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267))
 
-#### Art. 23
+### Art. 23
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267))
 
-#### Art. 24
+### Art. 24
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267))
 
-#### Art. 25
+### Art. 25
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267))
 
-#### Art. 26
+### Art. 26
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267))
 
-#### Art. 27
+### Art. 27
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267))
 
 ## CAPO III - NORME SULLA CAMPAGNA ELETTORALE
 
-#### Art. 28
+### Art. 28
 
 ((ARTICOLO ABROGATO DALLA L. 10 DICEMBRE 1993, N. 515))
 
-#### Art. 29
+### Art. 29
 
 Propaganda elettorale
 
@@ -248,7 +244,7 @@ AGGIORNAMENTO (9)
 
 La Corte Costituzionale, con sentenza 12-25 luglio 2001, n. 287 (in G.U. 1a s.s. 1/8/2001, n. 30), ha dichiarato l'illegittimita' costituzionale del comma 5 del presente art. 29 "nella parte in cui punisce il fatto previsto dal comma 3 con la multa da lire un milione a lire cinquanta milioni, anziche' con la sanzione amministrativa pecuniaria da lire un milione a lire cinquanta milioni".
 
-#### Art. 30
+### Art. 30
 
 Pubblicita' delle spese elettorali
 
@@ -260,11 +256,11 @@ Allo stesso modo deve essere altresi' reso pubblico, entro trenta giorni dal ter
 
 ## CAPO IV - NORME TRANSITORIE E FINALI
 
-#### Art. 31
+### Art. 31
 
 ((ARTICOLO ABROGATO DAL D.LGS. 18 AGOSTO 2000, N. 267))
 
-#### Art. 32
+### Art. 32
 
 Prima applicazione delle norme sulle competenze
 
@@ -272,13 +268,13 @@ degli organi comunali e provinciali
 
 1\. Le disposizioni di cui al capo II si applicano, in ciascun comune e in ciascuna provincia, a partire dalle prime elezioni effettuate ai sensi della presente legge.
 
-#### Art. 33
+### Art. 33
 
 Adeguamento degli statuti
 
 1\. I comuni e le province adeguano il proprio statuto alle nuove disposizioni entro dodici mesi dalla data di entrata in vigore della presente legge. Decorso tale periodo, le norme statutarie in contrasto con la presente legge sono da considerarsi prive di ogni effetto.
 
-#### Art. 34
+### Art. 34
 
 Abrogazione di norme
 
@@ -300,7 +296,7 @@ AGGIORNAMENTO (1)
 
 La L. 15 ottobre 1993, n. 415 ha disposto (con l'art. 8, comma 1) che "Il termine di sei mesi previsto dall'articolo 34, comma 5, della legge 25 marzo 1993, n. 81, decorre dalla data di entrata in vigore della presente legge".
 
-#### Art. 35
+### Art. 35
 
 Applicazione della legge nelle regioni
 
@@ -308,7 +304,7 @@ a statuto speciale e nelle province autonome
 
 1\. Le disposizioni della presente legge si applicano alle regioni a statuto speciale ed alle province autonome di Trento e di Bolzano in quanto compatibili con le attribuzioni ad esse spettanti in base agli statuti ed alle relative norme di attuazione.
 
-#### Art. 36
+### Art. 36
 
 Entrata in vigore
 

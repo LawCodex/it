@@ -28,7 +28,7 @@ la seguente legge:
 
 ## Titolo I - IDENTIFICAZIONE DELLO STATUS DI PROFUGO
 
-#### Art. 1
+### Art. 1
 
 Titolari dei benefici
 
@@ -44,7 +44,7 @@ Gli interventi previsti dalle presenti norme si applicano ai cittadini italiani 
 
 5\) figli di profughi, nati nei territori di provenienza dopo la data indicata nel successivo articolo 2, o nati in Italia entro trecento giorni dalla partenza definitiva della madre dal Paese di provenienza purche' profugo sia il genitore esercente la patria potesta'.
 
-#### Art. 2
+### Art. 2
 
 Presupposti della qualifica
 
@@ -70,13 +70,13 @@ Dopo l'entrata in vigore della presente legge e per i fini da essa previsti, l'e
 
 Tale decreto cessa di avere efficacia dopo due anni dalla data di insorgenza dello stato di necessita' al rimpatrio, indicata dal decreto stesso, salvo provvedimento di proroga.
 
-#### Art. 3
+### Art. 3
 
 Categorie escluse
 
 I cittadini italiani che, pur trovandosi nelle condizioni previste dal precedente articolo, abbiano prestato servizio all'estero in qualita' di dipendenti di ruolo dello Stato o di enti pubblici ed il cui rapporto di impiego non cessi per effetto del rimpatrio, possono ottenere la qualifica di profugo ai soli fini dei benefici di cui all'articolo 34 della presente legge.
 
-#### Art. 4
+### Art. 4
 
 Riconoscimento della qualifica di profugo
 
@@ -104,7 +104,7 @@ Scaduto tale termine o in caso di reiezione della domanda, l'interessato ha diri
 
 ## Titolo II - INTERVENTI ASSISTENZIALI DI PRIMA NECESSITA'
 
-#### Art. 5
+### Art. 5
 
 Indennita' di sistemazione e contributo alloggiativo
 
@@ -126,13 +126,13 @@ AGGIORNAMENTO (1)
 
 La L. 15 ottobre 1991, n. 344 ha disposto (con l'art. 2,comma 1) che: "L'indennita' di sistemazione e il contributo straordinario pro capite, di cui all'articolo 5 della legge 26 dicembre 1981, n. 763, sono elevati rispettivamente a lire 4.000.000 una tantum e a lire 40.000 giornaliere per un periodo massimo di sei mesi".
 
-#### Art. 6
+### Art. 6
 
 Ricoveri in istituti
 
 Ferma restando la competenza regionale in materia di ricoveri in istituti, indicata nel decreto del Presidente della Repubblica 24 luglio 1977, n. 616, ai profughi di cui ai numeri 4) e 5) dell'articolo 1, che abbiano superato il sessantesimo anno di eta' o che siano inabili all'abituale attivita' lavorativa, ed ai minori, e' riconosciuta, ove ne facciano richiesta, la priorita' ai ricoveri in idonei istituti.
 
-#### Art. 7
+### Art. 7
 
 Indennita' per dimissione dalle comunita' protette e dagli istituti di ricovero
 
@@ -140,13 +140,13 @@ Ai profughi che si dimettono dalle comunita' protette di Aversa e Napoli, nonche
 
 L'indennita' di cui al primo comma e' annualmente aggiornata in relazione alla variazione dell'indice dei prezzi al consumo per le famiglie di operai ed impiegati relativamente all'anno precedente, mediante decreto del Ministro dell'interno di concerto con il Ministro del tesoro.
 
-#### Art. 8
+### Art. 8
 
 Erogazione di sussidi straordinari
 
 Ai profughi che si trovino in particolari situazioni, possono essere concessi, a carico del Ministero dell'interno, durante il periodo di quarantacinque giorni dal rimpatrio, sussidi straordinari nei limiti dei normali stanziamenti di bilancio.
 
-#### Art. 9
+### Art. 9
 
 Stato di bisogno
 
@@ -154,7 +154,7 @@ Le provvidenze di cui agli articoli 5, 6, 7 o 8 del presente titolo trovano appl
 
 I benefici di cui ai citati articoli possono essere concessi ai profughi che all'atto del rimpatrio dichiarino per iscritto, sotto la propria responsabilita', di versare in stato di bisogno. Qualora dai successivi accertamenti tale condizione risulti inesistente, il profugo e' tenuto a rimborsare l'importo delle indennita' e delle prestazioni ricevute.
 
-#### Art. 10
+### Art. 10
 
 Finanziamento della spesa
 
@@ -162,7 +162,7 @@ Gli interventi di cui al presente titolo sono da considerare di prima necessita'
 
 Le aperture di credito a favore dei funzionari delegati possono essere effettuate anche oltre il limite previsto dall'articolo 56 del regio decreto 18 novembre 1923, n. 2440, e successive modificazioni.
 
-#### Art. 11
+### Art. 11
 
 Interventi assistenziali integrativi
 
@@ -170,7 +170,7 @@ Le regioni disciplinano, con apposite norme, gli interventi assistenziali integr
 
 Le regioni possono disciplinare, altresi', gli interventi integrativi per il reinserimento dei profughi nella vita economica e sociale del Paese.
 
-#### Art. 12
+### Art. 12
 
 Comunicazioni ai comuni
 
@@ -178,11 +178,11 @@ Le amministrazioni dello Stato debbono comunicare tempestivamente alle regioni e
 
 ## Titolo III - INTERVENTI PER I PROFUGHI DISOCCUPATI
 
-#### Art. 13
+### Art. 13
 
 ((ARTICOLO ABROGATO DALLA L. 12 MARZO 1999, N. 68)).
 
-#### Art. 14
+### Art. 14
 
 Personale insegnante
 
@@ -192,23 +192,21 @@ Essi sono assunti anche in soprannumero, qualora non vi sia vacanza o disponibil
 
 Il personale di cui al presente articolo e' assegnato possibilmente a scuole o istituti indicati nella domanda di assunzione.
 
-#### Art. 15
+### Art. 15
 
 Personale non insegnante
 
 Il personale non insegnante assunto con decreto del Ministro degli affari esteri ai sensi della legge 26 maggio 1975, n. 327, in servizio all'estero nelle istituzioni scolastiche di cui al precedente articolo 14, nonche' negli istituti italiani di cultura, al quale sia riconosciuta la qualifica di profugo, e' assunto a domanda, anche in soprannumero, in servizio non di ruolo con la qualifica corrispondente a quella posseduta, nelle scuole ed istituti statali di istruzione primaria e secondaria funzionanti nel territorio nazionale. Esso e' assegnato possibilmente in scuole o istituti indicati nella domanda di assunzione.
 
-#### Art. 16
+### Art. 16
 
 Decadenza del diritto
 
 Le disposizioni del presente titolo, con esclusione per quelle contenute nell'articolo 13, gia' previste dalla legge 2 aprile 1968, n. 482, si applicano fino a quattro anni dalla data di rimpatrio del profugo o entro due anni dall'entrata in vigore della presente legge.
 
-## Titolo IV - RIPRESA DI ATTIVITA' ARTIGIANALE, COMMERCIALE, INDUSTRIALE E
+## Titolo IV - RIPRESA DI ATTIVITA' ARTIGIANALE, COMMERCIALE, INDUSTRIALE E PROFESSIONALE
 
-### PROFESSIONALE
-
-#### Art. 17
+### Art. 17
 
 Presupposti per la ripresa dell'esercizio delle attivita'
 
@@ -220,7 +218,7 @@ Le relative domande devono essere presentate non oltre quattro anni o dalla data
 
 Per il procedimento di iscrizione agli albi e per le impugnative avverso i dinieghi si applicano, in quanto compatibili, le norme attualmente in vigore.
 
-#### Art. 18
+### Art. 18
 
 Esercizio della professione di notaio
 
@@ -230,7 +228,7 @@ La predetta domanda deve essere presentata non oltre un anno dalla data del rimp
 
 I notai in soprannumero di cui al primo comma sono successivamente iscritti di ufficio tra i concorrenti a tutte le sedi vacanti nel distretto cui appartengono, sino a quando non conseguano il trasferimento.
 
-#### Art. 19
+### Art. 19
 
 Farmacisti profughi
 
@@ -244,7 +242,7 @@ Non possono essere comunque conferite ai sensi del comma precedente, le farmacie
 
 Le domande, volte ad ottenere l'autorizzazione all'apertura ed all'esercizio di una farmacia, presentate dai profughi e assimilati ai profughi a norma delle vigenti disposizioni in materia e non ancora definite, si intendono proposte ai sensi e agli effetti del secondo comma del presente articolo.
 
-#### Art. 20
+### Art. 20
 
 Conferimento di farmacie
 
@@ -254,7 +252,7 @@ Ai sensi dell'articolo 7 della legge 2 aprile 1968, n. 475, il servizio prestato
 
 Il punteggio complessivo conseguito nella categoria dei titoli relativi all'esercizio professionale non puo' comunque superare, anche a seguito di tale maggiorazione, i punti 32,5 di cui dispone l'intera commissione.
 
-#### Art. 21
+### Art. 21
 
 Licenza di vendita di generi di monopolio
 
@@ -262,7 +260,7 @@ Il beneficio di cui all'articolo 17 non spetta, per quanto riguarda la concessio
 
 Qualora la cessazione dell'esercizio della licenza di vendita di generi di monopolio nel territorio di provenienza sia imputabile a causa di forza maggiore, attestata dall'autorita' consolare, il profugo non perde il diritto alla reintegrazione nell'attivita' commerciale.
 
-#### Art. 22
+### Art. 22
 
 Autotrasporto di persone o di cose
 
@@ -270,7 +268,7 @@ I profughi di cui all'articolo 1, che nei Paesi di provenienza hanno esercitato,
 
 Tale facolta' puo' essere esercitata per ottenere il rilascio di una sola licenza od autorizzazione per ciascuno dei servizi svolti nel Paese di provenienza.
 
-#### Art. 23
+### Art. 23
 
 Rivendite di giornali
 
@@ -278,7 +276,7 @@ I profughi, gia' titolari all'estero di una rivendita di giornali, che presentin
 
 Le commissioni paritetiche interregionali, verificata la sussistenza delle condizioni, sono tenute a consegnare ai profughi le tessere di rilevamento o di autorizzazione all'esercizio dell'attivita' di rivenditore.
 
-#### Art. 24
+### Art. 24
 
 Ripresa dell'esercizio di attivita' agricola
 
@@ -288,7 +286,7 @@ I profughi di cui al precedente comma hanno titolo di preferenza, nel rispetto d
 
 I benefici predetti sono concessi ai profughi di cui all'articolo 1 anche se temporaneamente occupati in attivita' non agricola e in deroga alla composizione del nucleo familiare, purche' si impegnino ad esercitare l'attivita' agricola come attivita' principale nei successivi dieci anni, pena la revoca dei benefici ottenuti.
 
-#### Art. 25
+### Art. 25
 
 Agricoltura e fondi rustici
 
@@ -304,7 +302,7 @@ L'articolo 2 di cui al comma precedente si applica anche ai coltivatori diretti,
 
 All'onere si fara' fronte con i fondi di cui alla legge 25 maggio 1970, n. 364.
 
-#### Art. 26
+### Art. 26
 
 Regioni e Cassa per la formazione della proprieta' contadina
 
@@ -312,13 +310,13 @@ Alle provvidenze di cui agli articoli 24 e 25 provvedono le regioni, sulla base 
 
 Qualora i terreni siano stati acquistati con l'intervento finanziario della Cassa, le spese inerenti alle trasformazioni fondiarie potranno essere dalla Cassa stessa conglobate nel residuo debito ancora in essere, contratto dai profughi per l'acquisto dei terreni. Nel caso, invece, che i profughi stessi intendano avvalersi, sempre per la esecuzione di opere di miglioramento fondiario, di mutui a tasso agevolato, la Cassa e' autorizzata a prestare fidejussione agli istituti di credito concedenti il mutuo, sino alla concorrenza del relativo importo di spesa riconosciuta ammissibile.
 
-#### Art. 27
+### Art. 27
 
 Finanziamenti
 
 I profughi di cui all'articolo 1, che esercitavano nei Paesi di provenienza attivita' industriale, commerciale e artigianale, e che intendano riprendere nel territorio nazionale l'esercizio di dette attivita', a parita' di condizione hanno titolo di precedenza per ottenere finanziamenti a tasso agevolato disposti con provvedimenti legislativi a favore delle imprese industriali, commerciali ed artigianali, sempre che le relative istanze siano state presentate non oltre tre anni dalla data del rimpatrio.
 
-#### Art. 28
+### Art. 28
 
 Esenzioni doganali
 
@@ -328,7 +326,7 @@ Il beneficio dell'esenzione e' concesso a condizione che il rimpatrio abbia luog
 
 Per le attrezzature, i macchinari, i veicoli ed i materiali ammessi al beneficio, si prescinde dai requisiti relativi alla durata del possesso e della permanenza all'estero degli interessati purche' gli stessi ne possano dimostrare la proprieta'.
 
-#### Art. 29
+### Art. 29
 
 Agevolazioni tributarie in materia di imposte dirette
 
@@ -336,7 +334,7 @@ Ai contributi, ai sussidi e alle anticipazioni percepiti in applicazione della p
 
 ## Titolo V - PROVVIDENZE VARIE
 
-#### Art. 30
+### Art. 30
 
 Ripresa dell'attivita' scolastica
 
@@ -356,7 +354,7 @@ L'esame si svolgera' secondo le norme in vigore per lo svolgimento degli esami d
 
 I candidati di cui al terzo e quarto comma del presente articolo sono, a domanda, ammessi alla frequenza della classe subordinatamente all'esito favorevole dell'esame-colloquio.
 
-#### Art. 31
+### Art. 31
 
 Assistenza scolastica
 
@@ -368,7 +366,7 @@ I posti gratuiti e semigratuiti ordinari preso i convitti nazionali e gli educan
 
 Agli studenti universitari indicati nel precedente primo comma le opere universitarie aventi sede nelle regioni a statuto speciale concedono, a domanda, l'assegno di studio di cui alla legge 21 aprile 1969, n. 162, e successive modificazioni, per il primo anno dalla data del rimpatrio, anche in deroga ai requisiti soggettivi previsti dagli articoli 2 e 3 della medesima legge e successive modificazioni.
 
-#### Art. 32
+### Art. 32
 
 Equipollenza dei titoli di studio
 
@@ -380,7 +378,7 @@ Le modalita', le condizioni e i presupposti per l'emanazione del suddetto provve
 
 Le disposizioni contenute nel presente articolo nulla innovano alla vigente disciplina in materia di prosecuzione degli studi presso le scuole italiane statali, pareggiate o legalmente riconosciute, di cui all'articolo 14 del regio decreto 4 maggio 1925, n. 653.
 
-#### Art. 33
+### Art. 33
 
 Dispensa dalla ferma di leva
 
@@ -388,7 +386,7 @@ I profughi di cui all'articolo 1, che siano soggetti agli obblighi del servizio 
 
 La relativa richiesta in carta semplice, corredata dall'attestazione della qualifica di profugo rilasciata dal prefetto, dovra' essere presentata agli uffici di leva, per gli iscritti nelle liste di leva non ancora arruolati, o ai distretti militari competenti per territorio, per gli arruolati dispensati dal presentarsi alle armi quali regolarmente residenti all'estero, che rimpatriano prima del compimento del ventottesimo anno di eta'.
 
-#### Art. 34
+### Art. 34
 
 Assegnazione di alloggi
 
@@ -416,7 +414,7 @@ AGGIORNAMENTO (1)
 
 La L. 15 ottobre 1991, n. 344 ha disposto (con l'art. 4,comma 1) che: "L'aliquota di alloggi riservata alla categoria dei profughi dall'articolo 34 della legge 26 dicembre 1981, n. 763, e' stabilita in misura non inferiore al 20 per cento".
 
-#### Art. 35
+### Art. 35
 
 Riscatti
 
@@ -424,19 +422,19 @@ I profughi che, alla data di entrata in vigore della presente legge, risultino t
 
 Tale facolta' puo' essere esercitata entro tre anni dalla data di entrata in vigore della presente legge.
 
-#### Art. 36
+### Art. 36
 
 Rilascio delle attestazioni delle autorita' consolari
 
 Le attestazioni previste dalla presente legge ai fini del riconoscimento della qualifica di profugo, nonche' le certificazioni dell'esercizio dell'attivita' professionale svolta nei Paesi di provenienza da parte dei profughi sono rilasciate dalle competenti autorita' consolari, fatta salva la facolta' del Ministero degli affari esteri di integrarle, ove necessario.
 
-#### Art. 37
+### Art. 37
 
 Decorrenza dei termini
 
 I profughi di cui all'articolo 1 che siano rimpatriati prima della data di entrata in vigore della presente legge possono chiedere i benefici della stessa, esclusi quelli di prima necessita' di cui all'articolo 10, presentando domanda entro un anno dalla anzidetta data o entro il maggior termine previsto dalle singole disposizioni sopra indicate.
 
-#### Art. 38
+### Art. 38
 
 Abrogazione di norme
 

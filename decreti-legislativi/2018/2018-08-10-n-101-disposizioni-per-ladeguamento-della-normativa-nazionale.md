@@ -54,11 +54,9 @@ E M A N A
 
 il seguente decreto legislativo:
 
-## Capo I - Modifiche al titolo e alle premesse del codice in materia di
+## Capo I - Modifiche al titolo e alle premesse del codice in materia di protezione dei dati personali di cui al decreto legislativo 30 giugno 2003, n. 196
 
-### protezione dei dati personali di cui al decreto legislativo 30 giugno - 2003, n. 196
-
-#### Art. 1
+### Art. 1
 
 Modifiche al titolo e alle premesse
 
@@ -110,11 +108,9 @@ Visto il Regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 2
 
 > «Codice in materia di protezione dei dati personali, recante disposizioni per l'adeguamento dell'ordinamento nazionale al regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonche' alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE.»
 
-## Capo II - Modifiche alla parte I del codice in materia di protezione dei dati
+## Capo II - Modifiche alla parte I del codice in materia di protezione dei dati personali di cui al decreto legislativo 30 giugno 2003, n. 196
 
-### personali di cui al decreto legislativo 30 giugno 2003, n. 196
-
-#### Art. 2
+### Art. 2
 
 Modifiche alla parte I, titolo I, del decreto legislativo 30 giugno 2003, n. 196
 
@@ -342,11 +338,9 @@ L'organismo nazionale di accreditamento di cui all'articolo 43, paragrafo 1, let
 
 > \- Il decreto legislativo 30 giugno 2003, n. 196 e' citato nelle note alle premesse.
 
-## Capo III - Modifiche alla parte II del codice in materia di protezione dei dati
+## Capo III - Modifiche alla parte II del codice in materia di protezione dei dati personali di cui decreto legislativo 30 giugno 2003, n. 196
 
-### personali di cui decreto legislativo 30 giugno 2003, n. 196
-
-#### Art. 3
+### Art. 3
 
 Modifiche alla rubrica e al titolo I della parte II,
 
@@ -372,7 +366,7 @@ c) all'articolo 52:
 
 > \- Il decreto legislativo 30 giugno 2003, n. 196 e' citato nelle note alle premesse.
 
-#### Art. 4
+### Art. 4
 
 Modifiche alla parte II, titolo III,
 
@@ -392,7 +386,7 @@ del decreto legislativo 30 giugno 2003, n. 196
 
 > \- Il decreto legislativo 30 giugno 2003, n. 196 e' citato nelle note alle premesse.
 
-#### Art. 5
+### Art. 5
 
 Modifiche alla parte II, titolo IV,
 
@@ -442,7 +436,7 @@ c) all'articolo 61:
 
 > 4\. A richiesta dell'interessato l'ordine o collegio professionale puo' altresi' fornire a terzi notizie o informazioni relative, in particolare, a speciali qualificazioni professionali non menzionate nell'albo, ovvero alla disponibilita' ad assumere incarichi o a ricevere materiale informativo a carattere scientifico inerente anche a convegni o seminari.».
 
-#### Art. 6
+### Art. 6
 
 Modifiche alla parte II, titolo V,
 
@@ -592,7 +586,7 @@ i) all'articolo 92:
 
 > 4\. Dopo il raggiungimento della maggiore eta' le informazioni sono fornite all'interessato nel caso in cui non siano state fornite in precedenza.»
 
-#### Art. 7
+### Art. 7
 
 Modifiche alla parte II, titolo VI,
 
@@ -608,7 +602,7 @@ del decreto legislativo 30 giugno 2003, n. 196
 
 > \- Il decreto legislativo 30 giugno 2003, n. 196 e' citato nelle note alle premesse.
 
-#### Art. 8
+### Art. 8
 
 Modifiche alla parte II, titolo VII,
 
@@ -788,7 +782,7 @@ s) l'articolo 110-bis e' sostituito dal seguente:
 
 > «Art. 109 (Dati statistici relativi all'evento della nascita). - 1. Per la rilevazione dei dati statistici relativi agli eventi di nascita, compresi quelli relativi ai nati affetti da malformazioni e ai nati morti, nonche' per i flussi di dati anche da parte di direttori sanitari, si osservano, oltre alle disposizioni di cui al decreto del Ministro della sanita' 16 luglio 2001, n. 349, le modalita' tecniche determinate dall'Istituto nazionale di statistica, sentiti i Ministri della salute, dell'interno e il Garante.».
 
-#### Art. 9
+### Art. 9
 
 Modifiche alla parte II, titolo VIII,
 
@@ -840,7 +834,7 @@ i) all'articolo 116, comma 1, le parole «ai sensi dell'articolo 23» sono sosti
 
 > 2\. Il Ministro del lavoro e delle politiche sociali stabilisce con proprio decreto le linee-guida di apposite convenzioni da stipulare tra gli istituti di patronato e di assistenza sociale e gli enti eroganti le prestazioni.»
 
-#### Art. 10
+### Art. 10
 
 Modifiche alla parte II, titolo IX,
 
@@ -868,7 +862,7 @@ c) all'articolo 120:
 
 > 3\. Per quanto non previsto dal presente articolo si applicano le disposizioni dell'art. 135 del codice delle assicurazioni private di cui al decreto legislativo 7 settembre 2005, n. 209».
 
-#### Art. 11
+### Art. 11
 
 Modifiche alla parte II, titolo X, del decreto legislativo 30 giugno 2003, n. 196
 
@@ -966,7 +960,7 @@ l) dopo l'articolo 132-bis sono inseriti i seguenti:
 
 «Art. 132-quater (Informazioni sui rischi). - 1. Il fornitore di un servizio di comunicazione elettronica accessibile al pubblico informa gli abbonati e, ove possibile, gli utenti, mediante linguaggio chiaro, idoneo e adeguato rispetto alla categoria e alla fascia di eta' dell'interessato a cui siano fornite le suddette informazioni, con particolare attenzione in caso di minori di eta', se sussiste un particolare rischio di violazione della sicurezza della rete, indicando, quando il rischio e' al di fuori dell'ambito di applicazione delle misure che il fornitore stesso e' tenuto ad adottare a norma dell'articolo 132-ter, commi 2, 3 e 5, tutti i possibili rimedi e i relativi costi presumibili. Analoghe informazioni sono rese al Garante e all'Autorita' per le garanzie nelle comunicazioni.».
 
-#### Art. 12
+### Art. 12
 
 Modifiche alla parte II, titolo XII,
 
@@ -1022,11 +1016,9 @@ f) l'articolo 139 e' sostituito dal seguente:
 
 > c) finalizzato esclusivamente alla pubblicazione o diffusione anche occasionale di articoli, saggi e altre manifestazioni del pensiero anche nell'espressione accademica, artistica e letteraria.»
 
-## Capo IV - Modifiche alla parte III e agli allegati del codice in materia di
+## Capo IV - Modifiche alla parte III e agli allegati del codice in materia di protezione dei dati personali di cui al decreto legislativo 30 giugno 2003, n. 196
 
-### protezione dei dati personali di cui al decreto legislativo 30 giugno - 2003, n. 196
-
-#### Art. 13
+### Art. 13
 
 Modifiche alla parte III, titolo I,
 
@@ -1086,7 +1078,7 @@ Tutte le controversie che riguardano le materie oggetto dei ricorsi giurisdizion
 
 > \- Il decreto legislativo 30 giugno 2003, n. 196 e' citato nelle note alle premesse.
 
-#### Art. 14
+### Art. 14
 
 Modifiche alla parte III, titolo II,
 
@@ -1272,7 +1264,7 @@ m) dopo l'articolo 160 e' inserito il seguente:
 
 > 6\. Quando emergono indizi di reato si osserva la disposizione di cui all'art. 220 delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, approvate condecreto legislativo 28 luglio 1989, n. 271.»
 
-#### Art. 15
+### Art. 15
 
 Modifiche alla parte III, titolo III, del decreto legislativo 30 giugno 2003, n. 196
 
@@ -1346,7 +1338,7 @@ f) l'articolo 171 e' sostituito dal seguente:
 
 g) all'articolo 172, comma 1, dopo le parole «pubblicazione della sentenza» sono aggiunte le seguenti: «, ai sensi dell'articolo 36, secondo e terzo comma, del codice penale».
 
-#### Art. 16
+### Art. 16
 
 Modifiche all'allegato A
 
@@ -1390,7 +1382,7 @@ del decreto legislativo 30 giugno 2003, n. 196
 
 ## Capo V - Disposizioni processuali
 
-#### Art. 17
+### Art. 17
 
 Modifiche al decreto legislativo
 
@@ -1424,7 +1416,7 @@ Modifiche al decreto legislativo
 
 ## Capo VI - Disposizioni transitorie, finali e finanziarie
 
-#### Art. 18
+### Art. 18
 
 Definizione agevolata delle violazioni in materia di protezione dei dati personali
 
@@ -1446,7 +1438,7 @@ AGGIORNAMENTO (5)
 
 La Corte Costituzionale con sentenza 23 novembre - 28 dicembre 2021, n. 260 (in G.U. 1ª s.s. 29/12/2021, n. 52) ha dichiarato "l'illegittimita' costituzionale dell'art. 18, comma 5, del decreto legislativo 10 agosto 2018, n. 101, recante «Disposizioni per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonche' alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione dei dati)»".
 
-#### Art. 19
+### Art. 19
 
 Trattazione di affari pregressi
 
@@ -1464,7 +1456,7 @@ Trattazione di affari pregressi
 
 > \- Il regolamento (UE) n. 2016/679 e' citato nelle note alle premesse.
 
-#### Art. 20
+### Art. 20
 
 Codici di deontologia e di buona condotta vigenti
 
@@ -1490,7 +1482,7 @@ b) la procedura di approvazione si concluda entro sei mesi dalla sottoposizione 
 
 > \- Il regolamento (UE) n. 2016/679 e' citato nelle note alle premesse.
 
-#### Art. 21
+### Art. 21
 
 Autorizzazioni generali del Garante
 
@@ -1510,7 +1502,7 @@ per la protezione dei dati personali
 
 > \- Il regolamento (UE) n. 2016/679 e' citato nelle note alle premesse.
 
-#### Art. 22
+### Art. 22
 
 Altre disposizioni transitorie e finali
 
@@ -1548,7 +1540,7 @@ b) al comma 10, le parole «di cui all'articolo 162, comma 2-quater» sono sosti
 
 15\. All'articolo 5-ter, comma 1, lettera c), del decreto legislativo 14 marzo 2013, n. 33 le parole «di cui all'articolo 162, comma 2-bis» sono sostituite dalle seguenti: «di cui all'articolo 166, comma 2».
 
-#### Art. 23
+### Art. 23
 
 Disposizioni di coordinamento
 
@@ -1702,7 +1694,7 @@ d) all'articolo 45 del decreto legislativo 18 maggio 2018, n. 51, il riferimento
 
 > \- Il regolamento (UE) n. 2016/679 e' citato nelle note alle premesse.
 
-#### Art. 24
+### Art. 24
 
 Applicabilita' delle sanzioni amministrative
 
@@ -1736,7 +1728,7 @@ A tali fatti non si applicano le sanzioni amministrative accessorie introdotte d
 
 > «Quando, per qualsiasi effetto giuridico, si deve eseguire un ragguaglio fra pene pecuniarie e pene detentive, il computo ha luogo calcolando euro 250, o frazione di euro 250, di pena pecuniaria per un giorno di pena detentiva.»
 
-#### Art. 25
+### Art. 25
 
 Trasmissione degli atti all'autorita' amministrativa
 
@@ -1770,7 +1762,7 @@ Quando e' stata pronunciata sentenza di condanna, il giudice dell'impugnazione, 
 
 > Il pagamento in misura ridotta e' ammesso anche nei casi in cui le norme antecedenti all'entrata in vigore della presente legge non consentivano l'oblazione.»
 
-#### Art. 26
+### Art. 26
 
 Disposizioni finanziarie
 
@@ -1788,7 +1780,7 @@ Disposizioni finanziarie
 
 > 1025\. Ai fini dell'attuazione dei commi 1020, 1021, 1022, 1023 e 1024 e' autorizzata la spesa di 2 milioni di euro annui a decorrere dall'anno 2018.»
 
-#### Art. 27
+### Art. 27
 
 Abrogazioni
 

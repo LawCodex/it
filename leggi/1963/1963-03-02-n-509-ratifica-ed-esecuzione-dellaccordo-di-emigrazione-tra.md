@@ -25,11 +25,11 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo di emigrazione tra l'Italia e gli Stati Uniti del Brasile, concluso in Roma il 9 dicembre 1960.
 
-### Art. 2
+## Art. 2
 
 Piena ed intera esecuzione e' data all'Accordo indicato nell'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 51 dell'Accordo stesso.
 
@@ -71,13 +71,13 @@ esteri;
 
 i quali hanno convenuto quanto segue:
 
-### Articolo 1
+## Articolo 1
 
 Il presente Accordo ha lo scopo di orientare, organizzare e
 
 assistere le correnti emigratorie italiane per il Brasile, riunendo gli sforzi di entrambe le Alte Parti Contraenti, affinche' i problemi emigratori e di colonizzazione tra i due Paesi abbiano una soluzione pratica, rapida ed efficace, tenendo conto della convenienza di mantenere l'unita' dei nuclei familiari.
 
-### Articolo 2
+## Articolo 2
 
 L'emigrazione italiana verso il Brasile puo' essere libera o
 
@@ -89,25 +89,25 @@ Comitato Intergovernativo per le Migrazioni Europee (C. I. M. E.) o di altri Org
 
 ## Emigrazione libera
 
-### Articolo 3
+## Articolo 3
 
 L'emigrazione libera e' quella che si attua per iniziativa ed a
 
 spese degli emigranti, sia considerati individualmente che ai gruppi di persone o a nuclei familiari.
 
-### Articolo 4
+## Articolo 4
 
 I Governi delle Alte Parti Contraenti possono, per mezzo di Scambi di Note, stabilire particolari disposizioni allo scopo di facilitare e favorire l'emigrazione libera degli italiani verso il Brasile, impegnandosi inoltre a fornire tutte le informazioni atte ad orientarla.
 
 ## Emigrazione assistita
 
-### Articolo 5
+## Articolo 5
 
 L'emigrazione assistita e' quella che si attua sulla base di
 
 programmi previamente stabiliti, di comune accordo, fra le Alte Parti Contraenti e con l'assistenza di cui agli articoli seguenti.
 
-### Articolo 6
+## Articolo 6
 
 L'emigrazione assistita di italiani nel Brasile comprende, fra le altre, le seguenti categorie:
 
@@ -129,11 +129,11 @@ e) familiari che accompagnino emigranti assistiti o che siano
 
 richiamati da connazionali emigrati e domiciliati in Brasile.
 
-### Articolo 7
+## Articolo 7
 
 Gli emigranti italiani che si stabiliscono in Brasile, nel quadro dell'emigrazione assistita, godono delle facilitazioni stabilite nel presente Accordo e di quelle, che saranno concesse mediante accordi speciali, da concretarsi per mezzo di Scambi di Note tra i due Governi.
 
-### Articolo 8
+## Articolo 8
 
 Il Governo italiano autorizza, in conformita' alle disposizioni
 
@@ -153,7 +153,7 @@ d) sementi vegetali, selezionate e di interesse tecnico ed
 
 economico ed animali da riproduzione.
 
-### Articolo 9
+## Articolo 9
 
 Il Governo brasiliano esenta i beni citati nell'articolo precedente
 
@@ -161,13 +161,13 @@ dal regime di licenza preventiva, dalle imposte di importazione e consumo, dalla
 
 Paragrafo unico. - I beni di cui al presente articolo non potranno essere venduti prima, che siano decorsi due anni dalla loro entrata in Brasile. Nell'eventualita' che l'emigrato debba lasciare il Brasile prima della, decorrenza di tale periodo, sara' autorizzato a portare con se' i suoi beni.
 
-### Articolo 10
+## Articolo 10
 
 I benefici concessi con gli articoli 8 e 9 si riferiscono ai beni relativi alla qualifica professionale dell'emigrante e debbono essere in quantita' corrispondente alla sua condizione economica e sufficiente all'inizio della sua attivita' in Brasile.
 
 ## Reclutamento e selezione
 
-### Articolo 11
+## Articolo 11
 
 Le autorita' italiane competenti effettueranno, in relazione alle richieste del Governo brasiliano, il reclutamento e la preselezione degli emigranti assistiti e compileranno le liste dei candidati, nelle quali saranno contenute le indicazioni necessarie per la selezione definitiva.
 
@@ -179,7 +179,7 @@ Le autorita' italiane promuoveranno un'adeguata diffusione di dette
 
 notizie, allo scopo di fornire esaurienti informazioni ai lavoratori interessati.
 
-### Articolo 12
+## Articolo 12
 
 Le autorita' brasiliane procederanno alla selezione definitiva
 
@@ -197,13 +197,13 @@ Il servizio tecnico brasiliano concordera' previamente con il
 
 Ministero del lavoro e della previdenza sociale il lavoro organizzativo delle operazioni di selezione, secondo le particolari esigenze delle categorie da selezionare.
 
-### Articolo 13
+## Articolo 13
 
 Verificato da parte dell'autorita' consolare brasiliana in Italia, l'adempimento delle norme indicate nell'articolo precedente, vengono concessi all'emigrante il visto di ingresso gratuito e l'autorizzazione all'introduzione dei beni di cui agli articoli 8 e 9.
 
 ## Imbarco e trasporto
 
-### Articolo 14
+## Articolo 14
 
 Sono a carico del Governo italiano, salvo casi speciali, le spese di trasporto e di mantenimento dei candidati all'emigrazione durante lo svolgimento delle operazioni di preselezione e selezione.
 
@@ -211,7 +211,7 @@ Sono ugualmente a carico del Governo italiano le spese di
 
 avviamento all'imbarco degli emigranti e del loro bagaglio, nonche' le spese di trasporto lino al porto di imbarco dei beni elencati nell'articolo 8.
 
-### Articolo 15
+## Articolo 15
 
 Per il trasporto degli emigranti italiani in Brasile e dei loro
 
@@ -223,7 +223,7 @@ Parti Contraenti stabiliranno, mediante Scambio di Note, il modo e le condizioni
 
 ## Ricevimento, avviamento e collocamento
 
-### Articolo 16
+## Articolo 16
 
 Il Governo brasiliano, dallo sbarco dell'emigrante assistito fino alla localita' di destinazione, provvedera':
 
@@ -253,19 +253,19 @@ Paragrafo 2. - Le operazioni di controllo allo sbarco
 
 dell'emigrante e dei suoi beni e animali avverranno in conformita', alle disposizioni vigenti in materia attenendosi, per quanto riguarda i beni, al disposto dell'articolo 9.
 
-### Articolo 17
+## Articolo 17
 
 Il Governo brasiliano concedera' particolari facilitazioni per la costituzione e l'attivita' di associazioni assistenziali, composte di elementi brasiliani e italiani residenti in Brasile, aventi lo scopo di favorire e aiutare l'emigrazione italiana.
 
 Gli statuti e la composizione di tali associazioni dovranno essere approvati dalle autorita' brasiliane, sentita la Rappresentanza diplomatica italiana. Tali associazioni avranno facolta' di sottoporre alle competenti autorita' delle due Parti tutte le questioni concernenti il benessere degli emigranti e il rispetto dei diritti loro assicurati per legge o per contratto.
 
-### Articolo 18
+## Articolo 18
 
 La responsabilita' del Governo brasiliano per le obbligazioni
 
 stabilite dall'articolo 16 verra' a cessare con il collocamento dell'emigrante e dei suoi beni nel luogo di destinazione, salve le ipotesi di cui al primo ed al secondo capoverso dell'articolo 19.
 
-### Articolo 19
+## Articolo 19
 
 Si considera collocato l'emigrante giunto nella localita' di
 
@@ -281,55 +281,55 @@ aiuto all'emigrante ed alla sua famiglia Potranno essere prese in considerazione
 
 ## Colonizzazione e stabilimento
 
-### Articolo 20
+## Articolo 20
 
 Le Alte Parti Contraenti incoraggeranno l'elaborazione di piani di colonizzazione prendendo le misure amministrative, tecniche e finanziarie atte a facilitarne l'attuazione.
 
-### Articolo 21
+## Articolo 21
 
 I programmi per il reclutamento e la selezione di emigranti
 
 destinati a nuclei di colonizzazione dovranno essere previamente approvati dalle competenti autorita' brasiliane e italiane. Essi dovranno specificare gli aspetti economico-finanziari e tecnico-produttivi, le condizioni generali di vita e di lavoro e, in particolare, la situazione degli alloggi, nonche' gli aiuti e le facilitazioni di finanziamento accordati ai coloni.
 
-### Articolo 22
+## Articolo 22
 
 I programmi di colonizzazione verranno attuati nelle aree del
 
 territorio brasiliano piu' adatte allo sviluppo del Paese ed alla prosperita' dei coloni italiani, secondo un piano generale di orientamento delle correnti migratorie e di colonizzazione elaborato dal Governo brasiliano.
 
-### Articolo 23
+## Articolo 23
 
 Le Alte Parti Contraenti considerano colono ogni agricoltore,
 
 proprietario o no, che, per iniziativa ufficiale o privata, si stabilisca in zona rurale, svolgendo in essa le attivita' caratteristiche di quell'ambiente.
 
-### Articolo 24
+## Articolo 24
 
 La zona rurale comprende le regioni nelle quali gli abitanti si
 
 dedichino prevalentemente ad attivita' caratteristiche dell'ambiente rurale.
 
-### Articolo 25
+## Articolo 25
 
 Lo stabilimento dell'emigrante appartenente alle categorie c) e d),
 
 di cui all'articolo 6, sara' condizionato all'osservanza di quanto stabilito nell'articolo 22.
 
-### Articolo 26
+## Articolo 26
 
 Gli emigranti destinati ad esercitare attivita' nel settore della colonizzazione con il godimento dei benefici previsti per l'emigrazione assistita, che non rimanga no in zona rurale per un periodo di almeno tre anni, decadono dai benefici previsti in favore delle categorie indicate nell'articolo 6, lettere c) e d), eccettuati i casi previamente autorizzati dalle autorita' brasiliane compatenti.
 
-### Articolo 27
+## Articolo 27
 
 Nel caso di concessione di terre da Parte dei Governi statali o
 
 delle autorita' municipali, il prezzo verra' fissato in conformita' alla legislazione relativa, impegnandosi il Governo Federale del Brasile ad esercitare la sua mediazione, sia per raggiungere il prezzo minimo in relazione alle condizioni locali di valorizzazione, sia per ottenere adeguate facilitazioni di pagamento.
 
-### Articolo 28
+## Articolo 28
 
 Il Governo brasiliano si adoperera' presso i Governi statali e le autorita' municipali affinche' sia concessa ai coloni italiani, durante i tre primi anni del loro stabilimento sui lotti rurali, l'esenzione da tutte le imposte e tasse che incidano o potranno venire ad incidere sopra i loro lotti, sulle coltivazioni, altri veicoli destinati sul trasporto delle persone e dei prodotti, sulle installazioni per l'utilizzazione e la trasformazione di tali prodotti, nonche' sul loro collocamento, incluse le imposte territoriali di trasferimento di proprieta' "inter vivos" "mortis causa" per i lotti pagati integralmente.
 
-### Articolo 29
+## Articolo 29
 
 Le autorita' brasiliane competenti provvederanno all'assistenza
 
@@ -337,7 +337,7 @@ scolastica, medica e sociale.
 
 Paragrafo unico. - Nelle zone nelle quali siano stabiliti i coloni italiani gli Enti di colonizzazione, debitamente riconosciuti dalle Alte Parti Contraenti, potranno fornire al colono assistenza, medica ed eccezionalmente assistenza scolastica, primaria, purche' gli insegnanti che debbono essere di nazionalita' brasiliana siano debitamente abilitati secondo le leggi.
 
-### Articolo 30
+## Articolo 30
 
 Il Governo brasiliano prendera' accordi con i Governi statali
 
@@ -345,7 +345,7 @@ affinche' siano costruite, a carico degli stessi le strade di accesso ai compren
 
 ## Rimpatrio
 
-### Articolo 31
+## Articolo 31
 
 Le autorita', italiane concederanno in base alle norme vigenti in materia il rimpatrio consolare all'emigrante che si rivelasse assolutamente inadattabile all'ambiente brasiliano e che si trovasse senza mezzi. In casi speciali sara' richiesto il parere del Comitato Misto di cui all'articolo 45.
 
@@ -355,7 +355,7 @@ sino al suo imbarco verra' assicurato dal Governo brasiliano, mentre il trasport
 
 ## Assistenza finanziaria
 
-### Articolo 32
+## Articolo 32
 
 Le Alte Parti Contraenti provvederanno affinche' agli emigranti,
 
@@ -367,13 +367,13 @@ Paragrafo 2. - Il Governo brasiliano esentera' da qualsiasi onere fiscale gli ev
 
 ## Assicurazioni
 
-### Articolo 33
+## Articolo 33
 
 Le Alte Parti Contraenti raccomandano l'istituzione a favore
 
 dell'emigrante, di una speciale assicurazione che gli garantisca un'indennita' nel caso in cui durante il viaggio si verifichi un infortunio che determini una incapacita' lavorativa permanente, totale o parziale, e che garantisca altresi' ai suoi aventi diritto un indennizzo per il caso che l'infortunio sia mortale.
 
-### Articolo 34
+## Articolo 34
 
 Le Alte Parti Contraenti raccomanderanno alle imprese di
 
@@ -381,13 +381,13 @@ colonizzazione la stipulazione di assicurazioni agricole contro rischi e danni d
 
 ## Addestramento professionale e riconoscimento di titoli di studio
 
-### Articolo 35
+## Articolo 35
 
 Le Alte Parti Contraenti convengono di promuovere, in ogni suo
 
 grado, l'addestramento professionale dei lavoratori emigranti attraverso corsi di preparazione professionale e corsi di perfezionamento.
 
-### Articolo 36
+## Articolo 36
 
 Le Alte Parti Contraenti si impegnano ad esaminare di comune
 
@@ -395,11 +395,11 @@ accordo la possibilita' di adottare norme, mezzi e criteri suscettibili di facil
 
 ## Previdenza sociale
 
-### Articolo 37
+## Articolo 37
 
 I cittadini di ciascuna delle Alte Parti Contraenti beneficeranno della legislazione di previdenza sociale dell'altra Parte alle stesse condizioni stabilite per i cittadini di quest'ultima.
 
-### Articolo 38
+## Articolo 38
 
 Il Brasile e l'Italia, concordano e entro i limiti dei benefici
 
@@ -411,13 +411,13 @@ Paragrafo 2. - La concessione dei benefici di cui al presente
 
 articolo avra' luogo indipendentemente dal trasferimento delle contribuzioni effettuate nel Paese di origine dal lavoratore emigrato.
 
-### Articolo 39
+## Articolo 39
 
 La concessione delle prestazioni relative all'assicurazione
 
 malattia ai familiari dell'emigrato che rimangono nel Paese di origine avra' luogo, per una durata non superiore a dodici mesi, in base alla legislazione del Paese di accoglimento ed a carico di questo, tramite i competenti istituti del Paese di origine.
 
-### Articolo 40
+## Articolo 40
 
 I benefici stabiliti dai due precedenti articoli verranno
 
@@ -425,19 +425,19 @@ assicurati dal momento in cui il lavoratore emigrato inizia un'attivita' soggett
 
 Tuttavia, per quanto riguarda l'invalidita' e la morte, si terra' conto, in ciascun Paese, delle rispettive legislazioni.
 
-### Articolo 41
+## Articolo 41
 
 Se il lavoratore emigrato ritorni nel Paese di origine nel termine di tre anni (considerato periodo di adattamento al Paese di accoglimento) e riprenda a svolgervi un'attivita' tutelata dalla legislazione previdenziale, gli saranno mantenuti i diritti derivanti dai periodi di assicurazione e di contribuzione ivi anteriormente compiuti.
 
 Paragrafo unico. - Restano salve in ogni caso le disposizioni piu' favorevoli previste dalla legislazione vigente in materia nel Paese di origine.
 
-### Articolo 42
+## Articolo 42
 
 Ove l'emigrato o i suoi familiari lascino il Paese di accoglimento,
 
 non resta pregiudicato il diritto a percepire le prestazioni in denaro loro spettanti. In caso di morte dell'emigrato, tali prestazioni saranno ugualmente corrisposte agli aventi diritto ovunque essi risiedano.
 
-### Articolo 43
+## Articolo 43
 
 Le autorita' competenti dei due Paesi concorderanno le modalita' di
 
@@ -445,13 +445,13 @@ attuazione delle norme previste nel presente Accordo in materia di previdenza so
 
 ## Rimesse di fondi
 
-### Articolo 44
+## Articolo 44
 
 Ai lavoratori emigrati in Brasile verranno assicurati il diritto e la possibilita' di trasferire i propri risparmi in Italia a favore delle loro famiglie o di altre persone a carico e per il loro sostentamento, alle condizioni piu' favorevoli previste dalla legislazione brasiliana vigente in materia valutaria, o secondo quanto stabilito in accordi di pagamento tra l'Italia e Brasile.
 
 ## Comitato misto
 
-### Articolo 45
+## Articolo 45
 
 Al fine di raggiungere, in forma pratica ed efficiente, gli scopi del presente Accordo, e' istituito un Comitato misto composto di sei delegati, di cui tre designati dal Governo brasiliano e tre dal Governo italiano.
 
@@ -471,19 +471,19 @@ Paragrafo 4. - Oltre ai delegati di cui sopra, potranno essere
 
 designati anche degli esperti tecnici in numero non superiore a tre per Delegazione.
 
-### Articolo 46
+## Articolo 46
 
 Il Comitato Misto avra' la sua sede nella capitale del Brasile e
 
 potra' riunirsi ovunque, in Italia, o in Brasile, secondo le necessita' dettate dall'esecuzione del presente Accordo.
 
-### Articolo 47
+## Articolo 47
 
 Il Comitato Misto potra' essere convocato, oltre che per le
 
 riunioni ordinarie, in via straordinaria, a richiesta di una delle due Delegazioni.
 
-### Articolo 48
+## Articolo 48
 
 Il Comitato Misto, che svolgera' la sua azione in collaborazione
 
@@ -511,13 +511,13 @@ Comitato stesso;
 
 g) trattare ogni altra questione che fosse ad esso assegnata, di comune accordo, dai due Governi.
 
-### Articolo 49
+## Articolo 49
 
 Qualora il Comitato Misto non fosse in grado di decidere in merito ad una questione ad esso sottoposta, la rimettera' ai rispettivi Governi.
 
 ## Revisione
 
-### Articolo 50
+## Articolo 50
 
 Le Alte Parti Contraenti si consulteranno periodicamente, per
 
@@ -525,7 +525,7 @@ iniziativa propria o del Comitato Misto, per promuovere gli opportuni aggiorname
 
 ## Entrata in vigore e denuncia
 
-### Articolo 51
+## Articolo 51
 
 Il presente Accordo verra' ratificato non appena siano compiute le formalita' previste dalla legislazione di ognuna delle Alte Parti Contraenti.
 

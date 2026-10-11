@@ -27,19 +27,19 @@ Promulga
 
 la seguente legge:
 
-#### Art. 1
+##### Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo di libero scambio tra l'Unione europea e i suoi Stati membri, da una parte, e la Repubblica di Corea, dall'altra, con Allegati, fatto a Bruxelles il 6 ottobre 2010.
 
-#### Art. 2
+##### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 15.10 dell'Accordo stesso.
 
-#### Art. 3
+##### Art. 3
 
 Copertura finanziaria
 
@@ -51,7 +51,7 @@ Copertura finanziaria
 
 4\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 4
+##### Art. 4
 
 Entrata in vigore
 
@@ -175,7 +175,7 @@ FONDANDOSI sui diritti e gli obblighi rispettivi derivanti dall'accordo di Marra
 
 HANNO CONVENUTO QUANTO SEGUE:
 
-#### ARTICOLO 1.1
+##### ARTICOLO 1.1
 
 Obiettivi
 
@@ -199,7 +199,7 @@ g) favorire, nella consapevolezza che lo sviluppo sostenibile costituisce un obi
 
 h) promuovere gli investimenti diretti esteri senza abbassare o ridurre gli standard in materia di ambiente, lavoro o salute e sicurezza sul lavoro nell'applicazione e nel rispetto delle legislazioni delle Parti in materia di ambiente e di lavoro.
 
-#### ARTICOLO 1.2
+##### ARTICOLO 1.2
 
 Definizioni generali
 
@@ -215,13 +215,13 @@ l'accordo doganale: l'accordo di cooperazione e di reciproca assistenza amminist
 
 ### SEZIONE A - DISPOSIZIONI COMUNI
 
-#### ARTICOLO 2.1
+##### ARTICOLO 2.1
 
 Obiettivo
 
 Le Parti liberalizzano progressivamente e reciprocamente il commercio delle merci nel corso di un periodo transitorio che ha inizio all'entrata in vigore del presente accordo, in conformita' del presente accordo e dell'articolo XXIV del GATT 1994.
 
-#### ARTICOLO 2.2
+##### ARTICOLO 2.2
 
 Ambito di applicazione
 
@@ -233,7 +233,7 @@ Il presente capo si applica al commercio delle merci1 tra le Parti.
 
 prodotti come definiti nel GATT 1994, salvo diversa indicazione.
 
-#### ARTICOLO 2.3
+##### ARTICOLO 2.3
 
 Dazio doganale
 
@@ -253,15 +253,15 @@ d) dei dazi imposti in applicazione delle leggi di una Parte, in conformita' del
 
 trattamento che esse possono concedere, in conformita' dell'accordo OMC, agli scambi commerciali che avvengono sulla base del principio della nazione piu' favorita.
 
-#### ARTICOLO 2.4
+##### ARTICOLO 2.4
 
 Classificazione delle merci
 
 La classificazione delle merci oggetto di scambi commerciali tra le Parti e' quella della nomenclatura tariffaria di ciascuna delle Parti, interpretata in conformita' del sistema armonizzato della Convenzione internazionale sul sistema armonizzato di designazione e codifica delle merci, stipulata a Bruxelles il 14 giugno 1983 (di seguito "il SA").
 
-## SEZIONE B - SOPPRESSIONE DEI DAZI DOGANALI
+### SEZIONE B - SOPPRESSIONE DEI DAZI DOGANALI
 
-#### ARTICOLO 2.5
+##### ARTICOLO 2.5
 
 Soppressione dei dazi doganali
 
@@ -273,13 +273,13 @@ Soppressione dei dazi doganali
 
 4\. Tre anni dopo l'entrata in vigore del presente accordo, le Parti, su richiesta di una di esse, si consultano per decidere se accelerare ed estendere la soppressione dei dazi doganali sulle reciproche importazioni. Una decisione delle Parti nel comitato per il commercio, a seguito di tali consultazioni, sull'accelerazione o l'estensione della soppressione di un dazio doganale su una merce sostituisce le aliquote del dazio o le categorie ai fini della soppressione progressiva dei dazi determinate secondo le rispettive tabelle figuranti nell'allegato 2-A per quella merce.
 
-#### ARTICOLO 2.6
+##### ARTICOLO 2.6
 
 Divieto di aumentare o introdurre dazi
 
 Salvo diversa disposizione del presente accordo, comprese le indicazioni esplicite nelle tabelle di ciascuna Parte figuranti nell'allegato 2-A, nessuna delle Parti puo' aumentare un dazio doganale esistente o imporre un nuovo dazio doganale su una merce originaria dell'altra Parte, fatto salvo il diritto delle Parti di aumentare un dazio doganale al livello stabilito nelle rispettive tabelle figuranti nell'allegato 2-A dopo una riduzione unilaterale.
 
-#### ARTICOLO 2.7
+##### ARTICOLO 2.7
 
 Amministrazione e applicazione dei contingenti tariffari
 
@@ -305,15 +305,15 @@ d) assegna i CT in quantita' commercialmente utili e, per quanto possibile, nell
 
 7\. Salvo diversa disposizione nell'appendice 2-A-1 della rispettiva tabella figurante nell'allegato 2-A, ciascuna delle Parti mette a disposizione dei richiedenti l'intera quantita' del CT specificato in tale appendice a decorrere dalla data di entrata in vigore del presente accordo per il primo anno e dalla data anniversaria della sua entrata in vigore per ogni anno successivo. Nel corso di ogni anno l'autorita' amministratrice della Parte importatrice pubblica tempestivamente sul proprio sito Internet accessibile al pubblico i tassi di utilizzazione e le quantita' restanti disponibili per ogni CT.
 
-## SEZIONE C - MISURE NON TARIFFARIE
+### SEZIONE C - MISURE NON TARIFFARIE
 
-#### ARTICOLO 2.8
+##### ARTICOLO 2.8
 
 Trattamento nazionale
 
 Ciascuna delle Parti accorda un trattamento nazionale alle merci dell'altra Parte in conformita' dell'articolo III del GATT 1994 e delle relative note interpretative. A questo scopo, l'articolo III del GATT 1994 e le sue note interpretative sono incorporate nel presente accordo e ne fanno parte, mutatis mutandis.
 
-#### ARTICOLO 2.9
+##### ARTICOLO 2.9
 
 Restrizioni delle importazioni e delle esportazioni
 
@@ -321,7 +321,7 @@ Nessuna delle Parti puo' adottare o mantenere divieti o restrizioni diversi da d
 
 A questo scopo, l'articolo XI del GATT 1994 e le sue note interpretative sono incorporate nel presente accordo e ne fanno parte, mutatis mutandis.
 
-#### ARTICOLO 2.10
+##### ARTICOLO 2.10
 
 Diritti e altri oneri sulle importazioni
 
@@ -329,19 +329,19 @@ Ciascuna delle Parti dispone che i diritti e gli oneri di qualsiasi natura (dive
 
 importo corrispondente al costo approssimativo dei servizi prestati, non siano calcolati ad valorem e non rappresentino una protezione indiretta delle merci di produzione interna o una tassazione delle importazioni a scopi fiscali.
 
-#### ARTICOLO 2.11
+##### ARTICOLO 2.11
 
 Dazi, tasse o altri diritti e oneri sulle esportazioni
 
 Nessuna delle Parti puo' mantenere in vigore o istituire dazi, tasse o altri diritti e oneri imposti sulle esportazioni di merci dell'altra Parte o in relazione ad esse o tasse, diritti e oneri interni sulle merci esportate verso l'altra Parte superiori a quelli che gravano sulle merci simili destinate alla vendita sul mercato interno.
 
-#### ARTICOLO 2.12
+##### ARTICOLO 2.12
 
 Valutazione in dogana
 
 L'accordo sull'applicazione dell'articolo VII del GATT 1994 contenuto nell'allegato 1A dell'accordo OMC (di seguito "l'accordo sulla valutazione in dogana"), e' incorporato nel presente accordo e ne fa parte, mutatis mutandis. Le riserve e le opzioni previste dall'articolo 20 e dai paragrafi da 2 a 4 dell'allegato III dell'accordo sulla valutazione in dogana non si applicano.
 
-#### ARTICOLO 2.13
+##### ARTICOLO 2.13
 
 Imprese commerciali di Stato
 
@@ -349,7 +349,7 @@ Imprese commerciali di Stato
 
 2\. Se una Parte chiede all'altra Parte informazioni su casi particolari di imprese commerciali di Stato, il loro modo di funzionamento e l'effetto delle loro attivita' sugli scambi bilaterali, la Parte interpellata tiene conto della necessita' di assicurare la massima trasparenza possibile, fatto salvo l'articolo XVII.4(d) del GATT 1994 sulle informazioni riservate.
 
-#### ARTICOLO 2.14
+##### ARTICOLO 2.14
 
 Eliminazione delle misure non tariffarie settoriali
 
@@ -357,9 +357,9 @@ Eliminazione delle misure non tariffarie settoriali
 
 2\. Tre anni dopo l'entrata in vigore del presente accordo e su richiesta di una di esse, le Parti si consultano per esaminare la possibilita' di estendere la portata dei loro impegni sulle misure non tariffarie settoriali relative alle merci.
 
-## SEZIONE D - ECCEZIONI SPECIFICHE RELATIVE ALLE MERCI
+### SEZIONE D - ECCEZIONI SPECIFICHE RELATIVE ALLE MERCI
 
-#### ARTICOLO 2.15
+##### ARTICOLO 2.15
 
 Eccezioni generali
 
@@ -367,9 +367,9 @@ Eccezioni generali
 
 2\. Le Parti convengono che, prima di adottare le misure di cui all'articolo XX, lettere i) e j), del GATT 1994, la Parte che intende adottare le misure fornisce all'altra Parte tutte le informazioni utili per trovare una soluzione accettabile per entrambe. Le Parti possono concordare i mezzi necessari per risolvere le difficolta'. Se un accordo non e' raggiunto entro 30 giorni dalla comunicazione di tali informazioni, la Parte puo' applicare le misure di cui al presente articolo alle merci in questione. Qualora circostanze eccezionali e critiche che richiedono un intervento immediato rendano impossibile un'informazione o un esame preliminari, la Parte che intende adottare le misure puo' applicare immediatamente le misure precauzionali necessarie per fare fronte alla situazione e ne informa immediatamente l'altra Parte.
 
-## SEZIONE E - DISPOSIZIONI ISTITUZIONALI
+### SEZIONE E - DISPOSIZIONI ISTITUZIONALI
 
-#### ARTICOLO 2.16
+##### ARTICOLO 2.16
 
 Comitato per il commercio di merci
 
@@ -383,7 +383,7 @@ b) esaminare le misure tariffarie e non tariffarie relative al commercio delle m
 
 qualora tali funzioni non siano state affidate ai corrispondenti gruppi di lavoro istituiti a norma dell'articolo 15.3, paragrafo 1 (Gruppi di lavoro).
 
-#### ARTICOLO 2.17
+##### ARTICOLO 2.17
 
 Disposizioni particolari in materia di cooperazione amministrativa
 
@@ -395,7 +395,7 @@ Disposizioni particolari in materia di cooperazione amministrativa
 
 ### SEZIONE A - MISURE DI SALVAGUARDIA BILATERALI
 
-#### ARTICOLO 3.1
+##### ARTICOLO 3.1
 
 Applicazione di una misura di salvaguardia bilaterale
 
@@ -411,7 +411,7 @@ i) l'aliquota del dazio doganale NPF applicata alla merce in vigore al momento d
 
 ii) l'aliquota di base del dazio doganale indicata nelle tabelle figuranti nell'allegato 2-A (Soppressione dei dazi doganali) ai sensi dell'articolo 2.5.2 (Soppressione dei dazi doganali).
 
-#### ARTICOLO 3.2
+##### ARTICOLO 3.2
 
 Condizioni e limitazioni
 
@@ -433,13 +433,13 @@ c) oltre la scadenza del periodo transitorio, tranne nei casi in cui vi sia il c
 
 6\. Quando una Parte cessa di applicare una misura di salvaguardia bilaterale, l'aliquota del dazio doganale e' quella che, secondo la tabella figurante nell'allegato 2-A (Soppressione dei dazi doganali), sarebbe stata in vigore in assenza della misura.
 
-#### ARTICOLO 3.3
+##### ARTICOLO 3.3
 
 Misure provvisorie
 
 In circostanze critiche nelle quali un ritardo causerebbe un danno difficilmente riparabile, una Parte puo' applicare una misura di salvaguardia bilaterale in via provvisoria se accerta preliminarmente che e' chiaramente dimostrato che le importazioni di una merce originaria dell'altra Parte sono aumentate per effetto della riduzione o della soppressione di un dazio doganale in applicazione del presente accordo e che tali importazioni arrecano o minacciano di arrecare un grave pregiudizio all'industria nazionale. La durata di una misura provvisoria non supera i 200 giorni, periodo durante il quale la Parte si conforma alle disposizioni dell'articolo 3.2, paragrafi 2 e 3. La Parte rimborsa sollecitamente gli aumenti della tariffa se l'inchiesta di cui all'articolo 3.2, paragrafo 2, non permette di stabilire che i requisiti di cui all'articolo 3.1 sono soddisfatti. La durata di una misura provvisoria e' inclusa del periodo di cui all'articolo 3.2, paragrafo 5, lettera b).
 
-#### ARTICOLO 3.4
+##### ARTICOLO 3.4
 
 Compensazione
 
@@ -449,7 +449,7 @@ Compensazione
 
 3\. Il diritto di sospensione di cui al paragrafo 2 non e' esercitato per i primi 24 mesi durante i quali e' in vigore la misura di salvaguardia bilaterale, a condizione che essa sia conforme alle disposizioni del presente accordo.
 
-#### ARTICOLO 3.5
+##### ARTICOLO 3.5
 
 Definizioni
 
@@ -459,9 +459,9 @@ i termini grave pregiudizio e minaccia di grave pregiudizio si intendono secondo
 
 per periodo transitorio si intende, per una merce, il periodo che va dalla data d'entrata in vigore del presente accordo a 10 anni dopo la data di completamento della riduzione o della soppressione dei dazi, secondo il caso di ciascuna merce.
 
-## SEZIONE B - MISURE DI SALVAGUARDIA AGRICOLE
+### SEZIONE B - MISURE DI SALVAGUARDIA AGRICOLE
 
-#### ARTICOLO 3.6
+##### ARTICOLO 3.6
 
 Misure di salvaguardia agricole
 
@@ -491,9 +491,9 @@ b) se la misura aumenta il dazio contingentale per una merce soggetta a un CT in
 
 8\. Le forniture delle merci in questione che erano in corso sulla base di un contratto stipulato prima che fosse imposto il dazio addizionale di cui ai paragrafi da 1 a 4 sono esentate da tale dazio addizionale, a condizione che possano essere conteggiate nel volume delle importazioni delle merci in questione durante l'anno successivo ai fini dell'applicazione, in quell'anno, delle disposizioni di cui al paragrafo 1.
 
-## SEZIONE C - MISURE DI SALVAGUARDIA GLOBALI
+### SEZIONE C - MISURE DI SALVAGUARDIA GLOBALI
 
-#### ARTICOLO 3.7
+##### ARTICOLO 3.7
 
 Misure di salvaguardia globali
 
@@ -511,9 +511,9 @@ b) una misura di cui all'articolo XIX del GATT 1994 e all'accordo sulle misure d
 
 5\. Le Parti non fanno ricorso alle disposizioni del capo 14 (Risoluzione delle controversie) per questioni attinenti alla presente sezione.
 
-## SEZIONE D - DAZI ANTIDUMPING E DAZI COMPENSATIVI
+### SEZIONE D - DAZI ANTIDUMPING E DAZI COMPENSATIVI
 
-#### ARTICOLO 3.8
+##### ARTICOLO 3.8
 
 Disposizioni generali
 
@@ -529,7 +529,7 @@ b) la richiesta e' strettamente limitata alla parte che non e' sufficientemente 
 
 4\. Purche' lo svolgimento dell'inchiesta non ne sia inutilmente ritardato, alle parti interessate e' data la possibilita' di essere sentite e di esprimere il loro punto di vista nel quadro delle inchieste sui dazi antidumping o compensativi.
 
-#### ARTICOLO 3.9
+##### ARTICOLO 3.9
 
 Notifica
 
@@ -537,13 +537,13 @@ Notifica
 
 2\. Dopo che le autorita' competenti di una Parte hanno ricevuto una domanda debitamente documentata di istituzione di un dazio compensativo riguardante importazioni provenienti dall'altra Parte, e prima dell'apertura di un'inchiesta, la Parte notifica per iscritto all'altra Parte il ricevimento della domanda e propone all'altra Parte una riunione di consultazione con le sue autorita' competenti sulla domanda.
 
-#### ARTICOLO 3.10
+##### ARTICOLO 3.10
 
 Considerazione degli interessi pubblici
 
 Le Parti si sforzano di prendere in considerazione gli interessi pubblici prima di istituire un dazio antidumping o un dazio compensativo.
 
-#### ARTICOLO 3.11
+##### ARTICOLO 3.11
 
 Inchiesta successiva alla cessazione di misure
 
@@ -551,13 +551,13 @@ a seguito di un riesame
 
 Le Parti convengono di esaminare con particolare attenzione ogni domanda di apertura di un'inchiesta antidumping relativa a una merce originaria dell'altra Parte e per la quale nel corso dei 12 mesi precedenti sia cessata l'applicazione di misure antidumping a seguito di un riesame. Se dall'esame preliminare all'apertura non risulta che le circostanze sono mutate, l'inchiesta non ha luogo.
 
-#### ARTICOLO 3.12
+##### ARTICOLO 3.12
 
 Valutazione cumulativa
 
 Se importazioni da piu' paesi sono simultaneamente oggetto di un'inchiesta relativa a dazi antidumping o compensativi, una Parte esamina con particolare attenzione se la valutazione cumulativa dell'effetto delle importazioni dell'altra Parte e' appropriata tenendo conto delle condizioni di concorrenza tra le merci importate e delle condizioni di concorrenza tra le merci importate e le merci simili di produzione interna.
 
-#### ARTICOLO 3.13
+##### ARTICOLO 3.13
 
 Criterio della soglia minima applicabile al riesame
 
@@ -565,21 +565,21 @@ Criterio della soglia minima applicabile al riesame
 
 2\. Quando sono determinati margini individuali ai sensi dell'articolo 9.5 dell'accordo antidumping, non sono imposti dazi agli esportatori o ai produttori della Parte esportatrice per i quali sia stabilito, sulla base di vendite all'esportazione rappresentative, che il margine di dumping e' inferiore alla soglia minima fissata all'articolo 5.8 dell'accordo antidumping.
 
-#### ARTICOLO 3.14
+##### ARTICOLO 3.14
 
 Regola del dazio inferiore
 
 Se una Parte decide di imporre un dazio antidumping o un dazio compensativo, l'ammontare di tale dazio non supera il margine di dumping o di sovvenzione compensabile ed e' inferiore ad esso se tale dazio inferiore e' sufficiente ad eliminare il pregiudizio per l'industria nazionale.
 
-#### ARTICOLO 3.15
+##### ARTICOLO 3.15
 
 Risoluzione delle controversie
 
 Le Parti non fanno ricorso alle disposizioni del capo 14 (Risoluzione delle controversie) per questioni attinenti alla presente sezione.
 
-## SEZIONE E - DISPOSIZIONI ISTITUZIONALI
+### SEZIONE E - DISPOSIZIONI ISTITUZIONALI
 
-#### ARTICOLO 3.16
+##### ARTICOLO 3.16
 
 Gruppo di lavoro "cooperazione in materia di difesa commerciale"
 
@@ -607,13 +607,13 @@ f) cooperare su ogni altra questione per la quale le Parti considerino necessari
 
 ## CAPO 4 - OSTACOLI TECNICI AL COMMERCIO
 
-#### ARTICOLO 4.1
+##### ARTICOLO 4.1
 
 Conferma dell'accordo TBT
 
 Le Parti confermano i diritti e gli obblighi reciproci derivanti dall'accordo sugli ostacoli tecnici al commercio, contenuto nell'allegato 1A dell'accordo OMC (di seguito "l'accordo TBT") che e' incorporato nel presente accordo e ne fa parte, mutatis mutandis.
 
-#### ARTICOLO 4.2
+##### ARTICOLO 4.2
 
 Ambito di applicazione e definizioni
 
@@ -627,7 +627,7 @@ b) alle misure sanitarie e fitosanitarie definite nell'allegato A dell'accordo s
 
 3\. Ai fini del presente capo si applicano le definizioni dell'allegato 1 dell'accordo TBT.
 
-#### ARTICOLO 4.3
+##### ARTICOLO 4.3
 
 Cooperazione comune
 
@@ -645,7 +645,7 @@ d) nel promuovere e nello stimolare la cooperazione bilaterale tra i rispettivi 
 
 3\. Su richiesta, una Parte prende nella dovuta considerazione le proposte di cooperazione avanzate dall'altra Parte in relazione al presente capo.
 
-#### ARTICOLO 4.4
+##### ARTICOLO 4.4
 
 Regolamentazioni tecniche
 
@@ -669,7 +669,7 @@ g) di lasciare un intervallo di tempo sufficiente tra la pubblicazione delle reg
 
 3\. Ciascuna delle Parti si adopera per applicare le regolamentazioni tecniche in modo uniforme e coerente su tutto il proprio territorio. Se la Corea informa la Parte UE di un problema di natura commerciale conseguente a modifiche della legislazione di Stati membri dell'Unione europea che la Corea considera non compatibili con il trattato sul funzionamento dell'Unione europea, la Parte UE fa tutto quanto e' in suo potere per trovare una rapida soluzione del problema.
 
-#### ARTICOLO 4.5
+##### ARTICOLO 4.5
 
 Norme
 
@@ -683,7 +683,7 @@ b) sui rispettivi processi di normazione e la misura in cui utilizzano le norme 
 
 c) sugli accordi di cooperazione messi in atto da ciascuna delle Parti in materia di normazione, per esempio informazioni sulle questioni di normazione negli accordi di libero scambio con terzi.
 
-#### ARTICOLO 4.6
+##### ARTICOLO 4.6
 
 Valutazione della conformita' e accreditamento
 
@@ -713,19 +713,19 @@ d) conformemente all'articolo 5.1.2 dell'accordo TBT, a non esigere procedure di
 
 3\. I principi e le procedure stabiliti per quanto riguarda l'elaborazione e l'adozione di regolamentazioni tecniche a norma dell'articolo 4.4 al fine di evitare inutili ostacoli al commercio e di assicurare la trasparenza e la non discriminazione si applicano anche alle procedure obbligatorie di valutazione della conformita'.
 
-#### ARTICOLO 4.7
+##### ARTICOLO 4.7
 
 Vigilanza del mercato
 
 Le Parti si impegnano a scambiare opinioni sulle attivita' di vigilanza del mercato e di controllo del rispetto della regolamentazione.
 
-#### ARTICOLO 4.8
+##### ARTICOLO 4.8
 
 Oneri della valutazione di conformita'
 
 Le Parti riaffermano il loro obbligo, previsto dall'articolo 5.2.5 dell'accordo TBT, di assicurare che gli oneri della valutazione obbligatoria della conformita' dei prodotti importati siano equi in relazione agli oneri imposti per la valutazione della conformita' di prodotti simili di origine nazionale od originari di altri paesi, tenendo conto dei costi di comunicazione, trasporto e degli altri costi risultanti dalla diversa ubicazione degli impianti del richiedente e dell'organismo di valutazione della conformita', e si impegnano ad applicare questo principio nei campi oggetto del presente capo.
 
-#### ARTICOLO 4.9
+##### ARTICOLO 4.9
 
 Marcatura ed etichettatura
 
@@ -743,7 +743,7 @@ d) la Parte conserva la facolta' di esigere che le informazioni figurino nella m
 
 e) la Parte, nei casi in cui ritenga che cio' non comprometta il raggiungimento di obiettivi legittimi in forza dell'accordo TBT, si adopera per accettare l'uso di etichette non permanenti o staccabili, o di una marcatura o etichettatura figurante nella documentazione di accompagnamento anziche' fisicamente apposta sul prodotto.
 
-#### ARTICOLO 4.10
+##### ARTICOLO 4.10
 
 Meccanismo di coordinamento
 
@@ -767,7 +767,7 @@ f) riesame del presente capo alla luce di ogni sviluppo che intervenga nel quadr
 
 ## CAPO 5 - MISURE SANITARIE E FITOSANITARIE
 
-#### ARTICOLO 5.1
+##### ARTICOLO 5.1
 
 Obiettivo
 
@@ -775,25 +775,25 @@ Obiettivo
 
 2\. Il presente capo mira altresi' a rafforzare la cooperazione tra le Parti sulle questioni del benessere degli animali, tenendo conto di diversi fattori, come le condizioni del settore zootecnico delle Parti.
 
-#### ARTICOLO 5.2
+##### ARTICOLO 5.2
 
 Ambito di applicazione
 
 Il presente capo si applica a tutte le misure sanitarie e fitosanitarie di una Parte che possono incidere, direttamente o indirettamente, sul commercio tra le Parti.
 
-#### ARTICOLO 5.3
+##### ARTICOLO 5.3
 
 Definizione
 
 Ai fini del presente capo, per misura sanitaria o fitosanitaria si intende qualsiasi misura definita nel paragrafo 1 dell'allegato A dell'accordo SPS.
 
-#### ARTICOLO 5.4
+##### ARTICOLO 5.4
 
 Diritti e obblighi
 
 Le Parti riaffermano i propri diritti e obblighi stabiliti dall'accordo SPS.
 
-#### ARTICOLO 5.5
+##### ARTICOLO 5.5
 
 Trasparenza e scambio di informazioni
 
@@ -807,7 +807,7 @@ c) scambiano informazioni su questioni relative all'elaborazione e all'applicazi
 
 d) comunicano, su richiesta di una Parte, i requisiti che si applicano all'importazione di determinati prodotti.
 
-#### ARTICOLO 5.6
+##### ARTICOLO 5.6
 
 Norme internazionali
 
@@ -817,7 +817,7 @@ a) cooperano, su richiesta di una Parte, per giungere a una concezione comune de
 
 b) cooperano nell'elaborazione di norme, orientamenti e raccomandazioni internazionali.
 
-#### ARTICOLO 5.7
+##### ARTICOLO 5.7
 
 Requisiti per l'importazione
 
@@ -825,7 +825,7 @@ Requisiti per l'importazione
 
 2\. Requisiti specifici supplementari per l'importazione possono essere imposti alla Parte esportatrice o a parti di essa in funzione dello status zoosanitario o fitosanitario della Parte esportatrice o di parti di essa determinato dalla Parte importatrice sulla base delle linee guida e delle norme dell'accordo SPS, della commissione del Codex Alimentarius, dell'Organizzazione mondiale per la salute animale (di seguito "UIE") e della convenzione internazionale per la protezione delle piante (di seguito "IPPC").
 
-#### ARTICOLO 5.8
+##### ARTICOLO 5.8
 
 Misure zoosanitarie e fitosanitarie
 
@@ -839,7 +839,7 @@ Misure zoosanitarie e fitosanitarie
 
 5\. La Parte esportatrice fornisce le prove necessarie per dimostrare obiettivamente alla Parte importatrice che tali zone sono e probabilmente rimarranno, rispettivamente, zone indenni da organismi nocivi o malattie e zone a bassa prevalenza di organismi nocivi o malattie. A questo scopo, e' dato alla Parte importatrice, a sua richiesta, un accesso ragionevole per ispezioni, prove e altre procedure pertinenti.
 
-#### ARTICOLO 5.9
+##### ARTICOLO 5.9
 
 Cooperazione sul benessere degli animali
 
@@ -849,7 +849,7 @@ a) scambiano informazioni, competenze ed esperienze per quanto riguarda il benes
 
 b) cooperano nell'elaborazione di norme per il benessere degli animali in sedi internazionali, in particolare in relazione allo stordimento e alla macellazione degli animali.
 
-#### ARTICOLO 5.10
+##### ARTICOLO 5.10
 
 Comitato per le misure sanitarie e fitosanitarie
 
@@ -869,7 +869,7 @@ e) costituire una sede di discussione dei problemi posti dall'applicazione di ce
 
 L'ordine del giorno e' stabilito prima delle riunioni. Le Parti esercitano alternativamente le funzioni di presidenza.
 
-#### ARTICOLO 5.11
+##### ARTICOLO 5.11
 
 Risoluzione delle controversie
 
@@ -877,7 +877,7 @@ Le Parti non fanno ricorso al capo 14 (Risoluzione delle controversie) per quest
 
 ## CAPO 6 - REGIME DOGANALE E FACILITAZIONE DEGLI SCAMBI COMMERCIALI
 
-#### ARTICOLO 6.1
+##### ARTICOLO 6.1
 
 Obiettivi e principi
 
@@ -913,7 +913,7 @@ f) le Parti cooperano e scambiano informazioni allo scopo di promuovere l'applic
 
 g) le misure di facilitazione degli scambi commerciali non pregiudicano il perseguimento di obiettivi politici legittimi, come la tutela della sicurezza nazionale, della salute e dell'ambiente.
 
-#### ARTICOLO 6.2
+##### ARTICOLO 6.2
 
 Svincolo delle merci
 
@@ -935,19 +935,19 @@ d) permettano l'immissione in libera pratica delle merci al punto d'arrivo, senz
 
 forma di cauzione, deposito o altro idoneo strumento, a copertura del pagamento dei dazi doganali, delle tasse e dei diritti relativi all'importazione delle merci.
 
-#### ARTICOLO 6.3
+##### ARTICOLO 6.3
 
 Procedura doganale semplificata
 
 Le Parti si adoperano per applicare procedure di importazione ed esportazione semplificate per gli operatori economici e commerciali che rispondono a determinati criteri stabiliti da una Parte, che permettano in particolare uno svincolo e uno sdoganamento piu' rapidi delle merci, tra cui la presentazione e il trattamento elettronici anticipati delle informazioni prima dell'arrivo fisico delle spedizioni, la riduzione delle ispezioni fisiche e la facilitazione degli scambi commerciali per quanto riguarda, ad esempio, dichiarazioni semplificate con un minimo di documentazione.
 
-#### ARTICOLO 6.4
+##### ARTICOLO 6.4
 
 Gestione del rischio
 
 Ciascuna delle Parti applica sistemi di gestione del rischio, per quanto possibile in forma elettronica, per l'analisi e la determinazione del rischio, che permettano alle proprie autorita' doganali di concentrare le attivita' di ispezione sulle merci ad alto rischio e che semplifichino lo sdoganamento e la circolazione delle merci a basso rischio. Ciascuna delle Parti si basa, per le proprie procedure di gestione del rischio, sulla convenzione internazionale per la semplificazione e l'armonizzazione dei regimi doganali, versione riveduta del 1999 (di seguito "la convenzione di Kyoto") e sulle linee guida per la gestione del rischio dell'OMD.
 
-#### ARTICOLO 6.5
+##### ARTICOLO 6.5
 
 Trasparenza
 
@@ -957,7 +957,7 @@ Trasparenza
 
 3\. Ciascuna delle Parti si consulta con i rappresentanti degli operatori commerciali e delle altre parti interessate e fornisce loro informazioni. Tali consultazioni e informazioni riguardano prescrizioni e procedure importanti nuove o modificate; prima della loro adozione e' data la possibilita' di formulare osservazioni.
 
-#### ARTICOLO 6.6
+##### ARTICOLO 6.6
 
 Decisioni anticipate
 
@@ -967,7 +967,7 @@ Decisioni anticipate
 
 3\. Per facilitare gli scambi commerciali, le Parti includono nel loro dialogo bilaterale aggiornamenti regolari sulle modifiche intervenute nelle rispettive legislazioni per quanto riguarda le materie di cui ai paragrafi 1 e 2.
 
-#### ARTICOLO 6.7
+##### ARTICOLO 6.7
 
 Procedure di ricorso
 
@@ -975,7 +975,7 @@ Procedure di ricorso
 
 2\. Il produttore o l'esportatore puo' fornire informazioni, su richiesta dell'autorita' che esamina il ricorso, direttamente alla Parte che effettua l'esame amministrativo. L'esportatore o il produttore che fornisce le informazioni puo' chiedere alla Parte che procede all'esame amministrativo di trattare tali informazioni in via riservata, secondo le proprie leggi e regolamentazioni.
 
-#### ARTICOLO 6.8
+##### ARTICOLO 6.8
 
 Trattamento riservato
 
@@ -991,7 +991,7 @@ Trattamento riservato
 
 6\. La Parte richiedente, salvo diverso accordo intercorso con la persona che ha fornito le informazioni, fa uso, quando sia opportuno, di tutte le misure previste dalle proprie leggi e dai propri regolamenti per mantenere la riservatezza delle informazioni e proteggere i dati personali nel caso in cui terzi o altre autorita' chiedano la divulgazione delle informazioni in questione.
 
-#### ARTICOLO 6.9
+##### ARTICOLO 6.9
 
 Diritti e oneri
 
@@ -1009,13 +1009,13 @@ e) le informazioni sui diritti e sugli oneri sono pubblicate per mezzo di una fo
 
 f) diritti e oneri nuovi o modificati non sono imposti finche' non sono pubblicate e rese facilmente accessibili le informazioni di cui alla lettera e).
 
-#### ARTICOLO 6.10
+##### ARTICOLO 6.10
 
 Ispezioni pre-spedizione
 
 Le Parti non impongono ispezioni pre-spedizione o equivalenti.
 
-#### ARTICOLO 6.11
+##### ARTICOLO 6.11
 
 Audit post-svincolo
 
@@ -1023,13 +1023,13 @@ Ciascuna delle Parti da' modo agli operatori commerciali di avvalersi dell'appli
 
 L'applicazione di audit post-svincolo non impone obblighi od oneri ingiustificati agli operatori commerciali.
 
-#### ARTICOLO 6.12
+##### ARTICOLO 6.12
 
 Valutazione in dogana
 
 L'accordo sulla valutazione in dogana, senza le riserve e le opzioni in esso previste all'articolo 20 e ai punti da 2 a 4 dell'allegato III, e' incorporato nel presente accordo e ne fa parte mutatis mutandis.
 
-#### ARTICOLO 6.13
+##### ARTICOLO 6.13
 
 Cooperazione doganale
 
@@ -1067,7 +1067,7 @@ ii) il coordinamento delle posizioni, nella massima misura possibile, in tutte l
 
 7\. Le Parti si prestano assistenza reciproca nell'applicazione del presente capo, del protocollo relativo alla definizione della nozione di "prodotti originari" e ai metodi di cooperazione amministrativa e delle rispettive leggi o regolamentazioni doganali.
 
-#### ARTICOLO 6.14
+##### ARTICOLO 6.14
 
 Assistenza amministrativa reciproca nel settore doganale
 
@@ -1075,7 +1075,7 @@ Assistenza amministrativa reciproca nel settore doganale
 
 2\. Le Parti non fanno ricorso al capo 14 (Risoluzione delle controversie) del presente accordo per le questioni oggetto dell'articolo 9.1 del protocollo relativo all'assistenza amministrativa reciproca nel settore doganale.
 
-#### ARTICOLO 6.15
+##### ARTICOLO 6.15
 
 Punti di contatto doganali
 
@@ -1083,7 +1083,7 @@ Punti di contatto doganali
 
 2\. I punti di contatto si adoperano per risolvere per mezzo di consultazioni le questioni operative attinenti al presente capo. Se non puo' essere risolta attraverso i punti di contatto, la questione e' sottoposta al comitato doganale di cui al presente capo.
 
-#### ARTICOLO 6.16
+##### ARTICOLO 6.16
 
 Comitato doganale
 
@@ -1101,7 +1101,7 @@ Comitato doganale
 
 ### SEZIONE A - DISPOSIZIONI GENERALI
 
-#### ARTICOLO 7.1
+##### ARTICOLO 7.1
 
 Obiettivo, ambito di applicazione
 
@@ -1125,7 +1125,7 @@ e settori interessati
 
 determinati paesi e non per quelle di altri non e' considerato tale da annullare o compromettere i vantaggi derivanti da un impegno specifico previsto dal presente capo e dai suoi allegati.
 
-#### ARTICOLO 7.2
+##### ARTICOLO 7.2
 
 Definizioni
 
@@ -1179,7 +1179,7 @@ l) fornitore di servizi: ogni persona che fornisce o si propone di fornire un se
 
 4 Le disposizioni di questa lettera non si applicano allo stabilimento.
 
-#### ARTICOLO 7.3
+##### ARTICOLO 7.3
 
 Comitato per il commercio di servizi, lo stabilimento
 
@@ -1195,9 +1195,9 @@ b) esamina le questioni attinenti al presente capo che gli sono sottoposte dalle
 
 c) da' alle autorita' competenti la possibilita' di scambiare informazioni circa le misure prudenziali in relazione con l'articolo 7.46.
 
-## SEZIONE B - FORNITURA TRANSFRONTALIERA DI SERVIZI
+### SEZIONE B - FORNITURA TRANSFRONTALIERA DI SERVIZI
 
-#### ARTICOLO 7.4
+##### ARTICOLO 7.4
 
 Ambito di applicazione e definizioni
 
@@ -1245,7 +1245,7 @@ c) servizi forniti nell'esercizio dei pubblici poteri: qualsiasi servizio non pr
 
 applicazione della presente sezione e' senza pregiudizio dei diritti e degli obblighi derivanti dal protocollo sulla cooperazione culturale.
 
-#### ARTICOLO 7.5
+##### ARTICOLO 7.5
 
 Accesso al mercato
 
@@ -1269,7 +1269,7 @@ fornitori di servizi dell'altra Parte di avere uno stabilimento ai sensi dell'ar
 
 input utilizzati per la fornitura transfrontaliera di servizi.
 
-#### ARTICOLO 7.6
+##### ARTICOLO 7.6
 
 Trattamento nazionale
 
@@ -1281,7 +1281,7 @@ Trattamento nazionale
 
 4\. Gli impegni specifici assunti in base al presente articolo non implicano l'obbligo per le Parti di compensare eventuali svantaggi competitivi intrinseci derivanti dal carattere estero dei servizi o dei fornitori di servizi in questione.
 
-#### ARTICOLO 7.7
+##### ARTICOLO 7.7
 
 Elenchi degli impegni
 
@@ -1289,7 +1289,7 @@ Elenchi degli impegni
 
 2\. Nessuna delle Parti puo' adottare nei riguardi di servizi o di fornitori di servizi dell'altra Parte nuove misure discriminatorie o misure piu' discriminatorie rispetto al trattamento concesso in base agli impegni specifici assunti in conformita' del paragrafo 1.
 
-#### ARTICOLO 7.8
+##### ARTICOLO 7.8
 
 Trattamento della nazione piu' favorita
 
@@ -1313,9 +1313,9 @@ c) nel quadro di misure oggetto delle esenzioni NPF elencate nell'allegato 7-C.
 
 interpretata come implicante un'estensione l'ambito di applicazione dell'ambito di applicazione della presente sezione.
 
-## SEZIONE C - STABILIMENTO
+### SEZIONE C - STABILIMENTO
 
-#### ARTICOLO 7.9
+##### ARTICOLO 7.9
 
 Definizioni
 
@@ -1347,7 +1347,7 @@ giuridica vanno intesi come comprendenti la partecipazione al capitale di una pe
 
 una persona giuridica ma attraverso altre forme di stabilimento, come una succursale o un ufficio di rappresentanza, all'investitore, compresa la persona giuridica, e' nondimeno concesso, tramite tale stabilimento, il trattamento previsto dal presente accordo per gli investitori. Tale trattamento e' esteso allo stabilimento per mezzo del quale e' esercitata l'attivita' economica e non e' necessariamente esteso ad altre parti dell'investitore situate al di fuori del territorio in cui e' esercitata l'attivita' economica.
 
-#### ARTICOLO 7.10
+##### ARTICOLO 7.10
 
 Ambito di applicazione
 
@@ -1389,7 +1389,7 @@ e fabbricati esclusivamente per un uso militare in relazione alla conduzione di 
 
 applicazione della presente sezione fa salvi i diritti e gli obblighi derivanti dal protocollo sulla cooperazione culturale.
 
-#### ARTICOLO 7.11
+##### ARTICOLO 7.11
 
 Accesso al mercato
 
@@ -1415,7 +1415,7 @@ f) limitazioni del numero totale delle persone fisiche, ad esclusione del person
 
 alle misure adottate per limitare la produzione di un prodotto agricolo.
 
-#### ARTICOLO 7.12
+##### ARTICOLO 7.12
 
 Trattamento nazionale (16)
 
@@ -1433,7 +1433,7 @@ Trattamento nazionale (16)
 
 regolamentano la composizione del consiglio di amministrazione di uno stabilimento, ad esempio i requisiti di cittadinanza e di residenza.
 
-#### ARTICOLO 7.13
+##### ARTICOLO 7.13
 
 Elenchi degli impegni
 
@@ -1441,7 +1441,7 @@ Elenchi degli impegni
 
 2\. Nessuna delle Parti puo' adottare nei riguardi di stabilimenti e investitori dell'altra Parte nuove misure discriminatorie o misure piu' discriminatorie rispetto al trattamento concesso in base agli impegni specifici assunti in conformita' del paragrafo 1.
 
-#### ARTICOLO 7.14
+##### ARTICOLO 7.14
 
 Trattamento NPF (17)
 
@@ -1469,7 +1469,7 @@ interpretata come implicante un'estensione l'ambito di applicazione dell'ambito 
 
 disposizioni di protezione degli investimenti non contemplate in questo capo, comprese le disposizioni relative alle procedure di risoluzione delle controversie investitore-Stato.
 
-#### ARTICOLO 7.15
+##### ARTICOLO 7.15
 
 Altri accordi
 
@@ -1479,7 +1479,7 @@ a) limitativa dei diritti degli investitori delle Parti di usufruire del trattam
 
 b) derogante agli obblighi giuridici internazionali imposti alle Parti da accordi che prevedano per gli investitori delle Parti un trattamento piu' favorevole di quello previsto dal presente accordo.
 
-#### ARTICOLO 7.16
+##### ARTICOLO 7.16
 
 Riesame del quadro giuridico degli investimenti
 
@@ -1491,11 +1491,9 @@ Riesame del quadro giuridico degli investimenti
 
 &#160;19 Costituito dal presente capo e dagli allegati 7-A e 7-C.
 
-## SEZIONE D - PRESENZA TEMPORANEA DI PERSONE FISICHE
+### SEZIONE D - PRESENZA TEMPORANEA DI PERSONE FISICHE PER MOTIVI PROFESSIONALI
 
-### PER MOTIVI PROFESSIONALI
-
-#### ARTICOLO 7.17
+##### ARTICOLO 7.17
 
 Ambito di applicazione e definizioni
 
@@ -1545,7 +1543,7 @@ lettera deve essere conforme alle disposizioni legislative e regolamentari e all
 
 lettera deve essere conforme alle disposizioni legislative e regolamentari e alle condizioni della Parte in cui il contratto viene eseguito.
 
-#### ARTICOLO 7.18
+##### ARTICOLO 7.18
 
 Personale chiave e laureati in tirocinio
 
@@ -1567,7 +1565,7 @@ da accordi bilaterali di esenzione dal visto tra la Corea e uno degli Stati memb
 
 puo' esigere che uno stabilimento nomini come dirigenti superiori persone fisiche aventi una particolare cittadinanza o residenti nel proprio territorio.
 
-#### ARTICOLO 7.19
+##### ARTICOLO 7.19
 
 Venditori di servizi alle imprese
 
@@ -1579,7 +1577,7 @@ Nei settori liberalizzati a norma delle sezioni B o C e fatte salve le riserve d
 
 da accordi bilaterali di esenzione dal visto tra la Corea e uno degli Stati membri dell'Unione europea.
 
-#### ARTICOLO 7.20
+##### ARTICOLO 7.20
 
 Fornitori di servizi contrattuali e professionisti indipendenti
 
@@ -1589,11 +1587,11 @@ Fornitori di servizi contrattuali e professionisti indipendenti
 
 contenente un elenco di impegni relativi all'accesso dei fornitori di servizi contrattuali e dei professionisti indipendenti di una Parte al territorio dell'altra Parte. Tenendo conto dei risultati di tali negoziati GATS, gli impegni sono reciprocamente vantaggiosi e hanno rilevanza sul piano commerciale.
 
-## SEZIONE E - QUADRO DI REGOLAMENTAZIONE
+### SEZIONE E - QUADRO DI REGOLAMENTAZIONE
 
-### SOTTOSEZIONE A - DISPOSIZIONI DI APPLICAZIONE GENERALE
+#### SOTTOSEZIONE A - DISPOSIZIONI DI APPLICAZIONE GENERALE
 
-#### ARTICOLO 7.21
+##### ARTICOLO 7.21
 
 Mutuo riconoscimento
 
@@ -1617,7 +1615,7 @@ ii) le procedure per favorire l'elaborazione di raccomandazioni sul mutuo ricono
 
 b) Il gruppo di lavoro funge da punto di contatto per le questioni relative al mutuo riconoscimento sollevate da organismi rappresentativi pertinenti delle Parti.
 
-#### ARTICOLO 7.22
+##### ARTICOLO 7.22
 
 Trasparenza e informazioni riservate
 
@@ -1637,7 +1635,7 @@ b) norme e criteri relativi alla concessione di licenze e alla certificazione di
 
 6\. L'autorita' di regolamentazione di una Parte prende una decisione amministrativa sulla domanda completa relativa a una prestazione di servizi presentata da un investitore o da un fornitore di servizi transfrontalieri dell'altra Parte entro un termine di 120 giorni e comunica sollecitamente tale decisione al richiedente. Una domanda non e' considerata completa fintanto che non sono state svolte tutte le audizioni del caso e non sono state ricevute tutte le necessarie informazioni. Se non e' possibile prendere una decisone entro il termine di 120 giorni, l'autorita' di regolamentazione lo comunica sollecitamente al richiedente e si adopera per prendere la decisione entro un termine successivo ragionevole.
 
-#### ARTICOLO 7.23
+##### ARTICOLO 7.23
 
 Regolamentazione interna
 
@@ -1655,15 +1653,15 @@ b) nel caso delle procedure per la concessione di licenze, non costituiscano in 
 
 4\. Il presente articolo e', se del caso, modificato, previa consultazione delle Parti, per includere nel presente accordo i risultati dei negoziati previsti dall'articolo VI, paragrafo 4, del GATS o i risultati di negoziati simili condotti in altre sedi multilaterali a cui le Parti partecipano, dal momento in cui essi prendono effetto.
 
-#### ARTICOLO 7.24
+##### ARTICOLO 7.24
 
 Governanza
 
 Ciascuna delle Parti si adopera, nella misura del possibile, affinche' nei rispettivi territori siano applicati gli standard internazionali in materia di regolamentazione e vigilanza nel settore dei servizi finanziari e di lotta contro l'evasione e l'elusione fiscali. Tali standard internazionali comprendono, tra l'altro, i Principi fondamentali per un'efficace vigilanza bancaria del comitato di Basilea per la vigilanza bancaria, i Principi fondamentali in materia di assicurazione e metodologia, approvati a Singapore il 3 ottobre 2003, dell'Associazione internazionale delle autorita' di vigilanza delle assicurazioni, gli Obiettivi e principi della normativa sui valori mobiliari dell'Organizzazione internazionale di commissioni dei valori mobiliari, l'Accordo sullo scambio di informazioni in materia fiscale dell'Organizzazione per la cooperazione e lo sviluppo economici (OCSE), la Dichiarazione sulla trasparenza e lo scambio di informazioni a fini fiscali del G20, le Quaranta raccomandazioni sul riciclaggio di denaro e le Nove raccomandazioni speciali sul finanziamento del terrorismo del Gruppo di azione finanziaria internazionale.
 
-## SOTTOSEZIONE B - SERVIZI INFORMATICI
+#### SOTTOSEZIONE B - SERVIZI INFORMATICI
 
-#### ARTICOLO 7.25
+##### ARTICOLO 7.25
 
 Servizi informatici
 
@@ -1691,9 +1689,9 @@ e) formazione del personale dei clienti nel campo dei programmi informatici, dei
 
 Nazioni Unite, Statistical Papers, Series M, NO 77, CPC Prov, 1991.
 
-## SOTTOSEZIONE C - SERVIZI POSTALI E DI CORRIERE
+#### SOTTOSEZIONE C - SERVIZI POSTALI E DI CORRIERE
 
-#### ARTICOLO 7.26
+##### ARTICOLO 7.26
 
 Principi di regolamentazione
 
@@ -1705,9 +1703,9 @@ Entro tre anni dall'entrata in vigore del presente accordo, al fine di garantire
 
 interpretata come diretta a modificare, all'entrata in vigore del presente accordo, il quadro regolamentare dell'organismo che attualmente regolamenta in Corea i fornitori privati di servizi di consegna.
 
-## SOTTOSEZIONE D - SERVIZI DI TELECOMUNICAZIONE
+#### SOTTOSEZIONE D - SERVIZI DI TELECOMUNICAZIONE
 
-#### ARTICOLO 7.27
+##### ARTICOLO 7.27
 
 Ambito di applicazione e definizioni
 
@@ -1751,7 +1749,7 @@ Telecommunication Services del settore 2. Communication Services del documento M
 
 sono stabiliti da ciascuna delle Parti.
 
-#### ARTICOLO 7.28
+##### ARTICOLO 7.28
 
 Autorita' di regolamentazione
 
@@ -1761,7 +1759,7 @@ Autorita' di regolamentazione
 
 3\. Le decisioni e le procedure adottate dalle autorita' di regolamentazione sono imparziali nei confronti di tutti gli operatori del mercato.
 
-#### ARTICOLO 7.29
+##### ARTICOLO 7.29
 
 Autorizzazione a fornire servizi di telecomunicazione
 
@@ -1787,7 +1785,7 @@ la partecipazione ad aste, gare o altri mezzi non discriminatori di assegnazione
 
 cinque anni dopo l'entrata in vigore del presente accordo. Ciascuna delle Parti provvede a far si' che i diritti di licenza siano istituiti e applicati in modo non discriminatorio fin dall'entrata in vigore del presente accordo.
 
-#### ARTICOLO 7.30
+##### ARTICOLO 7.30
 
 Misure di salvaguardia della concorrenza in relazione ai fornitori principali
 
@@ -1803,7 +1801,7 @@ c) nel non mettere tempestivamente a disposizione di altri fornitori di servizi 
 
 &#160;33 O compressione dei margini per la Parte UE.
 
-#### ARTICOLO 7.31
+##### ARTICOLO 7.31
 
 Interconnessione
 
@@ -1829,13 +1827,13 @@ c) su richiesta, in corrispondenza di punti supplementari rispetto ai punti term
 
 rispettiva legislazione pertinente.
 
-#### ARTICOLO 7.32
+##### ARTICOLO 7.32
 
 Portabilita' del numero
 
 Ciascuna delle Parti dispone che i fornitori di servizi pubblici di trasporto di telecomunicazioni nel rispettivo territorio, esclusi i fornitori di servizi voce tramite protocollo Internet, offrano la portabilita' del numero, nella misura delle possibilita' tecniche e secondo modalita' e condizioni ragionevoli.
 
-#### ARTICOLO 7.33
+##### ARTICOLO 7.33
 
 Attribuzione e uso di risorse limitate
 
@@ -1843,7 +1841,7 @@ Attribuzione e uso di risorse limitate
 
 2\. Le informazioni circa l'attuale situazione delle bande di frequenza assegnate sono rese pubbliche, ma non e' obbligatorio precisare nei dettagli le frequenze riservate a specifici usi pubblici.
 
-#### ARTICOLO 7.34
+##### ARTICOLO 7.34
 
 Servizio universale
 
@@ -1851,13 +1849,13 @@ Servizio universale
 
 2\. Tali obblighi non vanno di per se' considerati anticoncorrenziali, a condizione che siano gestiti in modo trasparente, obiettivo e non discriminatorio. La gestione di tali obblighi deve anche risultare neutrale in termini di concorrenza e non essere piu' gravosa del necessario per il tipo di servizio universale definito da ciascuna delle Parti.
 
-#### ARTICOLO 7.35
+##### ARTICOLO 7.35
 
 Riservatezza delle informazioni
 
 Ciascuna delle Parti garantisce la riservatezza delle telecomunicazioni effettuate per mezzo di una rete pubblica di trasporto di telecomunicazioni e di servizi di telecomunicazione accessibili al pubblico nonche' dei relativi dati sul traffico, senza restrizioni del commercio di servizi.
 
-#### ARTICOLO 7.36
+##### ARTICOLO 7.36
 
 Risoluzione delle controversie in materia di telecomunicazioni
 
@@ -1883,9 +1881,9 @@ b) puo' ottenere un riesame della decisione da parte di un'autorita' giudiziaria
 
 fornitori di servizi e utenti, l'organo di appello e' indipendente dalle parti della controversia.
 
-## SOTTOSEZIONE E - SERVIZI FINANZIARI
+#### SOTTOSEZIONE E - SERVIZI FINANZIARI
 
-#### ARTICOLO 7.37
+##### ARTICOLO 7.37
 
 Ambito di applicazione e definizioni
 
@@ -1955,7 +1953,7 @@ b) un soggetto privato che svolga funzioni normalmente esercitate da una banca c
 
 nuovo servizio finanziario: un servizio di carattere finanziario, compresi i servizi connessi a prodotti nuovi ed esistenti o alla modalita' di erogazione del prodotto, che non e' fornito da alcun fornitore di servizi finanziari sul territorio di una delle Parti, ma e' fornito sul territorio dell'altra parte.
 
-#### ARTICOLO 7.38
+##### ARTICOLO 7.38
 
 Misure prudenziali (36)
 
@@ -1981,31 +1979,31 @@ prudenziale ogni misura applicata ai fornitori di servizi finanziari stabiliti n
 
 della sicurezza, della solidita', dell'integrita' o della responsabilita' finanziaria dei singoli fornitori di servizi finanziari.
 
-#### ARTICOLO 7.39
+##### ARTICOLO 7.39
 
 Trasparenza
 
 Le Parti riconoscono che la trasparenza delle regolamentazioni e delle politiche che disciplinano le attivita' dei fornitori di servizi finanziari e' importante per facilitare l'accesso dei fornitori stranieri di servizi finanziari ai rispettivi mercati e l'esercizio delle loro attivita' in tali mercati. Ciascuna delle Parti si impegna a promuovere la trasparenza della regolamentazione in materia di servizi finanziari.
 
-#### ARTICOLO 7.40
+##### ARTICOLO 7.40
 
 Organismi di autoregolamentazione
 
 Se una delle Parti esige l'appartenenza, la partecipazione o l'accesso a un organismo di autoregolamentazione, a una borsa o a un mercato dei valori mobiliari o degli strumenti a termine, a un organismo di compensazione o ad altra organizzazione o associazione affinche' i fornitori di servizi finanziari dell'altra Parte possano fornire servizi finanziari in condizioni di parita' con i fornitori di servizi finanziari di quella Parte, o se concede direttamente o indirettamente a tali soggetti privilegi o vantaggi per la fornitura di servizi finanziari, impone a tali organismi di autoregolamentazione l'osservanza degli obblighi di cui agli articoli 7.6, 7.8, 7.12 e 7.14.
 
-#### ARTICOLO 7.41
+##### ARTICOLO 7.41
 
 Sistemi di pagamento e di compensazione
 
 Ciascuna delle Parti concede ai fornitori di servizi finanziari dell'altra Parte stabiliti nel proprio territorio, secondo le modalita' e alle condizioni cui e' subordinato il trattamento nazionale, l'accesso ai sistemi di pagamento e di compensazione gestiti da organismi pubblici e agli strumenti di finanziamento e rifinanziamento ufficiali disponibili nel corso delle operazioni commerciali ordinarie. Il presente articolo non conferisce l'accesso agli strumenti del prestatore di ultima istanza di una Parte.
 
-#### ARTICOLO 7.42
+##### ARTICOLO 7.42
 
 Nuovi servizi finanziari
 
 Ciascuna delle Parti autorizza i fornitori di servizi finanziari dell'altra Parte stabiliti nel proprio territorio a fornire qualsiasi nuovo servizio finanziario analogo a quelli di cui autorizza la fornitura da parte dei propri fornitori di servizi finanziari, in circostanze simili, secondo la propria legislazione, purche' l'introduzione dei nuovi servizi finanziari non richieda una nuova legge o la modificazione di una legge esistente. Le Parti possono stabilire la forma istituzionale e giuridica della fornitura del servizio e subordinare tale fornitura ad un'autorizzazione. Se e' prescritta un'autorizzazione, la relativa decisione viene adottata in tempi ragionevoli e l'autorizzazione puo' essere negata solo per motivi prudenziali.
 
-#### ARTICOLO 7.43
+##### ARTICOLO 7.43
 
 Trattamento dei dati
 
@@ -2021,7 +2019,7 @@ b) ciascuna delle Parti, riaffermando il proprio impegno38 per la tutela dei dir
 
 sanciti nella Dichiarazione universale dei diritti dell'uomo, nelle Linee guide per la regolamentazione degli archivi informatizzati di dati personali (risoluzione 45/95 dell'Assemblea generale delle Nazioni Unite del 14 dicembre 1990), e nelle Linee guida dell'OCSE sulla protezione della sfera privata e dei flussi transfrontalieri di dati personali (adottate dal Consiglio OCSE il 23 settembre 1980).
 
-#### ARTICOLO 7.44
+##### ARTICOLO 7.44
 
 Eccezioni specifiche
 
@@ -2031,7 +2029,7 @@ Eccezioni specifiche
 
 3\. Nessuna disposizione del presente capo osta a che una Parte, compresi i suoi soggetti pubblici, eserciti o fornisca in via esclusiva, sul proprio territorio, attivita' o servizi per conto o con la garanzia o utilizzando le risorse finanziarie di tale Parte, compresi i suoi soggetti pubblici, fatta eccezione per le attivita' che la sua regolamentazione interna prevede possano essere esercitate da fornitori di servizi finanziari in concorrenza con soggetti pubblici o con istituzioni private.
 
-#### ARTICOLO 7.45
+##### ARTICOLO 7.45
 
 Risoluzione delle controversie
 
@@ -2045,7 +2043,7 @@ Le Parti propongono ciascuna cinque persone e scelgono inoltre cinque persone ch
 
 4\. In deroga all'articolo 14.11, se un collegio arbitrale giudica una misura incompatibile con il presente accordo e la misura controversa riguarda il settore dei servizi finanziari e ogni altro settore, la Parte attrice puo' sospendere i benefici nel settore dei servizi finanziari che hanno un effetto equivalente all'effetto della misura nel proprio settore dei servizi finanziari. Se tale misura interessa solo un settore diverso da quello dei servizi finanziari, la Parte attrice non puo' sospendere i benefici nel settore dei servizi finanziari.
 
-#### ARTICOLO 7.46
+##### ARTICOLO 7.46
 
 Riconoscimento
 
@@ -2053,9 +2051,9 @@ Riconoscimento
 
 2\. Una Parte che, al momento dell'entrata in vigore del presente accordo o successivamente, sia parte di un accordo o di un'intesa con terzi del tipo di cui al paragrafo 1, offre all'altra Parte adeguate possibilita' di negoziare la sua adesione a tale accordo o intesa, o di negoziarne altri analoghi, in circostanze in cui vi sia equivalenza della regolamentazione, della vigilanza, dell'applicazione della regolamentazione e, se del caso, delle procedure concernenti la condivisione delle informazioni tra le Parti dell'accordo o dell'intesa. Se una Parte concede il riconoscimento in via autonoma, offre all'altra Parte adeguate possibilita' di dimostrare l'esistenza delle suddette circostanze.
 
-## SOTTOSEZIONE F - SERVIZI DI TRASPORTO MARITTIMO INTERNAZIONALE
+#### SOTTOSEZIONE F - SERVIZI DI TRASPORTO MARITTIMO INTERNAZIONALE
 
-#### ARTICOLO 7.47
+##### ARTICOLO 7.47
 
 Ambito di applicazione, definizioni e principi
 
@@ -2115,9 +2113,9 @@ g) ausili alla navigazione;
 
 h) servizi operativi a terra indispensabili per l'esercizio delle navi, come le comunicazioni, la fornitura di acqua e di elettricita', le infrastrutture per riparazioni di emergenza, i servizi di ancoraggio e ormeggio.
 
-## SEZIONE F - COMMERCIO ELETTRONICO
+### SEZIONE F - COMMERCIO ELETTRONICO
 
-#### ARTICOLO 7.48
+##### ARTICOLO 7.48
 
 Obiettivo e principi
 
@@ -2133,7 +2131,7 @@ Obiettivo e principi
 
 commercio elettronico e' senza pregiudizio della posizione della Corea circa la classificazione delle consegne per via elettronica come commercio di servizi o di merci.
 
-#### ARTICOLO 7.49
+##### ARTICOLO 7.49
 
 Cooperazione su questioni di regolamentazione
 
@@ -2153,9 +2151,9 @@ f) qualsiasi altra questione pertinente allo sviluppo del commercio elettronico.
 
 2\. Il dialogo puo' comprendere lo scambio di informazioni sulla legislazione delle Parti relativa ai suddetti temi e sull'applicazione di tale legislazione.
 
-## SEZIONE G - ECCEZIONI
+### SEZIONE G - ECCEZIONI
 
-#### ARTICOLO 7.50
+##### ARTICOLO 7.50
 
 Eccezioni
 
@@ -2205,13 +2203,13 @@ I termini o i concetti di natura fiscale contenuti nel presente articolo e in qu
 
 ## CAPO 8 - PAGAMENTI E MOVIMENTI DI CAPITALI
 
-#### ARTICOLO 8.1
+##### ARTICOLO 8.1
 
 Pagamenti correnti
 
 Le Parti si impegnano ad autorizzare senza restrizioni tutti i pagamenti e i trasferimenti in valuta liberamente convertibile sul conto corrente della bilancia dei pagamenti tra residenti delle Parti, conformemente allo Statuto del Fondo monetario internazionale.
 
-#### ARTICOLO 8.2
+##### ARTICOLO 8.2
 
 Movimenti di capitali
 
@@ -2229,7 +2227,7 @@ c) alla partecipazione al capitale di una persona giuridica, senza l'intenzione 
 
 4\. Le Parti possono consultarsi onde agevolare la circolazione dei capitali tra loro in modo da promuovere gli obiettivi del presente accordo.
 
-#### ARTICOLO 8.3
+##### ARTICOLO 8.3
 
 Eccezioni
 
@@ -2249,7 +2247,7 @@ iv) alla rendicontazione finanziaria o alla registrazione di trasferimenti, se n
 
 v) all'osservanza di ordinanze o deliberazioni adottate nel quadro di procedimenti giudiziari o amministrativi.
 
-#### ARTICOLO 8.4
+##### ARTICOLO 8.4
 
 Misure di salvaguardia
 
@@ -2291,7 +2289,7 @@ f) essere sollecitamente rese pubbliche dalle autorita' competenti responsabili 
 
 ## CAPO 9 - APPALTI PUBBLICI
 
-#### ARTICOLO 9.1
+##### ARTICOLO 9.1
 
 Disposizioni generali
 
@@ -2329,7 +2327,7 @@ c) "il comitato" nel GPA riveduto va inteso come "il gruppo di lavoro".
 
 datato 19 novembre 2007.
 
-#### ARTICOLO 9.2
+##### ARTICOLO 9.2
 
 Ambito di applicazione
 
@@ -2337,7 +2335,7 @@ Ambito di applicazione
 
 2\. Ai fini del presente accordo, i contratti di costruzione, gestione e cessione ("build-operate-transfer", di seguito "contratti BOT") e le concessioni di lavori pubblici, come definiti nell'allegato 9, sono soggetti alle disposizioni dell'allegato 9.
 
-#### ARTICOLO 9.3
+##### ARTICOLO 9.3
 
 Gruppo di lavoro Appalti pubblici
 
@@ -2353,7 +2351,7 @@ c) esaminare ogni altra questione attinente al funzionamento del presente capo.
 
 ### SEZIONE A - DISPOSIZIONI GENERALI
 
-#### ARTICOLO 10.1
+##### ARTICOLO 10.1
 
 OBIETTIVI
 
@@ -2363,7 +2361,7 @@ a) agevolare la produzione e la commercializzazione di prodotti innovativi e cre
 
 b) conseguire un adeguato ed efficace livello di tutela e rispetto dei diritti di proprieta' intellettuale.
 
-#### ARTICOLO 10.2
+##### ARTICOLO 10.2
 
 Natura e portata degli obblighi
 
@@ -2391,7 +2389,7 @@ i) la protezione delle informazioni non divulgate.
 
 3\. La protezione della proprieta' intellettuale comprende la protezione contro la concorrenza sleale di cui all'articolo 10 bis della Convenzione di Parigi sulla protezione della proprieta' industriale (1967) (di seguito "convenzione di Parigi").
 
-#### ARTICOLO 10.3
+##### ARTICOLO 10.3
 
 Trasferimento di tecnologie
 
@@ -2399,17 +2397,17 @@ Trasferimento di tecnologie
 
 2\. Ciascuna delle Parti adotta le misure opportune per prevenire o controllare pratiche o condizioni per la concessione di licenze sui diritti di proprieta' intellettuale che possono nuocere al trasferimento internazionale di tecnologie e che costituiscono un abuso dei diritti di proprieta' intellettuale da parte dei titolari degli stessi.
 
-#### ARTICOLO 10.4
+##### ARTICOLO 10.4
 
 Esaurimento
 
 Le Parti sono libere di stabilire il proprio regime di esaurimento dei diritti di proprieta' intellettuale.
 
-## SEZIONE B - NORME CONCERNENTI I DIRITTI DI PROPRIETÀ INTELLETTUALE
+### SEZIONE B - NORME CONCERNENTI I DIRITTI DI PROPRIETÀ INTELLETTUALE
 
-### SOTTOSEZIONE A - DIRITTO D'AUTORE E DIRITTI CONNESSI
+#### SOTTOSEZIONE A - DIRITTO D'AUTORE E DIRITTI CONNESSI
 
-#### ARTICOLO 10.5
+##### ARTICOLO 10.5
 
 Protezione concessa
 
@@ -2423,13 +2421,13 @@ c) gli articoli da 1 a 14 del trattato dell'Organizzazione mondiale della propri
 
 d) gli articoli da 1 a 23 del trattato dell'OMPI sulle interpretazioni ed esecuzioni e i fonogrammi (di seguito "WPPT").
 
-#### ARTICOLO 10.6
+##### ARTICOLO 10.6
 
 Durata dei diritti d'autore
 
 Ciascuna delle Parti dispone che, se la durata della protezione di un'opera e' calcolata sulla base della vita di una persona fisica, tale durata corrisponda almeno alla vita dell'autore e ai 70 anni seguenti la sua morte.
 
-#### ARTICOLO 10.7
+##### ARTICOLO 10.7
 
 Organismi di radiodiffusione
 
@@ -2443,13 +2441,13 @@ Organismi di radiodiffusione
 
 territorio di una Parte per mezzo di una rete chiusa e definita di abbonati non accessibile dall'esterno di tale territorio non costituisce una ritrasmissione via Internet.
 
-#### ARTICOLO 10.8
+##### ARTICOLO 10.8
 
 Cooperazione in materia di gestione collettiva dei diritti
 
 Le Parti agevolano la conclusione di intese tra le rispettive societa' di gestione collettiva dei diritti al fine di facilitare reciprocamente l'accesso al contenuto e il suo scambio tra le Parti e di garantire il trasferimento dei diritti per l'uso delle opere delle Parti o di altri contenuti coperti dal diritto d'autore. Le Parti si adoperano per raggiungere un alto grado di razionalizzazione e per migliorare la trasparenza per quanto riguarda l'esecuzione dei compiti delle rispettive societa' di gestione.
 
-#### ARTICOLO 10.9
+##### ARTICOLO 10.9
 
 Radiodiffusione e comunicazione al pubblico
 
@@ -2473,19 +2471,19 @@ b) la fissazione delle loro emissioni;
 
 c) la comunicazione al pubblico delle loro emissioni televisive se tale comunicazione avviene in luoghi accessibili al pubblico contro pagamento di un diritto di ingresso. La legislazione dello Stato in cui e' invocata la protezione di questo diritto stabilisce le modalita' secondo cui esso puo' essere esercitato.
 
-#### ARTICOLO 10.10
+##### ARTICOLO 10.10
 
 Diritto degli autori sulle successive vendite di opere d'arte
 
 Le Parti convengono di scambiare opinioni e informazioni sulle pratiche e sulle politiche concernenti il diritto degli autori sulle successive vendite di opere d'arte. Entro due anni dall'entrata in vigore del presente accordo, le Parti avviano consultazioni per esaminare l'opportunita' e la possibilita' di introdurre in Corea un diritto degli autori sulle successive vendite di opere d'arte.
 
-#### ARTICOLO 10.11
+##### ARTICOLO 10.11
 
 Limitazioni ed eccezioni
 
 Le Parti possono prevedere nella loro legislazione che in determinati casi speciali i diritti conferiti ai titolari di diritti di cui agli articoli da 10.5 a 10.10 siano soggetti a limitazioni o eccezioni, purche' queste non siano in contrasto con uno sfruttamento normale dell'opera e non arrechino ingiustificato pregiudizio agli legittimi interessi dei titolari di diritti.
 
-#### ARTICOLO 10.12
+##### ARTICOLO 10.12
 
 Protezione delle misure tecnologiche
 
@@ -2503,7 +2501,7 @@ c) siano principalmente progettate, prodotte, adattate o realizzate con la final
 
 4\. Ciascuna delle Parti puo' prevedere eccezioni e limitazioni alle misure di attuazione dei paragrafi 1 e 2 nel rispetto della propria legislazione e dei pertinenti accordi internazionali di cui all'articolo 10.5.
 
-#### ARTICOLO 10.13
+##### ARTICOLO 10.13
 
 Protezione delle informazioni sul regime dei diritti
 
@@ -2519,15 +2517,15 @@ ove chi compie tali atti sia consapevole, o si possa ragionevolmente presumere c
 
 3\. La disposizione del paragrafo 2 si applica quando uno qualsiasi degli elementi suddetti figuri su una copia o appaia nella comunicazione al pubblico di un'opera o di uno dei materiali di cui al presente accordo.
 
-#### ARTICOLO 10.14
+##### ARTICOLO 10.14
 
 Disposizione transitoria
 
 La Corea si conforma pienamente gli obblighi di cui agli articoli 10.6 e 10.7 entro due anni dall'entrata in vigore del presente accordo.
 
-## SOTTOSEZIONE B - MARCHI
+#### SOTTOSEZIONE B - MARCHI
 
-#### ARTICOLO 10.15
+##### ARTICOLO 10.15
 
 Procedura di registrazione
 
@@ -2537,21 +2535,21 @@ L'Unione europea e la Corea introducono anche la possibilita' per le parti inter
 
 L'Unione europea e la Corea istituiscono una banca dati elettronica, accessibile al pubblico, delle domande e delle registrazioni di marchi.
 
-#### ARTICOLO 10.16
+##### ARTICOLO 10.16
 
 Accordi internazionali
 
 L'Unione europea e la Corea si conformano alle disposizioni del trattato sul diritto dei marchi (1994) e si adoperano nella misura del possibile per conformarsi alle disposizioni del trattato di Singapore sul diritto dei marchi (2006).
 
-#### ARTICOLO 10.17
+##### ARTICOLO 10.17
 
 Eccezioni ai diritti conferiti da un marchio
 
 Ciascuna delle Parti prevede l'uso leale di termini descrittivi come limitata eccezione ai diritti conferiti da un marchio e puo' prevedere altre limitate eccezioni, a condizione che esse tengano conto dei legittimi interessi del titolare del marchio e dei terzi.
 
-## SOTTOSEZIONE C - INDICAZIONI GEOGRAFICHE (2, 3)
+#### SOTTOSEZIONE C - INDICAZIONI GEOGRAFICHE (2, 3)
 
-#### ARTICOLO 10.18
+##### ARTICOLO 10.18
 
 Riconoscimento delle indicazioni geografiche
 
@@ -2595,7 +2593,7 @@ b) le indicazioni geografiche di cui alla legge sul controllo di qualita' dei pr
 
 sottosezione fa salve le altre disposizioni del presente accordo.
 
-#### ARTICOLO 10.19
+##### ARTICOLO 10.19
 
 Riconoscimento delle indicazioni geografiche specifiche per i vini, (4) i vini aromatizzati (5) e le bevande spiritose (6)
 
@@ -2629,13 +2627,13 @@ a) sono conformi al regolamento (CE) n. 110/2008 del Parlamento europeo e del Co
 
 b) sono conformi alla legge sul controllo di qualita' dei prodotti agricoli (legge n. 9759 del 9 giugno 2009) e alla legge sulla tassazione delle bevande alcoliche (legge n. 8852 del 29 febbraio 2008) della Corea.
 
-#### ARTICOLO 10.20
+##### ARTICOLO 10.20
 
 Diritto d'uso
 
 Una denominazione protetta a norma delle disposizioni della presente sottosezione puo' essere utilizzata da ogni operatore che commercializza prodotti agricoli, prodotti alimentari, vini, vini aromatizzati o bevande spiritose conformi alle corrispondenti specificazioni.
 
-#### ARTICOLO 10.21
+##### ARTICOLO 10.21
 
 Portata della protezione
 
@@ -2661,13 +2659,13 @@ c) ogni altro uso che costituisce un atto di concorrenza sleale ai sensi dell'ar
 
 interpretata in conformita' dell'articolo 23.1 dell'accordo TRIPS relativo all'uso di un'indicazione geografica che identifica vini per vini non originari del luogo designato da tale indicazione geografica o che identifica bevande spiritose per bevande spiritose non originarie del luogo designato da tale indicazione geografica.
 
-#### ARTICOLO 10.22
+##### ARTICOLO 10.22
 
 Attuazione della protezione
 
 Le Parti attuano la protezione di cui agli articoli da 10.18 a 10.23 di loro iniziativa per mezzo di un intervento appropriato delle loro autorita'. Esse attuano inoltre tale protezione su richiesta di una parte interessata.
 
-#### ARTICOLO 10.23
+##### ARTICOLO 10.23
 
 Rapporto con i marchi
 
@@ -2679,7 +2677,7 @@ a) per le indicazioni geografiche di cui agli articoli 10.18 e 10.19, la data di
 
 b) per le indicazioni geografiche di cui all'articolo 10.24, la data di presentazione della domanda di protezione o di riconoscimento e' la data in cui la domanda di una Parte e' ricevuta dall'altra.
 
-#### ARTICOLO 10.24
+##### ARTICOLO 10.24
 
 Aggiunta di indicazioni geografiche soggette a protezione (8)
 
@@ -2699,7 +2697,7 @@ b) dall'Unione europea per un prodotto originario cui si applica la legislazione
 
 allo scopo di aggiungere al presente accordo una denominazione di origine che e' stata riconosciuta da una delle Parti come indicazione geografica ai sensi dell'articolo 22.1 dell'accordo TRIPS per mezzo di leggi di una delle Parti diverse da quelle di cui all'articolo 10.18, paragrafi 1 e 2, e alle note a pie' di pagina dell'articolo 10.19, le Parti convengono di esaminare se l'indicazione geografica puo' essere aggiunta al presente accordo in conformita' della presente sottosezione.
 
-#### ARTICOLO 10.25
+##### ARTICOLO 10.25
 
 Gruppo di lavoro Indicazioni geografiche
 
@@ -2735,15 +2733,15 @@ tale, comprese la denominazione e la categoria del prodotto. Le modifiche delle 
 
 geografica restano di competenza esclusiva della Parte cui pertiene l'indicazione geografica.
 
-#### ARTICOLO 10.26
+##### ARTICOLO 10.26
 
 Domande individuali di protezione di indicazioni geografiche
 
 Le disposizioni della presente sottosezione fanno salvo il diritto di chiedere il riconoscimento e la protezione di un'indicazione geografica in base alla vigente legislazione dell'Unione europea o della Corea.
 
-## SOTTOSEZIONE D - DISEGNI E MODELLI
+#### SOTTOSEZIONE D - DISEGNI E MODELLI
 
-#### ARTICOLO 10.27
+##### ARTICOLO 10.27
 
 Protezione dei disegni e modelli
 
@@ -2757,13 +2755,13 @@ Protezione dei disegni e modelli
 
 modelli simili sono stati resi noti al pubblico o elaborati pubblicamente prima del deposito di una domanda di registrazione. La Corea non considera originali i disegni e modelli che hanno potuto essere facilmente creati da combinazioni di disegni e modelli che sono stati resi noti al pubblico o elaborati pubblicamente prima del deposito di una domanda di registrazione. L'Unione europea non considera nuovi i disegni e modelli se disegni e modelli identici sono stati resi disponibili al pubblico prima della data di deposito di un disegno o modello registrato o prima della data di divulgazione di un disegno o modello non registrato. L'Unione europea considera che un disegno o modello non presenti un carattere individuale se l'impressione generale che esso suscita nell'utilizzatore informato non differisce dall'impressione generale suscitata in tale utilizzatore da qualsiasi disegno o modello che sia stato divulgato al pubblico.
 
-#### ARTICOLO 10.28
+##### ARTICOLO 10.28
 
 Diritti conferiti dalla registrazione
 
 Il titolare di un disegno o modello protetto ha il diritto di impedire ai terzi, salvo proprio consenso, almeno di produrre, offrire in vendita, vendere, importare, esportare o utilizzare articoli recanti o contenenti il disegno o modello protetto, qualora tali operazioni siano intraprese a fini commerciali, compromettano indebitamente il normale sfruttamento del disegno o modello o non siano compatibili con pratiche commerciali leali.
 
-#### ARTICOLO 10.29
+##### ARTICOLO 10.29
 
 Protezione conferita a un'apparenza non registrata
 
@@ -2783,7 +2781,7 @@ b) dall'Unione europea nel regolamento (CE) n. 6/2002 del Consiglio, del 12 dice
 
 "presentazione" nel senso di "offerta" o "immissione sul mercato" e la Corea nel senso di "cessione, leasing o esibizione ai fini di una cessione o un leasing".
 
-#### ARTICOLO 10.30
+##### ARTICOLO 10.30
 
 Durata della protezione
 
@@ -2791,7 +2789,7 @@ Durata della protezione
 
 2\. La durata della protezione accordata nell'Unione europea e nella Corea per l'apparenza non registrata e' di almeno tre anni.
 
-#### ARTICOLO 10.31
+##### ARTICOLO 10.31
 
 Eccezioni
 
@@ -2801,7 +2799,7 @@ Eccezioni
 
 3\. Non e' protetto un disegno o modello contrario all'ordine pubblico o ai principi della moralita' corrente.
 
-#### ARTICOLO 10.32
+##### ARTICOLO 10.32
 
 Rapporto con il diritto d'autore
 
@@ -2813,15 +2811,15 @@ I disegni e i modelli protetti a norma della presente sottosezione come disegni 
 
 legislazione sul diritto d'autore non e' concessa automaticamente, ma solo se il disegno o modello ha diritto alla protezione in base alla legislazione sul diritto d'autore.
 
-## SOTTOSEZIONE E - BREVETTI
+#### SOTTOSEZIONE E - BREVETTI
 
-#### ARTICOLO 10.33
+##### ARTICOLO 10.33
 
 Accordo internazionale
 
 Le Parti si adoperano nella misura del possibile per conformarsi agli articoli da 1 a 16 del trattato sul diritto dei brevetti (2000).
 
-#### ARTICOLO 10.34
+##### ARTICOLO 10.34
 
 Brevetti e salute pubblica
 
@@ -2829,7 +2827,7 @@ Brevetti e salute pubblica
 
 2\. Le Parti contribuiscono ad applicare e rispettano la decisione del Consiglio generale dell'OMC del 30 agosto 2003 sul paragrafo 6 della dichiarazione di Doha e il protocollo che modifica l'Accordo TRIPS, adottato a Ginevra il 6 dicembre 2005.
 
-#### ARTICOLO 10.35
+##### ARTICOLO 10.35
 
 Proroga della durata dei diritti conferiti dalla protezione dei brevetti
 
@@ -2861,7 +2859,7 @@ e) frenare o evitare un indesiderato accrescimento dei vegetali, escluse le algh
 
 se prevista dalle Parti.
 
-#### ARTICOLO 10.36
+##### ARTICOLO 10.36
 
 Protezione dei dati comunicati per ottenere un'autorizzazione all'immissione in commercio di prodotti farmaceutici (18)
 
@@ -2877,7 +2875,7 @@ Protezione dei dati comunicati per ottenere un'autorizzazione all'immissione in 
 
 dispositivi medici).
 
-#### ARTICOLO 10.37
+##### ARTICOLO 10.37
 
 Protezione dei dati comunicati per ottenere un'autorizzazione all'immissione in commercio di prodotti fitosanitari
 
@@ -2887,21 +2885,21 @@ Protezione dei dati comunicati per ottenere un'autorizzazione all'immissione in 
 
 3\. Il periodo di protezione dei dati dovrebbe essere di almeno dieci anni decorrenti dalla data della prima autorizzazione all'immissione in commercio nelle rispettive Parti.
 
-#### ARTICOLO 10.38
+##### ARTICOLO 10.38
 
 Attuazione
 
 Le Parti adottano le misure necessarie per assicurare la piena efficacia della protezione prevista nella presente sottosezione e a questo scopo cooperano attivamente e instaurano un dialogo costruttivo.
 
-## SOTTOSEZIONE F - ALTRE DISPOSIZIONI
+#### SOTTOSEZIONE F - ALTRE DISPOSIZIONI
 
-#### ARTICOLO 10.39
+##### ARTICOLO 10.39
 
 Varieta' vegetali
 
 Le Parti assicurano la protezione delle varieta' vegetali e si conformano alla Convenzione internazionale per la protezione dei ritrovati vegetali (1991).
 
-#### ARTICOLO 10.40
+##### ARTICOLO 10.40
 
 Risorse genetiche, sapere tradizionale e folklore
 
@@ -2919,9 +2917,9 @@ c) in sede CBD, sulle questioni relative a un regime internazionale di accesso a
 
 Il comitato per il commercio puo' adottare ogni decisione necessaria per dare effetto ai risultati del riesame.
 
-## SEZIONE C - RISPETTO DEI DIRITTI DI PROPRIETÀ INTELLETTUALE
+### SEZIONE C - RISPETTO DEI DIRITTI DI PROPRIETÀ INTELLETTUALE
 
-#### ARTICOLO 10.41
+##### ARTICOLO 10.41
 
 Obblighi generali
 
@@ -2943,7 +2941,7 @@ d) sono efficaci, proporzionati e dissuasivi e sono applicati in modo da evitare
 
 h).
 
-#### ARTICOLO 10.42
+##### ARTICOLO 10.42
 
 Soggetti dotati di legittimazione attiva
 
@@ -2957,15 +2955,15 @@ c) agli organi di gestione collettiva dei diritti di proprieta' intellettuale re
 
 d) alle federazioni o associazioni aventi legittimazione e autorita' per affermare tali diritti, ove cio' sia consentito dalle disposizioni della legislazione applicabile e nel rispetto di tali disposizioni.
 
-## SOTTOSEZIONE A - MISURE, PROCEDURE E MEZZI DI RICORSO CIVILI
+#### SOTTOSEZIONE A - MISURE, PROCEDURE E MEZZI DI RICORSO CIVILI
 
-#### ARTICOLO 10.43
+##### ARTICOLO 10.43
 
 Elementi di prova
 
 In caso di violazione di un diritto di proprieta' intellettuale commessa su scala commerciale, le Parti adottano le misure necessarie a consentire alle autorita' giudiziarie competenti di ordinare, se del caso e previa richiesta di una Parte in tal senso, l'acquisizione della documentazione bancaria, finanziaria o commerciale in possesso della controparte, fatta salva la tutela delle informazioni riservate.
 
-#### ARTICOLO 10.44
+##### ARTICOLO 10.44
 
 Misure provvisorie di salvaguardia delle prove
 
@@ -2973,7 +2971,7 @@ Misure provvisorie di salvaguardia delle prove
 
 2\. Le Parti possono disporre che tali misure comprendano la descrizione dettagliata, con o senza prelievo di campioni, o il sequestro delle merci controverse e, all'occorrenza, dei materiali e degli strumenti utilizzati nella produzione o distribuzione di tali merci e dei relativi documenti. Tali misure sono adottate, se necessario senza sentire l'altra Parte, in particolare quando un ritardo rischia di causare un danno irreparabile al titolare del diritto o quando esiste un rischio dimostrabile di distruzione degli elementi di prova.
 
-#### ARTICOLO 10.45
+##### ARTICOLO 10.45
 
 Diritto d'informazione
 
@@ -3009,7 +3007,7 @@ loro partecipazione personale o quella di parenti stretti a una violazione di un
 
 e) disciplinano la tutela della riservatezza delle fonti informative o il trattamento dei dati personali.
 
-#### ARTICOLO 10.46
+##### ARTICOLO 10.46
 
 Misure provvisorie e cautelari
 
@@ -3025,7 +3023,7 @@ Misure provvisorie e cautelari
 
 intendersi secondo il significato che gli e' attribuito nella legislazione di ciascuna delle Parti, ma comprende chiunque procuri o distribuisca merci oggetto di violazione di un diritto e, se del caso, i fornitori di servizi in linea.
 
-#### ARTICOLO 10.47
+##### ARTICOLO 10.47
 
 Misure correttive
 
@@ -3035,7 +3033,7 @@ Misure correttive
 
 3\. Nell'esame di una domanda di misure correttive, si tiene conto della necessaria proporzionalita' tra la gravita' della violazione e le misure correttive ordinate, nonche' degli interessi di terzi.
 
-#### ARTICOLO 10.48
+##### ARTICOLO 10.48
 
 Ingiunzioni
 
@@ -3049,13 +3047,13 @@ Ingiunzioni
 
 intendersi secondo il significato che gli e' attribuito nella legislazione di ciascuna delle Parti, ma comprende chiunque procuri o distribuisca merci oggetto di violazione di un diritto e, se del caso, i fornitori di servizi in linea.
 
-#### ARTICOLO 10.49
+##### ARTICOLO 10.49
 
 Misure alternative
 
 La Parti possono stabilire che, nei casi opportuni e su richiesta del soggetto cui potrebbero essere applicate le misure di cui agli articoli 10.47 o 10.48, l'autorita' giudiziaria competente possa ordinare il pagamento alla parte lesa di un indennizzo pecuniario in luogo dell'applicazione delle misure di cui agli articoli 10.47 o 10.48 qualora tale soggetto abbia agito in modo non intenzionale e senza negligenza, se l'esecuzione di tali misure gli causerebbe un danno sproporzionato e se l'indennizzo pecuniario della parte lesa sembri ragionevolmente soddisfacente.
 
-#### ARTICOLO 10.50
+##### ARTICOLO 10.50
 
 Risarcimento del danno
 
@@ -3071,27 +3069,27 @@ opportuni, una somma forfettaria in base ad elementi quali, almeno, l'importo de
 
 3\. Nei procedimenti giudiziari civili, ciascuna delle Parti puo', almeno per quanto riguarda opere, fonogrammi, interpretazioni ed esecuzioni protetti dal diritto d'autore e dai diritti connessi, e nei casi di contraffazione dei marchi, stabilire un risarcimento dei danni o mantenere il risarcimento prestabilito, secondo la scelta del titolare del diritto.
 
-#### ARTICOLO 10.51
+##### ARTICOLO 10.51
 
 Spese legali
 
 Le Parti dispongono che le spese legali ragionevoli e proporzionate e le altre spese sostenute dalla parte vittoriosa siano, di norma, sostenute dalla parte soccombente, a meno che il rispetto del principio di equita' non imponga una loro diversa ripartizione.
 
-#### ARTICOLO 10.52
+##### ARTICOLO 10.52
 
 Pubblicazione delle decisioni giudiziarie
 
 Le Parti dispongono che, in caso di violazione dei diritti di proprieta' intellettuale, l'autorita' giudiziaria possa, se opportuno, ordinare, su richiesta del ricorrente e a spese dell'autore della violazione, misure adeguate per la divulgazione delle informazioni concernenti la decisione, comprese la sua affissione e la sua pubblicazione integrale o per estratto. Ciascuna delle Parti puo' prevedere ulteriori misure di pubblicita', appropriate alle circostanze particolari, compresa la pubblicita' a grande diffusione.
 
-#### ARTICOLO 10.53
+##### ARTICOLO 10.53
 
 Presunzione della qualita' di autore o di titolare di un diritto
 
 Nei procedimenti civili che attengono al diritto d'autore e ai diritti connessi, ciascuna delle Parti presume che, in assenza di prova contraria, il soggetto il cui nome e' abitualmente indicato come quello dell'autore o del titolare del diritto connesso dell'opera o dell'oggetto sia il titolare designato del diritto per tale opera od oggetto.
 
-## SOTTOSEZIONE B - REPRESSIONE PENALE
+#### SOTTOSEZIONE B - REPRESSIONE PENALE
 
-#### ARTICOLO 10.54
+##### ARTICOLO 10.54
 
 Portata della repressione penale
 
@@ -3103,13 +3101,13 @@ Le Parti prevedono procedimenti e sanzioni penali da applicare almeno nei casi d
 
 delle Parti in conformita' dei propri obblighi internazionali.
 
-#### ARTICOLO 10.55
+##### ARTICOLO 10.55
 
 Contraffazione di indicazioni geografiche e di disegni e modelli
 
 Nel rispetto delle leggi e delle regolamentazioni nazionali o costituzionali, le Parti considerano l'adozione di disposizioni che stabiliscano la responsabilita' penale della contraffazione delle indicazioni geografiche e dei disegni e modelli.
 
-#### ARTICOLO 10.56
+##### ARTICOLO 10.56
 
 Responsabilita' delle persone giuridiche
 
@@ -3117,25 +3115,25 @@ Responsabilita' delle persone giuridiche
 
 2\. Tale responsabilita' e' senza pregiudizio della responsabilita' penale delle persone fisiche che hanno commesso i reati.
 
-#### ARTICOLO 10.57
+##### ARTICOLO 10.57
 
 Favoreggiamento
 
 Le disposizioni della presente sottosezione si applicano al favoreggiamento dei reati di cui all'articolo 10.54.
 
-#### ARTICOLO 10.58
+##### ARTICOLO 10.58
 
 Sequestro
 
 Nel caso dei reati di cui all'articolo 10.54, le Parti dispongono che le rispettive autorita' competenti abbiano il potere di ordinare il sequestro delle merci per le quali esista il sospetto di contraffazione del marchio o di usurpazione del diritto d'autore, dei materiali e degli strumenti utilizzati prevalentemente per commettere il presunto reato, delle prove documentali relative al presunto reato e di qualsiasi bene patrimoniale derivato od ottenuto direttamente o indirettamente dall'attivita' che viola i diritti di proprieta' intellettuale.
 
-#### ARTICOLO 10.59
+##### ARTICOLO 10.59
 
 Sanzioni
 
 Per i reati di cui all'articolo 10.54, le Parti comminano sanzioni detentive e/o pecuniarie efficaci, proporzionate e dissuasive.
 
-#### ARTICOLO 10.60
+##### ARTICOLO 10.60
 
 Confisca
 
@@ -3147,15 +3145,15 @@ Confisca
 
 4\. Le Parti possono disporre che le rispettive autorita' giudiziarie abbiano il potere di ordinare la confisca di beni patrimoniali il cui valore corrisponda a quello dei beni patrimoniali derivati od ottenuti direttamente o indirettamente dall'attivita' che viola i diritti di proprieta' intellettuale.
 
-#### ARTICOLO 10.61
+##### ARTICOLO 10.61
 
 Diritti dei terzi
 
 Le Parti provvedono a che i diritti dei terzi siano debitamente protetti e garantiti.
 
-## SOTTOSEZIONE C - RESPONSABILITÀ DEI FORNITORI DI SERVIZI IN LINEA
+#### SOTTOSEZIONE C - RESPONSABILITÀ DEI FORNITORI DI SERVIZI IN LINEA
 
-#### ARTICOLO 10.62
+##### ARTICOLO 10.62
 
 Responsabilita' dei fornitori di servizi in linea (23)
 
@@ -3167,7 +3165,7 @@ Le Parti riconoscono che i servizi di intermediari possono essere utilizzati da 
 
 fornitore di servizi si intende un fornitore di trasmissione, instradamento o connessioni per comunicazioni in linea numeriche tra punti specificati dall'utente di materiali scelti dall'utente, senza modifica del loro contenuto; ai fini delle funzioni di cui agli articoli 10.64 e 10.65, per fornitore di servizi si intende un fornitore o un operatore di strutture per servizi in linea o accesso alla rete.
 
-#### ARTICOLO 10.63
+##### ARTICOLO 10.63
 
 Responsabilita' dei fornitori di servizi in linea: semplice trasporto (mere conduit)
 
@@ -3183,7 +3181,7 @@ c) non selezioni ne' modifichi le informazioni trasmesse.
 
 3\. Il presente articolo lascia salva la possibilita' che un organo giurisdizionale o un'autorita' amministrativa, secondo gli ordinamenti delle Parti, imponga al fornitore del servizio di impedire o porre fine a una violazione.
 
-#### ARTICOLO 10.64
+##### ARTICOLO 10.64
 
 Responsabilita' dei fornitori di servizi in linea: memorizzazione temporanea ("caching")
 
@@ -3201,7 +3199,7 @@ e) agisca prontamente per rimuovere le informazioni che ha memorizzato, o per di
 
 2\. Il presente articolo lascia salva la possibilita' che un organo giurisdizionale o un'autorita' amministrativa, secondo gli ordinamenti delle Parti, imponga al fornitore del servizio di impedire o porre fine a una violazione.
 
-#### ARTICOLO 10.65
+##### ARTICOLO 10.65
 
 Responsabilita' dei fornitori di servizi in linea: hosting
 
@@ -3215,7 +3213,7 @@ b) non appena al corrente di tali fatti, agisca immediatamente per rimuovere le 
 
 3\. Il presente articolo lascia salva la possibilita' che un organo giurisdizionale o un'autorita' amministrativa, secondo gli ordinamenti delle Parti, imponga al fornitore del servizio di impedire o di porre fine a una violazione, nonche' la possibilita' per le Parti di definire procedure per la rimozione delle informazioni o la disabilitazione dell'accesso alle medesime.
 
-#### ARTICOLO 10.66
+##### ARTICOLO 10.66
 
 Assenza dell'obbligo generale di sorveglianza
 
@@ -3223,9 +3221,9 @@ Assenza dell'obbligo generale di sorveglianza
 
 2\. Le Parti possono stabilire che i fornitori di servizi della societa' dell'informazione siano tenuti ad informare senza indugio le autorita' competenti di presunte attivita' o informazioni illecite dei destinatari dei loro servizi o a comunicare alle autorita' competenti, a loro richiesta, informazioni che consentano l'identificazione dei destinatari dei loro servizi con cui hanno accordi di memorizzazione dei dati.
 
-## SOTTOSEZIONE D - ALTRE DISPOSIZIONI
+#### SOTTOSEZIONE D - ALTRE DISPOSIZIONI
 
-#### ARTICOLO 10.67
+##### ARTICOLO 10.67
 
 Misure alle frontiere
 
@@ -3281,7 +3279,7 @@ iv) un'indicazione geografica.
 
 la persona che ha un diritto simile di disporne.
 
-#### ARTICOLO 10.68
+##### ARTICOLO 10.68
 
 Codici di condotta
 
@@ -3291,7 +3289,7 @@ a) l'elaborazione da parte delle associazioni od organizzazioni professionali di
 
 b) la presentazione alle autorita' competenti delle Parti di progetti di codici di condotta e di valutazioni dell'applicazione di tali codici di condotta.
 
-#### ARTICOLO 10.69
+##### ARTICOLO 10.69
 
 Cooperazione
 
@@ -3315,7 +3313,7 @@ e) la promozione e la diffusione di informazioni sui diritti di proprieta' intel
 
 ### SEZIONE A - CONCORRENZA
 
-#### ARTICOLO 11.1
+##### ARTICOLO 11.1
 
 Principi
 
@@ -3337,7 +3335,7 @@ c) le concentrazioni tra imprese che ostacolano in misura significativa una conc
 
 avviene in conformita' della legislazione in materia di concorrenza di ciascuna Parte.
 
-#### ARTICOLO 11.2
+##### ARTICOLO 11.2
 
 Definizioni
 
@@ -3349,7 +3347,7 @@ b) per la Corea, la legge sulla regolamentazione dei monopoli e le pratiche comm
 
 c) ogni modifica che gli strumenti di cui al presente articolo subiscano dopo l'entrata in vigore del presente accordo.
 
-#### ARTICOLO 11.3
+##### ARTICOLO 11.3
 
 Attuazione
 
@@ -3359,7 +3357,7 @@ Attuazione
 
 3\. Su richiesta di una delle Parti, l'altra Parte mette a sua disposizione le informazioni pubbliche concernenti le misure che adotta per assicurare il rispetto del diritto della concorrenza e le norme relative agli obblighi di cui alla presente sezione.
 
-#### ARTICOLO 11.4
+##### ARTICOLO 11.4
 
 Imprese pubbliche e imprese cui sono concessi diritti speciali (2) o diritti esclusivi
 
@@ -3379,7 +3377,7 @@ se e in quanto l'applicazione di tali principi e norme in materia di concorrenza
 
 il numero a due o piu', le imprese autorizzate a fornire merci o servizi secondo criteri che non sono obiettivi, proporzionali e non discriminatori, o conferisce a certe imprese vantaggi legali o regolamentari che influenzano in modo sostanziale la capacita' delle altre imprese di fornire le stesse merci o gli stessi servizi.
 
-#### ARTICOLO 11.5
+##### ARTICOLO 11.5
 
 Monopoli di Stato
 
@@ -3395,7 +3393,7 @@ Monopoli di Stato
 
 conforme al trattamento nazionale, quale definito nelle pertinenti disposizioni del presente accordo, comprese le modalita' e le condizioni enunciate nei pertinenti allegati.
 
-#### ARTICOLO 11.6
+##### ARTICOLO 11.6
 
 Cooperazione
 
@@ -3403,7 +3401,7 @@ Cooperazione
 
 2\. Le Parti cooperano in relazione alle rispettive politiche di applicazione e nell'applicazione delle rispettive norme in materia di concorrenza, in particolare mediante la cooperazione in materia d'applicazione, la notifica, la consultazione e lo scambio di informazioni non riservate sulla base dell'accordo tra la Comunita' europea e il governo della Repubblica di Corea concernente la cooperazione in merito ad attivita' anticoncorrenziali, firmato il 23 maggio 2009.
 
-#### ARTICOLO 11.7
+##### ARTICOLO 11.7
 
 Consultazione
 
@@ -3413,21 +3411,21 @@ Consultazione
 
 3\. Per facilitare l'esame della questione che e' oggetto delle consultazioni, ogni Parte procura di fornire all'altra Parte le informazioni non riservate pertinenti.
 
-#### ARTICOLO 11.8
+##### ARTICOLO 11.8
 
 Risoluzione delle controversie
 
 Le Parti non fanno ricorso al capo 14 (Risoluzione delle controversie) per le questione attinenti alla presente sezione.
 
-## SEZIONE B - SOVVENZIONI
+### SEZIONE B - SOVVENZIONI
 
-#### ARTICOLO 11.9
+##### ARTICOLO 11.9
 
 Principi
 
 Le Parti convengono di adoperarsi per quanto possibile al fine di riparare o eliminare, con l'applicazione della loro legislazione in materia di concorrenza o con qualsiasi altro mezzo, le distorsioni della concorrenza causate dalle sovvenzioni, nella misura in cui esse influiscono sugli scambi internazionali, e per impedire che tali situazioni si producano.
 
-#### ARTICOLO 11.10
+##### ARTICOLO 11.10
 
 Definizione di sovvenzione e di specificita'
 
@@ -3435,7 +3433,7 @@ Definizione di sovvenzione e di specificita'
 
 2\. Una sovvenzione e' specifica se rientra nell'ambito definito dall'articolo 2 dell'accordo SMC. La presente sezione si applica solo alle sovvenzioni specifiche ai sensi dell'articolo 2 dell'accordo SMC.
 
-#### ARTICOLO 11.11
+##### ARTICOLO 11.11
 
 Sovvenzioni vietate (4,5)
 
@@ -3463,7 +3461,7 @@ alle sovvenzioni concesse alle piccole e medie imprese secondo criteri o condizi
 
 interno e il mercato delle esportazioni.
 
-#### ARTICOLO 11.12
+##### ARTICOLO 11.12
 
 Trasparenza
 
@@ -3473,19 +3471,19 @@ Trasparenza
 
 3\. Su richiesta di una delle Parti, l'altra Parte fornisce ulteriori informazioni su ogni regime di sovvenzione o su casi particolari di sovvenzione specifica. Le Parti scambiano queste informazioni tenendo conto dei limiti imposti dagli obblighi del segreto professionale e d'impresa.
 
-#### ARTICOLO 11.13
+##### ARTICOLO 11.13
 
 Relazioni con l'accordo OMC
 
 Le disposizioni della presente sezione fanno salvi i diritti di una Parte, in forza delle disposizioni pertinenti dell'accordo OMC, di applicare misure di difesa commerciale o di aprire una vertenza o promuovere altra idonea azione nei confronti di una sovvenzione concessa dall'altra Parte.
 
-#### ARTICOLO 11.14
+##### ARTICOLO 11.14
 
 Monitoraggio e verifica
 
 Le Parti sottopongono a una verifica permanente le questioni cui e' fatto riferimento nella presente sezione. Ciascuna delle Parti puo' sottoporre tali questioni al comitato per il commercio. Le Parti convengono di esaminare i progressi realizzati nell'attuazione della presente sezione ogni due anni dopo l'entrata in vigore del presente accordo, salvo diversa decisone delle Parti.
 
-#### ARTICOLO 11.15
+##### ARTICOLO 11.15
 
 Ambito di applicazione
 
@@ -3495,7 +3493,7 @@ Ambito di applicazione
 
 ## CAPO 12 - TRASPARENZA
 
-#### ARTICOLO 12.1
+##### ARTICOLO 12.1
 
 Definizioni
 
@@ -3505,13 +3503,13 @@ misura di applicazione generale: ogni atto, procedura, interpretazione o altro r
 
 persona interessata: ogni persona fisica o giuridica titolare di diritti o soggetta ad obblighi in forza di misure di applicazione generale ai sensi dell'articolo 12.2.
 
-#### ARTICOLO 12.2
+##### ARTICOLO 12.2
 
 Obiettivo e ambito di applicazione
 
 Riconoscendo l'incidenza che le rispettive regolamentazioni possono avere sui loro scambi commerciali, le Parti si adoperano per predisporre un quadro regolamentare efficace e prevedibile per gli operatori economici, in particolare per i piccoli operatori la cui attivita' si svolge sul loro territorio. Riaffermando i loro impegni rispettivi derivanti dall'accordo OMC, le Parti apportano chiarimenti e miglioramenti in fatto di trasparenza, consultazione e migliore amministrazione delle misure di applicazione generale, nella misura in cui esse possono avere un'incidenza sulle questioni oggetto del presente accordo.
 
-#### ARTICOLO 12.3
+##### ARTICOLO 12.3
 
 Pubblicazione
 
@@ -3531,7 +3529,7 @@ b) offrono alle persone interessate ragionevoli possibilita' di presentare osser
 
 c) si sforzano di tenere conto delle osservazioni ricevute delle persone interessate riguardanti le misure proposte.
 
-#### ARTICOLO 12.4
+##### ARTICOLO 12.4
 
 Richieste di informazioni e punti di contatto
 
@@ -3543,7 +3541,7 @@ Richieste di informazioni e punti di contatto
 
 4\. Le Parti si adoperano per identificare o creare punti di informazione o di contatto per le persone interessate dell'altra parte, che avranno il compito di cercare una soluzione efficace dei problemi che possono sorgere nell'applicazione delle misure di applicazione generale. Questi meccanismi dovrebbero essere facilmente accessibili, con scadenze predeterminate, orientati ai risultati e trasparenti. Essi fanno salve le procedure d'appello o di riesame che le Parti istituiscono o mantengono e fanno salvi i diritti e gli obblighi delle Parti derivanti dal capo 14 (Risoluzione delle controversie) e dall'allegato 14-A (Meccanismo di mediazione per le misure non tariffarie).
 
-#### ARTICOLO 12.5
+##### ARTICOLO 12.5
 
 Procedimenti amministrativi
 
@@ -3555,7 +3553,7 @@ b) accorda alle persone interessate una ragionevole possibilita' di presentare f
 
 c) si assicura che le sue procedure si basino sulla sua legislazione e siano ad essa conformi.
 
-#### ARTICOLO 12.6
+##### ARTICOLO 12.6
 
 Riesame e ricorso
 
@@ -3569,7 +3567,7 @@ b) una decisione fondata sugli elementi di prova e sugli atti presentati o, se l
 
 3\. Ciascuna delle Parti provvede, fatta salva la possibilita' di ricorso o di riesame ulteriore nei modi previsti dalle rispettive leggi, che tale decisione sia applicata dall'ufficio o dall'autorita' e ne indirizzi l'azione per quanto riguarda le misure amministrative in questione.
 
-#### ARTICOLO 12.7
+##### ARTICOLO 12.7
 
 Qualita' ed efficacia della regolamentazione e buona condotta amministrativa
 
@@ -3577,7 +3575,7 @@ Qualita' ed efficacia della regolamentazione e buona condotta amministrativa
 
 2\. Le Parti aderiscono ai principi di buona condotta amministrativa e convengono di cooperare alla sua promozione, in particolare mediante lo scambio di informazioni e di buone pratiche.
 
-#### ARTICOLO 12.8
+##### ARTICOLO 12.8
 
 Non discriminazione
 
@@ -3585,7 +3583,7 @@ Ciascuna delle Parti applica alle persone interessate dell'altra Parte standard 
 
 ## CAPO 13 - COMMERCIO E SVILUPPO SOSTENIBILE
 
-#### ARTICOLO 13.1
+##### ARTICOLO 13.1
 
 Contesto e obiettivi
 
@@ -3595,7 +3593,7 @@ Contesto e obiettivi
 
 3\. Le Parti riconoscono che non e' loro intenzione armonizzare nel presente capo le loro norme in materia di lavoro e di ambiente, ma quello di rafforzare i loro rapporti e la loro cooperazione commerciali in modo da promuovere lo sviluppo sostenibile, come indicato nei paragrafi 1 e 2.
 
-#### ARTICOLO 13.2
+##### ARTICOLO 13.2
 
 Ambito di applicazione
 
@@ -3607,13 +3605,13 @@ Ambito di applicazione
 
 1 In questo capo quando si fa riferimento al lavoro si fa riferimento anche alle questioni attinenti all'Agenda per il lavoro dignitoso adottata dall'Organizzazione internazionale del lavoro (di seguito "OIL") e ripresa nella Dichiarazione ministeriale del 2006 del Consiglio economico e sociale delle Nazioni Unite sulla piena occupazione e il lavoro dignitoso.
 
-#### ARTICOLO 13.3
+##### ARTICOLO 13.3
 
 Diritto di regolamentare e livelli di protezione
 
 Ciascuna delle Parti, riconoscendo il diritto di ciascuna delle Parti di stabilire i propri livelli di protezione in materia di ambiente e di lavoro e di adottare o modificare di conseguenza la propria legislazione e le proprie politiche, si adopera affinche' la propria legislazione e le proprie politiche prevedano e promuovano livelli elevati di protezione dell'ambiente e del lavoro, in conformita' delle norme o degli accordi internazionali riconosciuti di cui agli articoli 13.4 e 13.5, e si adopera per continuare a migliorare la propria legislazione e le proprie politiche.
 
-#### ARTICOLO 13.4
+##### ARTICOLO 13.4
 
 Norme e accordi multilaterali in materia di lavoro
 
@@ -3633,7 +3631,7 @@ d) eliminazione della discriminazione in materia di impiego e professione.
 
 Le Parti riaffermano il loro impegno ad attuare effettivamente le convenzioni dell'OIL che la Corea e gli Stati membri dell'Unione europea hanno rispettivamente ratificato. Le Parti si adoperano assiduamente per ratificare le convenzioni fondamentali dell'OIL e le altre convenzioni classificate dall'OIL come convenzioni "aggiornate".
 
-#### ARTICOLO 13.5
+##### ARTICOLO 13.5
 
 Accordi multilaterali in materia di ambiente
 
@@ -3649,7 +3647,7 @@ Accordi multilaterali in materia di ambiente
 
 conferenza delle parti della Convenzione quadro delle Nazioni Unite sul cambiamento climatico.
 
-#### ARTICOLO 13.6
+##### ARTICOLO 13.6
 
 Il commercio come fattore che favorisce lo sviluppo sostenibile
 
@@ -3657,7 +3655,7 @@ Il commercio come fattore che favorisce lo sviluppo sostenibile
 
 2\. Le Parti si adoperano per facilitare e promuovere il commercio e gli investimenti diretti esteri nei beni e nei servizi ambientali, comprese le tecnologie ambientali, l'energia rinnovabile sostenibile, i prodotti e i servizi efficienti sul piano energetico e le merci con un marchio di qualita' ecologica, anche esaminando la questione dei relativi ostacoli non tariffari. Le Parti si adoperano per facilitare e promuovere il commercio delle merci che contribuiscono allo sviluppo sostenibile, comprese quelle che fruiscono di regimi come il commercio equo ed etico e quelle che implicano la responsabilita' sociale delle imprese.
 
-#### ARTICOLO 13.7
+##### ARTICOLO 13.7
 
 Mantenimento dei livelli di protezione nell'applicazione e nell'esecuzione di leggi, regolamenti o norme
 
@@ -3665,31 +3663,31 @@ Mantenimento dei livelli di protezione nell'applicazione e nell'esecuzione di le
 
 2\. Le Parti non indeboliscono o riducono la protezione in materia di ambiente o di lavoro garantita dalla loro legislazione per favorire gli scambi o gli investimenti non applicando le loro leggi, i loro regolamenti o le loro norme, o altrimenti derogandovi o proponendo di non applicarli o di derogarvi, in modo tale da influire sugli scambi o gli investimenti tra le Parti.
 
-#### ARTICOLO 13.8
+##### ARTICOLO 13.8
 
 Informazioni scientifiche
 
 Le Parti riconoscono l'importanza di tenere conto delle informazioni scientifiche e tecniche e delle norme, degli orientamenti o delle raccomandazioni internazionali pertinenti nell'elaborazione e nell'attuazione delle misure di tutela dell'ambiente e delle condizioni sociali che influiscono sui loro scambi commerciali.
 
-#### ARTICOLO 13.9
+##### ARTICOLO 13.9
 
 Trasparenza
 
 Le Parti, nel rispetto delle rispettive legislazioni interne, si impegnano a sviluppare, introdurre e attuare ogni misura diretta a proteggere l'ambiente e le condizioni di lavoro che influisca sui loro scambi commerciali in modo trasparente, dandone debita comunicazione, sottoponendola a una consultazione pubblica e informando e consultando nei modi e nei tempi opportuni gli attori non statali, compreso il settore privato.
 
-#### ARTICOLO 13.10
+##### ARTICOLO 13.10
 
 Esame degli effetti sulla sostenibilita'
 
 Le Parti si impegnano a esaminare, monitorare e valutare gli effetti dell'applicazione del presente accordo sullo sviluppo sostenibile, in particolare sulla promozione di un lavoro dignitoso, per mezzo dei rispettivi processi o istituti partecipativi e di quelli posti in essere in base al presente accordo, ad esempio tramite valutazioni degli effetti sulla sostenibilita' relativi al commercio.
 
-#### ARTICOLO 13.11
+##### ARTICOLO 13.11
 
 Cooperazione
 
 Riconoscendo l'importanza di cooperare sugli aspetti attinenti al commercio delle politiche sociali e ambientali per realizzare gli obiettivi del presente accordo, le Parti si impegnano a intraprendere le attivita' di cooperazione previste dall'allegato 13.
 
-#### ARTICOLO 13.12
+##### ARTICOLO 13.12
 
 Meccanismo istituzionale
 
@@ -3703,7 +3701,7 @@ Meccanismo istituzionale
 
 5\. I gruppi consultivi sono composti di organizzazioni indipendenti rappresentative della societa' civile, con una partecipazione equilibrata delle organizzazioni dei settori dell'ambiente, del lavoro e delle imprese e di altre parti interessate.
 
-#### ARTICOLO 13.13
+##### ARTICOLO 13.13
 
 Meccanismo di dialogo con la societa' civile
 
@@ -3713,7 +3711,7 @@ Meccanismo di dialogo con la societa' civile
 
 3\. Le Parti possono presentare al forum della societa' civile lo stato di avanzamento dell'applicazione del presente capo. Le opinioni, i pareri o le conclusioni del forum della societa' civile possono essere comunicati alle Parti direttamente o tramite i gruppi consultivi nazionali.
 
-#### ARTICOLO 13.14
+##### ARTICOLO 13.14
 
 Consultazioni governative
 
@@ -3725,7 +3723,7 @@ Consultazioni governative
 
 4\. Il comitato puo' consultare i gruppi consultivi nazionali di una delle Parti o di entrambe e ciascuna delle Parti puo' consultare i rispettivi gruppi consultivi nazionali. Un gruppo consultivo nazionale di una Parte puo' anche presentare di sua iniziativa comunicazioni a quella Parte o al comitato.
 
-#### ARTICOLO 13.15
+##### ARTICOLO 13.15
 
 Gruppo di esperti
 
@@ -3735,7 +3733,7 @@ Gruppo di esperti
 
 3\. All'entrata in vigore del presente accordo, le Parti designano di comune accordo un elenco di almeno quindici persone competenti nei campi delle questioni oggetto del presente capo, di cui almeno cinque non cittadini ne' dell'una ne' dell'altra Parte, che presiederanno il gruppo di esperti. Gli esperti sono indipendenti dalle Parti e dalle organizzazioni rappresentate nei gruppi consultivi nazionali e non ricevono istruzioni da esse. Ciascuna delle Parti sceglie un esperto dall'elenco di esperti entro trenta giorni dal ricevimento della domanda di costituzione di un gruppo di esperti. Se una Parte non sceglie il proprio esperto entro tale termine, l'altra Parte sceglie dall'elenco un esperto avente la nazionalita' di quella Parte. I due esperti cosi' scelti designano come presidente una persona che non abbia la cittadinanza di nessuna delle Parti.
 
-#### ARTICOLO 13.16
+##### ARTICOLO 13.16
 
 Risoluzione delle controversie
 
@@ -3745,13 +3743,13 @@ Per ogni questione attinente al presente capo, le Parti si avvalgono unicamente 
 
 ### SEZIONE A - OBIETTIVO E AMBITO DI APPLICAZIONE
 
-#### ARTICOLO 14.1
+##### ARTICOLO 14.1
 
 Obiettivo
 
 L'obiettivo del presente capo e' prevenire e risolvere le controversie tra le Parti concernenti l'applicazione in buona fede del presente accordo e giungere, per quanto possibile, a soluzioni concordate.
 
-#### ARTICOLO 14.2
+##### ARTICOLO 14.2
 
 Ambito di applicazione
 
@@ -3763,9 +3761,9 @@ Il presente capo si applica, salvo diversa indicazione, alle controversie concer
 
 culturale, tutti i riferimenti del presente capo al comitato per il commercio si intendono fatti al comitato per la cooperazione culturale.
 
-## SEZIONE B - CONSULTAZIONI
+### SEZIONE B - CONSULTAZIONI
 
-#### ARTICOLO 14.3
+##### ARTICOLO 14.3
 
 Consultazioni
 
@@ -3785,11 +3783,11 @@ Consultazioni
 
 importazioni, nel corso di un periodo rappresentativo, non sono distribuite sull'arco dell'intero anno ma sono concentrate in particolari periodi dell'anno in ragione di fattori stagionali.
 
-## SEZIONE C - PROCEDURE DI RISOLUZIONE DELLE CONTROVERSIE
+### SEZIONE C - PROCEDURE DI RISOLUZIONE DELLE CONTROVERSIE
 
-### SOTTOSEZIONE A - PROCEDURA DI ARBITRATO
+#### SOTTOSEZIONE A - PROCEDURA DI ARBITRATO
 
-#### ARTICOLO 14.4
+##### ARTICOLO 14.4
 
 Apertura della procedura di arbitrato
 
@@ -3797,7 +3795,7 @@ Apertura della procedura di arbitrato
 
 2\. La richiesta di costituzione di un collegio arbitrale e' comunicata per iscritto alla Parte convenuta e al comitato per il commercio. La Parte attrice precisa nella sua richiesta quali siano le specifiche misure contestate e spiega come tali misure costituiscano una violazione delle disposizioni di cui all'articolo 14.2.
 
-#### ARTICOLO 14.5
+##### ARTICOLO 14.5
 
 Costituzione del collegio arbitrale
 
@@ -3809,7 +3807,7 @@ Costituzione del collegio arbitrale
 
 4\. La data di costituzione del collegio arbitrale e' quella in cui vengono scelti i tre arbitri.
 
-#### ARTICOLO 14.6
+##### ARTICOLO 14.6
 
 Relazione interinale del collegio arbitrale
 
@@ -3823,7 +3821,7 @@ Relazione interinale del collegio arbitrale
 
 Il lodo finale del collegio arbitrale contiene un esame degli argomenti avanzati nella fase di riesame intermedio.
 
-#### ARTICOLO 14.7
+##### ARTICOLO 14.7
 
 Lodo del collegio arbitrale
 
@@ -3831,15 +3829,15 @@ Lodo del collegio arbitrale
 
 2\. Nei casi urgenti, compresi quelli relativi a merci deperibili o di carattere stagionale, il collegio arbitrale fa il possibile per trasmettere il proprio lodo entro sessanta giorni dalla data della sua costituzione. Il lodo dovrebbe comunque essere trasmesso entro settantacinque giorni dalla costituzione del collegio. Entro dieci giorni dalla sua costituzione, il collegio arbitrale puo' pronunciarsi in via preliminare circa l'effettiva urgenza del caso.
 
-## SOTTOSEZIONE B - ESECUZIONE
+#### SOTTOSEZIONE B - ESECUZIONE
 
-#### ARTICOLO 14.8
+##### ARTICOLO 14.8
 
 Esecuzione del lodo del collegio arbitrale
 
 Le Parti adottano le misure necessarie per conformarsi in buona fede al lodo del collegio arbitrale e si adoperano per concordare il periodo di tempo per dare esecuzione al lodo arbitrale.
 
-#### ARTICOLO 14.9
+##### ARTICOLO 14.9
 
 Periodo di tempo ragionevole per l'esecuzione
 
@@ -3853,7 +3851,7 @@ Periodo di tempo ragionevole per l'esecuzione
 
 5\. Il periodo di tempo ragionevole puo' essere prorogato di comune accordo tra le Parti.
 
-#### ARTICOLO 14.10
+##### ARTICOLO 14.10
 
 Riesame delle misure prese per dare esecuzione al lodo del collegio arbitrale
 
@@ -3863,7 +3861,7 @@ Riesame delle misure prese per dare esecuzione al lodo del collegio arbitrale
 
 3\. Nel caso in cui un membro del collegio arbitrale originario non sia piu' disponibile, si applicano le procedure di cui all'articolo 14.5. Il termine per la trasmissione della decisione e' di sessanta giorni dalla data della richiesta di cui al paragrafo 2.
 
-#### ARTICOLO 14.11
+##### ARTICOLO 14.11
 
 Misure correttive temporanee in caso di mancata esecuzione
 
@@ -3885,7 +3883,7 @@ renderla conforme a tali disposizioni, secondo quanto previsto all'articolo&#160
 
 accordo per la risoluzione della controversia.
 
-#### ARTICOLO 14.12
+##### ARTICOLO 14.12
 
 Riesame delle misure prese per dare esecuzione al lodo successivamente alla sospensione degli obblighi
 
@@ -3897,15 +3895,15 @@ La richiesta e' notificata alla Parte convenuta e al comitato per il commercio. 
 
 3\. Nel caso in cui un membro del collegio arbitrale originario non sia piu' disponibile, si applicano le procedure di cui all'articolo 14.5. Il termine per la trasmissione della decisione e' di sessanta giorni dalla data della presentazione della richiesta di cui al paragrafo 2.
 
-## SOTTOSEZIONE C - DISPOSIZIONI COMUNI
+#### SOTTOSEZIONE C - DISPOSIZIONI COMUNI
 
-#### ARTICOLO 14.13
+##### ARTICOLO 14.13
 
 Soluzione concordata
 
 Le Parti possono in qualsiasi momento pervenire a una soluzione concordata di una controversia cui si applica il presente capo. Esse notificano tale soluzione al comitato per il commercio. Alla notifica della soluzione concordata, la procedura e' chiusa.
 
-#### ARTICOLO 14.14
+##### ARTICOLO 14.14
 
 Regolamento di procedura
 
@@ -3913,19 +3911,19 @@ Regolamento di procedura
 
 2\. Le riunioni del collegio arbitrale sono pubbliche, in conformita' all'allegato 14-B.
 
-#### ARTICOLO 14.15
+##### ARTICOLO 14.15
 
 Informazioni e consulenza tecnica
 
 Su istanza di una Parte o di propria iniziativa, il collegio arbitrale puo' acquisire informazioni da qualunque fonte, comprese le Parti coinvolte nella controversia, se lo ritiene opportuno per la procedimento arbitrale. Il collegio arbitrale ha anche il diritto di acquisire il parere di esperti, se lo ritiene opportuno. Le informazioni cosi' ottenute devono essere comunicate a entrambe le Parti, che possono formulare osservazioni. Le persone fisiche o giuridiche interessate delle Parti sono autorizzate a presentare memorie a titolo di amicus curiae al collegio arbitrale, in conformita' all'allegato 14-B.
 
-#### ARTICOLO 14.16
+##### ARTICOLO 14.16
 
 Norme di interpretazione
 
 Il collegio arbitrale interpreta le disposizioni di cui all'articolo 14.2 secondo le norme di interpretazione consuetudinarie del diritto internazionale pubblico, comprese quelle codificate nella Convenzione di Vienna sul diritto dei trattati. Se un obbligo derivante dal presente accordo e' identico a un obbligo derivante dall'accordo OMC, il collegio arbitrale adotta un'interpretazione compatibile con le interpretazioni pertinenti stabilite dalle decisioni dell'organo di conciliazione dell'OMC. I lodi del collegio arbitrale non possono ampliare ne' ridurre i diritti e gli obblighi che discendono dalle disposizioni di cui all'articolo&#160;14.2.
 
-#### ARTICOLO 14.17
+##### ARTICOLO 14.17
 
 Decisioni e lodi del collegio arbitrale
 
@@ -3935,9 +3933,9 @@ Decisioni e lodi del collegio arbitrale
 
 Salvo diversa decisione, il comitato per il commercio rende pubblico il lodo del collegio arbitrale in ogni sua parte.
 
-## SEZIONE D - DISPOSIZIONI GENERALI
+### SEZIONE D - DISPOSIZIONI GENERALI
 
-#### ARTICOLO 14.18
+##### ARTICOLO 14.18
 
 Elenco degli arbitri
 
@@ -3945,7 +3943,7 @@ Elenco degli arbitri
 
 2\. Gli arbitri devono possedere conoscenze o esperienza specifiche in materia di diritto e commercio internazionale, essere indipendenti, esercitare le funzioni a titolo personale, non accettare istruzioni da alcuna organizzazione o governo in relazione alle questioni oggetto della controversia ne' essere collegati al governo di nessuna delle Parti e devono conformarsi alle disposizioni dell'allegato 14-C.
 
-#### ARTICOLO 14.19
+##### ARTICOLO 14.19
 
 Rapporto con gli obblighi derivanti dall'OMC
 
@@ -3967,7 +3965,7 @@ trasmette il proprio lodo alle Parti e al comitato per il commercio in conformit
 
 4\. Nessuna disposizione del presente accordo osta a che una Parte proceda alla sospensione degli obblighi autorizzata dall'organo di conciliazione dell'OMC. L'accordo OMC non puo' essere invocato per impedire a una Parte la sospensione di obblighi a norma del presente capo.
 
-#### ARTICOLO 14.20
+##### ARTICOLO 14.20
 
 Termini
 
@@ -3977,7 +3975,7 @@ Termini
 
 ## CAPO 15 - DISPOSIZIONI ISTITUZIONALI, GENERALI E FINALI
 
-#### ARTICOLO 15.1
+##### ARTICOLO 15.1
 
 Comitato per il commercio
 
@@ -4031,7 +4029,7 @@ g) prendere, nell'esercizio delle sue funzioni, ogni altro provvedimento che le 
 
 comitato per il commercio non ha competenza per quanto riguarda il protocollo e il comitato per la cooperazione culturale esercita tutte le funzioni del comitato per il commercio in relazione a tale protocollo, ove queste funzioni siano pertinenti ai fini della sua applicazione.
 
-#### ARTICOLO 15.2
+##### ARTICOLO 15.2
 
 Comitati specializzati
 
@@ -4059,7 +4057,7 @@ Il mandato e i compiti dei comitati specializzati sono definiti nei capi e nei p
 
 5\. Il comitato per il commercio puo' decidere di modificare o di assumere il compito assegnato a un comitato specializzato o di sciogliere un comitato specializzato.
 
-#### ARTICOLO 15.3
+##### ARTICOLO 15.3
 
 Gruppi di lavoro
 
@@ -4087,7 +4085,7 @@ g) il gruppo di lavoro "Indicazioni geografiche", di cui all'articolo 10.25 (Gru
 
 5\. Il comitato per il commercio puo' decidere di modificare o di assumere il compito assegnato a un gruppo di lavoro o di sciogliere un gruppo di lavoro.
 
-#### ARTICOLO 15.4
+##### ARTICOLO 15.4
 
 Decisioni
 
@@ -4097,7 +4095,7 @@ Decisioni
 
 3\. Il comitato per il commercio elabora le sue decisioni e le sue raccomandazioni mediante accordo tra le Parti.
 
-#### ARTICOLO 15.5
+##### ARTICOLO 15.5
 
 Modifiche
 
@@ -4105,7 +4103,7 @@ Modifiche
 
 2\. In deroga al paragrafo 1, il comitato per il commercio puo' decidere di modificare gli allegati, le appendici, i protocolli e le note del presente accordo. Le Parti possono adottare la decisione, fatta salva l'osservanza dei rispettivi obblighi e adempimenti di legge.
 
-#### ARTICOLO 15.6
+##### ARTICOLO 15.6
 
 Punti di contatto
 
@@ -4115,7 +4113,7 @@ Punti di contatto
 
 3\. Nella misura consentita dalla rispettiva legislazione, ciascuna delle Parti fornisce tramite i suoi coordinatori informazioni su richiesta dell'altra Parte e risponde sollecitamente a qualsiasi domanda dell'altra Parte in relazione a misure esistenti o proposte che possono avere un'incidenza sugli scambi commerciali tra le Parti.
 
-#### ARTICOLO 15.7
+##### ARTICOLO 15.7
 
 Disposizioni in materia fiscale
 
@@ -4127,7 +4125,7 @@ Disposizioni in materia fiscale
 
 4\. Nessuna delle disposizioni del presente accordo osta a che siano adottate o applicate misure dirette a impedire l'elusione o l'evasione fiscali conformemente alle disposizioni di accordi destinati a evitare la doppia imposizione o di altri accordi in materia fiscale o del diritto tributario nazionale.
 
-#### ARTICOLO 15.8
+##### ARTICOLO 15.8
 
 Eccezioni relative alla bilancia dei pagamenti
 
@@ -4151,7 +4149,7 @@ c) le misure correttive alternative che potrebbero essere adottate.
 
 Nel corso delle consultazioni e' valutata la conformita' delle misure restrittive ai paragrafi 3 e 4 e sono presi in considerazione tutti i dati, statistici o di altro tipo, comunicati dal Fondo monetario internazionale (di seguito "FMI") relativi al cambio delle valute, alle riserve monetarie e alla bilancia dei pagamenti; le conclusioni sono basate sulla valutazione del FMI della bilancia dei pagamenti e della situazione finanziaria esterna della Parte interessata.
 
-#### ARTICOLO 15.9
+##### ARTICOLO 15.9
 
 Eccezioni relative alla sicurezza
 
@@ -4169,7 +4167,7 @@ iii) adottati in periodo di guerra o comunque di crisi nelle relazioni internazi
 
 c) impedisca alle Parti di agire per adempiere i propri obblighi internazionali per il mantenimento della pace e della sicurezza internazionali.
 
-#### ARTICOLO 15.10
+##### ARTICOLO 15.10
 
 Entrata in vigore
 
@@ -4189,7 +4187,7 @@ c) Una Parte puo' porre termine all'applicazione provvisoria dandone comunicazio
 
 d) Se il presente accordo o talune sue disposizioni sono applicati provvisoriamente, per "entrata in vigore del presente accordo" si intende la data dell'applicazione provvisoria.
 
-#### ARTICOLO 15.11
+##### ARTICOLO 15.11
 
 Durata
 
@@ -4199,7 +4197,7 @@ Durata
 
 3\. La denuncia prende effetto sei mesi dopo la notifica di cui al paragrafo 2.
 
-#### ARTICOLO 15.12
+##### ARTICOLO 15.12
 
 Adempimento degli obblighi
 
@@ -4207,13 +4205,13 @@ Adempimento degli obblighi
 
 2\. Le Parti possono immediatamente adottare i provvedimenti appropriati in conformita' del diritto internazionale in caso di denuncia del presente accordo non sancita dalle norme generali del diritto internazionale.
 
-#### ARTICOLO 15.13
+##### ARTICOLO 15.13
 
 Allegati, appendici, protocolli e note
 
 Gli allegati, le appendici, i protocolli e le note del presente accordo ne costituiscono parte integrante.
 
-#### ARTICOLO 15.14
+##### ARTICOLO 15.14
 
 Relazione con altri accordi
 
@@ -4225,7 +4223,7 @@ Relazione con altri accordi
 
 4\. Le Parti convengono che nessuna delle disposizioni del presente accordo impone loro di agire in modo incompatibile con gli obblighi loro incombenti in forza dell'accordo OMC.
 
-#### ARTICOLO 15.15
+##### ARTICOLO 15.15
 
 Applicazione territoriale
 
@@ -4233,7 +4231,7 @@ Applicazione territoriale
 
 2\. Per quanto riguarda le disposizioni relative al regime doganale delle merci, il presente accordo si applica anche alle zone del territorio doganale dell'UE non comprese nei territori di cui al paragrafo 1.
 
-#### ARTICOLO 15.16
+##### ARTICOLO 15.16
 
 Testi facenti fede
 
@@ -4341,13 +4339,13 @@ Allegato 15 del capo 15
 
 Lasciato intenzionalmente in bianco
 
-#### Allegato 1
+##### Allegato 1
 
 Allegato 1
 
 Lasciato intenzionalmente in bianco
 
-#### Allegato 2A
+##### Allegato 2A
 
 Allegato 2-A
 
@@ -6370,7 +6368,7 @@ TABELLA DEI DAZI DELLA COREA
 +---------------+---------------------+--------+----------+---------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
 +---------------+---------------------+--------+----------+---------+
@@ -8564,7 +8562,7 @@ TABELLA DEI DAZI DELLA COREA
 +---------------+---------------------+--------+----------+---------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
 +---------------+---------------------+--------+----------+---------+
@@ -10758,7 +10756,7 @@ TABELLA DEI DAZI DELLA COREA
 +---------------+---------------------+--------+----------+---------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
 +---------------+---------------------+--------+----------+---------+
@@ -13005,7 +13003,7 @@ TABELLA DEI DAZI DELLA COREA
  +----------+------------------------+-----+--------------+--------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
  +----------+------------------------+--------+----------+---------+
@@ -14197,7 +14195,7 @@ TABELLA DEI DAZI DELLA COREA
  +----------+------------------------+-----+--------------+--------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
  +----------+------------------------+-----+--------------+--------+
@@ -16393,7 +16391,7 @@ TABELLA DEI DAZI DELLA COREA
  +----------+------------------------+-----+--------------+--------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
  +----------+------------------------+-----+--------------+--------+
@@ -18588,7 +18586,7 @@ TABELLA DEI DAZI DELLA COREA
  +----------+----------------------+-------+--------------+--------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
  +----------+----------------------+-------+--------------+--------+
@@ -20783,7 +20781,7 @@ TABELLA DEI DAZI DELLA COREA
  +----------+----------------------+-------+--------------+--------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
  +----------+----------------------+-------+--------------+--------+
@@ -22977,7 +22975,7 @@ TABELLA DEI DAZI DELLA COREA
  +----------+----------------------+-------+--------------+--------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
  +----------+----------------------+-------+--------------+--------+
@@ -24169,7 +24167,7 @@ TABELLA DEI DAZI DELLA COREA
  +----------+----------------------+-------+--------------+--------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
  +----------+----------------------+-------+--------------+--------+
@@ -26376,7 +26374,7 @@ TABELLA DEI DAZI DELLA COREA
 +--------------+------------------------------+-------+------+------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
 +--------------+------------------------------+-------+------+------+
@@ -28570,7 +28568,7 @@ TABELLA DEI DAZI DELLA COREA
 +---------------+---------------------------+-------+-------+-------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
 +---------------+---------------------------+-------+-------+-------+
@@ -30769,7 +30767,7 @@ TABELLA DEI DAZI DELLA COREA
 +--------------+------------------------------+-------+------+------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
 +--------------+------------------------------+-------+------+------+
@@ -32959,7 +32957,7 @@ TABELLA DEI DAZI DELLA COREA
 +--------------+-----------------------------+-------+-------+------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
 +--------------+-----------------------------+-------+-------+------+
@@ -34155,7 +34153,7 @@ TABELLA DEI DAZI DELLA COREA
 +-------------+---------------------------+-----------+------+------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
 +-------------+---------------------------+-----------+------+------+
@@ -36350,7 +36348,7 @@ TABELLA DEI DAZI DELLA COREA
 +--------------+-----------------------------+-------+-------+------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
 +--------------+-----------------------------+-------+-------+------+
@@ -38544,7 +38542,7 @@ TARIFFA DEI DAZI DELLA PARTE UE
 +------+--------------------+-----------+---------------+-----------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
 +------+--------------------+-----------+---------------+-----------+
@@ -40783,7 +40781,7 @@ TARIFFA DEI DAZI DELLA PARTE UE
 +----+---------------------+----------------+-------------+---------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
 +----+---------------------+----------------+-------------+---------+
@@ -42975,7 +42973,7 @@ TARIFFA DEI DAZI DELLA PARTE UE
 +----+---------------------+----------------+-------------+---------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
 +----+---------------------+----------------+-------------+---------+
@@ -44167,7 +44165,7 @@ TARIFFA DEI DAZI DELLA PARTE UE
 +----+-------------------+--------------+------------+--------------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
 +----+-------------------+--------------+------------+--------------+
@@ -46365,7 +46363,7 @@ TARIFFA DEI DAZI DELLA PARTE UE
 +------+--------------------+-----------+---------------+-----------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
 +------+--------------------+-----------+---------------+-----------+
@@ -48557,7 +48555,7 @@ TARIFFA DEI DAZI DELLA PARTE UE
 +---------+-------------------------+---------------+-------+-------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
 +---------+-------------------------+---------------+-------+-------+
@@ -50757,7 +50755,7 @@ TARIFFA DEI DAZI DELLA PARTE UE
  +------+----------------------+--------------+-----+--------------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
  +------+----------------------+--------------+-----+--------------+
@@ -52953,7 +52951,7 @@ TARIFFA DEI DAZI DELLA PARTE UE
 +---------+----------------------------+------------+-------+-------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
 +---------+----------------------------+------------+-------+-------+
@@ -54147,7 +54145,7 @@ TARIFFA DEI DAZI DELLA PARTE UE
 +---------+----------------------------+------------+-------+-------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
 +---------+----------------------------+------------+-------+-------+
@@ -56336,7 +56334,7 @@ TARIFFA DEI DAZI DELLA PARTE UE
 +------+-------------------------------------+---------+-----+-----+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
 +------+-------------------------------------+---------+-----+-----+
@@ -58538,7 +58536,7 @@ TARIFFA DEI DAZI DELLA PARTE UE
  +------+----------------------------------+-----------+-----+-----+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
  +------+----------------------------------+-----------+-----+-----+
@@ -60729,7 +60727,7 @@ TARIFFA DEI DAZI DELLA PARTE UE
  +------+----------------------------------+-----------+-----+-----+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
  +------+----------------------------------+-----------+-----+-----+
@@ -62925,7 +62923,7 @@ TARIFFA DEI DAZI DELLA PARTE UE
 +------+-----------------------------------+-----------+-----+-----+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
 +------+-----------------------------------+-----------+-----+-----+
@@ -64122,7 +64120,7 @@ TARIFFA DEI DAZI DELLA PARTE UE
 +----------+--------------------------+-------------+-------+-------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
 +----------+--------------------------+-------------+-------+-------+
@@ -66316,7 +66314,7 @@ TARIFFA DEI DAZI DELLA PARTE UE
 +----------+-------------------------+--------------+-------+-------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
 +----------+-------------------------+--------------+-------+-------+
@@ -68513,7 +68511,7 @@ TARIFFA DEI DAZI DELLA PARTE UE
 +----------+--------------------------+-------------+-------+-------+
 ```
 
-#### Allegato 2A
+##### Allegato 2A
 
 ```text
 +----------+--------------------------+-------------+-------+-------+

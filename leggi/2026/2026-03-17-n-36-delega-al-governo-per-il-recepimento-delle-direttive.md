@@ -27,11 +27,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I - Disposizioni generali per il recepimento e l'attuazione degli atti
+## Capo I - Disposizioni generali per il recepimento e l'attuazione degli atti dell'Unione europea
 
-### dell'Unione europea
-
-#### Art. 1
+### Art. 1
 
 Delega al Governo per l'attuazione e il recepimento degli atti normativi dell'Unione europea
 
@@ -105,7 +103,7 @@ Alla relativa copertura nonche' alla copertura delle minori entrate eventualment
 
 > 4\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.».
 
-#### Art. 2
+### Art. 2
 
 Delega al Governo per la disciplina sanzionatoria di violazioni di atti normativi dell'Unione europea
 
@@ -125,7 +123,7 @@ Delega al Governo per la disciplina sanzionatoria di violazioni di atti normativ
 
 ## Capo II - Deleghe al Governo per il recepimento di direttive europee
 
-#### Art. 3
+### Art. 3
 
 Delega al Governo per l'esercizio della delega per il recepimento della direttiva (UE) 2024/2823 del Parlamento europeo e del Consiglio, del 23 ottobre 2024, sulla protezione giuridica dei disegni e modelli, nonche' per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/2822 del Parlamento europeo e del Consiglio, del 23 ottobre 2024, che modifica il regolamento (CE) n. 6/2002 del Consiglio su disegni e modelli comunitari e abroga il regolamento (CE) n. 2246/2002 della Commissione
 
@@ -207,7 +205,7 @@ e) prevedere, per assicurare lo svolgimento delle attivita' di cui alla direttiv
 
 > \- Il decreto del Ministro dello sviluppo economico 13 gennaio 2010, n. 33, recante: «Regolamento di attuazione del Codice della proprieta' industriale, adottato con decreto legislativo 10 febbraio 2005, n. 30» e' pubblicato nella Gazzetta Ufficiale n. 56 del 9 marzo 2010.
 
-#### Art. 4
+### Art. 4
 
 Principi e criteri direttivi per l'esercizio della delega per il recepimento della direttiva (UE) 2024/1799 del Parlamento europeo e del Consiglio, del 13 giugno 2024, recante norme comuni che promuovono la riparazione dei beni e che modifica il regolamento (UE) 2017/2394 e le direttive (UE) 2019/771 e (UE) 2020/1828
 
@@ -241,7 +239,7 @@ g) apportare alla normativa vigente tutte le modificazioni e le integrazioni occ
 
 > \- Il decreto legislativo 6 settembre 2005, n. 206, recante: «Codice del consumo, a norma dell'articolo 7 della legge 29 luglio 2003, n. 229», e' pubblicato nella Gazzetta Ufficiale n. 235 dell'8 ottobre 2005.
 
-#### Art. 5
+### Art. 5
 
 Delega al Governo per l'adeguamento della normativa nazionale di recepimento della direttiva (UE) 2016/680 del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativa alla protezione delle persone fisiche con riguardo al trattamento dei dati personali da parte delle autorita' competenti a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, nonche' alla libera circolazione di tali dati e che abroga la decisione quadro 2008/977/GAI del Consiglio, alla sentenza della Corte di giustizia dell'Unione europea del 4 ottobre 2024, resa nella causa C-548/21
 
@@ -325,7 +323,7 @@ c) subordini l'esercizio della possibilita' di accesso ai dati, salvo che per i 
 
 > Chiunque, mediante le condotte di cui agli articoli 615-ter, 617-quater, 617-sexies, 635-bis, 635-quater e 635-quinquies ovvero con la minaccia di compierle, costringe taluno a fare o ad omettere qualche cosa, procurando a se' o ad altri un ingiusto profitto con altrui danno, e' punito con la reclusione da sei a dodici anni e con la multa da euro 5.000 a euro 10.000. La pena e' della reclusione da otto a ventidue anni e della multa da euro 6.000 a euro 18.000, se concorre taluna delle circostanze indicate nel terzo comma dell'articolo 628 nonche' nel caso in cui il fatto sia commesso nei confronti di persona incapace per eta' o per infermita'.».
 
-#### Art. 6
+### Art. 6
 
 Delega al Governo per il recepimento della direttiva (UE) 2024/1069 del Parlamento europeo e del Consiglio, dell'11 aprile 2024, sulla protezione delle persone attive nella partecipazione pubblica da domande manifestamente infondate o procedimenti giudiziari abusivi («azioni legali strategiche tese a bloccare la partecipazione pubblica»)
 
@@ -341,7 +339,7 @@ Delega al Governo per il recepimento della direttiva (UE) 2024/1069 del Parlamen
 
 > \- Per il testo degli articoli 31 e 32 della legge 24 dicembre 2012, n. 234, si vedano le note all'articolo 1.
 
-#### Art. 7
+### Art. 7
 
 Delega al Governo per il recepimento della direttiva (UE) 2025/1237 del Parlamento europeo e del Consiglio, del 17 giugno 2025, che modifica la direttiva 92/43/CEE del Consiglio per quanto riguarda lo status di protezione del lupo (Canis lupus)
 
@@ -361,7 +359,7 @@ Delega al Governo per il recepimento della direttiva (UE) 2025/1237 del Parlamen
 
 > \- La legge 11 febbraio 1992, n. 157, recante: «Norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio», e' pubblicata nella Gazzetta Ufficiale n. 46 del 25 febbraio 1992.
 
-#### Art. 8
+### Art. 8
 
 Delega al Governo per il recepimento della direttiva (UE) 2025/1 del Parlamento europeo e del Consiglio, del 27 novembre 2024, che istituisce un quadro di risanamento e risoluzione delle imprese di assicurazione e di riassicurazione e modifica le direttive 2002/47/CE, 2004/25/CE, 2007/36/CE, 2014/59/UE e (UE) 2017/1132 e i regolamenti (UE) n. 1094/2010, (UE) n. 648/2012, (UE) n. 806/2014 e (UE) 2017/1129
 
@@ -573,7 +571,7 @@ z) apportare alla normativa vigente tutte le modificazioni necessarie a garantir
 
 ## Capo III - Deleghe al governo per l'attuazione di regolamenti europei
 
-#### Art. 9
+### Art. 9
 
 Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2023/1230 del Parlamento europeo e del Consiglio, del 14 giugno 2023, relativo alle macchine e che abroga la direttiva 2006/42/CE del Parlamento europeo e del Consiglio e la direttiva 73/361/ CEE del Consiglio
 
@@ -613,7 +611,7 @@ g) apportare alla normativa vigente le modificazioni e le integrazioni necessari
 
 > \- La direttiva 2006/42/CE del Parlamento europeo e del Consiglio, del 17 maggio 2006, relativa alle macchine e che modifica la direttiva 95/16/CE (rifusione), e' pubblicata nella G.U.U.E. 9 giugno 2006, n. L 157.
 
-#### Art. 10
+### Art. 10
 
 Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/3005 del Parlamento europeo e del Consiglio, del 27 novembre 2024, sulla trasparenza e sull'integrita' delle attivita' di rating ambientale, sociale e di governance (ESG), che modifica il regolamento (UE) 2019/2088 e (UE) 2023/2859
 
@@ -635,7 +633,7 @@ b) designare la Commissione nazionale per le societa' e la borsa quale autorita'
 
 > \- Il decreto legislativo 24 febbraio 1998, n. 58, recante: «Testo unico delle disposizioni in materia di intermediazione finanziaria, ai sensi degli articoli 8 e 21 della legge 6 febbraio 1996, n. 52.», e' pubblicato nella Gazzetta Ufficiale n. 71 del 26 marzo 1998.
 
-#### Art. 11
+### Art. 11
 
 Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/590 del Parlamento europeo e del Consiglio, del 7 febbraio 2024, sulle sostanze che riducono lo strato di ozono, e che abroga il regolamento (CE) n. 1005/2009
 
@@ -671,7 +669,7 @@ d) assicurare il coordinamento tra il sistema sanzionatorio e la disciplina degl
 
 > Omissis.».
 
-#### Art. 12
+### Art. 12
 
 Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1244 del Parlamento europeo e del Consiglio, del 24 aprile 2024, relativo alla comunicazione dei dati ambientali delle installazioni industriali e alla creazione di un portale sulle emissioni industriali, e che abroga il regolamento (CE) n. 166/2006
 
@@ -717,7 +715,7 @@ b) quanto a euro 300.000 per ciascuno degli anni 2026 e 2027, mediante corrispon
 
 > \- Per il testo dell'articolo 2, comma 3, del decreto legislativo 28 agosto 1997, n. 281, si vedano le note all'articolo 11.
 
-#### Art. 13
+### Art. 13
 
 Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1157 del Parlamento europeo e del Consiglio, dell'11 aprile 2024, relativo alle spedizioni di rifiuti, che modifica i regolamenti (UE) n. 1257/2013 e (UE) 2020/1056 e abroga il regolamento (CE) n. 1013/2006
 
@@ -755,7 +753,7 @@ c) apportare alla normativa vigente in materia di spedizione di rifiuti, ivi com
 
 > 4\. La Conferenza unificata di cui al comma 1 e' convocata dal Presidente del Consiglio dei Ministri. Le sedute sono presiedute dal Presidente del Consiglio dei Ministri o, su sua delega, dal Ministro per gli affari regionali o, se tale incarico non e' conferito, dal Ministro dell'interno.».
 
-#### Art. 14
+### Art. 14
 
 Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2025/40 del Parlamento europeo e del Consiglio, del 19 dicembre 2024, sugli imballaggi e i rifiuti di imballaggio, che modifica il regolamento (UE) 2019/1020 e la direttiva (UE) 2019/904 e che abroga la direttiva 94/62/CE
 
@@ -783,7 +781,7 @@ c) apportare alla normativa vigente in materia di imballaggi e rifiuti di imball
 
 > \- Per il testo dell'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, si vedano le note all'articolo 13.
 
-#### Art. 15
+### Art. 15
 
 Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/2847 del Parlamento europeo e del Consiglio, del 23 ottobre 2024, relativo a requisiti orizzontali di cibersicurezza per i prodotti con elementi digitali e che modifica i regolamenti (UE) n. 168/2013 e (UE) 2019/1020 e la direttiva (UE) 2020/1828 (regolamento sulla ciberresilienza)
 
@@ -845,7 +843,7 @@ g) garantire che l'Agenzia per la cybersicurezza nazionale disponga di adeguate 
 
 > 5\. Ai fini dell'immediata attuazione delle disposizioni del presente decreto il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, anche in conto residui, le occorrenti variazioni di bilancio.».
 
-#### Art. 16
+### Art. 16
 
 Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2025/37 del Parlamento europeo e del Consiglio, del 19 dicembre 2024, che modifica il regolamento (UE) 2019/881 per quanto riguarda i servizi di sicurezza gestiti
 
@@ -883,7 +881,7 @@ b) apportare al decreto-legge 14 giugno 2021, n. 82, convertito, con modificazio
 
 > Omissis.».
 
-#### Art. 17
+### Art. 17
 
 Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2025/38 del Parlamento europeo e del Consiglio, del 19 dicembre 2024, che stabilisce misure intese a rafforzare la solidarieta' e le capacita' dell'Unione di rilevamento delle minacce e degli incidenti informatici e di preparazione e risposta agli stessi, e che modifica il regolamento (UE) 2021/694 (regolamento sulla cibersolidarieta')
 
@@ -909,7 +907,7 @@ e) prevedere disposizioni finalizzate alla partecipazione nazionale al sistema d
 
 > \- Per il testo dell'articolo 32 della citata legge 24 dicembre 2012, n. 234, si vedano le note all'articolo 1.
 
-#### Art. 18
+### Art. 18
 
 Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1735 del Parlamento europeo e del Consiglio, del 13 giugno 2024, che istituisce un quadro di misure per rafforzare l'ecosistema europeo di produzione delle tecnologie a zero emissioni nette e che modifica il regolamento (UE) 2018/1724
 
@@ -993,7 +991,7 @@ f) prevedere, per assicurare lo svolgimento delle attivita' di cui al regolament
 
 > \- Per il testo dell'articolo 30 del decreto legislativo 30 marzo 2001, n. 165 si vedano le note all'articolo 3.
 
-#### Art. 19
+### Art. 19
 
 Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/3110 del Parlamento europeo e del Consiglio, del 27 novembre 2024, che fissa norme armonizzate per la commercializzazione dei prodotti da costruzione e abroga il regolamento (UE) n. 305/2011
 
@@ -1177,7 +1175,7 @@ Visto, il Guardasigilli: Nordio
 
 ## Allegati
 
-#### Allegato A
+### Allegato A
 
 Allegato A
 

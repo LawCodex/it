@@ -29,17 +29,15 @@ la seguente legge:
 
 ## TITOLO I - APPROVAZIONE DEI RENDICONTI
 
-##### ART. 1 - Rendiconti
+#### ART. 1 - Rendiconti
 
 1\. Il rendiconto generale dell'Amministrazione dello Stato e i rendiconti delle Amministrazioni e delle Aziende autonome per l'esercizio 2007 sono approvati nelle risultanze di cui ai seguenti articoli.
 
 ## TITOLO II - AMMINISTRAZIONE DELLO STATO
 
-### CAPO I
+### CAPO I - CONTO DEL BILANCIO
 
-#### CONTO DEL BILANCIO
-
-##### ART. 2 - Entrate
+#### ART. 2 - Entrate
 
 1\. Le entrate tributarie, extratributarie, per alienazione e ammortamento di beni patrimoniali e riscossione di crediti, e per accensione di prestiti, accertate nell'esercizio finanziario 2007 per la competenza propria dell'esercizio, risultano stabilite in euro 682.418.371.991,10.
 
@@ -49,7 +47,7 @@ la seguente legge:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-##### Art. 3
+#### Art. 3
 
 ART 3.
 
@@ -85,7 +83,7 @@ a euro 92.356.292.081,88, cosi' risultanti:
 +--------+--------------------+-------------------+------------------+
 ```
 
-##### ART. 4 - Avanzo della gestione di competenza
+#### ART. 4 - Avanzo della gestione di competenza
 
 1\. L'avanzo della gestione di competenza dell'esercizio finanziario
 
@@ -125,25 +123,25 @@ a euro 92.356.292.081,88, cosi' risultanti:
 +---------------------------+-------------------+--------------------+
 ```
 
-##### ART. 5 - Situazione finanziaria
+#### ART. 5 - Situazione finanziaria
 
 1\. Il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 2007, di euro 290.533.639.786,91, risulta stabilito come segue:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-##### ART. 6 - Approvazione dell'allegato
+#### ART. 6 - Approvazione dell'allegato
 
 1\. E' approvato l'allegato n. 1, di cui all'articolo 9, ultimo comma, della legge 5 agosto 1978, n. 468.
 
-##### ART. 7 - Eccedenze
+#### ART. 7 - Eccedenze
 
 1\. Sono approvate le eccedenze di impegni e di pagamenti risultate in sede di consuntivo rispettivamente sul conto della competenza, sul conto dei residui e sul conto della cassa, relative alle unita' previsionali di base degli stati di previsione della spesa dei Ministeri sotto indicati per l'esercizio 2007, come risulta dal dettaglio che segue:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-## CAPO II - CONTO GENERALE DEL PATRIMONIO
+### CAPO II - CONTO GENERALE DEL PATRIMONIO
 
-##### ART. 8 - Risultati generali della gestione patrimoniale
+#### ART. 8 - Risultati generali della gestione patrimoniale
 
 1\. La situazione patrimoniale dell'Amministrazione dello Stato, al 31 dicembre 2007, resta stabilita come segue:
 
@@ -183,7 +181,7 @@ Attivita'
 
 ### CAPO I - ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-##### ART. 9 - Entrate
+#### ART. 9 - Entrate
 
 1\. Le entrate correnti del bilancio dell'Istituto agronomico per l'Oltremare, accertate nell'esercizio finanziario 2007 per la competenza propria dell'esercizio, risultano stabilite ,dal conto consuntivo dell'Istituto stesso, allegato al conto consuntivo del Ministero degli affari esteri, in euro 9.150.606,95.
 
@@ -207,7 +205,7 @@ Attivita'
 +--------------------+-------------+---------------------+---------------+
 ```
 
-##### ART. 10 - Spese
+#### ART. 10 - Spese
 
 1\. Le spese correnti e in conto capitale del bilancio dell'Istituto predetto, impegnate nell'esercizio finanziario 2007 per la competenza propria dell'esercizio, risultano stabilite in euro 9.150.606,95.
 
@@ -231,9 +229,9 @@ Attivita'
 +---------------------+------------+---------------------+-------------+
 ```
 
-## CAPO II - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
+### CAPO II - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-##### ART. 11 - Entrate
+#### ART. 11 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione autonoma dei monopoli di Stato, comprese quelle delle gestioni speciali e autonome, accertate nell'esercizio finanziario 2007 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'economia e delle finanze, in euro 13.711.640.226,15.
 
@@ -243,7 +241,7 @@ Attivita'
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-##### ART. 12 - Spese
+#### ART. 12 - Spese
 
 1\. Le spese correnti e in conto capitale e per rimborso di passivita' finanziarie del bilancio dell'Amministrazione predetta, comprese quelle delle gestioni speciali e autonome, impegnate nell'esercizio 2007 per la competenza propria dell'esercizio, risultano stabilite in euro 13.711.640.226,15.
 
@@ -267,7 +265,7 @@ Attivita'
 +----------------+----------------+-----------------+-----------------+
 ```
 
-##### ART. 13 - Riassunto generale
+#### ART. 13 - Riassunto generale
 
 1\. Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione autonoma dei monopoli di Stato, di competenza dell'esercizio 2007, risulta cosi' stabilito:
 
@@ -279,7 +277,7 @@ Spese (escluse le gestioni speciali) . . . . . .  1.044.793.955,57 Spese delle
  -------------------  13.711.640.226,15
 ```
 
-##### ART. 14 - Situazione finanziaria
+#### ART. 14 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dell'esercizio 2007, risulta come appresso:
 
@@ -293,9 +291,9 @@ Spese (escluse le gestioni speciali) . . . . . .  1.044.793.955,57 Spese delle
 +-----------------------------------+--------------------------------+
 ```
 
-## CAPO III - ARCHIVI NOTARILI
+### CAPO III - ARCHIVI NOTARILI
 
-##### ART. 15 - Avanzo
+#### ART. 15 - Avanzo
 
 1\. L'avanzo della gestione del bilancio degli Archivi notarili, per l'esercizio finanziario 2007, risulta stabilito come segue:
 
@@ -303,9 +301,9 @@ Entrate . . . . . . . . . . . . . . . . . . . . . .  331.837.740,07 Spese . . 
 
 ----------------  44.402,344,45
 
-## CAPO IV - FONDO EDIFICI DI CULTO
+### CAPO IV - FONDO EDIFICI DI CULTO
 
-##### ART. 16 - Entrate
+#### ART. 16 - Entrate
 
 1\. Le entrate correnti e in conto capitale del bilancio del Fondo edifici di culto, accertate nell'esercizio finanziario 2007 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'interno, in euro 12.291.377,16.
 
@@ -315,7 +313,7 @@ Entrate . . . . . . . . . . . . . . . . . . . . . .  331.837.740,07 Spese . . 
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-##### ART. 17 - Spese
+#### ART. 17 - Spese
 
 1\. Le spese correnti e in conto capitale del bilancio dell'Amministrazione predetta, impegnate nell'esercizio 2007, per la competenza propria dell'esercizio, risultano stabilite in euro 13.495.539,50.
 
@@ -338,7 +336,7 @@ Entrate . . . . . . . . . . . . . . . . . . . . . .  331.837.740,07 Spese . . 
 +--------------------+------------+---------------------+-------------+
 ```
 
-##### ART. 18 - Situazione finanziaria
+#### ART. 18 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Amministrazione del Fondo edifici di culto, alla fine dell'esercizio 2007, risulta come appresso:
 
@@ -409,9 +407,9 @@ Visto, il Guardasigilli: Alfano
 
 ----------------
 
-## CAPO IV - FONDO EDIFICI DI CULTO
+### CAPO IV - FONDO EDIFICI DI CULTO
 
-##### Allegato 1
+#### Allegato 1
 
 Allegato 1
 

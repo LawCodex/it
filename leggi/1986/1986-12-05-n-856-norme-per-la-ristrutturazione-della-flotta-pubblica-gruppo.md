@@ -28,7 +28,7 @@ la seguente legge:
 
 ## TITOLO I - PROGRAMMA DI RISTRUTTURAZIONE DEI SERVIZI DI TRASPORTO MERCI DI LINEA
 
-#### Art. 1
+### Art. 1
 
 1\. I servizi di trasporto merci di linea, di cui all'articolo 1, lettera b), della legge 20 dicembre 1974, n. 684, e successive modificazioni, esercitati, nel periodo dal 1 gennaio 1975 alla data di entrata in vigore della presente legge, da societa' del Gruppo Finmare, per i quali e' riconosciuta l'impossibilita' di conseguire l'equilibrio economico della gestione e la loro indispensabilita' per l'economia nazionale, sono oggetto di un programma di ristrutturazione e di sostegno finanziario da parte dello Stato.
 
@@ -48,7 +48,7 @@ la seguente legge:
 
 > (omissis) b) il trasporto di merci di linea, ai sensi del successivo articolo 4".
 
-#### Art. 2
+### Art. 2
 
 1\. Per i servizi di trasporto merci di linea previsti dall'articolo 1, il Ministro della marina mercantile, con proprio decreto, di concerto con i Ministri del tesoro e delle partecipazioni statali, e' autorizzato a corrispondere per un quinquennio, a decorrere dal 1 gennaio 1985, il contributo annuo di avviamento previsto dall'articolo 4, lettera a), della legge 20 dicembre 1974, n. 684, limitatamente al periodo di esercizio dei servizi con navi di proprieta' delle societa' indicate nell'articolo 1.
 
@@ -74,7 +74,7 @@ la seguente legge:
 
 > Nel caso in cui per l'avviamento dei nuovi servizi venga autorizzato il temporaneo noleggio a scafo nudo di navi in attesa dell'immissione in linea di nuove unita', il contributo di avviamento, fermo restando il limite massimo di cinque anni, e' pari al compenso di noleggio ritenuto congruo dal Ministero della marina mercantile, detratte le spese di manutenzione e assicurazione eventualmente a carico del noleggiatore. Per le navi delle quali sia stato autorizzato il noleggio entro il 31 dicembre 1976; non si tiene conto, ai fini della determinazione del periodo di cinque anni di corresponsione del contributo di avviamento, della durata del noleggio, entro il limite di tre anni".
 
-#### Art. 3
+### Art. 3
 
 1\. Il programma di cui all'articolo 1 deve contenere l'indicazione dei contingenti, divisi per qualifica, del personale, amministrativo e navigante, esuberante sia in relazione a servizi svolti al 1 gennaio 1985, sia in dipendenza dell'attuazione del programma medesimo, e delle relative variazioni.
 
@@ -102,7 +102,7 @@ AGGIORNAMENTO (1)
 
 La Corte costituzionale con sentenza 12-20 dicembre 1988, n. 1106 (in G.U. 28/12/1988, n.52 - serie speciale) ha dichiarato l'illeggittimita' costituzionale dell'art.3, quarto comma.
 
-#### Art. 4
+### Art. 4
 
 1\. Per le navi gia' assegnate ai servizi di cui all'articolo 4, lettera a), della legge 20 dicembre 1974, n. 684, che non dovessero essere utilizzate nei servizi compresi nel programma di cui all'articolo 1, o che venissero sostituite con naviglio di proprieta' tecnologicamente idoneo ed adeguato alle prevedibili quote di carico, sono riconosciute alle societa' interessate, con decreto del Ministro della marina mercantile, di concerto con i Ministri del tesoro e delle partecipazioni statali, le eventuali perdite patrimoniali, costituite:
 
@@ -140,7 +140,7 @@ b) limitatamente ad un anno, dai costi di disarmo delle navi dalla data di radia
 
 > Gli importi dei canoni di locazione o di noleggio corrisposti dalle societa' stesse vengono detratti dalle somme dovute dallo Stato a qualsiasi titolo alle societa' proprietarie delle navi o, in mancanza, vengono versati al bilancio dello Stato".
 
-#### Art. 5
+### Art. 5
 
 1\. Le somme da erogare per le finalita' di cui agli articoli 2, 3 e 4 sono corrisposte con decreto del Ministro della marina mercantile, in rate mensili posticipate in misura pari, nel loro totale, all'importo previsionale nell'ambito di quanto fissato per ciascun anno dalla presente legge.
 
@@ -148,7 +148,7 @@ b) limitatamente ad un anno, dai costi di disarmo delle navi dalla data di radia
 
 3\. Entro il 30 giugno di ciascun anno immediatamente successivo si procedera', previo accertamento, ai saldi delle somme dovute per i titoli di cui al comma 1, che comunque non potranno superare i residui annualmente iscritti in bilancio.
 
-#### Art. 6
+### Art. 6
 
 1\. A decorrere dal 1 gennaio 1987, per l'effettuazione della navigazione richiesta, secondo la vigente legislazione, per il conseguimento dei titoli professionali marittimi di aspirante capitano di lungo corso e di aspirante capitano di macchina, e' consentito l'imbarco, su navi mercantili nazionali, in soprannumero alle tabelle di armamento, di due diplomati degli Istituti tecnici nautici con contratto di formazione e lavoro di cui all'articolo 3 del decreto-legge 30 ottobre 1984, n. 726, convertito, con modificazioni, dalla legge 19 dicembre 1984, n. 863, di durata non inferiore a 18 mesi, dei quali uno con la qualifica di allievo ufficiale di coperta ed uno con la qualifica di allievo ufficiale di macchina.
 
@@ -206,7 +206,7 @@ b) limitatamente ad un anno, dai costi di disarmo delle navi dalla data di radia
 
 > 18\. I lavoratori iscritti negli elenchi di cui all'art. 19 della legge 2 aprile 1968, n. 482, assunti con contratto di formazione e lavoro, sono considerati ai fini delle percentuali d'obbligo di cui all'art. 11 della stessa legge".
 
-#### Art. 7
+### Art. 7
 
 1\. Il Ministro della marina mercantile, di concerto con il Ministro del tesoro, e' autorizzato a concedere un contributo straordinario, nel limite complessivo di 238 miliardi di lire, ripartito in ragione di 98 miliardi di lire per l'anno 1986, 62 miliardi di lire per l'anno 1987 e 78 miliardi di lire per l'anno 1988, alle imprese armatoriali che, alla data di entrata in vigore della presente legge, effettuino:
 
@@ -252,7 +252,7 @@ d) lire 15.000 per tonnellata di stazza lorda compensata per le navi di eta' com
 
 > La legge 9 gennaio 1962, n. 1 (Norme per l'esercito del credito navale) e' stata sostituita dalla legge 10 giugno 1982, n. 361 (Modifiche ed integrazioni alle normative riguardanti il credito navale), rifinanziato, con modifiche ed integrazioni, dalla legge 11 dicembre 1984, n. 848 (Provvidenze per l'industria armatoriale), dalla legge 12 giugno 1985, n. 295 (Finanziamento delle linee programmatiche per favorire, nel triennio 1984-86, il processo di ristrutturazione e razionalizzazione dell'industria navalmeccanica, nel quadro del rilancio della politica marittima nazionale, relativamente al periodo 1985-88) e dalla legge 16 dicembre 1985 n. 754 (Disposizioni in materia di provvidenze per l'industria armatoriale).
 
-#### Art. 8
+### Art. 8
 
 1\. Il Ministero della marina mercantile, di concerto con il Ministero del tesoro e' autorizzato a concedere contributi straordinari nel limite complessivo di 30 miliardi di lire, alle imprese armatoriali che, alla data di entrata in vigore della presente legge, hanno effettuato trasporto merci, con proprie navi del tipo da carico secco o liquido di prodotti esclusivamente agricoli. Il contributo e' riservato alle navi aventi un tonnellaggio di stazza lorda non superiore a 2.499,99 e, comunque, non inferiore a 400.
 
@@ -266,7 +266,7 @@ d) lire 15.000 per tonnellata di stazza lorda compensata per le navi di eta' com
 
 6\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 9
+### Art. 9
 
 1\. A decorrere dal 1 gennaio 1987, le assicurazioni contro i rischi della navigazione e assimilate di cui all'articolo 2 della tariffa di cui all'allegato A della legge 29 ottobre 1961, n. 1216, e successive modificazioni, sono soggette ad imposta con aliquota del 6 per cento.
 
@@ -276,7 +276,7 @@ d) lire 15.000 per tonnellata di stazza lorda compensata per le navi di eta' com
 
 > La legge 29 ottobre 1961, n. 1216 (Nuove disposizioni tributari(in materia di assicurazioni private e di contratti vitalizi), all'art. 2 dell'allegato A) determina l'aliquota dell'imposta per le assicurazioni contro i rischi per la navigazione marittima; nel testo vigente tale aliquota e' pari al 10 per cento.
 
-#### Art. 10
+### Art. 10
 
 1\. Le scritte sui containers indicanti il nome del proprietario o dell'utilizzatore non costituiscono oggetto per l'applicazione dell'imposta sulla pubblicita' di cui al decreto del Presidente della Repubblica 26 ottobre 1972, n. 639.
 
@@ -284,19 +284,17 @@ d) lire 15.000 per tonnellata di stazza lorda compensata per le navi di eta' com
 
 > Il D.P.R. 26 ottobre 1972, n. 639, concernente: "Imposta comunale sulle pubblicita' e diritti sulle pubbliche affissioni".
 
-## TITOLO II - SERVIZI MARITTIMI SOVVENZIONATI DI COLLEGAMENTO CON LE ISOLE MAGGIORI
+## TITOLO II - SERVIZI MARITTIMI SOVVENZIONATI DI COLLEGAMENTO CON LE ISOLE MAGGIORI E MINORI
 
-### E MINORI
-
-#### Art. 11
+### Art. 11
 
 (( ARTICOLO ABROGATO DALLA LEGGE 27 DICEMBRE 2006, N. 296 ))
 
-#### Art. 12
+### Art. 12
 
 (( ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2006, N. 296 ))
 
-#### Art. 13
+### Art. 13
 
 1\. A parziale modifica dell'articolo 1-bis del decreto-legge 29 dicembre 1977, n. 944, convertito, con modificazioni, dalla legge 27 febbraio 1978, n. 42, i collegamenti tra Trieste, altri scali del Friuli-Venezia Giulia e la costa istriana sono trasferiti dalla societa' Lloyd Triestino di navigazione alla societa' per azioni Adriatica a decorrere dal 1 gennaio successivo alla data di entrata in vigore della presente legge.
 
@@ -370,7 +368,7 @@ d) lire 15.000 per tonnellata di stazza lorda compensata per le navi di eta' com
 
 > \- La legge 19 marzo 1983, n. 72, concerne "Rivalutazione monetaria dei beni e del capitale delle imprese; disposizioni in materia di imposta locale sui redditi concernenti le piccole imprese; norme relative alle banche popolari, alle societa' per azioni ed alle cooperative, nonche' disposizioni in materia di trattamento tributario dei conti interbancari".
 
-#### Art. 14
+### Art. 14
 
 1\. Entro il termine di due anni i rapporti economico-patrimoniali per i titoli di cui agli articoli 4, lettere a) e b), 7, 8, 16 e 17 della legge 20 dicembre 1974, n. 684, all'articolo 2 della legge 19 maggio 1975, n. 169, all'articolo 1-bis del decreto-legge 29 dicembre 1977, n. 944, convertito, con modificazioni, dalla legge 27 febbraio 1978, n. 42, e all'articolo 1 del decreto-legge 30 dicembre 1979, n. 676, convertito, con modificazioni, dalla legge 5 marzo 1980, n. 40, sono definitivamente regolati e formalizzati con decreto del Ministro della marina mercantile, di concerto con i Ministri del tesoro e delle partecipazioni statali, assumendo gli importi iscritti quali crediti verso lo Stato sui bilanci delle societa' dell'anno 1984, approvati a norma di legge, con la sola esclusione dei crediti iscritti ex lege 19 marzo 1983, n. 72, e di quelli iscritti in applicazione dell'articolo 17 della legge n. 684 del 1974 per l'anno 1982 e seguenti,
 
@@ -396,7 +394,7 @@ c) un rappresentante effettivo ed uno supplente del Ministero delle partecipazio
 
 8\. Sono riconosciuti alle societa' gli oneri finanziari effettivamente sostenuti dal 1 gennaio 1985 alla data di emanazione dei decreti ministeriali di cui ai commi precedenti per i titoli ove detti oneri sono previsti.
 
-#### Art. 15
+### Art. 15
 
 1\. L'esercizio delle linee marittime per l'espletamento dei servizi postali e commerciali con le isole minori sarde e con la Corsica, gestiti dalla societa' Tirrenia di navigazione, sara' affidato con le modalita' previste dalla legge 19 maggio 1975, n. 169, in quanto applicabili, entro tre mesi dalla data di entrata in vigore della presente legge, ad una apposita societa' di navigazione a carattere regionale, con sede in Cagliari, al cui capitale la societa' Tirrenia di navigazione partecipa in misura non inferiore al 51 per cento((PERIODO ABROGATO DALLA L. 14 GIUGNO 1989, N.234))
 
@@ -404,7 +402,7 @@ c) un rappresentante effettivo ed uno supplente del Ministero delle partecipazio
 
 ## TITOLO III - DISPOSIZIONI VARIE
 
-#### Art. 16
+### Art. 16
 
 1\. Nell'articolo 3, secondo comma, della legge 10 giugno 1982, n. 361, le parole "nei successivi dodici mesi" e "nel termine di trenta mesi" sono sostituite rispettivamente dalle parole "nei successivi diciotto mesi" e "nel termine di trentasei mesi".
 
@@ -456,7 +454,7 @@ c) un rappresentante effettivo ed uno supplente del Ministero delle partecipazio
 
 > I documenti per la liquidazione finale del contributo di cui al primo comma dell'articolo 2, nonche' quelli per la liquidazione del contributo di cui al secondo comma dello stesso articolo, devono essere presentati, a pena di decadenza, entro un anno dalla data di ultimazione dei lavori di costruzione o di trasformazione".
 
-#### Art. 17
+### Art. 17
 
 1\. Il Ministro della marina mercantile, in deroga agli articoli 316 e seguenti del codice della navigazione, puo' autorizzare l'armatore ad appaltare ad imprese nazionali o straniere che abbiano un raccomandatario o un rappresentante in Italia, servizi complementari di camera, servizi di cucina o servizi generali a bordo delle navi adibite a crociera. Per i mezzi navali che eseguono lavori in mare al di fuori delle acque territoriali italiane, oltre che per i servizi gia' indicati per le navi da crociera, puo' essere concessa analoga autorizzazione anche per i servizi di officina, cantiere e assimilati (( nonche' ogni altra attivita' commerciale complementare, accessoria o comunque relativa all'attivita' crocieristica )).
 
@@ -466,7 +464,7 @@ c) un rappresentante effettivo ed uno supplente del Ministero delle partecipazio
 
 (( 3-bis. I servizi e le attivita' di cui ai commi 1 e 2 sono soggetti alla disciplina di cui agli articoli 3 e 6 del decreto-legge 30 dicembre 1997, n. 457, convertito, con modificazioni, dalla legge 27 febbraio 1998, n. 30 )).
 
-#### Art. 18
+### Art. 18
 
 1\. Agli enti previdenziali indicati al primo comma dell'articolo unico della legge 4 giugno 1973, n. 311, sono aggiunte le Casse marittime Adriatica, Meridionale e Tirrena.
 
@@ -492,11 +490,11 @@ c) un rappresentante effettivo ed uno supplente del Ministero delle partecipazio
 
 ## TITOLO IV - DISPOSIZIONI FINALI E NORME FINANZIARIE
 
-#### Art. 19
+### Art. 19
 
 1\. La ritenuta del 2 per mille sulle somme pagate per sovvenzioni e contributi, di cui all'articolo 13 della legge 20 dicembre 1974, n. 684, e' ridotta nella misura dell'1 per mille ed e' utilizzata per la vigilanza ivi prevista e per gli impegni di carattere internazionale nell'interesse delle societa' di navigazione, nonche' per il funzionamento della Commissione interministeriale di cui all'articolo 14 della presente legge, per gli accertamenti tecnici della Commissione interministeriale di cui al comma 4 del precedente articolo 2 e per il funzionamento della Commissione di cui all'articolo 11 della presente legge.
 
-#### Art. 20
+### Art. 20
 
 1\. L'ultimo comma dell'articolo 7 della legge 20 dicembre 1974, n. 684, riguardante la determinazione in via definitiva della sovvenzione spettante alle quattro societa' di navigazione di preminente interesse nazionale per l'esercizio 1974, e' applicato, per il periodo 1 luglio 1974-30 giugno 1975, anche alle societa' che hanno cessato i servizi marittimi sovvenzionati di carattere locale dei settori "E" (Medio Adriatico) ed "F" (Alto Adriatico) ai sensi dell'articolo 8 della legge 19 maggio 1975, n. 169, modificato dal decreto-legge 29 dicembre 1977, n. 944, convertito, con modificazioni, dalla legge 27 febbraio 1978, n. 42.
 
@@ -506,7 +504,7 @@ c) un rappresentante effettivo ed uno supplente del Ministero delle partecipazio
 
 > Il testo dell'art. 8 della legge 19 maggio 1975, n. 169, e' riportato nelle note all'art. 11.
 
-#### Art. 21
+### Art. 21
 
 1\. Tutte le norme delle leggi 20 dicembre 1974, n. 684, e 19 maggio 1975, n. 169, e successive modifiche e integrazioni, e del regolamento di esecuzione approvato con decreto del Presidente della Repubblica 1 giugno 1979, n. 501, sono applicabili, salvo incompatibilita', a quanto non esplicitamente e diversamente disciplinato dalla presente legge.
 
@@ -516,7 +514,7 @@ c) un rappresentante effettivo ed uno supplente del Ministero delle partecipazio
 
 > \- Il D.P.R. 1 giugno 1979, n. 501, reca: "Regolamento di esecuzione della legge 20 dicembre 1974, n. 684, interpretata e modificata dalla legge 23 giugno 1977, n. 373, sulla ristrutturazione dei servizi marittimi di preminente interesse nazionale".
 
-#### Art. 22
+### Art. 22
 
 1\. All'onere derivante dall'attuazione della presente legge, pari a lire 240 miliardi per il 1986, a lire 145 miliardi per il 1987 ed a lire 133 miliardi per il 1988, ivi comprese le minori entrate di lire 8 miliardi per ciascuno degli anni 1987 e 1988 di cui all'articolo 9, si provvede:
 

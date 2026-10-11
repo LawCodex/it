@@ -30,15 +30,15 @@ Il Senato e la Camera dei deputati hanno approvato;
 
 Noi abbiamo sanzionato e promulghiamo quanto segue:
 
-### Art. 1
+## Art. 1
 
 Nessuno puo' esercitare la professione di insegnante di materie musicali in Istituti o Scuole di musica, ne fare parte di orchestre che si producono in luoghi pubblici o aperti al pubblico, se non abbia conseguito in un Regio conservatorio di musica o in un Istituto musicale pareggiato il titolo previsto rispettivamente dagli articoli 2 e 3 della presente legge.
 
-### Art. 2
+## Art. 2
 
 Per esercitare la professione di insegnante di materie musicali in Istituti o Scuole di musica e' prescritto il possesso del diploma o della licenza di grado superiore relativi allo strumento o agli strumenti che formano la rispettiva materia d'insegnamento.
 
-### Art. 3
+## Art. 3
 
 Per far parte delle orchestre, di cui all'art. 1, si richiede:
 
@@ -50,19 +50,19 @@ Le orchestre dell'Ente Italiano Audizioni Radiofoniche sono comprese, agli effet
 
 Il diploma, la licenza o l'attestato, rispettivamente a norma del presente articolo, debbono essere relativi all'istrumento o agli strumenti che si vogliono suonare in orchestra.
 
-### Art. 4
+## Art. 4
 
 Le disposizioni di cui all'art. 1 non si applicano ai luoghi di culto, e, in generale, agli istituti, collegi o convitti religiosi o che siano sotto la dipendenza di autorita' ecclesiastiche, sempre che le rispettive attivita' artistiche e didattiche siano dirette a scopo di culto, e neppure si applicano ai Regi conservatori di musica e agli Istituti musicali pareggiati.
 
 Le disposizioni di cui al precedente art. 3 non si applicano alle orchestrine dei caffe', cinematografi e delle sale da ballo, con un numero di persone non superiore a sei alle orchestre costituite, in occasione di saggi scolastici, da allievi di istituzioni pubbliche di assistenza e di beneficenza, di collegi o convitti; alle orchestre costituite per feste di beneficenza alle bande musicali.
 
-### Art. 5
+## Art. 5
 
 Coloro che intendono aprire nuovi Istituti o Scuole di musica, anche se trattisi di enti pubblici, debbono chiederne ed ottenerne autorizzazione dal Ministero dell'educazione nazionale (Direzione generale antichita' e belle arti).
 
 Al predetto Ministero spetta la sorveglianza su tutti gli Istituti e Scuole di musica.
 
-### Art. 6
+## Art. 6
 
 Coloro che, a termini della presente legge, sono autorizzati ad insegnare materie musicali o a far parte di orchestre, possono essere iscritti in appositi albi.
 
@@ -70,7 +70,7 @@ Le norme concernenti la formazione degli albi, le condizioni per potervi essere 
 
 ## DISPOSIZIONI TRANSITORIE
 
-### Art. 7
+## Art. 7
 
 Coloro che alla data di pubblicazione della presente legge esercitino, da almeno tre anni, la professione di insegnante di discipline musicali in Istituti o Scuole di musica o di orchestrale e non si trovino nelle condizioni previste dai precedenti articoli 1, 2 e 3, non potranno continuare ad esercitare l'insegnamento o a far parte di orchestre, a termine dell'art. 1, se non avranno domandato ed ottenuto giudizio favorevole di idoneita' da un'apposita Commissione, in base ai titoli da essi presentati e, se ritenuto necessario dalla stessa Commissione, in seguito ad esame.
 
@@ -78,7 +78,7 @@ Le norme concernenti la presentazione delle domande ed il termine relativo che a
 
 Con lo stesso decreto verranno stabilite le modalita' ed i termini per la concessione dell'autorizzazione di cui all'articolo 5 alle Scuole ed agli Istituti di musica attualmente esistenti.
 
-### Art. 8
+## Art. 8
 
 Nei centri di popolazione inferiore ai 30.000 abitanti, il Sindacato provinciale fascista orchestrali, durante il periodo di anni cinque dal giorno dell'entrata in vigore della presente legge, potra' consentire l'assunzione di orchestrali anche non diplomati, qualora non vi fosse il numero sufficiente di diplomati per la formazione di complessi locali.
 

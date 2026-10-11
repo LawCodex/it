@@ -25,7 +25,7 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+##### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare i seguenti atti internazionali firmati a Bruxelles il 23 novembre 1970, relativi all'Associazione tra la Comunita' economica europea e la Turchia:
 
@@ -37,21 +37,21 @@ c) Accordo relativo ai prodotti di competenza della Comunita' economica europea 
 
 d) Accordo interno relativo al protocollo finanziario.
 
-#### Art. 2
+##### Art. 2
 
 Piena ed intera esecuzione e' data agli atti internazionali indicati nell'articolo precedente a decorrere dalla loro entrata in vigore in conformita' agli articoli 63, 12, 7 e 12 degli atti rispettivamente indicati nelle lettere a), b), c) e d) dell'articolo precedente.
 
-#### Art. 3
+##### Art. 3
 
 Per dare esecuzione agli obblighi derivanti dall'attuazione della presente legge e' autorizzata la spesa complessiva di lire 22 miliardi 312.500.000, ripartita in cinque quote di lire 4.462.500.000 per ciascuno degli anni finanziari dal 1972 al 1976.
 
-#### Art. 4
+##### Art. 4
 
 All'onere di lire 4.462.500.000 derivante dall'attuazione della presente legge, rispettivamente per gli anni finanziari 1972 e 1973, si fa fronte mediante corrispondente riduzione del fondo iscritto al capitolo n. 3523 dello stato di previsione della spesa del Ministero del tesoro per gli anni stessi.
 
 Il Ministro per il tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 5
+##### Art. 5
 
 Il Governo della Repubblica e' autorizzato, per la durata di quattro anni dall'entrata in vigore degli atti internazionali indicati nell'art. 1, ad emanare con decreti aventi valore di legge ordinaria, e secondo i principi direttivi contenuti negli atti suddetti, le norme necessarie per dare esecuzione agli obblighi derivanti dagli atti stessi.
 
@@ -159,13 +159,13 @@ I quali, dopo aver scambiato i loro pieni poteri, riconosciuti in buona e debita
 
 Hanno convenuto le disposizioni seguenti allegate a l'Accordo di Associazione:
 
-#### Articolo 1
+##### Articolo 1
 
 Con il presente Protocollo sono stabilite le condizioni modalita' e ritmi di realizzazione della fase transitori di cui all'articolo 4 dell'Accordo che crea un'Associazione tra la Comunita' Economica Europea e la Turchia.
 
 ## TITOLO I - Libera circolazione delle merci
 
-#### Articolo 2
+##### Articolo 2
 
 1\. Le disposizioni del capitolo I, sezione I, e del capitolo II del presente titolo si applicano:
 
@@ -179,17 +179,17 @@ b) alle merci in provenienza da paesi terzi che trovino in libera pratica nella 
 
 4\. Le disposizioni dei paragrafi 1 e 2 si applicano solo alle merci esportate dalla Comunita' o dalla Turchia a partire dalla data della firma del presente Protocollo.
 
-#### Articolo 3
+##### Articolo 3
 
 1\. Le disposizioni del capitolo I, sezione I, e del capitolo II del presente titolo si applicano anche alle merci ottenute nella Comunita' o in Turchia, nella cui fabbricazione siano stati impiegati prodotti in provenienza da paesi terzi che non si trovavano in libera pratica nella Comunita' o in Turchia. L'ammissione di dette merci al beneficio di queste disposizioni e' tuttavia subordinata alla riscossione, nello Stato di esportazione, di un prelievo di compensazione la cui aliquota sia pari alla percentuale dei dazi della tariffa doganale comune previsti per i prodotti in provenienza da paesi terzi, impiegati nella loro fabbricazione. Questa percentuale, fissata dal Consiglio di Associazione per ogni periodo da esso prestabilito, e' in rapporto alla riduzione tariffaria concessa alle merci in questione nello Stato di importazione. Il Consiglio di Associazione determina anche le modalita' di riscossione del prelievo di compensazione, tenendo conto delle disposizioni vigenti prima del 1° luglio 1968, in materia, negli scambi tra gli Stati membri.
 
 2\. Tuttavia, il prelievo di compensazione non viene riscosso all'atto dell'esportazione dalla Comunita' o dalla Turchia delle merci ottenute alle condizioni di cui al presente articolo, fino a quando per la maggioranza delle merci importate nell'altra Parte Contraente, la riduzione dei dazi doganali non superi il 20%, tenendo conto dei vari ritmi di riduzione tariffaria fissati dal presente Protocollo.
 
-#### Articolo 4
+##### Articolo 4
 
 Il Consiglio di Associazione determina i metodi di collaborazione amministrativa per l'applicazione degli articoli 2 e 3, tenuto conto dei metodi stabiliti dalla Comunita' per gli scambi di merci tra gli Stati membri.
 
-#### Articolo 5
+##### Articolo 5
 
 1\. Ciascuna Parte Contraente la quale ritenga che delle disparita' derivanti dall'applicazione dei dazi doganali o delle restrizioni quantitative o di qualsiasi altra misura all'importazione di effetto equivalente, nonche' di ogni altra misura di politica commerciale, minaccino di provocare deviazioni di traffico o causare difficolta' economiche nel suo territorio puo' adire il Consiglio di Associazione, che all'occorrenza raccomanda i metodi atti ad evitare i danni che possono derivarne.
 
@@ -197,29 +197,29 @@ Il Consiglio di Associazione determina i metodi di collaborazione amministrativa
 
 3\. Devono essere scelte con precedenza le misure che turbino il meno possibile il funzionamento dell'Associazione e in particolare lo sviluppo normale degli scambi.
 
-#### Articolo 6
+##### Articolo 6
 
 Nel corso della fase transitoria, le Parti Contraenti procedono nella misura necessaria al buon funzionamento dell'Associazione, al ravvicinamento delle loro disposizioni legislative, regolamentari e amministrative in materia doganale, tenendo conto dei ravvicinamenti gia' operati dagli Stati membri della Comunita'.
 
-## CAPITOLO I - UNIONE DOGANALE
+### CAPITOLO I - UNIONE DOGANALE
 
-### Sezione I - ABOLIZIONE DEI DAZI DOGANALI FRA LA COMUNITA' E LA TURCHIA
+#### Sezione I - ABOLIZIONE DEI DAZI DOGANALI FRA LA COMUNITA' E LA TURCHIA
 
-#### Articolo 7
+##### Articolo 7
 
 1\. Le Parti Contraenti si astengono dall'introdurre tra loro nuovi dazi doganali all'importazione ed all'esportazione o tasse di effetto equivalente e dall'aumentare quelli che applicano nei loro rapporti commerciali reciproci alla data dell'entrata in vigore del presente Protocollo.
 
 2\. Tuttavia il Consiglio di Associazione puo' autorizzare le Parti Contraenti ad introdurre nuovi dazi doganali all'esportazione o tasse di effetto equivalente, se cio' risulta necessario per la realizzazione degli obiettivi dell'Accordo.
 
-#### Articolo 8
+##### Articolo 8
 
 I dazi doganali all'importazione e le tasse di effetto equivalente in vigore tra la Comunita' e la Turchia, sono progressivamente aboliti alle condizioni stabilite negli articoli da 9 a 11.
 
-#### Articolo 9
+##### Articolo 9
 
 All'entrata in vigore del presente Protocollo, la Comunita' abolisce i dazi doganali e le tasse di effetto equivalente applicabili alle importazioni in provenienza dalla Turchia.
 
-#### Articolo 10
+##### Articolo 10
 
 1\. Per ogni prodotto, il dazio di base sul quale la Turchia deve operare le successive riduzioni e' costituito dal dazio effettivamente applicato nei riguardi della Comunita' alla data della firma del presente Protocollo.
 
@@ -227,13 +227,13 @@ All'entrata in vigore del presente Protocollo, la Comunita' abolisce i dazi doga
 
 3\. Ciascuna riduzione e' effettuata diminuendo del 10% il dazio di base di ciascun prodotto.
 
-#### Articolo 11
+##### Articolo 11
 
 In deroga all'articolo 10, paragrafi 2 e 3, la Turchia abolisce progressivamente i dazi di base nei confronti della Comunita' durante un periodo di ventidue anni per i prodotti che figurano all'Allegato n. 3, secondo il seguente ritmo: una riduzione del 5% di ciascun dazio e' effettuata alla data d'entrata in vigore del presente Protocollo. Tre altre riduzioni del 5% si operano rispettivamente tre anni, sei anni e dieci anni piu' tardi.
 
 Altre otto riduzioni del 10% ciascuna sono effettuate rispettivamente dodici, tredici, quindici, diciassette, diciotto, venti, ventuno e ventidue anni dopo l'entrata in vigore del presente Protocollo.
 
-#### Articolo 12
+##### Articolo 12
 
 1\. Al fine di proteggere lo sviluppo di una nuova industria di trasformazione non esistente in Turchia alla data dell'entrata in vigore del presente Protocollo o di assicurare l'espansione, prevista nel piano di sviluppo turco in corso di applicazione al momento considerato, di un'industria di trasformazione esistente, la Turchia puo', durante i primi otto anni della fase transitoria, apportare all'Allegato n. 3 le necessarie modifiche a condizione:
 
@@ -251,21 +251,21 @@ Per ciascuna delle voci a cui si riferiscono, queste misure tariffarie non posso
 
 4\. Il Consiglio di Associazione puo' apportare deroghe alle disposizioni dei paragrafi 1 e 3.
 
-#### Articolo 13
+##### Articolo 13
 
 1\. A prescindere dalle disposizioni degli articoli da 9 a 11, le Parti Contraenti possono sospendere interamente o parzialmente la riscossione dei dazi applicati sui prodotti importati dall'altra Parte, la quale deve esserne informata, segnatamente - per quanto riguarda la Turchia - per facilitare l'importazione di taluni prodotti necessari per incoraggiarne lo sviluppo economico.
 
 2\. Le Parti Contraenti si dichiarano disposte a ridurre i propri dazi nei confronti dell'altra Parte, secondo un ritmo piu' rapido di quello previsto dagli articoli da 9 a 11, quando cio' sia loro consentito dalla loro situazione economica generale e dalla situazione del settore interessato. Il Consiglio di Associazione rivolge raccomandazioni a tal fine.
 
-#### Articolo 14
+##### Articolo 14
 
 Qualora la Turchia proceda all'abolizione di una tassa di effetto equivalente ad un dazio doganale nei confronti di un paese terzo all'Associazione secondo un ritmo piu' rapido di quello contemplato dagli articoli 10 e li, lo stesso ritmo sara' applicato per l'abolizione di tale tassa nei confronti della Comunita'.
 
-#### Articolo 15
+##### Articolo 15
 
 Fatte salve le disposizioni dell'articolo 7, paragrafo 2, le Parti Contraenti aboliscono tra loro, al piu' tardi quattro anni dopo l'entrata in vigore del presente Protocollo, i dazi doganali all'esportazione e le tasse di effetto equivalente.
 
-#### Articolo 16
+##### Articolo 16
 
 1\. Le disposizioni degli articoli 7, paragrafo 1, e da 8 a 15 inclusi sono applicabili ai dazi doganali di carattere fiscale.
 
@@ -277,9 +277,9 @@ Fatte salve le disposizioni dell'articolo 7, paragrafo 2, le Parti Contraenti ab
 
 In via provvisoria la Turchia puo' mantenere i dazi in questione fino a che sia intervenuta una decisione del Consiglio di Associazione.
 
-## Sezione II - ADOZIONE DELLA TARIFFA DOGANALE COMUNE DA PARTE DELLA TURCHIA
+#### Sezione II - ADOZIONE DELLA TARIFFA DOGANALE COMUNE DA PARTE DELLA TURCHIA
 
-#### Articolo 17
+##### Articolo 17
 
 L'allineamento della tariffa doganale della Turchia sulla tariffa doganale comune si opera durante la fase transitoria secondo le seguenti modalita', prendendo come base i dazi effettivamente applicati dalla Turchia nei confronti dei paesi terzi alla data della firma del presente Protocollo.
 
@@ -291,7 +291,7 @@ L'allineamento della tariffa doganale della Turchia sulla tariffa doganale comun
 
 4\. La tariffa doganale comune si applica integralmente all'atto della decima riduzione dei dazi doganali prevista dall'articolo 10.
 
-#### Articolo 18
+##### Articolo 18
 
 In deroga all'articolo 17, per i prodotti che figurano nell'Allegato n. 3, la Turchia opera l'allineamento della sua tariffa durante un periodo di ventidue anni, secondo le seguenti modalita':
 
@@ -303,7 +303,7 @@ In deroga all'articolo 17, per i prodotti che figurano nell'Allegato n. 3, la Tu
 
 4\. La tariffa doganale comune si applica integralmente alla fine del ventiduesimo anno.
 
-#### Articolo 19
+##### Articolo 19
 
 1\. Per alcuni prodotti che non rappresentano piu' del 10% del valore delle sue importazioni totali del 1967 e previa consultazione del Consiglio di Associazione, la Turchia ha la facolta' di differire sino alla fine del ventiduesimo anno dall'entrata in vigore del presente Protocollo, le riduzioni dei suoi dazi doganali nei confronti dei paesi terzi che essa dovrebbe operare in conformita' degli articoli 17 e 18.
 
@@ -317,7 +317,7 @@ Per quanto riguarda i prodotti che figurano nell'Allegato n. 3, tale acceleramen
 
 5\. Per i dazi doganali che sono stati oggetto dell'autorizzazione prevista all'articolo 16, paragrafo 4, primo comma o che la Turchia puo' mantenere provvisoriamente, in conformita' dell'articolo 16, paragrafo 4, secondo comma, essa e' dispensata dall'applicare le disposizioni degli articoli 17 e 18. Allo scadere dell'autorizzazione, essa applica i dazi che risulterebbero dall'applicazione di detti articoli.
 
-#### Articolo 20
+##### Articolo 20
 
 1\. La Turchia ha la facolta' di concedere contingenti tariffari a dazi ridotti o nulli, previa autorizzazione del Consiglio di Associazione, al fine di facilitare l'importazione di alcuni prodotti in provenienza dai paesi con i quali la Turchia e' legata da accordi commerciali bilaterali, qualora l'esecuzione di detti accordi risenta in misura sensibile dell'applicazione delle disposizioni del presente Protocollo e delle misure adottate in esecuzione del medesimo.
 
@@ -335,13 +335,13 @@ Alla fine della fase transitoria, il Consiglio di Associazione puo' decidere se 
 
 4\. In nessun caso il dazio di un contingente tariffario puo' essere inferiore a quello effettivamente applicato dalla Turchia alle importazioni provenienti dalla Comunita'.
 
-## CAPITOLO II - ABOLIZIONE DELLE RESTRIZIONI QUANTITATIVE TRA LE PARTI CONTRAENTI
+### CAPITOLO II - ABOLIZIONE DELLE RESTRIZIONI QUANTITATIVE TRA LE PARTI CONTRAENTI
 
-#### Articolo 21
+##### Articolo 21
 
 Salve le disposizioni che seguono, sono vietate tra le Parti Contraenti le restrizioni quantitative all'importazione nonche' qualsiasi misura di effetto equivalente.
 
-#### Articolo 22
+##### Articolo 22
 
 1\. Le Parti Contraenti si astengono dall'introdurre fra loro nuove restrizioni quantitative all'importazione e misure di effetto equivalente.
 
@@ -359,15 +359,15 @@ Al termine di questo secondo periodo, la maggiorazione dell'aliquota di liberali
 
 6\. In nessun caso la Turchia applica alla Comunita' un trattamento meno favorevole di quello riservato ai paesi terzi.
 
-#### Articolo 23
+##### Articolo 23
 
 Le Parti Contraenti si astengono, nei loro reciproci scambi, dal rendere piu' severe le restrizioni quantitative all'importazione e le misure di effetto equivalente esistenti alla data di entrata in vigore del presente Protocollo, fatte salve le disposizioni dell'articolo 22, paragrafo 5.
 
-#### Articolo 24
+##### Articolo 24
 
 La Comunita' abolisce, all'entrata in vigore del presente Protocollo, tutte le restrizioni quantitative alle importazioni provenienti dalla Turchia. Questa liberalizzazione viene consolidata nei confronti della Turchia.
 
-#### Articolo 25
+##### Articolo 25
 
 1\. La Turchia abolisce progressivamente le restrizioni quantitative alle importazioni provenienti dalla Comunita' alle condizioni determinate nei paragrafi seguenti.
 
@@ -391,7 +391,7 @@ c) nel quadro della legge sull'incoraggiamento degli investimenti di capitali st
 
 8\. Tutte le restrizioni quantitative all'importazione in Turchia devono essere abolite al piu' tardi ventidue anni dopo l'entrata in vigore del presente Protocollo.
 
-#### Articolo 26
+##### Articolo 26
 
 1\. Le Parti Contraenti aboliscono tra loro tutte le misure di effetto equivalente a restrizioni quantitative all'importazione non oltre la fine di un periodo di ventidue anni. Il Consiglio di Associazione raccomanda gli adattamenti graduali da effettuare durante tale periodo, tenendo conto delle disposizioni adottate all'interno della Comunita'.
 
@@ -399,7 +399,7 @@ c) nel quadro della legge sull'incoraggiamento degli investimenti di capitali st
 
 Inoltre le cauzioni la cui percentuale e' superiore al 140% del valore in dogana delle merci importate in provenienza dalla Comunita', per quanto riguarda le parti, i pezzi staccati e gli accessori degli autoveicoli della voce 87.06 della tariffa doganale turca, e le cauzioni la cui percentuale e' superiore al 120% di detto valore, per quanto riguarda gli altri prodotti, sono abbassate ai livelli sopra indicati a decorrere dall'entrata in vigore del presente Protocollo.
 
-#### Articolo 27
+##### Articolo 27
 
 1\. Sono vietate fra le Parti Contraenti le restrizioni quantitative all'esportazione nonche' qualsiasi misura di effetto equivalente.
 
@@ -409,15 +409,15 @@ La Comunita' e la Turchia aboliscono tra loro, al piu' tardi alla fine della fas
 
 In questo caso, la Parte interessata apre, a favore dell'altra Parte, un contingente che tiene conto della media delle esportazioni degli ultimi tre anni per i quali sono disponibili statistiche e dello sviluppo normale degli scambi determinato dall'attuazione progressiva dell'unione doganale.
 
-#### Articolo 28
+##### Articolo 28
 
 La Turchia si dichiara disposta ad eliminare nei confronti della Comunita', le restrizioni quantitative all'importazione ed all'esportazione ad un ritmo piu' rapido di quello previsto dagli articoli precedenti, quando cio' le sia consentito dalla sua situazione economica generale e dalla situazione del settore interessato. Il Consiglio di Associazione rivolge raccomandazioni a tal fine alla Turchia.
 
-#### Articolo 29
+##### Articolo 29
 
 Le disposizioni degli articoli da 21 a 27 inclusi lasciano impregiudicati i divieti o le restrizioni all'importazione, all'esportazione o al transito, giustificati da motivi di moralita' pubblica, di ordine pubblico, di pubblica sicurezza, di tutela della salute e della vita delle persone e degli animali, o di preservazione dei vegetali, di protezione del patrimonio artistico, storico o archeologico nazionale, o di tutela della proprieta' industriale e commerciale. Tuttavia, tali divieti o restrizioni non devono costituire un mezzo di discriminazione arbitraria, ne' una restrizione dissimulata al commercio fra le Parti Contraenti.
 
-#### Articolo 30
+##### Articolo 30
 
 1\. Le Parti Contraenti procedono ad un progressivo riordinamento dei monopoli nazionali che presentano un carattere commerciale, in modo che venga esclusa alla fine di un periodo di ventidue anni, qualsiasi discriminazione fra i cittadini degli Stati membri della Comunita' e i cittadini turchi per quanto riguarda le condizioni relative all'approvvigionamento ed agli sbocchi.
 
@@ -431,19 +431,19 @@ Fino alla decisione del Consiglio di Associazione prevista dal comma precedente,
 
 4\. Gli obblighi delle Parti Contraenti sussistono solamente in quanto siano compatibili con gli accordi internazionali esistenti.
 
-## CAPITOLO III - PRODOTTI SOTTOPOSTI, ALL'IMPORTAZIONE NELLA COMUNITA', AD UNA REGOLAMENTAZIONE SPECIFICA IN SEGUITO ALLA ATTUAZIONE DELLA POLITICA AGRICOLA COMUNE
+### CAPITOLO III - PRODOTTI SOTTOPOSTI, ALL'IMPORTAZIONE NELLA COMUNITA', AD UNA REGOLAMENTAZIONE SPECIFICA IN SEGUITO ALLA ATTUAZIONE DELLA POLITICA AGRICOLA COMUNE
 
-#### Articolo 31
+##### Articolo 31
 
 Il regime definito al capitolo IV per i prodotti agricoli e' applicabile ai prodotti sottoposti, al momento dell'importazione nella Comunita', ad una regolamentazione specifica in seguito all'attuazione della politica agricola comune.
 
-## CAPITOLO IV - AGRICOLTURA
+### CAPITOLO IV - AGRICOLTURA
 
-#### Articolo 32
+##### Articolo 32
 
 Salvo contrarie disposizioni previste dagli articoli da 33 a 35, le norme del presente Protocollo sono applicabili ai prodotti agricoli.
 
-#### Articolo 33
+##### Articolo 33
 
 1\. Nel corso di un periodo di ventidue anni, la Turchia procede all'adattamento della propria politica agricola allo scopo di adottare, alla fine di tale periodo, le disposizioni della politica agricola comune la cui applicazione in Turchia e' indispensabile per l'attuazione della libera circolazione dei prodotti agricoli tra la Comunita' e la Turchia.
 
@@ -455,7 +455,7 @@ Salvo contrarie disposizioni previste dagli articoli da 33 a 35, le norme del pr
 
 5\. Nel quadro del Consiglio di Associazione, possono aver luogo consultazioni sulle proposte della Commissione di cui al paragrafo 3 e sulle misure che la Turchia intende adottare nel settore agricolo conformemente al paragrafo 1.
 
-#### Articolo 34
+##### Articolo 34
 
 1\. Alla fine del periodo di ventidue anni, il Consiglio di Associazione, dopo aver costatato che la Turchia ha adottato le misure di politica agricola comune di cui all'articolo 33, paragrafo 1, adotta le disposizioni necessarie alla realizzazione della libera circolazione dei prodotti agricoli tra la Comunita' e la Turchia.
 
@@ -463,7 +463,7 @@ Salvo contrarie disposizioni previste dagli articoli da 33 a 35, le norme del pr
 
 3\. Il Consiglio di Associazione puo' modificare la data di cui al paragrafo 1.
 
-#### Articolo 35
+##### Articolo 35
 
 1\. In attesa che le disposizioni previste all'articolo 34 siano adottate ed in deroga agli articoli da 7 a 11, da 15 a 18, 19 paragrafi 1 e 5, da 21 a 27 e 30, la Comunita' e la Turchia si accordano reciprocamente, per i loro scambi di prodotti agricoli, un regime preferenziale la cui ampiezza e le cui modalita' sono determinate dal Consiglio di Associazione.
 
@@ -477,23 +477,23 @@ Salvo contrarie disposizioni previste dagli articoli da 33 a 35, le norme del pr
 
 ### CAPITOLO I - I LAVORATORI
 
-#### Articolo 36
+##### Articolo 36
 
 La libera circolazione dei lavoratori tra gli Stati membri della Comunita' e la Turchia sara' realizzata gradualmente, conformemente ai principi enunciati all'articolo 12 dell'Accordo di Associazione tra la fine del dodicesimo e del ventiduesimo anno dall'entrata in vigore di detto Accordo.
 
 Il Consiglio di Associazione stabilira' le modalita' all'uopo necessarie.
 
-#### Articolo 37
+##### Articolo 37
 
 Ciascuno Stato membro accorda ai lavoratori di nazionalita' turca occupati nella Comunita' un regime caratterizzato dall'assenza di discriminazioni fondate sulla nazionalita' nei confronti dei lavoratori cittadini degli altri Stati membri della Comunita', per quanto riguarda le condizioni di lavoro e la retribuzione.
 
-#### Articolo 38
+##### Articolo 38
 
 Nell'attesa della graduale realizzazione della libera circolazione dei lavoratori tra gli Stati membri della Comunita' e la Turchia, il Consiglio di Associazione potra' esaminare tutti i problemi connessi con la mobilita' geografica e professionale dei lavoratori di nazionalita' turca, in particolare la proroga dei permessi di lavoro e di soggiorno per facilitare la loro occupazione in ciascuno Stato membro.
 
 A tal fine il Consiglio di Associazione puo' rivolgere raccomandazioni agli Stati membri.
 
-#### Articolo 39
+##### Articolo 39
 
 1\. Prima della fine del primo anno dall'entrata in vigore del presente Protocollo, il Consiglio di Associazione adotta disposizioni in materia di sicurezza sociale a favore dei lavoratori di nazionalita' turca che si spostano all'interno della Comunita' e delle loro famiglie residenti nella Comunita'.
 
@@ -505,13 +505,13 @@ A tal fine il Consiglio di Associazione puo' rivolgere raccomandazioni agli Stat
 
 5\. Le disposizioni di cui al presente articolo non pregiudicano i diritti e gli obblighi derivanti dagli accordi bilaterali esistenti tra la Turchia e gli Stati membri della Comunita' se essi prevedono un regime piu' favorevole ai cittadini turchi.
 
-#### Articolo 40
+##### Articolo 40
 
 Il Consiglio di Associazione puo' indirizzare raccomandazioni agli Stati membri ed alla Turchia per favorire lo scambio di giovani lavoratori ispirandosi alle misure risultanti dall'applicazione da parte degli Stati membri dell'articolo 50 del Trattato che istituisce la Comunita'.
 
-## CAPITOLO II - DIRITTO DI STABILIMENTO, SERVIZI E TRASPORTI
+### CAPITOLO II - DIRITTO DI STABILIMENTO, SERVIZI E TRASPORTI
 
-#### Articolo 41
+##### Articolo 41
 
 1\. Le Parti Contraenti si astengono dall'introdurre tra loro nuove restrizioni alla liberta' di stabilimento e alla libera prestazione dei servizi.
 
@@ -519,17 +519,15 @@ Il Consiglio di Associazione puo' indirizzare raccomandazioni agli Stati membri 
 
 Il Consiglio di Associazione stabilisce tale ritmo e tali modalita' per le diverse categorie di attivita', tenendo conto delle disposizioni analoghe gia' adottate dalla Comunita' in questi settori, nonche' della particolare situazione economica e sociale della Turchia. Sara' accordata priorita' alle attivita' che contribuiscono particolarmente allo sviluppo della produzione e degli scambi.
 
-#### Articolo 42
+##### Articolo 42
 
 1\. Il Consiglio di Associazione estende alla Turchia, secondo le modalita' che adotta tenendo conto in particolare della situazione geografica della Turchia, le disposizioni del Trattato che istituisce la Comunita' relative ai trasporti, e puo', alle stesse condizioni, estendere alla Turchia gli atti adottati dalla Comunita' in applicazione di dette disposizioni per i trasporti per ferrovia, su strada e per via navigabile.
 
 2\. Ove la Comunita', a norma dell'articolo 84, paragrafo 2, del Trattato che istituisce la Comunita', adotta disposizioni per la navigazione marittima ed aerea, il Consiglio di Associazione decide se, in quale misura e con quale procedura potranno essere prese disposizioni per la navigazione marittima ed aerea turca.
 
-## TITOLO III - Ravvicinamento delle politiche economiche
+## TITOLO III - Ravvicinamento delle politiche economiche CAPITOLO I CONCORRENZA, FISCALITA' E RAVVICINAMENTO DELLE LEGISLAZIONI
 
-### CAPITOLO I CONCORRENZA, FISCALITA' E RAVVICINAMENTO DELLE LEGISLAZIONI
-
-#### Articolo 43
+##### Articolo 43
 
 1\. Il Consiglio di Associazione stabilisce, entro sei anni dall'entrata in vigore del presente Protocollo, le condizioni e modalita' per l'applicazione dei principi di cui agli articoli 85, 86, 90 e 92 del Trattato che istituisce la Comunita'.
 
@@ -537,7 +535,7 @@ Il Consiglio di Associazione stabilisce tale ritmo e tali modalita' per le diver
 
 Alla fine della fase transitoria il Consiglio di Associazione decide, tenendo conto della situazione economica della Turchia a tale data, se sia necessario prorogare la disposizione di cui al comma precedente.
 
-#### Articolo 44
+##### Articolo 44
 
 1\. Nessuna Parte Contraente colpisce direttamente o indirettamente i prodotti dell'altra Parte con imposizioni interne, di qualsiasi natura, superiori a quelle che colpiscono direttamente o indirettamente i prodotti nazionali similari.
 
@@ -551,15 +549,15 @@ Le Parti Contraenti eliminano, non oltre l'inizio del terzo anno dall'entrata in
 
 4\. Il Consiglio di Associazione vigila sull'applicazione delle precedenti disposizioni, tenendo conto dell'esperienza acquisita dalla Comunita' nel settore considerato dal presente articolo.
 
-#### Articolo 45
+##### Articolo 45
 
 Per quanto riguarda le imposizioni diverse dalle imposte sulla cifra d'affari, dalle imposte di consumo e dalle altre imposte indirette, si possono concedere esoneri e rimborsi all'esportazione e introdurre tasse di compensazione applicabili alle importazioni, negli scambi tra la Comunita' e la Turchia, soltanto qualora le misure progettate siano state preventivamente approvate per un periodo limitato dal Consiglio di Associazione.
 
-#### Articolo 46
+##### Articolo 46
 
 Le Parti Contraenti possono adottare le misure di salvaguardia che ritengono necessarie per ovviare alle difficolta' risultanti sia dalla mancanza di decisioni del Consiglio di Associazione per la definizione delle condizioni e modalita' d'applicazione di cui all'articolo 43, paragrafo 1, sia da una mancata applicazione di tali decisioni o delle disposizioni di cui agli articoli 44 e 45.
 
-#### Articolo 47
+##### Articolo 47
 
 1\. Qualora, durante un periodo di ventidue anni, il Consiglio di Associazione, su domanda di una delle Parti Contraenti, accerti l'esistenza di pratiche di dumping esercitate nelle relazioni tra la Comunita' e la Turchia, rivolge raccomandazioni all'autore o agli autori di tali pratiche per porvi termine.
 
@@ -579,19 +577,19 @@ Quando le misure di protezione siano state prese nell'ipotesi di cui al paragraf
 
 Il Consiglio di Associazione puo' formulare tutte le raccomandazioni utili per l'applicazione delle disposizioni del presente paragrafo, ispirandosi all'esperienza acquisita dalla Comunita' in detto settore.
 
-#### Articolo 48
+##### Articolo 48
 
 Nei settori non soggetti alle disposizioni del presente Protocollo e che abbiano una diretta incidenza sul funzionamento dell'Associazione o nei settori previsti da queste disposizioni quando esse non prescrivano una procedura specifica, il Consiglio di Associazione puo' raccomandare a ciascuna delle Parti Contraenti di prendere misure volte al ravvicinamento delle disposizioni legislative, regolamentari o amministrative.
 
-## CAPITOLO II - POLITICA ECONOMICA
+### CAPITOLO II - POLITICA ECONOMICA
 
-#### Articolo 49
+##### Articolo 49
 
 Ai fini di facilitare la realizzazione degli obiettivi enunciati all'articolo 17 dell'Accordo di Associazione, le Parti Contraenti si consultano regolarmente in seno al Consiglio di Associazione per coordinare le loro rispettive politiche economiche.
 
 In caso di necessita' il Consiglio di Associazione raccomanda le misure adatte a far fronte alla situazione.
 
-#### Articolo 50
+##### Articolo 50
 
 1\. Le Parti Contraenti si dichiarano disposte a procedere alla liberalizzazione dei loro pagamenti oltre quanto previsto all'articolo 19 dell'Accordo di Associazione, nella misura in cui cio' sia consentito dalla loro situazione economica generale e, in particolare, dalla situazione della loro bilancia dei pagamenti.
 
@@ -601,19 +599,19 @@ In caso di necessita' il Consiglio di Associazione raccomanda le misure adatte a
 
 4\. Ove necessario, le Parti Contraenti si concertano sulle misure da adottare per rendere possibile la realizzazione dei pagamenti e dei trasferimenti di cui all'articolo 19 dell'Accordo di Associazione e al presente articolo.
 
-#### Articolo 51
+##### Articolo 51
 
 Ai fini della realizzazione degli obiettivi enunciati all'articolo 20 dell'Accordo di Associazione, sin dall'entrata in vigore del presente Protocollo la Turchia procura di migliorare il regime accordato ai capitali privati provenienti dalla Comunita' che possano contribuire al suo sviluppo economico.
 
-#### Articolo 52
+##### Articolo 52
 
 Le Parti Contraenti procurano di non introdurre nuove restrizioni di cambio pregiudizievoli ai movimenti dei capitali tra loro, nonche' ai pagamenti correnti relativi a questi movimenti, e di non rendere piu' restrittivo il regime esistente.
 
 Le Parti Contraenti semplificano, nella misura del possibile, le formalita' di autorizzazione e di controllo applicabili alla conclusione od all'esecuzione delle transazioni e dei trasferimenti di capitali e, all'occorrenza, si concertano a tal fine.
 
-## CAPITOLO III - POLITICA COMMERCIALE
+### CAPITOLO III - POLITICA COMMERCIALE
 
-#### Articolo 53
+##### Articolo 53
 
 1\. Le Parti Contraenti si concertano in sede di Consiglio di Associazione per assicurare, durante la fase transitoria, il coordinamento delle loro politiche commerciali nei confronti dei paesi terzi, segnatamente nei settori contemplati dall'articolo 113, paragrafo 1 del Trattato che istituisce la Comunita'.
 
@@ -623,7 +621,7 @@ Ove queste modifiche o questi accordi abbiano una incidenza diretta e particolar
 
 2\. Al termine della fase transitoria, le Parti Contraenti rafforzano, in sede di Consiglio di Associazione, il coordinamento delle loro politiche commerciali allo scopo di attuare una politica commerciale fondata su principi uniformi.
 
-#### Articolo 54
+##### Articolo 54
 
 1\. Ove la Comunita' concluda un Accordo di associazione o un accordo preferenziale che abbia un'incidenza diretta e particolare sul funzionamento della Associazione, si svolgeranno in sede di Consiglio di Associazione consultazioni adeguate per permettere alla Comunita' di prendere in considerazione gli interessi reciproci definiti dall'Accordo di Associazione tra la Comunita' e la Turchia.
 
@@ -631,25 +629,25 @@ Ove queste modifiche o questi accordi abbiano una incidenza diretta e particolar
 
 Se tali misure non vengono prese, il Consiglio di Associazione puo' adottare le disposizioni necessarie per assicurare il buon funzionamento dell'Associazione.
 
-#### Articolo 55
+##### Articolo 55
 
 In sede di Consiglio di Associazione avranno luogo consultazioni sull'applicazione della "Cooperazione Regionale per lo Sviluppo (R.C.D.)".
 
 Il Consiglio di Associazione puo' all'occorrenza stabilire le disposizioni necessarie. Queste disposizioni non devono ostacolare il buon funzionamento dell'Associazione.
 
-#### Articolo 56
+##### Articolo 56
 
 Nel caso di un'adesione di uno Stato terzo alla Comunita', avranno luogo, in sede di Consiglio di Associazione, consultazioni adeguate per permettere che siano presi in considerazione gli interessi reciproci della Comunita' e della Turchia definiti dall'Accordo di Associazione.
 
 ## TITOLO IV - Disposizioni generali e finali
 
-#### Articolo 57
+##### Articolo 57
 
 Le Parti Contraenti modificano progressivamente le condizioni di partecipazione ai contratti conclusi dalle amministrazioni o dalle imprese pubbliche, nonche' dalle imprese private alle quali siano stati concessi diritti speciali od esclusivi in modo da eliminare, alla fine di un periodo di ventidue anni, ogni discriminazione tra i cittadini degli Stati membri e i cittadini della Turchia stabiliti sul territorio delle Parti Contraenti.
 
 Il Consiglio di Associazione adotta le modalita' e il ritmo di tali modificazioni ispirandosi alle soluzioni adottate all'interno della Comunita' in questo settore.
 
-#### Articolo 58
+##### Articolo 58
 
 Nei settori coperti dal presente Protocollo:
 
@@ -657,11 +655,11 @@ Nei settori coperti dal presente Protocollo:
 
 \- il regime applicato dalla Comunita' nei confronti della Turchia non puo' dar luogo ad alcuna discriminazione tra cittadini o societa' turche.
 
-#### Articolo 59
+##### Articolo 59
 
 Nei settori coperti dal presente Protocollo, la Turchia non puo' beneficiare di un trattamento piu' favorevole di quello che gli Stati membri si accordano reciprocamente in virtu' del Trattato che istituisce la Comunita'.
 
-#### Articolo 60
+##### Articolo 60
 
 1\. Qualora in un settore dell'attivita' economica della Turchia si verifichino gravi perturbazioni, o tali da compromettere la sua stabilita' finanziaria con l'estero, ovvero qualora sorgano difficolta' tali da alterare la situazione economica di una regione della Turchia, quest'ultima puo' adottare le necessarie misure di salvaguardia.
 
@@ -675,15 +673,15 @@ Tali misure nonche' le relative modalita' d'applicazione sono notificate senza i
 
 4\. Sulle misure prese in applicazione dei paragrafi 1 e 2, possono intervenire consultazioni in sede di Consiglio di Associazione.
 
-#### Articolo 61
+##### Articolo 61
 
 La fase transitoria ha una durata di dodici anni, fatte salve le disposizioni particolari del presente Protocollo.
 
-#### Articolo 62
+##### Articolo 62
 
 Il presente Protocollo ed i suoi Allegati costituiscono parte integrante dell'Accordo che crea un'Associazione tra la Comunita' Economica Europea e la Turchia.
 
-#### Articolo 63
+##### Articolo 63
 
 1\. Il presente Protocollo sara' ratificato dagli Stati firmatari conformemente alle loro rispettive norme costituzionali e sara' validamente concluso, per quanto concerne la Comunita', con una decisione del Consiglio presa conformemente alle disposizioni del Trattato che istituisce la Comunita' e notificata alle Parti Contraenti dell'Accordo che crea una Associazione tra la Comunita' Economica Europea e la Turchia.
 
@@ -693,7 +691,7 @@ Gli strumenti di ratifica e l'atto di notifica della conclusione sopra previsti 
 
 3\. Se l'entrata in vigore del presente Protocollo non coincide con l'inizio dell'anno civile, il Consiglio di Associazione puo' abbreviare o prolungare i termini in esso previsti particolarmente per la realizzazione della libera circolazione delle merci, in modo da farli scadere alla fine dell'anno civile.
 
-#### Articolo 64
+##### Articolo 64
 
 Il presente Protocollo e' redatto in duplice esemplare, in lingua tedesca, francese, italiana, olandese e turca, ciascuno di detti testi facenti ugualmente fede.
 
@@ -745,7 +743,7 @@ ALLEGATO N. 1
 
 relativo al regime applicabile all'importazione, nella Comunita', di prodotti petroliferi in provenienza dalla Turchia
 
-#### Articolo unico
+##### Articolo unico
 
 1\. In deroga alle disposizioni degli art. 9 e da 21 a 30 del Protocollo addizionale, i prodotti di cui al seguente elenco, raffinati in Turchia, sono ammessi all'importazione nella Comunita' in esenzione dai dazi doganali, nel limite di un contingente tariffario comunitario di volume annuo globale di 200.000 tonnellate:
 
@@ -773,7 +771,7 @@ ALLEGATO N. 2
 
 relativo al regime applicabile all'importazione nella Comunita' di taluni prodotti tessili in provenienza dalla Turchia
 
-#### Articolo 1
+##### Articolo 1
 
 1\. In deroga all'articolo 9 del Protocollo addizionale per i prodotti sottoelencati importati in provenienza dalla Turchia, la Comunita' sopprime progressivamente i dazi della tariffa doganale comune in un periodo di dodici anni mediante quattro riduzioni successive del 25% ciascuna. Tali riduzioni saranno operate alla data di entrata in vigore del Protocollo addizionale, nonche' quattro, otto e dodici anni dopo:
 
@@ -800,7 +798,7 @@ doganale comune |
 
 2\. Tuttavia, per i prodotti di cui alle voci 55 05 e 55 09, importati in provenienza dalla Turchia, la Comunita' opera, sin dall'entrata in vigore del Protocollo addizionale, una riduzione del 75% dei dazi della tariffa doganale comune, nell'ambito di contingenti tariffari comunitari annui rispettivamente di 300 tonnellate per la voce 55.05 e di 1.000 tonnellate per la voce 55.09.
 
-#### Articolo 2
+##### Articolo 2
 
 In deroga alle disposizioni degli articoli da 21 a 24 del
 
@@ -820,7 +818,7 @@ doganale comune |
 
 50.02 | Seta greggia (non torta)
 
-#### Allegato 3
+##### Allegato 3
 
 ALLEGATO N. 3
 
@@ -828,7 +826,7 @@ Elenco dei prodotti sottoposti al ritmo di riduzione tariffaria previsto dall'ar
 
 Parte di provvedimento in formato grafico
 
-#### Allegato 4
+##### Allegato 4
 
 ALLEGATO N. 4
 
@@ -874,7 +872,7 @@ Se nel frattempo intervengono modifiche nella natura delle risorse
 
 di cui al paragrafo 1 di presente Allegato o nelle procedure per la loro utilizzazione, oppure se si presentano difficolta' per tale utilizzazione, il Consiglio di Associazione riesamina la situazione per prendere misure adeguate.
 
-#### Allegato 5
+##### Allegato 5
 
 ALLEGATO N. 5
 
@@ -902,15 +900,15 @@ ALLEGATO N. 6
 
 relativo al regime applicabile ai prodotti agricoli
 
-#### Articolo 1
+##### Articolo 1
 
 Il regime previsto all'articolo 35, paragrafo 2 del Protocollo
 
 addizionale e' definito negli articoli seguenti.
 
-## CAPITOLO I - REGIME PREFERENZIALE ALL'IMPORTAZIONE NELLA COMUNITA'
+### CAPITOLO I - REGIME PREFERENZIALE ALL'IMPORTAZIONE NELLA COMUNITA'
 
-#### Articolo 2
+##### Articolo 2
 
 I prodotti sotto elencati, originari della Turchia, sono soggetti,
 
@@ -918,7 +916,7 @@ all'importazione nella Comunita', a dazi doganali pari al 50% dei dazi della tar
 
 Parte di provvedimento in formato grafico
 
-#### Articolo 3
+##### Articolo 3
 
 I prodotti seguenti, originari della Turchia, sono ammessi
 
@@ -938,7 +936,7 @@ doganale comune |
                     |         contenuto netto di 15, kg o meno
 ```
 
-#### Articolo 4
+##### Articolo 4
 
 1\. I prodotti seguenti, originari della Turchia, sono soggetti, all'importazione nella Comunita', a dazi doganali pari al 60% dei dazi della tariffa doganale comune:
 
@@ -977,7 +975,7 @@ ex 08.02 C | Limoni freschi
 
 Tuttavia, agli effetti della deduzione delle tasse all'importazione diverse dai dazi doganali di cui al paragrafo 3, la Comunita' si riserva la possibilita' di calcolare l'importo da dedurre in base alla provenienza, onde evitare gli inconvenienti che potrebbero eventualmente risultare dall'incidenza di tali tasse sui prezzi d'entrata 5. Le disposizioni dell'articolo 11 del Regolamento n. 23 restano applicabili 6. Qualora i benefici risultanti dalle disposizioni dei paragrafi 1 e 2 fossero compromessi, o rischiassero di esserlo, da condizioni di concorrenza anormali, si potra' procedere a consultazioni in sede di Consiglio di Associazione al fine di esaminare i problemi posti, dalla situazione creatasi.
 
-#### Articolo 5
+##### Articolo 5
 
 I prodotti sottoelencati, originari della Turchia sono soggetti,
 
@@ -999,7 +997,7 @@ doganale comune |
                     |           contenuto netto di 15 kg o meno
 ```
 
-#### Articolo 6
+##### Articolo 6
 
 I prodotti seguenti, originari della Turchia sono soggetti, all'importazione nella Comunita', ad un dazio doganale del 2,5% ad valorem, nei limiti di un contingente tariffario comunitario annuo di 18.700 tonnellate:
 
@@ -1018,7 +1016,7 @@ doganale comune |
                     |         - Nocciole
 ```
 
-#### Articolo 7
+##### Articolo 7
 
 1\. La Comunita' prende le disposizioni necessarie affinche' il
 
@@ -1036,7 +1034,7 @@ l'applicazione del presente paragrafo.
 
 articolo, potranno aver luogo consultazioni in sede di Consiglio di Associazione.
 
-#### Articolo 8
+##### Articolo 8
 
 I prodotti seguenti, originari della Turchia sono ammessi
 
@@ -1054,7 +1052,7 @@ doganale comune |
                     |  bacco
 ```
 
-#### Articolo 9
+##### Articolo 9
 
 I prodotti sottoelencati, originari della Turchia, sono soggetti,
 
@@ -1068,7 +1066,7 @@ Essi sono soppressi alla fine del terzo anno.
 
 Parte di provvedimento in formato grafico
 
-#### Articolo 10
+##### Articolo 10
 
 Sin dall'attuazione della politica comune della pesca, la Comunita'
 
@@ -1078,13 +1076,13 @@ Il Consiglio di Associazione esamina le misure che potrebbero
 
 migliorare dette possibilita'.
 
-#### Articolo 11
+##### Articolo 11
 
 Il Consiglio di Associazione adotta il regime preferenziale
 
 applicabile ai vini originari della Turchia.
 
-#### Articolo 12
+##### Articolo 12
 
 La Comunita' adotta tutte le misure necessarie affinche' il prelievo applicabile all'importazione nella Comunita' delle merci seguenti, prodotte in Turchia e direttamente importate da questo paese nella Comunita', sia quello calcolato conformemente alle disposizioni dell'articolo 13 del Regolamento n. 120/67/CEE relativo all'organizzazione comune dei mercati nel settore dei cereali, diminuito di 0,5 unita' di conto per tonnellata:
 
@@ -1104,7 +1102,7 @@ doganale comune |
                     |         - Scagliola
 ```
 
-#### Articolo 13
+##### Articolo 13
 
 1\. A condizione che la Turchia applichi, per la segala della voce 1002 della tariffa doganale comune prodotta in Turchia e direttamente importata da questo paese nella Comunita', una tassa speciale all'esportazione e che detta tassa si ripercuota sul prezzo all'importazione, la Comunita' diminuisce, di un importo uguale a quello della tassa versata ed entro i limiti di 8 unita' di conto per tonnellata, l'importo del prelievo applicabile all'importazione del prodotto in questione, calcolato conformemente alle disposizioni dell'articolo 13 del Regolamento n. 120/67/CEE relativo all'organizzazione comune dei mercati nel settore dei cereali.
 
@@ -1112,7 +1110,7 @@ Ciascuna Parte Contraente adotta le misure necessarie per assicurare l'applicazi
 
 2\. Circa il funzionamento del sistema previsto dal presente articolo potranno aver luogo consultazioni in sede di Consiglio di Associazione.
 
-#### Articolo 14
+##### Articolo 14
 
 Fatta salva la riscossione di un elemento mobile determinato conformemente all'articolo 5 del Regolamento (CEE) n. 1059/69, che determina il regime di scambi applicabile a talune merci risultanti dalla trasformazione dei prodotti agricoli, la Comunita' adotta tutte le misure necessarie affinche' sia ridotto progressivamente conformemente al ritmo previsto dall'articolo 9 del presente Allegato, l'elemento fisso riscosso al momento dell'importazione nella Comunita' delle seguenti merci originarie della Turchia:
 
@@ -1120,21 +1118,19 @@ TABELLA
 
 Parte di provvedimento in formato grafico
 
-#### Articolo 15
+##### Articolo 15
 
 Per prodotti di cui al presente Allegato, la Comunita' si riserva di modificare il regime in esso previsto, in caso di modifica della regolamentazione comunitaria relativa agli stessi prodotti.
 
 Al momento della modifica di tale regime la Comunita' concede, per le importazioni originarie dalla Turchia, un vantaggio comparabile a quello previsto dal presente Allegato.
 
-#### Articolo 16
+##### Articolo 16
 
 Il Consiglio di Associazione stabilisce la definizione della nozione di "prodotti originari" per l'applicazione del presente capitolo.
 
-## CAPITOLO II
+### CAPITOLO II - REGIME ALL'IMPORTAZIONE IN TURCHIA
 
-### REGIME ALL'IMPORTAZIONE IN TURCHIA
-
-#### Articolo 17
+##### Articolo 17
 
 La Turchia concede alla Comunita', nell'ambito delle importazioni effettuate a titolo commerciale, un regime preferenziale che possa assicurare un aumento soddisfacente delle importazioni di prodotti agricoli originari della Comunita'.
 
@@ -1218,11 +1214,11 @@ I quali, dopo aver scambiato i loro pieni poteri, riconosciuti in buona e debita
 
 Hanno convenuto le disposizioni che seguono:
 
-#### Articolo 1
+##### Articolo 1
 
 Nel quadro dell'Associazione fra la Comunita' Economica Europea e la Turchia, la Comunita' partecipa, alle condizioni indicate nel presente Protocollo, alle misure atte a promuovere lo sviluppo della Turchia mediante uno sforzo complementare rispetto a quello compiuto da tale paese.
 
-#### Articolo 2
+##### Articolo 2
 
 1\. Lo Stato turco, gli enti e le imprese pubbliche o private che abbiano la sede o uno stabilimento in Turchia possono presentare domande di finanziamento alla Banca Europea per gli Investimenti, che li informa del seguito riservato alle loro domande.
 
@@ -1242,7 +1238,7 @@ b) in linea di massima, possono essere finanziati progetti di investimento da re
 
 4\. Sara' riservata particolare considerazione ai progetti atti a contribuire al miglioramento della situazione della bilancia dei pagamenti della Turchia.
 
-#### Articolo 3
+##### Articolo 3
 
 1\. Le domande che vengono accolte favorevolmente sono finanziate a mezzo di prestiti della Banca Europea per gli Investimenti che agisce in virtu' di un mandato degli Stati membri della Comunita'.
 
@@ -1252,7 +1248,7 @@ b) in linea di massima, possono essere finanziati progetti di investimento da re
 
 4\. All'ammontare di cui al paragrafo 2 va ad aggiungersi la parte non versata dei crediti impegnati in virtu' del primo Protocollo finanziario ed annullati prima che sia stata effettuata la totalita' o una parte dei versamenti.
 
-#### Articolo 4
+##### Articolo 4
 
 1\. Le domande di finanziamento, sempre che non siano presentate dal Governo turco, possono essere accolte favorevolmente soltanto con l'accordo di questo ultimo.
 
@@ -1260,7 +1256,7 @@ b) in linea di massima, possono essere finanziati progetti di investimento da re
 
 3\. Le imprese i cui capitali a rischio provengono in tutto o in parte da paesi della Comunita' hanno accesso, a parita' di condizioni con le imprese a capitali di origine nazionale, ai finanziamenti previsti dal presente Protocollo.
 
-#### Articolo 5
+##### Articolo 5
 
 1\. I prestiti sono concessi sulla base delle caratteristiche economiche dei progetti al cui finanziamento essi sono destinati.
 
@@ -1280,7 +1276,7 @@ La scelta dei progetti da finanziare tramite tali organismi nonche' le condizion
 
 5\. Le somme rimborsate dalle imprese beneficiarie, che non devono essere utilizzate immediatamente dagli organismi intermediari per l'ammontare dei prestiti della Banca, sono centralizzate in un conto speciale; il loro impiego e' subordinato all'accordo della Banca.
 
-#### Articolo 6
+##### Articolo 6
 
 1\. Per la concessione dei prestiti, possono partecipare alle aste, alle licitazioni, ai contratti, a parita' di condizioni, tutte le persone fisiche e giuridiche della Turchia e degli Stati membri della Comunita'.
 
@@ -1288,15 +1284,15 @@ La scelta dei progetti da finanziare tramite tali organismi nonche' le condizion
 
 3\. La Banca vigila a che i fondi siano utilizzati nella maniera piu' razionale ed in conformita' delle finalita' dell'Accordo di Associazione.
 
-#### Articolo 7
+##### Articolo 7
 
 Per tutta la durata dei prestiti, la Turchia si impegna a mettere a disposizione dei debitori, beneficiari di tali prestiti, le divise necessarie al servizio degli interessi, delle commissioni e al rimborso dei capitali.
 
-#### Articolo 8
+##### Articolo 8
 
 Il concorso che ai sensi del presente Protocollo viene dato alla realizzazione di taluni progetti puo' assumere la forma di una partecipazione a finanziamenti in cui intervengano in particolare Stati terzi, organismi finanziari internazionali oppure autorita' ed istituti di credito e di sviluppo della Turchia o degli Stati membri della Comunita'.
 
-#### Articolo 9
+##### Articolo 9
 
 1\. Durante l'applicazione del presente Protocollo, la Comunita' esaminera' la possibilita' di completare l'ammontare dei prestiti di cui all'articolo 3 con prestiti accordati dalla Banca Europea per gli Investimenti con proprie risorse e alle condizioni del mercato, ed il cui ammontare complessivo potra' raggiungere 25 milioni di unita' di conto.
 
@@ -1304,15 +1300,15 @@ Il concorso che ai sensi del presente Protocollo viene dato alla realizzazione d
 
 3\. A tali prestiti saranno applicabili le disposizioni dello statuto della Banca Europea per gli Investimenti nonche' gli articoli 4, 7 e 8 del presente Protocollo.
 
-#### Articolo 10
+##### Articolo 10
 
 Un anno prima della scadenza del presente Protocollo, le Parti Contraenti esamineranno le disposizioni che potrebbero essere previste nel settore dell'assistenza finanziaria per un nuovo periodo.
 
-#### Articolo 11
+##### Articolo 11
 
 Il presente Protocollo e' allegato all'Accordo che crea un'Associazione tra la Comunita' Economica Europea e la Turchia.
 
-#### Articolo 12
+##### Articolo 12
 
 1\. Il presente. Protocollo sara' ratificato dagli Stati firmatari conformemente alle loro rispettive norme costituzionali e sara' validamente concluso, per quanto concerne la Comunita', con una decisione del Consiglio presa conformemente alle disposizioni del Trattato che istituisce la Comunita' e notificata alle Parti Contraenti dell'Accordo che crea un'Associazione tra la Comunita' Economica Europea e la Turchia.
 
@@ -1320,7 +1316,7 @@ Gli strumenti di ratifica e l'atto di notifica della conclusione sopra previsti 
 
 2\. Il presente Protocollo entrera' in vigore il primo giorno del mese successivo alla data dello scambio degli strumenti di ratifica e dell'atto di notifica della conclusione di cui al paragrafo 1.
 
-#### Articolo 13
+##### Articolo 13
 
 Il presente Protocollo e' redatto in duplice esemplare in lingua tedesca, francese, italiana, olandese e turca, ciascuno di detti testi facenti egualmente fede.
 
@@ -1444,33 +1440,33 @@ I quali, dopo aver scambiato i loro pieni poteri, riconosciuti in buona e debita
 
 Hanno convenuto le disposizioni che seguono:
 
-#### Articolo 1
+##### Articolo 1
 
 Per i prodotti di competenza della Comunita' Europea del Carbone e dell'Acciaio provenienti dagli Stati membri e dalla Turchia, i dazi doganali e le tasse di effetto equivalente nonche' le restrizioni quantitative e le misure di effetto equivalente vigenti tra gli Stati membri e la Turchia, fatte salve le misure che potrebbero essere adottate in applicazione del capitolo X del Trattato che istituisce la Comunita' Europea del Carbone e dell'Acciaio, sono progressivamente soppressi alle condizioni indicate nell'articolo 2 del presente Accordo.
 
-#### Articolo 2
+##### Articolo 2
 
 1\. L'eliminazione degli ostacoli agli scambi sara' effettuata dagli Stati membri e dalla Turchia secondo un ritmo fissato di comune accordo dalle Parti Contraenti.
 
 2\. Le Parti Contraenti fissano inoltre le condizioni alle quali i prodotti di cui al presente Accordo beneficiano del regime preferenziale.
 
-#### Articolo 3
+##### Articolo 3
 
 Nei settori contemplati dal presente Accordo la Turchia non puo' fruire di un trattamento piu' favorevole di quello che gli Stati membri si accordano reciprocamente a norma del Trattato che istituisce la Comunita' Europea del Carbone e dell'Acciaio.
 
-#### Articolo 4
+##### Articolo 4
 
 Tra le Parti interessate si terranno consultazioni tutte le volte che, secondo il parere di una di dette Parti, l'applicazione delle disposizioni summenzionate lo richieda.
 
-#### Articolo 5
+##### Articolo 5
 
 Il presente Accordo non modifica le disposizioni del Trattato che istituisce la Comunita' Europea del Carbone e dell'Acciaio ne' i poteri e le competenze derivanti dalle disposizioni di tale Trattato.
 
-#### Articolo 6
+##### Articolo 6
 
 L'Allegato relativo al commercio interno tedesco e ai problemi connessi costituisce parte integrante del presente Accordo.
 
-#### Articolo 7
+##### Articolo 7
 
 1\. Il presente Accordo sara' ratificato dagli Stati firmatari conformemente alle loro norme costituzionali rispettive.
 
@@ -1478,7 +1474,7 @@ Gli strumenti di ratifica saranno scambiati a Bruxelles.
 
 2\. Il presente Accordo entrera' in vigore il primo giorno del mese successivo alla data dello scambio degli strumenti di ratifica.
 
-#### Articolo 8
+##### Articolo 8
 
 Il presente Accordo e' redatto in duplice esemplare in lingua tedesca, francese, italiana, olandese e turca, ciascuno di tali testi facente ugualmente fede.
 
@@ -1516,7 +1512,7 @@ Turkiye Cumhurbaskani adina,
 
 thsan Sabri CAGLAYANGIL
 
-#### Allegato
+##### Allegato
 
 ALLEGATO relativo al commercio interno tedesco e ai problemi connessi
 
@@ -1532,7 +1528,7 @@ Hanno convenuto quanto segue:
 
 3\. Ciascuna Parte Contraente puo' adottare misure idonee a prevenire le difficolta' eventualmente derivanti nei suoi confronti dal commercio fra l'altra Parte Contraente e i territori tedeschi ove la legge fondamentale della Repubblica Federale di Germania non e' applicabile.
 
-#### Atto finale
+##### Atto finale
 
 ATTO FINALE
 
@@ -1642,7 +1638,7 @@ Turkiyve Cumhurbaskani adina,
 
 thsan Sabri CAGLAYANGIL
 
-#### Dichiarazioni
+##### Dichiarazioni
 
 ALLEGATO
 
@@ -1712,7 +1708,7 @@ Devono esser considerati cittadini della Repubblica Federale di Germania tutti i
 
 L'Accordo relativo ai prodotti di competenza della Comunita' Europea del Carbone e dell'Acciaio si applica ugualmente al Land di Berlino, salvo che il Governo della Repubblica Federale di Germania non faccia alle Parti Contraenti, entro tre mesi, una dichiarazione contraria.
 
-## CAPITOLO I - PRESTITI CONCESSI A CONDIZIONI SPECIALI
+### CAPITOLO I - PRESTITI CONCESSI A CONDIZIONI SPECIALI
 
 Accordo interno relativo al Protocollo finanziario
 
@@ -1724,15 +1720,15 @@ Considerando che e' necessario definire le condizioni interne per l'applicazione
 
 Hanno convenuto le seguenti disposizioni:
 
-#### Articolo 1
+##### Articolo 1
 
 I prestiti previsti dall'articolo 3 del Protocollo finanziario sono concessi dalla Banca Europea per gli Investimenti che agisce in virtu' di un mandato degli Stati membri.
 
-#### Articolo 2
+##### Articolo 2
 
 Le operazioni rientranti nel mandato sono effettuate dalla Banca per conto e a rischio degli Stati membri, qualunque sia la provenienza delle risorse utilizzate. Il rischio su ciascun prestito e' ripartito tra gli Stati membri proporzionalmente alla rispettiva quota, fissata dall'articolo 4.
 
-#### Articolo 3
+##### Articolo 3
 
 Il finanziamento dei prestiti previsti dal presente Accordo e' assicurato:
 
@@ -1746,7 +1742,7 @@ b) mediante risorse che la Banca puo' raccogliere con:
 
 2\. l'accensione di mutui diretti presso investitori pubblici o parastatali.
 
-#### Articolo 4
+##### Articolo 4
 
 L'importo di 195 milioni di unita' di conto previsto dall'articolo 3 del Protocollo finanziario e' ripartito fra gli Stati membri nel modo seguente:
 
@@ -1768,7 +1764,7 @@ mania
 
 Ogni Stato membro si impegna a mettere a disposizione della Banca, alle condizioni previste dall'articolo 5, le risorse necessarie per la concessione di prestiti fino a concorrenza della propria quota.
 
-#### Articolo 5
+##### Articolo 5
 
 Nella misura in cui uno Stato membro fornisce alla Banca la propria quota in unita' di conto delle somme necessarie al finanziamento dei prestiti concessi sino al rimborso di questi ultimi, tale Stato membro non e' tenuto a fornire contributi supplementari ne' ad assumere altri oneri o rischi.
 
@@ -1784,13 +1780,13 @@ d) conguaglio delle differenze tra il costo dei capitali impiegati dalla Banca e
 
 Per l'importo e le condizioni delle operazioni di cui all'articolo 3, lettera b), e' necessario l'accordo preliminare dello Stato membro sulla cui quota saranno imputate queste operazioni.
 
-#### Articolo 6
+##### Articolo 6
 
 Man mano che i prestiti vengono concessi, la Banca rende noto agli Stati membri il ritmo prevedibile dei versamenti da effettuare a beneficio dei mutuatari.
 
 Queste previsioni sono oggetto di una ricapitolazione semestrale il 30 giugno e il 31 dicembre di ogni anno.
 
-#### Articolo 7
+##### Articolo 7
 
 Gli importi forniti da ogni Stato membro o raccolti per suo conto sono imputati alla quota di detto Stato in base alle parita' rispetto all'unita' di conto in vigore alla data del ritiro dei fondi in vista del versamento ai mutuatari.
 
@@ -1798,7 +1794,7 @@ I movimenti di fondi fra la Banca e gli Stati membri vengono effettuati a scelta
 
 I ritiri di fondi da parte della Banca hanno luogo man mano che detti fondi vengano effettivamente utilizzati.
 
-#### Articolo 8
+##### Articolo 8
 
 Gli importi delle linee di credito corrispondenti ad ogni singolo prestito accordato dalla Banca sono espressi in unita' di conto ed imputati nel giorno della firma di ogni contratto di prestito, sull'ammontare globale dell'aiuto finanziario, quale e' fissato nell'articolo 3 del Protocollo finanziario.
 
@@ -1810,13 +1806,13 @@ I prestiti sono rimborsabili nelle monete versate fino a concorrenza degli impor
 
 Gli importi incassati dalla Banca in capitale ed interessi su ciascun prestito sono ripartiti fra gli Stati membri proporzionalmente al capitale di tale prestito imputato alla loro quota. Tali importi vengono restituiti secondo modalita' da convenire tra la Banca e ciascun Stato membro.
 
-#### Articolo 9
+##### Articolo 9
 
 Laddove non siano fissati nel Protocollo finanziario, i principi generali concernenti la scelta dei progetti e le condizioni dei prestiti vengono stabiliti nel mandato conferito alla Banca Europea per gli Investimenti.
 
 Il Consiglio dei Governatori della Banca stabilisce le direttive relative alla politica che la Banca dovra' seguire tenendo particolarmente conto degli obiettivi fissati dall'Accordo di Associazione.
 
-#### Articolo 10
+##### Articolo 10
 
 I prestiti vengono accordati dalla Banca secondo la stessa procedura prevista dal suo Statuto per le sue operazioni normali, fatte salve le disposizioni seguenti:
 
@@ -1842,21 +1838,21 @@ Il Comitato si pronuncia a maggioranza qualificata di 67 voti, in base alla segu
 
 \- Paesi Bassi [ 7]
 
-## CAPITOLO II - PRESTITI ORDINARI
+### CAPITOLO II - PRESTITI ORDINARI
 
-#### Articolo 11
+##### Articolo 11
 
 In proporzione della quota sottoscritta del capitale della Banca, gli Stati membri si impegnano a rendersi garanti verso la Banca, rinunciando al beneficio della escussione, di tutti gli impegni finanziari e pecuniari derivanti per i suoi mutuatari dai suoi interventi sotto forma di prestiti su fondi propri concessi in applicazione dell'articolo 9 del Protocollo finanziario, nei limiti di un importo equivalente a 25 milioni di unita' di conto.
 
 Gli impegni derivanti dalle disposizioni del paragrafo precedente formeranno oggetto di contratti di garanzia tra ciascuno Stato membro e la Banca.
 
-## CAPITOLO III - DISPOSIZIONI FINALI
+### CAPITOLO III - DISPOSIZIONI FINALI
 
-#### Articolo 12
+##### Articolo 12
 
 Il presente Accordo sara' approvato da ciascuno Stato membro conformemente alle proprie norme costituzionali. Il Governo di ciascuno Stato membro notifichera' al Segretariato del Consiglio delle Comunita' Europee l'adempimento delle procedure richieste per l'entrata in vigore del presente Accordo. Quest'ultimo entrera' in vigore alla data della notifica effettuata dal Governo che procedera' per ultimo a detta notifica.
 
-#### Articolo 13
+##### Articolo 13
 
 Il presente Accordo, redatto in unico esemplare in lingua tedesca, francese, italiana, olandese, i quattro testi facenti tutti ugualmente fede, sara' depositato negli archivi del Segretariato del Consiglio delle Comunita' Europee che provvedera' a rimetterne copia certificata conforme a ciascuno dei Governi firmatari.
 

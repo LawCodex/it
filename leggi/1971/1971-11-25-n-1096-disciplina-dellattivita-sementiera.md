@@ -28,57 +28,55 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I - ATTIVITA' SEMENTIERA
+## CAPO I - ATTIVITA' SEMENTIERA RILASCIO DELLA LICENZA DI ESERCIZIO
 
-### RILASCIO DELLA LICENZA DI ESERCIZIO
-
-#### Art. 1
+### Art. 1
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 2
+### Art. 2
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 3
+### Art. 3
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
 ## CAPO II - OBBLIGHI INERENTI ALL'ESERCIZIO DELL'ATTIVITA' SEMENTIERA
 
-#### Art. 4
+### Art. 4
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
 ## CAPO III - CLASSIFICAZIONE DEI PRODOTTI SEMENTIERI
 
-#### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 8
+### Art. 8
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 9
+### Art. 9
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 10
+### Art. 10
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
 ## CAPO IV - CONDIZIONI PER L'IMMISSIONE IN COMMERCIO
 
-#### Art. 11
+### Art. 11
 
 1\. ((COMMA ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20)).
 
@@ -118,39 +116,39 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 29 ottobre 2009, n. 149 ha disposto (con l'art. 10, comma 1) che "In deroga all'articolo 11 della legge 25 novembre 1971, n. 1096, e' stabilito che le sementi di varieta' da conservazione possono essere oggetto di commercializzazione se soddisfano le condizioni di cui ai commi 2, 3, 4, 5 e 6 del presente articolo".
 
-#### Art. 12
+### Art. 12
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 13
+### Art. 13
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 14
+### Art. 14
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 15
+### Art. 15
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
 ## CAPO V - IMPORTAZIONE DEI PRODOTTI SEMENTIERI
 
-#### Art. 16
+### Art. 16
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 17
+### Art. 17
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 18
+### Art. 18
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
 ## CAPO VI - REGISTRI DI VARIETA'
 
-#### Art. 19
+### Art. 19
 
 ((COMMA ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20)).
 
@@ -198,15 +196,15 @@ AGGIORNAMENTO (11)
 
 Il D.Lgs. 24 aprile 2001, n. 212 ha disposto (con l'art. 18, comma 1) che "La commercializzazione delle sementi appartenenti ad una categoria ammessa in base alle disposizioni vigenti prima della data di entrata in vigore del presente decreto legislativo e' consentita fino al 30 giugno 2003".
 
-#### Art. 19-bis
+### Art. 19-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 20
+### Art. 20
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 20-bis
+### Art. 20-bis
 
 ((1. Il Ministero delle politiche agricole e forestali, anche su proposta dei Ministeri della sanita' o dell'ambiente, per gli aspetti di rispettiva competenza, chiede alla Commissione europea l'autorizzazione a vietare, in tutto o in parte, nel territorio nazionale, la commercializzazione delle sementi o dei materiali di moltiplicazione di tale varieta' se e' accertato che la coltivazione di una varieta' iscritta nel catalogo comune delle varieta':
 
@@ -224,91 +222,87 @@ AGGIORNAMENTO (11)
 
 Il D.Lgs. 24 aprile 2001, n. 212 ha disposto (con l'art. 18, comma 1) che "La commercializzazione delle sementi appartenenti ad una categoria ammessa in base alle disposizioni vigenti prima della data di entrata in vigore del presente decreto legislativo e' consentita fino al 30 giugno 2003".
 
-#### Art. 20-ter
+### Art. 20-ter
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
 ## CAPO VII - CONTROLLI E CERTIFICAZIONI
 
-#### Art. 21
+### Art. 21
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 22
+### Art. 22
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 23
+### Art. 23
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-## CAPO VIII - NORME PARTICOLARI RIGUARDANTI PRODOTTI
+## CAPO VIII - NORME PARTICOLARI RIGUARDANTI PRODOTTI SEMENTIERI DI TALUNI GENERI E SPECIE
 
-### SEMENTIERI DI TALUNI GENERI E SPECIE
-
-#### Art. 24
+### Art. 24
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 25
+### Art. 25
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-## CAPO IX - ISTITUTO CONSERVATORE DEI REGISTRI DI VARIETA' DEI PRODOTTI
+## CAPO IX - ISTITUTO CONSERVATORE DEI REGISTRI DI VARIETA' DEI PRODOTTI SEMENTIERI
 
-### SEMENTIERI
-
-#### Art. 26
+### Art. 26
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 27
+### Art. 27
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 28
+### Art. 28
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
 ## CAPO X - ISTITUTI E LABORATORI PER LE ANALISI DI PRODOTTI SEMENTIERI
 
-#### Art. 29
+### Art. 29
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
 ## CAPO XI - VIGILANZA E SANZIONI
 
-#### Art. 30
+### Art. 30
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 31
+### Art. 31
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 32
+### Art. 32
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 33
+### Art. 33
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 34
+### Art. 34
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 35
+### Art. 35
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
 ## CAPO XII - DISPOSIZIONI FINALI E TRANSITORIE
 
-#### Art. 36
+### Art. 36
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 37
+### Art. 37
 
 1\. In deroga alle disposizioni di cui all'articolo 12, primo comma, il Ministro delle politiche agricole e forestali stabilisce, con proprio decreto, le modalita' per consentire che i produttori aventi sede in Italia vengano autorizzati a commercializzare piccoli quantitativi di sementi a scopi scientifici o per lavori di miglioramento genetico.
 
@@ -326,31 +320,31 @@ AGGIORNAMENTO (11)
 
 Il D.Lgs. 24 aprile 2001, n. 212 ha disposto (con l'art. 18, comma 1) che "La commercializzazione delle sementi appartenenti ad una categoria ammessa in base alle disposizioni vigenti prima della data di entrata in vigore del presente decreto legislativo e' consentita fino al 30 giugno 2003".
 
-#### Art. 38
+### Art. 38
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 39
+### Art. 39
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 40
+### Art. 40
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 41
+### Art. 41
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 42
+### Art. 42
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 43
+### Art. 43
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Art. 44
+### Art. 44
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
@@ -368,25 +362,25 @@ GAVA - ZAGARI
 
 Visto, il Guardasigilli: COLOMBO
 
-#### Art. 44-bis
+### Art. 44-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
 ## CAPO XII - DISPOSIZIONI FINALI E TRANSITORIE
 
-#### Allegato n. 1
+### Allegato n. 1
 
 Allegato n. 1
 
 ((ALLEGATO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Allegato n. 2
+### Allegato n. 2
 
 Allegato n. 2
 
 ((ALLEGATO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20))
 
-#### Allegato n. 3
+### Allegato n. 3
 
 Allegato n. 3
 

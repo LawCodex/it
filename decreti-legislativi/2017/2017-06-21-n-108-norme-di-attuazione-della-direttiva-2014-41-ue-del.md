@@ -46,11 +46,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I
+## Titolo I - DISPOSIZIONI DI PRINCIPIO E DEFINIZIONI
 
-### DISPOSIZIONI DI PRINCIPIO E DEFINIZIONI
-
-##### Art. 1
+#### Art. 1
 
 Disposizioni di principio
 
@@ -256,7 +254,7 @@ Disposizioni di principio
 
 > \- La direttiva 2014/41 e' citata nelle note alle premesse.
 
-##### Art. 2
+#### Art. 2
 
 Definizioni
 
@@ -274,19 +272,17 @@ e) Stato di esecuzione: lo Stato di appartenenza dell'autorita' di esecuzione;
 
 f) Autorita' centrale: il Ministero della giustizia.
 
-##### Art. 3
+#### Art. 3
 
 Protezione dei dati personali
 
 1\. Nel compimento delle attivita' relative all'emissione, alla trasmissione, al riconoscimento ed all'esecuzione dell'ordine di indagine, i dati personali sono trattati secondo le disposizioni legislative che regolano il trattamento dei dati giudiziari e in conformita' agli atti normativi dell'Unione europea e alle Convenzioni del Consiglio d'Europa.
 
-## Titolo II
+## Titolo II - RICHIESTA DALL'ESTERO
 
-### RICHIESTA DALL'ESTERO - Capo I
+### Capo I - Procedimento
 
-#### Procedimento
-
-##### Art. 4
+#### Art. 4
 
 Attribuzioni del pubblico ministero
 
@@ -306,7 +302,7 @@ Attribuzioni del pubblico ministero
 
 8\. I verbali degli atti compiuti, ai quali il difensore della persona sottoposta alle indagini ha diritto di assistere, sono depositati nella segreteria del pubblico ministero, secondo quanto previsto dall'articolo 366, comma 1, del codice di procedura penale.
 
-##### Art. 5
+#### Art. 5
 
 Intervento e poteri di controllo del giudice
 
@@ -346,7 +342,7 @@ Intervento e poteri di controllo del giudice
 
 > 10\. Il verbale di udienza e' redatto soltanto in forma riassuntiva a norma dell'art. 140, comma 2.».
 
-##### Art. 6
+#### Art. 6
 
 Comunicazioni all'autorita' di emissione
 
@@ -358,13 +354,13 @@ Comunicazioni all'autorita' di emissione
 
 4\. La decisione di rifiuto del riconoscimento o il ritardo dell'esecuzione e' immediatamente comunicata all'autorita' di emissione. Allo stesso modo e' data comunicazione dell'impugnazione e del provvedimento di annullamento del decreto di riconoscimento nei casi di cui all'articolo 13.
 
-##### Art. 7
+#### Art. 7
 
 Principio di proporzione
 
 1\. L'ordine di indagine non e' proporzionato se dalla sua esecuzione puo' derivare un sacrificio ai diritti e alle liberta' dell'imputato o della persona sottoposta alle indagini o di altre persone coinvolte dal compimento degli atti richiesti, non giustificato dalle esigenze investigative o probatorie del caso concreto, tenuto conto della gravita' dei reati per i quali si procede e della pena per essi prevista.
 
-##### Art. 8
+#### Art. 8
 
 Partecipazione all'esecuzione dell'autorita' di emissione
 
@@ -382,7 +378,7 @@ Partecipazione all'esecuzione dell'autorita' di emissione
 
 > \- Il decreto legislativo 15 febbraio 2016, n. 34 recante norme di attuazione della decisione quadro 2002/465/GAI del Consiglio, del 13 giugno 2002, relativa alle squadre investigative comuni e' pubblicato nella Gazzetta Ufficiale 10 marzo 2016, n. 58.
 
-##### Art. 9
+#### Art. 9
 
 Modalita' particolari di esecuzione
 
@@ -406,7 +402,7 @@ d) compimento di atti di indagine che non incidono sulla liberta' personale e su
 
 e) identificazione di persone titolari di uno specifico numero telefonico o di un indirizzo di posta elettronica o di un indirizzo IP.
 
-##### Art. 10
+#### Art. 10
 
 Motivi di rifiuto e di restituzione
 
@@ -432,7 +428,7 @@ f) il fatto per il quale e' stato emesso l'ordine di indagine non e' punito dall
 
 > \- Il Trattato dell'Unione europea e' pubblicato nella G.U.U.E. 9 maggio 2008, n. C 115
 
-##### Art. 11
+#### Art. 11
 
 Deroghe alla doppia incriminazione
 
@@ -506,7 +502,7 @@ mm) sabotaggio.
 
 > \- La Convenzione del 26 luglio 1995, relativa alla tutela degli interessi finanziari delle Comunita' europee, e' pubblicata nella G.U.U.E. 27 novembre 1995, n. C 316/48.
 
-##### Art. 12
+#### Art. 12
 
 Trasferimento delle prove
 
@@ -518,7 +514,7 @@ Trasferimento delle prove
 
 4\. Il procuratore della Repubblica puo' disporre il trasferimento temporaneo del corpo del reato o delle cose pertinenti al reato, quando non e' d'impedimento alla spedita trattazione del procedimento in corso, concordando con l'autorita' di emissione le modalita' del trasferimento e il termine di restituzione. A tal fine, dopo l'esercizio dell'azione penale, il procuratore della Repubblica richiede l'autorizzazione del giudice che procede. Il giudice provvede dopo aver sentito le parti.
 
-##### Art. 13
+#### Art. 13
 
 Impugnazioni
 
@@ -540,7 +536,7 @@ Impugnazioni
 
 > \- Per il testo dell'art. 127 del codice di procedura penale si veda nelle note all'art. 5.
 
-##### Art. 14
+#### Art. 14
 
 Rinvio del riconoscimento o dell'esecuzione
 
@@ -552,7 +548,7 @@ Rinvio del riconoscimento o dell'esecuzione
 
 4\. L'ordine di indagine e' tempestivamente eseguito non appena viene meno la causa che ha dato luogo al rinvio.
 
-##### Art. 15
+#### Art. 15
 
 Spese
 
@@ -560,11 +556,9 @@ Spese
 
 2\. Nel caso di spese di rilevante entita', il procuratore della Repubblica informa l'autorita' di emissione e l'autorita' centrale, al fine di valutare la condivisione con lo Stato di emissione dell'onere conseguente.
 
-## Capo II
+### Capo II - Disposizioni specifiche per determinati atti di indagine
 
-### Disposizioni specifiche per determinati atti di indagine
-
-##### Art. 16
+#### Art. 16
 
 Trasferimento temporaneo nello Stato di emissione
 
@@ -590,7 +584,7 @@ di persone detenute
 
 > Prima dell'esercizio dell'azione penale provvede il giudice per le indagini preliminari.».
 
-##### Art. 17
+#### Art. 17
 
 Trasferimento temporaneo in Italia di persone detenute nello Stato di emissione
 
@@ -600,7 +594,7 @@ Trasferimento temporaneo in Italia di persone detenute nello Stato di emissione
 
 3\. La persona detenuta, temporaneamente trasferita, non puo' essere sottoposta a restrizione della liberta' personale in esecuzione di una pena o misura di sicurezza ne' assoggettata ad altra misura restrittiva della liberta' personale per un fatto anteriore e diverso da quello per il quale il trasferimento temporaneo e' stato disposto, salvo che la persona, avendone avuta la possibilita', non abbia lasciato il territorio dello Stato trascorsi quindici giorni da quando la sua presenza non era piu' richiesta ovvero che, dopo averlo lasciato, vi abbia fatto volontariamente ritorno.
 
-##### Art. 18
+#### Art. 18
 
 Audizione mediante videoconferenza
 
@@ -726,7 +720,7 @@ d) invitare la persona sottoposta alle indagini o l'imputato a comparire con le 
 
 > 6\. Alla redazione del verbale e delle annotazioni provvede l'ufficiale di polizia giudiziaria o l'ausiliario che assiste il pubblico ministero. Si applica la disposizione dell'art. 142.».
 
-##### Art. 19
+#### Art. 19
 
 Audizione mediante teleconferenza
 
@@ -736,7 +730,7 @@ Audizione mediante teleconferenza
 
 3\. Si applicano le disposizioni dell'articolo 18 in quanto compatibili.
 
-##### Art. 20
+#### Art. 20
 
 Informazioni e documenti presso banche
 
@@ -768,7 +762,7 @@ e istituti finanziari
 
 > 5\. Si applica la disposizione dell'art. 204.».
 
-##### Art. 21
+#### Art. 21
 
 Operazioni sotto copertura
 
@@ -796,7 +790,7 @@ Operazioni sotto copertura
 
 > 5\. I vice commissari penitenziari in prova che non superano l'esame finale possono partecipare al corso successivo; se l'esito di quest'ultimo e' negativo, sono dimessi.».
 
-##### Art. 22
+#### Art. 22
 
 Ritardo o omissione degli atti di arresto o di sequestro
 
@@ -808,11 +802,9 @@ Ritardo o omissione degli atti di arresto o di sequestro
 
 > \- Per il testo dell'art. 9 della legge 16 marzo 2006, n. 146 si veda nelle note all'art. 21.
 
-## Capo III
+### Capo III - Intercettazione di telecomunicazioni
 
-### Intercettazione di telecomunicazioni
-
-##### Art. 23
+#### Art. 23
 
 Intercettazione di telecomunicazioni con l'assistenza tecnica della autorita' giudiziaria italiana
 
@@ -866,7 +858,7 @@ b) con l'intercettazione, la registrazione e la successiva trasmissione dei risu
 
 > 8\. In nessun caso il segreto di Stato e' opponibile alla Corte costituzionale. La Corte adotta le necessarie garanzie per la segretezza del procedimento.».
 
-##### Art. 24
+#### Art. 24
 
 Notifica all'autorita' giudiziaria italiana nel caso di persona soggetta a intercettazione nel territorio dello Stato
 
@@ -876,7 +868,7 @@ Notifica all'autorita' giudiziaria italiana nel caso di persona soggetta a inter
 
 3\. Il procuratore della Repubblica senza ritardo, e comunque non oltre novantasei ore dalla ricezione della notifica, da' comunicazione all'autorita' giudiziaria dello Stato membro del provvedimento di cessazione delle operazioni e della non utilizzabilita' a fini di prova dei risultati delle intercettazioni eseguite.
 
-##### Art. 25
+#### Art. 25
 
 Richieste di documentazione inerente
 
@@ -888,11 +880,9 @@ alle telecomunicazioni
 
 > \- Per il testo dell'art. 256 del codice di procedura penale si veda nelle note all'art. 20.
 
-## Capo IV
+### Capo IV - Provvedimenti di sequestro
 
-### Provvedimenti di sequestro
-
-##### Art. 26
+#### Art. 26
 
 Provvedimenti di sequestro probatorio
 
@@ -904,13 +894,11 @@ Provvedimenti di sequestro probatorio
 
 4\. Quando il procuratore della Repubblica ritiene di revocare il provvedimento di sequestro ne informa l'autorita' di emissione che puo' formulare osservazioni.
 
-## Titolo III
+## Titolo III - PROCEDURA ATTIVA
 
-### PROCEDURA ATTIVA - Capo I
+### Capo I - Emissione dell'ordine di indagine
 
-#### Emissione dell'ordine di indagine
-
-##### Art. 27
+#### Art. 27
 
 Emissione dell'ordine di indagine
 
@@ -922,7 +910,7 @@ Emissione dell'ordine di indagine
 
 > \- Per il testo dell'art. 51 del codice di procedura penale si veda nelle note all'art. 4.
 
-##### Art. 28
+#### Art. 28
 
 Impugnazione dell'ordine di indagine avente
 
@@ -972,7 +960,7 @@ ad oggetto il sequestro a fini di prova
 
 > 4\. Il ricorso non sospende l'esecuzione della ordinanza.».
 
-##### Art. 29
+#### Art. 29
 
 Partecipazione all'esecuzione dell'ordine di indagine
 
@@ -986,7 +974,7 @@ Partecipazione all'esecuzione dell'ordine di indagine
 
 > \- Il decreto legislativo 15 febbraio 2016, n. 34 Norme di attuazione della decisione quadro 2002/465/GAI del Consiglio, del 13 giugno 2002, relativa alle squadre investigative comuni e' pubblicato nella Gazzetta Ufficiale 10 marzo 2016, n. 58.
 
-##### Art. 30
+#### Art. 30
 
 Contenuto dell'ordine di indagine
 
@@ -1002,7 +990,7 @@ d) la descrizione sommaria del fatto per cui si procede e l'indicazione delle no
 
 e) una sintetica descrizione dell'atto d'indagine o di prova richiesti.
 
-##### Art. 31
+#### Art. 31
 
 Ordine di indagine emesso su richiesta della difesa
 
@@ -1018,7 +1006,7 @@ Ordine di indagine emesso su richiesta della difesa
 
 > \- Per il testo dell'art. 368 del codice di procedura penale si veda nelle note all'art. 18.
 
-##### Art. 32
+#### Art. 32
 
 Trasmissione dell'ordine di indagine
 
@@ -1030,7 +1018,7 @@ Trasmissione dell'ordine di indagine
 
 4\. L'ordine di indagine e' trasmesso nella lingua ufficiale dello Stato di esecuzione o nella lingua appositamente indicata dall'autorita' di esecuzione.
 
-##### Art. 33
+#### Art. 33
 
 Indicazioni all'autorita' di esecuzione
 
@@ -1044,7 +1032,7 @@ Indicazioni all'autorita' di esecuzione
 
 > «Art. 7 (Rogatorie all'estero). - 1. Fermo quanto disposto dall'art. 696, del codice di procedura penale, le spese per le rogatorie all'estero sono disciplinate dal presente testo unico.».
 
-##### Art. 34
+#### Art. 34
 
 Ordine di indagine collegato a un ordine precedente
 
@@ -1052,13 +1040,13 @@ Ordine di indagine collegato a un ordine precedente
 
 2\. L'autorita' giudiziaria che partecipa all'esecuzione dell'ordine di indagine puo' presentare direttamente all'autorita' di esecuzione un ordine di indagine collegato.
 
-##### Art. 35
+#### Art. 35
 
 Avvisi alle parti e ai difensori
 
 1\. L'autorita' giudiziaria che ha emesso l'ordine di indagine, ricevuta dall'autorita' di esecuzione la documentazione delle attivita' compiute, provvede nei casi e nei modi previsti dalla legge processuale a darne conoscenza alle parti e ai loro difensori.
 
-##### Art. 36
+#### Art. 36
 
 Disposizioni sulla utilizzabilita' degli atti compiuti
 
@@ -1102,11 +1090,9 @@ b) i verbali degli atti, diversi da quelli previsti dalla lettera a), assunti al
 
 > «Art. 512-bis (Lettura di dichiarazioni rese da persona residente all'estero). - 1. Il giudice, a richiesta di parte, puo' disporre, tenuto conto degli altri elementi di prova acquisiti, che sia data lettura dei verbali di dichiarazioni rese da persona residente all'estero anche a seguito di rogatoria internazionale se essa, essendo stata citata, non e' comparsa e solo nel caso in cui non ne sia assolutamente possibile l'esame dibattimentale.».
 
-## Capo II
+### Capo II - Disposizioni specifiche per determinati atti di indagine
 
-### Disposizioni specifiche per determinati atti di indagine
-
-##### Art. 37
+#### Art. 37
 
 Trasferimento temporaneo nello Stato di persona detenuta in altro Stato membro
 
@@ -1118,7 +1104,7 @@ Trasferimento temporaneo nello Stato di persona detenuta in altro Stato membro
 
 4\. L'immunita' prevista dal comma 3 cessa qualora la persona detenuta temporaneamente trasferita, avendone la possibilita' non ha lasciato il territorio nazionale trascorsi quindici giorni dal momento in cui la sua presenza non e' piu' richiesta ovvero, avendolo lasciato, vi ha fatto volontariamente ritorno.
 
-##### Art. 38
+#### Art. 38
 
 Trasferimento temporaneo in altro Stato membro
 
@@ -1130,7 +1116,7 @@ di persone detenute nello Stato
 
 3\. Le spese di trasferimento temporaneo sono a carico dallo Stato.
 
-##### Art. 39
+#### Art. 39
 
 Richiesta di audizione mediante videoconferenza
 
@@ -1178,7 +1164,7 @@ c) nei casi previsti dall'articolo 147-bis del decreto legislativo 28 luglio 198
 
 > 5\. Le modalita' di cui al comma 2 possono essere altresi' adottate, a richiesta di parte, per l'esame della persona di cui e' stata disposta la nuova assunzione a norma dell'art. 495, comma 1, del codice, o quando vi siano gravi difficolta' ad assicurare la comparazione della persona da sottoporre ad esame.».
 
-##### Art. 40
+#### Art. 40
 
 Informazioni relative a conti e operazioni
 
@@ -1186,7 +1172,7 @@ bancarie e finanziarie
 
 1\. Quando l'ordine di indagine ha ad oggetto accertamenti o acquisizione di documenti presso banche o istituti finanziari, la richiesta e' trasmessa mediante il modello di cui all'allegato A, sezione H 4. Sono a tal fine indicati i motivi della rilevanza dell'accertamento, nonche' le informazioni utili all'individuazione delle banche o degli istituti interessati.
 
-##### Art. 41
+#### Art. 41
 
 Richiesta di operazioni sotto copertura
 
@@ -1200,7 +1186,7 @@ da compiersi all'estero
 
 > \- Per il testo dell'art. 9 della legge 16 marzo 2006, n. 146 si veda nelle note all'art. 21.
 
-##### Art. 42
+#### Art. 42
 
 Richiesta di ritardare od omettere atti di arresto
 
@@ -1212,7 +1198,7 @@ o di sequestro
 
 > \- Per il testo dell'art. 9 della legge 16 marzo 2006, n. 146 si veda nelle note all'art. 21.
 
-##### Art. 43
+#### Art. 43
 
 Richiesta di intercettazione di telecomunicazioni con l'assistenza tecnica dell'autorita' giudiziaria di altro Stato membro
 
@@ -1240,7 +1226,7 @@ b) intercettando, registrando e trasmettendo successivamente il risultato dell'i
 
 In tal caso le spese sono anticipate dallo Stato.
 
-##### Art. 44
+#### Art. 44
 
 Obblighi di informazione in favore dell'autorita' giudiziaria di altro Stato membro
 
@@ -1250,7 +1236,7 @@ Obblighi di informazione in favore dell'autorita' giudiziaria di altro Stato mem
 
 3\. Il pubblico ministero dispone l'immediata cessazione delle operazioni di intercettazione quando l'autorita' giudiziaria dello Stato membro, ricevuta l'informazione di cui ai commi 1 e 2, comunica che non possono essere eseguite o proseguite. I risultati dell'intercettazione possono comunque essere utilizzati alle condizioni stabilite dall'autorita' giudiziaria dello Stato membro.
 
-##### Art. 45
+#### Art. 45
 
 Richiesta di documentazione inerente
 
@@ -1260,7 +1246,7 @@ alle telecomunicazioni
 
 2\. L'ordine di indagine contiene i dati tecnici necessari all'individuazione dell'utenza o del sistema informatico, ogni informazione utile ai fini dell'identificazione della persona che li ha in uso e dell'operatore, se noti, nonche' l'indicazione del reato per il quale si procede.
 
-##### Art. 46
+#### Art. 46
 
 Clausola di invarianza finanziaria
 
@@ -1286,19 +1272,19 @@ Visto, il Guardasigilli: Orlando
 
 ## Allegati
 
-##### Allegato A
+#### Allegato A
 
 Allegato A
 
 Parte di provvedimento in formato grafico
 
-##### Allegato B
+#### Allegato B
 
 Allegato B
 
 Parte di provvedimento in formato grafico
 
-##### Allegato C
+#### Allegato C
 
 Allegato C
 

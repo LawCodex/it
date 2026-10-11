@@ -48,9 +48,7 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I
-
-### PRINCIPI GENERALI
+## Titolo I - PRINCIPI GENERALI
 
 #### Art. 1
 
@@ -514,9 +512,7 @@ Preparazione per il riutilizzo e riutilizzo
 
 > Per il testo dell'articolo 180-bis del decreto legislativo 3 aprile 2006, n. 152 si veda nelle note all'articolo 1.
 
-## Capo I
-
-### Sistemi di gestione dei RAEE
+### Capo I - Sistemi di gestione dei RAEE
 
 #### Art. 8
 
@@ -594,9 +590,7 @@ I sistemi collettivi
 
 10-ter. I sistemi collettivi esistenti alla data di entrata in vigore della presente disposizione si adeguano alla disposizione di cui al comma 10-bis entro il 31 dicembre dell'anno solare successivo a quello dell'approvazione dello statuto-tipo. Qualora un sistema collettivo scenda, per la prima volta dopo la costituzione dello stesso, sotto la quota di mercato di cui al comma 10-bis, lo comunica senza indugio al Comitato di vigilanza e controllo, e puo' proseguire le attivita' di gestione dei RAEE fino al 31 dicembre dell'anno solare successivo. Fermo restando l'obbligo di comunicazione di cui al precedente periodo, i successivi casi di mancato raggiungimento, da parte del medesimo sistema collettivo, della quota di mercato di cui al comma 10-bis, sono valutati dal Comitato di vigilanza e controllo in conformita' all'articolo 35.
 
-## Capo II
-
-### Deposito preliminare alla raccolta, raccolta, trattamento adeguato e - recupero
+### Capo II - Deposito preliminare alla raccolta, raccolta, trattamento adeguato e recupero
 
 #### Art. 11 - Ritiro di AEE secondo i sistemi ' uno contro uno ' e ' uno contro zero '
 
@@ -808,9 +802,7 @@ Obiettivi di recupero
 
 10\. Il Ministro dell'ambiente e della tutela del territorio e del mare, con decreto di concerto con il Ministri dello sviluppo economico, della salute e dell'economia e delle finanze, sentita la Conferenza unificata, definisce, nei limiti degli ordinari stanziamenti di bilancio previsti per gli scopi di cui al presente articolo, misure volte a promuovere lo sviluppo di nuove tecnologie di recupero, di riciclaggio e di trattamento.
 
-## Capo III
-
-### Autorizzazioni, spedizioni e vendita a distanza
+### Capo III - Autorizzazioni, spedizioni e vendita a distanza
 
 #### Art. 20
 
@@ -854,9 +846,7 @@ b) le modalita' di ritiro presso lo stesso luogo di consegna, gratuitamente e se
 
 3\. Tale indicazione costituisce elemento essenziale del contratto di vendita, a pena di nullita' dello stesso e la sua assenza da' diritto alla richiesta dell'integrale restituzione della somma pagata.
 
-## Titolo III
-
-### FINANZIAMENTO DELLA GESTIONE DEI RAEE
+## Titolo III - FINANZIAMENTO DELLA GESTIONE DEI RAEE
 
 #### Art. 23
 
@@ -912,9 +902,7 @@ Garanzie finanziarie
 
 > c) da polizza assicurativa rilasciata da imprese di assicurazione debitamente autorizzata all'esercizio del ramo cauzioni ed operante nel territorio della Repubblica in regime di liberta' di stabilimento o di liberta' di prestazione di servizi.".
 
-## Titolo IV
-
-### INFORMAZIONE E MONITORAGGIO
+## Titolo IV - INFORMAZIONE E MONITORAGGIO
 
 #### Art. 26
 
@@ -1070,9 +1058,7 @@ Collaborazione amministrativa e scambio di informazioni
 
 2\. La cooperazione comprende, altresi', il diritto di accesso ai documenti e alle pertinenti informazioni, tra cui l'esito di ispezioni, subordinato alle disposizioni legislative in materia di protezione dei dati personali applicate nello Stato membro dell'Unione europea in cui opera l'autorita' cui si chiede la cooperazione.
 
-## Titolo V
-
-### COORDINAMENTO, CONTROLLO E VIGILANZA
+## Titolo V - COORDINAMENTO, CONTROLLO E VIGILANZA
 
 #### Art. 33
 
@@ -1298,9 +1284,7 @@ c) le operazioni svolte presso gli impianti di trattamento, come previsto dalla 
 
 > Per i riferimenti normativi alla direttiva 2008/98/CE, si veda nelle note all'articolo 4.
 
-## Titolo VI
-
-### SANZIONI, DISPOSIZIONI TRANSITORIE E FINALI
+## Titolo VI - SANZIONI, DISPOSIZIONI TRANSITORIE E FINALI
 
 #### Art. 38
 

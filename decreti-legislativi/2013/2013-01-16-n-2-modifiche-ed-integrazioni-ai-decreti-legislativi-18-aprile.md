@@ -58,13 +58,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - DISPOSIZIONI INTEGRATIVE E CORRETTIVE DEL DECRETO LEGISLATIVO 18 APRILE 2011, N. 59, RECANTE ATTUAZIONE DELLE DIRETTIVE 2006/126/CE E 2009/113/CE CONCERNENTI LA PATENTE DI GUIDA E RECEPIMENTO DELLA DIRETTIVA 2011/94/UE
 
-### DISPOSIZIONI INTEGRATIVE E CORRETTIVE DEL DECRETO LEGISLATIVO 18 - APRILE 2011, N. 59, RECANTE ATTUAZIONE DELLE DIRETTIVE 2006/126/CE E
-
-#### 2009/113/CE CONCERNENTI LA PATENTE DI GUIDA E RECEPIMENTO DELLA - DIRETTIVA 2011/94/UE
-
-###### Art. 1
+### Art. 1
 
 Modifiche all'articolo 2 del decreto legislativo
 
@@ -282,7 +278,7 @@ Modifiche all'articolo 2 del decreto legislativo
 
 > d) il comma 4 e' sostituito dal seguente: "4. Il minore degli anni diciotto, munito di patente delle categorie AM, A1 e B1, che trasporta altre persone sui veicoli alla cui guida le predette patenti rispettivamente lo abilitano e' soggetto alla sanzione amministrativa del pagamento di una somma da 38 euro a 155 euro.".».
 
-###### Art. 2
+### Art. 2
 
 Modifiche all'articolo 3 del decreto legislativo
 
@@ -394,7 +390,7 @@ d) dopo il comma 15 e' inserito il seguente: "15-bis. Il titolare di patente di 
 
 > 18\. Le violazioni delle disposizioni di cui al comma 16 importano la sanzione accessoria del fermo amministrativo del veicolo per giorni sessanta, secondo le norme del capo I, sezione II, del titolo VI.».
 
-###### Art. 3
+### Art. 3
 
 Modifiche all'articolo 11 del decreto legislativo
 
@@ -442,7 +438,7 @@ c) della categoria C1, per le macchine operatrici eccezionali.
 
 > 4\. Chiunque guida macchine agricole o macchine operatrici senza essere munito della patente e' punito ai sensi dell'art. 116, commi 15 e 17. All'incauto affidamento si applica la disposizione di cui all'art. 116, comma 14.".».
 
-###### Art. 4
+### Art. 4
 
 Modifiche all'articolo 12 del decreto legislativo 18 aprile 2011, n. 59
 
@@ -498,7 +494,7 @@ b) dopo il comma 3 e' inserito il seguente: "3-bis. Fermo restando quanto previs
 
 > 3\. Nel caso di violazione delle disposizioni del decreto di cui al comma 2, ove adottato, si applicano le sanzioni di cui all'art. 116, commi 15 e 17.».
 
-###### Art. 5
+### Art. 5
 
 Modifiche all'articolo 13 del decreto legislativo
 
@@ -544,7 +540,7 @@ d) al comma 12, le parole: "commi 15 e 17" sono sostituite dalle seguenti: "comm
 
 > 12\. Chiunque viola le disposizioni del comma 3, secondo periodo, e' punito con le sanzioni di cui all'art. 116, comma 15-bis. Le medesime sanzioni si applicano a chiunque viola le disposizioni del comma 4, secondo periodo.».
 
-###### Art. 6
+### Art. 6
 
 Modifiche all'articolo 14 del decreto legislativo 18 aprile 2011, n. 59
 
@@ -564,7 +560,7 @@ Il prefetto dispone la revisione con il provvedimento di cui all'articolo 75, co
 
 > 2\. All'art. 129, comma 3, del Codice della strada, le parole da: "e per le patenti rilasciate da uno Stato estero" fino a: "sul documento di guida" sono soppresse.».
 
-###### Art. 7
+### Art. 7
 
 Modifiche all'articolo 15 del decreto legislativo 18 aprile 2011, n. 59
 
@@ -604,7 +600,7 @@ Modifiche all'articolo 15 del decreto legislativo 18 aprile 2011, n. 59
 
 > 14\. Il titolare di patente di guida rilasciata da uno Stato non appartenente alla Unione europea o allo Spazio economico europeo che, trascorso piu' di un anno dal giorno dell'acquisizione della residenza in Italia, guida con patente in corso di validita', e' soggetto alla sanzione amministrativa pecuniaria di cui all'art. 126, comma 11. Il documento e' ritirato, contestualmente alla violazione, dall'organo accertatore ed inviato, entro i cinque giorni successivi, al prefetto del luogo della commessa violazione che, entro i quindici giorni successivi, lo trasmette all'ufficio della motorizzazione civile competente in ragione della residenza del titolare dei documenti predetti, ai fini della conversione. Qualora la patente posseduta non sia convertibile, il prefetto la trasmette all'autorita' dello Stato che l'ha rilasciata.".».
 
-###### Art. 8
+### Art. 8
 
 Modifiche all'articolo 17 del decreto legislativo 18 aprile 2011, n. 59
 
@@ -644,7 +640,7 @@ Modifiche all'articolo 17 del decreto legislativo 18 aprile 2011, n. 59
 
 > 3\. Qualora un conducente circoli in violazione del provvedimento emanato ai sensi del comma 1, si procede ai sensi del comma 2. Qualora il conducente circoli in violazione del provvedimento emanato ai sensi del comma 2, si applicano le sanzioni dell'art. 116, commi 15 e 17.".».
 
-###### Art. 9
+### Art. 9
 
 Modifiche all'articolo 18 del decreto legislativo 18 aprile 2011, n. 59
 
@@ -666,7 +662,7 @@ Modifiche all'articolo 18 del decreto legislativo 18 aprile 2011, n. 59
 
 > c) il comma 6 e' abrogato.».
 
-###### Art. 10
+### Art. 10
 
 Modifiche all'articolo 22 del decreto legislativo 18 aprile 2011, n. 59
 
@@ -684,13 +680,13 @@ Modifiche all'articolo 22 del decreto legislativo 18 aprile 2011, n. 59
 
 > 4\. Alla copertura degli eventuali nuovi o maggiori oneri derivanti dall'attuazione del presente art. si provvede mediante corrispondente revisione delle tariffe applicabili alle operazioni in materia di motorizzazione di cui al punto 1 della tabella 3 della legge 1° dicembre 1986, n. 870.».
 
-###### Art. 11
+### Art. 11
 
 Disposizioni in materia di tariffe
 
 1\. Con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze, sono incrementate le tariffe applicabili alle operazioni in materia di motorizzazione, di cui ai punti 1 e 2 della tabella 3 della legge 1° dicembre 1986, n. 870. Il maggior gettito derivante dal predetto incremento affluisce ad apposito capitolo/articolo di entrata del bilancio dello Stato ed e' riassegnato ((per la parte eccedente l'importo di euro 13.074.000 per l'anno 2018, di euro 15.380.000 per l'anno 2019 e di euro 17.686.000 a decorrere dall'anno 2020)), ai sensi dell'articolo 9, commi 2 e 2-bis, della legge 4 febbraio 2005, n. 11, allo stato di previsione del Ministero delle infrastrutture e dei trasporti per essere destinato agli adempimenti connessi all'attuazione del decreto legislativo 18 aprile 2011, n. 59, come modificato dal presente decreto.
 
-###### Art. 12
+### Art. 12
 
 Modifiche all'allegato I del decreto legislativo
 
@@ -698,21 +694,15 @@ Modifiche all'allegato I del decreto legislativo
 
 1\. L'allegato I del decreto legislativo 18 aprile 2011, n. 59, e' sostituito dall'allegato I del presente decreto.
 
-## Capo II
+## Capo II - DISPOSIZIONI INTEGRATIVE DEL CAPO II DEL DECRETO LEGISLATIVO 21 NOVEMBRE 2005, N. 286, COME MODIFICATO DAL DECRETO LEGISLATIVO 22 DICEMBRE 2008, N. 214, RECANTE ATTUAZIONE DELLA DIRETTIVA N. 2003/59/CE IN MATERIA DI QUALIFICAZIONE INIZIALE E FORMAZIONE PERIODICA DEI CONDUCENTI DI TALUNI VEICOLI STRADALI ADIBITI AL TRASPORTO DI COSE O DI PASSEGGERI
 
-### DISPOSIZIONI INTEGRATIVE DEL CAPO II DEL DECRETO LEGISLATIVO 21 - NOVEMBRE 2005, N. 286, COME MODIFICATO DAL DECRETO LEGISLATIVO 22
-
-#### DICEMBRE 2008, N. 214, RECANTE ATTUAZIONE DELLA DIRETTIVA N. - 2003/59/CE IN MATERIA DI QUALIFICAZIONE INIZIALE E FORMAZIONE
-
-##### PERIODICA DEI CONDUCENTI DI TALUNI VEICOLI STRADALI ADIBITI AL - TRASPORTO DI COSE O DI PASSEGGERI
-
-###### Art. 13
+### Art. 13
 
 Modifiche al Capo II del decreto legislativo 21 novembre 2005, n. 286, e successive modificazioni
 
 1\. Nel capo II del decreto legislativo 21 novembre 2005, n. 286, e successive modificazioni, ivi compresi negli allegati che ne costituiscono parte integrante, la parola "merci", ovunque ricorra, e' sostituita dalla seguente: "cose".
 
-###### Art. 14
+### Art. 14
 
 Modifiche all'articolo 14 del decreto legislativo 21 novembre 2005, n. 286, e successive modificazioni
 
@@ -732,7 +722,7 @@ b) il comma 2 e' abrogato.
 
 > 2\. (Abrogato).».
 
-###### Art. 15
+### Art. 15
 
 Modifiche all'articolo 15 del decreto legislativo 21 novembre 2005, n. 286, e successive modificazioni
 
@@ -748,7 +738,7 @@ a) ai titolari di patente di guida rilasciata da uno Stato appartenente all'Unio
 
 b) ai titolari di patente di guida rilasciata da Stato non appartenente all'Unione europea o allo Spazio economico europeo, che svolgono l'attivita' di conducente alle dipendenze di un'impresa stabilita sul territorio italiano.".
 
-###### Art. 16
+### Art. 16
 
 Modifiche all'articolo 17 del decreto legislativo 21 novembre 2005, n. 286, e successive modificazioni
 
@@ -766,7 +756,7 @@ b) gia' titolari, alla data del 9 settembre 2009, di patente di guida italiana d
 
 c) gia' titolari, alla data del 9 settembre 2008 ovvero del 9 settembre 2009, di patente di guida rilasciata da uno Stato non appartenente all'Unione europea o allo Spazio economico europeo equivalente rispettivamente alle categorie D1, D1E, D e DE ovvero C1, C1E, C e CE, a condizione di svolgere l'attivita' di conducente alle dipendenze di un'impresa stabilita sul territorio italiano.".
 
-###### Art. 17
+### Art. 17
 
 Modifiche all'articolo 18 del decreto legislativo 21 novembre 2005, n. 286, e successive modificazioni
 
@@ -802,7 +792,7 @@ d) 23 anni di eta': veicoli delle categorie di patente di guida D e DE, a condiz
 
 6\. I titolari di carta di qualificazione del conducente per il trasporto di cose che intendono conseguire anche la carta di qualificazione del conducente per il trasporto di persone, o viceversa, devono dimostrare esclusivamente la conoscenza delle materie specifiche attinenti alla nuova qualificazione.".
 
-###### Art. 18
+### Art. 18
 
 Modifiche all'articolo 19 del decreto legislativo 21 novembre 2005, n. 286, e successive modificazioni
 
@@ -846,7 +836,7 @@ Con decreto del Ministro delle infrastrutture e dei trasporti e' dettata la disc
 
 > 5-bis. Con decreto del Ministro delle infrastrutture e dei trasporti e' dettata la disciplina relativa ai requisiti e criteri che devono soddisfare i soggetti di cui al comma 3, nonche' ai programmi dei corsi ed alle procedure d'esame per il conseguimento della carta di qualificazione del conducente.».
 
-###### Art. 19
+### Art. 19
 
 Modifiche all'articolo 20 del decreto legislativo 21 novembre 2005, n. 286, e successive modificazioni
 
@@ -878,7 +868,7 @@ c) i commi 5 e 6 sono abrogati.
 
 > b) al comma 1, dopo le parole: "ovvero della patente di guida", sono inserite le seguenti: "o della carta di qualificazione del conducente"».
 
-###### Art. 20
+### Art. 20
 
 Modifiche all'articolo 21 del decreto legislativo 21 novembre 2005, n. 286, e successive modificazioni
 
@@ -890,7 +880,7 @@ Modifiche all'articolo 21 del decreto legislativo 21 novembre 2005, n. 286, e su
 
 1\. I conducenti di cui all'articolo 15 seguono in Italia i corsi di qualificazione iniziale e di formazione periodica.".
 
-###### Art. 21
+### Art. 21
 
 Modifiche all'articolo 22 del decreto legislativo 21 novembre 2005, n. 286, e successive modificazioni
 
@@ -964,7 +954,7 @@ b) sia titolare di patente rilasciata da uno Stato membro dell'Unione europea, s
 
 > 7-ter. All'atto del rilascio della patente, sulla stessa e' apposto il codice unionale "95", secondo i criteri di cui ai commi 2 e 3, in relazione al tipo di abilitazione consentita dalla patente conseguita ai sensi del comma 7-bis, nonche' la data di scadenza della qualificazione iniziale o della formazione periodica coincidente con quella della carta di qualificazione del conducente precedentemente posseduta.».
 
-###### Art. 22
+### Art. 22
 
 Modifiche all'articolo 23 del decreto legislativo 21 novembre 2005, n. 286, e successive modificazioni
 
@@ -980,13 +970,9 @@ Modifiche all'articolo 23 del decreto legislativo 21 novembre 2005, n. 286, e su
 
 > 3\. In caso di perdita totale del punteggio sulla carta di qualificazione del conducente, detto documento e' revocato se il conducente non supera l'esame di revisione previsto dall'art. 126-bis del decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni. In caso di revoca della patente di guida e' revocata anche la carta di qualificazione del conducente o il certificato di abilitazione professionale di tipo KB.».
 
-## Capo III
+## Capo III - ULTERIORI DIPOSIZIONI DI COORDINAMENTO NORMATIVO IN MATERIA DI PROVVEDIMENTI DI INIBIZIONE ALLA GUIDA EMESSI NEI CONFRONTI DI TITOLARI DI PATENTE DI GUIDA RILASCIATA DA UNO STATO ESTERO
 
-### ULTERIORI DIPOSIZIONI DI COORDINAMENTO NORMATIVO IN MATERIA DI - PROVVEDIMENTI DI INIBIZIONE ALLA GUIDA EMESSI NEI CONFRONTI DI
-
-#### TITOLARI DI PATENTE DI GUIDA RILASCIATA DA UNO STATO ESTERO
-
-###### Art. 23
+### Art. 23
 
 Modifiche all'articolo 6-ter del decreto-legge 27 giugno 2003, n. 151, convertito, con modificazioni dalla legge 1° agosto 2003, n. 214
 
@@ -1004,7 +990,7 @@ Modifiche all'articolo 6-ter del decreto-legge 27 giugno 2003, n. 151, convertit
 
 > 3\. Presso il Ministero delle infrastrutture e dei trasporti e' istituito il registro degli abilitati alla guida di nazionalita' straniera, al fine di rendere omogenea l'applicazione delle norme e delle sanzioni previste dal presente decreto.».
 
-###### Art. 24
+### Art. 24
 
 Disposizioni transitorie
 
@@ -1018,7 +1004,7 @@ Disposizioni transitorie
 
 5\. Le disposizioni di cui all'articolo 126, comma 11, del decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni, come modificato dall'articolo 5, comma 1, lettera b-bis), del presente decreto, sono applicabili a decorrere dal novantesimo giorno successivo alla data di entrata in vigore di quest'ultimo.
 
-###### Art. 25
+### Art. 25
 
 Disposizioni finanziarie
 
@@ -1052,7 +1038,7 @@ Visto, il Guardasigilli: Severino
 
 ## Allegati
 
-###### Allegato I
+### Allegato I
 
 Allegato I
 

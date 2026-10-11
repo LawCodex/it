@@ -328,7 +328,7 @@ Astensione e ricusazione del giudice di pace
 
 4\. Qualora non sia possibile la sostituzione prevista dal comma 3, la corte o il tribunale rimette il procedimento al giudice di pace dell'ufficio piu' vicino.
 
-## Capo II - Indagini preliminari
+### Capo II - Indagini preliminari
 
 #### Art. 11
 
@@ -420,7 +420,7 @@ Provvedimenti del giudice nel corso delle indagini
 
 > "Art. 368 (Provvedimenti del giudice sulla richiesta di sequestro). - 1. Quando, nel corso delle indagini preliminari, il pubblico ministero ritiene che non si debba disporre il sequestro richiesto dall'interessato, trasmette la richiesta con il suo parere, al giudice per le indagini preliminari".
 
-## Capo III - Citazione a giudizio
+### Capo III - Citazione a giudizio
 
 #### Art. 20
 
@@ -638,7 +638,7 @@ Pluralita' di persone offese
 
 3\. La mancata comparizione delle persone offese, alle quali il decreto sia stato regolarmente notificato ai sensi dell'articolo 27, comma 4, equivale a rinuncia al diritto di querela ovvero alla remissione della querela, qualora sia stata gia' presentata.
 
-## Capo IV - Giudizio
+### Capo IV - Giudizio
 
 #### Art. 29
 
@@ -772,7 +772,7 @@ Sentenza di condanna alla pena della permanenza domiciliare
 
 4\. Acquisite le richieste, il giudice integra il dispositivo della sentenza e ne da' lettura.
 
-## Capo V - Definizioni alternative del procedimento
+### Capo V - Definizioni alternative del procedimento
 
 #### Art. 34
 
@@ -806,7 +806,7 @@ AGGIORNAMENTO (19)
 
 La Corte Costituzionale, con sentenza 21 febbraio - 21 marzo 2024, n. 45 (in G.U. 1ª s. s. 27/03/2024, n. 13), ha dichiarato "l'illegittimita' costituzionale dell'art. 35, comma 1, del decreto legislativo 28 agosto 2000, n. 274 (Disposizioni sulla competenza penale del giudice di pace, a norma dell'articolo 14 della legge 24 novembre 1999, n. 468), nella parte in cui stabilisce che, al fine dell'estinzione del reato, le condotte riparatorie debbano essere realizzate «prima dell'udienza di comparizione», anziche' «prima della dichiarazione di apertura del dibattimento» di cui all'art. 29, comma 7, del medesimo decreto legislativo".
 
-## Capo VI - Disposizioni sulle impugnazioni
+### Capo VI - Disposizioni sulle impugnazioni
 
 #### Art. 36
 
@@ -890,7 +890,7 @@ circondario in cui ha sede il giudice di pace che ha pronunciato la sentenza imp
 
 ((1. Contro le sentenze pronunciate in grado d'appello il ricorso per cassazione puo' essere proposto soltanto per i motivi di cui all'articolo 606, comma 1, lettere a), b) e c), del codice di procedura penale.))
 
-## Capo VII - Disposizioni sull'esecuzione
+### Capo VII - Disposizioni sull'esecuzione
 
 #### Art. 40
 
@@ -1008,7 +1008,7 @@ Modifica delle modalita' di esecuzione della permanenza domiciliare e del lavoro
 
 ((ARTICOLO ABROGATO DAL D.P.R. 14 NOVEMBRE 2002, N. 313))
 
-## Capo VIII - Norme di coordinamento e di attuazione
+### Capo VIII - Norme di coordinamento e di attuazione
 
 #### Art. 47
 

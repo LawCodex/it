@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I - PREVISIONE, PREVENZIONE
+## Capo I - PREVISIONE, PREVENZIONE E LOTTA ATTIVA
 
-### E LOTTA ATTIVA
-
-#### Art. 1 - Finalita' e principi
+### Art. 1 - Finalita' e principi
 
 1\. Le disposizioni della presente legge sono finalizzate alla conservazione e alla difesa dagli incendi del patrimonio boschivo nazionale quale bene insostituibile per la qualita' della vita e costituiscono principi fondamentali dell'ordinamento ai sensi dell'articolo 117 della Costituzione.
 
@@ -60,7 +58,7 @@ la seguente legge:
 
 > \- Il decreto legislativo 31 marzo 1998, n. 112, reca: "Ratifica ed esecuzione dell'accordo tra il Governo della Repubblica italiana ed il Governo della Repubblica indiana, sulla promozione e protezione degli investimenti, fatto a Roma il 23 novembre 1995".
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -68,7 +66,7 @@ Definizioni
 
 ((1-bis. Ai fini della pianificazione operativa regionale contenuta nel piano di cui all'articolo 3, per zone di interfaccia urbano-rurale si intendono le zone, aree o fasce, nelle quali l'interconnessione tra le abitazioni o altre strutture antropiche e le aree naturali o la vegetazione combustibile e' molto stretta)).
 
-#### Art. 3
+### Art. 3
 
 Piano regionale di previsione, prevenzione e lotta attiva contro gli incendi boschivi
 
@@ -112,7 +110,7 @@ o) la previsione economico-finanziaria delle attivita' previste nel piano stesso
 
 5\. Nelle more dell'approvazione dei piani di cui al comma 1 restano efficaci, a tutti gli effetti, i piani antincendi boschivi gia' approvati dalle regioni.
 
-#### Art. 4 - Previsione e prevenzione del rischio di incendi boschivi
+### Art. 4 - Previsione e prevenzione del rischio di incendi boschivi
 
 1\. L'attivita' di previsione consiste nell'individuazione, ai sensi dell'articolo 3, comma 3, lettere c) , c-bis), d) ed e), delle aree e dei periodi a rischio di incendio boschivo nonche' degli indici di pericolosita'. Rientra nell'attivita' di previsione l'approntamento dei dispositivi funzionali a realizzare la lotta attiva di cui all'articolo 7.
 
@@ -130,7 +128,7 @@ o) la previsione economico-finanziaria delle attivita' previste nel piano stesso
 
 5\. Le province, le comunita' montane ed i comuni attuano le attivita' di previsione e di prevenzione secondo le attribuzioni stabilite dalle regioni.
 
-#### Art. 5 - Attivita' formative
+### Art. 5 - Attivita' formative
 
 1\. Ai fini della crescita e della promozione di un'effettiva educazione ambientale in attivita' di protezione civile, lo Stato e le regioni promuovono, d'intesa, l'integrazione dei programmi didattici delle scuole e degli istituti di ogni ordine e grado.
 
@@ -138,7 +136,7 @@ o) la previsione economico-finanziaria delle attivita' previste nel piano stesso
 
 3\. Per l'organizzazione dei corsi di cui al comma 2, le regioni possono avvalersi anche del Corpo forestale dello Stato e del Corpo nazionale dei vigili del fuoco.
 
-#### Art. 6 - Attivita' informative
+### Art. 6 - Attivita' informative
 
 1\. Le amministrazioni statali, regionali e gli enti locali promuovono, ai sensi della legge 7 giugno 2000, n. 150, l'informazione alla popolazione in merito alle cause determinanti l'innesco di incendio e alle norme comportamentali da rispettare in situazioni di pericolo. La divulgazione del messaggio informativo si avvale di ogni forma di comunicazione e degli uffici relazioni con il pubblico, istituiti ai sensi dell'articolo 12 del decreto legislativo 3 febbraio 1993, n. 29.
 
@@ -174,7 +172,7 @@ o) la previsione economico-finanziaria delle attivita' previste nel piano stesso
 
 > 5-quater. Le disposizioni di cui ai commi 5-bis e 5-ter, a decorrere dal 1o luglio 1997, sono estese a tutto il personale dipendente dalle amministrazioni pubbliche".
 
-#### Art. 7
+### Art. 7
 
 Lotta attiva contro gli incendi boschivi
 
@@ -200,7 +198,7 @@ d) di mezzi aerei di altre regioni in base ad accordi di programma.
 
 6\. Il personale stagionale utilizzato dalle regioni per attivita' connesse alle finalita' di cui alla presente legge deve essere prevalentemente impiegato nelle attivita' di prevenzione di cui all'articolo 4 e reclutato con congruo anticipo rispetto ai periodi di maggiore rischio; ai fini di tale reclutamento, e' data priorita' al personale che ha frequentato, con esito favorevole, i corsi di cui all'articolo 5, comma 2. Le regioni ((stabiliscono, con proprie risorse disponibili a legislazione vigente,)) compensi incentivanti in misura proporzionale ai risultati conseguiti in termini di riduzione delle aree percorse dal fuoco.
 
-#### Art. 8 - Aree naturali protette
+### Art. 8 - Aree naturali protette
 
 1\. Il piano regionale di cui al comma 1 dell'articolo 3 prevede per le aree naturali protette regionali, ferme restando le disposizioni della legge 6 dicembre 1991, n. 394, e successive modificazioni, un'apposita sezione, definita di intesa con gli enti gestori, su proposta degli stessi, sentito il Corpo forestale dello Stato.
 
@@ -214,17 +212,15 @@ d) di mezzi aerei di altre regioni in base ad accordi di programma.
 
 > \- La legge 6 dicembre 1991, n. 394, reca "Legge quadro sulle aree protette".
 
-#### Art. 9
+### Art. 9
 
 Attivita' di monitoraggio e relazione al Parlamento
 
 1\. Il Ministro delegato per il coordinamento della protezione civile, avvalendosi ((. . .)) del Dipartimento, svolge attivita' di monitoraggio sugli adempimenti previsti dalla presente legge e, decorso un anno dalla data di entrata in vigore di quest'ultima, riferisce al Parlamento sullo stato di attuazione della legge stessa.
 
-## Capo II - FUNZIONI AMMINISTRATIVE
+## Capo II - FUNZIONI AMMINISTRATIVE E SANZIONI
 
-### E SANZIONI
-
-#### Art. 10
+### Art. 10
 
 Divieti, prescrizioni e sanzioni
 
@@ -246,7 +242,7 @@ Divieti, prescrizioni e sanzioni
 
 8\. In ogni caso si applicano le disposizioni dell'articolo 18 della legge 8 luglio 1986, n. 349, sul diritto al risarcimento del danno ambientale, alla cui determinazione concorrono l'ammontare delle spese sostenute per la lotta attiva e la stima dei danni al soprassuolo e al suolo.
 
-#### Art. 11 - Modifiche al codice penale
+### Art. 11 - Modifiche al codice penale
 
 1\. Dopo l'articolo 423 del codice penale e' inserito il seguente:
 
@@ -304,11 +300,9 @@ Le pene previste dal primo e dal secondo comma sono aumentate della meta', se da
 
 > La pena e' raddoppiata se si tratta di disastro ferroviario o di naufragio o di sommersione di una nave adibita a trasporto di persone o di caduta di un aeromobile adibito a trasporto di persone".
 
-## Capo III - DISPOSIZIONI FINANZIARIE,
+## Capo III - DISPOSIZIONI FINANZIARIE, ABROGAZIONE DI NORME ED ENTRATA IN VIGORE
 
-### ABROGAZIONE DI NORME - ED ENTRATA IN VIGORE
-
-#### Art. 12
+### Art. 12
 
 Disposizioni finanziarie
 
@@ -338,7 +332,7 @@ In particolare:
 
 z) l'articolo 5 della legge n. 225 del 1992, citato nell'articolo 12, comma 7, della legge 21 novembre 2000, n. 353, deve intendersi riferito agli articoli 25 e 26 del presente decreto".
 
-#### Art. 13 - Norme abrogate ed entrata in vigore
+### Art. 13 - Norme abrogate ed entrata in vigore
 
 1\. Sono abrogate tutte le norme in contrasto con la presente legge e in particolare:
 

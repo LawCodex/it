@@ -48,7 +48,7 @@ il seguente decreto legislativo:
 
 ## Titolo I - Principi generali
 
-#### Art. 1
+### Art. 1
 
 Oggetto e finalita'
 
@@ -128,7 +128,7 @@ e) la valorizzazione e la salvaguardia del servizio commerciale nelle aree urban
 
 > c) di imporre pratiche generalizzate in materia di prezzi e di condizioni di vendita".
 
-#### Art. 2
+### Art. 2
 
 Liberta' di impresa e libera circolazione delle merci
 
@@ -146,7 +146,7 @@ Liberta' di impresa e libera circolazione delle merci
 
 > \- La legge 10 ottobre 1990, n. 287, recante: "Norme per la tutela della concorrenza e del mercato", e' pubblicata nella Gazzetta Ufficiale n. 240 del 13 ottobre 1990.
 
-#### Art. 3
+### Art. 3
 
 Obbligo di vendita
 
@@ -160,7 +160,7 @@ Obbligo di vendita
 
 > La revoca dell'offerta, se e' fatta nella stessa forma dell'offerta o in forma equipollente, e' efficace anche in confronto di chi non ne ha avuto notizia".
 
-#### Art. 4
+### Art. 4
 
 Definizioni e ambito di applicazione del decreto
 
@@ -290,11 +290,9 @@ m) agli enti pubblici ovvero alle persone giuridiche private alle quali partecip
 
 > Il decreto legislativo 8 gennaio 1998, n. 3, recante: "Riordino degli organi collegiali operanti presso la Presidenza del Consiglio dei Ministri - Dipartimento dello spettacolo, a norma dell'art. 11, comma 1, lettera a), della legge 15 marzo 1997, n. 59" e' pubblicato nella Gazzetta Ufficiale n. 10 del 14 gennaio 1998.
 
-## Titolo II - Requisiti per l'esercizio
+## Titolo II - Requisiti per l'esercizio dell'attivita' commerciale
 
-### dell'attivita' commerciale
-
-#### Art. 5
+### Art. 5
 
 Requisiti di accesso all'attivita'
 
@@ -320,11 +318,9 @@ Requisiti di accesso all'attivita'
 
 11\. ((L'esercizio dell'attivita' di commercio all'ingrosso, ivi compreso quello relativo ai prodotti alimentari e, in particolare, ai prodotti ortoflorofrutticoli, carnei ed ittici, e' subordinato esclusivamente al possesso dei requisiti di onorabilita' di cui all'articolo 71, comma 1, del decreto legislativo 26 marzo 2010, n. 59.)) L'albo istituito dall'articolo 3 della legge 25 marzo 1959, n. 125, e' soppresso.
 
-## Titolo III - Esercizio dell'attivita' di vendita al dettaglio
+## Titolo III - Esercizio dell'attivita' di vendita al dettaglio sulle aree private in sede fissa
 
-### sulle aree private in sede fissa
-
-#### Art. 6
+### Art. 6
 
 Programmazione della rete distributiva
 
@@ -370,7 +366,7 @@ d) i centri di minore consistenza demografica al fine di svilupparne il tessuto 
 
 6\. In caso di inerzia da parte del comune, le regioni provvedono in via sostitutiva adottando le norme necessarie, che restano in vigore fino alla emanazione delle norme comunali.
 
-#### Art. 7
+### Art. 7
 
 Esercizi di vicinato
 
@@ -388,7 +384,7 @@ d) l'esito della eventuale valutazione in caso di applicazione della disposizion
 
 3\. Fermi restando i requisiti igienicosanitari, negli esercizi di vicinato autorizzati alla vendita dei prodotti di cui all'articolo 4 della legge 25 marzo 1997, n. 77, e' consentito il consumo immediato dei medesimi a condizione che siano esclusi il servizio di somministrazione e le attrezzature ad esso direttamente finalizzati.
 
-#### Art. 8
+### Art. 8
 
 Medie strutture di vendita
 
@@ -410,7 +406,7 @@ c) le eventuali comunicazioni di cui all'articolo 10, commi 2 e 3, del presente 
 
 > \- La legge 7 agosto 1990, n. 241, recante "Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi", e' pubblicata nella Gazzetta Ufficiale n. 192 del 18 agosto 1990.
 
-#### Art. 9
+### Art. 9
 
 Grandi strutture di vendita
 
@@ -434,7 +430,7 @@ c) le eventuali comunicazioni di cui all'articolo 10, commi 2 e 3, del presente 
 
 > \- Per il testo della legge 7 agosto 1990, n. 241, si fa riferimento alle note all'art. 8, comma 4.
 
-#### Art. 10
+### Art. 10
 
 Disposizioni particolari
 
@@ -480,7 +476,7 @@ Tali dati sono messi a disposizione degli osservatori regionali e nazionale di c
 
 ## Titolo IV - Orari di vendita
 
-#### Art. 11
+### Art. 11
 
 Orario di apertura e di chiusura
 
@@ -500,7 +496,7 @@ Orario di apertura e di chiusura
 
 > "3. Il sindaco e' inoltre competente, nell'ambito della disciplina regionale e sulla base degli indirizzi espressi dal consiglio comunale, a riordinare gli orari degli esercizi commerciali, dei servizi pubblici, nonche' degli orari di apertura al pubblico degli uffici periferici delle amministrazioni pubbliche, al fine di autorizzare l'esplicazione dei servizi alle esigenze complessive e generali degli utenti".
 
-#### Art. 12
+### Art. 12
 
 Comuni ad economia prevalentemente
 
@@ -516,7 +512,7 @@ turistica e citta' d'arte
 
 > \- Per il testo del comma 3, dell'art. 36 della legge 8 giugno 1980, n, 142, si fa riferimento alla nota all'art. 11.
 
-#### Art. 13
+### Art. 13
 
 Disposizioni speciali
 
@@ -528,7 +524,7 @@ Disposizioni speciali
 
 ## Titolo V - Offerta di vendita
 
-#### Art. 14
+### Art. 14
 
 Pubblicita' dei prezzi
 
@@ -540,7 +536,7 @@ Pubblicita' dei prezzi
 
 4\. Restano salve le disposizioni vigenti circa l'obbligo dell'indicazione del prezzo di vendita al dettaglio per unita' di misura.
 
-#### Art. 15
+### Art. 15
 
 Vendite straordinarie
 
@@ -566,7 +562,7 @@ Vendite straordinarie
 
 ## Titolo VI - Forme speciali di vendita al dettaglio
 
-#### Art. 16
+### Art. 16
 
 Spacci interni
 
@@ -576,7 +572,7 @@ Spacci interni
 
 3\. Nella ((segnalazione certificata di inizio di attivita')) deve essere dichiarata la sussistenza dei requisiti di cui all'articolo 5 della persona preposta alla gestione dello spaccio, il rispetto delle norme in materia di idoneita' dei locali, il settore merceologico, l'ubicazione e la superficie di vendita.
 
-#### Art. 17
+### Art. 17
 
 Apparecchi automatici
 
@@ -588,7 +584,7 @@ Apparecchi automatici
 
 4\. La vendita mediante apparecchi automatici effettuata in apposito locale ad essa adibito in modo esclusivo, e' soggetta alle medesime disposizioni concernenti l'apertura di un esercizio di vendita.
 
-#### Art. 18
+### Art. 18
 
 Vendita per corrispondenza, televisione o altri sistemi di comunicazione
 
@@ -606,7 +602,7 @@ Vendita per corrispondenza, televisione o altri sistemi di comunicazione
 
 7\. COMMA ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206.
 
-#### Art. 19
+### Art. 19
 
 Vendite effettuate presso il domicilio dei consumatori
 
@@ -628,13 +624,13 @@ Vendite effettuate presso il domicilio dei consumatori
 
 9\. COMMA ABROGATO DAL D.LGS. 6 SETTEMBRE 2005, N. 206.
 
-#### Art. 20
+### Art. 20
 
 Propaganda a fini commerciali
 
 1\. L'esibizione o illustrazione di cataloghi e l'effettuazione di qualsiasi altra forma di propaganda commerciale presso il domicilio del consumatore o nei locali nei quali il consumatore si trova, anche temporaneamente, per motivi di lavoro, studio, cura o svago, sono sottoposte alle disposizioni sugli incaricati e sul tesserino di riconoscimento di cui all'articolo 19, commi 4, 5, 6 e 8.
 
-#### Art. 21
+### Art. 21
 
 Commercio elettronico
 
@@ -656,7 +652,7 @@ f) garantire la partecipazione italiana al processo di cooperazione e negoziazio
 
 ## Titolo VII - Sanzioni
 
-#### Art. 22
+### Art. 22
 
 Sanzioni e revoca
 
@@ -690,7 +686,7 @@ c) nel caso di ulteriore violazione delle prescrizioni in materia igienicosanita
 
 ## Titolo VIII - Organismi associativi
 
-#### Art. 23
+### Art. 23
 
 Centri di assistenza tecnica
 
@@ -706,7 +702,7 @@ Centri di assistenza tecnica
 
 > "1. E' istituito il fondo nazionale per il cofinanziamento di interventi regionali nel settore del commercio e del turismo con una dotazione finanziaria di lire 50 miliardi per ciascuno degli anni 1998 e 1999. Il CIPE, su proposta del Ministro dell'industria, del commercio e dell'artigianato, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autome di Trento e di Bolzano, definisce i progetti strategici da realizzare nonche' i criteri e le modalita' per la gestione del cofinanziamento nazionale".
 
-#### Art. 24
+### Art. 24
 
 Interventi per i consorzi e le cooperative di garanzia collettiva fidi
 
@@ -744,7 +740,7 @@ Il D.L. 22 giugno 2012, n. 83, convertito, con modificazioni, dalla L. 7 agosto 
 
 ## Titolo IX - Disposizioni transitorie e finali
 
-#### Art. 25
+### Art. 25
 
 Disciplina transitoria
 
@@ -780,7 +776,7 @@ AGGIORNAMENTO (13)
 
 Il D.L. 22 giugno 2012, n. 83, convertito, con modificazioni, dalla L. 7 agosto 2012, n. 134, ha disposto (con l'art. 23, comma 11) che "I procedimenti avviati in data anteriore a quella di entrata in vigore del presente decreto-legge sono disciplinati, ai fini della concessione e dell'erogazione delle agevolazioni e comunque fino alla loro definizione, dalle disposizioni delle leggi di cui all'Allegato 1 e dalle norme di semplificazione recate dal presente decreto-legge."
 
-#### Art. 26
+### Art. 26
 
 Disposizioni finali
 
@@ -800,7 +796,7 @@ Nel caso di cui al presente comma si applicano le disposizioni di cui ai commi 1
 
 ## Titolo X - Commercio al dettaglio su aree pubbliche
 
-#### Art. 27
+### Art. 27
 
 Definizioni
 
@@ -820,7 +816,7 @@ f) per presenze in un mercato, il numero delle volte che l'operatore si e' prese
 
 g) per presenze effettive in una fiera, il numero delle volte che l'operatore ha effettivamente esercitato l'attivita' in tale fiera.
 
-#### Art. 28
+### Art. 28
 
 Esercizio dell'attivita'
 
@@ -874,7 +870,7 @@ Stabiliscono, altresi', le caratteristiche tipologiche delle fiere, nonche' le m
 
 18\. In caso di inerzia da parte del comune, le regioni provvedono in via sostitutiva, adottando le norme necessarie, che restano in vigore fino all'emanazione delle norme comunali.
 
-#### Art. 29
+### Art. 29
 
 Sanzioni
 
@@ -898,7 +894,7 @@ c-bis) nel caso di mancata presentazione iniziale e annuale del DURC di cui al c
 
 5\. Per le violazioni di cui al presente articolo l'autorita' competente e' il sindaco del comune nel quale hanno avuto luogo. Alla medesima autorita' pervengono i proventi derivanti dai pagamenti in misura ridotta ovvero da ordinanze ingiunzioni di pagamento.
 
-#### Art. 30
+### Art. 30
 
 Disposizioni transitorie e finali
 
@@ -948,7 +944,7 @@ Disposizioni transitorie e finali
 
 ## Titolo XI - Inadempienza delle regioni
 
-#### Art. 31
+### Art. 31
 
 Intervento sostitutivo
 

@@ -46,13 +46,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I
+## Titolo I - Armonizzazione dei principi contabili generali applicabili ai documenti contabili delle amministrazioni pubbliche
 
-### Armonizzazione dei principi contabili generali - applicabili ai documenti contabili
-
-#### delle amministrazioni pubbliche
-
-##### Art. 1
+### Art. 1
 
 Definizioni fondamentali
 
@@ -164,7 +160,7 @@ c) per soggetti utilizzatori del sistema di bilancio si intendono i cittadini, g
 
 > «2. Ai fini della presente legge, per amministrazioni pubbliche si intendono gli enti e gli altri soggetti che costituiscono il settore istituzionale delle amministrazioni pubbliche individuati dall'Istituto nazionale di statistica (ISTAT) sulla base delle definizioni di cui agli specifici regolamenti comunitari.».
 
-##### Art. 2
+### Art. 2
 
 Oggetto e destinatari
 
@@ -180,7 +176,7 @@ Oggetto e destinatari
 
 > «4. Le disposizioni di cui alla presente legge sono applicate dalla Presidenza della Repubblica, dal Senato della Repubblica, dalla Camera dei deputati e dalla Corte costituzionale in quanto ritenute compatibili con la sfera di autonomia costituzionalmente riconosciuta a tali organi.».
 
-##### Art. 3
+### Art. 3
 
 Finalita' e ambito di applicazione
 
@@ -196,11 +192,9 @@ d) coadiuvare gli organi di revisione e di controllo nel verificare che il siste
 
 e) assistere gli utilizzatori del sistema dei bilanci pubblici nell'esame delle informazioni in essi contenute.
 
-## Titolo II
+## Titolo II - Piano dei conti integrato
 
-### Piano dei conti integrato
-
-##### Art. 4
+### Art. 4
 
 Piano dei conti integrato
 
@@ -246,7 +240,7 @@ AGGIORNAMENTO (6)
 
 Il D.L. 30 dicembre 2013, n. 150, convertito con modificazioni dalla L. 27 febbraio 2014, n. 15, ha disposto (con l'art. 9, comma 7) che "I termini per l'adozione dei regolamenti di cui all'articolo 4, comma 3, lettera b), e all'articolo 18, comma 1, del decreto legislativo 31 maggio 2011, n. 91, sono prorogati al 31 dicembre 2014".
 
-##### Art. 5
+### Art. 5
 
 Finalita' del piano dei conti
 
@@ -358,7 +352,7 @@ e) una maggiore attendibilita' e trasparenza dei dati contabili, valutabili anch
 
 > mm) individuazione, in conformita' con il diritto comunitario, di forme di fiscalita' di sviluppo, con particolare riguardo alla creazione di nuove attivita' di impresa nelle aree sottoutilizzate.».
 
-##### Art. 6
+### Art. 6
 
 Sistema integrato di scritturazione contabile
 
@@ -380,7 +374,7 @@ b) semplificare il monitoraggio a livello nazionale della finanza pubblica e fav
 
 > 5\.
 
-##### Art. 7
+### Art. 7
 
 Piano dei conti e struttura dei documenti contabili
 
@@ -392,7 +386,7 @@ Piano dei conti e struttura dei documenti contabili
 
 4\. Le informazioni e gli schemi contabili resi disponibili dalle amministrazioni pubbliche per il monitoraggio e il consolidamento dei dati in corso d'anno sono redatti secondo lo schema di articolazione del piano dei conti predisposto ai sensi del presente articolo.
 
-##### Art. 8
+### Art. 8
 
 Definizione della transazione elementare e sua codificazione
 
@@ -442,11 +436,9 @@ Il D.P.C.M. 26 giugno 2013 (in G.U. 28/06/2013, n. 150) ha disposto (con l'art. 
 
 Ha inoltre disposto (con l'art. 1, comma 3) che la presente modifica ha effetto a decorrere dal 1 lulgio 2013.
 
-## Titolo III
+## Titolo III - Classificazione delle spese e delle entrate
 
-### Classificazione delle spese e delle entrate
-
-##### Art. 9
+### Art. 9
 
 Omogeneita' della classificazione delle spese
 
@@ -456,7 +448,7 @@ Omogeneita' della classificazione delle spese
 
 > Il Regolamento (CE) 25 giugno 1996, n. 2223/96, del Consiglio relativo al Sistema europeo dei conti nazionali e regionali nella Comunita' e' pubblicato nella G.U.C.E. 30 novembre 1996, n. L 310.
 
-##### Art. 10
+### Art. 10
 
 Definizione del contenuto di missione e programma
 
@@ -468,7 +460,7 @@ Definizione del contenuto di missione e programma
 
 > «2. Il disegno di legge del bilancio di previsione espone per l'entrata e, per ciascun Ministero, per la spesa le unita' di voto parlamentare determinate con riferimento rispettivamente alla tipologia di entrata e ad aree omogenee di attivita'. Per la spesa, le unita' di voto sono costituite dai programmi quali aggregati diretti al perseguimento degli obiettivi definiti nell'ambito delle missioni. Le missioni rappresentano le funzioni principali e gli obiettivi strategici perseguiti con la spesa. La realizzazione di ciascun programma e' affidata ad un unico centro di responsabilita' amministrativa, corrispondente all'unita' organizzativa di primo livello dei Ministeri, ai sensi dell'articolo 3 del decreto legislativo 30 luglio 1999, n. 300. I programmi sono univocamente raccordati alla nomenclatura COFOG (Classification of the functions of government) di secondo livello. Nei casi in cui cio' non accada perche' il programma corrisponde in parte a due o piu' funzioni COFOG di secondo livello, deve essere indicata la relativa percentuale di attribuzione da calcolare sulla base dell'ammontare presunto dei capitoli di diversa finalizzazione ricompresi nel programma.».
 
-##### Art. 11
+### Art. 11
 
 Criteri per la specificazione e classificazione delle spese
 
@@ -502,7 +494,7 @@ Il D.P.C.M. 26 giugno 2013 (in G.U. 28/06/2013, n. 150) ha disposto (con l'art. 
 
 Ha inoltre disposto (con l'art. 1, comma 3) che la presente modifica ha effetto a decorrere dal 1 lulgio 2013.
 
-##### Art. 12
+### Art. 12
 
 Classificazione delle spese del bilancio degli organismi qualificati come unita' locali di amministrazioni pubbliche
 
@@ -522,7 +514,7 @@ Il D.P.C.M. 26 giugno 2013 (in G.U. 28/06/2013, n. 150) ha disposto (con l'art. 
 
 Ha inoltre disposto (con l'art. 1, comma 3) che la presente modifica ha effetto a decorrere dal 1 lulgio 2013.
 
-##### Art. 13
+### Art. 13
 
 Societa' ed enti con bilancio civilistico
 
@@ -578,7 +570,7 @@ Societa' ed enti con bilancio civilistico
 
 > 3\. La proposta o meno di approvazione da parte del collegio dei revisori si conclude con un giudizio senza rilievi, se il rendiconto generale e' conforme alle norme che ne disciplinano i criteri di redazione e di valutazione di cui all'allegato n. 14, con un giudizio con rilievi o con un giudizio negativo.».
 
-##### Art. 14
+### Art. 14
 
 Codifica dei provvedimenti di spesa
 
@@ -586,7 +578,7 @@ Codifica dei provvedimenti di spesa
 
 2\. Con decreto di natura non regolamentare del Ministro dell'economia e delle finanze, da adottare ((entro il 31 dicembre 2012)), sono stabiliti i criteri e le modalita' per l'attuazione della disposizione di cui al comma 1. Il decreto di cui al presente comma e' pubblicato nella Gazzetta Ufficiale della Repubblica italiana e nel sito del Ministero dell'economia e delle finanze.
 
-##### Art. 15
+### Art. 15
 
 Criteri per la specificazione e la classificazione delle entrate
 
@@ -604,11 +596,9 @@ c) categorie, secondo la natura dei cespiti.
 
 > Per il testo dell'art. 40, comma 2, della citata legge n. 196 del 2009, si veda nelle note all'art. 11.
 
-## Titolo IV
+## Titolo IV - Amministrazioni pubbliche in regime di contabilita' civilistica
 
-### Amministrazioni pubbliche - in regime di contabilita' civilistica
-
-##### Art. 16
+### Art. 16
 
 Destinatari e finalita'
 
@@ -628,7 +618,7 @@ AGGIORNAMENTO (3)
 
 La L. 24 dicembre 2012, n. 228, ha disposto (con l'art. 1, comma 388) che e' fissato al 30 giugno 2013 il termine di scadenza dei termini e dei regimi giuridici di cui al comma 2 del presente articolo.
 
-##### Art. 17
+### Art. 17
 
 Tassonomia degli enti in contabilita' civilistica
 
@@ -656,7 +646,7 @@ Tassonomia degli enti in contabilita' civilistica
 
 > Per il riferimento al testo dell'art. 47 del DPR 27 febbraio 2003, n. 97, si veda nelle note all'art. 13.
 
-##### Art. 18
+### Art. 18
 
 Bilancio consolidato delle amministrazioni pubbliche
 
@@ -686,11 +676,9 @@ AGGIORNAMENTO (6)
 
 Il D.L. 30 dicembre 2013, n. 150, convertito con modificazioni dalla L. 27 febbraio 2014, n. 15, ha disposto (con l'art. 9, comma 7) che "I termini per l'adozione dei regolamenti di cui all'articolo 4, comma 3, lettera b), e all'articolo 18, comma 1, del decreto legislativo 31 maggio 2011, n. 91, sono prorogati al 31 dicembre 2014".
 
-## Titolo V
+## Titolo V - Sistema di indicatori di risultato semplici, misurabili e riferiti ai programmi di bilancio
 
-### Sistema di indicatori di risultato semplici, misurabili - e riferiti ai programmi di bilancio
-
-##### Art. 19
+### Art. 19
 
 Principi generali
 
@@ -722,7 +710,7 @@ Tale sistema minimo e' stabilito con decreto del Ministro competente d'intesa co
 
 > Per il testo dell'art. 17, comma 3, della citata legge n. 400 del 1988, si veda nelle note all'art. 18.
 
-##### Art. 20
+### Art. 20
 
 Pubblicita' del sistema di indicatori
 
@@ -730,7 +718,7 @@ Pubblicita' del sistema di indicatori
 
 2\. Gli enti vigilati e le unita' locali di cui all'articolo 19, comma 4, trasmettono il Piano annualmente, unitamente al documento di previsione e al bilancio consuntivo, al Ministero vigilante per il consolidamento ed il monitoraggio degli obiettivi connessi all'azione pubblica, nonche' alla Commissione per la valutazione, la trasparenza e l'integrita' delle amministrazioni pubbliche, ai fini del coordinamento con il piano delle performance previsto dall'articolo 10 del decreto legislativo 27 ottobre 2009, n. 150.
 
-##### Art. 21
+### Art. 21
 
 Requisiti minimi del Piano degli indicatori e risultati attesi di bilancio
 
@@ -758,7 +746,7 @@ e) l'ultimo valore effettivamente osservato dall'indicatore.
 
 4\. Il Piano individua, inoltre, specifiche azioni avviate dall'amministrazione per consolidare il sistema di indicatori di risultati disponibili.
 
-##### Art. 22
+### Art. 22
 
 Monitoraggio degli obiettivi e indicatori
 
@@ -766,17 +754,15 @@ Monitoraggio degli obiettivi e indicatori
 
 2\. Ai fini del monitoraggio del Piano, gli obiettivi e gli indicatori selezionati, nonche' i valori obiettivo per l'esercizio finanziario di riferimento e per l'arco temporale pluriennale sono i medesimi indicati nella fase di previsione. Il Piano e' aggiornato in corrispondenza di ogni nuovo esercizio di bilancio, sia tramite la specificazione di nuovi obiettivi e indicatori, che attraverso l'aggiornamento dei valori obiettivo e la soppressione di obiettivi gia' raggiunti oppure oggetto di ripianificazione.
 
-##### Art. 23
+### Art. 23
 
 Ulteriori disposizioni
 
 1\. Con decreto del Presidente del Consiglio dei Ministri, da adottare entro il ((31 dicembre 2012)), sono definite le linee guida generali per l'individuazione di criteri e metodologie per la costruzione di un sistema di indicatori, ai fini della misurazione dei risultati attesi dai programmi di bilancio. Con il medesimo decreto sono individuate le modalita' per eventuali aggiornamenti delle stesse linee guida generali.
 
-## Titolo VI
+## Titolo VI - Disposizioni finali
 
-### Disposizioni finali
-
-##### Art. 24
+### Art. 24
 
 Termini di approvazione dei bilanci
 
@@ -790,7 +776,7 @@ b) il rendiconto o il bilancio di esercizio entro il 30 aprile dell'anno success
 
 3\. Gli enti vigilati, i cui bilanci sono sottoposti ad approvazione da parte dell'Amministrazione vigilante, deliberano il proprio bilancio di previsione entro il termine del 31 ottobre dell'anno precedente. Il rendiconto o il bilancio di esercizio degli enti di cui al presente comma e' deliberato entro il 30 aprile dell'anno successivo, ed e' approvato dall'Amministrazione vigilante competente entro il 30 giugno.
 
-##### Art. 25
+### Art. 25
 
 Sperimentazione
 
@@ -812,7 +798,7 @@ Il D.P.C.M. 26 giugno 2013 (in G.U. 28/06/2013, n. 150) ha disposto (con l'art. 
 
 Ha inoltre disposto (con l'art. 1, comma 3) che la presente modifica ha effetto a decorrere dal 1 lulgio 2013.
 
-##### Art. 26
+### Art. 26
 
 Disposizioni finali ed entrata in vigore
 
@@ -844,7 +830,7 @@ Visto, il Guardasigilli: Alfano
 
 ## Allegati
 
-##### Allegato 1
+### Allegato 1
 
 Allegato 1
 
@@ -1100,7 +1086,7 @@ Il principio della prevalenza della sostanza sulla forma si fortemente collega i
 
 La sostanza economica, finanziaria e patrimoniale della gestione dell'amministrazione pubblica rappresenta l'elemento prevalente per la contabilizzazione, valutazione ed esposizione dei fatti amministrativi nei documenti di bilancio. La prevalenza della sostanza sulla forma quindi rappresenta, pertanto, un principio da osservare finche' non vi siano norme che ne limitino l'impiego.
 
-##### Allegato 2
+### Allegato 2
 
 Allegato 2
 

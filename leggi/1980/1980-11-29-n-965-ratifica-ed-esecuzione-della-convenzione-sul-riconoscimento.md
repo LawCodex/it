@@ -25,11 +25,11 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la convenzione sul riconoscimento degli studi, dei diplomi e dei gradi di insegnamento superiore negli Stati arabi e negli Stati europei rivieraschi del Mar Mediterraneo, adottata a Nizza il 17 dicembre 1976.
 
-### Art. 2
+## Art. 2
 
 Piena ed intera esecuzione e' data alla convenzione di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 18 della convenzione stessa.
 
@@ -45,7 +45,7 @@ Visto, il Guardasigilli: SARTI
 
 ## Allegati
 
-### Convention
+## Convention
 
 CONVENTION
 
@@ -87,7 +87,7 @@ RICORDANDO che l'obiettivo finale che la Conferenza generale dell'Organizzazione
 
 Hanno convenuto quanto segue:
 
-### ARTICOLO 1
+## ARTICOLO 1
 
 1\. Ai fini della presente Convenzione, per "riconoscimento" di un diploma, titolo o grado d'insegnamento superiore ottenuto allo estero, si intende la sua accettazione da parte delle autorita' competenti di uno Stato Contraente e la concessione al suo titolare dei diritti di cui godono le persone che possiedono un diploma, un titolo o grado d'insegnamento nazionale al quale il diploma, il titolo o grado di insegnamento ottenuto all'estero e' assimilato. A seconda della portata attribuita al riconoscimento, tali diritti riguardano sia il proseguimento degli studi, sia l'esercizio di una attivita' professionale, sia le due cose insieme.
 
@@ -105,7 +105,7 @@ Hanno convenuto quanto segue:
 
 ## II. - OBIETTIVI
 
-### ARTICOLO 2
+## ARTICOLO 2
 
 1\. Gli Stati Contraenti affermano solennemente la loro ferma risoluzione a cooperare strettamente al fine di:
 
@@ -133,13 +133,13 @@ Hanno convenuto quanto segue:
 
 ## III. - IMPEGNI DI APPLICAZIONE IMMEDIATA
 
-### ARTICOLO 3
+## ARTICOLO 3
 
 1\. Gli Stati Contraenti riconoscono, alle stesse condizioni di quelle applicabili ai loro cittadini ai fini del proseguimento degli studi e dell'ammissione immediata ai livelli successivi di formazione negli istituti d'insegnamento superiore situati nei loro territori rispettivi, i diplomi di compimento di studi secondari rilasciati negli altri Stati Contraenti ed il cui possesso conferisce ai titolari i requisiti richiesti per essere ammesso ai livelli successivi di formazione negli Istituti d'insegnamento superiore situati nei territori di tali Stati Contraenti.
 
 2\. Tuttavia, l'ammissione in un istituto di insegnamento superiore potra' essere subordinata alla condizione che esistano posti disponibili nonche' alle condizioni concernenti le conoscenze linguistiche richieste o ammesse dagli organismi d'insegnamento degli Stati Contraenti per intraprendere gli studi considerati.
 
-### ARTICOLO 4
+## ARTICOLO 4
 
 1\. Gli Stati Contraenti si impegnano ad adottare, sul piano nazionale, tutte le misure necessarie al fine:
 
@@ -149,11 +149,11 @@ Hanno convenuto quanto segue:
 
 2\. Le disposizioni del paragrafo 2 del precedente articolo 3 sono applicabili ai casi previsti dal presente articolo.
 
-### ARTICOLO 5
+## ARTICOLO 5
 
 Gli Stati contraenti si impegnano ad adottare le misure necessarie per rendere effettivo, per quanto possibile, il riconoscimento, in vista dell'esercizio di una professione ai sensi del precedente articolo primo 1 (b) i diplomi, titoli o gradi d'insegnamento superiori rilasciati dalle autorita' competenti degli altri Stati Contraenti.
 
-### ARTICOLO 6
+## ARTICOLO 6
 
 1\. Considerando che il riconoscimento verte sugli studi compiuti e sui diplomi, titoli o gradi rilasciati negli istituti riconosciuti di uno Stato Contraente, il beneficio dei precedenti articoli 3, 4 e 5 viene acquisito da parte di ogni persona che abbia seguito tali studi od ottenuto tali diplomi, titoli o attestati, quali che siano la nazionalita' o lo statuto politico o giuridico dell'interessato.
 
@@ -161,7 +161,7 @@ Gli Stati contraenti si impegnano ad adottare le misure necessarie per rendere e
 
 ## IV. - MECCANISMI DI ESECUZIONE
 
-### ARTICOLO 7
+## ARTICOLO 7
 
 Gli Stati Contraenti perseguono la realizzazione degli obiettivi definiti nell'articolo 2 ed assicurano l'esecuzione degli impegni previsti dagli articoli 3, 4 e 5 che precedono, mediante:
 
@@ -171,7 +171,7 @@ Gli Stati Contraenti perseguono la realizzazione degli obiettivi definiti nell'a
 
 (c) Organismi bilaterali o sub-regionali.
 
-### ARTICOLO 8
+## ARTICOLO 8
 
 1\. Gli Stati contraenti riconoscono che parte degli obiettivi e l'esecuzione degli impegni definiti nella presente Convenzione esigono, sul piano nazionale, una cooperazione ed un coordinamento stretti di sforzi di autorita' nazionali molto diverse, governative o non governative, in particolare di universita' ed altri istituti educativi. Essi si impegnano di conseguenza ad affidare lo studio delle questioni relative all'applicazione della presente Convenzione ad organismi nazionali idonei ai quali si assoceranno tutti i settori interessati e che saranno abilitati a proporre soluzioni adeguate.
 
@@ -179,7 +179,7 @@ Gli Stati Contraenti si impegnano inoltre ad adottare tutte le misure amministra
 
 2\. Ogni organismo nazionale dovra' disporre dei mezzi necessari per consentirgli sia di raccogliere, di analizzare e di classificare esso stesso ogni informazione utile alle proprie attivita' in relazione agli studi ed ai diplomi di insegnamento superiori, sia di ottenere nel piu' breve termine, da un diverso centro nazionale di documentazione, le informazioni di cui potrebbe aver bisogno in tal campo.
 
-### ARTICOLO 9
+## ARTICOLO 9
 
 1\. Viene istituito un Comitato intergovernativo composto di esperti incaricati dagli Stati Contraenti e il cui Segretariato viene affidato al Direttore generale dell'Organizzazione delle Nazioni Unite per l'educazione, la scienza e la cultura.
 
@@ -189,17 +189,17 @@ Gli Stati Contraenti si impegnano inoltre ad adottare tutte le misure amministra
 
 4\. Il Segretariato del Comitato intergovernativo aiuta gli organi nazionali nell'ottenimento delle informazioni di cui necessitano nel quadro delle loro attivita'.
 
-### ARTICOLO 10
+## ARTICOLO 10
 
 Il Comitato intergovernativo elegge il proprio presidente ed adotta il proprio regolamento interno. Esso si riunisce in sessione ordinaria ogni due anni. Il Comitato si riunira' per la prima volta tre mesi dopo il deposito del sesto strumento di ratifica o di adesione.
 
-### ARTICOLO 11
+## ARTICOLO 11
 
 Gli Stati contraenti potranno affidare ad organismi bilaterali o sub-regionale gia' esistenti, od appositamente istituita a tale scopo, il compito di studiare i problemi che viene a porre, sul piano bilaterale o sub-regionale, l'applicazione della presente Convenzione e di promuoverne la soluzione.
 
 ## V. - DOCUMENTAZIONE
 
-### ARTICOLO 12
+## ARTICOLO 12
 
 1\. Gli Stati contraenti procederanno regolarmente tra loro ad ampi scambi di informazioni e di documentazioni relativi agli studi ed ai diplomi di insegnamento superiore.
 
@@ -207,23 +207,23 @@ Gli Stati contraenti potranno affidare ad organismi bilaterali o sub-regionale g
 
 ## VI. - COOPERAZIONE CON GLI ORGANISMI INTERNAZIONALI
 
-### ARTICOLO 13
+## ARTICOLO 13
 
 Il Comitato intergovernativo adotta tutte le disposizioni utili per associare ai propri sforzi, tendenti ad assicurare la migliore applicazione possibile della presente Convenzione, le organizzazioni internazionali governative e non governative competenti.
 
 ## VII. - ISTITUTI DI INSEGNAMENTO SUPERIORE SOGGETTI ALL'AUTORITA' DI UNO STATO CONTRAENTE MA SITUATI AL DI FUORI DEL SUO TERRITORIO
 
-### ARTICOLO 14
+## ARTICOLO 14
 
 Le disposizioni della presente Convenzione si applicano agli studi perseguiti, ai diplomi o gradi ottenuti in ogni istituto d'insegnamento superiore soggetto all'autorita' di uno Stato contraente anche se tale istituto fosse situato al di fuori del suo territorio.
 
 ## VIII. - RATIFICA, ADESIONE ED ENTRATA IN VIGORE
 
-### ARTICOLO 15
+## ARTICOLO 15
 
 La presente Convenzione e' aperta alla firma ed alla ratifica degli Stati arabi e degli Stati europei rivieraschi del Mar Mediterraneo invitati a partecipare alla Conferenza diplomatica incaricata dell'elaborazione della presente Convenzione.
 
-### ARTICOLO 16
+## ARTICOLO 16
 
 1\. Altri Stati, membri dell'Organizzazione delle Nazioni Unite, di una delle istituzioni specializzate o dell'Agenzia internazionale dell'energia atomica o parti dello Statuto della Corte internazionale di giustizia, potranno essere autorizzati ad aderire alla presente Convenzione.
 
@@ -233,15 +233,15 @@ La presente Convenzione e' aperta alla firma ed alla ratifica degli Stati arabi 
 
 4\. Tale procedura non potra' essere applicata se la maggioranza degli Stati di cui all'articolo 15 non avra' ratificato la presente Convenzione.
 
-### ARTICOLO 17
+## ARTICOLO 17
 
 La ratifica della presente Convenzione o l'adesione ad essa avverra' mediante il deposito di uno strumento di ratifica o di adesione presso il Direttore generale dell'Organizzazione delle Nazioni Unite per l'educazione, la scienza e la cultura.
 
-### ARTICOLO 18
+## ARTICOLO 18
 
 La presente Convenzione entrera' in vigore un mese dopo il deposito del secondo strumento di ratifica, ma unicamente nei confronti degli Stati che avranno depositato i propri strumenti di ratifica. Essa entrera' in vigore, per ogni altro Stato, un mese dopo il deposito del proprio strumento di ratifica o di adesione.
 
-### ARTICOLO 19
+## ARTICOLO 19
 
 1\. Gli Stati contraenti hanno la facolta' di denunciare la presente Convenzione.
 
@@ -249,15 +249,15 @@ La presente Convenzione entrera' in vigore un mese dopo il deposito del secondo 
 
 3\. La denuncia acquista efficacia dodici mesi dopo la ricezione dello strumento di denuncia. Tuttavia le persone che abbiano beneficiato del dispositivo della presente Convenzione, che fossero in corso di studi sul territorio di uno Stato contraente che denuncia la Convenzione, potranno terminare il ciclo di studi iniziato.
 
-### ARTICOLO 20
+## ARTICOLO 20
 
 La presente Convenzione non pregiudichera' in alcun modo i trattati e le convenzioni gia' in vigore fra gli Stati contraenti, ne' le legislazioni nazionali da essi adottate, nella misura in cui offrono dei vantaggi maggiori di quelli previsti dalla presente Convenzione.
 
-### ARTICOLO 21
+## ARTICOLO 21
 
 Il Direttore generale dell'Organizzazione delle Nazioni Unite per l'educazione, la scienza e la cultura informera' gli Stati contraenti e gli altri Stati di cui ai precedenti articoli 15 e 16, nonche' l'Organizzazione delle Nazioni Unite, del deposito di tutti gli strumenti di ratifica o di adesione di cui all'articolo 17 nonche' delle denunce previste dall'articolo 19 della presente Convenzione.
 
-### ARTICOLO 22
+## ARTICOLO 22
 
 Conformemente all'articolo 102 della Carta delle Nazioni Unite, la presente Convenzione verra' registrata presso il Segretariato delle Nazioni Unite a richiesta del Direttore generale dell'Organizzazione delle Nazioni Unite per l'educazione, la scienza e la cultura.
 

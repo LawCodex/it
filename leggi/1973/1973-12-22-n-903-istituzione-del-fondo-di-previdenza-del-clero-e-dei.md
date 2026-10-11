@@ -28,7 +28,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 (Unificazione dei fondi del clero e dei ministri di culto delle
 
@@ -46,11 +46,11 @@ Ogni cinque anni l'Istituto provvede alla compilazione del bilancio tecnico del 
 
 Il Fondo subentra nelle attivita' e passivita', negli oneri e nei diritti, nonche' nel patrimonio, nelle riserve comunque costituite ed in quanto altro di pertinenza dei fondi gia' istituiti con le leggi in data 5 luglio 1961, numeri 579 e 580 e soppressi per effetto dell'articolo 28 della presente legge.
 
-### Art. 2 - Scopi del Fondo
+## Art. 2 - Scopi del Fondo
 
 Il Fondo ha lo scopo di concedere una pensione diretta all'iscritto che abbia compiuto il 65° anno di eta' o sia divenuto permanentemente invalido ed una pensione indiretta o di riversibilita' ai superstiti dell'iscritto o pensionato del Fondo stesso, secondo le disposizioni e con le modalita' di cui all'articolo 14.
 
-### Art. 3 - Comitato di vigilanza e suoi compiti
+## Art. 3 - Comitato di vigilanza e suoi compiti
 
 Per la gestione del Fondo e' istituito un comitato di vigilanza con i seguenti compiti:
 
@@ -60,7 +60,7 @@ b) decidere i ricorsi in via definitiva;
 
 c) esprimere parere sui provvedimenti necessari per conservare l'equilibrio tecnico-finanziario del Fondo nonche' sui bilanci preventivi annuali, sui rendiconti annuali e sui bilanci tecnici.
 
-### Art. 4 - Composizione del comitato di vigilanza
+## Art. 4 - Composizione del comitato di vigilanza
 
 L'articolo 27 del decreto del Presidente della Repubblica 30 aprile 1970, n. 639, e' sostituito dal seguente:
 
@@ -78,7 +78,7 @@ I membri del comitato di vigilanza sono nominati con decreto del Ministro per il
 
 L'articolo 28 del decreto del Presidente della Repubblica 30 aprile 1970, n. 639, e' abrogato.
 
-### Art. 5 - Soggetti all'obbligo dell'iscrizione al Fondo
+## Art. 5 - Soggetti all'obbligo dell'iscrizione al Fondo
 
 Sono soggetti all'obbligo dell'iscrizione al Fondo tutti i sacerdoti secolari, nonche' tutti i ministri di culto delle confessioni religiose diverse dalla cattolica aventi cittadinanza italiana, residenti in Italia, dal momento della loro ordinazione sacerdotale o dall'inizio del ministero di culto in Italia fino alla data di decorrenza della pensione di vecchiaia ovvero della pensione di invalidita'.
 
@@ -98,7 +98,7 @@ Sono esclusi dall'assicurazione generale obbligatoria per l'invalidita', la vecc
 
 La disposizione di cui al precedente comma non si applica nei confronti dei sacerdoti secolari i quali, pur esplicando attivita' all'interno dell'ordinamento canonico, risultano iscritti alla predetta assicurazione generale obbligatoria alla data di entrata in vigore della presente legge.
 
-### Art. 6 - Contributo a carico degli iscritti
+## Art. 6 - Contributo a carico degli iscritti
 
 Il Fondo e' alimentato dal contributo annuo obbligatoriamente dovuto da ogni iscritto per tutto il tempo per il quale dura l'obbligo dell'iscrizione, nonche' dal contributo dello Stato di cui al successivo articolo 21.(10)
 
@@ -126,7 +126,7 @@ AGGIORNAMENTO (22)
 
 Il Decreto 30 settembre 2010, (in G.U. 5/11/2010, n. 259), ha disposto (con l'art. 1, comma 1) che "Il contributo a carico degli iscritti al Fondo di previdenza del clero e dei ministri di culto delle confessioni religiose diverse dalla cattolica, e' aumentato, a decorrere dal 1° gennaio 2009, da ? 1.519,08 a ? 1.570,74 annui".
 
-### Art. 7 - Modalita' di pagamento del contributo
+## Art. 7 - Modalita' di pagamento del contributo
 
 Al pagamento dei contributi si provvede con le seguenti modalita':
 
@@ -142,7 +142,7 @@ In tutti i casi di ritardato pagamento del contributo o delle singole rate di es
 
 Le curie vescovili e gli organi esecutivi delle confessioni religiose sono tenuti a fornire, a richiesta, allo Istituto nazionale della previdenza sociale, i dati e gli elementi occorrenti per l'applicazione della presente legge.
 
-### Art. 8 - Sospensione dell'iscrizione al Fondo
+## Art. 8 - Sospensione dell'iscrizione al Fondo
 
 Per i sacerdoti ed i ministri di culto delle confessioni religiose diverse dalla cattolica a suo tempo autorizzati a sospendere i versamenti contributivi ai fondi istituiti con le leggi 5 luglio 1961, n. 579, e n. 580, per aver ininterrottamente contribuito rispettivamente dal 1 luglio 1959 e dal 1 luglio 1960 all'assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti, gestita dall'Istituto nazionale della previdenza sociale, in costanza di rapporto di lavoro, permane la sospensione dell'iscrizione al Fondo per tutto il periodo di ininterrotto versamento dei contributi nella predetta assicurazione.
 
@@ -150,7 +150,7 @@ I sacerdoti ed i ministri di culto delle confessioni religiose diverse dalla cat
 
 I sacerdoti ed i ministri di culto delle confessioni religiose diverse dalla cattolica i quali durante il corso della sospensione dell'iscrizione al Fondo ottengono la concessione di una pensione a carico dell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti o di altre forme di previdenza sostitutive di questa ultima o che ne comportino l'esclusione o l'esonero, sono esenti dall'obbligo di iscrizione al Fondo medesimo.
 
-### Art. 9 - Prosecuzione volontaria dell'iscrizione al Fondo
+## Art. 9 - Prosecuzione volontaria dell'iscrizione al Fondo
 
 L'iscritto nei confronti del quale e' venuto a cessare, per qualsiasi causa, l'obbligo della iscrizione al Fondo, puo' proseguire l'iscrizione medesima, mediante il versamento di contributi volontari.
 
@@ -158,17 +158,17 @@ La relativa domanda deve essere presentata entro cinque anni dalla cessazione de
 
 La facolta' di contribuire volontariamente ai sensi del presente articolo, puo' essere esercitata a decorrere dal primo giorno del mese successivo alla data di presentazione della domanda, previa autorizzazione dell'Istituto nazionale della previdenza sociale.
 
-### Art. 10 - Contributo dovuto per la prosecuzione volontaria
+## Art. 10 - Contributo dovuto per la prosecuzione volontaria
 
 Gli iscritti ammessi alla prosecuzione volontaria sono tenuti al versamento del relativo contributo con le modalita' di cui alla lettera b) dell'articolo 7 e nell'importo previsto al precedente articolo 6.
 
-### Art. 11 - Requisiti per il diritto alla pensione di vecchiaia
+## Art. 11 - Requisiti per il diritto alla pensione di vecchiaia
 
 Il diritto alla pensione di vecchiaia si acquista, a domanda, quando in favore dell'iscritto risultino versati al Fondo almeno dieci contributi annui e l'iscritto stesso abbia compiuto il 65° anno di eta'.
 
 Ai fini del diritto alla pensione e della misura di essa, la frazione di un anno di contribuzione superiore a sei mesi si computa come un anno intero e non si computa se uguale o inferiore.
 
-### Art. 12 - Requisiti per il diritto alla pensione di invalidita'
+## Art. 12 - Requisiti per il diritto alla pensione di invalidita'
 
 Il diritto alla pensione di invalidita' si acquista, a domanda, quando siano trascorsi almeno 5 anni dalla data iniziale dell'iscrizione al Fondo e siano stati versati al Fondo stesso almeno 5 contributi annui.
 
@@ -182,17 +182,17 @@ La continuazione dell'attivita' di sacerdote o di ministro di culto da parte del
 
 Ai fini del diritto alla pensione e della misura di essa, la frazione di un anno di contribuzione superiore ai sei mesi si computa come anno intero e non si computa se uguale o inferiore.
 
-### Art. 13 - Pensione di invalidita' ai sacerdoti ridotti allo stato laicale e ai ministri di culto delle confessioni religiose diverse dalla cattolica esonerati dalle funzioni
+## Art. 13 - Pensione di invalidita' ai sacerdoti ridotti allo stato laicale e ai ministri di culto delle confessioni religiose diverse dalla cattolica esonerati dalle funzioni
 
 La pensione di invalidita' spetta anche all'iscritto ridotto allo stato laicale o esonerato dalle funzioni di ministro di culto che abbia i requisiti di contribuzione previsti dal primo comma del precedente articolo 12 e che sia stato riconosciuto invalido ai sensi delle norme in vigore nell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti dei lavoratori dipendenti.
 
-### Art. 14 - Requisiti per la pensione ai superstiti
+## Art. 14 - Requisiti per la pensione ai superstiti
 
 La pensione di riversibilita' spetta, a domanda, ai superstiti del pensionato del Fondo o dell'iscritto che, al momento del decesso, abbia versato al Fondo stesso almeno 5 contributi annui. La pensione decorre dal 1 gennaio 1973.
 
 Per quanto concerne i soggetti e i requisiti per il diritto alla pensione di cui al precedente comma, fatti salvi quelli di contribuzione e di anzianita' assicurativa, si applicano le norme in vigore per le pensioni ai superstiti a carico dell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti.
 
-### Art. 15 - Importi delle pensioni
+## Art. 15 - Importi delle pensioni
 
 La pensione di vecchiaia e' costituita da una quota minima di lire 325.000 annue e decorre dal 1° gennaio 1971. A decorrere dal 10 luglio 1972, il trattamento minimo e' elevato a lire 416.000 annue.
 
@@ -208,13 +208,13 @@ Gli importi annui delle pensioni di vecchiaia, di invalidita', ed ai superstiti,
 
 Gli importi mensili delle pensioni sono arrotondati a lire cinquanta.
 
-### Art. 16 - Maggiorazione della pensione di vecchiaia per effetto del differimento dell'eta' di pensionamento
+## Art. 16 - Maggiorazione della pensione di vecchiaia per effetto del differimento dell'eta' di pensionamento
 
 Qualora la domanda di pensione di vecchiaia sia presentata dopo trascorso almeno un anno intero dalla data di conseguimento dei requisiti previsti dal precedente articolo 11, l'importo minimo della pensione viene maggiorato secondo i coefficienti previsti per le eta' superiori a 65 anni nella tabella D allegata alla legge 11 agosto 1972, n. 485, relativa all'assicurazione generale obbligatoria.
 
 I contributi versati successivamente alla data di conseguimento dei requisiti di cui al citato articolo 11, danno luogo ad un incremento della pensione in misura pari a lire 18.200 per ogni anno di contribuzione successiva al conseguimento dei suddetti requisiti.
 
-### Art. 17 - Decorrenza delle pensioni
+## Art. 17 - Decorrenza delle pensioni
 
 La pensione di vecchiaia o di invalidita', al verificarsi delle condizioni previste dalla presente legge, decorre dal primo giorno del mese successivo a quello di presentazione della relativa domanda.
 
@@ -222,7 +222,7 @@ La pensione ai superstiti di cui al precedente articolo 14 decorre dal primo gio
 
 Le pensioni a carico del Fondo sono erogate con le modalita' in vigore per le altre pensioni corrisposte dall'Istituto nazionale della previdenza sociale.
 
-### Art. 18 - Determinazione delle pensioni per gli iscritti a piu' forme di previdenza
+## Art. 18 - Determinazione delle pensioni per gli iscritti a piu' forme di previdenza
 
 Le pensioni a carico del Fondo, ivi comprese quelle liquidate nella misura minima di cui al precedente articolo 15, al netto della maggiorazione calcolata ai sensi del precedente articolo 16 non sono cumulabili, nella misura di un terzo del loro importo, con le pensioni a carico dell'assicurazione generale obbligatoria per in validita', la vecchiaia ed i superstiti ovvero di trattamenti di previdenza sostitutivi di quest'ultima o che ne comportino l'esclusione o l'esonero. Qualora per effetto della riduzione di cui al presente comma il trattamento complessivo risulti inferiore alla pensione dovuta dal Fondo, il trattamento medesimo e' integrate dal Fondo stesso fino a raggiungere l'importo della pensione suddetta.
 
@@ -236,7 +236,7 @@ Qualora la pensione a carico dell'assicurazione generale obbligatoria per l'inva
 
 Le disposizioni di cui al presente articolo, si applicano, a domanda, anche a favore dei sacerdoti e dei ministri di culto i quali, pur avendo perfezionato i requisiti per il diritto a pensione secondo le norme preesistenti, non hanno liquidato la pensione stessa; la domanda deve essere presentata entro il termine di tre anni dalla data di entrata in vigore della presente legge.
 
-### Art. 19
+## Art. 19
 
 (Pensione supplementare per contributi versati
 
@@ -246,7 +246,7 @@ vecchiaia ed i superstiti)
 
 Qualora l'iscritto possa far valere contributi versati o accreditati nell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti non sufficienti per il diritto a pensione autonoma, i medesimi danno luogo alla liquidazione di una pensione supplementare con le norme che disciplinano la predetta assicurazione.
 
-### Art. 20 - Perequazione automatica delle pensioni
+## Art. 20 - Perequazione automatica delle pensioni
 
 A decorrere dall'anno 1972, gli importi delle pensioni a carico del Fondo vigenti al 1 gennaio di ciascun anno, ivi compresi i trattamenti minimi, sono aumentati in misura pari a quella stabilita in applicazione della disciplina sulla perequazione automatica delle pensioni a carico dell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti.
 
@@ -256,7 +256,7 @@ Gli importi minimi delle pensioni stabiliti all'articolo 15 seguiranno automatic
 
 Con la stessa decorrenza dell'aumento delle pensioni di cui al primo comma del presente articolo, il contributo a carico degli iscritti e aumentato con decreto del Ministro per il lavoro e la previdenza sociale, di concerto con il Ministro per il tesoro, in misura pari all'aumento percentuale che ha dato luogo alle variazioni degli importi delle pensioni.
 
-### Art. 21 - Contributo a carico dello Stato
+## Art. 21 - Contributo a carico dello Stato
 
 Agli oneri del Fondo per l'applicazione della presente legge, lo Stato concorre con un contributo straordinario di lire 4.120.000.000.
 
@@ -492,7 +492,7 @@ AGGIORNAMENTO (35)
 
 Il Decreto 12 giugno 2025 (in G.U. 23/07/2025, n. 169) ha disposto (con l'articolo unico, comma 1) che "Il contributo a carico dello Stato di cui all'art. 21, secondo comma, della legge 22 dicembre 1973, n. 903, a valere sul capitolo 4356 dello stato di previsione del Ministero del lavoro e delle politiche sociali - Centro di responsabilita' «Dipartimento per le politiche del lavoro, previdenziali, assicurative e per la salute e sicurezza nei luoghi di lavoro» - Missione 25 «Politiche previdenziali» - Programma 3 «Previdenza obbligatoria e complementare, assicurazioni sociali», e' aumentato, a decorrere dal 1° gennaio 2024, da euro 9.083.145,06 ad euro 9.573.634,89".
 
-### Art. 22 - Copertura della spesa
+## Art. 22 - Copertura della spesa
 
 All'onere di lire 4.120.000.000 derivante dal primo comma del precedente articolo 21 si provvede a carico dello stanziamento del capitolo n. 3523 dello stato di previsione della spesa del Ministero del tesoro per l'anno finanziario 1971, intendendosi all'uopo prorogato il termine di utilizzo delle dette disponibilita' indicato dalla legge 27 febbraio 1955, n. 64.
 
@@ -504,7 +504,7 @@ Il Ministro per il tesoro e' autorizzato ad apportare, con propri decreti, le oc
 
 ## NORME FINALI E TRANSITORIE
 
-### Art. 23
+## Art. 23
 
 (Sacerdoti ridotti allo stato laicale e ministri di culto
 
@@ -518,7 +518,7 @@ La relativa domanda deve essere presentata entro cinque anni dalla data suddetta
 
 Per la regolarizzazione contributiva di periodi pregressi sono dovuti gli interessi al tasso legale.
 
-### Art. 24
+## Art. 24
 
 (Sacerdoti trasferitisi fuori del territorio italiano od
 
@@ -534,7 +534,7 @@ Analoga facolta' spetta al sacerdote secolare che entra a far parte di un ordine
 
 Per la regolarizzazione contributiva dei periodi pregressi sono dovuti gli indennizzi al tasso legale.
 
-### Art. 25
+## Art. 25
 
 (Pensione di vecchiaia ai sacerdoti non congruati ed ai ministri di
 
@@ -542,7 +542,7 @@ culto delle confessioni religiose diverse dalla cattolica, non iscritti al Fondo
 
 I sacerdoti ed i ministri di culto delle confessioni religiose diverse dalla cattolica, non iscritti al Fondo per aver compiuto il 700 anno di eta' alle date rispettivamente del 1 luglio 1959 e del 1 luglio 1960, hanno diritto, a domanda, alla liquidazione di una pensione di vecchiaia nella misura di lire 325.000 annue, oltre agli ulteriori incrementi di cui al precedente articolo 20.
 
-### Art. 26
+## Art. 26
 
 (Rivalutazione delle pensioni liquidate con
 
@@ -550,7 +550,7 @@ le precedenti leggi)
 
 Le disposizioni di cui al precedente articolo 15, si applicano anche nei confronti delle pensioni di invalidita' e di vecchiaia in corso di godimento alla data di entrata in vigore della presente legge.
 
-### Art. 27
+## Art. 27
 
 (Rinvio ad alcune norme in vigore nell'assicurazione
 
@@ -562,7 +562,7 @@ Si applicano al Fondo disciplinato dalla presente legge, ai contributi ad esso d
 
 Si applicano altresi' le norme dell'assicurazione predetta che regolano i termini e le modalita' per la presentazione e la decisione dei ricorsi e per la proposizione delle azioni dirette a conseguire le prestazioni, nonche' quelle relative alla prescrizione dei contributi e delle prestazioni.
 
-### Art. 28
+## Art. 28
 
 (Abrogazione delle leggi istitutive del Fondo per l'assicurazione
 
@@ -572,7 +572,7 @@ religiose diverse dalla cattolica)
 
 Sono abrogate le leggi 5 luglio 1961, n. 579 e n. 580.
 
-### Art. 29 - Entrata in vigore della legge
+## Art. 29 - Entrata in vigore della legge
 
 La presente legge entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
@@ -590,7 +590,7 @@ Visto, il Guardasigilli: ZAGARI
 
 ## NORME FINALI E TRANSITORIE
 
-### Tabella
+## Tabella
 
 TABELLA
 

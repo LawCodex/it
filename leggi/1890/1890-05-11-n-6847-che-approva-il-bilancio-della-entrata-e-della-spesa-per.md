@@ -31,7 +31,7 @@ Noi abbiamo sanzionato e promulghiamo quanto segue:
 
 ## Entrate e spese di competenza dell'esercizio finanziario 1888-89.
 
-### Art. 1
+## Art. 1
 
 Le entrate ordinarie e straordinarie del bilancio accertate nell'esercizio finanziario 1888-89 per la competenza propria dell'esercizio stesso sono stabilite, quali risultano dal conto consuntivo del bilancio, in lire mille ottocentosessantaseimilioni seicentosettantamila ventotto e centesimi novantotto . . . . . . .
 
@@ -42,7 +42,7 @@ Le entrate ordinarie e straordinarie del bilancio accertate nell'esercizio finan
  -----------------
 ```
 
-### Art. 2
+## Art. 2
 
 Le spese ordinarie e straordinarie del bilancio accertate nell'esercizio finanziario 1888-89 per la competenza propria dell'esercizio stesso sono stabilite, quali risultano dal conto consuntivo del bilancio, in lire duemila novantasettemilioni centotrentunmila centoquindici e centesimi sette L. 2,097,131,115 07 delle quali furono pagate. . . . . . . . . . . » 1,695,745,660 18
 
@@ -51,13 +51,13 @@ Le spese ordinarie e straordinarie del bilancio accertate nell'esercizio finanzi
  -----------------
 ```
 
-### Art. 3
+## Art. 3
 
 Sono convalidate nella somma di lire tremilioni dodicimila ottocentoventidue e cent. settantaquattro (L. 3,012,822 74) le reintegrazioni di fondi a diversi capitoli del bilancio dell'esercizio finanziario 1888-89, per le spese di competenza dell'esercizio stesso, in seguito a corrispondenti versamenti in tesoreria.
 
 ## Entrate e spese residue dell'esercizio 1887-88 ed esercizi precedenti.
 
-### Art. 4
+## Art. 4
 
 Le entrate rimaste da riscuotere alla chiusura dell'esercizio 1887-88 restano determinate, come dal conto consuntivo del bilancio, in lire trecentotrentacinquemilioniottocentotrentaseimilaottocentotrentanove e centesimi novanta . . . . . . . . . . . . . L. 335,836,839.90
 
@@ -69,7 +69,7 @@ delle quali furono riscosse. . . . . . . . . » 279,304,168.83
  ------------------
 ```
 
-### Art. 5
+## Art. 5
 
 Le spese rimaste da pagare alla chiusura dell'esercizio 1887-88 restano determinate, come dal conto consuntivo del bilancio, in lire quattrocentotrentottomilionicinquecentosessantacinquemilacinquecento e cent. ottanta . . . . . . . . . . . . . . . L. 438,565,500.80
 
@@ -93,13 +93,13 @@ fondo metallico in tesoreria di » 10,958,823. »
  ------------------
 ```
 
-### Art. 6
+## Art. 6
 
 Sono convalidate nella somma di lire tremilionitre-centonovantaseimilacinquantasette e centesimi ottantotto (L. 3,396,057.88) le reintegrazioni di fondi a diversi capitoli del bilancio dell'esercizio finanziario 1888-89, in conto di spese residue degli esercizi precedenti, in seguito a corrispondenti versamenti in tesoreria.
 
 ## Resti attivi e passivi alla chiusura dell'esercizio finanziario 1888-89.
 
-### Art. 7
+## Art. 7
 
 I resti attivi alla chiusura dell'esercizio finanziario 1888-89 sono stabiliti, come dal conto consuntivo del bilancio, in lire duecentoventiquattromilioniottocentosettantanovemila
 
@@ -123,7 +123,7 @@ Residui attivi al 30 giugno 1889. . . . . . . L. 224,879,988.05
 
 ------------------
 
-### Art. 8
+## Art. 8
 
 I resti passivi alla chiusura dell'esercizio finanziario 1888-89 sono stabiliti, come dal conto consuntivo del bilancio, in lire cinquecentosettantunmilionitredicimilasettecentoventidue e centesimi cinquantatre cioe':
 
@@ -157,13 +157,13 @@ generale del conto consuntivo del bilancio . .L. 571,013,722.53
 
 ## Operazioni fuori bilancio.
 
-### Art. 9
+## Art. 9
 
 Sono stabiliti nella somma di lire centotrentanovemila settecentosettantatre e centesimi ventiquattro (L. 139,773.24) i discarichi accordati nell'esercizio 1888-89 ai tesorieri per casi di forza maggiore, in seguito a decreti ministeriali emessi in base all'art. 225 del regolamento di contabilita' generale approvato col regio decreto 4 maggio 1885, n. 3074.
 
 ## Situazione finanziaria.
 
-### Art. 10
+## Art. 10
 
 Il deficit del conto del tesoro, ascendente al 30 giugno 1888 a lire duecentosessantatremilioninovecentosessantanovemila ottocentoventi e centesimi novantasette (L. 263,969,820.97), e' accertato alla fine dell'esercizio finanziario 1888-89 nella somma di lire cinquecentoduemilioniduecentosettantasettemilacentododici e centesimi ottantasette (L. 502,277,112.87), come dalla seguente dimostrazione:
 
@@ -211,7 +211,7 @@ Spese dell'esercizio finanziario 1888-89 . . . » 2,097,131,115.07
 
 ## Amministrazione del fondo per il culto.
 
-### Art. 11
+## Art. 11
 
 Le entrate ordinarie e straordinarie del bilancio dell'amministrazione del fondo per il culto, accertate nell'esercizio finanziario 1888-89 per la competenza propria dell'esercizio medesimo sono stabilite, quali risultano dal conto consuntivo dell'amministrazione stessa, allegato al conto del Ministero di grazia e giustizia, in lire ventottomilionicinquecentocinquantunmiladuecentonovantasei e centesimi dodici . . . . . . . . . . . . . . . L. 28,551,296.12
 
@@ -222,7 +222,7 @@ delle quali furono riscosse . . . . . . . . . .» 17,903,947.84
  ------------------
 ```
 
-### Art. 12
+## Art. 12
 
 Le spese ordinarie e straordinarie del bilancio dell'amministrazione predetta, accertate nell'esercizio finanziario 1888-89 per la competenza propria dell'esercizio stesso, sono stabilite in lire venticinquemilioniottocentottantaseimila cinquecentottantanove e cent. sessantasette. . . . L. 25,886,589.67 delle quali furono pagate . . . . . . . . . . . » 19,556,138.91
 
@@ -231,7 +231,7 @@ Le spese ordinarie e straordinarie del bilancio dell'amministrazione predetta, a
  ------------------
 ```
 
-### Art. 13
+## Art. 13
 
 Le entrate rimaste da riscuotere alla chiusura dell'esercizio 1887-88 restano determinate in lire quarantaduemilionisessantasettemilaventotto e cent. ventinove . .
 
@@ -242,7 +242,7 @@ Le entrate rimaste da riscuotere alla chiusura dell'esercizio 1887-88 restano de
  ------------------
 ```
 
-### Art. 14
+## Art. 14
 
 Le spese rimaste da pagare alla chiusura dell'esercizio 1887-88 restano determinate in L. trentaseimilioniseicentocinquantasettemiladuecentocinquantacinque
 
@@ -253,7 +253,7 @@ Le spese rimaste da pagare alla chiusura dell'esercizio 1887-88 restano determin
  ------------------
 ```
 
-### Art. 15
+## Art. 15
 
 I resti attivi alla chiusura dell'esercizio finanziario 1887-88 sono stabiliti in lire quarantaquattromilioniduecentoseimila settantotto e centesimi settantuno, cioe':
 
@@ -272,7 +272,7 @@ Somme riscosse e non versate . . . . . . . . . .» 288,452.24
  ------------------
 ```
 
-### Art. 16
+## Art. 16
 
 I resti passivi alla chiusura dell'esercizio finanziario 1888-89 sono stabiliti in lire trentasettemilionicinquecentoventiseimilanovecentoquarantanove e centesimi sessantotto, cioe':
 
@@ -289,7 +289,7 @@ degli esercizi precedenti (art. 14) . . . . . . » 31,196,498.92
  ------------------
 ```
 
-### Art. 17
+## Art. 17
 
 E' accertata nella somma di lire novemilionicentoquarantaduemilacentoventitre e cent. ottantasei (L.
 
@@ -334,7 +334,7 @@ Differenza attiva al 30 giugno 1889 . . . . . . . » 9,142,123.86
 
 ## Stralcio dell'asse ecclesiastico e fondo speciale per usi di beneficenza e di religione nella città di Roma.
 
-### Art. 18
+## Art. 18
 
 Le entrate ordinarie e straordinarie del bilancio dello stralcio dell'asse ecclesiastico e fondo speciale per usi di beneficenza e di religione nella citta' di Roma, accertate nell'esercizio finanziario 1888-89 per la competenza propria dell'esercizio medesimo, sono stabilite, quali risultano dal conto consuntivo di quella amministrazione, allegato al conto del Ministero di grazia e giustizia, in lire tremi-lionicinquecentoquarantottomilanovantasei e centesimi ventisei . . . . . . . . . . . L. 3,548,096.26
 
@@ -345,7 +345,7 @@ delle quali furono riscosse. . . . . . . . . . . » 2,367,683.57
  ----------------
 ```
 
-### Art. 19
+## Art. 19
 
 Le spese ordinarie e straordinarie del bilancio dell'amministrazione predetta, accertate nell'esercizio finanziario 1888-89 per la competenza propria dell'esercizio medesimo sono stabilite in lire tremilionicinquecentosessantasettemiladuecentoquattro e centesimi trentanove ... L. 3,567,204.39
 
@@ -356,7 +356,7 @@ delle quali furono pagate . . . . . . . . . . . . » 2,775,222.47
  ----------------
 ```
 
-### Art. 20
+## Art. 20
 
 Le entrate rimaste da riscuotere alla chiusura dell'esercizio 1887-88 restano determinate in lire unmilioneduecentonovantanovemiladuecentuna e centesimi quattordici .
 
@@ -369,7 +369,7 @@ delle quali furono riscosse . . . . . . . . . . . » 1,152,926 47
  ----------------
 ```
 
-### Art. 21
+## Art. 21
 
 Le spese rimaste da pagare alla chiusura dell'esercizio 1887-88 restano determinate in lire unmilione centosessantasettemila trecentosessantaquattro e centesimi sessantaquattro L. 1,167,364 64 delle quali furono pagate . . . . . . . . . . . . » 454,177 44
 
@@ -378,7 +378,7 @@ Le spese rimaste da pagare alla chiusura dell'esercizio 1887-88 restano determin
  ----------------
 ```
 
-### Art. 22
+## Art. 22
 
 I resti attivi alla chiusura dell'esercizio finanziario 1888-89 sono stabiliti in lire un milione trecentotrentamila seicentodicianove e centesimi sessantatre, cioe':
 
@@ -397,7 +397,7 @@ Somme riscosse e non versate . . . . . . . . . . . » 3,932 27
  ----------------
 ```
 
-### Art. 23
+## Art. 23
 
 I resti passivi alla chiusura dell'esercizio finanziario 1888-89 sono stabiliti in lire unmilione cinquecentocinquemila centosessantanove e centesimi dodici, cioe':
 
@@ -412,7 +412,7 @@ degli esercizi precedenti (art. 21) . . . . . . . .» 713,187 20
  ----------------
 ```
 
-### Art. 24
+## Art. 24
 
 E' accertata nella somma di lire quattrocentosessantottomila novecentoquarantasei e centesimi quarantaquattro (L. 468,946 44) la differenza attiva del conto finanziario dello stralcio dell'Asse ecclesiastico e del Fondo speciale per usi di beneficenza e di religione nella citta' di Roma alla fine dell'esercizio finanziario 1888-89, risultante dai seguenti dati:
 

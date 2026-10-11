@@ -88,7 +88,7 @@ Noi abbiamo sanzionato e promulghiamo quanto segue:
 
 ((ARTICOLO ABROGATO DAL D.P.R. 27 APRILE 2006, N. 204))
 
-## Capo II. - Attribuzioni del Consiglio superiore.
+### Capo II. - Attribuzioni del Consiglio superiore.
 
 #### Art. 14
 

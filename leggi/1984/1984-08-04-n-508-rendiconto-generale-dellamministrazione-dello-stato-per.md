@@ -27,7 +27,7 @@ la seguente legge:
 
 ## AMMINISTRAZIONI DELLO STATO
 
-### Art. 1 - Entrate
+## Art. 1 - Entrate
 
 Le entrate tributarie, extratributarie, per alienazione ed ammortamento di beni patrimoniali e riscossione di crediti, e per accensione di prestiti, accertate nell'esercizio finanziario 1982 per la competenza propria dell'esercizio, risultano stabilite in lire 201.061.657.621.836.
 
@@ -37,7 +37,7 @@ I residui attivi al 31 dicembre 1982 ammontano complessivamente a lire 26.824.16
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 2 - Spese
+## Art. 2 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti, impegnate nell'esercizio finanziario 1982 per la competenza propria dell'esercizio, risultano stabilite in lire 235.166.684.693.575.
 
@@ -47,13 +47,13 @@ I residui passivi al 31 dicembre 1982 ammontano complessivamente a lire 64.772.8
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 3 - Disavanzo della gestione di competenza
+## Art. 3 - Disavanzo della gestione di competenza
 
 Il disavanzo della gestione di competenza dell'esercizio finanziario 1982 di lire 34.105.027.071.739 risulta stabilito come segue:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 4 - Situazione finanziaria
+## Art. 4 - Situazione finanziaria
 
 Il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 1982 di lire 214.648.237.074.458 risulta stabilito come segue:
 
@@ -61,11 +61,11 @@ Il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 1982 di l
 
 ## DISPOSIZIONI SPECIALI
 
-### Art. 5 - Prelevamenti dal Fondo di riserva per le spese impreviste
+## Art. 5 - Prelevamenti dal Fondo di riserva per le spese impreviste
 
 E' approvato l'allegato di cui all'articolo 9, ultimo comma, della legge 5 agosto 1978, n. 468, concernente i prelevamenti dal Fondo di riserva per le spese impreviste per l'anno 1982.
 
-### Art. 6 - Eccedenze
+## Art. 6 - Eccedenze
 
 Sono approvate le eccedenze di impegni e di pagamenti risultate in sede di consuntivo rispettivamente sul conto della competenza, sul conto dei residui e sul conto della cassa, relative ai capitoli degli stati di previsione della spesa dei Ministeri sotto indicati per l'esercizio 1982, come risulta dal dettaglio che segue:
 
@@ -513,7 +513,7 @@ fissi al personale
 
 ## AZIENDE SPECIALI ED AUTONOME - GESTIONE DELL'EX AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### Art. 7 - Entrate
+## Art. 7 - Entrate
 
 Le entrate correnti ed in conto capitale del bilancio della gestione dell'ex Azienda di Stato per le foreste demaniali, accertate nell'esercizio finanziario 1982 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo della gestione stessa, allegato al conto consuntivo del Ministero dell'agricoltura e delle foreste, in lire 17.110.674.237.
 
@@ -523,7 +523,7 @@ I residui attivi al 31 dicembre 1982 ammontano complessivamente a lire 7.021.469
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 8 - Spese
+## Art. 8 - Spese
 
 Le spese correnti ed in conto capitale del bilancio della gestione predetta, impegnate nell'esercizio finanziario 1982 per la competenza propria dell'esercizio, risultano stabilite in lire 15.097.498.103.
 
@@ -547,7 +547,7 @@ esercizio 1981. . . 9.068.417.627 1.285.853.889 10.354.271.516
  =============
 ```
 
-### Art. 9 - Situazione finanziaria
+## Art. 9 - Situazione finanziaria
 
 La situazione finanziaria: della gestione dell'ex Azienda di Stato per le foreste demaniali alla fine dell'esercizio 1982 risulta come appresso:
 
@@ -555,13 +555,13 @@ La situazione finanziaria: della gestione dell'ex Azienda di Stato per le forest
 
 ## ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-### Art. 10 - Entrate
+## Art. 10 - Entrate
 
 Le entrate correnti del bilancio dell'Istituto agronomico per l'Oltremare, accertate nell'esercizio finanziario 1982 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Istituto stesso, allegato al conto consuntivo del Ministero degli affari esteri, in lire 1.205.209.490 interamente versate.
 
 Al 31 dicembre 1982 non risultano residui attivi.
 
-### Art. 11 - Spese
+## Art. 11 - Spese
 
 Le spese correnti del bilancio dell'Istituto predetto, impegnate nell'esercizio finanziario 1982 per la competenza propria dell'esercizio, risultano stabilite in lire 1.205.209.490.
 
@@ -587,7 +587,7 @@ esercizio 1981. . . 304.051.294 7.895.987 311.947.281
 
 ## AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-### Art. 12 - Entrate
+## Art. 12 - Entrate
 
 Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione autonoma dei monopoli di Stato, comprese quelle delle gestioni speciali, accertate nell'esercizio finanziario 1982 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero delle finanze, in lire 1.456.172.200.830.
 
@@ -597,7 +597,7 @@ I residui attivi al 31 dicembre 1982 ammontano complessivamente a lire 469.877.5
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 13 - Spese
+## Art. 13 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Amministrazione predetta, comprese quelle delle gestioni speciali, impegnate nell'esercizio 1982 per la competenza propria dell'esercizio, risultano stabilite in lire 1.456.172.200.830.
 
@@ -607,7 +607,7 @@ I residui passivi al 31 dicembre 1982 ammontano complessivamente a lire 291.642.
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 14 - Riassunto generale
+## Art. 14 - Riassunto generale
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione autonoma dei monopoli di Stato, di competenza dell'esercizio 1982, risulta cosi' stabilito:
 
@@ -619,7 +619,7 @@ Spese (escluse le gestioni speciali). . . . . L. 1.455.850.947.804 Spese delle g
 
 -------------------- L. 1.456.172.200.830 ====================
 
-### Art. 15 - Situazione finanziaria
+## Art. 15 - Situazione finanziaria
 
 La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dell'esercizio 1982, risulta come appresso:
 
@@ -641,7 +641,7 @@ Saldo passivo dell'esercizio 1981 . . . . . . . " 3.238.132
 
 ## ARCHIVI NOTARILI
 
-### Art. 16 - Avanzo
+## Art. 16 - Avanzo
 
 L'avanzo della gestione del bilancio degli Archivi notarili, per l'esercizio finanziario 1982 risulta stabilito come segue:
 
@@ -651,7 +651,7 @@ Entrate . . . . . . . . . . . . . . . . . . . . L. 96.525.210.614 Spese . . . . 
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-### Art. 17 - Entrate
+## Art. 17 - Entrate
 
 Le entrate correnti ed in conto capitale del bilancio dell'Amministrazione del fondo per il culto, accertate nell'esercizio finanziario 1982 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'interno, in lire 116.427.815.520.
 
@@ -661,7 +661,7 @@ I residui attivi al 31 dicembre 1982 ammontano complessivamente a lire 16.063.04
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 18 - Spese
+## Art. 18 - Spese
 
 Le spese correnti ed in conto capitale del bilancio dell'Amministrazione predetta, impegnate nell'esercizio 1982 per la competenza propria dell'esercizio, risultano stabilite in lire 116.580.217.598.
 
@@ -671,13 +671,13 @@ I residui passivi al 31 dicembre 1982 ammontano complessivamente a lire 13.025.5
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 19 - Situazione finanziaria
+## Art. 19 - Situazione finanziaria
 
 La situazione finanziaria dell'Amministrazione del fondo per il culto, alla fine dell'esercizio 1982, risulta come appresso:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 20 - Eccedenze
+## Art. 20 - Eccedenze
 
 Sono approvate le eccedenze di cassa risultate ai sottoindicati capitoli in sede di consuntivo per l'esercizio finanziario 1982:
 
@@ -715,7 +715,7 @@ bligatorie). . . . . . . . . . . . 12.563.977.821
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-### Art. 21 - Entrate
+## Art. 21 - Entrate
 
 Le entrate correnti ed in conto capitale del bilancio del Fondo di beneficenza e di religione nella citta' di Roma, accertate nell'esercizio finanziario 1982 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'interno, in lire 2.403.337.000.
 
@@ -725,7 +725,7 @@ I residui attivi al 31 dicembre 1982 ammontano complessivamente a lire 111.009.4
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art 22 - Spese
+## Art 22 - Spese
 
 Le spese correnti ed in conto capitale del bilancio dell'Amministrazione predetta, impegnate nell'esercizio finanziario 1982 per la competenza propria dell'esercizio, risultano stabilite in lire 2.662.840.822.
 
@@ -749,7 +749,7 @@ esercizio 1981. . . 822.705.288 211.318.237 1.034.023.525
  =============
 ```
 
-### Art. 23 - Situazione finanziaria
+## Art. 23 - Situazione finanziaria
 
 La situazione finanziaria del Fondo di beneficenza e di religione nella citta' di Roma alla fine dell'esercizio 1982 risulta come appresso:
 
@@ -804,7 +804,7 @@ dell'esercizio 1981. L. 259.503.822
 
 ## PATRIMONI RIUNITI EX ECONOMALI
 
-### Art. 24 - Entrate
+## Art. 24 - Entrate
 
 Le entrate correnti ed in conto capitale del bilancio dell'Azienda dei patrimoni riuniti ex economali, accertate nell'esercizio finanziario 1982 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero dell'interno, in lire 1.949.418.257.
 
@@ -814,7 +814,7 @@ I residui attivi al 31 dicembre 1982 ammontano complessivamente a lire 208.090.0
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 25 - Spese
+## Art. 25 - Spese
 
 Le spese correnti ed in conto capitale del bilancio dell'Azienda predetta, impegnate nell'esercizio finanziario 1982 per la competenza propria dell'esercizio, risultano stabilite in lire 1.982.605.214.
 
@@ -838,7 +838,7 @@ esercizio 1981. . . 276.697.258 551.512.678 828.209.936
  =============
 ```
 
-### Art. 26 - Situazione finanziaria
+## Art. 26 - Situazione finanziaria
 
 La situazione finanziaria dell'Azienda dei patrimoni riuniti ex economali, alla fine dell'esercizio 1982, risulta come appresso:
 
@@ -892,7 +892,7 @@ dell'esercizio 1981. L. 44.057.266
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE
 
-### Art. 27 - Entrate
+## Art. 27 - Entrate
 
 Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Azienda nazionale autonoma delle strade, accertate nell'esercizio finanziario 1982 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero dei lavori pubblici, in lire 2.752.977.853.363.
 
@@ -902,7 +902,7 @@ I residui attivi al 31 dicembre 1982 ammontano complessivamente a lire 3.263.907
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 28 - Spese
+## Art. 28 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Azienda predetta, impegnate nell'esercizio finanziario 1982 per la competenza propria dell'esercizio, risultano stabilite in lire 2.752.977.853.363.
 
@@ -914,7 +914,7 @@ I residui passivi al 31 dicembre 1982 ammontano complessivamente a lire 2.913.56
 
 ## AMMINISTRAZIONE AUTONOMA DELLE POSTE E DELLE TELECOMUNICAZIONI
 
-### Art. 29 - Entrate
+## Art. 29 - Entrate
 
 Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione delle poste e delle telecomunicazioni, accertate nell'esercizio finanziario 1982 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero delle poste e delle telecomunicazioni, in lire 6.207.334.936.278.
 
@@ -924,7 +924,7 @@ I residui attivi al 31 dicembre 1982 ammontano complessivamente a lire 5.125.939
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 30 - Spese
+## Art. 30 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Amministrazione predetta, impegnate nell'esercizio finanziario 1982 per la competenza propria dell'esercizio, risultano stabilite in lire 6.207.334.936.278.
 
@@ -934,7 +934,7 @@ I residui passivi al 31 dicembre 1982 ammontano complessivamente a lire 2.345.20
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 31 - Eccedenze
+## Art. 31 - Eccedenze
 
 Sono approvate le eccedenze di spesa sul conto della cassa risultate ai sottoindicati capitoli in sede di consuntivo per l'esercizio 1982:
 
@@ -986,7 +986,7 @@ zione di altri alloggi . . . . . . 119.657.377
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Art. 32 - Entrate
+## Art. 32 - Entrate
 
 Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Azienda di Stato per i servizi telefonici, accertate nell'esercizio finanziario 1982 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero delle poste e delle telecomunicazioni, in lire 1.317.206.849.698.
 
@@ -996,7 +996,7 @@ I residui attivi al 31 dicembre 1982 ammontano complessivamente a lire 242.191.1
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 33 - Spese
+## Art. 33 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Azienda predetta, impegnate nell'esercizio finanziario 1982 per la competenza propria dell'esercizio, risultano stabilite in lire 1.317.206.849.698.
 
@@ -1006,7 +1006,7 @@ I residui passivi al 31 dicembre 1982 ammontano complessivamente a lire 1.132.37
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 34 - Eccedenze
+## Art. 34 - Eccedenze
 
 E' approvata l'eccedenza di cassa di lire 8.035.790 risultata al capitolo n. 204 - Spese di trasporto e di dogana di materiali vari.
 
@@ -1016,7 +1016,7 @@ Spese di trasporto del personale nell'ambito delle sedi di servizio. Acquisto di
 
 ## AZIENDA AUTONOMA DELLE FERROVIE DELLO STATO
 
-### Art. 35 - Entrate
+## Art. 35 - Entrate
 
 Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Azienda autonoma delle ferrovie dello Stato, comprese quelle delle gestioni speciali ed autonome, accertate nell'esercizio finanziario 1982 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero dei trasporti, in lire 26.394.199.803.177.
 
@@ -1026,7 +1026,7 @@ I residui attivi al 31 dicembre 1982 ammontano complessivamente a lire 8.109.732
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 36 - Spese
+## Art. 36 - Spese
 
 Le spese correnti, in conto capitale e per rimborso, di prestiti del bilancio dell'Azienda predetta, comprese quelle delle gestioni speciali ed autonome, impegnate nell'esercizio finanziario 1982 per la competenza propria dell'esercizio, risultano stabilite in lire 26.394.199.803.177.
 
@@ -1036,7 +1036,7 @@ I residui passivi al 31 dicembre 1982 ammontano complessivamente a lire 9.553.57
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art 37 - Riassunto generale
+## Art 37 - Riassunto generale
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Azienda autonoma delle ferrovie dello Stato, di competenza dell'esercizio 1982, risulta cosi' stabilito:
 
@@ -1054,7 +1054,7 @@ autonome) . . . . . . . . . . . . . . . . L. 14.430.583.791.397 Spese delle gest
 
 --------------------- L. 26.394.199.803.177 =====================
 
-### Art. 38 - Eccedenze
+## Art. 38 - Eccedenze
 
 Sono approvate le eccedenze di spesa sul conto delle competenze e su quello della cassa risultate ai sottoindicati capitoli in sede di consuntivo per l'esercizio finanziario 1982:
 
@@ -1130,7 +1130,7 @@ Capitolo n. 1099 - Gestione dei mandati
 
 di anticipazione. . . - 13.992.957
 
-### Art. 39
+## Art. 39
 
 Il conto consuntivo dello Stato per l'esercizio 1982 e' approvato.
 
@@ -1146,7 +1146,7 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 ## AZIENDA AUTONOMA DELLE FERROVIE DELLO STATO
 
-### Allegato 1
+## Allegato 1
 
 ALLEGATO N. 1
 
@@ -1272,7 +1272,7 @@ Le suddette integrazioni hanno interessato la Presidenza del Consiglio dei minis
 
 Tenuto conto degli utilizzi analiticamente sopra riportati e che con la legge 6 maggio 1982, n. 225, sono state assunte a carico dello Stato le spese per i funerali del senatore Ferruccio Parri riducendo il fondo di riserva per le spese impreviste di cui al capitolo 6855 della somma di L. 5.800.000, l'intero stanziamento previsto per detto fondo risulta utilizzato. Nessuna economia viene, pertanto, accertata a chiusura dell'esercizio.
 
-### Allegato 2
+## Allegato 2
 
 ALLEGATO N. 2
 

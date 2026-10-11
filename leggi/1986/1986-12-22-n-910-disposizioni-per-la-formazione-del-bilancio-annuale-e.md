@@ -30,7 +30,7 @@ la seguente legge:
 
 ## CAPO I - DISPOSIZIONI DI CARATTERE FINANZIARIO
 
-#### Art. 1
+### Art. 1
 
 1\. Il limite massimo del saldo netto da finanziare per l'anno 1987 resta determinato in termini di competenza in lire 177.830 miliardi, comprese lire 22.343 miliardi concernenti regolazione di debiti pregressi e lire 10.564 miliardi relativi a trasferimenti di bilancio sostitutivi di anticipazioni di tesoreria all'INPS. Tenuto conto delle operazioni di rimborso di prestiti dell'anno 1987, il livello massimo del ricorso al mercato finanziario di cui all'articolo 11 della legge 5 agosto 1978, n. 468, ivi compresi l'indebitamento all'estero per un importo complessivo non superiore a lire 3.500 miliardi relativo ad interventi non considerati nel bilancio di previsione per il 1987, nonche' le suddette regolazioni contabili, resta fissato, in termini di competenza, in lire 203.783 miliardi per l'anno finanziario 1987.
 
@@ -56,7 +56,7 @@ Gli accantonamenti per nuove o maggiori spese o riduzione di entrate contrassegn
 
 ## CAPO II - DISPOSIZIONI PER I SETTORI DEI TRASPORTI, POSTALE E FERROVIARIO
 
-#### Art. 2
+### Art. 2
 
 1\. Per l'anno 1987, il fondo nazionale per il ripiano dei disavanzi di esercizio delle aziende di trasporto pubbliche e private e' stabilito in lire 4.464 miliardi, ivi compresa la variazione da determinarsi ai sensi dell'articolo 9 della legge 10 aprile 1981, n. 151, modificato dall'articolo 27-quater del decreto-legge 22 dicembre 1981, n. 786, convertito, con modificazioni, dalla legge 26 febbraio 1982, n. 51.
 
@@ -124,7 +124,7 @@ La L. 24 dicembre 2012, n. 228 ha disposto (con l'art. 1, comma 63) che "L'autor
 
 ## CAPO III - INTERVENTI IN CAMPO ECONOMICO
 
-#### Art. 3
+### Art. 3
 
 1\. Il fondo di dotazione della SACE - Sezione speciale per l'assicurazione del credito all'esportazione - istituito con l'articolo 13 della legge 24 maggio 1977, n. 227, e' incrementato della somma di lire 448 miliardi, da iscrivere nello stato di previsione del Ministero del tesoro per l'anno 1987. Continua ad applicarsi il comma 2 dell'articolo 11 della legge 28 febbraio 1986, n. 41.
 
@@ -318,7 +318,7 @@ b) EFIM: lire 150 miliardi.
 
 > Il titolo del D.L. n. 495/1981 e' trascritto nella nota precedente.
 
-#### Art. 4
+### Art. 4
 
 1\. Il limite di controvalore dei prestiti che il Consorzio nazionale di credito agrario di miglioramento e gli altri Istituti di credito abilitati possono contrarre all'estero ai sensi del terzo comma dell'articolo 13 della legge 22 dicembre 1984, n. 887, e' elevato di lire 1.500 miliardi.
 
@@ -406,11 +406,9 @@ b) EFIM: lire 150 miliardi.
 
 > Sull'attuazione di quanto previsto nel presente articolo, il Ministro dell'agricoltura e delle foreste riferira' al Parlamento entro il termine di due anni dall'entrata in vigore della presente legge".
 
-## CAPO IV - INTERVENTI IN FAVORE DEL TERRITORIO PER CALAMITA' NATURALI E IN
+## CAPO IV - INTERVENTI IN FAVORE DEL TERRITORIO PER CALAMITA' NATURALI E IN MATERIA DI OPERE PUBBLICHE
 
-### MATERIA DI OPERE PUBBLICHE
-
-#### Art. 5
+### Art. 5
 
 1\. L'autorizzazione di spesa di cui all'articolo 14, comma 1, della legge 28 febbraio 1986, n. 41, e' integrata di lire 1.000 miliardi. 2.(( COMMA SOPPRESSO DALLA L. 11 MARZO 1988, N. 67 )).
 
@@ -426,7 +424,7 @@ b) EFIM: lire 150 miliardi.
 
 8\. L'autorizzazione di spesa recata dalla legge 10 maggio 1983, n. 190, e' integrata per l'anno 1987 della somma di lire 15 miliardi da ripartire in ragione, rispettivamente, di lire 10 miliardi e lire 5 miliardi, per le finalita' di cui all'articolo 2, lettera b), e all'articolo 4 della medesima legge n. 190 del 1983. La somma di lire 10 miliardi e' ripulita in ragione di lire 3 miliardi e di lire 7 miliardi in relazione, rispettivamente, ai numeri 1) e 2) dell'ultimo comma del medesimo articolo 2.
 
-#### Art. 6
+### Art. 6
 
 1\. Per assicurare la prosecuzione degli interventi di cui alla legge 14 maggio 1981, n. 219, il fondo di cui all'articolo 3 della stessa legge e' incrementato dalla somma di lire 1.000 miliardi per l'anno 1987, di lire 2.000 miliardi per l'anno 1988, di lire 3.000 miliardi per l'anno 1989. Il fondo e' ripartito dal CIPE entro sessanta giorni dalla data di entrata in vigore della presente legge con criteri unitari che tengano conto delle autorizzazioni di spese relative al medesimo periodo derivante dalle precedenti disposizioni legislative previa verifica dello stato di attuazione dei programmi di intervento, il CIPE e' autorizzato ad apportare le occorrenti variazioni compensative al predetto riparto. Si applica il comma 2 dell'articolo 16 della legge 28 febbraio 1986, n. 41.
 
@@ -454,7 +452,7 @@ La L. 11 marzo 1988, n. 67 ha disposto(con l'art. 17, comma 3)che: "Per le maggi
 
 "L'autorizzazione di spesa di cui all'articolo 6, comma 6, della legge 22 dicembre 1986, n. 910, e' rideterminata in lire 50 miliardi per l'anno 1988 in lire 85 miliardi per l'anno 1989, in lire 100 miliardi per l'anno 1990 e in lire 65 miliardi per l'anno 1991".
 
-#### Art. 7
+### Art. 7
 
 1\. Per il proseguimento degli interventi finalizzati alla salvaguardia di Venezia e al suo recupero architettonico, urbanistico, ambientale ed economico, di cui alla legge 29 novembre 1984, n. 798, e autorizzata l'ulteriore spesa di lire 700 miliardi ripartita in ragione di lire 100 miliardi per l'esercizio finanziario 1987 e di lire 300 miliardi per ciascuno degli esercizi finanziari 1988 e 1989. Alla ripartizione della somma fra lo Stato, la regione ed i comuni per gli interventi di rispettiva competenza, si provvede con decreto del Ministro del tesoro di concerto con il Ministro dei lavori pubblici, sentito il Comitato di cui all'articolo 4 della citata legge 29 novembre 1984, n. 798, tenuto anche conto dello stato di avanzamento delle opere. (3)
 
@@ -528,7 +526,7 @@ La L. 24 dicembre 2012, n. 228 ha disposto (con l'art. 1, comma 7) che "Le risor
 
 ## CAPO V - DISPOSIZIONI DIVERSE
 
-#### Art. 8
+### Art. 8
 
 1\. Il complesso dei trasferimenti dello Stato all'INPS, a titolo di pagamenti di bilancio e di anticipazioni di tesoreria, al netto di lire 20.000 miliardi di erogazioni a titolo di regolazioni debitorie pregresse nonche' dell'onere derivante dall'articolo 4, comma 9-bis, del decreto-legge 30 dicembre 1985, n. 787, convertito, con modificazioni, dalla legge 28 febbraio 1986, n. 45, e degli effetti della sentenza della Corte costituzionale 3 dicembre 1985, n. 314, e fissato per l'anno 1987 in lire 33.400 miliardi. Le predette anticipazioni di tesoreria sono autorizzate senza oneri di interessi.
 
@@ -848,7 +846,7 @@ La quota in aumento e' destinata a favore di soggetti che non abbiano gia' benef
 
 > f) il 25 per cento dell'imposta erariale sul consumo dei tabacchi".
 
-#### Art. 9
+### Art. 9
 
 1\. Le disposizioni della presente legge sono applicabili nelle regioni a statuto speciale e nelle province autonome di Trento e Bolzano compatibilmente con le norme dei rispettivi statuti.
 
@@ -868,7 +866,7 @@ Visto, il Guardasigilli ROGNONI
 
 ## CAPO V - DISPOSIZIONI DIVERSE
 
-#### Tabella A
+### Tabella A
 
 TABELLA A
 
@@ -876,7 +874,7 @@ IMPORTI DA ISCRIVERE IN BILANCIO IN RELAZIONE ALLE AUTORIZZAZIONI DI SPESA RECAT
 
 Parte di provvedimento in formato grafico
 
-#### Tabella B
+### Tabella B
 
 TABELLA B
 
@@ -884,7 +882,7 @@ INDICAZIONE DELLE VOCI DA INCLUDERE NEL FONDO SPECIALE DI PARTE CORRENTE
 
 Parte di provvedimento in formato grafico
 
-#### Tabella C
+### Tabella C
 
 TABELLA C
 
@@ -892,7 +890,7 @@ INDICAZIONE DELLE VOCI DA INCLUDERE NEL FONDO SPECIALE DI CONTO CAPITALE
 
 Parte di provvedimento in formato grafico
 
-#### Tabella D
+### Tabella D
 
 TABELLA D
 

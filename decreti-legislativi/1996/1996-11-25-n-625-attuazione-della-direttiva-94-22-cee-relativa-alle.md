@@ -40,9 +40,9 @@ EMANA
 
 il seguente decreto legislativo:
 
-## TITOLO I - CAPO I
+## TITOLO I
 
-### Disposizioni generali
+### CAPO I - Disposizioni generali
 
 #### Art. 1 - Definizioni
 
@@ -78,9 +78,9 @@ coltivazione di idrocarburi)
 
 3\. L'accesso alle attivita' di cui al comma 1 ed il loro esercizio sono disciplinate dal presente decreto garantendo che non vi siano discriminazioni tra enti richiedenti o titolari; resta ferma per l'Amministrazione la facolta' di negare, per motivi di sicurezza nazionale, l'autorizzazione all'accesso o all'esercizio delle attivita' di cui all'articolo 2 a qualsiasi ente effettivamente controllato da Stati o cittadini non appartenenti alla Unione europea.
 
-## TITOLO I - CAPO II
+## TITOLO I
 
-### Disciplina dei titoli
+### CAPO II - Disciplina dei titoli
 
 #### Art. 4 - Modifiche alle procedure di conferimento di permessi di ricerca
 
@@ -194,9 +194,9 @@ stoccaggio)
 
 (( 9. I titolari di concessioni di stoccaggio destinano le capacita' di stoccaggio alla funzione di stoccaggio minerario, strategico o di modulazione del sistema nazionale del gas, compatibilmente con il programma di manutenzione e gestione del proprio sistema di stoccaggio, e con la capacita' delle rete di trasporto cui sono connessi gli impianti di stoccaggio. I volumi di gas movimentati che vengono restituiti devono rientrare nel campo di intercambiabilita' ed avere caratteristiche e contenuto di sostanze nocive conforme alle norme tecniche emanate dal Ministero dell'industria, del commercio e dell'artigianato.))
 
-## TITOLO I - CAPO III
+## TITOLO I
 
-### Disposizioni comuni alle attivita' di prospezione, ricerca, - coltivazione e stoccaggio di idrocarburi
+### CAPO III - Disposizioni comuni alle attivita' di prospezione, ricerca, coltivazione e stoccaggio di idrocarburi
 
 #### Art. 14 - Condizioni e requisiti per l'esercizio dei titoli minerari
 
@@ -426,9 +426,9 @@ mare territoriale)
 
 3\. Nei casi non previsti dal comma 2, decide il Ministero, sentita la Commissione di cui al comma 7 dell'articolo 19.
 
-## TITOLO II - CAPO I
+## TITOLO II
 
-### Cessazione dei regimi di esclusiva
+### CAPO I - Cessazione dei regimi di esclusiva
 
 #### Art. 23 - Cessazione dei regimi di esclusiva
 
@@ -530,9 +530,9 @@ d) rielaborazione sismica ultimata in data non anteriore al 1o gennaio 1994, com
 
 4\. Alle concessioni di stoccaggio si applicano le disposizioni di cui all'articolo 13, comma 6.
 
-## TITOLO II - CAPO II
+## TITOLO II
 
-### Apertura delle aree residue a terzi
+### CAPO II - Apertura delle aree residue a terzi
 
 #### Art. 33 - Accesso ai dati
 
@@ -560,9 +560,9 @@ d) rielaborazione sismica ultimata in data non anteriore al 1o gennaio 1994, com
 
 2\. La concessione di stoccaggio e' accordata in base alle disposizioni della legge 26 aprile 1974, n.170 e del disciplinare- tipo vigente in materia, in quanto applicabili.
 
-## TITOLO III - CAPO I
+## TITOLO III
 
-### Norme transitorie e disposizioni finali
+### CAPO I - Norme transitorie e disposizioni finali
 
 #### Art. 37 - Comitato tecnico per gli idrocarburi e la geotermia
 

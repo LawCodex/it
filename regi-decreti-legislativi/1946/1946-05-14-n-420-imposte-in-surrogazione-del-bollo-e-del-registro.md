@@ -54,7 +54,7 @@ Abbiamo sanzionato e promulghiamo quanto segue:
 
 ## Imposta di negoziazione.
 
-### Art. 1
+## Art. 1
 
 L'imposta di negoziazione per l'anno 1946 sui titoli quotati in borsa e' liquidata in base alla media dei prezzi di compenso accertati pel secondo semestre del 1945.
 
@@ -62,23 +62,23 @@ Se nel corso del seconde semestre dell'anno 1945 siano avvenuti aumenti o diminu
 
 Per i titoli per i quali nel secondo semestre del 1945 non risultino accertati prezzi ufficiali di compenso, la valutazione relativa sara' fatta dal Comitato direttivo degli agenti di cambio della Borsa valori locale, o, in mancanza di Borsa locale, da quello della Borsa piu' vicina alla sede della societa' emittente.
 
-### Art. 2
+## Art. 2
 
 Le societa' soggette ad imposta di negoziazione, i cui titoli non siano quotati in borsa, debbono presentare al competente Ufficio del registro, nei termini stabiliti dall'art. 6 del B. decreto-legge 15 dicembre 1938, n. 1975, doppia copia del bilancio sociale, degli estratti delle relative deliberazioni e degli altri documenti ovvero della denunzia prevista dall'ultimo comma dell'articolo stesso.
 
 L'Ufficio del registro trasmette una copia di ciascuno di tali documenti al Comitato direttivo degli agenti di cambio della Borsa locale o della Borsa piu' vicina, competente per la valutazione dei titoli.
 
-### Art. 3
+## Art. 3
 
 L'Amministrazione delle finanze ha facolta' di consentire che le controversie devolute alla competenza delle speciali sezioni delle Commissioni provinciali delle imposte dirette, ai termini dell'art. I del decreto legislativo Luogotenenziale 25 maggio 1945, n. 301, relative alla valutazione di titoli azionari non quotati in borsa, ai fui dell'imposta di negoziazione per gli anni anteriori al 1946, siano definite, mediante un abbuono non superiore al 30 per cento del valore presunto dall'Ufficio del registro. In nessun caso peraltro il valore risultante dall'abbuono puo'. Essere inferiore a quello indicato dal Comitato direttivo degli agenti di cambio.
 
 Il termine per la domanda di, definizione delle vertenze nel modo suespresso e stabilito, in sessanta giorni dalla notifica del ricorso dell'Ufficio del registro, ai sensi dell'art. 4 del citato R. decreto-legge 15 dicembre 1938, n. 1975. Per le vertenze non definite alla data di entrata in vigore del presente decreto, il detto termine e' stabilito in tre mesi dalla data stessa.
 
-### Art. 4
+## Art. 4
 
 In caso di mancata denunzia di estinzione dei titoli entro il termine del 31 maggio di ciascun anno, stabilito dall'art. 14, 3° comma, del R. decreto-legge 15 dicembre 1938, n. 1975, l'imposta di negoziazione rimane dovuta fino a tutto il semestre in cui la denunzia tardiva sia stata presentata.
 
-### Art. 5
+## Art. 5
 
 Le violazioni delle disposizioni di cui all'art. 6 del R. decreto-legge 15 dicembre 1938, n. 1975 e all'articolo 2 del presente decreto, sono punite con le seguenti pene pecuniarie:
 
@@ -96,7 +96,7 @@ ad un massimo di L. 10.000
 
 ## Nuove aliquote per l'imposta di negoziazione e per l'imposta sul capitale di societa' straniere.
 
-### Art. 6
+## Art. 6
 
 Le aliquote dell'imposta annuale di negoziazione per i titoli di cui ai numeri 2 e 3 della tariffa allegato A al R. decreto-legge 15 dicembre 1938, n. 1975, modificato con l'art. 20 del R. decreto 9 marzo 1942, n. 357, sono sostituite, con effetto dal 1° gennaio 1946, con le seguenti aliquote:
 
@@ -108,7 +108,7 @@ L'aliquota dell'imposta, annuale sul capitale delle societa' straniere, di cui a
 
 ## Imposta sulle anticipazioni o sovvenzioni contro deposito o pegno.
 
-### Art. 7
+## Art. 7
 
 Le Casse di risparmio, le societa' e gli istituti che compiono operazioni di anticipazioni o sovvenzioni sopra deposito o pegno di merci, titoli o valori possono, senza applicazione di sopratasse, integrare le denunzie semestrali prescritte dall'art. 22 della legge 30 dicembre 1923, n. 3280, relative alle operazioni compiute fino al 31 dicembre 1945, qualora giustifichino di essere incorse in omissioni per causa di mancato ricevimento in tempo utile dei dati relativi alle operazioni compiute dalle sedi esterne, rappresentanze ed uffici dipendenti.
 
@@ -116,13 +116,13 @@ Le denunzie integrative delle operazioni compiute fino al detto termine debbono 
 
 ## Imposta sulle assicurazioni.
 
-### Art. 8
+## Art. 8
 
 Le compagnie, societa' ed imprese di assicurazioni nazionali, ed estere che fanno assicurazioni diverse dalle marittime possono integrare, con esonero da pene pecuniarie, gli elenchi trimestrali delle quietanze di cui all'art. 19 della legge 30 dicembre 1923, n. 3281, emesse fino al 31 dicembre 1945, qualora giustifichino di essere incorse in omissioni per non aver ricevuto in tempo utile dalle dipendenti agenzie i dati relativi a tali quietanze.
 
 Gli elenchi integrativi delle quietanze emesse fino, al 31 dicembre 1945, debbono essere presentati entro tre mesi dalla data di entrata in vigore del presente decreto col contemporaneo pagamento dell'imposta relativa.
 
-### Art. 9
+## Art. 9
 
 Il termine concesso con l'art. 10 del decreto legislativo Luogotenenziale 25 maggio 1945, n. 301, alle predette societa' compagnie ed impresa nazionali od estere che si trovino nello condizioni ivi previste per la presentazione, con esonero da sopratassa, delle denuncie principali omesse, o delle denuncie integrative delle riscossioni dei premi ed accessori effettuate fino al 31 dicembre 1945, e' prorogato fino a tre mesi successivi all'entrata in vigore del presente decreto.
 
@@ -130,7 +130,7 @@ Il pagamento delle imposte relative dovra' essere effettuato entro quindici gior
 
 ## Sovrimposta di negoziazione.
 
-### Art. 10
+## Art. 10
 
 La sovrimposta di negoziazione, regolata dall'articolo 17 del testo unico approvato con R. decreto 9 marzo 1942, n. 357 e successive modificazioni, e' soppressa.
 
@@ -138,13 +138,13 @@ Sono peraltro mantenute in vigore tutte le disposizioni del predetto Regio decre
 
 ## Tasse sui contratti di borsa.
 
-### Art. 11
+## Art. 11
 
 E' abrogato l'art. 14 del R. decreto-legge 19 agosto 1943, n. 738.
 
 La tabella delle tasse di bollo sui contratti di borsa, annessa al decreto legislativo Luogotenenziale 25 maggio 1945, n. 301, e' sostituita dalla tabella allegata al presente decreto, vista, d'ordine Nostro, dal Ministro per le finanze.
 
-### Art. 12
+## Art. 12
 
 Per la riscossione delle tasse sui contratti di borsa, di cui al precedente articolo saranno istituiti con decreto Reale gli occorrenti valori bollati.
 
@@ -152,7 +152,7 @@ Sino a quando non saranno istituiti tali valori il pagamento delle tasse e' effe
 
 L'annullamento delle dette marche deve essere effettuato dagli stessi contraenti mediante scritturazione della firma di uno di essi e della data del contratto.
 
-### Art. 13
+## Art. 13
 
 Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale dell Regno.
 
@@ -172,7 +172,7 @@ Atti del Governo, registro n. 10 foglio n. 175. - FRASCA
 
 ## Tasse sui contratti di borsa.
 
-### Tabella
+## Tabella
 
 TABELLA A
 

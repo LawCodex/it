@@ -28,11 +28,9 @@ PROMULGA
 
 la seguente legge:
 
-## Titolo I - ESERCIZIO IN ITALIA, DA PARTE DEGLI AVVOCATI DEGLI ALTRI STATI MEMBRI
+## Titolo I - ESERCIZIO IN ITALIA, DA PARTE DEGLI AVVOCATI DEGLI ALTRI STATI MEMBRI DELLE COMUNITA' EUROPEE, DI ATTIVITA' PROFESSIONALI A TITOLO DI PRESTAZIONE DI SERVIZI.
 
-### DELLE COMUNITA' EUROPEE, DI ATTIVITA' PROFESSIONALI A TITOLO DI - PRESTAZIONE DI SERVIZI.
-
-#### Art. 1
+### Art. 1
 
 ((Qualifica professionale.))
 
@@ -92,7 +90,7 @@ avocar (Romania);
 
 Odvjetnik/Odvjetnica (Croazia) )).
 
-#### Art. 2
+### Art. 2
 
 Prestazione di servizi professionali
 
@@ -100,19 +98,19 @@ Le persone di cui all'articolo 1 sono ammesse all'esercizio delle attivita' prof
 
 ((COMMA ABROGATO DALLA L. 3 FEBBRAIO 2003, N.14))
 
-#### Art. 3
+### Art. 3
 
 Uso del titolo
 
 Gli avvocati indicati all'articolo 1 debbono fare uso del proprio titolo professionale, espresso nella lingua o in una delle lingue dello Stato membro di provenienza, con indicazione dell'organizzazione professionale cui appartengono ovvero dell'autorita' giurisdizionale presso la quale sono ammessi ad esercitare la professione a norma delle disposizioni vigenti in detto Stato.
 
-#### Art. 4
+### Art. 4
 
 Doveri
 
 Per l'esercizio delle loro attivita' professionali, gli avvocati indicati all'articolo 1 sono tenuti all'osservanza delle vigenti norme legislative, professionali e deontologiche, ad eccezione di quelle riguardanti il requisito della cittadinanza italiana, il possesso del diploma di laurea in giurisprudenza, il superamento dell'esame di Stato, l'obbligo della residenza nel territorio della Repubblica, l'iscrizione in un albo degli avvocati e l'obbligo del giuramento.
 
-#### Art. 5
+### Art. 5
 
 Incompatibilita'
 
@@ -120,7 +118,7 @@ Si estendono agli avvocati indicati all'articolo 1 le norme sull'incompatibilita
 
 La disposizione di cui alla lettera b) del quarto comma del predetto articolo 3 del regio decreto-legge n. 1578 del 1933 si applica agli avvocati legati da un contratto di lavoro ad un ente pubblico o privato corrispondente, nello Stato membro di provenienza, a quelli indicati nella citata lettera b).
 
-#### Art. 6
+### Art. 6
 
 Prestazioni giudiziali
 
@@ -132,19 +130,19 @@ b) le prestazioni connesse con l'incarico debbono essere svolte di concerto con 
 
 c) l'avvocato ed il procuratore di cui alla precedente lettera b) assicura i rapporti con l'autorita' adita e si impegna, nei confronti della medesima e nello svolgimento delle prestazioni professionali considerate, all'osservanza dei doveri imposti ai difensori dalle norme vigenti.
 
-#### Art. 7
+### Art. 7
 
 Prestazioni stragiudiziali
 
 Nello svolgimento delle prestazioni stragiudiziali, gli avvocati indicati all'articolo 1 sono tenuti all'osservanza, oltre che delle prescrizioni di cui agli articoli 4 e 5, delle norme che garantiscono il corretto esercizio dell'attivita' professionale e la dignita' della professione, ivi comprese le norme riguardanti il segreto professionale, la riservatezza ed il divieto di pubblicita'.
 
-#### Art. 8
+### Art. 8
 
 Patrocinio davanti alle giurisdizioni superiori
 
 Gli avvocati indicati all'articolo 1 sono ammessi al patrocinio davanti alla Corte di cassazione ed alle altre giurisdizioni di cui all'articolo 4, secondo comma, del regio decreto-legge 27 novembre 1933, n. 1578, convertito, con modificazioni, nella legge 22 gennaio 1934, n. 36, indipendentemente dall'iscrizione nell'albo speciale di cui all'articolo 33 del predetto regio decreto-legge n. 1578, purche' dimostrino di aver esercitato la professione per almeno ((dodici anni)) ovvero di essere ammessi ad esercitare la professione nello Stato membro di provenienza dinanzi ad autorita' giurisdizionali corrispondenti.
 
-#### Art. 9
+### Art. 9
 
 Obbligo e contenuto della comunicazione
 
@@ -162,13 +160,13 @@ Prima dell'inizio delle attivita' professionali nel territorio della Repubblica,
 
 6\) per lo svolgimento delle attivita' di rappresentanza e difesa in giudizio, indicazione dell'avvocato o procuratore di cui alla lettera b) dell'articolo 6 nonche' della durata prevista dell'attivita' da svolgere.
 
-#### Art. 10
+### Art. 10
 
 Documentazione
 
 Ove lo ritenga opportuno, e comunque nel caso che le attivita' professionali da svolgere siano relative alla rappresentanza e difesa in giudizio o dinanzi alle autorita' pubbliche, il presidente dell'ordine degli avvocati richiede all'avvocato che ha trasmesso la comunicazione di cui all'articolo precedente idonea documentazione riguardante il possesso di uno dei titoli professionali indicati all'articolo 1 ed il legale esercizio nello Stato membro di provenienza delle attivita' in questione.
 
-#### Art. 11
+### Art. 11
 
 Disciplina professionale
 
@@ -180,7 +178,7 @@ Per l'istruttoria nei procedimenti disciplinari, il consiglio dell'ordine puo' r
 
 Le decisioni adottate, in materia disciplinare, dai consigli dell'ordine degli avvocati e dal Consiglio nazionale forense sono immediatamente e direttamente comunicate all'organizzazione o all'autorita' di cui al comma precedente.
 
-#### Art. 12
+### Art. 12
 
 Adempimenti dei consigli dell'ordine e del Consiglio nazionale forense
 
@@ -188,23 +186,21 @@ I consigli dell'ordine degli avvocati trasmettono al Consiglio nazionale forense
 
 Sia i consigli dell'ordine sia il Consiglio nazionale forense prendono nota, in apposito registro, degli avvocati che svolgono attivita' professionale in applicazione della presente legge e delle decisioni adottate, in materia disciplinare, nei loro confronti.
 
-#### Art. 13
+### Art. 13
 
 Tariffe
 
 Per le attivita' professionali svolte sono dovuti agli avvocati indicati all'articolo 1 gli onorari, i diritti e le indennita' nella misura stabilita in materia giudiziale e stragiudiziale a norma del vigente ordinamento professionale.
 
-## Titolo II - ESERCIZIO NEGLI STATI MEMBRI DELLE COMUNITA' EUROPEE, DA PARTE DEGLI
+## Titolo II - ESERCIZIO NEGLI STATI MEMBRI DELLE COMUNITA' EUROPEE, DA PARTE DEGLI AVVOCATI ITALIANI, DI ATTIVITA' PROFESSIONALI A TITOLO DI PRESTAZIONE DI SERVIZI.
 
-### AVVOCATI ITALIANI, DI ATTIVITA' PROFESSIONALI A TITOLO DI PRESTAZIONE - DI SERVIZI.
-
-#### Art. 14
+### Art. 14
 
 Adempimenti dei consigli dell'ordine degli avvocati
 
 I consigli dell'ordine degli avvocati rilasciano, su istanza degli avvocati iscritti all'albo che svolgono attivita' professionale negli altri Stati membri delle Comunita' europee oppure su richiesta delle competenti autorita' degli Stati predetti, attestati, certificazioni e notizie concernenti la posizione professionale degli interessati.
 
-#### Art. 15
+### Art. 15
 
 Disciplina professionale
 

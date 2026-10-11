@@ -50,11 +50,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I
+## Titolo I - DISPOSIZIONI GENERALI
 
-### DISPOSIZIONI GENERALI
-
-#### Art. 1
+### Art. 1
 
 Oggetto
 
@@ -72,7 +70,7 @@ Oggetto
 
 7\. Sono considerate questioni transnazionali quelle riguardanti l'impresa di dimensioni comunitarie o il gruppo di imprese di dimensioni comunitarie nel loro complesso o almeno due imprese o stabilimenti dell'impresa o del gruppo ubicati in due Stati membri diversi.
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -106,7 +104,7 @@ l) delegazione speciale di negoziazione, la delegazione istituita conformemente 
 
 2\. Ai fini del presente decreto, le soglie minime prescritte per il computo dei dipendenti si basano sul numero medio ponderato mensile di lavoratori impiegati negli ultimi due anni. I lavoratori a tempo parziale sono computati proporzionalmente all'attivita' svolta ai sensi dell'articolo 6, comma 1, del decreto legislativo 25 febbraio 2000, n. 61, come modificato dal decreto legislativo 26 febbraio 2001, n. 100. Sono esclusi dal computo i lavoratori in prova e a domicilio.
 
-#### Art. 3
+### Art. 3
 
 Definizione della nozione di impresa controllante
 
@@ -138,11 +136,9 @@ b) quando una societa' di partecipazione finanziaria acquisisce, direttamente o 
 
 7\. Qualora in caso di conflitto di leggi nell'applicazione dei criteri di cui al comma 2, due o piu' imprese di un gruppo rispondano a uno o piu' dei criteri di cui al predetto comma 2, l'impresa che soddisfa il criterio fissato alla lettera c) del medesimo comma, e' considerata impresa controllante, salvo prova che un'altra impresa possa esercitare un'influenza dominante.
 
-## Titolo II
+## Titolo II - ISTITUZIONE DI UN COMITATO AZIENDALE EUROPEO OVVERO DI UNA PROCEDURA PER L'INFORMAZIONE E LA CONSULTAZIONE DEI LAVORATORI
 
-### ISTITUZIONE DI UN COMITATO AZIENDALE EUROPEO OVVERO DI UNA PROCEDURA - PER L'INFORMAZIONE E LA CONSULTAZIONE DEI LAVORATORI
-
-#### Art. 4
+### Art. 4
 
 Responsabilita' dell'istituzione di un comitato aziendale europeo ovvero di una procedura per l'informazione e la consultazione dei lavoratori
 
@@ -154,7 +150,7 @@ Responsabilita' dell'istituzione di un comitato aziendale europeo ovvero di una 
 
 4\. La direzione di ogni impresa appartenente al gruppo di imprese di dimensioni comunitarie, nonche' la direzione centrale o la presunta direzione centrale ai sensi del secondo periodo del comma 2 dell'impresa o del gruppo di imprese di dimensioni comunitarie ovvero il dirigente cui sono state delegate le relative attribuzioni e competenze, hanno la responsabilita' di ottenere e trasmettere alle parti interessate dall'applicazione del presente decreto le informazioni indispensabili all'avvio dei negoziati di cui all'articolo 5 e seguenti, in particolare quelle concernenti la struttura dell'impresa o del gruppo e la sua forza lavoro. Questo obbligo riguarda in particolare le informazioni relative al numero dei lavoratori di cui all'articolo 2, comma 1, lettere b) e d).
 
-#### Art. 5
+### Art. 5
 
 Delegazione speciale di negoziazione
 
@@ -162,7 +158,7 @@ Delegazione speciale di negoziazione
 
 2\. La richiesta di cui al comma 1 deve essere indirizzata, anche disgiuntamente, alla direzione centrale ovvero, qualora preventivamente designato, al dirigente di cui all'articolo 4, comma 1, ovvero alla direzione dello stabilimento o dell'impresa del gruppo che impiega il maggior numero di lavoratori in uno Stato membro.
 
-#### Art. 6
+### Art. 6
 
 Modalita' di formazione
 
@@ -176,7 +172,7 @@ della delegazione speciale di negoziazione
 
 4\. Le procedure indicate nel presente articolo si applicano a tutte le elezioni ovvero designazioni che si svolgono in Italia.
 
-#### Art. 7
+### Art. 7
 
 Costituzione della delegazione speciale di negoziazione
 
@@ -184,7 +180,7 @@ Costituzione della delegazione speciale di negoziazione
 
 2\. La direzione centrale o il dirigente di cui all'articolo 4, comma 1, e le direzioni locali, sono informate della composizione della delegazione speciale di negoziazione e dell'avvio dei negoziati dalle organizzazioni sindacali di cui all'articolo 5, comma 1. La direzione centrale o il dirigente di cui all'articolo 4, comma 1, informano della composizione della delegazione speciale di negoziazione e dell'avvio dei negoziati le organizzazioni dei datori di lavoro e dei lavoratori competenti a livello europeo.
 
-#### Art. 8
+### Art. 8
 
 Compiti della delegazione speciale di negoziazione
 
@@ -206,7 +202,7 @@ Compiti della delegazione speciale di negoziazione
 
 9\. Nel rispetto di quanto previsto al comma 8, la direzione centrale sostiene le spese relative agli esperti. Salvo diverso accordo fra le parti, la direzione centrale sosterra' le spese per un solo esperto.
 
-#### Art. 9
+### Art. 9
 
 Contenuto dell'accordo
 
@@ -240,7 +236,7 @@ h) se del caso, la composizione, le modalita' di designazione, le attribuzioni e
 
 7\. Negli stabilimenti, nelle imprese e nei gruppi di imprese nei quali non siano costituite rappresentanze sindacali unitarie, la direzione e le parti stipulanti i contratti collettivi nazionali di lavoro applicati agli stessi definiscono procedure, criteri e modalita' di costituzione della delegazione speciale di negoziazione e del Cae ovvero dei titolari della procedura di informazione e consultazione, in conformita' a quelli definiti rispettivamente all'articolo 6, comma 2, e 9, comma 6, del presente decreto.
 
-#### Art. 10
+### Art. 10
 
 Informazioni riservate
 
@@ -250,7 +246,7 @@ Tale divieto permane per un periodo di tre anni successivo alla scadenza del ter
 
 2\. La direzione centrale o il dirigente di cui all'articolo 4, comma 1, possono legittimamente rifiutarsi di comunicare le informazioni richieste solo laddove esse, sulla base di criteri obiettivi, siano di natura tale da creare notevoli difficolta' al funzionamento o all'attivita' esercitata dalle imprese interessate o da arrecare loro danno ovvero da realizzare turbativa dei mercati.
 
-#### Art. 11
+### Art. 11
 
 Funzionamento del Comitato aziendale europeo ovvero della procedura per l'informazione e la consultazione dei lavoratori
 
@@ -258,7 +254,7 @@ Funzionamento del Comitato aziendale europeo ovvero della procedura per l'inform
 
 2\. Il comma 1 si applica anche per la cooperazione tra la direzione centrale o il dirigente di cui all'articolo 4, comma 1, e i rappresentanti dei lavoratori, nell'ambito della procedura per l'informazione e la consultazione dei lavoratori.
 
-#### Art. 12
+### Art. 12
 
 Tutela e ruolo dei rappresentanti dei lavoratori
 
@@ -274,7 +270,7 @@ Tutela e ruolo dei rappresentanti dei lavoratori
 
 Ove possibile, le riunioni sono fissate in modo da facilitare la partecipazione dei membri, o dei loro supplenti, che sono componenti dell'equipaggio di navi marittime. Nel caso in cui un membro di una delegazione speciale di negoziazione o di un Cae o il suo supplente, che siano componenti dell'equipaggio di una nave marittima, non siano in grado di presenziare a una riunione, si considera l'eventualita' di fare ricorso, ove possibile, alle nuove tecnologie d'informazione e di comunicazione.))
 
-#### Art. 13
+### Art. 13
 
 Rapporti con altre disposizioni comunitarie e nazionali
 
@@ -334,7 +330,7 @@ Rapporti con altre disposizioni comunitarie e nazionali
 
 > \- Il decreto legislativo 6 febbraio 2007, n. 25 (Attuazione della direttiva 2002/14/CE che istituisce un quadro generale relativo all'informazione e alla consultazione dei lavoratori) e' pubblicato nella Gazzetta Ufficiale 21 marzo 2007, n. 67.
 
-#### Art. 14
+### Art. 14
 
 Adeguamento
 
@@ -344,7 +340,7 @@ Adeguamento
 
 3\. Nel corso dei negoziati il Cae o i Cae esistenti continuano ad operare secondo le modalita' adottate dall'accordo tra i membri del Cae o dei Cae e la direzione centrale.
 
-#### Art. 15
+### Art. 15
 
 Accordi in vigore
 
@@ -366,7 +362,7 @@ In caso contrario, si applicano le disposizioni del presente decreto legislativo
 
 > \- Per i riferimenti alla direttiva 94/45/CE, si veda nelle note alle premesse.
 
-#### Art. 16
+### Art. 16
 
 Prescrizioni accessorie
 
@@ -396,7 +392,7 @@ Prescrizioni accessorie
 
 13\. Quattro anni dopo la sua costituzione, il Cae delibera in merito all'opportunita' di rinegoziare l'accordo di cui all'articolo 9 oppure di mantenere l'applicazione delle prescrizioni di cui al presente articolo.
 
-#### Art. 17
+### Art. 17
 
 Sanzioni
 
@@ -406,7 +402,7 @@ Sanzioni
 
 3\. Ferma restando l'eventuale responsabilita' civile, in caso di violazione dell'obbligo previsto dall'articolo 4, comma 4, o degli obblighi di informazione e consultazione stabiliti nell'accordo di cui all'articolo 9 o nelle prescrizioni accessorie di cui all'articolo 16, o degli ulteriori obblighi stabiliti nell'accordo o nelle prescrizioni accessorie in ordine alla realizzazione delle condizioni e degli strumenti necessari al funzionamento del Cae o della procedura per l'informazione e la consultazione, previsti dall'articolo 1, comma 2, si applica la sanzione amministrativa pecuniaria non inferiore a 5.165 euro e non superiore a 30.988 euro.
 
-#### Art. 18
+### Art. 18
 
 Procedura di conciliazione preventiva
 
@@ -480,7 +476,7 @@ c) uno designato dalle parti di comune accordo.
 
 > Il pagamento in misura ridotta e' ammesso anche nei casi in cui le norme antecedenti all'entrata in vigore della presente legge non consentivano l'oblazione.».
 
-#### Art. 19
+### Art. 19
 
 Clausola di salvaguardia e abrogazioni
 
@@ -490,7 +486,7 @@ Clausola di salvaguardia e abrogazioni
 
 > \- Per i riferimenti al decreto legislativo 2 aprile 2002, n. 74, si veda nelle note alle premesse.
 
-#### Art. 20
+### Art. 20
 
 Clausola di invarianza finanziaria
 

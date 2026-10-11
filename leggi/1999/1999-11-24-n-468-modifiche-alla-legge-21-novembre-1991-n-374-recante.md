@@ -30,7 +30,7 @@ la seguente legge:
 
 ## Capo I - MODIFICHE ALLA LEGGE 21 NOVEMBRE 1991, N. 374
 
-#### Art. 1 - Ammissione al tirocinio
+### Art. 1 - Ammissione al tirocinio
 
 1\. L'articolo 4 della legge 21 novembre 1991, n. 374, e successive modificazioni, e' sostituito dal seguente:
 
@@ -50,7 +50,7 @@ Il testo delle note qui' pubblicato e' stato redatto dall'amministrazione compet
 
 > \- Per il testo dell'art. 593 del c.p.p. come modificato dalla legge qui pubblicata, si veda in nota all'art. 18.
 
-#### Art. 2 - Tirocinio e nomina
+### Art. 2 - Tirocinio e nomina
 
 1\. Dopo l'articolo 4 della legge 21 novembre 1991, n. 374, come sostituito dall'articolo 1 della presente legge, e' inserito il seguente:
 
@@ -72,7 +72,7 @@ Il testo delle note qui' pubblicato e' stato redatto dall'amministrazione compet
 
 9\. Il magistrato onorario chiamato a ricoprire le funzioni di giudice di pace assume possesso dell'ufficio entro trenta giorni dalla data di nomina".
 
-#### Art. 3 - Requisiti per la nomina
+### Art. 3 - Requisiti per la nomina
 
 1\. L'articolo 5 della legge 21 novembre 1991, n. 374, e successive modificazioni, e' sostituito dal seguente:
 
@@ -108,7 +108,7 @@ d) funzioni inerenti alle qualifiche dirigenziali e alla ex carriera direttiva d
 
 4\. In caso di nomina condizionata alla cessazione della attivita', questa deve avvenire, a pena di decadenza, anche in deroga ai termini di preavviso previsti dalle leggi relative ai singoli impieghi, entro trenta giorni dalla data della nomina".
 
-#### Art. 4 - Corsi per i giudici di pace
+### Art. 4 - Corsi per i giudici di pace
 
 1\. All'articolo 6 della legge 21 novembre 1991, n. 374, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -134,7 +134,7 @@ b) il comma 5-bis e' abrogato.
 
 > 5-ter. Il Ministro di grazia e giustizia e il Consiglio superiore della magistratura organizzano corsi di specializzazione professionale, di durata non inferiore a tre mesi, per i giudici di pace nominati in sede di prima applicazione della legge, nei limiti di disponibilita' di bilancio".
 
-#### Art. 5 - Durata dell'ufficio e conferma del giudice di pace
+### Art. 5 - Durata dell'ufficio e conferma del giudice di pace
 
 1\. All'articolo 7 della legge 21 novembre 1991, n. 374, e successive modificazioni, la rubrica e' sostituita dalla seguente: "(Durata dell'ufficio e conferma del giudice di pace)".
 
@@ -168,7 +168,7 @@ Tale giudizio costituisce requisito necessario per la conferma e viene espresso 
 
 > 2-quater. Le domande di conferma ai sensi del presente articolo hanno la priorita' sulle domande previste dagli articoli 4 e 4-bis e sulla richiesta di trasferimento prevista dall'art. 10-ter".
 
-#### Art. 6 - Incompatibilita
+### Art. 6 - Incompatibilita
 
 1\. All'articolo 8, comma 1, lettera c), della legge 21 novembre 1991, n. 374, e successive modificazioni, le parole: "nell'anno precedente" sono sostituite dalle seguenti: "nei tre anni precedenti".
 
@@ -204,7 +204,7 @@ Tale giudizio costituisce requisito necessario per la conferma e viene espresso 
 
 > \- L'art. 8-bis della legge 21 novembre 1991, n. 374, revoca disposizioni sui limiti all'esercizio alle professione forense.
 
-#### Art. 7 - Decadenza, dispensa, sanzioni disciplinari
+### Art. 7 - Decadenza, dispensa, sanzioni disciplinari
 
 1\. L'articolo 9 della legge 21 novembre 1991, n. 374, e' sostituito dal seguente:
 
@@ -218,7 +218,7 @@ Tale giudizio costituisce requisito necessario per la conferma e viene espresso 
 
 5\. I provvedimenti di cui ai commi 1, 2 e 3 sono adottati con decreto del Ministro della giustizia".
 
-#### Art. 8 - Doveri del giudice di pace
+### Art. 8 - Doveri del giudice di pace
 
 1\. L'articolo 10 della legge 21 novembre 1991, n. 374, e' sostituito dal seguente:
 
@@ -226,13 +226,13 @@ Tale giudizio costituisce requisito necessario per la conferma e viene espresso 
 
 Ha inoltre l'obbligo di astenersi, oltre che nei casi di cui all'articolo 51 del codice di procedura civile, in ogni caso in cui abbia avuto o abbia rapporti di lavoro autonomo o di collaborazione con una delle parti".
 
-#### Art. 9 - Divieto di applicazione o supplenza
+### Art. 9 - Divieto di applicazione o supplenza
 
 1\. Dopo l'articolo 10 della legge 21 novembre 1991, n. 374, e successive modificazioni, e' inserito il seguente:
 
 "Art. 10-bis. \_ (Divieto di applicazione o supplenza). \_ 1. Fatto salvo quanto previsto dall'articolo 3, comma 2, i giudici di pace non possono essere destinati, in applicazione o supplenza, ad altri uffici giudicanti".
 
-#### Art. 10 - Richiesta di trasferimento e concorso di domande
+### Art. 10 - Richiesta di trasferimento e concorso di domande
 
 1\. Dopo l'articolo 10-bis della legge 21 novembre 1991, n. 374, introdotto dall'articolo 9 della presente legge, e' inserito il seguente:
 
@@ -240,7 +240,7 @@ Ha inoltre l'obbligo di astenersi, oltre che nei casi di cui all'articolo 51 del
 
 2\. Qualora per il posto vacante concorrano domande di trasferimento e domande di nomina da parte di soggetti gia' dichiarati idonei al termine del tirocinio, queste ultime hanno priorita'. Qualora concorrano domande di trasferimento e domande di ammissione al tirocinio presentate ai sensi dell'articolo 4, il Consiglio superiore della magistratura valuta a quale accordare priorita".
 
-#### Art. 11
+### Art. 11
 
 (Sostituzione dei rappresentanti designati dai consigli
 
@@ -250,7 +250,7 @@ dell'ordine degli avvocati)
 
 "Art. 10-quater. \_ (Sostituzione dei rappresentanti designati dai consigli dell'ordine degli avvocati). \_ 1. Nelle ipotesi di cui al comma 2-bis dell'articolo 7 e al comma 4 dell'articolo 9, i rappresentanti designati dai consigli dell'ordine degli avvocati del distretto di corte di appello, iscritti all'albo professionale relativo al circondario in cui esercita le proprie funzioni il giudice di pace sottoposto alla valutazione del consiglio giudiziario, sono sostituiti da rappresentanti supplenti iscritti all'albo professionale relativo ad un diverso circondario".
 
-#### Art. 12 - Indennita' spettanti al giudice di pace
+### Art. 12 - Indennita' spettanti al giudice di pace
 
 1\. All'articolo 11 della legge 21 novembre 1991, n. 374, e successive modificazioni, i commi 2 e 3 sono sostituiti dai seguenti:
 
@@ -276,7 +276,7 @@ dell'ordine degli avvocati)
 
 > 4-bis. Le indennita' previste dal presente articolo sono cumulabili con i trattamenti pensionistici e di quiescienza comunque denominati".
 
-#### Art. 13
+### Art. 13
 
 (Disposizione per le regioni Trentino-Alto Adige
 
@@ -296,15 +296,13 @@ e Valle d'Aosta)
 
 > 4\. Per quanto non specificamente previsto dal presente articolo, si provvede con le norme di coordinamento e di attuazione ai sensi dell'art. 42, sentiti gli enti interessati".
 
-## Capo II - DELEGA AL GOVERNO IN MATERIA DI COMPETENZA PENALE DEL
+## Capo II - DELEGA AL GOVERNO IN MATERIA DI COMPETENZA PENALE DEL GIUDICE DI PACE E MODIFICA DELL'ARTICOLO 593 DEL CODICE DI PROCEDURA PENALE
 
-### GIUDICE DI PACE E MODIFICA DELL'ARTICOLO 593 DEL CODICE DI - PROCEDURA PENALE
-
-#### Art. 14 - Delega al Governo in materia penale
+### Art. 14 - Delega al Governo in materia penale
 
 1\. Il Governo della Repubblica e' delegato ad adottare, entro otto mesi dalla data di entrata in vigore della presente legge, un decreto legislativo concernente la competenza in materia penale del giudice di pace, nonche' il relativo procedimento e l'apparato sanzionatorio dei reati ad esso devoluti, unitamente alle norme di attuazione, di coordinamento e transitorie, secondo i principi e i criteri direttivi previsti dagli articoli 15, 16 e 17.
 
-#### Art. 15 - Competenza in materia penale del giudice di pace
+### Art. 15 - Competenza in materia penale del giudice di pace
 
 1\. Al giudice di pace e' devoluta la competenza per i delitti previsti dai seguenti articoli del codice penale: 581 (percosse); 582, secondo comma (lesione personale punibile a querela della persona offesa); 590 (lesioni personali colpose), limitatamente alle fattispecie perseguibili a querela di parte e ad esclusione delle fattispecie connesse alla colpa professionale e dei fatti commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro o relative all'igiene del lavoro o che abbiano determinato una malattia professionale quando in tutti i casi anzidetti la malattia abbia una durata superiore a venti giorni; 593, primo e secondo comma (omissione di soccorso); 594 (ingiuria); 595, primo e secondo comma (diffamazione); 612, primo comma (minaccia); 626 (furti punibili a querela dell'offeso); 627 (sottrazione di cose comuni); 631 (usurpazione), salvo ricorra l'ipotesi di cui all'articolo 639-bis; 632 (deviazione di acque e modificazione dello stato dei luoghi), salvo ricorra l'ipotesi di cui all'articolo 639-bis; 633, primo comma (invasione di terreni o edifici), salvo ricorra l'ipotesi di cui all'articolo 639-bis; 635, primo comma (danneggiamento); 636 (introduzione o abbandono di animali nel fondo altrui e pascolo abusivo), salvo ricorra l'ipotesi di cui all'articolo 639-bis; 637 (ingresso abusivo nel fondo altrui); 638, primo comma (uccisione o danneggiamento di animali altrui); 639 (deturpamento e imbrattamento di cose altrui) e 647 (appropriazione di cose smarrite, del tesoro o di cose avute per errore o nel caso fortuito).
 
@@ -502,7 +500,7 @@ c) reati che non rientrano in taluna delle materie indicate nell'articolo 34 del
 
 > o) dall'art. 108 del decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e dall'art. 89 del decreto del Presidente della Repubblica 16 maggio 1960, n. 570, in materia elettorale".
 
-#### Art. 16 - Sanzioni
+### Art. 16 - Sanzioni
 
 1\. Con il decreto di cui all'articolo 14, l'apparato sanzionatorio relativo ai reati devoluti alla competenza del giudice di pace e' modificato secondo i seguenti principi e criteri direttivi:
 
@@ -522,7 +520,7 @@ c) previsione di uno specifico delitto, punito con pena detentiva fino ad un ann
 
 > "Art. 108 (Inosservanza delle prescrizioni inerenti alle pene conseguenti alla conversione della multa o della ammenda). - Quando e' violata anche solo una delle prescrizioni inerenti alla liberta' controllata, ivi comprese quelle inerenti al lavoro sostitutivo, conseguenti alla conversione di pene pecuniarie, la parte di liberta' controllata o di lavoro sostitutivo non ancora eseguita si converte in un uguale periodo di reclusione o di arresto, a seconda della specie della pena pecuniaria originariamente inflitta. In tal caso non si applica il disposto dell'art. 67".
 
-#### Art. 17 - Procedimento penale davanti al giudice di pace
+### Art. 17 - Procedimento penale davanti al giudice di pace
 
 1\. Il procedimento penale davanti al giudice di pace e' disciplinato, tenendo conto delle norme del libro ottavo del codice di procedura penale riguardanti il procedimento davanti al tribunale in composizione monocratica, con le massime semplificazioni rese necessarie dalla competenza dello stesso giudice. Si osservano, altresi', i seguenti principi e criteri direttivi:
 
@@ -580,7 +578,7 @@ p) previsione di una particolare disciplina delle iscrizioni nel casellario giud
 
 > Nella materia penale, e' seguito altresi' il criterio di non delegare le funzioni del pubblico ministero in relazione a procedimenti relativi a reati per i quali la legge stabilisce una pena detentiva superiore a quattro anni di reclusione, determinata a norma dell'art. 4 del codice di procedura penale".
 
-#### Art. 18 - Modifica dell'articolo 593 del codice di procedura penale
+### Art. 18 - Modifica dell'articolo 593 del codice di procedura penale
 
 1\. All'articolo 593 del codice di procedura penale, il comma 3 e' sostituito dal seguente:
 
@@ -596,11 +594,11 @@ p) previsione di una particolare disciplina delle iscrizioni nel casellario giud
 
 > 3\. Sono inappellabili le sentenze di condanna relative a reati per i quali e' stata applicata la sola pena pecuniaria e le sentenze di proscioglimento o di non luogo a procedere relative a reati puniti con la sola pena pecuniaria o con pena alternativa".
 
-#### Art. 19 - Competenza per il grado di appello
+### Art. 19 - Competenza per il grado di appello
 
 1\. Sulle impugnazioni proposte avverso le sentenze ed i provvedimenti penali del giudice di pace e' competente il tribunale nel cui circondario ha sede l'ufficio del giudice di pace.
 
-#### Art. 20 - Abrogazioni
+### Art. 20 - Abrogazioni
 
 1\. Il Capo III della legge 21 novembre 1991, n. 374, e successive modificazioni, e' abrogato.
 
@@ -608,7 +606,7 @@ p) previsione di una particolare disciplina delle iscrizioni nel casellario giud
 
 > \- Il capo III della citata legge 21 novembre 1991, n. 374, era cosi' rubricato: "Competenza e procedimento penale del giudice di pace".
 
-#### Art. 21 - Emanazione del decreto legislativo
+### Art. 21 - Emanazione del decreto legislativo
 
 1\. Lo schema di decreto legislativo di cui all'articolo 14 e' trasmesso alla Camera dei deputati e al Senato della Repubblica almeno sessanta giorni prima della scadenza prevista per l'esercizio della delega. Le Commissioni parlamentari competenti per materia esprimono il loro parere entro trenta giorni dalla data di trasmissione dello schema medesimo.
 
@@ -618,11 +616,9 @@ p) previsione di una particolare disciplina delle iscrizioni nel casellario giud
 
 4\. I consigli giudiziari, nei centottanta giorni successivi alla data di pubblicazione nella Gazzetta Ufficiale del decreto legislativo di cui all'articolo 14, organizzano un congruo periodo di tirocinio penale per i giudici onorari in carica alla data di entrata in vigore del medesimo decreto legislativo, da rendere compatibile con il normale lavoro di ufficio, applicando le disposizioni di cui all'articolo 4-bis della legge 21 novembre 1991, n. 374, introdotto dall'articolo 2 della presente legge, in quanto applicabili.
 
-## Capo III - NORME DI COORDINAMENTO, DI ATTUAZIONE, TRANSITORIE E DI
+## Capo III - NORME DI COORDINAMENTO, DI ATTUAZIONE, TRANSITORIE E DI COPERTURA DEGLI ONERI FINANZIARI
 
-### COPERTURA DEGLI ONERI FINANZIARI
-
-#### Art. 22 - Norma di coordinamento e di attuazione
+### Art. 22 - Norma di coordinamento e di attuazione
 
 1\. Entro centottanta giorni dalla data di entrata in vigore della presente legge,con regolamento adottato ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, e successive modificazioni, sono emanate le norme di coordinamento e di attuazione delle disposizioni di cui al Capo I.
 
@@ -640,7 +636,7 @@ p) previsione di una particolare disciplina delle iscrizioni nel casellario giud
 
 > d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge".
 
-#### Art. 23
+### Art. 23
 
 (Norme transitorie in materia di nomina e di conferma.
 
@@ -714,7 +710,7 @@ Proroga dei giudici di pace in servizio)
 
 > "Art. 2. - 1. L'esercizio delle funzioni dei giudici di pace in servizio alla data di entrata in vigore del presente decreto presso gli uffici di cui all'elenco allegato al decreto del Ministro di grazia e giustizia in data 3 dicembre 1998, recante disposizioni per la copertura di posti di giudice di pace, pubblicato nella Gazzetta Ufficiale - 4 serie speciale - n. 95 del 4 dicembre 1998, e' prorogato fino alla copertura dei rispettivi posti all'esito delle procedure di cui al medesimo decreto e comunque non oltre la data del 31 marzo 2000".
 
-#### Art. 24 - Norma transitoria in materia di incompatibilita
+### Art. 24 - Norma transitoria in materia di incompatibilita
 
 1\. In sede di prima applicazione della presente legge, non si procede alla dichiarazione di decadenza prevista dall'articolo 9 della legge 21 novembre 1991, n. 374, come sostituito dall'articolo 7 della presente legge, nei casi in cui, pur ricorrendo le ipotesi di incompatibilita' previste dall'articolo 8, comma 1, lettera c-bis), comma 1-bis e comma 1-ter, ultimo periodo, della predetta legge n. 374 del 1991, come introdotti dall'articolo 6 della presente legge, gli interessati provvedono entro sessanta giorni dalla data di entrata in vigore della presente legge a rimuovere le medesime cause di incompatibilita'.
 
@@ -722,11 +718,11 @@ Proroga dei giudici di pace in servizio)
 
 > \- Per il testo dell'art. 8 della citata legge 21 novembre 1991, n. 374, si veda nelle note all'art. 6.
 
-#### Art. 25 - Limite numerico
+### Art. 25 - Limite numerico
 
 1\. Per effetto delle disposizioni contenute nella presente legge, nel corso del 1999, il numero dei giudici di pace complessivamente in servizio non puo' eccedere le 4.000 unita'.
 
-#### Art. 26 - Messi di conciliazione
+### Art. 26 - Messi di conciliazione
 
 1\. I messi di conciliazione non dipendenti comunali, che sono in servizio presso gli uffici di conciliazione e del giudice di pace alla data di entrata in vigore della presente legge ovvero che hanno operato presso gli uffici di conciliazione, anche se soppressi, per un periodo di almeno due anni, sono immessi a domanda, nei limiti di 370 unita' e comunque delle vacanze organiche esistenti, nei ruoli del Ministero della giustizia, ed inquadrati nella terza e quarta qualifica funzionale. L'assunzione e' subordinata al possesso dei requisiti di legge per l'accesso al pubblico impiego e al superamento di separati concorsi riservati per titoli secondo i meccanismi di programmazione delle assunzioni e di riduzione del personale in servizio previsti dall'articolo 39 della legge 27 dicembre 1997, n. 449, come modificato dall'articolo 22 della legge 23 dicembre 1998, n. 448.
 
@@ -814,7 +810,7 @@ Proroga dei giudici di pace in servizio)
 
 > 28\. Nell'esercizio dei compiti attribuiti dall'art. 1, comma 62, della legge 23 dicembre 1996, n. 662, il Corpo della guardia di finanza agisce avvalendosi dei poteri di polizia tributaria previsti dal decreto del Presidente della Repubblica 26 ottobre 1977, n. 633, e dal decreto del Presidente della Repubblica 29 settembre 1973, n. 600. Nel corso delle verifiche previste dall'art. 1, comma 62, della legge 23 dicembre 1996, n. 662, non e' opponibile il segreto d'ufficio".
 
-#### Art. 27 - Norme di copertura
+### Art. 27 - Norme di copertura
 
 1\. All'onere derivante dall'attuazione della presente legge, pari a lire 16.000 milioni per l'anno 1998, a lire 39.102 milioni per l'anno 1999 e a lire 97.000 milioni annue a decorrere dall'anno 2000, si provvede:
 

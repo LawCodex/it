@@ -405,11 +405,9 @@ Le disposizioni del presente atto che hanno per oggetto o per effetto di abrogar
 
 ## PARTE SECONDA - ADATTAMENTI DEI TRATTATI
 
-### TITOLO I.
+### TITOLO I. - DISPOSIZIONI ISTITUZIONALI
 
-#### DISPOSIZIONI ISTITUZIONALI
-
-##### CAPO 1. - L'Assemblea.
+#### CAPO 1. - L'Assemblea.
 
 ###### ARTICOLO 10
 
@@ -437,7 +435,7 @@ Norvegia. . . . . . . . . . . . . . . . . . . 10
 
 Regno Unito . . . . . . . . . . . . . . . . . 36".
 
-## CAPO 2. - Il Consiglio.
+#### CAPO 2. - Il Consiglio.
 
 ###### ARTICOLO 11
 
@@ -511,7 +509,7 @@ Le deliberazioni sono valide se hanno raccolto almeno:
 
 \- quarantatre' voti che esprimano il voto favorevole di almeno sei membri, negli altri casi".
 
-## CAPO 3. - La Commissione.
+#### CAPO 3. - La Commissione.
 
 ###### ARTICOLO 15
 
@@ -525,7 +523,7 @@ L'articolo 14, primo comma, del trattato che istituisce un Consiglio unico e una
 
 "Il presidente ed i cinque vicepresidenti della Commissione sono designati tra i membri di questa per due anni, secondo la medesima procedura prevista per la nomina dei membri della Commissione. Il loro mandato puo' essere rinnovato".
 
-## CAPO 4. - La Corte di giustizia.
+#### CAPO 4. - La Corte di giustizia.
 
 ###### ARTICOLO 17
 
@@ -557,7 +555,7 @@ L'articolo 18, secondo comma, del protocollo sullo statuto della Corte di giusti
 
 Le deliberazioni della Corte riunita in seduta plenaria sono valide se sono presenti sette giudici. Le deliberazioni delle sezioni sono valide soltanto se prese da tre giudici; in caso di impedimento di uno dei giudici componenti una sezione, si puo' ricorrere a un giudice che faccia parte di un'altra sezione, alle condizioni definite dal regolamento di procedura".
 
-## CAPO 5. - Il Comitato economico e sociale.
+#### CAPO 5. - Il Comitato economico e sociale.
 
 ###### ARTICOLO 21
 
@@ -585,7 +583,7 @@ Norvegia. . . . . . . . . . . . . . . . . . . 9
 
 Regno Unito . . . . . . . . . . . . . . . . . 24".
 
-## CAPO 6. - Il Comitato consultivo CECA.
+#### CAPO 6. - Il Comitato consultivo CECA.
 
 ###### ARTICOLO 22
 
@@ -593,7 +591,7 @@ L'articolo 18, primo comma, del trattato CECA e' sostituito dalla seguente dispo
 
 "Presso l'Alta Autorita' e' istituito un Comitato consultivo. Esso e' composto di non meno di sessanta membri e di non piu' di ottantaquattro e comprende, in numero uguale, produttori, lavoratori e consumatori e commercianti".
 
-## CAPO 7. - Il Comitato scientifico e tecnico.
+#### CAPO 7. - Il Comitato scientifico e tecnico.
 
 ###### ARTICOLO 23
 
@@ -601,7 +599,7 @@ L'articolo 134, paragrafo 2, primo comma, del trattato CEEA e' sostituito dalla 
 
 "Il Comitato e' composto di ventotto membri, nominati dal Consiglio previa consultazione della Commissione".
 
-## TITOLO II. - ALTRI ADATTAMENTI
+### TITOLO II. - ALTRI ADATTAMENTI
 
 ###### ARTICOLO 24
 
@@ -711,11 +709,9 @@ Gli adattamenti degli atti indicati nell'elenco riportato dall'allegato II del p
 
 ## PARTE QUARTA - MISURE TRANSITORIE
 
-### TITOLO I.
+### TITOLO I. - LIBERA CIRCOLAZIONE DELLE MERCI
 
-#### LIBERA CIRCOLAZIONE DELLE MERCI
-
-##### CAPO 1. - Disposizioni tariffarie.
+#### CAPO 1. - Disposizioni tariffarie.
 
 ###### ARTICOLO 31
 
@@ -878,7 +874,7 @@ A decorrere dal 1 luglio 1977 l'Irlanda applica integralmente la tariffa unifica
 
 Per allineare le loro tariffe alla tariffa doganale comune ed alla tariffa unificata CECA i nuovi Stati membri restano liberi di modificare i loro dazi doganali a un ritmo piu' rapido di quello previsto dall'articolo 39, paragrafi 1 e 3. Essi ne informano gli altri Stati membri e la Commissione.
 
-## CAPO 2. - Abolizione delle restrizioni quantitative.
+#### CAPO 2. - Abolizione delle restrizioni quantitative.
 
 ###### ARTICOLO 42
 
@@ -898,7 +894,7 @@ Gli Stati membri originari assumono obblighi equivalenti nei confronti dei nuovi
 
 2\. La Commissione formula, fin dal 1973, raccomandazioni in merito alle modalita' e al ritmo da seguire nell'attuazione del riordinamento di cui al presente articolo, restando inteso che tali modalita' e tale ritmo devono essere identici per i nuovi Stati membri e per gli Stati membri originari.
 
-## CAPO 3. - Altre disposizioni.
+#### CAPO 3. - Altre disposizioni.
 
 ###### ARTICOLO 45
 
@@ -954,11 +950,9 @@ Alla stessa data le misure di effetto equivalente a restrizioni quantitative son
 
 2\. Sono abrogati, ad eccezione del protocollo n. XVII, i protocolli allegati all'accordo per la fissazione di una parte della tariffa doganale comune relativa ai prodotti dell'elenco G allegato al trattato CEE.
 
-## TITOLO II. - AGRICOLTURA
+### TITOLO II. - AGRICOLTURA
 
-### CAPO 1.
-
-#### Disposizioni generali.
+#### CAPO 1. - Disposizioni generali.
 
 ###### ARTICOLO 50
 
@@ -1112,11 +1106,9 @@ Tuttavia per i prodotti che rientrano nei settori dei cereali e del riso le ridu
 
 Le disposizioni del presente titolo non pregiudicano il grado di liberta' degli scambi di prodotti agricoli che risulta dall'accordo che istituisce una zona di libero scambio tra l'Irlanda ed il Regno Unito, del 14 dicembre 1965, e dagli accordi connessi.
 
-## CAPO 2 - Disposizioni relative a talune organizzazioni comuni dei mercati
+#### CAPO 2 - Disposizioni relative a talune organizzazioni comuni dei mercati
 
-### SEZIONE 1
-
-#### ORTOFRUTTICOLI
+##### SEZIONE 1 - ORTOFRUTTICOLI
 
 ###### ARTICOLO 65
 
@@ -1160,13 +1152,13 @@ a) dal 1 febbraio 1974 per i carciofi, gli asparagi, i cavoli di Bruxelles, i se
 
 b) dal 1 febbraio 1975 per i fagioli, i cavoli cappucci e verzotti, le carote, le lattughe, le cicorie e scarole, i piselli da sgranare, gli spinaci e le fragole.
 
-## SEZIONE 2. - VINO.
+##### SEZIONE 2. - VINO.
 
 ###### ARTICOLO 69
 
 Fino al 31 dicembre 1975 l'Irlanda ed il Regno Unito sono autorizzati a mantenere l'impiego di denominazioni composte contenenti la parola vino per la designazione di talune bevande per le quali l'uso di tale denominazione non e' compatibile con la regolamentazione comunitaria. Tuttavia questa deroga non e' applicabile ai prodotti esportati verso gli Stati membri della Comunita' nella sua composizione originaria.
 
-## SEZIONE 3. - SEMI OLEOSI.
+##### SEZIONE 3. - SEMI OLEOSI.
 
 ###### ARTICOLO 70
 
@@ -1182,7 +1174,7 @@ L'ammontare dell'integrazione concessa per i semi oleosi raccolti in un nuovo St
 
 Per quanto concerne, gli scambi l'importo compensativo viene applicato soltanto alle restituzioni concesse all'esportazione verso i paesi terzi dei semi oleosi raccolti in un nuovo Stato membro.
 
-## SEZIONE 4. - CEREALI.
+##### SEZIONE 4. - CEREALI.
 
 ###### ARTICOLO 73
 
@@ -1198,7 +1190,7 @@ Per le fissazioni successive gli importi sono fissati sulla base di quelli di cu
 
 2\. Per i prodotti di cui all'articolo 1, lettere c) e d), del regolamento n. 120/67/CEE l'importo compensativo viene derivato dall'importo compensativo applicabile per i cereali da cui sono stati ottenuti, per mezzo dei coefficienti o delle regole adottati per la determinazione del prelievo per detti prodotti o dell'elemento mobile del prelievo.
 
-## SEZIONE 5. - CARNI SUINE.
+##### SEZIONE 5. - CARNI SUINE.
 
 ###### ARTICOLO 75
 
@@ -1212,7 +1204,7 @@ Per le fissazioni successive gli importi sono fissati sulla base di quelli di cu
 
 2\. Fino al 31 ottobre 1974 il Regno Unito e' autorizzato a non applicare la tabella comunitaria di classificazione delle carcasse di suino.
 
-## SEZIONE 6. - UOVA.
+##### SEZIONE 6. - UOVA.
 
 ###### ARTICOLO 77
 
@@ -1226,7 +1218,7 @@ Per le fissazioni successive gli importi sono fissati sulla base di quelli di cu
 
 L'Irlanda e il Regno Unito possono mantenere sui loro mercati, per le norme di commercializzazione delle uova, una classificazione rispettivamente in quattro e in cinque categorie di peso, purche' la commercializzazione delle uova che corrispondono alle norme comunitarie non sia oggetto di restrizioni conseguenti alle diversita' dei sistemi di classificazione.
 
-## SEZIONE 7. - POLLAME.
+##### SEZIONE 7. - POLLAME.
 
 ###### ARTICOLO 79
 
@@ -1236,7 +1228,7 @@ L'Irlanda e il Regno Unito possono mantenere sui loro mercati, per le norme di c
 
 3\. Per i prodotti di cui all'articolo 1, paragrafo 2, lettera d), del regolamento n. 123/67/CEE relativo all'organizzazione comune dei mercati nel settore del pollame, l'importo compensativo viene derivato dall'importo compensativo applicabile al pollame macellato, per mezzo dei coefficienti impiegati per il calcolo del prelievo.
 
-## SEZIONE 8. - RISO.
+##### SEZIONE 8. - RISO.
 
 ###### ARTICOLO 80
 
@@ -1248,7 +1240,7 @@ Per le fissazioni successive gli importi vengono fissati in base a quelli di cui
 
 2\. Per il risone, il riso semilavorato, il riso lavorato e per i prodotti di cui all'articolo 1, paragrafo 1, lettera c), del regolamento n. 350/67/CEE relativo all'organizzazione comune del mercato del riso, l'importo compensativo viene, per ciascuno di questi prodotti, derivato dall'importo compensativo applicabile al prodotto indicato al paragrafo 1 al quale si collega, per mezzo dei coefficienti impiegati per la determinazione del prelievo o dell'elemento mobile del prelievo.
 
-## SEZIONE 9. - ZUCCHERO.
+##### SEZIONE 9. - ZUCCHERO.
 
 ###### ARTICOLO 81
 
@@ -1270,13 +1262,13 @@ b) per i prodotti di cui all'articolo 1, paragrafo 1, lettera d), del regolament
 
 L'importo di cui all'articolo 25, paragrafo 3, del regolamento numero 1009/67/CEE e' corretto nei nuovi Stati membri dell'importo compensativo calcolato conformemente all'articolo 55, paragrafo 2.
 
-## SEZIONE 10. - PIANTE VIVE E PRODOTTI DELLA FLORICOLTURA.
+##### SEZIONE 10. - PIANTE VIVE E PRODOTTI DELLA FLORICOLTURA.
 
 ###### ARTICOLO 84
 
 Le disposizioni relative alle norme comuni di qualita' sono applicabili alla commercializzazione della produzione indigena nel Regno Unito soltanto a decorrere dal 1 febbraio 1974 e per i fiori recisi a decorrere dal 1 febbraio 1975.
 
-## SEZIONE 11. - LATTE E PRODOTTI LATTIERO-CASEARI.
+##### SEZIONE 11. - LATTE E PRODOTTI LATTIERO-CASEARI.
 
 ###### ARTICOLO 85
 
@@ -1318,7 +1310,7 @@ Il latte venduto come latte intero in virtu' del primo comma non deve tuttavia a
 
 2\. La Danimarca e' autorizzata a mantenere fino al 31 dicembre 1977 le concessioni di fornitura di latte in esclusiva esistenti alla data dell'adesione in talune zone. Tuttavia le concessioni che scadono prima del 1 gennaio 1978 non possono essere rinnovate.
 
-## SEZIONE 12. - CARNI BOVINE.
+##### SEZIONE 12. - CARNI BOVINE.
 
 ###### ARTICOLO 90
 
@@ -1342,7 +1334,7 @@ Per i prodotti di cui all'articolo 1, lettere b) e c), del regolamento (CEE) n. 
 
 Fintantoche' in virtu' dell'articolo 54 il Regno Unito concede sovvenzioni alla produzione per il bestiame da macello, l'Irlanda e' autorizzata a mantenere, per evitare distorsioni nel mercato irlandese del bestiame, le misure in materia di esportazione di carni bovine che essa applicava prima della adesione in correlazione con il regime di sovvenzioni applicato nel Regno Unito.
 
-## SEZIONE 13. - PRODOTTI TRASFORMATI A BASE DI ORTOFRUTTICOLI.
+##### SEZIONE 13. - PRODOTTI TRASFORMATI A BASE DI ORTOFRUTTICOLI.
 
 ###### ARTICOLO 94
 
@@ -1352,7 +1344,7 @@ Gli importi compensativi sono fissati in base agli importi compensativi stabilit
 
 \- della restituzione, per quanto riguarda l'importo compensativo applicabile all'esportazione.
 
-## SEZIONE 14. - LINO.
+##### SEZIONE 14. - LINO.
 
 ###### ARTICOLO 95
 
@@ -1360,7 +1352,7 @@ Gli importi compensativi sono fissati in base agli importi compensativi stabilit
 
 5\. Il reddito che deve essere conseguito dai produttori di lino e' stabilito tenendo conto del prezzo dei prodotti concorrenti delle colture di avvicendamento del nuovo Stato membro e del rapporto esistente nella Comunita' nella sua composizione originaria tra il reddito risultante dalla produzione di lino e quello risultante dalla produzione dei prodotti concorrenti.
 
-## SEZIONE 15. - SEMENTI.
+##### SEZIONE 15. - SEMENTI.
 
 ###### ARTICOLO 96
 
@@ -1368,17 +1360,15 @@ Qualora venga concesso un aiuto alla produzione di sementi, l'importo dell'aiuto
 
 In tal caso l'importo dell'aiuto per il nuovo Stato membro deve tener conto del reddito anteriormente conseguito dai produttori di sementi e della necessita' d'evitare ogni distorsione nella struttura della produzione e di ravvicinare progressivamente tale importo all'importo comunitario.
 
-## SEZIONE 16. - PRODOTTI AGRICOLI ESPORTATI SOTTO FORMA DI MERCI NON COMPRESE NELL'ALLEGATO II DEL TRATTATO CEE.
+##### SEZIONE 16. - PRODOTTI AGRICOLI ESPORTATI SOTTO FORMA DI MERCI NON COMPRESE NELL'ALLEGATO II DEL TRATTATO CEE.
 
 ###### ARTICOLO 97
 
 Gli importi compensativi sono stabiliti in base agli importi compensativi fissati per i prodotti di base e secondo le regole per il calcolo delle restituzioni previste dal regolamento (CEE) n. 204/69 che stabilisce, per alcuni prodotti agricoli esportati sotto forma di merci non comprese nell'allegato II del trattato, le regole generali relative alle concessioni delle restituzioni all'esportazione e i criteri per stabilire il loro importo.
 
-## CAPO 3 - Disposizioni relative, alla pesca.
+#### CAPO 3 - Disposizioni relative, alla pesca.
 
-### SEZIONE 1.
-
-#### ORGANIZZAZIONE COMUNE DEI MERCATI.
+##### SEZIONE 1. - ORGANIZZAZIONE COMUNE DEI MERCATI.
 
 ###### ARTICOLO 98
 
@@ -1388,7 +1378,7 @@ Per i prodotti della pesca gli articoli 51 e 52 s'applicano ai prezzi di orienta
 
 Gli importi compensativi vengono corretti, nella misura necessaria, dell'incidenza dei dazi doganali.
 
-## SEZIONE 2. - REGIME DELLA PESCA.
+##### SEZIONE 2. - REGIME DELLA PESCA.
 
 ###### ARTICOLO 100
 
@@ -1450,11 +1440,9 @@ Al piu' tardi a decorrere dal sesto anno dopo l'adesione, il Consiglio, delibera
 
 Entro il 31 dicembre 1982 la Commissione presenta al Consiglio una relazione concernente lo sviluppo economico e sociale delle zone costiere degli Stati membri e la situazione del patrimonio ittico. In base a detta relazione ed agli obiettivi della politica comune della pesca il Consiglio, su proposta della Commissione, esamina le disposizioni che potrebbero far seguito alle deroghe in vigore fino al 31 dicembre 1982.
 
-## CAPO 4 - Altre disposizioni.
+#### CAPO 4 - Altre disposizioni.
 
-### SEZIONE 1.
-
-#### MISURE VETERINARIE.
+##### SEZIONE 1. - MISURE VETERINARIE.
 
 ###### ARTICOLO 104
 
@@ -1494,17 +1482,15 @@ Prima dello scadere dei termini di cui agli articoli 104 e 105 un esame della si
 
 Al piu' tardi al 1 luglio 1976 la Commissione presenta al Consiglio un rapporto e, se necessario, proposte appropriate, tenendo conto di tale evoluzione.
 
-## SEZIONE 2. - DISPOSIZIONI VARIE.
+##### SEZIONE 2. - DISPOSIZIONI VARIE.
 
 ###### ARTICOLO 107
 
 Gli atti indicati nell'elenco riportato dall'allegato V del presente atto s'applicano ai nuovi Stati membri alle condizioni previste in tale allegato.
 
-## TITOLO III - RELAZIONI ESTERNE
+### TITOLO III - RELAZIONI ESTERNE
 
-### CAPO 1
-
-#### Accordi delle Comunita' con taluni paesi terzi.
+#### CAPO 1 - Accordi delle Comunita' con taluni paesi terzi.
 
 ###### ARTICOLO 108
 
@@ -1516,7 +1502,7 @@ Gli atti indicati nell'elenco riportato dall'allegato V del presente atto s'appl
 
 Tali disposizioni s'applicano anche agli accordi che la Comunita' avra' concluso con altri paesi terzi della regione mediterranea prima dell'entrata in vigore del presente atto.
 
-## CAPO 2 - Relazioni con gli Stati africani e malgascio associati e con taluni paesi in via di sviluppo del Commonwealth.
+#### CAPO 2 - Relazioni con gli Stati africani e malgascio associati e con taluni paesi in via di sviluppo del Commonwealth.
 
 ###### ARTICOLO 109
 
@@ -1566,7 +1552,7 @@ Le decisioni che il Consiglio deve adottare ed i pareri che il Comitato per il F
 
 3\. In caso di applicazione delle disposizioni transitorie di cui all'articolo 62, secondo comma, della Convenzione di associazione tra la Comunita' europea e gli Stati africani e malgascio associati a tale Comunita', del 29 luglio 1969, o all'articolo 36, secondo comma, dell'Accordo che crea una associazione tra la Comunita' economica europea e la Repubblica unita di Tanzania, la Repubblica dell'Uganda e la Repubblica del Kenya, del 24 settembre 1969, e per la durata di dette disposizioni transitorie, il Consiglio, deliberando all'unanimita' previa consultazione della Commissione, puo' decidere di riportare la data di cui al paragrafo 1.
 
-## CAPO 3 - Relazioni con la Papuasia - Nuova Guinea.
+#### CAPO 3 - Relazioni con la Papuasia - Nuova Guinea.
 
 ###### ARTICOLO 116
 
@@ -1574,7 +1560,7 @@ Le decisioni che il Consiglio deve adottare ed i pareri che il Comitato per il F
 
 2\. Questo regime puo' essere riveduto, in particolare se tale territorio diventi indipendente prima del 1 gennaio 1978. Il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, adotta, se del caso, le disposizioni appropriate che dovessero rivelarsi necessarie.
 
-## TITOLO IV - ASSOCIAZIONE DEI PAESI E TERRITORI D'OLTREMARE
+### TITOLO IV - ASSOCIAZIONE DEI PAESI E TERRITORI D'OLTREMARE
 
 ###### ARTICOLO 117
 
@@ -1598,7 +1584,7 @@ Gli articoli da 110 a 114 sono applicabili.
 
 3\. Il presente articolo s'applica fino al 31 gennaio 1975. In caso di applicazione dell'articolo 115, paragrafo 3, tale data puo' essere riportata secondo la procedura ed alle condizioni di cui a tale articolo.
 
-## TITOLO V - MOVIMENTI DI CAPITALI
+### TITOLO V - MOVIMENTI DI CAPITALI
 
 ###### ARTICOLO 120
 
@@ -1674,7 +1660,7 @@ Se le circostanze lo permettono i nuovi Stati membri attuano la liberalizzazione
 
 Per l'applicazione delle disposizioni del presente titolo la Commissione puo' procedere alla consultazione del Comitato monetario e presentare ogni utile proposta al Consiglio.
 
-## TITOLO VI - DISPOSIZIONI FINANZIARIE
+### TITOLO VI - DISPOSIZIONI FINANZIARIE
 
 ###### ARTICOLO 127
 
@@ -1740,7 +1726,7 @@ Fino al 31 dicembre 1979 la frazione del bilancio delle Comunita' che rimanesse 
 
 L'importo totale cosi' ottenuto viene ripartito tra gli Stati membri originari secondo le disposizioni della decisione del 21 aprile 1970.
 
-## TITOLO VII - ALTRE DISPOSIZIONI
+### TITOLO VII - ALTRE DISPOSIZIONI
 
 ###### ARTICOLO 133
 
@@ -1784,9 +1770,7 @@ In deroga all'articolo 95, secondo comma, del trattato CEE, la Danimarca puo' ma
 
 ## PARTE QUINTA - DISPOSIZIONI D'ATTUAZIONE
 
-### TITOLO I.
-
-#### INSEDIAMENTO DELLE ISTITUZIONI
+### TITOLO I. - INSEDIAMENTO DELLE ISTITUZIONI
 
 ###### ARTICOLO 139
 
@@ -1846,7 +1830,7 @@ Gli adattamenti degli statuti e dei regolamenti interni dei comitati istituiti d
 
 2\. I comitati elencati nell'allegato IX sono integralmente rinnovati immediatamente dopo l'adesione.
 
-## TITOLO II - APPLICABILITA' DEGLI ATTI DELLE ISTITUZIONI
+### TITOLO II - APPLICABILITA' DEGLI ATTI DELLE ISTITUZIONI
 
 ###### ARTICOLO 149
 
@@ -1896,7 +1880,7 @@ Gli accordi, decisioni e pratiche concertate esistenti al momento dell'adesione 
 
 Le disposizioni legislative, regolamentari e amministrative destinate ad assicurare, sul territorio dei nuovi Stati membri, la protezione sanitaria delle popolazioni e dei lavoratori contro i pericoli derivanti dalle radiazioni ionizzanti sono comunicate da questi Stati alla Commissione, conformemente all'articolo 33 del trattato CEEA, entro tre mesi dall'adesione.
 
-## TITOLO III - DISPOSIZIONI FINALI
+### TITOLO III - DISPOSIZIONI FINALI
 
 ###### ARTICOLO 158
 

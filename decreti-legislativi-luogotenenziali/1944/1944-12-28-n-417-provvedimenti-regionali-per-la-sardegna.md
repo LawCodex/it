@@ -42,7 +42,7 @@ Abbiamo sanzionato e promulghiamo quanto segue:
 
 ## CAPO I - Alto Commissariato e Consulta regionale.
 
-#### Art. 1
+### Art. 1
 
 L'art. 1 del R. decreto-legge 16 marzo 1944, n. 90, e' modificato come segue:
 
@@ -58,7 +58,7 @@ Resta, in ogni caso riservata alle rispettive amministrazioni, ai sensi delle di
 
 d) interviene senza voto deliberativo al Consiglio dei Ministri, su convocazione del Presidente del Consiglio, limitatamente agli affari riguardanti la Sardegna».
 
-#### Art. 2
+### Art. 2
 
 Rientrano nella competenza dell'Alto Commissario:
 
@@ -70,7 +70,7 @@ Sempre entro i limiti di spesa fissati dai Ministeri competenti, l'Alto Commissa
 
 b) la facolta' di emanare, sentita la Consulta regionale, norme per l'attuazione, in relazione alle condizioni particolari della Sardegna, delle disposizioni concernenti l'agricoltura, le foreste, l'industria, il commercio, il lavoro, le comunicazioni e gli approvvigionamenti.
 
-#### Art. 3
+### Art. 3
 
 L'art. 6 del decreto-legge 16 marzo 1944, n. 90, e' modificato come segue:
 
@@ -86,23 +86,23 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. Luogotenenziale 10 agosto 1945, n. 516 ha disposto (con l'art. 1, comma 1) che "Il numero dei componenti da Consulta regionale per la Sardegna, istituita dall'art. 3 del decreto legislativo Luogotenenziale 28 dicembre 1944, n. 417, e' elevato da diciotto a ventiquattro".
 
-#### Art. 4
+### Art. 4
 
 La Consulta regionale esamina i problemi dell'Isola, formula proposte per l'ordinamento regionale ed assiste l'Alto Commissario nell'esercizio delle sue funzioni, pronunciandosi sui provvedimenti che saranno sottoposti al suo esame.
 
-#### Art. 5
+### Art. 5
 
 A decorrere dall'esercizio finanziario 1945-46 sara' istituita negli stati di previsione delle spese dei Ministeri competenti una rubrica speciale nella quale saranno raggruppate le spese di gestione nelle materie di competenza dell'Alto Commissariato per la Sardegna.
 
 Per i prescritti controlli saranno istituiti, presso l'Alto Commissariato per la Sardegna, un ufficio del Ministero del tesoro, con le funzioni delle Ragionerie centrali, ed una delegazione della Corte dei conti.
 
-#### Art. 6
+### Art. 6
 
 Per quanto non innovato o modificato dal presente decreto, restano ferme le disposizioni dei Regi decreti-legge 27 gennaio 1944, n. 21, e 16 marzo 1944, n. 90.
 
 ## CAPO II. - Provvedimenti per lo sviluppo agricolo.
 
-#### Art. 7
+### Art. 7
 
 E' istituito presso l'Alto Commissariato per la Sardegna un Comitato regionale per la bonifica ed il miglioramento fondiario, presieduto dall'Alto Commissario e composto del provveditore alle opere pubbliche, dell'ispettore agrario compartimentale, del rappresentante dell'Ente sardo di colonizzazione, di due agricoltori e di due lavoratori agricoli nominati dall'Alto Commissario, sentita la Consulta regionale. ((1))
 
@@ -114,11 +114,11 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. Luogotenenziale 10 agosto 1945, n. 516 ha disposto (con l'art. 2, comma 1) che "Il numero sia degli agricoltori sia dei lavoratori agricoli, componenti il Comitato regionale per la bonifica od il miglioramento fondiario, istituito presso l'Alto Commissariato per la Sardegna dall'art. 7 del decreto legislativo Luogotenenziale 28 dicembre 1944, n. 417, e' elevato da due a tre".
 
-#### Art. 8
+### Art. 8
 
 Il Comitato regionale predispone i programmi complessivi delle opere di cui all'art. 2 del R. decreto 13 febbraio 1933, n. 215, e delle conseguenti trasformazioni dell'agricoltura, stabilendo il loro ordine graduale di svolgimento. Determina inoltre criteri di massima per le opere previste dagli articoli 38 e 43 del citato decreto.
 
-#### Art. 9
+### Art. 9
 
 Il Comitato regionale ha, per il periodo di emergenza, il compito:
 
@@ -128,7 +128,7 @@ b) di stabilire i criteri e le forme di utilizzazione agraria e di miglioramento
 
 c) di favorire la costituzione di associazioni e cooperative agricole, con speciale riguardo a quelle di lavoratori della terra per la conduzione diretta di aziende agrarie.
 
-#### Art. 10
+### Art. 10
 
 Sulla base delle determinazioni di cui alla lettera b) dell'articolo precedente, l'ispettore agrario compartimentale prescrive la compilazione dei piani di utilizzazione e di miglioramento da attuare nei terreni incolti o insufficientemente coltivati e, qualora gli interessati non li presentino nei termini stabiliti, li redige direttamente.
 
@@ -138,11 +138,11 @@ Il compito di vigilare sull'osservanza degli obblighi imposti spetta all'Ispetto
 
 L'ispettore agrario compartimentale, per l'espletamento delle attribuzioni demandategli dal presente articolo, puo' anche valersi, oltre che degli ispettori agrari provinciali, dell'opera dell'Ente sardo di colonizzazione e dei consorzi di bonifica.
 
-#### Art. 11
+### Art. 11
 
 La concessione di terre non coltivale o insufficientemente coltivate a cooperative e ad altri enti, a norma del decreto legislativo Luogotenenziale 19 ottobre 1944, n. 279, e' subordinata all'obbligo di attuare i piani approvati.
 
-#### Art. 12
+### Art. 12
 
 Anche nel caso in cui non abbiano luogo le concessioni previste dall'articolo precedente, i proprietari dei fondi, per i quali sono stati prescritti piani di coltivazione e di miglioramento, sono tenuti ad attuarli.
 
@@ -150,11 +150,11 @@ Qualora i proprietari non assumano impegno di dare esecuzione ai piani loro impo
 
 Per l'esecuzione dei miglioramenti di cui al presente articolo potranno essere accordati sussidi o mutui col concorso statale nel pagamento degli interessi, a norma del decreto 13 febbraio 1933, n. 215.
 
-#### Art. 13
+### Art. 13
 
 L'Alto Commissario, sentita la Consulta regionale, promuovera' il riordinamento dell'Ente sardo di colonizzazione.
 
-#### Art. 14
+### Art. 14
 
 Per l'esecuzione in Sardegna di opere, pubbliche o private, di bonifica e di miglioramento fondiario a norma del R. decreto 13 febbraio 1933, n. 215, nonche' per scopi di istruzione tecnica, e' autorizzata la spesa di lire un miliardo.
 
@@ -162,99 +162,99 @@ Con decreti del Ministro per il tesoro, di concertocon i Ministri per l'agricolt
 
 ## Capo III. - Istituzione del Banco di Sardegna
 
-### ((CAPO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+## ((CAPO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 15
-
-((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
-
-#### Art. 16
+### Art. 15
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 17
+### Art. 16
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 18
+### Art. 17
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 19
+### Art. 18
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 20
+### Art. 19
+
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+
+### Art. 20
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
 ## CAPO IV - Provvedimenti per lo sviluppo industriale
 
-### ((CAPO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+## ((CAPO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 21
-
-((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
-
-#### Art. 22
+### Art. 21
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 23
+### Art. 22
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 24
+### Art. 23
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 25
+### Art. 24
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 26
+### Art. 25
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 27
+### Art. 26
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 28
+### Art. 27
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 29
+### Art. 28
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 30
+### Art. 29
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 31
+### Art. 30
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 32
+### Art. 31
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art 33
+### Art. 32
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 34
+### Art 33
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### Art. 35
+### Art. 34
+
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+
+### Art. 35
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
 ## CAPO V. - Procedimenti per lo sviluppo minerario
 
-#### Art. 36
+### Art. 36
 
 E' autorizzata la spesa di lire trecento milioni a titolo di anticipazioni alle imprese minerarie sarde per il finanziamento di spese resesi necessarie in dipendenza dell'attuale stato di guerra ed autorizzate dal Comando forze armate o dell'Alto Commissariato per la Sardegna sentito il locale distretto minerario.
 
@@ -268,11 +268,11 @@ I finanziamenti provvisori effettuati in attesa della erogazione delle anticipaz
 
 ## CAPO VI. - Disposizioni
 
-#### Art. 37
+### Art. 37
 
 Con decreti del Ministro per il tesoro sara' provveduto alle variazioni di bilancio occorrenti per l'attuazione del presente decreto.
 
-#### Art. 38
+### Art. 38
 
 Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno.
 

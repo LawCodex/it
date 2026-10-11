@@ -30,7 +30,7 @@ la seguente legge:
 
 ## CAPO I - FINALITA' E CAMPO DI APPLICAZIONE
 
-#### Art. 1 - Finalita' della legge e definizione di piccola impresa
+### Art. 1 - Finalita' della legge e definizione di piccola impresa
 
 1\. La presente legge ha la finalita' di promuovere lo sviluppo, l'innovazione e la competitivita' delle piccole imprese, costituite anche in forma cooperativa, con particolare riguardo:
 
@@ -64,7 +64,7 @@ b) le imprese artigiane di produzione di cui alla legge 8 agosto 1985, n. 443.
 
 6-bis. La definizione di piccola impresa, l'intensita' delle agevolazioni concedibili ai sensi della presente legge e gli investimenti oggetto delle stesse saranno adeguati, a decorrere dal 1 luglio 1993, con decreto del Ministro dell'industria, del commercio e dell'artigianato e, per la parte di competenza, del Ministro del tesoro, alla disciplina comunitaria degli aiuti di Stato, tenuto conto delle intese raggiunte con la Commissione delle Comunita' europee.
 
-#### Art. 2 - Societa' finanziarie per l'innovazione e lo sviluppo
+### Art. 2 - Societa' finanziarie per l'innovazione e lo sviluppo
 
 1\. Al fine di poter beneficiare delle agevolazioni di cui all'articolo 9, possono essere costituite societa' finanziarie per l'innovazione e lo sviluppo aventi come oggetto sociale esclusivo l'assunzione di partecipazioni temporanee al capitale di rischio di piccole imprese costituite in forma di societa' di capitali, che non possano comunque dar luogo alla determinazione delle condizioni di cui all'articolo 2359 del codice civile.
 
@@ -94,7 +94,7 @@ AGGIORNAMENTO (5)
 
 Il D.Lgs. 1 settembre 1993, n. 385 ha disposto (con l'art. 161, comma 5) che le disposizioni emanate dalle autorita' creditizie ai sensi di norme abrogate o sostituite continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati ai sensi del D.Lgs. 5 ottobre 1991, n. 317.
 
-#### Art. 3 - Forme di partecipazione al capitale di rischio
+### Art. 3 - Forme di partecipazione al capitale di rischio
 
 1\. Ai fini della verifica dei limiti di partecipazione al capitale di rischio delle piccole imprese ai sensi dell'articolo 2 per l'ammissione alle agevolazioni previste dall'articolo 9, si considerano le seguenti operazioni:
 
@@ -116,7 +116,7 @@ c) da societa' o enti dei cui organi facciano parte gli amministratori di societ
 
 d) da societa' che siano finanziate in misura prevalente dai soggetti di cui alle lettere a), b) e c).
 
-#### Art. 4 - Controlli
+### Art. 4 - Controlli
 
 1\. Per il controllo delle dichiarazioni, corredate dei relativi allegati, inviate, ai sensi dell'articolo 10, comma 1, dalle imprese ammesse ai benefici di cui agli articoli 6, 7, 8 e 9, nonche' delle domande di agevolazione avanzate dalle imprese ammesse ai benefici di cui all'articolo 12, il Ministero dell'industria, del commercio e dell'artigianato si avvale, anche congiuntamente, sulla base di apposite convenzioni, dell'Istituto centrale per il credito a medio termine (Mediocredito centrale), nonche' degli istituti abilitati al credito a medio termine e della Cassa per il credito alle imprese artigiane.
 
@@ -130,11 +130,9 @@ d) da societa' che siano finanziate in misura prevalente dai soggetti di cui all
 
 6\. Il Ministro dell'industria, del commercio e dell'artigianato provvede a coordinare le attivita' di cui al comma 3 con le rilevazioni operate dalle diverse regioni e a presentare al Parlamento entro il 31 marzo di ogni anno una relazione conclusiva.
 
-## CAPO II - INTERVENTI PER LA DIFFUSIONE
+## CAPO II - INTERVENTI PER LA DIFFUSIONE DELL'INNOVAZIONE
 
-### DELL'INNOVAZIONE
-
-#### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.L. 22 GIUGNO 2012, N. 83, CONVERTITO, CON MODIFICAZIONI, DALLA L. 7 AGOSTO 2012, N. 134)) ((18))
 
@@ -144,7 +142,7 @@ AGGIORNAMENTO (18)
 
 Il D.L. 22 giugno 2012, n. 83, convertito con modificazioni dalla L. 7 agosto 2012, n. 134, ha disposto (con l'art. 23, comma 11) che "I procedimenti avviati in data anteriore a quella di entrata in vigore del presente decreto-legge sono disciplinati, ai fini della concessione e dell'erogazione delle agevolazioni e comunque fino alla loro definizione, dalle disposizioni delle leggi di cui all'Allegato 1 e dalle norme di semplificazione recate dal presente decreto-legge".
 
-#### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.L. 22 GIUGNO 2012, N. 83, CONVERTITO, CON MODIFICAZIONI, DALLA L. 7 AGOSTO 2012, N. 134)) ((18))
 
@@ -154,11 +152,11 @@ AGGIORNAMENTO (18)
 
 Il D.L. 22 giugno 2012, n. 83, convertito con modificazioni dalla L. 7 agosto 2012, n. 134, ha disposto (con l'art. 23, comma 11) che "I procedimenti avviati in data anteriore a quella di entrata in vigore del presente decreto-legge sono disciplinati, ai fini della concessione e dell'erogazione delle agevolazioni e comunque fino alla loro definizione, dalle disposizioni delle leggi di cui all'Allegato 1 e dalle norme di semplificazione recate dal presente decreto-legge".
 
-#### Art. 7
+### Art. 7
 
 (( ARTICOLO ABROGATO DALLA L. 7 AGOSTO 1997, N. 266 ))
 
-#### Art. 8
+### Art. 8
 
 ((ARTICOLO ABROGATO DAL D.L. 22 GIUGNO 2012, N. 83, CONVERTITO, CON MODIFICAZIONI, DALLA L. 7 AGOSTO 2012, N. 134)) ((18))
 
@@ -168,13 +166,13 @@ AGGIORNAMENTO (18)
 
 Il D.L. 22 giugno 2012, n. 83, convertito con modificazioni dalla L. 7 agosto 2012, n. 134, ha disposto (con l'art. 23, comma 11) che "I procedimenti avviati in data anteriore a quella di entrata in vigore del presente decreto-legge sono disciplinati, ai fini della concessione e dell'erogazione delle agevolazioni e comunque fino alla loro definizione, dalle disposizioni delle leggi di cui all'Allegato 1 e dalle norme di semplificazione recate dal presente decreto-legge".
 
-#### Art. 9 - Agevolazioni per le partecipazioni al capitale di rischio
+### Art. 9 - Agevolazioni per le partecipazioni al capitale di rischio
 
 1\. Le societa' finanziarie per l'innovazione e lo sviluppo di cui all'articolo 2 sono ammesse, nel triennio 1991-1993, a fruire di un credito d'imposta, per ciascun periodo d'imposta, nella misura del 5 per cento dell'incremento delle partecipazioni assunte nel corso di ciascun esercizio ed esistenti alla data del 31 dicembre, e comunque per non piu' di 200 milioni di lire.
 
 2\. Gli oneri derivanti dall'applicazione del presente articolo gravano sul fondo di cui all'articolo 43, comma 1, nel limite di lire 14 miliardi per il triennio 1991-1993, in ragione di lire 4,6 miliardi per l'anno 1991 e di lire 4,7 miliardi per ciascuno degli anni 1992 e 1993.
 
-#### Art. 10 - Credito d'imposta: norma di attuazione
+### Art. 10 - Credito d'imposta: norma di attuazione
 
 1\. Ai fini della concessione del credito di imposta previsto dagli articoli 6, 7, 8 e 9, i soggetti di cui all'articolo 1, commi 3 e 4, dichiarano al Ministero dell'industria, del commercio e dell'artigianato l'importo dei costi sostenuti con riferimento a ciascuna delle tipologie di investimento di cui all'articolo 5, comma 1, alle spese di cui agli articoli 7 e 8 ovvero all'entita' delle partecipazioni assunte ai sensi dell'articolo 3, comma 1.
 
@@ -196,7 +194,7 @@ Il D.L. 22 giugno 2012, n. 83, convertito con modificazioni dalla L. 7 agosto 20
 
 10\. Con decreti del Ministro dell'industria, del commercio e dell'artigianato, di concerto con il Ministro delle finanze, da pubblicare nella Gazzetta Ufficiale entro trenta giorni dalla data di entrata in vigore della presente legge, sono stabilite le modalita' di attuazione delle disposizioni contenute nel presente articolo.
 
-#### Art. 11 - Disposizioni tributarie
+### Art. 11 - Disposizioni tributarie
 
 1\. Ai fini della formazione del reddito di impresa il credito d'imposta di cui agli articoli 6, 7, 8 e 9 e i contributi di cui all'articolo 12 sono considerati sopravvenienze attive del periodo d'imposta in cui sono stati concessi, ai sensi dell'articolo 55, comma 3, lettera b), del testo unico approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917.
 
@@ -206,7 +204,7 @@ Il D.L. 22 giugno 2012, n. 83, convertito con modificazioni dalla L. 7 agosto 20
 
 4\. A far data dalla comunicazione al Ministro delle finanze di cui all'articolo 13, comma 1, decorre il termine di cui all'articolo 57 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e all'articolo 17 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, e successive modificazioni, ai fini del recupero del credito d'imposta non spettante. Sulle somme dovute a tale titolo si applicano gli interessi nella misura stabilita dal comma 5 dell'articolo 13.
 
-#### Art. 12
+### Art. 12
 
 ((ARTICOLO ABROGATO DAL D.L. 22 GIUGNO 2012, N. 83, CONVERTITO, CON MODIFICAZIONI, DALLA L. 7 AGOSTO 2012, N. 134)) ((18))
 
@@ -216,7 +214,7 @@ AGGIORNAMENTO (18)
 
 Il D.L. 22 giugno 2012, n. 83, convertito con modificazioni dalla L. 7 agosto 2012, n. 134, ha disposto (con l'art. 23, comma 11) che "I procedimenti avviati in data anteriore a quella di entrata in vigore del presente decreto-legge sono disciplinati, ai fini della concessione e dell'erogazione delle agevolazioni e comunque fino alla loro definizione, dalle disposizioni delle leggi di cui all'Allegato 1 e dalle norme di semplificazione recate dal presente decreto-legge".
 
-#### Art. 13
+### Art. 13
 
 Revoca delle agevolazioni
 
@@ -232,7 +230,7 @@ Revoca delle agevolazioni
 
 6\. Per le restituzioni di cui al comma 5 si applicano le disposizioni di cui all'articolo 37, comma 3. Le somme restituite ai sensi del comma 5 sono versate in apposito capitolo dell'entrata del bilancio dello Stato per essere riassegnate, con decreto del Ministro del tesoro, al fondo di cui all'articolo 43, comma 1, per l'attuazione degl interventi di cui all'articolo 6.
 
-#### Art. 14 - Agevolazioni per la diffusione commerciale
+### Art. 14 - Agevolazioni per la diffusione commerciale
 
 1\. A valere sulle disponibilita' attribuite per gli anni 1991 e 1992 al fondo istituito presso il Mediocredito centrale per la corresponsione di contributi in conto interessi ai sensi dell'articolo 37, secondo comma, del decreto-legge 26 ottobre 1970, n. 745, convertito, con modificazioni, dalla legge 18 dicembre 1970, n. 1034, come sostituito dall'articolo 3 della legge 28 maggio 1973, n. 295, e successive modificazioni e integrazioni, e' assegnata la somma di lire 100 miliardi, in ragione di lire 50 miliardi per ciascuno degli anni 1991 e 1992, al fondo per il finanziamento delle operazioni previste dall'articolo 2 del decreto-legge 28 maggio 1981, n. 251, convertito, con modificazioni, dalla legge 29 luglio 1981, n.
 
@@ -242,11 +240,9 @@ Revoca delle agevolazioni
 
 3\. Entro i limiti e con le modalita' stabiliti con decreto del Ministero del tesoro, adottato di concerto con il Ministro dell'industria, del commercio e dell'artigianato e con il Ministro del commercio con l'estero, possono essere utilizzate, per i finanziamenti di cui al comma 2, le disponibilita' assegnate al fondo istituito presso il Mediocredito centrale per la corresponsione di contributi in conto interessi, di cui al citato articolo 37, secondo comma, del decreto-legge n. 745 del 1970.
 
-## CAPO III - PARTECIPAZIONE AD AZIONI COMUNITARIE E DISPOSIZIONI PER LE AREE
+## CAPO III - PARTECIPAZIONE AD AZIONI COMUNITARIE E DISPOSIZIONI PER LE AREE TERRITORIALI SVANTAGGIATE
 
-### TERRITORIALI SVANTAGGIATE
-
-#### Art. 15 - Partecipazioni ad azioni comunitarie
+### Art. 15 - Partecipazioni ad azioni comunitarie
 
 1\. Nel caso di azioni comunitarie cofinanziate, che interessino anche parzialmente il territorio italiano, dirette a promuovere lo sviluppo economico o a favorire la ripresa di zone colpite da fenomeni di declino industriale ovvero ristrutturazione o riconversione di uno specifico settore industriale, anche attraverso interventi di dimissione di impianti obsoleti, alla relativa quota nazionale - ai sensi dell'articolo 6 della legge 16 aprile 1987, n. 183 - si fa fronte con le disponibilita' del fondo di rotazione di cui all'articolo 5 della medesima legge e secondo le procedure e le modalita' previste, tenuto anche conto di quanto stabilito dai commi 2, 3, 4 e 5 del presente articolo. Ai sensi e per gli effetti di cui all'articolo 5, coma 2, lettera c), della citata legge n. 183 del 1987, al fondo di cui al presente comma puo' essere versata, per l'attuazione degli interventi di cui al presente articolo, una somma non superiore al 10 per cento delle autorizzazioni di spesa recate dagli articoli 6, 7 e 8 della presente legge.
 
@@ -294,7 +290,7 @@ In caso di mancato rispetto dei termini predetti, si applicano l'articolo 6, com
 
 > "Art. 11. - 1. Oltre che nel caso previsto dall'art. 6, comma 3, della legge 16 aprile 1987, n. 183, l'amministrazione competente e' tenuta a provvedere al recupero ed alla restituzione al Fondo di rotazione delle somme erogate o anticipate, ivi comprsi gli interessi in conformita' con l'ordinamento vigente e la legislazione comunitaria, anche in tutti i casi di decadenza dal beneficio comunitario".
 
-#### Art. 16 - Disposizioni per le imprese situate in aree territoriali svantaggiate
+### Art. 16 - Disposizioni per le imprese situate in aree territoriali svantaggiate
 
 1\. Per le imprese e le societa' finanziarie per l'innovazione e lo sviluppo di cui all'articolo 1, costituite e operanti nelle regioni italiane individuate nell'allegato al Regolamento CEE n. 2052/88 del Consiglio, e nei territori italiani colpiti da fenomeni di declino industriale, individuati con decisione della Commissione delle Comunita europee del 21 marzo 1989 e interessati delle azioni comunitarie di sviluppo di cui al citato regolamento CEE n. 2052/88, la percentuale delle spese o dell'incremento delle partecipazioni ammissibili alle agevolazioni di ciu agli articoli 6, 7, 8, 9 e 12 nonche' l'importo delle agevolazioni stesse sono aumentati del 50 per cento.
 
@@ -354,11 +350,9 @@ In caso di mancato rispetto dei termini predetti, si applicano l'articolo 6, com
 
 > Il CIPI, entro trenta giorni dall'entrata in vigore della presente legge, stabilisce le condizioni di ammissibilita' agli interventi del fondo, indica la priorita' di questo avendo riguardo alle esigenze generali dell'economia nazionale e determina i criteri per le modalita' dell'istruttoria".
 
-## CAPO IV - CONSORZI E SOCIETA' CONSORTILI
+## CAPO IV - CONSORZI E SOCIETA' CONSORTILI TRA PICCOLE IMPRESE
 
-### TRA PICCOLE IMPRESE
-
-#### Art. 17
+### Art. 17
 
 ((ARTICOLO ABROGATO DAL D.L. 22 GIUGNO 2012, N. 83, CONVERTITO, CON MODIFICAZIONI, DALLA L. 7 AGOSTO 2012, N. 134)) ((18))
 
@@ -368,13 +362,13 @@ AGGIORNAMENTO (18)
 
 Il D.L. 22 giugno 2012, n. 83, convertito con modificazioni dalla L. 7 agosto 2012, n. 134, ha disposto (con l'art. 23, comma 11) che "I procedimenti avviati in data anteriore a quella di entrata in vigore del presente decreto-legge sono disciplinati, ai fini della concessione e dell'erogazione delle agevolazioni e comunque fino alla loro definizione, dalle disposizioni delle leggi di cui all'Allegato 1 e dalle norme di semplificazione recate dal presente decreto-legge".
 
-#### Art. 18 - Composizione dei consorzi e delle societa' consortili
+### Art. 18 - Composizione dei consorzi e delle societa' consortili
 
 1\. I consorzi e le societe' consortili di cui all'articolo 17 debbono essere costituiti da almeno cinque imprese e avere un fondo consortile o capitale sociale non inferiore a 20 milioni. La quota consortile sottoscritta da ciascuna impresa non puo' superare il 20 per cento del fondo consortile o del capitale sociale.
 
 2\. Non possono essere distribuiti utili o avanzi di esercizio di ogni genere e sotto qualsiasi forma alle imprese consorziate, neppure in caso di scioglimento dezl consorzio o della societa' consortile. Tale divieto deve risultare da espressa disposizione dello statuto.
 
-#### Art. 19 - Oggetto dell'attivita'
+### Art. 19 - Oggetto dell'attivita'
 
 1\. L'attivita' dei consorzi e delle societa' consortili di cui all'articolo 17, da svolgersi nell'interesse delle imprese consorziate, puo' riguardare:
 
@@ -408,7 +402,7 @@ p) l'acquisizione, costituzione e gestione di aree attrezzate;
 
 q) altre attivita' che si colleghino alle iniziative di cui alle lettere precedenti.
 
-#### Art. 20 - Contributi per il sostegno dei consorzi di servizi
+### Art. 20 - Contributi per il sostegno dei consorzi di servizi
 
 1\. A valere sul fondo di cui all'articolo 43, comma 1, sono concessi contributi in conto capitale ai consorzi e alle societa' consortili di cui all'articolo 17 per il finanziamento di programmi volti a promuovere le attivita' di cui all'articolo 19. Nei territori di cui all'allegato al Regolamento CEE n. 2052/88 del Consiglio, e nei territori italiani colpiti da fenomeni di declino industriale, individuati con decisione della Commissione delle Comunita' europee del 21 marzo 1989 e interessati dalle azioni comunitarie di sviluppo di cui al citato Regolamento CEE n. 2052/88, la concessione dei predetti contributi puo' essere estesa anche alla fase organizzativa e di avvio dei consorzi o delle societa' consortili.
 
@@ -422,7 +416,7 @@ Il D.M. 26 aprile 1993, n. 297 ha disposto (con l'art. 1, comma 1) che "il termi
 
 decreto n. 297/1993".
 
-#### Art. 21 - Accesso ai contributi
+### Art. 21 - Accesso ai contributi
 
 1\. Per accedere ai contributi in conto capitale di cui all'articolo 20 i consorzi e le societa' consortili interessati debbono presentare alla regione competente per territorio e, per conoscenza, al Ministero dell'industria, del commercio e dell'artigianato, un programma di attivita', anche a carattere pluriennale, chiedendo l'ammissione agli interventi del fondo di cui all'articolo 43, comma 1. Il programma deve indicare:
 
@@ -452,7 +446,7 @@ AGGIORNAMENTO (2)
 
 La Corte costituzionale con sentenza 23 ottobre-10 novembre 1992, n. 427 (in G.U. 1a s.s. 18/11/1992, n. 48) ha dichiarato "l'illegittimita' costituzionale dell'art. 21, comma 5, della legge 5 ottobre 1991 n. 317 (Interventi per l'innovazione e lo sviluppo delle piccole imprese), nella parte in cui non contempla che il potere sostitutivo del Ministro dell'industria, del commercio e dell'artigianato, nelle materie di competenza delle regioni e delle province autonome di Trento e di Bolzano, sia esercitato, in caso di loro inerzia, previa diffida alle stesse".
 
-#### Art. 22 - Ammontare del contributo e liquidazione
+### Art. 22 - Ammontare del contributo e liquidazione
 
 1\. Il contributo in conto capitale di cui all'articolo 20 e' concesso, entro il limite di lire 300 milioni annui per ciascun soggetto beneficiario, e per non piu' di lire 800 milioni in un triennio, nella misura massima del 30 per cento delle spese sostenute per la realizzazione del programma.
 
@@ -472,7 +466,7 @@ La Corte costituzionale con sentenza 23 ottobre-10 novembre 1992, n. 427 (in G.U
 
 > \- Per la decisione della commissione delle comunita' europee del 21 marzo 1989 vedi nota all'art. 15.
 
-#### Art. 23
+### Art. 23
 
 ((ARTICOLO ABROGATO DAL D.L. 22 GIUGNO 2012, N. 83, CONVERTITO, CON MODIFICAZIONI, DALLA L. 7 AGOSTO 2012, N. 134)) ((18))
 
@@ -482,7 +476,7 @@ AGGIORNAMENTO (18)
 
 Il D.L. 22 giugno 2012, n. 83, convertito con modificazioni dalla L. 7 agosto 2012, n. 134, ha disposto (con l'art. 23, comma 11) che "I procedimenti avviati in data anteriore a quella di entrata in vigore del presente decreto-legge sono disciplinati, ai fini della concessione e dell'erogazione delle agevolazioni e comunque fino alla loro definizione, dalle disposizioni delle leggi di cui all'Allegato 1 e dalle norme di semplificazione recate dal presente decreto-legge".
 
-#### Art. 24 - Finanziamenti agevolati
+### Art. 24 - Finanziamenti agevolati
 
 1\. Per la promozione delle attivita' di cui all'articolo 19 possono essere concessi dagli istituti ed aziende di credito di cui all'articolo 19 della legge 25 luglio 1952, n. 949, e successive integrazioni, anche in deroga alle disposizioni dei singoli statuti, finanziamenti agevolati, di importo non superiore a 2 miliardi di lire e di durata non superiore a 2 miliardi di lire e di durata non superiore ai dieci anni. Tali limiti possono essere modificati con decreto del Ministro dell'industria, del commercio e dell'artigianato su conforme deliberazione del CIPI. Nei territori di cui all'allegato al Regolamento CEE n. 2052/88 del Consiglio, e nei territori italiani colpiti da fenomeni di declino industriale, individuati con decisione della Commissione delle Comunita' europee del 21 marzo 1989 e interessati dalle azioni comunitarie di sviluppo di cui al citato Regolamento CEE n. 2052/88, le agevolazioni previste dal presente articolo possono essere estese anche alla fase di organizzazione e di avvio dei consorzi o delle societa' consortili.
 
@@ -508,7 +502,7 @@ Il D.L. 22 giugno 2012, n. 83, convertito con modificazioni dalla L. 7 agosto 20
 
 > \- Per la decisione della commissione delle comunita' europee del 21 marzo 1989 vedi nota all'art. 15.
 
-#### Art. 25 - Intervento del Mediocredito centrale
+### Art. 25 - Intervento del Mediocredito centrale
 
 1\. Il Mediocredito centrale e' autorizzato ad effettuare tutte le operazioni finanziarie previste dall'articolo 2 della legge 30 aprile 1962, n. 265, con gli istituti e le aziende di credito di cui all'articolo 19 della legge 25 luglio 1952, n. 949, e successive integrazioni, allo scopo di porre gli istituti e le aziende stessi in condizione di praticare sui finanziamenti di cui all'articolo 24 un tasso, comprensivo di ogni onere accessorio e spesa, pari al 60 per cento del tasso di riferimento vigente per il settore industriale.
 
@@ -544,7 +538,7 @@ Il D.L. 22 giugno 2012, n. 83, convertito con modificazioni dalla L. 7 agosto 20
 
 > \- Per il testo dell'art. 10 della legge n. 240/1981 vedi nota all'art. 21.
 
-#### Art. 26 - Garanzia integrativa
+### Art. 26 - Garanzia integrativa
 
 1\. Il secondo e terzo comma dell'articolo 20 della legge 12 agosto 1977, n. 675, cosi' come modificati dall'articolo 12-bis del decreto- legge 30 gennaio 1979, n. 23, convertito, con modificazioni, dalla legge 29 marzo 1979, n. 91, sono sostituiti dai seguenti:
 
@@ -614,7 +608,7 @@ La garanzia si esplica nella misura massima del 40 per cento dell'insolvenza dop
 
 > \- Per il testo dell'art. 19 della legge n. 949/1952 vedi nota all'art. 24.
 
-#### Art. 27
+### Art. 27
 
 ((ARTICOLO ABROGATO DAL D.L. 22 GIUGNO 2012, N. 83, CONVERTITO, CON MODIFICAZIONI, DALLA L. 7 AGOSTO 2012, N. 134)) ((18))
 
@@ -624,7 +618,7 @@ AGGIORNAMENTO (18)
 
 Il D.L. 22 giugno 2012, n. 83, convertito con modificazioni dalla L. 7 agosto 2012, n. 134, ha disposto (con l'art. 23, comma 11) che "I procedimenti avviati in data anteriore a quella di entrata in vigore del presente decreto-legge sono disciplinati, ai fini della concessione e dell'erogazione delle agevolazioni e comunque fino alla loro definizione, dalle disposizioni delle leggi di cui all'Allegato 1 e dalle norme di semplificazione recate dal presente decreto-legge".
 
-#### Art. 28 - Revoca delle agevolazioni
+### Art. 28 - Revoca delle agevolazioni
 
 1\. La revoca delle agevolazioni di cui agli articoli 20 e 27 e' disposta qualora i programmi incentivati non siano stati attuati entro tre anni dalla data del decreto di concessione dell'agevolazione.
 
@@ -632,11 +626,9 @@ Il D.L. 22 giugno 2012, n. 83, convertito con modificazioni dalla L. 7 agosto 20
 
 3\. Per le restituzioni di cui al comma 2 si applicano le disposizioni di cui all'articolo 37, comma 3. Le relative somme affluiscono al fondo di cui all'articolo 43, comma 1, per la concessione delle agevolazioni di cui agli articoli 20 e 27.
 
-## CAPO V - CONSORZI DI GARANZIA
+## CAPO V - CONSORZI DI GARANZIA COLLETTIVA FIDI
 
-### COLLETTIVA FIDI
-
-#### Art. 29 - Consorzi di garanzia collettiva fidi
+### Art. 29 - Consorzi di garanzia collettiva fidi
 
 1\. Ai fini dell'ammissione ai benefici di cui all'articolo 31, si considerano consorzi e cooperative di garanzia collettiva fidi i consorzi, le societa' consortili e le cooperative di cui all'articolo 30 che abbiano come scopo sociali:
 
@@ -648,11 +640,11 @@ b) l'attivita' di informazione, di consulenza e di assistenza alle imprese conso
 
 (( 2-bis. Ai consorzi e cooperative di garanzia collettiva fidi possono continuare a partecipare le imprese associate che superino i limiti dimensionali indicati dall'Unione europea per le piccole e medie imprese e non quelli previsti per gli interventi della Banca europea degli investimenti (Bei) a favore delle piccole e medie imprese, purche' complessivamente non rappresentino piu' del 5 per cento delle imprese associate. Per dette imprese i consorzi e le cooperative di garanzia collettiva fidi non possono beneficiare degli interventi agevolati previsti per le piccole e medie imprese. ))
 
-#### Art. 30 - Ammissione alle agevolazioni statali
+### Art. 30 - Ammissione alle agevolazioni statali
 
 1\. Le cooperative, in consorzi e le societa' consortili, anche in forma cooperativa, che svolgono le attivita' di cui all'articolo 29 sono ammessi a beneficiare dell'intervento dello Stato previsto dalle disposizioni del presente Capo se costituiti da almeno 50 piccole imprese industriali, commerciali e di servizi e da imprese artigiane di cui alla legge 8 agosto 1985, n. 443, anche a carattere intersettoriale e dispongono di fondi di garanzia monetari (fondi rischi) costituiti da versamenti delle stesse imprese consorziate di importo non inferiore a lire 50 milioni.
 
-#### Art. 31 - Modalita' dell'intervento statale
+### Art. 31 - Modalita' dell'intervento statale
 
 1\. I fondi di garanzia monetari costituiti da consorzi, societa' consortili o cooperative di cui all'articolo 30 possono essere reintegrati nel limite massimo pari al 30 per cento delle perdite subite nel corso di ciascun esercizio in conseguenza degli interventi di garanzia, operati successivamente alla data di entrata in vigore della presente legge, a condizione che questi ultimi siano stati assunti per un importo massimo non superiore al 50 per cento del finanziamento utilizzato dalle imprese. L'anzidetto limite massimo di reintegro e' aumentabile al 40 per cento quando la garanzia consortile sia prestata su operazioni di finanziamento di durata superiore a diciotto mesi o quando le cooperative, i consorzi o le societa' consortili abbiano competenza operativa estesa al territorio regionale. Il medesimo limite puo' essere aumentato al 50 per cento per le cooperative, i consorzi e le societa' consortili ubicati nei territori di cui all'allegato al Regolamento CEE n. 2052/88 del Consiglio, e nei territori italiani colpiti da fenomeni di declino industriale, individuati con decisione della Commissione delle Comunita' europee del 21 marzo 1989 e interessati dalle azioni comunitarie di sviluppo di cui al citato Regolamento CEE n. 2052/88.
 
@@ -672,19 +664,19 @@ b) l'attivita' di informazione, di consulenza e di assistenza alle imprese conso
 
 > \- Per la decisione della Commissione delle Comunita' europee del 21 marzo 1989 vedi nota all'art. 15.
 
-#### Art. 32 - Concessione di contributi
+### Art. 32 - Concessione di contributi
 
 1\. I contributi di cui all'articolo 31 sono concessi dal Ministro del tesoro, che stabilisce, con propri decreti, i limiti e le modalita' dell'intervento dello Stato ivi previsto, nonche' i criteri di ammissione dei beneficiari secondo l'ordine cronologico delle domande e di ripartizione delle risorse tra le imprese industriali, artigiane, commerciali e di servizi di cui al comma 5 del medesimo articolo 31.
 
 2\. Le regioni possono, anche attraverso le societa' finanziarie regionali, erogare contributi al fondo rischi consortili dei consorzi di garanzia collettiva fidi.
 
-#### Art. 33
+### Art. 33
 
 (( ARTICOLO ABROGATO DAL D.L. 30 SETTEMBRE 2003, N. 269,
 
 CONVERTITO CON L. 24 NOVEMBRE 2003, N. 326))
 
-#### Art. 34
+### Art. 34
 
 ((ARTICOLO ABROGATO DAL D.L. 22 GIUGNO 2012, N. 83, CONVERTITO, CON MODIFICAZIONI, DALLA L. 7 AGOSTO 2012, N. 134)) ((18))
 
@@ -696,7 +688,7 @@ Il D.L. 22 giugno 2012, n. 83, convertito con modificazioni dalla L. 7 agosto 20
 
 ## CAPO VI - PRESTITI PARTECIPATIVI
 
-#### Art. 35 - Prestiti partecipativi
+### Art. 35 - Prestiti partecipativi
 
 1\. Gli istituti di credito mobiliare e le societa' finanziarie per l'innovazione e lo sviluppo, di cui all'articolo 2, possono concedere prestiti partecipativi per la realizzazione di programmi innovativi e di sviluppo delle piccole imprese, come definite dall'articolo 1, costituite in forma di societa' di capitali con capitale sociale di ammontare non inferiore a quello previsto per la costituzione delle societa' per azioni. A tali societa' si applicano le norme di cui all'articolo 2435 del codice civile.
 
@@ -732,7 +724,7 @@ Nel conto dei profitti e delle perdite dell'impresa finanziata, la predetta somm
 
 ## CAPO VII - DISPOSIZIONI VARIE
 
-#### Art. 36
+### Art. 36
 
 Sistemi produttivi locali, distretti industriali e consorzi di sviluppo industriale.
 
@@ -752,7 +744,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 18 maggio 2001, n. 228 ha disposto (con l'art. 13, comma 1) che "Si definiscono distretti rurali i sistemi produttivi locali di cui all'articolo 36, comma 1, della legge 5 ottobre 1991, n. 317, e successive modificazioni, caratterizzati da un'identita' storica e territoriale omogenea derivante dall'integrazione fra attivita' agricole e altre attivita' locali, nonche' dalla produzione di beni o servizi di particolare specificita', coerenti con le tradizioni e le vocazioni naturali e territoriali".
 
-#### Art. 37
+### Art. 37
 
 Modifiche e integrazioni alla legge 17 febbraio 1982, n. 46
 
@@ -820,11 +812,11 @@ AGGIORNAMENTO (15)
 
 La L.23 dicembre 1999, n. 488 ha disposto (con l'art. 54, comma 5) che a decorrere dalla data di pubblicazione del decreto attuativo del comma 5 della L. 488/99 e' abrogato l'art. 37 della L. 5 ottobre 1991, n. 317.
 
-#### Art. 38 - Coordinamento degli interventi
+### Art. 38 - Coordinamento degli interventi
 
 1\. Il CIPI, all'uopo integrato con il Ministro del commercio con l'estero, con propria delibera, adottata su proposta del Ministro dell'industria, del commercio e dell'artigianato, di concerto con il Ministro per gli interventi straordinari nel Mezzogiorno, formula direttive volte a coordinare gli interventi di cui alla presente legge con il complesso degli interventi anche comunitari in favore del sistema industriale nazionale. Il Ministro dell'industria, del commercio e dell'artigianato presenta annualmente al CIPI una relazione, successivamente trasmessa al Parlamento, sullo stato di attuazione della presente legge.
 
-#### Art. 39 - Riordinamento della Direzione generale della produzione industriale
+### Art. 39 - Riordinamento della Direzione generale della produzione industriale
 
 1\. Entro centoventi giorni dalla data di entrata in vigore della presente legge, con decreto del Presidente della Repubblica, emanato su proposta del Ministro dell'industria, del commercio e dell'artigianato ai sensi dell'articolo 17, comma 1, lettera d), della legge 23 agosto 1988, n. 400, si provvede alla riorganizzazione strutturale e funzionale della Direzione generale della produzione industriale, tenuto conto della necessita' di provvedere:
 
@@ -876,7 +868,7 @@ modificazioni, e alla legge 29 dicembre 1988, n. 554n e successive modificazioni
 
 > \- La legge n. 554/1988 (pubblicata nella Gazzetta Ufficiale 2 gennaio 1989, n. 1) reca: "Disposizioni in materia di pubblico impiego".
 
-#### Art. 40 - Integrazioni alla legge 25 luglio 1952, n. 949
+### Art. 40 - Integrazioni alla legge 25 luglio 1952, n. 949
 
 1\. Al secondo comma dell'articolo 17 della legge 25 luglio 1952, n. 949, e successive modificazioni, e' aggiunta, in fine, la seguente lettera:
 
@@ -902,7 +894,7 @@ modificazioni, e alla legge 29 dicembre 1988, n. 554n e successive modificazioni
 
 > e-bis) al finanziamento degli investimenti per l'innovazine tecnologica e per la tutela ambientale".
 
-#### Art. 41 - Interventi della Cassa per il credito alle imprese artigiane
+### Art. 41 - Interventi della Cassa per il credito alle imprese artigiane
 
 1\. Al fine di favorire l'incremento degli investimenti produttivi nei settori dell'artigianato, la Cassa per il credito alle imprese artigiane e' autorizzata a:
 
@@ -924,7 +916,7 @@ d) estendere l'attivita' del Fondo centrale di garanzia di cui alla legge 14 ott
 
 > \- La legge n. 1068/1969 reca: "Istituzione presso la Cassa per il credito alle imprese artigiane di un Fondo centrale di garanzia e modifiche al capo VI della legge 25 luglio 1952, n. 949, recante provvedimenti per lo sviluppo dell'economia e l'incremento della occupazione".
 
-#### Art. 42 - Comando di personale e soppressione dell'Istituto di credito per le piccole industrie e l'artigianato
+### Art. 42 - Comando di personale e soppressione dell'Istituto di credito per le piccole industrie e l'artigianato
 
 1\. Per lo svolgimento dei compiti previsti dalla presente legge, il Ministro dell'industria, del commercio e dell'artigianato puo', in attesa della revisione degli organici del Ministero dell'industria, del commercio e dell'artigianato, richiedere ad altre amministrazioni dello Stato, comprese quelle ad ordinamento autonomo, nonche' agli enti pubblici anche economici, il comando del personale occorrente fino ad un massimo di 15 unita', facendone indicazione nominativa. Le spese relative a detto personale restano a carico dell'Amministrazione statale o dell'ente di appartenenza.
 
@@ -936,7 +928,7 @@ d) estendere l'attivita' del Fondo centrale di garanzia di cui alla legge 14 ott
 
 ## CAPO VIII - COPERTURA FINANZIARIA
 
-#### Art. 43 - Assegnazione di fondi e copertura finanziaria
+### Art. 43 - Assegnazione di fondi e copertura finanziaria
 
 1\. Gli oneri derivanti dall'applicazione degli articoli 6, 7, 8, 9, 12, 22, 23, comma 1, 27 e 33 gravano sul fondo speciale rotativo per l'innovazione tecnologica, di cui all'articolo 14 della legge 17 febbraio 1982, n. 46, che, nei limiti di cui ai predetti articoli e per le finalita' ivi previste, e' integrato di complessive lire 1.514 miliardi nel triennio 1991-1993, in ragione di lire 128 miliardi nel 1991, lire 663 miliardi nel 1992 e lire 723 miliardi nel 1993.
 

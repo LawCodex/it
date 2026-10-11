@@ -30,11 +30,9 @@ la seguente legge:
 
 ## Titolo I - MISURE DI SEMPLIFICAZIONE IN FAVORE DELLE ATTIVITA' ECONOMICHE
 
-### Capo I
+### Capo I - Misure di semplificazione per le imprese
 
-#### Misure di semplificazione per le imprese
-
-##### Art. 1
+#### Art. 1
 
 Semplificazioni in materia di autotutela
 
@@ -58,7 +56,7 @@ Semplificazioni in materia di autotutela
 
 > 2-bis. I provvedimenti amministrativi conseguiti sulla base di false rappresentazioni dei fatti o di dichiarazioni sostitutive di certificazione e dell'atto di notorieta' false o mendaci per effetto di condotte costituenti reato, accertate con sentenza passata in giudicato, possono essere annullati dall'amministrazione anche dopo la scadenza del termine di sei mesi di cui al comma 1, fatta salva l'applicazione delle sanzioni penali nonche' delle sanzioni previste dal capo VI del testo unico di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445.»
 
-##### Art. 2
+#### Art. 2
 
 Misure di semplificazione in materia di interscambio di pallet
 
@@ -136,7 +134,7 @@ c) l'articolo 17-quater e' abrogato.
 
 > \- L'articolo 17-quater del decreto-legge 21 marzo 2022, n. 21 «Misure urgenti per contrastare gli effetti economici e umanitari della crisi ucraina», convertito, con modificazioni, dalla legge 20 maggio 2022, n. 51, abrogato dalla presente legge, recava: «Clausola di invarianza finanziaria».
 
-##### Art. 3
+#### Art. 3
 
 Misure di semplificazione normativa in materia di apparecchi di accensione
 
@@ -170,7 +168,7 @@ Misure di semplificazione normativa in materia di apparecchi di accensione
 
 > Gli apparecchi di accensione non compresi nella riserva di cui al precedente comma possono essere venduti al pubblico anche da privati esercenti in possesso della licenza, di cui alla lettera d).»
 
-##### Art. 4
+#### Art. 4
 
 Misure di semplificazione in materia di immigrazione
 
@@ -274,7 +272,7 @@ Nell'ipotesi in cui l'alloggio sia rappresentato da una struttura alberghiera o 
 
 > 16\. Le disposizioni di cui al presente articolo si applicano alle regioni a statuto speciale e alle province autonome di Trento e di Bolzano ai sensi degli statuti e delle relative norme di attuazione.»
 
-##### Art. 5
+#### Art. 5
 
 Misure di semplificazione in materia di sistemi di responsabilita' estesa del produttore
 
@@ -306,7 +304,7 @@ Misure di semplificazione in materia di sistemi di responsabilita' estesa del pr
 
 > 3\. Il deposito temporaneo prima della raccolta e' effettuato alle condizioni di cui ai commi 1 e 2 e non necessita di autorizzazione da parte dell'autorita' competente.»
 
-##### Art. 6
+#### Art. 6
 
 Semplificazioni per lo sviluppo di sistemi di agricoltura di precisione
 
@@ -332,7 +330,7 @@ c) nel rispetto della disciplina sull'impiego dello spazio aereo attraverso i si
 
 7\. All'attuazione delle disposizioni di cui al presente articolo si provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente e comunque senza nuovi o maggiori oneri a carico della finanza pubblica».
 
-##### Art. 7
+#### Art. 7
 
 Semplificazione in materia di aggiornamento degli operatori delle attivita' di autoriparazione
 
@@ -352,7 +350,7 @@ Semplificazione in materia di aggiornamento degli operatori delle attivita' di a
 
 > 4\. Fino all'adozione delle disposizioni regionali di attuazione dell'articolo 2 della presente legge, continuano ad applicarsi i programmi e le modalita' di svolgimento dei corsi regionali, di cui all'articolo 7, comma 2, lettera b), della legge 5 febbraio 1992, n. 122, previsti alla data di entrata in vigore della presente legge.»
 
-##### Art. 8
+#### Art. 8
 
 Semplificazioni in materia di canone patrimoniale di concessione
 
@@ -404,7 +402,7 @@ Semplificazioni in materia di canone patrimoniale di concessione
 
 > r) i passi carrabili, le rampe e simili destinati a soggetti portatori di handicap.»
 
-##### Art. 9
+#### Art. 9
 
 Modifica all'articolo 60 del decreto-legge 14 agosto 2020, n. 104, convertito, con modificazioni, dalla legge 13 ottobre 2020, n. 126, in materia di proroga di rifinanziamenti a sostegno delle imprese
 
@@ -452,11 +450,9 @@ Modifica all'articolo 60 del decreto-legge 14 agosto 2020, n. 104, convertito, c
 
 > Il Ministero dell'economia e delle finanze effettua il monitoraggio degli oneri recati dal presente comma ai fini di quanto previsto dall'articolo 17, comma 13, della legge 31 dicembre 2009, n. 196.»
 
-## Capo II
+### Capo II - Misure di semplificazione in materia di turismo
 
-### Misure di semplificazione in materia di turismo
-
-##### Art. 10
+#### Art. 10
 
 Misure di semplificazione della disciplina della professione di guida alpina
 
@@ -510,7 +506,7 @@ c) all'articolo 21:
 
 > 3-bis. Per esercitare l'attivita' su terreni innevati, gli accompagnatori di media montagna, gia' abilitati alla data di entrata in vigore del presente comma, sono tenuti ad effettuare dei corsi in materia di nivologia, di valanghe e di accompagnamento di persone su terreni innevati».
 
-##### Art. 11
+#### Art. 11
 
 Misure di semplificazione per l'istituzione di aree di parcheggio a servizio delle strutture alberghiere
 
@@ -538,7 +534,7 @@ Misure di semplificazione per l'istituzione di aree di parcheggio a servizio del
 
 > 5\. La violazione di cui ai commi 2, 3 e 4 importa la sanzione amministrativa accessoria dell'obbligo per l'autore della violazione stessa di rimuovere le opere abusive a proprie spese, secondo le norme del capo I, sezione II, del titolo VI.»
 
-##### Art. 12
+#### Art. 12
 
 Misure di semplificazione per i lavoratori del comparto turistico-ricettivo
 
@@ -570,7 +566,7 @@ Misure di semplificazione per i lavoratori del comparto turistico-ricettivo
 
 > 7\. Il termine di cui al comma 1 dell'articolo 3 del citato decreto-legge n. 152 del 2021, come modificato dal comma 6 del presente articolo, si applica anche ai procedimenti amministrativi avviati ai sensi del medesimo articolo 3, comma 1, del decreto-legge n. 152 del 2021 e pendenti alla data di entrata in vigore del presente decreto.»
 
-##### Art. 13
+#### Art. 13
 
 Semplificazione della disciplina dei servizi di trasporto pubblico di linea non soggetti a obblighi di servizio e non programmati
 
@@ -600,11 +596,9 @@ Semplificazione della disciplina dei servizi di trasporto pubblico di linea non 
 
 > Per quanto riguarda i servizi di pubblico trasporto svolgentisi su strade ed effettuati con autobus, gli accertamenti di cui al primo comma sono limitati al riconoscimento, ai fini della sicurezza e della regolarita' del servizio, della idoneita' del percorso, delle sue eventuali variazioni, nonche' dell'ubicazione delle fermate in relazione anche alle caratteristiche dei veicoli da impiegare. Restano ferme inoltre le norme del vigente codice della strada e delle relative disposizioni di esecuzione per cio' che concerne l'ammissione alla circolazione dei veicoli.»
 
-## Capo III
+### Capo III - Misure di semplificazione in materia di navigazione
 
-### Misure di semplificazione in materia di navigazione
-
-##### Art. 14
+#### Art. 14
 
 Competenze di sicurezza e di polizia del comandante del porto
 
@@ -618,7 +612,7 @@ Competenze di sicurezza e di polizia del comandante del porto
 
 > «Art. 81 (Altre attribuzioni di polizia). - Il comandante del porto disciplina, ai sensi dell'articolo 59 del regolamento per l'esecuzione del presente codice (Navigazione marittima), la sicurezza della naviga-zione, degli accosti e degli ormeggi e provvede alla polizia del porto o dell'approdo e delle relative adiacenze marittime, ferme re-stando le attribuzioni dell'Autorita' di pubblica sicurezza».
 
-##### Art. 15
+#### Art. 15
 
 Esenzione dall'annotazione di imbarco e sbarco
 
@@ -654,7 +648,7 @@ d) al comma 5, dopo le parole: «di cui al presente articolo» sono aggiunte le 
 
 > 5\. L'armatore puo' essere autorizzato dall'istituto assicuratore a tenere un'unica posizione contributiva per tutte le navi ovvero piu' posizioni contributive per gruppi di navi interessate alla procedura di cui al presente articolo e comunica settimanalmente all'autorita' marittima che ha rilasciato l'autorizzazione l'orario di lavoro effettivamente compiuto dai marittimi di cui al comma 1.»
 
-##### Art. 16
+#### Art. 16
 
 Forma del contratto
 
@@ -698,7 +692,7 @@ b) l'articolo 329 e' abrogato.
 
 > Tutte le certificazioni e i collaudi dei motopescherecci adibiti alla pesca professionale nonche' delle unita' di cui al decreto del Presidente della Repubblica 8 novembre 1991, n. 435, rilasciati dalle Amministrazioni statali e dagli organismi riconosciuti, in scadenza in data successiva al 30 gennaio 2020 e fino alla data del 30 settembre 2020, sono prorogati al 31 dicembre 2020.»
 
-##### Art. 17
+#### Art. 17
 
 Arruolamento del comandante in luogo ove non si trova l'armatore
 
@@ -728,7 +722,7 @@ b) al terzo comma, dopo le parole: «porto d'imbarco» sono inserite le seguenti
 
 > Quando, a norma del secondo comma dell'articolo 331 del codice, gli estremi della dichiarazione dell'armatore sono trasmessi al comandante del porto dove deve avvenire l'imbarco, l'autorita' che ha effettuato la comunicazione provvede successivamente alla trasmissione in originale della dichiarazione conservandone copia.»
 
-##### Art. 18
+#### Art. 18
 
 Riordino della disciplina del servizio sanitario a bordo di navi mercantili nazionali
 
@@ -786,7 +780,7 @@ Riordino della disciplina del servizio sanitario a bordo di navi mercantili nazi
 
 > \- Il capo IV del regio decreto 29 settembre 1895, n. 636 che approva il Regolamento per la sanita' marittima, abrogato dalla presente legge, recava: «medici di bordo».
 
-##### Art. 19
+#### Art. 19
 
 Disciplina dell'attivita' di consulente chimico di porto
 
@@ -814,9 +808,9 @@ Fino alla data di entrata in vigore dei decreti di cui al quinto comma e comunqu
 
 Il Ministero delle infrastrutture e dei trasporti, di concerto con il Ministero della salute, entro ventiquattro mesi dalla data di entrata in vigore dei decreti di cui al quinto comma, puo', con proprio decreto, apportare ulteriori disposizioni correttive in materia di attivita' e servizi svolti dal consulente chimico di porto, volte a chiarire il contenuto delle predette disposizioni e a garantire il piu' efficace funzionamento».
 
-## Capo IV - Ulteriori misure di semplificazione
+### Capo IV - Ulteriori misure di semplificazione
 
-##### Art. 20
+#### Art. 20
 
 Disposizioni in materia di rilascio del nulla osta al lavoro
 
@@ -838,7 +832,7 @@ b) al comma 3, dopo le parole: «sul piano nazionale» sono inserite le seguenti
 
 > 4\. Resta ferma la possibilita', da parte dell'Ispettorato nazionale del lavoro, in collaborazione con l'Agenzia delle entrate e, relativamente al settore agricolo, con l'Agenzia per le erogazioni in agricoltura, di effettuare controlli a campione sul rispetto dei requisiti e delle procedure di cui ai commi 1, 2 e 3.»
 
-##### Art. 21
+#### Art. 21
 
 Modifica al testo unico di cui al decreto legislativo 25 luglio 1998, n. 286, in materia di ingresso e soggiorno per lavoratori altamente qualificati
 
@@ -980,7 +974,7 @@ Modifica al testo unico di cui al decreto legislativo 25 luglio 1998, n. 286, in
 
 > 18-quater. Il Ministero dell'interno - Dipartimento per le liberta' civili e l'immigrazione costituisce punto di contatto per lo scambio di informazioni e documentazione con gli Stati membri ai fini dell'applicazione del presente articolo. Gli uffici e le amministrazioni competenti forniscono tempestivamente e in via telematica al punto di contatto di cui al comma 1 le informazioni e la documentazione necessarie. Con decreto direttoriale del Ministero dell'interno, sentite le amministrazioni interessate, sono fissate le linee guida per lo svolgimento dell'attivita' del punto di contatto.»
 
-##### Art. 22
+#### Art. 22
 
 Comunicazione del dipendente in cassa integrazione guadagni all'INPS e al datore di lavoro dello svolgimento di altra attivita' lavorativa
 
@@ -998,7 +992,7 @@ Comunicazione del dipendente in cassa integrazione guadagni all'INPS e al datore
 
 > 2-bis. Il lavoratore che fruisce del trattamento di integrazione salariale deve informare immediatamente il datore di lavoro, che ha richiesto il relativo intervento, di aver intrapreso un'attivita' lavorativa in relazione alla quale ha provveduto a fornire all'INPS la comunicazione di cui al comma 2.»
 
-##### Art. 23
+#### Art. 23
 
 Disposizioni in materia di lavoro occasionale in agricoltura
 
@@ -1020,7 +1014,7 @@ Disposizioni in materia di lavoro occasionale in agricoltura
 
 > c) al comma 20, le parole: « ; nel settore agricolo, il suddetto limite di durata e' pari al rapporto tra il limite di importo di cui al comma 1, lettera c), e la retribuzione oraria individuata ai sensi del comma 16 » e le parole: « , salvo che la violazione del comma 14 da parte dell'imprenditore agricolo non derivi dalle informazioni incomplete o non veritiere contenute nelle autocertificazioni rese nella piattaforma informatica INPS dai prestatori di cui al comma 8 » sono soppresse. »
 
-##### Art. 24
+#### Art. 24
 
 Modifiche alla disciplina del credito d'imposta di cui all'articolo 1, comma 396, della legge 29 dicembre 2022, n. 197
 
@@ -1062,7 +1056,7 @@ b) al comma 399:
 
 > 399\. Il credito d'imposta puo' essere utilizzato esclusivamente in compensazione ai sensi dell'articolo 17 del decreto legislativo 9 luglio 1997, n. 241, a decorrere dal giorno 10 del mese successivo a quello in cui l'ACRI ha trasmesso all'Agenzia delle entrate l'elenco delle fondazioni che hanno effettuato le erogazioni. Il credito d'imposta e' cedibile dalle fondazioni incorporanti a intermediari bancari, finanziari e assicurativi, secondo le modalita' definite con il provvedimento di cui al comma 400. Al credito d'imposta non si applicano i limiti di cui all'articolo 1, comma 53, della legge 24 dicembre 2007, n. 244, e all'articolo 34 della legge 23 dicembre 2000, n. 388. Per quanto non espressamente disciplinato dai commi da 396 a 401, si applicano le disposizioni in materia di liquidazione, accertamento, riscossione e contenzioso previste ai fini delle imposte sui redditi.»
 
-##### Art. 25
+#### Art. 25
 
 Misure di semplificazione in materia di spedizioni di prodotti numismatici
 
@@ -1090,7 +1084,7 @@ Misure di semplificazione in materia di spedizioni di prodotti numismatici
 
 > Per ciascuna di tali forme di assicurazione il mittente, salvo il disposto dell'art. 54, e' tenuto a pagare anticipatamente la relativa tassa.»
 
-##### Art. 26
+#### Art. 26
 
 Semplificazioni in materia di trasporto di animali
 
@@ -1124,7 +1118,7 @@ Semplificazioni in materia di trasporto di animali
 
 > 4-bis. I rimorchi di cui al comma 2, lettera b), possono essere utilizzati, se allestiti permanentemente con speciali attrezzature, fermi i limiti di sagoma o massa stabiliti ne-gli articoli 61 e 62, previa autorizzazione rilasciata dal servizio veterinario territorialmente competente ai sensi del regolamento (CE) n. 1/2005 del Consiglio, del 22 dicembre 2004, sulla protezione degli animali durante il trasporto, e ai sensi dell'Accordo sancito in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano il 20 marzo 2008, sulla medesima materia, anche per il trasporto di animali vivi».
 
-##### Art. 27
+#### Art. 27
 
 Modifica all'articolo 44 del codice delle comunicazioni elettroniche, per la semplificazione della pubblicazione dell'istanza di autorizzazione per le nuove infrastrutture di comunicazione
 
@@ -1186,7 +1180,7 @@ b) dopo le parole: «caratteristici dell'impianto» sono inserite le seguenti: �
 
 > 11\. Le opere debbono essere realizzate, a pena di decadenza, nel termine perentorio di dodici mesi dalla ricezione del provvedimento autorizzatorio espresso, ovvero dalla formazione del silenzio-assenso. Gli operatori che gestiscono apparati radioelettrici attivi comunicano l'attivazione dell'impianto all'ente locale e all'organismo competente ad effettuare i controlli, di cui all'articolo 14 della legge 22 febbraio 2001, n. 36, entro quindici giorni dalla attivazione stessa.»
 
-##### Art. 28
+#### Art. 28
 
 Misure di semplificazione in materia ambientale
 
@@ -1402,7 +1396,7 @@ Misure di semplificazione in materia ambientale
 
 > t) modifiche o estensioni di progetti di cui all'allegato III o all'allegato IV gia' autorizzati, realizzati o in fase di realizzazione, che possono avere notevoli ripercussioni negative sull'ambiente (modifica o estensione non inclusa nell'allegato III).»
 
-##### Art. 29
+#### Art. 29
 
 Modifica all'articolo 21 del decreto legislativo 21 novembre 2007, n. 231, in materia di accesso alle informazioni sulla titolarita' effettiva di persone giuridiche
 
@@ -1472,7 +1466,7 @@ Modifica all'articolo 21 del decreto legislativo 21 novembre 2007, n. 231, in ma
 
 > 7-bis. I soggetti obbligati che consultino i registri di cui al presente articolo a supporto degli adempimenti di adeguata verifica del titolare effettivo, acquisiscono e conservano prova dell'iscrizione del titolare effettivo nei predetti registri ovvero conservano un estratto dei registri idoneo a documentare tale iscrizione.»
 
-##### Art. 30
+#### Art. 30
 
 Semplificazioni in materia di cooperative elettriche storiche
 
@@ -1486,7 +1480,7 @@ Semplificazioni in materia di cooperative elettriche storiche
 
 > La presente disposizione non si applica alle cooperative elettriche iscritte nel Registro delle cooperative storiche dotate di rete propria di cui all'allegato A alla deliberazione dell'Autorita' di regolazione per energia, reti e ambiente n.116/2022/R/eel del 22 marzo 2022, e successive modificazioni, in relazione alla vendita di energia ai propri soci».
 
-##### Art. 31
+#### Art. 31
 
 Misure di semplificazione in materia agricola relative alle zone pedemontane svantaggiate
 
@@ -1512,7 +1506,7 @@ b) dopo il comma 703 e' inserito il seguente:
 
 > «Art. 1 (Risultati differenziali. Norme in materia di entrata e di spesa e altre disposizioni. Fondi speciali). - 703. Il Ministro dell'agricoltura, della sovranita' alimentare e delle foreste, entro quarantacinque giorni dalla data di entrata in vigore della presente legge, adotta un decreto di natura regolamentare per provvedere alla determinazione delle aree prealpine di collina, pedemontane e della pianura non irrigua, legate a specifici fattori di svantaggio, tra cui segnatamente: la frammentazione dei fondi, una minore produttivita' rispetto alla media nazionale, la concomitanza di zone urbanistiche a diversa destinazione, la concomitanza di aree protette nonche' la carenza di infrastrutture essenziali per l'agricoltura. Con il medesimo decreto sono stabiliti le modalita' di utilizzazione e gli obblighi di comunicazione, a cura dei beneficiari, della deroga prevista dall'articolo 1-bis, comma 12, del decreto-legge 24 giugno2014, n.91, convertito, con modificazioni, dalla legge 11 agosto 2014, n.116».
 
-##### Art. 32
+#### Art. 32
 
 Modifiche all'articolo 55 del decreto-legge 24 febbraio 2023, n. 13, relativo all'Agenzia italiana per la gioventu'
 
@@ -1540,7 +1534,7 @@ Modifiche all'articolo 55 del decreto-legge 24 febbraio 2023, n. 13, relativo al
 
 > 7\. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.»
 
-##### Art. 33
+#### Art. 33
 
 Modifica all'articolo 3 del decreto-legge 15 maggio 2024, n. 63, in materia di fatture elettroniche
 
@@ -1594,7 +1588,7 @@ Modifica all'articolo 3 del decreto-legge 15 maggio 2024, n. 63, in materia di f
 
 > 8-quater. La dotazione del Fondo di solidarieta' nazionale-interventi indennizzatori, di cui all'articolo 15, comma 3, del decreto legislativo 29 marzo 2004, n. 102, e' incrementata di ulteriori 15 milioni di euro per l'anno 2024, da destinare esclusivamente agli interventi di cui al comma 8-ter. Agli oneri derivanti dal primo periodo si provvede mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 443, della legge 30 dicembre 2023, n. 213.»
 
-##### Art. 34
+#### Art. 34
 
 Semplificazioni per la realizzazione di spettacoli dal vivo e proiezioni cinematografiche
 
@@ -1624,7 +1618,7 @@ Semplificazioni per la realizzazione di spettacoli dal vivo e proiezioni cinemat
 
 > «b-bis) opere non adatte ai minori di anni 10;».
 
-##### Art. 35
+#### Art. 35
 
 Riordino dell'Automobile Club d'Italia
 
@@ -1718,11 +1712,9 @@ Il D.L. 27 marzo 2026, n. 38, convertito con modificazioni dalla L. 22 maggio 20
 
 ## Titolo II - MISURE DI SEMPLIFICAZIONE IN FAVORE DEI CITTADINI
 
-### Capo I
+### Capo I - Semplificazione dei procedimenti amministrativi in favore dei cittadini
 
-#### Semplificazione dei procedimenti amministrativi in favore dei - cittadini
-
-##### Art. 36
+#### Art. 36
 
 Misure in materia di cremazione e dispersione delle ceneri
 
@@ -1810,7 +1802,7 @@ In caso di recidiva entro dodici mesi, e' disposta la revoca degli effetti autor
 
 > Restano applicabili gli sconti tariffari e gli aggi che l'affidatario abbia riconosciuto al comune concedente nel procedi-mento di affidamento del servizio. Spetta al responsabile del procedimento di affidamento della pubblica amministrazione l'attivita' di vigilanza in merito a quanto disposto all'articolo 1, comma 2, della presente legge»;
 
-##### Art. 37
+#### Art. 37
 
 Misure di semplificazione in materia di formazione degli atti di morte da parte dell'ufficiale di stato civile
 
@@ -1870,7 +1862,7 @@ c) all'articolo 74:
 
 > 3-ter. L'Agenzia per l'Italia digitale provvede, entro nove mesi dalla data di entrata in vigore della presente disposizione, a definire gli standard delle comunicazioni telematiche di cui sopra».
 
-##### Art. 38
+#### Art. 38
 
 Modifiche al codice civile in materia di dichiarazione di assenza e morte presunta
 
@@ -1892,7 +1884,7 @@ b) all'articolo 58, primo comma, la parola: «dieci» e' sostituita dalla seguen
 
 > Puo' essere dichiarata la morte presunta anche se sia mancata la dichiarazione di assenza.»
 
-##### Art. 39
+#### Art. 39
 
 Disposizioni in materia di traduzioni giurate
 
@@ -1900,7 +1892,7 @@ Disposizioni in materia di traduzioni giurate
 
 «Art. 5. - 1. Gli atti notori e i verbali di giuramento di perizia stragiudiziali sono ricevuti dal cancelliere. Le perizie stragiudiziali, ivi comprese le traduzioni giurate, possono altresi' essere formate, sottoscritte e trasmesse digitalmente nel rispetto della normativa, anche regolamentare, concernente la sottoscrizione, la trasmissione e la ricezione dei documenti informatici nel processo civile, fermo restando il versamento dell'imposta di bollo e degli altri diritti di cui sia prevista l'esazione, ove dovuti. In tal caso, l'atto contiene il giuramento di avere bene e fedelmente adempiuto le funzioni affidate, allo scopo di far conoscere la verita' e, se si tratta di traduzioni giurate, l'attestazione di conformita' del testo tradotto al testo in lingua originale».
 
-##### Art. 40
+#### Art. 40
 
 Misure di semplificazione in materia di permesso di costruire immobili vincolati
 
@@ -1916,7 +1908,7 @@ b) dopo il primo periodo e' inserito il seguente: «Qualora l'immobile oggetto d
 
 > «8. Decorso inutilmente il termine per l'adozione del provvedimento conclusivo, ove il dirigente o il responsabile dell'ufficio non abbia opposto motivato diniego, sulla domanda di permesso di costruire si intende formato il silenzio-assenso. Qualora l'immobile oggetto della domanda di permesso di costruire sia soggetto a vincoli di assetto idrogeologico, ambientali, paesaggistici o culturali, si applicano le disposizioni di cui agli articoli 14 e seguenti della legge 7 agosto 1990, n.241, salva la formazione del silenzio assenso sulla domanda di permesso di costruire nel caso in cui per il medesimo intervento siano stati gia' acquisiti e siano in corso di validita' i relativi provvedimenti formali di autorizzazione, nulla osta o altri atti di assenso, comunque denominati, previsti dalla normativa vigente e rilasciati dall'autorita' preposta alla cura dei predetti interessi sugli elaborati progettuali oggetto della domanda di permesso di costruire. Fermi restando gli effetti comunque prodotti dal silenzio, lo sportello unico per l'edilizia rilascia anche in via telematica, entro quindici giorni dalla richiesta dell'interessato, un'attestazione circa il decorso dei termini del procedimento, in assenza di richieste di integrazione documentale o istruttorie inevase e di provvedimenti di diniego; altrimenti, nello stesso termine, comunica all'interessato che tali atti sono intervenuti.»
 
-##### Art. 41
+#### Art. 41
 
 Accettazione di eredita'
 
@@ -1928,7 +1920,7 @@ Accettazione di eredita'
 
 > «Se il chiamato ha compiuto uno degli atti che importano accettazione tacita dell'eredita', si puo' richiedere la trascrizione sulla base di quell'atto, qualora esso risulti da sentenza, da atto pubblico o da scrittura privata con sottoscrizione autenticata o accertata giudizialmente. La trascrizione puo' essere richiesta anche sulla base di un atto pubblico o di una scrittura privata con sottoscrizione autenticata contenente la dichiarazione sostitutiva di atto di notorieta', resa dall'erede o da un suo successore a titolo universale, attestante l'accettazione tacita dell'eredita' ai sensi dell'articolo 476 o l'avvenuto acquisto della qualita' di erede ai sensi dell'articolo 485.»
 
-##### Art. 42
+#### Art. 42
 
 Accesso all'elenco dei restauratori di beni culturali previsto dall'articolo 182 del codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42
 
@@ -1942,7 +1934,7 @@ Accesso all'elenco dei restauratori di beni culturali previsto dall'articolo 182
 
 2\. All'attuazione del presente articolo le amministrazioni competenti provvedono nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri a carico della finanza pubblica.
 
-##### Art. 43
+#### Art. 43
 
 Semplificazioni in materia di cumulo degli incentivi in conto energia
 
@@ -2000,7 +1992,7 @@ c) al versamento in denaro, da parte del contribuente, dell'eventuale differenza
 
 > \- L'articolo 6 della legge 23 dicembre 2000, n. 388 (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - legge finanziaria 2001-) reca: «Disposizioni in materia di tassazione del reddito di impresa)».
 
-##### Art. 44
+#### Art. 44
 
 Semplificazioni in materia di agevolazione della circolazione giuridica dei beni provenienti da donazioni
 
@@ -2104,19 +2096,19 @@ e) all'articolo 2690, primo comma, numero 5), le parole: «delle donazioni e» s
 
 > (omissis)».
 
-##### Art. 45
+#### Art. 45
 
 Notifica delle denunce e delle querele di furto di veicoli
 
 1\. Gli uffici delle Forze dell'ordine notificano le denunce e querele di furto di veicoli ricevute dal proprietario, attraverso il collegamento telematico con il Centro elaborazione dati (CED), al Ministero delle infrastrutture e dei trasporti, il quale provvede a inserire un blocco informatico nell'archivio nazionale dei veicoli (ANV) e a comunicarlo, in via telematica, al Pubblico registro automobilistico (PRA) in relazione ai veicoli in esso iscritti. Per i veicoli iscritti al PRA, il blocco informatico permane fino a quando il proprietario non richiede l'annotazione della perdita di possesso al PRA. Per i veicoli per i quali non vige l'obbligo di iscrizione al PRA, il blocco informatico permane fino a quando il proprietario non richiede la cessazione del veicolo stesso e della relativa targa dall'ANV.
 
-##### Art. 46
+#### Art. 46
 
 Semplificazione degli adempimenti amministrativi che richiedono l'utilizzo di soluzioni software
 
 1\. Al fine di garantire l'ordinato e tempestivo svolgimento degli adempimenti amministrativi a carico delle imprese, nonche' la qualita' e la correttezza dei dati raccolti dalle amministrazioni pubbliche, in tutti i casi in cui siano richieste soluzioni software per predisporre flussi telematici, moduli digitali o scambio di dati tramite interoperabilita', i soggetti preposti all'attuazione delle norme, nel definire le tempistiche per l'espletamento degli adempimenti, sono tenuti a considerare, oltre ai tempi necessari agli utenti delle imprese e ai loro intermediari per l'utilizzo delle soluzioni software richieste, anche i tempi necessari per l'analisi, lo sviluppo e il test delle suddette soluzioni. A tal fine, devono essere resi disponibili con congruo anticipo agli operatori del settore gli schemi funzionali, le specifiche tecniche, i componenti software e gli ambienti di test.
 
-##### Art. 47
+#### Art. 47
 
 Modifica alla legge 22 aprile 1941, n. 633, in materia di diritto esclusivo sulle fotografie
 
@@ -2128,7 +2120,7 @@ Modifica alla legge 22 aprile 1941, n. 633, in materia di diritto esclusivo sull
 
 > «Art. 92. Il diritto esclusivo sulle fotografie dura settant'anni dalla produzione della fotografia.»
 
-##### Art. 48
+#### Art. 48
 
 Misure di semplificazione della disciplina dell'opposizione al rimborso dell'assegno al mittente
 
@@ -2146,7 +2138,7 @@ Il destinatario di un oggetto gravato di assegno puo' fare opposizione alla tras
 
 > \- L'articolo 233 del decreto del Presidente della Repubblica 29 maggio 1982, n. 655 «Approvazione del regolamento di esecuzione dei libri I e II del codice postale e delle telecomunicazioni (norme generali e servizi delle corrispondenze e dei pacchi)», abrogato dalla presente legge recava: «Opposizione al rimborso dell'assegno».
 
-##### Art. 49
+#### Art. 49
 
 Semplificazioni in materia di avvisi di ricevimento
 
@@ -2186,7 +2178,7 @@ Il formato digitale non e' utilizzabile per gli avvisi di ricevimento e le copie
 
 > Il formato digitale non e' utilizzabile per gli avvisi di ricevimento e le copie relativi alle notificazioni di atti a mezzo posta e di comunicazioni a mezzo posta connesse con la notificazione di atti giudiziari.»
 
-##### Art. 50
+#### Art. 50
 
 Misure in materia di dehors, di riforma degli incentivi e di prodotti confezionati
 
@@ -2264,11 +2256,9 @@ c) al comma 4, le parole: «31 dicembre 2025» sono sostituite dalle seguenti: �
 
 > 3\. Le disposizioni del presente articolo si applicano a decorrere dal 1° luglio 2026.»
 
-## Capo II
+### Capo II - Misure di semplificazione in materia di istruzione
 
-### Misure di semplificazione in materia di istruzione
-
-##### Art. 51
+#### Art. 51
 
 Misure di semplificazione in ambito scolastico per studenti e famiglie
 
@@ -2484,7 +2474,7 @@ g) all'articolo 12, comma 2, lettera b), dopo le parole: «dei servizi educativi
 
 > A decorrere dall'anno scolastico 2012-2013 le istituzioni scolastiche e i docenti adottano registri on line. Ai registri online si accede tramite il sistema pubblico per la gestione dell'identita' digitale di cittadini e imprese (SPID) o la carta di identita' elettronica (CIE). Nel primo ciclo di istruzione alle comunicazioni in formato elettronico accedono i genitori degli alunni o gli esercenti la responsabilita' genitoriale».
 
-##### Art. 52
+#### Art. 52
 
 Disposizione di interpretazione autentica in materia di Fondazione Museo nazionale della scienza e della tecnologia Leonardo da Vinci
 
@@ -2534,11 +2524,9 @@ Disposizione di interpretazione autentica in materia di Fondazione Museo naziona
 
 ## Titolo III - ULTERIORI MISURE DI SEMPLIFICAZIONE
 
-### Capo I
+### Capo I - Misure di semplificazione in materia di universita'
 
-#### Misure di semplificazione in materia di universita'
-
-##### Art. 53
+#### Art. 53
 
 Semplificazione della procedura di conferimento del titolo di professore emerito e di professore onorario delle universita'
 
@@ -2552,7 +2540,7 @@ Semplificazione della procedura di conferimento del titolo di professore emerito
 
 4\. Ai professori emeriti e ai professori onorari non possono competere prerogative accademiche. L'elenco dei professori emeriti e onorari e' pubblicato nel sito internet istituzionale dell'ateneo».
 
-##### Art. 54
+#### Art. 54
 
 Semplificazione della procedura di approvazione degli statuti e dei regolamenti delle universita'
 
@@ -2600,7 +2588,7 @@ c) al comma 11, le parole: «nel Bollettino Ufficiale del Ministero» sono sosti
 
 > 11\. Gli statuti delle universita' sono pubblicati nella Gazzetta Ufficiale, i regolamenti nel sito internet istituzionale delle universita'.»
 
-##### Art. 55
+#### Art. 55
 
 Semplificazione della procedura di riconoscimento dei Consorzi universitari
 
@@ -2620,13 +2608,13 @@ c) il terzo comma e' abrogato.
 
 > Ciascun Consorzio e' costituito con la convenzione che determina i rapporti fra gli Enti e i privati partecipanti al Consorzio stesso, ed ha uno statuto che ne regola l'ordinamento e il funzionamento, approvato dal Ministero in sede di prima adozione e per le successive modifiche.»
 
-##### Art. 56
+#### Art. 56
 
 Semplificazione della procedura di designazione e nomina dei rappresentanti del Ministero dell'universita' e della ricerca nei collegi dei revisori dei conti delle universita', delle istituzioni dell'alta formazione artistica, musicale e coreutica, dei consorzi universitari e interuniversitari e delle fondazioni universitarie
 
 1\. Al fine di potenziare l'attivita' di controllo, i rappresentanti del Ministero dell'universita' e della ricerca nei collegi dei revisori dei conti delle universita', delle istituzioni dell'alta formazione artistica, musicale e coreutica, dei consorzi universitari e interuniversitari e delle fondazioni universitarie sono scelti tra gli iscritti in un elenco tenuto dal predetto Ministero, in possesso di requisiti professionali adeguati per l'espletamento dell'incarico e stabiliti, nel rispetto del diritto dell'Unione europea, con decreto del Ministro dell'universita' e della ricerca. In sede di prima applicazione, nelle more dell'adozione del suddetto decreto, sono designati e nominati i soggetti che svolgono funzioni dirigenziali presso il predetto Ministero nonche' i dipendenti del Ministero che, alla data di entrata in vigore della presente legge, ricoprono incarichi di componente presso i collegi di cui al presente comma. Sono fatte salve le designazioni e le nomine del Ministero dell'universita' e della ricerca effettuate antecedentemente alla data di entrata in vigore della presente legge.
 
-##### Art. 57
+#### Art. 57
 
 Norma di interpretazione autentica relativa ai compensi spettanti al presidente e ai componenti del consiglio di amministrazione delle istituzioni dell'AFAM
 
@@ -2656,11 +2644,9 @@ Norma di interpretazione autentica relativa ai compensi spettanti al presidente 
 
 > «Art. 14.1 (Disposizioni in materia di accesso al trattamento di pensione anticipata flessibile). - (omissis). - 3. La pensione di cui al comma 1 non e' cumulabile, a far data dal primo giorno di decorrenza della pensione e fino alla maturazione dei requisiti per l'accesso alla pensione di vecchiaia, con i redditi da lavoro dipendente o autonomo, ad eccezione di quelli derivanti da lavoro autonomo occasionale, nel limite di 5.000 euro lordi annui.»
 
-## Capo II
+### Capo II - Misure di semplificazione in materia sanitaria
 
-### Misure di semplificazione in materia sanitaria
-
-##### Art. 58
+#### Art. 58
 
 Semplificazioni in materia di certificazione medica in telemedicina
 
@@ -2682,7 +2668,7 @@ b) dopo il secondo periodo e' aggiunto il seguente: «Con accordo in sede di Con
 
 > 3-bis. Fermo restando quanto previsto dall'articolo 55-quater, comma 1, lettere a) e b), i contratti collettivi nazionali individuano le condotte e fissano le corrispondenti sanzioni disciplinari con riferimento alle ipotesi di ripetute e ingiustificate assenze dal servizio in continuita' con le giornate festive e di riposo settimanale, nonche' con riferimento ai casi di ingiustificate assenze collettive in determinati periodi nei quali e' necessario assicurare continuita' nell'erogazione dei servizi all'utenza.».
 
-##### Art. 59
+#### Art. 59
 
 Modifiche alla disciplina degli Istituti di ricovero e cura a carattere scientifico non trasformati in Fondazioni, di cui all'articolo 5, comma 1-bis, del decreto legislativo 16 ottobre 2003, n. 288
 
@@ -2698,7 +2684,7 @@ Con il decreto di cui al primo periodo e' nominato il presidente del consiglio d
 
 > 1-bis. Restano ferme le funzioni e la composizione del consiglio di amministrazione dell'istituto "Giannina Gaslini" di Genova, di cui all'articolo 7, comma 4, del decreto legislativo 30 giugno 1993, n. 269, nominato con decreto del Ministro della salute, sulla base della composizione prevista dallo statuto. Con il decreto di cui al primo periodo e' nominato il presidente del consiglio di amministrazione, su designazione della Fondazione "Gerolamo Gaslini"».
 
-##### Art. 60
+#### Art. 60
 
 Misure di semplificazione per promuovere l'erogazione dei servizi in farmacia
 
@@ -2868,7 +2854,7 @@ e) alla lettera f), dopo le parole: «spesa a carico del cittadino,» sono inser
 
 > 4-octies. Ferme restando le disposizioni di cui al presente articolo, ai fini degli adempimenti in materia di pubblicita' di cui al comma 4-quater, in deroga a quanto previsto dal comma 4-ter, il contratto di rete di cui al comma 4-sexies deve essere sottoscritto dalle parti ai sensi dell'articolo 24 del codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, con l' assistenza di organizzazioni di rappresentanza dei datori di lavoro rappresentative a livello nazionale presenti nel Consiglio nazionale dell' economia e del lavoro ai sensi della legge 30 dicembre 1986, n. 936, che siano espressione di interessi generali di una pluralita' di categorie e di territori.»
 
-##### Art. 61
+#### Art. 61
 
 Disposizioni per contrastare la carenza di medicinali
 
@@ -2954,7 +2940,7 @@ L'AIFA, d'intesa con le autorita' sanitarie e con le associazioni di categoria d
 
 > 24\. L'inosservanza delle disposizioni previste per i responsabili di farmacovigilanza delle strutture sanitarie, comporta l'instaurazione nelle sedi competenti di procedimenti per l'erogazione di sanzioni disciplinari, secondo le norme legislative e convenzionali.»
 
-##### Art. 62
+#### Art. 62
 
 Semplificazioni in materia di assistenza farmaceutica ai pazienti cronici e in caso di dimissioni ospedaliere
 
@@ -2968,7 +2954,7 @@ Il medico prescrittore, qualora lo richiedano ragioni di appropriatezza prescrit
 
 4\. Con decreto del Ministro della salute, di concerto con il Ministro dell'economia e delle finanze, da adottare entro novanta giorni dalla data di entrata in vigore della presente legge, sono definite le modalita' di attuazione del presente articolo, anche al fine di garantire che dalle stesse non derivino nuovi o maggiori oneri a carico della finanza pubblica.
 
-##### Art. 63
+#### Art. 63
 
 Modifiche alla legge 24 giugno 2010, n. 107, sul riconoscimento dei diritti delle persone sordocieche
 
@@ -3020,11 +3006,9 @@ c) all'articolo 3:
 
 > 6\. Restano ferme tutte le situazioni di incompatibilita' con altri benefici, stabilite da vigenti disposizioni di legge.»
 
-## Capo III
+### Capo III - Misure di semplificazione in materia di pubblica sicurezza
 
-### Misure di semplificazione in materia di pubblica sicurezza
-
-##### Art. 64
+#### Art. 64
 
 Misure di semplificazione in materia di disciplina delle armi
 
@@ -3048,7 +3032,7 @@ Misure di semplificazione in materia di disciplina delle armi
 
 > 2\. Ai componenti delle Commissioni di cui al comma 1, che sono competenti anche per l'accertamento della capacita' tecnica di cui all'articolo 8, quarto comma, della legge 18 aprile 1975, n. 110, e' richiesta un'esperienza pluriennale certificata in tema di sostanze esplodenti. Ad essi)) non spettano compensi, gettoni di presenza o rimborsi di spese e le attivita' delle predette Commissioni sono svolte con le risorse umane, strumentali e logistiche disponibili a legislazione vigente.»
 
-##### Art. 65
+#### Art. 65
 
 Misure di semplificazione in materia di procedimenti amministrativi di pubblica sicurezza
 
@@ -3084,7 +3068,7 @@ Misure di semplificazione in materia di procedimenti amministrativi di pubblica 
 
 > Le spese dell'ispezione e quelle per i servizi di prevenzione contro gli incendi sono a carico di chi domanda la licenza.»
 
-##### Art. 66
+#### Art. 66
 
 Disposizioni in materia di oggetti preziosi
 
@@ -3102,7 +3086,7 @@ b) nella colonna «concentrazione di regimi amministrativi», le parole da: «o 
 
 > Parte di provvedimento in formato grafico
 
-##### Art. 67
+#### Art. 67
 
 Titoli di accesso nominativi ad attivita' di spettacolo
 
@@ -3118,7 +3102,7 @@ Titoli di accesso nominativi ad attivita' di spettacolo
 
 > Sono esclusi da tale prescrizione, ivi compresi i parchi di divertimento, e gli spettacoli di attivita' lirica, sinfonica e cameristica, prosa, jazz, balletto, danza e circo contemporaneo, nonche' le manifestazioni carnevalesche, i corsi mascherati, le rievocazioni storiche, giostre e manifestazioni similari. Con provvedimento del direttore dell'Agenzia delle entrate, adottato previa intesa con il Ministero per i beni e le attivita' culturali e sentita l'Autorita' per le garanzie nelle comunicazioni, entro sessanta giorni dalla data di entrata in vigore della presente disposizione, sono stabilite le regole tecniche attraverso cui i siti internet di rivendita primari, i box office autorizzati o i siti internet ufficiali dell'evento assicurano la rimessa in vendita dei titoli di ingresso nominativi o il cambio di nominativo.»
 
-##### Art. 68
+#### Art. 68
 
 Adeguamento dell'ordinamento nazionale al regolamento (UE) 2019/125, in materia di commercio di merci utilizzabili per infliggere la pena di morte o la tortura, e al regolamento (UE) 2021/821, in materia di controllo delle esportazioni, dell'intermediazione, dell'assistenza tecnica, del transito e del trasferimento di prodotti a duplice uso, nonche' ai regolamenti dell'Unione europea che prevedono misure restrittive unionali
 
@@ -3344,11 +3328,9 @@ b) produce la dichiarazione di presa in carico dei prodotti sottoposti ad autori
 
 > b) produce la dichiarazione di presa in carico dei prodotti sottoposti ad autorizzazione, redatta e firmata dall'utilizzatore finale, con ritardo non superiore a dodici mesi rispetto alla scadenza del termine stabilito dall'Autorita' competente.»
 
-## Capo IV
+### Capo IV - Semplificazioni in materia di attuazione di obblighi di legge
 
-### Semplificazioni in materia di attuazione di obblighi di legge
-
-##### Art. 69
+#### Art. 69
 
 Norme per la semplificazione delle attivita' di gestione delle specie ittiche alieutiche
 
@@ -3356,11 +3338,11 @@ Norme per la semplificazione delle attivita' di gestione delle specie ittiche al
 
 «837-bis. Al fine di consentire un'adeguata politica di gestione delle specie ittiche alieutiche, fino al 31 maggio 2026 non trova applicazione l'articolo 12, comma 1, del regolamento di cui al decreto del Presidente della Repubblica 8 settembre 1997, n. 357, per le sole disposizioni riguardanti l'immissione in natura nelle acque interne di specie non autoctone la cui immissione era autorizzata in data antecedente all'applicazione del decreto del Ministero dell'ambiente e della tutela del territorio e del mare 2 aprile 2020, pubblicato nella Gazzetta Ufficiale n. 98 del 14 aprile 2020».
 
-##### Art. 70
+#### Art. 70
 
 ((ARTICOLO ABROGATO DAL D.L. 19 FEBBRAIO 2026, N. 19))
 
-##### Art. 71
+#### Art. 71
 
 Delega al Governo in materia di fanghi di depurazione
 
@@ -3386,7 +3368,7 @@ e) prevedere criteri per la redazione di piani regionali di gestione dei fanghi 
 
 > \- La direttiva 1999/31/CE del Consiglio, del 26 aprile 1999, recante «discariche dei rifiuti» e' pubblicata nella GU L 182 del 16.7.1999
 
-##### Art. 72
+#### Art. 72
 
 Abrogazioni e soppressioni
 
@@ -3466,13 +3448,13 @@ d) all'articolo 49, comma 3, le parole: «degli articoli 5, comma 2, e» sono so
 
 ## Titolo IV - DISPOSIZIONI FINALI
 
-##### Art. 73
+#### Art. 73
 
 Clausola di invarianza finanziaria
 
 1\. Ferme restando le disposizioni di cui agli articoli 23 e 35, comma 13, dall'attuazione della presente legge non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni competenti provvedono agli adempimenti ivi previsti con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-##### Art. 74
+#### Art. 74
 
 Clausola di salvaguardia
 

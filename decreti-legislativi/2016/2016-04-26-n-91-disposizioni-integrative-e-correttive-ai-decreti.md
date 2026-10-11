@@ -45,11 +45,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Disposizioni integrative e correttive al decreto legislativo 28 gennaio 2014, n. 7
 
-### Disposizioni integrative e correttive al decreto legislativo 28 - gennaio 2014, n. 7
-
-#### Art. 1
+### Art. 1
 
 Disposizioni integrative e correttive in materia di revisione in senso riduttivo dell'assetto strutturale e organizzativo delle Forze armate
 
@@ -401,11 +399,9 @@ q) all'articolo 2188-quater, comma 1:
 
 > 2\. (Omissis).».
 
-## Capo II
+## Capo II - Disposizioni integrative e correttive al decreto legislativo 28 gennaio 2014, n. 8
 
-### Disposizioni integrative e correttive al decreto legislativo 28 - gennaio 2014, n. 8
-
-#### Art. 2
+### Art. 2
 
 Unificazione del Corpo del genio navale e del Corpo delle armi navali della Marina militare
 
@@ -699,7 +695,7 @@ o) alla Tabella 2 allegata al codice:
 
 > d) (soppressa).».
 
-#### Art. 3
+### Art. 3
 
 Disposizioni transitorie in materia di unificazione del Corpo del genio navale e del Corpo delle armi navali della Marina militare
 
@@ -747,7 +743,7 @@ Art. 2221-ter (Categorie in congedo del Corpo del genio navale e del Corpo delle
 
 2\. Il trasferimento degli ufficiali di cui al comma 1 viene effettuato ai sensi dell'articolo 797.».
 
-#### Art. 4
+### Art. 4
 
 Revisione della disciplina in materia di reclutamento, stato giuridico e formazione del personale militare dell'Esercito italiano, della Marina militare, dell'Aeronautica militare e dell'Arma dei carabinieri
 
@@ -1085,7 +1081,7 @@ z) alla rubrica della sezione II del capo IV del titolo VIII del libro quarto, d
 
 > «Libro quarto - Titolo VIII - Capo IV - Sezione II- Procedimento disciplinare di stato e rapporto tra procedimento disciplinare di stato e di corpo e procedimento penale».
 
-#### Art. 5
+### Art. 5
 
 Revisione della disciplina in materia di avanzamento degli ufficiali dell'Esercito italiano, della Marina militare, dell'Aeronautica militare e dell'Arma dei carabinieri
 
@@ -1163,7 +1159,7 @@ i) al quadro II della tabella 4 allegata al codice, nella colonna 5, in corrispo
 
 > Contestualmente la predetta unita' e' sottratta dal ruolo naviganti normale ed e' a quest'ultimo riportata in incremento, con corrispondente sottrazione dal volume organico del corpo, al 30 dicembre dell'anno successivo a quello di apertura del quadro di avanzamento.».
 
-#### Art. 6
+### Art. 6
 
 Disposizioni transitorie per l'avanzamento degli ufficiali dell'Esercito italiano, della Marina militare, dell'Aeronautica militare e dell'Arma dei carabinieri
 
@@ -1201,7 +1197,7 @@ b) per l'Arma dei carabinieri e il Corpo della guardia di finanza, 30 per cento 
 
 > «Art. 2236-bis (Regime transitorio dell'avanzamento degli ufficiali del ruolo normale del corpo dello stato maggiore della Marina). - 1. Fino all'inserimento in aliquota di valutazione per la promozione al grado di tenente di vascello dei sottotenenti di vascello del ruolo normale del Corpo di stato maggiore con anzianita' 2014, i periodi minimi di imbarco e i titoli richiesti sono i seguenti: 3 anni di imbarco, anche se svolto, nel limite massimo di un anno, nel grado immediatamente inferiore; aver conseguito la laurea specialistica.».
 
-#### Art. 7
+### Art. 7
 
 Revisione della disciplina in materia di reclutamento, stato giuridico, formazione e avanzamento dei sottufficiali dell'Esercito italiano, della Marina militare, dell'Aeronautica militare e dell'Arma dei carabinieri
 
@@ -1349,7 +1345,7 @@ h) all'articolo 1287, al comma 3-bis, dopo le parole: «in reparti operativi», 
 
 > 4\. (Omissis).».
 
-#### Art. 8
+### Art. 8
 
 Disposizioni transitorie in materia di reclutamento, stato giuridico, formazione e avanzamento dei sottufficiali dell'Esercito italiano, della Marina militare e dell'Aeronautica militare
 
@@ -1379,7 +1375,7 @@ b) dopo l'articolo 2197, e' inserito il seguente:
 
 > 3\. (abrogato).».
 
-#### Art. 9
+### Art. 9
 
 Revisione della disciplina in materia di reclutamento, stato giuridico, formazione e avanzamento dei graduati e dei militari di truppa dell'Esercito italiano, della Marina militare, dell'Aeronautica militare e dell'Arma dei carabinieri
 
@@ -1447,7 +1443,7 @@ e) all'articolo 1798, al comma 1, le parole: «nelle misure percentuali vigenti 
 
 > 2\. - 6. (Omissis).».
 
-#### Art. 10
+### Art. 10
 
 Disposizioni transitorie intese a realizzare con gradualita' la riduzione delle dotazioni organiche del personale militare dell'Esercito italiano, della Marina militare, escluso il Corpo delle capitanerie di porto, e dell'Aeronautica militare
 
@@ -1565,7 +1561,7 @@ m-quinquies) 2024: ufficiali: 60; marescialli: 284; totale 344.».
 
 > m-quinquies) 2024: ufficiali: 60; marescialli: 284; totale 344.».
 
-#### Art. 11
+### Art. 11
 
 Disposizioni in materia di personale civile
 
@@ -1645,7 +1641,7 @@ e) all'articolo 2259-sexies, comma 1, dopo le parole: «direttore dell'ente» so
 
 > 2\. -3. (Omissis).».
 
-#### Art. 12
+### Art. 12
 
 Revisione della disciplina comune in materia di sanita' militare, misure di assistenza e diritti inerenti al lavoro civile
 
@@ -1673,7 +1669,7 @@ b) all'articolo 1836, comma 3, le parole: «decreto del Ministro della difesa, d
 
 > 4\. (Omissis).».
 
-#### Art. 13
+### Art. 13
 
 Modifiche formali, terminologiche o correttive, ovvero di adeguamento a normativa sopravvenuta
 
@@ -1863,7 +1859,7 @@ o) all'articolo 2270, comma 1, numero 10), le parole: «: articolo 5;» sono sos
 
 > (Omissis).».
 
-#### Art. 14
+### Art. 14
 
 Razionalizzazione e semplificazione delle procedure
 
@@ -2003,7 +1999,7 @@ Visto, il Guardasigilli: Orlando
 
 ## Allegati
 
-#### Allegato
+### Allegato
 
 Allegato
 

@@ -28,13 +28,13 @@ la seguente legge:
 
 ## Titolo I - DISPOSIZIONI GENERALI
 
-#### Art. 1
+### Art. 1
 
 ((I membri del Parlamento europeo spettanti all'Italia)) sono eletti a suffragio universale con voto diretto, libero e segreto attribuito a liste di candidati concorrenti.
 
 L'assegnazione dei seggi tra le liste concorrenti e' effettuata in ragione proporzionale, con le modalita' previste dai successivi articoli 21 e 22.
 
-#### Art. 2
+### Art. 2
 
 Le circoscrizioni elettorali ed i loro capoluoghi sono stabiliti nella tabella A allegata alla presente legge.
 
@@ -46,19 +46,19 @@ La ripartizione dei seggi di cui al precedente comma si effettua dividendo il nu
 
 ## Titolo II - ELETTORATO - ELEGGIBILITA' - COMPATIBILITA'
 
-#### Art. 3
+### Art. 3
 
 Sono elettori i cittadini che entro il giorno fissato per la votazione nel territorio nazionale abbiano compiuto il 18° anno di eta' e siano iscritti nelle liste elettorali compilate a termini delle disposizioni contenute nel testo unico delle leggi per la disciplina dell'elettorato attivo e per la tenuta e la revisione delle liste elettorali, approvato con decreto del Presidente della Repubblica 20 marzo 1967, n. 223, e successive modificazioni.
 
 ((Sono altresi' elettori i cittadini degli altri Paesi membri dell'Unione che, a seguito di formale richiesta presentata entro e non oltre il novantesimo giorno antecedente la data fissata per le elezioni, abbiano ottenuto l'iscrizione nell'apposita lista elettorale del comune italiano di residenza.))
 
-#### Art. 4
+### Art. 4
 
 Sono eleggibili alla carica di membro del Parlamento europeo spettante all'Italia gli elettori che abbiano compiuto il 25° anno di eta' entro il giorno fissato per le elezioni che hanno luogo nel territorio nazionale.
 
 Sono inoltre eleggibili alla medesima carica i cittadini degli altri Paesi membri dell'Unione che risultino in possesso dei requisiti di eleggibilita' al Parlamento europeo previsti dall'ordinamento italiano e che non siano decaduti dal diritto di eleggibilita' nello Stato membro di origine ((, per effetto di una decisione giudiziaria individuale o di una decisione amministrativa, purche' quest'ultima possa essere oggetto di ricorso giurisdizionale)).
 
-#### Art. 5
+### Art. 5
 
 ((1. La carica di membro del Parlamento europeo e' incompatibile con quella di:
 
@@ -82,7 +82,7 @@ i) membro del consiglio d'amministrazione, del comitato direttivo ovvero impiega
 
 l) funzionario o agente, in attivita' di servizio, delle istituzioni delle Comunita' europee o degli organismi specializzati che vi si ricollegano o della Banca centrale europea)).
 
-#### Art. 5-bis
+### Art. 5-bis
 
 ((1. La carica di membro del Parlamento europeo e' incompatibile:
 
@@ -96,7 +96,7 @@ AGGIORNAMENTO (6)
 
 La L. 27 marzo 2004, n. 78 ha disposto (con l'art. 4, comma 1) che l'incompatibilita' di cui al comma 1, lettera a) del presente articolo, ha efficacia a decorrere dalle elezioni del Parlamento europeo del 2004.
 
-#### Art. 6
+### Art. 6
 
 La carica di membro del Parlamento europeo spettante all'Italia e' incompatibile con quella di:
 
@@ -124,7 +124,7 @@ In relazione ai membri di cui al secondo comma dell'articolo 4, si applicano le 
 
 ## Titolo III - PROCEDIMENTO ELETTORALE
 
-#### Art. 7
+### Art. 7
 
 I comizi elettorali per la elezione dei ((membri del Parlamento europeo spettanti all'Italia)) sono convocati con decreto del Presidente della Repubblica, su deliberazione del Consiglio dei Ministri.
 
@@ -134,7 +134,7 @@ La data e l'orario per la votazione degli elettori italiani residenti nei Paesi 
 
 Le rappresentanze diplomatiche e consolari italiane presso i Paesi della Comunita' europea, dell'avvenuta pubblicazione del decreto di cui al primo comma e della data della votazione nei rispettivi Paesi, stabilita a norma del precedente comma, danno avviso alle comunita' italiane del luogo a mezzo di manifesti da affiggere nella sede della rappresentanza nonche' a mezzo degli organi di stampa e di trasmissione audiovisiva e con ogni altro idoneo mezzo di comunicazione.
 
-#### Art. 8
+### Art. 8
 
 Presso la Corte di cassazione e' costituito l'Ufficio elettorale nazionale, composto da un presidente di sezione e da quattro consiglieri nominati dal primo Presidente. Sono nominati anche magistrati supplenti per sostituire i titolari in caso di assenza o di impedimento.
 
@@ -142,19 +142,19 @@ Un cancelliere della Corte e' designato ad esercitare le funzioni di segretario 
 
 L'Ufficio elettorale nazionale e' costituito entro tre giorni dalla data di pubblicazione del decreto di convocazione dei comizi ed esercita le funzioni ((fino alla costituzione di quello successivo)).
 
-#### Art. 9
+### Art. 9
 
 Presso la corte d'appello nella cui giurisdizione e' il capoluogo della circoscrizione, e' costituito entro cinque giorni dalla data di pubblicazione del decreto di convocazione dei comizi l'ufficio elettorale circoscrizionale composto da tre magistrati, dei quali uno con funzioni di presidente, nominati dal presidente della corte d'appello. Sono nominati anche magistrati supplenti per sostituire i titolari in caso di assenza o impedimento.
 
 Un cancelliere della corte d'appello e' designato ad esercitare le funzioni di segretario dell'ufficio.
 
-#### Art. 10
+### Art. 10
 
 Presso il tribunale nella cui circoscrizione e' compreso il comune capoluogo della provincia e' costituito, non prima del decimo e non oltre il quinto giorno antecedente la data della votazione, l'ufficio elettorale provinciale composto da tre magistrati, dei quali uno con funzioni di presidente, nominati dal presidente del tribunale. Sono nominati anche magistrati supplenti per sostituire i titolari in caso di assenza o impedimento.
 
 Un cancelliere del tribunale e' designato ad esercitare le funzioni di segretario dell'ufficio.
 
-#### Art. 11
+### Art. 11
 
 Il deposito del contrassegno di lista presso il Ministero dell'interno deve essere effettuato, con le modalita' di cui agli articoli 14, 15 e 16 del testo unico 30 marzo 1957, n. 361, e successive modificazioni, non prima delle ore 8 del quarantanovesimo giorno e non oltre le ore 16 del quarantottesimo giorno antecedente quello della votazione.
 
@@ -174,7 +174,7 @@ a) comunica a ciascun ufficio elettorale circoscrizionale entro il quarantunesim
 
 b) rilascia, per ciascun delegato effettivo e supplente di cui alla lettera b) del precedente comma, attestazione dell'avvenuta designazione.
 
-#### Art. 12
+### Art. 12
 
 Le liste dei candidati devono essere presentate, per ciascuna circoscrizione, alla cancelleria della corte d'appello presso la quale e' costituito l'ufficio elettorale circoscrizionale, dalle ore 8 del quarantesimo giorno alle ore 20 del trentanovesimo giorno antecedenti quello della votazione.
 
@@ -214,7 +214,7 @@ AGGIORNAMENTO (16)
 
 Il D.L. 29 gennaio 2024, n. 7, convertito con modificazioni dalla L. 25 marzo 2024, n. 38, ha disposto (con l'art. 4-septies, comma 1) che "Limitatamente alla elezione dei membri del Parlamento europeo spettanti all'Italia per l'anno 2024, il numero minimo delle sottoscrizioni richiesto ai sensi dell'articolo 12, secondo comma, della legge 24 gennaio 1979, n. 18, per la presentazione delle liste dei candidati in ciascuna circoscrizione elettorale e' ridotto della meta'".
 
-#### Art. 13
+### Art. 13
 
 L'ufficio elettorale circoscrizionale, entro il trentaseiesimo giorno antecedente quello della votazione, tenendo presenti i criteri ed i termini di cui al precedente articolo 12 ed all'articolo 22 del testo unico 30 marzo 1957, n. 361, e successive modificazioni, decide in ordine all'ammissione delle liste dei candidati e delle dichiarazioni di collegamento.((Verifica che nelle liste dei candidati sia rispettato quanto prescritto dall'articolo 12, ottavo comma, secondo periodo. In caso contrario, riduce la lista cancellando i nomi dei candidati appartenenti al genere piu' rappresentato, procedendo dall'ultimo della lista, in modo da assicurare il rispetto della medesima disposizione. Qualora la lista, all'esito della cancellazione delle candidature eccedenti, contenga un numero di candidati inferiore al minimo prescritto, ricusa la lista. Verifica altresi' che nelle liste dei candidati sia rispettato quanto prescritto dall'articolo 12, ottavo comma, terzo periodo. In caso contrario, modifica di conseguenza l'ordine di lista, collocando dopo il primo candidato quello successivo di sesso diverso)). Assegna un numero progressivo a ciascuna lista ammessa, mediante sorteggio da effettuare alla presenza dei delegati di lista appositamente convocati. Le liste di cui al nono comma dell'articolo 12 assumono il numero progressivo immediatamente successivo a quello sorteggiato dalla lista alla quale sono collegate. I contrassegni delle liste saranno riportati sulle schede di votazione e sui manifesti contenenti le liste dei candidati secondo l'ordine risultato dal sorteggio. Le decisioni sono comunicate, nello stesso giorno, ai delegati di lista. ((14))
 
@@ -232,7 +232,7 @@ La L. 22 aprile 2014, n. 65, ha disposto (con l'art. 1, comma 3) che "Le modific
 
 ## Titolo IV - VOTAZIONE
 
-#### Art. 14
+### Art. 14
 
 ((L'elettore puo' esprimere fino a tre preferenze. Nel caso di piu' preferenze espresse, queste devono riguardare candidati di sesso diverso, pena l'annullamento della seconda e della terza preferenza)).((14))
 
@@ -244,13 +244,13 @@ AGGIORNAMENTO (14)
 
 La L. 22 aprile 2014, n. 65, ha disposto (con l'art. 1, comma 3) che "Le modificazioni alla legge 24 gennaio 1979, n. 18, di cui al comma 2, si applicano per le elezioni dei membri del Parlamento europeo spettanti all'Italia successive a quelle di cui al comma 1."
 
-#### Art. 15
+### Art. 15
 
 Le schede, di colore diverso per ciascuna circoscrizione, debbono avere le caratteristiche essenziali del modello descritto nelle allegate tabelle B e C, e debbono riprodurre in fac-simile i contrassegni di tutte le liste ammesse secondo il numero progressivo attribuito dall'ufficio elettorale circoscrizionale. ((I contrassegni devono essere riprodotti sulle schede con il diametro di centimetri 3)).
 
 Accanto ad ogni contrassegno sono tracciate le linee orizzontali in numero pari a quello dei voti di preferenza che l'elettore ha facolta' di esprimere per i candidati della lista votata.
 
-#### Art. 16
+### Art. 16
 
 Compiute le operazioni previste dall'articolo 45 del testo unico 30 marzo 1957, n. 361, e successive modificazioni, il presidente del seggio rinvia le ulteriori operazioni alle ore 6 del giorno successivo.
 
@@ -260,11 +260,11 @@ Dopo che gli elettori hanno votato, il presidente procede alle operazioni di cui
 
 ## Titolo V - SCRUTINIO
 
-#### Art. 17
+### Art. 17
 
 Compiute le operazioni di cui al primo comma dell'articolo 75 del testo unico 30 marzo 1957, n. 361, e successive modificazioni, il presidente dell'ufficio elettorale di sezione provvede ad inviare al sindaco del comune, per il successivo inoltro all'ufficio elettorale provinciale, il plico chiuso e sigillato contenente un esemplare del verbale con le schede e tutti i plichi e documenti di cui al terzo comma dell'articolo 72 del testo unico suddetto, nonche', qualora non siano state completate nei termini le operazioni di scrutinio, la cassetta, l'urna, i plichi e gli altri documenti di cui all'articolo 73 del citato testo unico.
 
-#### Art. 18
+### Art. 18
 
 L'ufficio elettorale provinciale compie le operazioni di cui all'articolo 76 del testo unico 30 marzo 1957, n. 361, e successive modificazioni. Successivamente, sulla base dei verbali di scrutinio trasmessi dagli uffici di sezione di tutti i comuni della provincia, facendosi assistere, ove lo ereda, da uno o piu' esperti scelti dal presidente, procede alle seguenti operazioni:
 
@@ -278,13 +278,13 @@ Uno degli esemplari deve essere inviato, a mezzo di apposito corriere, all'uffic
 
 Il secondo esemplare, con i documenti annessi, con gli eventuali reclami presentati avverso le operazioni elettorali e con i verbali delle sezioni ed i relativi atti e documenti ad essi allegati, nonche' i plichi di cui al terzo comma dell'articolo 72 del testo unico suddetto, sono depositati presso la cancelleria del tribunale.
 
-#### Art. 19
+### Art. 19
 
 L'ufficio elettorale circoscrizionale, per le sezioni istituite a norma dell'articolo 30, compie le operazioni di cui all'articolo 76 del testo unico 30 marzo 1957, n. 361, e successive modificazioni, ed esegue lo spoglio delle schede ad esso eventualmente pervenute, a norma del decimo comma dell'articolo 36, compilando appositi distinti verbali.
 
 Copia dei verbali di cui al precedente comma nonche' un estratto del verbale relativo alle operazioni di riesame delle schede contenenti voti contestati e provvisoriamente non assegnati devono essere rimessi al capo dell'ufficio della circoscrizione consolare nella quale e' compresa la relativa sezione.
 
-#### Art. 20
+### Art. 20
 
 L'ufficio elettorale circoscrizionale, sulla scorta dei verbali pervenuti dagli uffici elettorali provinciali e di quelli di cui all'articolo 37, nonche' delle operazioni compiute ai sensi del precedente articolo, facendosi assistere, ove lo ereda, da uno o piu' esperti scelti dal presidente:
 
@@ -296,7 +296,7 @@ L'ufficio elettorale circoscrizionale, sulla scorta dei verbali pervenuti dagli 
 
 4\) determina la graduatoria dei candidati di ciascuna lista, a seconda delle rispettive cifre individuali. A parita' di cifre individuali, prevale l'ordine di presentazione nella lista.
 
-#### Art. 21
+### Art. 21
 
 L'ufficio elettorale nazionale, ricevuti gli estratti dei verbali da tutti gli uffici elettorali circoscrizionali di cui al n. 2) del precedente articolo, facendosi assistere, ove lo ereda, da uno o piu' esperti scelti dal presidente:
 
@@ -318,7 +318,7 @@ L'ufficio elettorale nazionale provvede a comunicare ai singoli uffici elettoral
 
 Di tutte le operazioni dell'Ufficio elettorale nazionale viene redatto, in duplice esemplare, apposito verbale: un esemplare e' rimesso alla segreteria del Parlamento europeo, la quale ne rilascia ricevuta; l'altro esemplare e' depositato nella cancelleria della Corte di cassazione.
 
-#### Art. 22
+### Art. 22
 
 L'ufficio elettorale circoscrizionale, ricevute da parte dell'Ufficio elettorale nazionale le comunicazioni di cui al penultimo comma del precedente articolo, proclama eletti i candidati, nei limiti dei seggi ai quali ciascuna lista ha diritto, seguendo la graduatoria prevista al n. 4) dell'articolo 20.
 
@@ -334,7 +334,7 @@ AGGIORNAMENTO (8)
 
 La Corte costituzionale, con sentenza 8 - 17 marzo 2006, n. 104 (in G.U. 1° s.s. 22/03/2006, n. 12) ha dichiarato l'illegittimita' costituzionale dell'ultimo comma del presente articolo, nella parte in cui non prevede che il termine per l'esercizio del diritto di opzione del candidato proclamato eletto in piu' circoscrizioni decorra dalla data della comunicazione dell'ultima proclamazione, quale risulta dal relativo attestato.
 
-#### Art. 23
+### Art. 23
 
 Di tutte le operazioni dell'ufficio elettorale circoscrizionale, viene redatto, in quattro esemplari, processo verbale.
 
@@ -346,15 +346,13 @@ Il terzo esemplare del verbale e' depositato nella cancelleria della corte d'app
 
 Il quarto esemplare e' trasmesso alla prefettura della provincia nel cui territorio ha sede l'ufficio elettorale circoscrizionale.
 
-#### Art. 24
+### Art. 24
 
 I nominativi dei candidati eletti sono portati a conoscenza del pubblico, a cura dell'Ufficio elettorale nazionale, mediante pubblicazione nella Gazzetta Ufficiale.
 
-## Titolo VI - DISPOSIZIONI PARTICOLARI PER GLI ELETTORI RESIDENTI NEL
+## Titolo VI - DISPOSIZIONI PARTICOLARI PER GLI ELETTORI RESIDENTI NEL TERRITORIO DEI PAESI MEMBRI DELLA COMUNITA' EUROPEA
 
-### TERRITORIO - DEI PAESI MEMBRI DELLA COMUNITA' EUROPEA
-
-#### Art. 25
+### Art. 25
 
 Le norme del presente titolo avranno effetto a decorrere dalla data di pubblicazione nella Gazzetta Ufficiale di un comunicato attestante, per ciascun Paese della Comunita', che sono state raggiunte intese atte a garantire le condizioni necessarie per l'esercizio del voto degli italiani residenti nei Paesi della Comunita'.
 
@@ -370,23 +368,23 @@ I termini previsti dal presente titolo, se non diversamente stabilito, si intend
 
 Il Governo e' autorizzato ad effettuare, anche anteriormente alla pubblicazione del comunicato di cui al primo comma, le operazioni preparatorie del procedimento elettorale di cui al presente titolo.
 
-#### Art. 26
+### Art. 26
 
 (( ARTICOLO ABROGATO DAL D.L. 24 GIUGNO 1994, N. 408, CONVERTITO CON MODIFICAZIONI DALLA L. 3 AGOSTO 1994, N. 483 ))
 
-#### Art. 27
+### Art. 27
 
 Gli elettori di cui all'articolo precedente votano per le liste presentate nella circoscrizione alla quale appartiene il comune nelle cui liste elettorali sono iscritti.
 
-#### Art. 28
+### Art. 28
 
 (( ARTICOLO ABROGATO DAL D.L. 24 GIUGNO 1994, N. 408, CONVERTITO CON MODIFICAZIONI DALLA L. 3 AGOSTO 1994, N. 483 ))
 
-#### Art. 29
+### Art. 29
 
 Agli effetti della applicazione delle norme del presente titolo, l'espressione "uffici consolari" comprende i consolati generali di la categoria, i consolati di la categoria, i vice consolati di la categoria e le agenzie consolari di la categoria. Le relative circoscrizioni comprendono quelle degli uffici consolari ((...)) ad essi aggregati con decreto del Ministro degli affari esteri. Nei Paesi della Comunita' in cui non esistono gli uffici consolari di la categoria sopra indicati, le funzioni elettorali previste dal presente titolo sono svolte dalle ambasciate.
 
-#### Art. 30
+### Art. 30
 
 (( COMMA ABROGATO DAL D.L. 24 GIUGNO 1994, N. 408, CONVERTITO CON MODIFICAZIONI DALLA L. 3 AGOSTO 1994, N. 483 )).
 
@@ -402,7 +400,7 @@ Agli effetti della applicazione delle norme del presente titolo, l'espressione "
 
 Su richiesta dei rappresentanti di cui al numero 1 del primo comma dell'articolo 31, il capo dell'ufficio consolare mette a disposizione i locali utilizzati dallo Stato italiano che risultino idonei allo svolgimento della propaganda elettorale per i partiti presenti con propria lista e si adopera, su richiesta degli stessi rappresentanti di cui sopra, a reperire locali adeguati, qualora cio' sia necessario, anche a titolo oneroso per i richiedenti.
 
-#### Art. 31
+### Art. 31
 
 Con dichiarazione scritta, autenticata da un notaio o da un sindaco o da una autorita' diplomatica o consolare, i delegati di cui all'articolo 11, quarto comma, lettera b), dei partiti o gruppi politici che abbiano presentato ed abbiano avuto ammessa una lista di candidati in almeno una circoscrizione elettorale, o persone da essi autorizzate con atto autenticato nei modi sopra indicati, hanno diritto di designare:
 
@@ -416,7 +414,7 @@ Nel caso che alla designazione dei rappresentanti di cui ai precedenti numeri 1)
 
 Le designazioni di cui al primo comma, punto 1), del presente articolo sono presentate entro il ventiduesimo giorno precedente quello della votazione al capo dello ufficio consolare; quelle di cui al primo comma, punto 2), sono presentate, entro il giorno precedente quello della votazione stabilito a norma del terzo comma dell'articolo 7, al capo del predetto ufficio, che ne dovra' curare la trasmissione ai presidenti delle sezioni elettorali, ovvero direttamente ai singoli presidenti delle sezioni prima dell'inizio della votazione.
 
-#### Art. 32
+### Art. 32
 
 La nomina dei presidenti di seggio per ogni sezione elettorale istituita a norma dell'articolo 30, e' effettuata dal presidente della corte d'appello di Roma entro il quindicesimo giorno precedente quello della votazione, fra gli iscritti ad un elenco di ((elettori italiani residenti nel Paese)), che siano idonei all'ufficio.
 
@@ -426,17 +424,17 @@ L'elenco di cui al primo comma e' formato dalla cancelleria della corte d'appell
 
 In caso di impedimento del presidente nominato con le modalita' di cui ai precedenti commi, il capo dello ufficio consolare provvede a nominare altro idoneo elettore, prima della costituzione dell'ufficio elettorale di sezione.
 
-#### Art. 33
+### Art. 33
 
 Tra il quindicesimo e l'ottavo giorno precedente quello della votazione, il capo dell'ufficio consolare nomina tra gli elettori italiani residenti nel Paese, sentiti i rappresentanti di cui al comma primo, punto 1), del precedente articolo 31, un segretario e ((tre scrutatori)), di cui uno, a scelta del presidente, assumera' le funzioni di vice presidente, per ogni ufficio di sezione istituito.
 
 Nel caso in cui il segretario non sia presente all'atto dell'insediamento del seggio o ne sia mancata la designazione, si applicano le disposizioni del secondo comma dell'articolo 41 del testo unico 30 marzo 1957, n. 361.
 
-#### Art. 34
+### Art. 34
 
 Sono esclusi dalle funzioni di presidente, di scrutatore e di segretario degli uffici elettorali di sezione istituiti a norma del precedente articolo 30, il personale di ruolo ed a contratto del Ministero degli affari esteri in servizio presso le rappresentanze diplomatiche e consolari nei Paesi membri della Comunita' europea, nonche' le persone previste dall'articolo 38 del testo unico 30 marzo 1957, n. 361.
 
-#### Art. 35
+### Art. 35
 
 Prima dell'insediamento del seggio il capo dell'ufficio consolare provvede a far consegnare al presidente di ogni ufficio elettorale di sezione della circoscrizione consolare:
 
@@ -460,21 +458,21 @@ Inoltre, il capo dell'ufficio consolare provvede a far consegnare, per ognuna de
 
 Le caratteristiche essenziali delle urne per la votazione di cui al n. 4) del primo comma sono stabilite con decreto del Ministro dell'interno.
 
-#### Art. 36
+### Art. 36
 
 (( ARTICOLO ABROGATO DAL D.L. 24 GIUGNO 1994, N. 408, CONVERTITO CON MODIFICAZIONI DALLA L. 3 AGOSTO 1994, N. 483 ))
 
-#### Art. 37
+### Art. 37
 
 (( ARTICOLO ABROGATO DAL D.L. 24 GIUGNO 1994, N. 408, CONVERTITO CON MODIFICAZIONI DALLA L. 3 AGOSTO 1994, N. 483 ))
 
-#### Art. 38
+### Art. 38
 
 Gli elettori di cui al primo comma dell'articolo 26 e quelli di cui al secondo comma dello stesso articolo che abbiano presentato tempestivamente la domanda ivi prevista, se rimpatriano, possono esprimere il voto presso la sezione nelle cui liste sono iscritti.
 
 A tal fine, essi devono comunicare entro il giorno precedente quello della votazione, al sindaco del comune nelle cui liste elettorali sono iscritti, che intendono votare nel comune stesso. Il sindaco da' atto di tale comunicazione in calce al certificato elettorale. Di tale annotazione il presidente dell'ufficio elettorale di sezione prende nota accanto al nominativo dell'elettore, nelle liste della sezione.
 
-#### Art. 39
+### Art. 39
 
 Al presidente ed ai componenti degli uffici elettorali di sezione istituiti a norma dell'articolo 30 e' corrisposto dal capo dell'ufficio consolare un onorario fisso ammontante, rispettivamente, a lire 120.000 ed a lire 100.000 al lordo delle ritenute di legge. Ad essi spetta, inoltre, se non residenti nel luogo della votazione, il trattamento economico di missione, in applicazione delle norme relative ai dipendenti statali e nella misura, rispettivamente, corrispondente a quella che spetta, per le missioni compiute nel territorio nazionale, ai consiglieri di corte di cassazione ed ai consiglieri di corte d'appello. Ai dipendenti statali con qualifica superiore spetta il trattamento di missione inerente alla qualifica rivestita. ((3))
 
@@ -484,7 +482,7 @@ AGGIORNAMENTO (3)
 
 La L. 30 giugno 1989, n. 244 ha disposto (con l'art. 4, comma 1) che: "Gli onorari da corrispondere, a norma dell'articolo 39 della legge 24 gennaio 1979, n. 18, come modificato dall'articolo 13 della legge 9 aprile 1984, n. 61, dal capo dell'ufficio consolare al presidente ed ai componenti degli uffici elettorali di sezione istituiti nei Paesi membri della Comunita' europea in occasione dell'elezione dei rappresentanti dell'Italia al Parlamento europeo, sono fissati, rispettivamente, in lire 175.000 e in lire 150.000, al lordo delle ritenute di legge".
 
-#### Art. 40
+### Art. 40
 
 Per l'elezione ((dei membri del Parlamento europeo spettanti all'Italia)), e' consentito che gli elettori appartenenti ai Paesi della Comunita' europea che si trovano in Italia al momento della votazione votino per candidati del Paese di cittadinanza, nel rispetto delle intese allo scopo intervenute fra i detti Paesi ed il Governo italiano.
 
@@ -494,7 +492,7 @@ Le misure di volta in volta necessarie a tale scopo sono disposte dal Ministro d
 
 ## Titolo VII - SURROGAZIONE E CONTENZIOSO
 
-#### Art. 41
+### Art. 41
 
 Il candidato che risulta eletto in piu' circoscrizioni deve dichiarare all'Ufficio elettorale nazionale, entro otto giorni dall'ultima proclamazione, quale circoscrizione sceglie. Mancando l'opzione, l'Ufficio elettorale nazionale supplisce mediante sorteggio. Il presidente dell'Ufficio elettorale nazionale provvede, quindi, a proclamare eletto in surrogazione il candidato che segue immediante l'ultimo eletto nella lista della circoscrizione che non e' stata scelta o sorteggiata. ((8))
 
@@ -506,15 +504,15 @@ AGGIORNAMENTO (8)
 
 La Corte costituzionale, con sentenza 8 - 17 marzo 2006, n. 104 (in G.U. 1° s.s. 22/03/2006, n. 12) ha dichiarato l'illegittimita' costituzionale del comma 1 del presente articolo, nella parte in cui non prevede che il termine per l'esercizio del diritto di opzione del candidato proclamato eletto in piu' circoscrizioni decorra dalla data della comunicazione dell'ultima proclamazione, quale risulta dal relativo attestato.
 
-#### Art. 42
+### Art. 42
 
 ((La tutela giurisdizionale contro gli atti di proclamazione degli eletti, per motivi inerenti alle operazioni elettorali successive all'emanazione del decreto di convocazione dei comizi, e' disciplinata dalle disposizioni dettate dal codice del processo amministrativo.))
 
-#### Art. 43
+### Art. 43
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 44
+### Art. 44
 
 ((Fermo restando quanto disposto dall'articolo 66 della Costituzione, ai giudizi relativi alle condizioni di eleggibilita' e di compatibilita', stabilite dalla presente legge in relazione alla carica di membro del Parlamento europeo spettante all'Italia, si applica l'articolo 23 del decreto legislativo 1° settembre 2011, n. 150.)) ((12))
 
@@ -540,7 +538,7 @@ Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, comma 1) che "Le 
 
 Ha inoltre disposto (con l'art. 36, comma 2) che "Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
 
-#### Art. 45
+### Art. 45
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 2011, N. 150)) ((12))
 
@@ -552,13 +550,13 @@ Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, comma 1) che "Le 
 
 Ha inoltre disposto (con l'art. 36, comma 2) che "Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
 
-#### Art. 46
+### Art. 46
 
 L'Ufficio elettorale nazionale comunica alla segreteria del Parlamento europeo le surrogazioni disposte in base alle sentenze che abbiano deciso irrevocabilmente le controversie sulla incompatibilita' ed ineleggibilita' degli eletti.
 
 ((COMMA ABROGATO DAL D.LGS. 2 LUGLIO 2010, N. 104))
 
-#### Art. 47
+### Art. 47
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 2011, N. 150)) ((12))
 
@@ -572,19 +570,19 @@ Ha inoltre disposto (con l'art. 36, comma 2) che "Le norme abrogate o modificate
 
 ## Titolo VIII - DISPOSIZIONI PENALI
 
-#### Art. 48
+### Art. 48
 
 Il cittadino o lo straniero che commette in territori estero taluno dei reati previsti dalla presente legge o dal testo unico delle leggi per la elezione della Camera dei deputati approvato con decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e successive modificazioni, e' punito secondo la legge italiana.
 
 Le norme di cui agli articoli 8 e 9, secondo comma del codice penale, concernenti la richiesta del Ministro di grazia e giustizia, non si applicano al cittadino italiano.
 
-#### Art. 49
+### Art. 49
 
 Chi, in occasione della elezione ((dei membri del Parlamento europeo, partecipa al voto per l'elezione dei membri spettanti all'Italia e per l'elezione dei membri spettanti ad)) altro Paese membro della Comunita' e' punito con la reclusione da 1 a 3 anni e con la multa da L. 100.000 a L. 500.000.
 
 ## TITOLO IX - DISPOSIZIONI FINALI
 
-#### Art. 50
+### Art. 50
 
 Ad ogni elettore residente negli Stati che non sono membri della Comunita' europea, entro il ventesimo giorno successivo a quello della pubblicazione del decreto di convocazione dei comizi, a cura dei comuni di iscrizione elettorale e' spedita una cartolina avviso recante l'indicazione della data della votazione, l'avvertenza che il destinatario potra' ritirare il certificato elettorale presso il competente ufficio comunale e che la esibizione della cartolina stessa da' diritto al titolare di usufruire delle facilitazioni di viaggio per recarsi a votare nel comune di iscrizione elettorale.
 
@@ -594,21 +592,21 @@ Le cartoline avviso di cui al primo comma dovranno essere inviate
 
 anche agli elettori che si trovano nei Paesi della Comunita' europea nel caso in cui, in attuazione dell'articolo 25, non possono avere effetto le norme del titolo VI.
 
-#### Art. 51
+### Art. 51
 
 Salvo quanto disposto dalla presente legge, per l'elezione dei ((membri del Parlamento europeo spettanti all'Italia,)) si osservano, in quanto applicabili, le disposizioni del testo unico delle leggi per l'elezione della Camera dei deputati, approvato con decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e successive modificazioni.
 
-#### Art. 52
+### Art. 52
 
 I lavoratori dipendenti da enti pubblici o da privati datori di lavoro che siano stati ammessi come candidati per l'elezione a ((membri del)) Parlamento europeo, possono chiedere di essere collocati in aspettativa non retribuita fino al giorno della votazione.
 
 Ai dipendenti dello Stato e di altre pubbliche amministrazioni, ai magistrati, nonche' ai dipendenti degli enti ed istituti di diritto pubblico sottoposti alla vigilanza dello Stato, che siano eletti ((membri)) del Parlamento europeo si applicano le disposizioni dell'articolo 4 della legge 31 ottobre 1965, n. 1261.
 
-#### Art. 53
+### Art. 53
 
 ((1. Per far fronte alle esigenze organizzative relative alle operazioni di voto nell'Unione, il Ministero degli affari esteri e' autorizzato ad assumere, con le modalita' previste dal decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, anche in deroga ad eventuali divieti di assunzione e ad ogni limite di contingente fissato dal citato decreto del Presidente della Repubblica n. 18 del 1967, fino a centotrenta impiegati con contratto temporaneo e con validita' massima di tre mesi regolato dalla legge locale.))
 
-#### Art. 54
+### Art. 54
 
 (( COMMA ABROGATO DALLA L. 30 GIUGNO 1989, N. 244 ))
 
@@ -618,7 +616,7 @@ Al personale dipendente dal Ministero dell'interno, dal Ministero di grazia e gi
 
 Il contingente e' fissato con decreto del Ministro competente e comunicato alla Presidenza del Consiglio dei Ministri per i provvedimenti formali di autorizzazione.
 
-#### Art. 55
+### Art. 55
 
 Tutte le spese per l'organizzazione tecnica e l'attuazione delle elezioni dei ((membri del Parlamento europeo spettanti all'Italia)), sono a carico dello Stato.
 
@@ -632,7 +630,7 @@ Ai fondi iscritti nel bilancio dello Stato per effetto della presente legge, si 
 
 Il Ministero degli affari esteri e' autorizzato ad utilizzare il fondo di anticipazione di cui agli articoli 64 e seguenti del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, e successive modificazioni, per le spese relative alle operazioni di cui al titolo VI della presente legge.
 
-#### Art. 56
+### Art. 56
 
 All'onere derivante dall'applicazione della presente legge, valutato in lire 120 miliardi, si provvede mediante corrispondente riduzione dello stanziamento iscritto al capitolo 6863 dello stato di previsione della spesa del Ministero del tesoro per l'anno finanziario 1979.
 
@@ -654,7 +652,7 @@ Visto, il Guardasigilli: BONIFACIO
 
 ## TITOLO IX - DISPOSIZIONI FINALI
 
-#### Tabelle
+### Tabelle
 
 TABELLA A
 

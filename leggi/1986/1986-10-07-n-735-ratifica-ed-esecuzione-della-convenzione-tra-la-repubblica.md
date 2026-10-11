@@ -25,15 +25,15 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+### Art. 1
 
 Il presidente della Repubblica e' autorizzato a ratificare la convenzione tra la Repubblica italiana e la Repubblica tunisina in materia di sicurezza sociale, firmata a Tunisi il 7 dicembre 1984.
 
-##### Art. 2
+### Art. 2
 
 Piena ed intera esecuzione e' data alla convenzione di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' a quanto disposto dall'articolo 42 della convenzione stessa.
 
-##### Art. 3
+### Art. 3
 
 La presente legge, entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica.
 
@@ -63,7 +63,7 @@ IL GOVERNO DELLA REPUBBLICA TUNISINA
 
 Animati dal desiderio di regolare i rapporti tra i due Stati nel campo della sicurezza sociale, hanno convenuto quanto segue:
 
-##### Articolo 1
+### Articolo 1
 
 Ai fini dell'applicazione cella presente Convenzione:
 
@@ -95,7 +95,7 @@ i) il termine "periodi di assicurazione" indica i periodi di contribuzione e dis
 
 l) il termine "familiari" indica le persone definite o riconosciute come membri della famiglia, o indicate come membri della famiglia dalle legislazioni ai sensi delle quali le Prestazioni sono concesse. Tuttavia, se queste legislazioni considerano come membri della famiglia solo le persone conviventi con l'interessato, tale condizione si considera soddisfatta quando le persone di cui si tratta sono principalmente a carico del medesimo interessato.
 
-##### Articolo 2
+### Articolo 2
 
 1\. La presente convenzione si applica:
 
@@ -135,7 +135,7 @@ a) agli atti legislativi o regolamentari relativi ad un nuovo settore di sicurez
 
 b) agli atti legislativi o regolamentari che estenderanno i regimi esistenti a nuove categorie di beneficiari a meno che non vi sia, a tal riguardo, opposizione del Governo dello Stato contraente interessato, notificata al Governo dell'altro Stato contraente entro tre mesi dalla data della pubblicazione ufficiale dei suddetti atti.
 
-##### Articolo 3
+### Articolo 3
 
 1\. Le disposizioni della presente convenzione si applicano ai lavoratori cittadini di ciascuno dei due Stati contraenti, che sono o sono stati sottoposti alla legislazione di uno degli Stati contraenti, nonche' ai loro familiari e superstiti, a condizione che i loro diritti derivino dall'assicurazione del lavoratore.
 
@@ -145,15 +145,15 @@ a) ai pubblici dipendenti;
 
 b) agli agenti diplomatici o consolari di carriera e ai membri del personale tecnico e amministrativo appartenenti all'organico dette cancellerie, in servizio nelle missioni diplomatiche e nei consolati, di cui alle Convenzioni di Vienna.
 
-##### Articolo 4
+### Articolo 4
 
 Le persone che risiedono sul territorio di uno degli Stati contraenti e alle quali si applicano le disposizioni della presente convenzione sono sottoposte agli obblighi e sono ammesse ai benefici della legislazione di sicurezza sociale di tale Stato contraente alle medesime condizioni dei cittadini di questo Stato fatto salve le disposizioni particolari della presente convenzione.
 
-##### Articolo 5
+### Articolo 5
 
 A meno che cio' non sia diversamente disposto della presente convenzione, le prestazioni in denaro acquisite ai sensi della legislazione di uno Stato contraente o in applicazione dalla presente convenzione, sono erogate alle persone interessate, anche se esse stabiliscono la loro residenza sul territorio dell'altro Stato o di uno Stato terzo vincolato da una convenzione di sicurezza sociale a ciascuno dei due Stati contraenti.
 
-##### Articolo 6
+### Articolo 6
 
 1\. Ai fini dell'ammissione all'assicurazione volontaria prevista dalla legislazione di uno dei due Stati contraenti, i periodi di assicurazione compiuti ai sensi della legislazione di uno degli Stati, sono presi in considerazione, nella misura necessaria, come se si trattasse di periodi di assicurazione compiuti sotto la legislazione dell'altro Stato, sempre che l'interessato possa far valere almeno un anno di assicurazione.
 
@@ -161,7 +161,7 @@ A meno che cio' non sia diversamente disposto della presente convenzione, le pre
 
 ## CAPITOLO II - Determinazione della legislazione applicabile
 
-##### Articolo 7
+### Articolo 7
 
 1\. Fatte salve le disposizioni degli articoli 8 e 9, i lavoratori occupati sul territorio di uno Stato contraente sono sottoposti alla legislazione di questo Stato.
 
@@ -169,7 +169,7 @@ A meno che cio' non sia diversamente disposto della presente convenzione, le pre
 
 3\. Il personale delle missioni diplomatiche o dei consolati diverso da quello di cui all'articolo 3 par. 2 capoverso b) come pure i lavoratori alle dipendenze personali degli agenti di tali missioni e consolati, hanno facolta' di optare per l'applicazione della legislazione dello Stato rappresentato a condizione che siano cittadini di questo Stato.
 
-##### Articolo 8
+### Articolo 8
 
 Il principio di cui all'articolo 7, comporta le seguenti eccezioni:
 
@@ -177,21 +177,19 @@ a) i lavoratori che hanno la loro residenza sul territorio di uno Stato contraen
 
 b) il personale viaggiante alle dipendenze di una impresa che effettua, per conto altrui o per proprio conto, trasporti di passeggeri o di merci, per ferrovia, su strada, per via aerea o marittima, e la cui sede si trova sul territorio di uno degli Stati contraenti, e' sottoposto alla legislazione dello Stato contraente sul cui territorio l'impresa ha la sua sede.
 
-##### Articolo 9
+### Articolo 9
 
 Le autorita' competenti degli Stati contraenti possono prevedere, di comune accordo, in deroga all'art. 71, che la legislazione dello Stato di affiliazione rimanga applicabile e che il distacco sia prolungato oltre i termini di scadenza stabiliti in precedenza nei confronti del lavoratore, qualora, presa in considerazione la durata o la frequenza degli spostamenti che tali attivita' comportano, o il loro carattere di eccezionalita', o tenendo conto dall'eta' del lavoratore, l'applicazione della legislazione dello Stato sul cui territorio si svolge l'attivita' si dimostri meno favorevole per il suddetto lavoratore.
 
 ## CAPITOLO III - DISPOSIZIONI RELATIVE AI DIVERSI SETTORI DI SICUREZZA SOCIALE
 
-### Capitolo 1
+## Capitolo 1 - Malattia, compresa la tubercolosi, e maternità
 
-#### Malattia, compresa la tubercolosi, e maternità
-
-##### Articolo 10
+### Articolo 10
 
 Se la legislazione di uno Stato contraente subordina l'acquisizione, il mantenimento o il riacquisto del diritto alle prestazioni, al compimento di periodi di assicurazione, l'istituzione competente di detto Stato tiene conto, nella misura necessaria, dei periodi assicurativi compiuti sotto la legislazione dell'altro Stato contraente.
 
-##### Articolo 11
+### Articolo 11
 
 I lavoratori di cui all'art. 7, par. 2 e 3, nonche' agli artt. 8 e 9, che soddisfano le condizioni previste nella legislazione dello Stato competente per aver diritto alle prestazioni, beneficiano, per tutta la durata della loro residenza nell'altro Stato:
 
@@ -201,7 +199,7 @@ I lavoratori di cui all'art. 7, par. 2 e 3, nonche' agli artt. 8 e 9, che soddis
 
 2\. Le disposizioni del paragrafo 1 del presente articolo sono applicabili, per quanto riguarda le prestazioni in natura, ai familiari che risiedono con il lavoratore nello Stato d'impiego.
 
-##### Articolo 12
+### Articolo 12
 
 1\. I lavoratori italiani in Tunisia, ed i lavoratori tunisini in Italia, i quali soddisfano le condizioni previste dalla legislazione dello Stato competente per il diritto alle prestazioni e il cui stato di salute richieda prestazioni immediate durante il loro soggiorno temporaneo nel Paese di origine, beneficiano:
 
@@ -211,21 +209,21 @@ b) di prestazioni in denaro erogare dall'Istituzione competente, alle condizioni
 
 2\. Le disposizioni del paragrafo 1ª) sono applicabili, per analogia, ai familiari del lavoratore che risiedono con lui nel Paese d'impiego.
 
-##### Articolo 13
+### Articolo 13
 
 1\. I titolari di pensioni o di rendite dovute in base alla legislazione dei due Stati contraenti, come anche i loro familiari, beneficiano delle prestazioni in natura erogate dall'Istituzione del luogo di residenza in base alla legislazione che questa applica ed a suo carico.
 
 2\. I titolari di pensioni o di rendite dovute ai sensi della legislazione di uno dei due Stati contraenti, come pure i loro familiari, che risiedono nell'altro Stato contraente, beneficiano di prestazioni in natura erogate per conto dell'Istituzione competente dall'Istituzione del luogo di residenza, in base alla legislazione che questa applica.
 
-##### Articolo 14
+### Articolo 14
 
 I familiari che risiedono nello Stato contraente diverso da quello competente, beneficiano di prestazioni in natura erogate per conto dell'Istituzione competente dell'Istituzione del luogo di residenza, in base alla legislazione che questa applica.
 
-##### Articolo 15
+### Articolo 15
 
 La concessione di protesi, grandi apparecchi ed altre prestazioni in natura di grande importanza la cui lista sara' stabilita mediante accordo amministrativo, e' subordinata all'autorizzazione preventiva dell'istituzione competente, tranne in casi di assoluta urgenza.
 
-##### Articolo 16
+### Articolo 16
 
 1\. Le prestazioni erogate dall'Istituzione di uno Stato contraente per conto dell'Istituzione dell'altro Stato, in base agli artt. da 11 a 15, danno luogo a rimborso.
 
@@ -235,7 +233,7 @@ La concessione di protesi, grandi apparecchi ed altre prestazioni in natura di g
 
 ## Capitolo 2 - Assicurazione Invalidita', Vecchiaia e Morte
 
-##### Articolo 17
+### Articolo 17
 
 1\) a) Ai fini dell'acquisizione, del mantenimento o del riacquisto del diritto alle prestazioni, qualora un lavoratore sia stato sottoposto successivamente o alternativamente alla legislazione dei due Stati contraenti, i periodi di assicurazione compiuti in base alla legislazione di ciascuno dei due Stati contraenti sono totalizzati, nella misura in cui essi non si sovrappongano.
 
@@ -261,31 +259,31 @@ Tuttavia l'Istituzione competente dell'altro Stato contraente tiene conto di que
 
 6\) Qualora la legislazione di uno Stato contraente subordini la concessione delle prestazioni d'invalidita' alla condizione che il lavoratore sia sottoposto a questa legislazione al momento del verificarsi del rischio, questa condizione Si considera come soddisfatta se l'interessato in quel momento e' sottoposto alla legislazione dell'altro Stato contraente o se puo' far valere un diritto a pensione ai sensi della legislazione di questo Stato.
 
-##### Articolo 18
+### Articolo 18
 
 Qualora in base alla legislazione di uno degli Stati contraenti, la pensione o un elemento della pensione siano calcolati in proporzione ai salari o ai contributi, ai periodi di assicurazione compiuti in base alla legislazione dell'altro Stato e' attribuito il valore medio dei salari o dei contributi versati all'Istituzione del primo Stato contraente.
 
-##### Articolo 19
+### Articolo 19
 
 1\. Qualora l'interessato non soddisfa ad un determinato momento tutte le condizioni richieste dalle legislazioni di entrambi gli Stati contraenti, ma solo le condizioni di uno dei due Stati, fatte salve le disposizioni dell'art. 17 a) della presente convenzione, il suo diritto alle prestazioni viene stabilito in base alla legislazione le cui condizioni sono soddisfatte.
 
 2\. L'Istituzione dello Stato contraente che ha concesso la prestazione procedere ad un successivo calcolo, quando le condizioni richieste dalla legislazione dell'altro Stato saranno soddisfatte, fatte salve le disposizioni del suddetto articolo 17.
 
-##### Articolo 20
+### Articolo 20
 
 Il beneficiario di prestazioni di cui al presente capitolo non puo', nello Stato contraente sul cui territorio risiede, ed in base alla cui legislazione una prestazione gli e' dovuta, percepire un importo di prestazioni cumulate, inferiore a quello della prestazione minima stabilita dalla suddetta legislazione, per un periodo di assicurazione o di residenza pari all'insieme dei periodi considerati per la liquidazione ai sensi delle disposizioni dei precedenti articoli. L'Istituzione competente di questo Stato gli versera', eventualmente, per tutta la durata della sua residenza sul territorio ci questo Stato, un supplemento pari alla differenza tra la somma delle prestazioni dovute secondo le disposizioni del presente capitolo e l'importo della prestazione minima.
 
-##### Articolo 21
+### Articolo 21
 
 Qualora, a causa dell'aumento del costo della vita o della variazione del livello salari, le prestazioni sono modificate secondo una determinata percentuale o importo, tale percentuale o importo dovranno essere applicati direttamente alle prestazioni stabilite in conformita' alle disposizioni dell'art. 17, senza che sia necessario procedere ad un nuovo calcolo in base alle disposizioni del suddetto articolo.
 
 ## Capitolo 3 - Assegni familiari
 
-##### Articolo 22
+### Articolo 22
 
 Qualora la legislazione di uno Stato contraente subordini l'acquisizione del diritto di alte prestazioni familiari al compimento di periodi di assicurazione, l'istituzione che applica questa legislazione tiene conto, a tal fine, nella misura necessaria, dei periodi di assicurazione compiuti sotto la legislazione dell'altro Stato, come se si trattasse di periodi compiuti sotto la legislazione del primo Stato.
 
-##### Articolo 23
+### Articolo 23
 
 1\. I lavoratori o i titolari di una pensione o di una rendita che soddisfano le condizioni previste dalla legislazione di uno Stato contraente per avere diritto agli assegni familiari, beneficiano di tali assegni per i familiari che risiedono con loro sul territorio di questo Stato, secondo le disposizioni di detta legislazione.
 
@@ -295,7 +293,7 @@ Qualora la legislazione di uno Stato contraente subordini l'acquisizione del dir
 
 4\. I titolari di pensioni o rendite dovute ai sensi delle legislazioni dei due Stati contraenti beneficiano degli assegni familiari ai sensi della legislazione dello Stato nel quale risiedono, per i familiari che risiedono sul territorio dell'altro Stato contraente.
 
-##### Articolo 24
+### Articolo 24
 
 1\. Le disposizioni del presente capitolo, relative al diritto alle prestazioni ai sensi della legislazione italiana a beneficio dei familiari residenti in Tunisia, comportano il versamento degli assegni familiari veri e propri, destinati alla moglie e ad un massimo di 4 figli, ad esclusione di qualsiasi maggiorazione.
 
@@ -307,7 +305,7 @@ Le disposizioni del capoverso precedente, relative al versamento degli assegni f
 
 ## Capitolo 4 - Infortuni sul lavoro e malattie professionali
 
-##### Articolo 25
+### Articolo 25
 
 1\. I lavoratori, vittime di un infortunio sul lavoro o di una malattia professionale i quali, dopo essere stati ammessi al beneficio delle prestazioni a carico dell'istituzione competente, sono autorizzati da quest'istituzione a ritornare sul territorio dell'altro Stato contraente di cui sono cittadini e a trasferirvi la loro residenza, beneficiano: di prestazioni in natura, erogate per conto dell'istituzione competente, all'assicurazione del luogo di soggiorno o di residenza, secondo le disposizioni della legislazione che quest'ultima istituzione applica, come se fossero ad essa affiliati, per una durata stabilita, se del caso, dalla legislazione dello Stato competente.
 
@@ -315,15 +313,15 @@ Le disposizioni del capoverso precedente, relative al versamento degli assegni f
 
 3\. L'autorizzazione di cui al paragrafo 1. non puo' essere negata, a meno che il trasferimento dell'interessato sia di natura tale da compromettere il suo stato di salute o l'applicazione di un trattamento medico.
 
-##### Articolo 26
+### Articolo 26
 
 La concessione, da parte dell'istituzione del luogo di soggiorno o di residenza, di protesi, di grandi apparecchi e di altre prestazioni in natura di grande importanza, la cui lista e' definita nell'accordo amministrativo, e' subordinata all'autorizzazione dell'Istituzione competente, tranne che in casi di assoluta urgenza.
 
-##### Articolo 27
+### Articolo 27
 
 L'istituzione competente e' tenuta a rimborsare l'importo delle prestazioni in natura erogate per suo conto, ai sensi degli artt. 25 e 26. Questo rimborso e' effettuato in base al costo effettivo.
 
-##### Articolo 28
+### Articolo 28
 
 1\. Qualora la vittima di una malattia professionale abbia svolto un'attivita' sotto la legislazione dei due Stati contraenti, che possa aver causato detta malattia, le prestazioni cui la vittima e i suoi superstiti hanno diritto sono concesse esclusivamente in base alla legislazione dello Stato sul di cui territorio l'attivita' in questione sia stata svolta da ultimo, sempre che l'interessato soddisfi le condizioni previste da questa legislazione, tenendo conto, se del caso, dei paragrafi 2 e 3 del presente articolo. Se queste condizioni non sono soddisfatte, i diritti alle prestazioni sono esaminati in base alla legislazione dell'altro Stato contraente.
 
@@ -335,7 +333,7 @@ L'onere delle prestazioni in denaro, ivi comprese le rendite; e' preso a carico,
 
 4\. Le autorita' competenti possono determinare, di comune accordo, le altre malattie professionali a cui si applicano le disposizioni del paragrafo 3.
 
-##### Articolo 29
+### Articolo 29
 
 1\. Qualora si verifichi un aggravamento di una malattia professionale per la quale il lavoratore ha beneficiato o beneficia di una indennita' ai sensi della legislazione di uno Stato contraente, sono applicabili le seguenti disposizioni:
 
@@ -351,11 +349,11 @@ c) in caso di aggravamento di una pneumonconiosi sclerogena o di una malattia an
 
 \- qualora il lavoratore abbia svolto sul territorio di uno dei due Stati, un'attivita' che possa provocare questa malattia, questo Stato prende a suo carico, oltre alle prestazioni in denaro corrispondenti alla malattia iniziale, le prestazioni relative all'aggravamento.
 
-##### Articolo 30
+### Articolo 30
 
 Ai fini della valutazione del grado di incapacita' permanente risultante da un infortunio sul lavoro o da una malattia professionale ai sensi della legislazione italiana o tunisina, gli infortuni sul lavoro o le malattie professionali accaduti precedentemente sotto la legislazione dell'altro Stato contraente sono presi in considerazione come se fossero accaduti sotto la legislazione del primo Stato contraente.
 
-##### Articolo 31
+### Articolo 31
 
 Su richiesta dell'istituzione competente, le perizie mediche previste dalla legislazione di uno Stato contraente sono effettuate dalla istituzione del luogo di soggiorno o di residenza.
 
@@ -363,7 +361,7 @@ L'istituzione competente e' tenuta a rimborsare l'importo delle spese per le sud
 
 ## CAPITOLO IV - Disposizioni varie
 
-##### Articolo 32
+### Articolo 32
 
 Le autorita' competenti degli Stati contraenti:
 
@@ -373,25 +371,25 @@ b) si applicano tutte le informazioni relative alle misure adottate per la sua a
 
 c) si comunicano tutte le informazioni relative alle modifiche delle loro legislazioni che possano influire sulla sua applicazione.
 
-##### Articolo 33
+### Articolo 33
 
 Le autorita' e le istituzioni incaricate dell'attuazione della presente Convenzione si scambiano i loro buoni uffici ed agiranno come se si trattasse dell'applicazione della loro legislazione.
 
 L'assistenza amministrativa reciproca di queste autorita' ed istituzioni e' in linea di massima gratuita. Tuttavia, le autorita' competenti degli Stati contraenti possono concordare il rimborso di determinate spese.
 
-##### Articolo 34
+### Articolo 34
 
 1\. il beneficio dette esenzioni o riduzioni di tasse, bolli, diritti legali o di registrazione, previsti dalla legislazione di uno Stato contraente per i certificati o documenti da esibire in applicazione detta presente Convenzione, e' esteso ai certificati e documenti analoghi da esibire in conformita' alla legislazione dell'altro Stato contraente per l'applicazione detta presente Convenzione.
 
 2\. Tutti gli atti, documenti e certificati di natura ufficiate da esibire in conformita' atta legislazione dell'altro Stato contraente per l'applicazione detta presente Convenzione, sono dispensati da convalida legale o da ogni altra simile formalita'.
 
-##### Articolo 35
+### Articolo 35
 
 1\. Ai fini dell'applicazione detta presente Convenzione, le istituzioni degli Stati contraenti possono comunicare direttamente tra di loro nella lingua ufficiale di uno o l'altro Stato, o in francese.
 
 2\. Le autorita', istituzioni, o giurisdizioni di uno Stato contraente non possono respingere le richieste o altri documenti loro indirizzati, adducendo il motivo che sono redatti nella lingua ufficiale dell'altro Stato contraente.
 
-##### Articolo 36
+### Articolo 36
 
 Le domande, dichiarazioni o ricorsi che avrebbero dovuto essere presentati in base alla legislazione di uno Stato contraente, entro determinati termini, presso una autorita' o una istituzione di questo Stato sono ricevibili, se sono presentati nei medesimi termini presso un'autorita' o una istituzione dell'altro Stato contraente.
 
@@ -399,11 +397,11 @@ In tal caso, l'autorita' o l'istituzione cosi' investita trasmette immediatament
 
 Qualora l'autorita' o l'istituzione presso cui il rimborso e' stato presentato non conoscano l'autorita' o l'istituzione competente dell'altro Stato, la trasmissione puo' essere effettuata tramite le autorita' di cui all'art. 1 e).
 
-##### Articolo 37
+### Articolo 37
 
 I trasferimenti di somme risultanti dall'applicazione della presente Convenzione sono effettuati in conformita' alle procedure previste dalla legislazione in vigore in tale materia, in ciascuno degli Stati contraenti al momento del trasferimento.
 
-##### Articolo 38
+### Articolo 38
 
 Qualora l'istituzione di uno Stato contraente abbia versato un anticipo, l'importo di questo anticipo deve essere trattenuto, su richiesta e a favore di questa Istituzione, sugli arretrati dovuti dall'Istituzione dell'altro Stato contraente per una prestazione corrispondente riferentesi allo stesso periodo.
 
@@ -411,13 +409,13 @@ Qualora l'Istituzione di uno Stato contraente abbia versato una somma eccedente 
 
 Le ritenute che potranno essere operate in applicazione del capoverso precedente, possono essere effettuate solo nella misura ammessa dalla legislazione dello Stato la cui istituzione e' chiamata a effettuare tale ritenuta.
 
-##### Articolo 39
+### Articolo 39
 
 1\. Le perizie mediche previste dalla legislazione di uno Stato contraente possono essere effettuate, su richiesta dell'istituzione competente, sul territorio dell'altro Stato contraente, dall'istituzione del luogo di soggiorno o di residenza del beneficiario delle prestazioni, alle condizioni previste dall'Accordo amministrativo.
 
 2\. "Le perizie mediche, svolte alle condizioni previste al paragrafo 1. devono essere state effettuate sul territorio dello Stato contraente competente.
 
-##### Articolo 40
+### Articolo 40
 
 1\. Qualsiasi controversia che sorga tra gli Stati contraenti riguardo all'interpretazione o all'applicazione del presente Convenzione sara' oggetto di negoziati diretti tra le autorita' competenti degli Stati contraenti.
 
@@ -427,7 +425,7 @@ La commissione arbitrale dovra' risolvere la controversia secondo i principi fon
 
 ## CAPITOLO V - Disposizioni transitorie e finali
 
-##### Articolo 41
+### Articolo 41
 
 1\. La presente Convenzione non fa sorgere alcun diritto per periodi anteriori alla data della sua entrata in vigore.
 
@@ -443,13 +441,13 @@ domanda, fatte salve le disposizioni di questa Convenzione
 
 5\. Se la domanda di cui ai paragrafi 2 e 3 summenzionati e' presentata dopo lo scadere del termine di due anni successivo alla data di entrata in vigore della presente Convenzione, i diritti che non sono decaduti o in prescrizione, sono acquisiti con effetto a partire dal primo giorno successivo alla data di deposito della domanda, fatte salve disposizioni interne piu' favorevoli.
 
-##### Articolo 42
+### Articolo 42
 
 Questa Convenzione sara' ratificata e gli strumenti di ratifica saranno scambiati al piu' presto.
 
 Essa entrera' in vigore il primo giorno del mese successivo al mese durante il quale avverra' lo scambio degli strumenti di ratifica.
 
-##### Articolo 43
+### Articolo 43
 
 La presente Convenzione e' stipulata per una durata indeterminata.
 
@@ -457,7 +455,7 @@ Essa potra' essere denunciata da ciascuno degli Stati contraenti. La denuncia do
 
 In tal caso la Convenzione cessera' di essere in vigore alla fine di detto anno.
 
-##### Articolo 44
+### Articolo 44
 
 1\. In caso di denuncia della presente Convenzione, qualsiasi diritto acquisito ai sensi delle sue disposizioni e' mantenuto.
 
@@ -481,7 +479,7 @@ Visto, il Ministro degli affari esteri
 
 ANDREOTTI
 
-##### Convention
+### Convention
 
 CONVENTION ENTRE LA REPUBLIQUE ITALIENNE ET
 

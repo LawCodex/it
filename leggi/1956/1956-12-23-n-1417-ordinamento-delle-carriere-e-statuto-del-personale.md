@@ -26,11 +26,9 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I - ORDINAMENTO DELLE CARRIERE DEL PERSONALE DELL'AMMINISTRAZIONE
+## CAPO I - ORDINAMENTO DELLE CARRIERE DEL PERSONALE DELL'AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-### AUTONOMA DEI MONOPOLI DI STATO
-
-#### Art. 1
+### Art. 1
 
 Ruoli del personale dell'Amministrazione autonoma dei monopoli di Stato
 
@@ -42,7 +40,7 @@ Il ruolo delle maestre alle lavorazioni e' mantenuto fino ad eliminazione ed il 
 
 Al personale dell'Amministrazione autonoma dei monopoli di Stato si applicano le norme sull'ordinamento delle carriere e lo statuto degli impiegati civili dello Stato, salvo le diverse disposizioni di cui agli articoli seguenti.
 
-#### Art. 2
+### Art. 2
 
 Nomina del direttore generale del vice direttore generale e dei direttori centrali.
 
@@ -56,7 +54,7 @@ I direttori centrali sono nominati con decreto del Ministro per le finanze senti
 
 Al direttore generale e' attribuito il trattamento economico, di cui al coefficiente 970 della tabella unica annessa al decreto dei Presidente della Repubblica 11 gennaio 1956, n. 19. Al vice direttore generale ed ai direttori centrali e' attribuito il trattamento economico, di cui al coefficiente 900 della medesima tabella.
 
-#### Art. 3
+### Art. 3
 
 Ammissione in carriera - Titoli di studio
 
@@ -104,7 +102,7 @@ b) per le branche "Manifatture tabacchi" e "Sali e chinino": licenza di scuola d
 
 Per l'ammissione ai concorsi di cui al presente articolo sono ritenuti validi anche i titoli di studio corrispondenti a quelli richiesti, conseguiti ai termini dei precedenti ordinamenti scolastici.
 
-#### Art. 4
+### Art. 4
 
 Ammissione nei ruoli delle carriere del personale ausiliario
 
@@ -120,7 +118,7 @@ Per l'ammissione ai concorsi suddetti e' richiesto il titolo comprovante il comp
 
 I concorsi per titoli di cui ai precedenti commi sono integrati da una prova pratica di scrittura sotto dettato.
 
-#### Art. 5
+### Art. 5
 
 Limiti di eta' per l'ammissione in carriera
 
@@ -150,7 +148,7 @@ D) Per le carriere del personale ausiliario:
 
 Per le categorie di candidati a cui favore leggi speciali prevedono deroghe, il limite massimo non puo' superare, anche in caso di cumulo di benefici, i quaranta anni di eta' o i quarantacinque per i mutilati egli invalidi di guerra.
 
-#### Art. 6
+### Art. 6
 
 Modalita' relative ai concorsi per l'accesso in carriera
 
@@ -166,7 +164,7 @@ una prova scritta ed una orale, nonche' una prova pratica di dattilografia o ste
 
 Nel bando di concorso di cui al presente articolo l'Amministrazione indica lo speciale titolo di studio necessario a seconda delle esigenze del servizio, nonche' i programmi di esame, in base a determinazione adottata dal Consiglio di amministrazione.
 
-#### Art. 7
+### Art. 7
 
 Corsi di addestramento e aggiornamento professionale
 
@@ -174,7 +172,7 @@ I corsi di addestramento e di aggiornamento professionale previsti dalle vigenti
 
 I corsi stessi, ai fini di fare acquisire pratica conoscenza dei servizi dei vari settori dell'Amministrazione, possono essere completati mediante la temporanea destinazione del personale di nuova nomina presso gli uffici dei vari opifici e stabilimenti.
 
-#### Art. 8
+### Art. 8
 
 Promozioni nelle carriere direttive, tecnica ed amministrativa
 
@@ -208,7 +206,7 @@ AGGIORNAMENTO (3)
 
 La L. 28 marzo 1962, n. 143 ha disposto (con l'art. 27) che "La presente legge ha effetto dal 10 luglio 1961".
 
-#### Art. 9
+### Art. 9
 
 Promozioni nelle carriere di concetto, amministrativa e tecnica
 
@@ -230,7 +228,7 @@ b) per gli altri tre quarti dei posti disponibili, mediante esame di idoneita' r
 
 I periodi di anzianita' indicati al precedente punto 2) sono ridotti di due anni per gli impiegati forniti di laurea o di titoli equipollenti.
 
-#### Art. 10
+### Art. 10
 
 Promozioni nella carriera di concetto degli interpreti-traduttori
 
@@ -250,7 +248,7 @@ La L. 28 marzo 1962, n. 143 ha disposto (con l'art. 6) che "Il periodo minimo di
 
 Ha inoltre disposto (con l'art. 27) che "La presente legge ha effetto dal 10 luglio 1961".
 
-#### Art. 11
+### Art. 11
 
 Promozioni nelle carriere esecutive, tecnica e d'ordine
 
@@ -278,7 +276,7 @@ AGGIORNAMENTO (3)
 
 La L. 28 marzo 1962, n. 143 ha disposto (con l'art. 27) che "La presente legge ha effetto dal 10 luglio 1961".
 
-#### Art. 12
+### Art. 12
 
 Promozioni nel ruolo del personale esecutivo di dattilografia
 
@@ -296,7 +294,7 @@ AGGIORNAMENTO (3)
 
 La L. 28 marzo 1962, n. 143 ha disposto (con l'art. 27) che "La presente legge ha effetto dal 10 luglio 1961".
 
-#### Art. 13
+### Art. 13
 
 Promozioni nelle carriere del personale ausiliario
 
@@ -324,7 +322,7 @@ AGGIORNAMENTO (3)
 
 La L. 28 marzo 1962, n. 143 ha disposto (con l'art. 27) che "La presente legge ha effetto dal 10 luglio 1961".
 
-#### Art. 14
+### Art. 14
 
 Modalita' di conferimento delle promozioni
 
@@ -340,7 +338,7 @@ Il colloquio previsto dall'art. 8, ai punti 1, lettera c), e 2, lettera, d), e' 
 
 L'ammissione ai concorsi ed agli esami di cui ai commi precedenti, e' subordinata al giudizio favorevole del Consiglio di amministrazione il quale, a tale fine, terra' conto della, qualita' del servizio prestato, delle attitudini ad esercitare le funzioni della qualifica superiore e del profitto tratto dalla frequenza dei corsi di addestramento o di aggiornamento professionale.
 
-#### Art. 15
+### Art. 15
 
 Passaggi a carriere superiori
 
@@ -356,7 +354,7 @@ La frazione di posto superiore alla meta' si considera posto intero.
 
 L'eventuale idoneita' conseguita non e' produttiva di alcun effetto.
 
-#### Art. 16
+### Art. 16
 
 Valutazione dell'anzianita' per gli avanzamenti di carriera
 
@@ -370,7 +368,7 @@ AGGIORNAMENTO (3)
 
 La L. 28 marzo 1962, n. 143 ha disposto (con l'art. 27) che "La presente legge ha effetto dal 10 luglio 1961".
 
-#### Art. 17
+### Art. 17
 
 Collocamento fuori ruolo
 
@@ -386,7 +384,7 @@ Nella qualifica iniziale dei ruoli cui appartengono gli impiegati collocati fuor
 
 Il regio decreto 21 luglio 1938, n. 1196, e le successive disposizioni modificative, sono abrogati.
 
-#### Art. 18
+### Art. 18
 
 Ruoli aggiunti
 
@@ -394,17 +392,15 @@ I ruoli speciali transitori istituiti presso l'Amministrazione autonoma dei mono
 
 In corrispondenza dei ruoli organici di cui alle allegate tabelle C, E, F, H, L, M, e N, sono istituiti i ruoli aggiunti di cui alla tabella P annessa alla presente legge.
 
-#### Art. 19
+### Art. 19
 
 Posti aggiunti ai ruoli ordinari
 
 Le tabelle XIX e XX, allegato B, annesse al decreto del Presidente della Repubblica 30 novembre 1954, numero 1496, relative ai posti aggiunti, ai sensi dell'art. 2 del decreto medesimo, ai ruoli ordinari dell'Amministrazione autonoma dei monopoli di Stato, per il personale proveniente dal soppresso Ministero dell'Africa italiana, sono sostituite dalla tabella O allegata alla presente legge.
 
-## CAPO II - ATTRIBUZIONI DEL PERSONALE ADDETTO AI SERVIZI CENTRALI E PERIFERICI
+## CAPO II - ATTRIBUZIONI DEL PERSONALE ADDETTO AI SERVIZI CENTRALI E PERIFERICI DELL'AMMINISTRAZIONE
 
-### DELL'AMMINISTRAZIONE
-
-#### Art. 20
+### Art. 20
 
 Personale tecnico della carriera direttiva
 
@@ -426,7 +422,7 @@ AGGIORNAMENTO (3)
 
 La L. 28 marzo 1962, n. 143 ha disposto (con l'art. 27) che "La presente legge ha effetto dal 10 luglio 1961".
 
-#### Art. 21
+### Art. 21
 
 Personale amministrativo della carriera direttiva
 
@@ -446,7 +442,7 @@ AGGIORNAMENTO (3)
 
 La L. 28 marzo 1962, n. 143 ha disposto (con l'art. 27) che "La presente legge ha effetto dal 10 luglio 1961".
 
-#### Art. 22
+### Art. 22
 
 Personale amministrativo della carriera di concetto
 
@@ -464,7 +460,7 @@ AGGIORNAMENTO (3)
 
 La L. 28 marzo 1962, n. 143 ha disposto (con l'art. 27) che "La presente legge ha effetto dal 10 luglio 1961".
 
-#### Art. 23
+### Art. 23
 
 Personale tecnico della carriera di concetto
 
@@ -484,7 +480,7 @@ AGGIORNAMENTO (3)
 
 La L. 28 marzo 1962, n. 143 ha disposto (con l'art. 27) che "La presente legge ha effetto dal 10 luglio 1961".
 
-#### Art. 24
+### Art. 24
 
 Personale tecnico della carriera esecutiva
 
@@ -498,7 +494,7 @@ AGGIORNAMENTO (3)
 
 La L. 28 marzo 1962, n. 143 ha disposto (con l'art. 27) che "La presente legge ha effetto dal 10 luglio 1961".
 
-#### Art. 25
+### Art. 25
 
 Personale d'ordine della carriera esecutiva
 
@@ -510,7 +506,7 @@ AGGIORNAMENTO (3)
 
 La L. 28 marzo 1962, n. 143 ha disposto (con l'art. 27) che "La presente legge ha effetto dal 10 luglio 1961".
 
-#### Art. 26
+### Art. 26
 
 Personale ausiliario di vigilanza
 
@@ -526,7 +522,7 @@ AGGIORNAMENTO (3)
 
 La L. 28 marzo 1962, n. 143 ha disposto (con l'art. 27) che "La presente legge ha effetto dal 10 luglio 1961".
 
-#### Art. 27
+### Art. 27
 
 Facolta' d'Amministrazione in materia di attribuzioni del personale
 
@@ -534,11 +530,9 @@ Quando speciali esigenze di servizio lo richiedano, l'impiegato puo' essere temp
 
 Agli uffici della Direzione generale e' assegnato personale dei vari ruoli e carriere, in relazione alle esigenze di servizio.
 
-## CAPO III - DISPOSIZIONI SPECIALI SULLO STATUTO DEL PERSONALE IMPIEGATO
+## CAPO III - DISPOSIZIONI SPECIALI SULLO STATUTO DEL PERSONALE IMPIEGATO DELL'AMMINISTRAZIONE
 
-### DELL'AMMINISTRAZIONE
-
-#### Art. 28
+### Art. 28
 
 Rapporti gerarchici
 
@@ -550,7 +544,7 @@ Fra il personale amministrativo e tecnico dello stesso ordine di carriera, la ge
 
 L'impiegato investito delle funzioni della qualifica superiore ha l'autorita', le facolta' ed i doveri inerenti a questa qualifica.
 
-#### Art. 29
+### Art. 29
 
 Congedi
 
@@ -566,7 +560,7 @@ Il congedo ordinario e' accordato:
 
 I congedi straordinari, nei casi e nei limiti previsti dalle disposizioni in vigore, sono accordati dal direttore generale.
 
-#### Art. 30
+### Art. 30
 
 Rapporti informativi e giudizio complessivo
 
@@ -584,7 +578,7 @@ b) per il personale in servizio presso gli organi periferici:
 
 2\) per il restante personale, dal capo dello stabilimento, opificio, ispettorato, dal quale il personale stesso dipende. Il giudizio complessivo e' espresso dal direttore centrale della rispettiva branca di servizio.
 
-#### Art. 31
+### Art. 31
 
 Commissioni di disciplina
 
@@ -600,7 +594,7 @@ Nessuno puo' far parte della Commissione per piu' di quattro anni consecutivi.
 
 La nomina dei componenti la Commissione e del segretario e' effettuata, all'inizio di ogni biennio, dal Ministro per le finanze.
 
-#### Art. 32
+### Art. 32
 
 Esercizio del potere disciplinare
 
@@ -614,7 +608,7 @@ Contro il provvedimento con cui viene inflitta la censura e' ammesso, entro tren
 
 ## CAPO IV - NORME DI INQUADRAMENTO
 
-#### Art. 33
+### Art. 33
 
 Inquadramento del personale nelle nuove carriere
 
@@ -626,7 +620,7 @@ Per gli impiegati appartenenti alla branca dei servizi promiscui del soppresso r
 
 Gli impiegati che nel soppresso ruolo del personale tecnico, gruppo A, rivestono qualifica di ispettore superiore o di direttore, sono inquadrati rispettivamente nella qualifica di ispettore superiore tecnico o di direttore di stabilimento di 2ª classe nella carriera direttiva tecnica di cui all'annessa tabella. O. Nell'inquadramento anzidetto, gli ispettori superiori tecnici precedono in ruolo i direttori di stabilimento di 2ª classe, qualunque sia l'anzianita' maturata nel grado di provenienza.
 
-#### Art. 34
+### Art. 34
 
 Inquadramento degli impiegati del soppresso ruolo dei ricevitori e successive promozioni
 
@@ -644,7 +638,7 @@ Le promozioni alla qualifica di revisore capo possono essere conferite al person
 
 Nella qualifica iniziale del ruolo del personale amministrativo della carriera di concetto, sono lasciati scoperti tanti posti quanti sono gli impiegati in sopranumero provenienti dal soppresso ruolo dei ricevitori.
 
-#### Art. 35
+### Art. 35
 
 Inquadramento nel ruolo del personale di anticamera
 
@@ -656,7 +650,7 @@ nella qualifica di usciere capo, gli agenti di controllo;
 
 nella qualifica di usciere, i commessi.
 
-#### Art. 36
+### Art. 36
 
 Modalita' per l'attuazione dell'inquadramento
 
@@ -668,7 +662,7 @@ Nei confronti degli impiegati che risultano collocati con riserva di anzianita' 
 
 Il personale in soprannumero dei soppressi ruoli, ai termini del regio decreto 1 luglio 1926, n. 1228, del regio decreto 20 giugno 1935, n. 1241, della legge 5 giugno 1951, n. 376, del decreto del Presidente della Repubblica 3 maggio 1955, n. 448, e del decreto del Presidente della Repubblica 11 gennaio 1956, n. 4, e' mantenuto in soprannumero, agli effetti di dette disposizioni, nei ruoli di cui alle annesse tabelle, nei quali viene inquadrato ai sensi dei precedenti articoli.
 
-#### Art. 37
+### Art. 37
 
 Anzianita' acquisita
 
@@ -678,7 +672,7 @@ Gli impiegati inquadrati nella qualifica di consigliere tecnico del ruolo del pe
 
 Gli impiegati inquadrati nella qualifica di vice-consigliere del ruolo del personale direttivo amministrativo, gia' appartenenti al grado 10° di gruppo A, conservano, nella della qualifica, l'anzianita' di servizio complessivamente posseduta nel grado di provenienza ed in quello inferiore (11°).
 
-#### Art. 38
+### Art. 38
 
 Inquadramento degli impiegati nei ruoli aggiunti
 
@@ -688,7 +682,7 @@ L'inquadramento di cui al presente articolo e' disposto con decreto del Ministro
 
 ## CAPO V - DISPOSIZIONI TRANSITORIE E FINALI
 
-#### Art. 39
+### Art. 39
 
 Attribuzione di mansioni inerenti a carriere superiori
 
@@ -696,7 +690,7 @@ Al personale in servizio di ruolo il quale abbia svolto prevalentemente nel trie
 
 Il personale di cui al precedente comma conserva la propria posizione nei ruoli di appartenenza, nei quali svolge l'ulteriore carriera, secondo le norme previste per i ruoli stessi.
 
-#### Art. 40
+### Art. 40
 
 Modalita' di conferimento di alcune promozioni nel primo triennio di efficacia della legge
 
@@ -706,7 +700,7 @@ Per la medesima durata di un triennio, le promozioni a vicedirettore di stabilim
 
 La residuale meta' dei posti e' conferita mediante esame di concorso secondo le modalita' previste dall'art. 8, punto 1), lettera a).
 
-#### Art. 41
+### Art. 41
 
 Conferimento di posti nelle carriere di concetto nella prima attuazione della legge
 
@@ -720,7 +714,7 @@ I posti disponibili nel ruolo del personale di concetto degli interpreti tradutt
 
 I concorsi riservati previsti dai commi precedenti possono essere banditi nella prima attuazione della presente legge, non oltre il termine di un anno dalla entrata in vigore della legge stessa.
 
-#### Art. 42
+### Art. 42
 
 Conferimento di posti nella carriera esecutiva tecnica nella prima attuazione della legge
 
@@ -728,31 +722,31 @@ Fermo restando il disposto dell'art. 6, comma secondo, del decreto legislativo 7
 
 Per l'esame previsto dal precedente comma vale la disposizione dell'ultimo comma dell'art. 41.
 
-#### Art. 43
+### Art. 43
 
 Conferimento di posti nel ruolo del personale di dattilografia nella prima attuazione della legge
 
 Nella prima attuazione della presente legge, i posti disponibili nel ruolo del personale esecutivo di dattilografia di cui all'annessa tabella L, sono conferiti, nella qualifica iniziale, mediante concorso per esami riservato per meta' al personale inquadrato nel ruolo aggiunto del personale esecutivo d'ordine dell'Amministrazione, ancorche' sprovvisto del diploma richiesto dall'art. 3, lettera C), punto 3), e per meta' al personale non di ruolo ed al personale salariato che alla data del 30 giugno 1956, svolgeva mansioni impiegatizie ancor che e' sprovvisto del predetto titolo di studio.
 
-#### Art. 44
+### Art. 44
 
 Conferimento di posti nei ruoli del personale ausiliario di vigilanza e di quello di anticamera
 
 Nella prima attuazione della presente legge un terzo dei posti disponibili nella qualifica iniziale delle carriere del personale ausiliario di vigilanza e del personale di anticamera e' conferito mediante concorso per titoli riservato al personale dei corrispondenti ruoli aggiunti, agli avventizi di quarta categoria, quale sia la loro anzianita' di servizio in detta qualifica e al personale salariato di ruolo dei monopoli, che svolga o abbia avvolto prevalentemente e lodevolmente le mansioni proprie del personale ausiliario di vigilanza o di anticamera.
 
-#### Art. 45
+### Art. 45
 
 Valutazione di anzianita' nei casi di passaggio ad altro ruolo
 
 L'anzianita' maturata nei ruoli raggiunti e nei ruoli speciali transitori di provenienza dagli impiegati che conseguono il passaggio alla qualifica iniziale dei ruoli organici ai sensi degli articoli 42, 43 e 44, e' computata per intero ai fini della promozione alla qualifica superiore. Ai medesimi fini e' computata per intero l'anzianita' maturata nel ruolo di provenienza dagli impiegati del ruolo organico del personale esecutivo d'ordine che conseguono il passaggio alla qualifica iniziali dei ruolo del personale esecutivo tecnico, ai sensi dell'art. 42.
 
-#### Art. 46
+### Art. 46
 
 Modalita' per l'indizione dei concorsi previsti dagli articoli 41, 42, 43 e 44
 
 I concorsi previsti dagli articoli 41, 42, 43 e 44, sono indetti con decreto del Ministro per le finanze e sono effettuati secondo le modalita' previste dall'art. 6, salvo quanto disposto dal primo comma degli articoli 41 e 42 e dall'art. 44.
 
-#### Art. 47
+### Art. 47
 
 Inquadramento del personale distaccato presso l'Amministrazione autonoma dei monopoli di Stato
 
@@ -764,13 +758,13 @@ Il personale di cui ai commi precedenti assume, nel ruolo assegnatogli, la quali
 
 Ai fini della promozione alla qualifica superiore, detta anzianita' e' valutata per intero.
 
-#### Art. 48
+### Art. 48
 
 Avanzamento del personale femminile inquadramento nella carriera amministrativa di concetto
 
 Il personale femminile appartenente al soppresso ruolo dei personale amministrativo, ruolo B, e' inquadrato nel corrispondente ruolo del personale amministrativo della carriera di concetto, ai sensi dell'art. 33 con la qualifica di primo ragioniere.
 
-#### Art. 49
+### Art. 49
 
 Esami di idoneita' per impiegati in particolari situazioni
 
@@ -780,7 +774,7 @@ I programmi di esame e la composizione delle Commissioni esaminatrici sono stabi
 
 Le disposizioni di cui all'art. 1 sopracitato sono estese agli impiegati delle carriere esecutive tecnica e di ordine, provenienti (dai corrispondenti soppressi ruoli di gruppo C dell'Amministrazione autonoma dei monoposti di Stato in servizio almeno dal 23 marzo 1939, che a tale data rivestivano la qualifica di salariati di ruolo e sono stati addetti in via continuativa a mansioni impiegatizie. Tale servizio e' considerato utile ai fini del computo dell'anzianita' richiesta per l'ammissione anche al concorso per esame speciale di cui all'articolo 1 del decreto del Presidente della Repubblica 11 gennaio 1956, n. 4.
 
-#### Art. 50
+### Art. 50
 
 Concorsi ed esami in via di espletamento
 
@@ -788,7 +782,7 @@ I concorsi per l'ammissione in carriera, nonche' i concorsi e gli esami intermed
 
 In tal caso i concorsi e gli esami medesimi si intendono banditi per le qualifiche che, nei ruoli di cui alle annesse tabelle, corrispondono ai gradi predetti.
 
-#### Art. 51
+### Art. 51
 
 Riconoscimento di servizio ai fini del trattamento di quiescenza
 
@@ -798,7 +792,7 @@ Il riconoscimento, di cui al comma precedente, e' subordinato alle modalita' pre
 
 Il contributo di riscatto e' calcolato silla retribuzione spettante alla data del 1 maggio 1948.
 
-#### Art. 52
+### Art. 52
 
 Applicazione dei benefici di cui all'art. 21 della legge 26 febbraio 1952, n. 67, ed art. 5 del decreto del Presidente della Repubblica 3 maggio 1955, n. 448, al personale salariato adibito a mansioni di natura impiegatizia.
 
@@ -806,19 +800,19 @@ Il personale profugo dai territori della Venezia Giulia, in servizio nell'Ammini
 
 Il personale salariato adibito a mansioni di natura non salariale da data anteriore al 1 maggio 1948, che, per difetto o intempestivita' della domanda, non abbia potuto avvalersi delle disposizioni di cui all'art. 21 della legge 26 febbraio 1952, n. 67, puo' presentare domanda, entro lo stesso termine di cui al comma precedente, per il passaggio nelle categorie del personale avventizio.
 
-#### Art. 53
+### Art. 53
 
 Rinvio agli ordinamenti dell'Amministrazione
 
 Restano in vigore le particolari norme degli ordinamenti dell'Amministrazione non in contrasto con le disposizioni della presente legge.
 
-#### Art. 54
+### Art. 54
 
 Copertura della spesa
 
 Alla spesa derivante dall'applicazione della presente legge si provvede con gli stanziamenti del bilancio dell'Amministrazione autonoma dei monopoli di Stato, a cominciare dall'esercizio 1956-57.
 
-#### Art. 55
+### Art. 55
 
 Le disposizioni della presente legge hanno effetto dal 1 luglio 1956.
 
@@ -834,7 +828,7 @@ Visto, il Guardasigilli: MORO
 
 ## CAPO V - DISPOSIZIONI TRANSITORIE E FINALI
 
-#### Tabelle
+### Tabelle
 
 TABELLA A
 

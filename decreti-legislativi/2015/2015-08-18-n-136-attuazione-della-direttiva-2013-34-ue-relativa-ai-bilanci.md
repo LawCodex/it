@@ -356,7 +356,7 @@ Patrimoni destinati
 
 > Salvo quanto disposto in leggi speciali, i patrimoni destinati ai sensi della lettera a) del primo comma non possono essere costituiti per un valore complessivamente superiore al dieci per cento del patrimonio netto della societa' e non possono comunque essere costituiti per l'esercizio di affari attinenti ad attivita' riservate in base alle leggi speciali.».
 
-## Sezione II - Bilancio dell'impresa
+### Sezione II - Bilancio dell'impresa
 
 #### Art. 4
 
@@ -664,7 +664,7 @@ p) la proposta di destinazione degli utili o di copertura delle perdite.
 
 2\. E' consentito omettere le informazioni di cui al comma 1, lettera b), quando esse possano arrecare grave pregiudizio a una delle imprese ivi indicate. Di tale omissione e' fatta menzione nella nota integrativa.
 
-## Sezione III - Bilancio consolidato
+### Sezione III - Bilancio consolidato
 
 #### Art. 22
 
@@ -988,7 +988,7 @@ d) il bilancio consolidato e la relazione sulla gestione sono redatti dalla banc
 
 > \- Per i riferimenti alla direttiva 86/635/CEE si vedano le note all'art. 24.
 
-## Sezione II - Relazioni sulla gestione
+### Sezione II - Relazioni sulla gestione
 
 #### Art. 41
 

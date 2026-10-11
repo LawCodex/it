@@ -25,19 +25,19 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare il protocollo per l'emendamento dell'accordo sul finanziamento collettivo di alcuni servizi di navigazione aerea in Groenlandia e nelle Isole Faroer adottato a Ginevra il 25 settembre 1956, ed il protocollo per l'emendamento dell'accordo sul finanziamento collettivo di alcuni servizi di navigazione aerea in Islanda adottato a Ginevra il 25 settembre 1956, entrambi adottati a Montreal il 3 novembre 1982, con atto finale firmato in pari data.
 
-#### Art. 2
+### Art. 2
 
 Piena ed intera esecuzione e' data ai due protocolli di cui all'articolo precedente a decorrere dalla loro entrata in vigore in conformita' rispettivamente all'articolo 14 e all'articolo 13 dei protocolli stessi.
 
-#### Art. 3
+### Art. 3
 
 L'onere derivante dalla presente legge, valutato in lire 80 milioni nell'anno 1984, corrispondenti rispettivamente a corone danesi 245.214 e a dollari USA 24.125, fara' carico al capitolo 2156 dello stato di previsione del Ministero dei trasporti per l'anno finanziario 1984 ed ai corrispondenti capitoli degli anni successivi.
 
-#### Art. 4
+### Art. 4
 
 La presente legge entrera' in vigore il giorno successivo a quella della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -55,7 +55,7 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 ## Allegati
 
-#### art. 1
+### art. 1
 
 PROTOCOLE
 
@@ -79,21 +79,21 @@ CONSIDERANDO auspicabile l'emendamento dell'Accordo,
 
 HANNO DECISO quanto segue:
 
-#### Articolo 1
+### Articolo 1
 
 Il titolo dell'Accordo e': "Accordo sul finanziamento collettivo di alcuni servizi di navigazione aerea della Groenlandia".
 
-#### Articolo 2
+### Articolo 2
 
 L'articolo V dell'Accordo e' soppresso e sostituito dalle seguenti disposizioni:
 
 "Articolo V. - Il costo totale dei servizi, calcolato conformemente agli Allegati II e III del presente Accordo, non puo' superare 4.663.463 dollari USA per anno civile. Il Consiglio puo' aumentare questo tetto sia con il consenso di tutti i Governi contraenti, sia in applicazione delle disposizioni dell'articolo VI."
 
-#### Articolo 3
+### Articolo 3
 
 Nell'articolo VI, paragrafo 1, il riferimento al paragrafo 2 dell'articolo VII e' soppresso e deve essere inserito un riferimento al paragrafo 6 dell'articolo VII.
 
-#### Articolo 4
+### Articolo 4
 
 L'articolo VII dell'Accordo e' soppresso e sostituito dalle seguenti disposizioni:
 
@@ -129,7 +129,7 @@ Il contributo cosi' adeguato di ciascun Governo contraente verra' diminuito dell
 
 10\. I Governi contraenti possono convenire che le informazioni menzionate al paragrafo 9 del presente articolo, saranno fornite al Segretario generale, a loro nome, da un altro Governo.
 
-#### Articolo 5
+### Articolo 5
 
 Nell'articolo VIII dell'Accordo:
 
@@ -141,7 +141,7 @@ b) il paragrafo 4 e' soppresso e sostituito dalle disposizioni seguenti:
 
 "4. Lo stato delle spese reali per ogni anno e' sottoposto all'approvazione del Consiglio".
 
-#### Articolo 6
+### Articolo 6
 
 Nell'articolo IX dell'Accordo:
 
@@ -153,7 +153,7 @@ L'ammontare totale di questi versamenti non puo', per alcun anno, oltrepassare i
 
 b) Nel paragrafo 3, le parole "a partire dall'anno 1957" sono soppresse.
 
-#### Articolo 7
+### Articolo 7
 
 Nell'articolo XI dell'Accordo:
 
@@ -165,7 +165,7 @@ Tali versamenti possono anche essere effettuati in dollari USA, se cio' e' previ
 
 b) il paragrafo 4 e' soppresso.
 
-#### Articolo 8
+### Articolo 8
 
 Nell'articolo XIII dell'Accordo, il paragrafo 2 e' soppresso e sostituito dalle seguenti disposizioni:
 
@@ -177,7 +177,7 @@ b) questi servizi siano quelli approvati da tutti i governi contraenti; o
 
 c) questi servizi siano quelli approvati dai governi contraenti il cui totale di contributi sia almeno pari al novanta per cento dell'ammontare globale dei contributi stabiliti conformemente alle disposizioni dell'articolo VII, paragrafi 3, 4, 5 e 6 e a cui si applichino le disposizioni dell'articolo VI".
 
-#### Articolo 9
+### Articolo 9
 
 L'articolo XIV dell'Accordo e' soppresso e sostituito dalle seguenti disposizioni:
 
@@ -185,7 +185,7 @@ L'articolo XIV dell'Accordo e' soppresso e sostituito dalle seguenti disposizion
 
 Gli introiti netti derivanti da tali canoni saranno dedotti dai pagamenti dovuti al Governo della Danimarca in conformita' alle disposizioni del presente Accordo. A meno che il Consiglio non vi acconsenta, il Governo della Danimarca non percepisce nessun canone supplementare per l'uso di uno qualsiasi dei servizi da parte di utenti che non siano cittadini danesi".
 
-#### Articolo 10
+### Articolo 10
 
 Nell'articolo XXVI dell'Accordo:
 
@@ -203,21 +203,19 @@ b) il paragrafo 2 e' soppresso.
 
 c) il paragrafo 3 e' rinumerato 5.
 
-## CAPITOLO II
+## CAPITOLO II - EMENDAMENTO ALL'ALLEGATO III
 
-### EMENDAMENTO ALL'ALLEGATO III
-
-#### Articolo 11
+### Articolo 11
 
 Una nuova Sezione III, unita in Appendice al presente Protocollo, e' aggiunta all'Allegato III all'Accordo.
 
 ## CAPITOLO III - DISPOSIZIONI PROTOCOLLARI
 
-#### Articolo 12
+### Articolo 12
 
 L'Accordo e il presente Protocollo saranno letti, interpretati e applicati come un solo ed unico strumento.
 
-#### Articolo 13
+### Articolo 13
 
 1\. Il presente Protocollo sara' aperto alla firma dei Governi parti dell'Accordo (qui di seguito denominati "le presenti Parti") fino al 15 novembre 1982 presso la sede dell'Organizzazione dell'Aviazione civile internazionale. Dopo tale data, sara' aperto all'adesione dei Governi in causa.
 
@@ -225,13 +223,13 @@ L'Accordo e il presente Protocollo saranno letti, interpretati e applicati come 
 
 3\. Gli strumenti di accettazione o di adesione saranno depositati appena possibile presso il Segretario generale.
 
-#### Articolo 14
+### Articolo 14
 
 1\. Il presente Protocollo entrera' in vigore il sessantesimo giorno dopo la data in cui gli strumenti di accettazione o di adesione siano stati depositati da tutte le presenti Parti.
 
 2\. Fermo restando cio' che precede, il presente Protocollo sara' applicato provvisoriamente a far data dal 1 gennaio 1983, ad eccezione dell'articolo 10.
 
-#### Articolo 15
+### Articolo 15
 
 1\. Il presente Protocollo sara' anche aperto all'adesione di ogni altro Governo diverso dalle presenti Parti.
 
@@ -241,7 +239,7 @@ L'Accordo e il presente Protocollo saranno letti, interpretati e applicati come 
 
 4\. Tale adesione sara' considerata come adesione all'Accordo emendato dal presente Protocollo.
 
-#### Articolo 16
+### Articolo 16
 
 Il Segretario generale indirizzera' copie certificate conformi del presente Protocollo a tutti i Governi firmatari e aderenti e notifichera' loro:
 
@@ -255,7 +253,7 @@ IN FEDE DI CHE, i sottoscritti, debitamente autorizzati a tal fine, hanno firmat
 
 FATTO a Montreal il terzo giorno del mese di novembre millenovecentottantadue, in francese, in inglese e in spagnolo, i tre testi facenti egualmente fede, in un unico esemplare che sara' depositato presso l'Organizzazione dell'Aviazione civile internazionale.
 
-#### Appendice
+### Appendice
 
 APPENDICE
 
@@ -285,7 +283,7 @@ c) 90 per cento dei costi del radiofaro non direzionale (NDB) di
 
 Prins Christian Sund."
 
-#### Protocole
+### Protocole
 
 PROTOCOLE portant amendement de l'Accord sur le financement collectif de certains services de navigation aerienne d'Islande fait a' Geneve le 25 septembre 1956
 
@@ -313,17 +311,17 @@ CONSIDERANDO auspicabile l'emendamento dell'Accordo,
 
 HANNO DECISO quanto segue:
 
-#### Articolo 1
+### Articolo 1
 
 L'articolo V dell'Accordo e' soppresso e sostituito dalle seguenti disposizioni:
 
 "Articolo V. - Il costo totale dei servizi, calcolato in conformita' agli Allegati II e III del presente Accordo, non puo' superare 4.321.166 dollari USA per anno civile. Il Consiglio puo' aumentare questo tetto sia con il consenso di tutti i governi contraenti, sia in applicazione delle disposizioni dell'articolo VI".
 
-#### Articolo 2
+### Articolo 2
 
 Nell'articolo VI, paragrafo 1, il riferimento al paragrafo 2 dell'Articolo VII e' soppresso e deve essere inserito un riferimento al paragrafo 6 dell'articolo VII.
 
-#### Articolo 3
+### Articolo 3
 
 L'articolo VII dell'Accordo e' soppresso e sostituito dalle seguenti disposizioni:
 
@@ -361,7 +359,7 @@ Il contributo cosi' adeguato di ciascun Governo contraente verra' diminuito dell
 
 10\. I Governi contraenti possono convenire che le informazioni menzionate al paragrafo 9 del presente articolo saranno fornite al Segretario generale, a loro nome, da un altro Governo.
 
-#### Articolo 4
+### Articolo 4
 
 Nell'articolo VIII dell'Accordo:
 
@@ -373,7 +371,7 @@ b) il paragrafo 4 e' soppresso e sostituito dalle disposizioni seguenti:
 
 "4. Lo stato delle spese reali per ogni anno e' sottoposto all'approvazione del Consiglio".
 
-#### Articolo 5
+### Articolo 5
 
 Nell'articolo IX dell'Accordo:
 
@@ -383,7 +381,7 @@ a) il paragrafo 2 e' soppresso e sostituito dalle seguenti disposizioni:
 
 b) nel paragrafo 3, le parole "a far data dall'anno 1957" sono soppresse.
 
-#### Articolo 6
+### Articolo 6
 
 Nell'articolo XI dell'Accordo:
 
@@ -397,7 +395,7 @@ b) il paragrafo 2 e' soppresso e sostituito dalle seguenti disposizioni:
 
 c) il paragrafo 4 e' soppresso.
 
-#### Articolo 7
+### Articolo 7
 
 Nell'articolo XIII dell'Accordo, il paragrafo 2 e' soppresso e sostituito delle seguenti disposizioni:
 
@@ -409,13 +407,13 @@ b) questi servizi siano quelli approvati da tutti i governi contraenti; o
 
 c) questi servizi siano quelli approvati dai Governi contraenti il cui totale di contributi sia almeno pari al novanta per cento dell'ammontare globale dei contributi stabiliti conformemente alle disposizioni dell'articolo VII, paragrafi 3, 4, 5 e 6, a cui si applichino le disposizioni dell'articolo VI".
 
-#### Articolo 8
+### Articolo 8
 
 L'articolo XIV dell'Accordo e' soppresso e sostituito dalle seguenti disposizioni:
 
 "Articolo XIV. - Il Governo dell'Islanda attua un sistema di canoni d'uso per i servizi forniti a tutti gli aeromobili civili che effettuino traversate quali definite all'articolo VII. Tali canoni d'uso saranno calcolati in conformita' alle disposizioni dell'Allegato III al presente Accordo. Gli introiti netti derivanti da tali canoni saranno dedotti dai pagamenti dovuti al Governo dell'Islanda in conformita' alle disposizioni del presente Accordo. A meno che il Consiglio non vi acconsenta, il Governo dell'Islanda non percepisce nessun canone supplementare per l'uso di uno qualsiasi dei servizi da parte di utenti che non siano cittadini islandesi".
 
-#### Articolo 9
+### Articolo 9
 
 Nell'articolo XXVI dell'Accordo:
 
@@ -437,17 +435,17 @@ c) il paragrafo 3 e' rinumerato 5.
 
 ## CAPITOLO II - EMENDAMENTO DELL'ALLEGATO III
 
-#### Articolo 10
+### Articolo 10
 
 Nuove sezioni III e IV, unite in Appendice al presente protocollo, saranno aggiunte all'Allegato III dell'Accordo.
 
 ## CAPITOLO III - DISPOSIZIONI PROTOCOLLARI
 
-#### Articolo 11
+### Articolo 11
 
 L'Accordo e il presente Protocollo saranno letti, interpretati e applicati come un solo ed unico strumento.
 
-#### Articolo 12
+### Articolo 12
 
 1\. Il presente Protocollo sara' aperto alla firma dei. Governi parti dell'Accordo (qui di seguito denominati "le presenti Parti") fino al 15 novembre 1982 presso la sede dell'Organizzazione dell'Aviazione civile internazionale. Dopo tale data, sara' aperto all'adesione dei Governi in causa.
 
@@ -455,13 +453,13 @@ L'Accordo e il presente Protocollo saranno letti, interpretati e applicati come 
 
 3\. Gli strumenti di accettazione o di adesione saranno depositati appena possibile presso il Segretario generale.
 
-#### Articolo 13
+### Articolo 13
 
 1\. Il presente Protocollo entrera' in vigore il sessantesimo giorno dopo la data in cui gli strumenti di accettazione o di adesione saranno stati depositati da tutte le presenti Parti.
 
 2\. Fermo restando quanto precede, il presente Protocollo sara' applicato provvisoriamente a partire dal 1 gennaio 1983, ad eccezione dell'articolo 9.
 
-#### Articolo 14
+### Articolo 14
 
 1\. Il presente Protocollo sara' anche aperto all'adesione di ogni altro Governo diverso dalle presenti Parti.
 
@@ -471,7 +469,7 @@ L'Accordo e il presente Protocollo saranno letti, interpretati e applicati come 
 
 4\. Tale adesione sara' considerata come un'adesione all'accordo emendato dal presente Protocollo.
 
-#### Articolo 15
+### Articolo 15
 
 Il Segretario generale indirizzera' copie certificate conformi del presente Protocollo a tutti i Governi firmatari e aderenti e notifichera' loro:
 
@@ -495,7 +493,7 @@ depositato presso l'Organizzazione dell'Aviazione civile
 
 internazionale.
 
-#### Appendice
+### Appendice
 
 APPENDICE
 
@@ -621,7 +619,7 @@ Tali conversioni figurano nella verifica menzionata al paragrafo 2
 
 dell'articolo VIII.
 
-#### Acte Final
+### Acte Final
 
 ACTE FINAL
 
@@ -629,7 +627,7 @@ de la Conference sur l'amendement des Accords sur le financement collectif concl
 
 Parte di provvedimento in formato grafico
 
-#### Atto Finale
+### Atto Finale
 
 TRADUZIONE NON UFFICIALE
 
@@ -719,7 +717,7 @@ FATTO a Montreal il terzo giorno del mese di novembre dell'anno millenovecentott
 
 IN FEDE DI CHE i rappresentanti hanno firmato il presente Atto finale a nome dei loro rispettivi Governi.
 
-#### Piece Jointe A
+### Piece Jointe A
 
 PIECE JOINTE A
 
@@ -735,7 +733,7 @@ ALLEGATO A
 
 Testo ufficioso riveduto degli articoli I a XXVI dell'accordo sul finanziamento collettivo di alcuni servizi di navigazione aerea della Groenlandia
 
-#### Articolo I
+### Articolo I
 
 Ai fini del presente accordo:
 
@@ -747,11 +745,11 @@ c) per "Segretario generale" si intende il Segretario generale dell'Organizzazio
 
 d) per "Servizi" si intendono i servizi di cui all'Allegato I al presente Accordo e ogni Servizio supplementare che possa successivamente essere istituito in conformita' al presente Accordo.
 
-#### Articolo II
+### Articolo II
 
 Il Governo della Danimarca costituisce, gestisce e provvede alla manutenzione dei Servizi e, in considerazione dei vantaggi speciali che gliene derivano, prende a proprio carico il cinque per cento delle spese reali approvate in favore di questi Servizi.
 
-#### Articolo III
+### Articolo III
 
 1\. Il Governo della Danimarca gestisce e provvede alla manutenzione dei Servizi ininterrottamente, alle condizioni piu' economiche compatibili con l'efficienza dei Servizi e, ove possibile, in conformita' agli Standards, Pratiche raccomandate, Procedure e Specifiche attuate dall'organizzazione.
 
@@ -759,7 +757,7 @@ Il Governo della Danimarca costituisce, gestisce e provvede alla manutenzione de
 
 3\. Il Governo della Danimarca notifica immediatamente al Segretario generale tutti i casi di urgenza che necessitino di una modifica o una riduzione temporanea dei servizi; il suddetto Governo ed il Segretario generale si consultano in tal caso riguardo alle misure da adottare allo scopo di limitare gli inconvenienti di tale modifica o riduzione.
 
-#### Articolo IV
+### Articolo IV
 
 1\. Il Segretario generale, controlla la gestione dei Servizi nella sua servizi totalita' e puo' in qualsiasi momento, far procedere ad una ispezione dei servizi nonche' del materiale da questi utilizzato.
 
@@ -769,17 +767,17 @@ Il Governo della Danimarca costituisce, gestisce e provvede alla manutenzione de
 
 4\. Se il Governo della Danimarca non adempie efficacemente alla gestione ed alla manutenzione di uno qualsiasi dei Servizi, il Governo e il Segretario generale si consultano al fine di stabilire i mezzi idonei per porvi rimedio.
 
-#### Articolo V
+### Articolo V
 
 Il costo totale dei Servizi, calcolato in conformita' agli Allegati II e III del presente Accordo, non puo' superare 4.663.463 dollari USA per anno civile. Il Consiglio puo' elevare detto limite con il consenso di tutti i Governi contraenti, in applicazione delle disposizioni dell'articolo VI.
 
-#### Articolo VI
+### Articolo VI
 
 1\. Ai soli fini di istituire, gestire e provvedere alla manutenzione dei servizi che non vengano altrimenti assicurati in applicazione del presente Accordo, il limite fissato all'articolo V puo' essere elevato di un importo determinato con il consenso dei Governi contraenti i cui contributi totali siano perlomeno uguali al novanta per cento dell'ammontare globale dei contributi fissati per l'ultimo anno civile, in conformita' alle disposizioni dell'articolo VII, paragrafi 3, 4, 5 e 6.
 
 2\. Fatte salve le disposizioni dell'articolo II, le spese imputabili ai servizi di cui al paragrafo I del suddetto articolo, o qualsiasi spesa autorizzata in base alle disposizioni dell'articolo XIII, paragrafo 2, lettera a), a seguito dell'inclusione dei suddetti servizi nel presente Accordo, e' sostenuta esclusivamente dai Governi contraenti che vi consentano, proporzionalmente alla loro quota parte nell'ammontare globale per l'anno in questione. Nessuna parte del Fondo di riserva di cui all'articolo X, che non sia imputabile a questi servizi, puo' essere utilizzata per fini ai quali solo detti Governi abbiano consentito.
 
-#### Articolo VII
+### Articolo VII
 
 1\. Fatte salve le disposizioni dell'articolo V e del paragrafo 2 dell'articolo VI, i Governi contraenti si impegnano a dividere il novantacinque per conto delle spese reali approvate dei servizi; determinate in conformita' alle disposizioni dell'articolo VIII, in proporzione ai vantaggi aeronautici che ogni Governo contraente trae dai servizi. Tale proporzione e' determinata, per ogni Governo contraente e per ogni anno civile, secondo il numero di traversate complete effettuate nel corso del suddetto anno dai suoi aeromobili civili sulle rotte colleganti l'Europa e l'America del Nord, di cui una parte qualunque passi a nord del parallelo 45° nord tra i meridiani 15° ovest e 50° ovest. Inoltre:
 
@@ -813,7 +811,7 @@ Il contributo cosi' adeguato di ciascun Governo contraente verra' diminuito dell
 
 10\. I Governi contraenti possono convenire che le informazioni menzionate al paragrafo 9 del presente articolo saranno fornite al Segretario generale, a loro nome, da un altro Governo.
 
-#### Articolo VIII
+### Articolo VIII
 
 1\. Il Governo della Danimarca sottopone al Segretario generale, al piu' tardi il 15 settembre di ogni anno, i preventivi di spesa relativi ai Servizi per l'anno civile successivo espressi in corone danesi. I preventivi sono stabiliti conformemente alle disposizioni dell'articolo III e agli Allegati II e III al presente Accordo.
 
@@ -825,7 +823,7 @@ Il contributo cosi' adeguato di ciascun Governo contraente verra' diminuito dell
 
 5\. Lo stato delle spese reali, approvate dal Consiglio, in conformita' alle disposizioni del paragrafo 4 del presente articolo, e' comunicato ai Governi contraenti.
 
-#### Articolo IX
+### Articolo IX
 
 1\. Il novantacinque per cento delle spese reali approvate dal Consiglio e relative alla istituzione, alla gestione e alla manutenzione dei Servizi sono rimborsate al Governo della Danimarca.
 
@@ -837,13 +835,13 @@ Il contributo cosi' adeguato di ciascun Governo contraente verra' diminuito dell
 
 5\. Le previsioni di spesa approvate dal Consiglio, in conformita' alle disposizioni del paragrafo 2 del presente articolo, saranno comunicate ai Governi contraenti.
 
-#### Articolo X
+### Articolo X
 
 1\. Le somme versate dai Governi contraenti all'Organizzazione in conformita' alle disposizioni dell'articolo VII costituiscono, nella misura in cui non e' necessario utilizzarle per effettuare periodicamente i versamenti al Governo della Danimarca secondo i termini del presente Accordo, un Fondo di riserva che l'Organizzazione utilizza ai fini del presente Accordo.
 
 2\. Il Segretario generale ha facolta' di investire a breve termine le somme provenienti dal Fondo di riserva. Gli interessi derivanti da tali investimenti sono utilizzati per far fronte alle spese straordinarie risultanti dal presente Accordo e sostenute dall'Organizzazione. Se tali interessi non sono sufficienti a far fronte alle suddette spese straordinarie la differenza e' considerata come parte aggiuntiva delle spese reali relative ai Servizi e rimborsate all'Organizzazione sui pagamenti effettuati dai Governi contraenti.
 
-#### Articolo XI
+### Articolo XI
 
 1\. I contributi annui dei Governi sono espressi in corone danesi.
 
@@ -853,7 +851,7 @@ Tali versamenti possono anche essere effettuati in dollari USA, se cio' e' previ
 
 3\. A condizione che l'Organizzazione sia rimborsata in dollari USA delle sue spese straordinarie, il Segretario generale versa le somme dovute al Governo della Danimarca in conformita' agli articoli IX e XII nelle valute in cui i Governi contraenti hanno effettuato i loro versamenti all'Organizzazione, a seconda delle disponibilita'.
 
-#### Articolo XII
+### Articolo XII
 
 1\. L'obbligo per il Segretario generale di effettuare versamenti al Governo della Danimarca in virtu' del presente Accordo e' limitato alle somme effettivamente ricevute dall'Organizzazione e disponibili conformemente ai termini del presente Accordo.
 
@@ -861,7 +859,7 @@ Tali versamenti possono anche essere effettuati in dollari USA, se cio' e' previ
 
 3\. Nessun Governo contraente ha diritto a ricorrere contro l'Organizzazione in caso di mancato pagamento di un altro Governo secondo il presente Accordo.
 
-#### Articolo XIII
+### Articolo XIII
 
 1\. Fatte salve le disposizioni dell'Articolo V e del paragrafo 2 dell'articolo VI, il Consiglio puo', d'accordo con il Governo della Danimarca, includere nel contesto del presente Accordo nuove spese di capitale necessarie al buon funzionamento dei Servizi.
 
@@ -881,19 +879,19 @@ o c) questi servizi siano quelli approvati dai Governi contraenti il cui totale 
 
 6\. Dopo che saranno state adottate determinate misure in applicazione delle disposizioni dei paragrafi 1, 2 o 5 del presente articolo, il Consiglio emendera' di conseguenza gli Allegati al presente Accordo.
 
-#### Articolo XIV
+### Articolo XIV
 
 Il Governo della Danimarca attua un sistema di canoni d'uso per i servizi forniti a tutti gli aeromobili civili che effettuino traversate quali definite all'articolo VII. Tali canoni d'uso saranno calcolati in conformita' alle disposizioni dell'Allegato III al presente Accordo. Gli introiti netti derivanti da tali canoni saranno dedotti dai pagamenti dovuti al Governo della Danimarca in conformita' alle disposizioni del presente Accordo. A meno che il Consiglio non vi acconsenta, il Governo della Danimarca non percepisce nessun canone supplementare per l'uso di uno qualsiasi dei servizi da parte di utenti che non siano cittadini danesi.
 
-#### Articolo XV
+### Articolo XV
 
 Il Governo della Danimarca non puo' concludere nessun accordo internazionale, relativo alla creazione, alla gestione, alla manutenzione, allo sviluppo o al finanziamento di uno qualsiasi dei Servizi senza l'approvazione del Consiglio.
 
-#### Articolo XVI
+### Articolo XVI
 
 Il Governo della Danimarca coopera altresi', nella maniera piu' completa possibile, con i rappresentanti dell'Organizzazione per quanto riguarda il perseguimento degli obiettivi del presente Accordo e concede a tali rappresentanti i privilegi e le immunita' cui hanno diritto - secondo i termini della Convenzione generale sui privilegi ed immunita' delle istituzioni specializzate - e in particolare delle disposizioni dell'Allegato III (2) alla suddetta Convenzione.
 
-#### Articolo XVII
+### Articolo XVII
 
 Il Consiglio convoca una riunione generale dei Governi interessati:
 
@@ -903,17 +901,17 @@ b) se il mancato pagamento dei contributi di alcuni Governi contraenti - secondo
 
 c) se, per qualsiasi ragione, il Consiglio ritiene che una tale riunione sia necessaria.
 
-#### Articolo XVIII
+### Articolo XVIII
 
 Qualsiasi controversia sull'interpretazione o sull'applicazione del presente Accordo o dei suoi Allegati che non sia composta per via negoziale e' sottoposta al Consiglio su domanda di uno dei Governi contraenti parte nella controversia, perche' emani le sue raccomandazioni.
 
-#### Articolo XIX
+### Articolo XIX
 
 1\. Il presente Accordo rimane aperto fino al 1 dicembre 1956 alla firma dei Governi menzionati nel suo preambolo.
 
 2\. Il presente Accordo e' subordinato all'accettazione dei Governi firmatari. Gli strumenti di accettazione dovranno essere depositati appena possibile presso il Segretario generale, che informera' tutti i Governi firmatari o aderenti della data del deposito di ciascuno di tali strumenti.
 
-#### Articolo XX
+### Articolo XX
 
 1\. Il presente Accordo e' aperto all'adesione del Governo di ogni Stato membro dell'Organizzazione delle Nazioni Unite o di un'istituzione specializzata collegata alla suddetta Organizzazione.
 
@@ -923,13 +921,13 @@ Le adesioni sono effettuate mediante deposito di uno strumento ufficiale presso 
 
 3\. Ferme restando le disposizioni del paragrafo 2 del presente articolo, il Consiglio puo' concludere accordi relativi al versamento di contributi da parte dei Governi che non diventino parte al presente Accordo. I contributi cosi' ricevuti sono utilizzati ai fini del presente Accordo alle condizioni stabilite dal Consiglio.
 
-#### Articolo XXI
+### Articolo XXI
 
 1\. Il presente Accordo entra in vigore il 1 gennaio 1957 al piu' presto, e allorche' il totale dei contributi iniziali dei Governi che hanno depositato i loro strumenti di accettazione o di adesione sia pari almeno al novanta per cento dell'ammontare massimo delle spese di cui all'articolo V. Il deposito, da parte di questi Governi, di uno strumento di accettazione o di adesione e' considerato come consenso al sistema di contributi, di versamenti e di adeguamenti previsti dal presente Accordo per il periodo decorrente dal 1 gennaio 1957 all'entrata in vigore dell'Accordo.
 
 2\. Per quanto riguarda qualsiasi Governo il cui strumento di accettazione o di adesione sia depositato, dopo l'entrata in vigore del presente Accordo, quest'ultimo entra in vigore alla data del deposito. In tal caso, il Governo in causa accetta il sistema di contributi, di versamenti e di adeguamenti previsto dal presente Accordo, al piu' tardi a partire dall'inizio dell'anno civile nel corso del quale lo strumento di accettazione o di adesione sia depositato. Il suddetto Governo puo' accettare che gli sia imputato un contributo corrispondente alla sua quota parte delle spese reali approvate dai Servizi ai quali si applicano le disposizioni dell'articolo VI e riguardo ai quali il consenso di tutti i Governi contraenti non sia stato raccolto alla data dell'adesione del suddetto Governo.
 
-#### Articolo XXII
+### Articolo XXII
 
 1\. a) Il Governo della Danimarca puo' porre fine al presente Accordo a far data dal 31 dicembre di un anno qualsiasi, su preavviso scritto indirizzato al Segretario generale al piu' tardi il 1 gennaio dell'anno in questione.
 
@@ -939,13 +937,13 @@ c) Governi contraenti diversi da quello della Danimarca possono porre fine al pr
 
 2\. Ricevuti uno o piu' preavvisi relativi all'intenzione di porre fine al presente Accordo, in conformita' alle disposizioni del paragrafo 1 del presente articolo, il Segretario generale ne informa i Governi contraenti.
 
-#### Articolo XXIII
+### Articolo XXIII
 
 1\. Ferme restando le disposizioni dell'Articolo XXII, ciascun Governo contraente diverso dal Governo della Danimarca i cui contributi per l'anno in corso siano inferiori al dieci per cento della somma limite indicata all'articolo V, puo' cessare di essere parte al presente Accordo a partire dal 31 dicembre di un anno qualsiasi, notificando per iscritto, al Segretario generale, al piu' tardi il 1 gennaio dell'anno in questione, la propria intenzione di cessare di essere parte all'Accordo. Ai fini dell'articolo XXII, paragrafo 1, lettera c), tale preavviso e' reputato costituire anche una notifica del desiderio di porre fine al presente Accordo.
 
 2\. Ricevuto il preavviso di cessazione di partecipazione di un Governo contraente, il Segretario generale ne informa gli altri Governi contraenti.
 
-#### Articolo XXIV
+### Articolo XXIV
 
 1\. Qualora il Governo della Danimarca ponga fine al presente Accordo in virtu' delle disposizioni del paragrafo 1 dell'articolo XXII, esso versa all'Organizzazione, o l'Organizzazione puo' trattenere sui versamenti ad esso dovuti - secondo i termini del presente Accordo - una somma equivalente ad una giusta compensazione dei benefici ricavati da tale Governo dall'acquisto, a propri fini, dei beni mobili o immobili parzialmente o integralmente rimborsati allo stesso in virtu' delle disposizioni del presente Accordo.
 
@@ -957,7 +955,7 @@ L'ammontare dei versamenti richiesti a tal fine ai Governi contraenti e' determi
 
 4\. L'ammontare dei versamenti da effettuare in virtu' delle disposizioni del presente articolo e' determinato mediante accordo fra il Consiglio e il Governo della Danimarca.
 
-#### Articolo XXV
+### Articolo XXV
 
 1\. Fatte salve le disposizioni del paragrafo 2 dell'articolo X, qualsiasi rimanenza del Fondo di riserva e degli interessi provenienti da tale fondo in possesso dell'Organizzazione alla data in cui il presente Accordo cessa di essere in vigore e' rimborsata, mediante suddivisione, a quei Governi che sono ancora parte al presente Accordo immediatamente prima di detta data, in base alla percentuale del loro contributo annuale piu' recente.
 
@@ -965,7 +963,7 @@ L'ammontare dei versamenti richiesti a tal fine ai Governi contraenti e' determi
 
 b) Qualsiasi Governo che abbia ritirato la sua partecipazione paga all'Organizzazione la sua parte di spese in capitale che sono state sostenute dal Governo della Danimarca e che non sono state integralmente rimborsate in esecuzione del presente Accordo. La somma da versare e determinata in base alla percentuale del contributo piu' recente imputato al Governo che ha ritirato la sua partecipazione. Il pagamento dovra' essere effettuato alla data del ritiro.
 
-#### Articolo XXVI
+### Articolo XXVI
 
 1\. Qualsiasi proposta di emendamento del presente Accordo potra' essere avanzata da un Governo contraente o dal Consiglio. La proposta e' comunicata per iscritto al Segretario generale che la trasmette a tutti i Governi contraenti chiedendo loro di comunicargli formalmente se la accettano o meno.
 
@@ -977,7 +975,7 @@ b) Qualsiasi Governo che abbia ritirato la sua partecipazione paga all'Organizza
 
 5\. In casi diversi da quelli specificati al paragrafo 6 dell'articolo XIII, il Consiglio puo' emendare gli Allegati al presente Accordo, fatti salvi i termini e le condizioni del predetto e il consenso del Governo della Danimarca.
 
-#### Piece Jointe B
+### Piece Jointe B
 
 PIECE JOINTE B
 
@@ -993,7 +991,7 @@ ALLEGATO B
 
 Testo ufficioso riveduto dell'accordo sul finanziamento collettivo di alcuni servizi di navigazione aerea dell'Islanda
 
-#### Articolo I
+### Articolo I
 
 Ai fini del presente Accordo:
 
@@ -1005,11 +1003,11 @@ c) per "Segretario generale" si intende il Segretario generale dell'Organizzazio
 
 d) per "Servizi" si intendono i servizi di cui all'Allegato I al presente Accordo e ogni Servizio supplementare che possa successivamente essere istituito in conformita' al presente Accordo.
 
-#### Articolo II
+### Articolo II
 
 Il Governo dell'Islanda costituisce, gestisce e provvede alla manutenzione dei Servizi e, in considerazione dei vantaggi speciali che gliene derivano, prende a proprio carico il cinque per cento delle spese reali approvate in favore di questi Servizi.
 
-#### Articolo III
+### Articolo III
 
 1\. Il Governo dell'Islanda gestisce e provvede alla manutenzione dei Servizi ininterrottamente, alle condizioni piu' economiche compatibili con l'efficienza dei Servizi e, ove possibile, in conformita' agli Standards, Pratiche raccomandate, Procedure e Specifiche attuate dall'organizzazione.
 
@@ -1017,7 +1015,7 @@ Il Governo dell'Islanda costituisce, gestisce e provvede alla manutenzione dei S
 
 3\. Il Governo dell'Islanda notifica immediatamente al Segretario generale tutti i casi di urgenza che necessitino di una modifica o una riduzione temporanea dei servizi; il suddetto Governo ed il Segretario generale si consultano in tal caso riguardo alle misure da adottare allo scopo di limitare gli inconvenienti di tale modifica o riduzione.
 
-#### Articolo IV
+### Articolo IV
 
 1\. Il Segretario generale controlla la gestione dei Servizi nella sua totalita' e puo', in qualsiasi momento, far procedere ad una ispezione dei servizi nonche' del materiale da questi utilizzato.
 
@@ -1027,17 +1025,17 @@ Il Governo dell'Islanda costituisce, gestisce e provvede alla manutenzione dei S
 
 4\. Se il Governo dell'Islanda non adempie efficacemente alla gestione ed alla manutenzione di uno qualsiasi dei Servizi, il Governo e il Segretario generale si consultano al fine di stabilire i mezzi idonei per porvi rimedio.
 
-#### Articolo V
+### Articolo V
 
 Il costo totale dei Servizi, calcolato in conformita' agli Allegati II e III del presente Accordo, non puo' superare 4.321.166 dollari USA per anno civile. Il Consiglio puo' elevare detto limite con il consenso di tutti i Governi contraenti, in applicazione delle disposizioni dell'articolo VI.
 
-#### Articolo VI
+### Articolo VI
 
 1\. Ai soli fini di istituire, gestire e provvedere alla manutenzione dei servizi che non vengano altrimenti assicurati in applicazione del presente Accordo, il limite fissato all'articolo V puo' essere elevato di un importo determinato con il consenso dei Governi contraenti i cui contributi totali siano perlomeno uguali al novanta per cento dell'ammontare globale dei contributi fissati per l'ultimo anno civile, in conformita' alle disposizioni dell'articolo VII, paragrafi 3, 4, 5 e 6.
 
 2\. Fatte salve le disposizioni dell'articolo II, le spese imputabili ai servizi di cui al paragrafo 1 del suddetto articolo, o qualsiasi spesa autorizzata in base alle disposizioni dell'articolo XIII, paragrafo 2, lettera a), a seguito dell'inclusione dei suddetti servizi nel presente Accordo, e' sostenuta esclusivamente dai Governi contraenti che vi consentano, proporzionalmente alla loro quota parte nell'ammontare globale per l'anno in questione. Nessuna parte del Fondo di riserva di cui all'articolo X, che non sia imputabile a questi servizi, puo' essere utilizzata per fini ai quali solo detti Governi abbiano consentito.
 
-#### Articolo VII
+### Articolo VII
 
 1\. Fatte salve le disposizioni dell'articolo V e del paragrafo 2 dell'articolo VI, i Governi contraenti si impegnano a dividere il novantacinque per cento delle spese reali approvate dei servizi, determinate in conformita' alle disposizioni dell'articolo VIII, in proporzione ai vantaggi aeronautici che ogni Governo contraente trae dai servizi. Tale proporzione e' determinata, per ogni Governo contraente e per ogni anno civile, secondo il numero di traversate complete effettuate nel corso del suddetto anno dai suoi aeromobili civili sulle rotte colleganti l'Europa e l'America del Nord, di cui una parte qualunque passi a nord del parallelo 45° nord tra i meridiani 15° ovest e 50° ovest. Inoltre:
 
@@ -1071,7 +1069,7 @@ Il contributo cosi' adeguato di ciascun Governo contraente verra' diminuito dell
 
 10\. I Governi contraenti possono convenire che le informazioni menzionate al paragrafo 9 del presente articolo saranno fornite al Segretario generale, a loro nome, da un altro Governo.
 
-#### Articolo VIII
+### Articolo VIII
 
 1\. Il Governo dell'Islanda sottopone al Segretario generale, al piu' tardi il 15 settembre di ogni anno, i preventivi di spesa relativi ai Servizi per l'anno civile successivo espressi in corone islandesi. I preventivi sono stabiliti conformemente alle disposizioni dell'articolo III e agli Allegati II e III al presente Accordo.
 
@@ -1083,7 +1081,7 @@ Il contributo cosi' adeguato di ciascun Governo contraente verra' diminuito dell
 
 5\. Lo stato delle spese reali, approvate dal Consiglio, in conformita' alle disposizioni del paragrafo 4 del presente articolo, e' comunicato ai Governi contraenti.
 
-#### Articolo IX
+### Articolo IX
 
 1\. Il novantacinque per cento delle spese reali approvate dal Consiglio e relative alla istituzione, alla gestione e alla manutenzione dei Servizi sono rimborsate al Governo dell'Islanda.
 
@@ -1095,13 +1093,13 @@ Il contributo cosi' adeguato di ciascun Governo contraente verra' diminuito dell
 
 5\. Le previsioni di spesa approvate dal Consiglio, in conformita' alle disposizioni del paragrafo 2 del presente articolo, saranno comunicate ai Governi contraenti.
 
-#### Articolo X
+### Articolo X
 
 1\. Le somme versate dai Governi contraenti all'Organizzazione in conformita' alle disposizioni dell'articolo VII costituiscono, nella misura in cui non e' necessario utilizzarle per effettuare periodicamente i versamenti al Governo dell'Islanda secondo i termini del presente Accordo, un Fondo di riserva che l'Organizzazione utilizza ai fini del presente Accordo.
 
 2\. Il Segretario generale ha facolta' di investire a breve termine le somme provenienti dal Fondo di riserva. Gli interessi derivanti da tali investimenti sono utilizzati per far fronte alle spese straordinarie risultanti dal presente Accordo e sostenute dall'Organizzazione. Se tali interessi non sono sufficienti a far fronte alle suddette spese straordinarie la differenza e' considerata come parte aggiuntiva delle spese reali relative ai Servizi e rimborsate all'Organizzazione sui pagamenti effettuati dai Governi contraenti.
 
-#### Articolo XI
+### Articolo XI
 
 1\. I contributi annui dei Governi sono espressi in dollari statunitensi.
 
@@ -1109,7 +1107,7 @@ Il contributo cosi' adeguato di ciascun Governo contraente verra' diminuito dell
 
 3\. A condizione che l'organizzazione sia rimborsata in dollari USA delle sue spese straordinarie, il Segretario generale versa le somme dovute al Governo dell'Islanda in conformita' agli articoli IX e XII nelle valute in cui i Governi contraenti hanno effettuato i loro versamenti all'Organizzazione, a seconda delle disponibilita'.
 
-#### Articolo XII
+### Articolo XII
 
 1\. L'obbligo per il Segretario generale di effettuare versamenti al Governo dell'Islanda in virtu' del presente Accordo e' limitato alle somme effettivamente ricevute dall'Organizzazione e disponibili conformemente ai termini del presente Accordo.
 
@@ -1117,7 +1115,7 @@ Il contributo cosi' adeguato di ciascun Governo contraente verra' diminuito dell
 
 3\. Nessun Governo contraente ha diritto a ricorrere contro l'Organizzazione in caso di mancato pagamento di un altro Governo secondo il presente Accordo.
 
-#### Articolo XIII
+### Articolo XIII
 
 1\. Fatte salve le disposizioni dell'Articolo V e del paragrafo 2 dell'articolo VI, il Consiglio puo', d'accordo con il Governo dell'Islanda includere nel contesto del presente Accordo nuove spese di capitale necessarie al buon funzionamento dei Servizi.
 
@@ -1141,21 +1139,21 @@ c) questi servizi siano quelli approvati dai Governi contraenti il cui totale di
 
 6\. Dopo che saranno state adottate determinate misure in applicazione delle disposizioni dei paragrafi 1, 2 o 5 del presente articolo, il Consiglio emendera' di conseguenza gli Allegati al presente Accordo.
 
-#### Articolo XIV
+### Articolo XIV
 
 Il Governo dell'Islanda attua un sistema di canoni d'uso per i servizi forniti a tutti gli aeromobili civili che effettuino traversate quali definite all'articolo VII. Tali canoni d'uso saranno calcolati in conformita' alle disposizioni dell'Allegato III al presente Accordo. Gli introiti netti derivanti da tali canoni saranno dedotti dai pagamenti dovuti al Governo dell'Islanda in conformita' alle disposizioni del presente Accordo. A meno che il Consiglio non vi acconsenta, il Governo dell'Islanda non percepisce nessun canone supplementare per l'uso di uno qualsiasi dei servizi da parte di utenti che non siano cittadini islandesi.
 
-#### Articolo XV
+### Articolo XV
 
 Il Governo dell'Islanda non puo' concludere nessun accordo internazionale, relativo alla creazione, alla gestione, alla manutenzione, allo sviluppo o al finanziamento di uno qualsiasi dei Servizi senza l'approvazione del Consiglio.
 
 Articolo XVI Il Governo dell'Islanda coopera altresi', nella maniera piu' completa possibile, con i rappresentanti dell'Organizzazione per quanto riguarda il perseguimento degli obiettivi del presente Accordo e concede a tali rappresentanti i privilegi e le immunita' cui hanno diritto - secondo i termini della Convenzione generale sui privilegi ed immunita' delle istituzioni specializzate - e in particolare delle disposizioni dell'Allegato III (2) alla suddetta Convenzione.
 
-#### Articolo XVI
+### Articolo XVI
 
 Il Governo dell'Islanda coopera altresi', nella maniera piu' completa possibile, con i rappresentanti dell'Organizzazione per quanto riguarda il perseguimento degli obiettivi del presente Accordo e concede a tali rappresentanti i privilegi e le immunita' cui hanno diritto - secondo i termini della Convenzione generale sui privilegi ed immunita' delle istituzioni specializzate - e in particolare delle disposizioni dell'Allegato III (2) alla suddetta convenzione.
 
-#### Articolo XVII
+### Articolo XVII
 
 Il Consiglio convoca una riunione generale dei Governi interessati:
 
@@ -1165,17 +1163,17 @@ b) se il mancato pagamento dei contributi di alcuni Governi contraenti - secondo
 
 c) se per qualsiasi ragione, il Consiglio ritiene che una tale riunione sia necessaria.
 
-#### Articolo XVIII
+### Articolo XVIII
 
 Qualsiasi controversia sull'interpretazione o sull'applicazione del presente Accordo o dei suoi Allegati che non sia composta per via negoziale e' sottoposta al Consiglio su domanda di uno dei Governi contraenti parte nella controversia, perche' questo emani le sue raccomandazioni.
 
-#### Articolo XIX
+### Articolo XIX
 
 1\. Il presente Accordo rimane aperto fino al 1 dicembre 1956 alla firma dei Governi menzionati nel suo preambolo.
 
 2\. Il presente Accordo e' subordinato all'accettazione dei Governi firmatari. Gli strumenti di accettazione dovranno essere depositati appena possibile presso il Segretario generale, che informera' tutti i Governi firmatari o aderenti della data del deposito di ciascuno di tali strumenti.
 
-#### Articolo XX
+### Articolo XX
 
 1\. Il presente Accordo e' aperto all'adesione del Governo di ogni Stato membro dell'Organizzazione delle Nazioni Unite o di un'istituzione specializzata collegata alla suddetta Organizzazione.
 
@@ -1185,13 +1183,13 @@ Le adesioni sono effettuate mediante deposito di uno strumento ufficiale presso 
 
 3\. Ferme restando le disposizioni del paragrafo 2 del presente articolo, il Consiglio puo' concludere accordi relativi al versamento di contributi da parte dei Governi che non diventino parte al presente Accordo. I contributi cosi' ricevuti sono utilizzati ai fini del presente Accordo alle condizioni stabilite dal Consiglio.
 
-#### Articolo XXI
+### Articolo XXI
 
 1\. Il presente Accordo entra in vigore il 1 gennaio 1957 al piu' presto, e allorche' il totale dei contributi iniziali dei Governi che hanno depositato i loro strumenti di accettazione o di adesione sia pari almeno al novanta per cento dell'ammontare massimo delle spese di cui all'articolo V. Il deposito, da parte di questi Governi, di uno strumento di accettazione o di adesione e' considerato come consenso al sistema di contributi, di versamenti e di adeguamenti previsti dal presente Accordo per il periodo decorrente dal 1 gennaio 1957 all'entrata in vigore dell'Accordo.
 
 2\. Per quanto riguarda qualsiasi Governo il cui strumento di accettazione o di adesione sia depositato dopo l'entrata in vigore del presente Accordo, quest'ultimo entra in vigore alla data del deposito. In tal caso, il Governo in causa accetta il sistema di contributi, di versamenti e di adeguamenti previsto dal presente Accordo, al piu' tardi a partire dall'inizio dell'anno civile nel corso del quale lo strumento di accettazione o di adesione sia depositato. Il suddetto Governo puo' accettare che gli sia imputato un contributo corrispondente alla sua quota parte delle spese reali approvate dai Servizi ai quali si applicano le disposizioni dell'articolo VI e riguardo ai quali il consenso di tutti i Governi contraenti non sia stato raccolto alla data dell'adesione del suddetto Governo.
 
-#### Articolo XXII
+### Articolo XXII
 
 1\. a) Il Governo dell'Islanda puo' porre fine al presente Accordo a far data dal 31 dicembre di un anno qualsiasi, su preavviso scritto indirizzato al Segretario generale al piu' tardi il 1 gennaio dell'anno in questione.
 
@@ -1201,13 +1199,13 @@ c) Governi contraenti diversi da quello dell'Islanda possono porre fine al prese
 
 2\. Ricevuti uno o piu' preavvisi relativi all'intenzione di porre fine al presente Accordo, in conformita' alle disposizioni del paragrafo 1 del presente articolo, il Segretario generale ne informa i Governi contraenti.
 
-#### Articolo XXIII
+### Articolo XXIII
 
 1\. Ferme restando le disposizioni dell'Articolo XXII, ciascun Governo contraente diverso dal Governo dell'Islanda i cui contributi per l'anno in corso siano inferiori al dieci per cento della somma limite indicata all'articolo V, puo' cessare di essere parte al presente Accordo a partire dal 31 dicembre di un anno qualsiasi, notificando per iscritto, al Segretario generale, al piu' tardi il 1 gennaio dell'anno in questione, la propria intenzione di cessare di essere parte all'Accordo. Ai fini dell'articolo XXII, paragrafo 1, lettera c), tale preavviso e' reputato costituire anche una notifica del desiderio di porre fine al presente Accordo.
 
 2\. Ricevuto il preavviso di cessazione di partecipazione di un Governo contraente, il Segretario generale ne informa gli altri Governi contraenti.
 
-#### Articolo XXIV
+### Articolo XXIV
 
 1\. Qualora il Governo dell'Islanda ponga fine al presente Accordo in virtu' delle disposizioni del paragrafo 1 dell'articolo XXII, esso versa all'Organizzazione, o l'Organizzazione puo' trattenere sui versamenti ad esso dovuti - secondo i termini del presente Accordo - una somma equivalente ad una giusta compensazione dei benefici ricavati da tale Governo dall'acquisto, a propri fini, dei beni mobili o immobili parzialmente o integralmente rimborsati allo stesso in virtu' delle disposizioni del presente Accordo.
 
@@ -1219,7 +1217,7 @@ L'ammontare dei versamenti richiesti a tal fine ai Governi contraenti e' determi
 
 4\. L'ammontare dei versamenti da effettuare in virtu' delle disposizioni del presente articolo e' determinato mediante accordo fra il Consiglio e il Governo dell'Islanda.
 
-#### Articolo XXV
+### Articolo XXV
 
 1\. Fatte salve le disposizioni del paragrafo 2 dell'articolo X, qualsiasi rimanenza del Fondo di riserva e degli interessi provenienti da tale fondo in possesso dell'Organizzazione alla data in cui il presente Accordo cessa di essere in vigore e' rimborsata, mediante suddivisione, a quei Governi che sono ancora parte al presente Accordo immediatamente prima di detta data, in base alla percentuale del loro contributo annuale piu' recente.
 
@@ -1227,7 +1225,7 @@ L'ammontare dei versamenti richiesti a tal fine ai Governi contraenti e' determi
 
 b) Qualsiasi Governo che abbia ritirato la sua partecipazione paga all'Organizzazione la sua parte di spese in capitale che sono state sostenute dal Governo dell'Islanda e che non sono state integralmente rimborsate in esecuzione del presente Accordo. La somma da versare e' determinata in base alla percentuale del contributo piu' recente imputato al Governo che ha ritirato la sua partecipazione. Il pagamento dovra' essere effettuato alla data del ritiro.
 
-#### Articolo XXVI
+### Articolo XXVI
 
 1\. Qualsiasi proposta di emendamento del presente Accordo potra' essere avanzata da un Governo contraente o dal Consiglio. La proposta e' comunicata per iscritto al Segretario generale che la trasmette a tutti i Governi contraenti chiedendo loro di comunicargli formalmente se la accettano o meno.
 

@@ -38,7 +38,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 Abbiamo decretato e decretiamo:
 
-### Art. 1
+## Art. 1
 
 All'art. 23 del Testo unico delle leggi sulla riscossione delle imposte dirette approvato con R. decreto 17 ottobre 1922, n. 1401, e' sostituito il seguente:
 
@@ -56,21 +56,21 @@ AGGIORNAMENTO (3)
 
 Il D.P.R. 29 gennaio 1958, n. 645 ha disposto (con l'art. 288, comma 1, lettera B)) che a decorrere dal 1° gennaio 1960 e' abrogato il presente provvedimento, salva la seconda parte del secondo comma, dell'art. 1.
 
-### Art. 2
+## Art. 2
 
 ((ARTICOLO ABROGATO DAL D.P.R. 29 GENNAIO 1958, N. 645))
 
-### Art. 3
+## Art. 3
 
 ((ARTICOLO ABROGATO DAL D.P.R. 29 GENNAIO 1958, N. 645))
 
 ## Disposizioni transitorie.
 
-### Art. 4
+## Art. 4
 
 ((ARTICOLO ABROGATO DAL D.P.R. 29 GENNAIO 1958, N. 645))
 
-### Art. 5
+## Art. 5
 
 ((ARTICOLO ABROGATO DAL D.P.R. 29 GENNAIO 1958, N. 645))
 

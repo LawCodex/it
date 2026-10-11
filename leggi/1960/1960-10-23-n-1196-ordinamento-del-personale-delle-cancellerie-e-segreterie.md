@@ -28,11 +28,9 @@ la seguente legge:
 
 ## TITOLO I - Disposizioni preliminari e generali
 
-### CAPO I
+### CAPO I - CLASSIFICAZIONE - ATTRIBUZIONI DISTRIBUZIONE DEL PERSONALE
 
-#### CLASSIFICAZIONE - ATTRIBUZIONI - DISTRIBUZIONE DEL PERSONALE
-
-###### Art. 1
+##### Art. 1
 
 Distinzione delle carriere
 
@@ -46,7 +44,7 @@ Il personale delle cancellerie e segreterie giudiziarie fa parte dell'ordine giu
 
 Al Ministero e agli uffici giudiziari e' addetto personale di dattilografia
 
-###### Art. 2
+##### Art. 2
 
 Qualifiche
 
@@ -68,7 +66,7 @@ cancelliere e segretario di seconda classe;
 
 vice cancelliere e vice segretario.)).
 
-###### Art. 3
+##### Art. 3
 
 Graduatoria del personale
 
@@ -78,13 +76,13 @@ Il numero dei funzionari e la suddivisione per qualifiche sono stabiliti dalla t
 
 Il numero dei dattilografi e' stabilito dalla tabella B, allegata al presente ordinamento.
 
-###### Art. 4
+##### Art. 4
 
 Attribuzioni del personale direttivo
 
 I funzionari della carriera direttiva, provvedono alla organizzazione tecnica del lavoro degli uffici di cancelleria e segreteria e dei servizi per adeguarne l'efficienza alle esigenze funzionali dell'Amministrazione giudiziaria; rappresentano l'Amministrazione e ne curano gli interessi nei casi stabiliti dalla legge; partecipano a Commissioni operanti in seno all'Amministrazione; provvedono e vegliano all'osservanza delle disposizioni tributarie concernenti le loro funzioni ed accettano ed elevano le contravvenzioni relative nei confronti delle parti e dei rispettivi padroni; vegliano sui funzionari di cancelleria e segreteria e sul personale di dattilografia ed ausiliario. Quando le esigenze del servizio lo richiedano o in casi di assenza, o di impedimento del personale di concetto ne esercitano le attribuzioni.
 
-###### Art. 5
+##### Art. 5
 
 Attribuzioni del personale di concetto
 
@@ -92,7 +90,7 @@ I funzionari della carriera di concetto assistono i magistrati nelle udienze e n
 
 svolgono compiti di carattere amministrativo, contabile e tecnico e provvedono agli adempimenti che ad essi vengano affidati dai superiori gerarchici; possono, temporaneamente, nel solo caso di assenza o vacanza, fare le veci dei funzionari della carriera direttiva.
 
-###### Art. 6
+##### Art. 6
 
 Attribuzione del personale di dattilografia.
 
@@ -100,7 +98,7 @@ Il personale di dattilografia disimpegna esclusivamente mansioni di copia, con i
 
 Il capo della cancelleria o segreteria puo' affidare al personale di dattilografia l'adempimento di mansioni di mero ordine, con divieto assoluto di adibirlo, comunque, al compimento di atti per i quali e richiesto l'intervento o la partecipazione del cancelliere o segretario.
 
-###### Art. 7
+##### Art. 7
 
 Distribuzione del personale
 
@@ -126,7 +124,7 @@ Al Ministero e agli uffici giudiziari sono assegnati dattilografi a norma delle 
 
 Agli uffici di segreteria del Consiglio superiore della Magistratura sono addetti funzionari delle cancellerie e segreterie giudiziarie in numero di sette.
 
-###### Art. 8
+##### Art. 8
 
 Destinazione dei funzionari in prova
 
@@ -134,21 +132,21 @@ Destinazione dei funzionari in prova
 
 Detti funzionari, per particolari esigenze di servizio e previo parere del capo della Corte, possono essere destinati in preture con organico inferiore a quello previsto nel precedente comma, purche' abbiano gia' prestato almeno un anno di servizio effettivo presso le preture con organico di due o piu' cancellieri)).
 
-###### Art. 9
+##### Art. 9
 
 Sedi distaccate di Pretura
 
 Nelle sedi distaccate di Pretura le funzioni di cancelliere sono esercitate dal dirigente della cancelleria della Pretura o da un funzionario in sottordine.
 
-## CAPO II - NOMINA - GIURAMENTO - ASSUNZIONI IN SERVIZIO
+### CAPO II - NOMINA - GIURAMENTO - ASSUNZIONI IN SERVIZIO
 
-###### Art. 10
+##### Art. 10
 
 Nomina
 
 I funzionari della carriera direttiva sono nominati con decreto del Presidente della Repubblica su proposta del Ministro per la grazia e giustizia; quelli della carriera di concetto e i dattilografi con decreto del Ministro per la grazia e giustizia.
 
-###### Art. 11
+##### Art. 11
 
 Giuramento
 
@@ -158,7 +156,7 @@ I funzionari della carriera di concetto e i dattilografi, prima di assumere serv
 
 Il giuramento non si ripete nei casi di cambiamento di funzioni, di trasferimento, di promozione o di passaggio da altro impiego.
 
-###### Art. 12
+##### Art. 12
 
 Termine per l'assunzione in servizio
 
@@ -172,19 +170,17 @@ Per esigenze di servizio il Ministro puo', altresi', disporre che i funzionari d
 
 Le disposizioni del presente articolo si applicano anche al personale di dattilografia.
 
-###### Art. 13
+##### Art. 13
 
 Decadenza dalla nomina
 
 I vincitori del concorso a vice cancelliere e vice segretario in prova e i dattilografi che non assumono servizio senza giustificato motivo entro il termine stabilito dal primo comma del precedente articolo decadono dalla nomina.
 
-## TITOLO II - Concorso, periodo di prova e svolgimento delle carriere del personale
+## TITOLO II - Concorso, periodo di prova e svolgimento delle carriere del personale di cancelleria e segreteria
 
-### di cancelleria e segreteria
+### CAPO I - CONCORSI
 
-#### CAPO I - CONCORSI
-
-###### Art. 14
+##### Art. 14
 
 Concorsi di amministrazione La nomina a vice cancelliere e vice segretario in prova si consegue mediante pubblico concorso per esame.
 
@@ -196,7 +192,7 @@ Il decreto che bandisce il concorso deve contenere l'indicazione del termine ent
 
 Con lo stesso decreto o con altro successivo sono stabiliti i giorni in cui avranno luogo le prove scritte.
 
-###### Art. 15
+##### Art. 15
 
 Concorsi distrettuali
 
@@ -206,7 +202,7 @@ Nei casi in cui il Ministro si avvale della facolta', di cui al comma precedente
 
 I vincitori del concorso non possono essere trasferiti o applicati ad uffici giudiziari diversi da quelli dei distretti di Corte di appello per i quali il concorso fu indetto, ne' possono essere comandati presso altre Amministrazioni o Enti pubblici, ne collocati fuori ruolo se non abbiano prestato almeno tre anni di servizio effettivo dalla immissione in possesso.
 
-###### Art. 16
+##### Art. 16
 
 Concorsi - Riserva dei posti
 
@@ -218,7 +214,7 @@ Se, in relazione a tale limite, si impone una riduzione dei posti dal riservare 
 
 I titoli che danno luogo a riserva o preferenza nell'ammissione non sono influenti ai fini della progressione in carriera, salvo quanto disposto dall'art. 37.
 
-###### Art. 17
+##### Art. 17
 
 Requisiti per la nomina
 
@@ -246,7 +242,7 @@ I requisiti prescritti devono essere posseduti alla data di scadenza del termine
 
 L'Amministrazione ha facolta' di sottoporre a visita medica di controllo i vincitori del concorso.
 
-###### Art. 18
+##### Art. 18
 
 Domanda di ammissione al concorso
 
@@ -274,19 +270,19 @@ i) i titoli che danno diritto ad elevazione del limite massimo di eta' per l'amm
 
 La firma in calce alla domanda deve essere autenticata da un notaio o dal segretario comunale del luogo di residenza dell'aspirante. Per i dipendenti statali e' sufficiente il visto del capo dell'ufficio presso il quale prestano servizio, L'Amministrazione provvede di ufficio ad accertare il requisito della buona condotta, nonche' le cause di risoluzione dei precedenti rapporti di pubblico impiego.
 
-###### Art. 19
+##### Art. 19
 
 Esclusione dal concorso
 
 Il difetto dei requisiti prescritti importa la esclusione dal concorso. Essa e' disposta con decreto motivato di Ministro.
 
-###### Art. 20
+##### Art. 20
 
 Diario delle prove scritte
 
 Il diario delle prove scritte deve essere comunicato ai candidati ammessi al concorso non meno di quindici giorni prima dell'inizio di esse e pubblicato nel medesimo termine nella Gazzetta Ufficiale e nel Bollettino ufficiale del Ministero, di grazia e giustizia.
 
-###### Art. 21
+##### Art. 21
 
 Concorso per l'amministrazione in Carriera
 
@@ -324,7 +320,7 @@ La L. 7 maggio 1965, n. 430 ha disposto (con l'art. 8, comma 1) che "Le Commissi
 
 4\) da due funzionari con qualifica non inferiore a quella di cancelliere capo di tribunale e di segretario capo di Procura della Repubblica di prima classe".
 
-###### Art. 22
+##### Art. 22
 
 Prove scritte - Piu' sedi - Comitato di vigilanza
 
@@ -336,7 +332,7 @@ In caso di impedimento, il magistrato designato dal Ministro e' sostituito dal m
 
 Le funzioni di segretario del Comitato sono esercitate da un funzionario di cancelleria designato dal presidente della Corte.
 
-###### Art. 23
+##### Art. 23
 
 Svolgimento delle prove
 
@@ -386,13 +382,13 @@ In tal caso il Ministro dispone che alla Commissione esaminatrice siano aggregat
 
 Il concorrente non puo' essere ammesso a sostenere le prove facoltative se non ha conseguito la idoneita' in quelle obbligatorie. ((Alla somma dei punti riportati complessivamente nelle prove scritte e in quella orale nelle materie obbligatorie la Commissione dovra' aggiungere un punto o frazione di punto se il candidato supera la prova facoltativa di cui alla lettera a) del dodicesimo comma del presente articolo e da uno a tre punti se supera la prova facoltativa di cui alla lettera b))).
 
-###### Art. 24
+##### Art. 24
 
 Titoli di precedenza e di preferenza
 
 I concorrenti che abbiano superato la prova orale debbono far pervenire al Ministero, nel termine stabilito dal bando di concorso, documenti prescritti per dimostrare gli eventuali titoli di precedenza o di preferenza alla nomina.
 
-###### Art. 25
+##### Art. 25
 
 Graduatoria del concorso
 
@@ -404,7 +400,7 @@ La graduatoria dei vincitori e degli idonei e' pubblicata nel Bollettino ufficia
 
 Dalla data di pubblicazione dell'avviso decorre il termine per le impugnative.
 
-###### Art. 26
+##### Art. 26
 
 Conferimento di posti disponibili agli idonei
 
@@ -420,15 +416,15 @@ AGGIORNAMENTO (10)
 
 La L. 30 luglio 1973, n.476 ha disposto (con l'articolo unico) che "La facolta' prevista dall'articolo 26 della legge 23 ottobre 1960, n. 1196, si intende estesa fino ad esaurimento della graduatoria dei 244 candidati risultati idonei nel concorso per esami a cento posti di vice cancelliere e vice segretario in prova indetto con il decreto ministeriale 19 novembre 1968."
 
-## CAPO II - PERIODO DI PROVA
+### CAPO II - PERIODO DI PROVA
 
-###### Art. 27
+##### Art. 27
 
 Nomina in prova
 
 La nomina di prova decorre agli effetti economici dal giorno dell'assunzione del servizio.
 
-###### Art. 28
+##### Art. 28
 
 Periodo di prova
 
@@ -448,9 +444,9 @@ Qualora entro tre mesi dallo scadere del periodo di prova non intervenga un prov
 
 Sono esonerati dal periodo di prova soltanto i vincitori del concorso che provengono da un ruolo di corrispondente carriera, nella quale abbiano superato il servizio di prova e disimpegnato mansioni analoghe a quelle dei funzionari delle cancellerie e segreterie giudiziarie.
 
-## CAPO III - DISPOSIZIONI GENERALI SULLE PROMOZIONI
+### CAPO III - DISPOSIZIONI GENERALI SULLE PROMOZIONI
 
-###### Art. 29
+##### Art. 29
 
 Parere sulle promozioni
 
@@ -458,7 +454,7 @@ Le promozioni del personale delle cancellerie e segreterie giudiziarie sono conf
 
 Nel caso di promozione per scrutinio esse sono conferite su proposta della Commissione centrale di scrutinio, previo parere delle Commissioni di vigilanza, per i funzionari addetti agli uffici giudiziari, e, dei capi di ufficio, per quelli addetti al Ministero o ad uffici diversi dai giudiziari.
 
-###### Art. 30
+##### Art. 30
 
 Norme generali sullo scrutinio per merito comparativo
 
@@ -486,7 +482,7 @@ La graduatoria comprende un numero di funzioni corrispondente ai posti da coprir
 
 Ogni scrutinato ha diritto di ottenere, a proprie spese, dopo la registrazione della graduatoria, copia del provvedimento con cui sono stati determinati i criteri di valutazione, dei quaderni di scrutinio e della propria scheda personale.
 
-###### Art. 31
+##### Art. 31
 
 Computo dell'anzianita' ai fini dell'ammissione allo scrutinio
 
@@ -494,13 +490,13 @@ Computo dell'anzianita' ai fini dell'ammissione allo scrutinio
 
 Per le promozioni alla qualifica di cancelliere e segretario di seconda classe e a quella di cancelliere e segretario di prima classe, i funzionari sono esaminati in separati scrutini, con riferimento ai rispettivi concorsi di ingresso in carriera)).
 
-###### Art. 32
+##### Art. 32
 
 Requisito generale di ammissione
 
 Fermo restando quanto previsto dagli articoli 119, 120 e 121 della presente legge, non sono ammessi ai concorsi agli esami e agli scrutini di promozione, i funzionari che nell'ultimo triennio abbiano riportato, anche una sola volta, un giudizio complessivo inferiore a "buono".
 
-###### Art. 33
+##### Art. 33
 
 Chiamata agli scrutini agli esami Gli scrutini per il conferimento delle promozioni per merito comparativo e gli esami di promozione sono indetti con decreto del Ministro per la grazia e giustizia non oltre il 15 gennaio di ogni anno.
 
@@ -508,13 +504,13 @@ I funzionari che intendono partecipare agli scrutini debbono trasmettere, per vi
 
 Nel caso di promozione da conferirsi per esami almeno le prove scritte devono essere espletate entro il 30 giugno dello stesso anno.
 
-###### Art. 34
+##### Art. 34
 
 Posti da conferire
 
 Le promozioni sono conferite per il numero dei posti vacanti nell'anno in corso alla data del bando nella qualifica cui si deve accedere e in quelle ad essa superiori.
 
-###### Art. 35
+##### Art. 35
 
 Decorrenza delle promozioni
 
@@ -522,7 +518,7 @@ Decorrenza delle promozioni
 
 Le promozioni alle altre qualifiche sono conferite, agli effetti giuridici ed economici, dal 1 gennaio dell'anno successivo alla data del decreto ministeriale che bandisce lo scrutinio o l'esame)).
 
-###### Art. 36
+##### Art. 36
 
 Valutazione di anzianita'
 
@@ -530,7 +526,7 @@ Ai fini del computo dell'anzianita' di servizio richiesta per l'ammissione agli 
 
 In ogni caso la promozione a cancelliere o segretario di seconda classe non puo' essere conseguita se non sia stato prestato servizio effettivo, compreso l'eventuale periodo di prova, per almeno due anni.
 
-###### Art. 37
+##### Art. 37
 
 Valutazione del servizio militare
 
@@ -542,7 +538,7 @@ In ogni caso, ai fini della partecipazione agli esami di cui al primo comma, e' 
 
 Le disposizioni dei precedenti commi si applicano anche ai funzionari ai quali sono stati estesi i benefici spettanti ai combattenti per la progressione nella carriera.
 
-###### Art. 38
+##### Art. 38
 
 Indennita' di missione per partecipazione ad esame di promozione
 
@@ -550,9 +546,9 @@ Ai funzionari che debbano trasferirsi fuori della sede di impiegato per partecip
 
 Perdono il diritto al rimborso ed alla indennita' coloro che non si siano presentati, senza giustificato motivo, ad almeno una delle prove o siano stati espulsi da qualcuna di esse.
 
-## CAPO IV - CARRIERA DI CONCETTO
+### CAPO IV - CARRIERA DI CONCETTO
 
-###### Art. 39
+##### Art. 39
 
 Promozione a cancelliere o segretario di seconda classe
 
@@ -562,15 +558,15 @@ Nelle ipotesi previste dagli articoli 32, 119, 120 e 121 della presente legge i 
 
 I funzionari ritenuti non meritevoli della promozione sono sottoposti nuovamente a scrutinio dopo almeno un anno dal precedente giudizio. In tal caso la promozione e' conferita con decorrenza non posteriore al 31 dicembre dell'anno in cui hanno ottenuto il giudizio
 
-###### Art. 40
+##### Art. 40
 
 Promozione a cancelliere di prima classe
 
 La promozione a cancelliere o a segretario di prima classe si consegue mediante scrutinio per merito comparativo, al quale sono ammessi i funzionari che abbiano compiuto tre anni di effettivo servizio nella qualifica inferiore.
 
-## CAPO V - CARRIERA DIRETTIVA
+### CAPO V - CARRIERA DIRETTIVA
 
-###### Art. 41
+##### Art. 41
 
 Accesso alla carriera direttiva
 
@@ -584,7 +580,7 @@ Allo stesso concorso sono ammessi anche i funzionari che non siano in possesso d
 
 L'ammissione al concorso e subordinata al giudizio favorevole della Commissione di vigilanza per i funzionari addetti ad uffici giudiziari, o del Consiglio di amministrazione per quelli addetti al Ministero o ad uffici diversi dai giudiziari. Nel deliberare sull'ammissione si deve tener conto dei rapporti dei superiori gerarchici, dei precedenti di carriera, della qualita' del servizio prestato, delle attitudini ad esercitare funzioni direttive e di quanto altro possa dare prova della capacita', della operosita' e della condotta del funzionario, nonche' del risultato conseguito nei corsi di formazione ed integrazione.
 
-###### Art. 42
+##### Art. 42
 
 Concorso per l'accesso alla carriera direttiva
 
@@ -642,7 +638,7 @@ La L. 7 maggio 1965, n. 430 ha disposto (con l'art. 8, comma 1) che "Le Commissi
 
 4\) da due funzionari con qualifica non inferiore a quella di cancelliere capo di tribunale e di segretario capo di Procura della Repubblica di prima classe".
 
-###### Art. 43
+##### Art. 43
 
 ((ARTICOLO ABROGATO DALLA L. 16 LUGLIO 1962, N. 922)) ((1))
 
@@ -652,35 +648,33 @@ AGGIORNAMENTO (1)
 
 La L. 16 luglio 1962, n. 922 ha disposto (con l'art. 12) che " Nella legge 23 ottobre 1960, n. 1196, alle parole "cancelliere capo di Tribunale o segretario capo di Procura" sono sostituite le seguenti: "cancelliere capo di Tribunale e segretario capo di Procura di seconda classe"".
 
-###### Art. 44
+##### Art. 44
 
 ((ARTICOLO ABROGATO DALLA L. 16 LUGLIO 1962, N. 922))
 
-###### Art. 45
+##### Art. 45
 
 ((ARTICOLO ABROGATO DALLA L. 16 LUGLIO 1962, N. 922))
 
-###### Art. 46
+##### Art. 46
 
 ((ARTICOLO ABROGATO DALLA L. 16 LUGLIO 1962, N. 922))
 
-###### Art. 47
+##### Art. 47
 
 ((ARTICOLO ABROGATO DALLA L. 16 LUGLIO 1962, N. 922))
 
-###### Art. 48
+##### Art. 48
 
 Concorsi e scrutini, decreti e graduatorie - Pubblicazione e termine per le impugnative I decreti del Ministro per la grazia e giustizia che bandiscono concorsi per esami e indicono scrutini, nonche' quelli che stabiliscono il diario delle prove scritte e quelli di approvazione delle graduatorie sono pubblicati sul Bollettino ufficiale del Ministero di grazia e giustizia.
 
 Per le comunicazioni e la decorrenza dei termini delle eventuali impugnative si applicano le disposizioni che regolano la carriera degli impiegati civili dello Stato.
 
-## TITOLO III - Concorso, periodo di prova e svolgimento della carriera del personale
+## TITOLO III - Concorso, periodo di prova e svolgimento della carriera del personale di dattilografia
 
-### di dattilografia
+### CAPO I - CONCORSI E PERIODO DI PROVA
 
-#### CAPO I - CONCORSI E PERIODO DI PROVA
-
-###### Art. 49
+##### Art. 49
 
 Concorsi di ammissione
 
@@ -688,7 +682,7 @@ Il personale di dattilografia e' assunto mediante pubblico concorso per esami, a
 
 L'esame di concorso ha luogo in Roma.
 
-###### Art. 50
+##### Art. 50
 
 Commissione giuridicatrice
 
@@ -722,7 +716,7 @@ AGGIORNAMENTO (4)
 
 La L. 7 maggio 1965, n. 430 ha disposto (con l'art. 9) che "All'art. 50 della legge 23 ottobre 1960, n. 1196, primo comma, lettera c) e al secondo comma, dopo le parole: "cancelliere capo di tribunale e segretario capo di procura" vanno aggiunte le parole: "di prima classe"".
 
-###### Art. 51
+##### Art. 51
 
 Svolgimento delle prove
 
@@ -750,7 +744,7 @@ Ai candidati che conseguono l'ammissione alla prova pratica deve esserne data co
 
 L'avviso per la presentazione alla prova pratica deve essere dato ai singoli candidati almeno venti giorni prima di quello in cui essi devono sostenerla.
 
-###### Art. 52
+##### Art. 52
 
 Punteggio
 
@@ -762,9 +756,9 @@ Sono dichiarati idonei i candidati che abbiano riportato una votazione di almeno
 
 I concorrenti idonei sono collocati in graduatoria secondo il totale dei voti riportati da ciascuno osservate le disposizioni generali in vigore sulle preferenze a parita' di merito.
 
-## CAPO II - SVOLGIMENTO DELLA CARRIERA
+### CAPO II - SVOLGIMENTO DELLA CARRIERA
 
-###### Art. 53
+##### Art. 53
 
 Prove scritte - Piu' sedi - Commissioni di vigilanza
 
@@ -776,13 +770,13 @@ In caso d'impedimento il magistrato designato dal Ministro e' sostituito dal mag
 
 Le funzioni di segreteria del Comitato sono esercitate da un funzionario di cancelleria designato dal presidente della Corte.
 
-###### Art. 54
+##### Art. 54
 
 Rinvio
 
 Valgono per il personale di dattilografia, in quanto applicabili, le disposizioni dettate per il personale delle cancellerie e segreterie negli articoli 14, 15, 16, 18, 19, 20, 24, 25, 26, 27 e 28 del presente ordinamento.
 
-###### Art. 55
+##### Art. 55
 
 Inquadramento
 
@@ -796,7 +790,7 @@ Nei decreti collettivi, i dattilografi sono iscritti nell'ordine in cui essi era
 
 Ai fini dell'applicazione delle disposizioni concernenti il trattamento economico, anche accessorio, dei dipendenti dello Stato, ai dattilografi sono attribuiti, in relazione allo stipendio di cui sono provvisti secondo la tabella indicata nel primo comma ed esclusivamente agli effetti particolari previsti dalle disposizioni medesime, i coefficienti stabiliti in detta tabella.
 
-###### Art. 56
+##### Art. 56
 
 Attribuzione degli stipendi successivi
 
@@ -820,23 +814,21 @@ La L. 23 dicembre 1967, n. 1245 ha disposto (con l'art. 3, comma 1) che "La pres
 
 ## TITOLO IV. - Organi collegiali
 
-### CAPO I
+### CAPO I - ORGANI CENTRALI
 
-#### ORGANI CENTRALI
-
-###### Art. 57
+##### Art. 57
 
 Attribuzioni del Consiglio di amministrazione
 
 Il Consiglio di amministrazione costituito presso il Ministero di grazia e giustizia esercita nei confronti dei funzionari nelle cancellerie e segreterie giudiziarie e del personale di dattilografia le attribuzioni ad esso demandate dal presente ordinamento.
 
-###### Art. 58
+##### Art. 58
 
 Commissione di disciplina
 
 La Commissione di disciplina costituita presso il Ministero di grazia e giustizia esercita nei confronti dei funzionari delle cancellerie e segreterie giudiziarie e del personale di dattilografia le attribuzioni ad essa, demandate dal presente ordinamento.
 
-###### Art. 59
+##### Art. 59
 
 Ricusazione del giudice disciplinare
 
@@ -862,7 +854,7 @@ Il presidente e il membro della Commissione ricusabili a norma del primo comma h
 
 I vizi della composizione della Commissione di disciplina possono essere denunciati con il ricorso contro il provvedimento definitivo che infligge la sanzione disciplinare, anche se il giudicabile non li abbia rilevati in precedenza.
 
-###### Art. 60
+##### Art. 60
 
 Commissione centrale di scrutinio
 
@@ -896,9 +888,9 @@ AGGIORNAMENTO (8)
 
 La L. 31 marzo 1969, n. 150 ha disposto (con l'art. 2, comma 1) che "La presente legge cessera' di avere efficacia al termine del terzo anno dal giorno della sua entrata in vigore".
 
-## CAPO II - ORGANI PERIFERICI
+### CAPO II - ORGANI PERIFERICI
 
-###### Art. 61
+##### Art. 61
 
 Commissione di vigilanza
 
@@ -920,7 +912,7 @@ Il presidente della Corte e il procuratore generale, in caso di assenza o impedi
 
 Alle Commissioni di vigilanza distrettuali si applicano le disposizioni di cui al quarto e quinto comma del presente articolo.
 
-###### Art. 62
+##### Art. 62
 
 Commissioni di disciplina
 
@@ -942,11 +934,9 @@ Per la ricusazione dei componenti delle Commissioni di disciplina e l'astensione
 
 ## TITOLO V - Rapporti informativi e organi competenti a compilarli - Gravami
 
-### CAPO I
+### CAPO I - RAPPORTI INFORMATIVI - ORGANI COMPETENTI
 
-#### RAPPORTI INFORMATIVI - ORGANI COMPETENTI
-
-###### Art. 63
+##### Art. 63
 
 Rapporto informativo e giurico complessivo
 
@@ -956,7 +946,7 @@ Il giudizio complessivo deve essere motivato.
 
 A colui al quale, nell'anno cui si riferisce il rapporto informativo, sia stata inflitta una sanzione disciplinare piu' grave della censura non puo' essere attribuito un giudizio complessivo superiore a "buono".
 
-###### Art. 64
+##### Art. 64
 
 Rapporto informativo per i funzionari direttivi
 
@@ -964,13 +954,13 @@ Per il funzionario della carriera direttiva il rapporto informativo deve essere 
 
 Nel rapporto stesso si deve, altresi', tener conto delle risultanze delle relazioni ispettive - purche' le manchevolezze e irregolarita' rilevate siano state contestate all'interessato - dell'eventuale attivita' scientifica, nonche' di ogni altro elemento che possa concorrere a meglio delineare la personalita' del funzionario.
 
-###### Art. 65
+##### Art. 65
 
 Rapporto informativo per i funzionari di concetto
 
 Per il rapporto informativo del funzionario della carriera di concetto si tiene conto degli elementi di giudizio previsti nell'articolo precedente, in relazione alle diverse funzioni svolte e relative responsabilita'.
 
-###### Art. 66
+##### Art. 66
 
 Rapporto informativo per il personale di dattilografia
 
@@ -978,7 +968,7 @@ Per il dattilografo il rapporto informativo deve essere redatto in base ai segue
 
 comportamento in servizio e fuori.
 
-###### Art. 67
+##### Art. 67
 
 Organi competenti alla compilazione e del rapporto informativo e all'attribuzione del giudizio complessivo
 
@@ -996,7 +986,7 @@ d) per i funzionari e i dattilografi addetti al Ministero di grazia, e giustizia
 
 e) per i funzionari destinati al servizio ispettivo, dall'ispettore generale, che esprime anche il giudizio complessivo.
 
-###### Art. 68
+##### Art. 68
 
 Impossibilita' di compilazione del rapporto informativo
 
@@ -1004,9 +994,9 @@ Qualora, per uno o piu' anni non sia stata possibile la compilazione del rapport
 
 Il rapporto e' compilato valutando gli elementi in possesso dell'Amministrazione.
 
-## CAPO II - GRAVAMI
+### CAPO II - GRAVAMI
 
-###### Art. 69
+##### Art. 69
 
 Ricorso gerarchico
 
@@ -1016,9 +1006,9 @@ Qualora ne faccia richiesta, l'interessato ha diritto di prendere visione del ra
 
 Entro trenta giorni dalla comunicazione l'interessato puo' ricorrere alla Commissione di vigilanza nei casi di cui alle lettere a), b) e c), dell'art. 67 e al Consiglio di amministrazione negli altri casi, con facolta' di inoltrare il ricorso impiego chiuso. La Commissione o il Consiglio di amministrazione, sentito l'organo che ha espresso il giudizio complessivo e l'ufficio del personale, formula il giudizio, che deve essere comunicato all'interessato. La deliberazione costituisce provvedimento definitivo.
 
-## CAPO III - DOCUMENTI - RUOLO DI ANZIANITA'
+### CAPO III - DOCUMENTI - RUOLO DI ANZIANITA'
 
-###### Art. 70
+##### Art. 70
 
 Fascicolo personale, stato matricolare ruoli di anzianita'
 
@@ -1040,11 +1030,9 @@ Nel termine di trenta giorni dalla, ricezione da parte dei singoli uffici dei Bo
 
 ## TITOLO VI - Assegnazioni delle sedi - Applicazioni - Comandi
 
-### CAPO I
+### CAPO I - ASSEGNAZIONI DELLE SEDI
 
-#### ASSEGNAZIONI DELLE SEDI
-
-###### Art. 71
+##### Art. 71
 
 Norme per l'assegnazione delle sedi
 
@@ -1064,7 +1052,7 @@ All'impiegato trasferito a domanda non compete alcuna indennita' o assegno.
 
 La domanda di trasferimento conserva validita' per la durata di un biennio.
 
-###### Art. 72
+##### Art. 72
 
 Assegnazioni delle sedi
 
@@ -1074,15 +1062,15 @@ I trasferimenti di sede possono essere disposti a domanda dell'interessato o per
 
 Sui ricorsi proposti in materia di trasferimento decide il Consiglio di amministrazione. Il ricorso deve essere proposto, a pena di inammissibilita', entro trenta giorni dalla data del Bollettino ufficiale che pubblica la registrazione del decreto con il quale la sede e' assegnata. La deliberazione costituisce provvedimento definitivo.
 
-## CAPO II - APPLICAZIONI
+### CAPO II - APPLICAZIONI
 
-###### Art. 73
+##### Art. 73
 
 Applicazione
 
 Non sono consentite applicazioni di funzionari di cancelleria e segreteria e di dattilografi da uno ad altro ufficio giudiziario, salvo quanto disposto negli articoli seguenti.
 
-###### Art. 74
+##### Art. 74
 
 Applicazione temporanea - Indennita'
 
@@ -1092,7 +1080,7 @@ In mancanza di cancelliere o segretario il capo dell'ufficio dispone che ne assu
 
 Al notaio, al segretario o al vice segretario comunale, chiamati a sostituire i funzionari di cancelleria e segreteria, per ogni giornata di effettivo servizio e corrisposto un gettone di presenza di importo pari a quello stabilito per i gettoni spettanti ai segretari delle Commissioni operanti nelle Amministrazioni dello Stato. Alla liquidazione si provvede di ufficio.
 
-###### Art. 75
+##### Art. 75
 
 Applicazione continuata
 
@@ -1106,9 +1094,9 @@ Il provvedimento e' immediatamente comunicato al Ministro, che ha la facolta' di
 
 Per eccezionali ed inderogabili esigenze di servizio il Ministro puo' applicare agli uffici giudiziari, anche in soprannumero, per non piu' di tre mesi, funzionari della carriera direttiva o di concetto.
 
-## CAPO III - COMANDI
+### CAPO III - COMANDI
 
-###### Art. 76
+##### Art. 76
 
 Comandi
 
@@ -1124,11 +1112,9 @@ Il periodo di tempo trascorso nella posizione di comando e gli stipendi che l'Am
 
 ## TITOLO VII - Incompatibilita' e cumulo degli impieghi
 
-### CAPO I
+### CAPO I - INCOMPATIBILITA'
 
-#### INCOMPATIBILITA'
-
-###### Art. 77
+##### Art. 77
 
 Incompatibilita'
 
@@ -1138,13 +1124,13 @@ Tale divieto non si applica nei casi di societa' cooperative fra impiegati dello
 
 I funzionari delle carriere direttiva e di concetto non possono esercitare le loro funzioni in uffici giudiziari davanti ai quali loro parenti od affini fino al secondo grado esercitano abitualmente le professioni di avvocato, di procuratore o di patrocinatore legale.
 
-###### Art. 78
+##### Art. 78
 
 Limiti dell'incompatibilita'
 
 I funzionari della carriera direttiva o di concetto e i dattilografi non possono assumere le funzioni di perito, di consulente tecnico o di arbitro senza l'autorizzazione del Ministro per la grazia e giustizia.
 
-###### Art. 79
+##### Art. 79
 
 Provvedimenti per i casi di incompatibilita'
 
@@ -1156,7 +1142,7 @@ Decorsi quindici giorni dalla diffida senza che la incompatibilita' sia cessata,
 
 La decadenza e' dichiarata con decreto del Ministro, sentito il Consiglio di amministrazione.
 
-###### Art. 80
+##### Art. 80
 
 Denuncia dei casi di incompatibilita'
 
@@ -1164,9 +1150,9 @@ Il capo dell'ufficio deve denunciare al Ministro i casi di incompatibilita' dei 
 
 Eguale obbligo ha il capo della cancelleria o segreteria nei riguardi del capo dell'ufficio giudiziario, per il personale dipendente.
 
-## CAPO II - CUMULO DEGLI IMPIEGHI
+### CAPO II - CUMULO DEGLI IMPIEGHI
 
-###### Art. 81
+##### Art. 81
 
 Divieto di cumulo di impieghi pubblici
 
@@ -1180,11 +1166,9 @@ L'assunzione di altro impiego, nei casi in cui la legge non consente il cumulo, 
 
 ## TITOLO VIII - Congedi - Aspettative - Disponibilita'
 
-### CAPO I
+### CAPO I - CONGEDI
 
-#### CONGEDI
-
-###### Art. 82
+##### Art. 82
 
 Congedo ordinario
 
@@ -1194,7 +1178,7 @@ Il diritto al congedo matura dopo un anno di effettivo servizio, e non e' rinunc
 
 Il godimento del congedo entro l'anno puo' essere rinviato o interrotto per eccezionali esigenze di servizio; in tal caso l'impiegato ha diritto al cumulo dei congedi entro l'anno successivo.
 
-###### Art. 83
+##### Art. 83
 
 Congedo straordinario
 
@@ -1204,7 +1188,7 @@ Il congedo straordinario compete di diritto quando l'impiegato debba contrarre m
 
 Il congedo straordinario e' concesso dal Ministro, che ne stabilisce la durata, in base a rapporto del capo dell'ufficio.
 
-###### Art. 84
+##### Art. 84
 
 Congedo straordinario per richiamo alle armi
 
@@ -1212,13 +1196,13 @@ L'impiegato richiamato alle armi in tempo di pace per istruzioni o per altre esi
 
 Per i richiami alle armi in tempo di guerra si osservano le disposizioni delle leggi speciali.
 
-###### Art. 85
+##### Art. 85
 
 Cumulo di congedi ordinari e straordinari
 
 L'impiegato che ha usufruito di congedi straordinari conserva il diritto a quello ordinario.
 
-###### Art. 86
+##### Art. 86
 
 Trattamento economico durante il congedo
 
@@ -1228,7 +1212,7 @@ All'impiegato in congedo straordinario per richiamo alle armi sono corrisposti l
 
 I periodi di congedo straordinario sono utili a tutti gli altri effetti.
 
-###### Art. 87
+##### Art. 87
 
 Congedo straordinario per gravidanza e puerperio
 
@@ -1238,9 +1222,9 @@ Per i periodi anteriore e successivo al parto, in cui, ai sensi delle norme rich
 
 Alle ipotesi previste nel presente articolo si applica la disposizione di cui all'ultimo comma dell'articolo precedente.
 
-## CAPO II - ASPETTATIVE
+### CAPO II - ASPETTATIVE
 
-###### Art. 88
+##### Art. 88
 
 Cause di aspettativa
 
@@ -1250,7 +1234,7 @@ Il collocamento in aspettativa e' disposto, su domanda dell'interessato, dal Min
 
 Non puo' in alcun caso disporsi dei posto dell'impiegato collocato in aspettativa.
 
-###### Art. 89
+##### Art. 89
 
 Aspettativa per servizio militare
 
@@ -1262,7 +1246,7 @@ Il tempo trascorso in aspettativa e' computato per intero ai fini della progress
 
 Nel caso di cui al primo comma l'impiegato puo' essere trasferito ad altra sede.
 
-###### Art. 90
+##### Art. 90
 
 Aspettativa per infermita'
 
@@ -1282,7 +1266,7 @@ Qualora l'infermita', che e' motivo dell'aspettativa, sia riconosciuta dipendent
 
 Avverso le deliberazioni del Collegio medico e delle Commissioni mediche ospedaliere, competenti in materia di pensioni civili e militari, adottate nei procedimenti di accertamento della dipendenza dell'infermita' da causa di servizio e di determinazione dell'equo indennizzo, previsti dal presente articolo, gli impiegati possono esperire le impugnative stabilite dai decreti sopracitati.
 
-###### Art. 91
+##### Art. 91
 
 Aspettativa per motivi di famiglia
 
@@ -1300,7 +1284,7 @@ Il tempo trascorso in aspettativa non e' computato ai fini della progressione in
 
 L'impiegato che cessa da tale posizione prende nel ruolo il posto di anzianita' che gli spetta, dedotto il tempo passato in aspettativa.
 
-###### Art. 92
+##### Art. 92
 
 Cumulo di aspettative
 
@@ -1310,7 +1294,7 @@ La durata complessiva dell'aspettativa per motivi di famiglia e per infermita' n
 
 Per motivi di particolare gravita' il Consiglio di amministrazione puo' consentire all'impiegato, che abbia raggiunto i limiti previsti dai commi precedenti e ne faccia richiesta, in ulteriore periodo di aspettativa senza assegni di durata non superiore a sei mesi.
 
-###### Art. 93
+##### Art. 93
 
 Dispensa dal servizio per infermita'
 
@@ -1318,9 +1302,9 @@ Scaduti i periodi massimi previsti dagli articoli 90 e 92, l'impiegato che risul
 
 Si applicano al procedimento di dispensa le norme di cui agli articoli 155 e 156.
 
-## CAPO III - DISPONIBILITA'
+### CAPO III - DISPONIBILITA'
 
-###### Art. 94
+##### Art. 94
 
 Motivi del collocamento in disponibilita'
 
@@ -1330,7 +1314,7 @@ Nei casi in cui occorre procedere a collocamenti in disponibilita', il Consiglio
 
 Se il collocamento in disponibilita' e' deliberato nei confronti di impiegato che si trovi in aspettativa per infermita' o per motivi di famiglia, l'aspettativa cessa di diritto alla data del collocamento in disponibilita'.
 
-###### Art. 95
+##### Art. 95
 
 Trattamento economico
 
@@ -1338,7 +1322,7 @@ L'impiegato in disponibilita' e' esonerato dal prestare servizio.
 
 Ad esso competono lo stipendio e gli assegni per carichi di famiglia, con esclusione delle indennita' o compensi per servizi e funzioni di carattere speciale e per prestazioni di lavoro straordinario.
 
-###### Art. 96
+##### Art. 96
 
 Trasferimento ad altra Amministrazione
 
@@ -1348,7 +1332,7 @@ Il trasferimento puo' essere disposto soltanto in carriere e con qualifiche corr
 
 Il trasferimento non e' consentito nei ruoli nei quali si abbiano gia' impiegati in disponibilita' che possano essere richiamati in servizio ai sensi dell'articolo successivo. In ogni caso l'impiegato conserva l'anzianita' e il trattamento economico di cui godeva, eventualmente, a titolo di assegno personale; nel nuovo ruolo e' collocato dopo gli impiegati della sua qualifica appartenenti ad esso.
 
-###### Art. 97
+##### Art. 97
 
 Richiamo in servizio
 
@@ -1356,7 +1340,7 @@ L'impiegato in disponibilita' e' richiamato in servizio, sentito il Consiglio di
 
 L'impiegato riassunto in servizio prende posto nel ruolo in cui e' richiamato con l'anzianita' che aveva alla data del collocamento in disponibilita', e con lo stipendio inerente.
 
-###### Art. 98
+##### Art. 98
 
 Servizio temporaneo presso altre Amministrazioni
 
@@ -1366,7 +1350,7 @@ In questo caso esso percepisce gli assegni di attivita' inerenti alla sua qualif
 
 Ove, per il servizio temporaneo, l'impiegato sia destinato a sede diversa da quella cui era assegnato, gli compete il trattamento di missione secondo le leggi vigenti.
 
-###### Art. 99
+##### Art. 99
 
 Dispensa dal servizio
 
@@ -1380,37 +1364,35 @@ La destinazione a servizio temporaneo prevista dall'art. 98 sospende il decorso 
 
 ## TITOLO IX - Disciplina
 
-### CAPO I
+### CAPO I - VIGILANZA - DIREZIONE E ORGANIZZAZIONE DEI SERVIZI
 
-#### VIGILANZA - DIREZIONE - E ORGANIZZAZIONE DEI SERVIZI
-
-###### Art. 100
+##### Art. 100
 
 Alta vigilanza del Ministro
 
 Il Ministro esercita l'alta vigilanza su tutto il personale delle cancellerie e delle segreterie giudiziarie nonche' sui dattilografi.
 
-###### Art. 101
+##### Art. 101
 
 Sorveglianza dei capi degli uffici giudiziari
 
 I capi degli uffici giudiziari esercitano la sorveglianza sul personale del proprio ufficio e degli uffici dipendenti.
 
-###### Art. 102
+##### Art. 102
 
 Direzione dei servizi
 
 I capi delle cancellerie e delle segreterie giudiziarie hanno la direzione dei rispettivi uffici, provvedono ad assicurare il normale funzionamento dei servizi e ne rispondono al capo dell'ufficio giudiziario, dal quale sono sentiti in ordine a qualsiasi provvedimento che abbia attinenza con i servizi di cancelleria e segreteria.
 
-###### Art. 103
+##### Art. 103
 
 Organizzazione dei servizi
 
 I capi delle cancellerie e delle segreterie giudiziarie curano, sotto la sorveglianza dei rispettivi capi degli uffici giudiziari, l'organizzazione degli uffici di cancelleria e segreteria dipendenti, ai fini del regolare funzionamento dei servizi.
 
-## CAPO II - SANZIONI DISCIPLINARI
+### CAPO II - SANZIONI DISCIPLINARI
 
-###### Art. 104
+##### Art. 104
 
 Sanzioni disciplinari
 
@@ -1424,13 +1406,13 @@ Il funzionario delle carriere direttiva e di concetto e il dattilografo che viol
 
 4\) la destituzione.
 
-###### Art. 105
+##### Art. 105
 
 Censura
 
 La censura e' una dichiarazione di biasimo scritta e motivata ed e' inflitta per lievi trasgressioni.
 
-###### Art. 106
+##### Art. 106
 
 Riduzione dello stipendio
 
@@ -1452,7 +1434,7 @@ e) per comportamento non conforme al decoro delle funzioni;
 
 f) per violazione del segreto di ufficio.
 
-###### Art. 107
+##### Art. 107
 
 Sospensione della qualifica
 
@@ -1472,13 +1454,13 @@ e) per comportamento che produca interruzione a turbamento nella regolarita' o n
 
 f) per tolleranza di abusi commessi da impiegati dipendenti.
 
-###### Art. 108
+##### Art. 108
 
 Assegno alimentare
 
 All'impiegato sospeso e' concesso un assegno alimentare in misura non superiore alla meta dello stipendio, oltre gli assegni per carichi di famiglia.
 
-###### Art. 109
+##### Art. 109
 
 Effetti della sospensione dalla qualifica
 
@@ -1486,7 +1468,7 @@ L'impiegato al quale e' stata inflitta la sospensione puo' essere promosso solo 
 
 Il tempo durante il quale l'impiegato sia stato sospeso dalla qualifica con privazione dello stipendio deve essere dedotto dal computo della anzianita'.
 
-###### Art. 110
+##### Art. 110
 
 Destituzione
 
@@ -1508,7 +1490,7 @@ g) per gravi atti d'insubordinazione commessi pubblicamente, o per eccitamento a
 
 h) per istigazione agli atti di cui alla lettera e) dell'art. 107.
 
-###### Art. 111
+##### Art. 111
 
 Destituzione di diritto
 
@@ -1520,13 +1502,13 @@ b) per condanna, passata in giudicato, che importi la interdizione perpetua dai 
 
 Nei casi previsti dal presente e dal precedente articolo il trattamento di quiescenza e previdenza, e' regolato dalle disposizioni vigenti in materia.
 
-###### Art. 112
+##### Art. 112
 
 Recidiva
 
 All'impiegato che incorre in una infrazione disciplinare dopo essere stato punito per una infrazione della stessa specie, puo' essere inflitta la sanzione piu' grave dopo quella prevista per l'infrazione stessa.
 
-###### Art. 113
+##### Art. 113
 
 Riabilitazione
 
@@ -1534,7 +1516,7 @@ Trascorsi due anni dalla data dell'atto con cui fu inflitta la sanzione discipli
 
 Il provvedimento e' adottato con decreto del Ministro, sentita la competente Commissione di disciplina.
 
-###### Art. 114
+##### Art. 114
 
 Reintegrazione dell'impiegato assolto in sede di giudizio penale di revisione
 
@@ -1548,7 +1530,7 @@ All'impiegato assolto in seguito a giudizio di revisione spettano, per il period
 
 L'impiegato, gia' destituito ed assolto in sede di revisione, puo', entro sessanta giorni dalla riammissione in servizio, chiedere di essere collocato a riposo col trattamento di quiescenza e previdenza spettantegli.
 
-###### Art. 115
+##### Art. 115
 
 Reintegrazione dell'impiegato prosciolto in sede di revisione del procedimento disciplinare
 
@@ -1556,17 +1538,15 @@ Le disposizioni dell'articolo precedente si applicano all'impiegato destituito a
 
 Il comma precedente e' applicabile anche nei casi di annullamento del provvedimento disciplinare o di estinzione dei relativo procedimento.
 
-###### Art. 116
+##### Art. 116
 
 Premorienza dell'impiegato alla sentenza di assoluzione in sede di revisione
 
 Se l'impiegato decede prima della sentenza di assoluzione in sede di revisione del giudicato penale o prima del proscioglimento da ogni addebito in sede di revisione del procedimento disciplinare, la vedova ed i figli minorenni hanno diritto a tutti gli assegni non percepiti durante il periodo di sospensione o di destituzione, escluse le indennita' o compensi per servizi e funzioni di carattere speciale o per prestazioni di carattere straordinario, in relazione alla qualifica rivestita dall'impiegato al momento della sospensione o della destituzione, nonche' agli aumenti periodici di stipendio successivamente maturati fino alla data in cui l'impiegato stesso avrebbe raggiunto i limiti massimi di eta' e di servizio per la permanenza nell'impiego o fino a quella del decesso se anteriore.
 
-## CAPO III - SOSPENSIONE CAUTELARE
+### CAPO III - SOSPENSIONE CAUTELARE E SOSPENSIONE PER EFFETTO DI CONDANNA PENALE
 
-### E SOSPENSIONE PER EFFETTO DI CONDANNA PENALE
-
-###### Art. 117
+##### Art. 117
 
 Sospensione cautelare obbligatoria
 
@@ -1574,7 +1554,7 @@ L'impiegato nei confronti del quale sia stato emesso mandato od ordine di cattur
 
 Il capo dell'ufficio che ha notizia dell'emissione di un mandato o ordine di comparizione, o della convalida del fermo, nei confronti d'un impiegato da lui dipendente, deve riferirne immediatamente all'ufficio del personale del Ministero.
 
-###### Art. 118
+##### Art. 118
 
 Sospensione cautelare facoltativa
 
@@ -1586,7 +1566,7 @@ La sospensione disposta prima dell'inizio del procedimento disciplinare e' revoc
 
 All'impiegato sospeso ai sensi del precedente e del presente articolo si applicano le disposizioni dell'articolo 108.
 
-###### Art. 119
+##### Art. 119
 
 Esclusione dagli esami e dagli scrutini
 
@@ -1594,7 +1574,7 @@ L'impiegato sospeso ai sensi degli articoli 117 e 118 e' escluso dagli esami e d
 
 L'impiegato che sia stato deferito al giudizio della Commissione di disciplina, anche se non sia stata, disposta nei suoi confronti la sospensione cautelare, puo' con provvedimento del Ministro, sentito il parere del Consiglio di amministrazione se trattasi di impiegato addetto al Ministero o ad uffici diversi da quelli giudiziari, o della Commissione di vigilanza presso le Corti per gli impiegati addetti agli uffici giudiziari, essere escluso dall'esame e dallo scrutinio.
 
-###### Art. 120
+##### Art. 120
 
 Ammissione agli esami dell'impiegato prosciolto da addebiti disciplinari
 
@@ -1602,7 +1582,7 @@ L'impiegato escluso dall'esame, qualora, sia stato prosciolto dagli addebiti con
 
 L'impiegato ammesso all'esame di cui al precedente comma, qualora non abbia raggiunto una votazione tale da consentirgli di essere promosso nel primo esame, ma abbia conseguito una votazione superiore all'ultimo dei promossi di uno dei successivi esami, e' iscritto nella graduatoria nella quale puo' trovare utile collocazione ed e' promosso con la medesima anzianita' degli altri impiegati compresi nella graduatoria in cui e' collocato.
 
-###### Art. 121
+##### Art. 121
 
 Ammissione agli scrutini dell'impiegato prosciolto da addebiti disciplinari L'impiegato escluso dallo scrutinio quando sia stato prosciolto dagli addebiti dedotti nel procedimento disciplinare, o quando questo si sia concluso con l'irrogazione della censura, e' scrutinato per la promozione.
 
@@ -1612,7 +1592,7 @@ La promozione e' conferita, anche in soprannumero, salvo riassorbimento, con dec
 
 Se durante il periodo di esclusione si siano svolti piu' scrutini di promozione, ai quali l'impiegato avrebbe potuto essere sottoposto, la Commissione centrale di scrutinio deve valutare l'impiegato per ciascuno dei successivi scrutini, e stabilire in quale di questi avrebbe potuto essere, promosso. La data di decorrenza della promozione e' quella dello scrutinio per effetto del quale, a giudizio della Commissione centrale, poteva conferirsi la promozione.
 
-###### Art. 122
+##### Art. 122
 
 Computo della sospensione cautelare
 
@@ -1622,7 +1602,7 @@ Se la sospensione dalla qualifica e' inflitta per durata inferiore alla sospensi
 
 Sono dedotte, in ogni caso, le somme corrisposte a titolo di assegno alimentare.
 
-###### Art. 123
+##### Art. 123
 
 Revoca della sospensione
 
@@ -1636,7 +1616,7 @@ La sospensione cessa se la contestazione degli addebiti non ha luogo entro il de
 
 Qualora il procedimento disciplinare sia stato sospeso a seguito di denuncia all'autorita' giudiziaria, la scadenza del termine predetto estingue, altresi', il procedimento disciplinare che non puo' piu' essere rinnovato.
 
-###### Art. 124
+##### Art. 124
 
 Sospensione dalla qualifica a seguito di condanna penale
 
@@ -1644,19 +1624,17 @@ L'impiegato condannato a pena detentiva con sentenza, passata in giudicato, qual
 
 E' altresi', sospeso dalla qualifica l'impiegato sottoposto a misura di sicurezza detentiva fino a quando questa non sia eseguita, sospesa, revocata o trasformata.
 
-###### Art. 125
+##### Art. 125
 
 Revoca di diritto della sospensione
 
 Quando, a seguito del giudizio penale di revisione, l'impiegato, gia' condannato, sia stato assolto ai sensi dell'art. 566 del Codice di procedura penale, la sospensione inflitta ai sensi dell'articolo precedente e' revocata di diritto, e si applicano le disposizioni dei precedenti articoli 120, 121 e 123.
 
-## CAPO IV - PROCEDIMENTO DISCIPLINARE
+### CAPO IV - PROCEDIMENTO DISCIPLINARE
 
-### Sezione I
+#### Sezione I - Censura
 
-#### Censura
-
-###### Art. 126
+##### Art. 126
 
 Competenze
 
@@ -1666,7 +1644,7 @@ Per questi ultimi la censura, e' inflitta dal capo dell'ufficio giudiziario supe
 
 Per gli impiegati in servizio in uffici diversi da quelli giudiziari la censura e' inflitta dal direttore generale o dal capo servizio.
 
-###### Art. 127
+##### Art. 127
 
 Procedimento
 
@@ -1676,13 +1654,13 @@ La sanzione deve essere motivata ed e' applicata con apposito processo verbale d
 
 Copia del processo verbale e' immediatamente rimessa al capo del personale, insieme con le contestazioni e le giustificazioni.
 
-###### Art. 128
+##### Art. 128
 
 Ricorso al Ministro Contro il provvedimento con cui e' inflitta la censura e' ammesso il ricorso gerarchico al Ministro per la grazia e giustizia che provvede con decreto motivato.
 
-## Sezione II - Riduzione dello stipendio, sospensione dalla qualifica, destituzione
+#### Sezione II - Riduzione dello stipendio, sospensione dalla qualifica, destituzione
 
-###### Art. 129
+##### Art. 129
 
 Accertamenti
 
@@ -1692,7 +1670,7 @@ L'ufficio superiore del personale o il procuratore generale che riceve la comuni
 
 Il procedimento disciplinare puo' anche essere disposto dal Ministro.
 
-###### Art. 130
+##### Art. 130
 
 Formalita' per la contestazione
 
@@ -1704,7 +1682,7 @@ Qualora la consegna personale non sia possibile, la comunicazione delle contesta
 
 Se le comunicazioni relative al procedimento disciplinare non possono aver luogo nelle forme previste nei due commi precedenti, sono fatte mediante pubblicazione nell'albo dell'ufficio cui l'impiegato e' addetto.
 
-###### Art. 131
+##### Art. 131
 
 Giustificazioni dell'impiegato
 
@@ -1716,7 +1694,7 @@ Il termine per la presentazione delle giustificazioni puo' essere prorogato per 
 
 E' in facolta' dell'impiegato di rinunciare al termine, purche' lo dichiari espressamente per iscritto.
 
-###### Art. 132
+##### Art. 132
 
 Archiviazione degli atti
 
@@ -1724,7 +1702,7 @@ Il capo del personale o il procuratore generale competente, quando in base alle 
 
 Qualora il capo del personale o il procuratore generale ritenga che l'infrazione sia punibile con la censura, trasmette gli atti al capo dell'ufficio competente affinche' provveda alla irrogazione della punizione.
 
-###### Art. 133
+##### Art. 133
 
 Procedimento a carico di impiegati addetti al Ministero o ad uffici diversi da quelli giudiziari
 
@@ -1734,7 +1712,7 @@ Se, invece, ritenga opportune ulteriori indagini, nomina, entro il termine indic
 
 Le indagini di cui ai precedenti commi non possono essere affidate a magistrati e a funzionari addetti al Gabinetto del Ministro e alle Segreterie particolari.
 
-###### Art. 134
+##### Art. 134
 
 Procedimento a carico di impiegati addetti ad uffici giudiziari
 
@@ -1746,7 +1724,7 @@ Per le indagini di cui all'art. 129 e per quelle di cui al precedente comma il p
 
 Qualora la natura delle indagini lo richieda, il procuratore generale e il procuratore della Repubblica possono farsi assistere da un funzionario di segreteria con qualifica non inferiore a quella dell'incolpato.
 
-###### Art. 135
+##### Art. 135
 
 Magistrato istruttore
 
@@ -1766,7 +1744,7 @@ Il Ministro, il capo del personale e i procuratori generali, sentito il magistra
 
 Il provvedimento che respinge l'istanza di ricusazione puo' essere impugnato soltanto insieme col provvedimento che infligge la punizione disciplinare. La mancata proposizione della ricusazione non preclude la facolta' di far valere, in tale sede, i vizi del provvedimento derivanti dall'incompatibilita' del magistrato istruttore o del funzionario assistente.
 
-###### Art. 136
+##### Art. 136
 
 Facolta' dell'istruttore
 
@@ -1774,7 +1752,7 @@ Il magistrato istruttore, nel corso delle indagini, puo' sentire senza giurament
 
 Per l'istruzione si osservano, in quanto compatibili, le norme relative alla istruzione dei procedimenti penali.
 
-###### Art. 137
+##### Art. 137
 
 Termine per l'espletamento dell'inchiesta
 
@@ -1788,7 +1766,7 @@ Il provvedimento di sostituzione del magistrato istruttore puo' essere impugnato
 
 Nel caso di cui all'articolo 134 se l'inchiesta disciplinare non e' conclusa entro novanta giorni dalla contestazione degli addebiti il procuratore generale rispettivamente presso la Corte suprema di cassazione o la Corte di appello ne informa il Ministro, il quale puo' concedere la proroga provveduta dal primo comma.
 
-###### Art. 138
+##### Art. 138
 
 Atti preliminari al giudizio disciplinare
 
@@ -1806,7 +1784,7 @@ Non possono partecipare, alla deliberazione, a pena di nullita', i membri della 
 
 Il divieto di cui al comma precedente non si applica al primo presidente della Corte suprema di cassazione ed ai presidenti di Corte di appello.
 
-###### Art. 139
+##### Art. 139
 
 Svolgimento del procedimento orale
 
@@ -1828,7 +1806,7 @@ La discussione ha luogo a porte chiuse.
 
 Si osservano, in quanto compatibili con la natura del procedimento e con le disposizioni del presente ordinamento, le norme sui dibattimenti penali.
 
-###### Art. 140
+##### Art. 140
 
 Poteri della Commissione di disciplina
 
@@ -1838,7 +1816,7 @@ Se il procedimento e' stato rimesso alla Commissione, ai sensi del primo comma d
 
 La Commissione puo' sempre assumere direttamente qualsiasi mezzo di prova. In tale caso stabilisce con ordinanza la seduta, dando avviso, nelle forme e con i termini di cui al quinto comma dell'articolo 138, all'incolpato, che puo' assistervi e svolgere le proprie deduzioni.
 
-###### Art. 141
+##### Art. 141
 
 Deliberazione
 
@@ -1854,7 +1832,7 @@ IL Ministro provvede con decreto motivato a dichiarare prosciolto l'impiegato da
 
 Il decreto deve essere comunicato all'impiegato entro dieci giorni dalla sua data, nei modi previsti dall'articolo 130.
 
-###### Art. 142
+##### Art. 142
 
 Rinvio della decisione
 
@@ -1864,7 +1842,7 @@ Se pero' la Commissione abbia provveduto con ordinanza, ai sensi del primo e del
 
 Qualora, iniziata la trattazione orale, sopravvenga, una causa di incompatibilita', di ricusazione o di astensione del presidente o di uno dei componenti, ovvero taluno di costoro, per impedimento fisico, non sia piu' in grado di intervenire, la trattazione orale deve essere rinnovata con l'osservanza delle disposizioni degli articoli 138 e 139.
 
-###### Art. 143
+##### Art. 143
 
 Rimborso spese all'impiegato prosciolto L'impiegato prosciolto ha diritto al rimborso delle spese di viaggio e di soggiorno sostenute per comparire innanzi alla Commissione.
 
@@ -1872,19 +1850,19 @@ Puo' chiedere, altresi' che gli sia, corrisposto il rimborso delle spese di viag
 
 La domanda prevista dal comma precedente deve essere proposta entro trenta giorni dalla comunicazione del decreto che proscioglie l'impiegato da ogni addebito.
 
-###### Art. 144
+##### Art. 144
 
 Sospensione del procedimento disciplinare in pendenza del giudizio penale
 
 Qualora per il fatto addebitato all'impiegato sia stata iniziata l'azione penale, il procedimento disciplinare non puo' essere promosso lino al termine di quello penale e, se gia' iniziato, deve essere sospeso.
 
-###### Art. 145
+##### Art. 145
 
 Rapporto tra giudizio disciplinare e cessazione del rapporto d'impiego
 
 Qualora nel corso del procedimento disciplinare il rapporto d'impiego cessi anche per dimissioni volontarie o per collocamento a riposo a domanda, il procedimento stesso prosegue agli effetti dell'eventuale trattamento di quiescenza o previdenza.
 
-###### Art. 146
+##### Art. 146
 
 Rapporto tra procedimento disciplinare e giudicato amministrativo
 
@@ -1892,7 +1870,7 @@ Quando il decreto del Ministro, che infligge la sanzione disciplinare, sia annul
 
 Decorso tale termine il procedimento disciplinare non puo' essere rinnovato.
 
-###### Art. 147
+##### Art. 147
 
 Estinzione del procedimento
 
@@ -1904,7 +1882,7 @@ L'estinzione determina, altresi', la revoca della sospensione cautelare e dell'e
 
 Nello stato matricolare dell'impiegato non deve essere fatta menzione del procedimento disciplinare estinto.
 
-###### Art. 148
+##### Art. 148
 
 Riapertura del procedimento
 
@@ -1914,7 +1892,7 @@ La riapertura del procedimento e' disposta dal Ministro su relazione dell'uffici
 
 Qualora il Ministro non ritenga di disporre la riapertura del procedimento, provvede con decreto motivato, sentito il Consiglio di amministrazione, per gli ripiegati in servizio al Ministero o ad uffici diversi da quelli giudiziari, ovvero la competente Commissione di disciplina presso la Corte, per gli impiegati in servizio negli uffici giudiziari.
 
-###### Art. 149
+##### Art. 149
 
 Effetti della riapertura del procedimento
 
@@ -1926,13 +1904,11 @@ Qualora egli sia prosciolto, o sia ritenuto passibile di una sanzione meno grave
 
 La disposizione del comma precedente si applica anche nel caso in cui la riapertura del procedimento sia stata domandata, dalla vedova o dai figli minorenni.
 
-## TITOLO X - Cessazione del rapporto d'impiego
+## TITOLO X - Cessazione del rapporto d'impiego Riammissione in servizio
 
-### Riammissione in servizio
+### CAPO I - CESSAZIONE DEL RAPPORTO D'IMPIEGO
 
-#### CAPO I - CESSAZIONE DEL RAPPORTO D'IMPIEGO
-
-###### Art. 150
+##### Art. 150
 
 Dimissioni
 
@@ -1948,13 +1924,13 @@ Agli effetti del comma precedente, s'intende che sia in corso procedimento disci
 
 Se al momento in cui l'impiegato non sospeso cautelarmente presenta le dimissioni siano stati iniziati gli accertamenti disciplinari preliminari, la contestazione degli addebiti deve seguire entro quaranta giorni dalla data di presentazione delle dimissioni, ed in mancanza, della contestazione entro tale termine, le dimissioni devono essere accettate.
 
-###### Art. 151
+##### Art. 151
 
 Trattamento di quiescenza L'impiegato dimissionario consegue il diritto alla pensione qualora abbia raggiunto una eta' non inferiore a quella prevista, per il collocamento a riposo, ridotta di cinque anni, e conti almeno venti anni di servizio effettivo, oppure a qualunque eta' qualora abbia prestato almeno venticinque anni di effettivo servizio.
 
 Negli altri casi l'impiegato dimissionario ha diritto all'indennita' per una sola volta in luogo di pensione, nella misura prevista dalle vigenti disposizioni, purche' abbia prestato almeno un anno intero di servizio effettivo.
 
-###### Art. 152
+##### Art. 152
 
 Dimissioni della impiegata coniugata
 
@@ -1962,7 +1938,7 @@ L'impiegata che abbia contratto matrimonio anche se sia rimasta successivamente 
 
 Ai fini del compimento dell'anzianita' minima richiesta per la maturazione del diritto a pensione, e' concesso alla predetta impiegata un aumento del servizio utile fino al massimo di cinque anni.
 
-###### Art. 153
+##### Art. 153
 
 Decadenza
 
@@ -1978,7 +1954,7 @@ d) quando sia accertato che l'impiego fu conseguito mediante la produzione di do
 
 La decadenza di cui alle lettere c) e d) e' disposta sentito il Consiglio di amministrazione.
 
-###### Art. 154
+##### Art. 154
 
 Effetti della decadenza
 
@@ -1986,7 +1962,7 @@ La decadenza non comporta la perdita del diritto al trattamento di quiescenza se
 
 L'impiegato decaduto ai sensi della lettera d) dell'articolo precedente non puo' concorrere ad altro impiego nell'Amministrazione dello Stato.
 
-###### Art. 155
+##### Art. 155
 
 Dispensa dal servizio
 
@@ -2002,7 +1978,7 @@ La dispensa e' disposta con decreto motivato del Ministro, sentito il Consiglio 
 
 E' fatto in ogni caso salvo il diritto ai trattamento di quiescenza e previdenza spettante secondo le disposizioni vigenti.
 
-###### Art. 156
+##### Art. 156
 
 Accertamento sanitario per la dispensa
 
@@ -2010,7 +1986,7 @@ Quando la dispensa debba avvenire per motivi di salute, si procede all'accertame
 
 L'impiegato ha diritto di farsi assistere da un medico di fiducia.
 
-###### Art. 157
+##### Art. 157
 
 Collocamento a riposo
 
@@ -2020,9 +1996,9 @@ I dattilografi sono collocati a riposo di ufficio al compimento del sessantacinq
 
 Agli impiegati di cui ai commi precedenti si applicano le disposizioni che regolano il trattamento di quiescenza degli impiegati civili dello Stato.
 
-## CAPO II - RIAMMISSIONE IN SERVIZIO
+### CAPO II - RIAMMISSIONE IN SERVIZIO
 
-###### Art. 158
+##### Art. 158
 
 Riammissione in servizio
 
@@ -2036,25 +2012,21 @@ La riammissione in servizio e' subordinata alla vacanza del posto e non puo' ave
 
 ## TITOLO XI - Disposizioni varie
 
-### CAPO I
+### CAPO I - OBBLIGO DEL SEGRETO E DELL'OSSERVANZA DELLA VIA GERARCHICA - OBBLIGO DELLA RESIDENZA - ORARIO DI UFFICIO - OBBLIGO DELLA TOGA - TITOLO UFFICIALE
 
-#### OBBLIGO DEL SEGRETO E DELL'OSSERVANZA DELLA VIA GERARCHICA - OBBLIGO - DELLA RESIDENZA - ORARIO DI UFFICIO - OBBLIGO DELLA TOGA - TITOLO
-
-##### UFFICIALE
-
-###### Art. 159
+##### Art. 159
 
 Segreto d'ufficio
 
 Il funzionario di cancelleria e segreteria e il dattilografo devono osservare il piu' scrupoloso segreto di ufficio e non possono dare a chi non ne abbia diritto, anche se non si tratti di atti segreti, informazioni o comunicazioni relative a operazioni o provvedimenti giudiziari o amministrativi di qualsiasi natura e dei quali siano venuti comunque a conoscenza a causa del loro ufficio.
 
-###### Art. 160
+##### Art. 160
 
 Osservanza della via gerarchica
 
 L'impiegato ha il dovere di fare esclusivamente per via gerarchica qualsiasi domanda, nonche' le istanze e le osservazioni che ritenga opportune sui servizi cui e' addetto, sui provvedimenti che e' chiamato ad applicare e sugli inconvenienti eventualmente rilevati nella esecuzione degli incarichi affidatigli.
 
-###### Art. 161
+##### Art. 161
 
 Obbligo della residenza
 
@@ -2064,7 +2036,7 @@ Il presidente della Corte di appello, per il personale addetto alle cancellerie,
 
 Per il personale addetto al Ministero, alla Corte suprema di cassazione, alla Procura generale presso la stessa Corte e al Tribunale superiore delle acque pubbliche provvedono i rispettivi capi nelle forme indicate nel comma precedente.
 
-###### Art. 162
+##### Art. 162
 
 Orario di ufficio
 
@@ -2076,13 +2048,13 @@ Il presidente della Corte e il procuratore generale possono stabilire che tale o
 
 Quando le esigenze dell'ufficio lo richiedano il funzionario o l'impiegato e' tenuto a prestare servizio, con il diritto alla retribuzione per lavoro straordinario, anche in giorni o in ore non comprese nell'orario normale, salvo che sia esonerato per giustificati motivi.
 
-###### Art. 163
+##### Art. 163
 
 Obbligo della toga
 
 I funzionari che partecipano alle udienze hanno l'obbligo di indossare la toga.
 
-###### Art. 164
+##### Art. 164
 
 Titolo ufficiale
 
@@ -2094,9 +2066,9 @@ All'atto del collocamento a riposo puo' essere conferito al funzionario il titol
 
 L'impiegato, dopo la cessazione dal servizio, purche' non determinata da un provvedimento disciplinare, conserva il titolo che aveva al momento in cui ha lasciato il servizio.
 
-## CAPO II - RINVIO AD ALTRE NORME
+### CAPO II - RINVIO AD ALTRE NORME
 
-###### Art. 165
+##### Art. 165
 
 Norme di rinvio
 
@@ -2104,11 +2076,9 @@ Sono applicabili le disposizioni contenute nello statuto degli impiegati civili 
 
 ## TITOLO XII - Disposizioni di attuazione e transitorie
 
-### CAPO I
+### CAPO I - DISPOSIZIONI DI ATTUAZIONE
 
-#### DISPOSIZIONI DI ATTUAZIONE
-
-###### Art. 166
+##### Art. 166
 
 Inquadramento nella carriera direttiva dell'attuale personale di cancelleria e segreteria
 
@@ -2130,7 +2100,7 @@ AGGIORNAMENTO (1)
 
 La L. 16 luglio 1962, n. 922 ha disposto (con l'art. 12) che " Nella legge 23 ottobre 1960, n. 1196, alle parole "cancelliere capo di Tribunale o segretario capo di Procura" sono sostituite le seguenti: "cancelliere capo di Tribunale e segretario capo di Procura di seconda classe"".
 
-###### Art. 167
+##### Art. 167
 
 Cancellieri e segretari non inquadrati nella carriera direttiva
 
@@ -2138,13 +2108,13 @@ Il giudizio di cui al precedente articolo non puo' essere rinnovato e i cancelli
 
 Nella qualifica di cancelliere capo di Pretura sono tenuti scoperti tanti posti quanti sono i funzionari che a norma del precedente comma conservano ad personam qualifiche del ruolo di provenienza.
 
-###### Art. 168
+##### Art. 168
 
 Inquadramento dei cancellieri e segretari aventi qualifica inferiore a quella di cancelliere e segretario capo di terza classe
 
 Il personale delle cancellerie e segreterie giudiziario delle qualifiche inferiori a quelle di cancelliere capo, di terza classe e' inquadrato nella carriera di concetto ed e' collocato nella qualifica corrispondente a quella organicamente rivestita alla data di inquadramento conservando l'anzianita' maturata nella qualifica medesima.
 
-###### Art. 169
+##### Art. 169
 
 Commissione speciale di inquadramento nella carriera direttiva
 
@@ -2168,7 +2138,7 @@ La Commissione e nominata entro quattro mesi dalla entrata in vigore dei present
 
 All'inquadramento si procede, comunque, dopo ultimati gli scrutini in corso.
 
-###### Art. 170
+##### Art. 170
 
 Criteri di valutazione per l'inquadramento nella carriera direttiva
 
@@ -2176,33 +2146,33 @@ Ai fini dell'inquadramento previsto dall'art. 166 sono sottoposti a giudizio tut
 
 La Commissione esprime il giudizio sulla idoneita' del funzionario all'inquadramento nella carriera direttiva valutando le categorie di titoli indicate nell'articolo 30 del presente ordinamento.
 
-## CAPO II - DISPOSIZIONI TRANSITORIE
+### CAPO II - DISPOSIZIONI TRANSITORIE
 
-###### Art. 171
+##### Art. 171
 
 Applicazione di norme del precedente ordinamento
 
 Per quanto previsto negli articoli 21 e 23 della presente legge in materia, di concorsi per l'accesso alla carriera di concetto e per il conferimento delle promozioni alle qualifiche superiori a quella di cancelliere e segretario di prima classe, continuano ad applicarsi le disposizioni di cui al regio decreto-legge 8 maggio 1924, n. 745, e successive modificazioni, fino a sei mesi dopo l'entrata in vigore della presente legge, entro il quale termine devono essere ultimati gli scrutini in corso.
 
-###### Art. 172
+##### Art. 172
 
 Promozioni dei funzionari non inquadrati nella carriera direttiva
 
 I funzionari di cui all'art. 167 sono, ai fini della progressione in carriera, scrutinati in conformita' delle disposizioni del regio decreto-legge 8 maggio 1924, n. 745, e lo scrutinio e' espletato dalla Commissione di cui all'art. 60 del presente ordinamento.
 
-###### Art. 173
+##### Art. 173
 
 Servizio obbligatorio nelle Preture
 
 La disposizione di cui all'art. 41 della presente legge, relativo all'obbligo del biennio di servizio nelle preture non si applica nei confronti dei funzionari che abbiano gia' maturato alla data di entrata in vigore della legge 13 marzo 1958, n. 249, o che maturino entro 4 anni dalla data predetta, la anzianita' prescritta per l'ammissione allo scrutinio o all'esame per la promozione alla qualifica di cancelliere capo di Pretura.
 
-###### Art. 174
+##### Art. 174
 
 Anzianita' acquisita
 
 I funzionari di cui all'art. 166 in servizio alla data di entrata in vigore della presente legge conservano la anzianita' di cui sono in possesso. Conservano altresi' nella nuova qualifica l'anzianita' maturata nella comprendente qualifica di provenienza.
 
-###### Art. 175
+##### Art. 175
 
 Biennio di servizio presso uffici giudiziari per la promozione a
 
@@ -2216,13 +2186,13 @@ AGGIORNAMENTO (4)
 
 La L. 7 maggio 1965, n. 430 ha disposto (con l'art. 5, comma 1) che "Il termine di cui all'art. 175 della legge 23 ottobre 1960, n. 1196, relativo all'entrata in vigore dell'art. 47 della stessa legge, sostituito dall'art. 8 della legge 16 luglio 1962, n. 922, e' ulteriormente prorogato fino al 31 dicembre 1967."
 
-###### Art. 176
+##### Art. 176
 
 Triennio di funzioni direttive per la promozione a cancelliere capo della Corte di cassazione o a segretario capo della Procura generale presso la stessa Corte.
 
 Ai fini del triennio di dirigenza di cui all'art. 47 del presente ordinamento e' valido il servizio prestato come dirigente nella qualifica corrispondente a quella di cancelliere o segretario capo di seconda classe in posti per i quali secondo l'attuale ordinamento e' richiesta una qualifica superiore e sempre che l'incarico direttivo sia stato conferito con decreto del Capo dello Stato e, per i funzionari che hanno prestato servizio fuori del territorio metropolitano, in conformita' degli ordinamenti in vigore all'epoca del conferimento di dette funzioni.
 
-###### Art. 177
+##### Art. 177
 
 Conferimento dei posti disponibili nella qualifica di cancelliere capo di Pretura
 
@@ -2230,7 +2200,7 @@ Le disposizioni contenute nella legge 22 dicembre 1957, n. 1234, e negli articol
 
 Nello scrutinio per merito comparativo e' titolo preferenziale la conseguita promozione all'ex grado IX a seguito di concorso per merito distinto o di esame di idoneita' o di concorso per esame speciale.
 
-###### Art. 178
+##### Art. 178
 
 Conferimento dei posti aumentati
 
@@ -2246,7 +2216,7 @@ AGGIORNAMENTO (1)
 
 La L. 16 luglio 1962, n. 922 ha disposto (con l'art. 12) che " Nella legge 23 ottobre 1960, n. 1196, alle parole "cancelliere capo di Tribunale o segretario capo di Procura" sono sostituite le seguenti: "cancelliere capo di Tribunale e segretario capo di Procura di seconda classe"".
 
-###### Art. 179
+##### Art. 179
 
 Assegnazione dei funzionari in servizio a posti corrispondenti alle rispettive qualifiche
 
@@ -2258,7 +2228,7 @@ AGGIORNAMENTO (4)
 
 La L. 7 maggio 1965, n. 430 ha disposto (con l'art. 6) che "Il termine stabilito dall'art. 179 della legge 23 ottobre 1960, n. 1196, e' prorogato fino al 30 giugno 1965".
 
-###### Art. 180
+##### Art. 180
 
 Concorsi per dattilografi. - Prova pratica Amanuensi - Voto supplementare
 
@@ -2268,7 +2238,7 @@ La disposizione precedente si applica anche ai concorsi in svolgimento, per i qu
 
 Se alla data di entrata in vigore del presente ordinamento si trova in espletamento un concorso per dattilografo, e non sia stata ancora iniziata la prova pratica, la stessa sara' effettuata con l'osservanza delle norme del presente ordinamento.
 
-###### Art. 181
+##### Art. 181
 
 Personale del ruolo aggiunto
 
@@ -2276,9 +2246,9 @@ Le disposizioni di cui agli articoli 4 e 5 della legge 17 febbraio 1958, n. 60, 
 
 I funzionari di cui al precedente comma sono dispensati dal periodo di prova.
 
-## CAPO III - NUOVO ORDINAMENTO - MAGGIORE SPESA
+### CAPO III - NUOVO ORDINAMENTO - MAGGIORE SPESA
 
-###### Art. 182
+##### Art. 182
 
 Onere finanziario
 
@@ -2298,7 +2268,7 @@ Visto, il Guardasigilli: GONELLA
 
 ## Allegati
 
-###### Tabelle
+##### Tabelle
 
 TABELLA A
 

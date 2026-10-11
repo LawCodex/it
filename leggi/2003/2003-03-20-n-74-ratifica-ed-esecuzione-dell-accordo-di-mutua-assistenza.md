@@ -25,21 +25,21 @@ Promulga
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo di mutua assistenza amministrativa per la prevenzione, la ricerca e la repressione delle infrazioni doganali tra il Governo della Repubblica italiana e il Governo dello Stato di Israele, con allegato, fatto a Roma il 27 aprile 1999.
 
-#### Art. 2
+### Art. 2
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 21 dell'Accordo stesso.
 
-#### Art. 3
+### Art. 3
 
 1\. All'onere derivante dall'attuazione della presente legge, valutato in 17.005 euro annui a decorrere dal 2003, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2003-2005, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2003, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri.
 
 2\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 4
+### Art. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -53,9 +53,7 @@ Berlusconi, Presidente del Consiglio dei Ministri
 
 Frattini, Ministro degli affari esteri Visto, il Guardasigilli: Castelli
 
-## CAPITOLO I
-
-### Definizioni
+## CAPITOLO I - Definizioni
 
 ACCORDO DI MUTUA ASSISTENZA AMMINISTRATIVA PER LA PREVENZIONE, LA RICERCA E LA REPRESSIONE DELLE INFRAZIONI DOGANALI TRA IL GOVERNO DELLA REPUBBLICA ITALIANA ED IL GOVERNO DELLO STATO D'ISRAELE
 
@@ -77,7 +75,7 @@ Tenuto conto degli strumenti del Consiglio di Cooperazione Doganale, in particol
 
 Hanno convenuto quanto segue:
 
-#### Articolo 1
+### Articolo 1
 
 Ai fini del presente Accordo si intende per:
 
@@ -109,11 +107,9 @@ i) "Amministrazione doganale adita", l'autorita' che riceve una richiesta di ass
 
 j) "informazioni", inter alia, le relazioni, i dati e i documenti, siano essi su computer o su carta, e le copie autenticate degli stessi.
 
-## CAPITOLO II
+## CAPITOLO II - Campo d'applicazione dell'Accordo
 
-### Campo d'applicazione dell'Accordo
-
-#### Articolo 2
+### Articolo 2
 
 1\. Le Parti Contraenti, per il tramite delle loro Amministrazioni doganali, si prestano mutua assistenza alle condizioni stabilite dal presente Accordo, ai fini della corretta applicazione della legislazione doganale e della prevenzione, ricerca e repressione delle infrazioni doganali.
 
@@ -123,11 +119,9 @@ j) "informazioni", inter alia, le relazioni, i dati e i documenti, siano essi su
 
 4\. La mutua assistenza non si estende all'arresto delle persone ne' alle procedure di recupero, per conto dell'altra Parte Contraente, di diritti e tasse all'importazione e all'esportazione, ne' di sanzioni pecuniarie o di altre somme.
 
-## CAPITOLO III
+## CAPITOLO III - Campo d'applicazione dell'assistenza
 
-### Campo d'applicazione dell'assistenza
-
-#### Articolo 3
+### Articolo 3
 
 1\. Le Amministrazioni doganali si comunicano reciprocamente, su domanda o di propria iniziativa, tutte le informazioni che possono contribuire ad assicurare la corretta applicazione della legislazione doganale e la prevenzione, la ricerca e la repressione delle infrazioni doganali.
 
@@ -135,7 +129,7 @@ j) "informazioni", inter alia, le relazioni, i dati e i documenti, siano essi su
 
 3\. Su richiesta, ciascuna Amministrazione doganale avra' cura di predisporre, in conformita' con le norme vigenti sul suo territorio, la consegna o la notifica ai destinatari di tutte le decisioni e i documenti rilasciati dall'Amministrazione doganale richiedente in relazione al campo d'applicazione del presente Accordo.
 
-#### Articolo 4
+### Articolo 4
 
 1\. Su richiesta, l'Amministrazione doganale adita fornisce tutte le informazioni sulla legislazione e le procedure doganali applicabili in quella Parte Contraente alle indagini relative ad un'infrazione doganale.
 
@@ -145,11 +139,9 @@ a) nuove tecniche per l'applicazione della legislazione doganale delle quali sia
 
 b) nuove tendenze in materia di infrazioni doganali, e strumenti o metodi impiegati per commetterle.
 
-## CAPITOLO IV
+## CAPITOLO IV - Casi di assistenza
 
-### Casi di assistenza
-
-#### Articolo 5
+### Articolo 5
 
 Su richiesta, l'Amministrazione doganale adita, in particolare, fornisce alla Amministrazione doganale richiedente ogni informazione su:
 
@@ -157,7 +149,7 @@ a) la regolarita' dell'esportazione, dal territorio doganale della Parte Contrae
 
 b) la regolarita' dell'importazione, nel territorio doganale della Parte Contraente adita, delle merci esportate dal territorio doganale della Parte Contraente richiedente, ed il regime doganale nel quale le merci sono state eventualmente collocate.
 
-#### Articolo 6
+### Articolo 6
 
 Nel quadro delle disposizioni legislative e regolamentari, le Amministrazioni doganali delle Parti Contraenti si comunicano - su domanda e, all'occorrenza, previa indagine - ogni informazione che permetta di assicurare l'esatta percezione di dazi e tasse doganali, in particolare quelle per agevolare:
 
@@ -165,7 +157,7 @@ a) la determinazione del valore in dogana, della classificazione tariffaria e de
 
 b) l'applicazione delle disposizioni concernenti i divieti, le restrizioni ed i controlli.
 
-#### Articolo 7
+### Articolo 7
 
 Su richiesta, l'Amministrazione doganale adita fornisce notizie ed informazioni ed esercita una sorveglianza speciale su:
 
@@ -177,41 +169,35 @@ c) i mezzi di trasporto sospettati dall'Amministrazione doganale richiedente di 
 
 d) i locali sospettati dall'Amministrazione doganale richiedente di essere impiegati per commettere infrazioni doganali sui territori doganali dell'una o dell'altra Parte Contraente.
 
-#### Articolo 8
+### Articolo 8
 
 1\. Le Amministrazioni doganali si comunicano vicendevolmente, su richiesta o di loro propria iniziativa, notizie ed informazioni circa le transazioni ultimate o progettate che costituiscono o sembrano costituire una infrazione doganale sul territorio doganale dell'altra Parte Contraente.
 
 2\. Nei casi gravi che possono nuocere seriamente all'economia, alla salute pubblica, alla sicurezza pubblica o ad ogni altro interesse vitale di una Parte Contraente, l'Amministrazione doganale dell'altra Parte Contraente fornisce, ove possibile, tali informazioni di propria iniziativa.
 
-#### Articolo 9
+### Articolo 9
 
 L'Amministrazione doganale adita assiste l'Amministrazione doganale richiedente nell'applicazione di misure conservative, ivi compresi il sequestro, il blocco e la confisca dei beni, ed avviare a tal fine i necessari procedimenti;
 
-## CAPITOLO V
+## CAPITOLO V - Informazioni
 
-### Informazioni
-
-#### Articolo 10
+### Articolo 10
 
 1\. Le informazioni in originale vengono richieste soltanto quando le copie conformi sono ritenute insufficienti e sono restituite non appena possibile; i relativi diritti dell'Amministrazione doganale adita e dei terzi restano impregiudicati.
 
 2\. Tutte le informazioni da scambiarsi in conformita' al presente Accordo sono accompagnate da ogni indicazione utile a consentirne il relativo utilizzo ed interpretazione.
 
-## CAPITOLO VI
+## CAPITOLO VI - Esperti e testimoni
 
-### Esperti e testimoni
-
-#### Articolo 11
+### Articolo 11
 
 Su richiesta dell'Amministrazione doganale di una Parte Contraente, l'Amministrazione doganale dell'altra Parte Contraente autorizza, quando possibile, conformemente alla legislazione nazionale dell'Amministrazione doganale adita, i propri agenti a deporre, in qualita' di testimoni od esperti, nei procedimenti giudiziari o amministrativi relativi ad infrazioni doganali perseguite nel territorio dell'altra Parte Contraente e a produrre oggetti e informazioni, o copie autenticate delle stesse, necessari per i procedimenti. La richiesta di comparizione precisa, in particolare, in quale tipo di procedimento ed in che qualita' l'agente dovra' deporre.
 
 L'Amministrazione doganale della Parte Contraente che accetta la richiesta precisa, se del caso, nell'autorizzazione che essa rilascia, i limiti entro i quali i propri agenti dovranno mantenere la loro deposizione, sulla base dei principi e nell'ambito del presente Accordo.
 
-## CAPITOLO VII
+## CAPITOLO VII - Comunicazione delle richieste
 
-### Comunicazione delle richieste
-
-#### Articolo 12
+### Articolo 12
 
 1\. Ai sensi del presente Accordo, l'assistenza e' scambiata direttamente tra le Amministrazioni doganali.
 
@@ -231,11 +217,9 @@ La richiesta di seguire una particolare procedura, formulata da una delle Ammini
 
 Le informazioni e le notizie di cui al presente Accordo sono comunicate ai funzionari designati a tal fine da ciascuna Amministrazione doganale. Conformemente al paragrafo 2 dell'Articolo 19 del presente Accordo, un elenco di questi funzionari viene comunicato all'Amministrazione doganale dell'altra Parte Contraente.
 
-## CAPITOLO VIII
+## CAPITOLO VIII - Esecuzione delle richieste
 
-### Esecuzione delle richieste
-
-#### Articolo 13
+### Articolo 13
 
 Se l'Amministrazione doganale adita non detiene le informazioni richieste, essa deve conformemente alle proprie disposizioni legislative e amministrative nazionali:
 
@@ -245,7 +229,7 @@ b) trasmettere rapidamente la richiesta all'autorita' competente; oppure
 
 c) indicare all'Amministrazione doganale le autorita' competenti in materia.
 
-#### Articolo 14
+### Articolo 14
 
 1\. Su richiesta scritta, al fine di indagare su una infrazione doganale, funzionari all'uopo designati dalla Amministrazione doganale richiedente possono, con l'autorizzazione dell'Amministrazione doganale adita ed alle condizioni eventualmente imposte da quest'ultima:
 
@@ -259,11 +243,9 @@ b) assistere alle indagini effettuate dall'Amministrazione doganale adita sul te
 
 4\. Il presente Articolo non puo' essere interpretato in nessuna sua parte come autorizzazione ai funzionari dell'Amministrazione doganale richiedente presenti sul territorio della Parte Contraente adita a partecipare attivamente alle indagini ovvero ad esercitare eventuali poteri legali e investigativi concessi dalla legge nazionale di quest'ultima ai propri funzionari doganali.
 
-## CAPITOLO IX
+## CAPITOLO IX - Utilizzazione delle informazioni e dei documenti e protezione
 
-### Utilizzazione delle informazioni e dei documenti e - protezione
-
-#### Articolo 15
+### Articolo 15
 
 1\. Le informazioni, le comunicazioni ed i documenti ricevuti nel quadro dell'assistenza amministrativa possono essere usati in procedimenti civili, penali ed amministrativi, alle condizioni stabilite dalle rispettive legislazioni vigenti in materia, unicamente per gli scopi previsti dal presente Accordo e come specificato nella richiesta, ove necessaria.
 
@@ -275,15 +257,13 @@ b) assistere alle indagini effettuate dall'Amministrazione doganale adita sul te
 
 5\. Le informazioni, le comunicazioni e i documenti che una Amministrazione doganale riceve dall'altra ai sensi del presente Accordo godono della stessa protezione accordata a tali documenti e informazioni dalla legge nazionale della Parte Contraente che li ha ricevuti.
 
-#### Articolo 16
+### Articolo 16
 
 Allorquando dei dati personali vengano forniti in conformita' al presente Accordo, le Parti Contraenti assicurano loro un livello di protezione almeno equivalente a quello che scaturisce dall'attuazione dei principi enunciati nell'Allegato al presente Accordo e che costituisce parte integrante di quest'ultimo.
 
-## CAPITOLO X
+## CAPITOLO X - Eccezioni
 
-### Eccezioni
-
-#### Articolo 17
+### Articolo 17
 
 1\. L'assistenza prevista dal presente Accordo puo' essere rifiutata quando questa e' di natura tale da pregiudicare la sovranita', la sicurezza, l'ordine pubblico od altri interessi nazionali vitali della Parte Contraente adita, quando implichi la violazione di un segreto industriale, commerciale o professionale, oppure si riveli incompatibile con le disposizioni legislative ed amministrative applicate da questa Parte Contraente.
 
@@ -293,21 +273,17 @@ Allorquando dei dati personali vengano forniti in conformita' al presente Accord
 
 4\. Il rifiuto o il differimento dell'assistenza devono essere motivati.
 
-## CAPITOLO XI
+## CAPITOLO XI - Costi
 
-### Costi
-
-#### Articolo 18
+### Articolo 18
 
 1\. Le Amministrazioni doganali rinunciano ad ogni rivendicazione per il rimborso delle spese originate dall'applicazione del presente Accordo, fatta eccezione delle spese rimborsate e delle indennita' versate agli esperti ed ai testimoni, nonche' dei costi degli interpreti e dei traduttori, quando questi non siano funzionari dello Stato, che devono essere a carico dell'Amministrazione doganale richiedente.
 
 2\. Qualora per dar seguito alla richiesta debbano essere sostenute spese elevate e non usuali, le Amministrazioni doganali delle Parti Contraenti si consultano per determinare i termini e le condizioni per soddisfare la richiesta, come pure le modalita' di presa in carico di dette spese.
 
-## CAPITOLO XII
+## CAPITOLO XII - Applicazione dell'Accordo
 
-### Applicazione dell'Accordo
-
-#### Articolo 19
+### Articolo 19
 
 1\. Le Amministrazioni doganali dispongono affinche' i funzionari dei loro servizi incaricati d'individuare o di perseguire le infrazioni doganali siano in contatto personale e diretto.
 
@@ -317,29 +293,25 @@ Allorquando dei dati personali vengano forniti in conformita' al presente Accord
 
 4\. Le dispute per le quali non vengano trovate soluzioni amichevoli sono regolate per via diplomatica.
 
-## CAPITOLO XIII
+## CAPITOLO XIII - Ambito territoriale
 
-### Ambito territoriale
-
-#### Articolo 20
+### Articolo 20
 
 1\. Per la Repubblica italiana, il presente Accordo si applica al suo territorio.
 
 2\. Per lo Stato d'Israele, il presente Accordo si applica al suo territorio.
 
-## CAPITOLO XIV
+## CAPITOLO XIV - Entrata in vigore e denuncia
 
-### Entrata in vigore e denuncia
-
-#### Articolo 21
+### Articolo 21
 
 Il presente Accordo entra in vigore il primo giorno del secondo mese dalla data di ricezione della seconda delle due notifiche con le quali le Parti Contraenti si saranno comunicate ufficialmente l'avvenuto espletamento delle rispettive procedure interne di ratifica.
 
-#### Articolo 22
+### Articolo 22
 
 Il presente Accordo e' concluso per una durata illimitata, ma ciascuna delle Parti Contraenti potra' denunciarlo in qualsiasi momento per via diplomatica. La denuncia avra' effetto allo scadere dei tre mesi dalla data della notifica stessa. Gli eventuali procedimenti in corso all'atto della denuncia verranno comunque completate in conformita' alle disposizioni del presente Accordo.
 
-#### Articolo 23
+### Articolo 23
 
 Su richiesta o alla scadenza di un termine di cinque anni dalla data d'entrata in vigore del presente Accordo, le Parti Contraenti si riuniscono al fine di esaminarlo, salvo se esse si notifichino l'un l'altra per iscritto che quest'esame e' inutile.
 
@@ -351,7 +323,7 @@ Repubblica Italiana Stato d'Israele
 
 Parte di provvedimento in formato grafico
 
-#### Allegato
+### Allegato
 
 ALLEGATO
 
@@ -399,6 +371,6 @@ b) proteggere le persone alle quali si riferiscono i dati in questione ovvero i 
 
 7\. Nessuna delle disposizioni del presente Allegato deve essere interpretata nel senso di limitare o altrimenti intaccare la possibilita' per una Parte Contraente di accordare alle persone alle quali si riferiscono i dati in questione, una protezione piu' ampia di quella prevista nel presente Allegato.
 
-#### Agreement
+### Agreement
 
 Parte di provvedimento in formato grafico

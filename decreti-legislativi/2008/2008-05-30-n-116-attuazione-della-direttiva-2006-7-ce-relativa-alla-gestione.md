@@ -50,11 +50,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Disposizioni generali
 
-### Disposizioni generali
-
-#### Art. 1
+### Art. 1
 
 Finalita' e campo di applicazione
 
@@ -208,7 +206,7 @@ c) alle acque confinate create artificialmente e separate dalle acque superficia
 
 > \- Per il decreto legislativo del 3 aprile 2006, n. 152, si vedano le note alle premesse.
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -264,7 +262,7 @@ n) «punto di monitoraggio»: la stazione di monitoraggio localizzata all'intern
 
 > \- Per il decreto legislativo del 3 aprile 2006, n. 152, si vedano le note alle premesse.
 
-#### Art. 3
+### Art. 3
 
 Competenze statali
 
@@ -278,7 +276,7 @@ c) l'elaborazione dei dati di monitoraggio e la trasmissione alla Commissione eu
 
 d) l'informazione al pubblico di cui all'articolo 15.
 
-#### Art. 4
+### Art. 4
 
 Competenze regionali
 
@@ -312,7 +310,7 @@ h) l'informazione al pubblico ai sensi dell'articolo 15.
 
 > 3\. L'autorita' di bacino, sentite le autorita' d'ambito del servizio idrico integrato, istituisce entro sei mesi dall'entrata in vigore della presente norma, sulla base delle informazioni trasmesse dalle regioni, un registro delle aree protette di cui all'allegato 9 alla parte terza del presente decreto, designate dalle autorita' competenti ai sensi della normativa vigente.».
 
-#### Art. 5
+### Art. 5
 
 Competenze comunali
 
@@ -328,11 +326,9 @@ d) l'apposizione, nelle zone interessate, in un'ubicazione facilmente accessibil
 
 e) la segnalazione in un'ubicazione facilmente accessibile nelle immediate vicinanze di ciascuna acqua di balneazione, di previsioni di inquinamenti di breve durata di cui al comma 2, lettera c), dell'articolo 15.
 
-## Capo II
+## Capo II - Qualita' e gestione delle acque di balneazione
 
-### Qualita' e gestione delle acque di balneazione
-
-#### Art. 6
+### Art. 6
 
 Monitoraggio
 
@@ -362,7 +358,7 @@ Tutte le informazioni pertinenti sui metodi o sulle procedure applicate e sulla 
 
 > \- Per il decreto del Presidente della Repubblica dell'8 giugno 1982, n. 470, si vedano le note alle premesse.
 
-#### Art. 7
+### Art. 7
 
 Valutazione della qualita' delle acque di balneazione
 
@@ -483,7 +479,7 @@ c) hanno profili che identificano fattori di rischio comuni o assenza degli stes
 
 > In tal caso la ricerca degli enterovirus sara' effettuata mediante concentrazioni a mezzo filtrazione, flocculazione o centrifugazione e conferma.».
 
-#### Art. 8
+### Art. 8
 
 Classificazione e stato qualitativo delle acque di balneazione
 
@@ -515,7 +511,7 @@ a) per ciascuna acqua di balneazione classificata «scarsa», sono adottate le s
 
 b) se le acque di balneazione sono classificate di qualita' «scarsa» per cinque anni consecutivi, e' disposto un divieto permanente di balneazione. Le regioni e le province autonome possono tuttavia disporre un divieto permanente di balneazione prima della scadenza del termine di cinque anni se ritengono che il raggiungimento di una qualita' «sufficiente» non sia fattibile o sia sproporzionatamente costoso.
 
-#### Art. 9
+### Art. 9
 
 Profili delle acque di balneazione
 
@@ -527,13 +523,13 @@ Profili delle acque di balneazione
 
 > \- Per il decreto legislativo del 3 aprile 2006, n. 152, si vedano le note alle premesse.
 
-#### Art. 10
+### Art. 10
 
 Misure di gestione in circostanze eccezionali
 
 1\. Le autorita' competenti provvedono affinche' vengano adottate misure di gestione tempestive e adeguate qualora vengano a conoscenza di situazioni inaspettate che hanno, o potrebbero verosimilmente avere, un impatto negativo sulla qualita' delle acque di balneazione o sulla salute dei bagnanti. Tali misure includono l'informazione del pubblico e, se necessario, un divieto temporaneo di balneazione.
 
-#### Art. 11
+### Art. 11
 
 Rischi da cianobatteri
 
@@ -541,7 +537,7 @@ Rischi da cianobatteri
 
 2\. Le autorita' competenti, qualora si verifichi una proliferazione cianobatterica e si individui o si presuma un rischio per la salute, adottano immediatamente misure di gestione adeguate per prevenire l'esposizione dei bagnanti, di cui all'articolo 2, comma 1, lettera f), numeri 6), 7), 8), 9) e 10).
 
-#### Art. 12
+### Art. 12
 
 Altri parametri
 
@@ -549,7 +545,7 @@ Altri parametri
 
 2\. Le regioni e le province autonome provvedono affinche' sia effettuata l'ispezione visiva delle acque di balneazione per individuare inquinanti quali residui bituminosi, vetro, plastica, gomma o altri rifiuti. Qualora si riscontri tale inquinamento, le autorita' competenti adottano adeguate misure di gestione, di cui all'articolo 2, comma 1, lettera f), numeri 6), 7), 8), 9) e 10).
 
-#### Art. 13
+### Art. 13
 
 (( (Cooperazione).))
 
@@ -557,11 +553,9 @@ Altri parametri
 
 2\. Se il bacino idrografico comporta un impatto sulla qualita' delle acque di balneazione che coinvolge piu' regioni e province autonome, gli enti territoriali interessati attuano le medesime procedure di cui al comma 1)).
 
-## Capo III
+## Capo III - Scambio di informazioni
 
-### Scambio di informazioni
-
-#### Art. 14
+### Art. 14
 
 Partecipazione del pubblico
 
@@ -571,7 +565,7 @@ Partecipazione del pubblico
 
 3\. Ai fini dell'integrazione dei dati sanitari relativi allo stato delle acque di balneazione e dei dati ambientali sui programmi di miglioramento, con decreto del Ministro del lavoro, della salute e delle politiche sociali e del Ministro dell'ambiente e della tutela del territorio e del mare, vengono stabilite le modalita' dirette a realizzare forme comuni di trattamento dei dati in possesso di ciascuna amministrazione e garantirne la pubblicita'.
 
-#### Art. 15
+### Art. 15
 
 Informazione al pubblico
 
@@ -623,7 +617,7 @@ f) nel caso di acque interessate dagli inquinamenti di cui agli articoli 10, 11 
 
 5\. Le autorita' competenti forniscono, se possibile, informazioni al pubblico, utilizzando la tecnologia geo-referenziata, presentandole in modo chiaro e coerente, in particolare utilizzando segni e simboli.
 
-#### Art. 16
+### Art. 16
 
 Comunicazione delle informazioni
 
@@ -639,7 +633,7 @@ Comunicazione delle informazioni
 
 > \- Per il testo dell'allegato I del decreto del Presidente della Repubblica dell'8 giugno 1982, n. 470, si vedano le note all'art. 7.
 
-#### Art. 17
+### Art. 17
 
 Norme transitorie e finali
 
@@ -653,7 +647,7 @@ Il parametro dell'ossigeno disciolto non rileva ai fini del giudizio sulla balne
 
 4\. Con decreto del Ministro del lavoro, della salute e delle politiche sociali e del Ministro dell'ambiente e della tutela del territorio e del mare si provvede, sentita la Conferenza unificata, alla indicazione dei limiti di riferimento per individuare le condizioni di qualita' delle acque tali da imporre il divieto di balneazione, nonche' degli ulteriori criteri, modalita' e specifiche tecniche per l'attuazione del presente decreto anche in relazione ai nuovi indirizzi comunitari, (( entro il 31 dicembre 2009 )) ad eccezione di quanto non ancora definito dalla Commissione europea.
 
-#### Art. 18
+### Art. 18
 
 Disposizioni finanziarie
 
@@ -661,7 +655,7 @@ Disposizioni finanziarie
 
 2\. All'adempimento dei compiti derivanti dal presente decreto le amministrazioni interessate provvedono con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-#### Art. 19
+### Art. 19
 
 Entrata in vigore
 
@@ -691,11 +685,9 @@ Fitto, Ministro per i rapporti con le regioni
 
 Visto, il Guardasigilli: Alfano
 
-## Capo III
+## Capo III - Scambio di informazioni
 
-### Scambio di informazioni
-
-#### Allegato I
+### Allegato I
 
 Allegato I
 
@@ -761,7 +753,7 @@ allegato II.
 
 allegato II.
 
-#### Allegato II
+### Allegato II
 
 Allegato II
 
@@ -865,7 +857,7 @@ superiori, espressi in ufc/100 ml.
 
 inferiori, espressi in ufc/100 ml.
 
-#### Allegato III
+### Allegato III
 
 Allegato III
 
@@ -920,7 +912,7 @@ Nel caso di acque di balneazione classificate in precedenza di «qualita' eccell
 
 5\. Se l'autorita' competente lo ritiene opportuno possono essere allegate o incluse altre informazioni pertinenti.
 
-#### Allegato IV
+### Allegato IV
 
 Allegato IV
 
@@ -942,7 +934,7 @@ b) situate in una regione soggetta a particolari impedimenti di tipo geografico.
 
 4\. In caso di inquinamento di breve durata, e' prelevato un campione aggiuntivo per confermare la conclusione dell'evento. Questo campione non deve essere parte della serie di dati sulla qualita' delle acque di balneazione. Se e' necessario sostituire un campione scartato, deve essere prelevato un campione aggiuntivo 7 giorni dopo la conclusione dell'inquinamento di breve durata.
 
-#### Allegato V
+### Allegato V
 
 Allegato V
 

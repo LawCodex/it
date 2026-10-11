@@ -42,11 +42,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I - Semplificazione del concorso
+## Capo I - Semplificazione del concorso per uditore giudiziario
 
-### per uditore giudiziario
-
-#### Art 1
+### Art 1
 
 Concorso per uditore giudiziario
 
@@ -68,7 +66,7 @@ Per ragioni di urgenza si omette la pubblicazione delle note al presente decreto
 
 Nella Gazzetta Ufficiale - serie generale - del 5 dicembre 1997 si procedera' alla ripubblicazione del testo del presente decreto, corredato delle relative note.
 
-#### Art. 2
+### Art. 2
 
 Prova preliminare
 
@@ -96,7 +94,7 @@ d) coloro che hanno conseguito il diploma di specializzazione per le professioni
 
 6\. Il mancato superamento della prova preliminare non da' luogo ad inidoneita' ai fini di cui all'articolo 126, primo comma.".
 
-#### Art. 3
+### Art. 3
 
 Prove concorsuali
 
@@ -132,7 +130,7 @@ h) diritto internazionale ed elementi di informatica giuridica.
 
 Conseguono la idoneita' i candidati che ottengono non meno di 6 / 10 in ciascuna materia della prova orale e comunque una votazione complessiva nelle due prove non inferiore a novantotto punti. Non sono ammesse frazioni di punto.".
 
-#### Art. 4
+### Art. 4
 
 Commissione permanente per la tenuta dell'archivio
 
@@ -150,7 +148,7 @@ dei quesiti della prova preliminare
 
 5\. All'atto della nomina i componenti, anche aggregati, seguono un corso di specializzazione in docimologia e tecnica del test della durata di quindici giorni la cui organizzazione e' demandata al Consiglio superiore della magistratura, di intesa con il Ministro di grazia e giustizia. Nei successivi sei mesi, con cadenza mensile, sono organizzati corsi di approfondimento della durata di tre giorni.".
 
-#### Art. 5
+### Art. 5
 
 Regolamento per lo svolgimento della prova preliminare
 
@@ -182,7 +180,7 @@ i) previsione che, nell'attribuzione dei punteggi, le risposte siano valutate in
 
 l) determinazione dei meccanismi automatizzati e relativa gestione per l'espletamento della prova di preselezione.".
 
-#### Art. 6
+### Art. 6
 
 Requisiti per la ammissione al concorso
 
@@ -198,7 +196,7 @@ Se le domande di partecipazione al concorso presentate dai candidati di cui al s
 
 "Il Consiglio superiore della magistratura non ammette al concorso i candidati che, per le informazioni raccolte non risultano di condotta incensurabile ed i cui parenti, in linea retta entro il primo grado ed in linea collaterale entro il secondo, hanno riportato condanne per taluno dei delitti di cui all'articolo 407, comma 2, lettera a), dcl codice di procedura penale. Qualora non si provveda alla ammissione con riserva, il provvedimento di esclusione e' comunicato agli interessati almeno trenta giorni prima dello svolgimento della prova scritta.".
 
-#### Art. 7
+### Art. 7
 
 Indizione del concorso
 
@@ -210,7 +208,7 @@ Indizione del concorso
 
 3\. Il concorso e' bandito con decreto del Ministro di grazia e giustizia, previa delibera del Consiglio superiore della magistratura, che determina il numero dei posti, il luogo ed il giorno di svolgimento della prova preliminare e della prova scritta.".
 
-#### Art. 8
+### Art. 8
 
 Presentazione della domanda
 
@@ -222,7 +220,7 @@ Presentazione della domanda
 
 3\. I candidati aventi dimora fuori del territorio dello Stato possono presentare la domanda alla autorita' consolare competente o al procuratore della Repubblica di Roma.".
 
-#### Art. 9
+### Art. 9
 
 Commissione esaminatrice
 
@@ -244,7 +242,7 @@ Commissione esaminatrice
 
 8\. Le funzioni di segreteria della commissione sono esercitate da funzionari amministrativi di qualifica funzionale non inferiore alla ottava e sono coordinate da un magistrato addetto al Ministero di grazia e giustizia.".
 
-#### Art. 10
+### Art. 10
 
 Lavori della commissione
 
@@ -258,7 +256,7 @@ L'eventuale residuo periodo di congedo ordinario puo' essere goduto durante lo s
 
 3\. La mancata partecipazione, anche se giustificata, di un componente a due sedute della commissione, qualora cio' abbia causato il rinvio delle sedute stesse, puo' costituire motivo per la revoca della nomina da parte del Consiglio superiore della magistratura.".
 
-#### Art. 11
+### Art. 11
 
 Esclusione dai concorsi
 
@@ -266,7 +264,7 @@ Esclusione dai concorsi
 
 "Art. 126-bis (Esclusione dai concorsi) . - 1. Il Consiglio superiore della magistratura, sentito l'interessato, puo' escludere da uno o piu' successivi concorsi chi, durante lo svolgimento delle prove scritte di un concorso, e' stato espulso per comportamenti fraudolenti, diretti ad acquisire o ad utilizzare informazioni non consentite, o per comportamenti violenti che comunque abbiano turbato le operazioni del concorso.".
 
-#### Art. 12
+### Art. 12
 
 Titoli di preferenza
 
@@ -278,7 +276,7 @@ Entro cinque giorni dall'ultima seduta delle prove orali del concorso per uditor
 
 Sono nominati uditori giudiziari, con decreto ministeriale, i primi classificati entro il limite dei posti messi a concorso e di quelli aumentati ai sensi del comma che precede.".
 
-#### Art. 13
+### Art. 13
 
 Assunzione dei magistrati per concorso
 
@@ -288,7 +286,7 @@ Assunzione dei magistrati per concorso
 
 2\. Se il numero degli idonei e' superiore a quello dei posti messi a concorso, eventualmente aumentati di un decimo, la graduatoria formata dalla commissione esaminatrice e' pubblicata nel Bollettino ufficiale del Ministero di grazia e giustizia prima della trasmissione al Consiglio superiore della magistratura per la approvazione. Dalla pubblicazione decorre il termine di trenta giorni entro il quale gli interessati possono proporre reclamo. Entro lo stesso termine il Ministro di grazia e giustizia puo' formulare le proprie osservazioni. Nei successivi trenta giorni il Consiglio superiore della magistratura provvede su reclami e sulle osservazioni ed approva la graduatoria, anche modificandola.".
 
-#### Art. 14
+### Art. 14
 
 (( (Sottocommissioni). ))
 
@@ -302,17 +300,15 @@ Assunzione dei magistrati per concorso
 
 5\. Prima di procedere all'esame degli elaborati scritti ed allo svolgimento della prova orale, la commissione ne definisce i criteri di valutazione)).
 
-#### Art. 15
+### Art. 15
 
 Informazioni
 
 1\. Le autorita' alle quali sono trasmesse richieste di informazioni ai sensi dell'articolo 124, comma quinto, del regio decreto 30 gennaio 1941, n. 12, sono tenute a fornirle entro trenta giorni.
 
-## Capo II - Scuola di specializzazione
+## Capo II - Scuola di specializzazione per le professioni legali
 
-### per le professioni legali
-
-#### Art. 16
+### Art. 16
 
 Scuola di specializzazione per le professioni legali
 
@@ -342,11 +338,11 @@ Scuola di specializzazione per le professioni legali
 
 ## Capo III - Disposizioni transitorie e finali
 
-#### Art. 17
+### Art. 17
 
 ((ARTICOLO ABROGATO DALLA L. 13 FEBBRAIO 2001, N. 48))
 
-#### Art. 18
+### Art. 18
 
 Abrogazioni
 
@@ -364,11 +360,11 @@ e) l'articolo 12, comma secondo, del regio decreto 15 ottobre 1925, n. 1860, com
 
 f) l'articolo 4, primo comma, del regio decreto 15 ottobre 1925, n. 1860.
 
-#### Art. 19
+### Art. 19
 
 ((ARTICOLO ABROGATO DALLA L. 13 FEBBRAIO 2001, N. 48))
 
-#### Art. 20
+### Art. 20
 
 Norme applicabili al concorso per uditore giudiziario
 

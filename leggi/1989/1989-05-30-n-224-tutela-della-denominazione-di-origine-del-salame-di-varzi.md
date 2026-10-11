@@ -30,11 +30,9 @@ PROMULGA
 
 la seguente legge:
 
-## Capo I - DELLA DENOMINAZIONE DI ORIGINE, DELLA CORRISPONDENTE
+## Capo I - DELLA DENOMINAZIONE DI ORIGINE, DELLA CORRISPONDENTE ZONA DI PRODUZIONE E DELLE CARATTERISTICHE MERCEOLOGICHE.
 
-### ZONA DI PRODUZIONE E DELLE CARATTERISTICHE MERCEOLOGICHE.
-
-#### Art. 1
+### Art. 1
 
 Denominazione del prodotto
 
@@ -42,7 +40,7 @@ Denominazione del prodotto
 
 2\. Le caratteristiche organolettiche e merceologiche dipendono da particolari metodi della tecnica di produzione e dalle condizioni proprie dell'ambiente di produzione.
 
-#### Art. 2
+### Art. 2
 
 Prescrizioni relative alle carni utilizzate
 
@@ -54,7 +52,7 @@ b) che, dopo il periodo di finissaggio, alimentati cioe' negli ultimi tre mesi s
 
 c) abbattuti e perfettamente dissanguati presso il singolo produttore o comunque nella zona di produzione del "Salame di Varzi" previa una sosta di almeno dodici ore e tenuti completamente a digiuno.
 
-#### Art. 3
+### Art. 3
 
 Prescrizioni produttive
 
@@ -72,13 +70,13 @@ Prescrizioni produttive
 
 7\. La miscela di salagione deve essere costituita da: sale marino, sodio, nitrato e/o sodio nitrito per quanto consentito, pepe nero solo in grani, infuso di aglio e vino rosso filtrato.
 
-#### Art. 4
+### Art. 4
 
 Asciugatura e stagionatura
 
 1\. L'asciugatura e la stagionatura devono avvenire in locali convenientemente aerati, con opportune attrezzature e tecniche, in funzione delle caratteristiche climatiche e dell'orientamento. Il periodo minimo di stagionatura varia in funzione della pezzatura del prodotto.
 
-#### Art. 5
+### Art. 5
 
 Caratteristiche merceologiche
 
@@ -102,7 +100,7 @@ d) il sapore dolce e delicato, l'aroma fragrante e caratteristico, strettamente 
 
 ## Capo II - DEL CONTROLLO DELLA PRODUZIONE
 
-#### Art. 6
+### Art. 6
 
 Contrassegno e sigillo
 
@@ -110,7 +108,7 @@ Contrassegno e sigillo
 
 2\. I salami, subito dopo l'insaccatura, durante la legatura prima dell'asciugatura, devono essere muniti di sigillo atto a garantire la loro corrispondenza a quanto previsto dalla presente legge.
 
-#### Art. 7
+### Art. 7
 
 Obbligo di assoggettamento a controllo
 
@@ -120,7 +118,7 @@ Obbligo di assoggettamento a controllo
 
 ## Capo III - VIGILANZA E CONSORZI VOLONTARI
 
-#### Art. 8
+### Art. 8
 
 Norme di esecuzione
 
@@ -144,29 +142,27 @@ f) le modalita' per la costituzione di un consorzio volontario tra i produttori 
 
 3\) offrire la necessaria garanzia organizzativa e finanziaria per un'efficace attuazione dei compiti di vigilanza. Eventuali modificazioni allo statuto del consorzio sono preventivamente approvate con atto del Ministro dell'industria, del commercio e dell'artigianato, di concerto con il Ministro della sanita' e con il Ministro dell'agricoltura e delle foreste. Il controllo sul finanziamento del consorzio stesso spetta, per quanto di competenza, ai su richiamati Ministri.
 
-## Capo IV - DISPOSIZIONI CONTRO LE FRODI
+## Capo IV - DISPOSIZIONI CONTRO LE FRODI E LA SLEALE CONCORRENZA
 
-### E LA SLEALE CONCORRENZA
-
-#### Art. 9
+### Art. 9
 
 Sanzioni a tutela dell'originalita' del prodotto
 
 1\. La produzione e la commercializzazione sotto la denominazione di cui all'articolo 1 di salami i quali non abbiano i requisiti e le caratteristiche prescritti dalla presente legge sono puniti a norma delle vigenti leggi contro le frodi. A norma delle medesime leggi sono altresi' puniti l'uso della predetta denominazione accompagnata da qualificativi di qualsiasi genere che costituiscano deformazioni della denominazione stessa nonche' l'uso di indicazioni atte a trarre in inganno l'acquirente.
 
-#### Art. 10
+### Art. 10
 
 Sanzioni relative al sigillo e al contrassegno
 
 1\. La contraffazione, l'alterazione e l'uso illecito dei sigilli e dei contrassegni di cui al precedente articolo 6 vengono puniti come previsto dal precedente articolo 9.
 
-#### Art. 11
+### Art. 11
 
 Sanzione relativa ai controlli e alla documentazione
 
 1\. Qualsiasi impedimento all'effettuazione delle verifiche di cui al precedente articolo 7 e la tenuta di una falsa documentazione sono puniti con una multa da due a cinque milioni di lire.
 
-#### Art. 12
+### Art. 12
 
 Entrata in vigore
 

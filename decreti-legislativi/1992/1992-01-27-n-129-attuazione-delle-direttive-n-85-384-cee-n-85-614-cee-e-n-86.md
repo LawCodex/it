@@ -40,13 +40,13 @@ il seguente decreto legislativo:
 
 ## Titolo I - DISPOSIZIONI GENERALI
 
-#### Art. 1
+### Art. 1
 
 (( (Ambito di applicazione) ))
 
 ((1. Il presente decreto disciplina il riconoscimento dei diplomi, certificati e altri titoli rilasciati a cittadini di uno Stato membro dell'Unione europea o di uno degli altri Stati aderenti all'Accordo sullo spazio economico europeo per l'accesso o l'esercizio in Italia dell'attivita' di architetto a titolo permanente o con carattere di temporaneita')).
 
-#### Art. 2
+### Art. 2
 
 Condizioni del riconoscimento
 
@@ -90,7 +90,7 @@ m) una conoscenza adeguata delle industrie, organizzazioni, regolamentazioni e p
 
 ((2-quinquies-bis. Sono, altresi', ammessi alla procedura di riconoscimento di cui all'articolo 4, formazioni di cui al comma 2, acquisite nell'ambito di un sistema di promozione sociale o di studi universitari a tempo ridotto, sancite da un esame di architettura, di livello universitario ed equivalente all'esame di cui al comma 1, lettera b), superato con successo da persone che lavorano da sette o piu' anni nel settore dell'architettura sotto la sorveglianza di un architetto o di uno studio di architetti.))
 
-#### Art. 3
+### Art. 3
 
 Effetti del riconoscimento
 
@@ -98,7 +98,7 @@ Effetti del riconoscimento
 
 2\. Il riconoscimento attribuisce il diritto di far uso del titolo di Architetto secondo la legge italiana e consente di far uso del titolo riconosciuto e della relativa abbreviazione, secondo la legge dello Stato membro di origine o di provenienza e nella lingua di questi.
 
-#### Art. 4 - Competenze e procedimento
+### Art. 4 - Competenze e procedimento
 
 1\. I soggetti di cui all'articolo 1 devono presentare al Ministero dell'istruzione, dell'universita' e della ricerca domanda per il riconoscimento del proprio titolo ai fini dell'ammissione all'esercizio dell'attivita' di architetto nel territorio della Repubblica italiana.
 
@@ -138,7 +138,7 @@ d) il Consiglio nazionale degli architetti, pianificatori, paesaggisti e conserv
 
 ## Titolo II - DISPOSIZIONI RELATIVE AL DIRITTO DI STABILIMENTO
 
-#### Art. 5
+### Art. 5
 
 Ammissione alla professione di architetto
 
@@ -154,7 +154,7 @@ c) hanno residenza o domicilio in Italia.
 
 3\. L'iscrizione comporta il godimento dei diritti e l'osservanza degli obblighi previsti dall'ordinamento professionale.
 
-#### Art. 6
+### Art. 6
 
 Ammissione all'esercizio della professione
 
@@ -162,23 +162,21 @@ delle persone distintesi nell'ambito dell'architettura
 
 1\. Sono ammessi altresi' all'esercizio dell'attivita' nel settore dell'architettura con l'uso del relativo titolo e sono iscritti all'albo degli architetti, ai sensi dell'art. 5, i cittadini di uno Stato membro delle Comunita' europee autorizzati a servirsi di tale titolo in applicazione d'una disposizione legislativa, che conferisce all'autorita' competente d'uno Stato membro la facolta' di attribuire questo titolo ai cittadini degli Stati membri, che si siano particolarmente distinti per la qualita' delle loro realizzazioni nel campo dell'architettura.
 
-#### Art. 7
+### Art. 7
 
 Iscrizione in albi di altri Stati membri
 
 1\. I cittadini degli Stati membri delle Comunita' europee, gia' iscritti in un albo dell'ordine degli architetti o dell'ordine degli ingegneri, che siano abilitati all'esercizio delle attivita' disciplinate dal presente decreto e si siano stabiliti in altro Stato membro ai fini dell'esercizio di dette attivita', possono, a domanda, conservare l'iscrizione nell'albo italiano di precedente appartenenza.
 
-#### Art. 8
+### Art. 8
 
 Esercizio d'attivita' professionale in forma dipendente
 
 1\. Le precedenti disposizioni, relative al diritto di stabilimento, si applicano anche ai cittadini degli Stati membri delle Comunita' europee, che intendono svolgere l'attivita' professionale di architetto in qualita' di lavoratore dipendente.
 
-## Titolo III - DISPOSIZIONI RELATIVE
+## Titolo III - DISPOSIZIONI RELATIVE ALLA LIBERA PRESTAZIONE DEI SERVIZI
 
-### ALLA LIBERA PRESTAZIONE DEI SERVIZI
-
-#### Art. 9
+### Art. 9
 
 (( (Ammissione alla prestazione di servizi) ))
 
@@ -192,7 +190,7 @@ b) esercitano legalmente l'attivita' relativa al settore dell'architettura nello
 
 3\. Ai cittadini di cui all'articolo 1, iscritti nel registro, si applicano le disposizioni relative al godimento dei diritti ed alla osservanza degli obblighi previsti dall'ordinamento professionale in quanto compatibili.))
 
-#### Art. 9-bis
+### Art. 9-bis
 
 (( (Esercizio della professione
 
@@ -202,7 +200,7 @@ di architetto in altri Stati membri) ))
 
 ## Titolo IV - DISPOSIZIONI FINALI E TRANSITORIE
 
-#### Art. 10
+### Art. 10
 
 Servizi di informazione
 
@@ -210,7 +208,7 @@ Servizi di informazione
 
 2\. Gli ordini possono attivare corsi, con oneri a carico degli interessati, per fornire loro le conoscenze linguistiche necessarie all'esercizio dell'attivita' professionale.
 
-#### Art. 11
+### Art. 11
 
 (( (Norme transitorie) ))
 
@@ -226,7 +224,7 @@ d) gli attestati, rilasciati negli altri Stati membri dell'Unione europea, sulla
 
 e) gli attestati rilasciati dalle autorita' competenti della Repubblica Federale di Germania che sanzionano la relativa equivalenza dei titoli di formazione rilasciati, a decorrere dall'8 maggio 1945, dalle autorita' competenti della Repubblica democratica tedesca, con i titoli elencati all'allegato A. ))
 
-#### Art. 12
+### Art. 12
 
 Regolamento
 
@@ -254,7 +252,7 @@ Visto, il Guardasigilli: MARTELLI
 
 ## Titolo IV - DISPOSIZIONI FINALI E TRANSITORIE
 
-#### Allegato A
+### Allegato A
 
 Allegato A
 

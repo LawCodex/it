@@ -44,9 +44,7 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro della gi
 
 Emana il seguente decreto legislativo:
 
-## Titolo I
-
-### DISPOSIZIONI GENERALI
+## Titolo I - DISPOSIZIONI GENERALI
 
 #### Art. 1
 
@@ -402,7 +400,7 @@ Responsabilita' dello Stato derivante dall'esecuzione del provvedimento di blocc
 
 2\. Gli importi di denaro ottenuti a titolo di rimborso affluiscono, previo versamento all'entrata del bilancio dello Stato, al Fondo unico giustizia, di cui all'articolo 61, comma 23, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e successive modificazioni.
 
-## Capo II - ((Procedura attiva di riconoscimento ed esecuzione dei provvedimenti di blocco e di sequestro))
+### Capo II - ((Procedura attiva di riconoscimento ed esecuzione dei provvedimenti di blocco e di sequestro))
 
 #### Art. 11
 
@@ -422,7 +420,7 @@ Trasmissione diretta. Certificato relativo alle informazioni contenute nel provv
 
 4\. Il provvedimento di blocco o di sequestro e' trasmesso, unitamente ad un certificato, redatto secondo il formulario allegato al presente decreto e tradotto dalla lingua italiana nella lingua ufficiale o in una delle lingue ufficiali dello Stato di esecuzione, con cui la medesima autorita' attesta l'esattezza delle informazioni contenute nel provvedimento.
 
-## Capo III - Disposizioni finali
+### Capo III - Disposizioni finali
 
 #### Art. 13
 

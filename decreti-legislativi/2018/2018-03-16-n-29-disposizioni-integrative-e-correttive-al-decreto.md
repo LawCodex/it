@@ -52,11 +52,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Spesa
 
-### Spesa
-
-#### Art. 1
+### Art. 1
 
 Impegno e pagamento
 
@@ -250,7 +248,7 @@ b) dopo il comma 4, e' inserito il seguente: «4-bis. I termini di cui ai commi 
 
 > (Omissis).».
 
-#### Art. 2
+### Art. 2
 
 Riforma dei controlli di regolarita' amministrativa e contabile
 
@@ -302,7 +300,7 @@ e) dopo l'articolo 14 e' inserito il seguente:
 
 3\. Il secondo periodo dell'articolo 2, comma 2-octies, del decreto-legge 29 dicembre 2010, n. 225, convertito, con modificazioni, dalla legge 26 febbraio 2011, n. 10, e' sostituito dal seguente: "I rendiconti sono trasmessi al Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato, per il controllo di regolarita' contabile esercitato, attraverso il sistema delle ragionerie ai sensi dell'articolo 3 del decreto legislativo 30 giugno 2011, n. 123, nelle modalita' stabilite con decreto del Ministro dell'economia e delle finanze, e per il successivo inoltro alla Presidenza del Consiglio dei ministri, all'ISTAT e alla competente sezione regionale della Corte dei conti.".
 
-#### Art. 3
+### Art. 3
 
 Spesa decentrata agli Uffici periferici
 
@@ -316,7 +314,7 @@ delle amministrazioni Statali
 
 3\. Gli Uffici periferici assegnatari delle risorse provvedono all'assunzione degli impegni ai sensi dell'articolo 34 e all'ordinazione delle spese; gli stessi, qualora ne ravvisino la necessita', emettono ordini di accreditamento in favore di funzionari delegati preposti alle eventuali ulteriori articolazioni periferiche dell'Amministrazione.".
 
-#### Art. 4
+### Art. 4
 
 Gestione delle spese
 
@@ -342,7 +340,7 @@ Gestione delle spese
 
 > (Omissis).».
 
-#### Art. 5
+### Art. 5
 
 Abrogazioni e disposizioni finali
 
@@ -368,11 +366,9 @@ d) la legge 17 agosto 1960, n. 908.
 
 > \- Il testo della legge 17 agosto 1960, n. 908 (Estensione alle amministrazioni periferiche dello Stato della possibilita' di utilizzare talune forme di pagamenti gia' esclusive dell'amministrazione centrale), abrogata dal presente decreto a decorrere dal 1° gennaio 2019, e' pubblicato nella Gazzetta Ufficiale 31 agosto 1962, n. 212.
 
-## Capo II
+## Capo II - Entrata
 
-### Entrata
-
-#### Art. 6
+### Art. 6
 
 Accertamento qualificato
 

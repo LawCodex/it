@@ -120,9 +120,7 @@ I sottufficiali, ad eccezione di quelli in congedo assoluto, sono iscritti, in o
 
 ## TITOLO II - Sottufficiali in servizio permanente
 
-### CAPO I
-
-#### Disposizioni generali.
+### CAPO I - Disposizioni generali.
 
 ##### Art. 13
 
@@ -140,7 +138,7 @@ aspettativa;
 
 sospensione dall'impiego.
 
-## CAPO II - Servizio effettivo, aspettativa, sospensione dall'impiego.
+### CAPO II - Servizio effettivo, aspettativa, sospensione dall'impiego.
 
 ##### Art. 15
 
@@ -228,7 +226,7 @@ Al sottufficiale sospeso dall'impiego compete soltanto la meta' dello stipendio 
 
 Agli effetti della pensione, il tempo trascorso dal sottufficiale in sospensione dall'impiego e' computato per meta'.
 
-## CAPO III - Cessazione dal servizio permanente.
+### CAPO III - Cessazione dal servizio permanente.
 
 ##### Art. 25
 
@@ -422,9 +420,7 @@ Il sottufficiale che al termine della ferma volontaria o della rafferma contrae 
 
 ## TITOLO IV - Sottufficiali in congedo
 
-### CAPO I
-
-#### Disposizioni generali.
+### CAPO I - Disposizioni generali.
 
 ##### Art. 43
 
@@ -462,7 +458,7 @@ La sospensione dalle attribuzioni del grado, precauzionale e disciplinare, regol
 
 La condanna a pena detentiva per tempo non inferiore a un mese, salvi i casi in cui importi la pena accessoria della sospensione dal grado ai sensi della legge penale militare, ha per effetto la sospensione delle attribuzioni del grado durante la espiazione della pena.
 
-## CAPO II - Sottufficiali della riserva.
+### CAPO II - Sottufficiali della riserva.
 
 ##### Art. 48
 
@@ -480,7 +476,7 @@ Il sottufficiale cessa di appartenere alla categoria della riserva ed e' colloca
 
 Il sottufficiale e' collocato in congedo assoluto anche prima dell'eta' indicata nel comma precedente quando sia riconosciuto permanentemente inabile al servizio militare.
 
-## CAPO III - Sottufficiali di complemento.
+### CAPO III - Sottufficiali di complemento.
 
 ##### Art. 51
 
@@ -596,9 +592,7 @@ La reintegrazione nel grado del sottufficiale gia' in servizio permanente non im
 
 ## TITOLO VIII - Disciplina
 
-### CAPO I
-
-#### Sanzioni disciplinari di stato.
+### CAPO I - Sanzioni disciplinari di stato.
 
 ##### Art. 61
 
@@ -612,9 +606,9 @@ c) la sospensione disciplinare dalle attribuzioni del grado prevista dall'art. 4
 
 d) la perdita del grado per rimozione, di cui all'art. 58, comma primo, n. 6.
 
-## CAPO II - Procedimento disciplinare.
+### CAPO II - Procedimento disciplinare.
 
-### Sezione I - Inchiesta formale
+#### Sezione I - Inchiesta formale
 
 ##### Art. 62
 
@@ -634,7 +628,7 @@ Il Ministro puo', in ogni caso, per qualsiasi sottufficiale ordinare direttament
 
 L'autorita' che ha disposto l'inchesta formale qualora, in base alle risultanze di essa, ritenga che al sottufficiale sia da infliggere una delle sanzioni indicate dall'art. 61, dispone il deferimento alla Commissione di disciplina.
 
-## Sezione II - Commissione provinciale di disciplina
+#### Sezione II - Commissione provinciale di disciplina
 
 ##### Art. 65
 
@@ -722,7 +716,7 @@ In caso di corresponsabilita' tra ufficiali e sottufficiali per fatti che config
 
 Il Ministro fino a quando non sia convocato il consiglio di disciplina puo' ordinare per ragioni di convenienza la separazione dei procedimenti.
 
-## Sezione III - Disposizioni particolari ai sottufficiali - residenti all'estero e per il tempo di guerra
+#### Sezione III - Disposizioni particolari ai sottufficiali - residenti all'estero e per il tempo di guerra
 
 ##### Art. 73
 
@@ -734,11 +728,9 @@ Il sottufficiale deferito a Commissione di disciplina, che sia residente all'est
 
 In tempo di guerra nel caso di sottufficiale inquadrato in unita' di altra Forza armata, il comandante di tale unita' dispone l'inchiesta formale, adotta le decisioni conseguenti alla inchiesta stessa e trasmette gli atti al Ministero dell'interno per i provvedimenti di competenza.
 
-## TITOLO IX - Avanzamento dei sottufficiali in servizio permanente od in ferma
+## TITOLO IX - Avanzamento dei sottufficiali in servizio permanente od in ferma volontaria o in rafferma
 
-### volontaria o in rafferma
-
-#### CAPO I - Disposizioni generali.
+### CAPO I - Disposizioni generali.
 
 ##### Art. 75
 
@@ -748,9 +740,9 @@ Per il conferimento del grado di vicebrigadiere e per l'avanzamento ai gradi sup
 
 Aver disimpegnato bene le funzioni del proprio grado e' condizione indispensabile ma non sufficiente per l'avanzamento al grado superiore.
 
-## CAPO II - Conferimento del grado di vicebrigadiere.
+### CAPO II - Conferimento del grado di vicebrigadiere.
 
-### Sezione I - Disposizioni generali
+#### Sezione I - Disposizioni generali
 
 ##### Art. 76
 
@@ -772,7 +764,7 @@ Il concorso e l'esame d'idoneita' di cui all'art. 76 sono indetti con decreto Mi
 
 Il termine per la presentazione delle domande non puo' essere inferiore a trenta giorni dalla data di pubblicazione del decreto.
 
-## SEZIONE II. - Concorso per esami
+#### SEZIONE II. - Concorso per esami
 
 ##### Art. 78
 
@@ -874,7 +866,7 @@ Il Ministro, riconosciuta la regolarita' del procedimento, con proprio decreto a
 
 La nomina e' conferita secondo l'ordine della graduatoria e con decorrenza dalla data del decreto, salvo quanto previsto dal successivo art. 110.
 
-## SEZIONE III - Esame di idoneita'
+#### SEZIONE III - Esame di idoneita'
 
 ##### Art. 87
 
@@ -920,7 +912,7 @@ La nomina conseguente all'esame di idoneita' e la promozione attribuita per scru
 
 I vicebrigadieri nominati ai sensi dell'articolo 86, precedono in ruolo i nominati per esame di idoneita' i quali, a loro volta, precedono i promossi per anzianita' congiunta al merito)).
 
-## CAPO III - Avanzamento al grado di brigadiere.
+### CAPO III - Avanzamento al grado di brigadiere.
 
 ##### Art. 90
 
@@ -930,9 +922,9 @@ All'avanzamento sono ammessi i vicebrigadieri in possesso dei requisiti previsti
 
 La promozione e' conferita con decreto del Ministro, previo giudizio di idoneita' della Commissione di avanzamento di cui all'art. 112.
 
-## CAPO IV - Avanzamento ai gradi di maresciallo
+### CAPO IV - Avanzamento ai gradi di maresciallo
 
-### SEZIONE I - Avanzamento al grado di maresciallo di 3ª classe
+#### SEZIONE I - Avanzamento al grado di maresciallo di 3ª classe
 
 ##### Art. 91
 
@@ -1102,9 +1094,7 @@ Il sottufficiale in congedo, che sia giudicato idoneo, puo' essere promosso solo
 
 Non costituisce ostacolo alla promozione del sottufficiale in congedo l'esistenza, nel servizio permanente o nella rafferma, di pari grado non idonei all'avanzamento o per i quali sia stata sospesa la promozione.
 
-## TITOLO XI - Avanzamento per merito straordinario
-
-### e promozione per merito di guerra.
+## TITOLO XI - Avanzamento per merito straordinario e promozione per merito di guerra.
 
 ##### Art. 104
 
@@ -1162,9 +1152,7 @@ La promozione del militare reduce dalla prigionia e' disposta attribuendogli l'a
 
 Qualora, con l'anzianita' come sopra stabilita abbia titolo ad ulteriore, promozione, il militare, se giudicato idoneo, puo' ottenere tale promozione solo e dopo trascorsi sei mesi nel nuovo grado, conseguendo l'anzianita' che gli sarebbe spettata se fosse stato promosso a suo turno, ai soli effetti giuridici.
 
-## TITOLO XIII - Sospensione o esclusione dal conferimento del grado o dalla
-
-### promozione.
+## TITOLO XIII - Sospensione o esclusione dal conferimento del grado o dalla promozione.
 
 ##### Art. 109
 

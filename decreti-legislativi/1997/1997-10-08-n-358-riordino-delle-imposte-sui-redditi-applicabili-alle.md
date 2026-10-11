@@ -38,11 +38,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I - DISPOSIZIONI IN MATERIA DI OPERAZIONI
+## Capo I - DISPOSIZIONI IN MATERIA DI OPERAZIONI DI RIORGANIZZAZIONE DELLE ATTIVITA' PRODUTTIVE
 
-### DI RIORGANIZZAZIONE DELLE ATTIVITA' PRODUTTIVE
-
-#### Art. 1
+### Art. 1
 
 ARTICOLO ABROGATO DAL D.LGS. 12 DICEMBRE 2003, N. 344 (3) ((4))
 
@@ -60,7 +58,7 @@ Il D.Lgs. 12 dicembre 2003, n. 344, come modificato dal D.Lgs. 18 novembre 2005,
 
 Inoltre, il D.Lgs. 18 novembre 2005, n. 247 ha disposto (con l'art. 18, comma 6) che l'abrogazione si applica alle operazioni effettuate nel periodo d'imposta in corso al 1° gennaio 2004 e a partire da quest'ultima data.
 
-#### Art. 2
+### Art. 2
 
 ARTICOLO ABROGATO DAL D.LGS. 12 DICEMBRE 2003, N. 344 (3) ((4))
 
@@ -78,7 +76,7 @@ Il D.Lgs. 12 dicembre 2003, n. 344, come modificato dal D.Lgs. 18 novembre 2005,
 
 Inoltre, il D.Lgs. 18 novembre 2005, n. 247 ha disposto (con l'art. 18, comma 6) che l'abrogazione si applica alle operazioni effettuate nel periodo d'imposta in corso al 1° gennaio 2004 e a partire da quest'ultima data.
 
-#### Art. 3
+### Art. 3
 
 Conferimenti di aziende o di partecipazioni
 
@@ -102,7 +100,7 @@ AGGIORNAMENTO (4)
 
 Il D.Lgs. 12 dicembre 2003, n. 344, come modificato dal D.Lgs. 18 novembre 2005, n. 247, ha disposto (con l'art. 3, comma 2) l'abrogazione dei soli artt. 1, 2 e 6 del presente decreto, con conseguente ripristino del presente articolo.
 
-#### Art. 4
+### Art. 4
 
 Regimi fiscali del soggetto conferente
 
@@ -122,7 +120,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 12 dicembre 2003, n. 344 ha disposto (con l'art. 3, comma 2) che il presente articolo e' abrogato con riguardo alle cessioni e ai conferimenti effettuati nonche' alle operazioni di fusione e scissione perfezionate dopo il 31 dicembre 2003.
 
-#### Art. 5
+### Art. 5
 
 Scambi di partecipazioni
 
@@ -144,7 +142,7 @@ AGGIORNAMENTO (4)
 
 Il D.Lgs. 12 dicembre 2003, n. 344, come modificato dal D.Lgs. 18 novembre 2005, n. 247, ha disposto (con l'art. 3, comma 2) l'abrogazione dei soli artt. 1, 2 e 6 del presente decreto, con conseguente ripristino del presente articolo.
 
-#### Art. 6
+### Art. 6
 
 ARTICOLO ABROGATO DAL D.LGS. 12 DICEMBRE 2003, N. 344 (3) ((4))
 
@@ -162,11 +160,9 @@ Il D.Lgs. 12 dicembre 2003, n. 344, come modificato dal D.Lgs. 18 novembre 2005,
 
 Inoltre, il D.Lgs. 18 novembre 2005, n. 247 ha disposto (con l'art. 18, comma 6) che l'abrogazione si applica alle operazioni effettuate nel periodo d'imposta in corso al 1° gennaio 2004 e a partire da quest'ultima data.
 
-## Capo II - DISPOSIZIONI IN MATERIA
+## Capo II - DISPOSIZIONI IN MATERIA DI COMPORTAMENTI ELUSIVI
 
-### DI COMPORTAMENTI ELUSIVI
-
-#### Art. 7
+### Art. 7
 
 Individuazione di operazioni di natura elusiva
 
@@ -272,7 +268,7 @@ L'amministrazione procede al rimborso dopo che l'accertamento, nei confronti del
 
 > \- Si riporta il testo dell'art. 21, comma 2, come modificato dal presente articolo, della legge 30 dicembre 1991, n. 413, recante: "Disposizioni per ampliare le basi imponibili, per razionalizzare, facilitare e potenziare l'attivita' di accertamento; disposizioni per la rivalutazione obbligatoria dei beni immobili delle imprese, nonche' per riformare il contenzioso e per la definizione agevolata dei rapporti tributari pendenti; delega al Presidente della Repubblica per la concessione di amnistia per reati tributari; istituzioni dei centri di assistenza fiscale e del conto fiscale": "2. La richiesta di parere deve riguardare l'applicazione, ai casi concreti rappresentati dal contribuente, delle disposizioni contenute negli articoli 37, terzo comma e 37-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e successive modificazioni. La richiesta di parere puo' altresi' riguardare, ai fini dell'applicazione dell'art. 74, comma 2, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, la qualificazione di determinate spese, sostenute dal contribuente, tra quelle di pubblicita' e di propaganda ovvero tra quelle di rappresentanza".
 
-#### Art. 8
+### Art. 8
 
 Limitazioni al riporto delle perdite
 
@@ -336,7 +332,7 @@ b) le partecipazioni siano relative a societa' che nel biennio precedente a quel
 
 ## Capo III - DISCIPLINA TRANSITORIA E DI ATTUAZIONE
 
-#### Art. 9
+### Art. 9
 
 Decorrenza e disposizioni attuative
 

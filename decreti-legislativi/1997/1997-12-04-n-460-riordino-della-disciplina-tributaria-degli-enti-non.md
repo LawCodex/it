@@ -42,11 +42,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Sezione I - Modifiche alla disciplina degli enti non commerciali in materia di
+## Sezione I - Modifiche alla disciplina degli enti non commerciali in materia di imposte sul reddito e di imposta sul valore aggiunto.
 
-### imposte sul reddito e di imposta sul valore aggiunto.
-
-#### Art. 1
+### Art. 1
 
 Qualificazione degli enti e determinazione dei criteri per individuarne l'oggetto esclusivo o principale di attivita'.
 
@@ -152,7 +150,7 @@ Qualificazione degli enti e determinazione dei criteri per individuarne l'oggett
 
 > 4-bis. In mancanza dell'atto costitutivo o dello statuto nelle predette forme, l'oggetto principale dell'ente residente e' determinato in base all'attivita' effettivamente esercitata nel territorio dello Stato; tale disposizione si applica in ogni caso agli enti non residenti.
 
-#### Art. 2
+### Art. 2
 
 Occasionali raccolte pubbliche di fondi e contributi
 
@@ -228,7 +226,7 @@ b) i contributi corrisposti da amministrazioni pubbliche ai predetti enti per lo
 
 > e) previsione di decreti ministeriali di natura non regolamentare per la definizione dei compiti delle unita' dirigenziali nell'ambito degli uffici dirigenziali generali".
 
-#### Art. 3
+### Art. 3
 
 Determinazione dei redditi e contabilita' separata
 
@@ -272,7 +270,7 @@ b) il comma 4-bis e' sostituito dal seguente:
 
 > 3-bis. Per i beni strumentali dell'impresa individuale provenienti dal patrimonio personale dell'imprenditore e' riconosciuto, ai fini fiscali, il costo determinato in base alle disposizioni di cui al D.P.R. 23 dicembre 1974, n. 689, da iscrivere tra le attivita' relative all'impresa nell'inventario di cui all'art. 2217 del codice civile ovvero, per le imprese di cui all'art. 79, nel registro dei cespiti ammortizzabili. Le relative quote di ammortamento sono calcolate a decorrere dall'esercizio in corso alla data dell'iscrizione".
 
-#### Art. 4
+### Art. 4
 
 Regime forfetario di determinazione del reddito
 
@@ -404,7 +402,7 @@ b) altre attivita':
 
 > I soggetti che intraprendono l'esercizio di una impresa, arte o professione, se ritengono di realizzare un volume di affari che comporti l'applicazione degli articoli 32, 33 e 34, terzo comma, devono indicarlo nella dichiarazione da presentare a norma del primo comma e devono osservare la disciplina rispettivamente stabilita".
 
-#### Art. 5
+### Art. 5
 
 Enti di tipo associativo
 
@@ -468,7 +466,7 @@ Le disposizioni di cui alle lettere c) ed e) del settimo comma non si applicano 
 
 4\. Per le associazioni politiche, sindacali e di categoria, il termine di cui al comma 3 e' di dodici mesi dalla data di entrata in vigore del presente decreto.
 
-#### Art. 6
+### Art. 6
 
 Perdita della qualifica di ente non commerciale
 
@@ -512,7 +510,7 @@ d) prevalenza delle componenti negative inerenti all'attivita' commerciale rispe
 
 > \- Il testo dell'art. 4 del D.P.R. n. 633 del 1972 e' riportato in nota all'art. 5.
 
-#### Art. 7
+### Art. 7
 
 Enti non commerciali non residenti
 
@@ -522,7 +520,7 @@ Enti non commerciali non residenti
 
 > \- Il testo dell'art. 114 del TUIR, come modificato dal presente decreto, e' riportato in nota all'art. 13.
 
-#### Art. 8
+### Art. 8
 
 Scritture contabili degli enti non commerciali
 
@@ -576,7 +574,7 @@ Gli enti soggetti alla determinazione forfetaria del reddito ai sensi del comma 
 
 > c) conservare, ai sensi dell'art. 22 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, la documentazione degli altri costi di cui si intenda effettuare la deduzione ai fini delle imposte sui redditi".
 
-#### Art. 9
+### Art. 9
 
 Agevolazioni temporanee per il trasferimento
 
@@ -588,11 +586,9 @@ di beni patrimoniali
 
 3\. Con decreto del Ministro delle finanze, da pubblicare nella Gazzetta Ufficiale entro sessanta giorni dalla data di entrata in vigore del presente decreto, sono stabilite le modalita' di presentazione della dichiarazione di opzione e di versamento delle imposte sostitutive previste ai commi 1 e 2.
 
-## Sezione II - Disposizioni riguardanti le organizzazioni
+## Sezione II - Disposizioni riguardanti le organizzazioni non lucrative di utilita' sociale
 
-### non lucrative di utilita' sociale
-
-#### Art. 10
+### Art. 10
 
 Organizzazioni non lucrative di utilita' sociale
 
@@ -688,7 +684,7 @@ Il D.Lgs. 3 luglio 2017, n. 117, ha disposto (con l'art. 102, comma 2, lettera a
 
 a) gli articoli da 10 a 29 del decreto legislativo 4 dicembre 1997, n. 460, fatto salvo l'articolo 13, commi 2, 3 e 4".
 
-#### Art. 11
+### Art. 11
 
 Anagrafe delle ONLUS e decadenza dalle agevolazioni
 
@@ -716,7 +712,7 @@ AGGIORNAMENTO (10)
 
 Il Decreto 15 settembre 2020 (in G.U. 21/10/2020, n. 261) ha disposto (con l'art. 38, comma 3) che "L'Anagrafe unica delle Onlus di cui all'art. 11 del decreto legislativo 4 dicembre 1997, n. 460 viene soppressa a decorrere dal termine di cui all'art. 104, comma 2, del decreto legislativo 3 luglio 2017, n. 117, ai sensi di quanto disposto dall'art. 102, comma 2, lettera a) del medesimo decreto legislativo 3 luglio 2017, n. 117. Le procedure di iscrizione all'anagrafe unica delle ONLUS cessano, ai sensi dell'art. 101, comma 2, del decreto legislativo n. 117 del 2017, alla data del giorno antecedente al termine di cui all'art. 30, fatta eccezione per i procedimenti di iscrizione e cancellazione pendenti a tale data".
 
-#### Art. 12
+### Art. 12
 
 Agevolazioni ai fini delle imposte sui redditi
 
@@ -740,7 +736,7 @@ Il D.Lgs. 3 luglio 2017, n. 117, ha disposto (con l'art. 102, comma 2, lettera a
 
 a) gli articoli da 10 a 29 del decreto legislativo 4 dicembre 1997, n. 460, fatto salvo l'articolo 13, commi 2, 3 e 4".
 
-#### Art. 13
+### Art. 13
 
 Erogazioni liberali
 
@@ -790,7 +786,7 @@ a) gli articoli da 10 a 29 del decreto legislativo 4 dicembre 1997, n. 460, fatt
 
 Il D.Lgs. 3 luglio 2017, n. 117, nel modificare l'art. 16, comma 5, lettera a) della L. 19 agosto 2016, n. 166, ha conseguentemente disposto (con l'art. 104, comma 2) che "Le disposizioni del titolo X, salvo quanto previsto dal comma 1, si applicano agli enti iscritti nel Registro unico nazionale del Terzo settore a decorrere dal periodo di imposta successivo all'autorizzazione della Commissione europea di cui all'articolo 101, comma 10, e, comunque, non prima del periodo di imposta successivo di operativita' del predetto Registro".
 
-#### Art. 14
+### Art. 14
 
 Disposizioni relative all'imposta sul valore aggiunto
 
@@ -826,7 +822,7 @@ Il D.Lgs. 3 luglio 2017, n. 117, ha disposto (con l'art. 102, comma 2, lettera a
 
 a) gli articoli da 10 a 29 del decreto legislativo 4 dicembre 1997, n. 460, fatto salvo l'articolo 13, commi 2, 3 e 4".
 
-#### Art. 15
+### Art. 15
 
 Certificazione dei corrispettivi ai fini dell'imposta sul valore aggiunto
 
@@ -844,7 +840,7 @@ Il D.Lgs. 3 luglio 2017, n. 117, ha disposto (con l'art. 102, comma 2, lettera a
 
 a) gli articoli da 10 a 29 del decreto legislativo 4 dicembre 1997, n. 460, fatto salvo l'articolo 13, commi 2, 3 e 4".
 
-#### Art. 16
+### Art. 16
 
 Disposizioni in materia di ritenute alla fonte
 
@@ -864,7 +860,7 @@ Il D.Lgs. 3 luglio 2017, n. 117, ha disposto (con l'art. 102, comma 2, lettera a
 
 a) gli articoli da 10 a 29 del decreto legislativo 4 dicembre 1997, n. 460, fatto salvo l'articolo 13, commi 2, 3 e 4".
 
-#### Art. 17
+### Art. 17
 
 Esenzioni dall'imposta di bollo
 
@@ -884,7 +880,7 @@ Il D.Lgs. 3 luglio 2017, n. 117, ha disposto (con l'art. 102, comma 2, lettera a
 
 a) gli articoli da 10 a 29 del decreto legislativo 4 dicembre 1997, n. 460, fatto salvo l'articolo 13, commi 2, 3 e 4".
 
-#### Art. 18
+### Art. 18
 
 Esenzioni dalle tasse sulle concessioni governative
 
@@ -904,7 +900,7 @@ Il D.Lgs. 3 luglio 2017, n. 117, ha disposto (con l'art. 102, comma 2, lettera a
 
 a) gli articoli da 10 a 29 del decreto legislativo 4 dicembre 1997, n. 460, fatto salvo l'articolo 13, commi 2, 3 e 4".
 
-#### Art. 19
+### Art. 19
 
 Esenzioni dall'imposta sulle successioni e donazioni
 
@@ -922,7 +918,7 @@ Il D.Lgs. 3 luglio 2017, n. 117, ha disposto (con l'art. 102, comma 2, lettera a
 
 a) gli articoli da 10 a 29 del decreto legislativo 4 dicembre 1997, n. 460, fatto salvo l'articolo 13, commi 2, 3 e 4".
 
-#### Art. 20
+### Art. 20
 
 Esenzioni dall'imposta sull'incremento di valore degli immobili e dalla relativa imposta sostitutiva
 
@@ -942,7 +938,7 @@ Il D.Lgs. 3 luglio 2017, n. 117, ha disposto (con l'art. 102, comma 2, lettera a
 
 a) gli articoli da 10 a 29 del decreto legislativo 4 dicembre 1997, n. 460, fatto salvo l'articolo 13, commi 2, 3 e 4".
 
-#### Art. 21
+### Art. 21
 
 Esenzioni in materia di tributi locali
 
@@ -960,7 +956,7 @@ Il D.Lgs. 3 luglio 2017, n. 117, ha disposto (con l'art. 102, comma 2, lettera a
 
 a) gli articoli da 10 a 29 del decreto legislativo 4 dicembre 1997, n. 460, fatto salvo l'articolo 13, commi 2, 3 e 4".
 
-#### Art. 22
+### Art. 22
 
 Agevolazioni in materia di imposta di registro
 
@@ -982,7 +978,7 @@ Il D.Lgs. 3 luglio 2017, n. 117, ha disposto (con l'art. 102, comma 2, lettera a
 
 a) gli articoli da 10 a 29 del decreto legislativo 4 dicembre 1997, n. 460, fatto salvo l'articolo 13, commi 2, 3 e 4".
 
-#### Art. 23
+### Art. 23
 
 Esenzioni dall'imposta sugli spettacoli
 
@@ -1004,7 +1000,7 @@ Il D.Lgs. 3 luglio 2017, n. 117, ha disposto (con l'art. 102, comma 2, lettera a
 
 a) gli articoli da 10 a 29 del decreto legislativo 4 dicembre 1997, n. 460, fatto salvo l'articolo 13, commi 2, 3 e 4".
 
-#### Art. 24
+### Art. 24
 
 Agevolazioni per le lotterie, tombole, pesche e banchi di beneficenza
 
@@ -1028,7 +1024,7 @@ Il D.Lgs. 3 luglio 2017, n. 117, ha disposto (con l'art. 102, comma 2, lettera a
 
 a) gli articoli da 10 a 29 del decreto legislativo 4 dicembre 1997, n. 460, fatto salvo l'articolo 13, commi 2, 3 e 4".
 
-#### Art. 25
+### Art. 25
 
 Disposizioni in materia di scritture contabili e obblighi formali delle organizzazioni non lucrative di utilita' sociale
 
@@ -1062,7 +1058,7 @@ Il D.Lgs. 3 luglio 2017, n. 117, ha disposto (con l'art. 102, comma 2, lettera a
 
 a) gli articoli da 10 a 29 del decreto legislativo 4 dicembre 1997, n. 460, fatto salvo l'articolo 13, commi 2, 3 e 4".
 
-#### Art. 26
+### Art. 26
 
 Norma di rinvio
 
@@ -1080,7 +1076,7 @@ Il D.Lgs. 3 luglio 2017, n. 117, ha disposto (con l'art. 102, comma 2, lettera a
 
 a) gli articoli da 10 a 29 del decreto legislativo 4 dicembre 1997, n. 460, fatto salvo l'articolo 13, commi 2, 3 e 4".
 
-#### Art. 27
+### Art. 27
 
 Abuso della denominazione di organizzazione non lucrativa di utilita' sociale
 
@@ -1098,7 +1094,7 @@ Il D.Lgs. 3 luglio 2017, n. 117, ha disposto (con l'art. 102, comma 2, lettera a
 
 a) gli articoli da 10 a 29 del decreto legislativo 4 dicembre 1997, n. 460, fatto salvo l'articolo 13, commi 2, 3 e 4".
 
-#### Art. 28
+### Art. 28
 
 Sanzioni e responsabilita' dei rappresentanti legali e degli amministratori
 
@@ -1126,7 +1122,7 @@ Il D.Lgs. 3 luglio 2017, n. 117, ha disposto (con l'art. 102, comma 2, lettera a
 
 a) gli articoli da 10 a 29 del decreto legislativo 4 dicembre 1997, n. 460, fatto salvo l'articolo 13, commi 2, 3 e 4".
 
-#### Art. 29
+### Art. 29
 
 Titoli di solidarieta'
 
@@ -1146,7 +1142,7 @@ Il D.Lgs. 3 luglio 2017, n. 117, ha disposto (con l'art. 102, comma 2, lettera a
 
 a) gli articoli da 10 a 29 del decreto legislativo 4 dicembre 1997, n. 460, fatto salvo l'articolo 13, commi 2, 3 e 4".
 
-#### Art. 30
+### Art. 30
 
 Entrata in vigore
 

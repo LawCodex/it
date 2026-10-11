@@ -28,7 +28,7 @@ la seguente legge:
 
 ## TITOLO I. - DISPOSIZIONI GENERALI
 
-#### Art. 1
+### Art. 1
 
 Norme generali
 
@@ -44,7 +44,7 @@ I consiglieri regionali rappresentano l'intera regione senza vincolo di mandato.
 
 Salvo quanto disposto dalla presente legge, per la elezione dei consigli regionali si osservano, in quanto applicabili, le disposizioni del testo unico delle leggi per la composizione e la elezione degli organi delle amministrazioni comunali, approvato con decreto del Presidente della Repubblica 16 maggio 1960, n. 570, e successive modificazioni, nelle parti riguardanti i consigli dei comuni con oltre 5.000 abitanti.
 
-#### Art. 2
+### Art. 2
 
 Numero dei consiglieri regionali
 
@@ -72,7 +72,7 @@ l'assegnazione di essi alle singole circoscrizioni sono effettuate con decreto d
 
 La popolazione e' determinata in base ai risultati dell'ultimo censimento generale della stessa, riportati dalla piu' recente pubblicazione ufficiale dell'Istituto centrale di statistica.
 
-#### Art. 3
+### Art. 3
 
 Durata in carica dei consigli regionali e convocazione dei comizi per la loro rinnovazione
 
@@ -90,11 +90,9 @@ I sindaci dei comuni della regione ne danno notizia agli elettori con apposito m
 
 Il decreto di convocazione dei comizi, inoltre, deve essere comunicato ai presidenti delle commissioni elettorali mandamentali della regione.
 
-## TITOLO II - ELETTORATO - INELEGGIBILITA'
+## TITOLO II - ELETTORATO - INELEGGIBILITA' INCOMPATIBILITA'
 
-### INCOMPATIBILITA'
-
-#### Art. 4
+### Art. 4
 
 Elettorato attivo e passivo
 
@@ -102,21 +100,21 @@ Sono elettori i cittadini iscritti nelle liste elettorali compilate a termini de
 
 ((COMMA ABROGATO DALLA L.23 APRILE 1981, N. 154)).
 
-#### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DALLA L. 23 APRILE 1981, N. 154))
 
-#### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DALLA L. 23 APRILE 1981, N. 154))
 
-#### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DALLA L. 23 APRILE 1981, N. 154))
 
 ## TITOLO III - PROCEDIMENTO ELETTORALE
 
-#### Art. 8
+### Art. 8
 
 Ufficio centrale circoscrizionale e regionale
 
@@ -130,7 +128,7 @@ Un cancelliere della Corte d'appello e' designato ad esercitare le funzioni di s
 
 Per il Molise l'Ufficio centrale regionale e' costituito presso il tribunale di Campobasso.
 
-#### Art. 9
+### Art. 9
 
 Liste di candidati
 
@@ -174,7 +172,7 @@ AGGIORNAMENTO (16)
 
 La Corte Costituzionale, con sentenza 11 dicembre 2024 - 23 gennaio 2025, n. 3 (in G.U. 1a s.s. 29/1/2025, n. 5), ha dichiarato "l'illegittimita' costituzionale degli artt. 9, terzo comma, della legge 17 febbraio 1968, n. 108 (Norme per la elezione dei Consigli regionali delle Regioni a statuto normale) e 2, comma 6, del decreto legislativo 7 marzo 2005, n. 82 (Codice dell'amministrazione digitale), nella parte in cui non prevedono per l'elettore, che non sia in grado di apporre una firma autografa per certificata impossibilita' derivante da un grave impedimento fisico o perche' si trova nelle condizioni per esercitare il voto domiciliare, la possibilita' di sottoscrivere un documento informatico con firma elettronica qualificata, cui e' associato un riferimento temporale validamente opponibile ai terzi".
 
-#### Art. 10
+### Art. 10
 
 Esame ed ammissione delle liste
 
@@ -206,7 +204,7 @@ L'Ufficio centrale regionale decide nei due giorni successivi.
 
 Le decisioni dell'Ufficio centrale regionale sono comunicate nelle 24 ore ai ricorrenti ed agli Uffici centrali circoscrizionali.
 
-#### Art. 11
+### Art. 11
 
 Operazioni dell'Ufficio centrale circoscrizionale conseguenti alle
 
@@ -228,7 +226,7 @@ L'Ufficio centrale circoscrizionale, non appena scaduto il termine stabilito per
 
 Le schede sono fornite a cura del Ministero dell'interno, con le caratteristiche essenziali del modello descritto nelle tabelle A e B allegate alla presente legge.
 
-#### Art. 12
+### Art. 12
 
 Norme speciali per gli elettori
 
@@ -236,13 +234,13 @@ Gli elettori di cui all'articolo 40 del testo unico 16 maggio 1960, n. 570, sono
 
 I degenti in ospedali e case di cura sono ammessi a votare nel luogo di ricovero, sito nel territorio della regione, con le modalita' di cui agli articoli 42, 43, 44 e 45 del citato testo unico, purche' siano iscritti nelle liste elettorali di un comune della regione.
 
-#### Art. 13
+### Art. 13
 
 (((Voto di preferenza)
 
 L'elettore puo' manifestare una sola preferenza.))
 
-#### Art. 14
+### Art. 14
 
 Invio del verbale delle sezioni all'Ufficio centrale circoscrizionale
 
@@ -252,7 +250,7 @@ Nei comuni ripartiti in due o piu' sezioni il verbale e gli allegati sono conseg
 
 Per le sezioni dei comuni sedi dell'Ufficio centrale circoscrizionale, si osservano le disposizioni del primo comma.
 
-#### Art. 15
+### Art. 15
 
 Operazioni dell'Ufficio centrale circoscrizionale e dell'Ufficio centrale regionale
 
@@ -344,7 +342,7 @@ AGGIORNAMENTO (11)
 
 La L. 15 maggio 1997, n. 127 ha disposto (con l'art. 5, comma 7) che "Al numero 7) del tredicesimo comma dell'articolo 15 della legge 17 febbraio 1968, n. 108, introdotto dall'articolo 3 della legge 23 febbraio 1995, n. 43, le parole: "qualora tale seconda verifica dia esito negativo, assegna alla lista regionale una quota aggiuntiva di seggi che, tenuti fermi i seggi attribuiti ai sensi dei numeri 4) e 5) e quelli attribuiti in ambito provinciale, consenta di raggiungere il 55 per cento del totale dei seggi del consiglio nella composizione cosi' integrata con arrotondamento all'unita' inferiore" devono interpretarsi nel senso che tale arrotondamento e' da riferirsi ai decimali da rapportarsi alla percentuale complessiva e non al numero dei seggi, che devono pertanto comunque raggiungere o superare il 55 per cento del totale dei seggi del consiglio nella composizione cosi' integrata."
 
-#### Art. 16
+### Art. 16
 
 Surrogazioni
 
@@ -354,7 +352,7 @@ La stessa norma si osserva anche nel caso di sostituzione del consigliere procla
 
 ((Nel caso in cui si renda necessaria per qualsiasi causa la sostituzione di un consigliere proclamato eletto nella lista regionale, il seggio e' attribuito al primo dei candidati non eletti inclusi nella lista regionale e, qualora questa abbia esaurito i propri candidati, al gruppo di liste contrassegnate dallo stesso contrassegno secondo la graduatoria di cui al quindicesimo comma dell'articolo 15. Il seggio spettante al gruppo di liste viene quindi assegnato alla circoscrizione secondo le disposizioni di cui al decimo e all'undicesimo comma del medesimo articolo. Nella circoscrizione il seggio e' attribuito al candidato che nella lista segue immediatamente l'ultimo eletto)).
 
-#### Art. 16-bis
+### Art. 16-bis
 
 (((Supplenza)
 
@@ -362,7 +360,7 @@ La stessa norma si osserva anche nel caso di sostituzione del consigliere procla
 
 ## TITOLO IV - CONVALIDA DEGLI ELETTI E CONTENZIOSO
 
-#### Art. 17
+### Art. 17
 
 Convalida degli eletti
 
@@ -376,11 +374,11 @@ La deliberazione deve essere, nel giorno successivo, depositata nella segreteria
 
 Il Consiglio regionale non puo' annullare la elezione per vizi delle operazioni elettorali.
 
-#### Art. 18
+### Art. 18
 
 ((ARTICOLO ABROGATO DALLA L. 23 APRILE 1981, N. 154))
 
-#### Art. 19
+### Art. 19
 
 Ricorsi
 
@@ -402,7 +400,7 @@ Ha inoltre disposto (con l'art. 36, comma 2) che "Le norme abrogate o modificate
 
 ## TITOLO V - DISPOSIZIONI FINALI
 
-#### Art. 20
+### Art. 20
 
 Svolgimento contemporaneo delle elezioni regionali e delle elezioni del Senato e della Camera o delle elezioni provinciali e comunali
 
@@ -422,7 +420,7 @@ c) ((alle ore 14 del lunedi')) il presidente, ricostituito l'ufficio e constatat
 
 Nel caso la elezione di uno o piu' consigli regionali abbia luogo contemporaneamente alle elezioni del Senato e della Camera dei deputati, si applicano le norme previste dai precedenti commi e quelle previste dalle leggi per tali elezioni. Allo scrutinio delle schede relative alla elezione del Consiglio regionale si procede dopo gli scrutini delle elezioni del Senato e della Camera dei deputati.
 
-#### Art. 21
+### Art. 21
 
 Spese
 
@@ -436,7 +434,7 @@ Nel caso di contemporaneita' della elezione dei consigli regionali con la elezio
 
 ## TITOLO VI - DISPOSIZIONI TRANSITORIE
 
-#### Art. 22
+### Art. 22
 
 Attuazione delle prime elezioni regionali
 
@@ -444,19 +442,19 @@ Le prime elezioni regionali in attuazione della presente legge avranno luogo con
 
 Entro quella scadenza saranno emanate le norme relative all'ordinamento finanziario delle regioni.
 
-#### Art. 23
+### Art. 23
 
 Norme per la convocazione dei comizi per la prima elezione dei consigli regionali
 
 Per la prima elezione dei consigli regionali i comizi elettorali sono convocati, d'intesa con i presidenti delle Corti d'appello, nella cui circoscrizione sono compresi i comuni della regione, dal Ministro per l'interno, il quale, sentiti i prefetti della regione, provvedera' anche agli adempimenti di cui al penultimo comma dell'articolo 2.
 
-#### Art. 24
+### Art. 24
 
 Norme in materia di ineleggibilita'
 
 Per la prima elezione dei consigli regionali le cause di ineleggibilita' previste dalla presente legge non hanno effetto se le funzioni esercitate siano cessate entro i sette giorni successivi alla data del decreto di convocazione dei comizi.
 
-#### Art. 25
+### Art. 25
 
 Sede e segreteria provvisorie del Consiglio regionale e norme provvisorie per il funzionamento del Consiglio stesso
 
@@ -466,7 +464,7 @@ Le attribuzioni della segreteria del Consiglio regionale sono disimpegnate dall'
 
 Nella prima adunanza ed in quelle successive fino alla entrata in vigore del regolamento interno previsto dall'articolo 20 della legge 10 febbraio 1953, n. 62, saranno applicate, per la diramazione degli avvisi di convocazione del consiglio regionale, per l'ordine delle discussioni e delle votazioni e per la polizia delle adunanze, le norme per la disciplina della stessa materia con riguardo al consiglio provinciale contenute nel testo unico della legge comunale e provinciale 4 febbraio 1915, n. 148, e successive modificazioni, in quanto risultino applicabili e non contrastino con le norme sancite dalla legge predetta.
 
-#### Art. 26
+### Art. 26
 
 Spese per la prima elezione dei consigli regionali
 
@@ -492,7 +490,7 @@ Visto, il Guardasigilli: REALE
 
 ## TITOLO VI - DISPOSIZIONI TRANSITORIE
 
-#### Allegato A
+### Allegato A
 
 ALLEGATO A
 
@@ -506,7 +504,7 @@ PARTE INTERNA DELLA SCHEDA))
 
 ((Parte di provvedimento in formato grafico))
 
-#### Allegato B
+### Allegato B
 
 ALLEGATO B
 

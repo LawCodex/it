@@ -64,9 +64,9 @@ Registrato alla Corte dei conti addi' 30 aprile 1973
 
 Atti di Governo, registro n. 257, foglio n. 124 - CARUSO
 
-## LIBRO PRIMO - Norme generali
+### LIBRO PRIMO - Norme generali
 
-### TITOLO I - DISPOSIZIONI PRELIMINARI
+#### TITOLO I - DISPOSIZIONI PRELIMINARI
 
 CODICE POSTALE E DELLE TELECOMUNICAZIONI
 
@@ -236,9 +236,9 @@ Per le contravvenzioni punibili con la sola pena dell'ammenda e' ammessa l'oblaz
 
 La competenza a decidere sulla domanda di oblazione spetta, rispettivamente, ai direttori provinciali delle poste e delle telecomunicazioni per le contravvenzioni in materia di servizi postali, di bancoposta, ((. . .)).
 
-### TITOLO II - NORME COMUNI AI SERVIZI POSTALI, DI BANCOPOSTA ((...))
+#### TITOLO II - NORME COMUNI AI SERVIZI POSTALI, DI BANCOPOSTA ((...))
 
-##### Sezione 1ª: - DISPOSIZIONI GENERALI
+**Sezione 1ª: - DISPOSIZIONI GENERALI**
 
 ###### Art. 14
 
@@ -246,7 +246,7 @@ Diritto del mittente nei confronti dell'Amministrazione
 
 Nei confronti dell'Amministrazione e a tutti gli effetti del presente decreto le corrispondenze, i pacchi postali ed i vaglia si considerano di proprieta' del mittente fino a che non sia avvenuta la consegna al destinatario.
 
-##### Sezione 2ª: - ESENZIONI - RIDUZIONI - AGEVOLAZIONI TARIFFARIE DIVIETO
+**Sezione 2ª: - ESENZIONI - RIDUZIONI - AGEVOLAZIONI TARIFFARIE DIVIETO**
 
 ###### Art. 15
 
@@ -288,7 +288,7 @@ Sui problemi relativi alla determinazione dei costi da rimborsare ai sensi dei p
 
 Per le prestazioni rese alle amministrazioni statali, enti diversi e privati, quando per esse non siano stabiliti appositi canoni, sono a carico dell'amministrazione, ente o privato, oltre alle spese richieste dalle prestazioni stesse, anche le quote di surrogazione del personale e la quota di spese generali stabilite con decreto del Ministro per le poste e le telecomunicazioni, sentito il consiglio di amministrazione, di concerto con il Ministro per il tesoro.
 
-##### Sezione 3ª: - DELLE AZIONI
+**Sezione 3ª: - DELLE AZIONI**
 
 ###### Art. 20
 
@@ -318,7 +318,7 @@ Accertamento delle contravvenzioni
 
 L'accertamento delle contravvenzioni spetta, oltre che agli organi di polizia giudiziaria, anche agli impiegati ed agenti incaricati di vigilare sull'osservanza delle norme e modalita' relative ai servizi postali ((. . .)), gestiti dalle aziende dipendenti dal Ministero delle poste ((. . .)).
 
-##### Sezione 4ª: - TURBATIVE - TUTELA
+**Sezione 4ª: - TURBATIVE - TUTELA**
 
 ###### Art. 23
 
@@ -360,9 +360,11 @@ AGGIORNAMENTO (39)
 
 Il D.Lgs. 1 agosto 2003, n. 259 ha disposto (con l'art. 218, comma 1, lettera r)) la soppressione al primo comma delle parole "e delle telecomunicazioni e dell'Azienda di Stato per i servizi telefonici".
 
-## LIBRO SECONDO - Dei servizi postali
+### LIBRO SECONDO - Dei servizi postali
 
-### TITOLO I - PARTE GENERALE
+#### TITOLO I
+
+## PARTE GENERALE
 
 ###### Art. 27
 
@@ -502,9 +504,9 @@ Le tessere di riconoscimento in uso nel servizio internazionale, secondo le vige
 
 Il regolamento determina le modalita' del rilascio e dell'uso delle tessere di riconoscimento.
 
-### TITOLO II - CORRISPONDENZE E PACCHI
+#### TITOLO II - CORRISPONDENZE E PACCHI
 
-#### CAPO I - CORRISPONDENZE
+##### CAPO I - CORRISPONDENZE
 
 ###### Art. 39
 
@@ -684,7 +686,7 @@ Le stampe periodiche possono contenere inserti cartacei redazionali e pubblicita
 
 1\. Gli amministratori e gli editori che dichiarino nella spedizione di stampe periodiche quantita' diverse da quelle vere perdono per la spedizione il titolo allo sconto quantita', ove previsto, e sono puniti, in solido con il personale delle poste e delle telecomunicazioni addetto all'accettazione, con l'ammenda stabilita dall'articolo 82)).
 
-#### CAPO II - PACCHI
+##### CAPO II - PACCHI
 
 ###### Art. 58
 
@@ -818,9 +820,9 @@ Nel caso di perdita od avaria parziale, compete l'indennita' stabilita per i pac
 
 Nel caso di smarrimento di pacchi o di perdita od avaria totale del loro contenuto, i mittenti, oltre all'indennita' hanno diritto al rimborso delle tasse di spedizione ed accessorie, escluse quelle di assicurazione.
 
-#### CAPO III - DISPOSIZIONI COMUNI ALLE CORRISPONDENZE E PACCHI
+##### CAPO III - DISPOSIZIONI COMUNI ALLE CORRISPONDENZE E PACCHI
 
-##### Sezione 1ª: - TRASPORTO DEGLI EFFETTI POSTALI
+**Sezione 1ª: - TRASPORTO DEGLI EFFETTI POSTALI**
 
 ###### Art. 71
 
@@ -848,7 +850,7 @@ Sanzioni contro gli obbligati al trasporto degli effetti postali
 
 Gli obbligati al trasporto degli effetti postali, i quali si rifiutino di accettarli, trasportarli o consegnarli o che non notifichino in tempo utile all'Amministrazione gli itinerari e gli orari dei viaggi, sono puniti con l'ammenda estensibile a lire 120.000, salvo che il fatto costituisca reato punito con pena piu' grave.
 
-##### Sezione 2ª: - TRASPORTI POSTALI AUTOMOBILISTICI
+**Sezione 2ª: - TRASPORTI POSTALI AUTOMOBILISTICI**
 
 ###### Art. 74
 
@@ -918,7 +920,7 @@ Altre disposizioni
 
 Oltre alle disposizioni di cui alla presente sezione, restano ferme tutte le altre disposizioni inerenti al servizio postale di cui alla legge 28 settembre 1939, n. 1822.
 
-##### Sezione 3ª: - DISPOSIZIONI COMUNI
+**Sezione 3ª: - DISPOSIZIONI COMUNI**
 
 ###### Art. 81
 
@@ -1118,9 +1120,11 @@ Il regolamento stabilisce i limiti e le condizioni per la concessione delle faci
 
 Tale agevolazione tariffaria non e' cumulabile con altre riduzioni tariffarie.
 
-## LIBRO TERZO - Dei servizi di bancoposta
+### LIBRO TERZO - Dei servizi di bancoposta
 
-### TITOLO I - PARTE GENERALE
+#### TITOLO I
+
+## PARTE GENERALE
 
 ###### Art. 100
 
@@ -1138,7 +1142,7 @@ Tale agevolazione tariffaria non e' cumulabile con altre riduzioni tariffarie.
 
 ((ARTICOLO ABROGATO DAL D.P.R. 14 MARZO 2001, N.144))
 
-#### CAPO I - VAGLIA POSTALI
+##### CAPO I - VAGLIA POSTALI
 
 ###### Art. 104
 
@@ -1176,7 +1180,7 @@ Tale agevolazione tariffaria non e' cumulabile con altre riduzioni tariffarie.
 
 ((ARTICOLO ABROGATO DAL D.P.R. 14 MARZO 2001, N.144))
 
-#### CAPO II - RISCOSSIONI DI CREDITI
+##### CAPO II - RISCOSSIONI DI CREDITI
 
 ###### Art. 113
 
@@ -1206,7 +1210,7 @@ Tale agevolazione tariffaria non e' cumulabile con altre riduzioni tariffarie.
 
 ((ARTICOLO ABROGATO DAL D.P.R. 14 MARZO 2001, N.144))
 
-#### CAPO III - CONTI CORRENTI POSTALI
+##### CAPO III - CONTI CORRENTI POSTALI
 
 ###### Art. 120
 
@@ -1314,7 +1318,7 @@ I fondi eccedenti i normali bisogni di cassa sono dall'Amministrazione versati i
 
 Gli interessi attivi, i proventi per tasse e di ogni altro genere, relativi al servizio dei conti correnti postali, sono versati in entrata al bilancio dell'Amministrazione delle poste e delle telecomunicazioni.
 
-#### CAPO IV - DISPOSIZIONI COMUNI AI VAGLIA E CONTI CORRENTI POSTALI
+##### CAPO IV - DISPOSIZIONI COMUNI AI VAGLIA E CONTI CORRENTI POSTALI
 
 ###### Art. 144
 
@@ -1324,7 +1328,7 @@ Gli interessi attivi, i proventi per tasse e di ogni altro genere, relativi al s
 
 ((ARTICOLO ABROGATO DAL D.P.R. 14 MARZO 2001, N.144))
 
-#### CAPO V - LIBRETTI DI RISPARMIO
+##### CAPO V - LIBRETTI DI RISPARMIO
 
 ###### Art. 146
 
@@ -1772,7 +1776,7 @@ AGGIORNAMENTO (29a)
 
 Il D.Lgs. 30 luglio 1999, n. 284 ha disposto (con l'art. 7, comma 3) che "Sono abrogate, a decorrere dalla data di entrata in vigore dei decreti che stabiliscono nuove caratteristiche dei libretti di risparmio postale e dei buoni fruttiferi postali, le disposizioni recate dai capi V e VI, titolo I, libro III del decreto del Presidente della Repubblica 29 marzo 1973, n. 156 e relative norme di esecuzione. I rapporti gia' in essere alla data di entrata in vigore dei medesimi decreti continuano ad essere regolati dalle norme anteriori".
 
-#### CAPO VI - BUONI POSTALI FRUTTIFERI
+##### CAPO VI - BUONI POSTALI FRUTTIFERI
 
 ###### Art. 171
 
@@ -1984,11 +1988,13 @@ AGGIORNAMENTO (29a)
 
 Il D.Lgs. 30 luglio 1999, n. 284 ha disposto (con l'art. 7, comma 3) che "Sono abrogate, a decorrere dalla data di entrata in vigore dei decreti che stabiliscono nuove caratteristiche dei libretti di risparmio postale e dei buoni fruttiferi postali, le disposizioni recate dai capi V e VI, titolo I, libro III del decreto del Presidente della Repubblica 29 marzo 1973, n. 156 e relative norme di esecuzione. I rapporti gia' in essere alla data di entrata in vigore dei medesimi decreti continuano ad essere regolati dalle norme anteriori".
 
-## LIBRO QUARTO - Dei servizi di telecomunicazioni
+### LIBRO QUARTO - Dei servizi di telecomunicazioni
 
-### TITOLO I - PARTE GENERALE
+#### TITOLO I
 
-#### CAPO I - DISPOSIZIONI DI CARATTERE GENERALE
+## PARTE GENERALE
+
+##### CAPO I - DISPOSIZIONI DI CARATTERE GENERALE
 
 ###### Art. 183
 
@@ -2002,7 +2008,7 @@ Il D.Lgs. 30 luglio 1999, n. 284 ha disposto (con l'art. 7, comma 3) che "Sono a
 
 ((IL D.LGS. 1 AGOSTO 2003, N. 259 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-#### CAPO II - NORME COMUNI ALLE CONCESSIONI AD USO PUBBLICO E AD USO PRIVATO
+##### CAPO II - NORME COMUNI ALLE CONCESSIONI AD USO PUBBLICO E AD USO PRIVATO
 
 ###### Art. 186
 
@@ -2086,7 +2092,7 @@ La L. 28 dicembre 1993, n.561 ha disposto (con l'art. 1, comma 1) che non costit
 
 Ha inoltre disposto (con l'art. 2, comma 1) che la somma dovuta come sanzione amministrativa per le violazioni indicate nell'articolo 1, comma 1 della suddetta legge, e' cosi' determinata: in misura pari alla sanzione amministrativa stabilita dal comma 1 dell'articolo 195 del testo unico approvato con decreto del Presidente della Repubblica 29 marzo 1973 n. 156, e successive modificazioni, elevata del triplo quanto all'ammontare minimo, per le violazioni previste dal comma 2 del medesimo articolo.
 
-#### CAPO III - CONCESSIONI AD USO PUBBLICO
+##### CAPO III - CONCESSIONI AD USO PUBBLICO
 
 ###### Art. 196
 
@@ -2156,7 +2162,7 @@ Ha inoltre disposto (con l'art. 2, comma 1) che la somma dovuta come sanzione am
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-#### CAPO IV - CONCESSIONI AD USO PRIVATO
+##### CAPO IV - CONCESSIONI AD USO PRIVATO
 
 ###### Art. 213
 
@@ -2182,7 +2188,7 @@ Ha inoltre disposto (con l'art. 2, comma 1) che la somma dovuta come sanzione am
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-#### CAPO V - TUTELA DEGLI IMPIANTI SOTTOMARINI DI TELECOMUNICAZIONI
+##### CAPO V - TUTELA DEGLI IMPIANTI SOTTOMARINI DI TELECOMUNICAZIONI
 
 ###### Art. 219
 
@@ -2232,7 +2238,7 @@ Ha inoltre disposto (con l'art. 2, comma 1) che la somma dovuta come sanzione am
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-#### CAPO VI - LIMITAZIONI LEGALI - SERVITU' - ESPROPRIAZIONI
+##### CAPO VI - LIMITAZIONI LEGALI - SERVITU' - ESPROPRIAZIONI
 
 ###### Art. 231
 
@@ -2270,7 +2276,7 @@ Ha inoltre disposto (con l'art. 2, comma 1) che la somma dovuta come sanzione am
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-#### CAPO VII - POLIZIA E PROTEZIONE DELLE TELECOMUNICAZIONI
+##### CAPO VII - POLIZIA E PROTEZIONE DELLE TELECOMUNICAZIONI
 
 ###### Art. 240
 
@@ -2288,9 +2294,9 @@ Ha inoltre disposto (con l'art. 2, comma 1) che la somma dovuta come sanzione am
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-### TITOLO II - DEI SERVIZI TELEGRAFICI
+#### TITOLO II - DEI SERVIZI TELEGRAFICI
 
-#### CAPO I - DISPOSIZIONI DI CARATTERE GENERALE
+##### CAPO I - DISPOSIZIONI DI CARATTERE GENERALE
 
 ###### Art. 244
 
@@ -2352,7 +2358,7 @@ Disciplina dei servizi telegrafici
 
 Le condizioni e le modalita' per l'ammissione ai servizi telegrafici e per lo svolgimento degli stessi, ove non previsti dal presente decreto o dal regolamento, sono stabilite con decreto del Ministro per le poste e le telecomunicazioni, sentito il consiglio di amministrazione.
 
-#### CAPO II - SERVIZIO TELEX
+##### CAPO II - SERVIZIO TELEX
 
 ###### Art. 251
 
@@ -2394,7 +2400,7 @@ Le condizioni e le modalita' per l'ammissione ai servizi telegrafici e per lo sv
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-#### CAPO III - COLLEGAMENTI DIRETTI DELLA RETE PUBBLICA PER TRASMISSIONI DI TIPO TELEGRAFICO
+##### CAPO III - COLLEGAMENTI DIRETTI DELLA RETE PUBBLICA PER TRASMISSIONI DI TIPO TELEGRAFICO
 
 ###### Art. 261
 
@@ -2440,7 +2446,7 @@ Le condizioni e le modalita' per l'ammissione ai servizi telegrafici e per lo sv
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-#### CAPO IV - MANUTENZIONE
+##### CAPO IV - MANUTENZIONE
 
 ###### Art. 272
 
@@ -2454,15 +2460,15 @@ Le condizioni e le modalita' per l'ammissione ai servizi telegrafici e per lo sv
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-### TITOLO III - DEI SERVIZI TELEFONICI
+#### TITOLO III - DEI SERVIZI TELEFONICI
 
-#### CAPO I - CONCESSIONI AD USO PUBBLICO
+##### CAPO I - CONCESSIONI AD USO PUBBLICO
 
 ###### Art. 275
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-#### CAPO II - CONCESSIONI AD USO PRIVATO
+##### CAPO II - CONCESSIONI AD USO PRIVATO
 
 ###### Art. 276
 
@@ -2484,7 +2490,7 @@ Le condizioni e le modalita' per l'ammissione ai servizi telegrafici e per lo sv
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-#### CAPO III - SERVIZIO TELEFONICO URBANO
+##### CAPO III - SERVIZIO TELEFONICO URBANO
 
 ###### Art. 281
 
@@ -2526,7 +2532,7 @@ Le condizioni e le modalita' per l'ammissione ai servizi telegrafici e per lo sv
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-#### CAPO IV - SERVIZIO TELEFONICO INTERURBANO
+##### CAPO IV - SERVIZIO TELEFONICO INTERURBANO
 
 ###### Art. 291
 
@@ -2544,7 +2550,7 @@ Le condizioni e le modalita' per l'ammissione ai servizi telegrafici e per lo sv
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-#### CAPO V - CIRCUITI TELEFONICI DIRETTI
+##### CAPO V - CIRCUITI TELEFONICI DIRETTI
 
 ###### Art. 295
 
@@ -2562,7 +2568,7 @@ Le condizioni e le modalita' per l'ammissione ai servizi telegrafici e per lo sv
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-#### CAPO VI - SERVIZI SPECIALI
+##### CAPO VI - SERVIZI SPECIALI
 
 ###### Art. 299
 
@@ -2584,9 +2590,9 @@ Le condizioni e le modalita' per l'ammissione ai servizi telegrafici e per lo sv
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-#### CAPO VII - TARIFFE TELEFONICHE
+##### CAPO VII - TARIFFE TELEFONICHE
 
-##### Sezione 1ª: - TARIFFE PER IL SERVIZIO URBANO
+**Sezione 1ª: - TARIFFE PER IL SERVIZIO URBANO**
 
 ###### Art. 304
 
@@ -2596,7 +2602,7 @@ Le condizioni e le modalita' per l'ammissione ai servizi telegrafici e per lo sv
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-##### Sezione 2ª: - TARIFFE PER IL SERVIZIO INTERURBANO
+**Sezione 2ª: - TARIFFE PER IL SERVIZIO INTERURBANO**
 
 ###### Art. 306
 
@@ -2610,7 +2616,7 @@ Le condizioni e le modalita' per l'ammissione ai servizi telegrafici e per lo sv
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-##### Sezione 3ª: - TARIFFE PER I SERVIZI SPECIALI
+**Sezione 3ª: - TARIFFE PER I SERVIZI SPECIALI**
 
 ###### Art. 309
 
@@ -2624,7 +2630,7 @@ Le condizioni e le modalita' per l'ammissione ai servizi telegrafici e per lo sv
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-#### CAPO VIII - DISPOSIZIONI SPECIALI A FAVORE DEGLI ENTI LOCALI
+##### CAPO VIII - DISPOSIZIONI SPECIALI A FAVORE DEGLI ENTI LOCALI
 
 ###### Art. 312
 
@@ -2634,9 +2640,9 @@ Le condizioni e le modalita' per l'ammissione ai servizi telegrafici e per lo sv
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-### TITOLO IV - DEI SERVIZI RADIOELETTRICI
+#### TITOLO IV - DEI SERVIZI RADIOELETTRICI
 
-#### CAPO I - DISPOSIZIONI DI CARATTERE GENERALE
+##### CAPO I - DISPOSIZIONI DI CARATTERE GENERALE
 
 ###### Art. 314
 
@@ -2670,9 +2676,9 @@ Le condizioni e le modalita' per l'ammissione ai servizi telegrafici e per lo sv
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-#### CAPO II - CONCESSIONI DI STAZIONI RADIOELETTRICHE AD USO PRIVATO
+##### CAPO II - CONCESSIONI DI STAZIONI RADIOELETTRICHE AD USO PRIVATO
 
-##### Sezione 1ª: - CONCESSIONE DI COLLEGAMENTI IN PONTE RADIO AD USO PRIVATO
+**Sezione 1ª: - CONCESSIONE DI COLLEGAMENTI IN PONTE RADIO AD USO PRIVATO**
 
 ###### Art. 322
 
@@ -2690,7 +2696,7 @@ Le condizioni e le modalita' per l'ammissione ai servizi telegrafici e per lo sv
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-##### Sezione 2ª: - CONCESSIONI ALLE RAPPRESENTANZE DIPLOMATICHE STRANIERE
+**Sezione 2ª: - CONCESSIONI ALLE RAPPRESENTANZE DIPLOMATICHE STRANIERE**
 
 ###### Art. 326
 
@@ -2708,7 +2714,7 @@ Le condizioni e le modalita' per l'ammissione ai servizi telegrafici e per lo sv
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-##### Sezione 3ª: - CONCESSIONI DI IMPIANTO ED ESERCIZIO DI STAZIONI DI RADIOAMATORE
+**Sezione 3ª: - CONCESSIONI DI IMPIANTO ED ESERCIZIO DI STAZIONI DI RADIOAMATORE**
 
 ###### Art. 330
 
@@ -2726,7 +2732,7 @@ Le condizioni e le modalita' per l'ammissione ai servizi telegrafici e per lo sv
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-##### Sezione 4ª: - CONCESSIONI DI STAZIONI RADIOELETTRICHE DI DEBOLE POTENZA
+**Sezione 4ª: - CONCESSIONI DI STAZIONI RADIOELETTRICHE DI DEBOLE POTENZA**
 
 ###### Art. 334
 
@@ -2740,7 +2746,7 @@ Le condizioni e le modalita' per l'ammissione ai servizi telegrafici e per lo sv
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-##### Sezione 5ª: - DISPOSIZIONI COMUNI ALLE SEZIONI PRECEDENTI
+**Sezione 5ª: - DISPOSIZIONI COMUNI ALLE SEZIONI PRECEDENTI**
 
 ###### Art. 337
 
@@ -2754,7 +2760,7 @@ Le condizioni e le modalita' per l'ammissione ai servizi telegrafici e per lo sv
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-#### CAPO III - ABILITAZIONE ALL'ESERCIZIO DEI SERVIZI RADIOELETTRICI IN QUALITA' DI OPERATORE
+##### CAPO III - ABILITAZIONE ALL'ESERCIZIO DEI SERVIZI RADIOELETTRICI IN QUALITA' DI OPERATORE
 
 ###### Art. 340
 
@@ -3044,9 +3050,9 @@ AGGIORNAMENTO (39)
 
 \- Il regolamento di cui all'art. 218, comma 2 del D.Lgs. 1 agosto 2003, n. 259 e' stato emanato con Decreto 25 settembre 2018, n. 134, pubblicato in G.U. 06/12/2018, n. 284.
 
-#### CAPO IV - SERVIZIO RADIOELETTRICO MOBILE MARITTIMO
+##### CAPO IV - SERVIZIO RADIOELETTRICO MOBILE MARITTIMO
 
-##### Sezione 1ª: - GENERALITA'
+**Sezione 1ª: - GENERALITA'**
 
 ###### Art. 352
 
@@ -3056,7 +3062,7 @@ AGGIORNAMENTO (39)
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-##### Sezione 2ª: - PRESCRIZIONI ED OBBLIGHI PER LE STAZIONI E PER APPARATI RADIOELETTRICI A BORDO DELLE NAVI
+**Sezione 2ª: - PRESCRIZIONI ED OBBLIGHI PER LE STAZIONI E PER APPARATI RADIOELETTRICI A BORDO DELLE NAVI**
 
 ###### Art. 354
 
@@ -3094,7 +3100,7 @@ AGGIORNAMENTO (39)
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-##### Sezione 3ª: - SORVEGLIANZA SUL SERVIZIO RADIOELETTRICO DI BORDO
+**Sezione 3ª: - SORVEGLIANZA SUL SERVIZIO RADIOELETTRICO DI BORDO**
 
 ###### Art. 363
 
@@ -3116,7 +3122,7 @@ AGGIORNAMENTO (39)
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-##### Sezione 4ª: - CATEGORIE DELLE STAZIONI RADIOELETTRICHE DI NAVE
+**Sezione 4ª: - CATEGORIE DELLE STAZIONI RADIOELETTRICHE DI NAVE**
 
 ###### Art. 368
 
@@ -3126,7 +3132,7 @@ AGGIORNAMENTO (39)
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-##### Sezione 5ª: - PERSONALE DELLE STAZIONI RADIOELETTRICHE DI BORDO
+**Sezione 5ª: - PERSONALE DELLE STAZIONI RADIOELETTRICHE DI BORDO**
 
 ###### Art. 370
 
@@ -3140,7 +3146,7 @@ AGGIORNAMENTO (39)
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-##### Sezione 6ª: - DISCIPLINA DELLE CONCESSIONI DI IMPIANTO E DI ESERCIZIO DI STAZIONI PER IL SERVIZIO RADIOMARITTIMO
+**Sezione 6ª: - DISCIPLINA DELLE CONCESSIONI DI IMPIANTO E DI ESERCIZIO DI STAZIONI PER IL SERVIZIO RADIOMARITTIMO**
 
 ###### Art. 373
 
@@ -3154,7 +3160,7 @@ AGGIORNAMENTO (39)
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-#### CAPO V - SERVIZIO RADIOELETTRICO PER LE NAVI DA PESCA
+##### CAPO V - SERVIZIO RADIOELETTRICO PER LE NAVI DA PESCA
 
 ###### Art. 376
 
@@ -3188,7 +3194,7 @@ AGGIORNAMENTO (39)
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-#### CAPO VI - SERVIZIO RADIOELETTRICO MOBILE AERONAUTICO
+##### CAPO VI - SERVIZIO RADIOELETTRICO MOBILE AERONAUTICO
 
 ###### Art. 384
 
@@ -3238,7 +3244,7 @@ AGGIORNAMENTO (39)
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-#### CAPO VII - PROTEZIONE DAI DISTURBI ALLE RADIOCOMUNICAZIONI DISPOSIZIONI PENALI
+##### CAPO VII - PROTEZIONE DAI DISTURBI ALLE RADIOCOMUNICAZIONI DISPOSIZIONI PENALI
 
 ###### Art. 396
 
@@ -3284,7 +3290,7 @@ AGGIORNAMENTO (39)
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 AGOSTO 2003, N. 259))
 
-### DISPOSIZIONI VARIE
+## DISPOSIZIONI VARIE
 
 ###### Art. 407
 

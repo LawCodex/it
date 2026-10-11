@@ -25,7 +25,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+#### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare i seguenti Accordi internazionali firmati a Bruxelles il 17 aprile 1957:
 
@@ -37,11 +37,11 @@ c) Protocollo sui privilegi e sulle immunita' della Comunita' europea dell'energ
 
 d) Protocollo sullo Statuto della Corte di giustizia della Comunita' europea dell'energia atomica.
 
-### Art. 2
+#### Art. 2
 
 Piena ed intera esecuzione e' data agli Accordi suddetti a decorrere dal giorno dell'entrata in vigore del Trattato che istituisce la Comunita' economica europea e del Trattato che istituisce la Comunita' europea dell'energia atomica.
 
-### Art. 3
+#### Art. 3
 
 Ai fini dell'applicazione degli articoli 150 del Trattato che istituisce la Comunita' europea dell'energia atomica, 21 del Protocollo sullo Statuto della Corte di giustizia allegato al Trattato stesso, 177 del Trattato che istituisce la Comunita' economica europea e 20 del Protocollo sullo Statuto della Corte di giustizia allegato al Trattato stesso, gli organi della giurisdizione ordinaria e speciale emettono ordinanza con la quale, riferiti i termini ed i motivi della istanza, con cui fu sollevata la questione, dispongono l'immediata trasmissione degli atti alla Corte di giustizia e sospendono il giudizio in corso.
 
@@ -65,7 +65,7 @@ GUI - CARLI
 
 Visto, il Guardasigilli: GONELLA
 
-## CAPO I - Beni, fondi, averi e operazioni della Comunita'
+### CAPO I - Beni, fondi, averi e operazioni della Comunita'
 
 Protocolli sui Privilegi e sulle Immunita' e sullo Statuto della Corte di Giustizia della Comunita' Economica Europea
 
@@ -123,7 +123,7 @@ Hanno convenuto le disposizioni seguenti che sono allegate al
 
 Trattato che istituisce la Comunita' Economica Europea.
 
-### Art. 1
+#### Art. 1
 
 I locali e gli edifici della Comunita' sono inviolabili.
 
@@ -131,11 +131,11 @@ Essi sono esenti da perquisizioni, requisizioni, confisca o
 
 espropriazione. I beni e gli averi della Comunita' non possono essere oggetto di alcun provvedimento di coercizione amministrativa o giudiziaria senza autorizzazione della Corte di Giustizia.
 
-### Art. 2
+#### Art. 2
 
 Gli archivi della Comunita' sono inviolabili.
 
-### Art. 3
+#### Art. 3
 
 La Comunita', i suoi averi, entrate e altri beni sono esenti da
 
@@ -149,7 +149,7 @@ Nessuna esenzione e' concessa per quanto riguarda le imposte, tasse
 
 e diritti che costituiscono mera rimunerazione di servizi di utilita' generale.
 
-### Art. 4
+#### Art. 4
 
 La Comunita' e' esente da ogni dazio doganale, divieto e
 
@@ -157,9 +157,9 @@ restrizione all'importazione e all'esportazione, in ordine, agli oggetti destina
 
 Essa e' del pari esente da ogni dazio doganale e da ogni divieto e restrizione all'importazione e all'esportazione in ordine alle sue pubblicazioni.
 
-## CAPO II - Comunicazioni e lasciapassare
+### CAPO II - Comunicazioni e lasciapassare
 
-### Art. 5
+#### Art. 5
 
 Le istituzioni della Comunita' beneficiano, nel territorio di
 
@@ -169,7 +169,7 @@ La corrispondenza ufficiale e le altre comunicazioni ufficiali
 
 delle istituzioni della Comunita' non possono essere censurate.
 
-### Art. 6
+#### Art. 6
 
 I presidenti delle istituzioni della Comunita' possono rilasciare ai membri' e agli agenti di dette istituzioni lasciapassare la cui forma e' stabilita dal Consiglio e che sono riconosciuti dalle autorita' degli Stati membri come titoli di viaggio validi. Tali lasciapassare sono rilasciati ai funzionari e agli agenti secondo le condizioni stabilite dagli statuti di cui all'art. 212 del Trattato.
 
@@ -177,9 +177,9 @@ La Commissione puo' concludere accordi per far riconoscere tali
 
 lasciapassare come titoli di viaggio validi sul territorio di Stati terzi.
 
-## CAPO III - Membri dell'assemblea
+### CAPO III - Membri dell'assemblea
 
-### Art. 7
+#### Art. 7
 
 Nessuna restrizione d'ordine amministrativo o d'altro genere e'
 
@@ -195,13 +195,13 @@ funzionari che si recano all'estero in missione ufficiale temporanea;
 
 b) dai governi degli altri Stati membri, le stesse agevolazioni concesse ai rappresentanti di governi esteri in missione ufficiale temporanea.
 
-### Art. 8
+#### Art. 8
 
 I membri dell'Assemblea possono essere ricercati, detenuti o
 
 perseguiti a motivo delle opinioni o dei voti espressi nell'esercizio delle loro funzioni.
 
-### Art. 9
+#### Art. 9
 
 Per la durata delle sessioni dell'Assemblea, i membri di essa
 
@@ -217,9 +217,9 @@ L'immunita' li copre ugualmente quando essi si recano al luogo di riunione dell'
 
 L'immunita' non puo' essere invocata nel caso di flagrante delitto e non puo' inoltre pregiudicare il diritto dell'Assemblea di togliere l'immunita' ad uno dei suoi membri.
 
-## CAPO IV - Rappresentanti degli Stati membri che partecipano ai lavori delle istituzioni della comunita'
+### CAPO IV - Rappresentanti degli Stati membri che partecipano ai lavori delle istituzioni della comunita'
 
-### Art. 10
+#### Art. 10
 
 I rappresentanti degli Stati membri che partecipano ai lavori delle
 
@@ -227,9 +227,9 @@ istituzioni della Comunita', nonche' i loro consiglieri e periti, tecnici, godon
 
 Il presente articolo si applica ugualmente ai membri degli organi consultivi della Comunita'.
 
-## CAPO V - Funzionari e agenti della Comunita'
+### CAPO V - Funzionari e agenti della Comunita'
 
-### Art. 11
+#### Art. 11
 
 Sul territorio di ciascuno Stato membro e qualunque sia la loro
 
@@ -247,7 +247,7 @@ e) godono del diritto di importare in franchigia la propria
 
 autovettura destinata al loro uso personale, acquistata nel paese della loro ultima residenza o nel paese di cui sono cittadini, alle condizioni del mercato interno di tale paese, e di riesportarla in franchigia, fatte salve, nell'uno e nell'altro caso, le condizioni ritenute necessarie dal governo del paese interessato.
 
-### Art. 12
+#### Art. 12
 
 Alle condizioni e secondo la procedura stabilite dal Consiglio, che
 
@@ -257,7 +257,7 @@ Essi sono esenti da imposte nazionali sugli stipendi, salari ed
 
 emolumenti versati dalla Comunita'.
 
-### Art. 13
+#### Art. 13
 
 Ai fini dell'applicazione delle imposte sul reddito e sul
 
@@ -267,13 +267,13 @@ I beni mobili appartenenti alle persone di cui al comma precedente e che si trov
 
 Ai fini dell'applicazione delle disposizioni del presente articolo non si prendono in considerazione i domicili acquisiti soltanto a motivo dell'esercizio di funzioni al servizio di altre organizzazioni internazionali.
 
-### Art. 14
+#### Art. 14
 
 Il Consiglio, deliberando all'unanimita' su una proposta che la
 
 Commissione formulera' nel termine di un anno dall'entrata in vigore del Trattato, stabilisce il regime di previdenza sociale applicabile ai funzionari e agli agenti della Comunita'.
 
-### Art. 15
+#### Art. 15
 
 Il Consiglio, deliberando su proposta della Commissione e previa
 
@@ -283,17 +283,17 @@ I nomi, le qualifiche e gli indirizzi dei funzionari e agenti
 
 compresi in tali categorie sono comunicati periodicamente ai governi degli Stati membri.
 
-## CAPO VI - Privilegi e immunita' delle missioni accreditate presso la Comunita'
+### CAPO VI - Privilegi e immunita' delle missioni accreditate presso la Comunita'
 
-### Art. 16
+#### Art. 16
 
 Lo Stato membro, sul cui territorio e' situata la sede della
 
 Comunita', riconosce alle immissioni dei paesi terzi accreditate presso la Comunita' le immunita' diplomatiche d'uso.
 
-## CAPO VII - Disposizioni generali
+### CAPO VII - Disposizioni generali
 
-### Art. 17
+#### Art. 17
 
 I privilegi, le immunita' e le agevolazioni sono concesse ai
 
@@ -303,23 +303,23 @@ Ciascuna istituzione della Comunita' ha l'obbligo di togliere
 
 l'immunita' concessa a un funzionario o ad un agente ogni qualvolta essa reputi che cio' non sia contrario agli interessi della Comunita'.
 
-### Art. 18
+#### Art. 18
 
 Ai fini dell'applicazione del presente Protocollo, le istituzioni della Comunita' agiranno d'intesa con le autorita' responsabili degli Stati membri interessati.
 
-### Art. 19
+#### Art. 19
 
 Gli articoli da 11 a 14 inclusi e l'art. 17 sono applicabili ai
 
 membri della Commissione.
 
-### Art. 20
+#### Art. 20
 
 Gli articoli da 11 a 14 inclusi e l'art. 17 sono applicabili ai
 
 giudici, agli avvocati generali, al cancelliere e ai relatori aggiunti della Corte di Giustizia, senza pregiudizio delle disposizioni dell'art. 3 del Protocollo sullo Statuto della Corte di Giustizia, relative; all'immunita' di giurisdizione dei giudici e degli avvocati generali.
 
-### Art. 21
+#### Art. 21
 
 Il presente Protocollo si applica anche alla Banca europea per gli investimenti, ai membri dei suoi organi, al suo personale e ai rappresentanti degli Stati membri che partecipano ai suoi lavori, senza pregiudizio delle disposizioni del Protocollo sullo statuto della Banca.
 
@@ -401,7 +401,7 @@ Hanno convenuto le disposizioni seguenti che sono allegate al
 
 Trattato che istituisce la Comunita' Economica Europea.
 
-### Art. 1
+#### Art. 1
 
 La Corte, istituita dall'art. 4 del Trattato, e' costituita ed
 
@@ -409,13 +409,13 @@ esercita le proprie funzioni conformemente alle disposizioni del Trattato e del 
 
 ## TITOLO PRIMO - Statuto dei giudici e degli avvocati generali
 
-### Art. 2
+#### Art. 2
 
 Ogni giudice, prima di assumere le proprie funzioni deve, in seduta
 
 pubblica, prestare giuramento di esercitare tali funzioni in piena imparzialita' e secondo coscienza e di nulla divulgare del segreto delle deliberazioni.
 
-### Art. 3
+#### Art. 3
 
 I giudici godono dell'immunita' di giurisdizione. Per quanto
 
@@ -425,7 +425,7 @@ La Corte, in seduta plenaria puo' togliere l'immunita'.
 
 Qualora, tolta l'immunita', venga promossa un'azione penale contro un giudice, questi puo' essere giudicato, in ciascuno degli Stati membri, soltanto dall'organo competente a giudicare i magistrati appartenenti alla piu' alta giurisdizione nazionale.
 
-### Art. 4
+#### Art. 4
 
 I giudici non possono esercitare alcuna funzione politica o
 
@@ -439,7 +439,7 @@ Al momento del loro insediamento, essi assumono l'impegno solenne di rispettare,
 
 In caso di dubbio, la Corte decide.
 
-### Art. 5
+#### Art. 5
 
 A parte i rinnovamenti regolari e i decessi, le funzioni di giudice
 
@@ -453,7 +453,7 @@ Salvo i casi in cui si applica l'art. 6 seguente, ogni giudice
 
 rimane in carica fino a quando il suo successore non assuma le proprie funzioni.
 
-### Art. 6
+#### Art. 6
 
 I giudici possono essere rimossi dalle loro funzioni oppure essere dichiarati decaduti dal loro diritto a pensione o da altri vantaggi sostitutivi soltanto qualora, a giudizio unanime dei giudici e degli avvocati generali della Corte, non siano piu' in possesso dei requisiti richiesti ovvero non soddisfino piu' agli obblighi derivanti dalla loro carica. L'interessato non prende parte a tali deliberazioni.
 
@@ -465,13 +465,13 @@ Quest'ultima notificazione, in caso di decisione che rimuove un
 
 giudice dalle sue funzioni, importa vacanza di seggio.
 
-### Art. 7
+#### Art. 7
 
 I giudici le cui funzioni cessano prima dello scadere del loro
 
 mandato, sono sostituiti per la restante durata del mandato stesso.
 
-### Art. 8
+#### Art. 8
 
 Le disposizioni degli articoli da 2 a 7 inclusi sono applicabili
 
@@ -479,25 +479,25 @@ agli avvocati generali.
 
 ## TITOLO II - Organizzazione
 
-### Art. 9
+#### Art. 9
 
 Il cancelliere presta giuramento avanti alla Corte di esercitare le
 
 proprie funzioni in piena imparzialita' e secondo coscienza e di nulla divulgare del segreto delle deliberazioni.
 
-### Art. 10
+#### Art. 10
 
 La Corte predispone la sostituzione del cancelliere in caso di
 
 impedimento di questi.
 
-### Art. 11
+#### Art. 11
 
 Funzionari e altri agenti sono addetti alla Corte allo scopo di
 
 assicurarne il funzionamento. Essi dipendono dal cancelliere sotto l'autorita' del presidente.
 
-### Art. 12
+#### Art. 12
 
 Una deliberazione unanime del Consiglio, presa su proposta della
 
@@ -505,23 +505,23 @@ Corte, puo' prevedere la nomina di relatori aggiunti e definirne lo statuto. I r
 
 I relatori aggiunti, scelti tra persone che offrano ogni garanzia di indipendenza e abbiano le qualifiche giuridiche necessarie, sono nominati dal Consiglio. Essi prestano giuramento avanti alla Corte di esercitare le loro funzioni in piena imparzialita' e secondo coscienza e di nulla divulgare del segreto delle deliberazioni.
 
-### Art. 13
+#### Art. 13
 
 I giudici, gli avvocati generali e il cancelliere devono risiedere dove la Corte ha la propria sede.
 
-### Art. 14
+#### Art. 14
 
 La Corte funziona in modo permanente. La durata delle vacanze
 
 giudiziarie e' fissata dalla Corte, tenuto conto delle necessita' del servizio.
 
-### Art. 15
+#### Art. 15
 
 La Corte puo' deliberare validamente soltanto in numero dispari. Le
 
 deliberazioni della Corte riunita in seduta plenaria sono valide se sono presenti cinque giudici. Le deliberazioni delle sezioni sono valide soltanto se prese da tre giudici; in caso d'impedimento di uno dei giudici componenti una sezione, si puo' ricorrere a un giudice che faccia parte di un'altra sezione, alle condizioni che saranno definite dal regolamento di procedura.
 
-### Art. 16
+#### Art. 16
 
 I giudici e gli avvocati generali non possono partecipare alla
 
@@ -539,7 +539,7 @@ l'assenza' in seno alla Corte o ad una sua sezione di un giudice della propria n
 
 ## TITOLO III - Procedura
 
-### Art. 17
+#### Art. 17
 
 Tanto gli Stati quanto le istituzioni della Comunita' sono
 
@@ -555,7 +555,7 @@ I professori cittadini degli Stati membri la cui legislazione
 
 riconosce loro il diritto di patrocinare, godono avanti alla Corte dei diritti riconosciuti agli avvocati dal presente articolo.
 
-### Art. 18
+#### Art. 18
 
 La procedura avanti alla Corte comprende due fasi: l'una scritta, l'altra orale.
 
@@ -567,7 +567,7 @@ e nei termini fissati dal regolamento di procedura.
 
 La procedura orale comprende la lettura della relazione presentata da un giudice relatore, l'audizione da parte della Corte degli agenti, dei consulenti e degli avvocati e delle conclusioni dell'avvocato generale e, ove occorra, l'audizione dei testimoni e dei periti.
 
-### Art. 19
+#### Art. 19
 
 La Corte e' adibita mediante istanza trasmessa al cancelliere.
 
@@ -577,7 +577,7 @@ All'istanza deve essere allegato, ove occorra, l'atto di cui e'
 
 richiesto l'annullamento, ovvero, nell'ipotesi contemplata dall'art. 175 del Trattato, un documento che certifichi la data della richiesta prevista da tale articolo. Se questi documenti non sono stati allegati alla istanza, il cancelliere invita l'interessato a produrli entro un termine ragionevole, senza che si possa eccepire decadenza qualora la regolarizzazione intervenga dopo la scadenza del termine per ricorrere.
 
-### Art. 20
+#### Art. 20
 
 Nei casi contemplati dall'art. 177 del Trattato, la decisione della
 
@@ -587,7 +587,7 @@ Nel termine di due mesi da tale ultima notificazione, le parti, gli
 
 Stati membri, la Commissione e, quando ne sia il caso, il Consiglio, hanno il diritto di presentare alla Corte memorie ovvero osservazioni scritte.
 
-### Art. 21
+#### Art. 21
 
 La Corte puo' richiedere alle parti di produrre tutti i documenti e
 
@@ -597,31 +597,31 @@ La Corte puo' parimenti richiedere agli Stati membri e alle
 
 istituzioni che non siano parti in causa tutte le informazioni che ritenga necessarie ai fini del processo.
 
-### Art. 22
+#### Art. 22
 
 In ogni momento, la Corte puo' affidare una perizia a qualunque
 
 persona, ente, ufficio, commissione od organo di sua scelta.
 
-### Art. 23
+#### Art. 23
 
 Alle condizioni che saranno determinate dal regolamento di
 
 procedura, si puo' procedere all'audizione di testimoni.
 
-### Art. 24
+#### Art. 24
 
 La Corte gode, nei confronti dei testimoni non comparsi, dei poteri
 
 generalmente riconosciuti in materia alle corti e ai tribunali e puo' infliggere sanzioni pecuniarie, alle condizioni che saranno determinate dal regolamento di procedura.
 
-### Art. 25
+#### Art. 25
 
 I testimoni e i periti possono essere uditi sotto il vincolo del
 
 giuramento, secondo la formula stabilita dal regolamento di procedura ovvero secondo le modalita' previste dalla legislazione nazionale del testo o del perito.
 
-### Art. 26
+#### Art. 26
 
 La Corte puo' ordinare che un testimonio o un perito sia udito
 
@@ -633,51 +633,51 @@ giudiziaria competente, alle condizioni stabilite dal regolamento di procedura. 
 
 La Corte sostiene le spese, con riserva di porle, quando ne sia il caso, a carico delle parti.
 
-### Art. 27
+#### Art. 27
 
 Ogni Stato membro considera qualsiasi violazione dei giuramenti dei
 
 testimoni e dei periti alla stregua del corrispondente reato commesso avanti a un tribunale nazionale giudicante in materia civile. Su denuncia della Corte esso procede contro gli autori di tale reato avanti alla giurisdizione nazionale competente.
 
-### Art. 28
+#### Art. 28
 
 L'udienza e' pubblica, salvo decisione contraria presa dalla Corte,
 
 d'ufficio o su richiesta delle parti, per motivi gravi.
 
-### Art. 29
+#### Art. 29
 
 Nel corso del dibattimento la Corte puo' interrogare i periti, i
 
 testimoni e le parti stesse. Tuttavia queste ultime possono provvedere alla propria difesa orale soltanto tramite il proprio rappresentante.
 
-### Art. 30
+#### Art. 30
 
 Di ogni udienza e' redatto un verbale firmato dal presidente e dal cancelliere.
 
-### Art. 31
+#### Art. 31
 
 Il ruolo delle udienze e' fissato dal presidente.
 
-### Art. 32
+#### Art. 32
 
 Le deliberazioni della Corte sono e restano segrete.
 
-### Art. 33
+#### Art. 33
 
 Le sentenze sono motivate. Esse menzionano i nomi dei giudici che hanno partecipato alla deliberazione.
 
-### Art. 34
+#### Art. 34
 
 Le sentenze sono firmate dal presidente e dal cancelliere. Esse
 
 sono lette in pubblica udienza.
 
-### Art. 35
+#### Art. 35
 
 La Corte delibera sulle spese.
 
-### Art. 36
+#### Art. 36
 
 Il presidente della Corte puo' decidere secondo una procedura
 
@@ -691,7 +691,7 @@ L'ordinanza pronunciata dal presidente o dal suo sostituto ha
 
 soltanto carattere provvisorio e non pregiudica in nulla la decisione della Corte sul merito.
 
-### Art. 37
+#### Art. 37
 
 Gli Stati membri e le istituzioni della Comunita' possono
 
@@ -703,7 +703,7 @@ Le conclusioni dell'istanza d'intervento possono avere come oggetto
 
 soltanto l'adesione alle conclusioni di una delle parti.
 
-### Art. 38
+#### Art. 38
 
 Quando la parte convenuta, regolarmente chiamata in causa, si
 
@@ -711,19 +711,19 @@ astiene dal depositare conclusioni scritte, la sentenza viene pronunciata in sua
 
 Salvo decisione contraria della Corte, l'opposizione non sospende l'esecuzione della sentenza pronunziata in contumacia.
 
-### Art. 39
+#### Art. 39
 
 Gli Stati membri, le istituzioni della Comunita' e ogni altra
 
 persona fisica o giuridica, possono, nei casi e alle condizioni che saranno determinate dal regolamento di procedura, proporre opposizione di terzo contro le sentenze pronunziate senza che esse siano state chiamate in causa, qualora tali sentenze siano pregiudizievoli ai loro diritti.
 
-### Art. 40
+#### Art. 40
 
 In caso di difficolta' sul senso e la portata di una sentenza,
 
 spetta alla Corte d'interpretarla, a richiesta di una parte o di una istituzione della Comunita' che dimostri di avere a cio' interesse.
 
-### Art. 41
+#### Art. 41
 
 La revisione delle sentenze puo' essere richiesta alla Corte solo in seguito alla scoperta di un fatto di natura tale da avere un'influenza decisiva e che, prima della pronunzia della sentenza, era ignoto alla Corte e alla parte che domanda la revisione.
 
@@ -731,7 +731,7 @@ La procedura di revisione si apre con una sentenza della Corte che constata espr
 
 Nessuna istanza di revisione puo' essere proposta dopo la scadenza di un termine di dieci anni dalla data della sentenza.
 
-### Art. 42
+#### Art. 42
 
 Il regolamento di procedura stabilira' termini in ragione della
 
@@ -739,25 +739,25 @@ distanza.
 
 Nessuna decadenza risultante dallo spirare dei termini puo' essere eccepita quando l'interessato provi la esistenza di un caso fortuito o di forza maggiore.
 
-### Art. 43
+#### Art. 43
 
 Le azioni contro la Comunita' in materia di responstabilita'
 
 extracontrattuale si prescrivono in cinque anni a decorrere dal momento in cui avviene il fatto che da' loro origine. La prescrizione e' interrotta sia dall'istanza presentata alla Corte, sia dalla preventiva richiesta che il danneggiato puo' rivolgere all'istituzione competente della Comunita'. In quest'ultimo caso l'istanza deve essere proposta nel termine di due mesi previsto dall'art. 173; sono applicabili, quando ne sia il caso, le disposizioni di cui all'art. 175, comma secondo.
 
-### Art. 44
+#### Art. 44
 
 Il regolamento di procedura della Corte di cui allo art. 188 del
 
 Trattato, contiene, oltre alle disposizioni contemplate dal presente Statuto, tutte le disposizioni necessarie per applicarlo e, per quanto necessario, completarlo.
 
-### Art. 45
+#### Art. 45
 
 Il Consiglio, deliberando all'unanimita', puo' apportare alle
 
 disposizioni del presente Statuto gli adattamenti complementari che risultassero necessari in seguito alle misure da esso eventualmente adottate a termini dell'art. 165, ultimo comma del Trattato.
 
-### Art. 46
+#### Art. 46
 
 Il presidente del Consiglio procede, immediatamente dopo la
 
@@ -791,7 +791,7 @@ PELLA
 
 -----------------------------------
 
-## CAPO I - Beni, fondi, averi e operazioni della Comunita'
+### CAPO I - Beni, fondi, averi e operazioni della Comunita'
 
 Protocolli sui Privilegi e sulle Immunita' e sullo Statuto della Corte di Giustizia della Comunita' Europea della Energia Atomica.
 
@@ -841,15 +841,15 @@ Hanno convenuto le disposizioni seguenti che sono allegate al
 
 Trattato che istituisce la Comunita' Europea della Energia Atomica:
 
-### Art. 1
+#### Art. 1
 
 I locali e gli edifici della Comunita' sono inviolabili. Essi sono esenti da perquisizioni, requisizioni, confisca o espropriazione. I beni e gli averi della Comunita' non possono essere oggetto di alcun provvedimento di coercizione amministrativa o giudiziaria senza autorizzazione della Corte di Giustizia.
 
-### Art. 2
+#### Art. 2
 
 Gli archivi della Comunita' sono inviolabili.
 
-### Art. 3
+#### Art. 3
 
 La Comunita', i suoi averi, entrate e altri beni sono esenti da
 
@@ -863,7 +863,7 @@ Nessuna esenzione e' concessa per quanto riguarda le imposte, tasse
 
 e diritti che costituiscono mera rimunerazione di servizi di utilita' generale.
 
-### Art. 4
+#### Art. 4
 
 La Comunita' e' esente da ogni dazio doganale, divieto e
 
@@ -871,9 +871,9 @@ restrizione all'importazione e all'esportazione, in ordine agli oggetti destinat
 
 Essa e' del pari esente da ogni dazio doganale e da ogni divieto e restrizione all'importazione e all'esportazione in ordine alle sue pubblicazioni.
 
-## CAPO II - Comunicazioni e lasciapassare
+### CAPO II - Comunicazioni e lasciapassare
 
-### Art. 5
+#### Art. 5
 
 Le istituzioni della Comunita' beneficiano, nel territorio di
 
@@ -883,7 +883,7 @@ La corrispondenza ufficiale e le altre comunicazioni ufficiali
 
 delle istituzioni della Comunita' non possono essere censurate.
 
-### Art. 6
+#### Art. 6
 
 I presidenti delle istituzioni della Comunita' possono rilasciare ai membri e agli agenti di dette istituzioni lasciapassare la cui forma e' stabilita dal Consiglio e che sono riconosciuti dalle autorita' degli Stati membri come titoli di viaggio validi. Tali lasciapassare sono rilasciati ai funzionari e agli agenti secondo le condizioni stabilite dagli statuti di cui all'art. 186 del Trattato.
 
@@ -891,9 +891,9 @@ La Commissione puo' concludere accordi per far riconoscere tali
 
 lasciapassare come titoli di viaggio validi sul territorio di Stati terzi.
 
-## CAPO III - Membri dell'Assemblea
+### CAPO III - Membri dell'Assemblea
 
-### Art. 7
+#### Art. 7
 
 Nessuna restrizione d'ordine amministrativo o d'altro genere e'
 
@@ -909,13 +909,13 @@ funzionari che si recano all'estero in missione ufficiale temporanea;
 
 b) dai governi degli altri Stati membri, le stesse agevolazioni concesse ai rappresentanti di governi esteri in missione ufficiale temporanea.
 
-### Art. 8
+#### Art. 8
 
 I membri dell'Assemblea non possono essere ricercati, detenuti o
 
 perseguiti a motivo delle opinioni o dei voti espressi nell'esercizio delle loro funzioni.
 
-### Art. 9
+#### Art. 9
 
 Per la durata delle sessioni dell'Assemblea, i membri di essa
 
@@ -931,9 +931,9 @@ L'immunita' li copre ugualmente quando essi si recano al luogo di riunione dell'
 
 L'immunita' non puo' essere invocata nel caso di flagrante delitto e non puo' inoltre pregiudicare il diritto dell'Assemblea di togliere l'immunita' ad uno dei suoi membri.
 
-## CAPO IV - Rappresentanti degli Stati membri che partecipano ai lavori delle istituzioni della Comunita'
+### CAPO IV - Rappresentanti degli Stati membri che partecipano ai lavori delle istituzioni della Comunita'
 
-### Art. 10
+#### Art. 10
 
 I rappresentanti degli Stati membri che partecipano ai lavori delle
 
@@ -941,9 +941,9 @@ istituzioni della Comunita', nonche' i loro consiglieri e periti tecnici, godono
 
 Il presente articolo si applica ugualmente ai membri degli organi consultivi della Comunita':
 
-## CAPO V - Funzionari e agenti della Comunita'
+### CAPO V - Funzionari e agenti della Comunita'
 
-### Art. 11
+#### Art. 11
 
 Sul territorio di ciascuno Stato membro e qualunque sia la loro
 
@@ -961,7 +961,7 @@ e) godono del diritto di importare in franchigia la propria
 
 autovettura destinata al loro uso personale, acquistata nel paese della loro ultima residenza o nel paese di cui sono cittadini, alle condizioni del mercato interno di tale paese, e di riesportarla in franchigia, fatte salve, nell'uno e nell'altro caso, le condizioni ritenute necessarie dal governo del paese interessato.
 
-### Art. 12
+#### Art. 12
 
 Alle condizioni e secondo la procedura stabilite dal Consiglio, che
 
@@ -971,7 +971,7 @@ Essi sono esenti da imposte nazionali sugli stipendi, salari ed
 
 emolumenti versati dalla Comunita'.
 
-### Art. 13
+#### Art. 13
 
 Ai fini dell'applicazione delle imposte sul reddito e sul
 
@@ -981,13 +981,13 @@ I beni mobili appartenenti alle persone di cui al comma precedente e che si trov
 
 Ai fini dell'applicazione delle disposizioni del presente articolo non si prendono in considerazione i domicili acquisiti soltanto a motivo dell'esercizio di funzioni al servizio di altre organizzazioni internazionali.
 
-### Art. 14
+#### Art. 14
 
 Il Consiglio, deliberando all'unanimita' su una proposta che la
 
 Commissione formulera' nel termine di un anno dall'entrata in vigore del Trattato, stabilisce il regime di previdenza sociale applicabile ai funzionari e agli agenti della Comunita'.
 
-### Art. 15
+#### Art. 15
 
 Il Consiglio, deliberando su proposta della Commissione e previa
 
@@ -997,17 +997,17 @@ I nomi, le qualifiche e gli indirizzi dei funzionari e agenti
 
 compresi in tali categorie sono comunicati periodicamente ai governi degli Stati membri.
 
-## CAPO VI - Privilegi e immunita' delle Missioni accreditate presso la Comunita'
+### CAPO VI - Privilegi e immunita' delle Missioni accreditate presso la Comunita'
 
-### Art. 16
+#### Art. 16
 
 Lo Stato membro, sul cui territorio e' situata la sede della
 
 Comunita', riconosce alle Missioni dei paesi terzi accreditate presso la Comunita' le immunita' diplomatiche d'uso.
 
-## CAPO VII - Disposizioni generali
+### CAPO VII - Disposizioni generali
 
-### Art. 17
+#### Art. 17
 
 I privilegi, le immunita' e le agevolazioni sono concesse ai
 
@@ -1017,17 +1017,17 @@ Ciascuna istituzione della Comunita' ha l'obbligo di togliere
 
 l'immunita' concessa a un funzionario o ad un agente ogni qualvolta essa reputi che cio' non sia contrario agli interessi della Comunita'.
 
-### Art. 18
+#### Art. 18
 
 Ai fini dell'applicazione del presente Protocollo, le istituzioni della Comunita' agiranno d'intesa, con le autorita' responsabili degli Stati membri interessati.
 
-### Art. 19
+#### Art. 19
 
 Gli articoli da 11 a 14 inclusi e l'art. 17 sono applicabili ai
 
 membri della Commissione.
 
-### Art. 20
+#### Art. 20
 
 Gli articoli da 11 a 14 inclusi e l'art. 17 sono applicabili ai
 
@@ -1105,7 +1105,7 @@ Hanno convenuto le disposizioni seguenti che sono allegate al
 
 Trattato che istituisce la Comunita' Europea della Energia Atomica:
 
-### Art. 1
+#### Art. 1
 
 La Corte, istituita dall'art. 3 del Trattato, e' costituita ed
 
@@ -1113,13 +1113,13 @@ esercita le proprie funzioni conformemente alle disposizioni del Trattato e del 
 
 ## TITOLO PRIMO - Statuto dei giudici e degli avvocati generali
 
-### Art. 2
+#### Art. 2
 
 Ogni giudice, prima di assumere le proprie funzioni deve, in seduta
 
 pubblica, prestare giuramento di esercitare tali funzioni in piena imparzialita' e secondo coscienza e di nulla divulgare del segreto delle deliberazioni.
 
-### Art. 3
+#### Art. 3
 
 I giudici godono dell'immunita' di giurisdizione. Per quanto
 
@@ -1129,7 +1129,7 @@ La Corte, in seduta plenaria, puo' togliere l'immunita'.
 
 Qualora, tolta l'immunita', venga promossa un'azione penale contro un giudice, questi puo' essere giudicato, in ciascuno degli Stati membri, soltanto dall'organo competente a giudicare i magistrati appartenenti alla piu' alta giurisdizione nazionale.
 
-### Art. 4
+#### Art. 4
 
 I giudici non possono esercitare alcuna funzione politica o
 
@@ -1143,7 +1143,7 @@ Al momento del loro insediamento, essi assumono lo impegno solenne di rispettare
 
 In caso di dubbio, la Corte decide.
 
-### Art. 5
+#### Art. 5
 
 A parte i rinnovamenti regolari e i decessi, le funzioni di giudice
 
@@ -1157,7 +1157,7 @@ Salvo i casi in cui si applica l'art. 6 seguente, ogni giudice
 
 rimane in carica fino a quando il suo successore non assuma le proprie funzioni.
 
-### Art. 6
+#### Art. 6
 
 I giudici possono essere rimossi dalle loro funzioni oppure essere dichiarati decaduti dal loro diritto a pensione o da altri vantaggi sostitutivi soltanto qualora, a giudizio unanime dei giudici e degli avvocati generali della Corte, non siano piu' in possesso dei requisiti richiesti ovvero non soddisfino piu' agli obblighi derivanti dalla loro carica. L'interessato non prende parte a tali deliberazioni.
 
@@ -1169,13 +1169,13 @@ Quest'ultima notificazione, in caso di decisione che rimuove un
 
 giudice dalle sue funzioni, importa vacanza di seggio.
 
-### Art. 7
+#### Art. 7
 
 I giudici le cui funzioni cessano prima dello scadere del loro
 
 mandato, sono sostituiti per la restante durata del mandato stesso.
 
-### Art. 8
+#### Art. 8
 
 Le disposizioni degli articoli da 2 a 7 inclusi sono applicabili
 
@@ -1183,25 +1183,25 @@ agli avvocati generali.
 
 ## TITOLO II - Organizzazione
 
-### Art. 9
+#### Art. 9
 
 Il cancelliere presta giuramento avanti alla Corte di esercitare le
 
 proprie funzioni in piena imparzialita' e secondo coscienza e di nulla divulgare del segreto delle deliberazioni.
 
-### Art. 10
+#### Art. 10
 
 La Corte predispone la sostituzione del cancelliere in caso di
 
 impedimento di questi.
 
-### Art. 11
+#### Art. 11
 
 Funzionari e altri agenti sono addetti alla Corte allo scopo di
 
 assicurarne il funzionamento. Essi dipendono dal cancelliere sotto l'autorita' del presidente.
 
-### Art. 12
+#### Art. 12
 
 Una deliberazione unanime del Consiglio, presa su proposta della
 
@@ -1209,23 +1209,23 @@ Corte, puo' prevedere la nomina di relatori aggiunti e definirne lo statuto. I r
 
 I relatori aggiunti, scelti tra persone che offrano ogni garanzia di indipendenza e abbiano le qualifiche giuridiche necessarie, sono nominati dal Consiglio. Essi prestano giuramento avanti alla Corte di esercitare le loro funzioni in piena imparzialita' e secondo coscienza e di nulla divulgare del segreto delle deliberazioni.
 
-### Art. 13
+#### Art. 13
 
 I giudici, gli avvocati generali e il cancelliere devono risiedere dove la Corte ha la propria sede.
 
-### Art. 14
+#### Art. 14
 
 La Corte funziona in modo permanente. La durata delle vacanze
 
 giudiziarie e' fissata dalla Corte, tenuto conto delle necessita' del servizio.
 
-### Art. 15
+#### Art. 15
 
 La Corte puo' deliberare validamente soltanto in numero dispari. Le
 
 deliberazioni della Corte riunita in seduta plenaria sono valide se sono presenti cinque giudici. Le deliberazioni delle sezioni sono valide soltanto se prese da tre giudici; in caso d'impedimento di uno dei giudici componenti una sezione, si puo' ricorrere a un giudice che faccia parte di un'altra sezione, alle condizioni che saranno definite dal regolamento di procedura.
 
-### Art. 16
+#### Art. 16
 
 I giudici e gli avvocati generali non possono partecipare alla
 
@@ -1243,7 +1243,7 @@ l'assenza in seno alla Corte o ad una sua sezione di un giudice della propria na
 
 ## TITOLO III - Procedura
 
-### Art. 17
+#### Art. 17
 
 Tanto gli Stati quanto le istituzioni della Comunita' sono
 
@@ -1259,7 +1259,7 @@ I professori cittadini degli Stati membri la cui legislazione
 
 riconosce loro il diritto di patrocinare, godono avanti alla Corte dei diritti riconosciuti agli avvocati dal presente articolo.
 
-### Art. 18
+#### Art. 18
 
 La procedura avanti alla Corte comprende due fasi l'una scritta,
 
@@ -1273,7 +1273,7 @@ e nei termini fissati dal regolamento di procedura.
 
 La procedura orale comprende la lettura della relazione presentata da un giudice relatore, l'audizione da parte della Corte degli agenti, dei consulenti e degli avvocati e delle conclusioni dell'avvocato generale e, ove occorra, l'audizione dei testimoni e dei periti.
 
-### Art. 19
+#### Art. 19
 
 La Corte e' adibita mediante istanza trasmessa al cancelliere.
 
@@ -1283,7 +1283,7 @@ All'istanza deve essere allegato, ove occorra, l'atto di cui e'
 
 richiesto l'annullamento, ovvero, nell'ipotesi contemplata dall'art. 148 del Trattato, un documento che certifichi la data della richiesta prevista da tale articolo. Se questi documenti non sono stati allegati all'istanza, il cancelliere invita l'interessato a produrli entro un termine ragionevole, senza che si possa eccepire decadenza qualora la regolarizzazione intervenga dopo la scadenza del termine per ricorrere.
 
-### Art. 20
+#### Art. 20
 
 Nei casi contemplati dall'art. 18 del Trattato, la Corte e' adibita
 
@@ -1299,7 +1299,7 @@ Se la Corte annulla la decisione del Collegio arbitrale la
 
 procedura puo' essere ripresa, eventualmente, a cura di una delle parti in causa, dinanzi al Collegio arbitrale. Quest'ultimo deve uniformarsi ai principi di diritto enunciati dalla Corte.
 
-### Art. 21
+#### Art. 21
 
 Nei casi contemplati dall'art. 150 del Trattato, la decisione della
 
@@ -1309,7 +1309,7 @@ Nel termine di due mesi da tale ultima notificazione, le parti, gli
 
 Stati membri, la Commissione e, quando ne sia il caso, il Consiglio, hanno il diritto di presentare alla Corte memorie ovvero osservazioni scritte.
 
-### Art. 22
+#### Art. 22
 
 La Corte puo' richiedere alle parti di produrre tutti i documenti e
 
@@ -1319,31 +1319,31 @@ La Corte puo' parimenti richiedere agli Stati membri e alle
 
 istituzioni che non siano parti in causa tutte le informazioni che ritenga necessarie ai fini del processo.
 
-### Art. 23
+#### Art. 23
 
 In ogni momento, la Corte puo' affidare una perizia a qualunque
 
 persona, ente, ufficio, commissione od organo di sua scelta.
 
-### Art. 24
+#### Art. 24
 
 Alle condizioni che saranno determinate dal regolamento di
 
 procedura, si puo' procedere all'audizione di testimoni.
 
-### Art. 25
+#### Art. 25
 
 La Corte gode, nei confronti dei testimoni non comparsi, dei poteri
 
 generalmente riconosciuti in materia alle corti e ai tribunali e puo' infliggere sanzioni pecuniarie, alle condizioni che saranno determinate dal regolamento di procedura.
 
-### Art. 26
+#### Art. 26
 
 I testimoni e i periti possono essere uditi sotto il vincolo del
 
 giuramento, secondo la formula stabilita dal regolamento di procedura ovvero secondo le modalita' previste dalla legislazione nazionale del teste o del perito.
 
-### Art. 27
+#### Art. 27
 
 La Corte puo' ordinare che un testimonio o un perito sia udito
 
@@ -1355,51 +1355,51 @@ giudiziaria competente, alle condizioni stabilite dal regolamento di procedura. 
 
 La Corte sostiene le spese, con riserva di porle, quando ne sia il caso, a carico delle parti.
 
-### Art. 28
+#### Art. 28
 
 Ogni Stato membro considera qualsiasi violazione dei giuramenti dei
 
 testimoni e dei periti alla stregua del corrispondente reato commesso avanti a un tribunale nazionale giudicante in materia civile. Su denuncia della Corte esso procede contro gli autori di tale reato avanti alla giurisdizione nazionale competente.
 
-### Art. 29
+#### Art. 29
 
 L'udienza e' pubblica, salvo decisione contraria presa dalla Corte,
 
 d'ufficio o su richiesta delle parti, per motivi gravi.
 
-### Art. 30
+#### Art. 30
 
 Nel corso del dibattimento la Corte puo' interrogare i periti, i
 
 testimoni e le parti stesse. Tuttavia queste ultime possono provvedere alla propria difesa orale soltanto tramite il proprio rappresentante.
 
-### Art. 31
+#### Art. 31
 
 Di ogni udienza e' redatto un verbale firmato dal presidente e dal cancelliere.
 
-### Art. 32
+#### Art. 32
 
 Il ruolo delle udienze e' fissato dal presidente.
 
-### Art. 33
+#### Art. 33
 
 Le deliberazioni della Corte sono e restano segrete
 
-### Art. 34
+#### Art. 34
 
 Le sentenze sono motivate. Esse menzionano i nomi dei giudici che hanno partecipato alla deliberazione.
 
-### Art. 35
+#### Art. 35
 
 Le sentenze sono firmate dal presidente e dal cancelliere. Esse
 
 sono lette in pubblica udienza.
 
-### Art. 36
+#### Art. 36
 
 La Corte delibera sulle spese.
 
-### Art. 37
+#### Art. 37
 
 Il presidente della Corte puo' decidere secondo una procedura
 
@@ -1413,7 +1413,7 @@ L'ordinanza pronunciata dal presidente o dal suo sostituto ha
 
 soltanto carattere provvisorio e non pregiudica in nulla la decisione della Corte sul merito.
 
-### Art. 38
+#### Art. 38
 
 Gli Stati membri e le istituzioni della Comunita' possono
 
@@ -1425,7 +1425,7 @@ Le conclusioni dell'istanza d'intervento possono avere come oggetto
 
 soltanto l'adesione alle conclusioni di una delle parti.
 
-### Art. 39
+#### Art. 39
 
 Quando la parte convenuta, regolarmente chiamata in causa, si
 
@@ -1433,19 +1433,19 @@ astiene dal depositare conclusioni scritte, la sentenza viene pronunziata in sua
 
 Salvo decisione contraria della Corte, l'opposizione non sospende l'esecuzione della sentenza pronunziata in contumacia.
 
-### Art. 40
+#### Art. 40
 
 Gli Stati membri, le istituzioni della Comunita' e ogni altra
 
 persona fisica o giuridica, possono, nei casi e alle condizioni che saranno determinate dal regolamento di procedura, proporre opposizione di terzo contro le sentenze pronunziate senza che esse siano state chiamate in causa, qualora tali sentenze siano pregiudizievoli ai loro diritti.
 
-### Art. 41
+#### Art. 41
 
 In caso di difficolta' sul senso e la portata di una sentenza,
 
 spetta alla Corte d'interpretarla, a richiesta di una parte o di una istituzione della Comunita' che dimostri di avere a cio' interesse.
 
-### Art. 42
+#### Art. 42
 
 La revisione delle sentenze puo' essere richiesta alla Corte solo in seguito alla scoperta di un fatto di natura tale da avere un'influenza decisiva e che, prima della pronunzia della sentenza, era ignoto alla Corte e alla parte che domanda la revisione.
 
@@ -1453,7 +1453,7 @@ La procedura di revisione si apre con una sentenza della Corte che constata espr
 
 Nessuna istanza di revisione puo' essere proposta dopo la scadenza di un termine di dieci anni dalla data della sentenza.
 
-### Art. 43
+#### Art. 43
 
 Il regolamento di procedura stabilira' termini in ragione della
 
@@ -1461,25 +1461,25 @@ distanza.
 
 Nessuna decadenza risultante dallo spirare dei termini puo' essere eccepita quando l'interessato provi la esistenza di un caso fortuito o di forza maggiore.
 
-### Art. 44
+#### Art. 44
 
 Le azioni contro la Comunita' in materia di responsabilita'
 
 extracontrattuale si prescrivono in cinque anni a decorrere dal momento in cui avviene il fatto che da' loro origine. La prescrizione e' interrotta sia dall'istanza presentata alla Corte, sia dalla preventiva richiesta che il danneggiato puo' rivolgere all'istituzione competente della Comunita'. In quest'ultimo caso l'istanza deve essere proposta nel termine di due mesi previsto dall'art. 146; sono applicabili, quando ne sia il caso, le disposizioni di cui all'art. 148, comma secondo.
 
-### Art. 45
+#### Art. 45
 
 Il regolamento di procedura della Corte di cui all'art. 160 del
 
 Trattato, contiene, oltre alle disposizioni contemplate dal presente Statuto, tutte le disposizioni necessarie per applicarlo e, per quanto necessario, completarlo.
 
-### Art. 46
+#### Art. 46
 
 Il Consiglio, deliberando all'unanimita', puo' apportare alle
 
 disposizioni del presente Statuto gli adattamenti complementari che risultassero necessari in seguito alle misure da esso eventualmente adottate a termini dell'art. 137, ultimo comma del Trattato.
 
-### Art. 47
+#### Art. 47
 
 Il presidente del Consiglio procede, immediatamente dopo la
 

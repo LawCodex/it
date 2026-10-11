@@ -231,7 +231,7 @@ Qualora l'interessato, tenuto conto della totalizzazione dei periodi previsti ne
 
 L'interessato, nel momento in cui matura il diritto a pensione, puo' rinunciare al beneficio delle disposizioni dell'art. 9. In tal caso le prestazioni sono determinate separatamente dagli istituti competenti di ciascun Paese secondo le legislazioni per essi vigenti e indipendentemente dai periodi assicurativi compiuti dall'interessato nell'altro Paese.
 
-## Capitolo II - INFORTUNI SUL LAVORO E MALATTIE PROFESSIONALI
+### Capitolo II - INFORTUNI SUL LAVORO E MALATTIE PROFESSIONALI
 
 #### Articolo 12
 
@@ -283,7 +283,7 @@ Ogni infortunio sul lavoro di cui sia rimasto vittima un cittadino di uno dei du
 
 Salvo quanto disposto all'art. 16, se per valutare il grado di incapacita' in caso di infortunio sul lavoro o di malattia professionale la legislazione di uno dei due Paesi prevede esplicitamente o implicitamente che gli infortuni sul lavoro e le malattie professionali verificatisi anteriormente siano presi in considerazione, lo sono anche gli infortuni sul lavoro e le malattie professionali verificatisi anteriormente sotto la legislazione dell'altro Paese come se si fossero verificati sotto la legislazione del primo Paese.
 
-## Capitolo III - DISPOSIZIONI COMUNI ALLA INVALIDITA', VECCHIAIA, SUPERSTITI, INFORTUNI SUL LAVORO E MALATTIE PROFESSIONALI. SERVIZIO DELLE PRESTAZIONI
+### Capitolo III - DISPOSIZIONI COMUNI ALLA INVALIDITA', VECCHIAIA, SUPERSTITI, INFORTUNI SUL LAVORO E MALATTIE PROFESSIONALI. SERVIZIO DELLE PRESTAZIONI
 
 #### Articolo 21
 
@@ -301,7 +301,7 @@ Nell'accordo amministrativo previsto dall'art. 45 saranno stabilite le modalita'
 
 Nei casi di Cui all'art. 21 gli istituti debitori di un Paese possono delegare il servizio delle prestazioni, come pure il controllo medico ed amministrativo degli interessati che risiedono o soggiornano nell'altro Paese, all'istituto competente di tale Paese, con il consenso di tale istituito. Le relative spese saranno oggetto di rimborso
 
-## Capitolo IV - MALATTIE E MATERNITA'
+### Capitolo IV - MALATTIE E MATERNITA'
 
 #### Articolo 23
 
@@ -353,7 +353,7 @@ Paragrafo 3. - Le prestazioni in natura di cui al paragrafo 1 saranno corrispost
 
 Paragrafo 4. - Le Parti contraenti potranno convenire che i rimborsi previsti al paragrafo 3 si effettuino sulla base di un forfait.
 
-## Capitolo V - DISOCCUPAZIONE
+### Capitolo V - DISOCCUPAZIONE
 
 #### Articolo 28
 
@@ -373,7 +373,7 @@ Un disoccupato che soddisfi alle condizioni stabilite dalla legislazione di una 
 
 Le modalita' per il pagamento delle prestazioni saranno stabilite nell'accordo amministrativo previsto dall'art. 45.
 
-## Capitolo VI - PRESTAZIONI FAMILIARI
+### Capitolo VI - PRESTAZIONI FAMILIARI
 
 #### Articolo 31
 

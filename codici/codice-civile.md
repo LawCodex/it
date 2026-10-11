@@ -230,9 +230,9 @@ La Corte Costituzionale, con sentenza 21 giugno-4 luglio 2006, n. 254 (in G.U. 1
 
 ((ARTICOLO ABROGATO DALLA L. 31 MAGGIO 1995, N. 218))
 
-### LIBRO PRIMO - DELLE PERSONE E DELLA FAMIGLIA
+## LIBRO PRIMO - DELLE PERSONE E DELLA FAMIGLIA
 
-#### TITOLO I - DELLE PERSONE FISICHE
+### TITOLO I - DELLE PERSONE FISICHE
 
 CODICE CIVILE
 
@@ -402,9 +402,9 @@ Lo pseudonimo, usato da una persona in modo che abbia acquistato l'importanza de
 
 Qualora l'immagine di una persona o dei genitori, del coniuge o dei figli sia stata esposta o pubblicata fuori dei casi in cui l'esposizione o la pubblicazione e' dalla legge consentita, ovvero con pregiudizio al decoro o alla reputazione della persona stessa o dei detti congiunti, l'autorita' giudiziaria, su richiesta dell'interessato, puo' disporre che cessi l'abuso, salvo il risarcimento dei danni.
 
-#### TITOLO II - DELLE PERSONE GIURIDICHE
+### TITOLO II - DELLE PERSONE GIURIDICHE
 
-##### CAPO I - Disposizioni generali
+#### CAPO I - Disposizioni generali
 
 ###### Art. 11 - Persone giuridiche pubbliche
 
@@ -418,7 +418,7 @@ Le provincie e i comuni, nonche' gli enti pubblici riconosciuti come persone giu
 
 Le societa' sono regolate dalle disposizioni contenute nel libro V.
 
-##### CAPO II - Delle associazioni e delle fondazioni
+#### CAPO II - Delle associazioni e delle fondazioni
 
 ###### Art. 14 - Atto costitutivo
 
@@ -566,7 +566,7 @@ Il D.P.R. 10 febbraio 2000, n. 361 ha disposto (con l'art. 11, comma 1, lettera 
 
 e) articolo 35, limitatamente alle parole: "dagli articoli 33 e 34, nel termine e secondo le modalita' stabilite dalle norme di attuazione del codice"."
 
-##### CAPO III - Delle associazioni non riconosciute e dei comitati
+#### CAPO III - Delle associazioni non riconosciute e dei comitati
 
 ###### Art. 36 - Ordinamento e amministrazione delle associazioni non riconosciute
 
@@ -614,7 +614,7 @@ Alle fusioni e alle scissioni si applicano, rispettivamente, le disposizioni di 
 
 Gli atti relativi alle trasformazioni, alle fusioni e alle scissioni per i quali il libro V prevede l'iscrizione nel Registro delle imprese sono iscritti nel Registro delle Persone Giuridiche ovvero, nel caso di enti del Terzo settore, nel Registro unico nazionale del Terzo settore.))
 
-#### TITOLO III - DEL DOMICILIO E DELLA RESIDENZA
+### TITOLO III - DEL DOMICILIO E DELLA RESIDENZA
 
 ###### Art. 43 - Domicilio e residenza
 
@@ -656,9 +656,9 @@ Si puo' eleggere domicilio speciale per determinati atti o affari.
 
 Questa elezione deve farsi espressamente per iscritto.
 
-#### TITOLO IV - DELL'ASSENZA E DELLA DICHIARAZIONE DI MORTE PRESUNTA
+### TITOLO IV - DELL'ASSENZA E DELLA DICHIARAZIONE DI MORTE PRESUNTA
 
-##### CAPO I - Dell'assenza
+#### CAPO I - Dell'assenza
 
 ###### Art. 48 - Curatore dello scomparso
 
@@ -722,7 +722,7 @@ Se durante il possesso temporaneo e' provata la morte dell'assente, la successio
 
 Si applica anche in questo caso la disposizione del secondo comma dell'articolo precedente.
 
-##### CAPO II - Della dichiarazione di morte presunta
+#### CAPO II - Della dichiarazione di morte presunta
 
 ###### Art. 58 - Dichiarazione di morte presunta dell'assente
 
@@ -806,7 +806,7 @@ Sono salvi gli effetti civili del matrimonio dichiarato nullo.
 
 La nullita' non puo' essere pronunziata nel caso in cui e' accertata la morte, anche se avvenuta in una data posteriore a quella del matrimonio.
 
-##### CAPO III - Delle ragioni eventuali che competono alla persona di cui si ignora l'esistenza o di cui e' stata dichiarata la morte presunta
+#### CAPO III - Delle ragioni eventuali che competono alla persona di cui si ignora l'esistenza o di cui e' stata dichiarata la morte presunta
 
 ###### Art. 69 - Diritti spettanti alla persona di cui si ignora l'esistenza
 
@@ -834,7 +834,7 @@ Se la persona di cui e stata dichiarata la morte presunta ritorna o ne e' provat
 
 Si applica la disposizione del secondo comma dell'art. 71.
 
-#### TITOLO V - DELLA PARENTELA E DELL'AFFINITA'
+### TITOLO V - DELLA PARENTELA E DELL'AFFINITA'
 
 ###### Art. 74 - Parentela
 
@@ -870,9 +870,9 @@ L'affinita' non cessa per la morte, anche senza prole, del coniuge da cui deriva
 
 Cessa se il matrimonio e' dichiarato nullo, salvi gli effetti di cui all'art. 87, n. 4.
 
-#### TITOLO VI - DEL MATRIMONIO
+### TITOLO VI - DEL MATRIMONIO
 
-##### CAPO I - Della promessa di matrimonio
+#### CAPO I - Della promessa di matrimonio
 
 ###### Art. 79 - Effetti
 
@@ -894,7 +894,7 @@ Lo stesso risarcimento e' dovuto dal promittente che con la propria colpa ha dat
 
 La domanda non e' proponibile dopo un anno dal giorno del rifiuto di celebrare il matrimonio.
 
-##### CAPO II - Del matrimonio celebrato davanti a ministri del culto cattolico e del matrimonio celebrato davanti a ministri dei culti ammessi nello Stato
+#### CAPO II - Del matrimonio celebrato davanti a ministri del culto cattolico e del matrimonio celebrato davanti a ministri dei culti ammessi nello Stato
 
 ###### Art. 82 - Matrimonio celebrato davanti a ministri del culto cattolico
 
@@ -904,9 +904,9 @@ Il matrimonio celebrato davanti a un ministro del culto cattolico e' regolato in
 
 Il matrimonio celebrato davanti a ministri dei culti ammessi nello Stato e' regolato dalle disposizioni del capo seguente, salvo quanto e' stabilito nella legge speciale concernente tale matrimonio.
 
-##### CAPO III - Del matrimonio celebrato davanti all'ufficiale dello stato civile
+#### CAPO III - Del matrimonio celebrato davanti all'ufficiale dello stato civile
 
-###### Sezione I - Delle condizioni necessarie per contrarre matrimonio
+##### Sezione I - Delle condizioni necessarie per contrarre matrimonio
 
 ###### Art. 84
 
@@ -1008,7 +1008,7 @@ Le disposizioni degli articoli 84, 87, numeri 3, 5, 6, 7, 8, 9 e dell'art. 90, q
 
 Per la validita' dei matrimoni dei Principi e delle Principesse Reali e' richiesto l'assenso del Re Imperatore.
 
-###### Sezione II - Delle formalita' preliminari del matrimonio
+##### Sezione II - Delle formalita' preliminari del matrimonio
 
 ###### Art. 93 - Pubblicazione
 
@@ -1078,7 +1078,7 @@ Nel caso di imminente pericolo di vita di uno degli sposi, l'ufficiale dello sta
 
 L'ufficiale dello stato civile dichiara nell'atto di matrimonio il modo con cui ha accertato l'imminente pericolo di vita.
 
-###### Sezione III - Delle opposizioni al matrimonio
+##### Sezione III - Delle opposizioni al matrimonio
 
 ###### Art. 102 - Persone che possono fare opposizione
 
@@ -1108,7 +1108,7 @@ Se l'opposizione e' respinta, l'opponente, che non sia un ascendente o il pubbli
 
 Le disposizioni di questa sezione e della precedente non si applicano al Re Imperatore e alla Famiglia Reale.
 
-###### Sezione IV - Della celebrazione del matrimonio
+##### Sezione IV - Della celebrazione del matrimonio
 
 ###### Art. 106 - Luogo della celebrazione
 
@@ -1174,7 +1174,7 @@ Nei matrimoni del Re Imperatore e della Famiglia Reale l'ufficiale dello stato c
 
 Il Re Imperatore determina il luogo della celebrazione, la quale puo' anche farsi per procura. In questo caso non si applicano le norme dell'art. 111.
 
-###### Sezione V - Del matrimonio dei cittadini in paese straniero e degli stranieri nel Regno
+##### Sezione V - Del matrimonio dei cittadini in paese straniero e degli stranieri nel Regno
 
 ###### Art. 115 - Matrimonio del cittadino all'estero
 
@@ -1196,7 +1196,7 @@ AGGIORNAMENTO (198)
 
 La Corte Costituzionale, con sentenza 20-25 giugno 2011, n. 245 (in G.U. 1a s.s. 27/7/2011, n. 32), ha dichiarato "l'illegittimita' costituzionale dell'articolo 116, primo comma, del codice civile, come modificato dall'art. 1, comma 15, della legge 15 luglio 2009, n. 94 (Disposizioni in materia di sicurezza pubblica), limitatamente alle parole «nonche' un documento attestante la regolarita' del soggiorno nel territorio italiano»".
 
-###### Sezione VI - Della nullita' del matrimonio
+##### Sezione VI - Della nullita' del matrimonio
 
 ###### Art. 117
 
@@ -1332,7 +1332,7 @@ Il terzo al quale sia imputabile la nullita' del matrimonio e' tenuto a corrispo
 
 In ogni caso il terzo che abbia concorso con uno dei coniugi nel determinare la nullita' del matrimonio e' solidalmente responsabile con lo stesso per il pagamento dell'indennita')).
 
-###### Sezione VII - Delle prove della celebrazione del matrimonio
+##### Sezione VII - Delle prove della celebrazione del matrimonio
 
 ###### Art. 130 - Atto di celebrazione del matrimonio
 
@@ -1354,7 +1354,7 @@ Quando vi sono indizi che per dolo o per colpa del pubblico ufficiale o per un c
 
 Se la prova della celebrazione del matrimonio risulta da sentenza penale, l'iscrizione della sentenza nel registro dello stato civile assicura al matrimonio, dal giorno della sua celebrazione, tutti gli effetti riguardo tanto ai coniugi quanto ai figli.
 
-###### Sezione VIII - Disposizioni penali
+##### Sezione VIII - Disposizioni penali
 
 ###### Art. 134 - Omissione di pubblicazione
 
@@ -1398,7 +1398,7 @@ I reati previsti nei precedenti articoli sono di competenza del tribunale.
 
 Le disposizioni della presente sezione si applicano quando i fatti ivi contemplati non costituiscono reato piu' grave.
 
-##### CAPO IV - Dei diritti e dei doveri che nascono dal matrimonio
+#### CAPO IV - Dei diritti e dei doveri che nascono dal matrimonio
 
 ###### Art. 143
 
@@ -1476,7 +1476,7 @@ Il giudice puo', secondo le circostanze, ordinare il sequestro dei beni del coni
 
 ((I coniugi devono adempiere l'obbligo di cui all'articolo 147, secondo quanto previsto dall'articolo 316-bis)).
 
-##### CAPO V - Dello scioglimento del matrimonio e della separazione dei coniugi
+#### CAPO V - Dello scioglimento del matrimonio e della separazione dei coniugi
 
 ###### Art. 149
 
@@ -1620,9 +1620,9 @@ AGGIORNAMENTO (70)
 
 La Corte Costituzionale, con sentenza 10 - 18 febbraio 1988, n. 186 (in G.U. 1a s.s. 24/2/1988, n. 8) ha dichiarato "la illegittimita' costituzionale dell'art. 158 del codice civile, nella parte in cui non prevede che il decreto di omologazione della separazione consensuale costituisce titolo per l'iscrizione dell'ipoteca giudiziale ai sensi dell'art. 2818 del codice civile".
 
-##### CAPO VI - Del regime patrimoniale della famiglia
+#### CAPO VI - Del regime patrimoniale della famiglia
 
-###### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### Art. 159
 
@@ -1694,7 +1694,7 @@ Per la validita' delle stipulazioni e delle donazioni, fatte nel contratto di ma
 
 ((E' nulla ogni convenzione che comunque tenda alla costituzione di beni in dote)).
 
-###### Sezione II - ((Del fondo patrimoniale))
+##### Sezione II - ((Del fondo patrimoniale))
 
 ###### Art. 167
 
@@ -1764,7 +1764,7 @@ Se non vi sono figli, si applicano le disposizioni sullo scioglimento della comu
 
 ((ARTICOLO ABROGATO DALLA L. 19 MAGGIO 1975, N. 151))
 
-###### Sezione III - ((Della comunione legale))
+##### Sezione III - ((Della comunione legale))
 
 ###### Art. 177
 
@@ -2020,7 +2020,7 @@ La Corte Costituzionale, con sentenza 14 - 19 gennaio 1987, n. 6 (in G.U. 1a s.s
 
 ((ARTICOLO ABROGATO DALLA L. 19 MAGGIO 1975, N. 151))
 
-###### Sezione IV - ((Della comunione convenzionale))
+##### Sezione IV - ((Della comunione convenzionale))
 
 ###### Art. 210
 
@@ -2050,7 +2050,7 @@ Non sono derogabili le norme della comunione legale relative all'amministrazione
 
 ((ARTICOLO ABROGATO DALLA L. 19 MAGGIO 1975, N. 151))
 
-###### Sezione V - ((Del regime di separazione dei beni))
+##### Sezione V - ((Del regime di separazione dei beni))
 
 ###### Art. 215
 
@@ -2132,7 +2132,7 @@ I beni di cui nessuno dei coniugi puo' dimostrare la proprieta' esclusiva sono d
 
 ((ARTICOLO ABROGATO DALLA L. 19 MAGGIO 1975, N. 151))
 
-###### ((Sezione VI)) - ((Dell'impresa familiare))
+##### ((Sezione VI)) - ((Dell'impresa familiare))
 
 ###### Art. 230-bis
 
@@ -2166,9 +2166,9 @@ AGGIORNAMENTO (334)
 
 La Corte Costituzionale, con sentenza 4 - 25 luglio 2024, n. 148 (in G.U. 1ª s.s. 31/07/2024, n. 31), ha dichiarato "in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e sul funzionamento della Corte costituzionale), l'illegittimita' costituzionale dell'art. 230-ter cod. civ".
 
-#### TITOLO VII - ((DELLO STATO DI FIGLIO))
+### TITOLO VII - ((DELLO STATO DI FIGLIO))
 
-##### CAPO I - ((Della presunzione di paternita'))((...))
+#### CAPO I - ((Della presunzione di paternita'))((...))
 
 ###### Art. 231
 
@@ -2202,7 +2202,7 @@ Possono analogamente provare il concepimento durante la convivenza quando il fig
 
 ((ARTICOLO ABROGATO DAL D.LGS. 28 DICEMBRE 2013, N. 154))
 
-##### ((CAPO II - Delle prove della filiazione))
+#### ((CAPO II - Delle prove della filiazione))
 
 ###### Art. 236 - Atto di nascita e possesso di stato
 
@@ -2282,7 +2282,7 @@ Chi esercita l'azione e' ammesso a provare che non sussiste rapporto di filiazio
 
 La sola dichiarazione della madre non esclude la paternita'.))
 
-##### ((CAPO III - Dell'azione di disconoscimento e delle azioni di contestazione e di reclamo dello stato di figlio))
+#### ((CAPO III - Dell'azione di disconoscimento e delle azioni di contestazione e di reclamo dello stato di figlio))
 
 ###### Art. 244
 
@@ -2386,7 +2386,7 @@ Nel giudizio devono essere chiamati entrambi i genitori.
 
 Si applicano il sesto comma dell'articolo 244 e il secondo comma dell'articolo 245.))
 
-##### ((...))((...))((CAPO IV - Del riconoscimento dei figli nati fuori dal matrimonio))
+## ((...))((...))((CAPO IV - Del riconoscimento dei figli nati fuori dal matrimonio))
 
 ###### Art. 250
 
@@ -2606,7 +2606,7 @@ Il D.Lgs. 28 dicembre 2013, n. 154, ha disposto (con l'art. 104, comma 10) che "
 
 Quando e' impugnato il riconoscimento, il giudice puo' dare, in pendenza del giudizio, i provvedimenti che ritenga opportuni nell'interesse del figlio.
 
-##### ((CAPO V - Della dichiarazione giudiziale della paternita' e della maternita'))
+#### ((CAPO V - Della dichiarazione giudiziale della paternita' e della maternita'))
 
 ###### Art. 269
 
@@ -2724,7 +2724,7 @@ AGGIORNAMENTO (40)
 
 La L. 19 maggio 1975, n. 151 ha disposto (con l'art. 232, comma 1) che "Le disposizioni della presente legge relative all'azione per la dichiarazione giudiziale di paternita' e maternita', nonche' alle azioni previste dall'articolo 279 del codice civile, si applicano anche ai figli nati o concepiti prima della sua entrata in vigore".
 
-###### Sezione II - Della legittimazione dei figli naturali ((SEZIONE ABROGATA DALLA L. 10 DICEMBRE 2012, N. 219))
+##### Sezione II - Della legittimazione dei figli naturali ((SEZIONE ABROGATA DALLA L. 10 DICEMBRE 2012, N. 219))
 
 ###### Art. 280
 
@@ -2770,9 +2770,9 @@ La L. 19 maggio 1975, n. 151 ha disposto (con l'art. 232, comma 1) che "Le dispo
 
 ((ARTICOLO ABROGATO DALLA L. 10 DICEMBRE 2012, N. 219))
 
-#### TITOLO VIII - ((DELL'ADOZIONE DI PERSONE MAGGIORI DI ETA'))
+### TITOLO VIII - ((DELL'ADOZIONE DI PERSONE MAGGIORI DI ETA'))
 
-##### CAPO I - ((Dell'adozione di persone maggiori di eta' e dei suoi effetti))
+#### CAPO I - ((Dell'adozione di persone maggiori di eta' e dei suoi effetti))
 
 ###### Art. 291 - Condizioni
 
@@ -2942,7 +2942,7 @@ Se tuttavia la revoca e' pronunziata dopo la morte dell'adottante per fatto impu
 
 ((ARTICOLO ABROGATO DALLA L. 4 MAGGIO 1983, N. 184))
 
-##### CAPO II - ((Delle forme dell'adozione di persone di maggiore eta'))
+#### CAPO II - ((Delle forme dell'adozione di persone di maggiore eta'))
 
 ###### Art. 311 - Manifestazione del consenso
 
@@ -3014,7 +3014,7 @@ La L. 5 giugno 1967, n. 431, ha disposto(con l'art. 3, comma 1)che "Nelle ipotes
 
 Per l'adozione di minorenni e' competente il tribunale per i minorenni".
 
-##### CAPO III - Dell'adozione speciale ((CAPO ABROGATO DALLA L. 4 MAGGIO 1983, N. 184))
+#### CAPO III - Dell'adozione speciale ((CAPO ABROGATO DALLA L. 4 MAGGIO 1983, N. 184))
 
 ###### Art. 314/2
 
@@ -3124,9 +3124,9 @@ Per l'adozione di minorenni e' competente il tribunale per i minorenni".
 
 ((ARTICOLO ABROGATO DALLA L. 4 MAGGIO 1983, N. 184))
 
-#### TITOLO IX - ((DELLA RESPONSABILITA' GENITORIALE E DEI DIRITTI E DOVERI DEL FIGLIO))
+### TITOLO IX - ((DELLA RESPONSABILITA' GENITORIALE E DEI DIRITTI E DOVERI DEL FIGLIO))
 
-##### ((CAPO I - Dei diritti e doveri del figlio))
+#### ((CAPO I - Dei diritti e doveri del figlio))
 
 ###### Art. 315
 
@@ -3402,7 +3402,7 @@ Vigilanza del giudice tutelare.
 
 Il giudice tutelare deve vigilare sull'osservanza delle condizioni che il tribunale abbia stabilito per l'esercizio della ((responsabilita' genitoriale)) e per l'amministrazione dei beni.
 
-##### ((CAPO II - Esercizio della responsabilita' genitoriale a seguito di separazione, scioglimento, cessazione degli effetti civili, annullamento, nullita' del matrimonio ovvero all'esito di procedimenti relativi ai figli nati fuori del matrimonio))
+#### ((CAPO II - Esercizio della responsabilita' genitoriale a seguito di separazione, scioglimento, cessazione degli effetti civili, annullamento, nullita' del matrimonio ovvero all'esito di procedimenti relativi ai figli nati fuori del matrimonio))
 
 ###### Art. 337-bis
 
@@ -3552,9 +3552,9 @@ AGGIORNAMENTO (223)
 
 Il D.Lgs. 28 dicembre 2013, n. 154 ha disposto (con l'art. 7, comma 12) che "Dopo l'articolo 337 del codice civile e' inserito il seguente: " Capo II. "Esercizio della responsabilita' genitoriale a seguito di separazione, scioglimento, cessazione degli effetti civili, annullamento, nullita' del matrimonio ovvero all'esito di procedimenti relativi ai figli nati fuori del matrimonio"".
 
-#### TITOLO IX-BIS - ORDINI DI PROTEZIONE CONTRO GLI ABUSI FAMILIARI
+### TITOLO IX-BIS - ORDINI DI PROTEZIONE CONTRO GLI ABUSI FAMILIARI
 
-##### ((TITOLO ABROGATO DAL D.LGS. 31 OTTOBRE 2024. N. 164))
+### ((TITOLO ABROGATO DAL D.LGS. 31 OTTOBRE 2024. N. 164))
 
 ###### Art. 342-bis
 
@@ -3580,9 +3580,9 @@ AGGIORNAMENTO (336)
 
 Il D.Lgs. 31 ottobre 2024, n. 164 ha disposto (con l'art. 7, comma 1) che "Ove non diversamente previsto, le disposizioni del presente decreto si applicano ai procedimenti introdotti successivamente al 28 febbraio 2023".
 
-#### TITOLO X - DELLA TUTELA E DELL'EMANCIPAZIONE
+### TITOLO X - DELLA TUTELA E DELL'EMANCIPAZIONE
 
-##### CAPO I - Della tutela dei minori
+#### CAPO I - Della tutela dei minori
 
 ###### Art. 343 - Apertura della tutela
 
@@ -3608,7 +3608,7 @@ AGGIORNAMENTO (223)
 
 Il D.Lgs. 28 dicembre 2013, n. 154 ha disposto (con l'art. 56, comma 1) che "1. Al primo comma dell'articolo 343 del codice civile le parole: "potesta' dei genitori" sono sostituite dalle seguenti: "responsabilita' genitoriale".".
 
-###### Sezione I - Del giudice tutelare
+##### Sezione I - Del giudice tutelare
 
 ###### Art. 344 - Funzioni del giudice tutelare
 
@@ -3628,7 +3628,7 @@ AGGIORNAMENTO (112a)
 
 Il D.Lgs. 19 febbraio 1998, n. 51, come modificato dalla L. 16 giugno 1998, n. 188 ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3."
 
-###### Sezione II - Del tutore e del protutore
+##### Sezione II - Del tutore e del protutore
 
 ###### Art. 345 - Denunzie al giudice tutelare
 
@@ -3780,7 +3780,7 @@ AGGIORNAMENTO (223)
 
 Il D.Lgs. 28 dicembre 2013, n. 154 ha disposto (con l'art. 59, comma 1) che "Al primo comma dell'articolo 356 del codice civile le parole: "potesta' dei genitori" sono sostituite dalle seguenti: "responsabilita' genitoriale".".
 
-###### Sezione III - Dell'esercizio della tutela
+##### Sezione III - Dell'esercizio della tutela
 
 ###### Art. 357 - Funzioni del tutore
 
@@ -4016,7 +4016,7 @@ Il tutore deve amministrare il patrimonio del minore con la diligenza del buon p
 
 Nella stessa responsabilita' incorre il protutore per cio' che riguarda i doveri del proprio ufficio.
 
-###### Sezione IV - Della cessazione del tutore dall'ufficio
+##### Sezione IV - Della cessazione del tutore dall'ufficio
 
 ###### Art. 383 - Esonero dall'ufficio
 
@@ -4028,7 +4028,7 @@ Il giudice tutelare puo' rimuovere dall'ufficio il tutore che si sia reso colpev
 
 Il giudice non puo' rimuovere il tutore se non dopo averlo sentito o citato; puo' tuttavia sospenderlo dall'esercizio della tutela nei casi che non ammettono dilazione.
 
-###### Sezione V - Del rendimento del conto finale
+##### Sezione V - Del rendimento del conto finale
 
 ###### Art. 385 - Conto finale
 
@@ -4060,7 +4060,7 @@ Nel registro delle tutele, istituito presso ogni giudice tutelare, sono iscritti
 
 Dell'apertura e della chiusura della tutela il cancelliere da' comunicazione entro dieci giorni all'ufficiale dello stato civile per l'annotazione in margine all'atto di nascita del minore.
 
-##### CAPO II - Dell'emancipazione
+#### CAPO II - Dell'emancipazione
 
 ###### Art. 390 - Emancipazione di diritto
 
@@ -4152,7 +4152,7 @@ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n.
 
 ((ARTICOLO ABROGATO DALLA L. 8 MARZO 1975, N. 39))
 
-#### TITOLO XI - ((DELL'AFFILIAZIONE E DELL'AFFIDAMENTO))
+### TITOLO XI - ((DELL'AFFILIAZIONE E DELL'AFFIDAMENTO))
 
 ###### Art. 400 - Norme regolatrici dell'assistenza dei minori
 
@@ -4210,9 +4210,9 @@ AGGIORNAMENTO (313)
 
 La L. 26 novembre 2021, n. 206, ha disposto (con l'art. 1, comma 37) che "Le disposizioni dei commi da 27 a 36 del presente articolo si applicano ai procedimenti instaurati a decorrere dal centottantesimo giorno successivo alla data di entrata in vigore della presente legge".
 
-#### Titolo XII - ((Delle misure di protezione delle persone prive in tutto od in parte di autonomia))
+### Titolo XII - ((Delle misure di protezione delle persone prive in tutto od in parte di autonomia))
 
-##### ((Capo I)) - ((Dell'amministrazione di sostegno))
+#### ((Capo I)) - ((Dell'amministrazione di sostegno))
 
 ###### Art. 404
 
@@ -4342,7 +4342,7 @@ Il giudice tutelare provvede con decreto motivato, acquisite le necessarie infor
 
 Il giudice tutelare provvede altresi', anche d'ufficio, alla dichiarazione di cessazione dell'amministrazione di sostegno quando questa si sia rivelata inidonea a realizzare la piena tutela del beneficiario. In tale ipotesi, se ritiene che si debba promuovere giudizio di interdizione o di inabilitazione, ne informa il pubblico ministero, affinche' vi provveda. In questo caso l'amministrazione di sostegno cessa con la nomina del tutore o del curatore provvisorio ai sensi dell'articolo 419, ovvero con la dichiarazione di interdizione o di inabilitazione)).
 
-##### ((Capo II)) - ((Della interdizione, della inabilitazione e della incapacita' naturale))
+#### ((Capo II)) - ((Della interdizione, della inabilitazione e della incapacita' naturale))
 
 ###### Art. 414
 
@@ -4580,7 +4580,7 @@ La L. 9 gennaio 2004, n. 6 ha disposto (con l'art. 4, comma 1) che "Nel titolo X
 
 "Capo II. - Della interdizione, della inabilitazione e della incapacita' naturale"."
 
-#### TITOLO XIII - DEGLI ALIMENTI
+### TITOLO XIII - DEGLI ALIMENTI
 
 ###### Art. 433
 
@@ -4706,7 +4706,7 @@ L'obbligo degli alimenti cessa con la morte dell'obbligato, anche se questi li h
 
 Il figlio, anche adottivo, e, in sua mancanza, i discendenti prossimi non sono tenuti all'adempimento dell'obbligo di prestare gli alimenti al genitore nei confronti del quale e' stata pronunciata la decadenza dalla ((responsabilita' genitoriale)) e, per i fatti che non integrano i casi di indegnita' di cui all'articolo 463, possono escluderlo dalla successione.
 
-#### TITOLO XIV - DEGLI ATTI DELLO STATO CIVILE
+### TITOLO XIV - DEGLI ATTI DELLO STATO CIVILE
 
 ###### Art. 449 - Registri dello stato civile
 
@@ -4746,11 +4746,11 @@ Nessuna annotazione puo' essere fatta sopra un atto gia' iscritto nei registri s
 
 La sentenza di rettificazione non puo' essere opposta a quelli che non concorsero a domandare la rettificazione, ovvero non furono parti in giudizio o non vi furono regolarmente chiamati.
 
-### LIBRO SECONDO - DELLE SUCCESSIONI
+## LIBRO SECONDO - DELLE SUCCESSIONI
 
-#### TITOLO I - DISPOSIZIONI GENERALI SULLE SUCCESSIONI
+### TITOLO I - DISPOSIZIONI GENERALI SULLE SUCCESSIONI
 
-##### CAPO I - Dell'apertura della successione, della delazione e dell'acquisto dell'eredita'
+#### CAPO I - Dell'apertura della successione, della delazione e dell'acquisto dell'eredita'
 
 ###### Art. 456 - Apertura della successione
 
@@ -4784,7 +4784,7 @@ Non puo' il chiamato compiere gli atti indicati nei commi precedenti, quando si 
 
 Se il chiamato rinunzia all'eredita', le spese sostenute per gli atti indicati dall'articolo precedente sono a carico dell'eredita'.
 
-##### CAPO II - Della capacita' di succedere
+#### CAPO II - Della capacita' di succedere
 
 ###### Art. 462 - Capacita' delle persone fisiche
 
@@ -4794,7 +4794,7 @@ Salvo prova contraria, si presume concepito al tempo dell'apertura della success
 
 Possono inoltre ricevere per testamento i figli di una determinata persona vivente al tempo della morte del testatore, benche' non ancora concepiti.
 
-##### CAPO III - Dell'indegnita'
+#### CAPO III - Dell'indegnita'
 
 ###### Art. 463 - Casi d'indegnita'
 
@@ -4838,7 +4838,7 @@ Chi e' incorso nell'indegnita' e' ammesso a succedere quando la persona, della c
 
 Tuttavia l'indegno non espressamente abilitato, se e' stato contemplato nel testamento quando il testatore conosceva la causa dell'indegnita', e' ammesso a succedere nei limiti della disposizione testamentaria.
 
-##### CAPO IV - Della rappresentazione
+#### CAPO IV - Della rappresentazione
 
 ###### Art. 467
 
@@ -4882,9 +4882,9 @@ Quando vi e' rappresentazione, la divisione si fa per stirpi.
 
 Se uno stipite ha prodotto piu' rami, la suddivisione avviene per stirpi anche in ciascun ramo, e per capi tra i membri del medesimo ramo.
 
-##### CAPO V - DELL'ACCETTAZIONE DELL'EREDITA'
+#### CAPO V - DELL'ACCETTAZIONE DELL'EREDITA'
 
-###### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### Art. 470 - Accettazione pura e semplice e accettazione col beneficio d'inventario
 
@@ -4966,7 +4966,7 @@ Tuttavia, se si scopre un testamento del quale non si aveva notizia al tempo del
 
 L'onere di provare il valore dell'eredita' incombe all'erede.
 
-###### Sezione II - Del beneficio d'inventario
+##### Sezione II - Del beneficio d'inventario
 
 ###### Art. 484 - Accettazione col beneficio d'inventario
 
@@ -5226,7 +5226,7 @@ L'accettazione con beneficio d'inventario fatta da uno dei chiamati giova a tutt
 
 Le spese dell'apposizione dei sigilli, dell'inventario e di ogni altro atto dipendente dall'accettazione con beneficio d'inventario sono a carico dell'eredita'.
 
-##### CAPO VI - Della separazione dei beni del defunto da quelli dell'erede
+#### CAPO VI - Della separazione dei beni del defunto da quelli dell'erede
 
 ###### Art. 512 - Oggetto della separazione
 
@@ -5288,7 +5288,7 @@ Le iscrizioni a titolo di separazione, anche se eseguite in tempi diversi, prend
 
 Alle iscrizioni a titolo di separazione sono applicabili le norme sulle ipoteche.
 
-##### CAPO VII - Della rinunzia all'eredita'
+#### CAPO VII - Della rinunzia all'eredita'
 
 ###### Art. 519 - Dichiarazione di rinunzia
 
@@ -5346,7 +5346,7 @@ L'azione si prescrive in cinque anni dal giorno in cui e' cessata la violenza o 
 
 I chiamati all'eredita', che hanno sottratto o nascosto beni spettanti all'eredita' stessa, decadono dalla facolta' di rinunziarvi e si considerano eredi puri e semplici, nonostante la loro rinunzia.
 
-##### CAPO VIII - Dell'eredita' giacente
+#### CAPO VIII - Dell'eredita' giacente
 
 ###### Art. 528 - Nomina del curatore
 
@@ -5408,7 +5408,7 @@ Le disposizioni della sezione II del capo V di questo titolo, che riguardano l'i
 
 Il curatore cessa dalle sue funzioni quando l'eredita' e' stata accettata.
 
-##### CAPO IX - Della petizione di eredita'
+#### CAPO IX - Della petizione di eredita'
 
 ###### Art. 533 - Nozione
 
@@ -5432,9 +5432,9 @@ Il possessore in buona fede, che ha alienato pure in buona fede una cosa dell'er
 
 E' possessore in buona fede colui che ha acquistato il possesso dei beni ereditari, ritenendo per errore di essere erede. La buona fede non giova se l'errore dipende da colpa grave.
 
-##### CAPO X - Dei legittimari
+#### CAPO X - Dei legittimari
 
-###### Sezione I - Dei diritti riservati ai legittimari
+##### Sezione I - Dei diritti riservati ai legittimari
 
 ###### Art. 536
 
@@ -5598,7 +5598,7 @@ Il legato in sostituzione della legittima grava sulla porzione indisponibile. Se
 
 Il legittimario che rinunzia all'eredita', quando non si ha rappresentazione, puo' sulla disponibile ritenere le donazioni o conseguire i legati a lui fatti; ma quando non vi e' stata espressa dispensa dall'imputazione, se per integrare la legittima spettante agli eredi e' necessario ridurre le disposizioni testamentarie o le donazioni, restano salve le assegnazioni, fatte dal testatore sulla disponibile, che non sarebbero soggette a riduzione se il legittimario accettasse l'eredita', e si riducono le donazioni e i legati fatti a quest'ultimo.
 
-###### Sezione II - Della reintegrazione della quota riservata ai legittimari
+##### Sezione II - Della reintegrazione della quota riservata ai legittimari
 
 ###### Art. 553 - Riduzione delle porzioni degli eredi legittimi in concorso con legittimari
 
@@ -5692,7 +5692,7 @@ La dispensa non ha effetto a danno dei donatari anteriori.
 
 Ogni cosa, che, secondo le regole contenute nel capo II del titolo IV di questo libro, e' esente da collazione, e' pure esente da imputazione.
 
-#### TITOLO II - DELLE SUCCESSIONI LEGITTIME
+### TITOLO II - DELLE SUCCESSIONI LEGITTIME
 
 ###### Art. 565
 
@@ -5712,7 +5712,7 @@ AGGIORNAMENTO (73)
 
 La Corte Costituzionale con sentenza 4-12 aprile 1990 n. 184 (in G.U. 1a s.s. 18/04/1990 n. 16) ha dichiarato "l'illegittimita' costituzionale dell'art. 565 del codice civile, riformato dall'art. 183 della legge 19 maggio 1975, n. 151 ("Riforma del diritto di famiglia"), nella parte in cui, in mancanza di altri successibili all'infuori dello Stato, non prevede la successione legittima tra fratelli e sorelle naturali, dei quali sia legalmente accertato il rispettivo status di filiazione nei confronti del comune genitore."
 
-##### CAPO I - ((Della successione dei parenti))
+#### CAPO I - ((Della successione dei parenti))
 
 ###### Art. 566
 
@@ -5842,7 +5842,7 @@ a) nella rubrica la parola: "naturali" e' sostituita dalla seguente: "nati fuori
 
 b) la parola: "naturali", ovunque presente, e' sostituita dalle seguenti: "nati fuori del matrimonio"".
 
-##### ((CAPO II)) - Della successione del coniuge
+#### ((CAPO II)) - Della successione del coniuge
 
 ###### Art. 581
 
@@ -5890,7 +5890,7 @@ Egli e' pero' escluso dalla successione, quando la persona della cui eredita' si
 
 Nel caso in cui al coniuge sia stata addebitata la separazione con sentenza passata in giudicato, si applicano le disposizioni del secondo comma dell'articolo 548)).
 
-##### ((CAPO III)) - Della successione dello Stato
+#### ((CAPO III)) - Della successione dello Stato
 
 ###### Art. 586 - Acquisto dei beni da parte dello Stato
 
@@ -5898,9 +5898,9 @@ In mancanza di altri successibili, l'eredita' e' devoluta allo Stato. L'acquisto
 
 Lo Stato non risponde dei debiti ereditari e dei legati oltre il valore dei beni acquistati.
 
-#### TITOLO III - DELLE SUCCESSIONI TESTAMENTARIE
+### TITOLO III - DELLE SUCCESSIONI TESTAMENTARIE
 
-##### CAPO I - Disposizioni generali
+#### CAPO I - Disposizioni generali
 
 ###### Art. 587 - Testamento
 
@@ -5922,7 +5922,7 @@ Non si puo' fare testamento da due o piu' persone nel medesimo atto, ne' a vanta
 
 La nullita' della disposizione testamentaria, da qualunque causa dipenda, non puo' essere fatta valere da chi, conoscendo la causa della nullita', ha, dopo la morte del testatore, confermato la disposizione o dato ad essa volontaria esecuzione.
 
-##### CAPO II - Della capacita' di disporre per testamento
+#### CAPO II - Della capacita' di disporre per testamento
 
 ###### Art. 591 - Casi d'incapacita'
 
@@ -5940,7 +5940,7 @@ Nei casi d'incapacita' preveduti dal presente articolo il testamento puo' essere
 
 L'azione si prescrive nel termine di cinque anni dal giorno in cui e' stata data esecuzione alle disposizioni testamentarie.
 
-##### CAPO III - Della capacita' di ricevere per testamento
+#### CAPO III - Della capacita' di ricevere per testamento
 
 ###### Art. 592 - ((Figli)) riconosciuti o riconoscibili
 
@@ -6032,9 +6032,9 @@ AGGIORNAMENTO (123)
 
 La L. 15 maggio 1997, n. 127 come modificata dalla L. 22 giugno 2000, n. 192 ha disposto (con l'art. 13, comma 2) che "Le disposizioni di cui al comma 1 si applicano anche alle acquisizioni deliberate o verificatesi in data anteriore a quella di entrata in vigore della presente legge".
 
-##### CAPO IV - Della forma dei testamenti
+#### CAPO IV - Della forma dei testamenti
 
-###### Sezione I - Dei testamenti ordinari
+##### Sezione I - Dei testamenti ordinari
 
 ###### Art. 601 - Forme
 
@@ -6104,7 +6104,7 @@ Quando il testamento e' depositato in un pubblico archivio, il verbale e' redatt
 
 Della restituzione del testamento si prende nota in margine o in calce all'atto di consegna o di deposito.
 
-###### Sezione II - Dei testamenti speciali
+##### Sezione II - Dei testamenti speciali
 
 ###### Art. 609 - Malattie contagiose, calamita' pubbliche o infortuni
 
@@ -6186,7 +6186,7 @@ I testamenti previsti in questa sezione sono nulli quando manca la redazione in 
 
 Per gli altri difetti di forma si osserva il disposto del secondo comma dell'art. 606.
 
-###### Sezione III - Della pubblicazione dei testamenti olografi e dei testamenti segreti
+##### Sezione III - Della pubblicazione dei testamenti olografi e dei testamenti segreti
 
 ###### Art. 620 - Pubblicazione del testamento olografo
 
@@ -6300,9 +6300,9 @@ Il D.Lgs. 19 febbraio 1998, n. 51 come modificato dalla L. 16 giugno 1998, n. 18
 
 Il notaio che ha ricevuto un testamento pubblico, appena gli e' nota la morte del testatore, o, nel caso di testamento olografo o segreto, dopo la pubblicazione, comunica l'esistenza del testamento agli eredi e legatari di cui conosce il domicilio o la residenza.
 
-##### CAPO V - Dell'istituzione di erede e dei legati
+#### CAPO V - Dell'istituzione di erede e dei legati
 
-###### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### Art. 624 - Violenza, dolo, errore
 
@@ -6362,7 +6362,7 @@ E' nulla la disposizione che lascia al mero arbitrio dell'onerato o di un terzo 
 
 Sono validi i legati fatti a titolo di rimunerazione per i servizi prestati al testatore, anche se non ne sia indicato l'oggetto o la quantita'.
 
-###### Sezione II - Delle disposizioni condizionali, a termine e modali
+##### Sezione II - Delle disposizioni condizionali, a termine e modali
 
 ###### Art. 633 - Condizione sospensiva o risolutiva
 
@@ -6446,7 +6446,7 @@ Per l'adempimento dell'onere puo' agire qualsiasi interessato.
 
 Nel caso d'inadempimento dell'onere, l'autorita' giudiziaria puo' pronunziare la risoluzione della disposizione testamentaria, se la risoluzione e' stata prevista dal testatore, o se l'adempimento dell'onere ha costituito il solo motivo determinante della disposizione.
 
-###### Sezione III - Dei legati
+##### Sezione III - Dei legati
 
 ###### Art. 649 - Acquisto del legato
 
@@ -6584,7 +6584,7 @@ Il legato non ha effetto se la cosa legata e' interamente perita durante la vita
 
 L'obbligazione dell'onerato si estingue se, dopo la morte del testatore, la prestazione e' divenuta impossibile per causa a lui non imputabile.
 
-###### Sezione IV - Del diritto di accrescimento
+##### Sezione IV - Del diritto di accrescimento
 
 ###### Art. 674 - Accrescimento tra coeredi
 
@@ -6620,7 +6620,7 @@ Quando a piu' persone e' legato un usufrutto in modo che tra di loro vi sia il d
 
 Se non vi e' diritto di accrescimento, la porzione del legatario mancante si consolida con la proprieta'.
 
-###### Sezione V - Della revocazione delle disposizioni testamentarie
+##### Sezione V - Della revocazione delle disposizioni testamentarie
 
 ###### Art. 679 - Revocabilita' del testamento
 
@@ -6668,9 +6668,9 @@ La revocazione non ha invece luogo qualora il testatore abbia provveduto al caso
 
 Se i figli o discendenti non vengono alla successione e non si fa luogo a rappresentazione, la disposizione ha il suo effetto.
 
-##### CAPO VI - Delle sostituzioni
+#### CAPO VI - Delle sostituzioni
 
-###### Sezione I - Della sostituzione ordinaria
+##### Sezione I - Della sostituzione ordinaria
 
 ###### Art. 688 - Casi di sostituzione ordinaria
 
@@ -6692,7 +6692,7 @@ I sostituiti devono adempiere gli obblighi imposti agli istituiti, a meno che un
 
 Le norme stabilite in questa sezione si applicano anche ai legati.
 
-###### Sezione II - Della sostituzione fedecommissaria
+##### Sezione II - Della sostituzione fedecommissaria
 
 ###### Art. 692
 
@@ -6752,7 +6752,7 @@ E' valida la disposizione testamentaria avente per oggetto l'erogazione periodic
 
 Tali annualita' possono riscattarsi secondo le norme dettate in materia di rendita.
 
-##### CAPO VII - Degli esecutori testamentari
+#### CAPO VII - Degli esecutori testamentari
 
 ###### Art. 700 - Facolta' di nomina e di sostituzione
 
@@ -6852,9 +6852,9 @@ L'ufficio dell'esecutore testamentario e' gratuito. Tuttavia il testatore puo' s
 
 Le spese fatte dall'esecutore testamentario per l'esercizio del suo ufficio sono a carico dell'eredita'.
 
-#### TITOLO IV - DELLA DIVISIONE
+### TITOLO IV - DELLA DIVISIONE
 
-##### CAPO I - Disposizioni generali
+#### CAPO I - Disposizioni generali
 
 ###### Art. 713 - Facolta' di domandare la divisione
 
@@ -7038,7 +7038,7 @@ AGGIORNAMENTO (351)
 
 Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 32, comma 3) che "Le disposizioni dell'articolo 27 entrano in vigore il 31 ottobre 2027".
 
-##### CAPO II - Della collazione
+#### CAPO II - Della collazione
 
 ###### Art. 737
 
@@ -7138,7 +7138,7 @@ La collazione del danaro donato si fa prendendo una minore quantita' del danaro 
 
 Quando tale danaro non basta e il donatario non vuole conferire altro danaro o titoli dello Stato, sono prelevati mobili o immobili ereditari, in proporzione delle rispettive quote.
 
-##### CAPO III - Del pagamento dei debiti
+#### CAPO III - Del pagamento dei debiti
 
 ###### Art. 752 - Ripartizione dei debiti ereditari tra gli eredi
 
@@ -7164,7 +7164,7 @@ In caso d'insolvenza di un coerede, la sua quota di debito ipotecario e' riparti
 
 Il legatario non e' tenuto a pagare i debiti ereditari, salvo ai creditori l'azione ipotecaria sul fondo legato e l'esercizio del diritto di separazione; ma il legatario che ha estinto il debito di cui era gravato il fondo legato subentra nelle ragioni del creditore contro gli eredi.
 
-##### CAPO IV - Degli effetti della divisione e della garanzia delle quote
+#### CAPO IV - Degli effetti della divisione e della garanzia delle quote
 
 ###### Art. 757 - Diritto dell'erede sulla propria quota
 
@@ -7188,7 +7188,7 @@ Non e' dovuta garanzia per l'insolvenza del debitore di un credito assegnato a u
 
 La garanzia della solvenza del debitore di una rendita e' dovuta per i cinque anni successivi alla divisione.
 
-##### CAPO V - Dell'annullamento e della rescissione in materia di divisione
+#### CAPO V - Dell'annullamento e della rescissione in materia di divisione
 
 ###### Art. 761 - Annullamento per violenza o dolo
 
@@ -7232,7 +7232,7 @@ Il coerede che ha alienato la sua porzione o una parte di essa non e' piu' ammes
 
 Il coerede non perde il diritto di proporre l'impugnazione, se la vendita e' limitata a oggetti di facile deterioramento o di valore minimo in rapporto alla quota.
 
-##### ((Capo V-bis)) - ((Del patto di famiglia))
+#### ((Capo V-bis)) - ((Del patto di famiglia))
 
 ###### Art. 768-bis
 
@@ -7290,9 +7290,9 @@ L'inosservanza delle disposizioni del primo comma costituisce motivo di impugnaz
 
 ((Le controversie derivanti dalle disposizioni di cui al presente capo sono devolute preliminarmente a uno degli organismi di conciliazione previsti dall'articolo 38 del decreto legislativo 17 gennaio 2003, n. 5)).
 
-#### TITOLO V - DELLE DONAZIONI
+### TITOLO V - DELLE DONAZIONI
 
-##### CAPO I - Disposizioni generali
+#### CAPO I - Disposizioni generali
 
 ###### Art. 769 - Definizione
 
@@ -7322,7 +7322,7 @@ La donazione fatta congiuntamente a favore di piu' donatari s'intende fatta per 
 
 E' valida la clausola con cui il donante dispone che, se uno dei donatari non puo' o non vuole accettare, la sua parte si accresca agli altri.
 
-##### CAPO II - Della capacita' di disporre e di ricevere per donazione
+#### CAPO II - Della capacita' di disporre e di ricevere per donazione
 
 ###### Art. 774 - Capacita' di donare
 
@@ -7382,7 +7382,7 @@ AGGIORNAMENTO (31)
 
 La Corte Costituzionale con sentenza 14 - 27 giugno 1973 n. 91 (in G.U. 1ª s.s. 04/07/1973 n. 169) ha dichiarato "l'illegittimita' costituzionale dell'articolo 781 del codice civile."
 
-##### CAPO III - Della forma e degli effetti della donazione
+#### CAPO III - Della forma e degli effetti della donazione
 
 ###### Art. 782 - Forma della donazione
 
@@ -7508,7 +7508,7 @@ Salvo patto speciale, la garanzia del donante non si estende ai vizi della cosa,
 
 La nullita' della donazione, da qualunque causa dipenda, non puo' essere fatta valere dagli eredi o aventi causa dal donante che, conoscendo la causa della nullita', hanno, dopo la morte di lui, confermato la donazione o vi hanno dato volontaria esecuzione.
 
-##### CAPO IV - Della revocazione delle donazioni
+#### CAPO IV - Della revocazione delle donazioni
 
 ###### Art. 800 - Cause di revocazione
 
@@ -7572,23 +7572,23 @@ Le liberalita', anche se risultano da atti diversi da quelli previsti dall'art. 
 
 Questa disposizione non si applica alle liberalita' previste dal secondo comma dell'art. 770 e a quelle che a norma dell'art. 742 non sono soggette a collazione.
 
-### LIBRO TERZO - DELLA PROPRIETA'
+## LIBRO TERZO - DELLA PROPRIETA'
 
-#### TITOLO I - DEI BENI
+### TITOLO I - DEI BENI
 
-##### CAPO I - Dei beni in generale
+#### CAPO I - Dei beni in generale
 
 ###### Art. 810 - Nozione
 
 Sono beni le cose che possono formare oggetto di diritti.
 
-###### Sezione I - Dei beni nell'ordine corporativo
+##### Sezione I - Dei beni nell'ordine corporativo
 
 ###### Art. 811
 
 ((ARTICOLO ABROGATO DAL D. LGS. LUOGOTENENZIALE 14 SETTEMBRE 1944, N. 287))
 
-###### Sezione II - Dei beni immobili e mobili
+##### Sezione II - Dei beni immobili e mobili
 
 ###### Art. 812 - Distinzione dei beni
 
@@ -7636,7 +7636,7 @@ La destinazione di una cosa al servizio o all'ornamento di un'altra non pregiudi
 
 Tali diritti non possono essere opposti ai terzi di buona fede se non risultano da scrittura avente data certa anteriore, quando la cosa principale e' un bene immobile o un bene mobile iscritto in pubblici registri.
 
-###### Sezione III - Dei frutti
+##### Sezione III - Dei frutti
 
 ###### Art. 820 - Frutti naturali e frutti civili
 
@@ -7654,7 +7654,7 @@ Chi fa propri i frutti deve, nei limiti del loro valore, rimborsare colui che ab
 
 I frutti civili si acquistano giorno per giorno, in ragione della durata del diritto.
 
-##### CAPO II - Dei beni appartenenti allo Stato, agli enti pubblici e agli enti ecclesiastici
+#### CAPO II - Dei beni appartenenti allo Stato, agli enti pubblici e agli enti ecclesiastici
 
 ###### Art. 822 - Demanio pubblico
 
@@ -7714,9 +7714,9 @@ I beni degli enti ecclesiastici sono soggetti alle norme del presente codice, in
 
 Gli edifici destinati all'esercizio pubblico del culto cattolico, anche se appartengono a privati, non possono essere sottratti alla loro destinazione neppure per effetto di alienazione, fino a che la destinazione stessa non sia cessata in conformita' delle leggi che li riguardano.
 
-#### TITOLO II - DELLA PROPRIETA'
+### TITOLO II - DELLA PROPRIETA'
 
-##### CAPO I - Disposizioni generali
+#### CAPO I - Disposizioni generali
 
 ###### Art. 832 - Contenuto del diritto
 
@@ -7758,9 +7758,9 @@ La stessa disposizione si applica se il deperimento dei beni ha per effetto di n
 
 Le cose di proprieta' privata, immobili e mobili, che presentano interesse artistico, storico, archeologico o etnografico, sono sottoposte alle disposizioni delle leggi speciali.
 
-##### CAPO II - Della proprieta' fondiaria
+#### CAPO II - Della proprieta' fondiaria
 
-###### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### Art. 840 - Sottosuolo e spazio sovrastante al suolo
 
@@ -7798,7 +7798,7 @@ Nell'applicare questa norma l'autorita' giudiziaria deve contemperare le esigenz
 
 La proprieta' fondiaria e' soggetta a regole particolari per il conseguimento di scopi di pubblico interesse nei casi previsti dalle leggi speciali e dalle disposizioni contenute nelle sezioni seguenti.
 
-###### Sezione II - Del riordinamento della proprieta' rurale
+##### Sezione II - Del riordinamento della proprieta' rurale
 
 ###### Art. 846
 
@@ -7870,7 +7870,7 @@ Nelle materie indicate dagli articoli 850 e seguenti e' salva la competenza dell
 
 Il credito relativo e' privilegiato a norma delle leggi speciali.
 
-###### Sezione III - Della bonifica integrale
+##### Sezione III - Della bonifica integrale
 
 ###### Art. 857 - Terreni soggetti a bonifica
 
@@ -7918,7 +7918,7 @@ Quando l'inosservanza degli obblighi imposti ai proprietari risulta tale da comp
 
 L'espropriazione ha luogo a favore del consorzio, se questo ne fa richiesta, o, in mancanza, a favore di altra persona che si obblighi ad eseguire le opere offrendo opportune garanzie.
 
-###### Sezione IV - Dei vincoli idrogeologici e delle difese fluviali
+##### Sezione IV - Dei vincoli idrogeologici e delle difese fluviali
 
 ###### Art. 866 - Vincoli per scopi idrogeologici e per altri scopi
 
@@ -7936,7 +7936,7 @@ Al fine del rimboschimento e del rinsaldamento i terreni vincolati possono esser
 
 I proprietari d'immobili situati in prossimita' di corsi d'acqua che arrecano o minacciano danni all'agricoltura, ad abitati o a manufatti d'interesse pubblico sono obbligati, anche indipendentemente da un piano di bonifica, a contribuire all'esecuzione delle opere necessarie per il regolamento del corso d'acqua nelle forme stabilite dalle leggi speciali.
 
-###### Sezione V - Della proprieta' edilizia
+##### Sezione V - Della proprieta' edilizia
 
 ###### Art. 869 - Piani regolatori
 
@@ -7958,7 +7958,7 @@ Le conseguenze di carattere amministrativo della violazione delle norme indicate
 
 Colui che per effetto della violazione ha subito danno deve esserne risarcito, salva la facolta' di chiedere la riduzione in pristino quando si tratta della violazione delle norme contenute nella sezione seguente o da questa richiamate.
 
-###### Sezione VI - Delle distanze nelle costruzioni, piantagioni e scavi, e dei muri, fossi e siepi interposti tra i fondi
+##### Sezione VI - Delle distanze nelle costruzioni, piantagioni e scavi, e dei muri, fossi e siepi interposti tra i fondi
 
 ###### Art. 873 - Distanze nelle costruzioni
 
@@ -8140,7 +8140,7 @@ Gli alberi sorgenti sulla linea di confine si presumono comuni, salvo titolo o p
 
 Gli alberi che servono di limite o che si trovano nella siepe comune non possono essere tagliati, se non di comune consenso o dopo che l'autorita' giudiziaria abbia riconosciuto la necessita' o la convenienza del taglio.
 
-###### Sezione VII - Delle luci e delle vedute
+##### Sezione VII - Delle luci e delle vedute
 
 ###### Art. 900 - Specie di finestre
 
@@ -8194,7 +8194,7 @@ Se la veduta diretta forma anche veduta obliqua, la distanza di tre metri deve p
 
 Se si vuole appoggiare la nuova costruzione al muro in cui sono le dette vedute dirette od oblique, essa deve arrestarsi almeno a tre metri sotto la loro soglia.
 
-###### Sezione VIII - Dello stillicidio
+##### Sezione VIII - Dello stillicidio
 
 ###### Art. 908 - Scarico delle acque piovane
 
@@ -8202,7 +8202,7 @@ Il proprietario deve costruire i tetti in maniera che le acque piovane scolino n
 
 Se esistono pubblici colatoi, deve provvedere affinche' le acque piovane vi siano immesse con gronde o canali. Si osservano in ogni caso i regolamenti locali e le leggi sulla polizia idraulica.
 
-###### Sezione IX - Delle acque
+##### Sezione IX - Delle acque
 
 ###### Art. 909 - Diritto sulle acque esistenti nel fondo
 
@@ -8292,13 +8292,13 @@ Per le forme di costituzione e il funzionamento si osservano le norme stabilite 
 
 Il consorzio puo' anche procedere all'espropriazione dei singoli diritti, mediante il pagamento delle dovute indennita'.
 
-##### CAPO III - Dei modi di acquisto della proprieta'
+#### CAPO III - Dei modi di acquisto della proprieta'
 
 ###### Art. 922 - Modi di acquisto
 
 La proprieta' si acquista per occupazione, per invenzione, per accessione, per specificazione, per unione o commistione, per usucapione, per effetto di contratti, per successione a causa di morte e negli altri modi stabiliti dalla legge.
 
-###### Sezione I - Dell'occupazione e dell'invenzione
+##### Sezione I - Dell'occupazione e dell'invenzione
 
 ###### Art. 923 - Cose suscettibili di occupazione
 
@@ -8362,7 +8362,7 @@ I diritti sopra le cose gettate in mare o sopra quelle che il mare rigetta e sop
 
 Parimenti si osservano le leggi speciali per il ritrovamento di aeromobili e di relitti di aeromobili.
 
-###### Sezione II - Dell'accessione, della specificazione, dell'unione e della commistione
+##### Sezione II - Dell'accessione, della specificazione, dell'unione e della commistione
 
 ###### Art. 934 - Opere fatte sopra o sotto il suolo
 
@@ -8460,7 +8460,7 @@ La disposizione dell'articolo 941 non si applica nel caso in cui le alluvioni de
 
 In ogni caso e' esclusa la sdemanializzazione tacita dei beni del demanio idrico)).
 
-##### CAPO IV - Delle azioni a difesa della proprieta'
+#### CAPO IV - Delle azioni a difesa della proprieta'
 
 ###### Art. 948 - Azione di rivendicazione
 
@@ -8488,7 +8488,7 @@ In mancanza di altri elementi, il giudice si attiene al confine delineato dalle 
 
 Se i termini tra fondi contigui mancano o sono diventati irriconoscibili, ciascuno dei proprietari ha diritto di chiedere che essi siano apposti o ristabiliti a spese comuni.
 
-#### TITOLO III - DELLA SUPERFICIE
+### TITOLO III - DELLA SUPERFICIE
 
 ###### Art. 952 - Costituzione del diritto di superficie
 
@@ -8518,7 +8518,7 @@ Le disposizioni precedenti si applicano anche nel caso in cui e' concesso il dir
 
 Non puo' essere costituita o trasferita la proprieta' delle piantagioni separatamente dalla proprieta' del suolo.
 
-#### TITOLO IV - DELL'ENFITEUSI
+### TITOLO IV - DELL'ENFITEUSI
 
 ###### Art. 957 - Disposizioni inderogabili
 
@@ -8660,11 +8660,11 @@ Per le locazioni concluse dall'enfiteuta si applicano le norme dell'art. 999.
 
 Le disposizioni contenute negli articoli precedenti si applicano anche alle enfiteusi costituite dalle persone giuridiche, salvo che sia disposto diversamente dalle leggi speciali.
 
-#### TITOLO V - DELL'USUFRUTTO, DELL'USO E DELL'ABITAZIONE
+### TITOLO V - DELL'USUFRUTTO, DELL'USO E DELL'ABITAZIONE
 
-##### CAPO I - Dell'usufrutto
+#### CAPO I - Dell'usufrutto
 
-###### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### Art. 978 - Costituzione
 
@@ -8684,7 +8684,7 @@ L'usufruttuario puo' cedere il proprio diritto per un certo tempo o per tutta la
 
 La cessione dev'essere notificata al proprietario; finche' non sia stata notificata, l'usufruttuario e' solidalmente obbligato con il cessionario verso il proprietario.
 
-###### Sezione II - Dei diritti nascenti dall'usufrutto
+##### Sezione II - Dei diritti nascenti dall'usufrutto
 
 ###### Art. 981 - Contenuto del diritto di usufrutto
 
@@ -8798,7 +8798,7 @@ Per la riscossione di somme che rappresentano un capitale gravato d'usufrutto, e
 
 Il capitale riscosso dev'essere investito in modo fruttifero e su di esso si trasferisce l'usufrutto. Se le parti non sono d'accordo sul modo d'investimento, provvede l'autorita' giudiziaria.
 
-###### Sezione III - Degli obblighi nascenti dall'usufrutto
+##### Sezione III - Degli obblighi nascenti dall'usufrutto
 
 ###### Art. 1001 - Obbligo di restituzione. Misura della diligenza
 
@@ -8892,7 +8892,7 @@ L'usufruttuario puo' far riconoscere l'esistenza delle servitu' a favore del fon
 
 Le spese delle liti che riguardano tanto la proprieta' quanto l'usufrutto sono sopportate dal proprietario e dall'usufruttuario in proporzione del rispettivo interesse.
 
-###### Sezione IV - Estinzione e modificazioni dell'usufrutto
+##### Sezione IV - Estinzione e modificazioni dell'usufrutto
 
 ###### Art. 1014 - Estinzione dell'usufrutto
 
@@ -8936,7 +8936,7 @@ Se e' perito un edificio e il proprietario intende di ricostruirlo con la somma 
 
 Se la cosa e' requisita o espropriata per pubblico interesse, l'usufrutto si trasferisce sull'indennita' relativa.
 
-##### CAPO II - Dell'uso e dell'abitazione
+#### CAPO II - Dell'uso e dell'abitazione
 
 ###### Art. 1021 - Uso
 
@@ -8966,9 +8966,9 @@ Se non raccoglie che una parte dei frutti o non occupa che una parte della casa,
 
 Le disposizioni relative all'usufrutto si applicano, in quanto compatibili, all'uso e all'abitazione.
 
-#### TITOLO VI - DELLE SERVITU' PREDIALI
+### TITOLO VI - DELLE SERVITU' PREDIALI
 
-##### CAPO I - Disposizioni generali
+#### CAPO I - Disposizioni generali
 
 ###### Art. 1027 - Contenuto del diritto
 
@@ -8992,7 +8992,7 @@ Il proprietario del fondo servente non e' tenuto a compiere alcun atto per rende
 
 Le servitu' prediali possono essere costituite coattivamente o volontariamente. Possono anche essere costituite per usucapione o per destinazione del padre di famiglia.
 
-##### CAPO II - Delle servitu' coattive
+#### CAPO II - Delle servitu' coattive
 
 ###### Art. 1032 - Modi di costituzione
 
@@ -9002,7 +9002,7 @@ La sentenza stabilisce le modalita' della servitu' e determina l'indennita' dovu
 
 Prima del pagamento dell'indennita' il proprietario del fondo servente puo' opporsi all'esercizio della servitu'.
 
-###### Sezione I - Dell'acquedotto e dello scarico coattivo
+##### Sezione I - Dell'acquedotto e dello scarico coattivo
 
 ###### Art. 1033 - Obbligo di dare passaggio alle acque
 
@@ -9078,7 +9078,7 @@ I proprietari dei fondi attraversati da fogne o da fossi altrui, o che altriment
 
 Nell'esecuzione delle opere indicate dagli articoli precedenti sono applicabili le disposizioni del secondo comma dell'art. 1033 e degli articoli 1035 e 1036.
 
-###### Sezione II - Dell'appoggio e dell'infissione di chiusa
+##### Sezione II - Dell'appoggio e dell'infissione di chiusa
 
 ###### Art. 1047 - Contenuto della servitu'
 
@@ -9088,7 +9088,7 @@ Chi ha diritto di derivare acque da fiumi, torrenti, rivi, canali, laghi o serba
 
 Nella derivazione e nell'uso delle acque a norma del precedente articolo, deve evitarsi tra gli utenti superiori e gli inferiori ogni vicendevole pregiudizio che possa provenire dallo stagnamento, dal rigurgito o dalla diversione delle acque medesime.
 
-###### Sezione III - Della somministrazione coattiva di acqua a un edificio o a un fondo
+##### Sezione III - Della somministrazione coattiva di acqua a un edificio o a un fondo
 
 ###### Art. 1049 - Somministrazione di acqua a un edificio
 
@@ -9106,7 +9106,7 @@ Le norme stabilite dall'articolo precedente si applicano anche se il proprietari
 
 Le disposizioni di questo articolo e del precedente non si applicano nel caso in cui delle acque si dispone in forza di concessione amministrativa.
 
-###### Sezione IV - Del passaggio coattivo
+##### Sezione IV - Del passaggio coattivo
 
 ###### Art. 1051 - Passaggio coattivo
 
@@ -9146,7 +9146,7 @@ La stessa norma si applica in caso di divisione.
 
 Se il passaggio cessa di essere necessario, puo' essere soppresso in qualunque tempo a istanza del proprietario del fondo dominante o del fondo servente. Quest'ultimo deve restituire il compenso ricevuto; ma l'autorita' giudiziaria puo' disporre una riduzione della somma, avuto riguardo alla durata della servitu' e al danno sofferto. Se l'indennita' fu convenuta in annualita', la prestazione cessa dall'anno successivo.
 
-###### Sezione V - Dell'elettrodotto coattivo e del passaggio coattivo di linee teleferiche
+##### Sezione V - Dell'elettrodotto coattivo e del passaggio coattivo di linee teleferiche
 
 ###### Art. 1056 - Passaggio di condutture elettriche
 
@@ -9156,7 +9156,7 @@ Ogni proprietario e' tenuto a dare passaggio per i suoi fondi alle condutture el
 
 Ogni proprietario e' parimenti tenuto a lasciar passare sopra il suo fondo le gomene di vie funicolari aeree a uso agrario o industriale e a tollerare sul fondo le opere, i meccanismi e le occupazioni necessarie a tale scopo, in conformita' delle leggi in materia.
 
-##### CAPO III - Delle servitu' volontarie
+#### CAPO III - Delle servitu' volontarie
 
 ###### Art. 1058 - Modi di costituzione
 
@@ -9172,7 +9172,7 @@ La concessione, pero', fatta da uno dei comproprietari, indipendentemente dagli 
 
 Il proprietario puo', senza il consenso dell'usufruttuario, imporre sul fondo le servitu' che non pregiudicano il diritto di usufrutto.
 
-##### CAPO IV - Delle servitu' acquistate per usucapione e per destinazione del padre di famiglia
+#### CAPO IV - Delle servitu' acquistate per usucapione e per destinazione del padre di famiglia
 
 ###### Art. 1061 - Servitu' non apparenti
 
@@ -9186,7 +9186,7 @@ La destinazione del padre di famiglia ha luogo quanto consta, mediante qualunque
 
 Se i due fondi cessarono di appartenere allo stesso proprietario, senza alcuna disposizione relativa alla servitu', questa s'intende stabilita attivamente e passivamente a favore e sopra ciascuno dei fondi separati.
 
-##### CAPO V - Dell'esercizio delle servitu'
+#### CAPO V - Dell'esercizio delle servitu'
 
 ###### Art. 1063 - Norme regolatrici
 
@@ -9242,7 +9242,7 @@ Se il fondo dominante viene diviso, la servitu' e' dovuta a ciascuna porzione, s
 
 Se il fondo servente viene diviso e la servitu' ricade su una parte determinata del fondo stesso, le altre parti sono liberate.
 
-##### CAPO VI - Dell'estinzione delle servitu'
+#### CAPO VI - Dell'estinzione delle servitu'
 
 ###### Art. 1072 - Estinzione per confusione
 
@@ -9282,15 +9282,15 @@ Le servitu' costituite dall'enfiteuta sul fondo enfiteutico cessano quando l'enf
 
 Le servitu' costituite dall'enfiteuta a favore del fondo enfiteutico non cessano con l'estinguersi dell'enfiteusi. Lo stesso vale per le servitu' costituite dall'usufruttuario a favore del fondo di cui ha l'usufrutto o dal marito a favore del fondo dotale.
 
-##### CAPO VII - Delle azioni a difesa delle servitu'
+#### CAPO VII - Delle azioni a difesa delle servitu'
 
 ###### Art. 1079 - Accertamento della servitu' e altri provvedimenti di tutela
 
 Il titolare della servitu' puo' farne riconoscere in giudizio l'esistenza contro chi ne contesta l'esercizio e puo' far cessare gli eventuali impedimenti e turbative. Puo' anche chiedere la rimessione delle cose in pristino, oltre il risarcimento dei danni.
 
-##### CAPO VIII - Di alcune servitu' in materia di acque
+#### CAPO VIII - Di alcune servitu' in materia di acque
 
-###### Sezione I - Della servitu' di presa o di derivazione di acqua
+##### Sezione I - Della servitu' di presa o di derivazione di acqua
 
 ###### Art. 1080 - Presa d'acqua continua
 
@@ -9372,7 +9372,7 @@ Se la servitu' da' diritto di derivare acqua da un fondo e per fatti indipendent
 
 In questo caso e' dovuta una congrua indennita' al proprietario del fondo dominante.
 
-###### Sezione II - Della servitu' degli scoli e degli avanzi di acqua
+##### Sezione II - Della servitu' degli scoli e degli avanzi di acqua
 
 ###### Art. 1094 - Servitu' attiva degli scoli
 
@@ -9402,9 +9402,9 @@ Il proprietario del fondo vincolato alla restituzione degli scoli o degli avanzi
 
 Il proprietario del fondo soggetto alla servitu' degli scoli o degli avanzi d'acqua puo' sempre liberarsi da tale servitu' mediante la concessione e l'assicurazione al fondo dominante di un corpo d'acqua viva, la cui quantita' e' determinata dall'autorita' giudiziaria, tenuto conto di tutte le circostanze.
 
-#### TITOLO VII - DELLA COMUNIONE
+### TITOLO VII - DELLA COMUNIONE
 
-##### CAPO I - Della comunione in generale
+#### CAPO I - Della comunione in generale
 
 ###### Art. 1100 - Norme regolatrici
 
@@ -9522,7 +9522,7 @@ Il partecipante che ha pagato il debito in solido e non ha ottenuto rimborso con
 
 Alla divisione delle cose comuni si applicano le norme sulla divisione dell'eredita', in quanto non siano in contrasto con quelle sopra stabilite.
 
-##### CAPO II - Del condominio negli edifici
+#### CAPO II - Del condominio negli edifici
 
 ###### Art. 1117
 
@@ -9904,9 +9904,9 @@ Le norme del regolamento non possono in alcun modo menomare i diritti di ciascun
 
 Per quanto non e' espressamente previsto da questo capo si osservano le norme sulla comunione in generale.
 
-#### TITOLO VIII - DEL POSSESSO
+### TITOLO VIII - DEL POSSESSO
 
-##### CAPO I - Disposizioni generali
+#### CAPO I - Disposizioni generali
 
 ###### Art. 1140 - Possesso
 
@@ -9954,9 +9954,9 @@ La buona fede non giova se l'ignoranza dipende da colpa grave.
 
 La buona fede e' presunta e basta che vi sia stata al tempo dell'acquisto.
 
-##### CAPO II - Degli effetti del possesso
+#### CAPO II - Degli effetti del possesso
 
-###### Sezione I - Dei diritti e degli obblighi del possessore nella restituzione della cosa
+##### Sezione I - Dei diritti e degli obblighi del possessore nella restituzione della cosa
 
 ###### Art. 1148 - Acquisto dei frutti
 
@@ -9988,7 +9988,7 @@ Il possessore di buona fede puo' ritenere la cosa finche' non gli siano corrispo
 
 Egli ha lo stesso diritto finche' non siano prestate le garanzie ordinate dall'autorita' giudiziaria nel caso previsto dall'articolo precedente.
 
-###### Sezione II - Del possesso di buona fede di beni mobili
+##### Sezione II - Del possesso di buona fede di beni mobili
 
 ###### Art. 1153 - Effetti dell'acquisto del possesso
 
@@ -10014,7 +10014,7 @@ Le disposizioni degli articoli precedenti non si applicano alle universalita' di
 
 Gli effetti del possesso di buona fede dei titoli di credito sono regolati dal titolo V del libro IV.
 
-###### Sezione III - Dell'usucapione
+##### Sezione III - Dell'usucapione
 
 ###### Art. 1158 - Usucapione dei beni immobili e dei diritti reali immobiliari
 
@@ -10094,7 +10094,7 @@ L'usucapione e' interrotta quando il possessore e' stato privato del possesso pe
 
 L'interruzione si ha come non avvenuta se e' stata proposta l'azione diretta a ricuperare il possesso e questo e' stato ricuperato.
 
-##### CAPO III - Delle azioni a difesa del possesso
+#### CAPO III - Delle azioni a difesa del possesso
 
 ###### Art. 1168 - Azione di reintegrazione
 
@@ -10118,7 +10118,7 @@ L'azione e' data se il possesso dura da oltre un anno, continuo e non interrotto
 
 Anche colui che ha subito uno spoglio non violento o clandestino puo' chiedere di essere rimesso nel possesso, se ricorrono le condizioni indicate dal comma precedente.
 
-#### TITOLO IX - DELLA DENUNZIA DI NUOVA OPERA E DI DANNO TEMUTO
+### TITOLO IX - DELLA DENUNZIA DI NUOVA OPERA E DI DANNO TEMUTO
 
 ###### Art. 1171 - Denunzia di nuova opera
 
@@ -10132,11 +10132,11 @@ Il proprietario, il titolare di altro diritto reale di godimento o il possessore
 
 L'autorita' giudiziaria, qualora ne sia il caso, dispone idonea garanzia per i danni eventuali.
 
-### LIBRO QUARTO - DELLE OBBLIGAZIONI
+## LIBRO QUARTO - DELLE OBBLIGAZIONI
 
-#### TITOLO I - DELLE OBBLIGAZIONI IN GENERALE
+### TITOLO I - DELLE OBBLIGAZIONI IN GENERALE
 
-##### CAPO I - Disposizioni preliminari
+#### CAPO I - Disposizioni preliminari
 
 ###### Art. 1173 - Fonti delle obbligazioni
 
@@ -10150,9 +10150,9 @@ La prestazione che forma oggetto dell'obbligazione deve essere suscettibile di v
 
 Il debitore e il creditore devono comportarsi secondo le regole della correttezza, ((...)).
 
-##### CAPO II - Dell'adempimento delle obbligazioni
+#### CAPO II - Dell'adempimento delle obbligazioni
 
-###### Sezione I - Dell'adempimento in generale
+##### Sezione I - Dell'adempimento in generale
 
 ###### Art. 1176 - Diligenza nell'adempimento
 
@@ -10292,7 +10292,7 @@ Il rilascio di una quietanza per il capitale fa presumere il pagamento degli int
 
 Il creditore che ha ricevuto il pagamento deve consentire la liberazione dei beni dalle garanzie reali date per il credito e da ogni altro vincolo che comunque ne limiti la disponibilita'.
 
-###### Sezione II - Del pagamento con surrogazione
+##### Sezione II - Del pagamento con surrogazione
 
 ###### Art. 1201 - Surrogazione per volonta' del creditore
 
@@ -10334,7 +10334,7 @@ Se il credito e' garantito da pegno, si osserva la disposizione del secondo comm
 
 Se il pagamento e' parziale, il terzo surrogato e il creditore concorrono nei confronti del debitore in proporzione di quanto e' loro dovuto, salvo patto contrario.
 
-###### Sezione III - Della mora del creditore
+##### Sezione III - Della mora del creditore
 
 ###### Art. 1206 - Condizioni
 
@@ -10464,7 +10464,7 @@ Se la prestazione consiste in un fare, il creditore e' costituito in mora median
 
 L'intimazione puo' essere fatta nelle forme d'uso.
 
-##### CAPO III - Dell'inadempimento delle obbligazioni
+#### CAPO III - Dell'inadempimento delle obbligazioni
 
 ###### Art. 1218 - Responsabilita' del debitore
 
@@ -10530,9 +10530,9 @@ E' nullo qualsiasi patto che esclude o limita preventivamente la responsabilita'
 
 E' nullo altresi' qualsiasi patto preventivo di esonero o di limitazione di responsabilita' per i casi in cui il fatto del debitore o dei suoi ausiliari costituisca violazione di obblighi derivanti da norme di ordine pubblico.
 
-##### CAPO IV - Dei modi di estinzione delle obbligazioni diversi dall'adempimento
+#### CAPO IV - Dei modi di estinzione delle obbligazioni diversi dall'adempimento
 
-###### Sezione I - Della novazione
+##### Sezione I - Della novazione
 
 ###### Art. 1230 - Novazione oggettiva
 
@@ -10562,7 +10562,7 @@ Qualora l'obbligazione originaria derivi da un titolo annullabile, la novazione 
 
 Quando un nuovo debitore e' sostituito a quello originario che viene liberato, si osservano le norme contenute nel capo VI di questo titolo.
 
-###### Sezione II - Della remissione
+##### Sezione II - Della remissione
 
 ###### Art. 1236 - Dichiarazione di remissione del debito
 
@@ -10588,7 +10588,7 @@ La remissione accordata a uno dei fideiussori non libera gli altri che per la pa
 
 Il creditore che ha rinunziato, verso corrispettivo, alla garanzia prestata da un terzo deve imputare al debito principale quanto ha ricevuto, a beneficio del debitore e di coloro che hanno prestato garanzia per l'adempimento dell'obbligazione.
 
-###### Sezione III - Della compensazione
+##### Sezione III - Della compensazione
 
 ###### Art. 1241 - Estinzione per compensazione
 
@@ -10658,7 +10658,7 @@ Per volonta' delle parti puo' aver luogo compensazione anche se non ricorrono le
 
 Le parti possono anche stabilire preventivamente le condizioni di tale compensazione.
 
-###### Sezione IV - Della confusione
+##### Sezione IV - Della confusione
 
 ###### Art. 1253 - Effetti della confusione
 
@@ -10672,7 +10672,7 @@ La confusione non opera in pregiudizio dei terzi che hanno acquistato diritti di
 
 Se nella medesima persona si riuniscono le qualita' di fideiussore e di debitore principale, la fideiussione resta in vita, purche' il creditore vi abbia interesse.
 
-###### Sezione V - Dell'impossibilita' sopravvenuta per causa non imputabile al debitore
+##### Sezione V - Dell'impossibilita' sopravvenuta per causa non imputabile al debitore
 
 ###### Art. 1256 - Impossibilita' definitiva e impossibilita' temporanea
 
@@ -10696,7 +10696,7 @@ La stessa disposizione si applica quando, essendo dovuta una cosa determinata, q
 
 Se la prestazione che ha per oggetto una cosa determinata e' divenuta impossibile, in tutto o in parte, il creditore subentra nei diritti spettanti al debitore in dipendenza del fatto che ha causato l'impossibilita', e puo' esigere dal debitore la prestazione di quanto questi abbia conseguito a titolo di risarcimento.
 
-##### CAPO V - Della cessione dei crediti
+#### CAPO V - Della cessione dei crediti
 
 ###### Art. 1260 - Cedibilita' dei crediti
 
@@ -10748,7 +10748,7 @@ Il cedente non risponde della solvenza del debitore, salvo che ne abbia assunto 
 
 Quando il cedente ha garantito la solvenza del debitore, la garanzia cessa, se la mancata realizzazione del credito per insolvenza del debitore e' dipesa da negligenza del cessionario nell'iniziare o nel proseguire le istanze contro il debitore stesso.
 
-##### CAPO VI - Della delegazione, dell'espromissione e dell'accollo
+#### CAPO VI - Della delegazione, dell'espromissione e dell'accollo
 
 ###### Art. 1268 - Delegazione cumulativa
 
@@ -10810,9 +10810,9 @@ In tutti i casi nei quali il creditore libera il debitore originario, si estingu
 
 Se l'obbligazione assunta dal nuovo debitore verso il creditore, e' dichiarata nulla o annullata, e il creditore aveva liberato il debitore originario, l'obbligazione di questo rivive, ma il creditore non puo' valersi delle garanzie prestate da terzi.
 
-##### CAPO VII - Di alcune specie di obbligazioni
+#### CAPO VII - Di alcune specie di obbligazioni
 
-###### Sezione I - Delle obbligazioni pecuniarie
+##### Sezione I - Delle obbligazioni pecuniarie
 
 ###### Art. 1277 - Debito di somma di danaro
 
@@ -10996,7 +10996,7 @@ AGGIORNAMENTO (348)
 
 Il Decreto 10 dicembre 2025 (in G.U. 13/12/2025, n. 289) ha disposto (con l'art. 1, comma 1) che "La misura del saggio degli interessi legali di cui all'art. 1284 del codice civile e' fissata all'1,60 per cento in ragione d'anno, con decorrenza dal 1° gennaio 2026".
 
-###### Sezione II - Delle obbligazioni alternative
+##### Sezione II - Delle obbligazioni alternative
 
 ###### Art. 1285 - Obbligazione alternativa
 
@@ -11036,7 +11036,7 @@ Qualora entrambe le prestazioni siano divenute impossibili e il debitore debba r
 
 Le regole stabilite in questa sezione si osservano anche quando le prestazioni dedotte in obbligazione sono piu' di due.
 
-###### Sezione III - Delle obbligazioni in solido
+##### Sezione III - Delle obbligazioni in solido
 
 ###### Art. 1292 - Nozione della solidarieta'
 
@@ -11168,7 +11168,7 @@ rinunzia alla solidarieta').
 
 Nel caso di rinunzia del creditore alla solidarieta' verso alcuno dei debitori, se uno degli altri e' insolvente, la sua parte di debito e' ripartita per contributo tra tutti i condebitori, compreso quello che era stato liberato dalla solidarieta'.
 
-###### Sezione IV - Delle obbligazioni divisibili e indivisibili
+##### Sezione IV - Delle obbligazioni divisibili e indivisibili
 
 ###### Art. 1314 - Obbligazioni divisibili
 
@@ -11200,9 +11200,9 @@ Se uno dei creditori ha fatto remissione del debito o ha consentito a ricevere u
 
 La medesima disposizione si applica in caso di transazione, novazione, compensazione e confusione.
 
-#### TITOLO II - DEI CONTRATTI IN GENERALE
+### TITOLO II - DEI CONTRATTI IN GENERALE
 
-##### CAPO I - Disposizioni preliminari
+#### CAPO I - Disposizioni preliminari
 
 ###### Art. 1321 - Nozione
 
@@ -11222,7 +11222,7 @@ Tutti i contratti, ancorche' non appartengano ai tipi che hanno una disciplina p
 
 Salvo diverse disposizioni di legge, le norme che regolano i contratti si osservano, in quanto compatibili, per gli atti unilaterali tra vivi aventi contenuto patrimoniale.
 
-##### CAPO II - Dei requisiti del contratto
+#### CAPO II - Dei requisiti del contratto
 
 ###### Art. 1325 - Indicazione dei requisiti
 
@@ -11236,7 +11236,7 @@ I requisiti del contratto sono:
 
 4\) la forma, quando risulta che e' prescritta dalla legge sotto pena di nullita'.
 
-###### Sezione I - Dell'accordo delle parti
+##### Sezione I - Dell'accordo delle parti
 
 ###### Art. 1326 - Conclusione del contratto
 
@@ -11330,7 +11330,7 @@ Nei contratti conclusi mediante la sottoscrizione di moduli o formulari, predisp
 
 Si osserva inoltre la disposizione del secondo comma dell'articolo precedente.
 
-###### Sezione II - Della causa del contratto
+##### Sezione II - Della causa del contratto
 
 ###### Art. 1343 - Causa illecita
 
@@ -11344,7 +11344,7 @@ Si reputa altresi' illecita la causa quando il contratto costituisce il mezzo pe
 
 Il contratto e' illecito quando le parti si sono determinate a concluderlo esclusivamente per un motivo illecito comune ad entrambe.
 
-###### Sezione III - Dell'oggetto del contratto
+##### Sezione III - Dell'oggetto del contratto
 
 ###### Art. 1346 - Requisiti
 
@@ -11366,7 +11366,7 @@ La determinazione rimessa al mero arbitrio del terzo non si puo' impugnare se no
 
 Nel determinare la prestazione il terzo deve tener conto anche delle condizioni generali della produzione a cui il contratto eventualmente abbia riferimento.
 
-###### Sezione IV - Della forma del contratto
+##### Sezione IV - Della forma del contratto
 
 ###### Art. 1350 - Atti che devono farsi per iscritto
 
@@ -11406,7 +11406,7 @@ Il contratto preliminare e' nullo, se non e' fatto nella stessa forma che la leg
 
 Se le parti hanno convenuto per iscritto di adottare una determinata forma per la futura conclusione di un contratto, si presume che la forma sia stata voluta per la validita' di questo.
 
-##### CAPO III - Della condizione nel contratto
+#### CAPO III - Della condizione nel contratto
 
 ###### Art. 1353 - Contratto condizionale
 
@@ -11454,7 +11454,7 @@ L'avveramento della condizione non pregiudica la validita' degli atti di amminis
 
 Salvo diverse disposizioni di legge o diversa pattuizione, i frutti percepiti sono dovuti dal giorno in cui la condizione si e' avverata.
 
-##### CAPO IV - Dell'interpretazione del contratto
+#### CAPO IV - Dell'interpretazione del contratto
 
 ###### Art. 1362 - Intenzione dei contraenti
 
@@ -11502,9 +11502,9 @@ Qualora, nonostante l'applicazione delle norme contenute in questo capo, il cont
 
 ((COMMA ABROGATO DAL D.LGS. LUOGOTENENZIALE 14 SETTEMBRE 1944, N. 287)).
 
-##### CAPO V - Degli effetti del contratto
+#### CAPO V - Degli effetti del contratto
 
-###### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### Art. 1372 - Efficacia del contratto
 
@@ -11558,7 +11558,7 @@ Sono salve le norme relative agli effetti della trascrizione.
 
 Colui che ha promesso l'obbligazione o il fatto di un terzo e' tenuto a indennizzare l'altro contraente, se il terzo rifiuta di obbligarsi o non compie il fatto promesso.
 
-###### Sezione II - Della clausola penale e della caparra
+##### Sezione II - Della clausola penale e della caparra
 
 ###### Art. 1382 - Effetti della clausola penale
 
@@ -11588,7 +11588,7 @@ Se nel contratto e' stipulato il diritto di recesso per una o per entrambe le pa
 
 In questo caso, il recedente perde la caparra data o deve restituire il doppio di quella che ha ricevuta.
 
-##### CAPO VI - Della rappresentanza
+#### CAPO VI - Della rappresentanza
 
 ###### Art. 1387 - Fonti della rappresentanza
 
@@ -11662,7 +11662,7 @@ La facolta' di ratifica si trasmette agli eredi.
 
 Le speciali forme di rappresentanza nelle imprese agricole e commerciali sono regolate dal libro V.
 
-##### CAPO VII - Del contratto per persona da nominare
+#### CAPO VII - Del contratto per persona da nominare
 
 ###### Art. 1401 - Riserva di nomina del contraente
 
@@ -11688,7 +11688,7 @@ Quando la dichiarazione di nomina e' stata validamente fatta, la persona nominat
 
 Se la dichiarazione di nomina non e' fatta validamente nel termine stabilito dalla legge o dalle parti, il contratto produce i suoi effetti fra i contraenti originari.
 
-##### CAPO VIII - Della cessione del contratto
+#### CAPO VIII - Della cessione del contratto
 
 ###### Art. 1406 - Nozione
 
@@ -11718,7 +11718,7 @@ Il cedente e' tenuto a garantire la validita' del contratto.
 
 Se il cedente assume la garanzia dell'adempimento del contratto, egli risponde come un fideiussore per le obbligazioni del contraente ceduto.
 
-##### CAPO IX - Del contratto a favore di terzi
+#### CAPO IX - Del contratto a favore di terzi
 
 ###### Art. 1411 - Contratto a favore di terzi
 
@@ -11738,7 +11738,7 @@ La prestazione deve essere eseguita a favore degli eredi del terzo se questi pre
 
 Il promittente puo' opporre al terzo le eccezioni fondate sul contratto dal quale il terzo deriva il suo diritto, ma non quelle fondate su altri rapporti tra promittente e stipulante.
 
-##### CAPO X - Della simulazione
+#### CAPO X - Della simulazione
 
 ###### Art. 1414 - Effetti della simulazione tra le parti
 
@@ -11764,7 +11764,7 @@ I creditori del simulato alienante possono far valere la simulazione che pregiud
 
 La prova per testimoni della simulazione e' ammissibile senza limiti, se la domanda e' proposta da creditori o da terzi e, qualora sia diretta a far valere l'illiceita' del contratto dissimulato, anche se e' proposta dalle parti.
 
-##### CAPO XI - Della nullita' del contratto
+#### CAPO XI - Della nullita' del contratto
 
 ###### Art. 1418 - Cause di nullita' del contratto
 
@@ -11800,9 +11800,9 @@ Il contratto nullo non puo' essere convalidato, se la legge non dispone diversam
 
 Il contratto nullo puo' produrre gli effetti di un contratto diverso, del quale contenga i requisiti di sostanza e di forma, qualora, avuto riguardo allo scopo perseguito dalle parti, debba ritenersi che esse lo avrebbero voluto se avessero conosciuto la nullita'.
 
-##### CAPO XII - Dell'annullabilita' del contratto
+#### CAPO XII - Dell'annullabilita' del contratto
 
-###### Sezione I - Dell'incapacita'
+##### Sezione I - Dell'incapacita'
 
 ###### Art. 1425 - Incapacita' delle parti
 
@@ -11814,7 +11814,7 @@ E' parimenti annullabile, quando ricorrono le condizioni stabilite dall'art. 428
 
 Il contratto non e' annullabile, se il minore ha con raggiri occultato la sua minore eta'; ma la semplice dichiarazione da lui fatta di essere maggiorenne non e' di ostacolo all'impugnazione del contratto.
 
-###### Sezione II - Dei vizi del consenso
+##### Sezione II - Dei vizi del consenso
 
 ###### Art. 1427 - Errore, violenza e dolo
 
@@ -11884,7 +11884,7 @@ Quando i raggiri sono stati usati da un terzo, il contratto e' annullabile se es
 
 Se i raggiri non sono stati tali da determinare il consenso, il contratto e' valido, benche' senza di essi sarebbe stato concluso a condizioni diverse; ma il contraente in mala fede risponde dei danni.
 
-###### Sezione III - Dell'azione di annullamento
+##### Sezione III - Dell'azione di annullamento
 
 ###### Art. 1441 - Legittimazione
 
@@ -11930,7 +11930,7 @@ L'annullamento che non dipende da incapacita' legale non pregiudica i diritti ac
 
 Nei contratti indicati dall'art. 1420 l'annullabilita' che riguarda il vincolo di una sola delle parti non importa annullamento del contratto, salvo che la partecipazione di questa debba, secondo le circostanze, considerarsi essenziale.
 
-##### CAPO XIII - Della rescissione del contratto
+#### CAPO XIII - Della rescissione del contratto
 
 ###### Art. 1447 - Contratto concluso in stato di pericolo
 
@@ -11968,9 +11968,9 @@ Il contratto rescindibile non puo' essere convalidato.
 
 La rescissione del contratto non pregiudica i diritti acquistati dai terzi, salvi gli effetti della trascrizione della domanda di rescissione.
 
-##### CAPO XIV - Della risoluzione del contratto
+#### CAPO XIV - Della risoluzione del contratto
 
-###### Sezione I - Della risoluzione per inadempimento
+##### Sezione I - Della risoluzione per inadempimento
 
 ###### Art. 1453 - Risolubilita' del contratto per inadempimento
 
@@ -12030,7 +12030,7 @@ La clausola con cui si stabilisce che una delle parti non puo' opporre eccezioni
 
 Nei casi in cui la clausola e' efficace, il giudice, se riconosce che concorrono gravi motivi, puo' tuttavia sospendere la condanna, imponendo, se del caso, una cauzione.
 
-###### Sezione II - Dell'impossibilita' sopravvenuta
+##### Sezione II - Dell'impossibilita' sopravvenuta
 
 ###### Art. 1463 - Impossibilita' totale
 
@@ -12054,7 +12054,7 @@ L'acquirente e' in ogni caso liberato dalla sua obbligazione, se il trasferiment
 
 Nei contratti indicati dall'art. 1420 l'impossibilita' della prestazione di una delle parti non importa scioglimento del contratto rispetto alle altre, salvo che la prestazione mancata debba, secondo le circostanze, considerarsi essenziale.
 
-###### Sezione III - Dell'eccessiva onerosita'
+##### Sezione III - Dell'eccessiva onerosita'
 
 ###### Art. 1467 - Contratto con prestazioni corrispettive
 
@@ -12072,7 +12072,7 @@ Nell'ipotesi prevista dall'articolo precedente, se si tratta di un contratto nel
 
 Le norme degli articoli precedenti non si applicano ai contratti aleatori per loro natura o per volonta' delle parti.
 
-##### ((CAPO XIV-BIS)) - ((Dei contratti del consumatore))
+#### ((CAPO XIV-BIS)) - ((Dei contratti del consumatore))
 
 ###### Art. 1469-bis
 
@@ -12096,11 +12096,11 @@ Le norme degli articoli precedenti non si applicano ai contratti aleatori per lo
 
 ((Il D.Lgs. 6 settembre 2005, n. 206 ha disposto (con l'art. 142, comma 1) che il presente articolo e' sostituito dall'attuale art. 1469-bis del regio decreto 16 marzo 1942, n. 262)).
 
-#### TITOLO III - DEI SINGOLI CONTRATTI
+### TITOLO III - DEI SINGOLI CONTRATTI
 
-##### CAPO I - Della vendita
+#### CAPO I - Della vendita
 
-###### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### Art. 1470 - Nozione
 
@@ -12358,7 +12358,7 @@ Qualora il compratore abbia lasciato piu' eredi, il diritto di riscatto si puo' 
 
 Se l'eredita' e' stata divisa e la cosa venduta e' stata assegnata a uno degli eredi, il diritto di riscatto non puo' esercitarsi contro di lui che per la totalita'.
 
-###### Sezione II - Della vendita di cose mobili
+##### Sezione II - Della vendita di cose mobili
 
 **§ 1 - Disposizioni generali**
 
@@ -12646,7 +12646,7 @@ Se alla scadenza del termine le parti convengono di prorogare l'esecuzione del c
 
 In caso d'inadempimento della vendita a termine di titoli, si osservano le norme degli articoli 1515 e 1516, salva, per i contratti di borsa, l'applicazione delle leggi speciali.
 
-###### Sezione III - Della vendita di cose immobili
+##### Sezione III - Della vendita di cose immobili
 
 ###### Art. 1537 - Vendita a misura
 
@@ -12672,7 +12672,7 @@ Se due o piu' immobili sono stati venduti con lo stesso contratto per un solo e 
 
 Il diritto del venditore al supplemento e quello del compratore alla diminuzione del prezzo o al recesso dal contratto si prescrivono in un anno dalla consegna dell'immobile.
 
-###### Sezione IV - Della vendita di eredita'
+##### Sezione IV - Della vendita di eredita'
 
 ###### Art. 1542 - Garanzia
 
@@ -12702,7 +12702,7 @@ Le disposizioni precedenti si applicano alle altre forme di alienazione di un'er
 
 Nelle alienazioni a titolo gratuito la garanzia e' regolata dall'art. 797.
 
-##### CAPO II - Del riporto
+#### CAPO II - Del riporto
 
 ###### Art. 1548 - Nozione
 
@@ -12724,7 +12724,7 @@ In caso di inadempimento di una delle parti, si osservano le disposizioni degli 
 
 Se entrambe le parti non adempiono le proprie obbligazioni nel termine stabilito, il riporto cessa di avere effetto, e ciascuna parte ritiene cio' che ha ricevuto al tempo della stipulazione del contratto.
 
-##### CAPO III - Della permuta
+#### CAPO III - Della permuta
 
 ###### Art. 1552 - Nozione
 
@@ -12742,7 +12742,7 @@ Salvo patto contrario, le spese della permuta e le altre accessorie sono a caric
 
 Le norme stabilite per la vendita si applicano alla permuta, in quanto siano con questa compatibili.
 
-##### CAPO IV - Del contratto estimatorio
+#### CAPO IV - Del contratto estimatorio
 
 ###### Art. 1556 - Nozione
 
@@ -12758,7 +12758,7 @@ Sono validi gli atti di disposizione compiuti da chi ha ricevuto le cose; ma i s
 
 Colui che ha consegnato le cose non puo' disporne fino a che non gli siano restituite.
 
-##### CAPO V - Della somministrazione
+#### CAPO V - Della somministrazione
 
 ###### Art. 1559 - Nozione
 
@@ -12820,9 +12820,9 @@ Se la durata della somministrazione non e' stabilita, ciascuna delle parti puo' 
 
 Si applicano alla somministrazione, in quanto compatibili con le disposizioni che precedono, anche le regole che disciplinano il contratto a cui corrispondono le singole prestazioni.
 
-##### CAPO VI - Della locazione
+#### CAPO VI - Della locazione
 
-###### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### Art. 1571 - Nozione
 
@@ -13038,7 +13038,7 @@ Nei casi in cui il diritto del locatore sulla cosa locata si estingue con effett
 
 Sono salve le diverse disposizioni di legge.
 
-###### Sezione II - Della locazione di fondi urbani
+##### Sezione II - Della locazione di fondi urbani
 
 ###### Art. 1607 - Durata massima della locazione di case
 
@@ -13080,7 +13080,7 @@ Nel caso di morte dell'inquilino, se la locazione deve ancora durare per piu' di
 
 Il recesso si deve esercitare mediante disdetta comunicata con preavviso non inferiore a tre mesi.
 
-###### Sezione III - Dell'affitto
+##### Sezione III - Dell'affitto
 
 **§ 1 - Disposizioni generali**
 
@@ -13308,7 +13308,7 @@ Il credito del locatore produce interessi in misura corrispondente al saggio leg
 
 Le disposizioni che precedono sono inderogabili.
 
-##### CAPO VII - Dell'appalto
+#### CAPO VII - Dell'appalto
 
 ###### Art. 1655 - Nozione
 
@@ -13446,9 +13446,9 @@ Se l'appalto ha per oggetto prestazioni continuative o periodiche di servizi, si
 
 ((Se l'appalto ha per oggetto, congiuntamente, la prestazione di due o piu' servizi di logistica relativi alle attivita' di ricezione, trasformazione, deposito, custodia, spedizione, trasferimento e distribuzione di beni di un altro soggetto, alle attivita' di trasferimento di cose da un luogo a un altro si applicano le norme relative al contratto di trasporto, in quanto compatibili)).
 
-##### CAPO VIII - Del trasporto
+#### CAPO VIII - Del trasporto
 
-###### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### Art. 1678 - Nozione
 
@@ -13468,7 +13468,7 @@ Salve le speciali concessioni ammesse dalle condizioni generali, qualunque derog
 
 Le disposizioni di questo capo si applicano anche ai trasporti per via d'acqua o per via d'aria e a quelli ferroviari e postali, in quanto non siano derogate dal codice della navigazione e dalle leggi speciali.
 
-###### Sezione II - Del trasporto di persone
+##### Sezione II - Del trasporto di persone
 
 ###### Art. 1681 - Responsabilita' del vettore
 
@@ -13484,7 +13484,7 @@ Nei trasporti cumulativi ciascun vettore risponde nell'ambito del proprio percor
 
 Tuttavia il danno per il ritardo o per l'interruzione del viaggio si determina in ragione dell'intero percorso.
 
-###### Sezione III - Del trasporto di cose
+##### Sezione III - Del trasporto di cose
 
 ###### Art. 1683 - Indicazioni e documenti che devono essere forniti al vettore
 
@@ -13618,9 +13618,9 @@ L'ultimo vettore rappresenta i vettori precedenti per la riscossione dei rispett
 
 Se egli omette tale riscossione o l'esercizio del privilegio, e' responsabile verso i vettori precedenti per le somme loro dovute, salva l'azione contro il destinatario.
 
-##### CAPO IX - Del mandato
+#### CAPO IX - Del mandato
 
-###### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### Art. 1703 - Nozione
 
@@ -13790,7 +13790,7 @@ Gli atti che il mandatario ha compiuti prima di conoscere l'estinzione del manda
 
 Salvo patto contrario, il mandato conferito a piu' persone designate a operare congiuntamente si estingue anche se la causa di estinzione concerne uno solo dei mandatari.
 
-###### Sezione II - Della commissione
+##### Sezione II - Della commissione
 
 ###### Art. 1731 - Nozione
 
@@ -13822,7 +13822,7 @@ Anche quando il committente ha fissato il prezzo, il commissionario che acquista
 
 Il commissionario che, in virtu' di patto o di uso, e' tenuto allo «star del credere» risponde nei confronti del committente per l'esecuzione dell'affare. In tal caso ha diritto, oltre che alla provvigione, a un compenso o a una maggiore provvigione, la quale, in mancanza di patto, si determina secondo gli usi del luogo in cui e' compiuto l'affare. In mancanza di usi, provvede il giudice secondo equita'.
 
-###### Sezione III - Della spedizione
+##### Sezione III - Della spedizione
 
 ###### Art. 1737
 
@@ -13856,7 +13856,7 @@ Le spese anticipate e i compensi per le prestazioni accessorie eseguite dallo sp
 
 Nell'ipotesi di perdita o avaria delle cose spedite, si applica l'articolo 1696)).
 
-##### CAPO X - Del contratto di agenzia
+#### CAPO X - Del contratto di agenzia
 
 ###### Art. 1742 - Nozione
 
@@ -14032,7 +14032,7 @@ Le disposizioni del presente capo si applicano anche nell'ipotesi in cui all'age
 
 Le disposizioni di questo capo sono applicabili anche agli agenti di assicurazione, in quanto non siano derogate dalle norme corporative o dagli usi e in quanto siano compatibili con la natura dell'attivita' assicurativa.
 
-##### CAPO XI - Della mediazione
+#### CAPO XI - Della mediazione
 
 ###### Art. 1754 - Mediatore
 
@@ -14102,9 +14102,9 @@ Alle stesse pene e' soggetto il mediatore che presta la sua attivita' nell'inter
 
 Sono salve le disposizioni delle leggi speciali.
 
-##### CAPO XII - Del deposito
+#### CAPO XII - Del deposito
 
-###### Sezione I - Del deposito in generale
+##### Sezione I - Del deposito in generale
 
 ###### Art. 1766 - Nozione
 
@@ -14194,7 +14194,7 @@ Se il deposito ha per oggetto una quantita' di danaro o di altre cose fungibili,
 
 In tal caso si osservano, in quanto applicabili, le norme relative al mutuo.
 
-###### Sezione II - Del deposito in albergo
+##### Sezione II - Del deposito in albergo
 
 ###### Art. 1783
 
@@ -14266,7 +14266,7 @@ L'albergatore puo' esigere che la cosa consegnatagli sia contenuta in un involuc
 
 Le norme di questa sezione si applicano anche agli imprenditori di case di cura, stabilimenti di pubblici spettacoli, stabilimenti balneari, pensioni, trattorie, carrozze letto e simili.
 
-###### Sezione III - Del deposito nei magazzini generali
+##### Sezione III - Del deposito nei magazzini generali
 
 ###### Art. 1787 - Responsabilita' dei magazzini generali
 
@@ -14342,7 +14342,7 @@ Il possessore della nota di pegno decade dall'azione di regresso contro i girant
 
 Egli conserva tuttavia l'azione contro i giranti della fede di deposito e contro il debitore. Quest'azione si prescrive in tre anni.
 
-##### CAPO XIII - Del sequestro convenzionale
+#### CAPO XIII - Del sequestro convenzionale
 
 ###### Art. 1798 - Nozione
 
@@ -14370,7 +14370,7 @@ Prima che la controversia sia definita, il sequestratario non puo' essere libera
 
 Il sequestratario ha diritto a compenso, se non si e' pattuito diversamente. Egli ha pure diritto al rimborso delle spese e di ogni altra erogazione fatta per la conservazione e per l'amministrazione della cosa.
 
-##### CAPO XIV - Del comodato
+#### CAPO XIV - Del comodato
 
 ###### Art. 1803 - Nozione
 
@@ -14424,7 +14424,7 @@ In caso di morte del comodatario, il comodante, benche' sia stato convenuto un t
 
 Se la cosa comodata ha vizi tali che rechino danno a chi se ne serve, il comodante e' tenuto al risarcimento qualora, conoscendo i vizi della cosa, non ne abbia avvertito il comodatario.
 
-##### CAPO XV - Del mutuo
+#### CAPO XV - Del mutuo
 
 ###### Art. 1813 - Nozione
 
@@ -14472,7 +14472,7 @@ Se il mutuo e' gratuito, il mutuante e' responsabile solo nel caso in cui, conos
 
 Chi ha promesso di dare a mutuo puo' rifiutare l'adempimento della sua obbligazione, se le condizioni patrimoniali dell'altro contraente sono divenute tali da rendere notevolmente difficile la restituzione, e non gli sono offerte idonee garanzie.
 
-##### CAPO XVI - Del conto corrente
+#### CAPO XVI - Del conto corrente
 
 ###### Art. 1823 - Nozione
 
@@ -14534,9 +14534,9 @@ In caso d'interdizione, d'inabilitazione, d'insolvenza o di morte di una delle p
 
 Lo scioglimento del contratto impedisce l'inclusione nel conto di nuove partite, ma il pagamento del saldo non puo' richiedersi che alla scadenza del periodo stabilito dall'art. 1831.
 
-##### CAPO XVII - Dei contratti bancari
+#### CAPO XVII - Dei contratti bancari
 
-###### Sezione I - Dei depositi bancari
+##### Sezione I - Dei depositi bancari
 
 ###### Art. 1834 - Depositi di danaro
 
@@ -14574,7 +14574,7 @@ Alla banca spetta un compenso nella misura stabilita dalla convenzione o dagli u
 
 E' nullo il patto col quale si esonera la banca dall'osservare, nell'amministrazione dei titoli, l'ordinaria diligenza.
 
-###### Sezione II - Del servizio bancario delle cassette di sicurezza
+##### Sezione II - Del servizio bancario delle cassette di sicurezza
 
 ###### Art. 1839 - Cassette di sicurezza
 
@@ -14632,7 +14632,7 @@ AGGIORNAMENTO (351)
 
 Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 32, comma 3) che "Le disposizioni dell'articolo 27 entrano in vigore il 31 ottobre 2027".
 
-###### Sezione III - Dell'apertura di credito bancario
+##### Sezione III - Dell'apertura di credito bancario
 
 ###### Art. 1842 - Nozione
 
@@ -14658,7 +14658,7 @@ Il recesso sospende immediatamente l'utilizzazione del credito, ma la banca deve
 
 Se l'apertura di credito e' a tempo indeterminato, ciascuna delle parti puo' recedere dal contratto, mediante preavviso nel termine stabilito dal contratto, dagli usi o, in mancanza, in quello di quindici giorni.
 
-###### Sezione IV - Dell'anticipazione bancaria
+##### Sezione IV - Dell'anticipazione bancaria
 
 ###### Art. 1846 - Disponibilita' delle cose date in pegno
 
@@ -14686,7 +14686,7 @@ La banca ha diritto al rimborso immediato del residuo non soddisfatto col ricava
 
 Se, a garanzia di uno o piu' crediti, sono vincolati depositi di danaro, merci o titoli che non siano stati individuati o per i quali sia stata conferita alla banca la facolta' di disporre, la banca deve restituire solo la somma o la parte delle merci o dei titoli che eccedono l'ammontare dei crediti garantiti. L'eccedenza e' determinata in relazione al valore delle merci o dei titoli al tempo della scadenza dei crediti.
 
-###### Sezione V - Delle operazioni bancarie in conto corrente
+##### Sezione V - Delle operazioni bancarie in conto corrente
 
 ###### Art. 1852 - Disposizione da parte del correntista
 
@@ -14714,7 +14714,7 @@ Se l'incarico deve eseguirsi su una piazza dove non esistono filiali della banca
 
 Alle operazioni regolate in conto corrente si applicano le norme degli articoli 1826, 1829 e 1832.
 
-###### Sezione VI - Dello sconto bancario
+##### Sezione VI - Dello sconto bancario
 
 ###### Art. 1858 - Nozione
 
@@ -14730,7 +14730,7 @@ Sono salve le norme delle leggi speciali relative alla cessione della provvista 
 
 La banca che ha scontato tratte documentate ha sulla merce lo stesso privilegio del mandatario finche' il titolo rappresentativo e' in suo possesso.
 
-##### CAPO XVIII - Della rendita perpetua
+#### CAPO XVIII - Della rendita perpetua
 
 ###### Art. 1861 - Nozione
 
@@ -14794,7 +14794,7 @@ Il debitore della rendita o di ogni altra prestazione annua che debba o possa du
 
 Le disposizioni di questo capo non si applicano alle rendite emesse dallo Stato.
 
-##### CAPO XIX - Della rendita vitalizia
+#### CAPO XIX - Della rendita vitalizia
 
 ###### Art. 1872 - Modi di costituzione
 
@@ -14844,9 +14844,9 @@ Se pero' e' stato convenuto di pagarla a rate anticipate, ciascuna rata si acqui
 
 Quando la rendita vitalizia e' costituita a titolo gratuito, si puo' disporre che essa non sia soggetta a pignoramento o a sequestro entro i limiti del bisogno alimentare del creditore.
 
-##### CAPO XX - Dell'assicurazione
+#### CAPO XX - Dell'assicurazione
 
-###### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### Art. 1882 - Nozione
 
@@ -15002,7 +15002,7 @@ Gli agenti autorizzati a concludere contratti di assicurazione possono compiere 
 
 Possono inoltre promuovere azioni ed essere convenuti in giudizio in nome dell'assicuratore, per le obbligazioni dipendenti dagli atti compiuti nell'esecuzione del loro mandato, davanti l'autorita' giudiziaria del luogo in cui ha sede l'agenzia presso la quale e' stato concluso il contratto.
 
-###### Sezione II - Dell'assicurazione contro i danni
+##### Sezione II - Dell'assicurazione contro i danni
 
 ###### Art. 1904 - Interesse all'assicurazione
 
@@ -15128,7 +15128,7 @@ L'assicuratore, entro dieci giorni da quello in cui ha avuto notizia dell'avvenu
 
 Se e' stata emessa una polizza all'ordine o al portatore, nessuna notizia dell'alienazione deve essere data all'assicuratore, e cosi' quest'ultimo come l'acquirente non possono recedere dal contratto.
 
-###### Sezione III - Dell'assicurazione sulla vita
+##### Sezione III - Dell'assicurazione sulla vita
 
 ###### Art. 1919 - Assicurazione sulla vita propria o di un terzo
 
@@ -15194,7 +15194,7 @@ In caso di suicidio dell'assicurato, avvenuto prima che siano decorsi due anni d
 
 L'assicuratore non e' nemmeno obbligato se, essendovi stata sospensione del contratto per mancato pagamento dei premi, non sono decorsi due anni dal giorno in cui la sospensione e' cessata.
 
-###### Sezione IV - Della riassicurazione
+##### Sezione IV - Della riassicurazione
 
 ###### Art. 1928 - Prova
 
@@ -15214,7 +15214,7 @@ In caso di liquidazione coatta amministrativa del riassicurato, il riassicurator
 
 In caso di liquidazione coatta amministrativa dell'impresa del riassicuratore o del riassicurato, i debiti e i crediti che, alla fine della liquidazione, risultano dalla chiusura dei conti relativi a piu' contratti di riassicurazione, si compensano di diritto.
 
-###### Sezione V - Disposizioni finali
+##### Sezione V - Disposizioni finali
 
 ###### Art. 1932 - Norme inderogabili
 
@@ -15222,7 +15222,7 @@ Le disposizioni degli articoli 1887, 1892, 1893, 1894, 1897, 1898, 1899, secondo
 
 Le clausole che derogano in senso meno favorevole all'assicurato sono sostituite di diritto dalle corrispondenti disposizioni di legge.
 
-##### CAPO XXI - Del giuoco e della scommessa
+#### CAPO XXI - Del giuoco e della scommessa
 
 ###### Art. 1933 - Mancanza di azione
 
@@ -15240,9 +15240,9 @@ Tuttavia il giudice puo' rigettare o ridurre la domanda, qualora ritenga la post
 
 Le lotterie danno luogo ad azione in giudizio, qualora siano state legalmente autorizzate.
 
-##### CAPO XXII - Della fideiussione
+#### CAPO XXII - Della fideiussione
 
-###### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### Art. 1936 - Nozione
 
@@ -15294,7 +15294,7 @@ Il debitore obbligato a dare un fideiussore deve presentare persona capace, che 
 
 Quando il fideiussore e' divenuto insolvente, deve esserne dato un altro, tranne che la fideiussione sia stata prestata dalla persona voluta dal creditore.
 
-###### Sezione II - Dei rapporti tra creditore e fideiussore
+##### Sezione II - Dei rapporti tra creditore e fideiussore
 
 ###### Art. 1944 - Obbligazione del fideiussore
 
@@ -15322,7 +15322,7 @@ Se alcuno dei fideiussori era insolvente al tempo in cui un altro ha fatto valer
 
 Il fideiussore del fideiussore non e' obbligato verso il creditore, se non nel caso in cui il debitore principale e tutti i fideiussori di questo siano insolventi, o siano liberati perche' incapaci.
 
-###### Sezione III - Dei rapporti tra fideiussore e debitore principale
+##### Sezione III - Dei rapporti tra fideiussore e debitore principale
 
 ###### Art. 1949 - Surrogazione del fideiussore nei diritti del creditore
 
@@ -15364,13 +15364,13 @@ Il fideiussore, anche prima di aver pagato, puo' agire contro il debitore perche
 
 5\) quando sono decorsi cinque anni, e l'obbligazione principale non ha un termine, purche' essa non sia di tal natura da non potersi estinguere prima di un tempo determinato.
 
-###### Sezione IV - Dei rapporti tra piu' fideiussori
+##### Sezione IV - Dei rapporti tra piu' fideiussori
 
 ###### Art. 1954 - Regresso contro gli altri fideiussori
 
 Se piu' persone hanno prestato fideiussione per un medesimo debitore e per un medesimo debito, il fideiussore che ha pagato ha regresso contro gli altri fideiussori per la loro rispettiva porzione. Se uno di questi e' insolvente, si osserva la disposizione del secondo comma dell'art. 1299.
 
-###### Sezione V - Dell'estinzione della fideiussione
+##### Sezione V - Dell'estinzione della fideiussione
 
 ###### Art. 1955 - Liberazione del fideiussore per fatto del creditore
 
@@ -15398,7 +15398,7 @@ In questo caso pero' l'istanza contro il debitore deve essere proposta entro due
 
 L'istanza proposta contro il debitore interrompe la prescrizione anche nei confronti del fideiussore.
 
-##### CAPO XXIII - Del mandato di credito
+#### CAPO XXIII - Del mandato di credito
 
 ###### Art. 1958 - Effetti del mandato di credito
 
@@ -15412,7 +15412,7 @@ Se, dopo l'accettazione dell'incarico, le condizioni patrimoniali di colui che l
 
 Si applica inoltre la disposizione dell'art. 1956.
 
-##### CAPO XXIV - Dell'anticresi
+#### CAPO XXIV - Dell'anticresi
 
 ###### Art. 1960 - Nozione
 
@@ -15442,7 +15442,7 @@ E' nullo qualunque patto, anche posteriore alla conclusione del contratto, con c
 
 Salva la disposizione dell'art. 1448, e' valido il patto col quale le parti convengono che i frutti si compensino con gli interessi in tutto o in parte. In tal caso il debitore puo' in ogni tempo estinguere il suo debito e rientrare nel possesso dell'immobile.
 
-##### CAPO XXV - Della transazione
+#### CAPO XXV - Della transazione
 
 ###### Art. 1965 - Nozione
 
@@ -15500,7 +15500,7 @@ La transazione e' annullabile, quando non riguarda che un affare determinato e c
 
 La risoluzione della transazione per inadempimento non puo' essere richiesta se il rapporto preesistente e' stato estinto per novazione, salvo che il diritto alla risoluzione sia stato espressamente stipulato.
 
-##### CAPO XXVI - Della cessione dei beni ai creditori
+#### CAPO XXVI - Della cessione dei beni ai creditori
 
 ###### Art. 1977 - Nozione
 
@@ -15556,7 +15556,7 @@ La cessione puo' essere annullata se il debitore, avendo dichiarato di cedere tu
 
 La cessione puo' essere risoluta per inadempimento secondo le regole generali.
 
-#### TITOLO IV - DELLE PROMESSE UNILATERALI
+### TITOLO IV - DELLE PROMESSE UNILATERALI
 
 ###### Art. 1987 - Efficacia delle promesse
 
@@ -15582,9 +15582,9 @@ In nessun caso la revoca puo' avere effetto se la situazione prevista nella prom
 
 Se l'azione e' stata compiuta da piu' persone separatamente, oppure se la situazione e' comune a piu' persone, la prestazione promessa, quando e' unica, spetta a colui che per primo ne ha dato notizia al promittente.
 
-#### TITOLO V - DEI TITOLI DI CREDITO
+### TITOLO V - DEI TITOLI DI CREDITO
 
-##### CAPO I - Disposizioni generali
+#### CAPO I - Disposizioni generali
 
 ###### Art. 1992 - Adempimento della prestazione
 
@@ -15644,7 +15644,7 @@ I titoli del debito pubblico, i biglietti di banca e gli altri titoli equivalent
 
 Le norme di questo titolo non si applicano ai documenti che servono solo a identificare l'avente diritto alla prestazione, o a consentire il trasferimento del diritto senza l'osservanza delle forme proprie della cessione.
 
-##### CAPO II - Dei titoli al portatore
+#### CAPO II - Dei titoli al portatore
 
 ###### Art. 2003 - Trasferimento del titolo e legittimazione del possessore
 
@@ -15680,7 +15680,7 @@ Le spese sono a carico del richiedente.
 
 Se la prova della distruzione non e' raggiunta, si osservano le disposizioni dell'articolo precedente.
 
-##### CAPO III - Dei titoli all'ordine
+#### CAPO III - Dei titoli all'ordine
 
 ###### Art. 2008 - Legittimazione del possessore
 
@@ -15762,7 +15762,7 @@ Chi ha ottenuto l'ammortamento, su presentazione del decreto e di un certificato
 
 Le norme di questa sezione si applicano ai titoli all'ordine regolati da leggi speciali in quanto queste non dispongano diversamente.
 
-##### CAPO IV - Dei titoli nominativi
+#### CAPO IV - Dei titoli nominativi
 
 ###### Art. 2021 - Legittimazione del possessore
 
@@ -15812,7 +15812,7 @@ In caso di smarrimento, sottrazione o distruzione di azioni nominative, durante 
 
 L'ammortamento estingue il titolo, ma non pregiudica le ragioni del detentore verso chi ha ottenuto il nuovo titolo.
 
-#### TITOLO VI - DELLA GESTIONE DI AFFARI
+### TITOLO VI - DELLA GESTIONE DI AFFARI
 
 ###### Art. 2028 - Obbligo di continuare la gestione
 
@@ -15840,7 +15840,7 @@ Questa disposizione non si applica agli atti di gestione eseguiti contro il divi
 
 La ratifica dell'interessato produce, relativamente alla gestione, gli effetti che sarebbero derivati da un mandato, anche se la gestione e' stata compiuta da persona che credeva di gerire un affare proprio.
 
-#### TITOLO VII - DEL PAGAMENTO DELL'INDEBITO
+### TITOLO VII - DEL PAGAMENTO DELL'INDEBITO
 
 ###### Art. 2033 - Indebito oggettivo
 
@@ -15886,7 +15886,7 @@ L'incapace che ha ricevuto l'indebito, anche in mala fede, non e' tenuto che nei
 
 Colui al quale e' restituita la cosa e' tenuto a rimborsare il possessore delle spese e dei miglioramenti, a norma degli articoli 1149, 1150, 1151 e 1152.
 
-#### TITOLO VIII - DELL'ARRICCHIMENTO SENZA CAUSA
+### TITOLO VIII - DELL'ARRICCHIMENTO SENZA CAUSA
 
 ###### Art. 2041 - Azione generale di arricchimento
 
@@ -15898,7 +15898,7 @@ Qualora l'arrichimento abbia per oggetto una cosa determinata, colui che l'ha ri
 
 L'azione di arricchimento non e' proponibile quando il danneggiato puo' esercitare un'altra azione per farsi indennizzare del pregiudizio subito.
 
-#### TITOLO IX - DEI FATTI ILLECITI
+### TITOLO IX - DEI FATTI ILLECITI
 
 ###### Art. 2043 - Risarcimento per fatto illecito
 
@@ -15998,11 +15998,11 @@ Tuttavia il giudice puo' disporre che il risarcimento avvenga solo per equivalen
 
 Il danno non patrimoniale deve essere risarcito solo nei casi determinati dalla legge.
 
-### LIBRO QUINTO - DEL LAVORO
+## LIBRO QUINTO - DEL LAVORO
 
-#### TITOLO I - DELLA DISCIPLINA DELLE ATTIVITA' PROFESSIONALI
+### TITOLO I - DELLA DISCIPLINA DELLE ATTIVITA' PROFESSIONALI
 
-##### CAPO I - Disposizioni generali
+#### CAPO I - Disposizioni generali
 
 ###### Art. 2060 - Del lavoro
 
@@ -16016,7 +16016,7 @@ L'ordinamento delle categorie professionali e' stabilito dalle leggi, dai regola
 
 L'esercizio professionale delle attivita' economiche e' disciplinato dalle leggi, dai regolamenti e dalle norme corporative.
 
-##### CAPO II - Delle ordinanze corporative e degli accordi economici collettivi
+#### CAPO II - Delle ordinanze corporative e degli accordi economici collettivi
 
 ###### Art. 2063 - Oggetto
 
@@ -16046,7 +16046,7 @@ Le clausole dei contratti individuali, difformi dalle norme inderogabili contenu
 
 La disposizione del comma precedente non si applica ai contratti stipulati prima dell'entrata in vigore dell'ordinanza corporativa o dell'accordo economico collettivo. L'ordinanza e l'accordo possono tuttavia stabilire che le norme in essi contenute si applichino anche ai contratti ad esecuzione continuata o periodica in corso, per la parte non ancora eseguita.
 
-##### CAPO III - Del contratto collettivo di lavoro e delle norme equiparate
+#### CAPO III - Del contratto collettivo di lavoro e delle norme equiparate
 
 ###### Art. 2067 - Soggetti
 
@@ -16146,11 +16146,11 @@ Nei contratti individuali di colonia parziaria e di affitto a coltivatore dirett
 
 Le disposizioni sul contratto collettivo di lavoro contenute in questo capo valgono, in quanto applicabili, per le altre norme corporative che disciplinano rapporti di lavoro.
 
-#### TITOLO II - DEL LAVORO NELL'IMPRESA
+### TITOLO II - DEL LAVORO NELL'IMPRESA
 
-##### CAPO I - Dell'impresa in generale
+#### CAPO I - Dell'impresa in generale
 
-###### Sezione I - Dell'imprenditore
+##### Sezione I - Dell'imprenditore
 
 ###### Art. 2082 - Imprenditore
 
@@ -16220,7 +16220,7 @@ Agli enti pubblici non inquadrati si applicano le disposizioni di questo libro, 
 
 Sono salve le diverse disposizioni della legge.
 
-###### Sezione II - Dei collaboratori dell'imprenditore
+##### Sezione II - Dei collaboratori dell'imprenditore
 
 ###### Art. 2094 - Prestatore di lavoro subordinato
 
@@ -16240,7 +16240,7 @@ La L. 18 dicembre 1973, n. 877 ha disposto (con l'art. 1, comma 2) che "La subor
 
 Le leggi speciali e le norme corporative, in relazione a ciascun ramo di produzione e alla particolare struttura dell'impresa, determinano i requisiti di appartenenza alle indicate categorie.
 
-###### Sezione III - Del rapporto di lavoro
+##### Sezione III - Del rapporto di lavoro
 
 **§ 1 - Della costituzione del rapporto di lavoro**
 
@@ -16614,7 +16614,7 @@ Ai prestatori di lavoro a domicilio si applicano le disposizioni di questa sezio
 
 Le disposizioni di questa sezione si applicano ai prestatori di lavoro dipendenti da enti pubblici, salvo che il rapporto sia diversamente regolato dalla legge.
 
-###### Sezione IV - Del tirocinio
+##### Sezione IV - Del tirocinio
 
 ###### Art. 2130 - Durata del tirocinio
 
@@ -16636,9 +16636,9 @@ Alla cessazione del tirocinio, l'apprendista, per il quale non e' obbligatorio i
 
 Al tirocinio si applicano le disposizioni della sezione precedente, in quanto siano compatibili con la specialita' del rapporto e non siano derogate da disposizioni delle leggi speciali o da norme corporative.
 
-##### CAPO II - Dell'impresa agricola
+#### CAPO II - Dell'impresa agricola
 
-###### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### Art. 2135 - Imprenditore agricolo
 
@@ -16682,7 +16682,7 @@ Tra piccoli imprenditori agricoli e' ammesso lo scambio di mano d'opera o di ser
 
 ((ARTICOLO ABROGATO DALLA L. 19 MAGGIO 1975, N. 151))
 
-###### Sezione II - Della mezzadria
+##### Sezione II - Della mezzadria
 
 ###### Art. 2141 - Nozione
 
@@ -16832,7 +16832,7 @@ Salvo diverse disposizioni delle norme corporative, della convenzione o degli us
 
 3\) se si tratta di scorte morte fisse, per specie, quantita', qualita' e stato d'uso.
 
-###### Sezione III - Della colonia parziaria
+##### Sezione III - Della colonia parziaria
 
 ###### Art. 2164 - Nozione
 
@@ -16868,7 +16868,7 @@ In caso di morte del colono, si applicano a favore degli eredi di questo le disp
 
 Sono applicabili alla colonia parziaria le norme dettate per la mezzadria negli articoli 2145, secondo comma, 2147, secondo comma, 2149, 2151, secondo comma, 2152, 2155, 2156, 2157, 2159, 2160 e 2163, nonche' quelle concernenti la tenuta e l'efficacia probatoria del libretto colonico, qualora le parti l'abbiano d'accordo istituito.
 
-###### Sezione IV - Della soccida
+##### Sezione IV - Della soccida
 
 **§ 1 - Disposizioni generali**
 
@@ -16984,15 +16984,15 @@ In tal caso il soccidario ha la direzione dell'impresa e al soccidante spetta il
 
 Si osservano inoltre le disposizioni dell'art. 2184 e, in quanto applicabili, quelle dettate per la soccida semplice.
 
-###### Sezione V - Disposizione finale
+##### Sezione V - Disposizione finale
 
 ###### Art. 2187 - Usi
 
 Nei rapporti di associazione agraria regolati dalle sezioni II, III e IV di questo capo, per quanto non e' espressamente disposto, si applicano, in mancanza di convenzione, gli usi.
 
-##### CAPO III - Delle imprese commerciali e delle altre imprese soggette a registrazione
+#### CAPO III - Delle imprese commerciali e delle altre imprese soggette a registrazione
 
-###### Sezione I - Del registro delle imprese
+##### Sezione I - Del registro delle imprese
 
 ###### Art. 2188 - Registro delle imprese
 
@@ -17036,7 +17036,7 @@ Sono salve le disposizioni particolari della legge.
 
 Salvo quanto disposto dagli articoli 2626 e 2634, chiunque omette di richiedere l'iscrizione nei modi e nel termine stabiliti dalla legge, e' punito con l'ammenda da lire cento a lire cinquemila.
 
-###### Sezione II - Dell'obbligo di registrazione
+##### Sezione II - Dell'obbligo di registrazione
 
 ###### Art. 2195 - Imprenditori soggetti a registrazione
 
@@ -17110,7 +17110,7 @@ Gli enti pubblici che hanno per oggetto esclusivo o principale un'attivita' comm
 
 Non sono soggetti all'obbligo dell'iscrizione nel registro delle imprese i piccoli imprenditori.
 
-###### Sezione III - Disposizioni particolari per le imprese commerciali
+##### Sezione III - Disposizioni particolari per le imprese commerciali
 
 **§ 1 - Della rappresentanza**
 
@@ -17264,9 +17264,9 @@ AGGIORNAMENTO (316)
 
 Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
 
-#### TITOLO III - DEL LAVORO AUTONOMO
+### TITOLO III - DEL LAVORO AUTONOMO
 
-##### CAPO I - Disposizioni generali
+#### CAPO I - Disposizioni generali
 
 ###### Art. 2222 - Contratto d'opera
 
@@ -17302,7 +17302,7 @@ Il committente puo' recedere dal contratto, ancorche' sia iniziata l'esecuzione 
 
 Se l'esecuzione dell'opera diventa impossibile per causa non imputabile ad alcuna delle parti, il prestatore d'opera ha diritto ad un compenso per il lavoro prestato in relazione all'utilita' della parte dell'opera compiuta.
 
-##### CAPO II - Delle professioni intellettuali
+#### CAPO II - Delle professioni intellettuali
 
 ###### Art. 2229 - Esercizio delle professioni intellettuali
 
@@ -17364,15 +17364,15 @@ Se l'esercizio della professione costituisce elemento di un'attivita' organizzat
 
 In ogni caso, se l'esercente una professione intellettuale impiega sostituti o ausiliari, si applicano le disposizioni delle sezioni II, III e IV del capo I del titolo II.
 
-#### TITOLO IV - DEL LAVORO SUBORDINATO IN PARTICOLARI RAPPORTI
+### TITOLO IV - DEL LAVORO SUBORDINATO IN PARTICOLARI RAPPORTI
 
-##### CAPO I - Disposizioni generali
+#### CAPO I - Disposizioni generali
 
 ###### Art. 2239 - Norme applicabili
 
 I rapporti di lavoro subordinato che non sono inerenti all'esercizio di un'impresa sono regolati dalle disposizioni delle sezioni II, III e IV del capo I del titolo II, in quanto compatibili con la specialita' del rapporto.
 
-##### CAPO II - Del lavoro domestico
+#### CAPO II - Del lavoro domestico
 
 ###### Art. 2240 - Norme applicabili
 
@@ -17418,9 +17418,9 @@ Se gli usi lo stabiliscono, l'indennita' e' dovuta anche nel caso di dimissioni 
 
 Alla cessazione del contratto il prestatore di lavoro ha diritto al rilascio di un certificato che attesti la natura delle mansioni disimpegnate e il periodo di servizio prestato.
 
-#### TITOLO V - DELLE SOCIETA'
+### TITOLO V - DELLE SOCIETA'
 
-##### CAPO I - Disposizioni generali
+#### CAPO I - Disposizioni generali
 
 ###### Art. 2247
 
@@ -17458,9 +17458,9 @@ In caso di discordanza con gli atti pubblicati in lingua italiana, quelli pubbli
 
 Le societa\` di cui al quinto comma che dispongono di uno spazio elettronico destinato alla comunicazione collegato ad una rete telematica ad accesso pubblico forniscono, attraverso tale mezzo, tutte le informazioni di cui al primo, secondo, terzo e quarto comma)).
 
-##### CAPO II - Della societa' semplice
+#### CAPO II - Della societa' semplice
 
-###### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### Art. 2251 - Contratto sociale
 
@@ -17470,7 +17470,7 @@ Nella societa' semplice il contratto non e' soggetto a forme speciali, salve que
 
 Il contratto sociale puo' essere modificato soltanto con il consenso di tutti i soci, se non e' convenuto diversamente.
 
-###### Sezione II - Dei rapporti tra i soci
+##### Sezione II - Dei rapporti tra i soci
 
 ###### Art. 2253 - Conferimenti
 
@@ -17552,7 +17552,7 @@ L'impugnazione non puo' essere proposta dal socio che ha volontariamente eseguit
 
 E' nullo il patto con il quale uno o piu' soci sono esclusi da ogni partecipazione agli utili o alle perdite.
 
-###### Sezione III - Dei rapporti con i terzi
+##### Sezione III - Dei rapporti con i terzi
 
 ###### Art. 2266 - Rappresentanza della societa'
 
@@ -17588,7 +17588,7 @@ La quota deve essere liquidata entro tre mesi dalla domanda, salvo che sia delib
 
 Non e' ammessa compensazione fra il debito che un terzo ha verso la societa' e il credito che egli ha verso un socio.
 
-###### Sezione IV - Dello scioglimento della societa'
+##### Sezione IV - Dello scioglimento della societa'
 
 ###### Art. 2272 - Cause di scioglimento
 
@@ -17676,7 +17676,7 @@ L'ammontare dei conferimenti non aventi per oggetto somme di danaro e' determina
 
 Se e' convenuto che la ripartizione dei beni sia fatta in natura, si applicano le disposizioni sulla divisione delle cose comuni.
 
-###### Sezione V - Dello scioglimento del rapporto sociale limitatamente a un socio
+##### Sezione V - Dello scioglimento del rapporto sociale limitatamente a un socio
 
 ###### Art. 2284 - Morte del socio
 
@@ -17740,7 +17740,7 @@ Nei casi in cui il rapporto sociale si scioglie limitatamente a un socio, questi
 
 Lo scioglimento deve essere portato a conoscenza dei terzi con mezzi idonei; in mancanza non e' opponibile ai terzi che lo hanno senza colpa ignorato.
 
-##### CAPO III - Della societa' in nome collettivo
+#### CAPO III - Della societa' in nome collettivo
 
 ###### Art. 2291 - Nozione
 
@@ -17914,7 +17914,7 @@ Le scritture contabili e i documenti che non spettano ai singoli soci sono depos
 
 Le scritture contabili e i documenti devono essere conservati per dieci anni a decorrere dalla cancellazione della societa' dal registro delle imprese.
 
-##### CAPO IV - Della societa' in accomandita semplice
+#### CAPO IV - Della societa' in accomandita semplice
 
 ###### Art. 2313 - Nozione
 
@@ -17982,9 +17982,9 @@ Se vengono a mancare tutti gli accomandatari, per il periodo indicato dal comma 
 
 Salvo il diritto previsto dal secondo comma dell'art. 2312 nei confronti degli accomandatari e dei liquidatori, i creditori sociali che non sono stati soddisfatti nella liquidazione della societa' possono far valere i loro crediti anche nei confronti degli accomandanti, limitatamente alla quota di liquidazione.
 
-##### Capo V - ((Societa' per azioni))
+#### Capo V - ((Societa' per azioni))
 
-###### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### Art. 2325
 
@@ -18154,7 +18154,7 @@ La nullita' non puo' essere dichiarata quando la causa di essa e' stata eliminat
 
 Il dispositivo della sentenza che dichiara la nullita' deve essere iscritto, a cura degli amministratori o dei liquidatori nominati ai sensi del quarto comma, nel registro delle imprese.))
 
-###### Sezione II - ((Della costituzione per pubblica sottoscrizione))
+##### Sezione II - ((Della costituzione per pubblica sottoscrizione))
 
 ###### Art. 2333
 
@@ -18200,7 +18200,7 @@ Tuttavia per modificare le condizioni stabilite nel programma e' necessario il c
 
 ((Eseguito quanto e' prescritto nell'articolo precedente, gli intervenuti all'assemblea, in rappresentanza anche dei sottoscrittori assenti, stipulano l'atto costitutivo, che deve essere depositato per l'iscrizione nel registro delle imprese a norma dell'articolo 2330.))
 
-###### Sezione III - Dei promotori e dei soci fondatori
+##### Sezione III - Dei promotori e dei soci fondatori
 
 ###### Art. 2337
 
@@ -18246,7 +18246,7 @@ Essi non possono stipulare a proprio vantaggio altro beneficio.))
 
 ((La disposizione del primo comma dell'articolo 2340 si applica anche ai soci che nella costituzione simultanea o in quella per pubblica sottoscrizione stipulano l'atto costitutivo.))
 
-###### ((Sezione III-bis)) - ((Dei patti parasociali))
+##### ((Sezione III-bis)) - ((Dei patti parasociali))
 
 ###### Art. 2341-bis
 
@@ -18270,7 +18270,7 @@ Nelle societa' che fanno ricorso al mercato del capitale di rischio ((o con azio
 
 In caso di mancanza della dichiarazione prevista dal comma precedente i possessori delle azioni cui si riferisce il patto parasociale non possono esercitare il diritto di voto e le deliberazioni assembleari adottate con il loro voto determinante sono impugnabili a norma dell'articolo 2377.
 
-###### Sezione IV - Dei conferimenti
+##### Sezione IV - Dei conferimenti
 
 ###### Art. 2342
 
@@ -18372,7 +18372,7 @@ Le azioni alle quali e' connesso l'obbligo delle prestazioni anzidette devono es
 
 Se non e' diversamente disposto dall'atto costitutivo, gli obblighi previsti in questo articolo non possono essere modificati senza il consenso di tutti i soci.))
 
-###### Sezione V - ((Delle azioni e di altri strumenti finanziari partecipativi))
+##### Sezione V - ((Delle azioni e di altri strumenti finanziari partecipativi))
 
 ###### Art. 2346 - Emissione delle azioni
 
@@ -18688,7 +18688,7 @@ Le dichiarazioni degli amministratori previste dai precedenti commi devono esser
 
 I contratti della societa' con l'unico socio o le operazioni a favore dell'unico socio sono opponibili ai creditori della societa' solo se risultano dal libro delle adunanze e delle deliberazioni del consiglio di amministrazione o da atto scritto avente data certa anteriore al pignoramento.
 
-###### Sezione VI - ((Dell'assemblea))
+##### Sezione VI - ((Dell'assemblea))
 
 ###### Art. 2363
 
@@ -18974,7 +18974,7 @@ Nelle societa' che fanno ricorso al mercato del capitale di rischio l'invalidita
 
 Resta salvo il diritto al risarcimento del danno eventualmente spettante ai soci e ai terzi.))
 
-###### ((Sezione VI-bis)) - ((Dell'amministrazione e del controllo))
+##### ((Sezione VI-bis)) - ((Dell'amministrazione e del controllo))
 
 **((§ 1 - Disposizioni generali.))**
 
@@ -18988,7 +18988,7 @@ Salvo che la deliberazione disponga altrimenti, la variazione di sistema ha effe
 
 Salvo che sia diversamente stabilito, le disposizioni del presente paragrafo che fanno riferimento al consiglio o agli amministratori si applicano a seconda dei casi al consiglio di amministrazione o al consiglio di gestione o ai rispettivi componenti.))
 
-**((...))**
+## ((...))
 
 ###### Art. 2380-bis
 
@@ -19334,7 +19334,7 @@ Se vengono a cessare l'amministratore unico o tutti gli amministratori, l'assemb
 
 ((L'azione di responsabilita' puo' essere promossa anche a seguito di deliberazione del collegio sindacale, assunta con la maggioranza dei due terzi dei suoi componenti.))
 
-**((...))**
+## ((...))
 
 ###### Art. 2397
 
@@ -19686,7 +19686,7 @@ Qualora le irregolarita' di cui all'articolo 2396-quater attengano a materie di 
 
 ((La revisione legale dei conti e' svolta ai sensi dell'articolo 2396-novies.))
 
-###### Sezione VII - Delle obbligazioni
+##### Sezione VII - Delle obbligazioni
 
 ###### Art. 2410
 
@@ -19852,7 +19852,7 @@ Tale facolta' puo' essere attribuita anche mediante modificazione dello statuto,
 
 Si applica il secondo comma dell'articolo 2410.))
 
-###### Sezione VIII - Dei libri sociali
+##### Sezione VIII - Dei libri sociali
 
 ###### Art. 2421
 
@@ -19888,7 +19888,7 @@ I libri di cui al presente articolo, prima che siano messi in uso, devono essere
 
 Eguale diritto spetta al rappresentante comune degli obbligazionisti per i libri indicati nei numeri 2) e 3) dell'articolo 2421, e al rappresentante comune dei possessori di strumenti finanziari ed ai singoli possessori per il libro indicato al numero 8), ai singoli obbligazionisti per il libro indicato nel numero 7) dell'articolo medesimo. ))
 
-###### Sezione IX - Del bilancio
+##### Sezione IX - Del bilancio
 
 ###### Art. 2423 - Redazione del bilancio
 
@@ -20860,7 +20860,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-###### Sezione X - ((Delle modificazioni dello statuto))
+##### Sezione X - ((Delle modificazioni dello statuto))
 
 ###### Art. 2436
 
@@ -21094,7 +21094,7 @@ Nel caso in cui le azioni emesse dalla societa' siano senza valore nominale, lo 
 
 ((Se, per la perdita di oltre un terzo del capitale, questo si riduce al disotto del minimo stabilito dall'articolo 2327, gli amministratori o il consiglio di gestione e, in caso di loro inerzia, il consiglio di sorveglianza devono senza indugio convocare l'assemblea per deliberare la riduzione del capitale ed il contemporaneo aumento del medesimo ad una cifra non inferiore al detto minimo, o la trasformazione della societa'. ))
 
-###### Sezione XI - ((Dei patrimoni destinati ad uno specifico affare))
+##### Sezione XI - ((Dei patrimoni destinati ad uno specifico affare))
 
 ###### Art. 2447-bis
 
@@ -21234,7 +21234,7 @@ Fuori dall'ipotesi di cartolarizzazione previste dalle leggi vigenti, il finanzi
 
 La nota integrativa alle voci di bilancio relative ai proventi di cui al terzo comma, ed ai beni di cui al quarto comma, deve contenere l'indicazione della destinazione dei proventi e dei vincoli relativi ai beni.
 
-###### Sezione XII - ((...))
+##### Sezione XII - ((...))
 
 ###### Art. 2448
 
@@ -21244,7 +21244,7 @@ La nota integrativa alle voci di bilancio relative ai proventi di cui al terzo c
 
 Per le operazioni compiute entro il quindicesimo giorno dalla pubblicazione di cui al comma precedente, gli atti non sono opponibili ai terzi che provino di essere stati nella impossibilita' di averne conoscenza.))
 
-###### Sezione XIII - ((Delle societa' con partecipazione dello Stato o di enti pubblici))
+##### Sezione XIII - ((Delle societa' con partecipazione dello Stato o di enti pubblici))
 
 ###### Art. 2449
 
@@ -21262,7 +21262,7 @@ Alle societa' che fanno ricorso al capitale di rischio si applicano le disposizi
 
 ((ARTICOLO ABROGATO DAL D.L. 15 FEBBRAIO 2007, N. 10, CONVERTITO CON MODIFICAZIONI DALLA L. 6 APRILE 2007, N. 46))
 
-###### ((Sezione XIV)) - ((Delle societa' di interesse nazionale))
+##### ((Sezione XIV)) - ((Delle societa' di interesse nazionale))
 
 ###### Art. 2450-bis
 
@@ -21274,7 +21274,7 @@ Alle societa' che fanno ricorso al capitale di rischio si applicano le disposizi
 
 (( Le disposizioni di questo capo si applicano anche alle societa' per azioni d'interesse nazionale, compatibilmente con le disposizioni delle leggi speciali che stabiliscono per tali societa' una particolare disciplina circa la gestione sociale, la trasferibilita' delle azioni, il diritto di voto e la nomina degli amministratori, dei sindaci e dei dirigenti.))
 
-##### CAPO VI - Della societa' in accomandita per azioni
+#### CAPO VI - Della societa' in accomandita per azioni
 
 ###### Art. 2452
 
@@ -21360,9 +21360,9 @@ Per questo periodo il collegio sindacale nomina un amministratore provvisorio pe
 
 Il socio accomandatario che cessa dall'ufficio di amministratore non risponde per le obbligazioni della societa' sorte posteriormente all'iscrizione nel registro delle imprese della cessazione dall'ufficio.))
 
-##### CAPO VII - Della societa' a responsabilita' limitata
+#### CAPO VII - Della societa' a responsabilita' limitata
 
-###### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### Art. 2462
 
@@ -21436,7 +21436,7 @@ La denominazione di societa' a responsabilita' limitata semplificata, l'ammontar
 
 Salvo quanto previsto dal presente articolo, si applicano alla societa' a responsabilita' limitata semplificata le disposizioni del presente capo in quanto compatibili.
 
-###### Sezione II - Dei conferimenti e delle quote
+##### Sezione II - Dei conferimenti e delle quote
 
 ###### Art. 2464 - Conferimenti
 
@@ -21626,7 +21626,7 @@ AGGIORNAMENTO (113)
 
 Il D.Lgs. 24 giugno 1998, n. 213 ha disposto (con l'art. 4, comma 2) che le presenti modifiche decorrono dal 1 gennaio 2002.
 
-###### Sezione III - ((Dell'amministrazione della societa' e dei controlli))
+##### Sezione III - ((Dell'amministrazione della societa' e dei controlli))
 
 ###### Art. 2475 - Amministrazione della societa'
 
@@ -21760,7 +21760,7 @@ AGGIORNAMENTO (246)
 
 Il D.Lgs. 18 agosto 2015, n. 139, ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
-###### Sezione IV - ((Delle decisioni dei soci))
+##### Sezione IV - ((Delle decisioni dei soci))
 
 ###### Art. 2479 - Decisioni dei soci
 
@@ -21808,7 +21808,7 @@ Le decisioni aventi oggetto illecito o impossibile e quelle prese in assenza ass
 
 Si applicano, in quanto compatibili, gli articoli 2377, primo, quinto, settimo, ottavo e nono comma, 2378, 2379-bis, 2379-ter e 2434-bis.
 
-###### Sezione V - ((Delle modificazioni dell'atto costitutivo))
+##### Sezione V - ((Delle modificazioni dell'atto costitutivo))
 
 ###### Art. 2480
 
@@ -21896,7 +21896,7 @@ La decisione di emissione dei titoli prevede le condizioni del prestito e le mod
 
 Restano salve le disposizioni di leggi speciali relative a particolari categorie di societa' e alle riserve di attivita'.
 
-##### Capo VIII - ((Scioglimento e liquidazione delle societa' di capitali))
+#### Capo VIII - ((Scioglimento e liquidazione delle societa' di capitali))
 
 ###### Art. 2484 - Cause di scioglimento
 
@@ -22090,7 +22090,7 @@ Ferma restando l'estinzione della societa', dopo la cancellazione i creditori so
 
 ((Compiuta la liquidazione, la distribuzione dell'attivo o il deposito indicato nell'articolo 2494, i libri della societa' devono essere depositati e conservati per dieci anni presso l'ufficio del registro delle imprese; chiunque puo' esaminarli, anticipando le spese.))
 
-##### Capo IX - ((Direzione e coordinamento di societa'))
+#### Capo IX - ((Direzione e coordinamento di societa'))
 
 ###### Art. 2497 - Responsabilita'
 
@@ -22164,9 +22164,9 @@ Ai fini di quanto previsto nel presente capo, si presume salvo prova contraria c
 
 ((Le disposizioni del presente capo si applicano altresi' alla societa' o all'ente che, fuori dalle ipotesi di cui all'articolo 2497-sexies, esercita attivita' di direzione e coordinamento di societa' sulla base di un contratto con le societa' medesime o di clausole dei loro statuti.))
 
-##### ((Capo X)) - ((Della trasformazione, della fusione e della scissione))
+#### ((Capo X)) - ((Della trasformazione, della fusione e della scissione))
 
-###### ((Sezione I)) - ((Della trasformazione))
+##### ((Sezione I)) - ((Della trasformazione))
 
 ###### Art. 2498
 
@@ -22268,7 +22268,7 @@ La trasformazione di fondazioni in societa' di capitali e' disposta dall'autorit
 
 I creditori possono, nel suddetto termine di sessanta giorni, fare opposizione. Si applica in tal caso l'ultimo comma dell'articolo 2445.))
 
-###### ((Sezione II)) - ((Della fusione delle societa'))
+##### ((Sezione II)) - ((Della fusione delle societa'))
 
 ###### Art. 2501
 
@@ -22520,7 +22520,7 @@ Si applica la disposizione di cui al terzo comma dell'articolo 2505.
 
 Se alla fusione non partecipano societa' regolate dai capi V e VI del presente titolo, ne' societa' cooperative per azioni, non si applicano le disposizioni degli articoli 2501, secondo comma, e 2501-ter, secondo comma; ((. . .)); i termini di cui agli articoli 2501-ter, quarto comma, 2501-septies, primo comma, e 2503, primo comma, sono ridotti alla meta'.
 
-###### ((Sezione III)) - ((Della scissione delle societa'))
+##### ((Sezione III)) - ((Della scissione delle societa'))
 
 ###### Art. 2506 - Forme di scissione
 
@@ -22576,7 +22576,7 @@ Qualunque societa' beneficiaria puo' effettuare gli adempimenti pubblicitari rel
 
 Ciascuna societa' e' solidalmente responsabile, nei limiti del valore effettivo del patrimonio netto ad essa assegnato o rimasto, dei debiti della societa' scissa non soddisfatti dalla societa' cui fanno carico.))
 
-##### ((Capo XI)) - ((Delle societa' costituite all'estero))
+#### ((Capo XI)) - ((Delle societa' costituite all'estero))
 
 ###### Art. 2507
 
@@ -22686,7 +22686,7 @@ L'istanza con cui si richiede la registrazione della sede secondaria di una soci
 
 ((Sono salve le disposizioni delle leggi speciali che vietano o sottopongono a particolari condizioni l'esercizio di determinate attivita' da parte di societa' nelle quali siano rappresentati interessi stranieri.))
 
-##### ((Capo XI-bis)) - ((Del trasferimento della sede all'estero))
+#### ((Capo XI-bis)) - ((Del trasferimento della sede all'estero))
 
 ###### Art. 2510-bis - Trasferimento della sede all'estero
 
@@ -22694,11 +22694,11 @@ Il trasferimento all'estero della sede statutaria e' posto in essere mediante tr
 
 ((La trasformazione effettuata ai sensi del primo comma si considera trasferimento di sede all'estero, senza riguardo al luogo in cui e' fissata la sede statutaria della societa' risultante dall'operazione.))
 
-#### Titolo VI - DELLE SOCIETA' COOPERATIVE E DELLE MUTUE ASSICURATRICI
+### Titolo VI - DELLE SOCIETA' COOPERATIVE E DELLE MUTUE ASSICURATRICI
 
-##### Capo I - ((Delle societa' cooperative))
+#### Capo I - ((Delle societa' cooperative))
 
-###### Sezione I - ((Disposizioni generali. Cooperative a mutualita' prevalente))
+##### Sezione I - ((Disposizioni generali. Cooperative a mutualita' prevalente))
 
 ###### Art. 2511 - Societa' cooperative
 
@@ -22796,7 +22796,7 @@ L'atto costitutivo puo' prevedere che trovino applicazione, in quanto compatibil
 
 La legge puo' prevedere la costituzione di cooperative destinate a procurare beni o servizi a soggetti appartenenti a particolari categorie anche di non soci.))
 
-###### Sezione II - ((Della costituzione))
+##### Sezione II - ((Della costituzione))
 
 ###### Art. 2521
 
@@ -22882,7 +22882,7 @@ La societa' puo' deliberare aumenti di capitale con modificazione dell'atto cost
 
 L'esclusione o la limitazione del diritto di opzione puo' essere autorizzata dall'assemblea su proposta motivata degli amministratori.))
 
-###### Sezione III - Delle quote e delle azioni
+##### Sezione III - Delle quote e delle azioni
 
 ###### Art. 2525 - Quote e azioni
 
@@ -23030,7 +23030,7 @@ Nello stesso modo e per lo stesso termine sono responsabili verso la societa' gl
 
 ((Il creditore particolare del socio cooperatore, finche' dura la societa', non puo' agire esecutivamente sulla quota e sulle azioni del medesimo.))
 
-###### Sezione IV - Degli organi sociali
+##### Sezione IV - Degli organi sociali
 
 ###### Art. 2538
 
@@ -23216,7 +23216,7 @@ La cooperativa puo' recedere dal contratto senza che ad essa possano essere impo
 
 Le cooperative aderenti ad un gruppo sono tenute a depositare in forma scritta l'accordo di partecipazione presso l'albo delle societa' cooperative. ))
 
-###### Sezione V - Delle modificazioni dell'atto costitutivo
+##### Sezione V - Delle modificazioni dell'atto costitutivo
 
 ###### Art. 2545-octies - Perdita della qualifica di cooperativa a mutualita' prevalente
 
@@ -23290,7 +23290,7 @@ AGGIORNAMENTO (316)
 
 Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
 
-###### Sezione VI - ((Dei controlli))
+##### Sezione VI - ((Dei controlli))
 
 ###### Art. 2545-quaterdecies
 
@@ -23354,7 +23354,7 @@ Fatti salvi i casi di liquidazione per i quali e' intervenuta la nomina di un li
 
 Entro il termine perentorio di trenta giorni dalla pubblicazione i creditori e gli altri interessati possono presentare all'autorita' ((di vigilanza)) formale e motivata domanda intesa a consentire la prosecuzione della liquidazione. Trascorso il suddetto termine, a seguito di comunicazione da parte dell'autorita' di vigilanza, il conservatore del registro delle imprese territorialmente competente provvede alla cancellazione della societa' cooperativa o dell'ente mutualistico dal registro medesimo.
 
-##### Capo II - Delle mutue assicuratrici
+#### Capo II - Delle mutue assicuratrici
 
 ###### Art. 2546
 
@@ -23384,7 +23384,7 @@ I voti attribuiti ai soci sovventori, come tali, devono in ogni caso essere infe
 
 I soci sovventori possono essere nominati amministratori. La maggioranza degli amministratori deve essere costituita da soci assicurati.))
 
-#### TITOLO VII - DELL'ASSOCIAZIONE IN PARTECIPAZIONE
+### TITOLO VII - DELL'ASSOCIAZIONE IN PARTECIPAZIONE
 
 ###### Art. 2549 - Nozione
 
@@ -23420,9 +23420,9 @@ Le disposizioni degli articoli 2551 e 2552 si applicano anche al contratto di co
 
 Per le partecipazioni agli utili attribuite ai prestatori di lavoro resta salva la disposizione dell'art. 2102.
 
-#### TITOLO VIII - DELL'AZIENDA
+### TITOLO VIII - DELL'AZIENDA
 
-##### CAPO I - Disposizioni generali
+#### CAPO I - Disposizioni generali
 
 ###### Art. 2555 - Nozione
 
@@ -23486,7 +23486,7 @@ La differenza tra le consistenze d'inventario all'inizio e al termine dell'usufr
 
 Le disposizioni dell'articolo precedente si applicano anche nel caso di affitto dell'azienda.
 
-##### CAPO II - Della ditta e dell'insegna
+#### CAPO II - Della ditta e dell'insegna
 
 ###### Art. 2563 - Ditta
 
@@ -23522,7 +23522,7 @@ Tuttavia si applicano anche ad esse le disposizioni dell'art. 2564.
 
 Le disposizioni del primo comma dell'art. 2564 si applicano all'insegna.
 
-##### CAPO III - Del marchio
+#### CAPO III - Del marchio
 
 ###### Art. 2569 - Diritto di esclusivita'
 
@@ -23556,9 +23556,9 @@ Quando il marchio e' costituito da un segno figurativo, da una denominazione di 
 
 Le condizioni per la registrazione dei marchi e degli atti di trasferimento dei medesimi, nonche' gli effetti della registrazione sono stabiliti dalle leggi speciali.
 
-#### TITOLO IX - DEI DIRITTI SULLE OPERE DELL'INGEGNO E SULLE INVENZIONI INDUSTRIALI
+### TITOLO IX - DEI DIRITTI SULLE OPERE DELL'INGEGNO E SULLE INVENZIONI INDUSTRIALI
 
-##### CAPO I - Del diritto di autore sulle opere dell'ingegno letterarie e artistiche
+#### CAPO I - Del diritto di autore sulle opere dell'ingegno letterarie e artistiche
 
 ###### Art. 2575 - Oggetto del diritto
 
@@ -23606,7 +23606,7 @@ Questo diritto e' personale e intrasmissibile.
 
 L'esercizio dei diritti contemplati in questo capo e la loro durata sono regolati dalle leggi speciali.
 
-##### CAPO II - Del diritto di brevetto per invenzioni industriali
+#### CAPO II - Del diritto di brevetto per invenzioni industriali
 
 ###### Art. 2584 - Diritto di esclusivita'
 
@@ -23650,7 +23650,7 @@ I diritti e gli obblighi delle parti relativi all'invenzione sono regolati dalle
 
 Le condizioni e le modalita' per la concessione del brevetto, l'esercizio dei diritti che ne derivano e la loro durata sono regolati dalle leggi speciali.
 
-##### CAPO III - ((Del diritto di brevetto per modelli di utilita' e di registrazione per disegni e modelli))
+#### CAPO III - ((Del diritto di brevetto per modelli di utilita' e di registrazione per disegni e modelli))
 
 ###### Art. 2592 - Modelli di utilita'
 
@@ -23670,11 +23670,11 @@ Il brevetto per le macchine nel loro complesso non comprende la protezione delle
 
 ((Ai diritti di brevetto e di registrazioni contemplati in questo capo, si applicano gli articoli 2588, 2589 e 2590. Le condizioni e le modalita' per la concessione del brevetto e della registrazione, l'esercizio dei diritti che ne derivano e la loro durata sono regolati dalle leggi speciali.))
 
-#### TITOLO X - DELLA DISCIPLINA DELLA CONCORRENZA E DEI CONSORZI
+### TITOLO X - DELLA DISCIPLINA DELLA CONCORRENZA E DEI CONSORZI
 
-##### CAPO I - Della disciplina della concorrenza
+#### CAPO I - Della disciplina della concorrenza
 
-###### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### Art. 2595 - Limiti legali della concorrenza
 
@@ -23690,7 +23690,7 @@ Se la durata del patto non e' determinata o e' stabilita per un periodo superior
 
 Chi esercita un'impresa in condizione di monopolio legale ha l'obbligo di contrattare con chiunque richieda le prestazioni che formano oggetto dell'impresa, osservando la parita' di trattamento.
 
-###### Sezione II - Della concorrenza sleale
+##### Sezione II - Della concorrenza sleale
 
 ###### Art. 2598 - Atti di concorrenza sleale
 
@@ -23718,9 +23718,9 @@ Accertati gli atti di concorrenza, la colpa si presume.
 
 Quando gli atti di concorrenza sleale pregiudicano gli interessi di una categoria professionale, l'azione per la repressione della concorrenza sleale puo' essere promossa anche dalle associazioni professionali e dagli enti che rappresentano la categoria.
 
-##### CAPO II - Dei consorzi per il coordinamento della produzione e degli scambi
+#### CAPO II - Dei consorzi per il coordinamento della produzione e degli scambi
 
-###### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### Art. 2602 - Nozione e norme applicabili
 
@@ -23804,7 +23804,7 @@ Il contratto di consorzio si scioglie:
 
 6\) per le altre cause previste nel contratto.
 
-###### Sezione II - Dei consorzi con attivita' esterna
+##### Sezione II - Dei consorzi con attivita' esterna
 
 ###### Art. 2612 - Iscrizione nel registro delle imprese
 
@@ -23848,7 +23848,7 @@ Alle persone che hanno la direzione del consorzio sono applicati gli articoli 26
 
 Negli atti e nella corrispondenza del consorzio devono essere indicati la sede di questo, l'ufficio del registro delle imprese presso il quale esso e' iscritto e il numero di iscrizione.))
 
-###### ((Sezione II-bis))
+##### ((Sezione II-bis))
 
 ###### Art. 2615-ter
 
@@ -23858,7 +23858,7 @@ Negli atti e nella corrispondenza del consorzio devono essere indicati la sede d
 
 In tal caso l'atto costitutivo puo' stabilire l'obbligo dei soci di versare contributi in denaro)).
 
-###### Sezione III - Dei consorzi obbligatori
+##### Sezione III - Dei consorzi obbligatori
 
 ###### Art. 2616 - Costituzione
 
@@ -23870,7 +23870,7 @@ Nello stesso modo, ricorrendo le condizioni di cui al comma precedente, possono 
 
 Quando la legge prescrive l'ammasso di determinati prodotti agricoli, la gestione collettiva di questi e' fatta per conto degli imprenditori interessati a mezzo di consorzi obbligatori, secondo le disposizioni delle leggi speciali.
 
-###### Sezione IV - Dei controlli dell'autorita' governativa
+##### Sezione IV - Dei controlli dell'autorita' governativa
 
 ###### Art. 2618 - Approvazione del contratto consortile
 
@@ -23890,9 +23890,9 @@ Le disposizioni di questa sezione si applicano anche alle societa' che si costit
 
 L'autorita' governativa puo' sempre disporre lo scioglimento della societa', quando la costituzione di questa non abbia avuto l'approvazione prevista nell'art. 2618.
 
-#### Titolo XI - ((DISPOSIZIONI PENALI IN MATERIA DI SOCIETA', DI CONSORZI E DI ALTRI ENTI PRIVATI))
+### Titolo XI - ((DISPOSIZIONI PENALI IN MATERIA DI SOCIETA', DI CONSORZI E DI ALTRI ENTI PRIVATI))
 
-##### Capo I - Delle falsita'
+#### Capo I - Delle falsita'
 
 ###### Art. 2621
 
@@ -23962,7 +23962,7 @@ Se la condotta ha cagionato un danno ai soci, si applica la reclusione fino ad u
 
 La pena e' raddoppiata se si tratta di societa' con titoli quotati in mercati regolamentati italiani o di altri Stati dell'Unione europea o diffusi tra il pubblico in misura rilevante ai sensi dell'articolo 116 del testo unico di cui al decreto legislativo 24 febbraio 1998, n. 58.
 
-##### Capo II - ((Degli illeciti commessi dagli amministratori))
+#### Capo II - ((Degli illeciti commessi dagli amministratori))
 
 ###### Art. 2626
 
@@ -24004,7 +24004,7 @@ Se il capitale sociale o le riserve sono ricostituiti prima del termine previsto
 
 Il risarcimento del danno ai creditori prima del giudizio estingue il reato.))
 
-##### Capo III - ((Degli illeciti commessi mediante omissione))
+#### Capo III - ((Degli illeciti commessi mediante omissione))
 
 ###### Art. 2629-bis - Omessa comunicazione del conflitto d'interessi
 
@@ -24032,7 +24032,7 @@ Se si tratta di omesso deposito dei bilanci, la sanzione amministrativa pecuniar
 
 La sanzione amministrativa pecuniaria e' aumentata di un terzo in caso di convocazione a seguito di perdite o per effetto di espressa legittima richiesta da parte dei soci.))
 
-##### Capo IV - ((Degli altri illeciti, delle circostanze attenuanti e delle misure di sicurezza patrimoniali))
+#### Capo IV - ((Degli altri illeciti, delle circostanze attenuanti e delle misure di sicurezza patrimoniali))
 
 ###### Art. 2632
 
@@ -24142,11 +24142,11 @@ Ha inoltre dichiarato "in via consequenziale, ai sensi dell'art. 27 della legge 
 
 ((ARTICOLO NON PIU' PREVISTO A SEGUITO DELLA SOSTITUZIONE DEL LIBRO V, TITOLO XI DISPOSTA DAL D.LGS. 11 APRILE 2002, N. 61))
 
-### LIBRO SESTO - DELLA TUTELA DEI DIRITTI
+## LIBRO SESTO - DELLA TUTELA DEI DIRITTI
 
-#### TITOLO I - DELLA TRASCRIZIONE
+### TITOLO I - DELLA TRASCRIZIONE
 
-##### CAPO I - Della trascrizione degli atti relativi ai beni immobili
+#### CAPO I - Della trascrizione degli atti relativi ai beni immobili
 
 ###### Art. 2643 - Atti soggetti a trascrizione
 
@@ -24538,7 +24538,7 @@ Rimangono ferme le disposizioni delle leggi speciali che stabiliscono a carico d
 
 Sono salve le disposizioni delle leggi speciali che richiedono la trascrizione di atti non contemplati dal presente capo e le altre disposizioni che non sono incompatibili con quelle contenute nel capo medesimo.
 
-##### CAPO II - Della pubblicita' dei registri immobiliari e della responsabilita' dei conservatori
+#### CAPO II - Della pubblicita' dei registri immobiliari e della responsabilita' dei conservatori
 
 ###### Art. 2673 - Obblighi del conservatore
 
@@ -24622,9 +24622,9 @@ I registri sopra indicati non possono essere rimossi dall'ufficio del conservato
 
 ((ARTICOLO ABROGATO DALLA L. 21 GENNAIO 1983, N. 22))
 
-##### CAPO III - Della trascrizione degli atti relativi ad alcuni beni mobili
+#### CAPO III - Della trascrizione degli atti relativi ad alcuni beni mobili
 
-###### Sezione I - Della trascrizione relativamente alle navi, agli aeromobili e agli autoveicoli
+##### Sezione I - Della trascrizione relativamente alle navi, agli aeromobili e agli autoveicoli
 
 ###### Art. 2683 - Beni per i quali e' disposta la pubblicita'
 
@@ -24764,15 +24764,15 @@ Le forme e le modalita' delle trascrizioni previste in questo capo sono regolate
 
 In mancanza, si osservano le norme concernenti la trascrizione degli atti relativi ai beni immobili, in quanto sono applicabili.
 
-###### Sezione II - Della trascrizione relativamente ad altri beni mobili
+##### Sezione II - Della trascrizione relativamente ad altri beni mobili
 
 ###### Art. 2696 - Rinvio
 
 Per gli altri beni mobili per cui e' disposta la trascrizione di determinati atti si osservano le disposizioni delle leggi che li riguardano.
 
-#### TITOLO II - DELLE PROVE
+### TITOLO II - DELLE PROVE
 
-##### CAPO I - Disposizioni generali
+#### CAPO I - Disposizioni generali
 
 ###### Art. 2697 - Onere della prova
 
@@ -24784,9 +24784,9 @@ Chi eccepisce l'inefficacia di tali fatti ovvero eccepisce che il diritto si e' 
 
 Sono nulli i patti con i quali e' invertito ovvero e' modificato l'onere della prova, quando si tratta di diritti di cui le parti non possono disporre o quando l'inversione o la modificazione ha per effetto di rendere a una delle parti eccessivamente difficile l'esercizio del diritto.
 
-##### CAPO II - Della prova documentale
+#### CAPO II - Della prova documentale
 
-###### Sezione I - Dell'atto pubblico
+##### Sezione I - Dell'atto pubblico
 
 ###### Art. 2699 - Atto pubblico
 
@@ -24800,7 +24800,7 @@ L'atto pubblico fa piena prova, fino a querela di falso, della provenienza del d
 
 Il documento formato da ufficiale pubblico incompetente o incapace ovvero senza l'osservanza delle formalita' prescritte, se e' stato sottoscritto dalle parti, ha la stessa efficacia probatoria della scrittura privata.
 
-###### Sezione II - Della scrittura privata
+##### Sezione II - Della scrittura privata
 
 ###### Art. 2702 - Efficacia della scrittura privata
 
@@ -24850,7 +24850,7 @@ L'annotazione fatta dal creditore in calce, in margine o a tergo di un documento
 
 Lo stesso valore ha l'annotazione fatta dal creditore in calce, in margine o a tergo di una quietanza o di un esemplare del documento del debito posseduto dal debitore.
 
-###### Sezione III - Delle scritture contabili delle imprese soggette a registrazione
+##### Sezione III - Delle scritture contabili delle imprese soggette a registrazione
 
 ###### Art. 2709 - Efficacia probatoria contro l'imprenditore
 
@@ -24866,7 +24866,7 @@ La comunicazione integrale dei libri, delle scritture contabili e della corrispo
 
 Negli altri casi il giudice puo' ordinare, anche d'ufficio, che si esibiscano i libri per estrarne le registrazioni concernenti la controversia in corso. Puo' ordinare altresi' l'esibizione di singole scritture contabili, lettere, telegrammi o fatture concernenti la controversia stessa.
 
-###### Sezione IV - Delle riproduzioni meccaniche
+##### Sezione IV - Delle riproduzioni meccaniche
 
 ###### Art. 2712 - Riproduzioni meccaniche
 
@@ -24878,13 +24878,13 @@ AGGIORNAMENTO (196a)
 
 Il D.Lgs. 7 marzo 2005, n. 82, come modificato dal D.Lgs. 30 dicembre 2010, n. 235, ha disposto (con l'art. 23-quater, comma 1) che "All'articolo 2712 del codice civile dopo le parole: "riproduzioni fotografiche" e' inserita la seguente: ", informatiche"."
 
-###### Sezione V - Delle taglie o tacche di contrassegno
+##### Sezione V - Delle taglie o tacche di contrassegno
 
 ###### Art. 2713 - Taglie o tacche di contrassegno
 
 Le taglie o tacche di contrassegno corrispondenti al contrassegno di riscontro formano piena prova tra coloro che usano provare in tal modo le somministrazioni che fanno o ricevono al minuto.
 
-###### Sezione VI - Delle copie degli atti
+##### Sezione VI - Delle copie degli atti
 
 ###### Art. 2714 - Copie di atti pubblici
 
@@ -24914,13 +24914,13 @@ Le copie parziali o le riproduzioni per estratto, rilasciate nella forma prescri
 
 Le copie fotografiche di scritture hanno la stessa efficacia delle autentiche, se la loro conformita' con l'originale e' attestata da pubblico ufficiale competente ovvero non e' espressamente disconosciuta.
 
-###### Sezione VII - Degli atti di ricognizione o di rinnovazione
+##### Sezione VII - Degli atti di ricognizione o di rinnovazione
 
 ###### Art. 2720 - Efficacia probatoria
 
 L'atto di ricognizione o di rinnovazione fa piena prova delle dichiarazioni contenute nel documento originale, se non si dimostra, producendo quest'ultimo, che vi e' stato errore nella ricognizione o nella rinnovazione.
 
-##### CAPO III - Della prova testimoniale
+#### CAPO III - Della prova testimoniale
 
 ###### Art. 2721 - Ammissibilita': limiti di valore
 
@@ -24956,7 +24956,7 @@ La stessa regola si applica nei casi in cui la forma scritta e' richiesta sotto 
 
 Le norme stabilite per la prova testimoniale dei contratti si applicano anche al pagamento e alla remissione del debito.
 
-##### CAPO IV - Delle presunzioni
+#### CAPO IV - Delle presunzioni
 
 ###### Art. 2727 - Nozione
 
@@ -24974,7 +24974,7 @@ Le presunzioni non stabilite dalla legge sono lasciate alla prudenza del giudice
 
 Le presunzioni non si possono ammettere nei casi in cui la legge esclude la prova per testimoni.
 
-##### CAPO V - Della confessione
+#### CAPO V - Della confessione
 
 ###### Art. 2730 - Nozione
 
@@ -25012,7 +25012,7 @@ Se e' fatta a un terzo o se e' contenuta in un testamento, e' liberamente apprez
 
 La confessione stragiudiziale non puo' provarsi per testimoni, se verte su un oggetto per il quale la prova testimoniale non e' ammessa dalla legge.
 
-##### CAPO VI - Del giuramento
+#### CAPO VI - Del giuramento
 
 ###### Art. 2736 - Specie
 
@@ -25046,9 +25046,9 @@ Il giuramento non puo' essere deferito o riferito per la decisione di cause rela
 
 Il giuramento non puo' essere deferito che sopra un fatto proprio della parte a cui si deferisce o sulla conoscenza che essa ha di un fatto altrui e non puo' essere riferito qualora il fatto che ne e' l'oggetto non sia comune a entrambe le parti.
 
-#### TITOLO III - DELLA RESPONSABILITA' PATRIMONIALE, DELLE CAUSE DI PRELAZIONE E DELLA CONSERVAZIONE DELLA GARANZIA PATRIMONIALE
+### TITOLO III - DELLA RESPONSABILITA' PATRIMONIALE, DELLE CAUSE DI PRELAZIONE E DELLA CONSERVAZIONE DELLA GARANZIA PATRIMONIALE
 
-##### CAPO I - Disposizioni generali
+#### CAPO I - Disposizioni generali
 
 ###### Art. 2740 - Responsabilita' patrimoniale
 
@@ -25078,9 +25078,9 @@ Qualora la cosa data in pegno o sottoposta a ipoteca perisca o si deteriori, anc
 
 E' nullo il patto col quale si conviene che, in mancanza del pagamento del credito nel termine fissato, la proprieta' della cosa ipotecata o data in pegno passi al creditore. Il patto e' nullo anche se posteriore alla costituzione dell'ipoteca o del pegno.
 
-##### CAPO II - Dei privilegi
+#### CAPO II - Dei privilegi
 
-###### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### Art. 2745 - Fondamento del privilegio
 
@@ -25114,7 +25114,7 @@ I privilegi sulla nave, sul nolo e sulle cose caricate e i privilegi sull'aeromo
 
 Ai privilegi previsti da leggi speciali si applicano le norme di questo capo, se non e' diversamente disposto.
 
-###### Sezione II - Dei privilegi sui mobili
+##### Sezione II - Dei privilegi sui mobili
 
 **§ 1 - Dei privilegi generali sui mobili**
 
@@ -25356,7 +25356,7 @@ Per i crediti dipendenti da reato hanno privilegio sulle cose sequestrate lo Sta
 
 Il creditore che ha privilegio su una cosa mobile, se ha fondati motivi di temere la rimozione della cosa dalla particolare situazione alla quale e' subordinata la sussistenza del privilegio, puo' domandarne il sequestro conservativo.
 
-###### Sezione III - Dei privilegi sopra gli immobili
+##### Sezione III - Dei privilegi sopra gli immobili
 
 ###### Art. 2770 - Crediti per atti conservativi o di espropriazione
 
@@ -25428,7 +25428,7 @@ AGGIORNAMENTO (272)
 
 Successivamente la Corte Costituzionale, con sentenza 5 - 13 luglio 2017, n. 176 (in G.U. 1ª s.s. 19/07/2017, n. 29), ha dichiarato l'illegittimita' costituzionale dell'art. 23, comma 39, ultimo periodo del D.L. 6 luglio 2011, n. 98, convertito con modificazioni dalla L. 15 luglio 2011, n. 111.
 
-###### Sezione IV - Dell'ordine dei privilegi
+##### Sezione IV - Dell'ordine dei privilegi
 
 ###### Art. 2777
 
@@ -25548,9 +25548,9 @@ La L. 29 dicembre 1990, n. 428, ha disposto (con l'art. 40, comma 2) che "L'arti
 
 (( I crediti dello Stato attinenti alle risorse proprie tradizionali di cui all'articolo 2, paragrafo 1, lettera a), della decisione n. 2007/436/CE/Euratom del Consiglio, del 7 giugno 2007, di pertinenza del bilancio generale dell'Unione europea sono equiparati, ai fini dell'applicazione delle disposizioni del presente capo, ai crediti dello Stato per l'imposta sul valore aggiunto.))
 
-##### CAPO III - Del pegno
+#### CAPO III - Del pegno
 
-###### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### Art. 2784 - Nozione
 
@@ -25562,7 +25562,7 @@ Possono essere dati in pegno i beni mobili, le universalita' di mobili, i credit
 
 Le disposizioni del presente capo non derogano alle leggi speciali concernenti casi e forme particolari di costituzione di pegno, ne' a quelle concernenti gli istituti autorizzati a fare prestiti sopra pegni.
 
-###### Sezione II - Del pegno dei beni mobili
+##### Sezione II - Del pegno dei beni mobili
 
 ###### Art. 2786 - Costituzione
 
@@ -25650,7 +25650,7 @@ Il creditore puo' sempre domandare al giudice che la cosa gli venga assegnata in
 
 Il pegno e' indivisibile e garantisce il credito finche' questo non e' integralmente soddisfatto, anche se il debito o la cosa data in pegno e' divisibile.
 
-###### Sezione III - Del pegno di crediti e di altri diritti
+##### Sezione III - Del pegno di crediti e di altri diritti
 
 ###### Art. 2800 - Condizioni della prelazione
 
@@ -25690,9 +25690,9 @@ Sono salve le disposizioni delle leggi speciali.
 
 Per tutto cio' che non e' regolato nella presente sezione si osservano, in quanto applicabili, le norme della sezione precedente.
 
-##### CAPO IV - Delle ipoteche
+#### CAPO IV - Delle ipoteche
 
-###### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### Art. 2808 - Costituzione ed effetti dell'ipoteca
 
@@ -25766,7 +25766,7 @@ Le ipoteche che hanno per oggetto il diritto di superficie si estinguono nel cas
 
 Se per altre cause si riuniscono nella medesima persona il diritto del proprietario del suolo e quello del superficiario, le ipoteche sull'uno e sull'altro diritto continuano a gravare separatamente i diritti stessi.
 
-###### Sezione II - Dell'ipoteca legale
+##### Sezione II - Dell'ipoteca legale
 
 ###### Art. 2817
 
@@ -25780,7 +25780,7 @@ Se per altre cause si riuniscono nella medesima persona il diritto del proprieta
 
 3\) lo Stato sopra i beni dell'imputato e della persona civilmente responsabile, secondo le disposizioni del codice penale e del codice di procedura penale))
 
-###### Sezione III - Dell'ipoteca giudiziale
+##### Sezione III - Dell'ipoteca giudiziale
 
 ###### Art. 2818 - Provvedimenti da cui deriva
 
@@ -25796,7 +25796,7 @@ Si puo' iscrivere ipoteca in base al lodo degli arbitri, quando e' stato reso es
 
 Si puo' parimenti iscrivere ipoteca in base alle sentenze pronunziate dalle autorita' giudiziarie straniere, dopo che ne e' stata dichiarata l'efficacia dall'autorita' giudiziaria italiana, salvo che le convenzioni internazionali dispongano diversamente.
 
-###### Sezione IV - Dell'ipoteca volontaria
+##### Sezione IV - Dell'ipoteca volontaria
 
 ###### Art. 2821 - Concessione d'ipoteca
 
@@ -25842,7 +25842,7 @@ I debitori delle somme sono tuttavia liberati quando le abbiano pagate al condiv
 
 ((Nell'atto di concessione dell'ipoteca l'immobile deve essere specificamente designato con l'indicazione della sua natura, del comune in cui si trova, nonche' dei dati di identificazione catastale; per i fabbricati in corso di costruzione devono essere indicati i dati di identificazione catastale del terreno su cui insistono)).
 
-###### Sezione V - Dell'iscrizione e rinnovazione delle ipoteche
+##### Sezione V - Dell'iscrizione e rinnovazione delle ipoteche
 
 **§ 1 - Dell'iscrizione**
 
@@ -26018,7 +26018,7 @@ Il conservatore deve osservare le disposizioni dell'art. 2840.
 
 Se al tempo della rinnovazione gli immobili ipotecati risultano dai registri delle trascrizioni passati agli eredi del debitore o ai suoi aventi causa, la rinnovazione deve essere fatta anche nei confronti degli eredi o aventi causa e la nota deve contenere le indicazioni stabilite dall'art. 2839, se queste risultano dai registri medesimi.
 
-###### Sezione VI - Dell'ordine delle ipoteche
+##### Sezione VI - Dell'ordine delle ipoteche
 
 ###### Art. 2852 - Grado dell'ipoteca
 
@@ -26056,7 +26056,7 @@ Trattandosi di beni acquistati dal debitore posteriormente a detta iscrizione, s
 
 Per far valere il diritto alla surrogazione deve essere eseguita annotazione in margine all'ipoteca del creditore soddisfatto; per l'annotazione deve presentarsi al conservatore copia dello stato di graduazione dal quale risulta l'incapienza.
 
-###### Sezione VII - Degli effetti dell'ipoteca rispetto al terzo acquirente
+##### Sezione VII - Degli effetti dell'ipoteca rispetto al terzo acquirente
 
 ###### Art. 2858 - Facolta' del terzo acquirente
 
@@ -26128,7 +26128,7 @@ Se il debito del terzo non e' attualmente esigibile, o e' minore o diverso da ci
 
 Nell'uno e nell'altro caso l'acquirente non puo' evitar di pagare, offrendo il rilascio dell'immobile, ma, eseguito il pagamento, l'immobile e' liberato da ogni ipoteca, non esclusa quella che spetta all'alienante, e il terzo ha diritto di ottenere che si cancellino le relative iscrizioni.
 
-###### Sezione VIII - Degli effetti dell'ipoteca rispetto al terzo datore
+##### Sezione VIII - Degli effetti dell'ipoteca rispetto al terzo datore
 
 ###### Art. 2868 - Beneficio di escussione
 
@@ -26148,7 +26148,7 @@ Il terzo datore che ha pagato i creditori iscritti o ha sofferto l'espropriazion
 
 Il terzo datore ha regresso contro i fideiussori del debitore. Ha inoltre regresso contro gli altri terzi datori per la loro rispettiva porzione e puo' esercitare, anche nei confronti dei terzi acquirenti, il subingresso previsto dal secondo comma dell'art. 2866.
 
-###### Sezione IX - Della riduzione delle ipoteche
+##### Sezione IX - Della riduzione delle ipoteche
 
 ###### Art. 2872 - Modalita' della riduzione
 
@@ -26182,7 +26182,7 @@ Le spese necessarie per eseguire la riduzione, anche se consentita dal creditore
 
 Se la riduzione e' stata ordinata con sentenza, le spese del giudizio sono a carico del soccombente, salvo che siano compensate tra le parti.
 
-###### Sezione X - Dell'estinzione delle ipoteche
+##### Sezione X - Dell'estinzione delle ipoteche
 
 ###### Art. 2878 - Cause di estinzione
 
@@ -26216,7 +26216,7 @@ Riguardo ai beni acquistati da terzi, l'ipoteca si estingue per prescrizione, in
 
 Salvo diversa disposizione di legge, se la causa estintiva dell'obbligazione e' dichiarata nulla o altrimenti non sussiste ovvero e' dichiarata nulla la rinunzia fatta dal creditore all'ipoteca, e l'iscrizione non e' stata conservata, si puo' procedere a nuova iscrizione e questa prende grado dalla sua data.
 
-###### Sezione XI - Della cancellazione dell'iscrizione
+##### Sezione XI - Della cancellazione dell'iscrizione
 
 ###### Art. 2882 - Formalita' per la cancellazione
 
@@ -26254,7 +26254,7 @@ La cancellazione dell'ipoteca importa la perdita del diritto di regresso contro 
 
 Qualora il conservatore rifiuti di procedere alla cancellazione di un'iscrizione, il richiedente puo' proporre reclamo all'autorita' giudiziaria.
 
-###### Sezione XII - Del modo di liberare i beni dalle ipoteche
+##### Sezione XII - Del modo di liberare i beni dalle ipoteche
 
 ###### Art. 2889 - Facolta' di liberare i beni dalle ipoteche
 
@@ -26330,7 +26330,7 @@ Nel caso in cui il titolo d'acquisto del terzo acquirente comprende mobili e imm
 
 Il creditore che richiede l'espropriazione non puo' in nessun caso essere costretto a estendere la sua domanda ai mobili, o ad altri immobili, fuori di quelli che sono ipotecati per il suo credito, salvo il regresso del terzo acquirente contro il suo autore per il risarcimento del danno che venga a soffrire a causa della separazione dei beni compresi nell'acquisto e delle relative coltivazioni.
 
-###### Sezione XIII - Della rinunzia e dell'astensione del creditore nell'espropriazione forzata
+##### Sezione XIII - Della rinunzia e dell'astensione del creditore nell'espropriazione forzata
 
 ###### Art. 2899 - Divieto di rinunzia a un'ipoteca a danno di altro creditore
 
@@ -26338,9 +26338,9 @@ Il creditore, che ha ipoteca su vari immobili, dopo che gli e' stata fatta la no
 
 La stessa disposizione si applica nel caso in cui la rinunzia o l'astensione favorisca un terzo acquirente a danno di un creditore con ipoteca anteriore o di un altro terzo acquirente che abbia un titolo anteriormente trascritto.
 
-##### CAPO V - Dei mezzi di conservazione della garanzia patrimoniale
+#### CAPO V - Dei mezzi di conservazione della garanzia patrimoniale
 
-###### Sezione I - Dell'azione surrogatoria
+##### Sezione I - Dell'azione surrogatoria
 
 ###### Art. 2900 - Condizioni, modalita' ed effetti
 
@@ -26348,7 +26348,7 @@ Il creditore, per assicurare che siano soddisfatte o conservate le sue ragioni, 
 
 Il creditore, qualora agisca giudizialmente, deve citare anche il debitore al quale intende surrogarsi.
 
-###### Sezione II - Dell'azione revocatoria
+##### Sezione II - Dell'azione revocatoria
 
 ###### Art. 2901 - Condizioni
 
@@ -26378,7 +26378,7 @@ L'azione revocatoria si prescrive in cinque anni dalla data dell'atto.
 
 Sono salve le disposizioni sull'azione revocatoria in materia fallimentare e in materia penale.
 
-###### Sezione III - Del sequestro conservativo
+##### Sezione III - Del sequestro conservativo
 
 ###### Art. 2905 - Sequestro nei confronti del debitore o del terzo
 
@@ -26392,9 +26392,9 @@ Non hanno effetto in pregiudizio del creditore sequestrante le alienazioni e gli
 
 Non ha parimenti effetto in pregiudizio del creditore opponente il pagamento eseguito dal debitore, qualora l'opposizione sia stata proposta nei casi e con le forme stabilite dalla legge.
 
-#### TITOLO IV - DELLA TUTELA GIURISDIZIONALE DEI DIRITTI
+### TITOLO IV - DELLA TUTELA GIURISDIZIONALE DEI DIRITTI
 
-##### CAPO I - Disposizioni generali
+#### CAPO I - Disposizioni generali
 
 ###### Art. 2907 - Attivita' giurisdizionale
 
@@ -26410,9 +26410,9 @@ Nei casi previsti dalla legge, l'autorita' giudiziaria puo' costituire, modifica
 
 L'accertamento contenuto nella sentenza passata in giudicato fa stato a ogni effetto tra le parti, i loro eredi o aventi causa.
 
-##### CAPO II - Dell'esecuzione forzata
+#### CAPO II - Dell'esecuzione forzata
 
-###### Sezione I - Dell'espropriazione
+##### Sezione I - Dell'espropriazione
 
 **§ 1 - Disposizioni generali**
 
@@ -26538,7 +26538,7 @@ Se oggetto dell'assegnazione e' un credito, il diritto dell'assegnatario verso i
 
 La nullita' degli atti esecutivi che hanno preceduto la vendita o l'assegnazione non ha effetto riguardo all'acquirente o all'assegnatario, salvo il caso di collusione con il creditore procedente. Gli altri creditori non sono in nessun caso tenuti a restituire quanto hanno ricevuto per effetto dell'esecuzione.
 
-###### ((Sezione I-bis - Dell'espropriazione di beni oggetto di vincoli di indisponibilita' o di alienazioni a titolo gratuito))
+##### ((Sezione I-bis - Dell'espropriazione di beni oggetto di vincoli di indisponibilita' o di alienazioni a titolo gratuito))
 
 ###### Art. 2929-bis - Espropriazione di beni oggetto di vincoli di indisponibilita' o di alienazioni a titolo gratuito
 
@@ -26558,7 +26558,7 @@ AGGIORNAMENTO (245)
 
 Il D.L. 27 giugno 2015, n. 83, convertito con modificazioni dalla L. 6 agosto 2015, n. 132, ha disposto (con l'art. 23, comma 6) che " Le disposizioni di cui agli articoli 12 e 13, comma 1, lettere d), l), m), n), si applicano esclusivamente alle procedure esecutive iniziate successivamente alla data di entrata in vigore del presente decreto".
 
-###### Sezione II - Dell'esecuzione forzata in forma specifica
+##### Sezione II - Dell'esecuzione forzata in forma specifica
 
 ###### Art. 2930 - Esecuzione forzata per consegna o rilascio
 
@@ -26580,11 +26580,11 @@ Se non e' adempiuto un obbligo di non fare, l'avente diritto puo' ottenere che s
 
 Non puo' essere ordinata la distruzione della cosa e l'avente diritto puo' conseguire solo il risarcimento dei danni, se la distruzione della cosa e' di pregiudizio all'economia nazionale.
 
-#### TITOLO V - DELLA PRESCRIZIONE E DELLA DECADENZA
+### TITOLO V - DELLA PRESCRIZIONE E DELLA DECADENZA
 
-##### CAPO I - Della prescrizione
+#### CAPO I - Della prescrizione
 
-###### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### Art. 2934 - Estinzione dei diritti
 
@@ -26620,7 +26620,7 @@ La prescrizione puo' essere opposta dai creditori e da chiunque vi ha interesse,
 
 Non e' ammessa la ripetizione di cio' che e' stato spontaneamente pagato in adempimento di un debito prescritto.
 
-###### Sezione II - Della sospensione della prescrizione
+##### Sezione II - Della sospensione della prescrizione
 
 ###### Art. 2941 - Sospensione per rapporti tra le parti
 
@@ -26674,7 +26674,7 @@ La prescrizione rimane sospesa:
 
 2\) in tempo di guerra, contro i militari in servizio e gli appartenenti alle forze armate dello Stato e contro coloro che si trovano per ragioni di servizio al seguito delle forze stesse, per il tempo indicato dalle disposizioni delle leggi di guerra.
 
-###### Sezione III - Dell'interruzione della prescrizione
+##### Sezione III - Dell'interruzione della prescrizione
 
 ###### Art. 2943 - Interruzione da parte del titolare
 
@@ -26700,7 +26700,7 @@ Se il processo si estingue, rimane fermo l'effetto interruttivo e il nuovo perio
 
 ((Nel caso di arbitrato la prescrizione non corre dal momento della notificazione dell'atto contenente la domanda di arbitrato sino al momento in cui il lodo che definisce il giudizio non e' piu' impugnabile o passa in giudicato la sentenza resa sull'impugnazione)).
 
-###### Sezione IV - Del termine della prescrizione
+##### Sezione IV - Del termine della prescrizione
 
 **§ 1 - Della prescrizione ordinaria**
 
@@ -26876,7 +26876,7 @@ La prescrizione a mesi si verifica nel mese di scadenza e nel giorno di questo c
 
 Se nel mese di scadenza manca tale giorno, il termine si compie con l'ultimo giorno dello stesso mese.
 
-##### CAPO II - Della decadenza
+#### CAPO II - Della decadenza
 
 ###### Art. 2964 - Inapplicabilita' di regole della prescrizione
 

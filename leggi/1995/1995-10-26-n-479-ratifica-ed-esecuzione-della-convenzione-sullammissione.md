@@ -25,21 +25,21 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la convenzione sull'ammissione temporanea di merci, con annessi, fatta a Istanbul il 26 giugno 1990.
 
-#### Art. 2
+### Art. 2
 
 1\. Piena ed intera esecuzione e' data alla convenzione di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 26 della convenzione stessa.
 
-#### Art. 3
+### Art. 3
 
 1.All'onere derivante dall'applicazione della presente legge, valutato in lire sei milioni annui a decorrere dal 1995, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1995-1997, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1995, all'uopo parzialmente utilizzando l'accantonamento riguardante il Ministero degli affari esteri.
 
 2\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 4
+### Art. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -57,15 +57,13 @@ Visto, il Guardasigilli: DINI
 
 ## Allegati
 
-#### Convention
+### Convention
 
 Convention relative a' l'admission temporaire
 
 Parte di provvedimento in formato grafico
 
-## Capitolo primo - Disposizioni generali
-
-### Definizioni
+## Capitolo primo - Disposizioni generali Definizioni
 
 TRADUZIONE NON UFFICIALE
 
@@ -89,7 +87,7 @@ CONSIDERANDO che l'adozione di modelli standardizzati di titoli di ammissione te
 
 Hanno convenuto quanto segue:
 
-#### Articolo primo
+### Articolo primo
 
 Ai fini dell'attuazione della presente Convenzione:
 
@@ -127,7 +125,7 @@ la ratifica vera e propria, l'accettazione o l'approvazione.
 
 ## Capitolo II - Settore di applicazione della Convenzione
 
-#### Articolo 2
+### Articolo 2
 
 1\. Ciascuna Parte contraente si impegna a concedere l'ammissione temporanea alle condizioni previste dalla presente Convenzione, alle merci- compresi i mezzi di trasporto- che sono oggetto degli Annessi alla presente Convenzione.
 
@@ -135,7 +133,7 @@ la ratifica vera e propria, l'accettazione o l'approvazione.
 
 ## Struttura degli Annessi
 
-#### Articolo 3
+### Articolo 3
 
 Ciascun Annesso alla presente Convenzione contiene in linea di massima:
 
@@ -143,11 +141,9 @@ a) le definizioni dei principali termini doganali utilizzati nel presente Anness
 
 b) le particolari disposizioni applicabili alle merci, compresi i mezzi di trasporto che sono oggetto dell'Annesso.
 
-## CAPITOLO III - Disposizioni particolari
+## CAPITOLO III - Disposizioni particolari Documento e garanzia
 
-### Documento e garanzia
-
-#### Articolo 4
+### Articolo 4
 
 1\. A meno che un Annesso non disponga diversamente, ciascuna Parte contraente ha diritto di subordinare l'ammissione temporanea delle merci, compresi i mezzi di trasporto, alla presentazione di un documento doganale ed alla formazione di una garanzia.
 
@@ -159,19 +155,19 @@ b) le particolari disposizioni applicabili alle merci, compresi i mezzi di trasp
 
 ## Titoli di ammissione temporanea
 
-#### Articolo 5
+### Articolo 5
 
 Fatte salve le operazioni di ammissione temporanea dell'Annesso E, ciascuna Parte contraente accetta, in luogo dei suoi documenti nazionali e a titolo di garanzia delle somme di cui all'articolo 8 dell'Annesso A, ogni titolo di ammissione temporanea valido per il suo territorio, rilasciato ed utilizzato alle condizioni determinate in tale Annesso per le merci, compresi i mezzi di trasporto, temporaneamente importate in attuazione degli altri Annessi alla presente Convenzione da detta Parte eventualmente accettati.
 
 ## Individuazione
 
-#### Articolo 6
+### Articolo 6
 
 Ciascuna Parte Contraente puo' subordinare l'ammissione temporanea delle merci, compresi i mezzi di trasporto, a condizione che esse possano essere identificate all'atto della cessazione dell'ammissione temporanea.
 
 ## Periodo di riesportazione
 
-#### Articolo 7
+### Articolo 7
 
 1\. Le merci (compresi i mezzi di trasporto) che usufruiscono dell'ammissione temporanea, devono essere riesportate compresi i mezzi di trasporto, entro un determinato periodo considerato sufficiente ai fini dell'ottenimento del fine dell'ammissione temporanea. Tale periodo e' stabilito individualmente in ciascun Annesso.
 
@@ -181,7 +177,7 @@ Ciascuna Parte Contraente puo' subordinare l'ammissione temporanea delle merci, 
 
 ## Trasferimento dell'ammissione temporanea
 
-#### Articolo 8
+### Articolo 8
 
 Ciascuna Parte contraente puo' a richiesta autorizzare il trasferimento del beneficio del regime dell'ammissione temporanea ad ogni altra persona:
 
@@ -193,29 +189,29 @@ b) se essa subentra negli obblighi del beneficiario iniziale dell'ammissione tem
 
 ## Cessazione dell'ammissione temporanea
 
-#### Articolo 9
+### Articolo 9
 
 Di regola la cessazione normale dell'ammissione temporanea ha luogo con la riesportazione delle merci (compresi i mezzi di trasporto) che hanno usufruito dell'ammissione temporanea,
 
-#### Articolo 10
+### Articolo 10
 
 Le merci in ammissione temporanea, compresi i mezzi di trasporto possono essere riesportate in una o piu' spedizioni.
 
-#### Articolo 11
+### Articolo 11
 
 Le merci in ammissione temporanea, compresi i mezzi di trasporto possono essere riesportate attraverso un Ufficio doganale diverso da quello di importazione.
 
 ## Altri possibili casi di cessazione
 
-#### Articolo 12
+### Articolo 12
 
 La cessazione dell'ammissione temporanea puo' essere ottenuta con l'accordo delle autorita' competenti mediante la sistemazione delle merci (compresi i mezzi di trasporto) in porti franchi o zone franche, in magazzini doganali o sotto il regime di transito doganale, in vista di una loro ulteriore esportazione o di ogni altra destinazione autorizzata.
 
-#### Articolo 13
+### Articolo 13
 
 La cessazione dell'ammissione temporanea puo' essere ottenuta quando le merci vengono destinate al consumo interno se cio' e' giustificato dalle circostanze e autorizzato dalla legislazione nazionale, sotto riserva che siano soddisfatte le condizioni e le formalita' applicabili in questo caso.
 
-#### Articolo 14
+### Articolo 14
 
 1\. La cessazione dell'ammissione temporanea puo' essere ottenuta se le merci (compresi i mezzi di trasporto) che sono state gravemente danneggiate, a causa di incidenti o di forza maggiore, sono, in base ad una decisione delle autorita' doganali:
 
@@ -233,17 +229,15 @@ c) distrutte, sotto controllo ufficiale, a spese degli interessati, i detriti e 
 
 3\. La cessazione dell'ammissione temporanea puo' altresi' essere ottenuta a richiesta dell'interessato se quest'ultimo giustifica con soddisfazione delle autorita' doganali la distruzione o la perdita totale delle merci, compresi i mezzi di trasporto, a causa di incidente o di forza maggiore. In questo caso, il beneficiario dell'ammissione temporanea sara' esonerato dal pagamento del dazio di importazione.
 
-## Capitolo IV - Disposizioni varie
+## Capitolo IV - Disposizioni varie Riduzione degli adempimenti
 
-### Riduzione degli adempimenti
-
-#### Articolo 15
+### Articolo 15
 
 Ciascuna Parte riduce al minimo gli adempimenti doganali derivanti dalle agevolazioni previste dalla presente Convenzione e pubblica il prima possibile, i regolamenti relativi a tali adempimenti.
 
 ## Autorizzazione preliminare
 
-#### Articolo 16
+### Articolo 16
 
 1\. Se l'ammissione temporanea e' subordinata ad una autorizzazione preliminare, quest'ultima dovra' essere concessa dall'Ufficio doganale competente nei piu' brevi termini possibili.
 
@@ -251,13 +245,13 @@ Ciascuna Parte riduce al minimo gli adempimenti doganali derivanti dalle agevola
 
 ## Agevolazioni minime
 
-#### Articolo 17
+### Articolo 17
 
 Le disposizioni della presente Convenzione stabiliscono un minimo di agevolazioni da concedere e non frappongono ostacoli all'applicazione di agevolazioni maggiori che le Parti contraenti concedono o potrebbero concedere in virtu' sia di disposizioni unilaterali sia di accordi bilaterali o multilaterali.
 
 ## Unioni doganali o economiche
 
-#### Articolo 18
+### Articolo 18
 
 1\. Ai fini dell'attuazione della presente Convenzione i territori delle Parti contraenti che costituiscono un'Unione doganale od economica possono essere considerati come un unico territorio.
 
@@ -265,13 +259,13 @@ Le disposizioni della presente Convenzione stabiliscono un minimo di agevolazion
 
 ## Divieti e restrizioni
 
-#### Articolo 19
+### Articolo 19
 
 Le disposizioni della presente Convenzione non ostacolano l'attuazione dei divieti e delle restrizioni derivanti da leggi e regolamenti nazionali, fondate su considerazioni di natura non economica quali considerazioni di moralita' o di ordine pubblico, di sicurezza pubblica, di igiene o di sanita' pubblica o su considerazioni di carattere veterinario o fito-sanitario o relative alla protezione delle specie di fauna e di flora selvatiche minacciate di estinzione, oppure relative alla protezione dei diritti di autore e della proprieta' industriale.
 
 ## Infrazioni
 
-#### Articolo 20
+### Articolo 20
 
 1\. Qualsiasi infrazione alle disposizioni della presente Convenzione esporra' il trasgressore, nel territorio della Parte contraente dove e' stata commessa l'infrazione, alle sanzioni previste dalla legislazione di tale Parte contraente.
 
@@ -279,15 +273,13 @@ Le disposizioni della presente Convenzione non ostacolano l'attuazione dei divie
 
 ## Scambio di informazioni
 
-#### Articolo 21
+### Articolo 21
 
 Le Parti contraenti si comunicheranno reciprocamente a richiesta e nella misura autorizzata dalla legislazione nazionale, le informazioni necessarie all'applicazione delle disposizioni della presente Convenzione.
 
-## CAPITOLO V - Disposizioni finali
+## CAPITOLO V - Disposizioni finali Comitato di gestione
 
-### Comitato di gestione
-
-#### Articolo 22
+### Articolo 22
 
 1\. Un Comitato di gestione e' costituito per esaminare l'attuazione della presente Convenzione, studiare i provvedimenti volti ad assicurare una interpretazione ed una attuazione uniformi della Convenzione ed esaminare ogni emendamento proposto.
 
@@ -313,7 +305,7 @@ Le Parti contraenti si comunicheranno reciprocamente a richiesta e nella misura 
 
 ## Soluzione delle controversie
 
-#### Articolo 23
+### Articolo 23
 
 1\. Ogni controversia tra due o piu' Parti contraenti per quanto concerne l'interpretazione o l'attuazione della presente Convenzione sara' risolta per quanto possibile per mezzo di negoziati tra tali Parti.
 
@@ -323,7 +315,7 @@ Le Parti contraenti si comunicheranno reciprocamente a richiesta e nella misura 
 
 ## Firma, ratifica ed adesione
 
-#### Articolo 24
+### Articolo 24
 
 1\. Ogni Membro del Consiglio ed ogni Membro dell'Organizzazione delle Nazioni Unite o delle sue Istituzioni specializzate puo' divenire Parte contraente alla presente Convenzione:
 
@@ -349,7 +341,7 @@ In tal caso, questi Membri non sono abilitati ad esercitare individualmente tali
 
 ## Depositario
 
-#### Articolo 25
+### Articolo 25
 
 1\. La presente Convenzione, tutte le firme con o senza riserva di ratifica e tutti gli strumenti di ratifica e di adesione sono depositati presso il Segretario Generale del Consiglio.
 
@@ -381,7 +373,7 @@ e) Notifica alle Parti contraenti alla presente Convenzione, agli altri firmatar
 
 ## Entrata in vigore
 
-#### Articolo 26
+### Articolo 26
 
 1\. La presente Convenzione entra in vigore tre mesi dopo che cinque dei Membri o delle Unioni doganali o economiche di cui ai paragrafi 1 e 7 dell'articolo 24 di cui sopra abbiamo firmato la presente Convenzione senza riserva di ratifica o depositato il loro strumento di ratifica o di adesione.
 
@@ -393,13 +385,13 @@ e) Notifica alle Parti contraenti alla presente Convenzione, agli altri firmatar
 
 ## Disposizioni abrogatorie
 
-#### Articolo 27
+### Articolo 27
 
 All'entrata in vigore di un Annesso alla presente Convenzione che comporta una disposizione abrogatoria, tale Annesso abroghera' e sostituira' le Convenzioni e le disposizioni delle Convenzioni che sono oggetto della disposizione abrogatoria nelle relazioni tra le Parti Contraenti che hanno accettato tale Annesso e che sono Parti contraenti alle Convenzioni.
 
 ## Convenzione ed Annessi
 
-#### Articolo 28
+### Articolo 28
 
 1\. Per quanto concerne l'attuazione della presente Convenzione, gli Annessi in vigore nei confronti di una Parte contraente sono parte integrante della Convenzione; per quanto concerne tale Parte contraente, ogni riferimento alla Convenzione si applica dunque anche a tali Annessi.
 
@@ -407,7 +399,7 @@ All'entrata in vigore di un Annesso alla presente Convenzione che comporta una d
 
 ## Riserve
 
-#### Articolo 29
+### Articolo 29
 
 1\. Si riterra' che ciascuna Parte contraente che accetta un Annesso, accetta tutte le disposizioni contenute in tale Annesso a meno che essa non notifichi al Depositario, all'atto dell'accettazione di tale Annesso o successivamente, la disposizione o le disposizioni per le quali essa formula delle riserve, sempre che tale possibilita' sia prevista nell'Annesso in questione, indicando le differenze esistenti tra le norme della sua legislazione nazionale e le disposizioni in questione.
 
@@ -417,7 +409,7 @@ All'entrata in vigore di un Annesso alla presente Convenzione che comporta una d
 
 ## Estensione territoriale
 
-#### Articolo 30
+### Articolo 30
 
 1\. Ogni Parte contraente puo', sia al momento della firma senza riserva di ratifica, della ratifica o dell'adesione, sia successivamente, notificare al Depositario che la presente Convenzione si estende all'insieme o ad alcuni dei suoi territori le cui relazioni internazionali sono poste sotto la sua responsabilita'.
 
@@ -427,7 +419,7 @@ Tale notifica ha effetto tre mesi dopo la data alla quale il Depositario la rice
 
 ## Denuncia
 
-#### Articolo 31
+### Articolo 31
 
 1\. La presente Convenzione e' stipulata per una durata illimitata.
 
@@ -441,7 +433,7 @@ Tuttavia, ogni Parte contraente puo' denunciarla in ogni tempo dopo la data dell
 
 ## Procedura di emendamento
 
-#### Articolo 32
+### Articolo 32
 
 1\. Il Comitato di gestione, riunito in conformita' con le condizioni previste all'articolo 22 della presente Convenzione, puo' raccomandare emendamenti alla presente Convenzione nonche' ai suoi Annessi.
 
@@ -455,7 +447,7 @@ Tuttavia, ogni Parte contraente puo' denunciarla in ogni tempo dopo la data dell
 
 ## Accettazione degli emendamenti
 
-#### Articolo 33
+### Articolo 33
 
 1\. Si riterra' che ogni Parte contraente che ratifica la presente Convenzione o vi aderisce, abbia accettato gli emendamenti entrati in vigore alla data del deposito del suo strumento di ratifica o di adesione.
 
@@ -463,7 +455,7 @@ Tuttavia, ogni Parte contraente puo' denunciarla in ogni tempo dopo la data dell
 
 ## Registrazione e Testi autentici
 
-#### Articolo 34
+### Articolo 34
 
 In conformita' con l'articolo 102 della Carta delle Nazioni Unite, la presente Convenzione sara' registrata presso il Segretariato delle Nazioni Unite dietro richiesta del Depositario.
 
@@ -479,7 +471,7 @@ Annesso relativo ai titoli di ammissione temporanea
 
 (Libretti ATA, Libretti CPD)
 
-#### Articolo 1
+### Articolo 1
 
 Ai fini dell'applicazione del presente Annesso:
 
@@ -519,7 +511,7 @@ il regime doganale sotto il quale sono poste le merci trasportate sotto controll
 
 ## Capitolo II - Portata
 
-#### Articolo 2
+### Articolo 2
 
 1\. Ciascuna Parte contraente accetta, in luogo dei suoi documenti doganali nazionali ed in garanzia delle somme di cui all'articolo 8 del presente Annesso, alle condizioni di cui all'articolo 5 della presente Convenzione, ogni titolo di ammissione temporanea valevole per il suo territorio rilasciato ed utilizzato alle condizioni deter- minate nel presente Annesso per le merci compresi i mezzi di trasporto, temporaneamente importate in attuazione degli altri Annessi alla presente Convenzione.
 
@@ -529,7 +521,7 @@ il regime doganale sotto il quale sono poste le merci trasportate sotto controll
 
 4\. Le merci compresi i mezzi di trasporto che devono essere oggetto di una lavorazione o di una riparazione non possono essere importate con un titolo di ammissione temporanea.
 
-#### Articolo 3
+### Articolo 3
 
 1\. I titoli di ammissione temporanea saranno conformi ai modelli riportati nelle appendici al presente Annesso, il libretto ATA all'appendice 1, il libretto CPD all'appendice 2.
 
@@ -537,13 +529,13 @@ il regime doganale sotto il quale sono poste le merci trasportate sotto controll
 
 ## CAPITOLO III - Garanzia e rilascio dei titoli di ammissione temporanea
 
-#### Articolo 4
+### Articolo 4
 
 1\. A condizioni e garanzie da essa determinate, ciascuna Parte contraente potra' abilitare associazioni garanti a garantire ed a rilasciare titoli di ammissione temporanea sia direttamente sia tramite associazioni emittenti.
 
 2\. Un'associazione garante potra' essere abilitata da una Parte contraente solo se la sua garanzia si estende alle responsabilita' incorse da tale Parte in occasione di operazioni effettuate con la copertura di titoli di ammissione temporanea rilasciati da associazioni emittenti corrispondenti.
 
-#### Articolo 5
+### Articolo 5
 
 1\. Le associazioni emittenti non possono rilasciare titoli di ammissione temporanea la cui durata di validita' e' superiore a un anno a decorrere dal giorno del loro rilascio.
 
@@ -551,7 +543,7 @@ il regime doganale sotto il quale sono poste le merci trasportate sotto controll
 
 3\. Nessuna merce puo', dopo il rilascio del libretto ATA, essere aggiunta all'elenco delle merci enumerate sul retro della copertina del libretto o nei fogli supplementari in annesso (elenco generale).
 
-#### Articolo 6
+### Articolo 6
 
 Sul titolo di ammissione temporanea devono figurare:
 
@@ -563,13 +555,13 @@ Sul titolo di ammissione temporanea devono figurare:
 
 \- il nome delle associazioni garanti in tali paesi o territori doganali.
 
-#### Articolo 7
+### Articolo 7
 
 Il termine stabilito per la riesportazione delle merci, compresi i mezzi di trasporto, importate con un titolo di ammissione temporanea, non puo' in alcun caso protrarsi oltre la durata di validita' di detto titolo.
 
 ## CAPITOLO IV - Garanzia
 
-#### Articolo 8
+### Articolo 8
 
 1\. Ciascuna associazione garante garantisce alle Autorita' doganali della Parte contraente sul di cui territorio ha la sua sede, il pagamento dell'importo del dazio di importazione e degli altri importi esigibili ad esclusione di quelli di cui all'articolo 4, paragrafo 4 della presente Convenzione in caso di inosservanza delle condizioni stabilite per l'ammissione temporanea o il transito doganale di merci, compresi i mezzi di trasporto, introdotte in questo territorio con la copertura di un titolo di ammissione temporanea rilasciato da una associazione emittente corrispondente.
 
@@ -595,7 +587,7 @@ Le autorita' doganali non possono in alcun caso esigere dall'associazione garant
 
 ## CAPITOLO V - Regolarizzazione dei titoli di ammissione temporanea
 
-#### Articolo 9
+### Articolo 9
 
 1\. Libretto ATA
 
@@ -615,7 +607,7 @@ b) Se questa prova non e' fornita nei termini autorizzati, l'associazione garant
 
 c) Per le Parti contraenti le cui leggi e regolamenti non prevedono il deposito o il versamento provvisorio del dazio di importazione, i pagamenti eventualmente effettuati alle condizioni previste al capoverso b) del presente paragrafo saranno considerate definitive, ma il loro importo sara' rimborsato qualora le prove previste al capoverso a) del presente paragrafo siano fornite entro un anno a decorrere dalla data del pagamento.
 
-#### Articolo 10
+### Articolo 10
 
 1\. La prova della riesportazione di merci, compresi i mezzi di trasporto, importate sotto la copertura di un titolo di ammissione temporanea e' costituita dalla matrice di riesportazione di tale titolo debitamente compilata e sulla quale e' stato apposto il timbro delle autorita' doganali del territorio di ammissione temporanea.
 
@@ -627,53 +619,53 @@ b) ogni altra prova che dimostri che le merci (compresi i mezzi di trasporto) si
 
 3\. Qualora le autorita' doganali di una Parte Contraente dispensino dalla riesportazione alcune merci, ivi compresi i mezzi di trasporto, che sono state ammesse sul loro territorio con la copertura di un titolo di ammissione temporanea, l'associazione garante sara' liberata dai suoi obblighi solo quando le autorita' avranno certificato sullo stesso titolo che la situazione di queste merci, compresi i mezzi di trasporto, e' stata regolarizzata.
 
-#### Articolo 11
+### Articolo 11
 
 Nei casi di cui all'articolo 10 paragrafo 2 del presente Annesso le autorita' doganali si riservano il diritto di riscuotere una tassa di regolarizzazione.
 
 ## CAPITOLO VI - Disposizioni diverse
 
-#### Articolo 12
+### Articolo 12
 
 I visti dei titoli di ammissione temporanea utilizzati alle condizioni previste dal presente Annesso non comportano il pagamento di una retribuzione per i servizi doganali se questa operazione e' effettuata negli uffici doganali e durante il normale orario di apertura.
 
-#### Articolo 13
+### Articolo 13
 
 In caso di distruzione, di perdita o di furto di un titolo di ammissione temporanea relativo a merci (mezzi di trasporto compresi) che si trovano nel territorio di una delle Parti contraenti, le autorita' doganali di tale Parte contraente accettano, a richiesta dell'Associazione emittente e sotto riserva delle condizioni prescritte da tali autorita', un titolo di sostituzione la cui validita' scade alla stessa data di quella del titolo sostituito.
 
-#### Articolo 14
+### Articolo 14
 
 1\. Qualora sia previsto che l'operazione di ammissione temporanea si protragga oltre il termine di validita' di un titolo di ammissione temporanea, il titolare di tale titolo non essendo in grado di riesportare le merci ed i mezzi di trasporto in questo lasso di tempo, l'associazione che ha rilasciato il titolo puo' rilasciare un titolo di sostituzione. Quest'ultimo sara' soggetto al controllo delle autorita' doganali delle Parti contraenti interessate. All'atto dell'accettazione del titolo di sostituzione, le autorita' doganali interessate danno quietanza liberatoria al titolo sostituito.
 
 2\. La validita' dei libretti CPD puo' essere prorogata una sola volta per un periodo non superiore ad un anno. Successivamente a questo termine, un nuovo libretto deve essere predisposto ed accettato dalle Autorita' doganali, in sostituzione del precedente.
 
-#### Articolo 15
+### Articolo 15
 
 Quando si applica il paragrafo 3 dell'articolo 7 della presente Convenzione, le autorita' doganali notificano per quanto possibile all'associazione garante le confische da esse stesse o a loro richiesta effettuate su merci, compresi i mezzi di trasporto, che usufruiscono della copertura di un titolo di ammissione temporanea garantito da tale associazione e notificano quest'ultima riguardo ai provvedimenti che esse intendono adottare.
 
-#### Articolo 16
+### Articolo 16
 
 In caso di frodi, contravvenzioni o abusi, le Parti contraenti hanno diritto nonostante le disposizioni del presente Annesso di intentare procedimenti legali contro i titolari di un documento di ammissione temporanea, al fine di ricuperare i dazi di importazione e le altre somme esigibili o esigere penali eventualmente dovute. In tal caso, le associazioni devono fornire il loro concorso alle autorita' doganali.
 
-#### Articolo 17
+### Articolo 17
 
 Sono ammessi in franchigia del dazio di importazione, e senza essere soggetti ad alcun divieto o restrizione d'importazione, i titoli di ammissione temporanea o le parti di questi titoli rilasciate o destinati ad essere rilasciate nel territorio d'importazione di tali titoli, e che sono spedite alle associazioni emittenti da una associazione garante, da un'organizzazione internazionale o dalle autorita' doganali di una Parte contraente.
 
 Analoghe agevolazioni sono concesse per quanto riguarda l'esportazione.
 
-#### Articolo 18
+### Articolo 18
 
 1\. Le Parti contraenti possono formulare una riserva, alle condizioni previste all'articolo 29 della presente Convenzione per quanto concerne l'accettazione dei libretti ATA per il traffico postale.
 
 2\. Nessuna altra riserva e' ammessa al presente Annesso.
 
-#### Articolo 19
+### Articolo 19
 
 1\. Alla sua entrata in vigore il presente Annesso in conformita' con le disposizioni dell'articolo 27 della presente Convenzione abroghera' e sostituira' la Convenzione doganale sul libretto ATA per l'ammissione temporanea di merci, Bruxelles, 6 dicembre 1961, nelle relazioni tra le Parti contraenti che hanno accettato tale Annesso e che sono Parti contraenti a tali Convenzioni.
 
 2\. Nonostante le disposizioni del paragrafo 1 del presente Articolo, di cui sopra, i libretti ATA rilasciati in attuazione della Convenzione doganale relativa al libretto ATA per l'ammissione temporanea di merci 1961 prima dell'entrata in vigore del presente Annesso, saranno accettate fino al completamento delle operazioni per le quali sono state rilasciate.
 
-#### Appendice I
+### Appendice I
 
 Appendice I all'Annesso A
 
@@ -984,7 +976,7 @@ Camera di Commercio Internazionale
 
 Parte di provvedimento in formato grafico
 
-#### Appendice II
+### Appendice II
 
 Appendice II all'Annesso A
 
@@ -1000,7 +992,7 @@ UTILIZZATE IN ESPOSIZIONI, FIERE, CONGRESSI O ANALOGHE
 
 MANIFESTAZIONI
 
-#### Articolo primo
+### Articolo primo
 
 Ai fini dell'attuazione del presente Annesso:
 
@@ -1018,7 +1010,7 @@ a) l'espressione "manifestazione" significa:
 
 ## Capitolo II - PORTATA
 
-#### Articolo 2
+### Articolo 2
 
 1\. Beneficiano dell'ammissione temporanea in conformita' con l'articolo 2 della presente Convenzione:
 
@@ -1050,7 +1042,7 @@ b) le condizioni prescritte dalla presente Convenzione debbono essere osservate 
 
 ## Capitolo III - Disposizioni varie
 
-#### Articolo 3
+### Articolo 3
 
 Per tutto il tempo in cui beneficiano delle agevolazioni previste dalla presente Convenzione ed a meno che la legislazione nazionale del territorio di ammissione temporanea non lo consenta, le merci poste in ammissione temporanea non possono essere:
 
@@ -1058,13 +1050,13 @@ a) prestate, noleggiate o utilizzate a pagamento;
 
 b) trasportate fuori dal luogo della manifestazione.
 
-#### Articolo 4
+### Articolo 4
 
 1\. Il termine di riesportazione delle merci importate destinate ad essere presentate o utilizzate in una esposizione, una fiera, un congresso o analoga manifestazione e' di almeno sei mesi a decorrere dalla data di ammissione temporanea.
 
 2\. Nonostante le disposizioni del paragrafo 1 del presente articolo, le autorita' doganali autorizzano gli interessati a lasciare nel territorio di ammissione temporanea le merci che debbono essere presentate o utilizzate ad una successiva manifestazione, a condizione che essi si conformino alle disposizioni delle leggi e regolamenti di tale territorio e che le merci siano riesportate entro il termine di un anno a decorrere dalla data della loro ammissione temporanea.
 
-#### Articolo 5
+### Articolo 5
 
 1\. In attuazione delle disposizioni dell'articolo 13 della presente Convenzione, in franchigia dal dazio di importazione e senza che siano applicati divieti o restrizioni all'importazione, e' concessa l'immissione sul mercato delle seguenti merci per consumo interno:
 
@@ -1126,21 +1118,21 @@ e) Fascicoli, archivi, moduli e altri documenti destinati ad essere utilizzati i
 
 2\. Le disposizioni del paragrafo 1 di ci sopra non sono applicabili alle bevande alcoliche, ai tabacchi ed ai combustibili.
 
-#### Articolo 6
+### Articolo 6
 
 1\. All'atto dell'importazione e della riesportazione, sara' effettuato il controllo e lo sdoganamento delle merci gia' presentate o utilizzate in una esposizione o destinate ad esserlo, in tutti i casi in cui cio' e' possibile ed opportuno, sul luogo stesso di tale esposizione.
 
 2\. Ciascuna Parte contraente fara' di tutto, in tutti i casi in cui lo ritiene utile, in considerazione dell'importanza dell'esposizione, per aprire, per una durata ragionevole, un Ufficio doganale sui luoghi dell'esposizione organizzata sul suo territorio.
 
-#### Articolo 7
+### Articolo 7
 
 I prodotti accessoriamente ottenuti durante l'esposizione da merci importate temporaneamente per la dimostrazione di macchine o di apparecchi esposti, sono soggetti alle disposizioni della presente Convenzione.
 
-#### Articolo 8
+### Articolo 8
 
 Ciascuna Parte contraente ha diritto di formulare una riserva alle condizioni previste dall'articolo 29 della presente Convenzione per quanto riguarda le disposizioni dell'Articolo 5, paragrafo 1, capoverso a) del presente Annesso.
 
-#### Articolo 9
+### Articolo 9
 
 All'atto della sua entrata in vigore il presente Annesso in conformita' con l'articolo 27 della presente Convenzione abroghera' e sostituira' la Convenzione doganale di Bruxelles dell'8 giugno 1961 relativa alle agevolazioni concesse per l'importazione delle merci destinate ad essere presentate o utilizzate in esposizioni, fiere, congressi o analoghe manifestazioni, nelle relazioni tra le Parti contraenti che hanno accettato il presente Annesso e che sono Parti contraenti a tale Convenzione.
 
@@ -1150,7 +1142,7 @@ ANNESSO B. 2
 
 Annesso relativo al materiale professionale
 
-#### Articolo primo
+### Articolo primo
 
 Ai fini dell'attuazione del presente Annesso, l'espressione "materiale professionale" significa:
 
@@ -1164,7 +1156,7 @@ Ai fini dell'attuazione del presente Annesso, l'espressione "materiale professio
 
 ## Capitolo II - Portata
 
-#### Articolo 2
+### Articolo 2
 
 Beneficiano dell'ammissione temporanea in conformita' con l'articolo 2 della presente Convenzione:
 
@@ -1176,7 +1168,7 @@ materiale professionale posto in ammissione temporanea ai sensi del paragrafo a)
 
 ## Capitolo III - Disposizioni varie
 
-#### Articolo 3
+### Articolo 3
 
 1\. Al fine di poter beneficiare delle agevolazioni concesse dal presente Annesso, il materiale professionale:
 
@@ -1196,31 +1188,31 @@ reca nel territorio di ammissione temporanea o secondo le sue direttive.
 
 3\. Il materiale cinematografico di stampa, radio e televisione non puo' essere oggetto di un contratto di noleggio o analogo contratto eventualmente stipulato da persona stabilita nel territorio di ammissione temporanea, rimanendo inteso che tale condizione non e' applicabile in caso di realizzazione di programmi comuni di trasmissioni radio o televisive.
 
-#### Articolo 4
+### Articolo 4
 
 1\. L'ammissione temporanea di materiali di produzione e dei servizi trasmessi via radio o televisione e dei veicoli specialmente adattati per essere utilizzati per servizi trasmessi via radio o televisione ed i loro equipaggiamenti importati da organismi pubblici o privati abilitati a tal fine dalle Autorita' doganali del territorio di ammissione temporanea, e' concessa senza che siano richiesti un documento doganale o una garanzia.
 
 2\. Le autorita' doganali possono esigere la presentazione di un elenco o di un inventario dettagliato del materiale di cui al paragrafo 1, assieme ad un impegno scritto di riesportazione.
 
-#### Articolo 5
+### Articolo 5
 
 Il termine di riesportazione del materiale professionale e' di almeno dodici mesi a decorrere dalla data di ammissione temporanea.
 
 Tuttavia, per i veicoli, il termine di riesportazione puo' essere stabilito in considerazione del motivo e della previsibile durata della permanenza sul territorio di ammissione temporanea.
 
-#### Articolo 6
+### Articolo 6
 
 Ciascuna Parte contraente ha diritto di rifiutare o di ritirare il beneficio dell'ammissione temporanea ai veicoli menzionati nelle Appendici I e III che, sia pure a titolo occasionale, imbarcano persone a pagamento o caricano merci sul suo territorio, e sbarcano tali persone o scaricano le merci o scaricano le merci in un luogo situato sullo stesso territorio.
 
-#### Articolo 7
+### Articolo 7
 
 Le Appendici al presente Annesso sono parte integrante di esso.
 
-#### Articolo 8
+### Articolo 8
 
 All'atto della sua entrata in vigore il presente Annesso, in conformita' con l'Articolo 27 della presente Convenzione, abroghera' e sostituira' la Convenzione doganale di Bruxelles dell'8 giugno 1961 relativa all'importazione temporanea di materiale professionale nelle relazioni tra le Parti contraenti che hanno accettato il presente Annesso e che sono Parti contraenti a tale Convenzione.
 
-#### Appendice I
+### Appendice I
 
 APPENDICE I
 
@@ -1300,7 +1292,7 @@ D. Veicoli concepiti o specialmente adattati per essere utilizzati ai fini di cu
 
 \- illuminazione.
 
-#### Appendice II
+### Appendice II
 
 APPENDICE II
 
@@ -1332,7 +1324,7 @@ A. Materiale, come:
 
 B. Veicoli concepiti o specialmente adattato per essere utilizzati ai fini di cui sopra.
 
-#### Appendice III
+### Appendice III
 
 APPENDICE III
 
@@ -1392,7 +1384,7 @@ IMBALLAGGI, CAMPIONI ED ALTRE MERCI IMPORTATE IN CONNESSIONE CON
 
 UNA OPERAZIONE COMMERCIALE
 
-#### ARTICOLO I
+### ARTICOLO I
 
 Ai fini dell'attuazione del presente Annesso:
 
@@ -1440,7 +1432,7 @@ il trasporto di merci caricate all'interno del territorio doganale da una Parte 
 
 ## CAPITOLO II - Portata
 
-#### Articolo 2
+### Articolo 2
 
 Beneficiano dell'ammissione temporanea in conformita' con l'articolo 2 della presente Convenzione le seguenti merci importate nel quadro di una operazione commerciale:
 
@@ -1458,11 +1450,11 @@ f) i films pubblicitari;
 
 g) ogni altra merce importata per uno degli scopi di cui all'Appendice I nel quadro di un'operazione commerciale ma la cui importazione non costituisce di per se' un'operazione commerciale.
 
-#### Articolo 3
+### Articolo 3
 
 Le disposizioni del presente Annesso non pregiudicano in alcuna maniera le legislazioni doganali delle Parti contraenti applicabili all'importazione delle merci trasportate in contenitori o imballaggi o su piattaforme da scarico.
 
-#### Articolo 4
+### Articolo 4
 
 1\. Al fine di poter beneficiare delle agevolazioni concesse dal presente Annesso:
 
@@ -1482,7 +1474,7 @@ e) l'utilizzazione delle merci di cui ai punti 1 e 2 dell'Appendice I non deve c
 
 2\. Ciascuna Parte contraente ha diritto di non concedere l'ammissione temporanea ai contenitori alle piattaforme di scarico o agli imballaggi che sono stati oggetto di un acquisto, di un'operazione affitto-vendita, di un noleggio o analogo contratto, stipulato da una persona avente sede o residente sul territorio di detta Parte.
 
-#### Articolo 5
+### Articolo 5
 
 1\. L'ammissione temporanea di contenitori, piattaforme di scarico ed imballaggi e' concessa senza bisogno di un documento doganale o di una garanzia.
 
@@ -1496,11 +1488,11 @@ e) l'utilizzazione delle merci di cui ai punti 1 e 2 dell'Appendice I non deve c
 
 4\. Le persone che si avvalgono regolarmente del regime di ammissione temporanea sono autorizzate a sottoscrivere un impegno globale.
 
-#### Articolo 6
+### Articolo 6
 
 Il termine di riesportazione delle merci importate nel quadro di un'operazione commerciale e' di sei mesi almeno a decorrere dalla data di ammissione temporanea.
 
-#### Articolo 7
+### Articolo 7
 
 Ciascuna Parte contraente ha diritto di formulare una riserva alle condizioni di cui all'articolo 29 della presente Convenzione, per quanto riguarda:
 
@@ -1508,11 +1500,11 @@ a) un massimo di tre gruppi di merci, tra quelli dell'articolo 2;
 
 b) l'articolo 5, paragrafo 1 del presente Annesso.
 
-#### Articolo 8
+### Articolo 8
 
 Le Appendici al presente Annesso sono parte integrante di quest'ultimo.
 
-#### Articolo 9
+### Articolo 9
 
 All'atto della sua entrata in vigore, il presente Annesso, in conformita' con l'articolo 27 della presente Convenzione, abroghera' e sostituira' le Convezioni e disposizioni in appresso:
 
@@ -1532,7 +1524,7 @@ pubblicitario, Ginevra, 7 novembre 1952
 
 nelle relazioni tra le Parti Contraenti che hanno accettato il presente Annesso e che sono Parti contraenti a tali Convenzioni.
 
-#### Appendice I
+### Appendice I
 
 APPENDICE I
 
@@ -1550,7 +1542,7 @@ Elenco delle merci ai sensi dell'articolo 2 g)
 
 6\. Oggetti (compresi i veicoli) che, per via della loro natura possono servire solo a reclamizzare o a pubblicizzare un articolo per uno scopo determinato.
 
-#### Appendice II
+### Appendice II
 
 APPENDICE II
 
@@ -1580,7 +1572,7 @@ ANNESSO B.4
 
 ANNESSO RELATIVO ALLE MERCI IMPORTATE NEL QUADRO DI UN'OPERAZIONE DI PRODUZIONE
 
-#### ARTICOLO 1
+### ARTICOLO 1
 
 Ai fini dell'attuazione del presente Annesso, l'espressione "merci importate nel quadro di un'operazione di produzione" significa:
 
@@ -1598,13 +1590,13 @@ gli strumenti, apparecchi e macchine che, in attesa della consegna o della ripar
 
 ## CAPITOLO II - Portata di applicazione
 
-#### Articolo 2
+### Articolo 2
 
 Le merci importate nel quadro di un'operazione di produzione, beneficiano dell'ammissione temporanea in conformita' con l'articolo 2 della presente Convenzione
 
 ## CAPITOLO III - Disposizioni varie
 
-#### Articolo 3
+### Articolo 3
 
 Al fine di poter beneficiare delle agevolazioni concesse dal presente Annesso:
 
@@ -1614,7 +1606,7 @@ b) tutta la produzione (o parte di essa), secondo le disposizioni della legislaz
 
 c) i mezzi di produzione di sostituzione devono essere messi provvisoriamente e gratuitamente a disposizione di una persona avente sede nel territorio di ammissione temporanea dal fornitore dei mezzi di produzione la cui consegna e' differita o che devono essere riparati, o dietro sua iniziativa.
 
-#### Articolo 4
+### Articolo 4
 
 1\. Il termine di riesportazione delle merci di cui all'articolo 1, paragrafo 1 del presente Annesso e' di dodici mesi almeno a decorrere dalla data di ammissione temporanea.
 
@@ -1628,7 +1620,7 @@ ALLEGATO RELATIVO ALLE MERCI IMPORTATE
 
 A FINI EDUCATIVI, SCIENTIFICI O CULTURALI
 
-#### Articolo 1
+### Articolo 1
 
 Ai fini dell'applicazione del presente allegato, si intendono per:
 
@@ -1654,7 +1646,7 @@ Liste illustrative del "materiale didattico", del "materiale per il confronto de
 
 ## CAPITOLO II - Campo di applicazione
 
-#### Articolo 2
+### Articolo 2
 
 Beneficiano dell'ammissione temporanea conformemente all'articolo 2 della presente convenzione:
 
@@ -1664,7 +1656,7 @@ b) i pezzi di ricambio relativi al materiale scientifico e didattico vincolato a
 
 ## CAPITOLO III - Disposizioni varie
 
-#### Articolo 3
+### Articolo 3
 
 Per poter beneficiare delle agevolazioni accordate dal presente allegato:
 
@@ -1672,27 +1664,27 @@ a) le merci importate a fini educativi, scientifici o culturali devono appartene
 
 b) il materiale per il conforto dei marittimi deve essere utilizzato a bordo di navi straniere adibite al traffico marittimo internazionale o temporaneamente sbarcato da una nave per essere utilizzato a terra dall'equipaggio, o importato per essere utilizzato in luoghi di ritrovo, circoli e locali di ricreazione per marittimi gestiti da organismi ufficiali o da organizzazioni religiose o di altro genere, senza scopo di lucro, e in luoghi di culto in cui si celebrano regolarmente funzioni religiose per i marittimi.
 
-#### Articolo 4
+### Articolo 4
 
 L'ammissione temporanea di materiale scientifico e didattico e di materiale per il conforto dei marittimi utilizzato a bordo delle navi e' accordata senza che venga richiesto alcun documento doganale e senza che venga costituita alcuna garanzia. Per quanto riguarda il materiale scientifico e didattico possono essere richiesti, all'occorrenza, l'inventario di detto materiale e un impegno scritto in merito alla sua riesportazione.
 
-#### Articolo 5
+### Articolo 5
 
 Il termine per la riesportazione delle merci importate a fini educativi, scientifici o culturali e' di dodici mesi a decorrere dalla data della loro ammissione temporanea.
 
-#### Articolo 6
+### Articolo 6
 
 Ciascuna Parte contraente ha il diritto di formulare una riserva, alle condizioni di cui all'articolo 29 della presente convenzione, nei confronti delle disposizioni dell'articolo 4 del presente allegato, relativamente al materiale scientifico e didattico.
 
-#### Articolo 7
+### Articolo 7
 
 Le appendici del presente allegato ne costituiscono parte integrante.
 
-#### Articolo 8
+### Articolo 8
 
 Al momento della sua entrata in vigore del presente allegato, conformemente all'articolo 27 della presente convenzione, abroga e sostituisce la convenzione doganale relativa al materiale ricreativo destinato alla gente di mare (Bruxelles, 1 dicembre 1964), la convenzione doganale relativa all'importazione temporanea di materiale scientifico (Bruxelles, 11 giugno 1968), e la convenzione doganale relativa all'importazione temporanea di materiale pedagogico (Bruxelles, 8 giugno 1970), negli scambi tra le Parti contraenti che hanno accettato il presente allegato e che sono Parti contraenti delle predette convenzioni.
 
-#### Appendice I
+### Appendice I
 
 APPENDICE I
 
@@ -1758,7 +1750,7 @@ appositamente per essere utilizzati da soccorritori, destinati
 
 alla formazione di persone chiamate a prestare soccorso.
 
-#### Appendice II
+### Appendice II
 
 APPENDICE II
 
@@ -1828,7 +1820,7 @@ e) Oggetti per il culto.
 
 f) Parti, pezzi staccati e accessori del materiale di conforto.
 
-#### Appendice III
+### Appendice III
 
 APPENDICE III
 
@@ -1852,7 +1844,7 @@ ANNESSO RELATIVO AGLI EFFETTI PERSONALI DEI VIAGGIATORI ED ALLE
 
 MERCI IMPORTATE A SCOPO SPORTIVO
 
-#### Articolo primo
+### Articolo primo
 
 Ai fini dell'attuazione del presente Annesso:
 
@@ -1870,13 +1862,13 @@ articoli sportivi ed altro materiale destinato ad essere utilizzato da viaggiato
 
 ## CAPITOLO II - PORTATA DI APPLICAZIONE
 
-#### Articolo 2
+### Articolo 2
 
 Gli effetti personali e le merci importate a scopo sportivo beneficiano dell'ammissione temporanea in conformita' con l'articolo 2 della presente Convenzione.
 
 ## CAPITOLO III - Disposizioni varie
 
-#### Articolo 3
+### Articolo 3
 
 Alla fine di poter beneficiare delle agevolazioni concesse dal presente Annesso:
 
@@ -1884,27 +1876,27 @@ a) gli effetti personali devono essere importati dal viaggiatore sulla sua perso
 
 b) le merci importate a scopo sportivo debbono appartenere ad una persona avente sede o residente fuori del territorio di ammissione temporanea e essere importate in quantitativi ragionevoli in considerazione della loro destinazione.
 
-#### ARTICOLO 4
+### ARTICOLO 4
 
 1\. L'ammissione temporanea degli effetti personali e' concessa senza bisogno di documento doganale e di garanzia salvo per gli articoli che comportano un importo elevato di dazi di importazione.
 
 2\. Un inventario delle merci nonche' un impegno scritto di riesportazione possono nella misura del possibile essere accettati per le merci importate a scopo sportivo, in luogo del documento doganale e della formazione della garanzia.
 
-#### ARTICOLO 5
+### ARTICOLO 5
 
 1\. La riesportazione degli effetti personali ha luogo al piu' tardi quando la persona che li ha importati lascia il territorio di ammissione temporanea.
 
 2\. Il termine di riesportazione delle merci importate a scopo sportivo e' di almeno dodici mesi a decorrere dalla data di ammissione temporanea.
 
-#### ARTICOLO 6
+### ARTICOLO 6
 
 Le appendici al presente Annesso sono parte integrante di esso.
 
-#### Articolo 7
+### Articolo 7
 
 All'atto della sua entrata in vigore, il presente Annesso abroghera' e sostituira', in conformita' con l'articolo 27 della presente Convenzione, l'attuazione degli articoli 2 e 5 della Convenzione sulle agevolazioni doganali a favore del turismo, New York, 4 giugno 1954, nelle relazioni tra le Parti contraenti che hanno accettato il presente Annesso e che sono Parti contraenti a tale Convenzione.
 
-#### Appendice I
+### Appendice I
 
 APPENDICE I
 
@@ -1960,7 +1952,7 @@ nonche' gli articoli usa-e-getta importati per essere utilizzati con questo mate
 
 20\. Altri articoli manifestamente a carattere personale.
 
-#### Appendice II
+### Appendice II
 
 APPENDICE II
 
@@ -2052,7 +2044,7 @@ ANNESSO B.7
 
 ANNESSO RELATIVO AL MATERIALE DI PROPAGANDA TURISTICA
 
-#### Articolo 1
+### Articolo 1
 
 Ai fini dell'applicazione del presente allegato, per "materiale di propaganda turistica" si intendono:
 
@@ -2060,21 +2052,21 @@ le merci aventi come scopo d'indurre il pubblico a visitare paesi stranieri, in 
 
 ## CAPITOLO II - Campo d'applicazione
 
-#### Articolo 2
+### Articolo 2
 
 Il materiale di propaganda turistica beneficia dell'ammissione temporanea conformemente all'articolo 2 della presente convenzione, ad eccezione del materiale di cui all'articolo 5 del presente allegato, per il quale e' accordata la franchigia sui dazi e sulle tasse all'importazione.
 
 ## CAPITOLO III - Disposizioni varie
 
-#### Articolo 3
+### Articolo 3
 
 Per poter beneficiare delle agevolazioni concesse dal presente allegato il materiale di propaganda turistica deve appartenere ad una persona stabilita fuori del territorio di ammissione temporanea ed essere importato in quantita' ragionevole tenuto conto della sua destinazione.
 
-#### Articolo 4
+### Articolo 4
 
 Il termine per la riesportazione del materiale di propaganda turistica e' di almeno dodici mesi a decorrere dalla data della sua ammissione temporanea.
 
-#### Articolo 5
+### Articolo 5
 
 L'ammissione in franchigia dai dazi e dalle tasse all'importazione e' accordata al materiale di propaganda turistica indicato qui di seguito:
 
@@ -2084,15 +2076,15 @@ b) gli elenchi e gli annuari di alberghi stranieri, pubblicati dagli enti del tu
 
 c) il materiale tecnico inviato ai rappresentanti accreditati o ai corrispondenti designati dagli enti ufficiali del turismo nazionali, non destinato alla distribuzione, cioe' gli annuari, gli elenchi degli abbonati del telefono, le liste di alberghi, i cataloghi di fiere, i campioni di prodotti dell'artigianato di valore trascurabile, la documentazione su musei, universita', stazioni termali o altre istituzioni analoghe.
 
-#### Articolo 6
+### Articolo 6
 
 L'appendice del presente allegato ne costituisce parte integrante.
 
-#### Articolo 7
+### Articolo 7
 
 Al momento della sua entrata in vigore il presente allegato abroga e sostituisce, conformemente all'articolo 27 della presente convenzione, il Protocollo aggiuntivo alla convenzione sulle facilitazioni doganali a favore del turismo, relativo all'importazione di documenti e di materiale di propaganda turistica, (Nuova York, 4 giugno 1954), negli scambi tra le Parti contraenti che hanno accettato il presente allegato e che sono Parti contraenti del predetto Protocollo.
 
-#### Appendice
+### Appendice
 
 APPENDICE
 
@@ -2118,7 +2110,7 @@ ANNESSO RELATIVO ALLE MERCI IMPORTATE
 
 IN REGIME DI TRAFFICO FRONTALIERO
 
-#### Articolo 1
+### Articolo 1
 
 Ai fini dell'applicazione del presente allegato, si intendono per:
 
@@ -2154,13 +2146,13 @@ le importazioni effettuate da frontalieri tra due zone di frontiera attigue.
 
 ## CAPITOLO II - Campo d'applicazione
 
-#### Articolo 2
+### Articolo 2
 
 Beneficiano dell'ammissione temporanea conformemente all'articolo 2 della presente convenzione le merci importate in regime di traffico frontaliero.
 
 ## CAPITOLO III - Disposizioni varie
 
-#### Articolo 3
+### Articolo 3
 
 Per poter beneficiare delle agevolazioni accordate dal presente allegato:
 
@@ -2170,7 +2162,7 @@ b) il materiale destinato alla coltivazione dei fondi deve essere utilizzato da 
 
 c) il traffico frontaliero a fini di riparazione, lavorazione o trasformazione deve essere privo di qualsiasi carattere commerciale.
 
-#### Articolo 4
+### Articolo 4
 
 1\. L'ammissione temporanea delle merci importate in regime di traffico frontaliero e' accordata senza che venga richiesto alcun documento doganale e senza che venga costituita alcuna garanzia.
 
@@ -2178,7 +2170,7 @@ c) il traffico frontaliero a fini di riparazione, lavorazione o trasformazione d
 
 3\. Il beneficio dell'ammissione temporanea puo' essere accordato anche dietro semplice iscrizione in un registro depositato nell'ufficio doganale.
 
-#### Articolo 5
+### Articolo 5
 
 1\. Il termine per la riesportazione delle merci importate in regime di traffico frontaliero e' di almeno dodici mesi a decorrere dalla data della loro ammissione temporanea.
 
@@ -2192,7 +2184,7 @@ ANNESSO RELATIVO ALLE MERCI IMPORTATE
 
 A FINI UMANITARI
 
-#### Articolo 1
+### Articolo 1
 
 Ai fini dell'applicazione del presente allegato, si intendono per:
 
@@ -2210,13 +2202,13 @@ spedita per soccorrere le vittime di catastrofi naturali o di sinistri analoghi.
 
 ## CAPITOLO II - Campo d'applicazione
 
-#### Articolo 2
+### Articolo 2
 
 Beneficiano dell'ammissione temporanea conformemente all'articolo 2 della presente convenzione le merci importate a fini umanitari.
 
 ## CAPITOLO III - Disposizioni varie
 
-#### Articolo 3
+### Articolo 3
 
 Per poter beneficiare delle agevolazioni concesse dal presente allegato:
 
@@ -2226,13 +2218,13 @@ b) il materiale medico-chirurgico e di laboratorio deve essere destinato a osped
 
 c) le spedizioni aventi carattere di urgenza devono essere destinate a persone autorizzate dalle autorita' competenti del territorio di ammissione temporanea.
 
-#### Articolo 4
+### Articolo 4
 
 1\. Per il materiale medico-chirurgico e di laboratorio devono poter essere accettati, in sostituzione del documento doganale e della garanzia, l'inventario di tali merci e un impegno scritto in merito alla loro riesportazione.
 
 2\. L'ammissione temporanea delle spedizioni aventi carattere di urgenza e' accordata senza che venga richiesto un documento doganale e senza che venga costituita alcune garanzia. Tuttavia, l'autorita' doganale puo' chiedere che vengano presentati l'inventario di tali merci e un impegno scritto in merito alla loro riesportazione.
 
-#### Articolo 5
+### Articolo 5
 
 1\. Il termine per la riesportazione del materiale medico-chirurgico e di laboratorio e' stabilito tenendo conto delle necessita'.
 
@@ -2244,7 +2236,7 @@ ANNESSO C
 
 ANNESSO CONCERNENTE I MEZZI DI TRASPORTO
 
-#### Articolo 1
+### Articolo 1
 
 Ai fini dell'applicazione del presente allegato si intendono per:
 
@@ -2292,7 +2284,7 @@ trasporto che consentono l'utilizzazione diretta di altri tipi di carburante non
 
 ## CAPITOLO II - Campo d'applicazione
 
-#### Articolo 2
+### Articolo 2
 
 Beneficiano dell'ammissione temporanea conformemente all'articolo 2 della presente convenzione:
 
@@ -2300,11 +2292,11 @@ a) i mezzi di trasporto per uso commerciale o per uso privato;
 
 b) i pezzi di ricambio e le attrezzature importate per la riparazione di un mezzo di trasporto gia' importato temporaneamente. I pezzi e le attrezzature sostituiti, non riesportati, sono soggetti ai dazi e alle tasse all'importazione a meno che ad essi non venga attribuita una delle destinazioni previste dall'articolo 14 della presente convenzione.
 
-#### Articolo 3
+### Articolo 3
 
 Le normali operazioni di manutenzione e le riparazioni dei mezzi di trasporto diventate necessarie durante il viaggio, a destinazione o all'interno del territorio di ammissione temporanea, e che sono effettuate durante il vincolo al regime dell'ammissione temporanea, non costituiscono una modifica ai sensi dell'articolo 1, lettera a) della presente convenzione.
 
-#### Articolo 4
+### Articolo 4
 
 1\. I combustibili e i carburanti contenuti nei serbatoi normali dei mezzi di trasporto importati temporaneamente e i lubrificanti destinati alle normali esigenze di detti mezzi di trasporto sono ammessi in franchigia dei dazi e delle tasse all'importazione senza essere soggetti ad alcuna proibizione o restrizione all'importazione.
 
@@ -2312,7 +2304,7 @@ Le normali operazioni di manutenzione e le riparazioni dei mezzi di trasporto di
 
 ## CAPITOLO III - Disposizioni varie
 
-#### Articolo 5
+### Articolo 5
 
 Per poter beneficiare delle agevolazioni concesse dal presente allegato:
 
@@ -2320,11 +2312,11 @@ a) i mezzi di trasporto per uso commerciale devono essere immatricolati in un te
 
 b) i mezzi di trasporto per uso privato devono essere immatricolati in un territorio diverso da quello di ammissione temporanea, a nome di una persona stabilita o residente fuori del territorio di ammissione temporanea, ed essere importati e utilizzati da persone residenti in tale territorio.
 
-#### Articolo 6
+### Articolo 6
 
 L'ammissione temporanea dei mezzi di trasporto e' concessa senza che venga richiesto alcun documento doganale e senza che venga costituita alcuna garanzia.
 
-#### Articolo 7
+### Articolo 7
 
 Nonostante le disposizioni dell'articolo 5 del presente allegato:
 
@@ -2332,7 +2324,7 @@ a) i mezzi di trasporto per uso commerciale possono essere utilizzati da terzi, 
 
 b) i mezzi di trasporto per uso privato possono essere utilizzati da terzi, debitamente autorizzati dal beneficiario dell'ammissione temporanea. Ciascuna Parte contraente puo' accettare che una persona residente nel suo territorio utilizzi un mezzo di trasporto per uso privato, in particolare quando l'utilizzi per conto e su istruzioni del beneficiario dell'ammissione temporanea.
 
-#### Articolo 8
+### Articolo 8
 
 Ciascuna Parte contraente ha il diritto di rifiutare o di revocare il beneficio dell'ammissione temporanea:
 
@@ -2342,13 +2334,13 @@ b) ai mezzi di trasporto per uso privato utilizzati per uso commerciale nel traf
 
 c) ai mezzi di trasporto dati in locazione dopo l'importazione o, se erano in locazione al momento dell'importazione, a quelli rilocati o sublocati a fini diversi dall'esportazione immediata.
 
-#### Articolo 9
+### Articolo 9
 
 1\. La riesportazione dei mezzi di trasporto per uso commerciale avviene una volta ultimate le operazioni di trasporto per cui erano stati importati.
 
 2\. I mezzi di trasporto per uso privato possono restare nel territorio di ammissione temporanea per un periodo consecutivo o meno di sei mesi per periodo di dodici mesi.
 
-#### Articolo 10
+### Articolo 10
 
 Ciascuna Parte contraente ha il diritto di formulare una riserva, alle condizioni previste dall'articolo 29 della presente convenzione, nei confronti:
 
@@ -2360,7 +2352,7 @@ c) dell'articolo 9, paragrafo 2;
 
 del presente allegato.
 
-#### Articolo 11
+### Articolo 11
 
 Al momento della sua entrata in vigore il presente allegato abroga e sostituisce, conformemente all'articolo 27 della presente convenzione, la convenzione doganale relativa alla importazione temporanea dei veicoli stradali privati (Nuova York, 4 giugno 1954), la convenzione doganale relativa all'importazione temporanea dei veicoli stradali commerciali (Ginevra, 18 maggio 1956) e la convenzione doganale relativa alla temporanea importazione per uso privato di aerei e delle imbarcazioni da diporto (Ginevra, 18 maggio 1956), negli scambi tra le Parti contraenti che hanno accettato il presente allegato e che sono Parti contraenti delle predette convenzioni.
 
@@ -2370,7 +2362,7 @@ ANNESSO D
 
 ANNESSO RELATIVO AGLI ANIMALI
 
-#### Articolo 1
+### Articolo 1
 
 Ai fini dell'applicazione del presente allegato, si intendono per:
 
@@ -2394,13 +2386,13 @@ le importazioni effettuate da frontalieri tra due zone di frontiera attigue.
 
 ## CAPITOLO II - Campo d'applicazione
 
-#### Articolo 2
+### Articolo 2
 
 Beneficiano dell'ammissione temporanea conformemente all'articolo 2 della presente convenzione gli animali importati per i fini elencati nell'appendice del presente allegato.
 
 ## CAPITOLO III - Disposizioni varie
 
-#### Articolo 3
+### Articolo 3
 
 Per poter beneficiare delle agevolazioni concesse dal presente allegato:
 
@@ -2408,27 +2400,27 @@ a) gli animali devono appartenere ad una persona stabilita o residente fuori del
 
 b) gli animali da tiro utilizzati per la coltivazione di terreni situati nella zona di frontiera di ammissione temporanea devono essere importati da frontalieri nella zona di frontiera attigua a quella di ammissione temporanea.
 
-#### Articolo 4
+### Articolo 4
 
 1\. L'ammissione temporanea degli animali da tiro di cui all'articolo 3, lettera b) del presente allegato o degli animali importati per la transumanza o il pascolo su terreni nella zona di frontiera e' accordata senza che venga richiesto alcun documento doganale e senza che venga costituita alcuna garanzia.
 
 2\. Ciascuna Parte contraente puo' subordinare il beneficio dell'ammissione temporanea degli animali di cui al paragrafo 1 alla presentazione di un inventario e di un impegno scritto in merito alla loro riesportazione.
 
-#### Articolo 5
+### Articolo 5
 
 1\. Ciascuna Parte contraente ha il diritto di formulare una riserva, alle condizioni di cui all'articolo 29 della presente convenzione, nei confronti dell'articolo 4, paragrafo 1 del presente allegato.
 
 2\. Ciascuna Parte contraente ha parimenti il diritto di formulare una riserva, alle condizioni di cui all'articolo 29 della presente convenzione, nei confronti dei punti 12 e 13 dell'appendice del presente allegato.
 
-#### Articolo 6
+### Articolo 6
 
 Il termine per la riesportazione degli animali e' di almeno dodici mesi a decorrere dalla data della loro ammissione temporanea.
 
-#### Articolo 7
+### Articolo 7
 
 L'appendice del presente allegato ne costituisce parte integrante.
 
-#### Appendice
+### Appendice
 
 APPENDICE
 
@@ -2472,7 +2464,7 @@ IN SOSPENSIONE PARZIALE DEI DAZI E
 
 DELLE TASSE ALL'IMPORTAZIONE
 
-#### Articolo 1
+### Articolo 1
 
 Ai fini dell'applicazione del presente allegato, si intendono per:
 
@@ -2496,38 +2488,38 @@ state immesse in consumo il giorno in cui sono state vincolate al regime dell'am
 
 ## CAPITOLO II - Campo d'applicazione
 
-#### Articolo 2
+### Articolo 2
 
 Beneficiano dell'ammissione temporanea in sospensione parziale conformemente all'articolo 2 della presente convenzione le merci di cui all'articolo 1, lettera a) del presente allegato.
 
 ## CAPITOLO III - Disposizioni varie
 
-#### Articolo 3
+### Articolo 3
 
 Per poter beneficiare delle agevolazioni concesse dal presente allegato le merci importate in sospensione parziale devono appartenere ad una persona stabilita o residente fuori del territorio di ammissione temporanea.
 
-#### Articolo 4
+### Articolo 4
 
 Ciascuna Parte contraente puo' redigere un elenco delle merci ammesse al o escluse dal beneficio dell'ammissione temporanea in sospensione parziale. Il contenuto di tale elenco e' comunicato al depositario della presente convenzione.
 
-#### Articolo 5
+### Articolo 5
 
 L'importo dei dazi e delle tasse all'importazione esigibili a titolo del presente allegato non deve essere superiore al 5%, per mese o frazione di mese durante il quale le merci sono state vincolate al regime dell'ammissione temporanea in sospensione parziale, dell'importo dei dazi e delle tasse che sarebbe stato riscosso per tali merci se queste fossero state immesse in consumo il giorno in cui sono state vincolate al regime dell'ammissione temporanea.
 
-#### Articolo 6
+### Articolo 6
 
 L'importo dei dazi e delle tasse all'importazione da riscuotere non deve, in alcun caso, essere superiore a quello che sarebbe stato riscosso in caso di immissione in consumo delle merci in causa il giorno in cui sono state vincolate al regime dell'ammissione temporanea.
 
-#### Articolo 7
+### Articolo 7
 
 1\. La riscossione dell'importo dei dazi e delle tasse all'importazione esigibili a norma del presente allegato e' effettuata dall'autorita' competente a regime appurato.
 
 2\. Quando, conformemente all'articolo 13 della presente convenzione, l'appuramento dell'ammissione temporanea e' operato con l'immissione in consumo delle merci, l'importo dei dati e delle tasse all'importazione eventualmente gia' riscosso a titolo della sospensione parziale deve essere detratto dall'importo dei dazi e delle tasse all'importazione da pagare a titolo di immissione in consumo.
 
-#### Articolo 8
+### Articolo 8
 
 Il termine per la riesportazione delle merci importate in sospensione parziale e' stabilito tenendo conto delle disposizioni degli articoli 5 e 6 del presente allegato.
 
-#### Articolo 9
+### Articolo 9
 
 Ciascuna Parte contraente ha il diritto di formulare una riserva, alle condizioni di cui all'articolo 29 della presente convenzione, nei confronti dell'articolo 2 del presente allegato, in merito alla sospensione parziale delle tasse all'importazione.

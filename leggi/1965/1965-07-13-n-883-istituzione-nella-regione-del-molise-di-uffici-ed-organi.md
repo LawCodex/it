@@ -26,7 +26,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Nella Regione del Molise sono istituiti, con sede in Campobasso, i seguenti uffici regionali ed organi collegiali:
 
@@ -36,11 +36,11 @@ Ispettorato compartimentale dell'agricoltura, Ispettorato regionale delle forest
 
 Ispettorato compartimentale della motorizzazione civile e dei trasporti in concessione e Comitato regionale coordinamento trasporti, dipendenti dal Ministero dei trasporti e dell'aviazione civile.
 
-### Art. 2
+## Art. 2
 
 L'Ispettorato provinciale del lavoro e l'Ufficio provinciale del lavoro e della massima occupazione, esistenti in Campobasso, assumono la denominazione, rispettivamente, di Ispettorato regionale del lavoro e di Ufficio regionale del lavoro e della massima occupazione.
 
-### Art. 3
+## Art. 3
 
 Sono istituite, con sede in Campobasso, la Ragioneria regionale dello Stato per il Molise, dipendente dal Ministero del tesoro, e la Delegazione regionale della Corte dei conti per il Molise. (1) ((2))
 
@@ -56,11 +56,11 @@ AGGIORNAMENTO (2)
 
 Il D.P.R. 20 febbraio 1998, n. 38 ha confermato (con l'art. 15, comma 1, lettera g)) l'abrogazione dell'art. 3 della legge 13 luglio 1965, n. 883, limitatamente all'istituzione della ragioneria regionale dello Stato con sede in Campobasso.
 
-### Art. 4
+## Art. 4
 
 Gli uffici ed organi predetti esercitano nell'ambito regionale le funzioni attribuite ai corrispondenti Uffici ed organi esistenti nelle altre Regioni.
 
-### Art. 5
+## Art. 5
 
 L'istituzione degli uffici ed organi di cui agli articoli 1, 2 e 3 e' attuata entro sei mesi dall'entrata in vigore della presente legge. La data di inizio del loro funzionamento verra' resa nota mediante pubblicazione nella Gazzetta Ufficiale della Repubblica italiana, nel Foglio degli annunzi legali e nell'albo della provincia di Campobasso e negli albi dei Comuni della Provincia medesima.
 
@@ -68,15 +68,15 @@ Alla data di inizio di funzionamento degli uffici ed organi stessi cessano, rela
 
 ## Norme transitorie e finali
 
-### Art. 6
+## Art. 6
 
 Gli atti relativi ad affari interessanti il territorio della Regione del Molise pendenti presso uffici ed organi regionali situati fuori della Regione medesima, alla data di inizio di funzionamento degli uffici ed organi di cui alla presente legge, sono trasmessi a questi ultimi.
 
-### Art. 7
+## Art. 7
 
 In relazione alla istituzione del Provveditorato regionale alle opere pubbliche, di cui all'articolo 1, i posti assegnati al coefficiente 900 con l'articolo 1, primo comma, della legge 4 marzo 1958, n. 131, concernente la dotazione organica delle carriere direttive dell'Amministrazione dei lavori pubblici, sono aumentati di una unita'.
 
-### Art. 8
+## Art. 8
 
 All'onere derivante dal precedente articolo ed a quello per i locali dei nuovi uffici ed organi istituiti con la presente legge, valutati per l'anno 1965 in lire 23 milioni, si provvede mediante riduzione del fondo speciale di parte corrente dello stato di previsione della spesa del Ministero del tesoro per l'anno medesimo, destinato a fronteggiare gli oneri dipendenti da provvedimenti legislativi in corso.
 

@@ -25,11 +25,11 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la convenzione sulla eliminazione di ogni forma di discriminazione nei confronti della donna, adottata a New York il 18 dicembre 1979.
 
-### Art. 2
+## Art. 2
 
 Piena ed intera esecuzione e' data alla convenzione di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 27 della convenzione stessa.
 
@@ -47,7 +47,7 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 ## Allegati
 
-### Convention
+## Convention
 
 CONVENTION
 
@@ -99,11 +99,11 @@ Risoluti a mettere in opera i principi enunciati nella Dichiarazione sull'elimin
 
 Convengono quanto segue:
 
-### ARTICOLO 1
+## ARTICOLO 1
 
 Ai fini della presente Convenzione, l'espressione "discriminazione nei confronti della donna" concerne ogni distinzione, esclusione o limitazione basata sul sesso, che abbia come conseguenza, o come scopo, di compromettere o distruggere il riconoscimento, il godimento o l'esercizio, da parte delle donne quale che sia il loro stato matrimoniale, dei diritti dell'uomo e delle liberta' fondamentali in campo politico, economico, sociale, culturale e civile o in ogni altro campo, su una base di parita' tra l'uomo e la donna.
 
-### ARTICOLO 2
+## ARTICOLO 2
 
 Gli Stati parte condannano la discriminazione nei confronti della donna in ogni sua forma, convengono di perseguire, con ogni mezzo appropriato e senza indugio, una politica tendente ad eliminare la discriminazione nei confronti della donna e, a questo scopo, si impegnano a:
 
@@ -121,17 +121,17 @@ f) prendere ogni misura adeguata, comprese le disposizioni di legge, per modific
 
 g) abrogare tutte le disposizioni penali che costituiscono discriminazione nei confronti della donna.
 
-### ARTICOLO 3
+## ARTICOLO 3
 
 Gli Stati parte prendono in ogni campo, ed in particolare nei campi politico, sociale, economico e culturale, ogni misura adeguata, incluse le disposizioni legislative, al fine di assicurare il pieno sviluppo ed il progresso delle donne e garantire loro, su una base di piena parita' con gli uomini, l'esercizio e il godimento dei diritti dell'uomo e delle liberta' fondamentali.
 
-### ARTICOLO 4
+## ARTICOLO 4
 
 1\. L'adozione, da parte degli Stati, di misure temporanee speciali, tendenti ad accelerare il processo di instaurazione di fatto dell'eguaglianza tra gli uomini e le donne non e' considerato atto discriminatorio, secondo la definizione della presente Convenzione, ma non deve assolutamente dar luogo al permanere di norme ineguali o distinte; suddette misure devono essere abrogate non appena gli obiettivi in materia di uguaglianza, di opportunita' e di trattamento, siano raggiunti.
 
 2\. L'adozione da parte degli Stati di misure speciali, comprese le misure previste dalla presente Convenzione, tendenti a proteggere la maternita' non e' considerato un atto discriminatorio.
 
-### ARTICOLO 5
+## ARTICOLO 5
 
 Gli Stati parte prendono ogni misura adeguata:
 
@@ -139,13 +139,13 @@ a) al fine di modificare gli schemi e i modelli di comportamento socio-culturale
 
 b) al fine di far si che l'educazione familiare contribuisca alla comprensione del fatto che la maternita' e' una funzione sociale e che uomini e donne hanno responsabilita' comuni nella cura di allevare i figli e di assicurare il loro sviluppo, restando inteso che l'interesse dei figli e' in ogni caso la considerazione principale.
 
-### ARTICOLO 6
+## ARTICOLO 6
 
 Gli Stati parte prendono ogni misura adeguata, comprese le disposizioni legislative, per reprimere, in ogni sua forma, il traffico e lo sfruttamento della prostituzione delle donne.
 
 ## SECONDA PARTE
 
-### ARTICOLO 7
+## ARTICOLO 7
 
 Gli Stati parte prendono ogni misura a adeguata ad eliminare la discriminazione nei confronti delle donne nella vita politica e pubblica del paese e, in particolare, assicurano loro, in condizioni di parita' con gli uomini, il diritto:
 
@@ -155,11 +155,11 @@ b) di prendere parte all'elaborazione della politica dello Stato ed alla sua ese
 
 c) di partecipare alle organizzazioni ed associazioni non governative che si occupano della vita pubblica e politica del paese.
 
-### ARTICOLO 8
+## ARTICOLO 8
 
 Gli Stati parte prendono ogni misura adeguata affinche' le donne, in condizione di parita' con gli uomini e senza discriminazione alcuna, abbiano la possibilita' di rappresentare i loro governi a livello internazionale e di partecipare ai lavori delle organizzazioni internazionali.
 
-### ARTICOLO 9
+## ARTICOLO 9
 
 1\. Gli Stati parte accordano alle donne diritti uguali a quelli degli uomini in materia di acquisto, mutamento e conservazione della cittadinanza. In particolare, garantiscono che ne' il matrimonio con uno straniero, ne' il mutamento di cittadinanza del marito nel corso del matrimonio possa influire automaticamente sulla cittadinanza della moglie, sia rendendola apolide sia trasmettendole la cittadinanza del marito.
 
@@ -167,7 +167,7 @@ Gli Stati parte prendono ogni misura adeguata affinche' le donne, in condizione 
 
 ## TERZA PARTE
 
-### ARTICOLO 10
+## ARTICOLO 10
 
 Gli Stati parte prendono tutte le misure adeguate per eliminare la discriminazione nei confronti delle donne al fine di assicurare loro gli stessi diritti degli uomini per quanto concerne l'educazione e, in particolare, per garantire, su basi uguali tra l'uomo e la donna:
 
@@ -187,7 +187,7 @@ g) le medesime possibilita' di partecipare attivamente agli sports e all'educazi
 
 h) l'accesso alle specifiche informazioni di carattere educativo tendenti a garantire la salute ed il benessere familiare, comprese le informazioni ed i consigli relativi alla pianificazione familiare.
 
-### ARTICOLO 11
+## ARTICOLO 11
 
 1\. Gli Stati parte si impegnano a prendere ogni misura adeguata al fine di eliminare la discriminazione nei confronti della donna nel campo dell'impiego ed assicurare, sulla base della parita' tra uomo e donna, gli stessi diritti, in particolare:
 
@@ -215,13 +215,13 @@ d) assicurare una protezione speciale alle donne incinte per le quali e' stato d
 
 3\. Le leggi di tutela della donna, nei settori considerati dal presente articolo, saranno riviste periodicamente in funzione delle conoscenze scientifiche e tecniche e saranno sottoposte a revisione, abrogazione o rinnovo, a seconda delle necessita'.
 
-### ARTICOLO 12
+## ARTICOLO 12
 
 1\. Gli Stati parte prenderanno tutte le misure adeguate per eliminare la discriminazione nei confronti delle donne nel campo delle cure sanitarie al fine di assicurare loro, in condizione di parita' con gli uomini. i mezzi per accedere ai servizi sanitari, compresi quelli che si riferiscono alla pianificazione familiare.
 
 2\. Nonostante quanto disposto nel paragrafo 1 del presente articolo, gli Stati parte forniranno alle donne, durante la gravidanza, al momento del parto e dopo il parto, i servizi appropriati e, se necessario, gratuiti, ed una alimentazione adeguata sia durante la gravidanza che durante l'allattamento.
 
-### ARTICOLO 13
+## ARTICOLO 13
 
 Gli Stati parte si impegnano a prendere tutte le misure adeguate per eliminare la discriminazione nei confronti delle donne negli altri campi della vita economica e sociale, al fine di assicurare, sulla base dell'uguaglianza tra l'uomo e la donna, i medesimi diritti ed in particolare:
 
@@ -231,7 +231,7 @@ b) il diritto ad ottenere prestiti bancari, prestiti ipotecari ed altre forme di
 
 c) il diritto di partecipare alle attivita' ricreative, agli sports ed a tutte le forme di vita culturale.
 
-### ARTICOLO 14
+## ARTICOLO 14
 
 1\. Gli Stati parte tengono conto dei problemi particolari che sono propri alle donne delle zone rurali e del ruolo importante che queste donne hanno per la sopravvivenza economica delle loro famiglie, particolarmente grazie al loro lavoro nei settori non monetari dell'economia, e prendono ogni misura adeguata per garantire l'applicazione delle disposizioni della presente Convenzione alle donne delle zone rurali.
 
@@ -255,7 +255,7 @@ h) di beneficiare di condizioni di vita decenti, in particolare per quanto conce
 
 ## QUARTA PARTE
 
-### ARTICOLO 15
+## ARTICOLO 15
 
 1\. Gli Stati parte riconoscono alla donna la parita' con l'uomo di fronte alla legge.
 
@@ -265,7 +265,7 @@ h) di beneficiare di condizioni di vita decenti, in particolare per quanto conce
 
 4\. Gli Stati parte riconoscono all'uomo e alla donna i medesimi diritti nel campo della legislazione relativa al diritto che ogni individuo ha di circolare liberamente e di scegliere la propria residenza ed il domicilio.
 
-### ARTICOLO 16
+## ARTICOLO 16
 
 1\. Gli Stati parte prendono tutte le misure adeguate per eliminare la discriminazione nei confronti della donna in tutte le questioni derivanti dal matrimonio e nei rapporti familiari e, in particolare, assicurano, in condizioni di parita' con gli uomini:
 
@@ -289,7 +289,7 @@ h) gli stessi diritti ad ambedue i coniugi in materia di proprieta', di acquisiz
 
 ## QUINTA PARTE
 
-### ARTICOLO 17
+## ARTICOLO 17
 
 1\. Al fine di esaminare i progressi realizzati nell'applicazione della presente convenzione viene istituito un Comitato per l'eliminazione della discriminazione nei confronti (qui di seguito detto il Comitato) composto, al momento in vigore della Convenzione, di 18, e dopo la ratifica o l'adesione del trentacinquesimo Stato parte, di 23 esperti di 7 autorita' morale ed eminentemente competenti nel campo nel quale si applica la seguente Convenzione, eletti dagli Stati tra i loro cittadini e che siederanno a titolo personale tenendo conto di una equa ripartizione geografica e della rappresentativita' delle diverse forme di cultura e dei principali sistemi giuridici.
 
@@ -309,7 +309,7 @@ h) gli stessi diritti ad ambedue i coniugi in materia di proprieta', di acquisiz
 
 9\. Il Segretario Generale dell'Organizzazione delle Nazioni Unite mette a disposizione del Comitato il personale ed i mezzi materiali necessari per l'espletamento efficace delle funzioni che gli sono affidate in virtu' della presente Convenzione.
 
-### ARTICOLO 18
+## ARTICOLO 18
 
 1\. Gli Stati parte si impegnano a presentare al Segretario Generale dell'Organizzazione delle Nazioni Unite, per esame da parte del Comitato, un rapporto sulle misure di ordine legislativo, giudiziario, amministrativo o di altro genere, che hanno adottato per dar seguito alle disposizioni della presente Convenzione e sui progressi realizzati in merito:
 
@@ -319,25 +319,25 @@ b) quindi ogni quattro anni, ovvero su richiesta del Comitato.
 
 2\. I rapporti possono indicare i fattori e le difficolta' che influiscono sulle condizioni di applicazione degli obblighi, previsti dalla presente Convenzione.
 
-### ARTICOLO 19
+## ARTICOLO 19
 
 1\. Il Comitato adotta il proprio regolamento interno.
 
 2\. Il Comitato elegge il proprio ufficio per un periodo di due anni.
 
-### ARTICOLO 20
+## ARTICOLO 20
 
 1\. Il Comitato si riunisce normalmente durante un periodo di due settimane, al massimo, ogni anno per esaminare i rapporti presentati in conformita' all'articolo 18 della presente Convenzione.
 
 2\. Le sessioni del Comitato hanno luogo normalmente nella sede dell'Organizzazione delle Nazioni Unite o in altro luogo adatto stabilito dal Comitato stesso.
 
-### ARTICOLO 21
+## ARTICOLO 21
 
 1\. Il Comitato rende conto ogni anno all'Assemblea Generale delle Nazioni Unite, attraverso il Comitato economico e sociale delle Nazioni Unite, delle sue attivita' ed ha facolta' di formulare suggerimenti e raccomandazioni generali basati sull'esame dei rapporti e delle informazioni ricevuti dagli Stati parte. Questi suggerimenti e raccomandazioni sono inclusi nel rapporto del Comitato, accompagnati, se del caso, dalle osservazioni degli Stati parte.
 
 2\. Il Segretario Generale trasmette, per informazione, i rapporti del Comitato alla Commissione della condizione della donna.
 
-### ARTICOLO 22
+## ARTICOLO 22
 
 Gli Istituti specializzati hanno diritto di essere rappresentati in occasione dell'esame dell'applicazione di ogni disposizione della presente Convenzione che rientri nell'ambito delle loro competenze.
 
@@ -345,7 +345,7 @@ Il Comitato puo' invitare gli Istituti specializzati a presentare dei rapporti s
 
 ## SESTA PARTE
 
-### ARTICOLO 23
+## ARTICOLO 23
 
 Nessuna disposizione della presente Convenzione pregiudichera' le eventuali disposizioni piu' favorevoli a realizzare l'uguaglianza tra l'uomo e la donna gia' contenute:
 
@@ -353,11 +353,11 @@ a) nella legislazione di uno Stato parte, oppure
 
 b) in ogni altra Convenzione, trattato o accordo internazionale in vigore in tale Stato.
 
-### ARTICOLO 24
+## ARTICOLO 24
 
 Gli Stati parte si impegnano ad adottare ogni misura necessaria, sul piano nazionale, a garantire il pieno esercizio dei diritti riconosciuti nella presente Convenzione.
 
-### ARTICOLO 25
+## ARTICOLO 25
 
 1\. La presente Convenzione e' aperta alla firma di tutti gli Stati.
 
@@ -367,19 +367,19 @@ Gli Stati parte si impegnano ad adottare ogni misura necessaria, sul piano nazio
 
 4\. La presente Convenzione sara' aperta all'adesione di tutti gli Stati. L'adesione si effettuera' con il deposito degli strumenti di adesione presso il Segretario Generale dell'Organizzazione delle Nazioni Unite.
 
-### ARTICOLO 26
+## ARTICOLO 26
 
 1\. Ogni Stato parte puo' richiedere, in qualsiasi momento, la revisione della presente Convenzione indirizzando una comunicazione scritta in tale senso al Segretario Generale dell'Organizzazione delle Nazioni Unite.
 
 2\. L'Assemblea Generale delle Nazioni Unite decide sulle misure da prendere, se del caso, in merito ad una richiesta di questo tipo.
 
-### ARTICOLO 27
+## ARTICOLO 27
 
 1\. La presente Convenzione entrera' in vigore il trentesimo giorno dalla data del deposito presso il Segretario Generale dell'Organizzazione delle Nazioni Unite del ventesimo strumento di ratifica o di adesione.
 
 2\. Per ciascuno degli Stati che ratificheranno la presente Convenzione, o che vi aderiranno dopo il deposito del ventesimo strumento di ratifica o di adesione, la Convenzione entrera' in vigore dopo trenta giorni dalla data del deposito dello strumento di ratifica o d'adesione dello Stato medesimo.
 
-### ARTICOLO 28
+## ARTICOLO 28
 
 1\. Il Segretario Generale dell'Organizzazione delle Nazioni Unite ricevera' e comunichera' a tutti gli Stati il testo delle riserve che saranno fatte al momento della ratifica o dell'adesione.
 
@@ -387,7 +387,7 @@ Gli Stati parte si impegnano ad adottare ogni misura necessaria, sul piano nazio
 
 3\. Le riserve potranno essere ritirate in qualsiasi momento per mezzo di notifica indirizzata al Segretario Generale dell'Organizzazione delle Nazioni Unite, che informera' tutti gli Stati parte della Convenzione. La notifica avra' effetto alla data di ricezione.
 
-### ARTICOLO 29
+## ARTICOLO 29
 
 1\. Ogni controversia tra due o piu' Stati parte concernente l'interpretazione o l'applicazione della presente Convenzione, che non sia regolata per via negoziale, sara' sottoposta ad arbitrato, a richiesta di una delle parti. Se nei sei mesi che seguono la data della domanda di arbitrato le parti non giungono ad un accordo sull'organizzazione dell'arbitrato, una qualsiasi delle parti puo' sottoporre la controversia alla Corte internazionale di giustizia, depositando una richiesta conforme allo statuto della Corte.
 
@@ -395,7 +395,7 @@ Gli Stati parte si impegnano ad adottare ogni misura necessaria, sul piano nazio
 
 3\. Ogni Stato parte che avra' formulato una riserva in conformita' alle disposizioni del paragrafo 2 del presente articolo, potra', in qualsiasi momento, togliere tale riserva, per mezzo di una notifica indirizzata al Segretario Generale dell'Organizzazione delle Nazioni Unite.
 
-### ARTICOLO 30
+## ARTICOLO 30
 
 La presente Convenzione, i cui testi inglese, arabo, cinese, spagnolo, francese e russo fanno ugualmente fede, sara' depositata presso di Segretario Generale dell'Organizzazione delle Nazioni Unite.
 

@@ -27,7 +27,7 @@ la seguente legge:
 
 ## ENTRATE E SPESE DI COMPETENZA DELL'ESERCIZIO FINANZIARIO 1961-62
 
-### Art. 1
+## Art. 1
 
 Le entrate ordinarie e straordinarie dello
 
@@ -54,7 +54,7 @@ e rimasero da riscuotere................... L. 287.861.304.270
  -------------------
 ```
 
-### Art. 2
+## Art. 2
 
 Le spese ordinarie e straordinarie dello
 
@@ -76,7 +76,7 @@ e rimasero da pagare....................... L. 1.439.856.243.353
  -------------------
 ```
 
-### Art. 3
+## Art. 3
 
 Il riepilogo generale dei risultati delle entrate e delle spese di competenza dell'esercizio finanziario 1961-62, rimane cosi' stabilito:
 
@@ -120,7 +120,7 @@ Spese..................................... " 5.376.354.653.786
 
 ## ENTRATE E SPESE RESIDUE DELL'ESERCIZIO 1960-61 ED ESERCIZI PRECEDENTI
 
-### Art. 4
+## Art. 4
 
 I residui attivi alla chiusura dell'eser-
 
@@ -141,7 +141,7 @@ e rimasero da riscuotere al 30 giugno 1962. L. 323.081.348.447
  -------------------
 ```
 
-### Art. 5
+## Art. 5
 
 I residui passivi alla chiusura dell'eser-
 
@@ -159,7 +159,7 @@ e rimasero da pagare al 30 giugno 1962..... L. 1.099.905.854.965
 
 ## RESIDUI ATTIVI E PASSIVI ALLA CHIUSURA DELL'ESERCIZIO FINANZIARIO - 1961-62
 
-### Art. 6
+## Art. 6
 
 I residui attivi alla chiusura dell'esercizio finanziario 1961-62, sono stabiliti, come dal conto consuntivo del bilancio, nelle seguenti somme:
 
@@ -183,7 +183,7 @@ Somme riscosse e non versate in Tesoreria
  -------------------
 ```
 
-### Art. 7
+## Art. 7
 
 I residui passivi alla chiusura dell'esercizio finanziario 1961-62 sono stabiliti, come dal conto consuntivo del bilancio, nelle seguenti somme:
 
@@ -205,7 +205,7 @@ esercizi precedenti (articolo 5)........... " 1.099.905.854.965
 
 ## SITUAZIONE FINANZIARIA
 
-### Art. 8
+## Art. 8
 
 E' accertato nella somma di lire 5.050.624.554.853,05 il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 1961-62 come risulta dai seguenti dati:
 
@@ -253,11 +253,11 @@ contabilita generale....................... " 95.860 -
 
 ## DISPOSIZIONI SPECIALI
 
-### Art. 9
+## Art. 9
 
 Sono stabiliti nella somma di lire 95.860 i discarichi consentiti, nell'esercizio 1961-62, ai tesorieri per casi di forza maggiore, ai sensi dell'articolo 194 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato approvato con regio decreto 23 maggio 1924, n. 827.
 
-### Art. 10
+## Art. 10
 
 Sono approvate le eccedenze d'impegno risultate in sede di consuntivo sul conto della competenza e sul conto dei residui ai capitoli degli stati di previsione della spesa dei Ministeri sottoindicati per l'esercizio finanziario 1961-62, come dal dettaglio che segue:
 
@@ -317,7 +317,7 @@ fisse ed obbligatorie)........... - " 1.347.850.139
 
 ## AMMINISTRAZIONI ED AZIENDE SPECIALI AMMINISTRAZIONE AUTONOMA DEI - MONOPOLI DI STATO
 
-### Art. 11
+## Art. 11
 
 Le entrate ordinarie e straordinarie del
 
@@ -348,7 +348,7 @@ rimasero da versare.. " 32.648.620
  ---------------------
 ```
 
-### Art. 12
+## Art. 12
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -364,7 +364,7 @@ delle quali furono pagate.................. " 105.013.577.184
 
 e rimasero da pagare....................... L. 27.327.749.455
 
-### Art. 13
+## Art. 13
 
 I residui attivi, alla chiusura dell'eser-
 
@@ -379,7 +379,7 @@ riscossi e versati......................... " 4.131.647.764
  ---------------------
 ```
 
-### Art. 14
+## Art. 14
 
 I residui passivi alla chiusura dell'eser-
 
@@ -392,7 +392,7 @@ dei quali furono pagati nel 1961-62........ " 36.735.882.248
  ---------------------
 ```
 
-### Art. 15
+## Art. 15
 
 I residui attivi alla chiusura dell'esercizio finanziario 1961-62 sono stabiliti nelle seguenti somme:
 
@@ -415,7 +415,7 @@ del riepilogo dell'entrata)................ " 32.648.620
  ---------------------
 ```
 
-### Art. 16
+## Art. 16
 
 I residui passivi alla chiusura dell'esercizio finanziario 1961-62 sono stabiliti nelle seguenti somme:
 
@@ -434,7 +434,7 @@ esercizi precedenti (articolo 14).......... " 12.577.482.706
  ---------------------
 ```
 
-### Art. 17
+## Art. 17
 
 La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dell'esercizio finanziario 1961-62, risulta come segue:
 
@@ -450,7 +450,7 @@ Spese dell'esercizio 1961-62............... L. 132.341.326.639
 
 ## AZIENDA MONOPOLIO BANANE
 
-### Art. 18
+## Art. 18
 
 Le entrate ordinarie e straordinarie del-
 
@@ -475,7 +475,7 @@ delle quali furono riscosse e versate...... " 26.335.519.866
  ---------------------
 ```
 
-### Art. 19
+## Art. 19
 
 Le spese ordinarie e straordinarie del-
 
@@ -494,7 +494,7 @@ delle quali furono pagate.................. " 12.836.639.432
  ---------------------
 ```
 
-### Art. 20
+## Art. 20
 
 I residui attivi alla chiusura dell'eser-
 
@@ -509,7 +509,7 @@ scossi e versati........................... " 704.996.484
  ---------------------
 ```
 
-### Art. 21
+## Art. 21
 
 I residui passivi alla chiusura dell'eser-
 
@@ -522,7 +522,7 @@ dei quali furono pagati nel 1961-62........ " 11.107.565.263
  ---------------------
 ```
 
-### Art. 22
+## Art. 22
 
 I residui attivi alla chiusura dell'esercizio finanziario 1961-62 sono stabiliti nelle seguenti somme:
 
@@ -545,7 +545,7 @@ del riepilogo dell'entrata). -
  ---------------------
 ```
 
-### Art. 23
+## Art. 23
 
 I residui passivi alla chiusura dell'esercizio finanziario 1961-62 sono stabiliti nelle seguenti somme:
 
@@ -566,7 +566,7 @@ esercizi precedenti (articolo 21).......... " 661.648
 
 ## FONDO DI ASSISTENZA PER I FINANZIERI
 
-### Art. 24
+## Art. 24
 
 Le entrate ordinarie e straordinarie del
 
@@ -591,7 +591,7 @@ delle quali furono riscosse e versate...... " 1.149.414.753
  ---------------------
 ```
 
-### Art. 25
+## Art. 25
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -610,7 +610,7 @@ delle quali furono pagate.................. " 516.617.087
  ---------------------
 ```
 
-### Art. 26
+## Art. 26
 
 I residui attivi alla chiusura dell'eser-
 
@@ -627,7 +627,7 @@ scossi e versati........................... " 32.204.889
  ---------------------
 ```
 
-### Art. 27
+## Art. 27
 
 I residui passivi alla chiusura dell'eser-
 
@@ -642,7 +642,7 @@ dei quali furono pagati nel 1961-62........ " 328.369.390
  ---------------------
 ```
 
-### Art. 28
+## Art. 28
 
 I residui attivi alla chiusura dell'esercizio 1961-62 sono stabiliti nelle seguenti somme:
 
@@ -662,7 +662,7 @@ del riepilogo dell'entrata) -
 
 Residui attivi al 30 giugno 1962... L. 40.440.607
 
-### Art. 29
+## Art. 29
 
 I residui passivi alla chiusura dell'esercizio finanziario 1961-62 sono stabiliti nelle seguenti somme:
 
@@ -681,7 +681,7 @@ esercizi precedenti (articolo 27).......... " 21.484.327
  ---------------------
 ```
 
-### Art. 30
+## Art. 30
 
 E' accertato nella somma di lire 1.559.112.255 il saldo attivo del conto finanziario del Fondo di assistenza per i finanzieri alla fine dell'esercizio 1961-62 risultante dai seguenti dati:
 
@@ -717,7 +717,7 @@ Spese dell'esercizio finanziario 1961-62.. L. 837.138.220
 
 ## ARCHIVI NOTARILI
 
-### Art. 31
+## Art. 31
 
 E' approvato il conto consuntivo degli Archivi notarili, per l'esercizio 1961-62, nelle risultanze seguenti:
 
@@ -732,7 +732,7 @@ Spese..................................... " 6.323.073.159
 
 ## ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-### Art. 32
+## Art. 32
 
 Le entrate dell'Istituto agronomico per
 
@@ -757,7 +757,7 @@ delle quali furono riscosse e versate...... " 66.059.745
  ----------------------
 ```
 
-### Art. 33
+## Art. 33
 
 Le spese dell'Istituto predetto, accertate
 
@@ -774,7 +774,7 @@ delle quali furono pagate.................. " 63.515.720
  ----------------------
 ```
 
-### Art. 34
+## Art. 34
 
 I residui attivi alla chiusura dell'eser-
 
@@ -789,7 +789,7 @@ riscossi e versati......................... " 570.000
  ---------------------
 ```
 
-### Art. 35
+## Art. 35
 
 I residui passivi alla chiusura dell'eser-
 
@@ -802,7 +802,7 @@ dei quali furono pagati nel 1961-62........ " 2.398.105
  ---------------------
 ```
 
-### Art. 36
+## Art. 36
 
 I residui attivi alla chiusura dell'esercizio 1961-62 sono stabiliti nelle seguenti somme:
 
@@ -825,7 +825,7 @@ del riepilogo dell'entrata) -
  --------------------
 ```
 
-### Art. 37
+## Art. 37
 
 I residui passivi alla chiusura dell'esercizio 1961-62 sono stabiliti nelle seguenti somme:
 
@@ -846,7 +846,7 @@ esercizi precedenti (articolo 35).......... " 8.811.078
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-### Art. 38
+## Art. 38
 
 Le entrate ordinarie e straordinarie del
 
@@ -876,7 +876,7 @@ rimasero da versare...... " 159.203
  --------------------
 ```
 
-### Art. 39
+## Art. 39
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -895,7 +895,7 @@ delle quali furono pagate.................. " 12.223.246.831
  --------------------
 ```
 
-### Art. 40
+## Art. 40
 
 I residui attivi alla chiusura dell'eser-
 
@@ -913,7 +913,7 @@ rimasero da versare....... " 9.102
  --------------------
 ```
 
-### Art. 41
+## Art. 41
 
 I residui passivi alla chiusura dell'eser-
 
@@ -926,7 +926,7 @@ dei quali furono pagati nel 1961-62........ " 1.145.049.092
  --------------------
 ```
 
-### Art. 42
+## Art. 42
 
 I residui attivi alla chiusura dell'esercizio finanziario 1961-62 sono stabiliti nelle seguenti somme:
 
@@ -949,7 +949,7 @@ del riepilogo dell'entrata)................ " 168.305
  --------------------
 ```
 
-### Art. 43
+## Art. 43
 
 I residui passivi alla chiusura dell'esercizio finanziario 1961-62 sono stabiliti nelle seguenti somme:
 
@@ -968,7 +968,7 @@ esercizi precedenti (articolo 41).......... " 667.579.642
  --------------------
 ```
 
-### Art. 44
+## Art. 44
 
 E' accertato nella somma di lire 55.770.929,30 il saldo attivo del conto finanziario dell'amministrazione del Fondo per il culto alla fine dell'esercizio 1961-62, come risulta dai seguenti dati:
 
@@ -1011,7 +1011,7 @@ al 30 giugno 1962....... " 13.229.673.624
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-### Art. 45
+## Art. 45
 
 Le entrate ordinarie e straordinarie del
 
@@ -1041,7 +1041,7 @@ rimasero da versare........ " 1.970
  ----------------------
 ```
 
-### Art. 46
+## Art. 46
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -1060,7 +1060,7 @@ delle quali furono pagate.................. " 201.166.130
  ----------------------
 ```
 
-### Art. 47
+## Art. 47
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1078,7 +1078,7 @@ rimasero da versare.......... " 40
  ----------------------
 ```
 
-### Art. 48
+## Art. 48
 
 I residui passivi, alla chiusura dell'e-
 
@@ -1091,7 +1091,7 @@ dei quali furono pagati nel 1961-62........ " 98.693.114
  ----------------------
 ```
 
-### Art. 49
+## Art. 49
 
 I residui attivi alla chiusura dell'esercizio 1961-62 sono stabiliti nelle seguenti somme:
 
@@ -1114,7 +1114,7 @@ del riepilogo dell'entrata)................ " 2.010
  ----------------------
 ```
 
-### Art. 50
+## Art. 50
 
 I residui passivi alla chiusura dell'esercizio finanziario 1961-62 sono stabiliti nelle seguenti somme:
 
@@ -1133,7 +1133,7 @@ esercizi precedenti (articolo 48).......... " 59.771.865
  ----------------------
 ```
 
-### Art. 51
+## Art. 51
 
 E' accertato nella somma di lire 2.436.611,58 il saldo attivo del conto finanziario del Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1961-62, come risulta dai seguenti dati:
 
@@ -1170,7 +1170,7 @@ al 30 giugno 1962.......... " 284.969.267
 
 ## AZIENDA DEI PATRIMONI RIUNITI EX ECONOMALI
 
-### Art. 52
+## Art. 52
 
 Le entrate ordinarie e straordinarie del-
 
@@ -1196,7 +1196,7 @@ e rimasero da riscuotere................... L. 54.699.997
  --------------------
 ```
 
-### Art. 53
+## Art. 53
 
 Le spese ordinarie e straordinarie del-
 
@@ -1218,7 +1218,7 @@ e rimasero da pagare....................... L. 85.182.512
  --------------------
 ```
 
-### Art. 54
+## Art. 54
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1232,7 +1232,7 @@ scossi e versati........................... " 143.316.936
 
 e rimasero da riscuotere al 30 giugno 1962. L. 4.536.002
 
-### Art. 55
+## Art. 55
 
 I residui passivi alla chiusura dell'eser-
 
@@ -1248,7 +1248,7 @@ e rimasero da pagare al 30 giugno 1962..... L. 36.873.115
  --------------------
 ```
 
-### Art. 56
+## Art. 56
 
 I residui attivi alla chiusura dell'esercizio finanziario 1961-62 sono stabiliti, come dal conto consuntivo dell'azienda, nelle seguenti somme:
 
@@ -1272,7 +1272,7 @@ Somme riscosse e non versate in tesoreria
  --------------------
 ```
 
-### Art. 57
+## Art. 57
 
 I residui passivi alla chiusura dell'esercizio finanziario 1961-62 sono stabiliti, come dal conto consuntivo dell'azienda, nelle seguenti somme:
 
@@ -1292,7 +1292,7 @@ esercizi precedenti (articolo 55).......... " 36.873.115
  --------------------
 ```
 
-### Art. 58
+## Art. 58
 
 E' accertato nella somma di lire 13.874.329,88 il saldo attivo del conto finanziario dell'Azienda dei patrimoni riuniti ex economali, alla fine dell'esercizio 1961-62, come risulta dai seguenti dati:
 
@@ -1335,7 +1335,7 @@ al 30 giugno 1962.......... " 147.852.938
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE
 
-### Art. 59
+## Art. 59
 
 Le entrate ordinarie e straordinarie del
 
@@ -1362,7 +1362,7 @@ delle quali furono riscosse e versate...... " 91.697.869.488
  ---------------------
 ```
 
-### Art. 60
+## Art. 60
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -1381,7 +1381,7 @@ delle quali furono pagate.................. " 51.582.483.821
  ---------------------
 ```
 
-### Art. 61
+## Art. 61
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1396,7 +1396,7 @@ scossi e versati........................... " 11.119.693.194
  ---------------------
 ```
 
-### Art. 62
+## Art. 62
 
 I residui passivi alla chiusura dell'eser-
 
@@ -1409,7 +1409,7 @@ dei quali furono pagati nel 1961-62........ " 43.079.886.352
  ---------------------
 ```
 
-### Art. 63
+## Art. 63
 
 I residui attivi alla chiusura dell'esercizio 1961-62 sono stabiliti nelle seguenti somme:
 
@@ -1432,7 +1432,7 @@ del riepilogo dell'entrata)................ -
  ---------------------
 ```
 
-### Art. 64
+## Art. 64
 
 I residui passivi alla chiusura dell'esercizio 1961-62 sono stabiliti nelle seguenti somme:
 
@@ -1454,7 +1454,7 @@ esercizi precedenti (articolo 62).......... " 48.388.349.071
 
 ## AMMINISTRAZIONE DELLE POSTE E DEI TELEGRAFI
 
-### Art. 65
+## Art. 65
 
 Le entrate ordinarie e straordinarie del
 
@@ -1480,7 +1480,7 @@ delle quali furono riscosse e versate...... " 185.682.318.247
 
 e rimasero da riscuotere................... L. 72.336.955.840
 
-### Art. 66
+## Art. 66
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -1499,7 +1499,7 @@ delle quali furono pagate.................. " 183.105.346.874
  ---------------------
 ```
 
-### Art. 67
+## Art. 67
 
 I residui attivi, alla chiusura dell'eser-
 
@@ -1514,7 +1514,7 @@ riscossi e versati......................... " 54.497.896.187
  ---------------------
 ```
 
-### Art. 68
+## Art. 68
 
 I residui passivi alla chiusura dell'eser-
 
@@ -1529,7 +1529,7 @@ gati...................................... " 59.001.950.607
  ---------------------
 ```
 
-### Art. 69
+## Art. 69
 
 I residui attivi alla chiusura dell'esercizio 1961-62 sono stabiliti nelle seguenti somme:
 
@@ -1548,7 +1548,7 @@ degli esercizi precedenti (articolo 67).... " 11.695.847.200
  ---------------------
 ```
 
-### Art. 70
+## Art. 70
 
 I residui passivi alla chiusura dell'esercizio 1961-62 sono stabiliti nelle seguenti somme:
 
@@ -1569,7 +1569,7 @@ esercizi precedenti (articolo 68).......... " 16.885.292.788
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Art. 71
+## Art. 71
 
 Le entrate ordinarie e straordinarie del
 
@@ -1604,7 +1604,7 @@ rimasero da versare... " 15.045.647.598
  ---------------------
 ```
 
-### Art. 72
+## Art. 72
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -1623,7 +1623,7 @@ delle quali furono pagate.................. " 34.711.227.344
  ---------------------
 ```
 
-### Art. 73
+## Art. 73
 
 I residui attivi, alla chiusura dell'eser-
 
@@ -1638,7 +1638,7 @@ scossi e versati.......................... " 12.803.508.053
  ---------------------
 ```
 
-### Art. 74
+## Art. 74
 
 I residui passivi alla chiusura dell'eser-
 
@@ -1653,7 +1653,7 @@ gati...................................... " 26.333.718.250
  ---------------------
 ```
 
-### Art. 75
+## Art. 75
 
 I residui attivi alla chiusura dell'esercizio 1961-62 sono stabiliti nelle seguenti somme:
 
@@ -1676,7 +1676,7 @@ del riepilogo dell'entrata)................ " 15.045.647.598
  ---------------------
 ```
 
-### Art. 76
+## Art. 76
 
 I residui passivi alla chiusura dell'esercizio 1961-62 sono stabiliti nelle seguenti somme:
 
@@ -1697,7 +1697,7 @@ esercizi precedenti (articolo 74).......... " 13.912.738.651
 
 ## AMMINISTRAZIONE DELLE FERROVIE DELLO STATO
 
-### Art. 77
+## Art. 77
 
 Le entrate ordinarie e straordinarie del
 
@@ -1728,7 +1728,7 @@ delle quali furono riscosse e versate...... " 1.184.219.062.159
  ---------------------
 ```
 
-### Art. 78
+## Art. 78
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -1751,7 +1751,7 @@ delle quali furono pagate.................. " 1.223.259.486.594
  ---------------------
 ```
 
-### Art. 79
+## Art. 79
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione delle ferrovie dello Stato, di competenza dell'esercizio finanziario 1961-62, rimane cosi' stabilito:
 
@@ -1783,7 +1783,7 @@ Partite di giro............................ " 32.219.797.489
  ---------------------
 ```
 
-### Art. 80
+## Art. 80
 
 I residui attivi, alla chiusura dell'eser-
 
@@ -1798,7 +1798,7 @@ scossi e versati.......................... " 125.418.802.829
  ---------------------
 ```
 
-### Art. 81
+## Art. 81
 
 I residui passivi alla chiusura dell'eser-
 
@@ -1813,7 +1813,7 @@ gati...................................... " 89.485.799.113
  ---------------------
 ```
 
-### Art. 82
+## Art. 82
 
 I residui attivi, alla chiusura dell'esercizio 1961-62 sono stabiliti nelle seguenti somme:
 
@@ -1832,7 +1832,7 @@ degli esercizi precedente (articolo 80).... " 13.230.089.707
  ---------------------
 ```
 
-### Art. 83
+## Art. 83
 
 I residui passivi alla chiusura dell'esercizio 1961-62 sono stabiliti nelle seguenti somme:
 
@@ -1851,13 +1851,13 @@ esercizi precedenti (articolo 81).......... " 56.335.043.002
  ---------------------
 ```
 
-### Art. 84
+## Art. 84
 
 E' approvata l'eccedenza di impegni di lire 1.224.287, risultata, in sede di consuntivo, sul conto della competenza del capitolo n. 149 "Spese per acquisti e diverse", dello stato di previsione della spesa dell'Amministrazione delle ferrovie dello Stato, per l'esercizio finanziario 1961-62.
 
 ## AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### Art. 85
+## Art. 85
 
 Le entrate ordinarie e straordinarie del
 
@@ -1889,7 +1889,7 @@ rimasero da versare.... " 415.910.813
  ---------------------
 ```
 
-### Art. 86
+## Art. 86
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -1908,7 +1908,7 @@ delle quali furono pagate.................. " 1.789.104.673
  ---------------------
 ```
 
-### Art. 87
+## Art. 87
 
 I residui attivi, alla chiusura dell'eser-
 
@@ -1926,7 +1926,7 @@ rimasero da versare..... " 28.013.473
  ---------------------
 ```
 
-### Art. 88
+## Art. 88
 
 I residui passivi alla chiusura dell'eser-
 
@@ -1939,7 +1939,7 @@ dei quali furono pagati nel 1961-62........ " 1.698.096.021
  ---------------------
 ```
 
-### Art. 89
+## Art. 89
 
 I residui attivi alla chiusura dell'esercizio finanziario 1961-62 sono stabiliti nelle seguenti somme:
 
@@ -1962,7 +1962,7 @@ del riepilogo dell'entrata)................ " 443.924.286
  ---------------------
 ```
 
-### Art. 90
+## Art. 90
 
 I residui passivi alla chiusura dell'esercizio finanziario 1961-62 sono stabiliti nelle seguenti somme:
 
@@ -1981,7 +1981,7 @@ esercizi precedenti (articolo 88).......... " 1.573.810.804
  ---------------------
 ```
 
-### Art. 91
+## Art. 91
 
 E' accertato nella somma di lire 4.939.025 il saldo attivo del conto finanziario dell'Azienda di Stato per le foreste demaniali, alla fine dell'esercizio 1961-62, come risulta dai seguenti dati:
 

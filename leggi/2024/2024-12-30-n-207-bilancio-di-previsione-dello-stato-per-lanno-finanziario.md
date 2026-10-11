@@ -30,7 +30,7 @@ la seguente legge:
 
 ## PARTE I - SEZIONE I: MISURE QUANTITATIVE PER LA REALIZZAZIONE DEGLI OBIETTIVI PROGRAMMATICI
 
-### Art. 1
+#### Art. 1
 
 Risultati differenziali. Norme in materia di entrata e di spesa e altre disposizioni. Fondi speciali
 
@@ -480,7 +480,7 @@ c) le concessioni per la realizzazione e la conduzione delle reti di gestione te
 
 100\. Al primo periodo del comma 238 dell'articolo 1 della legge 30 dicembre 2023, n. 213, dopo le parole: «di 200 euro per ogni mese lavorato,» sono inserite le seguenti: «raddoppiabili in caso di omesso pagamento o comunicazione,».
 
-### Art. 1 (commi 101-200)
+#### Art. 1 (commi 101-200)
 
 101\. Alla legge 13 giugno 2023, n. 83, sono apportate le seguenti modificazioni:
 
@@ -862,7 +862,7 @@ b) quanto a 70 milioni di euro per l'anno 2026 e a 140 milioni di euro annui a d
 
 200\. Il Fondo di sostegno per le famiglie delle vittime di gravi infortuni sul lavoro, di cui all'articolo 1, comma 1187, della legge 27 dicembre 2006, n. 296, e' incrementato di 0,5 milioni di euro per ciascuno degli anni 2025 e 2026 e di 3 milioni di euro annui a decorrere dall'anno 2027. Agli oneri derivanti dall'attuazione del presente comma, pari a 0,5 milioni di euro per ciascuno degli anni 2025 e 2026 e a 3 milioni di euro annui a decorrere dall'anno 2027, si provvede mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190, come rifinanziato ai sensi del comma 884 del presente articolo.
 
-### Art. 1 (commi 201-300)
+#### Art. 1 (commi 201-300)
 
 201\. Nello stato di previsione del Ministero delle imprese e del made in Italy e' istituito il Fondo a sostegno delle imprese dell'indotto della societa' ILVA in amministrazione straordinaria, con una dotazione pari a 1 milione di euro per ciascuno degli anni 2026, 2027 e 2028.
 
@@ -1178,7 +1178,7 @@ e) rappresentano e promuovono, nell'ambito della propria attivita', le istanze d
 
 300\. Al fine di garantire al Servizio sanitario nazionale le risorse necessarie per provvedere alla progressiva attuazione dell'aggiornamento delle tariffe massime per la remunerazione delle prestazioni di riabilitazione ospedaliera e di lungodegenza erogate in post acuzie e dell'aggiornamento delle tariffe massime per la remunerazione delle prestazioni di assistenza ospedaliera per acuti erogate in regime di ricovero ordinario e diurno in attuazione dell'articolo 1, comma 280, della legge 30 dicembre 2021, n. 234, e' autorizzata la spesa di 77 milioni di euro per l'anno 2025, destinata ai Diagnosis Related Groups (DRG) post acuzie, di 1.000 milioni di euro per l'anno 2026, destinata rispettivamente per 350 milioni di euro ai DRG post acuzie e per 650 milioni di euro ai DRG per acuti e di 1.350 milioni di euro annui a decorrere dall'anno 2027, destinata rispettivamente per 350 milioni di euro ai DRG post acuzie e per 1.000 milioni di euro ai DRG per acuti.
 
-### Art. 1 (commi 301-400)
+#### Art. 1 (commi 301-400)
 
 301\. Le risorse di cui al comma 300 costituiscono una assegnazione vincolata e sono, pertanto, utilizzabili solo per le finalita' indicate nel medesimo comma 300.
 
@@ -1440,7 +1440,7 @@ a) per il periodo d'imposta successivo a quello in corso al 31 dicembre 2025 e p
 
 b) per il periodo d'imposta successivo a quello in corso al 31 dicembre 2024 e per i due successivi non si tiene conto delle disposizioni di cui al comma 399 del presente articolo.
 
-### Art. 1 (commi 401-500)
+#### Art. 1 (commi 401-500)
 
 401\. All'articolo 1 della legge 30 dicembre 2023, n. 213, sono apportate le seguenti modificazioni:
 
@@ -1842,7 +1842,7 @@ c) quanto a 34,5 milioni di euro, destinati alla regione Lazio, per il finanziam
 
 500\. Agli oneri derivanti dai commi 498 e 499, pari a 1,5 milioni di euro per l'anno 2025 e a 2 milioni di euro per l'anno 2026, si provvede mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190, come rifinanziato ai sensi del comma 884 del presente articolo.
 
-### Art. 1 (commi 501-600)
+#### Art. 1 (commi 501-600)
 
 501\. Per gli interventi per la salvaguardia di Venezia e della sua laguna, di cui alla legge 16 aprile 1973, n. 171, sono stanziate ulteriori risorse pari a 5 milioni di euro annui a decorrere dall'anno 2025.
 
@@ -2268,7 +2268,7 @@ c) dopo le parole: «anche mediante acquisizione» sono inserite le seguenti: «
 
 600\. Il fondo di cui al comma 599 e' destinato a finanziare le iniziative promosse dalla Confederazione italiana fra le associazioni combattentistiche e partigiane per le finalita' di cui al medesimo comma 599.
 
-### Art. 1 (commi 601-700)
+#### Art. 1 (commi 601-700)
 
 601\. Nell'ambito delle iniziative di celebrazione della figura di Giacomo Matteotti, nella ricorrenza dei cento anni dalla sua morte, allo scopo di promuovere e valorizzare la conoscenza e lo studio della sua opera e del suo pensiero in ambito nazionale e internazionale e' istituito, nello stato di previsione del Ministero della cultura, il «Fondo per la Casa Museo Matteotti nella provincia di Rovigo», con una dotazione di 300.000 euro annui a decorrere dall'anno 2025.
 
@@ -2550,7 +2550,7 @@ d) la documentazione attestante lo stato legittimo dell'unita' immobiliare ai se
 
 700\. I contributi di cui al comma 694 sono erogati al netto degli eventuali ulteriori contributi pubblici di riqualificazione sismica e degli eventuali contributi o indennizzi riconosciuti in relazione al medesimo edificio e per analoghe finalita' da un'amministrazione pubblica, anche come credito d'imposta, o da istituti assicurativi, e sono concessi a condizione che gli immobili interessati siano muniti del prescritto titolo abilitativo e realizzati in conformita' ad esso ovvero siano muniti di titolo in sanatoria conseguito alla data di presentazione della relativa domanda, in coerenza con quanto previsto dal comma 1 dell'articolo 9-octies del decreto-legge 11 giugno 2024, n. 76, convertito, con modificazioni, dalla legge 8 agosto 2024, n. 111.
 
-### Art. 1 (commi 701-800)
+#### Art. 1 (commi 701-800)
 
 701\. Con decreto del Ministro per la protezione civile e le politiche del mare, adottato entro novanta giorni dalla data di entrata in vigore della presente legge, di concerto con il Ministro dell'economia e delle finanze, previa intesa con il Presidente della regione Campania, sono definiti:
 
@@ -2864,7 +2864,7 @@ b) al comma 51, di 200 milioni di euro per l'anno 2025 e di 100 milioni di euro 
 
 800\. Il fondo denominato «Programma innovativo nazionale per la qualita' dell'abitare», di cui al comma 443 dell'articolo 1 della legge 27 dicembre 2019, n. 160, e' ridotto di 53.036.470 euro per l'anno 2029, di 54.596.367 euro per l'anno 2030, di 54.635.365 euro per ciascuno degli anni 2031 e 2032 e di 51.281.588 euro per l'anno 2033.
 
-### Art. 1 (commi 801-900)
+#### Art. 1 (commi 801-900)
 
 801\. All'articolo 1 della legge 27 dicembre 2019, n. 160, i commi da 44 a 46 sono abrogati.
 
@@ -3372,7 +3372,7 @@ PERIODO SOPPRESSO DAL D.L. 14 MARZO 2025, N. 25. La disposizione di cui al prese
 
 900\. Con uno o piu' decreti del Presidente del Consiglio dei ministri, da adottare, di concerto con il Ministro dell'economia e delle finanze, entro sessanta giorni dalla data di entrata in vigore della presente legge, si provvede alla ripartizione delle risorse dei fondi di cui ai commi 898 e 899 tra i ministeri, da individuare in considerazione dei rispettivi ambiti di competenza in relazione alle destinazioni previste con specifico atto di indirizzo delle Camere. I decreti di cui al primo periodo disciplinano i termini di utilizzo delle risorse, le modalita' di monitoraggio e rendicontazione nonche' di revoca nel caso di mancato utilizzo del contributo assegnato. Gli interventi di conto capitale oggetto di finanziamento devono essere identificati dal codice unico di progetto (CUP) e monitorati ai sensi del decreto legislativo 29 dicembre 2011, n. 229.
 
-### Art. 1 (commi 901-908)
+#### Art. 1 (commi 901-908)
 
 901\. Agli oneri derivanti dai commi da 898 a 900, pari a 32.117.000 euro per l'anno 2025, a 39.300.000 per l'anno 2026 e a 31.380.000 euro per l'anno 2027, si provvede mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190, come rifinanziato ai sensi del comma 884 del presente articolo.
 
@@ -3446,13 +3446,15 @@ AGGIORNAMENTO (42)
 
 Il D.L. 7 agosto 2026, n. 144 ha disposto (con l'art. 14, comma 3) che la presente modifica "si applica, altresi', alle domande di contributo, di cui all'articolo 1, comma 694, della legge n. 207 del 2024, gia' presentate alla data di entrata in vigore del presente decreto, per le quali i comuni provvedono a ricalcolare la quota di contributo spettante ai sensi dell'articolo 8, comma 1, del decreto del Ministro per la protezione civile e le politiche del mare 12 novembre 2025, pubblicato nella Gazzetta Ufficiale n. 11 del 15 gennaio 2026".
 
-## PARTE II - SEZIONE II: APPROVAZIONE DEGLI STATI DI PREVISIONE
+## PARTE II
 
-### Art. 2 - Stato di previsione dell'entrata
+### SEZIONE II: APPROVAZIONE DEGLI STATI DI PREVISIONE
+
+#### Art. 2 - Stato di previsione dell'entrata
 
 1\. L'ammontare delle entrate previste per l'anno finanziario 2025, relative a imposte, tasse, contributi di ogni specie e ogni altro provento, accertate, riscosse e versate nelle casse dello Stato, in virtu' di leggi, decreti, regolamenti e di ogni altro titolo, risulta dall'annesso stato di previsione dell'entrata (Tabella n. 1).
 
-### Art. 3
+#### Art. 3
 
 (Stato di previsione del Ministero dell'economia e delle finanze
 
@@ -3504,7 +3506,7 @@ e disposizioni relative)
 
 23\. Con decreto del Ministro dell'economia e delle finanze possono essere apportate, per l'anno finanziario 2025, variazioni compensative, in termini di residui e cassa, con riferimento alle somme di parte capitale iscritte nello stato di previsione del Ministero dell'economia e delle finanze negli anni 2021 e seguenti, non utilizzate nel medesimo anno, relative alle missioni «Competitivita' e sviluppo delle imprese» e «Politiche economico-finanziarie e di bilancio e tutela della finanza pubblica», classificate nella categoria economica «Acquisizione di attivita' finanziarie-Acquisto azioni e altre partecipazioni».
 
-### Art. 4
+#### Art. 4
 
 (Stato di previsione del Ministero delle imprese
 
@@ -3516,7 +3518,7 @@ e del made in Italy e disposizioni relative)
 
 3\. Gli importi dei versamenti effettuati con imputazione alle voci «Entrate da recuperi e rimborsi di spese», «Altre entrate extratributarie» e «Entrate da rimborso di anticipazioni e altri crediti finanziari dello Stato» dello stato di previsione dell'entrata sono correlativamente iscritti, in termini di competenza e di cassa, con decreti del Ragioniere generale dello Stato, negli appositi capitoli dei pertinenti programmi dello stato di previsione del Ministero delle imprese e del made in Italy, relativi al Fondo per la competitivita' e lo sviluppo e al Fondo rotativo per la crescita sostenibile.
 
-### Art. 5
+#### Art. 5
 
 (Stato di previsione del Ministero del lavoro
 
@@ -3526,7 +3528,7 @@ e delle politiche sociali e disposizioni relative)
 
 2\. Le risorse finanziarie derivanti dal bilancio di chiusura dell'Agenzia nazionale per le politiche attive del lavoro, di cui all'articolo 3, comma 3, del decreto-legge 22 giugno 2023, n. 75, convertito, con modificazioni, dalla legge 10 agosto 2023, n. 112, sono versate all'entrata del bilancio dello Stato per essere riassegnate con decreto del Ragioniere generale dello Stato, anche con profilo pluriennale, ai pertinenti capitoli dello stato di previsione del Ministero del lavoro e delle politiche sociali. Le eventuali risorse, cui non corrispondono obbligazioni giuridicamente vincolanti, sono acquisite all'erario.
 
-### Art. 6
+#### Art. 6
 
 (Stato di previsione del Ministero della giustizia
 
@@ -3538,7 +3540,7 @@ e disposizioni relative)
 
 3\. Il Ragioniere generale dello Stato e' autorizzato a provvedere, con propri decreti, alla riassegnazione, allo stato di previsione del Ministero della giustizia, delle somme versate ad apposito capitolo dell'entrata del bilancio dello Stato, a seguito di convenzioni stipulate dal Ministero medesimo con enti pubblici e privati, a decorrere dalla data di entrata in vigore della presente legge, ovvero derivanti da contributi, rimborsi e finanziamenti provenienti da organismi, anche internazionali, per la destinazione alle spese per il funzionamento degli uffici giudiziari e dei servizi, anche di natura informatica, forniti dai medesimi uffici nonche' al potenziamento delle attivita' connesse alla cooperazione giudiziaria internazionale, nei programmi «Giustizia civile e penale» e «Servizi di gestione amministrativa per l'attivita' giudiziaria» nell'ambito della missione «Giustizia» dello stato di previsione del Ministero della giustizia per l'anno finanziario 2025.
 
-### Art. 7
+#### Art. 7
 
 (Stato di previsione del Ministero degli affari esteri
 
@@ -3548,7 +3550,7 @@ e della cooperazione internazionale e disposizioni relative)
 
 2\. Il Ministero degli affari esteri e della cooperazione internazionale e' autorizzato ad effettuare, previe intese con il Ministero dell'economia e delle finanze, operazioni in valuta estera non convertibile pari alle disponibilita' esistenti nei conti correnti valuta Tesoro costituiti presso le rappresentanze diplomatiche e gli uffici consolari, ai sensi dell'articolo 5 della legge 6 febbraio 1985, n. 15, e che risultino intrasferibili per effetto di norme o disposizioni locali. Il relativo controvalore in euro e' acquisito all'entrata del bilancio dello Stato ed e' contestualmente iscritto, con decreti del Ragioniere generale dello Stato, sulla base delle indicazioni del Ministero degli affari esteri e della cooperazione internazionale, nei pertinenti programmi dello stato di previsione del medesimo Ministero per l'anno finanziario 2025, per l'effettuazione di spese connesse alle esigenze di funzionamento, mantenimento ed acquisto delle sedi diplomatiche e consolari, degli istituti di cultura e delle scuole italiane all'estero. Il Ministero degli affari esteri e della cooperazione internazionale, per il medesimo anno, e' altresi' autorizzato ad effettuare, con le medesime modalita', operazioni in valuta estera pari alle disponibilita' esistenti nei conti correnti valuta Tesoro in valute inconvertibili o intrasferibili individuate, ai fini delle operazioni di cui al presente comma, dal Dipartimento del tesoro del Ministero dell'economia e delle finanze su richiesta della competente Direzione generale del Ministero degli affari esteri e della cooperazione internazionale.
 
-### Art. 8
+#### Art. 8
 
 (Stato di previsione del Ministero dell'istruzione
 
@@ -3558,7 +3560,7 @@ e del merito e disposizioni relative)
 
 2\. Il Ragioniere generale dello Stato e' autorizzato a provvedere, con propri decreti, alla riassegnazione ai pertinenti programmi dello stato di previsione del Ministero dell'istruzione e del merito, per l'anno finanziario 2025, delle somme versate all'entrata del bilancio dello Stato dalla Presidenza del Consiglio dei ministri per realizzare azioni educative di prevenzione dell'uso di sostanze stupefacenti in eta' scolare.
 
-### Art. 9
+#### Art. 9
 
 (Stato di previsione del Ministero dell'interno
 
@@ -3588,7 +3590,7 @@ e disposizioni relative)
 
 12\. Il Ministro dell'economia e delle finanze e' autorizzato a trasferire, con propri decreti, su proposta del Ministro dell'interno, agli stati di previsione dei Ministeri interessati, per l'anno finanziario 2025, le risorse iscritte nel capitolo 2501, piano gestionale 21, istituito nel programma «Contrasto al crimine, tutela dell'ordine e della sicurezza pubblica», nell'ambito della missione «Ordine pubblico e sicurezza» dello stato di previsione del Ministero dell'interno, unitamente ai corrispondenti oneri riflessi, in attuazione dell'articolo 1808, comma 1, del codice di cui al decreto legislativo 15 marzo 2010, n. 66.
 
-### Art. 10
+#### Art. 10
 
 (Stato di previsione del Ministero dell'ambiente
 
@@ -3596,7 +3598,7 @@ e della sicurezza energetica)
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero dell'ambiente e della sicurezza energetica, per l'anno finanziario 2025, in conformita' all'annesso stato di previsione (Tabella n. 9).
 
-### Art. 11
+#### Art. 11
 
 (Stato di previsione del Ministero delle infrastrutture
 
@@ -3616,7 +3618,7 @@ e dei trasporti e disposizioni relative)
 
 7\. Il Ragioniere generale dello Stato e' autorizzato a riassegnare allo stato di previsione del Ministero delle infrastrutture e dei trasporti, per l'anno finanziario 2025, quota parte delle entrate versate al bilancio dello Stato derivanti dai corrispettivi di concessione offerti in sede di gara per il riaffidamento delle concessioni autostradali nella misura necessaria alla definizione delle eventuali pendenze con i concessionari uscenti.
 
-### Art. 12
+#### Art. 12
 
 (Stato di previsione del Ministero dell'universita'
 
@@ -3624,7 +3626,7 @@ e della ricerca)
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero dell'universita' e della ricerca, per l'anno finanziario 2025, in conformita' all'annesso stato di previsione (Tabella n. 11).
 
-### Art. 13
+#### Art. 13
 
 (Stato di previsione del Ministero della difesa
 
@@ -3704,7 +3706,7 @@ c) ufficiali ausiliari delle forze di completamento, di cui alla lettera d) del 
 
 13\. Il Ragioniere generale dello Stato e' autorizzato a provvedere, con propri decreti, alla riassegnazione, allo stato di previsione del Ministero della difesa, per l'anno finanziario 2025, delle somme versate all'entrata del bilancio dello Stato dalle istituzioni dell'Unione europea, concernenti le misure di assistenza supplementari connesse allo strumento europeo per la pace (EPF) tese a sostenere ulteriormente le capacita' e la resilienza delle forze armate ucraine.
 
-### Art. 14
+#### Art. 14
 
 (Stato di previsione del Ministero dell'agricoltura,
 
@@ -3722,7 +3724,7 @@ della sovranita' alimentare e delle foreste e disposizioni relative)
 
 6\. Il Ragioniere generale dello Stato e' autorizzato a provvedere, con propri decreti, alla riassegnazione, ai pertinenti programmi dello stato di previsione del Ministero dell'agricoltura, della sovranita' alimentare e delle foreste, per l'anno finanziario 2025, delle somme versate all'entrata del bilancio dello Stato da amministrazioni ed enti pubblici in virtu' di accordi di programma, convenzioni e intese per il raggiungimento di finalita' comuni in materia di telelavoro e altre forme di lavoro a distanza, ai sensi dell'articolo 4 della legge 16 giugno 1998, n. 191, dell'articolo 3 del regolamento di cui al decreto del Presidente della Repubblica 8 marzo 1999, n. 70, nonche' di progetti di cooperazione internazionale ai sensi dell'articolo 24 della legge 11 agosto 2014, n. 125, e dell'articolo 15 della legge 7 agosto 1990, n. 241.
 
-### Art. 15
+#### Art. 15
 
 (Stato di previsione del Ministero della cultura
 
@@ -3736,7 +3738,7 @@ e disposizioni relative)
 
 4\. Al pagamento delle retribuzioni delle operazioni e dei servizi svolti in attuazione del piano nazionale straordinario di valorizzazione degli istituti e dei luoghi della cultura dal relativo personale si provvede mediante ordini collettivi di pagamento con il sistema denominato «cedolino unico», ai sensi dell'articolo 2, comma 197, della legge 23 dicembre 2009, n. 191. A tal fine il Ministro dell'economia e delle finanze e' autorizzato ad apportare, per l'anno finanziario 2025, con propri decreti, su proposta del Ministro della cultura, le variazioni compensative di bilancio in termini di competenza e di cassa, su appositi piani gestionali dei capitoli relativi alle competenze accessorie del personale.
 
-### Art. 16
+#### Art. 16
 
 (Stato di previsione del Ministero della salute
 
@@ -3746,21 +3748,21 @@ e disposizioni relative)
 
 2\. Per l'anno finanziario 2025, il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, su proposta del Ministro della salute, variazioni compensative, in termini di competenza e di cassa, tra gli stanziamenti alimentati dal riparto della quota di cui all'articolo 12, comma 2, del decreto legislativo 30 dicembre 1992, n. 502, iscritti in bilancio nell'ambito della missione «Ricerca e innovazione» dello stato di previsione del Ministero della salute, restando precluso l'utilizzo degli stanziamenti di conto capitale per finanziare spese correnti.
 
-### Art. 17
+#### Art. 17
 
 (Stato di previsione del Ministero del turismo
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero del turismo, per l'anno finanziario 2025, in conformita' all'annesso stato di previsione (Tabella n. 16).
 
-### Art. 18 - Totale generale della spesa
+#### Art. 18 - Totale generale della spesa
 
 1\. Sono approvati, rispettivamente, in euro 1.199.544.721.805, in euro 1.231.207.911.635 e in euro 1.199.854.020.231 in termini di competenza, nonche' in euro 1.219.231.272.769, in euro 1.247.026.020.764 e in euro 1.207.064.232.525 in termini di cassa, i totali generali della spesa dello Stato per il triennio 2025-2027.
 
-### Art. 19 - Quadro generale riassuntivo
+#### Art. 19 - Quadro generale riassuntivo
 
 1\. E' approvato, in termini di competenza e di cassa, per il triennio 2025-2027, il quadro generale riassuntivo del bilancio dello Stato, con le tabelle allegate.
 
-### Art. 20 - Disposizioni diverse
+#### Art. 20 - Disposizioni diverse
 
 1\. In relazione all'accertamento dei residui di entrata e di spesa per i quali non esistono nel bilancio di previsione i corrispondenti capitoli nell'ambito dei programmi interessati, il Ministro dell'economia e delle finanze e' autorizzato ad istituire gli occorrenti capitoli nei pertinenti programmi con propri decreti da comunicare alla Corte dei conti.
 
@@ -3824,7 +3826,7 @@ e disposizioni relative)
 
 31\. Con decreto del Ministro dell'economia e delle finanze possono essere apportate, per l'anno finanziario 2025, nel rispetto dell'equilibrio dei saldi di finanza pubblica, variazioni compensative tra stati di previsione, anche in termini di residui e cassa, con riferimento a somme oggetto di rimborso in virtu' di apposite convenzioni, intese o accordi stipulati tra le amministrazioni.
 
-### Art. 21 - Entrata in vigore
+#### Art. 21 - Entrata in vigore
 
 1\. La presente legge, salvo quanto diversamente previsto, entra in vigore il 1° gennaio 2025.
 
@@ -3848,7 +3850,7 @@ Visto, il Guardasigilli: Nordio
 
 ## Allegati
 
-### Allegato I
+#### Allegato I
 
 Allegato I
 
@@ -3890,7 +3892,7 @@ Allegato I
 +-------------------------------------------------------------------+
 ```
 
-### Allegato II
+#### Allegato II
 
 Allegato II
 
@@ -3904,7 +3906,7 @@ Parte di provvedimento in formato grafico
 
 ».
 
-### Allegato III
+#### Allegato III
 
 Allegato III
 
@@ -3916,7 +3918,7 @@ Parte di provvedimento in formato grafico
 
 ».
 
-### Allegato IV
+#### Allegato IV
 
 Allegato IV
 
@@ -3930,7 +3932,7 @@ Triennio 2025-2027
 
 Parte di provvedimento in formato grafico
 
-### Allegato V
+#### Allegato V
 
 Allegato V
 
@@ -3987,7 +3989,7 @@ Allegato V
 +---------------------------------+----------+----------+----------+
 ```
 
-### Allegato VI
+#### Allegato VI
 
 Allegato VI
 
@@ -3995,7 +3997,7 @@ Allegato VI
 
 Parte di provvedimento in formato grafico
 
-### Tabelle A e B
+#### Tabelle A e B
 
 Tabelle A E B
 
@@ -4135,7 +4137,7 @@ NEL FONDO SPECIALE DI CONTO CAPITALE
 +----------------------------+------------+------------+------------+
 ```
 
-### Quadri generali riassuntivi
+#### Quadri generali riassuntivi
 
 QUADRI GENERALI RIASSUNTIVI
 
@@ -4157,7 +4159,7 @@ L'ARTICOLAZIONE IN AZIONI DELLE MISSIONI E DEI PROGRAMMI DI SPESA, RIPORTATA NEL
 
 Parte di provvedimento in formato grafico
 
-### Stati di previsione
+#### Stati di previsione
 
 STATI DI PREVISIONE
 

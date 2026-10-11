@@ -64,11 +64,9 @@ E M A N A
 
 il seguente decreto legislativo:
 
-## Titolo I
+## Titolo I - PRINCIPI GENERALI
 
-### PRINCIPI GENERALI
-
-###### Art. 1
+#### Art. 1
 
 Campo di applicazione
 
@@ -118,23 +116,17 @@ Campo di applicazione
 
 > Il decreto legislativo 6 settembre 2005 n. 206, recante codice del consumo, a norma dell'articolo 7 della legge 29 luglio 2003, n. 229, e' pubblicato nella Gazzetta Ufficiale 8 ottobre 2005, n. 235, S.O..
 
-###### Art. 2
+#### Art. 2
 
 Definizioni
 
 1\. Ai fini dell'attuazione del presente decreto si applicano le definizioni di cui all'articolo 2 del regolamento e, inoltre, si intende per «soggetto responsabile» l'operatore del settore alimentare di cui all'articolo 8, paragrafo 1, del regolamento, con il cui nome o con la cui ragione sociale e' commercializzato il prodotto o, se tale operatore non e' stabilito nell'Unione, l'importatore avente sede nel territorio dell'Unione; e', altresi', individuato come soggetto responsabile l'operatore del settore alimentare il cui nome o la cui ragione sociale siano riportati in un marchio depositato o registrato.
 
-## Titolo II
+## Titolo II - DISPOSIZIONI SANZIONATORIE PER LA VIOLAZIONE DELLE DISPOSIZIONI DI CUI AL REGOLAMENTO
 
-### DISPOSIZIONI SANZIONATORIE PER LA VIOLAZIONE DELLE DISPOSIZIONI DI - CUI AL REGOLAMENTO
+### Capo I - Violazione delle disposizioni generali in materia di informazioni sugli alimenti
 
-#### Capo I
-
-##### Violazione delle disposizioni generali in materia di informazioni
-
-###### sugli alimenti
-
-###### Art. 3
+#### Art. 3
 
 Violazione delle pratiche leali di informazione di cui all'articolo 7 del regolamento
 
@@ -142,7 +134,7 @@ Violazione delle pratiche leali di informazione di cui all'articolo 7 del regola
 
 1-bis. Se le violazioni di cui al comma 1 sono commesse da imprese aventi i parametri di media e grande impresa ai sensi della raccomandazione 2003/361/CE della Commissione, del 6 maggio 2003, le sanzioni amministrative di cui al medesimo comma 1 sono aumentate di due volte nel caso delle medie imprese e di tre volte nel caso delle grandi imprese.
 
-###### Art. 4
+#### Art. 4
 
 Violazione degli obblighi informativi da parte degli operatori del settore alimentare di cui all'articolo 8 del regolamento
 
@@ -154,11 +146,9 @@ Violazione degli obblighi informativi da parte degli operatori del settore alime
 
 4\. Salvo che il fatto costituisca reato, l'operatore del settore alimentare che viola le disposizioni relative alla fornitura delle indicazioni obbligatorie di cui all'articolo 8, paragrafo 7, primo comma, del regolamento, e' soggetto alla sanzione amministrativa pecuniaria del pagamento di una somma da 1.000 euro a 8.000 euro. La medesima sanzione si applica per le violazioni delle disposizioni di cui all'articolo 8, paragrafo 7, secondo comma, del regolamento, nel caso in cui le indicazioni obbligatorie di cui all'articolo 8, paragrafo 7, primo comma, siano state riportate solo sul documento commerciale.
 
-## Capo II
+### Capo II - Violazione delle disposizioni relative alle informazioni obbligatorie sugli alimenti preimballati e delle relative modalita' di espressione
 
-### Violazione delle disposizioni relative alle informazioni obbligatorie - sugli alimenti preimballati e delle relative modalita' di espressione
-
-###### Art. 5
+#### Art. 5
 
 Violazione degli obblighi relativi all'apposizione delle indicazioni obbligatorie di cui all'articolo 9, paragrafo 1, all'articolo 10, paragrafo 1, e all'allegato III del regolamento
 
@@ -172,13 +162,13 @@ Violazione degli obblighi relativi all'apposizione delle indicazioni obbligatori
 
 > Per i riferimenti normativi del regolamento (UE) n. 178/2002 si veda nelle note alle premesse.
 
-###### Art. 6
+#### Art. 6
 
 Violazione degli obblighi relativi alle modalita' di espressione, posizionamento e presentazione delle indicazioni obbligatorie di cui all'articolo 9, paragrafi 2 e 3, e agli articoli 12 e 13 e all'allegato IV del regolamento
 
 1\. La mancata osservanza delle modalita' di espressione delle indicazioni obbligatorie come prescritte all'articolo 9, paragrafi 2 e 3, nonche' delle condizioni di presentazione e di posizionamento delle indicazioni obbligatorie di cui agli articoli 12 e 13 e dell'allegato IV del regolamento, comporta l'applicazione al soggetto responsabile della sanzione amministrativa pecuniaria del pagamento di una somma da 1.000 euro a 8.000 euro.
 
-###### Art. 7
+#### Art. 7
 
 Violazione delle disposizioni relative alla vendita
 
@@ -186,11 +176,9 @@ a distanza di cui all'articolo 14 del regolamento
 
 1\. Salvo che il fatto costituisca reato, la violazione delle disposizioni relative alla vendita a distanza di cui all'articolo 14 del regolamento comporta l'applicazione al soggetto responsabile della sanzione amministrativa pecuniaria del pagamento di una somma da 2.000 euro a 16.000 euro.
 
-## ((Capo II-bis - VIOLAZIONE DELLE DISPOSIZIONI
+### ((Capo II-bis - VIOLAZIONE DELLE DISPOSIZIONI RELATIVE ALLE DENOMINAZIONI DI LATTE E DI PRODOTTI LATTIERO-CASEARI))
 
-### RELATIVE ALLE DENOMINAZIONI DI LATTE - E DI PRODOTTI LATTIERO-CASEARI))
-
-###### Art. 7-bis
+#### Art. 7-bis
 
 (( (Sanzioni amministrative per l'impiego abusivo delle denominazioni di latte e di prodotti lattiero-caseari di cui all'allegato VII al regolamento (UE) n. 1308/2013 del Parlamento europeo e del Consiglio, del 17 dicembre 2013). ))
 
@@ -198,11 +186,9 @@ a distanza di cui all'articolo 14 del regolamento
 
 2\. ((Non e' ammesso il pagamento in misura ridotta di cui all'articolo 16 della legge 24 novembre 1981, n. 689)).
 
-## Capo III
+### Capo III - Violazione delle disposizioni specifiche sulle indicazioni obbligatorie
 
-### Violazione delle disposizioni specifiche sulle indicazioni - obbligatorie
-
-###### Art. 8
+#### Art. 8
 
 Violazioni in materia di denominazione dell'alimento di cui all'articolo 17, all'articolo 18, paragrafo 2, e all'allegato VI del regolamento
 
@@ -216,7 +202,7 @@ Violazioni in materia di denominazione dell'alimento di cui all'articolo 17, all
 
 5\. Le medesime sanzioni di cui ai commi 1, 2, 3 e 4 si applicano al soggetto responsabile che viola l'articolo 18, paragrafo 2, del regolamento in materia di denominazione e designazione degli ingredienti.
 
-###### Art. 9
+#### Art. 9
 
 Violazioni in materia di elenco degli ingredienti di cui all'articolo 18, paragrafi 1 e 3, ed all'allegato VII del regolamento
 
@@ -226,19 +212,19 @@ Violazioni in materia di elenco degli ingredienti di cui all'articolo 18, paragr
 
 3\. La violazione delle disposizioni relative all'indicazione e designazione degli ingredienti di cui all'allegato VII del regolamento, fatte salve le deroghe ivi previste, comporta l'applicazione al soggetto responsabile della sanzione amministrativa pecuniaria ((da 2.000 euro a 16.000 euro o del 3 per cento del fatturato totale annuo realizzato nell'ultimo esercizio chiuso anteriormente all'accertamento della violazione quando tale importo e' superiore a 16.000 euro)). ((La sanzione massima non puo' eccedere comunque 50.000 euro)).
 
-###### Art. 10
+#### Art. 10
 
 Violazioni in materia di requisiti nell'indicazione degli allergeni di cui all'articolo 21 e all'allegato II del regolamento
 
 1\. La violazione delle disposizioni relative ai requisiti dell'etichettatura di alcune sostanze o prodotti che possono provocare allergie o intolleranze, di cui all'articolo 21 e all'allegato II del regolamento, comporta l'applicazione al soggetto responsabile della sanzione amministrativa pecuniaria del pagamento di una somma da 2.000 euro a 16.000 euro.
 
-###### Art. 11
+#### Art. 11
 
 Violazioni in materia di indicazione quantitativa degli ingredienti, di cui all'articolo 22 e all'allegato VIII del regolamento e in materia di indicazione della quantita' netta, di cui all'articolo 23 e all'allegato IX del regolamento
 
 1\. Salvo che il fatto costituisca reato, la violazione delle disposizioni relative all'indicazione quantitativa degli ingredienti di cui all'articolo 22 ed all'allegato VIII del regolamento, nonche' la violazione delle disposizioni relative all'indicazione della quantita' netta di cui all'articolo 23 ed all'allegato IX del medesimo regolamento, fatte salve le deroghe ivi previste, comporta l'applicazione al soggetto responsabile della sanzione amministrativa pecuniaria del pagamento di una somma da 1.000 euro a 8.000 euro.
 
-###### Art. 12
+#### Art. 12
 
 Violazioni in materia di termine minimo di conservazione, data di scadenza e data di congelamento di cui all'articolo 24 e all'allegato X del regolamento
 
@@ -248,7 +234,7 @@ Violazioni in materia di termine minimo di conservazione, data di scadenza e dat
 
 3\. Salvo che il fatto costituisca reato, quando un alimento e' ceduto a qualsiasi titolo o esposto per la vendita al consumatore finale oltre la sua data di scadenza, ai sensi dell'articolo 24 e dell'allegato X del regolamento, il cedente o il soggetto che espone l'alimento e' soggetto alla sanzione amministrativa pecuniaria del pagamento di una somma da 5.000 euro a 40.000 euro.
 
-###### Art. 13
+#### Art. 13
 
 Violazioni in materia di indicazione del paese di origine o luogo di provenienza di cui all'articolo 26, e relativi atti di esecuzione, ed all'allegato XI del regolamento
 
@@ -256,23 +242,21 @@ Violazioni in materia di indicazione del paese di origine o luogo di provenienza
 
 2\. Quando la violazione di cui al comma 1 riguarda solo errori ed omissioni formali essa comporta l'applicazione al soggetto responsabile della sanzione amministrativa pecuniaria del pagamento di una somma da 500 euro a 4.000 euro.
 
-###### Art. 14
+#### Art. 14
 
 Violazioni in materia di titolo alcolometrico di cui all'articolo 28 ed all'allegato XII del regolamento
 
 1\. La violazione delle disposizioni relative alla modalita' di indicazione del titolo alcolometrico di cui all'articolo 28 e all'allegato XII del regolamento, comporta l'applicazione al soggetto responsabile della sanzione amministrativa pecuniaria del pagamento di una somma da 500 euro a 4.000 euro.
 
-###### Art. 15
+#### Art. 15
 
 Violazioni in materia di dichiarazioni nutrizionali di cui agli articoli da 30 a 35 ed agli allegati XIII, XIV e XV del regolamento
 
 1\. La violazione delle disposizioni relative a modalita' di indicazione, contenuto, espressione e presentazione della dichiarazione nutrizionale, di cui agli articoli da 30 a 35 ed agli allegati XIII, XIV e XV del regolamento, fatte salve le deroghe previste dal medesimo regolamento, comporta l'applicazione al soggetto responsabile della sanzione amministrativa pecuniaria del pagamento di una somma da 2.000 euro a 16.000 euro.
 
-## Capo IV
+### Capo IV - Violazioni in materia di informazioni volontarie sugli alimenti
 
-### Violazioni in materia di informazioni volontarie sugli alimenti
-
-###### Art. 16
+#### Art. 16
 
 Violazioni in materia di informazioni volontarie di cui all'articolo 36 del regolamento
 
@@ -280,15 +264,11 @@ Violazioni in materia di informazioni volontarie di cui all'articolo 36 del rego
 
 2\. Salvo che il fatto costituisca reato, al soggetto responsabile che fornisce volontariamente informazioni sugli alimenti in violazione dell'articolo 36, paragrafi 2 e 3, del regolamento, si applica la sanzione amministrativa pecuniaria del pagamento di una somma da 3.000 euro a 24.000 euro. La sanzione che consegue alla violazione delle fattispecie previste dal paragrafo 3 del predetto articolo 36 si applica alle violazioni commesse successivamente all'adozione da parte della Commissione degli atti di esecuzione previsti dalla medesima disposizione.
 
-## Titolo III
+## Titolo III - ADEGUAMENTO DELLA NORMATIVA NAZIONALE ALLE DISPOSIZIONI DEL REGOLAMENTO (UE) N. 1169/2011 E RELATIVE SANZIONI
 
-### ADEGUAMENTO DELLA NORMATIVA NAZIONALE ALLE DISPOSIZIONI DEL - REGOLAMENTO (UE) N. 1169/2011 E RELATIVE SANZIONI
+### Capo I - Adeguamento della normativa nazionale
 
-#### Capo I
-
-##### Adeguamento della normativa nazionale
-
-###### Art. 17
+#### Art. 17
 
 Diciture o marche che consentono di identificare la partita alla quale appartiene una derrata alimentare ai sensi della direttiva n. 2011/91/UE del 13 dicembre 2011
 
@@ -326,7 +306,7 @@ e) per le confezioni ed i recipienti il cui lato piu' grande abbia una superfici
 
 > Per i riferimenti normativi della direttiva n. 2011/91/UE, si veda nelle note alle premesse.
 
-###### Art. 18
+#### Art. 18
 
 Distributori automatici
 
@@ -334,7 +314,7 @@ Distributori automatici
 
 2\. Le indicazioni di cui al comma 1 devono essere riportate in lingua italiana ed essere chiaramente visibili e leggibili.
 
-###### Art. 19
+#### Art. 19
 
 Vendita di prodotti non preimballati
 
@@ -376,7 +356,7 @@ g) la designazione «decongelato» di cui all'Allegato VI, punto 2, del regolame
 
 > Il decreto del Presidente della Repubblica 9 febbraio 2001, n. 187, recante regolamento per la revisione della normativa sulla produzione e commercializzazione di sfarinati e paste alimentari, a norma dell'articolo 50 della L. 22 febbraio 1994, n. 146, e' pubblicato nella Gazzetta Ufficiale 22 maggio 2001, n. 117.
 
-###### Art. 20
+#### Art. 20
 
 Prodotti non destinati al consumatore
 
@@ -384,11 +364,9 @@ Prodotti non destinati al consumatore
 
 2\. Le indicazioni di cui al comma 1 possono essere riportate sull'imballaggio o sul recipiente o sulla confezione o su una etichetta appostavi o sui documenti commerciali, anche in modalita' telematica, purche' agli stessi riferiti.
 
-## Capo II
+### Capo II - Violazioni delle disposizioni nazionali
 
-### Violazioni delle disposizioni nazionali
-
-###### Art. 21
+#### Art. 21
 
 Violazioni in materia di diciture o marche che consentono di identificare la partita alla quale appartiene una derrata alimentare di cui all'articolo 17 del presente decreto
 
@@ -396,7 +374,7 @@ Violazioni in materia di diciture o marche che consentono di identificare la par
 
 2\. L'indicazione del lotto, o partita, con modalita' differenti da quelle previste dall'articolo 17 comporta l'applicazione all'operatore del settore alimentare della sanzione amministrativa pecuniaria del pagamento di una somma da 1.000 euro a 8.000 euro.
 
-###### Art. 22
+#### Art. 22
 
 Violazioni in materia di indicazione obbligatorie nella distribuzione di alimenti non preimballati attraverso distributori automatici di cui all'articolo 18 del presente decreto
 
@@ -404,7 +382,7 @@ Violazioni in materia di indicazione obbligatorie nella distribuzione di aliment
 
 2\. Salvo che il fatto costituisca reato, l'operatore del settore alimentare che omette di apporre sui distributori automatici l'indicazione delle sostanze o prodotti che possono provocare allergie o intolleranze a norma dell'articolo 9, paragrafo 1, lettera c), del regolamento, come previsto dall'articolo 44, paragrafo 1, lettera a), del medesimo regolamento, e' soggetto alla sanzione amministrativa pecuniaria del pagamento di una somma da 5.000 euro a 40.000 euro.
 
-###### Art. 23
+#### Art. 23
 
 Violazioni in materia di indicazioni obbligatorie per la vendita dei prodotti non preimballati di cui all'articolo 19 del presente decreto
 
@@ -418,23 +396,21 @@ Quando la violazione riguarda solo aspetti formali, essa comporta l'applicazione
 
 4\. L'operatore del settore alimentare che omette, nelle fasi precedenti la vendita al consumatore o alle collettivita', le indicazioni obbligatorie previste dall'articolo 19, comma 7, e' soggetto all'applicazione della sanzione amministrativa pecuniaria del pagamento di una somma da 500 euro a 4.000 euro.
 
-###### Art. 24
+#### Art. 24
 
 Violazioni in materia di indicazioni obbligatorie per i prodotti non destinati al consumatore finale ed alle collettivita' di cui all'articolo 20 del presente decreto
 
 1\. L'operatore del settore alimentare che viola gli obblighi sulle menzioni obbligatorie e sulle modalita' di apposizione delle stesse previste dall'articolo 20 e' soggetto all'applicazione della sanzione amministrativa pecuniaria del pagamento di una somma da 500 euro a 4.000 euro.
 
-## Titolo IV
+## Titolo IV - DISPOSIZIONI FINALI
 
-### DISPOSIZIONI FINALI
-
-###### Art. 25
+#### Art. 25
 
 Clausola di mutuo riconoscimento
 
 1\. Fatta salva l'applicazione della vigente normativa dell'Unione europea, le disposizioni di cui al titolo III del presente decreto non si applicano ai prodotti alimentari legalmente fabbricati o commercializzati in un altro Stato membro dell'Unione europea o in Turchia ne' ai prodotti legalmente fabbricati in uno Stato membro dell'Associazione europea di libero scambio (EFTA), parte contraente dell'Accordo sullo Spazio economico europeo (SEE), in conformita' alle disposizioni del regolamento.
 
-###### Art. 26
+#### Art. 26
 
 Autorita' competenti all'irrogazione delle sanzioni
 
@@ -450,7 +426,7 @@ Autorita' competenti all'irrogazione delle sanzioni
 
 3-quater. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio)).
 
-###### Art. 27
+#### Art. 27
 
 Procedure per le irrogazioni delle sanzioni
 
@@ -466,19 +442,19 @@ Procedure per le irrogazioni delle sanzioni
 
 5-bis. ((Per la determinazione delle sanzioni amministrative pecuniarie previste dal presente decreto, l'autorita' competente tiene conto della gravita' del fatto, della durata della violazione, dell'opera svolta dall'agente per l'eliminazione o l'attenuazione delle conseguenze della violazione nonche' delle condizioni economiche dello stesso)).
 
-###### Art. 28
+#### Art. 28
 
 Disposizioni transitorie
 
 1\. Gli alimenti immessi sul mercato o etichettati prima della data di entrata in vigore del presente decreto in difformita' dallo stesso possono essere commercializzati fino all'esaurimento delle scorte.
 
-###### Art. 29
+#### Art. 29
 
 Clausola di invarianza finanziaria
 
 1\. Le amministrazioni pubbliche interessate all'attuazione delle disposizioni di cui al presente decreto, provvedono nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente e comunque senza nuovi o maggiori oneri a carico della finanza pubblica.
 
-###### Art. 30
+#### Art. 30
 
 Abrogazioni
 
@@ -524,7 +500,7 @@ c) l'articolo 6, comma 1, lettera b), limitatamente alle parole: «, con data di
 
 > (Omissis).».
 
-###### Art. 31
+#### Art. 31
 
 Entrata in vigore
 

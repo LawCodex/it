@@ -32,7 +32,7 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segreta
 
 Abbiamo sanzionato e promulghiamo quanto segue:
 
-##### Articolo unico
+#### Articolo unico
 
 E' approvato, nel testo allegato, firmato, d'ordine Nostro, dal Presidente dell Consiglio dei Ministri, lo Statuto della Regione siciliana.
 
@@ -56,7 +56,7 @@ Atti del Governo, registro n. 10, foglio n. 224 - FRASCA
 
 Statuto della "Regione siciliana"
 
-##### Art. 1
+#### Art. 1
 
 La Sicilia, con le isole Eolie, Egadi, Pelagie, Ustica, e Pantelleria, e' costituita in Regione autonoma, fornita di personalita' giuridica, entro l'unita' politica dello Stato italiano, sulla base dei principi democratici che ispirano la vita della Nazione.
 
@@ -64,13 +64,13 @@ La citta' di Palermo e' il capoluogo della Regione.
 
 ## TITOLO I. - ORGANI DELLA REGIONE.
 
-##### Art. 2
+#### Art. 2
 
 Organi della Regione sono: l'Assemblea, la Giunta e il Presidente regionali. Il ((Presidente della Regione)) e la Giunta costituiscono il Governo della Regione.
 
-## SEZIONE I. - Assemblea regionale.
+### SEZIONE I. - Assemblea regionale.
 
-##### Art. 3
+#### Art. 3
 
 L'Assemblea regionale e' costituita di ((settanta)) Deputati eletti nella Regione a suffragio universale diretto e segreto, secondo la legge emanata dall'Assemblea regionale in armonia con la Costituzione e i principi dell'ordinamento giuridico della Repubblica e con l'osservanza di quanto stabilito dal presente Statuto. Al fine di conseguire l'equilibrio della rappresentanza dei sessi, la medesima legge promuove condizioni di parita' per l'accesso alle consultazioni elettorali. ((5))
 
@@ -116,23 +116,23 @@ b) la cifra nove riferita al numero dei candidati della lista regionale, ovunque
 
 c) la cifra cinquantaquattro corrispondente al numero massimo dei seggi attribuibili al fine di agevolare la formazione di una stabile maggioranza, ovunque ricorra, e' da intendere quarantadue".
 
-##### Art. 4
+#### Art. 4
 
 L'Assemblea regionale elegge nel suo seno il Presidente, due Vice Presidenti, i Segretari dell'Assemblea, e le Commissioni permanenti, secondo le norme del suo regolamento interno, che contiene altresi' le disposizioni circa l'esercizio delle funzioni spettanti all'Assemblea regionale.
 
-##### Art. 5
+#### Art. 5
 
 I Deputati, prima di essere ammessi all'esercizio delle loro funzioni, prestano nell'Assemblea il giuramento di esercitarle col solo scopo del bene inseparabile dell'Italia e della Regione.
 
-##### Art. 6
+#### Art. 6
 
 I Deputati non sono sindacabili per i voti dati nell'Assemblea regionale e per le opinioni espresse nell'esercizio della loro funzione.
 
-##### Art. 7
+#### Art. 7
 
 I Deputati hanno il diritto di interpellanza, di interrogazione e di mozione in seno all'Assemblea.
 
-##### Art. 8
+#### Art. 8
 
 Il Commissario dello Stato di cui all'art. 27 puo' proporre al Governo dello Stato lo scioglimento della Assemblea regionale per persistente violazione del presente Statuto, Il decreto di scioglimento deve essere preceduto dalla deliberazione delle Assemblee legislative dello Stato.
 
@@ -142,7 +142,7 @@ Tale Commissione indice le nuove elezioni per l'Assemblea regionale nel termine 
 
 ((Con decreto motivato del Presidente della Repubblica e con l'osservanza delle forme di cui al secondo e al terzo comma e' disposta la rimozione del Presidente della Regione, se eletto a suffragio universale e diretto, che abbia compiuto atti contrari alla Costituzione o reiterate e gravi violazioni di legge. La rimozione puo' altresi' essere disposta per ragioni di sicurezza nazionale.))
 
-##### Art. 8-bis
+#### Art. 8-bis
 
 ((Le contemporanee dimissioni della meta' piu' uno dei
 
@@ -152,9 +152,9 @@ Le nuove elezioni hanno luogo entro novanta giorni a decorrere dalla data delle 
 
 Nel periodo tra lo scioglimento dell'Assemblea e la nomina del nuovo Governo regionale il Presidente e gli Assessori possono compiere atti di ordinaria amministrazione.))
 
-## SEZIONE II. - ((Presidente della Regione e Giunta regionale.))
+### SEZIONE II. - ((Presidente della Regione e Giunta regionale.))
 
-##### Art. 9
+#### Art. 9
 
 ((Il Presidente della Regione e' eletto a suffragio
 
@@ -172,7 +172,7 @@ La Giunta regionale e' composta dal Presidente e dagli Assessori.
 
 Questi sono preposti ai singoli rami dell'Amministrazione.))
 
-##### Art. 10
+#### Art. 10
 
 ((L'Assemblea regionale puo' approvare a maggioranza
 
@@ -182,17 +182,15 @@ In caso di dimissioni, di rimozione, di impedimento permanente o di morte del Pr
 
 ## TITOLO II. - FUNZIONI DEGLI ORGANI REGIONALI.
 
-### SEZIONE I.
+### SEZIONE I. - Funzioni dell'Assemblea regionale.
 
-#### Funzioni dell'Assemblea regionale.
-
-##### Art. 11
+#### Art. 11
 
 L'Assemblea regionale e' convocata dal suo Presidente in sessione ordinaria nella prima settimana di ogni bimestre e, straordinariamente, a richiesta del Governo regionale, o di almeno
 
 venti Deputati
 
-##### Art. 12
+#### Art. 12
 
 ((L'iniziativa delle leggi regionali spetta al Governo e a ciascun Deputato dell'Assemblea regionale. Il popolo esercita l'iniziativa delle leggi mediante presentazione, da parte di almeno diecimila cittadini iscritti nelle liste elettorali dei comuni della Regione, di un progetto redatto in articoli. L'iniziativa legislativa spetta altresi' ad un numero di consigli dei comuni della Regione non inferiore a quaranta, rappresentativi di almeno il 10 per cento della popolazione siciliana, o ad almeno tre consigli provinciali.
 
@@ -202,7 +200,7 @@ I progetti di legge sono elaborati dalle Commissioni dell'Assemblea regionale co
 
 I regolamenti per l'esecuzione delle leggi formate dall'Assemblea regionale sono emanati dal governo regionale.
 
-##### Art. 13
+#### Art. 13
 
 Le leggi approvate dall'Assemblea regionale ed i regolamenti emanati dal Governo regionale non sono perfetti, se mancanti della firma del ((Presidente della Regione)) e degli Assessori competenti per materia.
 
@@ -210,11 +208,11 @@ Sono promulgati dal ((Presidente della Regione)) decorsi i termini di cui all'ar
 
 Entrano in vigore nella Regione quindici giorni dopo la pubblicazione, salvo, diversa disposizione, compresa nella singola legge o nel singolo regolamento.
 
-##### Art. 13-bis
+#### Art. 13-bis
 
 ((Con legge approvata a maggioranza assoluta dei componenti l'Assemblea regionale sono disciplinati l'ambito e le modalita' del referendum regionale abrogativo, propositivo e consultivo.))
 
-##### Art. 14
+#### Art. 14
 
 L'Assemblea, nell'ambito della Regione e nei limiti delle leggi costituzionali dello Stato, senza pregiudizio delle riforme agrarie e industriali deliberate dalla Costituente del popolo italiano, ha la legislazione esclusiva sulle seguenti materie:
 
@@ -252,7 +250,7 @@ r) istruzione elementare, musei, biblioteche, accademie;
 
 s) espropriazione per pubblica utilita'.
 
-##### Art. 15
+#### Art. 15
 
 Le circoscrizioni provinciali e gli organi ed enti pubblici che ne derivano sono soppressi nell'ambito della Regione siciliana.
 
@@ -260,11 +258,11 @@ L'ordinamento degli enti locali si basa nella Regione stessa sui comuni e sui li
 
 Nel quadro di tali principi generali spetta alla Regione ha legislazione esclusiva e l'esecuzione diretta in materia di circoscrizione, ordinamento e controllo degli enti locali.
 
-##### Art. 16
+#### Art. 16
 
 L'ordinamento amministrativo di cui all'articolo precedente sara' regolato, sulla base dei principi stabiliti dal presente Statuto, dalla prima Assemblea regionale.
 
-##### Art. 17
+#### Art. 17
 
 Entro i limiti dei principi ed interessi generali cui si informa la legislazione dello Stato, l'Assemblea regionale puo', al fine di soddisfare alle condizioni particolari ed agli interessi propri della Regione, emanare leggi, anche relative all'organizzazione dei servizi, sopra le seguenti materie concernenti la Regione:
 
@@ -286,7 +284,7 @@ h) assunzione di pubblici servizi;
 
 i) tutte le altre materie che implicano servizi di prevalente interesse regionale.
 
-##### Art. 17-bis
+#### Art. 17-bis
 
 ((Le leggi di cui all'articolo 3, primo comma,
 
@@ -294,11 +292,11 @@ all'articolo 8-bis, all'articolo 9, terzo comma, e all'articolo 41-bis sono sott
 
 Se le leggi sono state approvate a maggioranza dei due terzi dei componenti l'Assemblea regionale, si fa luogo a referendum soltanto se, entro tre mesi dalla loro pubblicazione, la richiesta e' sottoscritta da un trentesimo degli aventi diritto al voto per l'elezione dell'Assemblea regionale.))
 
-##### Art. 18
+#### Art. 18
 
 L'Assemblea regionale puo' emettere voti, formulare progetti sulle materie di competenze degli organi dello Stato che possano interessare la Regione, e presentarli alle Assemblee legislative dello Stato.
 
-##### Art. 19
+#### Art. 19
 
 L'Assemblea regionale, non piu' tardi del mese di gennaio, approva il bilancio della Regione per il prossimo nuovo esercizio, predisposto dalla Giunta regione le.
 
@@ -306,15 +304,15 @@ L'esercizio finanziario ha la stessa decorrenza di quello dello Stato.
 
 All'approvazione della stessa Assemblea e' pure sottoposto il rendiconto generale della Regione.
 
-## SEZIONE II. - Funzioni del Presidente e della Giunta regionale.
+### SEZIONE II. - Funzioni del Presidente e della Giunta regionale.
 
-##### Art. 20
+#### Art. 20
 
 Il Presidente e gli Assessori regionali, oltre alle funzioni esercitate in base agli articoli 12, 13 comma 1 e 2; 19 comma 1, svolgono nella Regione le funzioni esecutive ed amministrative concernenti le materie di cui agli articoli 14, 15 e 17. Sulle altre non comprese negli articoli 14, 15 e 17 svolgono un'attivita' amministrativa secondo le direttive del Governo dello Stato.
 
 Essi sono responsabili di tutte le loro funzioni, rispettivamente, di fronte all'Assemblea regionale ed al Governo dello Stato.
 
-##### Art. 21
+#### Art. 21
 
 Il Presidente e' Capo del Governo regionale e rappresenta la Regione.
 
@@ -322,13 +320,13 @@ Egli rappresenta altresi' nella Regione, il Governo dello. Stato, che puo' tutta
 
 Col rango di Ministro partecipa al Consiglio dei Ministri con voto deliberativo nelle materie che interessano la Regione.
 
-##### Art. 22
+#### Art. 22
 
 La Regione ha diritto di partecipare con un suo rappresentante, nominato dal Governo regionale, alla formazione delle tariffe ferroviarie dello Stato ed alla istituzione e regolamentazione del servizi nazionali di comunicazione e trasporti, terrestri, marittimi ed aerei, che possano comunque interessare la Regione.
 
 ## TITOLO III. - ORGANI GIURISDIZIONALI.
 
-##### Art. 23
+#### Art. 23
 
 Gli organi giurisdizionali centrali avranno in Sicilia le rispettive sezioni per gli affari concernenti la Regione.
 
@@ -338,7 +336,7 @@ I magistrati della Corte dei conti sono nominati, di accordo, dai Governi dello 
 
 I ricorsi amministrativi, avanzati in linea straordinaria contro atti amministrativi regionali, saranno decisi dal ((Presidente della Regione)), sentite le Sezioni regionali del Consiglio di Stato.
 
-##### Art. 24
+#### Art. 24
 
 E' istituita in Roma un'Alta Corte con sei membri e due supplenti, oltre il Presidente ed il Procuratore generale nominato in pari numero dalle Assemblee legislative dello Stato e della Regione, e scelti fra persone di speciale competenza in materia giuridica.
 
@@ -346,7 +344,7 @@ Il Presidente ed il Procuratore generale sono nominati dalla stessa Alta Corte.
 
 L'onere finanziario riguardante l'Alta Corte e' ripartito egualmente fra lo Stato e la Regione.
 
-##### Art. 25
+#### Art. 25
 
 L'Alta Corte giudica sulla costituzionalita':
 
@@ -354,7 +352,7 @@ a) delle leggi emanate dall'Assemblea regionale;
 
 b) delle leggi e dei regolamenti emanati dallo Stato, rispetto al presente statuto ed ai fini della efficacia dei medesimi entro la Regione.
 
-##### Art. 26
+#### Art. 26
 
 L'Alta Corte giudica pure del reati compiuti dal Presidente e dagli Assessori regionali nell'esercizio delle funzioni di cui al presente Statuto, ed accusati dall'Assemblea regionale.
 
@@ -366,7 +364,7 @@ La Corte Costituzionale, con sentenza 15-22 gennaio 1970, n. 6, (in
 
 G.U. 1a s.s. 28/01/1970, n. 24) ha dichiarato "la illegittimita' costituzionale degli artt. 26 e 27 del decreto legislativo 15 maggio 1946, n 455, che approva lo Statuto della Regione siciliana".
 
-##### Art. 27
+#### Art. 27
 
 Un Commissario, nominato dal Governo dello Stato, promuove presso l'Alta Corte i giudizi di cui agli articoli 25 e 26 e, in quest'ultimo caso, anche in mancanza di accuse da parte dell'Assemblea regionale.
 
@@ -378,23 +376,23 @@ La Corte Costituzionale, con sentenza 15-22 gennaio 1970, n. 6, (in
 
 G.U. 1a s.s. 28/01/1970, n. 24) ha dichiarato "la illegittimita' costituzionale degli artt. 26 e 27 del decreto legislativo 15 maggio 1946, n 455, che approva lo Statuto della Regione siciliana".
 
-##### Art. 28
+#### Art. 28
 
 Le leggi dell'Assemblea regionale sono inviate entro tre giorni dall'approvazione al Commissario dello Stato, che entro i successivi cinque giorni puo' impugnarle davanti l'Alta Corte.
 
-##### Art. 29
+#### Art. 29
 
 L'Alta Corte decide sulle impugnazione entro venti giorni dalla ricevuta delle medesime.
 
 Decorsi otto giorni, senza che al ((Presidente della Regione)) sia pervenuta copia dell'impugnazione, ovvero scorsi trenta giorni dalla impugnazione, senza che al ((Presidente della Regione)) sia pervenuta da parte dell'Alta Corte sentenza di annullamento, le leggi sono promulgate ed immediatamente pubblicate nella Gazzetta Ufficiale della Regione.
 
-##### Art. 30
+#### Art. 30
 
 Il ((Presidente della Regione)), anche su voto dell'Assemblea regionale, ed il Commissario di cui all'art. 27, possono impugnare per incostituzionalita' davanti l'Alta Corte le leggi ed i regolamenti dello Stato, entro trenta giorni dalla pubblicazione.
 
 ## TITOLO IV. - POLIZIA.
 
-##### Art. 31
+#### Art. 31
 
 Al mantenimento dell'ordine pubblico provvede il ((Presidente della Regione)) a mezzo della polizia dello Stato, la quale nella Regione dipende disciplinarmente, per l'impiego e l'utilizzazione, dal Governo, regionale. Il Presidente della Regione puo' chiedere l'impiego delle Forze armate dello Stato.
 
@@ -406,37 +404,37 @@ Il Governo regionale puo' organizzare corpi speciali di polizia amministrativa p
 
 ## TITOLO V. - PATRIMONIO E FINANZE.
 
-##### Art. 32
+#### Art. 32
 
 I beni di demanio dello Stato, comprese le acque pubbliche esistenti nella Regione, sono assegnati alla Regione, eccetto quelli che interessano la difesa, dello Stato o servizi di carattere nazionale.
 
-##### Art. 33
+#### Art. 33
 
 Sono altresi' assegnati alla Regione e costituiscono il suo patrimonio, i beni dello Stato oggi esistenti nel territorio della Regione e che non sono della specie di quelli indicati nell'articolo precedente.
 
 Fanno parte del patrimonio indisponibile della Regione: le foreste, che a norma delle leggi in materia costituiscono oggi il demanio forestale dello Stato nella Regionale; le miniere, le cave e torbiere, quando la disponibilita' ne e' sottratta al proprietario del fondo; le cose d'interesse storico, archeologico, paletnologico, paleontologico ed artistico, da chiunque, ed in qualunque modo ritrovate nel sottosuolo regionale; gli edifici destinati a sede di uffici pubblici della Regione coi loro arredi e gli altri beni destinati a un pubblico servizio della Regione.
 
-##### Art. 34
+#### Art. 34
 
 I beni immobili che si trovano nella Regione e che non sono in proprieta' di alcuno, spettano al patrimonio della Regione.
 
-##### Art. 35
+#### Art. 35
 
 Gli impegni gia' assunti dallo Stato verso gli, enti regionali sono mantenuti con adeguamento al valore della moneta all'epoca del pagamento.
 
-##### Art. 36
+#### Art. 36
 
 Al fabbisogno finanziario della Regione si provvede con i redditi patrimoniali della Regione a mezzo di tributi, deliberati dalla medesima.
 
 Sono pero' riservate allo Stato le imposte di produzione e le entrate dei monopoli dei tabacchi e del lotto.
 
-##### Art. 37
+#### Art. 37
 
 Per le imprese industriali e commerciali, che hanno la sede centrale fuori del territorio della Regione, ma, che in essa hanno stabilimenti ed impianti, nell'accertamento dei redditi viene determinata la quota del reddito da attribuire agli stabilimenti ed impianti medesimi.
 
 L'imposta relativa a detta quota, compete alla Regione ed e' riscossa dagli organi di riscossione della medesima.
 
-##### Art. 38
+#### Art. 38
 
 Lo Stato versera', annualmente alla Regione, a titolo di solidarieta' nazionale, una somma da impiegarsi, in base ad un piano economico, nell'esecuzione di lavori pubblici.
 
@@ -444,7 +442,7 @@ Questa somma tendera' a bilanciare il minore ammontare dei redditi di lavoro nel
 
 Si procedera' ad una revisione quinquennale della detta assegnazione con riferimento alle variazioni dei dati assunti per il precedente computo.
 
-##### Art. 39
+#### Art. 39
 
 Il regime doganale della. Regione e' di esclusiva competenza dello Stato.
 
@@ -452,19 +450,19 @@ Le tariffe doganali, per quanto interessa la Regione e relativamente ai limiti m
 
 Sono esenti da ogni dazio doganale le macchine e gli arnesi di lavoro agricolo, nonche' il macchinario attinente alla trasformazione industriale dei prodotti agricoli della Regione.
 
-##### Art. 40
+#### Art. 40
 
 Le disposizioni generali sul controllo valutario emanate dallo Stato hanno vigore anche nella Regione.
 
 E' pero' istituita presso il Banco di Sicilia, finche' permane il regime vincolistico sulle valute, una Camera di compensazione allo scopo di destinare ai bisogni della Regione le valute estere provenienti dalle esportazioni siciliane, dalle rimesse degli emigranti, dal turismo e dai ricavo dei noli di navi iscritte nei compartimenti siciliani.
 
-##### Art. 41
+#### Art. 41
 
 Il Governo della Regione ha facolta' di emettere prestiti interni.
 
 ## ((Disposizioni finali e transitorie))
 
-##### Art. 41-bis
+#### Art. 41-bis
 
 ((Le disposizioni relative alla forma di governo di cui
 
@@ -476,7 +474,7 @@ Nel caso in cui il Presidente della Regione sia eletto
 
 dall'Assemblea regionale, l'Assemblea e' sciolta quando non sia in grado di funzionare per l'impossibilita' di formare una maggioranza entro sessanta giorni dalle elezioni o dalle dimissioni del Presidente stesso.))
 
-##### Art. 41-ter
+#### Art. 41-ter
 
 ((Per le modificazioni del presente Statuto si applica il
 
@@ -490,13 +488,13 @@ Le modificazioni allo Statuto approvate non sono comunque
 
 sottoposte a referendum nazionale.))
 
-##### Art. 42
+#### Art. 42
 
 L'Alto Commissario e la Consulta regionale della Sicilia, compresi i tecnici, restano in carica con le attuali funzioni fino alla prima elezione dell'Assemblea regionale, che avra' luogo, a cura del Governo dello Stato, entro tre mesi dall'approvazione del presente Statuto, in base alla emananda legge elettorale politica dello Stato.
 
 Le circoscrizioni dei collegi elettorali sono, pero', determinate in numero di nove, in corrispondenza alle attuali circoscrizioni provinciali; e ripartendo il numero dei Deputati in base alla popolazione di ogni circoscrizione.
 
-##### Art. 43
+#### Art. 43
 
 Una Commissione paritetica di quattro membri nominati dell'Alto Commissario della Sicilia e dal Governo dello Stato, determinera' le norme transitorie relative al passaggio de gli uffici e del personale dello Stato alla Regione, nonche' le norme per l'attuazione del presente Statuto.
 

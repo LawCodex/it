@@ -60,11 +60,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - DISPOSIZIONI GENERALI
 
-### DISPOSIZIONI GENERALI
-
-#### Art. 1
+### Art. 1
 
 Oggetto
 
@@ -116,7 +114,7 @@ Oggetto
 
 > \- L'art. 8 del decreto legislativo 28 agosto 1997, n. 281 (Definizione ed ampliamento delle attribuzioni della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano ed unificazione, per le materie ed i compiti di interesse comune delle regioni, delle province e dei comuni, con la Conferenza Stato-citta' ed autonomie locali.) e' pubblicato nella Gazzetta Ufficiale del 30 agosto 1997, n. 202.
 
-#### Art. 2
+### Art. 2
 
 Ambito di applicazione
 
@@ -148,7 +146,7 @@ l) alle apparecchiature appositamente concepite per attivita' di ricerca e svilu
 
 3\. Sono altresi' fatte salve le disposizioni in materia di sicurezza e di salute e in materia di sostanze chimiche, in particolare il Regolamento (CE) n. 1907/2006, e la normativa specifica dell'Unione sulla gestione dei rifiuti.
 
-#### Art. 3
+### Art. 3
 
 Definizioni
 
@@ -210,7 +208,7 @@ ff) 'pezzo di ricambio', una parte distinta di un'AEE che puo' sostituire una pa
 
 ((gg) "macchine mobili non stradali destinate ad esclusivo uso professionale", le macchine dotate di una fonte di alimentazione a bordo o con dispositivo di trazione collegato ad una fonte di alimentazione esterna, il cui funzionamento richiede mobilita' o movimento continuo o semicontinuo, durante il lavoro, tra una serie di postazioni di lavoro fisse e che sono destinate a esclusivo uso professionale.))
 
-#### Art. 4
+### Art. 4
 
 Prevenzione
 
@@ -258,7 +256,7 @@ e) recuperati da tutte le AEE che non rientravano nell'ambito di applicazione de
 
 6\. Il comma 1 non si applica alle applicazioni elencate agli allegati III e IV.
 
-#### Art. 5
+### Art. 5
 
 Adattamento degli allegati III e IV al progresso tecnico e scientifico
 
@@ -286,7 +284,7 @@ a) le misure adottate dalla Commissione, consistenti nella inclusione dei materi
 
 ((b) per le esenzioni di cui all'allegato III della direttiva 2011/65/UE, vigente alla data del 21 luglio 2011, il periodo di validita' massima, che puo' essere prorogato, e' di cinque anni per le categorie da 1 a 7 e 10 dell'allegato I, a decorrere dal 21 luglio 2011, di sette anni per le categorie 8 e 9 dell'allegato I, a decorrere dalle date pertinenti di cui all'articolo 4, comma 3, e di cinque anni per la categoria 11 dell'allegato I, a decorrere dal 22 luglio 2019, salvo che non sia specificato un periodo piu' breve;)) c) per le esenzioni di cui all'allegato IV, il periodo di validita' massima, che puo' essere prorogato, e' di sette anni a decorrere dalle date pertinenti di cui all'articolo 4, comma 3, salvo che non sia specificato un periodo piu' breve.
 
-#### Art. 6
+### Art. 6
 
 Riesame e modifica dell'elenco delle sostanze
 
@@ -310,11 +308,9 @@ f) il motivo per cui si ritiene che una restrizione a livello di Unione rapprese
 
 g) una valutazione socio-economica.
 
-## Capo II
+## Capo II - OBBLIGHI DEGLI OPERATORI ECONOMICI
 
-### OBBLIGHI DEGLI OPERATORI ECONOMICI
-
-#### Art. 7
+### Art. 7
 
 Obblighi dei fabbricanti
 
@@ -342,7 +338,7 @@ Obblighi dei fabbricanti
 
 > \- Per la decisione n. 768/2008/CE, si veda nelle note alle premesse.
 
-#### Art. 8
+### Art. 8
 
 Obblighi dei mandatari
 
@@ -358,7 +354,7 @@ b) a seguito di una richiesta motivata della predetta autorita' di vigilanza, fo
 
 c) cooperare con la predetta autorita' di vigilanza, su sua richiesta, in merito a qualsiasi azione intrapresa per garantire la conformita' al presente decreto delle AEE che rientrano nel loro mandato.
 
-#### Art. 9
+### Art. 9
 
 Obblighi degli importatori
 
@@ -378,7 +374,7 @@ Obblighi degli importatori
 
 8\. Gli importatori, a seguito di una richiesta motivata della predetta autorita' di vigilanza, forniscono tutte le informazioni e la documentazione necessarie per dimostrare la conformita' dell'AEE con il presente decreto, in lingua italiana, e cooperano con tale autorita', su richiesta di quest'ultima, in merito a qualsiasi azione intrapresa per garantire la conformita' al presente decreto delle AEE che hanno immesso sul mercato.
 
-#### Art. 10
+### Art. 10
 
 Obblighi dei distributori
 
@@ -390,7 +386,7 @@ Obblighi dei distributori
 
 4\. I distributori, a seguito di una richiesta motivata della predetta autorita' di vigilanza, forniscono a quest'ultima tutte le informazioni e la documentazione necessarie per dimostrare la conformita' dell'AEE con il presente decreto e cooperano con tale autorita', su richiesta di quest'ultima, in merito a qualsiasi azione intrapresa per garantire la conformita' al presente decreto delle AEE che hanno messo a disposizione sul mercato.
 
-#### Art. 11
+### Art. 11
 
 Casi in cui gli obblighi dei fabbricanti
 
@@ -398,7 +394,7 @@ si applicano agli importatori e ai distributori
 
 1\. Un importatore o distributore e' ritenuto un fabbricante ai fini del presente decreto ed e' soggetto agli obblighi del fabbricante di cui all'articolo 7 quando immette sul mercato AEE con il proprio nome o marchio commerciale o modifica AEE gia' immesse sul mercato in modo tale che la conformita' alle prescrizioni applicabili possa esserne condizionata.
 
-#### Art. 12
+### Art. 12
 
 Identificazione degli operatori economici
 
@@ -408,11 +404,9 @@ a) qualsiasi operatore economico che abbia fornito loro un'AEE;
 
 b) qualsiasi operatore economico a cui abbiano fornito un'AEE.
 
-## Capo III
+## Capo III - CONFORMITA' DELLE AEE
 
-### CONFORMITA' DELLE AEE
-
-#### Art. 13
+### Art. 13
 
 Dichiarazione UE di conformita'
 
@@ -424,7 +418,7 @@ Dichiarazione UE di conformita'
 
 4\. Con la dichiarazione UE di conformita' il fabbricante si assume la responsabilita' della conformita' dell'AEE al presente decreto.
 
-#### Art. 14
+### Art. 14
 
 Documentazione del prodotto
 
@@ -436,7 +430,7 @@ Documentazione del prodotto
 
 4\. Nel caso il fabbricante non osservi gli obblighi di cui ai commi 1, 2 e 3, la predetta autorita' di vigilanza puo' richiedere che il fabbricante faccia effettuare a proprie spese una prova, entro un termine determinato, da parte di un organismo notificato per verificare la conformita' alle norme armonizzate e ai requisiti di cui all'articolo 4.
 
-#### Art. 15
+### Art. 15
 
 Principi generali della marcatura CE
 
@@ -446,7 +440,7 @@ Principi generali della marcatura CE
 
 > \- Per il Regolamento (CE) n. 765/2008, si veda nelle note alle premesse.
 
-#### Art. 16
+### Art. 16
 
 Regole e condizioni per l'apposizione
 
@@ -456,7 +450,7 @@ della marcatura CE
 
 2\. La marcatura CE e' apposta sull'AEE prima della sua immissione sul mercato.
 
-#### Art. 17
+### Art. 17
 
 Presunzione di conformita'
 
@@ -464,7 +458,7 @@ Presunzione di conformita'
 
 2\. Si presume che siano conformi alle prescrizioni del presente decreto i materiali, i componenti e le AEE sottoposti a prove o a misure a dimostrazione della conformita' alle prescrizioni dell'articolo 4 ovvero a valutazioni in conformita' a norme armonizzate i cui riferimenti sono stati pubblicati nella Gazzetta ufficiale dell'Unione europea.
 
-#### Art. 18
+### Art. 18
 
 Obiezione formale a una norma armonizzata
 
@@ -476,11 +470,9 @@ Obiezione formale a una norma armonizzata
 
 > \- Per la direttiva 98/34/CE, si veda nelle note alle premesse.
 
-## Capo IV
+## Capo IV - VIGILANZA E SANZIONI
 
-### VIGILANZA E SANZIONI
-
-#### Art. 19
+### Art. 19
 
 Vigilanza del mercato
 
@@ -488,7 +480,7 @@ Vigilanza del mercato
 
 ((1-bis. I Ministeri dello sviluppo economico, dell'ambiente e della tutela del territorio e del mare e della salute svolgono le funzioni di cui al comma 1 sulla base di uno specifico protocollo d'intesa, in coordinamento con il "Comitato tecnico di Coordinamento" di cui all'articolo 7 del decreto del Ministro della salute del 22 novembre 2007, pubblicato nella Gazzetta Ufficiale n. 12 del 15 gennaio 2008, nonche' in raccordo con le regioni e province autonome, ai fini del coordinamento tra le rispettive articolazioni organizzative, sulla base dei vigenti accordi in materia per gli ambiti di competenza.))
 
-#### Art. 20
+### Art. 20
 
 Controlli
 
@@ -508,7 +500,7 @@ Controlli
 
 > \- Per il Regolamento (CE) n. 765/2008, si veda nelle note alle premesse.
 
-#### Art. 21
+### Art. 21
 
 Sanzioni
 
@@ -536,11 +528,9 @@ Sanzioni
 
 12\. Le sanzioni amministrative di cui al presente articolo sono irrogate dalla Camera di commercio, industria, artigianato e agricoltura territorialmente competente.
 
-## Capo V
+## Capo V - DISPOSIZIONI FINALI
 
-### DISPOSIZIONI FINALI
-
-#### Art. 22
+### Art. 22
 
 Aggiornamento
 
@@ -550,7 +540,7 @@ Aggiornamento
 
 > \- Per la direttiva 2011/65/UE si veda nelle note alle premesse.
 
-#### Art. 23
+### Art. 23
 
 Abrogazione
 
@@ -562,11 +552,11 @@ Abrogazione
 
 > \- Per il decreto legislativo 25 luglio 2005, n. 151, si veda nelle note alle premesse.
 
-#### Art. 24
+### Art. 24
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2020, N. 42))
 
-#### Art. 25
+### Art. 25
 
 Disposizioni finanziarie
 
@@ -600,7 +590,7 @@ Visto, il Guardasigilli: Orlando
 
 ## Allegati
 
-#### Allegato I
+### Allegato I
 
 Allegato I
 
@@ -628,7 +618,7 @@ Categorie di AEE disciplinate dal presente decreto
 
 11\. Altre AEE non comprese nelle categorie sopra elencate
 
-#### Allegato II
+### Allegato II
 
 Allegato II
 
@@ -660,7 +650,7 @@ La restrizione concernente DEHP, BBP, DBP e DIBP non si applica ai cavi o ai pez
 
 La restrizione concernente DEHP, BBP e DBP non si applica ai giocattoli che sono gia' soggetti alla restrizione concernente DEHP, BBP eDBP di cui all'allegatoXVII, voce51, del regolamento (CE) n.1907/2006.))
 
-#### Allegato III
+### Allegato III
 
 Allegato III
 
@@ -2131,7 +2121,7 @@ Il Decreto 20 giugno 2024 (in G.U. 22/08/2024, n. 196) ha disposto
 
 (con l'art. 2, comma 1) che "Le disposizioni di cui all'art. 1 si applicano a decorrere dal 1° agosto 2024".
 
-#### Allegato IV
+### Allegato IV
 
 Allegato IV
 
@@ -2500,7 +2490,7 @@ Il Decreto 14 dicembre 2023 (in G.U. 24/01/2024, n. 19) ha disposto
 
 (con l'art. 2, comma 1) che "Le disposizioni di cui all'art. 1 si applicano a decorrere dal 1° febbraio 2024".
 
-#### Allegato V
+### Allegato V
 
 Allegato V
 
@@ -2530,7 +2520,7 @@ i) all'atto della richiesta di un'esenzione, una proposta di formulazione chiara
 
 l) una sintesi della domanda.
 
-#### Allegato VI
+### Allegato VI
 
 Allegato VI
 

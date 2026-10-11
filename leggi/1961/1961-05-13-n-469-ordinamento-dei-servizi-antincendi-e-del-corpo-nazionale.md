@@ -136,9 +136,7 @@ l) curano la preparazione tecnica delle squadre antincendi delle ditte comunque 
 
 ## TITOLO III - Personale
 
-### CAPO I
-
-#### DISPOSIZIONI GENERALI
+### CAPO I - DISPOSIZIONI GENERALI
 
 ##### Art. 14
 
@@ -166,9 +164,9 @@ Il personale volontario, in servizio da almeno tre mesi, su richiesta del Minist
 
 Al personale permanente del Corpo nazionale dei vigili del fuoco si applicano le norme sullo statuto degli impiegati civili dello Stato, salvo le particolari disposizioni di cui alla presente legge.
 
-## CAPO II - PERSONALE PERMANENTE STATO GIURIDICO
+### CAPO II - PERSONALE PERMANENTE STATO GIURIDICO
 
-### SEZIONE I - Reclutamento
+#### SEZIONE I - Reclutamento
 
 ##### Art. 20
 
@@ -256,7 +254,7 @@ prestato nel Corpo nazionale dei vigili del fuoco servizio per la durata comples
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-## SEZIONE II. - Avanzamento.
+#### SEZIONE II. - Avanzamento.
 
 ##### Art. 28
 
@@ -376,7 +374,7 @@ prestato nel Corpo nazionale dei vigili del fuoco servizio per la durata comples
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-## SEZIONE IV - Matrimonio
+#### SEZIONE IV - Matrimonio
 
 ##### Art. 57
 
@@ -390,7 +388,7 @@ prestato nel Corpo nazionale dei vigili del fuoco servizio per la durata comples
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-## SEZIONE V. - Cessazione dal servizio.
+#### SEZIONE V. - Cessazione dal servizio.
 
 ##### Art. 60
 
@@ -428,7 +426,7 @@ prestato nel Corpo nazionale dei vigili del fuoco servizio per la durata comples
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-## CAPO III - PERSONALE VOLONTARIO
+### CAPO III - PERSONALE VOLONTARIO
 
 ##### Art. 69
 
@@ -454,9 +452,7 @@ prestato nel Corpo nazionale dei vigili del fuoco servizio per la durata comples
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-## CAPO IV - PERSONALE PERMANENTE
-
-### Trattamento economico
+### CAPO IV - PERSONALE PERMANENTE Trattamento economico
 
 ##### Art. 75
 

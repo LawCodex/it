@@ -27,15 +27,15 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la convenzione sui diritti del fanciullo, fatta a New York il 20 novembre 1989.
 
-### Art. 2
+## Art. 2
 
 1\. Piena ed intera esecuzione e' data alla convenzione di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore in conformita' a quanto disposto dall'articolo 49 della convenzione stessa.
 
-### Art. 3
+## Art. 3
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -51,7 +51,7 @@ Visto, il Guardasigilli: MARTELLI
 
 ## Allegati
 
-### Convention
+## Convention
 
 Parte di provvedimento in formato grafico
 
@@ -93,17 +93,17 @@ Riconoscendo l'importanza della cooperazione internazionale per il miglioramento
 
 Hanno convenuto quanto segue:
 
-### Articolo primo
+## Articolo primo
 
 Ai sensi della presente Convenzione si intende per fanciullo ogni essere umano avente un'eta' inferiore a diciott'anni, salvo se abbia raggiunto prima la maturita' in virtu' della legislazione applicabile.
 
-### Articolo 2
+## Articolo 2
 
 1\. Gli Stati parti si impegnano a rispettare i diritti enunciati nella presente Convenzione ed a garantirli ad ogni fanciullo che dipende dalla loro giurisdizione, senza distinzione di sorta ed a prescindere da ogni considerazione di razza, di colore, di sesso, di lingua, di religione, di opinione politica o altra del fanciullo o dei suoi genitori o rappresentanti legali, dalla loro origine nazionale, etnica o sociale, dalla loro situazione finanziaria, dalla loro incapacita', dalla loro nascita o da ogni altra circostanza;
 
 2\. Gli Stati parti adottano tutti i provvedimenti appropriati affinche' il fanciullo sia effettivamente tutelato contro ogni forma di discriminazione o di sanzione motivate dalla condizione sociale, dalle attivita', opinioni professate o convinzioni dei suoi genitori, dei suoi rappresentanti legali o dei suoi familiari.
 
-### Articolo 3
+## Articolo 3
 
 1\. In tutte le decisioni relative ai fanciulli, di competenza sia delle istituzioni pubbliche o private di assistenza sociale, dei tribunali, delle autorita' amministrative o degli organi legislativi, l'interesse superiore del fanciullo deve essere una considerazione preminente.
 
@@ -111,33 +111,33 @@ Ai sensi della presente Convenzione si intende per fanciullo ogni essere umano a
 
 3\. Gli Stati parti vigilano affinche' il funzionamento delle istituzioni, servizi ed istituti che hanno la responsabilita' dei fanciulli e che provvedono alla loro protezione sia conforme alle norme stabilite dalle Autorita' competenti in particolare nell'ambito della sicurezza e della salute e per quanto riguarda il numero e la competenza del loro personale nonche' l'esistenza di un adeguato controllo.
 
-### Articolo 4
+## Articolo 4
 
 Gli Stati parti si impegnano ad adottare tutti i provvedimenti legislativi, amministrativi ed altri, necessari per attuare i diritti riconosciuti dalla presente Convenzione. Trattandosi di diritti economici, sociali e culturali essi adottano tali provvedimenti entro i limiti delle risorse di cui dispongono e, se del caso, nell'ambito della coopperazione interanzionale.
 
-### Articolo 5
+## Articolo 5
 
 Gli Stati parti rispettano la responsabilita', il diritto ed il dovere dei genitori o, se del caso, dei membri della famiglia allargata o della collettivita', come previsto dagli usi locali, dei tutori o altre persone legalmente responsabili del fanciullo, di dare a quest'ultimo, maniera corrispondente allo sviluppo delle sue capacita' l'orientamento ed i consigli adeguati allaesercizio dei diritti che gli sono riconosciuti dalla presente Convenzione.
 
-### Articolo 6
+## Articolo 6
 
 1\. Gli Stati parti riconoscono che ogni fanciullo ha un diritto inerente alla vita.
 
 2\. Gli Stati parti assicurano in tutta la misura del possibile la sopravvivenza e lo sviluppo del fanciullo.
 
-### Articolo 7
+## Articolo 7
 
 1\. Il fanciullo e' registrato immediatamente al momento della sua nascita e da allora ha diritto ad un nome, ad acquisire una cittadinanza e, nella misura del possibile, a conoscere i suoi genitori ed a essere allevato da essi.
 
 2\. Gli Stati parti vigilano affinche' questi diritti siano attuati in conformita con la loro legislazione nazionale e con gli obblighi che sono imposti loro dagli strumenti internazionali applicabili in materia, in particolare nei casi in cui se cio' non fosse fatto, il fanciullo verrebbe a trovarsi apolide.
 
-### Articolo 8
+## Articolo 8
 
 1\. Gli Stati parti si impegnano a rispettare il diritto del fanciullo a perseverare la propria identita, ivi compresa la sua nazionalita', il suo nome e le sue relazioni famigliari, cosi' come sono riconosciute dalla legge, senza ingerenze illegali.
 
 2\. Se un fanciullo e' illegalmente privato degli elementi costitutivi della sua identita' o di alcuni di essi, gli Stati parti devono concedergli adeguata assistenza e protezione affinche' la sua identita sia ristabilita il piu' rapidamente possibile.
 
-### Articolo 9
+## Articolo 9
 
 1\. Gli Stati parti vigilano affinche' il fanciullo non sia separato dai suoi genitori contro la loro volonta' a meno che le autorita competenti non decidano, sotto riserva di revisione giudiziaria e conformemente con le leggi di procedura applicabili, che questa separazione e' necessaria nell'interesse preminente del fanciullo.
 
@@ -149,7 +149,7 @@ Una decisione in questo senso puo' essere necessaria in taluni casi particolari,
 
 4\. Se la separazione e' il risultato di provvedimenti adottati da uno Stato Parte, come la detenzione, l'imprigionamento, l'esilio, l'espulsione o la morte (compresa la morte, quale che ne sia la causa, sopravvenuta durante la detenzione) di entrambi i genitori o di uno di essi, o del fanciullo, lo Stato parte fornisce dietro richiesta ai genitori, al fanciullo oppure, se del caso, ad un altro membro della famiglia, le informazioni essenziali concernenti il luogo dove si trovano il familiare o i familiari, a meno che la divulgazione di tali informazioni possa mettere a repentaglio il benessere del fanciullo. Gli Stati parti vigilano inoltre affinche' la presentazione di tale domanda non comporti di per se' conseguenze pregiudizievoli per la persona o per le persone interessate.
 
-### Articolo 10
+## Articolo 10
 
 1\. In conformita' con l'obbligo che incombe agli Stati parti in virtu' del paragrafo 1 dell'articolo 9, ogni domanda presentata da un fanciullo o dai suoi genitori in vista di entrare in uno Stato Parte o di lasciarlo ai fini di un ricongiungimento familiare sara considerata con uno spirito positivo, con umanita' e diligenza. Gli Stati parti vigilano inoltre affinche' la presentazione di tale domanda non comporti conseguenze pregiudizievoli per gli autori della domanda e per i loro fami liari.
 
@@ -157,19 +157,19 @@ Una decisione in questo senso puo' essere necessaria in taluni casi particolari,
 
 A tal fine, ed in conformita con l'obbligo incombente agli Stati parti, in virtu' del paragrafo 1 dell'articolo 9, gli Stati parti rispettano il diritto del fanciullo e dei suoi genitori di abbandonare ogni paese, compreso il loro e di fare ritorno nel proprio paese. Il diritto di abbandonare ogni paese puo' essere regolamentato solo dalle limitazioni stabilite dalla legislazione, necessarie ai fini della protezione della sicurezza interne, dell'ordine pubblico, della salute o della moralita pubbliche, o dei diritti e delle liberta' di altrui, compatibili con gli altri diritti riconosciuti nella presente Convenzione.
 
-### Articolo 11
+## Articolo 11
 
 1\. Gli Stati parti adottano provvedimenti per impedire gli spostamenti ed i non-ritorni illeciti di fanciulli all'estero.
 
 2\. A tal fine, gli Stati parti favoriscono la conclusione di accordi bilaterali o multilaterali oppure l'adesione ad accordi esistenti.
 
-### Articolo 12
+## Articolo 12
 
 1\. Gli Stati parti garantiscono al fanciullo capace di discernimento il diritto di esprimere liberamente la sua opinione su ogni questione che lo interessa, le opinioni del fanciullo essendo debitamente prese in considerazione tenendo conto della sua eta e del suo grado di maturita.
 
 2\. A tal fine, si dara' in particolare al fanciullo la possibilita' di essere ascoltato in ogni procedura giudiziaria o amministrativa che lo concerne, sia direttamente, sia tramite un rappresentante o un organo appropriato, in maniera compatibile con le regole di procedura della legislazione nazionale;
 
-### Articolo 13
+## Articolo 13
 
 1\. Il fanciullo ha diritto allaliberta di espressione. Questo diritto comprende la liberta di ricercare, di ricevere e di divulgare informazioni ed idee di ogni specie, indipendentemente dalle frontiere, sotto forma orale, scritta, stampata o artistica, o con ogni altro mezzo a scelta del fanciullo.
 
@@ -179,7 +179,7 @@ a) al rispetto dei diritti o della reputazioni di altrui; oppure
 
 b) alla salvaguardia della sicurezza nazionale, dell'ordine pubblico, della salute o della moralita pubbliche.
 
-### Articolo 14
+## Articolo 14
 
 1\. Gli Stati parti rispettano il diritto del fanciullo alla liberta' di pensiero, di coscienza e di religione.
 
@@ -187,19 +187,19 @@ b) alla salvaguardia della sicurezza nazionale, dell'ordine pubblico, della salu
 
 3\. La liberta' di manifestare la propria religione o convinzioni puo' essere soggetta unicamente alle limitazioni prescritte dalla legge, necessarie ai fini del mantenimento della sicurezza pubblica, dell'ordine pubblico, della sanita' e della moralita' pubbliche, oppure delle liberta' e diritti fondamentali dell'uomo.
 
-### Articolo 15
+## Articolo 15
 
 1\. Gli Stati parti riconoscono i diritti del fanciullo alla liberta' di associazione ed alla liberta' di riunirsi pacificamente.
 
 2\. L'esercizio di tali diriti puo' essere oggetto unicamente delle limitazioni stabilite dalla legge, necessarie in un societa' democratica nell'interesse della sicurezza nazionale, della sicurezza o dell'ordine pubblico, oppure per tutelare la sanita' o la moralita' pubbliche, o i diritti e la liberta' altrui.
 
-### Articolo 16
+## Articolo 16
 
 1\. Nessun fanciullo sara' oggetto di interferenze arbitrarie o illegali nella sua vita privata, nella sua famiglia, nel suo domicilio o nella sua corrispondenza, e neppure di affronti illegali al suo onore e alla sua riputazione.
 
 2\. Il fanciullo ha diritto alla protezione della legge contro tali interferenze o tali affronti.
 
-### Articolo 17
+## Articolo 17
 
 Gli Stati parti riconoscono l'importanza della funzione esercitata dai mass-media e vigilano affinche' il fanciullo possa accedere ad una informazione ed a materiali provenienti da fonti nazionali ed internazionali varie, soprattutto se finalizzati a promuovere il suo benessere sociale, spirituale e morale nonche' la sua salute fisica e mentale. A tal fine, gli stati parti:
 
@@ -213,7 +213,7 @@ d) Incoraggiano i mass media a tenere conto in particolar modo delle esigenze li
 
 e) favoriscono l'elaborazione di principi direttivi appropriati destinati a proteggere il fanciullo dalle informazioni e dai materiali che nuocciono al suo benessere in considerazione delle disposizioni degli articoli 13 e 18.
 
-### Articolo 18
+## Articolo 18
 
 1\. Gli Stati parti faranno del loro meglio per garantire il riconoscimento del principio comune secondo il quale entrambi i genitori hanno una responsabilita' comune per quanto riguarda l'educazione del fanciullo ed il provvedere al suo sviluppo. La responsabilita' di allevare il fanciullo e di provvedere al suo sviluppo incombe innanzitutto ai genitori oppure, se del caso ai genitori del fanciullo oppure, se del caso ai suoi rappresentanti legali i quali devono essere guidati principalmente dall'interesse preminente del fanciullo.
 
@@ -221,13 +221,13 @@ e) favoriscono l'elaborazione di principi direttivi appropriati destinati a prot
 
 3\. Gli Stati parti adottano ogni appropriato provvedimento per garantire ai fanciulli i cui genitori lavorano, il diritto di beneficiare dei servizi e degli istituti di assistenza all'infanzia, per i quali essi abbiano i requisiti necessari.
 
-### Articolo 19
+## Articolo 19
 
 1\. Gli Stati parti adottano ogni misura legislativa, amministrativa, sociale ed educativa per tutelare il fanciullo contro ogni forma di violenza, di oltraggio o di brutalita' fisiche o mentali, di abbandono o di negligenza, di maltrattamenti o di sfruttamento, compresa la violenza sessuale, per tutto il tempo in cui e' affidato all'uno o all'altro, o ad entrambi, i suoi genitori, al suo rappresentante legale (o rappresentanti legali), oppure ad ogni altra persona che ha il suo affidamento.
 
 2\. Le suddette misure di protezione concoreranno, in caso di necessita', procedure efficaci per la creazione di programmi sociali finalizzati a fornire l'appoggio necessario al fanciullo e a coloro ai quali egli e' affidato, nonche' per altre forme di prevenzione, ed ai fini dell'individuazione, del rapporto dell'arbitrato, dell'inchiesta, della trattazione e dei seguiti da dare ai casi di maltrattamento del fanciullo di cui sopra; esse dovranno altresi' includere, se necessario, procedure di intervento giudiziario.
 
-### Articolo 20
+## Articolo 20
 
 1\. Ogni fanciullo il quale e' temporaneamente o definitivamente privato del suo ambiente familiare oppure che non puo' essere lasciato in tale ambiente nel suo proprio interesse, ha diritto ad una protezione e ad aiuti speciali dello Stato.
 
@@ -235,7 +235,7 @@ e) favoriscono l'elaborazione di principi direttivi appropriati destinati a prot
 
 3\. Tale protezione sostitutiva puo' in particolare concretizzarsi per mezzo di una famiglia, della kafalah di diritto islamico, dell'adozione o in caso di necessita', del collocamento in un adeguato istituto per l'infanzia. Nell'effettuare una selezione tra queste soluzioni, si terra' debitamente conto della necessita' di una certa continuita' nell'educazione del fanciullo, nonche' della sua origine etnica, religiosa, culturale e linguistica.
 
-### Articolo 21
+## Articolo 21
 
 Gli Stati Parti che ammettono e/o autorizzano l'adozione, si accertano che l'interesse superiore del fanciullo sia la considerazione fondamentale in materia, e:
 
@@ -249,13 +249,13 @@ d) Adottano ogni adeguata misura per vigilare affinche', in caso di adozione all
 
 e) Ricercano le finalita' del presente articolo stipulando accordi o intese bilaterali o multilaterali a seconda dei casi, e si sforzano in questo contesto di vigilare affinche' le sistemazioni di fanciulli all'estero siano effettuate dalle autorita' o dagli organi competenti.
 
-### Articolo 22
+## Articolo 22
 
 1\. Gli Stati parti adottano misure adeguate affinche' un fanciullo il quale cerca di ottenere lo statuto di rifugiato, oppure e' considerato come rifugiato ai sensi delle regole e delle procedure del diritto internazionale o nazionale applicabile, solo o accompagnato dal padre e dalla madre o da ogni altra persona, possa beneficiare della protezione e della assistenza umanitaria necessarie per consentirgli di usufruire dei diritti che gli sono riconosciuti dalla presente Convenzione e dagli altri strumenti internazionali relativi ai diritti dell'uomo o di natura umanitaria di cui detti Stati sono parti.
 
 2\. A tal fine, gli Stati parti collaborano, a seconda di come lo giudichino necessario, a tutti gli sforzi compiuti dall'Organizzazione delle Nazioni Unite e le altre organizzazioni intergovernative o non governative competenti che collaborano con l'Organizzazione delle Nazioni Unite, per proteggere ed aiutare i fanciulli che si trovano in tale situazione e per ricercare i genitori o altri fami liari di ogni fanciullo rifugiato al fine di ottenere le informazioni necessarie per ricongiungerlo alla sua famiglia. Se il padre, la madre o ogni altro familiare sono irreperibili, al fanciullo sara' concessa, secondo i principi enunciati nella presente Convenzione, la stessa protezione di quella di ogni altro fanciullo definitivamente oppure temporaneamente privato del suo ambiente familiare per qualunque motivo.
 
-### Articolo 23
+## Articolo 23
 
 1\. Gli Stati parti riconoscono che i fanciulli mentalmente o fisicamente handicappati devono condurre una vita piena e decente, in condizioni che garantiscano la loro dignita' favoriscano la loro autonomia ed agevolino una loro attiva partecipazione alla vita della comunita'.
 
@@ -265,7 +265,7 @@ e) Ricercano le finalita' del presente articolo stipulando accordi o intese bila
 
 4\. In uno spirito di cooperazione internazionale, gli Stati parti favoriscono lo scambio di informazioni pertinenti nel settore delle cure sanitarie preventive e del trattamento medico, psicologico e funzionale dei minori handicappati, anche mediante la divulgazione di informazioni concernenti i metodi di riabilitazione ed i servizi di formazione professionale, nonche' l'accesso a tali dati, in vista di consentire agli Stati parti di migliorare le proprie capcita' e competenze e di allargare la loro esperienza in tali settori. A tal riguardo, si terra' conto in particolare della necessita' dei paesi in via di sviluppo.
 
-### Articolo 24
+## Articolo 24
 
 1\. Gli Stati parti riconoscono il diritto del minore di godere del miglior stato di salute possibile e di beneficiare di servizi medici e di riabilitazione. Essi si sforzano di garantire che nessun minore sia privato del diritto di avere accesso a tali servizi.
 
@@ -287,17 +287,17 @@ f) Sviluppare le cure sanitarie preventive, i consigli ai genitori e l'educazion
 
 4\. Gli Stati parti si impegnano a favorire ed a incoraggiare la cooperazione internazionale in vista di attuare gradualemnte una completa attuazione del diritto riconosciuto nel presente articolo. A tal fine saranno tenute in particolare considerazione le necessita' dei paesi in via di sviluppo.
 
-### Articolo 25
+## Articolo 25
 
 Gli Stati parti riconoscono al fanciullo che e' stato collocato dalle Autorita' competente al fine di ricevere cure, una protezione oppure una terapia fisica o mentale, il diritto ad una verifica periodica di detta terapia e di ogni altra circostanza relativa alla sua collocazione.
 
-### Articolo 26
+## Articolo 26
 
 1\. Gli Stati parti riconoscono ad ogni fanciullo il diritto di beneficiare della sicurezza sociale, compresa la previdenza sociale, ed adottano le misure necessarie per garantire una completa attuazione di questo diritto in conformita' con la loro legislazione nazionale.
 
 2\. Le prestazioni, se necessarie, dovranno essere concesse in considerazione delle risorse e della situazione del minore e delle persone responsabili del suo mantenimento e tenendo conto di ogni altra considerazione relativa ad una domanda di prestazione effettuata dal fanciullo o per suo conto.
 
-### Articolo 27
+## Articolo 27
 
 1\. Gli Stati parti riconoscono il diritto di ogni fanciullo ad un livello di vita sufficiente per consentire il suo sviluppo fisico, mentale, spirituale, morale e sociale.
 
@@ -307,7 +307,7 @@ Gli Stati parti riconoscono al fanciullo che e' stato collocato dalle Autorita' 
 
 4\. Gli Stati parti adottano ogni adeguato provvedimento al fine di provvedere al ricupero della pensione alimentare del fanciullo presso i suoi genitori o altre persone aventi una responsabilita' finanziaria nei suoi confronti, sul loro territorio o all'estero. In particolare, per tener conto dei casi in cui la persona che ha un responsabilita' finanziaria nei confronti del fanciullo vive in uno Stato diverso da quello del fanciullo, gli Stati parti favoriscono l'adesione ad accordi internazionali oppure la conclusione di tali accordi, nonche' l'adozione di ogni altra intesa appropriata.
 
-### Articolo 28
+## Articolo 28
 
 1\. Gli Stati parti riconoscono il diritto del fanciullo all'educazione, ed in particolare, al fine di garantire l'esercizio di tale diritto gradualmente ed in base all'uguaglianza delle possibilita':
 
@@ -325,7 +325,7 @@ e) adottano misure per promouovere la regolarita' della frequenza scolastica e l
 
 3\. Gli Stati parti favoriscono ed incoraggiano la cooperazione internazionale nel settore dell'educazione, in vista soprattutto di contribuire ad eliminare l'ignoranza e l'analfabetismo nel mondo e facilitare l'accesso alle conoscenze scientifiche e tecniche ed ai metodi di insegnamento moderni. A tal fine, si tiene conto in particolare delle necessita' dei paesi in via di sviluppo.
 
-### Articolo 29
+## Articolo 29
 
 1\. Gli Stati parti convengono che l'educazione del fanciullo deve avere come finalita':
 
@@ -341,17 +341,17 @@ e) di inculcare al fanciullo il rispetto dell'ambiente naturale.
 
 2\. Nessuna disposizione del presente articolo o dell'articolo 28 sara' interpretata in maniera da nuocere alla liberta' delle persone fisiche o morali di creare e di dirigere istituzioni didattiche a condizione che i principi enunciati al paragrafo 1 del presente articolo siano rispettati e che l'educazione impartita in tali istituzioni sia conforme alle norme minime prescritte dallo Stato.
 
-### Articolo 30
+## Articolo 30
 
 Negli Stati in cui esistono minoranze etniche, religiose o linguistiche oppure persone di origine autoctona, un fanciullo autoctono o che appartiene a una di tali minoranze non puo' essere privato del diritto di avere una propria vita culturale, di professare e di praticare la propria religione o di far uso della propria lingua insieme agli altri membri del suo gruppo.
 
-### Articolo 31
+## Articolo 31
 
 1\. Gli Stati parti riconoscono al fanciullo il diritto al riposo ed al tempo libero, di dedicarsi al gioco e ad attivita' ricreative proprie della sua eta' e di partecipare liberamente alla vita culturale ed artistica.
 
 2\. Gli Stati parti rispettano e favoriscono il diritto del fanciullo di partecipare pienamente alla vita culturale ed artistica ed incoraggiano l'organizzazione, in condizioni di uguaglianza, di mezzi appropriati di divertimento e di attivita' ricreative, artistiche e culturali.
 
-### Articolo 32
+## Articolo 32
 
 1\. Gli Stati parti riconoscono il diritto del fanciullo di essere protetto contro lo sfruttamento economico e di non essere costretto ad alcun lavoro che comporti rischi o sia suscettibile di porre a repntaglio la sua educazione o di nuocere alla sua salute o al suo sviluppo fisico, mentale, spirituale, morale o sociale.
 
@@ -363,11 +363,11 @@ b) prevedono un'adeguata regolamentazione degli orari di lavoro e delle condizio
 
 c) prevedono pene o altre sanzioni appropriate per garantire l'attuazione effettiva del presente articolo.
 
-### Articolo 33
+## Articolo 33
 
 Gli Stati parti adottano ogni adeguata misura, comprese misure legis- lative, amministrative, sociali ed educative per proteggere i fanciulli contro l'uso illecito di stupefacenti e di sostanze psicotrope, cosi' come definite dalle Convenzioni internazionali pertinenti e per impedire che siano utilizzati fanciulli per la produzione ed il traffico illecito di queste sostanze.
 
-### Articolo 34
+## Articolo 34
 
 Gli Stati parti si impegnano a proteggere il fanciullo contro ogni forma di sfruttamento sessuale e di violenza sessuale. A tal fine, gli Stati adottano in particolare ogni adeguata misura a livello nazionale, bilaterale e multilaterale per impedire:
 
@@ -377,15 +377,15 @@ b) che dei fanciulli siano sfruttati a fini di prostituzione o di altre pratiche
 
 c) che dei fanciulli siano sfruttati ai fini della produzione di spettacoli o di materiale a carattere pornografico.
 
-### Articolo 35
+## Articolo 35
 
 Gli Stati parti adottano ogni adeguato provvedimento a livello nazionale, bilaterale e multilaterale per impedire il rapimento, la vendita o la tratta di fanciulli per qualunque fine e sotto qualsiasi forma.
 
-### Articolo 36
+## Articolo 36
 
 Gli Stati parti proteggono il fanciullo contro ogni altra forma di sfruttamento pregiudizievole al suo benessere in ogni suo aspetto.
 
-### Articolo 37
+## Articolo 37
 
 Gli Stati parti vigilano affinche':
 
@@ -397,7 +397,7 @@ c) ogni fanciullo privato di liberta' sia trattato con umanita' e con il rispett
 
 d) i fanciulli privati di liberta' abbiano diritto ad avere repidamente accesso ad un'assistenza giuridica o ad ogni altra assistenza adeguata, nonche' il diritto di contestare la legalita' della loro privazione di liberta' dinnanzi un Tribunale o altra autorita' competente, indipendente ed imparziale, ed una decisione sollecita sia adottata in materia.
 
-### Articolo 38
+## Articolo 38
 
 1\. Gli Stati parti si impegnano a rispettare ed a far rispettare le regole del diritto umanitario internazionale loro applicabili in caso di conflitto armato, e la cui protezione si estende ai fanciulli.
 
@@ -409,13 +409,13 @@ Nell'incorporare persone aventi piu' di quindici anni ma meno di diciotto anni, 
 
 4\. In conformita' con l'obbligo che spetta loro in virtu' del diritto umanitario internazionale di proteggere la popolazione civile in caso di conflitto armato, gli Stati parti adottano ogni misura possibile a livello pratico affiche' i fanciulli coinvolti in un conflitto armato possano beneficiare di cure e di protezione.
 
-### Articolo 39
+## Articolo 39
 
 Gli Stati parti adottano ogni adeguato provvedimento per agevolare il riadattamento fisico e psicologico ed il ririnserimento sociale di ogni fanciullo vittima di ogni forma di negligenza, di sfruttamento o di maltrattamenti; di torture o di ogni altra forma di pene o di trattamenti crudeli, inumani o degradanti, o di un conflitto armato.
 
 Tale riadattamento e tale riinserimento devono svolgersi in condizioni tali da favorire la salute, il rispetto della propria persona e la dignita' del fanciullo.
 
-### Articolo 40
+## Articolo 40
 
 1\. Gli Stati parti riconoscono ad ogni fanciullo sospettato accusato o riconosciuto colpevole di reato penale il diritto ad un trattamento tale da favorire il suo senso della dignita' e del valore personale, che rafforzi il suo rispetto per i diritti dell'uomo e le liberta' fondamentali e che tenga conto della sua eta' nonche' della necessita' di facilitare il suo riinserimento nella societa' e di fargli svolgere un ruolo costruttivo in seno a quest'ultima.
 
@@ -447,7 +447,7 @@ b) di adottare provvedimenti ogni qualvolta cio' sia possibile ed auspicabile pe
 
 4\. Sara' prevista tutta una gamma di disposizioni concernenti in particolar modo le cure, l'orientamento, la supervisione, i consigli, la liberta' condizionata, il collocamento in famiglia, i programmi di formazione generale e professionale, nonche' soluzioni alternative all'assistenza istituzionale, in vista di assicurare ai fanciulli un trattamento conforme al loro benessere e proporzionato sia alla loro situazione che al reato.
 
-### Articolo 41
+## Articolo 41
 
 Nessuna delle disposizioni della presente Convenzione pregiudica disposizioni piu' propizie all'attuazione dei diritti del fanciullo che possono figurare:
 
@@ -457,11 +457,11 @@ b) nel diritto internazionale in vigore per questo Stato.
 
 ## SECONDA PARTE
 
-### Articolo 42
+## Articolo 42
 
 Gli Stati parti si impegnano a far largamente conoscere i principi e le disposizioni della presente Convenzione, con mezzi attivi ed adeguati sia agli adulti che ai fanciulli.
 
-### Articolo 43
+## Articolo 43
 
 1\. Al fine di esaminare i progressi compiuti dagli Stati parti nell'esecuzione degli obblighi da essi contratti in base alla presente Convenzione, e' istituito un Comitato dei Diritti del Fanciullo che adempie alle funzioni definite in appresso;
 
@@ -489,7 +489,7 @@ Successivamente, si svolgeranno elezioni ogni due anni. Almeno quattro mesi prim
 
 12\. I membri del Comitato istituito in base alla presente Convenzione ricevono con l'approvazione dell'Assemblea Generale, emolumenti prelevati sulle risorse dell'Organizzazione delle Nazioni Unite alle condizioni e secondo le modalita' stabilite dall'Assemblea Generale.
 
-### Articolo 44
+## Articolo 44
 
 1\. Gli Stati parti si impegnano a sottoporre al Comitato, tramite il Segretario Generale dell'Organizzazione delle Nazioni Unite, rapporti sui provvedimenti che essi avranno adottato per dare effetto ai diritti riconosciuti nella presente Convenzione e sui progressi realizzati per il godimento di tali diritti:
 
@@ -507,7 +507,7 @@ b) in seguito, ogni cinque anni.
 
 6\. Gli Stati parti fanno in modo affinche' i loro rapporto abbiano una vasta diffusione nei loro paesi.
 
-### Articolo 45
+## Articolo 45
 
 Al fine di promuovere l'attuazione effettiva della Convenzione ed incoraggiare la cooperazione internazionale nel settore oggetto della Convenzione:
 
@@ -521,15 +521,15 @@ d) Il Comitato puo' fare suggerimenti e raccomandazioni generali in base alle in
 
 ## TERZA PARTE
 
-### Articolo 46
+## Articolo 46
 
 La presente Convenzione e' aperta alla firma di tutti gli Stati.
 
-### Articolo 47
+## Articolo 47
 
 La presente Convenzione e' soggetta a ratifica. Gli strumenti di ratifica saranno depositati presso il Segretario Generale dell'Organizzazione delle Nazioni Unite.
 
-### Articolo 48
+## Articolo 48
 
 La presente Convenzione rimarra' aperta all'adesione di ogni Stato.
 
@@ -537,13 +537,13 @@ Gli strumenti di adesione saranno depositati presso il Segretario
 
 Generale della Organizzazione delle Nazioni Unite
 
-### Articolo 49
+## Articolo 49
 
 1\. La presente Convenzione entrera' in vigore il trentesimo giorno successivo alla data del deposito presso il Segretario Generale dell'Organizzazione delle Nazioni Unite del ventesimo strumento di ratifica o di adesione.
 
 2\. Per ciascuno degli Stati che ratificheranno la presente Convenzione o che vi aderiranno dopo il deposito del ventesimo strumento di ratifica o di adesione la Convenzione entrera' in vigore il trentesimo giorno successivo al deposito da parte di questo Stato del suo strumento di ratifica o di adesione.
 
-### Articolo 50
+## Articolo 50
 
 1\. Ogni Stato parte puo' proporre un emendamento e depositarne il testo presso il Segretario Generale dell'Organizzazione delle Nazioni Unite. Il Segretario Generale comunica quindi la proposta di emendamento agli Stati parti, con la richiesta di far sapere se siano favorevoli ad una Conferenza degli Stati parti al fine dell'esame delle proposte e della loro votazione. Se, entro quattro mesi a decorrere dalla data di questa comunicazione, almeno un terzo degli Stati parti si pronuncia a favore di tale Conferenza, il Segretario Generale convoca la Conferenza sotto gli auspici dell'Organizzazione delle Nazioni Unite. Ogni emendamento adottata da una maggioranza degli Stati parti presenti e votanti alla Conferenza e' sottoposto per approvazione all'Assemblea Generale.
 
@@ -551,7 +551,7 @@ Generale della Organizzazione delle Nazioni Unite
 
 3\. Quando un emendamento entra in vigore esso ha valore obbligatorio per gli Stati parti che lo hanno accettato, gli altri Stati Parti rimanendo vincolati dalle disposizioni della presente Convenzione e da tutti gli emendamenti precedenti da essi accettati.
 
-### Articolo 51
+## Articolo 51
 
 1\. Il Segretario Generale dell'Organizzazione delle Nazioni Unite ricevera' e comunichera' a tutti gli Stati il testo delle riserve che saranno state formulate dagli Stati all'atto della ratifica o dell'adesione.
 
@@ -559,15 +559,15 @@ Generale della Organizzazione delle Nazioni Unite
 
 3\. Le riserve possono essere ritirate in ogni tempo per mezzo di notifica indirizzata in tal senso al Segretario Generale delle Nazioni Unite il quale ne informera' quindi tutti gli Stati. Tale notifica avra' effetto alla data in cui e' ricevuta dal Segretario Generale.
 
-### Articolo 52
+## Articolo 52
 
 Ogni Stato parte puo' denunciare la presente Convenzione per mezzo di notifica scritta indirizzata al Segretario Generale dell'Organizzazione delle Nazioni Unite. La denuncia avra' effetto un anno dopo la data di ricezione della notifica da parte del Segretario Generale.
 
-### Articolo 53
+## Articolo 53
 
 Il Segretario Generale dell'Organizzazione delle Nazioni Unite e' designato come depositario della presente Convenzione.
 
-### Articolo 54
+## Articolo 54
 
 L'originale della presente Convenzione i cui testi in lingua araba, cinese, francese, inglese, russa e spagnola fanno ugualmente fede, sara' depositato presso il Segretario Generale dell'Organizzazione delle Nazioni Unite.
 

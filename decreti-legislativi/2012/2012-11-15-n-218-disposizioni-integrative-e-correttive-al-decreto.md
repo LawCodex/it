@@ -43,11 +43,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Disposizioni correttive in materia di amministrazione dei beni sequestrati e confiscati e di rilascio della documentazione antimafia
 
-### Disposizioni correttive in materia di amministrazione dei beni - sequestrati e confiscati e di rilascio della documentazione antimafia
-
-#### Art. 1
+### Art. 1
 
 Modifiche in materia di assistenza legale alla procedura
 
@@ -245,7 +243,7 @@ di amministrazione dei beni sequestrati o confiscati
 
 > L'Avvocatura dello Stato assume la rappresentanza e la difesa dell'amministratore giudiziario nelle controversie, anche in corso, concernenti rapporti relativi a beni sequestrati qualora l'Avvocato Generale dello Stato ne riconosca l'opportunita'.».
 
-#### Art. 2
+### Art. 2
 
 Modifiche in materia di situazioni relative ai tentativi di infiltrazione mafiosa e soggetti sottoposti alla verifica antimafia
 
@@ -327,7 +325,7 @@ b) all'articolo 85:
 
 > 3\. L'informazione antimafia, oltre che ai soggetti di cui ai commi 1, 2, 2-bis, 2-ter e 2-quater, deve riferirsi anche ai familiari conviventi.».
 
-#### Art. 3
+### Art. 3
 
 Validita' della documentazione antimafia
 
@@ -353,7 +351,7 @@ Validita' della documentazione antimafia
 
 > 5\. I soggetti di cui all'art. 83, commi 1 e 2, che acquisiscono la comunicazione antimafia, di data non anteriore a sei mesi, o l'informazione antimafia, di data non anteriore a dodici mesi, adottano il provvedimento richiesto e gli atti conseguenti o esecutivi, compresi i pagamenti, anche se il provvedimento o gli atti sono perfezionati o eseguiti in data successiva alla scadenza di validita' della predetta documentazione antimafia.».
 
-#### Art. 4
+### Art. 4
 
 Modifiche in materia di comunicazioni
 
@@ -475,7 +473,7 @@ l) agli uffici delle Agenzie delle entrate, competenti per il luogo dove ha sede
 
 > l) agli uffici delle Agenzie delle entrate, competenti per il luogo dove ha sede legale l'impresa nei cui confronti e' stato richiesto il rilascio dell'informazione antimafia.».
 
-#### Art. 5
+### Art. 5
 
 Procedimento di rilascio delle informazioni antimafia
 
@@ -527,7 +525,7 @@ b) all'articolo 93, il comma 6 e' abrogato.
 
 > 11\. Al fine di rendere omogenea la raccolta dei dati di cui al precedente comma su tutto il territorio nazionale, il personale incaricato di effettuare le attivita' di accesso e accertamento nei cantieri si avvale di apposite schede informative predisposte dalla Direzione investigativa antimafia e da questa rese disponibili attraverso il collegamento telematico di interconnessione esistente con le Prefetture - Uffici territoriali del Governo.».
 
-#### Art. 6
+### Art. 6
 
 Disposizioni concernenti i collegamenti informatici o telematici utilizzabili in attesa della realizzazione della Banca dati nazionale unica della documentazione antimafia
 
@@ -559,7 +557,7 @@ Disposizioni concernenti i collegamenti informatici o telematici utilizzabili in
 
 > 2-bis. Fino all'attivazione della banca dati, e comunque non oltre dodici mesi dalla data di pubblicazione nella Gazzetta Ufficiale del primo dei regolamenti di cui al comma 1, i soggetti di cui all'art. 83, commi 1 e 2, acquisiscono d'ufficio tramite le prefetture la documentazione antimafia. A tali fini, le prefetture utilizzano il collegamento informatico al Centro elaborazione dati di cui all'art. 8 della legge 1° aprile 1981, n. 121, al fine di verificare la sussistenza di una delle cause di decadenza, di sospensione o di divieto di cui all'art. 67 o di un tentativo di infiltrazione mafiosa di cui all'art. 84, comma 4, e all'art. 91, comma 6, nonche' i collegamenti informatici o telematici, attivati in attuazione del decreto del Presidente della Repubblica 3 giugno 1998, n. 252. In ogni caso, si osservano per il rilascio della documentazione antimafia i termini di cui agli articoli 88 e 92.».
 
-#### Art. 7
+### Art. 7
 
 Modifiche concernenti la rappresentanza in giudizio dell'Agenzia nazionale per l'amministrazione e la destinazione dei beni sequestrati e confiscati alla criminalita' organizzata
 
@@ -575,11 +573,9 @@ Modifiche concernenti la rappresentanza in giudizio dell'Agenzia nazionale per l
 
 > 2\. All'Agenzia si applica l'art. 1 del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato di cui al regio decreto 30 ottobre 1933, n. 1611.».
 
-## Capo II
+## Capo II - Disposizioni transitorie e di coordinamento
 
-### Disposizioni transitorie e di coordinamento
-
-#### Art. 8
+### Art. 8
 
 Ulteriori disposizioni di coordinamento
 
@@ -665,7 +661,7 @@ d) all'articolo 116, comma 4, le parole: «1-septies del decreto-legge 6 settemb
 
 > \- Per il testo degli articoli 92 e 93 del citato decreto legislativo n. 159 del 2011, si vedano le note riportate all'art. 5.
 
-#### Art. 9
+### Art. 9
 
 Disposizioni concernenti l'entrata in vigore del decreto legislativo 6 settembre 2011, n. 159, e conseguenti abrogazioni
 
@@ -721,7 +717,7 @@ c) decreto del Presidente della Repubblica 2 agosto 2010, n. 150.».
 
 > c) decreto del Presidente della Repubblica 2 agosto 2010, n. 150.».
 
-#### Art. 10
+### Art. 10
 
 Clausola di invarianza finanziaria
 

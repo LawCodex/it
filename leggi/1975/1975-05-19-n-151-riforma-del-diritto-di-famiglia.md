@@ -26,7 +26,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 L'articolo 45 del codice civile, approvato con il regio decreto 16 marzo 1942, n. 262, e' sostituito dal seguente:
 
@@ -36,13 +36,13 @@ Il minore ha il domicilio nel luogo di residenza della famiglia o quello del tut
 
 L'interdetto ha il domicilio del tutore".
 
-### Art. 2
+## Art. 2
 
 L'articolo 51 del codice civile sostituito dal seguente:
 
 "Art. 51 - Assegno alimentare a favore del coniuge dell'assente. - Il coniuge dell'assente, oltre cio' che gli spetta per effetto del regime patrimoniale dei coniugi e per titolo di successione, puo' ottenere dal tribunale, in caso di bisogno, un assegno alimentare da determinarsi secondo le condizioni della famiglia e l'entita' del patrimonio dell'assente".
 
-### Art. 3
+## Art. 3
 
 Il primo comma dell'articolo 81 del codice civile e' sostituito dal seguente:
 
@@ -50,7 +50,7 @@ Il primo comma dell'articolo 81 del codice civile e' sostituito dal seguente:
 
 Il danno e' risarcito entro il limite in cui le spese e le obbligazioni corrispondono alla condizione delle parti".
 
-### Art. 4
+## Art. 4
 
 L'articolo 84 del codice civile e' sostituito dal seguente:
 
@@ -64,7 +64,7 @@ La corte d'appello decide con ordinanza non impugnabile, emessa in camera di con
 
 Il decreto acquista efficacia quando e' decorso il termine previsto nel quarto comma, senza che sia stato proposto reclamo".
 
-### Art. 5
+## Art. 5
 
 L'articolo 87 del codice civile e' sostituito dal seguente:
 
@@ -100,7 +100,7 @@ Il decreto e' notificato agli interessati e al pubblico ministero.
 
 Si applicano le disposizioni dei commi quarto, quinto e sesto dell'articolo 84".
 
-### Art. 6
+## Art. 6
 
 L'articolo 89 del codice civile e' sostituito dal seguente:
 
@@ -110,13 +110,13 @@ Il tribunale con decreto emesso in camera di consiglio, sentito il pubblico mini
 
 Il divieto cessa dal giorno in cui la gravidanza e' terminata".
 
-### Art. 7
+## Art. 7
 
 L'articolo 90 del codice civile e' sostituito dal seguente:
 
 "Art. 90 - Assistenza del minore. - Con il decreto di cui all'articolo 84 il tribunale o la corte d'appello nominano, se le circostanze lo esigono, un curatore speciale che assista il minore nella stipulazione delle convenzioni matrimoniali".
 
-### Art. 8
+## Art. 8
 
 Il primo e il secondo comma dell'articolo 97 del codice civile sono sostituiti dai seguenti:
 
@@ -124,7 +124,7 @@ Il primo e il secondo comma dell'articolo 97 del codice civile sono sostituiti d
 
 Coloro che esercitano o hanno esercitato la potesta' debbono dichiarare all'ufficiale di stato civile al quale viene rivolta la richiesta di pubblicazione, sotto la propria personale responsabilita', che gli sposi non si trovano in alcuna delle condizioni che impediscono il matrimonio a norma dell'articolo 87, di cui debbono prendere conoscenza attraverso la lettura chiara e completa fatta dall'ufficiale di stato civile, con ammonizione delle conseguenze penali delle dichiarazioni mendaci".
 
-### Art. 9
+## Art. 9
 
 L'articolo 100 del codice civile e' sostituito dal seguente:
 
@@ -138,7 +138,7 @@ Il pretore deve far precedere all'atto di notorieta' la lettura di detti articol
 
 Quando e' stata autorizzata l'omissione della pubblicazione, gli sposi, per essere ammessi alla celebrazione del matrimonio, devono presentare all'ufficiale dello stato civile, insieme col decreto di autorizzazione, gli atti previsti dall'articolo 97".
 
-### Art. 10
+## Art. 10
 
 L'articolo 107 del codice civile e' sostituito dal seguente:
 
@@ -146,7 +146,7 @@ L'articolo 107 del codice civile e' sostituito dal seguente:
 
 L'atto di matrimonio deve essere compilato immediatamente dopo la celebrazione".
 
-### Art. 11
+## Art. 11
 
 L'articolo 111 del codice civile e' sostituito dal seguente:
 
@@ -164,7 +164,7 @@ Il matrimonio non puo' essere celebrato quando sono trascorsi centottanta giorni
 
 La coabitazione, anche temporanea, dopo la celebrazione del matrimonio, elimina gli effetti della revoca della procura, ignorata dall'altro coniuge al momento della celebrazione".
 
-### Art. 12
+## Art. 12
 
 L'articolo 117 del codice civile e' sostituito dal seguente:
 
@@ -178,17 +178,17 @@ Nei casi in cui si sarebbe potuta accordare l'autorizzazione ai sensi del quarto
 
 La disposizione del primo comma del presente articolo si applica anche nel caso di nullita' del matrimonio previsto dall'articolo 68".
 
-### Art. 13
+## Art. 13
 
 L'articolo 118 del codice civile e' abrogato.
 
-### Art. 14
+## Art. 14
 
 L'articolo 119 del codice civile e' sostituito dal seguente:
 
 "Art. 119 - Interdizione. - Il matrimonio di chi e' stato interdetto per infermita' di mente puo' essere impugnato dal tutore, dal pubblico ministero e da tutti coloro che abbiano un interesse legittimo se, al tempo del matrimonio, vi era gia' sentenza di interdizione passata in giudicato, ovvero se la interdizione e' stata pronunziata posteriormente ma l'infermita' esisteva al tempo del matrimonio. Puo' essere impugnato, dopo revocata l'interdizione, anche dalla persona che era interdetta. - L'azione non puo' essere proposta se, dopo revocata l'interdizione, vi e' stata coabitazione per un anno".
 
-### Art. 15
+## Art. 15
 
 L'articolo 120 del codice civile e' sostituito dal seguente:
 
@@ -196,11 +196,11 @@ L'articolo 120 del codice civile e' sostituito dal seguente:
 
 L'azione non puo' essere proposta se vi e' stata coabitazione per un anno dopo che il coniuge incapace ha recuperato la pienezza delle facolta' mentali".
 
-### Art. 16
+## Art. 16
 
 L'articolo 121 del codice civile e' abrogato.
 
-### Art. 17
+## Art. 17
 
 L'articolo 122 del codice civile e' sostituito dal seguente:
 
@@ -226,7 +226,7 @@ L'azione di annullamento non puo' essere proposta prima che la condanna sia dive
 
 L'azione non puo' essere proposta se vi e' stata coabitazione per un anno dopo che siano cessate la violenza o le cause che hanno determinato il timore ovvero sia stato scoperto l'errore".
 
-### Art. 18
+## Art. 18
 
 L'articolo 123 del codice civile e' sostituito dal seguente:
 
@@ -234,7 +234,7 @@ L'articolo 123 del codice civile e' sostituito dal seguente:
 
 L'azione non puo' essere proposta decorso un anno dalla celebrazione del matrimonio ovvero nel caso in cui i contraenti abbiano convissuto come coniugi successivamente alla celebrazione medesima".
 
-### Art. 19
+## Art. 19
 
 L'articolo 128 del codice civile e' sostituito dal seguente:
 
@@ -248,7 +248,7 @@ Il matrimonio dichiarato nullo, contratto in malafede da entrambi i coniugi, ha 
 
 Nell'ipotesi di cui al comma precedente, i figli nei cui confronti non si verifichino gli effetti del matrimonio valido, hanno lo stato di figli naturali riconosciuti, nei casi in cui il riconoscimento e' consentito".
 
-### Art. 20
+## Art. 20
 
 L'articolo 129 del codice civile e' sostituito dal seguente:
 
@@ -256,7 +256,7 @@ L'articolo 129 del codice civile e' sostituito dal seguente:
 
 Per i provvedimenti che il giudice adotta riguardo ai figli, si applica l'articolo 155".
 
-### Art. 21
+## Art. 21
 
 Dopo l'articolo 129 del codice civile e inserito il seguente:
 
@@ -266,19 +266,19 @@ Il terzo al quale sia imputabile la nullita' del matrimonio e' tenuto a corrispo
 
 In ogni caso il terzo che abbia concorso con uno dei coniugi nel determinare la nullita' del matrimonio e' solidalmente responsabile con lo stesso per il pagamento dell'indennita'".
 
-### Art. 22
+## Art. 22
 
 L'articolo 139 del codice civile e' sostituito dal seguente:
 
 "Art. 139 - Cause di nullita' note a uno dei coniugi. - Il coniuge il quale, conoscendo prima della celebrazione una causa di nullita' del matrimonio, l'abbia lasciata ignorare all'altro, e' punito, se il matrimonio e' annullato, con l'ammenda da lire quarantamila a lire duecentomila".
 
-### Art. 23
+## Art. 23
 
 L'articolo 140 del codice civile e' sostituito dal seguente:
 
 "Art. 140 - Inosservanza del divieto temporaneo di nuove nozze. - La donna che contrae matrimonio contro il divieto dell'articolo 89, l'ufficiale che lo celebra e l'altro coniuge sono puniti con l'ammenda da lire ventimila a lire ottantamila".
 
-### Art. 24
+## Art. 24
 
 L'articolo 143 del codice civile e' sostituito dal seguente:
 
@@ -288,7 +288,7 @@ Dal matrimonio deriva l'obbligo reciproco alla fedelta', all'assistenza morale e
 
 Entrambi i coniugi sono tenuti, ciascuno in relazione alle proprie sostanze e alla propria capacita' di lavoro professionale o casalingo, a contribuire ai bisogni della famiglia".
 
-### Art. 25
+## Art. 25
 
 Dopo l'articolo 143 del codice civile sono inseriti i seguenti:
 
@@ -296,7 +296,7 @@ Dopo l'articolo 143 del codice civile sono inseriti i seguenti:
 
 "Art. 143-ter - Cittadinanza della moglie. - La moglie conserva la cittadinanza italiana, salvo sua espressa rinunzia, anche se per effetto del matrimonio o del mutamento di cittadinanza da parte del marito assume una cittadinanza straniera".
 
-### Art. 26
+## Art. 26
 
 L'articolo 144 del codice civile e' sostituito dal seguente:
 
@@ -304,7 +304,7 @@ L'articolo 144 del codice civile e' sostituito dal seguente:
 
 A ciascuno dei coniugi spetta il potere di attuare l'indirizzo concordato".
 
-### Art. 27
+## Art. 27
 
 L'articolo 145 del codice civile e' sostituito dal seguente:
 
@@ -312,7 +312,7 @@ L'articolo 145 del codice civile e' sostituito dal seguente:
 
 Ove questa non sia possibile e il disaccordo concerna la fissazione della residenza o altri affari essenziali, il giudice, qualora ne sia richiesto espressamente e congiuntamente dai coniugi, adotta, con provvedimento non impugnabile, la soluzione che ritiene piu' adeguata alle esigenze dell'unita' e della vita della famiglia".
 
-### Art. 28
+## Art. 28
 
 L'articolo 146 del codice civile e' sostituito dal seguente:
 
@@ -322,13 +322,13 @@ La proposizione della domanda di separazione o di annullamento o di scioglimento
 
 Il giudice puo', secondo le circostanze, ordinare il sequestro dei beni del coniuge allontanatosi, nella misura atta a garantire l'adempimento degli obblighi previsti dagli articoli 143, terzo comma, e 147".
 
-### Art. 29
+## Art. 29
 
 L'articolo 147 del codice civile e' sostituito dal seguente:
 
 "Art. 147 - Doveri verso i figli. - Il matrimonio impone ad ambedue i coniugi l'obbligo di mantenere, istruire ed educare la prole tenendo conto delle capacita', dell'inclinazione naturale e delle aspirazioni dei figli".
 
-### Art. 30
+## Art. 30
 
 L'articolo 148 del codice civile e' sostituito dal seguente:
 
@@ -344,7 +344,7 @@ L'opposizione e' regolata dalle norme relative all'opposizione al decreto di ing
 
 Le parti ed il terzo debitore possono sempre chiedere, con le forme del processo ordinario, la modificazione e la revoca del provvedimento".
 
-### Art. 31
+## Art. 31
 
 L'articolo 149 del codice civile e' sostituito dal seguente:
 
@@ -352,7 +352,7 @@ L'articolo 149 del codice civile e' sostituito dal seguente:
 
 Gli effetti civili del matrimonio celebrato con rito religioso, ai sensi dell'articolo 82 o dell'articolo 83, e regolarmente trascritto, cessano alla morte di uno dei coniugi e negli altri casi previsti dalla legge".
 
-### Art. 32
+## Art. 32
 
 L'articolo 150 del codice civile e' sostituito dal seguente:
 
@@ -360,7 +360,7 @@ L'articolo 150 del codice civile e' sostituito dal seguente:
 
 La separazione puo' essere giudiziale o consensuale. Il diritto di chiedere la separazione giudiziale o la omologazione di quella consensuale spetta esclusivamente ai coniugi".
 
-### Art. 33
+## Art. 33
 
 L'articolo 151 del codice civile e' sostituito dal seguente:
 
@@ -368,17 +368,17 @@ L'articolo 151 del codice civile e' sostituito dal seguente:
 
 Il giudice, pronunziando la separazione, dichiara, ove ne ricorrano le circostanze e ne sia richiesto, a quale dei coniugi sia addebitabile la separazione, in considerazione del suo comportamento contrario ai doveri che derivano dal matrimonio".
 
-### Art. 34
+## Art. 34
 
 Gli articoli 152 e 153 del codice civile sono abrogati.
 
-### Art. 35
+## Art. 35
 
 L'articolo 154 del codice civile e' sostituito dal seguente:
 
 "Art. 154 - Riconciliazione. - La riconciliazione tra i coniugi comporta l'abbandono della domanda di separazione personale gia' proposta".
 
-### Art. 36
+## Art. 36
 
 L'articolo 155 del codice civile e' sostituito dal seguente:
 
@@ -398,7 +398,7 @@ Nell'emanare i provvedimenti relativi all'affidamento dei figli e al contributo 
 
 I coniugi hanno diritto di chiedere in ogni tempo la revisione delle disposizioni concernenti l'affidamento dei figli, l'attribuzione dell'esercizio della potesta' su di essi e le disposizioni relative alla misura e alle modalita' del contributo".
 
-### Art. 37
+## Art. 37
 
 L'articolo 156 del codice civile e' sostituito dal seguente:
 
@@ -416,13 +416,13 @@ In caso di inadempienza, su richiesta dell'avente diritto, il giudice puo' dispo
 
 Qualora sopravvengano giustificati motivi il giudice, su istanza di parte, puo' disporre la revoca o la modifica dei provvedimenti di cui ai commi precedenti".
 
-### Art. 38
+## Art. 38
 
 Dopo l'articolo 156 del codice civile e' inserito il seguente:
 
 "Art. 156-bis - Cognome della moglie. - Il giudice puo' vietare alla moglie l'uso del cognome del marito quando tale uso sia a lui gravemente pregiudizievole, e puo' parimenti autorizzare la moglie a non usare il cognome stesso, qualora dall'uso possa derivarle grave pregiudizio".
 
-### Art. 39
+## Art. 39
 
 L'articolo 157 del codice civile e' sostituito dal seguente:
 
@@ -432,7 +432,7 @@ L'articolo 157 del codice civile e' sostituito dal seguente:
 
 La separazione puo' essere pronunziata nuovamente soltanto in relazione a fatti e comportamenti intervenuti dopo la riconciliazione".
 
-### Art. 40
+## Art. 40
 
 L'articolo 158 del codice civile e' sostituito dal seguente:
 
@@ -444,19 +444,19 @@ Quando l'accordo dei coniugi relativamente all'affidamento e al
 
 mantenimento dei figli e' in contrasto con l'interesse di questi il giudice riconvoca i coniugi indicando ad essi le modificazioni da adottare nell'interesse dei figli e, in caso di inidonea soluzione, puo' rifiutare allo stato l'omologazione".
 
-### Art. 41
+## Art. 41
 
 L'articolo 159 del codice civile e' sostituito dal seguente:
 
 "Art. 159 - Del regime patrimoniale legale tra i coniugi. - Il regime patrimoniale legale della famiglia, in mancanza di diversa convenzione stipulata a norma dell'articolo 162, e' costituito dalla comunione dei beni regolata dalla sezione III del presente capo".
 
-### Art. 42
+## Art. 42
 
 L'articolo 160 del codice civile e' sostituito dal seguente:
 
 "Art. 160 - Diritti inderogabili. - Gli sposi non possono derogare ne' ai diritti ne' ai doveri previsti dalla legge per effetto del matrimonio".
 
-### Art. 43
+## Art. 43
 
 L'articolo 162 del codice civile e' sostituito dal seguente:
 
@@ -470,7 +470,7 @@ Dopo la celebrazione del matrimonio possono essere mutate soltanto previa autori
 
 Le convenzioni matrimoniali non possono essere opposte ai terzi quando a margine dell'atto di matrimonio non risultano annotati la data del contratto, il notaio rogante e le generalita' dei contraenti, ovvero la scelta di cui al secondo comma".
 
-### Art. 44
+## Art. 44
 
 L'articolo 163 del codice civile e sostituito dal seguente:
 
@@ -482,7 +482,7 @@ Le modifiche convenute e la sentenza di omologazione hanno effetto rispetto ai t
 
 L'annotazione deve inoltre essere fatta a margine della trascrizione delle convenzioni matrimoniali ove questa sia richiesta a norma degli articoli 2643 e seguenti".
 
-### Art. 45
+## Art. 45
 
 L'articolo 164 del codice civile e' sostituito dal seguente:
 
@@ -490,25 +490,25 @@ L'articolo 164 del codice civile e' sostituito dal seguente:
 
 Le controdichiarazioni scritte possono aver effetto nei confronti di coloro tra i quali sono intervenute, solo se fatte con la presenza ed il simultaneo consenso di tutte le persone che sono state parti nelle convenzioni matrimoniali".
 
-### Art. 46
+## Art. 46
 
 L'articolo 165 del codice civile e' sostituito dal seguente:
 
 "Art. 165 - Capacita' del minore. - Il minore ammesso a contrarre matrimonio e' pure capace di prestare il consenso per tutte le relative convenzioni matrimoniali, le quali sono valide se egli e' assistito dai genitori esercenti la potesta' su di lui o dal tutore o dal curatore speciale nominato a norma dell'articolo 90".
 
-### Art. 47
+## Art. 47
 
 Dopo l'articolo 166 del codice civile e' inserito il seguente:
 
 "Art. 166-bis - Divieto di costituzione di dote. - E' nulla ogni convenzione che comunque tenda alla costituzione di beni in dote".
 
-### Art. 48
+## Art. 48
 
 L'intitolazione della sezione II del capo VI del titolo VI del libro I del codice civile e' sostituita dalla seguente:
 
 DEL FONDO PATRIMONIALE
 
-### Art. 49
+## Art. 49
 
 L'articolo 167 del codice civile e' sostituito dal seguente:
 
@@ -522,7 +522,7 @@ La costituzione puo' essere fatta anche durante il matrimonio.
 
 I titoli di credito devono essere vincolati rendendoli nominativi con annotazione del vincolo o in altro modo idoneo".
 
-### Art. 50
+## Art. 50
 
 L'articolo 168 del codice civile e' sostituito dal seguente:
 
@@ -532,19 +532,19 @@ I frutti dei beni costituenti il fondo patrimoniale sono impiegati per i bisogni
 
 L'amministrazione dei beni costituenti il fondo patrimoniale e' regolata dalle norme relative all'amministrazione della comunione legale".
 
-### Art. 51
+## Art. 51
 
 L'articolo 169 del codice civile e' sostituito dal seguente:
 
 "Art. 169 - Alienazione dei beni del fondo. - Se non e' stato espressamente consentito nell'atto di costituzione, non si possono alienare, ipotecare, dare in pegno o comunque vincolare beni del fondo patrimoniale se non con il consenso di entrambi i coniugi e, se vi sono figli minori, con l'autorizzazione concessa dal giudice, con provvedimento emesso in camera di consiglio, nei soli casi di necessita' od utilita' evidente".
 
-### Art. 52
+## Art. 52
 
 L'articolo 170 del codice civile e' sostituito dal seguente:
 
 "Art. 170 - Esecuzione sui beni e sui frutti. - La esecuzione sui beni del fondo e sui frutti di essi non puo' aver luogo per debiti che il creditore conosceva essere stati contratti per scopi estranei ai bisogni della famiglia".
 
-### Art. 53
+## Art. 53
 
 L'articolo 171 del codice civile e' sostituito dal seguente:
 
@@ -556,11 +556,11 @@ Considerate le condizioni economiche dei genitori e dei figli ed ogni altra circ
 
 Se non vi sono figli, si applicano le disposizioni sullo scioglimento della comunione legale".
 
-### Art. 54
+## Art. 54
 
 Gli articoli 172, 173, 174, 175 e 176 del codice civile sono abrogati.
 
-### Art. 55
+## Art. 55
 
 L'intitolazione della sezione III del capo VI del titolo VI del libro I del codice civile e' sostituita dalla seguente:
 
@@ -568,7 +568,7 @@ DELLA COMUNIONE LEGALE
 
 E' soppressa la suddivisione in paragrafi della sezione III del capo VI del titolo VI del libro I del codice civile.
 
-### Art. 56
+## Art. 56
 
 L'articolo 177 del codice civile e' sostituito dal seguente:
 
@@ -584,13 +584,13 @@ d) le aziende gestite da entrambi i coniugi e costituite dopo il matrimonio.
 
 Qualora si tratti di aziende appartenenti ad uno dei coniugi anteriormente al matrimonio ma gestite da entrambi, la comunione concerne solo gli utili e gli incrementi".
 
-### Art. 57
+## Art. 57
 
 L'articolo 178 del codice civile e' sostituito dal seguente:
 
 "Art. 178 - Beni destinati all'esercizio di impresa. - I beni destinati all'esercizio dell'impresa di uno dei coniugi costituita dopo il matrimonio e gli incrementi dell'impresa costituita anche precedentemente si considerano oggetto della comunione solo se sussistono al momento dello scioglimento di questa".
 
-### Art. 58
+## Art. 58
 
 L'articolo 179 del codice civile e' sostituito dal seguente:
 
@@ -610,7 +610,7 @@ f) i beni acquisiti con il prezzo del trasferimento dei beni personali sopraelen
 
 L'acquisto di beni immobili, o di beni mobili elencati nell'articolo 2683, effettuato dopo il matrimonio, e' escluso dalla comunione, ai sensi delle lettere c), d) ed f) del precedente comma, quando tale esclusione risulti dall'atto di acquisto se di esso sia stato parte anche l'altro coniuge".
 
-### Art. 59
+## Art. 59
 
 L'articolo 180 del codice civile e' sostituito dal seguente:
 
@@ -618,13 +618,13 @@ L'articolo 180 del codice civile e' sostituito dal seguente:
 
 Il compimento degli atti eccedenti l'ordinaria amministrazione, nonche' la stipula dei contratti con i quali si concedono o si acquistano diritti personali di godimento e la rappresentanza in giudizio per le relative azioni spettano congiuntamente ad entrambi i coniugi".
 
-### Art. 60
+## Art. 60
 
 L'articolo 181 del codice civile e' sostituito dal seguente:
 
 "Art. 181 - Rifiuto di consenso. - Se uno dei coniugi rifiuta il consenso per la stipulazione di un atto di straordinaria amministrazione o per gli altri atti per cui il consenso e' richiesto, l'altro coniuge puo' rivolgersi al giudice per ottenere l'autorizzazione nel caso in cui la stipulazione dell'atto e' necessaria nell'interesse della famiglia o dell'azienda che a norma della lettera d) dell'articolo 177 fa parte della comunione".
 
-### Art. 61
+## Art. 61
 
 L'articolo 182 del codice civile e' sostituito dal seguente:
 
@@ -632,7 +632,7 @@ L'articolo 182 del codice civile e' sostituito dal seguente:
 
 Nel caso di gestione comune di azienda, uno dei coniugi puo' essere delegato dall'altro al compimento di tutti gli atti necessari all'attivita' dell'impresa".
 
-### Art. 62
+## Art. 62
 
 L'articolo 183 del codice civile e' sostituito dal seguente:
 
@@ -642,7 +642,7 @@ Il coniuge privato dell'amministrazione puo' chiedere al giudice di esservi rein
 
 La esclusione opera di diritto riguardo al coniuge interdetto e permane sino a quando non sia cessato lo stato di interdizione".
 
-### Art. 63
+## Art. 63
 
 L'articolo 184 del codice civile e' sostituito dal seguente:
 
@@ -652,13 +652,13 @@ L'azione puo' essere proposta dal coniuge il cui consenso era necessario entro u
 
 Se gli atti riguardano beni mobili diversi da quelli indicati nel primo comma, il coniuge che li ha compiuti senza il consenso dell'altro e' obbligato su istanza di quest'ultimo a ricostituire la comunione nello stato in cui era prima del compimento dell'atto o, qualora cio' non sia possibile, al pagamento dell'equivalente secondo i valori correnti all'epoca della ricostituzione della comunione".
 
-### Art. 64
+## Art. 64
 
 L'articolo 185 del codice civile e' sostituito dal seguente:
 
 "Art. 185 - Amministrazione dei beni personali del coniuge. - All'amministrazione dei beni che non rientrano nella comunione o nel fondo patrimoniale si applicano le disposizioni dei commi secondo, terzo e quarto dell'articolo 217".
 
-### Art. 65
+## Art. 65
 
 L'articolo 186 del codice civile e' sostituito dal seguente:
 
@@ -672,19 +672,19 @@ c) delle spese per il mantenimento della famiglia e per l'istruzione e l'educazi
 
 d) di ogni obbligazione contratta congiuntamente dai coniugi".
 
-### Art. 66
+## Art. 66
 
 L'articolo 187 del codice civile e' sostituito dal seguente:
 
 "Art. 187 - Obbligazioni contratte dai coniugi prima del matrimonio. - I beni della comunione, salvo quanto disposto nell'articolo 189, non rispondono delle obbligazioni contratte da uno dei coniugi prima del matrimonio".
 
-### Art. 67
+## Art. 67
 
 L'articolo 188 del codice civile e' sostituito dal seguente:
 
 "Art. 188 - Obbligazioni derivanti da donazioni o successioni. - I beni della comunione, salvo quanto disposto nell'articolo 189, non rispondono delle obbligazioni da cui sono gravate le donazioni e le successioni conseguite dai coniugi durante il matrimonio e non attribuite alla comunione".
 
-### Art. 68
+## Art. 68
 
 L'articolo 189 del codice civile e' sostituito dal seguente:
 
@@ -692,13 +692,13 @@ L'articolo 189 del codice civile e' sostituito dal seguente:
 
 I creditori particolari di uno dei coniugi, anche se il credito e' sorto anteriormente al matrimonio, possono soddisfarsi in via sussidiaria sui beni della comunione, fino al valore corrispondente alla quota del coniuge obbligato. Ad essi, se chirografari, sono preferiti i creditori della comunione".
 
-### Art. 69
+## Art. 69
 
 L'articolo 190 del codice civile e' sostituito dal seguente:
 
 "Art. 190 - Responsabilita' sussidiaria dei beni personali. - I creditori possono agire in via sussidiaria sui beni personali di ciascuno dei coniugi, nella misura della meta' del credito, quando i beni della comunione non sono sufficienti a soddisfare i debiti su di essa gravanti".
 
-### Art. 70
+## Art. 70
 
 L'articolo 191 del codice civile e' sostituito dal seguente:
 
@@ -706,7 +706,7 @@ L'articolo 191 del codice civile e' sostituito dal seguente:
 
 Nel caso di azienda di cui alla lettera d) dell'articolo 177, lo scioglimento della comunione puo' essere deciso, per accordo dei coniugi, osservata la forma prevista dall'articolo 162".
 
-### Art. 71
+## Art. 71
 
 L'articolo 192 del codice civile e' sostituito dal seguente:
 
@@ -722,7 +722,7 @@ Il coniuge che risulta creditore puo' chiedere di prelevare beni comuni sino a c
 
 I prelievi si effettuano sul denaro, quindi sui mobili e infine sugli immobili".
 
-### Art. 72
+## Art. 72
 
 L'articolo 193 del codice civile e' sostituito dal seguente:
 
@@ -736,7 +736,7 @@ La sentenza che pronunzia la separazione retroagisce al giorno in cui e' stata p
 
 La sentenza e' annotata a margine dell'atto di matrimonio e sull'originale delle convenzioni matrimoniali".
 
-### Art. 73
+## Art. 73
 
 L'articolo 194 del codice civile e' sostituito dal seguente:
 
@@ -744,35 +744,35 @@ L'articolo 194 del codice civile e' sostituito dal seguente:
 
 Il giudice, in relazione alle necessita' della prole e all'affidamento di essa, puo' costituire a favore di uno dei coniugi l'usufrutto su una parte dei beni spettanti all'altro coniuge".
 
-### Art. 74
+## Art. 74
 
 L'articolo 195 del codice civile e' sostituito dal seguente:
 
 "Art. 195 - Prelevamento dei beni mobili. - Nella divisione i coniugi o i loro eredi hanno diritto di prelevare i beni mobili che appartenevano ai coniugi stessi prima della comunione o che sono ad essi pervenuti durante la medesima per successione o donazione. In mancanza di prova contraria si presume che i beni mobili facciano parte della comunione".
 
-### Art. 75
+## Art. 75
 
 L'articolo 196 del codice civile e' sostituito dal seguente:
 
 "Art. 196 - Ripetizione del valore in caso di mancanza delle cose da prelevare. - Se non si trovano i beni mobili che il coniuge o i suoi eredi hanno diritto di prelevare a norma dell'articolo precedente essi possono ripeterne il valore provandone l'ammontare anche per notorieta', salvo che la mancanza di quei beni sia dovuta a consumazione per uso o perimento o per altra causa non imputabile all'altro coniuge".
 
-### Art. 76
+## Art. 76
 
 L'articolo 197 del codice civile e' sostituito dal seguente:
 
 "Art. 197 - Limiti al prelevamento nei riguardi dei terzi. - Il prelevamento autorizzato dagli articoli precedenti non puo' farsi, a pregiudizio dei terzi, qualora la proprieta' individuale dei beni non risulti da atto avente data certa. E' fatto salvo al coniuge o ai suoi eredi il diritto di regresso sui beni della comunione spettanti all'altro coniuge nonche' sugli altri beni di lui".
 
-### Art. 77
+## Art. 77
 
 Gli articoli 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208 e 209 del codice civile sono abrogati.
 
-### Art. 78
+## Art. 78
 
 L'intitolazione della sezione IV del capo VI del titolo VI del libro I del codice civile e' sostituita dalla seguente:
 
 DELLA COMUNIONE CONVENZIONALE
 
-### Art. 79
+## Art. 79
 
 L'articolo 210 del codice civile e' sostituito dal seguente:
 
@@ -784,33 +784,33 @@ I beni indicati alle lettere c), d) ed e) dell'articolo 179 non possono essere c
 
 Non sono derogabili le norme della comunione legale relative all'amministrazione dei beni della comunione e all'uguaglianza delle quote limitatamente ai beni che formerebbero oggetto della comunione legale".
 
-### Art. 80
+## Art. 80
 
 L'articolo 211 del codice civile e' sostituito dal seguente:
 
 "Art. 211 - Obbligazioni dei coniugi contratte prima del matrimonio. - I beni della comunione rispondono delle obbligazioni contratte da uno dei coniugi prima del matrimonio limitatamente al valore dei beni di proprieta' del coniuge stesso prima del matrimonio che, in base a convenzione stipulata a norma dell'articolo 162, sono entrati a far parte della comunione dei beni".
 
-### Art. 81
+## Art. 81
 
 Gli articoli 212, 213 e 214 del codice civile sono abrogati.
 
-### Art. 82
+## Art. 82
 
 L'intitolazione della sezione V del capo VI del titolo VI del libro I del codice civile e' sostituita dalla seguente:
 
 DEL REGIME DI SEPARAZIONE DEI BENI
 
-### Art. 83
+## Art. 83
 
 L'articolo 215 del codice civile e' sostituito dal seguente:
 
 "Art. 215 - Separazione dei beni. - I coniugi possono convenire che ciascuno di essi conservi la titolarita' esclusiva dei beni acquistati durante il matrimonio".
 
-### Art. 84
+## Art. 84
 
 L'articolo 216 del codice civile e' abrogato.
 
-### Art. 85
+## Art. 85
 
 L'articolo 217 del codice civile e' sostituito dal seguente:
 
@@ -822,13 +822,13 @@ Se uno dei coniugi ha amministrato i beni dell'altro con procura senza l'obbligo
 
 Se uno dei coniugi, nonostante l'opposizione dell'altro, amministra i beni di questo o comunque compie atti relativi a detti beni risponde dei danni e della mancata percezione dei frutti".
 
-### Art. 86
+## Art. 86
 
 L'articolo 218 del codice civile e' sostituito dal seguente:
 
 "Art. 218 - Obbligazioni del coniuge che gode dei beni dell'altro coniuge. - Il coniuge che gode dei beni dell'altro coniuge e' soggetto a tutte le obbligazioni dell'usufruttuario".
 
-### Art. 87
+## Art. 87
 
 L'articolo 219 del codice civile e' sostituito dal seguente:
 
@@ -836,11 +836,11 @@ L'articolo 219 del codice civile e' sostituito dal seguente:
 
 I beni di cui nessuno dei coniugi puo' dimostrare la proprieta' esclusiva sono di proprieta' indivisa per pari quota di entrambi i coniugi".
 
-### Art. 88
+## Art. 88
 
 Gli articoli 220, 221, 222, 223, 224, 225, 226, 227, 228, 229 e 230 del codice civile sono abrogati.
 
-### Art. 89
+## Art. 89
 
 Dopo la sezione V del capo VI del titolo VI del I libro del codice civile e' inserita la seguente:
 
@@ -860,7 +860,7 @@ In caso di divisione ereditaria o di trasferimento dell'azienda i partecipi di c
 
 Le comunioni tacite familiari nell'esercizio dell'agricoltura sono regolate dagli usi che non contrastino con le precedenti norme".
 
-### Art. 90
+## Art. 90
 
 L'articolo 232 del codice civile e' sostituito dal seguente:
 
@@ -868,13 +868,13 @@ L'articolo 232 del codice civile e' sostituito dal seguente:
 
 La presunzione non opera decorsi trecento giorni dalla pronuncia di separazione giudiziale, o dalla omologazione di separazione consensuale, ovvero dalla data della comparizione dei coniugi avanti al giudice quando gli stessi sono stati autorizzati a vivere separatamente nelle more del giudizio di separazione o dei giudizi previsti nel comma precedente".
 
-### Art. 91
+## Art. 91
 
 L'articolo 233 del codice civile e' sostituito dal seguente:
 
 "Art. 233 - Nascita del figlio prima dei centottanta giorni. - Il figlio nato prima che siano trascorsi centottanta giorni dalla celebrazione del matrimonio e' reputata legittima se uno dei coniugi, o il figlio stesso, non ne disconoscono la paternita'".
 
-### Art. 92
+## Art. 92
 
 L'articolo 234 del codice civile e' sostituito dal seguente:
 
@@ -884,7 +884,7 @@ Possono analogamente provare il concepimento durante la convivenza quando il fig
 
 In ogni caso il figlio puo' proporre azione per reclamare lo stato di legittimo".
 
-### Art. 93
+## Art. 93
 
 L'articolo 235 del codice civile e' sostituito dal seguente:
 
@@ -900,7 +900,7 @@ La sola dichiarazione della madre non esclude la paternita'.
 
 L'azione di disconoscimento puo' essere esercitata anche dalla madre o dal figlio che ha raggiunto la maggiore eta' in tutti i casi in cui puo' essere esercitata dal padre".
 
-### Art. 94
+## Art. 94
 
 L'articolo 238 del codice civile e' sostituito dal seguente:
 
@@ -908,7 +908,7 @@ L'articolo 238 del codice civile e' sostituito dal seguente:
 
 Parimenti non si puo' contestare la legittimita' di colui il quale ha un possesso di stato conforme all'atto di nascita".
 
-### Art. 95
+## Art. 95
 
 L'articolo 244 del codice civile e' sostituito dal seguente:
 
@@ -920,13 +920,13 @@ L'azione di disconoscimento della paternita' puo' essere proposta dal figlio, en
 
 L'azione puo' essere altresi' promossa da un curatore speciale nominato dal giudice su istanza del figlio minore che ha compiuto i sedici anni".
 
-### Art. 96
+## Art. 96
 
 L'articolo 245 del codice civile e' sostituito dal seguente:
 
 "Art. 245 - Sospensione del termine. - Se la parte interessata a promuovere l'azione di disconoscimento della paternita' si trova in stato di interdizione per infermita' di mente, la decorrenza del termine indicato nell'articolo precedente e' sospesa, nei suoi confronti, sino a che dura lo stato di interdizione. L'azione puo' tuttavia essere promossa dal tutore".
 
-### Art. 97
+## Art. 97
 
 L'articolo 246 del codice civile e' sostituito dal seguente:
 
@@ -936,7 +936,7 @@ L'articolo 246 del codice civile e' sostituito dal seguente:
 
 2\) nel caso di morte del figlio, il coniuge o i discendenti; il nuovo termine decorre dalla morte del figlio o dal raggiungimento della maggiore eta' da parte di ciascuno dei discendenti".
 
-### Art. 98
+## Art. 98
 
 L'articolo 247 del codice civile e' sostituito dal seguente:
 
@@ -948,7 +948,7 @@ Se una delle parti e' un minore emancipato o un maggiore inabilitato, l'azione e
 
 Se il presunto padre o la madre o il figlio sono morti l'azione si propone nei confronti delle persone indicate nell'articolo precedente o, in loro mancanza, nei confronti di un curatore parimenti nominato dal giudice".
 
-### Art. 99
+## Art. 99
 
 L'articolo 248 del codice civile e' sostituito dal seguente:
 
@@ -960,7 +960,7 @@ Quando l'azione e' proposta nei confronti di persone premorte o minori o altrime
 
 Nel giudizio devono essere chiamati entrambi i genitori".
 
-### Art. 100
+## Art. 100
 
 L'intitolazione del capo II del titolo VII del libro I del codice civile e' sostituita dalla seguente:
 
@@ -968,13 +968,13 @@ DELLA FILIAZIONE NATURALE
 
 E DELLA LEGITTIMAZIONE
 
-### Art. 101
+## Art. 101
 
 L'intitolazione della sezione I del capo II del titolo VII del libro I del codice civile e' sostituita dalla seguente:
 
 DELLA FILIAZIONE NATURALE
 
-### Art. 102
+## Art. 102
 
 L'articolo 250 del codice civile e' sostituito dal seguente:
 
@@ -990,7 +990,7 @@ Il consenso non puo' essere rifiutato ove il riconoscimento risponda all'interes
 
 Il riconoscimento non puo' essere fatto dai genitori che non abbiano compiuto il sedicesimo anno di eta'".
 
-### Art. 103
+## Art. 103
 
 L'articolo 251 del codice civile e' sostituito dal seguente:
 
@@ -998,7 +998,7 @@ L'articolo 251 del codice civile e' sostituito dal seguente:
 
 Il riconoscimento e' autorizzato dal giudice, avuto riguardo all'interesse del figlio ed alla necessita' di evitare allo stesso qualsiasi pregiudizio".
 
-### Art. 104
+## Art. 104
 
 L'articolo 252 del codice civile e' sostituito dal seguente:
 
@@ -1012,13 +1012,13 @@ Qualora il figlio naturale sia riconosciuto anteriormente al matrimonio, il suo 
 
 E' altresi' richiesto il consenso dell'altro genitore naturale che abbia effettuato il riconoscimento".
 
-### Art. 105
+## Art. 105
 
 L'articolo 253 del codice civile e' sostituito dal seguente:
 
 "Art. 253 - Inammissibilita' del riconoscimento. - In nessun caso e' ammesso un riconoscimento in contrasto con lo stato di figlio legittimo o legittimato in cui la persona si trova".
 
-### Art. 106
+## Art. 106
 
 L'articolo 254 del codice civile e' sostituito dal seguente:
 
@@ -1026,13 +1026,13 @@ L'articolo 254 del codice civile e' sostituito dal seguente:
 
 La domanda di legittimazione di un figlio naturale presentata al giudice o la dichiarazione della volonta' di legittimarlo espressa dal genitore in un atto pubblico o in un testamento importa riconoscimento, anche se la legittimazione non abbia luogo".
 
-### Art. 107
+## Art. 107
 
 L'articolo 256 del codice civile e' sostituito dal seguente:
 
 "Art. 256 - Irrevocabilita' del riconoscimento. - Il riconoscimento e' irrevocabile. Quando e' contenuto in un testamento ha effetto dal giorno della morte del testatore, anche se il testamento e' stato revocato".
 
-### Art. 108
+## Art. 108
 
 L'articolo 258 del codice civile e' sostituito dal seguente:
 
@@ -1044,17 +1044,17 @@ Queste indicazioni, qualora siano state fatte, sono senza effetto.
 
 Il pubblico ufficiale che le riceve e l'ufficiale dello stato civile che le riproduce sui registri dello stato civile sono puniti con l'ammenda da lire ventimila a lire ottantamila. Le indicazioni stesse devono essere cancellate".
 
-### Art. 109
+## Art. 109
 
 Gli articoli 259 e 260 del codice civile sono abrogati.
 
-### Art. 110
+## Art. 110
 
 L'articolo 261 del codice civile e' sostituito dal seguente:
 
 "Art. 261 - Diritti e doveri derivanti al genitore dal riconoscimento. - Il riconoscimento comporta da parte del genitore l'assunzione di tutti i doveri e di tutti i diritti che egli ha nei confronti dei figli legittimi".
 
-### Art. 111
+## Art. 111
 
 L'articolo 262 del codice civile e' sostituito dal seguente:
 
@@ -1064,7 +1064,7 @@ Se la filiazione nei confronti del padre e' stata accertata o riconosciuta succe
 
 Nel caso di minore eta' del figlio, il giudice decide circa l'assunzione del cognome del padre".
 
-### Art. 112
+## Art. 112
 
 L'articolo 264 del codice civile e' sostituito dal seguente:
 
@@ -1072,7 +1072,7 @@ L'articolo 264 del codice civile e' sostituito dal seguente:
 
 Tuttavia il giudice, con provvedimento in camera di consiglio su istanza del pubblico ministero o del tutore o dell'altro genitore che abbia validamente riconosciuto il figlio o del figlio stesso che abbia compiuto il sedicesimo anno di eta', puo' dare l'autorizzazione per impugnare il riconoscimento, nominando un curatore speciale".
 
-### Art. 113
+## Art. 113
 
 L'articolo 269 del codice civile e' sostituito dal seguente:
 
@@ -1084,7 +1084,7 @@ La maternita' e' dimostrata provando la identita' di colui che si pretende esser
 
 La sola dichiarazione della madre e la sola esistenza di rapporti tra la madre e il preteso padre all'epoca del concepimento non costituiscono prova della paternita' naturale".
 
-### Art. 114
+## Art. 114
 
 L'articolo 270 del codice civile e' sostituito dal seguente:
 
@@ -1094,11 +1094,11 @@ Se il figlio muore prima di avere iniziato l'azione, questa puo' essere promossa
 
 L'azione promossa dal figlio, se egli muore, puo' essere proseguita dai discendenti legittimi, legittimati o naturali riconosciuti".
 
-### Art. 115
+## Art. 115
 
 Gli articoli 271 e 272 del codice civile sono abrogati.
 
-### Art. 116
+## Art. 116
 
 L'articolo 273 del codice civile e' sostituito dal seguente:
 
@@ -1108,23 +1108,23 @@ Occorre il consenso del figlio per promuovere o per proseguire l'azione se egli 
 
 Per l'interdetto l'azione puo' essere promossa dal tutore previa autorizzazione del giudice".
 
-### Art. 117
+## Art. 117
 
 Il primo comma dell'articolo 274 del codice civile e' sostituito dal seguente:
 
 "Art. 274 - Ammissibilita' dell'azione. - L'azione per la dichiarazione giudiziale di paternita' o di maternita' naturale e' ammessa solo quando occorrono specifiche circostanze tali da farla apparire giustificata".
 
-### Art. 118
+## Art. 118
 
 L'articolo 275 del codice civile e' abrogato.
 
-### Art. 119
+## Art. 119
 
 Il secondo comma dell'articolo 277 del codice civile e' sostituito dal seguente:
 
 "Il giudice puo' anche dare i provvedimenti che stima utili per il mantenimento, l'istruzione e l'educazione del figlio e per la tutela degli interessi patrimoniali di lui".
 
-### Art. 120
+## Art. 120
 
 L'articolo 278 del codice civile e' sostituito dal seguente:
 
@@ -1132,7 +1132,7 @@ L'articolo 278 del codice civile e' sostituito dal seguente:
 
 Possono essere ammesse dal giudice quando vi e' stato ratto o violenza carnale nel tempo che corrisponde a quello del concepimento".
 
-### Art. 121
+## Art. 121
 
 L'articolo 279 del codice civile e' sostituito dal seguente:
 
@@ -1142,7 +1142,7 @@ L'azione e' ammessa previa autorizzazione del giudice ai sensi dell'articolo 274
 
 L'azione puo' essere promossa nell'interesse del figlio minore da un curatore speciale nominato dal giudice su richiesta del pubblico ministero o del genitore che esercita la potesta'".
 
-### Art. 122
+## Art. 122
 
 L'articolo 280 del codice civile e' sostituito dal seguente:
 
@@ -1150,19 +1150,19 @@ L'articolo 280 del codice civile e' sostituito dal seguente:
 
 Essa avviene per susseguente matrimonio dei genitori del figlio naturale o per provvedimento del giudice".
 
-### Art. 123
+## Art. 123
 
 L'articolo 281 del codice civile e' sostituito dal seguente:
 
 "Art. 281 - Divieto di legittimazione. - Non possono essere legittimati i figli che non possono essere riconosciuti".
 
-### Art. 124
+## Art. 124
 
 L'articolo 283 del codice civile e' sostituito dal seguente:
 
 "Art. 283 - Effetti e decorrenza della legittimazione per susseguente matrimonio. - I figli legittimati per susseguente matrimonio acquistano i diritti dei figli legittimi dal giorno del matrimonio, se sono stati riconosciuti da entrambi i genitori nell'atto di matrimonio o anteriormente, oppure dal giorno del riconoscimento se questo e' avvenuto dopo il matrimonio".
 
-### Art. 125
+## Art. 125
 
 L'articolo 284 del codice civile e' sostituito tal seguente:
 
@@ -1178,7 +1178,7 @@ L'articolo 284 del codice civile e' sostituito tal seguente:
 
 La legittimazione puo' essere chiesta anche in presenza di figli legittimi o legittimati. In tal caso il presidente del tribunale deve ascoltare i figli legittimi o legittimati, se di eta' superiore ai sedici anni".
 
-### Art. 126
+## Art. 126
 
 L'articolo 285 del codice civile e' sostituito dal seguente:
 
@@ -1186,7 +1186,7 @@ L'articolo 285 del codice civile e' sostituito dal seguente:
 
 In questo caso la domanda deve essere comunicata agli ascendenti, discendenti e coniuge o, in loro mancanza, a due tra i prossimi parenti del genitore entro il quarto grado".
 
-### Art. 127
+## Art. 127
 
 L'articolo 287 del codice civile e' sostituito dal seguente:
 
@@ -1196,7 +1196,7 @@ L'articolo 287 del codice civile e' sostituito dal seguente:
 
 Quando i figli non sono stati riconosciuti, per domandarne la legittimazione e' necessario che dalla procura risulti la volonta' di riconoscerli o di legittimarli".
 
-### Art. 128
+## Art. 128
 
 L'articolo 288 del codice civile e' sostituito dal seguente:
 
@@ -1208,7 +1208,7 @@ Il pubblico ministero e la parte possono, entro venti giorni dalla comunicazione
 
 In ogni caso la sentenza che accoglie la domanda e' annotata in calce all'atto di nascita del figlio".
 
-### Art. 129
+## Art. 129
 
 L'articolo 289 del codice civile e' sostituito dal seguente:
 
@@ -1218,7 +1218,7 @@ L'articolo 289 del codice civile e' sostituito dal seguente:
 
 Se manca la condizione indicata nel numero 3) dello articolo 284 la contestazione puo' essere promossa soltanto dal coniuge del quale e' mancato l'assenso".
 
-### Art. 130
+## Art. 130
 
 L'articolo 290 del codice civile e' sostituito dal seguente:
 
@@ -1226,7 +1226,7 @@ L'articolo 290 del codice civile e' sostituito dal seguente:
 
 Se il provvedimento interviene dopo la morte del genitore, gli effetti risalgono alla data della morte, purche' la domanda di legittimazione non sia stata presentata dopo un anno da tale data".
 
-### Art. 131
+## Art. 131
 
 L'articolo 293 del codice civile e' sostituito dal seguente:
 
@@ -1238,7 +1238,7 @@ Non puo' tuttavia essere dichiarata la nullita' della adozione se, al momento in
 
 Se l'adottato e' un figlio naturale non riconoscibile, puo' essere sempre dichiarata la nullita' dell'adozione".
 
-### Art. 132
+## Art. 132
 
 L'articolo 297 del codice civile e' sostituito dal seguente:
 
@@ -1246,7 +1246,7 @@ L'articolo 297 del codice civile e' sostituito dal seguente:
 
 Quando e' negato l'assenso previsto dal primo comma, il tribunale, sentiti gli interessati, su istanza dello adottante, puo', ove ritenga il rifiuto ingiustificato o contrario all'interesse dell'adottando, pronunziare ugualmente l'adozione, salvo che si tratti dell'assenso dei genitori esercenti la potesta' o del coniuge, se convivente, dell'adottante o dell'adottando. Parimenti il tribunale puo' pronunziare l'adozione quando e' impossibile ottenere l'assenso per incapacita' o irreperibilita' delle persone chiamate ad esprimerlo".
 
-### Art. 133
+## Art. 133
 
 L'articolo 301 del codice civile e' sostituito dal seguente:
 
@@ -1256,13 +1256,13 @@ L'adottante ha l'obbligo di mantenere l'adottato, di istruirlo ed educarlo confo
 
 Se l'adottato ha beni propri, l'amministrazione di essi, durante la minore eta' dell'adottato, spetta all'adottante, il quale non ne ha l'usufrutto legale, ma puo' impiegarne le rendite per le spese di mantenimento, istruzione ed educazione del minore, con l'obbligo di investirne l'eccedenza in modo fruttifero. Si applicano le disposizioni dell'articolo 382".
 
-### Art. 134
+## Art. 134
 
 L'articolo 303 del codice civile e' sostituito dal seguente:
 
 "Art. 303 - Cessazione della potesta' dell'adottante. - Se cessa l'esercizio da parte dell'adottante o degli adottanti della potesta', il tribunale, su istanza dello adottato, dei suoi parenti o affini o del pubblico ministero, o anche d'ufficio, puo' dare i provvedimenti opportuni circa la cura della persona dell'adottato, la sua rappresentanza e l'amministrazione dei suoi beni, anche se ritiene conveniente che l'esercizio della potesta' sia ripreso dai genitori".
 
-### Art. 135
+## Art. 135
 
 L'articolo 310 del codice civile e' sostituito dal seguente:
 
@@ -1274,19 +1274,19 @@ L'articolo 310 del codice civile e' sostituito dal seguente:
 
 3\) per riconoscimento del figlio adottivo da parte dell'adottante".
 
-### Art. 136
+## Art. 136
 
 La rubrica del titolo IX del libro I del codice civile e' sostituita dalla seguente:
 
 DELLA POTESTA' DEI GENITORI
 
-### Art. 137
+## Art. 137
 
 L'articolo 315 del codice civile e' sostituito dal seguente:
 
 "Art. 315 - Doveri del figlio verso i genitori. - Il figlio deve rispettare i genitori e deve contribuire, in relazione alle proprie sostanze e al proprio reddito, al mantenimento della famiglia finche' convive con essa".
 
-### Art. 138
+## Art. 138
 
 L'articolo 316 del codice civile e' sostituito dal seguente:
 
@@ -1300,7 +1300,7 @@ Se sussiste un incombente pericolo di un grave pregiudizio per il figlio, il pad
 
 Il giudice, sentiti i genitori ed il figlio, se maggiore degli anni quattordici, suggerisce le determinazioni che ritiene piu' utili nell'interesse del figlio e dell'unita' familiare. Se il contrasto permane il giudice attribuisce il potere di decisione a quello dei genitori che, nel singolo caso, ritiene il piu' idoneo a curare l'interesse del figlio".
 
-### Art. 139
+## Art. 139
 
 L'articolo 317 del codice civile e' sostituito dal seguente:
 
@@ -1308,7 +1308,7 @@ L'articolo 317 del codice civile e' sostituito dal seguente:
 
 La potesta' comune dei genitori non cessa quando, a seguito di separazione, di scioglimento, di annullamento o di cessazione degli effetti civili del matrimonio, i figli vengono affidati ad uno di essi. L'esercizio della potesta' e' regolato, in tali casi, secondo quanto disposto nell'articolo 155".
 
-### Art. 140
+## Art. 140
 
 Dopo l'articolo 317 del codice civile e' inserito il seguente:
 
@@ -1318,17 +1318,17 @@ Se il riconoscimento e' fatto da entrambi i genitori, l'esercizio della potesta'
 
 Il genitore che non esercita la potesta' ha il potere di vigilare sull'istruzione, sull'educazione e sulle condizioni di vita del figlio minore".
 
-### Art. 141
+## Art. 141
 
 L'articolo 318 del codice civile e' sostituito dal seguente:
 
 "Art. 318 - Abbandono della casa del genitore. - Il figlio non puo' abbandonare la casa dei genitori o del genitore che esercita su di lui la potesta' ne' la dimora da essi assegnatagli. Qualora se ne allontani senza permesso, i genitori possono richiamarlo ricorrendo, se necessario, al giudice tutelare".
 
-### Art. 142
+## Art. 142
 
 L'articolo 319 del codice civile e' abrogato.
 
-### Art. 143
+## Art. 143
 
 L'articolo 320 del codice civile e' sostituito dal seguente:
 
@@ -1344,19 +1344,19 @@ L'esercizio di una impresa commerciale non puo' essere continuato se non con l'a
 
 Se sorge conflitto di interessi patrimoniali tra i figli soggetti alla stessa potesta', o tra essi e i genitori o quello di essi che esercita in via esclusiva la potesta', il giudice tutelare nomina ai figli un curatore speciale. Se il conflitto sorge tra i figli e uno solo dei genitori esercenti la potesta', la rappresentanza dei figli spetta esclusivamente all'altro genitore".
 
-### Art. 144
+## Art. 144
 
 L'articolo 321 del codice civile e' sostituito dal seguente:
 
 "Art. 321 - Nomina di un curatore speciale. - In tutti i casi in cui i genitori congiuntamente, o quello di essi che esercita in via esclusiva la potesta', non possono o non vogliono compiere uno o piu' atti di interesse del figlio, eccedente l'ordinaria amministrazione, il giudice, su richiesta del figlio stesso, del pubblico ministero o di uno dei parenti che vi abbia interesse, e sentiti i genitori, puo' nominare al figlio un curatore speciale autorizzandolo al compimento di tali atti".
 
-### Art. 145
+## Art. 145
 
 L'articolo 322 del codice civile e' sostituito dal seguente:
 
 "Art. 322 - Inosservanza delle disposizioni precedenti. - Gli atti compiuti senza osservare le norme dei precedenti articoli del presente titolo possono essere annullati su istanza dei genitori esercenti la potesta' o del figlio o dei suoi eredi o aventi causa".
 
-### Art. 146
+## Art. 146
 
 L'articolo 323 del codice civile e' sostituito dal seguente:
 
@@ -1366,7 +1366,7 @@ Gli atti compiuti in violazione del divieto previsto nel comma precedente posson
 
 I genitori esercenti la potesta' non possono diventare cessionari di alcuna ragione o credito verso il minore".
 
-### Art. 147
+## Art. 147
 
 L'articolo 324 del codice civile e' sostituito dal seguente:
 
@@ -1384,13 +1384,13 @@ Non sono soggetti ad usufrutto legale:
 
 4\) i beni pervenuti al figlio per eredita', legato o donazione e accettati nell'interesse del figlio contro la volonta' dei genitori esercenti la potesta'. Se uno solo di essi era favorevole all'accettazione, l'usufrutto legale spetta esclusivamente a lui".
 
-### Art. 148
+## Art. 148
 
 L'articolo 325 del codice civile e' sostituito dal seguente:
 
 "Art. 325 - Obblighi inerenti all'usufrutto legale. - Gravano sull'usufrutto legale gli obblighi propri dello usufruttuario".
 
-### Art. 149
+## Art. 149
 
 L'articolo 326 del codice civile e' sostituito dal seguente:
 
@@ -1398,19 +1398,19 @@ L'articolo 326 del codice civile e' sostituito dal seguente:
 
 L'esecuzione sui frutti dei beni del figlio da parte dei creditori dei genitori o di quello di essi che ne e' titolare esclusivo non puo' aver luogo per debiti che il creditore conosceva essere stati contratti per scopi estranei ai bisogni della famiglia".
 
-### Art. 150
+## Art. 150
 
 L'articolo 327 del codice civile e' sostituito dal seguente:
 
 "Art. 327 - Usufrutto legale di uno solo dei genitori. - Il genitore che esercita in modo esclusivo la potesta' e' il solo titolare dell'usufrutto legale".
 
-### Art. 151
+## Art. 151
 
 L'articolo 328 del codice civile e' sostituito dal seguente:
 
 "Art. 328 - Nuove nozze. - Il genitore che passa a nuove nozze conserva l'usufrutto legale, con l'obbligo tuttavia di accantonare in favore del figlio quanto risulti eccedente rispetto alle spese per il mantenimento, l'istruzione e l'educazione di quest'ultimo".
 
-### Art. 152
+## Art. 152
 
 L'articolo 330 del codice civile e' sostituito dal seguente:
 
@@ -1418,17 +1418,17 @@ L'articolo 330 del codice civile e' sostituito dal seguente:
 
 In tale caso, per gravi motivi, il giudice puo' ordinare l'allontanamento del figlio dalla residenza familiare".
 
-### Art. 153
+## Art. 153
 
 L'articolo 331 del codice civile e' abrogato.
 
-### Art. 154
+## Art. 154
 
 L'articolo 332 del codice civile e' sostituito dal seguente:
 
 "Art. 332 - Reintegrazione nella potesta'. - Il giudice puo' reintegrare nella potesta' il genitore che ne e' decaduto, quando, cessate le ragioni per le quali la decadenza e' stata pronunciata, e' escluso ogni pericolo di pregiudizio per il figlio".
 
-### Art. 155
+## Art. 155
 
 L'articolo 333 del codice civile e' sostituito dal seguente:
 
@@ -1436,7 +1436,7 @@ L'articolo 333 del codice civile e' sostituito dal seguente:
 
 Tali provvedimenti sono revocabili in qualsiasi momento".
 
-### Art. 156
+## Art. 156
 
 L'articolo 334 del codice civile e' sostituito dal seguente:
 
@@ -1444,7 +1444,7 @@ L'articolo 334 del codice civile e' sostituito dal seguente:
 
 L'amministrazione e' affidata ad un curatore, se e' disposta la rimozione di entrambi i genitori".
 
-### Art. 157
+## Art. 157
 
 L'articolo 336 del codice civile e' sostituito dal seguente:
 
@@ -1454,37 +1454,37 @@ Il tribunale provvede in camera di consiglio, assunte informazioni e sentito il 
 
 In caso di urgente necessita' il tribunale puo' adottare, anche d'ufficio, provvedimenti temporanei nello interesse del figlio".
 
-### Art. 158
+## Art. 158
 
 L'articolo 337 del codice civile e' sostituito dal seguente:
 
 "Art. 337 - Vigilanza del giudice tutelare. - Il giudice tutelare deve vigilare sull'osservanza delle condizioni che il tribunale abbia stabilito per l'esercizio della potesta' e per l'amministrazione dei beni".
 
-### Art. 159
+## Art. 159
 
 Gli articoli 338, 339, 340 e 341 del codice civile sono abrogati.
 
-### Art. 160
+## Art. 160
 
 L'articolo 347 del codice civile e' sostituito dal seguente:
 
 "Art. 347 - Tutela di piu' fratelli. - E' nominato un solo tutore a piu' fratelli e sorelle, salvo che particolari circostanze consiglino la nomina di piu' tutori. Se vi e' conflitto di interessi tra minori soggetti alla stessa tutela, il giudice tutelare nomina ai minori un curatore speciale".
 
-### Art. 161
+## Art. 161
 
 Il numero 3) dell'articolo 352 del codice civile e' abrogato.
 
-### Art. 162
+## Art. 162
 
 L'articolo 359 del codice civile e' abrogato.
 
-### Art. 163
+## Art. 163
 
 L'intitolazione del titolo XI del libro I del codice civile e' sostituita dalla seguente:
 
 DELL'AFFILIAZIONE E DELL'AFFIDAMENTO
 
-### Art. 164
+## Art. 164
 
 L'articolo 405 del codice civile e' sostituito dal seguente:
 
@@ -1492,7 +1492,7 @@ L'articolo 405 del codice civile e' sostituito dal seguente:
 
 Se il coniuge e' nella impossibilita' di manifestare la sua volonta', il giudice tutelare puo', per gravi motivi, autorizzare ugualmente l'affiliazione".
 
-### Art. 165
+## Art. 165
 
 L'articolo 406 del codice civile e' sostituito dal seguente:
 
@@ -1502,7 +1502,7 @@ Il giudice tutelare puo' prescrivere norme per il mantenimento, l'istruzione e l
 
 Il provvedimento che accoglie la domanda di affiliazione e' omologato dal tribunale, sentito il pubblico ministero, ed e' annotato a margine dell'atto di nascita del minore".
 
-### Art. 166
+## Art. 166
 
 L'articolo 409 del codice civile e' sostituito dal seguente:
 
@@ -1514,7 +1514,7 @@ Il coniuge dell'affiliante puo' ottenere, nelle forme gia' indicate, che la qual
 
 Se il minore e' stato affiliato da due coniugi, l'esercizio dei poteri inerenti alla potesta' spetta ad entrambi".
 
-### Art. 167
+## Art. 167
 
 L'articolo 411 del codice civile e' sostituito dal seguente:
 
@@ -1526,7 +1526,7 @@ Se l'affiliazione continua, l'affiliato, a cui e' stato attribuito il cognome de
 
 Il giudice tutelare puo' prescrivere in ogni caso regole o condizioni per l'ulteriore educazione del minore".
 
-### Art. 168
+## Art. 168
 
 L'articolo 433 del codice civile e' sostituito dal seguente:
 
@@ -1544,17 +1544,17 @@ L'articolo 433 del codice civile e' sostituito dal seguente:
 
 6\) i fratelli e le sorelle germani o unilaterali, con precedenza dei germani sugli unilaterali".
 
-### Art. 169
+## Art. 169
 
 L'articolo 435 del codice civile e' abrogato.
 
-### Art. 170
+## Art. 170
 
 L'articolo 436 del codice civile e' sostituito dal seguente:
 
 "Art. 436 - Obbligo tra adottante e adottato. - Lo adottante deve gli alimenti al figlio adottivo con precedenza sui genitori legittimi o naturali di lui".
 
-### Art. 171
+## Art. 171
 
 L'articolo 467 del codice civile e' sostituito dal seguente:
 
@@ -1562,7 +1562,7 @@ L'articolo 467 del codice civile e' sostituito dal seguente:
 
 Si ha rappresentazione nella successione testamentaria quando il testatore non ha provveduto per il caso in cui l'istituto non possa o non voglia accettare la eredita' o il legato, e sempre che non si tratti di legato di usufrutto o di altro diritto di natura personale".
 
-### Art. 172
+## Art. 172
 
 L'articolo 536 del codice civile e' sostituito dal seguente:
 
@@ -1572,7 +1572,7 @@ Ai figli legittimi sono equiparati i legittimati e gli adottivi.
 
 A favore dei discendenti dei figli legittimi o naturali, i quali vengono alla successione in luogo di questi, la legge riserva gli stessi diritti che sono riservati ai figli legittimi o naturali".
 
-### Art. 173
+## Art. 173
 
 L'articolo 537 del codice civile e' sostituito dal seguente:
 
@@ -1582,7 +1582,7 @@ Se i figli sono piu', e' loro riservata la quota dei due terzi, da dividersi in 
 
 I figli legittimi possono soddisfare in denaro o in beni immobili ereditari la porzione spettante ai figli naturali che non vi si oppongano. Nel caso di opposizione decide il giudice, valutate le circostanze personali e patrimoniali".
 
-### Art. 174
+## Art. 174
 
 L'articolo 538 del codice civile e' sostituito dal seguente:
 
@@ -1590,11 +1590,11 @@ L'articolo 538 del codice civile e' sostituito dal seguente:
 
 In caso di pluralita' di ascendenti, la riserva e' ripartita tra i medesimi secondo i criteri previsti dall'articolo 569".
 
-### Art. 175
+## Art. 175
 
 L'articolo 539 del codice civile e' abrogato.
 
-### Art. 176
+## Art. 176
 
 L'articolo 540 del codice civile e' sostituito dal seguente:
 
@@ -1602,11 +1602,11 @@ L'articolo 540 del codice civile e' sostituito dal seguente:
 
 Al coniuge, anche quando concorra con altri chiamati, sono riservati i diritti di abitazione sulla casa adibita a residenza familiare e di uso sui mobili che la corredano, se di proprieta' del defunto o comuni. Tali diritti gravano sulla porzione disponibile e, qualora questa non sia sufficiente, per il rimanente sulla quota di riserva del coniuge ed eventualmente sulla quota riservata ai figli".
 
-### Art. 177
+## Art. 177
 
 L'articolo 541 del codice civile e' abrogato.
 
-### Art. 178
+## Art. 178
 
 L'articolo 542 del codice civile e' sostituito dal seguente:
 
@@ -1616,11 +1616,11 @@ Quando i figli, legittimi o naturali, sono piu' di uno, ad essi e' complessivame
 
 Si applica il terzo comma dell'articolo 537".
 
-### Art. 179
+## Art. 179
 
 L'articolo 543 del codice civile e' abrogato.
 
-### Art. 180
+## Art. 180
 
 L'articolo 544 del codice civile e' sostituito dal seguente:
 
@@ -1628,11 +1628,11 @@ L'articolo 544 del codice civile e' sostituito dal seguente:
 
 In caso di pluralita' di ascendenti, la quota di riserva ad essi attribuita ai sensi del precedente comma e' ripartita tra i medesimi secondo i criteri previsti dall'articolo 569".
 
-### Art. 181
+## Art. 181
 
 Gli articoli 545, 546 e 547 del codice civile sono abrogati.
 
-### Art. 182
+## Art. 182
 
 L'articolo 548 del codice civile e' sostituto dal seguente:
 
@@ -1640,13 +1640,13 @@ L'articolo 548 del codice civile e' sostituto dal seguente:
 
 Il coniuge cui e' stata addebitata la separazione con sentenza passata in giudicato ha diritto soltanto ad un assegno vitalizio se al momento dell'apertura della successione godeva degli alimenti a carico del coniuge deceduto. L'assegno e' commisurato alle sostanze ereditarie e alla qualita' e al numero degli eredi legittimi, e non e' comunque di entita' superiore a quella della prestazione alimentare goduta. La medesima disposizione si applica nel caso in cui la separazione sia stata addebitata ad entrambi i coniugi".
 
-### Art. 183
+## Art. 183
 
 L'articolo 565 del codice civile e' sostituto dal seguente:
 
 "Art. 565 - Categorie dei successibili. - Nella successione legittima l'eredita' si devolve al coniuge, ai discendenti legittimi e naturali, agli ascendenti legittimi, ai collaterali, agli altri parenti e allo Stato, nell'ordine e secondo le regole stabilite nel presente titolo".
 
-### Art. 184
+## Art. 184
 
 I capi I e II del titolo II del libro II del codice civile sono unificati, con la seguente intitolazione:
 
@@ -1654,7 +1654,7 @@ DELLA SUCCESSIONE DEI PARENTI
 
 Conseguentemente il capo III ed il capo IV dello stesso titolo II del libro II divengono, rispettivamente, il capo II e il capo III, restando invariate le rubriche.
 
-### Art. 185
+## Art. 185
 
 L'articolo 566 del codice civile e' sostituito dal seguente:
 
@@ -1662,7 +1662,7 @@ L'articolo 566 del codice civile e' sostituito dal seguente:
 
 Si applica il terzo comma dell'articolo 537".
 
-### Art. 186
+## Art. 186
 
 L'articolo 571 del codice civile e' sostituto dal seguente:
 
@@ -1672,11 +1672,11 @@ Se vi sono fratelli e sorelle unilaterali, ciascuno di essi consegue la meta' de
 
 Se entrambi i genitori non possono o non vogliono venire alla successione e vi sono ulteriori ascendenti, a questi ultimi si devolve, nel modo determinato dall'articolo 569, la quota che sarebbe spettata a uno dei genitori in mancanza dell'altro".
 
-### Art. 187
+## Art. 187
 
 Gli articoli 574, 575 e 576 del codice civile sono abrogati.
 
-### Art. 188
+## Art. 188
 
 L'articolo 580 del codice civile e' sostituito dal seguente:
 
@@ -1684,25 +1684,25 @@ L'articolo 580 del codice civile e' sostituito dal seguente:
 
 I figli naturali hanno diritto di ottenere su loro richiesta la capitalizzazione dell'assegno loro spettante a norma del comma precedente, in denaro, ovvero, a scelta degli eredi legittimi, in beni ereditari".
 
-### Art. 189
+## Art. 189
 
 L'articolo 581 del codice civile e' sostituito dal seguente:
 
 "Art. 581 - Concorso del coniuge con i figli. - Quando con il coniuge concorrono figli legittimi o figli naturali, o figli legittimi e naturali, il coniuge ha diritto alla meta' dell'eredita', se alla successione concorre un solo figlio, e ad un terzo negli altri casi".
 
-### Art. 190
+## Art. 190
 
 L'articolo 582 del codice civile e' sostituto dal seguente:
 
 "Art. 582 - Concorso del coniuge con ascendenti legittimi, fratelli e sorelle. - Al coniuge sono devoluti i due terzi dell'eredita' se egli concorre con ascendenti legittimi o con fratelli e sorelle anche se unilaterali, ovvero con gli uni e con gli altri. In quest'ultimo caso la parte residua e' devoluta agli ascendenti, ai fratelli e alle sorelle, secondo le disposizioni dell'articolo 571, salvo in ogni caso agli ascendenti il diritto a un quarto della eredita'".
 
-### Art. 191
+## Art. 191
 
 L'articolo 583 del codice civile e' sostituito dal seguente:
 
 "Art. 583 - Successione del solo coniuge. - In mancanza di figli legittimi o naturali, di ascendenti, di fratelli o sorelle, al coniuge si devolve tutta l'eredita'"
 
-### Art. 192
+## Art. 192
 
 L'articolo 584 del codice civile e' sostituito dal seguente:
 
@@ -1710,7 +1710,7 @@ L'articolo 584 del codice civile e' sostituito dal seguente:
 
 Egli e' pero' escluso dalla successione, quando la persona della cui eredita' si tratta e' legata da valido matrimonio al momento della morte".
 
-### Art. 193
+## Art. 193
 
 L'articolo 585 del codice civile e' sostituito dal seguente:
 
@@ -1718,21 +1718,21 @@ L'articolo 585 del codice civile e' sostituito dal seguente:
 
 Nel caso in cui al coniuge sia stata addebitata la separazione con sentenza passata in giudicato, si applicano le disposizioni del secondo comma dell'articolo 548".
 
-### Art. 194
+## Art. 194
 
 L'articolo 593 del codice civile e' abrogato.
 
-### Art. 195
+## Art. 195
 
 L'articolo 594 del codice civile e' sostituito dal seguente:
 
 "Art. 594 - Assegno ai figli naturali non riconoscibili. - Gli eredi, i legatari e i donatari sono tenuti, in proporzione a quanto hanno ricevuto, a corrispondere ai figli naturali di cui all'articolo 279 un assegno vitalizio nei limiti stabiliti dall'articolo 580, se il genitore non ha disposto per donazione o testamento in favore dei figli medesimi. Se il genitore ha disposta in loro favore, essi possono rinunziare alla disposizione e chiedere l'assegno".
 
-### Art. 196
+## Art. 196
 
 L'articolo 595 del codice civile e' abrogato.
 
-### Art. 197
+## Art. 197
 
 L'articolo 692 del codice civile e' sostituito dal seguente:
 
@@ -1746,11 +1746,11 @@ La sostituzione e' priva di effetto nel caso in cui l'interdizione sia negata o 
 
 In ogni altro caso la sostituzione e' nulla".
 
-### Art. 198
+## Art. 198
 
 E' abrogato il terzo comma dell'articolo 693 del codice civile.
 
-### Art. 199
+## Art. 199
 
 L'articolo 696 del codice civile e' sostituito dal seguente:
 
@@ -1758,11 +1758,11 @@ L'articolo 696 del codice civile e' sostituito dal seguente:
 
 Se le persone o gli enti che hanno avuto cura dell'incapace muoiono o si estinguono prima della morte di lui, i beni o la porzione dei beni che spetterebbe loro e' devoluta ai successori legittimi dell'incapace".
 
-### Art. 200
+## Art. 200
 
 L'articolo 716 del codice civile e' abrogato.
 
-### Art. 201
+## Art. 201
 
 L'articolo 737 del codice civile e' sostituito dal seguente:
 
@@ -1770,29 +1770,29 @@ L'articolo 737 del codice civile e' sostituito dal seguente:
 
 La dispensa da collazione non produce effetto se non nei limiti della quota disponibile".
 
-### Art. 202
+## Art. 202
 
 L'articolo 738 del codice civile e' sostituito dal seguente:
 
 "Art. 738 - Limiti della collazione per il coniuge. - Non sono soggetti a collazione le donazioni di modico valore fatte al coniuge".
 
-### Art. 203
+## Art. 203
 
 L'articolo 740 del codice civile e' sostituito dal seguente:
 
 "Art. 740 - Donazioni fatte all'ascendente dell'erede. - Il discendente che succede per rappresentazione deve conferire cio' che e' stato donato all'ascendente, anche nel caso in cui abbia rinunziato all'eredita' di questo".
 
-### Art. 204
+## Art. 204
 
 L'articolo 741 del codice civile e' sostituito dal seguente:
 
 "Art. 741 - Collazione di assegnazioni varie. - E' soggetto a collazione cio' che il defunto ha speso a favore dei suoi discendenti per assegnazioni fatte a causa di matrimonio, per avviarli all'esercizio di una attivita' produttiva o professionale, per soddisfare premi relativi a contratti di assicurazione sulla vita a loro favore o per pagare i loro debiti".
 
-### Art. 205
+## Art. 205
 
 Gli articoli 780 e 2140 del codice civile sono abrogati.
 
-### Art. 206
+## Art. 206
 
 L'articolo 2647 del codice civile e' sostituito dal seguente:
 
@@ -1802,7 +1802,7 @@ Le trascrizioni previste dal precedente comma devono essere eseguite anche relat
 
 La trascrizione del vincolo derivante dal fondo patrimoniale costituito per testamento deve essere eseguita d'ufficio dal conservatore contemporaneamente alla trascrizione dell'acquisto a causa di morte".
 
-### Art. 207
+## Art. 207
 
 L'articolo 2685 del codice civile e' sostituito dal seguente:
 
@@ -1810,7 +1810,7 @@ L'articolo 2685 del codice civile e' sostituito dal seguente:
 
 La trascrizione ha gli effetti stabiliti per i beni immobili".
 
-### Art. 208
+## Art. 208
 
 L'articolo 2817 del codice civile e' sostituito dal seguente:
 
@@ -1822,43 +1822,43 @@ L'articolo 2817 del codice civile e' sostituito dal seguente:
 
 3\) lo Stato sopra i beni dell'imputato e della persona civilmente responsabile, secondo le disposizioni del codice penale e del codice di procedura penale".
 
-### Art. 209
+## Art. 209
 
 Gli articoli 2832, 2833 e 2849 del codice civile sono abrogati.
 
-### Art. 210
+## Art. 210
 
 Al numero 2) dell'articolo 2941 del codice civile, le parole: "patria potesta'" sono sostituite dalle altre: "potesta' di cui all'articolo 316".
 
 ## NORME FINALI E TRANSITORIE
 
-### Art. 211
+## Art. 211
 
 Il coniuge cui i figli sono affidati ha diritto in ogni caso a percepire gli assegni familiari per i figli, sia che ad essi abbia diritto per un suo rapporto di lavoro, sia che di essi sia titolare l'altro coniuge.
 
-### Art. 212
+## Art. 212
 
 Il termine di sette anni previsto dall'articolo 3, n. 2, lettera b), terzo comma della legge 1 dicembre 1970, n. 898, per domandare lo scioglimento o la cessazione degli effetti civili del matrimonio, si applica nei confronti del coniuge a cui con sentenza passata in giudicato e' stata esclusivamente addebitata la separazione personale ai sensi dell'articolo 151, secondo comma, del codice civile, quando vi sia opposizione dell'altro coniuge.
 
-### Art. 213
+## Art. 213
 
 L'articolo 32 delle disposizioni per l'attuazione del codice civile e disposizioni transitorie approvate con regio decreto 30 marzo 1942, n. 318, e' sostituito dal seguente:
 
 "Il pubblico ministero deve essere sempre sentito nei procedimenti di volontaria giurisdizione riguardanti il fondo patrimoniale".
 
-### Art. 214
+## Art. 214
 
 L'articolo 33 delle disposizioni d'attuazione del codice civile e' sostituito dal seguente:
 
 "Nel caso previsto dall'articolo 183 del codice, il tribunale, in camera di consiglio, provvede con decreto, su istanza dell'altro coniuge, e sentito il pubblico ministero".
 
-### Art. 215
+## Art. 215
 
 L'articolo 34 delle disposizioni d'attuazione del codice civile e' sostituito dal seguente:
 
 "Sulla domanda del figlio naturale per ottenere il mantenimento, l'istruzione e l'educazione di cui all'articolo 279, primo comma, del codice provvede il tribunale per i minorenni".
 
-### Art. 216
+## Art. 216
 
 Dopo l'articolo 34 delle disposizioni di attuazione del codice civile e' inserito il seguente:
 
@@ -1866,7 +1866,7 @@ Dopo l'articolo 34 delle disposizioni di attuazione del codice civile e' inserit
 
 Nello stesso termine deve richiedere l'annotazione di cui all'ultimo comma dell'articolo 163 del codice".
 
-### Art. 217
+## Art. 217
 
 L'articolo 35 delle disposizioni d'attuazione del codice civile e sostituito dal seguente:
 
@@ -1874,7 +1874,7 @@ L'articolo 35 delle disposizioni d'attuazione del codice civile e sostituito dal
 
 Sulla domanda di legittimazione, di adozione e di revoca della adozione di minore di eta' provvede il tribunale per i minorenni".
 
-### Art. 218
+## Art. 218
 
 L'articolo 36 delle disposizioni d'attuazione del codice civile e' sostituito dal seguente:
 
@@ -1882,13 +1882,13 @@ L'articolo 36 delle disposizioni d'attuazione del codice civile e' sostituito da
 
 Qualora la rinunziante risieda all'estero, la rinunzia deve essere fatta dinanzi all'agente diplomatico o consolare del luogo di residenza. L'agente la trascrive in apposito registro e ne rimette immediatamente copia al Ministero dell'interno che ne cura, a mezzo dell'autorita' competente, la trascrizione nei registri di cittadinanza".
 
-### Art. 219
+## Art. 219
 
 La donna che, per effetto di matrimonio con straniero o di mutamento di cittadinanza da parte del marito, ha perduto la cittadinanza italiana prima dell'entrata in vigore della presente legge, la riacquista con dichiarazione resa all'autorita' competente a norma dell'articolo 36 delle disposizioni di attuazione del codice civile.
 
 E' abrogata ogni norma della legge 13 giugno 1912, n. 555, che sia incompatibile con le disposizioni della presente legge.
 
-### Art. 220
+## Art. 220
 
 L'articolo 37 delle disposizioni d'attuazione del codice civile e' sostituito dal seguente:
 
@@ -1896,7 +1896,7 @@ L'articolo 37 delle disposizioni d'attuazione del codice civile e' sostituito da
 
 L'iscrizione della sentenza che revoca la adozione deve essere altresi' annotata in margine all'iscrizione del decreto di adozione".
 
-### Art. 221
+## Art. 221
 
 L'articolo 38 delle disposizioni d'attuazione del codice civile e' sostituito dal seguente:
 
@@ -1908,13 +1908,13 @@ In ogni caso il tribunale provvede in camera di consiglio sentito il pubblico mi
 
 Quando il provvedimento e' emesso dal tribunale per i minorenni il reclamo si propone davanti alla sezione di corte di appello per i minorenni".
 
-### Art. 222
+## Art. 222
 
 L'articolo 41 delle disposizioni d'attuazione del codice civile e' sostituito dal seguente:
 
 "I provvedimenti previsti nell'articolo 145 del codice sono di competenza del pretore del mandamento del luogo in cui e' stabilita la residenza familiare o, se questa manchi, del pretore del mandamento del luogo del domicilio di uno dei coniugi".
 
-### Art. 223
+## Art. 223
 
 L'articolo 51 delle disposizioni d'attuazione del codice civile e' sostituito dal seguente:
 
@@ -1922,25 +1922,25 @@ L'articolo 51 delle disposizioni d'attuazione del codice civile e' sostituito da
 
 A tal fine la cancelleria del tribunale che ha emesso il provvedimento deve trasmetterne copia in carta libera entro dieci giorni all'ufficio del giudice tutelare del luogo in cui il minore ha il domicilio per la prescritta annotazione".
 
-### Art. 224
+## Art. 224
 
 Le cause di invalidita' dei matrimoni celebrati anteriormente all'entrata in vigore della presente legge e le relative azioni sono regolate dalle disposizioni anteriori.
 
-### Art. 225
+## Art. 225
 
 Nel caso previsto dal penultimo comma dell'articolo 128 del codice civile il figlio acquista lo stato di figlio legittimo anche se il matrimonio e' stato dichiarato nullo anteriormente alla data di entrata in vigore della presente legge.
 
-### Art. 226
+## Art. 226
 
 Le disposizioni sulla separazione personale, comprese quelle di natura patrimoniale, si applicano anche ai matrimoni anteriori e ai giudizi in corso al momento dell'entrata in vigore della presente legge.
 
 Nel provvedere sulle domande di revisione delle disposizioni patrimoniali a norma della presente legge, il giudice deve tener conto anche degli accordi intervenuti fra le parti in sede di separazione consensuale omologata anteriormente all'entrata in vigore della presente legge.
 
-### Art. 227
+## Art. 227
 
 Le doti e i patrimoni familiari costituiti prima dell'entrata in vigore della presente legge continuano ad essere disciplinati dalle norme anteriori.
 
-### Art. 228
+## Art. 228
 
 Le famiglie gia' costituite alla data di entrata in vigore della presente legge, decorso il termine di due anni dalla detta data, sono assoggettate al regime della comunione legale per i beni acquistati successivamente alla data medesima a meno che entro lo stesso termine uno dei coniugi non manifesti volonta' contraria in un atto ricevuto da notaio o dall'ufficiale dello stato civile del luogo in cui fu celebrato il matrimonio.
 
@@ -1956,7 +1956,7 @@ AGGIORNAMENTO (2)
 
 Il D.L. 9 settembre 1977, n. 688, convertito con modificazioni dalla L. 31 ottobre 1977, n. 804, ha disposto (con l'art. 1) che "Il termine previsto dall'art. 228 della legge 19 maggio 1975, n. 151, entrata in vigore il 20 settembre 1975, e' prorogato sino al 15 gennaio 1978".
 
-### Art. 229
+## Art. 229
 
 Le disposizioni sul disconoscimento di paternita', comprese quelle relative alla legittimazione attiva della madre e del figlio, si applicano anche ai figli nati prima della data di entrata in vigore della presente legge.
 
@@ -1970,7 +1970,7 @@ AGGIORNAMENTO (3)
 
 La Corte Costituzionale, con sentenza 26 marzo-1 aprile 1982, n. 64 (in G.U. 1a s.s. 07/04/1982, n. 96), ha dichiarato "l'illegittimita' costituzionale dell'art. 229 della legge 19 maggio 1975, n. 151, nella parte in cui non prevede che l'azione di disconoscimento di paternita' sia proponibile dal padre entro sei mesi dalla data di entrata in vigore della legge stessa, nell'ipotesi che nel periodo compreso fra il trecentesimo e il centottantesimo giorno prima della nascita la moglie abbia commesso adulterio".
 
-### Art. 230
+## Art. 230
 
 Le disposizioni della presente legge relative al riconoscimento dei figli naturali si applicano anche ai figli nati o concepiti prima della sua entrata in vigore.
 
@@ -1978,49 +1978,49 @@ Il riconoscimento di figli naturali, compiuto prima di tale data fuori dei casi 
 
 Tale riconoscimento vale anche agli effetti delle successioni aperte prima dell'entrata in vigore della presente legge, purche' i diritti successori del figlio non siano stati esclusi con sentenza passata in giudicato o definiti con convenzione tra le parti interessate o non siano trascorsi tre anni dall'apertura della successione senza che il figlio abbia fatto valere alcuna ragione ereditaria sui beni della successione.
 
-### Art. 231
+## Art. 231
 
 Nel caso di riconoscimento di minori che alla data di entrata in vigore della presente legge risultino affiliati od affidati a norma della legge 5 giugno 1967, n. 431, il tribunale per i minorenni decide in ordine all'affidamento, tenendo conto dell'interesse morale e materiale del minore.
 
-### Art. 232
+## Art. 232
 
 Le disposizioni della presente legge relative all'azione per la dichiarazione giudiziale di paternita' e maternita', nonche' alle azioni previste dall'articolo 279 del codice civile, si applicano anche ai figli nati o concepiti prima della sua entrata in vigore.
 
-### Art. 233
+## Art. 233
 
 La legittimazione per provvedimento del giudice si applica anche ai figli nati anteriormente all'entrata in vigore della presente legge.
 
 Dalla stessa data non possono essere proseguiti procedimenti per la legittimazione per decreto del Capo dello Stato, ma della presentazione della domanda di legittimazione a norma delle disposizioni anteriori si tiene conto agli effetti del secondo comma dell'articolo 290 del codice civile.
 
-### Art. 234
+## Art. 234
 
 Le disposizioni dell'articolo 310 del codice civile si applicano anche nel caso in cui l'adozione sia avvenuta anteriormente all'entrata in vigore della presente legge indipendentemente dal momento in cui il riconoscimento e' avvenuto.
 
-### Art. 235
+## Art. 235
 
 Dall'entrata in vigore della presente legge cessano di avere efficacia le condizioni stabilite dal padre ai sensi dell'abrogato articolo 338 del codice civile per l'educazione dei figli e per l'amministrazione dei beni e non possono essere iniziate o proseguite azioni per l'inosservanza delle suddette condizioni.
 
 Dalla stessa data il curatore del nascituro cessa di diritto dal suo ufficio.
 
-### Art. 236
+## Art. 236
 
 Dall'entrata in vigore della presente legge cessano di avere efficacia i provvedimenti emanati dal tribunale ai sensi dell'abrogato articolo 340 del codice civile e non possono essere iniziate o proseguite azioni per l'inosservanza, avvenuta in precedenza, dei suddetti provvedimenti.
 
-### Art. 237
+## Art. 237
 
 Le disposizioni degli articoli 580 e 594 del codice civile si applicano anche alle successioni apertesi prima dell'entrata in vigore della presente legge se i diritti dei figli naturali non riconoscibili non sono stati definiti con sentenza passata in giudicato o mediante convenzione.
 
-### Art. 238
+## Art. 238
 
 La disposizione dell'articolo 692 del codice civile si applica anche alle successioni apertesi prima dell'entrata in vigore della presente legge a meno che la nullita' della sostituzione non sia stata gia' pronunziata con sentenza passata in giudicato.
 
 Salvo quanto previsto dal comma precedente, le sostituzioni fedecommissarie anteriori all'entrata in vigore della presente legge sono regolate dalle disposizioni anteriori.
 
-### Art. 239
+## Art. 239
 
 Dall'entrata in vigore della presente legge non puo' essere piu' pronunziata la nullita' prevista dall'abrogato articolo 780 del codice civile rispetto agli atti anteriori.
 
-### Art. 240
+## Art. 240
 
 La presente legge entra in vigore centoventi giorni dopo la sua pubblicazione nella Gazzetta Ufficiale.
 

@@ -68,7 +68,7 @@ il seguente decreto legislativo:
 
 ## Titolo I - DEFINIZIONI
 
-###### Art. 1
+#### Art. 1
 
 Definizioni
 
@@ -182,7 +182,7 @@ qq) AIC: autorizzazione all'immissione in commercio.
 
 ## Titolo II - CAMPO DI APPLICAZIONE
 
-###### Art. 2
+#### Art. 2
 
 Campo di applicazione; prevalenza della disciplina dei medicinali su altre discipline
 
@@ -194,7 +194,7 @@ Campo di applicazione; prevalenza della disciplina dei medicinali su altre disci
 
 4\. Le disposizioni sulla produzione dei medicinali contenute nel titolo IV, quelle del titolo VII e quelle del titolo XI si estendono, per quanto applicabili, alle ((sostanze attive)).
 
-###### Art. 3
+#### Art. 3
 
 Fattispecie escluse dalla disciplina
 
@@ -214,7 +214,7 @@ f) al sangue intero, al plasma, alle cellule ematiche di origine umana, eccettua
 
 f-bis) a qualsiasi medicinale per terapia avanzata, quale definito nel regolamento (CE)n. 1394/2007 del Parlamento europeo e del Consiglio, del 13 novembre 2007, preparato su base non ripetitiva, conformemente a specifici requisiti di qualita\` e utilizzato in un ospedale, sotto l'esclusiva responsabilita\` professionale di un medico, in esecuzione di una prescrizione medica individuale per un prodotto specifico destinato ad un determinato paziente. La produzione di questi prodotti e\` autorizzata dall'AIFA ((secondo specifiche tecniche stabilite con decreto del Ministro della salute, sentita l'AIFA)). La stessa Agenzia provvede affinche´ la tracciabilita\` nazionale e i requisiti di farmacovigilanza, nonche´ gli specifici requisiti di qualita\` di cui alla presente lettera, siano equivalenti a quelli previsti a livello comunitario per quanto riguarda i medicinali per terapie avanzate per i quali e\` richiesta l'autorizzazione a norma del regolamento (CE) n. 726/2004.
 
-###### Art. 4
+#### Art. 4
 
 Salvaguardia delle norme sulla protezione radiologica; materie escluse dal campo di applicazione
 
@@ -222,7 +222,7 @@ Salvaguardia delle norme sulla protezione radiologica; materie escluse dal campo
 
 2\. Esulano dal campo di applicazione del presente decreto la disciplina dei prezzi dei medicinali e quella dell'inclusione degli stessi nelle classi dei medicinali erogati a carico del Servizio sanitario nazionale.
 
-###### Art. 5
+#### Art. 5
 
 Casi di non applicazione del titolo III
 
@@ -236,11 +236,9 @@ Casi di non applicazione del titolo III
 
 ## Titolo III - IMMISSIONE IN COMMERCIO
 
-### Capo I
+### Capo I - Autorizzazione all'immissione in commercio
 
-#### Autorizzazione all'immissione in commercio
-
-###### Art. 6
+#### Art. 6
 
 Estensione ed effetti dell'autorizzazione
 
@@ -254,13 +252,13 @@ Estensione ed effetti dell'autorizzazione
 
 4-bis. Con decreto del Ministro della salute, da emanarsi entro il 29 febbraio 2008, su proposta dell'AIFA, sono previste particolari disposizioni per la graduale applicazione del disposto del comma 1, con riferimento all'autorizzazione all'immissione in commercio dei gas medicinali.
 
-###### Art. 7
+#### Art. 7
 
 Radiofarmaci preparati al momento dell'uso
 
 1\. L'AIC non e' richiesta per i radiofarmaci preparati al momento dell'uso, secondo le istruzioni del produttore, da persone o stabilimenti autorizzati ad usare tali medicinali, in uno dei centri di cura autorizzati e purche' il radiofarmaco sia preparato a partire da generatori, kit o radiofarmaci precursori per i quali sia stata rilasciata l'AIC.
 
-###### Art. 8
+#### Art. 8
 
 Domanda di autorizzazione
 
@@ -318,7 +316,7 @@ s) certificazione che il richiedente dispone di un responsabile qualificato per 
 
 6\. Le disposizioni del presente articolo e quelle dell'allegato tecnico sulla domanda di AIC possono essere modificate e integrate con decreto del Ministro della salute, in conformita' alle direttive e alle raccomandazioni della Comunita' europea.
 
-###### Art. 9
+#### Art. 9
 
 Informazioni e documenti aggiuntivi a corredo della domanda di AIC di generatori di radionuclidi
 
@@ -328,7 +326,7 @@ a) una descrizione generale del sistema con una dettagliata descrizione dei comp
 
 b) le caratteristiche qualitative e quantitative dell'eluato o del sublimato.
 
-###### Art. 10
+#### Art. 10
 
 Domande semplificate di AIC per i medicinali generici
 
@@ -374,25 +372,25 @@ b) medicinale generico: un medicinale che ha la stessa composizione qualitativa 
 
 > 6\. Se non sono ancora decorsi i dieci anni di cui al comma 5, l'interessato puo' non fornire i risultati delle prove farmacologiche, tossicologiche e cliniche se il responsabile dell'immissione in commercio in Italia della specialita' medicinale originale ha consentito che venga fatto ricorso, per l'esame della nuova domanda, alla documentazione relativa alla specialita' prodotta.».
 
-###### Art. 11
+#### Art. 11
 
 Domande bibliografiche di AIC
 
 1\. In deroga all'articolo 8, comma 3, lettera l), e fatto salvo il diritto sulla tutela della proprieta' industriale e commerciale, il richiedente non e' tenuto a fornire i risultati delle prove precliniche o delle sperimentazioni cliniche, se puo' dimostrare che le sostanze attive del medicinale sono di impiego medico ben consolidato nella Comunita' europea da almeno dieci anni e presentano una riconosciuta efficacia e un livello accettabile di sicurezza, secondo le condizioni di cui all'allegato tecnico sulla domanda di AIC. In tale caso i risultati degli studi preclinici e clinici sono sostituiti dai dati ottenuti dalla letteratura scientifica appropriata.
 
-###### Art. 12
+#### Art. 12
 
 Associazioni fisse
 
 1\. Nel caso di medicinali contenenti sostanze attive presenti nella composizione di medicinali autorizzati ma non ancora utilizzati in associazione a fini terapeutici, sono presentati i risultati delle nuove prove precliniche e delle nuove sperimentazioni cliniche relative all'associazione a norma dell'articolo 8, comma 3, lettera l); il richiedente non e' tenuto a fornire la documentazione scientifica relativa a ciascuna singola sostanza attiva.
 
-###### Art. 13
+#### Art. 13
 
 Consenso all'utilizzazione del dossier da parte di terzi
 
 1\. Dopo il rilascio dell'AIC, il titolare dell'autorizzazione puo' consentire che sia fatto ricorso alla documentazione farmaceutica, preclinica e clinica contenuta nel dossier del proprio medicinale al fine della successiva presentazione di una domanda relativa ad altri medicinali che hanno una identica composizione qualitativa e quantitativa in sostanze attive e la stessa forma farmaceutica.
 
-###### Art. 14
+#### Art. 14
 
 Riassunto delle caratteristiche del prodotto
 
@@ -402,7 +400,7 @@ Riassunto delle caratteristiche del prodotto
 
 3\. Il contenuto del riassunto delle caratteristiche del prodotto puo' essere modificato con decreto del Ministro della salute, conformemente alle disposizioni comunitarie.
 
-###### Art. 15
+#### Art. 15
 
 Esperti che elaborano le documentazioni
 
@@ -412,9 +410,9 @@ Esperti che elaborano le documentazioni
 
 3\. I riassunti dettagliati sono parte del dossier che il richiedente presenta all'AIFA.
 
-## Capo II - Norme speciali applicabili ai medicinali omeopatici
+### Capo II - Norme speciali applicabili ai medicinali omeopatici
 
-###### Art. 16
+#### Art. 16
 
 Procedura semplificata di registrazione
 
@@ -432,7 +430,7 @@ c) ha un grado di diluizione tale da garantirne la sicurezza; in ogni caso il me
 
 4\. Le disposizione degli articoli 8, comma 3, 29, comma 1, da 33 a 40, 52, comma 8, lettere a), b) e c), e 141 si applicano, per analogia, alla procedura semplificata di registrazione dei medicinali omeopatici, ad eccezione delle prove di efficacia terapeutica.
 
-###### Art. 17
+#### Art. 17
 
 Contenuto della domanda di registrazione semplificata
 
@@ -456,7 +454,7 @@ g) un modello dell'imballaggio esterno e del confezionamento primario dei medici
 
 h) dati concernenti la stabilita' del medicinale.
 
-###### Art. 18
+#### Art. 18
 
 Medicinali omeopatici a cui non si applica la procedura semplificata di registrazione
 
@@ -464,13 +462,13 @@ Medicinali omeopatici a cui non si applica la procedura semplificata di registra
 
 2\. Il titolo IX del presente decreto si applica ai medicinali omeopatici, ad eccezione di quelli ai quali si riferisce l'articolo 16, comma 1.
 
-###### Art. 19
+#### Art. 19
 
 Comunicazioni in ambito comunitario
 
 1\. L'AIFA comunica agli altri Stati membri della Comunita' europea ogni informazione necessaria a garantire la qualita' e l'innocuita' dei medicinali omeopatici prodotti e immessi in commercio nella Comunita' europea.
 
-###### Art. 20
+#### Art. 20
 
 (( (Disposizioni sui medicinali omeopatici presenti sul mercato italiano alla data del 6 giugno 1995; estensione della disciplina ai medicinali antroposofici). ))
 
@@ -480,11 +478,9 @@ Comunicazioni in ambito comunitario
 
 3\. I medicinali antroposofici descritti in una farmacopea ufficiale e preparati secondo un metodo omeopatico sono assimilabili, agli effetti del presente decreto, ai medicinali omeopatici.))
 
-## Capo III
+### Capo III - Disposizioni speciali relative ai medicinali di origine vegetale tradizionali
 
-### Disposizioni speciali relative ai medicinali di origine vegetale - tradizionali
-
-###### Art. 21
+#### Art. 21
 
 Registrazione basata sull'impiego tradizionale
 
@@ -504,7 +500,7 @@ e) dispongono di sufficienti dati di impiego tradizionale; in particolare, hanno
 
 3\. Le disposizioni di cui al presente capo non si applicano, tuttavia, nei casi in cui le autorita' competenti ritengono che un medicinale di origine vegetale tradizionale soddisfa i criteri per l'autorizzazione ai sensi dell'articolo 6 o per la registrazione in base all'articolo 16.
 
-###### Art. 22
+#### Art. 22
 
 Stabilimento del richiedente e del titolare della registrazione e autorita' competente per la registrazione
 
@@ -512,7 +508,7 @@ Stabilimento del richiedente e del titolare della registrazione e autorita' comp
 
 2\. La domanda diretta a ottenere una registrazione basata sull'impiego tradizionale deve essere presentata all'AIFA.
 
-###### Art. 23
+#### Art. 23
 
 Contenuto della domanda
 
@@ -546,7 +542,7 @@ d) una rassegna bibliografica dei dati inerenti alla sicurezza unitamente alla r
 
 > \- Per la direttiva 2004/24/CE vedi nota alle premesse.
 
-###### Art. 24
+#### Art. 24
 
 Applicazione ai medicinali di origine vegetale tradizionali della procedura di mutuo riconoscimento e della procedura decentrata.
 
@@ -562,7 +558,7 @@ b) il medicinale di origine vegetale sia costituito da sostanze vegetali, prepar
 
 > \- Per la direttiva 2001/83/CE, vedi note alle premesse.
 
-###### Art. 25
+#### Art. 25
 
 Diniego della registrazione
 
@@ -580,7 +576,7 @@ e) la qualita' farmaceutica non e' sufficientemente dimostrata.
 
 2\. L'AIFA comunica al richiedente, alla Commissione europea e a qualsiasi autorita' competente che ne faccia richiesta le decisioni di diniego della registrazione basata sull'impiego tradizionale e le relative motivazioni.
 
-###### Art. 26
+#### Art. 26
 
 Domande relative a sostanze o preparati compresi nello specifico elenco comunitario
 
@@ -592,7 +588,7 @@ Domande relative a sostanze o preparati compresi nello specifico elenco comunita
 
 > \- Per la direttiva 2001/83/CE, vedi note alle premesse.
 
-###### Art. 27
+#### Art. 27
 
 Altre disposizioni applicabili ai medicinali di origine vegetale tradizionali
 
@@ -610,7 +606,7 @@ b) l'utilizzatore deve consultare un medico o un operatore sanitario qualificato
 
 5\. Al fine di consentire la piena applicazione del presente decreto entro il 20 maggio 2011, il Ministero della salute, entro il 20 maggio 2010, anche sulla base degli orientamenti assunti in materia dalla Commissione europea e dalla Corte di giustizia, detta specifiche indicazioni volte a chiarire la linea di demarcazione fra la disciplina dei medicinali tradizionali di origine vegetale di cui al presente capo e quella degli alimenti o di altri tipi di prodotti oggetto di normativa comunitaria.
 
-###### Art. 28
+#### Art. 28
 
 Partecipazione italiana al comitato dei medicinali di origine vegetale
 
@@ -620,11 +616,9 @@ Partecipazione italiana al comitato dei medicinali di origine vegetale
 
 > \- Per la direttiva 2004/24/CE vedi note alle premesse.
 
-## Capo IV
+### Capo IV - Procedura per il rilascio dell'autorizzazione istruttoria
 
-### Procedura per il rilascio dell'autorizzazione istruttoria
-
-###### Art. 29
+#### Art. 29
 
 Durata del procedimento; effetti indotti da domande presentate in altri Stati membri
 
@@ -636,7 +630,7 @@ Durata del procedimento; effetti indotti da domande presentate in altri Stati me
 
 4\. L'AIFA, quando nel corso dell'istruttoria e' informata, a norma dell'articolo 8, comma 3, lettera q), che un altro Stato membro della Comunita' europea ha autorizzato il medicinale oggetto di domanda di AIC, respinge la domanda se non e' stata presentata a norma degli articoli da 41 a 49.
 
-###### Art. 30
+#### Art. 30
 
 Istruttoria della domanda
 
@@ -652,7 +646,7 @@ Quando l'AIFA si avvale di questa facolta', i termini di cui al comma 1 dell'art
 
 2\. L'AIFA accerta che i produttori e gli importatori di medicinali provenienti da paesi terzi sono in grado di realizzare la produzione nell'osservanza delle indicazioni fornite ai sensi dell'articolo 8, comma 3, lettera e), e di effettuare i controlli secondo i metodi descritti nella documentazione, conformemente all'articolo 8, comma 3, lettera i). Quando vi e' un giustificato motivo, puo' consentire che i produttori e gli importatori di medicinali provenienti da paesi terzi, facciano effettuare da terzi talune fasi della produzione e dei controlli di cui sopra; in tale caso, le verifiche dell'AIFA sono effettuate anche nello stabilimento indicato dal produttore o dall'importatore.
 
-###### Art. 31
+#### Art. 31
 
 Informazione sull'AIC
 
@@ -662,7 +656,7 @@ Informazione sull'AIC
 
 3\. L'AIFA cura la sollecita pubblicazione nella Gazzetta Ufficiale della Repubblica italiana, per estratto, del provvedimento di AIC e provvede a rendere pubblico il riassunto delle caratteristiche del prodotto e le sue successive modificazioni.
 
-###### Art. 32
+#### Art. 32
 
 Rapporto di valutazione
 
@@ -692,7 +686,7 @@ Rapporto di valutazione
 
 > 9\. I componenti del Comitato di cui al comma 6 durano in carica cinque anni e non possono essere rinominati piu' di una volta.».
 
-###### Art. 33
+#### Art. 33
 
 Autorizzazione subordinata a condizioni
 
@@ -702,7 +696,7 @@ Autorizzazione subordinata a condizioni
 
 3\. Il mantenimento dell'autorizzazione e' subordinato alla valutazione annuale del rispetto di tali condizioni. La lista delle condizioni e' resa accessibile, senza ritardo, con la pubblicazione nel sito internet dell'AIFA. Con le stesse modalita' sono rese pubbliche le scadenze fissate per gli adempimenti e la data della loro realizzazione.
 
-###### Art. 34
+#### Art. 34
 
 Obblighi del titolare dell'AIC
 
@@ -728,7 +722,7 @@ Obblighi del titolare dell'AIC
 
 8-quater. Il titolare dell'AIC notifica altresi' all'EMA se l'azione di cui ai commi 8-bis o 8-ter, si fonda su uno dei motivi di cui all'articolo 141.
 
-###### Art. 35
+#### Art. 35
 
 Modifiche delle autorizzazioni
 
@@ -736,7 +730,7 @@ Modifiche delle autorizzazioni
 
 ((1-bis. In caso di valutazione positiva della variazione di tipo IA e di tipo IB, comprovata dalla mancata adozione da parte dell'AIFA di un provvedimento di rifiuto anche solo parziale, il richiedente, scaduti i termini previsti dal regolamento (CE) n. 1084/2003, da' corso alla modifica. L'AIFA conserva documentazione elettronica o cartacea della valutazione effettuata. Per le procedure di mutuo riconoscimento e decentrate in cui l'Italia agisce quale Stato membro di riferimento restano fermi gli obblighi di informazione alle autorita' competenti interessate e al titolare previsti per le variazioni di tipo IA e IB nei casi disciplinati dagli articoli 4 e 5 del citato regolamento (CE) n. 1084/2003.))
 
-###### Art. 36
+#### Art. 36
 
 Provvedimenti restrittivi urgenti per motivi di sicurezza
 
@@ -754,7 +748,7 @@ Provvedimenti restrittivi urgenti per motivi di sicurezza
 
 7\. Le disposizioni dei commi 4, 5 e 6 lasciano impregiudicato quanto previsto dall'articolo 47, commi 2 e 3.
 
-###### Art. 37
+#### Art. 37
 
 Smaltimento scorte o termine per il ritiro delle confezioni a seguito di autorizzazione di modifiche
 
@@ -762,7 +756,7 @@ Smaltimento scorte o termine per il ritiro delle confezioni a seguito di autoriz
 
 1-bis. Nei casi di modificazioni apportate al foglietto illustrativo, l'AIFA autorizza la vendita al pubblico delle scorte, ((prevedendo che il cittadino scelga la modalita' per il ritiro del foglietto sostitutivo conforme a quello autorizzato in formato cartaceo o analogico o mediante l'utilizzo di metodi digitali alternativi, e senza oneri per la finanza pubblica)).
 
-###### Art. 38
+#### Art. 38
 
 Durata, rinnovo, decadenza e rinuncia dell'autorizzazione
 
@@ -786,13 +780,13 @@ Durata, rinnovo, decadenza e rinuncia dell'autorizzazione
 
 9\. Quando il titolare rinuncia all'autorizzazione concessagli, l'AIFA, nel disporre la revoca dell'autorizzazione puo' concedere, quando a cio' non ostano motivi di salute pubblica, un termine per il ritiro dal commercio del medicinale oggetto di revoca.
 
-###### Art. 39
+#### Art. 39
 
 Effetti dell'autorizzazione
 
 1\. Il rilascio dell'autorizzazione non esclude la responsabilita' anche penale del produttore e del titolare dell'AIC.
 
-###### Art. 40
+#### Art. 40
 
 Diniego dell'autorizzazione
 
@@ -812,17 +806,15 @@ c) il medicinale non presenta la composizione qualitativa e quantitativa dichiar
 
 L'interessato puo' presentare opposizione al provvedimento di diniego all'AIFA, che decide entro novanta giorni.
 
-## Capo V
+### Capo V - Procedura di mutuo riconoscimento e procedura decentrata
 
-### Procedura di mutuo riconoscimento e procedura decentrata
-
-###### Art. 41
+#### Art. 41
 
 Presentazione della domanda nella procedura di mutuo riconoscimento e nella procedura decentrata
 
 1\. Quando, ai sensi dell'articolo 28 della direttiva 2001/83/CE, il richiedente presenta una domanda basata su un identico dossier anche in altri Stati membri della Comunita' europea, il dossier della domanda comprende le informazioni e i documenti di cui agli articoli 8, 10, 11, 12, 13 e 14 del presente decreto, nonche' l'elenco degli Stati membri ai quali e' stata presentata la domanda.
 
-###### Art. 42
+#### Art. 42
 
 Ipotesi in cui l'Italia agisce da Stato membro di riferimento
 
@@ -838,7 +830,7 @@ Ipotesi in cui l'Italia agisce da Stato membro di riferimento
 
 6\. Nell'ipotesi prevista dal comma 2, entro trenta giorni dalla constatazione del consenso di tutte le parti di cui al comma 4, l'AIFA aggiorna, se del caso, l'AIC del medicinale nonche' il riassunto delle caratteristiche del prodotto, l'etichettatura e il foglio illustrativo. Nell'ipotesi prevista dal comma 3, entro trenta giorni dalla constatazione del consenso, l'AIFA rilascia l'AIC completa di rapporto di valutazione, riassunto delle caratteristiche del prodotto, etichettatura e foglio illustrativo approvati.
 
-###### Art. 43
+#### Art. 43
 
 Ipotesi in cui l'Italia agisce come Stato interessato
 
@@ -848,13 +840,13 @@ Ipotesi in cui l'Italia agisce come Stato interessato
 
 3\. Se l'AIFA riceve, entro il termine di cui al comma 2, da parte di uno Stato membro coinvolto, la comunicazione di non poter approvare, a causa di un rischio potenziale grave di salute pubblica, il rapporto di valutazione, la bozza di riassunto delle caratteristiche del prodotto, l'etichettatura e il foglio illustrativo predisposti, su domanda del richiedente, puo' comunque autorizzare, in via provvisoria, il medicinale in attesa dell'esito della procedura di cui all'articolo 32 della direttiva 2001/83/CE.
 
-###### Art. 44
+#### Art. 44
 
 Ipotesi di mancato accordo fra gli Stati membri interessati sul rilascio dell'autorizzazione
 
 1\. Nelle ipotesi previste dai commi 2 e 3 dell'articolo 43 e in ogni altro caso di mancato accordo fra gli Stati membri che hanno ricevuto una domanda ai sensi dell'articolo 28 della direttiva 2001/83/CE, si applicano le procedure di cui all'articolo 29 della direttiva 2001/83/CE. Se sono espletate le procedure comunitarie di cui agli articoli 32, 33 e 34 della stessa direttiva, l'AIFA adotta un provvedimento conforme alla decisione assunta dalla Commissione europea entro trenta giorni dalla notifica della decisione stessa.
 
-###### Art. 45
+#### Art. 45
 
 Ipotesi di difformi valutazioni degli Stati membri
 
@@ -864,7 +856,7 @@ La disposizione di cui al precedente periodo si applica, altresi', quando il Com
 
 2\. Allo scopo di promuovere l'armonizzazione delle autorizzazioni dei medicinali nella Comunita' europea, ogni anno l'AIFA propone, ai sensi dell'articolo 30, paragrafo 2, della direttiva 2001/83/CE, un elenco dei medicinali per i quali, a proprio avviso, appare opportuno redigere un riassunto armonizzato delle caratteristiche del prodotto.
 
-###### Art. 46
+#### Art. 46
 
 Casi particolari di interesse comunitario per adire il Comitato
 
@@ -882,7 +874,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 4 marzo 2014, n. 42 ha disposto (con l'art. 1, comma 2) che "Dalla data di entrata in vigore del decreto di cui all'articolo 1, comma 344, della legge 24 dicembre 2012, n. 228, e' abrogato l'articolo 46 del decreto legislativo 24 aprile 2006, n. 219".
 
-###### Art. 47
+#### Art. 47
 
 Variazioni delle autorizzazioni di mutuo riconoscimento e decentrate
 
@@ -892,7 +884,7 @@ Variazioni delle autorizzazioni di mutuo riconoscimento e decentrate
 
 3\. In casi eccezionali, quando risulta indispensabile l'adozione di un provvedimento urgente a tutela della salute pubblica e fino a quando non e' stata presa una decisione definitiva ai sensi della procedura richiamata al comma 2, l'AIFA puo' sospendere l'immissione in commercio e l'uso del medicinale interessato. L'AIFA informa la Commissione e gli altri Stati membri, non oltre il giorno lavorativo successivo all'adozione del provvedimento, dei motivi che la hanno indotta a prendere tale decisione.
 
-###### Art. 48
+#### Art. 48
 
 Medicinali autorizzati ai sensi della direttiva 87/22/CEE
 
@@ -902,7 +894,7 @@ Medicinali autorizzati ai sensi della direttiva 87/22/CEE
 
 > \- La direttiva 87/22/CEE, pubblicata in G.U.C.E. del 17 gennaio 1987, n. L. 15.
 
-###### Art. 49
+#### Art. 49
 
 Medicinali omeopatici
 
@@ -916,13 +908,9 @@ Medicinali omeopatici
 
 ## Titolo IV - PRODUZIONE E IMPORTAZIONE
 
-### Capo
+### Capo I - Autorizzazioni alla produzione e all'importazione
 
-#### I
-
-##### Autorizzazioni alla - produzione e all'importazione
-
-###### Art. 50
+#### Art. 50
 
 Autorizzazione alla produzione di medicinali
 
@@ -952,7 +940,7 @@ L'autorizzazione rilasciata puo' essere integrata dall'imposizione di obblighi p
 
 ((8. L'AIFA inserisce le informazioni relative alle autorizzazioni rilasciate, ai sensi del presente articolo, nella banca dati dell'Unione europea, di cui all'articolo 53, comma 9. L'AIFA pubblica sul proprio sito istituzionale l'elenco degli stabilimenti che risultano autorizzati alla produzione e al controllo di medicinali alla data del 30 giugno di ogni anno.))
 
-###### Art. 51
+#### Art. 51
 
 Obblighi del produttore Adeguamento alle norme di buona fabbricazione
 
@@ -976,7 +964,7 @@ e-ter) verificare che i produttori, gli importatori e i distributori da cui rice
 
 e-quater) verificare l'autenticita' e la qualita' delle sostanze attive e degli eccipienti.))
 
-###### Art. 51-bis
+#### Art. 51-bis
 
 (( (Controlli sulle sostanze attive). ))
 
@@ -1004,7 +992,7 @@ AGGIORNAMENTO (15)
 
 Il D.Lgs. 19 febbraio 2014, n. 17 ha disposto (con l'art. 2, comma 2) che "Le disposizioni necessarie per conformarsi all'articolo 1, comma 1, numero 6), limitatamente all'articolo 51-ter, e numeri 7, 13 e 14, del presente decreto, si applicano al piu' tardi sei anni dopo la data di applicazione degli atti delegati di cui all'articolo 54-bis della direttiva 2001/83/CE."
 
-###### Art. 51-ter
+#### Art. 51-ter
 
 (( (Bollini farmaceutici o identificativi univoci). ))
 
@@ -1026,7 +1014,7 @@ AGGIORNAMENTO (30)
 
 Il D.Lgs. 6 febbraio 2025, n. 10, ha disposto (con l'art. 1, comma 1, alinea) che la presente modifica decorre dal 9 febbraio 2025.
 
-###### Art. 52
+#### Art. 52
 
 Personale qualificato di cui deve dotarsi il titolare dell'autorizzazione alla produzione
 
@@ -1084,7 +1072,7 @@ AGGIORNAMENTO (30)
 
 Il D.Lgs. 6 febbraio 2025, n. 10, ha disposto (con l'art. 1, comma 1, alinea) che la presente modifica decorre dal 9 febbraio 2025.
 
-###### Art. 52-bis - Produzione e importazione di sostanze attive
+#### Art. 52-bis - Produzione e importazione di sostanze attive
 
 1\. La produzione di sostanze attive utilizzate come materie prime farmacologicamente attive, ad eccezione di quelle sterili ((, di quelle biologiche e di quelle derivanti da tessuti, organi, liquidi umani e animali,)) che sono autorizzate con la stessa modalita' di autorizzazione previste per la produzione di medicinali, comprende:
 
@@ -1124,7 +1112,7 @@ AGGIORNAMENTO (15)
 
 Il D.Lgs. 19 febbraio 2014, n. 17 ha disposto (con l'art. 2, comma 3) che "Relativamente all'articolo 1, comma 1, numero 8), del presente decreto, i produttori e importatori di sostanze attive, che hanno iniziato la loro attivita' prima dell'entrata in vigore del presente decreto, presentano il modulo di registrazione di cui all'articolo 52-bis del decreto legislativo n. 219 del 2006, quale inserito dal presente decreto, entro due mesi dalla suddetta entrata in vigore".
 
-###### Art. 52-ter
+#### Art. 52-ter
 
 (( (Controlli su medicinali in transito).))
 
@@ -1136,7 +1124,7 @@ AGGIORNAMENTO (15)
 
 Il D.Lgs. 19 febbraio 2014, n. 17 ha disposto (con l'art. 2, comma 3) che "Relativamente all'articolo 1, comma 1, numero 8), del presente decreto, i produttori e importatori di sostanze attive, che hanno iniziato la loro attivita' prima dell'entrata in vigore del presente decreto, presentano il modulo di registrazione di cui all'articolo 52-bis del decreto legislativo n. 219 del 2006, quale inserito dal presente decreto, entro due mesi dalla suddetta entrata in vigore."
 
-###### Art. 53
+#### Art. 53
 
 Accertamenti sulla produzione di medicinali, sostanze attive ed eccipienti
 
@@ -1200,7 +1188,7 @@ b) produttori o importatori di eccipienti.
 
 15\. L'AIFA, sentito l'Istituto superiore di sanita' ((...)), stabilisce il programma annuale di controllo delle composizioni dei medicinali le cui analisi sono effettuate dall'Istituto superiore di sanita'.
 
-###### Art. 53-bis
+#### Art. 53-bis
 
 (( (Aggiornamenti su ispezioni, autorizzazioni e certificati).))
 
@@ -1208,7 +1196,7 @@ b) produttori o importatori di eccipienti.
 
 2\. L'AIFA, in cooperazione con l'EMA, definisce la forma e il contenuto dell'autorizzazione di cui all'articolo 50, comma 1, dei verbali di cui all'articolo 53, comma 7, nonche' dei certificati di norme di buona fabbricazione di cui all'articolo 53, comma 8.))
 
-###### Art. 54
+#### Art. 54
 
 Specificazione dell'ambito di applicazione della disciplina relativa all'autorizzazione a produrre medicinali
 
@@ -1224,7 +1212,7 @@ Specificazione dell'ambito di applicazione della disciplina relativa all'autoriz
 
 4-bis. La produzione di una specifica materia prima farmacologicamente attiva destinata esclusivamente alla produzione di medicinali sperimentali da utilizzare in sperimentazioni cliniche di fase I ((e di fase II)) non necessita di specifica autorizzazione, se, previa notifica all'AIFA da parte del titolare dell'officina, e' effettuata nel rispetto delle norme di buona fabbricazione in un'officina autorizzata alla produzione di sostanze attive. Entro il 31 dicembre 2014 l'AIFA trasmette al Ministro della salute e pubblica nel suo sito internet una relazione sugli effetti derivanti dall'applicazione della disposizione di cui al presente comma e sui possibili effetti della estensione di tale disciplina ai medicinali sperimentali impiegati nelle sperimentazioni cliniche di fase II. La relazione tiene adeguatamente conto anche degli interventi ispettivi effettuati dall'AIFA presso le officine di produzione delle sostanze attive.
 
-###### Art. 55
+#### Art. 55
 
 Autorizzazione all'importazione di medicinali
 
@@ -1232,7 +1220,7 @@ Autorizzazione all'importazione di medicinali
 
 2\. Gli articoli 50, 51 e 52 non si applicano quando si tratta di medicinali che provengono da Paesi con i quali la Comunita' europea ha concluso accordi atti a garantire che il produttore applica norme di buona fabbricazione almeno equivalenti a quelle previste dalla Comunita' e che i controlli di cui all'articolo 52, comma 8, lettera b), sono stati eseguiti nel paese di esportazione, fatto salvo quanto disposto dagli accordi di mutuo riconoscimento.
 
-###### Art. 56
+#### Art. 56
 
 Casi particolari di medicinali provenienti da altri Stati membri
 
@@ -1240,23 +1228,21 @@ Casi particolari di medicinali provenienti da altri Stati membri
 
 2\. L'obbligo di cui al comma 1 si applica anche nelle ipotesi in cui il medicinale e' stato prodotto in uno Stato membro della Comunita' europea, ma poi esportato e reimportato nello stesso o in altro Stato membro.
 
-###### Art. 57
+#### Art. 57
 
 Medicinali omeopatici
 
 1\. Le disposizioni del presente titolo si applicano anche ai medicinali omeopatici.
 
-## Capo II
+### Capo II - Linee guida sulle norme di buona fabbricazione
 
-### Linee guida sulle norme di buona fabbricazione
-
-###### Art. 58
+#### Art. 58
 
 Campo d'applicazione
 
 ((1. Il presente capo fissa i principi e le linee guida relativi alle norme di buona fabbricazione dei medicinali per uso umano la cui produzione o importazione e' soggetta all'autorizzazione di cui all'articolo 50. Nelle more dell'applicazione dell'articolo 61, paragrafo 1, del regolamento (UE) n. 536/2014 del Parlamento europeo e del Consiglio, del 16 aprile 2014, sulla sperimentazione clinica di medicinali per uso umano, i principi e le linee guida di cui al presente capo si applicano anche ai medicinali sperimentali per uso umano la cui produzione e' soggetta all'autorizzazione di cui all'articolo 13 del decreto legislativo 24 giugno 2003, n. 211)).
 
-###### Art. 59
+#### Art. 59
 
 Definizioni
 
@@ -1276,7 +1262,7 @@ f) smascheramento: rivelazione dell'identita' di un medicinale mascherato)).
 
 2\. Nel presente capo con il termine medicinale senza ulteriori specificazioni si intende il medicinale diverso dal medicinale sperimentale, come definito al comma 1, lettera a).
 
-###### Art. 60 - Linee guida europee
+#### Art. 60 - Linee guida europee
 
 1\. Per interpretare i principi e le linee guida delle norme di buona fabbricazione, i produttori e gli importatori di medicinali e sostanze attive e le autorita' competenti tengono conto delle linee guida dettagliate di cui all'articolo 47 della direttiva 2001/83/CE.
 
@@ -1284,7 +1270,7 @@ f) smascheramento: rivelazione dell'identita' di un medicinale mascherato)).
 
 2\. I produttori e le autorita' competenti per effettuare la valutazione formale del rischio, in base alla quale accertare quali siano le norme di buona fabbricazione appropriate per gli eccipienti di cui all'articolo 51, comma 1, lettera e), tengono conto delle linee guida dettagliate di cui all'articolo 47 della direttiva 2001/83/CE.
 
-###### Art. 61
+#### Art. 61
 
 (( (Conformita' alle norme di buona fabbricazione). ))
 
@@ -1294,7 +1280,7 @@ f) smascheramento: rivelazione dell'identita' di un medicinale mascherato)).
 
 Nelle more dell'applicazione dell'articolo 61, paragrafo 1, del citato regolamento (UE) n. 536/2014, concernente l'autorizzazione alla fabbricazione e all'importazione di medicinali sperimentali, l'importatore di medicinali sperimentali garantisce la rispondenza a norme di produzione almeno equivalenti a quelle in vigore nell'Unione europea e che tali medicinali sono prodotti da fabbricanti notificati alle autorita' competenti e da queste abilitati allo scopo)).
 
-###### Art. 62
+#### Art. 62
 
 (( (Conformita' all'autorizzazione all'immissione in commercio). ))
 
@@ -1304,13 +1290,13 @@ Nelle more dell'applicazione dell'articolo 61, paragrafo 1, del citato regolamen
 
 3\. Per i medicinali sperimentali, nelle more dell'applicazione dell'articolo 16 del citato regolamento (UE) n. 536/2014, quando e' necessaria una modifica alla domanda di cui all'articolo 9, comma 2, del decreto legislativo 24 giugno 2003, n. 211, la relativa richiesta e' presentata all'AIFA)).
 
-###### Art. 63
+#### Art. 63
 
 (( (Sistema di garanzia della qualita'). ))
 
 ((1. Il produttore istituisce, attua e mantiene un efficace sistema di qualita' farmaceutica, sulla base delle linee guida adottate dall'EMA, che implica l'attiva partecipazione della dirigenza e del personale a tutte le diverse attivita' di produzione, documentazione e controllo)).
 
-###### Art. 64
+#### Art. 64
 
 Personale
 
@@ -1324,7 +1310,7 @@ Personale
 
 5\. Sono organizzati e seguiti corsi di igiene adeguati alle attivita' da svolgere. Essi riguardano soprattutto la salute, l'igiene e l'abbigliamento del personale.
 
-###### Art. 65
+#### Art. 65
 
 ((Locali e attrezzature))
 
@@ -1334,7 +1320,7 @@ Personale
 
 3\. ((I locali e le attrezzature)) da usare in fasi del processo produttivo ((o di importazione)) decisive per la qualita' dei prodotti sono sottoposti a qualifica e convalida, cosi' come disciplinate nella pubblicazione richiamata nell'articolo 60.
 
-###### Art. 66
+#### Art. 66
 
 (( (Documentazione). ))
 
@@ -1344,7 +1330,7 @@ La documentazione sui lotti di un medicinale e' conservata per almeno un anno da
 
 2\. Se in luogo di documenti scritti si utilizzano sistemi di documentazione fotografica, di elaborazione elettronica o di altro tipo, il produttore convalida preventivamente i sistemi, provando che i dati verranno adeguatamente memorizzati durante il periodo di conservazione previsto. I dati memorizzati da tali sistemi sono resi disponibili in forma semplice e leggibile e forniti alle autorita' competenti su loro richiesta. I dati memorizzati in forma elettronica sono protetti contro l'accesso illecito, perdite o danneggiamenti, per esempio mediante metodi quali la duplicazione o la produzione di copie di riserva trasferite su altri sistemi di stoccaggio; e' inoltre conservata traccia delle modifiche apportate ai dati)).
 
-###### Art. 67
+#### Art. 67
 
 Produzione
 
@@ -1358,7 +1344,7 @@ Deviazioni dalle procedure e difetti di produzione sono documentati e accuratame
 
 4\. ((COMMA ABROGATO DALLA L. 3 MAGGIO 2019, N. 37)).
 
-###### Art. 68
+#### Art. 68
 
 (( (Controllo di qualita'). ))
 
@@ -1372,7 +1358,7 @@ Deviazioni dalle procedure e difetti di produzione sono documentati e accuratame
 
 5\. I campioni di ogni lotto di medicinale finito sono conservati per almeno un anno dalla data di scadenza. I campioni delle materie prime usate nel processo di produzione, esclusi solventi, gas o acqua, sono conservati per almeno due anni dal rilascio del lotto del medicinale. Tale periodo puo' essere abbreviato se il periodo di stabilita' della materia prima, indicato nella specifica che la riguarda, e' piu' breve. Tutti i campioni sono tenuti a disposizione delle autorita' competenti. Con l'approvazione dell'AIFA possono essere definite altre condizioni di campionamento e di conservazione delle materie prime e di taluni medicinali quando sono prodotti singolarmente o in piccola quantita', o il loro immagazzinamento solleva particolari problemi)).
 
-###### Art. 69
+#### Art. 69
 
 (( (Appalto di operazioni). ))
 
@@ -1384,7 +1370,7 @@ Deviazioni dalle procedure e difetti di produzione sono documentati e accuratame
 
 4\. Nelle more dell'applicazione dell'articolo 63, paragrafo 4, del citato regolamento (UE) n. 536/2014, l'appaltatore rispetta i principi e le linee guida delle norme di buona fabbricazione applicabili alle operazioni interessate e stabiliti nel territorio dell'Unione europea e si sottopone alle ispezioni effettuate dalle autorita' competenti di cui all'articolo 53, comma 1, lettera a), del presente decreto e all'articolo 15 del decreto legislativo 24 giugno 2003, n. 211)).
 
-###### Art. 70
+#### Art. 70
 
 ((Reclami e ritiri del medicinale))
 
@@ -1394,13 +1380,13 @@ Deviazioni dalle procedure e difetti di produzione sono documentati e accuratame
 
 3\. ((COMMA ABROGATO DALLA L. 3 MAGGIO 2019, N. 37)).
 
-###### Art. 71
+#### Art. 71
 
 (( (Autoispezione). ))
 
 ((1. In seno al sistema qualita' farmaceutica, il produttore effettua ripetute autoispezioni per controllare l'applicazione e il rispetto delle norme di buona fabbricazione e proporre le necessarie azioni correttive o le misure preventive. Le autoispezioni sono registrate come pure tutti i successivi correttivi e tali registrazioni sono conservate per almeno dieci anni)).
 
-###### Art. 72
+#### Art. 72
 
 Etichettatura
 
@@ -1408,7 +1394,7 @@ Etichettatura
 
 ## Titolo V - ETICHETTATURA E FOGLIO ILLUSTRATIVO
 
-###### Art. 73
+#### Art. 73
 
 Etichettatura
 
@@ -1470,7 +1456,7 @@ AGGIORNAMENTO (30)
 
 Il D.Lgs. 6 febbraio 2025, n. 10, ha disposto (con l'art. 1, comma 1, alinea) che le presenti modifiche decorrono dal 9 febbraio 2025.
 
-###### Art. 73-bis - Medicinali soggetti a ((all'apposizione dell'identificativo univoco di cui al regolamento delegato (UE) 2016/161)) ). ((30)
+#### Art. 73-bis - Medicinali soggetti a ((all'apposizione dell'identificativo univoco di cui al regolamento delegato (UE) 2016/161)) ). ((30)
 
 1\. Fatto salvo quanto previsto dall'articolo 73, comma 3, i medicinali soggetti a prescrizione presentano ((gli identificativi univoci)) di cui all'articolo 73, comma 1, lettera p-bis), a meno che non figurino nell'elenco compilato secondo la procedura di cui all'articolo 54-bis, paragrafo 2, lettera b), della direttiva 2001/83/CE. ((30))
 
@@ -1496,7 +1482,7 @@ AGGIORNAMENTO (30)
 
 Il D.Lgs. 6 febbraio 2025, n. 10, ha disposto (con l'art. 1, comma 1, alinea) che le presenti modifiche decorrono dal 9 febbraio 2025.
 
-###### Art. 74
+#### Art. 74
 
 Etichettatura per blister e confezionamento primario di piccole dimensioni
 
@@ -1524,7 +1510,7 @@ d) il numero del lotto di produzione;
 
 e) il contenuto in peso, in volume o in unita' posologiche.
 
-###### Art. 75
+#### Art. 75
 
 Disposizioni particolari a favore di non vedenti e ipovedenti
 
@@ -1534,13 +1520,13 @@ Disposizioni particolari a favore di non vedenti e ipovedenti
 
 3\. Con decreto del Ministro della salute, con la procedura di cui al comma 2, sono stabilite le modalita' di attuazione del secondo periodo del comma 1, anche tenendo conto di esperienze volontarie gia' poste in essere su parte del territorio nazionale. Nelle more dell'emanazione del decreto ministeriale, sono osservate le linee guida emanate dalla Commissione europea.
 
-###### Art. 76
+#### Art. 76
 
 Obbligo del foglio illustrativo
 
 1\. E' obbligatorio includere, nell'imballaggio esterno dei medicinali, un foglio illustrativo, salvo il caso in cui tutte le informazioni richieste dagli articoli 74 e 77 figurano direttamente sull'imballaggio esterno o sul confezionamento primario.
 
-###### Art. 77
+#### Art. 77
 
 Contenuto del foglio illustrativo
 
@@ -1618,7 +1604,7 @@ c) contiene l'elenco di almeno tutti gli eccipienti che e' importante conoscere 
 
 5\. L'AIFA verifica il rispetto della disposizione recata dal comma 4 in occasione del rilascio dell'AIC, nonche' in occasione delle successive variazioni che comportano una significativa modifica del foglio illustrativo ((,secondo i criteri stabiliti con apposita determinazione dell'AIFA)).
 
-###### Art. 78
+#### Art. 78
 
 Modifiche dell'etichettatura e del foglio illustrativo compatibili con il riassunto delle caratteristiche del prodotto.
 
@@ -1626,13 +1612,13 @@ Modifiche dell'etichettatura e del foglio illustrativo compatibili con il riassu
 
 2\. Il Ministero della salute, su proposta dell'AIFA, sentite le categorie interessate, individua modalita' per rendere immediatamente disponibili al consumatore le modifiche approvate del foglio illustrativo nei limiti delle risorse umane e strumentali disponibili a legislazione vigente e senza nuovi o maggiori oneri per la finanza pubblica.
 
-###### Art. 79
+#### Art. 79
 
 Segni o pittogrammi
 
 1\. L'imballaggio esterno e il foglio illustrativo possono, previa autorizzazione dell'AIFA, riportare segni o pittogrammi finalizzati a rendere piu' esplicite alcune informazioni di cui agli articoli 73 e 77, comma 1, nonche' altre informazioni compatibili con il riassunto delle caratteristiche del prodotto, utili per il paziente, ad esclusione di qualsiasi elemento di carattere promozionale.
 
-###### Art. 80
+#### Art. 80
 
 Lingua utilizzata
 
@@ -1644,7 +1630,7 @@ Lingua utilizzata
 
 ((4. Se il medicinale non e' destinato ad essere fornito direttamente al paziente, oppure laddove sussistano gravi difficolta' in ordine alla disponibilita' del medicinale, l'AIFA, fatti salvi i provvedimenti ritenuti necessari per la salvaguardia della salute umana, puo' dispensare dall'obbligo di riportare sulle etichette e sul foglio illustrativo determinate indicazioni e puo' altresi' dispensare pienamente o parzialmente di redigere le etichette e il foglio illustrativo in lingua italiana e, per i medicinali in commercio nella provincia di Bolzano, anche in lingua tedesca.))
 
-###### Art. 81
+#### Art. 81
 
 Caratteristiche generali delle informazioni riportate nel foglio illustrativo e nelle etichettature
 
@@ -1652,7 +1638,7 @@ Caratteristiche generali delle informazioni riportate nel foglio illustrativo e 
 
 2\. Il foglio illustrativo, in particolare, deve consentire all'utilizzatore di usare correttamente il medicinale, se necessario ricorrendo all'ausilio di operatori sanitari.
 
-###### Art. 82
+#### Art. 82
 
 Conseguenze in caso di inosservanza delle disposizioni sull'etichettatura e sul foglio illustrativo
 
@@ -1660,7 +1646,7 @@ Conseguenze in caso di inosservanza delle disposizioni sull'etichettatura e sul 
 
 2\. Fermo restando l'obbligo di adeguare l'etichettatura e il foglio illustrativo dei nuovi lotti di produzione alle prescrizioni del presente decreto, le confezioni gia' in commercio conformi alle previgenti disposizioni possono essere vendute fino alla data di scadenza, fatti salvi i provvedimenti adottati a tutela della salute pubblica.
 
-###### Art. 83
+#### Art. 83
 
 Disposizioni particolari per l'etichettatura dei medicinali contenenti radionuclidi
 
@@ -1680,13 +1666,13 @@ d) il nome e l'indirizzo del produttore;
 
 e) la quantita' di radioattivita' come specificato al comma 2.
 
-###### Art. 84
+#### Art. 84
 
 Foglio illustrativo di radiofarmaci, generatori di radionuclidi, kit di radionuclidi, precursori di radionuclidi.
 
 1\. L'autorita' competente verifica che nell'imballaggio dei radiofarmaci e dei generatori, dei kit e dei precursori di radionuclidi sia allegato un foglio illustrativo contenente istruzioni dettagliate. Il testo di questo foglio illustrativo e' redatto in conformita' dell'articolo 77. Esso riporta inoltre le precauzioni che l'operatore e il paziente devono prendere durante la preparazione e la somministrazione del medicinale, nonche' le particolari precauzioni da prendere per lo smaltimento della confezione e del contenuto non utilizzato.
 
-###### Art. 85
+#### Art. 85
 
 Disposizioni particolari per l'etichettatura e il foglio illustrativo di medicinali omeopatici
 
@@ -1722,7 +1708,7 @@ o) prezzo del medicinale;
 
 p) dicitura: «medicinale non a carico del Servizio sanitario nazionale».
 
-###### Art. 86
+#### Art. 86
 
 Aggiornamento delle disposizioni sull'etichettatura e sul foglio illustrativo
 
@@ -1730,7 +1716,7 @@ Aggiornamento delle disposizioni sull'etichettatura e sul foglio illustrativo
 
 ## Titolo VI - CLASSIFICAZIONE DEI MEDICINALI AI FINI DELLA FORNITURA
 
-###### Art. 87
+#### Art. 87
 
 Classi dei medicinali ai fini della fornitura
 
@@ -1756,7 +1742,7 @@ e) medicinali non soggetti a prescrizione medica comprendenti:
 
 2\) restanti medicinali non soggetti a prescrizione medica.
 
-###### Art. 88
+#### Art. 88
 
 Medicinali soggetti a prescrizione medica
 
@@ -1778,7 +1764,7 @@ d) sono destinati ad essere somministrati per via parenterale, fatte salve le ec
 
 L'indicazione da parte del medico di un numero di confezioni superiori all'unita' esclude la ripetibilita' della vendita. Sono in ogni caso fatte salve le diverse prescrizioni stabilite, con riferimento a particolari tipologie di medicinali, con decreto del Ministro della salute.
 
-###### Art. 89
+#### Art. 89
 
 Medicinali soggetti a prescrizione medica da rinnovare volta per volta
 
@@ -1792,7 +1778,7 @@ Medicinali soggetti a prescrizione medica da rinnovare volta per volta
 
 5\. La ricetta, che deve comunque contenere, stampata o apposta con timbro, la chiara indicazione del medico prescrivente e della struttura da cui lo stesso dipende, non ha validita' ove sia priva degli elementi di cui al comma 4 ovvero della data, della firma del medico e dei dati relativi alla esenzione.
 
-###### Art. 90
+#### Art. 90
 
 Medicinali soggetti a prescrizione medica speciale
 
@@ -1804,13 +1790,13 @@ Medicinali soggetti a prescrizione medica speciale
 
 > \- Il decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, reca: «Testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza».
 
-###### Art. 91
+#### Art. 91
 
 Medicinali soggetti a prescrizione medica limitativa
 
 1\. I medicinali soggetti a prescrizione medica limitativa sono i medicinali la cui prescrizione o la cui utilizzazione e' limitata a taluni medici o a taluni ambienti, in conformita' di quanto disciplinato dagli articoli 92, 93 e 94.
 
-###### Art. 92
+#### Art. 92
 
 Medicinali utilizzabili esclusivamente in ambiente ospedaliero o in strutture ad esso assimilabili
 
@@ -1824,7 +1810,7 @@ Vietata la vendita al pubblico». Nelle ipotesi previste dal comma 2 la prima fr
 
 4\. I medicinali disciplinati dal presente articolo sono forniti dai produttori e dai grossisti direttamente alle strutture autorizzate a impiegarli o agli enti da cui queste dipendono ((ovvero alle farmacie)).
 
-###### Art. 93
+#### Art. 93
 
 Medicinali vendibili al pubblico su prescrizione di centri ospedalieri o di specialisti
 
@@ -1832,7 +1818,7 @@ Medicinali vendibili al pubblico su prescrizione di centri ospedalieri o di spec
 
 2\. I medicinali di cui al comma 1 devono recare sull'imballaggio esterno o, in mancanza di questo, sul confezionamento primario, dopo le frasi: «Da vendersi dietro presentazione di ricetta medica», o «Da vendersi dietro presentazione di ricetta medica utilizzabile una sola volta», la specificazione del tipo di struttura o di specialista autorizzato alla prescrizione.
 
-###### Art. 94
+#### Art. 94
 
 Medicinali utilizzabili esclusivamente dallo specialista
 
@@ -1844,13 +1830,13 @@ Medicinali utilizzabili esclusivamente dallo specialista
 
 4\. I medicinali disciplinati dal presente articolo possono essere forniti dai produttori e dai grossisti direttamente agli specialisti autorizzati ad impiegarli.
 
-###### Art. 95
+#### Art. 95
 
 Accertamenti sull'osservanza delle disposizioni in materia di classificazione
 
 1\. Le ASL verificano a campione il rispetto da parte dei farmacisti delle disposizioni del presente titolo, informando dell'esito della verifica il Ministero della salute e l'AIFA.
 
-###### Art. 96
+#### Art. 96
 
 Medicinali non soggetti a prescrizione
 
@@ -1870,7 +1856,7 @@ AGGIORNAMENTO (30)
 
 Il D.Lgs. 6 febbraio 2025, n. 10, ha disposto (con l'art. 1, comma 1, alinea) che la presente modifica decorre dal 9 febbraio 2025.
 
-###### Art. 97
+#### Art. 97
 
 Pubblicazione dell'elenco dei medicinali secondo la classificazione ai fini della fornitura
 
@@ -1878,7 +1864,7 @@ Pubblicazione dell'elenco dei medicinali secondo la classificazione ai fini dell
 
 2\. Ogni anno l'AIFA comunica alla Commissione europea e agli altri Stati membri della Comunita' europea le modifiche apportate all'elenco di cui al comma 1, limitatamente ai medicinali la cui fornitura e' soggetta all'obbligo di prescrizione medica, precisandone la classificazione.
 
-###### Art. 98
+#### Art. 98
 
 Tutela delle prove e delle sperimentazioni finalizzate ad una
 
@@ -1886,7 +1872,7 @@ modifica della classificazione
 
 1\. Quando una modifica della classificazione di un medicinale e' stata autorizzata in base a prove precliniche o sperimentazioni cliniche significative, l'AIFA, per un anno dalla data di tale autorizzazione, non tiene conto di tali prove precliniche o sperimentali ai fini dell'esame della domanda di classificazione di un altro medicinale a base della stessa sostanza presentata da diverso richiedente o titolare.
 
-###### Art. 98-bis
+#### Art. 98-bis
 
 (( (Sperimentazioni sulle modalita' di fornitura dei medicinali)
 
@@ -1896,7 +1882,7 @@ favorevole della regione interessata, sperimentazioni sulle modalita' di fornitu
 
 ## Titolo VII - ((DISTRIBUZIONE ALL'INGROSSO E BROKERAGGIO DI MEDICINALI, NONCHE' DISTRIBUZIONE DI SOSTANZE ATTIVE))
 
-###### Art. 99
+#### Art. 99
 
 Ambito di applicazione
 
@@ -1910,7 +1896,7 @@ Ambito di applicazione
 
 3-ter. Per quanto riguarda i medicinali per i quali e' stata rilasciata un'autorizzazione ai sensi del regolamento (CE) n. 726/2004, il distributore presenta la comunicazione, ai sensi del comma 3, al titolare dell'autorizzazione all'immissione in commercio e all'EMA.))
 
-###### Art. 100
+#### Art. 100
 
 Autorizzazione alla distribuzione all'ingrosso dei medicinali
 
@@ -1932,7 +1918,7 @@ Autorizzazione alla distribuzione all'ingrosso dei medicinali
 
 6\. Le bombole e gli altri contenitori di ossigeno, ed eventualmente di altri gas medicinali da individuarsi con decreto del Ministro della salute, possono essere forniti direttamente al domicilio dei pazienti, alle condizioni stabilite dalle disposizioni regionali.
 
-###### Art. 101
+#### Art. 101
 
 Requisiti richiesti per l'ottenimento dell'autorizzazione
 
@@ -1972,13 +1958,13 @@ c) abbia svolto, per almeno cinque anni, anche non continuativi, successivamente
 
 3\. La responsabilita' di piu' magazzini appartenenti allo stesso titolare puo' essere affidata a una stessa persona, purche' l'attivita' da questa svolta in ciascun magazzino sia compatibile con quanto previsto al comma 2.
 
-###### Art. 102
+#### Art. 102
 
 Distribuzione all'ingrosso esercitata in piu' magazzini
 
 1\. Per esercitare la distribuzione all'ingrosso mediante piu' magazzini, dislocati in differenti regioni, l'interessato deve ottenere distinte autorizzazioni, inoltrando domanda a ciascuna autorita' competente.
 
-###### Art. 103
+#### Art. 103
 
 (( Procedura di autorizzazione e ispezioni. ))
 
@@ -2004,7 +1990,7 @@ d) il territorio geografico entro il quale il grossista ha dichiarato di essere 
 
 4-quater. Il Ministero della salute, in cooperazione con l'EMA, definisce la forma e il contenuto dell'autorizzazione, del verbale di ispezione, nonche' della certificazione di cui al presente articolo, ai quali si uniformano le autorita' territoriali competenti.)).
 
-###### Art. 104
+#### Art. 104
 
 Obblighi e facolta' del titolare dell'autorizzazione
 
@@ -2060,7 +2046,7 @@ AGGIORNAMENTO (30)
 
 Il D.Lgs. 6 febbraio 2025, n. 10, ha disposto (con l'art. 1, comma 1, alinea) che le presenti modifiche decorrono dal 9 febbraio 2025.
 
-###### Art. 105
+#### Art. 105
 
 Dotazioni minime e fornitura dei medicinali
 
@@ -2100,7 +2086,7 @@ AGGIORNAMENTO (30)
 
 Il D.Lgs. 6 febbraio 2025, n. 10, ha disposto (con l'art. 1, comma 1, alinea) che la presente modifica decorre dal 9 febbraio 2025.
 
-###### Art. 106
+#### Art. 106
 
 Disposizioni concernenti medicinali particolari
 
@@ -2114,13 +2100,13 @@ Disposizioni concernenti medicinali particolari
 
 > \- Per il decreto del Presidente della Repubblica vedi note all'art. 90.
 
-###### Art. 107
+#### Art. 107
 
 Individuazione dei canali di distribuzione dei medicinali
 
 1\. Le farmacie aperte al pubblico, ((i punti vendita di medicinali previsti dall'articolo 5 del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248,)) le farmacie ospedaliere e le altre strutture che detengono medicinali direttamente destinati alla utilizzazione sul paziente devono essere in grado di comunicare sollecitamente alle autorita' competenti che ne fanno richiesta le informazioni che consentono di individuare il canale di distribuzione di ciascun medicinale.
 
-###### Art. 108
+#### Art. 108
 
 Depositari di medicinali
 
@@ -2130,7 +2116,7 @@ Depositari di medicinali
 
 1-ter. Nell'ipotesi prevista dal comma 1-bis, quando al reparto per la vendita di medicinali sono assegnati piu' farmacisti, il titolare dell'esercizio commerciale individua il farmacista responsabile, il quale deve risultare identificabile dall'utente.))
 
-###### Art. 108-bis
+#### Art. 108-bis
 
 (( (Distribuzione di sostanze attive). ))
 
@@ -2160,7 +2146,7 @@ AGGIORNAMENTO (15)
 
 Il D.Lgs. 19 febbraio 2014, n. 17 ha disposto (con l'art. 2, comma 4) che "Relativamente all'articolo 1, comma 1, numero 21), del presente decreto, i distributori di sostanze attive, che hanno iniziato la loro attivita' prima dell'entrata in vigore del presente decreto, presentano il modulo di registrazione di cui all'articolo 108-bis, del decreto legislativo n. 219 del 2006, quale inserito dal presente decreto, entro due mesi dalla suddetta entrata in vigore".
 
-###### Art. 109
+#### Art. 109
 
 Ispezioni del Ministero della salute e AIFA
 
@@ -2168,13 +2154,13 @@ Ispezioni del Ministero della salute e AIFA
 
 2\. Su richiesta del Ministero della salute e dell'AIFA le ispezioni di cui al comma 1 possono essere effettuate dalle regioni e dalle province autonome ((, per i locali da loro autorizzati e stabiliti sul loro territorio)).
 
-###### Art. 110
+#### Art. 110
 
 Linee guida in materia di buona pratica di distribuzione
 
 1\. Con decreto del Ministro della salute sono aggiornate, in conformita' di nuove disposizioni comunitarie, le buone pratiche di distribuzione dei medicinali di cui all'articolo 104, comma 1, lettera h) ((e le buone pratiche di distribuzione delle sostanze attive di cui all'articolo 51, comma 1)).
 
-###### Art. 111
+#### Art. 111
 
 Obblighi di comunicazione
 
@@ -2184,19 +2170,19 @@ Obblighi di comunicazione
 
 ((3. Il Ministero della salute inserisce le informazioni relative alle autorizzazioni di cui all'articolo 100, nonche' le certificazioni di cui all'articolo 103, nella banca dati dell'Unione europea di cui all'articolo 53, comma 9. Su richiesta della Commissione europea o di uno Stato membro, il Ministero della salute fornisce qualunque informazione utile riguardante le singole autorizzazioni rilasciate ai sensi dell'articolo 100.))
 
-###### Art. 112
+#### Art. 112
 
 Medicinali omeopatici
 
 1\. Le disposizioni del presente titolo si applicano anche ai distributori di medicinali omeopatici.
 
-###### Art. 112-bis
+#### Art. 112-bis
 
 (( (Distribuzione di medicinali in transito e verso paesi terzi). ))
 
 (( 1. Nel caso di distribuzione all'ingrosso di medicinali verso paesi terzi, l'articolo 99 e l'articolo 104, comma 1, lettera c), non si applicano. Inoltre le disposizioni dell'articolo 104, comma 1, lettere b) e c-bis), non si applicano nel caso di un prodotto ricevuto direttamente da un Paese terzo ma non importato. Tuttavia, in tal caso i distributori all'ingrosso garantiscono che i medicinali sono stati ottenuti unicamente da persone che sono autorizzate o abilitate a fornire medicinali ai sensi delle disposizioni giuridiche e amministrative applicabili del paese terzo interessato. Qualora i distributori all'ingrosso forniscano medicinali a persone in paesi terzi, essi garantiscono che le forniture siano eseguite solo a persone che sono autorizzate o abilitate a ricevere i medicinali per la distribuzione all'ingrosso o la fornitura al pubblico ai sensi delle disposizioni giuridiche e amministrative del paese terzo interessato. Le disposizioni di cui all'articolo 105, comma 5, si applicano alla fornitura di medicinali a soggetti di paesi terzi autorizzati o legittimati a fornire medicinali al pubblico. ))
 
-###### Art. 112-ter
+#### Art. 112-ter
 
 (( (Broker di medicinali). ))
 
@@ -2224,7 +2210,7 @@ Il D.Lgs. 19 febbraio 2014, n. 17 ha disposto (con l'art. 2, comma 5) che "Relat
 
 ## ((TITOLO VII-bis - VENDITA A DISTANZA AL PUBBLICO))
 
-###### Art. 112-quater
+#### Art. 112-quater
 
 (( (Vendita on line da parte di farmacie e esercizi commerciali di cui al decreto-legge 4 luglio 2006, n.223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248). ))
 
@@ -2278,7 +2264,7 @@ Il D.Lgs. 19 febbraio 2014, n. 17 ha disposto (con l'art. 2, comma 6) che "Le di
 
 ## Titolo VIII - PUBBLICITA'
 
-###### Art. 113
+#### Art. 113
 
 Definizione di pubblicita' dei medicinali e ambito di applicazione
 
@@ -2308,7 +2294,7 @@ c) le informazioni concrete e i documenti di riferimento riguardanti, ad esempio
 
 d) le informazioni relative alla salute umana o alle malattie umane, purche' non contengano alcun riferimento, neppure indiretto, a un medicinale.
 
-###### Art. 114
+#### Art. 114
 
 Principi fondamentali della disciplina
 
@@ -2326,7 +2312,7 @@ b) non puo' essere ingannevole.
 
 > \- Per il regolamento (CE) n. 726/2004 vedi note all'art. 1.
 
-###### Art. 115
+#### Art. 115
 
 Limiti della pubblicita' presso il pubblico
 
@@ -2340,7 +2326,7 @@ Limiti della pubblicita' presso il pubblico
 
 5\. In pubblicazioni a stampa, trasmissioni radio-televisive e in messaggi non a carattere pubblicitario comunque diffusi al pubblico, e' vietato mostrare in immagini un medicinale o la sua denominazione in un contesto che puo' favorire il consumo del prodotto.
 
-###### Art. 116
+#### Art. 116
 
 Caratteristiche e contenuto minimo della pubblicita' presso il pubblico
 
@@ -2356,7 +2342,7 @@ b) comprende almeno:
 
 3\) un invito esplicito e chiaro a leggere attentamente le avvertenze figuranti, a seconda dei casi, nel foglio illustrativo o sull'imballaggio esterno; nella pubblicita' scritta l'invito deve risultare facilmente leggibile dal normale punto d'osservazione; nella pubblicita' sulla stampa quotidiana e periodica deve essere, comunque, scritto con caratteri di dimensioni non inferiori al corpo nove.
 
-###### Art. 117
+#### Art. 117
 
 Contenuti pubblicitari non consentiti
 
@@ -2388,7 +2374,7 @@ m) utilizza in modo improprio, impressionante o ingannevole rappresentazioni vis
 
 3\. Con decreto del Ministro della salute puo' essere stabilito che i messaggi pubblicitari autorizzati ai sensi dell'articolo 118 contengono il numero di AIC del medicinale.
 
-###### Art. 118
+#### Art. 118
 
 Autorizzazione della pubblicita' presso il pubblico
 
@@ -2440,7 +2426,7 @@ AGGIORNAMENTO (13)
 
 Il D.P.R. 28 marzo 2013, n. 44 ha disposto (con l'art. 2, comma 1, lettera e)) che sono trasferite ad un unico organo collegiale, denominato «Comitato tecnico sanitario», le funzioni in atto esercitate dalla Commissione per il rilascio delle licenze per la pubblicita' sanitaria di cui al comma 2 del presente articolo.
 
-###### Art. 119
+#### Art. 119
 
 Pubblicita' presso gli operatori sanitari
 
@@ -2462,7 +2448,7 @@ b) ordina la diffusione, a spese del trasgressore, di un comunicato di rettifica
 
 7\. Le disposizioni dei commi 1, 3, 4 e 5 e le disposizioni degli articoli 121 e 125 si applicano senza pregiudizio di quanto disciplinato dalle regioni ai sensi del comma 21 dell'articolo 48 del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326.
 
-###### Art. 120
+#### Art. 120
 
 Disposizioni particolari sulla pubblicita' presso i medici
 
@@ -2478,7 +2464,7 @@ Disposizioni particolari sulla pubblicita' presso i medici
 
 5\. La pubblicita' rivolta ai medici puo' essere realizzata anche attraverso visite dei medesimi ai laboratori e ai centri di ricerca delle imprese farmaceutiche, purche' siano orientate allo sviluppo delle conoscenze nei settori della chimica, tecnica farmaceutica, farmacologia, tossicologia, biotecnologie e biochimica.
 
-###### Art. 121
+#### Art. 121
 
 Disposizioni particolari sulla pubblicita' presso i farmacisti
 
@@ -2490,7 +2476,7 @@ Disposizioni particolari sulla pubblicita' presso i farmacisti
 
 4\. La disciplina richiamata nel comma 3 non si applica alle informazioni di contenuto esclusivamente commerciale.
 
-###### Art. 122
+#### Art. 122
 
 Requisiti e attivita' degli informatori scientifici
 
@@ -2514,7 +2500,7 @@ Requisiti e attivita' degli informatori scientifici
 
 > \- Il decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica 30 giugno 1993, pubblicato in Gazzetta Ufficiale della Repubblica italiana n. 87 del 15 aprile 1994, reca: «modificazioni all'ordinamento didattico universitario relativamente ai diplomi universitari afferenti alla facolta' di farmacia».
 
-###### Art. 123
+#### Art. 123
 
 Concessione o promessa di premi o vantaggi pecuniari o in natura
 
@@ -2524,7 +2510,7 @@ Concessione o promessa di premi o vantaggi pecuniari o in natura
 
 3\. I medici e i farmacisti non possono sollecitare o accettare alcun incentivo vietato a norma del comma 1.
 
-###### Art. 124
+#### Art. 124
 
 Convegni o congressi e altri incontri riguardanti i medicinali
 
@@ -2560,7 +2546,7 @@ f) preventivo analitico delle spese; quando l'impresa si limita a fornire un con
 
 10\. Se le manifestazioni di cui al presente articolo sono effettuate in violazione delle disposizioni del presente decreto e dei criteri e delle direttive stabilite dall'AIFA, l'Agenzia medesima puo' vietare lo svolgimento della manifestazione.
 
-###### Art. 125
+#### Art. 125
 
 Campioni gratuiti
 
@@ -2592,7 +2578,7 @@ I medici devono assicurare la conservazione secondo le istruzioni indicate sulla
 
 13\. Il Ministro della salute, su proposta dell'AIFA, tenuto conto dell'andamento dei consumi dei medicinali, puo', con decreto, ridurre il numero dei campioni che possono essere consegnati dagli informatori scientifici ai sensi del presente articolo o prevedere specifiche ulteriori limitazioni per determinate categorie di medicinali.
 
-###### Art. 126
+#### Art. 126
 
 Servizio scientifico
 
@@ -2616,13 +2602,13 @@ d) curano che i provvedimenti adottati dal Ministero della salute e dall'AIFA ai
 
 > \- Per la legge 19 novembre 1990, n. 341 vedi note all'art. 122.
 
-###### Art. 127
+#### Art. 127
 
 Pubblicita' presso gli operatori sanitari svolta irregolarmente
 
 1\. In caso di pubblicita' irregolare svolta presso gli operatori sanitari, l'AIFA adotta, se del caso, i provvedimenti indicati all'articolo 118, comma 13.
 
-###### Art. 128
+#### Art. 128
 
 Disposizioni particolari per la pubblicita' sui medicinali omeopatici
 
@@ -2632,7 +2618,7 @@ Disposizioni particolari per la pubblicita' sui medicinali omeopatici
 
 ## Titolo IX - FARMACOVIGILANZA
 
-###### Art. 129
+#### Art. 129
 
 Sistema nazionale di farmacovigilanza
 
@@ -2666,7 +2652,7 @@ AGGIORNAMENTO (12)
 
 La L. 24 dicembre 2012, n. 228 ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del decreto legislativo 24 aprile 2006, n. 219 e successive modificazioni."
 
-###### Art. 130
+#### Art. 130
 
 Disposizioni concernenti il titolare dell'AIC
 
@@ -2702,7 +2688,7 @@ AGGIORNAMENTO (12)
 
 La L. 24 dicembre 2012, n. 228 ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del decreto legislativo 24 aprile 2006, n. 219 e successive modificazioni."
 
-###### Art. 131
+#### Art. 131
 
 Responsabile del servizio di farmacovigilanza
 
@@ -2728,7 +2714,7 @@ AGGIORNAMENTO (12)
 
 La L. 24 dicembre 2012, n. 228 ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del decreto legislativo 24 aprile 2006, n. 219 e successive modificazioni."
 
-###### Art. 132
+#### Art. 132
 
 Obblighi a carico delle strutture e degli operatori sanitari e successivi adempimenti dell'AIFA
 
@@ -2758,7 +2744,7 @@ AGGIORNAMENTO (12)
 
 La L. 24 dicembre 2012, n. 228 ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del decreto legislativo 24 aprile 2006, n. 219 e successive modificazioni."
 
-###### Art. 133
+#### Art. 133
 
 Sospensione, revoca o modifica di una AIC per ragioni di farmacovigilanza
 
@@ -2776,7 +2762,7 @@ AGGIORNAMENTO (12)
 
 La L. 24 dicembre 2012, n. 228 ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del decreto legislativo 24 aprile 2006, n. 219 e successive modificazioni."
 
-###### Art. 134
+#### Art. 134
 
 Accertamenti sull'osservanza delle norme di farmacovigilanza
 
@@ -2794,11 +2780,9 @@ AGGIORNAMENTO (12)
 
 La L. 24 dicembre 2012, n. 228 ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del decreto legislativo 24 aprile 2006, n. 219 e successive modificazioni."
 
-## Titolo X - DISPOSIZIONI SPECIALI SUI MEDICINALI DERIVATI DAL SANGUE O DAL PLASMA
+## Titolo X - DISPOSIZIONI SPECIALI SUI MEDICINALI DERIVATI DAL SANGUE O DAL PLASMA UMANI E SUI MEDICINALI IMMUNOLOGICI
 
-### UMANI E SUI MEDICINALI IMMUNOLOGICI
-
-###### Art. 135
+#### Art. 135
 
 Raccolta e controllo del sangue e del plasma umani
 
@@ -2822,19 +2806,19 @@ Raccolta e controllo del sangue e del plasma umani
 
 > «Art. 443 (Commercio o somministrazione di medicinali guasti). - «Chiunque detiene per il commercio, pone in commercio o somministra medicinali guasti o imperfetti e' punito con la reclusione da sei mesi a tre anni e con la multa non inferiore a lire duecentomila.».
 
-###### Art. 136
+#### Art. 136
 
 Autosufficienza comunitaria in materia di sangue e plasma umani
 
 1\. Il Ministero della salute e l'AIFA prendono tutti i provvedimenti necessari per raggiungere l'autosufficienza della Comunita' europea in materia di sangue e di plasma umani. A questo fine incoraggiano le donazioni, volontarie e non remunerate, di sangue o suoi componenti e prendono tutti i provvedimenti necessari per lo sviluppo della produzione e dell'utilizzazione dei prodotti derivati dal sangue o dal plasma umani provenienti da donazioni volontarie e non remunerate. I provvedimenti presi sono notificati alla Commissione europea.
 
-###### Art. 137
+#### Art. 137
 
 Resoconti dei controlli di analisi
 
 1\. L'AIFA puo' esigere dai produttori di medicinali immunologici o di medicinali derivati dal sangue o dal plasma umani la trasmissione di copia di tutti i resoconti di controllo sottoscritti dalla persona qualificata, conformemente all'articolo 52, comma 8.
 
-###### Art. 138
+#### Art. 138
 
 Controllo di stato dei medicinali immunologici
 
@@ -2860,13 +2844,13 @@ c) possono essere esentati dal controllo di stato medicinali immunologici che of
 
 4\. Il controllo di stato non e' richiesto quando il lotto e' stato gia' sottoposto ad analogo controllo da parte dell'autorita' sanitaria di altro Stato membro della Comunita' europea o di uno Stato con il quale esistono accordi bilaterali.
 
-###### Art. 139
+#### Art. 139
 
 Controllo di stato dei medicinali derivati dal sangue o dal plasma umani
 
 1\. Il Ministro della salute, sentiti l'Istituto superiore di sanita' e il Consiglio superiore di sanita', puo' sottoporre a controllo di stato, anche limitatamente a singole tipologie, i medicinali derivati dal sangue o dal plasma umani, allo stato sfuso o gia' pronti per l'uso; con la stessa procedura sono dettate prescrizioni e modalita' per l'effettuazione di tale controllo, che deve essere completato entro sessanta giorni dalla ricezione dei campioni.
 
-###### Art. 140
+#### Art. 140
 
 Eliminazione di virus patogeni suscettibili di trasmissione con i medicinali derivati dal sangue o dal plasma umani
 
@@ -2874,7 +2858,7 @@ Eliminazione di virus patogeni suscettibili di trasmissione con i medicinali der
 
 ## Titolo XI - VIGILANZA E SANZIONI
 
-###### Art. 141
+#### Art. 141
 
 Sospensione, revoca e modifica d'ufficio di una AIC
 
@@ -2904,7 +2888,7 @@ Contro il provvedimento di revoca adottato dall'AIFA puo' essere proposta opposi
 
 7\. Con il provvedimento di modifica dell'AIC di cui al comma 6, l'AIFA stabilisce il termine entro il quale devono essere ritirate dal commercio le confezioni non modificate.
 
-###### Art. 142
+#### Art. 142
 
 Divieto di vendita e di utilizzazione ritiro dal commercio e sequestro del medicinale
 
@@ -2914,7 +2898,7 @@ Divieto di vendita e di utilizzazione ritiro dal commercio e sequestro del medic
 
 3\. Le disposizioni di cui ai commi 1 e 2 si estendono, per quanto applicabili, anche alle sostanze attive.
 
-###### Art. 142-bis
+#### Art. 142-bis
 
 (( (Sistema nazionale anti-falsificazione). ))
 
@@ -2932,7 +2916,7 @@ c) il ritiro dei suddetti medicinali anche presso i pazienti che li hanno ricevu
 
 4\. Se si ritiene che il medicinale di cui al comma 3 abbia gia' raggiunto i pazienti, entro 24 ore dalla notifica di allerta rapida sono diramati d'urgenza comunicati pubblici per raggiungere i pazienti medesimi e procedere al ritiro del medicinale presso il loro domicilio. Tali comunicati contengono brevi informazioni sul difetto di qualita' o sulla falsificazione, nonche' sui rischi connessi per la salute dei pazienti.))
 
-###### Art. 142-ter
+#### Art. 142-ter
 
 (( (Informazione sulle attivita' anti-falsificazione). ))
 
@@ -2940,13 +2924,13 @@ c) il ritiro dei suddetti medicinali anche presso i pazienti che li hanno ricevu
 
 2\. L'AIFA, con il supporto della task-force di cui al comma 1 e senza nuovi o maggiori oneri per la finanza pubblica, organizza incontri con la partecipazione di organizzazioni di pazienti e di consumatori e, se necessario, dei responsabili delle azioni di vigilanza sul territorio nazionale, al fine di informare il pubblico sulle azioni intraprese nel settore della prevenzione e dell'applicazione delle norme per contrastare la falsificazione di medicinali.))
 
-###### Art. 142-quater
+#### Art. 142-quater
 
 (( (Cooperazione con l'Agenzia delle dogane e dei monopoli). ))
 
 ((1. Ai sensi del presente decreto, e, in particolare degli articoli 52-ter e 112-bis, nonche' l'articolo 118-quater della direttiva 2001/83/CE, al fine di contrastare l'ingresso nel territorio nazionale di medicinali falsificati, l'AIFA, di intesa con il Ministero della salute e il Ministero dell'economia e delle finanze, adotta, sentita la task-force di cui all'articolo 142-ter, le misure necessarie a garantire la cooperazione tra l'AIFA stessa, l'Agenzia delle dogane e dei monopoli e, per gli aspetti di competenza, gli uffici di sanita' marittima, aerea e di frontiera del Ministero della salute.))
 
-###### Art. 142-quinquies
+#### Art. 142-quinquies
 
 (( (Conferenza dei servizi). ))
 
@@ -2962,13 +2946,13 @@ c) il ritiro dei suddetti medicinali anche presso i pazienti che li hanno ricevu
 
 6\. In caso di mancata ottemperanza ai provvedimenti di cui ai commi 3 e 4, entro il termine nei medesimi indicato, si applica una sanzione amministrativa pecuniaria da euro ventimila a euro duececentocinquantamila.))
 
-###### Art. 143
+#### Art. 143
 
 Prescrizioni di carattere generale relative ai medicinali
 
 1\. L'AIFA puo' stabilire, nel rispetto delle direttive e raccomandazioni della Comunita' europea, condizioni e prescrizioni di carattere generale relative a tutti i medicinali o a particolari gruppi di essi, ivi comprese disposizioni sull'etichettatura e sul confezionamento dei medicinali e sulle modalita' di prescrizione e di impiego.
 
-###### Art. 144
+#### Art. 144
 
 Provvedimenti dell'autorita' amministrativa in caso di irregolarita' nel commercio dei medicinali
 
@@ -2980,13 +2964,13 @@ Provvedimenti dell'autorita' amministrativa in caso di irregolarita' nel commerc
 
 ((4. Se successivamente si ripetono, almeno due volte, i fatti previsti dal comma 1 presso la stessa farmacia o lo stesso punto vendita, l'autorita' amministrativa competente dispone la decadenza della farmacia o, nel caso previsto dall'articolo 5 del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, la chiusura del reparto.))
 
-###### Art. 145
+#### Art. 145
 
 Pubblicazione e notificazione dei provvedimenti
 
 1\. I provvedimenti di revoca, ivi compresa la revoca su rinuncia ai sensi dell'articolo 38, comma 9, di sospensione o di modifica d'ufficio, nonche' il divieto di vendita e di utilizzazione di cui all'articolo 142, sono pubblicati per estratto o mediante comunicato nella Gazzetta Ufficiale della Repubblica italiana entro tre giorni dall'emanazione. Gli stessi provvedimenti, sono notificati ai titolari delle autorizzazioni.
 
-###### Art. 146
+#### Art. 146
 
 Sospensione e revoca dell'autorizzazione alla produzione
 
@@ -3002,7 +2986,7 @@ i provvedimenti stessi sono notificati ai titolari delle autorizzazioni e pubbli
 
 5\. I titolari delle autorizzazioni alla produzione hanno l'obbligo di comunicare all'AIFA la temporanea o definitiva chiusura del sito produttivo.
 
-###### Art. 147
+#### Art. 147
 
 Sanzioni penali
 
@@ -3028,7 +3012,7 @@ Sanzioni penali
 
 ((7-bis. Salvo che il fatto costituisca piu' grave reato, chiunque fabbrica, distribuisce, importa, esporta, commercia e vende a distanza al pubblico mediante i servizi della societa' dell'informazione medicinali falsificati, nonche' esercita attivita' di brokeraggio di medicinali falsificati, e' punito con la reclusione da uno a tre anni e con la multa da euro duemilaseicento a euro quindicimilaseicento.))
 
-###### Art. 148
+#### Art. 148
 
 Sanzioni amministrative
 
@@ -3114,7 +3098,7 @@ AGGIORNAMENTO (30)
 
 Il D.Lgs. 6 febbraio 2025, n. 10, ha disposto (con l'art. 1, comma 1, alinea) che la presente modifica decorre dal 9 febbraio 2025.
 
-###### Art. 149
+#### Art. 149
 
 Estensione delle norme del presente titolo ai medicinali autorizzati con procedura centralizzata
 
@@ -3124,7 +3108,7 @@ Estensione delle norme del presente titolo ai medicinali autorizzati con procedu
 
 > \- Per il regolamento (CE) n. 726/2004, vedi note all'art. 1.
 
-###### Art. 150
+#### Art. 150
 
 Estensione delle disposizioni del titolo ai medicinali omeopatici
 
@@ -3132,7 +3116,7 @@ Estensione delle disposizioni del titolo ai medicinali omeopatici
 
 ## Titolo XII - ULTERIORI DISPOSIZIONI
 
-###### Art. 151
+#### Art. 151
 
 Osservanza degli obblighi di comunicazione all'interno della comunita'
 
@@ -3144,7 +3128,7 @@ Osservanza degli obblighi di comunicazione all'interno della comunita'
 
 > \- Per la direttiva 2001/83/CE, vedi note alle premesse.
 
-###### Art. 152
+#### Art. 152
 
 Obblighi di comunicazione nei confronti dell'Organizzazione mondiale della sanita'
 
@@ -3154,7 +3138,7 @@ Obblighi di comunicazione nei confronti dell'Organizzazione mondiale della sanit
 
 2\. Copia della comunicazione di cui al comma 1 e' inviata all'EMEA e al Ministero della salute.
 
-###### Art. 153
+#### Art. 153
 
 Tassativita' delle fattispecie relative a provvedimenti restrittivi
 
@@ -3162,7 +3146,7 @@ Tassativita' delle fattispecie relative a provvedimenti restrittivi
 
 2\. Le decisioni di sospensione della produzione, o dell'importazione di medicinali provenienti da Paesi terzi, di divieto di vendita e di ritiro dal commercio di un medicinale possono essere prese, rispettivamente, solamente per i motivi indicati negli articoli 146 e 142.
 
-###### Art. 154
+#### Art. 154
 
 Estensione di alcune disposizioni sulla farmacovigilanza
 
@@ -3176,7 +3160,7 @@ Estensione di alcune disposizioni sulla farmacovigilanza
 
 > «2. In singoli casi il medico puo', sotto la sua diretta responsabilita' e previa informazione del paziente e acquisizione del consenso dello stesso, impiegare un medicinale prodotto industrialmente per un'indicazione o una via di somministrazione o una modalita' di somministrazione o di utilizzazione diversa da quella autorizzata, ovvero riconosciuta agli effetti dell'applicazione dell'art. 1, comma 4, del decreto-legge 21 ottobre 1996, n. 536, convertito dalla legge 23 dicembre 1996, n. 648, qualora il medico stesso ritenga, in base a dati documentabili, che il paziente non possa essere utilmente trattato con medicinali per i quali sia gia' approvata quella indicazione terapeutica o quella via o modalita' di somministrazione e purche' tale impiego sia noto e conforme a lavori apparsi su pubblicazioni scientifiche accreditate in campo internazionale.».
 
-###### Art. 155
+#### Art. 155
 
 Misure dirette ad assicurare l'indipendenza e la trasparenza delle valutazioni e un miglior coordinamento fra le attivita' dell'AIFA e del Ministero della salute.
 
@@ -3212,7 +3196,7 @@ Le dichiarazioni non veritiere che occultano interessi ricompresi nel primo peri
 
 > 2\. Il Centro di collegamento tra l'Agenzia e le regioni e' costituito con delibera del Consiglio di amministrazione. E' composto da dieci membri, di cui cinque designati dal Consiglio di amministrazione sentito il Direttore generale e cinque dalla Conferenza Stato-regioni ed e' presieduto da uno dei componenti designati dalla Conferenza Stato-regioni. Il Centro e' rinnovato ogni cinque anni.».
 
-###### Art. 156
+#### Art. 156
 
 Certificazioni concernenti la produzione di medicinali
 
@@ -3224,7 +3208,7 @@ b) fornisce, per i medicinali gia' autorizzati e destinati all'esportazione, il 
 
 2\. Il produttore che non sia in possesso di un'AIC e' tenuto a fornire all'AIFA, ai fini del rilascio del certificato di cui al comma 1, i motivi della mancanza di tale autorizzazione, nonche' copia dell'AIC nel Paese di destinazione, o la domanda di autorizzazione presentata alle autorita' di tale Paese.
 
-###### Art. 157
+#### Art. 157
 
 Sistemi di raccolta di medicinali inutilizzati o scaduti
 
@@ -3254,7 +3238,7 @@ Il D.Lgs. 3 luglio 2017, n. 117, come modificato dal D.L. 17 giugno 2025, n. 84,
 
 ## Titolo XIII - DISPOSIZIONI FINALI
 
-###### Art. 158
+#### Art. 158
 
 Abrogazioni; effetti delle autorizzazioni adottate sulla base delle disposizioni abrogate; conferma di disposizioni specifiche.
 
@@ -3298,7 +3282,7 @@ AGGIORNAMENTO (17)
 
 Il D.L. 19 giugno 2015, n. 78, convertito con modificazioni dalla L. 6 agosto 2015, n. 125 ha disposto (con l'art. 9-duodescies, comma 6) che "Il decreto del Ministro della salute di cui al comma 12 dell'articolo 158 del decreto legislativo 24 aprile 2006, n. 219, come modificato dal comma 5 del presente articolo, e' adottato entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto ed e' applicabile dal mese successivo a quello della sua entrata in vigore".
 
-###### Art. 159
+#### Art. 159
 
 Disposizioni finanziarie
 
@@ -3306,7 +3290,7 @@ Disposizioni finanziarie
 
 2\. Le Amministrazioni pubbliche interessate svolgono gli adempimenti previsti dal presente decreto nei limiti delle risorse finanziarie, umane e strumentali disponibili a legislazione vigente.
 
-###### Art. 160
+#### Art. 160
 
 Clausola di cedevolezza
 
@@ -3342,7 +3326,7 @@ Visto, il Guardasigilli: Mastella
 
 ## Titolo XIII - DISPOSIZIONI FINALI
 
-###### Allegato I
+#### Allegato I
 
 Allegato I
 
@@ -5296,7 +5280,7 @@ Vanno presi in considerazione adeguati marcatori farmacodinamici, relativi alle 
 
 Si applica la sezione 5.3.3.))
 
-###### Allegato 2
+#### Allegato 2
 
 Allegato 2
 

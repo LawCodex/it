@@ -27,7 +27,7 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+###### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare il trattato, firmato a Lisbona e a Madrid il 12 giugno 1985, concluso tra il Regno del Belgio, il Regno di Danimarca, la Repubblica federale di Germania, la Repubblica ellenica, la Repubblica francese, l'Irlanda, la Repubblica italiana, il Granducato del Lussemburgo, il Regno dei Paesi Bassi, il Regno Unito di Gran Bretagna e Irlanda del Nord (Stati membri delle Comunita' europee) e il Regno di Spagna e la Repubblica portoghese relativo all'adesione del Regno di Spagna e della Repubblica portoghese alla Comunita' economica europea e alla Comunita' europea dell'energia atomica, con i seguenti atti connessi:
 
@@ -37,11 +37,11 @@ venticinque protocolli;
 
 atto finale, con allegati.
 
-##### Art. 2
+###### Art. 2
 
 Piena ed intera esecuzione e' data al trattato di cui all'articolo precedente, a decorrere dalla sua entrata in vigore in conformita' dell'articolo 2 del trattato stesso.
 
-##### Art. 3
+###### Art. 3
 
 La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
@@ -75,7 +75,7 @@ considerando che le condizioni di adesione che il Consiglio deve fissare sono st
 
 DECIDE:
 
-##### Articolo 1
+###### Articolo 1
 
 1\. Il Regno di Spagna e la Repubblica portoghese possono diventare membri della Comunita' europea del carbone e dell'acciaio aderendo, alle condizioni previste dalla presente decisione, al trattato che istituisce tale Comunita', quale e' stato modificato o completato.
 
@@ -83,7 +83,7 @@ DECIDE:
 
 3\. Le disposizioni concernenti i diritti e gli obblighi degli stati membri, nonche' i poteri e le competenze delle istituzioni delle Comunita', quali figurano nel trattato di cui al paragrafo 1, si applicano nei confronti della presente decisione.
 
-##### Articolo 2
+###### Articolo 2
 
 1\. Gli strumenti di adesione del Regno di Spagna e della Repubblica portoghese alla Comunita' europea del carbone e dell'acciaio saranno depositati presso il governo della Repubblica francese il 1 gennaio 1986.
 
@@ -95,11 +95,11 @@ Qualora tuttavia uno degli stati di cui al paragrafo 1 del presente articolo non
 
 4\. Il governo della Repubblica francese rimettera' copia certificata conforme dello strumento di adesione di ciascuno stato aderente ai governi degli stati membri e dell'altro stato aderente.
 
-##### Articolo 3
+###### Articolo 3
 
 La presente decisione redatta in danese, in francese, in greco, in inglese, in irlandese, in italiano, in olandese, in portoghese, in spagnolo e in tedesco, i testi in ciascuna di queste lingue facenti tutti ugualmente fede, e' comunicata agli stati membri della Comunita' europea del carbone e dell'acciaio, al Regno di Spagna e alla Repubblica portoghese.
 
-##### art. 1
+###### art. 1
 
 TRATTATO
 
@@ -357,7 +357,7 @@ Articolo 1
 
 3\. Le disposizioni concernenti i diritti e gli obblighi degli stati membri, nonche i poteri e le competenze delle istituzioni delle Comunita', quali figurano nei trattati di cui al paragrafo 1, si applicano nei confronti del presente trattato.
 
-##### Articolo 2
+###### Articolo 2
 
 1\. Il presente trattato sara' ratificato dalle Alte Parti Contraenti conformemente alle loro norme costituzionali rispettive.
 
@@ -371,7 +371,7 @@ Qualora tuttavia uno degli stati di cui all'articolo 1, paragrafo 1 non abbia de
 
 Queste misure prendono effetto soltanto con riserva e alla data dell'entrata in vigore del presente trattato.
 
-##### Articolo 3
+###### Articolo 3
 
 Il presente trattato, redatto in unico esemplare, in danese, in francese, in greco, in inglese, in irlandese, in italiano, in olandese, in portoghese, in spagnolo e in tedesco, i testi in ciascuna di queste lingue facenti tutti ugualmente fede, sara' depositato negli archivi del governo della Repubblica italiana che provvedera' a rimetterne copia certificata conforme a ciascuno dei governi degli altri stati firmatari.
 
@@ -381,7 +381,7 @@ ATTO
 
 Relativo alle condizioni di adesione del Regno di Spagna e della Repubblica Portoghese e agli adattamenti dei trattati
 
-##### Articolo 1
+###### Articolo 1
 
 Ai fini del presente atto:
 
@@ -395,11 +395,11 @@ Ai fini del presente atto:
 
 \- per "nuovi stati membri" s'intendono il Regno di Spagna e la Repubblica portoghese.
 
-##### Articolo 2
+###### Articolo 2
 
 Dal momento dell'adesione le disposizioni dei trattati originari e gli atti adottati dalle istituzioni delle Comunita' prima dell'adesione vincolano i nuovi stati membri e si applicano in tali stati alle condizioni previste da detti trattati e dal presente atto.
 
-##### Articolo 3
+###### Articolo 3
 
 1\. I nuovi stati membri aderiscono con il presente atto alle decisioni ed agli accordi conclusi dai rappresentanti dei governi degli stati membri riuniti in sede di Consiglio. Essi s'impegnano ad aderire dal momento dell'adesione a ogni altro accordo concluso dagli stati membri attuali relativo al funzionamento delle Comunita' o che sia connesso alla loro azione.
 
@@ -407,7 +407,7 @@ Dal momento dell'adesione le disposizioni dei trattati originari e gli atti adot
 
 3\. I nuovi stati membri si trovano nella stessa situazione degli stati membri attuali rispetto alle dichiarazioni, risoluzioni o altre prese di posizione del Consiglio, nonche' a quelle relative alle Comunita' europee adottate di comune accordo dagli stati membri; essi rispetteranno quindi i principi e gli orientamenti che ne derivano e prenderanno le misure che possono risultare necessarie per assicurarne l'applicazione.
 
-##### Articolo 4
+###### Articolo 4
 
 1\. Gli accordi e le convenzioni conclusi da una della Comunita' con uno o piu' stati terzi, con un'organizzazione internazionale o con un cittadino di uno stato terzo vincolano i nuovi stati membri alle condizioni previste dai trattati originari e dal presente atto.
 
@@ -417,23 +417,23 @@ Dal momento dell'adesione le disposizioni dei trattati originari e gli atti adot
 
 4\. I nuovi stati membri prendono le misure adatte per adeguare, se occorre, ai diritti ed agli obblighi derivanti dalla loro adesione alle Comunita' la propria posizione nei confronti delle organizzazioni internazionali e degli accordi internazionali cui sono parti anche altri stati membri o una delle Comunita'.
 
-##### Articolo 5
+###### Articolo 5
 
 L'articolo 234 del trattato CEE e gli articoli 105 e 106 del trattato CEEA si applicano, per quanto attiene ai nuovi stati membri, agli accordi ed alle convenzioni conclusi prima della loro adesione.
 
-##### Articolo 6
+###### Articolo 6
 
 Le disposizioni del presente atto, se non e' stabilito altrimenti, non possono essere sospese, modificate o abrogate che a mezzo delle procedure, previste dai trattati originari, che consentono la revisione di tali trattati.
 
-##### Articolo 7
+###### Articolo 7
 
 Gli atti delle istituzioni delle Comunita' ai quali si riferiscono le disposizioni transitorie stabilite col presente atto conservano la loro natura giuridica; in particolare, le procedure per la loro modifica restano applicabili.
 
-##### Articolo 8
+###### Articolo 8
 
 Le disposizioni del presente atto che hanno per oggetto o per effetto di abrogare o di modificare, a titolo non transitorio, atti delle istituzioni delle Comunita' acquistano la stessa natura giuridica delle disposizioni cosi' abrogate o modificate e sono sottoposte alle stesse norme.
 
-##### Articolo 9
+###### Articolo 9
 
 L'applicazione dei trattati originari e degli atti delle istituzioni e' soggetta, a titolo transitorio, alle disposizioni derogatorie previste dal presente atto.
 
@@ -443,7 +443,7 @@ L'applicazione dei trattati originari e degli atti delle istituzioni e' soggetta
 
 #### CAPO 1 - L'Assemblea
 
-##### Articolo 10
+###### Articolo 10
 
 Il testo dell'articolo 2 dell'atto relativo all'elezione dei rappresentanti nell'assemblea a suffragio universale diretto, allegato alla decisione 76/787/CECA, CEE, Euratom e' sostituito dal testo seguente:
 
@@ -475,9 +475,9 @@ Portogallo 24
 
 Regno Unito 81"
 
-## CAPO 2 - Il Consiglio
+#### CAPO 2 - Il Consiglio
 
-##### Articolo 11
+###### Articolo 11
 
 Il testo dell'articolo 2, secondo comma del trattato che istituisce un Consiglio unico ed una Commissione unica delle Comunita' europee e' sostituito dal testo seguente;
 
@@ -487,7 +487,7 @@ Il testo dell'articolo 2, secondo comma del trattato che istituisce un Consiglio
 
 \- durante il successivo ciclo di sei anni: Danimarca, Belgio, Grecia, Repubblica federale di Germania, Francia, Spagna, Italia, Irlanda, Paesi Bassi, Lussemburgo, Regno Unito, Portogallo".
 
-##### Articolo 12
+###### Articolo 12
 
 Testo dell'articolo 28 del trattato CECA e' sostituito dal testo seguente:
 
@@ -539,7 +539,7 @@ Il Consiglio comunica con gli stati membri per mezzo del suo presidente.
 
 Le deliberazioni del Consiglio sono pubblicate nei modi da esso stabiliti".
 
-##### Articolo 13
+###### Articolo 13
 
 Il testo dell'articolo 95, quarto comma del trattato CECA e' sostituito dal testo seguente:
 
@@ -547,7 +547,7 @@ Il testo dell'articolo 95, quarto comma del trattato CECA e' sostituito dal test
 
 Nel suo esame, la Corte ha piena competenza per valutare tutti gli elementi di fatto e di diritto. Se, in seguito a questo esame, la Corte riconosce la conformita' delle proposte alle disposizioni del capoverso precedente, esse sono trasmesse all'Assemblea ed entrano in vigore se sono approvate a maggioranza di tre quarti dei voti espressi e a maggioranza di due terzi dei membri che compongono l'Assemblea".
 
-##### Articolo 14
+###### Articolo 14
 
 Il testo dell'articolo 148, paragrafo 2 del trattato CEE e dell'articolo 118, paragrafo 2 del trattato CEEA e' sostituito dal testo seguente:
 
@@ -583,15 +583,15 @@ Le deliberazioni sono valide se hanno raccolto almeno:
 
 \- 54 voti che esprimano il voto favorevole di almeno otto membri, negli altri casi".
 
-## CAPO 3 - La Commissione
+#### CAPO 3 - La Commissione
 
-##### Articolo 15
+###### Articolo 15
 
 Il testo dell'articolo 10, paragrafo 1, primo comma del trattato che istituisce un Consiglio unico ed una Commissione unica delle Comunita' europee e' sostituito dal testo seguente:
 
 "1. La Commissione e' composta di 17 membri, scelti in base alla loro competenza generale e che offrano ogni garanzia di indipendenza".
 
-##### Articolo 16
+###### Articolo 16
 
 L'articolo 14 del trattato che istituisce un Consiglio unico ed una Commissione unica delle Comunita' europee e' modificato come segue:
 
@@ -603,21 +603,21 @@ L'articolo 14 del trattato che istituisce un Consiglio unico ed una Commissione 
 
 "Il Consiglio, deliberando all'unanimita', puo' modificare le disposizioni concernenti i vicepresidenti".
 
-## CAPO 4 - La Corte di giustizia
+#### CAPO 4 - La Corte di giustizia
 
-##### Articolo 17
+###### Articolo 17
 
 Il testo dell'articolo 32, primo comma del trattato CECA, dell'articolo 165, primo comma del trattato CEE e dell'articolo 137, primo comma del trattato CEEA e' sostituito dal testo seguente:
 
 "La Corte di giustizia e' composta di 13 giudici".
 
-##### Articolo 18
+###### Articolo 18
 
 Il testo dell'articolo 32 bis, primo comma del trattato CECA, dell'articolo 166, primo comma del trattato CEE e dell'articolo 138, primo comma del trattato CEEA e' sostituito dal testo seguente:
 
 "La Corte di giustizia e' assistita da sei avvocati generali".
 
-##### Articolo 19
+###### Articolo 19
 
 Il testo dell'articolo 32-ter, secondo e terzo comma del trattato CECA, dell'articolo 167, secondo e terzo comma del trattato CEE e dell'articolo 139, secondo e terzo comma del trattato CEEA e' sostituito dal testo seguente:
 
@@ -627,17 +627,17 @@ Esso riguarda alternativamente sette e sei giudici.
 
 Ogni tre anni si procede a un rinnovamento parziale degli avvocati generali. Esso riguarda ogni volta tre avvocati generali".
 
-## CAPO 5 - La Corte dei conti
+#### CAPO 5 - La Corte dei conti
 
-##### Articolo 20
+###### Articolo 20
 
 Il testo dell'articolo 78 sesto, paragrafo 2 del trattato CECA, dell'articolo 206, paragrafo 2 del trattato CEE e dell'articolo 180, paragrafo 2 del trattato CEEA e' sostituito dal testo seguente:
 
 "2. La Corte dei conti e' composta di 12 membri".
 
-## CAPO 6 - Il Comitato economico e sociale
+#### CAPO 6 - Il Comitato economico e sociale
 
-##### Articolo 21
+###### Articolo 21
 
 Il testo dell'articolo 194, primo comma del trattato CEE e dell'articolo 166, primo comma del trattato CEEA e' sostituito dal testo seguente:
 
@@ -667,31 +667,31 @@ Portogallo 12
 
 Regno Unito 24"
 
-## CAPO 7 - Il Comitato consultivo CECA
+#### CAPO 7 - Il Comitato consultivo CECA
 
-##### Articolo 22
+###### Articolo 22
 
 Il testo dell'articolo 18, primo comma del trattato CECA e' sostituito dal testo seguente:
 
 "Presso l'Alta Autorita' e' istituito un Comitato consultivo. Esso e' composto di non meno di 72 membri e di non piu' di 96 e comprende, in numero uguale, produttori, lavoratori, consumatori e commercianti".
 
-## CAPO 8 - Il Comitato scientifico e tecnico
+#### CAPO 8 - Il Comitato scientifico e tecnico
 
-##### Articolo 23
+###### Articolo 23
 
 Il testo dell'articolo 134, paragrafo 2, primo comma del trattato CEEA e' sostituito dal testo seguente:
 
 "2. Il Comitato e' composto di trentatre' membri, nominati dal Consiglio previa consultazione della Commissione".
 
-## TITOLO II - ALTRI ADATTAMENTI
+### TITOLO II - ALTRI ADATTAMENTI
 
-##### Articolo 24
+###### Articolo 24
 
 Il testo dell'articolo 227, paragrafo 1 del trattato CEE e' sostituito dal testo seguente:
 
 "1. Il presente trattato si applica al Regno del Belgio, al Regno di Danimarca, alla Repubblica federale di Germania, alla Repubblica ellenica, al Regno di Spagna, alla Repubblica francese, all'Irlanda, alla Repubblica italiana, al Granducato del Lussemburgo, al Regno dei Paesi Bassi, alla Repubblica portoghese e al Regno Unito di Gran Bretagna e Irlanda del Nord".
 
-##### Articolo 25
+###### Articolo 25
 
 1\. 1 trattati e gli atti delle istituzioni delle Comunita' europee si applicano alle Isole Canarie e a Ceuta e Melilla, con riserva delle deroghe previste nei paragrafi 2 e 3 e nelle altre disposizioni del presente atto.
 
@@ -711,11 +711,11 @@ Su proposta della Commissione, che agisce di sua iniziativa o su richiesta di un
 
 ## PARTE TERZA - ADATTAMENTI DEGLI ATTI DELLE ISTITUZIONI
 
-##### Articolo 26
+###### Articolo 26
 
 Gli atti indicati nell'elenco riportato dall'allegato I del presente atto formano oggetto degli adattamenti specificati in tale allegato.
 
-##### Articolo 27
+###### Articolo 27
 
 Gli adattamenti degli atti indicati nell'elenco riportato nell'allegato II del presente atto, resi necessari dall'adesione, sono effettuati conformemente agli orientamenti enunciati in detto allegato e secondo la procedura e alle condizioni di cui all'articolo 396.
 
@@ -723,7 +723,7 @@ Gli adattamenti degli atti indicati nell'elenco riportato nell'allegato II del p
 
 ### TITOLO I - DISPOSIZIONI ISTITUZIONALI
 
-##### Articolo 28
+###### Articolo 28
 
 1\. Nel corso dei primi due anni successivi all'adesione ciascuno dei nuovi stati membri procede all'elezione a suffragio universale diretto di, rispettivamente, 60 rappresentanti del popolo spagnolo e 24 rappresentanti del popolo portoghese nell'Assemblea, conformemente alle disposizioni dell'atto del 20 settembre 1976 relativo all'elezione dei rappresentanti nell'Assemblea a suffragio universale diretto.
 
@@ -731,17 +731,17 @@ Il mandato di questi rappresentanti scade contemporaneamente a quello dei rappre
 
 2\. Dal momento dell'adesione e per il periodo fino a ciascuna delle elezioni di cui al paragrafo 1, i rappresentanti dei popoli spagnolo e portoghese nell'Assemblea sono designati dai parlamenti dei nuovi stati membri fra i propri membri, secondo la procedura fissata da ciascuno di questi stati.
 
-##### Articolo 29
+###### Articolo 29
 
 Ai fini dell'applicazione dell'articolo 2, secondo comma del trattato che istituisce un Consiglio unico ed una Commissione unica delle Comunita' europee, il nuovo ordine stabilito dall'articolo 11 del presente atto si applichera' alla scadenza dei rimanenti periodi di rotazione secondo l'ordine degli stati membri stabilito dall'articolo 2 sopracitato nel testo vigente anteriormente all'adesione.
 
-## TITOLO II - MISURE TRANSITORIE CONCERNENTI LA SPAGNA
+### TITOLO II - MISURE TRANSITORIE CONCERNENTI LA SPAGNA
 
-### CAPO 1 - Libera circolazione delle merci
+#### CAPO 1 - Libera circolazione delle merci
 
-#### Sezione 1 - Disposizioni tariffarie
+##### Sezione 1 - Disposizioni tariffarie
 
-##### Articolo 30
+###### Articolo 30
 
 1\. Per ogni prodotto il dazio di base sul quale vanno operate le successive riduzioni di cui agli articoli 31, 75, paragrafo 1 e 173, paragrafi 1 e 2 e' il dazio effettivamente applicato al 1 gennaio 1985 ai prodotti originari della Comunita' nella sua composizione attuale e della Spagna nel quadro dei loro scambi.
 
@@ -775,7 +775,7 @@ N. della tariffa |                                    |
 ---------------------------------------------------------------------
 ```
 
-##### Articolo 31
+###### Articolo 31
 
 1\. I dazi doganali all'importazione tra la Comunita' nella sua
 
@@ -831,7 +831,7 @@ stati membri.
 
 sono applicate arrotondando alla prima cifra decimale, senza tenere conto della seconda cifra decimale.
 
-##### Articolo 32
+###### Articolo 32
 
 In nessun caso si applicano all'interno della Comunita' dazi
 
@@ -845,7 +845,7 @@ In caso di modifica o di sospensione dei dazi della tariffa
 
 unificata CECA o di applicazione dell'articolo 40 da parte del Regno di Spagna la Commissione puo' prendere le misure necessarie per mantenere la preferenza comunitaria.
 
-##### Articolo 33
+###### Articolo 33
 
 Il Regno di Spagna puo' sospendere totalmente o parzialmente la
 
@@ -855,7 +855,7 @@ Il Consiglio, deliberando a maggioranza qualificata su proposta
 
 della Commissione, puo' sospendere totalmente o parzialmente la riscossione dei dazi applicabili ai prodotti importati dalla Spagna.
 
-##### Articolo 34
+###### Articolo 34
 
 I contingenti tariffari a dazi ridotti, risultanti dall'articolo
 
@@ -867,7 +867,7 @@ tariffari annui a dazio ridotto per l'importazione di autoveicoli per il traspor
 
 L'ammissione di questi autoveicoli a detti contingenti tariffari e disciplinata dalle disposizioni del protocollo n. 6.
 
-##### Articolo 35
+###### Articolo 35
 
 Le tasse di effetto equivalente a dazi doganali all'importazione
 
@@ -877,13 +877,13 @@ Nessun dazio doganale a carattere fiscale e' applicato a decorrere
 
 dal 1 marzo 1986.
 
-##### Articolo 36
+###### Articolo 36
 
 I dazi doganali all'esportazione e le tasse di effetto equivalente
 
 negli scambi tra la Comunita' nella sua composizione attuale e la Spagna sono aboliti il 1 marzo 1986.
 
-##### Articolo 37
+###### Articolo 37
 
 1\. Ai fini dell'applicazione progressiva della tariffa doganale
 
@@ -929,7 +929,7 @@ integralmente la tariffa doganale comune e la tariffa unificata CECA.
 
 dell'accordo relativo al commercio degli aeromobili civili concluso nell'ambito dei negoziati commerciali 1973-1979 dell'accordo generale sulle tariffe doganali e sul commercio il Regno di Spagna applica integralmente la tariffa doganale comune a decorrere dal 1 marzo 1986.
 
-##### Articolo 38
+###### Articolo 38
 
 I dazi autonomi iscritti nella tariffa doganale comune della
 
@@ -939,7 +939,7 @@ Questi adattamenti, che formeranno oggetto di negoziati nel quadro
 
 dell'accordo generale sulle tariffe doganali e sul commercio, si situeranno entro i limiti delle possibilita' aperte dall'articolo XXIV di detto accordo.
 
-##### Articolo 39
+###### Articolo 39
 
 1\. Nei casi in cui i dazi della tariffa doganale del Regno di
 
@@ -973,13 +973,13 @@ Nel caso in cui i dazi spagnoli vengono ravvicinati a dazi della
 
 tariffa doganale comune o della tariffa unificata CECA inferiori ai dazi di base spagnoli, gli arrotondamenti si effettuano non tenendo conto della seconda cifra decimale. Negli altri casi, essi si effettuano applicando la cifra decimale superiore.
 
-##### Articolo 40
+###### Articolo 40
 
 Per allineare la sua tariffa alla tariffa doganale comune e alla
 
 tariffa unificata CECA, il Regno di Spagna resta libero di modificare i suoi dazi doganali a un ritmo piu' rapido di quello previsto dall'articolo 37. Esso ne informa gli altri stati membri e la Commissione.
 
-##### Articolo 41
+###### Articolo 41
 
 Nel corso del periodo di abolizione dei dazi doganali tra la
 
@@ -993,13 +993,13 @@ Se detti contingenti non vengono aperti il Regno di Spagna applica
 
 ai prodotti importati dalla Comunita' nella sua composizione attuale i dazi applicati in caso di apertura dei contingenti. I quantitativi o i valori ammessi al beneficio di tali dazi sono limitati alle quantita' effettivamente importate dalla Comunita' nella sua composizione attuale nell'ambito degli stessi contingenti aperti il 1 gennaio 1985.
 
-## Sezione II - Abolizione delle restrizioni quantitative e delle misure di effetto equivalente
+##### Sezione II - Abolizione delle restrizioni quantitative e delle misure di effetto equivalente
 
-##### Articolo 42
+###### Articolo 42
 
 Le restrizioni quantitative all'importazione e all'esportazione nonche' qualsiasi misura di effetto equivalente tra la Comunita' nella sua composizione attuale e il Regno di Spagna sono abolite il 1 gennaio 1986.
 
-##### Articolo 43
+###### Articolo 43
 
 1\. In deroga all'articolo 42, il Regno di Spagna puo' mantenere
 
@@ -1043,7 +1043,7 @@ uno dei prodotti di cui agli allegati III e IV sono state inferiori al 90% del c
 
 Regno di Spagna per la gestione dei contingenti di cui al paragrafo 2.
 
-##### Articolo 44
+###### Articolo 44
 
 1\. In deroga all'articolo 42 il Regno di Spagna potra' mantenere
 
@@ -1053,7 +1053,7 @@ fino al 31 dicembre 1989 un tasso di incorporazione nazionale non superiore al 6
 
 identico per i fabbricanti cittadini degli altri stati membri, stabiliti in Spagna, e per tutti i fabbricanti cittadini del Regno di Spagna. Il trattamento concesso ai fabbricanti summenzionati non sara' meno favorevole di quello concesso ai fabbricanti dei paesi terzi.
 
-##### Articolo 45
+###### Articolo 45
 
 1\. In deroga all'articolo 42, la Comunita' puo' mantenere fino al
 
@@ -1082,17 +1082,17 @@ Il tasso di aumento progressivo e annuale dei contingenti iniziali, applicabile 
 
 5\. Il regime applicato dalla Comunita' nei confronti della Spagna, quale stabilito dai paragrafi da 1 a 4, non sara' meno favorevole di quello applicato nei confronti dei paesi terzi.
 
-##### Articolo 46
+###### Articolo 46
 
 In deroga all'articolo 42, gli stati membri attuali possono mantenere fino alla fine del periodo di cui all'articolo 52 le restrizioni quantitative all'esportazione di rottami, cascami e avanzi di lavori di ghisa, di ferro o di acciaio della voce n. 73.03 della tariffa doganale comune, che essi applicano nei confronti del Regno di Spagna prima della data dell'adesione, purche' tale regime non sia piu' restrittivo di quello applicato alle esportazioni verso i paesi terzi.
 
-##### Articolo 47
+###### Articolo 47
 
 1\. In deroga all'articolo 42, il titolare, o il suo avente diritto, di un brevetto per un prodotto chimico, farmaceutico o fitosanitario depositato in uno stato membro a un'epoca in cui non era possibile ottenere in Spagna un brevetto per tale prodotto puo' avvalersi del diritto che il brevetto gli conferisce, allo scopo di impedire l'importazione e la commercializzazione del prodotto in questione nello stato membro attuale o negli stati membri attuali in cui il prodotto e' protetto dal brevetto, anche se questo prodotto e' immesso per la prima volta in commercio in Spagna dallo stesso titolare o suo avente diritto o con il suo consenso.
 
 2\. Questo diritto puo' essere fatto valere, per i prodotti di cui al paragrafo 1, fino alla fine del terzo anno successivo all'introduzione, da parte della Spagna, della possibilita' di ottenere un brevetto per i prodotti in questione.
 
-##### Articolo 48
+###### Articolo 48
 
 1\. Fatti salvi i paragrafi 2 e 3 del presente articolo, il Regno di Spagna procede, a decorrere dal 1 gennaio 1986, ad un progressivo riordinamento dei monopoli nazionali che presentano un carattere commerciale, ai sensi dell'articolo 37, paragrafo 1 del trattato CEE tenendo conto, se del caso, dell'articolo 90, paragrafo 2 del trattato CEE, in modo che venga esclusa, al piu' tardi il 31 dicembre 1991, qualsiasi discriminazione fra i cittadini degli stati membri per quanto riguarda le condizioni relative all'approvvigionamento ed agli sbocchi.
 
@@ -1112,13 +1112,13 @@ I contingenti di cui al primo comma sono aperti senza restrizione a tutti gli op
 
 4\. Il riordinamento del monopolio dei prodotti che figurano nell'elenco dell'allegato VI puo' non riguardare il funzionamento del monopolio spagnolo del petrolio nei confronti dei paesi terzi. Questo monopolio puo' continuare a determinare l'origine e le condizioni di acquisto di una quota delle importazioni di petrolio greggio, in provenienza dai paesi terzi, necessarie per assicurare la sicurezza dell'approvvigionamento del mercato spagnolo, nel rispetto delle disposizioni del trattato CEE, in particolare di quelle relative alla libera circolazione che sono contenute negli articoli 30 e 37 di detto trattato.
 
-##### Articolo 49
+###### Articolo 49
 
 In deroga all'articolo 42, agli scambi di taluni prodotti tessili tra la Comunita' nella sua composizione attuale e la Spagna e' applicato il regime descritto nel protocollo n. 9.
 
-## Sezione III - Altre disposizioni
+##### Sezione III - Altre disposizioni
 
-##### Articolo 50
+###### Articolo 50
 
 1\. La Commissione stabilisce, tenendo debitamente conto delle disposizioni vigenti ed in particolare di quelle relative al transito comunitario, i metodi di collaborazione amministrativa intesi ad assicurare che le merci rispondenti alle condizioni a tal fine stabilite fruiscano dell'abolizione dei dazi doganali e delle tasse di effetto equivalente, nonche' delle restrizioni quantitative e misure di effetto equivalente, di cui al presente atto.
 
@@ -1132,7 +1132,7 @@ In deroga all'articolo 42, agli scambi di taluni prodotti tessili tra la Comunit
 
 Nell'adottare tali disposizioni la Commissione prende in considerazione le norme previste dal presente atto per l'abolizione dei dazi doganali tra la Comunita' nella sua composizione attuale e la Spagna e quelle per la progressiva applicazione, da parte del Regno di Spagna, della tariffa doganale comune e delle disposizioni in materia di politica agricola comune.
 
-##### Articolo 51
+###### Articolo 51
 
 1\. Salvo disposizione contraria del presente atto, le disposizioni vigenti in materia di legislazione doganale per gli scambi con i paesi terzi si applicano alle stesse condizioni agli scambi all'interno della Comunita', fintantoche' sono riscossi dei dazi doganali su tali scambi.
 
@@ -1146,7 +1146,7 @@ Per gli scambi all'interno della Comunita', nonche' per gli scambi coi paesi ter
 
 Il Regno di Spagna puo' riprendere in tali nomenclature le suddivisioni nazionali esistenti al momento dell'adesione che siano indispensabili affinche' la progressiva abolizione dei suoi dazi doganali all'interno della Comunita' si compia alle condizioni previste dal presente atto.
 
-##### Articolo 52
+###### Articolo 52
 
 Il Regno di Spagna termina in un periodo di tre anni a decorrere dall'adesione la ristrutturazione della sua industria siderurgica, alle condizioni definite nel protocollo n. 10.
 
@@ -1156,7 +1156,7 @@ Il periodo sopramenzionato puo' essere abbreviato e le modalita' indicate in det
 
 \- delle misure siderurgiche che saranno in vigore nella Comunita' dopo l'adesione; in questo caso il regime applicabile dopo l'adesione alle forniture spagnole verso la Comunita' nella sua composizione attuale non dovrebbe comportare differenze fondamentali di trattamento tra la Spagna e gli altri stati membri.
 
-##### Articolo 53
+###### Articolo 53
 
 1\. Se negli scambi tra la Comunita' nella sua composizione attuale e il Regno di Spagna vengono applicati gli importi compensativi di cui all'articolo 72 su uno o piu' prodotti di base considerati come entranti nella fabbricazione delle merci di cui al regolamento (CEE) n. 3033/80 del Consiglio, dell'11 novembre 1980, che determina il regime di scambi applicabile a talune merci risultanti dalla trasformazione di prodotti agricoli, si applicano le seguenti misure transitorie:
 
@@ -1188,21 +1188,21 @@ Ciascuno elemento fisso applicato dal Regno di Spagna all'importazione in proven
 
 6\. Qualora sia accordata ai paesi terzi che beneficiano del sistema comunitario delle preferenze generalizzate una riduzione dell'elemento mobile del dazio della tariffa doganale comune, il Regno di Spagna applica tale elemento mobile preferenziale fin dalla data dell'adesione.
 
-## Sezione IV - Scambi tra il Regno di Spagna e la Repubblica portoghese
+##### Sezione IV - Scambi tra il Regno di Spagna e la Repubblica portoghese
 
-##### Articolo 54
+###### Articolo 54
 
 Il Regno di Spagna applica nei suoi scambi con la Repubblica portoghese gli articoli da 30 a 53, con riserva delle condizioni stabilite nel protocollo n. 3.
 
-## CAPO 2 - Libera circolazione delle persone, dei servizi e dei capitali
+#### CAPO 2 - Libera circolazione delle persone, dei servizi e dei capitali
 
-### Sezione I - I lavoratori
+##### Sezione I - I lavoratori
 
-##### Articolo 55
+###### Articolo 55
 
 L'articolo 48 del trattato CEE e' applicabile, per quanto concerne la libera circolazione dei lavoratori tra la Spagna e gli altri stati membri, soltanto con riserva delle disposizioni transitorie di cui agli articoli da 56 a 59 del presente atto.
 
-##### Articolo 56
+###### Articolo 56
 
 1\. Gli articoli da 1 a 6 del regolamento (CEE) n. 1612/68 relativo alla libera circolazione dei lavoratori all'interno della Comunita' sono applicabili soltanto dal 1 gennaio 1993 in Spagna nei confronti dei cittadini degli altri stati membri e negli altri stati membri nei confronti dei cittadini spagnoli.
 
@@ -1214,7 +1214,7 @@ Tuttavia il Regno di Spagna ed il Granducato del Lussemburgo hanno la facolta' d
 
 Al termine di questo esame il Consiglio, deliberando all'unanimita' su proposta della Commissione, puo' adottare, in base a nuovi dati, disposizioni destinate ad adattare dette misure.
 
-##### Articolo 57
+###### Articolo 57
 
 1\. Fino al 31 dicembre 1990 l'articolo 11 del regolamento (CEE) n. 1612/68 e' applicabile in Spagna nei confronti dei cittadini degli altri stati membri e negli altri stati membri nei confronti dei cittadini spagnoli alle condizioni indicate qui di seguito:
 
@@ -1228,15 +1228,15 @@ Il presente paragrafo non pregiudica le disposizioni piu' favorevoli, nazionali 
 
 2\. Il regime di cui al paragrafo 1 e' applicabile anche ai membri della famiglia del lavoratore autonomo installati con questo in uno stato membro.
 
-##### Articolo 58
+###### Articolo 58
 
 Nella misura in cui talune disposizioni della direttiva 68/360/CEE relativa alla soppressione delle restrizioni al trasferimento e al soggiorno dei lavoratori degli stati membri e delle loro famiglie all'interno della Comunita' sono indissociabili da quelle disposizioni del regolamento (CEE) n. 1612/68 la cui applicazione e' differita in virtu' dell'articolo 56, il Regno di Spagna e gli altri stati membri hanno la facolta' di derogare alle disposizioni in questione nella misura necessaria all'applicazione delle disposizioni dell'articolo 56 che derogano al regolamento citato.
 
-##### Articolo 59
+###### Articolo 59
 
 Il Regno di Spagna e gli altri stati membri, assistiti dalla Commissione, prendono le misure necessarie affinche', al piu' tardi il 1° gennaio 1993, possa essere estesa alla Spagna l'applicazione della decisione della Commissione, dell'8 dicembre 1972, concernente il sistema uniforme stabilito in applicazione dell'articolo 15 del regolamento (CEE) n. 1612/68 del Consiglio, sistema denominato "Sedoc", e la decisione della Commissione, del 14 dicembre 1972, concernente lo "schema comunitario" per la raccolta e la diffusione delle informazioni di cui all'articolo 14, paragrafo 3 del regolamento (CEE) n. 1612/68 del Consiglio.
 
-##### Articolo 60
+###### Articolo 60
 
 1\. Fino all'entrata in vigore della soluzione uniforme per tutti gli stati membri, di cui all'articolo 99 del regolamento (CEE) n. 1408/71 relativo all'applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all'interno della Comunita', ma non oltre il 31 dicembre 1988, gli articoli 73, paragrafi 1 e 3, 74, paragrafo 1 e 75, paragrafo 1 del regolamento (CEE) n. 1408/71, nonche' gli articoli 86 e 88 del regolamento (CEE) n. 574/72 che stabilisce le modalita' di applicazione del regolamento (CEE) n. 1408/71 non si applicano ai lavoratori spagnoli occupati in uno stato membro che non sia la Spagna, i cui membri della famiglia risiedono in Spagna.
 
@@ -1286,15 +1286,15 @@ g) Spagna - Regno Unito
 
 \- articolo 17 dell'accordo del 30 ottobre 1974.
 
-## Sezione II - Movimenti di capitali
+##### Sezione II - Movimenti di capitali
 
-##### Articolo 61
+###### Articolo 61
 
 1\. Il Regno di Spagna puo' differire, alle condizioni e nei termini di cui agli articoli da 62 a 66, la liberalizzazione dei movimenti di capitali che figurano negli elenchi A e B della prima direttiva del Consiglio, dell'11 maggio 1960, per l'applicazione dell'articolo 67 del trattato CEE e della seconda direttiva del Consiglio, dei 18 dicembre 1962, che completa e modifica la prima direttiva per l'applicazione dell'articolo 67 del trattato CEE.
 
 2\. Fra le autorita' spagnole e la Commissione si tengono, in tempo utile, idonee consultazioni sulle modalita' d'applicazione delle misure di liberalizzazione o di mitigazione, la cui attuazione puo' essere differita a norma delle disposizioni che seguono.
 
-##### Articolo 62
+###### Articolo 62
 
 Il Regno di Spagna puo' differire:
 
@@ -1302,11 +1302,11 @@ a) fino al 31 dicembre 1988, la liberalizzazione degli investimenti diretti, eff
 
 b) fino al 31 dicembre 1990, la liberalizzazione degli investimenti diretti, effettuati da persone residenti in Spagna, nelle imprese degli altri stati membri, i quali abbiano per obiettivo l'acquisizione, il possesso o lo sfruttamento di beni immobili.
 
-##### Articolo 63
+###### Articolo 63
 
 Il Regno di Spagna puo' differire fino al 31 dicembre 1990 la liberalizzazione degli investimenti immobiliari negli altri stati membri, effettuati da persone residenti in Spagna, nella misura in cui questi investimenti non siano in relazione con l'emigrazione nel quadro della libera circolazione dei lavoratori o nel quadro del diritto di stabilimento.
 
-##### Articolo 64
+###### Articolo 64
 
 Il Regno di Spagna puo' differire fino al 31 dicembre 1988 la liberalizzazione delle acquisizioni, effettuate negli altri stati membri da persone residenti in Spagna, di titoli stranieri negoziati in borsa.
 
@@ -1318,19 +1318,19 @@ Tuttavia la liberalizzazione delle acquisizioni:
 
 \- di valori a reddito fisso emessi dalle Comunita' europee e dalla Banca europea per gli investimenti, deve essere realizzata dal momento dell'adesione.
 
-##### Articolo 65
+###### Articolo 65
 
 Se le circostanze lo permettono il Regno di Spagna attuera' la liberalizzazione dei movimenti di capitali prevista agli articoli 62, 63 e 64 prima della scadenza dei termini fissati in tali articoli.
 
-##### Articolo 66
+###### Articolo 66
 
 Per l'applicazione delle disposizioni della presente sezione la Commissione puo' procedere alla consultazione del comitato monetario e presentare ogni utile proposta al Consiglio.
 
-## CAPO 3 - Agricoltura
+#### CAPO 3 - Agricoltura
 
-### Sezione 1 - Disposizioni generali
+##### Sezione 1 - Disposizioni generali
 
-##### Articolo 67
+###### Articolo 67
 
 1\. Il presente capo concerne i prodotti agricoli, ad eccezione dei prodotti che rientrano nel regolamento (CEE) n. 3796/81 relativo all'organizzazione comune dei mercati nel settore dei prodotti della pesca.
 
@@ -1338,9 +1338,9 @@ Per l'applicazione delle disposizioni della presente sezione la Commissione puo'
 
 3\. Con riserva delle disposizioni particolari del presente capo che fissano date diverse o termini piu' brevi, l'applicazione delle misure transitorie per i prodotti agricoli di cui al paragrafo 1 termina alla fine del 1995.
 
-## Sottosezione 1 - Ravvicinamento e compensazione dei prezzi
+**Sottosezione 1 - Ravvicinamento e compensazione dei prezzi**
 
-##### Articolo 68
+###### Articolo 68
 
 Fino al primo dei ravvicinamenti dei prezzi di cui all'articolo 70 i prezzi da applicare in Spagna sono fissati secondo le regole previste dall'organizzazione comune dei mercati nel settore in questione ad un livello corrispondente a quello dei prezzi fissati in Spagna, durante un periodo rappresentativo da determinare per ogni prodotto, sotto il regime nazionale precedente.
 
@@ -1348,13 +1348,13 @@ Se, per un prodotto determinato, non esiste la definizione del prezzo spagnolo, 
 
 Tuttavia, in mancanza di dati sui prezzi relativi ad alcuni prodotti sul mercato spagnolo, il prezzo da applicare in Spagna e' calcolato a partire dal prezzo esistente netta Comunita' nella sua composizione attuale per prodotti o gruppi di prodotti analoghi o con i quali sono in concorrenza.
 
-##### Articolo 69
+###### Articolo 69
 
 1\. Qualora alla data dell'adesione si costati che la differenza tra il livello del prezzo per un prodotto in Spagna e quello del prezzo comune e' minima, il prezzo comune puo' essere applicato in Spagna per tale prodotto.
 
 2\. La differenza di cui al paragrafo 1 e' considerata minima se e' inferiore o uguale al 3% del prezzo comune.
 
-##### Articolo 70
+###### Articolo 70
 
 1\. Qualora l'applicazione dell'articolo 68 conduca in Spagna ad un livello di prezzi diverso da quello dei prezzi comuni, i prezzi per i quali nella sezione 11 e' fatto riferimento al presente articolo sono ravvicinati, fatto salvo il paragrafo 4, ai prezzi comuni ogni anno all'inizio della campagna di commercializzazione, conformemente ai paragrafi 2 e 3.
 
@@ -1380,11 +1380,11 @@ In tal caso, il livello del prezzo per la campagna successiva e' quello che sare
 
 La deroga di cui al primo comma non si applica all'ultimo ravvicinamento di cui al paragrafo 2.
 
-##### Articolo 71
+###### Articolo 71
 
 Qualora, alla data dell'adesione o nel corso del periodo di applicazione delle misure transitorie, il prezzo sul mercato mondiale per un dato prodotto sia superiore al prezzo comune, il prezzo comune puo' essere applicato in Spagna per il prodotto in questione, tranne nel caso in cui il prezzo applicato in Spagna sia superiore al prezzo comune.
 
-##### Articolo 72
+###### Articolo 72
 
 Le differenze nei livelli dei prezzi per i quali, nella sezione II, e' fatto riferimento al presente articolo sono compensate secondo le seguenti modalita':
 
@@ -1408,11 +1408,11 @@ Il Consiglio, deliberando a maggioranza qualificata su proposta della Commission
 
 6\. Il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, puo', nella misura necessaria al buon funzionamento della politica agricola comune, derogare all'articolo 53, primo comma per i prodotti ai quali si applicano gli importi compensativi.
 
-##### Articolo 73
+###### Articolo 73
 
 Qualora, per un prodotto, il prezzo del mercato mondiale superi il prezzo preso in considerazione per il calcolo degli oneri all'importazione instaurati nell'ambito della politica agricola comune, ridotto dell'importo compensativo che, in applicazione dell'articolo 72, viene dedotto dagli oneri all'importazione oppure, qualora la restituzione all'esportazione verso i paesi terzi sia inferiore all'importo compensativo o nessuna restituzione sia applicabile, possono adottarsi le misure appropriate per assicurare il buon funzionamento dell'organizzazione comune dei mercati.
 
-##### Articolo 74
+###### Articolo 74
 
 1\. Gli importi compensativi versati sono finanziati dalla Comunita' imputati al Fondo europeo agricolo di orientamento e garanzia, sezione garanzia.
 
@@ -1422,9 +1422,9 @@ La Comunita' partecipera' tuttavia al finanziamento delle operazioni di interven
 
 A partire dalla seconda fase, le spese in materia d'intervento sul mercato interno spagnolo e di concessione di restituzioni all'esportazione nei paesi terzi sono finanziate dalla Comunita' e imputate al Fondo europeo agricolo di orientamento e garanzia, sezione garanzia.
 
-## Sottosezione 2 - Libera circolazione e unione doganale
+**Sottosezione 2 - Libera circolazione e unione doganale**
 
-##### Articolo 75
+###### Articolo 75
 
 Per i prodotti la cui importazione dai paesi terzi nella Comunita' nella sua composizione attuale e' sottoposta all'applicazione di dazi doganali, si applicano le seguenti disposizioni:
 
@@ -1678,7 +1678,7 @@ b) differire la riduzione da effettuare, ai sensi del paragrafo 2, lettera b), d
 
 c) aumentare, durante il periodo strettamente necessario per eliminare le difficolta' incontrate, i dazi all'importazione di cui alle precedenti lettere a) e b).
 
-##### Articolo 76
+###### Articolo 76
 
 1\. Per i prodotti che al momento dell'adesione sono soggetti all'organizzazione comune dei mercati, il regime applicabile nella Comunita' nella sua composizione attuale in materia di dazi doganali e tasse di effetto equivalente e di restrizioni quantitative e misure di effetto equivalente, negli scambi tra la Spagna e gli altri stati membri e tra la Spagna e i paesi terzi, si applica in Spagna a decorrere dal 1 marzo 1986, fatte salve le disposizioni contrarie del presente capo.
 
@@ -1690,7 +1690,7 @@ Questa disposizione e' applicabile soltanto fino all'istituzione di un'organizza
 
 A condizione che non ne risultino difficolta' per l'applicazione della regolamentazione comunitaria, in particolare per il funzionamento dell'organizzazione comune dei mercati e dei meccanismi transitori previsti dal presente capo, il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, puo' autorizzare il Regno di Spagna a riprendere, all'interno di questa nomenclatura, le suddivisioni nazionali esistenti che fossero indispensabili perche' il ravvicinamento progressivo alla tariffa doganale comune o l'abolizione dei dazi all'interno della Comunita' si effettuino alle condizioni previste nel presente atto.
 
-##### Articolo 77
+###### Articolo 77
 
 Fatto salvo l'articolo 94, il Regno di Spagna puo' applicare, secondo modalita' da determinarsi, restrizioni quantitative all'importazione in provenienza da, paesi terzi:
 
@@ -1704,7 +1704,7 @@ Parte di provvedimento in formato grafico
 
 c) per i prodotti soggetti al meccanismo complementare applicabile all'importazione in Spagna in provenienza dalla Comunita' nella sua composizione attuale, di cui all'articolo 81, diversi da quelli contemplati dal regolamento (CEE) n. 1035/72.
 
-##### Articolo 78
+###### Articolo 78
 
 1\. L'elemento destinato ad assicurare la protezione dell'industria di trasformazione, che entra nel calcolo degli oneri sulle importazioni dai paesi terzi per i prodotti soggetti all'organizzazione comune dei mercati nei settori dei cereali e del riso, viene riscosso sulle importazioni dalla Spagna nella Comunita' nella sua composizione attuale.
 
@@ -1714,9 +1714,9 @@ Tali elementi vengono riscossi sull'importazione dagli altri stati membri e sost
 
 3\. L'articolo 75 si applica all'elemento di cui ai paragrafi 1 e 2; questo e' considerato come elemento di base. Tuttavia, le riduzioni o i ravvicinamenti in questione si effettuano in otto tappe del 12,5%, all'inizio di ciascuna delle otto campagne di commercializzazione del relativo prodotto di base che seguono l'adesione.
 
-## Sottosezione 3 - Aiuti
+**Sottosezione 3 - Aiuti**
 
-##### Articolo 79
+###### Articolo 79
 
 1\. Il presente articolo si applica agli aiuti, premi ed altri importi analoghi istituiti nell'ambito della politica agricola comune per i quali, nel paragrafo 2, e' fatto riferimento al presente articolo.
 
@@ -1738,7 +1738,7 @@ c) All'inizio delle campagne o dei periodi d'applicazione successivi, il livello
 
 d) Il livello dell'aiuto comunitario e' integralmente applicato in Spagna all'inizio della settima campagna di commercializzazione o del periodo di applicazione dell'aiuto dopo l'adesione.
 
-##### Articolo 80
+###### Articolo 80
 
 1\. Fatto salvo l'articolo 79, il Regno di Spagna e' autorizzato a mantenere gli aiuti nazionali la cui abolizione comporterebbe gravi conseguenze al livello dei prezzi, tanto alla produzione quanto al consumo. Questi aiuti possono essere tuttavia mantenuti soltanto a titolo transitorio e, di norma, in maniera degressiva, al massimo fino alla fine del periodo d'applicazione delle misure transitorie.
 
@@ -1746,9 +1746,9 @@ d) Il livello dell'aiuto comunitario e' integralmente applicato in Spagna all'in
 
 3\. Se necessario, durante il periodo d'applicazione delle misure transitorie si puo' derogare alla scala di degressivita' di cui al paragrafo 2.
 
-## Sottosezione 4 - Meccanismo complementare applicabile agli scambi
+**Sottosezione 4 - Meccanismo complementare applicabile agli scambi**
 
-##### Articolo 81
+###### Articolo 81
 
 1\. E' instaurato un meccanismo complementare applicabile agli scambi tra la Comunita' nella sua composizione attuale e la Spagna, qui di seguito denominato "MCS".
 
@@ -1796,7 +1796,7 @@ Per quanto concerne questi prodotti, si terra' conto, in particolare, della situ
 
 6\. All'inizio di ogni anno la Commissione presenta al Consiglio una relazione sul funzionamento dell'MCS nel corso dell'anno precedente.
 
-##### Articolo 82
+###### Articolo 82
 
 1\. E' istituito un comitato ad hoc, composto di rappresentati degli stati membri e presieduto da un rappresentante della Commissione.
 
@@ -1812,7 +1812,7 @@ Il presidente non partecipa al voto.
 
 Se, al termine di un periodo di un mese a decorrere dalla data in cui la proposta e' pervenuta al Consiglio, quest'ultimo non ha deliberato, la Commissione adotta le misure proposte e le applica immediatamente, a meno che il Consiglio non si sia pronunciato a maggioranza semplice contro dette misure.
 
-##### Articolo 83
+###### Articolo 83
 
 1\. Di norma all'inizio di ogni campagna di commercializzazione viene stabilito, secondo la procedura prevista dall'articolo 38 del regolamento (CEE) n. 136/66 o, secondo i casi, dagli articoli corrispondenti degli altri regolamenti relativi all'organizzazione comune dei mercati agricoli un bilancio di previsione per ciascuno dei prodotti o gruppi di prodotti sottoposti all'MCS. Per le patate di primizia il bilancio e' stabilito secondo la procedura prevista dall'articolo 33 del regolamento (CEE) n. 1035/72 ed e' competente il comitato di gestione istituito da questo regolamento.
 
@@ -1824,7 +1824,7 @@ Per il periodo che inizia il 1 marzo 1986 e fino all'inizio della campagna di co
 
 A tale scopo e' stabilito, secondo la procedura di cui al paragrafo 1, un tasso di progressione annuo del massimale. Nell'ambito del massimale indicativo globale possono essere stabiliti massimali corrispondenti ai vari periodi della campagna di commercializzazione in questione.
 
-##### Articolo 84
+###### Articolo 84
 
 1\. Fino al 31 dicembre 1989, al momento in cui viene stabilito il calendario previsto all'articolo 83, viene fissato un quantitativo "obiettivo" per le importazioni in Spagna:
 
@@ -1844,7 +1844,7 @@ Puo' essere deciso, secondo la procedura prevista dall'articolo 30 del regolamen
 
 All'atto di tale decisione si tiene tra l'altro conto, sulla base del bilancio di previsione del prodotto considerato, dell'evoluzione della domanda interna spagnola e dell'evoluzione dei prezzi di mercato in Spagna.
 
-##### Articolo 85
+###### Articolo 85
 
 1\. Fatto salvo l'articolo 84, paragrafo 4, nel caso in cui l'esame dell'evoluzione degli scambi intracomunitari riveli un aumento significativo delle importazioni realizzate e prevedibili e se questa situazione porta a raggiungere o a superare il massimale indicativo di importazione del prodotto per la campagna di commercializzazione in corso o per una parte di questa, la Commissione, a richiesta di uno stato membro o di sua iniziativa, decide secondo una procedura d'urgenza:
 
@@ -1870,13 +1870,13 @@ Le misure di cui alla lettera b) possono essere prese soltanto nella misura e pe
 
 4\. L'applicazione dell'MCS non puo' in nessun caso avere l'effetto di trattare i prodotti in provenienza dalla Spagna o dalla Comunita' nella sua composizione attuale in maniera meno favorevole di quelli, smerciati nelle regioni interessate, in provenienza dai paesi terzi che beneficiano della clausola della nazione piu' favorita.
 
-## Sottosezione 5 - Altre disposizioni
+**Sottosezione 5 - Altre disposizioni**
 
-##### Articolo 86
+###### Articolo 86
 
 Qualsiasi scorta di prodotti che si trovano in libera pratica sul territorio spagnolo al 1 marzo 1986, che superi in quantita' quella che puo' essere considerata una scorta normale di riporto, deve essere eliminata dalla Spagna ed a carico di questa, nel quadro di procedure comunitarie da definire ed in termini da determinare alle condizioni previste dall'articolo 91. La nozione di scorta normale di riporto e' definita, per ciascun prodotto, in funzione dei criteri e degli obiettivi propri a ciascuna organizzazione di mercato.
 
-##### Articolo 87
+###### Articolo 87
 
 Nella fissazione del livello dei vari importi previsti nell'ambito della politica agricola comune, diversi dai prezzi di cui all'articolo 68, si tiene conto dell'importo compensativo applicato o, in sua assenza, della differenza dei prezzi costatata o economicamente giustificata e, se del caso, dell'incidenza dei dazi doganali, salvo:
 
@@ -1884,13 +1884,13 @@ Nella fissazione del livello dei vari importi previsti nell'ambito della politic
 
 \- se il buon funzionamento della politica agricola comune esige o rende opportuno che non sia tenuto conto di tale importo, differenza o incidenza.
 
-##### Articolo 88
+###### Articolo 88
 
 1\. Il Consiglio, deliberando alle condizioni previste dall'articolo 91, adotta il regime che il Regno di Spagna applica nei confronti della Repubblica portoghese.
 
 2\. Le misure che si rivelassero necessarie, negli scambi tra i nuovi stati membri e la Comunita' nella sua composizione attuale, per l'attuazione del regime di cui al paragrafo 1, sono adottate, a seconda dei casi, conformemente alle condizioni previste dall'articolo 91 o alla procedura prevista dall'articolo 89, paragrafo 1.
 
-##### Articolo 89
+###### Articolo 89
 
 1\. Salvo disposizione contraria in casi specifici, il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, adotta le disposizioni necessarie per l'applicazione del presente capo.
 
@@ -1898,13 +1898,13 @@ Tali disposizioni possono, tra l'altro, prevedere misure adeguate per evitare de
 
 2\. Il Consiglio, deliberando all'unanimita' su proposta della Commissione e previa consultazione dell'Assemblea, puo' procedere agli adattamenti delle modalita' di cui al presente capo che possono risultare necessari in caso di modifica della regolamentazione comunitaria.
 
-##### Articolo 90
+###### Articolo 90
 
 1\. Qualora siano necessarie misure transitorie per facilitare il passaggio dal regime esistente in Spagna a quello derivante dall'attuazione dell'organizzazione comune dei mercati alle condizioni previste nel presente capo, in particolare nel caso in cui l'applicazione del nuovo regime alla data prevista incontri per alcuni prodotti notevoli difficolta' nella Comunita', tali misure sono adottate secondo la procedura prevista dall'articolo 38 del regolamento n. 136/66/CEE o, secondo i casi, dagli articoli corrispondenti degli altri regolamenti relativi all'organizzazione comune dei mercati agricoli. Tali misure possono essere adottate fino al 31 dicembre 1987; la loro applicazione non puo' andare oltre questa data.
 
 2\. Il Consiglio, deliberando dall'unanimita' su proposta della Commissione e previa consultazione dell'Assemblea, puo' prorogare il periodo di cui al paragrafo 1.
 
-##### Articolo 91
+###### Articolo 91
 
 1\. Le misure transitorie relative all'applicazione degli atti concernenti la politica agricola comune, non specificate nel presente atto, anche in materia di strutture, rese necessarie dall'adesione, sono adottate prima dell'adesione secondo la procedura prevista dal paragrafo 3 ed entrano in vigore al piu' presto alla data dell'adesione.
 
@@ -1912,11 +1912,11 @@ Tali disposizioni possono, tra l'altro, prevedere misure adeguate per evitare de
 
 3\. Il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, o la Commissione, deliberando secondo la procedura prevista dall'articolo 90 paragrafo 1, adottano le misure di cui al paragrafo 1 del presente articolo, a seconda che gli atti iniziali cui si riferiscono siano stati emanati dall'una o dall'altra di queste istituzioni.
 
-## Sezione II - Disposizioni relative a talune organizzazioni comuni dei mercati
+##### Sezione II - Disposizioni relative a talune organizzazioni comuni dei mercati
 
-### Sottosezione 1 - Materie grasse
+**Sottosezione 1 - Materie grasse**
 
-##### Articolo 92
+###### Articolo 92
 
 1\. Per l'olio d'oliva le disposizioni degli articoli 68 e 72 si applicano al prezzo di intervento.
 
@@ -1930,7 +1930,7 @@ Tali disposizioni possono, tra l'altro, prevedere misure adeguate per evitare de
 
 4\. L'importo compensativo risultante dall'applicazione dell'articolo 72 e' adeguato, se del caso, in base alla differenza esistente tra gli aiuti comunitari al consumo applicabili nella Comunita' nella sua composizione attuale e in Spagna.
 
-##### Articolo 93
+###### Articolo 93
 
 1\. Per i semi oleosi, l'articolo 68 si applica ai prezzi indicativi dei semi di colza, di ravizzone e di girasole e al prezzo di obiettivo dei semi di soia.
 
@@ -1942,7 +1942,7 @@ Per i semi di lino il prezzo di obiettivo applicabile in Spagna al 1 marzo 1986 
 
 4\. Fino al 31 dicembre 1990, negli scambi di prodotti trasformati a base di oli contemplati dal regolamento n. 136/66/CEE, esclusi i prodotti a base di olio d'oliva e di quelli della voce n. 15.13 della tariffa doganale comune, sono adottate misure appropriate per tener conto della differenza dei prezzi di questi oli in Spagna e nella Comunita' nella sua composizione attuale.
 
-##### Articolo 94
+###### Articolo 94
 
 1\. Fino al 31 dicembre 1990 il Regno di Spagna applica, secondo modalita' da determinare, un regime di controllo:
 
@@ -1962,7 +1962,7 @@ Il regime di controllo di cui alla lettera a) comporta la sostituzione, al 1 mar
 
 Tali modifiche sono adottate secondo la procedura prevista dall'articolo 38 del regolamento n. 136/66/CEE.
 
-##### Articolo 95
+###### Articolo 95
 
 1\. L'aiuto comunitario alla produzione di olio d'oliva si applica in Spagna a decorrere dal 1 marzo 1986. Questo aiuto viene fissato per la prima volta e ravvicinato, durante il periodo d'applicazione delle misure transitorie, al livello dell'aiuto concesso dalla Comunita' nella sua composizione attuale, applicando mutatis mutandis l'articolo 79.
 
@@ -1980,7 +1980,7 @@ Allo scadere del periodo di cui al primo comma l'aiuto concesso in Spagna e' ugu
 
 4\. Nel calcolo dell'aiuto per i semi di colza, di ravizzone e di girasole si tiene inoltre conto dell'importo differenziale eventualmente applicabile.
 
-##### Articolo 96
+###### Articolo 96
 
 Durante le campagne da 1986/1987 a 1994/1995 sono fissati limiti di garanzia specifici per i semi di colza e di ravizzone, nonche' per i semi di girasole, prodotti in Spagna.
 
@@ -1988,7 +1988,7 @@ Questi limiti di garanzia specifici sono fissati secondo criteri effettivamente 
 
 Se il limite di garanzia specifico viene superato le penalita' di corresponsabilita' sono applicate secondo modalita' analoghe a quelle applicate nella Comunita' nella sua composizione attuale, con lo stesso massimale.
 
-##### Articolo 97
+###### Articolo 97
 
 1\. Fino alla scadenza del regime di controllo di cui all'articolo 94, il Regno di Spagna rinvia l'applicazione dei regimi preferenziali, convenzionali o autonomi, applicati dalla Comunita' nei confronti dei paesi terzi, nel settore dell'olio d'oliva, dei semi e dei frutti oleosi e dei loro prodotti derivati.
 
@@ -2006,9 +2006,9 @@ Se il limite di garanzia specifico viene superato le penalita' di corresponsabil
 
 Dal 1 gennaio 1996, il Regno di Spagna applica integralmente le aliquote preferenziali.
 
-## Sottosezione 2 - Latte e prodotti lattiero-caseari
+**Sottosezione 2 - Latte e prodotti lattiero-caseari**
 
-##### Articolo 98
+###### Articolo 98
 
 1\. Fino al primo ravvicinamento dei prezzi, i prezzi di intervento del burro e del latte scremato in polvere applicabili in Spagna sono fissati ad un livello corrispondente a quello dei prezzi costatati in questo stato membro sotto il regime nazionale precedente, durante un periodo rappresentativo da determinare.
 
@@ -2020,7 +2020,7 @@ Tuttavia, l'importo compensativo per il latte scremato e il latte scremato in po
 
 2\. L'importo compensativo per i prodotti lattiero caseari diversi dal burro e dal latte scremato in polvere e' fissato mediante coefficienti da determinare.
 
-##### Articolo 99
+###### Articolo 99
 
 1\. Fino al 31 dicembre 1986 e fatto salvo il secondo comma, il Regno di Spagna puo' mantenere concessioni nazionali di esclusivita' a favore delle centrali lattiere per quanto concerne la commercializzazione del latte fresco pastorizzato prodotto in Spagna.
 
@@ -2028,73 +2028,73 @@ Queste concessioni non possono ostacolare la libera circolazione, in Spagna, del
 
 2\. Il Regno di Spagna comunica alla Commissione, al piu' tardi tre mesi prima della data dell'adesione, le misure prese in applicazione del paragrafo 1.
 
-## Sottosezione 3 - Carni bovine
+**Sottosezione 3 - Carni bovine**
 
-##### Articolo 100
+###### Articolo 100
 
 L'articolo 68 si applica al prezzo garantito in Spagna e al prezzo d'acquisto all'intervento nella Comunita' nella sua composizione attuale, validi per qualita' comparabili determinate in base alla tabella comunitaria di classificazione delle carcasse di bovini adulti. Gli articoli 70 e 72 si applicano ai prezzi d'acquisto all'intervento applicabili in Spagna.
 
-##### Articolo 101
+###### Articolo 101
 
 L'importo compensativo per gli altri prodotti di cui all'articolo 1, paragrafo 1, lettera a) del regolamento (CEE) n. 805/68 e' fissato mediante coefficienti da determinare.
 
-##### Articolo 102
+###### Articolo 102
 
 L'articolo 79 si applica al premio al mantenimento delle mandrie di vacche nutrici.
 
-## Sottosezione 4 - Tabacco
+**Sottosezione 4 - Tabacco**
 
-##### Articolo 103
+###### Articolo 103
 
 1\. L'articolo 68 e, se del caso, l'articolo 70 si applicano al prezzo d'intervento fissato per ogni varieta' o gruppo di varieta'.
 
 2\. Il prezzo di obiettivo corrispondente al prezzo d'intervento di cui al paragrafo 1 e' fissato in Spagna, per il primo raccolto che segue l'adesione, ad un livello che rifletta il rapporto esistente fra il prezzo di obiettivo e il prezzo di intervento conformemente all'articolo 2, paragrafo 2, secondo comma del regolamento (CEE) n. 727/70 relativo all'attuazione di un'organizzazione comune dei mercati nel settore del tabacco greggio.
 
-## Sottosezione 5 - Lino e canapa
+**Sottosezione 5 - Lino e canapa**
 
-##### Articolo 104
+###### Articolo 104
 
 L'articolo 79 si applica all'aiuto per il lino tessile e la canapa.
 
-## Sottosezione 6 - Luppolo
+**Sottosezione 6 - Luppolo**
 
-##### Articolo 105
+###### Articolo 105
 
 L'aiuto ai produttori di luppolo di cui all'articolo 12 del regolamento (CEE) n. 1696/71 e' integralmente applicato in Spagna fin dal primo raccolto successivo all'adesione.
 
-## Sottosezione 7 - Sementi
+**Sottosezione 7 - Sementi**
 
-##### Articolo 106
+###### Articolo 106
 
 L'articolo 79 si applica all'aiuto per le sementi di cui all'articolo 3 del regolamento (CEE) n. 2358/71.
 
-## Sottosezione 8 - Bachi da seta
+**Sottosezione 8 - Bachi da seta**
 
-##### Articolo 107
+###### Articolo 107
 
 L'articolo 79 si applica all'aiuto per i bachi da seta.
 
-## Sottosezione 9 - Zucchero e isoglucosio
+**Sottosezione 9 - Zucchero e isoglucosio**
 
-##### Articolo 108
+###### Articolo 108
 
 Gli articoli 68, 70 e 72 si applicano al prezzo d'intervento dello zucchero bianco e al prezzo di base della barbabietola.
 
 Tuttavia, l'importo compensativo e' corretto, nella misura necessaria per il buon funzionamento dell'organizzazione comune di mercato, dell'incidenza del contributo per la perequazione delle spese di magazzinaggio.
 
-##### Articolo 109
+###### Articolo 109
 
 Per lo zucchero greggio e per i prodotti diversi dalle barbabietole fresche, di cui all'articolo 1, paragrafo 1, lettera b), e per i prodotti di cui all'articolo 1, paragrafo 1, lettere d) e f) del regolamento (CEE) n. 1785/81 relativo all'organizzazione comune dei mercati nel settore dello zucchero, possono essere fissati importi compensativi nella misura necessaria ad evitare qualsiasi rischio di perturbazione negli scambi tra la Comunita' nella sua composizione attuale e la Spagna.
 
 In tal caso, gli importi compensativi sono derivati dall'importo compensativo applicabile al prodotto di base in questione, mediante coefficienti da determinare.
 
-##### Articolo 110
+###### Articolo 110
 
 Fino al 31 dicembre 1995 al piu' tardi, il Regno di Spagna e' autorizzato a concedere un aiuto nazionale di adeguamento ai produttori di barbabietole da zucchero. Tale aiuto e' concesso solo per le barbabietole A e B, quali definite dal regolamento (CEE) n. 1785/81. L'importo di tale aiuto non puo' superare il 23,64% del prezzo di base delle barbabietole, fissato dalla Comunita' per la campagna di commercializzazione in questione.
 
-## Sottosezione 10 - Cereali
+**Sottosezione 10 - Cereali**
 
-##### Articolo 111
+###### Articolo 111
 
 1\. Nel settore dei cereali, gli articoli 68, 70 e 72 si applicano ai prezzi di intervento.
 
@@ -2102,7 +2102,7 @@ Fino al 31 dicembre 1995 al piu' tardi, il Regno di Spagna e' autorizzato a conc
 
 3\. Per i prodotti di cui all'articolo 1, lettera c) del regolamento (CEE) n. 2727/75 relativo all'organizzazione comune dei mercati nel settore dei cereali, l'importo compensativo e' derivato dall'importo compensativo applicabile ai cereali da cui sono stati ottenuti, mediante coefficienti da determinare.
 
-##### Articolo 112
+###### Articolo 112
 
 Il peso specifico minimo dell'orzo che puo' essere accettato all'intervento in Spagna e' fissato rispettivamente:
 
@@ -2120,13 +2120,13 @@ L'abbuono applicato al prezzo di intervento dell'orzo applicabile in Spagna e' p
 
 \- del 2% per la campagna 1988/1989.
 
-##### Articolo 113
+###### Articolo 113
 
 L'articolo 79 si applica all'aiuto per il frumento duro di cui all'articolo 10 del regolamento (CEE) n. 2727/75.
 
-## Sottosezione 11 - Carni suine
+**Sottosezione 11 - Carni suine**
 
-##### Articolo 114
+###### Articolo 114
 
 1\. L'importo compensativo applicabile per chilogrammo di suino macellato e' calcolato in base agli importi compensativi applicabili al quantitativo di cereali da foraggio necessario nella Comunita' per produrre un chilogrammo di carni suine. Tuttavia tale importo non e' applicato durante le prime quattro campagne successive all'adesione.
 
@@ -2134,9 +2134,9 @@ L'articolo 79 si applica all'aiuto per il frumento duro di cui all'articolo 10 d
 
 3\. Fino al 31 dicembre 1989, nel caso in cui interventi troppo massicci rischino di essere effettuati in Spagna a titolo degli aiuti per l'ammasso privato o, se del caso, degli acquisti pubblici decisi ai sensi dell'articolo 20 del regolamento (CEE) n. 2759/75 puo' essere deciso, secondo la procedura prevista dall'articolo 24 di detto regolamento, di prendere le misure restrittive necessarie all'importazione, da qualsiasi provenienza, in tale stato membro, nel settore delle carni suine.
 
-## Sottosezione 12 - Uova
+**Sottosezione 12 - Uova**
 
-##### Articolo 115
+###### Articolo 115
 
 1\. L'importo compensativo applicabile ad un chilogrammo di uova in guscio e' calcolato in base agli importi compensativi applicabili al quantitativo di cereali da foraggio necessario nella Comunita' per produrre un chilogrammo di uova in guscio.
 
@@ -2144,9 +2144,9 @@ L'articolo 79 si applica all'aiuto per il frumento duro di cui all'articolo 10 d
 
 3\. Per i prodotti di cui all'articolo 1, paragrafo 1, lettera b) del regolamento (CEE) n. 2771/75 relativo all'organizzazione comune dei mercati nel settore delle uova, l'importo compensativo e' derivato da quello applicabile alle uova in guscio, mediante coefficienti da determinare.
 
-## Sottosezione 13 - Pollame
+**Sottosezione 13 - Pollame**
 
-##### Articolo 116
+###### Articolo 116
 
 1\. L'importo compensativo applicabile ad un chilogrammo di pollame macellato e' calcolato in base agli importi compensativi applicabili al quantitativo di cereali da foraggio necessario nella Comunita' per produrre un chilogrammo di pollame macellato, differenziato per specie.
 
@@ -2154,9 +2154,9 @@ L'articolo 79 si applica all'aiuto per il frumento duro di cui all'articolo 10 d
 
 3\. Per i prodotti di cui all'articolo 1, paragrafo 2, lettera d) del regolamento (CEE) n. 2777/75 relativo all'organizzazione comune dei mercati nel settore del pollame, l'importo compensativo e' derivato dall'importo compensativo per le carni macellate, mediante coefficienti da determinare.
 
-## Sottosezione 14 - Riso
+**Sottosezione 14 - Riso**
 
-##### Articolo 117
+###### Articolo 117
 
 1\. Nel settore del riso, gli articoli 68, 70 e 72 si applicano al prezzo d'intervento del risone.
 
@@ -2170,9 +2170,9 @@ L'articolo 79 si applica all'aiuto per il frumento duro di cui all'articolo 10 d
 
 6\. L'importo compensativo per il riso spezzato (rotture) viene fissato ad un livello che tenga conto della differenza esistente fra il prezzo di approvvigionamento in Spagna e il prezzo di entrata.
 
-## Sottosezione 15 - Ortofrutticoli trasformati
+**Sottosezione 15 - Ortofrutticoli trasformati**
 
-##### Articolo 118
+###### Articolo 118
 
 Per i prodotti che beneficiano del regime di aiuti previsto dall'articolo 3 del regolamento (CEE) n. 516/77 relativo all'organizzazione comune dei mercati nel settore dei prodotti trasformati a base di ortofrutticoli, si applicano in Spagna le seguenti disposizioni:
 
@@ -2218,7 +2218,7 @@ Le spese di trasformazione constatate in Spagna vengono progressivamente ravvici
 
 7\. Ai fini dell'applicazione del presente articolo, il prezzo minimo, le spese di trasformazione e l'aiuto validi nella Comunita' nella sua composizione attuale si riferiscono agli importi validi nella Comunita' nella sua composizione attuale, esclusa la Grecia.
 
-##### Articolo 119
+###### Articolo 119
 
 Il prezzo minimo e la compensazione finanziaria applicabili in Spagna, di cui agli articoli 2 e 3 del regolamento (CEE) n. 2601/69 che prevede misure speciali intese a favorire il ricorso alla trasformazione per determinate varieta' di arance, nonche' agli articoli 1 e 2 del regolamento (CEE) n. 1035/77 che prevede misure particolari intese a favorire la commercializzazione dei prodotti trasformati a base di limoni, vengono fissati come segue:
 
@@ -2236,9 +2236,9 @@ Il prezzo minimo e la compensazione finanziaria applicabili in Spagna, di cui ag
 
 \- 26.000 tonnellate per i limoni.
 
-## Sottosezione 16 - Foraggi essiccati
+**Sottosezione 16 - Foraggi essiccati**
 
-##### Articolo 120
+###### Articolo 120
 
 1\. Il prezzo di obiettivo di cui all'articolo 4 del regolamento (CEE) n. 1117/78 relativo all'organizzazione comune dei mercati nel settore dei foraggi essiccati, applicabile in Spagna al 1 marzo 1986, e' fissato in base al divario esistente tra i prezzi dei prodotti concorrenti nelle colture di avvicendamento in Spagna e nella Comunita' nella sua composizione attuale, durante un periodo di riferimento da determinare.
 
@@ -2252,9 +2252,9 @@ L'articolo 70 si applica al prezzo di obiettivo calcolato conformemente al primo
 
 3\. L'articolo 79 si applica all'aiuto forfettario di cui all'articolo 3 del regolamento (CEE) n. 1117/78.
 
-## Sottosezione 17 - Piselli, fave, favette e lupini dolci
+**Sottosezione 17 - Piselli, fave, favette e lupini dolci**
 
-##### Articolo 121
+###### Articolo 121
 
 1\. Per i piselli, le fave, le favette e i lupini dolci utilizzati nella fabbricazione di alimenti per animali, gli articoli 68 e 70 si applicano al prezzo limite per l'intervento. Per gli altri piselli, fave e favette, il prezzo di obiettivo applicabile in Spagna al 1 marzo 1986 e' fissato in funzione dello scarto esistente fra i prezzi dei prodotti concorrenti nelle colture di avvicendamento in Spagna e nella Comunita' nella sua composizione attuale, durante un periodo di riferimento da determinare.
 
@@ -2272,9 +2272,9 @@ Le riduzioni di cui al primo e secondo comma risultano dall'applicazione delle p
 
 Fatta salva l'applicazione del primo comma, l'importo dell'aiuto in questione per un prodotto trasformato in Spagna e' diminuito dell'incidenza dei dazi doganali applicati in Spagna all'importazione di tali prodotti provenienti dai paesi terzi.
 
-## Sottosezione 18 - Vino
+**Sottosezione 18 - Vino**
 
-##### Articolo 122
+###### Articolo 122
 
 1\. Fino al primo dei ravvicinamenti di prezzo previsti dall'articolo 70:
 
@@ -2296,7 +2296,7 @@ Fatta salva l'applicazione del primo comma, l'importo dell'aiuto in questione pe
 
 \- fatto salvo l'articolo 41, paragrafo 6, primo trattino del regolamento (CEE) n. 337/79, per quanto riguarda il rapporto tra il prezzo di orientamento e il prezzo di cui al paragrafo 1, terzo trattino, il livello di prezzo corrispondente al 40% previsto dall'articolo 41, paragrafo 6, secondo trattino del regolamento (CEE) n. 337/79, viene raggiunto secondo il ritmo previsto nel primo trattino del presente paragrafo.
 
-##### Articolo 123
+###### Articolo 123
 
 1\. Viene istituito un meccanismo di importi regolatori all'importazione nella Comunita' nella sua composizione attuale, per i prodotti di cui al paragrafo 2, provenienti dalla Spagna, che sono soggetti alla fissazione di un prezzo di riferimento nel quadro dell'organizzazione comune di mercato.
 
@@ -2316,11 +2316,11 @@ Questo importo e' fissato ad un livello tale da garantire una corrente di scambi
 
 5\. L'importo regolatore concesso e' finanziato dalla Comunita' mediante il Fondo europeo agricolo di orientamento e garanzia, sezione garanzia.
 
-##### Articolo 124
+###### Articolo 124
 
 Ai fini dell'applicazione, fino al termine della campagna 1989/1990, della distillazione obbligatoria di cui all'articolo 41 del regolamento (CEE) n. 337/79, il volume totale delle produzioni medie di vini da tavola e di prodotti a monte del vino da tavola destinati alla vinificazione, ottenuti nelle varie regioni di produzione in Spagna durante le tre campagne consecutive di riferimento, e' fissato a 27,5 milioni di ettolitri.
 
-##### Articolo 125
+###### Articolo 125
 
 1\. Durante il periodo dal 1 marzo 1986 al 31 dicembre 1989, in territorio spagnolo e' ammesso il taglio di un vino atto a diventare un vino da tavola bianco, o di un vino bianco, con un vino atto a diventare vino da tavola rosso o con un vino da tavola rosso. Il prodotto di detto taglio puo' circolare soltanto in territorio spagnolo.
 
@@ -2328,7 +2328,7 @@ Ai fini dell'applicazione, fino al termine della campagna 1989/1990, della disti
 
 Durante tale periodo, i vini spagnoli di cui sopra possono essere oggetto di scambi con gli altri stati membri soltanto a condizione che siano soggetti a disposizioni che permettano di determinarne l'origine e di seguirne i movimenti commerciali.
 
-##### Articolo 126
+###### Articolo 126
 
 1\. Fino alla fine del 1995, i vini da tavola provenienti da superfici coltivate a vigneto alla data del 1 gennaio 1985 nelle regioni di Asturias, Cantabria, Galicia, Guipuzcoa e Viscaya, il cui elenco deve essere determinato alle condizioni previste dall'articolo 91, possono avere un titolo alcolometrico effettivo non inferiore a 7% vol.
 
@@ -2336,27 +2336,27 @@ Per i vini con titolo alcolometrico effettivo inferiore a 9% vol., l'indicazione
 
 2\. I vini da tavola di cui al paragrafo 1 possono circolare soltanto in territorio spagnolo.
 
-##### Articolo 127
+###### Articolo 127
 
 Fino al 31 dicembre 1990, i vini da tavola prodotti in Spagna e immessi al consumo sul mercato di tale stato membro possono avere un tenore di acidita' totale non inferiore a 3,4 g/l, espresso in acido tartarico.
 
-##### Articolo 128
+###### Articolo 128
 
 Fino al termine della campagna 1992/1993, l'importo, applicabile in Spagna, dell'aiuto a favore dei mosti di uve concentrati e dei mosti di uve concentrati rettificati, di cui all'articolo 14 del regolamento (CEE) n. 337/79, e' fissato tenendo conto della differenza tra i costi, per tale stato membro, dell'arricchimento ottenuto mediante i prodotti di cui sopra e l'arricchimento ottenuto mediante saccarosio.
 
-##### Articolo 129
+###### Articolo 129
 
 Fino al 31 dicembre 1995, l'utilizzazione delle denominazioni composte "British Sherry", "Irish Sherry" e "Cyprus Sherry" e' autorizzata sul territorio del Regno Unito e dell'Irlanda. Durante il 1995 il Consiglio riesamina questa misura e, deliberando secondo le procedure previste dall'articolo 43 del trattato CEE, adotta qualsiasi modifica di questa misura su proposta della Commissione tenendo conto degli interessi di tutte le parti interessate.
 
-## Sottosezione 19 - Carni ovine e caprine
+**Sottosezione 19 - Carni ovine e caprine**
 
-##### Articolo 130
+###### Articolo 130
 
 Nel settore delle carni ovine l'articolo 68 e' applicabile al prezzo di base.
 
-## Sezione III - Ortofrutticoli
+##### Sezione III - Ortofrutticoli
 
-##### Articolo 131
+###### Articolo 131
 
 Gli ortofrutticoli contemplati dal regolamento (CEE) n. 1035/72 sono soggetti ad una transizione specifica che si suddivide in due fasi:
 
@@ -2366,11 +2366,9 @@ Gli ortofrutticoli contemplati dal regolamento (CEE) n. 1035/72 sono soggetti ad
 
 Il passaggio dalla prima alla seconda fase e' automatico.
 
-## Sottosezione 1 - Prima fase
+**Sottosezione 1 - Prima fase A. Mercato interno spagnolo**
 
-### A. Mercato interno spagnolo
-
-##### Articolo 132
+###### Articolo 132
 
 1\. Durante la prima fase, il Regno di Spagna e' autorizzato a mantenere, per i prodotti di cui all'articolo 131, la regolamentazione vigente sotto il precedente regime nazionale per l'organizzazione del proprio mercato interno agricolo, alle condizioni previste dagli articoli 133, 134 e 135.
 
@@ -2378,7 +2376,7 @@ Il passaggio dalla prima alla seconda fase e' automatico.
 
 E' inoltre differita, fino al termine e della prima fase, l'applicazione alla Comunita' nella sua composizione attuale e al Regno di Spagna delle modifiche apportate alla regolamentazione comunitaria a norma dell'articolo 396.
 
-##### Articolo 133
+###### Articolo 133
 
 1\. Per permettere al settore spagnolo degli ortofrutticoli di integrarsi in modo armonioso e completo, al termine della prima fase, nel quadro della politica agricola comune, il Regno di Spagna adattera' progressivamente, l'organizzazione del proprio mercato interno secondo gli obiettivi generali di cui al paragrafo 2.
 
@@ -2404,7 +2402,7 @@ Tuttavia, la percentuale della partecipazione finanziaria della Comunita' si lim
 
 Per ciascuna campagna, la Commissione rileva la percentuale di produzione di cui al comma precedente; a tal fine, procede a controlli sul posto, in collaborazione con le autorita' spagnole.
 
-##### Articolo 134
+###### Articolo 134
 
 1\. Ai fini della realizzazione degli obiettivi generali, la Commissione elabora, durante il periodo transitorio, un programma d'azione in stretta collaborazione con le autorita' spagnole.
 
@@ -2424,7 +2422,7 @@ Per ciascuna campagna, la Commissione rileva la percentuale di produzione di cui
 
 4\. Tenendo conto in particolare delle deliberazioni del Consiglio sulle relazioni di cui al paragrafo 3, la Commissione puo', se necessario, formulare raccomandazioni al Regno di Spagna sulle azioni che dovrebbero essere intraprese per realizzare gli obiettivi in questione.
 
-##### Articolo 135
+###### Articolo 135
 
 Durante la prima fase, il Regno di Spagna applica le seguenti discipline:
 
@@ -2458,7 +2456,7 @@ Ai sensi di tale disciplina, il Regno di Spagna applica le stesse discipline di 
 
 ## B. Regime applicabile negli scambi tra la Comunita' nella sua composizione attuale e la Spagna
 
-##### Articolo 136
+###### Articolo 136
 
 1\. Fatti salvi gli articoli 75, 137, 138 e 139, il Regno di Spagna e' autorizzato a mantenere nei suoi scambi con la Comunita' nella sua composizione attuale, durante la prima fase e per i prodotti di cui all'articolo 131, il regime vigente per tali scambi prima dell'adesione, sia all'importazione sia all'esportazione.
 
@@ -2466,7 +2464,7 @@ Ai sensi di tale disciplina, il Regno di Spagna applica le stesse discipline di 
 
 3\. Fatto salvo l'articolo 141, durante la prima fase la Comunita' nella sua composizione attuale applica all'esportazione dei prodotti di cui all'articolo 131 e destinazione della Spagna il regime che essa applica all'esportazione nei confronti dei paesi terzi.
 
-##### Articolo 137
+###### Articolo 137
 
 1\. Fatto salvo il paragrafo 2, il Regno di Spagna elimina, dal 1 marzo 1986, l'applicazione di qualsiasi restrizione quantitativa e di ogni misura d'effetto equivalente, nonche' di qualsiasi tassa di effetto equivalente ad un dazio doganale all'importazione dei prodotti di cui all'articolo 131 provenienti dalla Comunita' nella sua composizione attuale.
 
@@ -2492,7 +2490,7 @@ e) Durante il periodo dal 1 marzo al 31 dicembre 1986, il contingente applicabil
 
 Parte di provvedimento in formato grafico
 
-##### Articolo 138
+###### Articolo 138
 
 Durante la prima fase, il Regno di Spagna non concede, in linea di massima, aiuti o sovvenzioni all'esportazione per i prodotti di cui all'articolo 131 esportati negli stati membri attuali.
 
@@ -2500,13 +2498,13 @@ Tuttavia, qualora aiuti o sovvenzioni del genere risultino necessari, il loro im
 
 La fissazione di tali aiuti o sovvenzioni puo' avvenire soltanto previo espletamento della procedura di consultazione prevista dall'articolo 142.
 
-##### Articolo 139
+###### Articolo 139
 
 1\. Dal 1 marzo 1936, il Regno di Spagna elimina l'applicazione di qualsiasi restrizione quantitativa o di qualsiasi misura d'effetto equivalente all'esportazione nella Comunita' nella sua composizione attuale dei prodotti di cui all'articolo 131.
 
 2\. Tuttavia, durante la prima fase, il Regno di Spagna puo' mantenere gli adeguamenti commerciali settoriali applicati all'esportazione, adattandoli pero', durante tale fase, per renderli compatibili con le esigenze della libera circolazione alla fine di questa fase.
 
-##### Articolo 140
+###### Articolo 140
 
 1\. In deroga all'articolo 136, paragrafo 2, le eventuali tasse compensative all'importazione dei prodotti provenienti dalla Spagna, risultanti dall'applicazione del regolamento (CEE) n. 1035/72, sono ridotte come segue:
 
@@ -2520,7 +2518,7 @@ La fissazione di tali aiuti o sovvenzioni puo' avvenire soltanto previo espletam
 
 2\. Negli scambi fra la Comunita' nella sua composizione attuale e i paesi terzi, durante la prima fase i corsi dei prodotti spagnoli non vengono presi in considerazione ai fini del calcolo del prezzo di riferimento.
 
-##### Articolo 141
+###### Articolo 141
 
 1\. Durante la prima fase, in linea di massima la Comunita' nella sua composizione attuale non concede restituzioni all'esportazione per i prodotti di cui all'articolo 131 esportati in Spagna.
 
@@ -2530,7 +2528,7 @@ La fissazione di tali restituzioni puo' avvenire soltanto previo espletamento de
 
 2\. Le restituzioni previste dal presente articolo sono finanziate dalla Comunita' tramite il Fondo europeo agricolo di orientamento e garanzia, sezione garanzia.
 
-##### Articolo 142
+###### Articolo 142
 
 L'applicazione da parte del Regno di Spagna degli aiuti o sovvenzioni di cui all'articolo 138 o, da parte della Comunita', delle restituzioni di cui all'articolo 141 e' subordinata a consultazioni preliminari che si svolgono secondo la seguente procedura:
 
@@ -2548,21 +2546,21 @@ Il parere viene immediatamente comunicato all'autorita' competente per la fissaz
 
 ## C. Regime applicabile agli scambi tra la Spagna e i paesi terzi
 
-##### Articolo 143
+###### Articolo 143
 
 Fatto salvo l'articolo 137, per i prodotti di cui all'articolo 131, il Regno di Spagna applica dal 1 marzo 1986 la regolamentazione comunitaria relativa al regime applicabile all'importazione nella Comunita' di prodotti provenienti da paesi terzi.
 
 Tuttavia, in materia di prezzi di riferimento il Regno di Spagna applica all'importazione da paesi terzi il regime applicato dalla Comunita' nella sua composizione attuale nei suoi confronti a norma dell'articolo 140, paragrafo l.
 
-##### Articolo 144
+###### Articolo 144
 
 Fino ai 31 dicembre 1989, il Regno di Spagna puo' mantenere, secondo modalita' da determinare secondo la procedura prevista dall'articolo 91, restrizioni quantitative all'importazione dei prodotti di cui all'articolo 137, paragrafo 2, provenienti da paesi terzi.
 
-##### Articolo 145
+###### Articolo 145
 
 Fino all'inizio della seconda fase, il Regno di Spagna e' autorizzato a differire per i prodotti di cui all'articolo 131 l'applicazione progressiva, all'importazione, delle preferenze concesse in modo autonomo o convenzionale dalla Comunita' a determinati paesi terzi.
 
-##### Articolo 146
+###### Articolo 146
 
 1\. Fatto salvo il paragrafo 2, per i prodotti di cui all'articolo 131, il Regno di Spagna e' autorizzato a mantenere, durante la prima fase, all'esportazione nei paesi terzi, il regime vigente prima dell'adesione per tali scambi.
 
@@ -2570,13 +2568,13 @@ Fino all'inizio della seconda fase, il Regno di Spagna e' autorizzato a differir
 
 Siffatti aiuti o sovvenzioni possono essere messi in applicazione soltanto previo espletamento della procedura prevista dall'articolo 142. Le consultazioni riguardano in particolare l'aspetto economico delle esportazioni previste, i prezzi adottati per il loro calcolo e la situazione dei mercati di provenienza e di destinazione.
 
-## Sottosezione 2 - Seconda fase
+**Sottosezione 2 - Seconda fase**
 
-##### Articolo 147
+###### Articolo 147
 
 A decorrere dalla seconda fase, la regolamentazione comunitaria relativa ai prodotti di cui all'articolo 131 si applica pienamente in Spagna, fatti salvi gli articoli 75, 81, 82, 83, 85, nonche' gli articoli da 148 a 153.
 
-##### Articolo 148
+###### Articolo 148
 
 1\. Fatto salvo l'articolo 135, punto 1, lettera e), fino al primo ravvicinamento dei prezzi di cui all'articolo 149, i prezzi da applicare in Spagna a decorrere dal 1 gennaio 1990 sono fissati, secondo le regole previste dalla relativa organizzazione comune dei mercati, al livello dei prezzi fissati in Spagna al termine della prima fase.
 
@@ -2584,23 +2582,23 @@ A decorrere dalla seconda fase, la regolamentazione comunitaria relativa ai prod
 
 Il divario di prezzo si considera minimo quando e' inferiore o pari al 3% del prezzo comune.
 
-##### Articolo 149
+###### Articolo 149
 
 Se l'applicazione dell'articolo 148, paragrafo 1, conduce in Spagna ad un livello di prezzo differente da quello dei prezzi comuni, i prezzi applicabili in Spagna vengono ravvicinati ai prezzi comuni in sei fasi successive a decorrere dall'inizio della campagna 1990/1991, applicando mutatis mutandis l'articolo 70.
 
 I prezzi comuni vengono applicati in Spagna al momento del sesto ravvicinamento.
 
-##### Articolo 150
+###### Articolo 150
 
 L'articolo 76, paragrafo 1 e gli articoli 80, 87 e 90 si applicano in Spagna a decorrere dal 1 gennaio 1990.
 
 Tuttavia, la data del 31 dicembre 1987 di cui all'articolo 90 e' sostituita da quella del 31 dicembre 1991.
 
-##### Articolo 151
+###### Articolo 151
 
 Qualora, nel corso della prima fase, venga istituito un aiuto nell'ambito della politica agricola comune, tale aiuto viene introdotto in Spagna, oppure il livello dell'aiuto analogo esistente in Spagna viene ravvicinato al livello comune in sei fasi, applicando per analogia l'articolo 79.
 
-##### Articolo 152
+###### Articolo 152
 
 1\. Durante la seconda fase, viene istituito un meccanismo di compensazione all'importazione nella Comunita' nella sua composizione attuale di ortofrutticoli provenienti dalla Spagna per i quali sia stato fissato un prezzo di riferimento nei confronti dei paesi terzi.
 
@@ -2628,7 +2626,7 @@ e) La riscossione dell'importo correttore avviene fino al momento in cui le cons
 
 3\. Qualora il mercato spagnolo risulti perturbato dalle importazioni provenienti dalla Comunita' nella sua composizione attuale, possono essere decise misure adeguate, che possono prevedere, in particolare, l'applicazione di un importo correttore secondo modalita' da determinare, per quanto riguarda le importazioni in Spagna di ortofrutticoli provenienti dalla Comunita' nella sua composizione attuale, per i quali sia stato fissato un prezzo di riferimento.
 
-##### Articolo 153
+###### Articolo 153
 
 1\. A decorrere dal 1 gennaio 1990, il Regno di Spagna applica progressivamente all'importazione dei prodotti di cui all'articolo 131 le preferenze concesse in modo autonomo o convenzionale dalla Comunita' a taluni paesi terzi.
 
@@ -2648,17 +2646,17 @@ e) La riscossione dell'importo correttore avviene fino al momento in cui le cons
 
 Dal 1 gennaio 1996, il Regno di Spagna applica integralmente le aliquote preferenziali.
 
-## CAPO 4 - Pesca
+#### CAPO 4 - Pesca
 
-### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
-##### Articolo 154
+###### Articolo 154
 
 1\. Salvo disposizioni contrarie del presente capo, le regole previste dal presente atto sono applicabili al settore della pesca.
 
 2\. L'articolo 89, paragrafo 2 e l'articolo 90 sono applicabili ai prodotti della pesca.
 
-##### Articolo 155
+###### Articolo 155
 
 1\. Fatti salvi il paragrafo 2 e il protocollo n. 2, la politica comune della pesca non e' applicabile alle Isole Canarie ne' a Ceuta e Melilla.
 
@@ -2670,17 +2668,17 @@ b) determina le modalita' appropriate affinche' gli interessi dei territori di c
 
 3\. Il Consiglio, deliberando all'unanimita' su proposta della Commissione, determina, se del caso, le possibilita' e condizioni di reciproco accesso alle rispettive zone di pesca e alle loro risorse.
 
-## Sezione II - Accesso alle acque e alle risorse
+##### Sezione II - Accesso alle acque e alle risorse
 
-##### Articolo 156
+###### Articolo 156
 
 Ai fini della loro integrazione nel regime comunitario di conservazione e di gestione delle risorse della pesca istituito con il regolamento (CEE) n. 170/83, l'accesso alle acque soggette alla sovranita' o alla giurisdizione degli stati membri attuali e di competenza del Consiglio internazionale per l'esplorazione del mare (CIEM), da parte delle navi battenti bandiera della Spagna e immatricolate e/o registrate in un porto situato nel territorio cui si applica la politica comune della pesca e' sottoposto al regime definito nella presente sezione.
 
-##### Articolo 157
+###### Articolo 157
 
 Soltanto le navi di cui agli articoli 158, 159 e 160 possono esercitare la loro attivita' di pesca, nelle zone e alle condizioni in essi indicate.
 
-##### Articolo 158
+###### Articolo 158
 
 1\. Trecento navi determinate con le loro caratteristiche tecniche nell'elenco nominativo che figura nell'allegato IX, qui di seguito denominato "elenco di base", possono essere autorizzate ad esercitare la loro attivita' di pesca nelle divisioni CIEM Vb, VI, VII, VIII a, b, d, esclusa, durante il periodo tra la data dell'adesione e il 31 dicembre 1995, la zona situata a sud di 56° 30° latitudine nord, a est di 12° longitudine ovest e a nord di 50° 30° latitudine nord.
 
@@ -2722,7 +2720,7 @@ Ai fini dell'applicazione di questi tassi di conversione alle navi che esercitan
 
 3\. Gli eventuali adattamenti dell'elenco di base, a seguito della messa fuori servizio, prima dell'adesione, di una nave per motivi di forza maggiore, sono adottati al piu' tardi il 1 gennaio 1986 secondo la procedura prevista dall'articolo 14 del regolamento (CEE) n. 170/83. Questi adattamenti non possono concernere il numero delle navi e la loro ripartizione tra ciascuna delle categorie ne' comportare un aumento del tonnellaggio globale o della potenza totale per ciascuna di queste, inoltre, le navi designate in sostituzione possono essere scelte soltanto fra quelle che figurano nell'elenco dell'allegato X.
 
-##### Articolo 159
+###### Articolo 159
 
 1\. Il numero delle navi tipo di cui all'articolo 158, paragrafo 2 puo' essere aumentato in funzione dell'evoluzione delle possibilita' globali di pesca attribuite alla Spagna per le popolazioni soggette al regime del totale delle catture ammesse, qui di seguito denominato TAC, secondo la procedura prevista dall'articolo 11 del regolamento (CEE) n. 170/83.
 
@@ -2730,7 +2728,7 @@ Ai fini dell'applicazione di questi tassi di conversione alle navi che esercitan
 
 Le condizioni di sostituzione di cui al primo comma si applicano soltanto nella misura in cui la capacita' della flotta della Comunita' nella sua composizione attuale non viene aumentata nelle acque comunitarie dell'Atlantico.
 
-##### Articolo 160
+###### Articolo 160
 
 1\. Sono autorizzate le seguenti attivita' di pesca specializzata:
 
@@ -2740,7 +2738,7 @@ Parte di provvedimento in formato grafico
 
 Tuttavia, le attivita' di pesca di cui al paragrafo 1, lettera c) possono essere esercitate nella divisione CIEM interessata ovunque oltre il limite di 12 miglia marittime calcolato dalle linee di base.
 
-##### Articolo 161
+###### Articolo 161
 
 1\. La quota del TAC delle specie soggette ai TAC e alle quote da attribuire alla Spagna e' fissata, per specie e per zona, nel modo
 
@@ -2774,13 +2772,13 @@ per zona, nel modo seguente:
 
 che ne risultano per gli altri stati membri della Comunita' sono fissate ogni anno e per la prima volta anteriormente al 1 gennaio 1986, conformemente all'articolo 11 del regolamento (CEE) n° 170/83.
 
-##### Articolo 162
+###### Articolo 162
 
 Prima del 31 dicembre 1992 la Commissione presenta al Consiglio una
 
 relazione sulla situazione e sulle prospettive della pesca nella Comunita' in rapporto all'applicazione degli articoli 158 e 161. In base a questa relazione gli adattamenti del regime previsto dagli articoli 158, 159, paragrafo 2, primo comma e 161, paragrafi 1, 2 e 3 che si riveleranno necessari, compreso l'accesso a zone diverse da quelle indicate nell'articolo 158, paragrafo 1, sono adottati prima del 31 dicembre 1993 secondo la procedura prevista dall'articolo 43 del trattato CEE; essi prenderanno effetto il 1 gennaio 1996.
 
-##### Articolo 163
+###### Articolo 163
 
 1\. Le autorita' spagnole stabiliscono, per le attivita' di pesca di
 
@@ -2810,7 +2808,7 @@ Le modalita' tecniche che risultano necessarie per assicurare
 
 l'applicazione degli articoli da 156 a 162, nonche' quelle di cui all'allegato XI sono adottate prima del 1 gennaio 1986 secondo la procedura prevista dall'articolo 14 del regolamento (CEE) n. 170/83.
 
-##### Articolo 164
+###### Articolo 164
 
 1\. Il numero di navi battenti bandiera di uno stato membro attuale
 
@@ -2838,7 +2836,7 @@ particolare la fissazione annua del numero delle navi, sono adottate secondo la 
 
 prima del 1 gennaio 1986 secondo la procedura prevista dall'articolo 14 del regolamento (CEE) n. 170/83.
 
-##### Articolo 165
+###### Articolo 165
 
 1\. Ai fini della loro integrazione nel regime comunitario di
 
@@ -2872,15 +2870,15 @@ a quelle di cui all'allegato XI, sono adottate prima del 1 gennaio 1986 secondo 
 
 operatori, della regolamentazione prevista dal presente articolo, compresa la possibilita' di non autorizzare la nave interessata a pescare per un certo periodo, sono adottate prima del 1 gennaio 1986 secondo la procedura prevista dall'articolo 11 del regolamento (CEE) n. 170/83.
 
-##### Articolo 166
+###### Articolo 166
 
 Il regime definito negli articoli da 156 a 164 compresi gli
 
 adattamenti che il Consiglio potra' adottare a norma dell'articolo 162, rimane applicabile fino alla data di scadenza del periodo previsto all'articolo 8, paragrafo 3 del regolamento (CEE) n. 170/83.
 
-## Sezione III - Risorse esterne
+##### Sezione III - Risorse esterne
 
-##### Articolo 167
+###### Articolo 167
 
 1\. Dal momento dell'adesione la Comunita' gestisce gli accordi di pesca conclusi dal Regno di Spagna con paesi terzi.
 
@@ -2888,7 +2886,7 @@ adattamenti che il Consiglio potra' adottare a norma dell'articolo 162, rimane a
 
 3\. Appena possibile e comunque prima della scadenza degli accordi di cui al paragrafo 1 il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, adotta per ogni caso le decisioni appropriate per mantenere le attivita' di pesca che ne derivano, compresa la possibilita' di proroga di taluni accordi per un periodo massimo di un anno.
 
-##### Articolo 168
+###### Articolo 168
 
 1\. Gli esoneri, le sospensioni o i contingenti tariffari concessi
 
@@ -2919,9 +2917,9 @@ a decorrere dal 1 gennaio 1993     |           0       |    100
 
 5\. Le modalita' di applicazione del presente articolo, in particolare le quantita' annue dei contingenti per voce o sottovoce della tariffa doganale comune, sono adottate secondo la procedura prevista dall'articolo 33 del regolamento (CEE) n. 3796/81.
 
-## Sezione IV - Organizzazione comune dei mercati
+##### Sezione IV - Organizzazione comune dei mercati
 
-##### Articolo 169
+###### Articolo 169
 
 1\. I prezzi di orientamento applicabili in Spagna alle sardine dell'Atlantico e alle acciughe e i prezzi di orientamento applicabili nella Comunita' nella sua composizione attuale formano oggetto di un ravvicinamento conformemente ai paragrafi 2 e 3; il primo ravvicinamento ha luogo il 1 marzo 1986.
 
@@ -2929,7 +2927,7 @@ a decorrere dal 1 gennaio 1993     |           0       |    100
 
 3\. Per quanto concerne le acciughe, i prezzi di orientamento rispettivamente applicabili per la Spagna e per gli altri stati membri formano oggetto di un ravvicinamento in cinque tappe annue, successivamente di un quinto, di un quarto, di un terzo e della meta' della differenza tra questi prezzi di orientamento: questo ravvicinamento e' applicato per meta' a ciascuno di questi prezzi mediante aumento del prezzo inferiore e riduzione del prezzo superiore; il prezzo che risulta da questo calcolo e' modulato proporzionalmente all'eventuale adattamento del prezzo di orientamento per la campagna successiva; a decorrere dalla data del quinto ravvicinamento e' applicato il prezzo comune.
 
-##### Articolo 170
+###### Articolo 170
 
 1\. Durante il periodo di ravvicinamento dei prezzi di cui all'articolo 169 e' instaurato un sistema di sorveglianza, basato su prezzi di riferimento applicabili:
 
@@ -2947,7 +2945,7 @@ altri stati membri della Comunita'.
 
 4\. Le modalita' di applicazione del presente articolo sono adottate secondo la procedura prevista dall'articolo 33 del regolamento (CEE) n. 3796/81.
 
-##### Articolo 171
+###### Articolo 171
 
 1\. Dal momento dell'adesione e' instaurato un regime di indennita' compensative per i produttori di sardine della Comunita' nella sua composizione attuale, in ragione del sistema particolare di ravvicinamento dei prezzi applicabile a questa specie a norma dell'articolo 169, paragrafo 2.
 
@@ -2955,13 +2953,13 @@ altri stati membri della Comunita'.
 
 3\. Il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, adotta prima del 31 dicembre 1985 le modalita' di applicazione del presente articolo.
 
-##### Articolo 172
+###### Articolo 172
 
 Durante il periodo di ravvicinamento dei prezzi rimangono invariati i coefficienti di adattamento applicabili nel 1984 alle sardine, previsti dall'articolo 12, paragrafo 1 del regolamento (CEE) n. 3796/81.
 
-## Sezione V - Regime applicabile agli scambi
+##### Sezione V - Regime applicabile agli scambi
 
-##### Articolo 173
+###### Articolo 173
 
 1\. In deroga all'articolo 31, i dazi doganali all'importazione applicabili ai prodotti della pesca delle voci 03.01, 03.02, 03.03, 16.04 e 16.05 e delle sottovoci 05.15 A e 23.01 B della tariffa doganale comune tra la Comunita' nella sua composizione attuale e la Spagna sono progressivamente aboliti secondo il seguente ritmo:
 
@@ -3027,7 +3025,7 @@ b) negli altri casi, il Regno di Spagna applica un dazio che riduce il divario t
 
 Il Regno di Spagna applica integralmente la tariffa doganale comune a decorrere dal 1 gennaio 1993.
 
-##### Articolo 174
+###### Articolo 174
 
 1\. Fino al 31 dicembre 1992 le importazioni in Spagna dei prodotti che figurano nell'allegato XIII in provenienza dagli altri stati membri sono sottoposte ad un meccanismo complementare applicabile agli scambi, definito dal presente articolo.
 
@@ -3041,23 +3039,23 @@ Il Regno di Spagna applica integralmente la tariffa doganale comune a decorrere 
 
 6\. Le modalita' di applicazione sono adottate seconda la procedura prevista dall'articolo 33 del regolamento (CEE) n. 3796/81.
 
-##### Articolo 175
+###### Articolo 175
 
 1\. Le restrizioni quantitative applicabili nella Comunita' nella sua composizione attuale ai prodotti in provenienza dalla Spagna, nelle condizioni previste dall'articolo 19, paragrafo 4 del regolamento (CEE) n. 3796/81, sono progressivamente abolite e soppresse il 1 gennaio 1993 per quanto riguarda le conserve di tonno e il 1 gennaio 1996 per quanto riguarda le conserve di sardine.
 
 2\. Le modalita' di applicazione del paragrafo 1 sono adottate secondo la procedura prevista dall'articolo 33 del regolamento (CEE) n. 3796/81.
 
-##### Articolo 176
+###### Articolo 176
 
 1\. Fino al 31 dicembre 1992, il Regno di Spagna puo' mantenere nei confronti dei paesi terzi restrizioni quantitative per i prodotti che figurano nell'allegato XIV, nei limiti e secondo le modalita' stabilite dal Consiglio, che delibera a maggioranza qualificata su proposta della Commissione.
 
 2\. Il meccanismo comunitario dei prezzi di riferimento e' applicabile a ciascun prodotto dal momento dell'abolizione delle relative restrizioni quantitative.
 
-## CAPO 5 - Relazioni esterne
+#### CAPO 5 - Relazioni esterne
 
-### Sezione I - Politica commerciale comune
+##### Sezione I - Politica commerciale comune
 
-##### Articolo 177
+###### Articolo 177
 
 1\. Il Regno di Spagna mantiene nei confronti dei paesi terzi restrizioni quantitative all'importazione per prodotti non ancora liberalizzati nei confronti della Comunita' nella sua composizione attuale. Esso non concede ai paesi terzi nessun altro vantaggio rispetto alla Comunita' nella sua composizione attuale per quanto riguarda i contingenti fissati per questi prodotti.
 
@@ -3085,7 +3083,7 @@ Qualsiasi modifica nel regime d'importazione in Spagna dei prodotti di cui al pr
 
 6\. Per conformarsi agli obblighi che incombono alla Comunita' a norma dell'accordo generale sulle tariffe doganali e sul commercio nei confronti dei paesi a commercio di stato membri di tale accordo, il Regno di Spagna estende, se del caso e nella misura necessaria, a detti paesi le misure di liberalizzazione che esso dovra' prendere nei confronti degli altri paesi terzi membri dell'accordo, tenendo tuttavia conto delle misure transitorie convenute.
 
-##### Articolo 178
+###### Articolo 178
 
 1\. Dal 1 marzo 1986 il Regno di Spagna applica gradualmente il sistema delle preferenze generalizzate per i prodotti diversi da quelli elencati nell'allegato il del trattato CEE, partendo dai dazi di base di cui all'articolo 30, paragrafo 1. Tuttavia, quanto ai prodotti elencati nell'allegato XVII, il Regno di Spagna si allinea gradualmente, fino al 31 dicembre 1992, ai tassi del sistema delle preferenze generalizzate partendo dai dazi di base di cui all'articolo 30, paragrafo 2. Il ritmo di questi allineamenti e' identico a quello fissato nell'articolo 37.
 
@@ -3131,9 +3129,9 @@ c) In deroga alla lettera b), per i prodotti della pesca delle voci 03.01, 03.02
 
 A decorrere dal 1 gennaio 1993, il Regno di Spagna applica integralmente le aliquote preferenziali.
 
-## Sezione II - Accordi delle Comunita' con taluni paesi terzi
+##### Sezione II - Accordi delle Comunita' con taluni paesi terzi
 
-##### Articolo 179
+###### Articolo 179
 
 1\. Dal 1 gennaio 1986 il Regno di Spagna applica le disposizioni degli accordi di cui all'articolo 181.
 
@@ -3147,7 +3145,7 @@ In particolare, tutti i prodotti che sono oggetto di misure transitorie riguarda
 
 4\. Le misure transitorie applicabili ai paesi elencati nell'articolo 181 non comportano l'applicazione, da parte del Regno di Spagna nei confronti di detti paesi di un trattamento meno favorevole di quello applicato agli altri paesi terzi. In particolare, misure transitorie riguardanti restrizioni quantitative non possono essere previste nei confronti dei paesi elencati nell'articolo 181 per i prodotti esenti da tali restrizioni all'importazione in Spagna in provenienza da altri paesi terzi.
 
-##### Articolo 180
+###### Articolo 180
 
 1\. Qualora i protocolli di cui all'articolo 179, paragrafo 1 non fossero conclusi al 1 gennaio 1986, la Comunita' prende le misure necessarie per porre rimedio, dal momento dell'adesione, a tale situazione.
 
@@ -3159,7 +3157,7 @@ i) qualora i protocolli in questione non fossero conclusi alla data dell'adesion
 
 ii) qualora i protocolli in questione non fossero conclusi alla data dell'adesione per motivi diversi da quelli indicati nel punto i), per l'adozione delle misure di cui al paragrafo 1 la Comunita' si basera' sulle misure transitorie e sugli adattamenti convenuti in seno alla conferenza e terra' eventualmente conto del risultato raggiunto nei negoziati con i paesi terzi in questione.
 
-##### Articolo 181
+###### Articolo 181
 
 1\. Gli articoli 179 e 180 si applicano:
 
@@ -3169,27 +3167,27 @@ ii) qualora i protocolli in questione non fossero conclusi alla data dell'adesio
 
 2\. I regimi che risultano dalla seconda convenzione ACP-CEE e dall'accordo relativo ai prodotti di competenza della Comunita' europea del carbone e dell'acciaio, firmati il 31 ottobre 1979, non sono applicabili nelle relazioni tra il Regno di Spagna e gli Stati dell'Africa, dei Caraibi e del Pacifico.
 
-##### Articolo 182
+###### Articolo 182
 
 Il Regno di Spagna denuncia con effetto al 1 gennaio 1986 l'accordo firmato il 26 giugno 1979 con i paesi dell'associazione europea di libero scambio.
 
-## Sezione III - Prodotti tessili
+##### Sezione III - Prodotti tessili
 
-##### Articolo 183
+###### Articolo 183
 
 1\. Dal 1 gennaio 1986 il Regno di Spagna applica l'accordo del 20 dicembre 1973 sul commercio internazionale dei tessili, nonche' gli accordi bilaterali conclusi dalla Comunita' nel quadro di tale accordo o con altri paesi terzi. I protocolli di adattamento di detti accordi sono negoziati dalla Comunita' con i paesi terzi che sono parte degli accordi stessi, al fine di prevedere una limitazione volontaria delle esportazioni verso la Spagna in caso di prodotti e di origini per i quali vi siano limitazioni alle esportazioni nella Comunita'.
 
 2\. Qualora detti protocolli non fossero conclusi al 1 gennaio 1986, la Comunita' prende le misure destinate a porre rimedio a tale situazione e relative agli accorgimenti transitori necessari per assicurare l'applicazione degli accordi da parte della Comunita'.
 
-## CAPO 6 - Disposizioni finanziarie
+#### CAPO 6 - Disposizioni finanziarie
 
-##### Articolo 184
+###### Articolo 184
 
 1\. La decisione del 21 aprile 1970 relativa alla sostituzione dei contributi finanziari degli stati membri con risorse proprie delle Comunita', in appresso denominata "decisione del 21 aprile 1970", si applica conformemente agli articoli da 185 a 188.
 
 2\. Ogni riferimento alla decisione del 21 aprile 1970 fatto negli articoli del presente capo si deve intendere come riferimento alla decisione del Consiglio, del 7 maggio 1985, relativa al sistema delle risorse proprie delle Comunita', dal momento dell'entrata in vigore di quest'ultima decisione.
 
-##### Articolo 185
+###### Articolo 185
 
 Le entrate denominate "prelievi agricoli", di cui all'articolo 2, primo comma, lettera a) della decisione del 21 aprile 1970, comprendono anche gli introiti provenienti da qualsiasi importo costatato all'importazione negli scambi tra la Spagna e gli altri stati membri e tra la Spagna ed i paesi terzi a norma degli articoli 50, paragrafo 3 e 53 e da 67 a 153.
 
@@ -3197,7 +3195,7 @@ Tuttavia soltanto a decorrere dal 1 gennaio 1990 queste entrate comprendono le t
 
 Queste entrate non comprendono gli importi eventualmente riscossi all'importazione nelle Isole Canarie e a Ceuta e Melilla.
 
-##### Articolo 186
+###### Articolo 186
 
 Le entrate denominate "dazi doganali", di cui all'articolo 2, primo comma, lettera b) della decisione del 21 aprile 1970, comprendono, fino al 31 dicembre 1992, i dazi doganali calcolati come se dal momento dell'adesione il Regno di Spagna applicasse negli scambi con i paesi terzi le aliquote risultanti dalla tariffa doganale comune e le aliquote ridotte risultanti da qualsiasi preferenza tariffaria applicata dalla Comunita'. La stessa regola si applica fino al 31 dicembre 1995 per i dazi doganali relativi ai semi e frutti oleosi e ai loro prodotti derivati che rientrano nel regolamento n. 136/66/CEE, nonche' agli ortofrutticoli che rientrano nel regolamento (CEE) n. 1035/72.
 
@@ -3213,7 +3211,7 @@ L'importo relativo e' messo a disposizione della Commissione, alle condizioni st
 
 Dal 1 gennaio 1993 i dazi doganali costatati sono dovuti integralmente. Tuttavia, per quanto riguarda gli ortofrutticoli che rientrano nel regolamento (CEE) n. 1035/72, nonche' per i semi e i frutti oleosi ed i loro prodotti derivati che rientrano nel regolamento n. 136/66/CEE questi dazi sono dovuti integralmente dal 1 gennaio 1996.
 
-##### Articolo 187
+###### Articolo 187
 
 L'importo dei diritti costatati a titolo delle risorse proprie provenienti dall'imposta sul valore aggiunto e' integralmente dovuto dal 1 gennaio 1986.
 
@@ -3235,17 +3233,17 @@ La Comunita' restituisce al Regno di Spagna a titolo delle spese del bilancio ge
 
 La percentuale di questa restituzione degressiva non si applica all'importo corrispondente alla quota che incombe alla Spagna per il finanziamento della deduzione prevista a favore del Regno Unito dall'articolo 3, paragrafo 3, lettere b) e c) della decisione del Consiglio, del 7 maggio 1985, relativa al sistema delle risorse proprie delle Comunita'.
 
-##### Articolo 188
+###### Articolo 188
 
 Per evitare che sia a carico del Regno di Spagna il rimborso degli anticipi concessi alla Comunita' dai suoi stati membri anteriormente al 1 gennaio 1986, il Regno di Spagna fruisce di una compensazione finanziaria a titolo di detto rimborso.
 
-## TITOLO III - MISURE TRANSITORIE CONCERNENTI IL PORTOGALLO
+### TITOLO III - MISURE TRANSITORIE CONCERNENTI IL PORTOGALLO
 
-### CAPO I - Libera circolazione delle merci
+#### CAPO I - Libera circolazione delle merci
 
-#### Sezione I - Disposizioni tariffarie
+##### Sezione I - Disposizioni tariffarie
 
-##### Articolo 189
+###### Articolo 189
 
 1\. Per ogni prodotto il dazio di base sul quale vanno operate le successive riduzioni di cui all'articolo 190, all'articolo 243, punto 1 e all'articolo 360, paragrafi 1, 2 e 3 e' il dazio effettivamente applicato il 1 gennaio 1985 ai prodotti originari della Comunita' nella sua composizione attuale e del Portogallo nel quadro dei loro scambi.
 
@@ -3261,7 +3259,7 @@ I dazi doganali della tariffa doganale massimale nonche' i dazi doganali tempora
 
 6\. In deroga al paragrafo 1, per i prodotti elencati nel protocollo n. 15 i dazi di base sono quelli indicati in detto protocollo accanto a ciascuno di essi.
 
-##### Articolo 190
+###### Articolo 190
 
 1\. I dazi doganali all'importazione tra la Comunita' nella sua posizione attuale e la Repubblica portoghese sono progressivamente aboliti secondo il seguente ritmo:
 
@@ -3287,7 +3285,7 @@ b) le importazioni di merci che sono oggetto di piccole spedizioni prive di cara
 
 3\. Le aliquote dei dazi calcolate in conformita' al paragrafo 1 sono applicate arrotondando alla prima cifra decimale, senza tener conto della seconda cifra decimale.
 
-##### Articolo 191
+###### Articolo 191
 
 In nessun caso si applicano all'interno della Comunita' dazi doganali superiori a quelli applicati nei confronti dei paesi terzi che beneficiano della clausola della nazione piu' favorita.
 
@@ -3295,17 +3293,17 @@ In caso di modifica o sospensione dei dazi della tariffa doganale comune, di app
 
 In caso di modifica o sospensione dei dazi della tariffa unificata CECA, di applicazione dell'articolo 201 da parte della Repubblica portoghese o di coesistenza, in Portogallo, di dazi specifici nei confronti della Comunita' nella sua composizione attuale e di dazi ad valorem nei confronti di paesi terzi per una stessa voce o sottovoce tariffaria, la Commissione puo' prendere le misure necessarie per mantenere la preferenza comunitaria.
 
-##### Articolo 192
+###### Articolo 192
 
 La Repubblica portoghese puo' sospendere totalmente o parzialmente la riscossione dei dazi applicabili ai prodotti importati dalla Comunita' nella sua composizione attuale. Essa ne informa gli altri stati membri e la Commissione.
 
 Il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, puo' sospendere totalmente o parzialmente la riscossione dei dazi applicabili ai prodotti importati dal Portogallo.
 
-##### Articolo 193
+###### Articolo 193
 
 Le tasse di effetto equivalente a dazi doganali all'importazione tra la Comunita' nella sua composizione attuale e il Portogallo sono abolite il 1 marzo 1986.
 
-##### Articolo 194
+###### Articolo 194
 
 Le tasse elencate qui di seguito, applicate dal Portogallo nei suoi scambi con la Comunita' nella sua composizione attuale sono progressivamente abolite secondo il ritmo seguente:
 
@@ -3329,11 +3327,11 @@ b) La tassa dello 0,9% ad valorem applicata alle merci importate per il consumo 
 
 \- abolita il 1 gennaio 1991.
 
-##### Articolo 195
+###### Articolo 195
 
 I dazi doganali all'esportazione e le tasse di effetto equivalente negli scambi tra la Comunita' nella sua composizione attuale e il Portogallo sono aboliti il 1 marzo 1986.
 
-##### Articolo 196
+###### Articolo 196
 
 1\. La Repubblica portoghese abolisce il 1 marzo 1986 i dazi doganali di carattere fiscale o l'elemento fiscale dei dazi doganali esistenti a tale data sulle importazioni in provenienza dalla Comunita' nella sua composizione attuale.
 
@@ -3345,7 +3343,7 @@ Parte di provvedimento in formato grafico
 
 Se la Repubblica portoghese si avvale di questa facolta' l'elemento eventualmente non coperto dalla tassa interna rappresenta il dazio di base di cui all'articolo 189. Questo elemento viene abolito negli scambi con la Comunita' e ravvicinato alla tariffa doganale comune e alla tariffa unificata CECA secondo il ritmo stabilito dagli articoli 190 e 197.
 
-##### Articolo 197
+###### Articolo 197
 
 1\. Ai fini dell'applicazione progressiva della tariffa doganale comune e della tariffa unificata CECA, la Repubblica portoghese modifica come segue la sua tariffa applicabile nei confronti dei paesi terzi:
 
@@ -3375,13 +3373,13 @@ A decorrere dal 1 gennaio 1993 la Repubblica portoghese applica integralmente la
 
 2\. In deroga al paragrafo 1, per i prodotti elencati nell'allegato dell'accordo relativo al commercio degli aeromobili civili concluso nell'ambito dei negoziati commerciali dal 1973 al 1979 dell'accordo generale sulle tariffe doganali e sul commercio la Repubblica portoghese applica integralmente la tariffa doganale comune a decorrere dal 1 marzo 1986.
 
-##### Articolo 198
+###### Articolo 198
 
 I dazi autonomi iscritti nella tariffa doganale comune della Comunita' sono i dazi autonomi della Comunita' nella sua composizione attuale. I dazi convenzionali della tariffa doganale comune della CEE e la tariffa unificata CECA sono i dazi convenzionali della CEE e della CECA nella loro composizione attuale, eccettuati gli adattamenti che saranno operati per tenere conto del fatto che i dazi in vigore nelle tariffe spagnola e portoghese sono, nell'insieme, piu' elevati dei dazi in vigore nelle tariffe della CEE e della CECA nella loro composizione attuale.
 
 Questi adattamenti, che formeranno oggetto di negoziati nel quadro dell'accordo generale sulle tariffe doganali e sul commercio, si situeranno entro i limiti delle possibilita' aperte dall'articolo XXIV di detto accordo.
 
-##### Articolo 199
+###### Articolo 199
 
 1\. Nei casi in cui i dazi della tariffa doganale della Repubblica portoghese siano di natura diversa dai corrispondenti dazi della tariffa doganale comune o della tariffa unificata CECA, il progressivo ravvicinamento dei primi verso i secondi si opera addizionando gli elementi del dazio di base portoghese con quelli del dazio della tariffa doganale comune o con quelli della tariffa unificata CECA; il dazio di base portoghese e' ridotto progressivamente a 0, secondo i ritmi fissati dall'articolo 197 e dall'articolo 243, punto 2, mentre il dazio della tariffa doganale comune o della tariffa unificata CECA parte da zero per raggiungere progressivamente e secondo gli stessi ritmi il suo importo definitivo.
 
@@ -3399,7 +3397,7 @@ In caso di modifica della nomenclatura della tariffa doganale comune o della tar
 
 Nel caso in cui i dazi portoghesi vengano ravvicinati ai dazi della tariffa doganale comune o della tariffa unificata CECA inferiori ai dazi di base portoghesi, gli arrotondamenti si effettuano non tenendo conto della seconda cifra decimale. Negli altri casi, essi si effettuano applicando la cifra decimale superiore.
 
-##### Articolo 200
+###### Articolo 200
 
 1\. Per i prodotti che figurano nell'elenco dell'allegato XVIII i dazi di base per il ravvicinamento verso la tariffa doganale comune e verso la tariffa unificata CECA sono i dazi risultanti dall'applicazione da parte della Repubblica portoghese, il 1 gennaio 1985, delle esenzioni tariffarie (sospensioni totali) e delle riduzioni tariffarie (sospensioni parziali).
 
@@ -3411,23 +3409,23 @@ Nel caso in cui i dazi portoghesi vengano ravvicinati ai dazi della tariffa doga
 
 5\. Dal momento dell'adesione, la Repubblica portoghese applica senza discriminazioni le esenzioni e riduzioni tariffarie gradualmente ravvicinate alla tariffa doganale comune e alla tariffa unificata CECA.
 
-##### Articolo 201
+###### Articolo 201
 
 Per allineare la sua tariffa alla tariffa doganale comune e alla tariffa unificata CECA la Repubblica portoghese resta libera di modificare i suoi dazi doganali a un ritmo piu' rapido di quello previsto dall'articolo 197. Essa ne informa gli altri stati membri e la Commissione.
 
-## Sezione II - Abolizione delle restrizioni quantitative e delle misure di effetto equivalente
+##### Sezione II - Abolizione delle restrizioni quantitative e delle misure di effetto equivalente
 
-##### Articolo 202
+###### Articolo 202
 
 Le restrizioni quantitative all'importazione e all'esportazione nonche' qualsiasi misura di effetto equivalente tra la Comunita' nella composizione attuale e la Repubblica portoghese sono abolite il 1 gennaio 1986.
 
-##### Articolo 203
+###### Articolo 203
 
 In deroga all'articolo 202 gli stati membri attuali e la Repubblica portoghese possono mantenere nei loro scambi le restrizioni all'esportazione di rottami, cascami e avanzi di lavori di ghisa, di ferro e di acciaio della voce 73.03 della tariffa doganale comune.
 
 Questo regime puo' essere mantenuto fino al 31 dicembre 1988 per quanto concerne le esportazioni dagli stati membri della Comunita' nella sua composizioni attuale verso il Portogallo e fino al 31 dicembre 1990 per quanto concerne le esportazioni dal Portogallo verso gli stati membri attuali, purche' tale regime non sia piu' restrittivo di quello applicato alle esportazioni verso i paesi terzi.
 
-##### Articolo 204
+###### Articolo 204
 
 1\. In deroga all'articolo 202, fino al 31 dicembre 1988 la Repubblica portoghese puo' continuare ad esigere a scopi esclusivamente statistici, all'importazione e all'esportazione, la registrazione preventiva dei prodotti diversi da quelli compresi nell'allegato II del trattato CEE e dei prodotti che rientrano nel trattato CECA.
 
@@ -3435,7 +3433,7 @@ Questo regime puo' essere mantenuto fino al 31 dicembre 1988 per quanto concerne
 
 3\. Dal momento dell'adesione, la condizione di una preventiva iscrizione dell'importatore o dell'esportatore e' abolita.
 
-##### Articolo 205
+###### Articolo 205
 
 In deroga all'articolo 202, la Repubblica portoghese abolisce lo scarto discriminante esistente tra il tasso di rimborso, da parte degli organismi di sicurezza sociale, dei medicinali prodotti in Portogallo e il tasso di rimborso dei medicinali importati dagli stati membri attuali, in tre tappe annue di portata uguale, alle seguenti date:
 
@@ -3445,15 +3443,15 @@ In deroga all'articolo 202, la Repubblica portoghese abolisce lo scarto discrimi
 
 \- 1 gennaio 1989.
 
-##### Articolo 206
+###### Articolo 206
 
 In deroga all'articolo 202, agli scambi di taluni prodotti tessili tra il Portogallo e gli altri stati membri della Comunita' e' applicato il regime descritto nel, protocollo n. 17.
 
-##### Articolo 207
+###### Articolo 207
 
 In deroga all'articolo 202, la Repubblica portoghese e' autorizzata a mantenere fino al 31 dicembre 1987 le restrizioni quantitative sulle importazioni, in provenienza dagli altri stati membri, degli autoveicoli di cui al protocollo n. 18, nei limiti del sistema di contingenti all'importazione descritto in detto protocollo.
 
-##### Articolo 208
+###### Articolo 208
 
 1\. Fatto salvo il paragrafo 2 del presente articolo, la Repubblica portoghese procede, a decorrere dal 1 gennaio 1986, ad un progressivo riordinamento dei monopoli nazionali che presentano un carattere commerciale, ai sensi dell'articolo 37, paragrafo 1 del trattato CEE, in modo che venga esclusa, anteriormente al 1 gennaio 1993, qualsiasi discriminazione fra i cittadini degli stati membri per quanto riguarda le condizioni relative all'approvvigionamento ed agli sbocchi.
 
@@ -3467,15 +3465,15 @@ La Commissione formula le sue raccomandazioni di riordinamento in merito alla re
 
 Dal momento dell'adesione, la Repubblica portoghese apre per ciascuno dei prodotti in questione un contingente pari al totale delle quote di commercializzazione detenute prima di questa data dalle imprese diverse da Petrogal. Questo contingente viene progressivamente aumentato dai quantitativi liberalizzati secondo le raccomandazioni della Commissione.
 
-##### Articolo 209
+###### Articolo 209
 
 1\. In deroga dall'articolo 202, il titolare, o il suo avente diritto, di un brevetto per un prodotto chimico, farmaceutico, alimentare o fitosanitario depositato in uno stato membro a un'epoca in cui non era possibile ottenere in Portogallo un brevetto per tale prodotto puo' avvalersi del diritto che il brevetto gli conferisce, allo scopo di impedire l'importazione e la commercializzazione del prodotto in questione nello stato membro attuale o negli stati membri attuali in cui il prodotto e' protetto dal brevetto, anche se questo prodotto e' immesso per la prima volta in commercio in Portogallo, dallo stesso titolare o suo avente diritto o con il suo consenso.
 
 2\. Questo diritto puo' essere fatto valere, per i prodotti di cui al paragrafo 1, fino alla fine del terzo anno successivo all'introduzione, da parte del Portogallo, della possibilita' di ottenere un brevetto per i prodotti in questione.
 
-## Sezione III - Altre disposizioni
+##### Sezione III - Altre disposizioni
 
-##### Articolo 210
+###### Articolo 210
 
 1\. La Commissione stabilisce, tenendo debitamente conto delle disposizioni vigenti ed in particolare di quelle relative al transito comunitario, i metodi di collaborazione amministrativa intesi ad assicurare dal 1 marzo 1986 che le merci rispondenti alle condizioni a tal fine stabilite fruiscano dell'abolizione dei dazi doganali e delle tasse di effetto equivalente, nonche' delle restrizioni quantitative e misure di effetto equivalente, di cui al presente atto.
 
@@ -3489,7 +3487,7 @@ Dal momento dell'adesione, la Repubblica portoghese apre per ciascuno dei prodot
 
 Nell'adottare tali disposizioni la Commissione prende in considerazione le norme previste dal presente atto per l'abolizione dei dazi doganali tra la Comunita' nella sua composizione attuale e il Portogallo e quelle per la progressiva applicazione, da parte della Repubblica portoghese, della tariffa doganale comune e delle disposizioni in materia di politica agricola comune.
 
-##### Articolo 211
+###### Articolo 211
 
 1\. Salvo disposizione contraria del presente atto, le disposizioni vigenti in materia di legislazione doganale per gli scambi con i paesi terzi si applicano alle stesse condizioni agli scambi all'interno della Comunita', fintantoche' sono riscossi dei dazi doganali su tali scambi.
 
@@ -3503,7 +3501,7 @@ Per gli scambi all'interno della Comunita', nonche' per gli scambi coi paesi ter
 
 La Repubblica portoghese puo' riprendere all'interno di tali nomenclature le suddivisioni nazionali esistenti al momento dell'adesione che siano indispensabili affinche' la progressiva abolizione dei suoi dazi doganali all'interno della Comunita' si compia alle condizioni previste dal presente atto.
 
-##### Articolo 212
+###### Articolo 212
 
 La Repubblica portoghese termina, in un periodo di cinque anni a decorrere dall'adesione, la ristrutturazione della sua industria siderurgica alle condizioni definite nel protocollo n. 20.
 
@@ -3515,7 +3513,7 @@ portoghese, tenuto conto degli elementi significativi del ristabilimento della v
 
 \- delle misure siderurgiche che saranno in vigore nella Comunita' dopo l'adesione; in questo caso il regime applicabile dopo l'adesione alle forniture portoghesi verso la Comunita' nella sua composizione attuale non dovrebbe comportare differenze fondamentali di trattamento tra il Portogallo e gli altri stati membri.
 
-##### Articolo 213
+###### Articolo 213
 
 1\. Se negli scambi tra la Comunita' nella sua composizione attuale e la Repubblica portoghese vengono applicati gli importi compensativi di cui all'articolo 240 o il meccanismo compensativo di cui all'articolo 270 su uno o piu' prodotti di base considerati come entranti nella fabbricazione delle merci di cui al regolamento (CEE) n. 3033/80 del Consiglio, dell'11 novembre 1980, che determina il regime di scambi applicabile a talune merci risultanti dalla trasformazione di prodotti agricoli, si applicano le seguenti misure transitorie:
 
@@ -3545,21 +3543,21 @@ Ciascun elemento fisso applicato dalla Repubblica portoghese all'importazione in
 
 6\. Qualora sia accordata ai paesi terzi che beneficiano del sistema comunitario delle preferenze generalizzate una riduzione dell'elemento mobile del dazio della tariffa doganale comune, la Repubblica portoghese applica tale elemento mobile preferenziale fin dalla data in cui inizia, nel corso del primo anno della seconda tappa del regime transitorio, l'applicazione delle regole della seconda tappa per i prodotti di base la cui campagna inizia per ultima.
 
-## Sezione IV - Scambi tra la Repubblica portoghese e il Regno di Spagna
+##### Sezione IV - Scambi tra la Repubblica portoghese e il Regno di Spagna
 
-##### Articolo 214
+###### Articolo 214
 
 La Repubblica portoghese applica nei suoi scambi con il Regno di Spagna gli articoli da 189 a 213, con riserva delle condizioni stabilite nel protocollo n. 3.
 
-## CAPO 2 - Libera circolazione delle persone, dei servizi e dei capitali
+#### CAPO 2 - Libera circolazione delle persone, dei servizi e dei capitali
 
-### Sezione I - I lavoratori
+##### Sezione I - I lavoratori
 
-##### Articolo 215
+###### Articolo 215
 
 L'articolo 48 del trattato CEE e' applicabile, per quanto concerne la libera circolazione dei lavoratori tra il Portogallo e gli altri stati membri, soltanto con riserva delle disposizioni transitorie di cui agli articoli da 216 a 219 del presente atto.
 
-##### Articolo 216
+###### Articolo 216
 
 1\. Gli articoli da 1 a 6 del regolamento (CEE) n. 1612/68 relativo alla libera circolazione dei lavoratori all'interno della Comunita' sono applicabili soltanto dal 1 gennaio 1993 in Portogallo nei confronti dei cittadini degli altri stati membri e negli altri stati membri nei confronti dei cittadini portoghesi.
 
@@ -3571,7 +3569,7 @@ Tuttavia la Repubblica portoghese ed il Granducato del Lussemburgo hanno la faco
 
 Al termine di questo esame il Consiglio, deliberando all'unanimita' su proposta della Commissione, puo' adottare, in base a nuovi dati, disposizioni destinate ad adattare dette misure.
 
-##### Articolo 217
+###### Articolo 217
 
 1\. Fino al 31 dicembre 1990 l'articolo 11 del regolamento (CEE) n. 1612/68 e' applicabile in Portogallo nei confronti dei cittadini degli altri stati membri e negli altri stati membri nei confronti dei cittadini portoghesi alle condizioni indicate qui di seguito:
 
@@ -3583,15 +3581,15 @@ Il presente paragrafo non pregiudica le disposizioni piu' favorevoli, nazionali 
 
 2\. Il regime di cui al paragrafo 1 e' applicabile anche ai membri della famiglia del lavoratore autonomo installati con questo in uno stato membro.
 
-##### Articolo 218
+###### Articolo 218
 
 Nella misura in cui talune disposizioni della direttiva 68/360/CEE relativa alla soppressione delle restrizioni al trasferimento e al soggiorno dei lavoratori degli stati membri e delle loro famiglie all'interno della Comunita' sono indissociabili da quelle disposizioni del regolamento (CEE) n. 1612/68 la cui applicazione e' differita in virtu' dell'articolo 216, la Repubblica portoghese e gli altri stati membri hanno la facolta' di derogare alle disposizioni in questione nella misura necessaria all'applicazione delle disposizioni all'articolo 216 che derogano al regolamento citato.
 
-##### Articolo 219
+###### Articolo 219
 
 La Repubblica portoghese e gli altri stati membri, assistiti dalla Commissione, prendono le misure necessarie affinche', al piu' tardi il 1 gennaio 1993, possa essere estesa al Portogallo l'applicazione della decisione della Commissione, dell'8 dicembre 1972, concernente il sistema uniforme stabilito in applicazione dell'articolo 15 del regolamento (CEE) n. 1612/68 del Consiglio, sistema denominato "Sedoc", e la decisione della commissione, del 14 dicembre 1972, concernente lo "schema comunitario" per la raccolta e la diffusione delle informazioni di cui all'articolo 14, paragrafo 3 del regolamento (CEE) n. 1612/68 del Consiglio.
 
-##### Articolo 220
+###### Articolo 220
 
 1\. Fino all'entrata in vigore della soluzione uniforme per tutti gli stati membri, di cui all'articolo 99 del regolamento (CEE) n. 1408/71 relativo all'applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all'interno della Comunita', ma non oltre il 31 dicembre 1988, gli articoli 73, paragrafi 1 e 3, 74, paragrafo 1 e 75, paragrafo 1 del regolamento (CEE) n. 1408/71, nonche' gli articoli 86 e 88 del regolamento (CEE) 574/72 che stabilisce le modalita' di applicazione del regolamento (CEE) n. 1408/71 non si applicano ai lavoratori portoghesi occupati in uno stato membro che non sia il Portogallo, i cui membri della famiglia risiedono in Portogallo.
 
@@ -3629,9 +3627,9 @@ e) Portogallo - Paesi Bassi
 
 \- articoli 36 e 37 dell'accordo amministrativo del 9 maggio 1980.
 
-## Sezione II - Diritto di stabilimento, servizi, movimenti di capitali e transazioni invisibili
+##### Sezione II - Diritto di stabilimento, servizi, movimenti di capitali e transazioni invisibili
 
-##### Articolo 221
+###### Articolo 221
 
 La Repubblica portoghese puo' mantenere restrizioni al diritto di stabilimento e alla libera prestazione dei servizi:
 
@@ -3639,7 +3637,7 @@ La Repubblica portoghese puo' mantenere restrizioni al diritto di stabilimento e
 
 \- fino al 31 dicembre 1990, per le attivita' che rientrano nel settore del cinema.
 
-##### Articolo 222
+###### Articolo 222
 
 1\. La Repubblica portoghese puo' mantenere fino al 31 dicembre 1989 un regime di autorizzazione preventiva per gli investimenti diretti, ai sensi della prima direttiva del Consiglio, dell'11 maggio 1960, per l'applicazione dell'articolo 67 del trattato CEE, modificata e completata dalla seconda direttiva 63/21/CEE del Consiglio, del 18 dicembre 1962, e dall'atto di adesione del 1972, i quali siano stati effettuati in Portogallo da cittadini degli altri stati membri, siano connessi con l'esercizio del diritto di stabilimento o di libera prestazione dei servizi ed abbiano un valore globale superiore agli importi seguenti:
 
@@ -3657,17 +3655,17 @@ La Repubblica portoghese puo' mantenere restrizioni al diritto di stabilimento e
 
 4\. Non si puo' discriminare tra gli investitori di cui al paragrafo 1; essi non possono ricevere un trattamento meno favorevole di quello accordato ai cittadini di paesi terzi.
 
-##### Articolo 223
+###### Articolo 223
 
 1\. La Repubblica portoghese puo' differire, alle condizioni e nei termini di cui agli articoli da 224 a 229, la liberalizzazione dei movimenti di capitali che figurano negli elenchi A e B della prima direttiva del Consiglio, dell'11 maggio 1960, per l'applicazione dell'articolo 67 del trattato CEE e della seconda direttiva del Consiglio, del 18 dicembre 1962, che completa e modifica la prima direttiva per l'applicazione dell'articolo 67 del trattato CEE.
 
 2\. Fra le autorita' portoghesi e la Commissione si tengono, in tempo utile, idonee consultazioni sulle modalita' d'applicazione delle misure di liberalizzazione o di mitigazione la cui attuazione puo' essere differita a norma delle disposizioni che seguono.
 
-##### Articolo 224
+###### Articolo 224
 
 La Repubblica portoghese puo' differire fino al 31 dicembre 1992 la liberalizzazione degli investimenti diretti effettuati negli altri stati membri da persone residenti in Portogallo.
 
-##### Articolo 225
+###### Articolo 225
 
 1\. La Repubblica portoghese puo' differire fino al 31 dicembre 1990 la liberalizzazione dei trasferimenti relativi ad acquisti, effettuati in Portogallo da persone residenti negli altri stati membri, d'immobili costruiti e destinati ad abitazione, nonche' di terreni gia' destinati alla coltivazione agricola o classificati come terreni agricoli ai sensi della legislazione portoghese alla data dell'adesione.
 
@@ -3677,7 +3675,7 @@ La Repubblica portoghese puo' differire fino al 31 dicembre 1992 la liberalizzaz
 
 \- agli acquisti di cui al paragrafo 1, connessi all'esercizio del diritto di stabilimento da parte di lavoratori non salariati, residenti negli altri stati membri, che emigrano in Portogallo.
 
-##### Articolo 226
+###### Articolo 226
 
 1\. La Repubblica portoghese puo' mantenere, fino al 31 dicembre 1990 e secondo le condizioni definite al paragrafo 2, restrizioni al trasferimento del prodotto della liquidazione degli investimenti immobiliari effettuati in Portogallo da parte di persone residenti negli altri stati membri.
 
@@ -3697,7 +3695,7 @@ b) Se la liquidazione supera l'importo definito alla lettera a), il trasferiment
 
 3\. Durante il periodo di applicazione di questa misura transitoria saranno mantenute ed applicate, in modo non discriminatorio verso tutti gli altri stati membri, le agevolazioni generali o particolari relative al libero trasferimento del prodotto della liquidazione degli investimenti immobiliari di cui al paragrafo 1, esistenti in virtu' di disposizioni portoghesi o di convenzioni disciplinanti le relazioni tra la Repubblica portoghese ed un altro stato membro o un paese terzo.
 
-##### Articolo 227
+###### Articolo 227
 
 La Repubblica portoghese puo' differire fino al 31 dicembre 1992 la liberalizzazione dei trasferimenti relativi agli investimenti immobiliari in un altro stato membro, effettuati:
 
@@ -3705,7 +3703,7 @@ La Repubblica portoghese puo' differire fino al 31 dicembre 1992 la liberalizzaz
 
 \- da lavoratori non salariati residenti in Portogallo che emigrano, purche' gli investimenti in questione non siano connessi al loro stabilimento.
 
-##### Articolo 228
+###### Articolo 228
 
 1\. La Repubblica portoghese puo' mantenere, fino al 31 dicembre 1990 e secondo le condizioni definite al paragrafo 2, restrizioni alle operazioni di cui alla rubrica X, punti B, C, D, E, F e H dell'elenco A allegato alle direttive di cui all'articolo 223, effettuate a destinazione degli altri stati membri.
 
@@ -3719,7 +3717,7 @@ La Repubblica portoghese puo' differire fino al 31 dicembre 1992 la liberalizzaz
 
 \- al 1 gennaio 1990 a 45.000 e a 18.000 ECU.
 
-##### Articolo 229
+###### Articolo 229
 
 La Repubblica portoghese puo' differire fino al 31 dicembre 1990 la liberalizzazione delle operazioni comprese nella rubrica IV, punti B 1 e 3 dell'elenco B allegato alle direttive di cui all'articolo 223, effettuate da persone residenti in Portogallo.
 
@@ -3735,7 +3733,7 @@ Tuttavia, le operazioni su titoli emessi dalle Comunita' europee e dalla Banca e
 
 \- dal 1 gennaio 1990, questo massimale e' fissato a 27 milioni di ECU.
 
-##### Articolo 230
+###### Articolo 230
 
 1\. La Repubblica portoghese puo' mantenere, fino al 31 dicembre 1990 ed alle condizioni indicate al paragrafo 2, restrizioni ai trasferimenti relativi al turismo.
 
@@ -3751,19 +3749,19 @@ Tuttavia, le operazioni su titoli emessi dalle Comunita' europee e dalla Banca e
 
 \- a 900 ECU per il 1990.
 
-##### Articolo 231
+###### Articolo 231
 
 Se le circostanze lo permettono la Repubblica portoghese attuera' la liberalizzazione dei movimenti di capitali e delle transazioni invisibili di cui agli articoli da 224 a 230 prima della scadenza dei termini fissati in tali articoli.
 
-##### Articolo 232
+###### Articolo 232
 
 Per l'applicazione degli articoli da 223 a 231 la Commissione puo' procedere alla consultazione del comitato monetario e presentare ogni utile proposta al Consiglio.
 
-## CAPO 3 - Agricoltura
+#### CAPO 3 - Agricoltura
 
-### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
-##### Articolo 233
+###### Articolo 233
 
 1\. Il presente capo concerne i prodotti agricoli, ad eccezione dei prodotti che rientrano nel regolamento (CEE) n. 3796/81 relativo all'organizzazione comune dei mercati nel settore dei prodotti della pesca.
 
@@ -3771,7 +3769,7 @@ Per l'applicazione degli articoli da 223 a 231 la Commissione puo' procedere all
 
 3\. Con riserva delle disposizioni particolari del presente capo che fissano date o termini diversi, l'applicazione delle misure transitorie per i prodotti agricoli di cui al paragrafo 1 termina alla fine del 1995.
 
-##### Articolo 234
+###### Articolo 234
 
 1\. L'applicazione della regolamentazione comunitaria ai prodotti che rientrano nel presente capo si effettua secondo una transizione "classica" o una transizione "per tappe", le cui modalita' generali sono definite rispettivamente nelle sezioni II e III e le cui modalita' specifiche lo sono, per settore di prodotti, nelle sezioni IV e V.
 
@@ -3781,17 +3779,17 @@ Queste disposizioni possono, in particolare, contenere appropriati provvedimenti
 
 3\. Il Consiglio, deliberando all'unanimita' su proposta della Commissione e previa consultazione dell'Assemblea, puo' procedere agli adattamenti delle modalita' di cui al presente capo che possono risultare necessari in caso di modifica della regolamentazione comunitaria.
 
-## Sezione II - Transizione classica
+##### Sezione II - Transizione classica
 
-### Sottosezione I - Campo di applicazione
+**Sottosezione I - Campo di applicazione**
 
-##### Articolo 235
+###### Articolo 235
 
 Le disposizioni della presente sezione si applicano a tutti i prodotti agricoli di cui all'articolo 233, ad eccezione di quelli di cui all'articolo 259.
 
-## Sottosezione 2 - Ravvicinamento e compensazione dei prezzi
+**Sottosezione 2 - Ravvicinamento e compensazione dei prezzi**
 
-##### Articolo 236
+###### Articolo 236
 
 Fino al primo dei ravvicinamenti dei prezzi di cui all'articolo 238 i prezzi da applicare in Portogallo sono fissati secondo le regole previste dall'organizzazione comune dei mercati nel settore in questione ad un livello corrispondente a quello dei prezzi fissati in Portogallo, durante un periodo rappresentativo da determinare per ogni prodotto, sotto il regime nazionale precedente.
 
@@ -3801,13 +3799,13 @@ Se per un dato prodotto non esiste una definizione del prezzo portoghese, il pre
 
 Tuttavia, in assenza di dati sui prezzi relativi a taluni prodotti sul mercato portoghese, il prezzo da applicare in Portogallo e' calcolato sulla base dei prezzi dei prodotti o gruppi di prodotti simili o concorrenti praticati nella Comunita' nella sua composizione attuale.
 
-##### Articolo 237
+###### Articolo 237
 
 1\. Qualora alla data dell'adesione si constati che la differenza tra il livello del prezzo di un prodotto in Portogallo e quello del prezzo comune e minima, il prezzo comune puo' essere applicato in Portogallo per tale prodotto.
 
 2\. La differenza di cui al paragrafo 1 e' considerata minima se e' inferiore o uguale al 3% del prezzo comune.
 
-##### Articolo 238
+###### Articolo 238
 
 1\. Qualora l'applicazione dell'articolo 236 conduca in Portogallo ad un livello di prezzi diverso da quello dei prezzi comuni, i prezzi per i quali nella sezione IV e' fatto riferimento al presente articolo sono ravvicinati, fatto salvo il paragrafo 4, ai prezzi comuni ogni anno all'inizio della campagna di commercializzazione conformemente ai paragrafi 2 e 3.
 
@@ -3841,11 +3839,11 @@ Per detta campagna, tuttavia, puo' decidersi un nuovo scarto rispetto a tale liv
 
 La deroga di cui al primo comma non si applica all'ultimo ravvicinamento di cui al paragrafo 2.
 
-##### Articolo 239
+###### Articolo 239
 
 Qualora alla data dell'adesione o nel corso del periodo di applicazione delle misure transitorie il prezzo sul mercato mondiale per un dato prodotto sia superiore al prezzo comune, il prezzo comune puo' essere applicato in Portogallo per il prodotto in questione, tranne nel caso in cui il prezzo applicato in Portogallo sia superiore al prezzo comune.
 
-##### Articolo 240
+###### Articolo 240
 
 Le differenze nei livelli dei prezzi per i quali nella sezione IV e' fatto riferimento al presente articolo sono compensate secondo le seguenti modalita':
 
@@ -3869,11 +3867,11 @@ Il Consiglio, deliberando a maggioranza qualificata su proposta della Commission
 
 6\. Il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, puo', nella misura necessaria al buon funzionamento della politica agricola comune, derogare all'articolo 211, paragrafo 1, primo comma per i prodotti ai quali si applicano gli importi compensativi.
 
-##### Articolo 241
+###### Articolo 241
 
 Qualora per un prodotto il prezzo del mercato mondiale superi il prezzo preso in considerazione per il calcolo degli oneri all'importazione instaurati nell'ambito della politica agricola comune, ridotto dell'importo compensativo che in applicazione dell'articolo 240 viene dedotto dagli oneri all'importazione, oppure qualora la restituzione all'esportazione verso i paesi terzi sia inferiore all'importo compensativo o nessuna restituzione sia applicabile, possono adottarsi misure appropriate per assicurare il buon funzionamento dell'organizzazione comune dei mercati.
 
-##### Articolo 242
+###### Articolo 242
 
 1\. Gli importi compensativi versati sono finanziati dalla Comunita' e imputati al Fondo europeo agricolo di orientamento e garanzia, sezione garanzia.
 
@@ -3881,9 +3879,9 @@ Qualora per un prodotto il prezzo del mercato mondiale superi il prezzo preso in
 
 Dalla seconda tappa le spese in materia di intervento sul mercato interno portoghese e di concessione di restituzioni all'esportazione verso i paesi terzi sono finanziate dalla Comunita' e imputate al Fondo europeo agricolo di orientamento e garanzia, sezione garanzia.
 
-## Sottosezione 3 - Libera circolazione e unione doganale
+**Sottosezione 3 - Libera circolazione e unione doganale**
 
-##### Articolo 243
+###### Articolo 243
 
 Per i prodotti la cui importazione dai paesi terzi nella Comunita' nella sua composizione attuale e' sottoposta all'applicazione di dazi doganali, s'applicano le seguenti disposizioni:
 
@@ -4071,7 +4069,7 @@ b) la Commissione puo' sospendere totalmente o parzialmente i dazi doganali appl
 
 I dazi doganali risultanti da un ravvicinamento accelerato o sospesi non possono essere inferiori a quelli applicati all'importazione dei medesimi prodotti dagli altri stati membri.
 
-##### Articolo 244
+###### Articolo 244
 
 1\. Per i prodotti che al momento dell'adesione sono soggetti all'organizzazione comune dei mercati, negli scambi tra il Portogallo e gli altri stati membri e tra il Portogallo e i paesi terzi, il regime applicabile nella Comunita' nella sua composizione attuale in materia di dazi doganali e tasse di effetto equivalente e di restrizioni quantitative e misure di effetto equivalente si applica in Portogallo a decorrere dal 1 marzo 1986, fatte salve le disposizioni contrarie del presente capo.
 
@@ -4083,7 +4081,7 @@ Questa disposizione e' applicabile soltanto fino all'istituzione di un'organizza
 
 A condizione che non ne risultino difficolta' per l'applicazione della regolamentazione comunitaria, in particolare per il funzionamento dell'organizzazione comune dei mercati e dei meccanismi transitori previsti dal presente capo, il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, puo' autorizzare la Repubblica portoghese a riprendere, all'interno di questa nomenclatura, le suddivisioni nazionali esistenti che fossero indispensabili perche' il ravvicinamento progressivo alla tariffa doganale comune o l'abolizione dei dazi all'interno della Comunita' si effettuino alle condizioni previste dal presente atto.
 
-##### Articolo 245
+###### Articolo 245
 
 1\. Fino al 31 dicembre 1992 la Repubblica portoghese puo' applicare restrizioni quantitative all'importazione dei prodotti elencati nell'allegato XXI dai paesi terzi.
 
@@ -4103,9 +4101,9 @@ L'aumento e' aggiunto a ciascun contingente e l'aumento successivo e' calcolato 
 
 5\. Per il periodo dal 1 marzo al 31 dicembre 1986 il contingente applicabile e' pari al contingente iniziale diminuito di un sesto.
 
-## Sottosezione 4 - Aiuti
+**Sottosezione 4 - Aiuti**
 
-##### Articolo 246
+###### Articolo 246
 
 1\. Il presente articolo si applica agli aiuti, premi ed altri importi analoghi istituiti nell'ambito della politica agricola comune per i quali nella sezione IV e' fatto riferimento al presente articolo.
 
@@ -4123,7 +4121,7 @@ c) All'inizio della campagna o dei periodi d'applicazione successivi, il livello
 
 d) Il livello dell'aiuto comunitario e' integralmente applicato in Portogallo all'inizio della settima campagna di commercializzazione o del settimo periodo di applicazione dell'aiuto dopo l'adesione.
 
-##### Articolo 247
+###### Articolo 247
 
 1\. Fatte salve le disposizioni dell'articolo 246 la Repubblica portoghese e' autorizzata a mantenere gli aiuti nazionali la cui abolizione comporterebbe gravi conseguenze al livello dei prezzi, tanto alla produzione quanto al consumo. Questi aiuti possono essere tuttavia mantenuti soltanto a titolo transitorio e, di norma, in maniera degressiva, al massimo fino alla fine del periodo d'applicazione delle misure transitorie.
 
@@ -4131,7 +4129,7 @@ d) Il livello dell'aiuto comunitario e' integralmente applicato in Portogallo al
 
 3\. Se necessario, durante il periodo d'applicazione delle misure transitorie si puo' derogare alla scala di degressivita' di cui al paragrafo 2.
 
-##### Articolo 248
+###### Articolo 248
 
 1\. In casi eccezionali debitamente giustificati la Repubblica portoghese puo' essere autorizzata a reintrodurre, a carico del proprio bilancio, aiuti temporanei alla produzione, a condizione che tali aiuti siano stati concessi sotto il regime nazionale precedente e che si riveli che la loro soppressione prima dell'adesione ha avuto conseguenze gravi al livello della produzione.
 
@@ -4139,9 +4137,9 @@ d) Il livello dell'aiuto comunitario e' integralmente applicato in Portogallo al
 
 Il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, adotta le misure eventualmente necessarie, le quali dovranno comprendere le stesse modalita' e gli stessi elementi di quelli previsti all'articolo 247, paragrafo 2.
 
-## Sottosezione 5 - Meccanismo complementare applicabile agli scambi
+**Sottosezione 5 - Meccanismo complementare applicabile agli scambi**
 
-##### Articolo 249
+###### Articolo 249
 
 1\. E' instaurato un meccanismo complementare applicabile agli scambi tra la Comunita' nella sua composizione attuale e il Portogallo, qui di seguito denominato M C S.
 
@@ -4153,7 +4151,7 @@ L'elenco di cui all'allegato XXII puo' essere completato, secondo la procedura p
 
 3\. All'inizio di ogni anno la Commissione presenta al Consiglio una relazione sul funzionamento del M C S nel corso dell'anno precedente.
 
-##### Articolo 250
+###### Articolo 250
 
 1\. E' istituito un comitato ad hoc, composto di rappresentanti degli stati membri e presieduto da un rappresentante della Commissione.
 
@@ -4169,7 +4167,7 @@ Il presidente non partecipa al voto.
 
 Se, al termine di un periodo di un mese a decorrere dalla data in cui la proposta e' pervenuta al Consiglio quest'ultimo non ha deliberato, la Commissione adotta le misure proposte e le applica immediatamente, a meno che il Consiglio non si sia pronunciato a maggioranza semplice contro dette misure.
 
-##### Articolo 251
+###### Articolo 251
 
 1\. In linea di massima all'inizio di ogni campagna di commercializzazione viene stabilito, secondo la procedura prevista dall'articolo 38 del regolamento n. 136/66/CEE o, secondo i casi, dagli articoli corrispondenti degli altri regolamenti relativi all'organizzazione comune dei mercati agricoli, un bilancio di previsione per ciascuno dei prodotti o gruppi di prodotti sottoposti al M C S.
 
@@ -4181,7 +4179,7 @@ Per il periodo dal 1 marzo 1986 all'inizio della campagna di commercializzazione
 
 A tale scopo e' stabilito, secondo la procedura di cui al paragrafo 1, un tasso di progressione annuo del massimale. Nell'ambito del massimale indicativo globale possono essere stabiliti massimali corrispondenti ai vari periodi della campagna di commercializzazione in questione.
 
-##### Articolo 252
+###### Articolo 252
 
 1\. Nel caso in cui l'esame dell'evoluzione degli scambi intracomunitari riveli un aumento significativo delle importazioni realizzate o prevedibili e se questa situazione porta a raggiungere o a superare il massimale indicativo di importazione del prodotto per la campagna di commercializzazione in corso o per una parte di questa, la Commissione, a richiesta di uno stato membro o di sua iniziativa, decide secondo una procedura d'urgenza:
 
@@ -4207,9 +4205,9 @@ Le misure restrittive di cui alla lettera b) possono essere prese soltanto nella
 
 4\. L'applicazione del M C S non puo' in nessun caso avere per effetto di trattare i prodotti in provenienza dal Portogallo o dalla Comunita' nella sua composizione attuale in maniera meno favorevole di quelli in provenienza dai paesi terzi che beneficiano della clausola della nazione piu' favorita, smerciati nelle regioni interessate.
 
-## Sottosezione 6 - Altre disposizioni
+**Sottosezione 6 - Altre disposizioni**
 
-##### Articolo 253
+###### Articolo 253
 
 Per migliorare la situazione strutturale in Portogallo, si applicano le misure seguenti:
 
@@ -4223,11 +4221,11 @@ d) inoltre, attuazione di azioni strutturali a favore del Portogallo sotto forma
 
 Il Consiglio, deliberando alle, condizioni previste dall'articolo 258, adotta, se necessario, le misure o le modalita' delle misure di cui al primo comma.
 
-##### Articolo 254
+###### Articolo 254
 
 Qualsiasi scorta di prodotti che si trovano in libera pratica sul territorio portoghese al 1 marzo 1986 e che superano in quantita' quella che puo' essere considerata una scorta normale di riporto deve essere eliminata dalla Repubblica portoghese ed a carico di questa, nel quadro di procedure comunitarie da definire ed entro termini da stabilire, alle condizioni previste dall'articolo 258. La nozione di scorta normale di riporto e' definita per ciascun prodotto in funzione dei criteri e obiettivi propri a ciascuna organizzazione comune di mercato.
 
-##### Articolo 255
+###### Articolo 255
 
 Nella fissazione del livello dei vari importi previsti nell'ambito della politica agricola comune, diversi dai prezzi di cui all'articolo 236, si tiene conto dell'importo compensativo applicato o, in sua assenza, della differenza dei prezzi costatata o economicamente giustificata e, se del caso, dell'incidenza dei dazi doganali, salvo:
 
@@ -4235,19 +4233,19 @@ Nella fissazione del livello dei vari importi previsti nell'ambito della politic
 
 \- se il buon funzionamento della politica agricola comune esige o rende opportuno che non sia tenuto conto di tale importo, differenza o incidenza.
 
-##### Articolo 256
+###### Articolo 256
 
 1\. Il Consiglio, deliberando alle condizioni previste dall'articolo 258, adotta il regime che la Repubblica portoghese applica nei confronti del Regno di Spagna.
 
 2\. Le misure rese necessarie negli scambi tra i nuovi stati membri e la Comunita' nella sua composizione attuale per l'applicazione del regime di cui al paragrafo 1 sono adottate, secondo i casi, nelle condizioni previste dall'articolo 258 o secondo la procedura prevista dall'articolo 234, paragrafo 2.
 
-##### Articolo 257
+###### Articolo 257
 
 1\. Qualora siano necessarie misure transitorie per facilitare il passaggio dal regime esistente in Portogallo a quello derivante dall'attuazione dell'organizzazione comune dei mercati alle condizioni previste nel presente titolo, in particolare nel caso in cui l'applicazione del nuovo regime alla data prevista incontri per alcuni prodotti notevoli difficolta' nella Comunita', tali misure sono adottate secondo la procedura prevista dall'articolo 38 del regolamento n. 136/66/CEE o, secondo i casi, dagli articoli corrispondenti degli altri regolamenti relativi all'organizzazione comune dei mercati agricoli. Tali misure possono essere adottate fino al 31 dicembre 1987; la loro applicazione non puo' andare oltre questa data.
 
 2\. Il Consiglio, deliberando all'unanimita' su proposta della Commissione e previa consultazione dell'Assemblea, puo' prorogare il periodo di cui al paragrafo 1.
 
-##### Articolo 258
+###### Articolo 258
 
 1\. Le misure transitorie relative all'applicazione degli atti concernenti la politica agricola comune e non specificate nel presente atto di adesione, anche in materia di strutture, rese necessarie dall'adesione, sono adottate prima dell'adesione, secondo la procedura prevista dal paragrafo 3 ed entrano in vigore al piu' presto alla data dell'adesione.
 
@@ -4255,11 +4253,11 @@ Nella fissazione del livello dei vari importi previsti nell'ambito della politic
 
 3\. Il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, o la Commissione, deliberando secondo la procedura prevista dall'articolo 257, paragrafo 1, adottano le misure transitorie di cui al paragrafo 1 del presente articolo a seconda che gli atti iniziali cui si riferiscono siano stati adottati dall'una o dall'altra di queste istituzioni.
 
-## Sezione III - Transizione per tappe
+##### Sezione III - Transizione per tappe
 
-### Sottosezione I - Campo di applicazione
+**Sottosezione I - Campo di applicazione**
 
-##### Articolo 259
+###### Articolo 259
 
 1\. Formano oggetto di una transizione per tappe i prodotti che rientrano nei seguenti atti:
 
@@ -4283,7 +4281,7 @@ Nella fissazione del livello dei vari importi previsti nell'ambito della politic
 
 2\. Il glucosio ed il lattosio che rientrano nel regolamento (CEE) n. 2730/75 e l'ovoalbumina e la lattoalbumina che rientrano nel regolamento (CEE) n. 2783/75 formano oggetto di un regime transitorio identico a quello applicabile ai prodotti agricoli corrispondenti.
 
-##### Articolo 260
+###### Articolo 260
 
 1\. La transizione per tappe comprende due periodi di cinque anni:
 
@@ -4295,11 +4293,9 @@ Il passaggio dalla prima alla seconda tappa e' automatico.
 
 2\. In deroga al paragrafo 1, il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione e previa consultazione dell'Assemblea, puo' ridurre la durata della prima tappa ad un periodo di tre anni che termina il 31 dicembre 1988. In questo caso la seconda tappa inizia il 1 gennaio 1989 e termina il 31 dicembre 1995.
 
-## Sottosezione 2 - Prima tappa
+**Sottosezione 2 - Prima tappa A. Mercato interno portoghese**
 
-### A. Mercato interno portoghese
-
-##### Articolo 261
+###### Articolo 261
 
 1\. Durante la prima tappa, la Repubblica portoghese e' autorizzata a mantenere, per i prodotti di cui all'articolo 259, la regolamentazione vigente sotto il regime nazionale precedente per l'organizzazione del proprio mercato interno agricolo, alle condizioni previste dagli articoli da 262 a 265 fatte salve le disposizioni particolari della sezione concernente taluni prodotti.
 
@@ -4307,11 +4303,11 @@ Il passaggio dalla prima alla seconda tappa e' automatico.
 
 Inoltre, salvo disposizioni differenti in casi specifici, e' differita fino al termine della prima tappa l'applicazione alla Comunita' nella sua composizione attuale e al Portogallo delle modifiche apportate alla regolamentazione comunitaria a norma dell'articolo 396.
 
-##### Articolo 262
+###### Articolo 262
 
 Per permettere all'agricoltura portoghese di integrarsi in modo armonioso, alla fine della prima tappa, nel quadro della politica agricola comune, la Repubblica portoghese adattera' progressivamente l'organizzazione del proprio mercato secondo taluni obiettivi generali completati da obiettivi specifici variabili per settore interessato.
 
-##### Articolo 263
+###### Articolo 263
 
 1\. Gli obiettivi generali di cui all'articolo 262 sono:
 
@@ -4331,7 +4327,7 @@ d) inoltre, attuazione di azioni strutturali a favore del Portogallo sotto forma
 
 Il Consiglio, deliberando alle condizioni previste dall'articolo 258, adotta, se necessario, le misure o le modalita' delle misure di cui al primo comma.
 
-##### Articolo 264
+###### Articolo 264
 
 1\. Gli obiettivi specifici di cui all'articolo 262 figurano, per settore interessato di prodotti, nella sezione V.
 
@@ -4353,7 +4349,7 @@ c) La Commissione esprime il proprio parere su tale evoluzione in relazioni da t
 
 d) Tenendo conto in particolare delle deliberazioni del Consiglio sulle relazioni di cui alla lettera c), la Commissione puo', se necessario, formulare raccomandazioni alla Repubblica portoghese sulle azioni che dovrebbero essere intraprese per realizzare gli obiettivi in questione.
 
-##### Articolo 265
+###### Articolo 265
 
 Durante la prima tappa la Repubblica portoghese applica le seguenti discipline:
 
@@ -4399,7 +4395,7 @@ Ai sensi di tale disciplina, la Repubblica portoghese prende le misure necessari
 
 \- l'introduzione dell'"acquis communautaire" dall'inizio della seconda tappa sia resa piu' difficile.
 
-##### Articolo 266
+###### Articolo 266
 
 1\. Al piu' tardi prima della fine della prima tappa:
 
@@ -4413,11 +4409,11 @@ eventuali adattamenti delle modalita' di transizione all'interno del periodo mas
 
 ## B. Regime applicabile negli scambi tra la Comunita' nella sua composizione attuale e il Portogallo
 
-##### Articolo 267
+###### Articolo 267
 
 Fatti salvi gli articoli da 268 a 276, la Repubblica portoghese e' autorizzata a applicare nei suoi scambi con la Comunita' nella sua composizione attuale, durante la prima tappa e per i prodotti di cui all'articolo 259, il regime vigente per tali scambi prima dell'adesione, sia all'importazione sia all'esportazione.
 
-##### Articolo 268
+###### Articolo 268
 
 1\. Fatto salvo il paragrafo 2, la Repubblica portoghese abolisce dal 1 marzo 1986 la riscossione di dazi doganali e di tasse di effetto equivalente all'importazione di prodotti in provenienza dalla Comunita' nella sua composizione attuale.
 
@@ -4519,7 +4515,7 @@ Tuttavia:
 
 Salvo disposizioni differenti del presente articolo o dell'articolo 243, punto 4, gli articoli da 189 a 195 sono del pari applicabili.
 
-##### Articolo 269
+###### Articolo 269
 
 1\. Fatto salvo il paragrafo 2, la Repubblica portoghese elimina, dal 1 marzo 1986, l'applicazione di qualsiasi restrizione quantitativa e misura d'effetto equivalente all'importazione dei prodotti di cui all'articolo 259 in provenienza dalla Comunita' nella sua composizione attuale.
 
@@ -4541,7 +4537,7 @@ d) Qualora le importazioni effettuate in Portogallo durante due anni consecutivi
 
 e) Durante il periodo dal 1 marzo al 31 dicembre 1986, il contingente applicabile e' pari al contingente iniziale diminuito di un sesto.
 
-##### Articolo 270
+###### Articolo 270
 
 1\. Durante la prima tappa la Repubblica portoghese applica all'importazione dei prodotti di cui all'articolo 259 dalla Comunita' nella sua composizione attuale un sistema di parificazione dei prezzi o di protezione specifica quale il sistema previsto dalla normativa per l'importazione dai paesi terzi. Questo sistema e' basato su criteri identici a quelli assunti dalla normativa comunitaria per stabilire i parametri di parificazione dei prezzi o del livello di protezione specifica.
 
@@ -4553,7 +4549,7 @@ Nel quadro della relazione di cui all'articolo 264, paragrafo 2, lettera c), sec
 
 La Commissione esamina questa comunicazione e la trasmette quindi agli altri stati membri.
 
-##### Articolo 271
+###### Articolo 271
 
 Durante la prima tappa la Repubblica portoghese puo' concedere aiuti o sovvenzioni all'esportazione per i prodotti di cui all'articolo 259 esportati negli stati membri attuali.
 
@@ -4561,7 +4557,7 @@ Tuttavia, l'importo di tali eventuali aiuti o sovvenzioni puo' corrispondere al 
 
 La fissazione di tali aiuti o sovvenzioni puo' avvenire soltanto previo espletamento della procedura di consultazione prevista dall'articolo 276.
 
-##### Articolo 272
+###### Articolo 272
 
 1\. Durante la prima tappa, e fatti salvi l'articolo 268, paragrafo 2, lettera a) e l'articolo 316, la Comunita' nella sua composizione attuale applica all'importazione dei prodotti di cui all'articolo 259 dal Portogallo il regime che essa applicava nei confronti del Portogallo prima dell'adesione.
 
@@ -4569,13 +4565,13 @@ La fissazione di tali aiuti o sovvenzioni puo' avvenire soltanto previo espletam
 
 3\. Negli scambi tra la Comunita' nella sua composizione attuale ed i paesi terzi, durante la prima tappa i dati relativi al mercato portoghese non vengono presi in considerazione per il calcolo dei prezzi comuni utilizzati per la fissazione degli importi riscossi all'importazione.
 
-##### Articolo 273
+###### Articolo 273
 
 1\. Durante la prima tappa l'elemento fisso destinato ad assicurare la protezione dell'industria di trasformazione che entra nel calcolo dell'onere all'importazione dai paesi terzi per i prodotti che formano oggetto dell'organizzazione dei mercati nei settori dei cereali e del riso viene riscosso all'importazione in Portogallo per i prodotti in provenienza dagli stati membri attuali.
 
 2\. In deroga al paragrafo 1, l'elemento protettivo da riscuotere durante la prima tappa all'importazione dei prodotti elencati nell'allegato XXIV in Portogallo e' quello indicato di fronte a ciascuno di essi.
 
-##### Articolo 274
+###### Articolo 274
 
 1\. Fatta salva l'applicazione della clausola generale di salvaguardia di cui all'articolo 379, la Repubblica portoghese e' autorizzata ad adottare misure di salvaguardia all'importazione dei prodotti di cui all'articolo 259 dagli stati membri attuali, alle condizioni e in base a criteri paragonabili a quelli esistenti nell'ambito di ciascuna organizzazione comune dei mercati per l'applicazione di misure di salvaguardia nei confronti dei paesi terzi.
 
@@ -4585,7 +4581,7 @@ La presente procedura non pregiudica l'applicabilita' delle vie di ricorso previ
 
 3\. Nessuna misura di salvaguardia puo' essere adottata se allo stesso tempo almeno la stessa misura non e' applicabile alle importazioni in Portogallo degli stessi prodotti in provenienza dai paesi terzi.
 
-##### Articolo 275
+###### Articolo 275
 
 1\. Durante la prima tappa, la Comunita' nella sua composizione attuale applica all'esportazione in Portogallo dei prodotti di cui all'articolo 259 il regime che essa applica all'esportazione nei confronti dei paesi terzi.
 
@@ -4595,7 +4591,7 @@ La fissazione di tali restituzioni puo' avvenire soltanto previo espletamento de
 
 3\. Le restituzioni previste dal presente articolo sono finanziate dalla Comunita' tramite il Fondo europeo agricolo di orientamento e garanzia, sezione "garanzia".
 
-##### Articolo 276
+###### Articolo 276
 
 L'applicazione da parte della Repubblica portoghese degli aiuti o sovvenzioni di cui all'articolo 271 o, da parte della Comunita', delle restituzioni di cui all'articolo 275 e' subordinata a consultazioni preliminari che si svolgono secondo la seguente procedura:
 
@@ -4619,13 +4615,13 @@ Il parere viene immediatamente comunicato all'autorita' competente per la fissaz
 
 ## C. Regime applicabile agli scambi tra il Portogallo e i paesi terzi
 
-##### Articolo 277
+###### Articolo 277
 
 1\. Per i prodotti di cui all'articolo 259 e fatti salvi gli articoli da 278 a 282, la Repubblica portoghese applica, dal 1 marzo 1986, la regolamentazione comunitaria relativa al regime applicabile all'importazione nella Comunita' di prodotti provenienti da paesi terzi, come definita nell'articolo 272, paragrafo 3.
 
 2\. Tuttavia, i prelievi applicabili all'importazione sono, se del caso, maggiorati del divario esistente tra i prezzi applicabili in Portogallo ed i prezzi comuni.
 
-##### Articolo 278
+###### Articolo 278
 
 1\. La Repubblica portoghese applica integralmente i dazi della tariffa doganale comune a decorrere dal 1 marzo 1986 per i prodotti di cui all'articolo 259, ad eccezione dei prodotti elencati nell'allegato XXV, per i quali la tariffa doganale comune viene applicata al piu' tardi all'inizio della seconda tappa.
 
@@ -4633,23 +4629,23 @@ Il parere viene immediatamente comunicato all'autorita' competente per la fissaz
 
 Salvo disposizioni differenti del presente articolo o dell'articolo 243, punto 4, gli articoli da 197 a 201 sono del pari applicabili.
 
-##### Articolo 279
+###### Articolo 279
 
 Gli elementi fissi destinati ad assicurare la protezione dell'industria di trasformazione, di cui all'articolo 273 ed all'allegato XXIV, sostituiscono durante la prima tappa l'elemento protettivo comunitario per quanto concerne l'onere riscosso dal Portogallo all'importazione dai paesi terzi.
 
-##### Articolo 280
+###### Articolo 280
 
 Fino al 31 dicembre 1995, la Repubblica portoghese puo' mantenere, secondo modalita' da determinare dal Consiglio, che delibera alle condizioni previste dall'articolo 258, restrizioni quantitative all'importazione dei prodotti elencati nell'allegato XXVI dai paesi terzi.
 
-##### Articolo 281
+###### Articolo 281
 
 L'articolo 270, paragrafo 2 e l'articolo 274 si applicano, mutatis mutandis, agli scambi tra il Portogallo e i paesi terzi.
 
-##### Articolo 282
+###### Articolo 282
 
 La Repubblica portoghese a' autorizzata a differire fino all'inizio della seconda tappa l'applicazione progressiva all'importazione delle preferenze concesse in modo autonomo o convenzionale dalla Comunita' a determinati paesi terzi.
 
-##### Articolo 283
+###### Articolo 283
 
 1\. Per i prodotti di cui all'articolo 259 e fatto salvo il paragrafo 2 del presente articolo, la Repubblica portoghese e' autorizzata a mantenere, durante la prima tappa, all'esportazione nei paesi terzi, il regime vigente prima dell'adesione per tali scambi.
 
@@ -4659,15 +4655,15 @@ Siffatti aiuti o sovvenzioni possono essere messi in applicazione soltanto previ
 
 Tali consultazioni riguardano in particolare l'aspetto economico delle esportazioni considerate, i prezzi adottati per il loro calcolo e la situazione dei mercati di provenienza e di destinazione.
 
-## Sottosezione 3 - Seconda tappa
+**Sottosezione 3 - Seconda tappa**
 
-##### Articolo 284
+###### Articolo 284
 
 1\. A decorrere dalla seconda tappa, la regolamentazione comunitaria relativa ai prodotti di cui all'articolo 259 si applica pienamente, fatti salvi gli articoli 239, 240, 241, l'articolo 242, paragrafo 1, gli articoli da 249 a 253, 255, 256, 268, 279, da 285 a 288, nonche' le disposizioni specifiche della sezione V concernenti taluni prodotti.
 
 2\. Tuttavia, l'importo compensativo stabilito conformemente alle norme dell'articolo 240 e' corretto, se del caso, dell'incidenza degli aiuti nazionali che la Repubblica portoghese e' autorizzata a mantenere ai sensi dell'articolo 286.
 
-##### Articolo 285
+###### Articolo 285
 
 1\. a) Se, conformemente all'articolo 260, paragrafo 1, la seconda tappa dura cinque anni, i prezzi applicabili in Portogallo sono fissati, fino al primo dei ravvicinamenti di cui al paragrafo 2 del presente articolo, allo stesso livello di quello che risulta dall'applicazione dell'articolo 265, paragrafo 1.
 
@@ -4711,7 +4707,7 @@ Per detta campagna, tuttavia, puo' decidersi un nuovo scarto rispetto a tale liv
 
 La deroga di cui al primo comma non si applica all'ultimo ravvicinamento di cui al paragrafo 3.
 
-##### Articolo 286
+###### Articolo 286
 
 1\. Dall'inizio della seconda tappa le disposizioni seguenti sono applicabili in Portogallo:
 
@@ -4745,7 +4741,7 @@ All'inizio di ciascun anno, la Commissione presenta al Consiglio una relazione s
 
 \- il 1 gennaio 1996, tutti gli elementi fissi sono soppressi.
 
-##### Articolo 287
+###### Articolo 287
 
 1\. In deroga all'articolo 240, punto 3, lettera b) e all'articolo 284, negli scambi tra il Portogallo e i paesi terzi i prelievi o gli altri oneri all'importazione applicati nel quadro della politica agricola comune non sono ridotti degli importi compensativi applicabili negli scambi con la Comunita' nella sua composizione attuale.
 
@@ -4753,7 +4749,7 @@ All'inizio di ciascun anno, la Commissione presenta al Consiglio una relazione s
 
 A decorrere dal 1 gennaio 1996, la Repubblica portoghese applica l'elemento fisso destinato ad assicurare la protezione dell'industria di trasformazione che e' preso in considerazione per il calcolo dell'onere all'importazione in provenienza dai paesi terzi per i prodotti che rientrano nell'organizzazione comune dei mercati nei settori dei cereali e del riso.
 
-##### Articolo 288
+###### Articolo 288
 
 Gli aiuti, premi o altri importi analoghi istituiti nel quadro della politica agricola comune per i quali nella sezione V e' fatto riferimento al presente articolo sono applicati in Portogallo secondo le disposizioni seguenti:
 
@@ -4787,7 +4783,7 @@ c) All'inizio delle campagne o dei periodi d'applicazione seguenti, il livello d
 
 d) Il livello dell'aiuto comunitario e' integralmente applicato in Portogallo nel 1995, all'inizio della campagna o del periodo d'applicazione dell'aiuto.
 
-##### Articolo 289
+###### Articolo 289
 
 1\. Dall'inizio della seconda tappa la Repubblica portoghese applica progressivamente all'importazione le preferenze concesse in modo autonomo o convenzionale dalla Comunita' a taluni paesi terzi.
 
@@ -4823,11 +4819,11 @@ b) Se la seconda tappa dura sette anni:
 
 c) A decorrere dal 1 gennaio 1996, la Repubblica portoghese applica integralmente le aliquote preferenziali.
 
-## Sezione IV - Disposizioni relative a talune organizzazioni comuni dei mercati soggette alla transizione classica
+##### Sezione IV - Disposizioni relative a talune organizzazioni comuni dei mercati soggette alla transizione classica
 
-### Sottosezione 1 Materie grasse
+**Sottosezione 1 Materie grasse**
 
-##### Articolo 290
+###### Articolo 290
 
 1\. Per l'olio d'oliva gli articoli 236 e 240 si applicano al prezzo di intervento.
 
@@ -4841,7 +4837,7 @@ c) A decorrere dal 1 gennaio 1996, la Repubblica portoghese applica integralment
 
 4\. L'importo compensativo risultante dall'applicazione dell'articolo 240 e' corretto, se del caso, dell'incidenza della differenza esistente tra gli aiuti comunitari al consumo applicabili nella Comunita' nella sua composizione attuale e in Portogallo.
 
-##### Articolo 291
+###### Articolo 291
 
 1\. L'articolo 236 si applica al prezzo indicativo dei semi di girasole.
 
@@ -4853,7 +4849,7 @@ Per i semi di colza, di ravizzone, di soia e di lino, il prezzo indicativo o di 
 
 4\. Fino al 31 dicembre 1990 negli scambi di prodotti trasformati a base di oli vegetali destinati al consumo umano, ad eccezione di quelli a base di olio d'oliva, sono adottate misure appropriate per tener conto della differenza dei prezzi di questi oli in Portogallo e nella Comunita' nella sua composizione attuale.
 
-##### Articolo 292
+###### Articolo 292
 
 1\. Fino al 31 dicembre 1990 la Repubblica portoghese applica, secondo modalita' da determinare, un regime di controllo:
 
@@ -4873,7 +4869,7 @@ Il regime di controllo di cui alla lettera a) comporta la sostituzione, al 1 mar
 
 Queste modifiche sono adottate secondo la procedura prevista dall'articolo 38 del regolamento n. 136/660/CEE.
 
-##### Articolo 293
+###### Articolo 293
 
 1\. L'aiuto comunitario alla produzione di olio d'oliva viene introdotto in Portogallo all'inizio della prima campagna successiva all'adesione e ravvicinato, durante il periodo di applicazione delle misure transitorie, al livello dell'aiuto concesso nella Comunita' nella sua composizione attuale, applicando mutatis mutandis l'articolo 246.
 
@@ -4891,7 +4887,7 @@ Trascorso il periodo di cui al precedente comma, l'aiuto concesso in Portogallo 
 
 4\. Inoltre, al momento di calcolare l'aiuto per i semi di colza, di ravizzone e di girasole, si tiene conto dell'importo differenziale eventualmente applicabile.
 
-##### Articolo 294
+###### Articolo 294
 
 Durante le campagne da 1986/1987 a 1994/1995 sono fissati limiti di garanzia specifici per i semi di colza e di ravizzone nonche' per i semi di girasole prodotti in Portogallo.
 
@@ -4905,7 +4901,7 @@ Per le successive campagne, questi limiti di garanzia specifici sono fissati sec
 
 Se il limite di garanzia specifico viene superato le penalita' di corresponsabilita' sono applicate secondo modalita' analoghe a quelle applicate nella Comunita' nella sua composizione attuale, con lo stesso massimale.
 
-##### Articolo 295
+###### Articolo 295
 
 1\. La Repubblica portoghese differisce, fino al termine del regime di controllo di cui all'articolo 292, l'applicazione dei regimi preferenziali, convenzionali o autonomi, applicati dalla Comunita' ai paesi terzi nel settore dell'olio d'oliva, dei semi e frutti oleosi nonche' dei loro prodotti derivati.
 
@@ -4923,43 +4919,43 @@ Se il limite di garanzia specifico viene superato le penalita' di corresponsabil
 
 La Repubblica portoghese applica integralmente le aliquote preferenziali a decorrere dal 1 gennaio 1996.
 
-## Sottosezione 2 - Tabacco
+**Sottosezione 2 - Tabacco**
 
-##### Articolo 296
+###### Articolo 296
 
 L'articolo 236 e, se del caso, l'articolo 238 si applicano al prezzo d'intervento fissato per ogni varieta' o gruppo di varieta'.
 
-##### Articolo 297
+###### Articolo 297
 
 Il prezzo di obiettivo corrispondente al prezzo d'intervento di cui all'articolo 296 e' fissato in Spagna, per il primo raccolto che segue l'adesione, ad un livello che rifletta il rapporto esistente fra il prezzo di obiettivo e il prezzo di intervento conformemente all'articolo 2, paragrafo 2, secondo comma del regolamento (CEE) n. 727/70 relativo all'attuazione di un'organizzazione comune dei mercati nel settore del tabacco greggio.
 
-## Sottosezione 3 - Lino e canapa
+**Sottosezione 3 - Lino e canapa**
 
-##### Articolo 298
+###### Articolo 298
 
 L'articolo 246 si applica all'aiuto per il lino tessile e la canapa.
 
-## Sottosezione 4 - Luppolo
+**Sottosezione 4 - Luppolo**
 
-##### Articolo 299
+###### Articolo 299
 
 L'aiuto ai produttori di luppolo di cui all'articolo 12 del regolamento (CEE) n. 1696/71 e' integralmente applicato in Portogallo fin dal primo raccolto successivo all'adesione.
 
-## Sottosezione 5 - Sementi
+**Sottosezione 5 - Sementi**
 
-##### Articolo 300
+###### Articolo 300
 
 L'articolo 246 si applica all'aiuto per le sementi di cui all'articolo 3 del regolamento (CEE) n. 2358/71.
 
-## Sottosezione 6 - Bachi da seta
+**Sottosezione 6 - Bachi da seta**
 
-##### Articolo 301
+###### Articolo 301
 
 L'articolo 246 si applica all'aiuto per i bachi da seta.
 
-## Sezione 7 - Zucchero e isoglucosio
+##### Sezione 7 - Zucchero e isoglucosio
 
-##### Articolo 302
+###### Articolo 302
 
 1\. Gli articoli 236, 238 e 240 si applicano al prezzo di intervento dello zucchero bianco e al prezzo di base della barbabietola.
 
@@ -4969,7 +4965,7 @@ Tuttavia, nella misura necessaria al buon funzionamento dell'organizzazione comu
 
 In tal caso, gli importi compensativi sono derivati dall'importo compensativo applicabile al prodotto di base in questione, mediante coefficienti da determinare.
 
-##### Articolo 303
+###### Articolo 303
 
 Durante un periodo di sette anni a decorrere dall'adesione, il prelievo sullo zucchero di canna greggio originario della Costa d'Avorio, del Malawi, dello Zimbabwe e dello Swaziland, importato in Portogallo entro il limite di un quantitativo massimo annuo di 75.000 tonnellate espresse in zucchero bianco, corrisponde all'importo del prelievo sullo zucchero greggio da determinare secondo le norme dell'organizzazione comune dei mercati, meno la differenza tra il prezzo limite e il prezzo d'intervento dello zucchero greggio.
 
@@ -4981,9 +4977,9 @@ a) dal bilancio comunitario di previsione relativo allo zucchero greggio per una
 
 b) circostanze eccezionali e imprevedibili lo giustifichino durante una campagna o parte di una campagna, la Repubblica portoghese puo' essere autorizzata, secondo la procedura prevista dall'articolo 41 del regolamento (CEE) n. 1785/81, ad importare dai paesi terzi, per la campagna o parte della campagna in questione, i quantitativi ritenuti mancanti alle stesse condizioni di prelievo ridotto previste per il quantitativo di cui al primo comma.
 
-## Sottosezione 8 - Ortofrutticoli trasformati
+**Sottosezione 8 - Ortofrutticoli trasformati**
 
-##### Articolo 304
+###### Articolo 304
 
 Per i prodotti che beneficiano del regime di aiuti previsto dall'articolo 3 del regolamento (CEE) n. 516/77 relativo all'organizzazione comune dei mercati nel settore dei prodotti trasformati a base di ortofrutticoli, le disposizioni seguenti si applicano al Portogallo:
 
@@ -5025,7 +5021,7 @@ Portogallo dall'inizio della settima campagna di commercializzazione successiva 
 
 6\. Ai fini dell'applicazione del presente articolo, il prezzo minimo e l'aiuto validi nella Comunita' nella sua composizione attuale si riferiscono agli importi validi nella Comunita' nella sua composizione attuale, esclusa la Grecia.
 
-##### Articolo 305
+###### Articolo 305
 
 Il prezzo minimo e la compensazione finanziaria applicabili in Portogallo, di cui agli articoli 2 e 3 del regolamento (CEE) n. 2601/69 che prevede misure speciali intese a favorire il ricorso alla trasformazione per determinate varieta' di arance, nonche' agli articoli 1 e 2 del regolamento (CEE) n. 1035/77 che prevede misure particolari intese a favorire la commercializzazione dei prodotti trasformati a base di limoni, vengono fissati come segue:
 
@@ -5035,9 +5031,9 @@ Il prezzo minimo e la compensazione finanziaria applicabili in Portogallo, di cu
 
 3\. Tuttavia, qualora il prezzo minimo risultante dall'applicazione del punto 1 del punto 2 risulti superiore al prezzo minimo comune, quest'ultimo prezzo puo' essere definitivamente adottato per il Portogallo.
 
-## Sottosezione 9 - Foraggi essiccati
+**Sottosezione 9 - Foraggi essiccati**
 
-##### Articolo 306
+###### Articolo 306
 
 1\. Il prezzo di obiettivo di cui all'articolo 4 del regolamento (CEE) n. 1117/78 relativo all'organizzazione comune dei mercati nel settore dei foraggi essiccati, applicabile in Portogallo al 1 marzo 1986, e' Fissato in base al divario esistente tra i prezzi dei prodotti concorrenti nelle colture di avvicendamento in Portogallo e nella Comunita' nella sua composizione attuale, durante un periodo di riferimento da determinare.
 
@@ -5051,9 +5047,9 @@ L'articolo 238 si applica al prezzo di obiettivo calcolato conformemente al prim
 
 3\. L'articolo 246 si applica all'aiuto forfettario di cui all'articolo 3 del regolamento (CEE) n. 1117/78.
 
-## Sottosezione 10 - Piselli, fave, favette e lupini dolci
+**Sottosezione 10 - Piselli, fave, favette e lupini dolci**
 
-##### Articolo 307
+###### Articolo 307
 
 1\. Il prezzo limite per l'intervento per i piselli, le fave, le favette e i lupini dolci utilizzati nella fabbricazione di alimenti per animali, nonche' il prezzo di obiettivo per gli altri piselli, fave e favette, applicabili in Portogallo al 1 marzo 1986, sono fissati in funzione dello scarto esistente fra i prezzi dei prodotti concorrenti nelle colture di avvicendamento in Portogallo e nella Comunita' nella sua composizione attuale, durante un periodo di riferimento da determinare.
 
@@ -5069,17 +5065,15 @@ Le deduzioni di cui al primo e secondo comma risultano dalle percentuali di cui 
 
 Fatta salva l'applicazione del primo comma, l'importo dell'aiuto in questione per un prodotto trasformato in Portogallo e' diminuito dell'incidenza dei dazi doganali applicati in Portogallo all'importazione di tali prodotti provenienti dai paesi terzi.
 
-## Sottosezione 11 - Carni ovine e caprine
+**Sottosezione 11 - Carni ovine e caprine**
 
-##### Articolo 308
+###### Articolo 308
 
 Nel settore delle carni ovine, l'articolo 236 si applica al prezzo di base.
 
-## Sezione V - Disposizioni relative a talune organizzazioni comuni dei mercati soggette alla transizione per tappe
+##### Sezione V - Disposizioni relative a talune organizzazioni comuni dei mercati soggette alla transizione per tappe Sottosezione 1 Latte e prodotti lattiero-caseari A. Prima tappa
 
-### Sottosezione 1 Latte e prodotti lattiero-caseari A. Prima tappa
-
-##### Articolo 309
+###### Articolo 309
 
 Gli obiettivi specifici di cui all'articolo 264, che la Repubblica portoghese deve realizzare durante la prima tappa nel settore del latte e dei prodotti lattierocaseari, sono i seguenti:
 
@@ -5101,7 +5095,7 @@ h) attuazione di misure destinate a favorire l'ammodernamento delle strutture di
 
 ## B. Seconda tappa
 
-##### Articolo 310
+###### Articolo 310
 
 1\. Fino al primo ravvicinamento, i prezzi di intervento del burro e del latte scremato in polvere, applicabili in Portogallo, sono calcolati secondo le norme previste e in base ai dati presi in considerazione nell'organizzazione comune dei mercati.
 
@@ -5113,15 +5107,13 @@ Qualora i prezzi di intervento applicabili nella parte continentale del Portogal
 
 L'articolo 240, paragrafi da 2 a 6 e gli articoli 241, 242 e 255 sono applicabili.
 
-##### Articolo 311
+###### Articolo 311
 
 L'importo compensativo per i prodotti lattiero-caseari diversi dal burro e dal latte scremato in polvere e' fissato mediante coefficienti da determinare.
 
-## Sottosezione 2 - Carni bovine
+**Sottosezione 2 - Carni bovine A. Prima tappa**
 
-### A. Prima tappa
-
-##### Articolo 312
+###### Articolo 312
 
 Gli obiettivi specifici di cui all'articolo 264, che la Repubblica portoghese deve realizzare nel corso della prima tappa nel settore delle carni bovine, sono i seguenti:
 
@@ -5139,7 +5131,7 @@ f) liberalizzazione degli scambi nel settore zootecnico.
 
 ## B. Seconda tappa
 
-##### Articolo 313
+###### Articolo 313
 
 1\. Nel settore delle carni bovine, gli articoli 240, 285 e 287 si applicano ai prezzi d'acquisto all'intervento in Portogallo e nella Comunita' nella sua composizione attuale, validi per qualita' comparabili determinate in base alla tabella comunitaria di classificazione delle carcasse di bovini adulti.
 
@@ -5147,15 +5139,13 @@ f) liberalizzazione degli scambi nel settore zootecnico.
 
 3\. L'importo compensativo per gli altri prodotti elencati all'articolo 1, paragrafo 1, lettera a), del regolamento (CEE) n. 805/68 e' fissato mediante coefficiente da determinare.
 
-##### Articolo 314
+###### Articolo 314
 
 L'articolo 288 si applica al premio al mantenimento delle mandrie di vacche nutrici.
 
-## Sottosezione 3 - Ortofrutticoli
+**Sottosezione 3 - Ortofrutticoli A. Prima tappa**
 
-### A. Prima tappa
-
-##### Articolo 315
+###### Articolo 315
 
 1\. Gli obiettivi specifici di cui all'articolo 264, che la Repubblica portoghese, deve realizzare durante la prima tappa nel settore degli ortofrutticoli, sono i seguenti:
 
@@ -5173,7 +5163,7 @@ f) creazione di un servizio di informazione dei mercati agricoli per rilevare qu
 
 2\. Per incentivare i produttori o le loro organizzazioni a commercializzare prodotti conformi alle norme di qualita', la Repubblica portoghese partecipa durante la prima tappa, mediante aiuti appropriati, al costo di imballaggio e di confezionamento di tali prodotti.
 
-##### Articolo 316
+###### Articolo 316
 
 In deroga all'articolo 272, paragrafo, il prezzo di riferimento applicato dalla Comunita' nella sua composizione attuale nei confronti del Portogallo e' fissato in conformita' delle disposizioni del regolamento (CEE) n. 1035/72 in vigore al 31 dicembre 1985.
 
@@ -5189,13 +5179,13 @@ Le eventuali tasse compensative all'importazione dei prodotti provenienti dal Po
 
 ## B. Seconda tappa
 
-##### Articolo 317
+###### Articolo 317
 
 Nel settore degli ortofrutticoli, l'articolo 285 si applica ai prezzi di base.
 
 L'articolo 255 e' parimenti applicabile in tale settore.
 
-##### Articolo 318
+###### Articolo 318
 
 Durante la seconda tappa, viene istituito un meccanismo di compensazione all'importazione nella Comunita' nella sua composizione attuale degli ortofrutticoli provenienti dal Portogallo per i quali sia stato fissato un prezzo di riferimento nei confronti dei paesi terzi.
 
@@ -5227,11 +5217,9 @@ e) La riscossione dell'importo correttore avviene fino al momento in cui le cons
 
 2\. Qualora il mercato portoghese risulti perturbato dalle importazioni provenienti dalla Comunita' nella sua composizione attuale, misure adeguate, che possono in particolare prevedere l'applicazione di un importo correttore secondo modalita' da determinare, possono essere decise per quanto riguarda le importazioni in Portogallo di ortofrutticoli provenienti dalla Comunita' nella sua composizione attuale, per i quali sia stato fissato un prezzo di riferimento.
 
-## Sottosezione 4 - Cereali
+**Sottosezione 4 - Cereali A. Prima tappa**
 
-### A. Prima tappa
-
-##### Articolo 319
+###### Articolo 319
 
 Gli obiettivi specifici di cui all'articolo 264, che la Repubblica portoghese deve realizzare durante la prima tappa nel settore dei cereali, sono i seguenti:
 
@@ -5245,7 +5233,7 @@ d) libera formazione dei prezzi;
 
 e) creazione di un servizio di informazione dei mercati agricoli per rilevare i corsi, nonche' adeguata formazione dei servizi amministrativi, indispensabili al buon funzionamento dell'organizzazione comune dei mercati.
 
-##### Articolo 320
+###### Articolo 320
 
 1\. Durante i primi quattro anni successivi all'adesione, la Repubblica portoghese modifica progressivamente il monopolio detenuto dall'EPAC per le importazioni e la commercializzazione dei cereali in Portogallo in modo che allo scadere del quarto anno sia garantita, per quanto riguarda le condizioni di approvvigionamento e di smercio, l'esclusione di qualsiasi discriminazione fra i cittadini degli stati membri.
 
@@ -5283,27 +5271,25 @@ Un bilancio intermedio viene esteso alla fine della campagna 1988/1989; se da ta
 
 ## B. Seconda tappa
 
-##### Articolo 321
+###### Articolo 321
 
 Nel settore dei cereali, gli articoli 240, 285 e 287 si applicano ai prezzi d'intervento.
 
 In questo settore si applicano parimenti gli articoli 241, 242 e 255.
 
-##### Articolo 322
+###### Articolo 322
 
 1\. Per quanto riguarda i cereali per i quali non e' fissato un prezzo d'intervento, l'importo compensativo applicabile e' derivato da quello applicabile all'orzo, prendendo in considerazione il rapporto esistente tra i prezzi d'entrata dei cereali in questione.
 
 2\. Per i prodotti di cui all'articolo 1, lettera c) del regolamento (CEE) n. 2727/75 relativo all'organizzazione comune dei mercati nel settore dei cereali, l'importo compensativo viene derivato dall'importo compensativo applicabile ai cereali da cui sono stati ottenuti, mediante coefficienti da determinare.
 
-##### Articolo 323
+###### Articolo 323
 
 L'articolo 288 si applica all'aiuto per il frumento duro di cui all'articolo 10 del regolamento (CEE) n. 2727/75.
 
-## Sottosezione 5 - Carni suine
+**Sottosezione 5 - Carni suine A. Prima tappa**
 
-### A. Prima tappa
-
-##### Articolo 324
+###### Articolo 324
 
 Gli obiettivi specifici di cui all'articolo 264, che la Repubblica portoghese deve realizzare nel corso della prima tappa nel settore delle carni suine, sono i seguenti:
 
@@ -5321,7 +5307,7 @@ f) proseguire e intensificare la lotta contro la peste suina africana, in partic
 
 ## B. Seconda tappa
 
-##### Articolo 325
+###### Articolo 325
 
 1\. Nel settore delle carni suine, l'importo compensativo e' calcolato in base agli importi compensativi applicabili ai cereali da foraggio. A tal fine, l'importo compensativo applicabile per chilogrammo di suino macellato e' calcolato in base agli importi compensativi applicabili al quantitativo di cereali da foraggio necessario nella Comunita' per produrre un chilogrammo di carni suine.
 
@@ -5331,11 +5317,9 @@ Tuttavia, qualora tale importo non sia rappresentativo, gli articoli 240, 285 e 
 
 3\. Per i prodotti, diversi dal suino macellato, di cui all'articolo 1, paragrafo 1 del regolamento (CEE) n. 2759/75, l'importo compensativo e' derivato da quello applicato a norma dei paragrafi 1 o 2, mediante coefficienti da determinare.
 
-## Sottosezione 6 - Uova
+**Sottosezione 6 - Uova A. Prima tappa**
 
-### A. Prima tappa
-
-##### Articolo 326
+###### Articolo 326
 
 Gli obiettivi specifici di cui all'articolo 264, che la Repubblica portoghese deve realizzare durante la prima tappa nel settore delle uova, sono i seguenti:
 
@@ -5349,7 +5333,7 @@ d) attuazione di misure destinate a favorire l'ammodernamento della struttura di
 
 ## B. Seconda tappa
 
-##### Articolo 327
+###### Articolo 327
 
 1\. Gli articoli 240, 241, 242 e 255 si applicano nel settore delle uova, fatte salve le disposizioni dei paragrafi che seguono.
 
@@ -5359,17 +5343,15 @@ d) attuazione di misure destinate a favorire l'ammodernamento della struttura di
 
 4\. Per i prodotti di cui all'articolo 1, paragrafo 1, lettera b) del regolamento (CEE) n. 2771/75 relativo all'organizzazione comune dei mercati nel settore delle uova, l'importo compensativo e' derivato da quello delle uova in guscio, mediante coefficienti da determinare.
 
-## Sottosezione 7 - Pollame
+**Sottosezione 7 - Pollame A. Prima tappa**
 
-### A. Prima tappa
-
-##### Articolo 328
+###### Articolo 328
 
 Gli obiettivi specifici di cui all'articolo 264, che la Repubblica portoghese deve realizzare durante la prima tappa nel settore del pollame, sono identici a quelli gia' citati per le uova all'articolo 326.
 
 ## B. Seconda tappa
 
-##### Articolo 329
+###### Articolo 329
 
 1\. Gli articoli 240, 241, 242 e 255 si applicano nel settore del pollame, fatti salvi i paragrafi che seguono.
 
@@ -5379,15 +5361,13 @@ Gli obiettivi specifici di cui all'articolo 264, che la Repubblica portoghese de
 
 4\. Per i prodotti di cui all'articolo 1, paragrafo 2, lettera d) del regolamento (CEE) n. 2777/75 relativo all'organizzazione comune dei mercati nel settore del pollame, l'importo compensativo viene derivato da quello applicabile alle carni macellate, mediante coefficienti da determinare.
 
-## Sottosezione 8 - Riso
+**Sottosezione 8 - Riso A. Prima tappa**
 
-### A. Prima tappa
-
-##### Articolo 330
+###### Articolo 330
 
 Gli obiettivi specifici di cui all'articolo 264, che la Repubblica portoghese deve realizzare durante la prima tappa nel settore del riso, sono identici a quelli gia' citati per i cereali all'articolo 319.
 
-##### Articolo 331
+###### Articolo 331
 
 1\. Nel corso della prima tappa, la Repubblica portoghese modifica progressivamente il monopolio detenuto dall'EPAC per le importazioni e la commercializzazione del riso in Portogallo, in modo tale che alla fine della prima tappa venga garantita, per quanto riguarda le condizioni di approvvigionamento e di smercio, l'esclusione di qualsiasi discriminazione fra i cittadini degli stati membri.
 
@@ -5395,7 +5375,7 @@ Gli obiettivi specifici di cui all'articolo 264, che la Repubblica portoghese de
 
 ## B. Seconda tappa
 
-##### Articolo 332
+###### Articolo 332
 
 1\. Nel settore del riso, gli articoli 240, 285 e 287 si applicano al prezzo d'intervento del risone.
 
@@ -5411,11 +5391,9 @@ In questo settore sono parimenti applicabili gli articoli 241, 242, e 255.
 
 6\. L'importo compensativo per il riso spezzato (rotture) viene fissato ad un livello che tenga conto della differenza fra il prezzo di approvvigionamento in Portogallo e il prezzo di entrata.
 
-## Sottosezione 9 - Vino
+**Sottosezione 9 - Vino A. Prima tappa**
 
-### A. Prima tappa
-
-##### Articolo 333
+###### Articolo 333
 
 Gli obiettivi specifici di cui all'articolo 264, che la Repubblica portoghese deve realizzare durante la prima tappa nel settore del vino, sono i seguenti:
 
@@ -5437,27 +5415,27 @@ h) divieto di irrigazione dei vigneti di uve da mosto, nonche' di qualsiasi nuov
 
 i) attuazione, nel quadro del regime degli impianti, del piano di ristrutturazione e di riconversione dei vigneti portoghesi che corrispondono agli obiettivi della politica comune in materia vitivinicola.
 
-##### Articolo 334
+###### Articolo 334
 
 La Repubblica portoghese prende le misure atte ad evitare qualsiasi estensione, durante la prima tappa, della superficie coltivata a vigneti che producono vino con titolo alcolometrico naturale inferiore o pari a 7% vol.
 
-##### Articolo 335
+###### Articolo 335
 
 In deroga alla regolamentazione comunitaria relativa alla percentuale massima di anidride solforosa nei vini, la Repubblica portoghese e' autorizzata ad applicare, durante la prima tappa, ai vini prodotti sul suo territorio, i limiti applicati in materia sotto il precedente regime nazionale.
 
 Tuttavia, la Repubblica portoghese adotta le misure adeguate affinche', durante tale prima tappa, la percentuale di anidride solforosa venga progressivamente ridotta ai livelli comunitari, in modo che questi siano integralmente rispettati fin dall'inizio della tappa.
 
-##### Articolo 336
+###### Articolo 336
 
 Durante la prima tappa la Repubblica portoghese stabilisce, sulla base dello studio di ampelografia e di sinonimia di cui all'articolo 333, una classificazione delle varieta' di vite relativamente ai vigneti portoghesi conforme all'articolo 33 del regolamento (CEE) n. 337/79 e alle disposizioni di applicazione di quest'ultimo articolo.
 
 ## B. Seconda tappa
 
-##### Articolo 337
+###### Articolo 337
 
 Nel settore vitivinicolo, gli articoli 285 e 287 si applicano ai prezzi d'orientamento per i vini da tavola.
 
-##### Articolo 338
+###### Articolo 338
 
 1\. Viene istituito un meccanismo di importi regolatori all'importazione nella Comunita' nella sua composizione attuale dei prodotti di cui al paragrafo 2, provenienti dal Portogallo, che formano oggetto della fissazione di un prezzo di riferimento nel quadro dell'organizzazione comune dei mercati.
 
@@ -5477,11 +5455,11 @@ Questo importo e' fissato ad un livello che permetta di garantire una normale co
 
 5\. L'importo regolatore concesso e' finanziato dalla Comunita' mediante il Fondo europeo agricolo di orientamento e garanzia, sezione garanzia.
 
-##### Articolo 339
+###### Articolo 339
 
 L'articolo 288 si applica all'aiuto all'impiego di mosti di uve e di mosti di uve concentrati per la preparazione di succo di uve.
 
-##### Articolo 340
+###### Articolo 340
 
 1\. Durante la seconda tappa, la Repubblica portoghese procede all'eliminazione della coltivazione dei terreni piantati con varieta' autorizzate temporaneamente secondo la classificazione stabilita conformemente all'articolo 333.
 
@@ -5491,27 +5469,27 @@ Fino al termine della seconda tappa, tali varieta' vengono considerate varieta' 
 
 3\. In deroga all'articolo 49 del regolamento (CEE) n. 337/79, le uve delle varieta' autorizzate temporaneamente a norma dei paragrafi 1 e 2 possono essere utilizzate, fino alla fine della seconda tappa, per l'elaborazione dei prodotti di cui a detto articolo.
 
-##### Articolo 341
+###### Articolo 341
 
 Fino alla fine del 1995, i vini prodotti nella regione del "vinho verde" con gradazione alcolica inferiore a 8,5% vol. possono circolare sfusi soltanto nella loro regione di produzione.
 
 Per tali vini, l'indicazione della gradazione alcolica effettiva deve figurare sull'etichetta.
 
-## Sezione VI - Altre disposizioni
+##### Sezione VI - Altre disposizioni
 
-### Sottosezione 1 - Misure veterinarie
+**Sottosezione 1 - Misure veterinarie**
 
-##### Articolo 342
+###### Articolo 342
 
 Per quanto riguarda gli scambi di carni fresche di pollame all'interno del proprio territorio, la Repubblica portoghese e' autorizzata a rinviare a non oltre il 31 dicembre 1988 l'applicazione della direttiva 71/118/CEE relativa a problemi sanitari in materia di scambi di carni fresche di pollame.
 
-##### Articolo 343
+###### Articolo 343
 
 La Repubblica portoghese e' autorizzata a mantenere, al massimo fino al 31 dicembre 1990, restrizioni all'importazione di riproduttori di razza pura della specie bovina, qualora le razze in questione non figurino sull'elenco delle razze autorizzate in Portogallo.
 
-## Sottosezione 2 - Misure relative alla legislazione concernente le sementi e le piante
+**Sottosezione 2 - Misure relative alla legislazione concernente le sementi e le piante**
 
-##### Articolo 344
+###### Articolo 344
 
 1\. La Repubblica portoghese e' autorizzata a rinviare l'applicazione sul proprio territorio delle direttive qui indicate, secondo il calendario seguente:
 
@@ -5563,33 +5541,33 @@ d) rende le sementi e piante importate dai paesi terzi soggette:
 
 3\. Durante i periodi di deroga di cui al paragrafo 1, la progressiva liberalizzazione degli scambi delle sementi e piante di determinate specie, tra il Portogallo e la Comunita' nella sua composizione attuale puo' essere decisa secondo la procedura del comitato permanente delle sementi e dei materiali di moltiplicazione agricoli, orticoli e forestali. Tale liberalizzazione riguardera' innanzi tutto le sementi gia' oggetto, prima dell'adesione, di una decisione comunitaria di equivalenza. Tale liberalizzazione riguardera' anche altre specie non appena si verificheranno le condizioni necessarie a tale atto.
 
-## Sottosezione 3 - Misure fitosanitarie
+**Sottosezione 3 - Misure fitosanitarie**
 
-##### Articolo 345
+###### Articolo 345
 
 La Repubblica portoghese e' autorizzata a rinviare, non oltre il 31 dicembre 1990, l'applicazione della direttiva 69/465/CEE concernente la lotta contro il nematode dorato.
 
-## CAPO 4 - Pesca
+#### CAPO 4 - Pesca
 
-### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
-##### Articolo 346
+###### Articolo 346
 
 1\. Salvo disposizioni contrarie del presente capo, le regole previste dal presente atto sono applicabili al settore della pesca.
 
 2\. Gli articoli 234, paragrafo 3, 253, lettera c) e 257 sono applicabili ai prodotti della pesca.
 
-## Sezione II - Accesso alle acque e alle risorse
+##### Sezione II - Accesso alle acque e alle risorse
 
-##### Articolo 347
+###### Articolo 347
 
 Ai fini della loro integrazione nel regime comunitario di conservazione e di gestione delle risorse della pesca istituito con il regolamento (CEE) n. 170/83, l'accesso alle acque soggette alla sovranita' o alla giurisdizione degli stati membri attuali e di competenza del Consiglio internazionale per l'esplorazione del mare (CIEM), da parte delle navi battenti bandiera del Portogallo e' sottoposto al regime definito nella presente sezione.
 
-##### Articolo 348
+###### Articolo 348
 
 Soltanto le navi di cui all'articolo 349 possono esercitare la loro attivita' di pesca nelle zone e alle condizioni in esso indicate.
 
-##### Articolo 349
+###### Articolo 349
 
 1\. L'attivita' di pesca delle navi portoghesi e' limitata alle divisioni CIEM Vb, VI, VII e VIII a, b, d, esclusa, nel periodo tra la data dell'adesione e il 31 dicembre 1995, la zona situata a sud di 56° 30' latitudine nord, a est di 12° longitudine ovest e a nord di 50° 30' latitudine nord, nei limiti e alle condizioni definite nei paragrafi 2, 3 e 4.
 
@@ -5605,11 +5583,11 @@ Le modalita' tecniche corrispondenti a quelle di cui all'articolo 163, paragrafo
 
 6\. Le modalita' di applicazione del presente articolo sono adottate prima del 1 gennaio 1986 secondo la procedura prevista dall'articolo 14 del regolamento (CEE) n. 170/83.
 
-##### Articolo 350
+###### Articolo 350
 
 Prima del 31 dicembre 1992 la Commissione presenta al Consiglio una relazione sulla situazione e sulle prospettive della pesca nella Comunita' in rapporto all'applicazione degli articoli 349 e 351. In base a questa relazione gli adattamenti del regime previsto dagli articoli 349 e 351 che si riveleranno necessari, compresi quelli sull'accesso a zone diverse da quelle indicate nell'articolo 349, paragrafo 1, sono adottati prima del 31 dicembre 1993 secondo la procedura prevista dall'articolo 43 del trattato CEE; essi prenderanno effetto il 1 gennaio 1996.
 
-##### Articolo 351
+###### Articolo 351
 
 1\. Soltanto le navi battenti bandiera di uno stato membro attuale di cui al presente articolo possono esercitare la loro attivita' di pesca nelle acque soggette alla sovranita' o alla giurisdizione della Repubblica portoghese, nelle zone e alle condizioni definite conformemente ai paragrafi seguenti.
 
@@ -5627,7 +5605,7 @@ Le modalita' tecniche corrispondenti a quelle di cui all'articolo 163, paragrafo
 
 6\. Le modalita' di applicazione del presente articolo sono adottate prima del 1 gennaio 1986 secondo la procedura prevista dall'articolo 14 del regolamento (CEE) n. 170/83.
 
-##### Articolo 352
+###### Articolo 352
 
 1\. Ai fini della loro integrazione nel regime comunitario di conservazione e di gestione delle risorse della pesca istituito con il regolamento (CEE) n. 170/83, l'accesso delle navi battenti bandiera della Spagna e immatricolate e/o registrate in un porto situato sul territorio nel quale si applica la politica comune della pesca, alle acque sottoposte alla sovranita' o alla giurisdizione del Portogallo e di competenza del CIEM e del COPACE e' sottoposto fino al 31 dicembre 1995 al regime definito nei paragrafi da 2 a 9.
 
@@ -5649,13 +5627,13 @@ Parte di provvedimento in formato grafico
 
 9\. Le disposizioni per assicurare il rispetto, da parte degli operatori, della regolamentazione prevista dal presente articolo, compresa la possibilita' di non autorizzare la nave interessata a pescare per un certo periodo, sono adottate prima del 1 gennaio 1986 secondo la procedura prevista dall'articolo 11 del regolamento (CEE) n. 170/83.
 
-##### Articolo 353
+###### Articolo 353
 
 Il regime definito negli articoli da 347 a 350, compresi gli adattamenti che il Consiglio potra' adottare a norma dell'articolo 350, rimane applicabile fino alla data di scadenza del periodo previsto all'articolo 8, paragrafo 3 del regolamento (CEE) n. 170/83.
 
-## Sezione III - Risorse esterne
+##### Sezione III - Risorse esterne
 
-##### Articolo 354
+###### Articolo 354
 
 1\. Dal momento dell'adesione la Comunita' gestisce gli accordi di pesca conclusi dalla Repubblica portoghese con paesi terzi.
 
@@ -5663,7 +5641,7 @@ Il regime definito negli articoli da 347 a 350, compresi gli adattamenti che il 
 
 3\. Appena possibile e comunque prima della scadenza degli accordi di cui al paragrafo 1 il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, adotta in ciascun caso le decisioni appropriate per mantenere le attivita' di pesca che ne derivano, compresa la possibilita' di proroga di taluni accordi per un periodo massimo di un anno.
 
-##### Articolo 355
+###### Articolo 355
 
 1\. Gli esoneri, le sospensioni o i contingenti tariffari concessi dalla Repubblica portoghese per i prodotti freschi della pesca originari del Marocco e provenienti da imprese comuni di pesca costituite tra persone fisiche o giuridiche del Portogallo e del Marocco, all'atto del loro sbarco diretto in Portogallo, sono soppressi al piu' tardi il 31 dicembre 1992.
 
@@ -5675,15 +5653,15 @@ Le navi interessate non potranno in nessun caso essere sostituite in caso di ven
 
 4\. Le modalita' di applicazione del presente articolo sono adottate secondo la procedura prevista dall'articolo 33 del regolamento (CEE) n. 3796/81.
 
-## Sezione IV - Organizzazione comune dei mercati
+##### Sezione IV - Organizzazione comune dei mercati
 
-##### Articolo 356
+###### Articolo 356
 
 1\. I prezzi di orientamento applicabili alle sardine dell'Atlantico in Portogallo, da un lato, e nella Comunita' nella sua composizione attuale, dall'altro, formano oggetto di un ravvicinamento conformemente al paragrafo 2; il primo ravvicinamento ha luogo il 1 marzo 1986.
 
 2\. I prezzi di orientamento applicabili in Portogallo, da un lato, e nella Comunita' nella sua composizione attuale, dall'altro, formano oggetto di un ravvicinamento, in dieci tappe annue, al livello del prezzo di orientamento delle sardine del Mediterraneo, in base ai prezzi 1984, successivamente di un decimo, di un nono, di un ottavo, di un settimo, di un sesto, di un quinto, di un quarto, di un terzo e della meta' della differenza esistente tra questi prezzi di orientamento applicabili prima di ciascun ravvicinamento; i prezzi che risultano da questo calcolo sono modulati proporzionalmente all'eventuale adattamento del prezzo di orientamento per la campagna successiva; a decorrere dalla data del decimo ravvicinamento e' applicato il prezzo comune.
 
-##### Articolo 357
+###### Articolo 357
 
 1\. Durante il periodo di ravvicinamento dei prezzi di cui all'articolo 356 e' istituito un sistema di sorveglianza, basato su prezzi di riferimento applicabili alle importazioni di sardine dell'Atlantico nella Comunita' nella sua composizione attuale in provenienza dal Portogallo.
 
@@ -5693,7 +5671,7 @@ Le navi interessate non potranno in nessun caso essere sostituite in caso di ven
 
 4\. Le modalita' di applicazione del presente articolo sono adottate secondo la procedura prevista dall'articolo 33 del regolamento (CEE) n. 3796/81.
 
-##### Articolo 358
+###### Articolo 358
 
 1\. Dal momento dell'adesione, e' instaurato un regime di indennita' compensative per i produttori di sardine della Comunita' nella sua composizione attuale, in ragione del sistema particolare di ravvicinamento dei prezzi applicabile a tale specie ai sensi dell'articolo 356.
 
@@ -5701,13 +5679,13 @@ Le navi interessate non potranno in nessun caso essere sostituite in caso di ven
 
 3\. Il Consiglio, deliberando a maggioranza qualificata su proposta della. Commissione, adotta, prima del 31 dicembre 1985 le modalita' di applicazione del presente articolo.
 
-##### Articolo 359
+###### Articolo 359
 
 Durante il periodo di ravvicinamento dei prezzi, rimangono invariati i coefficienti di adattamento applicabili nel 1984 alle sardine, previsti dall'articolo 12, paragrafo 1 del regolamento (CEE) n. 3796/81.
 
-## Sezione V - Regime applicabile agli scambi
+##### Sezione V - Regime applicabile agli scambi
 
-##### Articolo 360
+###### Articolo 360
 
 1\. In deroga all'articolo 190, i dazi doganali applicabili ai prodotti della pesca delle voci 03.01, 03.02, 03.03, 16.04 e 16.05 e sottovoci 05.15 A e 23.01 B della tariffa doganale comune sono progressivamente aboliti secondo il seguente ritmo:
 
@@ -5811,7 +5789,7 @@ b) negli altri casi, la Repubblica portoghese applica un dazio che riduce il div
 
 La Repubblica portoghese applica integralmente la tariffa doganale comune a decorrere dal 1 gennaio 1983.
 
-##### Articolo 361
+###### Articolo 361
 
 1\. Fino al 31 dicembre 1992 le importazioni in Portogallo dei prodotti che figurano nell'allegato XXVIII, parte a), in provenienza dagli altri stati membri sono sottoposte ad un meccanismo complementare applicabile agli scambi, definito dal presente articolo.
 
@@ -5825,23 +5803,23 @@ La Repubblica portoghese applica integralmente la tariffa doganale comune a deco
 
 6\. Le modalita' di applicazione sono adottate secondo la procedura prevista dall'articolo 33 del regolamento (CEE) n. 3796/81.
 
-##### Articolo 362
+###### Articolo 362
 
 Durante il periodo di graduale abolizione dei dazi doganali tra la Comunita' nella sua composizione attuale e il Portogallo, i prodotti elencati qui di seguito, in provenienza dal Portogallo, possono essere importati ogni anno nella Comunita' nella sua composizione attuale in sospensione totale dei dazi della tariffa doganale comune, entro i seguenti limiti:
 
 Parte di provvedimento in formato grafico
 
-##### Articolo 363
+###### Articolo 363
 
 1\. Fino al 31 dicembre 1992, la Repubblica portoghese puo' mantenere nei confronti dei paesi terzi restrizioni quantitative per i prodotti che figurano nell'allegato XXIX, nei limiti e secondo le modalita' stabilite dal Consiglio, che delibera a maggioranza qualificata su proposta della Commissione.
 
 2\. Il meccanismo comunitario dei prezzi di riferimento si applica a ciascun prodotto dal momento dell'abolizione delle relative restrizioni quantitative.
 
-## CAPO 5 - Relazioni esterne
+#### CAPO 5 - Relazioni esterne
 
-### Sezione I - Politica commerciale comune
+##### Sezione I - Politica commerciale comune
 
-##### Articolo 364
+###### Articolo 364
 
 1\. La Repubblica portoghese mantiene nei confronti dei paesi terzi restrizioni quantitative all'importazione per i prodotti non ancora liberalizzati nei confronti della Comunita' nella sua composizione attuale. Essa non concede ai paesi terzi nessun altro vantaggio rispetto alla Comunita' nella sua composizione attuale per quanto riguarda i contingenti fissati per questi prodotti.
 
@@ -5869,7 +5847,7 @@ Qualsiasi modifica nel regime d'importazione in Portogallo dei prodotti di cui a
 
 6\. Per conformarsi agli obblighi che incombono alla Comunita' a norma dell'accordo generale sulle tariffe doganali e sul commercio nei confronti dei paesi a commercio di stato membri di tale accordo, la Repubblica portoghese estende, se del caso e nella misura necessaria, a detti paesi le misure di liberalizzazione che essa dovra' prendere nei confronti degli altri paesi terzi membri dell'accordo, tenendo tuttavia conto delle misure transitorie convenute.
 
-##### Articolo 365
+###### Articolo 365
 
 1\. Dal 1 marzo 1986 la Repubblica portoghese applica il sistema delle preferenze generalizzate per i prodotti diversi da quelli elencati nell'allegato II del trattato CEE. Tuttavia, quanto ai prodotti elencati nell'allegato XXXI, la Repubblica portoghese si allinea gradualmente, fino al 31 dicembre 1992, ai tassi del sistema delle preferenze generalizzate partendo dai dazi di base di cui all'articolo 189, paragrafo 2. Il ritmo di questi allineamenti e' identico a quello fissato nell'articolo 197.
 
@@ -5915,9 +5893,9 @@ c) In deroga alla lettera b), per i prodotti della pesca delle voci 03.01, 03.02
 
 A decorrere dal 1 gennaio 1993, la Repubblica portoghese applica integralmente le aliquote preferenziali.
 
-## Sezione II - Accordi delle Comunita' con taluni paesi terzi
+##### Sezione II - Accordi delle Comunita' con taluni paesi terzi
 
-##### Articolo 366
+###### Articolo 366
 
 1\. Dal 1 gennaio 1986 la Repubblica portoghese applica le disposizioni degli accordi di cui all'articolo 368.
 
@@ -5931,13 +5909,13 @@ In particolare, tutti i prodotti che sono oggetto di misure transitorie riguarda
 
 4\. Le misure transitorie applicabili ai paesi elencati nell'articolo 368 non comportano l'applicazione, da parte della Repubblica portoghese nei confronti di detti paesi, di un trattamento meno favorevole di quello applicato agli altri paesi terzi. In particolare, misure transitorie riguardanti restrizioni quantitative non possono essere previste nei confronti dei paesi elencati nell'articolo 368 per i prodotti esenti da tali restrizioni all'importazione in Portogallo in provenienza da altri paesi terzi.
 
-##### Articolo 367
+###### Articolo 367
 
 Qualora per motivi indipendenti dalla volonta' della Comunita' o della Repubblica portoghese i protocolli di cui all'articolo 366, paragrafo 1 non fossero conclusi al 1 gennaio 1986, la Comunita' prende le misure necessarie per porre rimedio, dal momento dell'adesione, a tale situazione.
 
 In ogni caso il trattamento della nazione piu' favorita viene applicato dal 1 gennaio 1986 da parte della Repubblica portoghese ai paesi di cui all'articolo 368
 
-##### Articolo 368
+###### Articolo 368
 
 1\. Gli articoli 366 e 367 si applicano:
 
@@ -5947,27 +5925,27 @@ In ogni caso il trattamento della nazione piu' favorita viene applicato dal 1 ge
 
 2\. I regimi che risultano dalla seconda convenzione ACP-CEE e dall'accordo relativo ai prodotti di competenza della Comunita' europea del carbone e dell'acciaio, firmati il 31 ottobre 1979, non sono applicabili nelle relazioni tra la Repubblica portoghese e gli stati dell'Africa, dei Caraibi e del Pacifico.
 
-##### Articolo 369
+###### Articolo 369
 
 La Repubblica portoghese si ritira con effetto al 1 gennaio 1986 dalla convenzione che istituisce l'associazione europea di libero scambio, firmata il 4 gennaio 1960.
 
-## Sezione III - Prodotti tessili
+##### Sezione III - Prodotti tessili
 
-##### Articolo 370
+###### Articolo 370
 
 1\. Dal 1 gennaio 1986 la Repubblica portoghese applica l'accordo del 20 dicembre 1973 sul commercio internazionale dei tessili, nonche' gli accordi bilaterali conclusi dalla Comunita' nel quadro di tale accordo o con altri paesi terzi. I protocolli di adattamento di detti accordi sono negoziati dalla Comunita' con i paesi terzi che sono parte degli accordi stessi, al fine di prevedere una limitazione volontaria delle esportazioni verso il Portogallo in caso di prodotti e di origini per i quali vi siano limitazioni alle esportazioni nella Comunita'.
 
 2\. Qualora detti protocolli non fossero conclusi al 1 gennaio 1986, la Comunita' prende le misure destinate a porre rimedio a tale situazione e relative agli accorgimenti transitori necessari per assicurare l'applicazione degli accordi da parte della Comunita'.
 
-## CAPO 6 - Disposizioni finanziarie
+#### CAPO 6 - Disposizioni finanziarie
 
-##### Articolo 371
+###### Articolo 371
 
 1\. La decisione del 21 aprile 1970 relativa alla sostituzione dei contributi finanziari degli stati membri con risorse proprie delle Comunita', in appresso denominata "decisione del 21 aprile 1970", si applica conformemente agli articoli da 372 a 375.
 
 2\. Ogni riferimento alla decisione del 21 aprile 1970 fatto negli articoli del presente capo si deve intendere come riferimento alla decisione del Consiglio, del 7 maggio 1985, relativa al sistema delle risorse proprie delle Comunita', dal momento dell'entrata in vigore di quest'ultima decisione.
 
-##### Articolo 372
+###### Articolo 372
 
 Le entrate denominate "prelievi agricoli", di cui all'articolo 2, primo comma, lettera a) della decisione dei 21 aprile 1970, comprendono anche gli introiti provenienti da qualsiasi importo costatato all'importazione negli scambi tra il Portogallo e gli altri stati membri e tra il Portogallo ed i paesi terzi a norma degli articoli da 233 a 345, 210, paragrafo 3 e 213.
 
@@ -5975,7 +5953,7 @@ Tuttavia soltanto dall'inizio della seconda tappa queste entrate comprendono i p
 
 In deroga al comma precedente il Consiglio, deliberando all'unanimita' su proposta della Commissione, puo' decidere prima della fine della prima tappa la restituzione al Portogallo, entro limiti e secondo modalita' da definire e per un periodo non superiore a due anni, delle entrate provenienti dagli importi compensativi "adesione" applicati dal Portogallo alle importazioni di cereali dagli altri stati membri.
 
-##### Articolo 373
+###### Articolo 373
 
 Le entrate denominate "dazi doganali" di cui all'articolo 2, primo comma, lettera b) della decisione del 21 aprile 1970 comprendono fino al 31 dicembre 1992 i dazi doganali calcolati come se il Portogallo applicasse dal momento dell'adesione, negli scambi con i paesi terzi, le aliquote risultanti dalla tariffa doganale comune e le aliquote ridotte risultanti da qualsiasi preferenza tariffaria applicata dalla Comunita'. La stessa regola si applica fino al 31 dicembre 1995 per i dazi doganali relativi ai semi e frutti oleosi e ai loro prodotti derivati che rientrano nel regolamento n. 136/66/CEE, nonche' per i prodotti agricoli soggetti ad una transizione per tappe a norma degli articoli da 309 a 341.
 
@@ -5987,7 +5965,7 @@ La Repubblica portoghese provvede ogni mese al calcolo di tali dazi doganali sul
 
 Dal 1 gennaio 1993 i dazi doganali costatati sono dovuti integralmente. Tuttavia, per quanto riguarda i prodotti di cui agli articoli da 309 a 341, soggetti ad una transizione per tappe, nonche' per i semi e i frutti oleosi ed i loro prodotti derivati che rientrano nel regolamento n. 136/66/CEE, questi dazi sono dovuti integralmente dal 1 gennaio 1996.
 
-##### Articolo 374
+###### Articolo 374
 
 L'importo dei diritti costatati a titolo delle risorse proprie provenienti dall'imposta sul valore aggiunto o dei contributi finanziari basati sul prodotto nazionale lordo in applicazione dell'articolo 4, paragrafi da 1 a 5 della decisione del 21 aprile 1970 e' integralmente dovuto dal 1 gennaio 1986.
 
@@ -6009,29 +5987,29 @@ La Comunita' restituisce alla Repubblica portoghese, a titolo delle spese del bi
 
 La percentuale di questa restituzione degressiva non si applica all'importo corrispondente alla quota che incombe al Portogallo per il finanziamento della deduzione prevista a favore del Regno Unito dall'articolo 3, paragrafo 3, lettere b), c) e d) della decisione del Consiglio, del 7 maggio 1985, relativa al sistema delle risorse proprie delle Comunita'.
 
-##### Articolo 375
+###### Articolo 375
 
 Per evitare che sia a carico della Repubblica portoghese il rimborso degli anticipi concessi alla Comunita' dai suoi stati membri anteriormente al 1 gennaio 1986, la Repubblica portoghese fruisce di una compensazione finanziaria a titolo di detto rimborso.
 
-## CAPO 7 - Altre disposizioni
+#### CAPO 7 - Altre disposizioni
 
-##### Articolo 376
+###### Articolo 376
 
 In deroga all'articolo 60 del trattato CECA e alle sue disposizioni di applicazione, fino al 31 dicembre 1992 le imprese siderurgiche portoghesi possono applicare, nelle regioni autonome delle Azzorre e di Madera, un prezzo cif franco porto di destinazione pari ad un prezzo di parita' in vigore sul territorio continentale della Repubblica portoghese.
 
-##### Articolo 377
+###### Articolo 377
 
 Fino al 31 dicembre 1992 la Repubblica portoghese puo' derogare all'articolo 95 del trattato CEE per quanto riguarda le accise sui tabacchi manufatturati prodotti nelle regioni autonome delle Azzorre e di Madera, alle condizioni fissate nell'allegato XXXII per l'applicazione della direttiva 72/464/CEE del Consiglio, del 19 dicembre 1972.
 
-## TITOLO IV - ALTRE DISPOSIZIONI
+### TITOLO IV - ALTRE DISPOSIZIONI
 
-##### Articolo 378
+###### Articolo 378
 
 1\. Gli atti elencati nell'allegato XXXII del presente atto si applicano nei confronti dei nuovi stati membri alle condizioni previste in tale allegato.
 
 2\. Su richiesta debitamente motivata del Regno di Spagna o della Repubblica portoghese il Consiglio, deliberando all'unanimita' su proposta della Commissione, puo' prendere prima del 1 gennaio 1986 misure di deroga temporanee ad atti delle istituzioni delle Comunita' adottati tra il 1 gennaio 1985 e la data della firma del presente atto.
 
-##### Articolo 379
+###### Articolo 379
 
 1\. Fino al 31 dicembre 1992 in caso di difficolta' gravi di un settore dell'attivita' economica, che siano suscettibili di protrarsi, come anche in caso di difficolta' che possano determinare grave perturbazione in una situazione economica regionale, un nuovo stato membro puo' domandare di essere autorizzato ad adottare misure di salvaguardia che consentano di ristabilire la situazione e di adattare il settore interessato all'economia del mercato comune.
 
@@ -6049,7 +6027,7 @@ Fatte salve le disposizioni dei capi 3 dei titoli II e III nel settore dell'agri
 
 4\. In caso di difficolta' gravi che siano suscettibili di protrarsi sul mercato del lavoro del Granducato del Lussemburgo, questo stato membro puo' domandare di essere autorizzato, secondo la procedura di cui al paragrafo 2, primo e secondo comma e alle condizioni di cui al paragrafo 3, ad applicare temporaneamente fino al 31 dicembre 1995 misure di salvaguardia, nel quadro delle disposizioni nazionali che disciplinano il cambiamento dell'impiego, nei confronti dei lavoratori cittadini di un nuovo stato membro ammessi, posteriormente alla data di questa autorizzazione, ad immigrare nel Granducato allo scopo di esercitare un lavoro salariato.
 
-##### Articolo 380
+###### Articolo 380
 
 1\. Qualora, entro la scadenza della durata di applicazione delle misure transitorie definite in ciascun caso ai sensi del presente atto, la Commissione, a richiesta di uno stato membro o di qualsiasi altro interessato e secondo le regole di procedura che saranno adottate immediatamente dopo l'adesione del Consiglio, che delibera a maggioranza qualificata su proposta della Commissione, costati l'esistenza di pratiche di dumping esercitate fra la Comunita' nella sua composizione attuale e i nuovi stati membri o tra i nuovi stati membri, essa rivolge raccomandazioni all'autore od agli autori di tali pratiche per porvi termine.
 
@@ -6063,15 +6041,15 @@ Se le pratiche di dumping continuano a sussistere la Commissione autorizza lo st
 
 ### TITOLO I - INSEDIAMENTO DELLE ISTITUZIONI
 
-##### Articolo 381
+###### Articolo 381
 
 L'Assemblea si riunisce al piu' tardi un mese dopo l'adesione. Essa apporta al suo regolamento interno gli adattamenti resi necessari dall'adesione.
 
-##### Articolo 382
+###### Articolo 382
 
 Il Consiglio apporta al suo regolamento interno gli adattamenti resi necessari dall'adesione.
 
-##### Articolo 383
+###### Articolo 383
 
 1\. Immediatamente dopo l'adesione la Commissione e' completata mediante la nomina di tre membri supplementari e la designazione di un sesto vicepresidente tra i membri della Commissione allargata. Il mandato dei membri nominati scade simultaneamente a quello dei membri che sono in carica al momento dell'adesione.
 
@@ -6081,7 +6059,7 @@ Il mandato del sesto vicepresidente designato scade simultaneamente a quello deg
 
 3\. La Commissione apporta al suo regolamento interno gli adattamenti resi necessari dall'adesione.
 
-##### Articolo 384
+###### Articolo 384
 
 1\. Immediatamente dopo l'adesione la Corte di giustizia e' completata con la nomina di due giudici.
 
@@ -6093,49 +6071,49 @@ Il mandato del sesto vicepresidente designato scade simultaneamente a quello deg
 
 5\. Per la pronuncia sulle cause pendenti davanti alla Corte al 1 gennaio 1986 per le quali la procedura orale sia stata aperta prima di tale data, la Corte in seduta plenaria o le sezioni si riuniscono nella composizione che avevano prima dell'adesione ed applicano il regolamento di procedura vigente al 31 dicembre 1985.
 
-##### Articolo 385
+###### Articolo 385
 
 Immediatamente dopo l'adesione la Corte dei conti e' completata con la nomina di due membri supplementari. Il mandato dei membri cosi' nominati scade il 17 ottobre 1987.
 
-##### Articolo 386
+###### Articolo 386
 
 Immediatamente dopo l'adesione il Comitato economico e sociale e' completato con la nomina di 33 membri in rappresentanza delle varie categorie della vita economica e sociale dei nuovi stati membri. Il mandato dei membri cosi' nominati scade contemporaneamente a quello dei membri che sono in carica al momento dell'adesione.
 
-##### Articolo 387
+###### Articolo 387
 
 Immediatamente dopo l'adesione il comitato consultivo della Comunita' europea del carbone e dell'acciaio e' completato con la nomina di membri supplementari.
 
 Il mandato dei membri cosi' nominati scade contemporaneamente a quello dei membri che sono in carica al momento dell'adesione.
 
-##### Articolo 388
+###### Articolo 388
 
 Immediatamente dopo l'adesione il comitato scientifico e tecnico e' completato con la nomina di cinque membri supplementari. Il mandato dei membri cosi' nominati scade contemporaneamente a quello dei membri che sono in carica al momento dell'adesione.
 
-##### Articolo 389
+###### Articolo 389
 
 Immediatamente dopo l'adesione il comitato monetario e' completato con la nomina dei membri che rappresentano i nuovi stati membri. Il loro mandato scade contemporaneamente a quello dei membri che sono in carica al momento dell'adesione.
 
-##### Articolo 390
+###### Articolo 390
 
 Gli adattamenti degli statuti e dei regolamenti interni dei comitati istituiti dai trattati originari, resi necessari dall'adesione, sono effettuati non appena possibile dopo l'adesione.
 
-##### Articolo 391
+###### Articolo 391
 
 1\. Per i comitati elencati nell'allegato XXXIII, il mandato dei nuovi membri scade contemporaneamente a quello dei membri che sono in carica al momento dell'adesione.
 
 2\. I comitati elencati nell'allegato XXXIV sono integralmente rinnovati immediatamente dopo l'adesione.
 
-## TITOLO II - APPLICABILITA' DEGLI ATTI DELLE ISTITUZIONI
+### TITOLO II - APPLICABILITA' DEGLI ATTI DELLE ISTITUZIONI
 
-##### Articolo 392
+###### Articolo 392
 
 Dal momento dell'adesione i nuovi stati membri sono considerati come destinatari e come aventi ricevuto notifica delle direttive e delle decisioni ai sensi dell'articolo 189 del trattato CEE e dell'articolo 161 del trattato CEEA, nonche' delle raccomandazioni e decisioni ai sensi dell'articolo 14 del trattato CECA, purche' tali direttive, raccomandazioni e decisioni siano state notificate a tutti gli stati membri attuali.
 
-##### Articolo 393
+###### Articolo 393
 
 L'applicazione, in ciascuno dei nuovi stati membri, degli atti elencati nell'allegato XXXV del presente atto e' rinviata fino alle date indicate in tale elenco.
 
-##### Articolo 394
+###### Articolo 394
 
 1\. E' differita fino al 1 marzo 1986:
 
@@ -6147,47 +6125,47 @@ b) l'applicazione alla Comunita' nella sua composizione attuale delle modifiche 
 
 3\. Fino al 28 febbraio 1986 il regime applicabile agli scambi tra un nuovo stato membro, da un lato, e la Comunita' nella sua composizione attuale, l'altro nuovo stato membro o i paesi terzi, dall'altro, e' quello applicabile prima dell'adesione.
 
-##### Articolo 395
+###### Articolo 395
 
 I nuovi stati membri mettono in vigore le misure per conformarsi, dal momento dell'adesione, alle disposizioni delle direttive e delle decisioni, ai sensi dell'articolo 189 del trattato CEE e dell'articolo 161 del trattato CEEA, nonche' delle raccomandazioni e delle decisioni ai sensi dell'articolo 14 del trattato CECA, fatti salvi gli eventuali termini previsti nell'elenco riportato nell'allegato XXXVI o in altre disposizioni del presente atto.
 
-##### Articolo 396
+###### Articolo 396
 
 1\. Gli adattamenti degli atti delle istituzioni delle Comunita' non contenuti nel presente atto o nei suoi allegati ed effettuati dalle istituzioni prima dell'adesione secondo la procedura del paragrafo 2, per mettere tali atti in concordanza con le disposizioni del presente atto, in particolare quelle contenute nella parte quarta, entrano in vigore dal momento dell'adesione.
 
 2\. Il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, o la Commissione, a seconda che gli atti iniziali siano stati emanati dall'una o dall'altra di queste due istituzioni, stabiliscono i testi necessari a tal fine.
 
-##### Articolo 397
+###### Articolo 397
 
 I testi degli atti delle istituzioni delle Comunita' anteriori all'adesione e redatti dal Consiglio o dalla Commissione in lingua spagnola e in lingua portoghese fanno fede, dal momento dell'adesione, alle stesse condizioni dei testi redatti nelle sette lingue attuali. Essi sono pubblicati nella Gazzetta ufficiale delle Comunita' europee ogniqualvolta i testi nelle lingue attuali siano stati oggetto di una tale pubblicazione.
 
-##### Articolo 398
+###### Articolo 398
 
 Gli accordi, le decisioni e le pratiche concertate esistenti al momento dell'adesione e che in conseguenza all'adesione rientrano nel campo di applicazione dell'articolo 65 del trattato CECA devono essere notificati alla Commissione entro tre mesi dall'adesione.
 
 Soltanto gli accordi e le decisioni notificati restano provvisoriamente in vigore fino alla decisione della Commissione.
 
-##### Articolo 399
+###### Articolo 399
 
 Le disposizioni legislative, regolamentari e amministrative destinate ad assicurare, sul territorio dei nuovi stati membri, la protezione sanitaria delle popolazioni e dei lavoratori contro i pericoli derivanti dalle radiazioni ionizzanti sono comunicate da questi stati alla Commissione, conformemente all'articolo 33 del trattato CEEA, entro tre mesi dall'adesione.
 
-## TITOLO III - DISPOSIZIONI FINALI
+### TITOLO III - DISPOSIZIONI FINALI
 
-##### Articolo 400
+###### Articolo 400
 
 Gli allegati da I a XXXVI, i protocolli dal n. 1 al n. 25, acclusi al presente atto, ne costituiscono parte integrante.
 
-##### Articolo 401
+###### Articolo 401
 
 Il governo della Repubblica francese rimettera' ai governi del Regno di Spagna e della Repubblica portoghese copia certificata conforme del trattato che istituisce la Comunita' europea del carbone e dell'acciaio e dei trattati che l'hanno modificato.
 
-##### Articolo 402
+###### Articolo 402
 
 Il governo della Repubblica italiana rimettera' ai governi del Regno di Spagna e della Repubblica portoghese copia certificata conforme del trattato che istituisce la Comunita' economica europea, del trattato che istituisce la Comunita' europea dell'energia atomica e dei trattati che li hanno modificati o completati, ivi compresi i trattati relativi all'adesione del Regno di Danimarca, dell'Irlanda, del Regno Unito di Gran Bretagna e Irlanda del Nord e della Repubblica ellenica alla Comunita' economica europea e alla Comunita' europea dell'energia atomica, nelle lingue danese, francese, greca, inglese, irlandese, italiana, olandese e tedesca.
 
 I testi dei suddetti trattati, redatti in lingua spagnola e in lingua portoghese, sono allegati al presente atto. Tali testi fanno fede alle stesse condizioni dei testi dei trattati di cui al primo comma redatti nelle lingue attuali.
 
-##### Articolo 403
+###### Articolo 403
 
 Il segretario generale rimettera' ai governi dei nuovi stati membri copia certificata conforme degli accordi internazionali depositati negli archivi del segretariato generale del Consiglio delle Comunita' europee.
 
@@ -6195,7 +6173,7 @@ Visto, il Ministro degli affari esteri
 
 ANDREOTTI
 
-##### Allegato I
+###### Allegato I
 
 Allegato I
 
@@ -6205,7 +6183,7 @@ Parte di provvedimento in formato grafico
 
 Parte di provvedimento in formato grafico
 
-##### Allegato II
+###### Allegato II
 
 Allegato II
 
@@ -6213,7 +6191,7 @@ Elenco di cui all'articolo 27 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato III
+###### Allegato III
 
 Allegato III
 
@@ -6223,7 +6201,7 @@ Elenco di cui all'articolo 43, paragrafo 1, primo trattino dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato IV
+###### Allegato IV
 
 Allegato IV
 
@@ -6233,7 +6211,7 @@ Elenco di cui all'articolo 43, paragrafo 1, secondo trattino dell'atto di adesio
 
 Parte di provvedimento in formato grafico
 
-##### Allegato V
+###### Allegato V
 
 Allegato V
 
@@ -6241,7 +6219,7 @@ Elenco di cui all'articolo 48, paragrafo 3 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato VI
+###### Allegato VI
 
 Allegato VI
 
@@ -6249,7 +6227,7 @@ Elenco di cui all'articolo 48, paragrafo 4 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato VII
+###### Allegato VII
 
 Allegato VII
 
@@ -6257,7 +6235,7 @@ Elenco di cui all'articolo 53 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato VIII
+###### Allegato VIII
 
 Allegato VIII
 
@@ -6265,7 +6243,7 @@ Elenco dei prodotti di cui all'art. 75, punto 3 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato IX
+###### Allegato IX
 
 Allegato IX
 
@@ -6273,7 +6251,7 @@ Elenco di cui all'articolo 158, paragrafo 1 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato X
+###### Allegato X
 
 Allegato X
 
@@ -6281,7 +6259,7 @@ Elenco di cui all'articolo 158, paragrafo 3 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XI
+###### Allegato XI
 
 Allegato XI
 
@@ -6289,7 +6267,7 @@ Modalita' tecniche di cui all'art. 163, paragrafo 3 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XII
+###### Allegato XII
 
 Allegato XII
 
@@ -6297,7 +6275,7 @@ Elenco di cui all'articolo 168, paragrafo 4 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XIII
+###### Allegato XIII
 
 Allegato XIII
 
@@ -6305,7 +6283,7 @@ Elenco di cui all'articolo 174 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XIV
+###### Allegato XIV
 
 Allegato XIV
 
@@ -6313,7 +6291,7 @@ Elenco di cui all'articolo 176 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XV
+###### Allegato XV
 
 Allegato XV
 
@@ -6321,7 +6299,7 @@ Elenco di cui all'articolo 177, paragrafo 3 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XVI
+###### Allegato XVI
 
 Allegato XVI
 
@@ -6329,7 +6307,7 @@ Elenco di cui all'articolo 177, paragrafo 5 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XVII
+###### Allegato XVII
 
 Allegato XVII
 
@@ -6337,7 +6315,7 @@ Elenco di cui all'articolo 178 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XVIII
+###### Allegato XVIII
 
 Allegato XVIII
 
@@ -6345,7 +6323,7 @@ Elenco di cui all'articolo 200 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XIX
+###### Allegato XIX
 
 Allegato XIX
 
@@ -6353,7 +6331,7 @@ Elenco di cui all'articolo 213 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XX
+###### Allegato XX
 
 Allegato XX
 
@@ -6361,7 +6339,7 @@ Elenco di cui all'articolo 243, paragrafo 2, lettera a) dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XXI
+###### Allegato XXI
 
 Allegato XXI
 
@@ -6369,7 +6347,7 @@ Elenco di cui all'articolo 245, paragrafo 1 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XXII
+###### Allegato XXII
 
 Allegato XXII
 
@@ -6377,7 +6355,7 @@ Elenco di cui all'articolo 249, paragrafo 2 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XXIII
+###### Allegato XXIII
 
 Allegato XXIII
 
@@ -6385,7 +6363,7 @@ Elenco di cui all'articolo 269, paragrafo 2 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XXIV
+###### Allegato XXIV
 
 Allegato XXIV
 
@@ -6393,7 +6371,7 @@ Elenco di cui all'articolo 273, paragrafo 2 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XXV
+###### Allegato XXV
 
 Allegato XXV
 
@@ -6401,7 +6379,7 @@ Elenco di cui all'articolo 278, paragrafo 1 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XXVI
+###### Allegato XXVI
 
 Allegato XXVI
 
@@ -6409,7 +6387,7 @@ Elenco di cui all'articolo 280 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XXVII
+###### Allegato XXVII
 
 Allegato XXVII
 
@@ -6417,7 +6395,7 @@ Elenco di cui all'articolo 355, paragrafo 3 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XXVIII
+###### Allegato XXVIII
 
 Allegato XXVIII
 
@@ -6425,7 +6403,7 @@ Elenco di cui all'articolo 361 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XXIX
+###### Allegato XXIX
 
 Allegato XXIX
 
@@ -6433,7 +6411,7 @@ Elenco di cui all'articolo 363 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XXX
+###### Allegato XXX
 
 Allegato XXX
 
@@ -6441,7 +6419,7 @@ Elenco di cui all'articolo 364, paragrafo 3 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XXXI
+###### Allegato XXXI
 
 Allegato XXXI
 
@@ -6449,7 +6427,7 @@ Elenco di cui all'articolo 365 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XXXII
+###### Allegato XXXII
 
 Allegato XXXII
 
@@ -6457,7 +6435,7 @@ Elenco di cui all'articolo 378 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XXXIII
+###### Allegato XXXIII
 
 Allegato XXXIII
 
@@ -6465,7 +6443,7 @@ Elenco di cui all'articolo 391, paragrafo 1 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XXXIV
+###### Allegato XXXIV
 
 Allegato XXXIV
 
@@ -6473,7 +6451,7 @@ Elenco di cui all'articolo 391, paragrafo 2 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XXXV
+###### Allegato XXXV
 
 Allegato XXXV
 
@@ -6481,7 +6459,7 @@ Elenco di cui all'articolo 393 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XXXVI
+###### Allegato XXXVI
 
 Allegato XXXVI
 
@@ -6495,7 +6473,7 @@ PROTOCOLLI
 
 Protocollo n. 1 concernente lo statuto della Banca europea per gli investimenti
 
-##### Articolo 1
+###### Articolo 1
 
 Il testo dell'articolo 3 del protocollo sullo statuto della Banca e' sostituito dal testo seguente:
 
@@ -6527,7 +6505,7 @@ Conformemente all'articolo 129 del trattato, i membri della Banca sono:
 
 \- il Regno Unito di Gran Bretagna e Irlanda del Nord."
 
-##### Articolo 2
+###### Articolo 2
 
 Il testo dell'articolo 4, paragrafo 1, primo comma del protocollo sullo statuto della Banca e' sostituito dal testo seguente:
 
@@ -6557,13 +6535,13 @@ Il testo dell'articolo 4, paragrafo 1, primo comma del protocollo sullo statuto 
 
 \- Lussemburgo 38.658.000"
 
-##### Articolo 3
+###### Articolo 3
 
 Il testo dell'articolo 5, paragrafo 1 del protocollo sullo statuto della Banca e' sostituito dal testo seguente:
 
 "1. Il capitale sottoscritto e' versato dagli stati membri nella misura del 9,01367457% in media degli importi fissati dall'articolo 4, paragrafo 1."
 
-##### Articolo 4
+###### Articolo 4
 
 Il testo dell'articolo 10 del protocollo sullo statuto della Banca e' sostituito dal testo seguente:
 
@@ -6571,7 +6549,7 @@ Il testo dell'articolo 10 del protocollo sullo statuto della Banca e' sostituito
 
 Salvo contraria disposizione del presente statuto, le decisioni del consiglio dei governatori sono prese a maggioranza dei membri che lo compongono. Tale maggioranza dovra' rappresentare almeno il 45% del capitale sottoscritto. Le votazioni del consiglio dei governatori sono regolate dalle disposizioni dell'articolo 148 del trattato."
 
-##### Articolo 5
+###### Articolo 5
 
 Il testo dell'articolo 11, paragrafo 2, primo, secondo e terzo comma del protocollo sullo statuto della Banca e' sostituito dal testo seguente:
 
@@ -6623,13 +6601,13 @@ I sostituti sono nominati per un periodo di cinque anni dal consiglio dei govern
 
 \- un sostituto designato dalla Commissione."
 
-##### Articolo 6
+###### Articolo 6
 
 Il testo dell'articolo 12, paragrafo 2, seconda frase del protocollo sullo statuto della Banca e' sostituito dal testo seguente:
 
 "La maggioranza qualificata richiede quindici voti."
 
-##### Articolo 7
+###### Articolo 7
 
 Il testo dell'articolo 13, paragrafo 1, primo comma del protocollo sullo statuto della Banca e' sostituito dal testo seguente:
 
@@ -6637,7 +6615,7 @@ Il testo dell'articolo 13, paragrafo 1, primo comma del protocollo sullo statuto
 
 ## PARTE SECONDA - ALTRE DISPOSIZIONI
 
-##### Articolo 8
+###### Articolo 8
 
 1\. Il Regno di Spagna e la Repubblica portoghese versano rispettivamente le somme di 91.339.340 ECU e di 12.040.186 ECU, corrispondenti alla loro quota del capitale versato dagli stati membri alla data del 1 gennaio 1986, in cinque rate semestrali uguali, esigibili il 30 aprile ed il 31 ottobre. La prima rata e' dovuta a quella di queste due date che segue per prima la data dell'adesione.
 
@@ -6645,7 +6623,7 @@ Il testo dell'articolo 13, paragrafo 1, primo comma del protocollo sullo statuto
 
 3\. Le somme da versare, a norma del paragrafo 1 e a titolo della parte che rimane da versare e titolo dell'aumento del capitale deciso il 15 giugno 1981, corrispondono alle quote di capitale che i nuovi stati membri devono versare calcolate secondo le disposizioni dell'articolo 5 del protocollo sullo statuto della Banca, che fissavano al 10,17857639% del capitale sottoscritto la percentuale che gli stati membri dovevano versare prima dell'aumento del capitale deciso l'11 giugno 1985, di cui al paragrafo 2.
 
-##### Articolo 9
+###### Articolo 9
 
 Alle date di cui all'articolo 8, paragrafo 1, il Regno di Spagna e la Repubblica portoghese contribuiscono al fondo di riserva, alla riserva supplementare e alle provviste equivalenti a riserve nonche' all'importo che deve ancora essere destinato alle riserve e provviste, costituito dal saldo del conto profitti e perdite al 31 dicembre dell'anno che precede l'adesione, quali figurano nel bilancio della Banca, in ragione degli importi che corrispondono,
 
@@ -6667,19 +6645,19 @@ di tali voci per il Regno di Spagna e a
 
 di tali voci per la Repubblica portoghese.
 
-##### Articolo 10
+###### Articolo 10
 
 I versamenti di cui agli articoli 8 e 9 del presente protocollo sono effettuati dal Regno di Spagna e dalla Repubblica portoghese nella loro moneta nazionale liberamente trasferibile.
 
 Per il calcolo degli importi da versare viene preso in considerazione il tasso di conversione, tra l'ECU e rispettivamente la peseta e l'escudo, in vigore l'ultimo giorno lavorativo del mese che precede le date dei versamenti in questione. Questa formula sara' del pari utilizzata per l'adeguamento del capitale di cui all'articolo 7 del protocollo sullo statuto Banca, adeguamento che sara' applicato anche ai versamenti gia' effettuati dal Regno di Spagna e dalla Repubblica portoghese.
 
-##### Articolo 11
+###### Articolo 11
 
 1\. Immediatamente dopo l'adesione il consiglio dei governatori completa la composizione del consiglio di amministrazione nominando due amministratori designati dal Regno di Spagna e un amministratore designato dalla Repubblica portoghese, nonche' un sostituto designato di comune accordo dal Regno di Spagna e dalla Repubblica portoghese.
 
 2\. Il mandato degli amministratori e del sostituto cosi' nominati scade al termine della seduta annuale del consiglio dei governatori nel corso della quale viene esaminata la relazione annuale sull'esercizio 1987.
 
-##### Articolo 12
+###### Articolo 12
 
 1\. Nei tre mesi successivi all'adesione il consiglio dei governatori nomina su proposta del consiglio di amministrazione il sesto vicepresidente di cui all'articolo 7 del presente protocollo.
 
@@ -6687,7 +6665,7 @@ Per il calcolo degli importi da versare viene preso in considerazione il tasso d
 
 Protocollo N. 2 concernente le Isole Canarie e Ceuta e Melilla
 
-##### Articolo 1
+###### Articolo 1
 
 1\. I prodotti originari delle Isole Canarie o di Ceuta e Melilla nonche' i prodotti in provenienza da paesi terzi importati nelle Isole Canarie o a Ceuta e Melilla nel quadro del regime che sono ivi applicabili nei loro confronti non sono considerati, all'atto della loro immissione in libera pratica nel territorio doganale della Comunita', merci che soddisfano le condizioni degli articoli 9 e 10 del trattato CEE, ne' merci in libera pratica a norma del trattato CECA.
 
@@ -6699,7 +6677,7 @@ Protocollo N. 2 concernente le Isole Canarie e Ceuta e Melilla
 
 5\. Salvo disposizione contraria dell'atto di adesione, compreso il presente protocollo, la Comunita' applica negli scambi di prodotti che rientrano nell'allegato II del trattato CEE con le Isole Canarie e con Ceuta e Melilla il regime generale che essa applica nei suoi scambi esterni.
 
-##### Articolo 2
+###### Articolo 2
 
 1\. Fatti salvi gli articoli 3 e 4 del presente protocollo, i prodotti originari delle Isole Canarie e di Ceuta e Melilla beneficiano, alla loro immissione in libera pratica sul territorio doganale della Comunita', dell'esenzione dai dazi doganali, alle condizioni stabilite nei paragrafi 2 e 3.
 
@@ -6713,7 +6691,7 @@ Tali contingenti sono aperti e ripartiti dal Consiglio, che delibera a maggioran
 
 Per evitare che questo regime crei difficolta' economiche in uno o piu' stati membri a causa della rispedizione dei tabacchi lavorati importati in un altro stato membro, la Commissione adotta, previa consultazione degli stati membri, tutti i metodi di cooperazione amministrativa necessari.
 
-##### Articolo 3
+###### Articolo 3
 
 1\. I prodotti della pesca delle voci 03.01, 03.02, 03.03, 16.04, 16.05 e sottovoci 05.15 A, 23.01 B della tariffa doganale comune, originari delle Isole Canarie o di Ceuta e Melilla, beneficiano, nei limiti di contingenti tariffari calcolati per prodotto sulla media dei quantitativi effettivamente smerciati durante gli anni 1982, 1983 e 1984, del regime definito in appresso, rispettivamente a destinazione della parte della Spagna inclusa nel territorio doganale della Comunita' e della Comunita' nella sua composizione attuale.
 
@@ -6727,7 +6705,7 @@ L'immissione in libera pratica dei prodotti introdotti nel territorio doganale d
 
 3\. Il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, adotta annualmente le disposizioni recanti apertura e ripartizione dei contingenti secondo le modalita' previste nei paragrafi 1 e 2. Per il 1986, il Consiglio delibera in tempo utile per consentire l'apertura e la ripartizione dei contingenti al 1 gennaio 1986.
 
-##### Articolo 4
+###### Articolo 4
 
 1\. I prodotti agricoli elencati nell'allegato A, originari delle Isole Canarie, beneficiano, alle condizioni definite nel presente articolo, alla loro immissione in libera pratica nel territorio doganale della Comunita', dell'esenzione dai dazi doganali entro il limite dei contingenti tariffari calcolati sulla media dei quantitativi effettivamente smerciati negli anni 1982, 1983, 1984, rispettivamente a destinazione della parte della Spagna inclusa nel territorio doganale della Comunita' e della Comunita' nella sua composizione attuale:
 
@@ -6747,13 +6725,13 @@ b) Fino al 31 dicembre 1995, il Regno di Spagna puo' mantenere per le banane di 
 
 In deroga all'articolo 76, paragrafo 2 dell'atto di adesione e fino all'instaurazione di un'organizzazione comune di mercato per questo prodotto, il Regno di Spagna puo' mantenere, nella misura strettamente necessaria per garantire il mantenimento dell'organizzazione nazionale, restrizioni quantitative all'importazione per le banane di cui alla lettera a) importate dai paesi terzi.
 
-##### Articolo 5
+###### Articolo 5
 
 1\. Qualora l'applicazione del regime di cui all'articolo 2, paragrafo 2, conduca ad un aumento sensibile delle importazioni di taluni prodotti originari delle Isole Canarie o di Ceuta e Melilla, tale da causare un pregiudizio ai produttori della Comunita', il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, puo' assoggettare l'accesso di questi prodotti al territorio doganale della Comunita' a condizioni particolari.
 
 2\. Qualora a causa della mancata applicazione della politica commerciale comune e della tariffa doganale comune all'importazione di materie prime o di prodotti intermedi nelle Isole Canarie o a Ceuta e Melilla l'importazione di un prodotto originario delle Isole Canarie o di Ceuta e Melilla causi o rischi di causare un grave pregiudizio ad un'attivita' produttiva esercitata in uno o piu' stati membri, la Commissione, su richiesta di uno stati membro o di sua iniziativa, puo' prendere le misure appropriate.
 
-##### Articolo 6
+###### Articolo 6
 
 1\. I prodotti originari del territorio doganale della Comunita' beneficiano, alla loro importazione nelle Isole Canarie o a Ceute e Melilla, dell'esenzione dai dazi doganali e dalle tasse di effetto equivalente alle condizioni stabilite nei paragrafi 2 e 3.
 
@@ -6765,15 +6743,15 @@ Tuttavia, detta tassa puo' essere mantenuta all'importazione dei prodotti indica
 
 La tassa in questione non puo' essere in nessun momento superiore al livello della tariffa doganale spagnola quale e' modificata in vista della progressiva applicazione della tariffa doganale comune.
 
-##### Articolo 7
+###### Articolo 7
 
 I dazi doganali e le tasse di effetto equivalente a tali dazi, nonche' il regime degli scambi, applicati all'importazione di merci da un paese terzo nelle Isole Canarie e a Ceuta e Melilla, non possono essere meno favorevoli di quelli applicati dalla Comunita' conformemente ai suoi impegni internazionali o sotto regimi preferenziali nei confronti del paese terzo in questione, a condizione che questo paese terzo accordi alle importazioni provenienti dalle Isole Canarie e da Ceuta e Melilla lo stesso trattamento di quello che esso accorda alla Comunita'. Tuttavia, il regime applicato all'importazione nelle Isole Canarie e a Ceuta e Melilla nei confronti di merci in provenienza da questo paese terzo non puo' essere piu' favorevole di quello applicato nei confronti delle importazioni dei prodotti originari del territorio doganale della Comunita'.
 
-##### Articolo 8
+###### Articolo 8
 
 Il regime applicabile agli scambi di merci tra le Isole Canarie, da un lato, e Ceuta e Melilla, dall'altro, e' almeno altrettanto favorevole di quello applicabile a norma dell'articolo 6.
 
-##### Articolo 9
+###### Articolo 9
 
 1\. Il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, adotta, prima del 1 marzo 1986, le regole d'applicazione del presente protocollo, in particolare le regole d'origine applicabili agli scambi di cui agli articoli 2, 3, 4, 6 e 8, comprese le disposizioni relative all'identificazione dei prodotti originari e al controllo dell'origine.
 
@@ -6785,7 +6763,7 @@ Queste regole comprendono, in particolare, disposizioni sull'apposizione dei mar
 
 \- agli scambi tra la parte della Spagna inclusa nel territorio doganale della Comunita', da un lato, e le Isole Canarie e Ceuta e Melilla, dall'altro: le regole d'origine previste dalle disposizioni nazionali vigenti al 31 dicembre 1985.
 
-##### Allegato A
+###### Allegato A
 
 ALLEGATO A
 
@@ -6793,7 +6771,7 @@ Elenco di cui all'articolo 4, paragrafo 1
 
 Parte di provvedimento in formato grafico
 
-##### Allegato B
+###### Allegato B
 
 ALLEGATO B
 
@@ -6805,7 +6783,7 @@ Protocollo N. 3
 
 concernente gli scambi di merci tra la Spagna e il Portogallo durante il periodo d'applicazione delle misure transitorie
 
-##### Articolo 1
+###### Articolo 1
 
 1\. Tranne per i prodotti di cui all'allegato II del trattato CEE e fatte salve le disposizioni del presente protocollo, la Spagna ed il Portogallo applicano nei loro scambi il trattamento concordato tra ciascuno di essi, da un lato, e la Comunita' nella sua composizione attuale, dall'altro, quale e' definito nel titolo il, capo 1 e nel titolo III capo I, della parte quarta dell'atto di adesione.
 
@@ -6815,13 +6793,13 @@ La Repubblica portoghese applica ai prodotti originari della Spagna, di cui ai c
 
 3\. Il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, adotta anteriormente al 1 marzo 1986 le norme d'origine applicabili agli scambi tra la Spagna e il Portogallo.
 
-##### Articolo 2
+###### Articolo 2
 
 Per l'applicazione dell'articolo 48 dell'atto di adesione, per quanto riguarda i prodotti ripresi nell'elenco figurante nell'allegato A, l'abolizione dei diritti esclusivi d'importazione in Spagna prevista al paragrafo 3 di detto articolo e' effettuata mediante l'apertura progressiva, a decorrere dal 1 marzo 1986, di contingenti all'importazione di prodotti originari del Portogallo. I volumi dei contingenti per l'anno 1986 sono indicati nel suddetto elenco.
 
 Il Regno di Spagna aumenta il volume dei contingenti secondo le condizioni indicate nello stesso allegato. Gli aumenti, espressi in percentuali, sono aggiunti ad ogni contingente e l'aumento successivo e' calcolato sul totale cosi' ottenuto.
 
-##### Articolo 3
+###### Articolo 3
 
 1\. In deroga all'articolo 1, il Regno di Spagna stabilisce per i prodotti originari del Portogallo ripresi nell'allegato B, dal 1 marzo 1986 al 31 dicembre 1990, massimali tariffari a dazio nullo. Se i quantitativi previsti per ogni massimale sono raggiunti, il Regno di Spagna puo' reintrodurre, fino al termine dell'anno civile in corso, dei dazi doganali; questi sono allora pari a quelli che il Regno di Spagna applica, in quello stesso momento, nei confronti della Comunita' nella sua composizione attuale.
 
@@ -6845,7 +6823,7 @@ Il Regno di Spagna puo' assoggettare per il 1990 le importazioni dei prodotti fi
 
 In ogni modo l'importazione dei prodotti summenzionati non potra' subire alcun ritardo a causa dell'applicazione di questa sorveglia statistica.
 
-##### Articolo 4
+###### Articolo 4
 
 1\. Il Regno di Spagna puo' fino al 31 dicembre 1990, sottoporre ad una sorveglianza preliminare all'importazione a fini esclusivamente statistici i prodotti seguenti originari del Portogallo:
 
@@ -6869,7 +6847,7 @@ subire alcun ritardo a causa dell'applicazione di questa sorveglianza statistica
 
 1, la Repubblica portoghese puo' sottoporre i prodotti di cui al paragrafo 1, originari della Spagna, ad una sorveglianza preliminare all'importazione a fini esclusivamente statistici.
 
-##### Articolo 5
+###### Articolo 5
 
 1\. La Repubblica portoghese puo', fino al 31 dicembre 1988,
 
@@ -6933,7 +6911,7 @@ doganale comune | Designazione delle merci
 
 condizioni previste dal paragrafo 1, secondo comma, assoggettare ad una sorveglianza preventiva all'importazione, a fini esclusivamente statistici, i prodotti indicati nell'allegato VII dell'atto di adesione nonche' le bevande contenenti alcole di distillazione, della sottovoce 22.09 C della tariffa doganale comune, originari del Portogallo.
 
-##### Articolo 6
+###### Articolo 6
 
 1\. Fino al 31 dicembre 1990, per i prodotti di cui all'articolo 4,
 
@@ -6947,7 +6925,7 @@ paragrafo 1, in caso di cambiamenti bruschi ed importanti nelle importazioni in 
 
 Spagna e la Repubblica portoghese non pervengono ad un accordo, la Commissione, tenendo conto dei criteri che disciplinano la clausola di salvaguardia figurante all'articolo 379 dell'atto di adesione, con procedura d'urgenza, fissa le misure di salvaguardia da essa considerate necessarie, precisandone le condizioni e modalita' di applicazione.
 
-##### Articolo 7
+###### Articolo 7
 
 1\. Se gli importi compensativi di cui agli articoli 72 e 240
 
@@ -6969,7 +6947,7 @@ Il comma precedente non e' applicabile alla cioccolata e alle altre
 
 preparazioni alimentari contenenti cacao, della voce n. 18.06 della tariffa doganale comune. Nei loro confronti l'elemento fisso dell'imposizione applicabile da parte del Portogallo all'importazione in provenienza dalla Spagna non puo' essere superiore al 30%.
 
-##### Articolo 8
+###### Articolo 8
 
 1\. La Commissione determina, tenendo debitamente conto delle
 
@@ -7005,7 +6983,7 @@ Nell'adottare queste disposizioni la Commissione tiene conto delle
 
 regole previste nell'atto di adesione per l'eliminazione dei dazi doganali tra la Comunita' nella sua composizione attuale e la Spagna e il Portogallo e per l'applicazione progressiva, da parte del Regno di Spagna e della Repubblica portoghese, della tariffa doganale comune e delle disposizioni in materia di politica agricola comune.
 
-##### Articolo 9
+###### Articolo 9
 
 1\. Salvo disposizione contraria dell'atto di adesione e del
 
@@ -7025,17 +7003,17 @@ il territorio doganale da prendere in considerazione e' quello definito dalla le
 
 applicano, a decorrere dal 1 marzo 1986, la nomenclatura della tariffa doganale comune e la nomenclatura della tariffa unificata CECA.
 
-##### Articolo 10
+###### Articolo 10
 
 La Repubblica portoghese applica, nell'ambito dei propri scambi con le Isole Canarie e Ceuta e Melilla, i regimi specifici convenuti al riguardo tra la Comunita' nella sua composizione attuale ed il Regno di Spagna, previsti nel protocollo n. 2.
 
-##### Articolo 11
+###### Articolo 11
 
 Senza pregiudizio dell'articolo 1, paragrafo 2, secondo comma, la
 
 Commissione adotta subito dopo l'adesione qualsiasi misura d'applicazione possa rendersi necessaria per l'attuazione delle disposizioni del presente protocollo, in particolare le modalita' di applicazione della sorveglianza prevista agli articoli 3, 4 e 5.
 
-##### Allegato A
+###### Allegato A
 
 ALLEGATO A
 
@@ -7043,7 +7021,7 @@ Elenco di cui all'articolo 2 del protocollo N. 3
 
 Parte di provvedimento in formato grafico
 
-##### Allegato B
+###### Allegato B
 
 ALLEGATO B
 
@@ -7051,7 +7029,7 @@ Elenco di cui all'articolo 3 del protocollo N. 3
 
 Parte di provvedimento in formato grafico
 
-##### Allegato C
+###### Allegato C
 
 ALLEGATO C
 
@@ -7059,7 +7037,7 @@ Elenco di cui all'articolo 3 del protocollo N. 3
 
 Parte di provvedimento in formato grafico
 
-##### Protocollo N. 4
+###### Protocollo N. 4
 
 Protocollo N. 4
 
@@ -7115,7 +7093,7 @@ Le modalita' di applicazione del presente regime, nonche' i
 
 quantitativi interessati, sono adottati secondo la procedura di cui all'articolo 33 del regolamento (CEE) n. 3796/81.
 
-##### Protocollo N. 5
+###### Protocollo N. 5
 
 Protocollo N. 5
 
@@ -7143,7 +7121,7 @@ Ognuna di queste rate e' versata nella moneta nazionale liberamente
 
 convertibile di ciascuno dei nuovi stati membri.
 
-##### Protocollo N. 6
+###### Protocollo N. 6
 
 Protocollo N. 6
 
@@ -7251,7 +7229,7 @@ necessaria.
 
 del presente protocollo da parte del Regno di Spagna, in qualunque forma, compresi i decreti, le direttive e le istruzioni amministrative, questo atto deve essere sottoposto alla Commissione, perche' possa esaminarlo sotto il profilo della compatibilita' con il trattato, con l'atto di adesione e, in particolare, con il presente protocollo. Il Regno di Spagna comunica alla Commissione qualsiasi modifica di un tale atto.
 
-##### Protocollo N. 7
+###### Protocollo N. 7
 
 Protocollo N. 7
 
@@ -7283,7 +7261,7 @@ almeno quattro settimane a decorrere dalla pubblicazione o dalla notifica; dopo 
 
 semestrali sull'utilizzazione dei contingenti.
 
-##### Protocollo N. 8
+###### Protocollo N. 8
 
 Protocollo N. 8
 
@@ -7343,31 +7321,31 @@ Protocollo N. 9
 
 concernente gli scambi di prodotti tessili tra la Spagna e la Comunita' nella sua composizione attuale
 
-##### Articolo 1
+###### Articolo 1
 
 Il Regno di Spagna controlla, secondo le condizioni di cui agli
 
 articoli 2, 3 e 4 e fino al 31 dicembre 1989, le esportazioni negli stati membri attuali dei prodotti enumerati nell'elenco figurante all'allegato A, in base ai quantitativi indicati in detto elenco.
 
-##### Articolo 2
+###### Articolo 2
 
 La Comunita' e il Regno di Spagna stabiliscono, per la durata
 
 d'applicazione dell'articolo 1, una cooperazione amministrativa secondo le condizioni definite all'allegato B.
 
-##### Articolo 3
+###### Articolo 3
 
 Previa notifica alla Commissione, il Regno di Spagna puo' applicare
 
 le disposizioni di flessibilita' previste all'allegato C alle proprie esportazioni negli stati membri attuali dei prodotti enumerati nell'elenco figurante all'allegato A.
 
-##### Articolo 4
+###### Articolo 4
 
 Qualora la situazione lo richieda la Commissione e le competenti
 
 autorita' del Regno di Spagna procedono alle consultazioni appropriate in modo da evitare l'apparizione di situazioni che rendano necessario il ricorso a misure di salvaguardia.
 
-##### Articolo 5
+###### Articolo 5
 
 1\. Qualora siano raggiunti i quantitativi indicati nell'allegato A,
 
@@ -7377,7 +7355,7 @@ oppure qualora siano constatati scarti bruschi ed importanti rispetto alle corre
 
 alle correnti di scambio tradizionali per le importazioni in Spagna dei prodotti enumerati nell'allegato B, paragrafo 9, la Commissione fissa, su richiesta del Regno di Spagna e secondo la procedura d'urgenza prevista dall'articolo 379, paragrafo 2 dell'atto, le misure di salvaguardia da essa ritenute necessarie.
 
-##### Allegato A
+###### Allegato A
 
 ALLEGATO A
 
@@ -7385,7 +7363,7 @@ Elenco di cui all'articolo 1
 
 Parte di provvedimento in formato grafico
 
-##### Allegato B
+###### Allegato B
 
 ALLEGATO B
 
@@ -7533,7 +7511,7 @@ Disposizioni comuni
 
 Commissione e le autorita' spagnole procedono, almeno ogni trimestre, allo studio dello stato degli scambi e delle prospettive degli stessi.
 
-##### Allegato C
+###### Allegato C
 
 ALLEGATO C
 
@@ -7561,7 +7539,7 @@ Queste esportazioni anticipate sono dedotte dai quantitativi
 
 corrispondenti fissati per l'anno successivo.
 
-##### Protocollo
+###### Protocollo
 
 Protocollo N. 10
 
@@ -7671,7 +7649,7 @@ si mostrasse inadeguato la Commissione, previo parere conforme
 
 del Consiglio, prendera' le misure appropriate.
 
-##### Allegato
+###### Allegato
 
 ALLEGATO
 
@@ -7867,7 +7845,7 @@ La prima di tali relazioni riguardera' gli aiuti erogati nel corso
 
 del primo semestre dopo l'adesione.
 
-##### Protocollo N. 11
+###### Protocollo N. 11
 
 Protocollo N. 11
 
@@ -7939,7 +7917,7 @@ In ogni caso il prezzo di base di uno stesso prodotto dovra'
 
 restare unico qualunque sia il punto di parita' adottato.
 
-##### Protocollo N. 12
+###### Protocollo N. 12
 
 Protocollo N. 12
 
@@ -7977,7 +7955,7 @@ Protocollo N. 13
 
 concernente gli scambi di cognizioni con il Regno di Spagna nel campo dell'energia nucleare
 
-##### Articolo 1
+###### Articolo 1
 
 1\. Dal momento dell'adesione le cognizioni comunicate agli stati
 
@@ -8007,7 +7985,7 @@ ottimizzazione degli elementi di combustibili per reattori di
 
 potenza).
 
-##### Articolo 2
+###### Articolo 2
 
 1\. Nei settori in cui il Regno di Spagna mette delle cognizioni a
 
@@ -8021,7 +7999,7 @@ Tali licenze esclusive o parzialmente esclusive vengono concesse su
 
 una base commerciale normale.
 
-##### Protocollo N. 14
+###### Protocollo N. 14
 
 Protocollo N. 14
 
@@ -8063,7 +8041,7 @@ l'applicazione del presente protocollo da parte della
 
 Repubblica portoghese."
 
-##### Protocollo N. 15
+###### Protocollo N. 15
 
 Protocollo N. 15
 
@@ -8079,7 +8057,7 @@ Parte di provvedimento in formato grafico
 
 36.08 B della tariffa doganale comune, in provenienza dalla Comunita', il dazio di base e' pari a zero.
 
-##### Protocollo
+###### Protocollo
 
 Protocollo N. 16
 
@@ -8103,7 +8081,7 @@ concernenti il ravvicinamento dei dazi della tariffa doganale portoghese a quell
 
 \- Funfrap - Sociedade de Fundicao Franco-Portuguesa, Sarl.
 
-##### Allegato
+###### Allegato
 
 ALLEGATO
 
@@ -8137,7 +8115,7 @@ Protocollo N. 17
 
 concernente gli scambi di prodotti tessili tra il Portogallo e gli altri stati membri della Comunita'
 
-##### Articolo 1
+###### Articolo 1
 
 1\. Alle condizioni di cui agli articoli 2, 3 e 4, la Repubblica
 
@@ -8151,43 +8129,43 @@ lo giustifica, la Commissione proroga di un anno l'applicazione del paragrafo 1 
 
 tessili dopo perfezionamento in Portogallo, effettuate alle condizioni e in base ai quantitativi indicati nell'allegato B, non sono imputate sui quantitativi di cui al paragrafo 1.
 
-##### Articolo 2
+###### Articolo 2
 
 La Comunita' e la Repubblica portoghese stabiliscono, per la durata
 
 d'applicazione dell'articolo 1, una cooperazione amministrativa secondo le condizioni definite nell'allegato C.
 
-##### Articolo 3
+###### Articolo 3
 
 La Repubblica portoghese prende le misure appropriate per
 
 assicurare il rispetto dei quantitativi di cui all'articolo 1 nonche' le misure di cooperazione amministrativa di cui all'articolo 2.
 
-##### Articolo 4
+###### Articolo 4
 
 Previa notifica alla Commissione, la Repubblica portoghese puo'
 
 applicare le disposizioni di flessibilita' previste all'allegato D alle proprie esportazioni negli stati membri attuali dei prodotti enumerati nell'elenco figurante nell'allegato A.
 
-##### Articolo 5
+###### Articolo 5
 
 Qualora la situazione lo richieda la Commissione e le competenti
 
 autorita' della Repubblica portoghese procedono alle consultazioni appropriate in modo da evitare l'apparizione di situazioni che rendano necessario il ricorso a misure di salvaguardia.
 
-##### Articolo 6
+###### Articolo 6
 
 Qualora la situazione lo richieda, in particolare in base
 
 all'evoluzione del consumo ed alla progressione delle importazioni in Portogallo di prodotti tessili provenienti da uno o piu' altri stati membri, la Commissione e le competenti autorita' della Repubblica portoghese si consultano, su richiesta della Repubblica portoghese, al fine di ricercare soluzioni appropriate per evitare il ricorso a misure di salvaguardia.
 
-##### Articolo 7
+###### Articolo 7
 
 Qualora siano raggiunti i quantitativi indicati nell'allegato A del
 
 presente protocollo, la Commissione fissa, su richiesta dello stato membro interessato e secondo la procedura d'urgenza prevista all'articolo 379, paragrafo 2 dell'atto di adesione, le misure di salvaguardia da essa ritenute necessarie.
 
-##### Allegato A
+###### Allegato A
 
 ALLEGATO A
 
@@ -8195,7 +8173,7 @@ Elenco di cui all'articolo 1, paragrafo 1
 
 Parte di provvedimento in formato grafico
 
-##### Allegato B
+###### Allegato B
 
 ALLEGATO B
 
@@ -8417,7 +8395,7 @@ come definito dal regolamento (CEE) N. 1224/80 (G.U. n. LE
 
 \- negli altri casi, il prezzo franco stabilimento.
 
-##### Allegato C
+###### Allegato C
 
 ALLEGATO C
 
@@ -8505,7 +8483,7 @@ il periodo di cui alla lettera a).
 
 Commissione e le autorita' portoghesi procedono, almeno ogni trimestre, allo studio dello stato degli scambi e delle prospettive degli stessi.
 
-##### Allegato D
+###### Allegato D
 
 ALLEGATO D
 
@@ -8587,7 +8565,7 @@ equivalenze:
 +----------------------+----------------------+--------------------+
 ```
 
-##### Allegato E
+###### Allegato E
 
 ALLEGATO E
 
@@ -8601,13 +8579,13 @@ Protocollo N. 18
 
 concernente il regime delle importazioni in Portogallo degli autoveicoli in provenienza dagli altri stati membri
 
-##### Articolo 1
+###### Articolo 1
 
 Il regime fissato negli articoli seguenti e' applicabile al
 
 montaggio e all'importazione di autoveicoli con qualsiasi motore, per il trasporto di persone o di merci.
 
-##### Articolo 2
+###### Articolo 2
 
 1\. A decorrere dal 1 gennaio 1986, la Repubblica portoghese apre
 
@@ -8639,7 +8617,7 @@ Ciascuna marca conserva il diritto all'attribuzione di un
 
 contingente minimo di 20 unita'.
 
-##### Articolo 3
+###### Articolo 3
 
 A decorrere dal 1 gennaio 1986, la Repubblica portoghese apre
 
@@ -8655,7 +8633,7 @@ annualmente contingenti all'importazione per gli autoveicoli CBU, originari degl
 +----------------------------------+-------------------------------+
 ```
 
-##### Articolo 4
+###### Articolo 4
 
 1\. A decorrere dal 1 gennaio 1986, la Repubblica portoghese apre,
 
@@ -8677,7 +8655,7 @@ valutazione sono comunicati alla Commissione prima del 15 febbraio di ogni anno.
 
 quote di base e' libera a concorrenza del 90% nel 1986 e del 93% nel 1987. L'utilizzazione della parte rimanente delle quote per marca e' soggetta all'esportazione di autoveicoli o di loro parti in base al valore aggiunto in Portogallo di queste esportazioni.
 
-##### Articolo 5
+###### Articolo 5
 
 1\. Agli esportatori che hanno gia' utilizzato totalmente le loro
 
@@ -8691,13 +8669,13 @@ coefficienti che figurano nell'allegato C.
 
 della Commissione, puo', se necessario, fissare ulteriormente un massimale per ciascuna marca pari ad una percentuale della somma delle quote di base attribuite a tutte le marche.
 
-##### Articolo 6
+###### Articolo 6
 
 Le quote fissate agli articoli 4 e 5 possono essere utilizzate per
 
 l'importazione di autoveicoli tanto CKD quanto CBU.
 
-##### Allegato A
+###### Allegato A
 
 ALLEGATO A
 
@@ -8735,7 +8713,7 @@ Seat                             |       700       |       800
 ---------------------------------------------------------------------
 ```
 
-##### Allegato B
+###### Allegato B
 
 ALLEGATO B
 
@@ -8776,7 +8754,7 @@ Audi | 39.706
 
 ---------------------------------------------------
 
-##### Allegato C
+###### Allegato C
 
 ALLEGATO C
 
@@ -8798,7 +8776,7 @@ Parti finite:                          |              |
 ---------------------------------------------------------------------
 ```
 
-##### Protocollo N. 19
+###### Protocollo N. 19
 
 Protocollo N. 19
 
@@ -8848,7 +8826,7 @@ La Repubblica portoghese potra' ricorrere all'articolo 95,
 
 paragrafo 4 della convenzione di Lussemburgo per apportare gli adattamenti di mero carattere tecnico resi necessari dalla sua adesione alla convenzione medesima, fermo restando tuttavia che tale ricorso non potra' in nessun caso ritardare la sua adesione alla convenzione di Lussemburgo oltre la data indicata.
 
-##### Protocollo
+###### Protocollo
 
 Protocollo N. 20
 
@@ -8970,7 +8948,7 @@ si mostrasse inadeguato la Commissione, previo parere conforme
 
 del Consiglio, prendera' le misure appropriate.
 
-##### Allegato
+###### Allegato
 
 ALLEGATO
 
@@ -9166,7 +9144,7 @@ La prima di tali relazioni riguardera' gli aiuti erogati nel corso
 
 del primo semestre dopo l'adesione.
 
-##### Protocollo N. 21
+###### Protocollo N. 21
 
 Protocollo N. 21
 
@@ -9204,7 +9182,7 @@ Protocollo N. 22
 
 concernente gli scambi di cognizioni con la Repubblica portoghese nel campo dell'energia nucleare
 
-##### Articolo 1
+###### Articolo 1
 
 1\. Dal momento dell'adesione le cognizioni comunicate agli stati
 
@@ -9230,7 +9208,7 @@ canalizzazione),
 
 \- la metallurgia estrattiva dell'uranio.
 
-##### Articolo 2
+###### Articolo 2
 
 1\. Nei settori in cui la Repubblica portoghese mette delle
 
@@ -9248,25 +9226,25 @@ Protocollo N. 23
 
 concernente il regime delle importazioni in Portogallo degli autoveicoli in provenienza dai paesi terzi
 
-##### Articolo 1
+###### Articolo 1
 
 Il regime fissato qui di seguito e' applicabile, a decorrere da 1
 
 gennaio 1986 e fino al 31 dicembre 1987, al montaggio e all'importazione di autoveicoli con qualsiasi motore, per il trasporto di persone o di merci.
 
-##### Articolo 2
+###### Articolo 2
 
 La Repubblica portoghese apre annualmente contingenti
 
 all'importazione per marca per l'importazione in Portogallo degli autoveicoli presentati montati, in appresso denominati CBU, provenienti dai paesi terzi non contraenti, di peso lordo inferiore a 3.500 kg, a concorrenza di 15 unita' per produttore e per anno per le marche di veicoli che non vengono montati in Portogallo e, nel caso delle altre marche, a concorrenza del 2% del numero degli autoveicoli della stessa marca che sono stati montati in Portogallo nell'anno precedente.
 
-##### Articolo 3
+###### Articolo 3
 
 La Repubblica portoghese apre un contingente globale annuo di 30
 
 unita' per gli autoveicoli CBU provenienti dai paesi terzi non contraenti, di peso superiore a 3.500 kg.
 
-##### Articolo 4
+###### Articolo 4
 
 1\. La Repubblica portoghese apre, per gli autoveicoli presentati
 
@@ -9280,7 +9258,7 @@ A tale scopo esse sono sottoposte ad un coefficiente correttore per compensare l
 
 quote di base e' libera a concorrenza del 90% nel 1986 e del 93% nel 1987; l'utilizzazione della parte rimanente delle quote per marca e' soggetta all'esportazione di autoveicoli o di loro parti in base al valore aggiunto in Portogallo di queste esportazioni.
 
-##### Articolo 5
+###### Articolo 5
 
 1\. Agli esportatori che hanno gia' utilizzato totalmente le loro
 
@@ -9294,13 +9272,13 @@ coefficienti che figurano nell'allegato B.
 
 quote addizionali e' limitata ad un valore globale che non puo' superare il 12% della somma totale delle quote CKD di base per le marche indicate nell'allegato A.
 
-##### Articolo 6
+###### Articolo 6
 
 Le quote fissate agli articoli 4 e 5 possono essere utilizzate per
 
 l'importazione di autoveicoli tanto CKD quanto CBU.
 
-##### Allegato A
+###### Allegato A
 
 ALLEGATO A
 
@@ -9325,7 +9303,7 @@ Quote di base per marca - 1985
 +------------------------------+---------------------+
 ```
 
-##### Allegato B
+###### Allegato B
 
 ALLEGATO B
 
@@ -9347,7 +9325,7 @@ Parti finite:                          |              |
 ---------------------------------------------------------------------
 ```
 
-##### Protocollo N. 24
+###### Protocollo N. 24
 
 Protocollo N. 24 concernente le strutture agricole in Portogallo
 
@@ -9373,7 +9351,7 @@ c) a lungo termine, si tratterebbe essenzialmente di agevolare la ricomposizione
 
 7\. Prima del 1 gennaio 1991 la Commissione presenta al Consiglio una relazione di valutazione dell'esecuzione del programma specifico.
 
-##### Protocollo N. 25
+###### Protocollo N. 25
 
 Protocollo N. 25
 
@@ -9393,7 +9371,7 @@ In effetti, in questi settori ogni sviluppo della produzione portoghese rischia 
 
 La Comunita' prende tuttavia cura di definire queste misure di disciplina di produzione in modo da tener conto della situazione agricola molto specifica di questo stato membro; a questo scopo le disposizioni del presente atto di adesione prevedono per questi settori l'inclusione, fin dall'inizio, di un elemento di elasticita' nell'applicazione delle regole comunitarie in materia di disciplina di produzione.
 
-##### Atto finale
+###### Atto finale
 
 ATTO FINALE
 

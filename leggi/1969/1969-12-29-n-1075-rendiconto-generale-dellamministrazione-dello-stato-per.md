@@ -28,7 +28,7 @@ la seguente legge:
 
 ## ENTRATE E SPESE DI COMPETENZA DELL'ESERCIZIO FINANZIARIO 1959-60
 
-### Art. 1
+## Art. 1
 
 Le entrate ordinarie e straordinarie dello
 
@@ -52,7 +52,7 @@ rimasero da versare " 134.421.178.635
  -------------------
 ```
 
-### Art. 2
+## Art. 2
 
 Le spese ordinarie e straordinarie dello
 
@@ -71,7 +71,7 @@ in......................................... L. 4.601.132.978.815 delle quali fur
  -------------------
 ```
 
-### Art. 3
+## Art. 3
 
 Il riepilogo generale dei risultati delle entrate e delle spese di competenza dell'esercizio finanziario 1959-60, rimane cosi' stabilito:
 
@@ -105,7 +105,7 @@ Entrate.................................. L. 4.589.161.489.260 Spese............
 
 ## ENTRATE E SPESE RESIDUE DELL'ESERCIZIO 1958-59 ED ESERCIZI PRECEDENTI
 
-### Art. 4
+## Art. 4
 
 I residui attivi alla chiusura dell'eser-
 
@@ -124,7 +124,7 @@ rimasero da versare... " 135.498.639.954
  -------------------
 ```
 
-### Art. 5
+## Art. 5
 
 I residui passivi alla chiusura dell'eser-
 
@@ -139,7 +139,7 @@ conto consuntivo del bilancio, in.......... L. 1.635.628.319.856 dei quali furon
 
 ## RESIDUI ATTIVI E PASSIVI ALLA CHIUSURA DELL'ESERCIZIO FINANZIARIO - 1959-60
 
-### Art. 6
+## Art. 6
 
 I residui attivi alla chiusura dell'esercizio finanziario 1959-60, sono stabiliti, come dal conto consuntivo del bilancio, nelle seguenti somme:
 
@@ -158,7 +158,7 @@ degli esercizi precedenti (articolo 4)..... " 382.388.147.847 Somme riscosse e n
  -------------------
 ```
 
-### Art. 7
+## Art. 7
 
 I residui passivi alla chiusura dell'esercizio finanziario 1959-60 sono stabiliti, come dal conto consuntivo del bilancio, nelle seguenti somme:
 
@@ -177,7 +177,7 @@ esercizi precedenti (articolo 5)........... " 848.542.969.611
 
 ## SITUAZIONE FINANZIARIA
 
-### Art. 8
+## Art. 8
 
 E' accertato nella somma di lire 4.335.538.141.681,05 il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 1959-60 come risulta dai seguenti dati:
 
@@ -227,11 +227,11 @@ bilita generale............................ " 2.535.352-
 
 ## DISPOSIZIONI SPECIALI
 
-### Art. 9
+## Art. 9
 
 Sono stabiliti nella somma di lire 2.535.352 i discarichi consentiti, nell'esercizio 1959-60, ai tesorieri per casi di forza maggiore, ai sensi dell'articolo 194 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato approvato con regio decreto 23 maggio 1924, n. 827.
 
-### Art. 10
+## Art. 10
 
 Sono approvate le eccedenze d'impegno risultate in sede di consuntivo sul conto della competenza e sul conto dei residui ai capitoli degli stati di previsione della spesa dei Ministeri sottoindicati per l'esercizio finanziario 1959-60, come dal dettaglio che segue:
 
@@ -277,7 +277,7 @@ delle capitanerie di porto....... - L. 7.854.736
 
 ## AMMINISTRAZIONI ED AZIENDE SPECIALI - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-### Art. 11
+## Art. 11
 
 Le entrate ordinarie e straordinarie del
 
@@ -308,7 +308,7 @@ e rimasero da riscuotere.................. L. 758.674.584
  -------------------
 ```
 
-### Art. 12
+## Art. 12
 
 Le spese ordinarie e straordinarie del
 
@@ -325,7 +325,7 @@ zio stesso, sono stabilite in............. L. 134.100.522.720 delle quali furono
  ---------------------
 ```
 
-### Art. 13
+## Art. 13
 
 I residui attivi alla chiusura dell'eser-
 
@@ -338,7 +338,7 @@ riscossi e versati........................ " 1.639.704.723
  --------------------
 ```
 
-### Art. 14
+## Art. 14
 
 I residui passivi alla chiusura dell'e-
 
@@ -349,7 +349,7 @@ sercizio 1958-59, restano determinati in.. L. 62.104.045.167 dei quali furono pa
  ---------------------
 ```
 
-### Art. 15
+## Art. 15
 
 I residui attivi alla chiusura dell'esercizio 1959-60 sono stabiliti nelle seguenti somme:
 
@@ -370,7 +370,7 @@ del riepilogo dell'entrata)............... " 86.999.305
  --------------------
 ```
 
-### Art. 16
+## Art. 16
 
 I residui passivi alla chiusura dell'esercizio finanziario 1959-60 sono stabiliti nelle seguenti somme:
 
@@ -387,7 +387,7 @@ esercizi precedenti (articolo 14)......... " 11.528.188.458
  --------------------
 ```
 
-### Art. 17
+## Art. 17
 
 La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dell'esercizio finanziario 1959-60, risulta come appresso:
 
@@ -429,7 +429,7 @@ al 30 giugno 1960..... " 62.104.045.167
 
 ## AZIENDA MONOPOLIO BANANE
 
-### Art. 18
+## Art. 18
 
 Le entrate ordinarie e straordinarie del-
 
@@ -452,7 +452,7 @@ Ministero delle finanze, in............... L. 20.352.143.118 delle quali furono 
  ---------------------
 ```
 
-### Art. 19
+## Art. 19
 
 Le spese ordinarie e straordinarie del-
 
@@ -469,7 +469,7 @@ lite in................................... L. 20.352.143.118 delle quali furono 
  ---------------------
 ```
 
-### Art. 20
+## Art. 20
 
 I residui attivi alla chiusura dell'eser-
 
@@ -482,7 +482,7 @@ riscossi e versati........................ " 6.379.138
  ---------------------
 ```
 
-### Art. 21
+## Art. 21
 
 I residui passivi alla chiusura dell'e-
 
@@ -493,7 +493,7 @@ sercizio 1958-59 restano determinati in... L. 9.507.438.625 dei quali furono pag
  --------------------
 ```
 
-### Art. 22
+## Art. 22
 
 I residui attivi alla chiusura dell'esercizio finanziario 1959-60 sono stabiliti nelle seguenti somme:
 
@@ -514,7 +514,7 @@ del riepilogo dell'entrata)............... " -
  ---------------------
 ```
 
-### Art. 23
+## Art. 23
 
 I residui passivi alla chiusura dell'esercizio finanziario 1959-60 sono stabiliti nelle seguenti somme:
 
@@ -533,7 +533,7 @@ gli esercizi precedenti (articolo 21)..... " 11.682.633
 
 ## FONDO DI MASSA DEL CORPO DELLA GUARDIA DI FINANZA
 
-### Art. 24
+## Art. 24
 
 Le entrate ordinarie e straordinarie del
 
@@ -558,7 +558,7 @@ nanze, in................................. L. 1.650.453.126 delle quali furono r
  --------------------
 ```
 
-### Art. 25
+## Art. 25
 
 Le spese ordinarie e straordinarie del
 
@@ -575,7 +575,7 @@ zio medesimo sono stabilite in............ L. 1.198.617.754 delle quali furono p
  --------------------
 ```
 
-### Art. 26
+## Art. 26
 
 I residui attivi alla chiusura dell'eser-
 
@@ -588,7 +588,7 @@ riscossi e versati........................ " 29.652.630
  --------------------
 ```
 
-### Art. 27
+## Art. 27
 
 I residui passivi alla chiusura dell'e-
 
@@ -601,7 +601,7 @@ terminati in.............................. L. 444.864.896 dei quali furono pagat
  --------------------
 ```
 
-### Art. 28
+## Art. 28
 
 I residui attivi alla chiusura dell'esercizio 1959-60 sono stabiliti nelle seguenti somme:
 
@@ -622,7 +622,7 @@ del riepilogo della entrata).............. -
  --------------------
 ```
 
-### Art. 29
+## Art. 29
 
 I residui passivi alla chiusura dell'esercizio finanziario 1959-60 sono stabiliti nelle seguenti somme:
 
@@ -639,7 +639,7 @@ gli esercizi precedenti (articolo 27)..... " 24.029.518
  --------------------
 ```
 
-### Art. 30
+## Art. 30
 
 E' accertato nella somma di lire 542.784.973 il saldo attivo del conto finanziario del Fondo di massa del Corpo della guardia di finanza alla fine dell'esercizio 1959-60, risultante dai seguenti dati:
 
@@ -677,7 +677,7 @@ seguito di prelevamento dal conto corrente " 2.700.000.000
 
 ## ARCHIVI NOTARILI
 
-### Art. 31
+## Art. 31
 
 E' approvato il conto consuntivo degli Archivi notarili, per l'esercizio 1959-60, nelle risultanze seguenti:
 
@@ -687,7 +687,7 @@ Entrate.................................... L. 5.788.659.380 Spese..............
 
 ## ISTITUTO AGRONOMICO PER L'AFRICA ITALIANA
 
-### Art. 32
+## Art. 32
 
 Le entrate dell'Istituto agronomico per
 
@@ -712,7 +712,7 @@ detto, in................................. L. 54.113.300 delle quali furono risc
  ---------------------
 ```
 
-### Art. 33
+## Art. 33
 
 Le spese dell'Istituto predetto, accerta-
 
@@ -727,7 +727,7 @@ simo, sono stabilite in................... L. 54.113.300 delle quali furono paga
  ---------------------
 ```
 
-### Art. 34
+## Art. 34
 
 I residui attivi alla chiusura dell'eser-
 
@@ -740,7 +740,7 @@ riscossi e versati........................ " 416.000
  ---------------------
 ```
 
-### Art. 35
+## Art. 35
 
 I residui passivi alla chiusura dell'e-
 
@@ -751,7 +751,7 @@ sercizio 1958-59 restano determinati in... L. 11.535.514 dei quali furono pagati
  ---------------------
 ```
 
-### Art. 36
+## Art. 36
 
 I residui attivi alla chiusura dell'esercizio 1959-60 sono stabiliti nelle seguenti somme:
 
@@ -772,7 +772,7 @@ del riepilogo dell'entrata) -
  ---------------------
 ```
 
-### Art. 37
+## Art. 37
 
 I residui passivi alla chiusura dell'esercizio 1959-60 sono stabiliti nelle seguenti somme:
 
@@ -791,7 +791,7 @@ gli esercizi precedenti (articolo 35)..... " 9.333.614
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-### Art. 38
+## Art. 38
 
 Le entrate ordinarie e straordinarie del
 
@@ -821,7 +821,7 @@ rimasero da versare....... " 24.913
  ---------------------
 ```
 
-### Art. 39
+## Art. 39
 
 Le spese ordinarie e straordinarie del
 
@@ -838,7 +838,7 @@ zio stesso, sono stabilite in............. L. 15.017.209.676 delle quali furono 
  ---------------------
 ```
 
-### Art. 40
+## Art. 40
 
 I residui attivi alla chiusura dell'eser-
 
@@ -854,7 +854,7 @@ rimasero da versare... " 170.862
  ---------------------
 ```
 
-### Art. 41
+## Art. 41
 
 I residui passivi alla chiusura dell'e-
 
@@ -865,7 +865,7 @@ sercizio 1958-59 restano determinati in... L. 1.693.927.514 dei quali furono pag
  ---------------------
 ```
 
-### Art. 42
+## Art. 42
 
 I residui attivi alla chiusura dell'esercizio finanziario. 1959-60 sono stabiliti nelle seguenti somme:
 
@@ -886,7 +886,7 @@ del riepilogo dell'entrata)............... " 195.775
  ---------------------
 ```
 
-### Art. 43
+## Art. 43
 
 I residui passivi alla chiusura dell'esercizio finanziario 1959-60 sono stabiliti nelle seguenti somme:
 
@@ -906,7 +906,7 @@ gli esercizi precedenti (articolo 41)..... " 43.912.441
 
 \-
 
-### Art. 44
+## Art. 44
 
 E' accertato nella somma di lire 29.270.919,30 il saldo attivo del conto finanziario dell'amministrazione del Fondo per il Culto alla fine dell'esercizio 1959-60, come risulta dai seguenti dati:
 
@@ -950,7 +950,7 @@ al 30 giugno 1960...... " 8.286.187.051
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-### Art. 45
+## Art. 45
 
 Le entrate ordinarie e straordinarie del
 
@@ -975,7 +975,7 @@ no in..................................... L. 273.667.685 delle quali furono ris
  ---------------------
 ```
 
-### Art. 46
+## Art. 46
 
 Le spese ordinarie e straordinarie del
 
@@ -992,7 +992,7 @@ zio medesimo, sono stabilite in........... L. 283.452.487 delle quali furono pag
  ---------------------
 ```
 
-### Art. 47
+## Art. 47
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1008,13 +1008,13 @@ rimasero da versare...... " 40
  ---------------------
 ```
 
-### Art. 48
+## Art. 48
 
 I residui passivi alla chiusura dell'e-
 
 sercizio 1958-59, restano determinati in.. L. 127.698.237 dei quali furono pagati nel 1959-60....... " 98.521.294 e rimasero da pagare al 30 giugno 1960.... L. 29.176.943
 
-### Art. 49
+## Art. 49
 
 I residui attivi alla chiusura dell'esercizio 1959-60 sono stabiliti nelle seguenti somme:
 
@@ -1035,7 +1035,7 @@ del riepilogo dell'entrata)............... " 40
  ---------------------
 ```
 
-### Art. 50
+## Art. 50
 
 I residui passivi alla chiusura dell'esercizio finanziario 1959-60 sono stabiliti nelle seguenti somme:
 
@@ -1052,7 +1052,7 @@ gli esercizi precedenti (articolo 48)..... " 29.176.943
  ---------------------
 ```
 
-### Art. 51
+## Art. 51
 
 E' accertato nella somma di lire 2.982.894,58 il saldo attivo del conto finanziario del Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1959-60, come risulta dai seguenti dati:
 
@@ -1095,7 +1095,7 @@ al 30 giugno 1960........ " 233.603.605
 
 ## AZIENDA DEI PATRIMONI RIUNITI EX ECONOMALI
 
-### Art. 52
+## Art. 52
 
 Le entrate ordinarie e straordinarie del-
 
@@ -1125,7 +1125,7 @@ rimasero da versare...... " 898
  ---------------------
 ```
 
-### Art. 53
+## Art. 53
 
 Le spese ordinarie e straordinarie del-
 
@@ -1144,7 +1144,7 @@ vo, in.................................... L. 286.386.192 delle quali furono pag
  --------------------
 ```
 
-### Art. 54
+## Art. 54
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1162,7 +1162,7 @@ rimasero da versare........ " 18.349
  ---------------------
 ```
 
-### Art. 55
+## Art. 55
 
 I residui passivi alla chiusura dell'e-
 
@@ -1175,7 +1175,7 @@ me dal conto consuntivo dell'Azienda in... L. 106.256.664 dei quali furono pagat
  ---------------------
 ```
 
-### Art. 56
+## Art. 56
 
 I residui attivi alla chiusura dell'esercizio finanziario 1959-60 sono stabiliti, come dal conto consuntivo dell'Azienda, nelle seguenti somme:
 
@@ -1198,7 +1198,7 @@ ria (colonna s del riepilogo dell'entrata) " ((- 17.451))
  ---------------------
 ```
 
-### Art. 57
+## Art. 57
 
 I residui passivi alla chiusura dell'esercizio finanziario 1959-60 sono stabiliti, come dal conto consuntivo dell'Azienda, nelle seguenti somme:
 
@@ -1215,7 +1215,7 @@ gli esercizi precedenti (articolo 55)..... " 57.070.650
  ---------------------
 ```
 
-### Art. 58
+## Art. 58
 
 E' accertato nella somma di lire 8.999.428,88 il saldo attivo del conto finanziario dell'Azienda dei patrimoni riuniti ex economali, alla fine dell'esercizio 1959-60, come risulta dai seguenti dati:
 
@@ -1256,7 +1256,7 @@ Spese dell'esercizio finanziario 1959-60 L. 286.386.192- Saldo attivo al 30 giug
 
 ## AZIENDA NAZIONALE AUOTONOMA DELLE STRADE STATALI
 
-### Art. 59
+## Art. 59
 
 Le entrate ordinarie e straordinarie del
 
@@ -1281,7 +1281,7 @@ stabilite in.............................. L. 87.402.566.964 delle quali furono 
  ---------------------
 ```
 
-### Art. 60
+## Art. 60
 
 Le spese ordinarie e straordinarie del
 
@@ -1298,7 +1298,7 @@ zio medesimo, sono stabilite in........... L. 87.402.566.964 delle quali furono 
  ---------------------
 ```
 
-### Art. 61
+## Art. 61
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1311,7 +1311,7 @@ riscossi e versati........................ " 10.922.152.514
  ---------------------
 ```
 
-### Art. 62
+## Art. 62
 
 I residui passivi alla chiusura dell'e-
 
@@ -1322,7 +1322,7 @@ sercizio 1958-59 restano determinati in... L. 68.279.679.551 dei quali furono pa
  ---------------------
 ```
 
-### Art. 63
+## Art. 63
 
 I residui attivi alla chiusura dell'esercizio 1959-60, sono stabiliti nelle seguenti somme:
 
@@ -1343,7 +1343,7 @@ del riepilogo dell'entrata)............... " -
  ---------------------
 ```
 
-### Art. 64
+## Art. 64
 
 I residui passivi alla chiusura dell'esercizio 1959-60 sono stabiliti nelle seguenti somme:
 
@@ -1362,7 +1362,7 @@ gli esercizi precedenti (articolo 62)..... " 35.335.982.678
 
 ## AMMINISTRAZIONE DELLE POSTE E' DEI TELEGRAFI
 
-### Art. 65
+## Art. 65
 
 Le entrate ordinarie e straordinarie del
 
@@ -1389,7 +1389,7 @@ ziario predetto, in....................... L. 191.148.364.356 delle quali furono
  ---------------------
 ```
 
-### Art. 66
+## Art. 66
 
 Le spese ordinarie e straordinarie del
 
@@ -1406,7 +1406,7 @@ mo, sono stabilite in..................... L. 191.148.364.356 delle quali furono
  ---------------------
 ```
 
-### Art. 67
+## Art. 67
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1419,7 +1419,7 @@ riscossi e versati........................ " 26.598.047.168
  ---------------------
 ```
 
-### Art. 68
+## Art. 68
 
 I residui passivi alla chiusura dell'e-
 
@@ -1432,7 +1432,7 @@ pagati.................................... " 22.052.439.263
  ---------------------
 ```
 
-### Art. 69
+## Art. 69
 
 I residui attivi alla chiusura dell'esercizio 1959-60 sono stabiliti nelle seguenti somme:
 
@@ -1449,7 +1449,7 @@ degli esercizi precedenti (articolo 67)... " 3.279.891.724
  ---------------------
 ```
 
-### Art. 70
+## Art. 70
 
 I residui passivi alla chiusura dell'esercizio 1959-60 sono stabiliti nelle seguenti somme:
 
@@ -1468,7 +1468,7 @@ gli esercizi precedenti (articolo 68)..... " 10.708.080.372
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Art. 71
+## Art. 71
 
 Le entrate ordinarie e straordinarie del
 
@@ -1495,7 +1495,7 @@ predetto, in.............................. L. 41.659.300.039 delle quali furono 
  ---------------------
 ```
 
-### Art. 72
+## Art. 72
 
 Le spese ordinarie e straordinarie del
 
@@ -1512,7 +1512,7 @@ zio medesimo, sono stabilite in........... L. 41.659.300.039 delle quali furono 
  ---------------------
 ```
 
-### Art. 73
+## Art. 73
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1525,7 +1525,7 @@ riscossi e versati........................ " 7.967.587.461
  ---------------------
 ```
 
-### Art. 74
+## Art. 74
 
 I residui passivi alla chiusura dell'e-
 
@@ -1538,7 +1538,7 @@ pagati.................................... " 23.473.493.008
  ---------------------
 ```
 
-### Art. 75
+## Art. 75
 
 I residui attivi alla chiusura dell'esercizio 1959-60, sono stabiliti nelle seguenti somme:
 
@@ -1557,7 +1557,7 @@ del riepilogo dell'entrata)............... -
  ---------------------
 ```
 
-### Art. 76
+## Art. 76
 
 I residui passivi alla chiusura dell'esercizio 1959-60 sono stabiliti nelle seguenti somme:
 
@@ -1576,7 +1576,7 @@ gli esercizi precedenti (articolo 74)..... " 18.139.034.814
 
 ## AMMINISTRAZIONE DELLE FERROVIE DELLO STATO
 
-### Art. 77
+## Art. 77
 
 Le entrate ordinarie e straordinarie del
 
@@ -1605,7 +1605,7 @@ sercizio predetto, in..................... L. 1.147.589.711.851 delle quali furo
  ---------------------
 ```
 
-### Art. 78
+## Art. 78
 
 Le spese ordinarie e straordinarie del
 
@@ -1626,7 +1626,7 @@ mo, sono stabilite in..................... L. 1.147.589.711.851 delle quali furo
  ---------------------
 ```
 
-### Art. 79
+## Art. 79
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione delle ferrovie dello Stato, di competenza dell'esercizio finanziario 1959-60, rimane cosi' stabilito:
 
@@ -1642,7 +1642,7 @@ Ordinaria................................ L. 438.724.493.256 Straordinaria......
  ---------------------
 ```
 
-### Art. 80
+## Art. 80
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1655,7 +1655,7 @@ riscossi e versati........................ " 65.247.468.965
  ---------------------
 ```
 
-### Art. 81
+## Art. 81
 
 I residui passivi alla chiusura dell'e-
 
@@ -1668,7 +1668,7 @@ pagati.................................... " 65.776.870.170
  ---------------------
 ```
 
-### Art. 82
+## Art. 82
 
 I residui attivi alla chiusura dell'esercizio 1959-60, sono stabiliti nelle seguenti somme:
 
@@ -1685,7 +1685,7 @@ degli esercizi precedenti (articolo 80)... " 16.782.943.390
  ---------------------
 ```
 
-### Art. 83
+## Art. 83
 
 I residui passivi alla chiusura dell'esercizio 1959-60 sono stabiliti nelle seguenti somme:
 
@@ -1702,13 +1702,13 @@ gli esercizi precedenti (articolo 81)..... " 55.646.957.932
  ---------------------
 ```
 
-### Art. 84
+## Art. 84
 
 E' approvata l'eccedenza di impegni di lire 796.880, risultata, in sede di consuntivo sul conto della competenza del capitolo n. 144 - "Spese per acquisti e diverse" - dello stato di previsione della spesa dell'Amministrazione delle ferrovie dello Stato, per l'esercizio finanziario 1959-60.
 
 ## AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### Art. 85
+## Art. 85
 
 Le entrate ordinarie e straordinarie del
 
@@ -1738,7 +1738,7 @@ rimasero da versare... " 292.246.254
  ---------------------
 ```
 
-### Art. 86
+## Art. 86
 
 Le spese ordinarie e straordinarie del
 
@@ -1755,7 +1755,7 @@ mo, sono stabilite in..................... L. 3.965.755.703 delle quali furono p
  ---------------------
 ```
 
-### Art. 87
+## Art. 87
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1771,7 +1771,7 @@ rimasero da versare..... " 4.425.960
  ---------------------
 ```
 
-### Art. 88
+## Art. 88
 
 I residui passivi alla chiusura dell'e-
 
@@ -1782,7 +1782,7 @@ sercizio 1958-59 restano determinati in... L. 4.230.640.746 dei quali furono pag
  ---------------------
 ```
 
-### Art. 89
+## Art. 89
 
 I residui attivi alla chiusura dell'esercizio finanziario 1959-60, sono stabiliti nelle seguenti somme:
 
@@ -1803,7 +1803,7 @@ del riepilogo dell'entrata)............... " 296.672.214
  ---------------------
 ```
 
-### Art. 90
+## Art. 90
 
 I residui passivi alla chiusura dell'esercizio finanziario 1959-60 sono stabiliti nelle seguenti somme:
 
@@ -1820,7 +1820,7 @@ gli esercizi precedenti (articolo 88)..... " 2.081.843.397
  ---------------------
 ```
 
-### Art. 91
+## Art. 91
 
 E' accertato nella somma di lire 2.270.522 il saldo attivo del conto finanziario dell'Azienda di Stato per le foreste demaniali, alla fine dell'esercizio 1959-60, come risulta dai seguenti dati:
 

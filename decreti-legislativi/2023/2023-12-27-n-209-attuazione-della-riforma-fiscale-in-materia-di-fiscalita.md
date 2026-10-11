@@ -206,7 +206,7 @@ b) al comma 5-bis, alinea, le parole: «Salvo prova contraria, si considera esis
 
 > Omissis.»
 
-## Capo II - Altre disposizioni in materia di fiscalita' internazionale
+### Capo II - Altre disposizioni in materia di fiscalita' internazionale
 
 #### Art. 3
 
@@ -496,9 +496,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 18 dicembre 2025, n. 192 ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
 
-## Capo II - Imposta minima integrativa, imposta minima suppletiva e imposta
-
-### minima nazionale
+### Capo II - Imposta minima integrativa, imposta minima suppletiva e imposta minima nazionale
 
 #### Art. 13
 
@@ -670,7 +668,7 @@ f) il numero dei dipendenti e il valore contabile netto dei beni tangibili rispe
 
 9-bis. ((Per i gruppi con esercizi di durata non superiore a 53 settimane, l'opzione del comma 9 puo' essere esercitata in relazione agli esercizi di oltre dodici mesi che iniziano entro il 31 dicembre 2025 e terminano entro il 3 gennaio 2027.))
 
-## Capo III - Determinazione del reddito o perdita rilevante
+### Capo III - Determinazione del reddito o perdita rilevante
 
 #### Art. 22
 
@@ -882,7 +880,7 @@ b) l'entita' trasparente e' detenuta direttamente, ovvero indirettamente attrave
 
 6\. Le disposizioni di cui ai commi 3, 4 e 5 si applicano separatamente in relazione ad ogni partecipazione detenuta in una entita' trasparente.
 
-## Capo IV - Calcolo delle imposte rilevanti rettificate
+### Capo IV - Calcolo delle imposte rilevanti rettificate
 
 #### Art. 27
 
@@ -1088,9 +1086,7 @@ Modifiche successive alla presentazione della comunicazione e variazioni della a
 
 5\. Se un importo superiore a un milione di euro di imposte correnti che sono state contabilizzate da un'impresa con riferimento ad un esercizio e che hanno concorso a determinare il relativo valore delle imposte rilevanti rettificate non e' pagato alle autorita' competenti entro il terzo anno successivo all'ultimo giorno dell'esercizio, l'aliquota di imposizione effettiva e l'imposizione integrativa relative all'esercizio di contabilizzazione sono ricalcolati ai sensi dell'articolo 36, comma 1 escludendo l'importo non pagato dal relativo valore delle imposte rilevanti rettificate.
 
-## Capo V - Calcolo dell'aliquota d'imposizione effettiva e dell'imposizione
-
-### integrativa
+### Capo V - Calcolo dell'aliquota d'imposizione effettiva e dell'imposizione integrativa
 
 #### Art. 33
 
@@ -1316,7 +1312,7 @@ b) l'imposizione integrativa che sarebbe stata calcolata senza l'esercizio dell'
 
 6\. ((A seguito di opzione dell'impresa dichiarante, i crediti d'imposta rimborsabili qualificati e i crediti d'imposta negoziabili, che sono parametrati alle spese effettivamente sostenute oppure legati al livello della produzione, sono trattati come incentivi fiscali qualificati. In tal caso, ai fini del calcolo dell'imposizione integrativa si applicano le disposizioni dei commi 4 e 5 e i suddetti crediti non concorrono alla formazione del reddito o perdita rilevante e diminuiscono le imposte rilevanti rettificate.)) 7. ((Con decreto del Ministro dell'economia e delle finanze sono stabiliti modalita', termini, elementi e condizioni per fruire dei regimi del presente articolo, in conformita' alle regole OCSE e alla direttiva)).
 
-## Capo VI - Operazioni di riorganizzazione e societa' holding
+### Capo VI - Operazioni di riorganizzazione e societa' holding
 
 #### Art. 40
 
@@ -1474,7 +1470,7 @@ c) «accordo tra gruppi quotati»: indica un accordo sottoscritto tra due o piu'
 
 8\. Le controllanti capogruppo di un gruppo a controllante multipla devono presentare la comunicazione rilevante ai sensi dell'articolo 51, comma 2, salvo che sia stata nominata una unica impresa dichiarante designata, ai sensi dell'articolo 51, comma 3, lettera b). La comunicazione deve contenere le informazioni rilevanti riguardanti ciascun gruppo che compone il gruppo a controllante multipla.
 
-## Capo VII - Regimi di neutralita' fiscale e imposizione delle distribuzioni
+### Capo VII - Regimi di neutralita' fiscale e imposizione delle distribuzioni
 
 #### Art. 45
 
@@ -1642,7 +1638,7 @@ d) dell'importo residuo della perdita rilevante che non e' gia' stata utilizzata
 
 10\. Le disposizioni del presente articolo si applicano anche in relazione alle entita' assicurative d'investimento di cui alla definizione numero 15) dell'allegato A.
 
-## Capo VIII - Disposizioni amministrative
+### Capo VIII - Disposizioni amministrative
 
 #### Art. 51
 
@@ -1754,7 +1750,7 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 18 dicembre 2025, n. 192 ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
 
-## Capo IX - Disposizioni transitorie e finali
+### Capo IX - Disposizioni transitorie e finali
 
 #### Art. 54
 
@@ -1858,9 +1854,7 @@ Decorrenza
 
 1\. Le disposizioni del presente titolo si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023. Le disposizioni di cui agli articoli 19, 20 e 21 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2024, fatto salvo quanto previsto nell'articolo 57, comma 1.
 
-## Titolo III - DISPOSIZIONI PER FAVORIRE LA COMPLIANCE IN MATERIA DI DISALLINEAMENTI
-
-### DA IBRIDI
+## Titolo III - DISPOSIZIONI PER FAVORIRE LA COMPLIANCE IN MATERIA DI DISALLINEAMENTI DA IBRIDI
 
 #### Art. 61
 

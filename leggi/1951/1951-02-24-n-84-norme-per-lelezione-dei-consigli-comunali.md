@@ -25,25 +25,21 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I - Elezione dei Consigli comunali nei Comuni
+## CAPO I - Elezione dei Consigli comunali nei Comuni con popolazione sino a 10.000 abitanti.
 
-### con popolazione sino a 10.000 abitanti.
-
-#### Art. 1
+### Art. 1
 
 La elezione dei consiglieri comunali nei Comuni con popolazione sino a 10.000 abitanti si effettua con le norme previste nei titolo II, capo II, del decreto legislativo luogotenenziale 7 gennaio 1946, n. 1.
 
-## CAPO II - Elezione dei Consigli comunali nei Comuni con
+## CAPO II - Elezione dei Consigli comunali nei Comuni con popolazione superiore ai 10.000 alitanti.
 
-### popolazione superiore ai 10.000 alitanti.
-
-#### Art. 2
+### Art. 2
 
 Nei Comuni con popolazione superiore ai 10.000 abitanti, la elezione e' fatta a scrutinio di lista, con facolta' di collegamento tra le liste e con rappresentanza proporzionale delle minoranze.
 
 Ai fini del precedente comma si osservano le norme del titolo II, capo III, del decreto legislativo luogotenenziale 7 gennaio 1946, n. 1, con le modificazioni di cui alla presente legge.
 
-#### Art. 3
+### Art. 3
 
 Il primo ed il quinto comma, ed il n. 3 dell'ottavo comma dell'art. 56 del decreto legislativo luogotenenziale 7 gennaio 1946, n. 1, sono abrogati e sostituiti rispettivamente dai seguenti:
 
@@ -53,7 +49,7 @@ Il primo ed il quinto comma, ed il n. 3 dell'ottavo comma dell'art. 56 del decre
 
 "3°) l'indicazione di due delegati i quali abbiano la facolta' di effettuare le dichiarazioni di collegamento della lista di cui all'articolo successivo e di designare i rappresentanti delle liste presso ogni seggio: le dichiarazioni e le designazioni debbono essere fatte per iscritto e la firma dei delegati deve essere autenticata".
 
-#### Art. 4
+### Art. 4
 
 Le liste dei candidati possono collegarsi agli effetti della determinazione della cifra elettorale di gruppo per l'assegnazione dei seggi ai sensi dell'art. 8.
 
@@ -61,7 +57,7 @@ A tale scopo, entro le ore 12 del trentesimo giorno precedente l'elezione, i del
 
 Le dichiarazioni di collegamento debbono essere reciproche.
 
-#### Art. 5
+### Art. 5
 
 Dopo il primo comma dell'art. 57 del decreto legislativo luogotenenziale 7 gennaio 1946, n. 1, e' inserito il seguente:
 
@@ -71,7 +67,7 @@ Il penultimo comma dell'articolo sopracitato e' sostituito dal seguente:
 
 "Le decisioni della Commissione sono inappellabili e devono essere immediatamente comunicate al sindaco per la preparazione del manifesto, di cui all'art. 29, n. 3, recante le liste dei candidati con la indicazione dei collegamenti, per l'affissione all'albo pretorio ed in altri luoghi pubblici, da effettuarsi entro il quindicesimo giorno precedente l'elezione".
 
-#### Art. 6
+### Art. 6
 
 L'art. 59 del decreto legislativo luogotenenziale 7 gennaio 1946, n. 1, e' abrogato e sostituito dal seguente:
 
@@ -97,13 +93,13 @@ L'art. 59 del decreto legislativo luogotenenziale 7 gennaio 1946, n. 1, e' abrog
 
 "Le preferenze espresse in numeri sulla stessa riga sono nulle se ne derivi incertezza".
 
-#### Art. 7
+### Art. 7
 
 Il penultimo comma dell'art. 60 del decreto legislativo luogotenenziale 7 gennaio 1946, n. 1, e' abrogato e sostituito dal seguente:
 
 "Le schede soils di tipo unico e di identico colore; sono fornite a cura del Ministero dell'interno con le caratteristiche essenziali dei modelli descritti nelle tabelle A e B allegate alla presente legge, vistate dal Ministro per l'interno".
 
-#### Art. 8
+### Art. 8
 
 L'art. 65 del decreto legislativo luogotenenziale 7 gennaio 1946, n. 1, e' abrogato e sostituito dal seguente:
 
@@ -129,33 +125,31 @@ Indi determina la cifra elettorale di lista, la cifra elettorale di gruppo e la 
 
 "Stabilito il numero dei consiglieri assegnato a ciascuna lista, l'Ufficio centrale forma la graduatoria dei candidati delle singole liste a seconda delle rispettive cifre individuali".
 
-#### Art. 9
+### Art. 9
 
 Ove la piu' alta cifra elettorale sia stata raggiunta da due o piu' liste o gruppi di liste, rendendo impossibile la determinazione della lista o del gruppo di liste, cui vanno attribuiti i due terzi dei seggi da coprire, si procede al riparto proporzionale dei seggi tra tutte le liste in base alla loro cifra elettorale secondo le norme stabilite al numero 1° dell'articolo precedente.
 
-#### Art. 10
+### Art. 10
 
 L'art. 68 del decreto legislativo luogotenenziale 7 gennaio 1946, n. 1, e' abrogato e sostituito dal seguente:
 
 "Il seggio che durante il quadriennio rimanga vacante per qualsiasi causa anche se sopravvenuta, eccettuato il caso di dimissioni volontarie, e' attribuito al candidato che nella medesima, lista segue immediatamente l'ultimo eletto".
 
-## CAPO III - Disposizioni varie per la votazione
+## CAPO III - Disposizioni varie per la votazione e lo scrutinio - in tutti i Comuni.
 
-### e lo scrutinio - in tutti i Comuni.
-
-#### Art. 11
+### Art. 11
 
 L'art. 33 del decreto legislativo luogotenenziale 7 gennaio 1946, n. 1, e' abrogato e sostituito dal seguente:
 
 "Il presidente, gli scrutatori, il segretario del seggio e i rappresentanti delle liste dei candidati, nonche' gli ufficiali ed agenti della forza pubblica in servizio di ordine pubblico, votano, previa esibizione del certificato di iscrizione nelle liste elettorali del Comune, nella sezione presso la quale esercitano il loro ufficio, anche se siano iscritti come elettori in altra sezione. "Gli elettori di cui al comma precedente sono iscritti a cura del presidente, in calce alla lista di sezione e di essi e' presa nota nel verbale".
 
-#### Art. 12
+### Art. 12
 
 L'art. 40 del decreto legislativo luogotenenziale 7 gennaio 1946, n. 1, modificato dall'art. 1 del decreto legislativo luogotenenziale 15 marzo 1946, n. 83, e' abrogato e sostituito dal seguente:
 
 "La votazione deve proseguire fino alle ore 22. Tuttavia gli elettori che siano ancora nei locali del seggio sono ammessi a votare".
 
-#### Art. 13
+### Art. 13
 
 Al presidente dell'Ufficio elettorale centrale ed ai presidenti degli Uffici elettorali di sezione spetta una diaria di lire 3.000 per ogni giorno al lordo delle ritenute di legge. E' dovuto altresi' un trattamento di missione, corrispondente a quello che spetterebbe ai funzionari di grado V dei ruoli dell'Amministrazione dello Stato.
 
@@ -165,7 +159,7 @@ Agli scrutatori ed ai segretari spetta una diaria di lire 2.000 al giorno, al lo
 
 La liquidazione delle competenze viene effettuata a cura ed a carico dell'Amministrazione comunale.
 
-#### Art. 14
+### Art. 14
 
 Ove sia stata ammessa e votata una sola lista, nei Comuni con popolazione sino a 10.000 abitanti, si intendono eletti i candidati che abbiano riportato un numero di voti validi non inferiore al 20 per cento dei votanti, purche' il numero dei votanti non sia stato inferiore al 50 per cento degli elettori iscritti nelle liste elettorali del Comune; nei Comuni superiori ai 10.000 abitanti si intendono eletti i candidati compresi nella lista purche' essa abbia riportato un numero di voti validi non inferiore al 50 per cento dei votanti ed il numero dei votanti non sia stato inferiore al 50 per cento degli elettori iscritti nelle liste elettorali del Comune.
 
@@ -173,7 +167,7 @@ Qualora il numero dei votanti non abbia raggiunto la percentuale di cui al comma
 
 ## CAPO IV - Organi dell'Amministrazione comunale ed eleggibilita'.
 
-#### Art. 15
+### Art. 15
 
 Il primo ed il secondo comma dell'art. 3 del decreto legislativo luogotenenziale 7 gennaio 1946, n. 1, sono abrogati e sostituiti dai seguenti:
 
@@ -193,13 +187,13 @@ e 2 effettivi negli altri.
 
 "Il numero degli assessori viene fissato dal Consiglio comunale successivamente alla elezione del sindaco".
 
-#### Art. 16
+### Art. 16
 
 Il secondo comma dell'art. 6 del decreto legislativo luogotenenziale 7 gennaio 1946, n. 1, e' abrogato e sostituito dal seguente:
 
 "L'elezione del sindaco non e' valida se non e' fatta con l'intervento dei due terzi dei consiglieri in carica ed a maggioranza assoluta di voti".
 
-#### Art. 17
+### Art. 17
 
 L'art. 8 del decreto legislativo luogotenenziale 7 gennaio 1946, n. 1, 6 abrogato e sostituito dal seguente:
 
@@ -215,7 +209,7 @@ b) quando il Consiglio comunale per dimissioni od altra causa abbia perduto la m
 
 "Le elezioni si effettuano entro tre mesi dal compimento delle operazioni prescritte dall'art. 38 della legge 7 ottobre 1947, n. 1058, oppure dal verificarsi delle condizioni di cui alla lettera b). "E' abrogato l'art. 280 del regio decreto 4 febbraio 1915, n. 148. "Il sindaco e la Giunta municipale restano in carica fino alla nomina dei successori".
 
-#### Art. 18
+### Art. 18
 
 L'art. 13 del decreto legislativo luogotenenziale 7 gennaio 1946, n. 1, integrato dall'art. 1 del decreto legislativo luogotenenziale 10 marzo 1946, n. 76, e' abrogato e sostituito dal seguente:
 
@@ -223,15 +217,15 @@ L'art. 13 del decreto legislativo luogotenenziale 7 gennaio 1946, n. 1, integrat
 
 ## CAPO V - Disposizioni transitorie e finali.
 
-#### Art. 19
+### Art. 19
 
 Per l'applicazione del decreto legislativo luogotenenziale 7 gennaio 1946, n. 1, e della presente legge, fino a che non saranno pubblicati i risultati ufficiali del prossimo censimento generale demografico, si fara' riferimento ai dati ufficiali dell'Istituto centrale di statistica relativi alla popolazione residente, calcolata ai 31 dicembre 1947.
 
-#### Art. 20
+### Art. 20
 
 Si applicano anche in caso di elezioni amministrative le disposizioni dell'art. 73 del testo unico delle leggi per la elezione della Camera dei deputati, approvato con decreto 5 febbraio 1948, n. 26, del Presidente della Repubblica.
 
-#### Art. 21
+### Art. 21
 
 Sono abrogate le disposizioni contrarie o comunque incompatibili con la presente legge.
 
@@ -249,13 +243,13 @@ Visto: il Guardasigilli: PICCIONI
 
 ## CAPO V - Disposizioni transitorie e finali.
 
-#### Allegato A
+### Allegato A
 
 ALLEGATO A
 
 Parte di provvedimento in formato grafico
 
-#### Allegato B
+### Allegato B
 
 ALLEGATO B
 

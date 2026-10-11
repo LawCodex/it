@@ -259,7 +259,7 @@ Imposte di effetto equivalente ai dazi doganali
 
 All'entrata in vigore dell'accordo la Comunita' e il Sudafrica aboliscono tutte le imposte di effetto equivalente ai dazi doganali sulle loro rispettive importazioni.
 
-## SEZIONE B - PRODOTTI INDUSTRIALI
+### SEZIONE B - PRODOTTI INDUSTRIALI
 
 #### ARTICOLO 10
 
@@ -393,7 +393,7 @@ dodici anni dopo l'entrata in vigore del presente accordo, i dazi rimanenti sono
 
 Il Sudafrica informera' la Comunita' in merito ai risultati della revisione del programma di sviluppo dell'industria automobilistica sudafricana. Esso presentera' proposte per un'ulteriore liberalizzazione delle importazioni sudafricane di prodotti automobilistici originarie della Comunita' enumerate negli elenchi 5 e 6 dell'allegato III. Le Parti vaglieranno congiuntamente queste proposte nei secondi sei mesi dell'anno 2000.
 
-## SEZIONE C - PRODOTTI AGRICOLI
+### SEZIONE C - PRODOTTI AGRICOLI
 
 #### ARTICOLO 13
 
@@ -669,7 +669,7 @@ Norme in materia di origine
 
 Le norme in materia di origine per l'applicazione delle preferenze tariffarie previste dal presente accordo sono definite nel Protocollo 1.
 
-## SEZIONE B - DIRITTO DI STABILIMENTO E PRESTAZIONE DI SERVIZI
+### SEZIONE B - DIRITTO DI STABILIMENTO E PRESTAZIONE DI SERVIZI
 
 #### ARTICOLO 29
 
@@ -715,7 +715,7 @@ Trasporti marittimi
 
 3\. Le Parti decidono di considerare il trasporto marittimo, comprese le operazioni intermodali, nel contesto dell'articolo 30, a prescindere da restrizioni legate alla nazionalita' o da accordi conclusi dall'una o dall'altra Parte, che esistono attualmente e che devono essere conformi ai diritti e agli obblighi delle Parti ai sensi dell'accordo GATS.
 
-## SEZIONE C - PAGAMENTI CORRENTI E MOVIMENTI DI CAPITALI
+### SEZIONE C - PAGAMENTI CORRENTI E MOVIMENTI DI CAPITALI
 
 #### ARTICOLO 32
 
@@ -739,7 +739,7 @@ Difficolta' della bilancia dei pagamenti
 
 Qualora uno o piu' Stati membri della Comunita' o il Sudafrica abbiano, o corrano un imminente rischio di avere, gravi difficolta' di bilancia dei pagamenti, la Comunita' o il Sudafrica, a seconda dei casi, possono adottare, alle condizioni di cui all'Accordo generale sulle tariffe doganali e sul commercio e agli articoli VIII e XIV degli statuti del Fondo Monetario Internazionale, misure restrittive di durata limitata alle operazioni correnti, la cui portata non deve eccedere quella strettamente necessaria per ovviare alla situazione della bilancia dei pagamenti. La Comunita' o il Sudafrica, secondo il caso, ne informa immediatamente l'altra Parte e le sottopone il piu' rapidamente possibile un calendario per l'abolizione di tali misure.
 
-## SEZIONE D - POLITICA DI CONCORRENZA
+### SEZIONE D - POLITICA DI CONCORRENZA
 
 #### ARTICOLO 35
 
@@ -799,7 +799,7 @@ Informazioni
 
 Le Parti procedono a scambi di informazioni nei limiti consentiti dal rispetto del segreto professionale e del segreto di impresa.
 
-## SEZIONE E - AIUTI PUBBLICI
+### SEZIONE E - AIUTI PUBBLICI
 
 #### ARTICOLO 41
 
@@ -831,7 +831,7 @@ Riesame
 
 2\. Il Consiglio di cooperazione valuta periodicamente i risultati conseguiti in questi settori. In particolare, esso continua ad adoperarsi per ricercare una cooperazione e un'intesa sulle misure adottate da ciascuna Parte relativamente all'attuazione dell'articolo 41.
 
-## SEZIONE F - ALTRE DISPOSIZIONI RELATIVE AGLI SCAMBI
+### SEZIONE F - ALTRE DISPOSIZIONI RELATIVE AGLI SCAMBI
 
 #### ARTICOLO 45
 
@@ -1269,7 +1269,7 @@ Accordi di finanziamento
 
 2\. Ogni accordo o contratto di finanziamento prevede che la Commissione e la Corte dei conti europea possano procedere a verifiche in loco.
 
-## SEZIONE B - ATTUAZIONE
+### SEZIONE B - ATTUAZIONE
 
 #### ARTICOLO 73
 

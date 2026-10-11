@@ -593,7 +593,7 @@ Ambito di applicazione
 
 La presente sezione si applica alla prevenzione e alla risoluzione di qualsiasi controversia che possa insorgere tra le parti riguardo all'interpretazione e all'applicazione delle disposizioni del presente accordo, salvo altrimenti disposto nel presente accordo.
 
-## SOTTOSEZIONE 2 - CONSULTAZIONI E MEDIAZIONE
+#### SOTTOSEZIONE 2 - CONSULTAZIONI E MEDIAZIONE
 
 ##### ARTICOLO 3.3
 
@@ -625,7 +625,7 @@ Meccanismo di mediazione
 
 Le parti possono convenire in qualsiasi momento di avviare un procedimento di mediazione a norma dell'allegato 9 (Meccanismo di mediazione) in relazione a qualsiasi misura che incida negativamente sugli investimenti tra le parti.
 
-## SOTTOSEZIONE 3 - PROCEDURE DI RISOLUZIONE DELLE CONTROVERSIE
+#### SOTTOSEZIONE 3 - PROCEDURE DI RISOLUZIONE DELLE CONTROVERSIE
 
 ##### ARTICOLO 3.5
 
@@ -817,7 +817,7 @@ Decisioni e lodi del collegio arbitrale
 
 2\. Le relazioni e i lodi del collegio arbitrale sono accettati senza riserve dalle parti e non creano alcun diritto ne' alcun obbligo per le persone fisiche o giuridiche. Le relazioni e i lodi indicano le conclusioni di fatto, l'applicabilita' delle disposizioni pertinenti di cui all'articolo 3.2 (Ambito di applicazione) e le motivazioni alla base di tutte le risultanze e conclusioni. Il comitato rende pubblici le relazioni e i lodi del collegio arbitrale in ogni loro parte entro 10 giorni dalla loro presentazione, a meno che non decida altrimenti per tutelare informazioni riservate.
 
-## SOTTOSEZIONE 4 - DISPOSIZIONI GENERALI
+#### SOTTOSEZIONE 4 - DISPOSIZIONI GENERALI
 
 ##### ARTICOLO 3.23
 
@@ -869,9 +869,9 @@ Riesame e modifica
 
 Il comitato puo' riesaminare e decidere di modificare gli allegati 7 (Regolamento di procedura), 8 (Codice di condotta per gli arbitri e i mediatori) e 9 (Meccanismo di mediazione).
 
-## SEZIONE B - Risoluzione delle controversie tra gli investitori e le parti
+### SEZIONE B - Risoluzione delle controversie tra gli investitori e le parti
 
-### SOTTOSEZIONE 1 - Ambito di applicazione e definizioni
+#### SOTTOSEZIONE 1 - Ambito di applicazione e definizioni
 
 ##### ARTICOLO 3.27
 
@@ -923,7 +923,7 @@ j) "UNCITRAL", la Commissione delle Nazioni Unite per il diritto commerciale int
 
 k) "norme di trasparenza UNCITRAL", le norme UNCITRAL di trasparenza nell'arbitrato tra investitori e Stati basato sui trattati.
 
-## SOTTOSEZIONE 2 - RISOLUZIONE ALTERNATIVA DELLE CONTROVERSIE E CONSULTAZIONI
+#### SOTTOSEZIONE 2 - RISOLUZIONE ALTERNATIVA DELLE CONTROVERSIE E CONSULTAZIONI
 
 ##### ARTICOLO 3.29
 
@@ -999,7 +999,7 @@ Mediazione
 
 5\. Una volta che le parti della controversia abbiano deciso di fare ricorso alla mediazione, i termini di cui all'articolo 3.30 (Consultazioni), paragrafi 2 e 5, all'articolo 3.53 (Sentenza provvisoria), paragrafo 6, e all'articolo 3.54 (Procedura d'appello), paragrafo 5, sono sospesi nel periodo compreso tra la data in cui si e' convenuto di fare ricorso alla mediazione e la data in cui una delle parti della controversia abbia deciso di porre fine alla mediazione con lettera indirizzata al mediatore e all'altra parte della controversia. Su richiesta di entrambe le parti della controversia, se una divisione del tribunale e' stata costituita a norma dell'articolo 3.38 (Tribunale), la divisione sospende il procedimento fino alla data in cui una delle parti della controversia decide di porre fine alla mediazione con lettera indirizzata al mediatore e all'altra parte della controversia.
 
-## SOTTOSEZIONE 3 - PRESENTAZIONE DI UNA DOMANDA E CONDIZIONI PRELIMINARI
+#### SOTTOSEZIONE 3 - PRESENTAZIONE DI UNA DOMANDA E CONDIZIONI PRELIMINARI
 
 ##### ARTICOLO 3.32
 
@@ -1139,7 +1139,7 @@ Finanziamento da parte di terzi
 
 3\. Nell'applicare l'articolo 3.48 (Garanzia a copertura delle spese), il tribunale tiene conto dell'eventuale esistenza di un finanziamento da parte di terzi. Nel pronunciarsi sulle spese del procedimento a norma dell'articolo 3.53 (Sentenza provvisoria), paragrafo 4, il tribunale tiene conto del fatto che siano state rispettate o no le prescrizioni di cui ai paragrafi 1 e 2 del presente articolo.
 
-## SOTTOSEZIONE 4 - SISTEMA GIURISDIZIONALE PER GLI INVESTIMENTI
+#### SOTTOSEZIONE 4 - SISTEMA GIURISDIZIONALE PER GLI INVESTIMENTI
 
 ##### ARTICOLO 3.38
 
@@ -1281,7 +1281,7 @@ Meccanismi multilaterali di risoluzione delle controversie
 
 Le parti avviano negoziati per un accordo internazionale volto a costituire un tribunale multilaterale per gli investimenti connesso a un meccanismo multilaterale d'appello o distinto da quest'ultimo, applicabile alle controversie nel quadro del presente accordo. Le parti possono pertanto decidere di non applicare determinate parti della presente sezione. Il comitato puo' adottare una decisione che specifichi le disposizioni transitorie necessarie
 
-## SOTTOSEZIONE 5 - SVOLGIMENTO DEI PROCEDIMENTI
+#### SOTTOSEZIONE 5 - SVOLGIMENTO DEI PROCEDIMENTI
 
 ##### ARTICOLO 3.42
 
@@ -2557,7 +2557,7 @@ Obiettivo
 
 Il presente allegato ha l'obiettivo di agevolare la ricerca di soluzioni concordate mediante un procedimento esauriente e rapido con l'assistenza di un mediatore, secondo quanto stabilito all'articolo 3.4 (Meccanismo di mediazione).
 
-## SEZIONE A - PROCEDIMENTO DI MEDIAZIONE
+### SEZIONE A - PROCEDIMENTO DI MEDIAZIONE
 
 ##### ARTICOLO 2
 
@@ -2641,7 +2641,7 @@ c) una dichiarazione scritta con la quale il mediatore, dopo aver consultato le 
 
 d) una dichiarazione scritta di una delle parti al termine della ricerca di soluzioni concordate nel quadro del procedimento di mediazione e previo esame dei pareri e delle soluzioni proposte dal mediatore, alla data di tale dichiarazione.
 
-## SEZIONE B - ATTUAZIONE
+### SEZIONE B - ATTUAZIONE
 
 ##### ARTICOLO 6
 
@@ -2651,7 +2651,7 @@ Attuazione di una soluzione concordata
 
 2\. La parte che attua la soluzione informa per iscritto l'altra parte di ogni iniziativa o misura adottata per attuare la soluzione concordata.
 
-## SEZIONE C - DISPOSIZIONI GENERALI
+### SEZIONE C - DISPOSIZIONI GENERALI
 
 ##### ARTICOLO 7
 
@@ -2699,7 +2699,7 @@ Obiettivo
 
 Il meccanismo di mediazione ha l'obiettivo di agevolare la ricerca di una soluzione concordata mediante un procedimento esauriente e rapido con l'assistenza di un mediatore, secondo quanto stabilito dall'articolo 3.31 (Mediazione).
 
-## SEZIONE A - PROCEDIMENTO DEL MECCANISMO DI MEDIAZIONE
+### SEZIONE A - PROCEDIMENTO DEL MECCANISMO DI MEDIAZIONE
 
 ##### ARTICOLO 2
 
@@ -2773,7 +2773,7 @@ b) una dichiarazione scritta con la quale il mediatore, dopo aver consultato le 
 
 c) un avviso scritto di una delle parti della controversia.
 
-## SEZIONE B - ATTUAZIONE
+### SEZIONE B - ATTUAZIONE
 
 ##### ARTICOLO 5
 
@@ -2793,7 +2793,7 @@ c) dell'eventuale soluzione concordata cui si e' giunti al termine di tale proce
 
 4\. Il mediatore concede alle parti della controversia 15 giorni lavorativi per formulare osservazioni sul progetto di relazione dei fatti. Una volta esaminate le osservazioni trasmesse dalla parti della controversia entro il suddetto termine, il mediatore presenta per iscritto alle parti della controversia una relazione finale dei fatti entro 15 giorni lavorativi. Detta relazione non contiene alcuna interpretazione del presente accordo.
 
-## SEZIONE C - DISPOSIZIONI GENERALI
+### SEZIONE C - DISPOSIZIONI GENERALI
 
 ##### ARTICOLO 6
 

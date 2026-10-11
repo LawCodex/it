@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## CAPO I - DISPOSIZIONI GENERALI SUI PROCEDIMENTI
+## CAPO I - DISPOSIZIONI GENERALI SUI PROCEDIMENTI PER L'ADEMPIMENTO DEGLI OBBLIGHI COMUNITARI
 
-### PER L'ADEMPIMENTO DEGLI OBBLIGHI COMUNITARI
-
-#### Art. 1 - Delega al Governo per l'attuazione di direttive comunitarie
+### Art. 1 - Delega al Governo per l'attuazione di direttive comunitarie
 
 1\. Il Governo e' delegato ad adottare, entro il termine di diciotto mesi dalla data di entrata in vigore della presente legge, i decreti legislativi recanti le norme occorrenti per dare attuazione alle direttive comprese negli elenchi di cui agli allegati A e B.
 
@@ -66,7 +64,7 @@ AGGIORNAMENTO (9)
 
 La L. 6 agosto 2008, n. 133 ha disposto (con l'art. 1, comma 3) che "Il termine di cui all'articolo 1, comma 5, della legge 18 aprile 2005, n. 62, per l'esercizio della delega integrativa e correttiva del decreto legislativo di attuazione della direttiva 2003/86/CE del Consiglio, del 22 settembre 2003, relativa al diritto al ricongiungimento familiare, nonche' del decreto legislativo di attuazione della direttiva 2004/38/CE del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativa al diritto dei cittadini dell'Unione europea e dei loro familiari di circolare e di soggiornare liberamente nel territorio degli Stati membri, e\` prorogato di tre mesi."
 
-#### Art. 2 - Principi e criteri direttivi generali della delega legislativa
+### Art. 2 - Principi e criteri direttivi generali della delega legislativa
 
 1\. Salvi gli specifici principi e criteri direttivi stabiliti dalle disposizioni di cui al capo II ed in aggiunta a quelli contenuti nelle direttive da attuare, i decreti legislativi di cui all'articolo 1 sono informati ai seguenti principi e criteri direttivi generali:
 
@@ -106,7 +104,7 @@ h) i decreti legislativi assicurano che sia garantita una effettiva parita' di t
 
 > 3\. Restano salvi i rapporti finanziari direttamente intrattenuti con le Comunita' europee dalle amministrazioni e dagli organismi di cui all'art. 2 del decreto del Presidente della Repubblica 16 aprile 1971, n. 321, ed alla legge 26 novembre 1975, n. 748.».
 
-#### Art. 3 - Delega al Governo per la disciplina sanzionatoria di violazioni di disposizioni comunitarie
+### Art. 3 - Delega al Governo per la disciplina sanzionatoria di violazioni di disposizioni comunitarie
 
 1\. Al fine di assicurare la piena integrazione delle norme comunitarie nell'ordinamento nazionale, il Governo, fatte salve le norme penali vigenti, e' delegato ad adottare, entro due anni dalla data di entrata in vigore della presente legge, disposizioni recanti sanzioni penali o amministrative per le violazioni di direttive comunitarie attuate in via regolamentare o amministrativa, ai sensi della legge 22 febbraio 1994, n. 146, della legge 24 aprile 1998, n. 128, e della presente legge, e di regolamenti comunitari vigenti alla data di entrata in vigore della presente legge, per i quali non siano gia' previste sanzioni penali o amministrative.
 
@@ -122,7 +120,7 @@ h) i decreti legislativi assicurano che sia garantita una effettiva parita' di t
 
 > \- Per l'art. 14 della legge 23 agosto 1988, n. 400, vedi le note all'art. 1.
 
-#### Art. 4 - Oneri relativi a prestazioni e controlli
+### Art. 4 - Oneri relativi a prestazioni e controlli
 
 1\. Gli oneri per prestazioni e controlli da eseguire da parte di uffici pubblici nell'attuazione delle normative comunitarie sono posti a carico dei soggetti interessati, ove cio' non risulti in contrasto con la disciplina comunitaria, secondo tariffe determinate sulla base del costo effettivo del servizio. Le suddette tariffe sono predeterminate e pubbliche.
 
@@ -132,7 +130,7 @@ h) i decreti legislativi assicurano che sia garantita una effettiva parita' di t
 
 > \- Il decreto del Presidente della Repubblica 10 novembre 1999, n. 469, reca: «Regolamento recante norme di semplificazione del procedimento per il versamento di somme all'entrata e la riassegnazione alle unita' previsionali di base per la spesa del bilancio dello Stato, con particolare riferimento ai finanziamenti dell'Unione europea, ai sensi dell'art. 20, comma 8, della legge 15 marzo 1997, n. 59».
 
-#### Art. 5 - Delega al Governo per il riordino normativo nelle materie interessate dalle direttive comunitarie
+### Art. 5 - Delega al Governo per il riordino normativo nelle materie interessate dalle direttive comunitarie
 
 1\. Il Governo e' delegato ad adottare, con le modalita' di cui ai commi 2 e 3 dell'articolo 1, entro il termine di diciotto mesi dalla data di entrata in vigore della presente legge, testi unici delle disposizioni dettate in attuazione delle deleghe conferite per il recepimento di direttive comunitarie, al fine di coordinare le medesime con le norme legislative vigenti nelle stesse materie, apportando le sole modificazioni necessarie a garantire la semplificazione e la coerenza logica, sistematica e lessicale della normativa.
 
@@ -150,11 +148,9 @@ b) garantire l'economicita', l'efficienza e l'efficacia del procedimento ove sia
 
 6\. Il presente articolo non si applica alla materia della sicurezza e igiene del lavoro.
 
-## CAPO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO,
+## CAPO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO, CRITERI SPECIFICI DI DELEGA LEGISLATIVA
 
-### CRITERI SPECIFICI DI DELEGA LEGISLATIVA
-
-#### Art. 6 - Abrogazione della legge 11 gennaio 2001, n. 7, sul settore fieristico
+### Art. 6 - Abrogazione della legge 11 gennaio 2001, n. 7, sul settore fieristico
 
 1\. La legge 11 gennaio 2001, n. 7, sul settore fieristico, e' abrogata, in esecuzione della sentenza della Corte di giustizia delle Comunita' europee del 15 gennaio 2002 nella causa C439/99.
 
@@ -162,7 +158,7 @@ b) garantire l'economicita', l'efficienza e l'efficacia del procedimento ove sia
 
 > \- La legge 11 gennaio 2001, n. 7, abrogata dalla presente legge, recava: «Legge quadro sul settore fieristico».
 
-#### Art. 7
+### Art. 7
 
 (Modifica dell'articolo 2 del regolamento di cui al decreto del Ministro dell'industria, del commercio e dell'artigianato 30 maggio
 
@@ -200,7 +196,7 @@ L'iscrizione decade con il decorso del periodo per il quale l'iscrizione e' stat
 
 > «2. Il riconoscimento e' subordinato al superamento di una prova attitudinale se riguarda le professioni di procuratore legale, di avvocato, di commercialista e di consulente per la proprieta' industriale.».
 
-#### Art. 8
+### Art. 8
 
 (Modifiche all'articolo 5 del decreto legislativo 30 dicembre 1992,
 
@@ -240,7 +236,7 @@ n. 538, in materia di distribuzione all'ingrosso dei medicinali per uso umano)
 
 > 4-quater. Su richiesta della Commissione europea o di uno Stato membro, il Ministero della salute fornisce qualunque informazione utile relativa all'autorizzazione di cui al presente articolo.».
 
-#### Art. 9 - Recepimento della direttiva 2003/6/CE del Parlamento europeo e del Consiglio, del 28 gennaio 2003, relativa all'abuso di informazioni privilegiate e alla manipolazione del mercato - abusi di mercato - e delle direttive della Commissione di attuazione 2003/124/CE, 2003/125/CE e 2004/72/CE
+### Art. 9 - Recepimento della direttiva 2003/6/CE del Parlamento europeo e del Consiglio, del 28 gennaio 2003, relativa all'abuso di informazioni privilegiate e alla manipolazione del mercato - abusi di mercato - e delle direttive della Commissione di attuazione 2003/124/CE, 2003/125/CE e 2004/72/CE
 
 1\. Al testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -634,7 +630,7 @@ AGGIORNAMENTO (10)
 
 La Corte Costituzionale, con sentenza 25 ottobre - 5 dicembre 2018, n. 223 (in G.U. 1ª s.s. 12/12/2018, n. 49), ha dichiarato "l'illegittimita' costituzionale dell'art. 9, comma 6, della legge 18 aprile 2005, n. 62 (Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2004), nella parte in cui stabilisce che la confisca per equivalente prevista dall'art. 187-sexies del decreto legislativo 24 febbraio 1998, n. 58 (Testo unico delle disposizioni in materia di intermediazione finanziaria, ai sensi degli articoli 8 e 21 della legge 6 febbraio 1996, n. 52), si applica, allorche' il procedimento penale non sia stato definito, anche alle violazioni commesse anteriormente alla data di entrata in vigore della stessa legge n. 62 del 2005, quando il complessivo trattamento sanzionatorio conseguente all'intervento di depenalizzazione risulti in concreto piu' sfavorevole di quello applicabile in base alla disciplina previgente".
 
-#### Art. 9-bis
+### Art. 9-bis
 
 ((Attuazione della direttiva 2004/39/CE del Parlamento europeo e
 
@@ -720,7 +716,7 @@ z) disciplinare i rapporti con le autorita' estere anche con riferimento ai pote
 
 2\. All'attuazione del presente articolo si provvede nell'ambito delle risorse umane, strumentali e finanziarie previste a legislazione vigente e senza nuovi o maggiori oneri a carico della finanza pubblica.))
 
-#### Art. 10
+### Art. 10
 
 (Delega al Governo per il recepimento della direttiva 2003/89/CE in
 
@@ -742,7 +738,7 @@ d) stabilire la disciplina relativa all'indicazione delle informazioni di cui al
 
 > \- La direttiva 2000/13/CE e' pubblicata nella G.U.C.E. 6 maggio 2000, n. L 109.
 
-#### Art. 11 - Modifica all'articolo 5 della legge 16 febbraio 1913, n. 89, in materia di accesso alla professione notarile
+### Art. 11 - Modifica all'articolo 5 della legge 16 febbraio 1913, n. 89, in materia di accesso alla professione notarile
 
 1\. All'articolo 5 della legge 16 febbraio 1913, n. 89, e' aggiunto, in fine, il seguente comma:
 
@@ -770,7 +766,7 @@ d) stabilire la disciplina relativa all'indicazione delle informazioni di cui al
 
 > I requisiti di cui ai numeri 4° e 5° del primo comma possono essere sostituiti dal possesso del decreto di riconoscimento professionale emanato in applicazione del decreto legislativo 27 gennaio 1992, n. 115».
 
-#### Art. 12 - Delega al Governo per la piena attuazione della direttiva 91/414/CEE del Consiglio, del 15 luglio 1991, concernente i prodotti fitosanitari
+### Art. 12 - Delega al Governo per la piena attuazione della direttiva 91/414/CEE del Consiglio, del 15 luglio 1991, concernente i prodotti fitosanitari
 
 1\. Al fine di pervenire alla piena attuazione della direttiva 91/414/CEE del Consiglio, del 15 luglio 1991, recante norme in materia di immissione in commercio dei prodotti fitosanitari, il Governo e' delegato, fatte salve le norme penali vigenti, ad adottare, entro un anno dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi recanti sanzioni penali o amministrative per violazioni al regolamento di cui al decreto del Presidente della Repubblica 23 aprile 2001, n. 290.
 
@@ -784,7 +780,7 @@ d) stabilire la disciplina relativa all'indicazione delle informazioni di cui al
 
 > \- Il decreto del Presidente della Repubblica 23 aprile 2001, n. 290, reca: «Regolamento di semplificazione dei procedimenti di autorizzazione alla produzione, alla immissione in commercio e alla vendita di prodotti fitosanitari e relativi coadiuvanti (n. 46, allegato 1, legge n. 59/1997).»
 
-#### Art. 13 - Delega al Governo per la revisione della disciplina in materia di fertilizzanti
+### Art. 13 - Delega al Governo per la revisione della disciplina in materia di fertilizzanti
 
 1\. Il Governo e' delegato ad adottare, entro il termine di dodici mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi di riordino e revisione della disciplina in materia di fertilizzanti, di cui alla legge 19 ottobre 1984, n. 748, in conformita' ai seguenti principi e criteri direttivi:
 
@@ -804,7 +800,7 @@ d) revisione delle sanzioni da irrogare in base ai principi di effettivita', pro
 
 > \- Il regolamento (CE) 2003/2003 pubblicato nella G.U.U.E. 21 novembre 2003, n. L 304.
 
-#### Art. 14 - Disposizioni per l'attuazione della direttiva 2003/87/CE del Parlamento europeo e del Consiglio, del 13 ottobre 2003, che istituisce un sistema per lo scambio di quote di emissioni dei gas a effetto serra nella Comunita' e che modifica la direttiva 96/61/CE del Consiglio
+### Art. 14 - Disposizioni per l'attuazione della direttiva 2003/87/CE del Parlamento europeo e del Consiglio, del 13 ottobre 2003, che istituisce un sistema per lo scambio di quote di emissioni dei gas a effetto serra nella Comunita' e che modifica la direttiva 96/61/CE del Consiglio
 
 1\. Il Governo e' delegato ad adottare, con le modalita' di cui all'articolo 1, su proposta del Presidente del Consiglio dei ministri o del Ministro per le politiche comunitarie e del Ministro dell'ambiente e della tutela del territorio, di concerto con i Ministri degli affari esteri, della giustizia, dell'economia e delle finanze e delle attivita' produttive, un decreto legislativo di recepimento della direttiva 2003/87/CE del Parlamento europeo e del Consiglio, del 13 ottobre 2003, nel rispetto dei seguenti principi e criteri direttivi:
 
@@ -834,7 +830,7 @@ g) valorizzare, attraverso opportune iniziative, gli strumenti di programmazione
 
 > \- La direttiva 2003/4/CE e' pubblicata nella G.U.U.E. 14 febbraio 2003, n. L 41.
 
-#### Art. 15
+### Art. 15
 
 (Disposizioni per l'attuazione della direttiva 2003/54/CE del Parlamento europeo e del Consiglio, del 26 giugno 2003, relativa a
 
@@ -868,7 +864,7 @@ l) promuovere la penetrazione delle imprese nazionali sui mercati esteri dell'en
 
 > \- La direttiva 2003/54/CE e' pubblicata nella G.U.U.E. 15 luglio 2003, n. L 176.
 
-#### Art. 16
+### Art. 16
 
 (Disposizioni per l'attuazione della direttiva 2003/55/CE del Parlamento europeo e del Consiglio, del 26 giugno 2003, relativa a
 
@@ -898,7 +894,7 @@ h) rafforzare le funzioni del Ministero delle attivita' produttive in materia di
 
 > \- La direttiva 2003/55/CE e' pubblicata nella G.U.U.E. 15 luglio 2003, n. L 176.
 
-#### Art. 17
+### Art. 17
 
 (Disposizioni per l'attuazione della direttiva 2004/67/CE del
 
@@ -924,7 +920,7 @@ f) prevedere che il Ministero delle attivita' produttive predisponga ogni tre an
 
 > \- La direttiva 2004/67/CE e' pubblicata nella G.U.U.E. 29 aprile 2004, n. L 127.
 
-#### Art. 18 - Obblighi a carico dei detentori di apparecchi contenenti policlorodifenili e policlorotrifenili, ivi compresi i difenili mono e diclorurati di cui all'allegato, punto 1, del decreto del Presidente della Repubblica 24 maggio 1988, n. 216, soggetti ad inventario ai sensi dell'articolo 3 del decreto legislativo 22 maggio 1999, n. 209, nonche' a carico dei soggetti autorizzati a ricevere detti apparecchi ai fini del loro smaltimento
+### Art. 18 - Obblighi a carico dei detentori di apparecchi contenenti policlorodifenili e policlorotrifenili, ivi compresi i difenili mono e diclorurati di cui all'allegato, punto 1, del decreto del Presidente della Repubblica 24 maggio 1988, n. 216, soggetti ad inventario ai sensi dell'articolo 3 del decreto legislativo 22 maggio 1999, n. 209, nonche' a carico dei soggetti autorizzati a ricevere detti apparecchi ai fini del loro smaltimento
 
 1\. Lo smaltimento degli apparecchi contenenti policlorodifenili e policlorotrifenili, ivi compresi i difenili mono e diclorurati di cui all'allegato, punto 1, del decreto del Presidente della Repubblica 24 maggio 1988, n. 216, di seguito denominati: "PCB", soggetti ad inventario ai sensi dell'articolo 3 del decreto legislativo 22 maggio 1999, n. 209, e dei PCB in essi contenuti e' effettuato nel rispetto del seguente programma temporale:
 
@@ -970,7 +966,7 @@ d) i trasformatori che contengono fluidi con una percentuale di PCB compresa tra
 
 > 4\. Le informazioni di cui ai commi 1 e 2 sono trasmesse dalle sezioni regionali e delle province autonome del catasto dei rifiuti all'Agenzia nazionale per la protezione dell'ambiente che provvede all'elaborazione dei dati cosi' raccolti ed alla predisposizione dell'inventario degli apparecchi soggetti a comunicazione e dei PCB in essi contenuti. I dati e l'inventario sono trasmessi al Ministero dell'ambiente, alle regioni ed alle province autonome.».
 
-#### Art. 19
+### Art. 19
 
 (Delega al Governo per il recepimento della direttiva 2001/42/CE,
 
@@ -1002,7 +998,7 @@ i) garantire la definizione di scadenze temporali definite ed adeguate per il pr
 
 > \- La direttiva 2001/42/CE e' pubblicata nella Gazzetta Ufficiale della Comunita' europea 21 luglio 2001, n. L 197.
 
-#### Art. 20
+### Art. 20
 
 (Delega al Governo per la piena attuazione della direttiva 96/82/CE, come modificata dalla direttiva 2003/105/CE, sul controllo dei
 
@@ -1018,7 +1014,7 @@ pericoli di incidenti rilevanti connessi con determinate sostanze pericolose)
 
 > \- Il decreto legislativo 17 agosto 1999, n. 334, reca: «Attuazione della direttiva 96/82/CE relativa al controllo dei pericoli di incidenti rilevanti connessi con determinate sostanze pericolose».
 
-#### Art. 21 - Disposizioni per l'attuazione della direttiva 2004/8/CE del Parlamento europeo e del Consiglio, dell'11 febbraio 2004, sulla promozione della cogenerazione basata su una domanda di calore utile nel mercato interno dell'energia e che modifica la direttiva 92/42/CEE
+### Art. 21 - Disposizioni per l'attuazione della direttiva 2004/8/CE del Parlamento europeo e del Consiglio, dell'11 febbraio 2004, sulla promozione della cogenerazione basata su una domanda di calore utile nel mercato interno dell'energia e che modifica la direttiva 92/42/CEE
 
 1\. Il Governo e' delegato ad adottare, con le modalita' di cui all'articolo 1, su proposta del Presidente del Consiglio dei ministri o del Ministro per le politiche comunitarie e del Ministro delle attivita' produttive, di concerto con i Ministri degli affari esteri, della giustizia, dell'economia e delle finanze e dell'ambiente e della tutela del territorio, un decreto legislativo per il recepimento della direttiva 2004/8/CE del Parlamento europeo e del Consiglio, dell'11 febbraio 2004, sulla promozione della cogenerazione basata su una domanda di calore utile nel mercato interno dell'energia e che modifica la direttiva 92/42/CEE, nel rispetto dei seguenti principi e criteri direttivi:
 
@@ -1036,7 +1032,7 @@ d) agevolare l'accesso alla rete dell'elettricita' da cogenerazione ad alto rend
 
 > \- La direttiva 2004/8/CE e' pubblicata nella Gazzetta Ufficiale dell'Unione europea 21 febbraio 2004, n. L 52.
 
-#### Art. 22 - Delega al Governo per l'attuazione della direttiva 2004/22/CE relativa agli strumenti di misura
+### Art. 22 - Delega al Governo per l'attuazione della direttiva 2004/22/CE relativa agli strumenti di misura
 
 1\. Il Governo e' delegato ad adottare, con le modalita' di cui all'articolo 1, un decreto legislativo per il recepimento della direttiva 2004/22/CE del Parlamento europeo e del Consiglio, del 31 marzo 2004, relativa agli strumenti di misura, secondo i seguenti principi e criteri direttivi:
 
@@ -1068,7 +1064,7 @@ h) prevedere l'armonizzazione della disciplina dei controlli metrologici legali 
 
 > \- La direttiva 2004/22/CE e' pubblicata nella Gazzetta Ufficiale dell'Unione europea 30 aprile 2004, n. L 135.
 
-#### Art. 23
+### Art. 23
 
 (Disposizioni in materia di rinnovo dei contratti delle pubbliche
 
@@ -1080,11 +1076,11 @@ amministrazioni per la fornitura di beni e servizi)
 
 3\. ((COMMA ABROGATO DALLA L. 6 FEBBRAIO 2007, N. 13)).
 
-#### Art. 24
+### Art. 24
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163))
 
-#### Art. 25
+### Art. 25
 
 (Delega al Governo per l'attuazione della direttiva 2004/17/CE del Parlamento europeo e del Consiglio, del 31 marzo 2004, che coordina le procedure di appalto degli enti erogatori di acqua e di energia, degli enti che forniscono servizi di trasporto e servizi postali, e della direttiva 2004/18/CE del Parlamento europeo e del Consiglio, del 31 marzo 2004, relativa al coordinamento delle procedure di
 
@@ -1128,7 +1124,7 @@ d) adeguare la normativa alla sentenza della Corte di giustizia delle Comunita' 
 
 > \- Il decreto legislativo 17 marzo 1995, n. 158, reca: «Attuazione delle direttive n. 90/531/CEE e n. 93/38/CEE relative alle procedure di appalti nei settori esclusi».
 
-#### Art. 26
+### Art. 26
 
 (Modificazioni all'articolo 3, comma 29, della legge 28 dicembre
 
@@ -1144,7 +1140,7 @@ d) adeguare la normativa alla sentenza della Corte di giustizia delle Comunita' 
 
 > «29. L'ammontare dell'imposta e' fissato, con legge della regione entro il 31 luglio di ogni anno per l'anno successivo, per chilogrammo di rifiuti conferiti: in misura non inferiore ad euro 0,001 e non superiore ad euro 0,01 per i rifiuti ammissibili al conferimento in discarica per i rifiuti inerti ai sensi dell'art. 2 del decreto del Ministro dell'ambiente e della tutela del territorio 13 marzo 2003, pubblicato nella Gazzetta Ufficiale n. 67 del 21 marzo 2003; in misura non inferiore ad euro 0,00517 e non superiore ad euro 0,02582 per i rifiuti ammissibili al conferimento in discarica per rifiuti non pericolosi e pericolosi ai sensi degli articoli 3 e 4 del medesimo decreto. In caso di mancata determinazione dell'importo da parte delle regioni entro 31 luglio di ogni anno per l'anno successivo, si intende prorogata la misura vigente. Il tributo e' determinato moltiplicando l'ammontare dell'imposta per il quantitativo, espresso in chilogrammi, dei rifiuti conferiti in discarica, nonche' per un coefficiente di correzione che tenga conto del peso specifico, della qualita' e delle condizioni di conferimento dei rifiuti ai fini della commisurazione dell'incidenza sul costo ambientale da stabilire con decreto del Ministro dell'ambiente, di concerto con i Ministri dell'industria, del commercio e dell'artigianato e della sanita', entro sei mesi dalla data di entrata in vigore della presente legge.».
 
-#### Art. 27 - Procedura per il recupero degli aiuti di Stato Dichiarati illegittimi dalla decisione 2003/193/CE della Commissione, del 5 giugno 2002
+### Art. 27 - Procedura per il recupero degli aiuti di Stato Dichiarati illegittimi dalla decisione 2003/193/CE della Commissione, del 5 giugno 2002
 
 1\. In attesa della definizione dei ricorsi promossi innanzi alla
 
@@ -1184,11 +1180,11 @@ Il conto speciale e' impignorabile. Con decreto del Ministro dell'interno, di co
 
 16\. E' fatta in ogni caso salva la restituzione, anche mediante compensazione, delle somme corrisposte ai sensi del comma 11 in ogni caso di annullamento, perdita di efficacia o inapplicabilita' della decisione della Commissione di cui al comma 1.
 
-#### Art. 28
+### Art. 28
 
 ((ARTICOLO ABROGATO DAL D.L. 30 GIUGNO 2005, N. 115, CONVERTITO CON MODIFICAZIONI DALLA L. 17 AGOSTO 2005, N. 168))
 
-#### Art. 29
+### Art. 29
 
 (Modifiche al decreto legislativo 19 settembre 1994, n. 626, in
 
@@ -1270,7 +1266,7 @@ e) non devono limitare piu' del necessario l'osservazione del ciclo di lavoro".
 
 > 3\. Restano salvi i rapporti finanziari direttamente intrattenuti con le Comunita' europee dalle amministrazioni e dagli organismi di cui all'art. 2 del decreto del Presidente della Repubblica 16 aprile 1971, n. 321, ed alla legge 26 novembre 1975, n. 748.".
 
-#### Art. 29-bis
+### Art. 29-bis
 
 (((Attuazione della direttiva 2003/41/CE del Parlamento europeo e
 
@@ -1308,15 +1304,13 @@ d) disciplinare le forme di collaborazione e lo scambio di informazioni fra le i
 
 6\. Si applica la procedura di cui all'articolo 1, comma 3.))
 
-#### Art. 30
+### Art. 30
 
 ((ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152))
 
-## CAPO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO,
+## CAPO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO, CRITERI SPECIFICI DI DELEGA LEGISLATIVA
 
-### CRITERI SPECIFICI DI DELEGA LEGISLATIVA
-
-#### Allegato A
+### Allegato A
 
 Allegato A
 
@@ -1340,7 +1334,7 @@ Allegato A
 
 2004/42/CE del Parlamento europeo e del Consiglio, del 21 aprile 2004, relativa alla limitazione delle emissioni di composti organici volatili dovute all'uso di solventi organici in talune pitture e vernici e in taluni prodotti per carrozzeria e recante modifica della direttiva 1999/13/CE.
 
-#### Allegato B
+### Allegato B
 
 Allegato B
 

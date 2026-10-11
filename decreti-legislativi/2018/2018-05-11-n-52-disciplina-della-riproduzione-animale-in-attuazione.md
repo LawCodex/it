@@ -56,11 +56,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Libri genealogici, raccolta dati in allevamento e valutazioni genetiche del bestiame
 
-### Libri genealogici, raccolta dati in allevamento - e valutazioni genetiche del bestiame
-
-#### Art. 1
+### Art. 1
 
 Oggetto
 
@@ -222,7 +220,7 @@ d) lo svolgimento dei programmi genetici per le specie di cui alla lettera a).
 
 > Per i riferimenti del regolamento (UE) n. 2016/1012 del Parlamento europeo e del Consiglio dell'8 giugno 2016, si veda nelle note alle premesse.
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -234,7 +232,7 @@ Definizioni
 
 > Per i riferimenti del regolamento (UE) n. 2016/1012 del Parlamento europeo e del Consiglio dell'8 giugno 2016, si veda nelle note alle premesse.
 
-#### Art. 3
+### Art. 3
 
 Enti selezionatori e approvazione
 
@@ -256,7 +254,7 @@ dei programmi genetici
 
 > Per i riferimenti del regolamento (UE) n. 2016/1012 del Parlamento europeo e del Consiglio dell'8 giugno 2016, si veda nelle note alle premesse.
 
-#### Art. 4
+### Art. 4
 
 Raccolta dei dati in allevamento e loro gestione
 
@@ -382,7 +380,7 @@ g) riconoscimento, da parte del Ministero, quale Autorita' nazionale competente,
 
 > 6\. Ai fini della definizione delle esclusioni e dei limiti all'accesso civico di cui al presente articolo, l'Autorita' nazionale anticorruzione, d'intesa con il Garante per la protezione dei dati personali e sentita la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, adotta linee guida recanti indicazioni operative.».
 
-#### Art. 5
+### Art. 5
 
 Linee guida per lo svolgimento dei programmi genetici
 
@@ -392,7 +390,7 @@ Linee guida per lo svolgimento dei programmi genetici
 
 > Per i riferimenti del regolamento (UE) n. 2016/1012 del Parlamento europeo e del Consiglio dell'8 giugno 2016, si veda nelle note alle premesse.
 
-#### Art. 6
+### Art. 6
 
 Requisiti e condizioni per il finanziamento
 
@@ -414,11 +412,9 @@ d) nel caso in cui il programma genetico approvato preveda la raccolta dei dati 
 
 4\. Le attivita' degli Enti selezionatori senza scopo di lucro, comprese quelle eventualmente delegate ai sensi dell'articolo 4, comma 1, si configurano come attivita' di natura non commerciale.
 
-## Capo II
+## Capo II - Riproduzione animale
 
-### Riproduzione animale
-
-#### Art. 7
+### Art. 7
 
 Riorganizzazione della disciplina
 
@@ -436,7 +432,7 @@ della riproduzione animale
 
 6\. Sono vietati l'esercizio della fecondazione in forma girovaga per le specie suina ed equina e la monta pubblica naturale per la specie suina.
 
-#### Art. 8
+### Art. 8
 
 Pratica della inseminazione artificiale
 
@@ -458,7 +454,7 @@ b) da operatori pratici di inseminazione artificiale animale, che abbiano ottenu
 
 > La commissione prevista dai precedenti commi e' nominata dalla giunta regionale o, rispettivamente, dalla giunta delle province autonome di Trento e di Bolzano.».
 
-#### Art. 9
+### Art. 9
 
 Ammissione alla riproduzione
 
@@ -476,13 +472,13 @@ di soggetti originari di altri Paesi
 
 > Per i riferimenti del regolamento (UE) n. 2016/1012 del Parlamento europeo e del Consiglio dell'8 giugno 2016, si veda nelle note alle premesse.
 
-#### Art. 10
+### Art. 10
 
 Deroghe per l'impiego di riproduttori
 
 1\. Il Ministero, su parere del Centro di ricerca zootecnia e acquacoltura del Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria e sentite le regioni interessate, puo' autorizzare, anche in deroga a quanto stabilito nell'articolo 7, l'impiego di riproduttori e di materiale di riproduzione animale a fini di ricerca e di sperimentazione.
 
-#### Art. 11
+### Art. 11
 
 Disposizioni attuative
 
@@ -494,11 +490,9 @@ Disposizioni attuative
 
 > Il regolamento (UE) n. 2016/429 del Parlamento europeo e del Consiglio del 9 marzo 2016 relativo alle malattie animali trasmissibili e che modifica e abroga taluni atti in materia di sanita' animale e' pubblicato nella Gazzetta Ufficiale dell'Unione europea 31 marzo 2016, n. L 84.
 
-## Capo III
+## Capo III - Sanzioni
 
-### Sanzioni
-
-#### Art. 12
+### Art. 12
 
 Applicazione delle sanzioni
 
@@ -534,11 +528,9 @@ b) il Presidente della Giunta regionale competente ad applicare le sanzioni ne d
 
 8\. Alle violazioni commesse prima della data di entrata in vigore del presente decreto, continuano ad applicarsi le norme della legge 15 gennaio 1991, n. 30, come modificata dalla legge 3 agosto 1999, n. 280, in vigore il giorno precedente alla data di entrata in vigore del presente decreto.
 
-## Capo IV
+## Capo IV - Disposizioni finali e transitorie
 
-### Disposizioni finali e transitorie
-
-#### Art. 13
+### Art. 13
 
 Disposizioni transitorie
 
@@ -566,7 +558,7 @@ Disposizioni transitorie
 
 > Per i riferimenti del regolamento (UE) n. 2016/1012 del Parlamento europeo e del Consiglio dell'8 giugno 2016, si veda nelle note alle premesse.
 
-#### Art. 14
+### Art. 14
 
 Clausola di invarianza finanziaria
 
@@ -574,7 +566,7 @@ Clausola di invarianza finanziaria
 
 2\. Agli adempimenti previsti dal presente decreto si provvede nei limiti delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-#### Art. 15
+### Art. 15
 
 Disposizioni finali
 

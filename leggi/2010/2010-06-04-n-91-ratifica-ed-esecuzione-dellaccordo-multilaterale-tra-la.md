@@ -27,15 +27,15 @@ promulga
 
 la seguente legge:
 
-### Art. 1 - Autorizzazione alla ratifica
+## Art. 1 - Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo multilaterale tra la Comunita' europea e i suoi Stati membri, la Repubblica di Albania, la Bosnia-Erzegovina, la Repubblica di Bulgaria, la Repubblica di Croazia, l'ex Repubblica iugoslava di Macedonia, la Repubblica d'Islanda, la Missione delle Nazioni Unite per l'amministrazione ad interim nel Kosovo, la Repubblica di Montenegro, il Regno di Norvegia, la Romania e la Repubblica di Serbia, relativo all'istituzione di uno Spazio aereo comune europeo, con Allegati, fatto a Lussemburgo il 9 giugno 2006.
 
-### Art. 2 - Ordine di esecuzione
+## Art. 2 - Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 29 dell'Accordo stesso.
 
-### Art. 3 - Entrata in vigore
+## Art. 3 - Entrata in vigore
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -53,7 +53,7 @@ Visto, il Guardasigilli: Alfano
 
 ## OBIETTIVI E PRINCIPI
 
-### art. 1
+## art. 1
 
 Allegato
 
@@ -201,7 +201,7 @@ ARTICOLO 1
 
 sicurezza delle Nazioni Unite del l0 giugno 1999
 
-### ARTICOLO 2
+## ARTICOLO 2
 
 1\. Ai fini del presente accordo si intende per:
 
@@ -235,7 +235,7 @@ n) "Stato membro CE", uno Stato membro della Comunita' europea.
 
 2\. L'utilizzo dei termini "paese", "cittadino", "cittadini" e "territorio" non pregiudica lo status di diritto internazionale di ciascuna Parte contraente.
 
-### ARTICOLO 3
+## ARTICOLO 3
 
 Le disposizioni applicabili degli atti menzionati o contenuti vuoi nell'allegato I, adattato conformemente all'allegato II, vuoi nelle decisioni del Comitato misto sono vincolanti per le Parti contraenti e fanno, o faranno, parte del rispettivo ordinamento giuridico interno secondo le seguenti modalita':
 
@@ -243,39 +243,39 @@ a) un atto corrispondente ad un regolamento della Comunita' europea diventa part
 
 b) un atto corrispondente a una direttiva della Comunita' europea consente alle autorita' delle Parti contraenti la facolta' di definire la forma e le modalita' di attuazione.
 
-### ARTICOLO 4
+## ARTICOLO 4
 
 Le Parti contraenti adottano tutte le misure, di carattere generale o particolare, idonee a garantire l'osservanza degli obblighi derivanti dal presente accordo e si astengono da qualsiasi misura che possa recare pregiudizio alla realizzazione degli obiettivi del presente accordo.
 
-### ARTICOLO 5
+## ARTICOLO 5
 
 Le disposizioni del presente accordo lasciano impregiudicati i rapporti tra le Parti contraenti dell'accordo SEE.
 
 ## NON DISCRIMINAZIONE
 
-### ARTICOLO 6
+## ARTICOLO 6
 
 Nell'ambito di applicazione del presente accordo e fatte salve eventuali disposizioni speciali in esso contenute, e' vietata ogni discriminazione in ragione della nazionalita'.
 
 ## DIRITTO DI STABILIMENTO
 
-### ARTICOLO 7
+## ARTICOLO 7
 
 Nell'ambito di applicazione e alle condizioni del presente accordo e fatte salve le disposizioni degli atti applicabili di cui all'allegato I, e' vietata qualsiasi restrizione alla liberta' di stabilimento dei cittadini di uno Stato membro CE o di un partner ECAA nel territorio di ciascuno di essi. La liberta' di stabilimento comporta l'accesso alle attivita' non salariate e al loro esercizio, nonche' la costituzione e la gestione di imprese e in particolare di societa' alle condizioni definite dalla legislazione del paese di stabilimento nei confronti dei propri cittadini. Parimenti non sussistono restrizioni all'apertura di agenzie, succursali o filiali da parte dei cittadini di uno Stato membro CE o di un partner ECAA stabilito sul territorio di un'altra Parte contraente.
 
-### ARTICOLO 8
+## ARTICOLO 8
 
 1\. Nell'ambito di applicazione del presente accordo e fatte salve le disposizioni degli atti applicabili di cui all'allegato I, le societa' costituite o organizzate conformemente alla legislazione di uno Stato membro CE o di un partner ECAA, e aventi la sede principale delle proprie attivita' nell'ECAA, sono equiparate alle persone fisiche aventi la cittadinanza di uno Stato membro CE o di un partner ECAA.
 
 2\. Per "societa'" si intendono le societa' di diritto civile o di diritto commerciale, ivi comprese le societa' cooperative, e le altre persone giuridiche disciplinate dal diritto pubblico o privato, ad eccezione delle societa' che non si prefiggono scopi di lucro.
 
-### ARTICOLO 9
+## ARTICOLO 9
 
 1\. Le disposizioni degli articoli 7 e 8 non si applicano alle attivita' che in qualsiasi Parte contraente sono connesse, anche solo occasionalmente, con l'esercizio di pubblici poteri.
 
 2\. Le disposizioni degli articoli 7 e 8 e le misure adottate in base alle stesse non pregiudicano l'applicabilita' di disposizioni di leggi, regolamenti o atti amministrativi delle Parti contraenti in materia di ingresso, soggiorno e occupazione o che prevedono un trattamento speciale per i cittadini stranieri per motivi di politica pubblica, sanita' pubblica o pubblica sicurezza.
 
-### ARTICOLO 10
+## ARTICOLO 10
 
 1\. Fatte salve disposizioni piu' favorevoli contenute in accordi esistenti e nell'ambito di applicazione del presente accordo, le Parti contraenti aboliscono le restrizioni quantitative, e le misure aventi effetto equivalente, ai trasferimenti di attrezzature, forniture, pezzi di ricambio e altri dispositivi qualora siano necessari al vettore aereo ECAA per continuare a fornire servizi di trasporto aereo alle condizioni stabilite dal presente accordo.
 
@@ -283,7 +283,7 @@ Nell'ambito di applicazione e alle condizioni del presente accordo e fatte salve
 
 ## SICUREZZA AEREA
 
-### ARTICOLO 11
+## ARTICOLO 11
 
 1\. Le Parti contraenti attuano tutte le misure atte a garantire che gli aeromobili immatricolati in una Parte contraente, quando atterrano in aeroporti ubicati sul territorio di un'altra Parte contraente, rispettino le norme di sicurezza internazionali stabilite ai sensi della convenzione e siano sottoposti a ispezioni, tanto all'interno che all'esterno, da rappresentanti autorizzati dell'altra Parte contraente per verificare la validita' dei documenti degli aeromobili e del loro equipaggio, cosi' come la condizione apparente degli aeromobili e del loro equipaggiamento.
 
@@ -307,7 +307,7 @@ iii) dare adito a seri dubbi circa una carente manutenzione e amministrazione ef
 
 ## PROTEZIONE DELLA NAVIGAZIONE AEREA
 
-### ARTICOLO 12
+## ARTICOLO 12
 
 1\. Per proteggere l'aviazione civile da interferenze illecite, le Parti contraenti provvedono a che le norme fondamentali comuni e i meccanismi di controllo dell'applicazione delle disposizioni in materia di protezione della navigazione aerea indicati nell'allegato I siano attuati in tutti gli aeroporti situati sul loro territorio, conformemente alle pertinenti disposizioni a cui si fa riferimento nel succitato allegato.
 
@@ -319,7 +319,7 @@ iii) dare adito a seri dubbi circa una carente manutenzione e amministrazione ef
 
 ## GESTIONE DEL TRAFFICO AEREO
 
-### ARTICOLO 13
+## ARTICOLO 13
 
 1\. Le Parti contraenti cooperano nel settore della gestione del traffico aereo al fine di estendere il "cielo unico europeo" all'ECAA, e rafforzare cosi' le norme di sicurezza attuali e l'efficacia globale delle norme che disciplinano il traffico aereo generale in Europa, ottimizzare la capacita' e ridurre al minimo i ritardi.
 
@@ -333,7 +333,7 @@ iii) dare adito a seri dubbi circa una carente manutenzione e amministrazione ef
 
 ## CONCORRENZA
 
-### ARTICOLO 14
+## ARTICOLO 14
 
 1\. Le disposizioni dell'allegato III si applicano nell'ambito del presente accordo. Quando altri accordi conclusi tra due o piu' Parti contraenti, come gli accordi di associazione, contengono norme in materia di concorrenza e di aiuti di Stato, queste norme si applicano tra le parti interessate.
 
@@ -341,7 +341,7 @@ iii) dare adito a seri dubbi circa una carente manutenzione e amministrazione ef
 
 ## ESECUZIONE
 
-### ARTICOLO 15
+## ARTICOLO 15
 
 1\. Fatti salvi i paragrafi 2 e 3, ciascuna Parte contraente garantisce che i diritti derivanti dal presente accordo, e in particolare dagli atti elencati nell'allegato I, possano essere tutelati presso i tribunali nazionali.
 
@@ -351,7 +351,7 @@ iii) dare adito a seri dubbi circa una carente manutenzione e amministrazione ef
 
 ## INTERPRETAZIONE
 
-### ARTICOLO 16
+## ARTICOLO 16
 
 1\. Laddove le disposizioni del presente accordo e degli atti di cui all'allegato I sono identiche nella sostanza alle norme corrispondenti del trattato CE e agli atti adottati ai sensi del trattato CE, tali disposizioni sono interpretate, per l'attuazione e l'applicazione, conformemente alle sentenze e alle decisioni del caso della Corte di giustizia e della Commissione delle Comunita' europee che precedono la firma del presente accordo. Le sentenze e le decisioni successive alla firma del presente accordo sono comunicate alle altre Parti contraenti. Su richiesta di una Parte contraente il Comitato misto chiarisce le implicazioni delle suddette sentenze e decisioni successive al fine di garantire il corretto funzionamento del presente accordo. Le interpretazioni esistenti sono comunicate prima della firma del presente accordo ai partner ECAA. Le decisioni del Comitato misto nell'ambito della presente procedura sono conformi alla giurisprudenza della Corte di giustizia.
 
@@ -361,7 +361,7 @@ iii) dare adito a seri dubbi circa una carente manutenzione e amministrazione ef
 
 ## NUOVE DISPOSIZIONI LEGISLATIVE
 
-### ARTICOLO 17
+## ARTICOLO 17
 
 1\. Fatto salvo il rispetto del principio di non discriminazione e delle disposizioni del presente articolo e dell'articolo 18, paragrafo 4, il presente accordo non pregiudica il diritto di ciascuna Parte contraente di adottare unilateralmente nuove disposizioni legislative o modificare unilateralmente la sua legislazione riguardante i trasporti aerei o un settore connesso citato all'allegato I. Le parti associate adottano tali disposizioni legislative soltanto se sono conformi al presente accordo.
 
@@ -383,7 +383,7 @@ c) stabilire ogni altra misura necessaria per salvaguardare la corretta applicaz
 
 ## COMITATO MISTO
 
-### ARTICOLO 18
+## ARTICOLO 18
 
 1\. E' istituito un Comitato misto demandato a gestire il presente accordo e ad assicurare che esso sia correttamente attuato, fatti salvi l'articolo 15, paragrafi 2 e 3, e gli articoli 21 e 22. A tal fine, il Comitato emana raccomandazioni e adotta decisioni nei casi previsti dal presente accordo. Le decisioni del Comitato misto sono eseguite dalle Parti contraenti in conformita' delle rispettive norme.
 
@@ -401,7 +401,7 @@ c) stabilire ogni altra misura necessaria per salvaguardare la corretta applicaz
 
 8\. Il Comitato misto puo' decidere di istituire eventuali gruppi di lavoro che lo coadiuvino nell'espletamento delle sue funzioni.
 
-### ARTICOLO 19
+## ARTICOLO 19
 
 1\. Le decisioni del Comitato misto sono vincolanti per le Parti contraenti. Qualora una decisione adottata dal Comitato misto richiedesse l'attivazione di una Parte contraente, quest'ultima adotta le misure necessarie e ne informa il Comitato misto.
 
@@ -409,7 +409,7 @@ c) stabilire ogni altra misura necessaria per salvaguardare la corretta applicaz
 
 ## RISOLUZIONE DELLE CONTROVERSIE
 
-### ARTICOLO 20
+## ARTICOLO 20
 
 1\. La Comunita', deliberando con gli Stati membri CE, o un partner ECAA, puo' sottoporre al Comitato misto qualsiasi controversia inerente l'applicazione o l'interpretazione del presente accordo, tranne nei casi in cui il presente accordo prevede procedure specifiche.
 
@@ -421,11 +421,11 @@ c) stabilire ogni altra misura necessaria per salvaguardare la corretta applicaz
 
 ## MISURE DI SALVAGUARDIA
 
-### ARTICOLO 21
+## ARTICOLO 21
 
 Fatto salvo l'articolo 11, paragrafo 3, e le valutazioni di sicurezza e protezione della navigazione aerea menzionate nei protocolli del presente accordo, le misure di salvaguardia sono limitate, con riferimento al campo di applicazione e alla durata, a quanto strettamente necessario per porre rimedio alla situazione. Sono adottate in via prioritaria le misure che perturbano il meno possibile il funzionamento del presente accordo.
 
-### ARTICOLO 22
+## ARTICOLO 22
 
 1\. Se una Parte contraente sta valutando l'opportunita' di adottare misure di salvaguardia, ne da' notifica alle altre Parti contraenti per il tramite del Comitato misto e fornisce tutte le informazioni pertinenti.
 
@@ -437,13 +437,13 @@ Fatto salvo l'articolo 11, paragrafo 3, e le valutazioni di sicurezza e protezio
 
 ## DIVULGAZIONE DELLE INFORMAZIONI
 
-### ARTICOLO 23
+## ARTICOLO 23
 
 I rappresentanti, gli esperti e gli altri agenti delle Parti contraenti, nonche' i funzionari e gli altri dipendenti pubblici che operano nell'ambito del presente accordo, sono tenuti, anche dopo la cessazione delle loro funzioni, a non divulgare le informazioni coperte da segreto professionale, in particolare quelle relative alle imprese, ai loro rapporti commerciali o ai costi.
 
 ## PAESI TERZI E ORGANIZZAZIONI INTERNAZIONALI
 
-### ARTICOLO 24
+## ARTICOLO 24
 
 1\. Le Parti contraenti sono tenute a consultarsi reciprocamente, nell'ambito del Comitato misto e su richiesta di una Parte contraente, in conformita' delle procedure previste dagli articoli 25 e 26:
 
@@ -455,7 +455,7 @@ b) sui vari aspetti dei possibili sviluppi delle relazioni tra le Parti contraen
 
 2\. Le consultazioni di cui al paragrafo 1 devono tenersi entro un mese dalla richiesta o non appena possibile nei casi urgenti.
 
-### ARTICOLO 25
+## ARTICOLO 25
 
 1\. I principali obiettivi delle consultazioni previste dall'articolo 24, paragrafo 1, lettera a), sono i seguenti:
 
@@ -473,13 +473,13 @@ interessate, oppure
 
 2\. Le Parti contraenti si scambiano, non appena possibile, tutte le informazioni rilevanti ai fini degli obiettivi di cui al paragrafo 1.
 
-### ARTICOLO 26
+## ARTICOLO 26
 
 Il principale obiettivo delle consultazioni previste dall'articolo 24, paragrafo 1, lettera b), e' quello di analizzare le questioni rilevanti ed esaminare le linee d'azione piu' opportune.
 
 ## DISPOSIZIONI TRANSITORIE
 
-### ARTICOLO 27
+## ARTICOLO 27
 
 1\. I protocolli da I a IX stabiliscono le disposizioni transitorie applicabili tra la Comunita' europea e gli Stati membri CE, da un lato, e la rispettiva parte associata, dall'altro, e ne indicano la durata. Per quanto riguarda le relazioni tra Norvegia o Islanda e una parte associata, sono applicabili le stesse condizioni valide per i rapporti tra la Comunita' europea e gli Stati membri CE, da un lato, e la parte associata in questione, dall'altro.
 
@@ -493,7 +493,7 @@ Il principale obiettivo delle consultazioni previste dall'articolo 24, paragrafo
 
 ## RELAZIONE CON GLI ACCORDI E LE DISPOSIZIONI BILATERALI IN MATERIA DI TRASPORTO - AEREO
 
-### ARTICOLO 28
+## ARTICOLO 28
 
 1\. Le disposizioni del presente accordo prevalgono sulle disposizioni applicabili di accordi e/o disposizioni bilaterali in materia di trasporto aereo in vigore tra le parti associate, da un lato, e la Comunita' europea, uno Stato membro CE, la Norvegia o l'Islanda, dall'altro, nonche' tra parti associate.
 
@@ -503,7 +503,7 @@ Il principale obiettivo delle consultazioni previste dall'articolo 24, paragrafo
 
 ## ENTRATA IN VIGORE, RIESAME, CESSAZIONE DEGLI EFFETTI E ALTRE - DISPOSIZIONI
 
-### ARTICOLO 29
+## ARTICOLO 29
 
 Entrata in vigore
 
@@ -515,13 +515,13 @@ Gli strumenti di ratifica o approvazione sono depositati presso il Segretariato 
 
 3\. In deroga ai paragrafi 1 e 2, la Comunita' europea e i suoi Stati membri e almeno una parte associata, possono decidere di applicare il presente accordo temporaneamente tra loro a partire dalla data della firma, conformemente al diritto nazionale applicabile, dandone comunicazione al depositario che provvede a informarne le altre Parti contraenti.
 
-### ARTICOLO 30
+## ARTICOLO 30
 
 Riesame
 
 Il presente accordo e' riesaminato su richiesta di una Parte contraente e comunque cinque anni dopo la sua entrata in vigore.
 
-### ARTICOLO 31
+## ARTICOLO 31
 
 Cessazione degli effetti
 
@@ -531,13 +531,13 @@ Cessazione degli effetti
 
 3\. Il presente accordo cessa di produrre i suoi effetti o e' sospeso in relazione ad una parte associata se l'accordo di associazione corrispondente cessa di produrre i suoi effetti o e' sospeso.
 
-### ARTICOLO 32
+## ARTICOLO 32
 
 Allargamento dello Spazio aereo comune europeo
 
 Qualsiasi Stato o qualsiasi entita' disposta a rendere la sua legislazione in materia di trasporti aerei e le questioni connesse compatibile con quella della Comunita', e con cui la Comunita' ha stabilito o ha intrapreso di stabilire un quadro di cooperazione economica stretta, come un accordo di associazione, possono essere invitati dalla Comunita' europea a partecipare allo Spazio aereo comune europeo. A tal fine, le Parti contraenti modificano l'accordo di conseguenza.
 
-### ARTICOLO 33
+## ARTICOLO 33
 
 Aeroporto di Gibilterra
 
@@ -545,7 +545,7 @@ Aeroporto di Gibilterra
 
 2\. L'applicazione del presente accordo all'aeroporto di Gibilterra e' sospesa fino alla data in cui gli accordi di cui alla dichiarazione comune resa dai Ministri degli Affari esteri del Regno di Spagna e del Regno Unito il 2 dicembre 1987 cominciano ad esercitare i loro effetti.
 
-### ARTICOLO 34
+## ARTICOLO 34
 
 Lingue
 
@@ -553,7 +553,7 @@ Il presente accordo e' redatto in un unico originale nelle lingue ufficiali dell
 
 IN FEDE DI CHE, i sottoscritti plenipotenziari, debitamente autorizzati, hanno firmato il presente accordo.
 
-### Allegato I
+## Allegato I
 
 ALLEGATO I
 
@@ -959,7 +959,7 @@ Disposizioni applicabili: articolo 14, paragrafo 1, lettera b) e
 
 paragrafo 2
 
-### Allegato II
+## Allegato II
 
 ALLEGATO II
 
@@ -1015,13 +1015,13 @@ ALLEGATO III
 
 Norme in materia di concorrenza e di aiuti di Stato di cui all'articolo 14 dell'accordo di base
 
-### Articolo 1
+## Articolo 1
 
 Monopoli di Stato
 
 Ciascuna parte associata adegua gradualmente i monopoli di Stato di carattere commerciale, di modo che al termine del secondo periodo considerato nel protocollo del presente accordo, il quale contiene le misure transitorie applicabili alla parte associata interessata, non esista alcun tipo di discriminazione tra i cittadini delle Parti contraenti per quanto riguarda le condizioni di approvvigionamento e di vendita. Il Comitato misto e' informato delle misure adottate a tal fine.
 
-### Articolo 2
+## Articolo 2
 
 Ravvicinamento delle disposizioni legislative in materia di aiuti di Stato e di concorrenza
 
@@ -1029,7 +1029,7 @@ Ravvicinamento delle disposizioni legislative in materia di aiuti di Stato e di 
 
 2\. Tale processo di ravvicinamento comincia all'entrata in vigore del presente accordo ed e' gradualmente esteso a tutti gli elementi delle norme comunitarie in materia di aiuti di Stato e di concorrenza contemplati nel presente allegato, al piu' tardi al termine del secondo periodo definito nel protocollo del presente accordo contenente le misure transitorie applicabili alla parte associata interessata. La parte associata definisce altresi', di concerto con la Commissione europea, le modalita' relative al controllo dell'attuazione del ravvicinamento della legislazione e all'adozione di misure di esecuzione delle disposizioni di legge.
 
-### Articolo 3
+## Articolo 3
 
 Norme di concorrenza e altre disposizioni di carattere economico
 
@@ -1061,7 +1061,7 @@ L'organismo di cui al paragrafo 4 e la Commissione europea valutano quindi congi
 
 9\. Le Parti contraenti scambiano informazioni tenendo conto delle restrizioni imposte dalle esigenze di segreto professionale e commerciale.
 
-### Allegato IV
+## Allegato IV
 
 ALLEGATO IV
 
@@ -1101,7 +1101,7 @@ GLI STATI MEMBRI CE, DA UNA PARTE,
 
 E LA REPUBBLICA DI ALBANIA, DALL'ALTRA
 
-### Articolo 1
+## Articolo 1
 
 Periodi transitori
 
@@ -1109,7 +1109,7 @@ Periodi transitori
 
 2\) Il secondo periodo transitorio decorre dalla fine del primo periodo transitorio e termina quando l'Albania avra' soddisfatto tutte le condizioni di cui all'articolo 2, paragrafo 2, del presente protocollo come accertato mediante valutazione effettuata dalla Comunita' europea.
 
-### Articolo 2
+## Articolo 2
 
 Condizioni relative al periodo di transizione
 
@@ -1129,7 +1129,7 @@ vi) ha fatto sufficienti progressi nell'attuazione delle norme in materia di aiu
 
 2\) Entro la fine del secondo periodo transitorio, l'Albania applica il presente accordo, compresa tutta la legislazione menzionata nell'allegato I.
 
-### Articolo 3
+## Articolo 3
 
 Disposizioni transitorie
 
@@ -1153,7 +1153,7 @@ iii) i vettori aerei titolari di una licenza rilasciata dall'Albania sono autori
 
 3\) Gli articoli 7 e 8 dell'accordo di base non trovano applicazione prima della fine del secondo periodo transitorio, fatto salvo l'obbligo che compete all'Albania e alla Comunita' di rilasciare, a partire dalla fine del primo periodo transitorio, licenze di esercizio conformemente agli atti citati nell'allegato I rispettivamente ai vettori posseduti a maggioranza o effettivamente controllati dagli Stati membri CE o da loro cittadini e ai vettori posseduti a maggioranza o effettivamente controllati dall'Albania o da suoi cittadini.
 
-### Articolo 4
+## Articolo 4
 
 Sicurezza aerea
 
@@ -1163,7 +1163,7 @@ Sicurezza aerea
 
 3\) Fino alla fine del secondo periodo transitorio, la Comunita' europea puo', qualora constati carenze sul piano della sicurezza, esigere che l'autorizzazione accordata ad un vettore aereo titolare di una licenza rilasciata dall'Albania di operare collegamenti aerei a destinazione, in partenza o all'interno della Comunita' europea sia subordinata ad una specifica valutazione di sicurezza. Tale valutazione e' effettuata tempestivamente dalla Comunita' europea in modo da evitare qualsiasi ritardo ingiustificato nell'esercizio dei diritti di traffico.
 
-### Articolo 5
+## Articolo 5
 
 Protezione della navigazione aerea
 
@@ -1181,7 +1181,7 @@ E GLI STATI MEMBRI CE, DA UNA PARTE
 
 E LA BOSNIA-ERZEGOVINA, DALL'ALTRA
 
-### Articolo 1
+## Articolo 1
 
 Periodi transitori
 
@@ -1189,7 +1189,7 @@ Periodi transitori
 
 2\) Il secondo periodo transitorio decorre dalla fine del primo periodo transitorio e termina quando la Bosnia-Erzegovina avra' soddisfatto tutte le condizioni di cui all'articolo 2, paragrafo 2, del presente protocollo come accertato mediante valutazione effettuata dalla Comunita' europea.
 
-### Articolo 2
+## Articolo 2
 
 Condizioni relative al periodo di transizione
 
@@ -1211,7 +1211,7 @@ i) separa il prestatore dei servizi di gestione del traffico aereo dall'autorita
 
 ii) applica il presente accordo, compresa tutta la legislazione menzionata nell'allegato I.
 
-### Articolo 3
+## Articolo 3
 
 Disposizioni transitorie
 
@@ -1235,7 +1235,7 @@ iii) i vettori aerei titolari di una licenza rilasciata dalla Bosnia-Erzegovina 
 
 3\) Gli articoli 7 e 8 dell'accordo di base non trovano applicazione prima della fine del secondo periodo transitorio, fatto salvo l'obbligo che compete alla Bosnia-Erzegovina e alla Comunita' di rilasciare, a partire dalla fine del primo periodo transitorio, licenze di esercizio conformemente agli atti citati nell'allegato I rispettivamente ai vettori posseduti a maggioranza o effettivamente controllati dagli Stati membri CE o da loro cittadini e ai vettori posseduti a maggioranza o effettivamente controllati dalla Bosnia-Erzegovina o da suoi cittadini.
 
-### Articolo 4
+## Articolo 4
 
 Sicurezza aerea
 
@@ -1245,7 +1245,7 @@ Sicurezza aerea
 
 3\) Fino alla fine del secondo periodo transitorio la Comunita' europea puo', qualora constati carenze sul piano della sicurezza, esigere che l'autorizzazione accordata ad un vettore aereo titolare di una licenza rilasciata dalla Bosnia-Erzegovina di operare collegamenti aerei a destinazione, in partenza o all'interno della Comunita' europea sia subordinata ad una specifica valutazione di sicurezza. Tale valutazione e' effettuata tempestivamente dalla Comunita' europea in modo da evitare qualsiasi ritardo ingiustificato nell'esercizio dei diritti di traffico.
 
-### Articolo 5
+## Articolo 5
 
 Protezione della navigazione aerea
 
@@ -1263,7 +1263,7 @@ E GLI STATI MEMBRI CE, DA UNA PARTE
 
 E LA REPUBBLICA DI BULGARIA, DALL'ALTRA
 
-### Articolo 1
+## Articolo 1
 
 Periodo transitorio
 
@@ -1271,13 +1271,13 @@ Periodo transitorio
 
 2\) I riferimenti al "secondo periodo transitorio" fatti nel presente accordo o nei suoi allegati vanno intesi, nei confronti della Bulgaria, come periodo transitorio di cui al paragrafo 1.
 
-### Articolo 2
+## Articolo 2
 
 Condizioni relative al periodo di transizione
 
 Entro la fine del periodo transitorio la Bulgaria applica il presente accordo, compresa tutta la legislazione menzionata nell'allegato I, in conformita' dell'articolo 3 dell'accordo di base.
 
-### Articolo 3
+## Articolo 3
 
 Disposizioni transitorie
 
@@ -1295,7 +1295,7 @@ iii) i vettori aerei titolari di una licenza rilasciata dalla Bulgaria sono auto
 
 3\) Gli articoli 7 e 8 dell'accordo di base non trovano applicazione prima della fine del periodo transitorio, fatto salvo l'obbligo che compete alla Bulgaria e alla Comunita' di rilasciare, a partire dall'inizio del periodo transitorio, licenze di esercizio conformemente agli atti citati nell'allegato I rispettivamente ai vettori posseduti a maggioranza o effettivamente controllati dagli Stati membri CE o da loro cittadini e ai vettori posseduti a maggioranza o effettivamente controllati dalla Bulgaria o da suoi cittadini.
 
-### Articolo 4
+## Articolo 4
 
 Sicurezza aerea
 
@@ -1303,7 +1303,7 @@ Sicurezza aerea
 
 2\) Fino alla fine del periodo transitorio la Comunita' europea puo', qualora constati carenze sul piano della sicurezza, esigere che l'autorizzazione accordata ad un vettore aereo titolare di una licenza rilasciata dalla Bulgaria di operare collegamenti aerei a destinazione, in partenza o all'interno della Comunita' europea sia subordinata ad una specifica valutazione di sicurezza. Tale valutazione e' effettuata tempestivamente dalla Comunita' europea in modo da evitare qualsiasi ritardo ingiustificato nell'esercizio dei diritti di traffico.
 
-### Articolo 5
+## Articolo 5
 
 Protezione della navigazione aerea
 
@@ -1319,7 +1319,7 @@ E GLI STATI MEMBRI CE, DA UNA PARTE,
 
 E LA REPUBBLICA DI CROAZIA, DALL'ALTRA
 
-### Articolo 1
+## Articolo 1
 
 Periodi transitori
 
@@ -1327,7 +1327,7 @@ Periodi transitori
 
 2\) Il secondo periodo transitorio decorre dalla fine del primo periodo transitorio e termina quando la Croazia avra' soddisfatto tutte le condizioni di cui all'articolo 2, paragrafo 2, del presente protocollo come accertato mediante valutazione effettuata dalla Comunita' europea.
 
-### Articolo 2
+## Articolo 2
 
 Condizioni relative al periodo di transizione
 
@@ -1347,7 +1347,7 @@ vi) ha fatto sufficienti progressi nell'attuazione delle norme in materia di aiu
 
 2\) Entro la fine del secondo periodo transitorio la Croazia applica il presente accordo, compresa tutta la legislazione menzionata nell'allegato I.
 
-### Articolo 3
+## Articolo 3
 
 Disposizioni transitorie
 
@@ -1369,7 +1369,7 @@ c) Fino alla fine del secondo periodo transitorio i vettori aerei comunitari non
 
 3\) Gli articoli 7 e 8 dell'accordo di base non trovano applicazione prima della fine del secondo periodo transitorio, fatto salvo l'obbligo che compete alla Croazia e alla Comunita' di rilasciare, a partire dalla fine del primo periodo transitorio, licenze di esercizio conformemente agli atti citati nell'allegato I rispettivamente ai vettori posseduti a maggioranza o effettivamente controllati dagli Stati membri CE o da loro cittadini e ai vettori posseduti a maggioranza o effettivamente controllati dalla Croazia o da suoi cittadini.
 
-### Articolo 4
+## Articolo 4
 
 Sicurezza aerea
 
@@ -1379,7 +1379,7 @@ Sicurezza aerea
 
 3\) Fino alla fine del secondo periodo transitorio la Comunita' europea puo', qualora constati carenze sul piano della sicurezza, esigere che l'autorizzazione accordata ad un vettore aereo titolare di una licenza rilasciata dalla Croazia di operare collegamenti aerei a destinazione, in partenza o all'interno della Comunita' europea sia subordinata ad una specifica valutazione di sicurezza. Tale valutazione e' effettuata tempestivamente dalla Comunita' europea in modo da evitare qualsiasi ritardo ingiustificato nell'esercizio dei diritti di traffico.
 
-### Articolo 5
+## Articolo 5
 
 Protezione della navigazione aerea
 
@@ -1397,7 +1397,7 @@ E GLI STATI MEMBRI CE, DA UNA PARTE, E
 
 L'EX REPUBBLICA IUGOSLAVA DI MACEDONIA, DALL'ALTRA
 
-### Articolo 1
+## Articolo 1
 
 Periodi transitori
 
@@ -1405,7 +1405,7 @@ Periodi transitori
 
 2\) Il secondo periodo transitorio decorre dalla fine del primo periodo transitorio e termina quando l'ex Repubblica iugoslava di Macedonia avra' soddisfatto tutte le condizioni di cui all'articolo 2, paragrafo 2, del presente protocollo come accertato mediante valutazione effettuata dalla Comunita' europea.
 
-### Articolo 2
+## Articolo 2
 
 Condizioni relative al periodo di transizione
 
@@ -1427,7 +1427,7 @@ vi) ha fatto sufficienti progressi nell'attuazione delle norme in materia di aiu
 
 2\) Entro la fine del secondo periodo transitorio l'ex Repubblica iugoslava di Macedonia applica il presente accordo, compresa tutta la legislazione menzionata nell'allegato I.
 
-### Articolo 3
+## Articolo 3
 
 Disposizioni transitorie
 
@@ -1451,7 +1451,7 @@ iii) i vettori aerei titolari di una licenza rilasciata dall'ex Repubblica iugos
 
 3\) Gli articoli 7 e 8 dell'accordo di base non trovano applicazione prima della fine del secondo periodo transitorio, fatto salvo l'obbligo che compete all'ex Repubblica iugoslava di Macedonia e alla Comunita' di rilasciare, a partire dalla fine del primo periodo transitorio, licenze di esercizio conformemente agli atti citati nell'allegato I rispettivamente ai vettori posseduti a maggioranza o effettivamente controllati dagli Stati membri della CE o da loro cittadini e ai vettori posseduti a maggioranza o effettivamente controllati dall'ex Repubblica iugoslava di Macedonia o da suoi cittadini.
 
-### Articolo 4
+## Articolo 4
 
 Applicazione di alcune disposizioni legislative da parte dell'ex Repubblica iugoslava di Macedonia
 
@@ -1463,7 +1463,7 @@ ii) impone ai vettori aerei titolari di una licenza rilasciata dall'ex Repubblic
 
 iii) mette fine o rende conforme alla normativa comunitaria il contratto stipulato tra il governo dell'ex Repubblica iugoslava di Macedonia e la Macedonian Airlines (MAT) .
 
-### Articolo 5
+## Articolo 5
 
 Sicurezza aerea
 
@@ -1473,7 +1473,7 @@ Sicurezza aerea
 
 3\) Fino alla fine del secondo periodo transitorio, la Comunita' europea puo', qualora constati carenze sul piano della sicurezza, esigere che l'autorizzazione accordata ad un vettore aereo titolare di una licenza rilasciata dall'ex Repubblica iugoslava di Macedonia di operare collegamenti aerei a destinazione, in partenza o all'interno della Comunita' europea sia subordinata ad una specifica valutazione di sicurezza. Tale valutazione e' effettuata tempestivamente dalla Comunita' europea in modo da evitare qualsiasi ritardo ingiustificato nell'esercizio dei diritti di traffico.
 
-### Articolo 6
+## Articolo 6
 
 Protezione della navigazione aerea
 
@@ -1491,7 +1491,7 @@ E GLI STATI MEMBRI CE DA UNA PARTE, E
 
 LA REPUBBLICA DI SERBIA, DALL'ALTRA
 
-### Articolo 1
+## Articolo 1
 
 Periodi transitori
 
@@ -1499,7 +1499,7 @@ Periodi transitori
 
 2\) Il secondo periodo transitorio decorre dalla fine del primo periodo transitorio e termina quando tutte le condizioni di cui all'articolo 2, paragrafo 2, del presente protocollo saranno state soddisfatte dalla Repubblica di Serbia, come accertato mediante valutazione effettuata dalla Comunita' europea.
 
-### Articolo 2
+## Articolo 2
 
 Condizioni relative al periodo di transizione
 
@@ -1519,7 +1519,7 @@ vi) ha fatto sufficienti progressi nell'attuazione delle norme in materia di aiu
 
 2\) Entro la fine del secondo periodo transitorio, la Repubblica di Serbia applica il presente accordo, compresa tutta la legislazione menzionata nell'allegato I.
 
-### Articolo 3
+## Articolo 3
 
 Disposizioni transitorie
 
@@ -1543,7 +1543,7 @@ iii) i vettori aerei titolari di una licenza rilasciata dalla Repubblica di Serb
 
 3\) Gli articoli 7 e 8 dell'accordo di base non trovano applicazione prima della fine del secondo periodo transitorio, fatto salvo l'obbligo che compete alla Repubblica di Serbia e alla Comunita' di rilasciare, a partire dalla fine del primo periodo transitorio, licenze di esercizio conformemente agli atti citati nell'allegato I rispettivamente ai vettori posseduti a maggioranza o effettivamente controllati dagli Stati membri della CE o da loro cittadini e ai vettori posseduti a maggioranza o effettivamente controllati dalla Repubblica di Serbia o da suoi cittadini.
 
-### Articolo 4
+## Articolo 4
 
 Sicurezza aerea
 
@@ -1553,7 +1553,7 @@ Sicurezza aerea
 
 3\) Fino alla fine del secondo periodo transitorio la Comunita' europea puo', qualora constati carenze sul piano della sicurezza, esigere che l'autorizzazione accordata ad un vettore aereo titolare di una licenza rilasciata dalla Repubblica di Serbia di operare collegamenti aerei a destinazione, in partenza o all'interno della Comunita' europea sia subordinata ad una specifica valutazione di sicurezza. Tale valutazione e' effettuata tempestivamente dalla Comunita' europea in modo da evitare qualsiasi ritardo ingiustificato nell'esercizio dei diritti di traffico.
 
-### Articolo 5
+## Articolo 5
 
 Protezione della navigazione aerea
 
@@ -1571,7 +1571,7 @@ E GLI STATI MEMBRI CE DA UNA PARTE, E
 
 LA REPUBBLICA DI MONTENEGRO, DALL'ALTRA
 
-### Articolo 1
+## Articolo 1
 
 Periodi transitori
 
@@ -1579,7 +1579,7 @@ Periodi transitori
 
 2\) Il secondo periodo transitorio decorre dalla fine del primo periodo transitorio e termina quando tutte le condizioni di cui all'articolo 2, paragrafo 2, del presente protocollo saranno state soddisfatte dalla Repubblica di Montenegro, come accertato mediante valutazione effettuata dalla Comunita' europea.
 
-### Articolo 2
+## Articolo 2
 
 Condizioni relative al periodo di transizione
 
@@ -1599,7 +1599,7 @@ vi) ha fatto sufficienti progressi nell'attuazione delle norme in materia di aiu
 
 2\) Entro la fine del secondo periodo transitorio, la Repubblica di Montenegro applica il presente accordo, compresa tutta la legislazione menzionata nell'allegato I.
 
-### Articolo 3
+## Articolo 3
 
 Disposizioni transitorie
 
@@ -1625,7 +1625,7 @@ comunitario" un vettore aereo titolare di una licenza rilasciata da uno Stato me
 
 3\) Gli articoli 7 e 8 dell'accordo di base non trovano applicazione prima della fine del secondo periodo transitorio, fatto salvo l'obbligo che compete alla Repubblica di Montenegro e alla Comunita' di rilasciare, a partire dalla fine del primo periodo transitorio, licenze di esercizio conformemente agli atti citati nell'allegato I rispettivamente ai vettori posseduti a maggioranza o effettivamente controllati dagli Stati membri della CE o da loro cittadini e ai vettori posseduti a maggioranza o effettivamente controllati dalla Repubblica di Montenegro o da suoi cittadini.
 
-### Articolo 4
+## Articolo 4
 
 Sicurezza aerea
 
@@ -1635,7 +1635,7 @@ Sicurezza aerea
 
 3\) Fino alla fine del secondo periodo transitorio la Comunita' europea puo', qualora constati carenze sul piano della sicurezza, esigere che l'autorizzazione accordata ad un vettore aereo titolare di una licenza rilasciata dalla Repubblica di Montenegro di operare collegamenti aerei a destinazione, in partenza o all'interno della Comunita' europea sia subordinata ad una specifica valutazione di sicurezza. Tale valutazione e' effettuata tempestivamente dalla Comunita' europea in modo da evitare qualsiasi ritardo ingiustificato nell'esercizio dei diritti di traffico.
 
-### Articolo 5
+## Articolo 5
 
 Protezione della navigazione aerea
 
@@ -1653,7 +1653,7 @@ E GLI STATI MEMBRI CE, DA UNA PARTE, E
 
 LA ROMANIA DALL'ALTRA
 
-### Articolo 1
+## Articolo 1
 
 Periodo transitorio
 
@@ -1661,13 +1661,13 @@ Periodo transitorio
 
 2\) I riferimenti al "secondo periodo transitorio" fatti nel presente accordo o nei suoi allegati vanno intesi, nei confronti della Romania, come periodo transitorio di cui al paragrafo 1.
 
-### Articolo 2
+## Articolo 2
 
 Condizioni relative al periodo di transizione
 
 Entro la fine del periodo transitorio la Romania applica il presente accordo, compresa tutta la legislazione menzionata nell'allegato I.
 
-### Articolo 3
+## Articolo 3
 
 Disposizioni transitorie
 
@@ -1685,7 +1685,7 @@ iii) i vettori aerei titolari di una licenza rilasciata dalla Romania sono autor
 
 3\) Gli articoli 7 e 8 dell'accordo di base non trovano applicazione prima della fine del periodo transitorio, fatto salvo l'obbligo che compete alla Romania e alla Comunita' di rilasciare, a partire dall'inizio del periodo transitorio, licenze di esercizio conformemente agli atti citati nell'allegato I rispettivamente ai vettori posseduti a maggioranza o effettivamente controllati dagli Stati membri CE o da loro cittadini e ai vettori posseduti a maggioranza o effettivamente controllati dalla Romania o da suoi cittadini.
 
-### Articolo 4
+## Articolo 4
 
 Sicurezza aerea
 
@@ -1693,7 +1693,7 @@ Sicurezza aerea
 
 2\) Fino alla fine del periodo transitorio la Comunita' europea puo', qualora constati carenze sul piano della sicurezza, esigere che l'autorizzazione accordata ad un vettore aereo titolare di una licenza rilasciata dalla Romania di operare collegamenti aerei a destinazione, in partenza o all'interno della Comunita' europea sia subordinata ad una specifica valutazione di sicurezza. Tale valutazione e' effettuata tempestivamente dalla Comunita' europea in modo da evitare qualsiasi ritardo ingiustificato nell'esercizio dei diritti di traffico.
 
-### Articolo 5
+## Articolo 5
 
 Protezione della navigazione aerea
 
@@ -1711,13 +1711,13 @@ LA MISSIONE DELLE NAZIONI UNITE PER L'AMMINISTRAZIONE AD INTERIM NEL
 
 KOSOVO, DALL'ALTRA
 
-### Articolo 1
+## Articolo 1
 
 Competenze dell'UNMIK
 
 Le disposizioni del presente protocollo non pregiudicano le competenze della Missione delle Nazioni Unite per l'amministrazione ad interim nel Kosovo, di seguito "UNMIK", conformemente alla risoluzione n. 1244 del Consiglio di sicurezza delle Nazioni Unite del 10 giugno 1999.
 
-### Articolo 2
+## Articolo 2
 
 Periodi transitori
 
@@ -1725,7 +1725,7 @@ Periodi transitori
 
 2\) Il secondo periodo transitorio decorre dalla fine del primo periodo transitorio e termina quando l'UNMIK avra' soddisfatto tutte le condizioni di cui all'articolo 3, paragrafo 2, del presente protocollo, come accertato mediante valutazione effettuata dalla Comunita' europea.
 
-### Articolo 3
+## Articolo 3
 
 Condizioni relative al periodo di transizione
 
@@ -1745,7 +1745,7 @@ vi) ha fatto sufficienti progressi nell'attuazione delle norme in materia di aiu
 
 2\) Entro la fine del secondo periodo transitorio, l'UNMLK applica il presente accordo, compresa tutta la legislazione menzionata nell'allegato I.
 
-### Articolo 4
+## Articolo 4
 
 Disposizioni transitorie
 
@@ -1769,13 +1769,13 @@ iii) i vettori aerei titolari di una licenza rilasciata dall'UNMIK sono autorizz
 
 3\) Gli articoli 7 e 8 dell'accordo di base non trovano applicazione prima della fine del secondo periodo transitorio, fatto salvo l'obbligo che compete all'UNMIK e alla Comunita' di rilasciare, a partire dalla fine del primo periodo transitorio, licenze di esercizio conformemente agli atti citati nell'allegato I rispettivamente ai vettori posseduti a maggioranza o effettivamente controllati dagli Stati membri CE o da loro cittadini e ai vettori posseduti a maggioranza o effettivamente controllati dall'UNMIK o da residenti nel Kosovo.
 
-### Articolo 5
+## Articolo 5
 
 Convenzioni e accordi internazionali
 
 Quando la legislazione citata all'allegato I prevede l'obbligo di diventare parte a convenzioni o accordi internazionali, si tiene conto dello status speciale dell'UNMIK ai sensi del diritto internazionale.
 
-### Articolo 6
+## Articolo 6
 
 Sicurezza aerea
 
@@ -1785,7 +1785,7 @@ Sicurezza aerea
 
 3\) Fino alla fine del secondo periodo transitorio la Comunita' europea puo', qualora constati carenze sul piano della sicurezza, esigere che l'autorizzazione accordata ad un vettore aereo titolare di una licenza rilasciata dall'IJNMIK di operare collegamenti aerei a destinazione, in partenza o all'interno della Comunita' europea sia subordinata ad una specifica valutazione di sicurezza. Tale valutazione e' effettuata tempestivamente dalla Comunita' europea in modo da evitare qualsiasi ritardo ingiustificato nell'esercizio dei diritti di traffico.
 
-### Articolo 7
+## Articolo 7
 
 Protezione della navigazione aerea
 

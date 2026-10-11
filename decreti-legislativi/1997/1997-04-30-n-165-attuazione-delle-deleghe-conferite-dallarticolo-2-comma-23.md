@@ -42,11 +42,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## TITOLO I - Personale delle Forze armate, compresa l'Arma dei carabinieri, del
+## TITOLO I - Personale delle Forze armate, compresa l'Arma dei carabinieri, del Corpo della guardia di finanza, delle Forze di polizia ad ordinamento civile e del Corpo nazionale dei vigili del fuoco
 
-### Corpo della guardia di finanza, delle Forze di polizia ad ordinamento - civile e del Corpo nazionale dei vigili del fuoco
-
-#### Art. 1
+### Art. 1
 
 Campo di applicazione
 
@@ -76,7 +74,7 @@ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma
 
 > \- La legge n. 335/1995 di riforma del sistema pensionistico obbligatorio e complementare e' pubblicata nel supplemento ordinario n. 101 alla Gazzetta Ufficiale - serie generale - n. 190 del 16 agosto 1995).
 
-#### Art. 2
+### Art. 2
 
 Limiti di eta' per la cessazione dal servizio
 
@@ -84,7 +82,7 @@ Limiti di eta' per la cessazione dal servizio
 
 2\. Fermi restando il limite di 60 anni per la cessazione dal servizio e gli organici complessivi dei ruoli, i colonnelli del ruolo unico delle Armi dell'Esercito, del Corpo di stato maggiore della Marina e del ruolo naviganti normale dell'Aeronautica, al compimento del cinquantottesimo anno di eta', sono collocati per due anni in soprannumero agli organici del grado ed in eccedenza al numero massimo per essi previsto, rimanendo a disposizione dell'Amministrazione della difesa per l'impiego in incarichi prevalentemente di natura tecnicoamministrativa.
 
-#### Art. 3
+### Art. 3
 
 A u s i l i a r i a
 
@@ -110,7 +108,7 @@ AGGIORNAMENTO (2)
 
 La L. 28 luglio 1999, n. 266 ha disposto (con l'art. 14, comma 10) che "La disposizione di cui al secondo periodo del comma 6 dell'articolo 3 del decreto legislativo 30 aprile 1997, n. 165, va interpretata nel senso che le riduzioni annuali delle misure percentuali, ivi previste per la determinazione della corrispondente indennita' di ausiliaria, operano, a decorrere dal 1^ gennaio 1998, unicamente sui miglioramenti economici che da tale data sono annualmente conferiti al personale in servizio avente pari grado e anzianita' e non sulla misura dell'indennita' di ausiliaria concessa anteriormente al 1° gennaio 1998 o in godimento al termine di ciascuno degli anni considerati".
 
-#### Art. 4
+### Art. 4
 
 Maggiorazione della base pensionabile
 
@@ -194,7 +192,7 @@ Ai medesimi fini per il personale il cui trattamento pensionistico e' liquidato 
 
 > \- Per il testo della tabella A allegata alla legge n. 335/1995, si veda in nota all'art. 3.
 
-#### Art. 5
+### Art. 5
 
 Computo dei servizi operativi
 
@@ -212,7 +210,7 @@ e riconoscimento dei servizi prestati preruolo
 
 6\. I periodi preruolo per servizio militare comunque prestato, nonche' quelli utili ai fini previdenziali, anche antecedentemente alla data di entrata in vigore del presente decreto, sono riscattabili ai fini dell'indennita' di fine servizio.
 
-#### Art. 6
+### Art. 6
 
 Accesso alla pensione di anzianita'
 
@@ -246,7 +244,7 @@ Accesso alla pensione di anzianita'
 
 > \- Il comma 1 dell'art. 17 della legge 23 dicembre 1994, n. 724 (Misure di razionalizzazione della finanza pubblica) cosi' recita: "1. Con effetto dal 1 gennaio 1995 le disposizioni in materia di aliquote annue di rendimento ai fini della determinazione della misura della pensione dell'assicurazione generale obbligatoria dei lavoratoridipendenti, pari al 2 per cento, sono estese ai regimi pensionistici sostitutivi, esclusivi ed esonerativi dell'assicurazione predetta, per le anzianita' contributive o di servizio maturate a decorrere da tale data".
 
-#### Art. 7
+### Art. 7
 
 Norme transitorie
 
@@ -270,7 +268,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 30 dicembre 2008, n. 207, convertito con modificazioni dalla L. 27 febbraio 2009, n. 14, ha disposto (con l'art. 14, comma 8) che "Il periodo transitorio di cui all'articolo 7, comma 6, del decreto legislativo 30 aprile 1997, n. 165, e successive modificazioni, e' prorogato di 2 anni".
 
-#### Art. 8
+### Art. 8
 
 Entrata in vigore
 
@@ -282,13 +280,13 @@ Entrata in vigore
 
 ## TITOLO II - Altre categorie
 
-#### Art. 9
+### Art. 9
 
 Campo di applicazione
 
 1\. Le disposizioni di cui al presente titolo armonizzano ai principi ispiratori della legge 8 agosto 1995, n. 335, il trattamento pensionistico dei magistrati ordinari, amministrativi e contabili, degli avvocati e procuratori dello Stato, del personale della carriera diplomatica e della carriera prefettizia, a partire, rispettivamente, dalle qualifiche di segretario di legazione e di vice consigliere di prefettura, dei dirigenti generali, nonche' dei professori e ricercatori universitari.
 
-#### Art. 10
+### Art. 10
 
 Disposizioni diverse
 
@@ -302,7 +300,7 @@ Disposizioni diverse
 
 ## TITOLO III - Disposizioni comuni
 
-#### Art. 11
+### Art. 11
 
 Disposizioni finali
 
@@ -340,7 +338,7 @@ Visto, il Guardasigilli: Flick
 
 ## TITOLO III - Disposizioni comuni
 
-#### Tabella A
+### Tabella A
 
 Tabella A
 

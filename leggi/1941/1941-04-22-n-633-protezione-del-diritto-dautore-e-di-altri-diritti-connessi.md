@@ -32,9 +32,7 @@ Noi abbiamo sanzionato e promulghiamo quanto segue;
 
 ## TITOLO I - DISPOSIZIONI SUL DIRITTO DI AUTORE
 
-### CAPO I
-
-#### Opere protette
+### CAPO I - Opere protette
 
 ###### Art. 1
 
@@ -86,7 +84,7 @@ Senza pregiudizio dei diritti esistenti sull'opera originaria, sono altresi' pro
 
 Le disposizioni di questa legge non si applicano ai testi degli atti ufficiali dello stato e delle Amministrazioni pubbliche, sia italiane che straniere.
 
-## CAPO II - Soggetti del diritto
+### CAPO II - Soggetti del diritto
 
 ###### Art. 6
 
@@ -124,13 +122,9 @@ Alle Amministrazioni dello Stato, al Partito Nazionale Fascista, alle Provincie 
 
 Lo stesso diritto spetta agli enti privati che non perseguano scopi di lucro, salvo diverso accordo con gli autori delle opere pubblicate, nonche' alle Accademie e agli altri enti pubblici culturali sulla raccolta dei loro atti e sulle loro pubblicazioni.
 
-## CAPO III - Contenuto e durata del diritto di
+### CAPO III - Contenuto e durata del diritto di autore
 
-### autore
-
-#### Sezione - I
-
-##### Protezione della utilizzazione economica - dell'opera
+#### Sezione I - Protezione della utilizzazione economica dell'opera
 
 ###### Art. 12
 
@@ -314,9 +308,7 @@ I diritti esclusivi previsti dagli articoli precedenti sono fra loro indipendent
 
 Essi hanno per oggetto l'opera nel suo insieme ed in ciascuna delle sue parti.
 
-## Sezione II - Protezione dei diritti sull'opera a difesa
-
-### della - personalita' dell'autore (Diritto morale dell'autore)
+#### Sezione II - Protezione dei diritti sull'opera a difesa della personalita' dell'autore (Diritto morale dell'autore)
 
 ###### Art. 20
 
@@ -352,7 +344,7 @@ Quando le persone indicate nel primo comma siano piu' e vi sia tra loro dissenso
 
 Sono applicabili a queste opere le disposizioni contenute nella sezione seconda del capo secondo del titolo terzo.
 
-## Sezione III - Durata dei diritti di utilizzazione economica dell'opera
+#### Sezione III - Durata dei diritti di utilizzazione economica dell'opera
 
 ###### Art. 25
 
@@ -460,13 +452,9 @@ AGGIORNAMENTO (53)
 
 Il D.Lgs. 8 novembre 2021, n. 177 ha disposto (con l'art. 3, comma 1) che il presente articolo si applica anche alle opere e agli altri materiali protetti dalla normativa nazionale in materia di diritto d'autore e diritti connessi vigente alla data del 7 giugno 2021. Sono fatti salvi i contratti conclusi e i diritti acquisiti fino al 6 giugno 2021.
 
-## CAPO IV - Norme particolari ai diritti di utilizzazione economica per
+### CAPO IV - Norme particolari ai diritti di utilizzazione economica per talune categorie di opere
 
-### talune categorie di opere
-
-#### Sezione I - Opere drammatico-musicali,
-
-##### composizioni musicali con parole, opere coreografiche e pantomimiche
+#### Sezione I - Opere drammatico-musicali, composizioni musicali con parole, opere coreografiche e pantomimiche
 
 ###### Art. 33
 
@@ -508,7 +496,7 @@ Nelle opere coreografiche o pantomimiche e nelle altre composte di musica, di pa
 
 Con le modificazioni richieste dalle norme del comma precedente sono applicabili a queste opere le disposizioni degli articoli 35 e 36.
 
-## Sezione II - Opere collettive, riviste e giornali
+#### Sezione II - Opere collettive, riviste e giornali
 
 ###### Art. 38
 
@@ -586,7 +574,7 @@ AGGIORNAMENTO (53)
 
 Il D.Lgs. 8 novembre 2021, n. 177 ha disposto (con l'art. 3, comma 1) che il presente articolo si applica anche alle opere e agli altri materiali protetti dalla normativa nazionale in materia di diritto d'autore e diritti connessi vigente alla data del 7 giugno 2021. Sono fatti salvi i contratti conclusi e i diritti acquisiti fino al 6 giugno 2021.
 
-## Sezione III - Opere cinematografiche
+#### Sezione III - Opere cinematografiche
 
 ###### Art. 44
 
@@ -662,7 +650,7 @@ Gli autori delle parti letterarie o musicali dell'opera cinematografica possono 
 
 Se il produttore non porta a compimento l'opera cinematografica nel termine di tre anni dal giorno della consegna della parte letteraria o musicale, o non fa proiettare l'opera compiuta entro tre anni dal compimento, gli autori di dette parti hanno diritto di disporre liberamente dell'opera stessa.
 
-## Sezione IV - Opere radiodiffuse
+#### Sezione IV - Opere radiodiffuse
 
 ###### Art. 51
 
@@ -720,7 +708,7 @@ La radiodiffusione delle opere dell'ingegno dai locali dell'ente esercente il se
 
 Qualora il Ministero della cultura popolare lo disponga, l'ente esercente effettua trasmissioni speciali di propaganda culturale ed artistica destinate all'estero, contro pagamento di un compenso da liquidarsi a termini del regolamento.
 
-## Sezione V - ((Opere registrate su rapporti))
+#### Sezione V - ((Opere registrate su rapporti))
 
 ###### Art. 61
 
@@ -758,7 +746,7 @@ d) data della fabbricazione.))
 
 La concessione in uso a case editrici fonografiche nazionali delle matrici dei dischi della Discoteca di Stato, per trarne dischi da diffondere mediante vendita sia in Italia che all'estero a termini dell'art. 5 della legge 2 febbraio 1939-XVII, n. 467, contenente norme per il riordinamento della Discoteca di Stato, allorche' siano registrate opere tutelate, e' sottoposta al pagamento dei diritti di autore, secondo le norme contenute nel regolamento.
 
-## ((Sezione VI - Programmi per elaboratore))
+#### ((Sezione VI - Programmi per elaboratore))
 
 ###### Art. 64-bis
 
@@ -802,7 +790,7 @@ c) siano utilizzate per lo sviluppo, la produzione o la commercializzazione di u
 
 4\. Conformemente alla convenzione di Berna sulla tutela delle opere letterarie ed artistiche ratificata e resa esecutiva con legge 20 giugno 1978, n. 399, le disposizioni del presente articolo non possono essere interpretate in modo da consentire che la loro applicazione arrechi indebitamente pregiudizio agli interessi legittimi del titolare dei diritti o sia in conflitto con il normale sfruttamento del programma.
 
-## ((Sezione VII - Banche di dati))
+#### ((Sezione VII - Banche di dati))
 
 ###### Art. 64-quinquies
 
@@ -834,11 +822,9 @@ b) l'impiego di una banca di dati per fini di sicurezza pubblica o per effetto d
 
 4\. Conformemente alla Convenzione di Berna per la protezione delle opere letterarie e artistiche, ratificata e resa esecutiva con legge 20 giugno 1978, n. 399, le disposizioni di cui ai commi 1 e 2 non possono essere interpretate in modo da consentire che la loro applicazione arrechi indebitamente pregiudizio al titolare del diritto o entri in conflitto con il normale impiego della banca di dati.))
 
-## CAPO V - ((Eccezioni e limitazioni
+### CAPO V - ((Eccezioni e limitazioni
 
-### Sezione I
-
-#### Reprografia ed altre eccezioni e limitazioni))
+#### Sezione I - Reprografia ed altre eccezioni e limitazioni))
 
 ###### Art. 65
 
@@ -1274,7 +1260,7 @@ b) il nome e i contatti delle entita' autorizzate con le quali hanno avviato lo 
 
 5\. Dall'applicazione della presente disposizione non derivano nuovi o maggiori oneri a carico della finanza pubblica.))
 
-## ((Sezione II - Riproduzione privata ad uso personale))
+#### ((Sezione II - Riproduzione privata ad uso personale))
 
 ###### Art. 71-sexies
 
@@ -1310,7 +1296,7 @@ b) il nome e i contatti delle entita' autorizzate con le quali hanno avviato lo 
 
 3-quater. Entro il 31 dicembre di ogni anno, i soggetti abilitati a ripartire il compenso di cui all'articolo 71-septies trasmettono al Ministero della cultura e alla Societa' italiana degli autori ed editori (SIAE) il rendiconto dettagliato della destinazione delle somme e della relativa ripartizione in favore dei beneficiari nonche' delle spese sostenute in quanto strettamente connesse all'attivita' di ripartizione. Al fine di favorire l'economicita', l'efficacia e l'efficienza delle attivita' di ripartizione di cui al presente articolo e di ridurne le spese di gestione, la Societa' italiana degli autori ed editori (SIAE) definisce modelli e procedure, approvati dal Ministero della cultura, relativi alle attivita' di ripartizione, che consentono altresi' alla medesima Societa' la verifica della necessita' e della congruita' delle spese rendicontate e delle eventuali somme accantonate o comunque non distribuite. La Societa' italiana degli autori ed editori (SIAE) puo' procedere a verifiche amministrativo-contabili, anche a campione, per accertare la regolarita' dei dati rendicontati e puo' disporre il reintegro degli importi detratti a copertura di spese di gestione o di eventuali accantonamenti, al fine della successiva ripartizione tra i beneficiari. Il mancato rispetto degli obblighi di rendicontazione di cui al presente comma determina per i soggetti inadempienti l'impossibilita' di partecipare alle successive ripartizioni nonche' l'obbligo di restituzione degli importi complessivi ricevuti dalla Societa' italiana degli autori ed editori (SIAE). La Societa' italiana degli autori ed editori (SIAE) riferisce al Ministero della cultura sugli esiti delle verifiche di cui al presente comma)).
 
-## ((Sezione III - Disposizioni comuni))
+#### ((Sezione III - Disposizioni comuni))
 
 ###### Art. 71-nonies
 
@@ -1320,11 +1306,9 @@ b) il nome e i contatti delle entita' autorizzate con le quali hanno avviato lo 
 
 ((1. Le eccezioni e limitazioni al diritto d'autore contenute nel presente capo si applicano anche ai diritti connessi di cui ai capi I, I-bis, II e III e, in quanto applicabili, agli altri capi del titolo II, nonche' al capo I del titolo II-bis.))
 
-## TITOLO II - DISPOSIZIONI SUI DIRITTI CONNESSI ALL'ESERCIZIO DEL DIRITTO
+## TITOLO II - DISPOSIZIONI SUI DIRITTI CONNESSI ALL'ESERCIZIO DEL DIRITTO DI AUTORE
 
-### DI AUTORE
-
-#### CAPO I - ((Diritti del produttore di fonogrammi))
+### CAPO I - ((Diritti del produttore di fonogrammi))
 
 ###### Art. 72
 
@@ -1400,7 +1384,7 @@ Il D.Lgs. 21 febbraio 2014, n. 22 ha disposto (con l'art. 4, comma 1) che "Le di
 
 2\. E' considerato come luogo della produzione quello nel quale avviene la diretta registrazione originale.))
 
-## ((CAPO I-BIS - Diritti dei produttori di opere cinematografiche o audiovisive o sequenze di immagini in movimento))
+### ((CAPO I-BIS - Diritti dei produttori di opere cinematografiche o audiovisive o sequenze di immagini in movimento))
 
 ###### Art. 78-bis
 
@@ -1428,13 +1412,13 @@ d) di autorizzare la messa a disposizione del pubblico dell'originale e delle co
 
 2\. La durata dei diritti di cui al comma 1 e' di cinquanta anni dalla fissazione. Se l'opera cinematografica o audiovisiva o la sequenza di immagini in movimento e' pubblicata o comunicata al pubblico durante tale termine, la durata e' di cinquanta anni dalla prima pubblicazione o, se anteriore, dalla prima comunicazione al pubblico dell'opera cinematografica o audiovisiva o della sequenza di immagini in movimento.))
 
-## ((CAPO I-TER - Diritti audiovisivi sportivi))
+### ((CAPO I-TER - Diritti audiovisivi sportivi))
 
 ###### Art. 78-quater
 
 ((Ai diritti audiovisivi sportivi di cui alla legge 19 luglio 2007, n. 106, e relativi decreti legislativi attuativi si applicano le disposizioni della presente legge, in quanto compatibili.))
 
-## CAPO II - ((Diritti relativi all'emissione radiofonica e televisiva))
+### CAPO II - ((Diritti relativi all'emissione radiofonica e televisiva))
 
 ###### Art. 79
 
@@ -1472,9 +1456,7 @@ La L. 6 febbraio 1996, n. 52, ha disposto (con l'art. 17, comma 1) che "E' inolt
 
 2\. Qualora gli organismi di diffusione radiotelevisiva e gli operatori dei servizi di ritrasmissione avviino trattative finalizzate alla conclusione di un accordo per l'autorizzazione alla ritrasmissione dei programmi televisivi e radiofonici, tali trattative devono essere condotte in buona fede, ai sensi dell'articolo 1337 del codice civile.))
 
-## CAPO III - ((Diritti degli artisti interpreti e degli artisti
-
-### esecutori))
+### CAPO III - ((Diritti degli artisti interpreti e degli artisti esecutori))
 
 ###### Art. 80
 
@@ -1610,7 +1592,7 @@ Il D.Lgs. 21 febbraio 2014, n. 22 ha disposto (con l'art. 4, comma 1) che "Le di
 
 1\. In aggiunta ai diritti gia' disciplinati nel presente capo e nei capi precedenti, ai detentori dei diritti connessi e' riconosciuto il diritto di autorizzare la ritrasmissione ((...)) secondo le disposizioni di cui all'art. 110-bis.
 
-## ((CAPO III-BIS - Diritti relativi ad opere pubblicate o comunicate al pubblico per la prima volta successivamente alla estinzione dei diritti patrimoniali d'autore))
+### ((CAPO III-BIS - Diritti relativi ad opere pubblicate o comunicate al pubblico per la prima volta successivamente alla estinzione dei diritti patrimoniali d'autore))
 
 ###### Art. 85-ter
 
@@ -1618,7 +1600,7 @@ Il D.Lgs. 21 febbraio 2014, n. 22 ha disposto (con l'art. 4, comma 1) che "Le di
 
 2\. La durata dei diritti esclusivi di utilizzazione economica di cui al comma 1 e' di venticinque anni a partire dalla prima lecita pubblicazione o comunicazione al pubblico.))
 
-## ((CAPO III-TER - Diritti relativi ad edizioni critiche e scientifiche di opere di pubblico dominio))
+### ((CAPO III-TER - Diritti relativi ad edizioni critiche e scientifiche di opere di pubblico dominio))
 
 ###### Art. 85-quater
 
@@ -1632,7 +1614,7 @@ Il D.Lgs. 21 febbraio 2014, n. 22 ha disposto (con l'art. 4, comma 1) che "Le di
 
 ((I termini finali di durata del diritti previsti dal capi I, I-bis, II, III, III-bis, e dal presente capo del titolo II si computano, nei rispettivi casi, a decorrere dal 1 gennaio dell'anno successivo a quello in cui si verifica l'evento considerato dalla norma.))
 
-## CAPO IV - Diritti relativi a bozzetti di scene teatrali
+### CAPO IV - Diritti relativi a bozzetti di scene teatrali
 
 ###### Art. 86
 
@@ -1640,7 +1622,7 @@ All'autore di bozzetti di scene teatrali che non costituiscono opera dell'ingegn
 
 Questo diritto dura cinque anni a partire dalla prima rappresentazione nella quale il bozzetto e' stato adoperato.
 
-## CAPO V - Diritti relativi alle fotografie
+### CAPO V - Diritti relativi alle fotografie
 
 ###### Art. 87
 
@@ -1702,13 +1684,9 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. Luogotenenziale 20 luglio 1945, n. 440, ha disposto (con l'art. 6, comma 1) che "E' egualmente prorogata di un periodo di tempo pari a quello stabilito nell'art. 1 del presente decreto la durata di protezione dei diritti connessi all'esercizio del diritto di autore di cui al titolo 2° della legge 22 aprile 1941, n. 633, limitatamente ai diritti dei produttori di dischi fonografici e di apparecchi analoghi (capo I), ai diritti relativi alle fotografie (capo V), e ai diritti relativi ai progetti di lavori della ingegneria (capo VII)."
 
-## CAPO VI - Diritti relativi alla corrispondenza epistolare ed
+### CAPO VI - Diritti relativi alla corrispondenza epistolare ed al ritratto
 
-### al - ritratto
-
-#### Sezione I
-
-##### Diritti relativi alla corrispondenza - epistolare
+#### Sezione I - Diritti relativi alla corrispondenza epistolare
 
 ###### Art. 93
 
@@ -1728,7 +1706,7 @@ Il consenso indicato all'articolo precedente non e' necessario quando la conosce
 
 Le disposizioni degli articoli precedenti si applicano anche alle corrispondenze epistolari che costituiscono opere tutelate dal diritto di autore ed anche se cadute in dominio pubblico. Non si applicano agli atti e corrispondenze ufficiali o agli atti e corrispondenze che presentano interesse di Stato.
 
-## Sezione II - Diritti relativi al ritratto
+#### Sezione II - Diritti relativi al ritratto
 
 ###### Art. 96
 
@@ -1750,7 +1728,7 @@ Il nome del fotografo, allorche' figuri sulla fotografia originaria, deve essere
 
 Sono applicabili le disposizioni dell'ultimo comma dell'articolo 88.
 
-## CAPO VII - Diritti relativi ai progetti di lavori dell'ingegneria
+### CAPO VII - Diritti relativi ai progetti di lavori dell'ingegneria
 
 ###### Art. 99
 
@@ -1766,15 +1744,13 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. Luogotenenziale 20 luglio 1945, n. 440, ha disposto (con l'art. 6, comma 1) che "E' egualmente prorogata di un periodo di tempo pari a quello stabilito nell'art. 1 del presente decreto la durata di protezione dei diritti connessi all'esercizio del diritto di autore di cui al titolo 2° della legge 22 aprile 1941, n. 633, limitatamente ai diritti dei produttori di dischi fonografici e di apparecchi analoghi (capo I), ai diritti relativi alle fotografie (capo V), e ai diritti relativi ai progetti di lavori della ingegneria (capo VII)."
 
-## ((CAPO VII-BIS - Titolarita' dei diritti connessi))
+### ((CAPO VII-BIS - Titolarita' dei diritti connessi))
 
 ###### Art. 99-bis
 
 ((1. E' reputato titolare di un diritto connesso, salvo prova contraria, chi, nelle forme d'uso, e' individuato come tale nei materiali protetti, ovvero e' annunciato come tale nella recitazione, esecuzione, rappresentazione o comunicazione al pubblico.))
 
-## CAPO VIII - Protezione del titolo, delle rubriche, dell'aspetto esterno
-
-### dell'opera, degli articoli e di notizie - Divieto di taluni atti di - concorrenza sleale
+### CAPO VIII - Protezione del titolo, delle rubriche, dell'aspetto esterno dell'opera, degli articoli e di notizie - Divieto di taluni atti di concorrenza sleale
 
 ###### Art. 100
 
@@ -1800,11 +1776,9 @@ b) la riproduzione sistematica di informazioni o notizie, pubblicate o radiodiff
 
 E' vietata come atto di concorrenza sleale, la riproduzione o imitazione sopra altre opere della medesima specie, delle testate, degli emblemi, dei fregi, delle disposizioni di segni o caratteri di stampa e di ogni altra particolarita' di forma o di colore nell'aspetto esterno dell'opera dell'ingegno, quando detta riproduzione o imitazione sia atta a creare confusione di opera o di autore.
 
-## ((TITOLO II-BIS - DISPOSIZIONI SUI DIRITTI DEL COSTITUTORE DI UNA BANCA DI DATI
+## ((TITOLO II-BIS - DISPOSIZIONI SUI DIRITTI DEL COSTITUTORE DI UNA BANCA DI DATI DIRITTI E OBBLIGHI DELL'UTENTE
 
-### DIRITTI E OBBLIGHI DELL'UTENTE
-
-#### CAPO I - Diritti del costitutore di una banca di dati))
+### CAPO I - Diritti del costitutore di una banca di dati))
 
 ###### Art. 102-bis
 
@@ -1842,7 +1816,7 @@ AGGIORNAMENTO (22)
 
 Il D.Lgs. 6 maggio 1999, n. 169, ha disposto (con l'art. 7, comma 3) che "Per le banche di dati di cui al comma 2, primo periodo, il termine di cui all'articolo 102-bis, comma 5, della legge 22 aprile 1941, n. 633, decorre dal 1 gennaio 1998."
 
-## ((CAPO II - Diritti e obblighi dell'utente))
+### ((CAPO II - Diritti e obblighi dell'utente))
 
 ###### Art. 102-ter
 
@@ -1856,9 +1830,7 @@ Se l'utente legittimo e' autorizzato ad effettuare l'estrazione o il reimpiego s
 
 4\. Le clausole contrattuali pattuite in violazione dei commi 1, 2 e 3 sono nulle.))
 
-## ((TITOLO II-TER - MISURE TECNOLOGICHE DI PROTEZIONE.
-
-### INFORMAZIONI SUL REGIME DEI DIRITTI))
+## ((TITOLO II-TER - MISURE TECNOLOGICHE DI PROTEZIONE. INFORMAZIONI SUL REGIME DEI DIRITTI))
 
 ###### Art. 102-quater
 
@@ -2106,9 +2078,7 @@ Il D.Lgs. 8 novembre 2021, n. 177 ha disposto (con l'art. 3, comma 1) che il pre
 
 ## TITOLO III - DISPOSIZIONI COMUNI
 
-### CAPO I
-
-#### Registri di pubblicita' e - deposito delle opere
+### CAPO I - Registri di pubblicita' e deposito delle opere
 
 ###### Art. 103
 
@@ -2156,11 +2126,9 @@ L'omissione del deposito non pregiudica l'acquisto e l'esercizio del diritto di 
 
 Il Ministro per la cultura popolare puo' far procedere al sequestro di un esemplare o di una copia dell'opera di cui fu omesso il deposito, nelle forme stabilite dal regolamento.
 
-## CAPO II - Trasmissione dei diritti di utilizzazione
+### CAPO II - Trasmissione dei diritti di utilizzazione
 
-### Sezione I
-
-#### Norme - generali
+#### Sezione I - Norme generali
 
 ###### Art. 107
 
@@ -2326,7 +2294,7 @@ AGGIORNAMENTO (53)
 
 Il D.Lgs. 8 novembre 2021, n. 177 ha disposto (con l'art. 3, comma 1) che il presente articolo si applica anche alle opere e agli altri materiali protetti dalla normativa nazionale in materia di diritto d'autore e diritti connessi vigente alla data del 7 giugno 2021. Sono fatti salvi i contratti conclusi e i diritti acquisiti fino al 6 giugno 2021.
 
-## Sezione II - Trasmissione a causa di morte
+#### Sezione II - Trasmissione a causa di morte
 
 ###### Art. 115
 
@@ -2350,7 +2318,7 @@ L'amministrazione cura la gestione dei diritti di utilizzazione dell'opera.
 
 Non puo' pero' autorizzare nuove edizioni, traduzioni o altre elaborazioni, nonche' l'adattamento dell'opera alla cinematografia, alla radiodiffusione ed alla incisione su apparecchi meccanici, senza il consenso degli eredi rappresentanti la maggioranza per valore delle quote ereditarie, salvi i provvedimenti dell'autorita' giudiziaria a tutela della minoranza, secondo le norme del Codice civile in materia di comunione.
 
-## Sezione III - Contratto di edizione
+#### Sezione III - Contratto di edizione
 
 ###### Art. 118
 
@@ -2522,7 +2490,7 @@ Il fallimento dell'editore non determina la risoluzione del contratto di edizion
 
 Il contratto di edizione e' tuttavia risolto se il curatore, entro un anno dalla dichiarazione del fallimento, non continua l'esercizio dell'azienda editoriale o non la cede ad un altro editore nelle condizioni indicate nell'art. 132.
 
-## Sezione IV - Contratti di rappresentazione e di esecuzione
+#### Sezione IV - Contratti di rappresentazione e di esecuzione
 
 ###### Art. 136
 
@@ -2560,7 +2528,7 @@ Se il cessionario del diritto di rappresentazione trascura, nonostante la richie
 
 Il contratto che ha per oggetto l'esecuzione di una composizione musicale e' regolato dalle disposizioni di questa sezione in quanto siano applicabili alla natura ed all'oggetto del contratto medesimo.
 
-## Sezione V - Ritiro dell'opera dal commercio
+#### Sezione V - Ritiro dell'opera dal commercio
 
 ###### Art. 142
 
@@ -2582,7 +2550,7 @@ Se l'indennita' non e' pagata nel termine fissato dall'autorita' giudiziaria ces
 
 La continuazione della riproduzione, diffusione, esecuzione, rappresentazione o spaccio dell'opera, dopo trascorso il termine per ricorrere all'autorita' giudiziaria, previsto nell'ultimo comma dell'articolo precedente, dopo dichiarato sospeso il commercio dell'opera, e' soggetto alle sanzioni civili e penali comminate da questa legge per le violazioni del diritto di autore.
 
-## Sezione VI - ((Diritti dell'autore sulle vendite successive di opere d'arte e di manoscritti))
+#### Sezione VI - ((Diritti dell'autore sulle vendite successive di opere d'arte e di manoscritti))
 
 ###### Art. 144
 
@@ -2664,11 +2632,9 @@ e) 0,25 per cento per la parte del prezzo di vendita superiore a 500.000,00 euro
 
 ((1. Le disposizioni di cui alla presente Sezione si applicano anche alle opere anonime e pseudonime.))
 
-## CAPO III - Difese e sanzioni giudiziarie
+### CAPO III - Difese e sanzioni giudiziarie
 
-### Sezione I
-
-#### Difese e sanzioni - civili
+#### Sezione I - Difese e sanzioni civili
 
 ##### § 1. - Norme relative ai diritti di utilizzazione economica
 
@@ -2836,7 +2802,7 @@ L'azione a difesa dell'esercizio dei diritti che si riferiscono alla paternita' 
 
 L'azione a difesa dei diritti che si riferiscono all'integrita' dell'opera puo' condurre alla rimozione o distruzione dell'esemplare deformato, mutilato o comunque modificato dell'opera, solo quando non sia possibile ripristinare detto esemplare nella forma primitiva a spese della parte interessata ad evitare la rimozione o la distruzione.
 
-## Sezione II - Difese e sanzioni penali
+#### Sezione II - Difese e sanzioni penali
 
 ###### Art. 171
 
@@ -3068,9 +3034,7 @@ b) nella restante misura, ad apposito capitolo dello stato di previsione del Min
 
 ((ARTICOLO ABROGATO DALLA L. 22 MAGGIO 1993, N. 159))
 
-## TITOLO V - ENTI DI DIRITTO PUBBLICO PER LA PROTEZIONE E L'ESERCIZIO
-
-### DEI - DIRITTI DI AUTORE
+## TITOLO V - ENTI DI DIRITTO PUBBLICO PER LA PROTEZIONE E L'ESERCIZIO DEI DIRITTI DI AUTORE
 
 ###### Art. 180
 

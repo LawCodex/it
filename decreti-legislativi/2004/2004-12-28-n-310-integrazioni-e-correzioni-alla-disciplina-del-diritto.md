@@ -53,7 +53,7 @@ il seguente decreto legislativo:
 
 ## Capo I - MODIFICHE ED INTEGRAZIONI AL DECRETO LEGISLATIVO n. 5 DEL 2003
 
-#### Art. 1
+### Art. 1
 
 Modifiche all'articolo 5 del decreto legislativo n. 5 del 2003
 
@@ -63,7 +63,7 @@ Modifiche all'articolo 5 del decreto legislativo n. 5 del 2003
 
 > Nella Gazzetta Ufficiale - serie generale - del 10 gennaio 2005 si procedera' alla ripubblicazione del testo del presente decreto legislativo corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 14 marzo 1986, n. 217.
 
-#### Art. 2
+### Art. 2
 
 Modifiche all'articolo 7 del decreto legislativo n. 5 del 2003
 
@@ -75,7 +75,7 @@ b) dopo il comma 3, e' aggiunto il seguente:
 
 «3-bis. Se nel processo sono costituite piu' di due parti, il termine assegnato per le ulteriori repliche non puo' essere inferiore a venti ne' superiore a quaranta giorni; ove siano indicati termini diversi, vale il maggiore fra quelli assegnati. Tale termine decorre dall'ultima delle notificazioni effettuate.».
 
-#### Art. 3
+### Art. 3
 
 Modifiche all'articolo 8 del decreto legislativo n. 5 del 2003
 
@@ -95,7 +95,7 @@ f) dopo il comma 5, e' aggiunto il seguente:
 
 «5-bis. Se nel processo sono costituite piu' di due parti, l'istanza di fissazione dell'udienza notificata da una di esse perde efficacia qualora, nel termine assegnato, un'altra parte notifichi una memoria o uno scritto difensivo.».
 
-#### Art. 4
+### Art. 4
 
 Modifiche all'articolo 10 del decreto legislativo n. 5 del 2003
 
@@ -103,7 +103,7 @@ Modifiche all'articolo 10 del decreto legislativo n. 5 del 2003
 
 «2-bis. La notificazione dell'istanza di fissazione dell'udienza rende pacifici i fatti allegati dalle parti ed in precedenza non specificamente contestati.».
 
-#### Art. 5
+### Art. 5
 
 Modifiche all'articolo 17 del decreto legislativo n. 5 del 2003
 
@@ -111,7 +111,7 @@ Modifiche all'articolo 17 del decreto legislativo n. 5 del 2003
 
 «2-bis. Nel processo con pluralita' di parti, le comparse e le memorie devono essere notificate a tutte le parti costituite e l'atto notificato deve essere depositato in cancelleria entro dieci giorni dall'ultima notificazione.».
 
-#### Art. 6
+### Art. 6
 
 Modifiche all'articolo 38 del decreto legislativo n. 5 del 2003
 
@@ -119,7 +119,7 @@ Modifiche all'articolo 38 del decreto legislativo n. 5 del 2003
 
 ## Capo II - MODIFICHE ED INTEGRAZIONI AL CODICE CIVILE
 
-#### Art. 7
+### Art. 7
 
 Modifiche all'articolo 2346 del codice civile
 
@@ -127,31 +127,31 @@ Modifiche all'articolo 2346 del codice civile
 
 «L'atto costitutivo» sono sostituite dalle seguenti: «Lo statuto».
 
-#### Art. 8
+### Art. 8
 
 Modifiche all'articolo 2359 del codice civile
 
 1\. All'articolo 2359, terzo comma, ultimo periodo, del codice civile, le parole: «in borsa» sono sostituite dalle seguenti: «in mercati regolamentati».
 
-#### Art. 9
+### Art. 9
 
 Modifiche all'articolo 2364 del codice civile
 
 1\. All'articolo 2364, secondo comma, secondo periodo, del codice civile, la parola: «e» e' sostituita dalla seguente: «ovvero».
 
-#### Art. 10
+### Art. 10
 
 Modifiche all'articolo 2370 del codice civile
 
 1\. All'articolo 2370, secondo comma, secondo periodo, del codice civile, dopo le parole: «due giorni» sono inserite le seguenti: «non festivi».
 
-#### Art. 11
+### Art. 11
 
 Modifiche all'articolo 2391 del codice civile
 
 1\. All'articolo 2391, primo comma, del codice civile sono aggiunte, in fine, le seguenti parole: «, se si tratta di amministratore unico, deve darne notizia anche alla prima assemblea utile.».
 
-#### Art. 12
+### Art. 12
 
 Introduzione dell'articolo 2391-bis del codice civile
 
@@ -159,7 +159,7 @@ Introduzione dell'articolo 2391-bis del codice civile
 
 I principi di cui al primo comma si applicano alle operazioni realizzate direttamente o per il tramite di societa' controllate e disciplinano le operazioni stesse in termini di competenza decisionale, di motivazione e di documentazione. L'organo di controllo vigila sull'osservanza delle regole adottate ai sensi del primo comma e ne riferisce nella relazione all'assemblea.».
 
-#### Art. 13
+### Art. 13
 
 Modifiche all'articolo 2409-duodecies del codice civile
 
@@ -167,13 +167,13 @@ Modifiche all'articolo 2409-duodecies del codice civile
 
 «c) coloro che sono legati alla societa' o alle societa' da questa controllate o a quelle sottoposte a comune controllo da un rapporto di lavoro o da un rapporto continuativo di consulenza o di prestazione d'opera retribuita che ne compromettano l'indipendenza.».
 
-#### Art. 14
+### Art. 14
 
 Modifiche all'articolo 2409-terdecies del codice civile
 
 1\. All'articolo 2409-terdecies, primo comma, lettera f-bis), del codice civile le parole: «ai piani strategici» sono sostituite dalle seguenti: «alle operazioni strategiche e ai piani».
 
-#### Art. 15
+### Art. 15
 
 Modificazioni all'articolo 2412 del codice civile
 
@@ -181,7 +181,7 @@ Modificazioni all'articolo 2412 del codice civile
 
 «Le disposizioni del presente articolo si applicano anche alle obbligazioni emesse all'estero da societa' italiane ovvero da loro controllate o controllanti, se negoziate nello Stato, nei limiti stabiliti con regolamento del Ministro dell'economia e delle finanze e del Ministro della giustizia, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, su proposta della Commissione nazionale per le societa' e la borsa; in questo caso la negoziazione ad opera di investitori professionali nei confronti di soggetti diversi deve, a pena di nullita', avvenire mediante consegna di un prospetto informativo contenente le informazioni stabilite dalla Commissione nazionale per le societa' e la borsa, anche quando la vendita avvenga su richiesta dell'acquirente.».
 
-#### Art. 16
+### Art. 16
 
 Modifiche all'articolo 2425-bis del codice civile
 
@@ -189,13 +189,13 @@ Modifiche all'articolo 2425-bis del codice civile
 
 «Le plusvalenze derivanti da operazioni di compravendita con locazione finanziaria al venditore sono ripartite in funzione della durata del contratto di locazione.».
 
-#### Art. 17
+### Art. 17
 
 Modifiche all'articolo 2426 del codice civile
 
 1\. All'articolo 2426, primo comma, n. 8-bis), secondo periodo, del codice civile, dopo le parole: «Le immobilizzazioni» sono inserite le parole: «materiali, immateriali e quelle finanziarie, costituite da partecipazioni, rilevate al costo».
 
-#### Art. 18
+### Art. 18
 
 Modifiche all'articolo 2427 del codice civile
 
@@ -209,7 +209,7 @@ c) la parola: «determinabile» e' sostituita dalla seguente: «rilevante»;
 
 d) le parole: «e sugli indicatori di redditivita' di cui sia stata data comunicazione» sono soppresse.
 
-#### Art. 19
+### Art. 19
 
 Modifiche all'articolo 2441 del codice civile
 
@@ -219,19 +219,19 @@ a) al terzo comma, secondo periodo, la parola: «sui» e' sostituita dalla segue
 
 b) al sesto comma, ultimo periodo, le parole: «in borsa» sono sostituite dalle seguenti: «in mercati regolamentati».
 
-#### Art. 20
+### Art. 20
 
 Modifiche all'articolo 2447-novies del codice civile
 
 1\. All'articolo 2447-novies, secondo comma, del codice civile, l'ultimo periodo e' sostituito dal seguente: «In tale caso, si applicano esclusivamente le disposizioni sulla liquidazione delle societa' di cui al capo VIII del presente titolo, in quanto compatibili.».
 
-#### Art. 21
+### Art. 21
 
 Modifiche all'articolo 2468 del codice civile
 
 1\. All'articolo 2468, quinto comma, del codice civile, l'ultimo periodo e' soppresso.
 
-#### Art. 22
+### Art. 22
 
 Modifiche all'articolo 2479-ter del codice civile
 
@@ -239,7 +239,7 @@ Modifiche all'articolo 2479-ter del codice civile
 
 «secondo» e' sostituita dalla seguente: «primo».
 
-#### Art. 23
+### Art. 23
 
 Modifiche all'articolo 2504-bis del codice civile
 
@@ -247,31 +247,31 @@ Modifiche all'articolo 2504-bis del codice civile
 
 «Se dalla fusione emerge un avanzo, esso e' iscritto ad apposita voce del patrimonio netto, ovvero, quando sia dovuto a previsione di risultati economici sfavorevoli, in una voce dei fondi per rischi ed oneri.».
 
-#### Art. 24
+### Art. 24
 
 Modifiche all'articolo 2506-ter del codice civile
 
 1\. All'articolo 2506-ter, quinto comma, del codice civile, dopo le parole: «2504-quater,» e' inserita la seguente: «2505,».
 
-#### Art. 25
+### Art. 25
 
 Modifiche all'articolo 2513 del codice civile
 
 1\. All'articolo 2513, primo comma, lettera b), del codice civile, sono aggiunte, in fine, le seguenti parole: «computate le altre forme di lavoro inerenti lo scopo mutualistico».
 
-#### Art. 26
+### Art. 26
 
 Modifiche all'articolo 2522 del codice civile
 
 1\. All'articolo 2522, secondo comma, del codice civile, sono aggiunte, in fine, le seguenti parole: «; nel caso di attivita' agricola possono essere soci anche le societa' semplici».
 
-#### Art. 27
+### Art. 27
 
 Modifiche all'articolo 2525 del codice civile
 
 1\. All'articolo 2525, primo comma, del codice civile, dopo le parole: «venticinque euro ne» sono inserite le seguenti: «per le azioni».
 
-#### Art. 28
+### Art. 28
 
 Modifiche all'articolo 2527 del codice civile
 
@@ -279,13 +279,13 @@ Modifiche all'articolo 2527 del codice civile
 
 «Non possono in ogni caso divenire soci quanti esercitano in proprio imprese in concorrenza con quella della cooperativa.».
 
-#### Art. 29
+### Art. 29
 
 Modifiche all'articolo 2542 del codice civile
 
 1\. All'articolo 2542 del codice civile il terzo comma e' soppresso.
 
-#### Art. 30
+### Art. 30
 
 Modifiche all'articolo 2545-quinquies del codice civile
 
@@ -297,13 +297,13 @@ b) dopo il quarto comma e' aggiunto il seguente:
 
 «Le disposizioni dei commi secondo e terzo non si applicano alle cooperative con azioni quotate in mercati regolamentati.».
 
-#### Art. 31
+### Art. 31
 
 Modifiche all'articolo 2545-octies del codice civile
 
 1\. All'articolo 2545-octies, secondo comma, primo periodo, del codice civile, le parole: «il bilancio» sono sostituite dalle seguenti: «un apposito bilancio, da notificarsi entro sessanta giorni dalla approvazione al Ministero delle attivita' produttive,».
 
-#### Art. 32
+### Art. 32
 
 Modifiche all'articolo 2545-undecies del codice civile
 
@@ -311,13 +311,13 @@ Modifiche all'articolo 2545-undecies del codice civile
 
 «L'assemblea non puo' procedere alla deliberazione di cui ai precedenti commi qualora la cooperativa non sia stata sottoposta a revisione da parte dell'autorita' di vigilanza nell'anno precedente o, comunque, gli amministratori non ne abbiano fatto richiesta da almeno novanta giorni.».
 
-#### Art. 33
+### Art. 33
 
 Modifiche all'articolo 2545-sexiesdecies del codice civile
 
 1\. All'articolo 2545-sexiesdecies del codice civile, la parola: «governativa», ovunque ricorra, e' sostituita dalle seguenti: «di vigilanza».
 
-#### Art. 34
+### Art. 34
 
 Modifiche all'articolo 2545-octiesdecies del codice civile
 
@@ -325,7 +325,7 @@ Modifiche all'articolo 2545-octiesdecies del codice civile
 
 ## Capo III - MODIFICHE ALLE NORME DI ATTUAZIONE DEL CODICE CIVILE
 
-#### Art. 35
+### Art. 35
 
 Introduzione dell'articolo 111-quaterdecies del regio decreto n. 318 del 1942
 
@@ -333,13 +333,13 @@ Introduzione dell'articolo 111-quaterdecies del regio decreto n. 318 del 1942
 
 «111-quaterdecies. La durata del primo incarico di controllo contabile puo' coincidere con quello di revisione affidato alla stessa societa'.».
 
-#### Art. 36
+### Art. 36
 
 Modifiche all'articolo 223-duodecies del regio decreto n. 318 del 1942
 
 1\. All'articolo 223-duodecies, primo comma, del regio decreto n. 318 del 1942, le parole: «31 dicembre 2004» sono sostituite dalle parole: «31 marzo 2005».
 
-#### Art. 37
+### Art. 37
 
 Modifiche all'articolo 223-terdecies del regio decreto n. 318 del 1942
 
@@ -349,11 +349,9 @@ Modifiche all'articolo 223-terdecies del regio decreto n. 318 del 1942
 
 Ai consorzi agrari continuano ad applicarsi le norme vigenti alla data di entrata in vigore della legge n. 366 del 2001.».
 
-## Capo IV - MODIFICHE AL TESTO UNICO BANCARIO DI CUI AL DECRETO LEGISLATIVO N.
+## Capo IV - MODIFICHE AL TESTO UNICO BANCARIO DI CUI AL DECRETO LEGISLATIVO N. 385 DEL 1993
 
-### 385 DEL 1993
-
-#### Art. 38
+### Art. 38
 
 Introduzione dell'articolo 150-bis del decreto legislativo n. 385 del 1993
 
@@ -375,7 +373,7 @@ Introduzione dell'articolo 150-bis del decreto legislativo n. 385 del 1993
 
 7\. Il termine per l'adeguamento degli statuti delle banche di credito cooperativo alle nuove disposizioni del comma 2-bis dell'articolo 52 e' fissato al 30 giugno 2005.».
 
-#### Art. 39
+### Art. 39
 
 Modifiche all'articolo 19 del decreto legislativo n. 385 del 1993
 
@@ -383,13 +381,13 @@ Modifiche all'articolo 19 del decreto legislativo n. 385 del 1993
 
 «8-bis. Le autorizzazioni previste dal presente articolo e il divieto previsto dal comma 6 si applicano anche all'acquisizione, in via diretta o indiretta, del controllo derivante da un contratto con la banca o da una clausola del suo statuto.».
 
-#### Art. 40
+### Art. 40
 
 Modifiche all'articolo 23 del decreto legislativo n. 385 del 1993
 
 1\. All'articolo 23, comma 1, del decreto legislativo 1° settembre 1993, n. 385, sono aggiunte, in fine, le seguenti parole: «e in presenza di contratti o di clausole statutarie che abbiano per oggetto o per effetto il potere di esercitare l'attivita' di direzione e coordinamento.».
 
-#### Art. 41
+### Art. 41
 
 Modifiche all'articolo 24 del decreto legislativo n. 385 del 1993
 
@@ -401,7 +399,7 @@ b) dopo il comma 3 e' aggiunto il seguente:
 
 «3-bis. Non possono essere esercitati i diritti derivanti dai contratti o dalle clausole statutarie per i quali le autorizzazioni previste dall'articolo 19 non siano state ottenute ovvero siano state sospese o revocate.».
 
-#### Art. 42
+### Art. 42
 
 Modifiche all'articolo 29 del decreto legislativo n. 385 del 1993
 
@@ -409,7 +407,7 @@ Modifiche all'articolo 29 del decreto legislativo n. 385 del 1993
 
 «3. La nomina dei membri degli organi di amministrazione e controllo spetta esclusivamente ai competenti organi sociali.».
 
-#### Art. 43
+### Art. 43
 
 Modifiche all'articolo 33 del decreto legislativo n. 385 del 1993
 
@@ -417,7 +415,7 @@ Modifiche all'articolo 33 del decreto legislativo n. 385 del 1993
 
 «3. La nomina dei membri degli organi di amministrazione e controllo spetta esclusivamente ai competenti organi sociali.».
 
-#### Art. 44
+### Art. 44
 
 Modifiche all'articolo 59 del decreto legislativo n. 385 del 1993
 
@@ -425,7 +423,7 @@ Modifiche all'articolo 59 del decreto legislativo n. 385 del 1993
 
 «a) il controllo sussiste nei casi previsti dall'articolo 23;».
 
-#### Art. 45
+### Art. 45
 
 Modifiche all'articolo 63 del decreto legislativo n. 385 del 1993
 

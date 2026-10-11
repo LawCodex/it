@@ -28,7 +28,7 @@ la seguente legge:
 
 ## TITOLO I - CONTRIBUTI A FONDO PERDUTO
 
-#### Art. 1
+### Art. 1
 
 E' autorizzato, a carico del bilancio del Ministero della marina mercantile, lo stanziamento di lire 230.000.000 per l'anno finanziario 1967 e di lire 260.000.000 per l'anno finanziario 1968, allo scopo di provvedere alla concessione di contributi nella misura non superiore al 40 per cento della spesa documentata, per la esecuzione delle opere e per l'acquisto delle attrezzature di cui al seguente articolo 2, da parte di imprese singole o associate esercitanti direttamente l'industria della pesca o il commercio dei prodotti ittici. Alle cooperative e loro consorzi e' accordata la preferenza nell'esame delle domande di concessione dei contributi.
 
@@ -42,7 +42,7 @@ La L. 14 maggio 1976, n. 389 ha disposto (con l'art. 2, comma 1) che " L'entita'
 
 Ha inoltre disposto (con l'art. 2, comma 2) che "Il predetto limite e' elevato al 45 per cento per iniziative poste in essere da cooperative e loro consorzi e al 50 per cento quando le predette iniziative hanno per oggetto la pesca, la lavorazione e la conservazione del pesce azzurro."
 
-#### Art. 2
+### Art. 2
 
 I contributi possono essere concessi per le seguenti opere ed acquisti:
 
@@ -66,7 +66,7 @@ i) costruzione, ampliamento, acquisto di magazzini e impianti da parte di cooper
 
 l) impianto, e acquisto delle relative attrezzature, di spacci cooperativi che abbiano per scopo la vendita diretta al consumatore di prodotti ittici delle cooperative di pescatori.
 
-#### Art. 3
+### Art. 3
 
 La concessione dei contributi e' disposta con decreto del Ministro per la marina mercantile, sentito il parere di un apposito comitato, composto dal Sottosegretario di Stato per la marina mercantile che lo presiede, dal direttore generale della pesca marittima, da un funzionario del Ministero predetto, avente qualifica non inferiore a quella di direttore di divisione, da tre esperti particolarmente competenti nelle questioni della pesca marittima, nominati dal Ministro per la marina mercantile, e da tre rappresentanti delle associazioni nazionali cooperative, nominati dal Ministro per la marina mercantile, su terne designate dalle associazioni stesse.
 
@@ -88,7 +88,7 @@ AGGIORNAMENTO (4)
 
 Il D.P.R. 9 maggio 1994, n. 608 ha disposto (con l'art. 2, comma 1) che e' soppresso, ai sensi dell'art. 1, comma 28, lettera a), della legge 24 dicembre 1993, n. 537, l'organo collegiale "Comitato provvidenze pesca marittima" di cui al presente provvedimento.
 
-#### Art. 4
+### Art. 4
 
 Le domande di contributo di cui all'articolo 1 della presente legge devono essere dirette al Ministero della marina mercantile, tramite le competenti capitanerie di porto, in triplice esemplare di cui uno in carta bollata.
 
@@ -104,7 +104,7 @@ In caso di decadenza dal contributo, devono essere restituiti gli importi eventu
 
 ## TITOLO II - CREDITO PESCHERECCIO
 
-#### Art. 5
+### Art. 5
 
 Il primo comma dell'articolo 1 della legge 27 dicembre 1956, n. 1457, e' cosi' modificato:
 
@@ -116,11 +116,11 @@ Le lettere a) e c) del secondo comma dell'articolo 1 della legge 27 dicembre 195
 
 "c) acquisto ed installazione, oppure sostituzione di motori su navi destinate alla pesca o al trasporto del pescato, al fine di aumentarne la efficienza ed il rendimento".
 
-#### Art. 6
+### Art. 6
 
 Gli stanziamenti rispettivamente disposti, per gli anni finanziari 1966, 1967 e 1968, dall'articolo 72 del decreto-legge 18 novembre 1966, n. 976, convertito, con modificazioni, in legge 23 dicembre 1966, n. 1142, possono essere impiegati, per la parte non utilizzata al 31 dicembre di ciascuno dei detti esercizi, per gli scopi e con le modalita' di cui alla legge 27 dicembre 1956, n. 1457, a successive modificazioni.
 
-#### Art. 7
+### Art. 7
 
 Il termine del 30 giugno 1970, previsto nel terzo comma dell'articolo 2 e nell'articolo 5 della legge 27 dicembre 1956, n. 1457, e' prorogato al 31 dicembre 1983. ((1))
 
@@ -130,19 +130,19 @@ AGGIORNAMENTO (1)
 
 La L. 16 ottobre 1973, n.676 ha disposto (con l'art. 5, coma 2) che "Il termine del 31 dicembre 1983, previsto dall'art. 7 della legge 28 marzo 1968, n. 479, e' prorogato al 31 dicembre 1988."
 
-#### Art. 8
+### Art. 8
 
 ((ARTICOLO ABROGATO DALLA L. 14 MAGGIO 1976, N. 389))
 
-#### Art. 9
+### Art. 9
 
 Entro tre mesi dall'entrata in vigore della presente legge, le convenzioni stipulate con gli istituti di credito a norma dell'ultimo comma dell'articolo 3 della legge 27 dicembre 1956, n. 1457, saranno rivedute al fine di adeguarle alle modifiche apportate dalla presente legge.
 
-#### Art. 10
+### Art. 10
 
 L'importo massimo dei mutui stabilito in lire 10 milioni dall'articolo 5 della legge 27 dicembre 1956, n. 1457, e' elevato a lire 50 milioni.
 
-#### Art. 11
+### Art. 11
 
 Il primo comma dell'articolo 6 della legge 27 dicembre 1956, n. 1457, e' cosi' modificato:
 
@@ -160,17 +160,17 @@ AGGIORNAMENTO (3)
 
 La L. 14 maggio 1976, n. 389 ha disposto (con l'art. 8, comma 5) che "La durata dell'ammortamento dei mutui di cui all'articolo 11 della legge 28 marzo 1968, n. 479, se destinati alla costruzione di immobili, e' elevata fino al massimo di 25 anni."
 
-#### Art. 12
+### Art. 12
 
 Il primo comma dell'articolo 7 della legge 27 dicembre 1956, n. 1457, e' cosi' modificato:
 
 "Le quote di ammortamento e gli interessi saranno versati dagli istituti al fondo di rotazione, previa detrazione della percentuale ad essi spettante in base alle convenzioni, a rimborso delle anticipazioni e ad incremento del fondo fino al 31 dicembre 1983. Da tale data i rimborsi predetti saranno effettuati su apposito capitolo dello stato di previsione dell'entrata. Gli istituti di credito, nel caso di inadempienza da parte dei mutuatari, potranno sospendere il versamento delle rate di ammortamento, all'atto della dichiarazione di risoluzione del contratto di mutuo".
 
-#### Art. 13
+### Art. 13
 
 Le opere e gli acquisti finanziati a norma della legge 27 dicembre 1956, n. 1457, non potranno fruire di altre agevolazioni creditizie concesse dallo Stato o da altri enti pubblici a norma di leggi o regolamenti speciali, anche di carattere regionale.
 
-#### Art. 14
+### Art. 14
 
 L'articolo 9 della legge 27 dicembre 1956, n. 1457, e' cosi' modificato:
 
@@ -180,7 +180,7 @@ Per le operazioni di credito di cui alla presente legge gli istituti di credito 
 
 I natanti dati in garanzia dovranno essere assicurati contro i rischi ordinari della navigazione entro i limiti in cui i natanti stessi sono autorizzati a navigare dalle competenti autorita' marittime. Gli altri beni dovranno essere assicurati contro i rischi della perdita totale o parziale. Le relative polizze di assicurazione dovranno essere vincolate a favore dell'istituto finanziatore".
 
-#### Art. 15
+### Art. 15
 
 L'articolo 10 della legge 27 dicembre 1956, n. 1457, e' cosi' modificato:
 
@@ -194,27 +194,23 @@ I relativi importi saranno versati ad apposito capitolo dello stato di prevision
 
 ## TITOLO III - INTERVENTI ASSISTENZIALI
 
-#### Art. 16
+### Art. 16
 
 Il contributo annuo a favore della Fondazione assistenza e rifornimenti per la pesca, previsto dall'articolo 1 della legge 25 novembre 1960, n. 1518, e' elevato, per l'anno finanziario 1967, a lire 120.000.000 e, dallo anno finanziario 1968, a lire 190.000.000.
 
-## TITOLO IV - RICERCA TECNOLOGICA
+## TITOLO IV - RICERCA TECNOLOGICA E VIGILANZA SULLA PESCA D'ALTURA
 
-### E VIGILANZA SULLA PESCA D'ALTURA
-
-#### Art. 17
+### Art. 17
 
 ((ARTICOLO ABROGATO DALLA L. 15 NOVEMBRE 1975, N. 588))
 
-#### Art. 18
+### Art. 18
 
 ((Per il noleggio di adeguati ed attrezzati natanti necessari alla esecuzione di studi e ricerche nel settore della pesca e' autorizzato, a decorrere dall'anno finanziario 1976, uno stanziamento sullo stato di previsione della spesa del Ministero della marina mercantile di lire 50 milioni)).
 
-## TITOLO V - CONCORSO FINANZIARIO DELLO STATO A RIDUZIONE DEGLI ONERI
+## TITOLO V - CONCORSO FINANZIARIO DELLO STATO A RIDUZIONE DEGLI ONERI PREVIDENZIALI NEL SETTORE DELLA PESCA MEDITERRANEA
 
-### PREVIDENZIALI NEL SETTORE DELLA PESCA MEDITERRANEA
-
-#### Art. 19
+### Art. 19
 
 Il terzo, quarto e sesto comma dell'articolo 22 della legge 27 luglio 1967, n. 658, sono, con effetto dalla data di entrata in vigore della legge stessa, sostituiti, rispettivamente, come segue:
 
@@ -226,13 +222,13 @@ Il terzo, quarto e sesto comma dell'articolo 22 della legge 27 luglio 1967, n. 6
 
 ## TITOLO VI - DISPOSIZIONI FINANZIARIE
 
-#### Art. 20
+### Art. 20
 
 Oltre quanto previsto dall'articolo 19, all'onere complessivo di lire 750 milioni riguardante gli stanziamenti previsti dagli articoli 1, 16, 17 e 18 della presente legge per gli anni finanziari 1967 e 1968 si provvedera', nello esercizio 1967, per lire 250 milioni, mediante riduzione del capitolo n. 5381 dello stato di previsione del Ministero del tesoro, destinato a far fronte agli oneri dipendenti da provvedimenti legislativi in corso e, nell'esercizio 1968, per lire 500 milioni, mediante riduzione del capitolo n. 5381 dello stesso stato di previsione.
 
 Il Ministro per il tesoro e' autorizzato a provvedere, con propri decreti, alle corrispondenti variazioni di bilancio.
 
-#### Art. 21
+### Art. 21
 
 Le eventuali somme non impegnate nei singoli anni finanziari possono essere utilizzate negli esercizi successivi.
 

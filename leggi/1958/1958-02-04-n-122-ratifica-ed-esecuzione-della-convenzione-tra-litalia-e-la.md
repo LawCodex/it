@@ -26,11 +26,11 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la Convenzione tra l'Italia e la Spagna sulle assicurazioni sociali, conclusa in Madrid il 21 luglio 1956.
 
-##### Art. 2
+#### Art. 2
 
 Piena ed intera esecuzione e' data alla Convenzione di cui all'articolo precedente a decorrere dalla sua entrata in vigore.
 
@@ -62,7 +62,7 @@ IL CAPO DELLO STATO SPAGNOLO:
 
 S. E. il Sig. Alberto MARTIN AIRAJO, Ministro degli affari Esteri; i quali, dopo essersi scambiati i loro pieni poteri, riconosciuti in buona e debita forma, hanno concordato le disposizioni seguenti:
 
-##### Art. 1
+#### Art. 1
 
 Paragrafo 1
 
@@ -80,7 +80,7 @@ Paragrafo 3
 
 I lavoratori italiani e spagnoli che si trasferiscono da una Paese contraente, nel quale sono stati sottoposti alle assicurazioni sociali obbligatorie, nell'altro Paese e non soddisfano in tale Paese alle condizioni per essere sottoposti alle assicurazioni sociali obbligatorie, possono beneficiare delle assicurazioni volontarie facoltative previste dalle legislazioni indicate all'art. 2, Per l'applicazione della legislazione italiana si cumulano, in quanto necessario, i periodi di lavoro, di assicurazione, di iscrizione, di contribuzione od assimilati compiuti in Spagna.
 
-##### Art. 2
+#### Art. 2
 
 Paragrafo 1
 
@@ -154,7 +154,7 @@ esistenti a nuove categorie di lavoratori, se a tale riguardo il Paese contraent
 
 b) Alle leggi ed altre disposizioni concernenti un nuovo regime, se a tale riguardo non intervenga uno scambio di Note fra i due Paesi contraenti.
 
-##### Art. 3
+#### Art. 3
 
 Paragrafo 1
 
@@ -176,7 +176,7 @@ Le Autorita' competenti dei due Paesi contraenti potranno
 
 stabilire, di comune accordo, altre eccezioni al principio di cui al paragrafo 1 dell'art. 1. Esse potranno altresi' convenire di sospendere l'applicazione delle eccezioni previste al paragrafo 1 del presente articolo o di modificarne o di completarle in casi particolari o per determinate categorie di lavoratori.
 
-##### Art. 4
+#### Art. 4
 
 Paragrafo 1
 
@@ -202,11 +202,9 @@ sono sottoposti alle legislazioni di tale Paese e che sono inviati nell'altro Pa
 
 ## PARTE SECONDA - DISPOSIZIONI PARTICOLARI
 
-### Capitolo I
+### Capitolo I - Assicurazione invalidita', vecchiaia e superstiti
 
-#### Assicurazione invalidita', vecchiaia e superstiti
-
-##### Art. 5
+#### Art. 5
 
 Paragrafo 1
 
@@ -222,21 +220,21 @@ Nei casi previsti ai paragrafi 1 e 2 ogni ente assicuratore
 
 determina, secondo la legislazione per esso vigente e tenuto conto della totalita' dei periodi compiuti, senza distinzione del Paese contraente dove essi sono stati compiuti, se l'interessato adempia alle condizioni richieste per beneficiare delle prestazioni previste da tale legislazione. Nell'accordo amministrativo previsto all'art. 26 saranno precisate le condizioni e le modalita' secondo le quali saranno presi in considerazione, ai fini della determinazione di dette prestazioni, i periodi di contribuzione ed assimilati compiuti nei due Paesi contraenti.
 
-##### Art. 6
+#### Art. 6
 
 Qualora, l'interessato, tenuto conto della totalita' dei periodi
 
 previsti all'art. 5, non puo' far valere nello stesso momento le condizioni richieste dalle legislazioni dei due Paesi contraenti, il suo diritto a pensione e' determinato nei riguardi di ogni legislazione a mano a mano che egli puo' far valere tali condizioni.
 
-##### Art. 7
+#### Art. 7
 
 L'interessato, nel momento in cui matura il diritto a pensione,
 
 puo' rinunciare al beneficio delle disposizioni dell'art. 5. In tal caso le prestazioni sono determinate separatamente dagli enti assicuratori di ciascun Paese contraente secondo le legislazioni per essi vigenti e indipendentemente dai periodi compiuti nell'altro Paese.
 
-## Capitolo II - Infortuni sul lavoro e malattie professionali
+### Capitolo II - Infortuni sul lavoro e malattie professionali
 
-##### Art. 8
+#### Art. 8
 
 Paragrafo 1
 
@@ -250,7 +248,7 @@ Per il riconoscimento del diritto alle prestazioni e per la
 
 determinazione della loro specie e quantita' in caso di malattia professionale si applica, in quanto passibile, la legislazione del Paese contraente in cui la malattia professionale si manifesta per la prima volta, senza pregiudizio delle azioni spettanti al lavoratore ed ai suoi aventi causa contro gli enti assicuratori dell'altro Paese sui quali, per la natura delle lavorazioni anteriormente effettuate, possa gravare la copertura del rischio di detta malattia professionale.
 
-##### Art. 9
+#### Art. 9
 
 Paragrafo 1
 
@@ -260,11 +258,9 @@ Paragrafo 2
 
 Qualora si accerti che il lavoratore ha subito un aggravamento di detta malattia professionale in conseguenza di lavorazioni effettuate nel secondo Paese, egli avra' diritto ad essere indennizzato secondo la legislazione applicabile in tale Paese per la differenza tra il grado di incapacita' gia' indennizzato e il nuovo grado riconosciutogli.
 
-## Capitolo III - Disposizioni comuni alle assicurazioni invalidita', vecchiaia, superstiti, infortuni sul lavoro e malattie professionali.
+### Capitolo III - Disposizioni comuni alle assicurazioni invalidita', vecchiaia, superstiti, infortuni sul lavoro e malattie professionali. Servizio delle prestazioni
 
-### Servizio delle prestazioni
-
-##### Art. 10
+#### Art. 10
 
 Paragrafo 1
 
@@ -294,15 +290,15 @@ La fornitura e il rinnovo degli apparecchi di protesi, che non
 
 abbiano determinato la concessione di un complemento di rendita, sono corrisposte dall'ente assicuratore obbligato di uno dei due Paesi contraenti anche quando il lavoratore risieda o soggiorni nell'altro Paese; in tal caso la necessita' del rinnovo di detti apparecchi sara' valutata dall'ente competente di tale Paese.
 
-##### Art. 11
+#### Art. 11
 
 Nei casi di cui all'art. 10 gli enti debitori di un Paese
 
 contraente possono delegare il servizio delle prestazioni, come pure il controllo medico ed amministrativo degli interessati che risiedono o soggiornano nello altro Paese, all'ente competente di tale Paese, con il consenso di tale ente. Le relative spese saranno oggetto di rimborso.
 
-## Capitolo IV - Assicurazioni malattie e maternita'
+### Capitolo IV - Assicurazioni malattie e maternita'
 
-##### Art. 12
+#### Art. 12
 
 I lavoratori che si trasferiscono dall'Italia in Spagna o viceversa
 
@@ -318,7 +314,7 @@ beneficiare delle prestazioni, cumulando, in quanto necessario, i periodi di lav
 
 entrata nel Paese del nuovo luogo di lavoro, a meno che la legislazione applicabile non preveda condizioni piu' favorevoli.
 
-##### Art. 13
+#### Art. 13
 
 I lavoratori che si trasferiscono dall'Italia in Spagna o
 
@@ -330,7 +326,7 @@ viceversa, beneficiano, unitamente ai loro familiari, delle prestazioni di mater
 
 beneficiare di tali prestazioni, cumulando, in quanto necessario, i periodi di lavoro, di assicurazione, di iscrizione, di contribuzione od assimilati compiuti nell'altro Paese.
 
-##### Art. 14
+#### Art. 14
 
 I lavoratori che si trasferiscono dall'Italia in Spagna o viceversa
 
@@ -342,7 +338,7 @@ hanno o danno diritto, secondo i casi, alle indennita' funerarie in Spagna o in 
 
 beneficiare di tali prestazioni, cumulando, in quanto necessario, i periodi di lavoro, di assicurazione, di iscrizione, di contribuzione od assimilati compiuti nell'altro Paese.
 
-##### Art. 15
+#### Art. 15
 
 Nell'accordo amministrativo previsto all'art. 26 si determineranno secondo i casi:
 
@@ -356,9 +352,9 @@ e in natura corrisposte in circostanze o situazioni particolari a lavoratori o l
 
 c) Il procedimento per il rimborso delle spese relative fra gli organismi assicuratori interessati.
 
-## Capitolo V - Assicurazione disoccupazione
+### Capitolo V - Assicurazione disoccupazione
 
-##### Art. 16
+#### Art. 16
 
 I lavoratori che si trasferiscono dall'Italia in Spagna o viceversa
 
@@ -370,9 +366,9 @@ beneficiano delle prestazioni di disoccupazione in Spagna o in Italia, qualora:
 
 beneficiare delle prestazioni, cumulando, in quanto necessario, i periodi di lavoro, di assicurazione, di iscrizione, di contribuzione od assimilati compiuti nell'altro Paese.
 
-## Capitolo VI - "Mutualismo laboral"
+### Capitolo VI - "Mutualismo laboral"
 
-##### Art. 17
+#### Art. 17
 
 Paragrafo 1
 
@@ -386,7 +382,7 @@ pensioni di vecchiaia, si cumulano i periodi di lavoro per conto altrui compiuti
 
 ## PARTE TERZA - DISPOSIZIONI DIVERSE, TRANSITORIE FINALI
 
-##### Art. 18
+#### Art. 18
 
 Paragrafo 1
 
@@ -400,13 +396,13 @@ Gli accertamenti medici per conto degli organismi di un Paese
 
 contraente, che riguardano un interessato che si trovi nell'altro Paese, saranno eseguiti dagli organismi assicuratori competenti di tale Paese su richiesta ed a spese dell'organismo debitore.
 
-##### Art. 19
+#### Art. 19
 
 Le Autorita' diplomatiche e consolari dei due Paesi contraenti sono
 
 autorizzate ad intervenire direttamente presso le Autorita' e gli organismi competenti dell'altro Paese, per raccogliere le informazioni utili alla tutela degli interessi dei propri connazionali, come pure a rappresentarli senza speciale mandato.
 
-##### Art. 20
+#### Art. 20
 
 Paragrafo 1
 
@@ -420,37 +416,37 @@ Tutti gli atti, documenti ed altre scritture, che devono essere
 
 prodotti per l'applicazione della presente Convenzione, sono esenti dall'obbligo del visto e della legalizzazione da parte delle Autorita' diplomatiche e consolari.
 
-##### Art. 21
+#### Art. 21
 
 Le Autorita' e gli organismi competenti dei due Paesi contraenti, per l'applicazione della presente Convenzione, corrispondono direttamente tra loro, con gli assicurati e con i loro rappresentanti. Essi redigono la corrispondenza nella rispettiva lingua ufficiale.
 
-##### Art. 22
+#### Art. 22
 
 Le istanze che gli interessati indirizzano alle autorita' e agli
 
 organismi competenti di uno dei due Paesi contraenti per l'applicazione della presente Convenzione, come pure gli altri atti occorrenti per l'applicazione delle legislazioni indicate all'art. 2, non possono essere respinte per il fatto di essere redatte nella lingua ufficiale dell'altro Paese.
 
-##### Art. 23
+#### Art. 23
 
 Le istanze e gli altri documenti presentati alle Autorita' od agli organismi competenti di uno dei due Paesi contraenti avranno lo stesso effetto come se fossero stati presentati alle Autorita' od agli organismi corrispondenti dell'altro Paese.
 
-##### Art. 24
+#### Art. 24
 
 I ricorsi che debbono essere presentati, entro un periodo di tempo determinato, ad una autorita' o ad un organismo competente di uno dei due Paesi contraenti, sono considerati come presentati nel periodo di tempo prescritto se essi sono presentati, entro lo stesso periodo di tempo, ad una delle corrispondenti Autorita' od organismi dell'altro Paese. In tal caso quest'ultima Autorita' o quest'ultimo organismo deve trasmettere, senza ritardo, detti ricorsi alla Autorita' o all'organismo competente del primo Paese, accusandone ricevuta all'interessato.
 
-##### Art. 25
+#### Art. 25
 
 La presente Convenzione non comporta deroghe alle disposizioni
 
 delle legislazioni di cui all'art. 2 concernenti la partecipazione degli stranieri alle elezioni cui da' luogo il funzionamento dei regimi di assicurazioni sociali.
 
-##### Art. 26
+#### Art. 26
 
 Le Autorita' competenti dei due Paesi contraenti stabiliranno di
 
 comune accordo le disposizioni per l'applicazione della presente Convenzione. Esse potranno, in particolare, stabilire disposizioni per evitare il cumulo delle prestazioni, per regolare la totalizzazione dei periodi e per organizzare il servizio dei pagamenti e dei controlli dall'uno all'altro Paese contraente.
 
-##### Art. 27
+#### Art. 27
 
 Paragrafo 1
 
@@ -462,7 +458,7 @@ Paragrafo 2
 
 Le Autorita' competenti dei due Paesi contraenti si comunicheranno altresi' tempestivamente, per il tramite dei Ministeri degli Affari Esteri, in duplice copia, tutte le disposizioni che modifichino o completino le legislazioni indicate all'art. 2.
 
-##### Art. 28
+#### Art. 28
 
 Paragrafo 1
 
@@ -476,7 +472,7 @@ Nel caso che per tale via non si arrivi ad una soluzione, la
 
 controversia sara' decisa mediante una procedura arbitrale, stabilita di comune accordo tra i Governi dei due Paesi contraenti. L'organo arbitrale dovra' risolvere la controversia secondo lo spirito e i principi fondamentali della presente Convenzione. La sua decisione sara' obbligatoria e definitiva.
 
-##### Art. 29
+#### Art. 29
 
 Paragrafo 1
 
@@ -506,7 +502,7 @@ Se l'importo che e' stato versato al beneficiario a titolo di
 
 assistenza provvisoria e' superiore all'ammontare delle prestazioni obbligatoriamente spettanti per il periodo corrispondente, l'organismo assicuratore che in definitiva risultera' obbligato imputa la differenza sulle rate future mediante trattenute non superiori al quinto dell'ammontare di ciascuna rata.
 
-##### Art. 30
+#### Art. 30
 
 Paragrafo 1
 
@@ -518,13 +514,13 @@ Nel caso in cui siano emanate, nell'uno o nell'altro Paese
 
 contraente, disposizioni intese a sottoporre a restrizioni lo scambio delle valute, i due Governi dovranno adottare immediatamente le misure necessarie per assicurare, in conformita' alle disposizioni della presente Convenzione, il trasferimento delle somme dovute da una parte e dall'altra.
 
-##### Art. 31
+#### Art. 31
 
 Le formalita', che le disposizioni legali o regolamentari di uno
 
 dei Paesi contraenti possono prevedere per il pagamento delle prestazioni fuori del proprio territorio, si applicheranno, alle stesse condizioni previste per i cittadini di tale Paese, alle persone ammesse al beneficio di tali prestazioni in virtu' della presente Convenzione.
 
-##### Art. 32
+#### Art. 32
 
 Nell'accordo amministrativo previsto all'art. 26, saranno stabilite
 
@@ -532,7 +528,7 @@ le condizioni e le modalita' secondo le quali potranno essere riconosciute, rist
 
 Nello stesso accordo saranno fissate le condizioni e le modalita' secondo le quali potra' essere tenuto conto dei periodi di lavoro, di assicurazione, di iscrizione, di contribuzione od assimilati anteriori alla entrata la vigore della presente Convenzione, nella stessa misura, in cui se ne sarebbe tenuto canto se la presente Convenzione fosse stata in vigore nel corso del loro compimento.
 
-##### Art. 33
+#### Art. 33
 
 Paragrafo 1
 

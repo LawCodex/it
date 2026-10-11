@@ -28,17 +28,17 @@ la seguente legge:
 
 ## TITOLO I - Degli iscritti e degli scopi
 
-##### Art. 1 - Iscritti alla Cassa
+#### Art. 1 - Iscritti alla Cassa
 
 Sono obbligatoriamente iscritti alla "Cassa nazionale di previdenza ed assistenza a favore dei geometri" istituita con legge 24 ottobre 1955, n. 990, tutti gli iscritti negli Albi professionali dei geometri.
 
-##### Art. 2 - Scopi della Cassa
+#### Art. 2 - Scopi della Cassa
 
 La Cassa ha lo scopo di attuare trattamenti di previdenza e di assistenza a favore degli iscritti e dei loro familiari, nei limiti e con le modalita' di cui alla presente legge.
 
 ## TITOLO II - Degli organi della Cassa
 
-##### Art. 3 - Organi della Cassa
+#### Art. 3 - Organi della Cassa
 
 Sono organi della Cassa:
 
@@ -54,7 +54,7 @@ Sono organi della Cassa:
 
 Ai Collegi professionali dei geometri possono essere demandati dalla Cassa speciali funzioni allo scopo di un migliore raggiungimento dei fini istituzionali. ((La Cassa e' autorizzata a sostenere i relativi oneri secondo le modalita' e nelle entita' stabilite dal comitato dei delegati)).
 
-##### Art. 4 - Il presidente della Cassa
+#### Art. 4 - Il presidente della Cassa
 
 Il presidente e' eletto dal Consiglio di amministrazione fra i suoi componenti.
 
@@ -66,7 +66,7 @@ Il presidente uscente convoca e presiede le riunioni del nuovo Comitato dei dele
 
 Il presidente e' coadiuvato, e nel caso di impedimento o di assenza e' sostituito, dal vice presidente che viene eletto, per la stessa durata, dal Consiglio di amministrazione fra i suoi componenti.
 
-##### Art. 5 - Comitato dei delegati - Elezioni attribuzioni
+#### Art. 5 - Comitato dei delegati - Elezioni attribuzioni
 
 Il Comitato dei delegati e' costituito dai rappresentanti degli iscritti alla Cassa, nominati nel modo api presso indicato.
 
@@ -114,7 +114,7 @@ Le deliberazioni indicate nella lettera b) del precedente comma, sono sottoposte
 
 I compensi stabiliti in conformita' al decimo comma, lettera e), nonche' le indennita' determinate in relazione all'articolo 32, terzo comma, della legge 20 marzo 1975, n. 70, concorrono alla formazione del reddito e volume d'affari professionali ai sensi degli articoli 2, 10 e 11 della legge 20 ottobre 1982, n. 773)).
 
-##### Art. 6 - Il Comitato dei delegati - Convocazioni
+#### Art. 6 - Il Comitato dei delegati - Convocazioni
 
 Il Comitato dei delegati deve riunirsi ordinariamente almeno due volte l'anno, nonche' ogni qualvolta sia richiesto dal Consiglio di amministrazione, o da almeno un quarto dei componenti il Comitato dei delegati o dal Collegio dei sindaci.
 
@@ -122,7 +122,7 @@ L'avviso di convocazione deve essere inviato per mezzo di lettera raccomandata, 
 
 Sono valide le deliberazioni approvate a maggioranza assoluta, eccetto le deliberazioni riguardanti materie previste alla lettera a) del penultimo comma del precedente articolo 5, le quali debbono approvarsi con maggioranza di almeno due terzi.
 
-##### Art. 7
+#### Art. 7
 
 (Il Consiglio di amministrazione -
 
@@ -148,7 +148,7 @@ I componenti il Consiglio di amministrazione decaduti, dimissionari o deceduti s
 
 In caso di dimissioni contemporanee di almeno sei membri, si procede entro trenta giorni a nuova elezione del Consiglio di amministrazione.
 
-##### Art. 8 - Il Consiglio di amministrazione - Attribuzioni
+#### Art. 8 - Il Consiglio di amministrazione - Attribuzioni
 
 Il Consiglio di amministrazione ha le seguenti attribuzioni:
 
@@ -164,7 +164,7 @@ e) decide sui ricorsi contro le deliberazioni della Giunta;
 
 f) adempie alle altre funzioni assegnategli dalle leggi, dai regolamenti e dal Comitato dei delegati.
 
-##### Art. 9 - La Giunta esecutiva
+#### Art. 9 - La Giunta esecutiva
 
 La giunta esecutiva e' composta dal presidente della Cassa, dal vice presidente e da tre membri eletti, fra i propri componenti, dal Consiglio di amministrazione.
 
@@ -184,7 +184,7 @@ d) liquida le prestazioni della Cassa;
 
 e) amministra il personale della Cassa.
 
-##### Art. 10 - Ricorsi contro provvedimenti della Giunta esecutiva
+#### Art. 10 - Ricorsi contro provvedimenti della Giunta esecutiva
 
 Contro le deliberazioni della Giunta di cui alle lettere d) ed e) del precedente articolo 9, gli interessati possono presentare ricorso al Consiglio di amministrazione.
 
@@ -196,7 +196,7 @@ Il termine per ricorrere in via amministrativa e' di giorni novanta dalla comuni
 
 Trascorso tale ultimo termine senza che la decisione sia stata pronunciata, l'interessato ha facolta' di ricorrere in via giurisdizionale in conformita' del secondo comma del presente articolo.
 
-##### Art. 11 - Il Collegio dei sindaci
+#### Art. 11 - Il Collegio dei sindaci
 
 Il Collegio dei sindaci e' composto da cinque membri effettivi e cinque supplenti, dei quali:
 
@@ -216,19 +216,17 @@ I sindaci durano in carica quattro anni e possono essere riconfermati.
 
 ## TITOLO III - Dei trattamenti previdenziali e assistenziali e dei contributi
 
-### CAPO I
+### CAPO I - DEL TRATTAMENTO DI PREVIDENZA
 
-#### DEL TRATTAMENTO DI PREVIDENZA
-
-##### Art. 12 - Prestazioni previdenziali
+#### Art. 12 - Prestazioni previdenziali
 
 Il trattamento previdenziale della Cassa consiste nella liquidazione di pensioni di vecchiaia, di pensioni di invalidita', di pensioni ai superstiti e di indennita' una tantum nella misura e con le norme stabilite negli articoli seguenti.
 
-##### Art. 13 - Pensione di vecchiaia
+#### Art. 13 - Pensione di vecchiaia
 
 La pensione di vecchiaia spetta all'iscritto che abbia compiuto il sessantacinquesimo anno di eta' e versato per almeno venti anni il contributo personale per la gestione invalidita', vecchiaia e superstiti alla Cassa.
 
-##### Art. 14 - Pensione di invalidita
+#### Art. 14 - Pensione di invalidita
 
 La pensione di invalidita' spetta, previa cancellazione dall'Albo, all'iscritto che per sopravvenutagli malattia o infortunio, abbia perduto in modo permanente ed assoluto la capacita' all'esercizio della sua professione e purche' ricorra una delle seguenti condizioni:
 
@@ -238,7 +236,7 @@ b) cinque anni di iscrizione e di contribuzione alla Cassa, con non meno di due 
 
 La pensione di invalidita' non e' cumulabile con la pensione di vecchiaia.
 
-##### Art. 15 - Accertamento dello stato di invalidita
+#### Art. 15 - Accertamento dello stato di invalidita
 
 Lo stato di invalidita' assoluta e permanente dello iscritto e' accertato dalla Cassa.
 
@@ -254,7 +252,7 @@ Per un periodo di dieci anni dalla data di liquidazione della pensione di invali
 
 La erogazione della pensione cessa con il cessare della inabilita' totale ed e' sospesa nei confronti del pensionato che rifiuti di sottoporsi alle revisioni suddette.
 
-##### Art. 16 - Misura delle pensioni di vecchiaia e di invalidita
+#### Art. 16 - Misura delle pensioni di vecchiaia e di invalidita
 
 La misura della pensione di vecchiaia e della pensione di invalidita' e' di lire 780 mila annue. ((1))
 
@@ -272,7 +270,7 @@ La L. 8 agosto 1977, n. 583 ha disposto (con l'art. 2, commi 1 e 2) che "Con eff
 
 Con decorrenza dal 1 gennaio 1979 la misura di cui al precedente comma e' pari, per ogni anno di contribuzione, all'1,75 per cento della media del reddito professionale imponibile dichiarato dall'iscritto ai fini IRPEF nei cinque anni precedenti."
 
-##### Art. 17 - Pensione indiretta e di riversibilita
+#### Art. 17 - Pensione indiretta e di riversibilita
 
 Nel caso di morte del pensionato o dell'iscritto, sempreche' per quest'ultimo sussistano al momento della morte, le condizioni di iscrizione e di contribuzione di cui al precedente articolo 14, spetta una pensione ai seguenti familiari:
 
@@ -308,7 +306,7 @@ Nel caso di concorso di piu' superstiti, la pensione risultante secondo le aliqu
 
 Nel caso di variazione della composizione del nucleo superstite, la pensione e' riliquidata secondo la nuova composizione, con decorrenza dal primo giorno del mese successivo a quello nel quale la variazione e' avvenuta.
 
-##### Art. 18 - Richiesta e decorrenza della pensione
+#### Art. 18 - Richiesta e decorrenza della pensione
 
 La pensione deve essere richiesta alla Cassa con domanda scritta.
 
@@ -324,19 +322,19 @@ In caso di ritardata presentazione della domanda sono dovuti gli arretrati senza
 
 La pensione annua e' pagata in tredici rate uguali: una al principio di ciascun mese e una in occasione delle festivita' natalizie.
 
-##### Art. 19 - Supplementi di pensione
+#### Art. 19 - Supplementi di pensione
 
 Il titolare di pensione diretta di vecchiaia che si cancelli dall'Albo professionale in epoca successiva alla data di liquidazione della pensione, ha diritto ad un supplemento di pensione annua in misura pari al dieci per cento dell'ammontare eventualmente accreditatogli, in conformita' del successivo articolo 30, posteriormente alla data di liquidazione della pensione stessa.
 
 Il criterio di cui al precedente comma trova applicazione anche per la determinazione dell'importo della pensione spettante ad eventuali superstiti, nel caso di morte del titolare di pensione diretta.
 
-##### Art. 20
+#### Art. 20
 
 ((ARTICOLO ABROGATO DALLA L. 4 AGOSTO 1990, N. 236))
 
-## CAPO II - DEL TRATTAMENTO DI ASSISTENZA
+### CAPO II - DEL TRATTAMENTO DI ASSISTENZA
 
-##### Art. 21 - Forme di assistenza
+#### Art. 21 - Forme di assistenza
 
 La Cassa attua l'assistenza:
 
@@ -348,7 +346,7 @@ c) con provvidenze straordinarie anche per coloro che, pur essendosi assicurati 
 
 Al finanziamento dei trattamenti di cui al precedente comma si provvede ogni anno, col 20 per cento delle entrate derivanti dal contributo per marche di cui allo articolo 17, lettera b) della legge 24 ottobre 1955, n. 990, modificata con legge 9 febbraio 1963, n. 152, accertate nell'esercizio precedente, e con il contributo dovuto dagli iscritti all'assicurazione volontaria di malattia, secondo le norme ed i criteri stabiliti nei successivi articoli 24 e 25.
 
-##### Art. 22 - Assicurazione volontaria contro la malattia - Prestazioni
+#### Art. 22 - Assicurazione volontaria contro la malattia - Prestazioni
 
 All'assicurazione volontaria contro la malattia di cui alla lettera a) del precedente articolo 21 la Cassa provvede previa convenzione deliberata dal Consiglio di amministrazione, da stipulare con uno degli enti preposti all'assicurazione obbligatoria contro le malattie.
 
@@ -378,7 +376,7 @@ B) 1 - assistenza ospedaliera, medica chirurgica, ostetrica e farmaceutica;
 
 Il diritto alle prestazioni sorge al 90° giorno dalla data di iscrizione all'assicurazione volontaria contro le malattie.
 
-##### Art. 23 - Assicurazione volontaria contro la malattia - Iscritti
+#### Art. 23 - Assicurazione volontaria contro la malattia - Iscritti
 
 Possono essere iscritti, su domanda, all'assicurazione volontaria contro la malattia tutti gli iscritti alla Cassa nonche' i titolari di pensione diretta a carico della Cassa stessa, con esclusione di coloro che siano soggetti ad una qualsiasi forma obbligatoria di assicurazione o assistenza malattia.
 
@@ -390,7 +388,7 @@ b) i figli celibi e nubili legittimi, legittimati o naturali legalmente riconosc
 
 c) gli ascendenti di eta' superiore ai 55 se donne e 60 se uomini.
 
-##### Art. 24 - Assicurazione volontaria contro la malattia - Finanziamento
+#### Art. 24 - Assicurazione volontaria contro la malattia - Finanziamento
 
 Al finanziamento dell'assicurazione volontaria contro la malattia si provvede:
 
@@ -404,7 +402,7 @@ Il contributo personale annuo di cui alla lettera a) del precedente comma deve e
 
 L'assicurazione volontaria contro la malattia e' amministrata in forma autonoma con contabilita' separata, e costituisce una distinta sezione della gestione assistenza.
 
-##### Art. 25 - Delle altre forme di assistenza
+#### Art. 25 - Delle altre forme di assistenza
 
 L'assistenza costituita dalle provvidenze indicate alle lettere b) e c) del precedente articolo 21 e' attuata dalla Cassa con deliberazioni della Giunta esecutiva.
 
@@ -412,9 +410,9 @@ Ai relativi oneri si fa fronte con la residua parte della aliquota del 20 per ce
 
 ((COMMA ABROGATO DALLA L. 20 OTTOBRE 1982, N. 773))
 
-## CAPO III - DEI CONTRIBUTI
+### CAPO III - DEI CONTRIBUTI
 
-##### Art. 26 - Contribuzione relativa alla gestione previdenziale
+#### Art. 26 - Contribuzione relativa alla gestione previdenziale
 
 ((Il contributo personale obbligatorio a carico di ciascun iscritto per la gestione invalidita', vecchiaia e superstiti e' stabilito nell'importo di L. 350.000 annue.
 
@@ -440,13 +438,13 @@ La L. 8 agosto 1977, n. 583 ha disposto (con l'art. 1, comma 1) che
 
 la modifica del presente articolo decorre dal dal 1 gennaio 1977.
 
-##### Art. 27 - Riduzione del contributo
+#### Art. 27 - Riduzione del contributo
 
 L'iscritto che sia soggetto ad altra forma di previdenza obbligatoria nel periodo di iscrizione alla Cassa, puo' chiedere, con domanda da inoltrarsi alla Cassa stessa entro il 31 dicembre di ciascun anno, la riduzione a meta' del contributo personale di cui al precedente articolo 26.
 
 L'esercizio della predetta facolta' comporta una riduzione delle prestazioni previdenziali in conformita' di quanto disposto nel secondo comma del precedente articolo 16.
 
-##### Art. 28 - Versamento e riscossione dei contributi
+#### Art. 28 - Versamento e riscossione dei contributi
 
 ((La riscossione dei contributi personali annuali a carico degli iscritti si effettua per mezzo di ruoli annuali compilati dalla Cassa, resi esecutivi dall'intendenza di finanza competente e trasmessi alle esattorie comunali. Le esattorie provvedono all'incasso in conformita' alle norme vigenti per la riscossione delle imposte dirette, con l'obbligo del non riscosso per riscosso)).
 
@@ -456,7 +454,7 @@ Le marche sono fornite dalla Cassa attraverso istituti di credito di diritto pub
 
 ## TITOLO IV - Della gestione finanziaria
 
-##### Art. 29 - Esercizio finanziario e bilancio
+#### Art. 29 - Esercizio finanziario e bilancio
 
 L'esercizio finanziario della Cassa inizia il 1 gennaio e termina il 31 dicembre.
 
@@ -474,7 +472,7 @@ AGGIORNAMENTO (2)
 
 La L. 20 ottobre 1982, n. 773 ha disposto (con l'art. 9, comma 4) che "Il terzo comma dell'articolo 25 della legge 4 febbraio 1967, n. 37, e' abrogato. Le somme gia' accantonate in conformita' della predetta norma sono trasferite al fondo di previdenza e la Cassa non e' piu' obbligata alla tenuta delle gestioni separate previste dal secondo comma dell'articolo 29 della predetta legge."
 
-##### Art. 30 - Riparto dei contributi per marche
+#### Art. 30 - Riparto dei contributi per marche
 
 Ogni anno dall'importo delle entrate derivanti dall'applicazione delle marche sono prelevate le somme stabilite per il trattamento di assistenza nella misura indicata al secondo comma del precedente articolo 21 e quelle occorrenti per le spese generali di amministrazione della Cassa.
 
@@ -482,7 +480,7 @@ Le rimanenti somme sono, per meta', destinate al finanziamento della gestione pr
 
 L'iscritto, che non versa il contributo obbligatorio entro l'anno cui si riferisce, perde il diritto alla quota annua di riparto di cui al precedente comma.
 
-##### Art. 31 - Degli investimenti
+#### Art. 31 - Degli investimenti
 
 Le somme delle quali non sia necessario conservare la liquidita' sono impegnate:
 
@@ -498,29 +496,29 @@ In casi eccezionali il Consiglio di amministrazione puo' anche provvedere ad inv
 
 Le deliberazioni di cui al comma precedente debbono essere sottoposte alla approvazione del Ministero del lavoro e della previdenza sociale.
 
-##### Art. 32 - Privilegi ed esenzioni fiscali
+#### Art. 32 - Privilegi ed esenzioni fiscali
 
 Sono estesi alla Cassa e alle prestazioni da essa corrisposte tutti i privilegi, e le esenzioni fiscali, previsti per l'Istituto nazionale della previdenza sociale per l'assicurazione obbligatoria nazionale di invalidita', vecchiaia e superstiti, e per le pubbliche istituzioni di beneficenza e assistenza.
 
 ## TITOLO V - Disposizioni transitorie e finali
 
-##### Art. 33 - Restituzione dei versamenti volontari antecedenti alla legge
+#### Art. 33 - Restituzione dei versamenti volontari antecedenti alla legge
 
 I versamenti volontari effettuati da iscritti alla Cassa, ai sensi della legge 24 ottobre 1955, n. 990, sono restituiti al versante, entro un anno dalla data di entrata in vigore della presente legge maggiorati degli interessi composti al saggio legale.
 
-##### Art. 34 - Attribuzioni delle attivita' e soppressione dei conti individuali
+#### Art. 34 - Attribuzioni delle attivita' e soppressione dei conti individuali
 
 Le attivita' esistenti presso la Cassa alla data di entrata in vigore della presente legge sono imputate alla gestione invalidita', vecchiaia e superstiti per la copertura delle riserve tecniche.
 
 I singoli conti individuali costituiti a norma della legge 24 ottobre 1955, n. 990, sono soppressi tenendo conto delle modalita' previste ai successivi articoli 35 e 36.
 
-##### Art. 35 - Riconoscimento dei contributi pregressi
+#### Art. 35 - Riconoscimento dei contributi pregressi
 
 Agli effetti della anzianita' di iscrizione e di contribuzione per il conseguimento del diritto alle prestazioni previdenziali sono riconosciuti validi i periodi d'iscrizione e di contribuzione alla Cassa precedenti la data di entrata in vigore della presente legge.
 
 In relazione al riconoscimento dei predetti periodi di pregressa anzianita', sono attribuite a favore dei singoli interessati, ai fini delle eventuali liquidazioni una tantum previste dal precedente articolo 20, comma primo, secondo e terzo, lire 60.000 per ogni anno di detta pregressa anzianita' entro i limiti e fino a concorrenza degli importi esistenti nei rispettivi conti individuali al momento dell'entrata in vigore della presente legge.
 
-##### Art. 36 - Riscatto di periodi pregressi
+#### Art. 36 - Riscatto di periodi pregressi
 
 Gli iscritti alla Cassa a norma del precedente articolo 1, che alla data di entrata in vigore della presente legge abbiano superato l'eta' di 45 anni, possono presentare domanda scritta, entro il termine perentorio di due anni dalla data sopra indicata, per riscattare un numero di annualita' di contribuzione individuale alla gestione invalidita', vecchiaia e superstiti, non superiore al numero di anni di ininterrotta iscrizione all'Albo professionale, con un massimo di venti annualita'.
 
@@ -532,41 +530,41 @@ Le somme da versare a titolo di riscatto da parte dei singoli interessati sono r
 
 L'anzianita' contributiva riconosciuta in seguito a esercizio della facolta' di riscatto non e' valida ai fini del diritto a pensione di invalidita'.
 
-##### Art. 37 - Rateazione dei riscatti
+#### Art. 37 - Rateazione dei riscatti
 
 E' consentito il versamento rateale delle annualita' di contribuzione ammesse a riscatto ai sensi del precedente articolo 36 da ripartirsi nel termine massimo di due anni. In tal caso il godimento della pensione non puo' avere inizio se non dopo che sia stato completato il pagamento dell'ultima rata.
 
 In caso di morte dell'iscritto che abbia iniziato ma non completato il pagamento del contributo di riscatto, i superstiti sono ammessi al godimento della pensione solo dopo che sia stato completato il pagamento suddetto.
 
-##### Art. 38 - Decorrenza delle nuove misure di pensione e di contributi
+#### Art. 38 - Decorrenza delle nuove misure di pensione e di contributi
 
 Il contributo, nella misura stabilita nel primo comma dell'articolo 26, e' dovuto a far tempo dal 1 gennaio 1967.
 
 Dalla stessa data si applicano le disposizioni della presente legge relative alle prestazioni previdenziali, ivi compresa la riliquidazione delle pensioni a carico della Cassa in corso di godimento.
 
-##### Art. 39 - Pensione indiretta per i decessi anteriori alla legge
+#### Art. 39 - Pensione indiretta per i decessi anteriori alla legge
 
 Al coniuge superstite e ai figli minori di iscritto deceduto antecedentemente la data di entrata in vigore della presente legge e nei cui confronti sussistevano al momento del decesso i requisiti di iscrizione e di contribuzione stabiliti dal precedente articolo 14 per la pensione di invalidita', e' concessa, su domanda da inoltrare alla Cassa entro il termine perentorio di due anni dall'entrata in vigore della legge stessa, la pensione indiretta nella misura prevista al precedente articolo 17.
 
 La concessione della pensione e' subordinata alla restituzione delle somme eventualmente liquidate agli interessati a norma dell'articolo 34 della legge 24 ottobre 1955, n. 990, e decorre dal primo giorno del mese successivo a quello di presentazione della domanda.
 
-##### Art. 40 - Decorrenza dell'assicurazione volontaria contro la malattia
+#### Art. 40 - Decorrenza dell'assicurazione volontaria contro la malattia
 
 La data di inizio del servizio concernente l'assicurazione volontaria contro la malattia, nonche' la decorrenza dei relativi contributi, e' stabilita, in relazione alla convenzione da stipularsi ai sensi del precedente articolo 22, dal Consiglio di amministrazione.
 
 Qualora la data di inizio di detto servizio non coincida con quella dell'esercizio finanziario, i contributi di cui al precedente articolo 24, lettera a), sono ridotti in ragione di tanti dodicesimi per quanti sono i mesi gia' decorsi dell'esercizio stesso.
 
-##### Art. 41 - Durata provvisoria degli attuali organi della Cassa
+#### Art. 41 - Durata provvisoria degli attuali organi della Cassa
 
 Gli attuali organi della Cassa rimangono in carica fino a due anni dall'entrata in vigore della presente legge.
 
-##### Art. 42 - Vigilanza sulla Cassa
+#### Art. 42 - Vigilanza sulla Cassa
 
 La Cassa e' sottoposta alla vigilanza del Ministero del lavoro e della previdenza sociale.
 
 Qualora siano accertate gravi irregolarita' nel funzionamento della Cassa, con decreto del Presidente della Repubblica, su proposta del Ministro per il lavoro e la previdenza sociale, puo' essere disposta la nomina di un commissario per l'amministrazione straordinaria della Cassa con i poteri, per la durata non superiore ad un anno, che saranno fissati nel decreto stesso.
 
-##### Art. 43 - Entrata in vigore della legge
+#### Art. 43 - Entrata in vigore della legge
 
 La presente legge entra in vigore il primo giorno del mese successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica.
 

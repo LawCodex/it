@@ -42,11 +42,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - ACQUE MINERALI NATURALI
 
-### ACQUE MINERALI NATURALI
-
-#### Art. 1
+### Art. 1
 
 Campo di applicazione
 
@@ -190,7 +188,7 @@ Campo di applicazione
 
 > \- La direttiva 2009/54/CE e' pubblicata nella G.U.U.E. 26 giugno 2009, n. L 164.
 
-#### Art. 2
+### Art. 2
 
 Definizione e caratteristiche di un'acqua minerale naturale
 
@@ -210,7 +208,7 @@ d) se necessario, farmacologico, clinico e fisiologico.
 
 4\. La composizione, la temperatura e le altre caratteristiche essenziali delle acque minerali naturali debbono mantenersi costanti alla sorgente nell'ambito delle variazioni naturali, anche in seguito ad eventuali variazioni di portata.
 
-#### Art. 3
+### Art. 3
 
 Criteri di valutazione
 
@@ -222,7 +220,7 @@ Criteri di valutazione
 
 > \- Per i riferimenti alla direttiva 2009/54/CE, si veda nelle note alle premesse.
 
-#### Art. 4
+### Art. 4
 
 Domanda di riconoscimento
 
@@ -232,7 +230,7 @@ Domanda di riconoscimento
 
 3\. Il riconoscimento e' richiesto dal titolare di concessione o sub-concessione mineraria o di altro valido titolo rilasciato dalle autorita' competenti in base alle disposizioni di legge vigenti in materia.
 
-#### Art. 5
+### Art. 5
 
 Riconoscimento
 
@@ -242,7 +240,7 @@ Riconoscimento
 
 3\. Il decreto di riconoscimento e' pubblicato nella Gazzetta Ufficiale della Repubblica italiana e comunicato alla Commissione europea.
 
-#### Art. 6
+### Art. 6
 
 Autorizzazione alla utilizzazione
 
@@ -252,7 +250,7 @@ Autorizzazione alla utilizzazione
 
 3\. Copia del provvedimento di autorizzazione viene trasmessa al Ministero della salute.
 
-#### Art. 7
+### Art. 7
 
 Condizioni per il rilascio dell'autorizzazione
 
@@ -268,7 +266,7 @@ In particolare, i recipienti debbono essere trattati o fabbricati in modo da evi
 
 d) l'eventuale trattamento dell'acqua, di cui all'articolo 8, comma 1, lettere c) e d), corrisponda a quello indicato nel provvedimento di riconoscimento.
 
-#### Art. 8
+### Art. 8
 
 Operazioni consentite e operazioni non consentite
 
@@ -292,7 +290,7 @@ e) eliminazione totale o parziale dell'anidride carbonica libera mediante proced
 
 4\. E' vietato sottoporre l'acqua minerale naturale ad operazioni diverse da quelle previste nel comma 1. In particolare sono vietati i trattamenti di potabilizzazione, l'aggiunta di sostanze battericide o batteriostatiche e qualsiasi altro trattamento suscettibile di modificare il microbismo dell'acqua minerale naturale.
 
-#### Art. 9
+### Art. 9
 
 Caratteristiche microbiologiche
 
@@ -318,7 +316,7 @@ a) il tenore totale di microrganismi dell'acqua minerale naturale puo' risultare
 
 b) l'acqua minerale naturale non puo' presentare difetti dal punto di vista organolettico.
 
-#### Art. 10
+### Art. 10
 
 Denominazione
 
@@ -330,7 +328,7 @@ Denominazione
 
 4\. Non e' consentita alcuna variazione di denominazione di un'acqua minerale naturale con la denominazione di un'altra acqua minerale naturale, salvo che di quest'ultima ne sia cessata la commercializzazione da almeno venti anni. Qualsiasi variazione di denominazione di un'acqua minerale naturale comporta la modifica del decreto di riconoscimento.
 
-#### Art. 11
+### Art. 11
 
 Modalita' di utilizzazione
 
@@ -338,7 +336,7 @@ Modalita' di utilizzazione
 
 2\. Ogni recipiente utilizzato per il condizionamento delle acque minerali naturali deve essere munito di un dispositivo di chiusura tale da evitare il pericolo di falsificazione, di contaminazione e di fuoriuscita. Il recipiente ed il dispositivo di chiusura devono essere conformi alla vigente normativa in materia di materiali ed oggetti destinati a venire a contatto con i prodotti alimentari.
 
-#### Art. 12
+### Art. 12
 
 Etichettatura
 
@@ -474,13 +472,13 @@ h) le eventuali indicazioni per l'uso.
 
 > 8\. Ai fini dei controlli sull'applicazione delle norme comunitarie, il Ministro dell'industria, del commercio e dell'artigianato puo' con proprio decreto stabilire le modalita' di indicazione del lotto per taluni prodotti alimentari o categorie di prodotti alimentari.».
 
-#### Art. 13
+### Art. 13
 
 Utilizzazione delle acque minerali per la preparazione di bevande analcoliche
 
 1\. E' consentita l'utilizzazione delle acque minerali naturali per la preparazione di bevande analcoliche, nel rispetto delle norme vigenti in materia.
 
-#### Art. 14
+### Art. 14
 
 Importazione di acque minerali naturali
 
@@ -492,7 +490,7 @@ Importazione di acque minerali naturali
 
 4\. I provvedimenti di riconoscimento, di rinnovo e di revoca sono pubblicati nella Gazzetta Ufficiale della Repubblica italiana e comunicati alla Commissione europea.
 
-#### Art. 15
+### Art. 15
 
 Rapporti intracomunitari
 
@@ -500,7 +498,7 @@ Rapporti intracomunitari
 
 2\. Il Ministero della salute fornisce, su richiesta di qualsiasi Stato membro o della Commissione europea, tutte le informazioni relative al riconoscimento delle acque minerali naturali, la cui commercializzazione sia stata temporaneamente sospesa o limitata nel territorio di un altro Stato membro, nonche' i risultati dei controlli periodici.
 
-#### Art. 16
+### Art. 16
 
 Vigilanza sulla utilizzazione e sul commercio
 
@@ -516,7 +514,7 @@ Vigilanza sulla utilizzazione e sul commercio
 
 6\. Se gli organi competenti alla vigilanza accertano che un'acqua minerale naturale, proveniente da uno Stato membro dell'Unione europea, non e' conforme alle disposizioni del presente decreto o presenta un pericolo per la salute pubblica, fatta salva l'adozione di provvedimenti urgenti a tutela della salute pubblica, ne danno immediata comunicazione al Ministero della salute precisando i motivi dei provvedimenti adottati.
 
-#### Art. 17
+### Art. 17
 
 Applicabilita' delle norme sulle sostanze alimentari e bevande
 
@@ -526,13 +524,13 @@ Applicabilita' delle norme sulle sostanze alimentari e bevande
 
 > \- Il decreto legislativo 19 novembre 2008, n.194 (Disciplina delle modalita' di rifinanziamento dei controlli sanitari ufficiali in attuazione del regolamento (CE) n. 882/2004), e' pubblicato nella Gazzetta Ufficiale 11 dicembre 2008, n. 289.
 
-#### Art. 18
+### Art. 18
 
 Acque potabili condizionate
 
 1\. Per le acque potabili, comunque poste in commercio e per quelle sottoposte alle procedure di filtraggio e somministrate presso gli esercizi di ristorazione, e' vietato l'uso sia sulle confezioni, sulle apparecchiature o sulle etichette, sia nella pubblicita', sotto qualsiasi forma, di indicazioni, denominazioni, marchi di fabbrica o di commercio, immagini o altri segni, figurativi o meno, che possano ingenerare confusione con le acque minerali naturali; in particolare e' vietata, per tali acque, la dicitura: «acqua minerale».
 
-#### Art. 19
+### Art. 19
 
 Pubblicita'
 
@@ -544,11 +542,9 @@ Pubblicita'
 
 4\. Nella pubblicita', sotto qualsiasi forma, delle acque minerali naturali poste in vendita, con una designazione commerciale diversa dal nome della sorgente o del suo luogo di utilizzazione e' vietato usare espressioni o segni che possano indurre in errore il consumatore circa il nome della sorgente o il luogo della sua utilizzazione.
 
-## Capo II
+## Capo II - ACQUE DI SORGENTE
 
-### ACQUE DI SORGENTE
-
-#### Art. 20
+### Art. 20
 
 Definizione e caratteristiche
 
@@ -572,7 +568,7 @@ c) microbiologico.
 
 > \- Il decreto legislativo 2 febbraio 2001, n.31 (Attuazione della direttiva 98/83/CE relativa alla qualita' delle acque destinate al consumo umano), e' pubblicato nella Gazzetta Ufficiale 3 marzo 2001, n. 52, S.O.
 
-#### Art. 21
+### Art. 21
 
 Riconoscimento
 
@@ -586,7 +582,7 @@ Riconoscimento
 
 5\. Il provvedimento di riconoscimento riporta il nome della sorgente, il luogo di utilizzazione della stessa e l'eventuale trattamento tra quelli di cui all'articolo 24, comma 1, lettere c) e d); esso e' pubblicato nella Gazzetta Ufficiale della Repubblica italiana.
 
-#### Art. 22
+### Art. 22
 
 Immissione in commercio
 
@@ -594,7 +590,7 @@ Immissione in commercio
 
 2\. L'autorizzazione e' rilasciata previo accertamento che gli impianti destinati all'utilizzazione siano realizzati in modo da escludere ogni pericolo di inquinamento e da conservare all'acqua le proprieta' esistenti alla sorgente, corrispondenti alla sua qualificazione e che sussistano le condizioni di cui all'articolo 23, tenendo conto delle operazioni consentite dall'articolo 24.
 
-#### Art. 23
+### Art. 23
 
 Condizioni per il rilascio dell'autorizzazione
 
@@ -608,7 +604,7 @@ c) le condizioni di utilizzazione ed in particolare gli impianti di lavaggio e d
 
 d) gli eventuali trattamenti dell'acqua di sorgente di cui all'articolo 24, comma 1, lettere c) e d), corrispondano a quelli indicati nel provvedimento di riconoscimento.
 
-#### Art. 24
+### Art. 24
 
 Operazioni consentite e operazioni non consentite
 
@@ -628,7 +624,7 @@ e) eliminazione totale o parziale della anidride carbonica libera mediante proce
 
 3\. E' vietato sottoporre l'acqua di sorgente ad operazioni diverse da quelle previste nel comma 1; in particolare, sono vietati i trattamenti di potabilizzazione, l'aggiunta di sostanze battericide o batteriostatiche e qualsiasi altro trattamento suscettibile di modificare il microbismo dell'acqua di sorgente.
 
-#### Art. 25
+### Art. 25
 
 Modalita' di utilizzazione
 
@@ -636,7 +632,7 @@ Modalita' di utilizzazione
 
 2\. Ogni recipiente utilizzato per il condizionamento delle acque di sorgente deve essere munito di un dispositivo di chiusura tale da evitare il pericolo di falsificazione, di contaminazione e di fuoriuscita. Il recipiente ed il dispositivo di chiusura devono essere conformi alla vigente normativa in materia di materiali ed oggetti destinati a venire a contatto con i prodotti alimentari.
 
-#### Art. 26
+### Art. 26
 
 Etichette
 
@@ -676,13 +672,13 @@ d) alla stessa acqua di sorgente non siano attribuite designazioni commerciali d
 
 > \- Per il testo dell'articolo 13, comma 6, lettera a), del citato decreto legislativo n.109 del 1992, si veda nelle note all'articolo 12.
 
-#### Art. 27
+### Art. 27
 
 Preparazione di bevande analcoliche
 
 1\. E' consentita l'utilizzazione delle acque di sorgente per la preparazione di bevande analcoliche, nel rispetto delle norme vigenti in materia.
 
-#### Art. 28
+### Art. 28
 
 Importazione e riconoscimento
 
@@ -694,7 +690,7 @@ Importazione e riconoscimento
 
 4\. I provvedimenti di riconoscimento, di rinnovo e di revoca sono pubblicati nella Gazzetta Ufficiale della Repubblica italiana.
 
-#### Art. 29
+### Art. 29
 
 Vigilanza sulla utilizzazione e sul commercio
 
@@ -710,7 +706,7 @@ Vigilanza sulla utilizzazione e sul commercio
 
 6\. Qualora gli organi competenti alla vigilanza accertino che un'acqua di sorgente non risponda ai requisiti qualitativi di cui all'articolo 20 o presenti un pericolo per la salute pubblica, fatta salva l'adozione di provvedimenti urgenti a tutela della pubblica salute, ne danno immediata comunicazione al Ministero della salute precisando i motivi dei provvedimenti adottati.
 
-#### Art. 30
+### Art. 30
 
 Applicabilita' delle norme sulle sostanze alimentari e bevande
 
@@ -720,13 +716,13 @@ Applicabilita' delle norme sulle sostanze alimentari e bevande
 
 > \- Per i riferimenti al citato decreto legislativo n.194 del 2008, si veda nelle note all'articolo 17.
 
-#### Art. 31
+### Art. 31
 
 Pubblicita'
 
 1\. Nella pubblicita', sotto qualsiasi forma, delle acque di sorgente poste in vendita con una designazione commerciale diversa dal nome della sorgente o del suo luogo di utilizzazione devono essere rispettate le disposizioni di cui all'articolo 26, comma 2, ed e' vietato usare espressioni o segni che possano indurre in errore il consumatore circa il nome della sorgente o il luogo della sua utilizzazione.
 
-#### Art. 32
+### Art. 32
 
 Ricerca e coltivazione
 
@@ -736,11 +732,9 @@ Ricerca e coltivazione
 
 > \- Il regio decreto 29 luglio 1927, n.1443 (Norme di carattere legislativo per disciplinare la ricerca e la coltivazione delle miniere nel Regno), e' pubblicato nella Gazzetta Ufficiale 23 agosto 1927, n. 194.
 
-## Capo III
+## Capo III - SANZIONI E NORME TRANSITORIE
 
-### SANZIONI E NORME TRANSITORIE
-
-#### Art. 33
+### Art. 33
 
 Sanzioni
 
@@ -770,7 +764,7 @@ h) da 38.000 euro a 90.000 euro chiunque non osservi i divieti previsti in tema 
 
 > \- La legge 24 novembre 1981 , n. 689 (Modifiche al sistema penale), e' pubblicata nella Gazzetta Ufficiale 30 novembre 1981, n. 329, S.O.
 
-#### Art. 34
+### Art. 34
 
 Norme transitorie e abrogazioni
 
@@ -790,7 +784,7 @@ Norme transitorie e abrogazioni
 
 > \- Il decreto del Ministero della Sanita' 12 novembre 1992, n. 542 (Regolamento recante i criteri di valutazione delle caratteristiche delle acque minerali naturali), e' pubblicato nella Gazzetta Ufficiale 12 gennaio 1993, n. 8.
 
-#### Art. 35
+### Art. 35
 
 Clausola di invarianza finanziaria
 

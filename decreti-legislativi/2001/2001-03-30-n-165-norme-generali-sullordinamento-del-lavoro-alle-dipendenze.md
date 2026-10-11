@@ -48,7 +48,7 @@ il seguente decreto legislativo:
 
 ## Titolo I - PRINCIPI GENERALI
 
-###### Art. 1
+##### Art. 1
 
 Finalita' ed ambito di applicazione
 
@@ -66,7 +66,7 @@ c) realizzare la migliore utilizzazione delle risorse umane nelle pubbliche ammi
 
 3\. Le disposizioni del presente decreto costituiscono principi fondamentali ai sensi dell'articolo 117 della Costituzione. Le Regioni a statuto ordinario si attengono ad esse tenendo conto delle peculiarita' dei rispettivi ordinamenti. I principi desumibili dall'articolo 2 della legge 23 ottobre 1992, n. 421, e successive modificazioni, e dall'articolo 11, comma 4, della legge 15 marzo 1997, n. 59, e successive modificazioni ed integrazioni, costituiscono altresi', per le Regioni a statuto speciale e per le province autonome di Trento e di Bolzano, norme fondamentali di riforma economico-sociale della Repubblica.
 
-###### Art. 2
+##### Art. 2
 
 Fonti
 
@@ -92,7 +92,7 @@ e) armonizzazione degli orari di servizio e di apertura degli uffici con le esig
 
 3-bis. Nel caso di nullita' delle disposizioni contrattuali per violazione di norme imperative o dei limiti fissati alla contrattazione collettiva, si applicano gli articoli 1339 e 1419, secondo comma, del codice civile.
 
-###### Art. 3
+##### Art. 3
 
 Personale in regime di diritto pubblico
 
@@ -116,7 +116,7 @@ Il D.L. 25 giugno 2008, n. 112, convertito, con modificazioni, dalla L. 6 agosto
 
 Il periodo di dodici mesi di differimento e' utile anche ai fini della maturazione delle ulteriori successive classi di stipendio o degli ulteriori aumenti biennali."
 
-###### Art. 4
+##### Art. 4
 
 Indirizzo politico-amministrativo. Funzioni e responsabilita'
 
@@ -144,7 +144,7 @@ g) gli altri atti indicati dal presente decreto.
 
 4\. Le amministrazioni pubbliche i cui organi di vertice non siano direttamente o indirettamente espressione di rappresentanza politica, adeguano i propri ordinamenti al principio della distinzione tra indirizzo e controllo, da un lato, e attuazione e gestione dall'altro. ((A tali amministrazioni e' fatto divieto di istituire uffici di diretta collaborazione, posti alle dirette dipendenze dell'organo di vertice dell'ente)).
 
-###### Articolo 5
+##### Articolo 5
 
 Potere di organizzazione
 
@@ -158,7 +158,7 @@ Potere di organizzazione
 
 3-bis. Le disposizioni del presente articolo si applicano anche alle Autorita' amministrative indipendenti.
 
-###### Art. 6
+##### Art. 6
 
 Organizzazione degli uffici e fabbisogni di personale
 
@@ -208,7 +208,7 @@ Il D.P.R. 24 giugno 2022, n. 81, ha disposto (con l'art. 1, comma 1, lettera a))
 
 a) articolo 6, commi 1, 4 (Piano dei fabbisogni) e 6, [...] del decreto legislativo 30 marzo 2001, n. 165".
 
-###### Art. 6-bis - Misure in materia di organizzazione e razionalizzazione della spesa per il funzionamento delle pubbliche amministrazioni
+##### Art. 6-bis - Misure in materia di organizzazione e razionalizzazione della spesa per il funzionamento delle pubbliche amministrazioni
 
 1\. Le pubbliche amministrazioni di cui all'articolo 1, comma 2, nonche' gli enti finanziati direttamente o indirettamente a carico del bilancio dello Stato sono autorizzati, nel rispetto dei principi di concorrenza e di trasparenza, ad acquistare sul mercato i servizi, originariamente prodotti al proprio interno, a condizione di ottenere conseguenti economie di gestione e di adottare le necessarie misure in materia di personale ((...)).
 
@@ -216,7 +216,7 @@ a) articolo 6, commi 1, 4 (Piano dei fabbisogni) e 6, [...] del decreto legislat
 
 3\. I collegi dei revisori dei conti e gli organi di controllo interno delle amministrazioni che attivano i processi di cui al comma 1 vigilano sull'applicazione del presente articolo, dando evidenza, nei propri verbali, dei risparmi derivanti dall'adozione dei provvedimenti in materia di organizzazione e di personale, anche ai fini della valutazione del personale con incarico dirigenziale di cui all'articolo 5 del decreto legislativo 30 luglio 1999, n. 286.
 
-###### Art. 6-ter - Linee di indirizzo per la pianificazione dei fabbisogni di personale
+##### Art. 6-ter - Linee di indirizzo per la pianificazione dei fabbisogni di personale
 
 1\. Con decreti di natura non regolamentare adottati dal Ministro per la pubblica amministrazione di concerto con il Ministro dell'economia e delle finanze, sono definite, nel rispetto degli equilibri di finanza pubblica, linee di indirizzo per orientare le amministrazioni pubbliche nella predisposizione dei rispettivi piani dei fabbisogni di personale ai sensi dell'articolo 6, comma 2, anche con riferimento a fabbisogni prioritari o emergenti e alla definizione dei nuovi profili professionali individuati dalla contrattazione collettiva, con particolare riguardo all'insieme di conoscenze, ((competenze e capacita' del personale)) da assumere anche per sostenere la transizione digitale ed ecologica della pubblica amministrazione ((e relative anche a strumenti e tecniche di progettazione e partecipazione a bandi nazionali ed europei, nonche' alla gestione dei relativi finanziamenti)).
 
@@ -238,7 +238,7 @@ AGGIORNAMENTO (114)
 
 Il D.L. 30 aprile 2022, n. 36, convertito con modificazioni dalla L. 29 giugno 2022, n. 79, ha disposto (con l'art. 1, comma 2) che "In fase di prima applicazione delle disposizioni di cui all'articolo 6-ter del decreto legislativo 30 marzo 2001, n. 165, come modificato dal presente articolo, le linee di indirizzo sono emanate entro il 30 giugno 2022, previo accordo in sede di Conferenza unificata ai sensi dell'articolo 9, comma 2, lettera c), del decreto legislativo 28 agosto 1997, n. 281".
 
-###### Art. 7
+##### Art. 7
 
 Gestione delle risorse umane
 
@@ -340,11 +340,11 @@ AGGIORNAMENTO (102)
 
 Il D.L. 7 ottobre 2020, n. 125 ha disposto (con l'art. 1, comma 3) che i termini di cui all'art. 2-bis, commi 1 e 5 del D.L. 17 marzo 2020, n. 18, convertito con modificazioni dalla L. 24 aprile 2020, n. 27, sono prorogati al 31 dicembre 2020.
 
-###### Art. 7-bis
+##### Art. 7-bis
 
 ((ARTICOLO ABROGATO DAL D.P.R. 16 APRILE 2013, N.70))
 
-###### Articolo 8
+##### Articolo 8
 
 (Costo del lavoro, risorse finanziarie e controlli
 
@@ -354,7 +354,7 @@ Il D.L. 7 ottobre 2020, n. 125 ha disposto (con l'art. 1, comma 3) che i termini
 
 2\. L'incremento del costo del lavoro negli enti pubblici economici e nelle aziende pubbliche che producono servizi di pubblica utilita', nonche' negli enti di cui all'articolo 70, comma 4, e' soggetto a limiti compatibili con gli obiettivi e i vincoli di finanza pubblica.
 
-###### Articolo 9
+##### Articolo 9
 
 (( (Partecipazione sindacale).
 
@@ -362,11 +362,9 @@ Il D.L. 7 ottobre 2020, n. 125 ha disposto (con l'art. 1, comma 3) che i termini
 
 ## Titolo II - ORGANIZZAZIONE
 
-### Capo I
+### Capo I - Relazioni con il pubblico
 
-#### Relazioni con il pubblico
-
-###### Articolo 10
+##### Articolo 10
 
 Trasparenza delle amministrazioni pubbliche
 
@@ -418,7 +416,7 @@ Trasparenza delle amministrazioni pubbliche
 
 > 2.-8. (Abrogati)".
 
-###### Articolo 11
+##### Articolo 11
 
 Ufficio relazioni con il pubblico
 
@@ -450,7 +448,7 @@ c) alla ricerca ed analisi finalizzate alla formulazione di proposte alla propri
 
 > \- La legge 7 agosto 1990, n. 241, pubblicata nella Gazzetta Ufficiale n.192 del 18 agosto 1990 n. 192, reca "Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi". Il capo III della legge 7 agosto 1990, n. 241, reca "Partecipazione al procedimento amministrativo".
 
-###### Articolo 12
+##### Articolo 12
 
 Uffici per la gestione del contenzioso del lavoro
 
@@ -458,15 +456,11 @@ Uffici per la gestione del contenzioso del lavoro
 
 1\. Le amministrazioni pubbliche provvedono, nell'ambito dei rispettivi ordinamenti, ad organizzare la gestione del contenzioso del lavoro, anche creando appositi uffici, in modo da assicurare l'efficace svolgimento di tutte le attivita' stragiudiziali e giudiziali inerenti alle controversie. Piu' amministrazioni omogenee o affini possono istituire, mediante convenzione che ne regoli le modalita' di costituzione e di funzionamento, un unico ufficio per la gestione di tutto o parte del contenzioso comune.
 
-## Capo II - Dirigenza
+### Capo II - Dirigenza
 
-### Sezione I
+#### Sezione I - Qualifiche, uffici dirigenziali ed attribuzioni
 
-#### Qualifiche, uffici dirigenziali - ed
-
-##### attribuzioni
-
-###### Articolo 13
+##### Articolo 13
 
 Amministrazioni destinatarie
 
@@ -474,7 +468,7 @@ Amministrazioni destinatarie
 
 1\. Le disposizioni del presente capo si applicano alle amministrazioni dello Stato, anche ad ordinamento autonomo.
 
-###### Art. 14
+##### Art. 14
 
 Indirizzo politico-amministrativo
 
@@ -500,7 +494,7 @@ AGGIORNAMENTO (23)
 
 Il D.L. 18 maggio 2006, n. 181, convertito con modificazioni dalla L. 17 luglio 2006, n. 233, ha disposto (con l'art. 1, comma 24-ter) che "Il termine di cui all'articolo 14, comma 2, del decreto legislativo 30 marzo 2001, n. 165, come modificato dal comma 24-bis del presente articolo, decorre, rispetto al giuramento dei Ministri in carica alla data di entrata in vigore della legge di conversione del presente decreto, da tale ultima data."
 
-###### Art. 15
+##### Art. 15
 
 Dirigenti
 
@@ -516,7 +510,7 @@ Dirigenti
 
 5\. Per il Consiglio di Stato e per i tribunali amministrativi regionali, per la Corte dei conti ((, per il Consiglio nazionale dell'economia e del lavoro)) e per l'Avvocatura generale dello Stato, le attribuzioni che il presente decreto demanda agli organi di Governo sono di competenza rispettivamente, del Presidente del Consiglio di Stato, del Presidente della Corte dei conti ((, del Presidente del Consiglio nazionale dell'economia e del lavoro)) e dell'Avvocato generale dello Stato; le attribuzioni che il presente decreto demanda ai dirigenti preposti ad uffici dirigenziali di livello generate sono di competenza dei segretari generali dei predetti istituti.
 
-###### Articolo 16
+##### Articolo 16
 
 Funzioni dei dirigenti di uffici dirigenziali generali
 
@@ -562,7 +556,7 @@ l-bis) concorrono alla definizione di misure idonee a prevenire e contrastare i 
 
 5\. Gli ordinamenti delle amministrazioni pubbliche al cui vertice e' preposto un segretario generale, capo dipartimento o altro dirigente comunque denominato, con funzione di coordinamento di uffici dirigenziali di livello generale, ne definiscono i compiti ed i poteri.
 
-###### Art. 17
+##### Art. 17
 
 Funzioni dei dirigenti
 
@@ -590,11 +584,11 @@ e) provvedono alla gestione del personale e delle risorse finanziarie e strument
 
 1-bis. I dirigenti, per specifiche e comprovate ragioni di servizio, possono delegare per un periodo di tempo determinato, con atto scritto e motivato, alcune delle competenze comprese nelle funzioni di cui alle lettere b), d) ed e) del comma 1 a dipendenti che ricoprano le posizioni funzionali piu' elevate nell'ambito degli uffici ad essi affidati. Non si applica in ogni caso l'articolo 2103 del codice civile.
 
-###### Art. 17-bis
+##### Art. 17-bis
 
 ((ARTICOLO ABROGATO DAL D.L. 6 LUGLIO 2012, N. 95, CONVERTITO CON MODIFICAZIONI DALLA L. 7 AGOSTO 2012, N. 135))
 
-###### Articolo 18
+##### Articolo 18
 
 Criteri di rilevazione e analisi dei costi e dei rendimenti
 
@@ -604,7 +598,7 @@ Criteri di rilevazione e analisi dei costi e dei rendimenti
 
 2\. Il Dipartimento della funzione pubblica puo' chiedere all'Istituto nazionale di statistica - ISTAT - l'elaborazione di norme tecniche e criteri per le rilevazioni ed analisi di cui al comma 1 e, all'Autorita' per l'informatica nella pubblica amministrazione - AIPA, l'elaborazione di procedure informatiche standardizzate allo scopo di evidenziare gli scostamenti dei costi e dei rendimenti rispetto a valori medi e standards.
 
-###### Art. 19
+##### Art. 19
 
 Incarichi di funzioni dirigenziali
 
@@ -812,7 +806,7 @@ AGGIORNAMENTO (143)
 
 Il D.Lgs. 7 maggio 2026, n. 91, ha disposto (con l'art. 7, comma 1) che "Ai fini e per gli effetti del presente comma, i contratti stipulati ai sensi dell'articolo 19, commi 5-bis e 6, del decreto legislativo 30 marzo 2001, n. 165, sono prorogati e rimangono vigenti sino alla data di istituzione del ruolo di cui all'articolo 5, comma 2".
 
-###### Articolo 20
+##### Articolo 20
 
 Verifica dei risultati
 
@@ -824,7 +818,7 @@ Verifica dei risultati
 
 > \- Per il testo vigente dell'art. 17 della legge 23 agosto 1988, n. 400, vedi nelle note all'art. 6.
 
-###### Art. 21
+##### Art. 21
 
 Responsabilita' dirigenziale
 
@@ -844,7 +838,7 @@ AGGIORNAMENTO (79)
 
 Il D.Lgs. 6 ottobre 2018, n. 127, nel modificare l'art. 205 del D.Lgs. 13 ottobre 2005, n. 217, ha conseguentemente disposto (con l'art. 12, comma 1) che gli effetti giuridici ed economici della presente modifica decorrono dalla data del 1° gennaio 2018.
 
-###### Art. 22
+##### Art. 22
 
 (( (Comitato dei garanti).
 
@@ -854,7 +848,7 @@ Il D.Lgs. 6 ottobre 2018, n. 127, nel modificare l'art. 205 del D.Lgs. 13 ottobr
 
 3\. Il parere del Comitato dei garanti viene reso entro il termine di quarantacinque giorni dalla richiesta; decorso inutilmente tale termine si prescinde dal parere.))
 
-###### Art. 23 - Ruolo dei dirigenti
+##### Art. 23 - Ruolo dei dirigenti
 
 1\. In ogni amministrazione dello Stato, anche ad ordinamento autonomo, e' istituito il ruolo dei dirigenti, che si articola nella prima e nella seconda fascia, nel cui ambito sono definite apposite sezioni in modo da garantire la eventuale specificita' tecnica. I dirigenti della seconda fascia sono reclutati attraverso i meccanismi di accesso di cui all'articolo 28. ((L'accesso alla qualifica di dirigente della prima fascia avviene attraverso i meccanismi di accesso previsti dall'articolo 28-bis)). (33)
 
@@ -866,7 +860,7 @@ AGGIORNAMENTO (33)
 
 Il D.Lgs. 27 ottobre 2009, n. 150, ha disposto (con l'art. 43, comma 2) che "Per i dirigenti ai quali sia stato conferito l'incarico di direzione di uffici dirigenziali generali o equivalenti prima della data di entrata in vigore del presente decreto, il termine di cui all'articolo 23, comma 1, terzo periodo, del decreto legislativo n. 165 del 2001, rimane fissato in tre anni."
 
-###### Art. 23-bis - Disposizioni in materia di mobilita' tra pubblico e privato
+##### Art. 23-bis - Disposizioni in materia di mobilita' tra pubblico e privato
 
 1\. In deroga all'articolo 60 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, di cui al decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, i dipendenti delle pubbliche amministrazioni, ivi compresi gli appartenenti alle carriere diplomatica e prefettizia, e, limitamente agli incarichi pubblici, ((i magistrati ordinari, amministrativi, contabili, tributari)) e gli avvocati e procuratori dello Stato sono collocati, salvo motivato diniego dell'amministrazione di appartenenza in ordine alle proprie preminenti esigenze organizzative, in aspettativa senza assegni per lo svolgimento di attivita' presso soggetti e organismi, pubblici o privati, anche operanti in sede internazionale, i quali provvedono al relativo trattamento previdenziale. Resta ferma la disciplina vigente in materia di collocamento fuori ruolo nei casi consentiti. Il periodo di aspettativa comporta il mantenimento della qualifica posseduta. E' sempre ammessa la ricongiunzione dei periodi contributivi a domanda dell'interessato, ai sensi della legge 7 febbraio 1979, n. 29, presso una qualsiasi delle forme assicurative nelle quali abbia maturato gli anni di contribuzione. Quando l'incarico e' espletato presso organismi operanti in sede internazionale, la ricongiunzione dei periodi contributivi e' a carico dell'interessato, salvo che l'ordinamento dell'amministrazione di destinazione non disponga altrimenti. (25)
 
@@ -898,7 +892,7 @@ AGGIORNAMENTO (25)
 
 La L. 27 dicembre 2006, n. 296 ha disposto (con l'art. 1, comma 578) che "L'articolo 23-bis, comma 1, del decreto legislativo 30 marzo 2001, n. 165, si interpreta nel senso che ai dirigenti delle pubbliche amministrazioni, agli appartenenti alla carriera diplomatica e prefettizia nonche' ai magistrati ordinari, amministrativi e contabili, agli avvocati e procuratori dello Stato, collocati in aspettativa senza assegni presso soggetti e organismi pubblici, e' riconosciuta l'anzianita' di servizio. E' fatta salva l'esecuzione dei giudicati formatisi alla data di entrata in vigore della presente legge".
 
-###### Art. 24
+##### Art. 24
 
 Trattamento economico
 
@@ -928,7 +922,7 @@ Trattamento economico
 
 9\. COMMA ABROGATO DAL D.L. 28 MAGGIO 2004, N. 136, CONVERTITO CON MODIFICAZIONI DALLA L. 27 LUGLIO 2004, N. 186.
 
-###### Articolo 25
+##### Articolo 25
 
 Dirigenti delle istituzioni scolastiche
 
@@ -970,7 +964,7 @@ AGGIORNAMENTO (131)
 
 Il D.L. 31 maggio 2024, n. 71, convertito con modificazioni dalla L. 29 luglio 2024, n. 106, ha disposto (con l'art. 13, comma 3) che la presente modifica si applica a decorrere dall'anno scolastico 2024/2025.
 
-###### Articolo 26
+##### Articolo 26
 
 Norme per la dirigenza del Servizio sanitario nazionale
 
@@ -1040,7 +1034,7 @@ Norme per la dirigenza del Servizio sanitario nazionale
 
 > 14\. Nelle unita' sanitarie locali il cui ambito territoriale coincide con quello del comune, il sindaco, al fine di corrispondere alle esigenze sanitarie della popolazione, provvede alla definizione, nell'ambito della programmazione regionale, delle linee di indirizzo per l'impostazione programmatica dell'attivita', esamina il bilancio pluriennale di previsione ed il bilancio di esercizio e rimette alla regione le relative osservazioni, verifica l'andamento generale dell'attivita' e contribuisce alla definizione dei piani programmatici trasmettendo le proprie valutazioni e proposte al direttore generale ed alla regione. Nelle unita' sanitarie locali il cui ambito territoriale non coincide con il territorio del comune, le funzioni del sindaco sono svolte dalla conferenza dei sindaci o dei presidenti delle circoscrizioni di riferimento territoriale tramite una rappresentanza costituita nel suo seno da non piu' di cinque componenti nominati dalla stessa conferenza con modalita' di esercizio delle funzioni dettate con normativa regionale.
 
-###### Articolo 27
+##### Articolo 27
 
 Criteri di adeguamento per le pubbliche amministrazioni non statali (Art.27-bis del d.lgs n.29 del 1993, aggiunto dall'art.17 del d.lgs n.80 del 1998)
 
@@ -1048,11 +1042,9 @@ Criteri di adeguamento per le pubbliche amministrazioni non statali (Art.27-bis 
 
 2\. Le pubbliche amministrazioni di cui al comma 1 trasmettono, entro due mesi dalla adozione, le deliberazioni, le disposizioni ed i provvedimenti adottati in attuazione del medesimo comma alla Presidenza del Consiglio dei ministri, che ne cura la raccolta e la pubblicazione.
 
-## Sezione II - Accesso alla dirigenza e riordino della ((Scuola
+#### Sezione II - Accesso alla dirigenza e riordino della ((Scuola nazionale dell'amministrazione))
 
-### nazionale - dell'amministrazione))
-
-###### Art. 28
+##### Art. 28
 
 Accesso alla qualifica di dirigente della seconda fascia
 
@@ -1130,7 +1122,7 @@ AGGIORNAMENTO (145)
 
 Il D.L. 7 agosto 2026, n. 144 ha disposto (con l'art. 1, comma 6) che "Le disposizioni introdotte dall'articolo 13, della legge 2 luglio 2026, n. 119, nonche' le percentuali di cui all'articolo 28, comma 1-ter, lettere a), b), e c), del decreto legislativo n. 165 del 2001, si applicano agli incarichi dirigenziali di livello generale conferiti successivamente alla data di entrata in vigore del regolamento di cui all'articolo 28-bis, comma 8-quater, del medesimo decreto legislativo n. 165 del 2001. Per il personale dirigenziale non generale che, alla predetta data, stia svolgendo un incarico di direzione di ufficio dirigenziale generale, il transito nella prima fascia continua ad essere disciplinato, anche con riguardo al periodo di cinque anni, dalle disposizioni di cui all'articolo 23 del decreto legislativo n. 165 del 2001, ovvero dall'articolo 3, comma 2, del regolamento di cui al decreto del Presidente della Repubblica 23 aprile 2004, n. 108 nelle versioni vigenti il giorno antecedente alla data di entrata in vigore della legge 2 luglio 2026, n. 119".
 
-###### Art. 28-bis - Accesso alla qualifica di dirigente della prima fascia
+##### Art. 28-bis - Accesso alla qualifica di dirigente della prima fascia
 
 1\. L'accesso alla qualifica di dirigente della prima fascia avviene, per il 50 per cento dei posti disponibili, attraverso procedure di concorso per titoli ed esami e, per il rimanente 50 per cento, mediante sviluppo di carriera dal ruolo dirigenziale di seconda fascia, dopo almeno cinque anni, anche non continuativi, di servizio nel ruolo dirigenziale. A tal fine, entro il 31 dicembre di ogni anno, le amministrazioni indicano, per il triennio successivo, il numero dei posti che si rendono vacanti per il collocamento in quiescenza di personale dirigenziale di ruolo di prima fascia e la programmazione relativa ai posti da ricoprire mediante concorso. ((145))
 
@@ -1204,7 +1196,7 @@ AGGIORNAMENTO (145)
 
 Il D.L. 7 agosto 2026, n. 144, nel modificare l'art. 13 della L. 2 luglio 2026, n. 119, ha conseguentemente disposto (con l'art. 1, comma 6) che "Le disposizioni introdotte dall'articolo 13, della legge 2 luglio 2026, n. 119, nonche' le percentuali di cui all'articolo 28, comma 1-ter, lettere a), b), e c), del decreto legislativo n. 165 del 2001, si applicano agli incarichi dirigenziali di livello generale conferiti successivamente alla data di entrata in vigore del regolamento di cui all'articolo 28-bis, comma 8-quater, del medesimo decreto legislativo n. 165 del 2001. Per il personale dirigenziale non generale che, alla predetta data, stia svolgendo un incarico di direzione di ufficio dirigenziale generale, il transito nella prima fascia continua ad essere disciplinato, anche con riguardo al periodo di cinque anni, dalle disposizioni di cui all'articolo 23 del decreto legislativo n. 165 del 2001, ovvero dall'articolo 3, comma 2, del regolamento di cui al decreto del Presidente della Repubblica 23 aprile 2004, n. 108 nelle versioni vigenti il giorno antecedente alla data di entrata in vigore della legge 2 luglio 2026, n. 119".
 
-###### Art. 29
+##### Art. 29
 
 Reclutamento dei dirigenti scolastici
 
@@ -1222,9 +1214,9 @@ AGGIORNAMENTO (58)
 
 Il D.L. 12 settembre 2013, n. 104, convertito con modificazioni dalla L. 8 novembre 2013, n. 128 ha disposto (con l'art. 17, comma 2) che "Il decreto di cui all'articolo 29, comma 1, del decreto legislativo 30 marzo 2001, n. 165, come modificato dal precedente comma 1, e' adottato entro quattro mesi dalla data di entrata in vigore della legge di conversione del presente decreto.".
 
-## Capo III - Uffici, piante organiche, mobilita' e accessi
+### Capo III - Uffici, piante organiche, mobilita' e accessi
 
-###### Art. 29-bis - Mobilita' intercompartimentale
+##### Art. 29-bis - Mobilita' intercompartimentale
 
 1\. Al fine di favorire i processi di mobilita' fra i comparti di contrattazione del personale delle pubbliche amministrazioni, con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro per la pubblica amministrazione e l'innovazione, di concerto con il Ministro dell'economia e delle finanze, previo parere della Conferenza unificata di cui all'articolo 8 del decreto legislativo n. 281 del 1997, sentite le Organizzazioni sindacali e' definita, senza nuovi o maggiori oneri per la finanza pubblica, una tabella di equiparazione fra i livelli di inquadramento previsti dai contratti collettivi relativi ai diversi comparti di contrattazione.
 
@@ -1236,7 +1228,7 @@ AGGIORNAMENTO (61)
 
 Il D.L. 24 giugno 2014, n. 90, convertito con modificazioni dalla L. 11 agosto 2014, n. 114 ha disposto (con l'art. 4, comma 3) che "Il decreto di cui all'articolo 29-bis del decreto legislativo 30 marzo 2001, n. 165 e' adottato, secondo la procedura ivi indicata, entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto. Decorso il suddetto termine, la tabella di equiparazione ivi prevista e' adottata con decreto del Ministro delegato per la semplificazione e la pubblica amministrazione, di concerto con il Ministro dell'economia e delle finanze. Le successive modifiche sono operate secondo la procedura di cui al citato articolo 29-bis".
 
-###### Art. 30
+##### Art. 30
 
 Passaggio diretto di personale tra amministrazioni diverse (Art. 33 del d. lgs n. 29 del 1993, come sostituito prima dall'art. 13 del d.lgs n. 470 del 1993 e poi dall'art. 18 del d.lgs n. 80 del 1998 e successivamente modificato dall'art.20, comma 2 della Legge n.488 del 1999)
 
@@ -1338,7 +1330,7 @@ AGGIORNAMENTO (114)
 
 Il D.L. 30 aprile 2022, n. 36, convertito con modificazioni dalla L. 29 giugno 2022, n. 79, ha disposto (con l'art. 6, comma 2) che "I comandi o distacchi, in corso alla data di entrata in vigore del presente decreto, esclusi quelli di cui all'articolo 30, comma 1-quinquies, del decreto legislativo 30 marzo 2001, n. 165, come introdotto dal comma 1 del presente articolo, cessano alla data del 31 dicembre 2022 o alla naturale scadenza, se successiva alla predetta data, qualora le amministrazioni non abbiano gia' attivato procedure straordinarie di inquadramento di cui al comma 3".
 
-###### Articolo 31
+##### Articolo 31
 
 Passaggio di dipendenti per effetto di trasferimento di attivita'
 
@@ -1376,7 +1368,7 @@ Passaggio di dipendenti per effetto di trasferimento di attivita'
 
 > 4\. Ferma restando la facolta' dell'alienante di esercitare il recesso ai sensi della normativa in materia di licenziamenti, il trasferimento d'azienda non costituisce di per se' motivo di licenziamento".
 
-###### Art. 32 - Collegamento con le istituzioni internazionali, dell'Unione europea e di altri Stati. Esperti nazionali distaccati
+##### Art. 32 - Collegamento con le istituzioni internazionali, dell'Unione europea e di altri Stati. Esperti nazionali distaccati
 
 1\. Le amministrazioni pubbliche favoriscono e incentivano le esperienze del proprio personale presso le istituzioni europee, le organizzazioni internazionali nonche' gli Stati membri dell'Unione europea, gli Stati candidati all'adesione all'Unione e gli altri Stati con i quali l'Italia intrattiene rapporti di collaborazione, ai sensi della lettera c), al fine di favorire lo scambio internazionale di esperienze amministrative e di rafforzare il collegamento tra le amministrazioni di provenienza e quelle di destinazione. I dipendenti delle amministrazioni pubbliche possono essere destinati a prestare temporaneamente servizio presso:
 
@@ -1402,7 +1394,7 @@ c) promuovono la sensibilizzazione dei centri decisionali, le informazioni relat
 
 L'esperienza maturata all'estero costituisce titolo preferenziale per l'accesso a posizioni economiche superiori o a progressioni orizzontali e verticali di carriera all'interno dell'amministrazione pubblica ((ed e' adeguatamente valorizzata, se di durata almeno biennale, nei bandi di concorso per l'accesso alla dirigenza, nonche' nelle procedure di conferimento di incarichi dirigenziali qualora attinenti all'esperienza stessa)).
 
-###### Articolo 33 - Eccedenze di personale e mobilita' collettiva
+##### Articolo 33 - Eccedenze di personale e mobilita' collettiva
 
 1\. Le pubbliche amministrazioni che hanno situazioni di soprannumero o rilevino comunque eccedenze di personale, in relazione alle esigenze funzionali o alla situazione finanziaria, anche in sede di ricognizione annuale prevista dall'articolo 6, comma 1, terzo e quarto periodo, sono tenute ad osservare le procedure previste dal presente articolo dandone immediata comunicazione al Dipartimento della funzione pubblica.
 
@@ -1444,7 +1436,7 @@ AGGIORNAMENTO (48)
 
 Il D.L. 6 luglio 2012, n. 95, convertito con modificazioni dalla L. 7 agosto 2012, n. 135, ha disposto (con l'art. 2, comma 12) che "Il periodo di 24 mesi di cui al comma 8 dell'articolo 33 del decreto legislativo n. 165 del 2001 puo' essere aumentato fino a 48 mesi laddove il personale collocato in disponibilita' maturi entro il predetto arco temporale i requisiti per il trattamento pensionistico".
 
-###### Art. 34
+##### Art. 34
 
 Gestione del personale in disponibilita'
 
@@ -1468,7 +1460,7 @@ Gestione del personale in disponibilita'
 
 8\. Sono fatte salve le procedure di cui al decreto legislativo 18 agosto 2000, n. 267, relative al collocamento in disponibilita' presso gli enti locali che hanno dichiarato il dissesto.
 
-###### Art. 34-bis
+##### Art. 34-bis
 
 Disposizioni in materia di mobilita' del personale
 
@@ -1504,11 +1496,11 @@ AGGIORNAMENTO (114)
 
 Il D.L. 30 aprile 2022, n. 36, convertito con modificazioni dalla L. 29 giugno 2022, n. 79, ha disposto (con l'art. 3, comma 3-quater) che "al comma 4, le parole: "entro quarantacinque giorni" sono sostituite dalle seguenti: "entro venti giorni"".
 
-###### Art. 34-ter - Anagrafe dei dipendenti della pubblica amministrazione
+##### Art. 34-ter - Anagrafe dei dipendenti della pubblica amministrazione
 
 1\. Per il completo raggiungimento dei traguardi e degli obiettivi relativi alla missione M1C1: "Digitalizzazione, innovazione e sicurezza nella PA", del Piano nazionale di ripresa e resilienza, e per il completamento del fascicolo elettronico del dipendente e' avviato, presso il Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri, il censimento anagrafico permanente dei dipendenti pubblici, avvalendosi della base di dati del personale della pubblica amministrazione del ((Ministero dell'economia e delle finanze)), strumentale all'erogazione dei servizi di cui all'articolo 11, comma 9, del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111, ed ampliata in attuazione del Piano Triennale per l'informatica nella pubblica amministrazione 2017-2019, nel rispetto delle norme del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, ((e del codice di cui al decreto legislativo)) 30 giugno 2003, n. 196. Con decreto del Ministro per la pubblica amministrazione e del Ministro dell'economia e delle finanze, di concerto con il Ministro per l'innovazione tecnologica e la transizione digitale, da adottare entro trenta giorni dalla data di entrata in vigore della presente disposizione, previa intesa ((in sede di Conferenza unificata)) di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, sono disciplinate le modalita' di funzionamento e di comunicazione dei dati da parte delle amministrazioni pubbliche di cui all'articolo 1, comma 2, ((del presente decreto)) e degli enti pubblici economici. Alle attivita' derivanti dal presente articolo il Dipartimento della funzione pubblica provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-###### Art. 35
+##### Art. 35
 
 Reclutamento del personale (Art. 36, commi da 1 a 6 del d.lgs n. 29 del 1993, come sostituiti prima dall'art. 17 del d.lgs n. 546 del 1993 e poi dall'art. 22 del d.lgs. n. 80 del 1998, successivamente modificati dall'art. 2, comma 2-ter del decreto legge 17 giugno 1999, n. 180 convertito con modificazioni dalla legge n. 269 del 1999; Art. 36-bis del d.lgs. n. 29 del 1993, aggiunto dall'art. 23 del d.lgs n. 80 del 1998 e successivamente modificato dall'art. 274, comma 1, lett. aa) del d.lgs n. 267 del 2000)
 
@@ -1674,7 +1666,7 @@ AGGIORNAMENTO (140)
 
 Il D.L. 31 dicembre 2025, n. 200, ha disposto (con l'art. 2, comma 6) che relativamente alle Forze di polizia di cui all'articolo 16 della legge 1° aprile 1981, n. 121, il termine del 31 dicembre 2025, previsto dal presente articolo, comma 4, quinto periodo, per l'esercizio delle facolta' assunzionali, e' prorogato al 31 dicembre 2026.
 
-###### Art. 35.1
+##### Art. 35.1
 
 (( (Concorsi su base territoriale). ))
 
@@ -1682,7 +1674,7 @@ Il D.L. 31 dicembre 2025, n. 200, ha disposto (con l'art. 2, comma 6) che relati
 
 2\. L'amministrazione puo' coprire i posti di ciascun profilo non assegnati in ciascun ambito territoriale, mediante scorrimento delle graduatorie degli idonei non vincitori, per il medesimo profilo, in ambiti territoriali confinanti che presentano il maggior numero di idonei)).
 
-###### Art. 35-bis
+##### Art. 35-bis
 
 (( (Prevenzione del fenomeno della corruzione nella formazione di commissioni e nelle assegnazioni agli uffici) ))
 
@@ -1696,7 +1688,7 @@ c) non possono fare parte delle commissioni per la scelta del contraente per l'a
 
 2\. La disposizione prevista al comma 1 integra le leggi e regolamenti che disciplinano la formazione di commissioni e la nomina dei relativi segretari)).
 
-###### Art. 35-ter - Portale unico del reclutamento
+##### Art. 35-ter - Portale unico del reclutamento
 
 1\. L'assunzione a tempo determinato e indeterminato nelle amministrazioni pubbliche centrali di cui all'articolo 1, comma 2, e nelle autorita' amministrative indipendenti avviene mediante concorsi pubblici orientati alla massima partecipazione ai quali si accede mediante registrazione nel Portale unico del reclutamento, di cui all'articolo 3, comma 7, della legge 19 giugno 2019, n. 56, di seguito denominato "Portale", disponibile all'indirizzo www.InPA.gov.it, sviluppato dal Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri, che ne cura la gestione.
 
@@ -1728,7 +1720,7 @@ AGGIORNAMENTO (119)
 
 Il D.L. 24 febbraio 2023, n. 13, convertito con modificazioni dalla L. 21 aprile 2023, n. 41, ha disposto (con l'art. 12, comma 2) che "Fino alla data di entrata in vigore del decreto del Ministro per la pubblica amministrazione previsto dall'articolo 35-ter, comma 2, del decreto legislativo 30 marzo 2001, n. 165, come modificato dal comma 1, continua ad applicarsi la disciplina contenuta nei protocolli adottati d'intesa tra il Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri e ciascuna amministrazione ai sensi dell'articolo 35-ter, comma 3, del decreto legislativo n. 165 del 2001 nel testo vigente prima della data di entrata in vigore del presente decreto.".
 
-###### Art. 35-quater - Procedimento per l'assunzione del personale non dirigenziale
+##### Art. 35-quater - Procedimento per l'assunzione del personale non dirigenziale
 
 1\. I concorsi per l'assunzione del personale non dirigenziale delle amministrazioni di cui all'articolo 1, comma 2, ivi inclusi quelli indetti dalla Commissione per l'attuazione del progetto di riqualificazione delle pubbliche amministrazioni (RIPAM) di cui all'articolo 35, comma 5, ed esclusi quelli relativi al personale di cui all'articolo 3, prevedono:
 
@@ -1750,7 +1742,7 @@ f) che i titoli e l'eventuale esperienza professionale, inclusi i titoli di serv
 
 ((3-bis. Fino al 31 dicembre 2026, in deroga al comma 1, lettera a), i bandi di concorso per i profili non apicali possono prevedere lo svolgimento della sola prova scritta)).
 
-###### Art. 36
+##### Art. 36
 
 Personale a tempo determinato o assunto con forme di lavoro flessibile
 
@@ -1780,7 +1772,7 @@ I dirigenti che operano in violazione delle disposizioni del presente articolo s
 
 5-quinquies. Il presente articolo, fatto salvo il comma 5, non si applica al reclutamento del personale docente, educativo e amministrativo, tecnico e ausiliario (ATA), a tempo determinato presso le istituzioni scolastiche ed educative statali e degli enti locali, le istituzioni di alta formazione artistica, musicale e coreutica. Per gli enti di ricerca pubblici di cui agli articoli 1, comma 1, e 19, comma 4, del decreto legislativo 25 novembre 2016, n. 218, rimane fermo quanto stabilito dal medesimo decreto.
 
-###### Articolo 37
+##### Articolo 37
 
 Accertamento delle conoscenze informatiche e di lingue straniere nei concorsi pubblici
 
@@ -1792,7 +1784,7 @@ Accertamento delle conoscenze informatiche e di lingue straniere nei concorsi pu
 
 3\. Per gli altri dipendenti delle amministrazioni dello Stato, con regolamento emanato ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, e successive modificazioni ed integrazioni. su proposta del Presidente del Consiglio dei ministri, sono stabiliti i livelli di conoscenza, anche in relazione alla professionalita' cui si riferisce il bando, e le modalita' per l'accertamento della conoscenza medesima. Il regolamento stabilisce altresi' i casi nei quali il comma 1 non si applica.
 
-###### Articolo 38
+##### Articolo 38
 
 Accesso dei cittadini degli Stati membri della Unione europea
 
@@ -1812,13 +1804,13 @@ Accesso dei cittadini degli Stati membri della Unione europea
 
 3-ter. Sono fatte salve, in ogni caso, le disposizioni di cui all'articolo 1 del decreto del Presidente della Repubblica 26 luglio 1976, n. 752, in materia di conoscenza della lingua italiana e di quella tedesca per le assunzioni al pubblico impiego nella provincia autonoma di Bolzano.
 
-###### Articolo 39
+##### Articolo 39
 
 ((Assunzioni obbligatorie e tirocinio delle categorie protette))
 
 1\. ((Le amministrazioni pubbliche promuovono o propongono, anche per profili professionali delle aree o categorie previste dai contratti collettivi di comparto per i quali non e' previsto il solo requisito della scuola dell'obbligo e nel rispetto dei principi di cui all'articolo 35, comma 3, del presente decreto, programmi di assunzioni ai sensi dell'articolo 11 della legge 12 marzo 1999, n. 68, destinati ai soggetti titolari del diritto al collocamento obbligatorio previsto dagli articoli 3 e 18 della medesima legge n. 68 del 1999 e dall'articolo 1, comma 2, della legge 23 novembre 1998, n. 407,)) sulla base delle direttive impartite dalla Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica e dal Ministero del lavoro, della salute e delle politiche sociali, cui confluisce il Dipartimento degli affari sociali della Presidenza del Consiglio dei ministri ai sensi dell'articolo 45, comma 3 del decreto legislativo 30 luglio 1999, n.300 con le decorrenze previste dall'articolo 10, commi 3 e 4, del decreto legislativo 30 luglio 1999, n.303.
 
-###### Articolo 39-bis - Consulta nazionale per l'integrazione in ambiente di lavoro delle persone con disabilita'
+##### Articolo 39-bis - Consulta nazionale per l'integrazione in ambiente di lavoro delle persone con disabilita'
 
 1\. Presso il Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri e' istituita, senza nuovi o maggiori oneri per la finanza pubblica, la Consulta nazionale per l'integrazione in ambiente di lavoro delle persone con disabilita', di seguito Consulta.
 
@@ -1836,7 +1828,7 @@ d) prevede interventi straordinari per l'adozione degli accomodamenti ragionevol
 
 e) verifica lo stato di attuazione e la corretta applicazione delle disposizioni in materia di tutela e sostegno della disabilita' da parte delle amministrazioni, con particolare riferimento alle forme di agevolazione previste dalla legge e alla complessiva disciplina delle quote di riserva.
 
-###### Articolo 39-ter - Responsabile dei processi di inserimento delle persone con disabilita'
+##### Articolo 39-ter - Responsabile dei processi di inserimento delle persone con disabilita'
 
 1\. ((Al fine di dare attuazione all'articolo 7, comma 1, e garantire)) un'efficace integrazione nell'ambiente di lavoro delle persone con disabilita', le amministrazioni pubbliche ((...)), senza nuovi o maggiori oneri per la finanza pubblica e nell'ambito delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente, nominano un responsabile dei processi di inserimento ((in ambiente di lavoro delle persone con disabilita' individuato nell'ambito del personale in servizio)).
 
@@ -1850,7 +1842,7 @@ b) predispone, sentito il medico competente della propria amministrazione ed eve
 
 c) verifica l'attuazione del processo di inserimento, recependo e segnalando ai servizi competenti eventuali situazioni di disagio e di difficolta' di integrazione.
 
-###### Articolo 39-quater
+##### Articolo 39-quater
 
 (( (Monitoraggio sull'applicazione della legge 12 marzo 1999, n. 68). ))
 
@@ -1864,7 +1856,7 @@ c) verifica l'attuazione del processo di inserimento, recependo e segnalando ai 
 
 ## Titolo III - CONTRATTAZIONE COLLETTIVA E RAPPRESENTATIVITA' SINDACALE
 
-###### Art. 40
+##### Art. 40
 
 Contratti collettivi nazionali e integrativi
 
@@ -1898,7 +1890,7 @@ La durata viene stabilita in modo che vi sia coincidenza fra la vigenza della di
 
 4-ter. Al fine di semplificare la gestione amministrativa dei fondi destinati alla contrattazione integrativa e di consentirne un utilizzo piu' funzionale ad obiettivi di valorizzazione degli apporti del personale, nonche' di miglioramento della produttivita' e della qualita' dei servizi, la contrattazione collettiva nazionale provvede al riordino, alla razionalizzazione ed alla semplificazione delle discipline in materia di dotazione ed utilizzo dei fondi destinati alla contrattazione integrativa.))
 
-###### Art. 40-bis - Controlli in materia di contrattazione integrativa
+##### Art. 40-bis - Controlli in materia di contrattazione integrativa
 
 1\. Il controllo sulla compatibilita' dei costi della contrattazione collettiva integrativa con i vincoli di bilancio e quelli derivanti dall'applicazione delle norme di legge, con particolare riferimento alle disposizioni inderogabili che incidono sulla misura e sulla corresponsione dei trattamenti accessori e' effettuato dal collegio dei revisori dei conti, dal collegio sindacale, dagli uffici centrali di bilancio o dagli analoghi organi previsti dai rispettivi ordinamenti. Qualora dai contratti integrativi derivino costi non compatibili con i rispettivi vincoli di bilancio delle amministrazioni, si applicano le disposizioni di cui all'articolo 40, comma 3-quinquies, sesto periodo.
 
@@ -1916,7 +1908,7 @@ La durata viene stabilita in modo che vi sia coincidenza fra la vigenza della di
 
 Gli organi di controllo previsti dal comma 1 vigilano sulla corretta applicazione delle disposizioni del presente articolo.
 
-###### Art. 41 - Poteri di indirizzo nei confronti dell'ARAN
+##### Art. 41 - Poteri di indirizzo nei confronti dell'ARAN
 
 1\. Il potere di indirizzo nei confronti dell'ARAN e le altre competenze relative alle procedure di contrattazione collettiva nazionale sono esercitati dalle pubbliche amministrazioni attraverso le proprie istanze associative o rappresentative, le quali costituiscono comitati di settore che regolano autonomamente le proprie modalita' di funzionamento e di deliberazione. In ogni caso, le deliberazioni assunte in materia di indirizzo all'ARAN o di parere sull'ipotesi di accordo nell'ambito della procedura di contrattazione collettiva di cui all'articolo 47, si considerano definitive e non richiedono ratifica da parte delle istanze associative o rappresentative delle pubbliche amministrazioni del comparto.
 
@@ -1934,7 +1926,7 @@ AGGIORNAMENTO (7)
 
 Il D.Lgs. 3 luglio 2003, n. 173 ha disposto (con l'art. 3, comma 3) che "All'articolo 41, comma 2, del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni, dopo le parole: "Ministero dell'istruzione, dell'universita' e della ricerca", sono aggiunte le seguenti: "e, per il comparto delle Agenzie fiscali, sentiti i direttori delle medesime"".
 
-###### Articolo 42
+##### Articolo 42
 
 Diritti e prerogative sindacali nei luoghi di lavoro
 
@@ -1978,7 +1970,7 @@ AGGIORNAMENTO (34)
 
 Il D.Lgs. 27 ottobre 2009, n. 150, come modificato dal D.L. 30 dicembre 2009, n. 194, convertito con modificazioni dalla L. 26 febbraio 2010, n. 25 ha disposto (con l'art. 65, comma 3) che "In via transitoria, con riferimento al periodo contrattuale immediatamente successivo a quello in corso, definiti i comparti e le aree di contrattazione ai sensi degli articoli 40, comma 2, e 41, comma 4, del decreto legislativo 30 marzo 2001, n. 165, come sostituiti, rispettivamente, dagli articoli 54 e 56 del presente decreto legislativo, l'ARAN avvia le trattative contrattuali con le organizzazioni sindacali e le confederazioni rappresentative. in deroga all'articolo 42, comma 4, del predetto decreto legislativo n. 165 del 2001, sono prorogati gli organismi di rappresentanza del personale anche se le relative elezioni siano state gia' indette. Le elezioni relative al rinnovo dei predetti organismi di rappresentanza si svolgeranno, con riferimento ai nuovi comparti di contrattazione, entro il 30 novembre 2010."
 
-###### Articolo 43
+##### Articolo 43
 
 Rappresentativita' sindacale ai fini della contrattazione collettiva (Art.47-bis del d.lgs n.29 del 1993, aggiunto dall'art.7 del d.lgs
 
@@ -2014,7 +2006,7 @@ dall'art.22, comma 4 del d.lgs n.387 del 1998)
 
 13\. Ai sindacati delle minoranze linguistiche della Provincia di Bolzano e delle regioni Valle D'Aosta e Friuli Venezia-Giulia, riconosciuti rappresentativi agli effetti di speciali disposizioni di legge regionale e provinciale o di attuazione degli Statuti, spettano, eventualmente anche con forme di rappresentanza in comune, i medesimi diritti, poteri e prerogative, previsti per le organizzazioni sindacali considerate rappresentative in base al presente decreto. Per le organizzazioni sindacali che organizzano anche lavoratori delle minoranze linguistiche della provincia di Bolzano e della regione della Val d'Aosta, i criteri per la determinazione della rappresentativita' si riferiscono esclusivamente ai rispettivi ambiti territoriali e ai dipendenti ivi impiegati.
 
-###### Articolo 44
+##### Articolo 44
 
 Nuove forme di partecipazione alla organizzazione del lavoro
 
@@ -2026,7 +2018,7 @@ Nuove forme di partecipazione alla organizzazione del lavoro
 
 > \- Per il testo vigente dell'art. 2, comma 1, lettera a) della legge 23 ottobre 1992, n. 421, vedi nelle note alle premesse.
 
-###### Articolo 45
+##### Articolo 45
 
 Trattamento economico
 
@@ -2052,7 +2044,7 @@ c) all'effettivo svolgimento di attivita' particolarmente disagiate ovvero peric
 
 5\. Le funzioni ed i relativi trattamenti economici accessori del personale non diplomatico del Ministero degli affari esteri, per i servizi che si prestano all'estero presso le rappresentanze diplomatiche, gli uffici consolari e le istituzioni culturali e scolastiche, sono disciplinati, limitatamente al periodo di servizio ivi prestato, dalle disposizioni del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, e successive modificazioni ed integrazioni, nonche' dalle altre pertinenti normative di settore del Ministero degli affari esteri.
 
-###### Articolo 46
+##### Articolo 46
 
 Agenzia per la rappresentanza negoziale delle pubbliche amministrazioni
 
@@ -2114,7 +2106,7 @@ AGGIORNAMENTO (33)
 
 Il D.Lgs. 27 ottobre 2009, n. 150, ha disposto (con l'art. 58, comma 2) che "Entro trenta giorni dalla data di entrata in vigore del presente decreto si provvede alla nomina dei nuovi organi dell'ARAN di cui all'articolo 46, comma 5, del decreto legislativo 30 marzo 2001, n. 165, come modificato dal comma 1. Fino alla nomina dei nuovi organi, e comunque non oltre il termine di cui al precedente periodo, continuano ad operare gli organi in carica alla data di entrata in vigore del presente decreto."
 
-###### Art. 47
+##### Art. 47
 
 (( (Procedimento di contrattazione collettiva).
 
@@ -2138,7 +2130,7 @@ L'ARAN informa costantemente i comitati di settore e il Governo sullo svolgiment
 
 9\. Dal computo dei termini previsti dal presente articolo sono esclusi i giorni considerati festivi per legge, nonche' il sabato.))
 
-###### Art. 47-bis - Tutela retributiva per i dipendenti pubblici.
+##### Art. 47-bis - Tutela retributiva per i dipendenti pubblici.
 
 1\. Decorsi sessanta giorni dalla data di entrata in vigore della legge finanziaria che dispone in materia di rinnovi dei contratti collettivi per il periodo di riferimento, gli incrementi previsti per il trattamento stipendiale possono essere erogati in via provvisoria previa deliberazione dei rispettivi comitati di settore, sentite le organizzazioni sindacali rappresentative. salvo conguaglio all'atto della stipulazione dei contratti collettivi nazionali di lavoro.
 
@@ -2160,7 +2152,7 @@ La L. 4 27 dicembre 2013, n. 147 ha disposto (con l'art. 1, comma 452) che "Per 
 
 Ha inoltre disposto (con l'art. 1, comma 454) che "Le disposizioni di cui ai commi 452 e 453 si applicano anche al personale convenzionato con il Servizio sanitario nazionale".
 
-###### Articolo 48
+##### Articolo 48
 
 Disponibilita' destinate alla contrattazione collettiva nelle amministrazioni pubbliche e verifica
 
@@ -2184,7 +2176,7 @@ n.387 del 1998)
 
 7\. Ferme restando le disposizioni di cui al titolo V del presente decreto, la Corte dei conti, anche nelle sue articolazioni regionali di controllo, verifica periodicamente gli andamenti della spesa per il personale delle pubbliche amministrazioni, utilizzando, per ciascun comparto, insiemi significativi di amministrazioni. A tal fine, la Corte dei conti puo' avvalersi, oltre che dei servizi di controllo interno o nuclei di valutazione, di esperti designati a sua richiesta da amministrazioni ed enti pubblici.
 
-###### Articolo 49
+##### Articolo 49
 
 (( (Interpretazione autentica dei contratti collettivi).
 
@@ -2192,7 +2184,7 @@ n.387 del 1998)
 
 2\. L'eventuale accordo di interpretazione autentica, stipulato con le procedure di cui all'articolo 47, sostituisce la clausola in questione sin dall'inizio della vigenza del contratto. Qualora tale accordo non comporti oneri aggiuntivi e non vi sia divergenza sulla valutazione degli stessi, il parere del Presidente del Consiglio dei Ministri e' espresso tramite il Ministro per la pubblica amministrazione e l'innovazione, di concerto con il Ministro dell'economia e delle finanze.))
 
-###### Articolo 50
+##### Articolo 50
 
 Aspettative e permessi sindacali
 
@@ -2220,7 +2212,7 @@ Aspettative e permessi sindacali
 
 > Nell'anno antecedente a quello di entrata in vigore della nuova normativa, la relazione previsionale e programmatica di cui al comma precedente e' accompagnata da una apposita relazione programmatica di settore riguardante gli accordi in via di stipulazione".
 
-###### Art. 50-bis
+##### Art. 50-bis
 
 (( (Personale delle rappresentanze diplomatiche e consolari e degli istituti italiani di cultura all'estero).
 
@@ -2228,7 +2220,7 @@ Aspettative e permessi sindacali
 
 ## Titolo IV - RAPPORTO Dl LAVORO
 
-###### Articolo 51
+##### Articolo 51
 
 Disciplina del rapporto di lavoro
 
@@ -2242,7 +2234,7 @@ Disciplina del rapporto di lavoro
 
 > \- Per i riferimenti alla legge 20 maggio 1970, n. 300, si veda nelle note all'art. 50.
 
-###### Articolo 52
+##### Articolo 52
 
 Disciplina delle mansioni
 
@@ -2274,7 +2266,7 @@ b) nel caso di sostituzione di altro dipendente assente con diritto alla conserv
 
 6\. Le disposizioni del presente articolo si applicano in sede di attuazione della nuova disciplina degli ordinamenti professionali prevista dai contratti collettivi e con la decorrenza da questi stabilita. I medesimi contratti collettivi possono regolare diversamente gli effetti di cui ai commi 2, 3 e 4. Fino a tale data, in nessun caso lo svolgimento di mansioni superiori rispetto alla qualifica di appartenenza, puo' comportare il diritto ad avanzamenti automatici nell'inquadramento professionale del lavoratore.
 
-###### Art. 53
+##### Art. 53
 
 Incompatibilita', cumulo di impieghi e incarichi
 
@@ -2370,7 +2362,7 @@ AGGIORNAMENTO (100)
 
 Il D.L. 19 maggio 2020, n. 34, ha disposto (con l'art. 247, comma 9) che "Nelle more dell'adozione del decreto di cui all'articolo 3, comma 15, della legge 19 giugno 2019, n. 56, il Dipartimento della funzione pubblica della Presidenza del Consiglio dei Ministri individua i componenti delle commissioni esaminatrici sulla base di manifestazioni di interesse pervenute a seguito di apposito avviso pubblico. A tal fine e per le procedure concorsuali di cui al presente articolo, i termini di cui all'articolo 53, comma 10, del decreto legislativo 30 marzo 2001, n. 165, relativi all'autorizzazione a rivestire l'incarico di commissario nelle procedure concorsuali di cui al presente articolo, sono rideterminati, rispettivamente, in dieci e quindici giorni".
 
-###### Art. 54 - Codice di comportamento
+##### Art. 54 - Codice di comportamento
 
 1\. Il Governo definisce un codice di comportamento dei dipendenti delle pubbliche amministrazioni al fine di assicurare la qualita' dei servizi, la prevenzione dei fenomeni di corruzione, il rispetto dei doveri costituzionali di diligenza, lealta', imparzialita' e servizio esclusivo alla cura dell'interesse pubblico. Il codice contiene una specifica sezione dedicata ai doveri dei dirigenti, articolati in relazione alle funzioni attribuite, e comunque prevede per tutti i dipendenti pubblici il divieto di chiedere o di accettare, a qualsiasi titolo, compensi, regali o altre utilita', in connessione con l'espletamento delle proprie funzioni o dei compiti affidati, fatti salvi i regali d'uso, purche' di modico valore e nei limiti delle normali relazioni di cortesia. (48)
 
@@ -2394,11 +2386,11 @@ AGGIORNAMENTO (48)
 
 La L. 6 novembre 2012, n. 190 ha disposto (con l'art. 1, comma 45) che "I codici di cui all'articolo 54, commi 1 e 4, del decreto legislativo 30 marzo 2001, n. 165, come sostituito dal comma 44, sono approvati entro sei mesi dalla data di entrata in vigore della presente legge".
 
-###### Art. 54-bis
+##### Art. 54-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 10 MARZO 2023, N. 24))
 
-###### Articolo 55 - Responsabilita', infrazioni e sanzioni, procedure conciliative
+##### Articolo 55 - Responsabilita', infrazioni e sanzioni, procedure conciliative
 
 1\. Le disposizioni del presente articolo e di quelli seguenti, fino all'articolo 55-octies, costituiscono norme imperative, ai sensi e per gli effetti degli articoli 1339 e 1419, secondo comma, del codice civile, e si applicano ai rapporti di lavoro di cui all'articolo 2, comma 2, alle dipendenze delle amministrazioni pubbliche di cui all'articolo 1, comma 2. ((La violazione dolosa o colposa delle suddette disposizioni costituisce illecito disciplinare in capo ai dipendenti preposti alla loro applicazione.)) ((71))
 
@@ -2414,7 +2406,7 @@ AGGIORNAMENTO (71)
 
 Il D.Lgs. 25 maggio 2017, n. 75 ha disposto (con l'art. 22, comma 13) che "Le disposizioni di cui al Capo VII si applicano agli illeciti disciplinari commessi successivamente alla data di entrata in vigore del presente decreto".
 
-###### Art. 55-bis - Forme e termini del procedimento disciplinare
+##### Art. 55-bis - Forme e termini del procedimento disciplinare
 
 ((1. Per le infrazioni di minore gravita', per le quali e' prevista l'irrogazione della sanzione del rimprovero verbale, il procedimento disciplinare e' di competenza del responsabile della struttura presso cui presta servizio il dipendente. Alle infrazioni per le quali e' previsto il rimprovero verbale si applica la disciplina stabilita dal contratto collettivo.)) ((71))
 
@@ -2448,7 +2440,7 @@ AGGIORNAMENTO (71)
 
 Il D.Lgs. 25 maggio 2017, n. 75 ha disposto (con l'art. 22, comma 13) che "Le disposizioni di cui al Capo VII si applicano agli illeciti disciplinari commessi successivamente alla data di entrata in vigore del presente decreto".
 
-###### Art. 55-ter - Rapporti fra procedimento disciplinare e procedimento penale
+##### Art. 55-ter - Rapporti fra procedimento disciplinare e procedimento penale
 
 1\. Il procedimento disciplinare, che abbia ad oggetto, in tutto o in parte, fatti in relazione ai quali procede l'autorita' giudiziaria, e' proseguito e concluso anche in pendenza del procedimento penale. PERIODO SOPPRESSO DAL D.LGS. 30 MARZO 2001, N.
 
@@ -2468,7 +2460,7 @@ AGGIORNAMENTO (71)
 
 Il D.Lgs. 25 maggio 2017, n. 75 ha disposto (con l'art. 22, comma 13) che "Le disposizioni di cui al Capo VII si applicano agli illeciti disciplinari commessi successivamente alla data di entrata in vigore del presente decreto".
 
-###### Art. 55-quater - Licenziamento disciplinare
+##### Art. 55-quater - Licenziamento disciplinare
 
 1\. Ferma la disciplina in tema di licenziamento per giusta causa o per giustificato motivo e salve ulteriori ipotesi previste dal contratto collettivo, si applica comunque la sanzione disciplinare del licenziamento nei seguenti casi:
 
@@ -2532,7 +2524,7 @@ AGGIORNAMENTO (98)
 
 La Corte Costituzionale, con sentenza 9 gennaio - 10 aprile 2020, n. 61 (in G.U. 1ª s.s. 15/04/2020, n. 16), ha dichiarato "l'illegittimita' costituzionale del secondo, terzo e quarto periodo del comma 3-quater dell'art. 55-quater del d.lgs. n. 165 del 2001, come introdotto dall'art. 1, comma 1, lettera b), del d.lgs. n. 116 del 2016".
 
-###### Art. 55-quinquies - False attestazioni o certificazioni
+##### Art. 55-quinquies - False attestazioni o certificazioni
 
 1\. Fermo quanto previsto dal codice penale, il lavoratore dipendente di una pubblica amministrazione che attesta falsamente la propria presenza in servizio, mediante l'alterazione dei sistemi di rilevamento della presenza o con altre modalita' fraudolente, ovvero giustifica l'assenza dal servizio mediante una certificazione medica falsa o falsamente attestante uno stato di malattia e' punito con la reclusione da uno a cinque anni e con la multa da euro 400 ad euro 1.600. La medesima pena si applica al medico e a chiunque altro concorre nella commissione del delitto.
 
@@ -2548,7 +2540,7 @@ AGGIORNAMENTO (71)
 
 Il D.Lgs. 25 maggio 2017, n. 75 ha disposto (con l'art. 22, comma 13) che "Le disposizioni di cui al Capo VII si applicano agli illeciti disciplinari commessi successivamente alla data di entrata in vigore del presente decreto".
 
-###### Art. 55-sexies - Responsabilita' disciplinare per condotte pregiudizievoli per l'amministrazione e limitazione della responsabilita' per l'esercizio dell'azione disciplinare
+##### Art. 55-sexies - Responsabilita' disciplinare per condotte pregiudizievoli per l'amministrazione e limitazione della responsabilita' per l'esercizio dell'azione disciplinare
 
 ((1. La violazione di obblighi concernenti la prestazione lavorativa, che abbia determinato la condanna dell'amministrazione al risarcimento del danno, comporta comunque, nei confronti del dipendente responsabile, l'applicazione della sospensione dal servizio con privazione della retribuzione da un minimo di tre giorni fino ad un massimo di tre mesi, in proporzione all'entita' del risarcimento, salvo che ricorrano i presupposti per l'applicazione di una piu' grave sanzione disciplinare.)) ((71))
 
@@ -2566,7 +2558,7 @@ AGGIORNAMENTO (71)
 
 Il D.Lgs. 25 maggio 2017, n. 75 ha disposto (con l'art. 22, comma 13) che "Le disposizioni di cui al Capo VII si applicano agli illeciti disciplinari commessi successivamente alla data di entrata in vigore del presente decreto".
 
-###### Art. 55-septies - Controlli sulle assenze
+##### Art. 55-septies - Controlli sulle assenze
 
 1\. Nell'ipotesi di assenza per malattia protratta per un periodo superiore a dieci giorni, e, in ogni caso, dopo il secondo evento di malattia nell'anno solare l'assenza viene giustificata esclusivamente mediante certificazione medica rilasciata da una struttura sanitaria pubblica o da un medico convenzionato con il Servizio sanitario nazionale. ((I controlli sulla validita' delle suddette certificazioni restano in capo alle singole amministrazioni pubbliche interessate.))
 
@@ -2602,7 +2594,7 @@ AGGIORNAMENTO (71)
 
 Il D.Lgs. 25 maggio 2017, n. 75 ha disposto (con l'art. 22, comma 2) che "La disposizione di cui all'articolo 55-septies, comma 2-bis, primo periodo, del decreto legislativo 30 marzo 2001, n. 165, che attribuisce all'Inps la competenza esclusiva ad effettuare gli accertamenti medico legali sui dipendenti assenti dal servizio per malattia, si applica a decorrere dal 1° settembre 2017 e, nei confronti del personale delle istituzioni scolastiche ed educative statali, a decorrere dall'anno scolastico 2017/2018".
 
-###### Art. 55-octies
+##### Art. 55-octies
 
 (( (Permanente inidoneita' psicofisica).
 
@@ -2616,7 +2608,7 @@ c) gli effetti sul trattamento giuridico ed economico della sospensione di cui a
 
 d) la possibilita', per l'amministrazione, di risolvere il rapporto di lavoro nel caso di reiterato rifiuto, da parte del dipendente, di sottoporsi alla visita di idoneita'. ))
 
-###### Art. 55-novies
+##### Art. 55-novies
 
 (( (Identificazione del personale a contatto con il pubblico).
 
@@ -2630,11 +2622,11 @@ AGGIORNAMENTO (33)
 
 Il D.lgs. 27 ottobre 2009, n. 150, ha disposto (con l'art. 73, comma 2) che l'obbligo di esposizione di cartellini o targhe identificativi, previsto dal presente articolo decorre dal novantesimo giorno successivo all'entrata in vigore del medesimo decreto.
 
-###### Articolo 56
+##### Articolo 56
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 OTTOBRE 2009, N. 150))
 
-###### Articolo 57
+##### Articolo 57
 
 Pari opportunita'
 
@@ -2668,7 +2660,7 @@ d) possono finanziare programmi di azioni positive e l'attivita' dei Comitati un
 
 ## Titolo V - CONTROLLO DELLA SPESA
 
-###### Articolo 58
+##### Articolo 58
 
 Finalita'
 
@@ -2680,11 +2672,11 @@ Finalita'
 
 3\. ((Per le finalita' di cui al comma 1,)) il Ministero ((dell'economia e delle finanze)) d'intesa con la Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica, ((cura il)) processo di integrazione dei sistemi informativi delle amministrazioni pubbliche che rilevano i trattamenti economici e le spese del personale, facilitando la razionalizzazione delle modalita' di pagamento delle retribuzioni. Le informazioni acquisite dal sistema informativo del Dipartimento della ragioneria generale dello Stato sono disponibili per tutte le amministrazioni e gli enti interessati.
 
-###### Articolo 59
+##### Articolo 59
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 MAGGIO 2017, N. 75))
 
-###### Art. 60
+##### Art. 60
 
 Controllo del costo del lavoro
 
@@ -2714,7 +2706,7 @@ AGGIORNAMENTO (57)
 
 Il D.L. 31 agosto 2013, n. 101, convertito con modificazioni dalla L. 30 ottobre 2013, n. 125, ha disposto (con l'art. 2, comma 11) che la modifica del comma 3 del presente articolo decorre dal 1° gennaio 2014.
 
-###### Art. 60-bis - Istituzione e attivita' del Nucleo della Concretezza
+##### Art. 60-bis - Istituzione e attivita' del Nucleo della Concretezza
 
 1\. Ferme le competenze dell'Ispettorato di cui all'articolo 60, comma 6, e dell'Unita' per la semplificazione e la qualita' della regolazione di cui all'articolo 1, comma 22-bis, del decreto-legge 18 maggio 2006, n. 181, convertito, con modificazioni, dalla legge 17 luglio 2006, n. 233, e' istituito, presso il Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri, il Nucleo delle azioni concrete di miglioramento dell'efficienza amministrativa, denominato "Nucleo della Concretezza".
 
@@ -2748,7 +2740,7 @@ Il D.P.R. 24 giugno 2022, n. 81, ha disposto (con l'art. 1, comma 1, lettera a))
 
 a) [...] articoli 60-bis (Piano delle azioni concrete) [...] del decreto legislativo 30 marzo 2001, n. 165".
 
-###### Art. 60-ter - Collaborazione tra il prefetto e il Nucleo della Concretezza
+##### Art. 60-ter - Collaborazione tra il prefetto e il Nucleo della Concretezza
 
 1\. Il prefetto puo' segnalare al Nucleo della Concretezza di cui all'articolo 60-bis, comma 1, eventuali irregolarita' dell'azione amministrativa degli enti locali e chiederne l'intervento. In tal caso puo' partecipare ai sopralluoghi e alle visite anche personale della prefettura-ufficio territoriale del Governo richiedente.
 
@@ -2762,7 +2754,7 @@ Il D.P.R. 24 giugno 2022, n. 81, ha disposto (con l'art. 1, comma 1, lettera a))
 
 a)[...] articoli 60-ter, [...] del decreto legislativo 30 marzo 2001, n. 165".
 
-###### Art. 60-quater
+##### Art. 60-quater
 
 (( (Personale del Nucleo della Concretezza).
 
@@ -2774,13 +2766,13 @@ b) trenta unita', di cui venti da inquadrare nel livello iniziale della categori
 
 2\. Agli oneri derivanti dall'attuazione delle disposizioni di cui al comma 1, pari a euro 4.153.160 annui a decorrere dal 2019, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2019-2021, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2019, allo scopo parzialmente utilizzando l'accantonamento relativo al medesimo Ministero. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio. ))
 
-###### Art. 60-quinquies
+##### Art. 60-quinquies
 
 (( (Applicazione alle istituzioni scolastiche ed educative).
 
 1\. Fermo restando quanto previsto dall'articolo 60-quater, le disposizioni degli articoli 60-bis e 60-ter si applicano, nell'ambito delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri per la finanza pubblica, agli istituti e scuole di ogni ordine e grado e alle istituzioni educative tenendo conto delle loro specificita' organizzative e funzionali e nel rispetto dell'autonomia organizzativa, didattica, di ricerca e di sviluppo ad essi riconosciuta dalle vigenti disposizioni. ))
 
-###### Art. 61
+##### Art. 61
 
 interventi correttivi del costo del personale
 
@@ -2794,7 +2786,7 @@ interventi correttivi del costo del personale
 
 3\. Il Ministro ((dell'economia e delle finanze)) provvede, con la stessa procedura di cui al comma 2, a seguito di richieste pervenute alla Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica per la estensione generalizzata di decisioni giurisdizionali divenute esecutive, atte a produrre gli effetti indicati nel medesimo comma 2 sulla entita' della spesa autorizzata.
 
-###### Articolo 62
+##### Articolo 62
 
 Commissario del Governo
 
@@ -2810,7 +2802,7 @@ Commissario del Governo
 
 ## Titolo VI - GIURISDIZIONE
 
-###### Art. 63
+##### Art. 63
 
 Controversie relative ai rapporti di lavoro
 
@@ -2830,7 +2822,7 @@ Quando questi ultimi siano rilevanti ai fini della decisione, il giudice li disa
 
 5\. Nelle controversie di cui ai commi 1 e 3 e nel caso di cui all'articolo 64, comma 3, il ricorso per cassazione puo' essere proposto anche per violazione o falsa applicazione dei contratti e accordi collettivi nazionali di cui all'articolo 40.
 
-###### Art. 63-bis
+##### Art. 63-bis
 
 (( (Intervento dell'ARAN nelle controversie
 
@@ -2838,7 +2830,7 @@ relative ai rapporti di lavoro). ))
 
 ((1. L'ARAN puo' intervenire nei giudizi innanzi al giudice ordinario, in funzione di giudice del lavoro, aventi ad oggetto le controversie relative ai rapporti di lavoro alle dipendenze delle pubbliche amministrazioni di cui agli articoli 1, comma 2, e 70, comma 4, al fine di garantire la corretta interpretazione e l'uniforme applicazione dei contratti collettivi. Per le controversie relative al personale di cui all'articolo 3, derivanti dalle specifiche discipline ordinamentali e retributive, l'intervento in giudizio puo' essere assicurato attraverso la Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica, d'intesa con il Ministero dell'economia e delle finanze. ))
 
-###### Articolo 64
+##### Articolo 64
 
 Accertamento pregiudiziale sull'efficacia, validita' ed interpretazione dei contratto collettivi
 
@@ -2880,21 +2872,19 @@ Accertamento pregiudiziale sull'efficacia, validita' ed interpretazione dei cont
 
 > Il giudice che accerta l'inesistenza del diritto per cui e' stato eseguito un provvedimento cautelare, o trascritta domanda giudiziale, o iscritta ipoteca giudiziale, oppure iniziata o compiuta l'esecuzione forzata, su istanza della parte danneggiata condanna al risarcimento dei danni l'attore o il creditore procedente, che ha agito senza la normale prudenza. La liquidazione dei danni e' fatta a norma del comma precedente".
 
-###### Articolo 65
+##### Articolo 65
 
 ((ARTICOLO ABROGATO DALLA L. 4 NOVEMBRE 2010, N. 183))
 
-###### Articolo 66
+##### Articolo 66
 
 ((ARTICOLO ABROGATO DALLA L. 4 NOVEMBRE 2010, N. 183))
 
 ## Titolo VII - DISPOSIZIONI DIVERSE E NORME TRANSITORIE FINALI
 
-### Capo I
+### Capo I - Disposizioni diverse
 
-#### Disposizioni diverse
-
-###### Articolo 67
+##### Articolo 67
 
 Integrazione funzionale del Dipartimento della funzione pubblica con la Ragioneria generale dello Stato
 
@@ -2906,7 +2896,7 @@ Integrazione funzionale del Dipartimento della funzione pubblica con la Ragioner
 
 3\. Gli schemi di provvedimenti legislativi e i progetti di' legge, comunque sottoposti alla valutazione del Governo, contenenti disposizioni relative alle amministrazioni pubbliche richiedono il necessario concerto del Ministero ((dell'economia e delle finanze)) e del Dipartimento della funzione pubblica. I provvedimenti delle singole amministrazioni dello Stato incidenti nella medesima materia sono adottati d'intesa con il Ministero ((dell'economia e delle finanze)) e con la Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica in apposite conferenze di servizi da indire ai sensi e con le modalita' di cui all'articolo 14 della legge 7 agosto 1990, n. 241, e successive modificazioni ed integrazioni.
 
-###### Articolo 68
+##### Articolo 68
 
 Aspettativa per mandato parlamentare
 
@@ -2920,9 +2910,9 @@ Aspettativa per mandato parlamentare
 
 4\. Le regioni adeguano i propri ordinamenti ai principi di cui ai commi 1, 2 e 3.
 
-## Capo II - Norme transitorie e finali
+### Capo II - Norme transitorie e finali
 
-###### Art. 69
+##### Art. 69
 
 Norme transitorie
 
@@ -2958,7 +2948,7 @@ AGGIORNAMENTO (3)
 
 La L. 15 luglio 2002, n. 145 ha disposto (con l'art. 5, comma 1) che " Nei limiti del 50 per cento dei posti disponibili nell'ambito della dotazione organica dei dirigenti di seconda fascia dei ruoli di ciascuna amministrazione, il personale di cui all'articolo 69, comma 3, del decreto legislativo 30 marzo 2001, n. 165, in servizio alla data di entrata in vigore della presente legge, e' inquadrato, previo superamento di concorso riservato per titoli di servizio e professionali, da espletarsi entro centottanta giorni dalla medesima data, nella seconda fascia dirigenziale."
 
-###### Art. 70
+##### Art. 70
 
 Norme finali
 
@@ -3010,7 +3000,7 @@ AGGIORNAMENTO (79)
 
 Il D.Lgs. 6 ottobre 2018, n. 127, nell'introdurre l'art. 232 al D.Lgs. 13 ottobre 2005, n. 217, ha conseguentemente disposto (con l'art. 4, comma 1) che "In deroga a quanto previsto dall'articolo 70, comma 11, del decreto legislativo 30 marzo 2001, n. 165, alla copertura delle carenze organiche del Corpo nazionale si provvede, in caso di richiesta da parte degli interessati, anche mediante mobilita' degli appartenenti ai Corpi permanenti dei vigili del fuoco delle province autonome di Trento e di Bolzano e della regione Valle d'Aosta, previo assenso delle amministrazioni di provenienza e di destinazione, limitatamente al personale dei ruoli operativi in possesso del prescritto titolo di studio".
 
-###### Articolo 71
+##### Articolo 71
 
 Disposizioni inapplicabili a seguito della sottoscrizione di contratti collettivi
 
@@ -3020,7 +3010,7 @@ Disposizioni inapplicabili a seguito della sottoscrizione di contratti collettiv
 
 3\. Alla fine della tornata contrattuale 1998-2001 per tutti i comparti ed aree di contrattazione verranno aggiornati gli allegati del presente decreto, ai sensi dell'articolo 69, comma 1, ultimo periodo. La contrattazione relativa alla tornata contrattuale 1998-2001, ai sensi dell'articolo 2, comma 2, provvedera' alla disapplicazione espressa delle disposizioni generali o speciali del pubblico impiego, legislative o recepite in decreto del Presidente della Repubblica, che risulteranno incompatibili con la stipula dei contratti collettivi nazionali o dei contratti quadro.
 
-###### Articolo 72
+##### Articolo 72
 
 Abrogazioni di norme
 
@@ -3564,7 +3554,7 @@ cc) decreto legislativo 29 ottobre 1998, n. 387 ad eccezione degli articoli 19, 
 
 > 41\. (Abrogato)".
 
-###### Articolo 73
+##### Articolo 73
 
 Norma di rinvio
 
@@ -3582,9 +3572,9 @@ Bassanini, Ministro per la funzione pubblica
 
 Visto, il Guardasigilli: Fassino
 
-## Capo II - Norme transitorie e finali
+### Capo II - Norme transitorie e finali
 
-###### Allegato A
+##### Allegato A
 
 Allegato A
 
@@ -3970,7 +3960,7 @@ comma 1, da 44 a 55, 57, 59, 60, da 63 a 79 del C.C.L. ENEA 31 dicembre 1988 - 3
 
 c) Parte generale, allegati, appendici e codici di autoregolamentazione del diritto di sciopero afferenti al previgente C.C.L. ENEA 31 dicembre 1988-30 dicembre 1991.
 
-###### Allegato B
+##### Allegato B
 
 Allegato B
 
@@ -4264,7 +4254,7 @@ b) articoli 1, 1-bis, 1-ter, da 2 a 16, 16-bis, 17, 18, 19, 19-bis, 19-ter, 20, 
 
 c) Parte generale, gli allegati, e le appendici ed i Codici di autoregolamentazione del diritto di sciopero afferenti al previgente CCL ENEA 31 dicembre 1988-30 dicembre 1991.
 
-###### Allegato C
+##### Allegato C
 
 Allegato C
 

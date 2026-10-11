@@ -314,7 +314,7 @@ Rimborsi
 
 L'istituzione competente dovra' rimborsare il costo delle prestazioni sanitarie all'istituzione previdenziale dell'altra Parte Contraente per le prestazioni fornite in base agli Articoli 13, 14, 15, 16 e 24 del presente Accordo, secondo la procedura stabilita dall'Accordo Amministrativo.
 
-## SEZIONE 2 - PRESTAZIONI DI VECCHIAIA, INVALIDITA' E REVERSIBILITA'
+### SEZIONE 2 - PRESTAZIONI DI VECCHIAIA, INVALIDITA' E REVERSIBILITA'
 
 #### Articolo 19
 
@@ -354,7 +354,7 @@ Riduzione, sospensione e revoca delle prestazioni
 
 Le persone a cui il presente Accordo si applica non saranno soggette alla legislazione delle due Parti Contraenti in materia di riduzione, sospensione o revoca delle prestazioni qualora beneficiassero simultaneamente delle prestazioni dalle istituzioni competenti di entrambe le Parti Contraenti.
 
-## SEZIONE 3 - SUSSIDIO IN CASO DI DECESSO
+### SEZIONE 3 - SUSSIDIO IN CASO DI DECESSO
 
 #### Articolo 23
 
@@ -366,7 +366,7 @@ Totalizzazione dei periodi assicurativi e attribuzione del sussidio in caso di d
 
 (3) Nel caso in cui la legislazione di entrambe le Parti Contraenti preveda il diritto a percepire il sussidio in caso di decesso, si applichera' solo la legislazione della Parte Contraente nel cui territorio la persona deceduta risiedeva.
 
-## SEZIONE 4 - INFORTUNI SUL LAVORO E MALATTIE PROFESSIONALI
+### SEZIONE 4 - INFORTUNI SUL LAVORO E MALATTIE PROFESSIONALI
 
 #### Articolo 24
 
@@ -392,7 +392,7 @@ Prestazioni in denaro
 
 (2) Qualora un assicurato ha beneficiato di prestazioni per malattia professionale secondo la legislazione di una delle Parti Contraenti, in caso di aggravamento delle sue condizioni durante la sua permanenza nel territorio dell'altra Parte Contraente, l'istituzione competente della prima Parte Contraente dovra' assumere l'onere delle prestazioni, tenendo conto dell'aggravamento della malattia, secondo le disposizioni della legislazione che essa applica, sempre che la persona che ha contratto la malattia professionale non abbia svolto, in base alla legislazione della seconda Parte Contraente un'attivita' che possa aver causato o aggravato la malattia considerata. Se l'assicurato ha svolto tale attivita', sotto la legislazione della seconda Parte Contraente, l'istituzione competente della prima Parte Contraente assume l'onere delle prestazioni, senza tener conto dell'aggravamento, secondo le disposizioni della legislazione che essa applica; l'istituzione competente della seconda Parte Contraente paghera' la differenza tra l'importo delle prestazioni dovute dopo l'aggravamento secondo le disposizioni della legislazione che essa applica e l'importo delle prestazioni che sarebbe stato dovuto prima dell'aggravamento.
 
-## SEZIONE 5 - PRESTAZIONI DI DISOCCUPAZIONE
+### SEZIONE 5 - PRESTAZIONI DI DISOCCUPAZIONE
 
 #### Articolo 27
 

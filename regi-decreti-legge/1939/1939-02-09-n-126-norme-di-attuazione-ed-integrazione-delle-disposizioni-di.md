@@ -24,9 +24,7 @@ retrieved: 2026-10-11
 
 ## TITOLO I. - Limitazioni della proprieta' immobiliare.
 
-### Capo I
-
-#### Disposizioni generali.
+### Capo I - Disposizioni generali.
 
 ##### Art. 1
 
@@ -68,7 +66,7 @@ retrieved: 2026-10-11
 
 ((IL REGIO D.L. 20 GENNAIO 1944, N. 26, PUBBLICATO IN ALLEGATO AL D.LGS. LUOGOTENENZIALE 5 OTTOBRE 1944, N. 252, HA DISPOSTO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-## Capo II. - Ente di gestione e liquidazione immobiliare.
+### Capo II. - Ente di gestione e liquidazione immobiliare.
 
 ##### Art. 11
 
@@ -78,7 +76,7 @@ retrieved: 2026-10-11
 
 ((IL REGIO D.L. 20 GENNAIO 1944, N. 26, PUBBLICATO IN ALLEGATO AL D.LGS. LUOGOTENENZIALE 5 OTTOBRE 1944, N. 252, HA DISPOSTO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-## Capo III. - Accertamento e valutazione del patrimonio immobiliare.
+### Capo III. - Accertamento e valutazione del patrimonio immobiliare.
 
 ##### Art. 13
 
@@ -120,9 +118,7 @@ retrieved: 2026-10-11
 
 ((IL REGIO D.L. 20 GENNAIO 1944, N. 26, PUBBLICATO IN ALLEGATO AL D.LGS. LUOGOTENENZIALE 5 OTTOBRE 1944, N. 252, HA DISPOSTO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-## Capo IV. - Contestazioni in ordine alla formazione della quota
-
-### consentita e della quota eccedente e in ordine alla valutazione dei - beni.
+### Capo IV. - Contestazioni in ordine alla formazione della quota consentita e della quota eccedente e in ordine alla valutazione dei beni.
 
 ##### Art. 23
 
@@ -136,9 +132,7 @@ retrieved: 2026-10-11
 
 ((IL REGIO D.L. 20 GENNAIO 1944, N. 26, PUBBLICATO IN ALLEGATO AL D.LGS. LUOGOTENENZIALE 5 OTTOBRE 1944, N. 252, HA DISPOSTO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-## Capo V. - Trasferimento degli immobili compresi nella quota di
-
-### eccedenza all'Ente digestione e liquidazione immobiliare.
+### Capo V. - Trasferimento degli immobili compresi nella quota di eccedenza all'Ente digestione e liquidazione immobiliare.
 
 ##### Art. 26
 
@@ -164,9 +158,9 @@ retrieved: 2026-10-11
 
 ((IL REGIO D.L. 20 GENNAIO 1944, N. 26, PUBBLICATO IN ALLEGATO AL D.LGS. LUOGOTENENZIALE 5 OTTOBRE 1944, N. 252, HA DISPOSTO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-## Capo VI. - Pagamento del corrispettivo e diritti dei creditori.
+### Capo VI. - Pagamento del corrispettivo e diritti dei creditori.
 
-### Sezione I. - Certificati speciali.
+#### Sezione I. - Certificati speciali.
 
 ##### Art. 32
 
@@ -210,9 +204,7 @@ Il Regio D.L. 20 gennaio 1944, n. 26, pubblicato in allegato al D.Lgs. Luogotene
 
 ((IL REGIO D.L. 20 GENNAIO 1944, N. 26, PUBBLICATO IN ALLEGATO AL D.LGS. LUOGOTENENZIALE 5 OTTOBRE 1944, N. 252, HA DISPOSTO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-## Capo VII. - Gestione e vendita dei beni trasferiti all'Ente di
-
-### gestione e liquidazione immobiliare.
+### Capo VII. - Gestione e vendita dei beni trasferiti all'Ente di gestione e liquidazione immobiliare.
 
 ##### Art. 39
 
@@ -226,7 +218,7 @@ Il Regio D.L. 20 gennaio 1944, n. 26, pubblicato in allegato al D.Lgs. Luogotene
 
 ((IL REGIO D.L. 20 GENNAIO 1944, N. 26, PUBBLICATO IN ALLEGATO AL D.LGS. LUOGOTENENZIALE 5 OTTOBRE 1944, N. 252, HA DISPOSTO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-## Capo VIII. - Restituzione degli immobili.
+### Capo VIII. - Restituzione degli immobili.
 
 ##### Art. 42
 
@@ -236,7 +228,7 @@ Il Regio D.L. 20 gennaio 1944, n. 26, pubblicato in allegato al D.Lgs. Luogotene
 
 ((IL REGIO D.L. 20 GENNAIO 1944, N. 26, PUBBLICATO IN ALLEGATO AL D.LGS. LUOGOTENENZIALE 5 OTTOBRE 1944, N. 252, HA DISPOSTO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-## Capo IX. - Aumenti di patrimonio immobiliare.
+### Capo IX. - Aumenti di patrimonio immobiliare.
 
 ##### Art. 44
 
@@ -250,11 +242,9 @@ Il Regio D.L. 20 gennaio 1944, n. 26, pubblicato in allegato al D.Lgs. Luogotene
 
 ((IL REGIO D.L. 20 GENNAIO 1944, N. 26, PUBBLICATO IN ALLEGATO AL D.LGS. LUOGOTENENZIALE 5 OTTOBRE 1944, N. 252, HA DISPOSTO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-## TITOLO II. - Limitazioni alla partecipazione in aziende industriali e
+## TITOLO II. - Limitazioni alla partecipazione in aziende industriali e commerciali.
 
-### commerciali. - Capo I.
-
-#### Denunzia delle aziende.
+### Capo I. - Denunzia delle aziende.
 
 ##### Art. 47
 
@@ -264,9 +254,7 @@ Il Regio D.L. 20 gennaio 1944, n. 26, pubblicato in allegato al D.Lgs. Luogotene
 
 ((IL REGIO D.L. 20 GENNAIO 1944, N. 26, PUBBLICATO IN ALLEGATO AL D.LGS. LUOGOTENENZIALE 5 OTTOBRE 1944, N. 252, HA DISPOSTO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-## Capo II. - Accertamento delle aziende e formazione degli elenchi
-
-### relativi.
+### Capo II. - Accertamento delle aziende e formazione degli elenchi relativi.
 
 ##### Art. 49
 
@@ -288,9 +276,7 @@ Il Regio D.L. 20 gennaio 1944, n. 26, pubblicato in allegato al D.Lgs. Luogotene
 
 ((IL REGIO D.L. 20 GENNAIO 1944, N. 26, PUBBLICATO IN ALLEGATO AL D.LGS. LUOGOTENENZIALE 5 OTTOBRE 1944, N. 252, HA DISPOSTO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-## Capo III. - Inalienabilita' delle aziende e delle quote sociali
-
-### durante il periodo di accertamento e classificazione.
+### Capo III. - Inalienabilita' delle aziende e delle quote sociali durante il periodo di accertamento e classificazione.
 
 ##### Art. 54
 
@@ -300,7 +286,7 @@ Il Regio D.L. 20 gennaio 1944, n. 26, pubblicato in allegato al D.Lgs. Luogotene
 
 ((IL REGIO D.L. 20 GENNAIO 1944, N. 26, PUBBLICATO IN ALLEGATO AL D.LGS. LUOGOTENENZIALE 5 OTTOBRE 1944, N. 252, HA DISPOSTO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-## Capo IV. - Vigilanza, amministrazione e liquidazione delle aziende
+### Capo IV. - Vigilanza, amministrazione e liquidazione delle aziende
 
 ##### Art. 56
 
@@ -350,7 +336,7 @@ Il Regio D.L. 20 gennaio 1944, n. 26, pubblicato in allegato al D.Lgs. Luogotene
 
 ((IL REGIO D.L. 20 GENNAIO 1944, N. 26, PUBBLICATO IN ALLEGATO AL D.LGS. LUOGOTENENZIALE 5 OTTOBRE 1944, N. 252, HA DISPOSTO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
 
-## Capo V. - Disposizioni varie.
+### Capo V. - Disposizioni varie.
 
 ##### Art. 68
 

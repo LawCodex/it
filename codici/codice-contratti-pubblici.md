@@ -58,9 +58,9 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro delle in
 
 EMANA il seguente decreto legislativo:
 
-## LIBRO I - DEI PRINCIPI, DELLA DIGITALIZZAZIONE, DELLA PROGRAMMAZIONE, DELLA PROGETTAZIONE
+### LIBRO I - DEI PRINCIPI, DELLA DIGITALIZZAZIONE, DELLA PROGRAMMAZIONE, DELLA PROGETTAZIONE
 
-### PARTE I - DEI PRINCIPI
+## PARTE I - DEI PRINCIPI
 
 #### Titolo I - I principi generali
 
@@ -442,7 +442,7 @@ All'aggiudicatario non spetta alcun indennizzo, salvo il rimborso delle spese co
 
 10\. Con la tabella di cui all'allegato I.4 al codice e' individuato il valore dell'imposta di bollo che l'appaltatore assolve una tantum al momento della stipula del contratto e in proporzione al valore dello stesso. Con la medesima tabella sono sostituite le modalita' di calcolo e versamento dell'imposta di bollo di cui al decreto del Presidente della Repubblica 26 ottobre 1972, n. 642, in materia di contratti pubblici disciplinati dal codice. ((PERIODO SOPPRESSO DAL D.LGS. 31 DICEMBRE 2024, N. 209)).
 
-### PARTE II - DELLA DIGITALIZZAZIONE DEL CICLO DI VITA DEI CONTRATTI
+## PARTE II - DELLA DIGITALIZZAZIONE DEL CICLO DI VITA DEI CONTRATTI
 
 ###### Articolo 19
 
@@ -824,7 +824,7 @@ Norme procedimentali e processuali in tema di accesso.
 
 9\. Il termine di impugnazione dell'aggiudicazione e dell'ammissione e valutazione delle offerte diverse da quella aggiudicataria decorre comunque dalla comunicazione di cui all'articolo 90.
 
-### PARTE III - DELLA PROGRAMMAZIONE
+## PARTE III - DELLA PROGRAMMAZIONE
 
 ###### Articolo 37
 
@@ -952,7 +952,7 @@ c) le modalita' di individuazione e i compiti del responsabile del dibattito pub
 
 d) gli eventuali contenuti ulteriori della relazione iniziale e di quella conclusiva del procedimento di dibattito pubblico.
 
-### PARTE IV - DELLA PROGETTAZIONE
+## PARTE IV - DELLA PROGETTAZIONE
 
 ###### Articolo 41
 
@@ -1166,9 +1166,9 @@ Consiglio superiore dei lavori pubblici.
 
 5\. Il Consiglio superiore dei lavori pubblici esprime il parere entro quarantacinque giorni dalla trasmissione del progetto. Decorso tale termine, il parere si intende reso in senso favorevole.
 
-## LIBRO II - DELL'APPALTO
+### LIBRO II - DELL'APPALTO
 
-### PARTE I - DEI CONTRATTI DI IMPORTO INFERIORE ALLE SOGLIE EUROPEE
+## PARTE I - DEI CONTRATTI DI IMPORTO INFERIORE ALLE SOGLIE EUROPEE
 
 ###### Articolo 48
 
@@ -1280,7 +1280,7 @@ Termini dilatori.
 
 .
 
-### PARTE II - DEGLI ISTITUTI E DELLE CLAUSOLE COMUNI
+## PARTE II - DEGLI ISTITUTI E DELLE CLAUSOLE COMUNI
 
 ###### Articolo 56
 
@@ -1458,7 +1458,7 @@ Contratti riservati.
 
 5\. ((COMMA ABROGATO DAL D.LGS. 31 DICEMBRE 2024, N. 209)).
 
-### PARTE III - DEI SOGGETTI
+## PARTE III - DEI SOGGETTI
 
 #### Titolo I - Le stazioni appaltanti
 
@@ -1764,7 +1764,7 @@ Accordo sugli Appalti Pubblici (AAP) e altri accordi internazionali.
 
 1\. Se sono contemplati dagli allegati 1, 2, 4 e 5 e dalle note generali dell'appendice 1 dell'Unione europea dell'Accordo sugli Appalti Pubblici (AAP) e dagli altri accordi internazionali cui l'Unione e' vincolata, le stazioni appaltanti applicano ai lavori, alle forniture, ai servizi e agli operatori economici dei Paesi terzi firmatari di tali accordi un trattamento non meno favorevole di quello concesso ai sensi del codice.
 
-### PARTE IV - DELLE PROCEDURE DI SCELTA DEL CONTRAENTE
+## PARTE IV - DELLE PROCEDURE DI SCELTA DEL CONTRAENTE
 
 ###### Articolo 70
 
@@ -1948,7 +1948,7 @@ d) per l'acquisto di forniture o servizi a condizioni particolarmente vantaggios
 
 7\. Ove possibile, le stazioni appaltanti individuano gli operatori economici da consultare sulla base di informazioni riguardanti le caratteristiche di qualificazione economica e finanziaria e tecniche e professionali desunte dal mercato, nel rispetto dei principi di trasparenza e concorrenza, selezionando almeno tre operatori economici, se sussistono in tale numero soggetti idonei. La stazione appaltante sceglie l'operatore economico che ha offerto le condizioni piu' vantaggiose, ai sensi dell'articolo 108, previa verifica del possesso dei requisiti di partecipazione previsti per l'affidamento di contratti di uguale importo mediante procedura aperta, ristretta o mediante procedura competitiva con negoziazione.
 
-### PARTE V - DELLO SVOLGIMENTO DELLE PROCEDURE
+## PARTE V - DELLO SVOLGIMENTO DELLE PROCEDURE
 
 #### Titolo I - Gli atti preparatori
 
@@ -2778,7 +2778,7 @@ h) eventualmente, i conflitti di interesse individuati e le misure successivamen
 
 5\. La relazione o i suoi principali elementi sono comunicati alla Cabina di regia di cui all'articolo 221 per la successiva comunicazione alla Commissione europea, alle autorita', agli organismi o alle strutture competenti, quando tale relazione e' richiesta.
 
-### PARTE VI - DELL'ESECUZIONE
+## PARTE VI - DELL'ESECUZIONE
 
 ###### Articolo 113
 
@@ -3212,7 +3212,7 @@ Le penali dovute per il ritardato adempimento sono calcolate in misura giornalie
 
 2-bis. Le stazioni appaltanti possono prevedere nel bando o nell'avviso di indizione della gara il riconoscimento di premialita' anche in caso di appalti di servizi e forniture, ove compatibile con l'oggetto dell'appalto. In tal caso, la stazione appaltante determina, nel bando o nell'avviso di indizione della gara, i criteri per il riconoscimento del premio di accelerazione e per la determinazione del relativo ammontare.
 
-### PARTE VII - DISPOSIZIONI PARTICOLARI PER ALCUNI CONTRATTI DEI SETTORI ORDINARI
+## PARTE VII - DISPOSIZIONI PARTICOLARI PER ALCUNI CONTRATTI DEI SETTORI ORDINARI
 
 #### Titolo I - I servizi sociali e i servizi assimilati
 
@@ -3536,9 +3536,9 @@ c) l'amministrazione competente all'affidamento e all'esecuzione del contratto e
 
 5\. Le disposizioni di cui all'articolo 140, comma 7, si applicano, altresi', qualora si adottino, limitatamente ad emergenze di protezione civile, le procedure di cui all'articolo 76, comma 2, lettera c).
 
-## LIBRO III - DELL'APPALTO NEI SETTORI SPECIALI
+### LIBRO III - DELL'APPALTO NEI SETTORI SPECIALI
 
-### PARTE I - DISPOSIZIONI GENERALI
+## PARTE I - DISPOSIZIONI GENERALI
 
 ###### Articolo 141
 
@@ -3780,7 +3780,7 @@ b) prospezione o estrazione di carbone o di altri combustibili solidi.
 
 2\. Rimangono escluse dall'applicazione delle disposizioni del codice le attivita' relative allo sfruttamento di un'area geografica, ai fini di prospezione di petrolio e di gas naturale, nonche' di produzione di petrolio, in quanto attivita' direttamente esposte alla concorrenza su mercati liberamente accessibili.
 
-### PARTE II - DELLE PROCEDURE DI SCELTA DEL CONTRAENTE
+## PARTE II - DELLE PROCEDURE DI SCELTA DEL CONTRAENTE
 
 ###### Articolo 153
 
@@ -3878,7 +3878,7 @@ l) quando l'appalto di servizi consegue a un concorso di progettazione organizza
 
 3\. Ove possibile, le stazioni appaltanti individuano gli operatori economici da consultare sulla base di informazioni riguardanti le caratteristiche di qualificazione economica e finanziaria e tecniche e professionali desunte dal mercato, nel rispetto dei principi di trasparenza e concorrenza, selezionando almeno tre operatori economici, se sussistono in tale numero soggetti idonei. La stazione appaltante sceglie l'operatore economico che ha offerto le condizioni piu' vantaggiose, ai sensi dell'articolo 108, previa verifica del possesso dei requisiti di partecipazione previsti per l'affidamento di contratti di uguale importo mediante procedura aperta, ristretta o mediante procedura competitiva con negoziazione.
 
-### PARTE III - DEI BANDI, DEGLI AVVISI E DEGLI INVITI
+## PARTE III - DEI BANDI, DEGLI AVVISI E DEGLI INVITI
 
 ###### Articolo 159
 
@@ -4006,7 +4006,7 @@ Le motivazioni si fondano sui criteri di qualificazione di cui all'articolo 168.
 
 4\. Le stazioni appaltanti o gli enti concedenti possono revocare la qualificazione solo per ragioni fondate sui criteri di qualificazione di cui all'articolo 168, informando per iscritto l'operatore economico delle ragioni a fondamento della stessa, almeno quindici giorni prima della data fissata per la decisione.
 
-### PARTE IV - DELLA SELEZIONE DEI PARTECIPANTI E DELLE OFFERTE
+## PARTE IV - DELLA SELEZIONE DEI PARTECIPANTI E DELLE OFFERTE
 
 ###### Articolo 167
 
@@ -4110,9 +4110,9 @@ Servizi sociali e altri servizi assimilati.
 
 1\. Fermo restando quanto previsto dall'articolo 141, comma 2, per l'aggiudicazione degli appalti di servizi sociali e di altri servizi assimilati di cui all'allegato XIV alla direttiva 2014/24/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014 nei settori speciali di cui al presente Libro si applicano gli articoli 127, 128, 129, 130 e 131, fermo restando quanto previsto dal Titolo VII del codice del Terzo settore, di cui al decreto legislativo 3 luglio 2017, n. 117.
 
-## LIBRO IV - DEL PARTENARIATO PUBBLICO-PRIVATO E DELLE CONCESSIONI
+### LIBRO IV - DEL PARTENARIATO PUBBLICO-PRIVATO E DELLE CONCESSIONI
 
-### PARTE I - DISPOSIZIONI GENERALI
+## PARTE I - DISPOSIZIONI GENERALI
 
 ###### Articolo 174
 
@@ -4162,7 +4162,7 @@ L'operatore economico fornisce tutte le informazioni necessarie allo scopo, con 
 
 9-bis. ((Il DIPE, di concerto con l'ANAC e con il Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato, approva contratti-tipo in materia di partenariato pubblico-privato, con riferimento ai contratti di cui alle Parti II, III, IV e V del presente Libro.))
 
-### PARTE II - DEI CONTRATTI DI CONCESSIONE
+## PARTE II - DEI CONTRATTI DI CONCESSIONE
 
 #### Titolo I - L'ambito di applicazione e i principi generali
 
@@ -4600,7 +4600,7 @@ Obbligazioni delle societa' di scopo.
 
 7\. Le garanzie reali, personali e di qualunque altra natura, incluse le cessioni di credito a scopo di garanzia che assistono le obbligazioni e i titoli di debito, possono essere costituite in favore dei sottoscrittori o anche di un loro rappresentante che sara' legittimato a esercitare in nome e per conto dei sottoscrittori tutti i diritti, sostanziali e processuali, relativi alle garanzie medesime.
 
-### PARTE III - DELLA LOCAZIONE FINANZIARIA
+## PARTE III - DELLA LOCAZIONE FINANZIARIA
 
 ###### Articolo 196
 
@@ -4628,7 +4628,7 @@ L'ente concedente puo' concedere il diritto di superficie sull'area pubblica dov
 
 10\. Il contratto prevede la facolta' di riscatto anticipato.
 
-### PARTE IV - DEL CONTRATTO DI DISPONIBILITÀ
+## PARTE IV - DEL CONTRATTO DI DISPONIBILITÀ
 
 ###### Articolo 197
 
@@ -4664,7 +4664,7 @@ b) di un prezzo di trasferimento, da pagare al termine del contratto, determinat
 
 13\. Il contratto determina i casi e i modi di modificazione del contratto, anche attraverso la riduzione del canone di disponibilita', idonei a ricondurlo a equita', anche tenendo conto della esigenza di tutelare i creditori indicati all'articolo 199.
 
-### PARTE V - ALTRE DISPOSIZIONI IN MATERIA DI PARTENARIATO PUBBLICO-PRIVATO
+## PARTE V - ALTRE DISPOSIZIONI IN MATERIA DI PARTENARIATO PUBBLICO-PRIVATO
 
 ###### Articolo 198
 
@@ -4740,7 +4740,7 @@ AGGIORNAMENTO (9)
 
 Il D.Lgs. 31 dicembre 2024, n. 209, ha disposto (con l'art. 60, comma 1) che "All'articolo 202, comma 1, del decreto legislativo 31 marzo 2023, n. 36, le parole: «dei bandi-tipo e dei contratti-tipo redatti dall'ANAC» sono sostituite dalle seguenti: «dei bandi-tipo predisposti dall'ANAC e dei contratti-tipo predisposti dal DIPE, di concerto con l'Autorita' di regolazione di settore e con il Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato»".
 
-### PARTE VI - DEI SERVIZI GLOBALI
+## PARTE VI - DEI SERVIZI GLOBALI
 
 ###### Articolo 203
 
@@ -4882,9 +4882,9 @@ disposizioni normative o da provvedimenti di altre autorita'.
 
 4\. Si applica l'articolo 204, commi 11, 12, 13, 14 e 18.
 
-## LIBRO V - DEL CONTENZIOSO E DELL'AUTORITÀ NAZIONALE ANTICORRUZIONE. DISPOSIZIONI FINALI E TRANSITORIE
+### LIBRO V - DEL CONTENZIOSO E DELL'AUTORITÀ NAZIONALE ANTICORRUZIONE. DISPOSIZIONI FINALI E TRANSITORIE
 
-### PARTE I - DEL CONTENZIOSO
+## PARTE I - DEL CONTENZIOSO
 
 #### Titolo I - I ricorsi giurisdizionali
 
@@ -5162,7 +5162,7 @@ Pareri di precontenzioso e legittimazione ad agire dell'ANAC.
 
 4\. L'ANAC, con proprio regolamento, puo' individuare i casi o le tipologie di provvedimenti, anche relativi alla fase esecutiva, con riferimento ai quali esercita i poteri di cui ai commi precedenti.
 
-### PARTE II - DELLA GOVERNANCE
+## PARTE II - DELLA GOVERNANCE
 
 ###### Articolo 221
 
@@ -5308,7 +5308,7 @@ h) verifica l'avanzamento dei lavori anche attraverso sopralluoghi tecnico-ammin
 
 10\. Il Ministero delle infrastrutture e dei trasporti assicura, anche attraverso la piattaforma del Servizio Contratti Pubblici, il supporto e l'assistenza necessari alle stazioni appaltanti per l'applicazione della disciplina di settore, in collaborazione con le regioni e le province autonome di Trento e di Bolzano nell'ambito delle attivita' che queste esercitano ai sensi del codice.
 
-### PARTE III - DISPOSIZIONI TRANSITORIE, DI COORDINAMENTO E ABROGAZIONI
+## PARTE III - DISPOSIZIONI TRANSITORIE, DI COORDINAMENTO E ABROGAZIONI
 
 ###### Articolo 224
 
@@ -6834,7 +6834,7 @@ Tabella 1
 
 ## ALLEGATO I.7
 
-### SEZIONE I - QUADRO ESIGENZIALE, DOCUMENTO DI FATTIBILITÀ DELLE ALTERNATIVE PROGETTUALI, DOCUMENTO DI INDIRIZZO ALLA PROGETTAZIONE
+**SEZIONE I - QUADRO ESIGENZIALE, DOCUMENTO DI FATTIBILITÀ DELLE ALTERNATIVE PROGETTUALI, DOCUMENTO DI INDIRIZZO ALLA PROGETTAZIONE**
 
 ALLEGATO I.7
 
@@ -7028,7 +7028,7 @@ e) somme a disposizione della stazione appaltante per:
 
 2\. Le voci del quadro economico relative a imprevisti, di cui al comma 1, lettera e), numero 5), e a eventuali lavori in amministrazione diretta, di cui al comma 1 lettera e), numero 1), sono definite entro una soglia compresa tra il 5 e il 10 per cento dell'importo dei lavori a base di gara, comprensivo dei costi della sicurezza.
 
-### SEZIONE II - PROGETTO DI FATTIBILITÀ TECNICO-ECONOMICA
+**SEZIONE II - PROGETTO DI FATTIBILITÀ TECNICO-ECONOMICA**
 
 ###### Articolo 6
 
@@ -7700,7 +7700,7 @@ e) piano particellare di esproprio ove necessario;
 
 f) capitolato informativo, se previsto.
 
-### SEZIONE III - PROGETTO ESECUTIVO
+**SEZIONE III - PROGETTO ESECUTIVO**
 
 ###### Articolo 22
 
@@ -8142,7 +8142,7 @@ Piano particellare di esproprio.
 
 6-bis. ((Nei casi di cui al comma 6, la relazione specialistica sulla modellazione informativa riporta l'equivalenza tra i contenuti informativi presenti nel piano particellare di esproprio dell'intervento e quelli eventualmente presenti nei modelli informativi e GIS, oltre alla descrizione del processo di generazione dell'elaborato predetto a partire dai modelli informativi e GIS.))
 
-### SEZIONE IV - VERIFICA DELLA PROGETTAZIONE
+**SEZIONE IV - VERIFICA DELLA PROGETTAZIONE**
 
 ###### Articolo 34
 
@@ -9656,7 +9656,7 @@ Parte di provvedimento in formato grafico
 
 ## ((ALLEGATO II.2-bis
 
-### SEZIONE I - DISPOSIZIONI GENERALI))
+**SEZIONE I - DISPOSIZIONI GENERALI))**
 
 ((Allegato II.2-bis))
 
@@ -9694,9 +9694,7 @@ Parte di provvedimento in formato grafico
 
 3\. ((Le clausole di revisione dei prezzi si applicano nella misura del 90 per cento del valore eccedente la variazione del 3 per cento per i lavori e nella misura dell'80 per cento del valore eccedente la variazione del 5 per cento per i servizi e forniture, applicata alle prestazioni da eseguire dopo l'attivazione della clausola di revisione.))
 
-### ((SEZIONE II - REVISIONE PREZZI PER
-
-#### I CONTRATTI DI LAVORI))
+**((SEZIONE II - REVISIONE PREZZI PER I CONTRATTI DI LAVORI))**
 
 ###### Articolo 4
 
@@ -9782,9 +9780,7 @@ b) in caso di varianti di tipo qualitativo, la composizione dell'indice sintetic
 
 2\. ((L'indice sintetico individuato ai sensi del comma 1 e' ricalcolato in sede di predisposizione del progetto esecutivo, tenuto conto di eventuali variazioni apportate dal medesimo progetto esecutivo. Resta fermo il valore di riferimento per il calcolo dell'indice sintetico di cui all'articolo 4, comma 2, terzo periodo.))
 
-### ((SEZIONE III - REVISIONE PREZZI PER I CONTRATTI
-
-#### DI SERVIZI E FORNITURE))
+**((SEZIONE III - REVISIONE PREZZI PER I CONTRATTI DI SERVIZI E FORNITURE))**
 
 ###### Articolo 10
 
@@ -9860,9 +9856,7 @@ e) nell'ipotesi di cui alla lettera d), procedono alla determinazione delle somm
 
 2\. ((Nelle ipotesi di cui all'articolo 8, comma 2, la determinazione e il pagamento delle somme, in aumento o in diminuzione, dovute a titolo di revisione dei prezzi sono effettuati in coerenza con gli articoli 11, 12 e 13.))
 
-### ((SEZIONE IV - DISPOSIZIONI ECONOMICO-FINANZIARIE
-
-#### E FINALI))
+**((SEZIONE IV - DISPOSIZIONI ECONOMICO-FINANZIARIE E FINALI))**
 
 ###### Articolo 15
 
@@ -10134,7 +10128,7 @@ f) abbia presentato o si impegni a presentare per ciascuno degli esercizi finanz
 
 ## ALLEGATO II.4
 
-### PARTE I - AMBITI E LIVELLI DI QUALIFICAZIONE
+## PARTE I - AMBITI E LIVELLI DI QUALIFICAZIONE
 
 ALLEGATO II.4
 
@@ -10166,7 +10160,7 @@ Ambito di applicazione.
 
 3\. In sede di prima applicazione, sono qualificate con riserva, ai sensi dell'articolo 63, comma 4, secondo periodo, del codice, le stazioni appaltanti delle unioni di comuni costituite nelle forme previste dall'ordinamento, delle provincie e delle citta' metropolitane, dei comuni capoluogo di provincia e delle regioni.
 
-### PARTE II - REQUISITI DI QUALIFICAZIONE
+## PARTE II - REQUISITI DI QUALIFICAZIONE
 
 ###### Articolo 3
 
@@ -10300,7 +10294,7 @@ Qualificazione con riserva e termine del periodo transitorio.
 
 3\. A decorrere dal 1° gennaio 2024, le stazioni appaltanti di cui al comma 1 presentano domanda di iscrizione per l'iscrizione a regime negli elenchi delle stazioni appaltanti e delle centrali di committenza qualificate.
 
-### PARTE III - ISCRIZIONE ALL'ELENCO DELLE STAZIONI APPALTANTI E DELLE CENTRALI DI COMMITTENZA QUALIFICATE E SANZIONI
+## PARTE III - ISCRIZIONE ALL'ELENCO DELLE STAZIONI APPALTANTI E DELLE CENTRALI DI COMMITTENZA QUALIFICATE E SANZIONI
 
 ###### Articolo 10
 
@@ -10350,7 +10344,7 @@ Sanzioni per informazioni fuorvianti o non veritiere.
 
 1\. Qualora le verifiche di cui agli articoli 10, comma 3 e 11, comma 3 accertino violazioni delle disposizioni del codice in materia di qualificazione delle centrali di committenza e delle stazioni appaltanti, l'ANAC puo' attivare, nei casi e nei termini previsti dall'articolo 63, comma 11, del codice, con le modalita' previste nei propri regolamenti, il potere sanzionatorio nei confronti del rappresentante legale della stazione appaltante e della centrale di committenza.
 
-### PARTE IV - COMPETENZA DELL'ANAC
+## PARTE IV - COMPETENZA DELL'ANAC
 
 ###### Articolo 13
 
@@ -11580,7 +11574,7 @@ Parte di provvedimento in formato grafico
 
 ## ALLEGATO II.12
 
-### PARTE I - Disposizioni generali
+## PARTE I - Disposizioni generali
 
 ALLEGATO II.12
 
@@ -11658,7 +11652,7 @@ Nel medesimo termine, la stessa comunicazione e' inviata alle SOA, che avvia il 
 
 5\. La regolarita' dei certificati di qualita' deve essere riscontrata dalle SOA mediante il collegamento informatico con gli elenchi ufficiali tenuti dagli enti partecipanti all'European cooperation for Accreditation (EA) o all'International Accreditation Forum (IAF).
 
-### PARTE II - Autorizzazione degli organismi di attestazione
+## PARTE II - Autorizzazione degli organismi di attestazione
 
 ###### Articolo 5
 
@@ -11920,7 +11914,7 @@ Attivita' delle SOA.
 
 4\. Qualora l'operatore economico non risponda alle richieste della SOA di cui al comma 1, la stessa informa l'ANAC che procede ai sensi dell'articolo 14, commi 1, 2 e 3.
 
-### PARTE III - Requisiti per la qualificazione
+## PARTE III - Requisiti per la qualificazione
 
 ###### Articolo 16
 
@@ -12252,7 +12246,7 @@ Decadenza dell'attestazione di qualificazione.
 
 2\. Durante l'esecuzione dei lavori, le stazioni appaltanti verificano, attraverso il casellario informatico, che non sia intervenuta, nei confronti dell'esecutore e del subappaltatore, la decadenza dell'attestazione di qualificazione per aver prodotto falsa documentazione o dichiarazioni mendaci. Ove sia intervenuta la decadenza dell'attestazione dell'esecutore, si procede ai sensi dell'articolo 122, comma 2, lettera a), del codice; ove sia intervenuta la decadenza dell'attestazione del subappaltatore, la stazione appaltante pronuncia la decadenza dell'autorizzazione di cui all'articolo 119, comma 4, del codice, dandone contestuale segnalazione all'ANAC per l'inserimento nel casellario informatico.
 
-### PARTE IV - Soggetti abilitati ad assumere lavori
+## PARTE IV - Soggetti abilitati ad assumere lavori
 
 ###### Articolo 30
 
@@ -12322,7 +12316,7 @@ d) svolgimento negli ultimi cinque anni di almeno un servizio affine a quello pr
 
 5\. Qualora, ai sensi dell'articolo 193 del codice, sia necessario apportare modifiche al progetto presentato dal promotore ai fini dell'approvazione dello stesso, il promotore, ovvero i concorrenti successivi in graduatoria che accettano di apportare le modifiche, devono comunque possedere, anche associando o consorziando altri soggetti, gli eventuali ulteriori requisiti, rispetto a quelli previsti dal bando di gara, necessari per l'esecuzione del progetto.
 
-### PARTE V - Requisiti per la partecipazione alle procedure di affidamento dei servizi di ingegneria e architettura
+## PARTE V - Requisiti per la partecipazione alle procedure di affidamento dei servizi di ingegneria e architettura
 
 ###### Articolo 34
 
@@ -12458,7 +12452,7 @@ Verifica dei requisiti e delle capacita'.
 
 1-bis. ((Nei servizi di architettura e ingegneria e negli altri servizi tecnici, i requisiti economico-finanziari sono dimostrati tramite una copertura assicurativa con massimale pari al dieci per cento dell'importo delle opere o, in alternativa, da un fatturato globale maturato nei migliori tre esercizi degli ultimi cinque anni antecedenti la pubblicazione del bando e non superiore al valore stimato dell'appalto; per i requisiti di capacita' tecnica e professionale, le stazioni appaltanti possono richiedere di aver eseguito, nei precedenti dieci anni dalla data di indizione della procedura di gara, contratti analoghi a quelli in affidamento, sia a favore di soggetti pubblici che di quelli privati.))
 
-### PARTE VI - Qualificazione dei contraenti generali
+## PARTE VI - Qualificazione dei contraenti generali
 
 ###### Articolo 41
 
@@ -12904,9 +12898,9 @@ Parte di provvedimento in formato grafico
 
 ## ALLEGATO II.14
 
-### CAPO I - DELL'ESECUZIONE DEI CONTRATTI DI LAVORI
+##### CAPO I - DELL'ESECUZIONE DEI CONTRATTI DI LAVORI
 
-#### Sezione I - Direzione dei lavori
+**Sezione I - Direzione dei lavori**
 
 ALLEGATO II.14
 
@@ -13026,7 +13020,7 @@ h) l'assistenza al coordinatore per l'esecuzione.
 
 4\. Quando si utilizzano i metodi e gli strumenti di cui all'articolo 43 del codice e all'allegato I.9 al codice, all'interno dell'ufficio di direzione dei lavori e' nominato un coordinatore dei flussi informativi. Tale ruolo puo' essere svolto dal direttore dei lavori ovvero da un direttore operativo gia' incaricato, se in possesso di adeguate competenze.
 
-#### Sezione II - Esecuzione in senso stretto
+**Sezione II - Esecuzione in senso stretto**
 
 ###### Articolo 3
 
@@ -13328,7 +13322,7 @@ n) tutto cio' che puo' interessare la storia cronologica dell'esecuzione, aggiun
 
 11-bis. ((Per i lavori di importo inferiore a 40.000 euro e' consentita la tenuta di una contabilita' semplificata, previa verifica da parte del direttore dei lavori della corrispondenza del lavoro svolto con quanto fatturato, tenendo conto dei lavori effettivamente eseguiti. Il certificato di regolare esecuzione puo' essere sostituito con l'apposizione del visto del direttore dei lavori sulle fatture di spesa.))
 
-#### Sezione III - Collaudo
+**Sezione III - Collaudo**
 
 ###### Articolo 13
 
@@ -13766,7 +13760,7 @@ b) abilitazione all'esercizio della professione, nonche' iscrizione nel rispetti
 
 7\. Il compenso spettante per il collaudo statico, distinto dal compenso per il collaudo tecnico-amministrativo, e' determinato secondo quanto previsto dall'articolo 29.
 
-### CAPO II - DELL'ESECUZIONE DEI CONTRATTI DI SERVIZI E FORNITURE
+##### CAPO II - DELL'ESECUZIONE DEI CONTRATTI DI SERVIZI E FORNITURE
 
 ###### Articolo 31
 
@@ -14276,7 +14270,7 @@ Disposizioni finali.
 
 ## ALLEGATO II.18
 
-### Titolo I - Disposizioni generali
+#### Titolo I - Disposizioni generali
 
 Allegato II.18
 
@@ -14314,9 +14308,9 @@ Specificita' degli interventi.
 
 1\. Ai sensi degli articoli 1, commi 3 e 4, e 29 del Codice dei beni culturali e del paesaggio, ferma restando la procedura di cui all'articolo 12 del medesimo Codice dei beni culturali e del paesaggio, gli interventi sui beni culturali sono inseriti nei documenti di programmazione dei lavori pubblici di cui all' articolo 37, commi 1 e 2, del codice e sono eseguiti secondo i tempi, le priorita' e le altre indicazioni derivanti dal criterio della conservazione programmata. A tal fine le stazioni appaltanti, sulla base della ricognizione e dello studio dei beni affidati alla loro custodia, redigono un documento sullo stato di conservazione del singolo bene, tenendo conto della pericolosita' territoriale e della vulnerabilita', delle risultanze, evidenziate nel piano di manutenzione e nel consuntivo scientifico, delle attivita' di prevenzione e degli eventuali interventi pregressi di manutenzione e restauro. Per i beni archeologici tale documento illustra anche i risultati delle indagini diagnostiche.
 
-### Titolo II - Requisiti di qualificazione
+#### Titolo II - Requisiti di qualificazione
 
-#### Capo I - Requisiti di qualificazione degli esecutori di lavori riguardanti i beni culturali
+##### Capo I - Requisiti di qualificazione degli esecutori di lavori riguardanti i beni culturali
 
 ###### Articolo 4
 
@@ -14412,7 +14406,7 @@ c) essere iscritte alla competente camera di commercio, industria, artigianato e
 
 2\. I requisiti di cui al comma 1, autocertificati ai sensi del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, sono dichiarati in sede di domanda di partecipazione o in sede di offerta e sono accompagnati da una certificazione di buon esito dei lavori rilasciata dall'autorita' preposta alla tutela dei beni su cui si e' intervenuti. La loro effettiva sussistenza e' accertata dalla stazione appaltante secondo le vigenti disposizioni in materia. Per i lavori e le attivita' di cui al comma 1, di importo complessivo non superiore a 40.000 euro, la certificazione di buon esito dei lavori puo' essere rilasciata anche da una amministrazione aggiudicatrice.
 
-#### Capo II - Requisiti di qualificazione dei direttori tecnici
+##### Capo II - Requisiti di qualificazione dei direttori tecnici
 
 ###### Articolo 11
 
@@ -14436,9 +14430,9 @@ c) relativamente alla categoria OS 25, ((ad archeologi)) in possesso dei titoli 
 
 6\. In caso di lavori di importo inferiore a 150.000 euro i requisiti sono autocertificati e sottoposti alle verifiche e controlli di cui al testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445.
 
-### Titolo III - Progettazione e direzione di lavori riguardanti i beni culturali
+#### Titolo III - Progettazione e direzione di lavori riguardanti i beni culturali
 
-#### Capo I - Livelli e contenuti della progettazione
+##### Capo I - Livelli e contenuti della progettazione
 
 ###### Articolo 12
 
@@ -14614,7 +14608,7 @@ c) nei casi di lavori di scavo archeologico, comprese le indagini archeologiche 
 
 2\. Il RUP puo' disporre motivatamente che la verifica riguardi soltanto il livello di progettazione posto alla base dell'affidamento dei lavori.
 
-#### Capo II - Soggetti incaricati dell'attività di progettazione e direzione lavori
+##### Capo II - Soggetti incaricati dell'attività di progettazione e direzione lavori
 
 ###### Articolo 19
 
@@ -14628,7 +14622,7 @@ Progettazione, direzione lavori e attivita' accessorie.
 
 4\. Le attivita' di cui ai commi 1, 2 e 3 possono essere espletate da funzionari tecnici delle stazioni appaltanti, in possesso di adeguata professionalita' in relazione all'intervento da attuare.
 
-### Titolo IV - Somma urgenza
+#### Titolo IV - Somma urgenza
 
 ###### Articolo 20
 
@@ -14636,7 +14630,7 @@ Tipi di intervento per i quali e' consentita l'esecuzione di lavori con il regim
 
 1\. L'esecuzione dei lavori di cui al presente allegato e' consentita nei casi di somma urgenza, nei quali ogni ritardo sia pregiudizievole alla pubblica incolumita' o alla tutela del bene, per rimuovere lo stato di pregiudizio e pericolo e fino all'importo di 300.000 euro, secondo le modalita' e le procedure di cui all'articolo 140 del codice.
 
-### Titolo V - Esecuzione, varianti e collaudo dei lavori riguardanti i beni culturali
+#### Titolo V - Esecuzione, varianti e collaudo dei lavori riguardanti i beni culturali
 
 ###### Articolo 21
 

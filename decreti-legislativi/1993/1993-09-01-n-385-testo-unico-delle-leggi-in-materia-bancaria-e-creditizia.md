@@ -38,7 +38,7 @@ EMANA
 
 il seguente decreto legislativo:
 
-##### Art. 1
+###### Art. 1
 
 Definizioni
 
@@ -236,9 +236,9 @@ i) "punto di contatto centrale": il soggetto o la struttura designato dalle banc
 
 3-quater. Se non diversamente disposto, ai fini della disciplina dei servizi di pagamento, nel presente decreto si applicano le definizioni del decreto legislativo 27 gennaio 2010, n. 11.
 
-## TITOLO I - AUTORITA' CREDITIZIE
+### TITOLO I - AUTORITA' CREDITIZIE
 
-##### Art. 2
+###### Art. 2
 
 Comitato interministeriale per il credito e il risparmio
 
@@ -254,7 +254,7 @@ Esso delibera nelle materie attribuite alla sua competenza dal presente decreto 
 
 Il CICR determina le norme concernenti la propria organizzazione e il proprio funzionamento. Per l'esercizio delle proprie funzioni il CICR si avvale della Banca d'Italia.
 
-##### Art. 3
+###### Art. 3
 
 (( Ministro dell'economia e delle finanze ))
 
@@ -262,7 +262,7 @@ Il CICR determina le norme concernenti la propria organizzazione e il proprio fu
 
 2\. In caso di urgenza il (( Ministro dell'economia e delle finanze )) sostituisce il CICR. Dei provvedimenti assunti e' data notizia al CICR nella prima riunione successiva, che deve essere convocata entro trenta giorni.
 
-##### Art. 4
+###### Art. 4
 
 Banca d'Italia
 
@@ -276,7 +276,7 @@ Banca d'Italia
 
 ((4-bis. Nell'esercizio delle funzioni previste dal presente decreto legislativo, alla Banca d'Italia, ai componenti dei suoi organi nonche' ai suoi dipendenti si applica l'articolo 24, comma 6-bis, della legge 28 dicembre 2005, n. 262.))
 
-##### Art. 5
+###### Art. 5
 
 Finalita' e destinatari della vigilanza
 
@@ -286,7 +286,7 @@ Finalita' e destinatari della vigilanza
 
 3\. Le autorita' creditizie esercitano altresi' gli altri poteri a esse attribuiti dalla legge.
 
-##### Art. 6
+###### Art. 6
 
 ((Rapporti con il diritto dell'Unione europea e integrazione nel SEVIF, nel MVU e nel MRU))
 
@@ -300,7 +300,7 @@ Finalita' e destinatari della vigilanza
 
 4\. Nei casi e nei modi previsti dalle disposizioni dell'Unione europea, la Banca d'Italia puo' concludere accordi con l'ABE e con le autorita' di vigilanza di altri Stati membri che prevedano anche la ripartizione di compiti e la delega di funzioni nonche' ricorrere all'ABE per la risoluzione delle controversie con le autorita' di vigilanza degli altri Stati membri in situazioni transfrontaliere.
 
-##### Art. 6-bis
+###### Art. 6-bis
 
 (( (Partecipazione al MVU e poteri della Banca d'Italia).))
 
@@ -326,7 +326,7 @@ f) esercita i poteri ad essa attribuiti dal presente decreto che non siano attri
 
 5\. Nell'esercizio delle rispettive competenze la Banca d'Italia e la BCE operano in stretta collaborazione, secondo il principio di leale cooperazione.))
 
-##### Art. 7
+###### Art. 7
 
 Segreto d'ufficio e collaborazione tra autorita'
 
@@ -352,7 +352,7 @@ Segreto d'ufficio e collaborazione tra autorita'
 
 10-bis. La Banca d'Italia e' il punto di contatto per la ricezione delle richieste di informazioni o di collaborazione provenienti dalle autorita' di altri Stati membri dell'Unione europea in relazione ai contratti di credito disciplinati dal capo I-bis del titolo VI.
 
-##### Art. 8
+###### Art. 8
 
 Pubblicazione di provvedimenti e di dati statistici
 
@@ -362,7 +362,7 @@ Pubblicazione di provvedimenti e di dati statistici
 
 3\. La Banca d'Italia pubblica elaborazioni e dati statistici relativi ai soggetti sottoposti a vigilanza.
 
-##### Art. 9
+###### Art. 9
 
 Reclamo al CICR
 
@@ -410,13 +410,11 @@ Reclamo al CICR
 
 > Art. 6 (Silenzio). - Decorso il termine di novanta giorni dalla data di presentazione delricorso senza che l'organo adito abbia comunicato la decisione, il ricorso si intende respinto a tutti gli effetti, e contro il provvedimento impugnato e' esperibile il ricorso all'autorita' giurisdizionale competente, o quello straordinario al Presidente della Repubblica".
 
-## TITOLO II - BANCHE
+### TITOLO II - BANCHE
 
-### Capo I - NOZIONE DI ATTIVITA' BANCARIA
+#### Capo I - NOZIONE DI ATTIVITA' BANCARIA E DI RACCOLTA DEL RISPARMIO
 
-#### E DI RACCOLTA DEL RISPARMIO
-
-##### Art. 10
+###### Art. 10
 
 Attivita' bancaria
 
@@ -426,7 +424,7 @@ Attivita' bancaria
 
 3\. Le banche esercitano, oltre all'attivita' bancaria, ogni altra attivita' finanziaria, secondo la disciplina propria di ciascuna, nonche' attivita' connesse o strumentali. Sono salve le riserve di attivita' previste dalla legge.
 
-##### Art. 11
+###### Art. 11
 
 Raccolta del risparmio
 
@@ -460,7 +458,7 @@ d) alle altre ipotesi di raccolta espressamente consentite dalla legge, nel risp
 
 5\. Nei casi previsti dal comma 4, lettere c) e d), sono comunque precluse la raccolta di fondi a vista ed ogni forma di raccolta collegata all'emissione od alla gestione di mezzi di pagamento a spendibilita' generalizzata.
 
-##### Art. 12
+###### Art. 12
 
 Obbligazioni e titoli di deposito emessi dalle banche
 
@@ -486,7 +484,7 @@ AGGIORNAMENTO (5)
 
 Il D.Lgs. 23 luglio 1996, n. 415 ha disposto (con l'art. 64, comma 4, lettera a)) che "a) il comma 2 e' abrogato, ma continua ad applicarsi fino alla data indicata nell'autorizzazione all'esercizio del mercato regolamentato previsto dall'articolo 56 nel quale sono negoziate le obbligazioni bancarie;[...]".
 
-##### Art. 12-bis - Strumenti di debito chirografario di secondo livello
+###### Art. 12-bis - Strumenti di debito chirografario di secondo livello
 
 1\. Sono strumenti di debito chirografario di secondo livello le obbligazioni e gli altri titoli di debito, emessi da una banca ((o da uno degli altri soggetti di cui all'articolo 2 del decreto legislativo 16 novembre 2015, n. 180)), aventi le seguenti caratteristiche:
 
@@ -502,7 +500,7 @@ c) la documentazione contrattuale e, se previsto, il prospetto di offerta o di a
 
 4\. La Banca d'Italia puo' disciplinare l'emissione e le caratteristiche degli strumenti di debito chirografario di secondo livello.
 
-##### Art. 12-ter
+###### Art. 12-ter
 
 (( (Valore nominale unitario minimo delle obbligazioni e degli altri strumenti di debito).))
 
@@ -520,11 +518,9 @@ AGGIORNAMENTO (98)
 
 Il D.Lgs. 8 novembre 2021, n. 193, ha disposto (con l'art. 8, comma 3) che "L'articolo 12-ter del decreto legislativo 1° settembre 1993, n. 385, introdotto dal presente decreto, si applica solo alle obbligazioni e agli strumenti di debito emessi dopo la data di entrata in vigore del presente decreto".
 
-## Capo II - AUTORIZZAZIONE ALL'ATTIVITA' BANCARIA, SUCCURSALI
+#### Capo II - AUTORIZZAZIONE ALL'ATTIVITA' BANCARIA, SUCCURSALI E LIBERA PRESTAZIONE DI SERVIZI
 
-### E LIBERA PRESTAZIONE DI SERVIZI
-
-##### Art. 13
+###### Art. 13
 
 Albo
 
@@ -532,7 +528,7 @@ Albo
 
 2\. Le banche indicano negli atti e nella corrispondenza l'iscrizione nell'albo.
 
-##### Art. 14
+###### Art. 14
 
 Autorizzazione all'attivita' bancaria
 
@@ -582,7 +578,7 @@ AGGIORNAMENTO (118)
 
 Il D.Lgs. 31 dicembre 2025, n. 208, ha disposto (con l'art. 4, comma 1) che "Gli articoli 14, 15 e 16 del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, modificati dall'articolo 1, comma 1, lettere d), f) e g), del presente decreto e gli articoli 14-bis, 58-ter, 58-quater, 58-quinquies, commi 2, 3, 4, 5, 6 e 7, 58-sexies e 58-septies del testo unico di cui al decreto legislativo n. 385 del 1993, introdotti dall'articolo 1, comma 1, lettere e) e t), del presente decreto, si applicano a partire dall'11 gennaio 2027. Fino a tale data, continuano ad applicarsi gli articoli 14, 15 e 16 del testo unico di cui al decreto legislativo n. 385 del 1993, nella versione antecedente alle modifiche apportate dal presente decreto".
 
-##### Art. 14-bis
+###### Art. 14-bis
 
 (( (Autorizzazione allo stabilimento di succursali di banche di Stato terzo).))
 
@@ -662,7 +658,7 @@ Il D.Lgs. 31 dicembre 2025, n. 208, ha disposto (con l'art. 4, comma 1) che "Gli
 
 Ha inoltre disposto (con l'art. 4, comma 2) che "In deroga a quanto previsto dall'articolo 14-bis, comma 2, del testo unico di cui al decreto legislativo n. 385 del 1993, introdotto dall'articolo 1, comma 1, lettera e), del presente decreto, dall'11 gennaio 2027 le banche di Stato terzo possono continuare a esercitare, senza stabilimento di succursali, le attivita' strettamente necessarie alla gestione dei contratti relativi alle attivita' di cui all'articolo 1, comma 2, lettera f), numeri 1, 2 e 6, del testo unico di cui al decreto legislativo n. 385 del 1993, conclusi prima dell'11 luglio 2026, senza possibilita' di novazione o di rinnovo. In ogni caso, i contratti a tempo indeterminato sono estinti o trasferiti ad altri intermediari autorizzati entro il 10 gennaio 2028. E' fatta salva la possibilita' di prosecuzione del rapporto su iniziativa esclusiva del cliente".
 
-##### Art. 15
+###### Art. 15
 
 Succursali
 
@@ -678,7 +674,7 @@ Succursali
 
 5\. La Banca d'Italia, nei casi in cui sia previsto l'esercizio di attivita' di intermediazione mobiliare, da' notizia alla CONSOB delle comunicazioni ricevute ai sensi ((dei commi 01 e 3)) e dell'apertura di succursali all'estero da parte di banche italiane.
 
-##### Art. 16
+###### Art. 16
 
 Libera prestazione di servizi
 
@@ -700,13 +696,13 @@ AGGIORNAMENTO (118)
 
 Il D.Lgs. 31 dicembre 2025, n. 208, ha disposto (con l'art. 4, comma 1) che "Gli articoli 14, 15 e 16 del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, modificati dall'articolo 1, comma 1, lettere d), f) e g), del presente decreto e gli articoli 14-bis, 58-ter, 58-quater, 58-quinquies, commi 2, 3, 4, 5, 6 e 7, 58-sexies e 58-septies del testo unico di cui al decreto legislativo n. 385 del 1993, introdotti dall'articolo 1, comma 1, lettere e) e t), del presente decreto, si applicano a partire dall'11 gennaio 2027. Fino a tale data, continuano ad applicarsi gli articoli 14, 15 e 16 del testo unico di cui al decreto legislativo n. 385 del 1993, nella versione antecedente alle modifiche apportate dal presente decreto".
 
-##### Art. 17
+###### Art. 17
 
 Attivita' non ammesse al mutuo riconoscimento
 
 1\. La Banca d'Italia ((...)) disciplina l'esercizio di attivita' non ammesse al mutuo riconoscimento comunque effettuato da parte di banche comunitarie nel territorio della Repubblica.
 
-##### Art. 18
+###### Art. 18
 
 Societa' finanziarie ammesse al mutuo riconoscimento
 
@@ -720,9 +716,11 @@ Societa' finanziarie ammesse al mutuo riconoscimento
 
 5\. Alle societa' finanziarie ammesse al mutuo riconoscimento ai sensi del comma 2 si applicano altresi' le disposizioni previste dall'art. 79 , commi 1, 3 e 4.
 
-## Capo III - ((PARTECIPAZIONI NELLE BANCHE))
+#### Capo III
 
-##### Art. 19
+## ((PARTECIPAZIONI NELLE BANCHE))
+
+###### Art. 19
 
 Autorizzazioni
 
@@ -764,7 +762,7 @@ L'autorizzazione puo' essere sospesa o revocata se vengono meno o si modificano 
 
 9\. La Banca d'Italia adotta disposizioni attuative del presente Capo, individuando, tra l'altro: i soggetti tenuti a richiedere l'autorizzazione quando i diritti derivanti dalle partecipazioni indicate nel presente articolo spettano o sono attribuiti ad un soggetto diverso dal titolare delle partecipazioni stesse; i criteri di calcolo dei diritti di voto rilevanti ai fini dell'applicazione delle soglie previste nel presente articolo, ivi inclusi i casi in cui i diritti di voto non sono computati; i casi di cui all'articolo 22, comma 1, lettera b); i criteri per l'individuazione dei casi di influenza notevole e di acquisizione involontaria; le modalita' e i termini del procedimento di valutazione dell'acquisizione ai sensi dei commi 5, 5-bis e 5-ter.
 
-##### Art. 20
+###### Art. 20
 
 Obblighi di comunicazione
 
@@ -784,7 +782,7 @@ AGGIORNAMENTO (97)
 
 Il D.Lgs. 8 novembre 2021, n. 182 ha disposto (con l'art. 3, comma 1) che "L'articolo 20, comma 2-bis, del decreto legislativo 1° settembre 1993, n. 385, come introdotto dal presente decreto, si applica ai fatti e agli atti che si verificano successivamente alla data dell'entrata in vigore della relativa disciplina attuativa, emanata ai sensi dell'articolo 20, comma 3, del decreto legislativo 1° settembre 1993, n. 385".
 
-##### Art. 21
+###### Art. 21
 
 (( (Richiesta di informazioni).))
 
@@ -798,7 +796,7 @@ Il D.Lgs. 8 novembre 2021, n. 182 ha disposto (con l'art. 3, comma 1) che "L'art
 
 5\. ((La Banca d'Italia informa la CONSOB delle richieste che interessano societa' ed enti con titoli negoziati in un mercato regolamentato.))
 
-##### Art. 22
+###### Art. 22
 
 ((Partecipazioni indirette))
 
@@ -818,7 +816,7 @@ Il D.Lgs. 8 novembre 2021, n. 182 ha disposto (con l'art. 3, comma 2) che "L'art
 
 Ha inoltre disposto (con l'art. 3, comma 4) che "Agli accordi conclusi antecedentemente alla data di entrata in vigore della disciplina attuativa emanata ai sensi dell'articolo 22-bis, comma 2, del decreto legislativo 1° settembre 1993, n. 385, come introdotto dal presente decreto, si applica l'articolo 22, comma 1-bis, del decreto legislativo 1° settembre 1993, n. 385, nella versione precedente alle modifiche apportate con il presente decreto".
 
-##### Art. 22-bis
+###### Art. 22-bis
 
 ((Persone che agiscono di concerto))
 
@@ -838,7 +836,7 @@ a) conclusi successivamente alla data di entrata in vigore della disciplina attu
 
 b) conclusi antecedentemente alla data della entrata in vigore della medesima disciplina attuativa, qualora la successiva adesione di altri soggetti comporti il superamento di una delle soglie previste dall'articolo 19, comma 1, del decreto legislativo 1° settembre 1993, n. 385".
 
-##### Art. 23
+###### Art. 23
 
 Nozione di controllo
 
@@ -862,7 +860,7 @@ d) l'attribuzione, a soggetti diversi da quelli legittimati in base alla titolar
 
 4\) assoggettamento a direzione comune, in base alla composizione degli organi amministrativi o per altri concordanti elementi.
 
-##### Art. 24
+###### Art. 24
 
 Sospensione del diritto di voto e degli altri diritti, obbligo di alienazione
 
@@ -874,9 +872,11 @@ Sospensione del diritto di voto e degli altri diritti, obbligo di alienazione
 
 3-bis. Non possono essere esercitati i diritti derivanti dai contratti o dalle clausole statutarie per i quali le autorizzazioni previste dall'articolo 19 non siano state ottenute ovvero siano state sospese o revocate.
 
-## Capo IV - ((PARTECIPANTI AL CAPITALE ED ESPONENTI AZIENDALI))
+#### Capo IV
 
-##### Art. 25 - Partecipanti al capitale
+## ((PARTECIPANTI AL CAPITALE ED ESPONENTI AZIENDALI))
+
+###### Art. 25 - Partecipanti al capitale
 
 1\. I titolari delle partecipazioni indicate all'articolo 19 devono possedere requisiti di onorabilita' e soddisfare criteri di competenza e correttezza in modo da garantire la sana e prudente gestione della banca.
 
@@ -898,7 +898,7 @@ AGGIORNAMENTO (64)
 
 Il D.Lgs. 12 maggio 2015, n. 72 ha disposto (con l'art. 2, comma 8) che "Fino all'entrata in vigore della disciplina attuativa emanata ai sensi dell'articolo 25 del decreto legislativo 1° settembre 1993, n. 385, come modificato dal presente decreto legislativo, continua ad applicarsi l'articolo 25 del decreto legislativo 1° settembre 1993, n. 385, nella versione precedente alle modifiche apportate dal presente decreto legislativo, e la relativa disciplina attuativa".
 
-##### Art. 26 - Esponenti aziendali ((e responsabili delle principali funzioni aziendali)) ). ((118)
+###### Art. 26 - Esponenti aziendali ((e responsabili delle principali funzioni aziendali)) ). ((118)
 
 1\. I soggetti che svolgono funzioni di amministrazione, direzione e controllo presso banche devono essere idonei allo svolgimento dell'incarico.
 
@@ -952,13 +952,13 @@ AGGIORNAMENTO (118)
 
 Il D.Lgs. 31 dicembre 2025, n. 208, ha disposto (con l'art. 4, comma 5) che "L'articolo 26 del testo unico di cui al decreto legislativo n. 385 del 1993, modificato dall'articolo 1, comma 1, lettera i), del presente decreto, e l'articolo 60-bis, comma 3-ter, introdotto dall'articolo 1, comma 1, lettera v), del presente decreto, si applicano alle nomine successive alla data dell'entrata in vigore della disciplina attuativa emanata ai sensi del medesimo articolo 26. Fino a tale data, continuano ad applicarsi l'articolo 26 del testo unico di cui al decreto legislativo n. 385 del 1993, nella versione antecedente alle modifiche apportate dal presente decreto, e la relativa disciplina attuativa, e non si applica l'articolo 60-bis, comma 3-ter, introdotto dal presente decreto".
 
-##### Art. 27
+###### Art. 27
 
 ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 72))
 
-## Capo V - BANCHE COOPERATIVE
+#### Capo V - BANCHE COOPERATIVE
 
-##### Art. 28
+###### Art. 28
 
 Norme applicabili
 
@@ -970,9 +970,9 @@ Norme applicabili
 
 ((2-ter. Nelle banche popolari e nelle banche di credito cooperativo il diritto al rimborso delle azioni nel caso di recesso, anche a seguito di trasformazione, morte o esclusione del socio, e' limitato secondo quanto previsto dalla Banca d'Italia, anche in deroga a norme di legge, laddove cio' sia necessario ad assicurare la computabilita' delle azioni nel patrimonio di vigilanza di qualita' primaria della banca. Agli stessi fini, la Banca d'Italia puo' limitare il diritto al rimborso degli altri strumenti di capitale emessi.))
 
-## Sezione I - Banche popolari
+##### Sezione I - Banche popolari
 
-##### Art. 29
+###### Art. 29
 
 Norme generali
 
@@ -1026,7 +1026,7 @@ AGGIORNAMENTO (90)
 
 Il D.L. 24 gennaio 2015, n. 3, convertito con modificazioni dalla L. 24 marzo 2015, n. 33, come modificato dal D.L. 16 luglio 2020, n. 76, convertito con modificazioni dalla L. 11 settembre 2020, n. 120, ha disposto (con l'art. 1, comma 2) che "In sede di prima applicazione del presente decreto, le banche popolari autorizzate al momento dell'entrata in vigore del presente decreto si adeguano a quanto stabilito ai sensi dell'articolo 29, commi 2-bis e 2-ter, del decreto legislativo 1° settembre 1993, n. 385, introdotti dal presente articolo, entro il 31 dicembre 2021".
 
-##### Art. 30
+###### Art. 30
 
 Soci
 
@@ -1072,7 +1072,7 @@ AGGIORNAMENTO (39)
 
 Il D.L. 29 dicembre 2010, n. 225, convertito con modificazioni dalla L. 26 febbraio 2011, n. 10, ha disposto (con l'art. 2, comma 17-quaterdecies), che il termine di un anno per l'adempimento del dovere di alienazione di cui al presente articolo, comma 2, terzo periodo, e' ulteriormente prorogato al 31 dicembre 2014 per i soggetti che alla data del 31 dicembre 2009 detenevano una partecipazione al capitale sociale superiore ai limiti fissati dal primo periodo del citato comma 2, qualora il superamento del limite derivi da operazioni di concentrazione tra banche oppure tra investitori, fermo restando che tale partecipazione non potra' essere incrementata.
 
-##### Art. 31
+###### Art. 31
 
 (( (Trasformazioni e fusioni). ))
 
@@ -1086,7 +1086,7 @@ b) in seconda convocazione, con la maggioranza di due terzi dei voti espressi, q
 
 3\. Si applicano gli articoli 56 e 57.))
 
-##### Art. 32
+###### Art. 32
 
 Utili
 
@@ -1094,7 +1094,7 @@ Utili
 
 2\. La quota di utili non assegnata a riserva legale, ad altre riserve, ad altre destinazioni previste dallo statuto o non distribuita ai soci, e' destinata a beneficenza o assistenza.
 
-##### Art. 32-bis
+###### Art. 32-bis
 
 (( (Morte del socio).))
 
@@ -1104,15 +1104,15 @@ Utili
 
 3\. Gli eredi ai quali il consiglio di amministrazione abbia rifiutato l'ammissione a socio o nei confronti dei quali abbia accertato l'insussistenza dei requisiti di ammissione hanno diritto al rimborso delle azioni, salvo quanto previsto dall'articolo 28, comma 2-ter.))
 
-##### Art. 32-ter
+###### Art. 32-ter
 
 (( (Criteri di valutazione delle azioni in caso di rimborso).))
 
 ((1. Fermo restando quanto previsto dall'articolo 28, comma 2-ter, in tutti i casi di rimborso delle azioni a seguito di recesso, morte nel caso previsto dall'articolo 32-bis, comma 3, o esclusione del socio, ai fini della determinazione del valore di rimborso delle azioni si applicano i criteri di cui all'articolo 2437-ter, secondo e quarto comma, del codice civile. Nel caso in cui le azioni siano quotate in mercati regolamentati si applicano i criteri di cui all'articolo 2437-ter, terzo comma, del codice civile)).
 
-## Sezione II - Banche di credito cooperativo
+##### Sezione II - Banche di credito cooperativo
 
-##### Art. 33
+###### Art. 33
 
 Norme generali
 
@@ -1140,7 +1140,7 @@ AGGIORNAMENTO (67)
 
 Il D.L. 14 febbraio 2016, n. 18, convertito con modificazioni dalla L. 8 aprile 2016, n. 49, ha disposto (con l'art. 2-bis, comma 1) che "Durante la fase di costituzione di gruppi bancari cooperativi, l'obbligo di cui all'articolo 33, comma 1-bis, del decreto legislativo 1º settembre 1993, n. 385, introdotto dal presente decreto, e' assolto, anche ai sensi e per gli effetti di cui al comma 3 dell'articolo 2 del presente decreto e fino alla data di adesione della banca di credito cooperativo ad un gruppo bancario cooperativo, dall'adesione della stessa a un Fondo temporaneo delle banche di credito cooperativo, promosso dalla Federazione italiana delle banche di credito cooperativo-casse rurali ed artigiane mediante strumento di natura privatistica".
 
-##### Art. 34
+###### Art. 34
 
 Soci
 
@@ -1164,7 +1164,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 24 giugno 1998, n. 213 ha disposto (con l'art. 4, comma 2) che la modifica apportata all'art. 34, comma 4 del presente provvedimento decorre dal 1 gennaio 2002.
 
-##### Art. 35
+###### Art. 35
 
 Operativita'
 
@@ -1172,7 +1172,7 @@ Operativita'
 
 2\. Gli statuti contengono le norme relative alle attivita', alle operazioni di impiego e di raccolta e alla competenza territoriale, ((nonche' ai poteri attribuiti alla capogruppo ai sensi dell'articolo 37-bis,)) determinate sulla base dei criteri fissati dalla Banca d'Italia.
 
-##### Art. 36
+###### Art. 36
 
 Fusioni e trasformazioni
 
@@ -1184,7 +1184,7 @@ Fusioni e trasformazioni
 
 3\. Si applicano gli articoli 56, comma 2, e 57 ((...)).
 
-##### Art. 37
+###### Art. 37
 
 Utili
 
@@ -1194,7 +1194,7 @@ Utili
 
 3\. La quota di utili che non e' assegnata ai sensi dei commi precedenti e che non e' utilizzata per la rivalutazione delle azioni o assegnata ad altre riserve o distribuita ai soci deve essere destinata a fini di beneficenza o mutualita'.
 
-##### Art. 37-bis
+###### Art. 37-bis
 
 Gruppo Bancario Cooperativo
 
@@ -1258,7 +1258,7 @@ c) ai requisiti specifici, compreso il requisito minimo di patrimonio netto dell
 
 8\. Al gruppo bancario cooperativo si applicano, in quanto compatibili, le disposizioni del Titolo III, Capo II.
 
-##### Art. 37-ter
+###### Art. 37-ter
 
 ((Costituzione del gruppo bancario cooperativo))
 
@@ -1274,13 +1274,11 @@ b) un elenco delle banche di credito cooperativo e delle altre societa' che inte
 
 4\. Il contratto e' trasmesso alla Banca d'Italia, che provvede all'iscrizione del gruppo nell'albo dei gruppi. Successivamente, si da' corso all'iscrizione nel registro delle imprese ai sensi dell'articolo 2497-bis, secondo comma, del codice civile.))
 
-## Capo VI - NORME RELATIVE
+#### Capo VI - NORME RELATIVE A PARTICOLARI OPERAZIONI DI CREDITO
 
-### A PARTICOLARI OPERAZIONI DI CREDITO - Sezione I
+##### Sezione I - Credito fondiario e alle opere pubbliche
 
-#### Credito fondiario e alle opere pubbliche
-
-##### Art. 38
+###### Art. 38
 
 Nozione di credito fondiario
 
@@ -1288,7 +1286,7 @@ Nozione di credito fondiario
 
 2\. La Banca d'Italia, in conformita' delle deliberazioni del CICR, determina l'ammontare massimo dei finanziamenti, individuandolo in rapporto al valore dei beni ipotecati o al costo delle opere da eseguire sugli stessi, nonche' le ipotesi in cui la presenza di precedenti iscrizioni ipotecarie non impedisce la concessione dei finanziamenti.
 
-##### Art. 39
+###### Art. 39
 
 Ipoteche
 
@@ -1330,7 +1328,7 @@ AGGIORNAMENTO (104)
 
 Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 4 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
 
-##### Art. 40
+###### Art. 40
 
 Estinzione anticipata e risoluzione del contratto
 
@@ -1338,7 +1336,7 @@ Estinzione anticipata e risoluzione del contratto
 
 2\. La banca puo' invocare come causa di risoluzione del contratto il ritardato pagamento quando lo stesso si sia verificato almeno sette volte, anche non consecutive. A tal fine costituisce ritardato pagamento quello effettuato tra il trentesimo e il centoottantesimo giorno dalla scadenza della rata.
 
-##### Art. 40-bis
+###### Art. 40-bis
 
 Cancellazione delle ipoteche
 
@@ -1360,7 +1358,7 @@ AGGIORNAMENTO (38)
 
 Il D.Lgs. 13 agosto 2010, n. 141, come modificato dall'art. 4, comma 2 del D.Lgs. 14 dicembre 2010, n. 218, ha disposto (con l'art. 6, comma 2) che "Le disposizioni contenute nel titolo II del presente decreto entrano in vigore il centoventesimo giorno successivo alla sua pubblicazione. Le disposizioni che a tale data risultano adottate dalle Autorita' creditizie in base a norme modificate o sostituite dal titolo II rimangono in vigore in quanto compatibili".
 
-##### Art. 41
+###### Art. 41
 
 Procedimento esecutivo
 
@@ -1376,7 +1374,7 @@ Procedimento esecutivo
 
 6\. Il trasferimento del bene espropriato e il subentro nel contratto di finanziamento previsto dal comma 5 restano subordinati all'emanazione del decreto previsto dall'articolo 586 del codice di procedura civile.
 
-##### Art. 42
+###### Art. 42
 
 Nozione di credito alle opere pubbliche
 
@@ -1388,9 +1386,9 @@ Nozione di credito alle opere pubbliche
 
 4\. Quando i finanziamenti siano garantiti da ipoteca su immobili, si applica la disciplina prevista dalla presente sezione per le operazioni di credito fondiario.
 
-## Sezione II - Credito agrario e peschereccio
+##### Sezione II - Credito agrario e peschereccio
 
-##### Art. 43
+###### Art. 43
 
 Nozione
 
@@ -1402,7 +1400,7 @@ Nozione
 
 4\. Le operazioni di credito agrario e di credito peschereccio possono essere effettuate mediante utilizzo, rispettivamente, di cambiale agraria e di cambiale pesca. La cambiale agraria e la cambiale pesca devono indicare lo scopo del finanziamento e le garanzie che lo assistono, nonche' il luogo dell'iniziativa finanziata. La cambiale agraria e la cambiale pesca sono equiparate a ogni effetto di legge alla cambiale ordinaria.
 
-##### Art. 44
+###### Art. 44
 
 (( (Garanzie).))
 
@@ -1428,13 +1426,13 @@ AGGIORNAMENTO (1)
 
 Il D.L. 4 gennaio 1994, n. 1, convertito, senza modificazioni, dalla L. 17 febbraio 1994, n. 135 ha disposto (con l'art. 2, comma 1) che " Il presente decreto ha effetto dal 1 gennaio 1994[...]."
 
-##### Art. 45
+###### Art. 45
 
 (( ARTICOLO ABROGATO DAL D.LGS. 29 DICEMBRE 2006, N. 303 ))
 
-## Sezione III - Altre operazioni
+##### Sezione III - Altre operazioni
 
-##### Art. 46
+###### Art. 46
 
 Finanziamenti alle imprese: costituzione di privilegi
 
@@ -1462,7 +1460,7 @@ La trascrizione deve effettuarsi presso i competenti uffici del luogo ove ha sed
 
 6\. Gli onorari notarili sono ridotti alla meta'.
 
-##### Art. 47
+###### Art. 47
 
 (( (Finanziamenti agevolati e gestione di fondi pubblici).))
 
@@ -1478,13 +1476,13 @@ AGGIORNAMENTO (13)
 
 Il D.Lgs. 4 agosto 1999, n. 342 ha disposto (con l'art. 9, comma 2) che la stipulazione dei contratti, prevista dall'articolo 47, comma 2 deve avvenire entro il 1 luglio 2000.
 
-##### Art. 48
+###### Art. 48
 
 (( (Credito su pegno).))
 
 1\. ((Le banche possono intraprendere l'esercizio del credito su pegno di cose mobili disciplinato dalla legge 10 maggio 1938, n. 745, e dal regio decreto 25 maggio 1939, n. 1279, dotandosi delle necessarie strutture e dandone comunicazione alla Banca d'Italia.))
 
-##### Art. 48-bis
+###### Art. 48-bis
 
 (( (Finanziamento alle imprese garantito da trasferimento di bene immobile sospensivamente condizionato).))
 
@@ -1522,9 +1520,9 @@ Entro sessanta giorni dalla nomina, il perito comunica, ove possibile a mezzo di
 
 13-ter. La trascrizione del patto di cui al comma 1 produce gli effetti di cui all'articolo 2855 del codice civile, avendo riguardo, in luogo del pignoramento, alla notificazione della dichiarazione di cui al comma 5.))
 
-## Capo VII - ASSEGNI CIRCOLARI E DECRETO INGIUNTIVO
+#### Capo VII - ASSEGNI CIRCOLARI E DECRETO INGIUNTIVO
 
-##### Art. 49
+###### Art. 49
 
 Assegni circolari
 
@@ -1532,17 +1530,17 @@ Assegni circolari
 
 2\. La Banca d'Italia ((...)) determina la misura, la composizione e le modalita' per il versamento della cauzione che le banche emittenti sono tenute a costituire presso la medesima Banca d'Italia a fronte della circolazione degli assegni indicati nel comma 1.
 
-##### Art. 50
+###### Art. 50
 
 Decreto ingiuntivo
 
 1\. La Banca d'Italia e le banche possono chiedere il decreto d'ingiunzione previsto dall'art. 633 del codice di procedura civile anche in base all'estratto conto, certificato conforme alle scritture contabili da uno dei dirigenti della banca interessata, il quale deve altresi' dichiarare che il credito e' vero e liquido.
 
-## TITOLO III - VIGILANZA
+### TITOLO III - VIGILANZA
 
-### Capo I - VIGILANZA SULLE BANCHE
+#### Capo I - VIGILANZA SULLE BANCHE
 
-##### Art. 51
+###### Art. 51
 
 Vigilanza informativa
 
@@ -1564,7 +1562,7 @@ d) la revoca dell'incarico di revisione legale dei conti, fornendo adeguate spie
 
 1-quinquies. Le previsioni del comma 1 si applicano anche ai soggetti ai quali le banche abbiano esternalizzato funzioni aziendali ((...)) e al loro personale.
 
-##### Art. 52
+###### Art. 52
 
 Comunicazioni del collegio sindacale e dei soggetti incaricati della revisione legale dei conti
 
@@ -1588,7 +1586,7 @@ AGGIORNAMENTO (36)
 
 Il D.Lgs. 27 gennaio 2010, n. 39 ha disposto (con l'art. 43, comma 1, lettera h)) che il comma 2-bis dell'articolo 52 del presente decreto legislativo e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
 
-##### Art. 52-bis
+###### Art. 52-bis
 
 (( (Sistemi interni di segnalazione delle violazioni).))
 
@@ -1608,7 +1606,7 @@ c) assicurare per la segnalazione un canale specifico, indipendente e autonomo.
 
 5\. La Banca d'Italia emana disposizioni attuative del presente articolo.))
 
-##### Art. 52-ter - Segnalazione di violazioni alla Banca d'Italia
+###### Art. 52-ter - Segnalazione di violazioni alla Banca d'Italia
 
 1\. La Banca d'Italia riceve, da parte del personale delle banche e delle relative capogruppo, segnalazioni che si riferiscono a violazioni riguardanti norme del titolo II e III, nonche' atti dell'Unione europea direttamente applicabili nelle stesse materie.
 
@@ -1620,7 +1618,7 @@ c) assicurare per la segnalazione un canale specifico, indipendente e autonomo.
 
 ((4-bis. La Banca d'Italia inoltra alla BCE le segnalazioni ricevute, quando esse riguardano soggetti significativi o violazioni di regolamenti o decisioni della BCE. La Banca d'Italia puo' ricevere dalla BCE le segnalazioni relative a soggetti meno significativi. Nei casi previsti dal presente comma, la Banca d'Italia e la BCE scambiano informazioni nei modi e per le finalita' stabiliti dalle disposizioni del MVU.))
 
-##### Art. 53
+###### Art. 53
 
 Vigilanza regolamentare
 
@@ -1660,7 +1658,7 @@ b) sistemi interni di misurazione dei rischi per la determinazione dei requisiti
 
 4-sexies. E' nullo qualunque patto o clausola non conforme alle disposizioni in materia di sistemi di remunerazione e di incentivazione emanate ai sensi del comma 1, lettera d), o contenute in atti dell'Unione europea direttamente applicabili. La nullita' della clausola non comporta la nullita' del contratto. Le previsioni contenute nelle clausole nulle sono sostituite di diritto, ove possibile, con i parametri indicati nelle disposizioni suddette nei valori piu' prossimi alla pattuizione originaria.
 
-##### Art. 53-bis
+###### Art. 53-bis
 
 (Poteri di intervento.
 
@@ -1678,7 +1676,7 @@ e) disporre, qualora la loro permanenza in carica sia di pregiudizio per la sana
 
 2\. La Banca d'Italia puo' altresi' convocare gli amministratori, i sindaci e il personale dei soggetti ai quali siano state esternalizzate funzioni aziendali.
 
-##### Art. 53-ter
+###### Art. 53-ter
 
 (( (Misure macroprudenziali).))
 
@@ -1686,7 +1684,7 @@ e) disporre, qualora la loro permanenza in carica sia di pregiudizio per la sana
 
 2\. I poteri di vigilanza attribuiti alla Banca d'Italia dal presente decreto legislativo possono essere esercitati, per finalita' macroprudenziali, anche nei confronti di soggetti significativi.))
 
-##### Art. 54
+###### Art. 54
 
 Vigilanza ispettiva
 
@@ -1700,13 +1698,13 @@ Vigilanza ispettiva
 
 5\. La Banca d'Italia da' notizia alla CONSOB delle comunicazioni ricevute ai sensi del comma 3.
 
-##### Art. 55
+###### Art. 55
 
 Controlli sulle succursali in Italia di banche ((dell'Unione europea))
 
 1\. La Banca d'Italia esercita controlli sulle succursali di banche ((dell'Unione europea)) nel territorio della Repubblica, con le modalita' da essa stabilite.
 
-##### Art. 56
+###### Art. 56
 
 Modificazioni statutarie
 
@@ -1714,7 +1712,7 @@ Modificazioni statutarie
 
 2\. Non si puo' dare corso al procedimento per l'iscrizione nel registro delle imprese se non consti l'accertamento previsto dal comma 1.
 
-##### Art. 57
+###### Art. 57
 
 Fusioni e scissioni
 
@@ -1740,7 +1738,7 @@ AGGIORNAMENTO (118)
 
 Il D.Lgs. 31 dicembre 2025, n. 208, ha disposto (con l'art. 4, comma 6) che "L'articolo 57, commi 1, 1-bis, 1-ter, 1-quater e 2, del testo unico di cui al decreto legislativo n. 385 del 1993, modificati o introdotti dall'articolo 1, comma 1, lettera p), del presente decreto, e l'articolo 61-bis, commi 4, 5 e 6, del testo unico di cui al decreto legislativo n. 385 del 1993, introdotto dall'articolo 1, comma 1, lettera aa), del presente decreto, si applicano ai casi che si verificano successivamente alla data di entrata in vigore della relativa disciplina attuativa, emanata ai sensi dell'articolo 57, comma 4-bis, del testo unico di cui al decreto legislativo n. 385 del 1993, come introdotto dall'articolo 1, comma 1, lettera p), del presente decreto. Fino a tale data, continuano ad applicarsi l'articolo 57 del testo unico di cui al decreto legislativo n. 385 del 1993, nella versione antecedente alle modifiche apportate dal presente decreto, e la relativa disciplina attuativa".
 
-##### Art. 57-bis
+###### Art. 57-bis
 
 (( (Partecipazioni rilevanti).))
 
@@ -1776,7 +1774,7 @@ AGGIORNAMENTO (118)
 
 Il D.Lgs. 31 dicembre 2025, n. 208, ha disposto (con l'art. 4, comma 7) che "L'articolo 57-bis del testo unico di cui al decreto legislativo n. 385 del 1993, introdotto dall'articolo 1, comma 1, lettera q), del presente decreto, si applica ai casi che si verificano successivamente alla data di entrata in vigore della relativa disciplina attuativa, emanata ai sensi dell'articolo 57-bis, comma 10, del decreto legislativo n. 385 del 1993, introdotto dal presente decreto. Fino a tale data, continuano ad applicarsi l'articolo 53 del testo unico di cui al decreto legislativo n. 385 del 1993, nella versione antecedente alle modifiche apportate dal presente decreto, e la relativa disciplina attuativa".
 
-##### Art. 58
+###### Art. 58
 
 Cessione di rapporti giuridici
 
@@ -1802,7 +1800,7 @@ AGGIORNAMENTO (118))
 
 Il D.Lgs. 31 dicembre 2025, n. 208, ha disposto (con l'art. 4, comma 8) che "L'articolo 58 del testo unico di cui al decreto legislativo n. 385 del 1993, modificato dall'articolo 1, comma 1, lettera r), del presente decreto, e gli articoli 58-bis e 61-bis, comma 1, secondo periodo, del testo unico di cui al decreto legislativo n. 385 del 1993, introdotti dall'articolo 1, comma 1, lettere s) e aa), del presente decreto, si applicano ai casi che si verificano successivamente alla data di entrata in vigore delle disposizioni attuative richiamate all'articolo 58-bis, comma 1, del testo unico di cui al decreto legislativo n. 385 del 1993, introdotto dal presente decreto. Fino a tale data, continuano ad applicarsi l'articolo 58 del decreto legislativo n. 385 del 1993, nella versione antecedente alle modifiche apportate dal presente decreto, e la relativa disciplina attuativa".
 
-##### Art. 58-bis
+###### Art. 58-bis
 
 (( (Trasferimenti rilevanti di attivita' o passivita').))
 
@@ -1814,11 +1812,11 @@ AGGIORNAMENTO (118))
 
 Il D.Lgs. 31 dicembre 2025, n. 208, ha disposto (con l'art. 4, comma 8) che "L'articolo 58 del testo unico di cui al decreto legislativo n. 385 del 1993, modificato dall'articolo 1, comma 1, lettera r), del presente decreto, e gli articoli 58-bis e 61-bis, comma 1, secondo periodo, del testo unico di cui al decreto legislativo n. 385 del 1993, introdotti dall'articolo 1, comma 1, lettere s) e aa), del presente decreto, si applicano ai casi che si verificano successivamente alla data di entrata in vigore delle disposizioni attuative richiamate all'articolo 58-bis, comma 1, del testo unico di cui al decreto legislativo n. 385 del 1993, introdotto dal presente decreto. Fino a tale data, continuano ad applicarsi l'articolo 58 del decreto legislativo n. 385 del 1993, nella versione antecedente alle modifiche apportate dal presente decreto, e la relativa disciplina attuativa".
 
-## ((Capo I-bis - Succursali di banche di Stato terzo))
+#### ((Capo I-bis - Succursali di banche di Stato terzo))
 
-### ((Sezione I - Classificazione e regime applicabile))
+##### ((Sezione I - Classificazione e regime applicabile))
 
-##### Art. 58-ter
+###### Art. 58-ter
 
 (( (Succursali qualificate e classificazione delle succursali di banche di Stato terzo).))
 
@@ -1840,7 +1838,7 @@ AGGIORNAMENTO (118)
 
 Il D.Lgs. 31 dicembre 2025, n. 208, ha disposto (con l'art. 4, comma 1) che "Gli articoli 14, 15 e 16 del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, modificati dall'articolo 1, comma 1, lettere d), f) e g), del presente decreto e gli articoli 14-bis, 58-ter, 58-quater, 58-quinquies, commi 2, 3, 4, 5, 6 e 7, 58-sexies e 58-septies del testo unico di cui al decreto legislativo n. 385 del 1993, introdotti dall'articolo 1, comma 1, lettere e) e t), del presente decreto, si applicano a partire dall'11 gennaio 2027. Fino a tale data, continuano ad applicarsi gli articoli 14, 15 e 16 del testo unico di cui al decreto legislativo n. 385 del 1993, nella versione antecedente alle modifiche apportate dal presente decreto".
 
-##### Art. 58-quater
+###### Art. 58-quater
 
 (( (Regime applicabile).))
 
@@ -1856,9 +1854,9 @@ AGGIORNAMENTO (118)
 
 Il D.Lgs. 31 dicembre 2025, n. 208, ha disposto (con l'art. 4, comma 1) che "Gli articoli 14, 15 e 16 del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, modificati dall'articolo 1, comma 1, lettere d), f) e g), del presente decreto e gli articoli 14-bis, 58-ter, 58-quater, 58-quinquies, commi 2, 3, 4, 5, 6 e 7, 58-sexies e 58-septies del testo unico di cui al decreto legislativo n. 385 del 1993, introdotti dall'articolo 1, comma 1, lettere e) e t), del presente decreto, si applicano a partire dall'11 gennaio 2027. Fino a tale data, continuano ad applicarsi gli articoli 14, 15 e 16 del testo unico di cui al decreto legislativo n. 385 del 1993, nella versione antecedente alle modifiche apportate dal presente decreto".
 
-## ((Sezione II - Vigilanza))
+##### ((Sezione II - Vigilanza))
 
-##### Art. 58-quinquies
+###### Art. 58-quinquies
 
 (( (Vigilanza).))
 
@@ -1884,7 +1882,7 @@ AGGIORNAMENTO (118)
 
 Il D.Lgs. 31 dicembre 2025, n. 208, ha disposto (con l'art. 4, comma 1) che "Gli articoli 14, 15 e 16 del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, modificati dall'articolo 1, comma 1, lettere d), f) e g), del presente decreto e gli articoli 14-bis, 58-ter, 58-quater, 58-quinquies, commi 2, 3, 4, 5, 6 e 7, 58-sexies e 58-septies del testo unico di cui al decreto legislativo n. 385 del 1993, introdotti dall'articolo 1, comma 1, lettere e) e t), del presente decreto, si applicano a partire dall'11 gennaio 2027. Fino a tale data, continuano ad applicarsi gli articoli 14, 15 e 16 del testo unico di cui al decreto legislativo n. 385 del 1993, nella versione antecedente alle modifiche apportate dal presente decreto".
 
-##### Art. 58-sexies
+###### Art. 58-sexies
 
 (( (Conto di garanzia per il deposito della dotazione di capitale e conto delle attivita' liquide).))
 
@@ -1918,7 +1916,7 @@ AGGIORNAMENTO (118)
 
 Il D.Lgs. 31 dicembre 2025, n. 208, ha disposto (con l'art. 4, comma 1) che "Gli articoli 14, 15 e 16 del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, modificati dall'articolo 1, comma 1, lettere d), f) e g), del presente decreto e gli articoli 14-bis, 58-ter, 58-quater, 58-quinquies, commi 2, 3, 4, 5, 6 e 7, 58-sexies e 58-septies del testo unico di cui al decreto legislativo n. 385 del 1993, introdotti dall'articolo 1, comma 1, lettere e) e t), del presente decreto, si applicano a partire dall'11 gennaio 2027. Fino a tale data, continuano ad applicarsi gli articoli 14, 15 e 16 del testo unico di cui al decreto legislativo n. 385 del 1993, nella versione antecedente alle modifiche apportate dal presente decreto".
 
-##### Art. 58-septies
+###### Art. 58-septies
 
 (( (Misure e poteri di vigilanza).))
 
@@ -1960,9 +1958,9 @@ AGGIORNAMENTO (118)
 
 Il D.Lgs. 31 dicembre 2025, n. 208, ha disposto (con l'art. 4, comma 1) che "Gli articoli 14, 15 e 16 del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, modificati dall'articolo 1, comma 1, lettere d), f) e g), del presente decreto e gli articoli 14-bis, 58-ter, 58-quater, 58-quinquies, commi 2, 3, 4, 5, 6 e 7, 58-sexies e 58-septies del testo unico di cui al decreto legislativo n. 385 del 1993, introdotti dall'articolo 1, comma 1, lettere e) e t), del presente decreto, si applicano a partire dall'11 gennaio 2027. Fino a tale data, continuano ad applicarsi gli articoli 14, 15 e 16 del testo unico di cui al decreto legislativo n. 385 del 1993, nella versione antecedente alle modifiche apportate dal presente decreto".
 
-## Capo II - VIGILANZA SU BASE CONSOLIDATA
+#### Capo II - VIGILANZA SU BASE CONSOLIDATA
 
-##### Art. 59
+###### Art. 59
 
 Definizioni
 
@@ -1982,9 +1980,9 @@ d) per «coordinatore del conglomerato finanziario» si intende l'autorita' indi
 
 1-bis. COMMA ABROGATO DAL D.LGS. 16 APRILE 2012, N. 45.
 
-## Sezione I - Gruppo bancario
+##### Sezione I - Gruppo bancario
 
-##### Art. 60
+###### Art. 60
 
 Composizione
 
@@ -2006,7 +2004,7 @@ AGGIORNAMENTO (97)
 
 Il D.Lgs. 8 novembre 2021, n. 182 ha disposto (con l'art. 3, comma 6) che "Fino all'entrata in vigore delle disposizioni della Banca d'Italia di attuazione del Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385, come modificato dal presente decreto, continua ad applicarsi il Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385 nella versione precedente alle modifiche apportate dal presente decreto, e la relativa disciplina attuativa."
 
-##### Art. 60-bis
+###### Art. 60-bis
 
 Autorizzazione delle societa' di partecipazione finanziaria e delle societa' di partecipazione finanziaria mista capogruppo.
 
@@ -2074,7 +2072,7 @@ AGGIORNAMENTO (118)
 
 Il D.Lgs. 31 dicembre 2025, n. 208, ha disposto (con l'art. 4, comma 5) che "L'articolo 26 del testo unico di cui al decreto legislativo n. 385 del 1993, modificato dall'articolo 1, comma 1, lettera i), del presente decreto, e l'articolo 60-bis, comma 3-ter, introdotto dall'articolo 1, comma 1, lettera v), del presente decreto, si applicano alle nomine successive alla data dell'entrata in vigore della disciplina attuativa emanata ai sensi del medesimo articolo 26. Fino a tale data, continuano ad applicarsi l'articolo 26 del testo unico di cui al decreto legislativo n. 385 del 1993, nella versione antecedente alle modifiche apportate dal presente decreto, e la relativa disciplina attuativa, e non si applica l'articolo 60-bis, comma 3-ter, introdotto dal presente decreto".
 
-##### Art. 60-ter
+###### Art. 60-ter
 
 ((Esclusione delle societa' di partecipazione finanziaria e delle societa' di partecipazione finanziaria mista dal perimetro di consolidamento))
 
@@ -2100,7 +2098,7 @@ c) ((la societa' di partecipazione finanziaria o di partecipazione finanziaria m
 
 7\. ((La Banca d'Italia emana disposizioni attuative del presente articolo, con particolare riguardo alla procedura di autorizzazione, alle modalita' di presentazione dell'istanza, al coordinamento con le autorizzazioni previste dagli articoli 14, 19, 57-bis e 60-bis, nonche' alla nozione di partecipazione e ai criteri di valutazione delle condizioni di cui al comma 1.))
 
-##### Art. 61
+###### Art. 61
 
 (( (Ruolo della capogruppo) )) ((97))
 
@@ -2122,7 +2120,7 @@ AGGIORNAMENTO (97)
 
 Il D.Lgs. 8 novembre 2021, n. 182 ha disposto (con l'art. 3, comma 6) che "Fino all'entrata in vigore delle disposizioni della Banca d'Italia di attuazione del Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385, come modificato dal presente decreto, continua ad applicarsi il Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385 nella versione precedente alle modifiche apportate dal presente decreto, e la relativa disciplina attuativa."
 
-##### Art. 61-bis
+###### Art. 61-bis
 
 (( (Ulteriori disposizioni applicabili alle societa' di partecipazione finanziaria e di partecipazione finanziaria mista capogruppo) ))
 
@@ -2150,15 +2148,15 @@ Il D.Lgs. 31 dicembre 2025, n. 208, ha disposto (con l'art. 4, comma 6) che "L'a
 
 Ha inoltre disposto (con l'art. 4, comma 9) che "L'articolo 61-bis, commi 1, primo periodo, 2 e 3, del testo unico di cui al decreto legislativo n. 385 del 1993, introdotto dall'articolo 1, comma 1, lettera aa), del presente decreto, si applica ai casi che si verificano successivamente alla data di entrata in vigore della relativa disciplina attuativa, emanata ai sensi dell'articolo 61-bis, comma 7, del testo unico di cui al decreto legislativo n. 385 del 1993, introdotto dal presente decreto. Fino a tale data, continuano ad applicarsi l'articolo 67 del testo unico di cui al decreto legislativo n. 385 del 1993, nella versione antecedente alle modifiche apportate dal presente decreto, e la relativa disciplina attuativa".
 
-##### Art. 62
+###### Art. 62
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 182))
 
-##### Art. 63
+###### Art. 63
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 182))
 
-##### Art. 64
+###### Art. 64
 
 Albo
 
@@ -2178,9 +2176,9 @@ AGGIORNAMENTO (97)
 
 Il D.Lgs. 8 novembre 2021, n. 182 ha disposto (con l'art. 3, comma 6) che "Fino all'entrata in vigore delle disposizioni della Banca d'Italia di attuazione del Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385, come modificato dal presente decreto, continua ad applicarsi il Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385 nella versione precedente alle modifiche apportate dal presente decreto, e la relativa disciplina attuativa."
 
-## Sezione II - Ambito ed esercizio della vigilanza
+##### Sezione II - Ambito ed esercizio della vigilanza
 
-##### Art. 65
+###### Art. 65
 
 ((Ambito della vigilanza su base consolidata))
 
@@ -2216,7 +2214,7 @@ AGGIORNAMENTO (97)
 
 Il D.Lgs. 8 novembre 2021, n. 182 ha disposto (con l'art. 3, comma 6) che "Fino all'entrata in vigore delle disposizioni della Banca d'Italia di attuazione del Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385, come modificato dal presente decreto, continua ad applicarsi il Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385 nella versione precedente alle modifiche apportate dal presente decreto, e la relativa disciplina attuativa."
 
-##### Art. 66
+###### Art. 66
 
 Vigilanza informativa
 
@@ -2240,7 +2238,7 @@ AGGIORNAMENTO (97)
 
 Il D.Lgs. 8 novembre 2021, n. 182 ha disposto (con l'art. 3, comma 6) che "Fino all'entrata in vigore delle disposizioni della Banca d'Italia di attuazione del Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385, come modificato dal presente decreto, continua ad applicarsi il Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385 nella versione precedente alle modifiche apportate dal presente decreto, e la relativa disciplina attuativa."
 
-##### Art. 67
+###### Art. 67
 
 Vigilanza regolamentare
 
@@ -2278,7 +2276,7 @@ AGGIORNAMENTO (97)
 
 Il D.Lgs. 8 novembre 2021, n. 182 ha disposto (con l'art. 3, comma 6) che "Fino all'entrata in vigore delle disposizioni della Banca d'Italia di attuazione del Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385, come modificato dal presente decreto, continua ad applicarsi il Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385 nella versione precedente alle modifiche apportate dal presente decreto, e la relativa disciplina attuativa."
 
-##### Art. 67-bis
+###### Art. 67-bis
 
 (( (Disposizioni applicabili alla societa' di partecipazione finanziaria mista capogruppo) )) ((97))
 
@@ -2300,7 +2298,7 @@ AGGIORNAMENTO (97)
 
 Il D.Lgs. 8 novembre 2021, n. 182 ha disposto (con l'art. 3, comma 6) che "Fino all'entrata in vigore delle disposizioni della Banca d'Italia di attuazione del Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385, come modificato dal presente decreto, continua ad applicarsi il Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385 nella versione precedente alle modifiche apportate dal presente decreto, e la relativa disciplina attuativa."
 
-##### Art. 67-ter - Poteri di intervento
+###### Art. 67-ter - Poteri di intervento
 
 1\. La Banca d'Italia puo':
 
@@ -2326,7 +2324,7 @@ AGGIORNAMENTO (97)
 
 Il D.Lgs. 8 novembre 2021, n. 182 ha disposto (con l'art. 3, comma 6) che "Fino all'entrata in vigore delle disposizioni della Banca d'Italia di attuazione del Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385, come modificato dal presente decreto, continua ad applicarsi il Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385 nella versione precedente alle modifiche apportate dal presente decreto, e la relativa disciplina attuativa."
 
-##### Art. 68
+###### Art. 68
 
 Vigilanza ispettiva
 
@@ -2344,7 +2342,7 @@ AGGIORNAMENTO (97)
 
 Il D.Lgs. 8 novembre 2021, n. 182 ha disposto (con l'art. 3, comma 6) che "Fino all'entrata in vigore delle disposizioni della Banca d'Italia di attuazione del Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385, come modificato dal presente decreto, continua ad applicarsi il Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385 nella versione precedente alle modifiche apportate dal presente decreto, e la relativa disciplina attuativa."
 
-##### Art. 69
+###### Art. 69
 
 Collaborazione tra autorita' e obblighi informativi
 
@@ -2372,7 +2370,7 @@ AGGIORNAMENTO (97)
 
 Il D.Lgs. 8 novembre 2021, n. 182 ha disposto (con l'art. 3, comma 6) che "Fino all'entrata in vigore delle disposizioni della Banca d'Italia di attuazione del Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385, come modificato dal presente decreto, continua ad applicarsi il Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385 nella versione precedente alle modifiche apportate dal presente decreto, e la relativa disciplina attuativa."
 
-##### Art. 69.1
+###### Art. 69.1
 
 Autorizzazione delle societa' di partecipazione finanziaria e delle societa' di partecipazione finanziaria mista diverse dalla capogruppo.
 
@@ -2394,7 +2392,7 @@ AGGIORNAMENTO (97)
 
 Il D.Lgs. 8 novembre 2021, n. 182 ha disposto (con l'art. 3, comma 6) che "Fino all'entrata in vigore delle disposizioni della Banca d'Italia di attuazione del Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385, come modificato dal presente decreto, continua ad applicarsi il Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385 nella versione precedente alle modifiche apportate dal presente decreto, e la relativa disciplina attuativa."
 
-##### Art. 69.2
+###### Art. 69.2
 
 Autorizzazione delle societa' di partecipazione finanziaria e delle societa' di partecipazione finanziaria mista appartenenti a gruppi soggetti a vigilanza su base consolidata di competenza di autorita' di vigilanza di altri Stati dell'Unione europea
 
@@ -2414,9 +2412,9 @@ AGGIORNAMENTO (97)
 
 Il D.Lgs. 8 novembre 2021, n. 182 ha disposto (con l'art. 3, comma 6) che "Fino all'entrata in vigore delle disposizioni della Banca d'Italia di attuazione del Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385, come modificato dal presente decreto, continua ad applicarsi il Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385 nella versione precedente alle modifiche apportate dal presente decreto, e la relativa disciplina attuativa."
 
-## ((Sezione III)) - ((Impresa madre intermedia))
+##### ((Sezione III)) - ((Impresa madre intermedia))
 
-##### Art. 69.3
+###### Art. 69.3
 
 ((Impresa madre UE intermedia))
 
@@ -2442,9 +2440,9 @@ b) la risolvibilita' sia resa meno efficiente in base alla valutazione effettuat
 
 8.. La Banca d'Italia emana disposizioni per l'attuazione del presente articolo, con particolare riguardo alle modalita' per il calcolo del valore totale delle attivita' del gruppo di Stato terzo nella Unione europea, ivi incluse quelle delle succursali, e al relativo monitoraggio, nonche' alla procedura per l'istituzione della impresa madre UE intermedia e, nei casi di cui al comma 6, per l'istituzione di due imprese madri UE intermedie.))
 
-## TITOLO IV - ((MISURE PREPARATORIE, DI INTERVENTO PRECOCE E LIQUIDAZIONE COATTA AMMINISTRATIVA))
+### TITOLO IV - ((MISURE PREPARATORIE, DI INTERVENTO PRECOCE E LIQUIDAZIONE COATTA AMMINISTRATIVA))
 
-##### Art. 69-bis - Definizioni
+###### Art. 69-bis - Definizioni
 
 1\. Ai fini del presente titolo si intendono per:
 
@@ -2474,9 +2472,9 @@ i) «sostegno finanziario pubblico straordinario»: gli aiuti di Stato e i soste
 
 l) «succursale significativa»: una succursale di una banca in uno Stato dell'Unione europea considerata significativa dalla Banca d'Italia.
 
-## ((Capo 01-I - PIANI DI RISANAMENTO))
+#### ((Capo 01-I - PIANI DI RISANAMENTO))
 
-##### Art. 69-ter - Ambito di applicazione
+###### Art. 69-ter - Ambito di applicazione
 
 1\. Le disposizioni del presente capo si applicano:
 
@@ -2494,7 +2492,7 @@ AGGIORNAMENTO (97)
 
 Il D.Lgs. 8 novembre 2021, n. 182 ha disposto (con l'art. 1, comma 30, lettera a)) che al comma 1, alla lettera a) del presente articolo, le parole «extracomunitario» sono sostituite dalle seguenti: «di Stato terzo».
 
-##### Art. 69-quater - Piani di risanamento
+###### Art. 69-quater - Piani di risanamento
 
 1\. Le banche si dotano di un piano di risanamento individuale che preveda l'adozione di misure volte al riequilibrio della situazione patrimoniale e finanziaria in caso di suo significativo deterioramento. Il piano riguarda, se di interesse non trascurabile per il risanamento della banca, anche le societa' italiane ed estere incluse nella vigilanza consolidata indicate nell'articolo 69-ter, comma 1, lettera c).
 
@@ -2506,7 +2504,7 @@ Il D.Lgs. 8 novembre 2021, n. 182 ha disposto (con l'art. 1, comma 30, lettera a
 
 5\. Il piano di risanamento e' approvato dall'organo amministrativo, che lo sottopone alla Banca d'Italia per le valutazioni di cui all'articolo 69-sexies. Il piano e' riesaminato e, se necessario, aggiornato almeno annualmente o con la maggiore frequenza richiesta dalla Banca d'Italia. Si procede comunque al riesame e all'eventuale aggiornamento del piano in caso di significativo mutamento della struttura giuridica o organizzativa della banca o della sua situazione patrimoniale o finanziaria.
 
-##### Art. 69-quinquies - Piani di risanamento di gruppo
+###### Art. 69-quinquies - Piani di risanamento di gruppo
 
 1\. La capogruppo italiana di un gruppo bancario si dota di un piano di risanamento di gruppo che individua misure coordinate e coerenti da attuare per se', per ogni societa' del gruppo e, se di interesse non trascurabile per il risanamento del gruppo, per le societa' italiane ed estere incluse nella vigilanza consolidata indicate nell'articolo 69-ter, comma 1, lettera c).
 
@@ -2532,7 +2530,7 @@ c) alle autorita' di risoluzione delle societa' controllate incluse nel piano di
 
 7-ter. Il presente articolo si applica anche ai gruppi bancari cooperativi.
 
-##### Art. 69-sexies - Valutazione dei piani di risanamento individuali e di gruppo
+###### Art. 69-sexies - Valutazione dei piani di risanamento individuali e di gruppo
 
 1\. La Banca d'Italia, entro sei mesi dalla presentazione del piano di risanamento e sentite, per le succursali significative, le autorita' competenti degli Stati ((dell'Unione europea)) in cui esse siano stabilite, verifica la completezza e adeguatezza del piano in conformita' dei criteri indicati nelle pertinenti disposizioni dell'Unione europea.
 
@@ -2548,7 +2546,7 @@ c) ordinare modifiche da apportare all'attivita', alla struttura organizzativa o
 
 4\. Resta ferma la possibilita' di adottare, ove le circostanze lo richiedano, una o piu' delle misure previste dagli articoli 53-bis e 67-ter.
 
-##### Art. 69-septies - Rapporti con le altre autorita' e decisioni congiunte sui piani di risanamento
+###### Art. 69-septies - Rapporti con le altre autorita' e decisioni congiunte sui piani di risanamento
 
 1\. Nei casi e nei modi previsti dalle disposizioni dell'Unione europea, la Banca d'Italia coopera con le autorita' competenti degli altri Stati ((dell'Unione europea)) per la valutazione dei piani di risanamento di gruppo che includono una banca in tali Stati e per l'applicazione delle misure di cui all'articolo 69-sexies, comma 3.
 
@@ -2556,13 +2554,13 @@ Nella valutazione dei piani di risanamento di gruppo la Banca d'Italia tiene con
 
 2\. La Banca d'Italia puo', nei casi previsti dal diritto dell'Unione, promuovere o partecipare a un procedimento di mediazione non vincolante dinanzi all'ABE, richiedere l'assistenza dell'ABE o deferire alla stessa le decisioni di cui al presente articolo. Se una decisione e' stata deferita all'ABE, la Banca d'Italia si astiene dall'adottare provvedimenti e si attiene alle decisioni finali dell'ABE. In mancanza di decisione dell'ABE nei termini previsti dal diritto dell'Unione, la Banca d'Italia adotta i provvedimenti di propria competenza.
 
-##### Art. 69-octies
+###### Art. 69-octies
 
 (( (Misure attuative dei piani di risanamento).))
 
 ((1. La decisione di adottare una misura prevista nel piano di risanamento o di astenersi dall'adottare una misura pur ricorrendone le circostanze e' comunicata senza indugio alla Banca d'Italia.))
 
-##### Art. 69-novies - Trasmissione dei piani di risanamento
+###### Art. 69-novies - Trasmissione dei piani di risanamento
 
 1\. ((Le banche, le societa' di partecipazione finanziaria e le societa' di partecipazione finanziaria mista aventi sede legale in Italia)) controllate da una societa' estera inclusa nella vigilanza consolidata della Banca d'Italia provvedono alla trasmissione dei piani di risanamento, informazioni, documenti e ogni altro dato che debba essere trasmesso tra la societa' estera controllante e la Banca d'Italia.
 
@@ -2574,7 +2572,7 @@ AGGIORNAMENTO (97)
 
 Il D.Lgs. 8 novembre 2021, n. 182 ha disposto (con l'art. 1, comma 35, lettera b)) che al comma 2 del presente articolo, le parole «comunitari» sono sostituite dalle seguenti: «dell'Unione europea».
 
-##### Art. 69-decies
+###### Art. 69-decies
 
 (( (Piani di risanamento in forma semplificata ed esenzioni).))
 
@@ -2582,15 +2580,15 @@ Il D.Lgs. 8 novembre 2021, n. 182 ha disposto (con l'art. 1, comma 35, lettera b
 
 2\. La Banca d'Italia puo' inoltre esentare dal rispetto delle disposizioni del presente capo una banca aderente a un sistema di tutela istituzionale. In tal caso, gli obblighi previsti dal presente capo sono assolti dal sistema di tutela istituzionale in cooperazione con la banca aderente esentata.))
 
-##### Art. 69-undecies
+###### Art. 69-undecies
 
 (( (Disposizioni di attuazione).))
 
 ((1. La Banca d'Italia puo' emanare disposizioni attuative del presente capo, anche per tener conto di orientamenti dell'ABE.))
 
-## ((Capo 02-I - SOSTEGNO FINANZIARIO DI GRUPPO))
+#### ((Capo 02-I - SOSTEGNO FINANZIARIO DI GRUPPO))
 
-##### Art. 69-duodecies - Accordo di gruppo
+###### Art. 69-duodecies - Accordo di gruppo
 
 ((1. La capogruppo di un gruppo bancario, le societa' italiane ed estere appartenenti al gruppo bancario e le altre societa' incluse nella vigilanza consolidata indicate nell'articolo 69-ter, comma 1, lettera c), possono concludere un accordo per fornirsi sostegno finanziario per il caso in cui si realizzino per una di esse i presupposti dell'intervento precoce ai sensi dell'articolo 69-octiesdecies e siano soddisfatte le condizioni indicate nel presente capo. Il medesimo accordo puo' essere concluso anche dalle societa' indicate all'articolo 69.2 con le societa' da essa controllate e le altre societa' soggette a vigilanza su base consolidata in un altro Stato dell'Unione europea.))
 
@@ -2616,7 +2614,7 @@ c) l'accordo indica i criteri di calcolo per determinare, al momento in cui il s
 
 7\. Nessun diritto, pretesa o azione derivante dall'accordo puo' essere esercitato da soggetti diversi dalle parti, neppure ai sensi dell'articolo 2900 del codice civile.
 
-##### Art. 69-terdecies - Autorizzazione dell'accordo
+###### Art. 69-terdecies - Autorizzazione dell'accordo
 
 1\. Il progetto di accordo e' sottoposto all'autorizzazione della Banca d'Italia, che valuta la sua coerenza con le condizioni previste nell'articolo 69-quinquiesdecies, congiuntamente con le altre autorita' competenti sulle banche ((dell'Unione europea)) aderenti all'accordo, in conformita' delle pertinenti disposizioni dell'Unione europea.
 
@@ -2624,7 +2622,7 @@ c) l'accordo indica i criteri di calcolo per determinare, al momento in cui il s
 
 3\. Il progetto di accordo e ogni sua modifica sono trasmessi all'autorita' di risoluzione a seguito dell'autorizzazione di cui al comma 1.
 
-##### Art. 69-quaterdecies
+###### Art. 69-quaterdecies
 
 (( (Approvazione dell'accordo da parte dell'assemblea dei soci e concessione del sostegno). ))
 
@@ -2640,7 +2638,7 @@ c) l'accordo indica i criteri di calcolo per determinare, al momento in cui il s
 
 6\. La delibera di approvazione di un progetto di accordo di cui al comma 1 e' pubblicata con gli stessi mezzi previsti per la pubblicazione delle informazioni ai sensi dell'articolo 53, comma 1, lettera d), unitamente a una descrizione sommaria del contenuto dell'accordo. La Banca d'Italia puo' dettare disposizioni sull'informativa al pubblico dovuta dalle banche e dalle societa' capogruppo sugli accordi di sostegno finanziario di gruppo)).
 
-##### Art. 69-quinquiesdecies - Condizioni per il sostegno
+###### Art. 69-quinquiesdecies - Condizioni per il sostegno
 
 1\. Il sostegno finanziario previsto dall'accordo e' concesso se sono soddisfatte tutte le seguenti condizioni:
 
@@ -2660,7 +2658,7 @@ g) la societa' del gruppo che fornisce il sostegno rispetta, nel momento in cui 
 
 h) la concessione del sostegno finanziario non pregiudica la risolvibilita' della societa' del gruppo che lo fornisce.
 
-##### Art. 69-sexiesdecies - Opposizione della Banca d'Italia e comunicazioni
+###### Art. 69-sexiesdecies - Opposizione della Banca d'Italia e comunicazioni
 
 1\. La delibera di concessione del sostegno e' trasmessa alla Banca d'Italia, che puo' vietare o limitarne l'esecuzione se le condizioni per il sostegno finanziario di gruppo di cui all'articolo 69-quinquiesdecies non sono soddisfatte.
 
@@ -2668,7 +2666,7 @@ h) la concessione del sostegno finanziario non pregiudica la risolvibilita' dell
 
 3\. Il provvedimento della Banca d'Italia di cui al comma 1 e' trasmesso all'ABE, agli altri soggetti indicati al comma 2, nonche', se la Banca d'Italia e' l'autorita' competente per la vigilanza su base consolidati, ai componenti del collegio di risoluzione istituito ai sensi del ((decreto legislativo 16 novembre 2015, n. 180)).
 
-##### Art. 69-septiesdecies - Norme applicabili e disposizioni di attuazione
+###### Art. 69-septiesdecies - Norme applicabili e disposizioni di attuazione
 
 1\. Alla conclusione degli accordi previsti dal presente capo e alla prestazione di sostegno finanziario in loro esecuzione non si applicano le disposizioni di cui all'articolo 53, comma 4, e agli articoli 2391-bis, 2467, 2497-quinquies e 2901 del codice civile, nonche' ((agli articoli 163, 164, 165, 166, 290, 292, 322, comma 1, lettera a), e comma 3, e 323 del codice della crisi e dell'insolvenza)). ((93))((96)) ((104))
 
@@ -2692,11 +2690,11 @@ AGGIORNAMENTO (104)
 
 Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
 
-## Capo I - BANCHE
+#### Capo I - BANCHE
 
-### ((Sezione 01-I - Misure di intervento precoce))
+##### ((Sezione 01-I - Misure di intervento precoce))
 
-##### Art. 69-octiesdecies - Presupposti
+###### Art. 69-octiesdecies - Presupposti
 
 1\. La Banca d'Italia puo' disporre le seguenti misure nei confronti di una banca, una capogruppo italiana di un gruppo bancario o una delle societa' ((indicate agli articoli 69.1 e 69.2)):
 
@@ -2706,7 +2704,7 @@ b) la rimozione degli esponenti di cui all'articolo 69-vicies-semel, quando risu
 
 1-bis. Le misure adottate ai sensi della presente Sezione sono comunicate al Comitato di Risoluzione Unico, quando riguardano i soggetti indicati all'articolo 7, paragrafi 2, 4, lettera b) e 5, del regolamento (UE) n. 806/2014.
 
-##### Art. 69-noviesdecies - Attuazione del piano di risanamento e altre misure
+###### Art. 69-noviesdecies - Attuazione del piano di risanamento e altre misure
 
 1\. Fermi restando i poteri attribuiti dagli articoli 53-bis e 67-ter, la Banca d'Italia, al ricorrere dei presupposti di cui all'articolo 69-octiesdecies, comma 1, lettera a), puo' chiedere alla banca o alla capogruppo italiana di un gruppo bancario o a una delle ((societa' italiane indicate agli articoli 69.1 e 69.2)) di dare attuazione, anche parziale, al piano di risanamento adottato o di preparare un piano per negoziare la ristrutturazione del debito con tutti o alcuni creditori secondo il piano di risanamento, ove applicabile, o di modificare la propria forma societaria.
 
@@ -2716,13 +2714,13 @@ a) richiedere l'aggiornamento del piano di risanamento quando le condizioni che 
 
 b) fissare un termine per l'attuazione del piano e l'eliminazione delle cause che formano presupposto dell'intervento precoce.
 
-##### Art. 69-vicies - Poteri di accertamento e flussi informativi
+###### Art. 69-vicies - Poteri di accertamento e flussi informativi
 
 1\. Quando sia accertata l'esistenza, in relazione a una banca o ad un gruppo bancario, delle circostanze di cui all'articolo 69-octiesdecies, i poteri di vigilanza informativa e ispettiva previsti agli articoli 51, 54, 66 e 67 possono essere esercitati anche al fine di acquisire le informazioni necessarie per l'aggiornamento del piano di risoluzione, l'eventuale esercizio del potere di riduzione o conversione di azioni, di altre partecipazioni e di strumenti di capitale, l'avvio della risoluzione o della liquidazione coatta amministrativa, nonche' per la valutazione prevista dal Titolo IV, Capo I, Sezione II, del ((decreto legislativo 16 novembre 2015, n. 180)).
 
 2\. Le informazioni acquisite ai sensi del comma 1 sono trasmesse alle autorita' di risoluzione.
 
-##### Art. 69-vicies-semel - Rimozione dei componenti degli organi di amministrazione e controllo e dell'alta dirigenza
+###### Art. 69-vicies-semel - Rimozione dei componenti degli organi di amministrazione e controllo e dell'alta dirigenza
 
 1\. Al ricorrere dei presupposti indicati all'articolo 69-octiesdecies, comma 1, lettera b), la Banca d'Italia puo' disporre la rimozione e ordinare il rinnovo di tutti i componenti degli organi con funzione di amministrazione e di controllo delle banche e delle societa' capogruppo di un gruppo bancario. Si applica il comma 4 dell'articolo 70. (97) ((118))
 
@@ -2754,15 +2752,15 @@ Il D.Lgs. 31 dicembre 2025, n. 208, ha disposto (con l'art. 1, comma 1, lettera 
 
 2\) al comma 5, le parole: «di una della societa' indicate all'articolo 69.2» sono sostituite dalle seguenti: «di una delle societa' italiane indicate agli articoli 69.1 e 69.2»;".
 
-##### Art. 69-vicies-bis
+###### Art. 69-vicies-bis
 
 (( (Disposizioni di attuazione). ))
 
 ((1. La Banca d'Italia puo' emanare disposizioni attuative della presente sezione, anche per tener conto di orientamenti dell'ABE)).
 
-## Sezione I - Amministrazione straordinaria
+##### Sezione I - Amministrazione straordinaria
 
-##### Art. 70
+###### Art. 70
 
 Provvedimento
 
@@ -2800,11 +2798,11 @@ AGGIORNAMENTO (104)
 
 Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 7 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
 
-##### Art. 70-bis
+###### Art. 70-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 16 NOVEMBRE 2015, N. 181))
 
-##### Art. 71
+###### Art. 71
 
 Organi della procedura
 
@@ -2824,7 +2822,7 @@ b) un comitato di sorveglianza, composto da tre a cinque membri, che nomina a ma
 
 6\. Agli organi della procedura si (( applica l'articolo 26, comma 3, lettere a) e d) )). I commissari devono, inoltre, possedere le competenze necessarie per svolgere le proprie funzioni ed essere esenti da conflitti di interesse.
 
-##### Art. 72
+###### Art. 72
 
 Poteri e funzionamento degli organi straordinari
 
@@ -2866,7 +2864,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 16 novembre 2015, n. 181 ha disposto (con l'art. 3, comma 3) che i commi 1, 1-bis, 2-bis, 4, 6, 9 e 9-bis del presente articolo, come modificati dal suddetto decreto, si applicano "anche alle procedure di amministrazione straordinaria in corso alla data di entrata in vigore del presente decreto. Per i rimanenti aspetti, alle medesime procedure si continuano ad applicare le disposizioni del titolo IV del decreto legislativo 1° settembre 1993, n. 385, nel testo vigente prima dell'entrata in vigore del presente decreto".
 
-##### Art. 73
+###### Art. 73
 
 Adempimenti iniziali
 
@@ -2888,7 +2886,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 16 novembre 2015, n. 181 ha disposto (con l'art. 1, comma 12) l'introduzione al Titolo IV del Capo 01-I comprendente gli artt. da 69-ter a 69-undecies e del Capo 02-I comprendente gli artt. da 69-duodecies a 69-septiesdecies; (con l'art. 1, comma 13) l'introduzione al Titolo IV, Capo I della Sezione 01-I comprendente gli artt. da 69-octiesdecies a 69-vicies-bis.
 
-##### Art. 74 - Sospensione dei pagamenti
+###### Art. 74 - Sospensione dei pagamenti
 
 1\. Se ricorrono circostanze eccezionali i commissari, al fine di tutelare gli interessi dei creditori, possono sospendere il pagamento delle passivita' di qualsiasi genere da parte della banca ovvero la restituzione degli strumenti finanziari ai clienti relativi ai servizi previsti dal decreto legislativo 24 febbraio 1998, n. 58. Il provvedimento e' assunto sentito il comitato di sorveglianza, previa autorizzazione della Banca d'Italia, che puo' emanare disposizioni per l'attuazione dello stesso. La sospensione ha luogo per un periodo non superiore ad un mese, prorogabile eventualmente, con le stesse formalita', per altri due mesi.
 
@@ -2900,7 +2898,7 @@ Durante lo stesso periodo non possono essere iscritte ipoteche sugli immobili o 
 
 ((3-bis. Quando e' disposta la sospensione di cui al comma 1, la Banca d'Italia effettua la valutazione di cui all'articolo 96-bis.2, comma 01, entro il termine ivi indicato, che decorre da quando la sospensione diventa efficace.))
 
-##### Art. 75
+###### Art. 75
 
 Adempimenti finali
 
@@ -2910,7 +2908,7 @@ Adempimenti finali
 
 3\. I commissari, prima della cessazione delle loro funzioni, provvedono perche' siano ricostituiti gli organi dell'amministrazione ordinaria. Gli organi subentranti prendono in consegna l'azienda dai commissari secondo le modalita' previste dall'art. 73, comma 1.
 
-##### Art. 75-bis
+###### Art. 75-bis
 
 (( (Commissari in temporaneo affiancamento). ))
 
@@ -2918,11 +2916,11 @@ Adempimenti finali
 
 2\. Si applicano, in quanto compatibili, le disposizioni della presente sezione.))
 
-##### Art. 76
+###### Art. 76
 
 ((ARTICOLO ABROGATO DAL D.LGS. 16 NOVEMBRE 2015, N. 181))
 
-##### Art. 77
+###### Art. 77
 
 Succursali di banche ((di Stato terzo))
 
@@ -2946,7 +2944,7 @@ AGGIORNAMENTO (97)
 
 Il D.Lgs. 8 novembre 2021, n. 182 ha disposto (con l'art. 1, comma 42, lettera b)) che al comma 1 del presente articolo, la parola «extracomunitari» e' sostituita dalle seguenti: «di Stato terzo».
 
-##### Art. 77-bis - Aumenti di capitale
+###### Art. 77-bis - Aumenti di capitale
 
 1\. In deroga ai termini previsti dagli articoli 2366 e 2369 del codice civile e 125-bis e 126 del decreto legislativo 24 febbraio 1998, n. 58, nelle banche nei confronti delle quali e' stata adottata una misura di intervento precoce o disposto l'avvio dell'amministrazione straordinaria, le assemblee chiamate a deliberare aumenti di capitale finalizzati a ripristinare l'adeguatezza patrimoniale possono essere convocate fino a dieci giorni prima di quello fissato per l'assemblea, se cosi' e' previsto dallo statuto.
 
@@ -2968,15 +2966,15 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 16 novembre 2015, n. 181 ha disposto (con l'art. 3, comma 3) che il presente articolo, come modificato dal suddetto decreto, si applica "anche alle procedure di amministrazione straordinaria in corso alla data di entrata in vigore del presente decreto. Per i rimanenti aspetti, alle medesime procedure si continuano ad applicare le disposizioni del titolo IV del decreto legislativo 1° settembre 1993, n. 385, nel testo vigente prima dell'entrata in vigore del presente decreto".
 
-## Sezione II - Provvedimenti straordinari
+##### Sezione II - Provvedimenti straordinari
 
-##### Art. 78
+###### Art. 78
 
 Banche autorizzate in Italia
 
 1\. La Banca d'Italia puo' imporre il divieto di intraprendere nuove operazioni oppure ordinare la chiusura di succursali alle banche autorizzate in Italia, per violazione di disposizioni legislative, amministrative o statutarie che ne regolano l'attivita', per irregolarita' di gestione ovvero, nel caso di succursali di banche ((di Stato terzo)), anche per insufficienza di fondi.
 
-##### Art. 79
+###### Art. 79
 
 (( (Banche comunitarie). ))
 
@@ -2996,9 +2994,9 @@ AGGIORNAMENTO (64)
 
 Il D.Lgs. 12 maggio 2015, n. 72 ha disposto (con l'art. 2, comma 1) che "Fino all'emanazione da parte della Commissione europea del requisito di liquidita' previsto dall'articolo 460 del regolamento (UE) n. 575/2013, trova applicazione l'articolo 79 del decreto legislativo 1° settembre 1993, n. 385, nella formulazione vigente anteriormente all'entrata in vigore del presente decreto legislativo".
 
-## Sezione III - Liquidazione coatta amministrativa
+##### Sezione III - Liquidazione coatta amministrativa
 
-##### Art. 80
+###### Art. 80
 
 Provvedimento
 
@@ -3032,7 +3030,7 @@ AGGIORNAMENTO (104)
 
 Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 6 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
 
-##### Art. 81
+###### Art. 81
 
 Organi della procedura
 
@@ -3058,7 +3056,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 16 novembre 2015, n. 181 ha disposto (con l'art. 3, comma 4) che il comma 1-bis del presente articolo, come modificato dal suddetto decreto, si applica "anche alle procedure di liquidazione coatta amministrativa in corso alla data di entrata in vigore del presente decreto e per le quali non sia stato gia' autorizzato il deposito della documentazione finale".
 
-##### Art. 82
+###### Art. 82
 
 Accertamento giudiziale dello stato di insolvenza
 
@@ -3086,7 +3084,7 @@ AGGIORNAMENTO (104)
 
 Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore delle modifiche dei commi 1, 2 e 3 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
 
-##### Art. 83
+###### Art. 83
 
 Effetti del provvedimento per la banca, per i creditori e sui rapporti giuridici preesistenti
 
@@ -3116,7 +3114,7 @@ AGGIORNAMENTO (104)
 
 Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore delle modifiche dei commi 2, 3 e 3-bis del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
 
-##### Art. 84
+###### Art. 84
 
 Poteri e funzionamento degli organi liquidatori
 
@@ -3140,7 +3138,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 16 novembre 2015, n. 181 ha disposto (con l'art. 3, comma 4) che il comma 4 del presente articolo, come modificato dal suddetto decreto, si applica "anche alle procedure di liquidazione coatta amministrativa in corso alla data di entrata in vigore del presente decreto e per le quali non sia stato gia' autorizzato il deposito della documentazione finale".
 
-##### Art. 85
+###### Art. 85
 
 Adempimenti iniziali
 
@@ -3148,7 +3146,7 @@ Adempimenti iniziali
 
 2\. Si applica l'art. 73, commi 1, ultimo periodo, 2 e 4.
 
-##### Art. 86
+###### Art. 86
 
 Accertamento del passivo
 
@@ -3202,7 +3200,7 @@ AGGIORNAMENTO (104)
 
 Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore delle modifiche dei commi 3 e 7 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
 
-##### Art. 87
+###### Art. 87
 
 Opposizioni allo stato passivo
 
@@ -3234,7 +3232,7 @@ AGGIORNAMENTO (104)
 
 Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 2 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
 
-##### Art. 88
+###### Art. 88
 
 ((Esecutivita' delle sentenze))
 
@@ -3246,7 +3244,7 @@ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36
 
 4\. ((COMMA ABROGATO DAL D.LGS. 16 NOVEMBRE 2015, N. 181)).
 
-##### Art. 89
+###### Art. 89
 
 Insinuazioni tardive
 
@@ -3260,7 +3258,7 @@ Il D.Lgs. 16 novembre 2015, n. 181 ha disposto (con l'art. 3, comma 4) che il co
 
 Ha inoltre disposto (con l'art. 3, comma 5) che "Per le procedure di cui al comma 4, le sentenze pronunciate dopo l'entrata in vigore del presente decreto ai sensi dell'articolo 87 del decreto legislativo 1° settembre 1993, n. 385, sono impugnabili esclusivamente con il ricorso per cassazione di cui al comma 2 del medesimo articolo 87, come modificato dal presente decreto. Si applica l'articolo 88 del decreto legislativo 1° settembre 1993, n. 385, come modificato dal presente decreto. Per le medesime procedure, il termine per la proposizione delle domande tardive di cui all'articolo 89 del decreto legislativo 1° settembre 1993, n. 385, come modificato dal presente decreto, decorre dall'entrata in vigore di quest'ultimo".
 
-##### Art. 90
+###### Art. 90
 
 Liquidazione dell'attivo
 
@@ -3280,7 +3278,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 16 novembre 2015, n. 181 ha disposto (con l'art. 3, comma 4) che i commi 1 e 2 del presente articolo, come modificati dal suddetto decreto, si applicano "anche alle procedure di liquidazione coatta amministrativa in corso alla data di entrata in vigore del presente decreto e per le quali non sia stato gia' autorizzato il deposito della documentazione finale".
 
-##### Art. 91
+###### Art. 91
 
 Restituzioni e riparti
 
@@ -3354,7 +3352,7 @@ AGGIORNAMENTO (104)
 
 Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore delle modifiche dei commi 1, 1-bis e 3 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
 
-##### Art. 92
+###### Art. 92
 
 Adempimenti finali
 
@@ -3382,7 +3380,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 16 novembre 2015, n. 181 ha disposto (con l'art. 3, comma 4) che i commi 1, 2, 8 e 9 del presente articolo, come modificati dal suddetto decreto, si applicano "anche alle procedure di liquidazione coatta amministrativa in corso alla data di entrata in vigore del presente decreto e per le quali non sia stato gia' autorizzato il deposito della documentazione finale".
 
-##### Art. 92-bis
+###### Art. 92-bis
 
 (( (Procedure prive di risorse liquide o con risorse insufficienti).))
 
@@ -3410,7 +3408,7 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 16 novembre 2015, n. 181 ha disposto (con l'art. 3, comma 4) che il presente articolo, come modificato dal suddetto decreto, si applica "anche alle procedure di liquidazione coatta amministrativa in corso alla data di entrata in vigore del presente decreto e per le quali non sia stato gia' autorizzato il deposito della documentazione finale".
 
-##### Art. 93
+###### Art. 93
 
 Concordato di liquidazione
 
@@ -3458,7 +3456,7 @@ AGGIORNAMENTO (104)
 
 Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore delle modifiche dei commi 1, 3 e 6 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
 
-##### Art. 94
+###### Art. 94
 
 Esecuzione del concordato e chiusura della procedura
 
@@ -3492,15 +3490,15 @@ AGGIORNAMENTO (104)
 
 Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 3 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
 
-##### Art. 95
+###### Art. 95
 
 Succursali di banche ((di Stato terzo))
 
 1\. Alle succursali di banche ((di Stato terzo)) si applicano le disposizioni previste dalla presente sezione e ((dall'articolo 58-sexies, nonche')) dall'articolo 77, comma 1-bis, in quanto compatibili.
 
-## ((Sezione III-bis - Banche operanti in ambito comunitario))
+##### ((Sezione III-bis - Banche operanti in ambito comunitario))
 
-##### Art. 95-bis
+###### Art. 95-bis
 
 Riconoscimento dei provvedimenti di risanamento e delle procedure di liquidazione
 
@@ -3512,7 +3510,7 @@ Riconoscimento dei provvedimenti di risanamento e delle procedure di liquidazion
 
 2-bis. Quando e' esercitato un potere di risoluzione o applicata una misura di risoluzione di cui al decreto legislativo ((16 novembre 2015, n. 180)), le disposizioni della presente sezione si applicano a tutti i soggetti indicati nell'articolo 2 del decreto stesso.
 
-##### Art. 95-ter
+###### Art. 95-ter
 
 Deroghe
 
@@ -3546,7 +3544,7 @@ c) il diritto del creditore di invocare la compensazione del proprio credito con
 
 6\. Le previsioni di cui ai commi 1, 2 e 3 trovano applicazione soltanto ai casi e nei modi ivi indicati; esse non riguardano altri profili della disciplina delle procedure di risanamento e liquidazione, quali le norme in materia di ammissione allo stato passivo, anche con riferimento al grado e alla natura delle relative pretese, e di liquidazione e riparto dell'attivo, che restano soggetti alla disciplina dello Stato di origine della banca.
 
-##### Art. 95-quater
+###### Art. 95-quater
 
 Collaborazione tra autorita'
 
@@ -3556,7 +3554,7 @@ Collaborazione tra autorita'
 
 2-bis. Resta fermo quanto previsto dagli articoli 5, 6 e 32, commi 3, 4 e 5, del decreto legislativo ((16 novembre 2015, n. 180)).
 
-##### Art. 95-quinquies
+###### Art. 95-quinquies
 
 Pubblicita' e informazione agli aventi diritto
 
@@ -3570,21 +3568,21 @@ Pubblicita' e informazione agli aventi diritto
 
 5\. Per soggetti di cui al comma 2, i termini indicati dagli articoli 86, comma 4, e 87, comma 1, sono raddoppiati; il termine indicato nell'articolo 86, comma 5, decorre dalla data di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee prevista nel comma 1.
 
-##### Art. 95-sexies
+###### Art. 95-sexies
 
 (( Norme di attuazione
 
 1\. La Banca d'Italia adotta disposizioni di attuazione della presente sezione. ))
 
-##### Art. 95-septies
+###### Art. 95-septies
 
 Applicazione
 
 1\. Le disposizioni della presente sezione si applicano ai provvedimenti di ((risanamento e alle procedure di liquidazione coatta amministrativa)), nonche' ai provvedimenti di risanamento e liquidazione delle competenti autorita' degli Stati comunitari ((o della Banca centrale europea)) adottati dopo il 5 maggio 2004.
 
-## ((Sezione IV - Sistemi di garanzia dei depositanti))
+##### ((Sezione IV - Sistemi di garanzia dei depositanti))
 
-##### Art. 96 - Soggetti aderenti e natura dei sistemi di garanzia
+###### Art. 96 - Soggetti aderenti e natura dei sistemi di garanzia
 
 1\. Le banche italiane aderiscono a uno dei sistemi di garanzia dei depositanti istituiti e riconosciuti in Italia. PERIODO ABROGATO DAL D.LGS. 15 FEBBRAIO 2016, N. 30.
 
@@ -3598,7 +3596,7 @@ Applicazione
 
 5\. La pubblicita' e le comunicazioni che le banche sono tenute a effettuare per informare i clienti sulla garanzia dei depositanti sono disciplinate ai sensi del Titolo VI.
 
-##### Art. 96.1
+###### Art. 96.1
 
 (( (Dotazione finanziaria dei sistemi di garanzia).))
 
@@ -3616,7 +3614,7 @@ b) il settore bancario in cui operano gli aderenti al sistema di garanzia e' alt
 
 5\. La dotazione finanziaria costituisce un patrimonio autonomo, distinto a tutti gli effetti dal patrimonio del sistema di garanzia e da quello di ciascun aderente, nonche' da ogni altro fondo istituito presso lo stesso sistema di garanzia. Delle obbligazioni contratte in relazione agli interventi e ai finanziamenti disciplinati dalla presente Sezione il sistema di garanzia risponde esclusivamente con la dotazione finanziaria. Salvo quanto previsto dalla presente Sezione, su di essa non sono ammesse azioni dei creditori del sistema di garanzia o nell'interesse di quest'ultimo, ne' quelle dei creditori dei singoli aderenti o degli altri fondi eventualmente istituiti presso lo stesso sistema di garanzia.))
 
-##### Art. 96.2
+###### Art. 96.2
 
 (( (Finanziamento dei sistemi di garanzia e investimento delle risorse).))
 
@@ -3634,7 +3632,7 @@ b) il settore bancario in cui operano gli aderenti al sistema di garanzia e' alt
 
 7\. Entro il 31 marzo di ciascun anno la Banca d'Italia informa l'ABE circa l'importo dei depositi protetti dai sistemi di garanzia italiani e dell'importo della dotazione finanziaria dei sistemi al 31 dicembre del precedente anno.))
 
-##### Art. 96-bis
+###### Art. 96-bis
 
 Interventi
 
@@ -3690,7 +3688,7 @@ b) la dotazione finanziaria del sistema si e' ridotta a meno di due terzi del li
 
 8\. COMMA ABROGATO DAL D.LGS. 15 FEBBRAIO 2016, N. 30.
 
-##### Art. 96-bis.1 - Depositi ammissibili al rimborso e ammontare massimo rimborsabile
+###### Art. 96-bis.1 - Depositi ammissibili al rimborso e ammontare massimo rimborsabile
 
 1\. Sono ammissibili al rimborso i crediti che possono essere fatti valere nei confronti della banca in liquidazione coatta amministrativa , secondo quanto previsto dalla Sezione III ((, o della banca per la quale e' stato adottato il provvedimento di cui all'articolo 96-bis.2, comma 01)), relativi ai fondi acquisiti dalla banca con obbligo di restituzione, sotto forma di depositi o sotto altra forma, nonche' agli assegni circolari e agli altri titoli di credito ad essi assimilabili.
 
@@ -3724,7 +3722,7 @@ b) se piu' soggetti hanno pieno diritto sulle somme depositate su un conto, la q
 
 c) si tiene conto della compensazione dell'ammontare complessivo del deposito con eventuali debiti del depositante nei confronti della banca, se esigibili alla data in cui si producono gli effetti del provvedimento di cui all'articolo 96-bis.2, comma 01, o di quello di liquidazione coatta amministrativa ai sensi dell'articolo 83, comma 1, nella misura in cui la compensazione e' possibile a norma delle disposizioni di legge o di previsioni contrattuali applicabili.
 
-##### Art. 96-bis.2 - Modalita' del rimborso dei depositi
+###### Art. 96-bis.2 - Modalita' del rimborso dei depositi
 
 01\. (( Quando una banca si rende inadempiente all'obbligo di restituire i propri depositi per cause direttamente connesse con la sua situazione finanziaria, la Banca d'Italia verifica se la banca e' al momento in grado di rimborsare i propri depositi o se ha la ragionevole prospettiva di ripristinare a breve l'accessibilita' ai depositi stessi. Ove entrambe queste condizioni non risultino verificate, la Banca d'Italia lo dichiara con provvedimento adottato entro cinque giorni lavorativi dal momento in cui accerta l'inadempimento. Il provvedimento e' pubblicato sul sito internet della Banca d'Italia e nella Gazzetta Ufficiale e i suoi effetti decorrono dal momento indicato dalla Banca d'Italia nel provvedimento stesso. Il provvedimento non e' adottato se la Banca d'Italia ha gia' adottato la proposta di cui all'articolo 80, comma 1.))
 
@@ -3760,7 +3758,7 @@ b) 15 giorni lavorativi dal 1° gennaio 2019 al 31 dicembre 2020;
 
 c) 10 giorni lavorativi dal 1° gennaio 2021 al 31 dicembre 2023".
 
-##### Art. 96-bis.3 - Obblighi dei sistemi di garanzia
+###### Art. 96-bis.3 - Obblighi dei sistemi di garanzia
 
 1\. I sistemi di garanzia:
 
@@ -3786,13 +3784,13 @@ AGGIORNAMENTO (68)
 
 Il D.Lgs. 15 febbraio 2016, n. 30 ha disposto (con l'art. 4, comma 7) che "L'articolo 96-bis.3, comma 3, del decreto legislativo 1° settembre 1993, n. 385, si applica a partire dal primo rinnovo degli organi che svolgono funzioni di amministrazione, direzione e controllo dei sistemi di garanzia a seguito dell'entrata in vigore del presente decreto".
 
-##### Art. 96-bis.4
+###### Art. 96-bis.4
 
 (( (Informazioni da fornire ai sistemi di garanzia). ))
 
 (( 1. I sistemi di garanzia possono chiedere ai propri aderenti le informazioni necessarie ai fini del rimborso dei depositanti. A tal fine, le banche classificano i depositi in modo da consentire l'immediata identificazione di quelli ammessi al rimborso.))
 
-##### Art. 96-ter - Poteri della Banca d'Italia
+###### Art. 96-ter - Poteri della Banca d'Italia
 
 1\. La Banca d'Italia, avendo riguardo alla tutela dei depositanti e alla capacita' dei sistemi di garanzia di effettuare i rimborsi dei depositi protetti:
 
@@ -3818,7 +3816,7 @@ AGGIORNAMENTO (7)
 
 L'errata corrige 17/01/1997, n. 13 ha disposto che all'art. 2 del D.Lgs. 4 dicembre 1996, n. 659 recante la sostituzione dell'art. 96 del presente provvedimento "dove e' scritto: "Art. 9-ter (Poteri della Banca d'Italia).", leggasi: "Art. 96-ter (Poteri della Banca d'Italia)."
 
-##### Art. 96-quater
+###### Art. 96-quater
 
 (( (Esclusione).))
 
@@ -3832,7 +3830,7 @@ L'errata corrige 17/01/1997, n. 13 ha disposto che all'art. 2 del D.Lgs. 4 dicem
 
 Resta ferma la possibilita' di disporre la liquidazione coatta amministrativa ai sensi dell'articolo 80 o la risoluzione ai sensi dell'articolo 32 del decreto legislativo 16 novembre 2015, n. 180.))
 
-##### Art. 96-quater.1
+###### Art. 96-quater.1
 
 (( (Prestiti fra sistemi di garanzia).))
 
@@ -3860,7 +3858,7 @@ c) il sistema di garanzia mutuante informa l'ABE del tasso di interesse iniziale
 
 3\. Se un sistema di garanzia ha preso in prestito fondi ai sensi del presente articolo, i contributi da versare al sistema sono determinati in misura sufficiente a ripagare l'importo preso a prestito e ristabilire la dotazione finanziaria quanto prima.))
 
-##### Art. 96-quater.2
+###### Art. 96-quater.2
 
 (( (Cooperazione fra sistemi di garanzia dei depositanti).))
 
@@ -3882,7 +3880,7 @@ b) fornisce senza indugio al sistema di garanzia dello Stato membro i fondi nece
 
 5\. Un sistema di garanzia istituito e riconosciuto in Italia puo' fondersi con sistemi di garanzia di altri Stati membri. Possono essere istituiti sistemi di garanzia transfrontalieri. ))
 
-##### Art. 96-quater.3
+###### Art. 96-quater.3
 
 (( (Adesione ad altro sistema di garanzia).))
 
@@ -3892,13 +3890,13 @@ b) fornisce senza indugio al sistema di garanzia dello Stato membro i fondi nece
 
 3\. Se, a seguito di cessione, alcuni depositi della banca cedente divengono protetti da un sistema di garanzia diverso rispetto a quello a cui aderisce la banca cedente, il sistema cui aderisce la banca cedente trasferisce all'altro i contributi ricevuti dalla banca cedente durante i dodici mesi precedenti, ad eccezione dei contributi straordinari di cui all'articolo 96.2, comma 3, in proporzione all'importo dei depositi protetti trasferiti ad eccezione di quelli indicati all'articolo 96-bis.1, comma 4. Il presente comma si applica anche in caso di fusione o di scissione.))
 
-##### Art. 96-quater.4
+###### Art. 96-quater.4
 
 (((Interventi finanziati su base volontaria). ))
 
 ((1. Fermo restando quanto previsto dall'articolo 96-bis, comma 1-bis, lettera d), e per le stesse finalita' ivi indicate, il sistema di garanzia puo' effettuare, se previsto dallo statuto e secondo le modalita' concordate tra le banche, interventi mediante risorse corrisposte su base volontaria dalle banche aderenti e senza ricorso alla dotazione finanziaria prevista dall'articolo 96.1. A tali risorse si applica l'articolo 96.1, comma 5.))
 
-##### Art. 96-quinquies
+###### Art. 96-quinquies
 
 Liquidazione ordinaria
 
@@ -3912,9 +3910,9 @@ Liquidazione ordinaria
 
 4-bis. ((La Banca d'Italia puo' emanare disposizioni attuative del presente articolo.))
 
-## ((Sezione V - Liquidazione volontaria))
+##### ((Sezione V - Liquidazione volontaria))
 
-##### Art. 97
+###### Art. 97
 
 Sostituzione degli organi della liquidazione ordinaria
 
@@ -3938,9 +3936,9 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 16 novembre 2015, n. 181 ha disposto (con l'art. 3, comma 4) che il comma 1 del presente articolo, come modificato dal suddetto decreto, si applica "anche alle procedure di liquidazione coatta amministrativa in corso alla data di entrata in vigore del presente decreto e per le quali non sia stato gia' autorizzato il deposito della documentazione finale".
 
-## ((Sezione V-bis - Responsabilita' per illecito amministrativo dipendente da reato))
+##### ((Sezione V-bis - Responsabilita' per illecito amministrativo dipendente da reato))
 
-##### Art. 97-bis
+###### Art. 97-bis
 
 Responsabilita' per illecito amministrativo dipendente da reato
 
@@ -3954,11 +3952,11 @@ Responsabilita' per illecito amministrativo dipendente da reato
 
 5\. Il presente articolo si applica, in quanto compatibile, alle succursali italiane di banche comunitarie o ((di Stato terzo)).
 
-## Capo II - GRUPPO BANCARIO
+#### Capo II - GRUPPO BANCARIO
 
-### Sezione I - Capogruppo
+##### Sezione I - Capogruppo
 
-##### Art. 98
+###### Art. 98
 
 Amministrazione straordinaria
 
@@ -3992,11 +3990,11 @@ AGGIORNAMENTO (65)
 
 Il D.Lgs. 16 novembre 2015, n. 181 ha disposto (con l'art. 3, comma 3) che le proroghe di cui al comma 3 del presente articolo "nel testo vigente prima della data di entrata in vigore del presente decreto sono disposte dalla Banca d'Italia".
 
-##### Art. 98-bis
+###### Art. 98-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 16 NOVEMBRE 2015, N. 181))
 
-##### Art. 99
+###### Art. 99
 
 Liquidazione coatta amministrativa
 
@@ -4030,7 +4028,7 @@ AGGIORNAMENTO (104)
 
 Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 5 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
 
-##### Art. 99-bis
+###### Art. 99-bis
 
 Liquidazione ordinaria
 
@@ -4050,9 +4048,9 @@ La Banca d'Italia accerta la sussistenza dei presupposti per un regolare svolgim
 
 6\. Il presente articolo si applica anche alle societa' italiane indicate agli articoli 69.1 e 69.2.
 
-## Sezione II - Societa' del gruppo
+##### Sezione II - Societa' del gruppo
 
-##### Art. 100
+###### Art. 100
 
 Amministrazione straordinaria
 
@@ -4066,7 +4064,7 @@ Amministrazione straordinaria
 
 5\. Al fine di agevolare il superamento di difficolta' finanziarie, i commissari straordinari, d'intesa con i commissari straordinari o liquidatori della capogruppo, possono disporre la sospensione dei pagamenti nelle forme e con gli effetti previsti dall'art. 74, i cui termini sono triplicati.
 
-##### Art. 101
+###### Art. 101
 
 Liquidazione coatta amministrativa
 
@@ -4076,7 +4074,7 @@ Liquidazione coatta amministrativa
 
 3\. Ai commissari liquidatori sono attribuiti i poteri previsti dall'art. 99, comma 5.
 
-##### Art. 102
+###### Art. 102
 
 Procedure proprie delle singole societa'
 
@@ -4084,15 +4082,15 @@ Procedure proprie delle singole societa'
 
 Le autorita' amministrative o giudiziarie che vigilano sulle procedure informano la Banca d'Italia di ogni circostanza, emersa nello svolgimento delle medesime, rilevante ai fini della vigilanza sul gruppo bancario.
 
-##### Art. 102-bis
+###### Art. 102-bis
 
 ((Ulteriore ipotesi di avvio della liquidazione coatta amministrativa))
 
 ((1. Anche al di fuori dei casi previsti dagli articoli 101 e 102, il Ministro dell'economia e delle finanze, su proposta della Banca d'Italia, puo' disporre con decreto la liquidazione coatta amministrativa delle singole societa' italiane del gruppo, diverse dalle societa' strumentali, se ricorrono in capo a queste ultime i presupposti di cui all'articolo 80, comma 1, revocandone, ove necessario, l'autorizzazione all'esercizio dell'attivita'. Si applicano le norme del presente titolo, capo I, sezione III. Per le banche del gruppo resta ferma comunque la disciplina della sezione III.))
 
-## Sezione III - Disposizioni comuni
+##### Sezione III - Disposizioni comuni
 
-##### Art. 103
+###### Art. 103
 
 Organi delle procedure
 
@@ -4102,7 +4100,7 @@ Organi delle procedure
 
 3\. Le indennita' spettanti ai commissari e ai componenti del comitato di sorveglianza sono determinate dalla Banca d'Italia in base ai criteri dalla stessa stabiliti e sono a carico delle societa'. Le indennita' sono determinate valutando in modo complessivo le prestazioni connesse alle cariche eventualmente ricoperte in altre procedure nel gruppo.
 
-##### Art. 104
+###### Art. 104
 
 Competenze giurisdizionali
 
@@ -4132,13 +4130,13 @@ AGGIORNAMENTO (104)
 
 Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
 
-##### Art. 105
+###### Art. 105
 
 Gruppi e societa' non iscritti all'albo
 
 1\. Le disposizioni degli articoli precedenti si applicano anche nei confronti dei gruppi e delle societa' per i quali, pur non essendo intervenuta l'iscrizione, ricorrano le condizioni per l'inserimento nell'albo previsto ((dall'articolo 64 o dall'articolo 69.2, comma 3)).
 
-##### Art. 105-bis - Cooperazione tra autorita'
+###### Art. 105-bis - Cooperazione tra autorita'
 
 1\. La Banca d'Italia informa l'ABE e consulta le altre autorita' competenti prima di applicare una misura di intervento precoce o disporre l'amministrazione straordinaria nei confronti:
 
@@ -4156,19 +4154,17 @@ b-bis) ((di una delle societa' italiane indicate agli articoli 69.1 e 69.2)).
 
 5\. La Banca d'Italia puo', nei casi previsti dal diritto dell'Unione, richiedere l'assistenza dell'ABE o rinviare all'ABE le decisioni di cui al presente articolo. Qualora una decisione sia stata rinviata all'ABE nel previsto termine di tre giorni per la consultazione o di cinque giorni per l'accordo fra le autorita', la Banca d'Italia si astiene dall'adottare provvedimenti e si attiene alle decisioni finali dell'ABE. In mancanza di decisione dell'ABE nei termini previsti dal diritto dell'Unione, la Banca d'Italia adotta i provvedimenti di propria competenza.
 
-##### Art. 105-ter - Commissari in temporaneo affiancamento
+###### Art. 105-ter - Commissari in temporaneo affiancamento
 
 1\. Ricorrendo i presupposti indicati agli articoli 70 e 98, il potere di nominare uno o piu' commissari in temporaneo affiancamento, di cui all'articolo 75-bis, puo' essere esercitato nei confronti della capogruppo italiana, ((di una delle societa' italiane indicate agli articoli 69.1 e 69.2)) e delle societa' di un gruppo bancario.
 
 Si applicano, in quanto compatibili, le disposizioni del presente capo.
 
-## TITOLO V - SOGGETTI OPERANTI
-
-### NEL SETTORE FINANZIARIO
+### TITOLO V - SOGGETTI OPERANTI NEL SETTORE FINANZIARIO
 
 #### ((Capo I - - CONCESSIONE DI FINANZIAMENTI E SOGGETTI OPERANTI NEL SETTORE FINANZIARIO))
 
-##### Art. 106
+###### Art. 106
 
 Albo degli intermediari finanziari
 
@@ -4206,7 +4202,7 @@ AGGIORNAMENTO (54)
 
 Il D.Lgs. 13 agosto 2010, n. 141 come modificato dal D.Lgs. 19 settembre 2012, n. 169 ha disposto (con l'art. 10, comma 8) che "Fino alla data di entrata di vigore delle disposizioni di attuazione del presente Titolo III, e, per i soggetti di cui ai commi 1 e 2, fino al completamento degli adempimenti di cui al comma 4, continuano ad applicarsi, salvo quanto previsto dai Titoli I e II del presente decreto legislativo, le norme del decreto legislativo 1° settembre 1993, n. 385 abrogate o sostituite dal presente decreto legislativo e le relative disposizioni di attuazione, ivi compresi gli articoli 132, comma 1, 133, 139, 140 e 144, commi 1 e 2, e ad eccezione degli articoli 113, 132, comma 2, 155, commi 2 e 5; continuano altresi' ad applicarsi le norme sostituite dall'articolo 9, commi 1 e 2. Con riguardo ai confidi, il riferimento dell'articolo 9, comma 4, all'albo previsto dall'articolo 106 del decreto legislativo 1° settembre 1993, n. 385, deve intendersi, fino alla scadenza del periodo indicato al comma 1, primo periodo, anche all'elenco previsto dall'articolo 107 del decreto legislativo 1° settembre 1993, n. 385, previgente."
 
-##### Art. 107
+###### Art. 107
 
 Autorizzazione
 
@@ -4248,7 +4244,7 @@ Il D.Lgs. 13 agosto 2010, n. 141, come modifcato dal D.Lgs. 14 dicembre 2010, n.
 
 Il D.Lgs. 14 dicembre 2010, n. 218, nel modificare il D.Lgs. 13 agosto 2010, n. 141, ha disposto (con l'art. 16, comma 8) che "Le disposizioni modificate, introdotte o sostituite dal presente decreto si applicano a decorrere dalla data di entrata in vigore dei corrispondenti articoli del decreto legislativo 13 agosto 2010, n. 141. I termini di conclusione dei procedimenti amministrativi, stabiliti da norme di legge o di regolamento, pendenti alla data del 19 settembre 2010, sono prorogati fino a 120 giorni successivi alla data di entrata in vigore del presente decreto".
 
-##### Art. 108
+###### Art. 108
 
 Vigilanza
 
@@ -4284,7 +4280,7 @@ d-bis) disporre, qualora la loro permanenza in carica sia di pregiudizio per la 
 
 6\. Nell'esercizio dei poteri di cui al presente articolo la Banca d'Italia osserva criteri di proporzionalita', avuto riguardo alla complessita' operativa, dimensionale e organizzativa degli intermediari, nonche' alla natura specifica dell'attivita' svolta.
 
-##### Art. 109
+###### Art. 109
 
 Vigilanza consolidata
 
@@ -4314,7 +4310,7 @@ c) puo' effettuare ispezioni ((presso i soggetti indicati nel comma 2)) e richie
 
 3-ter. Gli obblighi e i poteri previsti dal comma 3, lettera b), si applicano anche ai soggetti ai quali siano state esternalizzate funzioni aziendali e al loro personale.
 
-##### Art. 110
+###### Art. 110
 
 Rinvio
 
@@ -4324,7 +4320,7 @@ Rinvio
 
 1-ter. Ai titolari delle partecipazioni indicate all'articolo 19 in intermediari finanziari si applica l'articolo 25, ad eccezione del comma 2, lettera b); il decreto di cui all'articolo 25 puo' prevedere l'applicazione dei criteri di competenza definiti ai sensi del medesimo articolo, comma 2, lettera b), avuto riguardo alla complessita' operativa, dimensionale e organizzativa degli intermediari, nonche' alla natura specifica dell'attivita' svolta.
 
-##### Art. 111
+###### Art. 111
 
 Microcredito
 
@@ -4382,7 +4378,7 @@ AGGIORNAMENTO (86)
 
 Il D.L. 8 aprile 2020, n. 23 ha disposto (con l'art. 13, comma 9) che "All'articolo 111, comma 1, lettera a), del decreto legislativo 1° settembre 1993, n. 385, le parole "euro 25.000,00" sono sostituite dalle seguenti: "euro 40.000,00"."
 
-##### Art. 111-bis
+###### Art. 111-bis
 
 (( (Finanza etica e sostenibile). ))
 
@@ -4406,7 +4402,7 @@ f) adottano politiche retributive tese a contenere al massimo la differenza tra 
 
 4\. L'agevolazione di cui al presente articolo e' riconosciuta nel rispetto dei limiti di cui al regolamento (UE) n. 1407/2013 della Commissione, del 18 dicembre 2013, relativo all'applicazione degli articoli 107 e 108 del Trattato sul funzionamento dell'Unione europea agli aiuti "de minimis")).
 
-##### Art. 112
+###### Art. 112
 
 Altri soggetti operanti nell'attivita' di concessione di finanziamenti
 
@@ -4472,7 +4468,7 @@ AGGIORNAMENTO (114)
 
 Il D.L. 27 dicembre 2024, n. 202, convertito con modificazioni dalla L. 21 febbraio 2025, n. 15, ha disposto (con l'art. 3, comma 14-undecies) che "Per le societa' di cui all'articolo 112, comma 7, alinea, ultimo periodo, del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, le disposizioni ivi previste continuano ad applicarsi fino al 31 maggio 2026".
 
-##### Art. 112-bis
+###### Art. 112-bis
 
 Organismo per la tenuta dell'elenco dei confidi
 
@@ -4514,7 +4510,7 @@ Il D.Lgs. 13 agosto 2010, n. 141, come modificato dal D.Lgs. 19 settembre 2012, 
 
 Ha inoltre disposto (con l'art. 10, comma 8-quater) che "La data di avvio della gestione degli elenchi da parte degli Organismi previsti dagli articoli 112-bis e 113 del decreto legislativo 1° settembre 1993, n. 385, e' comunicata alla Banca d'Italia e pubblicata nella Gazzetta Ufficiale della Repubblica italiana."
 
-##### Art. 113
+###### Art. 113
 
 (( (Controlli sull'elenco previsto dall'articolo 111). ))
 
@@ -4556,7 +4552,7 @@ AGGIORNAMENTO (54)
 
 Il D.Lgs. 13 agosto 2010, n. 141 come modificato dal D.Lgs. 19 settembre 2012, n. 169 ha disposto (con l'art. 10, comma 8-quater) che "La data di avvio della gestione degli elenchi da parte degli Organismi previsti dagli articoli 112-bis e 113 del decreto legislativo 1° settembre 1993, n. 385, e' comunicata alla Banca d'Italia e pubblicata nella Gazzetta Ufficiale della Repubblica italiana."
 
-##### Art. 113-bis
+###### Art. 113-bis
 
 Sospensione degli organi ((...))
 
@@ -4568,7 +4564,7 @@ Sospensione degli organi ((...))
 
 3-bis. ((Agli intermediari finanziari non si applica l'articolo 2396-quater del codice civile. Se vi e' fondato sospetto che i soggetti con funzioni di amministrazione, in violazione dei propri doveri, abbiano compiuto gravi irregolarita' nella gestione che possono arrecare danno alla societa' o ad una o piu' societa' controllate, l'organo con funzioni di controllo o i soci che il codice civile o lo statuto abilitano a presentare denuncia al tribunale, possono denunciare i fatti alla Banca d'Italia, che decide con provvedimento motivato.))
 
-##### Art. 113-ter
+###### Art. 113-ter
 
 Revoca dell'autorizzazione e liquidazione
 
@@ -4604,7 +4600,7 @@ La Banca d'Italia puo' autorizzare, anche contestualmente alla revoca, l'eserciz
 
 8\. Resta fermo quanto previsto dall'articolo 114-terdecies.
 
-##### Art. 114
+###### Art. 114
 
 Norme finali
 
@@ -4620,9 +4616,9 @@ AGGIORNAMENTO (112)
 
 Il D.Lgs. 30 luglio 2024, n. 116, ha disposto (con l'art. 3, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto si applicano a partire dalla data di entrata in vigore delle disposizioni di attuazione della Banca d'Italia di cui al comma 1 e con riferimento alle operazioni di acquisto di crediti in sofferenza effettuate a partire da tale data. Le disposizioni del presente decreto che modificano il titolo VI, capi I-bis e II, del decreto legislativo 1° settembre 1993, n. 385, si applicano ai contratti di credito immobiliare ai consumatori e di credito ai consumatori stipulati a partire dalla medesima data".
 
-## ((Capo II - ACQUISTO E GESTIONE DI CREDITI IN SOFFERENZA E GESTORI DI CREDITI IN SOFFERENZA))
+#### ((Capo II - ACQUISTO E GESTIONE DI CREDITI IN SOFFERENZA E GESTORI DI CREDITI IN SOFFERENZA))
 
-##### Art. 114.1
+###### Art. 114.1
 
 (( (Definizioni). ))
 
@@ -4668,7 +4664,7 @@ AGGIORNAMENTO (112)
 
 Il D.Lgs. 30 luglio 2024, n. 116, ha disposto (con l'art. 3, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto si applicano a partire dalla data di entrata in vigore delle disposizioni di attuazione della Banca d'Italia di cui al comma 1 e con riferimento alle operazioni di acquisto di crediti in sofferenza effettuate a partire da tale data. Le disposizioni del presente decreto che modificano il titolo VI, capi I-bis e II, del decreto legislativo 1° settembre 1993, n. 385, si applicano ai contratti di credito immobiliare ai consumatori e di credito ai consumatori stipulati a partire dalla medesima data".
 
-##### Art. 114.2
+###### Art. 114.2
 
 (( (Ambito di applicazione). ))
 
@@ -4690,7 +4686,7 @@ AGGIORNAMENTO (112)
 
 Il D.Lgs. 30 luglio 2024, n. 116, ha disposto (con l'art. 3, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto si applicano a partire dalla data di entrata in vigore delle disposizioni di attuazione della Banca d'Italia di cui al comma 1 e con riferimento alle operazioni di acquisto di crediti in sofferenza effettuate a partire da tale data. Le disposizioni del presente decreto che modificano il titolo VI, capi I-bis e II, del decreto legislativo 1° settembre 1993, n. 385, si applicano ai contratti di credito immobiliare ai consumatori e di credito ai consumatori stipulati a partire dalla medesima data".
 
-##### Art. 114.3
+###### Art. 114.3
 
 (( (Acquisto e gestione di crediti in sofferenza). ))
 
@@ -4736,7 +4732,7 @@ AGGIORNAMENTO (112)
 
 Il D.Lgs. 30 luglio 2024, n. 116, ha disposto (con l'art. 3, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto si applicano a partire dalla data di entrata in vigore delle disposizioni di attuazione della Banca d'Italia di cui al comma 1 e con riferimento alle operazioni di acquisto di crediti in sofferenza effettuate a partire da tale data. Le disposizioni del presente decreto che modificano il titolo VI, capi I-bis e II, del decreto legislativo 1° settembre 1993, n. 385, si applicano ai contratti di credito immobiliare ai consumatori e di credito ai consumatori stipulati a partire dalla medesima data".
 
-##### Art. 114.4
+###### Art. 114.4
 
 (( (Informativa ai potenziali acquirenti di crediti in sofferenza e altri obblighi di comunicazione). ))
 
@@ -4758,7 +4754,7 @@ AGGIORNAMENTO (112)
 
 Il D.Lgs. 30 luglio 2024, n. 116, ha disposto (con l'art. 3, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto si applicano a partire dalla data di entrata in vigore delle disposizioni di attuazione della Banca d'Italia di cui al comma 1 e con riferimento alle operazioni di acquisto di crediti in sofferenza effettuate a partire da tale data. Le disposizioni del presente decreto che modificano il titolo VI, capi I-bis e II, del decreto legislativo 1° settembre 1993, n. 385, si applicano ai contratti di credito immobiliare ai consumatori e di credito ai consumatori stipulati a partire dalla medesima data".
 
-##### Art. 114.5
+###### Art. 114.5
 
 (( (Albo dei gestori dei crediti in sofferenza). ))
 
@@ -4776,7 +4772,7 @@ AGGIORNAMENTO (112)
 
 Il D.Lgs. 30 luglio 2024, n. 116, ha disposto (con l'art. 3, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto si applicano a partire dalla data di entrata in vigore delle disposizioni di attuazione della Banca d'Italia di cui al comma 1 e con riferimento alle operazioni di acquisto di crediti in sofferenza effettuate a partire da tale data. Le disposizioni del presente decreto che modificano il titolo VI, capi I-bis e II, del decreto legislativo 1° settembre 1993, n. 385, si applicano ai contratti di credito immobiliare ai consumatori e di credito ai consumatori stipulati a partire dalla medesima data".
 
-##### Art. 114.6
+###### Art. 114.6
 
 (( (Autorizzazione). ))
 
@@ -4810,7 +4806,7 @@ AGGIORNAMENTO (112)
 
 Il D.Lgs. 30 luglio 2024, n. 116, ha disposto (con l'art. 3, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto si applicano a partire dalla data di entrata in vigore delle disposizioni di attuazione della Banca d'Italia di cui al comma 1 e con riferimento alle operazioni di acquisto di crediti in sofferenza effettuate a partire da tale data. Le disposizioni del presente decreto che modificano il titolo VI, capi I-bis e II, del decreto legislativo 1° settembre 1993, n. 385, si applicano ai contratti di credito immobiliare ai consumatori e di credito ai consumatori stipulati a partire dalla medesima data".
 
-##### Art. 114.7
+###### Art. 114.7
 
 (( (Detenzione di fondi).))
 
@@ -4832,7 +4828,7 @@ AGGIORNAMENTO (112)
 
 Il D.Lgs. 30 luglio 2024, n. 116, ha disposto (con l'art. 3, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto si applicano a partire dalla data di entrata in vigore delle disposizioni di attuazione della Banca d'Italia di cui al comma 1 e con riferimento alle operazioni di acquisto di crediti in sofferenza effettuate a partire da tale data. Le disposizioni del presente decreto che modificano il titolo VI, capi I-bis e II, del decreto legislativo 1° settembre 1993, n. 385, si applicano ai contratti di credito immobiliare ai consumatori e di credito ai consumatori stipulati a partire dalla medesima data".
 
-##### Art. 114.8
+###### Art. 114.8
 
 (( (Principi generali). ))
 
@@ -4854,7 +4850,7 @@ AGGIORNAMENTO (112)
 
 Il D.Lgs. 30 luglio 2024, n. 116, ha disposto (con l'art. 3, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto si applicano a partire dalla data di entrata in vigore delle disposizioni di attuazione della Banca d'Italia di cui al comma 1 e con riferimento alle operazioni di acquisto di crediti in sofferenza effettuate a partire da tale data. Le disposizioni del presente decreto che modificano il titolo VI, capi I-bis e II, del decreto legislativo 1° settembre 1993, n. 385, si applicano ai contratti di credito immobiliare ai consumatori e di credito ai consumatori stipulati a partire dalla medesima data".
 
-##### Art. 114.9
+###### Art. 114.9
 
 (( (Operativita' transfrontaliera). ))
 
@@ -4874,7 +4870,7 @@ AGGIORNAMENTO (112)
 
 Il D.Lgs. 30 luglio 2024, n. 116, ha disposto (con l'art. 3, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto si applicano a partire dalla data di entrata in vigore delle disposizioni di attuazione della Banca d'Italia di cui al comma 1 e con riferimento alle operazioni di acquisto di crediti in sofferenza effettuate a partire da tale data. Le disposizioni del presente decreto che modificano il titolo VI, capi I-bis e II, del decreto legislativo 1° settembre 1993, n. 385, si applicano ai contratti di credito immobiliare ai consumatori e di credito ai consumatori stipulati a partire dalla medesima data".
 
-##### Art. 114.10
+###### Art. 114.10
 
 (( (Informativa ai debitori ceduti). ))
 
@@ -4900,7 +4896,7 @@ AGGIORNAMENTO (112)
 
 Il D.Lgs. 30 luglio 2024, n. 116, ha disposto (con l'art. 3, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto si applicano a partire dalla data di entrata in vigore delle disposizioni di attuazione della Banca d'Italia di cui al comma 1 e con riferimento alle operazioni di acquisto di crediti in sofferenza effettuate a partire da tale data. Le disposizioni del presente decreto che modificano il titolo VI, capi I-bis e II, del decreto legislativo 1° settembre 1993, n. 385, si applicano ai contratti di credito immobiliare ai consumatori e di credito ai consumatori stipulati a partire dalla medesima data".
 
-##### Art. 114.11
+###### Art. 114.11
 
 (( (Vigilanza). ))
 
@@ -4946,7 +4942,7 @@ AGGIORNAMENTO (112)
 
 Il D.Lgs. 30 luglio 2024, n. 116, ha disposto (con l'art. 3, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto si applicano a partire dalla data di entrata in vigore delle disposizioni di attuazione della Banca d'Italia di cui al comma 1 e con riferimento alle operazioni di acquisto di crediti in sofferenza effettuate a partire da tale data. Le disposizioni del presente decreto che modificano il titolo VI, capi I-bis e II, del decreto legislativo 1° settembre 1993, n. 385, si applicano ai contratti di credito immobiliare ai consumatori e di credito ai consumatori stipulati a partire dalla medesima data"..
 
-##### Art. 114.12
+###### Art. 114.12
 
 (( (Scambio di informazioni e cooperazione). ))
 
@@ -4964,7 +4960,7 @@ AGGIORNAMENTO (112)
 
 Il D.Lgs. 30 luglio 2024, n. 116, ha disposto (con l'art. 3, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto si applicano a partire dalla data di entrata in vigore delle disposizioni di attuazione della Banca d'Italia di cui al comma 1 e con riferimento alle operazioni di acquisto di crediti in sofferenza effettuate a partire da tale data. Le disposizioni del presente decreto che modificano il titolo VI, capi I-bis e II, del decreto legislativo 1° settembre 1993, n. 385, si applicano ai contratti di credito immobiliare ai consumatori e di credito ai consumatori stipulati a partire dalla medesima data".
 
-##### Art. 114.13 - Rinvio
+###### Art. 114.13 - Rinvio
 
 1\. Ai gestori di crediti in sofferenza si applicano, in quanto compatibili, le disposizioni contenute negli articoli 19, 20, 21, 22, 22-bis, 23, 24 e 52, nonche' nel titolo VI. I provvedimenti previsti nell'articolo 19 sono adottati dalla Banca d'Italia. L'autorizzazione prevista nell'articolo 19 e' rilasciata valutando esclusivamente la reputazione del potenziale acquirente ai sensi dell'articolo 25, secondo quanto previsto dal comma 3.
 
@@ -4984,7 +4980,7 @@ AGGIORNAMENTO (112)
 
 Il D.Lgs. 30 luglio 2024, n. 116, ha disposto (con l'art. 3, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto si applicano a partire dalla data di entrata in vigore delle disposizioni di attuazione della Banca d'Italia di cui al comma 1 e con riferimento alle operazioni di acquisto di crediti in sofferenza effettuate a partire da tale data. Le disposizioni del presente decreto che modificano il titolo VI, capi I-bis e II, del decreto legislativo 1° settembre 1993, n. 385, si applicano ai contratti di credito immobiliare ai consumatori e di credito ai consumatori stipulati a partire dalla medesima data".
 
-##### Art. 114.14
+###### Art. 114.14
 
 (( (Reclami ed esposti). ))
 
@@ -5000,9 +4996,9 @@ AGGIORNAMENTO (112)
 
 Il D.Lgs. 30 luglio 2024, n. 116, ha disposto (con l'art. 3, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto si applicano a partire dalla data di entrata in vigore delle disposizioni di attuazione della Banca d'Italia di cui al comma 1 e con riferimento alle operazioni di acquisto di crediti in sofferenza effettuate a partire da tale data. Le disposizioni del presente decreto che modificano il titolo VI, capi I-bis e II, del decreto legislativo 1° settembre 1993, n. 385, si applicano ai contratti di credito immobiliare ai consumatori e di credito ai consumatori stipulati a partire dalla medesima data".
 
-## Titolo V-BIS - ((MONETA ELETTRONICA E ISTITUTI DI MONETA ELETTRONICA))
+### Titolo V-BIS - ((MONETA ELETTRONICA E ISTITUTI DI MONETA ELETTRONICA))
 
-##### Art. 114-bis
+###### Art. 114-bis
 
 ((Emissione di moneta elettronica
 
@@ -5012,7 +5008,7 @@ Il D.Lgs. 30 luglio 2024, n. 116, ha disposto (con l'art. 3, comma 7) che "Le di
 
 3\. L'emittente di moneta elettronica non concede interessi o qualsiasi altro beneficio commisurato alla giacenza della moneta elettronica. ))
 
-##### Art. 114-bis.1
+###### Art. 114-bis.1
 
 (( (Distribuzione della moneta elettronica).))
 
@@ -5020,7 +5016,7 @@ Il D.Lgs. 30 luglio 2024, n. 116, ha disposto (con l'art. 3, comma 7) che "Le di
 
 2\. Le banche aventi sede legale in uno Stato terzo possono avvalersi di soggetti convenzionati per la distribuzione e il rimborso della moneta elettronica in Italia, a condizione che stabiliscano una succursale, autorizzata dalla Banca d'Italia secondo quanto previsto dall'articolo 14, comma 4.))
 
-##### Art. 114-ter
+###### Art. 114-ter
 
 ((Rimborso della moneta elettronica
 
@@ -5038,7 +5034,7 @@ b) alla scadenza del contratto o successivamente:
 
 3\. I soggetti, diversi da un consumatore, che accettino in pagamento moneta elettronica possono regolare in via contrattuale con l'emittente di moneta elettronica il diritto al rimborso loro spettante nei suoi confronti, anche in deroga al comma 2.))
 
-##### Art. 114-quater
+###### Art. 114-quater
 
 Istituti di moneta elettronica
 
@@ -5056,7 +5052,7 @@ b) prestare servizi operativi e accessori strettamente connessi all'emissione di
 
 ((b-bis) emettere token collegati ad attivita' ai sensi dell'articolo 21 del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, e prestare servizi per le cripto-attivita' diversi da quelli di cui all'articolo 60, paragrafo 4, del medesimo regolamento, nonche' le attivita' connesse e strumentali, secondo quanto previsto dal decreto legislativo di attuazione del regolamento (UE) 2023/1114, salvo che svolgano altre attivita' imprenditoriali ai sensi dell'articolo 114-quinquies, comma 4.))
 
-##### Art. 114-quinquies
+###### Art. 114-quinquies
 
 Autorizzazione e operativita' transfrontaliera
 
@@ -5106,7 +5102,7 @@ L'autorizzazione e' rilasciata, sentito il Ministero degli affari esteri, tenend
 
 9\. La Banca d'Italia detta disposizioni attuative del presente articolo.
 
-##### Art. 114-quinquies.1
+###### Art. 114-quinquies.1
 
 Forme di tutela e patrimonio destinato
 
@@ -5120,7 +5116,7 @@ Forme di tutela e patrimonio destinato
 
 5\. Gli istituti di moneta elettronica che svolgano anche altre attivita' imprenditoriali diverse dall'emissione di moneta elettronica e dalla prestazione dei servizi di pagamento, autorizzati ai sensi dell'articolo 114-quinquies, comma 4, costituiscono un patrimonio destinato unico per l'emissione di moneta elettronica, la prestazione dei servizi di pagamento e per le relative attivita' accessorie e strumentali ((, nonche' per l'attivita' di emissione di token di moneta elettronica e per la prestazione di servizi per le cripto-attivita' di cui all'articolo 60, paragrafo 4, del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023)). A tale patrimonio destinato si applica l'articolo 114-terdecies, anche con riferimento all'emissione di moneta elettronica.
 
-##### Art. 114-quinquies.2
+###### Art. 114-quinquies.2
 
 Vigilanza
 
@@ -5156,7 +5152,7 @@ d-bis) disporre, qualora la loro permanenza in carica sia di pregiudizio per la 
 
 ((6-ter. Quando mancano o risultano inadeguati i provvedimenti dell'autorita' dello Stato di origine, quando le irregolarita' commesse possono pregiudicare interessi generali ovvero nei casi di urgenza per la tutela delle ragioni degli utenti, dei risparmiatori e degli altri soggetti ai quali sono prestati i servizi, la Banca d'Italia puo' adottare in via provvisoria le misure necessarie, comprese l'imposizione del divieto di intraprendere nuove operazioni e la chiusura della succursale, dandone comunicazione all'autorita' dello Stato di origine.))
 
-##### Art. 114-quinquies.3
+###### Art. 114-quinquies.3
 
 Rinvio
 
@@ -5170,7 +5166,7 @@ Rinvio
 
 3\. La Banca d'Italia puo' dettare disposizioni attuative ai fini dell'applicazione delle norme di cui al presente articolo.
 
-##### Art. 114-quinquies.4
+###### Art. 114-quinquies.4
 
 Deroghe
 
@@ -5196,9 +5192,9 @@ AGGIORNAMENTO (78)
 
 Il D.Lgs. 15 dicembre 2017, n. 218 ha disposto (con l'art. 5, comma 4) che "Gli istituti di cui agli articoli 114-quinquies.4 e 114-sexiesdecies del decreto legislativo 1° settembre 1993, n. 385 autorizzati a operare alla data del 13 gennaio 2018 possono continuare a esercitare le attivita' cui si riferisce l'autorizzazione fino al 13 gennaio 2019. Gli istituti di cui al periodo precedente sono autorizzati a esercitare le stesse attivita' dopo il 13 gennaio 2019 a condizione che rispettino i requisiti previsti ai sensi degli articoli 114-quinquies e 114-novies del decreto legislativo 1° settembre 1993, n. 385 e che trasmettano la documentazione attestante il rispetto dei requisiti stessi alla Banca d'Italia entro il 13 ottobre 2018. In caso di mancato rispetto dei requisiti di cui al periodo precedente, la Banca d'Italia, entro il 13 gennaio 2019, avvia un procedimento di revoca dell'autorizzazione o richiede l'adozione di misure correttive necessarie a garantire il rispetto dei requisiti stessi".
 
-## ((TITOLO V-ter - ISTITUTI DI PAGAMENTO))
+### ((TITOLO V-ter - ISTITUTI DI PAGAMENTO))
 
-##### Art. 114-sexies
+###### Art. 114-sexies
 
 (( (Servizi di pagamento)
 
@@ -5206,7 +5202,7 @@ Il D.Lgs. 15 dicembre 2017, n. 218 ha disposto (con l'art. 5, comma 4) che "Gli 
 
 Possono prestare servizi di pagamento, nel rispetto delle disposizioni ad essi applicabili, la Banca centrale europea, le banche centrali comunitarie, lo Stato italiano e gli altri Stati comunitari, le pubbliche amministrazioni statali, regionali e locali, nonche' Poste Italiane.))
 
-##### Art. 114-septies - Albo degli istituti di pagamento
+###### Art. 114-septies - Albo degli istituti di pagamento
 
 ((1. La Banca d'Italia iscrive in un apposito albo, consultabile pubblicamente, accessibile sul sito internet ed aggiornato periodicamente, gli istituti di pagamento autorizzati in Italia, con indicazione della tipologia di servizi che sono autorizzati a prestare e i relativi agenti; sono iscritte altresi' le succursali di istituti di pagamento italiani stabilite in uno Stato comunitario diverso dall'Italia. Per i prestatori dei servizi di disposizione di ordini di pagamento, l'albo riporta anche i dati identificativi della polizza assicurativa o della analoga garanzia di cui al comma 1-bis dell'articolo 114-novies.))
 
@@ -5226,7 +5222,7 @@ AGGIORNAMENTO (37)
 
 Il D.lgs. 13 agosto 2010, n. 141, ha disposto (con l'art. 28, comma 4) che "Con riferimento agli istituti di pagamento e agli istituti di moneta elettronica autorizzati in Italia l'abrogazione ha effetto a decorrere dalla data di entrata in vigore delle disposizioni di attuazione dell'articolo 128-quater comma 6."
 
-##### Art. 114-octies
+###### Art. 114-octies
 
 (( (Attivita' esercitabili). ))
 
@@ -5242,7 +5238,7 @@ c) gestire sistemi di pagamento.
 
 ((2-bis. Gli istituti di pagamento possono emettere token collegati ad attivita' ai sensi dell'articolo 21 del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, e prestare servizi per le cripto-attivita' ai sensi dell'articolo 63 del medesimo regolamento, nonche' le attivita' connesse e strumentali, secondo quanto previsto dal decreto legislativo di attuazione del regolamento (UE) 2023/1114, salvo che svolgano altre attivita' imprenditoriali ai sensi dell'articolo 114-novies, comma 4.))
 
-##### Art. 114-novies - Autorizzazione
+###### Art. 114-novies - Autorizzazione
 
 1\. La Banca d'Italia autorizza gli istituti di pagamento quando ricorrano le seguenti condizioni:
 
@@ -5278,7 +5274,7 @@ c) ((siano individuati uno o piu' soggetti responsabili del patrimonio di cui al
 
 5-bis. La Banca d'Italia detta disposizioni attuative del presente articolo.
 
-##### Art. 114-decies - Operativita' transfrontaliera
+###### Art. 114-decies - Operativita' transfrontaliera
 
 1\. Gli istituti di pagamento italiani possono stabilire succursali nel territorio della Repubblica e degli altri Stati comunitari nel rispetto delle procedure fissate dalla Banca d'Italia.
 
@@ -5300,7 +5296,7 @@ AGGIORNAMENTO (78)
 
 Il D.Lgs. 15 dicembre 2017, n. 218 ha disposto (con l'art. 1, comma 8, lettera d)) che al comma 4-bis, del presente articolo, il riferimento al comma 1 e' sostituito da quello al comma 2.
 
-##### Art. 114-undecies
+###### Art. 114-undecies
 
 Rinvio
 
@@ -5316,7 +5312,7 @@ Rinvio
 
 3\. La Banca d'Italia puo' dettare disposizioni attuative ai fini dell'applicazione delle norme di cui al presente articolo.
 
-##### Art. 114-duodecies
+###### Art. 114-duodecies
 
 Conti di pagamento e forme di tutela
 
@@ -5328,7 +5324,7 @@ Conti di pagamento e forme di tutela
 
 3\. Ai fini dell'applicazione della disciplina della liquidazione coatta amministrativa, i titolari di conti di pagamento sono equiparati ai clienti aventi diritto alla restituzione di strumenti finanziari.
 
-##### Art. 114-terdecies - Patrimonio destinato
+###### Art. 114-terdecies - Patrimonio destinato
 
 1\. Gli istituti di pagamento che svolgano anche attivita' imprenditoriali diverse dalla prestazione dei servizi di pagamento, autorizzati ai sensi dell'articolo 114-novies, comma 4, devono costituire un patrimonio destinato per la prestazione dei servizi di pagamento e per le relative attivita' accessorie e strumentali. A tal fine essi adottano apposita deliberazione contenente l'esatta descrizione dei beni e dei rapporti giuridici destinati e delle modalita' con le quali e' possibile disporre, integrare e sostituire elementi del patrimonio destinato. La deliberazione e' depositata e iscritta a norma dell' articolo 2436 del codice civile. Si applica il secondo comma dell'articolo 2447-quater del codice civile.
 
@@ -5346,7 +5342,7 @@ Conti di pagamento e forme di tutela
 
 ((7-bis. Ai patrimoni destinati costituiti ai sensi del presente articolo si applicano esclusivamente le disposizioni del codice civile espressamente richiamate.))
 
-##### Art. 114-quaterdecies - Vigilanza
+###### Art. 114-quaterdecies - Vigilanza
 
 1\. Gli istituti di pagamento inviano alla Banca d'Italia, con le modalita' e nei termini da essa stabiliti, le segnalazioni periodiche nonche' ogni altro dato e documento richiesto. Essi trasmettono anche i bilanci con le modalita' e nei termini stabiliti dalla Banca d'Italia.
 
@@ -5378,7 +5374,7 @@ Se le autorita' competenti dello Stato di origine lo richiedono, la Banca d'Ital
 
 6\. Nel confronti degli istituti di pagamento che svolgano anche attivita' imprenditoriali diverse dalla prestazione dei servizi di pagamento, autorizzati ai sensi dell'articolo 114-novies, comma 4, la Banca d'Italia esercita i poteri di vigilanza indicati nel presente articolo sull'attivita' di prestazione dei servizi di pagamento e sulle attivita' connesse e strumentali, avendo a riferimento anche il responsabile della gestione dell'attivita' e il patrimonio destinato.
 
-##### Art. 114-quinquiesdecies
+###### Art. 114-quinquiesdecies
 
 (( (Scambio di informazioni) ))
 
@@ -5388,7 +5384,7 @@ a) la Banca centrale europea e le banche centrali nazionali degli Stati membri, 
 
 b) altre autorita' competenti ai sensi di disposizioni comunitarie applicabili ai prestatori di servizi di pagamento.))
 
-##### Art. 114-sexiesdecies - Deroghe
+###### Art. 114-sexiesdecies - Deroghe
 
 1\. La Banca d'Italia puo' esentare i soggetti iscritti nell'albo degli istituti di pagamento dall'applicazione ((, in tutto o in parte,)) di alcune delle disposizioni previste dal presente titolo, quando ricorrono congiuntamente le seguenti condizioni:
 
@@ -5410,11 +5406,11 @@ AGGIORNAMENTO (78)
 
 Il D.Lgs. 15 dicembre 2017, n. 218 ha disposto (con l'art. 5, comma 4) che "Gli istituti di cui agli articoli 114-quinquies.4 e 114-sexiesdecies del decreto legislativo 1° settembre 1993, n. 385 autorizzati a operare alla data del 13 gennaio 2018 possono continuare a esercitare le attivita' cui si riferisce l'autorizzazione fino al 13 gennaio 2019. Gli istituti di cui al periodo precedente sono autorizzati a esercitare le stesse attivita' dopo il 13 gennaio 2019 a condizione che rispettino i requisiti previsti ai sensi degli articoli 114-quinquies e 114-novies del decreto legislativo 1° settembre 1993, n. 385 e che trasmettano la documentazione attestante il rispetto dei requisiti stessi alla Banca d'Italia entro il 13 ottobre 2018. In caso di mancato rispetto dei requisiti di cui al periodo precedente, la Banca d'Italia, entro il 13 gennaio 2019, avvia un procedimento di revoca dell'autorizzazione o richiede l'adozione di misure correttive necessarie a garantire il rispetto dei requisiti stessi".
 
-##### Art. 114-septiesdecies - Prestatori del servizio di informazione sui conti
+###### Art. 114-septiesdecies - Prestatori del servizio di informazione sui conti
 
 1\. Ai soggetti che prestano unicamente il servizio di informazione sui conti non si applicano gli articoli 114-octies, 114-novies, commi 4 e 5, 114-undecies, commi 1 e 1-ter, 114-duodecies, 114-terdecies, 114-sexiesdecies; si applicano gli articoli 126-bis, comma 4, 126-quater, comma 1, lettera a), 128, ((...)) 128-ter.
 
-##### Art. 114-octiesdecies
+###### Art. 114-octiesdecies
 
 (( (Apertura e mantenimento di conti di pagamento presso una banca).))
 
@@ -5422,11 +5418,11 @@ Il D.Lgs. 15 dicembre 2017, n. 218 ha disposto (con l'art. 5, comma 4) che "Gli 
 
 2\. Le banche notificano immediatamente alla Banca d'Italia il rifiuto dell'apertura di un conto di pagamento o la sua revoca. La notifica contiene tutte le necessarie e adeguate motivazioni relative alla chiusura o revoca del conto di pagamento. La Banca d'Italia individua, con proprio provvedimento, le modalita' della notifica.))
 
-## TITOLO VI - ((TRASPARENZA DELLE CONDIZIONI CONTRATTUALI E DEI RAPPORTI CON I CLIENTI))
+### TITOLO VI - ((TRASPARENZA DELLE CONDIZIONI CONTRATTUALI E DEI RAPPORTI CON I CLIENTI))
 
-### Capo I - OPERAZIONI E SERVIZI BANCARI E FINANZIARI
+#### Capo I - OPERAZIONI E SERVIZI BANCARI E FINANZIARI
 
-##### Art. 115
+###### Art. 115
 
 Ambito di applicazione
 
@@ -5448,7 +5444,7 @@ AGGIORNAMENTO (70)
 
 Il D.Lgs. 21 aprile 2016, n. 72, ha disposto (con l'art. 3, comma 1) che "Salvo quanto previsto dai commi 2, 3 e 4, le disposizioni del presente decreto si applicano a partire dal 1° luglio 2016 e ai contratti di credito sottoscritti successivamente a tale data. Ai contratti sottoscritti anteriormente continuano ad applicarsi le disposizioni vigenti nel giorno di entrata in vigore del presente decreto legislativo".
 
-##### Art. 116
+###### Art. 116
 
 Pubblicita'
 
@@ -5482,11 +5478,11 @@ AGGIORNAMENTO (38)
 
 Il D.Lgs. 13 agosto 2010, n. 141, come modificato dall'art. 4, comma 2 del D.Lgs. 14 dicembre 2010, n. 218, ha disposto (con l'art. 6, comma 2) che "Le disposizioni contenute nel titolo II del presente decreto entrano in vigore il centoventesimo giorno successivo alla sua pubblicazione. Le disposizioni che a tale data risultano adottate dalle Autorita' creditizie in base a norme modificate o sostituite dal titolo II rimangono in vigore in quanto compatibili".
 
-##### Art. 116-bis
+###### Art. 116-bis
 
 ((ARTICOLO NON PIU' PREVISTO DAL D.LGS. 13 AGOSTO 2010, N. 141))
 
-##### Art. 117
+###### Art. 117
 
 Contratti
 
@@ -5520,7 +5516,7 @@ Conseguentemente, al comma 6, rinumerato come comma 7, le parole: "nullita' indi
 
 Ha inoltre disposto (con l'art. 16, comma 8) che "Le disposizioni modificate, introdotte o sostituite dal presente decreto si applicano a decorrere dalla data di entrata in vigore dei corrispondenti articoli del decreto legislativo 13 agosto 2010, n. 141. I termini di conclusione dei procedimenti amministrativi, stabiliti da norme di legge o di regolamento, pendenti alla data del 19 settembre 2010, sono prorogati fino a 120 giorni successivi alla data di entrata in vigore del presente decreto".
 
-##### Art. 117-bis - Remunerazione degli affidamenti e degli sconfinamenti
+###### Art. 117-bis - Remunerazione degli affidamenti e degli sconfinamenti
 
 1\. I contratti di apertura di credito possono prevedere, quali unici oneri a carico del cliente, una commissione onnicomprensiva, calcolata in maniera proporzionale rispetto alla somma messa a disposizione del cliente e alla durata dell'affidamento, e un tasso di interesse debitore sulle somme prelevate. L'ammontare della commissione ((, determinata in coerenza con la delibera del CICR anche in relazione alle specifiche tipologie di apertura di credito e con particolare riguardo per i conti correnti,)) non puo' superare lo 0,5 per cento, per trimestre, della somma messa a disposizione del cliente.
 
@@ -5536,7 +5532,7 @@ AGGIORNAMENTO (51)
 
 Il D.L. 24 marzo 2012, n. 29, convertito con modificazioni dalla L. 18 maggio 2012, n. 62, ha disposto (con l'art. 1, comma 1-ter) che "La commissione di cui al comma 2 dell'articolo 117-bis del testo unico di cui al decreto legislativo 1º settembre 1993, n. 385, non si applica alle famiglie consumatrici titolari di conto corrente, nel caso di sconfinamenti pari o inferiori a 500 euro in assenza di affidamento ovvero oltre il limite di fido, per un solo periodo, per ciascun trimestre bancario, non superiore alla durata di sette giorni consecutivi".
 
-##### Art. 118
+###### Art. 118
 
 Modifica unilaterale delle condizioni contrattuali
 
@@ -5564,7 +5560,7 @@ AGGIORNAMENTO (42)
 
 Il D.L. 13 maggio 2011, n. 70, convertito con modificazioni dalla L. 12 luglio 2011, n. 106, ha disposto (con l'art. 8, comma 5, lettera g)) che "le disposizioni del comma 2-bis dell'articolo 118 del testo unico di cui al decreto legislativo 1º settembre 1993, n. 385, introdotto dalla lettera f) del presente comma, non si applicano ai contratti in corso alla data di entrata in vigore del presente decreto. Le modifiche introdotte ai contratti in corso alla predetta data sono inefficaci".
 
-##### Art. 118-bis
+###### Art. 118-bis
 
 (( (Variazione sostanziale o cessazione di un indice di riferimento). ))
 
@@ -5578,7 +5574,7 @@ Il D.L. 13 maggio 2011, n. 70, convertito con modificazioni dalla L. 12 luglio 2
 
 5\. I commi 2, 3 e 4 si applicano ai contratti aventi a oggetto operazioni e servizi disciplinati ai sensi del presente Titolo, anche ove diversi da quelli di cui all'articolo 3, paragrafo 1, numero 18), del regolamento (UE) 2016/1011. Non si applica l'articolo 118.))
 
-##### Art. 119
+###### Art. 119
 
 Comunicazioni periodiche alla clientela
 
@@ -5596,7 +5592,7 @@ AGGIORNAMENTO (38)
 
 Il D.Lgs. 14 dicembre 2010, n. 218, nel modificare il D.Lgs. 13 agosto 2010, n. 141, ha disposto (con l'art. 16, comma 8) che "Le disposizioni modificate, introdotte o sostituite dal presente decreto si applicano a decorrere dalla data di entrata in vigore dei corrispondenti articoli del decreto legislativo 13 agosto 2010, n. 141. I termini di conclusione dei procedimenti amministrativi, stabiliti da norme di legge o di regolamento, pendenti alla data del 19 settembre 2010, sono prorogati fino a 120 giorni successivi alla data di entrata in vigore del presente decreto".
 
-##### Art. 120
+###### Art. 120
 
 Decorrenza delle valute e calcolo degli interessi
 
@@ -5636,7 +5632,7 @@ AGGIORNAMENTO (38)
 
 Il D.Lgs. 14 dicembre 2010, n. 218, nel modificare il D.Lgs. 13 agosto 2010, n. 141, ha disposto (con l'art. 16, comma 8) che "Le disposizioni modificate, introdotte o sostituite dal presente decreto si applicano a decorrere dalla data di entrata in vigore dei corrispondenti articoli del decreto legislativo 13 agosto 2010, n. 141. I termini di conclusione dei procedimenti amministrativi, stabiliti da norme di legge o di regolamento, pendenti alla data del 19 settembre 2010, sono prorogati fino a 120 giorni successivi alla data di entrata in vigore del presente decreto".
 
-##### Art. 120-bis
+###### Art. 120-bis
 
 ((Recesso))
 
@@ -5648,7 +5644,7 @@ AGGIORNAMENTO (38)
 
 Il D.Lgs. 13 agosto 2010, n. 141, come modificato dall'art. 4, comma 2 del D.Lgs. 14 dicembre 2010, n. 218, ha disposto (con l'art. 6, comma 2) che "Le disposizioni contenute nel titolo II del presente decreto entrano in vigore il centoventesimo giorno successivo alla sua pubblicazione. Le disposizioni che a tale data risultano adottate dalle Autorita' creditizie in base a norme modificate o sostituite dal titolo II rimangono in vigore in quanto compatibili".
 
-##### Art. 120-ter
+###### Art. 120-ter
 
 Estinzione anticipata dei mutui immobiliari
 
@@ -5662,7 +5658,7 @@ AGGIORNAMENTO (38)
 
 Il D.Lgs. 13 agosto 2010, n. 141, come modificato dall'art. 4, comma 2 del D.Lgs. 14 dicembre 2010, n. 218, ha disposto (con l'art. 6, comma 2) che "Le disposizioni contenute nel titolo II del presente decreto entrano in vigore il centoventesimo giorno successivo alla sua pubblicazione. Le disposizioni che a tale data risultano adottate dalle Autorita' creditizie in base a norme modificate o sostituite dal titolo II rimangono in vigore in quanto compatibili".
 
-##### Art. 120-quater
+###### Art. 120-quater
 
 Surrogazione nei contratti di finanziamento.
 
@@ -5700,9 +5696,9 @@ AGGIORNAMENTO (38)
 
 Il D.Lgs. 13 agosto 2010, n. 141, come modificato dall'art. 4, comma 2 del D.Lgs. 14 dicembre 2010, n. 218, ha disposto (con l'art. 6, comma 2) che "Le disposizioni contenute nel titolo II del presente decreto entrano in vigore il centoventesimo giorno successivo alla sua pubblicazione. Le disposizioni che a tale data risultano adottate dalle Autorita' creditizie in base a norme modificate o sostituite dal titolo II rimangono in vigore in quanto compatibili".
 
-## ((Capo I-bis - CREDITO IMMOBILIARE AI CONSUMATORI))
+#### ((Capo I-bis - CREDITO IMMOBILIARE AI CONSUMATORI))
 
-##### Art. 120-quinquies - Definizioni
+###### Art. 120-quinquies - Definizioni
 
 1\. Nel presente capo, l'espressione:
 
@@ -5756,7 +5752,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 120-sexies
+###### Art. 120-sexies
 
 (( (Ambito di applicazione).))
 
@@ -5792,7 +5788,7 @@ AGGIORNAMENTO (70)
 
 Il D.Lgs. 21 aprile 2016, n. 72, ha disposto (con l'art. 3, comma 1) che "Salvo quanto previsto dai commi 2, 3 e 4, le disposizioni del presente decreto si applicano a partire dal 1° luglio 2016 e ai contratti di credito sottoscritti successivamente a tale data. Ai contratti sottoscritti anteriormente continuano ad applicarsi le disposizioni vigenti nel giorno di entrata in vigore del presente decreto legislativo".
 
-##### Art. 120-septies
+###### Art. 120-septies
 
 (( (Principi generali).))
 
@@ -5810,7 +5806,7 @@ AGGIORNAMENTO (70)
 
 Il D.Lgs. 21 aprile 2016, n. 72, ha disposto (con l'art. 3, comma 1) che "Salvo quanto previsto dai commi 2, 3 e 4, le disposizioni del presente decreto si applicano a partire dal 1° luglio 2016 e ai contratti di credito sottoscritti successivamente a tale data. Ai contratti sottoscritti anteriormente continuano ad applicarsi le disposizioni vigenti nel giorno di entrata in vigore del presente decreto legislativo".
 
-##### Art. 120-octies
+###### Art. 120-octies
 
 (( (Pubblicita').))
 
@@ -5854,7 +5850,7 @@ AGGIORNAMENTO (70)
 
 Il D.Lgs. 21 aprile 2016, n. 72, ha disposto (con l'art. 3, comma 2) che "Gli articoli 120-octies, 120-novies, 120-decies, comma 3, del decreto legislativo 1° settembre 1993, n. 385, si applicano a partire dal 1° novembre 2016; le disposizioni di attuazione dei medesimi articoli sono emanate entro il 30 settembre 2016. Fino al 31 ottobre 2016 si applica quanto previsto ai sensi dell'articolo 116 del decreto legislativo 1° settembre 1993, n. 385".
 
-##### Art. 120-novies - Obblighi precontrattuali
+###### Art. 120-novies - Obblighi precontrattuali
 
 1\. Il finanziatore o l'intermediario del credito mette a disposizione del consumatore, in qualsiasi momento, un documento contenente informazioni generali chiare e comprensibili sui contratti di credito offerti, su supporto cartaceo o altro supporto durevole.
 
@@ -5904,7 +5900,7 @@ AGGIORNAMENTO (119)
 
 Il D.Lgs. 31 dicembre 2025, n. 209, ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
 
-##### Art. 120-decies
+###### Art. 120-decies
 
 (( (Obblighi di informazione relativi agli intermediari del credito).))
 
@@ -5940,7 +5936,7 @@ AGGIORNAMENTO (70)
 
 Il D.Lgs. 21 aprile 2016, n. 72, ha disposto (con l'art. 3, comma 2) che "Gli articoli 120-octies, 120-novies, 120-decies, comma 3, del decreto legislativo 1° settembre 1993, n. 385, si applicano a partire dal 1° novembre 2016; le disposizioni di attuazione dei medesimi articoli sono emanate entro il 30 settembre 2016. Fino al 31 ottobre 2016 si applica quanto previsto ai sensi dell'articolo 116 del decreto legislativo 1° settembre 1993, n. 385".
 
-##### Art. 120-undecies - Verifica del merito creditizio
+###### Art. 120-undecies - Verifica del merito creditizio
 
 1\. Prima della conclusione del contratto di credito, il finanziatore svolge una valutazione approfondita del merito creditizio del consumatore, tenendo conto dei fattori pertinenti per verificare le prospettive di adempimento da parte del consumatore degli obblighi stabiliti dal contratto di credito. La valutazione del merito creditizio e' effettuata sulla base delle informazioni sulla situazione economica e finanziaria del consumatore necessarie, sufficienti e proporzionate e opportunamente verificate.
 
@@ -5974,7 +5970,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 120-undecies.1
+###### Art. 120-undecies.1
 
 (( (Banche dati). ))
 
@@ -6000,7 +5996,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 120-duodecies
+###### Art. 120-duodecies
 
 (( (Valutazione dei beni immobili).))
 
@@ -6018,7 +6014,7 @@ AGGIORNAMENTO (70)
 
 Il D.Lgs. 21 aprile 2016, n. 72, ha disposto (con l'art. 3, comma 3) che "L'articolo 120-duodecies del decreto legislativo 1° settembre 1993, n. 385, si applica a partire dal 1° novembre 2016; le disposizioni di attuazione previste dal comma 3 del medesimo articolo sono emanate entro il 30 settembre 2016".
 
-##### Art. 120-terdecies
+###### Art. 120-terdecies
 
 (( (Servizi di consulenza).))
 
@@ -6052,7 +6048,7 @@ AGGIORNAMENTO (70)
 
 Il D.Lgs. 21 aprile 2016, n. 72, ha disposto (con l'art. 3, comma 1) che "Salvo quanto previsto dai commi 2, 3 e 4, le disposizioni del presente decreto si applicano a partire dal 1° luglio 2016 e ai contratti di credito sottoscritti successivamente a tale data. Ai contratti sottoscritti anteriormente continuano ad applicarsi le disposizioni vigenti nel giorno di entrata in vigore del presente decreto legislativo".
 
-##### Art. 120-quaterdecies
+###### Art. 120-quaterdecies
 
 (( (Finanziamenti denominati in valuta estera).))
 
@@ -6080,13 +6076,13 @@ AGGIORNAMENTO (70)
 
 Il D.Lgs. 21 aprile 2016, n. 72, ha disposto (con l'art. 3, comma 1) che "Salvo quanto previsto dai commi 2, 3 e 4, le disposizioni del presente decreto si applicano a partire dal 1° luglio 2016 e ai contratti di credito sottoscritti successivamente a tale data. Ai contratti sottoscritti anteriormente continuano ad applicarsi le disposizioni vigenti nel giorno di entrata in vigore del presente decreto legislativo".
 
-##### Art. 120-quaterdecies.1
+###### Art. 120-quaterdecies.1
 
 (( (Rimborso anticipato). ))
 
 ((1. Il consumatore puo' rimborsare anticipatamente in qualsiasi momento, in tutto o in parte, l'importo dovuto al finanziatore e ha diritto a una riduzione del costo totale del credito, in misura pari all'importo degli interessi e dei costi dovuti per la vita residua del contratto)).
 
-##### Art. 120-quinquiesdecies
+###### Art. 120-quinquiesdecies
 
 (( (Inadempimento del consumatore).))
 
@@ -6118,7 +6114,7 @@ Il D.Lgs. 21 aprile 2016, n. 72, ha disposto (con l'art. 3, comma 1) che "La cla
 
 Ha inoltre disposto (con l'art. 3, comma 4) che "I commi 3 e 4 dell'articolo 120-quinquiesdecies del decreto legislativo 1° settembre 1993, n. 385, si applicano decorsi 60 giorni dall'entrata in vigore delle disposizioni di attuazione previste dal comma 5 del medesimo articolo, da adottarsi entro 180 giorni dall'entrata in vigore del presente decreto".
 
-##### Art. 120-sexiesdecies
+###### Art. 120-sexiesdecies
 
 (( (Osservatorio del mercato immobiliare).))
 
@@ -6132,7 +6128,7 @@ AGGIORNAMENTO (70)
 
 Il D.Lgs. 21 aprile 2016, n. 72, ha disposto (con l'art. 3, comma 1) che "Salvo quanto previsto dai commi 2, 3 e 4, le disposizioni del presente decreto si applicano a partire dal 1° luglio 2016 e ai contratti di credito sottoscritti successivamente a tale data. Ai contratti sottoscritti anteriormente continuano ad applicarsi le disposizioni vigenti nel giorno di entrata in vigore del presente decreto legislativo".
 
-##### Art. 120-septiesdecies
+###### Art. 120-septiesdecies
 
 (( (Remunerazioni e requisiti di professionalita').))
 
@@ -6150,7 +6146,7 @@ AGGIORNAMENTO (70)
 
 Il D.Lgs. 21 aprile 2016, n. 72, ha disposto (con l'art. 3, comma 1) che "Salvo quanto previsto dai commi 2, 3 e 4, le disposizioni del presente decreto si applicano a partire dal 1° luglio 2016 e ai contratti di credito sottoscritti successivamente a tale data. Ai contratti sottoscritti anteriormente continuano ad applicarsi le disposizioni vigenti nel giorno di entrata in vigore del presente decreto legislativo".
 
-##### Art. 120-octiesdecies
+###### Art. 120-octiesdecies
 
 (( (Pratiche di commercializzazione abbinata).))
 
@@ -6166,7 +6162,7 @@ AGGIORNAMENTO (70)
 
 Il D.Lgs. 21 aprile 2016, n. 72, ha disposto (con l'art. 3, comma 1) che "Salvo quanto previsto dai commi 2, 3 e 4, le disposizioni del presente decreto si applicano a partire dal 1° luglio 2016 e ai contratti di credito sottoscritti successivamente a tale data. Ai contratti sottoscritti anteriormente continuano ad applicarsi le disposizioni vigenti nel giorno di entrata in vigore del presente decreto legislativo".
 
-##### Art. 120-noviesdecies - Disposizioni applicabili
+###### Art. 120-noviesdecies - Disposizioni applicabili
 
 1\. Ai contratti di credito disciplinati dal presente capo si applicano gli articoli 117, 118-bis, 119, 120, comma 2, 120-ter, 120-quater e 125-septies. (112)
 
@@ -6202,9 +6198,9 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-## Capo II - ((CREDITO AI CONSUMATORI))
+#### Capo II - ((CREDITO AI CONSUMATORI))
 
-##### Art. 121
+###### Art. 121
 
 Definizioni
 
@@ -6264,7 +6260,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 122
+###### Art. 122
 
 Ambito di applicazione
 
@@ -6340,7 +6336,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 122-bis
+###### Art. 122-bis
 
 (( (Principi generali, gratuita' delle informazioni e divieto di discriminazione). ))
 
@@ -6364,7 +6360,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 123
+###### Art. 123
 
 Pubblicita'
 
@@ -6418,7 +6414,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 123-bis
+###### Art. 123-bis
 
 (( (Informazioni generali). ))
 
@@ -6436,7 +6432,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 124
+###### Art. 124
 
 Obblighi precontrattuali
 
@@ -6476,7 +6472,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 124.1
+###### Art. 124.1
 
 (( (Concessione non sollecitata di credito, consenso desunto e pratiche di commercializzazione abbinata). ))
 
@@ -6496,7 +6492,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 124.2
+###### Art. 124.2
 
 (( (Servizi di consulenza). ))
 
@@ -6534,7 +6530,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 124-bis
+###### Art. 124-bis
 
 Verifica del merito creditizio
 
@@ -6570,7 +6566,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 125
+###### Art. 125
 
 Banche dati
 
@@ -6604,7 +6600,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 125-bis
+###### Art. 125-bis
 
 Contratti e comunicazioni
 
@@ -6660,7 +6656,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 125-ter
+###### Art. 125-ter
 
 Recesso del consumatore
 
@@ -6698,7 +6694,7 @@ AGGIORNAMENTO (119)
 
 Il D.Lgs. 31 dicembre 2025, n. 209, ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
 
-##### Art. 125-quater
+###### Art. 125-quater
 
 ((Contratti a tempo indeterminato
 
@@ -6710,7 +6706,7 @@ a) recedere dal contratto con un preavviso di almeno due mesi, comunicato al con
 
 b) sospendere, per una giusta causa, l'utilizzo del credito da parte del consumatore, dandogliene comunicazione su supporto cartaceo o altro supporto durevole in anticipo e, ove cio' non sia possibile, immediatamente dopo la sospensione.))
 
-##### Art. 125-quinquies
+###### Art. 125-quinquies
 
 Inadempimento del fornitore
 
@@ -6732,7 +6728,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 125-sexies - Rimborso anticipato
+###### Art. 125-sexies - Rimborso anticipato
 
 1\. ((Il consumatore puo' rimborsare anticipatamente in qualsiasi momento, in tutto o in parte, l'importo dovuto al finanziatore e, in tal caso, ha diritto a una riduzione del costo totale del credito per la restante durata del contratto. Nel calcolare tale riduzione devono essere presi in considerazione tutti i costi posti a carico del consumatore dal finanziatore.)) ((120))
 
@@ -6784,7 +6780,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 125-septies
+###### Art. 125-septies
 
 ((Cessione dei crediti
 
@@ -6792,7 +6788,7 @@ Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contra
 
 2\. Il consumatore e' informato della cessione del credito, a meno che il cedente, in accordo con il cessionario, continui a gestire il credito nei confronti del consumatore. La Banca d'Italia, in conformita' alle deliberazioni del CICR, individua le modalita' con cui il consumatore e' informato.))
 
-##### Art. 125-octies
+###### Art. 125-octies
 
 Sconfinamento
 
@@ -6830,7 +6826,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 125-octies.1
+###### Art. 125-octies.1
 
 (( (Riduzione o cancellazione di apertura di credito in conto corrente e sconfinamento). ))
 
@@ -6846,7 +6842,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 125-novies
+###### Art. 125-novies
 
 Intermediari del credito
 
@@ -6868,7 +6864,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 125-decies - Inadempimento del consumatore
+###### Art. 125-decies - Inadempimento del consumatore
 
 1\. ((Il finanziatore adotta procedure per gestire i rapporti con i consumatori in difficolta' nei pagamenti al fine di esercitare, ove opportuno, un ragionevole grado di tolleranza prima dell'avvio di procedimenti esecutivi. La Banca d'Italia adotta disposizioni di attuazione del presente comma, con particolare riguardo agli obblighi informativi e di correttezza del finanziatore, ai casi di eventuale stato di bisogno o di particolare debolezza del consumatore, nonche' alle misure adottabili dal finanziatore, che comprendono la modifica delle condizioni del contratto di credito.)) ((120))
 
@@ -6890,7 +6886,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 125-undecies
+###### Art. 125-undecies
 
 (( (Remunerazioni e requisiti di professionalita'). ))
 
@@ -6910,7 +6906,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 125-duodecies
+###### Art. 125-duodecies
 
 (( (Educazione finanziaria). ))
 
@@ -6926,7 +6922,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 125-terdecies
+###### Art. 125-terdecies
 
 (( (Servizi di consulenza al debito). ))
 
@@ -6956,7 +6952,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 126
+###### Art. 126
 
 (( (Riservatezza delle informazioni). ))
 
@@ -6972,9 +6968,9 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-## ((Capo II-bis - SERVIZI DI PAGAMENTO))
+#### ((Capo II-bis - SERVIZI DI PAGAMENTO))
 
-##### Art. 126-bis - Disposizioni di carattere generale
+###### Art. 126-bis - Disposizioni di carattere generale
 
 1\. Il presente capo si applica ai contratti quadro relativi a servizi di pagamento e alle operazioni di pagamento, anche se queste non rientrano in un contratto quadro, quando i servizi sono offerti sul territorio della Repubblica.
 
@@ -6988,11 +6984,11 @@ Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contra
 
 6\. Nell'esercizio dei poteri regolamentari previsti dal presente capo, la Banca d'Italia tiene conto anche della finalita' di garantire un adeguato livello di affidabilita' ed efficienza dei servizi di pagamento.
 
-##### Art. 126-ter
+###### Art. 126-ter
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 DICEMBRE 2017, N. 218))
 
-##### Art. 126-quater
+###### Art. 126-quater
 
 (Informazioni relative alle operazioni di pagamento e ai contratti) 1. La Banca d'Italia disciplina:
 
@@ -7010,13 +7006,13 @@ AGGIORNAMENTO (119)
 
 Il D.Lgs. 31 dicembre 2025, n. 209, ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
 
-##### Art. 126-quinquies - Contratto quadro
+###### Art. 126-quinquies - Contratto quadro
 
 1\. Ai contratti quadro si applica l'articolo 117, commi 1, 2, 3, 4, 6 e 7 ((, e l'articolo 118-bis, commi 2, 3 e 4)). Il potere previsto dall'articolo 117, comma 2, e' esercitato dalla Banca d'Italia.
 
 2\. In qualsiasi momento del rapporto, l'utilizzatore di servizi di pagamento che ha concluso un contratto quadro puo' richiedere le condizioni contrattuali del contratto quadro nonche' le informazioni relative al contratto quadro previste ai sensi dell'articolo 126-quater, comma 1, lettera a), su supporto cartaceo o su altro supporto durevole.
 
-##### Art. 126-sexies - Modifica unilaterale delle condizioni
+###### Art. 126-sexies - Modifica unilaterale delle condizioni
 
 1\. Ogni modifica del contratto quadro o delle condizioni e informazioni a esso relative fornite all'utilizzatore ai sensi dell'articolo 126-quater, comma 1, lettera a), e' proposta dal prestatore dei servizi di pagamento secondo le modalita' stabilite dalla Banca d'Italia, con almeno due mesi di anticipo rispetto alla data di applicazione ((indicata nella proposta)).
 
@@ -7030,7 +7026,7 @@ Il D.Lgs. 31 dicembre 2025, n. 209, ha disposto (con l'art. 4, comma 1) che "Le 
 
 5\. ((COMMA ABROGATO DAL D.LGS. 15 DICEMBRE 2017, N. 218)).
 
-##### Art. 126-septies
+###### Art. 126-septies
 
 (( (Recesso)
 
@@ -7040,13 +7036,13 @@ Il D.Lgs. 31 dicembre 2025, n. 209, ha disposto (con l'art. 4, comma 1) che "Le 
 
 3\. In caso di recesso dal contratto dell'utilizzatore o del prestatore di servizi di pagamento, le spese per i servizi fatturate periodicamente sono dovute dall'utilizzatore solo in misura proporzionale per il periodo precedente al recesso; se pagate anticipatamente, esse sono rimborsate in maniera proporzionale.))
 
-##### Art. 126-octies - Denominazione valutaria dei pagamenti
+###### Art. 126-octies - Denominazione valutaria dei pagamenti
 
 1\. I pagamenti sono effettuati nella valuta concordata dalle parti.
 
 2\. Se al pagatore e' offerto, prima di disporre un'operazione di pagamento, un servizio di conversione valutaria dal beneficiario ovvero presso ((uno sportello automatico o presso)) il punto vendita da un venditore di merci o da un fornitore di servizi, colui che propone il servizio di conversione ((...)) comunica ((al pagatore)) tutte le spese e il tasso di cambio che sara' utilizzato per la conversione. Il pagatore accetta il servizio su tale base.
 
-##### Art. 126-novies
+###### Art. 126-novies
 
 ((Commissioni applicabili al rimborso della moneta elettronica
 
@@ -7064,9 +7060,9 @@ c) il rimborso e' chiesto piu' di un anno dopo la data di scadenza del contratto
 
 4\. Il contratto tra l'emittente e il detentore di moneta elettronica indica chiaramente ed esplicitamente le modalita' e le condizioni del rimborso.))
 
-## ((Capo II-ter - DISPOSIZIONI PARTICOLARI RELATIVE AI CONTI DI PAGAMENTO))
+#### ((Capo II-ter - DISPOSIZIONI PARTICOLARI RELATIVE AI CONTI DI PAGAMENTO))
 
-##### Art. 126-decies
+###### Art. 126-decies
 
 ((Oggetto, ambito di applicazione e definizioni))
 
@@ -7100,9 +7096,9 @@ g) "conto di base" indica un conto di pagamento denominato in euro con le caratt
 
 8\. Le norme del presente capo non si applicano a conti di pagamento eventualmente in essere presso la Banca d'Italia e la Cassa Depositi e Prestiti)).
 
-## ((Sezione I - Trasparenza e comparabilita' delle spese))
+##### ((Sezione I - Trasparenza e comparabilita' delle spese))
 
-##### Art. 126-undecies
+###### Art. 126-undecies
 
 ((Terminologia standardizzata europea))
 
@@ -7114,7 +7110,7 @@ g) "conto di base" indica un conto di pagamento denominato in euro con le caratt
 
 4\. I prestatori di servizi di pagamento possono utilizzare denominazioni e marchi commerciali per individuare i propri servizi nelle comunicazioni e informazioni precontrattuali, contrattuali, commerciali e pubblicitarie indirizzate ai consumatori, nel rispetto dei limiti eventualmente stabiliti con disposizioni della Banca d'Italia)).
 
-##### Art. 126-duodecies
+###### Art. 126-duodecies
 
 ((Informazioni precontrattuali e comunicazioni periodiche))
 
@@ -7134,7 +7130,7 @@ AGGIORNAMENTO (74)
 
 Il D.Lgs. 15 marzo 2017, n. 37 ha disposto (con l'art. 2, comma 1, lettera a)) che "l'articolo 126-duodecies si applica decorsi 180 giorni dall'emanazione delle relative disposizioni di attuazione, da adottarsi entro 180 giorni dalla data di entrata in vigore delle norme tecniche di regolamentazione emanate dalla Commissione europea ai sensi dell'articolo 3, paragrafo 4, della direttiva 2014/92/UE e delle norme tecniche di attuazione emanate ai sensi dell'articolo 4, paragrafo 6, e dell'articolo 5, paragrafo 4, della medesima direttiva".
 
-##### Art. 126-terdecies
+###### Art. 126-terdecies
 
 ((Siti web di confronto))
 
@@ -7182,7 +7178,7 @@ AGGIORNAMENTO (74)
 
 Il D.Lgs. 15 marzo 2017, n. 37 ha disposto (con l'art. 2, comma 1, lettera b)) che "l'articolo 126-terdecies si applica decorsi 90 giorni dalla data di entrata in vigore del decreto del Ministro dell'economia e delle finanze e delle disposizioni di attuazione della Banca d'Italia ivi previsti, da adottarsi entro 120 giorni dall'entrata in vigore del presente decreto".
 
-##### Art. 126-quaterdecies
+###### Art. 126-quaterdecies
 
 ((Conti di pagamento offerti in un pacchetto insieme ad altri prodotti))
 
@@ -7190,9 +7186,9 @@ Il D.Lgs. 15 marzo 2017, n. 37 ha disposto (con l'art. 2, comma 1, lettera b)) c
 
 2\. E' fatto salvo quanto stabilito dall'articolo 21, comma 3-bis, del decreto legislativo 6 settembre 2005, n. 206, e dall'articolo 120-octiesdecies)).
 
-## ((Sezione II - Trasferimento dei servizi di pagamento connessi al conto di pagamento))
+##### ((Sezione II - Trasferimento dei servizi di pagamento connessi al conto di pagamento))
 
-##### Art. 126-quinquiesdecies
+###### Art. 126-quinquiesdecies
 
 ((Servizio di trasferimento))
 
@@ -7234,7 +7230,7 @@ Il D.Lgs. 15 marzo 2017, n. 37 ha disposto (con l'art. 2, comma 1, lettera c)) c
 
 Ha inoltre disposto (con l'art. 2, comma 1, lettera d)) che "l'articolo 126-quinquiesdecies, comma 10, si applica decorsi 60 giorni dalla data di entrata in vigore delle relative disposizioni di attuazione, da adottarsi entro 120 giorni dall'entrata in vigore del presente decreto".
 
-##### Art. 126-sexiesdecies
+###### Art. 126-sexiesdecies
 
 ((Spese applicabili per il servizio di trasferimento))
 
@@ -7254,7 +7250,7 @@ AGGIORNAMENTO (74)
 
 Il D.Lgs. 15 marzo 2017, n. 37 ha disposto (con l'art. 2, comma 1, lettera c)) che "la Sezione II si applica decorsi 60 giorni dalla data di entrata in vigore del presente decreto, salvo quanto previsto dalla lettera d)".
 
-##### Art. 126-septiesdecies
+###### Art. 126-septiesdecies
 
 ((Obblighi informativi e responsabilita'))
 
@@ -7270,7 +7266,7 @@ AGGIORNAMENTO (74)
 
 Il D.Lgs. 15 marzo 2017, n. 37 ha disposto (con l'art. 2, comma 1, lettera c)) che "la Sezione II si applica decorsi 60 giorni dalla data di entrata in vigore del presente decreto, salvo quanto previsto dalla lettera d)".
 
-##### Art. 126-octiesdecies
+###### Art. 126-octiesdecies
 
 ((Apertura di un conto di pagamento in altro Stato comunitario))
 
@@ -7292,9 +7288,9 @@ AGGIORNAMENTO (74)
 
 Il D.Lgs. 15 marzo 2017, n. 37 ha disposto (con l'art. 2, comma 1, lettera c)) che "la Sezione II si applica decorsi 60 giorni dalla data di entrata in vigore del presente decreto, salvo quanto previsto dalla lettera d)".
 
-## ((Sezione III - Conto di base))
+##### ((Sezione III - Conto di base))
 
-##### Art. 126-noviesdecies
+###### Art. 126-noviesdecies
 
 ((Diritto al conto di base))
 
@@ -7312,7 +7308,7 @@ AGGIORNAMENTO (74)
 
 Il D.Lgs. 15 marzo 2017, n. 37 ha disposto (con l'art. 2, comma 1, lettera e)) che "la Sezione III si applica decorsi 60 giorni dalla data di entrata in vigore della disciplina di attuazione prevista negli articoli 126-vicies-semel, comma 1, 126-vicies-bis, comma 2, 126-vicies-quater, comma 1, 126-vicies-quinquies, comma 1, da adottarsi entro 120 giorni dall'entrata in vigore del presente decreto".
 
-##### Art. 126-vicies
+###### Art. 126-vicies
 
 ((Apertura del conto di base))
 
@@ -7330,7 +7326,7 @@ AGGIORNAMENTO (74)
 
 Il D.Lgs. 15 marzo 2017, n. 37 ha disposto (con l'art. 2, comma 1, lettera e)) che "la Sezione III si applica decorsi 60 giorni dalla data di entrata in vigore della disciplina di attuazione prevista negli articoli 126-vicies-semel, comma 1, 126-vicies-bis, comma 2, 126-vicies-quater, comma 1, 126-vicies-quinquies, comma 1, da adottarsi entro 120 giorni dall'entrata in vigore del presente decreto".
 
-##### Art. 126-vicies semel
+###### Art. 126-vicies semel
 
 ((Caratteristiche del conto di base))
 
@@ -7348,7 +7344,7 @@ AGGIORNAMENTO (74)
 
 Il D.Lgs. 15 marzo 2017, n. 37 ha disposto (con l'art. 2, comma 1, lettera e)) che "la Sezione III si applica decorsi 60 giorni dalla data di entrata in vigore della disciplina di attuazione prevista negli articoli 126-vicies-semel, comma 1, 126-vicies-bis, comma 2, 126-vicies-quater, comma 1, 126-vicies-quinquies, comma 1, da adottarsi entro 120 giorni dall'entrata in vigore del presente decreto".
 
-##### Art. 126-vicies bis
+###### Art. 126-vicies bis
 
 ((Spese applicabili))
 
@@ -7366,7 +7362,7 @@ AGGIORNAMENTO (74)
 
 Il D.Lgs. 15 marzo 2017, n. 37 ha disposto (con l'art. 2, comma 1, lettera e)) che "la Sezione III si applica decorsi 60 giorni dalla data di entrata in vigore della disciplina di attuazione prevista negli articoli 126-vicies-semel, comma 1, 126-vicies-bis, comma 2, 126-vicies-quater, comma 1, 126-vicies-quinquies, comma 1, da adottarsi entro 120 giorni dall'entrata in vigore del presente decreto".
 
-##### Art. 126-vicies ter
+###### Art. 126-vicies ter
 
 ((Recesso))
 
@@ -7398,7 +7394,7 @@ AGGIORNAMENTO (74)
 
 Il D.Lgs. 15 marzo 2017, n. 37 ha disposto (con l'art. 2, comma 1, lettera e)) che "la Sezione III si applica decorsi 60 giorni dalla data di entrata in vigore della disciplina di attuazione prevista negli articoli 126-vicies-semel, comma 1, 126-vicies-bis, comma 2, 126-vicies-quater, comma 1, 126-vicies-quinquies, comma 1, da adottarsi entro 120 giorni dall'entrata in vigore del presente decreto".
 
-##### Art. 126-vicies quater
+###### Art. 126-vicies quater
 
 ((Conti di base per particolari categorie di consumatori))
 
@@ -7412,7 +7408,7 @@ AGGIORNAMENTO (74)
 
 Il D.Lgs. 15 marzo 2017, n. 37 ha disposto (con l'art. 2, comma 1, lettera e)) che "la Sezione III si applica decorsi 60 giorni dalla data di entrata in vigore della disciplina di attuazione prevista negli articoli 126-vicies-semel, comma 1, 126-vicies-bis, comma 2, 126-vicies-quater, comma 1, 126-vicies-quinquies, comma 1, da adottarsi entro 120 giorni dall'entrata in vigore del presente decreto".
 
-##### Art. 126-vicies quinquies
+###### Art. 126-vicies quinquies
 
 ((Informazioni sul conto di base))
 
@@ -7426,7 +7422,7 @@ AGGIORNAMENTO (74)
 
 Il D.Lgs. 15 marzo 2017, n. 37 ha disposto (con l'art. 2, comma 1, lettera e)) che "la Sezione III si applica decorsi 60 giorni dalla data di entrata in vigore della disciplina di attuazione prevista negli articoli 126-vicies-semel, comma 1, 126-vicies-bis, comma 2, 126-vicies-quater, comma 1, 126-vicies-quinquies, comma 1, da adottarsi entro 120 giorni dall'entrata in vigore del presente decreto".
 
-##### Art. 126-vicies sexies
+###### Art. 126-vicies sexies
 
 ((Educazione finanziaria))
 
@@ -7442,9 +7438,9 @@ AGGIORNAMENTO (74)
 
 Il D.Lgs. 15 marzo 2017, n. 37 ha disposto (con l'art. 2, comma 1, lettera e)) che "la Sezione III si applica decorsi 60 giorni dalla data di entrata in vigore della disciplina di attuazione prevista negli articoli 126-vicies-semel, comma 1, 126-vicies-bis, comma 2, 126-vicies-quater, comma 1, 126-vicies-quinquies, comma 1, da adottarsi entro 120 giorni dall'entrata in vigore del presente decreto".
 
-## Capo III - REGOLE GENERALI E CONTROLLI
+#### Capo III - REGOLE GENERALI E CONTROLLI
 
-##### Art. 127
+###### Art. 127
 
 Regole generali
 
@@ -7466,7 +7462,7 @@ AGGIORNAMENTO (38)
 
 Il D.Lgs. 14 dicembre 2010, n. 218, nel modificare il D.Lgs. 13 agosto 2010, n. 141, ha disposto (con l'art. 16, comma 8) che "Le disposizioni modificate, introdotte o sostituite dal presente decreto si applicano a decorrere dalla data di entrata in vigore dei corrispondenti articoli del decreto legislativo 13 agosto 2010, n. 141. I termini di conclusione dei procedimenti amministrativi, stabiliti da norme di legge o di regolamento, pendenti alla data del 19 settembre 2010, sono prorogati fino a 120 giorni successivi alla data di entrata in vigore del presente decreto".
 
-##### Art. 127-bis
+###### Art. 127-bis
 
 Spese addebitabili
 
@@ -7486,7 +7482,7 @@ AGGIORNAMENTO (38)
 
 Il D.Lgs. 13 agosto 2010, n. 141, come modificato dall'art. 4, comma 2 del D.Lgs. 14 dicembre 2010, n. 218, ha disposto (con l'art. 6, comma 2) che "Le disposizioni contenute nel titolo II del presente decreto entrano in vigore il centoventesimo giorno successivo alla sua pubblicazione. Le disposizioni che a tale data risultano adottate dalle Autorita' creditizie in base a norme modificate o sostituite dal titolo II rimangono in vigore in quanto compatibili".
 
-##### Art. 127-ter
+###### Art. 127-ter
 
 (( (Valutazione del merito creditizio fondata sul trattamento automatizzato di dati personali del cliente). ))
 
@@ -7502,7 +7498,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 128
+###### Art. 128
 
 Controlli
 
@@ -7530,7 +7526,7 @@ Il D.Lgs. 30 luglio 2024, n. 116, ha disposto (con l'art. 3, comma 7) che le pre
 
 Le disposizioni del presente decreto che modificano il titolo VI, capi I-bis e II, del decreto legislativo 1° settembre 1993, n. 385, si applicano ai contratti di credito immobiliare ai consumatori e di credito ai consumatori stipulati a partire dalla medesima data.
 
-##### Art. 128-bis
+###### Art. 128-bis
 
 Risoluzione delle controversie
 
@@ -7550,7 +7546,7 @@ AGGIORNAMENTO (38)
 
 Il D.Lgs. 13 agosto 2010, n. 141, come modificato dall'art. 4, comma 2 del D.Lgs. 14 dicembre 2010, n. 218, ha disposto (con l'art. 6, comma 2) che "Le disposizioni contenute nel titolo II del presente decreto entrano in vigore il centoventesimo giorno successivo alla sua pubblicazione. Le disposizioni che a tale data risultano adottate dalle Autorita' creditizie in base a norme modificate o sostituite dal titolo II rimangono in vigore in quanto compatibili".
 
-##### Art. 128-ter
+###### Art. 128-ter
 
 Misure inibitorie
 
@@ -7580,9 +7576,9 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-## ((TITOLO VI-bis - AGENTI IN ATTIVITA' FINANZIARIA E MEDIATORI CREDITIZI))
+### ((TITOLO VI-bis - AGENTI IN ATTIVITA' FINANZIARIA E MEDIATORI CREDITIZI))
 
-##### Art. 128-quater
+###### Art. 128-quater
 
 Agenti in attivita' finanziaria
 
@@ -7632,7 +7628,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 128-quinquies
+###### Art. 128-quinquies
 
 Requisiti per l'iscrizione nell'elenco degli agenti in attivita' finanziaria
 
@@ -7664,7 +7660,7 @@ AGGIORNAMENTO (38)
 
 Il D.Lgs. 14 dicembre 2010, n. 218, nel modificare il D.Lgs. 13 agosto 2010, n. 141, ha disposto (con l'art. 16, comma 8) che "Le disposizioni modificate, introdotte o sostituite dal presente decreto si applicano a decorrere dalla data di entrata in vigore dei corrispondenti articoli del decreto legislativo 13 agosto 2010, n. 141. I termini di conclusione dei procedimenti amministrativi, stabiliti da norme di legge o di regolamento, pendenti alla data del 19 settembre 2010, sono prorogati fino a 120 giorni successivi alla data di entrata in vigore del presente decreto".
 
-##### Art. 128-sexies
+###### Art. 128-sexies
 
 Mediatori creditizi
 
@@ -7708,7 +7704,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 128-septies
+###### Art. 128-septies
 
 Requisiti per l'iscrizione nell'elenco dei mediatori creditizi
 
@@ -7748,7 +7744,7 @@ AGGIORNAMENTO (70)
 
 Il D.Lgs. 21 aprile 2016, n. 72, ha disposto (con l'art. 3, comma 1) che "Salvo quanto previsto dai commi 2, 3 e 4, le disposizioni del presente decreto si applicano a partire dal 1° luglio 2016 e ai contratti di credito sottoscritti successivamente a tale data. Ai contratti sottoscritti anteriormente continuano ad applicarsi le disposizioni vigenti nel giorno di entrata in vigore del presente decreto legislativo".
 
-##### Art. 128-octies
+###### Art. 128-octies
 
 Incompatibilita'
 
@@ -7770,7 +7766,7 @@ AGGIORNAMENTO (70)
 
 Il D.Lgs. 21 aprile 2016, n. 72, ha disposto (con l'art. 3, comma 1) che "Salvo quanto previsto dai commi 2, 3 e 4, le disposizioni del presente decreto si applicano a partire dal 1° luglio 2016 e ai contratti di credito sottoscritti successivamente a tale data. Ai contratti sottoscritti anteriormente continuano ad applicarsi le disposizioni vigenti nel giorno di entrata in vigore del presente decreto legislativo".
 
-##### Art. 128-novies
+###### Art. 128-novies
 
 Dipendenti e collaboratori
 
@@ -7796,7 +7792,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 128-novies.1
+###### Art. 128-novies.1
 
 (( (Operativita' transfrontaliera). ))
 
@@ -7806,7 +7802,7 @@ Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contra
 
 3\. I soggetti di cui al comma 2 del presente articolo sono iscritti in un apposito elenco tenuto dall'Organismo di cui all'articolo 128-undecies. L'Organismo procede all'iscrizione entro un mese dalla ricezione della comunicazione di cui al comma 2)).
 
-##### Art. 128-decies - Disposizioni di trasparenza e connessi poteri di controllo
+###### Art. 128-decies - Disposizioni di trasparenza e connessi poteri di controllo
 
 1\. Agli agenti in attivita' finanziaria, agli agenti previsti dall'articolo 128-quater, comma 7, ((ai mediatori creditizi e ai dipendenti e collaboratori di cui all'articolo 128-novies, comma 3,)) si applicano, in quanto compatibili, le norme del Titolo VI. La Banca d'Italia puo' stabilire ulteriori regole per garantire trasparenza e correttezza nei rapporti con la clientela. ((120))
 
@@ -7844,7 +7840,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 128-undecies
+###### Art. 128-undecies
 
 Organismo
 
@@ -7874,7 +7870,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 128-duodecies
+###### Art. 128-duodecies
 
 Disposizioni procedurali
 
@@ -7990,7 +7986,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 128-ter decies
+###### Art. 128-ter decies
 
 Vigilanza della Banca d'Italia sull'Organismo
 
@@ -8010,7 +8006,7 @@ AGGIORNAMENTO (37)
 
 Il D.Lgs. 13 agosto 2010, n. 141 ha disposto (con l'art. 28, comma 5) che "Le disposizioni contenute nel titolo IV del presente decreto legislativo si applicano a decorrere dal sessantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
-##### Art. 128-quater decies
+###### Art. 128-quater decies
 
 Ristrutturazione dei crediti
 
@@ -8030,9 +8026,9 @@ AGGIORNAMENTO (38)
 
 Il D.Lgs. 14 dicembre 2010, n. 218, nel modificare il D.Lgs. 13 agosto 2010, n. 141, ha disposto (con l'art. 16, comma 8) che "Le disposizioni modificate, introdotte o sostituite dal presente decreto si applicano a decorrere dalla data di entrata in vigore dei corrispondenti articoli del decreto legislativo 13 agosto 2010, n. 141. I termini di conclusione dei procedimenti amministrativi, stabiliti da norme di legge o di regolamento, pendenti alla data del 19 settembre 2010, sono prorogati fino a 120 giorni successivi alla data di entrata in vigore del presente decreto".
 
-## TITOLO VII - ALTRI CONTROLLI
+### TITOLO VII - ALTRI CONTROLLI
 
-##### Art. 129
+###### Art. 129
 
 (( Emissione di strumenti finanziari ))
 
@@ -8040,43 +8036,43 @@ Il D.Lgs. 14 dicembre 2010, n. 218, nel modificare il D.Lgs. 13 agosto 2010, n. 
 
 2\. La Banca d'Italia emana disposizioni attuative del presente articolo. ))
 
-## TITOLO VIII - SANZIONI
+### TITOLO VIII - SANZIONI
 
-### ((Capo I - ABUSIVISMO BANCARIO E FINANZIARIO))
+#### ((Capo I - ABUSIVISMO BANCARIO E FINANZIARIO))
 
-##### Art. 130
+###### Art. 130
 
 Abusiva attivita' di raccolta del risparmio
 
 1\. Chiunque svolge l'attivita' di raccolta del risparmio tra il pubblico in violazione dell'art. 11 e' punito con l'arresto da sei mesi a tre anni e con l'ammenda da lire venticinque milioni a lire cento milioni.
 
-##### Art. 131
+###### Art. 131
 
 Abusiva attivita' bancaria
 
 1\. Chiunque svolge l'attivita' di raccolta del risparmio tra il pubblico in violazione dell'art. 11 ed esercita il credito e' punito con la reclusione da sei mesi a quattro anni e con la multa da lire quattro milioni a lire venti milioni.
 
-##### Art. 131-bis - Abusiva emissione di moneta elettronica
+###### Art. 131-bis - Abusiva emissione di moneta elettronica
 
 1\. Chiunque emette moneta elettronica ((in violazione della riserva prevista dall'articolo 114-bis)) senza essere iscritto nell'albo previsto dall'articolo 13 o in quello previsto dall'articolo 114-bis, comma 2, e' punito con la reclusione da sei mesi a quattro anni e con la multa da 2.066 euro a 10.329 euro.
 
-##### Articolo 131-ter - Abusiva attivita' di prestazione di servizi di pagamento
+###### Articolo 131-ter - Abusiva attivita' di prestazione di servizi di pagamento
 
 1\. Chiunque presta servizi di pagamento ((in violazione della riserva prevista dall'articolo 114-sexies)) senza essere autorizzato ai sensi dell'articolo 114-novies e' punito con la reclusione da sei mesi a quattro anni e con la multa da 2.066 euro a 10.329 euro.
 
-##### Art. 132
+###### Art. 132
 
 ((Abusiva attivita' finanziaria
 
 1\. Chiunque svolge, nei confronti del pubblico una o piu' attivita' finanziarie previste dall'articolo 106, comma 1, in assenza dell'autorizzazione di cui all'articolo 107 o dell'iscrizione di cui all'articolo 111 ovvero dell'articolo 112, e' punito con la reclusione da sei mesi a quattro anni e con la multa da euro 2.065 ad euro 10.329.))
 
-##### Art. 132-bis
+###### Art. 132-bis
 
 Denunzia al pubblico ministero ed al tribunale
 
 1\. Se vi e' fondato sospetto che una societa' svolga attivita' di raccolta del risparmio, attivita' bancaria, attivita' di emissione di moneta elettronica ((, prestazione di servizi di pagamento)) o attivita' finanziaria in violazione degli articoli 130, 131, 131-bis ((, 131-ter)) e 132, la Banca d'Italia o l'UIC possono denunziare i fatti al pubblico ministero ai fini dell'adozione dei provvedimenti previsti dall'articolo 2409 del codice civile, ovvero possono richiedere al tribunale l'adozione dei medesimi provvedimenti. Le spese per l'ispezione sono a carico della societa'.
 
-##### Art. 133
+###### Art. 133
 
 Abuso di denominazione
 
@@ -8100,21 +8096,21 @@ AGGIORNAMENTO (38)
 
 Il D.Lgs. 14 dicembre 2010, n. 218, nel modificare il D.Lgs. 13 agosto 2010, n. 141, ha disposto (con l'art. 16, comma 8) che "Le disposizioni modificate, introdotte o sostituite dal presente decreto si applicano a decorrere dalla data di entrata in vigore dei corrispondenti articoli del decreto legislativo 13 agosto 2010, n. 141. I termini di conclusione dei procedimenti amministrativi, stabiliti da norme di legge o di regolamento, pendenti alla data del 19 settembre 2010, sono prorogati fino a 120 giorni successivi alla data di entrata in vigore del presente decreto".
 
-## ((Capo II - ATTIVITA' DI VIGILANZA))
+#### ((Capo II - ATTIVITA' DI VIGILANZA))
 
-##### Art. 134
+###### Art. 134
 
 (( ARTICOLO ABROGATO DAL D.LGS 11 APRILE 2002, N. 61 ))
 
-## ((Capo III - BANCHE E GRUPPI BANCARI))
+#### ((Capo III - BANCHE E GRUPPI BANCARI))
 
-##### Art. 135
+###### Art. 135
 
 (( (Reati societari).
 
 1\. Le disposizioni contenute nel titolo XI del libro V del codice civile si applicano a chi svolge funzioni di amministrazione, direzione e controllo presso banche, anche se non costituite in forma societaria. ))
 
-##### Art. 136
+###### Art. 136
 
 Obbligazioni degli esponenti bancari
 
@@ -8138,7 +8134,7 @@ AGGIORNAMENTO (26)
 
 Il D.L 10 gennaio 2006, n. 4, convertito con modificazioni dalla L. 9 marzo 2006, n. 80, nel modificare l'art. 8, comma 2 della L. 28 dicembre 2005, n. 262 ha conseguentemente disposto (con l'art. 34-quater, comma 1) che le modifiche apportate al presente articolo, commi 2-bis e 3 "si applicano a decorrere dal 17 maggio 2006 ovvero, ove previste, dall'emanazione delle relative disposizioni di attuazione da parte della Commissione nazionale per le societa' e la borsa (CONSOB) e dell'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo (ISVAP)".
 
-##### Art. 137
+###### Art. 137
 
 Mendacio e falso interno ((. . .))
 
@@ -8148,13 +8144,15 @@ Mendacio e falso interno ((. . .))
 
 2\. Salvo che il fatto costituisca reato piu' grave, chi svolge funzioni di amministrazione o di direzione ((presso una banca o un intermediario finanziario, nonche' i dipendenti di banche o intermediari finanziari)) che, al fine di concedere o far concedere credito ovvero di mutare le condizioni alle quali il credito venne prima concesso ovvero di evitare la revoca del credito concesso, consapevolmente omettono di segnalare dati o notizie di cui sono a conoscenza o utilizzano nella fase istruttoria notizie o dati falsi sulla costituzione o sulla situazione economica, patrimoniale e finanziaria del richiedente il fido, sono puniti con l'arresto da sei mesi a tre anni e con l'ammenda fino a lire venti milioni.
 
-##### Art. 138
+###### Art. 138
 
 (( ARTICOLO ABROGATO DAL D.LGS 11 APRILE 2002, N. 61 ))
 
-## ((Capo IV - PARTECIPAZIONE AL CAPITALE))
+#### ((Capo IV
 
-##### Art. 139
+## PARTECIPAZIONE AL CAPITALE))
+
+###### Art. 139
 
 Partecipazioni in banche, in societa' di partecipazione finanziaria e societa' di partecipazione finanziaria mista capogruppo e in intermediari finanziari (97)
 
@@ -8180,7 +8178,7 @@ AGGIORNAMENTO (112)
 
 Il D.Lgs. 30 luglio 2024, n. 116, ha disposto (con l'art. 3, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto si applicano a partire dalla data di entrata in vigore delle disposizioni di attuazione della Banca d'Italia di cui al comma 1 e con riferimento alle operazioni di acquisto di crediti in sofferenza effettuate a partire da tale data. Le disposizioni del presente decreto che modificano il titolo VI, capi I-bis e II, del decreto legislativo 1° settembre 1993, n. 385, si applicano ai contratti di credito immobiliare ai consumatori e di credito ai consumatori stipulati a partire dalla medesima data".
 
-##### Art. 140
+###### Art. 140
 
 Comunicazioni relative alle partecipazioni in banche, in societa' appartenenti ad un gruppo bancario, in societa' di partecipazione finanziaria e societa' di partecipazione finanziaria mista ed in intermediari finanziari (97)
 
@@ -8212,9 +8210,9 @@ AGGIORNAMENTO (112)
 
 Il D.Lgs. 30 luglio 2024, n. 116, ha disposto (con l'art. 3, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto si applicano a partire dalla data di entrata in vigore delle disposizioni di attuazione della Banca d'Italia di cui al comma 1 e con riferimento alle operazioni di acquisto di crediti in sofferenza effettuate a partire da tale data. Le disposizioni del presente decreto che modificano il titolo VI, capi I-bis e II, del decreto legislativo 1° settembre 1993, n. 385, si applicano ai contratti di credito immobiliare ai consumatori e di credito ai consumatori stipulati a partire dalla medesima data".
 
-## ((Capo IV-bis - AGENTI IN ATTIVITA' FINANZIARIA E MEDIATORI CREDITIZI))
+#### ((Capo IV-bis - AGENTI IN ATTIVITA' FINANZIARIA E MEDIATORI CREDITIZI))
 
-##### Art. 140-bis
+###### Art. 140-bis
 
 ((Esercizio abusivo dell'attivita'
 
@@ -8230,23 +8228,23 @@ AGGIORNAMENTO (37)
 
 Il D.Lgs. 13 agosto 2010, n. 141 ha disposto (con l'art. 28, comma 5) che "Le disposizioni contenute nel titolo IV del presente decreto legislativo si applicano a decorrere dal sessantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
-## ((Capo V - ALTRE SANZIONI))
+#### ((Capo V - ALTRE SANZIONI))
 
-##### Art. 141
+###### Art. 141
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 141))
 
-##### Art. 142
+###### Art. 142
 
 (( ARTICOLO ABROGATO DAL D.LGS. 23 LUGLIO 1996, n. 415 ))
 
-##### Art. 143
+###### Art. 143
 
 Emissione di valori mobiliari
 
 l. (( COMMA ABROGATO DAL D.LGS. 29 DICEMBRE 2006, N. 303 )).
 
-##### Art. 144
+###### Art. 144
 
 Altre sanzioni amministrative alle societa' o enti
 
@@ -8370,7 +8368,7 @@ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatt
 
 Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
-##### Art. 144-bis - Ordine di porre termine alle violazioni
+###### Art. 144-bis - Ordine di porre termine alle violazioni
 
 1\. Per le violazioni previste dall'articolo 144, comma 1, (( lettere a) ed e-ter) )), quando esse siano connotate da scarsa offensivita' o pericolosita', la Banca d'Italia puo', in alternativa all'applicazione delle sanzioni amministrative pecuniarie, applicare nei confronti della societa' o dell'ente una sanzione consistente nell'ordine di eliminare le infrazioni, anche indicando le misure da adottare e il termine per l'adempimento.((112))
 
@@ -8382,7 +8380,7 @@ AGGIORNAMENTO (112)
 
 Il D.Lgs. 30 luglio 2024, n. 116, ha disposto (con l'art. 3, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto si applicano a partire dalla data di entrata in vigore delle disposizioni di attuazione della Banca d'Italia di cui al comma 1 e con riferimento alle operazioni di acquisto di crediti in sofferenza effettuate a partire da tale data. Le disposizioni del presente decreto che modificano il titolo VI, capi I-bis e II, del decreto legislativo 1° settembre 1993, n. 385, si applicano ai contratti di credito immobiliare ai consumatori e di credito ai consumatori stipulati a partire dalla medesima data".
 
-##### Art. 144-ter - Altre sanzioni amministrative agli esponenti o al personale
+###### Art. 144-ter - Altre sanzioni amministrative agli esponenti o al personale
 
 1\. Fermo restando quanto previsto per le societa' e gli enti nei confronti dei quali sono accertate le violazioni, per l'inosservanza delle norme richiamate dall'articolo 144, comma 1, lettere a) ed e-ter), e comma 1-bis, si applica la sanzione amministrativa pecuniaria da euro 5.000 fino a 5 milioni di euro nei confronti dei soggetti che svolgono funzioni di amministrazione, di direzione o di controllo, nonche' del personale, quando l'inosservanza e' conseguenza della violazione di doveri propri o dell'organo di appartenenza e ricorrono una o piu' delle seguenti condizioni: (97) (112)
 
@@ -8422,7 +8420,7 @@ AGGIORNAMENTO (112)
 
 Il D.Lgs. 30 luglio 2024, n. 116, ha disposto (con l'art. 3, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto si applicano a partire dalla data di entrata in vigore delle disposizioni di attuazione della Banca d'Italia di cui al comma 1 e con riferimento alle operazioni di acquisto di crediti in sofferenza effettuate a partire da tale data. Le disposizioni del presente decreto che modificano il titolo VI, capi I-bis e II, del decreto legislativo 1° settembre 1993, n. 385, si applicano ai contratti di credito immobiliare ai consumatori e di credito ai consumatori stipulati a partire dalla medesima data".
 
-##### Art. 144-ter.1
+###### Art. 144-ter.1
 
 (( (Penalita' di mora).))
 
@@ -8446,7 +8444,7 @@ a) alle violazioni delle disposizioni richiamate al comma 1 a partire dall'11 ge
 
 b) alle violazioni delle disposizioni richiamate ai commi 5, 6, 7, 8 e 9, dalla data di entrata in vigore della disciplina attuativa ivi prevista".
 
-##### Art. 144-quater - Criteri per la determinazione delle sanzioni ((e delle penalita' di mora)) ). ((118)
+###### Art. 144-quater - Criteri per la determinazione delle sanzioni ((e delle penalita' di mora)) ). ((118)
 
 1\. Nella determinazione dell'ammontare delle sanzioni amministrative pecuniarie ((e delle penalita' di mora)) o della durata delle sanzioni accessorie previste nel presente titolo la Banca d'Italia considera ogni circostanza rilevante e, in particolare, tenuto conto del fatto che il destinatario della sanzione sia persona fisica o giuridica, le seguenti, ove pertinenti: ((118))
 
@@ -8482,7 +8480,7 @@ a) alle violazioni delle disposizioni richiamate al comma 1 a partire dall'11 ge
 
 b) alle violazioni delle disposizioni richiamate ai commi 5, 6, 7, 8 e 9, dalla data di entrata in vigore della disciplina attuativa ivi prevista".
 
-##### Art. 144-quinquies - Sanzioni per violazioni di disposizioni dell'Unione europea direttamente applicabili
+###### Art. 144-quinquies - Sanzioni per violazioni di disposizioni dell'Unione europea direttamente applicabili
 
 ((1. Nelle materie a cui si riferiscono le disposizioni richiamate agli articoli 139, 140, 144, 144-bis e 144-ter le sanzioni ivi previste si applicano, nella misura e con le modalita' stabilite nel presente titolo, anche in caso di inosservanza del regolamento UE n. 575/2013, delle norme tecniche di regolamentazione e di attuazione del medesimo regolamento e della direttiva 2013/36/UE emanate dalla Commissione Europea ai sensi degli articoli 10 e 15 del regolamento (CE) n. 1093/2010, ovvero in caso di inosservanza degli atti dell'ABE direttamente applicabili ai soggetti vigilati adottati ai sensi di quest'ultimo regolamento.)) ((97))
 
@@ -8492,13 +8490,13 @@ AGGIORNAMENTO (97)
 
 Il D.Lgs. 8 novembre 2021, n. 182 ha disposto (con l'art. 3, comma 10) che "Le modifiche apportate dal presente decreto al Titolo VIII del decreto legislativo 1° settembre 1993, n. 385, si applicano alle violazioni commesse a partire dalla data indicata all'articolo 6 del presente decreto, salvo che per le violazioni delle disposizioni richiamate nei commi 1, 2, 3, 4 e 6, alle quali le modifiche apportate dal presente decreto al Titolo VIII del decreto legislativo 1° settembre 1993, n. 385, si applicano a partire dalla data di entrata in vigore della disciplina attuativa richiamata nei commi 1, 2, 3, 4 e 6. Alle violazioni commesse prima di tali date continuano ad applicarsi le disposizioni del titolo VIII del decreto legislativo 1° settembre 1993, n. 385, in vigore il giorno precedente alla data di entrata in vigore del presente decreto".
 
-##### Art. 144-sexies
+###### Art. 144-sexies
 
 (( (Obbligo di astensione).))
 
 ((1. I soci e gli amministratori che violano l'obbligo di astensione di cui all'articolo 53, comma 4, secondo periodo, sono puniti con una sanzione amministrativa pecuniaria da euro 50.000 a euro 150.000.))
 
-##### Art. 144-septies
+###### Art. 144-septies
 
 (( (Applicazione delle sanzioni nell'ambito del MVU).))
 
@@ -8518,7 +8516,7 @@ c) la sanzione ha natura non pecuniaria.
 
 5\. L'applicazione delle sanzioni per le violazioni dei regolamenti e delle decisioni della BCE e' riservata alla stessa BCE, sia per i soggetti significativi sia per quelli meno significativi, nei casi e secondo le modalita' stabiliti dalle disposizioni dell'Unione europea.))
 
-##### Art. 144-ocites
+###### Art. 144-ocites
 
 ((Societa' di partecipazione finanziaria e societa' di partecipazione finanziaria mista aventi sede in uno Stato dell'Unione europea diverso dall'Italia.))
 
@@ -8532,7 +8530,7 @@ AGGIORNAMENTO (97)
 
 Il D.Lgs. 8 novembre 2021, n. 182 ha disposto (con l'art. 3, comma 10) che "Le modifiche apportate dal presente decreto al Titolo VIII del decreto legislativo 1° settembre 1993, n. 385, si applicano alle violazioni commesse a partire dalla data indicata all'articolo 6 del presente decreto, salvo che per le violazioni delle disposizioni richiamate nei commi 1, 2, 3, 4 e 6, alle quali le modifiche apportate dal presente decreto al Titolo VIII del decreto legislativo 1° settembre 1993, n. 385, si applicano a partire dalla data di entrata in vigore della disciplina attuativa richiamata nei commi 1, 2, 3, 4 e 6. Alle violazioni commesse prima di tali date continuano ad applicarsi le disposizioni del titolo VIII del decreto legislativo 1° settembre 1993, n. 385, in vigore il giorno precedente alla data di entrata in vigore del presente decreto".
 
-##### Art. 144-novies
+###### Art. 144-novies
 
 ((Societa' di partecipazione finanziaria e societa' di partecipazione finanziaria mista aventi sede in Italia e appartenenti a gruppi soggetti a vigilanza su base consolidata di competenza di autorita' di vigilanza di altri Stati dell'Unione europea.))
 
@@ -8548,9 +8546,9 @@ AGGIORNAMENTO (97)
 
 Il D.Lgs. 8 novembre 2021, n. 182 ha disposto (con l'art. 3, comma 10) che "Le modifiche apportate dal presente decreto al Titolo VIII del decreto legislativo 1° settembre 1993, n. 385, si applicano alle violazioni commesse a partire dalla data indicata all'articolo 6 del presente decreto, salvo che per le violazioni delle disposizioni richiamate nei commi 1, 2, 3, 4 e 6, alle quali le modifiche apportate dal presente decreto al Titolo VIII del decreto legislativo 1° settembre 1993, n. 385, si applicano a partire dalla data di entrata in vigore della disciplina attuativa richiamata nei commi 1, 2, 3, 4 e 6. Alle violazioni commesse prima di tali date continuano ad applicarsi le disposizioni del titolo VIII del decreto legislativo 1° settembre 1993, n. 385, in vigore il giorno precedente alla data di entrata in vigore del presente decreto".
 
-## ((Capo VI - DISPOSIZIONI GENERALI IN MATERIA DI SANZIONI AMMINISTRATIVE))
+#### ((Capo VI - DISPOSIZIONI GENERALI IN MATERIA DI SANZIONI AMMINISTRATIVE))
 
-##### Art. 145
+###### Art. 145
 
 Procedura sanzionatoria
 
@@ -8606,7 +8604,7 @@ AGGIORNAMENTO (64)
 
 Il D.Lgs. 12 maggio 2015, n. 72, ha disposto(con l'art. 1, comma 53, lettera f)) che "al comma 5 le parole: «decreto motivato» sono sostituite dalle seguenti: «ordinanza non impugnabile.»".
 
-##### Art. 145.1
+###### Art. 145.1
 
 (( (Procedura per l'applicazione delle penalita' di mora).))
 
@@ -8646,7 +8644,7 @@ a) alle violazioni delle disposizioni richiamate al comma 1 a partire dall'11 ge
 
 b) alle violazioni delle disposizioni richiamate ai commi 5, 6, 7, 8 e 9, dalla data di entrata in vigore della disciplina attuativa ivi prevista".
 
-##### Art. 145.2
+###### Art. 145.2
 
 (( (Collaborazione tra Autorita').))
 
@@ -8664,7 +8662,7 @@ a) alle violazioni delle disposizioni richiamate al comma 1 a partire dall'11 ge
 
 b) alle violazioni delle disposizioni richiamate ai commi 5, 6, 7, 8 e 9, dalla data di entrata in vigore della disciplina attuativa ivi prevista".
 
-##### Art. 145.3
+###### Art. 145.3
 
 (( (Cumulo di procedimenti amministrativi e penali).))
 
@@ -8688,7 +8686,7 @@ a) alle violazioni delle disposizioni richiamate al comma 1 a partire dall'11 ge
 
 b) alle violazioni delle disposizioni richiamate ai commi 5, 6, 7, 8 e 9, dalla data di entrata in vigore della disciplina attuativa ivi prevista".
 
-##### Art. 145-bis
+###### Art. 145-bis
 
 Procedure contenziose
 
@@ -8708,21 +8706,21 @@ AGGIORNAMENTO (38)
 
 Il D.Lgs. 14 dicembre 2010, n. 218, nel modificare il D.Lgs. 13 agosto 2010, n. 141, ha disposto (con l'art. 16, comma 8) che "Le disposizioni modificate, introdotte o sostituite dal presente decreto si applicano a decorrere dalla data di entrata in vigore dei corrispondenti articoli del decreto legislativo 13 agosto 2010, n. 141. I termini di conclusione dei procedimenti amministrativi, stabiliti da norme di legge o di regolamento, pendenti alla data del 19 settembre 2010, sono prorogati fino a 120 giorni successivi alla data di entrata in vigore del presente decreto".
 
-##### Art. 145-ter
+###### Art. 145-ter
 
 (( (Comunicazione all'ABE sulle sanzioni applicate).))
 
 ((1. La Banca d'Italia comunica all'ABE le sanzioni amministrative applicate ai sensi del presente titolo, ivi comprese quelle pubblicate in forma anonima, nonche' le informazioni ricevute dai soggetti interessati sulle azioni da essi avviate avverso i provvedimenti sanzionatori e sull'esito delle stesse.))
 
-##### Art. 145-quater
+###### Art. 145-quater
 
 (( (Disposizioni di attuazione).))
 
 ((1. La Banca d'Italia emana disposizioni di attuazione del presente titolo.))
 
-## TITOLO IX - DISPOSIZIONI TRANSITORIE E FINALI
+### TITOLO IX - DISPOSIZIONI TRANSITORIE E FINALI
 
-##### Articolo 146
+###### Articolo 146
 
 (( (Sorveglianza sul sistema dei pagamenti)
 
@@ -8750,7 +8748,7 @@ d) adottare per le materie indicate alla lettera b), ove la situazione lo richie
 
 4\. La Banca d'Italia partecipa all'esercizio dei poteri conferiti al SEBC in materia di sistemi di pagamento.))
 
-##### Art. 147
+###### Art. 147
 
 Altri poteri delle autorita' creditizie
 
@@ -8798,7 +8796,7 @@ Altri poteri delle autorita' creditizie
 
 > d) di esprimere il proprio parere in merito al ricorso che l'azienda intenda presentare al tribunale per la convocazione dei creditori al fine di proporre un concordato preventivo. Il ricorso e' stato dichiarato inammissibile dall'autorita' giudiziaria, se non accompagnato dal suddetto parere o dalla semplice dichiarazione di questo che nulla osta alla presentazione del ricorso".
 
-##### Art. 148
+###### Art. 148
 
 ((ARTICOLO ABROGATO DAL D.LGS 10 MARZO 1998, N. 43)) ((8))((11))
 
@@ -8814,7 +8812,7 @@ AGGIORNAMENTO (11)
 
 Il Decreto 28 settembre 1998 (in G.U. 1/10/1998, n. 229) nel modificare l'art. 6 del D.Lgs. 10 marzo 1998, n. 43, ha conseguentmente disposto (con l'art. 1, comma 2) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 29 marzo 1998 al 1 gennaio 1999.
 
-##### Art. 149
+###### Art. 149
 
 Banche popolari
 
@@ -8824,7 +8822,7 @@ Banche popolari
 
 3\. Entro tre anni dalla data di entrata in vigore del presente decreto legislativo i consorzi economici a garanzia limitata esercenti attivita' bancaria, devono trasformarsi in societa' per azioni o in banca popolare ovvero deliberare fusioni con banche da cui risultino societa' per azioni o banche popolari. Le deliberazioni assembleari sono assunte con le maggioranze previste dagli statuti per le modificazioni statutarie; quando, in relazione all'oggetto delle modificazioni, gli statuti prevedono maggioranze differenziate, si applica quella meno elevata. E' fatto salvo il diritto di recesso dei soci.
 
-##### Art. 150
+###### Art. 150
 
 Banche di credito cooperativo
 
@@ -8864,7 +8862,7 @@ Alle banche di credito cooperativo si applicano gli articoli 2, 7, 9, 11, 12, 14
 
 > 8\. Le disposizioni della presente legge non si applicano alle banche popolari, alle cooperative di assicurazione e alle societa' mutue assicuratrici, per le quali restano in vigore le disposizioni contenute nelle relative leggi speciali".
 
-##### Art. 150-bis
+###### Art. 150-bis
 
 Disposizioni in tema di banche cooperative.
 
@@ -8890,7 +8888,7 @@ AGGIORNAMENTO (67)
 
 Il D.L. 14 febbraio 2016, n. 18, convertito con modificazioni dalla L. 8 aprile 2016, n. 49, ha disposto (con l'art. 2, comma 3-bis) che "In deroga a quanto previsto dall'articolo 150-bis, comma 5, del decreto legislativo 1º settembre 1993, n. 385, la devoluzione non si produce per le banche di credito cooperativo che, entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, presentino alla Banca d'Italia, ai sensi dell'articolo 58 del decreto legislativo n. 385 del 1993, istanza, anche congiunta, di conferimento delle rispettive aziende bancarie ad una medesima societa' per azioni, anche di nuova costituzione, autorizzata all'esercizio dell'attivita' bancaria, purche' la banca istante o, in caso di istanza congiunta, almeno una delle banche istanti possieda, alla data del 31 dicembre 2015, un patrimonio netto superiore a duecento milioni di euro, come risultante dal bilancio riferito a tale data, su cui il revisore contabile ha espresso un giudizio senza rilievi".
 
-##### Art. 150-ter - Disposizioni in tema di partecipazione a banche di credito cooperativo
+###### Art. 150-ter - Disposizioni in tema di partecipazione a banche di credito cooperativo
 
 01\. (( Le banche di credito cooperativo emettono le azioni previste dall'articolo 2526 del codice civile nei casi e nei modi previsti dal presente articolo.))
 
@@ -8906,7 +8904,7 @@ Il D.L. 14 febbraio 2016, n. 18, convertito con modificazioni dalla L. 8 aprile 
 
 4-ter. Le azioni di cui al presente articolo non possono essere cedute con effetto verso la societa', se la cessione non e' autorizzata dagli amministratori. Non si applicano gli articoli 2542, secondo comma e terzo comma, secondo periodo, 2543, terzo comma, 2544, secondo comma, primo periodo, e terzo comma, del codice civile.))
 
-##### Art. 150-quater
+###### Art. 150-quater
 
 (( (Disposizioni in materia di partecipazione a banche popolari).))
 
@@ -8918,13 +8916,13 @@ Il D.L. 14 febbraio 2016, n. 18, convertito con modificazioni dalla L. 8 aprile 
 
 4\. Le banche popolari che versino in una situazione di inadeguatezza patrimoniale o che siano sottoposte ad amministrazione straordinaria possono emettere le azioni di finanziamento anche in deroga ai limiti previsti dall'articolo 2526, secondo comma, terzo periodo, del codice civile. Non si applicano gli articoli 2542, terzo comma e quarto comma, secondo periodo, 2543, terzo comma, e 2544, secondo comma, primo periodo, e terzo comma, del codice civile)).
 
-##### Art. 151
+###### Art. 151
 
 Banche pubbliche residue
 
 1\. L'operativita', l'organizzazione e il funzionamento delle banche pubbliche residue sono disciplinati dal presente decreto legislativo, dagli statuti e dalle altre norme in questi richiamate.
 
-##### Art. 152
+###### Art. 152
 
 Casse comunali di credito agrario e
 
@@ -8934,7 +8932,7 @@ Monti di credito su pegno di seconda categoria
 
 2\. Fino all'adozione delle misure previste dal comma 1, i monti di seconda categoria che non raccolgono risparmio tra il pubblico continuano a esercitare l'attivita' di credito su pegno. A tali enti si applicano, in quanto compatibili, le disposizioni del presente decreto legislativo.
 
-##### Art. 153
+###### Art. 153
 
 Disposizioni relative a particolari operazioni di credito
 
@@ -8954,7 +8952,7 @@ Disposizioni relative a particolari operazioni di credito
 
 > \- Il D.M. 23 gennaio 1928, pubblicato nella Gazzetta Ufficiale n. 27 del 2 febbraio 1928, reca: "Norme regolamentari per l'esecuzione del regio decreto legislativo 29 luglio 1927, n. 1509, sull'ordinamento del credito agrario nel Regno".
 
-##### Art. 154
+###### Art. 154
 
 Fondo interbancario di garanzia
 
@@ -8966,7 +8964,7 @@ Fondo interbancario di garanzia
 
 > "Art. 22 (Fondi di garanzia). - I proventi dei fondi di garanzia di cui alle leggi 2 giugno 1961, n. 454, e 14 ottobre 1964, n. 1068, e al decreto-legge 18 novembre 1966, n. 976, convertito nella legge 23 dicembre 1966, n. 1142, derivanti da contributi a fondo perduto, periodici o una volta tanto, dello Stato o di altri enti, nonche' quelli derivanti dalle somme che le aziende e istituti di credito trattengono sui finanziamenti assistiti da garanzie e versati successivamente ai fondi, non concorrono a formare il reddito dei fondi stessi, ai fini dell'imposta sul reddito delle persone giurdiche e dell'imposta locale sui redditi, a condizione che il loro ammontare venga integralmente destinato a costituire o incrementare un fondo di garanzia. Le perdite per le garanzie prestate devono essere imputate a detto fondo e non sono deducibili nella determinazione del reddito".
 
-##### Art. 155
+###### Art. 155
 
 ARTICOLO ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 141
 
@@ -8988,7 +8986,7 @@ Il D.Lgs. 13 agosto 2010, n. 141, come modificato dall'art. 7, comma 3 del D.Lgs
 
 Il D.Lgs. 14 dicembre 2010, n. 218, nel modificare il D.Lgs. 13 agosto 2010, n. 141, ha disposto (con l'art. 16, comma 8) che "Le disposizioni modificate, introdotte o sostituite dal presente decreto si applicano a decorrere dalla data di entrata in vigore dei corrispondenti articoli del decreto legislativo 13 agosto 2010, n. 141. I termini di conclusione dei procedimenti amministrativi, stabiliti da norme di legge o di regolamento, pendenti alla data del 19 settembre 2010, sono prorogati fino a 120 giorni successivi alla data di entrata in vigore del presente decreto".
 
-##### Art. 156
+###### Art. 156
 
 Modifica di disposizioni legislative
 
@@ -9018,7 +9016,7 @@ Modifica di disposizioni legislative
 
 7\. Nel comma 1 dell'articolo 3 della legge 26 novembre 1993, n. 489, le parole: ''sentita la Banca d'Italia'' sono soppresse.
 
-##### Art. 157
+###### Art. 157
 
 Modifiche al decreto legislativo 27 gennaio 1992, n. 87
 
@@ -9110,11 +9108,11 @@ dell'art. 41 del capo IV; degli articoli 42, comma 1, 43 e 46 del capo V, nonche
 
 3\. Con riferimento ai soggetti previsti nell'art. 1, comma 1, lettera e), i commi 1 e 2 del presente articolo si applicano solo a quelli iscritti nell'elenco speciale previsto dall'art. 107 del testo unico delle leggi in materia bancaria e creditizia.".
 
-##### Art. 158
+###### Art. 158
 
 (( ARTICOLO ABROGATO DAL D.LGS 23 LUGLIO 1996, N. 415 ))
 
-##### Art. 159
+###### Art. 159
 
 Regioni a statuto speciale
 
@@ -9128,7 +9126,7 @@ Regioni a statuto speciale
 
 ((4-bis. Le competenze delle regioni di cui al presente articolo sono esercitate nei limiti derivanti dalle disposizioni del MVU e in armonia con esse.))
 
-##### Art. 159-bis
+###### Art. 159-bis
 
 (( (Informazioni da inserire nei piani di risanamento).))
 
@@ -9182,11 +9180,11 @@ aa) un quadro di indicatori nel quale siano identificati i casi in cui possano e
 
 3\. Il piano di risanamento include infine le misure che la banca o il gruppo puo' adottare qualora sussistano le condizioni per un intervento precoce a norma dell'articolo 69-octiesdecies.))
 
-##### Art. 160
+###### Art. 160
 
 (( ARTICOLO ABROGATO DAL D.LGS. 24 FEBBRAIO 1998, N. 58 ))
 
-##### Art. 161
+###### Art. 161
 
 Norme abrogate
 
@@ -9498,7 +9496,7 @@ AGGIORNAMENTO (38)
 
 Il D.Lgs. 13 agosto 2010, n. 141, come modificato dall'art. 4, comma 2 del D.Lgs. 14 dicembre 2010, n. 218, ha disposto (con l'art. 6, comma 2) che "Le disposizioni contenute nel titolo II del presente decreto entrano in vigore il centoventesimo giorno successivo alla sua pubblicazione. Le disposizioni che a tale data risultano adottate dalle Autorita' creditizie in base a norme modificate o sostituite dal titolo II rimangono in vigore in quanto compatibili".
 
-##### Art. 162
+###### Art. 162
 
 Entrata in vigore
 
@@ -9534,9 +9532,9 @@ PALADIN, Ministro delle politiche comunitarie e affari regionali
 
 Visto, il Guardasigilli: CONSO
 
-## TITOLO IX - DISPOSIZIONI TRANSITORIE E FINALI
+### TITOLO IX - DISPOSIZIONI TRANSITORIE E FINALI
 
-##### Allegato A
+###### Allegato A
 
 ((Allegato A
 

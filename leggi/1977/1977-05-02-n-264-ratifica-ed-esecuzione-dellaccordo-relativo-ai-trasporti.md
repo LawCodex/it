@@ -25,15 +25,15 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare l'accordo relativo ai trasporti internazionali delle derrate deteriorabili ed ai mezzi speciali da usare per tali trasporti (ATP), con allegati, aperto alla firma a Ginevra il 1 settembre 1970.
 
-#### Art. 2
+### Art. 2
 
 Piena ed intera esecuzione e' data all'accordo di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 111 dell'accordo stesso.
 
-#### Art. 3
+### Art. 3
 
 Con decreto del Presidente della Repubblica, su proposta del Ministro per i trasporti, di concerto con i Ministri per la sanita' e per la marina mercantile, sentito il Consiglio nazionale delle ricerche, saranno emanate le norme regolamentari per l'attuazione della presente legge, entro un anno dalla sua entrata in vigore.
 
@@ -49,7 +49,7 @@ Visto, il Guardasigilli: BONIFACIO
 
 ## Allegati
 
-#### Accord
+### Accord
 
 ACCORD
 
@@ -77,7 +77,7 @@ DESIDERANDO migliorare le condizioni di conservazione della qualita' delle derra
 
 RITENENDO che il miglioramento delle condizioni di conservazione puo' favorire lo sviluppo del commercio delle derrate deteriorabili, HANNO CONVENUTO quanto segue:
 
-#### ARTICOLO 1
+### ARTICOLO 1
 
 Per i trasporti internazionali di derrate deteriorabili possono essere denominati mezzi di trasporti "isotermici", "refrigeranti", "frigoriferi" e "caloriferi" solo quei mezzi che soddisfino alle definizioni e norme, indicati nell'allegato 1 del presente Accordo.
 
@@ -91,15 +91,13 @@ Per i trasporti internazionali di derrate deteriorabili possono essere denominat
 
 > (5) In conformita' alla decisione adottata dal Comitato dei trasporti interni nella sua trentesima sessione.
 
-#### ARTICOLO 2
+### ARTICOLO 2
 
 Le Parti contraenti prenderanno le misure necessarie affinche' la conformita' alle norme dei mezzi di trasporto, menzionati nell'articolo 1 del presente Accordo, sia controllata e verificata in base alle disposizioni delle appendici 1, 2, 3 e 4 dell'allegato 1 del presente Accordo. Ciascuna Parte contraente riconoscera' la validita' degli attestati di conformita' rilasciati, conformemente al paragrafo 4 dell'appendice 1 dell'allegato 1 del presente Accordo, dall'autorita' competente di un'altra Parte contraente. Ciascuna Parte contraente puo' riconoscere la validita' degli attestati di conformita' rilasciati, rispettando le condizioni previste nelle appendici 1 e 2 dell'allegato 1 del presente Accordo, dall'autorita' competente di uno Stato che non e' Parte contraente.
 
-## CAPITOLO II - USO DI MEZZI DI TRASPORTO SPECIALI PER I TRASPORTI
+## CAPITOLO II - USO DI MEZZI DI TRASPORTO SPECIALI PER I TRASPORTI INTERNAZIONALI DI ALCUNE DERRATE DETERIORABILI
 
-### INTERNAZIONALI DI ALCUNE DERRATE DETERIORABILI
-
-#### ARTICOLO 3
+### ARTICOLO 3
 
 1\. Le disposizioni dell'articolo 4 del presente Accordo si applicano ad ogni trasporto, per conto di terzi o per proprio conto, effettuato esclusivamente - fatte salve le disposizioni del paragrafo 2 del presente articolo - sia per ferrovia, sia con un mezzo automobilistico, oppure con entrambi tali mezzi di trasporto,
 
@@ -115,7 +113,7 @@ Nel caso di trasporti comprendenti uno o piu' tragitti marittimi, diversi da que
 
 3\. Nonostante le disposizioni di cui ai paragrafi 1 e 2 del presente articolo, le Parti contraenti potranno non applicare le disposizioni dell'articolo 4 del presente Accordo ai trasporti di derrate che non sono destinate al consumo da parte dell'uomo.
 
-#### ARTICOLO 4
+### ARTICOLO 4
 
 1\. Per il trasporto delle derrate deteriorabili indicate negli allegati 2 e 3 del presente Accordo, devono essere impiegati i mezzi di trasporto indicati nell'articolo 1 del presente Accordo, ad esclusione dei casi in cui, in relazione alla temperatura prevista durante tutta la durata del trasporto, quest'obbligo appaia del tutto inutile per il mantenimento delle condizioni di temperatura fissate negli allegati 2 e 3 del presente Accordo. Questa attrezzatura dovra' essere scelta e utilizzata in modo tale da rendere possibile per tutto il tragitto il rispetto delle condizioni di temperatura fissate in questi allegati. Dovranno essere inoltre adottate tutte le misure necessarie, in particolare per quanto riguarda la temperatura delle derrate al momento del carico e le operazioni di congelamento e di ricongelamento durante il viaggio o altre operazioni necessarie. Le disposizioni del presente paragrafo si applicano solo in quanto non incompatibili rapportabili con gli obblighi internazionali, relativi ai trasporti internazionali, che derivano per le Parti contraenti dalle convenzioni in vigore al momento dell'entrata in vigore del presente Accordo oppure dalle convenzioni che le sostituiranno.
 
@@ -135,27 +133,27 @@ b) ciascuna Parte contraente potra', per esigenze sanitarie o veterinarie e semp
 
 ## CAPITOLO III - DISPOSIZIONI VARIE
 
-#### ARTICOLO 5
+### ARTICOLO 5
 
 Le disposizioni del presente Accordo non si applicano ai trasporti terrestri realizzati per mezzo di contenitori, senza trasbordo della merce, a condizione che questi trasporti siano preceduti o seguiti da un tragitto marittimo, diverso da quelli indicati nel paragrafo 2 dell'articolo 3 del presente Accordo.
 
-#### ARTICOLO 6
+### ARTICOLO 6
 
 1\. Ciascuna Parte contraente adottera' tutte le misure necessarie allo scopo di assicurare il rispetto delle disposizioni del presente Accordo. Le competenti Amministrazioni delle Parti contraenti si terranno reciprocamente informate sulle misure di carattere generale adottate a tale scopo.
 
 2\. Se una Parte contraente constata un'infrazione compiuta da una persona che risiede sul territorio di un'altra Parte contraente, oppure le infligge una sanzione, gli organi amministrativi della prima Parte informeranno gli organi amministrativi dell'altra Parte sull'infrazione constatata e sulla sanzione inflitta.
 
-#### ARTICOLO 7
+### ARTICOLO 7
 
 Le Parti contraenti conservano il diritto di convenire, mediante accordi bilaterali o multilaterali, che le disposizioni applicate, sia ai mezzi di trasporto speciali che alle temperature, alle quali devono essere mantenute alcune derrate durante il trasporto, potranno essere piu' severe di quelle previste dal presente Accordo, in considerazione di condizioni climatiche particolari. Tali disposizioni verranno applicate solo ai trasporti internazionali fra le Parti contraenti che abbiano concluso gli accordi bilaterali o multilaterali di cui al presente articolo. I testi di tali accordi verranno comunicati al Segretario generale dell'Organizzazione delle Nazioni Unite il quale li comunichera' alle Parti contraenti del presente Accordo, le quali non siano firmatarie di tali accordi.
 
-#### ARTICOLO 8
+### ARTICOLO 8
 
 L'inosservanza delle disposizioni del presente Accordo non pregiudica ne' l'esistenza ne' la validita' dei contratti conclusi in vista dell'esecuzione del trasporto.
 
 ## CAPITOLO IV - DISPOSIZIONI FINALI
 
-#### ARTICOLO 9
+### ARTICOLO 9
 
 1\. Gli Stati membri della Commissione economica per l'Europa e gli Stati ammessi alla Commissione a titolo consultivo, conformemente al paragrafo 8 del mandato di questa Commissione, possono diventare Parti contraenti del presente Accordo:
 
@@ -177,35 +175,35 @@ c) aderendovi.
 
 (\*) In conformita' alla decisione adottata dal Comitato dei trasporti interni nella sua trentesima sessione.
 
-#### ARTICOLO 10
+### ARTICOLO 10
 
 1\. Ciascuno Stato potra', all'atto della firma del presente Accordo senza riserva di ratifica oppure all'atto del deposito del proprio strumento di ratifica, di adesione, o in qualsiasi momento successivo dichiarare mediante notifica, indirizzata al Segretario generale dell'Organizzazione delle Nazioni Unite, che l'Accordo non si applica ai trasporti effettuati su tutti i suoi territori situati al di fuori dell'Europa oppure su uno qualunque di essi. Se tale notifica viene fatta dopo l'entrata in vigore dell'Accordo per lo Stato che ha inviato la notifica, l'Accordo cessera' di essere applicato ai trasporti sul territorio o sui territori indicati nella notifica, decorsi novanta giorni dalla data di ricezione di tale notifica da parte del Segretario generale.
 
 2\. Ogni Stato che abbia fatto una dichiarazione in conformita' al paragrafo 1 del presente articolo, puo' in qualunque momento successivo dichiarare a mezzo di notifica indirizzata al Segretario generale che l'Accordo verra' applicato ai trasporti su di un territorio indicato nella notifica, fatta in conformita' del paragrafo 1 del presente articolo e l'Accordo sara' applicabile ai trasporti sul territorio indicato centottanta giorni dopo la data di ricezione di tale notifica da parte del Segretario generale.
 
-#### ARTICOLO 11
+### ARTICOLO 11
 
 1\. Il presente Accordo entrera' in vigore un anno dopo che cinque degli Stati di cui al paragrafo 1 dell'articolo 9 lo avranno firmato senza riserva di ratifica oppure avranno depositato il proprio strumento di ratifica o di adesione.
 
 2\. Per ciascuno Stato che ratifichera' il presente Accordo o vi aderira' dopo che cinque Stati lo avranno firmato senza riserva di ratifica oppure avranno depositato il loro strumento di ratifica o di adesione, il presente Accordo entrera' in vigore un anno dopo il deposito dello strumento di ratifica o di adesione da parte di tale Stato.
 
-#### ARTICOLO 12
+### ARTICOLO 12
 
 1\. Ciascuna Parte contraente potra' denunciare il presente Accordo mediante notifica, indirizzata al Segretario generale dell'Organizzazione delle Nazioni Unite.
 
 2\. La denunzia avra' effetto quindici mesi dopo la data di ricezione di detta notifica da parte del Segretario generale.
 
-#### ARTICOLO 13
+### ARTICOLO 13
 
 Il presente Accordo cessera' di produrre i suoi effetti se, dopo la sua entrata in vigore il numero delle Parti contraenti sara' inferiore a cinque nel corso di un qualunque periodo di dodici mesi consecutivi.
 
-#### ARTICOLO 14
+### ARTICOLO 14
 
 1\. Ogni Stato potra', all'atto della firma del presente Accordo senza riserva di ratifica o del deposito del proprio strumento di ratifica o di adesione, oppure in qualsiasi momento successivo, dichiarare a mezzo di notifica indirizzata al Segretario generale dell'Organizzazione delle Nazioni Unite che il presente Accordo sara' applicato a tutto il territorio o ad una parte del territorio delle cui relazioni internazionali egli e' responsabile. Il presente Accordo sara' applicabile al territorio o ai territori indicati nella notifica a partire dal novantesimo giorno dalla data di ricezione di detta notifica da parte del Segretario generale oppure, se a questa data l'Accordo non e' ancora entrato in vigore, a partire dal giorno della sua entrata in vigore.
 
 2\. Ciascuno Stato che, conformemente al paragrafo 1 del presente articolo abbia fatto una dichiarazione che renda il presente Accordo applicabile ad un territorio delle cui relazioni internazionali egli e' responsabile, potra', conformemente all'articolo 12, denunciare il presente Accordo per quanto concerne detto territorio.
 
-#### ARTICOLO 15
+### ARTICOLO 15
 
 1\. Ogni controversia tra due o piu' Parti contraenti riguardo all'interpretazione o all'applicazione del presente Accordo verra' risolta, per quanto e' possibile, tramite negoziati fra le Parti in causa.
 
@@ -213,7 +211,7 @@ Il presente Accordo cessera' di produrre i suoi effetti se, dopo la sua entrata 
 
 3\. La decisione dell'arbitro o degli arbitri designati in conformita' del paragrafo precedente sara' vincolante per le Parti contraenti in causa.
 
-#### ARTICOLO 16
+### ARTICOLO 16
 
 1\. Ciascuno Stato potra', all'atto della firma o della ratifica del presente Accordo oppure all'atto dell'adesione, dichiarare che non si ritiene vincolato dai paragrafi 2 e 3 dell'articolo 15 del presente Accordo. Le altre Parti contraenti non saranno vincolate da questi paragrafi nei confronti di ogni Parte contraente che abbia formulato una tale riserva.
 
@@ -221,7 +219,7 @@ Il presente Accordo cessera' di produrre i suoi effetti se, dopo la sua entrata 
 
 3\. Ad esclusione della riserva prevista dal paragrafo 1 del presente articolo, non saranno ammesse altre riserve al presente Accordo.
 
-#### ARTICOLO 17
+### ARTICOLO 17
 
 1\. Dopo tre anni dall'entrata in vigore del presente Accordo ogni Parte contraente potra' presentare, mediante notifica indirizzata al Segretario generale dell'Organizzazione delle Nazioni Unite, la richiesta di convocazione di una conferenza allo scopo di rivedere il presente Accordo. Il Segretario generale notifichera' detta richiesta a tutte le Parti contraenti e indira' una conferenza per la revisione dell'Accordo se entro quattro mesi dalla sua notifica, almeno un terzo delle Parti contraenti gli avra' comunicato il proprio consenso a tale richiesta.
 
@@ -231,7 +229,7 @@ Il Segretario generale comunichera' a tutte le Parti contraenti l'ordine del gio
 
 3\. Il Segretario generale invitera' ad ogni conferenza, indetta conformemente al presente articolo, tutti gli Stati di cui al paragrafo 1 dell'articolo 9 del presente Accordo, nonche' gli Stati divenuti Parti contraenti in applicazione del paragrafo 2 del summenzionato articolo 9.
 
-#### ARTICOLO 18
+### ARTICOLO 18
 
 1\. Ciascuna Parte contraente potra' proporre uno o piu' emendamenti al presente Accordo. Il testo di ogni progetto di emendamento verra' indirizzato al Segretario generale dell'Organizzazione delle Nazioni Unite il quale lo comunichera' a tutte le Parti contraenti e lo portera' a conoscenza degli altri Stati indicati nel paragrafo 1 dell'articolo 9 del presente Accordo.
 
@@ -261,7 +259,7 @@ la data della scadenza del termine di nove mesi, di cui al paragrafo 3 del prese
 
 8\. Indipendentemente dalla procedura di emendamento di cui ai paragrafi 1-6 del presente articolo, gli allegati e le appendici al presente Accordo possono essere modificati mediante accordo tra le amministrazioni competenti di tutte le Parti contraenti. Se l'amministrazione di una delle Parti contraenti dichiara che, in conformita' alla propria legislazione nazionale, il suo accordo e' subordinato all'ottenimento di una autorizzazione speciale oppure all'approvazione da parte di un organo legislativo, il consenso di detta Parte contraente alla modifica dell'allegato sara' considerato concesso solo quando detta Parte contraente avra' dichiarato al Segretario generale che sono state ottenute le approvazioni o le autorizzazioni richieste. Nell'accordo tra le amministrazioni competenti potra' essere previsto che durante il periodo transitorio i vecchi allegati resteranno completamente o parzialmente in vigore contemporaneamente ai nuovi allegati. Il Segretario generale fissera' la data di entrata in vigore dei nuovi testi compilati in seguito all'introduzione di tali modifiche.
 
-#### ARTICOLO 19
+### ARTICOLO 19
 
 Oltre alle notifiche previste dagli articoli 17 e 18 del presente Accordo, il Segretario generale dell'Organizzazione delle Nazioni Unite comunichera' agli Stati indicati nel paragrafo 1 dell'articolo 9 del presente Accordo, nonche' agli Stati divenuti Parti contraenti in applicazione del paragrafo 2 dell'articolo 9 del presente Accordo:
 
@@ -279,7 +277,7 @@ f) le dichiarazioni e le notifiche ricevute in base ai paragrafi 1 e 2 dell'arti
 
 g) l'entrata in vigore di ogni emendamento conformemente all'articolo 18.
 
-#### ARTICOLO 20
+### ARTICOLO 20
 
 Dopo il (\*) 31 maggio 1971 l'orginale del presente Accordo sara' depositato presso il Segretario generale dell'Organizzazione delle Nazioni Unite il quale ne trasmettera' copie certificate conformi a tutti gli Stati indicati nei paragrafi 1 e 2 dell'articolo 9 del presente Accordo.
 
@@ -293,7 +291,7 @@ FATTO a Ginevra, il primo settembre millenovecentosettanta in un unico esemplare
 
 (\*) In conformita' alla decisione adottata dal Comitato dei trasporti interni nella sua trentesima sessione.
 
-#### Allegato 1
+### Allegato 1
 
 ALLEGATO 1.
 
@@ -858,7 +856,7 @@ Modello:
 
 (\*) Vedi le disposizioni transitorie al paragrafo 5 del presente allegato.
 
-#### Allegato 2
+### Allegato 2
 
 ALLEGATO 2.
 
@@ -870,7 +868,7 @@ Tuttavia se talune operazioni tecniche come, ad esempio, lo sbrinamento dell'eva
 
 Creme e succhi di frutta concentrati, congelati o surgelati . - 20°C Pesce congelato o surgelato . . . . . . . . . . . . . . . . . - 18°C Altre derrate surgelate . . . . . . . . . . . . . . . . . . . - 18°C Burro e altre materie grasse congelate. . . . . . . . . . . . - 14°C Frattaglie, rossi d'uovo, volatili e selvaggina congelati . . - 12°C Carni congelate . . . . . . . . . . . . . . . . . . . . . . . - 10°C Altre derrate congelate . . . . . . . . . . . . . . . . . . . - 10°C
 
-#### Allegato 3
+### Allegato 3
 
 ALLEGATO 3.
 

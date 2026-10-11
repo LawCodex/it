@@ -284,9 +284,9 @@ Corte penale internazionale
 
 ## TITOLO II - SCAMBI E INVESTIMENTI
 
-### Sezione I - Scambi di merci
+#### Sezione I - Scambi di merci
 
-#### CAPO I - Disposizioni generali
+### CAPO I - Disposizioni generali
 
 ##### Art. 8
 
@@ -378,7 +378,7 @@ Dazi all'esportazione
 
 Nessuna delle Parti mantiene in vigore o introduce dazi, tasse o altri diritti e oneri doganali sulle esportazioni di merci dell'altra Parte o in connessione a queste, ovvero tasse, diritti e oneri interni sulle merci esportate verso l'altra Parte superiori a quelli che gravano su prodotti simili destinati alla vendita sul mercato interno.
 
-## CAPO II - Dispositivi di difesa commerciale
+### CAPO II - Dispositivi di difesa commerciale
 
 ##### Art. 18
 
@@ -396,7 +396,7 @@ Misure di salvaguardia
 
 2\. Le disposizioni del titolo II, sezione VI, del presente accordo non si applicano al presente articolo.
 
-## CAPO III - Eccezioni
+### CAPO III - Eccezioni
 
 ##### Art. 20
 
@@ -404,7 +404,7 @@ Eccezioni generali
 
 Le disposizioni di cui all'articolo XX del GATT 1994, alle relative note e disposizioni aggiuntive e all'articolo XXI del GATT 1994, che sono incorporate e costituiscono parte del presente accordo, si applicano mutatis mutandis tra le Parti.
 
-## CAPO IV - Questioni non tariffarie
+### CAPO IV - Questioni non tariffarie
 
 ##### Art. 21
 
@@ -450,7 +450,7 @@ b) Le Parti convengono di scambiarsi, tramite punti di contatto, le informazioni
 
 c) Le Parti possono cooperare all'istituzione e alla manutenzione di punti di contatto e di banche dati comuni.
 
-## CAPO V - Misure sanitarie e fitosanitarie
+### CAPO V - Misure sanitarie e fitosanitarie
 
 ##### Art. 22
 
@@ -460,7 +460,7 @@ Misure sanitarie e fitosanitarie
 
 2\. Su richiesta, le Parti individuano e affrontano eventuali problemi derivanti dall'applicazione di misure sanitarie e fitosanitarie specifiche al fine di giungere a soluzioni reciprocamente accettabili.
 
-## Sezione II - Scambi di servizi e stabilimento
+#### Sezione II - Scambi di servizi e stabilimento
 
 ##### Art. 23
 
@@ -658,7 +658,7 @@ Progressiva liberalizzazione degli scambi di servizi e dello stabilimento
 
 Appena le circostanze lo consentano, compresa la situazione derivante dall'adesione dell'Iraq all'OMC, il consiglio di cooperazione puo' formulare raccomandazioni affinche' le Parti estendano progressivamente gli scambi di servizi e lo stabilimento tra loro, garantendo piena coerenza con le disposizioni del GATS, segnatamente quelle di cui all'articolo V. Ove accettate, le suddette raccomandazioni potranno essere poste in essere mediante accordi tra le Parti.
 
-## Sezione III - Disposizioni riguardanti le attività commerciali e gli investimenti
+#### Sezione III - Disposizioni riguardanti le attività commerciali e gli investimenti
 
 ##### Art. 32
 
@@ -672,7 +672,7 @@ Punti di contatto e scambio di informazioni
 
 Al fine di agevolare la comunicazione tra le Parti su qualsiasi questione commerciale afferente agli investimenti privati, ciascuna Parte designa un punto di contatto. Su richiesta di una delle Parti, il punto di contatto dell'altra Parte indica l'ufficio o il funzionario competente e fornisce l'assistenza necessaria ad agevolare la comunicazione con la Parte richiedente.
 
-## Sezione IV - Pagamenti correnti e capitali
+#### Sezione IV - Pagamenti correnti e capitali
 
 ##### Art. 34
 
@@ -716,7 +716,7 @@ Disposizioni finali
 
 2\. Le Parti si consultano onde agevolare la circolazione dei capitali tra loro, cosi' da promuovere gli obiettivi del presente accordo.
 
-## Sezione V - Questioni connesse agli scambi
+#### Sezione V - Questioni connesse agli scambi
 
 ### CAPO I - Imprese commerciali di Stato
 
@@ -728,7 +728,7 @@ Disposizioni finali
 
 3\. Le Parti garantiscono che tutte le imprese commerciali di Stato fornitrici di beni o servizi rispettino gli obblighi sottoscritti in forza del presente accordo.
 
-## CAPO II - Appalti pubblici
+### CAPO II - Appalti pubblici
 
 ##### Art. 41
 
@@ -1166,7 +1166,7 @@ In considerazione del fabbisogno finanziario e commerciale e delle esigenze conn
 
 La progressiva soppressione del programma di prezzi preferenziali entro dieci anni dall'entrata in vigore del presente accordo.
 
-## CAPO III - Protezione dei diritti di proprietà intellettuale
+### CAPO III - Protezione dei diritti di proprietà intellettuale
 
 ##### Art. 60
 
@@ -1186,7 +1186,7 @@ Nell'elaborare la normativa o se sorgono problemi in materia di proprieta' intel
 
 6\. Per quanto riguarda il riconoscimento e la protezione dei diritti di proprieta' intellettuale, industriale e commerciale, a decorrere dall'entrata in vigore del presente accordo, l'Iraq riserva alle imprese e ai cittadini dell'Unione un trattamento non meno favorevole di quello accordato ai paesi terzi nel quadro di accordi bilaterali.
 
-## Sezione VI - Composizione delle controversie
+#### Sezione VI - Composizione delle controversie
 
 ### CAPO I - Obiettivo e ambito di applicazione
 
@@ -1202,7 +1202,7 @@ Ambito di applicazione
 
 Salvo diversa disposizione esplicita, la presente sezione si applica a tutte le controversie riguardanti l'interpretazione e l'applicazione delle disposizioni di cui al titolo II del presente accordo.
 
-## CAPO II - Consultazioni
+### CAPO II - Consultazioni
 
 ##### Art. 63
 
@@ -1220,7 +1220,7 @@ Tutte le informazioni comunicate durante le consultazioni rimangono riservate.
 
 5\. Se le consultazioni non sono avviate entro i termini di cui rispettivamente al paragrafo 3 o al paragrafo 4 oppure si concludono senza una soluzione concordata, la Parte attrice puo' chiedere la costituzione di un collegio arbitrale a norma dell'art. 64.
 
-## CAPO III - Procedure per la composizione delle controversie
+### CAPO III - Procedure per la composizione delle controversie
 
 ##### Art. 64
 
@@ -1352,7 +1352,7 @@ Lodi e decisioni del collegio arbitrale
 
 2\. I lodi del collegio arbitrale sono vincolanti per le Parti e non generano diritti o obblighi per le persone fisiche o giuridiche. Il lodo accerta i fatti e l'applicabilita' delle pertinenti disposizioni dell'accordo e fornisce le motivazioni alla base di tutte le risultanze e conclusioni in esso contenute. Il comitato di cooperazione rende pubblico il lodo del collegio arbitrale in ogni sua parte, a meno che non decida altrimenti per salvaguardare la riservatezza delle informazioni commerciali.
 
-## CAPO IV - Disposizioni generali
+### CAPO IV - Disposizioni generali
 
 ##### Art. 78
 

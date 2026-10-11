@@ -68,11 +68,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Disposizioni generali
 
-### Disposizioni generali
-
-#### Art. 1
+### Art. 1
 
 Oggetto
 
@@ -260,7 +258,7 @@ Oggetto
 
 > 2\. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Alle attivita' previste dal presente articolo si provvede nell'ambito delle risorse umane, finanziarie e strumentali previste dalla legislazione vigente.».
 
-#### Art. 2
+### Art. 2
 
 Natura e finalita' dell'Ente
 
@@ -270,7 +268,7 @@ Natura e finalita' dell'Ente
 
 3\. DigitPA svolge funzioni di natura progettuale, tecnica e operativa, con la missione di contribuire alla creazione di valore per cittadini e imprese da parte della pubblica amministrazione, attraverso la realizzazione dell'amministrazione digitale.
 
-#### Art. 3
+### Art. 3
 
 Funzioni
 
@@ -292,11 +290,9 @@ d) funzioni di predisposizione, realizzazione e gestione di interventi e progett
 
 4\. Fermo restando quanto disposto all'articolo 22, l'Ente svolge ogni altra funzione prevista da leggi e regolamenti gia' attribuita al CNIPA, nell'ambito delle direttive del Presidente del Consiglio dei Ministri o del Ministro delegato.
 
-## Capo II
+## Capo II - Organi e Direttore Generale
 
-### Organi e Direttore Generale
-
-#### Art. 4
+### Art. 4
 
 Organi
 
@@ -308,7 +304,7 @@ b) il Comitato direttivo;
 
 c) il Collegio dei revisori.
 
-#### Art. 5
+### Art. 5
 
 Il Presidente
 
@@ -340,7 +336,7 @@ Il Presidente
 
 > \- Per il decreto legislativo 30 luglio 1999, n. 286, si rimanda alle note delle premesse.
 
-#### Art. 6
+### Art. 6
 
 Il Comitato direttivo
 
@@ -360,7 +356,7 @@ e) i pareri di cui all'articolo 3, comma 3, e le regole, gli standard e le guide
 
 3\. Ai fini delle deliberazioni, in caso di parita' di voti, prevale quello del Presidente.
 
-#### Art. 7
+### Art. 7
 
 Il Collegio dei revisori
 
@@ -386,7 +382,7 @@ Il Collegio dei revisori
 
 > In tal caso il collegio sindacale e' costituito da revisori contabili iscritti nel registro istituito presso il Ministero della giustizia.».
 
-#### Art. 8
+### Art. 8
 
 Il Direttore Generale
 
@@ -408,7 +404,7 @@ Ha facolta' di intervento e proposta, senza diritto di voto.
 
 8\. Il Direttore Generale e' titolare dell'unico centro di responsabilita' amministrativa e predispone il bilancio di previsione e le variazioni di bilancio nonche' il rendiconto consuntivo annuale ed esercita le funzioni ad esso attribuite dal Regolamento per la gestione delle risorse economiche e finanziarie dell'Ente.
 
-#### Art. 9
+### Art. 9
 
 Incompatibilita'
 
@@ -418,7 +414,7 @@ Incompatibilita'
 
 3\. Il Presidente, il Direttore Generale e i componenti del Comitato direttivo non possono ricoprire il ruolo di amministratore o dipendente di qualsiasi societa'. Ferme restando le norme sulle incompatibilita' previste dalla disciplina del pubblico impiego, la carica di Direttore Generale e' incompatibile con lo svolgimento di qualsiasi altra attivita' professionale.
 
-#### Art. 10
+### Art. 10
 
 Indennita' e compensi
 
@@ -426,11 +422,9 @@ Indennita' e compensi
 
 2\. Ai tre componenti del Comitato direttivo spetta un'indennita' di importo pari al settanta per cento dell'indennita' del Presidente.
 
-## Capo III
+## Capo III - Organizzazione di DigitPA e ordinamento del personale e di contabilita'
 
-### Organizzazione di DigitPA e ordinamento - del personale e di contabilita'
-
-#### Art. 11
+### Art. 11
 
 Organizzazione di DigitPA
 
@@ -438,7 +432,7 @@ Organizzazione di DigitPA
 
 2\. L'organizzazione di DigitPA, deliberata dal Comitato direttivo ai sensi dell'articolo 6, comma 2, lettera c), definita nel rispetto della dotazione organica stabilita ai sensi del presente decreto, prevede l'ufficio di livello dirigenziale generale del Direttore generale e, oltre alle due strutture di livello dirigenziale non generale, poste alle dipendenze del Presidente, di cui all'articolo 5, comma 9, e dell'area, di livello dirigenziale non generale, posta alle dipendenze del Direttore Generale, di cui all'articolo 8, comma 7, sedici uffici dirigenziali, di livello dirigenziale non generale, di cui sei definiti «aree operative» organizzate in relazione alle missioni affidate all'ente stesso.
 
-#### Art. 12
+### Art. 12
 
 Dotazione organica
 
@@ -446,7 +440,7 @@ Dotazione organica
 
 2\. Per lo svolgimento dei propri compiti istituzionali, DigitPA puo' avvalersi, nei limiti della dotazione organica e della disponibilita' economica esistente, di personale in posizione di comando, distacco o fuori ruolo in misura non superiore ad un terzo della dotazione organica.
 
-#### Art. 13
+### Art. 13
 
 Contingente di personale con contratti
 
@@ -496,7 +490,7 @@ di lavoro flessibile
 
 > «188. Per gli enti di ricerca, l'Istituto superiore di sanita' (ISS), l'Istituto superiore per la prevenzione e la sicurezza del lavoro (ISPESL), l'Agenzia per i servizi sanitari regionali (ASSR), l'Agenzia italiana del farmaco (AIFA), l'Agenzia spaziale italiana (ASI), l'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA), il Centro nazionale per l'informatica nella pubblica amministrazione (CNIPA), nonche' per le universita' e le scuole superiori ad ordinamento speciale e per gli istituti zooprofilattici sperimentali, sono fatte comunque salve le assunzioni a tempo determinato e la stipula di contratti di collaborazione coordinata e continuativa per l'attuazione di progetti di ricerca e di innovazione tecnologica ovvero di progetti finalizzati al miglioramento di servizi anche didattici per gli studenti, i cui oneri non risultino a carico dei bilanci di funzionamento degli enti o del Fondo di finanziamento degli enti o del Fondo di finanziamento ordinario delle universita'.».
 
-#### Art. 14
+### Art. 14
 
 Norme sul personale
 
@@ -546,7 +540,7 @@ Norme sul personale
 
 > «4. Le aziende e gli enti di cui alla legge 26 dicembre 1936, n. 2174, e successive modificazioni ed integrazioni, legge 13 luglio 1984, n. 312, legge 30 maggio 1988, n. 186, legge 11 luglio 1988, n. 266, legge 31 gennaio 1992, n. 138, legge 30 dicembre 1986, n. 936, decreto legislativo 25 luglio 1997, n. 250, decreto legislativo 12 febbraio 1993, n. 39, adeguano i propri ordinamenti ai principi di cui al titolo I. I rapporti di lavoro dei dipendenti dei predetti enti ed aziende nonche' della Cassa depositi e prestiti sono regolati da contratti collettivi ed individuali in base alle disposizioni di cui agli articoli 2, comma 2, all'articolo 8, comma 2, ed all'articolo 60, comma 3.».
 
-#### Art. 15
+### Art. 15
 
 Regolamento di contabilita'
 
@@ -554,11 +548,9 @@ Regolamento di contabilita'
 
 2\. Nelle more dell'adozione del decreto di cui al comma 1, si applicano le norme transitorie di cui al Capo IV.
 
-## Capo IV
+## Capo IV - Disposizioni transitorie in materia di personale e di ordinamento delle risorse economiche e finanziarie
 
-### Disposizioni transitorie in materia di personale - e di ordinamento delle risorse economiche e finanziarie
-
-#### Art. 16
+### Art. 16
 
 Disciplina transitoria in materia di personale
 
@@ -598,7 +590,7 @@ Disciplina transitoria in materia di personale
 
 > 2\. In attesa dell'adozione dei regolamenti sulla amministrazione del personale e sull'ordinamento delle carriere, l'Autorita' autorizza il personale ad effettuare prestazioni di lavoro straordinario nei limiti annui stabiliti per il personale in servizio presso la Presidenza del Consiglio dei Ministri.».
 
-#### Art. 17
+### Art. 17
 
 Contabilita' speciale
 
@@ -606,7 +598,7 @@ Contabilita' speciale
 
 2\. La gestione finanziaria e' sottoposta al controllo consuntivo della Corte dei conti.
 
-#### Art. 18
+### Art. 18
 
 Entrate
 
@@ -638,7 +630,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 7 maggio 2012, n. 52, convertito con modificazioni dalla L. 6 luglio 2012, n. 94, ha disposto (con l'art. 10, comma 1-bis) che "L'articolo 18, comma 3, del decreto legislativo 1° dicembre 2009, n. 177, si interpreta nel senso che il contributo forfetario non e' dovuto nel caso di gare predisposte dalle amministrazioni contraenti e per le quali sono stati chiesti a DigitPA i pareri di cui all'art. 3 dello stesso decreto".
 
-#### Art. 19
+### Art. 19
 
 Eccedenze di bilancio
 
@@ -728,7 +720,7 @@ d) articolo 38, comma 8.
 
 > «1. Le somme non impegnate al termine dell'esercizio per gli stanziamenti relativi a programmi e progetti, o per specifiche finalita' previste per legge, confluiscono nell'avanzo di esercizio di cui all'art. 12, con specifica evidenziazione e restano disponibili per il solo scopo cui sono destinate e fino alla realizzazione dello stesso.».
 
-#### Art. 20
+### Art. 20
 
 Attivita' commerciale
 
@@ -748,11 +740,9 @@ Attivita' commerciale
 
 > «6-ter. A decorrere dal 1° gennaio 2004 sono trasferiti al Centro nazionale per l'informatica nella pubblica amministrazione i compiti, le funzioni e le attivita' esercitati dal Centro tecnico di cui al comma 19 dell'art. 17 della legge 15 maggio 1997, n. 127, e al comma 6 dell'art. 24 della legge 24 novembre 2000, n. 340. Al Centro medesimo sono contestualmente trasferite le risorse finanziarie e strumentali, nonche' quelle umane comunque in servizio».
 
-## Capo V
+## Capo V - Disposizioni finali
 
-### Disposizioni finali
-
-#### Art. 21
+### Art. 21
 
 Diritti di proprieta' intellettuale ed attivita' per conto terzi
 
@@ -760,7 +750,7 @@ Diritti di proprieta' intellettuale ed attivita' per conto terzi
 
 2\. Con la medesima procedura di cui al comma 1, sono altresi' definiti le modalita' ed i criteri di riparto dei proventi derivanti da contratti di consulenza e convenzioni per conto terzi.
 
-#### Art. 22
+### Art. 22
 
 Trasferimento delle funzioni
 
@@ -772,13 +762,13 @@ Trasferimento delle funzioni
 
 4\. Le funzioni del CNIPA sono trasferite a DigitPA, secondo quanto disposto dal presente decreto.
 
-#### Art. 23
+### Art. 23
 
 Norma di salvaguardia
 
 1\. Dalla data di entrata in vigore del presente decreto, sono fatti salvi, fino alla loro naturale scadenza, i contratti e le convenzioni stipulati dalle pubbliche amministrazioni con il CNIPA.
 
-#### Art. 24
+### Art. 24
 
 Abrogazioni
 
@@ -812,11 +802,9 @@ Rotondi, Ministro per l'attuazione del programma di Governo
 
 Visto, il Guardasigilli: Alfano
 
-## Capo V
+## Capo V - Disposizioni finali
 
-### Disposizioni finali
-
-#### Tabelle
+### Tabelle
 
 Tabella A
 

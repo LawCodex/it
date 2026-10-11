@@ -43,11 +43,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I - Modificazioni al codice di procedura civile in materia di processo
+## Capo I - Modificazioni al codice di procedura civile in materia di processo di cassazione in funzione nomofilattica
 
-### di cassazione in funzione nomofilattica
-
-#### Art. 1
+### Art. 1
 
 Modifiche all'articolo 339
 
@@ -85,7 +83,7 @@ Modifiche all'articolo 339
 
 > Le sentenze del giudice di pace pronunciate secondo equita' a norma dell'art. 113, secondo comma, sono appellabili esclusivamente per violazione delle norme sul procedimento, per violazione di norme costituzionali o comunitarie ovvero dei principi regolatori della materia.».
 
-#### Art. 2
+### Art. 2
 
 Modifiche all'articolo 360
 
@@ -109,7 +107,7 @@ Non sono immediatamente impugnabili con ricorso per cassazione le sentenze che d
 
 Le disposizioni di cui al primo comma e terzo comma si applicano alle sentenze ed ai provvedimenti diversi dalla sentenza contro i quali e' ammesso il ricorso per cassazione per violazione di legge.».
 
-#### Art. 3
+### Art. 3
 
 Modifiche all'articolo 361
 
@@ -127,7 +125,7 @@ Modifiche all'articolo 361
 
 > La riserva non puo' farsi, e se gia' fatta rimane priva di effetto, quando contro la stessa sentenza da alcuna delle altre parti sia proposto immediatamente ricorso.».
 
-#### Art. 4
+### Art. 4
 
 Modifiche all'articolo 363 del codice di procedura civile
 
@@ -141,7 +139,7 @@ Il principio di diritto puo' essere pronunciato dalla Corte anche d'ufficio, qua
 
 La pronuncia della Corte non ha effetto sul provvedimento del giudice di merito.».
 
-#### Art. 5
+### Art. 5
 
 Modifiche all'articolo 366
 
@@ -167,7 +165,7 @@ Nel caso previsto nell'articolo 360, secondo comma, l'accordo delle parti deve r
 
 Le comunicazioni della cancelleria e le notificazioni tra i difensori di cui agli articoli 372 e 390 possono essere fatte al numero di fax o all'indirizzo di posta elettronica indicato in ricorso dal difensore che cosi' dichiara di volerle ricevere, nel rispetto della normativa, anche regolamentare, vigente. Si applicano le disposizioni richiamate dal secondo comma dell'articolo 176.».
 
-#### Art. 6
+### Art. 6
 
 Articolo 366-bis
 
@@ -175,7 +173,7 @@ Articolo 366-bis
 
 «Art. 366-bis (Formulazione dei motivi). - Nei casi previsti dall'articolo 360, primo comma, numeri 1), 2), 3) e 4), l'illustrazione di ciascun motivo si deve concludere, a pena di inammissibilita', con la formulazione di un quesito di diritto. Nel caso previsto dall'articolo 360, primo comma, n. 5), l'illustrazione di ciascun motivo deve contenere, a pena di inammissibilita', la chiara indicazione del fatto controverso in relazione al quale la motivazione si assume omessa o contraddittoria, ovvero le ragioni per le quali la dedotta insufficienza della motivazione la rende inidonea a giustificare la decisione.».
 
-#### Art. 7
+### Art. 7
 
 Modifiche all'articolo 369
 
@@ -201,7 +199,7 @@ Modifiche all'articolo 369
 
 > Il ricorrente deve chiedere alla cancelleria del giudice che ha pronunciato la sentenza impugnata o del quale si contesta la giurisdizione la trasmissione alla cancelleria della Corte di cassazione del fascicolo d'ufficio; tale richiesta e' restituita dalla cancelleria al richiedente munita di visto, e deve essere depositata insieme col ricorso.».
 
-#### Art. 8
+### Art. 8
 
 Modifiche all'articolo 374
 
@@ -215,7 +213,7 @@ Se la sezione semplice ritiene di non condividere il principio di diritto enunci
 
 In tutti gli altri casi la Corte pronuncia a sezione semplice.».
 
-#### Art. 9
+### Art. 9
 
 Modifiche all'articolo 375
 
@@ -249,7 +247,7 @@ b) i commi secondo, terzo e quarto sono abrogati.
 
 > 5\) accogliere o rigettare il ricorso principale e l'eventuale ricorso incidentale per manifesta fondatezza o infondatezza, ovvero dichiararne l'inammissibilita' per mancanza dei motivi previsti dall\`art. 360 o per difetto dei requisiti previsti dall'art. 366-bis.».
 
-#### Art. 10
+### Art. 10
 
 Articolo 380-bis
 
@@ -265,7 +263,7 @@ Nella seduta la Corte delibera sul ricorso con ordinanza.
 
 Se ritiene che non ricorrono le ipotesi previste all'articolo 375 la Corte rinvia la causa alla pubblica udienza.».
 
-#### Art. 11
+### Art. 11
 
 Articolo 380-ter
 
@@ -277,7 +275,7 @@ Le conclusioni ed il decreto del presidente che fissa l'adunanza sono notificati
 
 Non si applica la disposizione del quinto comma dell'articolo 380-bis.».
 
-#### Art. 12
+### Art. 12
 
 Modifiche all'articolo 384
 
@@ -291,7 +289,7 @@ Se ritiene di porre a fondamento della sua decisione una questione. rilevata d'u
 
 Non sono soggette a cassazione le sentenze erroneamente motivate in diritto, quando il dispositivo sia conforme al diritto; in tal caso la Corte si limita a correggere la motivazione.».
 
-#### Art. 13
+### Art. 13
 
 Modifiche all'articolo 385
 
@@ -311,7 +309,7 @@ Modifiche all'articolo 385
 
 > Quando pronuncia sulle spese, anche nelle ipotesi di cui all'art. 375, la Corte, anche d'ufficio, condanna, altresi', la parte soccombente al pagamento, a favore della controparte, di una somma, equitativamente determinata, non superiore al doppio dei massimi tariffari, se ritiene che essa ha proposto il ricorso o vi ha resistito anche solo con colpa grave.».
 
-#### Art. 14
+### Art. 14
 
 Modifiche all'articolo 388
 
@@ -321,7 +319,7 @@ Modifiche all'articolo 388
 
 La trasmissione puo' avvenire anche in via telematica.».
 
-#### Art. 15
+### Art. 15
 
 Modifiche all'articolo 391
 
@@ -345,7 +343,7 @@ Il decreto ha efficacia di titolo esecutivo se nessuna delle parti chiede la fis
 
 > La condanna non e' pronunciata, se alla rinuncia hanno aderito le altre parti personalmente o i loro avvocati autorizzati con mandato speciale.».
 
-#### Art. 16
+### Art. 16
 
 Modifiche all'articolo 391-bis
 
@@ -375,7 +373,7 @@ c) dopo il secondo comma sono inseriti i seguenti:
 
 > In caso di impugnazione per revocazione della sentenza della Corte di cassazione non e' ammessa la sospensione dell'esecuzione della sentenza passata in giudicato, ne' e' sospeso il giudizio di rinvio o il termine per riassumerlo.».
 
-#### Art. 17
+### Art. 17
 
 Articolo 391-ter
 
@@ -387,7 +385,7 @@ Articolo 391-ter
 
 Quando pronuncia la revocazione o accoglie l'opposizione di terzo, la Corte decide la causa nel merito qualora non siano necessari ulteriori accertamenti di fatto; altrimenti, pronunciata la revocazione ovvero dichiarata ammissibile l'opposizione di terzo, rinvia la causa al giudice che ha pronunciato la sentenza cassata.».
 
-#### Art. 18
+### Art. 18
 
 Articolo 420-bis
 
@@ -399,7 +397,7 @@ La sentenza e' impugnabile soltanto con ricorso immediato per cassazione da prop
 
 Copia del ricorso per cassazione deve, a pena di inammissibilita' del ricorso, essere depositata presso la cancelleria del giudice che ha emesso la sentenza impugnata entro venti giorni dalla notificazione del ricorso alle altre parti; il processo e' sospeso dalla data del deposito.».
 
-#### Art. 19
+### Art. 19
 
 Modifiche alle disposizioni per l'attuazione del codice di procedura civile
 
@@ -451,11 +449,9 @@ g) dopo l'articolo 144-ter e' inserito il seguente:
 
 > Le competenze e gli onorari saranno ridotti in considerazione dell'unitaria trattazione delle controversie riunite.».
 
-## Capo II - Modificazioni al codice di procedura civile
+## Capo II - Modificazioni al codice di procedura civile in materia di arbitrato
 
-### in materia di arbitrato
-
-#### Art. 20
+### Art. 20
 
 Modifiche al capo I, titolo VIII, libro IV
 
@@ -497,7 +493,7 @@ Il lodo contrattuale e' annullabile dal giudice competente secondo le disposizio
 
 808-quinquies (Efficacia della convenzione d'arbitrato). - La conclusione del procedimento arbitrale senza pronuncia sul merito, non toglie efficacia alla convenzione d'arbitrato.».
 
-#### Art. 21
+### Art. 21
 
 Modifiche al capo II, titolo VIII, libro IV
 
@@ -579,7 +575,7 @@ La proposizione dell'istanza di ricusazione non sospende il procedimento arbitra
 
 Tuttavia, se l'istanza e' accolta, l'attivita' compiuta dall'arbitro ricusato o con il suo concorso e' inefficace.».
 
-#### Art. 22
+### Art. 22
 
 Modifiche al capo III, titolo VIII, libro IV
 
@@ -665,7 +661,7 @@ Nei rapporti tra arbitrato e processo non si applicano regole corrispondenti agl
 
 In pendenza del procedimento arbitrale non possono essere proposte domande giudiziali aventi ad oggetto l'invalidita' o inefficacia della convenzione d'arbitrato.».
 
-#### Art. 23
+### Art. 23
 
 Modifiche al capo IV, titolo VIII, libro IV
 
@@ -741,7 +737,7 @@ Se gli arbitri non provvedono, l'istanza di correzione e' proposta al tribunale 
 
 Se il lodo e' stato depositato, la correzione e' richiesta al tribunale del luogo in cui e' stato depositato. Si applicano le disposizioni dell'articolo 288, in quanto compatibili. Alla correzione puo' provvedere anche il giudice di fronte al quale il lodo e' stato impugnato o fatto valere.».
 
-#### Art. 24
+### Art. 24
 
 Modifiche al capo V, titolo VIII, libro IV
 
@@ -817,7 +813,7 @@ Il lodo e' soggetto ad opposizione di terzo nei casi indicati nell'articolo 404.
 
 La corte d'appello puo' riunire le impugnazioni per nullita', per revocazione e per opposizione di terzo nello stesso processo, se lo stato della causa preventivamente proposta consente l'esauriente trattazione e decisione delle altre cause.».
 
-#### Art. 25
+### Art. 25
 
 Modifiche al capo VI, titolo VIII, libro IV
 
@@ -841,7 +837,7 @@ Se l'istituzione arbitrale rifiuta di amministrare l'arbitrato, la convenzione d
 
 ## Capo III - Disposizioni finali
 
-#### Art. 26
+### Art. 26
 
 Modifiche all'articolo 23 della legge 23 novembre 1981, n. 689
 
@@ -881,7 +877,7 @@ b) l'ultimo comma e' abrogato.
 
 > Il giudice accoglie l'opposizione quando non vi sono prove sufficienti della responsabilita' dell'opponente.».
 
-#### Art. 27
+### Art. 27
 
 Disciplina transitoria
 
@@ -897,13 +893,13 @@ Tuttavia, ai provvedimenti del giudice di pace pubblicati entro la data di entra
 
 5\. Le disposizioni dell'articolo 26 si applicano alle ordinanze pronunciate ed alle sentenze pubblicate a decorrere dalla data di entrata in vigore del presente decreto.
 
-#### Art. 28
+### Art. 28
 
 Abrogazioni
 
 1\. Alla data di entrata in vigore del presente decreto sono abrogati gli articoli 833, 834, 835, 836, 837, 838 del codice di procedura civile.
 
-#### Art. 29
+### Art. 29
 
 Copertura finanziaria
 

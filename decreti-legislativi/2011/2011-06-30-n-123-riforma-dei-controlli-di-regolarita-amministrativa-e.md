@@ -72,11 +72,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I
+## Titolo I - PRINCIPI GENERALI E CRITERI DIRETTIVI
 
-### PRINCIPI GENERALI E CRITERI DIRETTIVI
-
-###### Art. 1
+#### Art. 1
 
 Ambito di applicazione
 
@@ -90,7 +88,7 @@ b) svolge l'analisi dei programmi e concorre, con le amministrazioni interessate
 
 c) svolge un costante monitoraggio della programmazione e della corretta applicazione delle disposizioni sul contenimento della spesa, valutando gli oneri delle funzioni e dei servizi istituzionali, nonche' dei programmi e dei progetti presentati dalle amministrazioni.
 
-###### Art. 2
+#### Art. 2
 
 Principi del controllo di regolarita' amministrativa e contabile
 
@@ -110,7 +108,7 @@ Principi del controllo di regolarita' amministrativa e contabile
 
 8\. I controlli di cui al presente articolo si adeguano al processo di dematerializzazione degli atti, nel rispetto delle regole tecniche per la riproduzione e conservazione dei documenti su supporto idoneo a garantirne la conformita' agli originali, secondo la vigente normativa di riferimento.
 
-###### Art. 3
+#### Art. 3
 
 Organi di controllo
 
@@ -130,7 +128,7 @@ Organi di controllo
 
 7\. Il controllo di regolarita' amministrativa e contabile sugli atti adottati dagli enti ed organismi pubblici e' svolto dai collegi dei revisori dei conti e sindacali, ai sensi degli articoli 19, e seguenti.
 
-###### Art. 4
+#### Art. 4
 
 Analisi e valutazione della spesa
 
@@ -148,15 +146,11 @@ Analisi e valutazione della spesa
 
 > \- Per il testo degli articoli 39 e 41 della citata legge n. 196 del 2009, vedasi nelle note alle premesse.
 
-## Titolo II
+## Titolo II - CONTROLLO DI REGOLARITA' AMMINISTRATIVA E CONTABILE SUGLI ATTI DELLE AMMINISTRAZIONI STATALI
 
-### CONTROLLO DI REGOLARITA' AMMINISTRATIVA E CONTABILE SUGLI ATTI DELLE - AMMINISTRAZIONI STATALI
+### Capo I - Controllo preventivo
 
-#### Capo I
-
-##### Controllo preventivo
-
-###### Art. 5
+#### Art. 5
 
 Atti sottoposti al controllo preventivo
 
@@ -194,7 +188,7 @@ AGGIORNAMENTO (5)
 
 Il D.Lgs. 12 maggio 2016, n. 93, ha disposto (con l'art. 9, comma 1) che le presenti modifiche acquistano efficacia a decorrere dal 1° gennaio 2017.
 
-###### Art. 6
+#### Art. 6
 
 Controllo contabile
 
@@ -220,7 +214,7 @@ AGGIORNAMENTO (5)
 
 Il D.Lgs. 12 maggio 2016, n. 93, ha disposto (con l'art. 9, comma 1) che le presenti modifiche acquistano efficacia a decorrere dal 1° gennaio 2017.
 
-###### Art. 7
+#### Art. 7
 
 Controllo amministrativo
 
@@ -238,7 +232,7 @@ AGGIORNAMENTO (5)
 
 Il D.Lgs. 12 maggio 2016, n. 93, ha disposto (con l'art. 9, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2017.
 
-###### Art. 8
+#### Art. 8
 
 Termini del controllo
 
@@ -252,7 +246,7 @@ Termini del controllo
 
 ((4-bis. Gli atti di pagamento emessi a titolo di corrispettivo nelle transazioni commerciali devono pervenire all'ufficio di controllo almeno 15 giorni prima della data di scadenza del termine di pagamento. L'ufficio di controllo espleta i riscontri di competenza e da' comunque corso al pagamento entro i 15 giorni successivi al ricevimento degli atti di pagamento, sia in caso di esito positivo, sia in caso di formulazione di osservazioni o richieste di integrazioni e chiarimenti. Qualora il dirigente responsabile non risponda alle osservazioni, ovvero i chiarimenti forniti non siano idonei a superare le osservazioni mosse, l'ufficio di controllo e' tenuto a segnalare alla competente Procura Regionale della Corte dei conti eventuali ipotesi di danno erariale derivanti dal pagamento cui si e' dato corso. Resta fermo il divieto di dare corso agli atti di spesa nelle ipotesi di cui all'articolo 6, comma 2, con riferimento ai quali comunque sussiste la responsabilita' del dirigente che ha emanato l'atto.))
 
-###### Art. 9
+#### Art. 9
 
 Documentazione giustificativa
 
@@ -270,7 +264,7 @@ Espletato il controllo, gli atti e la relativa documentazione sono restituiti al
 
 > \- Il decreto legislativo 7 marzo 2005, n. 82 (Codice dell'amministrazione digitale), e' pubblicato nella Gazzetta Ufficiale 16 maggio 2005, n. 112, supplemento ordinario.
 
-###### Art. 10
+#### Art. 10
 
 Effetti delle osservazioni
 
@@ -302,11 +296,9 @@ b) provvedimenti concernenti pagamenti in conto sospeso emessi ai sensi dell'art
 
 > 4\. Nell'art. 1, comma 1, del decreto-legge 25 maggio 1994, n. 313, convertito, con modificazioni, dalla legge 22 luglio 1994, n. 460, dopo le parole: "Polizia di Stato" sono inserite le parole "della Polizia penitenziaria e del Corpo forestale dello Stato".».
 
-## Capo II
+### Capo II - Controllo successivo
 
-### Controllo successivo
-
-###### Art. 11
+#### Art. 11
 
 Atti sottoposti al controllo successivo e soggetti obbligati
 
@@ -376,7 +368,7 @@ AGGIORNAMENTO (16)
 
 Il D.L. 21 giugno 2022, n. 73 ha disposto (con l'art. 46. comma 2) che "Le disposizioni di cui agli articoli 30, comma 1, lettere da a) a l) e da n) a bb), 31 e 32, comma 1, lettera a) si applicano a decorrere dalla data di entrata in vigore del regolamento di cui all'articolo 30, comma 1, lettera m)".
 
-###### Art. 12
+#### Art. 12
 
 Programma di controllo
 
@@ -390,7 +382,7 @@ AGGIORNAMENTO (5)
 
 Il D.Lgs. 12 maggio 2016, n. 93, ha disposto (con l'art. 9, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2017.
 
-###### Art. 13
+#### Art. 13
 
 Contenuto dei rendiconti
 
@@ -410,7 +402,7 @@ In particolare:
 
 g) l'articolo 5 della legge n. 225 del 1992, citato negli articoli 11, comma 1, e nell'articolo 13, comma 2, del decreto legislativo 30 giugno 2011, n.123, deve intendersi riferito all'articolo 27 del presente decreto".
 
-###### Art. 13-bis
+#### Art. 13-bis
 
 (( (Rendicontazione dettagliata dei pagamenti delle competenze fisse e accessorie del personale).))
 
@@ -422,13 +414,13 @@ g) l'articolo 5 della legge n. 225 del 1992, citato negli articoli 11, comma 1, 
 
 4\. A seguito della diffida alla presentazione della rendicontazione, il termine finale per l'esercizio del controllo di cui all'articolo 14-bis, comma 1, e' differito in misura corrispondente al ritardo dell'amministrazione.))
 
-###### Art. 13-ter
+#### Art. 13-ter
 
 (( (Rendicontazione delle spese per il reintegro delle disponibilita' delle strutture centrali e periferiche delle amministrazioni titolari di fondi scorta).
 
 1\. Nei rendiconti delle spese effettuate dai funzionari delegati ai quali sono accreditate le risorse dalle pertinenti unita' elementari del bilancio per il reintegro delle disponibilita' delle strutture centrali e periferiche facenti capo ai medesimi funzionari delegati, originariamente provenienti dalle anticipazioni dei fondi scorta di cui all'articolo 7-ter del decreto legislativo 12 maggio 2016, n. 90, sono consolidati anche i dati relativi alle spese realizzate dalle predette strutture. A questi fini la documentazione giustificativa della spesa effettuata dalle strutture confluisce nella rendicontazione del funzionario delegato. ))
 
-###### Art. 14
+#### Art. 14
 
 Procedimento di controllo dei rendiconti
 
@@ -452,7 +444,7 @@ Procedimento di controllo dei rendiconti
 
 Fatte salve le eventuali responsabilita' amministrativo-contabili e disciplinari, del comportamento del funzionario si tiene conto anche ai fini della corresponsione della quota del trattamento economico accessorio collegato alla produttivita' individuale e della retribuzione di risultato.
 
-###### Art. 14-bis
+#### Art. 14-bis
 
 (( (Procedimento di controllo dei pagamenti delle competenze fisse e accessorie al personale).))
 
@@ -466,7 +458,7 @@ Fatte salve le eventuali responsabilita' amministrativo-contabili e disciplinari
 
 5\. In caso di mancato recupero da parte delle Amministrazioni, o nel caso in cui le controdeduzioni rese non siano idonee a superare le osservazioni formulate, l'ufficio di controllo trasmette al competente ufficio della Corte dei conti la rendicontazione corredata dalle osservazioni e da ogni altra documentazione in suo possesso.))
 
-###### Art. 15
+#### Art. 15
 
 Relazione sulla realizzazione degli interventi delegati
 
@@ -474,7 +466,7 @@ Relazione sulla realizzazione degli interventi delegati
 
 2\. La relazione e' trasmessa all'ufficio di controllo per il successivo inoltro al Ministero delegante ed anche alla competente sezione di controllo della Corte dei conti. Di essa si tiene conto anche ai fini della valutazione della performance individuale.
 
-###### Art. 16
+#### Art. 16
 
 Controllo dei conti giudiziali
 
@@ -486,7 +478,7 @@ Controllo dei conti giudiziali
 
 ((3-bis. Le disposizioni di cui ai commi 1, 2 e 3 si applicano anche ai conti giudiziali resi dagli agenti che svolgono l'attivita' di riscossione nazionale a mezzo ruolo, i quali rendono il conto della propria gestione, per ciascun ambito territoriale, in via principale e diretta.))
 
-###### Art. 17 - Controlli sull'attivita' di riscossione
+#### Art. 17 - Controlli sull'attivita' di riscossione
 
 1\. ((COMMA ABROGATO DAL D.LGS. 29 LUGLIO 2024, N. 110)).
 
@@ -494,7 +486,7 @@ Controllo dei conti giudiziali
 
 3\. L'agente della riscossione fornisce annualmente al Ministero dell'economia e delle finanze, con le modalita', i criteri e i termini fissati con decreto del Ministro dell'economia e delle finanze, la valutazione, di regola in forma aggregata, del grado di esigibilita' dei crediti erariali iscritti a ruolo. Tale valutazione e' effettuata attraverso un'analisi storico-statistica basata sull'andamento delle riscossioni degli anni precedenti, tenendo conto delle variabili piu' significative in ordine alla natura e alle caratteristiche del credito nonche' alla natura e allo stato giuridico del contribuente.
 
-###### Art. 18
+#### Art. 18
 
 Relazione annuale sull'esito del controllo
 
@@ -510,11 +502,9 @@ Nella relazione di cui al primo periodo viene dato, in particolare, conto della 
 
 > \- Per il testo dell'art. 17 della citata legge n. 196 del 2009, vedasi nelle note alle premesse.
 
-## Titolo III
+## Titolo III - I CONTROLLI DEI COLLEGI DEI REVISORI DEI CONTI E SINDACALI PRESSO GLI ENTI E ORGANISMI PUBBLICI
 
-### I CONTROLLI DEI COLLEGI DEI REVISORI DEI CONTI E SINDACALI PRESSO GLI - ENTI E ORGANISMI PUBBLICI
-
-###### Art. 19
+#### Art. 19
 
 Costituzione dei collegi dei revisori dei conti e sindacali
 
@@ -524,7 +514,7 @@ Costituzione dei collegi dei revisori dei conti e sindacali
 
 Decorso inutilmente il predetto termine di trenta giorni, vi provvede il Ministero dell'economia e delle finanze nominando propri funzionari. Il collegio straordinario cessa le proprie funzioni all'atto di nomina del nuovo collegio.
 
-###### Art. 20
+#### Art. 20
 
 Compiti dei collegi dei revisori dei conti e sindacali
 
@@ -560,7 +550,7 @@ h) effettuare il controllo sulla compatibilita' dei costi della contrattazione c
 
 8\. Di ogni verifica, ispezione e controllo, anche individuale, nonche' delle risultanze dell'esame collegiale dei bilanci preventivi e relative variazioni e dei conti consuntivi o bilanci d'esercizio e' redatto apposito verbale.
 
-###### Art. 21
+#### Art. 21
 
 Indipendenza dei revisori e dei sindaci
 
@@ -576,7 +566,7 @@ presso gli enti ed organismi pubblici
 
 > Resta salvo quanto previsto da leggi speciali in relazione all'esercizio di particolari attivita'.».
 
-###### Art. 22
+#### Art. 22
 
 Vigilanza sulle attivita' dei collegi
 
@@ -584,11 +574,9 @@ dei revisori dei conti e sindacali
 
 1\. I rappresentanti del Ministero dell'economia e delle finanze negli organi di cui all'articolo 21 sono tenuti a trasmettere i verbali e i documenti contabili al Dipartimento della Ragioneria generale dello Stato, anche mediante forme di comunicazione telematica, secondo la normativa vigente, nonche' a fornire alla stessa ogni informazione richiesta.
 
-## Titolo IV
+## Titolo IV - I CONTROLLI DEI SERVIZI ISPETTIVI DI FINANZA PUBBLICA
 
-### I CONTROLLI DEI SERVIZI ISPETTIVI DI FINANZA PUBBLICA
-
-###### Art. 23
+#### Art. 23
 
 Verifiche sulla regolarita' amministrativa e contabile
 
@@ -610,7 +598,7 @@ Verifiche sulla regolarita' amministrativa e contabile
 
 > 3\. Il Ministro non puo' revocare, riformare, riservare o avocare a se' o altrimenti adottare provvedimenti o atti di competenza dei dirigenti. In caso di inerzia o ritardo il Ministro puo' fissare un termine perentorio entro il quale il dirigente deve adottare gli atti o i provvedimenti. Qualora l'inerzia permanga, o in caso di grave inosservanza delle direttive generali da parte del dirigente competente, che determinano pregiudizio per l'interesse pubblico, il Ministro puo' nominare, salvi i casi di urgenza previa contestazione, un commissario ad acta, dando comunicazione al Presidente del Consiglio dei Ministri del relativo provvedimento. Resta salvo quanto previsto dall'art. 2, comma 3, lettera p) della legge 23 agosto 1988, n. 400. Resta altresi' salvo quanto previsto dall'art. 6 del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 18 giugno 1931, n. 773, e successive modificazioni ed integrazioni, e dall'art. 10 del relativo regolamento emanato con regio decreto 6 maggio 1940, n. 635. Resta salvo il potere di annullamento ministeriale per motivi di legittimita'.».
 
-###### Art. 24
+#### Art. 24
 
 Modalita' di svolgimento dei controlli ispettivi
 
@@ -626,11 +614,9 @@ Modalita' di svolgimento dei controlli ispettivi
 
 > «Art. 6. - L'obbligo di denuncia stabilito dall'art. 20 del testo unico approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, per gli impiegati con qualifica di Ispettore generale e' deferito, per cio' che concerne gli impiegati del ruolo della carriera direttiva dell'Ispettorato generale di finanza al Ragioniere generale dello Stato.».
 
-## Titolo V
+## Titolo V - ANALISI E VALUTAZIONE DELLA SPESA
 
-### ANALISI E VALUTAZIONE DELLA SPESA
-
-###### Art. 25
+#### Art. 25
 
 Analisi e valutazione della spesa
 
@@ -710,7 +696,7 @@ c) i Servizi ispettivi di finanza pubblica, attraverso il monitoraggio finalizza
 
 > \- Per il testo degli articoli 40 e 41 della citata legge n. 196 del 2009, vedasi nelle note alle premesse.
 
-###### Art. 26
+#### Art. 26
 
 Potenziamento delle strutture e degli strumenti del Dipartimento della Ragioneria generale dello Stato per lo svolgimento delle attivita' di analisi e revisione della spesa
 
@@ -722,7 +708,7 @@ Potenziamento delle strutture e degli strumenti del Dipartimento della Ragioneri
 
 4\. Nell'ambito dei bandi per il reclutamento di funzionari del Ministero dell'economia e delle finanze da assegnare al Dipartimento della Ragioneria generale dello Stato, una quota dei posti messi a concorso puo' essere destinata a profili di tipo economico-statistico ai fini dello svolgimento dell'attivita' di analisi e valutazione della spesa.
 
-###### Art. 27
+#### Art. 27
 
 Condivisione di banche dati per le attivita' di analisi
 
@@ -782,7 +768,7 @@ e valutazione della spesa
 
 > \- Per il testo dell'art. 39 della citata legge n. 196 del 2009, vedasi nelle note alle premesse.
 
-###### Art. 28
+#### Art. 28
 
 Graduale estensione del programma di analisi e valutazione della spesa alle altre amministrazioni pubbliche
 
@@ -790,7 +776,7 @@ Graduale estensione del programma di analisi e valutazione della spesa alle altr
 
 2\. Le disposizioni del presente titolo non si applicano in via diretta alle regioni e alle province autonome di Trento e di Bolzano, agli enti locali e agli enti del Servizio sanitario nazionale, per i quali costituiscono disposizioni di principio ai fini del coordinamento della finanza pubblica.
 
-###### Art. 29
+#### Art. 29
 
 Abrogazioni
 
@@ -808,7 +794,7 @@ e) l'articolo 1, comma 159, della legge 30 dicembre 2004, n. 311;
 
 f) l'articolo 79 del decreto del Presidente della Repubblica 27 febbraio 2003, n. 97.
 
-###### Art. 30
+#### Art. 30
 
 Norma finanziaria
 

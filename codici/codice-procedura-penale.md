@@ -98,7 +98,7 @@ Questioni pregiudiziali
 
 ##### Capo II - COMPETENZA
 
-###### Sezione I - Disposizione generale
+**Sezione I - Disposizione generale**
 
 ###### Art. 4
 
@@ -106,7 +106,7 @@ Regole per la determinazione della competenza
 
 1\. Per determinare la competenza si ha riguardo alla pena stabilita dalla legge per ciascun reato consumato o tentato. Non si tiene conto della continuazione, della recidiva e delle circostanze del reato, fatta eccezione delle circostanze aggravanti per le quali la legge stabilisce una pena di specie diversa da quella ordinaria del reato e di quelle ad effetto speciale.
 
-###### Sezione II - Competenza per materia
+**Sezione II - Competenza per materia**
 
 ###### Art. 5
 
@@ -186,7 +186,7 @@ AGGIORNAMENTO (94)
 
 Il D.Lgs. 19 febbraio 1998, n. 51, come modificato dalla L. 16 giugno 1998, n. 188, ha disposto (con l'art. 247, comma 1) che l'abrogazione del presente articolo ha effetto a decorrere dal 2 giugno 1999.
 
-###### Sezione III - Competenza per territorio
+**Sezione III - Competenza per territorio**
 
 ###### Art. 8
 
@@ -256,7 +256,7 @@ La L. 2 dicembre 1998, n. 420 ha disposto (con l'art. 8, comma 1) che "l'articol
 
 1\. I procedimenti in cui assume la qualita' di persona sottoposta ad indagini, di imputato ovvero di persona offesa o danneggiata dal reato un magistrato addetto alla Direzione nazionale antimafia di cui all'articolo 76- bis dell'ordinamento giudiziario, approvato con regio decreto 30 gennaio 1941, n. 12, e successive modificazioni, sono di competenza del giudice determinato ai sensi dell'articolo 11)).
 
-###### Sezione IV - Competenza per connessione
+**Sezione IV - Competenza per connessione**
 
 ###### Art. 12
 
@@ -2710,7 +2710,9 @@ Accompagnamento coattivo di altre persone
 
 2\. Si applicano le disposizioni dell'articolo 132.
 
-#### ((Titolo II-bis - Partecipazione a distanza))
+#### ((Titolo II-bis
+
+## Partecipazione a distanza))
 
 ###### Art. 133-bis
 
@@ -10626,7 +10628,7 @@ Lettura del verbale in camera di consiglio
 
 ##### Capo II - DECISIONE
 
-###### Sezione I - Sentenza di proscioglimento
+**Sezione I - Sentenza di proscioglimento**
 
 ###### Art. 529
 
@@ -10664,7 +10666,7 @@ Provvedimenti sulle misure cautelari personali
 
 2\. La stessa disposizione si applica nel caso di sentenza di condanna che concede la sospensione condizionale della pena.
 
-###### Sezione II - Sentenza di condanna
+**Sezione II - Sentenza di condanna**
 
 ###### Art. 533
 
@@ -10730,7 +10732,7 @@ La cancellazione, la ripristinazione, la rinnovazione o la riforma non e' ordina
 
 ((1. Quando pronuncia sentenza di condanna per uno dei fatti previsti dall'articolo 463 del codice civile, il giudice dichiara l'indegnita' dell'imputato a succedere)).
 
-###### Sezione III - Decisione sulle questioni civili
+**Sezione III - Decisione sulle questioni civili**
 
 ###### Art. 538
 
@@ -13328,7 +13330,7 @@ Spese per la pubblicazione di sentenze e obbligo di inserzione
 
 ##### Capo I - ESTRADIZIONE PER L'ESTERO
 
-###### Sezione I - Procedimento
+**Sezione I - Procedimento**
 
 ###### Art. 697
 
@@ -13540,7 +13542,7 @@ Misure di sicurezza applicate all'estradato
 
 1\. Le misure di sicurezza applicate al prosciolto o al condannato nello Stato, che successivamente venga estradato, sono eseguite quando lo stesso ritorna per qualsiasi causa nel territorio dello Stato, previo nuovo accertamento della pericolosita' sociale.
 
-###### Sezione II - Misure cautelari
+**Sezione II - Misure cautelari**
 
 ###### Art. 714
 

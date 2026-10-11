@@ -28,7 +28,7 @@ la seguente legge:
 
 ## Titolo I - DISPOSIZIONI GENERALI
 
-#### Art. 1
+### Art. 1
 
 Norme programmatiche
 
@@ -42,7 +42,7 @@ c) la stabilizzazione di una capacita' produttiva che, tenendo conto delle condi
 
 Il Ministro della marina mercantile riferisce ogni sei mesi al Parlamento, con una apposita relazione, sullo stato di attuazione della presente legge e di quelle aventi finalita' di attuazione del piano di settore per la ristrutturazione dell'industria delle costruzioni navali concernenti le provvidenze a favore della riparazione navale, lo sviluppo della ricerca applicata nel settore della costruzione e della propulsione navale, la demolizione del naviglio abbinata alla costruzione di nuove unita' ed il credito navale.
 
-#### Art. 2
+### Art. 2
 
 Comitato consultivo per la cantieristica
 
@@ -60,11 +60,9 @@ d) esamina ogni altra questione relativa all'attuazione del piano di settore per
 
 Il comitato, convocato almeno due volte l'anno entro i mesi di giugno e di dicembre, redige annualmente una relazione sullo svolgimento della propria attivita' che, a cura del Ministro della marina mercantile, viene trasmessa al CIPE e per conoscenza al Parlamento.
 
-## Titolo II - CONTRIBUTI PER NUOVE COSTRUZIONI, TRASFORMAZIONI
+## Titolo II - CONTRIBUTI PER NUOVE COSTRUZIONI, TRASFORMAZIONI E MODIFICAZIONI NAVALI
 
-### E MODIFICAZIONI NAVALI
-
-#### Art. 3
+### Art. 3
 
 Contributo per nuove costruzioni
 
@@ -86,7 +84,7 @@ La L. 22 marzo 1985, n. 111 ha disposto (con l'art. 2, comma 1) che le percentua
 
 In caso di stipulazione, da parte di un cantiere maggiore, dal 1 gennaio 1985, di un contratto per nuova costruzione uguale od inferiore a 3.500 tonnellate di stazza lorda, con esclusione delle navi traghetto, la percentuale di contribuzione e' pari a quella prevista per i cantieri medi.
 
-#### Art. 4
+### Art. 4
 
 Cantieri ammessi al contributo
 
@@ -102,7 +100,7 @@ Il Ministro della marina mercantile, sentito il CIPI, classifica con proprio dec
 
 Il decreto di cui al comma precedente e' comunicato, prima della pubblicazione, ai Presidenti della Camera dei deputati e del Senato della Repubblica e trasmesso alle commissioni permanenti competenti per materia che esprimono il loro parere nel termine previsto dai rispettivi regolamenti.
 
-#### Art. 5
+### Art. 5
 
 Campo di applicazione
 
@@ -116,7 +114,7 @@ b) rimorchiatori e spintori con apparato motore di potenza non inferiore a 500 c
 
 ((Sono escluse le costruzioni militari, da diporto, quelle effettuate per conto dello Stato, nonche' le unita' abilitate esclusivamente al servizio marittimo dei porti e delle rade)).
 
-#### Art. 6
+### Art. 6
 
 Domanda di concessione del contributo
 
@@ -130,7 +128,7 @@ c) il prezzo della costruzione;
 
 d) il committente e l'eventuale clausola di revisione prezzo, salvo le costruzioni di cui al secondo comma dell'articolo 3.
 
-#### Art. 7
+### Art. 7
 
 Classificazione delle navi
 
@@ -140,7 +138,7 @@ Per le navi passeggeri o miste e per quelle di altro tipo di stazza lorda non in
 
 Le prove suddette possono essere omesse per le navi costruite su prototipi di carena gia' sottoposti alle prove stesse.
 
-#### Art. 8
+### Art. 8
 
 Termine di ultimazione dei lavori
 
@@ -152,7 +150,7 @@ Le costruzioni navali per le quali sia stata chiesta la concessione del contribu
 
 L'inosservanza del termine di ultimazione dei lavori determina la decadenza dal contributo.
 
-#### Art. 9
+### Art. 9
 
 Apprestamenti difensivi
 
@@ -180,7 +178,7 @@ I costruttori debbono sottoporre, almeno trenta giorni prima dell'inizio della c
 
 Per le navi non ritenute atte a ricevere gli apprestamenti e le attrezzature di cui ai commi precedenti, il Ministro della difesa, su conforme parere del capo di stato maggiore della Marina, puo' concedere deroghe ai relativi obblighi.
 
-#### Art. 10
+### Art. 10
 
 Liquidazione del contributo
 
@@ -196,17 +194,17 @@ La liquidazione definitiva del contributo e' disposta, in base ai risultati dell
 
 Qualora il contributo indicato nel provvedimento di concessione risulti, rispetto a quello da liquidare, superiore del 15 per cento, l'importo complessivo del contributo medesimo e' liquidato in misura pari alla differenza fra il doppio dell'ammontare dello stesso, calcolato a lavori ultimati, e l'85 per cento di quello stabilito nel provvedimento di concessione.
 
-#### Art. 11
+### Art. 11
 
 Aumento del contributo
 
 ((Nel caso di commesse di nuove costruzioni navali acquisite dai cantieri maggiori e medi in situazioni di crisi produttiva o aziendale, prevista dalla legge 20 maggio 1975, n. 164, e nel caso di commesse da parte dei Paesi in via di sviluppo, il Ministro della marina mercantile di concerto con quello del tesoro puo' elevare il contributo di cui all'articolo 1 della presente legge del 20 per cento)).
 
-#### Art. 12
+### Art. 12
 
 ((ARTICOLO ABROGATO DALLA L. 22 MARZO 1985, N. 111))
 
-#### Art. 13
+### Art. 13
 
 Contributo alla trasformazione e modificazione navale
 
@@ -218,7 +216,7 @@ Il suddetto limite di stazza lorda puo' essere variato con decreto del Ministro 
 
 La liquidazione del contributo e' disposta a lavori ultimati previo accertamento dei lavori eseguiti e della congruita' del relativo prezzo.
 
-#### Art. 14
+### Art. 14
 
 Controllo e vigilanza
 
@@ -234,7 +232,7 @@ Le spese per l'espletamento dei compiti indicati nei commi precedenti, nonche' q
 
 Per l'esercizio della vigilanza e' assegnato al Registro italiano navale la meta' della ritenuta suddetta e allo Istituto nazionale per studi ed esperienze di architettura navale - Vasca navale - di Roma un quarto della ritenuta medesima.
 
-#### Art. 15
+### Art. 15
 
 Accertamento dell'esecuzione dei lavori
 
@@ -242,13 +240,13 @@ L'accertamento relativo all'esecuzione dei lavori per i quali sono stati chiesti
 
 ## Titolo III - RISTRUTTURAZIONE
 
-#### Art. 16
+### Art. 16
 
 Contributo per nuovi investimenti
 
 Alle imprese ammesse ai contributi per l'attivita' di costruzione e riparazione navale che, in conformita' alle indicazioni contenute nel piano di settore per l'industria cantieristica, effettuano investimenti destinati a rendere piu' efficiente l'organizzazione produttiva, a razionalizzare l'assetto impiantistico o a migliorare le condizioni di lavoro ambientale, puo' essere concesso un contributo pari al 20 per cento dei relativi importi.
 
-#### Art. 17
+### Art. 17
 
 Concessione del contributo
 
@@ -260,13 +258,13 @@ Il contributo non e' concesso per investimenti effettuati inferiori a due miliar
 
 Eventuali variazioni ai piani di investimento di cui al precedente secondo comma possono essere comunicate al Ministero della marina mercantile entro il 30 giugno 1983; qualora il decreto di concessione sia stato gia' emanato, dette variazioni saranno approvate nei limiti della contribuzione prevista dal decreto stesso.
 
-#### Art. 18
+### Art. 18
 
 Termine di ultimazione dei lavori
 
 Le iniziative ammesse a contributo devono essere ultimate, a pena di decadenza, entro il 31 dicembre 1985.
 
-#### Art. 19
+### Art. 19
 
 Liquidazione del contributo
 
@@ -276,7 +274,7 @@ La liquidazione del contributo e' disposta previo accertamento dei lavori esegui
 
 ## Titolo IV - DISPOSIZIONI COMUNI E FINALI
 
-#### Art. 20
+### Art. 20
 
 Termine per la presentazione dei documenti
 
@@ -284,29 +282,29 @@ di liquidazione finale del contributo
 
 Con decreto del Ministro della marina mercantile saranno stabiliti i documenti necessari da presentarsi da parte delle imprese interessate alla concessione e al pagamento parziale e definitivo dei contributi di cui ai precedenti articoli 3, 11, 12, 13 e 16 nonche' i termini da osservarsi a pena di decadenza ai predetti fini.
 
-#### Art. 21
+### Art. 21
 
 Decadenza dal contributo
 
 Nell'ipotesi di decadenza dal contributo contemplata dalla presente legge il beneficiario e' obbligato a restituire le somme percepite piu' gli interessi calcolati sulla base del tasso ufficiale di sconto, in vigore alla data della dichiarazione di decadenza, aumentato di due punti.
 
-#### Art. 22
+### Art. 22
 
 Cumulo di contributi
 
 I contributi previsti dalla presente legge non sono cumulabili con altre provvidenze aventi analoghe finalita'.
 
-#### Art. 23
+### Art. 23
 
 ((ARTICOLO ABROGATO DALLA L. 22 MARZO 1985, N. 111))
 
-#### Art. 24
+### Art. 24
 
 Norme fiscali
 
 Ai contributi di cui alla presente legge si applica la disposizione di cui all'articolo 55, quarto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 597.
 
-#### Art. 25
+### Art. 25
 
 Norme applicative
 
@@ -334,7 +332,7 @@ Per ciascun membro effettivo e' nominato un supplente.
 
 Le funzioni di segretario della commissione sono affidate ad un funzionario del Ministero della marina mercantile.
 
-#### Art. 26
+### Art. 26
 
 Oneri finanziari
 
@@ -344,7 +342,7 @@ La quota relativa all'anno 1982 e' determinata in lire 275.000 milioni.
 
 Sugli stanziamenti predetti gravano altresi' i contributi previsti dalle leggi 27 dicembre 1973, n. 878, titolo I, articoli 1 e 10, e titolo II; 25 maggio 1978, n. 231;24 marzo 1980, n. 94, e 2 aprile 1980, n. 122, qualora non sia stato possibile accogliere le domande, debitamente documentate, per l'esaurimento dei relativi stanziamenti.
 
-#### Art. 27
+### Art. 27
 
 Copertura finanziaria
 

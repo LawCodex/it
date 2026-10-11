@@ -42,11 +42,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## CAPO I
+## CAPO I - DISPOSIZIONI GENERALI
 
-### DISPOSIZIONI GENERALI
-
-###### Art. 1
+#### Art. 1
 
 Oggetto della professione
 
@@ -114,7 +112,7 @@ f) il deposito per l'iscrizione presso enti pubblici o privati di atti e documen
 
 5\. L'elencazione di cui al presente articolo non pregiudica l'esercizio di ogni altra attivita' professionale dei dottori commercialisti e degli esperti contabili ad essi attribuiti dalla legge o da regolamenti. Sono fatte salve le prerogative attualmente attribuite dalla legge ai professionisti iscritti in altri albi.
 
-###### Art. 2
+#### Art. 2
 
 Esercizio della professione
 
@@ -124,13 +122,13 @@ Esercizio della professione
 
 3\. L'alta vigilanza sull'esercizio della professione spetta al Ministro della giustizia, che la esercita sia direttamente sia per il tramite dei presidenti di corte di appello.
 
-###### Art. 3
+#### Art. 3
 
 Tutela dei titoli professionali
 
 1 E' vietato sia l'uso dei titoli professionali di cui all'articolo 39, sia del termine abbreviato "commercialista" da parte di chi non ne abbia diritto.
 
-###### Art. 4
+#### Art. 4
 
 Incompatibilita'
 
@@ -152,13 +150,13 @@ e) dell' attivita' di promotore finanziario.
 
 4\. Le ipotesi di incompatibilita' sono valutate con riferimento alle disposizioni di' cui al presente articolo anche per le situazioni in corso alla data di entrata in vigore del presente decreto legislativo.
 
-###### Art. 5
+#### Art. 5
 
 Obbligo del segreto professionale
 
 1\. Gli iscritti nell'Albo hanno l'obbligo del segreto professionale. Nei loro confronti si applicano gli articoli 199 e 200 del codice di procedura penale e l'articolo 249 del codice di procedura civile, salvo per quanto concerne le attivita' di revisione e certificazione obbligatorie di contabilita' e di' bilanci, nonche' quelle relative alle funzioni di sindaco o revisore di societa' od enti.
 
-###### Art. 6
+#### Art. 6
 
 Ordine professionale
 
@@ -168,11 +166,9 @@ l. Gli iscritti nell'Albo e nell'elenco di cui al capo IV costituiscono l'Ordine
 
 3\. Il Consiglio nazionale e gli Ordini territoriali sono enti pubblici non economici a carattere associativo, sono dotati di autonomia patrimoniale e finanziaria, determinano la propria organizzazione con appositi regolamenti, nel rispetto delle disposizioni di legge e del presente decreto e sono soggetti esclusivamente alla vigilanza del Ministero della giustizia.
 
-### CAPO II
+## CAPO II - GLI ORDINI TERRITORIALI
 
-#### GLI ORDINI TERRITORIALI
-
-###### Art. 7
+#### Art. 7
 
 Circoscrizione dell'Ordine territoriale
 
@@ -182,7 +178,7 @@ Circoscrizione dell'Ordine territoriale
 
 3\. L'assemblea degli iscritti, convocata a norma dell'articolo 23, puo' richiedere al Ministro della giustizia di disporre la confluenza dell'Ordine in un ordine territoriale viciniore. Sulla proposta decide, con decreto, il Ministro della giustizia, sentito il Consiglio dell'Ordine viciniore, previo parere del Consiglio nazionale.
 
-###### Art. 8
+#### Art. 8
 
 Organi dell'Ordine territoriale
 
@@ -190,7 +186,7 @@ Organi dell'Ordine territoriale
 
 ((1-bis. Presso ogni Consiglio dell'Ordine e' istituito il Comitato pari opportunita' eletto con le modalita' stabilite con regolamento approvato dal Consiglio nazionale)).
 
-###### Art. 9
+#### Art. 9
 
 Composizione del Consiglio dell'Ordine, eleggibilita' dei consiglieri
 
@@ -218,7 +214,7 @@ d) quindici membri, se gli iscritti superano il numero di millecinquecento.
 
 9\. I consiglieri dell'Ordine ed il presidente possono essere eletti per un numero di mandati consecutivi non superiore a due.
 
-###### Art. 10
+#### Art. 10
 
 Cariche del Consiglio
 
@@ -232,7 +228,7 @@ Cariche del Consiglio
 
 5\. Ove manchi o sia impedito il segretario, le funzioni sono svolte dal consigliere piu' giovane per eta'.
 
-###### Art. 11
+#### Art. 11
 
 Attribuzioni del presidente
 
@@ -240,7 +236,7 @@ I. Il presidente ha la rappresentanza dell'Ordine, presiede il Consiglio ed eser
 
 2\. Il presidente adotta, in casi di urgenza, i provvedimenti necessari, salvo ratifica del Consiglio.
 
-###### Art. 12
+#### Art. 12
 
 Attribuzioni del Consiglio
 
@@ -280,7 +276,7 @@ q) cura, su delega del Consiglio nazionale, la riscossione ed il successivo accr
 
 r) promuove, organizza e regola la formazione professionale continua ed obbligatoria dei propri iscritti e vigila sull'assolvimento di tale obbligo da parte dei medesimi.
 
-###### Art. 13
+#### Art. 13
 
 Riunioni consiliari
 
@@ -292,13 +288,13 @@ Riunioni consiliari
 
 4\. Il segretario redige il verbale sotto la direzione del presidente. Il verbale e' sottoscritto dal presidente e dal segretario.
 
-###### Art. 14
+#### Art. 14
 
 Decadenza dalla carica di consigliere
 
 1\. Il consigliere che, senza giustificato motivo, non interviene per tre volte consecutive alle riunioni del Consiglio, decade dalla carica.
 
-###### Art. 15
+#### Art. 15
 
 Delegazione dell'Ordine presso il tribunale
 
@@ -306,7 +302,7 @@ Delegazione dell'Ordine presso il tribunale
 
 2\. Alla nomina della delegazione si provvede con gli stessi criteri di proporzionalita' e rappresentativita' che si applicano per l'elezione del Consiglio dell'Ordine.
 
-###### Art. 16
+#### Art. 16
 
 Sostituzione dei componenti del Consiglio
 
@@ -318,7 +314,7 @@ Sostituzione dei componenti del Consiglio
 
 4\. In caso di impedimento del presidente, tale attribuzione e' esercitata dal presidente del tribunale nel cui circondario l'Ordine e' istituito.
 
-###### Art. 17
+#### Art. 17
 
 Scioglimento del Consiglio
 
@@ -328,7 +324,7 @@ Scioglimento del Consiglio
 
 3\. Lo scioglimento del Consiglio e la nomina del commissario sono disposti con decreto del Ministro della giustizia, sentito il parere del Consiglio nazionale. Il commissario provvede, entro sessanta giorni dalla nomina, salvo diversa indicazione del Consiglio nazionale, a convocare e tenere l'assemblea per la elezione dell'intero Consiglio, che restera' in carica fino alla scadenza naturale del Consiglio disciolto o non costituito.
 
-###### Art. 18
+#### Art. 18
 
 Assemblea
 
@@ -342,7 +338,7 @@ l. L'Assemblea e' convocata mediante avviso contenente l'indicazione del giorno 
 
 5\. Constatata la validita' dell'Assemblea, qualora un quinto degli iscritti ne faccia domanda, il presidente ed il segretario sono nominati dall'Assemblea.
 
-###### Art. 19
+#### Art. 19
 
 Convocazione dell'Assemblea per l'approvazione dei conti
 
@@ -350,7 +346,7 @@ Convocazione dell'Assemblea per l'approvazione dei conti
 
 2\. L'Assemblea generale degli iscritti nell'Albo e nell'elenco per l'approvazione del conto consuntivo dell'anno precedente, accompagnato dalla relazione del collegio dei revisori, ha luogo nel mese di aprile di ogni anno.
 
-###### Art. 20
+#### Art. 20
 
 Convocazione dell'Assemblea
 
@@ -362,7 +358,7 @@ per l'elezione del Consiglio dell'Ordine
 
 3\. L'avviso deve indicare il luogo, il giorno, l'ora e lo scopo dell'adunanza, nonche' il numero dei seggi componenti il Consiglio rispettivamente afferenti alle Sezioni A Commercialisti e B Esperti contabili dell'Albo, calcolato secondo i criteri di cui all'articolo 9, comma 1.
 
-###### Art. 21
+#### Art. 21
 
 Assemblea per l'elezione del Consiglio dell'Ordine e del Collegio dei revisori
 
@@ -402,19 +398,19 @@ AGGIORNAMENTO (3)
 
 Il D.L. 28 ottobre 2020, n. 137, convertito con modificazioni dalla L. 18 dicembre 2020, n. 176, ha disposto (con l'art. 31-terdecies, comma 2) che la presente disposizione non si applica ai procedimenti elettorali gia' avviati alla data di entrata in vigore della legge di conversione del suindicato decreto.
 
-###### Art. 22
+#### Art. 22
 
 Reclami contro i risultati delle elezioni.
 
 1\. Contro i risultati delle elezioni, ciascun iscritto nell'Albo puo' proporre reclamo al Consiglio nazionale, entro il termine perentorio di quindici giorni successivi alla proclamazione.
 
-###### Art. 23
+#### Art. 23
 
 Convocazione dell'Assemblea su richiesta degli iscritti
 
 1 Il presidente deve convocare senza ritardo l'Assemblea quando ne e' fatta domanda per iscritto con indicazione degli argomenti da trattare, da un decimo degli iscritti nell'Albo, ovvero da un terzo dei consiglieri. Se non vi provvede, l'Assemblea e' convocata dal presidente del tribunale in cui ha sede il Consiglio dell'Ordine, il quale designa il professionista che deve presiederla.
 
-###### Art. 24
+#### Art. 24
 
 Collegio dei revisori
 
@@ -428,11 +424,9 @@ Collegio dei revisori
 
 5\. Il collegio dei revisori o il revisore unico non partecipano ai lavori del Consiglio dell'Ordine.
 
-### CAPO III
+## CAPO III - IL CONSIGLIO NAZIONALE
 
-#### IL CONSIGLIO NAZIONALE
-
-###### Art.25
+#### Art.25
 
 Composizione ed elezione del Consiglio nazionale
 
@@ -470,7 +464,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 28 ottobre 2020, n. 137, convertito con modificazioni dalla L. 18 dicembre 2020, n. 176, ha disposto (con l'art. 31-terdecies, comma 2) che le presenti disposizioni non si applicano ai procedimenti elettorali gia' avviati alla data di entrata in vigore della legge di conversione del suindicato decreto.
 
-###### Art. 26
+#### Art. 26
 
 Cariche
 
@@ -484,7 +478,7 @@ Cariche
 
 ((4-bis. Presso il Consiglio nazionale e' istituito il Comitato nazionale pari opportunita', i cui componenti sono costituiti da un rappresentante per ciascuna regione scelto dai Comitati pari opportunita' locali, oltre a due delegati consiglieri nazionali)).
 
-###### Art. 27
+#### Art. 27
 
 Incompatibilita' - Sostituzione dei componenti
 
@@ -498,7 +492,7 @@ Incompatibilita' - Sostituzione dei componenti
 
 5\. Se il numero delle vacanze contestuali supera la meta' dei componenti il Consiglio, esso decade automaticamente In caso di scioglimento, si provvede all'elezione di un nuovo Consiglio nazionale secondo le disposizioni di cui all'articolo 25.
 
-###### Art. 28
+#### Art. 28
 
 Scioglimento del Consiglio
 
@@ -506,7 +500,7 @@ Scioglimento del Consiglio
 
 2\. In qualunque caso di scioglimento anticipato del Consiglio, quello neoeletto resta in carica fino alla scadenza del mandato del precedente Consiglio.
 
-###### Art. 29
+#### Art. 29
 
 Attribuzioni
 
@@ -542,7 +536,7 @@ p) esercita la potesta' regolamentare in materia elettorale, di organizzazione, 
 
 q) individua le attribuzioni da delegare al Comitato esecutivo, ove costituito ai sensi dell'articolo 26.
 
-###### Art. 30
+#### Art. 30
 
 Riunioni consiliari
 
@@ -558,13 +552,13 @@ Riunioni consiliari
 
 6\. Il verbale e' sottoscritto dal presidente e dal segretario.
 
-###### Art. 31
+#### Art. 31
 
 Notificazione delle decisioni
 
 1\. Le decisioni del Consiglio nazionale sono notificate entro trenta giorni agli interessati ed al presidente del tribunale della circoscrizione in cui ha sede il Consiglio dell'Ordine al quale l'interessato appartiene, nonche' al Consiglio dell'Ordine e al Ministero della giustizia.
 
-###### Art. 32
+#### Art. 32
 
 Reclami
 
@@ -574,7 +568,7 @@ Reclami
 
 3\. L'appello avverso la sentenza del tribunale e' deciso con l'osservanza delle medesime forme previste nel presente articolo.
 
-###### Art. 33
+#### Art. 33
 
 Il collegio dei revisori
 
@@ -590,15 +584,11 @@ Il collegio dei revisori
 
 6\. Il collegio dei revisori non partecipa ai lavori del Consiglio nazionale.
 
-### CAPO IV
+## CAPO IV - GLI ALBI, LE CONDIZIONI PER ESSERVI ISCRITTI, I TITOLI PROFESSIONALI
 
-#### GLI ALBI, LE CONDIZIONI PER ESSERVI ISCRITTI,
+### Sezione I - ALBI ED ELENCHI
 
-##### I TITOLI PROFESSIONALI
-
-###### Sezione I - ALBI ED ELENCHI
-
-###### Art. 34
+#### Art. 34
 
 Albo ed elenco dei non esercenti
 
@@ -622,7 +612,7 @@ b) Sezione B Esperti contabili.
 
 8\. Coloro che, a norma dell'articolo 4, non possono esercitare la professione, sono iscritti, a loro richiesta, in uno speciale elenco contenente le indicazioni di cui al comma 6.
 
-###### Art. 35
+#### Art. 35
 
 Divieto di iscrizione in piu' Albi,
 
@@ -632,7 +622,7 @@ Sezioni ed elenchi. Anzianita'
 
 2\. La data di iscrizione in ciascuna sezione dell'Albo stabilisce la relativa anzianita'. Coloro che dopo la cancellazione sono di nuovo iscritti nell'Albo nella medesima Sezione hanno l'anzianita' derivante dalla prima iscrizione, dedotta la durata della interruzione. Coloro che, avendone maturato il titolo, provvedono alla cancellazione dalla Sezione, o elenco speciale di una Sezione ed alla iscrizione in un'altra Sezione, o elenco speciale di altra Sezione, hanno l'anzianita' derivante da quest' ultima iscrizione.
 
-###### Art. 36
+#### Art. 36
 
 Requisiti per la iscrizione nell'Albo
 
@@ -664,7 +654,7 @@ b) avere superato l'esame di Stato per l'abilitazione all'esercizio della profes
 
 4-bis. Il decreto di riconoscimento della qualifica professionale ai sensi del Titolo III, del decreto legislativo 9 novembre 2007, n. 206, costituisce titolo per l'iscrizione nell'albo.
 
-###### Art. 37
+#### Art. 37
 
 Domanda di iscrizione nell'Albo
 
@@ -682,7 +672,7 @@ o nell'elenco speciale dei non esercenti
 
 ((6. Al procedimento per l'iscrizione nell'albo si applica l'articolo 45, commi 4 e 5, del decreto legislativo di attuazione della direttiva 2006/123/CE.))
 
-###### Art. 38
+#### Art. 38
 
 Trasferimento
 
@@ -694,7 +684,7 @@ Trasferimento
 
 4\. Per le iscrizioni in seguito a trasferimento si applicano le disposizioni dell'articolo 37
 
-###### Art. 39
+#### Art. 39
 
 Titoli professionali
 
@@ -702,11 +692,9 @@ Titoli professionali
 
 2\. Il termine "commercialista" puo' essere utilizzato solo dagli iscritti nella Sezione A Commercialisti dell'Albo, con la completa indicazione del titolo professionale posseduto.
 
-### Sezione II
+### Sezione II - FORMAZIONE ED ACCESSO ALLA PROFESSIONE
 
-#### FORMAZIONE ED ACCESSO ALLA PROFESSIONE
-
-###### Art. 40
+#### Art. 40
 
 Abilitazione professionale
 
@@ -720,13 +708,13 @@ Abilitazione professionale
 
 5\. Possono chiedere l'iscrizione nella Sezione tirocinanti esperti contabili del registro tutti coloro che siano in possesso di diploma di laurea della classe 17, classe delle lauree in scienze dell'economia e della gestione aziendale, ovvero della classe 28, classe delle lauree in scienze economiche.
 
-###### Art. 41
+#### Art. 41
 
 Valore delle classi di laurea
 
 1\. I decreti ministeriali che, ai sensi dell'articolo 4, comma 2, del decreto del Ministro dell'istruzione, dell'universita' e della ricerca 22 ottobre 2004, n. 270, introducono modifiche alle classi di laurea e di laurea specialistica, definiscono la relativa corrispondenza con i titoli previsti dall'articolo 36, commi 3 e 4, quali requisiti di ammissione agli esami di Stato.
 
-###### Art. 42
+#### Art. 42
 
 Tirocinio
 
@@ -740,7 +728,7 @@ a) le modalita' di svolgimento di parte del tirocinio in un altro Stato membro d
 
 b) le condizioni sulla base delle quali, coloro che hanno effettuato il periodo di tirocinio per l'accesso alla Sezione B Esperti contabili dell'Albo, possono essere esentati in tutto o in parte dal tirocinio per l'accesso alla Sezione A Commercialisti . In ogni caso, per l'ammissione all'esame di accesso alla Sezione A Commercialisti, il tirocinante deve aver svolto almeno un anno di tirocinio professionale presso un professionista iscritto nella Sezione stessa.
 
-###### Art. 43
+#### Art. 43
 
 Integrazione del tirocinio negli studi universitari
 
@@ -748,7 +736,7 @@ Integrazione del tirocinio negli studi universitari
 
 2\. Ai fini di cui al comma 1 i rapporti tra i Consigli dell'Ordine territoriale e le universita' sono definiti da appositi accordi, nell'ambito di una convenzione quadro tra il Ministero dell'istruzione, dell'universita' e della ricerca e il Consiglio nazionale.
 
-###### Art. 44
+#### Art. 44
 
 Svolgimento del tirocinio professionale
 
@@ -758,7 +746,7 @@ Svolgimento del tirocinio professionale
 
 3\. I1 Consiglio dell'Ordine territoriale verifica l'effettivo svolgimento del tirocinio, anche tramite resoconti del tirocinante o colloqui con questi, secondo quanto previsto dal regolamento di cui all'articolo 42, comma 2.
 
-###### Art. 45
+#### Art. 45
 
 Esame di abilitazione
 
@@ -768,7 +756,7 @@ Esame di abilitazione
 
 3\. Coloro che hanno compiuto il tirocinio prescritto per accedere alla Sezione B non possono partecipare all'esame per l'iscrizione alla Sezione A dell'Albo.
 
-###### Art. 46
+#### Art. 46
 
 Prove d'esame per l'iscrizione nella Sezione A dell'Albo
 
@@ -788,7 +776,7 @@ c) una prova a contenuto pratico, costituita da un'esercitazione sulle materie p
 
 3\. Sono esentati dalla prima prova scritta coloro i quali provengono dalla Sezione B dell'Albo e coloro che hanno conseguito un titolo di studio all'esito di uno dei corsi di laurea realizzati sulla base della convenzione di cui all'articolo 43.
 
-###### Art. 47
+#### Art. 47
 
 Prove d'esame per l'iscrizione nella Sezione B dell'Albo
 
@@ -808,17 +796,15 @@ c) una prova a contenuto pratico, costituita da un'esercitazione sulle materie p
 
 3\. Sono esentati dalla prima prova scritta coloro i quali hanno conseguito un titolo di studio all'esito di uno dei corsi di laurea realizzati sulla base della convenzione di cui all'articolo 43.
 
-###### Art. 48
+#### Art. 48
 
 Rapporti tra Ordine professionale ed universita'
 
 1\. Il Ministero dell'istruzione, dell'universita' e della ricerca ed il Consiglio nazionale promuovono, anche con apposita convenzione e con l'istituzione di un osservatorio permanente congiunto, la piena collaborazione tra facolta' ed Ordini professionali.
 
-### CAPO V
+## CAPO V - IL PROCEDIMENTO DISCIPLINARE
 
-#### IL PROCEDIMENTO DISCIPLINARE
-
-###### Art. 49
+#### Art. 49
 
 Esercizio dell'azione disciplinare
 
@@ -834,7 +820,7 @@ Esercizio dell'azione disciplinare
 
 6\. Nel caso in cui e' promossa l'azione disciplinare nei confronti dei componenti del Consiglio dell'Ordine istituito presso la sede di corte di appello, e' competente il Consiglio dell'Ordine ove ha sede la corte di appello piu' vicina, determinata dal Consiglio nazionale ai sensi dell'articolo 1 del decreto legislativo 28 luglio 1989, n. 271.
 
-###### Art. 50
+#### Art. 50
 
 Procedimento disciplinare
 
@@ -858,7 +844,7 @@ Procedimento disciplinare
 
 10\. Il professionista che sia sottoposto a giudizio penale e' sottoposto anche a procedimento disciplinare per il fatto che ha formato oggetto dell'imputazione, tranne ove sia intervenuta sentenza di proscioglimento perche' il fatto non sussiste o perche' l'imputato non l'ha commesso.
 
-###### Art. 51
+#### Art. 51
 
 Astensione e ricusazione
 
@@ -870,7 +856,7 @@ Astensione e ricusazione
 
 4\. Il Consiglio competente ai sensi del comma 3, se autorizza l'astensione o riconosce legittima la ricusazione, si sostituisce al Consiglio dell'Ordine cui appartengono i componenti che hanno chiesto di astenersi o che sono stati ricusati; altrimenti restituisce gli atti per la prosecuzione del procedimento.
 
-###### Art. 52
+#### Art. 52
 
 Sanzioni disciplinari
 
@@ -882,7 +868,7 @@ b) la sospensione dall'esercizio professionale per un periodo di tempo non super
 
 c) la radiazione dall'Albo.
 
-###### Art. 53
+#### Art. 53
 
 Sospensione cautelare
 
@@ -892,7 +878,7 @@ Sospensione cautelare
 
 3\. L'incolpato deve essere sentito prima della deliberazione.
 
-###### Art. 54
+#### Art. 54
 
 Sospensione per morosita'
 
@@ -900,7 +886,7 @@ Sospensione per morosita'
 
 2\. La sospensione e' revocata con provvedimento del presidente del Consiglio dell'Ordine quando l'iscritto dimostri di aver pagato le somme dovute.
 
-###### Art. 55
+#### Art. 55
 
 Impugnazioni
 
@@ -910,23 +896,21 @@ Impugnazioni
 
 3\. Il Consiglio nazionale riesamina integralmente i fatti e, valutate tutte le circostanze, puo' infliggere una sanzione disciplinare anche piu' grave.
 
-###### Art. 56
+#### Art. 56
 
 Prescrizione dell'azione disciplinare
 
 1\. L'azione disciplinare si prescrive in cinque anni dal compimento dell'evento che puo' dar luogo all'apertura del procedimento disciplinare.
 
-###### Art. 57
+#### Art. 57
 
 Riammissione dei radiati
 
 1\. II professionista radiato dall'Albo o dall'elenco puo' essere riammesso, purche' siano trascorsi almeno sei anni dal provvedimento di radiazione. In ogni caso, deve risultare che il radiato ha tenuto, dopo la radiazione, condotta irreprensibile.
 
-### CAPO VI
+## CAPO VI - DISPOSIZIONI TRANSITORIE
 
-#### DISPOSIZIONI TRANSITORIE
-
-###### Art. 58
+#### Art. 58
 
 Istituzione dei nuovi Ordini
 
@@ -936,7 +920,7 @@ e soppressione di quelli preesistenti
 
 2\. Qualora in un circondario di tribunale sia costituito solo l'Ordine dei dottori commercialisti ovvero solo il collegio dei ragionieri e periti commerciali, tale ente e' soppresso. Nello stesso circondario di tribunale e' istituito, a decorrere dalla medesima data, l'Ordine territoriale dei dottori commercialisti e degli esperti contabili.
 
-###### Art. 59
+#### Art. 59
 
 Istituzione del Consiglio nazionale
 
@@ -944,7 +928,7 @@ e soppressione di quelli preesistenti
 
 1\. A fare data dal l° gennaio 2008, il Consiglio nazionale dei dottori commercialisti, gia' istituito a norma del decreto del Presidente della Repubblica 27 ottobre 1953, n. 1067, ed il Consiglio nazionale dei ragionieri e periti commerciali, gia' istituito a norma del decreto del Presidente della Repubblica 27 ottobre 1953, n. 1068, sono soppressi. A decorrere dalla medesima data, e' istituito l'ente pubblico non economico denominato Consiglio nazionale dei dottori commercialisti e degli esperti contabili.
 
-###### Art. 60
+#### Art. 60
 
 Successione nei rapporti giuridici
 
@@ -962,7 +946,7 @@ e nella titolarita' delle pubbliche funzioni
 
 6\. Tutti i procedimenti gia' in corso presso i Consigli nazionali dei dottori commercialisti e dei ragionieri e periti commerciali alla data di cui al comma 1 proseguono in capo al Consiglio nazionale dei dottori commercialisti e degli esperti contabili.
 
-###### Art. 61
+#### Art. 61
 
 Costituzione dell'Albo unico
 
@@ -984,7 +968,7 @@ Agli iscritti nella sezione A, gia' iscritti nell'Albo dei ragionieri e periti c
 
 8\. Coloro che sono iscritti contestualmente negli Albi dei dottori commercialisti e dei ragionieri e periti commerciali dovranno esercitare, ai fini dell'elettorato attivo e passivo, il diritto di opzione ad eleggere o ad essere eletti tra i dottori commercialisti o tra i ragionieri commercialisti. Tale opzione dovra' essere esercitata entro la data del 31 dicembre 2006 e comunicata alla commissione di cui all'articolo 75 ed ha valore per tutto il periodo transitorio. Gli iscritti che non avranno esercitato l'opzione verranno inseriti nelle liste elettorali dell'Albo nel quale hanno maturato una maggiore anzianita'.
 
-###### Art. 62
+#### Art. 62
 
 Diritti quesiti
 
@@ -992,7 +976,7 @@ Diritti quesiti
 
 2\. Possono fare domanda di iscrizione nella sezione A Commercialisti coloro che, alla data del 3 1 dicembre 2007, abbiano conseguito l'abilitazione professionale in conformita' a quanto prescritto dalla legge 12 febbraio 1992, n. 183, e dal decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica 8 ottobre 1996, n. 622, e che, alla medesima data, non risultino iscritti nell'Albo.
 
-###### Art. 63
+#### Art. 63
 
 Composizione dei Consigli dell'Ordine
 
@@ -1002,7 +986,7 @@ Composizione dei Consigli dell'Ordine
 
 3\. Per il restante periodo transitorio, della durata di quattro anni a partire dal I° gennaio 2013 e fino al 31 dicembre 2016, la determinazione del numero di membri riservati rispettivamente ai dottori commercialisti, ai ragionieri commercialisti ed agli esperti contabili sara' effettuata dal presidente del Consiglio dell'Ordine, all'atto della fissazione della data di svolgimento delle elezioni, in misura direttamente proporzionale al numero degli iscritti con il titolo di dottore commercialista, degli iscritti con il titolo di ragioniere commercialista e degli iscritti nella Sezione B Esperti contabili, fatto salvo il rispetto di quanto previsto dal comma 1.
 
-###### Art. 64
+#### Art. 64
 
 Prima elezione dei Consigli dell'Ordine
 
@@ -1040,7 +1024,7 @@ esprimere. nell'ambito della stessa lista, un numero di preferenze non superiore
 
 16\. Risulteranno eletti i candidati che avranno conseguito il maggior numero di preferenze fino a concorrenza dei seggi assegnati alla lista in cui essi sono candidati. Per l'ultimo degli eletti di ciascuna lista, in caso di parita' di preferenze, sara' preferito il candidato che precede nell'ordine della lista.
 
-###### Art. 65
+#### Art. 65
 
 Successive elezioni dei Consigli dell'Ordine.
 
@@ -1060,7 +1044,7 @@ Successive elezioni dei Consigli dell'Ordine.
 
 8\. Le liste delle candidature per l'elezione dei consiglieri esperti contabili avranno un numero di candidati pari a quello ad essi riservato ai sensi dell'articolo 9, aumentato di tre.
 
-###### Art. 66
+#### Art. 66
 
 Cariche elettive del Consiglio dell'Ordine
 
@@ -1068,7 +1052,7 @@ Cariche elettive del Consiglio dell'Ordine
 
 2\. Si applicano, per quanto compatibili, le disposizioni di cui all'articolo 10.
 
-###### Art. 67
+#### Art. 67
 
 Composizione del Consiglio nazionale
 
@@ -1078,7 +1062,7 @@ Composizione del Consiglio nazionale
 
 3\. Per il restante periodo transitorio, della durata di quattro anni dal 1° gennaio 2013 al 31 dicembre 2016, la determinazione del numero di membri riservati rispettivamente ai dottori commercialisti ed ai ragionieri commercialisti sara' effettuata dal presidente del Consiglio nazionale dell'Ordine, all'atto della fissazione della data di svolgimento delle elezioni presso i Consigli territoriali dell'Ordine, in misura direttamente proporzionale al numero degli iscritti con il titolo di dottore commercialista, e degli iscritti con il titolo di ragioniere commercialista, fatto salvo il rispetto di quanto previsto dal comma 1.
 
-###### Art. 68
+#### Art. 68
 
 Elezione del Consiglio nazionale
 
@@ -1124,7 +1108,7 @@ Elezione del Consiglio nazionale
 
 21\. Per la seconda elezione si applicano altresi' i commi 4 e 5, intendendosi che le distinte liste riguardano rispettivamente gli iscritti con il titolo di dottore commercialista e gli iscritti con il titolo di ragioniere commercialista.
 
-###### Art. 69
+#### Art. 69
 
 Cariche elettive del Consiglio nazionale
 
@@ -1140,13 +1124,13 @@ Cariche elettive del Consiglio nazionale
 
 6\. In caso di scioglimento del Consiglio nazionale, quello neoeletto restera' in carica fino alla scadenza del mandato del Consiglio nazionale disciolto.
 
-###### Art. 70
+#### Art. 70
 
 Insediamento dei nuovi organi direttivi locali e nazionali
 
 1\. I Consigli territoriali e il Consiglio nazionale dell'Ordine dei dottori commercialisti ed esperi contabili si insediano ed esercitano le rispettive attribuzioni a partire dal 1° gennaio 2008.
 
-###### Art. 71
+#### Art. 71
 
 Conseguenze dell'unificazione
 
@@ -1184,7 +1168,7 @@ b) diploma universitario, conseguito a seguito di un corso di studi specialistic
 
 6\. Fino al 31 dicembre 2007 coloro che sono in possesso del diploma di laurea specialistica nella classe 64/S, classe delle lauree specialistiche in scienze dell'economia, ovvero nella classe 84/S, classe delle lauree specialistiche in scienze economico-aziendali, ed hanno compiuto il prescritto periodo di pratica professionale sono ammessi a sostenere gli esami di Stato per l'accesso alle professioni di dottore commercialista e di ragioniere e perito commerciale, disciplinati rispettivamente con decreti del Ministro dell'universita' e della ricerca scientifica e tecnologica 24 ottobre 1996, n. 654, e 8 ottobre 1996, n. 622.
 
-###### Art. 72
+#### Art. 72
 
 Procedimenti disciplinari pendenti
 
@@ -1198,7 +1182,7 @@ alla data di istituzione dei nuovi ordini
 
 4\. Il Consiglio nazionale che ricevera' gli atti sara' e' tenuto a proseguire nel procedimento e potra' riesaminare integralmente i fatti.
 
-###### Art. 73
+#### Art. 73
 
 Azione disciplinare per fatti commessi anteriormente
 
@@ -1206,7 +1190,7 @@ alla istituzione dei nuovi Ordini
 
 1\. Il Consiglio dell'Ordine dei dottori commercialisti e degli esperti contabili e' competente a procedere disciplinarmente nei confronti dei propri iscritti per fatti da essi commessi fino al 31 dicembre 2007, fatte salve le norme in materia di prescrizione.
 
-###### Art. 74
+#### Art. 74
 
 Proroga degli organi elettivi
 
@@ -1214,7 +1198,7 @@ Proroga degli organi elettivi
 
 2\. E' data facolta' ai Consigli locali prorogati di indire nuove elezioni alla scadenza del mandato. In ogni caso, gli organi eletti decadranno alla data del 31 dicembre 2007.
 
-###### Art. 75
+#### Art. 75
 
 Commissione ministeriale
 
@@ -1226,23 +1210,21 @@ Commissione ministeriale
 
 4\. Gli oneri per il funzionamento della commissione sono stabiliti e ripartiti in misura paritaria, con decreto del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze, tra il Consiglio nazionale dei dottori commercialisti ed il Consiglio nazionale dei ragionieri e periti commerciali, che provvedono congiuntamente a fornire il personale ed i mezzi dell'ufficio di segretariato.
 
-### CAPO VII
+## CAPO VII - DISPOSIZIONI FINALI E DI COORDINAMENTO
 
-#### DISPOSIZIONI FINALI E DI COORDINAMENTO
-
-###### Art. 76
+#### Art. 76
 
 Abrogazioni
 
 1\. Sono abrogati i decreti del Presidente della Repubblica 27 ottobre 1953, n. 1067, e 27 ottobre 1953, n. 1068.
 
-###### Art. 77
+#### Art. 77
 
 Notificazioni e comunicazioni
 
 1\. Le notificazioni sono eseguite a mezzo lettera raccomandata con avviso di ricevimento ovvero posta elettronica con firma digitale e avviso di ricevimento. Le comunicazioni sono eseguite a mezzo lettera raccomandata ovvero posta elettronica con firma digitale.
 
-###### Art. 78
+#### Art. 78
 
 Disposizioni di coordinamento
 
@@ -1254,7 +1236,7 @@ Disposizioni di coordinamento
 
 4\. Fino al 31 dicembre 2007, i richiami ai Consigli locali e nazionali "dell'Ordine dei dottori commercialisti ed esperti contabili" contenuti nelle disposizioni vigenti ((...)), si intendono riferiti, nell'ambito delle rispettive competenze, ai Consigli territoriali e nazionale dei dottori commercialisti e ai Consigli territoriali e nazionali dei ragionieri e periti commerciali.
 
-###### Art. 79
+#### Art. 79
 
 Copertura finanziaria
 

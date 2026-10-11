@@ -26,9 +26,7 @@ PROMULGA
 
 la seguente legge:
 
-## ISTITUZIONE DELL'ALBO NAZIONALE - DEGLI AUTOTRASPORTATORI DI COSE
-
-### PER CONTO DI TERZI
+## ISTITUZIONE DELL'ALBO NAZIONALE - DEGLI AUTOTRASPORTATORI DI COSE PER CONTO DI TERZI
 
 #### Art. 1
 
@@ -680,7 +678,7 @@ Gli autoveicoli di cui al precedente comma non sono soggetti al pagamento della 
 
 Il Ministero dei trasporti e dell'aviazione civile - d'intesa con quello delle finanze - e' autorizzato ad estendere le disposizioni di cui al secondo e terzo comma a casi ivi non contemplati, in relazione a nuove e particolari caratteristiche tecniche di autoveicoli.
 
-## Capo I - TRASPORTI IN CONTO PROPRIO
+### Capo I - TRASPORTI IN CONTO PROPRIO
 
 #### Art. 31
 
@@ -844,7 +842,7 @@ La copia della dichiarazione conservata dal titolare della licenza deve essere e
 
 Qualora le cose oggetto di trasporto siano gia' sottoposte a controlli da parte dello Stato, per finalita' diverse da quelle previste dal presente titolo e sempre che per l'effettuazione di tali controlli sia prevista la emissione di un documento di accompagnamento delle cose stesse, il Ministro per i trasporti e l'aviazione civile - d'intesa con gli altri dicasteri interessati - puo' disporre con proprio decreto l'utilizzazione di tale documento in sostituzione della dichiarazione di cui al presente articolo.
 
-## Capo II - TRASPORTI PER CONTO DI TERZI
+### Capo II - TRASPORTI PER CONTO DI TERZI
 
 #### Art. 40
 
@@ -912,7 +910,7 @@ Alle societa' cooperative di produzione e lavoro, di servizi e di trasporto, son
 
 In caso di cessione dell'azienda, le autorizzazioni sono rilasciate al cessionario dell'azienda stessa sempreche' abbia ottenuto l'iscrizione nell'albo. Il cedente non puo' riprendere l'attivita' di autotrasportatore se non siano trascorsi tre anni dalla data della cessione.
 
-## Capo III - DISPOSIZIONI COMUNI
+### Capo III - DISPOSIZIONI COMUNI
 
 #### Art. 44
 
@@ -994,9 +992,7 @@ Tassa di concessione
 
 Per ciascuna delle licenze di cui al precedente articolo 32, siano esse provvisorie o definitive, e per ciascuna autorizzazione di cui agli articoli 41 e 42, e' dovuta la tassa di concessione governativa prevista dalle vigenti disposizioni.
 
-## TITOLO III - ISTITUZIONE DI UN SISTEMA
-
-### DI TARIFFE A FORCELLA - PER I TRASPORTI DI MERCI SU STRADA
+## TITOLO III - ISTITUZIONE DI UN SISTEMA DI TARIFFE A FORCELLA PER I TRASPORTI DI MERCI SU STRADA
 
 #### Art. 50
 

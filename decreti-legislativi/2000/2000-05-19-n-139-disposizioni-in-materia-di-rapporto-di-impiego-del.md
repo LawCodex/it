@@ -38,11 +38,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - ORDINAMENTO DELLA CARRIERA PREFETTIZIA
 
-### ORDINAMENTO DELLA CARRIERA PREFETTIZIA
-
-#### Art. 1
+### Art. 1
 
 Funzioni prefettizie
 
@@ -124,7 +122,7 @@ Detta tabella puo' essere modificata, in relazione a sopravvenute esigenze conne
 
 > e) previsione di decreti ministeriali di natura non regolamentare per la definizione dei compiti delle unita' dirigenziali nell'ambito degli uffici dirigenziali generali".
 
-#### Art. 2
+### Art. 2
 
 Qualifiche
 
@@ -162,7 +160,7 @@ Qualifiche
 
 > 2\. In relazione a quanto stabilito dall'art. 2, comma 1, su proposta del Ministro dell'interno, un contingente di dirigenti generali della Polizia di Stato, nel numero massimo di cinque unita', puo' essere collocato in posizione di fuori ruolo presso la Presidenza del Consiglio dei Ministri, anche in eccedenza all'organico previsto per il SISDE dalle disposizioni vigenti".
 
-#### Art. 3
+### Art. 3
 
 Espletamento delle attivita' di studio, consulenza e ricerca
 
@@ -182,7 +180,7 @@ Espletamento delle attivita' di studio, consulenza e ricerca
 
 > E' in facolta' dei dipendenti civili dello Stato e degli enti pubblici non economici di permanere in servizio, con effetto dalla data di entrata in vigore della legge 23 ottobre 1992, n. 421 per un periodo massimo di un biennio oltre i limiti di eta' per il collocamento a riposo per essi previsti".
 
-#### Art. 4
+### Art. 4
 
 Accesso alla carriera
 
@@ -214,7 +212,7 @@ Accesso alla carriera
 
 > "6. Ai fini delle assunzioni di personale presso la Presidenza del Consiglio dei Ministri e le amministrazioni che esercitano competenze istituzionali in materia di difesa e sicurezza dello Stato, di polizia, di giustizia ordinaria, amministrativa, contabile e di difesa in giudizio dello Stato, si applica il disposto di cui all'art. 26 della legge 1o febbraio 1989, n. 53".
 
-#### Art. 5
+### Art. 5
 
 (( (Formazione iniziale) ))
 
@@ -228,7 +226,7 @@ AGGIORNAMENTO (13)
 
 Il D.L. 17 marzo 2020, n. 18 ha disposto (con l'art. 74, comma 6) che "In relazione alla attuazione delle misure urgenti in materia di contenimento e gestione dell'emergenza epidemiologica da COVID-19 di cui al decreto-legge 23 febbraio 2020, n. 6, convertito, con modificazioni, dalla legge 5 marzo 2020, n.13, al fine di garantire la migliore applicazione delle correlate misure precauzionali attraverso la piena efficienza operativa delle Prefetture-Uffici territoriali del Governo, assicurando l'immediato supporto e la piu' rapida copertura di posti vacanti in organico, in deroga a quanto previsto dall'articolo 5 del decreto legislativo 19 maggio 2000, n. 139, il corso di formazione per l'accesso alla qualifica iniziale della carriera prefettizia avviato a seguito del Concorso pubblico indetto con decreto ministeriale 28 giugno 2017, pubblicato nella Gazzetta Ufficiale - 4^ Serie Speciale - "Concorsi ed Esami", numero 49 del 30 giugno 2017, in svolgimento alla data di entrata in vigore della presente disposizione ha, in via straordinaria, la durata di un anno e si articola in due semestri, il primo dei quali di formazione teorico-pratica, il secondo di tirocinio operativo che viene svolto presso le Prefetture-U.t.G. dei luoghi di residenza".
 
-#### Art. 6
+### Art. 6
 
 Attivita' formative
 
@@ -242,7 +240,7 @@ c) il corso riservato ai viceprefetti volto al perfezionamento professionale.
 
 2\. L'amministrazione promuove anche lo svolgimento di percorsi di formazione presso altre scuole delle amministrazioni statali, nonche' presso soggetti pubblici e privati, e di periodi di studio presso amministrazioni ed istituzioni dei paesi dell'Unione europea ed organizzazioni internazionali.
 
-#### Art. 7
+### Art. 7
 
 Progressione in carriera
 
@@ -256,7 +254,7 @@ Progressione in carriera
 
 5\. Con cadenza triennale il consiglio di amministrazione effettua, agli esclusivi fini dell'aggiornamento delle posizioni nei ruoli di anzianita' dei viceprefetti e dei viceprefetti aggiunti, una valutazione dei titoli di servizio di cui all'articolo 8, comma 1. A tali fini vengono rispettivamente valutati i viceprefetti e i viceprefetti aggiunti con almeno tre anni di servizio nella qualifica. Il consiglio di amministrazione, per i viceprefetti, provvede su proposta di una commissione nominata con decreto del Ministro dell'interno, composta da tre prefetti, di cui uno scelto tra quelli preposti alle attivita' di valutazione e di controllo di cui al decreto legislativo 30 luglio 1999, n. 286, e due scelti tra prefetti che abbiano svolto incarichi di funzione in ambito sia centrale che periferico; per i viceprefetti aggiunti, su proposta della commissione per la progressione in carriera prevista dall'articolo 17.
 
-#### Art. 8
+### Art. 8
 
 Valutazione comparativa
 
@@ -268,7 +266,7 @@ Valutazione comparativa
 
 4\. La commissione per la progressione in carriera prevista dall'articolo 17 formula al consiglio di amministrazione, sulla base dei criteri determinati ai sensi del comma 2, la proposta di graduatoria di merito relativa ai funzionari ammessi alla valutazione. Il consiglio di amministrazione conferisce le promozioni o ridetermina le posizioni in ruolo, motivando le decisioni adottate in difformita' alla proposta formulata dalla commissione.
 
-#### Art. 9
+### Art. 9
 
 Nomina a prefetto
 
@@ -308,7 +306,7 @@ Con il decreto di costituzione e' individuato il componente della commissione ch
 
 > Nella prima applicazione della presente legge, il numero dei posti di tenente generale eventualmente assorbiti dai ruoli ad esaurimento vanno temporaneamente detratti dal numero di cui al primo comma sino al loro totale assorbimento".
 
-#### Art. 10
+### Art. 10
 
 Individuazione dei posti di funzione
 
@@ -316,7 +314,7 @@ Individuazione dei posti di funzione
 
 2\. In relazione al sopravvenire di nuove esigenze organizzative e funzionali, e comunque con cadenza biennale, si provvede, con le modalita' di cui al comma 1, alla periodica rideterminazione dei posti di funzione di cui allo stesso comma nell'ambito degli uffici centrali e periferici dell'amministrazione dell'interno.
 
-#### Art. 11
+### Art. 11
 
 Criteri generali di conferimento degli incarichi e rotazione
 
@@ -328,7 +326,7 @@ Criteri generali di conferimento degli incarichi e rotazione
 
 4\. Nel conferimento degli incarichi ai viceprefetti si tiene conto dell'esigenza di garantire un adeguato percorso professionale attraverso l'espletamento di almeno due incarichi inerenti alla qualifica nell'ambito della stessa sede o in sedi diverse.
 
-#### Art. 12
+### Art. 12
 
 Conferimento dei posti di funzione
 
@@ -342,7 +340,7 @@ Conferimento dei posti di funzione
 
 4\. Gli incarichi di viceprefetto vicario e di capo di gabinetto negli uffici territoriali del governo e gli incarichi di diretta collaborazione con i capi di dipartimento individuati con decreto del Ministro dell'interno, sono conferiti dal prefetto o dal capo del dipartimento all'atto dell'assunzione delle relative funzioni. Con le modalita' di cui ai commi 2 e 3, si provvede, ove necessario, al conseguente conferimento di nuovi incarichi di funzione.
 
-#### Art. 13
+### Art. 13
 
 Assegnazione dei funzionari prefettizi
 
@@ -360,7 +358,7 @@ Assegnazione dei funzionari prefettizi
 
 > b) effettua, ai fini dell'adempimento dei compiti definiti ai sensi della lettera a), l'assegnazione ai dirigenti preposti ai centri di responsabilita' delle rispettive amministrazioni delle risorse di cui all'art. 3, comma 1, lettera c), del presente decreto, ivi comprese quelle di cui all'art. 3 del decreto legislativo 7 agosto 1997, n. 279, ad esclusione delle risorse necessarie per il funzionamento degli uffici di cui al comma 2; provvede alle variazioni delle assegnazioni con le modalita' previste dal medesimo decreto legislativo 7 agosto 1997, n. 279, tenendo altresi' conto dei procedimenti e subprocedimenti attribuiti ed adotta gli altri provvedimenti ivi previsti".
 
-#### Art. 14
+### Art. 14
 
 Attribuzioni del funzionario prefettizio
 
@@ -372,13 +370,13 @@ Attribuzioni del funzionario prefettizio
 
 > \- Per l'argomento del decreto legislativo 3 febbraio 1993, n. 29, vedasi nelle note all'art. 1.
 
-#### Art. 15
+### Art. 15
 
 Mobilita' interna
 
 1\. Con decreto del Ministro dell'interno sono stabilite forme d'incentivazione della mobilita' a livello regionale e nazionale, correlate alla attivazione di facilitazioni abitative sulla base di convenzioni stipulate dall'amministrazione dell'interno con enti pubblici e soggetti privati.
 
-#### Art. 16
+### Art. 16
 
 Valutazione annuale dei funzionari
 
@@ -400,7 +398,7 @@ Valutazione annuale dei funzionari
 
 > "8. Per la Presidenza del Consiglio dei Ministri e per le amministrazioni che esercitano competenze in materia di difesa e sicurezza dello Stato, di polizia e di giustizia, le operazioni di cui al comma 2 sono effettuate dal Ministro per i dirigenti e dal Consiglio dei Ministri per i dirigenti generali. I termini e le modalita' di attuazione del procedimento di verifica dei risultati da parte del Ministro competente e del Consiglio dei Ministri sono stabiliti rispettivamente con regolamento ministeriale e con decreto del Presidente della Repubblica da adottarsi entro sei mesi, ai sensi dell'art. 17, legge 23 agosto 1988, n. 400".
 
-#### Art. 17
+### Art. 17
 
 Commissione per la progressione in carriera
 
@@ -408,7 +406,7 @@ Commissione per la progressione in carriera
 
 2\. Ai lavori della commissione partecipa, in qualita' di relatore senza facolta' di voto, il capo del dipartimento competente per l'amministrazione del personale della carriera prefettizia, o un suo delegato.
 
-#### Art. 18
+### Art. 18
 
 Consiglio di amministrazione
 
@@ -452,7 +450,7 @@ Consiglio di amministrazione
 
 > Il consiglio di amministrazione esercita le attribuzioni stabilite dalla legge in materia di personale anche per quanto riguarda quello ausiliario e quello operaio".
 
-#### Art. 19
+### Art. 19
 
 Trattamento economico
 
@@ -462,7 +460,7 @@ Trattamento economico
 
 3\. Il procedimento negoziale, in relazione alla specificita' ed unitarieta' di ruolo della carriera prefettizia, assicura, nell'ambito delle risorse finanziarie disponibili, sviluppi omogenei e proporzionati del trattamento economico, secondo appositi parametri in tale sede definiti, rapportati alla figura apicale.
 
-#### Art. 20
+### Art. 20
 
 Retribuzione di posizione
 
@@ -472,7 +470,7 @@ Retribuzione di posizione
 
 3\. Per i funzionari titolari di incarichi conferiti con provvedimento del Ministro dell'interno possono essere individuate piu' posizioni graduate, secondo la diversa rilevanza degli incarichi, tenendo conto della qualifica rivestita.
 
-#### Art. 21
+### Art. 21
 
 Retribuzione di risultato
 
@@ -482,7 +480,7 @@ a) per i prefetti dal Ministro dell'interno;
 
 b) per i funzionari preposti agli uffici individuati ai sensi dell'articolo 10, comma 1, rispettivamente, dal capo dell'ufficio di diretta collaborazione del ministro, dal capo del dipartimento o dal prefetto titolare dell'ufficio territoriale del governo.
 
-#### Art. 22
+### Art. 22
 
 Copertura assicurativa del rischio di responsabilita' civile
 
@@ -510,7 +508,7 @@ In particolare:
 
 q) l'articolo 5 della legge n. 225 del 1992, citato nell'articolo 22, comma 2, del decreto legislativo 19 maggio 2000, n. 139, deve intendersi riferito agli articoli 25 e 26 del presente decreto".
 
-#### Art. 23
+### Art. 23
 
 Verifica dei risultati
 
@@ -532,7 +530,7 @@ Si osservano le disposizioni dell'articolo 12.
 
 > Negli altri casi hanno diritto all'indennita' per una sola volta in luogo di pensione nella misura prevista dalle vigenti disposizioni, purche' abbiano prestato almeno un anno intero di uguale servizio".
 
-#### Art. 24
+### Art. 24
 
 Collocamento a disposizione
 
@@ -546,7 +544,7 @@ Collocamento a disposizione
 
 > \- Per il testo dell'art. 237 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, vedasi nelle note all'art. 2.
 
-#### Art. 25
+### Art. 25
 
 Comando e collocamento fuori ruolo
 
@@ -624,7 +622,7 @@ Ai medesimi fini, il servizio prestato negli uffici di diretta collaborazione co
 
 ## Capo II - PROCEDIMENTO NEGOZIALE
 
-#### Art. 26
+### Art. 26
 
 Ambito di applicazione
 
@@ -636,13 +634,13 @@ Ambito di applicazione
 
 4\. Nei casi in cui le disposizioni generali sul pubblico impiego rinviano per il personale del comparto dei ministeri alla contrattazione collettiva e si verte in materie diverse da quelle indicate nell'articolo 28 e non disciplinate per il personale della carriera prefettizia da particolari disposizioni di legge, per lo stesso personale si provvede, sentite le organizzazioni sindacali rappresentative, con decreto del Presidente della Repubblica, su proposta del Ministro dell'interno, di concerto con il Ministro per la funzione pubblica, adottato ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400.
 
-#### Art. 27
+### Art. 27
 
 Delegazioni negoziali
 
 1\. Il procedimento negoziale intercorre tra una delegazione di parte pubblica composta dal Ministro per la funzione pubblica, che la presiede, e dai Ministri dell'interno e del tesoro, del bilancio e della progammazione economica, o dai sottosegretari di Stato rispettivamente delegati, ed una delegazione delle organizzazioni sindacali rappresentative del personale della carriera prefettizia individuate con decreto del Ministro per la funzione pubblica secondo i criteri generali in materia di rappresentativita' sindacale stabiliti per il pubblico impiego.
 
-#### Art. 28
+### Art. 28
 
 Materie di negoziazione
 
@@ -666,7 +664,7 @@ h) l'individuazione di misure idonee a favorire la mobilita' di sede, aggiuntive
 
 2\. ((COMMA ABROGATO DAL D.LGS. 27 OTTOBRE 2009, N. 150)).
 
-#### Art. 29
+### Art. 29
 
 Procedura di negoziazione
 
@@ -686,7 +684,7 @@ Procedura di negoziazione
 
 > \- Per il testo dell'art. 17, comma 1, lettera d), della legge 23 agosto 1988, n. 400, vedasi nelle note all'art. 26.
 
-#### Art. 30
+### Art. 30
 
 Soluzione di questioni interpretative
 
@@ -704,7 +702,7 @@ Soluzione di questioni interpretative
 
 > a) le decisioni in materia di atti normativi e l'adozione dei relativi atti di indirizzo interpretativo ed applicativo".
 
-#### Art. 31
+### Art. 31
 
 Istituti di partecipazione
 
@@ -716,7 +714,7 @@ Istituti di partecipazione
 
 > "10. Per il personale della carriera prefettizia di cui al comma 4 dell'art. 2 del decreto legislativo 3 febbraio 1993, n. 29, gli istituti della partecipazione sindacale di cui all'art. 10 del medesimo decreto sono disciplinati attraverso apposito regolamento emanato ai sensi dell'art. 17, legge 23 agosto 1988, n. 400".
 
-#### Art. 32
+### Art. 32
 
 Fondo di finanziamento
 
@@ -736,13 +734,13 @@ Fondo di finanziamento
 
 ## Capo III - Disposizioni transitorie
 
-#### Art. 33
+### Art. 33
 
 Regime transitorio per l'accesso alla carriera
 
 1\. Fino all'adozione del provvedimento di cui all'articolo 4, comma 2, l'accesso alla carriera prefettizia, con riguardo ai titoli di studio richiesti, alle prove di esame ed alle modalita' di espletamento del concorso, resta disciplinato dalle disposizioni vigenti alla data di entrata in vigore del presente decreto.
 
-#### Art. 34
+### Art. 34
 
 Inquadramenti nelle qualifiche
 
@@ -780,13 +778,13 @@ c) i viceprefetti ispettori aggiunti, i direttori di sezione, i consiglieri di p
 
 > \- Per il testo dell'art. 16 del decreto legislativo 30 dicembre 1999, n. 503, vedasi nelle note all'art. 3.
 
-#### Art. 35
+### Art. 35
 
 Ricognizione dei posti di funzione
 
 1\. Entro trenta giorni dalla adozione del provvedimento di cui all'articolo 10, comma 1, l'amministrazione dell'interno procede alla ricognizione dei posti risultanti eventualmente vacanti rispetto alle previsioni del medesimo provvedimento. Il conferimento dei relativi incarichi e' disposto nei tre mesi successivi tenendo conto, compatibilmente con le esigenze d'ufficio, delle disponibilita' manifestate dagli interessati.
 
-#### Art. 36
+### Art. 36
 
 Disposizioni transitorie in materia di valutazione comparativa e di progressione in carriera
 
@@ -814,7 +812,7 @@ AGGIORNAMENTO (10)
 
 Il D.L. 29 dicembre 2010, n. 225, convertito con modificazioni dalla L. 26 febbraio 2011, n. 10, ha disposto (con l'art. 1, comma 1), in relazione all'art. 36, comma 5, secondo periodo, che "E' fissato al 31 marzo 2011 il termine di scadenza dei termini e dei regimi giuridici indicati nella tabella 1 allegata con scadenza in data anteriore al 15 marzo 2011".
 
-#### Art. 37
+### Art. 37
 
 Copertura dell'incremento della dotazione organica dei viceprefetti
 
@@ -824,7 +822,7 @@ Copertura dell'incremento della dotazione organica dei viceprefetti
 
 > \- Per l'argomento del decreto legislativo 30 luglio 1999, n. 303, vedasi nelle note all'art. 1.
 
-#### Art. 38
+### Art. 38
 
 Soppressione delle posizioni soprannumerarie
 
@@ -850,7 +848,7 @@ Soppressione delle posizioni soprannumerarie
 
 > "Art. 15. All'inquadramento previsto dall'art. 22, comma 2, del decreto del Presidente della Repubblica 17 gennaio 1990, n. 44, si provvede in soprannumero, con le modalita' previste dal primo e secondo comma dell'art. 8 del decreto del Presidente della Repubblica 24 aprile 1982, n. 339 e dall'articolo 2 del decreto del Presidente della Repubblica 24 luglio 1981, n. 551, con compensazione delle posizioni soprannumerarie mediante indisponibilita' di un corrispondente numero di posti nella qualifica iniziale".
 
-#### Art. 39
+### Art. 39
 
 Prima applicazione del procedimento negoziale
 
@@ -868,7 +866,7 @@ Prima applicazione del procedimento negoziale
 
 > 3\. Con il decreto del Presidente della Repubblica, di cui all'art. 10, comma 1, lettera a) si provvede all'abrogazione delle disposizioni incompatibili".
 
-#### Art. 40
+### Art. 40
 
 Abrogazioni e disapplicazioni
 
@@ -906,7 +904,7 @@ Visto, il Guardasigilli: Fassino
 
 ## Capo III - Disposizioni transitorie
 
-#### Tabella A
+### Tabella A
 
 Tabella A
 
@@ -944,7 +942,7 @@ g) direzione degli uffici di diretta collaborazione con il Ministro, dei diparti
 
 > \- Per l'argomento dell'art. 17, comma 4-bis, della legge 23 agosto 1988, n. 400, vedasi alle note dell'art. 1.
 
-#### Tabella B
+### Tabella B
 
 ((TABELLA B))
 

@@ -56,7 +56,7 @@ la seguente legge:
 
 2\. La regolamentazione e la gestione della predetta Cassa di riposo sono devolute all'istituto.
 
-## TITOLO I - I SOGGETTI
+### TITOLO I - I SOGGETTI
 
 ##### Art. 4 - Iscrizione dei lavoratori marittimi alle assicurazioni generali obbligatorie gestite dall'istituto
 
@@ -124,7 +124,7 @@ f) ai soggetti che esplicano a bordo attivita' autonoma senza essere alle dipend
 
 (( f)-bis ai marittimi imbarcati su natanti esercenti attivita' di trasporto merci esclusivamente nell'ambito della laguna di Venezia e regolarmente iscritti presso l'ispettorato compartimentale della motorizzazione civile qualunque ne sia il tonnellaggio o la potenza dell'apparato motore; gli stessi marittimi permangono nelle competenti gestioni dell'Istituto nazionale della previdenza sociale)).
 
-## TITOLO II - LE CONTRIBUZIONI
+### TITOLO II - LE CONTRIBUZIONI
 
 ##### Art. 7 - Obbligo contributivo
 
@@ -226,7 +226,7 @@ b) i servizi effettuati dal 9 maggio 1945 al 30 settembre 1957 su navi da guerra
 
 3\. Le disposizioni di cui al presente articolo trovano applicazione soltanto nei confronti dei lavoratori marittimi gia' iscritti alla gestione marittimi della soppressa Cassa, ivi compresi quelli titolari di pensione a carico dell'istituto che possano far valere almeno un periodo di iscrizione alla predetta gestione successivo al 30 novembre 1979.
 
-## TITOLO III - LA POSIZIONE ASSICURATIVA
+### TITOLO III - LA POSIZIONE ASSICURATIVA
 
 ##### Art. 24 - Costituzione della posizione assicurativa nell'assicurazione generale obbligatoria per i periodi successivi al 31 dicembre 1979
 
@@ -286,7 +286,7 @@ soppressa Cassa per i periodi compresi tra il 1 settembre 1967 ed il 31 dicembre
 
 La facolta' di cui all'articolo 79 della legge 27 luglio 1967, n. 658, nel testo modificato dall'articolo 26 della legge 22 febbraio 1973, n. 27, puo' essere esercitata entro il quinquennio successivo alla data di entrata in vigore della presente legge. In tal caso non trovano applicazione le disposizioni di cui ai precedenti articoli 26 e 27.
 
-## TITOLO IV - LE PRESTAZIONI
+### TITOLO IV - LE PRESTAZIONI
 
 ##### Art. 29 - Diritto alle prestazioni
 
@@ -370,11 +370,9 @@ c) libretti di navigazione.
 
 2\. Alle domande di pensione privilegiata di cui al precedente articolo 34 deve essere altresi' allegata una copia, autenticata dall'Autorita' marittima, del processo verbale delle circostanze che abbiano prodotto e accompagnato l'insorgere o il verificarsi dell'evento protetto.
 
-## TITOLO V - NORME RELATIVE A PARTICOLARI CATEGORIE DI LAVORATORI MARITTIMI
+### TITOLO V - NORME RELATIVE A PARTICOLARI CATEGORIE DI LAVORATORI MARITTIMI
 
-### CAPO I.
-
-#### PERSONALE DI RUOLO DELLE NAVI-TRAGHETTO DIPENDENTE DALL'AZIENDA - AUTONOMA DELLE FERROVIE DELLO STATO
+#### CAPO I. - PERSONALE DI RUOLO DELLE NAVI-TRAGHETTO DIPENDENTE DALL'AZIENDA AUTONOMA DELLE FERROVIE DELLO STATO
 
 ##### ART. 38 - Iscrizione alle assicurazioni generali obbligatorie
 
@@ -478,9 +476,7 @@ servizio senza diritto a pensione a carico del Fondo pensioni delle ferrovie del
 
 8\. Le disposizioni di cui ai commi precedenti non si applicano nei confronti dei dipendenti che abbiano liquidato o liquideranno il trattamento di quiescenza a carico del Fondo pensioni per il personale delle ferrovie dello Stato con decorrenza anteriore al 2 dicembre 1979 e nei confronti dei superstiti del personale deceduto in attivita' di servizio prima del 1 dicembre 1979.
 
-## CAPO II. - LAVORATORI MARITTIMI ITALIANI IMBARCATI SU NAVI STRANIERE E PILOTI
-
-### ITALIANI CHE EFFETTUANO SERVIZI IN ACQUE STRANIERE
+#### CAPO II. - LAVORATORI MARITTIMI ITALIANI IMBARCATI SU NAVI STRANIERE E PILOTI ITALIANI CHE EFFETTUANO SERVIZI IN ACQUE STRANIERE
 
 ##### Art. 47 - Iscrizione preventiva
 
@@ -568,7 +564,7 @@ I contributi versati all'istituto ai sensi del presente capo, per i periodi di n
 
 Il consiglio di amministrazione dell'istituto stabilira' le modalita' ed i termini per la presentazione delle domande, la riscossione dei contributi, la corresponsione degli interessi e la relativa misura, la riduzione della copertura assicurativa nei casi di tardivo o parziale pagamento nonche' per la sospensione della tutela assicurativa nei casi di ripetute o protratte inadempienze alle condizioni di assicurazione.
 
-## TITOLO VI - DISPOSIZIONI TRANSITORIE E FINALI
+### TITOLO VI - DISPOSIZIONI TRANSITORIE E FINALI
 
 ##### Art. 57
 

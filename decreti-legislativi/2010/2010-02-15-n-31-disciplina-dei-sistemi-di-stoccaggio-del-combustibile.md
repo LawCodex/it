@@ -80,7 +80,7 @@ il seguente decreto legislativo:
 
 ## TITOLO I - (Disposizioni generali)
 
-##### Art. 1
+### Art. 1
 
 (( (Oggetto).
 
@@ -92,7 +92,7 @@ b) le procedure autorizzative per la costruzione e l'esercizio del Deposito nazi
 
 c) i benefici economici relativi alle attivita' di esercizio del Deposito nazionale, da corrispondere in favore delle persone residenti, delle imprese operanti nel territorio circostante il sito e degli enti locali interessati.))
 
-##### Articolo 2 - Definizioni
+### Articolo 2 - Definizioni
 
 1\. Fatte salve le definizioni di cui alla legge 31 dicembre 1962, n. 1860, e al decreto legislativo 17 marzo 1995, n. 230, ai fini del presente decreto si definisce:
 
@@ -114,103 +114,99 @@ f-ter) periodo di controllo istituzionale: periodo di tempo in cui, dopo la chiu
 
 Tale periodo e' funzione del carico radiologico, espresso sia in termini di concentrazione di attivita' che di tempi di dimezzamento dei radionuclidi principali presenti nel deposito. Per gli impianti di smaltimento superficiali di rifiuti radioattivi di bassa e media attivita', tale periodo varia generalmente da 50 anni ad alcune centinaia di anni.))
 
-##### Art. 3
+### Art. 3
 
 ((ARTICOLO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 45))
 
-## TITOLO II - (Procedimento unico per la localizzazione, la costruzione e
+## TITOLO II - (Procedimento unico per la localizzazione, la costruzione e l'esercizio degli impianti nucleari; disposizioni sui benefici economici per le persone residenti, gli enti locali e le imprese; disposizioni sulla ((decommissioning)) degli impianti)
 
-### l'esercizio degli impianti nucleari; disposizioni sui benefici - economici per le persone residenti, gli enti locali e le imprese;
-
-#### disposizioni sulla ((decommissioning)) degli impianti)
-
-##### Art. 4
+### Art. 4
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
-##### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
-##### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
-##### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
-##### Art. 8
+### Art. 8
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
-##### Art. 9
+### Art. 9
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
-##### Art. 10
+### Art. 10
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
-##### Art. 11
+### Art. 11
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
-##### Art. 12
+### Art. 12
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
-##### Art. 13
+### Art. 13
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
-##### Art. 14
+### Art. 14
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
-##### Art. 15
+### Art. 15
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
-##### Art. 16
+### Art. 16
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
-##### Art. 17
+### Art. 17
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
-##### Art. 18
+### Art. 18
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
-##### Art. 19
+### Art. 19
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
-##### Art. 20
+### Art. 20
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
-##### Art. 21
+### Art. 21
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
-##### Art. 22
+### Art. 22
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
-##### Art. 23
+### Art. 23
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
-##### Art. 24
+### Art. 24
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
 ## TITOLO III - (Procedure per la localizzazione, costruzione ed esercizio del Deposito nazionale destinato allo smaltimento a titolo definitivo dei rifiuti radioattivi, del Parco Tecnologico ((e dei relativi benefici economici)) )
 
-##### Articolo 25 - Deposito nazionale e Parco tecnologico
+### Articolo 25 - Deposito nazionale e Parco tecnologico
 
 1\. Sono soggetti alle disposizioni del presente Titolo la localizzazione, la costruzione e l'esercizio del Deposito nazionale di cui all'articolo 2, lettera i), nell'ambito del Parco Tecnologico di cui al presente articolo, ferme restando le altre disposizioni normative e prescrizioni tecniche vigenti in materia.
 
@@ -222,7 +218,7 @@ Tale periodo e' funzione del carico radiologico, espresso sia in termini di conc
 
 3-ter. L'esercente del Parco Tecnologico, che puo' avvalersi dell'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) e di altri enti di ricerca, presenta al Ministero dello sviluppo economico e al Ministero dell'ambiente e della tutela del territorio e del mare, ai fini dell'approvazione, un programma per attivita' di ricerca e sviluppo nel campo della gestione del combustibile esaurito e dei rifiuti radioattivi, in linea con le esigenze del Programma nazionale di cui all'articolo 11 della direttiva 2011/70/Euratom. Il Ministero dello sviluppo economico e il Ministero dell'ambiente e della tutela del territorio e del mare verificano i risultati conseguiti nonche' la corrispondenza degli stessi agli obiettivi prefissati nel Programma nazionale.
 
-##### Articolo 26 - Sogin S.p.A.
+### Articolo 26 - Sogin S.p.A.
 
 1\. La Sogin S.p.A. e' il soggetto responsabile degli impianti a fine vita, del mantenimento in sicurezza degli stessi, nonche' della realizzazione e dell'esercizio del Deposito nazionale e del Parco Tecnologico di cui all'articolo 25, comprendente anche il trattamento e lo smaltimento dei rifiuti radioattivi. A tal fine:
 
@@ -244,7 +240,7 @@ e-ter) predispone, entro trenta giorni dalla data di entrata in vigore della pre
 
 2\. Lo svolgimento delle attivita' di cui alle lettere c) ed e) del comma 1 e' sottoposto al controllo ed alla vigilanza dell'Agenzia e, limitatamente a quelle di cui alla lettera d), anche al controllo ed alla vigilanza dell'Autorita' per l'energia elettrica ed il gas di cui alla legge 14 novembre 1995, n. 481.
 
-##### Articolo 27 - Autorizzazione unica per la costruzione e l'esercizio del Parco Tecnologico
+### Articolo 27 - Autorizzazione unica per la costruzione e l'esercizio del Parco Tecnologico
 
 1\. La Sogin S.p.A., tenendo conto dei criteri indicati dall'AIEA e dall'Agenzia, definisce una proposta di Carta nazionale delle aree potenzialmente idonee alla localizzazione del Parco Tecnologico entro sette mesi dalla definizione dei medesimi criteri, proponendone contestualmente un ordine di idoneita' sulla base di caratteristiche tecniche e socio-ambientali delle suddette aree, nonche' un progetto preliminare per la realizzazione del Parco stesso.
 
@@ -332,7 +328,7 @@ e) le prescrizioni e gli obblighi di informativa posti a carico della Sogin S.p.
 
 17-bis. L'autorizzazione unica vale quale dichiarazione di pubblica utilita', indifferibilita' e urgenza delle opere e, ove occorra, quale dichiarazione di inamovibilita' e apposizione del vincolo preordinato all'esproprio dei beni in essa compresi. L'autorizzazione unica costituisce variante agli strumenti urbanistici e sostituisce ogni provvedimento amministrativo, autorizzazione, concessione, licenza, nulla osta, atto di assenso e atto amministrativo, comunque denominati, previsti dalle norme vigenti, costituendo titolo a costruire ed esercire l'impianto in conformita' al progetto approvato.
 
-##### Articolo 28 - Istanza per il rilascio dell'autorizzazione unica e attivita' istruttoria
+### Articolo 28 - Istanza per il rilascio dell'autorizzazione unica e attivita' istruttoria
 
 1\. L'istanza per il rilascio dell'autorizzazione unica per la costruzione e l'esercizio del Parco Tecnologico e delle opere connesse deve contenere la seguente documentazione:
 
@@ -370,7 +366,7 @@ d) promuove le notifiche previste dal Trattato Euratom, ai fini dell'acquisizion
 
 3\. All'esito dell'istruttoria, l'Agenzia formula il proprio parere vincolante al Ministro dello sviluppo economico ai fini del rilascio dell'autorizzazione unica ai sensi dell'articolo 27.
 
-##### Articolo 28-bis
+### Articolo 28-bis
 
 (( (Autorizzazione per la chiusura dell'impianto di smaltimento di rifiuti radioattivi). ))
 
@@ -384,11 +380,11 @@ Detta autorizzazione e' rilasciata, ove necessario, per singole fasi intermedie 
 
 4\. Il Ministero dello sviluppo economico, di concerto con il Ministero dell'ambiente e della tutela del territorio e del mare, sentite le amministrazioni interessate e l'autorita' di regolamentazione competente, emette, con proprio decreto, le eventuali prescrizioni connesse con il periodo di controllo istituzionale.))
 
-##### Art. 29
+### Art. 29
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
-##### Articolo 30 - Benefici economici
+### Articolo 30 - Benefici economici
 
 ((1. Al fine di massimizzare le ricadute socioeconomiche, occupazionali e culturali conseguenti alla realizzazione del Parco Tecnologico, e' riconosciuto al territorio circostante il relativo sito un contributo di natura economica. Il contributo di cui al presente comma e' destinato per il 10 per cento alla provincia o alle province nel cui territorio e' ubicato il sito, per il 55 per cento al comune o ai comuni nel cui territorio e' ubicato il sito e per il 35 per cento ai comuni limitrofi, intesi come quelli il cui territorio ricada in tutto o in parte all'interno di un'area compresa nei 25 chilometri dal centro dell'edificio Deposito.))
 
@@ -402,25 +398,25 @@ Detta autorizzazione e' rilasciata, ove necessario, per singole fasi intermedie 
 
 ## TITOLO IV - (Campagna di informazione)
 
-##### Art. 31
+### Art. 31
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
-##### Art. 32
+### Art. 32
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
 ## TITOLO V - (Norme finali)
 
-##### Art. 33
+### Art. 33
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
-##### Art. 34
+### Art. 34
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
-##### Art. 34-bis
+### Art. 34-bis
 
 Disposizioni finali
 
@@ -434,7 +430,7 @@ Disposizioni finali
 
 5\. Ai fini della tutela delle informazioni, i dati e le informazioni oggetto del presente decreto recanti una classifica di segretezza sono gestiti in conformita' alle disposizioni che regolano la materia.
 
-##### Art. 35
+### Art. 35
 
 (( (Abrogazioni).
 

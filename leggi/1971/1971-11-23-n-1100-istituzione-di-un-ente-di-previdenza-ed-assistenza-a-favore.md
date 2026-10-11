@@ -28,11 +28,9 @@ la seguente legge:
 
 ## TITOLO I - ISTITUZIONE, ISCRITTI, SCOPO E ORDINAMENTO
 
-### CAPO I
+### CAPO I - ISTITUZIONE, ISCRITTI E SCOPO
 
-#### ISTITUZIONE, ISCRITTI E SCOPO
-
-##### Art. 1 - Istituzione
+#### Art. 1 - Istituzione
 
 E' istituito l'"Ente nazionale di previdenza e assistenza per i consulenti del lavoro".
 
@@ -40,13 +38,13 @@ L'ente ha personalita' giuridica di diritto pubblico, durata illimitata, sede in
 
 Sono iscritti all'ente tutti i consulenti del lavoro.
 
-##### Art. 2 - Scopo
+#### Art. 2 - Scopo
 
 L'ente ha lo scopo di attuare e gestire trattamenti di previdenza e di assistenza in favore degli iscritti e di loro familiari.
 
-## CAPO II - ORDINAMENTO
+### CAPO II - ORDINAMENTO
 
-##### Art. 3 - Organi
+#### Art. 3 - Organi
 
 Sono organi dell'ente:
 
@@ -58,23 +56,23 @@ Sono organi dell'ente:
 
 4\) il collegio dei sindaci.
 
-##### Art. 4 - Presidente
+#### Art. 4 - Presidente
 
 Il presidente e' eletto dal consiglio di amministrazione fra i suoi componenti.
 
 Il consiglio di amministrazione elegge anche un vice presidente, che sostituisce il presidente nel caso di assenza o di impedimento.
 
-##### Art. 5 - Attribuzioni del presidente
+#### Art. 5 - Attribuzioni del presidente
 
 Il presidente rappresenta l'ente. Convoca e presiede il consiglio di amministrazione; convoca altresi', su mandato del consiglio di amministrazione, l'assemblea dei delegati e la presiede. Esercita le attribuzioni a lui conferite dalla presente legge ed adotta in casi di urgenza i provvedimenti necessari, sottoponendoli alla ratifica del consiglio di amministrazione nella prima seduta successiva.
 
-##### Art. 6 - Assemblea dei delegati
+#### Art. 6 - Assemblea dei delegati
 
 L'assemblea dei delegati e' costituita dai rappresentanti degli iscritti all'ente eletti, nel modo indicato nei successivi articoli 8 e 9, nell'ambito di ciascuna provincia. Nelle province in cui gli iscritti non superano il numero di duecento e' eletto un solo delegato; nelle province con un numero di iscritti superiore a duecento si elegge un altro delegato per ogni duecento iscritti successivi o frazione di almeno cento.
 
 I delegati dimissionari, deceduti od optanti per altre cariche dell'ente sono sostituiti entro sessanta giorni con le stesse modalita' previste dagli articoli successivi per l'elezione dell'assemblea.
 
-##### Art. 7 - Funzioni dell'assemblea dei delegati
+#### Art. 7 - Funzioni dell'assemblea dei delegati
 
 L'assemblea dei delegati ha le seguenti funzioni:
 
@@ -92,11 +90,11 @@ f) adempie alle altre funzioni assegnatele dalle leggi e dai regolamenti.
 
 Le deliberazioni indicate nei precedenti punti b) ed e) sono sottoposte all'approvazione del Ministero del lavoro e della previdenza sociale.
 
-##### Art. 8 - Elezione dell'assemblea dei delegati
+#### Art. 8 - Elezione dell'assemblea dei delegati
 
 Il presidente dell'ente, previa deliberazione del consiglio di amministrazione, fissa, almeno quaranta giorni prima della data di scadenza dell'assemblea dei delegati, la data delle elezioni, che dovranno tenersi entro sessanta giorni dalla predetta scadenza, e ne da' comunicazione ai presidenti dei consigli provinciali dell'albo dei consulenti del lavoro.
 
-##### Art. 9 - Eleggibilita' e procedimento elettorale
+#### Art. 9 - Eleggibilita' e procedimento elettorale
 
 Sono eleggibili all'assemblea dei delegati coloro che al 10 gennaio precedente la data delle elezioni sono iscritti nell'albo provinciale di residenza da almeno due anni e non beneficiano di prestazioni a carico della gestione invalidita', vecchiaia e superstiti dell'ente.
 
@@ -108,7 +106,7 @@ Il presidente dell'ente, assistito dal collegio dei sindaci, proclama eletti i d
 
 I risultati delle elezioni sono comunicati dal presidente dell'ente al Ministero del lavoro e della previdenza sociale.
 
-##### Art. 10 - Convocazione e deliberazioni dell'assemblea dei delegati
+#### Art. 10 - Convocazione e deliberazioni dell'assemblea dei delegati
 
 La prima riunione dell'assemblea dei delegati, che procede all'elezione delle cariche interne, deve essere convocata entro un mese dalla data delle elezioni.
 
@@ -122,7 +120,7 @@ Sono valide le deliberazioni prese a maggioranza assoluta dei voti dei delegati 
 
 Le riunioni dell'assemblea in prima convocazione non sono valide se non e' presente la maggioranza assoluta dei delegati.
 
-##### Art. 11 - Composizione e convocazione del consiglio di amministrazione
+#### Art. 11 - Composizione e convocazione del consiglio di amministrazione
 
 Il consiglio di amministrazione e' composto di nove membri eletti a scrutinio segreto dall'assemblea dei delegati tra gli iscritti all'ente con almeno due anni di anzianita' di iscrizione all'albo.
 
@@ -144,7 +142,7 @@ I componenti del consiglio di amministrazione decaduti, dimissionari o deceduti 
 
 Qualora il numero dei componenti in carica sia ridotto a meno di cinque, si procede entro trenta giorni a nuova elezione di tutti i componenti del consiglio di amministrazione.
 
-##### Art. 12 - Attribuzioni del consiglio di amministrazione
+#### Art. 12 - Attribuzioni del consiglio di amministrazione
 
 Il consiglio di amministrazione:
 
@@ -164,7 +162,7 @@ g) esercita le altre attribuzioni ad esso demandate da leggi e regolamenti.
 
 Il presidente del consiglio di amministrazione riferisce, in apertura di ogni riunione dell'assemblea dei delegati, sull'attivita' svolta dal consiglio medesimo.
 
-##### Art. 13 - Ricorso amministrativo
+#### Art. 13 - Ricorso amministrativo
 
 Contro i provvedimenti dell'ente, gli iscritti e i loro aventi causa possono presentare ricorso al consiglio di amministrazione entro trenta giorni dalla comunicazione.
 
@@ -172,7 +170,7 @@ La conseguente decisione amministrativa e' pronunciata dal consiglio di amminist
 
 L'espletamento del ricorso amministrativo e' condizione per adire le vie giurisdizionali. Il ricorso ha effetto sospensivo dei termini di prescrizione.
 
-##### Art. 14 - Collegio dei sindaci
+#### Art. 14 - Collegio dei sindaci
 
 Il collegio dei sindaci e' composto:
 
@@ -184,33 +182,31 @@ Per ciascun sindaco effettivo e' nominato un supplente.
 
 I sindaci esercitano le proprie funzioni secondo le norme degli articoli 2403 e seguenti del codice civile in quanto applicabili.
 
-##### Art. 15 - Durata delle cariche
+#### Art. 15 - Durata delle cariche
 
 Il presidente, il vice presidente e i componenti della assemblea dei delegati, del consiglio di amministrazione e del collegio dei sindaci durano in carica quattro anni. Essi possono essere rieletti successivamente una sola volta, fatta eccezione per i delegati che sono sempre rieleggibili.
 
-## TITOLO II - TRATTAMENTI PREVIDENZIALI
+## TITOLO II - TRATTAMENTI PREVIDENZIALI E ASSISTENZIALI - CONTRIBUTI
 
-### E ASSISTENZIALI - CONTRIBUTI
+### CAPO I - TRATTAMENTO DI PREVIDENZA
 
-#### CAPO I - TRATTAMENTO DI PREVIDENZA
-
-##### Art. 16 - Trattamento di previdenza
+#### Art. 16 - Trattamento di previdenza
 
 Il trattamento di previdenza consiste in pensioni a favore degli iscritti, nei casi di vecchiaia e di invalidita' e a favore dei familiari superstiti in caso di decesso anche dopo il pensionamento.
 
 Le modalita' ed il contenuto delle prestazioni sono stabiliti dalla presente legge e dai regolamenti deliberati dall'assemblea dei delegati.
 
-##### Art. 17 - Pensione di vecchiaia
+#### Art. 17 - Pensione di vecchiaia
 
 La pensione di vecchiaia spetta all'iscritto che abbia compiuto il sessantacinquesimo anno di eta' e versato all'ente, per almeno venti anni, il contributo personale.
 
-##### Art. 18 - Pensione d'invalidita'
+#### Art. 18 - Pensione d'invalidita'
 
 La pensione d'invalidita' spetta all'iscritto che, per sopravvenuta malattia o infortunio, abbia perduto in modo permanente ed assoluto la capacita' all'esercizio della professione e sia in possesso del requisito di almeno cinque anni di iscrizione e di contribuzione.
 
 La pensione d'invalidita' non e' cumulabile con la pensione di vecchiaia.
 
-##### Art. 19 - Accertamento dell'invalidita
+#### Art. 19 - Accertamento dell'invalidita
 
 Lo stato d'invalidita' assoluta e permanente dell'iscritto e' accertato dall'ente.
 
@@ -224,7 +220,7 @@ Per un periodo di dodici anni dalla data di liquidazione delle pensioni di inval
 
 L'erogazione della pensione cessa con il cessare dell'inabilita' totale ed e' sospesa nei confronti del pensionato che rifiuti di sottoporsi agli accertamenti dell'ente.
 
-##### Art. 20 - Misura della pensione diretta
+#### Art. 20 - Misura della pensione diretta
 
 La misura della pensione di vecchiaia e della pensione di invalidita' e' di lire novecentosettantacinquemila annue.
 
@@ -238,7 +234,7 @@ La variazione di cui ai precedenti commi ha decorrenza dal primo giorno dell'ann
 
 Per finanziare gli oneri dell'adeguamento il consiglio di amministrazione, in relazione alla situazione della gestione invalidita', vecchiaia e superstiti dell'ente, puo' variare la misura del contributo personale a carico degli iscritti.
 
-##### Art. 21 - Pensione a favore dei superstiti
+#### Art. 21 - Pensione a favore dei superstiti
 
 Nel caso di decesso del pensionato o dell'iscritto, sempreche' per quest'ultimo sussistano al momento della morte i requisiti di iscrizione e di contribuzione richiesti per la pensione di invalidita' dal precedente articolo 18, spetta una pensione ai seguenti familiari:
 
@@ -288,7 +284,7 @@ AGGIORNAMENTO (3)
 
 La Corte Costituzionale, con sentenza 19-28 dicembre 2001, n. 447 (in G.U. 1a s.s. 02/01/2002, n. 1) ha dichiarato "l'illegittimita' costituzionale dell'art. 21, terzo comma, della legge 23 novembre 1971, n. 1100 (Istituzione di un Ente di previdenza ed assistenza a favore dei consulenti del lavoro), nella parte in cui dispone che la pensione di reversibilita' non spetta nel caso in cui il matrimonio sia avvenuto posteriormente alla data di inizio del pensionamento per vecchiaia dell'iscritto".
 
-##### Art. 22 - Liquidazione e pagamento delle pensioni
+#### Art. 22 - Liquidazione e pagamento delle pensioni
 
 La pensione e' richiesta all'ente con domanda scritta. La pensione di invalidita' decorre dal primo giorno del mese successivo a quello nel quale e' presentata la domanda.
 
@@ -302,15 +298,15 @@ La pensione annua e' pagata in tredici rate uguali:
 
 una al principio di ciascun mese e una in occasione delle festivita' natalizie.
 
-##### Art. 23 - Liquidazione in capitale
+#### Art. 23 - Liquidazione in capitale
 
 Il consulente del lavoro, che cessa di essere iscritto all'ente per cancellazione dall'albo professionale prima del conseguimento del diritto a pensione, ha facolta' di chiedere la liquidazione di un capitale pari all'importo, senza interessi, dei contributi personali annui da lui versati.
 
 In caso di morte dell'iscritto prima che abbia perfezionato il requisito di almeno cinque anni di iscrizione e di contribuzione, la predetta indennita' spetta ai familiari di superstiti indicati nel precedente articolo 21. Nel caso di concorso di piu' superstiti, la divisione della indennita' e' fatta per capi.
 
-## CAPO II - ASSISTENZA
+### CAPO II - ASSISTENZA
 
-##### Art. 24 - Assistenza sanitaria
+#### Art. 24 - Assistenza sanitaria
 
 L'ente presta l'assistenza sanitaria ai propri iscritti e familiari con gestione e contabilita' separate, a mezza di convenzioni con enti pubblici che gia' provvedono all'assistenza di malattia.
 
@@ -318,21 +314,21 @@ All'assemblea dei delegati compete l'approvazione delle predette convenzioni, pr
 
 In ogni caso devono essere garantite le cure ospedaliere, sia mediche che chirurgiche, nonche' gli accertamenti diagnostici e di laboratorio.
 
-##### Art. 25 - Prestazioni sanitarie
+#### Art. 25 - Prestazioni sanitarie
 
 L'iscrizione alla gestione prevista dal precedente articolo e' obbligatoria per i consulenti del lavoro e per i familiari a carico indicati nel primo e secondo comma del precedente articolo 21 che non sono assistiti da altra forma obbligatoria di assicurazione o assistenza di malattia.
 
 Le prestazioni spettano, nei casi di malattia od infortunio, quando l'iscritto e' in regola con il versamento dei contributi.
 
-##### Art. 26 - Assistenza varia
+#### Art. 26 - Assistenza varia
 
 Il consiglio di amministrazione puo' erogare provvidenze a favore degli iscritti, dei pensionati e dei loro familiari, che versino in condizioni di accertato bisogno determinate da circostanze e situazioni di particolare gravita', secondo norme approvate dall'assemblea dei delegati.
 
 Ai relativi oneri si provvede per ogni esercizio secondo uno stanziamento all'uopo costituito nel bilancio preventivo, che non puo' superare il quattro per cento del gettito dei contributi personali degli iscritti per la gestione invalidita', vecchiaia e superstiti.
 
-## CAPO III - CONTRIBUTI
+### CAPO III - CONTRIBUTI
 
-##### Art. 27 - Contributi personali
+#### Art. 27 - Contributi personali
 
 Il contributo personale obbligatorio a carico di ciascun iscritto per la gestione invalidita', vecchiaia e superstiti e di lire centoquattromila annue.
 
@@ -340,7 +336,7 @@ La misura del contributo personale predetto puo' essere variata con deliberazion
 
 Il contributo personale annuo indivisibile obbligatorio a carico di ciascun iscritto per la gestione malattia non puo' superare, per il primo biennio dall'inizio della gestione stessa, l'importo di lire quarantamila pro capite o lire ottantamila per nucleo familiare; ed e' stabilito o variato con deliberazione motivata dall'assemblea dei delegati.
 
-##### Art. 28 - Riduzione di contributi
+#### Art. 28 - Riduzione di contributi
 
 Per l'iscritto soggetto ad altra forma di previdenza obbligatoria nel periodo di iscrizione all'ente, il contributo personale stabilito per la gestione invalidita', vecchiaia e superstiti e' ridotto alla meta'.
 
@@ -350,25 +346,25 @@ La riduzione del contributo prevista nei commi precedenti comporta una corrispon
 
 Il titolare di pensione diretta a carico della gestione invalidita', vecchiaia e superstiti dell'ente, iscritto allo albo, e' tenuto a versare la meta' del contributo personale stabilito per la gestione medesima.
 
-##### Art. 29 - Riscossione dei contributi personali
+#### Art. 29 - Riscossione dei contributi personali
 
 La riscossione dei contributi personali a carico degli iscritti si effettua per mezzo di ruoli annuali compilati dall'ente, resi esecutivi dall'intendenza di finanza competente e trasmessi alle esattorie comunali. Le esattorie provvedono all'incasso in conformita' alle norme vigenti per la riscossione delle imposte dirette, con l'obbligo del non riscosso per riscosso.
 
-##### Art. 30
+#### Art. 30
 
 ((ARTICOLO ABROGATO DALLA L. 5 AGOSTO 1991, N. 249))
 
-##### Art. 31
+#### Art. 31
 
 ((ARTICOLO ABROGATO DALLA L. 5 AGOSTO 1991, N. 249))
 
 ## TITOLO III - GESTIONE FINANZIARIA
 
-##### Art. 32 - Entrate
+#### Art. 32 - Entrate
 
 L'ente eroga le prestazioni previdenziali e assistenziali e sostiene gli altri oneri derivanti dal suo funzionamento mediante le entrate costituite dai contributi personali, dal gettito delle marche, dalle rendite patrimoniali, nonche' da tutte le altre somme che a qualunque titolo legittimamente gli pervengono.
 
-##### Art. 33 - Esercizio finanziario
+#### Art. 33 - Esercizio finanziario
 
 L'esercizio finanziario dell'ente inizia il 1° gennaio e termina il 31 dicembre di ogni anno. Per ciascun esercizio il consiglio di amministrazione predispone il bilancio preventivo e il bilancio consuntivo e li presenta per l'approvazione all'assemblea dei delegati, che delibera entro il mese di novembre per il bilancio preventivo ed entro il mese di giugno per il bilancio consuntivo.
 
@@ -376,7 +372,7 @@ Il consiglio di amministrazione sottopone all'assemblea dei delegati le conclusi
 
 Copia dei bilanci preventivi e consuntivi, e' inviata al Ministero del lavoro e della previdenza sociale ed al consiglio nazionale e a quelli provinciali dell'albo dei consulenti del lavoro, entro quindici giorni dall'approvazione.
 
-##### Art. 34
+#### Art. 34
 
 (((Impieghi del patrimonio)
 
@@ -394,23 +390,23 @@ d) in mutui su beni immobili, garantiti da ipoteca di primo grado, da concedersi
 
 3\. Le delibere di cui al comma 2 debbono essere sottoposte all'approvazione del Ministero del lavoro e della previdenza sociale)).
 
-##### Art. 35 - Facilitazioni
+#### Art. 35 - Facilitazioni
 
 Sono estesi all'ente e alle prestazioni da esso corrisposte tutti i privilegi e le esenzioni fiscali, previsti per l'Istituto nazionale della previdenza sociale, o comunque in materia di assicurazioni sociali, e per le pubbliche istituzioni di beneficenza e assistenza.
 
 ## TITOLO IV - DISPOSIZIONI TRANSITORIE E FINALI
 
-##### Art. 36 - Decorrenze
+#### Art. 36 - Decorrenze
 
 Il contributo personale per la gestione invalidita', vecchiaia e superstiti e' dovuto dagli iscritti a partire dalla data di entrata in vigore della presente legge.
 
 Le relative prestazioni hanno inizio dopo un anno dalla predetta data.
 
-##### Art. 37 - Modifica dell'articolo 14 della legge 12 ottobre 1964, n. 1081
+#### Art. 37 - Modifica dell'articolo 14 della legge 12 ottobre 1964, n. 1081
 
 All'articolo 14 della legge 12 ottobre 1964, n. 1081, sono aggiunte, alla fine della lettera a), le seguenti parole: "nonche' all'Ente nazionale di previdenza e assistenza per i consulenti del lavoro".
 
-##### Art. 38 - Riscatto
+#### Art. 38 - Riscatto
 
 Coloro che alla data di entrata in vigore della presente legge sono iscritti agli albi provinciali dei consulenti del lavoro ed hanno compiuto 45 anni di eta', hanno facolta' di riscattare, entro cinque anni dalla predetta data, un numero di anni tale che sommato a quelli di contribuzione ordinaria raggiunga il minimo di contribuzione necessario per avere diritto alla pensione di vecchiaia. Per ogni anno di contribuzione ordinaria possono essere riconosciuti al massimo tre anni di riscatto.
 
@@ -422,7 +418,7 @@ E' consentito il pagamento rateale dei contributi di cui al precedente comma nel
 
 Le condizioni previste nel presente articolo per l'esercizio della facolta' di riscatto possono essere migliorate con deliberazioni dell'assemblea dei delegati, approvata con decreto del Ministro per il lavoro e la previdenza sociale.
 
-##### Art. 39 - Organi provvisori
+#### Art. 39 - Organi provvisori
 
 Per i primi diciotto mesi dall'entrata in vigore della presente legge, i poteri assegnati ai diversi organi dell'ente sono esercitati da una commissione di tre membri nominata, entro un mese dalla data di pubblicazione della presente legge, con decreto del Ministro per il lavoro e la previdenza sociale, su designazione del consiglio nazionale dell'albo dei consulenti del lavoro. Per tale designazione ciascun componente del consiglio nazionale vota non piu' di due nominativi.
 

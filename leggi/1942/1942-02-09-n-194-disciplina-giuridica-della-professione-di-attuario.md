@@ -32,7 +32,7 @@ Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commiss
 
 Noi abbiamo sanzionato e promulghiamo quanto segue:
 
-### Art. 1
+## Art. 1
 
 Titolo ed esercizio della professione di attuario.
 
@@ -42,7 +42,7 @@ Il titolo professionale di « attuario » spetta a coloro che abbiano superato l
 
 L'iscrizione nell'albo degli attuari e' compatibile con quella in altri albi professionali.
 
-### Art. 2
+## Art. 2
 
 Albo degli attuari.
 
@@ -50,7 +50,7 @@ L'accertamento dei requisiti per l'iscrizione, la tenuta dell'albo degli attuati
 
 Qualora i poteri del Direttorio siano affidati al segretario o ad un commissario, le attribuzioni predette sono esercitate da un comitato composto nei modi indicati dall'art. 3, ultimo comma della legge 25 aprile 1938-XVI, n. 897.
 
-### Art. 3
+## Art. 3
 
 Oggetto della professione.
 
@@ -74,7 +74,7 @@ g) le perizie, le consulenze tecniche e gli altri incarichi relativi all'oggetto
 
 La elencazione che precede non pregiudica quanto puo' formare oggetto dell'attivita' professionale di altre categorie.
 
-### Art. 4
+## Art. 4
 
 Requisiti per l'iscrizione nell'albo.
 
@@ -94,7 +94,7 @@ e) avere superato l'esame di Stato per l'abilitazione all'esercizio della profes
 
 ((Il decreto di riconoscimento della qualifica professionale ai sensi del Titolo III, del decreto legislativo 9 novembre 2007, n. 206, costituisce titolo per l'iscrizione nell'albo.))
 
-### Art. 5
+## Art. 5
 
 Iscrizione dei professori universitari.
 
@@ -108,19 +108,19 @@ La libera docenza e l'incarico debbono riguardare una delle materie suindicate.
 
 Ai professori e ai liberi docenti universitari iscritti nell'albo a norma del presente articolo spetta il titolo professionale di attuario.
 
-### Art. 6
+## Art. 6
 
 Iscrizione degli impiegati pubblici.
 
 Gli impiegati pubblici ai quali, secondo gli ordinamenti delle rispettive amministrazioni, sia consentito l'esercizio della professione, possono essere iscritti nell'albo. Essi sono soggetti alla disciplina stabilita dalla presente legge soltanto per cio' che concerne l'esercizio autonomo della professione.
 
-### Art. 7
+## Art. 7
 
 Iscrizione di cittadini italiani residenti all'estero.
 
 I cittadini italiani residenti all'estero possono essere iscritti nell'albo indipendentemente dal requisito di cui alla lettera f) dell'art. 4, se risulta che essi esercitano una funzione di consulenza e di tutela dei nostri connazionali che si trovano all'estero.
 
-### Art. 8
+## Art. 8
 
 Domanda d'iscrizione.
 
@@ -148,13 +148,13 @@ La condizione di reciprocita', richiesta dall'art. 4 lett. a), e' provata nei mo
 
 L'attivita' svolta all'estero da parte dei cittadini italiani a termini dell'art. 7 e' provata mediante attestazione delle Regie autorita' diplomatiche.
 
-### Art. 9
+## Art. 9
 
 Effetto dell'iscrizione.
 
 L'iscrizione nell'albo ha effetto nel Regno.
 
-### Art. 10
+## Art. 10
 
 Revisione degli albi.
 
@@ -162,13 +162,13 @@ Il Direttorio dell'associazione sindacale procede al principio di ogni anno alla
 
 E' iniziato il procedimento disciplinare se dalla revisione siano emersi fatti che ne possono formare oggetto.
 
-### Art. 11
+## Art. 11
 
 Pubblicazione e comunicazione degli albi.
 
 L'albo, pubblicato a cura del Direttorio dell'associazione sindacale, e' comunicato ai Ministri per la grazia e giustizia, per le corporazioni e per l'educazione nazionale; ai tribunali, alle corti d'appello e ai consigli provinciali delle corporazioni ai quali devono essere comunicate altresi' le singole deliberazioni di iscrizione e di cancellazione, nonche' di sospensione dall'esercizio professionale.
 
-### Art. 12
+## Art. 12
 
 Procedimento disciplinare.
 
@@ -180,7 +180,7 @@ Nel giorno fissato il Direttorio, sentito il relatore e l'incolpato, adotta le p
 
 Ove l'incolpato non si presenti o non faccia pervenire documenti a sua discolpa, ne' giustifichi un legittimo impedimento, si procede in sua assenza.
 
-### Art. 13
+## Art. 13
 
 Pene disciplinari.
 
@@ -200,7 +200,7 @@ a) che abbia comunque con la sua condotta compromesso la propria reputazione o l
 
 b) che abbia svolto una pubblica attivita' contraria agli interessi della Nazione.
 
-### Art. 14
+## Art. 14
 
 Sospensione cautelare.
 
@@ -210,7 +210,7 @@ Tale sospensione puo' essere disposta qualora sia stato emesso mandato o ordine 
 
 Se il Direttorio del sindacato non ritiene di pronunciare la sospensione dell'attuario ammonito o assegnato al confino di polizia o contro il quale sia stato emesso mandato o ordine di comparizione o di accompagnamento, deve informarne senza ritardo il pubblico ministero con rapporto motivato.
 
-### Art. 15
+## Art. 15
 
 Radiazione a seguito di condanne penali.
 
@@ -218,7 +218,7 @@ Alle condanne per delitto non colposo, per il quale la legge commina la pena del
 
 Consegue, del pari, la radiazione alla pronuncia dell'interdizione dai pubblici uffici di durata superiore a tre anni.
 
-### Art. 16
+## Art. 16
 
 Casi di cancellazione dall'albo.
 
@@ -230,7 +230,7 @@ b) d'ufficio o su richiesta del pubblico ministero, quando sia venuto a mancare 
 
 Non puo' essere disposta la cancellazione quando sia in corso un procedimento penale o disciplinare.
 
-### Art. 17
+## Art. 17
 
 Reiscrizione nell'albo.
 
@@ -238,7 +238,7 @@ L'iscritto che e' stato cancellato dall'albo puo' a sua richiesta esservi riamme
 
 Il professionista radiato dall'albo puo' essere reiscritto, purche' siano trascorsi almeno cinque anni dal provvedimento di radiazione e, se questa derivo' da condanna, sia intervenuta la riabilitazione.
 
-### Art. 18
+## Art. 18
 
 Impugnazione dei provvedimenti del Direttorio.
 
@@ -248,7 +248,7 @@ Contro le decisioni anzidette, entro trenta giorni dalla notificazione, e' dato 
 
 Il ricorso e' presentato alla segreteria della Commissione centrale e, quando non sia proposto dal pubblico ministero, deve essere accompagnato dalla ricevuta del versamento di lire cento eseguito presso una sezione di Regia tesoreria.
 
-### Art. 19
+## Art. 19
 
 Commissione centrale per gli attuari.
 
@@ -278,17 +278,17 @@ AGGIORNAMENTO (1)
 
 Il D.P.R. 8 luglio 2005, n. 169 ha disposto (con l'art. 10, comma 2, lettera e)) che al primo comma del presente articolo sono abrogate le parole da «, il quale e' composto» fino alla parola «categoria».
 
-### Art. 20
+## Art. 20
 
 ((ARTICOLO ABROGATO DAL D.LGS. 26 MARZO 2010, N. 59))
 
-### Art. 21
+## Art. 21
 
 Vigilanza sulla professione.
 
 La vigilanza sulla professione di attuarlo spetta al ((Ministro della giustizia)), il quale l'esercita d'intesa col Ministro per le corporazioni.
 
-### Art. 22
+## Art. 22
 
 Destinazione dei versamenti.
 
@@ -296,7 +296,7 @@ I versamenti effettuati nelle sezioni di Regia tesoreria, a norma degli articoli
 
 ## DISPOSIZIONI TRANSITORIE E FINALI
 
-### Art. 23
+## Art. 23
 
 Pratica professionale.
 
@@ -304,7 +304,7 @@ Sino a quando non saranno emanate le disposizioni sull'esame di stato, il requis
 
 Il periodo di pratica e' ridotto ad un anno per gli ex combattenti e per le categorie equiparate.
 
-### Art. 24
+## Art. 24
 
 Iscrizioni nell'albo.
 
@@ -322,7 +322,7 @@ L'aspirante puo' chiedere nella domanda di essere sottoposto ad una prova orale 
 
 A coloro che ottengono l'iscrizione nell'albo a norma del presente articolo e di quello precedente spetta il titolo professionale di attuario.
 
-### Art. 25
+## Art. 25
 
 Prima formazione dell'albo.
 
@@ -332,7 +332,7 @@ La Commissione centrale forma l'albo ed esercita, fino a quando non venga ricono
 
 A coloro che abbiano presentata regolarmente la domanda nel termine indicato nel primo comma e' riconosciuta la stessa anzianita' di iscrizione.
 
-### Art. 26
+## Art. 26
 
 Prima costituzione della Commissione centrale.
 
@@ -340,7 +340,7 @@ Per la prima costituzione della Commissione centrale per gli attuari, la designa
 
 I componenti della Commissione nominati a norma del comma precedente sono iscritti nell'albo professionale. Essi sono tenuti al pagamento della tassa di lire 108 da versarsi a norma dell'art. 8, n. 7.
 
-### Art. 27
+## Art. 27
 
 Norme complementari.
 

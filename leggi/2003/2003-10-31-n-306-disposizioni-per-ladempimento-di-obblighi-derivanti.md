@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## CAPO I - DISPOSIZIONI GENERALI SUI PROCEDIMENTI PER L'ADEMPIMENTO DEGLI
+## CAPO I - DISPOSIZIONI GENERALI SUI PROCEDIMENTI PER L'ADEMPIMENTO DEGLI OBBLIGHI COMUNITARI
 
-### OBBLIGHI COMUNITARI
-
-#### ART. 1 - Delega al Governo per l'attuazione di direttive comunitarie
+### ART. 1 - Delega al Governo per l'attuazione di direttive comunitarie
 
 1\. Il Governo e' delegato ad adottare, entro il termine di diciotto mesi dalla data di entrata in vigore della presente legge, i decreti legislativi recanti le norme occorrenti per dare attuazione alle direttive comprese negli elenchi di cui agli allegati A e B.
 
@@ -70,7 +68,7 @@ Qualora il termine previsto per il parere dei competenti organi parlamentari sca
 
 > Le Regioni e le Province autonome di Trento e di Bolzano, nelle materie di loro competenza, partecipano alle decisioni dirette alla formazione degli atti normativi comunitari e provvedono all'attuazione e all'esecuzione degli accordi internazionali e degli atti dell'Unione europea, nel rispetto delle norme di procedura stabilite da legge dello Stato, che disciplina le modalita' di esercizio del potere sostitutivo in caso di inadempienza».
 
-#### ART. 2 - Principi e criteri direttivi generali della delega legislativa
+### ART. 2 - Principi e criteri direttivi generali della delega legislativa
 
 1\. Salvi gli specifici principi e criteri direttivi stabiliti dalle disposizioni di cui al capo II ed in aggiunta a quelli contenuti nelle direttive da attuare, i decreti legislativi di cui all'articolo 1 sono informati ai seguenti principi e criteri direttivi generali:
 
@@ -108,7 +106,7 @@ g) quando si verifichino sovrapposizioni di competenze fra amministrazioni diver
 
 > 3\. Restano salvi i rapporti finanziari direttamente intrattenuti con le Comunita' europee dalle amministrazioni e dagli organismi di cui all'art. 2 del decreto del Presidente della Repubblica 16 aprile 1971, n. 321, ed alla legge 26 novembre 1975, n. 748».
 
-#### ART. 3
+### ART. 3
 
 (Delega al Governo per la disciplina sanzionatoria di violazioni
 
@@ -128,11 +126,11 @@ di disposizioni comunitarie).
 
 > \- Per l'art. 14 della legge 23 agosto 1988, n. 400, vedi le note all'art. 1.
 
-#### ART. 4 - Oneri relativi a prestazioni e controlli
+### ART. 4 - Oneri relativi a prestazioni e controlli
 
 1\. Gli oneri per prestazioni e controlli da eseguire da parte di uffici pubblici nell'attuazione delle normative comunitarie sono posti a carico dei soggetti interessati, ove cio' non risulti in contrasto con la disciplina comunitaria, secondo tariffe determinate sulla base del costo effettivo del servizio. Le suddette tariffe sono predeterminate e pubbliche.
 
-#### ART. 5
+### ART. 5
 
 (Delega al Governo per il riordino normativo nelle materie
 
@@ -146,11 +144,9 @@ interessate dalle direttive comunitarie).
 
 4\. Il presente articolo non si applica alla materia della sicurezza e igiene del lavoro.
 
-## CAPO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO, CRITERI SPECIFICI
+## CAPO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO, CRITERI SPECIFICI DI DELEGA LEGISLATIVA
 
-### DI DELEGA LEGISLATIVA
-
-#### ART. 6
+### ART. 6
 
 (Modifiche all'articolo 5 della legge 16 febbraio 1913, n. 89,
 
@@ -186,7 +182,7 @@ b) al numero 4°, le parole: "in una delle Universita' del Regno" sono sostituit
 
 > \- La legge 11 luglio 2002, n. 148, reca: «Ratifica ed esecuzione della Convenzione sul riconoscimento dei titoli di studio relativi all'insegnamento superiore nella Regione europea, fatta a Lisbona l'11 aprile 1997, e norme di adeguamento dell'ordinamento interno».
 
-#### ART. 7
+### ART. 7
 
 (Modifiche all'articolo 51 della legge 16 gennaio 2003, n. 3,
 
@@ -266,7 +262,7 @@ conformita' alla direttiva 2001/37/CE in materia di tabacco).
 
 > e) previsione di decreti ministeriali di natura non regolamentare per la definizione dei compiti delle unita' dirigenziali nell'ambito degli uffici dirigenziali generali.».
 
-#### ART. 8
+### ART. 8
 
 (Modifica all'allegato III del decreto legislativo 26 maggio 2000,
 
@@ -364,7 +360,7 @@ radiazioni ionizzanti connesse ad esposizioni mediche).
 
 > \- La direttiva 97/43/Euratom e' pubblicata nella Gazzetta Ufficiale della Comunita' europea 9 luglio 1997, n. L 180.
 
-#### ART. 9
+### ART. 9
 
 (Modifiche al decreto legislativo 19 novembre 1998, n. 432, recante attuazione delle direttive 93/118/CE e 96/43/CE che modificano
 
@@ -412,7 +408,7 @@ Detta rideterminazione viene effettuata tramite accordo tra il Governo, le regio
 
 > 3\. Il Ministro della sanita', con proprio decreto, puo' stabilire, informandone previamente la Commissione europea, che, quando i prodotti della pesca sono destinati ad una successiva preparazione o trasformazione sul territorio nazionale, venga riscosso un unico contributo cumulativo, in un'unica soluzione».
 
-#### ART. 10
+### ART. 10
 
 (Modifiche al regolamento di cui al decreto del Presidente della
 
@@ -518,7 +514,7 @@ b) stabilire che le spese derivanti dall'attuazione di quanto previsto alla lett
 
 > d) amministrazione generale indispensabile per le attivita' della Commissione, incluse quelle per l'approvvigionamento di strumenti e programmi informatici.».
 
-#### ART. 11
+### ART. 11
 
 (Modifica all'articolo 207 del decreto legislativo 30 aprile 1992,
 
@@ -546,7 +542,7 @@ del 19 marzo 2002, nella causa C-224/00).
 
 > 4-bis. Le disposizioni del presente articolo si applicano anche ai veicoli immatricolati in Italia che siano guidati da conducenti in possesso di patente di guida rilasciata da uno Stato non facente parte dell'Unione europea.».
 
-#### ART. 12
+### ART. 12
 
 (Delega al Governo per l'attuazione della direttiva 2002/58/CE
 
@@ -588,7 +584,7 @@ c) prevedere che i dati di cui agli articoli 5 e 6, all'articolo 8, paragrafi da
 
 > c) qualora il trattamento sia necessario ai fini dello svolgimento delle investigazioni difensive di cui alla legge 7 dicembre 2000, n. 397, comunque, per far valere o difendere in sede giudiziaria un diritto, di rango pari a quello dell'interessato quando i dati siano idonei a rivelare lo stato di salute e la vita sessuale, sempre che i dati siano trattati esclusivamente per tali finalita' e per il periodo strettamente necessario al loro perseguimento. Il Garante prescrive le misure e gli accorgimenti di cui al comma 2 e promuove la sottoscrizione di un apposito codice di deontologia e di buona condotta secondo le modalita' di cui all'art. 31, comma 1, lettera h). Resta fermo quanto previsto dall'art. 43, comma 2».
 
-#### ART. 13
+### ART. 13
 
 (Modifica all'articolo 6 del decreto legislativo 9 maggio 2001,
 
@@ -618,7 +614,7 @@ della loro conformita).
 
 > Il Ministero delle comunicazioni comunica al fabbricante o al suo mandatario stabilito nell'Unione europea o alla persona responsabile dell'immissione sul mercato dell'apparecchiatura eventuali divieti o limitazioni motivati e ne informa la Commissione europea».
 
-#### ART. 14
+### ART. 14
 
 (Delega al Governo per l'adeguamento della normativa nazionale
 
@@ -642,7 +638,7 @@ d) prevedere adeguati strumenti di informazione al pubblico in merito al rumore 
 
 > \- La legge 26 ottobre 1995, n. 447, reca: «Legge quadro sull'inquinamento acustico».
 
-#### ART. 15
+### ART. 15
 
 (Recepimento dell'articolo 2, paragrafo 3, della direttiva
 
@@ -674,7 +670,7 @@ In particolare:
 
 p) l'articolo 5 della legge n. 225 del 1992, citato nell'articolo 15, comma 1, della legge 31 ottobre 2003, n. 306, deve intendersi riferito all'articolo 25 del presente decreto".
 
-#### ART. 16
+### ART. 16
 
 (Modifica all'allegato I del decreto legislativo 4 agosto 1999,
 
@@ -690,7 +686,7 @@ dell'inquinamento).
 
 > «5.3. Impianti per l'eliminazione dei rifiuti non pericolosi quali definiti nell'allegato II A della direttiva n. 75/442/CEE ai punti D 8, D 9 con capacita' superiore a 50 tonnellate al giorno».
 
-#### ART. 17
+### ART. 17
 
 (Delega al Governo per l'attuazione della direttiva 2002/73/CE
 
@@ -740,7 +736,7 @@ e) prevedere misure adeguate per incoraggiare il dialogo fra le parti sociali al
 
 > \- La legge 10 aprile 1991, n. 125, reca: «Azioni positive per la realizzazione della parita' uomo-donna nel lavoro».
 
-#### ART. 18
+### ART. 18
 
 (Modifiche al decreto legislativo 2 febbraio 2001, n. 28,
 
@@ -846,7 +842,7 @@ sui sinistri marittimi).
 
 > \- La direttiva 1999/35/CE e' pubblicata nella G.U.C.E. 1° giugno 1999, n. L 138.
 
-#### ART. 19
+### ART. 19
 
 (Modifica all'articolo 28 della legge 26 febbraio 1987, n. 49,
 
@@ -888,7 +884,7 @@ con i Paesi in via di sviluppo).
 
 > i) si obblighino alla presentazione di una relazione annuale sullo stato di avanzamento dei programmi in corso.».
 
-#### ART. 20
+### ART. 20
 
 (Modifiche all'articolo 9 della legge 21 febbraio 1990, n. 36,
 
@@ -928,7 +924,7 @@ degli esplosivi e dei congegni assimilati).
 
 > tutti atti firmati a Parigi il 27 novembre 1990».
 
-#### ART. 21
+### ART. 21
 
 (Modifiche al decreto legislativo 1° dicembre 1997, n. 468,
 
@@ -980,7 +976,7 @@ con modificazioni, dalla legge 31 luglio 2002, n. 172).
 
 > \- La legge 31 luglio 2002, n. 172, reca: «Conversione in legge, con modificazioni, del decreto legge 11 giugno 2002, n. 108, recante disposizioni urgenti in materia di occupazione e previdenza».
 
-#### ART. 22
+### ART. 22
 
 (Delega al Governo per l'integrale attuazione della direttiva
 
@@ -1026,7 +1022,7 @@ c) adeguamento delle previsioni di cui agli articoli 216 e 217 del testo unico d
 
 > Nel caso di inadempimento il podesta' puo' provvedere di ufficio nei modi e termini stabiliti nel testo unico della legge comunale e provinciale.».
 
-#### Art. 23
+### Art. 23
 
 Modifiche all'articolo 1 della legge 21 dicembre 2001, n. 443
 
@@ -1054,7 +1050,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 24 dicembre 2003, n. 355, convertito con modificazioni dalla L. 27 febbraio 2004, n. 47, ha disposto (con l'art. 23-octies, comma 1) che il presente articolo 23, si applica ai lavori in corso alla data del 30 novembre 2003 a decorrere dal 31 dicembre 2004.
 
-#### ART. 24
+### ART. 24
 
 (Modifica al decreto legislativo 13 gennaio 1999, n. 18,
 
@@ -1072,7 +1068,7 @@ negli aeroporti comunitari).
 
 > 2\. Al riguardo il Ministero dei trasporti e della navigazione, anche su segnalazione dell'E.N.A.C., dispone, ove necessario, obblighi di servizio pubblico per gli aeroporti che servono regioni periferiche o in via di sviluppo, informandone la Commissione europea. Il Ministero dei trasporti e della navigazione, previa approvazione della Commissione europea, ove necessario, puo' estendere, anche su segnalazione dell'E.N.A.C., un obbligo di servizio pubblico ad un aeroporto ubicato in una regione insulare avente un volume di traffico non inferiore a 100.000 passeggeri all'anno, dandone notizia nel bando di gara.
 
-#### ART. 25
+### ART. 25
 
 (Opzioni previste dall'articolo 5 del regolamento (CE) n. 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002,
 
@@ -1158,11 +1154,9 @@ Visto, il Guardasigilli: Castelli
 
 > 4\. Gli atti emanati nell'esercizio dei poteri previsti dal presente articolo sono pubblicati nella Gazzetta Ufficiale della Repubblica italiana.».
 
-## CAPO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO, CRITERI SPECIFICI
+## CAPO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO, CRITERI SPECIFICI DI DELEGA LEGISLATIVA
 
-### DI DELEGA LEGISLATIVA
-
-#### Allegato A
+### Allegato A
 
 ALLEGATO A
 
@@ -1246,7 +1240,7 @@ ALLEGATO A
 
 > \- La direttiva 2003/61/CE e' pubblicata nella G.U.U.E. 3 luglio 2003, n. L 165.
 
-#### Allegato B
+### Allegato B
 
 ALLEGATO B
 

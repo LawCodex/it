@@ -56,7 +56,7 @@ Emana
 
 il seguente decreto legislativo:
 
-#### Art. 1
+##### Art. 1
 
 Disposizioni nazionali complementari
 
@@ -220,7 +220,7 @@ al codice doganale dell'Unione
 
 > 4\. La Conferenza unificata di cui al comma 1 e' convocata dal Presidente del Consiglio dei Ministri. Le sedute sono presiedute dal Presidente del Consiglio dei Ministri o, su sua delega, dal Ministro per gli affari regionali o, se tale incarico non e' conferito, dal Ministro dell'interno.»
 
-#### Art. 2
+##### Art. 2
 
 Disposizioni in materia di spedizionieri doganali
 
@@ -318,7 +318,7 @@ c) l'articolo 3 e' sostituito dal seguente:
 
 3\. I CAD sono abilitati a svolgere attivita' quali enti per le ispezioni di cui al regolamento (CE) n. 3287/94 del Consiglio, del 22 dicembre 1994.».
 
-#### Art. 3
+##### Art. 3
 
 Modificazioni al decreto legislativo 26 ottobre 1995, n. 504 e al decreto legislativo 12 gennaio 2016, n. 6
 
@@ -910,7 +910,7 @@ f) la documentazione di accompagnamento e le modalita' per la circolazione dei p
 
 > 4\. Sono assimilati al tabacco da fiuto ed al tabacco da masticare i prodotti costituiti parzialmente da sostanze diverse dal tabacco, ma che rispondono agli altri criteri di cui all'articolo 39-bis, comma 2, rispettivamente lettere d) ed e).»
 
-#### Art. 4
+##### Art. 4
 
 Modifiche al decreto legislativo 8 giugno 2001, n. 231
 
@@ -932,7 +932,7 @@ c) al comma 3, sono aggiunte, in fine, le seguenti parole: «e, nel solo caso pr
 
 > 3\. Nei casi previsti dai commi 1 e 2 si applicano all'ente le sanzioni interdittive previste dall'articolo 9, comma 2, lettere c), d) ed e) e, nel solo caso previsto dal comma 2, anche le sanzioni interdittive previste dall'articolo 9, comma 2, lettere a) e b).»
 
-#### Art. 5
+##### Art. 5
 
 Modifiche al codice di procedura penale
 
@@ -962,7 +962,7 @@ Modifiche al codice di procedura penale
 
 > 3-quinquies. Quando si tratta di procedimenti per i delitti, consumati o tentati, di cui agli articoli 414-bis, 600-bis, 600-ter, 600-quater, 600-quater.1, 600-quinquies, 609-undecies, 615-ter, 615-quater, 617-bis, 617-ter, 617-quater, 617-quinquies, 617-sexies, 635-bis, 635-ter, 635-quater, 635-quater.1, 635-quinquies, 640-ter e 640-quinquies del codice penale, o per il delitto di cui all'articolo 1, comma 11, del decreto-legge 21 settembre 2019, n. 105, convertito, con modificazioni, dalla legge 18 novembre 2019, n. 133L. 18/11/2019, n. 133,le funzioni indicate nel comma 1, lettera a), del presente articolo sono attribuite all'ufficio del pubblico ministero presso il tribunale del capoluogo del distretto nel cui ambito ha sede il giudice competente.»
 
-#### Art. 6
+##### Art. 6
 
 Modifiche in materia di Iva all'importazione
 
@@ -1004,7 +1004,7 @@ L'autorita' doganale procede all'incameramento della cauzione se, entro quaranta
 
 > L'autorita' doganale provvede, altresi', all'incameramento della cauzione, qualora tale documentazione non sia ritenuta comprovante l'effettivo trasferimento dei beni oggetto dell'importazione in un altro Stato membro dell'Unione europea. La cauzione non e' richiesta ai soggetti in possesso dell'autorizzazione prevista dall'articolo 38 del regolamento (UE) n. 952/2013 e a quelli esonerati ai sensi dell'articolo 51 delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli articoli 11 e 20, commi 2 e 3, della legge 9 agosto 2023, n. 111.»
 
-#### Art. 7
+##### Art. 7
 
 Disposizioni finali e di coordinamento
 
@@ -1014,7 +1014,7 @@ Disposizioni finali e di coordinamento
 
 3\. Le sanzioni amministrative di cui all'allegato 1 e all'articolo 3 si applicano alle violazioni commesse a partire dalla data di entrata in vigore del presente decreto.
 
-#### Art. 8
+##### Art. 8
 
 Abrogazioni
 
@@ -1048,13 +1048,13 @@ o) l'articolo 35, comma 35, del decreto-legge 4 luglio 2006, n. 223, convertito,
 
 p) il decreto del Ministero delle finanze 2 luglio 1941, pubblicato nella Gazzetta Ufficiale n. 166 del 16 luglio 1941.
 
-#### Art. 9
+##### Art. 9
 
 Disposizioni finanziarie
 
 1\. Alle minori entrate derivanti dall'articolo 96 dell'allegato 1 al presente decreto, valutate in 54.790 euro per l'anno 2024 e in 131.497 euro annui a decorrere dall'anno 2025, si provvede mediante corrispondente utilizzo di quota parte delle maggiori entrate derivanti dal medesimo articolo.
 
-#### Art. 10
+##### Art. 10
 
 Entrata in vigore
 
@@ -1086,7 +1086,7 @@ DISPOSIZIONI NAZIONALI COMPLEMENTARI
 
 AL CODICE DOGANALE DELL'UNIONE
 
-#### Art. 1
+##### Art. 1
 
 Fonti della disciplina doganale e definizioni
 
@@ -1126,7 +1126,7 @@ h) comandanti e capitani: rispettivamente, i conduttori di aeromobili e i condut
 
 i) navi: le navi di qualsiasi specie, le barche, le draghe e ogni altro galleggiante atto a percorrere le acque per il trasporto di persone o di cose.
 
-#### Art. 2
+##### Art. 2
 
 Linea di vigilanza doganale
 
@@ -1140,15 +1140,15 @@ b) in corrispondenza dei porti marittimi segue il limite esterno delle opere por
 
 3\. Per Livigno la linea di vigilanza doganale, anziche' il confine politico, segue la delimitazione del territorio del comune verso i comuni italiani a esso limitrofi.
 
-#### Art. 3
+##### Art. 3
 
 Territori extra-doganali e punti franchi
 
 1\. Il territorio extra-doganale e i punti franchi sono disciplinati dalle speciali disposizioni di legge che li riguardano, nel rispetto dei vincoli derivanti dall'ordinamento dell'Unione europea e dagli obblighi internazionali.
 
-## Capo II - Organizzazione dei servizi doganali
+### Capo II - Organizzazione dei servizi doganali
 
-#### Art. 4
+##### Art. 4
 
 Coordinamento delle attivita'
 
@@ -1156,27 +1156,27 @@ Coordinamento delle attivita'
 
 2\. L'Agenzia e la Guardia di finanza assicurano, sulla base di apposite intese, il coordinamento delle attivita' di rispettiva competenza al fine di evitare la reiterazione dei controlli.
 
-#### Art. 5
+##### Art. 5
 
 Orario degli uffici dell'Agenzia
 
 1\. L'Agenzia, compatibilmente con le esigenze di servizio, puo' autorizzare, su richiesta motivata degli operatori, il compimento delle operazioni doganali oltre l'orario ordinario di apertura degli uffici o fuori del circuito doganale verso il pagamento del costo del servizio, previo parere favorevole delle altre autorita' competenti per lo svolgimento delle formalita' doganali. Gli oneri ovvero il costo dei servizi per le attivita' di cui al primo periodo sono determinati dall'Agenzia.
 
-#### Art. 6
+##### Art. 6
 
 Conduzione di strutture affidata alla Guardia di finanza
 
 1\. In caso di insufficienza di personale dell'Agenzia, la conduzione di strutture operative territoriali di modestissimo traffico di confine puo' essere affidata, con provvedimento del Comandante Generale della Guardia di finanza su richiesta del direttore dell'Agenzia, alla Guardia di finanza medesima.
 
-## Capo III - Vigilanza e controlli
+### Capo III - Vigilanza e controlli
 
-#### Art. 7 - Edifici in prossimita' della linea di vigilanza doganale e nel mare territoriale
+##### Art. 7 - Edifici in prossimita' della linea di vigilanza doganale e nel mare territoriale
 
 1\. La realizzazione di costruzioni e altre opere permanenti di ogni specie, anche galleggianti, in prossimita' della linea di vigilanza doganale e nel mare ((territoriale nonche')) le modifiche o lo spostamento di opere esistenti ((sono soggetti)) alla preventiva autorizzazione dell'ufficio dell'Agenzia ((...)) competente per territorio ((,)) che si esprime entro trenta giorni dalla ricezione della relativa istanza, nell'ambito del procedimento di cui all'articolo 5, comma 3, del testo unico delle disposizioni legislative e regolamentari in materia edilizia, di cui al decreto del Presidente della Repubblica 6 giugno 2001, n. 380. In caso di inosservanza del termine di cui al primo periodo, l'autorizzazione si intende rilasciata ai sensi dell'articolo 20 della legge 7 agosto 1990, n. 241.
 
 2\. L'autorizzazione di cui al comma 1 costituisce presupposto di legittimita' di ogni altra autorizzazione relativa all'esecuzione delle attivita' di cui al medesimo comma 1 e non e' necessaria per la realizzazione di opere interne a edifici o fabbricati gia' esistenti.
 
-#### Art. 8
+##### Art. 8
 
 Espropriazione od occupazione temporanea
 
@@ -1184,7 +1184,7 @@ di locali per la tutela degli interessi doganali
 
 1\. L'Agenzia e la Guardia di finanza possono procedere all'espropriazione o all'occupazione temporanea di terreni o di locali da destinare all'esercizio della vigilanza doganale, secondo quanto previsto dalla normativa in materia di espropriazione per pubblica utilita'.
 
-#### Art. 9
+##### Art. 9
 
 Restrizioni per il deposito di merci non unionali
 
@@ -1192,7 +1192,7 @@ nei territori extra-doganali
 
 1\. Con decreto del Ministro dell'economia e delle finanze la costituzione, in territori extra-doganali, di depositi di determinate merci non unionali, puo' essere vietata ovvero limitata al bisogno degli abitanti.
 
-#### Art. 10
+##### Art. 10
 
 Spazi doganali
 
@@ -1200,13 +1200,13 @@ Spazi doganali
 
 2\. Nei porti e negli aeroporti, nonche' dove e' presente una struttura stabile dell'Agenzia o della Guardia di finanza, la delimitazione degli spazi doganali e' determinata dall'Agenzia, sentita la Guardia di finanza in caso di istituzione o soppressione di varchi.
 
-#### Art. 11
+##### Art. 11
 
 Circuito doganale
 
 1\. L'Agenzia delimita il circuito doganale, sentita la Camera di commercio, industria, artigianato e agricoltura competente per territorio.
 
-#### Art. 12
+##### Art. 12
 
 Visite, ispezioni e controlli sui mezzi di trasporto
 
@@ -1220,7 +1220,7 @@ e sui bagagli delle persone
 
 4\. Le disposizioni di cui ai commi 1, 2 e 3 si applicano anche nei confronti dei bagagli e degli altri oggetti in possesso delle persone che attraversano la linea di vigilanza doganale in corrispondenza degli spazi doganali o che circolano negli spazi stessi.
 
-#### Art. 13
+##### Art. 13
 
 Controllo doganale delle persone
 
@@ -1232,13 +1232,13 @@ Controllo doganale delle persone
 
 4\. L'autorita' giudiziaria, se riconosce legittimo il provvedimento di cui al comma 2, lo convalida entro le successive quarantotto ore.
 
-#### Art. 14
+##### Art. 14
 
 Visite, ispezioni e controlli fuori degli spazi doganali
 
 1\. Le disposizioni di cui agli articoli 12 e 13 si applicano, al fine di assicurare l'osservanza delle norme in materia doganale e valutaria, anche fuori degli spazi doganali, nei confronti delle persone, dei bagagli e dei mezzi di trasporto che comunque attraversano il confine terrestre dello Stato, nonche' nei confronti dei natanti e aeromobili, dei relativi equipaggi e passeggeri e dei bagagli quando risulti o sussista motivo di ritenere che i predetti natanti e aeromobili siano in partenza per l'estero ovvero in arrivo dall'estero. In tali casi alla competenza del personale dell'Agenzia e' sostituita quella dei militari della Guardia di finanza.
 
-#### Art. 15
+##### Art. 15
 
 Servizio di riscontro
 
@@ -1254,7 +1254,7 @@ Servizio di riscontro
 
 6\. Il Ministro dell'economia e delle finanze, con proprio decreto, puo' stabilire la soppressione del servizio di riscontro nei casi in cui non ne ricorra la necessita', avuto riguardo al luogo in cui lo stesso puo' essere espletato, alla destinazione conferita alle merci e alla scarsa rilevanza fiscale delle stesse.
 
-#### Art. 16
+##### Art. 16
 
 Servizio visita approdi
 
@@ -1262,13 +1262,13 @@ Servizio visita approdi
 
 2\. Gli esiti dell'attivita' svolta sono riportati in apposito verbale consegnato in copia al capitano dell'imbarcazione e, in caso di irregolarita', inoltrato all'Agenzia.
 
-#### Art. 17
+##### Art. 17
 
 Servizio di vigilanza
 
 1\. I responsabili degli uffici dell'Agenzia, d'intesa con i competenti comandanti del Corpo della Guardia di finanza, possono consentire che il servizio di vigilanza affidato ai militari della Guardia di finanza venga organizzato e attuato con particolari accorgimenti, che non richiedano la continua presenza dei militari, o che venga espletato, per motivi di sicurezza fiscale, anche in luoghi diversi dagli spazi doganali e dal circuito doganale.
 
-#### Art. 18
+##### Art. 18
 
 Zona di vigilanza doganale terrestre
 
@@ -1288,7 +1288,7 @@ b) l'estensione territoriale indicata nel comma 2, lettera b), puo' essere super
 
 c) sono individuate le zone di vigilanza per le quali sussistono particolari esigenze di sorveglianza doganale e sono determinate, anche se non ricorrono le condizioni di cui alla lettera b), le distanze dalla linea di vigilanza doganale terrestre e dal lido del mare verso l'interno che possono essere stabilite, rispettivamente, fino a trenta e dieci chilometri.
 
-#### Art. 19
+##### Art. 19
 
 Esercizio della vigilanza nella zona terrestre
 
@@ -1298,7 +1298,7 @@ Esercizio della vigilanza nella zona terrestre
 
 3\. Nei casi di cui al comma 1, il verbale delle operazioni compiute e' trasmesso senza ritardo, e comunque non oltre le quarantotto ore, all'autorita' giudiziaria del luogo dove la perquisizione e' stata eseguita, che, se ne ricorrono i presupposti, lo convalida entro le successive quarantotto ore.
 
-#### Art. 20
+##### Art. 20
 
 Restrizioni per la navigazione
 
@@ -1306,13 +1306,13 @@ nella zona di vigilanza doganale terrestre
 
 1\. Nel rispetto dei vincoli derivanti dall'ordinamento dell'Unione europea e dagli obblighi internazionali, con decreto del Ministro dell'economia e delle finanze, di concerto con le amministrazioni eventualmente interessate, adottato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, possono essere imposte speciali discipline per la navigazione nei laghi e nei fiumi compresi nella zona di vigilanza doganale terrestre.
 
-#### Art. 21
+##### Art. 21
 
 Esercizio della vigilanza nei laghi di confine
 
 1\. Nel rispetto dei vincoli derivanti dall'ordinamento dell'Unione europea e dagli obblighi internazionali, nelle acque nazionali del lago Maggiore e del lago di Lugano i militari della Guardia di finanza debbono fermare e visitare le navi, quando vi siano indizi di violazioni previste dal presente allegato, e scortarle al piu' vicino ufficio dell'Agenzia per i necessari accertamenti.
 
-#### Art. 22
+##### Art. 22
 
 Zona di vigilanza doganale marittima
 
@@ -1320,7 +1320,7 @@ Zona di vigilanza doganale marittima
 
 2\. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, su proposta del Ministro dell'economia e delle finanze, di concerto con il Ministro degli affari esteri e della cooperazione internazionale, la zona di vigilanza doganale puo' essere estesa alla zona contigua, fino ai limiti massimi consentiti dal diritto internazionale. Il provvedimento e' pubblicato nella Gazzetta ufficiale ed e' notificato agli Stati il cui territorio e' adiacente al territorio dell'Italia o lo fronteggia.
 
-#### Art. 23
+##### Art. 23
 
 Esercizio della vigilanza nella zona marittima
 
@@ -1330,7 +1330,7 @@ Esercizio della vigilanza nella zona marittima
 
 3\. Per le navi di stazza netta superiore a duecento tonnellate la vigilanza e' esercitata sui movimenti delle navi medesime entro la zona di vigilanza, ma quando si tenta l'imbarco o lo sbarco ovvero il trasbordo, dove non sono presenti uffici dell'Agenzia, i militari della Guardia di finanza hanno facolta' di salire a bordo, di richiedere i documenti del carico e di scortare le navi stesse al piu' vicino ufficio dell'Agenzia per i relativi provvedimenti.
 
-#### Art. 24
+##### Art. 24
 
 Casi di naufragio
 
@@ -1338,7 +1338,7 @@ Casi di naufragio
 
 2\. Alle merci recuperate dal naufragio, ove non sia accertata la relativa posizione unionale, e' data una destinazione doganale dagli aventi diritto, secondo le ordinarie procedure doganali.
 
-#### Art. 25
+##### Art. 25
 
 Vigilanza doganale negli aeroporti
 
@@ -1346,7 +1346,7 @@ Vigilanza doganale negli aeroporti
 
 2\. Con provvedimento dell'Agenzia sono stabilite le modalita' tecnico-operative per l'esercizio della vigilanza sugli aeromobili che fanno scalo in aeroporti non doganali.
 
-#### Art. 26
+##### Art. 26
 
 Costruzione ed esercizio di aeroporti
 
@@ -1356,7 +1356,7 @@ Costruzione ed esercizio di aeroporti
 
 ### Capo I - Obbligazione doganale e diritti doganali
 
-#### Art. 27
+##### Art. 27
 
 Diritti doganali e diritti di confine
 
@@ -1370,7 +1370,7 @@ a) immissione in libera pratica di merci senza assolvimento dell'imposta sul val
 
 b) immissione in libera pratica di merci senza assolvimento dell'imposta sul valore aggiunto e vincolo a un regime di deposito diverso dal deposito doganale.
 
-#### Art. 28
+##### Art. 28
 
 Liquidazione e riscossione dei diritti e delle spese
 
@@ -1392,21 +1392,21 @@ b) per il compimento di lavori di facchinaggio nonche' ogni altra spesa e indenn
 
 7\. Sono altresi' dovuti da parte dell'ente o dell'impresa che, nel proprio esclusivo interesse e nel rispetto dei vincoli derivanti dall'ordinamento dell'Unione europea, richiede l'istituzione di un ufficio dell'Agenzia, la messa a disposizione gratuita dei locali da adibire a sede della struttura nonche' le spese di impianto e di esercizio dei servizi necessari ad assicurarne il funzionamento. Le disposizioni di cui al primo periodo si applicano anche in caso di istituzione di un presidio della Guardia di finanza.
 
-#### Art. 29
+##### Art. 29
 
 Merci perdute o distrutte. Cali ammissibili
 
 1\. Fermo restando quanto previsto dalla normativa unionale, ai fini dell'estinzione dell'obbligazione doganale, i cali ammissibili sono determinati con decreto dal Ministro dell'economia e delle finanze, adottato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400.
 
-#### Art. 30
+##### Art. 30
 
 Soggetti obbligati al pagamento dei diritti di confine
 
 1\. I soggetti obbligati al pagamento dei diritti di confine sono individuati in base alla normativa doganale unionale che regola l'obbligazione doganale.
 
-## Capo II - La rappresentanza doganale
+### Capo II - La rappresentanza doganale
 
-#### Art. 31
+##### Art. 31
 
 Il rappresentante doganale
 
@@ -1436,7 +1436,7 @@ c) e' in possesso di certificazione di Operatore Economico Autorizzato (AEO), pr
 
 7\. Gli appartenenti all'amministrazione finanziaria, ivi inclusa la Guardia di finanza, non possono esercitare le funzioni di rappresentante doganale nei tre anni successivi alla cessazione del rapporto di impiego. I contratti conclusi e gli incarichi conferiti in violazione di quanto previsto dal primo periodo sono nulli ed e' fatto divieto ai soggetti privati che li hanno conclusi o conferiti di contrattare con le pubbliche amministrazioni per i successivi tre anni con obbligo di restituzione dei compensi eventualmente percepiti e accertati a essi riferiti.
 
-#### Art. 32
+##### Art. 32
 
 Sospensione della rappresentanza diretta
 
@@ -1456,7 +1456,7 @@ b) per un periodo non superiore a sei mesi, salvo quanto stabilito dal comma 3, 
 
 4\. Il provvedimento di sospensione relativo ai soggetti di cui all'articolo 31, comma 3, lettera a), e' comunicato al Consiglio nazionale degli spedizionieri doganali per gli adempimenti di competenza.
 
-#### Art. 33
+##### Art. 33
 
 Revoca dell'abilitazione alla rappresentanza diretta
 
@@ -1474,9 +1474,9 @@ d) condanna, con sentenza passata in giudicato, per ogni altro delitto non colpo
 
 3\. Per gli spedizionieri doganali iscritti all'albo, il provvedimento di revoca e' adottato dall'Agenzia, sentito il Consiglio nazionale degli spedizionieri doganali.
 
-## Capo III - Procedure di accertamento
+### Capo III - Procedure di accertamento
 
-#### Art. 34
+##### Art. 34
 
 Verifica della merce e definizione dell'accertamento
 
@@ -1498,7 +1498,7 @@ c) determinazione di un importo dei diritti di confine diverso da quello risulta
 
 6\. Decorso il termine di cui al comma 5, l'ufficio dell'Agenzia emette un provvedimento motivato di accertamento da notificare alla parte.
 
-#### Art. 35
+##### Art. 35
 
 Custodia e distruzione di campioni di merci
 
@@ -1506,7 +1506,7 @@ Custodia e distruzione di campioni di merci
 
 Decorso inutilmente tale termine, l'Agenzia procede, a spese dell'operatore, alla distruzione dei campioni ovvero, ove la distruzione non sia possibile, alla loro conservazione presso istituti specializzati.
 
-#### Art. 36
+##### Art. 36
 
 Operazioni doganali relative a merci arrivate
 
@@ -1516,7 +1516,7 @@ o spedite via mare
 
 2\. Le modalita' per l'esercizio della facolta' di cui al comma 1 sono stabilite con provvedimento dell'Agenzia.
 
-#### Art. 37
+##### Art. 37
 
 Visite di controllo
 
@@ -1526,7 +1526,7 @@ Visite di controllo
 
 3\. La disposizione del comma 1 si applica anche in materia di prelevamento di campioni per l'analisi.
 
-#### Art. 38
+##### Art. 38
 
 Poteri sostitutivi
 
@@ -1536,7 +1536,7 @@ Poteri sostitutivi
 
 3\. L'esercizio del potere di cui al comma 1 non comporta responsabilita', se non nei casi di dolo o di colpa grave.
 
-#### Art. 39
+##### Art. 39
 
 Potenziamento dello Sportello unico doganale
 
@@ -1562,9 +1562,9 @@ c) le modalita' e i termini di scambio dei dati sui controlli e il risultato deg
 
 d) in relazione ai controlli di cui al comma 5, soluzioni alternative atte a snellire le procedure di controllo al fine di facilitare l'ingresso e l'uscita delle merci nel o dal territorio doganale dell'Unione europea.
 
-## Capo IV - Revisione dell'accertamento
+### Capo IV - Revisione dell'accertamento
 
-#### Art. 40
+##### Art. 40
 
 Controlli a posteriori
 
@@ -1580,7 +1580,7 @@ b) accedere muniti di apposita autorizzazione rilasciata dai responsabili dei ri
 
 4\. Le autorizzazioni per le richieste di cui all'articolo 51, secondo comma, numeri 6-bis) e 7), del citato decreto del Presidente della Repubblica n. 633 del 1972 sono rilasciate, per l'Agenzia, dal direttore regionale o interregionale e, limitatamente alle province autonome di Trento e di Bolzano, dal direttore provinciale nonche', per la Guardia di finanza, dal Comandante regionale o equiparato.
 
-#### Art. 41
+##### Art. 41
 
 Esito dei controlli a posteriori
 
@@ -1588,7 +1588,7 @@ Esito dei controlli a posteriori
 
 2\. Il verbale di cui al comma 1 e' trasmesso all'ufficio dell'Agenzia competente per la revisione delle dichiarazioni e agli altri organi eventualmente competenti per materia.
 
-#### Art. 42
+##### Art. 42
 
 Revisione della dichiarazione
 
@@ -1612,7 +1612,7 @@ Revisione della dichiarazione
 
 10\. L'Agenzia puo' stabilire modalita' semplificate per la revisione delle dichiarazioni che non comportano rimborsi o sgravi e nel rispetto della normativa doganale unionale.
 
-#### Art. 43
+##### Art. 43
 
 Controlli integrati
 
@@ -1620,9 +1620,9 @@ Controlli integrati
 
 2\. Con decreto del Ministro dell'economia e delle finanze possono essere, altresi', stabiliti criteri e modalita' per regolare, nel rispetto del diritto unionale e dei trattati multilaterali e bilaterali applicabili, i rapporti dell'Agenzia e della Guardia di finanza con le autorita' doganali di altri Paesi e lo scambio reciproco di dati e notizie acquisiti in conseguenza di tali rapporti.
 
-## Capo V - Riscossione
+### Capo V - Riscossione
 
-#### Art. 44
+##### Art. 44
 
 Modalita' di pagamento o deposito dei diritti doganali
 
@@ -1640,7 +1640,7 @@ e) mediante altre forme di pagamento ammesse dalla legge.
 
 2\. Le modalita' per il successivo versamento delle somme riscosse alla Tesoreria sono stabilite con provvedimento dell'Agenzia, di concerto con il Dipartimento della Ragioneria generale dello Stato, sentita la Banca d'Italia.
 
-#### Art. 45
+##### Art. 45
 
 Pagamenti dilazionati o periodici dei diritti doganali
 
@@ -1650,13 +1650,13 @@ Pagamenti dilazionati o periodici dei diritti doganali
 
 3\. Quando la data di scadenza della dilazione coincide con un giorno festivo, il termine per il pagamento e' posticipato al giorno lavorativo successivo.
 
-#### Art. 46
+##### Art. 46
 
 Interessi sul pagamento dilazionato
 
 1\. L'agevolazione del pagamento dilazionato di cui all'articolo 45, comma 2, comporta l'obbligo della corresponsione degli interessi, con esclusione dei primi trenta giorni, al tasso applicato dalla Banca centrale europea alle sue principali operazioni di rifinanziamento, pubblicato nella Gazzetta ufficiale dell'Unione europea, serie C, con riferimento, per ciascun anno, al suo valore al 1° gennaio, per il periodo dal 1° gennaio al 30 giugno, e al 1° luglio, per il periodo dal 1° luglio al 31 dicembre. Se il predetto tasso e' inferiore allo 0,50 per cento, si applica comunque un tasso di interesse nella misura pari allo 0,50 per cento.
 
-#### Art. 47
+##### Art. 47
 
 Ritardo nel pagamento dei diritti
 
@@ -1668,7 +1668,7 @@ Ritardo nel pagamento dei diritti
 
 4\. In caso di ritardo nel pagamento di diritti doganali, compresi interessi e oneri accessori, diversi dai diritti di confine, si procede, salvo specifica disciplina, ai sensi del comma 2.
 
-#### Art. 48
+##### Art. 48
 
 Termini per la notifica dell'obbligazione doganale
 
@@ -1680,13 +1680,13 @@ Termini per la notifica dell'obbligazione doganale
 
 4\. Ove non diversamente disposto, le disposizioni di cui ai commi 1, 2 e 3 si applicano anche ai diritti doganali diversi dai diritti di confine.
 
-#### Art. 49
+##### Art. 49
 
 Interessi per il ritardato pagamento
 
 1\. Ferma restando l'applicazione di eventuali sanzioni, per il ritardato pagamento dei diritti doganali sono dovuti gli interessi di mora nei termini e modalita' previsti dalla normativa unionale in materia doganale, salvo quanto eventualmente previsto dalla normativa nazionale per i diritti doganali diversi dai diritti di confine.
 
-#### Art. 50
+##### Art. 50
 
 Garanzia per l'obbligazione doganale
 
@@ -1696,7 +1696,7 @@ potenziale o esistente
 
 2\. Le garanzie dovute per il deposito o il trasporto di prodotti non unionali soggetti ad accisa sono calcolate, per quanto riguarda l'accisa stessa, nella stessa misura percentuale stabilita sui corrispondenti prodotti nazionali stoccati nei depositi fiscali o trasportati ai sensi, rispettivamente, degli articoli 5 e 6 del testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, di cui al decreto legislativo 26 ottobre 1995, n. 504. Le garanzie sono limitate al 10 per cento dell'ammontare dell'accisa quando si tratta di operazioni di perfezionamento attivo effettuate da soggetti che lavorano le merci in propri stabilimenti gestiti in regime di deposito fiscale. In tali casi i crediti per i tributi e i relativi interessi, per le sanzioni pecuniarie e per le spese di ogni specie sono garantiti da privilegio, a preferenza di ogni altro creditore, sulle merci e su ogni altro bene mobile esistente negli stabilimenti degli operatori ammessi a fruire delle agevolazioni, nonche' nei magazzini annessi ai predetti stabilimenti o in altri luoghi comunque sottoposti a vigilanza finanziaria, nella disponibilita' degli stessi operatori.
 
-#### Art. 51
+##### Art. 51
 
 Riduzione dell'importo della garanzia
 
@@ -1708,7 +1708,7 @@ ed esonero dalla garanzia
 
 3\. La concessione puo' essere revocata, in qualsiasi momento, quando sorgano fondati dubbi sulla solvibilita' del beneficiario, il quale, entro cinque giorni dalla notifica della revoca, deve prestare la prescritta cauzione relativamente alle operazioni in corso.
 
-#### Art. 52
+##### Art. 52
 
 Forme di garanzia
 
@@ -1722,13 +1722,13 @@ b) fideiussione bancaria o polizza assicurativa conforme alla vigente normativa 
 
 3\. L'Agenzia puo' autorizzare altre forme di garanzia che assicurino in modo equivalente il pagamento dell'importo dei diritti di confine all'importazione o all'esportazione corrispondente all'obbligazione doganale e degli altri oneri.
 
-#### Art. 53
+##### Art. 53
 
 Rimborsi e sgravi
 
 1\. Il competente ufficio dell'Agenzia riconosce, secondo le disposizioni e le procedure previste in materia doganale unionale, il diritto al rimborso e allo sgravio delle somme relative a diritti di confine corrisposti o contabilizzati in misura maggiore al dovuto.
 
-#### Art. 54
+##### Art. 54
 
 Restituzione delle somme per il tramite
 
@@ -1746,13 +1746,13 @@ c) il titolare delle merci rappresentato non abbia notificato all'Agenzia la ces
 
 d) il rappresentante doganale richiedente non risulti sospeso dalle operazioni doganali ovvero destinatario di un provvedimento di revoca dell'abilitazione.
 
-#### Art. 55
+##### Art. 55
 
 Interessi passivi
 
 1\. Fatto salvo quanto previsto da specifiche disposizioni, gli interessi relativi ai diritti doganali diversi dal dazio indebitamente corrisposti sono dovuti nei termini e con le modalita' indicate dalla normativa doganale unionale.
 
-#### Art. 56
+##### Art. 56
 
 Spese per l'introduzione nelle strutture di deposito per la custodia temporanea su disposizione dell'Agenzia
 
@@ -1764,7 +1764,7 @@ Spese per l'introduzione nelle strutture di deposito per la custodia temporanea 
 
 ### Capo I - Disposizioni sulla temporanea custodia delle merci
 
-#### Art. 57
+##### Art. 57
 
 Esercizio della temporanea custodia
 
@@ -1772,31 +1772,31 @@ Esercizio della temporanea custodia
 
 2\. Le disposizioni di cui al comma 1 si applicano anche al caso di sostituzione di merce.
 
-## Capo II - Entrata delle merci
+### Capo II - Entrata delle merci
 
-### Sezione Prima - Arrivi da laghi
+#### Sezione Prima - Arrivi da laghi
 
-#### Art. 58
+##### Art. 58
 
 Arrivi da laghi
 
 1\. Le merci trasportate nel lago Maggiore o nel lago di Lugano per l'introduzione nel territorio doganale dell'Unione europea sono presentate a uno degli uffici individuati con provvedimento dell'Agenzia e non possono attraversare le acque nazionali di detti laghi se non sono scortate da idonea documentazione doganale.
 
-## Sezione seconda - Arrivi dal mare e per via aerea
+#### Sezione seconda - Arrivi dal mare e per via aerea
 
-#### Art. 59
+##### Art. 59
 
 Responsabilita' di comandanti e capitani
 
 1\. I comandanti e capitani sono responsabili della osservanza delle norme del presente allegato nei riguardi delle merci trasportate, ferma la responsabilita' degli altri soggetti stabilita dalla normativa doganale unionale.
 
-#### Art. 60
+##### Art. 60
 
 Divieti di approdo e di sosta delle navi
 
 1\. L'Agenzia, anche su richiesta della Guardia di finanza, per la tutela degli interessi doganali, puo' vietare ai capitani di rasentare il lido, gettare l'ancora, stare alla cappa, mettersi in comunicazione con il territorio dello Stato in modo che sia agevole sbarcare e imbarcare merci non unionali e di approdare.
 
-#### Art. 61
+##### Art. 61
 
 Obbligo del manifesto del carico. Vigilanza
 
@@ -1808,7 +1808,7 @@ b) al momento dell'ingresso nella zona di vigilanza doganale marittima o prima d
 
 2\. Con provvedimento dell'Agenzia e' stabilito il contenuto del manifesto, in conformita' alla normativa doganale unionale e agli obblighi previsti da convenzioni internazionali.
 
-#### Art. 62
+##### Art. 62
 
 Trasmissione del manifesto del carico
 
@@ -1820,13 +1820,13 @@ Trasmissione del manifesto del carico
 
 4\. L'Agenzia puo' richiedere ai capitani e ai comandanti di esibire tutti gli altri documenti di bordo. Tale richiesta e' obbligatoria quando sono rilevate differenze tra i dati risultanti dal manifesto e la consistenza del carico.
 
-#### Art. 63
+##### Art. 63
 
 Effetti della mancata trasmissione del manifesto
 
 1\. In caso di mancata trasmissione del manifesto entro il termine previsto, l'Agenzia, indipendentemente dalle sanzioni applicabili, puo' ordinare che le merci presenti a bordo siano scaricate per essere custodite nei depositi di temporanea custodia o in altri locali, a rischio e spese dei comandanti e dei capitani.
 
-#### Art. 64
+##### Art. 64
 
 Aeroporti doganali
 
@@ -1834,21 +1834,21 @@ Aeroporti doganali
 
 2\. Gli aeroporti doganali sono individuati dal Ministero delle infrastrutture e dei trasporti, di concerto con il Ministero dell'economia e delle finanze.
 
-#### Art. 65
+##### Art. 65
 
 Atterraggi forzati degli aeromobili
 
 1\. Nel caso di atterraggio per causa di forza maggiore fuori degli aeroporti doganali, il comandante dell'aeromobile deve denunciare, entro il piu' breve termine, l'avvenuto atterraggio al piu' vicino ufficio dell'Agenzia o comando della Guardia di finanza o altro organo di polizia ovvero al sindaco per le opportune constatazioni e per ottenere l'autorizzazione a ripartire. L'autorita' avvertita, che non sia l'Agenzia o la Guardia di finanza, ne da' immediata comunicazione a una delle predette autorita'.
 
-#### Art. 66
+##### Art. 66
 
 Aeromobili viaggianti senza merci a bordo
 
 1\. Con decreto del Ministro dell'economia e delle finanze, di concerto con le altre amministrazioni eventualmente interessate, possono essere stabilite le condizioni al ricorrere delle quali gli aeromobili viaggianti senza merci a bordo entro lo spazio aereo sottoposto alla sovranita' dello Stato possano atterrare anche in aeroporti diversi da quelli doganali.
 
-## Capo III - Uscita delle merci
+### Capo III - Uscita delle merci
 
-#### Art. 67
+##### Art. 67
 
 Vendita di prodotti non unionali ai viaggiatori in uscita
 
@@ -1860,7 +1860,7 @@ Vendita di prodotti non unionali ai viaggiatori in uscita
 
 ### Capo I - Deposito doganale e istituti speciali
 
-#### Art. 68
+##### Art. 68
 
 Condizioni per il deposito nelle strutture di deposito per la custodia temporanea sotto diretta gestione dell'Agenzia
 
@@ -1870,7 +1870,7 @@ Condizioni per il deposito nelle strutture di deposito per la custodia temporane
 
 3\. Con decreto del Ministro dell'economia e delle finanze sono stabiliti i criteri in base ai quali l'Agenzia fissa e aggiorna l'importo dovuto per le spese di custodia nei magazzini di temporanea custodia sotto diretta gestione dell'Agenzia.
 
-#### Art. 69
+##### Art. 69
 
 Vigilanza sui magazzini e depositi doganali
 
@@ -1878,7 +1878,7 @@ Vigilanza sui magazzini e depositi doganali
 
 2\. L'Agenzia puo' altresi' effettuare verifiche straordinarie, anche senza preavviso, quando lo ritenga opportuno.
 
-#### Art. 70
+##### Art. 70
 
 Istituzione ed esercizio delle zone franche
 
@@ -1888,15 +1888,15 @@ Istituzione ed esercizio delle zone franche
 
 3\. Con il provvedimento di cui al comma 2 possono essere stabilite le condizioni per l'operativita' della zona franca ed e' individuato l'ufficio dell'Agenzia competente per la vigilanza e per ogni altro procedimento previsto dalla normativa doganale unionale.
 
-#### Art. 71
+##### Art. 71
 
 Punti franchi nel porto di Trieste
 
 1\. Per i punti franchi compresi nella zona del porto franco di Trieste di cui all'allegato VIII al trattato di pace fra l'Italia e le potenze alleate e associate, firmato a Parigi il 10 febbraio 1947, e reso esecutivo con decreto legislativo del Capo provvisorio dello Stato 28 novembre 1947, n. 1430, restano ferme le vigenti disposizioni piu' favorevoli.
 
-## Capo II - Speciali agevolazioni per il traffico internazionale
+### Capo II - Speciali agevolazioni per il traffico internazionale
 
-#### Art. 72
+##### Art. 72
 
 Temporanea esportazione
 
@@ -1904,7 +1904,7 @@ Temporanea esportazione
 
 2\. Le merci di cui al comma 1 possono rimanere vincolate alla temporanea esportazione per il tempo necessario a raggiungere la finalita' per cui sono state esportate e comunque per un periodo massimo di trentasei mesi, eventualmente prorogabile su richiesta motivata dell'interessato.
 
-#### Art. 73
+##### Art. 73
 
 Ammissione temporanea di veicoli in uso privato nell'ambito di convenzioni internazionali
 
@@ -1912,11 +1912,9 @@ Ammissione temporanea di veicoli in uso privato nell'ambito di convenzioni inter
 
 2\. Per la mancata osservanza delle condizioni di cui al comma 1, si applicano le disposizioni di cui al Titolo VI, Capi I e II.
 
-## Capo III - Provviste e dotazioni di bordo
+### Capo III - Provviste e dotazioni di bordo delle navi e degli aeromobili
 
-### delle navi e degli aeromobili
-
-#### Art. 74
+##### Art. 74
 
 Provviste e dotazioni di bordo
 
@@ -1938,7 +1936,7 @@ d) la conservazione, la lavorazione e la confezione a bordo delle merci trasport
 
 ## Titolo V - TRATTAMENTO DELLE MERCI
 
-#### Art. 75
+##### Art. 75
 
 Cessione e distruzione dei beni
 
@@ -1954,7 +1952,7 @@ a) assegnate a titolo gratuito a enti pubblici o a istituti aventi scopi di assi
 
 b) acquisite dall'Agenzia per un utilizzo a fini istituzionali ovvero cedute ad altre amministrazioni pubbliche qualora funzionali all'esercizio delle loro attribuzioni.
 
-#### Art. 76
+##### Art. 76
 
 Procedimenti per la vendita delle merci
 
@@ -1968,7 +1966,7 @@ Procedimenti per la vendita delle merci
 
 5\. Qualora l'aggiudicazione non abbia luogo al primo incanto, le merci invendute sono messe in vendita con una successiva gara al migliore offerente, prescindendosi dal prezzo base.
 
-#### Art. 77
+##### Art. 77
 
 Esecuzione dei verbali di aggiudicazione
 
@@ -1990,7 +1988,7 @@ e dei contratti di vendita
 
 ### Capo I - Sanzioni di natura penale
 
-#### Art. 78
+##### Art. 78
 
 Contrabbando per omessa dichiarazione
 
@@ -2002,13 +2000,13 @@ b) fa uscire a qualunque titolo dal territorio doganale merci unionali.
 
 2\. La sanzione di cui al comma 1 si applica a colui che detiene merci non unionali, quando ricorrono le circostanze previste nell'articolo 19, comma 2.
 
-#### Art. 79
+##### Art. 79
 
 Contrabbando per dichiarazione infedele
 
 1\. Chiunque dichiara qualita', quantita', origine e valore delle merci, nonche' ogni altro elemento occorrente per l'applicazione della tariffa e per la liquidazione dei diritti in modo non corrispondente all'accertato e' punito con la multa dal 100 per cento al 200 per cento dei diritti di confine dovuti o dei diritti indebitamente percepiti o indebitamente richiesti in restituzione.
 
-#### Art. 80
+##### Art. 80
 
 Contrabbando nel movimento delle merci marittimo, aereo e nei laghi di confine
 
@@ -2026,7 +2024,7 @@ a) capitano della nave che, in violazione del divieto di cui all'articolo 60, tr
 
 b) comandante dell'aeromobile che, trasportando merci non unionali, atterra fuori di un aeroporto doganale e omette di denunciare l'atterraggio, entro il giorno lavorativo successivo, alle autorita' indicate all'articolo 65. In tali casi e' considerato introdotto in contrabbando nel territorio doganale, oltre il carico, anche l'aeromobile.
 
-#### Art. 81
+##### Art. 81
 
 Contrabbando per indebito uso di merci importate
 
@@ -2034,7 +2032,7 @@ con riduzione totale o parziale dei diritti
 
 1\. Chiunque attribuisce, in tutto o in parte, a merci non unionali, importate in franchigia o con riduzione dei diritti stessi, una destinazione o un uso diverso da quello per il quale e' stata concessa la franchigia o la riduzione e' punito con la multa dal 100 per cento al 200 per cento dei diritti di confine dovuti.
 
-#### Art. 82
+##### Art. 82
 
 Contrabbando nell'esportazione di merci ammesse
 
@@ -2042,13 +2040,13 @@ a restituzione di diritti
 
 1\. Chiunque usa mezzi fraudolenti, allo scopo di ottenere indebita restituzione di diritti stabiliti per l'importazione delle materie prime impiegate nella fabbricazione di merci che si esportano, e' punito con la multa dal 100 per cento al 200 per cento dell'ammontare dei diritti che indebitamente ha riscosso o tentava di riscuotere.
 
-#### Art. 83
+##### Art. 83
 
 Contrabbando nell'esportazione temporanea e nei regimi di uso particolare e di perfezionamento
 
 1\. Chiunque, nelle operazioni di esportazione temporanea e nei regimi di uso particolare o di perfezionamento, allo scopo di sottrarre merci al pagamento di diritti di confine che sarebbero dovuti, sottopone le merci stesse a manipolazioni artificiose ovvero usa altri mezzi fraudolenti, e' punito con la multa dal 100 per cento al 200 per cento dei diritti di confine dovuti.
 
-#### Art. 84
+##### Art. 84
 
 Contrabbando di tabacchi lavorati
 
@@ -2062,7 +2060,7 @@ a) non superiori a 200 grammi convenzionali, la sanzione amministrativa e' in og
 
 b) superiori a 200 e fino a 400 grammi convenzionali, la sanzione amministrativa e' in ogni caso pari a euro 1.000.
 
-#### Art. 85
+##### Art. 85
 
 Circostanze aggravanti del delitto di contrabbando
 
@@ -2082,7 +2080,7 @@ d) nel commettere il reato, l'autore ha utilizzato mezzi di trasporto che, rispe
 
 e) nel commettere il reato, l'autore ha utilizzato societa' di persone o di capitali ovvero si e' avvalso di disponibilita' finanziarie in qualsiasi modo costituite in Stati che non hanno ratificato la Convenzione sul riciclaggio, la ricerca, il sequestro e la confisca dei proventi di reato, fatta a Strasburgo l'8 novembre 1990, ratificata e resa esecutiva ai sensi della legge 9 agosto 1993, n. 328, e che comunque non hanno stipulato e ratificato convenzioni di assistenza giudiziaria con l'Italia aventi a oggetto il delitto di contrabbando.
 
-#### Art. 86
+##### Art. 86
 
 Associazione per delinquere finalizzata
 
@@ -2100,13 +2098,13 @@ L'associazione si considera armata quando i partecipanti hanno la disponibilita'
 
 5\. Le pene previste dall'articolo 84 e dal presente articolo sono diminuite da un terzo alla meta' nei confronti dell'autore che, dissociandosi dagli altri, si adopera per evitare che l'attivita' delittuosa sia portata a ulteriori conseguenze anche aiutando concretamente l'autorita' di polizia o l'autorita' giudiziaria nella raccolta di elementi decisivi per la ricostruzione dei fatti e per l'individuazione o la cattura degli autori del reato o per l'individuazione di risorse rilevanti per la commissione dei delitti.
 
-#### Art. 87
+##### Art. 87
 
 Equiparazione del delitto tentato a quello consumato
 
 1\. Agli effetti della pena, per tutti i delitti di cui al presente Capo il reato tentato e' equiparato a quello consumato.
 
-#### Art. 88
+##### Art. 88
 
 Circostanze aggravanti del contrabbando
 
@@ -2132,7 +2130,7 @@ a) ((quando l'ammontare dei diritti di confine dovuti o indebitamente percepiti 
 
 b) ((quando l'ammontare complessivo dei diritti di confine dovuti o dei diritti indebitamente percepiti o indebitamente richiesti in restituzione diversi dal dazio doganale e' maggiore di euro 200.000 e non superiore a euro 500.000.))
 
-#### Art. 89
+##### Art. 89
 
 Recidiva nel contrabbando
 
@@ -2142,19 +2140,19 @@ Recidiva nel contrabbando
 
 3\. Quando non ricorrono le circostanze previste nel presente articolo, la recidiva nel contrabbando e' regolata dal codice penale.
 
-#### Art. 90
+##### Art. 90
 
 Contrabbando abituale
 
 1\. E' dichiarato delinquente abituale in contrabbando chi riporta una condanna per delitto di contrabbando, dopo essere stato condannato in via definitiva per tre contrabbandi, commessi entro dieci anni e non contestualmente, e relativi a violazioni per le quali i diritti sottratti o che si tentava di sottrarre non siano inferiori complessivamente a euro 30.000.
 
-#### Art. 91
+##### Art. 91
 
 Contrabbando professionale
 
 1\. Chi, dopo avere riportato quattro condanne in via definitiva per delitto di contrabbando, riporta una condanna per un altro delitto di contrabbando e' dichiarato delinquente professionale in contrabbando, qualora, avuto riguardo alla condotta e al genere di vita del colpevole e alle altre circostanze indicate nell'articolo 133, secondo comma, del codice penale, debba ritenersi che egli viva abitualmente, anche in parte soltanto, dei proventi del reato.
 
-#### Art. 92
+##### Art. 92
 
 Contrabbando abituale o professionale secondo
 
@@ -2162,7 +2160,7 @@ il codice penale
 
 1\. Gli effetti della dichiarazione di abitualita' e di professionalita' nel contrabbando sono regolati dall'articolo 109 del codice penale. Le disposizioni degli articoli 90 e 91 non pregiudicano l'applicazione degli articoli 102 e 105 del codice penale, quando ricorrono le condizioni ivi previste.
 
-#### Art. 93
+##### Art. 93
 
 Delle misure di sicurezza personali non detentive. Liberta' vigilata
 
@@ -2170,7 +2168,7 @@ Delle misure di sicurezza personali non detentive. Liberta' vigilata
 
 2\. Ad assicurare l'esecuzione di tale misura concorre la Guardia di finanza.
 
-#### Art. 94
+##### Art. 94
 
 Delle misure di sicurezza patrimoniali. Confisca
 
@@ -2184,7 +2182,7 @@ Delle misure di sicurezza patrimoniali. Confisca
 
 5\. Nei casi di condanna o di applicazione della pena su richiesta a norma dell'articolo 444 del codice di procedura penale per taluno dei delitti previsti dall'articolo 88, comma 2, si applica l'articolo 240-bis del codice penale.
 
-#### Art. 95
+##### Art. 95
 
 Destinazione di beni sequestrati o confiscati
 
@@ -2206,9 +2204,9 @@ a seguito di operazioni anticontrabbando
 
 8\. Con decreto del Ministro dell'economia e delle finanze, di concerto con il Ministro della giustizia, adottato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono dettate le disposizioni di attuazione del presente articolo.
 
-## Capo II - Sanzioni di natura amministrativa
+### Capo II - Sanzioni di natura amministrativa
 
-#### Art. 96
+##### Art. 96
 
 Sanzioni amministrative
 
@@ -2256,7 +2254,7 @@ e) quando le violazioni rientrano nei casi di cui ai commi 2, 3, 4 e 5.
 
 14\. Nell'ipotesi di cui all'articolo 79, quando l'autorita' giudiziaria non ravvisa una condotta dolosa, l'autore e' punito, a titolo di colpa, con la sanzione amministrativa dall'80 per cento al 150 per cento dei diritti di confine dovuti o indebitamente percepiti o indebitamente richiesti in restituzione e comunque in misura non inferiore a euro 500. In tale ipotesi, si applicano, altresi', i commi 2, 3 e 4.
 
-#### Art. 97
+##### Art. 97
 
 Violazioni nelle zone extra-doganali
 
@@ -2264,7 +2262,7 @@ Violazioni nelle zone extra-doganali
 
 2\. La sanzione di cui al comma 1 e' commisurata sull'eccedenza rispetto ai limiti stabiliti.
 
-#### Art. 98
+##### Art. 98
 
 Violazioni sul manifesto e sulla dichiarazione sommaria
 
@@ -2274,7 +2272,7 @@ Violazioni sul manifesto e sulla dichiarazione sommaria
 
 3\. Delle violazioni di cui ai commi 1 e 2 rispondono solidalmente i soggetti di cui agli articoli 127, 133 e 271 del Codice.
 
-#### Art. 99
+##### Art. 99
 
 Inosservanza di obblighi connessi al vincolo a un regime speciale e alla temporanea esportazione
 
@@ -2282,7 +2280,7 @@ Inosservanza di obblighi connessi al vincolo a un regime speciale e alla tempora
 
 2\. Il mancato appuramento del regime speciale e della temporanea esportazione nei termini e con le modalita' prescritti e' punito con la sanzione amministrativa da euro 150 a euro 2.000.
 
-#### Art. 100
+##### Art. 100
 
 Inosservanza degli obblighi imposti ai capitani
 
@@ -2304,7 +2302,7 @@ a) il comandante di aeromobili che atterra fuori dell'aeroporto doganale, ancorc
 
 b) il capitano di navi e il comandante di aeromobili che si oppone agli accertamenti di competenza dell'Agenzia o della Guardia di finanza o ne trasgredisce gli ordini, ovvero fa partire la nave o l'aeromobile senza il relativo permesso.
 
-#### Art. 101
+##### Art. 101
 
 Inosservanza di adempimenti per opere in prossimita' della linea di vigilanza doganale
 
@@ -2312,13 +2310,13 @@ Inosservanza di adempimenti per opere in prossimita' della linea di vigilanza do
 
 2\. L'Agenzia, accertata la sussistenza di un rilevante pericolo per gli interessi erariali, non diversamente eliminabile a cura e spese del trasgressore, dispone la demolizione del manufatto in danno e a spese del trasgressore.
 
-#### Art. 102
+##### Art. 102
 
 Rifiuto di fornire informazioni e assistenza
 
 1\. Chiunque non fornisce all'Agenzia e alla Guardia di finanza, entro i termini assegnati, la documentazione e le informazioni richieste, nonche' l'assistenza necessaria ai fini dell'espletamento delle attivita' di competenza, e' punito con la sanzione amministrativa da euro 5.000 a euro 10.000.
 
-#### Art. 103
+##### Art. 103
 
 Altre violazioni
 
@@ -2332,17 +2330,15 @@ c) la mancata conservazione dei documenti e delle informazioni relativi all'espl
 
 d) la manomissione e l'alterazione dei sigilli doganali.
 
-## Capo III - Disposizioni comuni al contrabbando
+### Capo III - Disposizioni comuni al contrabbando e alle sanzioni amministrative
 
-### e alle sanzioni amministrative
-
-#### Art. 104
+##### Art. 104
 
 Rinvio all'impianto sanzionatorio tributario generale
 
 1\. Resta ferma l'applicabilita' alle violazioni e sanzioni disciplinate dal presente capo delle disposizioni di cui ai decreti legislativi 18 dicembre 1997, n. 471 e n. 472, per quanto non specificamente previsto e in quanto compatibili.
 
-#### Art. 105
+##### Art. 105
 
 Accertamento delle violazioni
 
@@ -2350,7 +2346,7 @@ Accertamento delle violazioni
 
 2\. La stessa disposizione si applica anche per le violazioni delle disposizioni di ogni altra legge, nei casi in cui l'applicazione di essa e' demandata all'Agenzia.
 
-#### Art. 106
+##### Art. 106
 
 Competenza dei funzionari dell'Agenzia
 
@@ -2358,7 +2354,7 @@ Competenza dei funzionari dell'Agenzia
 
 2\. Nell'esercizio delle attribuzioni di cui al comma 1, i funzionari dell'Agenzia rivestono la qualita' di ufficiali di polizia tributaria.
 
-#### Art. 107
+##### Art. 107
 
 Processo verbale per violazioni accertate
 
@@ -2380,7 +2376,7 @@ d) ammontare dei diritti dovuti nonche' delle sanzioni penali e amministrative s
 
 4\. Il processo verbale e' trasmesso all'autorita' giudiziaria competente per il procedimento penale ove la violazione costituisca reato e, fatto salvo quanto previsto in materia di competenza per la revisione delle dichiarazioni, all'ufficio dell'Agenzia territorialmente competente in base al luogo dove e' constatata la violazione salvo che la violazione sia estinta, a seconda dei casi, ai sensi dell'articolo 112 o per oblazione.
 
-#### Art. 108
+##### Art. 108
 
 Processi verbali per violazioni accertate fuori
 
@@ -2390,7 +2386,7 @@ degli spazi doganali
 
 2\. L'ufficio competente dell'Agenzia, qualora le violazioni non vengano estinte con le modalita' di cui al comma 1, invia i verbali all'autorita' giudiziaria territorialmente competente in base al luogo dove la violazione e' stata accertata, qualora dette violazioni abbiano rilevanza penale, corredandoli delle indicazioni stabilite nell'articolo 107, comma 3.
 
-#### Art. 109
+##### Art. 109
 
 Invio dei verbali all'autorita' giudiziaria
 
@@ -2398,7 +2394,7 @@ Invio dei verbali all'autorita' giudiziaria
 
 2\. Nei casi di cui al comma 1, copia dei processi verbali e' contemporaneamente trasmessa, a cura degli stessi pubblici ufficiali, all'ufficio dell'Agenzia territorialmente competente in base al luogo dove e' stata constatata la violazione, il quale comunica all'autorita' giudiziaria le indicazioni di cui all'articolo 107, comma 3.
 
-#### Art. 110
+##### Art. 110
 
 Obbligazione civile in dipendenza
 
@@ -2412,7 +2408,7 @@ a) quando il condannato e' persona dipendente dallo Stato, da una regione, da un
 
 b) ai gestori di servizi di trasporto, per i delitti di contrabbando commessi dai viaggiatori.
 
-#### Art. 111
+##### Art. 111
 
 Solidarieta' di enti e privati. Conversione della pena
 
@@ -2428,19 +2424,19 @@ c) il capostazione e il capotreno, per le linee gestite dall'industria privata, 
 
 3\. Si osservano, in quanto applicabili, le disposizioni del codice di procedura penale e della legge 7 gennaio 1929, n. 4, relative alla citazione e all'intervento delle persone o degli enti civilmente obbligati per le ammende inflitte a persone dipendenti.
 
-#### Art. 112 - Estinzione del reato - Cause di non punibilita'
+##### Art. 112 - Estinzione del reato - Cause di non punibilita'
 
 1\. Salvo quanto previsto dal comma 2, per i delitti di contrabbando punibili con la sola pena della multa, l'autore della violazione puo' effettuare il pagamento, oltre che dei diritti di confine eventualmente dovuti, di una somma determinata dall'Agenzia in misura non inferiore al 100 per cento e non superiore al 200 per cento dei diritti previsti per la violazione commessa¸ da versare prima della dichiarazione di apertura del dibattimento di primo grado. Il pagamento della predetta somma e del tributo estingue il reato. ((L'estinzione del reato impedisce l'applicazione della confisca, salvi i casi in cui siano vietati la fabbricazione, il possesso, la detenzione o la commercializzazione delle merci oggetto dell'illecito e fermo restando quanto disposto dall'articolo 240, secondo comma, del codice penale.))
 
 2\. I delitti di contrabbando, di cui agli articoli da 78 a 83, salvo che ricorrano le circostanze aggravanti di cui all'articolo 88, comma 2, lettere a), b), c) limitatamente al caso in cui il fatto e' connesso con altro delitto contro la pubblica amministrazione e d), non sono punibili se l'autore della violazione effettua il pagamento, oltre che dei diritti di confine dovuti, degli interessi e della sanzione a seguito del ravvedimento operoso di cui all'articolo 13, comma 1, lettere a), a-bis), b) e b-bis), del testo unico delle sanzioni tributarie amministrative e penali, di cui al decreto legislativo 18 dicembre 1997 n. 472, e all'articolo 14, comma 1, lettere a), b), c) e d) del decreto legislativo 5 novembre 2024, n. 173, sempreche' il pagamento intervenga prima che l'autore della violazione abbia avuto formale conoscenza di accessi, ispezioni, verifiche o dell'inizio di qualunque attivita' di accertamento amministrativo o di procedimenti penali. La causa di non punibilita' prevista nel presente comma impedisce l'applicazione della confisca, fermo restando quanto disposto dall'articolo 240, secondo comma, del codice penale.
 
-#### Art. 113
+##### Art. 113
 
 Oblazione in materia contravvenzionale
 
 1\. L'oblazione, ai sensi dell'articolo 13 della legge 7 gennaio 1929, n. 4, e' ammessa anche per le contravvenzioni, il cui massimo non supera euro 50. In questi casi l'Agenzia puo', quando ricorrano particolari circostanze, determinare la somma da pagare per l'estinzione del reato anche in misura inferiore al sesto del massimo dell'ammenda stabilita dalla legge, oltre al tributo. Sulla domanda di oblazione ai sensi dell'articolo 14 della citata legge n. 4 del 1929, e' competente l'Agenzia qualunque sia la misura dell'ammenda, osservate, nel resto, le disposizioni della predetta legge n. 4 del 1929.
 
-#### Art. 114
+##### Art. 114
 
 Ripartizione dei proventi delle pene
 
@@ -2458,7 +2454,7 @@ a) al Fondo di cui all'articolo 3 della legge 7 febbraio 1951, n. 168, per esser
 
 b) al Fondo di assistenza per i finanzieri.
 
-#### Art. 115
+##### Art. 115
 
 Obbligo del pagamento dei diritti di confine
 
@@ -2468,13 +2464,13 @@ Obbligo del pagamento dei diritti di confine
 
 3\. Al pagamento di cui al comma 1 e' obbligato, solidalmente con il colpevole, anche il ricettatore.
 
-#### Art. 116
+##### Art. 116
 
 Violazione dei divieti d'importazione e di esportazione
 
 1\. Le pene comminate dalle leggi speciali relative ai divieti di importazione e di esportazione si applicano senza pregiudizio di quelle stabilite dal presente allegato, quando il fatto sia anche punibile ai termini di esso.
 
-#### Art. 117
+##### Art. 117
 
 Applicabilita' delle disposizioni penali doganali
 
@@ -2482,7 +2478,7 @@ ad alcune leggi speciali
 
 1\. Le disposizioni di questo Titolo sono applicabili anche alle violazioni in materia doganale delle leggi e decreti che non contemplino sanzioni particolari per le violazioni medesime.
 
-#### Art. 118
+##### Art. 118
 
 Gestione dei beni e delle merci sequestrate o confiscate
 
@@ -2510,7 +2506,7 @@ b) autorizzare la consegna di un campione ai produttori nazionali o esteri.
 
 10\. Le disposizioni del presente articolo si applicano fermo restando quanto previsto dagli articoli 95 e 96.
 
-#### Art. 119
+##### Art. 119
 
 Comunicazione di notizie e documenti
 
@@ -2518,7 +2514,7 @@ ad autorita' amministrative estere
 
 1\. L'Agenzia e la Guardia di finanza possono fornire, a condizioni di reciprocita' e nel rispetto del diritto unionale, dei trattati multilaterali e bilaterali applicabili nonche' delle leggi speciali in materia, alle competenti autorita' amministrative di Paesi esteri, informazioni, certificazioni, processi verbali e altri documenti utili per l'accertamento di violazioni di leggi e di regolamenti applicabili nel territorio dei Paesi stessi all'entrata o all'uscita delle merci.
 
-#### Art. 120
+##### Art. 120
 
 Testimonianze in procedimenti giudiziari
 
@@ -2530,13 +2526,13 @@ instaurati all'estero
 
 ### Capo I - Scritture doganali
 
-#### Art. 121
+##### Art. 121
 
 Registri, stampati e formulari
 
 1\. I modelli dei registri, degli stampati e degli altri formulari relativi alle scritture doganali, nonche' le istruzioni per il loro uso, sono definiti con provvedimento dell'Agenzia.
 
-#### Art. 122
+##### Art. 122
 
 Revisione delle scritture doganali
 

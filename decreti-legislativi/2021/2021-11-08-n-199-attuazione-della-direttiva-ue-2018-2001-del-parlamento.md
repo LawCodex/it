@@ -106,7 +106,7 @@ il seguente decreto legislativo
 
 ## TITOLO I - FINALITA', DEFINIZIONI E OBIETTIVI NAZIONALI
 
-###### ART. 1 - Finalita'
+#### ART. 1 - Finalita'
 
 1\. Il presente decreto ha l'obiettivo di accelerare il percorso di crescita sostenibile del Paese, recando disposizioni in materia di energia da fonti rinnovabili, in coerenza con gli obiettivi europei di decarbonizzazione del sistema energetico al 2030 e di completa decarbonizzazione al 2050.
 
@@ -372,7 +372,7 @@ il seguente decreto legislativo
 
 > \- Il regolamento (UE) 2021/1119 e' riportato nelle note alle premesse.
 
-###### ART. 2 - Definizioni
+#### ART. 2 - Definizioni
 
 1\. Ai fini del presente decreto si applicano le definizioni di cui al decreto legislativo 19 agosto 2005, n. 192, al decreto legislativo 4 luglio 2014, n. 102, nonche' al decreto legislativo di recepimento della direttiva (UE) 2019/944. Si applicano inoltre le seguenti definizioni:
 
@@ -536,7 +536,7 @@ hhh-vicies quinquies) (("stoccaggio dell'energia co-ubicato": un impianto di sto
 
 hhh-vicies sexies) (("veicolo elettrico solare": un veicolo a motore dotato di un gruppo propulsore comprendente solo macchine elettriche non periferiche come convertitore di energia, con un sistema di accumulo di energia ricaricabile che puo' essere ricaricato esternamente e con pannelli fotovoltaici integrati al veicolo.))
 
-###### ART. 3 - Obiettivi nazionali in materia di fonti rinnovabili
+#### ART. 3 - Obiettivi nazionali in materia di fonti rinnovabili
 
 1\. ((L'obiettivo nazionale relativo alla quota di energia da fonti rinnovabili nel consumo finale lordo di energia da conseguire nel 2030 e' pari al 39,4 per cento)).
 
@@ -556,7 +556,7 @@ hhh-vicies sexies) (("veicolo elettrico solare": un veicolo a motore dotato di u
 
 ### CAPO I - Principi Generali
 
-###### ART. 4 - Principi generali
+#### ART. 4 - Principi generali
 
 1\. Il presente Titolo disciplina i regimi di sostegno applicati all'energia prodotta da fonti rinnovabili attraverso il riordino e il potenziamento dei sistemi di incentivazione vigenti, in misura adeguata al raggiungimento degli obiettivi di cui all'articolo 3 e attraverso la predisposizione di criteri e strumenti che promuovano l'efficacia, l'efficienza e la semplificazione, perseguendo, nel contempo, l'armonizzazione con altri strumenti di analoga finalita', ivi inclusi quelli previsti dal Piano Nazionale di Ripresa e Resilienza.
 
@@ -576,7 +576,7 @@ e) i regimi di sostegno sono definiti secondo criteri di massima semplificazione
 
 Salvo quanto diversamente stabilito nel presente decreto, per la copertura dei costi sostenuti dal GSE ai sensi del primo periodo si applica l'articolo 25 del decreto-legge 24 giugno 2014, n. 91, convertito, con modificazioni, dalla legge 11 agosto 2014, n. 116.))
 
-###### ART. 4-bis
+#### ART. 4-bis
 
 (( (Principi in materia di biomassa).))
 
@@ -618,9 +618,9 @@ a) ((l'energia elettrica e' prodotta in una regione individuata in un piano terr
 
 b) ((l'energia elettrica e' prodotta applicando sistemi di cattura e stoccaggio della CO2 derivante da biomassa, in conformita' al decreto legislativo 5 marzo 2013, n. 152 e nel rispetto dei requisiti di cui all'articolo 42, comma 3, del presente decreto.))
 
-## CAPO II - Regimi di sostegno per la produzione di energia elettrica da fonti rinnovabili
+### CAPO II - Regimi di sostegno per la produzione di energia elettrica da fonti rinnovabili
 
-###### ART. 5 - Caratteristiche generali dei meccanismi di incentivazione
+#### ART. 5 - Caratteristiche generali dei meccanismi di incentivazione
 
 1\. La produzione di energia elettrica di impianti alimentati da fonti rinnovabili puo' accedere a strumenti di incentivazione tariffaria, aventi le seguenti caratteristiche generali:
 
@@ -670,7 +670,7 @@ g) possono essere previste misure a favore della trasformazione ad uso plurimo d
 
 h) possono essere previste misure per integrare i ricavi conseguenti alla partecipazione al mercato elettrico, a favore di impianti a fonti rinnovabili che continuano ed essere eserciti al termine del periodo di diritto agli incentivi, con particolare riguardo agli impianti a fonti rinnovabili con costi di generazione legati ai costi di approvvigionamento del combustibile, tenendo conto della necessita' di contenimento dei costi secondo logiche di efficienza e comunque nel rispetto di un principio di economia circolare e della disciplina in materia di aiuto di Stato.
 
-###### ART. 6 - Regolamentazione dei meccanismi di asta al ribasso
+#### ART. 6 - Regolamentazione dei meccanismi di asta al ribasso
 
 1\. Entro centottanta giorni dalla data di entrata in vigore del presente decreto, con uno o piu' decreti del Ministro della transizione ecologica, sentite l'ARERA e la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, sono definite le modalita' per l'implementazione dei sistemi di incentivazione di cui all'articolo 5, comma 2, nel rispetto dei seguenti ulteriori criteri direttivi:
 
@@ -698,7 +698,7 @@ i) possono accedere ai meccanismi di cui al presente articolo anche gli impianti
 
 l) ((LETTERA ABROGATA DAL D.L. 9 DICEMBRE 2023, N. 181, CONVERTITO CON MODIFICAZIONI DALLA L. 2 FEBBRAIO 2024, N. 11)).
 
-###### ART. 7 - Regolamentazione delle tariffe per piccoli impianti
+#### ART. 7 - Regolamentazione delle tariffe per piccoli impianti
 
 1\. Entro centottanta giorni dalla data di entrata in vigore del presente decreto, con uno o piu' decreti del Ministro della transizione ecologica, di concerto con il Ministro delle politiche agricole e forestali per gli aspetti di competenza, sentite l'ARERA e la Conferenza unificata, di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, sono definite le modalita' per l'implementazione dei sistemi di incentivazione di cui all'articolo 5, comma 3, nel rispetto dei seguenti criteri direttivi:
 
@@ -724,7 +724,7 @@ c) possono essere previsti sistemi di controllo e regolazione con le modalita' d
 
 > \- Il testo dell'art. 8 del citato decreto legislativo n. 281, del 1997, e' riportato nelle note all'art. 6.
 
-###### ART. 7-bis
+#### ART. 7-bis
 
 (( (Disciplina del regime incentivante gli investimenti in capacita' di produzione di energia elettrica da fonti rinnovabili). ))
 
@@ -778,7 +778,7 @@ o) in caso di mancato rispetto dell'obbligo di cui alla lettera d), l'operatore 
 
 2\) la differenza tra il quantitativo oggetto dell'obbligo stesso e il quantitativo di certificati consegnati al GSE ai sensi della lettera d) )).
 
-###### ART. 8 - Regolamentazione degli incentivi per la condivisione dell'energia
+#### ART. 8 - Regolamentazione degli incentivi per la condivisione dell'energia
 
 1\. Entro centottanta giorni dalla data di entrata in vigore del presente decreto, con le modalita' di cui al comma 9 dell'articolo 42-bis del decreto-legge 30 dicembre 2019, n. 162, convertito, con modificazioni, dalla legge 28 febbraio 2020, n. 8, sono aggiornati i meccanismi di incentivazione per gli impianti a fonti rinnovabili inseriti in configurazioni di autoconsumo collettivo o in comunita' energetiche rinnovabili di potenza non superiore a 1 MW, sulla base dei seguenti criteri direttivi:
 
@@ -818,7 +818,7 @@ f) l'accesso all'incentivo e' garantito fino al raggiungimento di contingenti di
 
 > (omissis).».
 
-###### ART. 9 - Transizione dai vecchi a nuovi meccanismi di incentivo
+#### ART. 9 - Transizione dai vecchi a nuovi meccanismi di incentivo
 
 1\. Nei decreti di cui agli articoli 6, 7 e 8 sono definiti tempi e modalita' per il raccordo con le procedure di assegnazione degli incentivi attivate in attuazione dell'articolo 24 del decreto legislativo 3 marzo 2011, n. 28, al fine di garantire continuita' nell'erogazione degli incentivi.
 
@@ -842,9 +842,9 @@ c) le quantita' di potenza trasferite in applicazione delle lettere a) e b) sono
 
 6-bis. Per le procedure d'asta indette dal GSE a decorrere dalla data di entrata in vigore della presente disposizione, i valori delle tariffe di riferimento indicati nella tabella 1.1 dell'allegato 1 al citato decreto del Ministro dello sviluppo economico 4 luglio 2019 sono aggiornati, in fase di pubblicazione dei singoli bandi, da parte del GSE su base mensile, facendo riferimento all'indice nazionale dei prezzi al consumo per l'intera collettivita', per tenere conto dell'inflazione media cumulata tra il 1° agosto 2019 e il mese di pubblicazione del bando della relativa procedura. All'attuazione delle disposizioni di cui al presente comma si provvede senza nuovi o maggiori oneri per la finanza pubblica.
 
-## CAPO III - Regimi di sostegno per la produzione di energia termica da fonti rinnovabili, il biometano e lo sviluppo tecnologico e industriale
+### CAPO III - Regimi di sostegno per la produzione di energia termica da fonti rinnovabili, il biometano e lo sviluppo tecnologico e industriale
 
-###### ART.10 - Promozione dell'utilizzo dell'energia termica da fonti rinnovabili
+#### ART.10 - Promozione dell'utilizzo dell'energia termica da fonti rinnovabili
 
 1\. Fermo restando quanto stabilito dall'articolo 7, comma 4 del decreto legislativo 4 luglio 2014, n. 102, il meccanismo di cui all'articolo 28 del decreto legislativo 3 marzo 2011, n. 28 e' aggiornato al fine di corrispondere all'obiettivo di cui all'articolo 3, comma 2, secondo i seguenti criteri:
 
@@ -858,7 +858,7 @@ c) sono promosse soluzioni tecnologiche che favoriscano l'utilizzazione integrat
 
 2\. Con decreto del Ministro della transizione ecologica, previa intesa in sede di Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, da emanare entro centottanta giorni dalla data di entrata in vigore del presente decreto, si provvede all'aggiornamento del meccanismo di cui al comma 1.
 
-###### ART.11
+#### ART.11
 
 ((Incentivi in materia di biogas e produzione di biometano e in materia di combustibili rinnovabili di origine non biologica))
 
@@ -874,7 +874,7 @@ c) sono promosse soluzioni tecnologiche che favoriscano l'utilizzazione integrat
 
 5-bis. ((A decorrere dal 2026, una quota annua dei proventi derivanti dalla messa all'asta delle quote di emissione di CO2 di cui all'articolo 23 del decreto legislativo 9 giugno 2020, n. 47, di competenza del Ministero dell'ambiente e della sicurezza energetica, e' finalizzata in via prioritaria a misure di incentivazione funzionali al raggiungimento degli obiettivi di utilizzo dei combustibili rinnovabili di origine non biologica, incluso l'idrogeno rinnovabile, di cui al presente decreto, nell'industria e nel settore dei trasporti.))
 
-###### ART.11-bis
+#### ART.11-bis
 
 (( (Contributo dei combustibili rinnovabili di origine non biologica nell'industria).))
 
@@ -884,7 +884,7 @@ c) sono promosse soluzioni tecnologiche che favoriscano l'utilizzazione integrat
 
 3\. ((Le modalita' di calcolo delle percentuali di cui al comma 1 sono indicate alla sezione H dell'allegato I al presente decreto.))
 
-###### ART. 12 - Disposizioni per la promozione dello sviluppo tecnologico e industriale nonche' per il monitoraggio di sistema
+#### ART. 12 - Disposizioni per la promozione dello sviluppo tecnologico e industriale nonche' per il monitoraggio di sistema
 
 1\. Gli interventi a favore dello sviluppo tecnologico e industriale in attuazione dell'articolo 32 del decreto legislativo 3 marzo 2011, n. 28, sono avviati in coordinamento alle misure stabilite dal Piano Nazionale di Ripresa e Resilienza e tengono inoltre conto delle seguenti linee d'azione prioritarie. A tal fine, all'articolo 32, comma 1, lettera b), del decreto legislativo 3 marzo 2011, n. 28 sono apportate le seguenti modificazioni:
 
@@ -918,9 +918,9 @@ iv.2 ad attivita' strumentali funzionali al raggiungimento degli obiettivi di de
 
 > iv.2 ad attivita' strumentali funzionali al raggiungimento degli obiettivi di decarbonizzazione tramite la realizzazione di sistemi informatici di monitoraggio e analisi per la programmazione territoriale, nella misura massima del 10 per cento del gettito annuo complessivo.».
 
-## CAPO IV - Norme in materia di attuazione e coordinamento con il PNRR e allocazione dei proventi delle aste CO2
+### CAPO IV - Norme in materia di attuazione e coordinamento con il PNRR e allocazione dei proventi delle aste CO2
 
-###### ART. 13 - Principi generali di coordinamento fra misure del PNRR e strumenti di incentivazione settoriali
+#### ART. 13 - Principi generali di coordinamento fra misure del PNRR e strumenti di incentivazione settoriali
 
 1\. Al fine di assicurare il necessario coordinamento fra gli strumenti di incentivazione di cui al presente Titolo e quelli previsti dal PNRR e garantire una maggiore efficienza amministrativa, i decreti attuativi delle misure del PNRR di cui all'articolo 14 sono adottati secondo i criteri specifici di cui al medesimo articolo e nel rispetto dei seguenti criteri generali:
 
@@ -946,7 +946,7 @@ e) le misure sono adottate in conformita' alla disciplina dell'Unione sugli aiut
 
 > 4\. L'Autorita' per l'energia elettrica, il gas e il sistema idrico provvede alle compensazioni ove necessario.».
 
-###### ART. 14 - Criteri specifici di coordinamento fra misure del PNRR e strumenti di incentivazione settoriali
+#### ART. 14 - Criteri specifici di coordinamento fra misure del PNRR e strumenti di incentivazione settoriali
 
 1\. Nel rispetto dei criteri generali di cui all'articolo 13, con decreto del Ministro della transizione ecologica, da adottare entro novanta giorni dalla data di entrata in vigore del presente decreto, sono disciplinate le modalita' per la concessione dei benefici delle misure PNRR specificate nel seguito, favorendone l'integrazione con le misure di cui al presente decreto e sulla base dei seguenti criteri specifici:
 
@@ -998,7 +998,7 @@ h) in attuazione delle misure "Missione 2, Componente 2, Investimento 3.1 Produz
 
 > (omissis).».
 
-###### ART. 15 - Utilizzo dei proventi delle aste della CO2 per la copertura dei costi degli incentivi alle fonti rinnovabili e all'efficienza energetica
+#### ART. 15 - Utilizzo dei proventi delle aste della CO2 per la copertura dei costi degli incentivi alle fonti rinnovabili e all'efficienza energetica
 
 1\. A decorrere dall'anno 2022, una quota dei proventi annuali derivanti dalla messa all'asta delle quote di emissione di CO2 di cui all'articolo 23 del decreto legislativo 9 giugno 2020, n. 47, di competenza del Ministero della transizione ecologica, e' destinata alla copertura dei costi di incentivazione delle fonti rinnovabili e dell'efficienza energetica mediante misure che trovano copertura sulle tariffe dell'energia. A tal fine, con il decreto di cui all'articolo 23, comma 4 del decreto legislativo n. 47 del 2020 e' definita la quota annualmente utilizzabile per le finalita' di cui al periodo precedente.
 
@@ -1074,9 +1074,9 @@ h) in attuazione delle misure "Missione 2, Componente 2, Investimento 3.1 Produz
 
 > (omissis).».
 
-## CAPO V - Progetti comuni e trasferimenti statistici
+### CAPO V - Progetti comuni e trasferimenti statistici
 
-###### ART. 16 - Progetti comuni e trasferimenti statistici con altri Stati membri
+#### ART. 16 - Progetti comuni e trasferimenti statistici con altri Stati membri
 
 1\. Sulla base di accordi internazionali all'uopo stipulati, sono promossi e gestiti con gli Stati membri progetti comuni e trasferimenti statistici di produzioni di energia da fonti rinnovabili, relativi agli obiettivi 2020 e 2030, nel rispetto dei criteri di cui ai commi 2, 3, 4, 5, 6, 7, 8, 9 e 10 del presente articolo.
 
@@ -1132,7 +1132,7 @@ b) la quantita' di energia elettrica o di calore o freddo prodotta durante quell
 
 11\. L'articolo 35 del decreto legislativo n. 28 del 2011, e' abrogato.
 
-###### ART. 17 - Progetti comuni con Paesi terzi
+#### ART. 17 - Progetti comuni con Paesi terzi
 
 1\. Ai fini del conseguimento degli obiettivi nazionali in materia di energie rinnovabili di cui all'articolo 3, e' ((contabilizzata)) l'importazione di elettricita' da fonti rinnovabili proveniente da Stati non appartenenti all'Unione europea, sulla base di accordi internazionali all'uopo stipulati con lo Stato da cui l'elettricita' da fonti rinnovabili e' importata. ((Le importazioni non beneficiano di incentivi economici, salvo che sia espressamente previsto in accordi intergovernativi.)) Tali accordi si conformano ai seguenti criteri:
 
@@ -1176,11 +1176,11 @@ f) la quota o la quantita' di energia elettrica prodotta da qualsiasi impianto n
 
 ### CAPO I - Autorizzazioni e procedure amministrative
 
-###### ART. 18
+#### ART. 18
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 NOVEMBRE 2024, N. 190, COME MODIFICATO DAL D.L. 21 NOVEMBRE 2025, N. 175))
 
-###### ART. 19 - Piattaforma unica digitale per impianti a fonti rinnovabili
+#### ART. 19 - Piattaforma unica digitale per impianti a fonti rinnovabili
 
 1\. Entro centottanta giorni dalla data di entrata in vigore del presente decreto, con decreto del Ministro della transizione ecologica, d'intesa con la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, e' istituita una piattaforma unica digitale per la presentazione delle istanze di cui all'articolo 4, comma 2 del decreto legislativo 3 marzo 2011, n. 28, realizzata e gestita dal GSE. In sede di prima applicazione, la piattaforma e' funzionale alla presentazione delle istanze per l'autorizzazione unica di cui all'articolo 5 del decreto legislativo 3 marzo 2011, n. 28.
 
@@ -1188,19 +1188,19 @@ f) la quota o la quantita' di energia elettrica prodotta da qualsiasi impianto n
 
 3\. ((COMMA ABROGATO DAL D.LGS. 25 NOVEMBRE 2024, N. 190, COME MODIFICATO DAL D.LGS. 26 NOVEMBRE 2025, N. 178)).
 
-###### ART. 20
+#### ART. 20
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 NOVEMBRE 2024, N. 190, COME MODIFICATO DAL D.L. 21 NOVEMBRE 2025, N. 175))
 
-###### ART. 21
+#### ART. 21
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 NOVEMBRE 2024, N. 190, COME MODIFICATO DAL D.L. 21 NOVEMBRE 2025, N. 175))
 
-###### ART. 22
+#### ART. 22
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 NOVEMBRE 2024, N. 190, COME MODIFICATO DAL D.L. 21 NOVEMBRE 2025, N. 175))
 
-###### ART. 22-bis
+#### ART. 22-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 NOVEMBRE 2024, N. 190)) ((33))
 
@@ -1210,11 +1210,11 @@ AGGIORNAMENTO (33)
 
 Il D.Lgs. 25 novembre 2024, n. 190, ha disposto (con l'art. 15, comma 2) che "A far data dall'entrata in vigore del presente decreto ai sensi dell'articolo 17, le disposizioni di cui all'allegato D continuano ad applicarsi alle procedure in corso, fatta salva la facolta' del soggetto proponente di optare per l'applicazione delle disposizioni di cui al presente decreto. Ai fini di cui al primo periodo, per procedure in corso si intendono quelle abilitative o autorizzatorie per le quali la verifica di completezza della documentazione presentata a corredo del progetto risulti compiuta alla data di entrata in vigore del presente decreto".
 
-###### ART. 23
+#### ART. 23
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 NOVEMBRE 2024, N. 190, COME MODIFICATO DAL D.L. 21 NOVEMBRE 2025, N. 175))
 
-###### ART. 24 - Semplificazione del procedimento autorizzativo e delle opere infrastrutturali funzionali alla produzione del biometano
+#### ART. 24 - Semplificazione del procedimento autorizzativo e delle opere infrastrutturali funzionali alla produzione del biometano
 
 1\. ((COMMA ABROGATO DAL D.LGS. 25 NOVEMBRE 2024, N. 190)). ((33))
 
@@ -1226,7 +1226,7 @@ AGGIORNAMENTO (33)
 
 Il D.Lgs. 25 novembre 2024, n. 190, ha disposto (con l'art. 15, comma 2) che "A far data dall'entrata in vigore del presente decreto ai sensi dell'articolo 17, le disposizioni di cui all'allegato D continuano ad applicarsi alle procedure in corso, fatta salva la facolta' del soggetto proponente di optare per l'applicazione delle disposizioni di cui al presente decreto. Ai fini di cui al primo periodo, per procedure in corso si intendono quelle abilitative o autorizzatorie per le quali la verifica di completezza della documentazione presentata a corredo del progetto risulti compiuta alla data di entrata in vigore del presente decreto".
 
-###### ART. 25 - Semplificazioni per l'installazione di impianti a fonti rinnovabili al servizio di edifici
+#### ART. 25 - Semplificazioni per l'installazione di impianti a fonti rinnovabili al servizio di edifici
 
 1\. COMMA ABROGATO DAL D.LGS. 25 NOVEMBRE 2024, N. 190. (33)
 
@@ -1254,9 +1254,9 @@ AGGIORNAMENTO (33)
 
 Il D.Lgs. 25 novembre 2024, n. 190, ha disposto (con l'art. 15, comma 2) che "A far data dall'entrata in vigore del presente decreto ai sensi dell'articolo 17, le disposizioni di cui all'allegato D continuano ad applicarsi alle procedure in corso, fatta salva la facolta' del soggetto proponente di optare per l'applicazione delle disposizioni di cui al presente decreto. Ai fini di cui al primo periodo, per procedure in corso si intendono quelle abilitative o autorizzatorie per le quali la verifica di completezza della documentazione presentata a corredo del progetto risulti compiuta alla data di entrata in vigore del presente decreto".
 
-## CAPO II - Regolamentazione tecnica e obblighi
+### CAPO II - Regolamentazione tecnica e obblighi
 
-###### ART. 26 - Obbligo di utilizzo dell'energia rinnovabile per il miglioramento della prestazione energetica degli edifici
+#### ART. 26 - Obbligo di utilizzo dell'energia rinnovabile per il miglioramento della prestazione energetica degli edifici
 
 1\. I progetti di edifici di nuova costruzione ed i progetti di ristrutturazioni rilevanti degli edifici esistenti ((e gli interventi di ristrutturazione di un impianto termico, ove tecnicamente, economicamente e funzionalmente fattibili)), per i quali la richiesta del titolo edilizio e' presentata decorsi centottanta giorni dalla data di entrata in vigore del presente decreto, prevedono l'utilizzo di fonti rinnovabili per la copertura dei consumi di calore, di elettricita' e per il raffrescamento secondo i principi minimi di integrazione di cui all'Allegato III del presente decreto.
 
@@ -1282,7 +1282,7 @@ Il D.Lgs. 25 novembre 2024, n. 190, ha disposto (con l'art. 15, comma 2) che "A 
 
 11\. Decorsi centottanta giorni dalla data di entrata in vigore del presente decreto, sono abrogati l'articolo 11 e l'Allegato 3 al decreto legislativo 3 marzo 2011, n. 28.
 
-###### ART. 27 - Obbligo di incremento dell'energia rinnovabile termica nelle forniture di energia
+#### ART. 27 - Obbligo di incremento dell'energia rinnovabile termica nelle forniture di energia
 
 1\. A decorrere dal 1° gennaio 2026, le societa' che effettuano vendita di energia termica sotto forma di calore per il riscaldamento e il raffrescamento a soggetti terzi per quantita' superiori a 500 TEP annui provvedono affinche' una quota dell'energia venduta sia rinnovabile.
 
@@ -1302,7 +1302,7 @@ e-ter) ((di esclusione dall'applicazione dell'obbligo dei contratti di servizio 
 
 2-bis. ((Il calore di cui all'articolo 2, comma 1, lettera h), include il calore eccedente la quota parte rinnovabile, proveniente dalle operazioni di recupero di cui al punto R1 dell'allegato C alla parte quarta del decreto legislativo 3 aprile 2006, n. 152.))
 
-###### ART. 28 - Accordi di compravendita di energia elettrica da fonti rinnovabili a lungo termine
+#### ART. 28 - Accordi di compravendita di energia elettrica da fonti rinnovabili a lungo termine
 
 1\. Entro centottanta giorni dalla data di entrata in vigore del presente decreto, il Gestore dei Mercati Energetici - GME S.p.A. (di seguito: GME), al fine di assicurare un avvio graduale delle contrattazioni di lungo termine di energia rinnovabile, realizza una bacheca informatica con lo scopo di promuovere l'incontro tra le parti potenzialmente interessate alla stipula di tali contratti. La bacheca, nel rispetto della normativa in materia di protezione dei dati personali, prevede l'obbligo di registrazione dei dati dei contratti che risultano necessari a garantire la massima diffusione degli esiti e il monitoraggio, anche ai fini della realizzazione del mercato organizzato di cui al comma 2.
 
@@ -1322,7 +1322,7 @@ L'utilizzo degli strumenti di gara di cui al primo periodo si aggiunge alle proc
 
 5-bis. I gestori delle infrastrutture ferroviarie possono stipulare accordi di compravendita di energia elettrica da fonti rinnovabili a lungo termine anche tramite gli strumenti definiti nel presente articolo.
 
-###### ART. 29 - Requisiti e specifiche tecniche
+#### ART. 29 - Requisiti e specifiche tecniche
 
 1\. Decorsi centottanta giorni dalla data di entrata in vigore del presente decreto, gli impianti di produzione di energia termica da fonti rinnovabili che richiedono incentivi, comunque denominati, rispettano i requisiti minimi di cui all'Allegato IV.
 
@@ -1346,7 +1346,7 @@ L'utilizzo degli strumenti di gara di cui al primo periodo si aggiunge alle proc
 
 > \- L'Allegato 2 al citato decreto legislativo n. 28 del 2011, reca: "Requisiti e specifiche tecniche degli impianti alimentati da fonti rinnovabili ai fini dell'accesso agli incentivi nazionali".
 
-###### ART. 29-bis
+#### ART. 29-bis
 
 (( (Accesso alle informazioni e ai dati delle batterie ad uso industriale, domestico e dei veicoli).))
 
@@ -1362,7 +1362,7 @@ b) ((i veicoli elettrici prodotti a partire dal dodicesimo mese successivo alla 
 
 ### CAPO I - Configurazioni di autoconsumo e comunità energetiche rinnovabili
 
-###### ART. 30 - Autoconsumatori di energia rinnovabile
+#### ART. 30 - Autoconsumatori di energia rinnovabile
 
 1\. Un cliente finale che diviene autoconsumatore di energia rinnovabile:
 
@@ -1394,7 +1394,7 @@ d) l'energia autoprodotta e' utilizzata prioritariamente per i fabbisogni degli 
 
 e) la partecipazione al gruppo di autoconsumatori di energia rinnovabile che agiscono collettivamente non puo' costituire l'attivita' commerciale e industriale principale delle imprese private.
 
-###### ART. 31 - Comunita' energetiche rinnovabili
+#### ART. 31 - Comunita' energetiche rinnovabili
 
 1\. I clienti finali, ivi inclusi i clienti domestici, hanno il diritto di organizzarsi in comunita' energetiche rinnovabili, purche' siano rispettati i seguenti requisiti:
 
@@ -1420,7 +1420,7 @@ e) i membri delle comunita' possono accedere agli incentivi di cui al Titolo II 
 
 f) nel rispetto delle finalita' di cui al comma 1, lettera a), la comunita' puo' produrre altre forme di energia da fonti rinnovabili finalizzate all'utilizzo da parte dei membri, puo' promuovere interventi integrati di domotica, interventi di efficienza energetica, nonche' offrire servizi di ricarica dei veicoli elettrici ai propri membri e assumere il ruolo di societa' di vendita al dettaglio e puo' offrire servizi ancillari e di flessibilita'.
 
-###### ART. 32 - Modalita' di interazione con il sistema energetico
+#### ART. 32 - Modalita' di interazione con il sistema energetico
 
 1\. I clienti finali organizzati in una delle configurazioni di cui agli articoli 30 e 31:
 
@@ -1446,7 +1446,7 @@ e) adotta le disposizioni necessarie affinche' per le isole minori non interconn
 
 4\. Fino all'adozione dei provvedimenti di cui al comma 3, continuano ad applicarsi le disposizioni adottate in attuazione dell'articolo 42-bis, comma 8, del decreto-legge 30 dicembre 2019, n. 162, convertito, con modificazioni, dalla legge 28 febbraio 2020, n. 8.
 
-###### ART. 33 - Monitoraggio e analisi di sistema
+#### ART. 33 - Monitoraggio e analisi di sistema
 
 1\. Ai fini di garantire un sistema di monitoraggio delle configurazioni realizzate in attuazione del presente Capo, anche in continuita' con le attivita' avviate in attuazione dell'articolo 42-bis del decreto-legge 30 dicembre 2019, n. 162 convertito, con modificazioni, dalla legge 28 febbraio 2020, n. 8:
 
@@ -1458,9 +1458,9 @@ b) la Societa' Ricerca sul sistema energetico - RSE S.p.A. (di seguito: RSE), an
 
 ((2-bis. Per finalita' di pianificazione energetica a livello comunale, i comuni possono richiedere alla societa' Acquirente Unico S.p.A. la prestazione di servizi informativi sulla base dei dati disponibili nel Sistema informatico integrato di cui all'articolo 1-bis del decreto-legge 8 luglio 2010, n. 105, convertito, con modificazioni, dalla legge 13 agosto 2010, n. 129, secondo modalita' disciplinate mediante la stipulazione di appositi protocolli di intesa, previo parere del Garante per la protezione dei dati personali. Nella prestazione dei servizi informativi di cui al primo periodo, la societa' Acquirente Unico S.p.A. assicura l'anonimizzazione dei dati e la fornitura dei medesimi in forma aggregata. Dall'attuazione delle disposizioni del presente comma non devono derivare nuovi o maggiori oneri per la finanza pubblica. Le amministrazioni competenti provvedono ai relativi adempimenti con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.))
 
-## CAPO II - Reti di teleriscaldamento
+### CAPO II - Reti di teleriscaldamento
 
-###### ART. 34 - Sistemi di teleriscaldamento e teleraffrescamento
+#### ART. 34 - Sistemi di teleriscaldamento e teleraffrescamento
 
 1\. Entro il 30 giugno di ogni anno il GSE qualifica i sistemi di teleriscaldamento e teleraffrescamento efficienti che rispettano i requisiti di cui all'articolo 2, comma 2, lettera tt) del decreto legislativo 4 luglio 2014, n. 102, con riferimento all'anno solare precedente. A tal fine, i gestori del servizio di teleriscaldamento o teleraffrescamento, su base volontaria, presentano apposita richiesta, nei tempi e nei modi resi disponibili dal GSE entro sessanta giorni dalla data di entrata in vigore del presente decreto.
 
@@ -1512,9 +1512,9 @@ b) la Societa' Ricerca sul sistema energetico - RSE S.p.A. (di seguito: RSE), an
 
 > (omissis).".
 
-## CAPO III - Reti elettriche, gas e reti idrogeno
+### CAPO III - Reti elettriche, gas e reti idrogeno
 
-###### ART. 35 - Accelerazione nello sviluppo della rete elettrica
+#### ART. 35 - Accelerazione nello sviluppo della rete elettrica
 
 1\. A decorrere dalla data di entrata in vigore del presente decreto, al fine di garantire un'accelerazione nel potenziamento della rete elettrica per accogliere le quote di produzione crescenti da fonti rinnovabili necessarie per il raggiungimento degli obiettivi di cui all'articolo 3:
 
@@ -1538,7 +1538,7 @@ d) Terna S.p.A., tenuto conto di quanto previsto alla lettera a), nonche' dei pr
 
 > (omissis).".
 
-###### ART. 36 - Regolamentazione del sistema di misura dell'energia elettrica da fonti rinnovabili per l'attribuzione degli incentivi
+#### ART. 36 - Regolamentazione del sistema di misura dell'energia elettrica da fonti rinnovabili per l'attribuzione degli incentivi
 
 1\. Al fine di fornire maggiore certezza nella determinazione dei flussi economici correlati ai regimi di sostegno nel settore elettrico con uno o piu' provvedimenti dell'ARERA, sono individuate le modalita' con le quali il GSE eroga gli incentivi nel settore elettrico, prevedendo in particolare:
 
@@ -1560,7 +1560,7 @@ g) le modalita' con le quali i dati delle misure di produzione e immissione degl
 
 3\. Nelle more dell'adozione degli atti e dei provvedimenti di cui al comma 1 del presente articolo, il GSE continua a erogare gli incentivi nel settore elettrico secondo la disciplina previgente.
 
-###### ART. 37 - Ottimizzazione interconnessioni alla rete gas
+#### ART. 37 - Ottimizzazione interconnessioni alla rete gas
 
 1\. Il decreto del Ministro dello sviluppo economico 27 febbraio 2013, recante "Regolamento, di cui all'articolo 16, comma 1 del decreto legislativo 1° giugno 2011, n. 93, per la redazione del Piano decennale di sviluppo delle reti di trasporto di gas naturale", pubblicato nella Gazzetta Ufficiale n. 134 del 10 giugno 2013, e' integrato per quanto riguarda le produzioni stimate relative agli impianti di biometano. Entro trenta giorni dalla data di entrata in vigore del presente decreto, l'ARERA definisce i criteri in base ai quali l'impresa maggiore di trasporto formula una procedura per l'integrazione delle informazioni e delle soluzioni atte a ottimizzare le connessioni di detti impianti di biometano sulla rete del gas compresa le reti di distribuzione.
 
@@ -1570,7 +1570,7 @@ g) le modalita' con le quali i dati delle misure di produzione e immissione degl
 
 > \- Il decreto del Ministro dello sviluppo economico 27 febbraio 2013 (Regolamento, di cui all'articolo 16, comma 1 del decreto legislativo 1° giugno 2011, n. 93, per la redazione del Piano decennale di sviluppo delle reti di trasporto di gas naturale) e' pubblicato nella G.U.R.I. 10 giugno 2013, n. 134.
 
-###### ART. 38
+#### ART. 38
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 NOVEMBRE 2024, N. 190)) ((33))
 
@@ -1580,17 +1580,11 @@ AGGIORNAMENTO (33)
 
 Il D.Lgs. 25 novembre 2024, n. 190, ha disposto (con l'art. 15, comma 2) che "A far data dall'entrata in vigore del presente decreto ai sensi dell'articolo 17, le disposizioni di cui all'allegato D continuano ad applicarsi alle procedure in corso, fatta salva la facolta' del soggetto proponente di optare per l'applicazione delle disposizioni di cui al presente decreto. Ai fini di cui al primo periodo, per procedure in corso si intendono quelle abilitative o autorizzatorie per le quali la verifica di completezza della documentazione presentata a corredo del progetto risulti compiuta alla data di entrata in vigore del presente decreto".
 
-## TITOLO V - ((Energia rinnovabile nei trasporti e
+## TITOLO V - ((Energia rinnovabile nei trasporti e criteri di sostenibilità e di riduzione delle emissioni per biocarburanti, bioliquidi, combustibili da biomassa, combustibili rinnovabili di origine non biologica e carburanti da carbonio riciclato))
 
-### criteri di sostenibilità e di riduzione delle emissioni - per biocarburanti, bioliquidi, combustibili
+### CAPO I - Energia da fonti rinnovabili nel settore dei trasporti
 
-#### da biomassa, combustibili rinnovabili - di origine non biologica e carburanti
-
-##### da carbonio riciclato)) - CAPO I
-
-###### Energia da fonti rinnovabili nel settore dei trasporti
-
-###### ART. 39 - Utilizzo dell'energia da fonti rinnovabili nel settore dei trasporti
+#### ART. 39 - Utilizzo dell'energia da fonti rinnovabili nel settore dei trasporti
 
 1\. ((Al fine di promuovere la produzione di energia da fonti rinnovabili nel settore dei trasporti, i fornitori di combustibili destinati al settore medesimo, ivi inclusa l'energia elettrica, sono obbligati a conseguire, entro il 2030, una quota almeno pari al 29 per cento di fonti rinnovabili sul consumo finale di energia nel settore dei trasporti, calcolata sulla base del contenuto energetico.
 
@@ -1722,7 +1716,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 27 dicembre 2024, n. 202, convertito con modificazioni dalla L. 21 febbraio 2025, n. 15, ha disposto (con l'art. 11, comma 2-ter) che "Gli obblighi di immissione in consumo di cui all'articolo 39 del decreto legislativo 8 novembre 2021, n. 199, per i fornitori di metano e di biometano ovvero di biogas per trasporti immessi in consumo per il trasporto stradale e ferroviario si applicano a decorrere dal 1° gennaio 2026".
 
-###### ART. 40 - Norme specifiche per i biocarburanti, i bioliquidi e i combustibili da biomassa ottenuti da colture alimentari e foraggere
+#### ART. 40 - Norme specifiche per i biocarburanti, i bioliquidi e i combustibili da biomassa ottenuti da colture alimentari e foraggere
 
 1\. Ai fini del raggiungimento dell'obiettivo di cui all'articolo 3 e ((degli obblighi)) dell'articolo 39 ((...)):
 
@@ -1754,7 +1748,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 27 dicembre 2024, n. 202, convertito con modificazioni dalla L. 21 febbraio 2025, n. 15, ha disposto (con l'art. 11, comma 2-ter) che "Il termine del 1° gennaio 2025 di cui all'articolo 40, comma 1, lettera c), del decreto legislativo 8 novembre 2021, n. 199, e' prorogato, limitatamente ai fasci di frutti di olio di palma vuoti e agli acidi grassi derivanti dal trattamento dei frutti di palma da olio (PFAD), al 1° gennaio 2026".
 
-###### ART. 41 - Altre disposizioni nel settore del trasporto
+#### ART. 41 - Altre disposizioni nel settore del trasporto
 
 1\. ((COMMA ABROGATO DAL D.LGS. 9 GENNAIO 2026, N. 5)).
 
@@ -1762,13 +1756,9 @@ Il D.L. 27 dicembre 2024, n. 202, convertito con modificazioni dalla L. 21 febbr
 
 3\. Il Ministero della transizione ecologica, anche su indicazione del Comitato di cui all'articolo 39, comma 11 segnala alle autorita' competenti di altri Stati membri dell'Unione europea eventuali comportamenti fraudolenti con riferimento al rispetto degli obblighi di cui all'articolo 39 e dei criteri di cui all'articolo 42.
 
-## CAPO II - ((Criteri di sostenibilità e
+### CAPO II - ((Criteri di sostenibilità e di riduzione delle emissioni di gas a effetto serra per i biocarburanti, i bioliquidi e i combustibili da biomassa))
 
-### di riduzione delle emissioni di gas - a effetto serra per i biocarburanti,
-
-#### i bioliquidi e i combustibili da biomassa))
-
-###### ART. 42 - Criteri di sostenibilita' e di riduzione delle emissioni di gas a effetto serra per i biocarburanti, i bioliquidi e i combustibili da biomassa
+#### ART. 42 - Criteri di sostenibilita' e di riduzione delle emissioni di gas a effetto serra per i biocarburanti, i bioliquidi e i combustibili da biomassa
 
 1\. Al fine di contribuire ((al raggiungimento degli)) obiettivi di cui all'articolo 3 e ((del soddisfacimento degli obblighi di cui)) all'articolo 39, nonche' per beneficiare di regimi sostegno, i biocarburanti, i bioliquidi e i combustibili da biomassa, indipendentemente dall'origine geografica della biomassa, sono presi in considerazione solo se rispettano:
 
@@ -1940,7 +1930,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 27 dicembre 2024, n. 202, convertito con modificazioni dalla L. 21 febbraio 2025, n. 15, ha disposto (con l'art. 11. comma 2-sexies) che "Le modalita' di attestazione del rispetto dei criteri di sostenibilita' di cui all'articolo 42, commi da 6 a 11, del decreto legislativo 8 novembre 2021, n. 199, da parte dei produttori di energia elettrica e calore da combustibili da biomassa, escluso il biometano, ai sensi dell'articolo 21 del decreto del Ministro dell'ambiente e della sicurezza energetica 7 agosto 2024, pubblicato nella Gazzetta Ufficiale n. 199 del 26 agosto 2024, sono prorogate sino al 31 dicembre 2025 per i produttori che entro il 31 maggio 2025 abbiano accettato il preventivo per la certificazione della sostenibilita' da parte di un organismo accreditato secondo il Sistema nazionale di certificazione della sostenibilita' oppure operante presso un sistema volontario di certificazione riconosciuto dalla Commissione dell'Unione europea, fatta salva la possibilita' di concludere l'iter della certificazione, per il solo comparto delle biomasse solide, entro il 30 giugno 2026. A tal fine gli organismi di certificazione informano il Ministero dell'ambiente e della sicurezza energetica delle richieste ricevute".
 
-###### ART. 42-bis
+#### ART. 42-bis
 
 (( (Criteri di riduzione delle emissioni di gas ad effetto serra per i combustibili rinnovabili di origine non biologica e per i carburanti da carbonio riciclato).))
 
@@ -1950,7 +1940,7 @@ Il D.L. 27 dicembre 2024, n. 202, convertito con modificazioni dalla L. 21 febbr
 
 3\. ((I commi 1 e 2 si applicano a prescindere dal fatto che i combustibili rinnovabili di origine non biologica e i carburanti da carbonio riciclato siano stati prodotti o importati nell'Unione.))
 
-###### ART. 43 - Verifica della conformita' con i criteri di sostenibilita' e di riduzione delle emissioni di gas a effetto serra
+#### ART. 43 - Verifica della conformita' con i criteri di sostenibilita' e di riduzione delle emissioni di gas a effetto serra
 
 1\. Per garantire il rispetto di quanto previsto agli articoli ((3,)) 39 e 42, e' certificata ogni partita di biocarburanti, bioliquidi, combustibili da biomassa, ((combustibili rinnovabili)) di origine non biologica, carburanti ((...)) da carbonio riciclato. A tal fine, tutti gli operatori economici appartenenti alla filiera di produzione aderiscono al Sistema nazionale di certificazione della sostenibilita' ovvero a un sistema volontario di certificazione ((, che dimostri che sono stati rispettati i criteri di sostenibilita' e di riduzione delle emissioni di gas a effetto serra, conformemente all'atto di esecuzione adottato a norma dell'articolo 30, paragrafo 8, della direttiva (UE) 2023/2413 del Parlamento europeo e del Consiglio, del 18 ottobre 2023)).
 
@@ -2008,7 +1998,7 @@ c) non e' ammessa la miscelazione tra materie prime finalizzate alla produzione 
 
 10-ter. ((Fermi restando gli obblighi derivanti dal sistema EU ETS di cui alla direttiva 2003/87/CE del Parlamento europeo e del Consiglio del 13 ottobre 2003 e nel rispetto della normativa dell'Unione europea in materia di monitoraggio e rendicontazione delle emissioni, per i combustibili da biomassa derivanti da rifiuti nonche' per il combustibile solido secondario che abbia cessato la qualifica di rifiuto ai sensi del decreto del Ministro dell'ambiente e della tutela del territorio e del mare 14 febbraio 2013, n. 22, utilizzati nei forni per la produzione del clinker esclusivamente quale apporto termico al relativo processo produttivo e non destinati alla produzione di energia elettrica o termica da immettere in rete, non si applica l'obbligo di dimostrare il risparmio di emissioni di gas a effetto serra di cui all'articolo 42, comma 12, ne' la relativa verifica ai fini dell'articolo 43.))
 
-###### ART. 44 - Calcolo dell'impatto dei gas a effetto serra dei biocarburanti, dei bioliquidi e dei combustibili da biomassa
+#### ART. 44 - Calcolo dell'impatto dei gas a effetto serra dei biocarburanti, dei bioliquidi e dei combustibili da biomassa
 
 1\. La riduzione delle emissioni di gas a effetto serra derivanti dall'uso di biocarburanti, di bioliquidi e di combustibili da biomassa ai fini dell'articolo 42, comma 11, e' calcolata in uno dei modi seguenti:
 
@@ -2026,9 +2016,9 @@ d) si utilizza un valore risultante dalla somma dei fattori delle formule di cui
 
 > \- Il regolamento (CE) n. 1059/2003 del Parlamento europeo e del Consiglio del 26 maggio 2003 (relativo all'istituzione di una classificazione comune delle unita' territoriali per la statistica - NUTS) e' pubblicato nella G.U.U.E. 21 giugno 2003, n. L 154.
 
-## CAPO III - Disposizioni in materia di mobilità elettrica
+### CAPO III - Disposizioni in materia di mobilità elettrica
 
-###### ART. 45 - Semplificazioni in materia di autorizzazione delle infrastrutture di ricarica
+#### ART. 45 - Semplificazioni in materia di autorizzazione delle infrastrutture di ricarica
 
 1\. Al fine di promuovere l'installazione di punti di ricarica dei veicoli elettrici, favorendo la semplificazione delle procedure autorizzative, all'articolo 57 del decreto-legge 16 luglio 2020, n. 76, convertito, con modificazioni, dalla legge 11 settembre 2020, n. 120 sono apportate le seguenti modificazioni:
 
@@ -2070,17 +2060,15 @@ e-quater): stazione di ricarica: area adibita al servizio di ricarica di veicoli
 
 3\. Con decreto da adottarsi entro novanta giorni dalla data di entrata in vigore del presente decreto, il Ministro della transizione ecologica provvede a dare piena operativita' alla Piattaforma unica nazionale, ((definendo altresi' le relative modalita' di alimentazione,)) anche avvalendosi del supporto tecnico-operativo di GSE e RSE. La Piattaforma di cui al primo periodo, per la cui realizzazione sono utilizzate le risorse ((di cui all'articolo 1, comma 95, della legge 30 dicembre 2018, n. 145)), garantisce le funzionalita' necessarie all'attuazione delle disposizioni di cui al presente articolo.
 
-###### ART. 45-bis - Funzionalita' di ricarica intelligente
+#### ART. 45-bis - Funzionalita' di ricarica intelligente
 
 1\. A partire dal ((1° gennaio 2027)), al fine di garantire funzionalita' di ricarica intelligente e di comunicazione diretta con i sistemi di misurazione intelligenti, tutti i punti di ricarica di potenza standard, nuovi e sostituiti, non accessibili al pubblico, installati sul territorio nazionale, sono certificati ai sensi dell'allegato X alla norma tecnica CEI 021.
 
-## TITOLO VI - ((Informazione, formazione, garanzie
+## TITOLO VI - ((Informazione, formazione, garanzie di origine e tracciabilità))
 
-### di origine e tracciabilità)) - Capo I
+### Capo I - Informazione, formazione e garanzie d'origine
 
-#### Informazione, formazione e garanzie d'origine
-
-###### ART. 46 - Garanzie di origine
+#### ART. 46 - Garanzie di origine
 
 1\. La garanzia di origine ha il solo scopo di dimostrare ai clienti finali la quantita' di energia da fonti rinnovabili nel mix energetico di un fornitore di energia nonche' quella fornita ai consumatori in base a contratti di energia prodotta da fonti rinnovabili.
 
@@ -2144,7 +2132,7 @@ c) definite le modalita' con le quali e' verificata la precisione, affidabilita'
 
 10\. A decorrere dalla data di entrata in vigore del provvedimento di cui al comma 1 e' abrogato l'articolo 34 del decreto legislativo n. 28 del 2011.
 
-###### ART. 47 - Sistemi di qualificazione degli installatori e soggetti abilitati all'attestazione della prestazione energetica degli edifici
+#### ART. 47 - Sistemi di qualificazione degli installatori e soggetti abilitati all'attestazione della prestazione energetica degli edifici
 
 1\. All'articolo 15 del decreto legislativo 3 marzo 2011 n. 28, il comma 1 e' sostituito dai seguenti:
 
@@ -2210,7 +2198,7 @@ periodo di formazione alle dirette dipendenze di una impresa del settore e' indi
 
 > (omissis).».
 
-###### ART. 47-bis
+#### ART. 47-bis
 
 (( (Banca dati dell'Unione europea di cui all'articolo 31-bis della direttiva (UE) 2018/2001 del Parlamento europeo e del Consiglio dell'11 dicembre 2018).))
 
@@ -2252,7 +2240,7 @@ d) ((la pubblicazione periodica dell'andamento del mercato dei biocarburanti imm
 
 ### CAPO I - Monitoraggio, relazioni e controlli
 
-###### ART. 48 - Monitoraggio PNIEC, Sistema Statistico Nazionale, Relazioni
+#### ART. 48 - Monitoraggio PNIEC, Sistema Statistico Nazionale, Relazioni
 
 1\. Il GSE, tenuto conto delle norme stabilite in ambito SISTAN e EUROSTAT, aggiorna e integra la produzione statistica in materia di energia nell'ambito del Sistema Statistico Nazionale, perseguendo le seguenti finalita':
 
@@ -2304,13 +2292,13 @@ f-bis) ((fornire un quadro:
 
 10\. A decorrere dalla data di entrata in vigore del presente decreto, l'articolo 40 del decreto legislativo 3 marzo 2011, n. 28, e' abrogato.
 
-## CAPO II - Disposizioni finali
+### CAPO II - Disposizioni finali
 
-###### ART. 49 - Disposizioni specifiche per le Regioni a statuto speciale e per le Province autonome di Trento e Bolzano
+#### ART. 49 - Disposizioni specifiche per le Regioni a statuto speciale e per le Province autonome di Trento e Bolzano
 
 1\. Sono fatte salve le competenze delle Regioni a statuto speciale e delle Province autonome di Trento e di Bolzano, che provvedono alle finalita' del presente decreto ai sensi dei rispettivi statuti speciali e delle relative norme di attuazione.
 
-###### ART. 50 - Disposizioni finali e clausola di invarianza finanziaria
+#### ART. 50 - Disposizioni finali e clausola di invarianza finanziaria
 
 1\. L'allegato VIII, che costituisce parte integrante del presente decreto, e' modificato per il recepimento degli aggiornamenti all'allegato IX della direttiva (UE) 2018/2001 con decreto del Ministro della transizione ecologica. I restanti allegati sono aggiornati con le modalita' ordinarie di cui all'articolo 36, comma 1, della legge 24 dicembre 2012, n. 234.
 
@@ -2352,7 +2340,7 @@ Visto, Il Guardasigilli: Cartabia
 
 ## Allegati
 
-###### Allegato I
+#### Allegato I
 
 INDICE ALLEGATI
 
@@ -2502,7 +2490,7 @@ AGGIORNAMENTO (45)
 
 Il D.Lgs. 9 gennaio 2026, n. 5, ha disposto (con l'art. 28, comma 1, lettera a)) che "al punto 10. [...] le parole: «liquidi gassosi da fonti» sono soppresse".
 
-###### Allegato II
+#### Allegato II
 
 ALLEGATO II - Disposizioni per la semplificazione delle procedure per l'installazione di impianti per le fonti rinnovabili e l'efficienza energetica negli edifici
 
@@ -2514,7 +2502,7 @@ AGGIORNAMENTO (33)
 
 Il D.Lgs. 25 novembre 2024, n. 190, ha disposto (con l'art. 15, comma 2) che "A far data dall'entrata in vigore del presente decreto ai sensi dell'articolo 17, le disposizioni di cui all'allegato D continuano ad applicarsi alle procedure in corso, fatta salva la facolta' del soggetto proponente di optare per l'applicazione delle disposizioni di cui al presente decreto. Ai fini di cui al primo periodo, per procedure in corso si intendono quelle abilitative o autorizzatorie per le quali la verifica di completezza della documentazione presentata a corredo del progetto risulti compiuta alla data di entrata in vigore del presente decreto".
 
-###### Allegato III
+#### Allegato III
 
 ALLEGATO III - ((Obblighi di integrazione delle fonti rinnovabili negli edifici)).
 
@@ -2607,7 +2595,7 @@ Tabella 1 - Efficienza sull'utilizzo dell'energia primaria non rinnovabile dei s
 
 3\. Fermo restando il punto 2, le dichiarazioni e i dati riportati nella relazione di cui al punto 1 possono essere oggetto di controlli da parte dei Comuni nonche' di ulteriori controlli stabiliti nei provvedimenti adottati dalle Regioni ai sensi dell'articolo 26, comma 7, del presente decreto.
 
-###### Allegato IV
+#### Allegato IV
 
 ALLEGATO IV - Requisiti minimi per gli impianti a fonti rinnovabili per il riscaldamento e il raffrescamento
 
@@ -2835,7 +2823,7 @@ Tutta l'energia termica prodotta dovra' essere utilizzata per soddisfare la rich
 
 ((L'ammissione agli incentivi e' subordinata alla trasmissione della certificazione del produttore dell'unita' di microcogenerazione che attesti il rispetto dei requisiti sopra richiamati e dell'asseverazione contenente la stima del PES calcolato sulla base dei carichi termici ed elettrici. Per gli interventi di sostituzione di impianti di climatizzazione invernale con impianti utilizzanti microcogeneratori e' ammissibile anche la sostituzione funzionale, intesa come intervento di installazione di un nuovo generatore presso un impianto termico esistente, al fine di provvedere ad alimentare le medesime utenze del generatore precedentemente installato, senza provvedere ad effettuarne la rimozione.)).
 
-###### Allegato V
+#### Allegato V
 
 ALLEGATO V - CONTENUTO ENERGETICO DEI COMBUSTIBILI
 
@@ -2853,7 +2841,7 @@ a) alla seconda colonna, le parole: «36 (di cui il 37 % da fonti rinnovabili)»
 
 b) alla terza colonna, le parole: «27 (di cui il 37 % da fonti rinnovabili)» sono sostituite dalle seguenti: «27 (di cui il 33 % da fonti rinnovabili)»".
 
-###### Allegato VI
+#### Allegato VI
 
 ALLEGATO VI - REGOLE PER IL CALCOLO DELL'IMPATTO DEI GAS A EFFETTO SERRA DEI BIOCARBURANTI, DEI BIOLIQUIDI E DEI CARBURANTI FOSSILI DI RIFERIMENTO
 
@@ -2903,7 +2891,7 @@ L'intensita' delle emissioni di gas a effetto serra dell'energia elettrica o del
 
 Nel caso di combustibili da biomassa prodotti in raffinerie, diversi dalla combinazione degli impianti di trasformazione con caldaie o unita' di cogenerazione che forniscono calore e/o energia elettrica all'impianto di trasformazione, l'unita' di analisi ai fini del calcolo e' la raffineria.»".
 
-###### Allegato VII
+#### Allegato VII
 
 ALLEGATO VII - REGOLE PER IL CALCOLO DELL'IMPATTO DEI GAS A EFFETTO SERRA DEI COMBUSTIBILI DA BIOMASSA E I RELATIVI COMBUSTIBILI FOSSILI DI RIFERIMENTO
 
@@ -2959,7 +2947,7 @@ processo di produzione nella quale il co-prodotto e' fabbricato. Se sono state a
 
 Nel caso di combustibili da biomassa prodotti in raffinerie, diversi dalla combinazione degli impianti di trasformazione con caldaie o unita' di cogenerazione che forniscono calore e/o energia elettrica all'impianto di trasformazione, l'unita' di analisi ai fini del calcolo e' la raffineria.»".
 
-###### Allegato VIII
+#### Allegato VIII
 
 Allegato VIII del decreto legislativo 8 novembre 2021, n. 199
 

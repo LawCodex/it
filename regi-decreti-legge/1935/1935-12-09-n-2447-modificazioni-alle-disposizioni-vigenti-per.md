@@ -64,7 +64,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 
 Abbiamo decretato e decretiamo:
 
-### Art. 1
+## Art. 1
 
 Al Codice penale per l'esercito e al Codice penale militare marittimo sono apportate le seguenti modificazioni:
 
@@ -172,45 +172,45 @@ Nel caso preveduto dal precedente comma, la sentenza contumaciale e l'ordinanza 
 
 «Nel caso preveduto dal precedente capoverso, contro la sentenza contumaciale puo' proporsi ricorso per nullita' al tribunale supremo militare, ma, trascorso il termine stabilito senza che il ricorso sia presentato, ovvero se il ricorso e' dichiarato inammissibile o e' respinto, la sentenza diviene esecutiva ad ogni effetto».
 
-### Art. 2
+## Art. 2
 
 Le disposizioni dell'art. 57 del Codice penale per l'esercito e dell'art. 57 del Codice penale militare marittimo, in quanto modificano la pena nel caso di vizio parziale di mento, si applicano quando, per effetto della infermita', la imputabilita' e' grandemente scemata.
 
-### Art. 3
+## Art. 3
 
 I valori espressi in lire nel Codice penale per l'esercito e nel Codice penale militare marittimo, per farne dipendere, relativamente ai reati in essi preveduti, in esistenza di circostanze aggravanti o diminuenti o altro conseguenze giuridiche, sono spettivamente elevati da cinque a dieci, da dieci a venti, da cinquanta a duecento, da cinquecento a duemila, da cinquemila a ventimila.
 
-### Art. 4
+## Art. 4
 
 Il militare che, al fine di commettere alcuno dei reati preveduti dagli articoli 174 e 174-bis del Codice penale per l'esercito e 196 e 196-bis del Codice penale militare marittimo, si procura mezzi idonei a conseguire lo scopo, e' punito con le pene ivi preveduto, diminuite di quattro gradi.
 
 La stessa pena si applica a chiunque abbia procurato i mezzi idonei allo scopo suindicato. Tuttavia, se il fatto e' commesso a fine di lucro, la diminuzione e' soltanto da due a tre gradi.
 
-### Art. 5
+## Art. 5
 
 Le disposizioni degli articoli 174 e 174-septies del Codice penale per l'esercito e 196 a 196-septies dal Codice penale militare marittimo e quelle del precedente articolo 4 si applicano anche agli iscritti di leva, che commettono, e ai pubblici ufficiali o agli esercenti una professione sanitaria, che concorrono con essi a commettere alcuno dei reati ivi preveduti, diminuite, per gli inscritti di leva, le pene da uno a tre gradi, e sostituite le pene stesse a termini degli articoli 29 del Codice penale per l'esercito e 31 del Codice penale militare marittimo per le persone estranee alle Forze armate dello Stato.
 
 Sono abrogate, in quanto contrarie alle disposizioni degli articoli suindicati, le disposizioni degli articoli 187 e 188 del testo unico delle leggi sul reclutamento del Regio esercito, approvato con R. decreto 8 settembre 1932-X, n. 1332, e successive modificazioni, e degli articoli 100 e 101 del testo unico delle disposizioni legislative riguardanti la leva marittima, approvato con R. decreto 28 luglio 1932-X, n. 1365.
 
-### Art. 6
+## Art. 6
 
 I reati preveduti dagli articoli 174 a 174-septies del Codice penale per l'esercito, 196 a 196-septies del Codice penale militare marittimo e dagli articoli 4 e 5 del presente decreto spettano alla competenza del giudice militare, da chiunque siano commessi.
 
-### Art. 7
+## Art. 7
 
 Il militare appartenente o che venga destinato a reparti mobilitati, che incorre nel reato di diserzione, sola o congiunta al reato di alienazione di effetti militari, ovvero nei reati di simulazione di malattia o di mutilazione volontaria da cui non derivi inabilita' permanente al servizio militare, e' avviato, dopo l'interrogatorio da parte del magistrato competente, ai reparti stessi, e il procedimento penale a suo carico resta sospeso fino a che egli presta servizio presso reparti mobilitati.
 
-### Art. 8
+## Art. 8
 
 La esecuzione delle pene detentive non superiori a sette anni e della pena della sospensione dall'impiego, inflitte dal giudice militare, per reati preveduti dalla legge penale militare, a militari appartenenti o che vengano destinati a un corpo di operazione o di spedizione militare, puo' essere differita o sospesa con decreto del pubblico ministero competente per l'esecuzione.
 
 Il provvedimento cessa di avere effetto, se vengono meno le ragioni che determinarono il differimento o la sospensione: e puo', in ogni momento, essere revocato di ufficio o su proposta del comandante militare competente.
 
-### Art. 9
+## Art. 9
 
 Il militare condannato alla destituzione o alla degradazione con sentenza, per la quale l'esecuzione della pena detentiva e' stata sospesa a termini dell'articolo precedente, continua, per tutto il tempo della sospensione, a prestare servizio militare, e, se trattasi di militare rivestito di un grado, la destituzione e la degradazione importano, per questo periodo, solo gli effetti delle pene di cui all'articolo 4, nn. 4 e 5, e all'art. 6 del Codice penale per l'esercito e di cui all'art. 4, nn. 4 e 5, e all'art. 5 del Codice penale militare marittimo.
 
-### Art. 10
+## Art. 10
 
 I procedimenti penali per reati preveduti dalla legge penale militare e punibili con pena detentiva non superiore nel massimo a dieci anni, a carico di militari appartenenti o che vengano destinati a un corpo di operazione o di spedizione militare, possono essere sospesi di ufficio o su richiesta del pubblico ministero, con ordinanza del giudice, non soggetta ad impugnazione.
 
@@ -220,17 +220,17 @@ Le stesse disposizioni si applicano nei riguardi del militare che trovasi nelle 
 
 Nei casi preveduti ((dall'art. 7, nonche')) dalla prima parte e dal secondo capoverso del presente articolo, il corso della prescrizione del reato rimane sospeso fino a che non cessi di aver effetto il provvedimento di sospensione.
 
-### Art. 11
+## Art. 11
 
 Durante il servizio alle armi e' sospesa la esecuzione delle misure di sicurezza, tranne che si tratti del ricovero in una Casa di cura o di custodia, in un manicomio giudiziario o in un riformatorio giudiziario, o della confisca.
 
 La sospensione e' ordinata con provvedimento del giudice di sorveglianza.
 
-### Art. 12
+## Art. 12
 
 Le disposizioni degli articoli 1, 2, 3, 4 e 5 del R. decreto-legge 24 ottobre 1935-XIII, n. 1893, sono estese ai procedimenti, per reati comuni, di competenza del giudice militare; fermo restando, per quanto riflette le colonie, il disposto dell'art. 11 dello stesso Regio decreto-legge.
 
-### Art. 13
+## Art. 13
 
 Il primo capoverso dell'art. 28 e il primo capoverso dell'art. 30 del decreto Luogotenenziale 3 gennaio 1918, n. 2, sono cosi modificati:
 
@@ -242,11 +242,11 @@ Il presidente, se per gravi motivi ritiene di rinviare l'udienza di discussione,
 
 «In ogni caso i motivi di ricorso devono essere esposti specificatamente a pena d'inammissibilita'».
 
-### Art. 14
+## Art. 14
 
 Le disposizioni dell'art. 27 e degli articoli 28 e 30, modificati dall'articolo precedente, del decreto Luogotenenziale 3 gennaio 1918, n. 2, si applicano anche ai giudizi innanzi ai tribunali militari marittimi, sostituiti agli articoli 438, 490, 491 e 534 del codice penale per l'esercito, ivi richiamati, i corrispondenti articoli 484, 535, 536 e 563 del codice penale militare marittimo.
 
-### Art. 15
+## Art. 15
 
 Al R. decreto 30 dicembre 1923-II, n. 2903, contenente le norme di attuazione del R. decreto 19 ottobre 1923-I, n. 2316, e nuove disposizioni sull'ordinamento giudiziario militare, sono apportate le seguenti modificazioni:
 
@@ -290,11 +290,11 @@ La commissione procede alla classifica dei concorrenti dichiarati idonei secondo
 
 6\. - Nel secondo comma dello stesso art. 32, fra le parole «dopo due anni di permanenza nel grado» e le parole «la commissione dovra'», sono aggiunte le parole «e successivamente dopo ciascun triennio».
 
-### Art. 16
+## Art. 16
 
 Presso gli uffici giudiziari militari, il presidente e' capo del collegio giudicante e da lui dipendono i giudici militari, per quanto si attiene alle loro funzioni giudiziarie, e il personale militare addetto all'ufficio di presidenza.
 
-### Art. 17
+## Art. 17
 
 Al R. decreto-legge 26 gennaio 1931-IX, n. 122, sul nuovo ordinamento della giustizia militare, convertito in legge con la legge 18 giugno 1931-IX, n. 919, sono apportate le seguenti modificazioni:
 
@@ -310,13 +310,13 @@ Al R. decreto-legge 26 gennaio 1931-IX, n. 122, sul nuovo ordinamento della gius
 
 6\. - In calce alla tabella C - II - gruppo B, annessa al R. decreto-legge 26 gennaio 1931-IX, n. 122, e' apposta la seguente annotazione: «Ad uno dei nove cancellieri capi di tribunale militare sono attribuite le funzioni di vice cancelliere capo del tribunale supremo militare con determinazione del Ministro per la guerra, su proposta del Regio avvocato generale militare».
 
-### Art. 18
+## Art. 18
 
 Nei procedimenti dinanzi ai tribunali militari territoriali e marittimi si osservano, in quanto sono applicabili, le disposizioni degli articoli 198, 232, 264, 265, 296 e 431 del codice di procedura penale, sostituito al procuratore del Re il Regio avvocato militare.
 
 Nei procedimenti suindicati, su richiesta delle parti, il giudice, nei casi preveduti dall'art. 152 del codice di procedura penale, pronuncia sentenza di proscioglimento in camera di consiglio ai sensi dell'art. 421 del codice di procedura penale, sostituito al ricorso per cassazione il ricorso per nullita' al tribunale supremo militare».
 
-### Art. 19
+## Art. 19
 
 Nei procedimenti per citazione diretta si osservano, in quanto sono applicabili, le norme stabilite per l'istruzione formale e, relativamente ai poteri attribuiti al pubblico ministero, la disposizione dell'art. 391 del codice di procedura penale.
 
@@ -326,7 +326,7 @@ Per la emissione e la forma degli ordini suindicati si osservano, in quanto appl
 
 La prima parte e il primo capoverso dell'articolo 2 del decreto Luogotenenziale 14 novembre 1915, n. 1622, richiamato dall'articolo 7 del decreto Luogotenenziale 3 gennaio 1918, n. 2, sono abrogati.
 
-### Art. 20
+## Art. 20
 
 Nei procedimenti per citazione diretta, il R. avvocato militare, per singoli atti che debbono compiersi fuori del comune di sua residenza, puo' richiedere il R. avvocato militare, il procuratore del Re, il pretore o un ufficiale di polizia giudiziaria del luogo.
 
@@ -342,25 +342,25 @@ Se occorre redigere processi verbali, l'ufficiale procedente e' assistito da un 
 
 Le disposizioni di cui ai quattro commi precedenti, sostituito il giudice istruttore al R. avvocato militare, si applicano anche quando si proceda con istruzione formale, se trattasi di atti da assumersi presso reparti di corpi di operazione o spedizione militare.
 
-### Art. 21
+## Art. 21
 
 La facolta' accordata dalle disposizioni del secondo comma dell'art. 396 del Codice penale per l'esercito e' dal secondo comma dell'art. 441 del Codice penale militare marittimo, a chi procede all'istruzione formale di farsi assistere, nei casi dalle disposizioni stesse preveduti, da un notaio o da un ufficiale, e' estesa al magistrato che procede all'istruzione sommaria, ed e' applicabile in ogni altro caso, in cui sia impossibile avere l'assistenza di un funzionario di cancelleria.
 
 Nei casi suindicati, il giuramento e' prestato all'atto dell'assunzione delle funzioni, dinanzi al magistrato procedente, dandosene atto nel processo verbale sottoscritto dal detto magistrato e da chi ha prestato il giuramento.
 
-### Art. 22
+## Art. 22
 
 Presso i tribunali militari le funzioni di R. sostituto avvocato militare e quelle di giudice istruttore possono essere attribuite anche a Regi vice avvocati militari o giudici relatori, e le funzioni di giudice relatore possono essere attribuite anche a Regi sostituti avvocati militari e a giudici istruttori.
 
-### Art. 23
+## Art. 23
 
 Nei casi in cui, per necessita' di servizio, a termini delle disposizioni di legge in vigore, i magistrati militari siano temporaneamente investiti di funzioni giudiziarie diverse da quelle in precedenza esercitate, e' sufficiente, ad ogni effetto, che della cessazione di queste e dell'assunzione delle nuove funzioni sia dato atto nel processo verbale, sottoscritto dal presidente, dal pubblico ministero e dal cancelliere, che ne cura la redazione.
 
-### Art. 24
+## Art. 24
 
 Con determinazione del Ministro per la guerra, su proposta del R. avvocato generale militare, un magistrato militare, tratto da quelli assegnati ai tribunali militari, e' destinato al tribunale supremo militare, restando vacante il posto da esso occupato presso il tribunale di provenienza.
 
-### Art. 25
+## Art. 25
 
 All'udienza del tribunale supremo militare, i consiglieri di Stato indossano la toga e il tocco coi distintivi stabiliti per i componenti delle sezioni giurisdizionali del Consiglio di Stato; i consiglieri di cassazione e di appello quelli dell'Ordine giudiziario cui appartengono; il consigliere relatore quelli stabiliti per il Regio sostituto avvocato generale militare; il consigliere relatore aggiunto quelli stabiliti per i Regi avvocati militari.
 
@@ -368,7 +368,7 @@ Le disposizioni del R. decreto 20 dicembre 1934-XIII, numero 2128, si applicano 
 
 Con decreto del Ministro per la guerra potranno essere modificate le vigenti disposizioni concernenti l'uso della toga e del tocco e i relativi distintivi speciali per i magistrati militari e i cancellieri in udienza.
 
-### Art. 26
+## Art. 26
 
 Agli articoli 2 e 7 della legge 13 giugno 1935-XIII, n. 1116, sono apportate le seguenti aggiunte e modificazioni:
 
@@ -378,13 +378,13 @@ Agli articoli 2 e 7 della legge 13 giugno 1935-XIII, n. 1116, sono apportate le 
 
 3\. - ((NUMERO ABROGATO DAL REGIO D.L. 5 SETTEMBRE 1938, N. 1554, CONVERTITO SENZA MODIFICAZIONI DALLA L. 22 DICEMBRE 1938, N. 2200)).
 
-### Art. 27
+## Art. 27
 
 Non si applicano alle colonie le disposizioni di cui agli articoli 17, 22, 24 e 25 (secondo e terzo comma) e le altre disposizioni relative alla materia regolata dall'ordinamento giudiziario per le colonie, eccettuate quelle degli articoli 16 e 23.
 
 ## DISPOSIZIONI TRANSITORIE.
 
-### Art. 28
+## Art. 28
 
 Con R. decreto, su proposta del Ministro per la guerra, di concerto con quello per le finanze, potranno essere applicati ai tribunali militari, con funzioni giudiziarie, magistrati militari collocati a riposo per limiti di eta' nel biennio precedente alla data di entrata in vigore del presente decreto o che saranno collocati a riposo, sempre per limiti di eta', nel biennio successivo alla data predetta.
 

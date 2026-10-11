@@ -58,9 +58,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## LIBRO PRIMO - ORGANIZZAZIONE E FUNZIONI
+### LIBRO PRIMO - ORGANIZZAZIONE E FUNZIONI
 
-### TITOLO I - DISPOSIZIONI PRELIMINARI
+#### TITOLO I - DISPOSIZIONI PRELIMINARI
 
 ###### Art. 1
 
@@ -280,7 +280,7 @@ Ai fini del presente decreto per &lt;&lt;codice&gt;&gt; si intende il codice di 
 
 > \- Il decreto legislativo 30 giugno 2003, n. 196 (Codice in materia di protezione dei dati personali) e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 29 luglio 2003, n. 174.
 
-### TITOLO II - CONSIGLIO SUPREMO DI DIFESA
+#### TITOLO II - CONSIGLIO SUPREMO DI DIFESA
 
 ###### Art. 2
 
@@ -358,9 +358,9 @@ Regolamento di organizzazione e funzionamento
 
 1\. Le norme necessarie per l'attuazione di quanto previsto dal presente titolo sono contenute nel regolamento.
 
-### TITOLO III - AMMINISTRAZIONE DELLA DIFESA
+#### TITOLO III - AMMINISTRAZIONE DELLA DIFESA
 
-#### CAPO I - MINISTRO DELLA DIFESA
+##### CAPO I - MINISTRO DELLA DIFESA
 
 ###### Art. 10
 
@@ -478,9 +478,9 @@ b) ai sensi dell'articolo 8, comma 1, ultimo periodo, del decreto legislativo 30
 
 > 2\. Al portavoce e' attribuita una indennita' determinata dall'organo di vertice nei limiti delle risorse disponibili appositamente iscritte in bilancio da ciascuna amministrazione per le medesime finalita'.».
 
-#### CAPO II - MINISTERO DELLA DIFESA
+##### CAPO II - MINISTERO DELLA DIFESA
 
-##### SEZIONE I - AMMINISTRAZIONE CENTRALE E PERIFERICA
+**SEZIONE I - AMMINISTRAZIONE CENTRALE E PERIFERICA**
 
 ###### Art. 15
 
@@ -706,7 +706,7 @@ c) e' istituito un registro ove riportare i quantitativi e i tipi di mine antipe
 
 1\. ((Nei casi di cui all'articolo 4, secondo comma, della legge 21 dicembre 1978, n. 861, il servizio di rifornimento idrico delle isole minori della Sicilia e' svolto mediante affidamento a idonei operatori economici con fondi del bilancio del Ministero della difesa, fermo restando quanto previsto dall'articolo 6 della legge 19 maggio 1967, n. 378)).
 
-##### SEZIONE II - ORGANI CONSULTIVI E ((COMMISSIONI DI ELEVATA SPECIALIZZAZIONE TECNICA))
+**SEZIONE II - ORGANI CONSULTIVI E ((COMMISSIONI DI ELEVATA SPECIALIZZAZIONE TECNICA))**
 
 ###### Art. 23
 
@@ -746,9 +746,11 @@ b) emettere il giudizio conclusivo sulle cause dei predetti incidenti e le conse
 
 3\. Ai componenti della commissione interministeriale ((, nominati per la durata di un biennio con decreto del Ministro della difesa su designazione degli altri Ministri interessati,)) non e' dovuto alcun compenso, compresi gettoni di presenza e rimborsi spese.
 
-#### CAPO III - AREA TECNICO OPERATIVA
+##### CAPO III - AREA TECNICO OPERATIVA
 
-##### SEZIONE I - CAPO DI STATO MAGGIORE DELLA DIFESA
+**SEZIONE I**
+
+##### CAPO DI STATO MAGGIORE DELLA DIFESA
 
 ###### Art. 25
 
@@ -808,7 +810,7 @@ b) si avvale del Comando operativo di vertice interforze di cui all'articolo 29;
 
 3\. Dipendono direttamente dal Capo di stato maggiore della difesa gli altri comandi ed enti interforze indicati nel regolamento.
 
-##### SEZIONE II - ORGANISMI INTERFORZE
+**SEZIONE II - ORGANISMI INTERFORZE**
 
 ###### Art. 28
 
@@ -872,7 +874,7 @@ Comandi regione militare interforze
 
 1\. Con uno o piu' decreti del Ministro della difesa possono essere costituiti Comandi regione militare interforze cui devolvere le funzioni territoriali e presidiarie svolte dai Comandi ((e unita' dell'Esercito deputate per il territorio)), dai Comandi marittimi della Marina militare e dai Comandi di regione aerea.
 
-##### SEZIONE III - CAPI DI STATO MAGGIORE DI FORZA ARMATA E COMANDANTE GENERALE DELL'ARMA DEI CARABINIERI
+**SEZIONE III - CAPI DI STATO MAGGIORE DI FORZA ARMATA E COMANDANTE GENERALE DELL'ARMA DEI CARABINIERI**
 
 ###### Art. 32
 
@@ -928,7 +930,7 @@ b) si avvalgono di Comandi di vertice e Ispettorati, indicati per ogni singola F
 
 2\. Fatto salvo quanto disposto nell'articolo 29, rientra nelle competenze degli Stati maggiori di Forza armata e del Comando generale dell'Arma dei carabinieri l'esercizio delle attribuzioni e delle attivita' relative all'impiego e al governo del proprio personale, all'addestramento, alla logistica e alle predisposizioni di approntamento e mobilitazione di Forza armata.
 
-##### SEZIONE IV - UFFICI DEGLI ADDETTI DELLE FORZE ARMATE IN SERVIZIO ALL'ESTERO
+**SEZIONE IV - UFFICI DEGLI ADDETTI DELLE FORZE ARMATE IN SERVIZIO ALL'ESTERO**
 
 ###### Art. 35
 
@@ -986,9 +988,9 @@ Personale
 
 8\. ((COMMA ABROGATO DAL D. LGS. 31 DICEMBRE 2012, N. 248)).
 
-#### CAPO IV - AREA TECNICO AMMINISTRATIVA
+##### CAPO IV - AREA TECNICO AMMINISTRATIVA
 
-##### SEZIONE I - ((DIRETTORE NAZIONALE DEGLI ARMAMENTI))
+**SEZIONE I - ((DIRETTORE NAZIONALE DEGLI ARMAMENTI))**
 
 ###### Art. 40
 
@@ -1036,7 +1038,7 @@ Il testo del presente articolo e' gia' integrato con le correzioni apportate dal
 
 E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-##### SEZIONE II - ((DIREZIONE NAZIONALE DEGLI ARMAMENTI))
+**SEZIONE II - ((DIREZIONE NAZIONALE DEGLI ARMAMENTI))**
 
 ###### Art. 43
 
@@ -1102,7 +1104,7 @@ d) formula un parere al Ministro per la cancellazione e la sospensione dal regis
 
 13-bis. Per lo svolgimento delle sue attivita' istituzionali e per l'iscrizione al registro nazionale, l'Agenzia industrie difesa e' esentata dall'obbligo di munirsi delle licenze previste dagli articoli 28, 46 e 47 del testo unico delle leggi di pubblica sicurezza, di cui al regio decreto 18 giugno 1931, n. 773. L'Agenzia industrie difesa assicura l'annotazione delle operazioni svolte con operatori economici e con altri soggetti privati negli appositi registri previsti dagli articoli 35 e 55 del citato testo unico di cui al regio decreto n. 773 del 1931, anche allo scopo di consentire le previste verifiche da parte degli ufficiali e agenti di pubblica sicurezza secondo le modalita' stabilite dalle disposizioni vigenti.
 
-##### ((SEZIONE II-BIS)) - ((SEGRETARIO GENERALE DELLA DIFESA))
+**((SEZIONE II-BIS)) - ((SEGRETARIO GENERALE DELLA DIFESA))**
 
 ###### Art. 44-bis
 
@@ -1124,7 +1126,7 @@ a) di un Vice segretario generale scelto tra i dirigenti civili di prima fascia 
 
 b) del Segretariato generale della difesa, disciplinato dal regolamento.
 
-#### CAPO V - AREA TECNICO INDUSTRIALE
+##### CAPO V - AREA TECNICO INDUSTRIALE
 
 ###### Art. 45
 
@@ -1260,9 +1262,9 @@ b) di concerto con i Ministri della pubblica amministrazione e innovazione e del
 
 > .
 
-#### CAPO VI - GIUSTIZIA MILITARE
+##### CAPO VI - GIUSTIZIA MILITARE
 
-##### SEZIONE I - ORDINAMENTO GIUDIZIARIO MILITARE
+**SEZIONE I - ORDINAMENTO GIUDIZIARIO MILITARE**
 
 ###### Art. 52
 
@@ -1464,7 +1466,7 @@ Ruolo organico dei magistrati militari
 
 2\. Alla formazione delle piante organiche degli uffici giudiziari militari si provvede con decreto del Ministro della difesa, su proposta del Consiglio della magistratura militare.
 
-##### SEZIONE II - CONSIGLIO DELLA MAGISTRATURA MILITARE
+**SEZIONE II - CONSIGLIO DELLA MAGISTRATURA MILITARE**
 
 ###### Art. 60
 
@@ -1648,7 +1650,7 @@ Applicabilita' di norme previste per il Consiglio superiore della magistratura
 
 1\. Per tutto cio' che non e' diversamente regolato dal presente codice, si osservano, in quanto applicabili, le norme previste per il Consiglio superiore della magistratura, in particolare sostituiti al Ministro e al Ministero della giustizia, rispettivamente il Ministro e il Ministero della difesa.
 
-##### SEZIONE III - DISCIPLINA DEL CONCORSO IN MAGISTRATURA MILITARE
+**SEZIONE III - DISCIPLINA DEL CONCORSO IN MAGISTRATURA MILITARE**
 
 ###### Art. 73
 
@@ -1748,7 +1750,7 @@ Tirocinio e nomina
 
 2\. Trascorso positivamente il periodo minimo di prova, il Consiglio della magistratura militare delibera in ordine alla nomina a magistrato militare e al conferimento delle funzioni giudiziarie militari, sulla base dei pareri formulati dai capi degli uffici dove i magistrati militari hanno prestato il tirocinio.
 
-##### SEZIONE IV - ORDINAMENTO PENITENZIARIO MILITARE
+**SEZIONE IV - ORDINAMENTO PENITENZIARIO MILITARE**
 
 ###### Art. 76
 
@@ -1876,11 +1878,11 @@ Cassa militare delle ammende
 
 3\. Il funzionamento della predetta cassa, la gestione dei fondi relativi e le loro erogazioni sono disciplinate con il decreto del Ministro della difesa di cui all'articolo 77. Sulla specifica materia e' necessario il concerto con il Ministro dell'economia e delle finanze.
 
-### TITOLO IV - FORZE ARMATE
+#### TITOLO IV - FORZE ARMATE
 
-#### CAPO I - DISPOSIZIONI COMUNI
+##### CAPO I - DISPOSIZIONI COMUNI
 
-##### SEZIONE I - DISPOSIZIONI GENERALI
+**SEZIONE I - DISPOSIZIONI GENERALI**
 
 ###### Art. 87
 
@@ -2066,7 +2068,7 @@ d) il Comando generale dell'Arma dei carabinieri.
 
 6\. L'organizzazione strumentale e le modalita' d'impiego delle bande musicali militari sono disciplinate nel regolamento.
 
-##### SEZIONE II - BANDIERE E ONORIFICENZE
+**SEZIONE II - BANDIERE E ONORIFICENZE**
 
 ###### Art. 96
 
@@ -2120,7 +2122,7 @@ Concessione di ricompense alle Forze armate
 
 1\. Il conferimento alla bandiera della croce di cavaliere all'Ordine militare d'Italia, la concessione ai reparti di ricompense al valore militare, nonche' al valore e al merito di Forza armata, sono disciplinati dal libro IV, titolo VIII, capo V, sezioni da I a VII del presente codice.
 
-#### CAPO II - ESERCITO ITALIANO
+##### CAPO II - ESERCITO ITALIANO
 
 ###### Art. 100
 
@@ -2258,9 +2260,9 @@ c) sovraintende al controllo della produzione e fissa le direttive tecniche per 
 
 ((c-bis) svolge attivita' di progettazione, costruzione, manutenzione e collaudo di immobili e infrastrutture dell'Esercito.))
 
-#### CAPO III - MARINA MILITARE
+##### CAPO III - MARINA MILITARE
 
-##### SEZIONE I - DISPOSIZIONI PER LA MARINA MILITARE
+**SEZIONE I - DISPOSIZIONI PER LA MARINA MILITARE**
 
 ###### Art. 110
 
@@ -2776,7 +2778,7 @@ Direzione di amministrazione della Marina militare
 
 2\. ((Gli ufficiali e i sottufficiali della Marina militare sono soci ordinari, iscritti di diritto ai circoli, e)) versano una quota mensile di importo determinato con decreto del Ministro della difesa, di concerto con il Ministro dell'economia e delle finanze.
 
-##### SEZIONE II - CORPO DELLE CAPITANERIE DI PORTO
+**SEZIONE II - CORPO DELLE CAPITANERIE DI PORTO**
 
 ###### Art. 132
 
@@ -3072,7 +3074,7 @@ E' possibile visualizzare il testo originario accedendo alla versione pdf della 
 
 > c) ad adeguare l'assetto ordinativo ai vari livelli gerarchici e degli organici per accrescere l'efficacia dell'organizzazione centrale e periferica del Corpo, privilegiando la sua componente operativa, allo scopo di potenziare gli assetti diretti a garantire la sicurezza in mare e nei porti anche mediante flessibilita' organizzativa sottesa ad esigenze operative, da conseguire con atti amministrativi.».
 
-#### CAPO IV - AERONAUTICA MILITARE
+##### CAPO IV - AERONAUTICA MILITARE
 
 ###### Art. 139
 
@@ -3302,9 +3304,9 @@ b) svolge le funzioni di natura giuridico amministrativa devolute in relazione a
 
 c) esercita l'azione di controllo amministrativo nei confronti degli enti sia in sede ispettiva sia in sede di revisione degli atti di gestione anche per conto dell'Ufficio centrale del bilancio presso il Ministero della difesa.
 
-#### CAPO V - ARMA DEI CARABINIERI
+##### CAPO V - ARMA DEI CARABINIERI
 
-##### SEZIONE I - COMPITI E ATTRIBUZIONI
+**SEZIONE I - COMPITI E ATTRIBUZIONI**
 
 ###### Art. 155
 
@@ -3440,7 +3442,7 @@ a) il personale incaricato degli interventi ispettivi svolti ai sensi della vige
 
 b) i requisiti che il predetto personale deve possedere, nonche' le relative attivita' di formazione e aggiornamento.))
 
-##### SEZIONE II - ORDINAMENTO
+**SEZIONE II - ORDINAMENTO**
 
 ###### Art. 162
 
@@ -3820,9 +3822,9 @@ b) l'organizzazione e l'esecuzione del servizio istituzionale.
 
 > \- Per l'articolo 17, comma 3, della legge 23 agosto 1988, n. 400 si vedano le note all'articolo 1.
 
-### TITOLO V - SANITA' MILITARE
+#### TITOLO V - SANITA' MILITARE
 
-#### CAPO I - DISPOSIZIONI GENERALI
+##### CAPO I - DISPOSIZIONI GENERALI
 
 ###### Art. 181
 
@@ -3938,9 +3940,9 @@ Disposizioni tecniche attuative
 
 1-ter. ((Le disposizioni di cui al comma 1 che riguardano l'organizzazione sanitaria presso le Forze armate o l'Arma dei carabinieri sono adottate sentiti i rispettivi Capi di stato maggiore di Forza armata o il Comandante generale dell'Arma dei carabinieri.))
 
-#### CAPO II - ORGANIZZAZIONE
+##### CAPO II - ORGANIZZAZIONE
 
-##### SEZIONE I - ORGANI DELLA SANITA' MILITARE
+**SEZIONE I - ORGANI DELLA SANITA' MILITARE**
 
 ###### Art. 188
 
@@ -4202,7 +4204,7 @@ d) ((effettua consulenza scientifica e tecnica per lo Stato maggiore della difes
 
 e) ((supporta, sotto il profilo tecnico-scientifico, i comandanti e le unita' specializzate nel settore chimico, biologico, radiologico e nucleare.))
 
-##### SEZIONE II - COMPONENTI AUSILIARIE DELLE FORZE ARMATE DELLA CROCE ROSSA ITALIANA
+**SEZIONE II - COMPONENTI AUSILIARIE DELLE FORZE ARMATE DELLA CROCE ROSSA ITALIANA**
 
 ###### Art. 196
 
@@ -4238,9 +4240,9 @@ b) l'Associazione italiana della Croce rossa e' tenuta ad attendere in via ordin
 
 5\. ((COMMA ABROGATO DAL D.LGS. 24 FEBBRAIO 2012, N. 20)).
 
-#### CAPO III - ATTRIBUZIONI E SERVIZI
+##### CAPO III - ATTRIBUZIONI E SERVIZI
 
-##### SEZIONE I - ATTIVITA' DELLE COMMISSIONI MEDICHE ((DELLA SANITA' MILITARE))
+**SEZIONE I - ATTIVITA' DELLE COMMISSIONI MEDICHE ((DELLA SANITA' MILITARE))**
 
 ###### Art. 198
 
@@ -4268,7 +4270,7 @@ Accertamento dell'idoneita' al servizio e delle infermita' da causa di servizio
 
 10\. Il presidente della commissione, in caso di comprovato e permanente impedimento fisico del dipendente, puo' disporre l'esecuzione della visita domiciliare da parte di un componente della Commissione stessa.
 
-##### SEZIONE II - SERVIZI MEDICO LEGALI
+**SEZIONE II - SERVIZI MEDICO LEGALI**
 
 ###### Art. 199
 
@@ -4330,7 +4332,7 @@ d) presso gli istituti di medicina aerospaziale ((...)) per effettuare ogni tipo
 
 4\. Per ogni visita eseguita, anche a domicilio dagli ufficiali medici, i privati e le autorita' corrispondono un compenso il cui importo e modalita' di versamento e' stabilito con decreto del Ministro della difesa, di concerto con il Ministro dell'economia e delle finanze.
 
-##### SEZIONE III - SERVIZI IN MATERIA DI DIPENDENZE
+**SEZIONE III - SERVIZI IN MATERIA DI DIPENDENZE**
 
 ###### Art. 202
 
@@ -4368,7 +4370,7 @@ Rapporti con le strutture socio-sanitarie civili
 
 2\. I dati statistici relativi all'andamento del fenomeno della tossicodipendenza, alcoldipendenza e uso di sostanze dopanti, rilevati nell'ambito militare, sono trasmessi ogni dodici mesi ai Ministeri della salute e dell'interno.
 
-##### SEZIONE IV - ALTRI SERVIZI
+**SEZIONE IV - ALTRI SERVIZI**
 
 ###### Art. 205
 
@@ -4460,9 +4462,9 @@ a) le informazioni mediche equivalenti a quelle da indicarsi sul modello relativ
 
 b) una dichiarazione in francese o in inglese che precisi la natura e la data della vaccinazione e attesti che i documenti vengano rilasciati in virtu' del presente articolo.
 
-#### CAPO IV - PERSONALE ADDETTO ALLA SANITA' MILITARE
+##### CAPO IV - PERSONALE ADDETTO ALLA SANITA' MILITARE
 
-##### SEZIONE I - ((PERSONALE DEL SERVIZIO SANITARIO MILITARE))
+**SEZIONE I - ((PERSONALE DEL SERVIZIO SANITARIO MILITARE))**
 
 ###### Art. 208 - Categorie di personale
 
@@ -4556,7 +4558,7 @@ h) le modalita' di accesso alle strutture militari.))
 
 1-sexies. ((Con riferimento alla ricognizione di cui al comma 1-quinquies, se non sono disponibili spazi adeguati, il Ministero della difesa puo' stipulare convenzioni con la Difesa servizi spa, enti pubblici e soggetti privati convenzionati con il Servizio sanitario nazionale.))
 
-##### SEZIONE II - ((ESERCIZIO DELLE PROFESSIONI SANITARIE))
+**SEZIONE II - ((ESERCIZIO DELLE PROFESSIONI SANITARIE))**
 
 ###### Art. 211
 
@@ -4608,9 +4610,9 @@ b) in assenza di personale sanitario, ai soccorritori militari e' consentita l'a
 
 1-bis. ((Qualifica, compiti e formazione dei soccorritori militari per le forze speciali sono disciplinati dall'articolo 51, commi 8-ter e 8-quater del decreto-legge 17 maggio 2022, n. 50, convertito, con modificazioni, dalla legge 15 luglio 2022, n. 91.))
 
-### TITOLO VI - ISTITUTI DI ISTRUZIONE E FORMAZIONE
+#### TITOLO VI - ISTITUTI DI ISTRUZIONE E FORMAZIONE
 
-#### CAPO I - DISPOSIZIONI GENERALI
+##### CAPO I - DISPOSIZIONI GENERALI
 
 ###### Art. 214
 
@@ -4658,7 +4660,7 @@ Collaborazione con le universita'
 
 2\. Allo scopo di incentivare lo studio, l'aggiornamento e la ricerca, al personale docente appartenente ai ruoli organici delle accademie militari e dell'Istituto idrografico della Marina militare, puo' essere consentito, previo nulla osta degli enti di appartenenza e di concerto con i consigli di facolta', di svolgere attivita' didattica e di ricerca presso le universita' statali.
 
-#### CAPO II - SCUOLE MILITARI
+##### CAPO II - SCUOLE MILITARI
 
 ###### Art. 218
 
@@ -4690,9 +4692,9 @@ Ammissione alle scuole militari
 
 1\. Le ammissioni alle scuole militari si effettuano ai sensi delle disposizioni contenute nel libro IV, titolo II, capi I e IX, e titolo III, capo XI del presente codice.
 
-#### CAPO III - ISTITUTI DI FORMAZIONE
+##### CAPO III - ISTITUTI DI FORMAZIONE
 
-##### SEZIONE I - ACCADEMIE MILITARI
+**SEZIONE I - ACCADEMIE MILITARI**
 
 ###### Art. 221
 
@@ -4726,7 +4728,7 @@ Ammissioni alle Accademie militari
 
 1\. L'ammissione degli allievi ufficiali presso le accademie militari si effettua ai sensi delle disposizioni contenute nel libro IV, titolo II, capi I e II.
 
-##### SEZIONE II - ISTITUTI MILITARI DI ISTRUZIONE SUPERIORE PER UFFICIALI
+**SEZIONE II - ISTITUTI MILITARI DI ISTRUZIONE SUPERIORE PER UFFICIALI**
 
 ###### Art. 224
 
@@ -4760,7 +4762,7 @@ Corsi di studio degli istituti militari di istruzione superiore
 
 2\. Per le materie militari e professionali non rientranti negli ordinamenti didattici, definiti ai sensi del comma 1, e per gli altri corsi di carattere non universitario o postuniversitario, l'ordine degli studi e i programmi sono stabiliti in base a quanto disposto nel libro IV, titolo III, capi I e II del regolamento.
 
-##### ((SEZIONE II-BIS - FORMAZIONE SANITARIA))
+**((SEZIONE II-BIS - FORMAZIONE SANITARIA))**
 
 ###### Art. 225-bis
 
@@ -4786,7 +4788,7 @@ Il D.Lgs. 3 aprile 2026, n. 74, ha disposto (con l'art. 20, comma 2, lettera c))
 
 c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
-##### SEZIONE III - ALTRE SCUOLE
+**SEZIONE III - ALTRE SCUOLE**
 
 ###### Art. 226
 
@@ -4836,9 +4838,9 @@ Scuola allievi operai delle Forze armate
 
 3\. Le scuole allievi operai sono dirette da un ufficiale superiore in servizio presso lo stabilimento od officina. Agli insegnamenti si provvede con personale militare e civile dipendente dal Ministero della difesa. Le funzioni di segretario sono affidate a un sottufficiale o a un impiegato della carriera di concetto o esecutiva in servizio presso lo stabilimento o l'officina.
 
-## LIBRO SECONDO - BENI
+### LIBRO SECONDO - BENI
 
-### TITOLO I - DISPOSIZIONI GENERALI
+#### TITOLO I - DISPOSIZIONI GENERALI
 
 ###### Art. 230
 
@@ -4956,9 +4958,9 @@ Disciplina del segreto su beni e attivita' militari. Rinvio
 
 > \- Il decreto del Presidente del Consiglio dei Ministri 12 giugno 2009, n. 8 (Definizione delle procedure per la stipula di contratti di appalti di lavori e forniture di beni e servizi del DIS, dell'AISE e dell'AISI ed individuazione dei lavori delle forniture e dei servizi che possono essere effettuati in economia o a trattativa privata) e' pubblicato nella Gazzetta Ufficiale del 6 luglio 2009, n. 154.
 
-### TITOLO II - SINGOLE CATEGORIE DI BENI MILITARI
+#### TITOLO II - SINGOLE CATEGORIE DI BENI MILITARI
 
-#### CAPO I - OPERE PERMANENTI DI PROTEZIONE ANTIAEREA
+##### CAPO I - OPERE PERMANENTI DI PROTEZIONE ANTIAEREA
 
 ###### Art. 236
 
@@ -4966,7 +4968,7 @@ Opere permanenti di protezione antiaerea
 
 1\. Rientrano tra le opere destinate alla difesa nazionale e costituiscono demanio militare le opere permanenti di protezione antiaerea.
 
-#### CAPO II - STRADE MILITARI, VEICOLI E PATENTI MILITARI, ESIGENZE MILITARI IN RELAZIONE ALLA CIRCOLAZIONE STRADALE
+##### CAPO II - STRADE MILITARI, VEICOLI E PATENTI MILITARI, ESIGENZE MILITARI IN RELAZIONE ALLA CIRCOLAZIONE STRADALE
 
 ###### Art. 237
 
@@ -5016,9 +5018,9 @@ Gli enti proprietari delle strade sono tenuti a consentire l'installazione provv
 
 13\. Per quanto non disposto nel presente articolo, alle strade militari aperte al traffico civile, ai veicoli e conducenti delle Forze armate, ai convogli militari e simili su strada si applicano le disposizioni del decreto legislativo n. 285 del 1992, in quanto compatibili.
 
-#### CAPO III - PORTI E AEROPORTI MILITARI, NAVI E ((AEROMOBILI)) MILITARI
+##### CAPO III - PORTI E AEROPORTI MILITARI, NAVI E ((AEROMOBILI)) MILITARI
 
-##### SEZIONE I - PORTI E AEROPORTI MILITARI
+**SEZIONE I - PORTI E AEROPORTI MILITARI**
 
 ###### Art. 238
 
@@ -5034,7 +5036,7 @@ Porti e aeroporti militari
 
 4\. Fatto salvo quanto disposto dal comma 3, per gli aeroporti militari resta ferma la disciplina all'uopo prevista nel codice della navigazione, e le relative disposizioni tecniche di attuazione.
 
-##### SEZIONE II - NAVI MILITARI E NAVI DA GUERRA REGISTRO DELLE NAVI GALLEGGIANTI IN SERVIZIO GOVERNATIVO NON COMMERCIALE
+**SEZIONE II - NAVI MILITARI E NAVI DA GUERRA REGISTRO DELLE NAVI GALLEGGIANTI IN SERVIZIO GOVERNATIVO NON COMMERCIALE**
 
 ###### Art. 239
 
@@ -5104,7 +5106,7 @@ Incendio su nave da guerra
 
 2\. Il comandante del porto assume la direzione delle operazioni di soccorso per quanto riguarda la sicurezza del porto e delle altre navi, e coadiuva, ove richiesto, il comando della nave da guerra con i mezzi e l'organizzazione antincendi del porto.
 
-##### SEZIONE III - AEROMOBILI A PILOTAGGIO REMOTO DELLE FORZE ARMATE
+**SEZIONE III - AEROMOBILI A PILOTAGGIO REMOTO DELLE FORZE ARMATE**
 
 ###### Art. 246
 
@@ -5136,7 +5138,7 @@ Autorizzazione e limiti all'impiego degli APR in dotazione alle Forze armate
 
 ((ARTICOLO ABROGATO DAL D.LGS. 24 FEBBRAIO 2012, N. 20))
 
-#### CAPO IV - RIFUGI ALPINI
+##### CAPO IV - RIFUGI ALPINI
 
 ###### Art. 249
 
@@ -5162,7 +5164,7 @@ Rifugi alpini demaniali e rifugi alpini pubblici e privati di interesse della Di
 
 > \- Il decreto del Presidente della Repubblica 8 giugno 2001, n. 327 (Testo unico delle disposizioni legislative e regolamentari in materia di espropriazione per pubblica utilita'. (Testo A) e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 16 agosto 2001, n. 189.
 
-#### CAPO V - CAMPI DI TIRO A SEGNO
+##### CAPO V - CAMPI DI TIRO A SEGNO
 
 ###### Art. 250 - Campi e impianti di tiro a segno
 
@@ -5184,9 +5186,9 @@ Uso speciale e obbligatorio dei campi di tiro a segno - Quota di iscrizione
 
 3\. La quota annua per l'iscrizione obbligatoria all'Unione italiana tiro a segno per le categorie indicate ai commi 1 e 2 e' stabilita in euro 25. Con decreto dirigenziale della competente struttura del Ministero della difesa, di concerto con i Ministeri dell'interno, della giustizia, dell'economia e delle finanze e delle politiche agricole, alimentari e forestali, si provvede ad adeguare annualmente detta quota, sulla base delle variazioni percentuali del costo della vita quale risulta ai fini delle rilevazioni ISTAT per i conti economici nazionali pubblicati a marzo di ogni anno nella relazione sulla situazione economica del Paese. Gli aumenti decorrono dal 1° gennaio dell'anno successivo a quello di rilevazione.
 
-#### CAPO VI - ZONE MONUMENTALI DI GUERRA, PATRIMONIO STORICO DELLA PRIMA GUERRA MONDIALE, SEPOLCRETI DI GUERRA
+##### CAPO VI - ZONE MONUMENTALI DI GUERRA, PATRIMONIO STORICO DELLA PRIMA GUERRA MONDIALE, SEPOLCRETI DI GUERRA
 
-##### SEZIONE I - ZONE MONUMENTALI DI GUERRA
+**SEZIONE I - ZONE MONUMENTALI DI GUERRA**
 
 ###### Art. 252
 
@@ -5242,7 +5244,7 @@ Vigilanza e conservazione
 
 2\. Il Ministero della difesa - ((Ufficio per la tutela della cultura e della memoria della difesa)) provvede a far erigere e a mantenere stele romane nelle localita' del fronte di guerra - pur esse notevoli per azioni svoltesi - sulle quali non e' stato collocato un particolare ricordo.
 
-##### SEZIONE II - PATRIMONIO STORICO DELLA PRIMA GUERRA MONDIALE
+**SEZIONE II - PATRIMONIO STORICO DELLA PRIMA GUERRA MONDIALE**
 
 ###### Art. 255
 
@@ -5286,7 +5288,7 @@ Vigilanza e conservazione
 
 ((ARTICOLO ABROGATO DAL D.LGS. 24 FEBBRAIO 2012, N. 20))
 
-##### SEZIONE III - SEPOLCRETI DI GUERRA ITALIANI
+**SEZIONE III - SEPOLCRETI DI GUERRA ITALIANI**
 
 ###### Art. 265
 
@@ -5476,7 +5478,7 @@ e) il Tempio Sacrario di Terranegra con il museo dell'ex internato denominato &l
 
 e-bis) (( il Sacrario militare subacqueo del regio sommergibile "Scire'" nella Baia di Haifa (Israele) )).
 
-##### SEZIONE IV - CIMITERI DI GUERRA STRANIERI IN ITALIA E CIMITERI DI GUERRA ITALIANI ALL'ESTERO
+**SEZIONE IV - CIMITERI DI GUERRA STRANIERI IN ITALIA E CIMITERI DI GUERRA ITALIANI ALL'ESTERO**
 
 ###### Art. 276
 
@@ -5520,9 +5522,9 @@ e) la legge 28 aprile 1976, n. 400, relativa ai cimiteri di guerra francesi in I
 
 > \- La legge 28 aprile 1976, n. 400 (Approvazione ed esecuzione della convenzione tra il Governo della Repubblica italiana e il Governo della Repubblica francese relativa alle sepolture di guerra, firmata a Parigi il 2 dicembre 1970) e' pubblicata nel supplemento ordinario alla Gazzetta Ufficiale del 12 giugno 1976, n. 154.
 
-#### CAPO VII - ALLOGGI DI SERVIZIO
+##### CAPO VII - ALLOGGI DI SERVIZIO
 
-##### SEZIONE I - ALLOGGI DI SERVIZIO DI TIPO ECONOMICO
+**SEZIONE I - ALLOGGI DI SERVIZIO DI TIPO ECONOMICO**
 
 ###### Art. 278
 
@@ -5698,7 +5700,7 @@ e) la composizione, d'intesa con ((le associazioni professionali a carattere sin
 
 2\. ((Le associazioni professionali a carattere sindacale tra militari rappresentative ai sensi dell'articolo 1478 sono chiamate)) preventivamente a esprimere il parere sulle norme regolamentari emanate ai sensi del presente articolo.
 
-##### SEZIONE II - CRITERI DI CLASSIFICAZIONE E DI ASSEGNAZIONE DEGLI ALLOGGI DI SERVIZIO AI MILITARI DELL'ARMA DEI CARABINIERI
+**SEZIONE II - CRITERI DI CLASSIFICAZIONE E DI ASSEGNAZIONE DEGLI ALLOGGI DI SERVIZIO AI MILITARI DELL'ARMA DEI CARABINIERI**
 
 ###### Art. 295
 
@@ -5744,7 +5746,7 @@ Criteri di assegnazione degli alloggi e di determinazione del canone
 
 4\. ((Al fine di garantire l'efficienza e il miglioramento delle condizioni infrastrutturali degli alloggi di servizio dell'Arma dei carabinieri di cui alla presente sezione, il Ministro dell'economia e delle finanze e' autorizzato a provvedere, con propri decreti, alla riassegnazione delle somme derivanti dalla concessione dei medesimi alloggi, versate all'entrata del bilancio dello Stato, sui pertinenti programmi dello stato di previsione del Ministero della difesa)).
 
-##### SEZIONE III - ALLOGGI DI SERVIZIO CONNESSI AL NUOVO MODELLO DELLE FORZE ARMATE
+**SEZIONE III - ALLOGGI DI SERVIZIO CONNESSI AL NUOVO MODELLO DELLE FORZE ARMATE**
 
 ###### Art. 297
 
@@ -5764,7 +5766,7 @@ c) alloggi da assegnare con possibilita' di opzione di acquisto mediante riscatt
 
 4\. Le norme di attuazione per la realizzazione del programma infrastrutturale di cui al presente articolo sono dettate dal regolamento. Sullo schema di tali norme ((sono sentite le associazioni professionali a carattere sindacale tra militari rappresentative ai sensi dell'articolo 1478)) e acquisito il parere delle competenti Commissioni parlamentari.
 
-##### SEZIONE IV - PROVVIDENZE IN FAVORE DEI MILITARI DI CARRIERA AL FINE DELL'ACQUISTO O LOCAZIONE DI ALLOGGI
+**SEZIONE IV - PROVVIDENZE IN FAVORE DEI MILITARI DI CARRIERA AL FINE DELL'ACQUISTO O LOCAZIONE DI ALLOGGI**
 
 ###### Art. 298
 
@@ -5812,7 +5814,7 @@ Conservazione dei diritti in ordine ad alloggi di edilizia sovvenzionata in caso
 
 2\. Ai fini della assegnazione di alloggi di edilizia pubblica sovvenzionata al personale militare fruente di alloggi di servizio nel triennio precedente al collocamento a riposo, e' riconosciuto il punteggio previsto per lo sfratto o l'ordine di sgombero per pubblica utilita'.
 
-#### CAPO VIII - DIRITTI DI PROPRIETA' INDUSTRIALE DELLE FORZE ARMATE
+##### CAPO VIII - DIRITTI DI PROPRIETA' INDUSTRIALE DELLE FORZE ARMATE
 
 ###### Art. 300
 
@@ -5826,7 +5828,7 @@ Diritti di proprieta' industriale delle Forze armate
 
 4\. Ferme restando le competenze attribuite alla Presidenza del Consiglio dei Ministri e disciplinate con decreto del Presidente del Consiglio dei Ministri 28 gennaio 2011, pubblicato nella Gazzetta Ufficiale n. 25 del 1° febbraio 2011, e successive modificazioni, in materia di approvazione e procedure per la concessione degli emblemi araldici, anche a favore delle Forze armate, mediante apposito regolamento adottato con decreto del Ministro della difesa, di concerto con i Ministri dello sviluppo economico e dell'economia e delle finanze, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono individuati le denominazioni, gli stemmi, gli emblemi e gli altri segni distintivi ai fini di cui al comma 1, nonche' le specifiche modalita' attuative.
 
-### TITOLO III - ACCESSO DI PARLAMENTARI A STRUTTURE MILITARI
+#### TITOLO III - ACCESSO DI PARLAMENTARI A STRUTTURE MILITARI
 
 ###### Art. 301
 
@@ -5864,9 +5866,9 @@ Accesso senza preavviso
 
 1\. In caso di richiesta di accesso non preannunciata, da parte di una delegazione di parlamentari o di singoli parlamentari, i membri del Parlamento sono ricevuti dal comandante o dal direttore oppure, in loro assenza, dall'ufficiale piu' elevato in grado presente presso la struttura o l'installazione militare, che riceve gli ospiti e fornisce le relative informazioni di carattere non classificato e notizie di interesse per il parlamentare, senza procedere alla visita della struttura.
 
-### TITOLO IV - VALORIZZAZIONE E DISMISSIONE DI BENI IMMOBILI E MOBILI
+#### TITOLO IV - VALORIZZAZIONE E DISMISSIONE DI BENI IMMOBILI E MOBILI
 
-#### CAPO I - DISMISSIONI DI BENI IMMOBILI E CESSIONI DI BENI MOBILI
+##### CAPO I - DISMISSIONI DI BENI IMMOBILI E CESSIONI DI BENI MOBILI
 
 ###### Art. 306
 
@@ -6106,7 +6108,7 @@ Dismissione di beni culturali del Ministero della difesa
 
 > \- Per l'art. 12, comma 3, del decreto legislativo 22 gennaio 2004, n. 42, si vedano le note all'articolo 230.
 
-#### CAPO II - FONDI COMUNI DI INVESTIMENTO IMMOBILIARE PER LA VALORIZZAZIONE E L'ALIENAZIONE DI IMMOBILI MILITARI
+##### CAPO II - FONDI COMUNI DI INVESTIMENTO IMMOBILIARE PER LA VALORIZZAZIONE E L'ALIENAZIONE DI IMMOBILI MILITARI
 
 ###### Art. 314
 
@@ -6114,9 +6116,9 @@ Dismissione di beni culturali del Ministero della difesa
 
 CON MODIFICAZIONI DALLA L. 7 AGOSTO 2012, N. 135))
 
-### TITOLO V - MODI DI ACQUISTO COATTIVO DI BENI E DIRITTI NELL'INTERESSE DELLA DIFESA MILITARE
+#### TITOLO V - MODI DI ACQUISTO COATTIVO DI BENI E DIRITTI NELL'INTERESSE DELLA DIFESA MILITARE
 
-#### CAPO I - AMBITO
+##### CAPO I - AMBITO
 
 ###### Art. 315
 
@@ -6126,7 +6128,7 @@ Ambito
 
 2\. Resta fermo quanto disposto dal titolo VIII del presente libro per le requisizioni in tempo di guerra, di grave crisi internazionale o di mobilitazione.
 
-#### CAPO II - ESPROPRIAZIONI, REQUISIZIONI, ACQUISTI A SEGUITO DI CONFISCA
+##### CAPO II - ESPROPRIAZIONI, REQUISIZIONI, ACQUISTI A SEGUITO DI CONFISCA
 
 ###### Art. 316
 
@@ -6172,9 +6174,9 @@ Acquisti a seguito di confisca
 
 1\. Le armi, le munizioni, gli esplosivi e gli altri materiali di interesse militare sequestrati e acquisiti dallo Stato a seguito di provvedimento definitivo di confisca dell'autorita' giudiziaria possono essere assegnati al Ministero della difesa per finalita' istituzionali, con decreto del Ministro della giustizia, di concerto con i Ministri della difesa e dell'economia e delle finanze. Si provvede con decreto del Ministro della difesa, di concerto con il Ministro dell'economia e delle finanze, nel caso in cui la confisca e' stata disposta dall'autorita' giudiziaria militare. ((E' fatto salvo, per l'Arma dei carabinieri, quanto previsto dall'articolo 1, comma 437, della legge 27 dicembre 2006, n. 296.))
 
-### TITOLO VI - LIMITAZIONI A BENI E ATTIVITA' ALTRUI NELL'INTERESSE DELLA DIFESA
+#### TITOLO VI - LIMITAZIONI A BENI E ATTIVITA' ALTRUI NELL'INTERESSE DELLA DIFESA
 
-#### CAPO I - LIMITAZIONI A SINGOLI BENI E ATTIVITA'
+##### CAPO I - LIMITAZIONI A SINGOLI BENI E ATTIVITA'
 
 ###### Art. 320
 
@@ -6464,7 +6466,7 @@ Limitazioni per il tempo necessario allo svolgimento di esercitazioni militari
 
 6\. La misura dell'indennizzo per i lavoratori dipendenti e' pari al salario corrente; per i lavoratori autonomi e' rapportata alla retribuzione spettante ai lavoratori dipendenti con qualifica o specializzazione corrispondente o affine.
 
-#### CAPO II - LIMITAZIONI PER INTERE CATEGORIE DI BENI E ATTIVITA'
+##### CAPO II - LIMITAZIONI PER INTERE CATEGORIE DI BENI E ATTIVITA'
 
 ###### Art. 333
 
@@ -6600,7 +6602,7 @@ Il testo del presente articolo e' gia' integrato con le correzioni apportate dal
 
 E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-#### CAPO III - DISPOSIZIONI COMUNI
+##### CAPO III - DISPOSIZIONI COMUNI
 
 ###### Art. 336
 
@@ -6634,7 +6636,7 @@ Disciplina di esecuzione
 
 1\. Il regolamento detta le norme di esecuzione del presente titolo; per tale parte su di esso e' acquisito il concerto dei Ministri interessati.
 
-#### CAPO IV - NORME SPECIALI PER LA PROVINCIA DI BOLZANO
+##### CAPO IV - NORME SPECIALI PER LA PROVINCIA DI BOLZANO
 
 ###### Art. 339
 
@@ -6780,7 +6782,7 @@ Tutela amministrativa
 
 ((ARTICOLO ABROGATO DAL D.LGS. 31 DICEMBRE 2012, N. 248))
 
-#### CAPO V - SALVEZZA DI ALTRE FONTI
+##### CAPO V - SALVEZZA DI ALTRE FONTI
 
 ###### Art. 351
 
@@ -6806,9 +6808,9 @@ b) dall'articolo 6, comma 6, del decreto legislativo 25 luglio 1998, n. 286, rec
 
 > «6. Salvo quanto e' stabilito nelle leggi militari, il Prefetto puo' vietare agli stranieri il soggiorno in comuni o in localita' che comunque interessano la difesa militare dello Stato. Tale divieto e' comunicato agli stranieri per mezzo della autorita' locale di pubblica sicurezza o col mezzo di pubblici avvisi. Gli stranieri, che trasgrediscono al divieto, possono essere allontanati per mezzo della forza pubblica.».
 
-### TITOLO VII - URBANISTICA, EDILIZIA, PAESAGGIO, ENERGIA, AMBIENTE E SALUTE
+#### TITOLO VII - URBANISTICA, EDILIZIA, PAESAGGIO, ENERGIA, AMBIENTE E SALUTE
 
-#### CAPO I - URBANISTICA, EDILIZIA, PAESAGGIO, ENERGIA
+##### CAPO I - URBANISTICA, EDILIZIA, PAESAGGIO, ENERGIA
 
 ###### Art. 352
 
@@ -6878,7 +6880,7 @@ AGGIORNAMENTO (119)
 
 Il D.L. 17 ottobre 2024, n. 153, convertito con modificazioni dalla L. 13 dicembre 2024, n. 191, ha disposto (con l'art. 1, comma 5) che "Le disposizioni di cui al comma 4 si applicano, in quanto compatibili, agli interventi di cui all'articolo 20 del decreto-legge 1° marzo 2022, n. 17, convertito, con modificazioni, dalla legge 27 aprile 2022, n. 34".
 
-#### CAPO II - AMBIENTE
+##### CAPO II - AMBIENTE
 
 ###### Art. 356
 
@@ -7238,11 +7240,11 @@ b) non si applica alle attivita' svolte in condizioni di necessita' e aventi com
 
 > e) non si applica alle attivita' svolte in condizioni di necessita' ed aventi come scopo esclusivo la difesa nazionale, la sicurezza internazionale o la protezione dalle calamita' naturali; ».
 
-### TITOLO VIII - REQUISIZIONI IN TEMPO DI GUERRA O DI GRAVE CRISI INTERNAZIONALE
+#### TITOLO VIII - REQUISIZIONI IN TEMPO DI GUERRA O DI GRAVE CRISI INTERNAZIONALE
 
-#### CAPO I - DISCIPLINA GENERALE DELLE REQUISIZIONI IN TEMPO DI GUERRA O DI GRAVE CRISI INTERNAZIONALE
+##### CAPO I - DISCIPLINA GENERALE DELLE REQUISIZIONI IN TEMPO DI GUERRA O DI GRAVE CRISI INTERNAZIONALE
 
-##### SEZIONE I - AMBITO DI APPLICAZIONE TEMPORALE E BENI REQUISIBILI
+**SEZIONE I - AMBITO DI APPLICAZIONE TEMPORALE E BENI REQUISIBILI**
 
 ###### Art. 370
 
@@ -7424,7 +7426,7 @@ Dispensa dalla requisizione
 
 1\. Con decreto del Presidente del Consiglio dei Ministri, possono essere stabilite dispense da requisizione, relativamente a determinati beni o categorie di beni, per imprescindibili bisogni dell'industria, dell'agricoltura, del commercio o per altre necessita'.
 
-##### SEZIONE II - REQUISIZIONE DI IMMOBILI E DI AZIENDE
+**SEZIONE II - REQUISIZIONE DI IMMOBILI E DI AZIENDE**
 
 ###### Art. 378
 
@@ -7506,7 +7508,7 @@ Requisizione dei prodotti
 
 2\. L'autorita' che procede alla requisizione puo' controllare l'esercizio dell'azienda o dello stabilimento al fine di garantire l'esecuzione dell'ordine di requisizione.
 
-##### SEZIONE III - REQUISIZIONE DI BENI MOBILI
+**SEZIONE III - REQUISIZIONE DI BENI MOBILI**
 
 ###### Art. 387
 
@@ -7544,7 +7546,7 @@ b) se l'amministrazione reputa di non poter ancora effettuare la restituzione e 
 
 c) se l'interessato non consente di ricevere la cosa in localita' diversa da quella in cui fu requisita.
 
-##### SEZIONE IV - REQUISIZIONE DI INVENZIONI
+**SEZIONE IV - REQUISIZIONE DI INVENZIONI**
 
 ###### Art. 390
 
@@ -7618,7 +7620,7 @@ Invenzione depositata in Italia
 
 1\. Se l'invenzione e' stata depositata in Italia agli effetti del rilascio del brevetto, il richiedente non puo' alienarla, applicarla, divulgarla ne' depositarla presso Stati esteri, se non sono trascorsi almeno sessanta giorni dalla data del deposito; fermi i poteri attribuiti dalle disposizioni vigenti al Ministero della difesa per il vincolo del segreto dei brevetti interessanti la difesa nazionale.
 
-##### SEZIONE V - REQUISIZIONE DI SERVIZI
+**SEZIONE V - REQUISIZIONE DI SERVIZI**
 
 ###### Art. 392
 
@@ -7644,7 +7646,7 @@ Obbligo di dare indicazioni
 
 1\. Chiunque, per ragioni d'ufficio o di professione, d'industria o di commercio, e' in grado di indicare le persone idonee a compiere determinati servizi, da' le indicazioni richiestegli dall'autorita', secondo le modalita' e nel termine da essa stabiliti.
 
-##### SEZIONE VI - DISPOSIZIONI COMUNI
+**SEZIONE VI - DISPOSIZIONI COMUNI**
 
 ###### Art. 395
 
@@ -7696,7 +7698,7 @@ Obblighi del sindaco
 
 1\. I Sindaci hanno l'obbligo di collaborare per tutto quanto riguarda le requisizioni, in particolare mettendo a disposizione il personale dipendente per le necessarie ricerche, e fornendo notizie e informazioni anche ai fini di un'equa ripartizione, fra gli abitanti, delle prestazioni richieste.
 
-##### SEZIONE VII - AUTORITA' COMPETENTI
+**SEZIONE VII - AUTORITA' COMPETENTI**
 
 ###### Art. 401
 
@@ -7742,7 +7744,7 @@ Comunicazioni all'autorita' civile e accordi per l'esecuzione
 
 1\. Gli incaricati dell'esecuzione delle requisizioni, in ogni caso, danno avviso al sindaco del comune in cui si trovano gli immobili, le aziende e gli stabilimenti da requisire, o, quando trattasi dei beni indicati negli articoli 373, 374, 375, agli uffici pubblici interessati. Se non ostano ragioni di urgenza, prendono, ai fini dell'esecuzione, preventivi accordi con il sindaco e con gli uffici predetti.
 
-##### SEZIONE VIII - PROCEDIMENTO
+**SEZIONE VIII - PROCEDIMENTO**
 
 ###### Art. 406
 
@@ -7826,7 +7828,7 @@ Esecuzione d'ufficio
 
 4\. Dell'esecuzione d'ufficio e' redatto processo verbale, in duplice originale, di cui uno e' rimesso al sindaco.
 
-##### SEZIONE IX - REQUISIZIONI ((...))
+**SEZIONE IX - REQUISIZIONI ((...))**
 
 ###### Art. 413
 
@@ -7882,7 +7884,7 @@ b) a regolarizzare, su domanda dell'interessato, la requisizione eseguita senza 
 
 c) ad accertare le eventuali responsabilita' di agenti dell'amministrazione militare, per irregolarita' da essi eventualmente commesse e per i danni relativi, e a procedere ai conseguenti addebiti, salva la competenza della Corte dei conti.
 
-##### SEZIONE X - LIQUIDAZIONE E PAGAMENTO DELLE INDENNITA'
+**SEZIONE X - LIQUIDAZIONE E PAGAMENTO DELLE INDENNITA'**
 
 ###### Art. 420
 
@@ -7982,7 +7984,7 @@ Effetti della riscossione dell'indennita'
 
 1\. La riscossione dell'indennita' di requisizione costituisce acquiescenza e comporta rinuncia a qualunque impugnazione, amministrativa o giurisdizionale, sia avverso l'ordine di requisizione sia avverso la determinazione della indennita'.
 
-##### SEZIONE XI - RESTITUZIONE DELLE COSE REQUISITE IN USO
+**SEZIONE XI - RESTITUZIONE DELLE COSE REQUISITE IN USO**
 
 ###### Art. 432
 
@@ -8048,7 +8050,7 @@ Riscossione dei crediti dell'amministrazione
 
 2\. A richiesta dell'interessato, l'amministrazione puo' consentire la ripartizione in rate o in annualita' del pagamento delle somme da esso dovute.
 
-##### SEZIONE XII - TUTELA GIURISDIZIONALE
+**SEZIONE XII - TUTELA GIURISDIZIONALE**
 
 ###### Art. 441
 
@@ -8056,7 +8058,7 @@ Riscossione dei crediti dell'amministrazione
 
 1\. La cognizione delle controversie in ordine ai requisiti di cui al presente Capo e' devoluta al giudice ordinario per quanto attiene alla liquidazione delle indennita'; la tutela davanti al giudice amministrativo e' disciplinata dal codice del processo amministrativo.))
 
-##### SEZIONE XIII - DISPOSIZIONI PENALI
+**SEZIONE XIII - DISPOSIZIONI PENALI**
 
 ###### Art. 442
 
@@ -8160,9 +8162,9 @@ Omissione di comunicazioni agli aventi diritto
 
 1\. Il detentore, che non ottempera verso gli aventi diritto all'obbligo previsto dal comma 4 dell'articolo 397, e' punito, su querela della persona offesa, con la multa fino a euro 103,00.
 
-#### CAPO II - DISCIPLINA SPECIALE DELLE REQUISIZIONI DI QUADRUPEDI, VEICOLI E NATANTI DI ACQUA DOLCE IN CASO DI GUERRA O DI GRAVE CRISI INTERNAZIONALE
+##### CAPO II - DISCIPLINA SPECIALE DELLE REQUISIZIONI DI QUADRUPEDI, VEICOLI E NATANTI DI ACQUA DOLCE IN CASO DI GUERRA O DI GRAVE CRISI INTERNAZIONALE
 
-##### SEZIONE I - AMBITO, OGGETTO E PROCEDIMENTO
+**SEZIONE I - AMBITO, OGGETTO E PROCEDIMENTO**
 
 ###### Art. 455
 
@@ -8402,7 +8404,7 @@ Disponibilita' e sostituzione dei capi
 
 3\. Sull'offerta sostituzione decide la commissione.
 
-##### SEZIONE II - SANZIONI
+**SEZIONE II - SANZIONI**
 
 ###### Art. 471
 
@@ -8440,9 +8442,9 @@ Competenza dei tribunali militari
 
 2\. Nei casi in cui si ritenga di infliggere la sola pena pecuniaria, puo' provvedersi con decreto penale, secondo le norme di cui al codice penale militare di pace.
 
-#### CAPO III - DISCIPLINA SPECIALE DELLA REQUISIZIONE DEL NAVIGLIO MERCANTILE IN CASO DI GUERRA O DI GRAVE CRISI INTERNAZIONALE
+##### CAPO III - DISCIPLINA SPECIALE DELLA REQUISIZIONE DEL NAVIGLIO MERCANTILE IN CASO DI GUERRA O DI GRAVE CRISI INTERNAZIONALE
 
-##### SEZIONE I - DISPOSIZIONI GENERALI
+**SEZIONE I - DISPOSIZIONI GENERALI**
 
 ###### Art. 473
 
@@ -8600,7 +8602,7 @@ Verbali
 
 1\. L'inizio, la sospensione, la ripresa, la fine della requisizione sono fatti risultare da appositi documenti, da compilarsi secondo le disposizioni della sezione V del presente capo.
 
-##### SEZIONE II - PERSONE IMBARCATE SULLE NAVI E SUI GALLEGGIANTI OGGETTO DI REQUISIZIONE
+**SEZIONE II - PERSONE IMBARCATE SULLE NAVI E SUI GALLEGGIANTI OGGETTO DI REQUISIZIONE**
 
 ###### Art. 486
 
@@ -8644,7 +8646,7 @@ Equipaggio mercantile imbarcato su unita' requisite iscritte nel naviglio dello 
 
 1\. Per gli equipaggi delle navi requisite che sono inscritte nel naviglio ausiliario si applicano le norme relative alla Marina militare in tempo di guerra.
 
-##### SEZIONE III - CAPITANO DELLA NAVE - COMMISSARIO STATALE - COMANDANTE MILITARE - LORO COADIUTORI
+**SEZIONE III - CAPITANO DELLA NAVE - COMMISSARIO STATALE - COMANDANTE MILITARE - LORO COADIUTORI**
 
 ###### Art. 490
 
@@ -8730,7 +8732,7 @@ Trattamento economico del personale delle amministrazioni dello Stato
 
 1\. Al personale statale militare e civile imbarcato sulle unita' requisite, e' dovuto il trattamento economico previsto dalle disposizioni vigenti in materia, ovvero, ove non previsto, fissato dal Ministero interessato di concerto con il Ministero dell'economia e delle finanze.
 
-##### SEZIONE IV - DETERMINAZIONE DELL'INDENNITA' NEL CASO DI REQUISIZIONE IN PROPRIETA' O IN USO
+**SEZIONE IV - DETERMINAZIONE DELL'INDENNITA' NEL CASO DI REQUISIZIONE IN PROPRIETA' O IN USO**
 
 ###### Art. 499
 
@@ -8990,7 +8992,7 @@ Salvataggi e rimorchi
 
 1\. Qualunque profitto netto spettante all'armatore per salvataggi e rimorchi eseguiti dalla nave o dal galleggiante requisito e' diviso in parti uguali tra l'amministrazione, che ha proceduto alla requisizione, e l'armatore.
 
-##### SEZIONE V - ATTO DI REQUISIZIONE - MODALITA' DELLA CONSEGNA E DELLA RESTITUZIONE DELLE NAVI E DEI GALLEGGIANTI REQUISITI
+**SEZIONE V - ATTO DI REQUISIZIONE - MODALITA' DELLA CONSEGNA E DELLA RESTITUZIONE DELLE NAVI E DEI GALLEGGIANTI REQUISITI**
 
 ###### Art. 507
 
@@ -9092,7 +9094,7 @@ f) di controllo di inventari;
 
 g) ogni altro processo verbale o di dichiarazione concernente l'unita' requisita.
 
-##### SEZIONE VI - ASSICURAZIONI E AVARIE
+**SEZIONE VI - ASSICURAZIONI E AVARIE**
 
 ###### Art. 515
 
@@ -9112,7 +9114,7 @@ a) in caso di perdita, una indennita' pari al valore della nave di cui all'artic
 
 b) in caso di avarie, il rimborso delle spese incontrate e di quelle necessarie alla conseguente riparazione, a meno che l'amministrazione non reputi piu' conveniente procedere essa stessa all'esecuzione dei lavori relativi.
 
-##### SEZIONE VII - SANZIONI PENALI E DISCIPLINARI
+**SEZIONE VII - SANZIONI PENALI E DISCIPLINARI**
 
 ###### Art. 517
 
@@ -9222,9 +9224,9 @@ Sanzioni disciplinari
 
 > 6\. dai comandanti delle navi da guerra nazionali sui componenti dell'equipaggio quando la nave, su cui sono imbarcati, e' in corso di navigazione o in un paese estero nel quale non risiede un'autorita' consolare.
 
-## LIBRO TERZO - AMMINISTRAZIONE E CONTABILITA'
+### LIBRO TERZO - AMMINISTRAZIONE E CONTABILITA'
 
-### TITOLO I - DISPOSIZIONI GENERALI
+#### TITOLO I - DISPOSIZIONI GENERALI
 
 ###### Art. 527
 
@@ -9292,9 +9294,9 @@ Responsabilita' del personale militare
 
 1\. In materia di polizze assicurative, al Ministero della difesa si applicano le disposizioni vigenti per le pubbliche amministrazioni statali sul divieto di stipula di assicurazioni per i dipendenti pubblici.))
 
-### TITOLO II - ATTIVITA' NEGOZIALE DEL MINISTERO DELLA DIFESA
+#### TITOLO II - ATTIVITA' NEGOZIALE DEL MINISTERO DELLA DIFESA
 
-#### CAPO I - DISPOSIZIONI GENERALI SULL'ATTIVITA' NEGOZIALE DEL MINISTERO DELLA DIFESA
+##### CAPO I - DISPOSIZIONI GENERALI SULL'ATTIVITA' NEGOZIALE DEL MINISTERO DELLA DIFESA
 
 ###### Art. 534
 
@@ -9354,7 +9356,7 @@ f) il divieto di chiedere la quotazione in borsa o al mercato ristretto.
 
 10\. Il rapporto di lavoro del personale dipendente della societa' e' disciplinato dalle norme di diritto privato e dalla contrattazione collettiva. In deroga a quanto previsto dal comma 9 dell'articolo 23-bis del decreto legislativo 30 marzo 2001, n. 165, la societa' si avvale anche del personale militare e civile del Ministero della difesa, anche di livello non dirigenziale, in possesso di specifiche competenze in campo amministrativo e gestionale, da impiegare secondo le modalita' previste dallo stesso articolo.
 
-#### CAPO II - PROGRAMMAZIONE
+##### CAPO II - PROGRAMMAZIONE
 
 ###### Art. 536 - Programmi
 
@@ -9416,7 +9418,7 @@ c) verificare l'assenza di effetti peggiorativi sul fabbisogno e sull'indebitame
 
 3\. Le somme percepite per il rimborso dei costi sostenuti per le attivita' di cui al comma 1 sono versate all'entrata del bilancio dello Stato per essere integralmente riassegnate ai fondi di cui all'articolo 619.
 
-#### CAPO III - SEMPLIFICAZIONE E ACCELERAZIONE DELLE PROCEDURE CONTRATTUALI
+##### CAPO III - SEMPLIFICAZIONE E ACCELERAZIONE DELLE PROCEDURE CONTRATTUALI
 
 ###### Art. 538
 
@@ -9480,7 +9482,7 @@ Sostegno logistico dei contingenti impiegati in missioni internazionali
 
 2\. Con uno o piu' provvedimenti del Capo di stato maggiore della difesa e' definito l'elenco dei materiali, dei servizi, dei lavori e delle opere di cui al comma 1, anche ai fini delle procedure in materia di scarico contabile)).
 
-#### CAPO IV - PERMUTE
+##### CAPO IV - PERMUTE
 
 ###### Art. 545
 
@@ -9490,7 +9492,7 @@ Permute
 
 2\. Il regolamento, su cui per tale parte e' acquisito il concerto del Ministro dell'economia e delle finanze, disciplina le condizioni e le modalita' per la stipula degli atti e l'esecuzione delle prestazioni, nel rispetto della vigente disciplina in materia negoziale e del principio di economicita'.
 
-#### CAPO V - SERVIZIO DI MENSA
+##### CAPO V - SERVIZIO DI MENSA
 
 ###### Art. 546
 
@@ -9512,7 +9514,7 @@ c) fornitura di viveri speciali da combattimento.
 
 5\. Il regolamento, in tale parte adottato di concerto con il Ministro dell'economia e delle finanze, e su proposta dei Capi di stato maggiore di forza armata e del Comandante generale dell'Arma dei carabinieri e del Corpo della Guardia di finanza, ((sentite le associazioni professionali a carattere sindacale tra militari rappresentative ai sensi dell'articolo 1478)), detta norme interforze per disciplinare la struttura, l'organizzazione e il funzionamento delle mense di servizio.
 
-#### CAPO VI - CONCESSIONI DI BENI
+##### CAPO VI - CONCESSIONI DI BENI
 
 ###### Art. 547
 
@@ -9530,11 +9532,11 @@ Concessioni per gli interventi di protezione sociale e per le attivita' connesse
 
 2\. ((Le amministrazioni competenti provvedono agli adempimenti previsti dal presente articolo con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri a carico della finanza pubblica)).
 
-### TITOLO III - BILANCIO, NORME DI SPESA, FONDI DA RIPARTIRE
+#### TITOLO III - BILANCIO, NORME DI SPESA, FONDI DA RIPARTIRE
 
-#### CAPO I - BILANCIO
+##### CAPO I - BILANCIO
 
-##### SEZIONE I - FORMAZIONE DEL BILANCIO
+**SEZIONE I - FORMAZIONE DEL BILANCIO**
 
 ###### Art. 548
 
@@ -9552,7 +9554,7 @@ d) sullo stato di attuazione del programma di potenziamento e ammodernamento del
 
 e) sui programmi, di competenza del Ministero della difesa, attuati ai sensi della legge 11 novembre 1986, n. 770.
 
-##### SEZIONE II - GESTIONE DEL BILANCIO
+**SEZIONE II - GESTIONE DEL BILANCIO**
 
 ###### Art. 549
 
@@ -9584,7 +9586,7 @@ Riassegnazione di entrate a bilancio
 
 ((1-bis Il Ministero della difesa e' autorizzato a garantire lo svolgimento di attivita' concorsuali a favore delle altre pubbliche amministrazioni secondo le modalita' di cui al comma 1 nei limiti finanziari disposti dall'articolo 2, commi 615 e 617, della legge 24 dicembre 2007, n. 244.))
 
-##### SEZIONE III - GESTIONE DELLA SPESA
+**SEZIONE III - GESTIONE DELLA SPESA**
 
 ###### Art. 550
 
@@ -9600,7 +9602,7 @@ b) per il pagamento dei fornitori e degli altri creditori.
 
 ((2-bis. Il regolamento individua, in coerenza con l'articolo 60 del regio decreto 18 novembre 1923, n. 2440, e con i principi recati dal decreto legislativo 30 giugno 2011, n. 123, le forme di controllo cui debbono essere sottoposti gli atti di spesa discendenti delle aperture di credito di cui al comma 2.))
 
-##### SEZIONE IV - DISPOSIZIONI VARIE
+**SEZIONE IV - DISPOSIZIONI VARIE**
 
 ###### Art. 551
 
@@ -9612,9 +9614,9 @@ Fondo scorta
 
 3\. L'utilizzo del fondo e' disciplinato dal regolamento.
 
-#### CAPO II - NORME DI SPESA
+##### CAPO II - NORME DI SPESA
 
-##### SEZIONE I - DISPOSIZIONI GENERALI
+**SEZIONE I - DISPOSIZIONI GENERALI**
 
 ###### Art. 552
 
@@ -9628,7 +9630,7 @@ Spese di natura riservata
 
 1\. Per sopperire alle spese di natura riservata e' assegnata agli organi di vertice, allo Stato maggiore della difesa, al Segretariato generale della difesa ((e alla Direzione nazionale degli armamenti)), agli Stati maggiori di Forza armata e agli altri organi centrali del Ministero della difesa, una somma stabilita annualmente con decreto ministeriale, nell'ambito dello stanziamento determinato con legge di bilancio. Per l'Arma dei carabinieri, l'assegnazione della somma di cui al presente articolo e' disposta con decreto ministeriale concernente attribuzione delle risorse ai sensi dell'articolo 14, comma 1, lettera b), del decreto legislativo 30 marzo 2001, n. 165.
 
-##### SEZIONE II - NORME DI SPESA IN RELAZIONE AL LIBRO I
+**SEZIONE II - NORME DI SPESA IN RELAZIONE AL LIBRO I**
 
 ###### Art. 554
 
@@ -9744,7 +9746,7 @@ Contributo a favore dell'Organizzazione idrografica internazionale
 
 ((ARTICOLO ABROGATO DALLA L. 23 DICEMBRE 2014, N. 190))
 
-##### SEZIONE III - NORME DI SPESA IN RELAZIONE AL LIBRO II
+**SEZIONE III - NORME DI SPESA IN RELAZIONE AL LIBRO II**
 
 ###### Art. 566
 
@@ -9770,7 +9772,7 @@ Dotazioni finanziarie destinate agli indennizzi a privati e ai contributi a comu
 
 1\. La spesa complessiva per indennizzi a privati e per contributi a comuni e regioni, derivante dall'articolo 325, comma 1, e dall'articolo 330, commi 1 e 2, e' determinata annualmente con legge di bilancio.
 
-##### SEZIONE IV - NORME DI SPESA IN RELAZIONE AI LIBRI IV E V
+**SEZIONE IV - NORME DI SPESA IN RELAZIONE AI LIBRI IV E V**
 
 ###### Art. 570
 
@@ -10156,7 +10158,7 @@ Oneri per il trattamento economico al personale del servizio di assistenza spiri
 
 1\. L'onere per il trattamento economico di attivita' e di quiescenza dell'Ordinario militare, del Vicario generale militare e degli ispettori, e' a carico dell'Amministrazione della difesa; per i cappellani militari, l'onere per il trattamento economico di attivita' e' a carico dell'Amministrazione presso cui gli stessi cappellani sono impiegati, quello di quiescenza e' a carico dell'Amministrazione della difesa.
 
-##### SEZIONE V - NORME DI SPESA IN RELAZIONE AL LIBRO VI
+**SEZIONE V - NORME DI SPESA IN RELAZIONE AL LIBRO VI**
 
 ###### Art. 588
 
@@ -10232,7 +10234,7 @@ Fondo per l'organizzazione e il funzionamento di servizi socio-educativi per la 
 
 3\. I servizi socio-educativi di cui al comma 1 sono accessibili ((oltre che da minori figli di dipendenti dell'Amministrazione della difesa, anche da minori figli di dipendenti delle amministrazioni centrali e periferiche dello Stato, nonche' da minori figli di dipendenti delle amministrazioni locali e da minori che non trovano collocazione nelle strutture pubbliche comunali,)) e concorrono a integrare l'offerta complessiva del sistema integrato dei servizi socio-educativi per la prima infanzia e del relativo Piano straordinario di intervento di cui all'articolo 1, comma 1259, della legge 27 dicembre 2006, n. 296, come modificato dall'articolo 2, comma 457, della legge 24 dicembre 2007, n. 244.
 
-##### SEZIONE VI - NORME DI SPESA IN RELAZIONE AL LIBRO VII
+**SEZIONE VI - NORME DI SPESA IN RELAZIONE AL LIBRO VII**
 
 ###### Art. 597
 
@@ -10282,7 +10284,7 @@ Autorizzazione di spesa per indennizzi al personale italiano esposto a particola
 
 4\. Il Ministero della difesa, di concerto con i Ministeri dell'interno, dell'economia e delle finanze e della salute, provvede al monitoraggio degli effetti derivanti dalle misure di cui al comma 2, che devono risultare nei limiti delle risorse stanziate sul capitolo 1331 dello stato di previsione del Ministero della difesa, per il triennio 2008-2010, ai sensi dell'autorizzazione di spesa di cui al comma 1. Cio' ai fini, nel caso di eventuali eccedenze di spesa, dell'adozione delle conseguenti correzioni per ricondurre la spesa complessiva entro i predetti limiti.
 
-##### SEZIONE VII - NORME DI SPESA IN RELAZIONE A SPECIFICI PROGRAMMI DI INVESTIMENTO
+**SEZIONE VII - NORME DI SPESA IN RELAZIONE A SPECIFICI PROGRAMMI DI INVESTIMENTO**
 
 ###### Art. 604
 
@@ -10346,9 +10348,9 @@ Altre spese di investimento
 
 1\. Altre spese di investimento del Ministero della difesa sono quantificate in euro 1.989 milioni per l'anno 2010 e rideterminate con la legge di bilancio per gli anni successivi.
 
-#### CAPO III - FONDI DA RIPARTIRE
+##### CAPO III - FONDI DA RIPARTIRE
 
-##### SEZIONE I - NORME DI RINVIO E FONDI DA RIPARTIRE DI CARATTERE GENERALE
+**SEZIONE I - NORME DI RINVIO E FONDI DA RIPARTIRE DI CARATTERE GENERALE**
 
 ###### Art. 609
 
@@ -10390,7 +10392,7 @@ Fondo da ripartire per finalita' per le quali non si da' luogo a riassegnazioni 
 
 > L'utilizzazione dei fondi e' effettuata dal Ministro competente, di concerto con il Ministro dell'economia e delle finanze, in considerazione dell'andamento delle entrate versate. La dotazione dei fondi e' annualmente rideterminata in base all'andamento dei versamenti riassegnabili effettuati entro il 31 dicembre dei due esercizi precedenti in modo da assicurare in ciascun anno un risparmio in termini di indebitamento pari a 300 milioni di euro».
 
-##### SEZIONE II - FONDI DA RIPARTIRE DI ESCLUSIVO INTERESSE DELLA DIFESA
+**SEZIONE II - FONDI DA RIPARTIRE DI ESCLUSIVO INTERESSE DELLA DIFESA**
 
 ###### Art. 613
 
@@ -10476,11 +10478,11 @@ Fondo per esigenze prioritarie della difesa
 
 ((1. Per assicurare il rispetto degli impegni assunti dall'Italia connessi con il mantenimento della pace e della sicurezza internazionali, nello stato di previsione del Ministero della difesa e' istituito un fondo per finanziare l'approntamento e l'impiego degli assetti ad alta e altissima prontezza operativa a cio' destinati. La dotazione iniziale del fondo di cui al primo periodo e' pari a 3 milioni di euro per l'anno 2022 e a 6 milioni di euro annui a decorrere dall'anno 2023. Il fondo di cui al presente comma e' ripartito tra le diverse finalita' di impiego con decreto del Ministro della difesa, previa intesa con il Ministero dell'economia e delle finanze)).
 
-## LIBRO QUARTO - PERSONALE MILITARE
+### LIBRO QUARTO - PERSONALE MILITARE
 
-### TITOLO I - DISPOSIZIONI GENERALI
+#### TITOLO I - DISPOSIZIONI GENERALI
 
-#### CAPO I - DEI MILITARI
+##### CAPO I - DEI MILITARI
 
 ###### Art. 621
 
@@ -10542,7 +10544,7 @@ Rapporti con la legge penale militare
 
 3\. Il personale religioso impiegato dall'Amministrazione della difesa, il personale della Croce rossa italiana ausiliario delle Forze armate e il personale militare dell'Associazione dei cavalieri italiani del sovrano militare Ordine di Malta sono disciplinati in via esclusiva dal libro V.
 
-#### CAPO II - GERARCHIA MILITARE
+##### CAPO II - GERARCHIA MILITARE
 
 ###### Art. 626
 
@@ -10748,9 +10750,9 @@ u) ((graduato scelto)) e corrispondenti: agente scelto e corrispondenti;
 
 v) ((graduato)) e corrispondenti: agente e corrispondenti.
 
-### TITOLO II - RECLUTAMENTO
+#### TITOLO II - RECLUTAMENTO
 
-#### CAPO I - DISPOSIZIONI GENERALI
+##### CAPO I - DISPOSIZIONI GENERALI
 
 ###### Art. 633
 
@@ -10948,9 +10950,9 @@ A tutti i frequentatori, ove non sia diversamente disposto, e' riconosciuta, pre
 
 2\. Qualora la facolta' di cui al comma 1 sia esercitata per i corsi formativi per allievo carabiniere di cui all'articolo 783 del presente codice ovvero di cui all'articolo 957 del regolamento, a tutti i frequentatori e' riconosciuta, ai soli fini giuridici, la data di arruolamento piu' favorevole degli incorporati del primo ciclo, da cui decorre la ferma volontaria prevista dall'articolo 784. ))
 
-#### CAPO II - UFFICIALI IN SERVIZIO PERMANENTE
+##### CAPO II - UFFICIALI IN SERVIZIO PERMANENTE
 
-##### SEZIONE I - DISPOSIZIONI GENERALI
+**SEZIONE I - DISPOSIZIONI GENERALI**
 
 ###### Art. 646
 
@@ -11146,7 +11148,7 @@ Il D.Lgs. 3 aprile 2026, n. 74 ha disposto (con l'art. 20, comma 2, lettera c)) 
 
 c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
-##### SEZIONE II - UFFICIALI DELL'ESERCITO ITALIANO, DELLA MARINA MILITARE ((, DELL'AERONAUTICA MILITARE e DELLA SANITA' MILITARE))
+**SEZIONE II - UFFICIALI DELL'ESERCITO ITALIANO, DELLA MARINA MILITARE ((, DELL'AERONAUTICA MILITARE e DELLA SANITA' MILITARE))**
 
 ###### Art. 654
 
@@ -11308,7 +11310,7 @@ Ripartizione in specialita' degli ufficiali della Marina militare e dell'Aeronau
 
 1\. Nei bandi di concorso i posti messi a concorso per gli ufficiali appartenenti ai ruoli della Marina militare e dell'Aeronautica militare possono essere ripartiti tra le varie specialita'.
 
-##### SEZIONE III - UFFICIALI DELL'ARMA DEI CARABINIERI
+**SEZIONE III - UFFICIALI DELL'ARMA DEI CARABINIERI**
 
 ###### Art. 662
 
@@ -11384,7 +11386,7 @@ Il D.Lgs. 3 aprile 2026, n. 74 ha disposto (con l'art. 20, comma 2, lettera c)) 
 
 c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
-##### SEZIONE IV - CONCORSI RISERVATI AGLI UFFICIALI PILOTI E NAVIGATORI DI COMPLEMENTO
+**SEZIONE IV - CONCORSI RISERVATI AGLI UFFICIALI PILOTI E NAVIGATORI DI COMPLEMENTO**
 
 ###### Art. 667 - Concorsi straordinari
 
@@ -11470,9 +11472,9 @@ Nomina nel servizio permanente
 
 ((ARTICOLO ABROGATO DAL D.LGS. 28 GENNAIO 2014, N. 8))
 
-#### CAPO III - UFFICIALI AUSILIARI
+##### CAPO III - UFFICIALI AUSILIARI
 
-##### SEZIONE I - UFFICIALI IN FERMA PREFISSATA
+**SEZIONE I - UFFICIALI IN FERMA PREFISSATA**
 
 ###### Art. 672
 
@@ -11512,7 +11514,7 @@ a) riserve di posti a favore dei diplomati presso le scuole militari, e dei figl
 
 b) la ripartizione dei posti messi a concorso per armi, ((corpi,)) specialita' o specializzazioni.
 
-##### SEZIONE II - UFFICIALI DI COMPLEMENTO
+**SEZIONE II - UFFICIALI DI COMPLEMENTO**
 
 ###### Art. 674
 
@@ -11548,7 +11550,7 @@ Reclutamento in servizio di prima nomina
 
 5\. La durata della ferma di leva per gli ufficiali di complemento di prima nomina e' di 14 mesi.
 
-##### SEZIONE III - UFFICIALI PILOTI E NAVIGATORI DI COMPLEMENTO
+**SEZIONE III - UFFICIALI PILOTI E NAVIGATORI DI COMPLEMENTO**
 
 ###### Art. 676
 
@@ -11570,7 +11572,7 @@ c) possedere le qualita' fisiche e psico-attitudinali, accertate presso appositi
 
 ((ARTICOLO ABROGATO DAL D.LGS. 28 GENNAIO 2014, N. 8))
 
-##### SEZIONE IV - DISPOSIZIONI FINALI
+**SEZIONE IV - DISPOSIZIONI FINALI**
 
 ###### Art. 678
 
@@ -11594,9 +11596,9 @@ Incentivi per il reclutamento degli ufficiali ausiliari
 
 9\. Le riserve di posti di cui all'articolo 1014, si applicano anche agli ufficiali di complemento in ferma biennale e agli ufficiali in ferma prefissata che hanno completato senza demerito la ferma contratta.
 
-#### CAPO IV - MARESCIALLI E ISPETTORI
+##### CAPO IV - MARESCIALLI E ISPETTORI
 
-##### SEZIONE I - DISPOSIZIONI GENERALI
+**SEZIONE I - DISPOSIZIONI GENERALI**
 
 ###### Art. 679
 
@@ -11646,7 +11648,7 @@ Il D.Lgs. 3 aprile 2026, n. 74 ha disposto (con l'art. 20, comma 2, lettera c)) 
 
 c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
-##### SEZIONE II - MARESCIALLI DELL'ESERCITO ITALIANO, DELLA MARINA MILITARE ((, DELL'AERONAUTICA MILITARE E DELLA SANITA' MILITARE))
+**SEZIONE II - MARESCIALLI DELL'ESERCITO ITALIANO, DELLA MARINA MILITARE ((, DELL'AERONAUTICA MILITARE E DELLA SANITA' MILITARE))**
 
 ###### Art. 682
 
@@ -11720,7 +11722,7 @@ Il D.Lgs. 3 aprile 2026, n. 74 ha disposto (con l'art. 20, comma 2, lettera c)) 
 
 c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
-##### SEZIONE III - ISPETTORI DELL'ARMA DEI CARABINIERI
+**SEZIONE III - ISPETTORI DELL'ARMA DEI CARABINIERI**
 
 ###### Art. 683 - Alimentazione del ruolo degli ispettori
 
@@ -11900,7 +11902,7 @@ Prova facoltativa
 
 3\. La commissione assegna ((per ciascuna prova facoltativa)) un punto di merito espresso in trentesimi. L'idoneita' si consegue riportando il punteggio di almeno diciotto trentesimi. Il concorrente che consegua l'idoneita' ottiene nel punteggio della graduatoria finale di merito le maggiorazioni stabilite nel bando di concorso.
 
-#### CAPO V - SERGENTI E SOVRINTENDENTI
+##### CAPO V - SERGENTI E SOVRINTENDENTI
 
 ###### Art. 690 - Modalita' di reclutamento dei sergenti e dei sovrintendenti
 
@@ -11984,7 +11986,7 @@ e-bis) ((LETTERA SOPPRESSA DAL D.LGS. 5 OTTOBRE 2018, N. 126)).
 
 7-bis. Al fine di soddisfare le esigenze in materia di sicurezza e tutela ambientale, forestale e agroalimentare, e' stabilito nei bandi di concorso di cui ai commi 1 e 2, il numero dei posti da riservare al personale gia' in possesso delle relative specializzazioni, in misura comunque non inferiore al 4 per cento dei posti. Il personale specializzato che concorre per tale riserva di posti non puo' concorrere, nel medesimo anno di riferimento, per la rimanente parte di posti disponibili.
 
-#### CAPO VI - ISPETTORI E SOVRINTENDENTI DEL REGGIMENTO CORAZZIERI
+##### CAPO VI - ISPETTORI E SOVRINTENDENTI DEL REGGIMENTO CORAZZIERI
 
 ###### Art. 693
 
@@ -12068,9 +12070,9 @@ Reclutamento degli ispettori del Reggimento Corazzieri
 
 5\. Si osservano le disposizioni dell'articolo 693, commi 4, 5, 6, 7, 8 e 9.
 
-#### CAPO VII - RECLUTAMENTO DEI VOLONTARI
+##### CAPO VII - RECLUTAMENTO DEI VOLONTARI
 
-##### ((SEZIONE 0I)) - ((VOLONTARI IN FERMA PREFISSATA))
+**((SEZIONE 0I)) - ((VOLONTARI IN FERMA PREFISSATA))**
 
 ###### Art. 696-bis
 
@@ -12086,7 +12088,7 @@ b) volontari in ferma prefissata triennale.
 
 3\. La durata delle ferme di cui al comma 2 puo' essere prolungata, con il consenso degli interessati, per il tempo strettamente necessario al completamento, rispettivamente, dell'iter concorsuale di coloro che hanno presentato domanda per il reclutamento come volontari in ferma triennale ovvero delle procedure per il transito nei ruoli dei volontari in servizio permanente ai sensi dell'articolo 704)).
 
-##### SEZIONE I - ((VOLONTARI IN FERMA PREFISSATA INIZIALE))
+**SEZIONE I - ((VOLONTARI IN FERMA PREFISSATA INIZIALE))**
 
 ###### Art. 697
 
@@ -12114,7 +12116,7 @@ Incentivi per il reclutamento volontario
 
 1\. Le disposizioni che prevedono l'attribuzione di benefici non economici conseguenti all'avere effettuato il servizio militare di leva si applicano, in quanto compatibili, senza nuovi o maggiori oneri a carico dello Stato, anche con riferimento alla effettuazione del servizio militare volontario in ferma prefissata ((per almeno dodici mesi)).
 
-##### SEZIONE II - ((VOLONTARI IN FERMA PREFISSATA TRIENNALE))
+**SEZIONE II - ((VOLONTARI IN FERMA PREFISSATA TRIENNALE))**
 
 ###### Art. 700 - Requisiti
 
@@ -12158,7 +12160,7 @@ c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ((1. Le modalita' di reclutamento dei volontari in ferma prefissata triennale sono disciplinate con decreto del Ministro della difesa)).
 
-##### SEZIONE III - NORME COMUNI AL RECLUTAMENTO DEI VOLONTARI IN FERMA PREFISSATA
+**SEZIONE III - NORME COMUNI AL RECLUTAMENTO DEI VOLONTARI IN FERMA PREFISSATA**
 
 ###### Art. 702
 
@@ -12226,7 +12228,7 @@ Il D.L. 22 aprile 2023, n. 44 nel modificare l'art. 7, comma 2 del D.Lgs. 12 mag
 
 b) al fine di accrescere l'efficienza della componente specialistica Antiterrorismo e pronto impiego del Corpo della guardia di finanza, il limite massimo annuale di cui all'articolo 7, comma 2, del decreto legislativo 12 maggio 1995, n. 199, e' incrementato di 24 unita' per ciascuno degli anni dal 2023 al 2026".
 
-##### SEZIONE IV - VOLONTARI IN SERVIZIO PERMANENTE
+**SEZIONE IV - VOLONTARI IN SERVIZIO PERMANENTE**
 
 ###### Art. 704
 
@@ -12280,7 +12282,7 @@ Il D.Lgs. 3 aprile 2026, n. 74 ha disposto (con l'art. 20, comma 2, lettera c)) 
 
 c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
-#### CAPO VIII - CARABINIERI
+##### CAPO VIII - CARABINIERI
 
 ###### Art. 706
 
@@ -12328,7 +12330,7 @@ AGGIORNAMENTO (14)
 
 Il D.Lgs. 24 febbraio 2012, n. 20 ha disposto (con l'art. 4, comma 1, lettera i)) che nel comma 1 del presente articolo le parole "della vacanza" sono sostituite dalle seguenti: "delle vacanze".
 
-#### CAPO IX - ALLIEVI DELLE SCUOLE MILITARI
+##### CAPO IX - ALLIEVI DELLE SCUOLE MILITARI
 
 ###### Art. 710
 
@@ -12824,9 +12826,9 @@ Allievi stranieri
 
 1\. E' consentita l'ammissione alle scuole militari di giovani stranieri che conoscano la lingua italiana e sono in possesso di un titolo di studio riconosciuto equipollente a quelli prescritti dall'articolo 711, lettera b).
 
-### TITOLO III - FORMAZIONE ((E ADDESTRAMENTO))
+#### TITOLO III - FORMAZIONE ((E ADDESTRAMENTO))
 
-#### CAPO I - DISPOSIZIONI GENERALI
+##### CAPO I - DISPOSIZIONI GENERALI
 
 ###### Art. 715
 
@@ -12866,9 +12868,9 @@ c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 1\. Il Ministro della difesa e' autorizzato ad ammettere personale militare straniero a frequentare corsi presso istituti, scuole e altri enti militari, con le modalita' di cui all'articolo 573.))
 
-#### CAPO II - UFFICIALI IN SERVIZIO PERMANENTE
+##### CAPO II - UFFICIALI IN SERVIZIO PERMANENTE
 
-##### SEZIONE I - DISPOSIZIONI GENERALI
+**SEZIONE I - DISPOSIZIONI GENERALI**
 
 ###### Art. 719
 
@@ -13012,7 +13014,7 @@ Il D.Lgs. 3 aprile 2026, n. 74, ha disposto (con l'art. 20, comma 2, lettera c))
 
 c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
-##### SEZIONE II - UFFICIALI DELL'ESERCITO ITALIANO
+**SEZIONE II - UFFICIALI DELL'ESERCITO ITALIANO**
 
 ###### Art. 725
 
@@ -13080,7 +13082,7 @@ a) sono collocati nella categoria del complemento con obbligo di ultimare la fer
 
 b) possono essere trasferiti, a domanda o d'autorita', ad altra arma o corpo, sempre in funzione delle esigenze di Forza armata.
 
-##### SEZIONE III - UFFICIALI DELLA MARINA MILITARE
+**SEZIONE III - UFFICIALI DELLA MARINA MILITARE**
 
 ###### Art. 728
 
@@ -13120,7 +13122,7 @@ Mancato transito nei ruoli speciali
 
 1\. Gli ufficiali che non hanno presentato domanda di transito nei ruoli speciali ai sensi dell'articolo 655, comma 1, lettera d), ovvero non vi possono transitare ai sensi del medesimo articolo, o dell'articolo 728, comma 5, sono collocati nella categoria del complemento con obbligo di ultimare la ferma contratta ((, fatta eccezione per i casi di cui all'articolo 935, comma 1, lettera c-bis) )).
 
-##### SEZIONE IV - UFFICIALI DELL'AERONAUTICA MILITARE
+**SEZIONE IV - UFFICIALI DELL'AERONAUTICA MILITARE**
 
 ###### Art. 731
 
@@ -13170,7 +13172,7 @@ Mancato transito nei ruoli speciali
 
 1\. Gli ufficiali che non hanno presentato domanda di transito nei ruoli speciali ai sensi dell'articolo 655, comma 1, lettera d), ovvero non vi possono transitare ai sensi del medesimo articolo, o dell'articolo 732, comma 1, sono collocati nella categoria del complemento con obbligo di ultimare la ferma contratta ((, fatta eccezione per i casi di cui all'articolo 935, comma 1, lettera c-bis) )).
 
-##### SEZIONE V - UFFICIALI DELL'ARMA DEI CARABINIERI
+**SEZIONE V - UFFICIALI DELL'ARMA DEI CARABINIERI**
 
 ###### Art. 734
 
@@ -13240,7 +13242,7 @@ Obblighi di servizio
 
 3\. I vincitori dei concorsi per la nomina a ufficiale del ruolo ((tecnico)) e del ruolo forestale, se non gia' in servizio permanente, sono vincolati a una ferma di sette anni, decorrente dall'inizio del rispettivo corso formativo, che assorbe ogni altra ferma precedentemente contratta.
 
-##### ((SEZIONE V-BIS - UFFICIALI DELLA SANITA' MILITARE))
+**((SEZIONE V-BIS - UFFICIALI DELLA SANITA' MILITARE))**
 
 ###### Art. 738-bis
 
@@ -13342,9 +13344,9 @@ Il D.Lgs. 3 aprile 2026, n. 74, ha disposto (con l'art. 20, comma 2, lettera c))
 
 c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
-#### CAPO III - UFFICIALI AUSILIARI
+##### CAPO III - UFFICIALI AUSILIARI
 
-##### SEZIONE I - UFFICIALI IN FERMA PREFISSATA
+**SEZIONE I - UFFICIALI IN FERMA PREFISSATA**
 
 ###### Art. 739
 
@@ -13412,7 +13414,7 @@ a) se provenienti dai ruoli dei marescialli, rientrano nella categoria di proven
 
 b) se provenienti dalla vita civile, sono collocati in congedo.
 
-##### SEZIONE II - UFFICIALI PILOTI E NAVIGATORI DI COMPLEMENTO
+**SEZIONE II - UFFICIALI PILOTI E NAVIGATORI DI COMPLEMENTO**
 
 ###### Art. 743
 
@@ -13466,7 +13468,7 @@ Reimpiego del personale che non supera il corso o ne e' dimesso
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-##### SEZIONE III - UFFICIALI DI COMPLEMENTO
+**SEZIONE III - UFFICIALI DI COMPLEMENTO**
 
 ###### Art. 750
 
@@ -13488,9 +13490,9 @@ Il D.Lgs. 3 aprile 2026, n. 74, ha disposto (con l'art. 20, comma 2, lettera c))
 
 c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
-#### CAPO IV - FORMAZIONE SUPERIORE DEGLI UFFICIALI
+##### CAPO IV - FORMAZIONE SUPERIORE DEGLI UFFICIALI
 
-##### SEZIONE I - CORSI DI STATO MAGGIORE
+**SEZIONE I - CORSI DI STATO MAGGIORE**
 
 ###### Art. 751
 
@@ -13570,7 +13572,7 @@ Il D.Lgs. 3 aprile 2026, n. 74, ha disposto (con l'art. 20, comma 2, lettera c))
 
 c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
-##### SEZIONE II - CORSO D'ISTITUTO PER UFFICIALI DELL'ARMA DEI CARABINIERI
+**SEZIONE II - CORSO D'ISTITUTO PER UFFICIALI DELL'ARMA DEI CARABINIERI**
 
 ###### Art. 755
 
@@ -13584,7 +13586,7 @@ Il corso si conclude con un esame sostenuto davanti ad apposita commissione, nom
 
 3\. Nel regolamento sono stabilite la durata, le modalita' di ammissione, di svolgimento, di frequenza ((anche con modalita' telematica)), di rinvio, di valutazione dei frequentatori, nonche' le modalita' di funzionamento della commissione di cui al comma 2.
 
-##### SEZIONE III - MEDICI MILITARI
+**SEZIONE III - MEDICI MILITARI**
 
 ###### Art. 756
 
@@ -13676,7 +13678,7 @@ Il D.Lgs. 3 aprile 2026, n. 74, ha disposto (con l'art. 20, comma 2, lettera c))
 
 c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
-#### CAPO V - MARESCIALLI DELL'ESERCITO ITALIANO, DELLA MARINA MILITARE ((, DELL'AERONAUTICA MILITARE E DELLA SANITA' MILITARE))
+##### CAPO V - MARESCIALLI DELL'ESERCITO ITALIANO, DELLA MARINA MILITARE ((, DELL'AERONAUTICA MILITARE E DELLA SANITA' MILITARE))
 
 ###### Art. 759
 
@@ -13758,7 +13760,7 @@ Equipollenza dei titoli conseguiti
 
 > \- Il decreto del Presidente della Repubblica 19 marzo 1970, n. 253 (Istituzione di corsi sperimentali presso gli istituti professionali di Stato), e' pubblicato nella Gazzetta Ufficiale del 15 maggio 1970, n. 120.
 
-#### CAPO VI - ISPETTORI
+##### CAPO VI - ISPETTORI
 
 ###### Art. 765
 
@@ -13876,7 +13878,7 @@ c) sono sospesi dall'impiego o dalle funzioni del grado;
 
 d) si trovano in aspettativa per qualsiasi motivo per una durata non inferiore a 60 giorni.
 
-#### CAPO VII - SERGENTI
+##### CAPO VII - SERGENTI
 
 ###### Art. 773
 
@@ -13900,7 +13902,7 @@ c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 1\. Agli ammessi ai corsi per la nomina a sergente si applicano le disposizioni sullo stato giuridico ((del ruolo di provenienza all'atto dell'inizio del corso di formazione di cui all'articolo 773)) e quelle contenute nel regolamento.
 
-#### CAPO VIII - SOVRINTENDENTI
+##### CAPO VIII - SOVRINTENDENTI
 
 ###### Art. 775 - Corso di formazione professionale
 
@@ -13970,7 +13972,7 @@ c) sono sospesi dall'impiego o dalle funzioni del grado;
 
 d) si trovano in aspettativa per qualsiasi motivo per una durata non inferiore a 60 giorni.
 
-#### CAPO IX - VOLONTARI IN FERMA PREFISSATA
+##### CAPO IX - VOLONTARI IN FERMA PREFISSATA
 
 ###### Art. 781
 
@@ -13988,7 +13990,7 @@ Speciali obblighi di servizio per i volontari
 
 1\. ((I volontari ammessi)) a corsi di specializzazione di particolare livello tecnico, individuati con determinazione del Capo di stato maggiore della difesa, ((hanno l'obbligo di)) commutare la ferma o rafferma assunta in una rafferma decorrente dalla data di scadenza di quella precedente e avente durata di cinque anni ((...)); tale obbligo permane anche per i volontari che nel frattempo sono transitati nel servizio permanente.
 
-#### CAPO X - CARABINIERI
+##### CAPO X - CARABINIERI
 
 ###### Art. 783
 
@@ -14026,7 +14028,7 @@ c) sono sospesi dall'impiego o dalle funzioni del grado;
 
 d) si trovano in aspettativa per qualsiasi motivo per una durata non inferiore a 60 giorni.
 
-#### CAPO XI - ALLIEVI DELLE SCUOLE MILITARI
+##### CAPO XI - ALLIEVI DELLE SCUOLE MILITARI
 
 ###### Art. 786
 
@@ -14098,11 +14100,11 @@ c) le altre ipotesi disciplinate dal regolamento.
 
 2\. Gli allievi delle scuole militari sono giudicati annualmente in relazione all'idoneita' alla vita militare, secondo le modalita' stabilite nel regolamento, attraverso l'attribuzione di un voto in attitudine militare.
 
-### TITOLO IV - RUOLI
+#### TITOLO IV - RUOLI
 
-#### CAPO I - DISPOSIZIONI GENERALI
+##### CAPO I - DISPOSIZIONI GENERALI
 
-##### SEZIONE I - NORME GENERALI SUI RUOLI
+**SEZIONE I - NORME GENERALI SUI RUOLI**
 
 ###### Art. 790
 
@@ -14178,7 +14180,7 @@ Trasferimento tra ruoli
 
 3-ter ((COMMA ABROGATO DAL D.LGS. 31 DICEMBRE 2012, N. 248)).
 
-##### SEZIONE II - NORME GENERALI SUGLI ORGANICI
+**SEZIONE II - NORME GENERALI SUGLI ORGANICI**
 
 ###### Art. 798 - Dotazioni organiche complessive dell'Esercito italiano, della Marina militare ((, dell'Aeronautica militare e del Corpo unico della Sanita' militare)) ). ((138)
 
@@ -14402,7 +14404,7 @@ b-ter) la consistenza organica degli allievi delle scuole militari.
 
 ((b-quater) un eventuale contingente aggiuntivo di personale appartenente alla categoria dei militari di truppa in ferma prefissata, da reclutare in caso di specifiche esigenze funzionali delle Forze armate connesse alle emergenze operative derivanti da attivita' di concorso, soccorso e assistenza sul territorio nazionale e all'estero, specificamente nelle aree di crisi a garanzia della pace e della sicurezza, ovvero al controllo dei flussi migratori e al contrasto alla pirateria.))
 
-#### CAPO II - RUOLI D'ONORE
+##### CAPO II - RUOLI D'ONORE
 
 ###### Art. 804
 
@@ -14590,7 +14592,7 @@ Personale al quale e' riconosciuto il trattamento pensionistico di guerra
 
 1\. I sottufficiali, i graduati e i militari di truppa ai quali e' stato riconosciuto il trattamento pensionistico di guerra possono essere iscritti nel ruolo d'onore anche se il relativo decreto e' stato emanato dopo la cessazione dal servizio permanente per raggiunti limiti di eta', a condizione che la domanda di concessione sia antecedente alla predetta cessazione dal servizio permanente.
 
-#### CAPO III - ESERCITO ITALIANO
+##### CAPO III - ESERCITO ITALIANO
 
 ###### Art. 808
 
@@ -14676,9 +14678,9 @@ AGGIORNAMENTO (22)
 
 Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 29, ha disposto (con l'art. 1126-bis, comma 1, lettera c)) che "i rinvii alle disposizioni soppresse, di cui alla lettera a), alle disposizioni abrogate, di cui alla lettera b), o alle materie dalle stesse disciplinate, contenuti nel codice, debbono intendersi riferiti alle disposizioni del presente regolamento ovvero del decreto del Presidente del Consiglio dei Ministri in data 11 gennaio 2013, adottato in attuazione dell'articolo 2, comma 3, primo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, che disciplinano la medesima materia".
 
-#### CAPO IV - MARINA MILITARE
+##### CAPO IV - MARINA MILITARE
 
-##### SEZIONE I - RUOLI E ORGANICI
+**SEZIONE I - RUOLI E ORGANICI**
 
 ###### Art. 811
 
@@ -14798,7 +14800,7 @@ AGGIORNAMENTO (22)
 
 Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 29, ha disposto (con l'art. 1126-bis, comma 1, lettera c)) che "i rinvii alle disposizioni soppresse, di cui alla lettera a), alle disposizioni abrogate, di cui alla lettera b), o alle materie dalle stesse disciplinate, contenuti nel codice, debbono intendersi riferiti alle disposizioni del presente regolamento ovvero del decreto del Presidente del Consiglio dei Ministri in data 11 gennaio 2013, adottato in attuazione dell'articolo 2, comma 3, primo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, che disciplinano la medesima materia".
 
-##### SEZIONE II - ORGANICI DEL CORPO DELLE CAPITANERIE DI PORTO
+**SEZIONE II - ORGANICI DEL CORPO DELLE CAPITANERIE DI PORTO**
 
 ###### Art. 814
 
@@ -14840,7 +14842,7 @@ AGGIORNAMENTO (101)
 
 Il D.L. 22 aprile 2023, n. 44, convertito, con modificazioni, dalla L. 21 giugno 2023, n. 74 ha disposto (con l'art. 17, comma 1, alinea) che la presente modifica decorre dal 1° gennaio 2024.
 
-#### CAPO V - AERONAUTICA MILITARE
+##### CAPO V - AERONAUTICA MILITARE
 
 ###### Art. 816
 
@@ -14932,9 +14934,9 @@ AGGIORNAMENTO (22)
 
 Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 29, ha disposto (con l'art. 1126-bis, comma 1, lettera c)) che "i rinvii alle disposizioni soppresse, di cui alla lettera a), alle disposizioni abrogate, di cui alla lettera b), o alle materie dalle stesse disciplinate, contenuti nel codice, debbono intendersi riferiti alle disposizioni del presente regolamento ovvero del decreto del Presidente del Consiglio dei Ministri in data 11 gennaio 2013, adottato in attuazione dell'articolo 2, comma 3, primo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, che disciplinano la medesima materia".
 
-#### CAPO VI - ARMA DEI CARABINIERI
+##### CAPO VI - ARMA DEI CARABINIERI
 
-##### SEZIONE I - RUOLI
+**SEZIONE I - RUOLI**
 
 ###### Art. 820
 
@@ -14982,7 +14984,7 @@ Modifiche al ruolo ((tecnico))
 
 1\. Fermi restando l'organico complessivo e il numero delle promozioni annuali previsto dal presente codice per il ruolo ((tecnico)), possono essere disposte, senza oneri aggiuntivi, con decreto del Ministro della difesa, di concerto con il Ministro dell'economia e delle finanze, modifiche all'articolazione del predetto ruolo, mediante soppressione, accorpamento, o istituzione di nuovi comparti o di nuove specialita', al fine di adeguarla alle effettive esigenze di sostegno ((tecnico)).
 
-##### SEZIONE II - ORGANICI
+**SEZIONE II - ORGANICI**
 
 ###### Art. 823 - Organici dei generali e dei colonnelli
 
@@ -15012,7 +15014,7 @@ Organici del ruolo dei sovrintendenti
 
 1\. Le eventuali vacanze organiche nel ruolo dei sovrintendenti possono essere devolute in aumento all'organico del ruolo degli appuntati e carabinieri.
 
-##### SEZIONE III - FORZA EXTRAORGANICA
+**SEZIONE III - FORZA EXTRAORGANICA**
 
 ###### Art. 825
 
@@ -15182,9 +15184,9 @@ L'impiego del contingente e' disciplinato mediante apposito accordo tecnico stip
 
 3\. Gli assegni, le competenze accessorie e le indennita' comunque spettanti al personale effettivamente impiegato nei limiti massimi fissati dal comma 1, nonche' ogni altro elemento di onere connesso al servizio di vigilanza e scorta valori, sono a carico della Banca d'Italia.
 
-#### ((CAPO VI-BIS - CORPO UNICO DELLA SANITÀ MILITARE
+##### ((CAPO VI-BIS - CORPO UNICO DELLA SANITÀ MILITARE
 
-##### SEZIONE I - RUOLI))
+**SEZIONE I - RUOLI))**
 
 ###### Art. 830-bis
 
@@ -15264,9 +15266,9 @@ Il D.Lgs. 3 aprile 2026, n. 74, ha disposto (con l'art. 20, comma 2, lettera c))
 
 c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
-#### CAPO VII - TRANSITO TRA RUOLI DEGLI UFFICIALI IN SERVIZIO PERMANENTE
+##### CAPO VII - TRANSITO TRA RUOLI DEGLI UFFICIALI IN SERVIZIO PERMANENTE
 
-##### SEZIONE I - UFFICIALI DELL'ESERCITO ITALIANO, DELLA MARINA MILITARE E DELL'AERONAUTICA MILITARE
+**SEZIONE I - UFFICIALI DELL'ESERCITO ITALIANO, DELLA MARINA MILITARE E DELL'AERONAUTICA MILITARE**
 
 ###### Art. 831
 
@@ -15400,7 +15402,7 @@ Disposizioni comuni
 
 2\. Nei casi di transito tra ruoli sono considerati validi ai fini dell'avanzamento i periodi di comando, di attribuzioni specifiche e di servizio prestati nel ruolo di provenienza.
 
-##### SEZIONE II - UFFICIALI DELL'ARMA DEI CARABINIERI
+**SEZIONE II - UFFICIALI DELL'ARMA DEI CARABINIERI**
 
 ###### Art. 835
 
@@ -15410,9 +15412,9 @@ Disposizioni comuni
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-#### CAPO VIII - COMPITI DEL PERSONALE MILITARE
+##### CAPO VIII - COMPITI DEL PERSONALE MILITARE
 
-##### SEZIONE I - PERSONALE DELL'ESERCITO ITALIANO, DELLA MARINA MILITARE E DELL'AERONAUTICA MILITARE
+**SEZIONE I - PERSONALE DELL'ESERCITO ITALIANO, DELLA MARINA MILITARE E DELL'AERONAUTICA MILITARE**
 
 ###### Art. 837
 
@@ -15528,7 +15530,7 @@ Particolari compiti del personale sottufficiali, graduati e militari di truppa
 
 1\. Relativamente ai sottufficiali, ai graduati e ai militari di truppa, ai fini dell'impiego e in relazione alle esigenze di servizio, le categorie, le specialita' ((o qualificazioni)), le qualifiche, le specializzazioni, le abilitazioni e gli incarichi, compresi quelli principali, sono individuati e disciplinati con determinazione del Capo di stato maggiore della rispettiva Forza armata.
 
-##### SEZIONE II - PERSONALE DELL'ARMA DEI CARABINIERI
+**SEZIONE II - PERSONALE DELL'ARMA DEI CARABINIERI**
 
 ###### Art. 844
 
@@ -15620,11 +15622,11 @@ Appartenenti al ruolo degli appuntati e carabinieri
 
 ((1-bis. In relazione al qualificato profilo professionale raggiunto, agli appuntati scelti qualifica speciale possono essere affidati, anche permanendo nello stesso incarico, i compiti di maggiore responsabilita' fra quelli di cui al comma precedente.))
 
-### TITOLO V - STATO GIURIDICO E IMPIEGO
+#### TITOLO V - STATO GIURIDICO E IMPIEGO
 
-#### CAPO I - IL GRADO
+##### CAPO I - IL GRADO
 
-##### SEZIONE I - ATTRIBUZIONE E REVOCA DEL GRADO
+**SEZIONE I - ATTRIBUZIONE E REVOCA DEL GRADO**
 
 ###### Art. 851
 
@@ -15658,7 +15660,7 @@ Revoca del grado
 
 2\. La revoca ha effetto dalla data di decorrenza della nomina nel grado.
 
-##### SEZIONE II - ANZIANITA' DI GRADO
+**SEZIONE II - ANZIANITA' DI GRADO**
 
 ###### Art. 854
 
@@ -15744,7 +15746,7 @@ Rettifiche di anzianita'
 
 1\. Nessuna rettifica di anzianita' per errata assegnazione di posto nel ruolo puo' disporsi d'ufficio oltre il termine di sei mesi dalla data di pubblicazione del provvedimento, tranne il caso di accoglimento in via amministrativa di ricorso giurisdizionale o di ricorso straordinario al Presidente della Repubblica.
 
-##### SEZIONE III - PERDITA DEL GRADO
+**SEZIONE III - PERDITA DEL GRADO**
 
 ###### Art. 861
 
@@ -15868,7 +15870,7 @@ AGGIORNAMENTO (41)
 
 La Corte Costituzionale con sentenza 19 ottobre - 15 dicembre 2016, n. 268 (in G.U. 1ª s.s. 21/12/2016, n. 51) ha dichiarato l'illegittimita' costituzionale del comma 3 del presente articolo nella parte in cui non prevede l'instaurarsi del procedimento disciplinare per la cessazione dal servizio per perdita del grado conseguente alla pena accessoria della interdizione temporanea dai pubblici uffici.
 
-##### SEZIONE IV - REINTEGRAZIONE NEL GRADO
+**SEZIONE IV - REINTEGRAZIONE NEL GRADO**
 
 ###### Art. 868
 
@@ -15932,9 +15934,9 @@ Reintegrazione a seguito di perdita del grado in conseguenza dell'applicazione d
 
 3\. Il militare sottoposto a misura di prevenzione deve, inoltre, ottenere la riabilitazione ai sensi dell'articolo 15 della legge 3 agosto 1988, n. 327.
 
-#### CAPO II - POSIZIONI DI STATO GIURIDICO
+##### CAPO II - POSIZIONI DI STATO GIURIDICO
 
-##### SEZIONE I - DISPOSIZIONI GENERALI
+**SEZIONE I - DISPOSIZIONI GENERALI**
 
 ###### Art. 874
 
@@ -16068,7 +16070,7 @@ Disposizioni per il personale militare deceduto o che ha contratto infermita' ne
 
 5\. In relazione al personale di cui ai commi 1 e 3, deceduto o divenuto permanentemente inabile al servizio militare incondizionato ovvero giudicato assolutamente inidoneo ai servizi di istituto per lesioni traumatiche o per le infermita' di cui al comma 1, riconosciute dipendenti da causa di servizio, sono estesi al coniuge e ai figli superstiti, ovvero ai fratelli germani conviventi e a carico, se unici superstiti, i benefici di cui all'articolo 1, comma 2, della legge 23 novembre 1998, n. 407, e successive modificazioni.
 
-##### SEZIONE II - SERVIZIO PERMANENTE
+**SEZIONE II - SERVIZIO PERMANENTE**
 
 ###### Art. 882
 
@@ -16148,7 +16150,7 @@ Sospensione dall'impiego
 
 > Fuori dei casi preveduti dall'articolo 29, la condanna alla reclusione militare importa la sospensione dal grado durante l'espiazione della pena.».
 
-##### SEZIONE III - CONGEDO
+**SEZIONE III - CONGEDO**
 
 ###### Art. 886
 
@@ -16216,7 +16218,7 @@ Riserva di complemento
 
 3\. L'ufficiale nella riserva di complemento ha obblighi di servizio solo in tempo di guerra o di gravi crisi internazionali.
 
-##### SEZIONE IV - COLLOCAMENTO FUORI RUOLO
+**SEZIONE IV - COLLOCAMENTO FUORI RUOLO**
 
 ###### Art. 891
 
@@ -16230,9 +16232,9 @@ Impiego presso enti od organismi internazionali o presso Stati esteri
 
 > \- La legge 27 luglio 1962, n. 1114 (Disciplina della posizione giuridica ed economica dei dipendenti statali autorizzati ad assumere un impiego presso Enti od organismi internazionali o ad esercitare funzioni presso Stati esteri), e' pubblicata nella Gazzetta Ufficiale del 11 agosto 1962, n. 202.
 
-#### CAPO III - RAPPORTO DI IMPIEGO
+##### CAPO III - RAPPORTO DI IMPIEGO
 
-##### SEZIONE I - DISPOSIZIONI GENERALI
+**SEZIONE I - DISPOSIZIONI GENERALI**
 
 ###### Art. 892
 
@@ -16376,7 +16378,7 @@ Personale assegnato alla Presidenza del Consiglio dei Ministri
 
 > «91. Fermo quanto previsto dall'articolo 1, comma 6-septies, del decreto-legge 28 dicembre 2006, n. 300, convertito, con modificazioni, dalla legge 26 febbraio 2007, n. 17, a decorrere dal 1° febbraio 2008, il trattamento economico fondamentale ed accessorio attinente alla posizione di comando del personale appartenente alle Forze di polizia e al Corpo nazionale dei vigili del fuoco e' posto a carico delle amministrazioni utilizzatrici dello stesso. La disposizione di cui al precedente periodo si applica anche alle assegnazioni di cui all'articolo 33 della legge 23 agosto 1988, n. 400, che superano il contingente fissato dal decreto del Presidente del Consiglio dei ministri ivi previsto. Resta fermo il divieto di cumulabilita' previsto dall'articolo 3, comma 63, della legge 24 dicembre 1993, n. 537.».
 
-##### SEZIONE II - SERVIZIO PERMANENTE A DISPOSIZIONE
+**SEZIONE II - SERVIZIO PERMANENTE A DISPOSIZIONE**
 
 ###### Art. 900
 
@@ -16386,7 +16388,7 @@ Collocamento nel servizio permanente a disposizione
 
 2\. L'ufficiale collocato "a disposizione" permane in detta posizione di stato fino al raggiungimento del limite d'eta' stabilito per il pari grado del rispettivo ruolo in servizio permanente.
 
-##### SEZIONE III - ASPETTATIVA
+**SEZIONE III - ASPETTATIVA**
 
 ###### Art. 901
 
@@ -16600,7 +16602,7 @@ Il testo del presente articolo e' gia' integrato con le correzioni apportate dal
 
 E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-##### ((SEZIONE III-BIS)) - ((DISTACCO SINDACALE))
+**((SEZIONE III-BIS)) - ((DISTACCO SINDACALE))**
 
 ###### Art. 913-bis - Distacco sindacale
 
@@ -16616,7 +16618,7 @@ c) non e' valido ai fini della maturazione della licenza.
 
 2-bis. ((Salvo che sia diversamente disposto, la posizione di stato giuridico del distacco sindacale e' equiparata, quanto agli effetti, a quella dell'aspettativa)).
 
-##### SEZIONE IV - SOSPENSIONE DALL'IMPIEGO
+**SEZIONE IV - SOSPENSIONE DALL'IMPIEGO**
 
 ###### Art. 914
 
@@ -16738,7 +16740,7 @@ a) articolo 4 della legge 25 gennaio 1982, n. 17;
 
 b) articolo 4 della legge 27 marzo 2001, n. 97.
 
-##### SEZIONE V - CESSAZIONE DAL SERVIZIO PERMANENTE
+**SEZIONE V - CESSAZIONE DAL SERVIZIO PERMANENTE**
 
 ###### Art. 923
 
@@ -17044,7 +17046,7 @@ Il D.Lgs. 3 aprile 2026, n. 74 ha disposto (con l'art. 20, comma 2, lettera c)) 
 
 c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
-##### ((SEZIONE V-BIS - RIAMMISSIONE IN SERVIZIO))
+**((SEZIONE V-BIS - RIAMMISSIONE IN SERVIZIO))**
 
 ###### Art. 935-bis
 
@@ -17052,9 +17054,9 @@ c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 1\. Al personale militare si applicano l'articolo 3, commi 57 e 57-bis, della legge 24 dicembre 2003, n. 350, l'articolo 2, commi 1, 4 e 6, del decreto-legge 16 marzo 2004, n. 66, convertito, con modificazioni, dalla legge 11 maggio 2004, n. 126, e successive modificazioni, l'articolo 2, comma 32, del decreto-legge 29 dicembre 2010, n. 225, convertito, con modificazioni, dalla legge 26 febbraio 2011, n. 10.))
 
-#### CAPO IV - SERVIZIO TEMPORANEO
+##### CAPO IV - SERVIZIO TEMPORANEO
 
-##### SEZIONE I - DISPOSIZIONI GENERALI
+**SEZIONE I - DISPOSIZIONI GENERALI**
 
 ###### Art. 936
 
@@ -17066,7 +17068,7 @@ Obblighi di servizio
 
 3\. Se non e' diversamente disposto, al personale militare in servizio temporaneo, si applicano, in quanto compatibili, le norme sul personale militare in servizio permanente in materia di stato giuridico.
 
-##### SEZIONE II - UFFICIALI
+**SEZIONE II - UFFICIALI**
 
 ###### Art. 937
 
@@ -17172,7 +17174,7 @@ Cessazione d'autorita' per ufficiali piloti e navigatori di complemento
 
 1\. Nel caso di cessazione d'autorita' per motivi disciplinari, all'ufficiale pilota o navigatore di complemento non e' corrisposto il premio di fine ferma di cui all'articolo 1797, salvo che, su proposta della competente commissione ordinaria di avanzamento, il Ministro della difesa, apprezzati le eventuali circostanze attenuanti o gli eventuali motivi giustificativi, non disponga, con proprio provvedimento, la corresponsione del premio di congedamento con una riduzione del 30 per cento per l'intero periodo di servizio prestato.
 
-##### SEZIONE III - SOTTUFFICIALI
+**SEZIONE III - SOTTUFFICIALI**
 
 ###### Art. 946
 
@@ -17196,7 +17198,7 @@ Collocamento in congedo
 
 2\. Nel caso di cessazione dal servizio per infermita', se si tratta di non idoneita' permanente al servizio incondizionato, il sottufficiale e' collocato in congedo assoluto.
 
-##### SEZIONE IV - PERSONALE IN FERMA DELL'ARMA DEI CARABINIERI
+**SEZIONE IV - PERSONALE IN FERMA DELL'ARMA DEI CARABINIERI**
 
 ###### Art. 948
 
@@ -17270,7 +17272,7 @@ Collocamento in congedo
 
 ((3-bis. Il personale in ferma volontaria appartenente ai ruoli degli ispettori e degli appuntati e carabinieri dell'Arma dei carabinieri giudicato non idoneo al servizio militare incondizionato per lesioni dipendenti o meno da causa di servizio, che ha conseguito la nomina a carabiniere di cui agli articoli 768 e 783, transita nelle qualifiche funzionali del personale civile del Ministero della difesa, secondo modalita' e procedure di cui all'articolo 930. Nei riguardi del personale transitato trova applicazione il regime pensionistico e previdenziale dell'amministrazione di destinazione)).
 
-##### SEZIONE V - VOLONTARI IN FERMA PREFISSATA
+**SEZIONE V - VOLONTARI IN FERMA PREFISSATA**
 
 ###### Art. 953
 
@@ -17376,7 +17378,7 @@ Proscioglimento per scarso rendimento
 
 2\. La proposta deve essere comunque avanzata nei predetti casi, quando essi hanno comportato un giudizio di non idoneita' all'avanzamento per due volte consecutive, ovvero nel caso di mancato superamento dei corsi di formazione previsti per la ferma prefissata ((...)).
 
-##### SEZIONE VI - RIAMMISSIONE IN SERVIZIO
+**SEZIONE VI - RIAMMISSIONE IN SERVIZIO**
 
 ###### Art. 961
 
@@ -17398,9 +17400,9 @@ Riammissione dei volontari alla ferma prefissata
 
 2\. I volontari sono reintegrati nel grado precedentemente rivestito e i periodi trascorsi in qualita' di allievo sono computati nella ferma
 
-#### CAPO V - SPECIALI OBBLIGHI DI SERVIZIO
+##### CAPO V - SPECIALI OBBLIGHI DI SERVIZIO
 
-##### SEZIONE I - UFFICIALI ((DELLA SANITA' MILITARE)) IN SERVIZIO PERMANENTE
+**SEZIONE I - UFFICIALI ((DELLA SANITA' MILITARE)) IN SERVIZIO PERMANENTE**
 
 ###### Art. 963
 
@@ -17458,7 +17460,7 @@ c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ((1. Gli ufficiali in servizio permanente effettivo che, per le esigenze dell'amministrazione, previa domanda, sono ammessi a corsi di dottorato di ricerca, sono vincolati a rimanere in servizio per una durata pari a due volte e mezzo il numero di anni prescritto per il conseguimento del dottorato. Il vincolo della ferma decorre dalla data di ammissione ai corsi e la durata dello stesso e' aumentata dell'eventuale residuo periodo di precedente ferma contratta, ancora da espletare.))
 
-##### SEZIONE II - PILOTI
+**SEZIONE II - PILOTI**
 
 ###### Art. 966
 
@@ -17478,7 +17480,7 @@ Sottufficiali piloti
 
 3\. I sottufficiali che hanno conseguito il brevetto di pilota di aeroplano o l'attitudine a espletare mansioni di navigatore o di pilota di elicottero e che, successivamente, sono esonerati dal pilotaggio o dichiarati non idonei al volo per motivi psico-fisici, possono chiedere di essere prosciolti dalla ferma di anni dodici.
 
-##### SEZIONE III - PERSONALE ADDETTO AL CONTROLLO DEL TRAFFICO AEREO
+**SEZIONE III - PERSONALE ADDETTO AL CONTROLLO DEL TRAFFICO AEREO**
 
 ###### Art. 968
 
@@ -17502,7 +17504,7 @@ Ulteriori ferme per il personale militare
 
 1\. Gli ufficiali e i sottufficiali delle Forze armate, in possesso dell'abilitazione di controllore del traffico aereo in corso di validita', vincolati, in connessione alla frequenza di corsi di formazione e specializzazione legati al proprio profilo di impiego nel settore del traffico aereo, a ferme obbligatorie per la complessiva durata di dieci anni, ai sensi dell'articolo 969 e degli articoli 971 e 972, al termine del periodo di ferma obbligatoria e successivamente al conseguimento del massimo grado di abilitazione previsto, sono ammessi a una ferma volontaria di durata biennale, rinnovabile per non piu' di quattro volte ((entro il quarantacinquesimo anno di eta')).
 
-##### SEZIONE IV - CORSI DI PARTICOLARE LIVELLO TECNICO
+**SEZIONE IV - CORSI DI PARTICOLARE LIVELLO TECNICO**
 
 ###### Art. 971
 
@@ -17538,7 +17540,7 @@ Sergenti e volontari in servizio permanente
 
 1\. All'atto dell'ammissione a corsi di specializzazione di particolare livello tecnico, individuati con determinazione del Capo di stato maggiore della difesa, i sergenti e i volontari in servizio permanente sono vincolati a una ferma della durata di cinque anni, decorrente dalla conseguita specializzazione.
 
-##### SEZIONE V - INCARICHI IN CAMPO INTERNAZIONALE
+**SEZIONE V - INCARICHI IN CAMPO INTERNAZIONALE**
 
 ###### Art. 975
 
@@ -17548,9 +17550,9 @@ Ufficiali
 
 2\. Il Ministro della difesa definisce, con proprio decreto da pubblicare nella Gazzetta Ufficiale, gli incarichi di cui al comma 1.
 
-#### CAPO VI - PRIMA ASSEGNAZIONE E TRASFERIMENTI
+##### CAPO VI - PRIMA ASSEGNAZIONE E TRASFERIMENTI
 
-##### SEZIONE I - DISPOSIZIONI GENERALI
+**SEZIONE I - DISPOSIZIONI GENERALI**
 
 ###### Art. 976
 
@@ -17568,7 +17570,7 @@ Divieto di prima assegnazione e trasferimento discriminatori
 
 1\. Nei confronti dei militari, in sede di prima assegnazione o di trasferimento a comandi, a enti, a reparti, ad armi o a specializzazioni, si applica l'articolo 1468.
 
-##### SEZIONE II - PRIMA ASSEGNAZIONE
+**SEZIONE II - PRIMA ASSEGNAZIONE**
 
 ###### Art. 978
 
@@ -17588,7 +17590,7 @@ Impiego dei marescialli ((e dei vice brigadieri)) dei carabinieri
 
 1\. I marescialli dell'Arma dei carabinieri promossi a conclusione dei corsi di formazione ((e i vice brigadieri promossi a conclusione del corso di cui all'articolo 776)) sono assegnati, secondo il vigente profilo d'impiego, di preferenza alle stazioni per compiervi almeno 2 anni di servizio.
 
-##### SEZIONE III - TRASFERIMENTI PARTICOLARI
+**SEZIONE III - TRASFERIMENTI PARTICOLARI**
 
 ###### Art. 980
 
@@ -17622,9 +17624,9 @@ d) articolo 3 del decreto-legge 29 ottobre 1991, n. 345, convertito, con modific
 
 e) articolo 1, commi 553, 554, 555 e 556, della legge 30 dicembre 2004, n. 311.
 
-#### CAPO VII - PERSONALE IN CONGEDO
+##### CAPO VII - PERSONALE IN CONGEDO
 
-##### SEZIONE I - DISPOSIZIONI GENERALI
+**SEZIONE I - DISPOSIZIONI GENERALI**
 
 ###### Art. 982
 
@@ -17670,7 +17672,7 @@ Trasferimento di armi e servizi per i sottufficiali e i volontari
 
 2\. Analogamente puo' essere trasferito da categoria a categoria e da specialita' a specialita' il sottufficiale e il volontario in congedo della Marina militare, da ruolo a ruolo e da categoria a categoria il sottufficiale e il volontario in congedo dell'Aeronautica militare.
 
-##### SEZIONE II - RICHIAMI IN SERVIZIO
+**SEZIONE II - RICHIAMI IN SERVIZIO**
 
 ###### Art. 986
 
@@ -17758,7 +17760,7 @@ Mantenimento dell'assistenza sanitaria
 
 2\. Tale assistenza deve essere erogata ai familiari a carico per tutto il periodo dell'adempimento degli obblighi militari.
 
-##### SEZIONE III - AUSILIARIA
+**SEZIONE III - AUSILIARIA**
 
 ###### Art. 992
 
@@ -17814,7 +17816,7 @@ Transito in ausiliaria dalla riserva
 
 2\. Il periodo trascorso dall'ufficiale nella riserva e' computato ai fini della durata massima di permanenza nell'ausiliaria.
 
-##### SEZIONE IV - COMPLEMENTO
+**SEZIONE IV - COMPLEMENTO**
 
 ###### Art. 997
 
@@ -17962,7 +17964,7 @@ Ufficiali in ferma biennale
 
 11\. Agli ufficiali che terminano senza demerito la ferma biennale sono conferite riserve di posti nei concorsi per la nomina in prova nella qualifica iniziale dei ruoli delle carriere direttive e di concetto del personale civile, nelle misure del 5 per cento per l'Amministrazione della difesa e del 2 per cento per le altre amministrazioni dello Stato, comprese quelle a ordinamento autonomo.
 
-##### SEZIONE V - CONGEDO ILLIMITATO
+**SEZIONE V - CONGEDO ILLIMITATO**
 
 ###### Art. 1006
 
@@ -17986,7 +17988,7 @@ a) al raggiungimento del quarantacinquesimo anno di eta';
 
 b) prima del raggiungimento del quarantacinquesimo anno di eta', se riconosciuti permanentemente non idonei al servizio militare incondizionato.
 
-##### SEZIONE VI - RISERVA
+**SEZIONE VI - RISERVA**
 
 ###### Art. 1008
 
@@ -18020,7 +18022,7 @@ b) 70 anni se ufficiale superiore o inferiore.
 
 3\. Il militare e' collocato in congedo assoluto anche prima dell'eta' indicata nei commi precedenti, se e' riconosciuto permanentemente inabile al servizio militare.
 
-##### SEZIONE VII - RISERVA DI COMPLEMENTO
+**SEZIONE VII - RISERVA DI COMPLEMENTO**
 
 ###### Art. 1010
 
@@ -18032,7 +18034,7 @@ a) 65 anni se ufficiale superiore;
 
 b) 62 anni se ufficiale inferiore.
 
-##### SEZIONE VIII - CHIAMATE DI CONTROLLO
+**SEZIONE VIII - CHIAMATE DI CONTROLLO**
 
 ###### Art. 1011
 
@@ -18066,7 +18068,7 @@ Mancata presentazione alla chiamata di controllo
 
 > \- La legge 24 novembre 1981, n. 689 (Modifiche al sistema penale), e' pubblicata nel supplemento ordinario alla Gazzetta Ufficiale del 30 novembre 1981, n. 329.
 
-##### SEZIONE IX - REINSERIMENTO DEL PERSONALE IN CONGEDO NEL MONDO DEL LAVORO
+**SEZIONE IX - REINSERIMENTO DEL PERSONALE IN CONGEDO NEL MONDO DEL LAVORO**
 
 ###### Art. 1013
 
@@ -18172,7 +18174,7 @@ Agevolazioni per il conseguimento di titoli professionali marittimi
 
 > A coloro che conseguono l'iscrizione nelle matricole della gente di mare, ai sensi del precedente comma e' interdetto il passaggio ad altra categoria superiore.».
 
-#### CAPO VIII - DISPOSIZIONI PER IL TEMPO DI GUERRA O DI GRAVE CRISI INTERNAZIONALE
+##### CAPO VIII - DISPOSIZIONI PER IL TEMPO DI GUERRA O DI GRAVE CRISI INTERNAZIONALE
 
 ###### Art. 1017
 
@@ -18204,9 +18206,9 @@ Passaggio in servizio permanente per merito di guerra
 
 3\. Gli ammessi in carriera seguono in ruolo, nelle rispettive categorie, il pari grado ultimo iscritto nel ruolo medesimo che si trova in servizio alla data del fatto d'arme, o dell'ultimo fatto d'arme, che ha dato titolo al trasferimento, assumendone la stessa anzianita' assoluta.
 
-### TITOLO VI - DOCUMENTAZIONE PERSONALE
+#### TITOLO VI - DOCUMENTAZIONE PERSONALE
 
-#### CAPO I - DISPOSIZIONI GENERALI
+##### CAPO I - DISPOSIZIONI GENERALI
 
 ###### Art. 1021
 
@@ -18228,7 +18230,7 @@ Rapporti con altre fonti normative
 
 > \- Il decreto legislativo 30 giugno 2003, n. 196 (Codice in materia di protezione dei dati personali) e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 29 luglio 2003, n. 174.
 
-#### CAPO II - DOCUMENTAZIONE MATRICOLARE
+##### CAPO II - DOCUMENTAZIONE MATRICOLARE
 
 ###### Art. 1023
 
@@ -18270,7 +18272,7 @@ Indicazione di malattia o cause inabilitanti nel congedo militare
 
 2\. Le comunicazioni degli specifici motivi della inidoneita' al servizio militare, per cause fisiche o psichiche, sono fatte esclusivamente ai diretti interessati, dietro loro richiesta, e alle strutture sanitarie pubbliche.
 
-#### CAPO III - DOCUMENTAZIONE CARATTERISTICA
+##### CAPO III - DOCUMENTAZIONE CARATTERISTICA
 
 ###### Art. 1025
 
@@ -18316,9 +18318,9 @@ Norme applicabili all'Arma dei carabinieri
 
 > «2. Ai fini della compilazione della documentazione caratteristica del personale, nei casi previsti dai rispettivi ordinamenti, il capo dell'ufficio presso cui e' istituita la sezione fornisce elementi informativi che concorrono alla formazione della valutazione.».
 
-### TITOLO VII - AVANZAMENTO
+#### TITOLO VII - AVANZAMENTO
 
-#### CAPO I - DISPOSIZIONI GENERALI
+##### CAPO I - DISPOSIZIONI GENERALI
 
 ###### Art. 1030
 
@@ -18368,9 +18370,9 @@ Personale militare femminile
 
 2\. Al personale militare femminile in avanzamento si applica l'articolo 1495.
 
-#### CAPO II - AUTORITA' COMPETENTI A ESPRIMERE GIUDIZI SULL'AVANZAMENTO
+##### CAPO II - AUTORITA' COMPETENTI A ESPRIMERE GIUDIZI SULL'AVANZAMENTO
 
-##### SEZIONE I - COMMISSIONI DI AVANZAMENTO PER GLI UFFICIALI
+**SEZIONE I - COMMISSIONI DI AVANZAMENTO PER GLI UFFICIALI**
 
 ###### Art. 1034
 
@@ -18706,7 +18708,7 @@ Altri membri delle Commissioni ordinarie di avanzamento
 
 2\. In caso di assenza o di impedimento puo' essere rappresentato da un ufficiale di grado non inferiore a colonnello, destinato alla Direzione generale, possibilmente appartenente alla medesima Forza armata dell'ufficiale da valutare.
 
-##### SEZIONE II - COMMISSIONI DI AVANZAMENTO PER I SOTTUFFICIALI, I GRADUATI E I MILITARI DI TRUPPA
+**SEZIONE II - COMMISSIONI DI AVANZAMENTO PER I SOTTUFFICIALI, I GRADUATI E I MILITARI DI TRUPPA**
 
 ###### Art. 1047
 
@@ -18786,9 +18788,9 @@ Attribuzioni speciali delle commissioni permanenti
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 DICEMBRE 2019, N. 173))
 
-#### CAPO III - VALUTAZIONI PER L'AVANZAMENTO
+##### CAPO III - VALUTAZIONI PER L'AVANZAMENTO
 
-##### SEZIONE I - ALIQUOTE DI AVANZAMENTO
+**SEZIONE I - ALIQUOTE DI AVANZAMENTO**
 
 ###### Art. 1050
 
@@ -18886,7 +18888,7 @@ Anzianita' minime di grado richieste per gli ufficiali
 
 1\. Ai fini della determinazione delle anzianita' minime di grado richieste per l'inclusione nelle aliquote di valutazione, si fa riferimento all'anno solare di conferimento del grado rivestito.
 
-##### SEZIONE II - AVANZAMENTO AD ANZIANITA'
+**SEZIONE II - AVANZAMENTO AD ANZIANITA'**
 
 ###### Art. 1055
 
@@ -18920,7 +18922,7 @@ Avanzamento ad anzianita' dei sottufficiali e dei volontari in servizio permanen
 
 6-bis. I quadri d'avanzamento ad anzianita' sono pubblicati sui portali istituzionali della rispettiva Forza armata.
 
-##### SEZIONE III - AVANZAMENTO A SCELTA
+**SEZIONE III - AVANZAMENTO A SCELTA**
 
 ###### Art. 1057
 
@@ -19008,7 +19010,7 @@ Autonomia dei giudizi di avanzamento a scelta
 
 1\. I vari giudizi di avanzamento sono autonomi tra loro anche se la commissione d'avanzamento e' composta dagli stessi membri e il militare e' sempre preposto al medesimo incarico. L'eventuale diversita' di valutazioni, sia in senso positivo che negativo, concernente lo stesso militare, deve trovare giustificazione in elementi di giudizio intervenuti nel tempo e risultanti dalla documentazione di cui all'articolo 1032.
 
-##### SEZIONE IV - AVANZAMENTI STRAORDINARI
+**SEZIONE IV - AVANZAMENTI STRAORDINARI**
 
 ###### Art. 1061
 
@@ -19092,7 +19094,7 @@ Avanzamento per benemerenze d'istituto del personale dell'Arma dei carabinieri
 
 7\. L'avanzamento per benemerenze d'istituto e per meriti eccezionali si effettua anche se determinano il passaggio nel ruolo superiore.
 
-##### SEZIONE V - DISPOSIZIONI FINALI
+**SEZIONE V - DISPOSIZIONI FINALI**
 
 ###### Art. 1064
 
@@ -19130,9 +19132,9 @@ Il D.Lgs. 3 aprile 2026, n. 74 ha disposto (con l'art. 20, comma 2, lettera c)) 
 
 c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
-#### CAPO IV - QUADRI DI AVANZAMENTO E PROMOZIONI
+##### CAPO IV - QUADRI DI AVANZAMENTO E PROMOZIONI
 
-##### SEZIONE I - FORMAZIONE DEI QUADRI DI AVANZAMENTO
+**SEZIONE I - FORMAZIONE DEI QUADRI DI AVANZAMENTO**
 
 ###### Art. 1067
 
@@ -19174,7 +19176,7 @@ Cancellazione dai quadri per gli ufficiali
 
 5\. All'ufficiale e' data comunicazione dell'avvenuta cancellazione e dei motivi che l'hanno determinata.
 
-##### SEZIONE II - PROMOZIONI
+**SEZIONE II - PROMOZIONI**
 
 ###### Art. 1070
 
@@ -19324,7 +19326,7 @@ Morte o permanente inidoneita' fisica dell'ufficiale
 
 ((ARTICOLO ABROGATO DALLA L. 23 DICEMBRE 2014, N. 190))
 
-##### SEZIONE III - VACANZE ORGANICHE
+**SEZIONE III - VACANZE ORGANICHE**
 
 ###### Art. 1078
 
@@ -19374,7 +19376,7 @@ Contingente dell'Arma dei carabinieri per la Banca d'Italia
 
 2, Le eccedenze conseguenti a cessazione dal soprannumero all'organico sono assorbite al verificarsi della prima vacanza.
 
-##### SEZIONE IV - PROMOZIONI ALL'ATTO DEL COLLOCAMENTO IN CONGEDO
+**SEZIONE IV - PROMOZIONI ALL'ATTO DEL COLLOCAMENTO IN CONGEDO**
 
 ###### Art. 1082
 
@@ -19424,7 +19426,7 @@ d) rinuncia al transito nell'impiego civile di cui all'articolo 923, comma 1, le
 
 6\. Nei casi previsti dai commi 1 e 2, ai militari cessati dal servizio dal 1° gennaio 2015 e fino al giorno antecedente alla data di entrata in vigore del presente articolo, la promozione e' attribuita secondo le decorrenze previste dalle disposizioni vigenti anteriormente a tale ultima data.
 
-#### CAPO V - RINNOVAZIONE DEI GIUDIZI DI AVANZAMENTO
+##### CAPO V - RINNOVAZIONE DEI GIUDIZI DI AVANZAMENTO
 
 ###### Art. 1085
 
@@ -19504,7 +19506,7 @@ Estensione di norme
 
 1\. Le disposizioni del presente capo sono applicate, in quanto compatibili, a tutto il personale militare.
 
-#### CAPO VI - NORME PARTICOLARI PER GLI UFFICIALI IN SERVIZIO PERMANENTE
+##### CAPO VI - NORME PARTICOLARI PER GLI UFFICIALI IN SERVIZIO PERMANENTE
 
 ###### Art. 1093
 
@@ -19666,9 +19668,7 @@ Promozione dei tenenti colonnelli a disposizione
 
 5\. COMMA ABROGATO DAL D.LGS. 26 APRILE 2016, N. 91.
 
-#### CAPO VII - AVANZAMENTO DEGLI UFFICIALI DELL'ESERCITO ITALIANO
-
-##### ((...))
+##### CAPO VII - AVANZAMENTO DEGLI UFFICIALI DELL'ESERCITO ITALIANO ((...))
 
 ###### Art. 1099-bis
 
@@ -19680,7 +19680,7 @@ Promozione dei tenenti colonnelli a disposizione
 
 ((ARTICOLO ABROGATO DAL D.LGS. 23 NOVEMBRE 2023, N. 185)).
 
-##### ((...))
+## ((...))
 
 ###### Art. 1101
 
@@ -19708,7 +19708,7 @@ AGGIORNAMENTO (22)
 
 Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 29, ha disposto (con l'art. 1126-bis, comma 1, lettera c)) che "i rinvii alle disposizioni soppresse, di cui alla lettera a), alle disposizioni abrogate, di cui alla lettera b), o alle materie dalle stesse disciplinate, contenuti nel codice, debbono intendersi riferiti alle disposizioni del presente regolamento ovvero del decreto del Presidente del Consiglio dei Ministri in data 11 gennaio 2013, adottato in attuazione dell'articolo 2, comma 3, primo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, che disciplinano la medesima materia".
 
-##### ((...))
+## ((...))
 
 ###### Art. 1105
 
@@ -19736,7 +19736,7 @@ AGGIORNAMENTO (22)
 
 Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 29, ha disposto (con l'art. 1126-bis, comma 1, lettera c)) che "i rinvii alle disposizioni soppresse, di cui alla lettera a), alle disposizioni abrogate, di cui alla lettera b), o alle materie dalle stesse disciplinate, contenuti nel codice, debbono intendersi riferiti alle disposizioni del presente regolamento ovvero del decreto del Presidente del Consiglio dei Ministri in data 11 gennaio 2013, adottato in attuazione dell'articolo 2, comma 3, primo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, che disciplinano la medesima materia".
 
-##### ((...))
+## ((...))
 
 ###### Art. 1109
 
@@ -19764,7 +19764,7 @@ AGGIORNAMENTO (22)
 
 Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 29, ha disposto (con l'art. 1126-bis, comma 1, lettera c)) che "i rinvii alle disposizioni soppresse, di cui alla lettera a), alle disposizioni abrogate, di cui alla lettera b), o alle materie dalle stesse disciplinate, contenuti nel codice, debbono intendersi riferiti alle disposizioni del presente regolamento ovvero del decreto del Presidente del Consiglio dei Ministri in data 11 gennaio 2013, adottato in attuazione dell'articolo 2, comma 3, primo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, che disciplinano la medesima materia".
 
-##### ((...))
+## ((...))
 
 ###### Art. 1113
 
@@ -19844,7 +19844,7 @@ AGGIORNAMENTO (22)
 
 Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 29, ha disposto (con l'art. 1126-bis, comma 1, lettera c)) che "i rinvii alle disposizioni soppresse, di cui alla lettera a), alle disposizioni abrogate, di cui alla lettera b), o alle materie dalle stesse disciplinate, contenuti nel codice, debbono intendersi riferiti alle disposizioni del presente regolamento ovvero del decreto del Presidente del Consiglio dei Ministri in data 11 gennaio 2013, adottato in attuazione dell'articolo 2, comma 3, primo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, che disciplinano la medesima materia".
 
-##### ((...))
+## ((...))
 
 ###### Art. 1125
 
@@ -19872,7 +19872,7 @@ AGGIORNAMENTO (22)
 
 Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 29, ha disposto (con l'art. 1126-bis, comma 1, lettera c)) che "i rinvii alle disposizioni soppresse, di cui alla lettera a), alle disposizioni abrogate, di cui alla lettera b), o alle materie dalle stesse disciplinate, contenuti nel codice, debbono intendersi riferiti alle disposizioni del presente regolamento ovvero del decreto del Presidente del Consiglio dei Ministri in data 11 gennaio 2013, adottato in attuazione dell'articolo 2, comma 3, primo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, che disciplinano la medesima materia".
 
-##### ((...))
+## ((...))
 
 ###### Art. 1129
 
@@ -19900,7 +19900,7 @@ AGGIORNAMENTO (22)
 
 Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 29, ha disposto (con l'art. 1126-bis, comma 1, lettera c)) che "i rinvii alle disposizioni soppresse, di cui alla lettera a), alle disposizioni abrogate, di cui alla lettera b), o alle materie dalle stesse disciplinate, contenuti nel codice, debbono intendersi riferiti alle disposizioni del presente regolamento ovvero del decreto del Presidente del Consiglio dei Ministri in data 11 gennaio 2013, adottato in attuazione dell'articolo 2, comma 3, primo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, che disciplinano la medesima materia".
 
-##### ((...))
+## ((...))
 
 ###### Art. 1133
 
@@ -19928,9 +19928,7 @@ AGGIORNAMENTO (22)
 
 Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 29, ha disposto (con l'art. 1126-bis, comma 1, lettera c)) che "i rinvii alle disposizioni soppresse, di cui alla lettera a), alle disposizioni abrogate, di cui alla lettera b), o alle materie dalle stesse disciplinate, contenuti nel codice, debbono intendersi riferiti alle disposizioni del presente regolamento ovvero del decreto del Presidente del Consiglio dei Ministri in data 11 gennaio 2013, adottato in attuazione dell'articolo 2, comma 3, primo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, che disciplinano la medesima materia".
 
-#### CAPO VIII - AVANZAMENTO DEGLI UFFICIALI DELLA MARINA MILITARE
-
-##### ((...))
+##### CAPO VIII - AVANZAMENTO DEGLI UFFICIALI DELLA MARINA MILITARE ((...))
 
 ###### Art. 1136-bis
 
@@ -19952,7 +19950,7 @@ Ulteriori requisiti per la valutazione degli ufficiali della Marina militare
 
 ((1. Gli ufficiali del ruolo normale del Corpo di stato maggiore che non conseguono il titolo di studio previsto dagli ordinamenti di Forza armata entro l'anno di inserimento nell'aliquota di valutazione per l'avanzamento al grado di capitano di corvetta transitano d'autorita', anche in soprannumero per il solo anno del transito, nel corrispondente ruolo speciale, con decorrenza dal 1° gennaio dell'anno di formazione della predetta aliquota di valutazione, mantenendo l'anzianita' di grado posseduta, e sono iscritti in ruolo prima dei pari grado aventi la stessa anzianita' di grado.))
 
-##### ((...))
+## ((...))
 
 ###### Art. 1138
 
@@ -19980,7 +19978,7 @@ AGGIORNAMENTO (22)
 
 Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 29, ha disposto (con l'art. 1126-bis, comma 1, lettera c)) che "i rinvii alle disposizioni soppresse, di cui alla lettera a), alle disposizioni abrogate, di cui alla lettera b), o alle materie dalle stesse disciplinate, contenuti nel codice, debbono intendersi riferiti alle disposizioni del presente regolamento ovvero del decreto del Presidente del Consiglio dei Ministri in data 11 gennaio 2013, adottato in attuazione dell'articolo 2, comma 3, primo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, che disciplinano la medesima materia".
 
-##### ((...))
+## ((...))
 
 ###### Art. 1142
 
@@ -20034,7 +20032,7 @@ AGGIORNAMENTO (22)
 
 Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 29, ha disposto (con l'art. 1126-bis, comma 1, lettera c)) che "i rinvii alle disposizioni soppresse, di cui alla lettera a), alle disposizioni abrogate, di cui alla lettera b), o alle materie dalle stesse disciplinate, contenuti nel codice, debbono intendersi riferiti alle disposizioni del presente regolamento ovvero del decreto del Presidente del Consiglio dei Ministri in data 11 gennaio 2013, adottato in attuazione dell'articolo 2, comma 3, primo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, che disciplinano la medesima materia".
 
-##### ((...))
+## ((...))
 
 ###### Art. 1150
 
@@ -20062,7 +20060,7 @@ AGGIORNAMENTO (22)
 
 Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 29, ha disposto (con l'art. 1126-bis, comma 1, lettera c)) che "i rinvii alle disposizioni soppresse, di cui alla lettera a), alle disposizioni abrogate, di cui alla lettera b), o alle materie dalle stesse disciplinate, contenuti nel codice, debbono intendersi riferiti alle disposizioni del presente regolamento ovvero del decreto del Presidente del Consiglio dei Ministri in data 11 gennaio 2013, adottato in attuazione dell'articolo 2, comma 3, primo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, che disciplinano la medesima materia".
 
-##### ((...))
+## ((...))
 
 ###### Art. 1154
 
@@ -20090,7 +20088,7 @@ AGGIORNAMENTO (22)
 
 Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 29, ha disposto (con l'art. 1126-bis, comma 1, lettera c)) che "i rinvii alle disposizioni soppresse, di cui alla lettera a), alle disposizioni abrogate, di cui alla lettera b), o alle materie dalle stesse disciplinate, contenuti nel codice, debbono intendersi riferiti alle disposizioni del presente regolamento ovvero del decreto del Presidente del Consiglio dei Ministri in data 11 gennaio 2013, adottato in attuazione dell'articolo 2, comma 3, primo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, che disciplinano la medesima materia".
 
-##### ((...))
+## ((...))
 
 ###### Art. 1158
 
@@ -20108,7 +20106,7 @@ Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 
 
 ((ARTICOLO ABROGATO DAL D.LGS. 28 GENNAIO 2014, N. 8))
 
-##### ((...))
+## ((...))
 
 ###### Art. 1162
 
@@ -20136,7 +20134,7 @@ AGGIORNAMENTO (22)
 
 Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 29, ha disposto (con l'art. 1126-bis, comma 1, lettera c)) che "i rinvii alle disposizioni soppresse, di cui alla lettera a), alle disposizioni abrogate, di cui alla lettera b), o alle materie dalle stesse disciplinate, contenuti nel codice, debbono intendersi riferiti alle disposizioni del presente regolamento ovvero del decreto del Presidente del Consiglio dei Ministri in data 11 gennaio 2013, adottato in attuazione dell'articolo 2, comma 3, primo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, che disciplinano la medesima materia".
 
-##### ((...))
+## ((...))
 
 ###### Art. 1166
 
@@ -20164,7 +20162,7 @@ AGGIORNAMENTO (22)
 
 Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 29, ha disposto (con l'art. 1126-bis, comma 1, lettera c)) che "i rinvii alle disposizioni soppresse, di cui alla lettera a), alle disposizioni abrogate, di cui alla lettera b), o alle materie dalle stesse disciplinate, contenuti nel codice, debbono intendersi riferiti alle disposizioni del presente regolamento ovvero del decreto del Presidente del Consiglio dei Ministri in data 11 gennaio 2013, adottato in attuazione dell'articolo 2, comma 3, primo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, che disciplinano la medesima materia".
 
-##### ((...))
+## ((...))
 
 ###### Art. 1170
 
@@ -20192,7 +20190,7 @@ AGGIORNAMENTO (22)
 
 Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 29, ha disposto (con l'art. 1126-bis, comma 1, lettera c)) che "i rinvii alle disposizioni soppresse, di cui alla lettera a), alle disposizioni abrogate, di cui alla lettera b), o alle materie dalle stesse disciplinate, contenuti nel codice, debbono intendersi riferiti alle disposizioni del presente regolamento ovvero del decreto del Presidente del Consiglio dei Ministri in data 11 gennaio 2013, adottato in attuazione dell'articolo 2, comma 3, primo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, che disciplinano la medesima materia".
 
-##### ((...))
+## ((...))
 
 ###### Art. 1174
 
@@ -20220,7 +20218,7 @@ AGGIORNAMENTO (22)
 
 Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 29, ha disposto (con l'art. 1126-bis, comma 1, lettera c)) che "i rinvii alle disposizioni soppresse, di cui alla lettera a), alle disposizioni abrogate, di cui alla lettera b), o alle materie dalle stesse disciplinate, contenuti nel codice, debbono intendersi riferiti alle disposizioni del presente regolamento ovvero del decreto del Presidente del Consiglio dei Ministri in data 11 gennaio 2013, adottato in attuazione dell'articolo 2, comma 3, primo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, che disciplinano la medesima materia".
 
-##### ((...))
+## ((...))
 
 ###### Art. 1178
 
@@ -20248,7 +20246,7 @@ AGGIORNAMENTO (22)
 
 Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 29, ha disposto (con l'art. 1126-bis, comma 1, lettera c)) che "i rinvii alle disposizioni soppresse, di cui alla lettera a), alle disposizioni abrogate, di cui alla lettera b), o alle materie dalle stesse disciplinate, contenuti nel codice, debbono intendersi riferiti alle disposizioni del presente regolamento ovvero del decreto del Presidente del Consiglio dei Ministri in data 11 gennaio 2013, adottato in attuazione dell'articolo 2, comma 3, primo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, che disciplinano la medesima materia".
 
-##### ((...))
+## ((...))
 
 ###### Art. 1182
 
@@ -20266,9 +20264,7 @@ Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 
 
 ((ARTICOLO ABROGATO DAL D.LGS. 28 GENNAIO 2014, N. 8))
 
-#### CAPO IX - AVANZAMENTO DEGLI UFFICIALI DELL'AERONAUTICA MILITARE
-
-##### ((...))
+##### CAPO IX - AVANZAMENTO DEGLI UFFICIALI DELL'AERONAUTICA MILITARE ((...))
 
 ###### Art. 1185-bis
 
@@ -20302,7 +20298,7 @@ AGGIORNAMENTO (22)
 
 Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 29, ha disposto (con l'art. 1126-bis, comma 1, lettera c)) che "i rinvii alle disposizioni soppresse, di cui alla lettera a), alle disposizioni abrogate, di cui alla lettera b), o alle materie dalle stesse disciplinate, contenuti nel codice, debbono intendersi riferiti alle disposizioni del presente regolamento ovvero del decreto del Presidente del Consiglio dei Ministri in data 11 gennaio 2013, adottato in attuazione dell'articolo 2, comma 3, primo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, che disciplinano la medesima materia".
 
-##### ((...))
+## ((...))
 
 ###### Art. 1190
 
@@ -20360,7 +20356,7 @@ AGGIORNAMENTO (22)
 
 Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 29, ha disposto (con l'art. 1126-bis, comma 1, lettera c)) che "i rinvii alle disposizioni soppresse, di cui alla lettera a), alle disposizioni abrogate, di cui alla lettera b), o alle materie dalle stesse disciplinate, contenuti nel codice, debbono intendersi riferiti alle disposizioni del presente regolamento ovvero del decreto del Presidente del Consiglio dei Ministri in data 11 gennaio 2013, adottato in attuazione dell'articolo 2, comma 3, primo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, che disciplinano la medesima materia".
 
-##### ((...))
+## ((...))
 
 ###### Art. 1199
 
@@ -20388,7 +20384,7 @@ AGGIORNAMENTO (22)
 
 Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 29, ha disposto (con l'art. 1126-bis, comma 1, lettera c)) che "i rinvii alle disposizioni soppresse, di cui alla lettera a), alle disposizioni abrogate, di cui alla lettera b), o alle materie dalle stesse disciplinate, contenuti nel codice, debbono intendersi riferiti alle disposizioni del presente regolamento ovvero del decreto del Presidente del Consiglio dei Ministri in data 11 gennaio 2013, adottato in attuazione dell'articolo 2, comma 3, primo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, che disciplinano la medesima materia".
 
-##### ((...))
+## ((...))
 
 ###### Art. 1203
 
@@ -20416,7 +20412,7 @@ AGGIORNAMENTO (22)
 
 Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 29, ha disposto (con l'art. 1126-bis, comma 1, lettera c)) che "i rinvii alle disposizioni soppresse, di cui alla lettera a), alle disposizioni abrogate, di cui alla lettera b), o alle materie dalle stesse disciplinate, contenuti nel codice, debbono intendersi riferiti alle disposizioni del presente regolamento ovvero del decreto del Presidente del Consiglio dei Ministri in data 11 gennaio 2013, adottato in attuazione dell'articolo 2, comma 3, primo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, che disciplinano la medesima materia".
 
-##### ((...))
+## ((...))
 
 ###### Art. 1207
 
@@ -20444,7 +20440,7 @@ AGGIORNAMENTO (22)
 
 Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 29, ha disposto (con l'art. 1126-bis, comma 1, lettera c)) che "i rinvii alle disposizioni soppresse, di cui alla lettera a), alle disposizioni abrogate, di cui alla lettera b), o alle materie dalle stesse disciplinate, contenuti nel codice, debbono intendersi riferiti alle disposizioni del presente regolamento ovvero del decreto del Presidente del Consiglio dei Ministri in data 11 gennaio 2013, adottato in attuazione dell'articolo 2, comma 3, primo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, che disciplinano la medesima materia".
 
-##### ((...))
+## ((...))
 
 ###### Art. 1211
 
@@ -20472,7 +20468,7 @@ AGGIORNAMENTO (22)
 
 Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 29, ha disposto (con l'art. 1126-bis, comma 1, lettera c)) che "i rinvii alle disposizioni soppresse, di cui alla lettera a), alle disposizioni abrogate, di cui alla lettera b), o alle materie dalle stesse disciplinate, contenuti nel codice, debbono intendersi riferiti alle disposizioni del presente regolamento ovvero del decreto del Presidente del Consiglio dei Ministri in data 11 gennaio 2013, adottato in attuazione dell'articolo 2, comma 3, primo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, che disciplinano la medesima materia".
 
-##### ((...))
+## ((...))
 
 ###### Art. 1215
 
@@ -20552,9 +20548,7 @@ AGGIORNAMENTO (22)
 
 Il D.P.R. 15 marzo 2010, n. 90, come modificato dal D.P.R. 12 febbraio 2013, n. 29, ha disposto (con l'art. 1126-bis, comma 1, lettera c)) che "i rinvii alle disposizioni soppresse, di cui alla lettera a), alle disposizioni abrogate, di cui alla lettera b), o alle materie dalle stesse disciplinate, contenuti nel codice, debbono intendersi riferiti alle disposizioni del presente regolamento ovvero del decreto del Presidente del Consiglio dei Ministri in data 11 gennaio 2013, adottato in attuazione dell'articolo 2, comma 3, primo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, che disciplinano la medesima materia".
 
-#### CAPO X - AVANZAMENTO DEGLI UFFICIALI DELL'ARMA DEI CARABINIERI
-
-##### ((...))
+##### CAPO X - AVANZAMENTO DEGLI UFFICIALI DELL'ARMA DEI CARABINIERI ((...))
 
 ###### Art. 1226-bis - Dotazioni organiche e profili di carriera degli ufficiali dell'Arma dei carabinieri
 
@@ -20580,7 +20574,7 @@ e) l'articolo 2, comma 6-terdecies, del decreto-legge 29 dicembre 2010, n. 225, 
 
 2\. Ai soli fini dell'avanzamento, ai capitani dell'Arma dei carabinieri in servizio alle dipendenze del Raggruppamento operativo speciale si applica il disposto dell'articolo 3, comma 3, della legge 15 novembre 1988, n. 486.
 
-##### ((...))
+## ((...))
 
 ###### Art. 1228
 
@@ -20624,7 +20618,7 @@ b) LETTERA SOPPRESSA DAL D.LSG. 29 MAGGIO 2017, N. 95.
 
 ((ARTICOLO ABROGATO DAL D.LGS. 28 GENNAIO 2014, N. 8))
 
-##### ((...))
+## ((...))
 
 ###### Art. 1237
 
@@ -20638,7 +20632,7 @@ b) LETTERA SOPPRESSA DAL D.LSG. 29 MAGGIO 2017, N. 95.
 
 ((ARTICOLO ABROGATO DAL D.LGS. 28 GENNAIO 2014, N. 8))
 
-#### ((CAPO X-BIS - AVANZAMENTO DEGLI UFFICIALI DELLA SANITÀ MILITARE))
+##### ((CAPO X-BIS - AVANZAMENTO DEGLI UFFICIALI DELLA SANITÀ MILITARE))
 
 ###### Art. 1239-bis
 
@@ -20658,9 +20652,9 @@ Il D.Lgs. 3 aprile 2026, n. 74, ha disposto (con l'art. 20, comma 2, lettera c))
 
 c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
-#### CAPO XI - AVANZAMENTO DEGLI UFFICIALI AUSILIARI
+##### CAPO XI - AVANZAMENTO DEGLI UFFICIALI AUSILIARI
 
-##### SEZIONE I - UFFICIALI IN FERMA PREFISSATA E DELLE FORZE DI COMPLETAMENTO
+**SEZIONE I - UFFICIALI IN FERMA PREFISSATA E DELLE FORZE DI COMPLETAMENTO**
 
 ###### Art. 1240
 
@@ -20674,7 +20668,7 @@ Avanzamento degli ufficiali delle forze di completamento
 
 1\. L'avanzamento degli ufficiali delle forze di completamento avviene con le modalita' previste per gli ufficiali in congedo.
 
-##### SEZIONE II - UFFICIALI PILOTI E NAVIGATORI DI COMPLEMENTO
+**SEZIONE II - UFFICIALI PILOTI E NAVIGATORI DI COMPLEMENTO**
 
 ###### Art. 1242
 
@@ -20712,9 +20706,9 @@ Periodi di servizio effettivo presso societa' di navigazione aerea
 
 1\. Per gli ufficiali piloti e navigatori di complemento il periodo di effettivo servizio aeronavigante compiuto presso societa' di navigazione aerea e' computato per meta' ai fini del raggiungimento dei prescritti periodi di comando, di imbarco o di servizio, ma non oltre i 4/5 dei periodi suddetti.
 
-#### CAPO XII - AVANZAMENTO DEGLI UFFICIALI IN CONGEDO
+##### CAPO XII - AVANZAMENTO DEGLI UFFICIALI IN CONGEDO
 
-##### SEZIONE I - NORME COMUNI
+**SEZIONE I - NORME COMUNI**
 
 ###### Art. 1246
 
@@ -20752,7 +20746,7 @@ Promozioni
 
 3\. Gli ufficiali che non conseguono la promozione entro il secondo anno di validita' del quadro di avanzamento sono nuovamente valutati in occasione della formazione di un successivo quadro di avanzamento.
 
-##### SEZIONE II - UFFICIALI IN AUSILIARIA
+**SEZIONE II - UFFICIALI IN AUSILIARIA**
 
 ###### Art. 1251
 
@@ -20778,7 +20772,7 @@ Promozioni
 
 2\. Non costituisce ostacolo alla promozione dell'ufficiale in ausiliaria l'esistenza nel servizio permanente di pari grado non idonei all'avanzamento o per i quali e' sospesa la valutazione o la promozione.
 
-##### SEZIONE III - UFFICIALI DI COMPLEMENTO
+**SEZIONE III - UFFICIALI DI COMPLEMENTO**
 
 ###### Art. 1254
 
@@ -20818,7 +20812,7 @@ Promozione degli ufficiali ((...))
 
 5\. Gli ufficiali di complemento di cui al presente articolo, se giudicati non idonei, non sono piu' valutati per l'avanzamento in servizio, ferma restando la possibilita' di avanzamento nella posizione di congedo.
 
-##### SEZIONE IV - REQUISITI SPECIALI PER L'AVANZAMENTO DEGLI UFFICIALI DI COMPLEMENTO
+**SEZIONE IV - REQUISITI SPECIALI PER L'AVANZAMENTO DEGLI UFFICIALI DI COMPLEMENTO**
 
 ###### Art. 1258
 
@@ -21042,7 +21036,7 @@ Il D.Lgs. 3 aprile 2026, n. 74, ha disposto (con l'art. 20, comma 2, lettera c))
 
 c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
-##### SEZIONE V - UFFICIALI DELLA RISERVA
+**SEZIONE V - UFFICIALI DELLA RISERVA**
 
 ###### Art. 1270
 
@@ -21066,9 +21060,9 @@ Promozioni
 
 2\. Non costituisce ostacolo alla promozione l'esistenza nel servizio permanente di pari grado non idonei all'avanzamento o per i quali e' sospesa la valutazione o la promozione.
 
-#### CAPO XIII - AVANZAMENTO DEI SOTTUFFICIALI DELL'ESERCITO ITALIANO,DELLA MARINA MILITARE ((, DELL'AERONAUTICA MILITARE E DELLA SANITA' MILITARE))
+##### CAPO XIII - AVANZAMENTO DEI SOTTUFFICIALI DELL'ESERCITO ITALIANO,DELLA MARINA MILITARE ((, DELL'AERONAUTICA MILITARE E DELLA SANITA' MILITARE))
 
-##### SEZIONE I - DISPOSIZIONI GENERALI
+**SEZIONE I - DISPOSIZIONI GENERALI**
 
 ###### Art. 1273
 
@@ -21134,7 +21128,7 @@ dagli obblighi connessi con le particolari condizioni per l'avanzamento prescrit
 
 6-bis. ((COMMA ABROGATO DAL D.LGS. 27 DICEMBRE 2019, N. 173)).
 
-##### SEZIONE II - PROFILO DI CARRIERA DEI MARESCIALLI
+**SEZIONE II - PROFILO DI CARRIERA DEI MARESCIALLI**
 
 ###### Art. 1276
 
@@ -21284,7 +21278,7 @@ Il D.Lgs. 3 aprile 2026, n. 74, ha disposto (con l'art. 20, comma 2, lettera c))
 
 c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
-##### SEZIONE III - PROFILO DI CARRIERA DEI SERGENTI
+**SEZIONE III - PROFILO DI CARRIERA DEI SERGENTI**
 
 ###### Art. 1283
 
@@ -21384,9 +21378,9 @@ Condizioni particolari per l'avanzamento dei sergenti dell'Aeronautica militare
 
 1\. I periodi minimi di attribuzioni specifiche, per l'avanzamento dei sergenti dell'Aeronautica militare, da sergente a sergente maggiore e da sergente maggiore a sergente maggiore capo sono determinati in ((3 anni)) di impiego in incarichi della categoria di appartenenza
 
-#### CAPO XIV - AVANZAMENTO DEGLI ISPETTORI E DEI SOVRINTENDENTI DELL'ARMA DEI CARABINIERI
+##### CAPO XIV - AVANZAMENTO DEGLI ISPETTORI E DEI SOVRINTENDENTI DELL'ARMA DEI CARABINIERI
 
-##### SEZIONE I - DISPOSIZIONI GENERALI
+**SEZIONE I - DISPOSIZIONI GENERALI**
 
 ###### Art. 1289
 
@@ -21402,7 +21396,7 @@ Condizioni per l'avanzamento
 
 2\. Il Ministro della difesa ha facolta' di istituire con proprio decreto corsi per acquisire condizioni per l'avanzamento tenendo conto delle esigenze formative dei marescialli e delle particolari necessita' di servizio.
 
-##### SEZIONE II - PROFILO DI CARRIERA DEGLI ISPETTORI
+**SEZIONE II - PROFILO DI CARRIERA DEGLI ISPETTORI**
 
 ###### Art. 1291
 
@@ -21500,7 +21494,7 @@ Avanzamento a sottotenente
 
 2\. La proposta di avanzamento e' formulata secondo le norme di cui agli articoli 1062 e 1063.
 
-##### SEZIONE III - PROFILO DI CARRIERA DEI SOVRINTENDENTI
+**SEZIONE III - PROFILO DI CARRIERA DEI SOVRINTENDENTI**
 
 ###### Art. 1297
 
@@ -21538,9 +21532,9 @@ b) 5 anni per l'avanzamento al grado di brigadiere capo.))
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95))
 
-#### CAPO XV - AVANZAMENTO DEI GRADUATI E MILITARI DI TRUPPA
+##### CAPO XV - AVANZAMENTO DEI GRADUATI E MILITARI DI TRUPPA
 
-##### SEZIONE I - AVANZAMENTO DEI MILITARI DI TRUPPA
+**SEZIONE I - AVANZAMENTO DEI MILITARI DI TRUPPA**
 
 ###### Art. 1301
 
@@ -21572,7 +21566,7 @@ Estensione delle norme sull'avanzamento
 
 1\. Per quanto non diversamente disposto, ai volontari in ferma prefissata si applicano, in quanto compatibili, le disposizioni in materia di avanzamento relative ai volontari in servizio permanente
 
-##### SEZIONE II - PROFILO DI CARRIERA DEI VOLONTARI IN SERVIZIO PERMANENTE
+**SEZIONE II - PROFILO DI CARRIERA DEI VOLONTARI IN SERVIZIO PERMANENTE**
 
 ###### Art. 1306
 
@@ -21704,7 +21698,7 @@ Ulteriori condizioni particolari per l'avanzamento dei volontari della Marina mi
 
 ((5. Per il personale nocchieri di porto le attribuzioni specifiche, oltre che in destinazioni di imbarco, possono essere soddisfatte in tutto o in parte con la permanenza presso uffici territoriali, reparti operativi o componenti specialistiche in incarichi attinenti alla categoria, specialita' e abilitazione di appartenenza.))
 
-##### SEZIONE III - PROFILO DI CARRIERA DEGLI APPUNTATI E CARABINIERI
+**SEZIONE III - PROFILO DI CARRIERA DEGLI APPUNTATI E CARABINIERI**
 
 ###### Art. 1310
 
@@ -21748,9 +21742,9 @@ Impedimenti alla valutazione
 
 ((ARTICOLO ABROGATO DAL D.LGS. 31 DICEMBRE 2012, N. 248))
 
-#### CAPO XVI - AVANZAMENTO NEL RUOLO D'ONORE
+##### CAPO XVI - AVANZAMENTO NEL RUOLO D'ONORE
 
-##### SEZIONE I - PERSONALE ISCRITTO NEL RUOLO D'ONORE
+**SEZIONE I - PERSONALE ISCRITTO NEL RUOLO D'ONORE**
 
 ###### Art. 1314
 
@@ -21834,7 +21828,7 @@ Il D.Lgs. 3 aprile 2026, n. 74, ha disposto (con l'art. 20, comma 2, lettera c))
 
 c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
-##### SEZIONE II - PERSONALE DECORATO AL VALOR MILITARE O CIVILE IN SERVIZIO
+**SEZIONE II - PERSONALE DECORATO AL VALOR MILITARE O CIVILE IN SERVIZIO**
 
 ###### Art. 1319
 
@@ -21858,9 +21852,9 @@ Forma di avanzamento
 
 2\. Il personale giudicato idoneo e' promosso senza iscrizione in quadro di avanzamento, con anzianita' corrispondente alla data di compimento di ognuno dei quinquenni di cui all'articolo 1319.
 
-#### CAPO XVII - ATTRIBUZIONE DI QUALIFICHE INDIPENDENTI DAL GRADO
+##### CAPO XVII - ATTRIBUZIONE DI QUALIFICHE INDIPENDENTI DAL GRADO
 
-##### SEZIONE I - PRIMO CAPITANO
+**SEZIONE I - PRIMO CAPITANO**
 
 ###### Art. 1321
 
@@ -21884,7 +21878,7 @@ Conferimento della qualifica di primo capitano
 
 4\. La qualifica di primo capitano e corrispondenti e' conferita con decreto ministeriale.
 
-##### SEZIONE II - ((PRIMO LUOGOTENENTE E QUALIFICA SPECIALE))
+**SEZIONE II - ((PRIMO LUOGOTENENTE E QUALIFICA SPECIALE))**
 
 ###### Art. 1323 - Attribuzione della qualifica di primo luogotenente ai luogotenenti dell'Esercito italiano, della Marina militare ((, dell'Aeronautica militare e della Sanita' militare)) ). ((138)
 
@@ -22020,9 +22014,9 @@ a) sospeso dalla procedura ai sensi del comma 1, lettera b) la qualifica e' conf
 
 b) escluso dalla procedura ai sensi del comma 1, lettere c) e d), la qualifica e' conferita dal giorno successivo al maturamento dei requisiti richiesti.
 
-#### CAPO XVIII - AVANZAMENTO IN TEMPO DI GUERRA O DI GRAVE CRISI INTERNAZIONALE
+##### CAPO XVIII - AVANZAMENTO IN TEMPO DI GUERRA O DI GRAVE CRISI INTERNAZIONALE
 
-##### SEZIONE I - DISPOSIZIONI GENERALI
+**SEZIONE I - DISPOSIZIONI GENERALI**
 
 ###### Art. 1326
 
@@ -22110,7 +22104,7 @@ Avanzamento dei militari in particolari condizioni fisiche
 
 4\. Le disposizioni del presente articolo si applicano anche oltre il tempo di guerra o di grave crisi internazionale, purche' il militare risulta compreso in aliquote di ruolo di militare da valutare durante il tempo di guerra o di grave crisi internazionale. Per l'ufficiale di complemento, pero', agli effetti dell'applicazione del comma 3, e' sufficiente il raggiungimento delle condizioni previste dall'articolo 1255, se piu' favorevoli.
 
-##### SEZIONE II - PROMOZIONI E AVANZAMENTI PER MERITO DI GUERRA
+**SEZIONE II - PROMOZIONI E AVANZAMENTI PER MERITO DI GUERRA**
 
 ###### Art. 1336
 
@@ -22184,7 +22178,7 @@ Proposte
 
 3\. Sulle proposte decide il Ministro, previo parere favorevole, espresso a unanimita' di voti, della competente commissione di avanzamento. Il decreto con il quale e' conferita la promozione o l'avanzamento per merito di guerra ne reca la motivazione.
 
-##### SEZIONE III - AVANZAMENTO DEI MILITARI REDUCI DA PRIGIONIA
+**SEZIONE III - AVANZAMENTO DEI MILITARI REDUCI DA PRIGIONIA**
 
 ###### Art. 1342
 
@@ -22224,7 +22218,7 @@ Militare ferito
 
 2\. Al militare che, conseguita la promozione ai sensi del comma 1, risulti nel nuovo grado gia' raggiunto dal turno di avanzamento, si applicano, a seconda delle categorie di appartenenza, le disposizioni dei commi 3 e 4 dell'articolo 1342.
 
-##### SEZIONE IV - NORME FINALI
+**SEZIONE IV - NORME FINALI**
 
 ###### Art. 1345
 
@@ -22236,9 +22230,9 @@ Funzioni del grado superiore
 
 3\. L'ufficiale al quale sono conferite le funzioni del grado superiore ha diritto a tutti gli assegni e le indennita' di tale grado ed e' considerato, agli effetti disciplinari, come rivestito del grado stesso. Il servizio prestato nell'esercizio delle funzioni del grado superiore e' valido ai fini dell'avanzamento al grado superiore a quello di cui l'ufficiale ha disimpegnato le funzioni, se e' stato prestato in incarichi utili agli effetti del compimento dei periodi indicati dal presente codice.
 
-### TITOLO VIII - DISCIPLINA MILITARE
+#### TITOLO VIII - DISCIPLINA MILITARE
 
-#### CAPO I - FONDAMENTI DELLE ISTITUZIONI MILITARI
+##### CAPO I - FONDAMENTI DELLE ISTITUZIONI MILITARI
 
 ###### Art. 1346
 
@@ -22260,7 +22254,7 @@ Obbedienza
 
 2\. Il dovere dell'obbedienza e' assoluto, salvo i limiti posti dall'articolo 1349, comma 2 e dall'articolo 729 del regolamento.
 
-#### CAPO II - DOVERI
+##### CAPO II - DOVERI
 
 ###### Art. 1348
 
@@ -22324,9 +22318,9 @@ d) dei servizi di sicurezza di particolari impianti e installazioni;
 
 e) operative e di addestramento fuori sede.
 
-#### CAPO III - SANZIONI DISCIPLINARI
+##### CAPO III - SANZIONI DISCIPLINARI
 
-##### SEZIONE I - DISPOSIZIONI GENERALI
+**SEZIONE I - DISPOSIZIONI GENERALI**
 
 ###### Art. 1352
 
@@ -22384,7 +22378,7 @@ Militari tossicodipendenti, alcooldipendenti e assuntori di sostanze dopanti
 
 > \- La legge 14 dicembre 2000, n. 376 (Disciplina della tutela sanitaria delle attivita' sportive e della lotta contro il doping) e' pubblicata nella Gazzetta Ufficiale del 18 dicembre 2000, n. 294.
 
-##### SEZIONE II - CLASSIFICAZIONE DELLE SANZIONI DISCIPLINARI
+**SEZIONE II - CLASSIFICAZIONE DELLE SANZIONI DISCIPLINARI**
 
 ###### Art. 1357
 
@@ -22504,7 +22498,7 @@ b) fatti che hanno determinato un giudizio penale a seguito del quale e' stato i
 
 > 2\. se piu' sono i colpevoli e alcuno di essi non e' militare, la richiesta di procedimento a carico del militare colpevole si estende alle persone estranee alle forze armate dello Stato, che sono concorse nel reato.».
 
-##### SEZIONE III - ISTANZE E RICORSI AVVERSO LE SANZIONI DISCIPLINARI DI CORPO
+**SEZIONE III - ISTANZE E RICORSI AVVERSO LE SANZIONI DISCIPLINARI DI CORPO**
 
 ###### Art. 1363
 
@@ -22540,7 +22534,7 @@ Ricorso gerarchico avverso le sanzioni disciplinari di corpo
 
 1\. Il superiore, per il cui tramite va proposto il ricorso gerarchico, deve inoltrarlo sollecitamente senza pareri o commenti all'autorita' gerarchica immediatamente superiore a quella che ha inflitto la sanzione di corpo.
 
-##### SEZIONE IV - DISPOSIZIONI PARTICOLARI
+**SEZIONE IV - DISPOSIZIONI PARTICOLARI**
 
 ###### Art. 1367
 
@@ -22570,9 +22564,9 @@ Cessazione degli effetti delle sanzioni disciplinari di corpo
 
 3\. In caso di accoglimento dell'istanza le annotazioni relative alla sanzione inflitta sono eliminate dalla documentazione personale, esclusa peraltro ogni efficacia retroattiva.
 
-#### CAPO IV - PROCEDIMENTO DISCIPLINARE
+##### CAPO IV - PROCEDIMENTO DISCIPLINARE
 
-##### SEZIONE I - DISPOSIZIONI GENERALI
+**SEZIONE I - DISPOSIZIONI GENERALI**
 
 ###### Art. 1370
 
@@ -22640,7 +22634,7 @@ Estinzione del procedimento disciplinare
 
 1\. Il decesso dell'incolpato estingue il procedimento disciplinare.
 
-##### SEZIONE II - PROCEDIMENTO DISCIPLINARE DI STATO ((E RAPPORTO TRA PROCEDIMENTO DISCIPLINARE DI STATO E DI CORPO E PROCEDIMENTO PENALE))
+**SEZIONE II - PROCEDIMENTO DISCIPLINARE DI STATO ((E RAPPORTO TRA PROCEDIMENTO DISCIPLINARE DI STATO E DI CORPO E PROCEDIMENTO PENALE))**
 
 ###### Art. 1375
 
@@ -23060,7 +23054,7 @@ a) la commissione di disciplina puo' essere composta anche con ufficiali dell'au
 
 b) la competenza a disporre l'inchiesta formale, le decisioni da adottare in seguito all'inchiesta stessa, la competenza a formare e a convocare la commissione di disciplina spettano al comandante di divisione autonoma o al comandante di unita' corrispondenti della Marina militare e della Aeronautica militare, dai quali l'interessato dipende per ragioni di impiego.
 
-##### SEZIONE III - PROCEDIMENTO DISCIPLINARE DI CORPO
+**SEZIONE III - PROCEDIMENTO DISCIPLINARE DI CORPO**
 
 ###### Art. 1396
 
@@ -23206,9 +23200,9 @@ Provvedimenti provvisori a titolo precauzionale
 
 3\. La durata del provvedimento provvisorio va compresa nel computo della sanzione definitiva.
 
-#### CAPO V - ONORIFICENZE MILITARI E RICOMPENSE
+##### CAPO V - ONORIFICENZE MILITARI E RICOMPENSE
 
-##### SEZIONE I - ORDINE MILITARE D'ITALIA
+**SEZIONE I - ORDINE MILITARE D'ITALIA**
 
 ###### Art. 1402
 
@@ -23286,7 +23280,7 @@ Disposizioni regolamentari
 
 1\. Il regolamento disciplina le disposizioni di attuazione concernenti l'Ordine Militare d'Italia.
 
-##### SEZIONE II - RICOMPENSE AL VALOR MILITARE
+**SEZIONE II - RICOMPENSE AL VALOR MILITARE**
 
 ###### Art. 1410
 
@@ -23518,7 +23512,7 @@ Norma di rinvio
 
 1\. Nel regolamento sono contenute le disposizioni per la esecuzione delle norme della presente sezione.
 
-##### SEZIONE III - RICOMPENSE AL VALORE E AL MERITO DELL'ESERCITO
+**SEZIONE III - RICOMPENSE AL VALORE E AL MERITO DELL'ESERCITO**
 
 ###### Art. 1433
 
@@ -23564,7 +23558,7 @@ memoria&gt;&gt;; in tal caso si applicano le norme previste dall'articolo
 
 1449\.
 
-##### SEZIONE IV - RICOMPENSE AL VALORE E AL MERITO DI MARINA
+**SEZIONE IV - RICOMPENSE AL VALORE E AL MERITO DI MARINA**
 
 ###### Art. 1436
 
@@ -23604,7 +23598,7 @@ Medaglie al merito di Marina
 
 2\. Il grado della ricompensa e' commisurato all'importanza dei risultati conseguiti e alle difficolta' superate nel corso dell'attivita' svolta.
 
-##### SEZIONE V - RICOMPENSE AL VALORE E AL MERITO AERONAUTICO
+**SEZIONE V - RICOMPENSE AL VALORE E AL MERITO AERONAUTICO**
 
 ###### Art. 1439
 
@@ -23636,7 +23630,7 @@ b) ai reparti non inferiori alle squadriglie, ai comandi e agli enti che parteci
 
 3\. La medaglia di bronzo al valore aeronautico e' concessa ai militari e ai civili per atti di singolare coraggio e perizia, o ai predetti reparti, comandi ed enti per imprese particolarmente commendevoli.
 
-##### SEZIONE VI - RICOMPENSE AL VALORE E AL MERITO DELL'ARMA DEI CARABINIERI
+**SEZIONE VI - RICOMPENSE AL VALORE E AL MERITO DELL'ARMA DEI CARABINIERI**
 
 ###### Art. 1441
 
@@ -23686,7 +23680,7 @@ Croci al merito dell'Arma dei carabinieri
 
 2\. Il grado della ricompensa e' commisurato all'importanza degli effetti conseguiti e alle difficolta' superate nel corso dell'attivita' svolta.
 
-##### SEZIONE VII - NORME COMUNI ALLE RICOMPENSE AL VALORE E AL MERITO DI FORZA ARMATA
+**SEZIONE VII - NORME COMUNI ALLE RICOMPENSE AL VALORE E AL MERITO DI FORZA ARMATA**
 
 ###### Art. 1444
 
@@ -23880,7 +23874,7 @@ d) le modalita' di consegna delle ricompense;
 
 e) l'uso delle insegne.
 
-##### SEZIONE VIII - CROCE AL MERITO DI GUERRA
+**SEZIONE VIII - CROCE AL MERITO DI GUERRA**
 
 ###### Art. 1454
 
@@ -23936,7 +23930,7 @@ c) il rilascio dei brevetti;
 
 d) l'uso delle insegne.
 
-##### SEZIONE IX - MEDAGLIA MAURIZIANA
+**SEZIONE IX - MEDAGLIA MAURIZIANA**
 
 ###### Art. 1459
 
@@ -23982,7 +23976,7 @@ a) le caratteristiche della medaglia ((, che comunque non e' coniata in oro));
 
 b) le disposizioni esecutive delle norme della presente sezione.
 
-##### SEZIONE X - ENCOMI, ELOGI E ALTRE RICOMPENSE
+**SEZIONE X - ENCOMI, ELOGI E ALTRE RICOMPENSE**
 
 ###### Art. 1462
 
@@ -24064,9 +24058,9 @@ Il D.Lgs. 3 aprile 2026, n. 74, ha disposto (con l'art. 20, comma 2, lettera c))
 
 c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
-### TITOLO IX - ESERCIZIO DEI DIRITTI
+#### TITOLO IX - ESERCIZIO DEI DIRITTI
 
-#### CAPO I - DISPOSIZIONI GENERALI
+##### CAPO I - DISPOSIZIONI GENERALI
 
 ###### Art. 1465
 
@@ -24106,7 +24100,7 @@ Discriminazioni e molestie
 
 > \- Il decreto legislativo 11 aprile 2006 n. 198 (Codice delle pari opportunita' tra uomo e donna, a norma dell'articolo 6 della L. 28 novembre 2005, n. 246), e' pubblicato nella Gazzetta Ufficiale del 31 maggio 2006 n.133, n. 125.
 
-#### CAPO II - LIBERTA' FONDAMENTALI
+##### CAPO II - LIBERTA' FONDAMENTALI
 
 ###### Art. 1469
 
@@ -24194,9 +24188,9 @@ Limitazioni all'esercizio del diritto di associazione e divieto di sciopero
 
 4\. I militari non possono esercitare il diritto di sciopero.
 
-#### CAPO III - ((ASSOCIAZIONI PROFESSIONALI A CARATTERE SINDACALE TRA MILITARI))
+##### CAPO III - ((ASSOCIAZIONI PROFESSIONALI A CARATTERE SINDACALE TRA MILITARI))
 
-##### ((SEZIONE I)) - ((PRINCIPI GENERALI E COMPETENZE))
+**((SEZIONE I)) - ((PRINCIPI GENERALI E COMPETENZE))**
 
 ###### Art. 1476
 
@@ -24294,7 +24288,7 @@ g) aderire ad associazioni sindacali diverse da quelle costituite ai sensi delle
 
 h) assumere denominazioni o simboli che richiamano, anche in modo indiretto, categorie di personale, specialita', corpi o altro che non sia la Forza armata o la Forza di polizia a ordinamento militare di appartenenza, ovvero organizzazioni sindacali, per cui sussiste il divieto di adesione ai sensi delle disposizioni del presente capo, od organizzazioni politiche.))
 
-##### ((SEZIONE II)) - ((COSTITUZIONE, ARTICOLAZIONI PERIFERICHE E CARICHE DIRETTIVE))
+**((SEZIONE II)) - ((COSTITUZIONE, ARTICOLAZIONI PERIFERICHE E CARICHE DIRETTIVE))**
 
 ###### Art. 1477
 
@@ -24352,7 +24346,7 @@ d) gli ufficiali che rivestono l'incarico di comandante di Corpo.
 
 4\. Nessun militare puo' essere posto in distacco sindacale per piu' di ((quattro)) volte.
 
-##### ((SEZIONE III)) - ((ASSOCIAZIONI PROFESSIONALI A CARATTERE SINDACALE TRA MILITARI RAPPRESENTATIVE A LIVELLO NAZIONALE))
+**((SEZIONE III)) - ((ASSOCIAZIONI PROFESSIONALI A CARATTERE SINDACALE TRA MILITARI RAPPRESENTATIVE A LIVELLO NAZIONALE))**
 
 ###### Art. 1478
 
@@ -24410,7 +24404,7 @@ e) possono inviare comunicazioni scritte al personale militare sulle materie di 
 
 1-bis. ((Ai fini di cui al comma 1, la documentazione su cui richiedere il parere previsto dalla legge e dai regolamenti e' inviata, di norma, entro un termine non inferiore ai dieci giorni.)) 2. Le procedure di informazione e consultazione delle APCSM riconosciute rappresentative ai sensi dell'articolo 1478 sono disciplinate con il regolamento di attuazione di cui all'articolo 1475, comma 2.
 
-##### ((SEZIONE IV)) - ((ATTIVITÀ SINDACALI, FINANZIAMENTO E TRASPARENZA DEI BILANCI))
+**((SEZIONE IV)) - ((ATTIVITÀ SINDACALI, FINANZIAMENTO E TRASPARENZA DEI BILANCI))**
 
 ###### Art. 1480 - Svolgimento dell'attivita' di carattere sindacale
 
@@ -24494,7 +24488,7 @@ b) durante il servizio, sono autorizzate riunioni con ordine del giorno su mater
 
 5\. Le APCSM predispongono annualmente il bilancio preventivo, entro il 31 dicembre dell'anno precedente a quello cui l'esercizio si riferisce, e il rendiconto della gestione precedente, entro il 30 aprile dell'anno successivo; entrambi devono essere approvati dagli associati e resi conoscibili al pubblico, non oltre dieci giorni dalla loro approvazione, mediante idonee forme di pubblicita'.))
 
-##### ((SEZIONE V)) - ((GIURISDIZIONE E TENTATIVO DI CONCILIAZIONE))
+**((SEZIONE V)) - ((GIURISDIZIONE E TENTATIVO DI CONCILIAZIONE))**
 
 ###### Art. 1481
 
@@ -24566,9 +24560,7 @@ b) sono composte da militari appartenenti alla Forza armata o alla Forza di poli
 
 4\. Le amministrazioni interessate provvedono all'istituzione e al funzionamento delle commissioni di conciliazione nell'ambito delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri per la finanza pubblica. Ai rispettivi componenti non spettano compensi, gettoni di presenza, rimborsi di spese o altri emolumenti comunque denominati.))
 
-#### ((CAPO III-BIS)) - ((PARTICOLARI LIMITAZIONI ALL'ESERCIZIO
-
-##### DELL'ATTIVITA' DI CARATTERE SINDACALE))
+##### ((CAPO III-BIS)) - ((PARTICOLARI LIMITAZIONI ALL'ESERCIZIO DELL'ATTIVITA' DI CARATTERE SINDACALE))
 
 ###### Art. 1482-ter
 
@@ -24668,9 +24660,9 @@ b) successivi alla formazione di base:
 
 4\. ((Il personale militare impiegato con compiti di formazione esercita il diritto di assemblea, compatibilmente con l'assolvimento delle prioritarie attivita' formative previste e programmate.))
 
-#### CAPO IV - ESERCIZIO DEI DIRITTI POLITICI
+##### CAPO IV - ESERCIZIO DEI DIRITTI POLITICI
 
-##### SEZIONE I - DISPOSIZIONI GENERALI
+**SEZIONE I - DISPOSIZIONI GENERALI**
 
 ###### Art. 1483
 
@@ -24680,7 +24672,7 @@ Esercizio delle liberta' in ambito politico
 
 2\. Ai militari ((che si trovino nelle condizioni di cui al comma 2 dell'articolo)) 1350, e' fatto divieto di partecipare a riunioni e manifestazioni di partiti, associazioni ((...)) e organizzazioni politiche, nonche' di svolgere propaganda a favore o contro partiti, associazioni ((...)), organizzazioni politiche o candidati a elezioni politiche e amministrative.
 
-##### SEZIONE II - ELETTORATO PASSIVO
+**SEZIONE II - ELETTORATO PASSIVO**
 
 ###### Art. 1484
 
@@ -24800,7 +24792,7 @@ Collocamento in aspettativa e trattamento economico
 
 > \- Il decreto legislativo 18 agosto 2000, n. 267 (Testo unico delle leggi sull'ordinamento degli enti locali) e' pubblicato nella Gazzetta Ufficiale del 28 settembre 2000, n. 227.
 
-##### SEZIONE III - ELETTORATO ATTIVO
+**SEZIONE III - ELETTORATO ATTIVO**
 
 ###### Art. 1489
 
@@ -24838,7 +24830,7 @@ Esercizio del diritto di voto per i militari temporaneamente all'estero per moti
 
 1\. Il personale militare temporaneamente all'estero per servizio o impegnato nello svolgimento di missioni internazionali esercita, per le elezioni al Parlamento europeo, al Parlamento nazionale, ai Consigli regionali e degli enti locali, il diritto di voto ai sensi e nei limiti delle disposizioni vigenti.
 
-##### SEZIONE IV - LIMITAZIONI ALL'ACCESSO A TALUNI UFFICI PUBBLICI
+**SEZIONE IV - LIMITAZIONI ALL'ACCESSO A TALUNI UFFICI PUBBLICI**
 
 ###### Art. 1492
 
@@ -24848,9 +24840,9 @@ Ufficio di giudice popolare e di componente di seggio elettorale
 
 ((2. Gli appartenenti alle Forze armate in servizio sono esclusi dalle funzioni di presidente dell'ufficio elettorale di sezione, di scrutatore e di segretario, ai sensi dell'articolo 38, primo comma, lettera c), del decreto del Presidente della Repubblica 30 marzo 1957, n. 361.))
 
-#### CAPO V - DIRITTI SOCIALI
+##### CAPO V - DIRITTI SOCIALI
 
-##### SEZIONE I - TUTELA DELLA MATERNITA' E DELLA PATERNITA'
+**SEZIONE I - TUTELA DELLA MATERNITA' E DELLA PATERNITA'**
 
 ###### Art. 1493
 
@@ -24888,7 +24880,7 @@ Effetti sullo stato giuridico
 
 3\. Il personale militare che si assenta dal servizio per congedo parentale e per la malattia del figlio e' posto in licenza straordinaria, rispettivamente, per congedo parentale e per malattia del figlio, equiparata a tutti gli effetti a quanto previsto dagli articoli 32 e 47 del decreto legislativo 26 marzo 2001, n. 151. Il periodo trascorso in tale licenza e' computabile, ai fini della progressione di carriera, nei limiti previsti relativamente al periodo massimo di assenza che determina la fine del servizio.
 
-##### SEZIONE II - DIRITTO ALLA SALUTE
+**SEZIONE II - DIRITTO ALLA SALUTE**
 
 ###### Art. 1496
 
@@ -24936,7 +24928,7 @@ Stato di dipendenza dei militari in ferma o in servizio permanente effettivo
 
 > \- Il decreto del Presidente della Repubblica 9 ottobre 1990, n. 309 (Testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza), e' pubblicato nella Gazzetta Ufficiale del 31 ottobre 1990, n. 255.
 
-##### SEZIONE III - LICENZE E PERMESSI
+**SEZIONE III - LICENZE E PERMESSI**
 
 ###### Art. 1500
 
@@ -25108,7 +25100,7 @@ i) l'astensione dal lavoro per donazione di sangue ed emocomponenti, ai sensi de
 
 1-ter Al personale in ferma dell'Arma dei carabinieri si applica l'articolo 31 del decreto del Presidente della Repubblica 11 settembre 2007, n. 170.))
 
-#### CAPO VI - PROTEZIONE DEI DATI PERSONALI
+##### CAPO VI - PROTEZIONE DEI DATI PERSONALI
 
 ###### Art. 1507
 
@@ -25120,9 +25112,9 @@ Esercizio del diritto alla protezione dei dati personali
 
 > \- Il decreto legislativo 30 giugno 2003, n. 196 (Codice in materia di protezione dei dati personali), e' pubblicato nella Gazzetta Ufficiale del 29 luglio 2003, n. 174.
 
-### TITOLO X - PERSONALE DELLE BANDE MUSICALI
+#### TITOLO X - PERSONALE DELLE BANDE MUSICALI
 
-#### CAPO I - RECLUTAMENTO E FORMAZIONE
+##### CAPO I - RECLUTAMENTO E FORMAZIONE
 
 ###### Art. 1508
 
@@ -25146,7 +25138,7 @@ Reclutamento e formazione di personale musicante
 
 2\. La preparazione dei militari che aspirano a partecipare ai concorsi per l'ammissione nella relativa banda e' curata nei rispettivi centri di addestramento musicale sotto la direzione del maestro direttore della banda, coadiuvato dal maestro vice direttore.
 
-#### CAPO II - RUOLI E ORGANICI
+##### CAPO II - RUOLI E ORGANICI
 
 ###### Art. 1510
 
@@ -25220,7 +25212,7 @@ c) III parte: III parte A e III parte B: maresciallo ordinario e gradi corrispon
 
 2\. L'archivista e' inserito ai fini della progressione di carriera e del trattamento economico, nella terza parte B.
 
-#### CAPO III - STATO GIURIDICO
+##### CAPO III - STATO GIURIDICO
 
 ###### Art. 1516
 
@@ -25282,7 +25274,7 @@ Trattenimento in servizio del maestro direttore
 
 1\. Il Ministro della difesa puo', di anno in anno, disporre il trattenimento in servizio permanente del maestro direttore che ha compiuto il 61° anno di eta'; l'ufficiale non puo' essere trattenuto in servizio permanente oltre il 65° anno di eta'.
 
-#### CAPO IV - AVANZAMENTO
+##### CAPO IV - AVANZAMENTO
 
 ###### Art. 1519
 
@@ -25354,7 +25346,7 @@ Norma finale
 
 1\. Al personale delle bande musicali, secondo il grado rivestito, si applicano le disposizioni sullo stato e l'avanzamento degli ufficiali e dei sottufficiali, di cui ai titoli V e VII del presente libro, per quanto non previsto nel presente titolo.
 
-### TITOLO XI - PERSONALE DEI GRUPPI SPORTIVI
+#### TITOLO XI - PERSONALE DEI GRUPPI SPORTIVI
 
 ###### Art. 1524
 
@@ -25374,9 +25366,9 @@ d) assicurare criteri omogenei di valutazione per l'autorizzazione delle sponsor
 
 2\. Al personale dei gruppi sportivi si applicano le disposizioni del presente libro, salvo quanto previsto dal regolamento. Per particolari discipline sportive indicate dal bando di concorso, i limiti minimo e massimo di eta' per il reclutamento degli atleti dei gruppi sportivi delle Forze armate sono fissati, rispettivamente, in diciassette e trentacinque anni. Il personale reclutato ai sensi del presente articolo non puo' essere impiegato in attivita' operative fino al compimento del diciottesimo anno di eta'. Il limite di eta' per il reclutamento degli istruttori dei gruppi sportivi delle Forze armate e' fissato in trentacinque anni.
 
-## LIBRO QUINTO - PERSONALE CIVILE E PERSONALE AUSILIARIO DELLE FORZE ARMATE
+### LIBRO QUINTO - PERSONALE CIVILE E PERSONALE AUSILIARIO DELLE FORZE ARMATE
 
-### TITOLO I - DISPOSIZIONI GENERALI
+#### TITOLO I - DISPOSIZIONI GENERALI
 
 ###### Art. 1525
 
@@ -25386,9 +25378,9 @@ Rapporti con l'ordinamento generale del lavoro alle dipendenze delle amministraz
 
 2\. Il personale ausiliario delle Forze armate e' disciplinato dalle disposizioni del presente libro.
 
-### TITOLO II - PERSONALE CIVILE
+#### TITOLO II - PERSONALE CIVILE
 
-#### CAPO I - DOTAZIONE ORGANICA
+##### CAPO I - DOTAZIONE ORGANICA
 
 ###### Art. 1526
 
@@ -25436,7 +25428,7 @@ Ambito e ulteriori modalita' per il reimpiego
 
 3\. I criteri e le modalita' di selezione per i candidati alla frequenza del corso di cui al comma 1 dell'articolo 751 sono determinati con decreto del Ministro della difesa.))
 
-#### CAPO II - DOCENTI
+##### CAPO II - DOCENTI
 
 ###### Art. 1530
 
@@ -25488,7 +25480,7 @@ f) estranei all'amministrazione dello Stato, specificamente incaricati.
 
 5\. ((COMMA ABROGATO DAL D.LGS. 31 DICEMBRE 2012, N. 248)).
 
-#### CAPO III - TRATTAMENTO ECONOMICO
+##### CAPO III - TRATTAMENTO ECONOMICO
 
 ###### Art. 1532
 
@@ -25504,11 +25496,11 @@ Missione fuori sede
 
 > L'articolo 1, comma 213, primo periodo, della legge 23 dicembre 2005, n. 266, cosi' recita: «213. L'indennita' di trasferta di cui all'articolo 1, primo comma, della legge 26 luglio 1978, n. 417, e all'articolo 1, primo comma, del decreto del Presidente della Repubblica 16 gennaio 1978, n. 513, l'indennita' supplementare prevista dal primo e secondo comma dell'articolo 14 della legge 18 dicembre 1973, n. 836, nonche' l'indennita' di cui all'articolo 8 del decreto legislativo luogotenenziale 7 giugno 1945, n. 320, sono soppresse.»
 
-### TITOLO III - PERSONALE RELIGIOSO
+#### TITOLO III - PERSONALE RELIGIOSO
 
-#### CAPO I - PERSONALE DEL SERVIZO DI ASSISTENZA SPIRITUALE
+##### CAPO I - PERSONALE DEL SERVIZO DI ASSISTENZA SPIRITUALE
 
-##### SEZIONE I - ORDINARIO MILITARE, VICARIO GENERALE E ISPETTORI
+**SEZIONE I - ORDINARIO MILITARE, VICARIO GENERALE E ISPETTORI**
 
 ###### Art. 1533
 
@@ -25628,7 +25620,7 @@ Cessazione dall'ufficio
 
 ((1. Il Vicario generale militare cessa di appartenere alla riserva ed e' collocato in congedo assoluto al compimento del sessantottesimo anno di eta')).
 
-##### SEZIONE II - DISPOSIZIONI GENERALI SUI CAPPELLANI MILITARI
+**SEZIONE II - DISPOSIZIONI GENERALI SUI CAPPELLANI MILITARI**
 
 ###### Art. 1546
 
@@ -25768,7 +25760,7 @@ Licenze
 
 2\. La licenza ordinaria e' concessa dall'Ordinario militare, previo nulla osta dell'autorita' dalla quale il cappellano militare direttamente dipende, la licenza straordinaria per gravi esigenze di carattere privato e' concessa, sentito il parere dell'Ordinario militare, dall'Amministrazione presso la quale il cappellano militare presta servizio.
 
-##### SEZIONE III - CAPPELLANI MILITARI IN SERVIZIO PERMANENTE
+**SEZIONE III - CAPPELLANI MILITARI IN SERVIZIO PERMANENTE**
 
 ###### Art. 1559 - Nomina
 
@@ -25956,7 +25948,7 @@ Norma di rinvio in materia di sospensione dall'impiego
 
 2\. La sospensione precauzionale, tranne il caso previsto dall'articolo 915, e' disposta sentito il parere dell'Ordinario militare.
 
-##### SEZIONE IV - CESSAZIONE DAL SERVIZIO PERMANENTE DEI CAPPELLANI MILITARI
+**SEZIONE IV - CESSAZIONE DAL SERVIZIO PERMANENTE DEI CAPPELLANI MILITARI**
 
 ###### Art. 1577
 
@@ -26028,7 +26020,7 @@ Cessazione dal servizio permanente per nomina a vescovo
 
 1\. Il cappellano militare che e' rivestito della dignita' vescovile cessa dal servizio permanente ed e' collocato in congedo assoluto; il diritto al trattamento di quiescenza e' previsto dall'articolo 1625.
 
-##### SEZIONE V - CAPPELLANI MILITARI IN CONGEDO
+**SEZIONE V - CAPPELLANI MILITARI IN CONGEDO**
 
 ###### Art. 1585
 
@@ -26094,7 +26086,7 @@ Provvedimenti di richiamo
 
 1\. Nei limiti di cui all'articolo 1590, le chiamate in servizio temporaneo e i collocamenti in congedo illimitato dei cappellani militari delle categorie di complemento e della riserva sono disposti con decreto del Ministro della difesa, su proposta dell'Ordinario militare.
 
-##### SEZIONE VI - CAPPELLANI MILITARI DI COMPLEMENTO
+**SEZIONE VI - CAPPELLANI MILITARI DI COMPLEMENTO**
 
 ###### Art. 1592
 
@@ -26122,7 +26114,7 @@ Cessazione dal complemento
 
 1\. Il cappellano militare di complemento e' collocato nella riserva al compimento del 55° anno di eta'. I cappellani militari di complemento che, dopo aver prestato ((due)) anni di servizio continuativo, hanno inoltrato domanda di transito nel servizio permanente ai sensi dell'articolo 1559, se non sono riconosciuti idonei a giudizio dell'Ordinario militare, cessano definitivamente dal servizio e sono collocati in congedo assoluto.
 
-##### SEZIONE VII - CAPPELLANI MILITARI DELLA RISERVA
+**SEZIONE VII - CAPPELLANI MILITARI DELLA RISERVA**
 
 ###### Art. 1595
 
@@ -26140,7 +26132,7 @@ a) 68 anni, se primo cappellano militare capo;
 
 b) 65 anni, se cappellano militare capo o cappellano militare addetto.
 
-##### SEZIONE VIII - PERDITA DEL GRADO
+**SEZIONE VIII - PERDITA DEL GRADO**
 
 ###### Art. 1597
 
@@ -26166,7 +26158,7 @@ Reintegrazione nel grado
 
 3\. La reintegrazione nel grado del cappellano militare gia' in servizio permanente non importa di diritto la reiscrizione del cappellano stesso nel ruolo del servizio permanente.
 
-##### SEZIONE IX - DISCIPLINA
+**SEZIONE IX - DISCIPLINA**
 
 ###### Art. 1599
 
@@ -26226,7 +26218,7 @@ Norma di rinvio
 
 1\. Per quanto non contemplato dalla presente sezione, si osservano, in quanto applicabili, le disposizioni di cui al capo IV del titolo VIII del Libro IV.
 
-##### SEZIONE X - DISPOSIZIONI PER IL TEMPO DI GUERRA E DI GRAVE CRISI INTERNAZIONALE
+**SEZIONE X - DISPOSIZIONI PER IL TEMPO DI GUERRA E DI GRAVE CRISI INTERNAZIONALE**
 
 ###### Art. 1607
 
@@ -26238,7 +26230,7 @@ a) il cappellano militare in congedo, a qualunque categoria appartenga, e' costa
 
 b) e' sospesa l'applicazione dell'articolo 1582.
 
-##### SEZIONE XI - AVANZAMENTO DEI CAPPELLANI MILITARI
+**SEZIONE XI - AVANZAMENTO DEI CAPPELLANI MILITARI**
 
 ###### Art. 1608
 
@@ -26278,7 +26270,7 @@ Valutazioni, impedimenti e sospensioni
 
 6\. Se il cappellano militare e' stato in aspettativa per prigionia di guerra, egli e' scrutinato dopo che risulta scagionato penalmente e disciplinarmente in rapporto al fatto della cattura. Si applica il disposto del comma 5.
 
-##### SEZIONE XII - PROFILO DI CARRIERA DEI CAPPELLANI MILITARI IN SERVIZIO PERMANENTE
+**SEZIONE XII - PROFILO DI CARRIERA DEI CAPPELLANI MILITARI IN SERVIZIO PERMANENTE**
 
 ###### Art. 1611 - Forme di avanzamento
 
@@ -26322,7 +26314,7 @@ Modalita' per lo scrutinio
 
 1\. Nel procedere allo scrutinio per merito comparativo, la Commissione d'avanzamento determina preliminarmente, mediante coefficienti numerici, i criteri di valutazione dei titoli, con riguardo alle qualita' ecclesiastiche, al servizio prestato, agli eventuali particolari incarichi svolti, alla cultura e ai requisiti intellettuali e di preparazione professionale, alle benemerenze di guerra.
 
-##### SEZIONE XIII - AVANZAMENTO DEI CAPPELLANI MILITARI IN CONGEDO
+**SEZIONE XIII - AVANZAMENTO DEI CAPPELLANI MILITARI IN CONGEDO**
 
 ###### Art. 1617
 
@@ -26332,7 +26324,7 @@ Modalita' per lo scrutinio
 
 ((ARTICOLO ABROGATO DALLA L. 22 APRILE 2021, N. 70))
 
-##### SEZIONE XIV - RUOLO D'ONORE
+**SEZIONE XIV - RUOLO D'ONORE**
 
 ###### Art. 1619
 
@@ -26384,7 +26376,7 @@ c) mutilazioni o invalidita' riportate in servizio e per causa di servizio, che 
 
 > 15\. Le aderenze parziali o totali diaframmatiche, postumi di pleuriti tubercolari, senza altre lesioni dell'apparato respiratorio. (Vedasi tabella B, n. 17). ».
 
-#### CAPO II - RELIGIOSE IN SERVIZIO PRESSO GLI STABILIMENTI SANITARI MILITARI
+##### CAPO II - RELIGIOSE IN SERVIZIO PRESSO GLI STABILIMENTI SANITARI MILITARI
 
 ###### Art. 1620
 
@@ -26394,9 +26386,9 @@ Assunzione e servizio
 
 2\. Per disciplinare il servizio delle suore addette agli stabilimenti sanitari militari sono emanate particolareggiate istruzioni a cura del Ministero della difesa.
 
-#### CAPO III - TRATTAMENTO ECONOMICO
+##### CAPO III - TRATTAMENTO ECONOMICO
 
-##### SEZIONE I - PERSONALE DEL SERVIZIO DI ASSISTENZA SPIRITUALE
+**SEZIONE I - PERSONALE DEL SERVIZIO DI ASSISTENZA SPIRITUALE**
 
 ###### Art. 1621
 
@@ -26428,7 +26420,7 @@ Riduzione o sospensione degli assegni
 
 1\. Lo stipendio e gli altri assegni spettanti al personale di cui all'articolo 1621((, commi 3 e 4,)) sono ridotti o sospesi, in relazione alle varie posizioni di stato per esso previste dal presente codice, secondo le norme in vigore per gli ufficiali della Forza armata a cui carico e' posto l'onere del trattamento economico.
 
-##### SEZIONE II - RELIGIOSE IN SERVIZIO PRESSO GLI STABILIMENTI SANITARI MILITARI
+**SEZIONE II - RELIGIOSE IN SERVIZIO PRESSO GLI STABILIMENTI SANITARI MILITARI**
 
 ###### Art. 1623
 
@@ -26452,7 +26444,7 @@ Trattamento economico di missione e trasferimento
 
 1\. Al personale indicato all'articolo 1623, in caso di missione o trasferimento, e' corrisposto il trattamento di missione vigente per il grado di maresciallo.
 
-#### CAPO IV - TRATTAMENTO PREVIDENZIALE
+##### CAPO IV - TRATTAMENTO PREVIDENZIALE
 
 ###### Art. 1625
 
@@ -26460,11 +26452,11 @@ Trattamento economico di missione e trasferimento
 
 ((1. Per le pensioni normali, privilegiate, ordinarie e di guerra all'Ordinario, al Vicario generale e ai cappellani militari in servizio permanente, il trattamento previdenziale segue il trattamento economico principale, fermo restando che con la cessazione dal servizio al 65° anno di eta' si interrompe ogni progressione di carriera e di avanzamento economico)).
 
-### TITOLO IV - PERSONALE DELLA CROCE ROSSA ITALIANA AUSILIARIO DELLE FORZE ARMATE
+#### TITOLO IV - PERSONALE DELLA CROCE ROSSA ITALIANA AUSILIARIO DELLE FORZE ARMATE
 
-#### CAPO I - PERSONALE DEL CORPO MILITARE
+##### CAPO I - PERSONALE DEL CORPO MILITARE
 
-##### SEZIONE I - DISPOSIZIONI GENERALI
+**SEZIONE I - DISPOSIZIONI GENERALI**
 
 ###### Art. 1626
 
@@ -26550,7 +26542,7 @@ Grado
 
 2\. Non sono concessi gradi onorari, ne' cambi di categoria.
 
-##### SEZIONE II - RECLUTAMENTO
+**SEZIONE II - RECLUTAMENTO**
 
 ###### Art. 1631
 
@@ -26640,7 +26632,7 @@ Incompatibilita'
 
 1\. Gli aspiranti all'arruolamento nel personale dell'Associazione devono dichiarare di non avere alcun impegno verso l'associazione dei cavalieri del sovrano militare Ordine di Malta e, se hanno appartenuto a detta associazione, devono indicare per qual motivo hanno cessato di farne parte.
 
-##### SEZIONE III - NOMINE
+**SEZIONE III - NOMINE**
 
 ###### Art. 1639
 
@@ -26684,7 +26676,7 @@ Numero delle nomine
 
 2\. I ruoli diversi da quelli di cui al comma 1 non hanno limitazioni organiche.
 
-##### SEZIONE IV - ARRUOLAMENTO DEL PERSONALE DIRETTIVO
+**SEZIONE IV - ARRUOLAMENTO DEL PERSONALE DIRETTIVO**
 
 ###### Art. 1643
 
@@ -26732,7 +26724,7 @@ Cappellani
 
 5\. L'assimilazione a grado militare del personale per l'assistenza spirituale non assoggetta alla giurisdizione penale militare e disciplinare militare, se non in caso di mobilitazione totale o parziale e in caso di imbarco sulle navi militari.
 
-##### SEZIONE V - ARRUOLAMENTO DEL PERSONALE DI ASSISTENZA
+**SEZIONE V - ARRUOLAMENTO DEL PERSONALE DI ASSISTENZA**
 
 ###### Art. 1647
 
@@ -26790,7 +26782,7 @@ Nomina a milite
 
 2\. Per essere nominati trombettieri, inservienti, lavandai, cuochi, meccanici e conducenti, gli aspiranti devono dar prova della necessaria attitudine.
 
-##### SEZIONE VI - STATO GIURIDICO
+**SEZIONE VI - STATO GIURIDICO**
 
 ###### Art. 1652
 
@@ -26988,7 +26980,7 @@ d) per il personale di assistenza che ha conseguito l'iscrizione nel personale d
 
 4\. Si applicano, in quanto compatibili, le disposizioni della sezione III del capo I del titolo V del libro IV.
 
-##### SEZIONE VII - OBBLIGHI DI SERVIZIO
+**SEZIONE VII - OBBLIGHI DI SERVIZIO**
 
 ###### Art. 1668
 
@@ -27010,7 +27002,7 @@ Mobilitazione urgente
 
 2\. I centri di mobilitazione provvedono a completare l'elenco di cui al comma 1 con i dati matricolari relativi e ne trasmettono al piu' presto una nuova copia completata al comitato centrale, ufficio personale.
 
-##### SEZIONE VIII - DISCIPLINA
+**SEZIONE VIII - DISCIPLINA**
 
 ###### Art. 1670
 
@@ -27102,7 +27094,7 @@ Procedimento disciplinare di stato
 
 4\. Per la cancellazione dai ruoli degli appartenenti al personale della Croce rossa italiana e' applicato l'articolo 1667, commi 2 e 3.
 
-##### SEZIONE IX - DOCUMENTAZIONE PERSONALE
+**SEZIONE IX - DOCUMENTAZIONE PERSONALE**
 
 ###### Art. 1677
 
@@ -27148,7 +27140,7 @@ Servizio matricolare
 
 2\. I documenti matricolari servono a comprovare i servizi che ciascun iscritto, ufficiale, sottufficiale o militare di truppa del corpo, ha prestato, per tutti gli effetti di legge.
 
-##### SEZIONE X - DISPOSIZIONI GENERALI IN MATERIA DI AVANZAMENTO
+**SEZIONE X - DISPOSIZIONI GENERALI IN MATERIA DI AVANZAMENTO**
 
 ###### Art. 1681
 
@@ -27170,7 +27162,7 @@ Nomina dell'ispettore nazionale del Corpo militare
 
 1\. L'ispettore nazionale del Corpo militare della Croce rossa italiana e' prescelto fra i colonnelli in servizio provenienti dal medesimo corpo ed e' nominato, con il contestuale conferimento del grado di maggiore generale, con decreto del Presidente della Repubblica, su proposta del Ministro della difesa, su designazione del presidente nazionale dell'Associazione.
 
-##### SEZIONE XI - AVANZAMENTO DEL PERSONALE DIRETTIVO
+**SEZIONE XI - AVANZAMENTO DEL PERSONALE DIRETTIVO**
 
 ###### Art. 1684
 
@@ -27432,7 +27424,7 @@ Ruolo speciale
 
 2\. Il numero delle vacanze utili per le promozioni di cui al comma 1 e' calcolato tenendo presente che per ogni cento ufficiali di ciascuna categoria del ruolo speciale, sessanta devono essere ((sottotenenti e tenenti)), trenta capitani e dieci ufficiali superiori (maggiori, tenenti colonnelli e colonnelli).
 
-##### SEZIONE XII - AVANZAMENTO DEL PERSONALE DI ASSISTENZA
+**SEZIONE XII - AVANZAMENTO DEL PERSONALE DI ASSISTENZA**
 
 ###### Art. 1699
 
@@ -27586,7 +27578,7 @@ Non idoneita' all'avanzamento
 
 2\. Sono, inoltre, esclusi dall'avanzamento i militi, graduati o sottufficiali che, chiamati in servizio per istruzione, per tre volte consecutive non si sono presentati, anche se la loro assenza e' stata causata da un giustificato motivo.
 
-##### SEZIONE XIII - AVANZAMENTO IN TEMPO DI GUERRA O DI GRAVE CRISI INTERNAZIONALE
+**SEZIONE XIII - AVANZAMENTO IN TEMPO DI GUERRA O DI GRAVE CRISI INTERNAZIONALE**
 
 ###### Art. 1710
 
@@ -27682,7 +27674,7 @@ Disposizioni speciali
 
 2\. Nel caso di sopraggiunta inabilita' fisica in servizio e per cause di servizio di guerra, sono applicate per analogia le disposizioni dell'articolo 1335.
 
-##### SEZIONE XIV - UFFICIALI FUORI QUADRO ((...))
+**SEZIONE XIV - UFFICIALI FUORI QUADRO ((...))**
 
 ###### Art. 1716
 
@@ -27748,7 +27740,7 @@ Rientro nel ruolo normale
 
 ((ARTICOLO ABROGATO DAL D.LGS. 31 DICEMBRE 2012, N. 248))
 
-##### SEZIONE XV - PRECETTAZIONI IN TEMPO DI GUERRA O DI GRAVE CRISI INTERNAZIONALE
+**SEZIONE XV - PRECETTAZIONI IN TEMPO DI GUERRA O DI GRAVE CRISI INTERNAZIONALE**
 
 ###### Art. 1726
 
@@ -27778,9 +27770,9 @@ Elenco transitorio
 
 guerra o di grave crisi internazionale e sono soggetti a tutte le norme che regolano il personale appartenente al ruolo normale dell'Associazione. Conseguentemente i comandi militari territoriali competenti annotano la relativa variazione sui documenti matricolari e nei fascicoli della forza in congedo degli interessati.
 
-#### CAPO II - PERSONALE DEL CORPO DELLE INFERMIERE VOLONTARIE
+##### CAPO II - PERSONALE DEL CORPO DELLE INFERMIERE VOLONTARIE
 
-##### SEZIONE I - DISPOSIZIONI GENERALI
+**SEZIONE I - DISPOSIZIONI GENERALI**
 
 ###### Art. 1729
 
@@ -27810,7 +27802,7 @@ Servizio
 
 1\. Il servizio prestato dalle infermiere volontarie della Croce rossa italiana e' gratuito.
 
-##### SEZIONE II - ORDINAMENTO E NOMINE
+**SEZIONE II - ORDINAMENTO E NOMINE**
 
 ###### Art. 1732
 
@@ -27954,7 +27946,7 @@ e) perdita della qualita' di socia della Croce rossa italiana a termini dello st
 
 f) cessazione volontaria della qualita' di socia della Croce rossa italiana.
 
-##### SEZIONE III - FORMAZIONE
+**SEZIONE III - FORMAZIONE**
 
 ###### Art. 1740
 
@@ -28064,7 +28056,7 @@ c) hanno conseguito il diploma d'infermiera volontaria, con votazione di almeno 
 
 4\. Nel regolamento sono stabilite le disposizioni di attuazione del presente articolo.
 
-##### SEZIONE IV - DISCIPLINA
+**SEZIONE IV - DISCIPLINA**
 
 ###### Art. 1746
 
@@ -28132,7 +28124,7 @@ Procedimento disciplinare
 
 2\. La capo-gruppo da' partecipazione al direttore dell'unita' del proprio provvedimento o di quello dell'ispettrice.
 
-##### SEZIONE V - DOCUMENTAZIONE PERSONALE
+**SEZIONE V - DOCUMENTAZIONE PERSONALE**
 
 ###### Art. 1751
 
@@ -28168,7 +28160,7 @@ a) pongono in evidenza le prove date dall'infermiera o dall'allieva di operosita
 
 b) compendiano i giudizi espressi in una delle seguenti qualifiche complessive: insufficiente - mediocre - buona - ottima - di merito eccezionale.
 
-##### SEZIONE VI - DISPOSIZIONI FINALI
+**SEZIONE VI - DISPOSIZIONI FINALI**
 
 ###### Art. 1753
 
@@ -28206,9 +28198,9 @@ Normativa applicabile
 
 1\. Sono applicabili alle infermiere della Croce rossa italiana le disposizioni dell'articolo 990.
 
-#### CAPO III - TRATTAMENTO ECONOMICO
+##### CAPO III - TRATTAMENTO ECONOMICO
 
-##### SEZIONE I - PERSONALE DEL CORPO MILITARE
+**SEZIONE I - PERSONALE DEL CORPO MILITARE**
 
 ###### Art. 1757
 
@@ -28220,7 +28212,7 @@ Trattamento economico del personale del Corpo militare della Croce rossa italian
 
 3\. Il personale di cui al comma 1 assunto in servizio in tempo di pace negli stabilimenti o uffici dell'Associazione riceve le competenze stabilite dalla presidenza nazionale, in analogia a quanto praticato per il personale militare e delle amministrazioni statali.
 
-##### SEZIONE II - PERSONALE DEL CORPO DELLE INFERMIERE VOLONTARIE
+**SEZIONE II - PERSONALE DEL CORPO DELLE INFERMIERE VOLONTARIE**
 
 ###### Art. 1758
 
@@ -28232,7 +28224,7 @@ Trattamento economico delle infermiere volontarie
 
 3\. Mediante accordi annuali da stabilire con apposita convenzione tra il Ministero dell'economia e delle finanze e la presidenza nazionale della Croce rossa italiana, e' determinata una somma da versare dal Ministero suddetto all'Ispettorato del corpo infermiere volontarie a titolo di occorrenze speciali di equipaggiamento e per rimborso di altre spese vive.
 
-#### CAPO IV - TRATTAMENTO PREVIDENZIALE
+##### CAPO IV - TRATTAMENTO PREVIDENZIALE
 
 ###### Art. 1759
 
@@ -28250,9 +28242,9 @@ Liquidazione delle pensioni per i servizi prestati in tempo di guerra o di grave
 
 1\. Le pensioni normali correlate ai servizi prestati in tempo di guerra o di grave crisi internazionale dal personale militare della Croce rossa italiana sono liquidate secondo le disposizioni in vigore per il personale delle Forze armate.
 
-### TITOLO V - ASSOCIAZIONE DEI CAVALIERI ITALIANI DEL SOVRANO MILITARE ORDINE DI MALTA
+#### TITOLO V - ASSOCIAZIONE DEI CAVALIERI ITALIANI DEL SOVRANO MILITARE ORDINE DI MALTA
 
-#### CAPO I - PERSONALE MILITARE
+##### CAPO I - PERSONALE MILITARE
 
 ###### Art. 1761
 
@@ -28352,7 +28344,7 @@ a) 45 anni compiuti, per l'arruolamento nel personale direttivo (ufficiali);
 
 b) 31 anni compiuti, per l'arruolamento nel personale d'assistenza (sottufficiali e truppa).
 
-#### CAPO II - CORPO DELLE INFERMIERE VOLONTARIE
+##### CAPO II - CORPO DELLE INFERMIERE VOLONTARIE
 
 ###### Art. 1769
 
@@ -28376,7 +28368,7 @@ Servizio volontario
 
 1\. Il servizio prestato dalle infermiere volontarie e' gratuito.
 
-#### CAPO III - TRATTAMENTO ECONOMICO
+##### CAPO III - TRATTAMENTO ECONOMICO
 
 ###### Art. 1772
 
@@ -28386,9 +28378,9 @@ Trattamento economico degli associati
 
 2\. I datori di lavoro privati sono obbligati ad assicurare la conservazione del posto di lavoro ai loro dipendenti appartenenti al personale dell'Associazione chiamati in servizio, sia in tempo di pace, in circostanze di pubblica necessita', sia in caso di guerra o di grave crisi internazionale.
 
-#### CAPO IV - TRATTAMENTO PREVIDENZIALE
+##### CAPO IV - TRATTAMENTO PREVIDENZIALE
 
-##### SEZIONE I - PERSONALE MILITARE
+**SEZIONE I - PERSONALE MILITARE**
 
 ###### Art. 1773
 
@@ -28410,7 +28402,7 @@ Liquidazione delle pensioni per i servizi prestati in tempo di guerra nell'Assoc
 
 1\. Le pensioni normali correlate ai servizi prestati in tempo di guerra o di grave crisi internazionale dal personale militare dell'Associazione dei cavalieri italiani del sovrano militare ordine di Malta, sono liquidate secondo le disposizioni in vigore per il personale delle Forze armate.
 
-##### SEZIONE II - CORPO DELLE INFERMIERE VOLONTARIE
+**SEZIONE II - CORPO DELLE INFERMIERE VOLONTARIE**
 
 ###### Art. 1775
 
@@ -28422,9 +28414,9 @@ Servizio in tempo di guerra delle infermiere dell'Associazione dei cavalieri ita
 
 > \- Per il decreto del Presidente della Repubblica 23 dicembre 1978, n. 915, si vedano le note all'art. 1759.
 
-## LIBRO SESTO - TRATTAMENTO ECONOMICO, ASSISTENZA E BENESSERE
+### LIBRO SESTO - TRATTAMENTO ECONOMICO, ASSISTENZA E BENESSERE
 
-### TITOLO I - DISPOSIZIONI GENERALI
+#### TITOLO I - DISPOSIZIONI GENERALI
 
 ###### Art. 1776
 
@@ -28504,7 +28496,7 @@ Computo del servizio anteriormente prestato
 
 1-bis. ((Le disposizioni)) di cui al comma 1 si applicano anche ai marescialli a valere sulle facolta' assunzionali previste a legislazione vigente.
 
-### TITOLO II - PERSONALE DI LEVA
+#### TITOLO II - PERSONALE DI LEVA
 
 ###### Art. 1784
 
@@ -28558,7 +28550,7 @@ Premio di congedamento
 
 1\. Ai graduati e ai militari di truppa in ferma di leva prolungata e' corrisposto un premio di congedamento pari a due volte l'ultima paga mensile percepita per ogni anno o frazione superiore a sei mesi di servizio prestato, se gli stessi non sono transitati in servizio permanente effettivo.
 
-### TITOLO III - PERSONALE IN FERMA VOLONTARIA
+#### TITOLO III - PERSONALE IN FERMA VOLONTARIA
 
 ###### Art. 1791
 
@@ -28688,9 +28680,9 @@ Retribuzione delle forze di completamento
 
 2\. Agli ufficiali delle forze di completamento, che sono lavoratori dipendenti pubblici, spettano, in aggiunta alle competenze fisse ed eventuali determinate e attribuite ai sensi del comma 1, limitatamente al periodo di effettiva permanenza nella posizione di richiamo, anche lo stipendio e le altre indennita' a carattere fisso e continuativo, fatta eccezione per l'indennita' integrativa speciale, dovuti dall'amministrazione di origine, che ne assicura la diretta corresponsione all'interessato.
 
-### TITOLO IV - PERSONALE ((MILITARE FINO AL GRADO DI CAPITANO))
+#### TITOLO IV - PERSONALE ((MILITARE FINO AL GRADO DI CAPITANO))
 
-#### CAPO I - TRATTAMENTO ECONOMICO STIPENDIALE
+##### CAPO I - TRATTAMENTO ECONOMICO STIPENDIALE
 
 ###### Art. 1800
 
@@ -28702,7 +28694,7 @@ Stipendio parametrale
 
 > \- Il decreto legislativo 30 maggio 2003, n. 193 (Sistema dei parametri stipendiali per il personale non dirigente delle Forze di polizia e delle Forze armate, a norma dell'articolo 7 della L. 29 marzo 2001, n. 86) e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 28 luglio 2003, n. 173.
 
-#### CAPO II - TRATTAMENTO ECONOMICO STIPENDIALE AGGIUNTIVO
+##### CAPO II - TRATTAMENTO ECONOMICO STIPENDIALE AGGIUNTIVO
 
 ###### Art. 1801
 
@@ -28774,7 +28766,7 @@ AGGIORNAMENTO (30)
 
 La L. 23 dicembre 2014, n. 190 ha disposto (con l'art. 1, comma 260) che "Gli importi dei premi previsti dagli articoli 1803, comma 1, lettere da a) ad e), 1804, comma 1, lettere da a) ad e), e 2161, comma 4, del codice di cui al decreto legislativo 15 marzo 2010, n. 66, e successive modificazioni, sono ridotti alla meta'".
 
-#### CAPO III - TRATTAMENTO ECONOMICO ACCESSORIO
+##### CAPO III - TRATTAMENTO ECONOMICO ACCESSORIO
 
 ###### Art. 1805
 
@@ -28788,9 +28780,9 @@ Rinvio ai provvedimenti di concertazione in materia di trattamento economico acc
 
 ((1. Per ciascun militare nell'anno di transito nel ruolo del personale civile del Ministero della difesa, annualmente e per l'intero periodo di permanenza del militare transitato in detti ruoli, e' versato al fondo per la retribuzione della produttivita' del personale civile stesso un importo corrispondente alla quota media pro capite delle risorse strutturali dei fondi per l'efficienza dei servizi istituzionali delle Forze armate comunque denominati.))
 
-#### CAPO IV - TRATTAMENTO ECONOMICO EVENTUALE
+##### CAPO IV - TRATTAMENTO ECONOMICO EVENTUALE
 
-##### SEZIONE I - TRATTAMENTO ECONOMICO DI MISSIONE E DI TRASFERIMENTO
+**SEZIONE I - TRATTAMENTO ECONOMICO DI MISSIONE E DI TRASFERIMENTO**
 
 ###### Art. 1806
 
@@ -28798,7 +28790,7 @@ Rinvio ai provvedimenti di concertazione in materia di trattamento economico di 
 
 1\. Al personale dell'Esercito italiano, della Marina militare e dell'Aeronautica militare si applicano, in materia di trattamento economico di missione e di trasferimento in ambito nazionale, le disposizioni emanate a seguito delle procedure di concertazione previste dal decreto legislativo 12 maggio 1995, n. 195, nonche' quelle previste dalla normativa vigente.((Allo stesso personale si applica, altresi', l'articolo 4, comma 98, della legge 12 novembre 2011, n. 183.))
 
-##### SEZIONE II - TRATTAMENTO ECONOMICO DI MISSIONE ALL'ESTERO
+**SEZIONE II - TRATTAMENTO ECONOMICO DI MISSIONE ALL'ESTERO**
 
 ###### Art. 1807
 
@@ -28922,9 +28914,9 @@ b) in caso di astensione facoltativa, l'indennita' personale e' sospesa.
 
 12-bis. Al personale militare e civile si applicano per l'assistenza sanitaria e per le coperture dei rischi di morte, invalidita' permanente o gravi menomazioni causati da atti di natura violenta, le norme vigenti per il personale del Ministero degli affari esteri in servizio all'estero, di cui all'articolo 211 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, e successive modificazioni. Al personale locale, assunto a contratto, si applicano l'articolo 158 del decreto del Presidente della Repubblica n. 18 del 1967 e il decreto legislativo 7 aprile 2000, n. 103, e successive modificazioni.
 
-### TITOLO V - ((UFFICIALI GENERALI E UFFICIALI SUPERIORI))
+#### TITOLO V - ((UFFICIALI GENERALI E UFFICIALI SUPERIORI))
 
-#### CAPO I - TRATTAMENTO ECONOMICO STIPENDIALE
+##### CAPO I - TRATTAMENTO ECONOMICO STIPENDIALE
 
 ###### Art. 1810
 
@@ -29258,7 +29250,7 @@ Trattamento economico al personale in aspettativa per riduzione dei quadri
 
 2\. Il trattamento economico di cui al comma 1 compete anche agli ufficiali richiamati ai sensi dell'articolo 909, comma 6.
 
-#### CAPO II - TRATTAMENTO ECONOMICO ACCESSORIO
+##### CAPO II - TRATTAMENTO ECONOMICO ACCESSORIO
 
 ###### Art. 1822
 
@@ -29298,9 +29290,9 @@ AGGIORNAMENTO (44)
 
 Il D.Lgs. 29 maggio 2017, n. 94 ha disposto (con l'art. 11, comma 2) che la presente modifica ha effetto a decorrere dal 1° gennaio 2018.
 
-#### CAPO III - TRATTAMENTO ECONOMICO EVENTUALE
+##### CAPO III - TRATTAMENTO ECONOMICO EVENTUALE
 
-##### SEZIONE I - TRATTAMENTO ECONOMICO DI MISSIONE, DI TRASFERIMENTO E DI MISSIONE ALL'ESTERO
+**SEZIONE I - TRATTAMENTO ECONOMICO DI MISSIONE, DI TRASFERIMENTO E DI MISSIONE ALL'ESTERO**
 
 ###### Art. 1823
 
@@ -29318,7 +29310,7 @@ AGGIORNAMENTO (44)
 
 Il D.Lgs. 29 maggio 2017, n. 94 ha disposto (con l'art. 11, comma 2) che la presente modifica ha effetto a decorrere dal 1° gennaio 2018.
 
-##### SEZIONE II - ULTERIORI ISTITUTI ECONOMICI
+**SEZIONE II - ULTERIORI ISTITUTI ECONOMICI**
 
 ###### Art. 1824
 
@@ -29402,9 +29394,9 @@ AGGIORNAMENTO (63)
 
 Il D.Lgs. 27 dicembre 2019, n. 173, ha disposto (con l'art. 11, comma 3) che "Le disponibilita' del fondo di cui all'articolo 1826-bis del codice dell'ordinamento militare, di cui al decreto legislativo 15 marzo 2010, n. 66, e successive modificazioni, sono incrementate di euro 550.905,00 a decorrere dall'anno 2025".
 
-### TITOLO VI - ASSISTENZA MORALE, BENESSERE E PROTEZIONE SOCIALE
+#### TITOLO VI - ASSISTENZA MORALE, BENESSERE E PROTEZIONE SOCIALE
 
-#### CAPO I - ISTITUTI DI RETRIBUZIONE INDIRETTA
+##### CAPO I - ISTITUTI DI RETRIBUZIONE INDIRETTA
 
 ###### Art. 1827
 
@@ -29418,7 +29410,7 @@ Alloggi di servizio
 
 1\. Al personale militare puo' essere concesso l'alloggio di servizio, gratuito o dietro versamento di un canone di concessione amministrativa, a norma delle disposizioni del libro II, titolo II, capo VII.
 
-#### CAPO II - INTERVENTI E ORGANISMI DI PROTEZIONE SOCIALE
+##### CAPO II - INTERVENTI E ORGANISMI DI PROTEZIONE SOCIALE
 
 ###### Art. 1829
 
@@ -29476,7 +29468,7 @@ Concessione in uso di beni demaniali.
 
 1\. La concessione in uso alle organizzazioni costituite tra il personale dipendente dei locali demaniali, dei mezzi, delle strutture, dei servizi e degli impianti necessari strumentali agli interventi di protezione sociale a favore del personale militare e civile delle Forze armate e' disciplinata dall'articolo 547.
 
-#### CAPO III - MISURE DI SOSTEGNO ALLA FAMIGLIA
+##### CAPO III - MISURE DI SOSTEGNO ALLA FAMIGLIA
 
 ###### Art. 1835
 
@@ -29520,9 +29512,9 @@ Borse di studio
 
 ((1. A decorrere dal 2020, il personale militare conduttore dei cani delle Forze armate riformati, in quanto non piu' idonei al servizio, puo' ottenerne, in via prioritaria, la cessione a titolo gratuito. Il personale militare di cui al primo periodo fruisce dell'assistenza veterinaria ai sensi dell'articolo 533 del regolamento, entro il limite di spesa annuale di euro 1.200,00 per ciascun cane.))
 
-## LIBRO SETTIMO - TRATTAMENTO PREVIDENZIALE E PER LE INVALIDITA' DI SERVIZIO
+### LIBRO SETTIMO - TRATTAMENTO PREVIDENZIALE E PER LE INVALIDITA' DI SERVIZIO
 
-### TITOLO I - DISPOSIZIONI GENERALI
+#### TITOLO I - DISPOSIZIONI GENERALI
 
 ###### Art. 1838
 
@@ -29530,9 +29522,9 @@ Ambito soggettivo di applicazione
 
 1\. Ferma restando la disciplina generale in materia di trattamento previdenziale dei dipendenti pubblici, ivi compreso il testo unico sulle pensioni di guerra, al personale militare, incluso quello appartenente alle Forze di polizia a ordinamento militare, si applicano le disposizioni contenute nel presente libro.
 
-### TITOLO II - TRATTAMENTO PREVIDENZIALE NORMALE
+#### TITOLO II - TRATTAMENTO PREVIDENZIALE NORMALE
 
-#### CAPO I - ACCESSO AI TRATTAMENTI
+##### CAPO I - ACCESSO AI TRATTAMENTI
 
 ###### Art. 1839
 
@@ -29616,9 +29608,9 @@ Indennita' per una volta tanto
 
 > «11. L'indennita' per una volta tanto e' pari a un ottavo della base pensionabile per ogni anno di servizio utile.».
 
-#### CAPO II - VALUTAZIONE DEI SERVIZI
+##### CAPO II - VALUTAZIONE DEI SERVIZI
 
-##### SEZIONE I - SERVIZIO EFFETTIVO
+**SEZIONE I - SERVIZIO EFFETTIVO**
 
 ###### Art. 1846
 
@@ -29712,7 +29704,7 @@ Riunione e ricongiunzione dei servizi
 
 1\. Al personale militare si applicano le norme in materia di riunione e ricongiunzione di servizi, riscatto, totalizzazione dei periodi assicurativi e prosecuzione volontaria previste per i dipendenti dello Stato, in quanto compatibili con le disposizioni del presente capo.
 
-##### SEZIONE II - AUMENTI NEL COMPUTO DEI SERVIZI
+**SEZIONE II - AUMENTI NEL COMPUTO DEI SERVIZI**
 
 ###### Art. 1849
 
@@ -29946,7 +29938,7 @@ Campagne di guerra
 
 > 2\. Il computo della campagna di guerra esclude qualsiasi altro aumento per servizi speciali prestati nel periodo al quale la campagna si riferisce».
 
-##### SEZIONE III - SERVIZI COMPUTABILI A DOMANDA
+**SEZIONE III - SERVIZI COMPUTABILI A DOMANDA**
 
 ###### Art. 1859
 
@@ -29962,7 +29954,7 @@ Studi superiori richiesti agli ufficiali e ai marescialli
 
 1-bis. Le disposizioni di cui all'articolo 32 del ((testo unico di cui al)) decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092, si applicano anche per la valutazione degli studi superiori compiuti dai marescialli.
 
-##### SEZIONE IV - COSTITUZIONE DI POSIZIONE ASSICURATIVA
+**SEZIONE IV - COSTITUZIONE DI POSIZIONE ASSICURATIVA**
 
 ###### Art. 1861
 
@@ -30024,7 +30016,7 @@ Divieto di costituzione di posizione assicurativa
 
 > 3\. Nei casi di annullamento della posizione assicurativa costituita in relazione a servizi statali, l'Istituto nazionale della previdenza sociale restituisce allo Stato l'importo dei contributi versati.».
 
-#### CAPO III - SISTEMA DI CALCOLO DELLA PENSIONE
+##### CAPO III - SISTEMA DI CALCOLO DELLA PENSIONE
 
 ###### Art. 1863
 
@@ -30377,9 +30369,9 @@ Non cumulabilita' delle rate di pensione con assegni di attivita' spettanti dopo
 
 1\. ((Al militare cessato dal servizio permanente ai sensi dell'articolo 929, comma 1, sono corrisposti per un periodo di tre mesi gli interi assegni spettanti al pari grado del servizio permanente.)) Si applica l'articolo 58 del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092, in materia di cumulo delle rate di pensione con gli assegni di attivita' spettanti dopo la cessazione dal servizio.
 
-### TITOLO III - TRATTAMENTI PER LE INVALIDITA' DI SERVIZIO
+#### TITOLO III - TRATTAMENTI PER LE INVALIDITA' DI SERVIZIO
 
-#### CAPO I - RICONOSCIMENTO DELLA CAUSA DI SERVIZIO
+##### CAPO I - RICONOSCIMENTO DELLA CAUSA DI SERVIZIO
 
 ###### Art. 1878
 
@@ -30443,7 +30435,7 @@ Rimborso spese di cura
 
 > «555. Le disposizioni di cui all'articolo 1, commi 219, 220 e 221, della legge 23 dicembre 2005, n. 266, non si applicano, a decorrere dalla data di entrata in vigore della medesima legge, alle spese di cura, comprese quelle per ricoveri in istituti sanitari e per protesi, con esclusione delle cure balneo-termali, idropiniche e inalatorie, sostenute dal personale del Corpo nazionale dei vigili del fuoco, delle Forze armate e di polizia e conseguenti a ferite o lesioni riportate nell'espletamento di servizi di polizia o di soccorso pubblico, ovvero nello svolgimento di attivita' operative o addestrative, riconosciute dipendenti da causa di servizio. Resta ferma la vigente disciplina in materia prevista dai contratti collettivi nazionali o da provvedimenti di recepimento di accordi sindacali».
 
-#### CAPO II - EQUO INDENNIZZO
+##### CAPO II - EQUO INDENNIZZO
 
 ###### Art. 1882
 
@@ -30463,7 +30455,7 @@ Anticipo dell'equo indennizzo
 
 > \- Per la tabella A allegata al decreto del Presidente della Repubblica 23 dicembre 1978, n. 915 (Testo unico delle norme in materia di pensioni di guerra), pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 29 gennaio 1979, n. 28, si vedano le note all'art. 713.
 
-#### CAPO III - TRATTAMENTO PRIVILEGIATO ORDINARIO
+##### CAPO III - TRATTAMENTO PRIVILEGIATO ORDINARIO
 
 ###### Art. 1884
 
@@ -30707,9 +30699,9 @@ Assegni accessori alla pensione privilegiata ordinaria
 
 > \- Per il decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092, si vedano le note all'articolo 1841.
 
-#### CAPO IV - TRATTAMENTI SPECIALI CORRELATI ALLA CAUSA DI SERVIZIO
+##### CAPO IV - TRATTAMENTI SPECIALI CORRELATI ALLA CAUSA DI SERVIZIO
 
-##### SEZIONE I - PROVVIDENZE AI FAMILIARI DI MILITARI VITTIME DEL SERVIZIO
+**SEZIONE I - PROVVIDENZE AI FAMILIARI DI MILITARI VITTIME DEL SERVIZIO**
 
 ###### Art. 1895
 
@@ -30809,7 +30801,7 @@ Speciale trattamento pensionistico di reversibilita'
 
 > 2\. Ai dipendenti indicati nel precedente comma, a loro richiesta o a richiesta degli eredi aventi diritto a pensione di riversibilita', anziche' l'attribuzione degli aumenti periodici di stipendio, previsti dallo stesso precedente comma, va conferita la qualifica o classe di stipendio, paga o retribuzione immediatamente superiore a quella posseduta.».
 
-##### SEZIONE II - INDENNIZZO PRIVILEGIATO AERONAUTICO
+**SEZIONE II - INDENNIZZO PRIVILEGIATO AERONAUTICO**
 
 ###### Art. 1898
 
@@ -30945,7 +30937,7 @@ Termini di decadenza della domanda di indennizzo privilegiato aeronautico
 
 2\. Avverso il provvedimento e' ammesso il ricorso alla Corte dei conti.
 
-##### SEZIONE III - PROVVIDENZE ALLE VITTIME DEL TERRORISMO, DELLA CRIMINALITA' E DEL DOVERE
+**SEZIONE III - PROVVIDENZE ALLE VITTIME DEL TERRORISMO, DELLA CRIMINALITA' E DEL DOVERE**
 
 ###### Art. 1904
 
@@ -30971,7 +30963,7 @@ e) legge 10 ottobre 2005, n. 207.
 
 > \- Per la legge 10 ottobre 2005, n. 207, si veda la nota all'art. 806.
 
-##### SEZIONE IV - PROVVIDENZE AI SOGGETTI ESPOSTI A SPECIFICI FATTORI DI RISCHIO
+**SEZIONE IV - PROVVIDENZE AI SOGGETTI ESPOSTI A SPECIFICI FATTORI DI RISCHIO**
 
 ###### Art. 1905
 
@@ -31017,7 +31009,7 @@ Provvidenze a favore delle vittime di ordigni bellici in tempo di pace
 
 1\. I termini e le modalita' per il riconoscimento della causa di servizio e per la corresponsione di adeguati indennizzi per il personale che a causa dell'esposizione a particolari fattori di rischio ha contratto infermita' o patologie tumorali sono disciplinati dall'articolo 603, che detta altresi' il relativo limite massimo di spesa, e dal regolamento)).
 
-### TITOLO IV - TRATTAMENTO DI FINE SERVIZIO
+#### TITOLO IV - TRATTAMENTO DI FINE SERVIZIO
 
 ###### Art. 1908
 
@@ -31083,7 +31075,7 @@ Ufficiali dirigenti cessati dall'aspettativa per riduzione dei quadri
 
 1\. Agli ufficiali dirigenti che cessano a domanda dalla posizione di aspettativa per riduzione di quadri compete l'indennita' di fine servizio che sarebbe loro spettata qualora fossero rimasti in servizio fino al limite di eta', comprensiva degli aumenti periodici e dei passaggi di classe di stipendio commisurati al trattamento percepito all'atto della cessazione.
 
-### TITOLO V - TRATTAMENTO PREVIDENZIALE INTEGRATIVO
+#### TITOLO V - TRATTAMENTO PREVIDENZIALE INTEGRATIVO
 
 ###### Art. 1913
 
@@ -31305,9 +31297,9 @@ AGGIORNAMENTO (99)
 
 La L. 29 dicembre 2022, n. 197 ha disposto (con l'art. 1, comma 654) che "Le disposizioni di cui ai commi da 651 a 653 si applicano anche a coloro per i quali, alla data di entrata in vigore della presente legge, risulta ancora pendente un giudizio o e' stata emessa sentenza non ancora passata in giudicato".
 
-### TITOLO VI - DECORATI DELL'ORDINE MILITARE D'ITALIA E RICOMPENSE AL VALOR MILITARE
+#### TITOLO VI - DECORATI DELL'ORDINE MILITARE D'ITALIA E RICOMPENSE AL VALOR MILITARE
 
-#### CAPO I - BENEFICI PREVIDENZIALI PER GLI APPARTENENTI ALL'ORDINE MILITARE D'ITALIA
+##### CAPO I - BENEFICI PREVIDENZIALI PER GLI APPARTENENTI ALL'ORDINE MILITARE D'ITALIA
 
 ###### Art. 1921
 
@@ -31371,9 +31363,9 @@ Estensione della pensione straordinaria
 
 > \- Per il decreto del Presidente della Repubblica 23 dicembre 1978, n. 915, si vedano le note all'articolo 1880.
 
-#### CAPO II - RICOMPENSE AL VALOR MILITARE
+##### CAPO II - RICOMPENSE AL VALOR MILITARE
 
-##### SEZIONE I - CONCESSIONE DI RICOMPENSE AL VALOR MILITARE
+**SEZIONE I - CONCESSIONE DI RICOMPENSE AL VALOR MILITARE**
 
 ###### Art. 1925
 
@@ -31405,7 +31397,7 @@ Estensione degli assegni straordinari
 
 > \- Per il decreto del Presidente della Repubblica 23 dicembre 1978, n. 915, si vedano le note all'articolo 1880.
 
-##### SEZIONE II - PERDITA DELLE RICOMPENSE AL VALOR MILITARE
+**SEZIONE II - PERDITA DELLE RICOMPENSE AL VALOR MILITARE**
 
 ###### Art. 1927
 
@@ -31413,11 +31405,11 @@ Reversibilita' dei benefici economici
 
 1\. E' ammessa, a domanda, la reversibilita' del beneficio economico annesso alle medaglie al valor militare perdute, o delle quali e' stata sospesa la facolta' di fregiarsi, a favore delle stesse persone di famiglia per le quali la reversibilita' stessa e' consentita dalle disposizioni vigenti in caso di decesso del decorato, salvo quanto previsto dall'articolo 1422.
 
-## LIBRO OTTAVO - SERVIZIO MILITARE E SERVIZIO DEGLI OBIETTORI DI COSCIENZA IN TEMPO DI GUERRA O DI GRAVE CRISI INTERNAZIONALE
+### LIBRO OTTAVO - SERVIZIO MILITARE E SERVIZIO DEGLI OBIETTORI DI COSCIENZA IN TEMPO DI GUERRA O DI GRAVE CRISI INTERNAZIONALE
 
-### TITOLO I - DISPOSIZIONI GENERALI
+#### TITOLO I - DISPOSIZIONI GENERALI
 
-#### CAPO I - OBBLIGHI DI LEVA, SOSPENSIONE DELLE CHIAMATE, E CASI DI RIPRISTINO
+##### CAPO I - OBBLIGHI DI LEVA, SOSPENSIONE DELLE CHIAMATE, E CASI DI RIPRISTINO
 
 ###### Art. 1928
 
@@ -31457,7 +31449,7 @@ b) se una grave crisi internazionale nella quale l'Italia e' coinvolta direttame
 
 > «Art. 78. - Le Camere deliberano lo stato di guerra e conferiscono al Governo i poteri necessari.».
 
-#### CAPO II - ORGANI COMPETENTI
+##### CAPO II - ORGANI COMPETENTI
 
 ###### Art. 1930
 
@@ -31473,9 +31465,9 @@ b) le residue attivita' amministrative inerenti alla leva militare sospesa.
 
 3\. Per le attivita' di cui al comma 1, lettera b), la Direzione generale di cui al comma 1, tramite il comando militare per il territorio o altro organo di Forza armata indicato dall'ordinamento, esercita le funzioni di coordinamento e di vigilanza relativamente alle attivita' svolte dai comandi militari Esercito italiano, ovvero dagli altri organismi individuati dallo Stato maggiore dell'Esercito italiano. Analoghe funzioni sono esercitate nei confronti degli enti della Marina militare individuati dallo Stato maggiore della Forza armata. All'estero le residue attivita' in materia di leva sono demandate alle autorita' diplomatiche e consolari.
 
-#### CAPO III - ATTIVITA' PER L'EVENTUALE RIPRISTINO DELLA LEVA OBBLIGATORIA E PER LA LEVA OBBLIGATORIA PREGRESSA
+##### CAPO III - ATTIVITA' PER L'EVENTUALE RIPRISTINO DELLA LEVA OBBLIGATORIA E PER LA LEVA OBBLIGATORIA PREGRESSA
 
-##### SEZIONE I - LISTE DI LEVA
+**SEZIONE I - LISTE DI LEVA**
 
 ###### Art. 1931
 
@@ -31621,7 +31613,7 @@ Aggiornamento delle liste di leva
 
 1\. Successivamente alla sottoscrizione della lista di leva, e fino al 31 dicembre dell'anno cui si riferisce la lista, il Sindaco ne cura l'aggiornamento tenendo conto delle modifiche relative alla situazione dei singoli iscritti, e di ogni altra variazione rilevante, e iscrive gli omessi che si presentino spontaneamente, o vengano scoperti o denunciati.
 
-#### CAPO IV - TUTELA AMMINISTRATIVA E GIURISDIZIONALE
+##### CAPO IV - TUTELA AMMINISTRATIVA E GIURISDIZIONALE
 
 ###### Art. 1939
 
@@ -31671,9 +31663,9 @@ Rito innanzi al giudice civile
 
 7\. Contro la stessa e' ammesso ricorso in appello e contro la pronuncia della Corte di appello e' ammesso ricorso per cassazione.
 
-### TITOLO II - DISCIPLINA DELLA LEVA IN CASO DI GUERRA O DI GRAVE CRISI INTERNAZIONALE
+#### TITOLO II - DISCIPLINA DELLA LEVA IN CASO DI GUERRA O DI GRAVE CRISI INTERNAZIONALE
 
-#### CAPO I - AMBITO APPLICATIVO, ORGANI, CONTINGENTE DI LEVA, NORMA GENERALE SUL PROCEDIMENTO
+##### CAPO I - AMBITO APPLICATIVO, ORGANI, CONTINGENTE DI LEVA, NORMA GENERALE SUL PROCEDIMENTO
 
 ###### Art. 1942
 
@@ -31853,7 +31845,7 @@ c) le istanze di partecipazione e di accesso sono accoglibili se compatibili con
 
 > 5\. Si applicano gli articoli 2, comma 7, e 10-bis.».
 
-#### CAPO II - SOGGEZIONE ALLA LEVA: REQUISITI, OBBLIGHI E LIMITAZIONI, TERMINI
+##### CAPO II - SOGGEZIONE ALLA LEVA: REQUISITI, OBBLIGHI E LIMITAZIONI, TERMINI
 
 ###### Art. 1949
 
@@ -32107,7 +32099,7 @@ Il testo del presente articolo e' gia' integrato con le correzioni apportate dal
 
 E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-#### CAPO III - INVIO E AGGIORNAMENTO DELLE LISTE DI LEVA DA PARTE DEI COMUNI
+##### CAPO III - INVIO E AGGIORNAMENTO DELLE LISTE DI LEVA DA PARTE DEI COMUNI
 
 ###### Art. 1962
 
@@ -32119,9 +32111,9 @@ a) fermo quanto disposto dall'articolo 1937, le liste di leva sono inviate agli 
 
 b) gli aggiornamenti di cui all'articolo 1938 sono effettuati sino al momento in cui il Consiglio di leva procede alla verifica della lista di leva del Comune.
 
-#### CAPO IV - CHIAMATA ALLA LEVA E ALLE ARMI NELL'ESERCITO ITALIANO E NELL'AERONAUTICA MILITARE
+##### CAPO IV - CHIAMATA ALLA LEVA E ALLE ARMI NELL'ESERCITO ITALIANO E NELL'AERONAUTICA MILITARE
 
-##### SEZIONE I - PROFILI GENERALI
+**SEZIONE I - PROFILI GENERALI**
 
 ###### Art. 1963
 
@@ -32221,7 +32213,7 @@ r) invita pubblicamente i presenti, alla fine della seduta, a dichiarare se loro
 
 s) fornisce al comandante del competente comando militare, per gli arruolati nell'Esercito italiano, gli elementi che debbono servire alla formazione dei ruoli matricolari e dei contingenti da chiamare alle armi.
 
-##### SEZIONE II - OBBLIGO DI PRESENTAZIONE DEGLI ISCRITTI DI LEVA, ECCEZIONI,DIRITTI DEGLI ISCRITTI DI LEVA
+**SEZIONE II - OBBLIGO DI PRESENTAZIONE DEGLI ISCRITTI DI LEVA, ECCEZIONI,DIRITTI DEGLI ISCRITTI DI LEVA**
 
 ###### Art. 1969
 
@@ -32275,7 +32267,7 @@ Informazione
 
 1\. Se lo stato di guerra o di grave crisi internazionale lo consentono, il Ministero della difesa predispone un opuscolo informativo sul servizio di leva che comprende anche l'elenco dei casi di rinvio, ritardo e dispensa, da inviare ai cittadini italiani e agli apolidi residenti, di sesso maschile, nel trimestre precedente a quello in cui compiono il diciottesimo anno di eta'.
 
-##### SEZIONE III - RIFORME E RIVEDIBILITA'
+**SEZIONE III - RIFORME E RIVEDIBILITA'**
 
 ###### Art. 1975
 
@@ -32365,7 +32357,7 @@ Chiamata a visita di revisione dei riformati
 
 1\. Nel caso di esigenze straordinarie, i riformati possono, con decreto del Presidente della Repubblica, essere chiamati a visita di revisione. Questa si effettua con le stesse norme stabilite per la chiamata a visita delle classi di leva.
 
-##### SEZIONE IV - NORME PER I SOGGETTI ALLA LEVA RESIDENTI ALL'ESTERO
+**SEZIONE IV - NORME PER I SOGGETTI ALLA LEVA RESIDENTI ALL'ESTERO**
 
 ###### Art. 1984
 
@@ -32445,7 +32437,7 @@ b) le spese di viaggio, per una sola volta nel corso della ferma, col mezzo piu'
 
 c) le spese di viaggio per il ritorno all'estero, dopo ultimati gli obblighi di leva.
 
-##### SEZIONE V - DISPENSE
+**SEZIONE V - DISPENSE**
 
 ###### Art. 1990
 
@@ -32581,7 +32573,7 @@ AGGIORNAMENTO (20)
 
 Il D. Lgs. 31 dicembre 2012, n. 248 ha disposto (con l'art. 8, comma 1, lettera a)) che all'art. 1992, comma 4 le parole "Direzione generale della previdenza militare, della leva e del collocamento al lavoro dei volontari congedati", ovunque ricorrono, sono sostituite dalle seguenti: "Direzione generale della previdenza militare e della leva".
 
-##### SEZIONE VI - RITARDI PER MOTIVI DI STUDIO
+**SEZIONE VI - RITARDI PER MOTIVI DI STUDIO**
 
 ###### Art. 1993
 
@@ -32721,7 +32713,7 @@ Il testo del presente articolo e' gia' integrato con le correzioni apportate dal
 
 E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-##### SEZIONE VII - ALTRI RINVII
+**SEZIONE VII - ALTRI RINVII**
 
 ###### Art. 1998
 
@@ -32801,7 +32793,7 @@ Rinvio e dispensa per i volontari in servizio civile in Paesi in via di sviluppo
 
 > 5\. Gli organismi non governativi idonei possono risolvere anticipatamente i contratti di cooperazione e disporre il rimpatrio del volontario o del cooperante interessato, in caso di grave inadempienza degli impegni da questo assunti, previa comunicazione delle motivazioni alla direzione generale per la cooperazione allo sviluppo e autorizzazione di questa ultima.».
 
-##### SEZIONE VIII - NORME COMUNI A DISPENSE, RITARDI E RINVII
+**SEZIONE VIII - NORME COMUNI A DISPENSE, RITARDI E RINVII**
 
 ###### Art. 2003
 
@@ -33037,7 +33029,7 @@ Sospensione dei titoli di dispensa, ritardo rinvio - Titoli di dispensa, ritardo
 
 2\. Con decreto del Ministro della difesa di natura non regolamentare possono essere previste esenzioni o ritardi in relazione alla chiamata alle armi conseguente a mobilitazione per guerra o grave crisi internazionale, diversi o ulteriori rispetto a quelli previsti dal presente codice, in favore di coloro che ricoprano determinati impieghi o esercitino determinati mestieri o attivita' o si trovino in speciali condizioni.
 
-##### SEZIONE IX - ARRUOLAMENTO, RUOLI, E CHIAMATA ALLE ARMI
+**SEZIONE IX - ARRUOLAMENTO, RUOLI, E CHIAMATA ALLE ARMI**
 
 ###### Art. 2007
 
@@ -33113,9 +33105,9 @@ Manuale informativo
 
 1\. Il Ministero della difesa provvede alla pubblicazione di un manuale informativo da consegnare ai militari di leva all'atto dell'incorporazione, che contiene la Costituzione, la legge recante norme sui principi della disciplina militare, i regolamenti sulla rappresentanza militare e di disciplina militare nonche' le principali disposizioni che regolano la vita del militare, comprese quelle relative ai servizi e alle licenze.
 
-#### CAPO V - CHIAMATA ALLA LEVA E ALLE ARMI NEL CORPO DEGLI EQUIPAGGI MILITARI MARITTIMI
+##### CAPO V - CHIAMATA ALLA LEVA E ALLE ARMI NEL CORPO DEGLI EQUIPAGGI MILITARI MARITTIMI
 
-##### SEZIONE I - PROCEDIMENTO ORDINARIO
+**SEZIONE I - PROCEDIMENTO ORDINARIO**
 
 ###### Art. 2014
 
@@ -33265,7 +33257,7 @@ Chiamata alle armi degli arruolati nel Corpo degli equipaggi militari marittimi
 
 3\. Gli arruolati, alla data fissata, vengono presi in forza dai centri addestramento reclute della Marina militare.
 
-##### SEZIONE II - ARRUOLAMENTO ECCEZIONALE ALL'ESTERO NELLA MARINA MILITARE
+**SEZIONE II - ARRUOLAMENTO ECCEZIONALE ALL'ESTERO NELLA MARINA MILITARE**
 
 ###### Art. 2023
 
@@ -33297,9 +33289,9 @@ Congedo dei marinai arruolati eccezionalmente. Indennita' e rimborsi
 
 3\. Le maggiori spese eventualmente incontrate dagli armatori per la sostituzione sulle loro navi del personale arruolato a norma dell'articolo 2023 sono a carico dell'Amministrazione militare.
 
-#### CAPO VI - FERMA DI LEVA
+##### CAPO VI - FERMA DI LEVA
 
-##### SEZIONE I - DISPOSIZIONI GENERALI
+**SEZIONE I - DISPOSIZIONI GENERALI**
 
 ###### Art. 2025
 
@@ -33349,7 +33341,7 @@ Luogo di prestazione della ferma di leva
 
 Per i militari che siano destinati a prestare servizio di leva presso unita' o reparti aventi sede oltre i 100 chilometri dalla localita' di residenza, o all'estero, sono previste, con decreto del Ministro della difesa, agevolazioni di carattere non economico volte a favorirne il rientro periodico alla localita' di residenza, compatibilmente con le esigenze di servizio. Tali agevolazioni sono proporzionali alla distanza tra la sede di servizio e il comune di residenza.
 
-##### SEZIONE II - COMPITI DEI MILITARI IN FERMA DI LEVA
+**SEZIONE II - COMPITI DEI MILITARI IN FERMA DI LEVA**
 
 ###### Art. 2030
 
@@ -33417,7 +33409,7 @@ Impiego dei militari di leva
 
 > L'indennita', comprese le eventuali integrazioni di cui ai precedenti commi quarto e quinto, e' corrisposta anche quando gli invalidi siano ammessi in ospedali o in altri luoghi di cura. Quando gli invalidi di cui al presente articolo siano ammessi in istituti rieducativi o assistenziali, l'importo corrisposto a titolo di indennita', comprese le integrazioni eventualmente spettanti in luogo del secondo e del terzo accompagnatore, e' devoluto, per quattro quinti, all'istituto ovvero agli enti pubblici o assistenziali giuridicamente riconosciuti a carico dei quali il ricovero e' avvenuto e, per il rimanente quinto, all'invalido. Ai fini dell'applicazione della norma di cui al precedente comma, gli enti interessati provvederanno a dare comunicazione dell'eventuale ricovero alla direzione provinciale del tesoro che ha in carico la partita di pensione dell'invalido ricoverato.».
 
-##### SEZIONE III - FORMAZIONE DEI MILITARI DI LEVA
+**SEZIONE III - FORMAZIONE DEI MILITARI DI LEVA**
 
 ###### Art. 2033
 
@@ -33453,7 +33445,7 @@ Formazione sportiva
 
 2\. I programmi di istruzione devono comprendere appositi periodi destinati alla anzidetta attivita'.
 
-##### SEZIONE IV - DISCIPLINA MILITARE
+**SEZIONE IV - DISCIPLINA MILITARE**
 
 ###### Art. 2036
 
@@ -33461,7 +33453,7 @@ Disciplina militare - Rinvio
 
 1\. I militari in servizio di leva sono tenuti all'osservanza delle norme di disciplina militare, e sono sottoposti alle relative sanzioni disciplinari, secondo le disposizioni dettate nel titolo VIII del libro IV, e nelle pertinenti norme regolamentari.
 
-##### SEZIONE V - CARRIERA MILITARE
+**SEZIONE V - CARRIERA MILITARE**
 
 ###### Art. 2037
 
@@ -33497,7 +33489,7 @@ Ferma di leva prolungata su base volontaria
 
 12\. Il militare in ferma prolungata, riconosciuto tossicodipendente che dichiari la sua disponibilita' a sottoporsi a trattamenti di recupero socio-sanitario, viene posto in licenza di convalescenza straordinaria e successivamente, se del caso, in aspettativa per il periodo massimo previsto dalla normativa in vigore. Al termine del trattamento viene sottoposto a controlli sanitari intesi a stabilire la sua idoneita' al servizio militare.
 
-##### SEZIONE VI - DISCIPLINA DEI DIRITTI DURANTE LA LEVA E DEI DIRITTI INERENTI LA LEVA
+**SEZIONE VI - DISCIPLINA DEI DIRITTI DURANTE LA LEVA E DEI DIRITTI INERENTI LA LEVA**
 
 ###### Art. 2039
 
@@ -33599,7 +33591,7 @@ b) una unita' in rappresentanza degli ufficiali di complemento in servizio di pr
 
 3\. Se i problemi trattati dal Consiglio centrale della rappresentanza militare riguardano il servizio di leva, detto Consiglio deve sentire in merito i militari di leva che vengono eletti negli organi intermedi o loro delegazioni.
 
-##### SEZIONE VII - FORMAZIONE E AGEVOLAZIONI STRUMENTALI AL PASSAGGIO DALLA VITA MILITARE ALLA VITA CIVILE
+**SEZIONE VII - FORMAZIONE E AGEVOLAZIONI STRUMENTALI AL PASSAGGIO DALLA VITA MILITARE ALLA VITA CIVILE**
 
 ###### Art. 2045
 
@@ -33633,7 +33625,7 @@ Segnalazioni curriculari alle pubbliche amministrazioni
 
 1\. Al fine di agevolare l'inserimento dei giovani alle armi nelle attivita' produttive della Nazione, tre mesi prima del termine del servizio militare obbligatorio e della ferma di leva prolungata, il Ministro della difesa, in relazione al personale di leva delle Forze armate, comunica gli elenchi nominativi degli specialisti ed aiuto specialisti in procinto di essere congedati al Ministro del lavoro e delle politiche sociali e ai presidenti delle giunte regionali delle regioni ove risiedono gli interessati.
 
-##### SEZIONE VIII - DIRITTI INERENTI AL LAVORO CIVILE
+**SEZIONE VIII - DIRITTI INERENTI AL LAVORO CIVILE**
 
 ###### Art. 2048
 
@@ -33695,7 +33687,7 @@ Riconoscimento del servizio militare per l'inquadramento economico e il trattame
 
 > «Art. 1 (Servizi militari). - 1. Ai fini del trattamento di quiescenza a favore degli iscritti alle Casse pensioni degli istituti di previdenza presso il Ministero del tesoro, i periodi di servizio militare di leva e quelli considerati sostitutivi ed equiparati ai sensi delle disposizioni vigenti sono computati, a domanda, ai sensi dell'articolo 20 della L. 24 dicembre 1986, n. 958, con effetto dalla data di entrata in vigore della citata legge n. 958 del 1986, con onere a carico delle predette Casse pensioni. A tali fini viene considerato equiparato al servizio militare di leva il corrispondente periodo di servizio di volontariato prestato non in costanza di rapporto d'impiego nei Paesi in via di sviluppo ai sensi della L. 15 dicembre 1971, n. 1222 , e successive modificazioni.».
 
-##### SEZIONE IX - FERMA DI LEVA MEDIANTE SERVIZIO AUSILIARIO
+**SEZIONE IX - FERMA DI LEVA MEDIANTE SERVIZIO AUSILIARIO**
 
 ###### Art. 2053
 
@@ -33721,9 +33713,9 @@ Detto manifesto indica anche la consistenza numerica del contingente ausiliario 
 
 8\. I militari in servizio ausiliario sono collocati in congedo illimitato al termine del periodo di servizio e nei loro riguardi si applicano, per il richiamo in servizio, le norme dettate dall'ordinamento di ciascun Corpo, per il richiamo in servizio dei militari di leva, ovvero, in caso di Corpi non militari, le norme dettate per il richiamo in servizio dei militari di leva dell'Esercito italiano, della Marina militare e dell'Aeronautica militare.
 
-#### CAPO VII - CONGEDI
+##### CAPO VII - CONGEDI
 
-##### SEZIONE I - CONGEDO ILLIMITATO
+**SEZIONE I - CONGEDO ILLIMITATO**
 
 ###### Art. 2054
 
@@ -33869,7 +33861,7 @@ Chiamata di controllo della forza in congedo
 
 3\. Se la chiamata di cui al comma 1 comporta la presentazione in una localita' diversa da quella di residenza, il militare ha diritto al viaggio gratuito, su esibizione del precetto personale.
 
-##### SEZIONE II - ANTICIPAZIONE DEL CONGEDO ILLIMITATO E RIDUZIONI DEL SERVIZIO DI LEVA
+**SEZIONE II - ANTICIPAZIONE DEL CONGEDO ILLIMITATO E RIDUZIONI DEL SERVIZIO DI LEVA**
 
 ###### Art. 2066
 
@@ -33899,7 +33891,7 @@ Riduzione di servizio ai militari gia' allievi delle accademie militari
 
 1\. E' in facolta' del Ministro per la difesa di accordare una riduzione del servizio alle armi ai militari con obblighi di leva gia' allievi delle Accademie militari.
 
-##### SEZIONE III - CONGEDO ASSOLUTO
+**SEZIONE III - CONGEDO ASSOLUTO**
 
 ###### Art. 2070
 
@@ -33913,9 +33905,9 @@ Sospensione dell'invio in congedo assoluto in caso di prolungamento della leva a
 
 1\. In caso di prolungamento della ferma di leva in tempo di guerra o di grave crisi internazionale ai sensi dell'articolo 2026, l'invio in congedo assoluto e' sospeso.
 
-#### CAPO VIII - SANZIONI
+##### CAPO VIII - SANZIONI
 
-##### SEZIONE I - DISPOSIZIONI COMUNI
+**SEZIONE I - DISPOSIZIONI COMUNI**
 
 ###### Art. 2072
 
@@ -33937,7 +33929,7 @@ c) i militari che, ai sensi del codice penale militare, siano incorsi nel reato 
 
 d) coloro che siano stati condannati per il delitto di sottrazione alla leva, a meno che il titolo non sia sorto dopo il loro arruolamento.
 
-##### SEZIONE II - REATI RELATIVI ALLA CHIAMATA ALLA LEVA
+**SEZIONE II - REATI RELATIVI ALLA CHIAMATA ALLA LEVA**
 
 ###### Art. 2074
 
@@ -34173,7 +34165,7 @@ Giurisdizione del giudice ordinario
 
 1\. I reati di cui alla presente sezione rientrano nella giurisdizione del giudice penale ordinario.
 
-##### SEZIONE III - REATI COMMESSI DA MILITARI DI LEVA O DA MILITARI IN CONGEDO
+**SEZIONE III - REATI COMMESSI DA MILITARI DI LEVA O DA MILITARI IN CONGEDO**
 
 ###### Art. 2089
 
@@ -34211,7 +34203,7 @@ Giurisdizione del giudice militare
 
 1\. I reati di cui alla presente sezione rientrano nella giurisdizione dell'autorita' giudiziaria militare.
 
-##### SEZIONE IV - SANZIONI AMMINISTRATIVE
+**SEZIONE IV - SANZIONI AMMINISTRATIVE**
 
 ###### Art. 2094
 
@@ -34239,9 +34231,9 @@ Norme applicabili
 
 > \- La legge 24 novembre 1981, n. 689 (Modifiche al sistema penale), e' pubblicata nel supplemento ordinario alla Gazzetta Ufficiale del 30 novembre 1981, n. 329.
 
-### TITOLO III - SERVIZIO DEGLI OBIETTORI DI COSCIENZA E DEGLI AMMESSI A PROGRAMMA DI RECUPERO PER TOSSICODIPENDENTI IN TEMPO DI GUERRA O DI GRAVE CRISI INTERNAZIONALE
+#### TITOLO III - SERVIZIO DEGLI OBIETTORI DI COSCIENZA E DEGLI AMMESSI A PROGRAMMA DI RECUPERO PER TOSSICODIPENDENTI IN TEMPO DI GUERRA O DI GRAVE CRISI INTERNAZIONALE
 
-#### CAPO I - SERVIZIO DEGLI OBIETTORI DI COSCIENZA
+##### CAPO I - SERVIZIO DEGLI OBIETTORI DI COSCIENZA
 
 ###### Art. 2097
 
@@ -34701,7 +34693,7 @@ Relazione al Parlamento
 
 1\. Il Presidente del Consiglio dei Ministri presenta ogni anno al Parlamento, entro il 30 giugno, una relazione sull'organizzazione, sulla gestione e sullo svolgimento del servizio civile degli obiettori di coscienza in tempo di guerra o di grave crisi internazionale.
 
-#### CAPO II - SERVIZIO CIVILE PER TOSSICODIPENDENTI AMMESSI A PROGRAMMI DI RECUPERO E SERVIZIO CIVILE PRESSO ASSOCIAZIONI ED ENTI DI ASSISTENZA SOCIO-SANITARIA
+##### CAPO II - SERVIZIO CIVILE PER TOSSICODIPENDENTI AMMESSI A PROGRAMMI DI RECUPERO E SERVIZIO CIVILE PRESSO ASSOCIAZIONI ED ENTI DI ASSISTENZA SOCIO-SANITARIA
 
 ###### Art. 2113
 
@@ -34723,11 +34715,11 @@ Servizio sostitutivo civile presso associazioni ed enti di assistenza socio-sani
 
 1\. Gli obiettori di coscienza possono chiedere di prestare servizio sostitutivo civile presso centri civili autorizzati e convenzionati con l'Amministrazione della difesa che provvedono all'assistenza socio - sanitaria ed alla riabilitazione dei soggetti che fanno uso di sostanze stupefacenti o psicotrope. L'istanza e' accolta compatibilmente con le esigenze del contingente.
 
-## LIBRO NONO - DISPOSIZIONI DI COORDINAMENTO, TRANSITORIE E FINALI
+### LIBRO NONO - DISPOSIZIONI DI COORDINAMENTO, TRANSITORIE E FINALI
 
-### TITOLO I - DISPOSIZIONI DI COORDINAMENTO
+#### TITOLO I - DISPOSIZIONI DI COORDINAMENTO
 
-#### CAPO I - DISPOSIZIONI GENERALI
+##### CAPO I - DISPOSIZIONI GENERALI
 
 ###### Art. 2115
 
@@ -34741,9 +34733,9 @@ Clausola di salvaguardia in materia di competenze
 
 1\. Le disposizioni del presente codice e del regolamento non innovano le competenze, le funzioni e le attribuzioni dell'Amministrazione della difesa, delle Forze armate, delle Forze di polizia e delle altre Amministrazioni comunque interessate, previste dalla normativa vigente alla data della loro entrata in vigore.
 
-#### CAPO II - DISPOSIZIONI PARTICOLARI
+##### CAPO II - DISPOSIZIONI PARTICOLARI
 
-##### SEZIONE I - ORGANIZZAZIONE E FUNZIONI
+**SEZIONE I - ORGANIZZAZIONE E FUNZIONI**
 
 ###### Art. 2117
 
@@ -35049,7 +35041,7 @@ nazionale sangue, le regioni e le province autonome di Trento e di Bolzano, nell
 
 ((1. Gli atti di nomina agli incarichi comunque denominati, di comandante territoriale, logistico, ovvero della formazione dell'Esercito italiano, della Marina e dell'Aeronautica militare, ove non altrimenti previsto dal codice, sono adottati nella forma del decreto del Ministro della difesa.))
 
-##### SEZIONE II - BENI E AMMINISTRAZIONE
+**SEZIONE II - BENI E AMMINISTRAZIONE**
 
 ###### Art. 2127
 
@@ -35371,7 +35363,7 @@ Tempestivita' dei pagamenti per forniture di materiali destinati al Corpo della 
 
 1\. Al fine di garantire, attraverso la semplificazione dei correlati adempimenti amministrativi, la tempestivita' dei pagamenti per le forniture di materiali destinati al Corpo della guardia di finanza e relativi ad attivita' operative o addestrative svolte in territorio nazionale o all'estero, il Comando generale della guardia di finanza e' autorizzato a corrispondere pagamenti in conto nella misura massima del novanta per cento del valore delle forniture collaudate e accettate, per le quali il consegnatario abbia rilasciato apposita dichiarazione di ricevimento.
 
-##### SEZIONE III - ORDINAMENTO DEL PERSONALE
+**SEZIONE III - ORDINAMENTO DEL PERSONALE**
 
 ###### Art. 2135
 
@@ -36097,7 +36089,7 @@ Applicazione dell'articolo 17 della legge 28 luglio 1999, n. 266, nel caso di co
 
 personale che elegge domicilio nel territorio nazionale a seguito di collocamento in aspettativa per riduzione dei quadri, di cui ((agli articoli 909 e 2145)) del codice dell'ordinamento militare. Il diritto del coniuge puo' essere esercitato una sola volta, anche in caso di successivi richiami in servizio previsti dalle disposizioni vigenti, e non puo' piu' essere esercitato all'atto del definitivo collocamento in congedo&gt;&gt;.
 
-##### SEZIONE IV - TRATTAMENTO ECONOMICO, ASSISTENZA E BENESSERE
+**SEZIONE IV - TRATTAMENTO ECONOMICO, ASSISTENZA E BENESSERE**
 
 ###### Art. 2153
 
@@ -36351,7 +36343,7 @@ Borse di studio per le Forze di polizia a ordinamento militare
 
 > \- Per il testo dell'art. 4, comma 1, della legge 23 novembre 1998, n. 407, si veda la nota all'art. 1837.
 
-##### SEZIONE V - TRATTAMENTO PREVIDENZIALE E PER LE INVALIDITA' DI SERVIZIO
+**SEZIONE V - TRATTAMENTO PREVIDENZIALE E PER LE INVALIDITA' DI SERVIZIO**
 
 ###### Art. 2177
 
@@ -36473,9 +36465,9 @@ e) ai cittadini italiani residenti nelle zone adiacenti alle basi militari sul t
 
 2\. I termini e le modalita' per il riconoscimento della causa di servizio e per la corresponsione di adeguati indennizzi in favore dei soggetti indicati nel comma 1, entro il limite massimo di spesa stabilito nell'articolo 603, sono disciplinati dal regolamento.
 
-### TITOLO II - DISPOSIZIONI TRANSITORIE
+#### TITOLO II - DISPOSIZIONI TRANSITORIE
 
-#### CAPO I - DISPOSIZIONI GENERALI
+##### CAPO I - DISPOSIZIONI GENERALI
 
 ###### Art. 2186
 
@@ -36511,9 +36503,9 @@ Procedimenti in corso
 
 1\. I procedimenti in corso alla data di entrata in vigore del presente codice e del regolamento rimangono disciplinati dalla previgente normativa.
 
-#### CAPO II - DISPOSIZIONI PARTICOLARI
+##### CAPO II - DISPOSIZIONI PARTICOLARI
 
-##### SEZIONE I - ORGANIZZAZIONE E FUNZIONI
+**SEZIONE I - ORGANIZZAZIONE E FUNZIONI**
 
 ###### Art. 2188
 
@@ -36895,7 +36887,7 @@ Determinazione della dotazione organica dell'ufficio di segreteria del Consiglio
 
 1\. Con decreto del Presidente della Repubblica e' rideterminata la dotazione organica dell'ufficio di segreteria del Consiglio della magistratura militare, in riduzione rispetto a quella vigente.
 
-##### SEZIONE II - BENI
+**SEZIONE II - BENI**
 
 ###### Art. 2193
 
@@ -36913,7 +36905,7 @@ Disciplina transitoria in materia di acquisti a seguito di confisca
 
 > \- La legge 3 agosto 2009, n. 108 (Proroga della partecipazione italiana a missioni internazionali), e' pubblicata nella Gazzetta Ufficiale del 6 agosto 2009, n. 181.
 
-##### SEZIONE III - AMMINISTRAZIONE E CONTABILITA'
+**SEZIONE III - AMMINISTRAZIONE E CONTABILITA'**
 
 ###### Art. 2195
 
@@ -36947,9 +36939,9 @@ Disciplina transitoria in materia di acquisti a seguito di confisca
 
 3\. All'attuazione delle disposizioni del presente articolo l'amministrazione provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente, senza nuovi o maggiori oneri a carico della finanza pubblica.))
 
-##### SEZIONE IV - PERSONALE MILITARE
+**SEZIONE IV - PERSONALE MILITARE**
 
-###### Parte I - Reclutamento
+## Parte I - Reclutamento
 
 ###### Art. 2196
 
@@ -37625,7 +37617,7 @@ e) articolo 6, comma 4, della legge 31 marzo 2000, n. 78.
 
 ((ARTICOLO ABROGATO DAL D.LGS. 27 DICEMBRE 2019, N. 173))
 
-###### Parte II - Formazione
+## Parte II - Formazione
 
 ###### Art. 2206
 
@@ -37685,7 +37677,7 @@ Il D.Lgs. 3 aprile 2026, n. 74, ha disposto (con l'art. 20, comma 2, lettera d))
 
 d) articoli 14, 15, 16, 17 e 18".
 
-###### Parte III - Ruoli e organici
+## Parte III - Ruoli e organici
 
 ###### Art. 2207
 
@@ -38593,7 +38585,7 @@ b) nei gradi di ammiraglio ispettore ed ammiraglio ispettore capo, si applica qu
 
 ((ARTICOLO ABROGATO DAL D.LGS. 28 GENNAIO 2014, N. 8))
 
-###### Parte IV - Stato giuridico
+## Parte IV - Stato giuridico
 
 ###### Art. 2223 - Regime transitorio per il collocamento in aspettativa per riduzione di quadri
 
@@ -38759,7 +38751,7 @@ Risoluzione del rapporto d'impiego
 
 ((1. L'articolo 930, comma 1-sexies, si applica agli ufficiali con i gradi di maggiore e di tenente colonnello e gradi corrispondenti delle Forze armate e delle Forze di polizia a ordinamento militare a decorrere dal 1° gennaio 2018.))
 
-###### Parte V - Documentazione personale
+## Parte V - Documentazione personale
 
 ###### Art. 2232
 
@@ -38767,7 +38759,7 @@ Indicazione di malattia o cause inabilitanti nel congedo militare
 
 1\. I fogli di congedo, le copie di fogli matricolari e di stato di servizio e ogni altro documento rilasciati dall'amministrazione militare in data anteriore al 1978, sono sostituiti, a richiesta dell'interessato, da corrispondenti documenti redatti secondo quanto previsto dall'articolo 1024.
 
-###### Parte VI - Avanzamento
+## Parte VI - Avanzamento
 
 ###### Art. 2232-bis
 
@@ -40549,7 +40541,7 @@ Condizioni particolari per l'avanzamento nella Marina militare
 
 > 15\. Gli esclusi a qualsiasi titolo dalle aliquote determinate secondo i criteri di cui alla legge 10 maggio 1983, n. 212, o di cui a leggi previgenti, ivi comprese le aliquote straordinarie di cui al comma 2, o sospesi dalla valutazione o cancellati dai quadri di avanzamento, al venir meno delle cause impeditive, sono valutati con i medesimi criteri fissati dalle predette leggi e, nell'avanzamento, prendono posto, se idonei nella graduatoria di merito dei pari grado con i quali sarebbero stati valutati in assenza delle cause impeditive. Gli stessi sono promossi secondo le modalita' indicate dalla citata legge n. 212 del 1983 e successivamente inquadrati ai sensi del presente articolo.».
 
-###### Parte VII - ((Disciplina militare ed esercizio dei diritti))
+## Parte VII - ((Disciplina militare ed esercizio dei diritti))
 
 ###### Art. 2257
 
@@ -40671,7 +40663,7 @@ Ordine militare di Savoia
 
 2\. I decorati dell'Ordine Militare di Savoia, sono trasferiti nell'Ordine Militare d'Italia, si fregiano dei distintivi di questo e mantengono le loro decorazioni, assegnazioni e anzianita' di classe e i diritti che ne derivano.
 
-##### SEZIONE V - PERSONALE AUSILIARIO DELLE FORZE ARMATE
+**SEZIONE V - PERSONALE AUSILIARIO DELLE FORZE ARMATE**
 
 ###### Art. 2259
 
@@ -40693,7 +40685,7 @@ Dalla data di immissione nel predetto ruolo essi cessano di appartenere alla cat
 
 3-quinquies. A decorrere dal 22 maggio 2021 ai cappellani militari non sono attribuite le maggiorazioni delle indennita' di impiego operativo di cui alla legge 23 marzo 1983, n. 78, a esclusione di quelle di cui all'articolo 4, e delle indennita' per servizio d'istituto di cui alla legge 23 dicembre 1970, n. 1054, e successive modificazioni. Ai cappellani militari in servizio alla data del 21 maggio 2021, che percepiscono l'indennita' di impiego operativo ovvero l'indennita' per servizio di istituto superiore, di importo superiore all'indennita' di cui all'articolo 2 della legge 23 marzo 1983, n. 78, la differenza e' attribuita sotto forma di assegno ad personam riassorbibile con i futuri incrementi dell'indennita' di impiego operativo di base.))
 
-##### ((SEZIONE V-BIS - PERSONALE CIVILE))
+**((SEZIONE V-BIS - PERSONALE CIVILE))**
 
 ###### Art. 2259-bis - Assunzioni di personale negli arsenali e stabilimenti militari
 
@@ -40777,7 +40769,7 @@ c) moduli formativi destinati al personale militare di grado corrispondente alle
 
 2\. Per il personale di cui al comma 1, le domande di transito nelle qualifiche funzionali del personale civile del Ministero della difesa sono presentate, a pena di decadenza, entro il 31 dicembre 2017 all'amministrazione di appartenenza.))
 
-##### SEZIONE VI - TRATTAMENTO ECONOMICO, ASSISTENZA E BENESSERE
+**SEZIONE VI - TRATTAMENTO ECONOMICO, ASSISTENZA E BENESSERE**
 
 ###### Art. 2260
 
@@ -40933,7 +40925,7 @@ AGGIORNAMENTO (99)
 
 La L. 29 dicembre 2022, n. 197 ha disposto (con l'art. 1, comma 654) che "Le disposizioni di cui ai commi da 651 a 653 si applicano anche a coloro per i quali, alla data di entrata in vigore della presente legge, risulta ancora pendente un giudizio o e' stata emessa sentenza non ancora passata in giudicato".
 
-##### SEZIONE VII - TRATTAMENTO PREVIDENZIALE E PER LE INVALIDITA' DI SERVIZIO
+**SEZIONE VII - TRATTAMENTO PREVIDENZIALE E PER LE INVALIDITA' DI SERVIZIO**
 
 ###### Art. 2263
 
@@ -40959,7 +40951,7 @@ Norma di interpretazione autentica in materia di assicurazione obbligatoria cont
 
 ((1. Gli articoli 1861 e 1862 trovano applicazione per le posizioni assicurative costituite per il servizio prestato fino al 30 luglio 2010, agli effetti dell'articolo 12, comma 12-undecies, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122.))
 
-##### SEZIONE VIII - SERVIZIO MILITARE E SERVIZIO DEGLI OBIETTORI DI COSCIENZA IN TEMPO DI GUERRA O DI GRAVE CRISI INTERNAZIONALE
+**SEZIONE VIII - SERVIZIO MILITARE E SERVIZIO DEGLI OBIETTORI DI COSCIENZA IN TEMPO DI GUERRA O DI GRAVE CRISI INTERNAZIONALE**
 
 ###### Art. 2265
 
@@ -40983,7 +40975,7 @@ d) definiscono i procedimenti pendenti connessi con la cittadinanza;
 
 e) provvedono alla compilazione e alla consegna dei fogli di congedo per fine ferma e dei fogli matricolari agli arruolati con visita e senza visita, nonche' ai dispensati a seguito dell'accoglimento di ricorso giurisdizionale o amministrativo.
 
-### TITOLO III - DISPOSIZIONI FINALI
+#### TITOLO III - DISPOSIZIONI FINALI
 
 ###### Art. 2267
 
@@ -44127,7 +44119,7 @@ Calderoli, Ministro per la semplificazione normativa
 
 Visto, il Guardasigilli: Alfano
 
-### TITOLO III - DISPOSIZIONI FINALI
+#### TITOLO III - DISPOSIZIONI FINALI
 
 ###### Esercito
 

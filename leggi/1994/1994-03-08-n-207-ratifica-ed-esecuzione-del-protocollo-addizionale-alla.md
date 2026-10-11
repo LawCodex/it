@@ -57,7 +57,9 @@ Protocole
 
 Parte di provvedimento in formato grafico
 
-## PARTE I - PARTE II
+## PARTE I
+
+## PARTE II
 
 TRADUZIONE NON UFFICIALE
 

@@ -26,11 +26,9 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - Assicurazione di crediti relativi all'esportazione di merci e servizi
+## TITOLO I - Assicurazione di crediti relativi all'esportazione di merci e servizi nonche' ai prodotti nazionali costituiti in deposito all'estero ed all'esecuzione di lavori all'estero.
 
-### nonche' ai prodotti nazionali costituiti in deposito all'estero ed - all'esecuzione di lavori all'estero.
-
-#### Art. 1
+### Art. 1
 
 L'Istituto nazionale delle assicurazioni e' autorizzato ad assumere ed a gestire per conto dello Stato in assicurazione o in riassicurazione, da imprese di assicurazione autorizzate a norma del decreto del Presidente della Repubblica 13 febbraio 1959, n. 449:
 
@@ -52,7 +50,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 2
+### Art. 2
 
 L'Istituto nazionale delle assicurazioni e' autorizzato ad assumere, in assicurazione o in riassicurazione, come previsto dall'articolo 1:
 
@@ -72,7 +70,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 3
+### Art. 3
 
 La garanzia assicurativa, nel caso di lavori all'estero, puo' essere concessa all'impresa italiana anche se il contratto per l'esecuzione dei lavori all'estero sia stato stipulato da imprese aventi sede nel Paese in cui si eseguono i lavori nelle quali, qualunque sia la loro forma giuridica, vi sia partecipazione diretta o indiretta di capitale dell'impresa italiana. In tal caso, la copertura assicurativa sara' commisurata all'entita' della partecipazione italiana alle imprese aventi sede all'estero, salvo che si accerti una maggiore effettiva partecipazione dell'impresa italiana all'esecuzione dei lavori, degli studi e delle progettazioni. ((1))
 
@@ -82,7 +80,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 4
+### Art. 4
 
 L'Istituto nazionale delle assicurazioni e' autorizzato ad assumere, in riassicurazione, come previsto dall'articolo 1, la garanzia dei crediti, a breve termine, per capitale e interessi, che le imprese italiane concedono per esportazioni di merci e servizi, per l'esecuzione di lavori all'estero, di studi e di progettazioni, nonche' dei crediti derivanti dalla vendita di prodotti nazionali costituiti in deposito all'estero, relativamente ai rischi di insolvenza dei debitori esteri indicati all'articolo 7. ((1))
 
@@ -92,7 +90,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 5
+### Art. 5
 
 Le assicurazioni e le riassicurazioni che 1° Istituto nazionale delle assicurazioni e' autorizzato ad assumere a norma dell'articolo 1, lettere a), b), c), e) e f), e dell'articolo 2, lettere a), b), c) e d) sono quelle relative ai rischi cui e' esposto l'operatore italiano in dipendenza di:
 
@@ -126,7 +124,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 6
+### Art. 6
 
 Nel caso che si verifichi uno degli eventi di cui ai numeri 1), 2), 3), 5) e 6) dell'articolo 5 possono essere concordate tra l'Istituto nazionale delle assicurazioni e l'assicurato la risoluzione del contratto, l'interruzione o la prosecuzione della fornitura o dei lavori, degli studi e delle progettazioni, previa determinazione della misura dell'indennizzo da pagare all'assicurato. ((1))
 
@@ -136,7 +134,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 7
+### Art. 7
 
 Le assicurazioni e le riassicurazioni che l'Istituto nazionale delle assicurazioni e' autorizzato ad assumere a norma della lettera d) dell'articolo 1, della lettera e) dell'articolo 2 e dell'articolo 4 sono quelle relative ai rischi di insolvenza dei debitori esteri, risultante:
 
@@ -168,7 +166,7 @@ La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi 
 
 ## TITOLO II - Crediti finanziari - Assistenza ai Paesi in via di sviluppo
 
-#### Art. 8
+### Art. 8
 
 L'Istituto nazionale delle assicurazioni e' autorizzato ad assumere in assicurazione o in riassicurazione, come previsto dall'articolo 1, la garanzia dei crediti di carattere finanziario, per capitale e interessi, che gli Istituti od Aziende di credito di cui all'articolo 19 della legge 25 luglio 1952, n. 949, concedono a Stati, a banche centrali estere, ad enti o imprese pubblici o privati di Paesi esteri, relativamente ai rischi contemplati ai numeri 1), 2), 3), 5) e 6) dell'articolo 5 ed all'articolo 7, sempreche' detti crediti siano destinati ad uno dei seguenti scopi:
 
@@ -184,7 +182,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 9
+### Art. 9
 
 Nei casi in cui i crediti previsti all'articolo 8 vengano concessi sotto forma di assunzione a fermo di titoli obbligazionari, emessi dallo Stato, ente o impresa estera beneficiaria del credito, l'assicurazione contratta dagli Istituti finanziari garantisce i titoli, in tal modo emessi od acquistati, nei confronti dei loro portatori relativamente ai rischi da essa coperti. ((1))
 
@@ -194,7 +192,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 10
+### Art. 10
 
 Ai fini della concessione della garanzia di cui al n. 6) dell'articolo 5, il mancato pagamento va riferito: a) allo Stato o ente pubblico estero, che abbia ricevuto il finanziamento oppure che abbia emesso, nell'ipotesi di cui all'articolo 9, i titoli obbligazionari; b) all'ente o impresa privati che abbiano ricevuto il finanziamento o emesso i titoli, purche' il pagamento sia garantito da uno Stato o da un ente pubblico estero a cio' autorizzato.
 
@@ -206,7 +204,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 11
+### Art. 11
 
 L'Istituto centrale per il credito a medio termine (Mediocredito centrale) e' autorizzato - oltre a quanto previsto dall'articolo 16 - ad assumere, da solo o in consorzio, dagli Istituti od Aziende di credito di cui all'articolo 19 della legge 25 luglio 1952, n. 949, i titoli relativi ai crediti derivanti agli stessi dai finanziamenti di cui all'articolo 8, nonche' a concedere sui medesimi anticipazioni o riporti agli istituti stessi, con l'osservanza - in tali ultime ipotesi - delle norme di cui all'articolo 18.
 
@@ -224,7 +222,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 12
+### Art. 12
 
 Il Ministero del commercio con l'estero di concerto con il Ministero del tesoro ed il Ministero degli affari esteri puo' autorizzare gli Istituti e le Aziende di credito di cui all'articolo 19 della legge 25 luglio 1952, n. 949, ad operare da soli o in consorzio tra loro e con enti o banche esteri per la concessione a Stati o banche centrali esteri di crediti finanziari destinati al consolidamento ed allo sviluppo economico di detti Stati.
 
@@ -238,7 +236,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 13
+### Art. 13
 
 I titoli di credito comunque emessi a fronte delle operazioni di cui agli articoli 8 e 12 sono sottoposti al regime fiscale di cui all'articolo 1 della legge 27 luglio 1962, n. 1228. ((1))
 
@@ -248,7 +246,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 14
+### Art. 14
 
 Gli stanziamenti gia' autorizzati con le leggi 31 dicembre 1962, n. 1834, e 10 novembre 1963, n. 1532, nonche' quelli che dovessero essere autorizzati allo stesso titolo con altre leggi, saranno trasferiti, alle singole scadenze dei periodi indicati nelle leggi medesime, al Mediocredito centrale per essere utilizzati per la corresponsione di contributi agli interessi in ordine alle operazioni di cui all'articolo 8 e al secondo comma del precedente articolo 12.
 
@@ -260,7 +258,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 15
+### Art. 15
 
 L'Istituto nazionale delle assicurazioni e' autorizzato ad assumere, in assicurazione o in riassicurazione, come previsto dall'articolo 1, la garanzia dei crediti a breve termine che gli Istituti od Aziende di credito concedono a banche estere, purche' detti crediti siano strettamente legati ad esportazioni di merci italiane destinate al Paese beneficiario del credito, nonche' delle conferme di apertura di credito, disposte da Istituti od Aziende di credito, per il pagamento di esportazioni di prodotti italiani relativamente ai rischi indicati ai numeri 1), 2), 3), 5) e 6) dell'articolo 5. ((1))
 
@@ -270,11 +268,9 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-## TITOLO III - Finanziamento dei crediti a medio termine relativi alla esportazione
+## TITOLO III - Finanziamento dei crediti a medio termine relativi alla esportazione di merci e servizi e all'esecuzione di lavori all'estero.
 
-### di merci e servizi e all'esecuzione di lavori all'estero.
-
-#### Art. 16
+### Art. 16
 
 Il Mediocredito centrale compie, con gli Istituti e le Aziende di credito di cui all'articolo 19 della legge 25 luglio 1952, n. 949, tutte le operazioni finanziarie relative a crediti nascenti da esportazioni di merci e servizi e da esecuzione di lavori all'estero, previste dall'articolo 2 della legge 30 aprile 1962, n. 265.
 
@@ -286,7 +282,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 17
+### Art. 17
 
 Le operazioni di cui all'articolo 16 possono essere compiute soltanto in corrispondenza di uguale dilazione di pagamento accordato dagli operatori nazionali ai committenti esteri e non possono aver durata superiore ai cinque anni, salvo che i crediti non siano assicurati per una durata superiore da una garanzia assunta per conto dello Stato italiano.
 
@@ -298,7 +294,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 18
+### Art. 18
 
 I riscontri e le anticipazioni di cui alle lettere d) ed e) dell'articolo 2 della legge 30 aprile 1962, n. 265, non potranno eccedere l'85 per cento del credito capitale concesso dall'operatore italiano al committente estero.
 
@@ -312,7 +308,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 19
+### Art. 19
 
 Il Mediocredito centrale provvedera' alle operazioni finanziarie di cui agli articoli 11 e 16 della presente legge a valere sui fondi previsti dall'articolo 1 della legge 1 novembre 1957, n. 1087, dall'articolo 1 della legge 3 dicembre 1957, n. 1196, dall'articolo 3 della legge 30 aprile 1962, n. 265 e dall'articolo 1 della legge 5 luglio 1964, n. 619.
 
@@ -330,7 +326,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 20
+### Art. 20
 
 Il Mediocredito centrale puo' effettuare operazioni finanziarie con gli Istituti e le Aziende di credito di cui al regio decreto-legge 12 marzo 1936, n. 375 e successive modificazioni, con i loro istituti centrali di categoria, con Enti ed Istituti di diritto pubblico, con istituti assicurativi e previdenziali e con istituti finanziatori esteri. All'uopo il Mediocredito centrale puo' cedere i titoli da esso posseduti, munendoli, ove necessario, della propria girata, ovvero puo' costituirli in pegno.
 
@@ -342,7 +338,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 21
+### Art. 21
 
 Allo scopo di contribuire a coprire la differenza fra il tasso delle operazioni attive effettuate a norma degli articoli 11 e 16 dal Mediocredito centrale ed il costo dei mezzi ottenuti con le operazioni di finanziamento previste dall'articolo 20, il Tesoro dello Stato corrispondera' al Mediocredito centrale con decorrenza dall'entrata in vigore della presente legge un contributo pari all'1,50 per cento calcolato annualmente sull'importo residuale delle operazioni predette, nella media dei dodici mesi precedenti secondo i dati comunicati dal Mediocredito centrale. ((1))
 
@@ -352,7 +348,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 22
+### Art. 22
 
 Si applicano a favore del Mediocredito centrale, per le operazioni di cui alla presente legge, le disposizioni di cui al comma secondo dell'articolo 18 della legge 25 luglio 1952, n. 949, ed a favore degli Istituti ed Aziende di credito di cui all'articolo 19 della legge stessa, le disposizioni di cui al terzo comma del citato articolo 18. ((1))
 
@@ -364,7 +360,7 @@ La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi 
 
 ## TITOLO IV - Disposizioni comuni
 
-#### Art. 23
+### Art. 23
 
 L'Istituto nazionale delle assicurazioni terra' una gestione separata e distinta, suddivisa in assicurazione ed in riassicurazione, per i rischi contemplati nella presente legge.((1))
 
@@ -374,7 +370,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 24
+### Art. 24
 
 Alla gestione tenuta, per conto dello Stato, dall'Istituto nazionale delle assicurazioni sovraintende un Comitato cosi' composto:
 
@@ -448,7 +444,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 25
+### Art. 25
 
 Le deliberazioni prese ai sensi dell'articolo 24 sono trasmesse in copia al Ministero del tesoro e diventano esecutive trascorsi 10 giorni dalla loro ricezione, ove non sia pervenuta alcuna comunicazione dal detto Ministero. Tale termine e' ridotto a 3 giorni non festivi per le deliberazioni riguardanti la riassicurazione.((1))
 
@@ -458,7 +454,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 26
+### Art. 26
 
 L'Istituto nazionale per il commercio estero, d'intesa con l'Istituto nazionale delle assicurazioni, provvede alla istruttoria delle domande di assicurazione e di riassicurazione.
 
@@ -470,7 +466,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 27
+### Art. 27
 
 Con decreto del Ministro per il tesoro, di concerto con i Ministri per il commercio estero, per gli affari esteri e per il bilancio, sentito il Comitato di cui allo articolo 24, sono determinati i limiti minimi e massimi dei premi annui di assicurazione e riassicurazione, i termini costitutivi di sinistro, i limiti entro cui le variazioni di costi sono indennizzabili, nonche' la durata e le quote massime delle garanzie assumibili in assicurazione ed in riassicurazione ai sensi dei titoli I e II della presente legge.((1))
 
@@ -480,7 +476,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 28
+### Art. 28
 
 Le garanzie di cui all'articolo 1, lettere a), d) ed f), all'articolo 2, lettere a) ed e), all'articolo 4, all'articolo 8, all'articolo 12 ed all'articolo 15 sono concesse nella stessa valuta nella quale e' espresso il credito.
 
@@ -494,7 +490,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 29
+### Art. 29
 
 La liquidazione dell'indennizzo viene effettuata con il procedimento, le modalita' ed i limiti stabiliti dalla presente legge e dalle condizioni di polizza.
 
@@ -506,7 +502,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 30
+### Art. 30
 
 Il Ministero del tesoro e il Ministero del commercio con l'estero sono autorizzati a stipulare con l'istituto nazionale delle assicurazioni e con l'Istituto nazionale per il commercio estero apposite convenzioni disciplinanti i rapporti reciproci insorgenti dall'applicazione della presente legge.
 
@@ -528,7 +524,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 31
+### Art. 31
 
 I diritti derivanti dall'assicurazione possono essere ceduti, dati in pegno o comunque vincolati, interamente o parzialmente, a favore di terzi, anche indipendentemente dalla cessione del credito assicurato.
 
@@ -542,7 +538,7 @@ La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi 
 
 ## TITOLO V - Fondo autonomo presso il Mediocredito centrale.
 
-#### Art. 32
+### Art. 32
 
 Presso il Mediocredito centrale e' istituito un Fondo autonomo per la somministrazione di fondi necessari al pagamento degli indennizzi derivanti dall'applicazione della presente legge.
 
@@ -566,7 +562,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 33
+### Art. 33
 
 Alla gestione del Fondo autonomo di cui all'articolo 32 sovraintende lo stesso Comitato di cui al precedente articolo 24 la cui composizione e' ridotta come appresso:
 
@@ -592,7 +588,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 34
+### Art. 34
 
 A tutti gli atti ed operazioni effettuate dal Mediocredito centrale, in veste di gestore del Fondo, sono estese le agevolazioni fiscali di cui agli articoli 40 e 41 della presente legge.((1))
 
@@ -602,7 +598,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 35
+### Art. 35
 
 I rapporti, nascenti dalle operazioni che il Mediocredito centrale compie in relazione all'attivita' del Fondo, sono disciplinati da apposite convenzioni tra il Fondo e lo stesso Mediocredito, da sottoporre, sentito il Comitato di cui all'articolo 33, all'approvazione del Ministro per il tesoro.
 
@@ -616,7 +612,7 @@ La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi 
 
 ## TITOLO VI - Disposizioni finali e transitorie.
 
-#### Art. 36
+### Art. 36
 
 Il limite massimo delle garanzie da assumere a carico dello Stato, ai sensi dei titoli I e II della presente legge, e' fissato annualmente con la legge di approvazione dello stato di previsione della spesa del bilancio dello Stato.
 
@@ -632,7 +628,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 37
+### Art. 37
 
 In caso di liquidazione della gestione di cui all'articolo 23 della presente legge, gli utili e le perdite, ivi compresi quelli del Fondo autonomo di cui all'articolo 32, saranno di spettanza del Tesoro dello Stato. ((1))
 
@@ -642,7 +638,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 38
+### Art. 38
 
 Le somme costituite dai versamenti di cui agli articoli 15 e 19 della legge 22 dicembre 1953, n. 955, all'articolo 36 della legge 5 luglio 1961, n. 635, esistenti in Tesoreria, al 30 giugno 1966, per lire 1.609.772.250 sul conto corrente infruttifero denominato "Fondo garanzia per far fronte ad eventuali perdite di cui all'articolo 15 della legge 22 dicembre 1953, n. 955" sono versate al bilancio entrate dello Stato. ((1))
 
@@ -652,7 +648,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 39
+### Art. 39
 
 Il Ministro per il tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio per l'applicazione della presente legge. ((1))
 
@@ -662,7 +658,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 40
+### Art. 40
 
 I premi di assicurazione e di riassicurazione relativi alle operazioni ammesse alla garanzia sono esenti dall'imposta sulle assicurazioni stabilita dalla legge 29 ottobre 1961, n. 1216.
 
@@ -676,7 +672,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 41
+### Art. 41
 
 I benefici di cui all'articolo 1 della legge 27 luglio 1962, n. 1228, sono estesi anche agli effetti cambiari, ed equivalenti titoli esteri, emessi sia in Italia che all'estero all'ordine di operatori nazionali, quando vengano utilizzati per operazioni di finanziamento nell'ambito della presente legge e quale che sia la durata delle operazioni e degli effetti cambiari.
 
@@ -690,7 +686,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 42
+### Art. 42
 
 Con decreto del Presidente della Repubblica, su proposta dei Ministri per il tesoro e per il commercio con l'estero e previa deliberazione del Consiglio dei Ministri, puo' essere disposta la sospensione delle facolta' concesse dalla presente legge al Mediocredito centrale di effettuare le operazioni di cui agli articoli 11 e 16, quando le analoghe facilitazioni alle esportazioni concesse da altri Stati fossero sospese o revocate. ((1))
 
@@ -700,7 +696,7 @@ AGGIORNAMENTO (1)
 
 La L. 24 maggio 1977, n. 227 ha disposto (con l'art. 38, comma 2) che trascorsi sessanta giorni dall'insediamento degli organi della sezione, di cui all'articolo 5 della stessa legge, e' abrogata la presente legge.
 
-#### Art. 43
+### Art. 43
 
 Le garanzie concesse con deliberazione del Comitato di cui agli articoli 9 della legge 22 dicembre 1953, n. 955, della legge 5 luglio 1961, n. 635, e successive modifiche ed integrazioni, divenute esecutive ai sensi degli articoli 11 delle stesse leggi, restano regolate dalle leggi medesime.
 

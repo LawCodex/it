@@ -26,13 +26,11 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - DECENTRAMENTO DEI SERVIZI DEL MINISTERO DELLA PUBBLICA ISTRUZIONE NEL
+## TITOLO I - DECENTRAMENTO DEI SERVIZI DEL MINISTERO DELLA PUBBLICA ISTRUZIONE NEL SETTORE DELL'ISTRUZIONE UNIVERSITARIA E SNELLIMENTO DI PROCEDURE.
 
-### SETTORE DELL'ISTRUZIONE UNIVERSITARIA E SNELLIMENTO DI PROCEDURE.
+### Capo I - DECENTRAMENTO
 
-#### Capo I - DECENTRAMENTO
-
-###### Art. 1
+#### Art. 1
 
 Attribuzioni relative al personale docente universitario
 
@@ -50,7 +48,7 @@ d) le autorizzazioni alla concessione delle aspettative per motivi sindacali;
 
 e) i comandi e i collocamenti fuori ruolo.
 
-###### Art. 2
+#### Art. 2
 
 Attribuzioni relative al personale non docente delle universita' e degli istituti di istruzione universitaria
 
@@ -80,7 +78,7 @@ i) i comandi ed i collocamenti fuori ruolo.
 
 I bandi relativi ai concorsi pubblici di accesso ai ruoli del personale non docente sono pubblicati nella Gazzetta Ufficiale, anche se attribuiti alla competenza dei rettori delle universita' e dei direttori degli istituti di istruzione universitaria.
 
-###### Art. 3
+#### Art. 3
 
 Nomina delle commissioni esaminatrici nei concorsi decentrati per i
 
@@ -102,7 +100,7 @@ Le funzioni di segretario sono disimpegnate da un impiegato appartenente al ruol
 
 E' abrogato l'articolo 24 del decreto legislativo 7 maggio 1948, n. 1172, ratificato, con modificazioni, dalla legge 24 giugno 1950, n. 465.
 
-###### Art. 4
+#### Art. 4
 
 Adempimenti connessi ai rapporti con l'I.N.A.I.L.
 
@@ -110,7 +108,7 @@ Sono devoluti alla competenza dei rettori delle universita' e dei direttori degl
 
 Le prestazioni dovute dall'I.N.A.I.L. al personale delle universita' e degli istituti di istruzione universitaria vengono eseguite previa autorizzazione dei rettori e dei direttori, i quali, in qualita' di funzionari delegati, provvedono anche ai conseguenti rimborsi.
 
-###### Art. 5
+#### Art. 5
 
 Devoluzione di competenze spettanti al consiglio di amministrazione e decentramento dei controlli
 
@@ -130,9 +128,9 @@ I membri di cui alle lettere e) e d) sono designati dalle organizzazioni sindaca
 
 Le funzioni di controllo esercitate dalla ragioneria centrale presso il Ministero della pubblica istruzione e dalla Corte dei conti sono demandate, nelle materie - devolute, ai sensi della presente legge, ai rettori delle universita' ed ai direttori degli istituti di istruzione universitaria, rispettivamente, alle ragionerie regionali dello Stato e alle delegazioni regionali della Corte dei conti competenti per territorio.
 
-## Capo II - PROCEDURE
+### Capo II - PROCEDURE
 
-###### Art. 6
+#### Art. 6
 
 Snellimento delle procedure
 
@@ -140,7 +138,7 @@ Su richiesta dei competenti rettori delle universita', dei direttori degli istit
 
 I rettori e, direttori, di cui al comma precedente, avanzeranno detta richiesta quando avranno accertato la sussistenza delle condizioni prescritte ai fini dell'emanazione dei provvedimenti di propria competenza ovvero quando avranno ricevuto comunicazione delle variazioni da apportare con provvedimenti di competenza dell'Amministrazione centrale.
 
-###### Art. 7
+#### Art. 7
 
 Provvedimenti definitivi
 
@@ -154,19 +152,15 @@ c) dispensa dal servizio quando non si tratti di dispensa dal servizio per infer
 
 d) sospensione cautelare facoltativa.
 
-###### Art. 8
+#### Art. 8
 
 ((ARTICOLO ABROGATO DALLA L. 29 GENNAIO 1986, N. 23)).
 
-## TITOLO II - IMMISSIONI IN RUOLO E REVISIONE DELLE DOTAZIONI ORGANICHE DEL
+## TITOLO II - IMMISSIONI IN RUOLO E REVISIONE DELLE DOTAZIONI ORGANICHE DEL PERSONALE NON DOCENTE DELLE UNIVERSITA', DEGLI ISTITUTI DI ISTRUZIONE UNIVERSITARIA E DEGLI OSSERVATORI ASTRONOMICI E VESUVIANO.
 
-### PERSONALE NON DOCENTE DELLE UNIVERSITA', DEGLI ISTITUTI DI ISTRUZIONE - UNIVERSITARIA E DEGLI OSSERVATORI ASTRONOMICI E VESUVIANO.
+### Capo I - IMMISSIONI IN RUOLO E REVISIONE DELLE DOTAZIONI ORGANICHE
 
-#### Capo I
-
-##### IMMISSIONI IN RUOLO E REVISIONE DELLE DOTAZIONI ORGANICHE
-
-###### Art. 9
+#### Art. 9
 
 Immissione in ruolo di personale non docente incaricato
 
@@ -182,7 +176,7 @@ Salvo quanto previsto dal successivo comma, sono revocati i concorsi gia' indett
 
 Il personale cui sia stato conferito un incarico nelle more dei concorsi dopo la data del 30 giugno 1977 e' mantenuto in servizio fino all'espletamento dei concorsi stessi; tali concorsi dovranno essere espletati entro il termine di mesi sei dalla data di entrata in vigore della presente legge.
 
-###### Art. 10
+#### Art. 10
 
 Immissione in ruolo di personale non medico non di ruolo
 
@@ -192,7 +186,7 @@ L'immissione in ruolo ha luogo previo incremento delle dotazioni dei rispettivi 
 
 ((COMMA ABROGATO DAL D.L 19 SETTEMBRE 1987, N. 382 CONVERTITO CON MODIFICAZIONI DALLA L. 29 OTTOBRE 1987, N. 456)).
 
-###### Art. 11
+#### Art. 11
 
 Immissione in ruolo di personale assunto a carico del bilancio dello Stato o dalle amministrazioni universitarie
 
@@ -202,11 +196,9 @@ L'immissione in ruolo e' disposta nella carriera corrispondente alla categoria d
 
 L'immissione in ruolo ha luogo di norma mediante l'utilizzazione dei posti disponibili nelle singole dotazioni organiche. Qualora non vi sia sufficiente disponibilita' di posti nelle predette dotazioni organiche, queste sono aumentate fino alla concorrenza della eventuale eccedenza.
 
-## Capo II - NORME PARTICOLARI AI FINI DELL'ASSORBIMENTO DEL PERSONALE IN
+### Capo II - NORME PARTICOLARI AI FINI DELL'ASSORBIMENTO DEL PERSONALE IN SOPRANNUMERO E DELLE IMMISSIONI IN RUOLO.
 
-### SOPRANNUMERO E DELLE IMMISSIONI IN RUOLO.
-
-###### Art. 12
+#### Art. 12
 
 Assorbimento del personale non docente di ruolo in soprannumero
 
@@ -214,7 +206,7 @@ Con effetto dal 1 gennaio 1977, il personale non docente di ruolo che, alla data
 
 L'assorbimento del soprannumero ha luogo mediante un incremento delle dotazioni organiche corrispondenti al numero delle unita' di personale da immettere in posti numerari.
 
-###### Art. 13
+#### Art. 13
 
 Norme particolari concernenti la revisione delle dotazioni organiche
 
@@ -222,7 +214,7 @@ Il Ministro per la pubblica istruzione determinera', con propri decreti, di conc
 
 Sugli incrementi determinati dalle immissioni nei ruoli delle carriere esecutive e ausiliarie, nonche' degli operai permanenti, non si fa luogo alla riserva dei posti previsti dalla legge 2 aprile 1968, n. 482, fermo restando che la riserva stessa sara' operata, nella percentuale prevista dalla medesima legge, sui posti che saranno disponibili per i successivi concorsi pubblici.
 
-###### Art. 14
+#### Art. 14
 
 Modifiche ai contingenti di posti di personale non docente
 
@@ -230,7 +222,7 @@ Fino alla determinazione definitiva delle singole piante organiche di ateneo, da
 
 I posti che dall'entrata in vigore della presente legge - si renderanno vacanti saranno ridistribuiti tra le diverse universita' in conformita' alle esigenze di riequilibrio.
 
-###### Art. 15
+#### Art. 15
 
 Estensione dell'articolo 25 della legge 28 ottobre 1970, n. 775
 
@@ -238,7 +230,7 @@ Le norme di cui all'articolo 25 della legge 28 ottobre 1970, n. 775, si applican
 
 ## TITOLO III - VALUTAZIONE E RICONOSCIMENTO DEI SERVIZI
 
-###### Art. 16
+#### Art. 16
 
 Valutazione e riconoscimento dei servizi
 
@@ -258,7 +250,7 @@ I benefici previsti dal presente articolo si applicano con le stesse modalita' i
 
 L'assegno ad personam di cui all'articolo 2 della legge 7 giugno 1975, n. 259, per la parte eccedente la somma di L. 23.000 mensili attribuita con legge 4 aprile 1977, n. 121, viene riassorbito, con i criteri previsti dal secondo comma del citato articolo 2, nella stessa misura e con la stessa decorrenza degli effetti economici dei benefici previsti dal presente articolo.
 
-###### Art. 17
+#### Art. 17
 
 Attribuzione di aumenti periodici in prima applicazione della presente legge
 
@@ -266,11 +258,9 @@ Ai fini perequativi, al personale appartenente ai ruoli delle carriere esecutive
 
 ## TITOLO IV - NORME FINALI E TRANSITORIE
 
-### Capo I
+### Capo I - NORME FINALI
 
-#### NORME FINALI
-
-###### Art. 18
+#### Art. 18
 
 Divieto di assunzioni temporanee di personale non docente
 
@@ -280,7 +270,7 @@ L'assunzione di personale effettuata in violazione, del divieto posto dal preced
 
 Si deroga al divieto di cui al precedente primo comma soltanto per le assunzioni temporanee di personale paramedico presso i policlinici e le cliniche universitarie e di personale operaio presso le universita', gli istituti di istruzione universitaria e gli osservatori astronomici e vesuviano. Tali assunzioni temporanee sono disposte secondo i criteri e nei limiti previsti dal decreto del Presidente della Repubblica 31 marzo 1971, n. 276.
 
-###### Art. 19
+#### Art. 19
 
 Riserva di posti nei pubblici concorsi
 
@@ -290,7 +280,7 @@ Nei bandi di concorso a posti di personale tecnico degli istituti scientifici e 
 
 I posti riservati eventualmente non utilizzati sono trasferiti in aggiunta ai posti a concorso ordinario.
 
-###### Art. 20
+#### Art. 20
 
 Abrogazione di norme ed altre disposizioni
 
@@ -300,9 +290,9 @@ L'articolo 6, primo comma, lettera b), della legge 22 luglio 1975, n. 382, non s
 
 Il periodo di prova previsto dall'articolo 24 della legge 3 novembre 1961, n. 1255, e' ridotto a sei mesi.
 
-## Capo II - DISPOSIZIONI VARIE E TRANSITORIE
+### Capo II - DISPOSIZIONI VARIE E TRANSITORIE
 
-###### Art. 21
+#### Art. 21
 
 Stato giuridico e trattamento economico del personale delle opere universitarie
 
@@ -318,7 +308,7 @@ Il contributo dato dallo Stato alle opere universitarie per il loro funzionament
 
 Fino alla data del 1 novembre 1979, i capitoli di spesa a favore delle opere universitarie e per gli assegni universitari sono unificati, fermo restando, comunque, quanto disposto per i predetti assegni dalle norme vigenti, ivi compreso l'ultimo comma dell'articolo 5 della legge 21 aprile 1969, n. 162.
 
-###### Art. 22
+#### Art. 22
 
 Competenza relativa ai provvedimenti di cui alla legge 4 febbraio 1966, n. 32
 
@@ -326,7 +316,7 @@ I provvedimenti relativi al collocamento in ruolo in soprannumero previsto dalla
 
 Resta fermo peraltro la competenza dell'Amministrazione centrale della pubblica istruzione nei casi in cui sui provvedimenti predetti si sia gia' pronunciato il consiglio di amministrazione del Ministero della pubblica istruzione.
 
-###### Art. 23
+#### Art. 23
 
 Vincitori di assegni biennali
 
@@ -338,7 +328,7 @@ I contratti di cui all'articolo 5 del decreto-legge 1 ottobre 1973, n. 580, conv
 
 Analogamente le borse di studio conferite per l'anno accademico 1973-74 ai sensi delle leggi 31 ottobre 1966, n. 942 e 24 febbraio 1967, n. 62 ed attualmente in godimento, sono prorogate fino al 31 ottobre 1978.
 
-###### Art. 24
+#### Art. 24
 
 Assistenti universitari di ruolo
 
@@ -346,13 +336,13 @@ La data della trasformazione del ruolo degli assistenti in ruolo ad esaurimento,
 
 Gli assistenti di ruolo su posti convenzionati, in servizio alla data di entrata in vigore della presente legge, nonche' - all'atto della loro nomina - i vincitori dei concorsi su posti convenzionati gia' esistenti alla data del 1 ottobre 1977 banditi entro sessanta giorni dalla data di entrata in vigore della presente legge, sono inquadrati in soprannumero nel ruolo degli assistenti ordinari delle universita' e degli istituti di istruzione universitaria, conservando l'anzianita' maturata e il trattamento economico acquisito. I relativi posti convenzionati sono soppressi. E' abrogato l'articolo 13-bis del decreto legislativo 7 maggio 1948, n. 1172, nel testo ratificato dalla legge 24 giugno 1950, n. 465.
 
-###### Art. 25
+#### Art. 25
 
 Interpretazione autentica dell'articolo 2, terzo comma della legge 15 novembre 1973, n. 734
 
 L'obbligo del versamento in conto entrate eventuali del Tesoro di cui all'articolo 2, terzo comma, della legge 15 novembre 1973, n. 734, deve intendersi riferito al solo esercizio finanziario 1973.
 
-###### Art. 26
+#### Art. 26
 
 Copertura finanziaria
 

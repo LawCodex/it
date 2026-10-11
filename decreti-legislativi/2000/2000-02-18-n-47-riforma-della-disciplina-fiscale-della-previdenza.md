@@ -46,7 +46,7 @@ il seguente decreto legislativo:
 
 ## Capo I - Disciplina del risparmio previdenziale
 
-#### Art. 1
+### Art. 1
 
 Disciplina fiscale dei contributi e dei premi versati per la previdenza sociale complementare e individuale
 
@@ -78,7 +78,7 @@ f) nell'articolo 70, sono apportate le seguenti modificazioni:
 
 2\. ((COMMA ABROGATO DAL D. LGS. 5 DICEMBRE 2005, N. 252)).
 
-#### Art. 2
+### Art. 2
 
 Disciplina delle forme pensionistiche individuali
 
@@ -110,7 +110,7 @@ Art. 9-ter (Forme pensionistiche individuali attuate mediante contratti di assic
 
 > Con decreto del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro, sono determinati le modalita' e i termini di presentazione delle domande per il conseguimento dell'assegno sociale di cui al comma 6, gli obblighi di comunicazione dell'interessato circa le proprie condizioni familiari e reddituali, la misura della riduzione dell'assegno, fino ad un massimo del 50 per cento nel caso in cui l'interessato sia ricoverato in istituti o comunita' con retta a carico di enti pubblici. Per quanto non diversamente disposto dal presente comma e dal comma 6 si applicano all'assegno sociale le disposizioni in materia di pensione sociale di cui alla legge 30 aprile 1969, n. 153, e successive modificazioni e integrazioni".
 
-#### Art. 3
+### Art. 3
 
 Norme di coordinamento e di adeguamento del decreto legislativo 21 aprile 1993, n. 124
 
@@ -168,7 +168,7 @@ Sono altresi' esenti da ogni onere fiscale i trasferimenti delle risorse o delle
 
 > 13\. Le operazioni di trasferimento delle posizioni pensionistiche sono esenti da ogni onere fiscale, a condizione che avvengano a favore di forme pensionistiche disciplinate dal presente decreto. Sono altresi' esenti da ogni onere fiscale i trasferimenti delle risorse o delle riserve matematiche da un fondo pensione o da una forma pensionistica individuale ad altro fondo pensione o ad altra forma pensionistica individuale. 14. I fondi pensione comunicano annualmente alla commissione di vigilanza di cui all'articolo 16 l'ammontare della contribuzione ad essi affluita, con distinzione delle quote di contribuzione a carico dei datori di lavoro, a carico dei lavoratori nonche' delle quote a titolo di TFR. Le risultanze di tali elementi informativi sono, con la stessa cadenza, trasmesse alle Amministrazioni delle finanze, del tesoro e del lavoro e della previdenza sociale".
 
-#### Art. 4
+### Art. 4
 
 Decorrenza e norme transitorie
 
@@ -182,7 +182,7 @@ Decorrenza e norme transitorie
 
 ## Capo II - Disciplina della gestione del risparmio previdenziale
 
-#### Art. 5
+### Art. 5
 
 Regime tributario dei fondi pensione in regime di contribuzione definita
 
@@ -250,7 +250,7 @@ c) nell'articolo 3, comma 3, le parole: "all'articolo 2, comma 1, lettere d) ed 
 
 > Il comma 3-bis dell'art. 8 del decreto-legge 28 giugno 1990, n. 167, convertito, con modificazioni, dalla legge 4 agosto 1990, n. 227, e' abrogato. 8. Con decreto del Ministro delle finanze, da pubblicarsi entro sessanta giorni dalla data di entrata in vigore della presente legge, sono stabilite le modalita' di presentazione della dichiarazione di sostituto di imposta da parte dei soggetti che corrispondono i proventi di cui al presente articolo, nonche' degli eventuali altri adempimenti. 9. Gli organismi di investimento collettivo in valori mobiliari di diritto estero situati negli Stati membri della Comunita' economica europea e conformi alle direttive comunitarie possono, con riguardo agli investimenti effettuati in Italia, avvalersi delle convenzioni stipulate dalla Repubblica italiana per evitare le doppie imposizioni relativamente alla parte dei redditi e proventi proporzionalmente corrispondenti alle loro quote possedute da soggetti non residenti in Italia. 10. Le disposizioni di cui al comma 9, si applicano esclusivamente agli organismi aventi sede in uno Stato la cui legislazione riconosca analogo diritto agli organismi di investimento collettivo italiani. 11. Il Ministro delle finanze determina, con proprio decreto, le disposizioni di cui ai commi 9 e 10 del presente articolo".
 
-#### Art. 6
+### Art. 6
 
 Regime tributario dei fondi pensione di prestazioni definite e dei contratti di assicurazione di cui all'articolo 9-ter del decreto legislativo 21 aprile 1993, n. 124
 
@@ -262,7 +262,7 @@ Regime tributario dei fondi pensione di prestazioni definite e dei contratti di 
 
 2\. (( COMMA ABROGATO DAL D.LGS. 12 APRILE 2001, N. 168 )).
 
-#### Art. 7
+### Art. 7
 
 Regime tributario dei fondi pensione che detengono gli immobili
 
@@ -290,7 +290,7 @@ E' possibile visualizzare il testo originario accedendo alla versione pdf della 
 
 > \- Il decreto legislativo 21 aprile 1993, n. 124, e' gia' citato nelle note alle premesse. - La legge 9 dicembre 1998, n. 431, reca: "Disciplina delle locazioni e del rilascio degli immobili adibiti ad uso abitativo", pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 292 del 15 dicembre 1998.
 
-#### Art. 8
+### Art. 8
 
 Regime tributario dei fondi pensione che risultavano istituiti alla data di entrata in vigore della legge 23 ottobre 1992, n. 421
 
@@ -306,7 +306,7 @@ Regime tributario dei fondi pensione che risultavano istituiti alla data di entr
 
 2\. Ai fondi pensione di cui all'articolo 14-quater del decreto legislativo 21 aprile 1993, n. 124, si applicano le disposizioni dell'articolo 5, commi da 4 a 7.
 
-#### Art. 9
+### Art. 9
 
 Decorrenza
 
@@ -314,11 +314,9 @@ Decorrenza
 
 (( 1-bis. Ai fondi pensione che abbiano presentato istanza al Ministero del lavoro e della previdenza sociale per l'applicazione del periodo transitorio di cui al comma 8-bis dell'articolo 18 del decreto legislativo 21 aprile 1993, n. 124, nei termini ivi previsti, continua ad applicarsi, fino al termine del predetto periodo transitorio, l'articolo 15, comma 6, della legge 8 agosto 1995, n. 335, concernente l'addizionale all'imposta sostitutiva da essi dovuta. ))
 
-## Capo III - Disciplina delle prestazioni pensionistiche e del trattamento di fine
+## Capo III - Disciplina delle prestazioni pensionistiche e del trattamento di fine rapporto
 
-### rapporto
-
-#### Art. 10
+### Art. 10
 
 Trattamento tributario delle prestazioni pensionistiche erogate ai sensi del decreto legislativo 21 aprile 1993, n. 124.
 
@@ -412,7 +410,7 @@ E' possibile visualizzare il testo originario accedendo alla versione pdf della 
 
 > 3\. I soggetti indicati nel comma 1 devono effettuare, entro il 28 febbraio dell'anno successivo e, in caso di cessazione del rapporto di lavoro, alla data di cessazione, il conguaglio tra le ritenute operate sulle somme e i valori di cui alle lettere a) e b), del comma 2, nonche' sui compensi e le indennita' di cui all'art. 47, comma 1, lettera b), del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, comunicati al sostituto entro il 12 gennaio dell'anno successivo, e l'imposta dovuta sull'ammontare complessivo degli emolumenti stessi, tenendo conto delle detrazioni di cui agli articoli 12 e 13, del citato testo unico, e di quelle eventualmente spettanti a norma dell'art. 13-bis dello stesso testo unico per oneri a fronte dei quali il datore di lavoro ha effettuato trattenute, nonche', limitatamente agli oneri di cui alle lettere c) e f) dello stesso articolo, per erogazioni in conformita' a contratti collettivi o ad accordi e regolamenti aziendali. In caso di incapienza delle retribuzioni a subire il prelievo delle imposte dovute in sede di conguaglio di fine anno entro il 28 febbraio dell'anno successivo, il sostituito puo' dichiarare per iscritto al sostituto di volergli versare l'importo corrispondente alle ritenute ancora dovute, ovvero, di autorizzarlo a effettuare il prelievo sulle retribuzioni dei periodi di paga successivi al secondo dello stesso periodo di imposta. Sugli importi di cui e' differito il pagamento si applica l'interesse in ragione dello 0,50 per cento mensile, che e' trattenuto e versato nei termini e con le modalita' previste per le somme cui si riferisce. L'importo che al termine dei periodo d'imposta non e' stato trattenuto per cessazione del rapporto di lavoro o per incapienza delle retribuzioni deve essere comunicato all'interessato che deve provvedere al versamento entro il 15 gennaio dell'anno successivo. Se alla formazione del reddito di lavoro dipendente concorrono somme o valori prodotti all'estero le imposte ivi pagate a titolo definitivo sono ammesse in detrazione fino a concorrenza dell'imposta relativa ai predetti redditi prodotti all'estero. La disposizione del periodo precedente si applica anche nell'ipotesi in cui le somme o i valori prodotti all'stero abbiano concorso a formare il reddito di lavoro dipendente in periodi d'imposta precedenti. Se concorrono redditi prodotti in piu' Stati esteri la detrazione si applica separatamente per ciascuno Stato. 4. Ai fini del compimento delle operazioni di conguaglio di fine anno il sostituito puo' chiedere al sostituto di tenere conto anche dei redditi di lavoro dipendente, o assimilati a quelli di lavoro dipendente, percepiti nel corso di precedenti rapporti intrattenuti. A tal fine il sostituito deve consegnare al sostituto d'imposta, entro il 12 del mese di gennaio del periodo d'imposta successivo a quello in cui sono stati percepiti, la certificazione unica concernente i redditi di lavoro dipendente, o assimilati a quelli di lavoro dipendente, erogati da altri soggetti, compresi quelli erogati da soggetti non obbligati ad effettuare le ritenute. Alla consegna della suddetta certificazione unica il sostituito deve anche comunicare al sostituto quale delle opzioni previste al comma precedente intende adottare in caso di incapienza delle retribuzioni a subire il prelievo delle imposte. La presente disposizione non si applica ai soggetti che corrispondono trattamenti pensionistici. 5. (Abrogato)".
 
-#### Art. 11
+### Art. 11
 
 Disciplina tributaria del trattamento di fine rapporto
 
@@ -454,7 +452,7 @@ AGGIORNAMENTO (4)
 
 La L. 23 dicembre 2014, n. 190, ha disposto (con l'art. 1, comma 625) che la modifica di cui al comma 3 del presente articolo si applica alle rivalutazioni decorrenti dal 1º gennaio 2015.
 
-#### Art. 12
+### Art. 12
 
 Decorrenza e disciplina transitoria
 
@@ -466,7 +464,7 @@ Decorrenza e disciplina transitoria
 
 ## Capo IV - Contratti di assicurazione disposizioni varie e finali
 
-#### Art. 13
+### Art. 13
 
 Trattamento tributario dei contratti di assicurazione, dei contributi versati volontariamente alla gestione della forma pensionistica obbligatoria di appartenenza
 
@@ -514,7 +512,7 @@ d) nella tariffa, allegato C, e' aggiunto l'articolo 11, cosi' rubricato: "Assic
 
 4\. Nell'articolo 2 del decreto legislativo 16 settembre 1996, n. 565, il comma 5 e' soppresso.
 
-#### Art. 14
+### Art. 14
 
 Applicazione dell'imposta sostitutiva sui redditi di cui all'articolo 41, comma 1, lettere g-quater) e g-quinquies), del testo unico delle imposte sui redditi
 
@@ -530,7 +528,7 @@ Applicazione dell'imposta sostitutiva sui redditi di cui all'articolo 41, comma 
 
 2\. COMMA ABROGATO DAL D.LGS. 12 APRILE 2001, N. 168.
 
-#### Art. 15
+### Art. 15
 
 Regime tributario dei fondi pensione ai fini I.V.A.
 
@@ -556,7 +554,7 @@ Regime tributario dei fondi pensione ai fini I.V.A.
 
 > 27-ter) le prestazioni socio-sanitarie, di assistenza domiciliare o ambulatoriale, in comunita' e simili, in favore degli anziani ed inabili adulti, di tossicodipendenti e di malati di AIDS, degli handicappati psicofisici, dei minori anche coinvolti in situazioni di disadattamento e di devianza, rese da organismi di diritto pubblico, da istituzioni sanitarie riconosciute che erogano assistenza pubblica, previste all'art. 41 della legge 23 dicembre 1978, n. 833, o da enti aventi finalita' di assistenza sociale e da ONLUS; 27-quater) le prestazioni delle compagnie barracellari di cui all'art. 3 della legge 2 agosto 1897, n. 382; 27-quinquies) le cessioni che hanno per oggetto beni acquistati o importati senza il diritto alla detrazione totale della relativa imposta ai sensi degli articoli 19, 19-bis 1 e 19-bis 2".
 
-#### Art. 16
+### Art. 16
 
 Decorrenza
 
@@ -568,7 +566,7 @@ Decorrenza
 
 3\. Le disposizioni dell'articolo 15 si applicano a decorrere (( dal 1° gennaio 2001 )).
 
-#### Art. 17
+### Art. 17
 
 Allargamento delle forme di previdenza complementare di cui al
 
@@ -596,7 +594,7 @@ d) nell'articolo 8, dopo il comma 1, e' aggiunto il seguente:
 
 > 2\. Le fonti istitutive fissano il contributo complessivo da destinare al fondo pensione, stabilito in percentuale della retribuzione assunta a base della determinazione del TFR, che puo' ricadere anche su elementi particolari della retribuzione stessa o essere individuato mediante destinazione integrale di alcuni di questi al fondo. Nel caso dei lavoratori autonomi e dei liberi professionisti, il contributo e' definito in percentuale del reddito d'impresa o di lavoro autonomo dichiarato ai fini IRPEF, relativo al periodo d'imposta precedente; nel caso dei soci lavoratori di societa' cooperative il contributo e' definito in percentuale degli imponibili considerati ai fini dei contributi previdenziali obbligatori. Le fonti istitutive delle forme pensionistiche complementari su base contrattuale collettiva possono prevedere la destinazione al finanziamento anche di una quota dell'accantonamento annuale al TFR, determinando le quote a carico del datore di lavoro e del lavoratore. Le medesime fonti, qualora prevedano l'utilizzazione di quota dell'accantonamento annuale al TFR da destinare al fondo, determinano la misura della riduzione della quota degli accantonamenti annuali futuri al TFR. 3. Per i lavoratori di prima occupazione, successiva alla data di entrata in vigore del presente decreto legislativo, le fonti istitutive delle forme pensionistiche complementari su base contrattuale collettiva prevedono la integrale destinazione ai fondi pensione degli accantonamenti annuali al TFR, posteriori alla iscrizione dei lavoratori predetti ai fondi medesimi, nonche' le quote di contributo a carico del datore di lavoro e del lavoratore. 4. Nel caso di forme di previdenza pensionistica complementare di cui siano destinatari dipendenti della pubblica amministrazione, i contributi ai fondi debbono essere definiti in sede di determinazione del trattamento economico, secondo procedure coerenti alla natura del rapporto e in conformita' ai principi del presente decreto legislativo. 5. Gli enti di cui all'art. 6, comma 1, lettera c), sentita l'Autorita' garante della concorrenza e del mercato, possono stipulare con i fondi pensione convenzioni per l'utilizzazione del servizio di raccolta dei contributi da versare ai fondi pensione e di erogazione delle prestazioni; detto servizio deve essere oranizzato secondo criteri di separatezza contabile dalle attivita' istituzionali del medesimo ente". - Per il testo dell'art. 7 del decreto legislativo 21 aprile 1993, n. 124, gia' citato nelle note alle premesse, cosi' come da ultimo modificato dal presente decreto, si rinvia alle note all'art. 3.
 
-#### Art. 18
+### Art. 18
 
 Disposizioni di attuazione
 
@@ -608,7 +606,7 @@ Disposizioni di attuazione
 
 > \- Per il testo dell'art. 17, comma 3, della legge 23 agosto 1988, n. 400, gia' citata, si rinvia alle note alle premesse. - Per il testo dell'art. 3, comma 136, della legge 23 dicembre 1996, n. 662, gia' citata, si rinvia alle note alle premesse.
 
-#### Art. 19
+### Art. 19
 
 Entrata in vigore
 

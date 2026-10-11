@@ -32,13 +32,13 @@ PROMULGA
 
 il seguente decreto legislativo, approvato dal Consiglio dei Ministri in data 8 aprile 1948:
 
-### Art. 1
+## Art. 1
 
 I capi officina, i tecnici agrari, le maestre di laboratorio e gli assistenti degli istituti e delle scuole di istruzione tecnica assumono la qualifica di insegnanti tecnici-pratici.
 
 A tutto il personale di cui al precedente comma si applica, lo stato giuridico ed il trattamento economico e di carriera degli insegnanti entro i limiti prescritti dalle norme contenute nel presente decreto. Esso fa parte del Corpo insegnante delle scuole e degli istituti d'istruzione tecnica.
 
-### Art. 2
+## Art. 2
 
 Il personale insegnante tecnico-pratico maschile provvede all'addestramento ed all'istruzione pratica degli alunni, secondo le direttive segnate dalla Presidenza o dalla Direzione e in coordinazione con gli insegnamenti svolti dai professori di materie tecniche e scientifiche.
 
@@ -48,7 +48,7 @@ Il personale insegnante tecnico-pratico femminile, provvede all'addestramento ed
 
 Il personale insegnante tecnico-pratico provvede, inoltre, al funzionamento ed alla tenuta in efficienza delle aziende, delle officine, dei laboratori e dei gabinetti secondo le direttive segnate dalla Presidenza o dalla Direzione d'intesa con i professori di materie tecniche e scientifiche.
 
-### Art. 3
+## Art. 3
 
 Gli insegnanti tecnici-pratici sono tenuti a un servizio complessivo di trentasei ore settimanali, con un orario d'obbligo per l'addestramento pratico degli alunni fino a un massimo di ventiquattro ore settimanali.
 
@@ -58,45 +58,45 @@ Le insegnanti tecniche-pratiche sono tenute ad un servizio complessivo di trenta
 
 Al personale suddetto possono essere concessi dai capi d'istituto, ove il servizio non ne soffra, congedi non eccedenti, per ciascun anno, il periodo di quarantacinque giorni.
 
-### Art. 4
+## Art. 4
 
 Gli insegnanti tecnici-pratici partecipano alle Commissioni di esami e sono chiamati a far parte, con voto deliberativo, del Collegio dei professori di cui agli articoli 27 e seguenti del regio decreto 30 aprile 1924, n. 965.
 
 Gli insegnanti tecnici-pratici addetti a ciascuna classe partecipano, con voto deliberativo, al Consiglio di classe di cui all'art. 37 del regio decreto 30 aprile 1924, n. 965.
 
-### Art. 5
+## Art. 5
 
 Le norme contenute nel regio decreto 16 ottobre 1934, n. 1840, per i concorsi a posti di personale tecnico previsti dalla tabella C annessa alla legge 15 giugno 1931, n. 889, si applicano per i concorsi ai posti di personale insegnante tecnico-pratico previsti dal presente decreto.
 
-### Art. 6
+## Art. 6
 
 In deroga a quanto stabilito dall'art. 2 del regio decreto 16 ottobre 1934, n. 1840, sono ammessi ai concorsi a posti d'insegnante tecnico-pratico in prova negli istituti tecnici industriali, limitatamente alle specializzazioni per le quali non esiste un corrispondente diploma di perito industriale capo tecnico, anche i licenziati dalla scuola tecnica industriale o d'arte che siano in possesso di altri titoli di preparazione o di esercizio professionale riconosciuti validi previo parere della sezione seconda del Consiglio superiore della pubblica istruzione.
 
 L'esercizio della professione corrispondente alla specializzazione a cui si riferisce il concorso deve essere di durata non inferiore a tre anni.
 
-### Art. 7
+## Art. 7
 
 Le promozioni al grado 9° degli insegnanti tecnici-pratici in servizio negli istituti tecnici e nelle scuole di magistero professionale per la donna, previste dalla tabella A, annessa al presente decreto, si conferiscono mediante esame di merito distinto o esame di idoneita' al personale che alla data del decreto col quale viene indetto l'esame abbia rispettivamente dieci e dodici anni di anzianita' di servizio, tenuto conto altresi' del periodo di prova.
 
 ((L'anzianita' richiesta dal precedente comma e' ridotta di due anni per coloro i quali siano provvisti di laurea o di titoli equipollenti rilasciati da istituti di istruzione superiore)).
 
-### Art. 8
+## Art. 8
 
 Le promozioni al grado 9° degli insegnanti tecnici-pratici in servizio nelle scuole tecniche e nelle scuole professionali femminili, previsti dalla tabella A, annessa al presente decreto, si conferiscono, con le modalita' del precedente articolo, al personale che abbia rispettivamente sedici e diciotto anni di anzianita' di servizio, tenuto conto altresi' del periodo di prova.
 
 ((L'anzianita' richiesta dal precedente comma e' ridotta di due anni per coloro i quali siano provvisti di laurea o di titoli equipollenti rilasciati da istituti di istruzione superiore)).
 
-### Art. 9
+## Art. 9
 
 Gli esami di merito distinto, previsti dagli articoli 7 e 8 del presente decreto, sono indetti ogni due anni, entro il mese di maggio, con decreto del Ministro per la pubblica istruzione, per un terzo dei posti disponibili alla data in cui il concorso e' indetto.
 
 Gli esami di idoneita' previsti dagli stessi articoli sono indetti con decreto del Ministro per la pubblica istruzione, entro il mese di maggio di ogni anno, se il numero di coloro i quali posseggono i requisiti richiesti per parteciparvi non sia inferiore a cinque. In ogni caso gli esami non potranno essere sospesi per piu' di due anni qualunque sia il numero di coloro i quali posseggono i requisiti per parteciparvi.
 
-### Art. 10
+## Art. 10
 
 Con decreto del Presidente della Repubblica, da emanarsi su proposta del Ministro per la pubblica istruzione di concerto con quello per il tesoro, saranno fissate le norme che, ai sensi delle vigenti disposizioni, disciplineranno gli esami di merito distinto e di idoneita' previsti, dagli articoli precedenti.
 
-### Art. 11
+## Art. 11
 
 I posti di personale insegnante tecnico-pratico non di ruolo previsti dalle tabelle organiche degli istituti e delle scuole di istruzione tecnica, e i posti di ruolo vacanti per assenza dei titolari sono temporaneamente conferiti dai capi d'istituto a personale non di ruolo secondo le modalita' che saranno stabilite dal Ministro per la pubblica istruzione.
 
@@ -104,7 +104,7 @@ I posti di personale insegnante tecnico-pratico non di ruolo previsti dalle tabe
 
 ## Disposizioni transitorie.
 
-### Art. 12
+## Art. 12
 
 Gli assistenti, i capi officina, i tecnici agrari e le maestre di laboratorio, in servizio alla data di entrata in vigore del presente decreto, assunti ai posti previsti dalla tabella C allegata alla legge 15 giugno 1931, n. 889, sono inquadrati nei corrispondenti ruoli di cui alla tabella A, annessa al presente decreto, a seguito di giudizio di idoneita' da accertare mediante ispezione che sara' disposta dal Ministro per la pubblica istruzione.
 
@@ -116,31 +116,31 @@ Sono inquadrati al grado iniziale del ruolo di cui all'annessa tabella A i tecni
 
 L'inquadramento e' subordinato a un giudizio di idoneita' da accertare mediante ispezione che sara' disposta dal Ministro per la pubblica istruzione.
 
-### Art. 12-bis
+## Art. 12-bis
 
 ((I posti di capi officina, di tecnici agrari, di maestre di laboratorio e di assistenti negli istituti e nelle scuole di istruzione tecnica messi a concorso con decreto del Ministro per la pubblica istruzione del 4 luglio 1947, sono da considerare posti di insegnanti tecnici pratici.
 
 I vincitori dei concorsi di cui al precedente comma conseguono la nomina ad insegnanti tecnici pratici in prova, a norma della tabella A annessa alla presente legge, con provvedimenti aventi effetto da data non anteriore al 1° agosto 1950)).
 
-### Art. 13
+## Art. 13
 
 ((Gli attuali sottocapi officina, sottotecnici agrari e sottomaestre di laboratorio, che siano in possesso del titolo di studio prescritto per l'ammissione ai concorsi previsti dal regio decreto 16 ottobre 1934, n. 1840, per i posti di capi officina, di tecnici agrari e di maestre di laboratorio, o che abbiano conseguito l'idoneita' per i posti anzidetti in precedenti concorsi, oppure abbiano esercitato lodevolmente per non meno di sei anni le funzioni proprie dei capi officina, dei tecnici agrari e delle maestre di laboratorio, sono inquadrati ai grado iniziale dei ruoli degli insegnanti tecnici pratici previsti dalla presente legge per le scuole tecniche e professionali femminili, subordinatamente all'esito favorevole di un esame d'idoneita' su programma da stabilirsi con ordinanza del Ministro per la pubblica istruzione)).
 
-### Art. 13-bis
+## Art. 13-bis
 
 ((Sono mantenuti fino ad esaurimento in aggiunta ai posti occupati dal personale, indicati nell'art. 14 della presente legge, pure i posti di sottocapi officina messi a concorso con decreti del Ministro per la pubblica istruzione del 4 luglio 1947.
 
 Ai vincitori dei concorsi di cui al precedente comma, da nominare con provvedimenti aventi effetto da data non anteriore al 1° agosto 1950, si applicano le norme del precedente art. 13 dopo superato il periodo di prova di sei mesi)).
 
-### Art. 14
+## Art. 14
 
 Il personale che non risultera' idoneo, ai sensi dei precedenti articoli 12 e 13 per l'inquadramento nei ruoli previsti dall'annessa tabella A, continuera' a prestare servizio con le qualifiche e il trattamento giuridico ed economico previsti per i ruoli di appartenenza attuale che saranno mantenuti fino ad esaurimento, e risultanti dalla tabella B annessa al presente decreto.
 
-### Art. 15
+## Art. 15
 
 Rimangono in vigore le disposizioni che non sono incompatibili con il presente decreto.
 
-### Art. 16
+## Art. 16
 
 Il Ministro per il tesoro e' autorizzato ad apportare con suo decreto le occorrenti variazioni di bilancio.
 
@@ -160,7 +160,7 @@ Atti del Governo, registro n. 24, foglio n. 95. - FRASCA
 
 ## Disposizioni transitorie.
 
-### art. 1
+## art. 1
 
 TABELLA A
 

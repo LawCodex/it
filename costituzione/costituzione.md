@@ -30,43 +30,43 @@ la Costituzione della Repubblica Italiana nel seguente testo:
 
 ## COSTITUZIONE DELLA REPUBBLICA ITALIANA - PRINCIPI FONDAMENTALI
 
-###### Art. 1
+##### Art. 1
 
 L'Italia e' una Repubblica democratica, fondata sul lavoro.
 
 La sovranita' appartiene al popolo, che la esercita nelle forme e nei limiti della Costituzione.
 
-###### Art. 2
+##### Art. 2
 
 La Repubblica riconosce e garantisce i diritti inviolabili dell'uomo, sia come singolo sia nelle formazioni sociali ove si svolge la sua personalita', e richiede l'adempimento dei doveri inderogabili di solidarieta' politica, economica e sociale.
 
-###### Art. 3
+##### Art. 3
 
 Tutti i cittadini hanno pari dignita' sociale e sono eguali davanti alla legge, senza distinzione di sesso, di razza, di lingua, di religione, di opinioni politiche, di condizioni personali e sociali.
 
 E' compito della Repubblica rimuovere gli ostacoli di ordine economico e sociale, che, limitando di fatto la liberta' e l'eguaglianza dei cittadini, impediscono il pieno sviluppo della persona umana e l'effettiva partecipazione di tutti i lavoratori all'organizzazione politica, economica e sociale del Paese.
 
-###### Art. 4
+##### Art. 4
 
 La Repubblica riconosce a tutti i cittadini il diritto al lavoro e promuove le condizioni che rendano effettivo questo diritto.
 
 Ogni cittadino ha il dovere di svolgere, secondo le proprie possibilita' e la propria scelta, un'attivita' o una funzione che concorra al progresso materiale o spirituale della societa'.
 
-###### Art. 5
+##### Art. 5
 
 La Repubblica, una e indivisibile, riconosce e promuove le autonomie locali; attua nei servizi che dipendono dallo Stato il piu' ampio decentramento amministrativo; adegua i principi ed i metodi della sua legislazione alle esigenze dell'autonomia e del decentramento.
 
-###### Art. 6
+##### Art. 6
 
 La Repubblica tutela con apposite norme le minoranze linguistiche.
 
-###### Art. 7
+##### Art. 7
 
 Lo Stato e la Chiesa cattolica sono, ciascuno nel proprio ordine, indipendenti e sovrani.
 
 I loro rapporti sono regolati dai Patti Lateranensi. Le modificazioni dei Patti, accettate dalle due parti, non richiedono procedimento di revisione costituzionale.
 
-###### Art. 8
+##### Art. 8
 
 Tutte le confessioni religiose sono egualmente libere davanti alla legge.
 
@@ -74,7 +74,7 @@ Le confessioni religiose diverse dalla cattolica hanno diritto di organizzarsi s
 
 I loro rapporti con lo Stato sono regolati per legge sulla base di intese con le relative rappresentanze.
 
-###### Art. 9
+##### Art. 9
 
 La Repubblica promuove lo sviluppo della cultura e la ricerca scientifica e tecnica.
 
@@ -82,7 +82,7 @@ Tutela il paesaggio e il patrimonio storico e artistico della Nazione.
 
 ((Tutela l'ambiente, la biodiversita' e gli ecosistemi, anche nell'interesse delle future generazioni. La legge dello Stato disciplina i modi e le forme di tutela degli animali)).
 
-###### Art. 10
+##### Art. 10
 
 L'ordinamento giuridico italiano si conforma alle norme del diritto internazionale generalmente riconosciute.
 
@@ -98,19 +98,19 @@ AGGIORNAMENTO (5)
 
 La L. costituzionale 21 giugno 1967, n. 1 ha disposto (con l'articolo unico) che l'ultimo comma del presente articolo non si applica ai delitti di genocidio.
 
-###### Art. 11
+##### Art. 11
 
 L'Italia ripudia la guerra come strumento di offesa alla liberta' degli altri popoli e come mezzo di risoluzione delle controversie internazionali; consente, in condizioni di parita' con gli altri Stati, alle limitazioni di sovranita' necessarie ad un ordinamento che assicuri la pace e la giustizia fra le Nazioni; promuove e favorisce le organizzazioni internazionali rivolte a tale scopo.
 
-###### Art. 12
+##### Art. 12
 
 La bandiera della Repubblica e' il tricolore italiano: verde, bianco e rosso, a tre bande verticali di eguali dimensioni.
 
-### PARTE I - DIRITTI E DOVERI DEI CITTADINI
+## PARTE I - DIRITTI E DOVERI DEI CITTADINI
 
-#### TITOLO I - RAPPORTI CIVILI
+### TITOLO I - RAPPORTI CIVILI
 
-###### Art. 13
+##### Art. 13
 
 La liberta' personale e' inviolabile.
 
@@ -122,7 +122,7 @@ E' punita ogni violenza fisica e morale sulle persone comunque sottoposte a rest
 
 La legge stabilisce i limiti massimi della carcerazione preventiva.
 
-###### Art. 14
+##### Art. 14
 
 Il domicilio e' inviolabile.
 
@@ -130,19 +130,19 @@ Non vi si possono eseguire ispezioni o perquisizioni o sequestri, se non nei cas
 
 Gli accertamenti e le ispezioni per motivi di sanita' e di incolumita' pubblica o a fini economici e fiscali sono regolati da leggi speciali.
 
-###### Art. 15
+##### Art. 15
 
 La liberta' e la segretezza della corrispondenza e di ogni altra forma di comunicazione sono inviolabili.
 
 La loro limitazione puo' avvenire soltanto per atto motivato dell'autorita' giudiziaria con le garanzie stabilite dalla legge.
 
-###### Art. 16
+##### Art. 16
 
 Ogni cittadino puo' circolare e soggiornare liberamente in qualsiasi parte del territorio nazionale, salvo le limitazioni che la legge stabilisce in via generale per motivi di sanita' o di sicurezza. Nessuna restrizione puo' essere determinata da ragioni politiche.
 
 Ogni cittadino e' libero di uscire dal territorio della Repubblica e di rientrarvi, salvo gli obblighi di legge.
 
-###### Art. 17
+##### Art. 17
 
 I cittadini hanno diritto di riunirsi pacificamente e senz'armi.
 
@@ -150,21 +150,21 @@ Per le riunioni, anche in luogo aperto al pubblico, non e' richiesto preavviso.
 
 Delle riunioni in luogo pubblico deve essere dato preavviso alle autorita', che possono vietarle soltanto per comprovati motivi di sicurezza o di incolumita' pubblica.
 
-###### Art. 18
+##### Art. 18
 
 I cittadini hanno diritto di associarsi liberamente, senza autorizzazione, per fini che non sono vietati ai singoli dalla legge penale.
 
 Sono proibite le associazioni segrete e quelle che perseguono, anche indirettamente, scopi politici mediante organizzazioni di carattere militare.
 
-###### Art. 19
+##### Art. 19
 
 Tutti hanno diritto di professare liberamente la propria fede religiosa in qualsiasi forma, individuale o associata, di farne propaganda e di esercitarne in privato o in pubblico il culto, purche' non si tratti di riti contrari al buon costume.
 
-###### Art. 20
+##### Art. 20
 
 Il carattere ecclesiastico e il fine di religione o di culto d'una associazione od istituzione non possono essere causa di speciali limitazioni legislative, ne' di speciali gravami fiscali per la sua costituzione, capacita' giuridica e ogni forma di attivita'.
 
-###### Art. 21
+##### Art. 21
 
 Tutti hanno diritto di manifestare liberamente il proprio pensiero con la parola, lo scritto e ogni altro mezzo di diffusione.
 
@@ -178,15 +178,15 @@ La legge puo' stabilire, con norme di carattere generale, che siano resi noti i 
 
 Sono vietate le pubblicazioni a stampa, gli spettacoli e tutte le altre manifestazioni contrarie al buon costume. La legge stabilisce provvedimenti adeguati a prevenire e a reprimere le violazioni.
 
-###### Art. 22
+##### Art. 22
 
 Nessuno puo' essere privato, per motivi politici, della capacita' giuridica, della cittadinanza, del nome.
 
-###### Art. 23
+##### Art. 23
 
 Nessuna prestazione personale o patrimoniale puo' essere imposta se non in base alla legge.
 
-###### Art. 24
+##### Art. 24
 
 Tutti possono agire in giudizio per la tutela dei propri diritti e interessi legittimi.
 
@@ -196,7 +196,7 @@ Sono assicurati ai non abbienti, con appositi istituti, i mezzi per agire e dife
 
 La legge determina le condizioni e i modi per la riparazione degli errori giudiziari.
 
-###### Art. 25
+##### Art. 25
 
 Nessuno puo' essere distolto dal giudice naturale precostituito per legge.
 
@@ -204,7 +204,7 @@ Nessuno puo' essere punito se non in forza di una legge che sia entrata in vigor
 
 Nessuno puo' essere sottoposto a misure di sicurezza se non nei casi previsti dalla legge.
 
-###### Art. 26
+##### Art. 26
 
 L'estradizione del cittadino puo' essere consentita soltanto ove sia espressamente prevista dalle convenzioni internazionali.
 
@@ -216,7 +216,7 @@ AGGIORNAMENTO (5)
 
 La L. costituzionale 21 giugno 1967, n. 1 ha disposto (con l'articolo unico) che l'ultimo comma del presente articolo non si applica ai delitti di genocidio.
 
-###### Art. 27
+##### Art. 27
 
 La responsabilita' penale e' personale.
 
@@ -226,19 +226,19 @@ Le pene non possono consistere in trattamenti contrari al senso di umanita' e de
 
 Non e' ammessa la pena di morte (( . . . )).
 
-###### Art. 28
+##### Art. 28
 
 I funzionari e i dipendenti dello Stato e degli enti pubblici sono direttamente responsabili, secondo le leggi penali, civili e amministrative, degli atti compiuti in violazione di diritti. In tali casi la responsabilita' civile si estende allo Stato e agli enti pubblici.
 
-#### TITOLO II - RAPPORTI ETICO-SOCIALI
+### TITOLO II - RAPPORTI ETICO-SOCIALI
 
-###### Art. 29
+##### Art. 29
 
 La Repubblica riconosce i diritti della famiglia come societa' naturale fondata sul matrimonio.
 
 Il matrimonio e' ordinato sull'eguaglianza morale e giuridica dei coniugi, con i limiti stabiliti dalla legge a garanzia dell'unita' familiare.
 
-###### Art. 30
+##### Art. 30
 
 E' dovere e diritto dei genitori mantenere, istruire ed educare i figli, anche se nati fuori del matrimonio.
 
@@ -248,19 +248,19 @@ La legge assicura ai figli nati fuori del matrimonio ogni tutela giuridica e soc
 
 La legge detta le norme e i limiti per la ricerca della paternita'.
 
-###### Art. 31
+##### Art. 31
 
 La Repubblica agevola con misure economiche e altre provvidenze la formazione della famiglia e l'adempimento dei compiti relativi, con particolare riguardo alle famiglie numerose.
 
 Protegge la maternita', l'infanzia e la gioventu', favorendo gli istituti necessari a tale scopo.
 
-###### Art. 32
+##### Art. 32
 
 La Repubblica tutela la salute come fondamentale diritto dell'individuo e interesse della collettivita', e garantisce cure gratuite agli indigenti.
 
 Nessuno puo' essere obbligato a un determinato trattamento sanitario se non per disposizione di legge. La legge non puo' in nessun caso violare i limiti imposti dal rispetto della persona umana.
 
-###### Art. 33
+##### Art. 33
 
 L'arte e la scienza sono libere e libero ne e' l'insegnamento.
 
@@ -276,7 +276,7 @@ Le istituzioni di alta cultura, universita' ed accademie, hanno il diritto di da
 
 ((La Repubblica riconosce il valore educativo, sociale e di promozione del benessere psicofisico dell'attivita' sportiva in tutte le sue forme)).
 
-###### Art. 34
+##### Art. 34
 
 La scuola e' aperta a tutti.
 
@@ -286,9 +286,9 @@ I capaci e meritevoli, anche se privi di mezzi, hanno diritto di raggiungere i g
 
 La Repubblica rende effettivo questo diritto con borse di studio, assegni alle famiglie ed altre provvidenze, che devono essere attribuite per concorso.
 
-#### TITOLO III - RAPPORTI ECONOMICI
+### TITOLO III - RAPPORTI ECONOMICI
 
-###### Art. 35
+##### Art. 35
 
 La Repubblica tutela il lavoro in tutte le sue forme ed applicazioni.
 
@@ -298,7 +298,7 @@ Promuove e favorisce gli accordi e le organizzazioni internazionali intesi ad af
 
 Riconosce la liberta' di emigrazione, salvo gli obblighi stabiliti dalla legge nell'interesse generale, e tutela il lavoro italiano all'estero.
 
-###### Art. 36
+##### Art. 36
 
 Il lavoratore ha diritto ad una retribuzione proporzionata alla quantita' e qualita' del suo lavoro e in ogni caso sufficiente ad assicurare a se' e alla famiglia un'esistenza libera e dignitosa.
 
@@ -306,7 +306,7 @@ La durata massima della giornata lavorativa e' stabilita dalla legge.
 
 Il lavoratore ha diritto al riposo settimanale e a ferie annuali retribuite, e non puo' rinunziarvi.
 
-###### Art. 37
+##### Art. 37
 
 La donna lavoratrice ha gli stessi diritti e, a parita' di lavoro, le stesse retribuzioni che spettano al lavoratore. Le condizioni di lavoro devono consentire l'adempimento della sua essenziale funzione familiare e assicurare alla madre e al bambino una speciale adeguata protezione.
 
@@ -314,7 +314,7 @@ La legge stabilisce il limite minimo di eta' per il lavoro salariato.
 
 La Repubblica tutela il lavoro dei minori con speciali norme e garantisce ad essi, a parita' di lavoro, il diritto alla parita' di retribuzione.
 
-###### Art. 38
+##### Art. 38
 
 Ogni cittadino inabile al lavoro e sprovvisto dei mezzi necessari per vivere ha diritto al mantenimento e all'assistenza sociale.
 
@@ -326,7 +326,7 @@ Ai compiti previsti in questo articolo provvedono organi ed istituti predisposti
 
 L'assistenza privata e' libera.
 
-###### Art. 39
+##### Art. 39
 
 L'organizzazione sindacale e' libera.
 
@@ -338,11 +338,11 @@ E' condizione per la registrazione che gli statuti dei sindacati sanciscano un o
 
 I sindacati registrati hanno personalita' giuridica. Possono, rappresentati unitariamente in proporzione dei loro iscritti, stipulare contratti collettivi di lavoro con efficacia obbligatoria per tutti gli appartenenti alle categorie alle quali il contratto si riferisce.
 
-###### Art. 40
+##### Art. 40
 
 Il diritto di sciopero si esercita nell'ambito delle leggi che lo regolano.
 
-###### Art. 41
+##### Art. 41
 
 L'iniziativa economica privata e' libera.
 
@@ -350,7 +350,7 @@ Non puo' svolgersi in contrasto con l'utilita' sociale o in modo da recare danno
 
 La legge determina i programmi e i controlli opportuni perche' l'attivita' economica pubblica e privata possa essere indirizzata e coordinata a fini sociali ((e ambientali)).
 
-###### Art. 42
+##### Art. 42
 
 La proprieta' e' pubblica o privata. I beni economici appartengono allo Stato, ad enti o a privati.
 
@@ -360,35 +360,35 @@ La proprieta' privata puo' essere, nei casi preveduti dalla legge, e salvo inden
 
 La legge stabilisce le norme ed i limiti della successione legittima e testamentaria e i diritti dello Stato sulle eredita'.
 
-###### Art. 43
+##### Art. 43
 
 A fini di utilita' generale la legge puo' riservare originariamente o trasferire, mediante espropriazione e salvo indennizzo, allo Stato, ad enti pubblici o a comunita' di lavoratori o di utenti determinate imprese o categorie di imprese, che si riferiscano a servizi pubblici essenziali o a fonti di energia o a situazioni di monopolio ed abbiano carattere di preminente interesse generale.
 
-###### Art. 44
+##### Art. 44
 
 Al fine di conseguire il razionale sfruttamento del suolo e di stabilire equi rapporti sociali, la legge impone obblighi e vincoli alla proprieta' terriera privata, fissa limiti alla sua estensione secondo le regioni e le zone agrarie, promuove ed impone la bonifica delle terre, la trasformazione del latifondo e la ricostituzione delle unita' produttive; aiuta la piccola e la media proprieta'.
 
 La legge dispone provvedimenti a favore delle zone montane.
 
-###### Art. 45
+##### Art. 45
 
 La Repubblica riconosce la funzione sociale della cooperazione a carattere di mutualita' e senza fini di speculazione privata. La legge ne promuove e favorisce l'incremento con i mezzi piu' idonei e ne assicura, con gli opportuni controlli, il carattere e le finalita'.
 
 La legge provvede alla tutela e allo sviluppo dell'artigianato.
 
-###### Art. 46
+##### Art. 46
 
 Ai fini della elevazione economica e sociale del lavoro e in armonia con le esigenze della produzione, la Repubblica riconosce il diritto dei lavoratori a collaborare, nei modi e nei limiti stabiliti dalle leggi, alla gestione delle aziende.
 
-###### Art. 47
+##### Art. 47
 
 La Repubblica incoraggia e tutela il risparmio in tutte le sue forme; disciplina, coordina e controlla l'esercizio del credito.
 
 Favorisce l'accesso del risparmio popolare alla proprieta' dell'abitazione, alla proprieta' diretta coltivatrice e al diretto e indiretto investimento azionario nei grandi complessi produttivi del Paese.
 
-#### TITOLO IV - RAPPORTI POLITICI
+### TITOLO IV - RAPPORTI POLITICI
 
-###### Art. 48
+##### Art. 48
 
 Sono elettori tutti i cittadini, uomini e donne, che hanno raggiunto la maggiore eta'.
 
@@ -398,15 +398,15 @@ Il voto e' personale ed eguale, libero e segreto. Il suo esercizio e' dovere civ
 
 Il diritto di voto non puo' essere limitato se non per incapacita' civile o per effetto di sentenza penale irrevocabile o nei casi di indegnita' morale indicati dalla legge.
 
-###### Art. 49
+##### Art. 49
 
 Tutti i cittadini hanno diritto di associarsi liberamente in partiti per concorrere con metodo democratico a determinare la politica nazionale.
 
-###### Art. 50
+##### Art. 50
 
 Tutti i cittadini possono rivolgere petizioni alle Camere per chiedere provvedimenti legislativi o esporre comuni necessita'.
 
-###### Art. 51
+##### Art. 51
 
 Tutti i cittadini dell'uno o dell'altro sesso possono accedere agli uffici pubblici e alle cariche elettive in condizioni di eguaglianza, secondo i requisiti stabiliti dalla legge. ((A tale fine la Repubblica promuove con appositi provvedimenti le pari opportunita' tra donne e uomini)).
 
@@ -414,7 +414,7 @@ La legge puo', per l'ammissione ai pubblici uffici e alle cariche elettive, pari
 
 Chi e' chiamato a funzioni pubbliche elettive ha diritto di disporre del tempo necessario al loro adempimento e di conservare il suo posto di lavoro.
 
-###### Art. 52
+##### Art. 52
 
 La difesa della Patria e' sacro dovere del cittadino.
 
@@ -422,31 +422,31 @@ Il servizio militare e' obbligatorio nei limiti e modi stabiliti dalla legge. Il
 
 L'ordinamento delle Forze armate si informa allo spirito democratico della Repubblica.
 
-###### Art. 53
+##### Art. 53
 
 Tutti sono tenuti a concorrere alle spese pubbliche in ragione della loro capacita' contributiva.
 
 Il sistema tributario e' informato a criteri di progressivita'.
 
-###### Art. 54
+##### Art. 54
 
 Tutti i cittadini hanno il dovere di essere fedeli alla Repubblica e di osservarne la Costituzione e le leggi.
 
 I cittadini cui sono affidate funzioni pubbliche hanno il dovere di adempierle con disciplina ed onore, prestando giuramento nei casi stabiliti dalla legge.
 
-### PARTE II - ORDINAMENTO DELLA REPUBBLICA
+## PARTE II - ORDINAMENTO DELLA REPUBBLICA
 
-#### TITOLO I - IL PARLAMENTO
+### TITOLO I - IL PARLAMENTO
 
-##### SEZIONE I - Le Camere.
+#### SEZIONE I - Le Camere.
 
-###### Art. 55
+##### Art. 55
 
 Il Parlamento si compone della Camera dei deputati e del Senato della Repubblica.
 
 Il Parlamento si riunisce in seduta comune dei membri delle due Camere nei soli casi stabiliti dalla Costituzione.
 
-###### Art. 56
+##### Art. 56
 
 La Camera dei deputati e' eletta a suffragio universale e diretto.
 
@@ -470,7 +470,7 @@ AGGIORNAMENTO (20)
 
 La L. costituzionale 19 ottobre 2020, n. 1 ha disposto (con l'art. 4, comma 1) che le presenti modifiche si applicano a decorrere dalla data del primo scioglimento o della prima cessazione delle Camere successiva alla data di entrata in vigore della suddetta legge costituzionale e comunque non prima che siano decorsi sessanta giorni dalla predetta data di entrata in vigore.
 
-###### Art. 57
+##### Art. 57
 
 Il Senato della Repubblica e' eletto a base regionale, salvi i seggi assegnati alla circoscrizione Estero.
 
@@ -494,19 +494,19 @@ AGGIORNAMENTO (20)
 
 La L. costituzionale 19 ottobre 2020, n. 1 ha disposto (con l'art. 4, comma 1) che le presenti modifiche si applicano a decorrere dalla data del primo scioglimento o della prima cessazione delle Camere successiva alla data di entrata in vigore della suddetta legge costituzionale e comunque non prima che siano decorsi sessanta giorni dalla predetta data di entrata in vigore.
 
-###### Art. 58
+##### Art. 58
 
 I senatori sono eletti a suffragio universale e diretto ((...)).
 
 Sono eleggibili a senatori gli elettori che hanno compiuto il quarantesimo anno.
 
-###### Art. 59
+##### Art. 59
 
 E' senatore di diritto e a vita, salvo rinunzia, chi e' stato Presidente della Repubblica.
 
 ((Il Presidente della Repubblica puo' nominare senatori a vita cittadini che hanno illustrato la Patria per altissimi meriti nel campo sociale, scientifico, artistico e letterario. Il numero complessivo dei senatori in carica nominati dal Presidente della Repubblica non puo' in alcun caso essere superiore a cinque)).
 
-###### Art. 60
+##### Art. 60
 
 ((La Camera dei deputati e il Senato della Repubblica sono eletti per cinque anni.
 
@@ -520,13 +520,13 @@ La L. costituzionale 9 febbraio 1963, n. 2, ha disposto (con l'art.
 
 5\) che la suddetta modifica entra in vigore con la prima convocazione dei comizi elettorali successiva alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica.
 
-###### Art. 61
+##### Art. 61
 
 Le elezioni delle nuove Camere hanno luogo entro settanta giorni dalla fine delle precedenti. La prima riunione ha luogo non oltre il ventesimo giorno dalle elezioni.
 
 Finche' non siano riunite le nuove Camere sono prorogati i poteri delle precedenti.
 
-###### Art. 62
+##### Art. 62
 
 Le Camere si riuniscono di diritto il primo giorno non festivo di febbraio e di ottobre.
 
@@ -534,13 +534,13 @@ Ciascuna Camera puo' essere convocata in via straordinaria per iniziativa del su
 
 Quando si riunisce in via straordinaria una Camera, e' convocata di diritto anche l'altra.
 
-###### Art. 63
+##### Art. 63
 
 Ciascuna Camera elegge fra i suoi componenti il Presidente e l'Ufficio di presidenza.
 
 Quando il Parlamento si riunisce in seduta comune, il Presidente e l'Ufficio di presidenza sono quelli della Camera dei deputati.
 
-###### Art. 64
+##### Art. 64
 
 Ciascuna Camera adotta il proprio regolamento a maggioranza assoluta dei suoi componenti.
 
@@ -550,21 +550,21 @@ Le deliberazioni di ciascuna Camera e del Parlamento non sono valide se non e' p
 
 I membri del Governo, anche se non fanno parte delle Camere, hanno diritto, e se richiesti obbligo, di assistere alle sedute. Devono essere sentiti ogni volta che lo richiedono.
 
-###### Art. 65
+##### Art. 65
 
 La legge determina i casi di ineleggibilita' e di incompatibilita' con l'ufficio di deputato o di senatore.
 
 Nessuno puo' appartenere contemporaneamente alle due Camere.
 
-###### Art. 66
+##### Art. 66
 
 Ciascuna Camera giudica dei titoli di ammissione dei suoi componenti e delle cause sopraggiunte di ineleggibilita' e di incompatibilita'.
 
-###### Art. 67
+##### Art. 67
 
 Ogni membro del Parlamento rappresenta la Nazione ed esercita le sue funzioni senza vincolo di mandato.
 
-###### Art. 68
+##### Art. 68
 
 ((I membri del Parlamento non possono essere chiamati a rispondere delle opinioni espresse e dei voti dati nell'esercizio delle loro funzioni.
 
@@ -572,23 +572,23 @@ Senza autorizzazione della Camera alla quale appartiene, nessun membro del Parla
 
 Analoga autorizzazione e' richiesta per sottoporre i membri del Parlamento ad intercettazioni, in qualsiasi forma, di conversazioni o comunicazioni e a sequestro di corrispondenza)).
 
-###### Art. 69
+##### Art. 69
 
 I membri del Parlamento ricevono una indennita' stabilita dalla legge.
 
-##### SEZIONE II - La formazione delle leggi.
+#### SEZIONE II - La formazione delle leggi.
 
-###### Art. 70
+##### Art. 70
 
 La funzione legislativa e' esercitata collettivamente dalle due Camere.
 
-###### Art. 71
+##### Art. 71
 
 L'iniziativa delle leggi appartiene al Governo, a ciascun membro delle Camere ed agli organi ed enti ai quali sia conferita da legge costituzionale.
 
 Il popolo esercita l'iniziativa delle leggi, mediante la proposta, da parte di almeno cinquantamila elettori, di un progetto redatto in articoli.
 
-###### Art. 72
+##### Art. 72
 
 Ogni disegno di legge, presentato ad una Camera e', secondo le norme del suo regolamento, esaminato da una commissione e poi dalla Camera stessa, che l'approva articolo per articolo e con votazione finale.
 
@@ -598,7 +598,7 @@ Puo' altresi' stabilire in quali casi e forme l'esame e l'approvazione dei diseg
 
 La procedura normale di esame e di approvazione diretta da parte della Camera e' sempre adottata per i disegni di legge in materia costituzionale ed elettorale e per quelli di delegazione legislativa, di autorizzazione a ratificare trattati internazionali, di approvazione di bilanci e consuntivi.
 
-###### Art. 73
+##### Art. 73
 
 Le leggi sono promulgate dal Presidente della Repubblica entro un mese dall'approvazione.
 
@@ -606,13 +606,13 @@ Se le Camere, ciascuna a maggioranza assoluta dei propri componenti, ne dichiara
 
 Le leggi sono pubblicate subito dopo la promulgazione ed entrano in vigore il quindicesimo giorno successivo alla loro pubblicazione, salvo che le leggi stesse stabiliscano un termine diverso.
 
-###### Art. 74
+##### Art. 74
 
 Il Presidente della Repubblica, prima di promulgare la legge, puo' con messaggio motivato alle Camere chiedere una nuova deliberazione.
 
 Se le Camere approvano nuovamente la legge, questa deve essere promulgata.
 
-###### Art. 75
+##### Art. 75
 
 E' indetto referendum popolare per deliberare la abrogazione, totale o parziale, di una legge o di un atto avente valore di legge, quando lo richiedono cinquecentomila elettori o cinque Consigli regionali.
 
@@ -624,11 +624,11 @@ La proposta soggetta a referendum e' approvata se ha partecipato alla votazione 
 
 La legge determina le modalita' di attuazione del referendum.
 
-###### Art. 76
+##### Art. 76
 
 L'esercizio della funzione legislativa non puo essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
 
-###### Art. 77
+##### Art. 77
 
 Il Governo non puo', senza delegazione delle Camere, emanare decreti che abbiano valore di legge ordinaria.
 
@@ -636,11 +636,11 @@ Quando, in casi straordinari di necessita' e d'urgenza, il Governo adotta, sotto
 
 I decreti perdono efficacia sin dall'inizio, se non sono convertiti in legge entro sessanta giorni dalla loro pubblicazione. Le Camere possono tuttavia regolare con legge i rapporti giuridici sorti sulla base dei decreti non convertiti.
 
-###### Art. 78
+##### Art. 78
 
 Le Camere deliberano lo stato di guerra e conferiscono al Governo i poteri necessari.
 
-###### Art. 79
+##### Art. 79
 
 ((L'amnistia e l'indulto sono concessi con legge deliberata a maggioranza dei due terzi dei componenti di ciascuna Camera, in ogni suo articolo e nella votazione finale.
 
@@ -648,11 +648,11 @@ La legge che concede l'amnistia o l'indulto stabilisce il termine per la loro ap
 
 In ogni caso l'amnistia e l'indulto non possono applicarsi ai reati commessi successivamente alla presentazione del disegno di legge)).
 
-###### Art. 80
+##### Art. 80
 
 Le Camere autorizzano con legge la ratifica dei trattati internazionali che sono di natura politica, o prevedono arbitrati o regolamenti giudiziari, o importano variazioni del territorio od oneri alle finanze o modificazioni di leggi.
 
-###### Art. 81
+##### Art. 81
 
 ((Lo Stato assicura l'equilibrio tra le entrate e le spese del proprio bilancio, tenendo conto delle fasi avverse e delle fasi favorevoli del ciclo economico.
 
@@ -672,15 +672,15 @@ AGGIORNAMENTO (19)
 
 La L. costituzionale 20 aprile 2012, n. 1 ha disposto (con l'art. 6, comma 1) che le suddette modifiche si applicano a decorrere dall'esercizio finanziario relativo all'anno 2014.
 
-###### Art. 82
+##### Art. 82
 
 Ciascuna Camera puo' disporre inchieste su materie di pubblico interesse.
 
 A tale scopo nomina fra i propri componenti una commissione formata in modo da rispecchiare la proporzione dei vari gruppi. La commissione d'inchiesta procede alle indagini e agli esami con gli stessi poteri e le stesse limitazioni dell'autorita' giudiziaria.
 
-#### TITOLO II - IL PRESIDENTE DELLA REPUBBLICA
+### TITOLO II - IL PRESIDENTE DELLA REPUBBLICA
 
-###### Art. 83
+##### Art. 83
 
 Il Presidente della Repubblica e' eletto dal Parlamento in seduta comune dei suoi membri.
 
@@ -688,7 +688,7 @@ All'elezione partecipano tre delegati per ogni Regione eletti dal Consiglio regi
 
 L'elezione del Presidente della Repubblica ha luogo per scrutinio segreto a maggioranza di due terzi della assemblea. Dopo il terzo scrutinio e' sufficiente la maggioranza assoluta.
 
-###### Art. 84
+##### Art. 84
 
 Puo' essere eletto Presidente della Repubblica ogni cittadino che abbia compiuto cinquanta anni d'eta' e goda dei diritti civili e politici.
 
@@ -696,7 +696,7 @@ L'ufficio di Presidente della Repubblica e' incompatibile con qualsiasi altra ca
 
 L'assegno e la dotazione del Presidente sono determinati per legge.
 
-###### Art. 85
+##### Art. 85
 
 Il Presidente della Repubblica e' eletto per sette anni.
 
@@ -704,13 +704,13 @@ Trenta giorni prima che scada il termine, il Presidente della Camera dei deputat
 
 Se le Camere sono sciolte, o manca meno di tre mesi alla loro cessazione, la elezione ha luogo entro quindici giorni dalla riunione delle Camere nuove. Nel frattempo sono prorogati i poteri del Presidente in carica.
 
-###### Art. 86
+##### Art. 86
 
 Le funzioni del Presidente della Repubblica, in ogni caso che egli non possa adempierle, sono esercitate dal Presidente del Senato.
 
 In caso di impedimento permanente o di morte o di dimissioni del Presidente della Repubblica, il Presidente della Camera dei deputati indice la elezione del nuovo Presidente della Repubblica entro quindici giorni, salvo il maggior termine previsto se le Camere sono sciolte o manca meno di tre mesi alla loro cessazione.
 
-###### Art. 87
+##### Art. 87
 
 Il Presidente della Repubblica e' il capo dello Stato e rappresenta l'unita' nazionale.
 
@@ -738,43 +738,43 @@ Puo' concedere grazia e commutare le pene.
 
 Conferisce le onorificenze della Repubblica.
 
-###### Art. 88
+##### Art. 88
 
 Il Presidente della Repubblica puo', sentiti i loro Presidenti, sciogliere le Camere o anche una sola di esse.
 
 ((Non puo' esercitare tale facolta' negli ultimi sei mesi del suo mandato, salvo che essi coincidano in tutto o in parte con gli ultimi sei mesi della legislatura)).
 
-###### Art. 89
+##### Art. 89
 
 Nessun atto del Presidente della Repubblica e' valido se non e' controfirmato dai ministri proponenti, che ne assumono la responsabilita'.
 
 Gli atti che hanno valore legislativo e gli altri indicati dalla legge sono controfirmati anche dal Presidente del Consiglio dei ministri.
 
-###### Art. 90
+##### Art. 90
 
 Il Presidente della Repubblica non e' responsabile degli atti compiuti nell'esercizio delle sue funzioni, tranne che per alto tradimento o per attentato alla Costituzione.
 
 In tali casi e' messo in stato di accusa dal Parlamento in seduta comune, a maggioranza assoluta dei suoi membri.
 
-###### Art. 91
+##### Art. 91
 
 Il Presidente della Repubblica, prima di assumere le sue funzioni, presta giuramento di fedelta' alla Repubblica e di osservanza della Costituzione dinanzi al Parlamento in seduta comune.
 
-#### TITOLO III - IL GOVERNO
+### TITOLO III - IL GOVERNO
 
-##### SEZIONE I - Il Consiglio dei ministri.
+#### SEZIONE I - Il Consiglio dei ministri.
 
-###### Art. 92
+##### Art. 92
 
 Il Governo della Repubblica e' composto del Presidente del Consiglio e dei ministri, che costituiscono insieme il Consiglio dei ministri.
 
 Il Presidente della Repubblica nomina il Presidente del Consiglio dei ministri e, su proposta di questo, i ministri.
 
-###### Art. 93
+##### Art. 93
 
 Il Presidente del Consiglio dei ministri e i ministri, prima di assumere le funzioni, prestano giuramento nelle mani del Presidente della Repubblica.
 
-###### Art. 94
+##### Art. 94
 
 Il Governo deve avere la fiducia delle due Camere.
 
@@ -786,7 +786,7 @@ Il voto contrario di una o d'entrambe le Camere su una proposta del Governo non 
 
 La mozione di sfiducia deve essere firmata da almeno un decimo dei componenti della Camera e non puo' essere messa in discussione prima di tre giorni dalla sua presentazione.
 
-###### Art. 95
+##### Art. 95
 
 Il Presidente del Consiglio dei ministri dirige la politica generale del Governo e ne e' responsabile. Mantiene l'unita' di indirizzo politico ed amministrativo, promuovendo e coordinando l'attivita' dei ministri.
 
@@ -794,13 +794,13 @@ I ministri sono responsabili collegialmente degli atti del Consiglio dei ministr
 
 La legge provvede all'ordinamento della Presidenza del Consiglio e determina il numero, le attribuzioni e l'organizzazione dei ministeri.
 
-###### Art. 96
+##### Art. 96
 
 ((Il Presidente del Consiglio dei Ministri ed i Ministri, anche se cessati dalla carica, sono sottoposti, per i reati commessi nell'esercizio delle loro funzioni, alla giurisdizione ordinaria, previa autorizzazione del Senato della Repubblica o della Camera dei deputati, secondo le norme stabilite con legge costituzionale)).
 
-##### SEZIONE II - La Pubblica Amministrazione.
+#### SEZIONE II - La Pubblica Amministrazione.
 
-###### Art. 97
+##### Art. 97
 
 ((Le pubbliche amministrazioni, in coerenza con l'ordinamento dell'Unione europea, assicurano l'equilibrio dei bilanci e la sostenibilita' del debito pubblico)). ((19))
 
@@ -816,7 +816,7 @@ AGGIORNAMENTO (19)
 
 La L. costituzionale 20 aprile 2012, n. 1 ha disposto (con l'art. 6, comma 1) che la suddetta modifica si applica a decorrere dall'esercizio finanziario relativo all'anno 2014.
 
-###### Art. 98
+##### Art. 98
 
 I pubblici impiegati sono al servizio esclusivo della Nazione.
 
@@ -824,9 +824,9 @@ Se sono membri del Parlamento, non possono conseguire promozioni se non per anzi
 
 Si possono con legge stabilire limitazioni al diritto d'iscriversi ai partiti politici per i magistrati, i militari di carriera in servizio attivo, i funzionari ed agenti di polizia, i rappresentanti diplomatici e consolari all'estero.
 
-##### SEZIONE III - Gli organi ausiliari.
+#### SEZIONE III - Gli organi ausiliari.
 
-###### Art. 99
+##### Art. 99
 
 Il Consiglio nazionale dell'economia e del lavoro e' composto, nei modi stabiliti dalla legge, di esperti e di rappresentanti delle categorie produttive, in misura che tenga conto della loro importanza numerica e qualitativa.
 
@@ -834,7 +834,7 @@ E' organo di consulenza delle Camere e del Governo per le materie e secondo le f
 
 Ha l'iniziativa legislativa e puo' contribuire alla elaborazione della legislazione economica e sociale secondo i principi ed entro i limiti stabiliti dalla legge.
 
-###### Art. 100
+##### Art. 100
 
 Il Consiglio di Stato e' organo di consulenza giuridico-amministrativa e di tutela della giustizia nell'amministrazione.
 
@@ -842,17 +842,17 @@ La Corte dei conti esercita il controllo preventivo di legittimita' sugli atti d
 
 La legge assicura l'indipendenza dei due Istituti e dei loro componenti di fronte al Governo.
 
-#### TITOLO IV - LA MAGISTRATURA
+### TITOLO IV - LA MAGISTRATURA
 
-##### SEZIONE I - Ordinamento giurisdizionale.
+#### SEZIONE I - Ordinamento giurisdizionale.
 
-###### Art. 101
+##### Art. 101
 
 La giustizia e' amministrata in nome del popolo.
 
 I giudici sono soggetti soltanto alla legge.
 
-###### Art. 102
+##### Art. 102
 
 La funzione giurisdizionale e' esercitata da magistrati ordinari istituiti e regolati dalle norme sull'ordinamento giudiziario.
 
@@ -860,7 +860,7 @@ Non possono essere istituiti giudici straordinari o giudici speciali. Possono so
 
 La legge regola i casi e le forme della partecipazione diretta del popolo all'amministrazione della giustizia.
 
-###### Art. 103
+##### Art. 103
 
 Il Consiglio di Stato e gli altri organi di giustizia amministrativa hanno giurisdizione per la tutela nei confronti della pubblica amministrazione degli interessi legittimi e, in particolari materie indicate dalla legge, anche dei diritti soggettivi.
 
@@ -868,7 +868,7 @@ La Corte dei conti ha giurisdizione nelle materie di contabilita' pubblica e nel
 
 I tribunali militari in tempo di guerra hanno la giurisdizione stabilita dalla legge. In tempo di pace hanno giurisdizione soltanto per i reati militari commessi da appartenenti alle Forze armate.
 
-###### Art. 104
+##### Art. 104
 
 La magistratura costituisce un ordine autonomo e indipendente da ogni altro potere.
 
@@ -884,11 +884,11 @@ I membri elettivi del Consiglio durano in carica quattro anni e non sono immedia
 
 Non possono, finche' sono in carica, essere iscritti negli albi professionali, ne' far parte del Parlamento o di un Consiglio regionale.
 
-###### Art. 105
+##### Art. 105
 
 Spettano al Consiglio superiore della magistratura, secondo le norme dell'ordinamento giudiziario, le assunzioni, le assegnazioni ed i trasferimenti, le promozioni e i provvedimenti disciplinari nei riguardi dei magistrati.
 
-###### Art. 106
+##### Art. 106
 
 Le nomine dei magistrati hanno luogo per concorso.
 
@@ -896,7 +896,7 @@ La legge sull'ordinamento giudiziario puo' ammettere la nomina, anche elettiva, 
 
 Su designazione del Consiglio superiore della magistratura possono essere chiamati all'ufficio di consiglieri di cassazione, per meriti insigni, professori ordinari di universita' in materie giuridiche e avvocati che abbiano quindici anni d'esercizio e siano iscritti negli albi speciali per le giurisdizioni superiori.
 
-###### Art. 107
+##### Art. 107
 
 I magistrati sono inamovibili. Non possono essere dispensati o sospesi dal servizio ne' destinati ad altre ((sedi o funzioni)) se non in seguito a decisione del Consiglio superiore della magistratura, adottata o per i motivi e con le garanzie di difesa stabilite dall'ordinamento giudiziario o con il loro consenso.
 
@@ -906,23 +906,23 @@ I magistrati si distinguono fra loro soltanto per diversita' di funzioni.
 
 Il pubblico ministero gode delle garanzie stabilite nei suoi riguardi dalle norme sull'ordinamento giudiziario.
 
-###### Art. 108
+##### Art. 108
 
 Le norme sull'ordinamento giudiziario e su ogni magistratura sono stabilite con legge.
 
 La legge assicura l'indipendenza dei giudici delle giurisdizioni speciali, del pubblico ministero presso di esse, e degli estranei che partecipano all'amministrazione della giustizia.
 
-###### Art. 109
+##### Art. 109
 
 L'autorita' giudiziaria dispone direttamente della polizia giudiziaria.
 
-###### Art. 110
+##### Art. 110
 
 Ferme le competenze del Consiglio superiore della magistratura, spettano al Ministro della giustizia l'organizzazione e il funzionamento dei servizi relativi alla giustizia.
 
-##### SEZIONE II - Norme sulla giurisdizione.
+#### SEZIONE II - Norme sulla giurisdizione.
 
-###### Art. 111
+##### Art. 111
 
 ((La giurisdizione si attua mediante il giusto processo regolato dalla legge.
 
@@ -940,11 +940,11 @@ Contro le sentenze e contro i provvedimenti sulla liberta' personale, pronunciat
 
 Contro le decisioni del Consiglio di Stato e della Corte dei conti il ricorso in Cassazione e' ammesso per i soli motivi inerenti alla giurisdizione.
 
-###### Art. 112
+##### Art. 112
 
 Il pubblico ministero ha l'obbligo di esercitare l'azione penale.
 
-###### Art. 113
+##### Art. 113
 
 Contro gli atti della pubblica amministrazione e' sempre ammessa la tutela giurisdizionale dei diritti e degli interessi legittimi dinanzi agli organi di giurisdizione ordinaria o amministrativa.
 
@@ -952,9 +952,9 @@ Tale tutela giurisdizionale non puo' essere esclusa o limitata a particolari mez
 
 La legge determina quali organi di giurisdizione possono annullare gli atti della pubblica amministrazione nei casi e con gli effetti previsti dalla legge stessa.
 
-#### TITOLO V - LE REGIONI, LE PROVINCIE, I COMUNI
+### TITOLO V - LE REGIONI, LE PROVINCIE, I COMUNI
 
-###### Art. 114
+##### Art. 114
 
 ((La Repubblica e' costituita dai Comuni, dalle Province, dalle Citta' metropolitane, dalle Regioni e dallo Stato.
 
@@ -962,11 +962,11 @@ I Comuni, le Province, le Citta' metropolitane e le Regioni sono enti autonomi c
 
 Roma e' la capitale della Repubblica. La legge dello Stato disciplina il suo ordinamento)).
 
-###### Art. 115
+##### Art. 115
 
 ((ARTICOLO ABROGATO DALLA L. COSTITUZIONALE 18 OTTOBRE 2001, N. 3))
 
-###### Art. 116
+##### Art. 116
 
 ((Il Friuli Venezia Giulia, la Sardegna, la Sicilia, il Trentino-Alto Adige/Südtirol e la Valle d'Aosta/Vallee d'Aoste dispongono di forme e condizioni particolari di autonomia, secondo i rispettivi statuti speciali adottati con legge costituzionale.
 
@@ -974,7 +974,7 @@ La Regione Trentino-Alto Adige/Südtirol e' costituita dalle Province autonome d
 
 Ulteriori forme e condizioni particolari di autonomia, concernenti le materie di cui al terzo comma dell'articolo 117 e le materie indicate dal secondo comma del medesimo articolo alle lettere l), limitatamente all'organizzazione della giustizia di pace, n) e s), possono essere attribuite ad altre Regioni, con legge dello Stato, su iniziativa della Regione interessata, sentiti gli enti locali, nel rispetto dei principi di cui all'articolo 119. La legge e' approvata dalle Camere a maggioranza assoluta dei componenti, sulla base di intesa fra lo Stato e la Regione interessata)).
 
-###### Art. 117
+##### Art. 117
 
 La potesta' legislativa e' esercitata dallo Stato e dalle Regioni nel rispetto della Costituzione, nonche' dei vincoli derivanti dall'ordinamento comunitario e dagli obblighi internazionali.
 
@@ -1034,7 +1034,7 @@ AGGIORNAMENTO (19)
 
 La L. costituzionale 20 aprile 2012, n. 1 ha disposto (con l'art. 6, comma 1) che le suddette modifiche si applicano a decorrere dall'esercizio finanziario relativo all'anno 2014.
 
-###### Art. 118
+##### Art. 118
 
 ((Le funzioni amministrative sono attribuite ai Comuni salvo che, per assicurarne l'esercizio unitario, siano conferite a Province, Citta' metropolitane, Regioni e Stato, sulla base dei principi di sussidiarieta', differenziazione ed adeguatezza.
 
@@ -1044,7 +1044,7 @@ La legge statale disciplina forme di coordinamento fra Stato e Regioni nelle mat
 
 Stato, Regioni, Citta' metropolitane, Province e Comuni favoriscono l'autonoma iniziativa dei cittadini, singoli e associati, per lo svolgimento di attivita' di interesse generale, sulla base del principio di sussidiarieta')).
 
-###### Art. 119
+##### Art. 119
 
 I Comuni, le Province, le Citta' metropolitane e le Regioni hanno autonomia finanziaria di entrata e di spesa, nel rispetto dell'equilibrio dei relativi bilanci, e concorrono ad assicurare l'osservanza dei vincoli economici e finanziari derivanti dall'ordinamento dell'Unione europea. (19)
 
@@ -1066,13 +1066,13 @@ AGGIORNAMENTO (19)
 
 La L. costituzionale 20 aprile 2012, n. 1 ha disposto (con l'art. 6, comma 1) che le suddette modifiche si applicano a decorrere dall'esercizio finanziario relativo all'anno 2014.
 
-###### Art. 120
+##### Art. 120
 
 ((La Regione non puo' istituire dazi di importazione o esportazione o transito tra le Regioni, ne' adottare provvedimenti che ostacolino in qualsiasi modo la libera circolazione delle persone e delle cose tra le Regioni, ne' limitare l'esercizio del diritto al lavoro in qualunque parte del territorio nazionale.
 
 Il Governo puo' sostituirsi a organi delle Regioni, delle Citta' metropolitane, delle Province e dei Comuni nel caso di mancato rispetto di norme e trattati internazionali o della normativa comunitaria oppure di pericolo grave per l'incolumita' e la sicurezza pubblica, ovvero quando lo richiedono la tutela dell'unita' giuridica o dell'unita' economica e in particolare la tutela dei livelli essenziali delle prestazioni concernenti i diritti civili e sociali, prescindendo dai confini territoriali dei governi locali. La legge definisce le procedure atte a garantire che i poteri sostitutivi siano esercitati nel rispetto del principio di sussidiarieta' e del principio di leale collaborazione)).
 
-###### Art. 121
+##### Art. 121
 
 Sono organi della Regione: il Consiglio regionale, la Giunta e il suo presidente.
 
@@ -1082,7 +1082,7 @@ La Giunta regionale e' l'organo esecutivo delle Regioni.
 
 ((Il Presidente della Giunta rappresenta la Regione; dirige la politica della Giunta e ne e' responsabile; promulga le leggi ed emana i regolamenti regionali; dirige le funzioni amministrative delegate dallo Stato alla Regione, conformandosi alle istruzioni del Governo della Repubblica)).
 
-###### Art. 122
+##### Art. 122
 
 ((Il sistema di elezione e i casi di ineleggibilita' e di incompatibilita' del Presidente e degli altri componenti della Giunta regionale nonche' dei consiglieri regionali sono disciplinati con legge della Regione nei limiti dei principi fondamentali stabiliti con legge della Repubblica, che stabilisce anche la durata degli organi elettivi.
 
@@ -1094,7 +1094,7 @@ I consiglieri regionali non possono essere chiamati a rispondere delle opinioni 
 
 Il Presidente della Giunta regionale, salvo che lo statuto regionale disponga diversamente, e' eletto a suffragio universale e diretto. Il Presidente eletto nomina e revoca i componenti della Giunta)).
 
-###### Art. 123
+##### Art. 123
 
 Ciascuna Regione ha uno statuto che, in armonia con la Costituzione, ne determina la forma di governo e i principi fondamentali di organizzazione e funzionamento. Lo statuto regola l'esercizio del diritto di iniziativa e del referendum su leggi e provvedimenti amministrativi della Regione e la pubblicazione delle leggi e dei regolamenti regionali.
 
@@ -1104,17 +1104,17 @@ Lo statuto e' sottoposto a referendum popolare qualora entro tre mesi dalla sua 
 
 ((In ogni Regione, lo statuto disciplina il Consiglio delle autonomie locali, quale organo di consultazione fra la Regione e gli enti locali)).
 
-###### Art. 124
+##### Art. 124
 
 ((ARTICOLO ABROGATO DALLA L. COSTITUZIONALE 18 OTTOBRE 2001, N. 3))
 
-###### Art. 125
+##### Art. 125
 
 ((COMMA ABROGATO DALLA L. COSTITUZIONALE 18 OTTOBRE 2001, N. 3)).
 
 Nella Regione sono istituiti organi di giustizia amministrativa di primo grado, secondo l'ordinamento stabilito da legge della Repubblica. Possono istituirsi sezioni con sede diversa dal capoluogo della Regione.
 
-###### Art. 126
+##### Art. 126
 
 ((Con decreto motivato del Presidente della Repubblica sono disposti lo scioglimento del Consiglio regionale e la rimozione del Presidente della Giunta che abbiano compiuto atti contrari alla Costituzione o gravi violazioni di legge. Lo scioglimento e la rimozione possono altresi' essere disposti per ragioni di sicurezza nazionale. Il decreto e' adottato sentita una Commissione di deputati e senatori costituita, per le questioni regionali, nei modi stabiliti con legge della Repubblica.
 
@@ -1122,25 +1122,25 @@ Il Consiglio regionale puo' esprimere la sfiducia nei confronti del Presidente d
 
 L'approvazione della mozione di sfiducia nei confronti del Presidente della Giunta eletto a suffragio universale e diretto, nonche' la rimozione, l'impedimento permanente, la morte o le dimissioni volontarie dello stesso comportano le dimissioni della Giunta e lo scioglimento del Consiglio. In ogni caso i medesimi effetti conseguono alle dimissioni contestuali della maggioranza dei componenti il Consiglio)).
 
-###### Art. 127
+##### Art. 127
 
 ((Il Governo, quando ritenga che una legge regionale ecceda la competenza della Regione, puo' promuovere la questione di legittimita' costituzionale dinanzi alla Corte costituzionale entro sessanta giorni dalla sua pubblicazione.
 
 La Regione, quando ritenga che una legge o un atto avente valore di legge dello Stato o di un'altra Regione leda la sua sfera di competenza, puo' promuovere la questione di legittimita' costituzionale dinanzi alla Corte costituzionale entro sessanta giorni dalla pubblicazione della legge o dell'atto avente valore di legge)).
 
-###### Art. 128
+##### Art. 128
 
 ((ARTICOLO ABROGATO DALLA L. COSTITUZIONALE 18 OTTOBRE 2001, N. 3))
 
-###### Art. 129
+##### Art. 129
 
 ((ARTICOLO ABROGATO DALLA L. COSTITUZIONALE 18 OTTOBRE 2001, N. 3))
 
-###### Art. 130
+##### Art. 130
 
 ((ARTICOLO ABROGATO DALLA L. COSTITUZIONALE 18 OTTOBRE 2001, N. 3))
 
-###### Art. 131
+##### Art. 131
 
 ((Sono costituite le seguenti Regioni:
 
@@ -1164,23 +1164,23 @@ Toscana; Sicilia;
 
 Umbria; Sardegna)).
 
-###### Art. 132
+##### Art. 132
 
 Si puo' con legge costituzionale, sentiti i Consigli regionali, disporre la fusione di Regioni esistenti o la creazione di nuove Regioni con un minimo di un milione d'abitanti, quando ne facciano richiesta tanti Consigli comunali che rappresentino almeno un terzo delle popolazioni interessate, e la proposta sia approvata con referendum dalla maggioranza delle popolazioni stesse.
 
 Si puo', con ((l'approvazione della maggioranza delle popolazioni della Provincia o delle Province interessate e del Comune o dei Comuni interessati espressa mediante)) referendum e con legge della Repubblica, sentiti i Consigli regionali, consentire che Provincie e Comuni, che ne facciano richiesta, siano staccati da una Regione ed aggregati ad un'altra.
 
-###### Art. 133
+##### Art. 133
 
 Il mutamento delle circoscrizioni provinciali e la istituzione di nuove Provincie nell'ambito d'una Regione sono stabiliti con leggi della Repubblica, su iniziative dei Comuni, sentita la stessa Regione.
 
 La Regione, sentite le popolazioni interessate, puo' con sue leggi istituire nel proprio territorio nuovi Comuni e modificare le loro circoscrizioni e denominazioni.
 
-#### TITOLO VI - GARANZIE COSTITUZIONALI
+### TITOLO VI - GARANZIE COSTITUZIONALI
 
-##### SEZIONE I - La Corte costituzionale.
+#### SEZIONE I - La Corte costituzionale.
 
-###### Art. 134
+##### Art. 134
 
 La Corte costituzionale giudica:
 
@@ -1190,7 +1190,7 @@ sui conflitti di attribuzione tra i poteri dello Stato e su quelli tra lo Stato 
 
 sulle accuse promosse contro il Presidente della Repubblica (( . . . )), a norma della Costituzione.
 
-###### Art. 135
+##### Art. 135
 
 La Corte costituzionale e' composta di quindici giudici nominati per un terzo dal Presidente della Repubblica, per un terzo dal Parlamento in seduta comune e per un terzo dalle supreme magistrature ordinaria ed amministrative.
 
@@ -1210,13 +1210,13 @@ Nei giudizi d'accusa contro il Presidente della Repubblica
 
 per la nomina dei giudici ordinari.
 
-###### Art. 136
+##### Art. 136
 
 Quando la Corte dichiara l'illegittimita' costituzionale di una norma di legge o di atto avente forza di legge, la norma cessa di avere efficacia dal giorno successivo alla pubblicazione della decisione.
 
 La decisione della Corte e' pubblicata e comunicata alle Camere ed ai Consigli regionali interessati, affinche', ove lo ritengano necessario, provvedano nelle forme costituzionali.
 
-###### Art. 137
+##### Art. 137
 
 Una legge costituzionale stabilisce le condizioni, le forme, i termini di proponibilita' dei giudizi di legittimita' costituzionale, e le garanzie d'indipendenza dei giudici della Corte.
 
@@ -1224,9 +1224,9 @@ Con legge ordinaria sono stabilite le altre norme necessarie per la costituzione
 
 Contro le decisioni della Corte costituzionale non e' ammessa alcuna impugnazione.
 
-##### SEZIONE II - Revisione della Costituzione. Leggi costituzionali
+#### SEZIONE II - Revisione della Costituzione. Leggi costituzionali
 
-###### Art. 138
+##### Art. 138
 
 Le leggi di revisione della Costituzione e le altre leggi costituzionali sono adottate da ciascuna Camera con due successive deliberazioni ad intervallo non minore di tre mesi, e sono approvate a maggioranza assoluta dei componenti di ciascuna Camera nella seconda votazione.
 
@@ -1234,13 +1234,13 @@ Le leggi stesse sono sottoposte a referendum popolare quando, entro tre mesi dal
 
 Non si fa luogo a referendum se la legge e' stata approvata nella seconda votazione da ciascuna delle Camere a maggioranza di due terzi dei suoi componenti.
 
-###### Art. 139
+##### Art. 139
 
 La forma repubblicana non puo' essere oggetto di revisione costituzionale.
 
-#### DISPOSIZIONI TRANSITORIE E FINALI
+## DISPOSIZIONI TRANSITORIE E FINALI
 
-###### I
+##### I
 
 DISPOSIZIONI TRANSITORIE E FINALI
 
@@ -1248,13 +1248,13 @@ I
 
 Con l'entrata in vigore della Costituzione il Capo provvisorio dello Stato esercita le attribuzioni di Presidente della Repubblica e ne assume il titolo.
 
-###### II
+##### II
 
 II
 
 Se alla data della elezione del Presidente della Repubblica non sono costituiti tutti i Consigli regionali, partecipano alla elezione soltanto i componenti delle due Camere.
 
-###### III
+##### III
 
 III
 
@@ -1274,19 +1274,19 @@ Sono nominati altresi' senatori, con decreto del Presidente della Repubblica, i 
 
 Al diritto di essere nominati senatori si puo' rinunciare prima della firma del decreto di nomina. L'accettazione della candidatura alle elezioni politiche implica rinuncia al diritto di nomina a senatore.
 
-###### IV
+##### IV
 
 IV
 
 Per la prima elezione del Senato il Molise e' considerato come Regione a se' stante, con il numero dei senatori che gli compete in base alla sua popolazione.
 
-###### V
+##### V
 
 V
 
 La disposizione dell'articolo 80 della Costituzione, per quanto concerne i trattati internazionali che importano oneri alle finanze o modificazioni di legge, ha effetto dalla data di convocazione delle Camere.
 
-###### VI
+##### VI
 
 VI
 
@@ -1294,7 +1294,7 @@ Entro cinque anni dall'entrata in vigore della Costituzione si procede alla revi
 
 Entro un anno dalla stessa data si provvede con legge al riordinamento del Tribunale supremo militare in relazione all'articolo 111.
 
-###### VII
+##### VII
 
 VII
 
@@ -1304,7 +1304,7 @@ Fino a quando non entri in funzione la Corte costituzionale, la decisione delle 
 
 ((COMMA ABROGATO DALLA L. COSTITUZIONALE 22 NOVEMBRE 1967, N. 2)).
 
-###### VIII
+##### VIII
 
 VIII
 
@@ -1314,19 +1314,19 @@ Leggi della Repubblica regolano per ogni ramo della pubblica amministrazione il 
 
 Leggi della Repubblica regolano il passaggio alle Regioni di funzionari e dipendenti dello Stato, anche delle amministrazioni centrali, che sia reso necessario dal nuovo ordinamento. Per la formazione dei loro uffici le Regioni devono, tranne che in casi di necessita', trarre il proprio personale da quello dello Stato e degli enti locali.
 
-###### IX
+##### IX
 
 IX
 
 La Repubblica, entro tre anni dall'entrata in vigore della Costituzione, adegua le sue leggi alle esigenze delle autonomie locali e alla competenza legislativa attribuita alle Regioni.
 
-###### X
+##### X
 
 X
 
 Alla Regione del Friuli-Venezia Giulia, di cui all'articolo 116, si applicano provvisoriamente le norme generali del Titolo V della parte seconda, ferma restando la tutela delle minoranze linguistiche in conformita' con l'articolo 6.
 
-###### XI
+##### XI
 
 XI
 
@@ -1340,7 +1340,7 @@ AGGIORNAMENTO (2)
 
 La L. costituzionale 18 marzo 1958, n. 1 ha disposto (con l'articolo unico) che "Il termine di cui alla XI delle "Disposizioni transitorie e finali" della Costituzione scadra' il 31 dicembre 1963".
 
-###### XII
+##### XII
 
 XII
 
@@ -1348,7 +1348,7 @@ E' vietata la riorganizzazione, sotto qualsiasi forma, del disciolto partito fas
 
 In deroga all'articolo 48, sono stabilite con legge, per non oltre un quinquennio dalla entrata in vigore della Costituzione, limitazioni temporanee al diritto di voto e alla eleggibilita' per i capi responsabili del regime fascista.
 
-###### XIII
+##### XIII
 
 XIII
 
@@ -1364,7 +1364,7 @@ AGGIORNAMENTO (15)
 
 La L. costituzionale 23 ottobre 2002, n. 1, ha disposto (con l'art. 1, comma 1) che "I commi primo e secondo della XIII disposizione transitoria e finale della Costituzione esauriscono i loro effetti a decorrere dalla data di entrata in vigore della presente legge costituzionale".
 
-###### XIV
+##### XIV
 
 XIV
 
@@ -1376,19 +1376,19 @@ L'Ordine mauriziano e' conservato come ente ospedaliero e funziona nei modi stab
 
 La legge regola la soppressione della Consulta araldica.
 
-###### XV
+##### XV
 
 XV
 
 Con l'entrata in vigore della Costituzione si ha per convertito in legge il decreto legislativo luogotenenziale 25 giugno 1944, n. 151, sull'ordinamento provvisorio dello Stato.
 
-###### XVI
+##### XVI
 
 XVI
 
 Entro un anno dall'entrata in vigore della Costituzione si procede alla revisione e al coordinamento con essa delle precedenti leggi costituzionali che non siano state finora esplicitamente o implicitamente abrogate.
 
-###### XVII
+##### XVII
 
 XVII
 
@@ -1404,7 +1404,7 @@ I deputati possono presentare al Governo interrogazioni con richiesta di rispost
 
 L'Assemblea Costituente, agli effetti di cui al secondo comma del presente articolo, e' convocata dal suo Presidente su richiesta motivata del Governo o di almeno duecento deputati.
 
-###### XVIII
+##### XVIII
 
 XVIII
 

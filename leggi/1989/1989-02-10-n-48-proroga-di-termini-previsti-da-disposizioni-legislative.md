@@ -30,11 +30,9 @@ PROMULGA
 
 la seguente legge:
 
-## Capo I - SERVIZIO METEOROLOGICO, SERVIZIO ANTINCENDI
+## Capo I - SERVIZIO METEOROLOGICO, SERVIZIO ANTINCENDI E NULLA-OSTA PROVVISORIO DI PREVENZIONE INCENDI
 
-### E NULLA-OSTA PROVVISORIO DI PREVENZIONE INCENDI
-
-#### Art. 1
+### Art. 1
 
 1\. E' prorogato al 30 settembre 1989 il termine previsto dall'articolo 37 del decreto del Presidente della Repubblica 24 marzo 1981, n. 145, gia' prorogato al 31 dicembre 1988 dall'articolo 1 del decreto-legge 29 dicembre 1987, n. 534, convertito, con modificazioni, dalla legge 29 febbraio 1988, n. 47, limitatamente al servizio meteorologico, le cui funzioni devono essere definitivamente trasferite dall'Aeronautica militare all'Azienda autonoma di assistenza al volo per il traffico aereo generale entro la suddetta data del 30 settembre 1989.
 
@@ -50,7 +48,7 @@ AGGIORNAMENTO (3)
 
 La L. 31 maggio 1990, n. 128 ha disposto (con l'art. 4, comma 1) che e' prorogato al 31 dicembre 1990 il termine del 31 dicembre 1989 indicato nel comma 3 del presente articolo, relativamente all'utilizzazione da parte dell'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro (INAIL) dei fondi ancora disponibili per la realizzazione di immobili socialmente utili nelle Marche, di cui all'articolo 20 della legge 11 novembre 1982, n. 828.
 
-#### Art. 2
+### Art. 2
 
 1\. E' prorogato al 31 dicembre 1989 il termine del 31 dicembre 1988 previsto dal comma 1 dell'articolo 2 del decreto-legge 29 dicembre 1987, n. 534, convertito, con modificazioni, dalla legge 29 febbraio 1988, n. 47, relativo alla prestazione del servizio antincendi da parte dell'amministrazione militare negli aeroporti di Firenze-Peretola, Grosseto, Roma-Urbe e Taranto e da parte del Corpo nazionale dei vigili del fuoco negli aeroporti di Pescara e Villanova d'Albenga. ((3))
 
@@ -60,11 +58,11 @@ AGGIORNAMENTO (3)
 
 La L. 31 maggio 1990, n. 128 ha disposto (con l'art. 18, comma 1) che e' prorogato al 31 dicembre 1990 il termine del 31 dicembre 1989 previsto dal comma 1 del presente articolo.
 
-#### Art. 3
+### Art. 3
 
 ((1. Il termine di centottanta giorni per il rilascio del nulla-osta provvisorio di prevenzione incendi, da parte dei comandi provinciali dei vigili del fuoco, previsto dal quinto comma dell'articolo 2 della legge 7 dicembre 1984, n. 818, modificato dall'articolo 1- bis del decreto-legge 21 giugno 1985, n. 288, convertito, con modificazioni, dalla legge 8 agosto 1985, n. 407, decorre improrogabilmente dal 1 gennaio 1991)).
 
-#### Art. 4
+### Art. 4
 
 ((1. Il termine per il completamento dell'istanza per ottenere il rilascio del nulla-osta provvisorio di prevenzione incendi, con la documentazione indicata al comma 3 dell'articolo 2 del decreto del Ministro dell'interno in data 8 marzo 1985, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 95 del 22 aprile 1985, recante le direttive sulle misure piu' urgenti ed essenziali di prevenzione incendi, e' improrogabilmente fissato al 31 dicembre 1990.
 
@@ -72,7 +70,7 @@ La L. 31 maggio 1990, n. 128 ha disposto (con l'art. 18, comma 1) che e' proroga
 
 3\. Limitatamente alla durata della proroga di cui al comma 1, i versamenti, eseguiti o da eseguirsi ai sensi dell'articolo 6 della legge 26 luglio 1965, n. 966, e successive modificazioni, relativi ai soli servizi previsti dall'articolo 2, primo comma, lettere a) e b), della citata legge 26 luglio 1965, n. 966, e successive modificazioni, assumono carattere di definitivita' e non danno luogo a conguagli)).
 
-#### Art. 5
+### Art. 5
 
 1\. E' prorogato al 31 dicembre 1989 il termine previsto dal comma 1 dell'articolo 5- bis del decreto-legge 29 dicembre 1987, n. 534, convertito, con modificazioni, dalla legge 29 febbraio 1988, n. 47, relativo alle strutture ed ai materiali da impiegarsi nella costruzione di teatri, cinematografi ed altri locali di spettacolo in genere.
 
@@ -90,7 +88,7 @@ La L. 31 maggio 1990, n. 128 ha disposto (con l'art. 18, comma 1) che e' proroga
 
 > Negli altri casi essi dovranno essere sostituiti con materiali la cui classe di reazione al fuoco risponda alle norme contenute nel presente decreto. Tale adeguamento dovra' essere compiuto entro il termine massimo di anni due dalla data di entrata in vigore del presente decreto con le stesse modalita' e condizioni previste dall'art. 6 del predetto decreto del Ministro dell'interno del 6 luglio 1983".
 
-#### Art. 6
+### Art. 6
 
 ((1. I nulla-osta provvisori rilasciati anteriormente al 30 giugno 1991, compresi quelli relativi alle attivita' alberghiere, rilasciati ai sensi della legge 18 luglio 1980, n. 406, sono validi improrogabilmente fino al 30 giugno 1994.
 
@@ -100,7 +98,7 @@ Si osservano le disposizioni dell'articolo 17, comma 4, della legge 23 agosto 19
 
 ## Capo II - DISPOSIZIONI IN MATERIA DI OPERE PUBBLICHE
 
-#### Art. 7
+### Art. 7
 
 1\. L'articolo 25 del decreto-legge 15 marzo 1965, n. 124, convertito, con modificazioni, dalla legge 13 maggio 1965, n. 431, e' abrogato.
 
@@ -110,7 +108,7 @@ Si osservano le disposizioni dell'articolo 17, comma 4, della legge 23 agosto 19
 
 > "Art. 25. - Le norme contenute negli articoli di questo titolo si applicano sino al 31 dicembre 1965. Dal 1 gennaio 1966 tornano ad applicarsi le norme vigenti prima dell'entrata in vigore del presente decreto".
 
-#### Art. 8
+### Art. 8
 
 1\. Il settimo comma dell'articolo 1 della legge 3 gennaio 1978, n. 1, e' abrogato.
 
@@ -132,7 +130,7 @@ Si osservano le disposizioni dell'articolo 17, comma 4, della legge 23 agosto 19
 
 > L'abrogato settimo comma cosi' disponeva: "Le norme di cui al quarto e al quinto comma si applicano per tre anni dall'entrata in vigore della presente legge".
 
-#### Art. 9
+### Art. 9
 
 1\. Il termine di denuncia per le iscrizioni al catasto ovvero per le variazioni non registrate, di cui all'articolo 52 della legge 28 febbraio 1985, n. 47, e successive modificazioni, e' prorogato al 31 dicembre 1989 con l'applicazione di tutte le procedure tecnico-amministrative in vigore all'atto della promulgazione della citata legge n. 47 del 1985.
 
@@ -146,7 +144,7 @@ Si osservano le disposizioni dell'articolo 17, comma 4, della legge 23 agosto 19
 
 > Per le dichiarazioni di cui al comma precedente, presentate successivamente al 31 dicembre 1986, l'ammenda prevista dall'art. 31 del regio decreto-legge 13 aprile 1939, n. 652, convertito, con modificazioni, nella legge 11 agosto 1939, n. 1249, e successive modificazioni e integrazioni, e' elevata a L. 250.000".
 
-#### Art. 10
+### Art. 10
 
 1\. L'articolo 13 del decreto-legge 29 dicembre 1987, n. 534, convertito, con modificazioni, dalla legge 29 febbraio 1988, n. 47, e' sostituito dal seguente:
 
@@ -192,7 +190,7 @@ Si osservano le disposizioni dell'articolo 17, comma 4, della legge 23 agosto 19
 
 > Nei comuni esonerati trova applicazione la norma di cui al primo comma del precedente art. 4".
 
-#### Art. 11
+### Art. 11
 
 1\. Sono ulteriormente prorogati al 31 dicembre 1989 l'attivita' ed il funzionamento dell'Ispettorato generale per le zone colpite dai terremoti del gennaio 1968, di cui all'articolo 17 della legge 7 marzo 1981, n. 64, prorogati da ultimo dal decreto-legge 29 dicembre 1987, n. 534, convertito, con modificazioni, dalla legge 29 febbraio 1988, n. 47.
 
@@ -208,7 +206,7 @@ Si osservano le disposizioni dell'articolo 17, comma 4, della legge 23 agosto 19
 
 > Ad integrazione di quanto disposto con il quarto comma dell'art. 6 della legge 29 aprile 1976, n. 178, il capo dell'Ispettorato generale potra' emettere anticipazioni complessive a favore dei sindaci i quali provvederanno di volta in volta mediante mandati nominativi".
 
-#### Art. 12
+### Art. 12
 
 1\. Il termine di efficacia della legge 21 dicembre 1977, n. 967, concernente procedure eccezionali per lavori urgenti e indifferibili negli istituti penitenziari, e' prorogato al 31 dicembre 1989, in conformita' con il termine di cui all'articolo 1, comma 1, del decreto-legge 3 gennaio 1987, n. 1, convertito dalla legge 6 marzo 1987, n. 64.
 
@@ -220,7 +218,7 @@ Si osservano le disposizioni dell'articolo 17, comma 4, della legge 23 agosto 19
 
 ## Capo III - NORME IN MATERIA DI CALAMITA' NATURALI
 
-#### Art. 13
+### Art. 13
 
 1\. Sono prorogati al 31 dicembre 1989 i termini indicati nell'articolo 1, comma 1-bis, lettera a), e nell'articolo 9 del decreto-legge 20 novembre 1987, n. 474, convertito, con modificazioni, dalla legge 21 gennaio 1988, n. 12, concernenti, rispettivamente, l'attuazione degli strumenti urbanistici e le modalita' di attuazione della ricostruzione nei comuni colpiti dal terremoto nelle regioni Campania, Basilicata e Puglia. Nei medesimi comuni l'agevolazione agli effetti della imposta sul valore aggiunto, prevista dall'articolo 5 del decreto-legge 5 dicembre 1980, n. 799, convertito, con modificazioni, dalla legge 22 dicembre 1980, n. 875, e' prorogata fino al 31 dicembre 1989, limitatamente alle lettere c) ed f) del primo comma dello stesso articolo 5. (3) ((4))
 
@@ -242,7 +240,7 @@ AGGIORNAMENTO (4)
 
 Il D.L. 27 aprile 1990, n. 90, convertito con modificazioni dalla L. 26 giugno 1990, n. 165 ha disposto (con l'art. 3, comma 8) che "Le agevolazioni agli effetti dell'imposta sul valore aggiunto previste dall'articolo 13, comma 1, della legge 10 febbraio 1989, n. 48, e successive modificazioni continuano ad applicarsi fino al 31 dicembre 1992".
 
-#### Art. 14
+### Art. 14
 
 1\. Il termine di cui all'articolo 1, comma 1, del decreto-legge 20 novembre 1987, n. 474, convertito, con modificazioni, dalla legge 21 gennaio 1988, n. 12, e' differito al 31 marzo 1989. I termini per la presentazione del progetto di intervento, di cui al comma 6- bis dell'articolo 5, e di cui all'articolo 23 dello stesso decreto-legge n. 474 del 1987, sono fissati, rispettivamente, al 31 marzo 1989 ed al 30 giugno 1989. Decorsi inutilmente gli indicati termini gli interessati decadono dal diritto al contributo.
 
@@ -300,7 +298,7 @@ Il D.L. 27 aprile 1990, n. 90, convertito con modificazioni dalla L. 26 giugno 1
 
 > Nei casi di cui ai precedenti commi le ipoteche iscritte sugli immobili distrutti o da demolire sono trasferite di diritto sugli immobili costruiti o acquisiti in altro sito".
 
-#### Art. 15
+### Art. 15
 
 1\. Il termine di cui all'articolo 1, comma 6, del decreto-legge 19 settembre 1987, n. 384, convertito, con modificazioni, dalla legge 19 novembre 1987, n. 470, concernente interventi in favore della comunita' scientifica, ed il termine di cui all'articolo 7-bis, comma 1, del decreto-legge 19 marzo 1988, n. 85, convertito, con modificazioni dalla legge 20 maggio 1988, n. 159, concernente interventi in favore delle associazioni di volontariato di protezione civile, sono prorogati al 31 dicembre 1989.
 
@@ -314,11 +312,9 @@ AGGIORNAMENTO (2)
 
 Il D.L. 28 dicembre 1989, n. 415, convertito con modificazioni dalla L. 28 febbraio 1990, n. 38, ha disposto (con l'art. 30, comma 1) che il termine del 31 dicembre 1989 fissato dal presente articolo, concernente gli interventi in favore della comunita' scientifica ed in favore delle associazioni di volontariato di protezione civile, e' prorogato al 31 dicembre 1990.
 
-## Capo IV - PRESTAZIONI DI LAVORO STRAORDINARIO DEL PERSONALE DEGLI ISTITUTI DI
+## Capo IV - PRESTAZIONI DI LAVORO STRAORDINARIO DEL PERSONALE DEGLI ISTITUTI DI PREVIDENZA E NORME IN MATERIA DI ORDINAMENTI FINANZIARI.
 
-### PREVIDENZA E NORME IN MATERIA DI ORDINAMENTI FINANZIARI.
-
-#### Art. 16
+### Art. 16
 
 1\. Il termine di cui all'articolo 21, comma 1, del decreto-legge 31 agosto 1987, n. 359, convertito, con modificazioni, dalla legge 29 ottobre 1987, n. 440, concernente la deroga alle vigenti disposizioni per l'autorizzazione allo svolgimento del lavoro straordinario del personale della Direzione generale degli istituti di previdenza del Ministero del tesoro, e' prorogato al 31 dicembre 1989. ((3))
 
@@ -332,7 +328,7 @@ AGGIORNAMENTO (3)
 
 La L. 31 maggio 1990, n. 128 ha disposto (con l'art. 23, comma 1) che il termine di cui al comma 1 del presente articolo, concernente la deroga alle vigenti disposizioni per l'autorizzazione allo svolgimento del lavoro straordinario del personale della Direzione generale degli istituti di previdenza del Ministero del tesoro, e' prorogato al 31 dicembre 1990.
 
-#### Art. 17
+### Art. 17
 
 1\. Il termine del 31 dicembre 1988, stabilito dal comma 1 dell'articolo 1 della legge 29 dicembre 1987, n. 550, per l'emanazione dei testi unici previsti dall'articolo 17, terzo comma, della legge 9 ottobre 1971, n. 825, e successive modificazioni ed integrazioni, e' prorogato al 30 giugno 1990.
 
@@ -354,7 +350,7 @@ Il termine di scadenza del comitato tecnico per l'attuazione della riforma tribu
 
 > "Comma quinto. - In relazione alle esigenze amministrative, organizzative e tecniche connesse alla prima fase di applicazione dei tributi istituiti o modificati con la presente legge, e' autorizzata la costituzione, per il primo quinquennio dall'entrata in vigore della legge stessa, di un comitato tecnico per l'attuazione della riforma tributaria, alle dirette dipendenze del Ministro per le finanze, formato di funzionari dell'amministrazione dello Stato e di enti pubblici e di persone estranee all'amministrazione stessa, nel numero massimo di cinquanta unita' di cui non piu' di venti estranee alla p.a. Le persone estranee alla amministrazione dello Stato, scelte tra esperti delle materie giuridiche, amministrative, economiche, statistiche, organizzative, di tecnica e di contabilita' aziendale e di pubbliche relazioni, saranno incaricate, a tempo determinato, di far parte del predetto comitato, con retribuzioni da stabilirsi con decreto del Ministro per le finanze di concerto con il Ministro per il tesoro sulla base di quelle correnti nel settore privato. Al personale dell'amministrazione dello Stato, chiamato a far parte del comitato tecnico, saranno corrisposte adeguate indennita'".
 
-#### Art. 18
+### Art. 18
 
 1\. Per assicurare la continuita' dei servizi contabli delle intendenze di finanza, di cui all'articolo 13 del decreto del Presidente della Repubblica 30 giugno 1955, n. 1544, con decreto del Ministro del tesoro, di concerto con il Ministro delle finanze, da emanare entro il 30 giugno 1989, sono stabiliti i criteri e le modalita' per attuare, a partire dal 1 luglio 1989, la graduale cessazione dello svolgimento dei predetti servizi da parte delle ragionerie provinciali dello Stato e la loro contestuale assunzione da parte del personale dell'Amministrazione finanziaria.
 
@@ -368,7 +364,7 @@ Il termine di scadenza del comitato tecnico per l'attuazione della riforma tribu
 
 > Esse ed il relativo personale sono alle dipendenze dirette del Ministero del tesoro, seguitano a trattare i servizi contabili delle Intendenze e rispondono, per tali servizi, all'intendente di finanza".
 
-#### Art. 19
+### Art. 19
 
 1\. L'efficacia del contratti previsti dal comma 8 dell'articolo 15 della legge 8 luglio 1986, n. 349, e' prorogata fino al 31 dicembre 1989.
 
@@ -380,7 +376,7 @@ Il termine di scadenza del comitato tecnico per l'attuazione della riforma tribu
 
 ## Capo V - DISPOSIZIONI IN MATERIA INDUSTRIALE
 
-#### Art. 20
+### Art. 20
 
 1\. L'esenzione fiscale di cui agli articoli 34 e 68 della legge 21 luglio 1967, n. 613, ed all'articolo 40, sesto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 601, prorogata sino al 31 dicembre 1988 dall'articolo 21- bis del decreto-legge 29 dicembre 1987, n. 534, convertito, con modificazioni, dalla legge 29 febbraio 1988, n. 47, e' ulteriormente prorogata fino al 31 dicembre 1989.
 
@@ -408,7 +404,7 @@ Il termine di scadenza del comitato tecnico per l'attuazione della riforma tribu
 
 > \- Il testo del sesto comma dell'art. 40 del D.P.R. n. 601/1973 (Disciplina delle agevolazioni tributarie) e' il seguente: "L'esenzione prevista dall'art. 34 della legge 21 luglio 1967, n. 613 (v. nota precedente), si applica, alle condizioni e nei limiti ivi indicati, nei confronti dell'imposta locale sui redditi".
 
-#### Art. 21
+### Art. 21
 
 1\. E' differito al 30 giugno 1989 il termine per l'emanazione del testo unico di cui all'articolo 2 della legge 21 gennaio 1988, n. 12. (1)
 
@@ -436,7 +432,7 @@ AGGIORNAMENTO (3)
 
 La L. 31 maggio 1990, n. 128 ha disposto (con l'art. 5, comma 1) che il termine del 31 dicembre 1989 previsto dal comma 3 del presente articolo, relativo alla conferma in servizio del personale di cui all'articolo 12 della legge 28 ottobre 1986, n. 730, non ancora transitato nei ruoli speciali ad esaurimento di cui allo stesso articolo 12 della medesima legge 28 ottobre 1986, n. 730, e del personale di cui al comma 4 dell'articolo 21 della medesima legge 10 febbraio 1989, n. 48, e' differito al 30 giugno 1990.
 
-#### Art. 22
+### Art. 22
 
 1\. Le disposizioni della presente legge hanno effetto a decorrere dal 1 gennaio 1989.
 

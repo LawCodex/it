@@ -26,13 +26,13 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 ((In deroga a quanto disposto dall'articolo 6 della legge 29 ottobre 1954, n. 1046, primo comma, il limite massimo di eta' per l'ammissione alle scuole e' elevato a 45 anni. Detta elevazione sara' limitata ad un periodo di 5 anni a decorrere dalla data di entrata in vigore della presente legge.))
 
 ## Norma transitoria
 
-### Art. 2
+## Art. 2
 
 ((Per un periodo di due anni dalla data di entrata in vigore della presente legge, coloro che si trovano nelle condizioni previste dall'articolo 12 della legge 29 ottobre 1954, n. 1046, possono essere ammessi, indipendentemente da ogni limite di eta', ad un corso normale ordinario delle scuole per infermiere e infermieri generici)).
 

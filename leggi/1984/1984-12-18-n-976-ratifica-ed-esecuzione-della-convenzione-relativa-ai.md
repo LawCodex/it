@@ -981,7 +981,7 @@ par. 1. Quando, in seguito al ritardo di un treno, la coincidenza con un altro t
 
 par. 2. La ferrovia deve, a seconda delle circostanze, attestare sul biglietto la mancata coincidenza o la soppressione del treno, prorogare nella misura necessaria la validita' del biglietto stesso e renderlo valido per il nuovo itinerario, per una classe superiore o per un treno di categoria di prezzo piu' elevata. Tuttavia, le tariffe o gli orari possono escludere l'utilizzazione di determinati treni.
 
-## CAPITOLO II - TRASPORTO DEI BAGAGLI
+### CAPITOLO II - TRASPORTO DEI BAGAGLI
 
 #### Articolo 17
 
@@ -1109,7 +1109,7 @@ par. 7. Se l'avente diritto ne fa richiesta, la ferrovia e' tenuta a procedere, 
 
 par. 8. Per tutto quanto non previsto, la riconsegna dei bagagli viene effettuata in conformita' delle prescrizioni in vigore nella, stazione che provvede alla riconsegna dei medesimi.
 
-## CAPITOLO III - DISPOSIZIONI COMUNI AI TRASPORTI DI VIAGGIATORI E DI BAGAGLI
+### CAPITOLO III - DISPOSIZIONI COMUNI AI TRASPORTI DI VIAGGIATORI E DI BAGAGLI
 
 #### Articolo 24
 
@@ -1231,7 +1231,7 @@ Per l'applicazione dell'alinea di cui sopra, si intende per "Stato sul cui terri
 
 par. 3. Se, a seguito di circostanze eccezionali, la ferrovia e' costretta a sospendere provvisoriamente l'esercizio ferroviario e trasporta o fa trasportare i viaggiatori con altro mezzo di trasporto essa e' responsabile in base al diritto che disciplina tale mezzo di trasporto. Restano tuttavia applicabili l'articolo 18 della Convenzione e gli articoli 8, da 48 a 53 e 55 delle Regole uniformi.
 
-## CAPITOLO II - RESPONSABILITA' DELLA FERROVIA PER I BAGAGLI
+### CAPITOLO II - RESPONSABILITA' DELLA FERROVIA PER I BAGAGLI
 
 #### Articolo 34
 
@@ -1339,7 +1339,7 @@ L'indennita' totale da corrispondere non puo' superare le 700 unita' di conto. P
 
 par. 5. Le altre disposizioni concernenti la responsabilita' per i bagagli sono ugualmente applicabili al trasporto delle autovetture accompagnate.
 
-## CAPITOLO III - DISPOSIZIONI COMUNI RELATIVE ALLA RESPONSABILITA'
+### CAPITOLO III - DISPOSIZIONI COMUNI RELATIVE ALLA RESPONSABILITA'
 
 #### Articolo 42
 

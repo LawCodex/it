@@ -27,7 +27,7 @@ Promulga
 
 La seguente legge:
 
-##### Art. 1
+### Art. 1
 
 Autorizzazione alla ratifica
 
@@ -55,7 +55,7 @@ h) «Protocollo nell'ambito del turismo», fatto a Bled il 16 ottobre 1998.
 
 3\. Lo Stato, le regioni e gli enti locali provvedono all'adozione degli atti e delle misure previsti dai Protocolli di cui al comma 1 del presente articolo, secondo le rispettive competenze, fermo restando quanto stabilito dall'articolo 3 della legge 14 ottobre 1999, n. 403, sulle attribuzioni della Consulta Stato-regioni dell'Arco alpino, convocata e presieduta dal Ministro per i rapporti con le regioni e per la coesione territoriale.
 
-##### Art. 2
+### Art. 2
 
 Copertura finanziaria
 
@@ -63,7 +63,7 @@ Copertura finanziaria
 
 2\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 3
+### Art. 3
 
 Entrata in vigore
 
@@ -83,9 +83,7 @@ Clini, Ministro dell'ambiente e della tutela del territorio e del mare
 
 Visto, il Guardasigilli: Severino
 
-## Capitolo I
-
-### Disposizioni generali
+## Capitolo I - Disposizioni generali
 
 PROTOCOLLO DI ATTUAZIONE DELLA CONVENZIONE DELLE ALPI NELL'AMBITO DELLE FORESTE MONTANE PROTOCOLLO
 
@@ -133,7 +131,7 @@ convinti che determinati problemi possono essere risolti soltanto sul piano tran
 
 hanno convenuto quanto segue:
 
-##### Art. 1
+### Art. 1
 
 Finalita'
 
@@ -149,7 +147,7 @@ sia impiegato materiale di riproduzione forestale autoctono;
 
 siano evitate erosioni e costipamenti del suolo, mediante metodi di uso e di prelievo rispettosi dell'ambiente.
 
-##### Art. 2
+### Art. 2
 
 Considerazione delle finalita' nelle altre politiche
 
@@ -169,7 +167,7 @@ f) Rischio di incendi boschivi. Le Parti contraenti fanno fronte al rischio di i
 
 g) Personale qualificato. Non essendo possibile realizzare una silvicoltura con metodi naturali e finalizzata all'efficienza di tutte le funzioni delle foreste, senza disporre di personale qualificato idoneo, le Parti contraenti si impegnano a provvedere affinche' il personale addetto sia sufficiente e qualificato.
 
-##### Art. 3
+### Art. 3
 
 Partecipazione degli enti territoriali
 
@@ -177,7 +175,7 @@ Partecipazione degli enti territoriali
 
 2\. Nel rispetto delle loro competenze, nel quadro istituzionale vigente, gli enti territoriali direttamente interessati partecipano ai diversi stadi di preparazione e attuazione delle relative politiche e misure.
 
-##### Art. 4
+### Art. 4
 
 Cooperazione internazionale
 
@@ -189,17 +187,15 @@ b) di assicurare la realizzazione delle finalita' e delle misure stabilite dal p
 
 c) di promuovere sia lo scambio di conoscenze ed esperienze, sia iniziative comuni, mediante la cooperazione internazionale tra istituti di ricerca e di formazione, tra le organizzazioni forestali e ambientali, nonche' tra i media.
 
-## Capitolo II
+## Capitolo II - Misure specifiche
 
-### Misure specifiche
-
-##### Art. 5
+### Art. 5
 
 Basi della pianificazione
 
 Per il conseguimento degli obiettivi indicati dal presente Protocollo, le Parti contraenti provvedono affinche' siano predisposte le basi necessarie alla pianificazione. Queste comprendono un'esauriente ricognizione dei siti, nonche' il rilevamento delle funzioni delle foreste con particolare considerazione delle funzioni protettive.
 
-##### Art. 6
+### Art. 6
 
 Funzioni protettive delle foreste montane
 
@@ -207,7 +203,7 @@ Funzioni protettive delle foreste montane
 
 2\. Le misure necessarie devono essere pianificate e attuate con competenza tecnica nell'ambito di piani di gestione e di piani di miglioramento delle foreste che svolgono protettive, tenendo conto degli obiettivi di protezione della natura e di tutela del paesaggio.
 
-##### Art. 7
+### Art. 7
 
 Funzione economica delle foreste montane
 
@@ -215,7 +211,7 @@ Funzione economica delle foreste montane
 
 2\. Le Parti contraenti provvedono affinche' la rinnovazione forestale venga effettuata mediante specie arboree adatte ai rispettivi siti e l'utilizzo economico delle foreste sia accurato e rispettoso del suolo e del patrimonio forestale.
 
-##### Art. 8
+### Art. 8
 
 Funzioni di carattere sociale e ecologico
 
@@ -229,13 +225,13 @@ la loro diversita' biologica;
 
 la fruizione della natura e le funzione ricreative.
 
-##### Art. 9
+### Art. 9
 
 Accesso alle foreste
 
 Le Parti contraenti concordano che, ai fini della prevenzione dei danni alle foreste, per la loro gestione e cura con metodi naturali, sono necessari interventi che vi assicurino l'accesso, accuratamente pianificati e realizzati, tenendo conto delle esigenze della protezione della natura e del paesaggio.
 
-##### Art. 10
+### Art. 10
 
 Riserve forestali naturali
 
@@ -247,7 +243,7 @@ L'individuazione delle rispettive superfici deve avvenire in modo da ottenere un
 
 3\. Le Parti contraenti garantiscono la collaborazione necessaria per la pianificazione e la delimitazione di riserve forestali naturali transfrontaliere.
 
-##### Art. 11
+### Art. 11
 
 Incentivazione e compensazione
 
@@ -257,17 +253,15 @@ Incentivazione e compensazione
 
 3\. Le Parti contraenti si impegnano a creare gli strumenti necessari al finanziamento delle misure di incentivazione e compensazione, tenendo conto, in sede di finanziamento, non solo dei benefici economico-politici per l'intera popolazione, ma anche di quelli dei singoli.
 
-##### Art. 12
+### Art. 12
 
 Misure integrative
 
 Le Parti contraenti possono adottare misure integrative a quelle previste dal presente Protocollo per le foreste montane.
 
-## Capitolo III
+## Capitolo III - Ricerca, formazione e informazione
 
-### Ricerca, formazione e informazione
-
-##### Art. 13
+### Art. 13
 
 Ricerca e osservazione
 
@@ -279,7 +273,7 @@ Ricerca e osservazione
 
 4\. Esse effettuano, in particolare, rilevamenti confrontabili per le finalita' e misure di cui al presente Protocollo. Tali rilevamenti devono essere aggiornati periodicamente.
 
-##### Art. 14
+### Art. 14
 
 Formazione e informazione
 
@@ -287,17 +281,15 @@ Formazione e informazione
 
 2\. Esse provvedono, in particolare, alla consulenza e all'aggiornamento dei proprietari delle foreste, in conformita' ai contenuti del presente Protocollo.
 
-## Capitolo IV
+## Capitolo IV - Attuazione, controllo e valutazione
 
-#### Attuazione, controllo e valutazione
-
-##### Art. 15
+### Art. 15
 
 Attuazione
 
 Le Parti contraenti si impegnano ad assicurare l'attuazione del presente Protocollo mediante misure adeguate nel quadro istituzionale vigente.
 
-##### Art. 16
+### Art. 16
 
 Controllo del rispetto degli obblighi
 
@@ -309,7 +301,7 @@ Controllo del rispetto degli obblighi
 
 4\. La Conferenza delle Alpi prende atto di questo resoconto. Essa, qualora constati un mancato adempimento degli obblighi, puo' adottare raccomandazioni.
 
-##### Art. 17
+### Art. 17
 
 Valutazione dell'efficacia delle disposizioni
 
@@ -317,11 +309,9 @@ Valutazione dell'efficacia delle disposizioni
 
 2\. A questa valutazione partecipano gli enti territoriali, nel quadro istituzionale vigente. Possono essere sentite le organizzazioni non-governative attive nel campo specifico.
 
-## Capitolo V
+## Capitolo V - Norme finali
 
-#### Norme finali
-
-##### Art. 18
+### Art. 18
 
 Corrispondenza tra la Convenzione delle Alpi
 
@@ -333,7 +323,7 @@ e il Protocollo
 
 3\. Quando la Conferenza delle Alpi delibera questioni concernenti il presente Protocollo, solo le Parti contraenti dello stesso Protocollo sono ammesse alle relative votazioni.
 
-##### Art. 19
+### Art. 19
 
 Firma e ratifica
 
@@ -343,7 +333,7 @@ Firma e ratifica
 
 3\. Per le Parti contraenti che esprimeranno successivamente il proprio consenso ad essere vincolate dal presente Protocollo, esso entrera' in vigore tre mesi dopo il giorno del deposito dello strumento di ratifica, accettazione o approvazione. In seguito all'entrata in vigore di una modifica del presente Protocollo, ogni nuova Parte contraente del Protocollo medesimo diventa Parte contraente dello stesso Protocollo modificato.
 
-##### Art. 20
+### Art. 20
 
 Notifiche
 
@@ -381,9 +371,7 @@ Per la Confederazione Svizzera
 
 Per la Comunita' Europea
 
-## Capitolo I
-
-#### Disposizioni generali
+## Capitolo I - Disposizioni generali
 
 PROTOCOLLO DI ATTUAZIONE DELLA CONVENZIONE DELLE ALPI DEL 1991 NELL'AMBITO DELLA PIANIFICAZIONE TERRITORIALE E DEL SVILUPPO SOSTENIBILE
 
@@ -439,7 +427,7 @@ convinti che determinati problemi possono essere risolti soltanto sul piano tran
 
 hanno convenuto quanto segue:
 
-##### Art. 1
+### Art. 1
 
 Finalita'
 
@@ -461,7 +449,7 @@ g) favorire le pari opportunita' della popolazione locale nello sviluppo sociale
 
 h) tener conto degli svantaggi naturali, delle prestazioni d'interesse generale, delle limitazioni dell'uso delle risorse e del prezzo per l'uso delle stesse corrispondente al loro valore reale.
 
-##### Art. 2
+### Art. 2
 
 Impegni fondamentali
 
@@ -479,7 +467,7 @@ e) incoraggiare l'armonizzazione delle politiche di pianificazione territoriale,
 
 Le Parti contraenti si impegnano a provvedere alle misure necessarie al conseguimento degli obiettivi di cui all'articolo 1, nel rispetto del principio di sussidiarieta'.
 
-##### Art. 3
+### Art. 3
 
 Considerazione dei criteri di protezione ambientale nelle politiche di pianificazione territoriale e di sviluppo sostenibile
 
@@ -501,7 +489,7 @@ g) alla realizzazione compatibile con l'ambiente e il paesaggio di costruzioni e
 
 h) al rispetto delle peculiarita' culturali delle regioni alpine.
 
-##### Art. 4
+### Art. 4
 
 Cooperazione internazionale
 
@@ -511,19 +499,19 @@ Cooperazione internazionale
 
 3\. Quando gli enti territoriali non possono adottare talune misure, poiche' di competenza nazionale o internazionale, occorre assicurare loro la possibilita' di rappresentare efficacemente gli interessi della popolazione.
 
-##### Art. 5
+### Art. 5
 
 Considerazione delle finalita' nelle altre politiche
 
 Tenuto conto dello sviluppo perseguito del territorio le Parti contraenti si impegnano a considerare gli obiettivi stabiliti da questo Protocollo anche nelle altre loro politiche, in particolare nel campo dello sviluppo regionale, dell'urbanistica, dei trasporti, del turismo, dell'economia agricola e forestale, della protezione dell'ambiente, nonche' dell'approvvigionamento, soprattutto di acqua e energia, anche allo scopo di ridurre gli eventuali effetti negativi o contraddittori.
 
-##### Art. 6
+### Art. 6
 
 Coordinamento delle politiche settoriali
 
 Le Parti contraenti istituiscono strumenti di coordinamento delle politiche settoriali, laddove questi non esistano gia', al fine di promuovere lo sviluppo sostenibile del territorio alpino e delle sue regioni, sforzandosi di trovare a tal fine soluzioni compatibili con la tutela dell'ambiente e la gestione sostenibile delle risorse naturali, e a prevenire i rischi connessi a monoeconomie, promuovendo la diversificazione delle attivita' e l'orientamento dei partner verso obiettivi comuni.
 
-##### Art. 7
+### Art. 7
 
 Partecipazione degli enti territoriali
 
@@ -531,11 +519,9 @@ Partecipazione degli enti territoriali
 
 2\. Nel rispetto delle loro competenze, nel quadro istituzionale vigente, gli enti territoriali direttamente interessati partecipano ai diversi stadi di preparazione e attuazione delle relative politiche e misure.
 
-## Capitolo II
+## Capitolo II - Misure specifiche
 
-### Misure specifiche
-
-##### Art. 8
+### Art. 8
 
 Piani e/o programmi territoriali
 
@@ -549,7 +535,7 @@ e di sviluppo sostenibile
 
 4\. Essi stabiliscono gli indirizzi di sviluppo sostenibile e di pianificazione territoriale di aree continue e vengono regolarmente riesaminati e, quand'e' il caso, modificati. La loro elaborazione e la loro attuazione si basano su rilevamenti e studi preliminari, con cui vengono definite le caratteristiche del territorio in questione.
 
-##### Art. 9
+### Art. 9
 
 Contenuti dei piani e/o programmi territoriali
 
@@ -613,7 +599,7 @@ d) misure di contenimento del traffico, ivi compresa, eventualmente, la limitazi
 
 e) misure di miglioramento dell'offerta di trasporto pubblico per la popolazione locale e gli ospiti.
 
-##### Art. 10
+### Art. 10
 
 Compatibilita' dei progetti
 
@@ -621,7 +607,7 @@ Compatibilita' dei progetti
 
 2\. Quando un progetto ha ripercussioni sulla pianificazione territoriale, sullo sviluppo sostenibile e sulle condizioni ambientali di una Parte contraente confinante, se ne dovranno informare tempestivamente gli organi competenti. L'informazione dev'essere trasmessa in tempo utile per consentire un esame e una presa di posizione integrati nel processo decisionale.
 
-##### Art. 11
+### Art. 11
 
 Uso delle risorse, prestazioni di interesse generale, ostacoli naturali per la produzione e limitazioni dell'uso delle risorse
 
@@ -635,7 +621,7 @@ c) provvedere ad un'equa compensazione per le attivita' economiche, soprattutto 
 
 d) assicurare un'equa remunerazione, definita mediante norme giuridiche o contratti, di ulteriori limitazioni consistenti per ottenere uno sfruttamento economico compatibile con l'ambiente del potenziale territoriale naturale.
 
-##### Art. 12
+### Art. 12
 
 Misure economiche e finanziarie
 
@@ -651,17 +637,15 @@ c) sostegno a progetti transfrontalieri.
 
 3\. Le Parti contraenti esaminano l'impatto, sull'ambiente e sul territorio, dei provvedimenti economici e finanziari, in atto e da adottare, attribuendo priorita' alle misure compatibili con la protezione dell'ambiente e con gli obiettivi dello sviluppo sostenibile.
 
-##### Art. 13
+### Art. 13
 
 Misure integrative
 
 Le Parti contraenti possono adottare misure integrative a quelle previste dal presente Protocollo per la pianificazione territoriale e lo sviluppo sostenibile.
 
-## Capitolo III
+## Capitolo III - Ricerca, formazione e informazione
 
-#### Ricerca, formazione e informazione
-
-##### Art. 14
+### Art. 14
 
 Ricerca e osservazione
 
@@ -669,23 +653,21 @@ Ricerca e osservazione
 
 2\. Le Parti contraenti provvedono affinche' i risultati nazionali della ricerca e dell'osservazione sistematica siano raccolti in un sistema comune di osservazione e informazione permanenti e siano resi pubblicamente accessibili nel quadro istituzionale vigente.
 
-##### Art. 15
+### Art. 15
 
 Formazione e informazione
 
 Le Parti contraenti promuovono la formazione e l'aggiornamento, nonche' l'informazione pubblica in relazione agli obiettivi, alle misure e all'attuazione del presente Protocollo.
 
-## Capitolo IV
+## Capitolo IV - Attuazione, controllo e valutazione
 
-### Attuazione, controllo e valutazione
-
-##### Art. 16
+### Art. 16
 
 Attuazione
 
 Le Parti contraenti si impegnano ad assicurare l'attuazione del presente Protocollo mediante misure adeguate nel quadro istituzionale vigente.
 
-##### Art. 17
+### Art. 17
 
 Controllo del rispetto degli obblighi
 
@@ -697,7 +679,7 @@ Controllo del rispetto degli obblighi
 
 4\. La Conferenza delle Alpi prende atto di questo resoconto. Essa, qualora constati un mancato adempimento degli obblighi, puo' adottare raccomandazioni.
 
-##### Art. 18
+### Art. 18
 
 Valutazione dell'efficacia delle disposizioni
 
@@ -705,11 +687,9 @@ Valutazione dell'efficacia delle disposizioni
 
 2\. A questa valutazione partecipano gli enti territoriali, nel quadro istituzionale vigente. Possono essere sentite le organizzazioni non-governative attive nel campo specifico.
 
-## Capitolo V
+## Capitolo V - Norme finali
 
-### Norme finali
-
-##### Art. 19
+### Art. 19
 
 Corrispondenza tra la Convenzione delle Alpi
 
@@ -721,7 +701,7 @@ e il Protocollo
 
 3\. Quando la Conferenza delle Alpi delibera questioni concernenti il presente Protocollo, solo le Parti contraenti dello stesso Protocollo sono ammesse alle relative votazioni.
 
-##### Art. 20
+### Art. 20
 
 Firma e ratifica
 
@@ -731,7 +711,7 @@ Firma e ratifica
 
 3\. Per le Parti contraenti che esprimeranno successivamente il proprio consenso ad essere vincolate dal presente Protocollo, esso entrera' in vigore tre mesi dopo il giorno del deposito dello strumento di ratifica, accettazione o approvazione. In seguito all'entrata in vigore di una modifica del presente Protocollo, ogni nuova Parte contraente del Protocollo medesimo diventa Parte contraente dello stesso Protocollo modificato.
 
-##### Art. 21
+### Art. 21
 
 Notifiche
 
@@ -795,15 +775,15 @@ nel comune intento di elaborare una procedura efficace di consultazione e di com
 
 hanno convenuto quanto segue:
 
-##### Art. 1
+### Art. 1
 
 In caso di controversia tra Parti contraenti, relativa all'interpretazione oppure all'applicazione della Convenzione delle Alpi o di un Protocollo ad essa attinente, le Parti contraenti aspirano in prima istanza ad una composizione ricorrendo al sistema delle consultazioni.
 
-##### Art. 2
+### Art. 2
 
 Qualora, a seguito di invito a ricorrere a procedure di consultazione, inviato per iscritto da una delle Parti interessate, non si giungesse ad alcun accordo in merito ad una controversia entro un periodo di 6 mesi, una delle Parti interessate potra' intentare una procedura arbitrale, mediante comunicazione scritta inviata all'altra Parte ed alla Presidenza della Conferenza delle Alpi, al fine di comporre la controversia conformemente a quanto stabilito dalle relative disposizioni in merito. La Presidenza informera' immediatamente tutte le Parti contraenti.
 
-##### Art. 3
+### Art. 3
 
 Per dar seguito ad una procedura arbitrale ai sensi dell'articolo 2, il tribunale arbitrale composto da tre membri verra' formato come segue:
 
@@ -817,25 +797,25 @@ c) Una volta nominati, i membri del tribunale arbitrale potranno essere destitui
 
 d) I posti divenuti vacanti verranno assegnati secondo le modalita' prescritte per la designazione iniziale.
 
-##### Art. 4
+### Art. 4
 
 1\. Ogni Parte contraente ha la facolta' di comunicare al tribunale arbitrale il proprio parere riguardo alla controversia.
 
 2\. Quando una Parte contraente reputi avere un interesse d'ordine giuridico nei confronti dell'oggetto della controversia, puo' chiedere al tribunale arbitrale di essere ammessa ad intervenire in causa.
 
-##### Art. 5
+### Art. 5
 
 A meno che le Parti contendenti non decidano diversamente, il tribunale arbitrale determinera' il suo Regolamento interno.
 
-##### Art. 6
+### Art. 6
 
 Le Parti contendenti si astengono dall'adottare qualsivoglia provvedimento che potrebbe compromettere o pregiudicare il lodo del tribunale arbitrale. Su richiesta di una delle Parti contendenti, il tribunale arbitrale ha il potere di indicare le misure cautelari che debbono essere prese a salvaguardia dei diritti rispettivi di ciascuna Parte contendente.
 
-##### Art. 7
+### Art. 7
 
 A meno che le Parti contendenti non abbiano convenuto diversamente, il tribunale arbitrale provvedera' alla definizione della lingua o delle lingue ufficiali della Convenzione delle Alpi che andranno utilizzate nell'ambito della procedura.
 
-##### Art. 8
+### Art. 8
 
 1\. Le Parti contendenti agevoleranno il lavoro del tribunale arbitrale e, in particolare, utilizzando ogni mezzo a loro disposizione:
 
@@ -845,37 +825,37 @@ b) permetteranno al tribunale, se necessario, di convocare testimoni o esperti e
 
 2\. Tutti i documenti e le informazioni che verranno sottoposti all'attenzione del tribunale arbitrale da una delle Parti contendenti, dovranno, dalla stessa, essere contemporaneamente portati a conoscenza anche dell'altra Parte contendente.
 
-##### Art. 9
+### Art. 9
 
 Il tribunale pronuncia il suo lodo in conformita' con il diritto internazionale e le disposizioni della Convenzione delle Alpi e dei suoi Protocolli.
 
-##### Art. 10
+### Art. 10
 
 L'assenza di una Parte o la sua mancanza di difesa non costituira' un ostacolo allo svolgimento del procedimento. Prima di pronunciare il lodo definitivo, il tribunale arbitrale deve accertarsi che la domanda sia fondata sia per quanto riguarda il merito che da un punto di vista giuridico.
 
-##### Art. 11
+### Art. 11
 
 Il tribunale arbitrale pronuncera' il suo lodo definitivo entro 6 mesi dalla data alla quale e' interamente costituito, a meno che non ritenga necessario prorogare il termine per un periodo al massimo di 6 mesi.
 
-##### Art. 12
+### Art. 12
 
 Sia per quanto riguarda le questioni giuridiche inerenti alla procedura che gli aspetti di merito, il tribunale arbitrale decide a maggioranza dei propri membri. Il lodo e' definitivo e vincolante per le Parti contendenti. Il tribunale arbitrale deve rendere note le motivazioni che hanno originato il lodo stesso. Le Parti contendenti danno tempestiva esecuzione al lodo.
 
-##### Art. 13
+### Art. 13
 
 A meno che il tribunale arbitrale non decida diversamente, a causa di particolari circostanze della fattispecie, le spese di tribunale, compresi gli emolumenti dei suoi membri, saranno a carico, in parti uguali, delle Parti contendenti.
 
-##### Art. 14
+### Art. 14
 
 Il Presidente del tribunale arbitrale comunica il lodo alle Parti contendenti ed alla Presidenza della Conferenza delle Alpi. La Presidenza inoltra a sua volta il lodo alle Parti contraenti ed agli osservatori ai sensi dell'articolo 5, quinto comma, della Convenzione delle Alpi.
 
-##### Art. 15
+### Art. 15
 
 1\. La denuncia del presente Protocollo e' ammissibile soltanto contemporaneamente alla denuncia della Convenzione delle Alpi.
 
 2\. Il presente Protocollo, tuttavia, continua ad applicarsi alla Parte denunciante per quanto riguarda i procedimenti in corso alla data dell'efficacia della denuncia. Tali procedimenti proseguono fino alla loro conclusione.
 
-##### Art. 16
+### Art. 16
 
 1\. Il presente Protocollo e' depositato per la firma da parte delle Parti contraenti della Convenzione delle Alpi e la Comunita' Europea il 31 ottobre 2000 nonche' dal 6 novembre 2000 presso la Repubblica d'Austria quale Depositario.
 
@@ -883,7 +863,7 @@ Il Presidente del tribunale arbitrale comunica il lodo alle Parti contendenti ed
 
 3\. Per le Parti contraenti che esprimeranno successivamente il proprio consenso ad essere vincolate dal presente Protocollo, esso entrera' in vigore tre mesi dopo il giorno del deposito dello strumento di ratifica, accettazione o approvazione. In seguito all'entrata in vigore di una modifica del presente Protocollo, ogni nuova Parte contraente del Protocollo medesimo diventa Parte contraente dello stesso Protocollo modificato.
 
-##### Art. 17
+### Art. 17
 
 Il Depositario notifica a ciascuno Stato nominato nel preambolo e alla Comunita' Europea in relazione al presente Protocollo:
 
@@ -901,9 +881,7 @@ In fede di cio', il presente Protocollo e' stato sottoscritto dai firmatari debi
 
 Fatto a Lucerna, il 31 ottobre 2000, in lingua francese, italiana, slovena e tedesca, laddove ciascuno dei quattro testi fa egualmente fede, in un originale depositato presso l'Archivio di Stato Austriaco. Il Depositario trasmette copie certificate conformi alle Parti firmatarie.
 
-## Capitolo I
-
-#### Disposizioni generali
+## Capitolo I - Disposizioni generali
 
 PROTOCOLLO DI ATTUAZIONE DELLA CONVENZIONE DELLE ALPI NELL'AMBITO DELLA DIFESA DEL SUOLO
 
@@ -951,7 +929,7 @@ convinti che determinati problemi possono essere risolti soltanto sul piano tran
 
 hanno convenuto quanto segue:
 
-##### Art. 1
+### Art. 1
 
 Finalita'
 
@@ -989,7 +967,7 @@ Occorre in particolare garantire e conservare nel lungo periodo, in senso quanti
 
 5\. Per questi scopi assume particolare importanza il principio della prevenzione in funzione di uno sviluppo sostenibile, che comprende la salvaguardia della funzionalita' e dei potenziali usi dei suoli a scopi diversi, nonche' la loro disponibilita' per le future generazioni.
 
-##### Art. 2
+### Art. 2
 
 Impegni fondamentali
 
@@ -1001,7 +979,7 @@ Impegni fondamentali
 
 Devono essere particolarmente incentivate le iniziative coerenti con la difesa del suolo e con il suo uso parsimonioso e nel rispetto dell'ambiente.
 
-##### Art. 3
+### Art. 3
 
 Considerazione delle finalita'
 
@@ -1009,7 +987,7 @@ nelle altre politiche
 
 Le Parti contraenti si impegnano a considerare gli obiettivi stabiliti da questo Protocollo anche nelle altre loro politiche. Nel territorio alpino, cio' vale in particolare per l'assetto del territorio, gli insediamenti ed i trasporti, per il settore energetico, l'agricoltura e l'economia forestale, l'estrazione di materie prime, l'industria, l'artigianato, il turismo, la protezione della natura e la tutela del paesaggio, la gestione delle acque e dei rifiuti, nonche' la salvaguardia della qualita' dell'aria.
 
-##### Art. 4
+### Art. 4
 
 Partecipazione degli enti territoriali
 
@@ -1017,7 +995,7 @@ Partecipazione degli enti territoriali
 
 2\. Nel rispetto delle loro competenze, nel quadro istituzionale vigente, gli enti territoriali direttamente interessati partecipano ai diversi stadi di preparazione e attuazione delle relative politiche e misure.
 
-##### Art. 5
+### Art. 5
 
 Cooperazione internazionale
 
@@ -1027,17 +1005,15 @@ Cooperazione internazionale
 
 3\. Se la definizione di misure riguardanti la difesa del suolo e' di competenza nazionale o internazionale, occorre dare agli enti territoriali la possibilita' di rappresentare con efficacia gli interessi della popolazione.
 
-## Capitolo II
+## Capitolo II - Misure specifiche
 
-#### Misure specifiche
-
-##### Art. 6
+### Art. 6
 
 Delimitazione di aree
 
 Le Parti contraenti controllano che nella delimitazione di aree protette vengano inclusi anche i suoli meritevoli di protezione. Sono da conservare in particolare le formazioni di suoli e rocce, che abbiano caratteristiche tipiche o di particolare significato per la documentazione della storia della terra.
 
-##### Art. 7
+### Art. 7
 
 Uso parsimonioso e rispettoso dei suoli
 
@@ -1049,7 +1025,7 @@ Uso parsimonioso e rispettoso dei suoli
 
 4\. Se le condizioni naturali lo permettono, i terreni non piu' utilizzati o compromessi, in particolare discariche di rifiuti e minerarie, infrastrutture, piste da sci, debbono essere rinaturalizzati o ricoltivati.
 
-##### Art. 8
+### Art. 8
 
 Uso parsimonioso delle risorse minerarie
 
@@ -1059,7 +1035,7 @@ e attivita' estrattive rispettose del suolo
 
 2\. Occorre limitare il piu' possibile l'impatto dell'estrazione, della lavorazione e dell'impiego di risorse minerarie sulle altre funzioni del suolo. Nelle aree di particolare interesse per la difesa delle funzioni del suolo ed in quelle delimitate per il prelievo di acqua potabile, occorre rinunciare all'estrazione delle risorse minerarie.
 
-##### Art. 9
+### Art. 9
 
 Conservazione dei suoli
 
@@ -1071,7 +1047,7 @@ in zone umide e torbiere
 
 3\. I suoli di torbiera, in linea di principio, non vanno utilizzati, oppure vanno utilizzati per uso agricolo, in modo da conservarne le caratteristiche.
 
-##### Art. 10
+### Art. 10
 
 Delimitazione e trattamento di aree a rischio
 
@@ -1079,7 +1055,7 @@ Delimitazione e trattamento di aree a rischio
 
 2\. Le Parti contraenti provvedono affinche' nelle aree a rischio siano applicate, per quanto possibile, tecniche di ingegneria naturalistica, nonche' impiegati materiali da costruzione locali e tradizionali, adatti alle condizioni paesaggistiche. Queste misure sono da supportare con idonei provvedimenti silvicolturali.
 
-##### Art. 11
+### Art. 11
 
 Delimitazione e trattamento
 
@@ -1093,7 +1069,7 @@ Le superfici danneggiate dall'erosione e dagli smottamenti devono essere risanat
 
 3\. In funzione della protezione dell'uomo e dei beni materiali occorre attuare misure per arginare l'erosione dovuta alle acque e contenere i deflussi in superficie, preferibilmente impiegando delle tecniche naturalistiche di regimazione delle acque, di ingegneria delle costruzioni e di gestione forestale.
 
-##### Art. 12
+### Art. 12
 
 Agricoltura, pastorizia
 
@@ -1107,7 +1083,7 @@ e economia forestale
 
 Occorre rinunciare all'impiego di fanghi di depurazione.
 
-##### Art. 13
+### Art. 13
 
 Misure silvicolturali ed altre misure
 
@@ -1115,7 +1091,7 @@ Misure silvicolturali ed altre misure
 
 2\. Le foreste, in particolare, devono essere utilizzate e gestite in modo da evitare erosioni e costipamenti dannosi del suolo. A tal fine occorre promuovere anche una silvicoltura adatta al sito e metodi naturali di rinnovazione forestale.
 
-##### Art. 14
+### Art. 14
 
 Effetti delle infrastrutture turistiche
 
@@ -1131,7 +1107,7 @@ le autorizzazioni di costruzione e di livellamento delle piste da sci nelle fore
 
 3\. Se si constatano danni importanti al suolo e alla vegetazione le Parti contraenti adotteranno quanto prima le misure di ripristino necessarie.
 
-##### Art. 15
+### Art. 15
 
 Limitazione degli apporti di inquinanti
 
@@ -1139,7 +1115,7 @@ Limitazione degli apporti di inquinanti
 
 2\. Per evitare la contaminazione dei suoli derivante dall'uso di sostanze pericolose, le Parti contraenti adottano regolamenti tecnici, prevedono controlli ed attuano programmi di ricerca e azioni di informazione.
 
-##### Art. 16
+### Art. 16
 
 Impiego compatibile con l'ambiente
 
@@ -1147,7 +1123,7 @@ di sostanze antisdrucciolo
 
 Le Parti contraenti si impegnano a ridurre al minimo l'impiego di sale antigelo e ad utilizzare, per quanto possibile, sostanze antisdrucciolo e meno contaminanti, come la ghiaia e la sabbia.
 
-##### Art. 17
+### Art. 17
 
 Suoli contaminati, aree contaminate dismesse, gestione dei rifiuti
 
@@ -1155,17 +1131,15 @@ Suoli contaminati, aree contaminate dismesse, gestione dei rifiuti
 
 2\. Per evitare la contaminazione dei suoli, nonche' per il trattamento preliminare, il trattamento ed il deposito di rifiuti e di scorie, attuati in modo compatibile con l'ambiente, occorre definire e realizzare dei sistemi di gestione dei rifiuti.
 
-##### Art. 18
+### Art. 18
 
 Misure integrative
 
 Le Parti contraenti possono adottare misure integrative a quelle previste dal presente Protocollo per la difesa del suolo.
 
-## Capitolo III
+## Capitolo III - Ricerca, formazione e informazione
 
-#### Ricerca, formazione e informazione
-
-##### Art. 19
+### Art. 19
 
 Ricerca e osservazione
 
@@ -1177,7 +1151,7 @@ Ricerca e osservazione
 
 4\. Occorre attribuire una particolare attenzione alla valutazione del grado di sensibilita' del suolo in rapporto alle diverse attivita' umane, alla valutazione della capacita' rigenerativa dei suoli, nonche' all'esame delle rispettive tecnologie piu' idonee.
 
-##### Art. 20
+### Art. 20
 
 Realizzazione di basi di dati armonizzate
 
@@ -1187,7 +1161,7 @@ Realizzazione di basi di dati armonizzate
 
 3\. Le Parti contraenti mirano a rilevare in modo rappresentativo, sulla base di criteri di valutazione uguali e metodi armonizzati, lo stato dei suoli nel territorio alpino, tenendo conto della situazione geologica e idrogeologica.
 
-##### Art. 21
+### Art. 21
 
 Istituzione di aree di osservazione permanente e coordinamento dell'osservazione ambientale
 
@@ -1197,23 +1171,21 @@ Istituzione di aree di osservazione permanente e coordinamento dell'osservazione
 
 3\. Nell'ambito di questi studi le Parti contraenti creeranno banche di campionamento del suolo, sulla base di criteri comparabili.
 
-##### Art. 22
+### Art. 22
 
 Formazione e informazione
 
 Le Parti contraenti promuovono la formazione e l'aggiornamento, nonche' l'informazione pubblica in relazione agli obiettivi, alle misure e all'attuazione del presente Protocollo.
 
-## Capitolo IV
+## Capitolo IV - Attuazione, controllo e valutazione
 
-#### Attuazione, controllo e valutazione
-
-##### Art. 23
+### Art. 23
 
 Attuazione
 
 Le Parti contraenti si impegnano ad assicurare l'attuazione del presente Protocollo mediante misure adeguate nel quadro istituzionale vigente.
 
-##### Art. 24
+### Art. 24
 
 Controllo del rispetto degli obblighi
 
@@ -1225,7 +1197,7 @@ Controllo del rispetto degli obblighi
 
 4\. La Conferenza delle Alpi prende atto di questo resoconto. Essa, qualora constati un mancato adempimento degli obblighi, puo' adottare raccomandazioni.
 
-##### Art. 25
+### Art. 25
 
 Valutazione dell'efficacia delle disposizioni
 
@@ -1233,11 +1205,9 @@ Valutazione dell'efficacia delle disposizioni
 
 2\. A questa valutazione partecipano gli enti territoriali, nel quadro istituzionale vigente. Possono essere sentite le organizzazioni non-governative attive nel campo specifico.
 
-## Capitolo V
+## Capitolo V - Norme finali
 
-#### Norme finali
-
-##### Art. 26
+### Art. 26
 
 Corrispondenza tra la Convenzione delle Alpi
 
@@ -1249,7 +1219,7 @@ e il Protocollo
 
 3\. Quando la Conferenza delle Alpi delibera questioni concernenti il presente Protocollo, solo le Parti contraenti dello stesso Protocollo sono ammesse alle relative votazioni.
 
-##### Art. 27
+### Art. 27
 
 Firma e ratifica
 
@@ -1259,7 +1229,7 @@ Firma e ratifica
 
 3\. Per le Parti contraenti che esprimeranno successivamente proprio consenso ad essere vincolate dal presente Protocollo, esso entrera' in vigore tre mesi dopo il giorno del deposito dello strumento di ratifica, accettazione o approvazione. In seguito all'entrata in vigore di una modifica del presente Protocollo, ogni nuova Parte contraente del Protocollo medesimo diventa Parte contraente dello stesso Protocollo modificato.
 
-##### Art. 28
+### Art. 28
 
 Notifiche
 
@@ -1297,9 +1267,7 @@ Per la Confederazione Svizzera
 
 Per la Comunita' Europea
 
-## Capitolo I
-
-#### Disposizioni generali
+## Capitolo I - Disposizioni generali
 
 PROTOCOLLO DI ATTUAZIONE DELLA CONVENZIONE DELLE ALPI DEL 1991 NELL'AMBITO DELL'ENERGIA
 
@@ -1357,13 +1325,13 @@ convinti che nel territorio delle Alpi le misure per l'uso razionale dell'energi
 
 hanno convenuto quanto segue:
 
-##### Art. 1
+### Art. 1
 
 Finalita'
 
 Le Parti contraenti si impegnano a creare condizioni quadro e ad assumere concrete misure in materia di risparmio energetico, produzione, trasporto, distribuzione ed utilizzo dell'energia nell'ambito territoriale di applicazione della Convenzione delle Alpi atte a realizzare una situazione energetica di sviluppo sostenibile, compatibile con i limiti specifici di tolleranza del territorio alpino; cosi' facendo, le Parti contraenti forniranno un importante contributo alla protezione della popolazione e dell'ambiente, alla salvaguardia delle risorse e del clima.
 
-##### Art. 2
+### Art. 2
 
 Impegni fondamentali
 
@@ -1393,7 +1361,7 @@ d) contenere gli effetti negativi delle infrastrutture energetiche sull'ambiente
 
 6\. Le Parti contraenti collaboreranno in campo energetico nello sviluppo di metodi che tengano in maggior conto la realta' dei costi.
 
-##### Art. 3
+### Art. 3
 
 Conformita' con il diritto internazionale
 
@@ -1403,7 +1371,7 @@ e con le altre politiche
 
 2\. Le Parti contraenti si impegnano a considerare gli obiettivi stabiliti da questo Protocollo anche nelle altre loro politiche, tenendoli presenti, in particolare, nei settori dell'assetto del territorio e dello sviluppo regionale, dei trasporti, dell'economia agricola e forestale e del turismo, al fine di evitare eventuali effetti negativi o contraddittori nel territorio delle Alpi.
 
-##### Art. 4
+### Art. 4
 
 Partecipazione degli enti territoriali
 
@@ -1413,11 +1381,9 @@ Partecipazione degli enti territoriali
 
 3\. Le Parti contraenti incoraggiano la cooperazione internazionale tra le istituzioni direttamente interessate ai problemi dell'energia e dell'ambiente allo scopo di favorire l'accordo sulle soluzioni ai problemi comuni.
 
-## Capitolo II
+## Capitolo II - Misure specifiche
 
-#### Misure specifiche
-
-##### Art. 5
+### Art. 5
 
 Risparmio energetico
 
@@ -1451,7 +1417,7 @@ g) promozione ed attuazione di piani energetici e climatici comunali/locali nel 
 
 h) risanamento energetico degli edifici in caso di ristrutturazioni ed incoraggiamento dell'adozione di sistemi di riscaldamento ecocompatibili.
 
-##### Art. 6
+### Art. 6
 
 Fonti energetiche rinnovabili
 
@@ -1463,7 +1429,7 @@ Fonti energetiche rinnovabili
 
 4\. Le Parti contraenti, in particolare, promuovono l'utilizzo razionale delle risorse idriche e del legno proveniente dalla gestione durevole delle foreste montane per la produzione di energia.
 
-##### Art. 7
+### Art. 7
 
 Energia idroelettrica
 
@@ -1477,7 +1443,7 @@ Energia idroelettrica
 
 5\. Le Parti contraenti possono esaminare, in conformita' con il rispettivo diritto nazionale, la possibilita' di come imputare agli utenti finali di risorse alpine prezzi di mercato, nonche' in quale modo e misura ricompensare equamente le popolazioni locali per prestazioni rese nell'interesse della comunita'.
 
-##### Art. 8
+### Art. 8
 
 Energia da combustibili fossili
 
@@ -1489,7 +1455,7 @@ Energia da combustibili fossili
 
 4\. Nelle zone di confine, le Parti contraenti provvedono, per quanto possibile, all'armonizzazione ed al collegamento dei loro sistemi di monitoraggio delle emissioni e delle immissioni.
 
-##### Art. 9
+### Art. 9
 
 Energia nucleare
 
@@ -1497,7 +1463,7 @@ Energia nucleare
 
 2\. Inoltre le Parti contraenti provvedono, per quanto possibile, all'armonizzazione ed al collegamento dei loro sistemi di monitoraggio della radioattivita' nell'ambiente.
 
-##### Art. 10
+### Art. 10
 
 Trasporto e distribuzione di energia
 
@@ -1507,7 +1473,7 @@ Trasporto e distribuzione di energia
 
 3\. Le Parti contraenti tengono conto, per quanto riguarda le linee di trasporto dell'energia, in particolare dell'importanza delle aree protette con le loro zone cuscinetto, le zone di rispetto e di quiete e di quelle integre dal punto di vista naturalistico e paesaggistico nonche' dell'avifauna.
 
-##### Art. 11
+### Art. 11
 
 Rinaturalizzazione
 
@@ -1515,7 +1481,7 @@ ed ingegneria naturalistica
 
 Le Parti contraenti definiscono, nei progetti di massima, ovvero nelle valutazioni dell'impatto ambientale previsti nel quadro legislativo vigente, le modalita' di rinaturalizzazione e di recupero dei corpi idrici, a seguito della esecuzione di opere pubbliche e private nel campo energetico che interessino l'ambiente e gli ecosistemi del territorio alpino, ricorrendo per quanto possibile a tecniche di ingegneria naturalistica.
 
-##### Art. 12
+### Art. 12
 
 Valutazione dell'impatto ambientale
 
@@ -1523,7 +1489,7 @@ Valutazione dell'impatto ambientale
 
 2\. Le Parti contraenti concordano sulla opportunita' che siano adottate, per quanto possibile, le migliori tecniche disponibili volte ad eliminare od attenuare il disagio ambientale prevedendo anche, come parte delle alternative possibili, l'eventuale smantellamento di strutture in disuso non ecocompatibili.
 
-##### Art. 13
+### Art. 13
 
 Concertazione
 
@@ -1531,17 +1497,15 @@ Concertazione
 
 2\. Per quanto riguarda progetti con possibili effetti transfrontalieri, le Parti contraenti interessate devono essere messe in grado di formulare tempestivamente le proprie osservazioni, delle quali si terra' conto adeguatamente nell'ambito del processo autorizzativo.
 
-##### Art. 14
+### Art. 14
 
 Misure integrative
 
 Le Parti contraenti possono adottare misure integrative a quelle previste dal presente Protocollo per le questioni energetiche e per lo sviluppo sostenibile.
 
-## Capitolo III
+## Capitolo III - Ricerca, formazione e informazione
 
-#### Ricerca, formazione e informazione
-
-##### Art. 15
+### Art. 15
 
 Ricerca e osservazione
 
@@ -1551,7 +1515,7 @@ Ricerca e osservazione
 
 3\. Le Parti contraenti provvedono affinche' i risultati nazionali della ricerca e dell'osservazione sistematica siano raccolti in un sistema comune di osservazione e informazione permanenti e siano resi pubblicamente accessibili nel quadro istituzionale vigente.
 
-##### Art. 16
+### Art. 16
 
 Formazione e informazione
 
@@ -1559,17 +1523,15 @@ Formazione e informazione
 
 2\. Esse favoriscono in particolare l'ulteriore sviluppo della formazione e dell'aggiornamento professionale e dell'assistenza tecnica in materia energetica, includendovi la protezione dell'ambiente, della natura e del clima.
 
-## Capitolo IV
+## Capitolo IV - Attuazione, controllo e valutazione
 
-#### Attuazione, controllo e valutazione
-
-##### Art. 17
+### Art. 17
 
 Attuazione
 
 Le Parti contraenti si impegnano ad assicurare l'attuazione del presente Protocollo mediante misure adeguate nel quadro istituzionale vigente.
 
-##### Art. 18
+### Art. 18
 
 Controllo del rispetto degli obblighi
 
@@ -1581,7 +1543,7 @@ Controllo del rispetto degli obblighi
 
 4\. La Conferenza delle Alpi prende atto di questo resoconto. Essa, qualora constati un mancato adempimento degli obblighi, puo' adottare raccomandazioni.
 
-##### Art. 19
+### Art. 19
 
 Valutazione dell'efficacia delle disposizioni
 
@@ -1589,11 +1551,9 @@ Valutazione dell'efficacia delle disposizioni
 
 2\. A questa valutazione partecipano gli enti territoriali, nel quadro istituzionale vigente. Possono essere sentite le organizzazioni non-governative attive nel campo specifico.
 
-## Capitolo V
+## Capitolo V - Norme finali
 
-#### Norme finali
-
-##### Art. 20
+### Art. 20
 
 Corrispondenza tra la Convenzione delle Alpi
 
@@ -1605,7 +1565,7 @@ e il Protocollo
 
 3\. Quando la Conferenza delle Alpi delibera questioni concernenti il presente Protocollo, solo le Parti contraenti dello stesso Protocollo sono ammesse alle relative votazioni.
 
-##### Art. 21
+### Art. 21
 
 Firma e ratifica
 
@@ -1615,7 +1575,7 @@ Firma e ratifica
 
 3\. Per le Parti contraenti che esprimeranno successivamente il proprio consenso ad essere vincolate dal presente Protocollo, esso entrera' in vigore tre mesi dopo il giorno del deposito dello strumento di ratifica, accettazione o approvazione. In seguito all'entrata in vigore di una modifica del presente Protocollo, ogni nuova Parte contraente del Protocollo medesimo diventa Parte contraente dello stesso Protocollo modificato.
 
-##### Art. 22
+### Art. 22
 
 Notifiche
 
@@ -1653,9 +1613,7 @@ Per la Confederazione Svizzera
 
 Per la Comunita' Europea
 
-## Capitolo I
-
-#### Disposizioni generali
+## Capitolo I - Disposizioni generali
 
 PROTOCOLLO DI ATTUAZIONE DELLA CONVENZIONE DELLE ALPI DEL 1991 NELL'AMBITO DELLA PROTEZIONE DELLA NATURA E DELLA TUTELA DEL PAESAGGIO
 
@@ -1709,19 +1667,19 @@ convinti che determinati problemi possono essere risolti soltanto sul piano tran
 
 hanno convenuto quanto segue:
 
-##### Art. 1
+### Art. 1
 
 Finalita'
 
 L'obiettivo del presente Protocollo e' quello di stabilire norme internazionali, in attuazione della Convenzione delle Alpi e tenuto conto anche degli interessi della popolazione locale, al fine di proteggere, di curare e, in quanto necessario, di ripristinare la natura e il paesaggio, in modo da assicurare durevolmente e complessivamente: l'efficienza funzionale degli ecosistemi, la conservazione degli elementi paesaggistici e delle specie animali e vegetali selvatiche insieme ai loro habitat naturali, la capacita' regenerativa e la produttivita' durevole delle risorse naturali, nonche' la diversita', la peculiarita' e la bellezza del paesaggio naturale e rurale; nonche' al fine di promuovere la cooperazione tra le Parti contraenti, a cio' necessaria.
 
-##### Art. 2
+### Art. 2
 
 Impegni fondamentali
 
 In conformita' con il presente Protocollo, ciascuna Parte contraente si impegna a adottare le misure necessarie per assicurare la protezione, la cura e, per quanto necessario, il ripristino della natura e del paesaggio nel territorio alpino, insieme alle specie animali e vegetali selvatiche, alla loro diversita' e il loro habitat, considerando nel contempo le possibilita' di un loro uso ecologicamente tollerabile.
 
-##### Art. 3
+### Art. 3
 
 Cooperazione internazionale
 
@@ -1731,7 +1689,7 @@ Cooperazione internazionale
 
 3\. Esse cercano di concertare le condizioni quadro per l'adozione di vincoli limitativi degli usi in funzione delle finalita' del presente Protocollo.
 
-##### Art. 4
+### Art. 4
 
 Considerazione delle finalita'
 
@@ -1739,7 +1697,7 @@ nelle altre politiche
 
 Le Parti contraenti si impegnano a considerare gli obiettivi stabiliti da questo Protocollo anche nelle altre loro politiche e in particolare nell'ambito: della pianificazione territoriale e dell'urbanistica, della salvaguardia della qualita' dell'aria, della difesa del suolo, della salvaguardia dell'equilibrio idrico e della qualita' delle acque, del turismo, dell'economia agricola e forestale, delle politiche dei trasporti e dell'energia, dell'industria e dell'artigianato, della gestione dei rifiuti; inoltre nell'ambito della formazione, dell'educazione, della ricerca e dell'informazione; nonche' nell'ambito della concertazione transfrontaliera delle relative misure.
 
-##### Art. 5
+### Art. 5
 
 Partecipazione degli enti territoriali
 
@@ -1747,17 +1705,15 @@ Partecipazione degli enti territoriali
 
 2\. Nel rispetto delle loro competenze, nel quadro istituzionale vigente, gli enti territoriali direttamente interessati partecipano ai diversi stadi di preparazione e attuazione delle relative politiche e misure.
 
-## Capitolo II
+## Capitolo II - Misure specifiche
 
-#### Misure specifiche
-
-##### Art. 6
+### Art. 6
 
 Inventari
 
 Le Parti contraenti si impegnano a presentare, a distanza di tre anni dall'entrata in vigore del presente Protocollo, lo stato di fatto della protezione della natura e della tutela del paesaggio, in relazione alle materie elencate nell'allegato I. Queste presentazioni vengono aggiornate regolarmente, a scadenze almeno decennali.
 
-##### Art. 7
+### Art. 7
 
 Pianificazione paesaggistica
 
@@ -1773,13 +1729,13 @@ le misure generali di protezione, gestione e sviluppo,
 
 le misure per la protezione, la gestione e lo sviluppo di determinate parti della natura e del paesaggio e le misure per la protezione e la gestione di fauna e flora selvatiche.
 
-##### Art. 8
+### Art. 8
 
 Pianificazione
 
 Le Parti contraenti adottano le misure necessarie affinche' la conservazione e lo sviluppo degli habitat naturali e quasi naturali delle specie animali e vegetali selvatiche, nonche' degli altri elementi strutturali del paesaggio naturale e rurale siano perseguiti sulla base della pianificazione paesaggistica in sintonia con la pianificazione territoriale.
 
-##### Art. 9
+### Art. 9
 
 Interventi nella natura e nel paesaggio
 
@@ -1787,7 +1743,7 @@ Interventi nella natura e nel paesaggio
 
 2\. In conformita' con il diritto nazionale, le compromissioni inevitabili devono essere compensate mediante misure di protezione della natura e di tutela del paesaggio, mentre le compromissioni non compensabili possono essere ammesse solo a condizione che, valutati tutti gli interessi, non prevalgano le esigenze di protezione della natura e di tutela del paesaggio; anche in questi casi si deve comunque provvedere a misure di protezione della natura e di tutela del paesaggio.
 
-##### Art. 10
+### Art. 10
 
 Protezione di base
 
@@ -1799,7 +1755,7 @@ Esse adottano inoltre tutte le misure idonee a conservare e, per quanto necessar
 
 3\. Ad integrazione dei mezzi disponibili per la protezione della natura, occorre che le misure di incentivazione e di sostegno a favore dell'economia agricola e forestale nonche' di altri usi del territorio siano maggiormente impiegate in funzione di questi obiettivi.
 
-##### Art. 11
+### Art. 11
 
 Aree protette
 
@@ -1811,13 +1767,13 @@ Aree protette
 
 4\. Le Parti contraenti esaminano le condizioni di compensazione delle prestazioni particolari rese dalla popolazione locale, in conformita' con il diritto nazionale.
 
-##### Art. 12
+### Art. 12
 
 Rete ecologica
 
 Le Parti contraenti assumono le misure idonee a creare una rete nazionale e transfrontaliera di aree protette, biotopi e altri beni ambientali protetti o meritevoli di protezione riconosciuti. Esse si impegnano ad armonizzare gli obiettivi e le misure in funzione di aree protette transfrontaliere.
 
-##### Art. 13
+### Art. 13
 
 Protezione di tipi di biotopi
 
@@ -1825,7 +1781,7 @@ Protezione di tipi di biotopi
 
 2\. Ai fini della redazione di liste valide per l'intero territorio alpino, le Parti contraenti si impegnano ad indicare, entro due anni dall'entrata in vigore del presente Protocollo, i tipi di biotopi che richiedono l'adozione di misure ai sensi del comma 1.
 
-##### Art. 14
+### Art. 14
 
 Protezione delle specie
 
@@ -1833,7 +1789,7 @@ Protezione delle specie
 
 2\. Per la redazione di liste valide per l'intero territorio alpino, le Parti contraenti indicano entro due anni dall'entrata in vigore del presente Protocollo, le specie che richiedono misure particolari di protezione, in quanto sono minacciate in modo specifico.
 
-##### Art. 15
+### Art. 15
 
 Divieti di prelievo e di commercio
 
@@ -1859,7 +1815,7 @@ Queste eccezioni debbono essere accompagnate da misure di controllo e se necessa
 
 5\. A prescindere dall'entrata in vigore del presente Protocollo, le Parti contraenti si impegnano a precisare, quanto prima, mediante supplementi tecnici, la definizione dei periodi di riproduzione, di crescita e di svernamento, di cui al comma l, nonche' ogni altra definizione di difficile interpretazione scientifica.
 
-##### Art. 16
+### Art. 16
 
 Reintroduzione di specie autoctone
 
@@ -1867,7 +1823,7 @@ Reintroduzione di specie autoctone
 
 2\. La reintroduzione e la diffusione devono avvenire sulla base di conoscenze scientifiche. Le Parti contraenti concordano al riguardo direttive comuni. In seguito alla reintroduzione occorre controllare e, se necessario, regolare lo sviluppo delle rispettive specie animali e vegetali.
 
-##### Art. 17
+### Art. 17
 
 Divieti di introduzione
 
@@ -1875,7 +1831,7 @@ Le Parti contraenti assicurano che non siano introdotte specie animali e vegetal
 
 Esse possono provvedere ad eccezioni nei casi in cui l'introduzione e' necessaria per determinati usi e non comporta effetti negativi per la natura e il paesaggio.
 
-##### Art. 18
+### Art. 18
 
 Rilascio di organismi mutati
 
@@ -1883,17 +1839,15 @@ con tecniche genetiche
 
 Le Parti contraenti assicurano che organismi mutati con tecniche genetiche siano rilasciati nell'ambiente solo quando, in base a una valutazione formale, il rilascio non comporta alcun rischio per l'uomo e l'ambiente.
 
-##### Art. 19
+### Art. 19
 
 Misure integrative
 
 Le Parti contraenti possono adottare misure integrative a quelle previste dal presente Protocollo per la protezione della natura e la tutela del paesaggio.
 
-## Capitolo III
+## Capitolo III - Ricerca, formazione e informazione
 
-#### Ricerca, formazione e informazione
-
-##### Art. 20
+### Art. 20
 
 Ricerca e osservazione
 
@@ -1903,23 +1857,21 @@ Ricerca e osservazione
 
 3\. Le Parti contraenti provvedono affinche' i risultati nazionali della ricerca e dell'osservazione sistematica siano raccolti in un sistema comune di osservazione e informazione permanenti e siano resi pubblicamente accessibili nel quadro istituzionale vigente.
 
-##### Art. 21
+### Art. 21
 
 Formazione e informazione
 
 Le Parti contraenti promuovono la formazione e l'aggiornamento, nonche' l'informazione pubblica in relazione agli obiettivi, alle misure e all'attuazione del presente Protocollo.
 
-## Capitolo IV
+## Capitolo IV - Attuazione, controllo e valutazione
 
-#### Attuazione, controllo e valutazione
-
-##### Art. 22
+### Art. 22
 
 Attuazione
 
 Le Parti contraenti si impegnano ad assicurare l'attuazione del presente Protocollo mediante misure adeguate nel quadro istituzionale vigente.
 
-##### Art. 23
+### Art. 23
 
 Controllo del rispetto degli obblighi
 
@@ -1931,7 +1883,7 @@ Controllo del rispetto degli obblighi
 
 4\. La Conferenza delle Alpi prende atto di questo resoconto. Essa, qualora constati un mancato adempimento degli obblighi, puo' adottare raccomandazioni.
 
-##### Art. 24
+### Art. 24
 
 Valutazione dell'efficacia delle disposizioni
 
@@ -1939,11 +1891,9 @@ Valutazione dell'efficacia delle disposizioni
 
 2\. A questa valutazione partecipano gli enti territoriali, nel quadro istituzionale vigente. Possono essere sentite le organizzazioni non-governative attive nel campo specifico.
 
-## Capitolo V
+## Capitolo V - Norme finali
 
-#### Norme finali
-
-##### Art. 25
+### Art. 25
 
 Corrispondenza tra la Convenzione delle Alpi e il Protocollo
 
@@ -1953,7 +1903,7 @@ Corrispondenza tra la Convenzione delle Alpi e il Protocollo
 
 3\. Quando la Conferenza delle Alpi delibera questioni concernenti il presente Protocollo, solo le Parti contraenti dello stesso Protocollo sono ammesse alle relative votazioni.
 
-##### Art. 26
+### Art. 26
 
 Firma e ratifica
 
@@ -1963,7 +1913,7 @@ Firma e ratifica
 
 3\. Per le Parti contraenti che esprimeranno successivamente il proprio consenso ad essere vincolate dal presente Protocollo, esso entrera' in vigore tre mesi dopo il giorno del deposito dello strumento di ratifica, accettazione o approvazione. In seguito all'entrata in vigore di una modifica del presente Protocollo, ogni nuova Parte contraente del Protocollo medesimo diventa Parte contraente dello stesso Protocollo modificato.
 
-##### Art. 27
+### Art. 27
 
 Notifiche
 
@@ -2001,7 +1951,7 @@ Per la Confederazione Svizzera
 
 Per la Comunita' Europea
 
-##### Allegato I
+### Allegato I
 
 Allegato I
 
@@ -2145,7 +2095,7 @@ ai sensi dell'articolo 6
 
 7\. Conclusioni, raccomandazioni di misure
 
-##### Allegato II
+### Allegato II
 
 Allegato II
 
@@ -2173,9 +2123,7 @@ F. Sviluppo di strategie e modelli per la protezione della natura e la tutela de
 
 Nota: Obiettivi strategici e possibilita' di successo, modelli di protezione, gestioni estensive, strumenti di economia del mercato, accettazione da parte della pubblica opinione.
 
-## Capitolo I
-
-#### Disposizioni generali
+## Capitolo I - Disposizioni generali
 
 PROTOCOLLO DI ATTUAZIONE DELLA CONVENZIONE DELLE ALPI DEL 1991 NELL'AMBITO DELL'AGRICOLTURA DI MONTAGNA
 
@@ -2221,7 +2169,7 @@ convinti che determinati problemi possono essere risolti soltanto sul piano tran
 
 hanno convenuto quanto segue:
 
-##### Art. 1
+### Art. 1
 
 Finalita'
 
@@ -2229,7 +2177,7 @@ Finalita'
 
 2\. Nell'attuazione del presente Protocollo, le Parti contraenti perseguono lo sviluppo ottimale dei compiti multifunzionali dell'agricoltura di montagna.
 
-##### Art. 2
+### Art. 2
 
 Considerazione delle finalita'
 
@@ -2237,7 +2185,7 @@ nelle altre politiche
 
 Le Parti contraenti si impegnano a considerare gli obiettivi stabiliti da questo Protocollo anche nelle altre loro politiche.
 
-##### Art. 3
+### Art. 3
 
 Impegni fondamentali
 
@@ -2249,13 +2197,13 @@ a) l'incentivazione di un'agricoltura compatibile con l'ambiente e delle sue fun
 
 b) interventi significativi contro l'abbandono delle zone montane, assicurando anche in esse condizioni di vita adeguate, mediante misure di politica sociale e strutturale assieme a misure di politica agricola e ambientale.
 
-##### Art. 4
+### Art. 4
 
 Ruolo degli agricoltori
 
 Le Parti contraenti concordano nell'affermare che, in particolare nelle zone montane, l'agricoltura ha segnato nel corso dei secoli il paesaggio, caratterizzandolo storicamente e conferendogli valore culturale. Gli agricoltori vanno pertanto riconosciuti anche in futuro, per i loro compiti multifunzionali, come protagonisti essenziali del mantenimento del paesaggio naturale e rurale e resi partecipi delle decisioni e delle misure per le zone montane.
 
-##### Art. 5
+### Art. 5
 
 Partecipazione degli enti territoriali
 
@@ -2263,7 +2211,7 @@ Partecipazione degli enti territoriali
 
 2\. Nel rispetto delle loro competenze, nel quadro istituzionale vigente, gli enti territoriali direttamente interessati partecipano ai diversi stadi di preparazione e attuazione delle relative politiche e misure.
 
-##### Art. 6
+### Art. 6
 
 Cooperazione internazionale
 
@@ -2275,11 +2223,9 @@ b) di assicurare la realizzazione delle finalita' e delle misure stabilite dal p
 
 c) di promuovere sia lo scambio di conoscenze ed esperienze sia iniziative comuni, mediante la cooperazione internazionale tra istituti di ricerca e di formazione, tra organizzazioni agricole e ambientali, nonche' tra i media.
 
-## Capitolo II
+## Capitolo II - Misure specifiche
 
-#### Misure specifiche
-
-##### Art. 7
+### Art. 7
 
 Incentivazione dell'agricoltura di montagna
 
@@ -2287,7 +2233,7 @@ Incentivazione dell'agricoltura di montagna
 
 2\. Il contributo che l'agricoltura di montagna fornisce nell'interesse generale alla conservazione e alla cura del paesaggio naturale e rurale nonche' alla prevenzione dei rischi naturali, e che supera gli obblighi normali, viene equamente compensato nel quadro di accordi contrattuali vincolati a progetti e prestazioni.
 
-##### Art. 8
+### Art. 8
 
 Pianificazione territoriale
 
@@ -2301,7 +2247,7 @@ e paesaggio rurale
 
 4\. Misure particolari sono necessarie per la conservazione delle fattorie e degli elementi architettonici rurali tradizionali, nonche' per l'ulteriore impiego dei metodi e materiali caratteristici di costruzione.
 
-##### Art. 9
+### Art. 9
 
 Metodi di coltivazione adatti
 
@@ -2309,7 +2255,7 @@ alla natura e prodotti tipici
 
 Le Parti contraenti si impegnano ad adottare tutte le misure indispensabili, mirando all'applicazione di relativi criteri comuni per favorire l'impiego e la diffusione nelle zone montane di metodi di coltivazione estensiva, adatti alla natura e caratteristici del luogo, nonche' a tutelare e a valorizzare prodotti agricoli tipici che si distinguono per i metodi di produzione originali, localmente limitati e adatti alla natura.
 
-##### Art. 10
+### Art. 10
 
 Allevamenti adatti ai siti
 
@@ -2321,7 +2267,7 @@ e diversita' genetica
 
 3\. Inoltre si devono adottare le misure indispensabili, in particolare nell'ambito della ricerca e dell'assistenza tecnica, per il mantenimento della diversita' genetica degli allevamenti e delle colture.
 
-##### Art. 11
+### Art. 11
 
 Commercializzazione
 
@@ -2329,13 +2275,13 @@ Commercializzazione
 
 2\. La promozione avviene tra l'altro, mediante marchi di denominazione controllata dell'origine e di garanzia della qualita', a tutela sia dei produttori sia dei consumatori.
 
-##### Art. 12
+### Art. 12
 
 Limitazioni della produzione
 
 Le Parti contraenti intendono tener conto, nell'introduzione di limitazioni della produzione agricola, delle esigenze particolari di un'economia agricola nelle zone montane adatta ai siti e compatibile con l'ambiente.
 
-##### Art. 13
+### Art. 13
 
 Economia agricola e forestale
 
@@ -2349,13 +2295,13 @@ b) il rispetto delle funzioni protettive, produttive e ricreative, nonche' di qu
 
 c) una regolamentazione dell'attivita' di pastorizia e del popolamento di selvaggina, tale da evitare danni insostenibili alle foreste e alle aree ad uso agricolo.
 
-##### Art. 14
+### Art. 14
 
 Ulteriori fonti di reddito
 
 Riconoscendo l'importanza tradizionale delle aziende familiari nell'agricoltura di montagna e in modo da sostenere la loro conduzione a reddito pieno, complementare e accessorio, le Parti contraenti promuovono la creazione e lo sviluppo di ulteriori fonti di reddito nelle zone montane, soprattutto su iniziativa e a favore della stessa popolazione locale, e in particolare nei settori connessi con l'agricoltura come l'economia forestale, il turismo e l'artigianato, in sintonia con la conservazione del paesaggio naturale e rurale.
 
-##### Art. 15
+### Art. 15
 
 Miglioramento delle condizioni
 
@@ -2363,17 +2309,15 @@ di vita e lavoro
 
 Le Parti contraenti promuovono il potenziamento e la qualificazione dei servizi indispensabili al superamento delle condizioni svantaggiate degli addetti alle attivita' agricole e forestali nelle zone montane, al fine di raccordare lo sviluppo delle loro condizioni di vita e lavoro con lo sviluppo economico e sociale in altri settori e altre zone del territorio alpino. I relativi criteri decisionali non dovranno essere esclusivamente economici. Cio' vale in primo luogo per i collegamenti di trasporto, le costruzioni e le ristrutturazioni di abitazioni e fabbricati rurali, nonche' l'acquisto e la manutenzione di impianti e macchinari.
 
-##### Art. 16
+### Art. 16
 
 Misure integrative
 
 Le Parti contraenti possono adottare misure integrative a quelle previste dal presente Protocollo per l'agricoltura di montagna.
 
-## Capitolo III
+## Capitolo III - Ricerca, formazione e informazione
 
-#### Ricerca, formazione e informazione
-
-##### Art. 17
+### Art. 17
 
 Ricerca e osservazione
 
@@ -2389,7 +2333,7 @@ Ricerca e osservazione
 
 6\. Sono inoltre considerati prioritari i temi indicati nell'allegato.
 
-##### Art. 18
+### Art. 18
 
 Formazione e informazione
 
@@ -2403,17 +2347,15 @@ b) un'informazione ampia e oggettiva che non si limiti alle persone e alle ammin
 
 3\. Sono inoltre considerati prioritari i temi indicati nell'allegato.
 
-## Capitolo IV
+## Capitolo IV - Attuazione, controllo e valutazione
 
-#### Attuazione, controllo e valutazione
-
-##### Art. 19
+### Art. 19
 
 Attuazione
 
 Le Parti contraenti si impegnano ad assicurare l'attuazione del presente Protocollo mediante misure adeguate nel quadro istituzionale vigente.
 
-##### Art. 20
+### Art. 20
 
 Controllo del rispetto degli obblighi
 
@@ -2425,7 +2367,7 @@ Controllo del rispetto degli obblighi
 
 4\. La Conferenza delle Alpi prende atto di questo resoconto. Essa, qualora constati un mancato adempimento degli obblighi, puo' adottare raccomandazioni.
 
-##### Art. 21
+### Art. 21
 
 Valutazione dell'efficacia delle disposizioni
 
@@ -2433,11 +2375,9 @@ Valutazione dell'efficacia delle disposizioni
 
 2\. A questa valutazione partecipano gli enti territoriali, nel quadro istituzionale vigente. Possono essere sentite le organizzazioni non-governative attive nel campo specifico.
 
-## Capitolo V
+## Capitolo V - Norme finali
 
-#### Norme finali
-
-##### Art. 22
+### Art. 22
 
 Corrispondenza tra la Convenzione delle Alpi
 
@@ -2449,7 +2389,7 @@ e il Protocollo
 
 3\. Quando la Conferenza delle Alpi delibera questioni concernenti il presente Protocollo, solo le Parti contraenti dello stesso Protocollo sono ammesse alle relative votazioni.
 
-##### Art. 23
+### Art. 23
 
 Firma e ratifica
 
@@ -2459,7 +2399,7 @@ Firma e ratifica
 
 3\. Per le Parti contraenti che esprimeranno successivamente il proprio consenso ad essere vincolate dal presente Protocollo, esso entrera' in vigore tre mesi dopo il giorno del deposito dello strumento di ratifica, accettazione o approvazione. In seguito all'entrata in vigore di una modifica del presente Protocollo, ogni nuova Parte contraente del Protocollo medesimo diventa Parte contraente dello stesso Protocollo modificato.
 
-##### Art. 24
+### Art. 24
 
 Notifiche
 
@@ -2497,7 +2437,7 @@ Per la Confederazione Svizzera
 
 Per la Comunita' Europea
 
-##### Allegato
+### Allegato
 
 Allegato
 
@@ -2527,9 +2467,7 @@ Presupposti ed effetti tecnici e finanziari dell'applicazione di metodi di colti
 
 I media, la presentazione o diffusione dell'informazione in funzione dell'orientamento della pubblica opinione, della politica e dell'economia all'interno e all'esterno del territorio alpino.
 
-## Capitolo I
-
-#### Disposizioni generali
+## Capitolo I - Disposizioni generali
 
 PROTOCOLLO DI ATTUAZIONE DELLA CONVENZIONE DELLE ALPI DEL 1991 NELL'AMBITO DEL TURISMO
 
@@ -2591,13 +2529,13 @@ convinti che determinati problemi possono essere risolti soltanto sul piano tran
 
 hanno convenuto quanto segue:
 
-##### Art. 1
+### Art. 1
 
 Finalita'
 
 Obiettivo del presente Protocollo e' contribuire, nell'ambito dell'ordinamento istituzionale vigente, ad uno sviluppo sostenibile del territorio alpino grazie ad un turismo che tuteli l'ambiente, mediante specifici provvedimenti e raccomandazioni che tengano conto degli interessi della popolazione locale e dei turisti.
 
-##### Art. 2
+### Art. 2
 
 Cooperazione internazionale
 
@@ -2607,7 +2545,7 @@ Cooperazione internazionale
 
 3\. Nel caso in cui gli enti territoriali non possono prendere taluni provvedimenti, perche' di competenza nazionale o internazionale, e' necessario garantire loro la possibilita' di rappresentare efficacemente gli interessi della popolazione.
 
-##### Art. 3
+### Art. 3
 
 Considerazione delle finalita'
 
@@ -2615,7 +2553,7 @@ nelle altre politiche
 
 Le Parti contraenti si impegnano a considerare gli obiettivi stabiliti da questo Protocollo anche nelle altre loro politiche, in particolare nei settori della pianificazione territoriale, dei trasporti, dell'agricoltura, dell'economia forestale, della tutela dell'ambiente e della natura, nonche' per quanto riguarda l'approvvigionamento idrico ed energetico, per ridurne gli eventuali effetti negativi o contraddittori.
 
-##### Art. 4
+### Art. 4
 
 Partecipazione degli enti territoriali
 
@@ -2623,11 +2561,9 @@ Partecipazione degli enti territoriali
 
 2\. Nel rispetto delle loro competenze, nel quadro istituzionale vigente, gli enti territoriali direttamente interessati partecipano ai diversi stadi di preparazione e attuazione delle relative politiche e misure.
 
-## Capitolo II
+## Capitolo II - Misure specifiche
 
-#### Misure specifiche
-
-##### Art. 5
+### Art. 5
 
 Pianificazione dell'offerta
 
@@ -2637,7 +2573,7 @@ Pianificazione dell'offerta
 
 a) delle conseguenze socioeconomiche per le popolazioni locali, b) delle conseguenze per i suoli, l'acqua, l'aria, l'equilibrio naturale e i paesaggi, tenendo conto dei dati ecologici specifici, delle risorse naturali e dei limiti di adattamento degli ecosistemi, c) delle conseguenze per le finanze pubbliche.
 
-##### Art. 6
+### Art. 6
 
 Orientamenti dello sviluppo turistico
 
@@ -2653,7 +2589,7 @@ a) per il turismo intensivo, l'adattamento delle strutture e degli impianti turi
 
 b) per il turismo estensivo, il mantenimento o lo sviluppo di un'offerta turistica prossima alle condizioni naturali e che rispetti l'ambiente, nonche' la valorizzazione del patrimonio naturale e culturale delle regioni turistiche interessate.
 
-##### Art. 7
+### Art. 7
 
 Ricerca della qualita'
 
@@ -2669,31 +2605,31 @@ c) le strutture alberghiere e l'offerta di servizi turistici,
 
 d) la diversificazione dell'offerta turistica del territorio alpino, valorizzando le attivita' culturali delle diverse zone interessate.
 
-##### Art. 8
+### Art. 8
 
 Controllo dei flussi turistici
 
 Le Parti contraenti favoriscono misure di pianificazione dei flussi turistici, in particolare nelle aree protette, organizzando la distribuzione e il soggiorno dei turisti in modo da garantire la preservazione di questi siti.
 
-##### Art. 9
+### Art. 9
 
 Limiti naturali dello sviluppo
 
 Le Parti contraenti provvedono affinche' lo sviluppo turistico sia adeguato alle peculiarita' dell'ambiente e alle risorse disponibili della localita' o della regione interessata. In caso di progetti che potrebbero avere un forte impatto ambientale, sara' opportuno stabilire, nell'ambito dell'ordinamento istituzionale vigente, una valutazione preventiva dell'impatto, di cui tenere conto al momento della decisione.
 
-##### Art. 10
+### Art. 10
 
 Zone di quiete
 
 Le Parti contraenti si impegnano, in conformita' con la propria normativa e secondo i criteri ecologici, a delimitare zone di quiete in cui si rinuncia agli impianti turistici.
 
-##### Art. 11
+### Art. 11
 
 Politica alberghiera
 
 Le Parti contraenti attuano una politica alberghiera che tenga conto della scarsita' dello spazio disponibile, privilegiando la ricettivita' commerciale, il recupero e l'uso degli edifici esistenti, modernizzando e migliorando la qualita' delle strutture esistenti.
 
-##### Art. 12
+### Art. 12
 
 Impianti di risalita
 
@@ -2701,7 +2637,7 @@ Impianti di risalita
 
 2\. Nuove autorizzazioni all'esercizio e concessioni di impianti di risalita saranno condizionate allo smontaggio e alla rimozione degli impianti di risalita fuori esercizio e alla rinaturalizzazione delle superfici inutilizzate con priorita' alle specie vegetali di origine locale.
 
-##### Art. 13
+### Art. 13
 
 Traffico e trasporti turistici
 
@@ -2709,7 +2645,7 @@ Traffico e trasporti turistici
 
 2\. Inoltre incoraggiano le iniziative pubbliche o private miranti a migliorare l'accesso ai siti e ai centri turistici tramite i mezzi pubblici e a incentivarne l'uso da parte dei turisti.
 
-##### Art. 14
+### Art. 14
 
 Tecniche particolari di assetto territoriale
 
@@ -2723,7 +2659,7 @@ Tecniche particolari di assetto territoriale
 
 Le legislazioni nazionali possono autorizzare la fabbricazione di neve durante i periodi di freddo specifici di ogni sito, in particolare per rendere piu' sicure le zone esposte qualora le condizioni idrologiche, climatiche e ecologiche del rispettivo sito lo consentano.
 
-##### Art. 15
+### Art. 15
 
 Attivita' sportive
 
@@ -2733,13 +2669,13 @@ Questo controllo puo' condurre, ove necessario, a vietarne la pratica.
 
 2\. Le Parti contraenti si impegnano a limitare al massimo e, ove necessario, a vietare le attivita' sportive che comportano l'uso di motori al di fuori delle zone determinate dalle autorita' competenti.
 
-##### Art. 16
+### Art. 16
 
 Deposito da aeromobili
 
 Le Parti contraenti si impegnano a limitare al massimo e, ove sia il caso, a vietare, al di fuori degli aerodromi, il deposito da aeromobili a fini sportivi.
 
-##### Art. 17
+### Art. 17
 
 Sviluppo delle regioni
 
@@ -2747,7 +2683,7 @@ e delle aree economicamente deboli
 
 Viene raccomandato alle Parti contraenti di studiare al livello territoriale appropriato soluzioni adeguate che permettano uno sviluppo equilibrato delle regioni e delle aree economicamente deboli.
 
-##### Art. 18
+### Art. 18
 
 Scaglionamento delle vacanze
 
@@ -2755,13 +2691,13 @@ Scaglionamento delle vacanze
 
 2\. A tale scopo, e' opportuno incoraggiare la cooperazione fra gli Stati per quanto riguarda lo scaglionamento delle vacanze e le esperienze di prolungamento delle stagioni turistiche.
 
-##### Art. 19
+### Art. 19
 
 Incentivazione dell'innovazione
 
 Viene raccomandato alle Parti contraenti di sviluppare ogni forma di incentivazione che possa favorire l'attuazione degli orientamenti di questo Protocollo; a tale scopo esse esamineranno in particolare l'organizzazione di un concorso alpino mirante a ricompensare iniziative e prodotti turistici innovativi conformi agli obiettivi di questo Protocollo.
 
-##### Art. 20
+### Art. 20
 
 Cooperazione tra turismo, agricoltura,
 
@@ -2769,17 +2705,15 @@ economia forestale e artigianato
 
 Le Parti contraenti promuovono la collaborazione tra turismo, agricoltura, economia forestale e artigianato. In particolare favoriscono combinazioni di attivita' in grado di creare posti di lavoro nell'ottica di uno sviluppo sostenibile.
 
-##### Art. 21
+### Art. 21
 
 Misure integrative
 
 Le Parti contraenti possono adottare misure integrative a quelle previste dal presente Protocollo per il turismo sostenibile.
 
-## Capitolo III
+## Capitolo III - Ricerca, formazione e informazione
 
-#### Ricerca, formazione e informazione
-
-##### Art. 22
+### Art. 22
 
 Ricerca e osservazione
 
@@ -2789,7 +2723,7 @@ Ricerca e osservazione
 
 3\. Le Parti contraenti si impegnano a scambiare informazioni sulle proprie esperienze, utili all'attuazione dei provvedimenti e delle raccomandazioni di questo Protocollo, ed a raccogliere i dati rilevanti in materia di sviluppo turistico qualitativo.
 
-##### Art. 23
+### Art. 23
 
 Formazione e informazione
 
@@ -2803,17 +2737,15 @@ Formazione e informazione
 
 «assistenti turistici per persone disabili».
 
-## Capitolo IV
+## Capitolo IV - Attuazione, controllo e valutazione
 
-#### Attuazione, controllo e valutazione
-
-##### Art. 24
+### Art. 24
 
 Attuazione
 
 Le Parti contraenti si impegnano ad assicurare l'attuazione del presente Protocollo mediante misure adeguate nel quadro istituzionale vigente.
 
-##### Art. 25
+### Art. 25
 
 Controllo del rispetto degli obblighi
 
@@ -2825,7 +2757,7 @@ Controllo del rispetto degli obblighi
 
 4\. La Conferenza delle Alpi prende atto di questo resoconto. Essa, qualora constati un mancato adempimento degli obblighi, puo' adottare raccomandazioni.
 
-##### Art. 26
+### Art. 26
 
 Valutazione dell'efficacia delle disposizioni
 
@@ -2833,11 +2765,9 @@ Valutazione dell'efficacia delle disposizioni
 
 2\. A questa valutazione partecipano gli enti territoriali, nel quadro istituzionale vigente. Possono essere sentite le organizzazioni non-governative attive nel campo specifico.
 
-## Capitolo V
+## Capitolo V - Norme finali
 
-#### Norme finali
-
-##### Art. 27
+### Art. 27
 
 Corrispondenza tra la Convenzione
 
@@ -2849,7 +2779,7 @@ delle Alpi e il Protocollo
 
 3\. Quando la Conferenza delle Alpi delibera questioni concernenti il presente Protocollo, solo le Parti contraenti dello stesso Protocollo sono ammesse alle relative votazioni.
 
-##### Art. 28
+### Art. 28
 
 Firma e ratifica
 
@@ -2859,7 +2789,7 @@ Firma e ratifica
 
 3\. Per le Parti contraenti che esprimeranno successivamente il proprio consenso ad essere vincolate dal presente Protocollo, esso entrera' in vigore tre mesi dopo il giorno del deposito dello strumento di ratifica, accettazione o approvazione. In seguito all'entrata in vigore di una modifica del presente Protocollo, ogni nuova Parte contraente del Protocollo medesimo diventa Parte contraente dello stesso Protocollo modificato.
 
-##### Art. 29
+### Art. 29
 
 Notifiche
 

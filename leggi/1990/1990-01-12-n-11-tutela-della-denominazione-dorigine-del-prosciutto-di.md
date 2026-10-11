@@ -30,11 +30,9 @@ PROMULGA
 
 la seguente legge:
 
-## Capo I - DENOMINAZIONE D'ORIGINE, ZONA DI PRODUZIONE E CARATTERISTICHE
+## Capo I - DENOMINAZIONE D'ORIGINE, ZONA DI PRODUZIONE E CARATTERISTICHE DEL PROSCIUTTO DI MODENA
 
-### DEL PROSCIUTTO DI MODENA
-
-#### Art. 1
+### Art. 1
 
 (( (Denominazione d'origine e zona di produzione). ))
 
@@ -42,7 +40,7 @@ la seguente legge:
 
 Castelnuovo Rangone, Castelvetro, Spilamberto, San Cesario sul Panaro, Savignano sul Panaro, Vignola, Marano, Guiglia, Zocca, Montese, Maranello, Serramazzoni, Pavullo nel Frignano, Lama Mocogno, Pievepelago, Riolunato, Montecreto, Fanano, Sestola, Gaggio Montano, Monteveglio, Savigno, Monte San Pietro, Sasso Marconi, Castello di Serravalle, Castel d'Aiano, Bazzano, Zola Predosa, Bibbiano, San Polo d'Enza, Quattro Castella, Ciano d'Enza, Viano, Castelnuovo Monti. ))
 
-#### Art. 2
+### Art. 2
 
 Caratteristiche delle parti utilizzate e stagionatura
 
@@ -52,7 +50,7 @@ Caratteristiche delle parti utilizzate e stagionatura
 
 3\. Le cosce fresche del "prosciutto di Modena" non devono subire, tranne la refrigerazione, alcun trattamento di conservazione, ivi compresa la congelazione.
 
-#### Art. 3
+### Art. 3
 
 Caratteristiche del prodotto
 
@@ -72,7 +70,7 @@ f) consistenza caratteristica della carne dell'animale di provenienza.
 
 ## Capo II - CONTROLLO DELLA PRODUZIONE
 
-#### Art. 4
+### Art. 4
 
 Controlli
 
@@ -80,7 +78,7 @@ Controlli
 
 2\. Le imprese produttrici di "prosciutto di Modena" devono essere autorizzate ai sensi delle vigenti leggi sanitarie nonche', con autonomo atto, dal Ministero dell'industria, del commercio e dell'artigianato, in riferimento alla verifica della qualita' e della tipicita' del prodotto e alla idoneita' della produzione a conformarsi al dettato della presente legge.
 
-#### Art. 5
+### Art. 5
 
 Contrassegni per la commercializzazione
 
@@ -92,13 +90,13 @@ Contrassegni per la commercializzazione
 
 ## Capo III - VIGILANZA E CONSORZI VOLONTARI
 
-#### Art. 6
+### Art. 6
 
 Vigilanza
 
 1\. La vigilanza per l'applicazione delle disposizioni contenute nella presente legge e' attribuita, per quanto di rispettiva competenza, al Ministero dell'industria, del commercio e dell'artigianato, al Ministero della sanita' e al Ministero dell'agricoltura e delle foreste.
 
-#### Art. 7
+### Art. 7
 
 Vigilanza delegata
 
@@ -116,7 +114,7 @@ c) offra la necessaria garanzia organizzativa e finanziaria per un'efficace attu
 
 ## Capo IV - DISPOSIZIONI CONTRO LE FRODI E LA SLEALE CONCORRENZA
 
-#### Art. 8
+### Art. 8
 
 Disposizioni penali
 
@@ -124,7 +122,7 @@ Disposizioni penali
 
 2\. Alla stessa pena e' soggetto chiunque fa uso della denominazione "prosciutto di Modena", accompagnata da qualificativi o da diminutivi o da maggiorativi o da consimili deformazioni dell'anzidetto nome di origine - ivi comprese le indicazioni in lingua estera traducenti l'espressione "prosciutto di Modena" - o comunque fa uso di indicazioni o segni suscettibili di trarre in inganno l'acquirente, per indicare prodotti non aventi i requisiti prescritti dalla presente legge.
 
-#### Art. 9
+### Art. 9
 
 Contraffazione
 
@@ -132,7 +130,7 @@ Contraffazione
 
 2\. In caso di recidiva, o nel caso che siano destinati alla vendita o comunque alla esportazione in Paese straniero - sotto la denominazione di cui all'articolo 1 - prosciutti non rispondenti ai requisiti della presente legge ovvero provvisti di marchiature, sigilli o contrassegni alterati o contraffatti, le pene di cui all'articolo 8 e al precedente comma 1 sono raddoppiate.
 
-#### Art. 10
+### Art. 10
 
 Impedimento alle verifiche e falsa documentazione
 
@@ -140,7 +138,7 @@ Impedimento alle verifiche e falsa documentazione
 
 2\. Lo stesso, indipendentemente dall'applicazione di tali pene, puo' essere privato, con decreto del Ministro dell'industria, del commercio e dell'artigianato, del diritto alla marchiatura indicata dall'articolo 5 per un periodo da uno a sei mesi.
 
-#### Art. 11
+### Art. 11
 
 Pubblicazione della sentenza
 
@@ -148,7 +146,7 @@ Pubblicazione della sentenza
 
 ## Capo V - DISPOSIZIONI TRANSITORIE E FINALI
 
-#### Art. 12
+### Art. 12
 
 Norme di esecuzione
 

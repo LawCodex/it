@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I - DISPOSIZIONI NEI SETTORI
+## Capo I - DISPOSIZIONI NEI SETTORI DELL'ECONOMIA
 
-### DELL'ECONOMIA
-
-#### Art. 1 - Mediocredito centrale
+### Art. 1 - Mediocredito centrale
 
 1\. L'articolo 37, comma terzo, del decreto-legge 26 ottobre 1970, n. 745, convertito, con modificazioni, dalla legge 18 dicembre 1970, n. 1034, modificato dall'articolo 3 della legge 28 maggio 1973, n. 295, e' sostituito dal seguente:
 
@@ -42,19 +40,19 @@ la seguente legge:
 
 > In supplemento ordinario alla Gazzetta Ufficiale - serie generale - del 10 gennaio 1992 si procedera' alla ripubblicazione del testo della presente legge corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 14 marzo 1986, n. 217.
 
-#### Art. 2 - Danni di guerra
+### Art. 2 - Danni di guerra
 
 1\. A decorrere dall'anno finanziario 1992 cessa la concessione di indennizzi e di contributi per danni di guerra di cui alla legge 27 dicembre 1953, n. 968.
 
 2\. I relativi stanziamenti autorizzati annualmente dall'articolo 56 della legge 27 dicembre 1953, n. 968, sono conseguentemente ridotti per adeguarli alle effettive esigenze connesse alla erogazione delle rate di indennizzi e contributi gia' concessi ai sensi della predetta legge.
 
-#### Art. 3
+### Art. 3
 
 ((ARTICOLO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152, COME MODIFICATO DAL D.LGS. 16 GENNAIO 2008, N. 4))
 
 ## Capo II - DISPOSIZIONI IN MATERIA SANITARIA
 
-#### Art. 4
+### Art. 4
 
 Assistenza sanitaria
 
@@ -156,11 +154,9 @@ La L. 30 dicembre 2018, n. 145, nel modificare l'art. 52, comma 27
 
 della L. 27 dicembre 2002, n. 289, ha conseguentemente disposto (con l'art. 1, comma 688) che "L'autorizzazione di spesa di cui all'articolo 52, comma 27, della legge 27 dicembre 2002, n. 289, e' incrementata di 259.640 euro annui a decorrere dall'anno 2019".
 
-## Capo III - DISPOSIZIONI IN MATERIA
+## Capo III - DISPOSIZIONI IN MATERIA DI PERSONALE
 
-### DI PERSONALE
-
-#### Art. 5 - Assunzioni nel pubblico impiego
+### Art. 5 - Assunzioni nel pubblico impiego
 
 1\. Per l'anno 1992, i trasferimenti e le assunzioni di personale nelle amministrazioni pubbliche avvengono secondo le disposizioni di cui all'articolo 1, commi 1 e 3, della legge 29 dicembre 1990, n. 407. Il limite del 25 per cento dei posti resisi vacanti per cessazioni dal servizio, previsto dall'articolo 1, comma 1, della legge 29 dicembre 1988, n. 554, e quello del 50 per cento previsto previsto dall'articolo 1, comma 3, della stessa legge, sono ridotti, rispettivamente, al 10 ed al 25 per cento.
 
@@ -194,7 +190,7 @@ AGGIORNAMENTO (10)
 
 Il D.L. 1 ottobre 1996, n. 510, convertito con modificazioni dalla L. 28 novembre 1996, n. 608, ha disposto (con l'art. 4, comma 18) che "E' differito al 31 dicembre 1996 il termine per l'applicazione delle disposizioni di cui all'articolo 5, commi 7 e 8, della legge 30 dicembre 1991, n. 412."
 
-#### Art. 6 - Impiego di nuove tecnologie nella Pubblica amministrazione
+### Art. 6 - Impiego di nuove tecnologie nella Pubblica amministrazione
 
 1\. Tutte le piante organiche di Ministeri, enti pubblici, enti economici definite prima dell'avvio del processo di informatizzazione e, in ogni caso, tutte le piante organiche definite prima del 31 dicembre 1989 debbono essere riviste in diminuzione sulla base dei carichi funzionali entro il 30 giugno 1992 e sottoposte all'approvazione formale della Presidenza del Consiglio dei ministri.
 
@@ -202,11 +198,11 @@ Il D.L. 1 ottobre 1996, n. 510, convertito con modificazioni dalla L. 28 novembr
 
 Qualora dalle comunicazioni possano nascere diritti, doveri, legittime aspettative di terzi, prima dell'atto finale del procedimento dovra' essere acquisito agli atti l'originale della comunicazione.
 
-#### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-#### Art. 8 - Perequazione dei trattamenti economici
+### Art. 8 - Perequazione dei trattamenti economici
 
 1\. In osservanza dei principi di omogeneizzazione sanciti dall'articolo 4 della legge 29 marzo 1983, n. 93, gli accordi sindacali dei pubblici dipendenti per il triennio 1991-1993 dovranno ispirarsi a criteri di perequazione dei trattamenti economici complessivi in godimento finalizzati a ridurre gradualmente le differenze derivanti da particolari benefici economici riconosciuti con carattere di settorialita'. Lo stesso principio si applica al personale non soggetto a contrattazione in sede di adeguamento del tratamento economico.
 
@@ -214,11 +210,11 @@ Qualora dalle comunicazioni possano nascere diritti, doveri, legittime aspettati
 
 3\. In attesa della revisione del sistema di adeguamento automatico della retribuzione stabilito per il personale di magistratura dagli articoli 11 e 12 della legge 2 aprile 1979, n. 97, come sostituiti dall'articolo 2 della legge 19 febbraio 1981, n. 27, gli incrementi retributivi spettanti dal 1 gennaio 1992 e dal 1o gennaio 1993 a titolo di acconto sull'adeguamento triennale, sono determinati nella misura del tasso di inflazione programmato per ciascuno degli anni 1992 e 1993 da applicare sugli stipendi in vigore, rispettivamente, al 1 gennaio 1991 ed al 1o gennaio 1992.
 
-#### Art. 9 - Disposizioni in materia di lavoro straordinario
+### Art. 9 - Disposizioni in materia di lavoro straordinario
 
 1\. A decorrere dal 1 luglio 1992 le amministrazioni pubbliche anche ad ordinamento autonomo, gli enti locali e le unita' sanitarie locali presso i quali non sono regolarmente operanti strumenti o pro- cedure idonei all'accertamento dell'effettiva durata dalla prestazione di lavoro, non possono ricorrere a lavoro straordinario. Le regioni e le province autonome di Trento e di Bolzano adeguano, entro lo stesso termine, le norme regionali e provinciali al principio stabilito dal presente articolo.
 
-#### Art. 10 - Nucleo di valutazione della spesa relativa al pubblico impiego
+### Art. 10 - Nucleo di valutazione della spesa relativa al pubblico impiego
 
 1\. Per la valutazione della dinamica della spesa conseguente ai trattamenti giuridici ed economici dei pubblici dipendenti e' istituito un Nucleo di valutazione.
 
@@ -232,11 +228,9 @@ Qualora dalle comunicazioni possano nascere diritti, doveri, legittime aspettati
 
 6\. Il nucleo di valutazione per lo svolgimento dei propri compiti ha accesso alle informazioni, ai dati e alle elaborazioni di tutte le pubbliche amministrazioni, ivi compresa la Ragioneria generale dello Stato.
 
-## Capo IV - DISPOSIZIONI IN MATERIA
+## Capo IV - DISPOSIZIONI IN MATERIA DI PREVIDENZA ED ASSISTENZA
 
-### DI PREVIDENZA ED ASSISTENZA
-
-#### Art. 11 - Contribuzione INAIL
+### Art. 11 - Contribuzione INAIL
 
 1\. Dal 1 gennaio 1993, le rendite corrisposte dall'Istituto nazionale per l'assicurazione conto gli infortuni sul lavoro (INAIL) per i mutilati e invalidi del lavoro sono rivalutate con cadenza annuale, e con i medesimi decreti di rivalutazione delle prestazioni economiche sono stabiliti contributi addizionali a carico dei datori di lavoro e dei lavoratori autonomi nelle misure necessarie a coprire gli oneri derivanti dalle maggiori spese rispetto alla vigente normativa.
 
@@ -246,7 +240,7 @@ Qualora dalle comunicazioni possano nascere diritti, doveri, legittime aspettati
 
 3\. Con la stessa decorrenza di cui al comma 1, l'importo della retribuzione giornaliera oltre il quale le imprese possono esercitare rivalsa per meta' dei contributi dovuti, ai sensi del secondo comma dell'art. 3 del decreto del Presidente della Repubblica 31 dicembre 1971, n. 1420, e' elevato da lire 25.000 a lire 80.000.
 
-#### Art. 12 - Requisiti reddituali delle prestazioni ai minorati civili
+### Art. 12 - Requisiti reddituali delle prestazioni ai minorati civili
 
 1\. All'articolo 3, comma 1, della legge 29 dicembre 1990, n. 407, dopo le parole " dal Ministero dell'interno " sono inserite le seguenti: " con esclusione di quelle erogate ai ciechi civili, ai sordomuti e agli invalidi totali ".
 
@@ -258,7 +252,7 @@ Qualora dalle comunicazioni possano nascere diritti, doveri, legittime aspettati
 
 4\. Per i titolari delle prestazioni di cui al comma 3, gia' in godimento al 1 gennaio 1992, ed in possesso di redditi superiori ai limiti stabiliti nel medesimo comma, non opera, finche' permane tale condizione, il relativo meccanismo di perequazione automatica delle prestazioni.
 
-#### Art. 13 - Norme di interpretazione autentica
+### Art. 13 - Norme di interpretazione autentica
 
 1\. Le disposizioni di cui all'articolo 52, comma 2, della legge 9 marzo 1989, n. 88, si interpretano nel senso che la sanatoria ivi prevista opera in relazione alle somme corrisposte in base a formale, definitivo provvedimento del quale sia data espressa comunicazione all'interessato e che risulti viziato da errore di qualsiasi natura imputabile all'ente erogatore, salvo che l'indebita percezione sia dovuta a dolo dell'interessato. L'omessa od incompleta segnalazione da parte del pensionato di fatti incidenti sul diritto o sulla misura della pensione goduta, che non siano gia' conosciuti dall'ente competente, consente la ripetibilita' delle somme indebitamente percepite. (3)
 
@@ -274,7 +268,7 @@ AGGIORNAMENTO (3)
 
 La Corte Costituzionale con sentenza 28 gennaio-10 febbraio 1993, n. 39 (in G.U. 1a s.s. 17/2/1993, n. 8) ha dichiarato "l'illegittimita' costituzionale dell'art. 13, primo comma, della legge 30 dicembre 1991, n. 412 (Disposizioni in materia di finanza pubblica) nella parte in cui e' applicabile anche ai rapporti sorti precedentemente alla data della sua entrata in vigore o comunque pendenti alla stessa data."
 
-#### Art. 14
+### Art. 14
 
 Recupero base contributiva
 
@@ -298,13 +292,13 @@ AGGIORNAMENTO (19)
 
 Il D.L. 31 gennaio 2007, n. 7, convertito con modificazioni dalla L. 2 aprile 2007, n. 40 ha disposto (con l'art. 9, comma 9) che a decorrere dalla data di cui al comma 8 dello stesso D.L. 7/2007, e' abrogato il comma 4 della presente legge, ferma restando la facolta' degli interessati, per i primi sei mesi di applicazione della nuova disciplina, di presentare alle Amministrazioni competenti le comunicazioni di cui al presente articolo secondo la normativa previgente.
 
-#### Art. 15 - Stabilimenti termali dell'INPS
+### Art. 15 - Stabilimenti termali dell'INPS
 
 1\. Gli stabilimenti termali dell'INPS, anche se fatti oggetto dei decreti di cui all'articolo 65, primo comma, della legge 23 dicembre 1978, n. 833, e successive modificazioni, sono riacquisiti al patrimonio immobiliare dell'Istituto, il quale li conferisce in capitale a societa' per azioni appositamente costituite, che provvederanno alla loro gestione sulla base di criteri di economicita' ed efficienza. A tali fini l'Istituto puo' cedere a privati quote di partecipazione alle predette societa', cui deve, comunque, essere assicurata la partecipazione, a titolo gratuito, della regione e del comune nel cui territorio e' ubicato lo stabilimento termale. L'atto costitutivo e lo statuto sono approvati dal Ministro del lavoro e della previdenza sociale, di concerto con il Ministro della sanita' e con il Ministro del tesoro, su proposta del consiglio di amministrazione dell'INPS. Al personale di ruolo in forza presso gli stabilimenti stessi alla data di entrata in vigore della presente legge e' data facolta' di optare, entro novanta giorni da tale data, per il mantenimento del rapporto di impiego con l'Istituto.
 
 2\. Si applicano, per quanto non previsto dal comma 1, le norme di cui all'articolo 20, comma 2, della legge 9 marzo 1989, n. 88. E' abrogato il terzo comma dell'articolo 36 della legge 23 dicembre 1978, n. 833.
 
-#### Art. 16
+### Art. 16
 
 Disposizioni varie in materia previdenziale
 
@@ -330,7 +324,7 @@ La L. 23 dicembre 1998, n. 448 ha disposto (con l'art. 45, comma 6) che "Le disp
 
 ## Capo V - DISPOSIZIONI VARIE
 
-#### Art. 17 - Norme in materia di amministrazione postale
+### Art. 17 - Norme in materia di amministrazione postale
 
 1\. Il Ministro delle poste e delle telecomunicazioni redige, entro il 30 aprile 1992, un programma pluriennale di riorganizzazione e razionalizzazione dei servizi gestiti dall'Amministrazione delle poste e delle telecomunicazioni idoneo a conseguire l'equilibrio del bilancio e la integrale copertura tariffaria del costo di tutti i servizi gestiti, con progressiva eliminazione degli oneri impropri previsti dalla vigente legislazione. Il programma viene presentato al Parlamento in allegato al Documento di programmazione economico- finanziaria.
 
@@ -342,7 +336,7 @@ La L. 23 dicembre 1998, n. 448 ha disposto (con l'art. 45, comma 6) che "Le disp
 
 5\. Il Ministro delle poste e delle telecomunicazioni, di concerto con il Ministro del tesoro, puo' stabilire, con decreto, tariffe e condizioni particolari per la spedizione di grandi quantita' di effetti postali, purche' nell'interesse dell'Amministrazione e della maggiore efficienza del servizio.
 
-#### Art. 18 - Attivita' della Cassa depositi e prestiti
+### Art. 18 - Attivita' della Cassa depositi e prestiti
 
 1\. Le disposizioni dell'articolo 14 del decreto-legge 13 maggio 1991, n. 151, convertito, con modificazioni, dalla legge 12 luglio
 
@@ -350,17 +344,17 @@ La L. 23 dicembre 1998, n. 448 ha disposto (con l'art. 45, comma 6) che "Le disp
 
 2\. Per il 1992 i limiti contenuti nella norma richiamata al comma 1 non si applicano ai mutui fino all'importo di lire 500 miliardi per l'edilizia giudiziaria e carceraria.
 
-#### Art. 19 - Contenimento delle spese degli enti locali
+### Art. 19 - Contenimento delle spese degli enti locali
 
 1\. Le spese sostenute dalle regioni, dalle province, dai comuni, dalle comunita' montane, nonche' dai loro consorzi e aziende, per acquisto, gestione e manutenzione di autoveicoli adibiti al trasporto di persone; spese postali e telefoniche; acquisti ed abbonamenti a pubblicazioni; partecipazione a convegni, non potranno nell'anno 1992 superare quelle previste dal bilancio preventivo per il 1991 di ciascun ente.
 
-#### Art. 20 - Norme in materia di opere pubbliche
+### Art. 20 - Norme in materia di opere pubbliche
 
 (( 1. Le economie verificatesi nella realizzazione di opere pubbliche, finanziate con ricorso a mutui con ammortamento a carico del bilancio statale in base a specifiche disposizioni legislative, possono essere utilizzate per il finanziamento di ulteriori lavori afferenti al progetto originario ovvero a un nuovo progetto di opere della stessa tipologia di quelle previste dalla legge originaria di finanziamento previa autorizzazione del Ministero competente )).
 
 2\. Nell'esecuzione di opere pubbliche di pertinenza degli enti locali, finanziate con il ricorso a mutui della Cassa depositi e prestiti o di altri istituti di credito, puo' essere considerata munita di copertura finanziaria, ai sensi dell'articolo 55, comma 5, della legge 8 giugno 1990, n. 142, l'approvazione di perizie di variante e suppletive nel rispetto del limite di cui all'articolo 13 del decreto-legge 28 febbraio 1983, n. 55, convertito, con modificazioni, dalla legge 26 aprile 1983, n. 131, come modificato dall'articolo 9 del decreto-legge 31 agosto 1987, n. 359, convertito, con modificazioni, dalla legge 29 ottobre 1987, n. 440, qualora il loro importo rimanga nell'ambito del mutuo concesso. L'approvazione delle perizie deve essere comunque comunicata per presa d'atto agli istituti mutuanti.
 
-#### Art. 21 - Autoveicoli dell'Amministrazione dello Stato
+### Art. 21 - Autoveicoli dell'Amministrazione dello Stato
 
 1\. In deroga alle disposizioni vigenti e' fatto divieto di destinare autoveicoli di Stato ad uso esclusivo da parte di singoli funzionari dell'Amministrazione civile, centrale e periferica dello Stato, fatta eccezione per le seguenti categorie:
 
@@ -382,15 +376,15 @@ c) responsabili di uffici periferici, da determinarsi con decreto del Ministro d
 
 7\. Le norme fiscali relative al calcolo del reddito figurativo imputabile all'uso di autovetture fuori dell'assolvimento della prestazione lavorativa sono estese agli amministratori e funzionari pubblici.
 
-#### Art. 22
+### Art. 22
 
 (( ARTICOLO ABROGATO DAL D.P.R. 7 APRILE 2000, N. 118 ))
 
-#### Art. 23 - Partecipazione a convegni
+### Art. 23 - Partecipazione a convegni
 
 1\. Il Presidente del Consiglio dei ministri emana, entro sei mesi dalla data di entrata in vigore della presente legge, un decreto che disciplini la partecipazione dei dipendenti pubblici a convegni, conferenze, tavole rotonde, che comportino da parte dell'ente organizzatore spese per ospitalita' ed emolumenti di qualsiasi natura.
 
-#### Art. 24 - Anagrafe delle prestazioni
+### Art. 24 - Anagrafe delle prestazioni
 
 1\. Ai fini del contenimento della spesa pubblica e per garantire l'efficacia, l'imparzialita' e la trasparenza dell'azione amministrativa, e' istituita presso il Dipartimento della funzione pubblica una anagrafe nominativa, da aggiornare annualmente, in cui dovranno essere indicati tutti gli incarichi pubblici e privati non compresi nei compiti e doveri d'ufficio, con i relativi compensi, ricevuti da tutto il personale delle amministrazioni pubbliche compresi i magistrati e il personale della Banca d'Italia.
 
@@ -398,7 +392,7 @@ c) responsabili di uffici periferici, da determinarsi con decreto del Ministro d
 
 3\. Entro il 30 aprile 1992 il Ministro per la funzione pubblica predispone un piano pluriennale, da allegare al Documento di programmazione economico-finanziaria, che stabilisce gli obiettivi annuali per la riduzione del fenomeno degli incarichi.
 
-#### Art. 25
+### Art. 25
 
 (Piano di ristrutturazione dell'ente
 
@@ -414,7 +408,7 @@ Nell'ambito della politica di controllo della dinamica delle tariffe si proceder
 
 4\. L'ente Ferrovie dello Stato e' autorizzato a utilizzare i finanziamenti per investimenti, compresi nel piano di cui al comma 1, anche mediante partecipazione alle societa' concessionarie per l'esecuzione delle opere, mediante contributi diretti alla realizzazione dlele medesime e mediante accollo degli oneri finanziari relativi agli interessi sui prestiti delle societa' concessionarie, fino all'inizio dello sfruttamento economico delle opere realizzate, nei limiti massimi preventivamente definiti nel pi- ano di cui al comma 1. A tale fine possono essere utilizzate le disponibilita' residue, delle leggi e dei decreti interministeriali che disciplinano gli investimenti ferroviari, per il conseguimento degli obiettivi, di investimento globalmente previsti dal contratto di programma sottoscritto dal Ministero dei trasporti e dall'ente Ferrovie dello Stato il 23 giugno 1991.
 
-#### Art. 26 - Remunerazione dei Fondi di dotazione
+### Art. 26 - Remunerazione dei Fondi di dotazione
 
 1\. Gli enti ai quali lo Stato partecipa con un fondo di dotazione corrispondono ogni anno al Tesoro una remunerazione su tale fondo la cui entita' e' determinata annualmente, con riferimento agli andamenti dell'esercizio precedente, con apposita norma da approvarsi con la legge finanziaria.
 
@@ -424,7 +418,7 @@ Nell'ambito della politica di controllo della dinamica delle tariffe si proceder
 
 4\. L'articolo 13 della legge 12 agosto 1977, n. 675, e' abrogato dal momento della soppressione del Ministero delle partecipazioni statali.
 
-#### Art. 27
+### Art. 27
 
 Imposte sulle giuocate dei concorsi pronostici
 
@@ -442,11 +436,11 @@ AGGIORNAMENTO (27)
 
 La L. 30 dicembre 2018, n. 145 ha disposto (con l'art. 1, comma 638) che "A decorrere dal 1° luglio 2019 l'imposta unica sui concorsi pronostici sportivi di cui al decreto del Ministro dell'economia e delle finanze 19 giugno 2003, n. 179, e sulle scommesse a totalizzatore sportive e non sportive di cui al decreto del Ministro delle finanze 2 agosto 1999, n. 278, e il diritto fisso di cui ai commi 1 e 2 dell'articolo 27 della legge 30 dicembre 1991, n. 412, relativo ai predetti concorsi pronostici sportivi, sono soppressi".
 
-#### Art. 28
+### Art. 28
 
 (( ARTICOLO ABROGATO DALLA L. 24 DICEMBRE 1993, N. 560 ))
 
-#### Art. 29
+### Art. 29
 
 (Modifica all'articolo 3 della legge
 
@@ -458,15 +452,15 @@ La L. 30 dicembre 2018, n. 145 ha disposto (con l'art. 1, comma 638) che "A deco
 
 3\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 30 - Modifica all'articolo 5 della legge 2 gennaio 1991, n. 1
+### Art. 30 - Modifica all'articolo 5 della legge 2 gennaio 1991, n. 1
 
 1\. All'articolo 5, comma 8, lettera e), della legge 2 gennaio 1991, n. 1, dopo le parole: "legge n. 216 del 1974 e successive modificazioni e integrazioni" sono inserite le seguenti: "o abbia esercitato le funzioni di collaboratore autonomo, procuratore o rappresentante alle grida di agente di cambio, per un periodo di almeno due anni, purche' risulti censito quale persona fisica e abbia trasmesso i dati anagrafici e l'oggetto dell'attivita alla CONSOB".
 
-#### Art. 31 - Modifica all'articolo 18 della legge 2 gennaio 1991, n. 1
+### Art. 31 - Modifica all'articolo 18 della legge 2 gennaio 1991, n. 1
 
 1\. All'articolo 18, comma 13, della legge 2 gennaio 1991, n. 1, la parola: "possono" e' sostituita dalla seguente: "devono".
 
-#### Art. 32 - Entrata in vigore
+### Art. 32 - Entrata in vigore
 
 1\. La presente legge entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale.
 

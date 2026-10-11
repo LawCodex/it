@@ -30,7 +30,7 @@ la seguente legge:
 
 ## CAPO I - PRINCIPI GENERALI
 
-#### Art. 1 - Finalita'
+### Art. 1 - Finalita'
 
 1\. Al fine di favorire la soluzione dei problemi riproduttivi derivanti dalla sterilita' o dalla infertilita' umana e' consentito il ricorso alla procreazione medicalmente assistita, alle condizioni e secondo le modalita' previste dalla presente legge, che assicura i diritti di tutti i soggetti coinvolti, compreso il concepito. ((5)) 2. Il ricorso alla procreazione medicalmente assistita e' consentito qualora non vi siano altri metodi terapeutici efficaci per rimuovere le cause di sterilita' o infertilita'. ((5))
 
@@ -40,7 +40,7 @@ AGGIORNAMENTO (5)
 
 La Corte Costituzionale, con sentenza 14 maggio - 5 giugno 2015, n. 96 (in G.U. 1ª s.s. 10/6/2015, n. 23), ha dichiarato "l'illegittimita' costituzionale degli artt. 1, commi 1 e 2, e 4, comma 1, della legge 19 febbraio 2004, n. 40 (Norme in materia di procreazione medicalmente assistita), nella parte in cui non consentono il ricorso alle tecniche di procreazione medicalmente assistita alle coppie fertili portatrici di malattie genetiche trasmissibili, rispondenti ai criteri di gravita' di cui all'art. 6, comma 1, lettera b), della legge 22 maggio 1978, n. 194 (Norme per la tutela sociale della maternita' e sull'interruzione volontaria della gravidanza), accertate da apposite strutture pubbliche".
 
-#### Art. 2 - Interventi contro la sterilita' e la infertilita'
+### Art. 2 - Interventi contro la sterilita' e la infertilita'
 
 1\. Il Ministro della salute, sentito il Ministro dell'istruzione, dell'universita' e della ricerca, puo' promuovere ricerche sulle cause patologiche, psicologiche, ambientali e sociali dei fenomeni della sterilita' e della infertilita' e favorire gli interventi necessari per rimuoverle nonche' per ridurne l'incidenza, puo' incentivare gli studi e le ricerche sulle tecniche di crioconservazione dei gameti e puo' altresi' promuovere campagne di informazione e di prevenzione dei fenomeni della sterilita' e della infertilita'.
 
@@ -48,7 +48,7 @@ La Corte Costituzionale, con sentenza 14 maggio - 5 giugno 2015, n. 96 (in G.U. 
 
 3\. All'onere derivante dall'attuazione del comma 2 si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2004-2006, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2004, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero della salute. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 3 - Modifica alla legge 29 luglio 1975, n. 405
+### Art. 3 - Modifica alla legge 29 luglio 1975, n. 405
 
 1\. Al primo comma dell'articolo 1 della legge 29 luglio 1975, n. 405, sono aggiunte, in fine, le seguenti lettere:
 
@@ -86,7 +86,7 @@ d-ter) l'informazione sulle procedure per l'adozione e l'affidamento familiare".
 
 ## CAPO II - ACCESSO ALLE TECNICHE
 
-#### Art. 4 - Accesso alle tecniche
+### Art. 4 - Accesso alle tecniche
 
 1\. Il ricorso alle tecniche di procreazione medicalmente assistita e' consentito solo quando sia accertata l'impossibilita' di rimuovere altrimenti le cause impeditive della procreazione ed e' comunque circoscritto ai casi di sterilita' o di infertilita' inspiegate documentate da atto medico nonche' ai casi di sterilita' o di infertilita' da causa accertata e certificata da atto medico. ((5)) 2. Le tecniche di procreazione medicalmente assistita sono applicate in base ai seguenti principi:
 
@@ -108,11 +108,11 @@ AGGIORNAMENTO (5)
 
 La Corte Costituzionale, con sentenza 14 maggio - 5 giugno 2015, n. 96 (in G.U. 1ª s.s. 10/6/2015, n. 23), ha dichiarato "l'illegittimita' costituzionale degli artt. 1, commi 1 e 2, e 4, comma 1, della legge 19 febbraio 2004, n. 40 (Norme in materia di procreazione medicalmente assistita), nella parte in cui non consentono il ricorso alle tecniche di procreazione medicalmente assistita alle coppie fertili portatrici di malattie genetiche trasmissibili, rispondenti ai criteri di gravita' di cui all'art. 6, comma 1, lettera b), della legge 22 maggio 1978, n. 194 (Norme per la tutela sociale della maternita' e sull'interruzione volontaria della gravidanza), accertate da apposite strutture pubbliche".
 
-#### Art. 5 - Requisiti soggettivi
+### Art. 5 - Requisiti soggettivi
 
 1\. Fermo restando quanto stabilito dall'articolo 4, comma 1, possono accedere alle tecniche di procreazione medicalmente assistita coppie di maggiorenni di sesso diverso, coniugate o conviventi, in eta' potenzialmente fertile, entrambi viventi.
 
-#### Art. 6 - Consenso informato
+### Art. 6 - Consenso informato
 
 1\. Per le finalita' indicate dal comma 3, prima del ricorso ed in ogni fase di applicazione delle tecniche di procreazione medicalmente assistita il medico informa in maniera dettagliata i soggetti di cui all'articolo 5 sui metodi, sui problemi bioetici e sui possibili effetti collaterali sanitari e psicologici conseguenti all'applicazione delle tecniche stesse, sulle probabilita' di successo e sui rischi dalle stesse derivanti, nonche' sulle relative conseguenze giuridiche per la donna, per l'uomo e per il nascituro.
 
@@ -136,7 +136,7 @@ Alla coppia deve essere prospettata la possibilita' di ricorrere a procedure di 
 
 > I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.».
 
-#### Art. 7 - Linee guida
+### Art. 7 - Linee guida
 
 1\. Il Ministro della salute, avvalendosi dell'Istituto superiore di sanita', e previo parere del Consiglio superiore di sanita', definisce, con proprio decreto, da emanare entro tre mesi dalla data di entrata in vigore della presente legge, linee guida contenenti l'indicazione delle procedure e delle tecniche di procreazione medicalmente assistita.
 
@@ -146,7 +146,7 @@ Alla coppia deve essere prospettata la possibilita' di ricorrere a procedure di 
 
 ## CAPO III - DISPOSIZIONI CONCERNENTI LA TUTELA DEL NASCITURO
 
-#### Art. 8 - Stato giuridico del nato
+### Art. 8 - Stato giuridico del nato
 
 1\. I nati a seguito dell'applicazione delle tecniche di procreazione medicalmente assistita hanno lo stato di figli nati nel matrimonio o di figli riconosciuti della coppia che ha espresso la volonta' di ricorrere alle tecniche medesime ai sensi dell'articolo 6.
 
@@ -158,7 +158,7 @@ AGGIORNAMENTO (9)
 
 La Corte costituzionale con sentenza 10 marzo - 22 maggio 2025, n. 68 (in G.U. 1ª s.s. 28/5/2025, n. 22) ha dichiarato "l'illegittimita' costituzionale dell'art. 8 della legge 19 febbraio 2004, n. 40 (Norme in materia di procreazione medicalmente assistita), nella parte in cui non prevede che pure il nato in Italia da donna che ha fatto ricorso all'estero, in osservanza delle norme ivi vigenti, a tecniche di procreazione medicalmente assistita ha lo stato di figlio riconosciuto anche della donna che, del pari, ha espresso il preventivo consenso al ricorso alle tecniche medesime e alla correlata assunzione di responsabilita' genitoriale".
 
-#### Art. 9 - Divieto del disconoscimento della paternita' e dell'anonimato della madre
+### Art. 9 - Divieto del disconoscimento della paternita' e dell'anonimato della madre
 
 1\. Qualora si ricorra a tecniche di procreazione medicalmente assistita di tipo eterologo in violazione del divieto di cui all'articolo 4, comma 3, il coniuge o il convivente il cui consenso e' ricavabile da atti concludenti non puo' esercitare l'azione di disconoscimento della paternita' nei casi previsti dall'articolo 235, primo comma, numeri 1) e 2), del codice civile, ne' l'impugnazione di cui all'articolo 263 dello stesso codice. ((5))
 
@@ -172,11 +172,9 @@ AGGIORNAMENTO (5)
 
 La Corte Costituzionale, con sentenza 9 aprile - 10 giugno 2014, n. 162 (in G.U. 1a s.s. 18/06/2014, n. 26) ha dichiarato l'illegittimita' costituzionale del presente articolo, commi 1 e 3, "limitatamente alle parole «in violazione del divieto di cui all'articolo 4, comma 3»".
 
-## CAPO IV - REGOLAMENTAZIONE DELLE STRUTTURE AUTORIZZATE
+## CAPO IV - REGOLAMENTAZIONE DELLE STRUTTURE AUTORIZZATE ALL'APPLICAZIONE DELLE TECNICHE DI PROCREAZIONE MEDICALMENTE ASSISTITA
 
-### ALL'APPLICAZIONE DELLE TECNICHE DI PROCREAZIONE - MEDICALMENTE ASSISTITA
-
-#### Art. 10 - Strutture autorizzate
+### Art. 10 - Strutture autorizzate
 
 1\. Gli interventi di procreazione medicalmente assistita sono realizzati nelle strutture pubbliche e private autorizzate dalle regioni e iscritte al registro di cui all'articolo 11.
 
@@ -190,7 +188,7 @@ c) i criteri per la determinazione della durata delle autorizzazioni e dei casi 
 
 d) i criteri per lo svolgimento dei controlli sul rispetto delle disposizioni della presente legge e sul permanere dei requisiti tecnico-scientifici e organizzativi delle strutture.
 
-#### Art. 11 - Registro
+### Art. 11 - Registro
 
 1\. E' istituito, con decreto del Ministro della salute, presso l'Istituto superiore di sanita', il registro nazionale delle strutture autorizzate all'applicazione delle tecniche di procreazione medicalmente assistita, degli embrioni formati e dei nati a seguito dell'applicazione delle tecniche medesime.
 
@@ -206,7 +204,7 @@ d) i criteri per lo svolgimento dei controlli sul rispetto delle disposizioni de
 
 ## CAPO V - DIVIETI E SANZIONI
 
-#### Art. 12 - Divieti generali e sanzioni
+### Art. 12 - Divieti generali e sanzioni
 
 1\. Chiunque a qualsiasi titolo utilizza a fini procreativi gameti di soggetti estranei alla coppia richiedente, in violazione di quanto previsto dall'articolo 4, comma 3, e' punito con la sanzione amministrativa pecuniaria da 300.000 a 600.000 euro. (5)
 
@@ -236,7 +234,7 @@ La Corte Costituzionale, con sentenza 9 aprile - 10 giugno 2014, n. 162 (in G.U.
 
 ## CAPO VI - MISURE DI TUTELA DELL'EMBRIONE
 
-#### Art. 13 - Sperimentazione sugli embrioni umani
+### Art. 13 - Sperimentazione sugli embrioni umani
 
 1\. E' vietata qualsiasi sperimentazione su ciascun embrione umano.
 
@@ -264,7 +262,7 @@ AGGIORNAMENTO (6)
 
 La Corte Costituzionale, con sentenza 21 ottobre - 11 novembre 2015, n. 229 (in G.U. 1ª s.s. 18/11/2015, n. 46), ha dichiarato "l'illegittimita' costituzionale dell'art. 13, commi 3, lettera b), e 4 della legge 19 febbraio 2004, n. 40 (Norme in materia di procreazione medicalmente assistita), nella parte in cui contempla come ipotesi di reato la condotta di selezione degli embrioni anche nei casi in cui questa sia esclusivamente finalizzata ad evitare l'impianto nell'utero della donna di embrioni affetti da malattie genetiche trasmissibili rispondenti ai criteri di gravita' di cui all'art. 6, comma 1, lettera b), della legge 22 maggio 1978, n. 194 (Norme per la tutela della maternita' e sulla interruzione della gravidanza) e accertate da apposite strutture pubbliche".
 
-#### Art. 14 - Limiti all'applicazione delle tecniche sugli embrioni
+### Art. 14 - Limiti all'applicazione delle tecniche sugli embrioni
 
 1\. E' vietata la crioconservazione e la soppressione di embrioni, fermo restando quanto previsto dalla legge 22 maggio 1978, n. 194.
 
@@ -296,7 +294,7 @@ Ha inoltre dichiarato l'illegittimita' costituzionale del comma 3 del presente a
 
 ## CAPO VII - DISPOSIZIONI FINALI E TRANSITORIE
 
-#### Art. 15 - Relazione al Parlamento
+### Art. 15 - Relazione al Parlamento
 
 1\. L'Istituto superiore di sanita' predispone, entro il 28 febbraio di ciascun anno, una relazione annuale per il Ministro della salute in base ai dati raccolti ai sensi dell'articolo 11, comma 5, sull'attivita' delle strutture autorizzate, con particolare riferimento alla valutazione epidemiologica delle tecniche e degli interventi effettuati. ((2))
 
@@ -310,7 +308,7 @@ Il D.L. 29 dicembre 2010, n. 225, convertito con modificazioni dalla L. 26 febbr
 
 Ha inoltre disposto (con l'art. 2, comma 1-quinquies) che il termine di cui al comma 1 del presente articolo e' prorogato al 30 aprile 2011.
 
-#### Art. 16 - Obiezione di coscienza
+### Art. 16 - Obiezione di coscienza
 
 1\. Il personale sanitario ed esercente le attivita' sanitarie ausiliarie non e' tenuto a prendere parte alle procedure per l'applicazione delle tecniche di procreazione medicalmente assistita disciplinate dalla presente legge quando sollevi obiezione di coscienza con preventiva dichiarazione. La dichiarazione dell'obiettore deve essere comunicata entro tre mesi dalla data di entrata in vigore della presente legge al direttore dell'azienda unita' sanitaria locale o dell'azienda ospedaliera, nel caso di personale dipendente, al direttore sanitario, nel caso di personale dipendente da strutture private autorizzate o accreditate.
 
@@ -318,7 +316,7 @@ Ha inoltre disposto (con l'art. 2, comma 1-quinquies) che il termine di cui al c
 
 3\. L'obiezione di coscienza esonera il personale sanitario ed esercente le attivita' sanitarie ausiliarie dal compimento delle procedure e delle attivita' specificatamente e necessariamente dirette a determinare l'intervento di procreazione medicalmente assistita e non dall'assistenza antecedente e conseguente l'intervento.
 
-#### Art. 17 - Disposizioni transitorie
+### Art. 17 - Disposizioni transitorie
 
 1\. Le strutture e i centri iscritti nell'elenco predisposto presso l'Istituto superiore di sanita' ai sensi dell'ordinanza del Ministro della sanita' del 5 marzo 1997, pubblicata nella Gazzetta Ufficiale n. 55 del 7 marzo 1997, sono autorizzati ad applicare le tecniche di procreazione medicalmente assistita, nel rispetto delle disposizioni della presente legge, fino al nono mese successivo alla data di entrata in vigore della presente legge.
 
@@ -330,7 +328,7 @@ Ha inoltre disposto (con l'art. 2, comma 1-quinquies) che il termine di cui al c
 
 > \- L'ordinanza del Ministro della sanita' del 5 marzo 1997, concerne: Divieto di pratiche di clonazione umana o animale».
 
-#### Art. 18 - Fondo per le tecniche di procreazione medicalmente assistita
+### Art. 18 - Fondo per le tecniche di procreazione medicalmente assistita
 
 1\. Al fine di favorire l'accesso alle tecniche di procreazione medicalmente assistita da parte dei soggetti di cui all'articolo 5, presso il Ministero della salute e' istituito il Fondo per le tecniche di procreazione medicalmente assistita. Il Fondo e' ripartito tra le regioni e le province autonome di Trento e di Bolzano sulla base di criteri determinati con decreto del Ministro della salute, da emanare entro sessanta giorni dalla data di entrata in vigore della presente legge, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano.
 

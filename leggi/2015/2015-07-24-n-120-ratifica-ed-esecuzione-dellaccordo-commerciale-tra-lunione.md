@@ -203,7 +203,7 @@ Disarmo e non proliferazione delle armi di distruzione di massa
 
 4\. Le parti convengono che i paragrafi 1 e 2 del presente articolo costituiscono un elemento essenziale del presente accordo.
 
-## CAPO 2 - DISPOSIZIONI GENERALI
+### CAPO 2 - DISPOSIZIONI GENERALI
 
 ##### ARTICOLO 3
 
@@ -313,7 +313,7 @@ Integrazione regionale
 
 5\. Tenuto conto dell'aspirazione delle parti di realizzare un'associazione tra le due regioni, quando tutti i paesi membri della Comunita' andina saranno parti del presente accordo, il comitato per il commercio riesaminera' le disposizioni pertinenti, in particolare il presente articolo e l'articolo 105, al fine di adattarle alla nuova situazione e di sostenere i processi di integrazione regionale.
 
-## CAPO 3 - DEFINIZIONI DI APPLICAZIONE GENERALE
+### CAPO 3 - DEFINIZIONI DI APPLICAZIONE GENERALE
 
 ##### ARTICOLO 11
 
@@ -539,7 +539,7 @@ Trattamento nazionale
 
 6 La Colombia e la parte UE convengono che tale disposizione non osta al mantenimento e all'esercizio dei monopoli delle bevande alcoliche stabiliti in Colombia.
 
-## SEZIONE 2 - SOPPRESSIONE DEI DAZI DOGANALI
+#### SEZIONE 2 - SOPPRESSIONE DEI DAZI DOGANALI
 
 ##### ARTICOLO 22
 
@@ -563,7 +563,7 @@ a) aumenti un dazio doganale al livello stabilito nell'allegato I (Tabelle di so
 
 b) mantenga o aumenti un dazio doganale conformemente all'intesa dell'OMC sulle norme e sulle procedure che disciplinano la risoluzione delle controversie (di seguito denominato "DSU") o al titolo XII (Risoluzione delle controversie).
 
-## SEZIONE 3 - MISURE NON TARIFFARIE
+#### SEZIONE 3 - MISURE NON TARIFFARIE
 
 ##### ARTICOLO 23
 
@@ -621,7 +621,7 @@ Imprese commerciali di Stato
 
 8 Per maggiore chiarezza, si intende che le aziende produttrici di bevande alcoliche che operano nel quadro del "monopolio rentistico" di cui all'articolo 336 della Costituzione politica della Colombia rientrano in questa definizione di imprese commerciali di Stato.
 
-## SEZIONE 4 - PRODOTTI AGRICOLI
+#### SEZIONE 4 - PRODOTTI AGRICOLI
 
 ##### ARTICOLO 28
 
@@ -707,7 +707,7 @@ Amministrazione e applicazione dei contingenti tariffari
 
 3\. Su richiesta di una parte esportatrice, una parte importatrice si consulta con la parte esportatrice in merito all'amministrazione dei contingenti tariffari della parte importatrice. Tali consultazioni sostituiscono le consultazioni previste all'articolo 301 purche' rispettino le condizioni stabilite nel paragrafo 9 di detto articolo.
 
-## SEZIONE 5 - GESTIONE DEGLI ERRORI AMMINISTRATIVI
+#### SEZIONE 5 - GESTIONE DEGLI ERRORI AMMINISTRATIVI
 
 ##### ARTICOLO 34
 
@@ -715,7 +715,7 @@ Gestione degli errori amministrativi
 
 Qualora le autorita' competenti di qualsiasi parte, a livello della corretta gestione del sistema preferenziale di esportazione, in particolare nell'applicazione delle disposizioni dell'allegato II (concernente la definizione della nozione di "prodotti originari" e i metodi di cooperazione amministrativa), abbiano commesso un errore che comporti conseguenze in termini di dazi all'importazione, qualsiasi parte che subisca dette conseguenze puo' chiedere che il comitato per il commercio, dopo che la questione sia stata discussa sul piano tecnico fra le parti interessate in seno al sottocomitato per le dogane, la facilitazione degli scambi e le regole di origine di cui all'articolo 68, vagli la possibilita' di prendere tutte le misure del caso per risolvere la situazione. La decisione del comitato per il commercio sulle misure del caso e' adottata di comune accordo dalle parti interessate.
 
-## SEZIONE 6 - SOTTOCOMITATI
+#### SEZIONE 6 - SOTTOCOMITATI
 
 ##### ARTICOLO 35
 
@@ -759,9 +759,9 @@ f) riferisce e sottopone all'esame del comitato per il commercio i risultati del
 
 4\. Il sottocomitato per l'agricoltura adotta decisioni per consenso.
 
-## CAPO 2 - MISURE DI DIFESA COMMERCIALE
+### CAPO 2 - MISURE DI DIFESA COMMERCIALE
 
-### SEZIONE 1 - MISURE ANTIDUMPING E COMPENSATIVE
+#### SEZIONE 1 - MISURE ANTIDUMPING E COMPENSATIVE
 
 ##### ARTICOLO 37
 
@@ -817,7 +817,7 @@ Esclusione dal meccanismo di risoluzione delle controversie
 
 Il titolo XII (Risoluzione delle controversie) non si applica alla presente sezione.
 
-## SEZIONE 2 - MISURE DI SALVAGUARDIA MULTILATERALI
+#### SEZIONE 2 - MISURE DI SALVAGUARDIA MULTILATERALI
 
 ##### ARTICOLO 43
 
@@ -859,7 +859,7 @@ Esclusione dal meccanismo di risoluzione delle controversie
 
 Il titolo XII (Risoluzione delle controversie) non si applica alla presente sezione, ad eccezione dell'articolo 45.
 
-## SEZIONE 3 - CLAUSOLA DI SALVAGUARDIA BILATERALE
+#### SEZIONE 3 - CLAUSOLA DI SALVAGUARDIA BILATERALE
 
 ##### ARTICOLO 48
 
@@ -975,7 +975,7 @@ b) nel caso del Peru', il ministero del Commercio estero e del turismo o il suo 
 
 c) nel caso della parte UE, la Commissione europea.
 
-## CAPO 3 - DOGANE E FACILITAZIONE DEGLI SCAMBI
+### CAPO 3 - DOGANE E FACILITAZIONE DEGLI SCAMBI
 
 ##### ARTICOLO 58
 
@@ -1167,7 +1167,7 @@ Attuazione
 
 Le disposizioni dell'articolo 59, paragrafo 2, lettera f), e dell'articolo 60 si applicano al Peru' due anni dopo l'entrata in vigore del presente accordo.
 
-## CAPO 4 - OSTACOLI TECNICI AGLI SCAMBI
+### CAPO 4 - OSTACOLI TECNICI AGLI SCAMBI
 
 ##### ARTICOLO 71
 
@@ -1429,7 +1429,7 @@ Scambio di informazioni
 
 2\. Per quanto riguarda i quesiti cui devono essere pronti a rispondere i punti di informazione, come pure la gestione e il trattamento di tali richieste di informazioni, in conformita' dell'articolo 10 dell'accordo TBT o del presente capo, le parti applicano le raccomandazioni del comitato dell'OMC sugli ostacoli tecnici agli scambi, adottate il 4 ottobre 1995.
 
-## CAPO 5 - MISURE SANITARIE E FITOSANITARIE
+### CAPO 5 - MISURE SANITARIE E FITOSANITARIE
 
 ##### ARTICOLO 85
 
@@ -1691,7 +1691,7 @@ Risoluzione delle controversie
 
 2\. Salvo diversamente convenuto dalle parti della controversia, quando una controversia e' oggetto di consultazioni a livello di sottocomitato SPS conformemente al paragrafo 1, tali consultazioni sostituiscono quelle previste dall'articolo 301 purche' rispettino le condizioni stabilite al paragrafo 9 di tale articolo. Le consultazioni a livello di sottocomitato SPS si ritengono concluse entro trenta giorni dalla data di presentazione della richiesta, tranne qualora le parti impegnate nelle consultazioni non decidano di proseguirle. Tali consultazioni possono essere condotte tramite teleconferenza, videoconferenza o qualsiasi altro strumento tecnologico concordato tra le parti impegnate nelle consultazioni.
 
-## CAPO 6
+### CAPO 6
 
 ##### ARTICOLO 105
 
@@ -1723,7 +1723,7 @@ c) in materia di misure sanitarie e fitosanitarie, i paesi andini firmatari perm
 
 5\. Conformemente al paragrafo 1, le parti sviluppano meccanismi di cooperazione, tenendo conto delle rispettive esigenze e realta', all'interno del quadro giuridico ed istituzionale che disciplina le relazioni di cooperazione fra le parti.
 
-## CAPO 7 - ECCEZIONI
+### CAPO 7 - ECCEZIONI
 
 ##### ARTICOLO 106
 
@@ -1847,7 +1847,7 @@ g) stabilire meccanismi di cooperazione in materia di accreditamento e certifica
 
 h) partecipare attivamente ai forum regionali e multilaterali allo scopo di promuovere lo sviluppo del commercio elettronico.
 
-## CAPO 2 - STABILIMENTO
+### CAPO 2 - STABILIMENTO
 
 ##### ARTICOLO 110
 
@@ -1983,7 +1983,7 @@ Promozione degli investimenti e riesame
 
 2\. La promozione di cui al paragrafo 1 mira a una cooperazione che comprende, fra gli altri aspetti, un riesame del quadro giuridico per gli investimenti, le condizioni di investimento e il flusso degli investimenti tra le parti, coerentemente con gli impegni da queste assunti nel quadro di accordi internazionali. Tale riesame avviene entro cinque anni dall'entrata in vigore del presente accordo e successivamente con cadenza periodica.
 
-## CAPO 3 - PRESTAZIONE TRANSFRONTALIERA DI SERVIZI
+### CAPO 3 - PRESTAZIONE TRANSFRONTALIERA DI SERVIZI
 
 ##### ARTICOLO 117
 
@@ -2067,7 +2067,7 @@ Elenco degli impegni
 
 I settori per i quali ciascuna delle parti ha assunto impegni a norma del presente capo, nonche' le riserve o le limitazioni dell'accesso al mercato e/o del trattamento nazionale applicabili ai servizi e ai prestatori di servizi di un'altra parte in tali settori, sono specificati nell'allegato VIII (Elenco degli impegni relativi alla prestazione transfrontaliera di servizi).
 
-## CAPO 4 - PRESENZA TEMPORANEA DI PERSONE FISICHE PER MOTIVI PROFESSIONALI
+### CAPO 4 - PRESENZA TEMPORANEA DI PERSONE FISICHE PER MOTIVI PROFESSIONALI
 
 ##### ARTICOLO 122
 
@@ -2341,9 +2341,9 @@ c) non prestino servizi nel quadro di un contratto concluso tra un consumatore d
 
 39 Le attivita' di cui alle lettere c) e d) sono unicamente applicabili tra la Colombia e la parte UE.
 
-## CAPO 5 - QUADRO DI REGOLAMENTAZIONE
+### CAPO 5 - QUADRO DI REGOLAMENTAZIONE
 
-### SEZIONE 1 - DISPOSIZIONI DI APPLICAZIONE GENERALE
+#### SEZIONE 1 - DISPOSIZIONI DI APPLICAZIONE GENERALE
 
 ##### ARTICOLO 129
 
@@ -2395,7 +2395,7 @@ b) difficilmente prevedibile da tale parte al momento dell'assunzione degli impe
 
 40 Il termine "organizzazioni internazionali pertinenti" si riferisce a organismi internazionali ai quali possono aderire gli organismi pertinenti delle parti.
 
-## SEZIONE 2 - SERVIZI INFORMATICI
+#### SEZIONE 2 - SERVIZI INFORMATICI
 
 ##### ARTICOLO 132
 
@@ -2419,7 +2419,7 @@ v) formazione del personale dei clienti nel campo dei programmi informatici, dei
 
 c) i servizi informatici e i servizi correlati rendono possibile la prestazione di altri servizi (ad esempio bancari) mediante mezzi elettronici e di altro tipo. Esiste tuttavia una differenza di rilievo tra il servizio abilitante (ad esempio il web hosting o l'hosting di applicazioni) e il servizio essenziale o di contenuti (ad esempio quello bancario) fornito per via elettronica. In questi casi il servizio essenziale o di contenuti non e' compreso nel codice CPC 84.
 
-## SEZIONE 3 - SERVIZI POSTALI E DI CORRIERE
+#### SEZIONE 3 - SERVIZI POSTALI E DI CORRIERE
 
 ##### ARTICOLO 133
 
@@ -2475,7 +2475,7 @@ Indipendenza degli organismi di regolamentazione
 
 Gli organismi di regolamentazione sono giuridicamente distinti dai fornitori di servizi postali e di corriere, ai quali non devono rispondere del loro operato. Le decisioni e le procedure delle autorita' di regolamentazione sono imparziali nei confronti di tutti i partecipanti al mercato.
 
-## SEZIONE 4 - SERVIZI DI TELECOMUNICAZIONE
+#### SEZIONE 4 - SERVIZI DI TELECOMUNICAZIONE
 
 ##### ARTICOLO 139
 
@@ -2675,7 +2675,7 @@ Controversie tra fornitori
 
 2\. Qualora la controversia riguardi la prestazione transfrontaliera di servizi, le autorita' di regolamentazione delle parti interessate coordinano i loro sforzi per risolvere la controversia.
 
-## SEZIONE 5 - SERVIZI FINANZIARI
+#### SEZIONE 5 - SERVIZI FINANZIARI
 
 ##### ARTICOLO 151
 
@@ -2849,7 +2849,7 @@ Eccezioni specifiche
 
 3\. Nessuna disposizione del presente titolo puo' essere interpretata nel senso di ostare a che una parte, compresi i suoi soggetti pubblici, eserciti o fornisca in via esclusiva, sul proprio territorio, attivita' o servizi per conto proprio o di suoi soggetti pubblici, con garanzia propria o loro o utilizzando risorse finanziarie proprie o di suoi soggetti pubblici.
 
-## SEZIONE 6 - SERVIZI DI TRASPORTO MARITTIMO INTERNAZIONALE
+#### SEZIONE 6 - SERVIZI DI TRASPORTO MARITTIMO INTERNAZIONALE
 
 ##### ARTICOLO 160
 
@@ -2901,7 +2901,7 @@ b) rizzaggio/derizzaggio del carico; e
 
 c) ricevimento/consegna e custodia del carico prima dell'imbarco o dopo lo sbarco.
 
-## CAPO 6 - COMMERCIO ELETTRONICO
+### CAPO 6 - COMMERCIO ELETTRONICO
 
 ##### ARTICOLO 162
 
@@ -2963,7 +2963,7 @@ Protezione dei consumatori
 
 2\. Le parti riconoscono l'importanza di rafforzare la protezione dei consumatori e la cooperazione tra le autorita' nazionali preposte alla protezione dei consumatori nelle attivita' relative al commercio elettronico.
 
-## CAPO 7 - ECCEZIONI
+### CAPO 7 - ECCEZIONI
 
 ##### ARTICOLO 167
 
@@ -3659,7 +3659,7 @@ Esaurimento dei diritti di proprieta' intellettuale
 
 Ciascuna delle parti e' libera di stabilire il proprio regime di esaurimento dei diritti di proprieta' intellettuale, fatte salve le disposizioni dell'accordo TRIPS.
 
-## CAPO 2 - PROTEZIONE DELLA BIODIVERSITÀ E DELLE CONOSCENZE TRADIZIONALI
+### CAPO 2 - PROTEZIONE DELLA BIODIVERSITÀ E DELLE CONOSCENZE TRADIZIONALI
 
 ##### ARTICOLO 201
 
@@ -3695,9 +3695,9 @@ Ciascuna delle parti e' libera di stabilire il proprio regime di esaurimento dei
 
 63 Fatta salva l'applicazione delle disposizioni del presente capo, le parti riconoscono che il concetto di conoscenze tradizionali e' oggetto di discussione nelle sedi internazionali pertinenti.
 
-## CAPO 3 - DISPOSIZIONI IN MATERIA DI DIRITTI DI PROPRIETÀ INTELLETTUALE
+### CAPO 3 - DISPOSIZIONI IN MATERIA DI DIRITTI DI PROPRIETÀ INTELLETTUALE
 
-### SEZIONE 1 - MARCHI
+#### SEZIONE 1 - MARCHI
 
 ##### ARTICOLO 202
 
@@ -3745,7 +3745,7 @@ Eccezioni ai diritti conferiti da un marchio
 
 65 Per limitata eccezione si intende quella che consente a terzi di utilizzare sul mercato un termine descrittivo senza necessita' di ottenere il consenso del titolare dei diritti purche' tale uso sia fatto in buona fede e non costituisca un uso come marchio.
 
-## SEZIONE 2 - INDICAZIONI GEOGRAFICHE
+#### SEZIONE 2 - INDICAZIONI GEOGRAFICHE
 
 ##### ARTICOLO 207
 
@@ -3849,7 +3849,7 @@ Cooperazione e trasparenza
 
 La presente sezione fa salvi i diritti gia' riconosciuti dalle parti a paesi terzi nell'ambito di accordi di libero scambio.
 
-## SEZIONE 3 - DIRITTO D'AUTORE E DIRITTI CONNESSI
+#### SEZIONE 3 - DIRITTO D'AUTORE E DIRITTI CONNESSI
 
 ##### ARTICOLO 215
 
@@ -3959,7 +3959,7 @@ Diritto degli artisti sulle successive vendite di opere d'arte
 
 2\. Il diritto di cui al paragrafo 1 si applica, conformemente alla legislazione interna, a tutte le successive vendite all'asta o con l'intervento di professionisti del mercato dell'arte, come case d'asta, gallerie d'arte o altri commercianti di opere d'arte.
 
-## SEZIONE 4 - DISEGNI E MODELLI
+#### SEZIONE 4 - DISEGNI E MODELLI
 
 ##### ARTICOLO 224
 
@@ -4015,7 +4015,7 @@ Rapporto con il diritto d'autore
 
 L'oggetto della protezione di un disegno o modello registrato puo' essere protetto dalla legislazione sul diritto d'autore se sono soddisfatte le condizioni per tale protezione. Ciascuna delle parti determina l'estensione della protezione e le condizioni per la sua concessione, compreso il grado di originalita' richiesto.
 
-## SEZIONE 5 - BREVETTI
+#### SEZIONE 5 - BREVETTI
 
 ##### ARTICOLO 230
 
@@ -4041,9 +4041,7 @@ d) eliminare i vegetali indesiderati; o
 
 e) eliminare parti di vegetali, frenare o evitare una crescita indesiderata dei vegetali.
 
-## SEZIONE 6 - PROTEZIONE DEI DATI RELATIVI A DETERMINATI
-
-### PRODOTTI REGOLAMENTATI
+#### SEZIONE 6 - PROTEZIONE DEI DATI RELATIVI A DETERMINATI PRODOTTI REGOLAMENTATI
 
 ##### ARTICOLO 231
 
@@ -4069,13 +4067,13 @@ b) le procedure abbreviate di autorizzazione all'immissione in commercio nel lor
 
 72 Nel caso della Colombia e della parte UE, questa protezione comprende la protezione dei dati relativi a prodotti biologici e biotecnologici. Nel caso del Peru', la protezione delle informazioni segrete relative a tali prodotti e' concessa nei confronti della divulgazione e delle pratiche contrarie alle pratiche commerciali leali, conformemente all'articolo 39, paragrafo 2, dell'accordo TRIPS, in assenza di una legislazione specifica al riguardo.
 
-## SEZIONE 7 - VARIETÀ VEGETALI
+#### SEZIONE 7 - VARIETÀ VEGETALI
 
 ##### ARTICOLO 232
 
 Le parti cooperano per promuovere e garantire la protezione delle varieta' vegetali sulla base della convenzione internazionale per la protezione dei ritrovati vegetali (di seguito denominata "convenzione UPOV"), quale riveduta il 19 marzo 1991, compresa l'eccezione facoltativa al diritto di costitutore di cui all'articolo 15, paragrafo 2, di detta convenzione.
 
-## SEZIONE 8 - CONCORRENZA SLEALE
+#### SEZIONE 8 - CONCORRENZA SLEALE
 
 ##### ARTICOLO 233
 
@@ -4083,9 +4081,9 @@ Le parti cooperano per promuovere e garantire la protezione delle varieta' veget
 
 2\. Conformemente alla legislazione interna di ciascuna parte il presente articolo puo' essere applicato fatta salva la protezione concessa in virtu' del presente titolo.
 
-## CAPO 4 - RISPETTO DEI DIRITTI DI PROPRIETÀ INTELLETTUALE
+### CAPO 4 - RISPETTO DEI DIRITTI DI PROPRIETÀ INTELLETTUALE
 
-### SEZIONE 1 - DISPOSIZIONI GENERALI
+#### SEZIONE 1 - DISPOSIZIONI GENERALI
 
 ##### ARTICOLO 234
 
@@ -4097,7 +4095,7 @@ Le parti cooperano per promuovere e garantire la protezione delle varieta' veget
 
 4\. Il presente capo non crea alcun obbligo per le parti di predisporre un sistema giudiziario per la tutela dei diritti di proprieta' intellettuale distinto da quello per l'applicazione della legge in generale, ne' un obbligo riguardo alla distribuzione delle risorse per la tutela dei diritti di proprieta' intellettuale e per l'applicazione della legge in generale.
 
-## SEZIONE 2 - PROCEDIMENTI E RIMEDI CIVILI E AMMINISTRATIVI
+#### SEZIONE 2 - PROCEDIMENTI E RIMEDI CIVILI E AMMINISTRATIVI
 
 ##### ARTICOLO 235
 
@@ -4261,7 +4259,7 @@ iii) gli imballaggi recanti marchi delle merci contraffatte presentati separatam
 
 b) "merci usurpative", vale a dire le merci che costituiscono o che contengono riproduzioni realizzate senza il consenso del titolare del diritto d'autore o dei diritti connessi o dei diritti relativi al disegno o modello, registrato o meno a norma del diritto interno, o di una persona da questi regolarmente autorizzata nel paese di produzione.
 
-## SEZIONE 3 - RESPONSABILITÀ DEI PRESTATORI INTERMEDIARI
+#### SEZIONE 3 - RESPONSABILITÀ DEI PRESTATORI INTERMEDIARI
 
 ##### ARTICOLO 250
 
@@ -4325,7 +4323,7 @@ Assenza dell'obbligo generale di sorveglianza
 
 2\. Le parti possono stabilire che i prestatori di servizi siano tenuti ad informare senza indugio le autorita' pubbliche competenti di presunte attivita' o informazioni illecite dei destinatari dei loro servizi o a comunicare alle autorita' competenti, a loro richiesta, informazioni che consentano l'identificazione dei destinatari dei loro servizi con cui hanno accordi di memorizzazione dei dati.
 
-## CAPO 5 - TRASFERIMENTO DI TECNOLOGIE
+### CAPO 5 - TRASFERIMENTO DI TECNOLOGIE
 
 ##### ARTICOLO 255
 
@@ -4359,7 +4357,7 @@ g) qualsiasi altra attivita' concordata fra le parti.
 
 76 Ai fini di una maggiore chiarezza, il trasferimento di tecnologie comprende l'accesso alle tecnologie e il loro uso nonche' il processo di creazione di tecnologie.
 
-## CAPO 6 - COOPERAZIONE
+### CAPO 6 - COOPERAZIONE
 
 ##### ARTICOLO 256
 
@@ -4997,7 +4995,7 @@ Definizioni
 
 Ai fini del presente titolo per "parte della controversia" o "parte di una controversia" e per "parti della controversia" o "parti di una controversia" si intendono una parte o le parti del presente accordo che siano coinvolte in una procedura di risoluzione delle controversie a norma del presente titolo.
 
-## CAPO 2 - CONSULTAZIONI
+### CAPO 2 - CONSULTAZIONI
 
 ##### ARTICOLO 301
 
@@ -5023,7 +5021,7 @@ Consultazioni
 
 10\. Entro cinque giorni dal ricevimento della richiesta di consultazioni, una parte che non sia impegnata nelle consultazioni e che abbia un interesse nella questione oggetto delle stesse puo' presentare alle parti impegnate nelle consultazioni una richiesta scritta, con copia al comitato per il commercio, per partecipare alle consultazioni. A condizione che nessuna delle parti impegnate nelle consultazioni respinga tale richiesta, la suddetta parte puo' partecipare come terzo conformemente al regolamento di procedura stabilito a norma dell'articolo 315 (di seguito denominato "regolamento di procedura").
 
-## CAPO 3 - PROCEDURE DI RISOLUZIONE DELLE CONTROVERSIE
+### CAPO 3 - PROCEDURE DI RISOLUZIONE DELLE CONTROVERSIE
 
 ##### ARTICOLO 302
 
@@ -5191,7 +5189,7 @@ Sospensione e chiusura del procedimento arbitrale
 
 3\. Le parti della controversia possono decidere di chiudere il procedimento arbitrale in qualsiasi momento, notificando congiuntamente tale decisione per iscritto al presidente del collegio arbitrale, con copia al comitato per il commercio.
 
-## CAPO 4 - DISPOSIZIONI GENERALI
+### CAPO 4 - DISPOSIZIONI GENERALI
 
 ##### ARTICOLO 314
 

@@ -28,7 +28,7 @@ la seguente legge:
 
 ## TITOLO I - CARRIERE, RUOLI E DOTAZIONI ORGANICHE
 
-#### Art. 1
+### Art. 1
 
 Rinvio a tabelle - Divieto di comandi e di distacchi
 
@@ -38,11 +38,9 @@ E' fatto divieto di disporre il comando e il distacco, anche solo di fatto, di p
 
 Il personale indicato nel precedente comma che alla entrata in vigore della presente legge si trovi in posizione di comando o di distacco deve essere restituito alle scuole e agli istituti di provenienza entro e non oltre i limiti di tempo di cui al primo comma del successivo articolo 12.
 
-## TITOLO II - AMMINISTRAZIONE CENTRALE
+## TITOLO II - AMMINISTRAZIONE CENTRALE E PROVVEDITORATI AGLI STUDI
 
-### E PROVVEDITORATI AGLI STUDI
-
-#### Art. 2
+### Art. 2
 
 Ordinamento dell'Amministrazione centrale
 
@@ -90,7 +88,7 @@ AGGIORNAMENTO (9)
 
 Il D.P.R. 24 luglio 1977, n. 617 ha disposto (con l'art. 3, comma 1, lettera c) che e' soppresso "l'ispettorato per l'assistenza scolastica previsto dall'art. 2 della legge 7 dicembre 1961, n. 1264."
 
-#### Art. 3
+### Art. 3
 
 Vice provveditori agli studi
 
@@ -102,7 +100,7 @@ Ai vice provveditori agli studi si applicano le norme previste per i direttori d
 
 Per la promozione a provveditore agli studi, ai sensi della legge 19 ottobre 1959, n. 928, le disposizioni dello articolo 2 della legge stessa si applicano sulla dotazione organica complessiva delle qualifiche di vice provveditore e della meta' dei posti di provveditore agli studi, in atto prima dell'entrata in vigore della presente legge. Le frazioni di posto sono a tal fine computate per intero.
 
-#### Art. 4
+### Art. 4
 
 Promozioni a direttore di sezione e a vice provveditore agli studi
 
@@ -110,7 +108,7 @@ Ferme restando le norme di cui all'articolo 368 del decreto del Presidente della
 
 Salvo il disposto del successivo articolo 8 il conferimento dell'una o dell'altra qualifica e l'inquadramento nei rispettivi ruoli sono disposti secondo l'ordine di graduatoria tenuto conto delle opzioni dei vincitori.
 
-#### Art. 5
+### Art. 5
 
 Personale di carriera esecutiva
 
@@ -124,7 +122,7 @@ i tre decimi dei posti per il conferimento della qualifica di dattilografo aggiu
 
 Per il conseguimento della qualifica di applicato tecnico aggiunto, oltre alle prove di cui all'articolo 182 del testo unico approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, gli aspiranti debbono superare apposita prova pratica su mezzi meccanografici e di fotoriproduzione, indicata nel bando di concorso.
 
-#### Art. 6
+### Art. 6
 
 Assegnazioni e trasferimenti
 
@@ -132,7 +130,7 @@ L'assegnazione ad uffici dell'Amministrazione centrale ed ai Provveditorati agli
 
 Per otto anni dalla data di entrata in vigore della presente legge, nei confronti del personale appartenente a quella data medesima, a ruoli separati per l'Amministrazione centrale e' per i Provveditorati agli studi, i trasferimenti di cui al precedente comma non possono essere disposti se non a domanda.
 
-#### Art. 7
+### Art. 7
 
 Inquadramento nei ruoli unificati - Soppressione di ruoli transitori
 
@@ -148,13 +146,13 @@ In dipendenza di tale collocamento, i suddetti ruoli ordinari sono aumentati per
 
 ## DISPOSIZIONI TRANSITORIE
 
-#### Art. 8
+### Art. 8
 
 Promozioni del personale proveniente dai ruoli separati
 
 Per otto anni dalla data di entrata in vigore della presente legge, i posti disponibili nelle dotazioni stabilite per l'Amministrazione centrale e quelli disponibili nelle dotazioni stabilite per i Provveditorati agli studi nelle tabelle A, C, D, E ed F, allegate alla presente legge, sono conferibili soltanto al personale proveniente, rispettivamente, dal soppresso ruolo dell'Amministrazione centrale e da quello dei Provveditorati agli studi.
 
-#### Art. 9
+### Art. 9
 
 Concorso riservato a posti di consigliere di terza classe
 
@@ -162,7 +160,7 @@ Nella prima applicazione della presente legge, un quinto dei posti che vanno ad 
 
 Ai vincitori del concorso di cui sopra, il servizio prestato nella carriera di concetto e' valutato in ragione di due terzi, senza alcuna limitazione di durata, ai fini del compimento dei periodi di anzianita' prescritti per la promozione alla qualifica immediatamente superiore a quella iniziale.
 
-#### Art. 10
+### Art. 10
 
 Concorso riservato a posti di vice segretario
 
@@ -178,13 +176,13 @@ Previa rinuncia del beneficio di cui all'ultimo comma del precedente articolo 6,
 
 Ai vincitori dei concorsi sopra, indicati e al personale di concetto amministrativo gia' in ruolo per effetto del concorso per esami di cui alla legge 2 aprile 1958, n. 320, il servizio prestato nella carriera esecutiva e' valutato in ragione di due terzi, agli effetti previsti dall'articolo unico della suindicata, legge n. 320.
 
-#### Art. 11
+### Art. 11
 
 Concorso riservato a posti di agente tecnico
 
 Nella prima applicazione della presente legge i posti disponibili, per l'accesso alla qualifica iniziale, nel ruolo degli agenti tecnici di cui alla allegata tabella F, sano riservati, mediante concorso per titoli, integrato da una prova di idoneita' tecnica, al personale ausiliario, di ruolo e non di ruolo, comunque in servizio negli uffici dell'Amministrazione centrale e dei Provveditorati agli studi.
 
-#### Art. 12
+### Art. 12
 
 Limite dei posti da mettere a concorso
 
@@ -192,11 +190,9 @@ I posti che per effetto della presente legge vanno ad incrementare le attuali co
 
 Dal limite stabilito nel precedente comma si prescinde nei concorsi riservati, in applicazione della presente legge, ad impiegati appartenenti al ruoli della Amministrazione della pubblica istruzione.
 
-## TITOLO III - AMMINISTRAZIONE
+## TITOLO III - AMMINISTRAZIONE DELLE ANTICHITA' E BELLE ARTI
 
-### DELLE ANTICHITA' E BELLE ARTI
-
-#### Art. 13
+### Art. 13
 
 Soprintendenze ed istituti di antichita' e belle arti
 
@@ -212,11 +208,11 @@ Alla direzione dell'Istituto centrale del restauro e' preposto un soprintendente
 
 La denominazione e la circoscrizione delle Soprintendenze, di cui al primo comma del presente articolo, sono fissate con decreto del Ministro per la pubblica istruzione, sentito il parere del Consiglio superiore delle antichita' e belle arti a sezioni I, II, III e IV unite.
 
-#### Art. 14
+### Art. 14
 
 ((ARTICOLO ABROGATO DAL D.P.R. 3 DICEMBRE 1975, N. 805))
 
-#### Art. 15
+### Art. 15
 
 Nomina degli ispettori e degli architetti
 
@@ -232,13 +228,13 @@ Per i posti riservati alla specializzazione in paletnologia e' ammessa anche la 
 
 Per i posti riservati alla specializzazione in etnografia e in arte dell'Asia e dell'Africa e' ammessa anche la laurea in lingue e civilta' orientali, integrata da almeno un anno di corso di perfezionamento o di specializzazione, attinente alla carriera.
 
-#### Art. 16
+### Art. 16
 
 Promozione a direttore
 
 La promozione a direttore si consegue mediante concorso per titoli al quale sono ammessi gli impiegati dei rispettivi ruoli che abbiano compiuto sei anni di effettivo servizio nella carriera, compreso il periodo di prova, nonche' gli impiegati di ruolo aggiunto della carriera direttiva delle Soprintendenze alle antichita' e belle arti che abbiano compiuto in detto ruolo e in quello speciale transitorio di provenienza sei anni di effettivo servizio.
 
-#### Art. 17
+### Art. 17
 
 Personale dell'istituto centrale e dei Laboratori di restauro
 
@@ -248,7 +244,7 @@ Al ruolo di cui al precedente comma si accede mediante pubblico concorso per esa
 
 La carriera dei chimici, dei fisici e dei microbiologi e' equiparata a quella dei professori di ruolo A degli Istituti di istruzione secondaria, sia per quanto riguarda il trattamento giuridico, sia per quanto concerne il trattamento economico.
 
-#### Art. 18
+### Art. 18
 
 Nomine nei ruoli della carriera di concetto
 
@@ -262,7 +258,7 @@ L'assunzione nei ruoli, di cui all'allegata tabella H, lettere c), d) ed e), e' 
 
 3\) per il ruolo dei restauratori di opere d'arte, diploma di maturita' artistica o licenza di istituto d'arte o diploma di restauratore rilasciato dall'Istituto centrale del restauro.
 
-#### Art. 19
+### Art. 19
 
 Nomine nei ruoli della carriera esecutiva
 
@@ -272,7 +268,7 @@ La nomina in prova ad operatore tecnico si consegue mediante pubblico concorso p
 
 Le disposizioni di cui all'articolo 9 della legge 3 giugno 1950, n. 375, e dell'articolo 1 della legge 13 marzo 1958, n. 308, non si applicano ai ruoli degli assistenti e degli operatori tecnici.
 
-#### Art. 20
+### Art. 20
 
 Promozioni nei ruoli della carriera esecutiva
 
@@ -288,7 +284,7 @@ I posti non conferiti ai sensi delle disposizioni contenute nella lettera a) del
 
 Gli esami consistono in due prove scritte, di cui una a carattere pratico, ed una orale. Si applicano le norme di cui all'articolo 187, commi terzo e quarto, del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
 
-#### Art. 21
+### Art. 21
 
 Personale ausiliario
 
@@ -308,7 +304,7 @@ Le disposizioni dell'articolo 11 della legge 27 maggio 1959, n. 324, sono estese
 
 ## DISPOSIZIONI FINALI E TRANSITORIE
 
-#### Art. 22
+### Art. 22
 
 Inquadramento nella carriera direttiva delle Soprintendenze
 
@@ -322,7 +318,7 @@ Il periodo di servizio prestato nelle qualifiche di ispettore aggiunto e di arch
 
 Al primo concorso che sara' indetto per il conferimento di posti di ispettore e di architetto dopo l'entrata in vigore della presente legge potranno essere ammessi anche coloro che abbiano superato il limite massimo di eta', purche' non abbiano compiuto i 45 anni alla data di scadenza del termine stabilito dal bando di concorso per la presentazione delle domande.
 
-#### Art. 23
+### Art. 23
 
 Concorso riservato per la carriera direttiva delle Soprintendenze
 
@@ -330,13 +326,13 @@ Nella prima applicazione della presente legge, un quinto dei posti disponibili n
 
 Ai vincitori del concorso di cui sopra il servizio prestato nella carriera, di concetto e' valutato in ragione di due terzi, senza alcuna limitazione di durata, ai fini del compimento dei periodi di anzianita' prescritti per la promozione alla qualifica immediatamente superiore a quella iniziale.
 
-#### Art. 24
+### Art. 24
 
 Inquadramento nella carriera direttiva dell'Istituto centrale e dei Laboratori di restauro
 
 Il chimico e il fisico appartenenti al ruolo della carriera direttiva dell'Istituto centrale del restauro, di cui al quadro 13-a annesso al decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, sono collocati nel nuovo ruolo previsto dalla tabella G, lettera d), allegata alla presente legge, conservando l'anzianita' maturata nel ruolo di provenienza.
 
-#### Art. 25
+### Art. 25
 
 Inquadramento nei ruoli delle carriere di concetto ed esecutiva
 
@@ -346,7 +342,7 @@ Gli impiegati appartenenti ai ruoli della carriera esecutiva degli aiutanti e de
 
 Il collocamento e' effettuato con l'attribuzione della qualifica avente coefficiente pari a quello della qualifica rivestita nel ruolo di provenienza e con la conservazione della anzianita' di carriera e di qualifica possedute.
 
-#### Art. 26
+### Art. 26
 
 Ruoli aggiunti della carriera di concetto
 
@@ -358,7 +354,7 @@ Gli impiegati appartenenti ai ruoli aggiunti della carriera di concetto dei segr
 
 3\) a primo restauratore, se siamo in possesso del diploma di maturita' artistica o della licenza di Istituto d'arte o del diploma, di restauratore rilasciato dall'Istituto centrale del restauro.
 
-#### Art. 27
+### Art. 27
 
 Passaggio nei ruoli dei ragionieri e dei geometri
 
@@ -374,7 +370,7 @@ Dopo l'attuazione delle disposizioni di cui al n. 2) del precedente comma, un te
 
 Ai vincitori dei concorsi previsti dal secondo e terzo comma del presente articolo, il servizio prestato nella carriera esecutiva e' valutato in ragione di due terzi senza alcuna limitazione di durata ai fini del compimento dei periodi di anzianita' prescritti per le promozioni alle qualifiche di ragioniere aggiunto, ragioniere e primo ragioniere ed equiparate.
 
-#### Art. 28
+### Art. 28
 
 Inquadramento dei capi tecnici e capi tecnici aggiunti
 
@@ -384,7 +380,7 @@ Nella qualifica di operatore tecnico sono inquadrati altresi' i capi tecnici agg
 
 L'anzianita' posseduta dai capi tecnici aggiunti nel ruolo di provenienza e' computata per meta' ai fini degli aumenti biennali di stipendio dell'ammissione allo scrutinio o agli esami per la promozione alle qualifiche superiori.
 
-#### Art. 29
+### Art. 29
 
 Concorso riservato agli operatori
 
@@ -394,7 +390,7 @@ Fino a quando non saranno state disposte le nomine a seguito del concorso di cui
 
 Le disposizioni del comma, precedente continueranno ad applicarsi nei riguardi di coloro che non abbiano partecipato ai concorsi anzidetti o non abbiano superato le relative prove.
 
-#### Art. 30
+### Art. 30
 
 Riserve di posti nei primi concorsi nelle carriere di concetto, esecutiva ed ausiliaria
 
@@ -410,7 +406,7 @@ Dopo l'attuazione delle disposizioni transitorie di cui al presente titolo, i du
 
 L'esame speciale, di cui al primo comma del presente articolo, consiste in un colloquio vertente sulle materie che saranno indicate nel bando di concorso.
 
-#### Art. 31
+### Art. 31
 
 Assorbimento dei posti aggiunti di cui ai decreto del Presidente della Repubblica 30 novembre 1954, n. 1496
 
@@ -418,13 +414,13 @@ Gli impiegati provenienti dal soppresso Ministero dell'Africa italiana, inquadra
 
 In dipendenza di tale collocamento i suddetti ruoli ordinari sono aumentati per ciascuna qualifica di un numero di posti pari a quello complessivo del personale attualmente inquadrato nelle qualifiche corrispondenti dei posti aggiunti di cui al precedente comma.
 
-#### Art. 32
+### Art. 32
 
 Conferimento di incarico provvisorio negli uffici di economato
 
 Nel primo triennio dalla entrata in vigore della presente legge, all'ufficio di economato, di cui al precedente articolo 14, puo' essere preposto un impiegato del ruolo dei segretari (tabella H, lettera b) delle Soprintendenze alle antichita' e belle arti.
 
-#### Art. 33
+### Art. 33
 
 Collocamento nel ruolo ordinario del personale ausiliario di ruolo aggiunto
 
@@ -432,11 +428,9 @@ Con le modalita' di cui all'articolo 346 del decreto del Presidente della Repubb
 
 Qualora in dipendenza del predetto inquadramento gli impiegati vengano a percepire uno stipendio inferiore a quello goduto, ai medesimi sono attribuiti nella nuova posizione gli aumenti periodici necessari per assicurare uno stipendio d'importo pari o immediatamente superiore a quello in godimento.
 
-## TITOLO IV - SOPRINTENDENZE BIBLIOGRAFICHE, BIBLIOTECHE PUBBLICHE GOVERNATIVE,
+## TITOLO IV - SOPRINTENDENZE BIBLIOGRAFICHE, BIBLIOTECHE PUBBLICHE GOVERNATIVE, ISTITUTO DI PATOLOGIA DEL LIBRO E' ISTITUTO PER IL CATALOGO UNICO E LE INFORMAZIONI BIBLIOGRAFICHE
 
-### ISTITUTO DI PATOLOGIA DEL LIBRO E' ISTITUTO PER IL CATALOGO UNICO E - LE INFORMAZIONI BIBLIOGRAFICHE
-
-#### Art. 34
+### Art. 34
 
 Ordinamento
 
@@ -452,7 +446,7 @@ La disposizione di cui al precedente comma avra' efficacia, nella prima applicaz
 
 Le promozioni a Soprintendente bibliografico di 1ª classe e a direttore di biblioteca di la classe si conseguono a ruolo aperto, mediante scrutinio per merito comparativo, al quale sono ammessi i Soprintendenti bibliografici di 2ª classe e i direttori di biblioteca di 2ª classe, che abbiano compiuto tre anni di effettivo servizio nella qualifica.
 
-#### Art. 35
+### Art. 35
 
 Riordinamento del Centro nazionale per il catalogo unico e per le informazioni bibliografiche
 
@@ -460,7 +454,7 @@ L'articolo 10 della legge 7 febbraio 1951, n. 82, concernente l'istituzione del 
 
 La dotazione annuale prevista dall'articolo 12 della citata legge 7 febbraio 1951, n. 82, a favore del Centro nazionale per il catalogo unico delle biblioteche italiane e per le informazioni bibliografiche in misura di 100.000.000 di lire e' ridotta, con effetto dal 1 luglio successivo alla data di entrata in vigore della presente legge, a 40.000.000 di lire.
 
-#### Art. 36
+### Art. 36
 
 Personale del Centro nazionale per il catologo unico e per le informazioni bibliografiche
 
@@ -476,7 +470,7 @@ Il personale cosi' inquadrato continuera' a prestare servizio presso il Centro a
 
 Al personale, che non e' inquadrato ai sensi del presente articolo e che cessa dal servizio con effetto dal 90° giorno dall'entrata in vigore della presente legge, compete una indennita' commisurata ad una mensilita' del solo stipendio escluso ogni altro emolumento, nella misura percepita all'atto della cessazione dal servizio per ciascun anno di servizio prestato o per frazione di anno superiore a sei mesi, integrata di una somma pari a tre mensilita'.
 
-#### Art. 37
+### Art. 37
 
 Trattamento giuridico ed economico del personale del Centro nazionale per il catalogo unico e per le informazioni bibliografiche
 
@@ -486,7 +480,7 @@ La domanda di riscatto del servizio statale non di ruolo deve essere presentata 
 
 Il collocamento nei ruoli aggiunti non e' consentito a coloro che al compimento del 65° anno di eta' non si trovino ad avere una anzianita' complessiva utile ai fini della pensione di almeno 15 anni di servizio di ruolo aggiunto, o di servizio statale non di ruolo per il quale e' fatto obbligo di riscatto ai sensi delle vigenti disposizioni.
 
-#### Art. 38
+### Art. 38
 
 Direttore dell'Istituto di patologia del libro e conservatore della biblioteca di storia moderna e contemporanea Il direttore dell'Istituto di patologia del libro e il conservatore della biblioteca di storia moderna e contemporanea in servizio alla entrata in vigore della presente legge sono inquadrati, rispettivamente, nella qualifica di direttore di biblioteca di 2ª classe e di direttore di biblioteca di 3ª classe, conservando l'anzianita' di carriera e di qualifica possedute.
 
@@ -494,7 +488,7 @@ Il direttore dell'Istituto di patologia del libro esplica anche funzioni ispetti
 
 Il predetto direttore dell'Istituto di patologia del libro consegue la promozione a direttore di biblioteca di 1ª classe, anche in soprannumero, al compimento di 6 anni di anzianita' senza demerito nella qualifica inferiore, qualora non abbia conseguito detta promozione in applicazione delle norme di cui al decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
 
-#### Art. 39
+### Art. 39
 
 Concorso riservato per la carriera direttiva delle Soprintendenze bibliografiche
 
@@ -502,7 +496,7 @@ Nella prima applicazione della presente legge un quinto dei posti che vanno ad i
 
 Ai vincitori del concorso di cui al comma precedente il servizio prestato nella carriera di concetto e' valutato in ragione di due terzi, senza alcuna limitazione di durata, ai fini del compimento dei periodi di anzianita' prescritti per la promozione alla qualifica immediatamente superiore a quella iniziale.
 
-#### Art. 40
+### Art. 40
 
 Concorsi riservati per la carriera di concetto ed esecutiva delle Soprintendenze bibliografiche
 
@@ -522,7 +516,7 @@ Espletato il concorso riservato, il personale ausiliario che risulti in eccedenz
 
 ## TITOLO V - DISPOSIZIONI TRANSITORIE E FINALI COMUNI
 
-#### Art. 41
+### Art. 41
 
 Riduzione di anzianita'
 
@@ -530,7 +524,7 @@ I dipendenti in servizio alla data di entrata in vigore della presente legge ben
 
 Tale riduzione non si applica nel caso in cui i periodi minimi di anzianita' richiesti per le promozioni siano inferiori ad un biennio ed al personale che abbia gia' fruito di analogo beneficio in precedenti promozioni.
 
-#### Art. 42
+### Art. 42
 
 Norme incompatibili - Onere
 
@@ -556,7 +550,7 @@ GONELLA
 
 ## TITOLO V - DISPOSIZIONI TRANSITORIE E FINALI COMUNI
 
-#### Tabelle
+### Tabelle
 
 TABELLA A
 

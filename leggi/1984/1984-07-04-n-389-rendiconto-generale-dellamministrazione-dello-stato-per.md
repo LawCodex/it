@@ -29,7 +29,7 @@ la seguente legge:
 
 ## AMMINISTRAZIONI DELLO STATO
 
-#### Art. 1 - Entrate
+## Art. 1 - Entrate
 
 Le entrate tributarie, extratributarie, per alienazione ed ammortamento di beni patrimoniali e riscossione di crediti, e per accensione di prestiti, accertate nell'esercizio finanziario 1981 per la competenza propria dell'esercizio, risultano stabilite in lire 131.243.652.847.520.
 
@@ -39,7 +39,7 @@ I residui attivi al 31 dicembre 1981 ammontano complessivamente a lire 27.770.70
 
 Parte di provvedimento in formato grafico
 
-#### Art. 2 - Spese
+## Art. 2 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti, impegnate nell'esercizio finanziario 1981 per la competenza propria dell'esercizio, risultano stabilite in lire 186.644.993.993.379.
 
@@ -49,7 +49,7 @@ I residui passivi al 31 dicembre 1981 ammontano complessivamente a lire 67.940.5
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 3 - Disavanzo della gestione di competenza
+## Art. 3 - Disavanzo della gestione di competenza
 
 Il disavanzo della gestione di competenza dell'escrcizio finanziario 1981 di lire 55.401.341.145.859, risulta stabilito come segue:
 
@@ -85,7 +85,7 @@ Rimborso di prestiti . . " 7.901.368.429.186
  ---------------------- Disavanzo della gestione di competenza. . L. 55.401.341.145.859 ======================
 ```
 
-#### Art. 4 - Situazione finanziaria
+## Art. 4 - Situazione finanziaria
 
 Il disavanzo finanziario del conto del Tesoro, alla fine dell'esercizio 1981, di lire 185.718.112.148.620, risulta stabilito come segue:
 
@@ -93,11 +93,11 @@ Il disavanzo finanziario del conto del Tesoro, alla fine dell'esercizio 1981, di
 
 ## DISPOSIZIONI SPECIALI
 
-#### Art. 5 - Prelevamenti dal Fondo di riserva per le spese impreviste
+## Art. 5 - Prelevamenti dal Fondo di riserva per le spese impreviste
 
 E' approvato l'allegato di cui all'articolo 9, ultimo comma, della legge 5 agosto 1978, n. 468, concernente i prelevamenti dal Fondo di riserva per le spese impreviste per l'anno 1981.
 
-#### Art. 6 - Eccedenze
+## Art. 6 - Eccedenze
 
 Sono approvate le eccedenze di impegni e di pagamenti risultate in sede di consuntivo rispettivamente sul conto della competenza, sul conto dei residui, e sul conto della cassa, relative ai capitoli degli stati di previsione della spesa dei Ministeri sotto indicati per l'esercizio 1981, come risulta dal dettaglio che segue:
 
@@ -397,11 +397,9 @@ personale (Spese obbliga-
 
 torie). . . . . . . . . . - - 184.548.311
 
-## AZIENDE SPECIALI ED AUTONOME
+## AZIENDE SPECIALI ED AUTONOME - GESTIONE DELL'EX AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### GESTIONE DELL'EX AZIENDA DI STATO PER LE FORESTE DEMANIALI
-
-#### Art. 7 - Entrate
+## Art. 7 - Entrate
 
 Le entrate correnti ed in conto capitale del bilancio della gestione dell'ex Azienda di Stato per le foreste demaniali, accertate nell'esercizio finanziario 1981 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo della gestione stessa, allegato al conto consuntivo del Ministero dell'agricoltura e delle foreste, in lire 14.533.172.750.
 
@@ -411,7 +409,7 @@ I residui attivi al 31 dicembre 1981 ammontano complessivamente a lire 9.679.972
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 8 - Spese
+## Art. 8 - Spese
 
 Le spese correnti ed in conto capitale del bilancio della gestione predetta, impegnate nell'esercizio finanziario 1981 per la competenza propria dell'esercizio, risultano stabilite in lire 14.247.729.520. I residui passivi determinati alla chiusura dell'esercizio 1980 in lire 21.948.561.571 risultano stabiliti - per effetto di economie, perenzioni, prescrizioni e maggiori spese verificatesi nel corso della gestione 1981 - in lire 20.575.127.676. I residui passivi al 31 dicembre 1981 ammontano complessivamente a lire 16.421.497.657, cosi' risultanti:
 
@@ -433,7 +431,7 @@ l'esercizio 1980. . 9.943.207.049 10.631.920.627 20.575.127.676
  ==============
 ```
 
-#### Art. 9 - Situazione finanziaria
+## Art. 9 - Situazione finanziaria
 
 La situazione finanziaria della gestione dell'ex Azienda di Stato per le foreste demaniali alla fine dell'esercizio 1981 risulta come appresso:
 
@@ -441,7 +439,7 @@ La situazione finanziaria della gestione dell'ex Azienda di Stato per le foreste
 
 ## ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-#### Art. 10 - Entrate
+## Art. 10 - Entrate
 
 Le entrate correnti del bilancio dell'istituto agronomico per l'Oltremare, accertate nell'esercizio finanziario 1981 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Istituto stesso, allegato al conto consuntivo del Ministero degli affari esteri, in lire 1.041.562.765.
 
@@ -449,7 +447,7 @@ I residui attivi al 31 dicembre 1981 ammontano complessivamente a lire 28.970.00
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 11 - Spese
+## Art. 11 - Spese
 
 Le spese correnti del bilancio dell'Istituto predetto, impegnate nell'esercizio finanziario 1981 per la competenza propria dell'esercizio, risultano stabilite in lire 1.041.562.765.
 
@@ -475,7 +473,7 @@ l'esercizio 1980. . 312.716.277 2.697.334 315.413.611
  ===========
 ```
 
-#### Art. 12 - Eccedenze
+## Art. 12 - Eccedenze
 
 Sono approvate le eccedenze di impegni sul conto della competenza risultate ai sottoindicati articoli in sede di consuntivo per l'esercizio finanziario 1981:
 
@@ -503,7 +501,7 @@ ve alle pubblicazioni scientifiche . . . . . . . . . . 2.403.085
 
 ## AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-#### Art. 13 - Entrate
+## Art. 13 - Entrate
 
 Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione autonoma dei Monopoli di Stato, comprese quelle delle gestioni speciali, accertate nell'esercizio finanziario 1981 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero delle finanze, in lire 1.125.420.265.022.
 
@@ -513,7 +511,7 @@ I residui attivi al 31 dicembre 1981 ammontano complessivamente a lire 529.597.2
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 14 - Spese
+## Art. 14 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Amministrazione predetta, comprese quelle delle gestioni speciali, impegnate nell'esercizio 1981 per la competenza propria dell'esercizio, risultano stabilite in lire 1.125.420.265.022.
 
@@ -541,7 +539,7 @@ dell'esercizio
  ===============
 ```
 
-#### Art. 15 - Riassunto generale
+## Art. 15 - Riassunto generale
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione autonoma dei Monopoli di Stato, di competenza dell'esercizio 1981, risulta cosi' stabilito:
 
@@ -553,7 +551,7 @@ Spese (escluse le gestioni speciali) . . . .    L.  1.125.066.458.175 Spese dell
  --------------------- L. 1.125.420.265.022 =====================
 ```
 
-#### Art. 16 - Situazione finanziaria
+## Art. 16 - Situazione finanziaria
 
 La situazione finanziaria dell'Amministrazione autonoma dei Monopoli di Stato, alla fine dell'esercizio 1981, ristulta come appresso:
 
@@ -571,7 +569,7 @@ Saldo passivo dell'esercizio 1980 . . . . . . . . . . . " 3.238.132
 
 ## ARCHIVI NOTARILI
 
-#### Art. 17 - Avanzo
+## Art. 17 - Avanzo
 
 L'avanzo della gestione del bilancio degli Archivi notarili, per l'esercizio finanziario 1981, risulta stabilito come segue:
 
@@ -581,7 +579,7 @@ Entrate . . . . . . . . . . . . . . . . . . . . . L. 91.083.998.522 Spese . . . 
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-#### Art. 18 - Entrate
+## Art. 18 - Entrate
 
 Le entrate correnti ed in conto capitale del bilancio dell'Amministrazione del Fondo per il culto, accertate nell'esercizio finanziario 1981 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'interno, in lire 95.237.236.518.
 
@@ -591,7 +589,7 @@ I residui attivi al 31 dicembre 1981 ammontano complessivamente a lire 5.383.967
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 19 - Spese
+## Art. 19 - Spese
 
 Le spese correnti ed in conto capitale del bilancio dell'Amministrazione predetta, impegnate nell'esercizio 1981 per la competenza propria dell'esercizio, risultano stabilite in lire 99.936.905.264.
 
@@ -617,7 +615,7 @@ l'esercizio 1980. . 11.420.227.715 24.551.024.870 35.971.252.585
  ==============
 ```
 
-#### Art. 20 - Situazione finanziaria
+## Art. 20 - Situazione finanziaria
 
 La situazione finanziaria dell'Amministrazione del fondo per il culto, alla fine dell'esercizio 1981, risulta come appresso:
 
@@ -625,7 +623,7 @@ La situazione finanziaria dell'Amministrazione del fondo per il culto, alla fine
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-#### Art. 21 - Entrate
+## Art. 21 - Entrate
 
 Le entrate correnti ed in conto capitale del bilancio del Fondo di beneficenza e di religione nella citta' di Roma, accertate nell'esercizio finanziario 1981 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'interno, in lire 2.200.115.627.
 
@@ -635,7 +633,7 @@ I residui attivi al 31 dicembre 1981 ammontano complessivamente a lire 85.746.17
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 22 - Spese
+## Art. 22 - Spese
 
 Le spese correnti ed in conto capitale del bilancio dell'Amministrazione predetta, impegnate nell'esercizio finanziario 1981 per la competenza propria dell'esercizio, risultano stabilite in lire 2.289.050.607.
 
@@ -661,19 +659,19 @@ l'esercizio 1980. . 386.867.939 485.280.073 872.148.012
  =============
 ```
 
-#### Art. 23 - Situazione finanziaria
+## Art. 23 - Situazione finanziaria
 
 La situazione finanziaria del Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1981 risulta come appresso:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 24 - Eccedenze
+## Art. 24 - Eccedenze
 
 E' approvata l'eccedenza di cassa di lire 7.419.579 risultata al capitolo n. 184 - Supplementi di congrua ai parroci di Roma ed ai membri delle chiese collegiate non soppresse (Spese obbligatorie), in sede di consuntivo per l'esercizio finanziario 1981.
 
 ## PATRIMONI RIUNITI EX ECONOMALI
 
-#### Art. 25 - Entrate
+## Art. 25 - Entrate
 
 Le entrate correnti ed in conto capitale del bilancio dell'Azienda dei patrimoni riuniti ex economali, accertate nell'esercizio finanziario 1981 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero dell'interno, in lire 1.498.782.056.
 
@@ -683,7 +681,7 @@ I residui attivi al 31 dicembre 1981 ammontano complessivamente a lire 338.610.4
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 26 - Spese
+## Art. 26 - Spese
 
 Le spese correnti ed in conto capitale del bilancio dell'Azienda predetta, impegnate nell'esercizio finanziario 1981 per la competenza propria dell'esercizio, risultano stabilite in lire 1.535.610.063.
 
@@ -709,19 +707,19 @@ l'esercizio 1980. . 378.418.489 162.193.381 540.611.870
  ===========
 ```
 
-#### Art. 27 - Situazione finanziaria
+## Art. 27 - Situazione finanziaria
 
 La situazione finanziaria dell'Azienda dei patrimoni riuniti ex economali, alla fine dell'esercizio 1981, risulta come appresso:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 28 - Eccedenze
+## Art. 28 - Eccedenze
 
 E' approvata l'eccedenza di cassa di lire 16.861.777 risultata al capitolo n. 131 - Pensioni ordinarie ed altri assegni fissi (Spese obbligatorie) - in sede di consuntivo per l'esercizio finanziario 1981.
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE
 
-#### Art. 29 - Entrate
+## Art. 29 - Entrate
 
 Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Azienda nazionale autonoma delle strade, accertate nell'esercizio finanziario 1981 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero dei lavori pubblici, in lire 2.477.362.787.697.
 
@@ -731,7 +729,7 @@ I residui attivi al 31 dicembre 1931 ammontano complessivamente a lire 2.785.664
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 30 - Spese
+## Art. 30 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Azienda predetta, impegnate nell'esercizio finanziario 1981 per la competenza propria dell'esercizio, risultano stabilite in lire 1.800.512.895.538.
 
@@ -759,7 +757,7 @@ dell'esercizio
  =================
 ```
 
-#### Art. 31 - Eccedenze
+## Art. 31 - Eccedenze
 
 Sono approvate le eccedenze di cassa risultate ai sottoindicati capitoli in sede di consuntivo per l'esercizio finanziario 1981:
 
@@ -775,7 +773,7 @@ fissi . . . . . . . . . 7.020.206.575
 
 ## AMMINISTRAZIONE AUTONOMA DELLE POSTE E DELLE TELECOMUNICAZIONI
 
-#### Art. 32 - Entrate
+## Art. 32 - Entrate
 
 Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione delle poste e delle telecomunicazioni, accertate nell'esercizio finanziario 1981 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero delle poste e delle telecomunicazioni, in lire 4.888.889.317.108.
 
@@ -785,7 +783,7 @@ I residui attivi al 31 dicembre 1981 ammontano complessivamente a lire 4.489.532
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 33 - Spese
+## Art. 33 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Amministrazione predetta, impegnate nell'esercizio finanziario 1981 per la competenza propria dell'esercizio, risultano stabilite in lire 4.888.889.317.108.
 
@@ -813,7 +811,7 @@ dell'esercizio
  =================
 ```
 
-#### Art. 34 - Eccedenze
+## Art. 34 - Eccedenze
 
 Sono approvate le eccedenze di spesa sul conto della cassa risultate ai sottoindicati capitoli in sede di consuntivo per l'esercizio finanziario 1981:
 
@@ -879,7 +877,7 @@ zioni di Ginevra. . . . . 59.217.276
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-#### Art. 35 - Entrate
+## Art. 35 - Entrate
 
 Le entrate correnti, in conto capitale e per accensione di prestiti dal bilancio dell'Azienda di Stato per i servizi telefonici, accertate nell'esercizio finanziario 1981 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero delle poste e delle telecomunicazioni, in lire 1.279.932.003.399.
 
@@ -889,7 +887,7 @@ I residui attivi al 31 dicembre 1981 ammontano complessivamente a lire 404.163.9
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 36 - Spese
+## Art. 36 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Azienda predetta, impegnate nell'esercizio finanziario 1981 per la competenza propria dell'esercizio, risultano stabilite in lire 1.279.932.003.399.
 
@@ -917,7 +915,7 @@ dell'esercizio
  =================
 ```
 
-#### Art. 37 - Eccedenze
+## Art. 37 - Eccedenze
 
 Sono approvate le eccedenze di spesa sul conto della cassa risultate ai sottoindicati capitoli in sede di consuntivo per l'esercizio finanziario 1981:
 
@@ -1095,7 +1093,7 @@ razione delle relative informazioni 711.643.130
 
 ## AZIENDA AUTONOMA DELLE FERROVIE DELLO STATO
 
-#### Art. 38 - Entrate
+## Art. 38 - Entrate
 
 Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Azienda autonoma delle ferrovie dello Stato, comprese quelle delle gestioni speciali ed autonome, accertate nell'esercizio finanziario 1981 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero dei trasporti, in lire 21.344.814.181.181.
 
@@ -1105,7 +1103,7 @@ I residui attivi al 31 dicembre 1981 ammontano complessivamente a lire 7.171.291
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 39 - Spese
+## Art. 39 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Azienda predetta, comprese quelle delle gestioni speciali ed autonome, impegnate nell'esercizio finanziario 1981 per la competenza propria dell'esercizio, risultano stabilite in lire 21.344.814.181.181.
 
@@ -1115,7 +1113,7 @@ I residui passivi al 31 dicembre 1981 ammontano complessivamente a lire 7.799.56
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 40 - Riassunto generale
+## Art. 40 - Riassunto generale
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Azienda autonoma dalle ferrovie dello Stato, di competenza dell'esercizio 1981 risulta cosi' stabilito:
 
@@ -1131,7 +1129,7 @@ autonome). . . . . . . . . . . . . . . . . L. 11.726.038.385.410 Spese delle ges
 
 --------------------- L. 21.344.814.181.181 =====================
 
-#### Art. 41 - Eccedenze
+## Art. 41 - Eccedenze
 
 Sono approvate le eccedenze di spesa sul conto dei residui e su quello della cassa risultate ai sottoindicati capitoli in sede di consuntivo per l'esercizio finanziario 1981:
 
@@ -1265,7 +1263,7 @@ zione e l'acquisto di al-
 
 loggi per i ferrovieri - 9.604.688
 
-#### Art. 42
+## Art. 42
 
 Il conto consuntivo dello Stato per l'esercizio 1981 e' approvato.
 
@@ -1281,7 +1279,7 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 ## AZIENDA AUTONOMA DELLE FERROVIE DELLO STATO
 
-#### Allegato 1
+## Allegato 1
 
 ALLEGATO N. 1
 
@@ -1423,7 +1421,7 @@ Le ulteriori integrazioni, per complessive L. 898.655.000, si sono rese necessar
 
 Tenuto conto degli utilizzi sopra descritti e che la legge 18 dicembre 1981, n. 751, concernente l'assunzione a carico dello Stato delle spese per i funerali del senatore Giuseppe Pella, all'art. 2 dispone la riduzione di lire 6.000.000 del fondo di riserva per le spese impreviste di cui al capitolo 6855, residuano lire 24.000.000, che vengono passate in economia.
 
-#### Allegato 2
+## Allegato 2
 
 ALLEGATO N. 2
 

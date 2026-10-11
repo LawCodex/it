@@ -26,11 +26,9 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - Riforma del trattamento di quiescenza della Cassa per le pensioni ai
+## TITOLO I - Riforma del trattamento di quiescenza della Cassa per le pensioni ai sanitari
 
-### sanitari
-
-#### Art. 1
+### Art. 1
 
 La disposizione contenuta nel comma primo dell'art. 3 della legge 11 giugno 1954, n. 409, concernente la riduzione ad anni 15 del minimo di servizio utile per il diritto alla pensione, si applica:
 
@@ -38,7 +36,7 @@ nei casi di cessazione dal servizio in eta' non inferiore a 60 anni o per il rag
 
 nei casi previsti alle lettere a) e b) dell'art. 31 della legge 6 luglio 1939, n. 1035.
 
-#### Art. 2
+### Art. 2
 
 Per l'iscritto alla Cassa per le pensioni ai sanitari e' data facolta', agli effetti del trattamento di quiescenza, di riscattare, in una sola volta o in piu' volte, fino ad un massimo di anni 15, i seguenti servizi e periodi, che non siano altrimenti utili in pensione o contemporanei ad altri servizi utili:
 
@@ -50,7 +48,7 @@ La limitazione del riscatto al massimo di anni 15 non trova applicazione qualora
 
 I servizi e i periodi ammessi a riscatto sono valutati, ai fini del diritto al trattamento di quiescenza nella loro effettiva durata, in anni, mesi e giorni. Pero', per le domande presentate prima della data di pubblicazione della presente legge, la valutazione, ai fini predetti, si effettua con le norme precedentemente in vigore.
 
-#### Art. 3
+### Art. 3
 
 Per ogni iscritto alla Cassa per le pensioni ai sanitari, a partire dalla data da cui ha effetto la presente legge, e con riferimento a ciascun anno solare di servizio, si determina la retribuzione annua contributiva con l'applicazione delle norme contenute nei commi secondo e terzo dell'art. 12 e negli articoli 13 e 14 della legge 11 aprile 1955, n. 379. Pero', detta retribuzione, qualora sia inferiore a lire 1 milione e 300.000, si considera per un importo pari agli otto decimi della retribuzione stessa aumentati di lire 260.000 e, in nessun caso, per un importo inferiore a lire 600.000.
 
@@ -70,7 +68,7 @@ AGGIORNAMENTO (2)
 
 La L. 3 maggio 1967, n. 315 ha disposto (con l'art. 1) che "Ai fini del trattamento di quiescenza e del contributo dovuto alla Cassa per le pensioni ai sanitari, a decorrere dal 1 luglio 1965, la retribuzione annua contributiva, determinata ai sensi dell'articolo 3 della legge 4 febbraio 1958, n. 87, e' maggiorata dell'eventuale indennita' integrativa speciale concessa per effetto dell'estensione delle norme contenute nell'articolo 1 della legge 27 maggio 1959, n. 324, e successive modificazioni, limitatamente, pero', ad un importo in nessun caso eccedente lire 50.000 annue".
 
-#### Art. 4
+### Art. 4
 
 Il trattamento di quiescenza si determina in base:
 
@@ -88,7 +86,7 @@ Nei casi di pensione, il trattamento annuo di quiescenza determinato in base all
 
 Per le cessazioni dal servizio dovute ad esodo volontario previsto dalla legge 27 febbraio 1955, n. 53, e successive modificazioni, ai fini della determinazione della relativa maggiormente del trattamento, si applicano le norme contenute nella legge 19 ottobre 1956, n. 1225.
 
-#### Art. 5
+### Art. 5
 
 Al fine della determinazione della rendita vitalizia differenziale di cui alla lettera b) dell'art. 4, si calcola, riferibilmente ad ogni anno solare di servizio, la retribuzione annua differenziale tra la retribuzione annua contributiva attribuita all'iscritto ai sensi dell'art. 3 e quella minima di lire 600.000 prevista dall'articolo stesso. Tale retribuzione, nel caso di interruzione di servizio nel corso dell'anno, viene attribuita per una aliquota pari a tanti dodicesimi quanti sono stati i mesi interi di servizio prestati o come tali considerati.
 
@@ -96,7 +94,7 @@ Nel caso di iscrizione per servizi simultaneamente resi, ai fini dell'attribuzio
 
 In base alle retribuzioni differenziali attribuite all'iscritto per ogni anno solare di servizio, la rendita vitalizia differenziale si determina mediante l'applicazione delle norme annesse alla tabella D unita alla presente legge.
 
-#### Art. 6
+### Art. 6
 
 Per la determinazione della, misura del trattamento di quiescenza, i servizi utili anteriori alla data da cui ha effetto la presente legge si arrotondano ad anni interi trascurando la frazione non superiore a sei mesi e si considerano come prestati senza interruzione nel periodo immediatamente precedente la suddetta data.
 
@@ -106,11 +104,11 @@ Nel caso di iscrizione in atto alla data da cui ha effetto la presente legge per
 
 Ai fini della determinazione della retribuzione annua differenziale di cui al comma primo, il servizio militare contemplato al terzo comma dell'art. 3 viene computato qualora la domanda di riconoscimento sia stata presentata anteriormente alla data di pubblicazione della presente legge. Nel caso di domanda presentata posteriormente, al predetto servizio militare gia' prestato alla data da cui ha effetto la presente legge si attribuisce la retribuzione annua differenziale di cui al comma primo determinata in base al rimanente servizio utile anteriore a tale data.
 
-#### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DALLA L. 8 AGOSTO 1991, N. 274))
 
-#### Art. 8
+### Art. 8
 
 Il trattamento annuo lordo, per la pensione diretta, e' pari alla somma delle rendite di cui alle lettere a), b) e c) dell'art. 4.
 
@@ -120,13 +118,13 @@ Quando si tratti di lesioni ed infermita' ascrivibili alla prima categoria della
 
 Per tutte le pensioni dirette considerate nei commi precedenti, in nessun caso la rendita di cui alla lettera a) puo' superare le lire 536.508 annue, e la rendita di cui alla lettera b) puo' superare la retribuzione annua differenziale di cui al comma secondo. A tal fine, nel caso di valutazione in pensione di servizio simultaneo di durata inferiore a 120 mesi, la parte della predetta retribuzione attribuita per il servizio stesso ai sensi del comma secondo dell'art. 5, si considera, per una aliquota pari al rapporto tra tale durata e quella di 120 mesi.
 
-#### Art. 9
+### Art. 9
 
 La facolta' prevista al comma primo dell'art. 25 della legge 24 maggio 1952, n. 610, di chiedere la liquidazione della pensione computando i servizi simultanei nella loro totalita' oppure solo in parte, comprendendo pero', in ogni caso, il servizio per il quale avviene la cessazione, e' estesa agli iscritti alla Cassa per le pensioni ai sanitari, nei casi di cessazione dal servizio a partire dalla data da cui ha effetto la presente legge.
 
 Per l'iscritto che abbia conseguito o consegua la pensione, nei casi di continuazione di iscrizione o di reiscrizione in cui ricorra l'applicazione dell'art. 20 della citata legge 1952, n. 610, quando il relativo periodo sia, almeno in parte, non anteriore alla data predetta, la parte aggiuntiva di pensione e' costituita, unicamente da una integrazione della rendita di cui alla lettera b) dell'art. 4, determinata mediante l'applicazione delle norme annesse alla tabella D unita alla presente legge.
 
-#### Art. 10
+### Art. 10
 
 La pensione indiretta o di riversibilita' e' calcolata sulla corrispondente pensione diretta, applicando le aliquote stabilite dall'art. 32 della legge 6 luglio 1939, n. 1035, per le rendite di cui alle lettere a) e b) dell'art. 4, e l'aliquota fissa di cinque sesti, per la rendita di cui alla lettera c) dell'articolo stesso.
 
@@ -136,7 +134,7 @@ L'importo annuo lordo della pensione indiretta di privilegio o di riversibilita'
 
 ## TITOLO II - Nuova misura dei contributi della Cassa per le pensioni ai sanitari
 
-#### Art. 11
+### Art. 11
 
 A partire dalla data da cui ha effetto la presente legge, il contributo dovuto, per ogni iscritto, alla Cassa per le pensioni ai sanitari, e' pari al 24 per cento della retribuzione annua contributiva, oltre alla somma annua di lire 40.000. Tale contributo e', per il 9 per cento della retribuzione annua contributiva, a carico dello iscritto. Nessun contributo e' dovuto per i posti vacanti e per i posti coperti da titolari non iscritti ne' obbligatoriamente, ne' facoltativamente. ((2))
 
@@ -150,11 +148,11 @@ AGGIORNAMENTO (2)
 
 La L. 3 maggio 1967, n. 315 ha disposto (con l'art. 13, comma 1) che "Con effetto dal 1 luglio 1965, la quota fissa di contributo pari a lire 40.000 annue, a carico dell'ente, prevista dal comma primo dell'art. 11 della legge 4 febbraio 1958, n. 87, e' soppressa".
 
-#### Art. 12
+### Art. 12
 
 A partire dalla data da cui ha effetto la presente legge, nei casi di iscrizione facoltativa contemplati al comma quinto dell'art. 3, il contributo annuo dovuto alla Cassa e' interamente a carico del sanitario. Tale contributo rimane stabilito nella misura fissa di lire 84.000. Nel caso, pero', di attribuzione di una retribuzione annua contributiva superiore a lire 600.000 in applicazione del comma sesto dell'art. 3, dal sanitario e' dovuto il contributo complessivo di cui al comma primo dell'art. 11, determinato in base alla detta retribuzione.
 
-#### Art. 13
+### Art. 13
 
 Il contributo per i servizi che vengono ammessi a riscatto con deliberazioni adottate posteriormente alla data di pubblicazione della presente legge si determina in base alle norme contenute nei commi seguenti e nei successivi articoli 14 e 15.
 
@@ -168,13 +166,13 @@ Ciascuno dei predetti periodi si considera espresso in mesi, computando per un m
 
 Ad ognuno dei periodi da riscattare, che si considera come immediatamente precedente la data di inizio del successivo periodo di servizio utile, si attribuisce l'identica retribuzione annua contributiva, ragguagliata in ogni caso all'intero anno, gia' attribuita all'iscritto per l'anno solare in cui cade la data predetta. Nel caso in cui tale anno solare sia anteriore alla data da cui ha effetto la presente legge si considera come retribuzione annua contributiva la retribuzione annua differenziale di cui all'art. 6 aumentata di lire 600.000.
 
-#### Art. 14
+### Art. 14
 
 In base alla retribuzione annua contributiva, attribuita ad ogni periodo da riscattare ai sensi dell'art. 13 e diminuita di lire 350.000, si determina, con riferimento al periodo stesso, la relativa quota teorica di rendita vitalizia differenziale riferita alla fine del mese di presentazione della domanda, da calcolarsi con la applicazione delle norme annesse alla tabella D unita alla presente legge.
 
 Il contributo di riscatto e' pari al prodotto della quota di cui al comma precedente per il coefficiente fisso 12.50, con l'aggiunta di lire 2000 per quanti sono i mesi del periodo da riscattare, ferma rimanendo la riduzione ad un terzo nei casi previsti dal quarto comma dell'art. 34 della legge 11 aprile 1955, n. 379.
 
-#### Art. 15
+### Art. 15
 
 Per le domande di riscatto presentate dalla data da cui ha effetto la presente legge a quella della sua pubblicazione, e' data facolta' all'iscritto ed ai suoi aventi causa, di chiedere che ai servizi da riscattare vengano attribuite, con riferimento ai vari periodi del servizio stesso, le retribuzioni annue contributive risultanti dall'applicazione del quarto comma dell'art. 13, ovvero la retribuzione annua contributiva fissa di lire 600.000.
 
@@ -186,7 +184,7 @@ Quando la domanda di riscatto risulti regolarmente presentata in data anteriore 
 
 ## TITOLO III - Miglioramenti ai pensionati della Cassa per le pensioni ai sanitari
 
-#### Art. 16
+### Art. 16
 
 Le pensioni dirette, indirette e di riversibilita' della Cassa per le pensioni ai sanitari, relative a cessazioni dal servizio anteriori alla data da cui ha effetto la presente legge, si riliquidano, a decorrere da tale data, con l'applicazione delle norme contenute negli articoli 17, 18 e 19, prendendo a base il servizio utile computato per la liquidazione originaria.
 
@@ -194,7 +192,7 @@ I nuovi importi annui lordi sono comprensivi della 13ª mensilita'.
 
 Con la riliquidazione di cui al presente articolo, l'eventuale parte aggiuntiva di pensione prevista dall'art. 26 della legge 24 maggio 1952, n. 610, e l'eventuale maggiorazione per esodo volontario prevista dalla legge 19 ottobre 1956, n. 1225, rimangono invariate nel loro importo.
 
-#### Art. 17
+### Art. 17
 
 Il nuovo importo annuo lordo della pensione diretta da attribuirsi ai sensi dell'art. 16, e' pari alla somma:
 
@@ -204,7 +202,7 @@ Il nuovo importo annuo lordo della pensione diretta da attribuirsi ai sensi dell
 
 Per le campagne di guerra o gli altri analoghi benefici di cui alla legge 6 luglio 1939, n. 1035, e per gli anni di abbuono nei casi di esodo volontario previsti dalla legge 19 maggio 1950, n. 319, o di mancato giuramento di cui al decreto legislativo del Capo provvisorio dello Stato 5 agosto 1947, n. 837, il nuovo importo della relativa maggiorazione e' pari ad una frazione della rendita di cui al n. 1) avente per numeratore il numero delle campagne o degli anni di abbuono e per denominatore quello degli anni di servizio utile.
 
-#### Art. 18
+### Art. 18
 
 Il nuovo importo annuo lordo della pensione indiretta o di riversibilita', da attribuirsi ai sensi dell'articolo 16, e' determinato sul corrispondente trattamento di pensione diretta applicando, per la rendita di cui ai n. 1) dell'art. 17, le aliquote previste dai commi primo e secondo dell'art. 10, per le rendite di cui alle lettere a) e b) dell'art. 4 e, per la rendita di cui al n. 2) dell'art. 17, l'aliquota fissa di cinque sesti. A tal fine si considera come trattamento corrispondente:
 
@@ -214,17 +212,17 @@ la pensione di privilegio che sarebbe stata riliquidata al sanitario in base all
 
 Il nuovo importo annuo lordo della pensione indiretta o di riversibilita', nei predetti casi in cui il corrispondente trattamento e' rappresentato da pensione diretta di privilegio, in nessun caso puo' essere inferiore a lire 198.800 per la parte riferita alla rendita di cui al n. 1) dell'art. 17.
 
-#### Art. 19
+### Art. 19
 
 Nei casi di pensioni ad onere ripartito tra Cassa sanitari ed enti locali, i nuovi importi annui lordi determinati in applicazione degli articoli 16, 17 e 18, sono ripartiti per quote proporzionali a quelle che risultavano attribuite prima della data da cui ha effetto la presente legge.
 
-#### Art. 20
+### Art. 20
 
 Nei casi di cessazione dal servizio a partire dalla data da cui ha effetto la presente legge, per le iscrizioni alla Cassa avvenute anteriormente a tale data, l'importo annuo lordo della pensione risultante in applicazione degli articoli 8 e 10 in nessun caso puo' essere inferiore a quello corrispondente che risulterebbe, per lo stesso servizio utile, in base alle norme contenute negli articoli 17 e 18.
 
 ## TITOLO IV - Modifiche agli ordinamenti degli Istituti di previdenza
 
-#### Art. 21
+### Art. 21
 
 Nei casi in cui le vigenti disposizioni prescrivono, per il conferimento del diritto al trattamento di quiescenza indiretto o di riversibilita' degli Istituti di previdenza presso il Ministero del tesoro, un periodo minimo di stato coniugale anteriore alla cessazione dal servizio, detto periodo e' fissato in un anno compiuto ed e' richiesto solo quando il matrimonio sia stato contratto dopo il compimento del cinquantacinquesimo anno di eta' dell'iscritto. ((1))
 
@@ -234,17 +232,17 @@ AGGIORNAMENTO (1)
 
 La L. 22 novembre 1962, n. 1646 ha disposto (con l'art. 6, comma 1) che "Per le cessazioni dal servizio a partire dal 1 gennaio 1958 in poi, a modifica dell'articolo 21, della legge 4 febbraio 1958, n. 87, in nessun caso e' richiesto un periodo minimo di stato coniugale anteriore alla cessazioni dal servizio ai fini del trattamento di quiescenza indiretto o di reversibilita' delle Casse pensioni facenti parte degli istituti di previdenza".
 
-#### Art. 22
+### Art. 22
 
 Per le domande che verranno presentate alle Casse pensioni facenti parte degli Istituti di previdenza oltre il termine di sei mesi dalla data di pubblicazione della presente legge, in nessun caso saranno ammessi a riscatto i servizi o periodi per i quali le vigenti disposizioni prevedano l'obbligo o la facolta' della ricongiunzione ai fini di un unico trattamento di quiescenza.
 
-#### Art. 23
+### Art. 23
 
 Per ciascuna Cassa pensioni, facente parte degli Istituti di previdenza presso il Ministero del tesoro, la prescrizione prevista dall'ultimo comma, rispettivamente, dall'art. 61 del regio decreto-legge 3 marzo 1938, n. 680, dell'art. 55 della legge 6 luglio 1939, n. 1035, dell'art. 64 della legge 6 febbraio 1941, n. 176, e dell'art. 53 del regio decreto-legge 12 luglio 1934, n. 2312, si applica soltanto per le rate di pensione gia' ammesse a pagamento.
 
 La norma di cui al comma precedente ha valore di interpretazione autentica.
 
-#### Art. 24
+### Art. 24
 
 Gli importi annui lordi dei trattamenti di quiescenza degli Istituti di previdenza, qualora si tratti di pensioni decorrenti da data non anteriore ai primo giorno dell'anno successivo a quello di pubblicazione della presente legge, sono arrotondati, per eccesso, a centinaia, di lire. Per la Cassa per le pensioni ai sanitari, tale arrotondamento si effettua su tutti i nuovi importi delle pensioni risultanti in applicazione della, presente legge.
 
@@ -252,17 +250,17 @@ Per le pensioni dirette della Cassa per le pensioni ai sanitari, la ritenuta del
 
 Per le pensioni dirette della Cassa per le pensioni agli ufficiali giudiziari e agli aiutanti ufficiali giudiziari, la ritenuta del 2 per cento prevista dall'art. 43 del regio decreto 12 luglio 1934, n. 2312, modificata dall'art. 11 della legge 11 aprile 1955, n. 380, e' soppressa a partire dal primo giorno dell'anno successivo a quello di pubblicazione della presente legge.
 
-#### Art. 25
+### Art. 25
 
 Nel caso di trattamento di quiescenza ad onere ripartito fra Istituti di previdenza ed ente locale, l'eventuale maggiore quota differenziale facente carico all'ente nei casi previsti dall'ottavo comma dell'art. 52 del regio decreto-legge 3 marzo 1938, n. 680, dal sesto comma dell'art. 47 della legge 6 luglio 1939, n. 1035, e dall'art. 94 della legge 6 febbraio 1941, n. 176, e' determinata dagli Istituti di previdenza. Il relativo pagamento a favore dell'avente diritto e' effettuato direttamente dall'ente.
 
 Le disposizioni contenute nel precedente comma hanno valore di interpretazione autentica.
 
-#### Art. 26
+### Art. 26
 
 Fino al 31 dicembre 1959 sono autorizzate, per il personale addetto ai servizi degli Istituti di previdenza, prestazioni di lavoro straordinario, anche col sistema del cottimo, oltre i limiti di ore individuali e di spesa complessiva consentiti dagli articoli 10 e 11 del decreto del Presidente della Repubblica 17 agosto 1955, n. 767, e successive modificazioni, con le modalita' e secondo i criteri da stabilirsi dal Ministro per il tesoro.
 
-#### Art. 27
+### Art. 27
 
 La presente legge ha effetto dal 1° gennaio 1957. Le norme contenute negli articoli 1, 4, 5, 6, 7, 8, 10 e 21 si applicano per i casi di cessazione dal servizio a partire dalla data predetta.
 
@@ -280,7 +278,7 @@ Visto, il Guardasigilli: GONELLA
 
 ## TITOLO IV - Modifiche agli ordinamenti degli Istituti di previdenza
 
-#### Tabelle
+### Tabelle
 
 TABELLA A
 

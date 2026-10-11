@@ -18,53 +18,53 @@ retrieved: 2026-10-11
 
 **Nuove norme sui procedimenti d'accusa di cui alla legge 25 gennaio 1962, n. 20.**
 
-### Art. 1
+## Art. 1
 
 ((ARTICOLO ABROGATO DAL D.P.R. 9 DICEMBRE 1987, N. 496 A SEGUITO DI REFERENDUM POPOLARE))
 
-### Art. 2
+## Art. 2
 
 ((ARTICOLO ABROGATO DAL D.P.R. 9 DICEMBRE 1987, N. 496 A SEGUITO DI REFERENDUM POPOLARE))
 
-### Art. 3
+## Art. 3
 
 ((ARTICOLO ABROGATO DAL D.P.R. 9 DICEMBRE 1987, N. 496 A SEGUITO DI REFERENDUM POPOLARE))
 
-### Art. 4
+## Art. 4
 
 ((ARTICOLO ABROGATO DAL D.P.R. 9 DICEMBRE 1987, N. 496 A SEGUITO DI REFERENDUM POPOLARE))
 
-### Art. 5
+## Art. 5
 
 ((ARTICOLO ABROGATO DAL D.P.R. 9 DICEMBRE 1987, N. 496 A SEGUITO DI REFERENDUM POPOLARE))
 
-### Art. 6
+## Art. 6
 
 ((ARTICOLO ABROGATO DAL D.P.R. 9 DICEMBRE 1987, N. 496 A SEGUITO DI REFERENDUM POPOLARE))
 
-### Art. 7
+## Art. 7
 
 ((ARTICOLO ABROGATO DAL D.P.R. 9 DICEMBRE 1987, N. 496 A SEGUITO DI REFERENDUM POPOLARE))
 
-### Art. 8
+## Art. 8
 
 ((ARTICOLO ABROGATO DAL D.P.R. 9 DICEMBRE 1987, N. 496 A SEGUITO DI REFERENDUM POPOLARE))
 
-### Art. 9
+## Art. 9
 
 Gli articoli da 1 a 16 compreso della legge 25 gennaio 1962, n. 20, sono, abrogati. E' altresi' abrogata la legge 18 marzo 1976, n. 65, ed ogni altra norma incompatibile con la presente legge.
 
 ## NORME TRANSITORIE E FINALI
 
-### Art. 10
+## Art. 10
 
 Gli articoli 4 e 5 non si applicano ai procedimenti in corso innanzi alla Commissione per i quali siano stati gia' compiuti atti aventi rilevanza istruttoria.
 
-### Art. 11
+## Art. 11
 
 Il termine di cui al secondo comma dell'articolo 4 decorre dal novantesimo giorno successivo a quello dell'entrata in vigore della presente legge per i procedimenti pervenuti alla Commissione antecedentemente al 1 gennaio 1976. Per i procedimenti pervenuti dal 1 gennaio 1976 il termine predetto decorre dal 15 novembre 1978.
 
-### Art. 12
+## Art. 12
 
 La presente legge entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale.
 

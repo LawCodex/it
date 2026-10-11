@@ -25,15 +25,13 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+## Art. 1
 
 Sono approvati i rendiconti generali dello Stato, con i relativi allegati, per gli esercizi finanziari 1941-42, 1942-43, 1943-44, 1944-45, 1945-46, 1946-47, 1947-48, in conformita' degli articoli che seguono.
 
-## Rendiconto generale dell'Amministrazione dello Stato - Esercizio finanziario 1941-42
+## Rendiconto generale dell'Amministrazione dello Stato - Esercizio finanziario 1941-42 ENTRATE E SPESE DI COMPETENZA
 
-### ENTRATE E SPESE DI COMPETENZA
-
-#### Art. 2
+## Art. 2
 
 Le entrate ordinarie e straordinarie dello
 
@@ -52,7 +50,7 @@ sezioni riunite in data 25 febbraio 1943, in L. 91.020.775.037,01 delle quali fu
  ------------------
 ```
 
-#### Art. 3
+## Art. 3
 
 Le spese ordinarie e straordinarie dello
 
@@ -69,7 +67,7 @@ dalla deliberazione della Corte dei conti, in L. 122.741.191.769,58 delle quali 
  ------------------
 ```
 
-#### Art. 4
+## Art. 4
 
 Il riassunto generale dei risultati delle entrate e delle spese di competenza dell'esercizio finanziario 1941-42, quale risulta dalla deliberazione della Corte dei conti, rimane cosi' stabilito:
 
@@ -90,7 +88,7 @@ Entrata .................................. L. 41.223.816.235,60 Spesa ..........
 
 ## ENTRATE E SPESE RESIDUE DELL'ESERCIZIO 1940-41 ED ESERCIZI PRECEDENTI
 
-#### Art. 5
+## Art. 5
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -103,7 +101,7 @@ minate, in ................................... L. 6.053.856.122,52 delle quali f
  ------------------
 ```
 
-#### Art. 6
+## Art. 6
 
 Le spese rimaste da pagare alla chiusura
 
@@ -116,7 +114,7 @@ dell'esercizio 1940-41 restano determinate in L. 23.067.390.830,06 delle quali f
 
 ## RESIDUI ATTIVI E PASSIVI ALLA CHIUSURA DELL'ESERCIZIO FINANZIARIO - 1941-42
 
-#### Art. 7
+## Art. 7
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -141,7 +139,7 @@ degli esercizi precedenti (articolo 5) ....... " 2.376.174.759,28 somme riscosse
  ------------------
 ```
 
-#### Art. 8
+## Art. 8
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -166,7 +164,7 @@ esercizi precedenti (articolo 6) ............. " 10.363.180.001,52
 
 ## SITUAZIONE FINANZIARIA
 
-#### Art. 9
+## Art. 9
 
 E' accertato nella somma di lire 141.743.172.708,68 il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 1941-42, come risulta dai seguenti dati:
 
@@ -215,7 +213,7 @@ lita generale ............................... " 926.295,01
 
 ## AMMINISTRAZIONI ED AZIENDE SPECIALI - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-#### Art. 10
+## Art. 10
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -234,7 +232,7 @@ delle quali furono riscosse .................. " 1.977.089.250,37
  ------------------
 ```
 
-#### Art. 11
+## Art. 11
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -251,7 +249,7 @@ stabilite in ................................. L. 1.985.320.098,62 delle quali f
  ------------------
 ```
 
-#### Art. 12
+## Art. 12
 
 Le entrate del bilancio dell'Amministrazione
 
@@ -264,7 +262,7 @@ dell'esercizio 1940-41, restano determinate in L. 32.388.846,69 delle quali furo
  ------------------
 ```
 
-#### Art. 13
+## Art. 13
 
 Le spese del bilancio dell'Amministrazione
 
@@ -277,7 +275,7 @@ l'esercizio 1940-41 restano determinate in ... L. 399.159.825,72 delle quali fur
  ------------------
 ```
 
-#### Art. 14
+## Art. 14
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -300,7 +298,7 @@ del riepilogo dell'entrata) .................. " 14.810.567,08
  ------------------
 ```
 
-#### Art. 15
+## Art. 15
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -321,7 +319,7 @@ esercizi precedenti (articolo 13) ............ " 46.293.866,47
  ------------------
 ```
 
-#### Art. 16
+## Art. 16
 
 La situazione finanziaria dell'Amministra-
 
@@ -355,7 +353,7 @@ l'esercizio 1940-41 .......................... " -
 
 ## FONDO DI MASSA DEL CORPO DELLA GUARDIA DI FINANZA
 
-#### Art. 17
+## Art. 17
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -372,7 +370,7 @@ dell'esercizio medesimo, sono stabilite, in .. L. 83.894.410,05 delle quali furo
  ------------------
 ```
 
-#### Art. 18
+## Art. 18
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -389,7 +387,7 @@ sono stabilite in ............................ L. 90.470.196,45 delle quali furo
  ------------------
 ```
 
-#### Art. 19
+## Art. 19
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -402,7 +400,7 @@ stano determinate in ......................... L. 44.587.737,72 delle quali furo
  ------------------
 ```
 
-#### Art. 20
+## Art. 20
 
 Le spese rimaste da pagare alla chiusura
 
@@ -415,7 +413,7 @@ determinate in ............................... L. 59.195.926,87 delle quali furo
  ------------------
 ```
 
-#### Art. 21
+## Art. 21
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -438,7 +436,7 @@ del riepilogo dell'entrata) .................. " -
  ------------------
 ```
 
-#### Art. 22
+## Art. 22
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -459,7 +457,7 @@ esercizi precedenti, (articolo 20) ........... " 14.985.111,41
  ------------------
 ```
 
-#### Art. 23
+## Art. 23
 
 E' accertata nella somma di lire 43.321.887,51 la differenza passiva del conto finanziario del Fondo di massa del Corpo della guardia di finanza, alla fine dell'esercizio 1941-42, risultante dai seguenti dati:
 
@@ -492,7 +490,7 @@ l'esercizio 1940-41 .......................... " -
 
 ## AZIENDA MONOPOLIO BANANE
 
-#### Art. 24
+## Art. 24
 
 Le entrate ordinarie e straordinarie della
 
@@ -509,7 +507,7 @@ lite, in ..................................... L. 17.889.009,36 delle quali furo
  ------------------
 ```
 
-#### Art. 25
+## Art. 25
 
 Le spese ordinarie e straordinarie della
 
@@ -524,7 +522,7 @@ dell'esercizio stesso, sono stabilite in ..... L. 17.889.099,36 delle quali furo
  ------------------
 ```
 
-#### Art. 26
+## Art. 26
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -537,7 +535,7 @@ nate in ...................................... L. 12.272.886,32 delle quali furo
  ------------------
 ```
 
-#### Art. 27
+## Art. 27
 
 Le spese rimaste da pagare alla chiusura
 
@@ -548,7 +546,7 @@ dell'esercizio 1940-41 restano determinate in L. 27.677.902,13 delle quali furro
  ------------------
 ```
 
-#### Art. 28
+## Art. 28
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -571,7 +569,7 @@ del riepilogo dell'entrata) " -
  ------------------
 ```
 
-#### Art. 29
+## Art. 29
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -594,7 +592,7 @@ esercizi precedenti (articolo 27) ............ " 23.953.590,04
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-#### Art. 30
+## Art. 30
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -611,7 +609,7 @@ cizio medesimo sono stabilite in ............. L. 96.544.059,86 delle quali furo
  ------------------
 ```
 
-#### Art. 31
+## Art. 31
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -628,7 +626,7 @@ stabilite in ................................. L. 96.116.311,56 delle quali furo
  ------------------
 ```
 
-#### Art. 32
+## Art. 32
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -641,7 +639,7 @@ nate in ...................................... L. 11.378.376,93 delle quali furo
  ------------------
 ```
 
-#### Art. 33
+## Art. 33
 
 Le spese rimaste da pagare alla chiusura
 
@@ -652,7 +650,7 @@ dell'esercizio 1940-41 restano determinate in L. 10.070.049,98 delle quali furon
  ------------------
 ```
 
-#### Art. 34
+## Art. 34
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -675,7 +673,7 @@ del riepilogo dell'entrata) .................. " 2.145,69
  ------------------
 ```
 
-#### Art. 35
+## Art. 35
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -696,7 +694,7 @@ esercizi precedenti (articolo 3) ............. " 4.279.187,86
  ------------------
 ```
 
-#### Art. 36
+## Art. 36
 
 E' accertata nella somma di lire 6.931.900,32 la differenza attiva del conto finanziario dell'Amministrazione del Fondo per il culto alla fine dell'esercizio 1941-42, come risulta dai seguenti dati:
 
@@ -738,7 +736,7 @@ al 30 giugno 1942 .. " 11.378.376,93
 
 ## FONDO DI BENEFICENZAE DI RELIGIONE NELLA CITTA' DI ROMA
 
-#### Art. 37
+## Art. 37
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -755,7 +753,7 @@ dell'esercizio medesimo, sono stabilite in ... L. 2.844.625,45 delle quali furon
  ------------------
 ```
 
-#### Art. 38
+## Art. 38
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -772,7 +770,7 @@ sono stabilite in ............................ L. 2.906.011,99 delle quali furon
  ------------------
 ```
 
-#### Art. 39
+## Art. 39
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -785,7 +783,7 @@ minate in .................................... L. 16.351,99 delle quali furono r
  ------------------
 ```
 
-#### Art. 40
+## Art. 40
 
 Le spese rimaste da pagare alla chiusura
 
@@ -796,7 +794,7 @@ dell'esercizio 1940-41 restano determinate in L. 1.852.474,52 delle quali furono
  ------------------
 ```
 
-#### Art. 41
+## Art. 41
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -819,7 +817,7 @@ del riepilogo dell'entrata) .................. " 3.943,93
  ------------------
 ```
 
-#### Art. 42
+## Art. 42
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -840,7 +838,7 @@ esercizi precedenti (articolo 40) ............ " 795.503,34
  ------------------
 ```
 
-#### Art. 43
+## Art. 43
 
 E' accertata nella somma di lire 87.527,89 la differenza attiva del conto finanziario del Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1941-42, come risulta dai seguenti dati:
 
@@ -875,7 +873,7 @@ Differenza attiva al 30 giugno 1942 ...... " 87.527,89
 
 ## AZIENDA DEI PATRIMONI RIUNITI EX ECONOMALI
 
-#### Art. 44
+## Art. 44
 
 Le entrate ordinarie e straordinarie della
 
@@ -892,7 +890,7 @@ so, sono stabilite in ........................ L. 5.103.112,22 delle quali furon
  ------------------
 ```
 
-#### Art. 45
+## Art. 45
 
 Le spese ordinarie e straordinarie della
 
@@ -907,7 +905,7 @@ dell'esercizio stesso, sono stabilite in ..... L. 5.234.094,07 delle quali furon
  ------------------
 ```
 
-#### Art. 46
+## Art. 46
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -920,7 +918,7 @@ nate in ...................................... L. 1.333.408,06 delle quali furon
  ------------------
 ```
 
-#### Art. 47
+## Art. 47
 
 Le spese rimaste da pagare alla chiusura
 
@@ -931,7 +929,7 @@ dell'esercizio 1940-41, restano determinate in L. 2.542.304,02 delle quali furon
  ------------------
 ```
 
-#### Art. 48
+## Art. 48
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -954,7 +952,7 @@ degli esercizi precedenti (articolo 46) ...... " 1.059.032,02 somme riscosse e n
  ------------------
 ```
 
-#### Art. 49
+## Art. 49
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -975,7 +973,7 @@ esercizi precedenti (articolo 47) ............ " 1.261.443,98
  ------------------
 ```
 
-#### Art. 50
+## Art. 50
 
 E' accertata nella somma di lire 1.019.268,43 la differenza attiva del conto finanziario della Azienda dei patrimoni riuniti ex-ecoiomali, alla fine dell'esercizio 1941-42, come risulta dai seguenti dati:
 
@@ -1018,7 +1016,7 @@ Spese dell'esercizio 1941-42 ............. L. 5.234.094,07 Differenza attiva al 
 
 ## AZIENDA AUTONOMA STATALE DELLA STRADA
 
-#### Art. 51
+## Art. 51
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -1035,7 +1033,7 @@ cizio medesimo, sono stabilite in ............ L. 576.796.919,04 delle quali fur
  ------------------
 ```
 
-#### Art. 52
+## Art. 52
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -1052,7 +1050,7 @@ sono stabilite in ............................ L. 576.796.919,04 delle quali fur
  ------------------
 ```
 
-#### Art. 53
+## Art. 53
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -1065,7 +1063,7 @@ nate in ..................................... L. 368.905.515,85 delle quali furo
  ------------------
 ```
 
-#### Art. 54
+## Art. 54
 
 Le spese rimaste da pagare alla chiusura
 
@@ -1076,7 +1074,7 @@ dell'esercizio 1940-41 restano determinate in L. 371.042.309,41 delle quali furo
  ------------------
 ```
 
-#### Art. 55
+## Art. 55
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1099,7 +1097,7 @@ del conto consuntivo) ........................ " -
  ------------------
 ```
 
-#### Art. 56
+## Art. 56
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1122,7 +1120,7 @@ esercizi precedenti (articolo 54) ............ " 154.470.425,90
 
 ## AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-#### Art. 57
+## Art. 57
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -1139,7 +1137,7 @@ esercizio medesimo, sono stabilite in ........ L. 70.149.169,95 delle quali furo
  ------------------
 ```
 
-#### Art. 58
+## Art. 58
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -1156,7 +1154,7 @@ stabilite in ................................. L. 68.649.169,95 delle quali furo
  ------------------
 ```
 
-#### Art. 59
+## Art. 59
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -1169,7 +1167,7 @@ nate in ...................................... L. 25.222.663,49 delle quali furo
  ------------------
 ```
 
-#### Art. 60
+## Art. 60
 
 Le spese rimaste da pagare alla chiusura
 
@@ -1180,7 +1178,7 @@ dell'esercizio 1940-41 restano determinate in L. 35.645.406,79 delle quali furon
  ------------------
 ```
 
-#### Art. 61
+## Art. 61
 
 I residui attivi alla chiusura, dell'eserci-
 
@@ -1203,7 +1201,7 @@ del riepilogo dell'entrata) .................. " 9.406.889,82
  ------------------
 ```
 
-#### Art. 62
+## Art. 62
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1224,7 +1222,7 @@ esercizi precedenti (articolo 60) ............ " 16.536.278,54
  ------------------
 ```
 
-#### Art. 63
+## Art. 63
 
 E' accertata nella somma di lire 5.545.846,15 la differenza passiva del conto finanziario della Azienda di Stato per le foreste demaniali. alla fine dell'esercizio 1941-42 come risulta dai seguenti dati:
 
@@ -1266,7 +1264,7 @@ al 30 giugno 1942 .. " 25.222.663,49
 
 ## ARCHIVI NOTARILI
 
-#### Art. 64
+## Art. 64
 
 E' approvato il conto consuntivo degli Archivi notarili, per l'esercizio 1941-42, nelle risultanze seguenti:
 
@@ -1279,7 +1277,7 @@ Entrate .................................. L. 15.779.822,12 Spese ..............
 
 ## CORPO DEGLI AGENTI DI CUSTODIA DEGLI ISTITUTI DI PREVENZIONE E DI - PENA
 
-#### Art. 65
+## Art. 65
 
 E' approvato il conto consuntivo del Fondo generale del Corpo degli agenti di custodia degli Istituti di prevenzione e di pena per l'esercizio 1941-42 nelle seguenti risultanze:
 
@@ -1292,7 +1290,7 @@ Entrate .................................. L. 1.794.444,21 Spese ...............
 
 ## ISTITUTO AGRONOMICO PER L'AFRICA ITALIANA
 
-#### Art. 66
+## Art. 66
 
 Le entrate dell'Istituto agronomico per l'A-
 
@@ -1306,7 +1304,7 @@ dell'esercizio medesimo, sono stabilite in ... L. 2.736.343,83 delle quali furon
 
 ------------------
 
-#### Art. 67
+## Art. 67
 
 Le spese dell'Istituto predetto, accertate
 
@@ -1321,7 +1319,7 @@ sono stabilite in ............................ L. 2.736.343,83 delle quali furon
  ------------------
 ```
 
-#### Art. 68
+## Art. 68
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -1333,7 +1331,7 @@ minate in .................................... L. 43.721,50
 
 ziario 1941-42.
 
-#### Art. 69
+## Art. 69
 
 Le spese rimaste da pagare alla chiusura
 
@@ -1344,7 +1342,7 @@ dell'esercizio 1940-41 restano determinate in L. 822.253,39 delle quali furono p
  ------------------
 ```
 
-#### Art. 70
+## Art. 70
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1369,7 +1367,7 @@ del riepilogo dell'entrata) .................. " -
  ------------------
 ```
 
-#### Art. 71
+## Art. 71
 
 I residui passivi alla chiusura dell'eser-
 
@@ -1390,11 +1388,9 @@ esercizi precedenti (articolo 69) ............ " 396,95
  ------------------
 ```
 
-## Esercizio finanziario 1942-43 - Rendiconto generale dell'Amministrazione dello Stato
+## Esercizio finanziario 1942-43 - Rendiconto generale dell'Amministrazione dello Stato ENTRATE E SPESE DI COMPETENZA
 
-### ENTRATE E SPESE DI COMPETENZA
-
-#### Art. 72
+## Art. 72
 
 Le entrate ordinarie e straordinarie dello
 
@@ -1413,7 +1409,7 @@ sezioni riunite in data 12 giugno 1950, in ... L. 101.146.370.188,90 delle quali
  ------------------
 ```
 
-#### Art. 73
+## Art. 73
 
 Le spese ordinarie e straordinarie dello
 
@@ -1430,7 +1426,7 @@ dalla deliberazione della Corte dei conti, in L. 159.828.739.343,66 delle quali 
  ------------------
 ```
 
-#### Art. 74
+## Art. 74
 
 Il riassunto generale dei risultati delle entrate e delle spese di competenza dell'esercizio finanziario 1942-43, quale risulta dalla deliberazione della Corte dei conti, rimane cosi' stabilito:
 
@@ -1457,7 +1453,7 @@ Entrata .................................. L. 53.770.530.230,75 Spesa ..........
 
 ## ENTRATE E SPESE RESIDUE DELL'ESERCIZIO 1941-42 ED ESERCIZI PRECEDENTI
 
-#### Art. 75
+## Art. 75
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -1470,7 +1466,7 @@ nate in ...................................... L. 6.963.830.734,32 delle quali f
  ------------------
 ```
 
-#### Art. 76
+## Art. 76
 
 Le spese rimaste da pagare alla chiusura
 
@@ -1483,7 +1479,7 @@ dell'esercizio 1941-42 restano determinate in L. 27.764.649.141,88 delle quali f
 
 ## RESIDUI ATTIVI E PASSIVI ALLA CHIUSURA DELL'ESERCIZIO FINANZIARIO - 1942-43
 
-#### Art. 77
+## Art. 77
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1508,7 +1504,7 @@ degli esercizi precedenti (articolo 75) ...... " 2.882.765.572,88 somme riscosse
  ------------------
 ```
 
-#### Art. 78
+## Art. 78
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1533,7 +1529,7 @@ esercizi precedenti (articolo 76) ............ " 12.798.839.311,69
 
 ## SITUAZIONE FINANZIARIA
 
-#### Art. 79
+## Art. 79
 
 E' accertata nella somma di lire 196.599.975.532,51 il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 1942-43, come risulta dai seguenti dati:
 
@@ -1580,7 +1576,7 @@ lita generale ............................... " 653.901,49
 
 ## DISPOSIZIONI SPECIALI
 
-#### Art. 80
+## Art. 80
 
 E' data sanatoria in conformita' della deliberazione della Corte dei conti, delle eccedenze d'impegni relative ai capitoli degli stati di previsione della spesa dei Ministeri sottoindicati per l'esercizio finanziario 1942-43, come dal dettaglio che segue:
 
@@ -1620,11 +1616,9 @@ Ministero della Cultura popolare:
 
 Capitolo n. 13. - ....... L. 164,28 -
 
-## AMMINISTRAZIONI ED AZIENDE SPECIALI
+## AMMINISTRAZIONI ED AZIENDE SPECIALI - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-### AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
-
-#### Art. 81
+## Art. 81
 
 Le entrate ordinarie e straordinarie del
 
@@ -1645,7 +1639,7 @@ conti, in .................................... L. 2.674.457.748,77 delle quali f
  ------------------
 ```
 
-#### Art. 82
+## Art. 82
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -1666,7 +1660,7 @@ piu l'avanzo finanziario di gestione in lire
  ------------------
 ```
 
-#### Art. 83
+## Art. 83
 
 Le entrate del bilancio dell'Amministrazio-
 
@@ -1681,7 +1675,7 @@ nate in ...................................... L. 23.367.350,73 delle quali furo
  ------------------
 ```
 
-#### Art. 84
+## Art. 84
 
 Le spese del bilancio dell'Amministrazione
 
@@ -1694,7 +1688,7 @@ l'esercizio 1941-42 restano determinate in ... L. 687.986.088,52 dello quali fur
  ------------------
 ```
 
-#### Art. 85
+## Art. 85
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1719,7 +1713,7 @@ del riepilogo della entrata) ................. " 7.203.264,91
  ------------------
 ```
 
-#### Art. 86
+## Art. 86
 
 I residui passivi alla chiusura, dell'eser-
 
@@ -1742,7 +1736,7 @@ esercizi precedenti (articolo 84) ............ " 320.587.051,68
  ------------------
 ```
 
-#### Art. 87
+## Art. 87
 
 La situazione finanziaria dell'Amministra-
 
@@ -1774,7 +1768,7 @@ l'esercizio 1941-42 .......................... " -
 
 ## FONDO DI MASSA DEL CORPO DELLA GUARDIA DI FINANZA
 
-#### Art. 88
+## Art. 88
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -1795,7 +1789,7 @@ conti in ..................................... L. 70.416.492,89 delle quali furo
  ------------------
 ```
 
-#### Art. 89
+## Art. 89
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -1814,7 +1808,7 @@ medesimo sono stabilite in ................... L. 72.150.734,63 delle quali furo
  ------------------
 ```
 
-#### Art. 90
+## Art. 90
 
 Le entrate rimaste da riscuotere alla chiu'.
 
@@ -1827,7 +1821,7 @@ stano determinate in ......................... L. 47.167.082,78 delle quali furo
  ------------------
 ```
 
-#### Art. 91
+## Art. 91
 
 Le spese rimaste da pagare alla chiusura
 
@@ -1840,7 +1834,7 @@ determinate in ............................... L. 62.294.318,12 delle quali furo
  ------------------
 ```
 
-#### Art. 92
+## Art. 92
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -1865,7 +1859,7 @@ del riepilogo dell'entrata) " -
  ------------------
 ```
 
-#### Art. 93
+## Art. 93
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -1888,7 +1882,7 @@ esercizi precedenti (articolo 91) ............ " 18.930.356,05
  ------------------
 ```
 
-#### Art. 94
+## Art. 94
 
 E' accertata nella somma di lire 45.045.604.97 la differenza passiva del conto finanziario del Fondo di massa del Corpo della guardia di finanza, alla fine dell'esercizio 1942-43 risultante dai seguenti dati:
 
@@ -1925,7 +1919,7 @@ Prelevamenti diretti dal conto corrente .. " 3.210,55
 
 ## AZIENDA MONOPOLIO BANANE
 
-#### Art. 95
+## Art. 95
 
 Le entrate ordinarie e straordinarie della
 
@@ -1944,7 +1938,7 @@ Corte dei conti, in .......................... L. 24.975.698,92 delle quali furo
  ------------------
 ```
 
-#### Art. 96
+## Art. 96
 
 Le spese ordinarie e straordinarie della
 
@@ -1963,7 +1957,7 @@ lite in ...................................... L. 24.975.698,92 delle quali furo
  ------------------
 ```
 
-#### Art. 97
+## Art. 97
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -1976,7 +1970,7 @@ nate in ...................................... L. 12.870.030,25 delle quali furo
  ------------------
 ```
 
-#### Art. 98
+## Art. 98
 
 Le spese rimaste da pagare alla chiusura
 
@@ -1987,7 +1981,7 @@ dell'esercizio 1941-42 restano determinate in L. 39.737.413,65 delle quali furon
  ------------------
 ```
 
-#### Art. 99
+## Art. 99
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -2012,7 +2006,7 @@ del riepilogo dell'entrata) .................. " -
  ------------------
 ```
 
-#### Art. 100
+## Art. 100
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -2037,7 +2031,7 @@ esercizi precedenti (articolo 98) ............ " 21.707.023.02
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-#### Art. 101
+## Art. 101
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -2056,7 +2050,7 @@ no dalla deliberazione dela Corte dei conti in L. 98.685.564,57 delle quali furo
  ------------------
 ```
 
-#### Art. 102
+## Art. 102
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -2075,7 +2069,7 @@ conti, sono stabilite in ..................... L. 98.279.245,31 delle quali furo
  ------------------
 ```
 
-#### Art. 103
+## Art. 103
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -2088,7 +2082,7 @@ nate in ...................................... L. 11.054.287,85 delle quali furo
  ------------------
 ```
 
-#### Art. 104
+## Art. 104
 
 Le spese rimaste da pagare alla chiusura
 
@@ -2099,7 +2093,7 @@ dell'esercizio 1941-42 restano determinate in L. 16.179.082,37 delle quali furon
  ------------------
 ```
 
-#### Art. 105
+## Art. 105
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -2124,7 +2118,7 @@ del riepilogo dell'entrata) .................. " 84.781,43
  ------------------
 ```
 
-#### Art. 106
+## Art. 106
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -2147,7 +2141,7 @@ esercizi precedenti (articolo 104) ........... " 8.394.711,96
  ------------------
 ```
 
-#### Art. 107
+## Art. 107
 
 E' accertata nella somma di lire 8.154.060,99 la differenza attiva del conto finanziario della Amministrazione del Fondo per il culto alla fine dell'esercizio 1942-43, come risulta dai seguenti dati:
 
@@ -2190,7 +2184,7 @@ Spese dell'esercizio finanziario 1942-43.. L. 98.279.245,31 Differenza attiva al
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-#### Art. 108
+## Art. 108
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -2211,7 +2205,7 @@ conti, in .................................... L. 2.851.736,17 delle quali furon
  ------------------
 ```
 
-#### Art. 109
+## Art. 109
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -2230,7 +2224,7 @@ conti, sono stabilite in ..................... L. 3.007.630.65 delle quali furon
  ------------------
 ```
 
-#### Art. 110
+## Art. 110
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -2243,7 +2237,7 @@ nate in ...................................... L. 40.870,78 delle quali furono r
  ------------------
 ```
 
-#### Art. 111
+## Art. 111
 
 Le spese rimaste da pagare alla chiusura
 
@@ -2254,7 +2248,7 @@ dell'esercizio 1941-42 restano determinate in L. 1.754.132,41 delle quali furono
  ------------------
 ```
 
-#### Art. 112
+## Art. 112
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -2279,7 +2273,7 @@ del riepilogo dell'entrata) .................. " 7.248,39
  ------------------
 ```
 
-#### Art. 113
+## Art. 113
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -2302,7 +2296,7 @@ esercizi precedenti (articolo 111) ........... " 723.964,78
  ------------------
 ```
 
-#### Art. 114
+## Art. 114
 
 E' accertata nella somma di lire 84.384,64 la differenza attiva del conto finanziario del Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1942-43, come risulta dai seguenti dati:
 
@@ -2342,7 +2336,7 @@ al 30 giugno 1943 .. " 40.870,78
 
 ## AZIENDA DEI PATRIMONI RIUNITI EX-ECONOMALI
 
-#### Art. 115
+## Art. 115
 
 Le entrate ordinarie e straordinarie della
 
@@ -2361,7 +2355,7 @@ liberazione della Corte dei conti, in ........ L. 5.285.154,02 delle quali furon
  ------------------
 ```
 
-#### Art. 116
+## Art. 116
 
 Le spese ordinarie e straordinarie della
 
@@ -2380,7 +2374,7 @@ conti, in .................................... L. 5.193.898.01 delle quali furon
  ------------------
 ```
 
-#### Art. 117
+## Art. 117
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -2393,7 +2387,7 @@ te, come dal conto consuntivo dell'Azienda, in L. 1.316.176,63 delle quali furon
  ------------------
 ```
 
-#### Art. 118
+## Art. 118
 
 Le spese rimaste da pagare alla chiusura
 
@@ -2406,7 +2400,7 @@ come dal conto consuntivo dell'Azienda, in ... L. 2.344.241,39 delle quali furon
  ------------------
 ```
 
-#### Art. 119
+## Art. 119
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -2431,7 +2425,7 @@ degli esercizi precedenti (articolo 317) ..... " 1.102.123,86 somme riscosse e n
  ------------------
 ```
 
-#### Art. 120
+## Art. 120
 
 I residui passivi alla chiusura, dell'eser-
 
@@ -2454,7 +2448,7 @@ esercizi precedenti (articolo 118) ........... " 1.285.836,25
  ------------------
 ```
 
-#### Art. 121
+## Art. 121
 
 E' accertata nella somma di lire 1.367.288,47 la differenza attiva del conto finanziario della Azienda dei patrimoni riuniti ex economali, alla fine dell'esercizio 1942-43, come risulta dai seguenti dati:
 
@@ -2491,7 +2485,7 @@ al 30 giugno 1943 .. " 1.316.176,63
 
 ## AZIENDA AUTONOMA STATALE DELLA STRADA
 
-#### Art. 122
+## Art. 122
 
 Le entrate ordinarie e straordinarie del
 
@@ -2512,7 +2506,7 @@ bilite in .................................... L. 696.224.394,66 delle quali fur
  ------------------
 ```
 
-#### Art. 123
+## Art. 123
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -2531,7 +2525,7 @@ dei conti, sono stabilite in ................. L. 696.224.394,66 delle quali fur
  ------------------
 ```
 
-#### Art. 124
+## Art. 124
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -2544,7 +2538,7 @@ nate in ...................................... L. 289.234.274,71 delle quali fur
  ------------------
 ```
 
-#### Art. 125
+## Art. 125
 
 Le spese rimaste da pagare alla chiusura
 
@@ -2555,7 +2549,7 @@ dell'esercizio 1941-42 restano determinate in L. 328.722.870,74 delle quali furo
  ------------------
 ```
 
-#### Art. 126
+## Art. 126
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -2580,7 +2574,7 @@ del conto consuntivo) ........................ " -
  ------------------
 ```
 
-#### Art. 127
+## Art. 127
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -2604,7 +2598,7 @@ esercizi precedenti (articolo 125) ........... " 122.411.797,27
 
 ## AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-#### Art. 128
+## Art. 128
 
 Le entrate ordinarie e straordinarie del bi
 
@@ -2621,7 +2615,7 @@ esercizio medesimo, sono stabilite, in ....... L. 86.214.216,15 delle quali furo
  ------------------
 ```
 
-#### Art. 129
+## Art. 129
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -2638,7 +2632,7 @@ stabilite, in ................................ L. 83.714.282,35 delle quali furo
  ------------------
 ```
 
-#### Art. 130
+## Art. 130
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -2651,7 +2645,7 @@ nate in ...................................... L. 29.458.619,21 delle quali furo
  ------------------
 ```
 
-#### Art. 131
+## Art. 131
 
 Le spese rimaste da pagare alla chiusura
 
@@ -2662,7 +2656,7 @@ dell'esercizio 1941-42 restano determinate in L. 37.421.885,31 delle quali furon
  ------------------
 ```
 
-#### Art. 132
+## Art. 132
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -2685,7 +2679,7 @@ del riepilogo dell'entrata) .................. " 8.328.445,39
  ------------------
 ```
 
-#### Art. 133
+## Art. 133
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -2708,7 +2702,7 @@ esercizi precedenti (articolo 131) ........... " 8.809.440,51
  ------------------
 ```
 
-#### Art. 134
+## Art. 134
 
 E' accertata nella somma di lire 3.045.911,10 la differenza passiva del conto finanziario dell'Azienda di Stato per le foreste demaniali, alla fine dell'esercizio 1942-43, come risulta dai seguenti dati:
 
@@ -2743,7 +2737,7 @@ esercizio 1941-42 ............................ " -
 
 ## ARCHIVI NOTARILI
 
-#### Art. 135
+## Art. 135
 
 E approvato il conto consuntivo degli Archi-
 
@@ -2762,7 +2756,7 @@ Entrate .................................. L. 14.092.130,86 Spese ..............
 
 ## CORPO DEGLI AGENTI DI CUSTODIA DEGLI ISTITUTI DI PREVENZIONE E DI - PENA
 
-#### Art. 136
+## Art. 136
 
 E' approvato il conto consuntivo del Fondo generale del corpo degli agenti di custodia degli Istituti di prevenzione e di pena per l'esercizio 1942-43 nelle seguenti risultanze che si desumono dalla deliberazione della Corte dei conti:
 
@@ -2778,7 +2772,7 @@ Spese .................................... " 913.698, 10
 
 ## ISTITUTO AGRONOMICO PER L'AFRICA ITALIANA
 
-#### Art. 137
+## Art. 137
 
 Le entrate dell'Istituto agronomico per la
 
@@ -2797,7 +2791,7 @@ conti, in .................................... L. 3.630.246,74 delle quali furon
  ------------------
 ```
 
-#### Art. 138
+## Art. 138
 
 Le spese dell'Istituto predetto, accertate
 
@@ -2812,7 +2806,7 @@ stabilite in ................................. L. 1.630.246,74 delle quali furon
  ------------------
 ```
 
-#### Art. 139
+## Art. 139
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -2824,7 +2818,7 @@ nate in ...................................... L. 35.000 -
 
 ziario 1942-43.
 
-#### Art. 140
+## Art. 140
 
 Le spese rimaste da pagare alla chiusura
 
@@ -2835,7 +2829,7 @@ dell'esercizio 1941-42 restano determinate in L. 817.095,98 delle quali furono p
  ------------------
 ```
 
-#### Art. 141
+## Art. 141
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -2862,7 +2856,7 @@ del riepilogo dell'entrata) " -
  ------------------
 ```
 
-#### Art. 142
+## Art. 142
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -2885,11 +2879,9 @@ esercizi precedenti (articolo 140) ........... " 84.342,62
  ------------------
 ```
 
-## Rendiconto generale dell'Amministrazione dello Stato - Esercizio finanziario 1943-44
+## Rendiconto generale dell'Amministrazione dello Stato - Esercizio finanziario 1943-44 ENTRATE SPESE DI COMPETENZA
 
-### ENTRATE SPESE DI COMPETENZA
-
-#### Art. 143
+## Art. 143
 
 Le entrate ordinarie e straordinarie dello
 
@@ -2908,7 +2900,7 @@ sezioni riunite in data 9 giugno 1951, in .... L. 60.436.426.735,04 delle quali 
  ------------------
 ```
 
-#### Art. 144
+## Art. 144
 
 Le spese ordinarie, straordinarie e per ge-
 
@@ -2927,7 +2919,7 @@ della Corte dei conti, in .................... L. 246.809.629.616,66 delle quali
  ------------------
 ```
 
-#### Art. 145
+## Art. 145
 
 Il riassunto generale dei risultati delle entrate e delle spese di competenza dell'esercizio finanziario 1943-44 quale risulta dalla deliberazione della Corte dei conti, rimane cosi' stabilito:
 
@@ -2960,7 +2952,7 @@ Spesa .................................... " 13.762.919.483,52
 
 ## ENTRATE E SPESE RESIDUE DELL'ESERCIZIO 1942-43 ED ESERCIZI PRECEDENTI
 
-#### Art. 146
+## Art. 146
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -2973,7 +2965,7 @@ nate, in ..................................... L. 9.618.223.346,90 delle quali f
  ------------------
 ```
 
-#### Art. 147
+## Art. 147
 
 Le spese rimaste da pagare alla chiusura
 
@@ -2986,7 +2978,7 @@ dell'esercizio 1942-43 restano determinate in L. 27.493.921.020,79 delle quali f
 
 ## RESIDUI ATTIVI E PASSIVI ALLA CHIUSURA DELL'ESERCIZIO FINANZIARIO - 1943-44
 
-#### Art. 148
+## Art. 148
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -3011,7 +3003,7 @@ degli esercizi precedenti (articolo 146) ..... " 5.454.324.338,11 somme riscosse
  ------------------
 ```
 
-#### Art. 149
+## Art. 149
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -3036,7 +3028,7 @@ esercizi precedenti (articolo 147) ........... " 20.009.338.263,51
 
 ## SITUAZIONE FINANZIARIA
 
-#### Art. 150
+## Art. 150
 
 E' accertato nella somma di lire 378.709.168.963,43 il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 1943-44 come risulta dai seguenti dati:
 
@@ -3085,7 +3077,7 @@ lita generale ............................... " -
 
 ## DISPOSIZIONI SPECIALI
 
-#### Art. 151
+## Art. 151
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, delle eccedenze d'impegni relative ai capitoli degli stati di previsione della spesa dei Ministeri sottoindicati per l'esercizio finanziario 1943-44, come dal dettaglio che segue:
 
@@ -3169,7 +3161,7 @@ Capitolo n. 64. - ....... " - 45.682 - Capitolo n. 66. -........ " 843.531,30 -
 
 ## AMMINISTRAZIONI ED AZIENDE SPECIALI - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-#### Art. 152
+## Art. 152
 
 Le entrate ordinarie e straordinarie del
 
@@ -3190,7 +3182,7 @@ conti, in .................................... L. 2.295.052.100,13 delle quali f
  ------------------
 ```
 
-#### Art. 153
+## Art. 153
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -3211,7 +3203,7 @@ plessivamente a .............................. L. 2.295.052.106,13 delle quali f
  ------------------
 ```
 
-#### Art. 154
+## Art. 154
 
 Le entrate del bilancio dell'Amministrazione
 
@@ -3224,7 +3216,7 @@ dell'esercizio 1942-43, restano determinate in L. 19.992.125,81 delle quali furo
  ------------------
 ```
 
-#### Art. 155
+## Art. 155
 
 Le spese del bilancio dell'Amministrazione
 
@@ -3237,7 +3229,7 @@ l'esercizio 1942-43, restano determinate in .. L. 1.144.407.785,22 delle quali f
  ------------------
 ```
 
-#### Art. 156
+## Art. 156
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -3260,7 +3252,7 @@ del riepilogo dell'entrata) .................. " 203.604.816,67
  ------------------
 ```
 
-#### Art. 157
+## Art. 157
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -3281,7 +3273,7 @@ esercizi precedenti (articolo 155) ........... " 348.252.423,43
  ------------------
 ```
 
-#### Art. 158
+## Art. 158
 
 La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dell'esercizio 1943-44, risulta come appresso:
 
@@ -3302,7 +3294,7 @@ l'esercizio 1942-43 .......................... " -
  ------------------
 ```
 
-#### Art. 159
+## Art. 159
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti delle eccedenze d'impegni relative ai capitoli dello stato di previsione della spesa dell'Amministrazione dei monopoli di Stato, per l'esercizio finanziario 1943-44, come dal dettaglio che segue:
 
@@ -3360,7 +3352,7 @@ Capitolo n. 60. - ........ " 2.000.000 - -
 
 ## FONDO DI MASSA DEL CORPO DELLA GUARDIA DI FINANZA
 
-#### Art. 160
+## Art. 160
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -3381,7 +3373,7 @@ conti, in .................................... L. 22.003.527,33 delle quali furo
  ------------------
 ```
 
-#### Art. 161
+## Art. 161
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -3400,7 +3392,7 @@ Corte dei conti, sono stabilite in ........... L. 33.748.469,61 delle quali furo
  ------------------
 ```
 
-#### Art. 162
+## Art. 162
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -3413,7 +3405,7 @@ stano determinate in ......................... L. 35.056.807,35 delle quali furo
  ------------------
 ```
 
-#### Art. 163
+## Art. 163
 
 Le spese rimaste da pagare alla chiusura
 
@@ -3426,7 +3418,7 @@ determinate in................................ L. 52.866.505,68 delle quali furo
  ------------------
 ```
 
-#### Art. 164
+## Art. 164
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -3451,7 +3443,7 @@ del riepilogo della entrata) ................. " -
  ------------------
 ```
 
-#### Art. 165
+## Art. 165
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -3474,7 +3466,7 @@ esercizi precedenti (articolo 163) ........... " 48.926.583,10
  ------------------
 ```
 
-#### Art. 166
+## Art. 166
 
 E' accertata nella somma di lire 56.766.667,87 la differenza passiva del conto finanziario del Fondo massa del Corpo della guardia di finanza, alla fine dell'esercizio 1943-44, risultante dai seguenti dati:
 
@@ -3507,7 +3499,7 @@ Prelevamenti diretti dal conto corrente .. " 3.235,70
  ------------------
 ```
 
-#### Art. 167
+## Art. 167
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti delle eccedenze di impegni relative ai capitoli degli stati di previsione della spesa del fondo di massa del Corpo della guardia di finanza per l'esercizio 1943-44, come dal dettaglio che segue:
 
@@ -3517,7 +3509,7 @@ Capitolo n. 30. - .... " 60.853,19 -
 
 ## AZIENDA MONOPOLIO BANANE
 
-#### Art. 168
+## Art. 168
 
 Le entrate ordinarie e straordinarie della
 
@@ -3536,7 +3528,7 @@ Corte dei conti, in .......................... L. 16.768.746,36 delle quali furo
  ------------------
 ```
 
-#### Art. 169
+## Art. 169
 
 Le spese ordinarie e straordinarie della
 
@@ -3555,7 +3547,7 @@ bilite in .................................... L. 16.768.746,36 delle quali furo
  ------------------
 ```
 
-#### Art. 170
+## Art. 170
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -3568,7 +3560,7 @@ nate in....................................... L. 24.328.100,62 delle quali furo
  ------------------
 ```
 
-#### Art. 171
+## Art. 171
 
 Le spese rimaste da pagare alla chiusura
 
@@ -3579,7 +3571,7 @@ dell'esercizio 1942-43 restano determinate in L. 37.049.216,77 delle quali furon
  ------------------
 ```
 
-#### Art. 172
+## Art. 172
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -3604,7 +3596,7 @@ del riepilogo della entrata) ................. " -
  ------------------
 ```
 
-#### Art. 173
+## Art. 173
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -3627,7 +3619,7 @@ esercizi precedenti (articolo 171) ........... " 19.591.943,32
  ------------------
 ```
 
-#### Art. 174
+## Art. 174
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, delle eccedenze d'impegni agli articoli dello stato di previsione della spesa dell'Azienda monopolio banane, per l'esercizio finanziario 1943-44:
 
@@ -3641,7 +3633,7 @@ Articolo n. 36. - .... " - 6.378,60
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-#### Art. 175
+## Art. 175
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -3662,7 +3654,7 @@ conti, in .................................... L. 98.181.622,44 delle quali furo
  ------------------
 ```
 
-#### Art. 176
+## Art. 176
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -3681,7 +3673,7 @@ sono stabilite in ............................ L. 97.812.404,37 delle quali furo
  ------------------
 ```
 
-#### Art. 177
+## Art. 177
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -3694,7 +3686,7 @@ nate in ...................................... L. 12.521.812,18 delle quali furo
  ------------------
 ```
 
-#### Art. 178
+## Art. 178
 
 Le spese rimaste da pagare alla, chiusura
 
@@ -3705,7 +3697,7 @@ dell'esercizio 1942-43 restano determinate in L. 17.513.246,32 delle quali furon
  ------------------
 ```
 
-#### Art. 179
+## Art. 179
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -3730,7 +3722,7 @@ del riepilogo dell'entrata) .................. " 83.695,77
  ------------------
 ```
 
-#### Art. 180
+## Art. 180
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -3753,7 +3745,7 @@ esercizi precedenti (articolo 178) ........... " 14.850.274,89
  ------------------
 ```
 
-#### Art. 181
+## Art. 181
 
 E' accertata nella somma di lire 8.050.795,14 la differenza attiva del conto finanziario dell'Amministrazione del Fondo per il culto alla fine dell'esercizio 1943-44, come risulta dai seguenti dati:
 
@@ -3791,7 +3783,7 @@ al 30 giugno 1944 .. " 12.521.812,18
  ------------------
 ```
 
-#### Art. 182
+## Art. 182
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, delle eccedenze d'impegni relative ai capitoli dello stato di previsione della spesa dell'Amministrazione del Fondo per il Culto, per l'esercizio finanziario 1943-44, come dal dettaglio che segue:
 
@@ -3801,7 +3793,7 @@ Capitolo n. 38-bis. - . " 4.000 - -
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-#### Art. 183
+## Art. 183
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -3822,7 +3814,7 @@ conti, in .................................... L. 2.874.203,01 delle quali furon
  ------------------
 ```
 
-#### Art. 184
+## Art. 184
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -3841,7 +3833,7 @@ Corte dei conti sono stabilite in ............ L. 2.877.163,43 delle quali furon
  ------------------
 ```
 
-#### Art. 185
+## Art. 185
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -3854,7 +3846,7 @@ nate in ...................................... L. 66.093,80 delle quali furono r
  ------------------
 ```
 
-#### Art. 186
+## Art. 186
 
 Le spese rimaste da pagare alla chiusura
 
@@ -3865,7 +3857,7 @@ dell'esercizio 1942-43 restano determinate in L. 1.879.620.89 delle quali furono
  ------------------
 ```
 
-#### Art. 187
+## Art. 187
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -3890,7 +3882,7 @@ del riepilogo dell'entrata) .................. " 7.863,71
  ------------------
 ```
 
-#### Art. 188
+## Art. 188
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -3913,7 +3905,7 @@ esercizi precedenti (articolo 186) ........... " 1.639.884,84
  ------------------
 ```
 
-#### Art. 189
+## Art. 189
 
 E' accertata nella somma di lire 105.163,66 la differenza attiva del conto finanziario del Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1943-44, come risulta dai seguenti dati:
 
@@ -3953,7 +3945,7 @@ al 30 giugno 1944 .. " 66.193,80
 
 ## AZIENDA DEI PATRIMONI RIUNITI EX-ECONOMALI
 
-#### Art. 190
+## Art. 190
 
 Le entrate ordinarie e straordinarie della
 
@@ -3972,7 +3964,7 @@ liberazione della Corte dei conti, in ........ L. 4.982.590,89 delle quali furon
  ------------------
 ```
 
-#### Art. 191
+## Art. 191
 
 Le spese ordinarie e straordinarie della
 
@@ -3991,7 +3983,7 @@ conti, in .................................... L. 4.942.023,28 delle quali furon
  ------------------
 ```
 
-#### Art. 192
+## Art. 192
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -4004,7 +3996,7 @@ nate, in ..................................... L. 1.447.261,83 delle quali furon
  ------------------
 ```
 
-#### Art. 193
+## Art. 193
 
 Le spese rimaste da pagare alla chiusura-
 
@@ -4015,7 +4007,7 @@ dell'esercizio 1942-43 restano determinate, in L. 3.274.598,61 delle quali furon
  -----------------
 ```
 
-#### Art. 194
+## Art. 194
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -4040,7 +4032,7 @@ degli esercizi precedenti (articolo 192) ..... " 1.184.278,62 somme riscosse e n
  ------------------
 ```
 
-#### Art. 195
+## Art. 195
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -4063,7 +4055,7 @@ esercizi precedenti (articolo 193) ........... " 3.053.528,90
  ------------------
 ```
 
-#### Art. 196
+## Art. 196
 
 E' accertata nella somma di lire 1.451.133,12 la differenza attiva del conto finanziario della Azienda dei patrimoni riuniti ex-economali, alla fine dell'esercizio 1943-44, come risulta dai seguenti dati:
 
@@ -4100,7 +4092,7 @@ al 30 giugno 1944 .. " 1.447.261,83
 
 ## AZIENDA AUTONOMA STATALE DELLA STRADA
 
-#### Art. 197
+## Art. 197
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -4121,7 +4113,7 @@ lite, in ..................................... L. 1.098.240.980,05 delle quali f
  ------------------
 ```
 
-#### Art. 198
+## Art. 198
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -4140,7 +4132,7 @@ medesimo, sono stabilite in .................. L. 1.098.240.980,06 delle quali f
  ------------------
 ```
 
-#### Art. 199
+## Art. 199
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -4153,7 +4145,7 @@ nate in ...................................... L. 253.408.039,42 delle quali fur
  ------------------
 ```
 
-#### Art. 200
+## Art. 200
 
 Le spese rimaste da pagare alla chiusura
 
@@ -4164,7 +4156,7 @@ dell'esercizio 1942-43 restano determinate in L. 305.306.643,08 delle quali furo
  ------------------
 ```
 
-#### Art. 201
+## Art. 201
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -4189,7 +4181,7 @@ del riepilogo dell'entrata) .................. " -
  ------------------
 ```
 
-#### Art. 202
+## Art. 202
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -4212,7 +4204,7 @@ esercizi precedenti (articolo 200) ........... " 174.800.335,17
  ------------------
 ```
 
-#### Art. 203
+## Art. 203
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, delle eccedenze d'impegni relative ai capitoli dello stato di previsione della spesa dell'Azienda autonoma statale della strada, per L'esercizio finanziario 1943-44, come dal dettaglio che segue:
 
@@ -4224,7 +4216,7 @@ Capitolo n. 9. - .. " 15.660.145,38 -
 
 ## AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-#### Art. 204
+## Art. 204
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -4245,7 +4237,7 @@ conti ........................................ L. 53.630.561,48 delle quali furo
  ------------------
 ```
 
-#### Art. 205
+## Art. 205
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -4262,7 +4254,7 @@ stabilite in ................................. L. 53.630.561,48 delle quali furo
  ------------------
 ```
 
-#### Art. 206
+## Art. 206
 
 Le entrate rimaste la riscuotere alla chiu-
 
@@ -4275,7 +4267,7 @@ nate in ...................................... L. 24.426.888,77 delle quali furo
  ------------------
 ```
 
-#### Art. 207
+## Art. 207
 
 Le spese rimaste da pagare alla chiusura
 
@@ -4286,7 +4278,7 @@ dell'esercizio 1942-43, restano determinate in L. 30.887.490,43 delle quali furo
  ------------------
 ```
 
-#### Art. 208
+## Art. 208
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -4311,7 +4303,7 @@ del riepilogo dell'entrata) .................. " -
  ------------------
 ```
 
-#### Art. 209
+## Art. 209
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -4334,7 +4326,7 @@ esercizi precedenti (articolo 207) ........... " 18.582.752,35
  ------------------
 ```
 
-#### Art. 210
+## Art. 210
 
 E' accertata nella somma di lire 3.045.911,10 la differenza passiva del conto finanziario dell'Azienda di Stato per le foreste demaniali, alla fine dell'esercizio 1943-44, come risulta dai seguenti dati:
 
@@ -4360,7 +4352,7 @@ l'esercizio 1942-43 .......................... " -
  ------------------
 ```
 
-#### Art. 211
+## Art. 211
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, delle eccedenze d'impegni relative allo stato di previsione della spesa dell'Azienda di Stato per le foreste demaniali, per l'esercizio finanziario 1943-44, come dal dettaglio che segue:
 
@@ -4372,7 +4364,7 @@ Articolo n. 42. - .... " 41.000 - -
 
 ## ARCHIVI NOTARILI
 
-#### Art. 212
+## Art. 212
 
 E' approvato il conto consuntivo degli Archivi notarili, per l'esercizio 1943-44, nelle risultanze seguenti come dalla deliberazione della Corte dei conti:
 
@@ -4385,7 +4377,7 @@ Entrate .................................. L. 16.139.505,83 Spese ..............
 
 ## CORPO DEGLI AGENTI DI CUSTODIA - DEGLI ISTITUTI DI PREVENZIONE E DI PENA
 
-#### Art. 213
+## Art. 213
 
 E' approvato il conto consuntivo del Fondo generale del Corpo degli agenti di custodia gli Istituti di prevenzione e di pena per l'esercizio 1943-44 nelle seguenti risultanze dalla deliberazione della Corte dei conti:
 
@@ -4398,7 +4390,7 @@ Entrate .................................. L. 997.204,60 Spese .................
 
 ## ISTITUTO AGRONOMICO PER L'AFRICA ITALIANA
 
-#### Art. 214
+## Art. 214
 
 Le entrate dell'Istituto agronomico per la
 
@@ -4417,7 +4409,7 @@ conti, in .................................... L. 1.421.131,51 delle quali furon
  ------------------
 ```
 
-#### Art. 215
+## Art. 215
 
 Le spese dell'Istituto predetto, accertate
 
@@ -4438,7 +4430,7 @@ berazione della Corte dei conti, in lire
  ------------------
 ```
 
-#### Art. 216
+## Art. 216
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -4450,7 +4442,7 @@ nate in ...................................... L. 20.106 -
 
 ziario 1943-44.
 
-#### Art. 217
+## Art. 217
 
 Le spese rimaste da pagare alla chiusura
 
@@ -4461,7 +4453,7 @@ dell'esercizio 1942-43 restano determinate in L. 413.213,85 delle quali furono p
  ------------------
 ```
 
-#### Art. 218
+## Art. 218
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -4488,7 +4480,7 @@ del riepilogo dell'entrata) .................. " -
  ------------------
 ```
 
-#### Art. 219
+## Art. 219
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -4511,13 +4503,13 @@ esercizi precedenti (articolo 217) ........... " 118.853,88
  ------------------
 ```
 
-#### Art. 220
+## Art. 220
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, dell'eccedenza di impegni di lire 6.028,68 all'articolo 15 dello stato di previsione della spesa dell'Istituto agronomico dell'Africa italiana, per l'esercizio finanziario 1943-44.
 
 ## FONDO SPECIALE DELLE CORPORAZIONI
 
-#### Art. 221
+## Art. 221
 
 Le entrate del Fondo speciale delle corpora-
 
@@ -4534,7 +4526,7 @@ zione della Corte dei conti, in ............... L. 104.780.300 - delle quali fur
  ------------------
 ```
 
-#### Art. 222
+## Art. 222
 
 Le spese del Fondo predetto, accertate nel-
 
@@ -4551,7 +4543,7 @@ bilite in .................................... L. 104.780.300 - delle quali furo
  ------------------
 ```
 
-#### Art. 223
+## Art. 223
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -4564,7 +4556,7 @@ no determinate in ............................ L. 558.535,77 delle quali furono 
  ------------------
 ```
 
-#### Art. 224
+## Art. 224
 
 Le spese rimaste da pagare alla chiusura
 
@@ -4577,7 +4569,7 @@ determinate in ............................... L. 131.426.309,84 delle quiali fu
  ------------------
 ```
 
-#### Art. 225
+## Art. 225
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -4602,7 +4594,7 @@ del riepilogo dell'entrata) .................. " -
  ------------------
 ```
 
-#### Art. 226
+## Art. 226
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -4627,7 +4619,7 @@ esercizi precedenti (articolo 224) ........... " 94.540.042,41
 
 ## AZIENDA AUTONOMA DELLE POSTE DEI TELEGRAFI
 
-#### Art. 227
+## Art. 227
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -4650,7 +4642,7 @@ in data 18 febbraiO 1952, in ................. L. 2.618.269.300,01 delle quali f
  ------------------
 ```
 
-#### Art. 228
+## Art. 228
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -4673,7 +4665,7 @@ sivamente a .................................. L. 2.618.269.300,01 delle quali f
  ------------------
 ```
 
-#### Art. 229
+## Art. 229
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -4686,7 +4678,7 @@ nate in ...................................... L. 119.320.294,78 delle quali fur
  ------------------
 ```
 
-#### Art. 230
+## Art. 230
 
 Le spese rimaste da pagare alla chiusura
 
@@ -4697,7 +4689,7 @@ dell'esercizio 1942-43 restano determinate in L. 1.213.828.930,35 delle quali fu
  ------------------
 ```
 
-#### Art. 231
+## Art. 231
 
 I residui attivi alla chiusura dell'eser-
 
@@ -4722,7 +4714,7 @@ del riepilogo, dell'entrata) ................. " -
  ------------------
 ```
 
-#### Art. 232
+## Art. 232
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -4743,7 +4735,7 @@ esercizi precedenti (articolo 230) ........... " 723.422.299,96
  ------------------
 ```
 
-#### Art. 233
+## Art. 233
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, delle eccedenze di impegni relative ai capitoli dello stato di previsione della spesa dell'Azienda autonoma delle poste e dei telegrafi per l'esercizio finanziario 1943-44, come dal dettaglio che segue:
 
@@ -4801,7 +4793,7 @@ Capitolo n. 116. - ... " 4.000.000 - -
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-#### Art. 234
+## Art. 234
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -4822,7 +4814,7 @@ sezioni riunite in data 18 febbraio 1952, in L. 295.414.977,20 delle quali furon
  ------------------
 ```
 
-#### Art. 235
+## Art. 235
 
 Le spese ordinarie e straordinaria del bi-
 
@@ -4841,7 +4833,7 @@ l'avanzo di gestione in lire 58.553.283,48 ... L. 295.414.977,20 delle quali fur
  ------------------
 ```
 
-#### Art. 236
+## Art. 236
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -4854,7 +4846,7 @@ nate in ...................................... L. 220.170.027,59 delle quali fur
  ------------------
 ```
 
-#### Art. 237
+## Art. 237
 
 Le spese rimaste da pagare alla chiusura
 
@@ -4865,7 +4857,7 @@ dell'esercizio 1942-43 restano determinate in L. 450.190.870,55 delle quali furo
  ------------------
 ```
 
-#### Art. 238
+## Art. 238
 
 I residui attivi alla chiusura dell'eser-
 
@@ -4888,7 +4880,7 @@ riepilogo dell'entrata) ...................... " 2.912.842,90
  ------------------
 ```
 
-#### Art. 239
+## Art. 239
 
 I residui passivi alla chiusura dell'eser-
 
@@ -4909,7 +4901,7 @@ esercizi precedenti (articolo 237) ........... " 389.594.585,05
  ------------------
 ```
 
-#### Art. 240
+## Art. 240
 
 E' data sanatoria, in conformita della deliberazione della Corte dei conti, delle eccedenze d'impegni relative ai capitoli dello stato di previsione della spesa dell'Azienda di Stato per i servizi telefonici, per l'esercizio finanziario 1943-44, come dal dettaglio che segue:
 
@@ -4921,7 +4913,7 @@ Capitolo n. 36. - .... " 448.370,82 -
 
 ## AMMINISTRAZIONE DELLE FERROVIE DELLO STATO
 
-#### Art. 241
+## Art. 241
 
 Le entrate ordinarie e straordinarie del
 
@@ -4950,7 +4942,7 @@ stione in L. 2.256.223.632,50, in totale .... L. 27.743.203.434,90 delle quali f
  ------------------
 ```
 
-#### Art. 242
+## Art. 242
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -4973,7 +4965,7 @@ no stabilite in .............................. L. 27.743.203.434,90 delle quali 
  ------------------
 ```
 
-#### Art. 243
+## Art. 243
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -4986,7 +4978,7 @@ nate in....................................... L. 5.990.361.103,07 delle quali f
  ------------------
 ```
 
-#### Art. 244
+## Art. 244
 
 Le spese rimaste da pagare alla chiusura
 
@@ -4997,7 +4989,7 @@ dell'esercizio 1942-43 restano determinate in L. 8.906.970.480,44 delle quali fu
  ------------------
 ```
 
-#### Art. 245
+## Art. 245
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -5022,7 +5014,7 @@ del riepilogo dell'entrata) .................. " -
  ------------------
 ```
 
-#### Art. 246
+## Art. 246
 
 I residui passivi alla chiusura dell'eser-
 
@@ -5043,7 +5035,7 @@ esercizi precedenti (articolo 244) ........... " 6.165.236.377,11
  ------------------
 ```
 
-#### Art. 247
+## Art. 247
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, delle eccedenze d'impegni relative ai capitoli dello stato di previsione della spesa dell'Amministrazione delle ferrovie dello Stato, per l'esercizio finanziario 1943-44, come dal dettaglio che segue:
 
@@ -5099,11 +5091,9 @@ Capitolo n. 46-bis. - .. " 47.619.921,28 -
 
 Capitolo n. 47. - ...... " 9.683.592,32 -
 
-## Rendiconto generale dell'Amministrazione dello - Stato Esercizio finanziario 1944-45
+## Rendiconto generale dell'Amministrazione dello - Stato Esercizio finanziario 1944-45 ENTRATE E SPESE DI COMPETENZA
 
-### ENTRATE E SPESE DI COMPETENZA
-
-#### Art. 248
+## Art. 248
 
 Le entrate ordinarie e straordinarie dello
 
@@ -5122,7 +5112,7 @@ sezioni riunite in data 18 febbraio 1952, in.. L. 107.599.101.109.66 delle quali
  ------------------
 ```
 
-#### Art. 249
+## Art. 249
 
 Le spese ordinarie, straordinarie e per ge-
 
@@ -5141,7 +5131,7 @@ la Corte dei conti, in ....................... L. 318.905.411.459,58 delle quali
  ------------------
 ```
 
-#### Art. 250
+## Art. 250
 
 Il riassunto generale dei risultati delle entrato e delle spese di competenza dell'esercizio finanziario 1944-45 come risulta dalla deliberazione della Corte dei conti, rimane cosi' stabilito:
 
@@ -5205,7 +5195,7 @@ Entrata .................................... L. 107.599.101.109,66 Spesa .......
 
 ## ENTRATE E SPESE RESIDUE DELL'ESERCIZIO 1943-44 - ED ESERCIZI PRECEDENTI
 
-#### Art. 251
+## Art. 251
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -5218,7 +5208,7 @@ nate, in ..................................... L. 23.938.992.757,02 delle quali 
  ------------------
 ```
 
-#### Art. 252
+## Art. 252
 
 Le spese rimaste da pagare alla chiusura
 
@@ -5231,7 +5221,7 @@ dell'esercizio 1943-44 restano determinate, in L. 141.117.120.861,94 delle quali
 
 ## RESIDUI ATTIVI E PASSIVI - ALLA CHIUSURA DELL'ESERCIZIO FINANZIARIO 1944-45
 
-#### Art. 253
+## Art. 253
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -5256,7 +5246,7 @@ degli esercizi precedenti (articolo 251) ..... " 17.170.907.671,41 somme riscoss
  ------------------
 ```
 
-#### Art. 254
+## Art. 254
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -5281,7 +5271,7 @@ esercizi precedenti (articolo 252) ........... " 34.192.278.297,89
 
 ## SITUAZIONE FINANZIARIA
 
-#### Art. 255
+## Art. 255
 
 E' accertato nella somma di lire 580.282.724.704,77 il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 1944-45 come risulta dai seguenti dati:
 
@@ -5328,7 +5318,7 @@ lita generale ............................... " 1.570.331,55
 
 ## DISPOSIZIONI SPECIALI
 
-#### Art. 256
+## Art. 256
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, delle eccedenze d'impegni relative ai capitoli degli stati di previsione della spesa dei Ministeri sottoindicati per l'esercizio finanziario 1944-45, come dal dettaglio che segue:
 
@@ -5664,7 +5654,7 @@ Capitolo n. 61. - ....... L. 575.536,41 73.990,10
 
 ## AMMINISTRAZIONI ED AZIENDE SPECIALI - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-#### Art. 257
+## Art. 257
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -5687,7 +5677,7 @@ lire 1.126.563.919,61 in totale .............. L. 4.801.329.010,42 delle quali f
  ------------------
 ```
 
-#### Art. 258
+## Art. 258
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -5706,7 +5696,7 @@ dei conti sono stabilite in .................. L. 4.801.329.010,42 delle quali f
  ------------------
 ```
 
-#### Art. 259
+## Art. 259
 
 Le entrate del bilancio dell'Amministrazione
 
@@ -5719,7 +5709,7 @@ dell'esercizio 1943-44 restano determinate in L. 212.159.061,94 delle quali furo
  ------------------
 ```
 
-#### Art. 260
+## Art. 260
 
 Le spese del bilancio dell'Amministrazione
 
@@ -5732,7 +5722,7 @@ l'esercizio 1943-44, restano determinate in .. L. 931.067.691,64 delle quali fur
  ------------------
 ```
 
-#### Art. 261
+## Art. 261
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -5757,7 +5747,7 @@ del riepilogo dell'entrata) .................. " 98.876.398,03
  ------------------
 ```
 
-#### Art. 262
+## Art. 262
 
 I residui passivi alla chinsura dell'eserci-
 
@@ -5780,7 +5770,7 @@ esercizi precedenti (articolo 260) ........... " 650.064.620,05
  ------------------
 ```
 
-#### Art. 263
+## Art. 263
 
 La situazione finanziaria dell'Amministra-
 
@@ -5810,7 +5800,7 @@ l'esercizio 1943-44 .......................... " -
  ------------------
 ```
 
-#### Art. 264
+## Art. 264
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, delle eccedenze d'impegni relative ai capitoli dello stato di previsione della spesa dell'Amministrazione dei monopoli di Stato, per l'esercizio finanziario 1944-45, come dal dettaglio che segue:
 
@@ -5848,7 +5838,7 @@ blica sociale). - ...... " 3.000.000 - -
 
 ## FONDO DI MASSA DEL CORPO DELLA GUARDIA DI FINANZA
 
-#### Art. 265
+## Art. 265
 
 Le entrate ordinarie e straordinarie del bi
 
@@ -5869,7 +5859,7 @@ conti, in .................................... L. 93.165.634,47 delle quali furo
  ------------------
 ```
 
-#### Art. 266
+## Art. 266
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -5888,7 +5878,7 @@ te dei conti sono stabilite in ............... L. 78.434.585,48 delle quali furo
  ------------------
 ```
 
-#### Art. 267
+## Art. 267
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -5901,7 +5891,7 @@ stano determinate in ......................... L. 27.633.357,32 delle quali furo
  ------------------
 ```
 
-#### Art. 268
+## Art. 268
 
 Le spese rimaste da pagare alla chiusura-
 
@@ -5914,7 +5904,7 @@ determinate in ............................... L. 57.207.766,01 delle quali furo
  ------------------
 ```
 
-#### Art. 269
+## Art. 269
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -5939,7 +5929,7 @@ del riepilogo dell'entrata) .................. " -
  ------------------
 ```
 
-#### Art. 270
+## Art. 270
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -5962,7 +5952,7 @@ esercizi precedenti (articolo 268) ........... " 53.697.946,14
  ------------------
 ```
 
-#### Art. 271
+## Art. 271
 
 E' accertata nella somma di lire 33.952.964,64 la differenza passiva del conto finanziario del Fondo massa del Corpo della guardia di finanza alla fine dell'esercizio 1944-45, risultante dai seguenti dati:
 
@@ -6000,7 +5990,7 @@ al 30 giugno 1945 .. " 27.633.357,32
  ------------------
 ```
 
-#### Art. 272
+## Art. 272
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, delle eccedenze di impegni relative ai capitoli degli stati di previsione della spesa del Fondo di massa del Corpo della guardia di finanza per l'esercizio 1944-45, come dal dettaglio che segue:
 
@@ -6056,7 +6046,7 @@ scista). - ............. " 10.279,10 -
 
 ## AZIENDA MONOPOLIO BANANE
 
-#### Art. 273
+## Art. 273
 
 Le entrate ordinarie e straordinarie della
 
@@ -6075,7 +6065,7 @@ Corte dei conti, in .......................... L. 16.379.141,15 delle quali furo
  ------------------
 ```
 
-#### Art. 274
+## Art. 274
 
 Le spese ordinarie e straordinarie della
 
@@ -6094,7 +6084,7 @@ bilite in .................................... L. 16.379.141,15 delle quali furo
  ------------------
 ```
 
-#### Art. 275
+## Art. 275
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -6107,7 +6097,7 @@ nate in ...................................... L. 29.359.816,59 delle quali furo
  ------------------
 ```
 
-#### Art. 276
+## Art. 276
 
 Le spese rimaste da pagare alla chiusura
 
@@ -6118,7 +6108,7 @@ dell'esercizio 1943-44 restano determinate in L. 28.399.205,59 delle quali furon
  ------------------
 ```
 
-#### Art. 277
+## Art. 277
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -6143,7 +6133,7 @@ del riepilogo dell'entrata) .................. " -
  ------------------
 ```
 
-#### Art. 278
+## Art. 278
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -6166,13 +6156,13 @@ esercizi precedenti (articolo 276) ........... " 15.509.781,76
  ------------------
 ```
 
-#### Art. 279
+## Art. 279
 
 E' approvata l'eccedenza d'impegni di lire 177.543,40 risultata in sede di consuntivo, sul conto della competenza, all'articolo n. 1 "Retribuzioni al personale, ecc." dello stato di previsione della spesa dell'Azienda monopolio banane per l'esercizio 1944-45.
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-#### Art. 280
+## Art. 280
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -6193,7 +6183,7 @@ ti, in ....................................... L. 138.767.641,72 delle quali fur
  ------------------
 ```
 
-#### Art. 281
+## Art. 281
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -6212,7 +6202,7 @@ dei conti sono stabilite in .................. L. 149.402.096,20 delle quali fur
  ------------------
 ```
 
-#### Art. 282
+## Art. 282
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -6225,7 +6215,7 @@ nate in ...................................... L. 100.095.435,48 delle quali fur
  ------------------
 ```
 
-#### Art. 283
+## Art. 283
 
 Le spese rimaste da pagare alla chiusura
 
@@ -6236,7 +6226,7 @@ dell'esercizio 1943-44 restano determinate in L. 37.017.838,21 delle quali furon
  ------------------
 ```
 
-#### Art. 284
+## Art. 284
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -6261,7 +6251,7 @@ del riepilogo dell'entrata) .................. L. 31.882,50
  ------------------
 ```
 
-#### Art. 285
+## Art. 285
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -6284,7 +6274,7 @@ esercizi precedenti (articolo 283) ........... " 29.080.748,07
  ------------------
 ```
 
-#### Art. 286
+## Art. 286
 
 E' accertata nella somma di lire 2.195.399,23 la differenza passiva del conto finanziario dell'Amministrazione del Fondo per il culto alla fine dell'esercizio 1944-45, come risulta dai seguenti dati:
 
@@ -6324,13 +6314,13 @@ Spese dell'esercizio finanziario 1944-45.. L. 149.402.096,29
 
 ------------------
 
-#### Art. 287
+## Art. 287
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, della eccedenza d'impegni di lire 41.223 relativa al capitolo n. 2 dello stato di previsione della spesa dell'Amministrazione del Fondo per il Culto per l'esercizio 1944-45.
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-#### Art. 288
+## Art. 288
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -6351,7 +6341,7 @@ conti, in ................................... L. 4.683.890,57 delle quali furono
  ------------------
 ```
 
-#### Art. 289
+## Art. 289
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -6370,7 +6360,7 @@ zio medesimo, sono stabilite in .............. L. 4.687.494,59 delle quali furon
  ------------------
 ```
 
-#### Art. 290
+## Art. 290
 
 Le entrate rimasto da riscuotere alla chiu-
 
@@ -6383,7 +6373,7 @@ nate in ...................................... L. 1.910.942,15 delle quali furon
  ------------------
 ```
 
-#### Art. 291
+## Art. 291
 
 Le spese rimaste da pagare alla chiusura
 
@@ -6394,7 +6384,7 @@ dell'esercizio 1943-44 restano determinate in L. 3.665.917,92 delle quali furono
  ------------------
 ```
 
-#### Art. 292
+## Art. 292
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -6419,7 +6409,7 @@ del riepilogo dell'entrata) .................. " 22.539,23
  ------------------
 ```
 
-#### Art. 293
+## Art. 293
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -6442,7 +6432,7 @@ esercizi precedenti (articolo 291) ........... " 2.807.931,52
  ------------------
 ```
 
-#### Art. 294
+## Art. 294
 
 E' accertata nella somma di lire 139.557,27 la differenza attiva del conto finanziario del Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1944-45, come risulta dai seguenti dati:
 
@@ -6482,7 +6472,7 @@ al 30 giugno 1945 .. L. 1.910.942,15
 
 ## AZIENDA DEI PATRIMONI RIUNITI EX ECONOMALI
 
-#### Art. 295
+## Art. 295
 
 Le entrate ordinarie e straordinarie della
 
@@ -6501,7 +6491,7 @@ liberazione della Corte dei conti, in ........ L. 4.994.306,97 delle quali furon
  ------------------
 ```
 
-#### Art. 296
+## Art. 296
 
 Le spese ordinarie e straordinarie della
 
@@ -6520,7 +6510,7 @@ conti, in .................................... L. 6.070.912,07 delle quali furon
  ------------------
 ```
 
-#### Art. 297
+## Art. 297
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -6533,7 +6523,7 @@ nate, in ..................................... L. 3.347.067,75 delle quali furon
  ------------------
 ```
 
-#### Art. 298
+## Art. 298
 
 Le spese rimaste da pagare alla chiusura
 
@@ -6544,7 +6534,7 @@ dell'esercizio 1943-44 restano determinate, in L. 6.030.558,31 delle quali furon
  ------------------
 ```
 
-#### Art. 299
+## Art. 299
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -6569,7 +6559,7 @@ degli esercizi precedenti (articolo 297) ..... " 2.952.666,95 somme riscosse e n
  ------------------
 ```
 
-#### Art. 300
+## Art. 300
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -6592,7 +6582,7 @@ esercizi precedenti (articolo 298) ........... " 4.994.206,07
  ------------------
 ```
 
-#### Art. 301
+## Art. 301
 
 E' accertata nella somma di lire 395.743,61 la differenza attiva del conto finanziario della Azienda dei patrimoni riuniti ex economali, alla fine dell'esercizio 1944-45, come risulta dai seguenti dati:
 
@@ -6633,7 +6623,7 @@ al 30 giugno 1945 .. " 3.347.067,75
 
 ## AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-#### Art. 302
+## Art. 302
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -6654,7 +6644,7 @@ conti, in .................................... L. 247.772.529,77 delle quali fur
  ------------------
 ```
 
-#### Art. 303
+## Art. 303
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -6673,7 +6663,7 @@ simo sono stabilite, in ...................... L. 247.772.529,77 delle quali fur
  ------------------
 ```
 
-#### Art. 304
+## Art. 304
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -6686,7 +6676,7 @@ nate in ...................................... L. 44.890.030,26 delle quali furo
  ------------------
 ```
 
-#### Art. 305
+## Art. 305
 
 Le spese rimaste da pagare alla chiusura
 
@@ -6697,7 +6687,7 @@ dell'esercizio 1943-44 restano determinate in L. 31.746.272,51 delle quali furon
  ------------------
 ```
 
-#### Art. 306
+## Art. 306
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -6722,7 +6712,7 @@ del riepilogo dell'entrata) .................. " -
  ------------------
 ```
 
-#### Art. 307
+## Art. 307
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -6745,7 +6735,7 @@ esercizi precedenti (articolo 305) ........... " 30.043.999,47
  ------------------
 ```
 
-#### Art. 308
+## Art. 308
 
 E' accertata nella somma di lire 3.047.871,10 la differenza passiva del conto finanziario dell'Azienda di Stato per le foreste demaniali, alla fine dell'esercizio 1944-45, come risulta dai seguenti dati:
 
@@ -6778,13 +6768,13 @@ al 30 giugno 1945 .. " 44.890.030,26
  ------------------
 ```
 
-#### Art. 309
+## Art. 309
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti della eccedenza d'impegni di lire 78.235.206,34 relativa all'articolo 41 (n. 36 del bilancio del sedicente Governo della Repubblica sociale) dello stato di previsione della spesa dell'Azienda di Stato per le foreste demaniali, per l'esercizio finanziario 1944-45.
 
 ## ARCHIVI NOTARILI
 
-#### Art. 310
+## Art. 310
 
 E' approvato il conto consuntivo degli Archivi notarili, per l'esercizio 1944-45, nelle risultanze seguenti come dalla deliberazione della Corte dei conti:
 
@@ -6797,7 +6787,7 @@ Spese .................................... " 31.473.429,80
 
 ## CORPO DEGLI AGENTI DI CUSTODIA - DEGLI ISTITUTI DI PREVENZIONE E DI PENA
 
-#### Art. 311
+## Art. 311
 
 E' approvato il conto consuntivo del Fondo generale del Corpo degli agenti di custodia degli Istituti di prevenzione e di pena, per l'esercizio 1944-45, nelle seguenti risultanze:
 
@@ -6810,7 +6800,7 @@ Entrate .................................. L. 1.328.634,11 Spese ...............
 
 ## ISTITUTO AGRONOMICO PER L'AFRICA ITALIANA
 
-#### Art. 312
+## Art. 312
 
 Le entrate dell'Istituto agronomico per la
 
@@ -6829,7 +6819,7 @@ conti, in .................................... L. 3.161.733,55 delle quali furon
  ------------------
 ```
 
-#### Art. 313
+## Art. 313
 
 Le spese dell'Istituto predetto, accertate
 
@@ -6846,7 +6836,7 @@ te dei conti, sono stabilite in .............. L. 3.161.733,55 delle quali furon
  ------------------
 ```
 
-#### Art. 314
+## Art. 314
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -6859,7 +6849,7 @@ nate in ...................................... L. 35.000 - delle quali furono ri
  ------------------
 ```
 
-#### Art. 315
+## Art. 315
 
 Le spese rimaste da pagare alla chiusura
 
@@ -6870,7 +6860,7 @@ dell'esercizio 1943-44 restano determinate in L. 265.767,60 delle quali furono p
  ------------------
 ```
 
-#### Art. 316
+## Art. 316
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -6895,7 +6885,7 @@ del riepilogo dell'entrata) .................. " -
  ------------------
 ```
 
-#### Art. 317
+## Art. 317
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -6918,7 +6908,7 @@ esercizi precedenti (articolo 315) ........... " 175.675,31
  ------------------
 ```
 
-#### Art. 318
+## Art. 318
 
 E' data sanatoria in conformita' della deliberazione della Corte dei conti, delle eccedenze di impegni relative agli articoli dello stato di previsione della spesa dell'Istituto agronomico dell'Africa italiana, per l'esercizio finanziario 1944-45 come dal dettaglio che segue:
 
@@ -6962,7 +6952,7 @@ scista). - ............. " 5.655,61 -
 
 ## FONDO SPECIALE DELLE CORPORAZIONI
 
-#### Art. 319
+## Art. 319
 
 Le entrate del fondo speciale delle corpora-
 
@@ -6979,7 +6969,7 @@ razione della Corte dei conti, in ............ L. 102.068.589,40 delle quali fur
  ------------------
 ```
 
-#### Art. 320
+## Art. 320
 
 Le spese del Fondo predetto, accertate nel-
 
@@ -6996,7 +6986,7 @@ stabilite in ................................. L. 102.068.589.40 delle quali fur
  ------------------
 ```
 
-#### Art. 321
+## Art. 321
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -7006,7 +6996,7 @@ no determinate in ............................ L. -
 
 ------------------
 
-#### Art. 322
+## Art. 322
 
 Le spese rimaste da pagare alla chiusura
 
@@ -7019,7 +7009,7 @@ determinate in ............................... L. 102.180.7752,79 delle quali fu
  ------------------
 ```
 
-#### Art. 323
+## Art. 323
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -7027,7 +7017,7 @@ zio 1944-45, sono stabiliti in ............... L. -
 
 ------------------
 
-#### Art. 324
+## Art. 324
 
 I residui passivi alla chiusura dell'eser-
 
@@ -7047,13 +7037,13 @@ esercizi precedenti (articolo 322) ........... " 20.692.261,26
 
 ------------------ Residui passivi al 30 giugno 1945 ... L. 20.692.261,26
 
-#### Art. 325
+## Art. 325
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, della eccedenza d'impegni di lire 29.784.145,35 in conto competenza e di lire 10.635.595,55 in conto residui, relative alla gestione commissariale del Fondo speciale delle corporazioni, per l'esercizio finanziario 1944-45.
 
 ## AZIENDA AUTONOMA DELLE POSTE E DEI TELEGRAFI
 
-#### Art. 326
+## Art. 326
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -7076,7 +7066,7 @@ in data 17 giugno 1952, in ................... L. 3.607.185.859,33 delle quali f
  ------------------
 ```
 
-#### Art. 327
+## Art. 327
 
 Le spese ordinarie o straordinarie del bi-
 
@@ -7097,7 +7087,7 @@ bilite in .................................... L. 8.607.185.859,33 delle quali f
  ------------------
 ```
 
-#### Art. 328
+## Art. 328
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -7110,7 +7100,7 @@ nate in ...................................... L. 1.274.905.986,27 delle quali f
  ------------------
 ```
 
-#### Art. 329
+## Art. 329
 
 Le spese rimaste da pagare alla chiusura
 
@@ -7121,7 +7111,7 @@ dell'esercizio 1943-44 restano determinate in L. 2.125.865.106,60 delle quali fu
  ------------------
 ```
 
-#### Art. 330
+## Art. 330
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -7146,7 +7136,7 @@ del riepilogo dell'entrata) .................. " -
  ------------------
 ```
 
-#### Art. 331
+## Art. 331
 
 I residui passivi alla chiusura, dell'eser-
 
@@ -7169,7 +7159,7 @@ esercizi precedenti (articolo 329) ........... " 250.610.792,02
  ------------------
 ```
 
-#### Art. 332
+## Art. 332
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, delle eccedenze di impegni relative ai capitoli dello stato di previsione della spesa dell'Azienda autonoma delle poste e dei telegrafi per l'esercizio finanziario 1944-45, come dal dettaglio che segue:
 
@@ -7221,7 +7211,7 @@ cano fascista). - ...... " 117.796.806,10 -
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-#### Art. 333
+## Art. 333
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -7242,7 +7232,7 @@ sezioni riunite in data 17 giugno 1952, in ... L. 583.716.457,79 delle quali fur
  ------------------
 ```
 
-#### Art. 334
+## Art. 334
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -7263,7 +7253,7 @@ delle quali furono pagate .................... " 329.321.251,88
  ------------------
 ```
 
-#### Art. 335
+## Art. 335
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -7276,7 +7266,7 @@ te in ........................................ L. 255.844.550,69 delle quali fur
  ------------------
 ```
 
-#### Art. 336
+## Art. 336
 
 Le spese rimaste da pagare alla chiusura
 
@@ -7287,7 +7277,7 @@ dell'esercizio 1943-44 restano determinate in L. 638.809.528,78 delle quali furo
  ------------------
 ```
 
-#### Art. 337
+## Art. 337
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -7312,7 +7302,7 @@ del riepilogo dell'entrata) .................. " 1.230.197,45
  ------------------
 ```
 
-#### Art. 338
+## Art. 338
 
 I residui passivi alla chiusura dell'eser-
 
@@ -7333,7 +7323,7 @@ esercizi precedenti (art. 336) ............... " 576.640.396,31
  ------------------
 ```
 
-#### Art. 339
+## Art. 339
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, delle eccedenze d'impegni relative ai capitoli dello stato di previsione della spesa dell'Azienda di Stato per i servizi telefonici, per l'esercizio finanziario 1944-45, come dal dettaglio che segue:
 
@@ -7349,7 +7339,7 @@ Capitolo n. 33-bis (vuoto) " 20.000.000 - -
 
 ## AMMINISTRAZIONE DELLE FERROVIE DELLO STATO
 
-#### Art. 340
+## Art. 340
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -7378,7 +7368,7 @@ totale ....................................... L. 49.917.522.522,08 delle quali 
  ------------------
 ```
 
-#### Art. 341
+## Art. 341
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -7401,7 +7391,7 @@ stabilite in ................................. L. 49.917.522.522,08 delle quali 
  ------------------
 ```
 
-#### Art. 342
+## Art. 342
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -7414,7 +7404,7 @@ nate in....................................... L. 11.634.114.706,17 delle quali 
  ------------------
 ```
 
-#### Art. 343
+## Art. 343
 
 Le spese rimaste da pagare alla chiusura
 
@@ -7425,7 +7415,7 @@ dell'esercizio 1943-44 restano determinate in L. 10.055.138.187,67 delle quali f
  ------------------
 ```
 
-#### Art. 344
+## Art. 344
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -7450,7 +7440,7 @@ del riepilogo dell'entrata) .................. " -
  ------------------
 ```
 
-#### Art. 345
+## Art. 345
 
 I residui passivi alla chiusura dell'eser-
 
@@ -7471,7 +7461,7 @@ esercizi precedenti (art. 343) ............... " 6.839.497.753,91
  ------------------
 ```
 
-#### Art. 346
+## Art. 346
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, delle eccedenze d'impegni relative ai capitoli dello stato di previsione della spesa dell'amministrazione delle ferrovie dello Stato, per l'esercizio 1944-45, come dal dettaglio che segue:
 
@@ -7771,7 +7761,7 @@ pubblica sociale). - .... " 58.025.276,16 -
 
 ## AZIENDA AUTONOMA STATALE DELLA STRADA
 
-#### Art. 347
+## Art. 347
 
 Le entrate ordinarie e straordinarie del bi
 
@@ -7790,7 +7780,7 @@ razione della Corte dei conti in ............. L. 620.371.894,96 delle quali fur
  ------------------
 ```
 
-#### Art. 348
+## Art. 348
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -7807,7 +7797,7 @@ sono stabilite in ............................ L. 620.371.894,96 delle quali fur
  ------------------
 ```
 
-#### Art. 349
+## Art. 349
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -7820,7 +7810,7 @@ nate in ...................................... L. 778.188.035,01 delle quali fur
  ------------------
 ```
 
-#### Art. 350
+## Art. 350
 
 Le spese rimaste da pagare alla chiusura
 
@@ -7831,7 +7821,7 @@ dell'esercizio 1943-44 restano determinate in L. 512.751.758,82 delle quali furo
  ------------------
 ```
 
-#### Art. 351
+## Art. 351
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -7854,7 +7844,7 @@ del riepilogo dell'entrata) .................. " -
  ------------------
 ```
 
-#### Art. 352
+## Art. 352
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -7875,11 +7865,9 @@ esercizi precedenti (art. 350) ............... " 457.435.738,89
  ------------------
 ```
 
-## Esercizio finanziario 1945-46 - Rendiconto generale dell'Amministrazione dello Stato
+## Esercizio finanziario 1945-46 - Rendiconto generale dell'Amministrazione dello Stato ENTRATE E SPESE DI COMPETENZA
 
-### ENTRATE E SPESE DI COMPETENZA
-
-#### Art. 353
+## Art. 353
 
 Le entrate ordinarie e straordinarie dello
 
@@ -7898,7 +7886,7 @@ sezioni riunite in data 17 giugno 1952, in ... L. 258.598.791.292,85 delle quali
  ------------------
 ```
 
-#### Art. 354
+## Art. 354
 
 Le spese ordinarie straordinarie e per ge-
 
@@ -7917,7 +7905,7 @@ Corte dei conti, in .......................... L. 621.618.738.778,80 delle quali
  ------------------
 ```
 
-#### Art. 355
+## Art. 355
 
 Il riassunto generale dei risultati delle entrate e delle spese di competenza dell'esercizio finanziario 1945-46 quali risultano dalla deliberazione della Corte dei conti, rimane cosi' stabilito:
 
@@ -7949,7 +7937,7 @@ Spesa .................................... " 47.082.008.912,99
 
 ## ENTRATE E SPESE RESIDUE DELL'ESERCIZIO 1944-45 ED ESERCIZI PRECEDENTI
 
-#### Art. 356
+## Art. 356
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -7962,7 +7950,7 @@ te, come dal conto consuntivo del bilancio, in L. 32.245.827.506,52 delle quali 
  ------------------
 ```
 
-#### Art. 357
+## Art. 357
 
 Le spese rimaste da pagare alla chiusura
 
@@ -7977,7 +7965,7 @@ come dal conto consuntivo del bilancio, in ... L. 137.033.087.663,57 delle quali
 
 ## RESIDUI ATTIVI E PASSIVI - ALLA CHIUSURA DELL'ESERCIZIO FINANZIARIO 1945-46
 
-#### Art. 358
+## Art. 358
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -8002,7 +7990,7 @@ degli esercizi precedenti (articolo 356) ..... " 25.366.374.115,57 somme riscoss
  ------------------
 ```
 
-#### Art. 359
+## Art. 359
 
 I residui passivi alla chiusura dell'eser-
 
@@ -8027,7 +8015,7 @@ esercizi precedenti (art. 357) ............... " 93.467.438.755.48
 
 ## SITUAZIONE FINANZIARIA
 
-#### Art. 360
+## Art. 360
 
 E' accertato nella somma di L. 976.692.740.226,14 il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 1945-46 come risulta dai seguenti dati:
 
@@ -8075,7 +8063,7 @@ nerale........................................ " 18.901.805,65
 
 ## DISPOSIZIONI SPECIALI
 
-#### Art. 361
+## Art. 361
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, delle eccedenze d'impegni relative ai capitoli degli stati di previsione della spesa dei Ministeri sottoindicati per l'esercizio finanziario 1945-46, come dal dettaglio che segue:
 
@@ -8233,7 +8221,7 @@ Capitolo n. 37. - ....... L. 1.282.731,29 80.031,26
 
 ## AMMINISTRAZIONI ED AZIENDE SPECIALI - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI Dl STATO
 
-#### Art. 362
+## Art. 362
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -8256,7 +8244,7 @@ gestione in L. 3.576.580.686,73 in totale .... L. 19.514.137.276,48 delle quali 
  ------------------
 ```
 
-#### Art. 363
+## Art. 363
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -8275,7 +8263,7 @@ stesso sono stabilite, in .................... L. 19.514.437.276,48 delle quali 
  ------------------
 ```
 
-#### Art. 364
+## Art. 364
 
 Le entrate del bilancio dell'Amministrazione
 
@@ -8288,7 +8276,7 @@ dell'esercizio 1944-45 restano determinate in L. 1.233.094.393,08 delle quali fu
  ------------------
 ```
 
-#### Art. 365
+## Art. 365
 
 Le spese del bilancio dell'Amministrazione
 
@@ -8301,7 +8289,7 @@ l'esercizio 1944-45, restano determinate in .. L. 2.212.724.718,01 delle quali f
  ------------------
 ```
 
-#### Art. 366
+## Art. 366
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -8326,7 +8314,7 @@ del riepilogo dell'entrata) .................. " 125.094.996,88
  ------------------
 ```
 
-#### Art. 367
+## Art. 367
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -8349,7 +8337,7 @@ esercizi precedenti (art. 365) ............... " 1.807.781.856,63
  ------------------
 ```
 
-#### Art. 368
+## Art. 368
 
 La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dell'esercizio finanziario 1945-46, risulta come appresso:
 
@@ -8375,7 +8363,7 @@ l'esercizio 1944-45 .......................... " -
  ------------------
 ```
 
-#### Art. 369
+## Art. 369
 
 E data sanatoria, in conformita della de-
 
@@ -8403,7 +8391,7 @@ Capitolo n. 57. - ........ " 8.337.023 - -
 
 ## FONDO DI MASSA DEL CORPO DELLA GUARDIA DI FINANZA
 
-#### Art. 370
+## Art. 370
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -8424,7 +8412,7 @@ conti, in .................................... L. 589.851.297,56 delle quali fur
  ------------------
 ```
 
-#### Art. 371
+## Art. 371
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -8443,7 +8431,7 @@ zio medesimo, sono stabilite in .............. L. 577.017.129,27 delle quali fur
  ------------------
 ```
 
-#### Art. 372
+## Art. 372
 
 Le entrate, rimaste da riscuotere alla chiu-
 
@@ -8456,7 +8444,7 @@ stano determinate in ......................... L. 20.401.282,61 delle quali furo
  ------------------
 ```
 
-#### Art. 373
+## Art. 373
 
 Le spese rimaste da pagare alla chiusura
 
@@ -8469,7 +8457,7 @@ determinate in ............................... L. 89.222.689,49 delle quali furo
  ------------------
 ```
 
-#### Art. 374
+## Art. 374
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -8494,7 +8482,7 @@ del riepilogo dell'entrata) .................. " -
  ------------------
 ```
 
-#### Art. 375
+## Art. 375
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -8517,7 +8505,7 @@ esercizi precedenti (art. 373) ............... " 51.031.277,18
  ------------------
 ```
 
-#### Art. 376
+## Art. 376
 
 E accertata nella somma di L. 12.916.830,76
 
@@ -8566,7 +8554,7 @@ al 30 giugno 1946 .. " 20.401.282,61
  ------------------
 ```
 
-#### Art. 377
+## Art. 377
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti delle eccedenze d'impegni relative ai capitoli dello stato di previsione della spesa del Fondo di massa del Corpo della guardia di finanza per l'esercizio finanziario 1945-46, come dal dettaglio che segue:
 
@@ -8582,7 +8570,7 @@ Capitolo n. 31. - ........ " 38.184,58 -
 
 ## AZIENDA MONOPOLIO BANANE
 
-#### Art. 378
+## Art. 378
 
 Le entrate ordinarie e straordinarie della
 
@@ -8601,7 +8589,7 @@ Corte dei conti, in .......................... L. 34.630.320,30 delle quali furo
  ------------------
 ```
 
-#### Art. 379
+## Art. 379
 
 Le spese ordinarie e straordinarie del-
 
@@ -8620,7 +8608,7 @@ bilite in .................................... L. 34.630.320,30 delle quali furo
  ------------------
 ```
 
-#### Art. 380
+## Art. 380
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -8633,7 +8621,7 @@ nate in ...................................... L. 33.608.239,16 delle quali furo
  ------------------
 ```
 
-#### Art. 381
+## Art. 381
 
 Le spese rimaste da pagare alla chiusura
 
@@ -8644,7 +8632,7 @@ dell'esercizio 1944-45 restano determinate in L. 21.966.345,08 delle quali furon
  ------------------
 ```
 
-#### Art. 382
+## Art. 382
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -8669,7 +8657,7 @@ del riepilogo dell'entrata) .................. " -
  ------------------
 ```
 
-#### Art. 383
+## Art. 383
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -8692,7 +8680,7 @@ esercizi precedenti (art. 381) ............... " 19.123.608,49
  ------------------
 ```
 
-#### Art. 384
+## Art. 384
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, delle eccedenze d'impegni agli articoli dello stato di previsione della spesa dell'Azienda monopolio banane, per l'esercizio finanziario 1945-46:
 
@@ -8720,7 +8708,7 @@ Articolo n. 23. - ........ " 17.352,81 -
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-#### Art. 385
+## Art. 385
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -8738,7 +8726,7 @@ conti, in .................................... L. 275.843.306,72 delle quali fur
 
 ------------------ e rimasero da riscuotere...................... L. 258.171.901,93
 
-#### Art. 386
+## Art. 386
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -8757,7 +8745,7 @@ zio stesso, sono stabilite in ................ L. 268.938.884,89 delle quali fur
  ------------------
 ```
 
-#### Art. 387
+## Art. 387
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -8770,7 +8758,7 @@ nate in ...................................... L. 154.487.663,58 delle quali fur
  ------------------
 ```
 
-#### Art. 388
+## Art. 388
 
 Le spese rimaste da pagare alla chiusura
 
@@ -8781,7 +8769,7 @@ dell'esercizio 1944-45 restano determinate in L. 80.179.400,78 delle quali furon
  ------------------
 ```
 
-#### Art. 389
+## Art. 389
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -8806,7 +8794,7 @@ del riepilogo dell'entrata) .................. " 63.696,01
  ------------------
 ```
 
-#### Art. 390
+## Art. 390
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -8829,7 +8817,7 @@ esercizi precedenti (art. 388) ............... " 66.663.775,38
  ------------------
 ```
 
-#### Art. 391
+## Art. 391
 
 E' accertata nella somma di L. 5.316.784,47 la differenza attiva del conto finanziario dell'Amministrazione del Fondo per il culto alla fine dell'esercizio 1945-46 come risulta dai seguenti dati:
 
@@ -8866,7 +8854,7 @@ al 30 giugno 1946 .. " 154.487.663,58
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-#### Art. 392
+## Art. 392
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -8887,7 +8875,7 @@ conti, in .................................... L. 4.920.590,28 delle quali furon
  ------------------
 ```
 
-#### Art. 393
+## Art. 393
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -8906,7 +8894,7 @@ te dei conti, sono stabilite in .............. L. 5.012.111,51 delle quali furon
  ------------------
 ```
 
-#### Art. 394
+## Art. 394
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -8919,7 +8907,7 @@ te in ........................................ L. 4.464.813,64 delle quali furon
  ------------------
 ```
 
-#### Art. 395
+## Art. 395
 
 Le spese rimaste da pagare alla chiusura
 
@@ -8930,7 +8918,7 @@ dell'esercizio 1944-45 restano determinate in L. 5.773.575,53 delle quali furono
  ------------------
 ```
 
-#### Art. 396
+## Art. 396
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -8955,7 +8943,7 @@ del riepilogo dell'entrata) .................. " 6.199,36
  ------------------
 ```
 
-#### Art. 397
+## Art. 397
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -8978,7 +8966,7 @@ esercizi precedenti (art. 395) ............... " 4.562.885,33
  ------------------
 ```
 
-#### Art. 398
+## Art. 398
 
 E' accertata nella somma di L. 139.557,27 la differenza attiva del conto finanziario del Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1945-46, corno risulta dai seguenti dati:
 
@@ -9015,7 +9003,7 @@ al 30 giugno 1946 .. " 4.464.813,64
 
 ## AZIENDA DEI PATRIMONI MUNITI EX ECONOMALI
 
-#### Art. 399
+## Art. 399
 
 Le entrate ordinarie e straordinarie della
 
@@ -9034,7 +9022,7 @@ deliberazione della Corte dei conti, in ...... L. 7.623.390,71 delle quali furon
  ------------------
 ```
 
-#### Art. 400
+## Art. 400
 
 Le spese ordinarie e straordinarie della
 
@@ -9053,7 +9041,7 @@ conti, in .................................... L. 6.688.977,20 delle quali furon
  ------------------
 ```
 
-#### Art. 401
+## Art. 401
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -9066,7 +9054,7 @@ te, come dal conto consuntivo dell'Azienda, in L. 6.778.921,08 delle quali furon
  ------------------
 ```
 
-#### Art. 402
+## Art. 402
 
 Le spese rimaste da pagare alla chiusura
 
@@ -9079,7 +9067,7 @@ come dal conto consuntivo dell'Azienda, in ... L. 7.261.730.49 delle quali furon
  ------------------
 ```
 
-#### Art. 403
+## Art. 403
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -9104,7 +9092,7 @@ degli esercizi precedenti (art. 401) ......... " 1.127.098,05 somme riscosse e n
  ------------------
 ```
 
-#### Art. 404
+## Art. 404
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -9127,7 +9115,7 @@ esercizi precedenti (art. 402) ............... " 6.094.611,51
  ------------------
 ```
 
-#### Art. 405
+## Art. 405
 
 E' accertata nella somma di L. 1.416.206,65 la differenza attiva del conto finanziario dell'Azienda dei patrimoni riuniti ex economali, alla fine dell'esercizio 1945-46, come risulta dai seguenti dati:
 
@@ -9169,7 +9157,7 @@ al 30 giugno 1946 .. " 6.778,921,08
 
 ## AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-#### Art. 406
+## Art. 406
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -9190,7 +9178,7 @@ conti, in .................................... L. 317.299.871,51 delle quali fur
  ------------------
 ```
 
-#### Art. 407
+## Art. 407
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -9209,7 +9197,7 @@ conti, sono stabilite in ..................... L. 317.299.871,51 delle quali fur
  ------------------
 ```
 
-#### Art. 408
+## Art. 408
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -9222,7 +9210,7 @@ nate in ...................................... L. 157.922.400,17 delle quali fur
  ------------------
 ```
 
-#### Art. 409
+## Art. 409
 
 Le spese rimaste da pagare alla chiusura
 
@@ -9233,7 +9221,7 @@ dell'esercizio 1944-45 restano determinate in L. 236.174.619,30 delle quali furo
  ------------------
 ```
 
-#### Art. 410
+## Art. 410
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -9258,7 +9246,7 @@ del riepilogo dell'entrata) .................. " 30.316.944,84
  ------------------
 ```
 
-#### Art. 411
+## Art. 411
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -9281,7 +9269,7 @@ esercizi precedenti (art. 409) ............... " 204.691.494,90
  ------------------
 ```
 
-#### Art. 412
+## Art. 412
 
 E' accertata nella somma di L. 3.047.873,20 la differenza passiva del conto finanziario della Azienda di Stato per le foreste demaniali, alla fine dell'esercizio 1945-46, come risulta dai seguenti dati:
 
@@ -9316,13 +9304,13 @@ al 30 giugno 1946 .. " 236.174.619,30
  ------------------
 ```
 
-#### Art. 413
+## Art. 413
 
 E' approvata l'eccedenza di impegni di L. 2,10 risultata in sede di consuntivo sul conto dei residui all'articolo n. 29 "Provento spettante allo Stato, ecc." dello stato di previsione della spesa dell'Azienda di Stato per le foreste demaniali, per l'esercizio finanziario 1945-46.
 
 ## ARCHIVI NOTARILI
 
-#### Art. 414
+## Art. 414
 
 E' approvato il conto consuntivo degli Archivi notarili, per l'esercizio 1945-46, nelle risultanze seguenti come da deliberazione della Corte dei Conti:
 
@@ -9335,7 +9323,7 @@ Entrate .................................. L. 96.262.689,83 Spese ..............
 
 ## CORPO DEGLI AGENTI DI CUSTODIA - DEGLI ISTITUTI DI PREVENZIONE E DI PENA
 
-#### Art. 415
+## Art. 415
 
 E' approvato il conto consuntivo del Fondo generale del Corpo degli agenti di custodia degli Istituti di prevenzione e di pena per l'esercizio 1945-46, nelle seguenti risultanze come da deliberazione della Corte dei conti:
 
@@ -9348,7 +9336,7 @@ Entrate .................................. L. 456.152,12 Spese .................
 
 ## ISTITUTO AGRONOMICO PER L'AFRICA ITALIANA
 
-#### Art. 416
+## Art. 416
 
 Le entrate dell'Istituto agronomico per la
 
@@ -9369,7 +9357,7 @@ conti, in .................................... L. 6.941.256,75 delle quali furon
 
 restando sanata la mancata approvazione del bilancio di previsione del detto Istituto per l'esercizio medesimo.
 
-#### Art. 417
+## Art. 417
 
 Le spese dell'Istituto predetto, accertate
 
@@ -9386,7 +9374,7 @@ stabilite in ................................. L. 6.941.256,75 delle quali furon
 
 con la sanatoria di cui al precedente art. 416.
 
-#### Art. 418
+## Art. 418
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -9399,7 +9387,7 @@ nate in ...................................... L. 80.000 - delle quali furono ri
  ------------------
 ```
 
-#### Art. 419
+## Art. 419
 
 Le spese rimaste da pagare alla chiusura
 
@@ -9410,7 +9398,7 @@ dell'esercizio 1944-45 restano determinate in L. 178.075,31 delle quali furono p
  ------------------
 ```
 
-#### Art. 420
+## Art. 420
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -9437,7 +9425,7 @@ del riepilogo dell'entrata) .................. " -
  ------------------
 ```
 
-#### Art. 421
+## Art. 421
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -9462,7 +9450,7 @@ esercizi precedenti (art. 419) ............... " 174.755,96
 
 ## AZIENDA AUTONOMA DELLE POSTE E DEI TELEGRAFI
 
-#### Art. 422
+## Art. 422
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -9485,7 +9473,7 @@ in data 23 agosto 1952, in ................... L. 13.256.589.014,84 delle quali 
  ------------------
 ```
 
-#### Art. 423
+## Art. 423
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -9506,7 +9494,7 @@ lite in ...................................... L. 13.256.589.014,84 delle quali 
  ------------------
 ```
 
-#### Art. 424
+## Art. 424
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -9519,7 +9507,7 @@ nate in ...................................... L. 2.034.168.101,67 delle quali f
  ------------------
 ```
 
-#### Art. 425
+## Art. 425
 
 Le spese rimaste da pagare alla chiusura
 
@@ -9530,7 +9518,7 @@ dell'esercizio 1944-45 restano determinate in L. 2.274.896.078,91 delle quali fu
  ------------------
 ```
 
-#### Art. 426
+## Art. 426
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -9553,7 +9541,7 @@ degli esercizi precedenti (art. 424) ......... " 53.527.635 -
  ------------------
 ```
 
-#### Art. 427
+## Art. 427
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -9576,7 +9564,7 @@ esercizi precedenti (art. 425) ............... " 938.311.880,18
  ------------------
 ```
 
-#### Art. 428
+## Art. 428
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, delle eccedenze di impegni relative ai capitoli dello stato di previsione della spesa dell'Azienda autonoma delle poste e dei telegrafi per l'esercizio finanziario 1945-46, come dal dettaglio che segue:
 
@@ -9616,7 +9604,7 @@ Capitolo n. 106
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-#### Art. 429
+## Art. 429
 
 Entrate ordinarie e straordinarie del bilan
 
@@ -9637,7 +9625,7 @@ zioni riunite in data 23 agosto 1952, in ..... L. 1.153.041.607,30 delle quali f
  ------------------
 ```
 
-#### Art. 430
+## Art. 430
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -9654,7 +9642,7 @@ sono stabilite in ............................ L. 1.153.041.607,30 delle quali f
  ------------------
 ```
 
-#### Art. 431
+## Art. 431
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -9667,7 +9655,7 @@ nate in ...................................... L. 348.299.441,82 delle quali fur
  ------------------
 ```
 
-#### Art. 432
+## Art. 432
 
 Le spese rimaste da pagare alla chiusura
 
@@ -9678,7 +9666,7 @@ dell'esercizio 1944-45 restano determinate in L. 831.032.602,22 dalle quali furo
  ------------------
 ```
 
-#### Art. 433
+## Art. 433
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -9701,7 +9689,7 @@ del riepilogo dell'entrata) .................. " 578.099,05
  ------------------
 ```
 
-#### Art. 434
+## Art. 434
 
 I residui passivi alla chiusura dell'eser-
 
@@ -9722,13 +9710,13 @@ esercizi precedenti (art. 432) ............... " 810.949.083,22
  ------------------
 ```
 
-#### Art. 435
+## Art. 435
 
 E' data sanatoria in conformita' della deliberazione della Corte dei conti, della eccedenza d'impegni di L. 8.337.550,15 relativa al capitolo n. 37 dello stato di previsione della spesa dell'Azienda di Stato per i servizi telefonici, per l'esercizio finanziario 1945-46.
 
 ## AMMINISTRAZIONE DELLE FERROVIE DELLO STATO
 
-#### Art. 436
+## Art. 436
 
 Le entrate ordinarie e straordinarie del
 
@@ -9755,7 +9743,7 @@ stione in L. 17.703.793.497,78, in totale .... L. 190.996.841.922,73 delle quali
  ------------------
 ```
 
-#### Art. 437
+## Art. 437
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -9778,7 +9766,7 @@ stabilite in ................................. L. 190.996.841.922,73 delle quali
  ------------------
 ```
 
-#### Art. 438
+## Art. 438
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -9793,7 +9781,7 @@ stano determinate in ......................... L. 25.037.013.699,06 delle quali 
  ------------------
 ```
 
-#### Art. 439
+## Art. 439
 
 Le spese rimaste da pagare alla chiusura
 
@@ -9808,7 +9796,7 @@ determinate in ............................... L. 10.361.963.829,42 delle quali 
  ------------------
 ```
 
-#### Art. 440
+## Art. 440
 
 I residui attivi alla chiusura dell'eser-
 
@@ -9829,7 +9817,7 @@ degli esercizi precedenti (art. 438) ......... " 10.524.763.465.92
  ------------------
 ```
 
-#### Art. 441
+## Art. 441
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -9852,7 +9840,7 @@ eercizi precedenti (art. 439) ................ " 8.594.060.611,69
  ------------------
 ```
 
-#### Art. 442
+## Art. 442
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, delle eccedenze d'impegni relative ai capitoli dello stato di previsione della spesa dell'Amministrazione delle Ferrovie dello Stato, per l'esercizio finanziario 1945-46, come dal dettaglio che segue:
 
@@ -9982,11 +9970,9 @@ Capitolo n. 141. - ....... " 1.058.554.706,50 -
 
 Capitolo n. 142. - ....... " 346.581.003,60 -
 
-## Rendiconto generale dell'Amministrazione dello Stato - Esercizio finanziario 1946-47
+## Rendiconto generale dell'Amministrazione dello Stato - Esercizio finanziario 1946-47 ENTRATE E SPESE DI COMPETENZA
 
-### ENTRATE E SPESE DI COMPETENZA
-
-#### Art. 443
+## Art. 443
 
 Le entrate ordinarie e straordinarie dello
 
@@ -10005,7 +9991,7 @@ sezioni riunite in data 23 agosto 1952, in ... L. 720.519.690.730,37 delle quali
  ------------------
 ```
 
-#### Art. 444
+## Art. 444
 
 Le spese ordinarie, straordinarie e per ge-
 
@@ -10024,7 +10010,7 @@ ne della Corte dei conti, in ................ L. 1.214.963.807.467,45 delle qual
  --------------------
 ```
 
-#### Art. 445
+## Art. 445
 
 Il riassunto generale dei risultati delle entrate e delle spese di competenza dell'esercizio finanziario 1946-47, quali risultano dalla deliberazione della Corte dei conti, rimane cosi' stabilito:
 
@@ -10054,7 +10040,7 @@ Spesa .................................... " 20.512.804.807,25
 
 ## ENTRATE E SPESE RESIDUE DELL'ESERCIZIO 1945-46 - ED ESERCIZI PRECEDENTI
 
-#### Art. 446
+## Art. 446
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -10067,7 +10053,7 @@ nate, in ..................................... L. 53.469.186.943,32 delle quali 
  ------------------
 ```
 
-#### Art. 447
+## Art. 447
 
 Le spese rimaste da pagare alla chiusura
 
@@ -10080,7 +10066,7 @@ dell'esercizio 1945-46 restano determinate, in L. 380.655.690.269,58 delle quali
 
 ## RESIDUI ATTIVI E PASSIVI - ALLA CHIUSURA DELL'ESERCIZIO FINANZIARIO 1946-47
 
-#### Art. 448
+## Art. 448
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -10102,7 +10088,7 @@ degli esercizi precedenti (art. 446) ......... " 40.141.253.531,44 somme riscoss
 
 ------------------ Residui attivi al 30 giugno 1947 ... L. 103.686.835.438 -
 
-#### Art. 449
+## Art. 449
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -10127,7 +10113,7 @@ esercizi precedenti (art. 447) ............... " 171.567.303.512,97
 
 ## SITUAZIONE FINANZIARIA
 
-#### Art. 450
+## Art. 450
 
 E' accertato nella somma di L. 1.520.990.462.283,17 il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 1946-47 come risulta dai seguenti dati:
 
@@ -10176,7 +10162,7 @@ ta generale ............................... " 2.244.440 -
 
 ## DISPOSIZIONI SPECIALI
 
-#### Art. 451
+## Art. 451
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, dollo eccedenze d'impegni relative ai capitoli degli stati di previsione della spesa dei Ministeri sottoindicati per l'esercizio finanziario 1946-47, come dal dettaglio che segue:
 
@@ -10284,7 +10270,7 @@ Capitolo n. 39. - ........ L. - 2.462.180,95 Capitolo n. 43. - ........ " - 1.00
 
 ## AMMINISTRAZIONI ED AZIENDE SPECIALI - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-#### Art. 452
+## Art. 452
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -10307,7 +10293,7 @@ gestione in L. 3.101.478.130,38 in totale .... L. 42.023.646.449,75 delle quali 
  ------------------
 ```
 
-#### Art. 453
+## Art. 453
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -10326,7 +10312,7 @@ zio stesso sono stabilite, in ................ L. 42,023.646.449,75 delle quali 
  ------------------
 ```
 
-#### Art. 454
+## Art. 454
 
 Le entrate del bilancio dell'Amministrazio-
 
@@ -10341,7 +10327,7 @@ nate in ...................................... L. 7.642.168.616,34 delle quali f
  ------------------
 ```
 
-#### Art. 455
+## Art. 455
 
 Le spese del bilancio dell'Amministrazione
 
@@ -10354,7 +10340,7 @@ l'esercizio 1945-46, restano determinate in .. L. 10.492.933.969,32 delle quali 
  ------------------
 ```
 
-#### Art. 456
+## Art. 456
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -10379,7 +10365,7 @@ del riepilogo dell'entrata) .................. " 350.575.072,66
  ------------------
 ```
 
-#### Art. 457
+## Art. 457
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -10402,7 +10388,7 @@ esercizi precedenti (art. 455) ............... " 2.941.166.255,14
  ------------------
 ```
 
-#### Art. 458
+## Art. 458
 
 La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato alla fine dell'esercizio finanziario 1946-47 risulta, come appresso:
 
@@ -10428,7 +10414,7 @@ l'esercizio 1945-46 .......................... " -
 
 ## FONDO DI MASSA DEL CORPO DELLA GUARDIA DI FINANZA
 
-#### Art. 459
+## Art. 459
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -10449,7 +10435,7 @@ conti in ..................................... L. 1.064.261.503,69 delle quali f
  ------------------
 ```
 
-#### Art. 460
+## Art. 460
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -10468,7 +10454,7 @@ medesimlo, sono stabilite in ................. L. 1.011.159.120,99 delle quali f
  ------------------
 ```
 
-#### Art. 461
+## Art. 461
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -10481,7 +10467,7 @@ stano determinate in ......................... L. 21.366.368,31 delle quali furo
  ------------------
 ```
 
-#### Art. 462
+## Art. 462
 
 Le spese rimaste da pagare alla chiusura
 
@@ -10494,7 +10480,7 @@ determinate in ............................... L. 74.391.834,33 delle quali furo
  ------------------
 ```
 
-#### Art. 463
+## Art. 463
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -10519,7 +10505,7 @@ del riepilogo dell'entrata) .................. " -
  ------------------
 ```
 
-#### Art. 464
+## Art. 464
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -10542,7 +10528,7 @@ esercizi precedenti (art. 462) ............... " 61.591.996,01
  ------------------
 ```
 
-#### Art. 465
+## Art. 465
 
 E' accertata nella somma di L. 42.663.321,26 la differenza attiva del conto finanziario del Fondo di massa del Corpo della guardia di finanza alla fine dell'esercizio 1946-47, risultante dai seguenti dati:
 
@@ -10583,7 +10569,7 @@ Differenza passiva al 1° luglio 1946 ..... L. 12.916.830,76 Spese dell'esercizi
  ------------------
 ```
 
-#### Art. 466
+## Art. 466
 
 Sono approvate le eccedenze di impegni risultate in sede di consuntivo ai capitoli dello stato di previsione della spesa del Fondo di massa del Corpo della guardia. di finanza, per l'esercizio finanziario 1946-1947, come dal dettaglio che segue:
 
@@ -10611,7 +10597,7 @@ me versate al Fondo, ecc. " 0,32 -
 
 ## AZIENDA MONOPOLIO BANANE
 
-#### Art. 467
+## Art. 467
 
 Le entrate ordinarie e straordinarie della
 
@@ -10630,7 +10616,7 @@ Corte dei conti, in .......................... L. 41.059.028,57 delle quali furo
  ------------------
 ```
 
-#### Art. 468
+## Art. 468
 
 Le spese ordinarie e straordinarie della
 
@@ -10649,7 +10635,7 @@ bilite in .................................... L. 41.059.028,57 delle quali furo
  ------------------
 ```
 
-#### Art. 469
+## Art. 469
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -10662,7 +10648,7 @@ nate in ...................................... L. 28.138.678,87 delle quali furo
  ------------------
 ```
 
-#### Art. 470
+## Art. 470
 
 Le spese rimaste da pagare alla chiusura
 
@@ -10673,7 +10659,7 @@ dell'esercizio 1945-46 restano determinate in L. 38.034.123,09 delle quali furon
  ------------------
 ```
 
-#### Art. 471
+## Art. 471
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -10698,7 +10684,7 @@ del riepilogo dell'entrata) .................. " -
  ------------------
 ```
 
-#### Art. 472
+## Art. 472
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -10721,7 +10707,7 @@ esercizi precedenti (art. 470) ............... " 28.111.699,28
  ------------------
 ```
 
-#### Art. 473
+## Art. 473
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, delle eccedenze d'impegni agli articoli dello stato di previsione della spesa della Azienda monopolio banane, per l'esercizio finanziario 1946-47:
 
@@ -10737,7 +10723,7 @@ Articolo n. 32. - ........ " 8.200.000 - -
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-#### Art. 474
+## Art. 474
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -10758,7 +10744,7 @@ ti, in ....................................... L. 718.997.051,04 delle quali fur
  ------------------
 ```
 
-#### Art. 475
+## Art. 475
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -10777,7 +10763,7 @@ zio stesso, sono stabilite in ................ L. 758.129.921,24 delle quali fur
  ------------------
 ```
 
-#### Art. 476
+## Art. 476
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -10790,7 +10776,7 @@ te in ........................................ L. 405.150.599,32 delle quali fur
  ------------------
 ```
 
-#### Art. 477
+## Art. 477
 
 Le spese rimaste da pagare alla chiusura
 
@@ -10800,7 +10786,7 @@ dell'esercizio 1945-46 restano determinate in L. 63.679.220,18 delle quali furon
 
 ------------------
 
-#### Art. 478
+## Art. 478
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -10825,7 +10811,7 @@ del riepilogo dell'entrata) .................. " 842.56
  ------------------
 ```
 
-#### Art. 479
+## Art. 479
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -10849,7 +10835,7 @@ esercizi precedenti (art. 477) ............... " 45.741.950,35
  ------------------
 ```
 
-#### Art. 480
+## Art. 480
 
 E' accertata nella somma di L. 15.102.400,71 la differenza attiva del conto finanziario dell'Amministrazione del Fondo per il culto alla fine dell'esercizio 1946-47, come risulta dai seguenti dati:
 
@@ -10886,7 +10872,7 @@ al 30 giugno 1947 .. " 405.150.599,32
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-#### Art. 481
+## Art. 481
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -10907,7 +10893,7 @@ conti, in .................................... L. 11.314.603,31 delle quali furo
  ------------------
 ```
 
-#### Art. 482
+## Art. 482
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -10926,7 +10912,7 @@ te dei conti, sono stabilite in .............. L. 11.594.063,86 delle quali furo
  ------------------
 ```
 
-#### Art. 483
+## Art. 483
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -10939,7 +10925,7 @@ nate in ...................................... L. 7.766.243,12 delle quali furon
  ------------------
 ```
 
-#### Art. 484
+## Art. 484
 
 Le spese rimaste da pagare alla chiusura
 
@@ -10950,7 +10936,7 @@ dell'esercizio 1945-46 restano determinate in L. 6.699.358,54 delle quali furono
  ------------------
 ```
 
-#### Art. 485
+## Art. 485
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -10975,7 +10961,7 @@ del riepilogo dell'entrata) .................. " 5.524,33
  ------------------
 ```
 
-#### Art. 486
+## Art. 486
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -10998,7 +10984,7 @@ esercizi precedenti (art. 484) ............... " 5.803.634,23
  ------------------
 ```
 
-#### Art. 487
+## Art. 487
 
 E' accertata nella somma di lire 163.813,34 la differenza attiva del conto finanziario del Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1946-47, come risulta dai seguenti dati:
 
@@ -11038,7 +11024,7 @@ al 30 giugno 1947 .. " 7.766.243,12
 
 ## AZIENDA DEI PATRIMONI RIUNITI EX ECONOMALI
 
-#### Art. 488
+## Art. 488
 
 Le entrate ordinarie e straordinarie della
 
@@ -11057,7 +11043,7 @@ liberazione della Corte dei conti, in ........ L. 18.582.568,22 delle quali furo
  ------------------
 ```
 
-#### Art. 489
+## Art. 489
 
 Le spese ordinarie e straordinarie della
 
@@ -11076,7 +11062,7 @@ conti, in .................................... L. 19.525.405,19 delle quali furo
  ------------------
 ```
 
-#### Art. 490
+## Art. 490
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -11089,7 +11075,7 @@ te, come dal conto consuntivo dell'Azienda, in L. 4.751.935,43 delle quali furon
  ------------------
 ```
 
-#### Art. 491
+## Art. 491
 
 Le spese rimaste da pagare alla chiusura
 
@@ -11102,7 +11088,7 @@ come dal conto consuntivo dell'Azienda, in ... L. 7.757.144,70 delle quali furon
  ------------------
 ```
 
-#### Art. 492
+## Art. 492
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -11127,7 +11113,7 @@ degli esercizi precedenti (art. 490) ......... " 1.100.891,84 somme riscosse e n
  ------------------
 ```
 
-#### Art. 493
+## Art. 493
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -11150,7 +11136,7 @@ esercizi precedenti (art. 491) ............... " 5.442.530,30
  ------------------
 ```
 
-#### Art. 494
+## Art. 494
 
 E' accertata nella somma di lire 1.527.719,05 la differenza attiva del conto finanziario dell'Azienda dei patrimoni riuniti ex economali alla fine dell'esercizio 1946-47, como risulta dai seguenti dati:
 
@@ -11192,7 +11178,7 @@ al 30 giugno 1947 .. " 4.751.935,43
 
 ## AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-#### Art. 495
+## Art. 495
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -11209,7 +11195,7 @@ l'esercizio medesimo, sono stabilite, in ..... L. 818.139.108,95 delle quali fur
  ------------------
 ```
 
-#### Art. 496
+## Art. 496
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -11226,7 +11212,7 @@ stabilite in ................................. L. 818.139.108,95 delle quali fur
  ------------------
 ```
 
-#### Art. 497
+## Art. 497
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -11239,7 +11225,7 @@ nate in ...................................... L. 199.891.769,71 delle quali fur
  ------------------
 ```
 
-#### Art. 498
+## Art. 498
 
 Le spese rimasto da pagare alla chiusura
 
@@ -11250,7 +11236,7 @@ dell'esercizio 1945-46 restano determinate in L. 401.553.796,51 delle quali furo
  ------------------
 ```
 
-#### Art. 499
+## Art. 499
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -11275,7 +11261,7 @@ del riepilogo dell'entrata) .................. " 79.671.942,15
  ------------------
 ```
 
-#### Art. 500
+## Art. 500
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -11298,7 +11284,7 @@ esercizi precedenti (art. 498) ............... " 293.283.316,58
  ------------------
 ```
 
-#### Art. 501
+## Art. 501
 
 E' accertata nella somma di lire 3.032.685,89 la differenza passiva del conto finanziario dell'Azienda di Stato per le foreste demaniali, alla fine dell'esercizio 1946-47, come risulta dai seguenti dati:
 
@@ -11327,7 +11313,7 @@ al 30 giugno 1947 .. " 401.553.796,51
  ------------------
 ```
 
-#### Art. 502
+## Art. 502
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, delle eccedenze d'impegni relative allo stato di previsione della spesa dell'Azienda per le foreste demaniali, per l'esercizio finanziario 1946-47, come dal dettaglio che segue:
 
@@ -11341,7 +11327,7 @@ Articolo n. 41. - ........ " 50.000 - -
 
 ## ARCHIVI NOTARILI
 
-#### Art. 503
+## Art. 503
 
 E approvato il conto consuntivo degli Ar-
 
@@ -11360,7 +11346,7 @@ Entrate .................................. L. 158.787.679,39 Spese .............
 
 ## CORPO DEGLI AGENTI DI CUSTODIA - DEGLI ISTITUTI DI PREVENZIONE E DI PENA
 
-#### Art. 504
+## Art. 504
 
 E approvato il conto consuntivo del Fondo
 
@@ -11383,7 +11369,7 @@ Entrate .................................. L. 1.046.207,66 Spese ...............
 
 ## ISTITUTO AGRONOMICO PER L'AFRICA ITALIANA
 
-#### Art. 505
+## Art. 505
 
 Le entrate dell'Istituto agronomico per la
 
@@ -11402,7 +11388,7 @@ conti, in .................................... L. 10.025.978 - delle quali risco
  ------------------
 ```
 
-#### Art. 506
+## Art. 506
 
 Le spese dell'Istituto predetto, accerta-
 
@@ -11419,7 +11405,7 @@ te dei conti, sono stabilite in .............. L. 10.025.978 - delle quali furon
  ------------------
 ```
 
-#### Art. 507
+## Art. 507
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -11432,7 +11418,7 @@ nate in ...................................... L. 985.000 - delle quali furono r
  ------------------
 ```
 
-#### Art. 508
+## Art. 508
 
 Le spese rimaste da pagare alla chiusura
 
@@ -11443,7 +11429,7 @@ dell'esercizio 19415-46 restano determinate in L. 1.792.189,46 delle quali furon
  ------------------
 ```
 
-#### Art. 509
+## Art. 509
 
 I residui attivi alla chiusura dell'eser-
 
@@ -11468,7 +11454,7 @@ del riepilogo dell'entrata) ..................
  ------------------
 ```
 
-#### Art. 510
+## Art. 510
 
 I residui passivi alla chiusura dell'eser-
 
@@ -11491,7 +11477,7 @@ esercizi precedenti (articolo 508) ........... " 945.451,46
  ------------------
 ```
 
-#### Art. 511
+## Art. 511
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, dell'eccedenza d'impegni relativi ai seguenti articoli dello stato di previsione della spesa dell'Istituto agronomico dell'Africa italiana, per l'esercizio finanziario 1946-47.
 
@@ -11515,7 +11501,7 @@ Articolo n. 17. - ........ " 11.129 - -
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE STATALI
 
-#### Art. 512
+## Art. 512
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -11536,7 +11522,7 @@ bilite in .................................... L. 24.056.213.589,98 delle quali 
  ------------------
 ```
 
-#### Art. 513
+## Art. 513
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -11555,7 +11541,7 @@ te dei conti sono stabilite in ............... L. 24.056.213.589,98 dalle quali 
  ------------------
 ```
 
-#### Art. 514
+## Art. 514
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -11578,7 +11564,7 @@ del conto consuntivo) ........................ " -
  ------------------
 ```
 
-#### Art. 515
+## Art. 515
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -11601,7 +11587,7 @@ finanziario 1946-47 (articolo 513) ........... L. 17.579.173.200,10
 
 ## AZIENDA AUTONOMA DELLE POSTE E DEI TELEGRAFI
 
-#### Art. 516
+## Art. 516
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -11624,7 +11610,7 @@ in data 9 gennaio 1953, in ................... L. 27.207.514.212,81 delle quali 
  ------------------
 ```
 
-#### Art. 517
+## Art. 517
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -11645,7 +11631,7 @@ lite, in ..................................... L. 27.207.514.212,81 delle quali 
  ------------------
 ```
 
-#### Art. 518
+## Art. 518
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -11658,7 +11644,7 @@ nate in ...................................... L. 3.825.881.643,56 delle quali f
  ------------------
 ```
 
-#### Art. 519
+## Art. 519
 
 Le spese rimaste da pagare alla chiusura
 
@@ -11669,7 +11655,7 @@ dell'esercizio 1945-46 restano determinate in L. 4.725.721.321,11 delle quali fu
  ------------------
 ```
 
-#### Art. 520
+## Art. 520
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -11692,7 +11678,7 @@ degli esercizi precedenti (articolo 518) ..... " 597.703.232,37
  ------------------
 ```
 
-#### Art. 521
+## Art. 521
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -11715,7 +11701,7 @@ esercizi precedenti (articolo 519) ........... " 1.321.947.283,96
  ------------------
 ```
 
-#### Art. 522
+## Art. 522
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, delle eccedenze d'impegni relative allo stato di previsione della spesa dell'Azienda autonoma delle poste e dei telegrafi per l'esercizio finanziario 1946-47, come dal dettaglio che segue:
 
@@ -11737,7 +11723,7 @@ Capitolo n. 52. - ........ " 2.166.928,25 -
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-#### Art. 523
+## Art. 523
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -11760,7 +11746,7 @@ dei conti a sezioni riunite in data 9 gennaio
  ------------------
 ```
 
-#### Art. 524
+## Art. 524
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -11779,7 +11765,7 @@ zio medesimo, sono stabilite in .............. L. 4.450.021.619,47 delle quali f
  ------------------
 ```
 
-#### Art. 525
+## Art. 525
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -11792,7 +11778,7 @@ nate in ...................................... L. 1.112.843.286,92 dello quali f
  ------------------
 ```
 
-#### Art. 526
+## Art. 526
 
 Le spese rimaste da pagare alla chiusura
 
@@ -11803,7 +11789,7 @@ dell'esercizio 1945-46 restano determinate in L. 1.656.240.824,02 delle quali fu
  ------------------
 ```
 
-#### Art. 527
+## Art. 527
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -11826,7 +11812,7 @@ degli esercizi precedenti (articolo 525) ..... " 156.639.455,72
  ------------------
 ```
 
-#### Art. 528
+## Art. 528
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -11849,13 +11835,13 @@ esercizi precedenti (articolo 526) ........... " 1.447.681.727,62
  ------------------
 ```
 
-#### Art. 529
+## Art. 529
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, della eccedenza d'impegni di lire 4.150.937,40 relativa al capitolo n. 42 dello stato di previsione della spesa dell'Azienda di Stato per i servizi telefonici, per l'esercizio finanziario 1946-47.
 
 ## AMMINISTRAZIONE DELLE FERROVIE DELLO STATO
 
-#### Art. 530
+## Art. 530
 
 Le entrate ordinarie e straordinarie del
 
@@ -11884,7 +11870,7 @@ stione in lire 31.221.731.096,53, in totale .. L. 398.423.826.557,48 delle quali
  ------------------
 ```
 
-#### Art. 531
+## Art. 531
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -11907,7 +11893,7 @@ stabilite in ................................. L. 398.423.826.557,48 delle quali
  ------------------
 ```
 
-#### Art. 532
+## Art. 532
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione delle ferrovie dello Stato, di competenza dell'esercizio finanziario 1946-47, rimane cosi' stabilito:
 
@@ -11945,7 +11931,7 @@ Spesa ..................................... L. 6.908.563.323,55 Entrata ........
  ------------------
 ```
 
-#### Art. 533
+## Art. 533
 
 Le entrate rimaste da riscuotere alla chiu
 
@@ -11958,7 +11944,7 @@ nate in ...................................... L. 59.300.298.985,13 delle quali 
  ------------------
 ```
 
-#### Art. 534
+## Art. 534
 
 Le spese rimaste da pagare alla chiusura
 
@@ -11972,7 +11958,7 @@ determinata in ............................... L. 60.614.217.431,35 delle quali 
 
 ------------------
 
-#### Art. 535
+## Art. 535
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -11995,7 +11981,7 @@ degli esercizi precedenti (articolo 533)...... " 38.323.644.655,00
  ------------------
 ```
 
-#### Art. 536
+## Art. 536
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -12018,7 +12004,7 @@ esercizi precedenti (articolo 534) ........... " 23.787.187.211,36
  ------------------
 ```
 
-#### Art. 537
+## Art. 537
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti delle eccedenze d'impegni relative allo stato di previsione della spesa dell'Amministrazione delle Ferrovie dello Stato, per l'esercizio finanziario 1946-47, come dal dettaglio che segue:
 
@@ -12142,11 +12128,9 @@ Capitolo n. 146. - ....... " 2.025.574.750,10 -
 
 Capitolo n. 147. - ....... " 262.391.270,18 -
 
-## Rendiconto generale dell'Amministrazione dello Stato - Esercizio finanziario 1947-48
+## Rendiconto generale dell'Amministrazione dello Stato - Esercizio finanziario 1947-48 ENTRATE E SPESE DI COMPETENZA
 
-### ENTRATE E SPESE DI COMPETENZA
-
-#### Art. 538
+## Art. 538
 
 Le entrate ordinarie e straordinarie dello
 
@@ -12165,7 +12149,7 @@ conti del 9 gennaio 1953, in ................. L. 991.140.461.484,87 delle quali
  ------------------
 ```
 
-#### Art. 539
+## Art. 539
 
 Le spese ordinarie, straordinarie e per ge-
 
@@ -12184,7 +12168,7 @@ ne della Corte dei conti, in ................ L. 1.906.855.363.512,53 delle qual
  --------------------
 ```
 
-#### Art. 540
+## Art. 540
 
 Il riassunto generale dei risultati delle
 
@@ -12222,7 +12206,7 @@ Spesa .................................. " 5.625.338.988,01
 
 ## ENTRATE E SPESE RESIDUE DELL'ESERCIZIO 1946-47 - ED ESERCIZI PRECEDENTI
 
-#### Art. 541
+## Art. 541
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -12235,7 +12219,7 @@ nate in ...................................... L. 103.585.551.089,72 delle quali
  ------------------
 ```
 
-#### Art. 542
+## Art. 542
 
 Le spese rimaste da pagare alla chiusura
 
@@ -12248,7 +12232,7 @@ dell'esercizio 1946-47 restano determinate, in L. 628.540.594.578,32 delle quali
 
 ## RESIDUI ATTIVI E PASSIVI - ALLA CHIUSURA DELL'ESERCIZIO FINANZIARIO 1947-48
 
-#### Art. 543
+## Art. 543
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -12273,7 +12257,7 @@ degli esercizi precedenti (articolo 541) ..... " 72.472.078.658,15 somme riscoss
  ------------------
 ```
 
-#### Art. 544
+## Art. 544
 
 I residui passivi alla chiusura dell'eser-
 
@@ -12298,7 +12282,7 @@ gli esercizi precedenti (articolo 542) ..... " 311.567.036.178,42
 
 ## SITUAZIONE FINANZIARIA
 
-#### Art. 545
+## Art. 545
 
 E' accertato nella somma di lire 2.387.980.761.039,19 il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 1947-48 come risulta dai seguenti dati:
 
@@ -12345,7 +12329,7 @@ bilita generale ............................ " 63.788,88
 
 ## DISPOSIZIONI SPECIALI
 
-#### Art. 546
+## Art. 546
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, delle eccedenze d'impegni relative ai capitoli degli stati di previsione della spesa dei Ministeri sottoindicati per l'esercizio finanziario 1947-48, come dal dettaglio che segue;
 
@@ -12401,7 +12385,7 @@ personale, ecc.......... " - 14.717.782,11
 
 ## AMMINISTRAZIONI ED AZIENDE SPECIALI - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-#### Art. 547
+## Art. 547
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -12420,7 +12404,7 @@ dalla deliberazione della Corte dei conti, in L. 82.029.199.431,57 delle quali f
  ------------------
 ```
 
-#### Art. 548
+## Art. 548
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -12443,7 +12427,7 @@ lire 11.657.402.386,56 in totale ............. L. 82.029.199.431,57 delle quali 
  ------------------
 ```
 
-#### Art. 549
+## Art. 549
 
 Le entrate del bilancio dell'Amministrazione
 
@@ -12456,7 +12440,7 @@ dell'esercizio 1946-47 restano determinate in L. 21.601.253.555,80 delle quali f
  ------------------
 ```
 
-#### Art. 550
+## Art. 550
 
 Le spese del bilancio dell'Amministrazione
 
@@ -12469,7 +12453,7 @@ l'esercizio 1946-47, restano determinate in .. L. 22.975.132.687,50 delle quali 
  ------------------
 ```
 
-#### Art. 551
+## Art. 551
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -12494,7 +12478,7 @@ riepilogo dell'entrata) ...................... " 442.576.278,84
  ------------------
 ```
 
-#### Art. 552
+## Art. 552
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -12517,7 +12501,7 @@ esercizi precedenti (articolo 550) ........... " 6.214.635.877,70
  ------------------
 ```
 
-#### Art. 553
+## Art. 553
 
 La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dell'esercizio finanziario 1947-48, risulta come appresso:
 
@@ -12557,7 +12541,7 @@ al 30 giugno 1948 .. " 22.975.132.687,50
 
 ## FONDO DI MASSA - DEL CORPO DELLA GUARDIA DI FINANZA
 
-#### Art. 554
+## Art. 554
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -12578,7 +12562,7 @@ conti, in .................................... L. 1.937.917.956,43 delle quali f
  ------------------
 ```
 
-#### Art. 555
+## Art. 555
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -12597,7 +12581,7 @@ te dei conti, sono stabilite in .............. L. 1.863.538.230,07 nelle quali f
  ------------------
 ```
 
-#### Art. 556
+## Art. 556
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -12610,7 +12594,7 @@ stano determinate in ......................... L. 264.433.547,15 delle quali fur
  ------------------
 ```
 
-#### Art. 557
+## Art. 557
 
 Le spese rimaste da pagare alla chiusura
 
@@ -12623,7 +12607,7 @@ determinate in ............................... L. 476.724.688,70 delle quali fur
  ------------------
 ```
 
-#### Art. 558
+## Art. 558
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -12648,7 +12632,7 @@ del riepilogo dell'entrata) .................. " -
  ------------------
 ```
 
-#### Art. 559
+## Art. 559
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -12671,7 +12655,7 @@ esercizi precedenti (articolo 557) ........... " 320.579.797,94
  ------------------
 ```
 
-#### Art. 560
+## Art. 560
 
 E' accertata nella somma di lire 148.972.942,47 la differenza attiva del conto finanziario del Fondo di massa del Corpo della guardia di finanza alla fine dell'esercizio 1947-48, risultante dai seguenti dati:
 
@@ -12712,7 +12696,7 @@ al 30 giugno 1948 .. " 264.433.547,15
  ------------------
 ```
 
-#### Art. 561
+## Art. 561
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti delle eccedenze d'impegni relative ai capitoli dello stato di previsione della spesa del Fondo di massa del Corpo della guardia di finanza, per l'esercizio finanziario 1947-48, come dal dettaglio che segue:
 
@@ -12732,7 +12716,7 @@ Capitolo n. 35. - ........ " 0,85 -
 
 ## AZIENDA MONOPOLIO BANANE
 
-#### Art. 562
+## Art. 562
 
 Le entrate ordinarie e straordinarie della
 
@@ -12751,7 +12735,7 @@ la Corte dei conti, in ....................... L. 37.742.413,26 delle quali furo
  ------------------
 ```
 
-#### Art. 563
+## Art. 563
 
 Le spese ordinarie e straordinarie della
 
@@ -12770,7 +12754,7 @@ bilite in .................................... L. 37.742.443,26 delle quali furo
  ------------------
 ```
 
-#### Art. 564
+## Art. 564
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -12783,7 +12767,7 @@ nate in ...................................... L. 32.137.221,81 delle quali furo
  ------------------
 ```
 
-#### Art. 565
+## Art. 565
 
 Le spese rimaste da pagare alla chiusura
 
@@ -12794,7 +12778,7 @@ dell'esercizio 1946-47 restano determinate in L. 51.214.204,40 delle quali furon
  ------------------
 ```
 
-#### Art. 566
+## Art. 566
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -12819,7 +12803,7 @@ del riepilogo dell'entrata) .................. " -
  ------------------
 ```
 
-#### Art. 567
+## Art. 567
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -12842,13 +12826,13 @@ esercizi precedenti (articolo 565) ........... " 47.353.864,40
  ------------------
 ```
 
-#### Art. 568
+## Art. 568
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti della eccedenza d'impegni, di lire 176.498,95 relativa all'articolo n. 5 dello stato di previsione della spesa dell'Azienda monopolio banane per l'esercizio finanziario 1947-48.
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-#### Art. 569
+## Art. 569
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -12869,7 +12853,7 @@ conti, in .................................... L. 1.229.147.835,48 delle quali f
  ------------------
 ```
 
-#### Art. 570
+## Art. 570
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -12886,7 +12870,7 @@ stabilite in ................................. L. 1.287.045.712,83 delle quali f
  ------------------
 ```
 
-#### Art. 571
+## Art. 571
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -12899,7 +12883,7 @@ nate in ...................................... L. 1.088.979.552,59 delle quali f
  ------------------
 ```
 
-#### Art. 572
+## Art. 572
 
 Le spese rimaste da pagare alla chiusura
 
@@ -12910,7 +12894,7 @@ dell'esercizio 1946-47 restano determinate in L. 374.762.374,43 delle quali furo
  ------------------
 ```
 
-#### Art. 573
+## Art. 573
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -12935,7 +12919,7 @@ del riepilogo dell'entrata) .................. " 201.206,55
  ------------------
 ```
 
-#### Art. 574
+## Art. 574
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -12958,7 +12942,7 @@ esercizi precedenti (articolo 572) ........... " 322.264.620,92
  ------------------
 ```
 
-#### Art. 575
+## Art. 575
 
 E' accertata la somma di lire 10.745.995,22 la differenza attiva del conto finanziario dell'Amministrazione del Fondo per il culto alla fine dell'esercizio 1947-48, come risulta dai seguenti dati:
 
@@ -12993,13 +12977,13 @@ al 30 giugno 1948 .. " 1.088.979.552,59
  ------------------
 ```
 
-#### Art. 576
+## Art. 576
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, della eccedenza d'impegni di lire 4.601.340,32 relativa al capitolo n. 45 dello stato di previsione della spesa della Amministrazione del Fondo per il culto per l'esercizio finanziario 1947-48.
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-#### Art. 577
+## Art. 577
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -13020,7 +13004,7 @@ conti, in .................................... L. 18.246.850,27 delle quali furo
  ------------------
 ```
 
-#### Art. 578
+## Art. 578
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -13039,7 +13023,7 @@ te dei conti, sono stabilite in .............. L. 18.682.482,48 delle quali furo
  ------------------
 ```
 
-#### Art. 579
+## Art. 579
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -13052,7 +13036,7 @@ restano determinate in ....................... L. 12.885.299,47 delle quali furo
  ------------------
 ```
 
-#### Art. 580
+## Art. 580
 
 Le spese rimaste da pagare alla chiusura
 
@@ -13063,7 +13047,7 @@ dell'esercizio 1946-47 restano determinate in L. 13.655.365,22 delle quali furon
  ------------------
 ```
 
-#### Art. 581
+## Art. 581
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -13088,7 +13072,7 @@ del riepilogo dell'entrata) .................. " 6.559,89
  ------------------
 ```
 
-#### Art. 582
+## Art. 582
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -13111,7 +13095,7 @@ esercizi precedenti (articolo 580) ........... " 9.808.055,89
  ------------------
 ```
 
-#### Art. 583
+## Art. 583
 
 E' accertata nella somma di lire 90.441,39 la differenza attiva del conto finanziario del Fondo di beneficenza e di religione della citta' di Roma, alla fine dell'esercizio 1947-48, come risulta dai seguenti dati:
 
@@ -13151,7 +13135,7 @@ al 30 giugno 1948 .. " 12.885.299,47
 
 ## AZIENDA DEI PATRIMONI RIUNITI EX ECONOMALI
 
-#### Art. 584
+## Art. 584
 
 Le entrate ordinarie e straordinarie della
 
@@ -13170,7 +13154,7 @@ liberazione della Corte dei conti, in ........ L. 36.372.131,41 delle quali furo
  ------------------
 ```
 
-#### Art. 585
+## Art. 585
 
 Le spese ordinarie e straordinarie della
 
@@ -13189,7 +13173,7 @@ conti, in .................................... L. 36.235.229,21 delle quali furo
  ------------------
 ```
 
-#### Art. 586
+## Art. 586
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -13202,7 +13186,7 @@ te, come dal conto consuntivo dell'Azienda, in L. 12.946.371,57 delle quali furo
  ------------------
 ```
 
-#### Art. 587
+## Art. 587
 
 Le spese rimaste da pagare alla chiusura
 
@@ -13215,7 +13199,7 @@ come dal conto consuntivo dell'Azienda, in ... L. 15.788.843,35 delle quali furo
  ------------------
 ```
 
-#### Art. 588
+## Art. 588
 
 I residui attivi alla chiusura dall'eserci-
 
@@ -13240,7 +13224,7 @@ degli esercizi precedenti (articolo 586) ..... " 1.276.086,21 somme riscosse e n
  ------------------
 ```
 
-#### Art. 589
+## Art. 589
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -13263,7 +13247,7 @@ esercizi precedenti (articolo 587) ........... " 10.049.950,35
  ------------------
 ```
 
-#### Art. 590
+## Art. 590
 
 E' accertata nella somma di lire 2.257.577,94 la differenza attiva del conto finanziario dell'Azienda dei patrimoni riuniti ex economali alla fine dell'esercizio 1947-48, come risulta dai seguenti dati:
 
@@ -13301,13 +13285,13 @@ al 30 giugno 1948 .. " 12.946.371,57
  ------------------
 ```
 
-#### Art. 591
+## Art. 591
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti della eccedenza d'impegni di lire 23.816,24 relativa al capitolo n. 29 dello stato di previsione della spesa della Azienda dei patrimoni riuniti ex economali per l'esercizio finanziario 1947-48.
 
 ## AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-#### Art. 592
+## Art. 592
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -13328,7 +13312,7 @@ conti, in .................................... L. 954.336.555,87 delle quali fur
  ------------------
 ```
 
-#### Art. 593
+## Art. 593
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -13347,7 +13331,7 @@ ne, sono stabilite in ........................ L. 954.336.555,87 delle quali fur
  ------------------
 ```
 
-#### Art. 594
+## Art. 594
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -13360,7 +13344,7 @@ nate in ...................................... L. 380.541.946,80 delle quali fur
  ------------------
 ```
 
-#### Art. 595
+## Art. 595
 
 Le spese rimaste da pagare alla chiusura
 
@@ -13371,7 +13355,7 @@ dell'esercizio 1946-47 restano determinate in L. 830.820.485,53 delle quali furo
  ------------------
 ```
 
-#### Art. 596
+## Art. 596
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -13396,7 +13380,7 @@ del riepilogo dell'entrata) .................. " 146.280.230, 95
  ------------------
 ```
 
-#### Art. 597
+## Art. 597
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -13419,7 +13403,7 @@ esercizi precedenti (articolo 595) ........... " 631.444.202,98
  ------------------
 ```
 
-#### Art. 598
+## Art. 598
 
 E' accertata nella somma di lire 11.947.605,24 la differenza passiva del conto finanziario dell'Azienda di Stato per le foreste demaniali, alla fine dell'esercizio 1947-48, come risulta dai seguenti dati:
 
@@ -13457,7 +13441,7 @@ al 30 giugno 1948 .. " 380.541.946,80
  ------------------
 ```
 
-#### Art. 599
+## Art. 599
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, delle eccedenze d'impegni relative allo stato di previsione della spesa dell'Azienda per le foreste demaniali, per l'esercizio finanziario 1947-48, come dal dettaglio che segue:
 
@@ -13471,7 +13455,7 @@ Articolo n. 40. - ........ " 412.500 - -
 
 ## ARCHIVI NOTARILI
 
-#### Art. 600
+## Art. 600
 
 E approvato il conto consuntivo degli Ar-
 
@@ -13490,7 +13474,7 @@ Entrate .................................. L. 251.209.012,70 Spese .............
 
 ## CORPO DEGLI AGENTI DI CUSTODIA - DEGLI ISTITUTI DI PREVENZIONE E DI PENA
 
-#### Art. 601
+## Art. 601
 
 E approvato il conto consuntivo del Fondo
 
@@ -13511,7 +13495,7 @@ Entrate .................................. L. 4.753.722,24 Spese ...............
 
 ## ISTITUTO AGRONOMICO PER L'AFRICA ITALIANA
 
-#### Art. 602
+## Art. 602
 
 Le entrate dell'Istituto agronomico per la
 
@@ -13530,7 +13514,7 @@ conti, in .................................... L. 17.252.314,95 delle quali furo
  ------------------
 ```
 
-#### Art. 603
+## Art. 603
 
 Le spese dell'Istituto predetto, accertate
 
@@ -13547,7 +13531,7 @@ conti, sono stabilite in ..................... L. 19.555.521,31 delle quali furo
  ------------------
 ```
 
-#### Art. 604
+## Art. 604
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -13560,7 +13544,7 @@ nate in ...................................... L. 2.739.690 - delle quali furono
  ------------------
 ```
 
-#### Art. 605
+## Art. 605
 
 Le spese rimaste da pagare alla chiusura
 
@@ -13571,7 +13555,7 @@ dell'esercizio 1946-47, restano determinate in L. 2.705.217,06 delle quali furon
  ------------------
 ```
 
-#### Art. 606
+## Art. 606
 
 I residui attivi alla chiusura dell'esercizio 1947-48, quali risultano dalla deliberazione della Corte dei conti, sono stabiliti nelle seguenti somme:
 
@@ -13595,7 +13579,7 @@ riepilogo dell'entrata)....................... -
  ---------------- --
 ```
 
-#### Art. 607
+## Art. 607
 
 I residui passivi alla chiusura dell'esercizio 1947-48, quali risultano dalla deliberazione della Corte dei conti, sono stabiliti nelle seguenti somme:
 
@@ -13615,7 +13599,7 @@ sercizi precedenti (articolo 605)............. " 981.464,9 1
  ---------------- --
 ```
 
-#### Art. 608
+## Art. 608
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, delle eccedenze d'impegni relative agli articoli dello stato di previsione della spesa dell'Istituto agronomico per l'Africa italiana, per l'esercizio finanziario 1947-48, come dal dettaglio che segue:
 
@@ -13645,7 +13629,7 @@ Articolo n. 17. -.......... " 15.889,80 -
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE STATALI
 
-#### Art. 609
+## Art. 609
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -13666,7 +13650,7 @@ bilite in..................................... L. 30.651.096.884,69 delle quali 
  ------------------
 ```
 
-#### Art. 610
+## Art. 610
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -13685,7 +13669,7 @@ no stabilite in............................... L. 80.651.096.884,69 delle quali 
  ------------------
 ```
 
-#### Art. 611
+## Art. 611
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -13698,7 +13682,7 @@ nate in....................................... L. 11.292.662.033,38 delle quali 
  ------------------
 ```
 
-#### Art. 612
+## Art. 612
 
 Le spese rimaste da pagare alla chiusura
 
@@ -13709,7 +13693,7 @@ dell'esercizio 1946-47 restano determinate in. L. 17.578.341.808,38 delle quali 
  ------------------
 ```
 
-#### Art. 613
+## Art. 613
 
 I residui attivi alla chiusura dell'esercizio 1947-48, quali risultano dalla deliberazione della Corte dei conti, sono stabiliti nelle seguenti somme:
 
@@ -13733,7 +13717,7 @@ riepilogo dell'entrata)....................... -
  ---------------- --
 ```
 
-#### Art. 614
+## Art. 614
 
 I residui passivi alla chiusura dell'esercizio 1947-48, quali risultano dalla deliberazione della Corte dei conti, sono stabiliti nelle seguenti somme:
 
@@ -13755,7 +13739,7 @@ sercizi precedenti (articolo 612)............. " 6.404.750.563, 31
 
 ## AZIENDA AUTONOMA DELLE POSTE E DEI TELEGRAFI
 
-#### Art. 615
+## Art. 615
 
 Le entrate ordinarie e straordinarie del bi-
 
@@ -13776,7 +13760,7 @@ nite in data 21 gennaio 1957, in.............. L. 46.745.057.019,32 delle quali 
  ------------------
 ```
 
-#### Art. 616
+## Art. 616
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -13795,7 +13779,7 @@ stabilite in ................................. L. 46.745.057.019,32 delle quali 
  ------------------
 ```
 
-#### Art. 617
+## Art. 617
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -13808,7 +13792,7 @@ nate in ...................................... L. 8.948.810.776,33 delle quali f
  ------------------
 ```
 
-#### Art. 618
+## Art. 618
 
 Le spese rimaste da pagare alla chiusura
 
@@ -13819,7 +13803,7 @@ dell'esercizio 1946-47 restano determinate in L. 11.153.085.617,75 delle quali f
  ------------------
 ```
 
-#### Art. 619
+## Art. 619
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -13842,7 +13826,7 @@ degli esercizi precedenti (articolo 617) ..... " 439.934.435,37
  ------------------
 ```
 
-#### Art. 620
+## Art. 620
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -13866,7 +13850,7 @@ esercizi precedenti (articolo 619) ........... " 4.818.179.801,39
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-#### Art. 621
+## Art. 621
 
 Le entrate ordinarie e straordinarie del
 
@@ -13889,7 +13873,7 @@ conti a sezioni riunite in data 21 gennaio
  ------------------
 ```
 
-#### Art. 622
+## Art. 622
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -13908,7 +13892,7 @@ medesimo, sono stabilite in .................. L. 8.565.784.894,97 delle quali f
  ------------------
 ```
 
-#### Art. 623
+## Art. 623
 
 Le entrate rimaste da riscuotere alla chiu-
 
@@ -13921,7 +13905,7 @@ nate in ...................................... L. 2.749.923.852,22 delle quali f
  ------------------
 ```
 
-#### Art. 624
+## Art. 624
 
 Le spese rimaste da pagare alla chiusura
 
@@ -13932,7 +13916,7 @@ dell'esercizio 1946-47 restano determinate in L. 4.836.977.286,15 delle quali fu
  ------------------
 ```
 
-#### Art. 625
+## Art. 625
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -13957,7 +13941,7 @@ riassunto) ................................... " 126.377.736,05
  ------------------
 ```
 
-#### Art. 626
+## Art. 626
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -13980,13 +13964,13 @@ esercizi precedenti (articolo 624) ........... " 3.603.651.777,18
  ------------------
 ```
 
-#### Art. 627
+## Art. 627
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, della eccedenza d'impegni di lire 4.050.978,20 relativa al capitolo n. 39 dello stato di previsione della spesa dell'Azienda di Stato per i servizi telefonici, per l'esercizio finanziario 1947-48.
 
 ## AMMINISTRAZIONE DELLE FERROVIE DELLO STATO
 
-#### Art. 628
+## Art. 628
 
 Le entrate ordinarie e straordinarie del
 
@@ -14015,7 +13999,7 @@ stione in lire 61.220.325.050,90, in totale .. L. 616.949.928.024,89 delle quali
  ------------------
 ```
 
-#### Art. 629
+## Art. 629
 
 Le spese ordinarie e straordinarie del bi-
 
@@ -14038,7 +14022,7 @@ stabilite in ................................. L. 616.949.928.024,89 delle quali
  ------------------
 ```
 
-#### Art. 630
+## Art. 630
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione delle Ferrovie dello Stato, di competenza dell'esercizio finanziario 1947-48, rimane cosi' stabilito:
 
@@ -14071,7 +14055,7 @@ Tesoro) ................................ " 15.330.503.605,95
  ------------------
 ```
 
-#### Art. 631
+## Art. 631
 
 Le entrate rimaste da riscuotere alla chiu
 
@@ -14084,7 +14068,7 @@ nate in ...................................... L. 129.258.158.478,39 delle quali
  ------------------
 ```
 
-#### Art. 632
+## Art. 632
 
 Le spese rimaste da pagare alla chiusura
 
@@ -14095,7 +14079,7 @@ dell'esercizio 1946-47 restano determinate in L. 121.927.741.759,18 delle quali 
  ------------------
 ```
 
-#### Art. 633
+## Art. 633
 
 I residui attivi alla chiusura dell'eserci-
 
@@ -14118,7 +14102,7 @@ degli esercizi precedenti (articolo 631) ..... " 86.107.936.742,28
  ------------------
 ```
 
-#### Art. 634
+## Art. 634
 
 I residui passivi alla chiusura dell'eserci-
 
@@ -14141,7 +14125,7 @@ esercizi precedenti (articolo 632) ........... " 81.516.628.145,59
  ------------------
 ```
 
-#### Art. 635
+## Art. 635
 
 E' data sanatoria, in conformita' della deliberazione della Corte dei conti, delle eccedenze d'impegni relative allo stato di previsione della spesa dell'Amministrazione delle ferrovie dello Stato, per l'esercizio finanziario 1947-48, come dal dettaglio che segue:
 

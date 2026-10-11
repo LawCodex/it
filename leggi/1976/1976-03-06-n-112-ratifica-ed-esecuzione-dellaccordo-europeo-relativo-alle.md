@@ -25,11 +25,11 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare l'accordo europeo relativo alle prestazioni lavorative degli equipaggi dei veicoli addetti ai trasporti internazionali su strada (AETR), con allegato e protocollo, firmato a Ginevra il 1 luglio 1970.
 
-### Art. 2
+## Art. 2
 
 Piena ed intera esecuzione e' data all'accordo di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 16 dell'accordo stesso.
 
@@ -45,7 +45,7 @@ Visto, il Guardasigilli: BONIFACIO
 
 ## Allegati
 
-### Accord
+## Accord
 
 ACCORD
 
@@ -69,7 +69,7 @@ Convinte della necessita' di accrescere la sicurezza della circolazione stradale
 
 Hanno convenuto quanto segue:
 
-### ARTICOLO 1
+## ARTICOLO 1
 
 Definizioni
 
@@ -119,7 +119,7 @@ n) per "periodo fuori servizio", qualsiasi periodo ininterrotto di almeno 15 min
 
 o) per "attivita' professionali", le attivita' rappresentate sotto i simboli delle voci 6, 7 e 7a del foglio quotidiano del libretto individuale di controllo che figura nell'Allegato al presente Accordo:
 
-### ARTICOLO 2
+## ARTICOLO 2
 
 Campo di applicazione
 
@@ -137,7 +137,7 @@ c) due Parti Contraenti i cui territori sono limitrofi possono concordare che le
 
 d) le Parti Contraenti possono convenire che le disposizioni della legislazione nazionale dello Stato in cui e' immatricolato il veicolo, nonche' quelle delle sentenze arbitrali e delle convenzioni collettive in vigore di detto. Stato, siano le sole applicabili a certi trasporti internazionali su strada - limitati ai loro territori e il cui percorso, a partire dal punto di partenza fino al punto d'arrivo del veicolo, sia inferiore ai 100 chilometri, - nonche' ai servizi regolari di viaggiatori.
 
-### ARTICOLO 3
+## ARTICOLO 3
 
 Applicazione di alcune disposizioni dell'Accordo ai trasporti su strada effettuati da veicoli provenienti da Stati non Parti Contraenti
 
@@ -149,7 +149,7 @@ a) ai trasporti internazionali su strada di merci effettuati da un veicolo il cu
 
 b) ai trasporti internazionali su strada limitati al proprio territorio e a quello di uno Stato limitrofo non Parte Contraente del presente Accordo qualora il veicolo in questione non esca, sul suo territorio, da una zona contigua alla frontiera, definita come zona di frontiera o qualora esso non tocchi il suo territorio che in transito.
 
-### ARTICOLO 4
+## ARTICOLO 4
 
 Principii generali
 
@@ -159,7 +159,7 @@ Nella misura in cui le norme cosi' applicabili non siano almeno altrettanto rigi
 
 2\. Salvo accordi particolari tra le Parti Contraenti in causa o salvo nella misura in cui, in applicazione del paragrafo 2 dell'articolo 2 del presente Accordo, talune disposizioni del presente Accordo non vengano applicate, nessuna Parte Contraente imporra' il rispetto delle norme della propria legislazione nazionale riguardanti le materie trattate nel presente Accordo alle imprese di un'altra Parte Contraente o ai membri dell'equipaggio dei veicoli immatricolati da un'altra Parte Contraente, quando tali norme siano piu' rigide di quelle risultanti dal presente Accordo.
 
-### ARTICOLO 5
+## ARTICOLO 5
 
 Requisiti richiesti ai conducenti
 
@@ -187,7 +187,7 @@ Tuttavia, nel caso di conducenti aventi meno di 21 anni compiuti, ogni Parte Con
 
 Devono possedere un'esperienza sufficiente e le qualifiche indispensabili all'esecuzione dei servizi richiesti.
 
-### ARTICOLO 6
+## ARTICOLO 6
 
 Riposo giornaliero
 
@@ -209,7 +209,7 @@ b) Il libretto individuale di controllo contemplato dall'articolo 12 del present
 
 5\. I periodi di riposo menzionati nel presente articolo saranno presi al di fuori del veicolo; tuttavia, se il veicolo ha una cuccetta che consenta ai membri dell'equipaggio di distendersi in maniera confortevole, tale riposo potra' essere preso su tale cuccetta, a condizione che il veicolo sia fermo.
 
-### ARTICOLO 7
+## ARTICOLO 7
 
 Durata giornaliera di guida, durata massima di guida per settimana e durante due settimane consecutive
 
@@ -219,7 +219,7 @@ Durata giornaliera di guida, durata massima di guida per settimana e durante due
 
 3\. La durata di guida non puo' superare ne' 48 ore nel corso di una settimana, ne' 92 ore nel corso di due settimane consecutive.
 
-### ARTICOLO 8
+## ARTICOLO 8
 
 Durata massima di guida continuata
 
@@ -239,7 +239,7 @@ c) Quando la durata giornaliera di guida supera le 8 ore, il conducente e' tenut
 
 4\. Nel corso delle interruzioni previste nei paragrafi 2 o 3 del presente articolo, il conducente non deve esercitare alcuna attivita' professionale che non sia la sorveglianza del veicolo e del suo carico. Tuttavia, se a bordo del veicolo vi sono due conducenti, e' sufficiente, per soddisfare alle disposizioni dei paragrafi 2 o 3 del presente articolo, che il conducente che beneficia dell'interruzione di guida non eserciti nessuna delle attivita' raffigurate con un simbolo nella rubrica 7a del foglio quotidiano del libretto individuale di controllo previsto nell'articolo 12 del presente Accordo.
 
-### ARTICOLO 9
+## ARTICOLO 9
 
 Riposo settimanale
 
@@ -249,7 +249,7 @@ Riposo settimanale
 
 b) La disposizione del presente paragrafo non e' applicabile ai membri dell'equipaggio di veicoli destinati ai servizi regolari di viaggiatori.
 
-### ARTICOLO 10
+## ARTICOLO 10
 
 Composizione dell'equipaggio
 
@@ -261,13 +261,13 @@ b) un complesso di veicoli destinato al trasporto di viaggiatori quando il peso 
 
 c) un complesso di veicoli destinato al trasporto di merci quando il peso massimo autorizzato del complesso dei veicoli supera le 20 tonnellate, il conducente deve essere accompagnato da un altro conducente sin dall'inizio del viaggio oppure essere sostituito da un altro conducente dopo 450 chilometri, se la distanza da percorrere tra due periodi consecutivi di riposo giornaliero supera 450 chilometri.
 
-### ARTICOLO 11
+## ARTICOLO 11
 
 Casi eccezionali
 
 A condizione di non compromettere la sicurezza della circolazione stradale, il conducente puo' derogare alle disposizioni degli articoli 6, 7, 8 e 10 del presente Accordo in caso di pericolo, in caso di forza maggiore, per portare soccorso o in seguito a un guasto, nella misura necessaria ad assicurare la sicurezza delle persone, del veicolo e del suo carico ed a consentirgli di raggiungere un luogo di fermata appropriato o, secondo le circostanze, il termine del suo viaggio. Il conducente deve menzionare il genere e il motivo della deroga nel libretto individuale di controllo.
 
-### ARTICOLO 12
+## ARTICOLO 12
 
 Libretto individuale di controllo
 
@@ -285,7 +285,7 @@ Libretto individuale di controllo
 
 7\. Ciascuna Parte Contraente potra' esigere, nel caso di un veicolo immatricolato in uno Stato non Parte Contraente del presente Accordo, in luogo del libretto individuale di controllo conforme a quanto specificato nell'Allegato al presente Accordo, moduli redatti nella stessa forma dei fogli giornalieri di detto libretto.
 
-### ARTICOLO 13
+## ARTICOLO 13
 
 Controlli effettuati dall'impresa
 
@@ -293,7 +293,7 @@ Controlli effettuati dall'impresa
 
 2\. Essa deve sorvegliare regolarmente i periodi di guida e di altri lavori, nonche' le ore di riposo, servendosi di tutti i documenti di cui dispone, come ad esempio i libretti individuali di controllo. Se essa constata infrazioni al presente Accordo, deve porvi fine senza indugio e adottare misure per evitare che si ripetano, ad esempio modificando gli orari e gli itinerari.
 
-### ARTICOLO 14
+## ARTICOLO 14
 
 Misure per assicurare l'applicazione dell'Accordo
 
@@ -303,7 +303,7 @@ Misure per assicurare l'applicazione dell'Accordo
 
 3\. Nel caso in cui una Parte Contraente constata un'infrazione grave alle disposizioni del presente Accordo commessa da una persona residente sul territorio di un'altra Parte Contraente, l'amministrazione della prima Parte informera' l'amministrazione dell'altra Parte dell'infrazione constatata e, se del caso, della sanzione presa.
 
-### ARTICOLO 15
+## ARTICOLO 15
 
 Disposizioni transitorie
 
@@ -315,7 +315,7 @@ b) qualsiasi riferimento fatto nel presente Accordo alle disposizioni dei paragr
 
 ## DISPOSIZIONI FINALI
 
-### ARTICOLO 16
+## ARTICOLO 16
 
 1\. Il presente Accordo e' aperto alla firma fino al 31 marzo 1971 e, dopo tale data, all'adesione degli Stati membri della Commissione Economica per l'Europa e degli Stati ammessi alla Commissione a titolo consultivo conformemente al paragrafo 8 del mandato di detta Commissione.
 
@@ -327,23 +327,23 @@ b) qualsiasi riferimento fatto nel presente Accordo alle disposizioni dei paragr
 
 5\. Per ciascuno Stato che ratifichera' il presente Accordo o vi aderira' dopo il deposito dell'ottavo strumento di ratifica o d'adesione di cui al paragrafo 4 del presente articolo, il presente Accordo entrera' in vigore centottanta giorni dopo la data del deposito, da parte di detto Stato, del proprio strumento di ratifica o d'adesione.
 
-### ARTICOLO 17
+## ARTICOLO 17
 
 1\. Qualsiasi Parte Contraente potra' denunciare il presente Accordo con notifica indirizzata al Segretario Generale dell'Organizzazione delle Nazioni Unite.
 
 2\. La denuncia avra' effetto sei mesi dopo la data in cui il Segretario Generale ne avra' ricevuto la notifica.
 
-### ARTICOLO 18
+## ARTICOLO 18
 
 Il presente Accordo cessera' di avere effetto se, dopo la sua entrata in vigore, il numero delle Parti Contraenti sara' inferiore a tre durante un qualsiasi periodo di dodici mesi consecutivi.
 
-### ARTICOLO 19
+## ARTICOLO 19
 
 1\. Ogni Stato potra', allorche' firmera' il presente Accordo o al momento del deposito del proprio strumento di ratifica o d'adesione oppure in qualsiasi momento successivo, dichiarare, a mezzo di notifica indirizzata al Segretario Generale dell'Organizzazione delle Nazioni Unite, che la validita' del presente Accordo sara' estesa a tutti o a parte dei territori che esso rappresenta sul piano internazionale. Il presente Accordo si applichera' al territorio o ai territori menzionati nella notifica a decorrere dal centottantesimo giorno dopo la ricezione di detta notifica da parte del Segretario Generale o, qualora a tale data il presente Accordo non sia ancora entrato in vigore, a decorrere dalla sua entrata in vigore.
 
 2\. Qualsiasi Stato che avra' fatto, conformemente al paragrafo precedente, una dichiarazione avente lo scopo di rendere il presente Accordo applicabile a un territorio che esso rappresenta sul piano internazionale potra', conformemente all'articolo 17 del presente Accordo, denunciare il presente Accordo per quel che concerne detto territorio.
 
-### ARTICOLO 20
+## ARTICOLO 20
 
 1\. Qualsiasi controversia fra due o piu' Parti Contraenti che riguardi l'interpretazione o l'applicazione del presente Accordo sara', per quanto possibile, regolata mediante negoziato fra le Parti in lite.
 
@@ -351,7 +351,7 @@ Il presente Accordo cessera' di avere effetto se, dopo la sua entrata in vigore,
 
 3\. La sentenza dell'arbitro o degli arbitri designati conformemente al paragrafo precedente sara' vincolante per le Parti Contraenti in lite.
 
-### ARTICOLO 21
+## ARTICOLO 21
 
 1\. Ogni Stato potra', al momento in cui firmera' o ratifichera' il presente Accordo o vi aderira', dichiarare che esso non si considera legato dai paragrafi 2 e 3 dell'articolo 20 del presente Accordo. Le altre Parti Contraenti non saranno legate da detti paragrafi nei confronti di qualsiasi Parte Contraente che avra' formulato una tale riserva.
 
@@ -359,7 +359,7 @@ Il presente Accordo cessera' di avere effetto se, dopo la sua entrata in vigore,
 
 3\. Qualsiasi Parte Contraente la cui riserva sia stata adottata nel Protocollo di firma del presente Accordo o che abbia formulato una riserva conformemente al paragrafo 1 del presente articolo o fatto una riserva che sia stata accettata conformemente al paragrafo 2 del presente articolo, potra', in qualsiasi momento, ritirare tale riserva mediante una notifica indirizzata al Segretario Generale.
 
-### ARTICOLO 22
+## ARTICOLO 22
 
 1\. Trascorsi tre anni dalla data di entrata in vigore del presente Accordo, qualsiasi Parte Contraente potra', mediante notifica indirizzata al Segretario Generale dell'Organizzazione delle Nazioni Unite, richiedere la convocazione di una conferenza al fine di revisionare l'Accordo. Il Segretario Generale notifichera' tale richiesta a tutte le Parti Contraenti e convochera' una conferenza di revisione se, entro un termine di quattro mesi a decorrere dalla notifica da lui inviata, almeno un terzo delle Parti Contraenti gli avranno comunicato il loro consenso a tale richiesta.
 
@@ -367,7 +367,7 @@ Il presente Accordo cessera' di avere effetto se, dopo la sua entrata in vigore,
 
 3\. II Segretario Generale invitera' a ogni conferenza convocata conformemente al presente articolo tutti gli Stati di cui al paragrafo 1 dell'articolo 16 del presente Accordo.
 
-### ARTICOLO 23
+## ARTICOLO 23
 
 1\. Qualsiasi Parte Contraente potra' proporre uno o piu' emendamenti al presente Accordo. Il testo di ogni progetto di emendamento sara' comunicato al Segretario Generale dell'Organizzazione delle Nazioni Unite che lo comunichera' a tutte le Parti Contraenti e lo portera' a conoscenza degli altri Stati di cui al paragrafo 1 dell'articolo 16 del presente Accordo.
 
@@ -397,7 +397,7 @@ b) se almeno una Parte Contraente ha inviato una comunicazione in applicazione d
 
 8\. Indipendentemente dalla procedura relativa all'emendamento di cui ai paragrafi da 1 a 6 del presente articolo, l'Allegato al presente Accordo potra' essere modificato in seguito ad accordo fra le amministrazioni competenti di tutte le Parti Contraenti; qualora l'amministrazione competente di una Parte Contraente abbia dichiarato che il proprio diritto nazionale la obbliga a subordinare il proprio accordo all'ottenimento di un'autorizzazione speciale a tal fine o all'approvazione di un organo legislativo, il consenso alla modifica dell'Allegato dell'amministrazione competente della Parte Contraente in questione non sara' considerato come dato se non al momento in cui detta amministrazione competente avra' dichiarato al Segretario Generale che sono state ottenute le autorizzazioni o le approvazioni richieste. L'accordo fra le amministrazioni competenti stabilira' la data di entrata in vigore dell'Allegato modificato e potra' prevedere che, durante un periodo transitorio, restera' in vigore il precedente Allegato, in tutto o in parte, contemporaneamente all'Allegato modificato.
 
-### ARTICOLO 24
+## ARTICOLO 24
 
 Oltre le notifiche previste dagli articoli 22 e 23 del presente Accordo, il Segretario Generale dell'Organizzazione delle Nazioni Unite notifichera' agli Stati di cui al paragrafo 1 dell'articolo 16 del presente Accordo:
 
@@ -415,11 +415,11 @@ f) le dichiarazioni e notifiche ricevute conformemente all'articolo 21 del prese
 
 g) l'entrata in vigore di qualsiasi emendamento conformemente all'articolo 23 del presente Accordo.
 
-### ARTICOLO 25
+## ARTICOLO 25
 
 Il Protocollo di firma del presente Accordo avra' la stessa efficacia, valore e durata del presente Accordo di cui sara' considerato come facente parte integrante.
 
-### ARTICOLO 26
+## ARTICOLO 26
 
 Dopo il 31 marzo 1971, l'originale del presente Accordo sara' depositato presso il Segretario Generale dell'Organizzazione delle Nazioni Unite, che ne trasmettera' copie certificate conformi a ciascuno degli Stati di cui al paragrafo 1 dell'articolo 16 del presente Accordo.
 
@@ -429,7 +429,7 @@ FATTO a Ginevra, il 1 luglio 1970, in un solo esemplare, in lingua inglese e in 
 
 Seguono le firme.
 
-### Allegato
+## Allegato
 
 ALLEGATO
 
@@ -501,7 +501,7 @@ MODELLO DI LIBRETTO INDIVIDUALE DI CONTROLLO
 
 Parte di provvedimento in formato grafico
 
-### Protocollo di Firma
+## Protocollo di Firma
 
 PROTOCOLLO DI FIRMA
 

@@ -28,7 +28,7 @@ la seguente legge:
 
 ## TITOLO I - ORDINAMENTO
 
-##### Art. 1
+#### Art. 1
 
 L'organico della banda della Guardia di finanza e' compreso nell'organico generale del Corpo ed e' cosa stabilito:
 
@@ -42,7 +42,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 novembre 1987, n. 472, ha disposto (con l'art. 11-ter) che il Governo e' delegato ad emanare, entro sei mesi dall'entrata in vigore della legge di conversione del presente decreto, appositi decreti per il riordinamento della banda dell'Arma dei carabinieri e della Guardia di finanza al fine di adeguare la posizione dei componenti delle citate bande a quella degli appartenenti alla Polizia di Stato, fissata con il decreto del Presidente della Repubblica 30 aprile 1987, n. 240. All'entrata in vigore dei decreti del Presidente della Repubblica di cui al comma 1, la legge 13 luglio 1965, n. 882, e successive modificazioni, si intendera' abrogata.
 
-##### Art. 2
+#### Art. 2
 
 L'organizzazione strumentale della banda e la classificazione del personale in relazione allo strumento suonato risultano dalla tabella A annessa alla presente legge. ((5))
 
@@ -54,11 +54,9 @@ Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 nove
 
 ## TITOLO II - RECLUTAMENTO
 
-### CAPO I
+### CAPO I - Norme generali
 
-#### Norme generali
-
-##### Art. 3
+#### Art. 3
 
 Il reclutamento del personale della banda ha luogo mediante concorsi, indetti con decreto ministeriale nel quale sono anche stabiliti i programmi e le norme per lo svolgimento dei concorsi stessi.
 
@@ -72,7 +70,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 novembre 1987, n. 472, ha disposto (con l'art. 11-ter) che il Governo e' delegato ad emanare, entro sei mesi dall'entrata in vigore della legge di conversione del presente decreto, appositi decreti per il riordinamento della banda dell'Arma dei carabinieri e della Guardia di finanza al fine di adeguare la posizione dei componenti delle citate bande a quella degli appartenenti alla Polizia di Stato, fissata con il decreto del Presidente della Repubblica 30 aprile 1987, n. 240. All'entrata in vigore dei decreti del Presidente della Repubblica di cui al comma 1, la legge 13 luglio 1965, n. 882, e successive modificazioni, si intendera' abrogata.
 
-##### Art. 4
+#### Art. 4
 
 Le Commissioni giudicatrici dei concorsi sono nominate con determinazione del comandante generale.
 
@@ -110,9 +108,9 @@ AGGIORNAMENTO (5)
 
 Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 novembre 1987, n. 472, ha disposto (con l'art. 11-ter) che il Governo e' delegato ad emanare, entro sei mesi dall'entrata in vigore della legge di conversione del presente decreto, appositi decreti per il riordinamento della banda dell'Arma dei carabinieri e della Guardia di finanza al fine di adeguare la posizione dei componenti delle citate bande a quella degli appartenenti alla Polizia di Stato, fissata con il decreto del Presidente della Repubblica 30 aprile 1987, n. 240. All'entrata in vigore dei decreti del Presidente della Repubblica di cui al comma 1, la legge 13 luglio 1965, n. 882, e successive modificazioni, si intendera' abrogata;
 
-## CAPO II - Reclutamento del maestro direttore
+### CAPO II - Reclutamento del maestro direttore
 
-##### Art. 5
+#### Art. 5
 
 Il reclutamento dell'ufficiale maestro direttore ha luogo mediante concorso per titoli e per esami.
 
@@ -130,7 +128,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 novembre 1987, n. 472, ha disposto (con l'art. 11-ter) che il Governo e' delegato ad emanare, entro sei mesi dall'entrata in vigore della legge di conversione del presente decreto, appositi decreti per il riordinamento della banda dell'Arma dei carabinieri e della Guardia di finanza al fine di adeguare la posizione dei componenti delle citate bande a quella degli appartenenti alla Polizia di Stato, fissata con il decreto del Presidente della Repubblica 30 aprile 1987, n. 240. All'entrata in vigore dei decreti del Presidente della Repubblica di cui al comma 1, la legge 13 luglio 1965, n. 882, e successive modificazioni, si intendera' abrogata.
 
-##### Art. 6
+#### Art. 6
 
 Il concorrente classificato prima nella graduatoria 6 dichiarato vincitore del concorso e nominato sottotenente in servizio permanente effettivo della Guardia di finanza, direttore della banda del Corpo.
 
@@ -144,9 +142,9 @@ AGGIORNAMENTO (5)
 
 Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 novembre 1987, n. 472, ha disposto (con l'art. 11-ter) che il Governo e' delegato ad emanare, entro sei mesi dall'entrata in vigore della legge di conversione del presente decreto, appositi decreti per il riordinamento della banda dell'Arma dei carabinieri e della Guardia di finanza al fine di adeguare la posizione dei componenti delle citate bande a quella degli appartenenti alla Polizia di Stato, fissata con il decreto del Presidente della Repubblica 30 aprile 1987, n. 240. All'entrata in vigore dei decreti del Presidente della Repubblica di cui al comma 1, la legge 13 luglio 1965, n. 882, e successive modificazioni, si intendera' abrogata.
 
-## CAPO III - Reclutamento del vice direttore
+### CAPO III - Reclutamento del vice direttore
 
-##### Art. 7
+#### Art. 7
 
 Il reclutamento del vice direttore della banda ha luogo mediante concorso per titoli e per esami.
 
@@ -174,7 +172,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 novembre 1987, n. 472, ha disposto (con l'art. 11-ter) che il Governo e' delegato ad emanare, entro sei mesi dall'entrata in vigore della legge di conversione del presente decreto, appositi decreti per il riordinamento della banda dell'Arma dei carabinieri e della Guardia di finanza al fine di adeguare la posizione dei componenti delle citate bande a quella degli appartenenti alla Polizia di Stato, fissata con il decreto del Presidente della Repubblica 30 aprile 1987, n. 240. All'entrata in vigore dei decreti del Presidente della Repubblica di cui al comma 1, la legge 13 luglio 1965, n. 882, e successive modificazioni, si intendera' abrogata.
 
-##### Art. 8
+#### Art. 8
 
 Il concorrente classificato primo nella graduatoria e' dichiarato vincitore del concorso e nominato maresciallo maggiore carica speciale della Guardia di finanza, vice direttore della banda del Corpo.
 
@@ -186,9 +184,9 @@ AGGIORNAMENTO (5)
 
 Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 novembre 1987, n. 472, ha disposto (con l'art. 11-ter) che il Governo e' delegato ad emanare, entro sei mesi dall'entrata in vigore della legge di conversione del presente decreto, appositi decreti per il riordinamento della banda dell'Arma dei carabinieri e della Guardia di finanza al fine di adeguare la posizione dei componenti delle citate bande a quella degli appartenenti alla Polizia di Stato, fissata con il decreto del Presidente della Repubblica 30 aprile 1987, n. 240. All'entrata in vigore dei decreti del Presidente della Repubblica di cui al comma 1, la legge 13 luglio 1965, n. 882, e successive modificazioni, si intendera' abrogata.
 
-## CAPO IV - Reclutamento dei musicanti
+### CAPO IV - Reclutamento dei musicanti
 
-##### Art. 9
+#### Art. 9
 
 Il reclutamento dei sottufficiali, degli appuntati e dei finanzieri musicanti ha luogo mediante concorso per esami.
 
@@ -208,7 +206,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 novembre 1987, n. 472, ha disposto (con l'art. 11-ter) che il Governo e' delegato ad emanare, entro sei mesi dall'entrata in vigore della legge di conversione del presente decreto, appositi decreti per il riordinamento della banda dell'Arma dei carabinieri e della Guardia di finanza al fine di adeguare la posizione dei componenti delle citate bande a quella degli appartenenti alla Polizia di Stato, fissata con il decreto del Presidente della Repubblica 30 aprile 1987, n. 240. All'entrata in vigore dei decreti del Presidente della Repubblica di cui al comma 1, la legge 13 luglio 1965, n. 882, e successive modificazioni, si intendera' abrogata.
 
-##### Art. 10
+#### Art. 10
 
 Gli aspiranti dichiarati vincitori del concorso sono nominati vicebrigadieri, appuntati o finanzieri del Corpo della Guardia di finanza a seconda che debbano essere inseriti, rispettivamente, nell'organizzazione strumentale delle prime, delle seconde o delle terze parti della banda.
 
@@ -228,11 +226,9 @@ Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 nove
 
 ## TITOLO III - STATO
 
-### CAPO I
+### CAPO I - Disposizioni per il maestro direttore
 
-#### Disposizioni per il maestro direttore
-
-##### Art. 11
+#### Art. 11
 
 L'ufficiale maestro direttore della banda della Guardia di finanza cessa dal servizio permanente al compimento del 61° anno di eta'.
 
@@ -246,7 +242,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 novembre 1987, n. 472, ha disposto (con l'art. 11-ter) che il Governo e' delegato ad emanare, entro sei mesi dall'entrata in vigore della legge di conversione del presente decreto, appositi decreti per il riordinamento della banda dell'Arma dei carabinieri e della Guardia di finanza al fine di adeguare la posizione dei componenti delle citate bande a quella degli appartenenti alla Polizia di Stato, fissata con il decreto del Presidente della Repubblica 30 aprile 1987, n. 240. All'entrata in vigore dei decreti del Presidente della Repubblica di cui al comma 1, la legge 13 luglio 1965, n. 882, e successive modificazioni, si intendera' abrogata.
 
-##### Art. 12
+#### Art. 12
 
 L'ufficiale maestro direttore della banda della Guardia di finanza che non sia piu' ritenuto di soddisfacente rendimento artistico, su proposta del comandante generale e' sottoposto ad accertamenti da parte di una Commissione nominata e composta ai sensi dell'art. 1, secondo comma.
 
@@ -258,9 +254,9 @@ AGGIORNAMENTO (5)
 
 Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 novembre 1987, n. 472, ha disposto (con l'art. 11-ter) che il Governo e' delegato ad emanare, entro sei mesi dall'entrata in vigore della legge di conversione del presente decreto, appositi decreti per il riordinamento della banda dell'Arma dei carabinieri e della Guardia di finanza al fine di adeguare la posizione dei componenti delle citate bande a quella degli appartenenti alla Polizia di Stato, fissata con il decreto del Presidente della Repubblica 30 aprile 1987, n. 240. All'entrata in vigore dei decreti del Presidente della Repubblica di cui al comma 1, la legge 13 luglio 1965, n. 882, e successive modificazioni, si intendera' abrogata.
 
-## CAPO II - Disposizioni per il vice direttore della banda e per i musicanti
+### CAPO II - Disposizioni per il vice direttore della banda e per i musicanti
 
-##### Art. 13
+#### Art. 13
 
 Il maresciallo maggiore carica speciale vice direttore della banda della. Guardia di finanza che non sia piu' ritenuto di soddisfacente rendimento artistico, su pro.
 
@@ -274,7 +270,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 novembre 1987, n. 472, ha disposto (con l'art. 11-ter) che il Governo e' delegato ad emanare, entro sei mesi dall'entrata in vigore della legge di conversione del presente decreto, appositi decreti per il riordinamento della banda dell'Arma dei carabinieri e della Guardia di finanza al fine di adeguare la posizione dei componenti delle citate bande a quella degli appartenenti alla Polizia di Stato, fissata con il decreto del Presidente della Repubblica 30 aprile 1987, n. 240. All'entrata in vigore dei decreti del Presidente della Repubblica di cui al comma 1, la legge 13 luglio 1965, n. 882, e successive modificazioni, si intendera' abrogata.
 
-##### Art. 14
+#### Art. 14
 
 I sottufficiali, gli appuntati e i finanzieri della banda, celibi, possono essere autorizzati a contrarre matrimonio a prescindere dal compimento del limite di eta' previsto dalle disposizioni vigenti per i sottufficiali e i militari di truppa della Guardia di finanza. ((5))
 
@@ -284,7 +280,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 novembre 1987, n. 472, ha disposto (con l'art. 11-ter) che il Governo e' delegato ad emanare, entro sei mesi dall'entrata in vigore della legge di conversione del presente decreto, appositi decreti per il riordinamento della banda dell'Arma dei carabinieri e della Guardia di finanza al fine di adeguare la posizione dei componenti delle citate bande a quella degli appartenenti alla Polizia di Stato, fissata con il decreto del Presidente della Repubblica 30 aprile 1987, n. 240. All'entrata in vigore dei decreti del Presidente della Repubblica di cui al comma 1, la legge 13 luglio 1965, n. 882, e successive modificazioni, si intendera' abrogata.
 
-##### Art. 15
+#### Art. 15
 
 I sottufficiali, gli appuntati e i finanzieri, musicanti della banda della Guardia di finanza, che raggiungono i limiti di eta' stabiliti dalla legge 18 ottobre 1962, numero 1499, possono ottenere a domanda, di essere mantenuti anno per anno nella posizione di servizio permanente o continuativo, sino al compimento del 59° anno di eta', purche' conservino piena efficienza artistica e idoneita' fisica.
 
@@ -296,7 +292,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 novembre 1987, n. 472, ha disposto (con l'art. 11-ter) che il Governo e' delegato ad emanare, entro sei mesi dall'entrata in vigore della legge di conversione del presente decreto, appositi decreti per il riordinamento della banda dell'Arma dei carabinieri e della Guardia di finanza al fine di adeguare la posizione dei componenti delle citate bande a quella degli appartenenti alla Polizia di Stato, fissata con il decreto del Presidente della Repubblica 30 aprile 1987, n. 240. All'entrata in vigore dei decreti del Presidente della Repubblica di cui al comma 1, la legge 13 luglio 1965, n. 882, e successive modificazioni, si intendera' abrogata.
 
-##### Art. 16
+#### Art. 16
 
 Il sottufficiale, l'appuntato o il finanziere musicante della banda della Guardia di finanza che non sia piu' ritenuto tecnicamente idoneo per la parte di appartenenza, su proposta dell'ufficiale maestro direttore di banda e' sottoposto ad accertamenti ad opera di una Commissione nominata e composta ai sensi dell'art. 4, quarto comma.
 
@@ -312,11 +308,9 @@ Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 nove
 
 ## TITOLO IV - AVANZAMENTO
 
-### CAPO I
+### CAPO I - Avanzamento dell'ufficiale maestro direttore
 
-#### Avanzamento dell'ufficiale maestro direttore
-
-##### Art. 17
+#### Art. 17
 
 L'avanzamento dell'ufficiale maestro direttore della banda della Guardia di finanza ha luogo ad anzianita', fino al grado di tenente colonnello.
 
@@ -328,9 +322,9 @@ AGGIORNAMENTO (5)
 
 Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 novembre 1987, n. 472, ha disposto (con l'art. 11-ter) che il Governo e' delegato ad emanare, entro sei mesi dall'entrata in vigore della legge di conversione del presente decreto, appositi decreti per il riordinamento della banda dell'Arma dei carabinieri e della Guardia di finanza al fine di adeguare la posizione dei componenti delle citate bande a quella degli appartenenti alla Polizia di Stato, fissata con il decreto del Presidente della Repubblica 30 aprile 1987, n. 240. All'entrata in vigore dei decreti del Presidente della Repubblica di cui al comma 1, la legge 13 luglio 1965, n. 882, e successive modificazioni, si intendera' abrogata.
 
-## CAPO II - Avanzamento dei sottufficiali ed appuntati musicanti
+### CAPO II - Avanzamento dei sottufficiali ed appuntati musicanti
 
-##### Art. 18
+#### Art. 18
 
 L'avanzamento dei musicanti della banda della Guardia di finanza ha luogo ad anzianita' fino al grado di maresciallo maggiore. Non e' richiesta la frequenza di corsi o il superamento di esami. ((5))
 
@@ -340,7 +334,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 novembre 1987, n. 472, ha disposto (con l'art. 11-ter) che il Governo e' delegato ad emanare, entro sei mesi dall'entrata in vigore della legge di conversione del presente decreto, appositi decreti per il riordinamento della banda dell'Arma dei carabinieri e della Guardia di finanza al fine di adeguare la posizione dei componenti delle citate bande a quella degli appartenenti alla Polizia di Stato, fissata con il decreto del Presidente della Repubblica 30 aprile 1987, n. 240. All'entrata in vigore dei decreti del Presidente della Repubblica di cui al comma 1, la legge 13 luglio 1965, n. 882, e successive modificazioni, si intendera' abrogata.
 
-##### Art. 19
+#### Art. 19
 
 Il musicante ha titolo a conseguire l'avanzamento quando abbia compiuto la permanenza stabilita, per il suo grado e per la sua parte, dalla tabella C annessa alla presente legge. ((5))
 
@@ -350,7 +344,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 novembre 1987, n. 472, ha disposto (con l'art. 11-ter) che il Governo e' delegato ad emanare, entro sei mesi dall'entrata in vigore della legge di conversione del presente decreto, appositi decreti per il riordinamento della banda dell'Arma dei carabinieri e della Guardia di finanza al fine di adeguare la posizione dei componenti delle citate bande a quella degli appartenenti alla Polizia di Stato, fissata con il decreto del Presidente della Repubblica 30 aprile 1987, n. 240. All'entrata in vigore dei decreti del Presidente della Repubblica di cui al comma 1, la legge 13 luglio 1965, n. 882, e successive modificazioni, si intendera' abrogata.
 
-##### Art. 20
+#### Art. 20
 
 Il musicante giudicato idoneo all'avanzamento consegue la promozione al grado superiore con decorrenza dal giorno successivo a quello in cui compie il periodo di permanenza nel grado.
 
@@ -368,7 +362,7 @@ Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 nove
 
 ## TITOLO V - DISPOSIZIONI FINALI E TRANSITORIE
 
-##### Art. 21
+#### Art. 21
 
 Per quanto non e' previsto dalla presente legge, al personale della banda si applicano, a seconda del grado rivestito, le norme concernenti gli ufficiali, i sottufficiali e i militari di truppa della Guardia di finanza. ((5))
 
@@ -378,7 +372,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 novembre 1987, n. 472, ha disposto (con l'art. 11-ter) che il Governo e' delegato ad emanare, entro sei mesi dall'entrata in vigore della legge di conversione del presente decreto, appositi decreti per il riordinamento della banda dell'Arma dei carabinieri e della Guardia di finanza al fine di adeguare la posizione dei componenti delle citate bande a quella degli appartenenti alla Polizia di Stato, fissata con il decreto del Presidente della Repubblica 30 aprile 1987, n. 240. All'entrata in vigore dei decreti del Presidente della Repubblica di cui al comma 1, la legge 13 luglio 1965, n. 882, e successive modificazioni, si intendera' abrogata.
 
-##### Art. 22
+#### Art. 22
 
 Per i musicanti reclutati dopo l'entrata in vigore della presente legge l'acquisto e la manutenzione degli strumenti sono a carico dell'Amministrazione.
 
@@ -390,7 +384,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 novembre 1987, n. 472, ha disposto (con l'art. 11-ter) che il Governo e' delegato ad emanare, entro sei mesi dall'entrata in vigore della legge di conversione del presente decreto, appositi decreti per il riordinamento della banda dell'Arma dei carabinieri e della Guardia di finanza al fine di adeguare la posizione dei componenti delle citate bande a quella degli appartenenti alla Polizia di Stato, fissata con il decreto del Presidente della Repubblica 30 aprile 1987, n. 240. All'entrata in vigore dei decreti del Presidente della Repubblica di cui al comma 1, la legge 13 luglio 1965, n. 882, e successive modificazioni, si intendera' abrogata.
 
-##### Art. 23
+#### Art. 23
 
 Puo' essere autorizzata, su richiesta di Enti o Comitati, la partecipazione della banda del Corpo della Guardia di finanza a manifestazioni indette in occasione di particolari solennita'.
 
@@ -408,7 +402,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 novembre 1987, n. 472, ha disposto (con l'art. 11-ter) che il Governo e' delegato ad emanare, entro sei mesi dall'entrata in vigore della legge di conversione del presente decreto, appositi decreti per il riordinamento della banda dell'Arma dei carabinieri e della Guardia di finanza al fine di adeguare la posizione dei componenti delle citate bande a quella degli appartenenti alla Polizia di Stato, fissata con il decreto del Presidente della Repubblica 30 aprile 1987, n. 240. All'entrata in vigore dei decreti del Presidente della Repubblica di cui al comma 1, la legge 13 luglio 1965, n. 882, e successive modificazioni, si intendera' abrogata.
 
-##### Art. 24
+#### Art. 24
 
 I musicanti della banda della Guardia di finanza in servizio alla data del 7 ottobre 1964 sono inquadrati, in relazione allo strumento suonato e al periodo di servizio prestato nella banda, secondo i criteri fissati dalle tabelle annesse alla presente legge.
 
@@ -428,7 +422,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 novembre 1987, n. 472, ha disposto (con l'art. 11-ter) che il Governo e' delegato ad emanare, entro sei mesi dall'entrata in vigore della legge di conversione del presente decreto, appositi decreti per il riordinamento della banda dell'Arma dei carabinieri e della Guardia di finanza al fine di adeguare la posizione dei componenti delle citate bande a quella degli appartenenti alla Polizia di Stato, fissata con il decreto del Presidente della Repubblica 30 aprile 1987, n. 240. All'entrata in vigore dei decreti del Presidente della Repubblica di cui al comma 1, la legge 13 luglio 1965, n. 882, e successive modificazioni, si intendera' abrogata.
 
-##### Art. 25
+#### Art. 25
 
 Alla data di entrata in vigore della presente legge sono inquadrati, in relazione allo strumento suonato ed al periodo di servizio prestato nella banda, tra i musicanti terza parte B gli allievi musicanti di cui agli articoli 22, 28 e 34 della legge 7 giugno 1937, numero 913, che ai sensi dell'art. 41 del decreto del Ministro per le finanze 30 giugno 1937 e degli articoli 1 e 2 del decreto del Ministro per le finanze 9 maggio 1941, risultano titolari dei seguenti strumenti;
 
@@ -458,7 +452,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 novembre 1987, n. 472, ha disposto (con l'art. 11-ter) che il Governo e' delegato ad emanare, entro sei mesi dall'entrata in vigore della legge di conversione del presente decreto, appositi decreti per il riordinamento della banda dell'Arma dei carabinieri e della Guardia di finanza al fine di adeguare la posizione dei componenti delle citate bande a quella degli appartenenti alla Polizia di Stato, fissata con il decreto del Presidente della Repubblica 30 aprile 1987, n. 240. All'entrata in vigore dei decreti del Presidente della Repubblica di cui al comma 1, la legge 13 luglio 1965, n. 882, e successive modificazioni, si intendera' abrogata.
 
-##### Art. 26
+#### Art. 26
 
 Ai musicanti seconde parti della banda, che alla data di entrata in vigore della presente legge sono titolari del 2° clarinetto soprano in sib n. 5 e dei piatti n. 2 e che per effetto del precedente art. 24 sono inquadrati, rispettivamente, nelle terze parti A e B, si applicano le disposizioni che regolano la carriera dei musicanti appartenenti alle seconde parti B. ((5))
 
@@ -468,7 +462,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 novembre 1987, n. 472, ha disposto (con l'art. 11-ter) che il Governo e' delegato ad emanare, entro sei mesi dall'entrata in vigore della legge di conversione del presente decreto, appositi decreti per il riordinamento della banda dell'Arma dei carabinieri e della Guardia di finanza al fine di adeguare la posizione dei componenti delle citate bande a quella degli appartenenti alla Polizia di Stato, fissata con il decreto del Presidente della Repubblica 30 aprile 1987, n. 240. All'entrata in vigore dei decreti del Presidente della Repubblica di cui al comma 1, la legge 13 luglio 1965, n. 882, e successive modificazioni, si intendera' abrogata.
 
-##### Art. 27
+#### Art. 27
 
 Nella prima attuazione della presente legge i posti che risulteranno disponibili nella organizzazione strumentale delle tre parti della banda del Corpo della Guardia di finanza dopo l'inquadramento del personale musicante di cui agli articoli 24 e 25 saranno conferiti mediante concorso riservato ai militari della Guardia di finanza che alla data di entrata in vigore della legge stessa fanno parte del complesso bandistico compresi gli esecutori aggregati. (1)
 
@@ -486,7 +480,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 novembre 1987, n. 472, ha disposto (con l'art. 11-ter) che il Governo e' delegato ad emanare, entro sei mesi dall'entrata in vigore della legge di conversione del presente decreto, appositi decreti per il riordinamento della banda dell'Arma dei carabinieri e della Guardia di finanza al fine di adeguare la posizione dei componenti delle citate bande a quella degli appartenenti alla Polizia di Stato, fissata con il decreto del Presidente della Repubblica 30 aprile 1987, n. 240. All'entrata in vigore dei decreti del Presidente della Repubblica di cui al comma 1, la legge 13 luglio 1965, n. 882, e successive modificazioni, si intendera' abrogata.
 
-##### Art. 28
+#### Art. 28
 
 Il tenente maestro direttore della banda, in servizio alla data di entrata in vigore della presente legge, puo' conseguire la promozione al grado di capitano al compimento della permanenza complessiva nei gradi di sottotenente e tenente di anni 6, al grado di maggiore al compimento della permanenza complessiva nei gradi di sottotenente, tenente e capitano di anni 12 e a quello di tenente colonnello al compimento della permanenza complessiva nei gradi di sottotenente, tenente, capitano e maggiore di anni 16. ((5))
 
@@ -496,7 +490,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 novembre 1987, n. 472, ha disposto (con l'art. 11-ter) che il Governo e' delegato ad emanare, entro sei mesi dall'entrata in vigore della legge di conversione del presente decreto, appositi decreti per il riordinamento della banda dell'Arma dei carabinieri e della Guardia di finanza al fine di adeguare la posizione dei componenti delle citate bande a quella degli appartenenti alla Polizia di Stato, fissata con il decreto del Presidente della Repubblica 30 aprile 1987, n. 240. All'entrata in vigore dei decreti del Presidente della Repubblica di cui al comma 1, la legge 13 luglio 1965, n. 882, e successive modificazioni, si intendera' abrogata.
 
-##### Art. 29
+#### Art. 29
 
 All'onere derivante dall'attuazione della presente legge, valutato in lire 900.000 annue si fara' fronte mediante riduzione dello stanziamento del capitolo 1217 dello stato di previsione della spesa del Ministero delle finanze per l'esercizio 1905.
 
@@ -522,7 +516,7 @@ Il D.L. 21 settembre 1987, n. 387, convertito con modificazioni dalla L. 20 nove
 
 ## TITOLO V - DISPOSIZIONI FINALI E TRANSITORIE
 
-##### art. 1
+#### art. 1
 
 TABELLA A
 

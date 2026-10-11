@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## CAPO I
+## CAPO I - RUOLO ORGANICO DELLA MAGISTRATURA
 
-### RUOLO ORGANICO DELLA MAGISTRATURA
-
-#### Art. 1
+### Art. 1
 
 Aumento del ruolo organico
 
@@ -42,7 +40,7 @@ Aumento del ruolo organico
 
 3\. Salvo quanto previsto nell'articolo 2, con separati decreti del Ministro della giustizia, da emanare, sentito il Consiglio superiore della magistratura, prima dello svolgimento della prova scritta di ciascuno dei concorsi banditi ai sensi dell'articolo 18 sono incrementate complessivamente di cinquecentoquarantasei posti le piante organiche degli uffici giudiziari in relazione al numero di posti messi a concorso e in attuazione delle disposizioni di cui al comma 1.
 
-#### ART. 2 - Magistrati di appello e di tribunale destinati alla Corte di cassazione ed alla. br;Procura generale presso la medesima Corte
+### ART. 2 - Magistrati di appello e di tribunale destinati alla Corte di cassazione ed alla. br;Procura generale presso la medesima Corte
 
 1\. Gli articoli 115, 116 e 117 del regio decreto 30 gennaio 1941, n. 12, sono sostituiti dai seguenti:
 
@@ -56,7 +54,7 @@ ART. 117. - (Destinazione dei magistrati di appello e di tribunale alla Corte di
 
 3\. Sono abrogate le leggi 21 maggio 1956, n. 489, 29 novembre 1971, n. 1050, e 30 luglio 1985, n. 405.
 
-#### ART. 3 - Magistrati destinati a funzioni non giudiziarie
+### ART. 3 - Magistrati destinati a funzioni non giudiziarie
 
 1\. ((COMMA ABROGATO DALLA L. 30 LUGLIO 2007, N. 111)).
 
@@ -66,7 +64,7 @@ ART. 117. - (Destinazione dei magistrati di appello e di tribunale alla Corte di
 
 ## ((CAPO II - PIANTE ORGANICHE FLESSIBILI DISTRETTUALI))
 
-#### ART. 4
+### ART. 4
 
 (( (Piante organiche flessibili distrettuali) ))
 
@@ -82,7 +80,7 @@ AGGIORNAMENTO (7)
 
 La L. 27 dicembre 2019, n. 160 ha disposto (con l'art. 1, comma 434) che "I magistrati che alla data di entrata in vigore della presente legge compongono la pianta organica dei magistrati distrettuali sono inclusi nella pianta organica flessibile distrettuale di cui all'articolo 4 della legge 13 febbraio 2001, n. 48, come sostituito dal comma 432, e agli stessi il beneficio di cui all'articolo 8, comma 2, della predetta legge n. 48 del 2001, come sostituito dal comma 432, si applica in caso di permanenza in servizio per un periodo pari a quattro anni, decorrente dalla data di entrata in vigore della presente legge".
 
-#### ART. 5
+### ART. 5
 
 (( (Criteri di destinazione in sostituzione e assegnazione dei magistrati della pianta organica flessibile distrettuale) ))
 
@@ -104,7 +102,7 @@ e) esonero dalle funzioni giudiziarie o giurisdizionali deliberato ai sensi dell
 
 Con decreto del Ministro della giustizia, sentito il Consiglio superiore della magistratura, sono individuate le condizioni critiche di rendimento che danno luogo all'assegnazione di cui al primo periodo e la durata minima del periodo della stessa assegnazione. Con il medesimo decreto sono altresi' definiti i criteri di priorita' per destinare i magistrati della pianta organica flessibile alla sostituzione nei casi di cui al comma 1 ovvero per assegnare i magistrati nei casi di cui al presente comma.))
 
-#### ART. 6 - Destinazione e assegnazione dei magistrati
+### ART. 6 - Destinazione e assegnazione dei magistrati
 
 1\. La destinazione dei magistrati nei casi di sostituzione ai sensi dell'articolo 5, comma 1, e' disposta, su proposta del presidente della corte d'appello ovvero del procuratore generale presso la corte d'appello, con provvedimento motivato del Consiglio superiore della magistratura.
 
@@ -112,7 +110,7 @@ Con decreto del Ministro della giustizia, sentito il Consiglio superiore della m
 
 3\. I provvedimenti di cui ai commi 1 e 2 sono comunicati al Ministro della giustizia.
 
-#### ART. 7
+### ART. 7
 
 (( (Designazione dei magistrati) ))
 
@@ -122,7 +120,7 @@ Con decreto del Ministro della giustizia, sentito il Consiglio superiore della m
 
 3\. Quando i magistrati della pianta organica flessibile distrettuale non sono chiamati alla sostituzione di magistrati assenti ovvero non risulta possibile provvedere alla loro assegnazione sulla base dei criteri di cui all'articolo 5, comma 3, gli stessi sono assegnati all'ufficio del distretto con le maggiori percentuali di scopertura effettiva)).
 
-#### ART. 8 - ((Disciplina economica e)) Valutazione dei servizi prestati dai magistrati della pianta organica flessibile distrettuale e ulteriori disposizioni sulle piante organiche
+### ART. 8 - ((Disciplina economica e)) Valutazione dei servizi prestati dai magistrati della pianta organica flessibile distrettuale e ulteriori disposizioni sulle piante organiche
 
 1\. Per i magistrati destinati alla pianta organica flessibile distrettuale l'anzianita' di servizio e' calcolata, ai soli fini del primo tramutamento successivo, in misura doppia per ogni anno e mese di effettivo servizio prestato. Le frazioni di servizio inferiori al mese non sono considerate.
 
@@ -134,7 +132,7 @@ Con decreto del Ministro della giustizia, sentito il Consiglio superiore della m
 
 ## CAPO III - DISCIPLINA DEL CONCORSO ORDINARIO PER UDITORE GIUDIZIARIO
 
-#### ART. 9 - Modifiche alla disciplina del concorso per uditore giudiziario
+### ART. 9 - Modifiche alla disciplina del concorso per uditore giudiziario
 
 1\. Gli articoli 123 e 123-ter del regio decreto 30 gennaio 1941, n. 12, e successive modificazioni, sono sostituiti dai seguenti:
 
@@ -276,11 +274,11 @@ Con il medesimo decreto i correttori sono ripartiti fra i distretti in proporzio
 
 9\. Per l'attuazione del presente articolo e' autorizzata per l'anno 2001 la spesa massima complessiva di lire 2.361.468.000.
 
-#### ART. 10 - Modifica dell'articolo 127 dell'ordinamento giudiziario
+### ART. 10 - Modifica dell'articolo 127 dell'ordinamento giudiziario
 
 1\. Nell'articolo 127, comma quarto, del regio decreto 30 gennaio 1941, n. 12, e successive modificazioni, le parole: "ha facolta' di richiedere" sono sostituite dalla seguente: "richiede" e le parole: "nel limite massimo di un decimo dei posti messi a concorso" sono soppresse.
 
-#### Art. 11
+### Art. 11
 
 Norme di coordinamento
 
@@ -298,19 +296,19 @@ b) e' aggiunto, in fine, il seguente periodo: " Al concorso sono ammessi i laure
 
 5\. ((COMMA ABROGATO DAL D.LGS. 30 GENNAIO 2006, N. 26)).
 
-#### ART. 12 - Norma di interpretazione autentica
+### ART. 12 - Norma di interpretazione autentica
 
 1\. Le disposizioni di cui all'articolo 12, comma 1, -della legge 24 marzo 1958, n. 195, come sostituito dall'articolo 13 del decreto legislativo 17 novembre 1997, n. 398, e all'articolo 125, comma 2, del regio decreto 30 gennaio 1941, n. 12, come sostituito dall'articolo 7 del decreto legislativo 17 novembre 1997, n. 398, si interpretano nel senso che si procede alle nomine nei limiti delle effettive vacanze dei posti del ruolo organico e nell'ordine in cui queste si verificano, seguendo la graduatoria finale di merito dei vincitori.
 
 ## CAPO IV - AMMISSIONE DI AVVOCATI ALL'UFFICIO DI MAGISTRATO DI TRIBUNALE
 
-#### ART. 13 - Modifiche e abrogazioni nel capo II del titolo V dell'ordinamento giudiziario
+### ART. 13 - Modifiche e abrogazioni nel capo II del titolo V dell'ordinamento giudiziario
 
 1\. Nell'articolo 121 del regio decreto, 30 gennaio 1941, n. 12, sono soppresse le parole:", salvo quanto e' disposto nell'articolo seguente".
 
 2\. L'articolo 122 del regio decreto 30 gennaio 1941, n. 12, e' abrogato.
 
-#### Art. 14
+### Art. 14
 
 Concorso per magistrato di tribunale
 
@@ -334,17 +332,17 @@ Conseguono la nomina a magistrato di tribunale mediante concorso per esame, per 
 
 4\. Agli eventuali oneri derivanti dall'attuazione del presente articolo si provvede nei limiti degli ordinari stanziamenti di bilancio del Ministero della giustizia.
 
-#### ART. 15 - Limiti di ammissibilita' e successivi concorsi
+### ART. 15 - Limiti di ammissibilita' e successivi concorsi
 
 1\. Al secondo comma dell'articolo 126 del regio decreto 30 gennaio 1941, n. 12, e successive modificazioni, e' aggiunto il seguente periodo: "Si cumulano le dichiarazioni di non idoneita' conseguite nei concorsi indetti ai sensi degli articoli 123 e 126-ter".
 
-#### Art. 16
+### Art. 16
 
 ((ARTICOLO ABROGATO DALLA L. 30 LUGLIO 2007, N. 111)).
 
 ## CAPO V - NORME TRANSITORIE E FINALI
 
-#### ART. 17
+### ART. 17
 
 (Modifiche all'articolo 17 della legge m. 127 del 1997 e
 
@@ -362,7 +360,7 @@ b) dopo il comma 2 sono inseriti i seguenti:
 
 2-ter. L'ordinamento didattico delle scuole di cui al comma 1 e' articolato sulla durata di un anno per coloro che conseguono la laurea specialistica per la classe delle scienze giuridiche sulla base degli ordinamenti didattici adottati in esecuzione del decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica 3 novembre 1999, n. 509. Con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica, di concerto con il Ministro della giustizia, sono definiti i criteri generali ai fini dell'adeguamento dell'ordinamento medesimo alla durata annuale".
 
-#### Art. 18
+### Art. 18
 
 Reclutamento di uditori giudiziari
 
@@ -376,7 +374,7 @@ Particolare attenzione e' dedicata, in sede di prova orale, alla materia che il 
 
 4\. Qualora all'esito delle prove scritte e orali il numero complessivo dei candidati giudicati idonei, ai sensi del comma 3 del citato articolo 123-ter, sia inferiore di oltre un decimo a quello che i bandi si propongono di reclutare, e' in facolta' del Ministro della giustizia, su conforme parere del Consiglio superiore della magistratura, ammettere altresi' i candidati che abbiano conseguito almeno dodici ventesimi di punti in ciascuna delle materie della prova scritta e almeno sei decimi in ciascuna delle materie della prova orale.
 
-#### ART. 19 - Proroga di graduatorie concorsuali
+### ART. 19 - Proroga di graduatorie concorsuali
 
 1\. Per sopperire alla carenza di organico del personale amministrativo presso gli uffici giudiziari, e' prorogata fino al 30 giugno 2001:
 
@@ -386,15 +384,15 @@ b) la graduatoria generale di merito relativa al concorso per 954 posti di ex op
 
 c) la graduatoria di merito relativa al concorso per 368 posti di ex dattilografo giudiziario (attualmente operatore giudiziario, posizione economica B1) indetto con provvedimento del medesimo direttore generale 27 novembre 1997, pubblicato nella Gazzetta Ufficiale, quarta serie speciale, n. 99 del 19 dicembre 1997.
 
-#### ART. 20 - Disposizioni concernenti i giudici di pace
+### ART. 20 - Disposizioni concernenti i giudici di pace
 
 1\. Anche in deroga a quanto previsto dall'articolo 7 della legge 21 novembre 1991, n. 374, e successive modificazioni, il magistrato onorario che, dopo essere stato confermato, esercita le funzioni di giudice di pace alla data di entrata in vigore della presente legge puo' essere ulteriormente confermato per un periodo di altri due anni dopo il termine dell'incarico.
 
-#### ART. 21 - Copertura finanziaria
+### ART. 21 - Copertura finanziaria
 
 1\. All'onere derivante dall'attuazione della presente legge, valutato in lire 4.379 milioni per l'anno 2001 e in lire 102.938 milioni a decorrere dall'anno 2002, si provvede mediante riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2001-2003, nell'ambito dell'unita' previsionale di base di parte corrente " Fondo speciale " dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 2001, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero della giustizia.
 
-#### ART. 22 - Disciplina transitoria
+### ART. 22 - Disciplina transitoria
 
 1\. Le disposizioni di cui al capo IV diventano efficaci in seguito all'attuazione delle disposizioni di cui all'articolo 16 del decreto legislativo 17 novembre 1997, n. 398, come modificato dalla presente legge, in materia di scuole di specializzazione per le professioni legali.
 
@@ -426,7 +424,7 @@ Visto, il Guardasigilli: Fassino
 
 ## CAPO V - NORME TRANSITORIE E FINALI
 
-#### Allegato
+### Allegato
 
 ALLEGATO (Articolo 1, comma 2)
 

@@ -54,11 +54,9 @@ Sulla proposta del Ministro per le politiche europee e del Ministro dell'economi
 
 Emana il seguente decreto legislativo:
 
-## Capo I
+## Capo I - DEFINIZIONI
 
-### DEFINIZIONI
-
-#### Art. 1
+### Art. 1
 
 Definizioni
 
@@ -206,11 +204,9 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-## Capo II
+## Capo II - ABILITAZIONE E FORMAZIONE CONTINUA
 
-### ABILITAZIONE E FORMAZIONE CONTINUA
-
-#### Art. 2
+### Art. 2
 
 Abilitazione all'esercizio della revisione legale
 
@@ -300,7 +296,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-#### Art. 3 - Tirocinio
+### Art. 3 - Tirocinio
 
 1\. Il tirocinio:
 
@@ -404,7 +400,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-#### Art. 4
+### Art. 4
 
 Esame di idoneita' professionale
 
@@ -522,7 +518,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-#### Art. 5 - Formazione continua
+### Art. 5 - Formazione continua
 
 1\. Gli iscritti nel Registro sono tenuti al rispetto degli obblighi di formazione continua.
 
@@ -616,7 +612,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-#### Art. 5-bis - Formazione dei soggetti incaricati dei controlli della qualita'
+### Art. 5-bis - Formazione dei soggetti incaricati dei controlli della qualita'
 
 1\. Il Ministero dell'economia e delle finanze, sentita la Consob, definisce con proprio decreto i criteri di accreditamento dei corsi di formazione per i soggetti incaricati dei controlli della qualita', nonche' i programmi e il contenuto minimo di tali corsi.
 
@@ -630,11 +626,9 @@ AGGIORNAMENTO (9)
 
 Il D.Lgs. 6 settembre 2024, n. 25, ha disposto (con l'art. 18, comma 7) che "Al fine di consentire l'avvio dei controlli di qualita' da parte del Ministero dell'economia e delle finanze, le disposizioni di cui all'articolo 5-bis del decreto legislativo 27 gennaio 2010, n. 39, si applicano a decorrere dal 31 dicembre 2026, a condizione che i soggetti incaricati abbiano preso parte a una formazione specifica in materia di controlli della qualita', che puo' avere anche carattere selettivo".
 
-## Capo III
+## Capo III - REGISTRO
 
-### REGISTRO
-
-#### Art. 6
+### Art. 6
 
 Iscrizione nel Registro
 
@@ -696,7 +690,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-#### Art. 7 - Contenuto informativo del Registro
+### Art. 7 - Contenuto informativo del Registro
 
 1\. Per ciascun revisore legale, il Registro riporta almeno le seguenti informazioni:
 
@@ -804,7 +798,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-#### Art. 8
+### Art. 8
 
 (( (Sezione A e B del Registro).))
 
@@ -816,11 +810,9 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 4\. I soggetti iscritti nella «Sezione A» e nella «Sezione B» del Registro, sono in ogni caso tenuti agli obblighi di comunicazione e di aggiornamento del contenuto informativo ai sensi dell'articolo 7, ad osservare gli obblighi in materia di formazione continua, nonche' al pagamento del contributo annuale di iscrizione.))
 
-## Capo IV
+## Capo IV - SVOLGIMENTO DELLA REVISIONE LEGALE
 
-### SVOLGIMENTO DELLA REVISIONE LEGALE
-
-#### Art. 9 - Deontologia e scetticismo professionale
+### Art. 9 - Deontologia e scetticismo professionale
 
 1\. I soggetti abilitati all'esercizio dell'attivita' di revisione legale rispettano i principi di deontologia professionale elaborati da associazioni e ordini professionali congiuntamente al Ministero dell'economia e delle finanze e alla Consob e adottati dal Ministero dell'economia e delle finanze, sentita la Consob. A tal fine, il Ministero dell'economia e delle finanze sottoscrive una convenzione con gli ordini e le associazioni professionali interessati, finalizzata a definire le modalita' di elaborazione dei principi.
 
@@ -884,7 +876,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-#### Art. 9-bis - Riservatezza e segreto professionale
+### Art. 9-bis - Riservatezza e segreto professionale
 
 1\. Tutte le informazioni e i documenti ai quali hanno accesso il revisore legale e la societa' di revisione legale nello svolgimento della revisione legale sono coperti dall'obbligo di riservatezza e dal segreto professionale. (4)
 
@@ -960,7 +952,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-#### Art. 10 - Indipendenza e obiettivita'
+### Art. 10 - Indipendenza e obiettivita'
 
 1\. Il revisore legale e la societa' di revisione legale che effettuano la revisione legale, nonche' qualsiasi persona fisica in grado di influenzare direttamente o indirettamente l'esito della revisione legale, devono essere indipendenti dalla societa' sottoposta a revisione e non devono essere in alcun modo coinvolti nel suo processo decisionale. (4)
 
@@ -1058,7 +1050,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-#### Art. 10-bis - Preparazione della revisione legale e valutazione dei rischi per l'indipendenza
+### Art. 10-bis - Preparazione della revisione legale e valutazione dei rischi per l'indipendenza
 
 1\. Il revisore legale o la societa' di revisione legale, prima di accettare o proseguire un incarico di revisione legale, deve valutare e documentare:
 
@@ -1126,7 +1118,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-#### Art. 10-ter - Organizzazione interna
+### Art. 10-ter - Organizzazione interna
 
 1\. La societa' di revisione legale, al fine di tutelare l'indipendenza e l'obiettivita' del revisore legale che effettua la revisione per conto della societa' di revisione legale, stabilisce direttive e procedure per assicurare il rispetto delle disposizioni di cui all'articolo 10, comma 8.
 
@@ -1210,7 +1202,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-#### Art. 10-quater - Organizzazione del lavoro
+### Art. 10-quater - Organizzazione del lavoro
 
 1\. Ove la revisione legale sia effettuata da una societa' di revisione legale, la stessa dovra' designare almeno un responsabile dell'incarico. Al responsabile dell'incarico vengono assegnate risorse sufficienti e personale dotato delle competenze e capacita' necessarie per espletare in modo adeguato le proprie attivita'. (9) ((12))
 
@@ -1292,7 +1284,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-#### Art. 10-quinquies
+### Art. 10-quinquies
 
 (( (Revisione legale del bilancio consolidato).))
 
@@ -1318,7 +1310,7 @@ AGGIORNAMENTO (4)
 
 Il D.Lgs. 17 luglio 2016, n. 135, ha disposto (con l'art. 27, comma 9) che le disposizioni del presente articolo non si applicano con riferimento agli esercizi sociali delle societa' sottoposte a revisione legale in corso al 5/8/2016.
 
-#### Art. 10-sexies - Attestazione della conformita' della rendicontazione consolidata di sostenibilita'
+### Art. 10-sexies - Attestazione della conformita' della rendicontazione consolidata di sostenibilita'
 
 1\. Nel caso di un incarico di attestazione della conformita' della rendicontazione consolidata di sostenibilita' di un gruppo, il revisore della sostenibilita' del gruppo assume la piena responsabilita' per la relazione di attestazione di cui all'articolo 14-bis.
 
@@ -1384,7 +1376,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-#### Art. 11 - Principi di revisione e di attestazione della conformita'
+### Art. 11 - Principi di revisione e di attestazione della conformita'
 
 (9) ((12))
 
@@ -1444,11 +1436,11 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-#### Art. 12
+### Art. 12
 
 ((ARTICOLO ABROGATO DAL D.LGS. 17 LUGLIO 2016, N. 135))
 
-#### Art. 13 - Conferimento, revoca e dimissioni dall'incarico, risoluzione del contratto
+### Art. 13 - Conferimento, revoca e dimissioni dall'incarico, risoluzione del contratto
 
 1\. Salvo quanto disposto dall'articolo 2328, secondo comma, numero 11), del codice civile e fermo restando che i conferimenti degli incarichi di revisione legale dei conti da parte di enti di interesse pubblico sono disciplinati dall'articolo 17, comma 1, del presente decreto e dall'articolo 16 del Regolamento europeo, l'assemblea, su proposta motivata dell'organo di controllo, conferisce l'incarico di revisione legale e determina il corrispettivo spettante al revisore legale o alla societa' di revisione legale per l'intera durata dell'incarico e gli eventuali criteri per l'adeguamento di tale corrispettivo durante l'incarico. (4) (9) ((12))
 
@@ -1526,7 +1518,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-#### Art. 14 - Relazione di revisione e giudizio sul bilancio
+### Art. 14 - Relazione di revisione e giudizio sul bilancio
 
 1\. Il revisore legale o la societa' di revisione legale incaricati di effettuare la revisione legale dei conti:
 
@@ -1636,7 +1628,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-#### Art. 14-bis - Relazione di attestazione della conformita' della rendicontazione di sostenibilita'
+### Art. 14-bis - Relazione di attestazione della conformita' della rendicontazione di sostenibilita'
 
 1\. Il revisore della rendicontazione di sostenibilita' o la societa' di revisione legale, abilitati ai sensi del presente decreto, appositamente incaricati, esprimono con apposita relazione di attestazione le proprie conclusioni circa la conformita' della rendicontazione di sostenibilita' alle norme del decreto legislativo adottato in attuazione dell'articolo 13 della legge 21 febbraio 2024, n. 15, che ne disciplinano i criteri di redazione, la conformita' all'obbligo di marcatura della rendicontazione di sostenibilita' di cui agli articoli 3, comma 10, e 4, comma 9, del predetto decreto, nonche' circa la conformita' all'osservanza degli obblighi di informativa previsti dall'articolo 8 del regolamento (UE) 2020/852 del Parlamento europeo e del Consiglio, del 18 giugno 2020.
 
@@ -1704,7 +1696,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-#### Art. 15
+### Art. 15
 
 (( (Responsabilita').))
 
@@ -1714,11 +1706,9 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\. L'azione di risarcimento nei confronti dei responsabili ai sensi del presente articolo si prescrive nel termine di cinque anni dalla data della relazione di revisione sul bilancio d'esercizio o consolidato emessa al termine dell'attivita' di revisione cui si riferisce l'azione di risarcimento.))
 
-## Capo V
+## Capo V - ((DISPOSIZIONI SPECIALI RIGUARDANTI GLI ENTI DI INTERESSE PUBBLICO E GLI ENTI SOTTOPOSTI A REGIME INTERMEDIO))
 
-### ((DISPOSIZIONI SPECIALI RIGUARDANTI GLI ENTI DI INTERESSE PUBBLICO E GLI ENTI SOTTOPOSTI A REGIME INTERMEDIO))
-
-#### Art. 16
+### Art. 16
 
 (( (Enti di interesse pubblico).))
 
@@ -1742,7 +1732,7 @@ AGGIORNAMENTO (4)
 
 Il D.Lgs. 17 luglio 2016, n. 135, ha disposto (con l'art. 27, comma 9) che le disposizioni del presente articolo non si applicano con riferimento agli esercizi sociali delle societa' sottoposte a revisione legale in corso al 5/8/2016.
 
-#### Art. 17 - Indipendenza
+### Art. 17 - Indipendenza
 
 1\. L'incarico di revisione legale ha la durata di nove esercizi per le societa' di revisione e di sette esercizi per i revisori legali.
 
@@ -1824,7 +1814,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-#### Art. 18
+### Art. 18
 
 (( (Relazione di trasparenza).))
 
@@ -1838,7 +1828,7 @@ AGGIORNAMENTO (4)
 
 Il D.Lgs. 17 luglio 2016, n. 135, ha disposto (con l'art. 27, comma 9) che le disposizioni del presente articolo non si applicano alle relazioni di trasparenza dei soggetti tenuti alla loro pubblicazione relative agli esercizi in corso al 5/8/2016.
 
-#### Art. 19 - Comitato per il controllo interno e la revisione contabile
+### Art. 19 - Comitato per il controllo interno e la revisione contabile
 
 1\. Negli enti di interesse pubblico, il comitato per il controllo interno e la revisione contabile e' incaricato:
 
@@ -1918,7 +1908,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-#### Art. 19-bis - Enti sottoposti a regime intermedio
+### Art. 19-bis - Enti sottoposti a regime intermedio
 
 1\. Sono enti sottoposti a regime intermedio:
 
@@ -1968,7 +1958,7 @@ AGGIORNAMENTO (8)
 
 Il D.Lgs. 30 luglio 2024, n. 116, ha disposto (con l'art. 3, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto si applicano a partire dalla data di entrata in vigore delle disposizioni di attuazione della Banca d'Italia di cui al comma 1 e con riferimento alle operazioni di acquisto di crediti in sofferenza effettuate a partire da tale data. Le disposizioni del presente decreto che modificano il titolo VI, capi I-bis e II, del decreto legislativo 1° settembre 1993, n. 385, si applicano ai contratti di credito immobiliare ai consumatori e di credito ai consumatori stipulati a partire dalla medesima data".
 
-#### Art. 19-ter - Disciplina applicabile agli enti sottoposti a regime intermedio
+### Art. 19-ter - Disciplina applicabile agli enti sottoposti a regime intermedio
 
 1\. Ferma restando l'applicazione delle disposizioni di cui al presente decreto relative alla revisione di enti diversi dagli enti di interesse pubblico, ai revisori degli enti sottoposti a regime intermedio si applicano altresi' le disposizioni di cui:
 
@@ -2024,11 +2014,9 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-## Capo VI
+## Capo VI - CONTROLLO DELLA QUALITA'
 
-### CONTROLLO DELLA QUALITA'
-
-#### Art. 20
+### Art. 20
 
 (( (Controllo della qualita').))
 
@@ -2072,7 +2060,7 @@ c) sono stati, per almeno 5 anni continuativi, dipendenti di amministrazioni pub
 
 17\. Il revisore legale e la societa' di revisione legale provvedono a effettuare gli interventi indicati nella relazione di cui al comma 16, entro il termine nella stessa definito. In caso di mancata, incompleta o tardiva effettuazione di tali interventi il Ministero dell'economia e delle finanze e la Consob, negli ambiti di rispettiva competenza, possono applicare le sanzioni di cui agli articoli 24 e 26, commi 1, 1-ter e 1-quater.))
 
-#### Art. 20-bis - Controllo della qualita' sull'attestazione di conformita' della rendicontazione di sostenibilita'
+### Art. 20-bis - Controllo della qualita' sull'attestazione di conformita' della rendicontazione di sostenibilita'
 
 1\. I revisori della sostenibilita' e le societa' di revisione che svolgono incarichi di attestazione sulla conformita' della rendicontazione di sostenibilita' sono soggetti a controllo della qualita' secondo le specifiche disposizioni del presente articolo.
 
@@ -2160,11 +2148,9 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-## Capo VII
+## Capo VII - VIGILANZA
 
-### VIGILANZA
-
-#### Art. 21 - Competenze e poteri del Ministero dell'economia e delle finanze
+### Art. 21 - Competenze e poteri del Ministero dell'economia e delle finanze
 
 1\. Il Ministero dell'economia e delle finanze assicura: (9) ((12)) a) l'abilitazione, ivi compreso lo svolgimento del tirocinio, e l'iscrizione nel Registro dei revisori legali e delle societa' di revisione legale, anche ai fini dello svolgimento delle attivita' di attestazione della conformita' della rendicontazione della sostenibilita'; (9) ((12))
 
@@ -2254,7 +2240,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-#### Art. 21-bis
+### Art. 21-bis
 
 (( (Svolgimento dei controlli della qualita' da parte del Ministero dell'economia e delle finanze).))
 
@@ -2318,7 +2304,7 @@ e) assumere notizie, chiarimenti, dati e documenti dai titolari, soci o associat
 
 12\. Gli oneri derivanti dallo svolgimento dei controlli della qualita' in attuazione delle disposizioni del presente articolo, sono finanziati dai contributi degli iscritti al Registro ai sensi dell'articolo 21, comma 7, senza nuovi o maggiori oneri per la finanza pubblica.))
 
-#### Art. 22 - Competenze e poteri della Consob
+### Art. 22 - Competenze e poteri della Consob
 
 1\. La Consob vigila sull'organizzazione e sull'attivita' dei revisori legali e delle societa' di revisione legale che hanno incarichi di revisione legale su enti di interesse pubblico o su enti sottoposti a regime intermedio al fine di verificare il corretto svolgimento della revisione legale, in conformita' alle disposizioni del presente decreto, delle norme di attuazione e del Regolamento europeo e svolge i compiti previsti dall'articolo 20 del Regolamento europeo. Nell'esercizio di tali funzioni, la Consob provvede ad effettuare sui suddetti soggetti il controllo della qualita' di cui all'articolo 20 del presente decreto o di cui all'articolo 26 del Regolamento europeo, secondo i rispettivi ambiti di applicazione.
 
@@ -2418,7 +2404,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-#### Art. 23
+### Art. 23
 
 (( (Collaborazione tra autorita' e segreto d'ufficio).))
 
@@ -2426,11 +2412,9 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 1-bis. Ai fini della ricognizione degli enti di interesse pubblico e di quelli sottoposti a regime intermedio, le Autorita' di vigilanza sugli enti sottoposti a revisione collaborano con il Ministero dell'economia e delle finanze e comunicano, in particolare, almeno annualmente, l'elenco delle entita' rispettivamente vigilate.))
 
-## Capo VIII
+## Capo VIII - SANZIONI AMMINISTRATIVE E PENALI
 
-### SANZIONI AMMINISTRATIVE E PENALI
-
-#### Art. 24 - Provvedimenti del Ministero dell'economia e delle finanze
+### Art. 24 - Provvedimenti del Ministero dell'economia e delle finanze
 
 1\. Il Ministero dell'economia e delle finanze, quando accerta irregolarita' nello svolgimento dell'attivita' di revisione legale o di attestazione delle conformita' della rendicontazione della sostenibilita', puo' applicare le seguenti sanzioni:
 
@@ -2528,7 +2512,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-#### Art. 24-bis
+### Art. 24-bis
 
 (( (Sospensione cautelare). ))
 
@@ -2538,7 +2522,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\. Quando la sospensione sia stata disposta in dipendenza del procedimento penale e questo si concluda con sentenza di proscioglimento o di assoluzione passata in giudicato perche' il fatto non sussiste o perche' il fatto contestato non e' stato commesso, la sospensione e' revocata con decorrenza dalla data di pronuncia della sentenza.))
 
-#### Art. 24-ter
+### Art. 24-ter
 
 (( (Sospensione per morosita'). ))
 
@@ -2550,7 +2534,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 4\. Decorsi ulteriori 6 mesi dalla data del provvedimento che dispone la sospensione senza che l'iscritto abbia provveduto a regolarizzare i contributi omessi, il Ministero dell'economia e delle finanze, previa comunicazione, provvede alla cancellazione dal Registro dei revisori con le modalita' di cui al comma 2.))
 
-#### Art. 25
+### Art. 25
 
 (( (Procedura sanzionatoria). ))
 
@@ -2590,7 +2574,7 @@ L'opposizione deve essere notificata al Ministero dell'economia e delle finanze 
 
 8\. Copia del decreto e' trasmessa a cura della cancelleria della Corte d'appello al Ministero dell'economia e delle finanze ai fini della pubblicazione sul sito internet di cui all'articolo 7, comma 5.))
 
-#### Art. 26 - Provvedimenti della Consob
+### Art. 26 - Provvedimenti della Consob
 
 1\. La Consob, quando accerta la violazione delle disposizioni di cui agli articoli 9, 9-bis, 10, 10-bis, 10-ter, 10-quater, 10-quinquies, 11, 14 e 17 del presente decreto, e delle relative norme di attuazione, e di cui agli articoli 4, 5, 6, 8, 10, 11, 15, 17, 18 e 26, comma 8, del Regolamento europeo, puo' applicare le seguenti sanzioni:
 
@@ -2648,7 +2632,7 @@ AGGIORNAMENTO (4)
 
 Il D.Lgs. 17 luglio 2016, n. 135, ha disposto (con l'art. 27, comma 11) che "Le modifiche all'articolo 26 del decreto legislativo 27 gennaio 2010, n. 39, si applicano alle violazioni commesse dalla data di rispettiva applicazione di ciascuna delle disposizioni del decreto legislativo 27 gennaio 2010, n. 39, come modificato dal presente decreto. Alle violazioni commesse anteriormente, continuano ad applicarsi le disposizioni vigenti prima della entrata in vigore del presente decreto".
 
-#### Art. 26-bis
+### Art. 26-bis
 
 (( (Sistemi interni di segnalazione delle violazioni). ))
 
@@ -2668,7 +2652,7 @@ d) il diritto del presunto responsabile della violazione di essere ascoltato pri
 
 4\. Il Ministero dell'economia e delle finanze emana le disposizioni attuative del presente articolo, sentita la Consob.))
 
-#### Art. 26-ter
+### Art. 26-ter
 
 (( (Procedura di segnalazione al Ministero dell'economia e delle finanze e alla Consob). ))
 
@@ -2678,7 +2662,7 @@ d) il diritto del presunto responsabile della violazione di essere ascoltato pri
 
 3\. Nel caso di accesso ai sensi degli articoli 22 e seguenti della legge 7 agosto 1990, n. 241, l'ostensione dei documenti relativi alle segnalazioni di cui al comma 1 e' effettuata con modalita' che salvaguardino comunque la riservatezza del segnalante e del segnalato.))
 
-#### Art. 26-quater - Provvedimenti della Consob sull'attivita' di attestazione
+### Art. 26-quater - Provvedimenti della Consob sull'attivita' di attestazione
 
 1\. La Consob, quando accerta la violazione delle disposizioni di cui agli articoli 9, comma 4-bis, 9-bis, comma 8-bis, 10, commi 13-bis e 13-ter, 10-bis, comma 1-bis, 10-ter, comma 11-bis, 10-quater, commi 1-bis, 1-ter, 2, 3, 4, 5, 6-bis, 7-bis e 8, 10-sexies, 11, commi 1-bis e 2-bis, 14-bis, 17, commi 3-bis, 3-ter, 3-quater e 5-bis del presente decreto e delle relative norme di attuazione, nonche' la violazione delle disposizioni di cui al regolamento adottato dalla Consob ai sensi dell'articolo 18, comma 9, del decreto legislativo adottato in attuazione dell'articolo 13 della legge 21 febbraio 2024, n. 15, puo' applicare le seguenti sanzioni:
 
@@ -2770,7 +2754,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-#### Art. 27
+### Art. 27
 
 (( (Falsita' nelle relazioni o nelle comunicazioni dei responsabili della revisione legale). ))
 
@@ -2784,7 +2768,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 5\. La pena prevista dai commi 3 e 4 si applica a chi da' o promette l'utilita' nonche' ai direttori generali e ai componenti dell'organo di amministrazione e dell'organo di controllo dell'ente di interesse pubblico o dell'ente sottoposto a regime intermedio assoggettati a revisione legale, che abbiano concorso a commettere il fatto.))
 
-#### Art. 28
+### Art. 28
 
 (( (Corruzione dei revisori). ))
 
@@ -2794,7 +2778,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\. Si procede d'ufficio.))
 
-#### Art. 29
+### Art. 29
 
 (( (Impedito controllo). ))
 
@@ -2806,7 +2790,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 4\. Si procede d'ufficio.))
 
-#### Art. 30
+### Art. 30
 
 (( (Compensi illegali). ))
 
@@ -2814,13 +2798,13 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 2\. La stessa pena si applica ai componenti dell'organo di amministrazione, ai dirigenti e ai liquidatori della societa' assoggettata a revisione legale che hanno corrisposto il compenso non dovuto.))
 
-#### Art. 31
+### Art. 31
 
 (( (Illeciti rapporti patrimoniali con la societa' assoggettata a revisione). ))
 
 ((1. Gli amministratori, i soci responsabili della revisione legale e i dipendenti della societa' di revisione che contraggono prestiti, sotto qualsiasi forma, sia direttamente che per interposta persona, con la societa' assoggettata a revisione o con una societa' che la controlla, o ne e' controllata, o si fanno prestare da una di tali societa' garanzie per debiti propri, sono puniti con la reclusione da uno a tre anni e con la multa da euro 206 a euro 2.065.))
 
-#### Art. 32
+### Art. 32
 
 (( (Disposizioni comuni). ))
 
@@ -2836,11 +2820,9 @@ c) sono emesse sentenze che definiscono il grado di giudizio.
 
 3\. Deve essere altresi' comunicata al Ministero dell'economia e delle finanze e alla Consob, a cura del cancelliere dell'autorita' giudiziaria che ha emesso l'atto, la sentenza penale pronunciata a carico dei responsabili della revisione legale, dei componenti dell'organo di amministrazione, dei soci e dei dipendenti della societa' di revisione legale per i reati commessi nell'esercizio della revisione legale.))
 
-## Capo IX
+## Capo IX - ASPETTI INTERNAZIONALI
 
-### ASPETTI INTERNAZIONALI
-
-#### Art. 33
+### Art. 33
 
 Cooperazione internazionale
 
@@ -2902,7 +2884,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-#### Art. 34
+### Art. 34
 
 Iscrizione di revisori di Paesi terzi nel Registro
 
@@ -2970,7 +2952,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-#### Art. 35 - Vigilanza sui revisori e sugli enti di revisione contabile di Paesi terzi
+### Art. 35 - Vigilanza sui revisori e sugli enti di revisione contabile di Paesi terzi
 
 1\. I revisori e gli enti di revisione contabile di un Paese terzo iscritti nel Registro sono soggetti al sistema di controllo pubblico, di controllo della qualita' e di indagini e sanzioni della Consob disciplinato dal presente decreto.
 
@@ -3022,7 +3004,7 @@ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) a
 
 3\) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
 
-#### Art. 36
+### Art. 36
 
 (( (Deroghe in caso di equivalenza). ))
 
@@ -3040,11 +3022,9 @@ a) gli elementi principali degli accordi di cooperazione di cui al comma 2;
 
 b) le valutazioni di equivalenza effettuate ai sensi del comma 3.))
 
-## Capo X
+## Capo X - MODIFICHE E ABROGAZIONI ALLA NORMATIVA VIGENTE
 
-### MODIFICHE E ABROGAZIONI ALLA NORMATIVA VIGENTE
-
-#### Art. 37
+### Art. 37
 
 Modifiche al codice civile
 
@@ -3680,7 +3660,7 @@ b) le parole: «, ad altri organi sociali o alle societa' di revisione» sono so
 
 > Si procede a querela della persona offesa.».
 
-#### Art. 38
+### Art. 38
 
 Modifiche al decreto legislativo 9 aprile 1991, n. 127
 
@@ -3762,7 +3742,7 @@ Modifiche al decreto legislativo 9 aprile 1991, n. 127
 
 > 2-bis. Ai fini dell'applicazione del comma 1, lettere o-ter), o-quater) e o-quinquies) e dell'art. 40, comma 2, lettera d-bis), per le definizioni di "strumento finanziario", "strumento finanziario derivato", "fair value" e "parte correlata" si fa riferimento ai principi contabili internazionali adottati dall'Unione europea.».
 
-#### Art. 39
+### Art. 39
 
 Modifiche al TUB
 
@@ -3866,7 +3846,7 @@ b) al comma 5-bis le parole: «del controllo contabile o della revisione» sono 
 
 > 7\. I commissari, previa autorizzazione della Banca d'Italia e con il parere favorevole del comitato di sorveglianza, possono farsi coadiuvare nello svolgimento delle operazioni da terzi, sotto la propria responsabilita' e con oneri a carico della liquidazione. In casi eccezionali, i commissari, previa autorizzazione della Banca d'Italia, possono a proprie spese delegare a terzi il compimento di singoli atti.».
 
-#### Art. 40
+### Art. 40
 
 Modifiche al TUIF
 
@@ -4260,7 +4240,7 @@ c) ai commi 2 e 3, le parole: «della societa' di revisione» sono sostituite da
 
 > 5-bis. Nell'esercizio della vigilanza su base consolidata, la Banca d'Italia puo' adottare i provvedimenti previsti dall'art. 7, comma 2, nei confronti dei soggetti di cui all'art. 11, comma 1, lettera b).».
 
-#### Art. 41
+### Art. 41
 
 Modifiche al Codice delle assicurazioni private
 
@@ -4432,7 +4412,7 @@ Si applicano, altresi', le sanzioni penali per il reato di corruzione del reviso
 
 > 4\. Nei casi previsti dai commi 1 e 2 che presentino particolare gravita' l'ISVAP puo' disporre la revoca dell'incarico.».
 
-#### Art. 42
+### Art. 42
 
 Personale
 
@@ -4440,7 +4420,7 @@ Personale
 
 ((2. Presso il Ministero dell'economia e delle finanze e' istituita, senza nuovi o maggiori oneri a carico del bilancio dello Stato, la Commissione centrale per i revisori legali. Ad essa sono trasferite le risorse finanziarie e strumentali della Commissione prevista dall'articolo 1 del decreto del Presidente della Repubblica 6 marzo 1998, n. 99, che e' contestualmente soppressa. Con decreto del Ministro dell'economia e delle finanze sono stabiliti i compiti della Commissione, nonche' la composizione e i relativi compensi. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare le occorrenti variazioni di bilancio.))
 
-#### Art. 43
+### Art. 43
 
 Abrogazioni e disposizioni finali e transitorie
 

@@ -30,13 +30,13 @@ la seguente legge:
 
 ## TITOLO I - PROVVEDIMENTI PER LO SVILUPPO DELLA PROPRIETA' COLTIVATRICE
 
-##### Art. 1
+#### Art. 1
 
 Ai mezzadri, ai coloni parziari, ai compartecipanti, agli affittuari ed enfiteuti coltivatori diretti, nonche' agli altri lavoratori manuali della terra, singoli o associati in cooperativa, possono essere concessi mutui della durata di anni 40 al tasso annuo di interesse dell'uno per cento, per l'acquisto - effettuato in epoca posteriore all'entrata in vigore della presente legge di fondi rustici che, a giudizio dell'Ispettorato provinciale dell'agricoltura, avuto riguardo alla concreta situazione ambientale ed alla composizione del nucleo familiare del coltivatore acquirente, la, cui forza lavorativa non sia inferiore ad un terzo di quella occorrente per le normali necessita' di coltivazione del fondo, siano riconosciuti idonei alla costituzione di aziende che abbiano caratteristiche o suscettivita' per realizzare imprese familiari efficienti, sotto il profilo tecnico ed economico.
 
 I mutui di cui al primo comma possono essere altresi' concessi ai proprietari coltivatori diretti, singoli od associati in cooperative, il cui nucleo familiare abbia una capacita' lavorativa superiore ad un terzo di quella occorrente per la normale coltivazione del loro fondo.
 
-##### Art. 2
+#### Art. 2
 
 Agli acquirenti i fondi rustici con i benefici di cui al precedente articolo, possono essere pure concessi prestiti a tasso agevolato per l'acquisto di macchine, attrezzi e bestiame, anche di pertinenza del venditore, per la normale dotazione delle aziende di nuova costituzione od ampliate, purche' gli interessati ne facciano richiesta entro un biennio dall'avvenuto acquisto dei fondi stessi.
 
@@ -46,7 +46,7 @@ I prestiti di cui ai precedenti commi avranno la durata di cinque anni e saranno
 
 Detti prestiti saranno concessi dagli istituti di cui al successivo articolo 16, ancorche' abilitati ad esercitare esclusivamente il credito agrario di miglioramento ai sensi della legge 5 luglio 1928, n. 1760 e successive modificazioni ed integrazioni.
 
-##### Art. 3
+#### Art. 3
 
 La concessione dei mutui e dei prestiti agevolati, nei limiti delle anticipazioni disposte dalla presente legge, e subordinata al rilascio di apposito nulla osta da parte dell'Ispettorato provinciale dell'agricoltura competente per territorio, che dovra' pronunciarsi anche sulla congruita' del prezzo d'acquisto, nonche' alla decisione dell'istituto di credito, secondo le modalita' che saranno stabilite con le norme di attuazione della presente legge.
 
@@ -56,17 +56,17 @@ Il nulla osta per mutui di importo superiore a lire trenta milioni debbono esser
 
 Gli Enti di sviluppo agricolo, istituiti per legge, sono autorizzati ad intervenire per facilitare l'espletamento delle procedure di cui agli articoli precedenti.
 
-##### Art. 4
+#### Art. 4
 
 Una Commissione provinciale - composta del capo dell'Ispettorato provinciale dell'agricoltura, del capo dell'ispettorato ripartimentale delle foreste, del capo dell'Ufficio tecnico erariale e di un rappresentante dell'Ente di sviluppo competente per territorio od, in mancanza, del Comitato regionale per l'agricoltura di cui alla legge 2 giugno 1961, n. 454 - indica periodicamente, con riferimento a zone aventi caratteristiche agronomiche omogenee o similari i valori fondiari medi riferiti ad unita' di superficie ed a tipi di coltura, secondo apposito schema predisposto dall'Ispettorato agrario compartimentale competente per territorio.
 
 Il giudizio di congruita', previsto dal precedente articolo 3, viene formulato tenendo conto dei suindicati valori ed in relazione agli specifici elementi strutturali e produttivi che configurano i singoli fondi.
 
-##### Art. 5
+#### Art. 5
 
 Per la concessione dei mutui previsti dalla presente legge, la documentazione di rito potra' essere sostituita da una dichiarazione notarile attestante l'esito degli accertamenti eseguiti circa la proprieta' e la liberta' dei beni offerti in garanzia.
 
-##### Art. 6
+#### Art. 6
 
 I mutui ed i prestiti di cui agli articoli 1 e 2 della presente legge sono assistiti dalla garanzia sussidiaria del Fondo interbancario, istituito con l'articolo 36 della legge 2 giugno 1961, n. 454, sino all'ammontare della complessiva perdita che gli istituiti mutuanti dimostreranno di aver sofferto dopo l'esperimento delle procedure di riscossione coattiva sui beni delle ditte inadempienti per almeno due rate annuali consecutive.
 
@@ -82,7 +82,7 @@ d) dall'importo degli interessi maturati sulle predette somme affluite ad apposi
 
 La garanzia offerta dal Fondo interbancario per i mutui e i prestiti di cui al primo comma formera' oggetto di separata gestione alla quale restano vincolati i suddetti apporti finanziari.
 
-##### Art. 7
+#### Art. 7
 
 Oltre il pagamento delle rate di ammortamento per capitale ed interesse, nessun altro onere puo' farsi gravare dagli istituti sulle ditte beneficiarie a qualsiasi titolo, salvo la trattenuta dello 0,20 per cento da operare all'atto della somministrazione della somma concessa a mutuo o prestito.
 
@@ -96,7 +96,7 @@ Gli istituti faranno i versamenti alle date stabilite, anche se non
 
 abbiano ricevuto dai mutuatari le corrispondenti annualita'.
 
-##### Art. 8
+#### Art. 8
 
 In caso di trasferimento a titolo oneroso o di concessione in enfiteusi di fondi concessi in affitto a coltivatori diretti, a mezzadria, a colonia parziaria, o a compartecipazione, esclusa quella stagionale, l'affittuario, il mezzadro, il colono o il compartecipante, a parita' di condizioni ha diritto di prelazione purche' coltivi il fondo stesso da almeno quattro anni, non abbia venduto, nel biennio precedente, altri fondi rustici di imponibile fondiario superiore a lire mille, salvo il caso di cessione a scopo di ricomposizione fondiaria, ed il fondo per il quale intende esercitare la prelazione in aggiunta ad altri eventualmente posseduti in proprieta' od enfiteusi non superi il triplo della, superficie corrispondente alla capacita' lavorativa della, sua famiglia.(1) (7) La prelazione non e' consentita nei casi di permuta, vendita forzata, liquidazione coatta, fallimento, espropriazione per pubblica utilita' e quando i terreni in base a piani regolatori, anche se non ancora approvati, siano destinati ad utilizzazione edilizia, industriale o turistica.
 
@@ -180,15 +180,15 @@ AGGIORNAMENTO (9)
 
 Il D.L. 19 maggio 2020, n. 34, ha disposto (con l'art. 224, comma 4) che "Tale previsione si applica a tutti i giudizi pendenti alla data di entrata in vigore della legge di conversione del presente decreto".
 
-##### Art. 9
+#### Art. 9
 
 Qualora siano state iniziate le procedure relative alla concessione del mutuo, a seguito di preliminare posto in essere dalle parti nelle forme di legge, e il proprietario si rifiuti di alienare il fondo medesimo, ritenuto idoneo ai termini del precedente articolo 1, al prezzo dalle parti stabilito e riconosciuto congruo dall'Ispettorato provinciale dell'agricoltura, al coltivatore spetta il diritto previsto nell'articolo 2932 del Codice civile.
 
-##### Art. 10
+#### Art. 10
 
 Qualora siano state iniziate le procedure relative alla concessione del mutuo ai sensi dell'articolo 1 a seguito di preliminare posto in essere dalle parti nelle forme di legge, e l'Ispettorato provinciale dell'agricoltura non abbia ritenuto congruo il prezzo tra le parti convenuto, il proprietario che rifiuti di alienare il fondo, ritenuto idoneo ai termini del citato articolo 1, al prezzo congruo indicato dall'Ispettorato, non potra' avvalersi per due anni della disposizione di cui all'articolo 1, lettera b), del decreto legislativo del Capo provvisorio dello Stato 1 aprile 1947, n. 273.
 
-##### Art. 11
+#### Art. 11
 
 Qualora il proprietario dia la disdetta ai sensi della lettera b) dell'articolo 1 del decreto legislativo del Capo provvisorio dello Stato 1 aprile 1947, n. 273, modificato dalla legge 13 giugno 1961, n. 527, l'esecuzione e' sospesa per un anno se il coltivatore, entro trenta giorni dalla notificazione, dichiari di essere disposto ad acquistare un fondo a norma della presente legge o delle altre
 
@@ -198,11 +198,9 @@ In tal caso, il coltivatore ha diritto di essere preferito nella
 
 concessione delle agevolazioni creditizie previste dalle leggi in vigore.
 
-## TITOLO II - INTERVENTI DEGLI ENTI DI SVILUPPO NELLA FORMAZIONE DELLA PROPRIETA'
+## TITOLO II - INTERVENTI DEGLI ENTI DI SVILUPPO NELLA FORMAZIONE DELLA PROPRIETA' COLTIVATRICE
 
-### COLTIVATRICE
-
-##### Art. 12
+#### Art. 12
 
 La Cassa per la formazione della proprieta' contadina, istituita con l'articolo 9 del decreto legislativo 5 marzo 1948, n. 121, e' autorizzata a disporre finanziamenti a favore degli Enti di sviluppo per l'acquisto e la trasformazione di aziende agrarie aventi reddito catastale imponibile superiore a lire trentamila da cedere sollecitamente in proprieta' dagli Enti medesimi, previa formazione di efficienti unita' produttive, a coltivatori diretti in possesso dei prescritti requisiti, con preferenza, a quelli insediati sui fondi in qualita' di mezzadri, coloni, compartecipanti od affittuari singoli o associati in cooperative. ((1))
 
@@ -218,7 +216,7 @@ La L. 14 agosto 1971, n. 817 ha disposto (con l'art. 17, comma 1) che "Per le op
 
 La medesima legge ha disposto (con l'art. 17, comma 2) che il limite di reddito imponibile catastale previsto per le operazioni di cui al primo comma dell'articolo 12 della legge 26 maggio 1965, n. 590, e' fissato in lire ottomila.
 
-##### Art. 13
+#### Art. 13
 
 Le modalita' di erogazione e di utilizzazione delle somme concesse agli Enti in relazione agli interventi previsti dal precedente articolo 12 nonche' le condizioni e l'importo dei rimborsi alla "Cassa", saranno disciplinati con decreto del Ministro per l'agricoltura e per le foreste di concerto con il Ministro per il tesoro.
 
@@ -226,13 +224,13 @@ La "Cassa" determina annualmente l'importo dei finanziamenti sulla base dei prog
 
 Le attivita' finanziarie derivanti dall'applicazione del presente articolo formeranno oggetto di separata gestione da parte della "Cassa".
 
-##### Art. 14
+#### Art. 14
 
 Il diritto di prelazione previsto dall'articolo 8 non puo' essere esercitato quando i terreni vengano acquistati dagli Enti ai sensi e per gli scopi previsti dal precedente articolo 12, o quando vengano acquistati o venduti dall'Istituto di servizi per il mercato agricolo alimentare (ISMEA) o ((, con esclusivo riferimento alla prelazione dei confinanti,)) quando sui finanziamenti bancari destinati all'acquisto dei terreni per favorire l'insediamento di giovani in agricoltura sia stata rilasciata garanzia dall'ISMEA ai sensi dell'articolo 17, comma 2, del decreto legislativo 29 marzo 2004, n. 102.
 
 Sono estinti ad ogni effetto tutti i diritti di uso civico e le servitu' civiche che eventualmente gravino sui terreni trasferiti in proprieta' agli Enti o alla Cassa per la formazione della proprieta' contadina, salvo indennizzo da far valere sul prezzo di acquisto.
 
-##### Art. 15
+#### Art. 15
 
 Ai titolari delle aziende contadine costituite con l'intervento degli Enti di sviluppo ai sensi del precedente articolo 12 e alle loro cooperative, possono essere concessi i prestiti agevolati previsti dall'articolo 2 della presente legge.
 
@@ -240,11 +238,9 @@ Gli Enti di sviluppo sono autorizzati a concedere fidejussione per i detti prest
 
 ## TITOLO III - DISPOSIZIONI FINANZIARIE E FINALI
 
-### Capo I
+### Capo I - Disposizioni finanziari
 
-#### Disposizioni finanziari
-
-##### Art. 16
+#### Art. 16
 
 Per la concessione dei mutui e dei prestiti di cui ai precedenti articoli 1 e 2 della presente legge e' istituito, presso il Ministero dell'agricoltura e delle foreste, un fondo di rotazione dal quale saranno tratte le occorrenti anticipazioni agli istituti che esercitano il credito agrario di miglioramento ai sensi della legge 5 luglio 1928, n. 1760 e successive modificazioni ed integrazioni.
 
@@ -256,7 +252,7 @@ lire 50 miliardi per ciascuno degli esercizi finanziari dal 1966 al 1970.
 
 Il fondo di rotazione e' incrementato fino al 31 dicembre 1984 dalle quote di ammortamento per capitale ed interessi corrisposte dai mutuatari, dedotta la quota a compenso del servizio degli Istituti secondo il disposto dell'articolo 7.
 
-##### Art. 17
+#### Art. 17
 
 Con decreti del Ministro per l'agricoltura e per le foreste, di concerto con il Ministro per il tesoro, saranno stabilite, in ciascun esercizio finanziario, le quote del fondo da concedere in anticipazione ai singoli Istituti di credito, che saranno determinate avuto riguardo alle possibilita' di formazione di proprieta' contadina nei singoli territori.
 
@@ -266,15 +262,15 @@ La concessione e l'utilizzazione delle anticipazioni saranno regolate da apposit
 
 Tali convenzioni sono esenti da tassa di bollo e di registro.
 
-##### Art. 18
+#### Art. 18
 
 Le somme che gli istituti, a favore dei quali sono state concesse anticipazioni dovranno versare al fondo di rotazione per quote di ammortamento e di interessi saranno destinate ad ulteriori anticipazioni per la concessione dei mutui e dei prestiti di cui alla presente legge e saranno ripartite tra gli Istituti di credito con le stesse modalita' previste dal precedente articolo 17.
 
-##### Art. 19
+#### Art. 19
 
 Le somme eventualmente non impiegate dal fondo di rotazione, sia che si riferiscano agli stanziamenti di bilancio, sia che si riferiscano al rimborso delle anticipazioni, sono sempre riportate agli esercizi successivi, in deroga alle vigenti leggi sulla contabilita' generale
 
-##### Art. 20
+#### Art. 20
 
 Le anticipazioni previste dal precedente articolo 16 saranno versate in annualita' anticipate su un conto fruttifero intestato al fondo di rotazione presso la Tesoreria centrale dello Stato.
 
@@ -282,7 +278,7 @@ Nello stesso conto sara' tenuta ogni disponibilita' liquida del fondo ed in esso
 
 Sulla prima anticipazione che sara' concessa agli Istituti potra' essere loro corrisposta, con le modalita' da stabilire nelle convenzioni di cui all'articolo 17, una somma non superiore al 10 per cento della anticipazione medesima, da impiegare per la sollecita erogazione degli importi mutuati nelle more degli accreditamenti disposti dalla Tesoreria, a seguito delle richieste di prelevamento di cui al comma precedente.
 
-##### Art. 21
+#### Art. 21
 
 E' autorizzata la spesa di lire 500 milioni per ciascuno degli esercizi finanziari dal 1965 al 1970, quale ulteriore apporto alle disponibilita' finanziarie del Fondo interbancario di garanzia istituito con la legge 2 giugno 1961, n. 454.
 
@@ -290,25 +286,25 @@ Il limite di impegno di lire 600 milioni previsto dal secondo comma dell'articol
 
 Per effetto dell'incremento del limite di impegno recato dal precedente comma, le annualita' indicate al terzo comma del citato articolo 27 della legge 2 giugno 1961, n. 454, sono modificate come segue per gli esercizi finanziari dal 1963-64 al 1995: lire 3.300 milioni per l'esercizio finanziario 1963-1964; lire 2.4100 milioni nel periodo 1 luglio-31 dicembre 1964; lire 4.800 milioni nel 1965; lire 5.700 milioni dal 1966 ai 1989; lire 5.400 milioni nel 1990; lire 4.800 milioni nel 1991; lire 4.200 milioni nel 1992; lire 3.150 milioni nel 1993; lire 1.650 milioni nel 1994 e lire 900 milioni nel 1995.
 
-##### Art. 22
+#### Art. 22
 
 E' autorizzata, la spesa di lire 49 miliardi e 200 milioni quale nuovo apporto al patrimonio della Cassa per la formazione della proprieta' contadina per gli interventi di cui all'articolo 12.
 
 Detta somma sara' iscritta nello stato di previsione della spesa del Ministero dell'agricoltura e delle foreste in ragione di lire 200 milioni nell'esercizio finanziario 1963-64, lire 2 miliardi e 500 milioni nel periodo 1 luglio-31 dicembre 1964, lire 6 miliardi e 500 milioni nell'esercizio finanziario 196 a lire 8 miliardi in ciascuno degli esercizi finanziari dal 1966 al 1970.
 
-##### Art. 23
+#### Art. 23
 
 E' autorizzata la spesa di lire 150 milioni per l'esercizio finanziario 1965 e di lire 300 milioni per ciascuno degli esercizi finanziari dal 1966 al 1970 per fronteggiare gli oneri generali conseguenti all'applicazione della presente legge.
 
 Con decreti del Ministro per il tesoro, su proposta del Ministro per l'agricoltura e le foreste, sara' provveduto, in ciascun esercizio, alla ripartizione e alla conseguente iscrizione nello stato di previsione della spesa del Ministero dell'agricoltura e delle foreste delle spese autorizzate con il presente articolo.
 
-##### Art. 24
+#### Art. 24
 
 Entro il 31 dicembre 1969 il Ministro per l'agricoltura e le foreste, d'intesa con i Ministri per il bilancio e per il tesoro, presentera' al Parlamento una relazione sugli interventi effettuati in applicazione della presente legge, formulando proposte per gli interventi e la spesa relativi al quinquennio dal 1970 al 1974.
 
-## Capo II - Disposizioni finali
+### Capo II - Disposizioni finali
 
-##### Art. 25
+#### Art. 25
 
 Agli acquirenti di fondi rustici ai termini del precedente titolo 1, sono estese le disposizioni e le agevolazioni tributarie per la formazione o l'arrotondamento della proprieta' contadina richiamate e contenute nella legge 2 giugno 1961, n. 451, e successive modificazioni ed integrazioni.
 
@@ -318,7 +314,7 @@ Le disposizioni di cui ai precedenti commi si applicano anche agli interventi pr
 
 Nessuna imposta o tassa e' dovuta per gli atti posti in essere ai fini dell'applicazione del precedente articolo 8.
 
-##### Art. 26
+#### Art. 26
 
 Il beneficio della concessione dei mutui e dei prestiti di cui al titolo 1 esclude, per gli stessi acquisti, ogni altra provvidenza creditizia o contributiva prevista dalle vigenti disposizioni in materia.
 
@@ -332,13 +328,13 @@ AGGIORNAMENTO (3)
 
 Il D.L. 12 settembre 1983, n. 463, convertito con modificazioni dalla L. 11 novembre 1983, n. 638 ha disposto (con l'art. 25, comma 17) che "Il termine di cui al terzo comma dell'articolo 26 della legge 26 maggio 1965, n. 590, e' differito al 30 giugno 1988".
 
-##### Art. 27
+#### Art. 27
 
 Le agevolazioni creditizie previste dalla presente legge nonche' le agevolazioni creditizie e contributive previste dal decreto legislativo 24 febbraio 1948, n. 114, e successive modificazioni ed integrazioni, per l'acquisto di fondi rustici destinati alla formazione di proprieta' contadina, possono essere concesse - ferma restando ogni altra condizione richiesta quando l'acquisto riguardi terreni il cui imponibile catastale non sia inferiore a lire mille ovvero, nei casi di arrotondamento, quando l'imponibile catastale dei terreni da acquistare in aggiunta a quello dei terreni gia' posseduti in proprieta' o in enfiteusi dal coltivatore non sia inferiore al predetto limite.
 
 La disposizione di cui al precedente comma si applica per gli acquisti effettuati posteriormente alla data di entrata in vigore della presente legge.
 
-##### Art. 28
+#### Art. 28
 
 Il periodo di decadenza dai benefici previsti dalla vigente legislazione in materia di formazione e di arrotondamento di proprieta' contadina e' elevato da cinque a dieci anni.
 
@@ -346,11 +342,11 @@ La estinzione anticipata del mutuo o la vendita del fondo acquistato con i benef
 
 Le disposizioni di cui ai commi precedenti si applicano ai contratti di mutuo stipulati posteriormente alla data di entrata in vigore della presente legge.
 
-##### Art. 29
+#### Art. 29
 
 I trasferimenti del diritto di proprieta' o di usufrutto su quote indivise o determinate di fondi rustici provenienti dalla stessa eredita', posti in essere a favore di coerede che sia coltivatore diretto, quando sussistano i prescritti requisiti, sono considerati atti inerenti alla formazione di proprieta' contadina e possono ottenere le provvidenze previste dalle vigenti disposizioni in materia, nonche' le agevolazioni creditizie di cui al precedente articolo 1.
 
-##### Art. 30
+#### Art. 30
 
 La Cassa per la formazione della proprieta' contadina e' autorizzata ad agevolare attivita' intese a realizzare il miglioramento delle aziende formatesi con il proprio intervento o assistite da garanzie fidejussorie.
 
@@ -358,7 +354,7 @@ La disposizione di cui al sesto comma dell'articolo 27 della legge 2 giugno 1961
 
 La "Cassa" e' autorizzata ad assumere personale entro il limite massimo di cinquanta unita', comprese quelle in servizio alla data di entrata in vigore della) presente legge, nelle qualifiche ed alle condizioni che saranno determinate con decreto del Ministro per l'agricoltura e le foreste di concerto con il Ministro per il tesoro.
 
-##### Art. 31
+#### Art. 31
 
 Ai fini della presente legge sono considerati coltivatori diretti coloro che direttamente ed abitualmente si dedicano alla coltivazione dei fondi ed all'allevamento ed al governo del bestiame, sempreche' la complessiva forza lavorativa del nucleo familiare non sia inferiore ad un terzo di quella occorrente per la normale necessita' della coltivazione del fondo e per l'allevamento ed il governo del bestiame.
 
@@ -366,7 +362,7 @@ Nel calcolo della forza lavorativa il lavoro della donna e' equiparato a quello 
 
 La presente disposizione - a modifica di quanto previsto al n. 2 dell'articolo 2 della legge 6 agosto 1951, n. 604 - si applica anche agli interventi previsti dal decreto legislativo 21 febbraio 1948, n. 114 e successive modificazioni ed integrazioni.
 
-##### Art. 32
+#### Art. 32
 
 Il testo dell'ultimo comma dell'articolo 36 della legge 2 giugno 1961, n. 454, e' sostituito dal seguente:
 
@@ -374,37 +370,37 @@ Il testo dell'ultimo comma dell'articolo 36 della legge 2 giugno 1961, n. 454, e
 
 Il Fondo interbancario di garanzia 6 altresi' esente dall'imposta di ricchezza mobile per i redditi comunque ad esso derivanti, dai tributi e addizionali comunali e provinciali, dall'imposta camerale, nonche' dalla imposta sulle societa'".
 
-##### Art. 33
+#### Art. 33
 
 L'articolo 3 della legge 6 agosto 1954, n. 604, e' cosi' modificato:
 
 "A partire dall'entrata in vigore della presente legge, per conseguire le agevolazioni tributarie di cui alla legge 6 agosto 1954, n. 604, e successive modificazioni ed integrazioni, l'acquirente, i permutanti e l'enfiteuta debbono produrre, al momento della registrazione, insieme all'atto, lo stato di famiglia e un certificato dell'ispettorato provinciale agrario competente per territorio, che attesti la sussistenza dei requisiti di cui ai numeri 1, 2 e 3 dell'articolo precedente".
 
-##### Art. 34
+#### Art. 34
 
 Il primo comma dell'articolo 4 della legge 6 agosto 1954, n. 601 e' sostituito dal seguente:
 
 "In luogo del certificato dell'Ispettorato agrario richiesto dall'articolo 3 puo' essere prodotta un'attestazione provvisoria dell'Ispettorato medesimo dalla quale risulti che sono in corso gli accertamenti per il rilascio".
 
-##### Art. 35
+#### Art. 35
 
 L'articolo 5 della legge 6 agosto 1954, n. 604, e' sostituito dal seguente "Quando sia stata resa nell'atto esplicita dichiarazione di voler conseguire le agevolazioni tributarie di cui alla presente legge e non sia stato prodotto ne' il certificato provvisorio previsto dal primo comma dell'articolo 4, ne' quello definitivo previsto dall'articolo 3, sono dovute le normali imposte di registro ed ipotecarie, ma non e' precluso il diritto al rimborso se nel termine triennale di prescrizione gli acquirenti, permutanti o enfiteuti, presentino apposita domanda all'Ufficio del registro competente per territorio, corredata dal certificato dell'Ispettorato provinciale agrario di cui al secondo comma dell'articolo 4".
 
-##### Art. 36
+#### Art. 36
 
 Per ogni omissione, da qualsiasi causa dipenda, risultante negli atti stipulati precedentemente all'entrata in vigore della presente legge per la formazione o per l'arrotondamento della piccola proprieta' contadina, che costituisca causa di impedimento ai benefici fiscali, ai sensi del decreto legislativo 24 febbraio 1948, n. 114, e successive modificazioni e integrazioni, e' concessa sanatoria generale all'acquirente, permutante o enfiteuta con la sola presentazione, entro un anno dall'entrata in vigore della presente legge, all'Ufficio del registro del luogo nel quale e' avvenuta la registrazione dell'atto, dei documenti stabiliti dall'articolo 3 della legge 6 agosto 1954, n. 604, modificato dall'articolo 33 della presente legge.
 
 Le imposte di registro ed ipotecarie gia' versate all'erario non sono ripetibili.
 
-##### Art. 37
+#### Art. 37
 
 Entro sei mesi dalla entrata in vigore della presente legge, saranno emanate le norme per la sua attuazione.
 
-##### Art. 38
+#### Art. 38
 
 Salvo quanto in particolare previsto dalla presente legge in materia di proprieta' coltivatrice, le disposizioni di cui alla legge 2 giugno 1961, n. 454, si applicano, nei limiti delle autorizzazioni di spesa concernenti i vari settori di intervento, anche dopo il 30 giugno 1965.
 
-##### Art. 39
+#### Art. 39
 
 All'onere derivante dall'applicazione della presente legge, determinato in lire 2 miliardi e 100 milioni nell'esercizio finanziario 1963-64, in lire 13 miliardi e 400 milioni nel periodo 1 luglio-31 dicembre 1964 e in lire 33 miliardi e 950 milioni nell'esercizio 1965, si provvede, anche in deroga alla legge 27 febbraio 1955, n. 64, mediante riduzione dei fondi iscritti rispettivamente nei capitoli 574 e 625 dello stato di previsione della spesa del Ministero del tesoro per l'esercizio 1963-64, nei capitoli 580 e 632 dello stato di previsione della spesa del Ministero medesimo per il periodo anzidetto e nel corrispondente capitolo dello stato di previsione della spesa del Ministero stesso per l'esercizio finanziario 1965.
 

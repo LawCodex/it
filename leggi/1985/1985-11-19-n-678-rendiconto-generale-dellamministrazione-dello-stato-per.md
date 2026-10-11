@@ -27,7 +27,7 @@ la seguente legge:
 
 ## AMMINISTRAZIONI DELLO STATO
 
-#### Art. 1 - Entrate
+## Art. 1 - Entrate
 
 Le entrate tributarie, extratributarie, per alienazione ed ammortamento di beni patrimoniali e riscossione di crediti, e per accensione di prestiti, accertate nell'esercizio finanziario 1984 per la competenza propria dell'esercizio, risultano stabilite in lire 321.673.636.073.304.
 
@@ -37,7 +37,7 @@ I residui attivi al 31 dicembre 1984 ammontano complessivamente a lire 36.200.21
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 2 - Spese
+## Art. 2 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti, impegnate nell'esercizio finanziario 1984 per la competenza propria dell'esercizio, risultano stabilite in lire 347.882.930.481.329.
 
@@ -47,13 +47,13 @@ I residui passivi al 31 dicembre 1984 ammontano complessivamente a lire 68.098.5
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 3 - Disavanzo della gestione di competenza
+## Art. 3 - Disavanzo della gestione di competenza
 
 Il disavanzo della gestione di competenza dell'esercizio finanziario 1984 di lire 26.209.294.408.025 risulta stabilito come segue:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 4 - Situazione finanziaria
+## Art. 4 - Situazione finanziaria
 
 Il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 1984 di lire 241.015.768.124.675 risulta stabilito come segue:
 
@@ -61,11 +61,11 @@ Il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 1984 di l
 
 ## DISPOSIZIONI SPECIALI
 
-#### Art. 5 - Prelevamenti dal Fondo di riserva per le spese impreviste
+## Art. 5 - Prelevamenti dal Fondo di riserva per le spese impreviste
 
 E' approvato l'allegato di cui all'articolo 9, ultimo comma, della legge 5 agosto 1978, n. 468, concernente i prelevamenti dal Fondo di riserva per le spese impreviste per l'anno 1984.
 
-#### Art. 6 - Eccedenze
+## Art. 6 - Eccedenze
 
 Sono approvate le eccedenze di impegni e di pagamenti risultate in sede di consuntivo rispettivamente sul conto della competenza, sul conto dei residui e sul conto della cassa, relative ai capitoli degli stati di previsione della spesa dei Ministeri sotto indicati per l'esercizio 1984, come risulta dal dettaglio che segue:
 
@@ -509,11 +509,9 @@ sionali (Spese obbli-
 
 gatorie). . . . . . . 79.989.940 70.873.952 150.863.892
 
-## AZIENDE SPECIALI ED AUTONOME
+## AZIENDE SPECIALI ED AUTONOME - GESTIONE DELL'EX AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### GESTIONE DELL'EX AZIENDA DI STATO PER LE FORESTE DEMANIALI
-
-#### Art. 7 - Entrate
+## Art. 7 - Entrate
 
 Le entrate correnti ed in conto capitale del bilancio della gestione dell'ex Azienda di Stato per le foreste demaniali, accertate nell'esercizio finanziario 1984 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo della gestione stessa, allegato al conto consuntivo del Ministero dell'agricoltura e delle foreste, in lire 48.047.121.002.
 
@@ -523,7 +521,7 @@ I residui attivi al 31 dicembre 1984 ammontano complessivamente a lire 8.715.571
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 8 - Spese
+## Art. 8 - Spese
 
 Le spese correnti ed in conto capitale del bilancio della gestione predetta, impegnate nell'esercizio finanziario 1984 per la competenza propria dell'esercizio, risultano stabilite in lire 47.247.627.517.
 
@@ -533,25 +531,25 @@ I residui passivi al 31 dicembre 1984 ammontano complessivamente a lire 14.005.8
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 9 - Situazione finanziaria
+## Art. 9 - Situazione finanziaria
 
 La situazione finanziaria della gestione dell'ex Azienda di Stato per le foreste demaniali alla fine dell'esercizio 1984 risulta come appresso:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 10 - Eccedenza
+## Art. 10 - Eccedenza
 
 E' approvata l'eccedenza di impegni di lire 116.762.364 risultante al capitolo n. 182 - Spese relative all'amministrazione a cura della gestione dei patrimoni silvo-pastorali dei Comuni ed altri Enti e rimborso ai medesimi del reddito netto derivante dalle singole gestioni.
 
 ## ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-#### Art. 11 - Entrate
+## Art. 11 - Entrate
 
 Le entrate correnti del bilancio dell'Istituto agronomico per l'Oltremare, accertate nell'esercizio finanziario 1984 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Istituto stesso, allegato al conto consuntivo del Ministero degli affari esteri, in lire 5.385.246.950 interamente versate.
 
 Al 31 dicembre 1984 non risultano residui attivi.
 
-#### Art. 12 - Spese
+## Art. 12 - Spese
 
 Le spese correnti del bilancio dell'Istituto predetto, impegnate nell'esercizio finanziario 1984 per la competenza propria dell'esercizio, risultano stabilite in lire 5.385.246.950.
 
@@ -561,13 +559,13 @@ I residui passivi al 31 dicembre 1984 ammontano complessivamente a lire 4.344.62
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 13 - Eccedenza
+## Art. 13 - Eccedenza
 
 E' approvata l'eccedenza di impegni di lire 875.059.000 risultante al capitolo n. 174 - Spese per l'esecuzione di programmi del Dipartimento per la cooperazione allo sviluppo.
 
 ## AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-#### Art. 14 - Entrate
+## Art. 14 - Entrate
 
 Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione autonoma dei monopoli di Stato, comprese quelle delle gestioni speciali, accertate nell'esercizio finanziario 1984 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero delle finanze, in lire 1.971.637.195.295.
 
@@ -577,7 +575,7 @@ I residui attivi al 31 dicembre 1984 ammontano complessivamente a lire 451.440.7
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 15 - Spese
+## Art. 15 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Amministrazione predetta, comprese quelle delle gestioni speciali, impegnate nell'esercizio 1984 per la competenza propria dell'esercizio, risultano stabilite in lire 1.971.637.195.295.
 
@@ -587,7 +585,7 @@ I residui passivi al 31 dicembre 1984 ammontano complessivamente a lire 524.540.
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 16 - Riassunto generale
+## Art. 16 - Riassunto generale
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione autonoma dei monopoli di Stato, di competenza dell'esercizio 1984, risulta cosi' stabilito:
 
@@ -611,7 +609,7 @@ Spese delle gestioni speciali. . . . . " 275.327.000
  ====================
 ```
 
-#### Art. 17 - Situazione finanziaria
+## Art. 17 - Situazione finanziaria
 
 La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dell'esercizio 1984, risulta come appresso:
 
@@ -619,7 +617,7 @@ La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, a
 
 ## ARCHIVI NOTARILI
 
-#### Art. 18 - Avanzo
+## Art. 18 - Avanzo
 
 L'avanzo della gestione del bilancio degli Archivi notarili, per l'esercizio finanziario 1984, risulta stabilito come segue:
 
@@ -631,7 +629,7 @@ Avanzo . . L. 14.078.851.322
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-#### Art. 19 - Entrate
+## Art. 19 - Entrate
 
 Le entrate correnti ed in conto capitale del bilancio dell'Amministrazione del fondo per il culto, accertate nell'esercizio finanziario 1984 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'interno, in lire 296.170.414.044.
 
@@ -641,7 +639,7 @@ I residui attivi al 31 dicembre 1984 ammontano complessivamente a lire 43.780.15
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 20 - Spese
+## Art. 20 - Spese
 
 Le spese correnti ed in conto capitale del bilancio dell'Amministrazione predetta, impegnate nell'esercizio 1984 per la competenza propria dell'esercizio, risultano stabilite in lire 296.360.936.665.
 
@@ -651,7 +649,7 @@ I residui passivi al 31 dicembre 1984 ammontano complessivamente a lire 137.931.
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 21 - Situazione finanziaria
+## Art. 21 - Situazione finanziaria
 
 La situazione finanziaria dell'Amministrazione del fondo per il culto, alla fine dell'esercizio 1984, risulta come appresso:
 
@@ -659,7 +657,7 @@ La situazione finanziaria dell'Amministrazione del fondo per il culto, alla fine
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-#### Art. 22 - Entrate
+## Art. 22 - Entrate
 
 Le entrate correnti ed in conto capitale del bilancio del Fondo di beneficenza e di religione nella citta' di Roma, accertate nell'esercizio finanziario 1984 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'interno, in lire 3.739.700.921.
 
@@ -669,7 +667,7 @@ I residui attivi al 31 dicembre 1984 ammontano complessivamente a lire 187.878.9
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 23 - Spese
+## Art. 23 - Spese
 
 Le spese correnti ed in conto capitale del bilancio dell'Amministrazione predetta, impegnate nell'esercizio finanziario 1984 per la competenza propria dell'esercizio, risultano stabilite in lire 3.668.009.795.
 
@@ -679,19 +677,19 @@ I residui passivi al 31 dicembre 1984 ammontano complessivamente a lire 1.888.24
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 24 - Situazione finanziaria
+## Art. 24 - Situazione finanziaria
 
 La situazione finanziaria del Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1984, risulta come appresso:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 25 - Eccedenza
+## Art. 25 - Eccedenza
 
 E' approvata l'eccedenza di cassa di lire 85.600 risultante al capitolo n. 182 - Adempiendo di pie fondazioni ed assegni per l'ufficiatura delle chiese (Spese obbligatorie).
 
 ## PATRIMONI RIUNITI EX ECONOMALI
 
-#### Art. 26 - Entrate
+## Art. 26 - Entrate
 
 Le entrate correnti ed in conto capitale del bilancio dell'Azienda dei patrimoni riuniti ex economali, accertate nell'esercizio finanziario 1984 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero dell'interno, in lire 1.928.516.226.
 
@@ -701,7 +699,7 @@ I residui attivi al 31 dicembre 1984 ammontano complessivamente a lire 255.855.3
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 27 - Spese
+## Art. 27 - Spese
 
 Le spese correnti ed in conto capitale del bilancio dell'Azienda predetta, impegnate nell'esercizio finanziario 1984 per la competenza propria dell'esercizio, risultano stabilite in lire 2.058.551.815.
 
@@ -711,13 +709,13 @@ I residui passivi al 31 dicembre 1984 ammontano complessivamente a lire 1.012.95
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 28 - Situazione finanziaria
+## Art. 28 - Situazione finanziaria
 
 La situazione finanziaria dell'Azienda dei patrimoni riuniti ex economali, alla fine dell'esercizio 1984, risulta come appresso:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 29 - Eccedenza
+## Art. 29 - Eccedenza
 
 E' approvata l'eccedenza di impegni di lire 138.036.409 risultante al capitolo n. 501.
 
@@ -725,7 +723,7 @@ Reinvestimenti di capitali in beni mobiliari e immobiliari (Spese d'ordine).
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE
 
-#### Art. 30 - Entrate
+## Art. 30 - Entrate
 
 Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Azienda nazionale autonoma delle strade, accertate nell'esercizio finanziario 1984 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero dei lavori pubblici, in lire 3.620.872.939.671.
 
@@ -735,7 +733,7 @@ I residui attivi al 31 dicembre 1984 ammontano complessivamente a lire 3.031.728
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 31 - Spese
+## Art. 31 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Azienda predetta, impegnate nell'esercizio finanziario 1984 per la competenza propria dell'esercizio, risultano stabilite in lire 3.620.872.939.671.
 
@@ -747,7 +745,7 @@ Parte di provvedimento in formato grafico
 
 ## AMMINISTRAZIONE DELLE POSTE E DELLE TELECOMUNICAZIONI
 
-#### Art. 32 - Entrate
+## Art. 32 - Entrate
 
 Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione delle poste e delle telecomunicazioni, accertate nell'esercizio finanziario 1984 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero delle poste e delle telecomunicazioni, in lire 8.275.621.239.863.
 
@@ -757,7 +755,7 @@ I residui attivi al 31 dicembre 1984 ammontano complessivamente a lire 6.395.976
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 33 - Spese
+## Art. 33 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Amministrazione predetta, impegnate nell'esercizio finanziario 1984 per la competenza propria dell'esercizio, risultano stabilite in lire 8.275.621.239.863.
 
@@ -767,7 +765,7 @@ I residui passivi al 31 dicembre 1984 ammontano complessivamente a lire 3.133.36
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 34 - Copertura
+## Art. 34 - Copertura
 
 Per la copertura del maggior disavanzo di gestione dell'esercizio finanziario 1984 accertato per l'Amministrazione delle poste e delle telecomunicazioni rispetto a quello stabilito in lire 1.383.308.175.000 dall'articolo 34 della legge 27 dicembre 1983, n. 730 (legge finanziaria 1984), la Cassa depositi e prestiti e' autorizzata a concedere all'Amministrazione predetta sui fondi dei conti correnti postali, di cui all'articolo 1 del decreto legislativo luogotenenziale 22 novembre 1945, n. 822, anticipazioni per complessive lire 338.213.271.987, estinguibili in 20 anni al saggio vigente per i mutui all'epoca della concessione.
 
@@ -781,7 +779,7 @@ L'onere relativo fara' carico al bilancio dell'Amministrazione delle poste e del
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-#### Art. 35 - Entrate
+## Art. 35 - Entrate
 
 Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Azienda di Stato per i servizi telefonici, accertate nell'esercizio finanziario 1984 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero delle poste e delle telecomunicazioni, in lire 2.213.615.497.222.
 
@@ -791,7 +789,7 @@ I residui attivi al 31 dicembre 1984 ammontano complessivamente a lire 346.795.3
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 36 - Spese
+## Art. 36 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Azienda predetta, impegnate nell'esercizio finanziario 1984 per la competenza propria dell'esercizio, risultano stabilite in lire 2.213.615.497.222.
 
@@ -801,13 +799,13 @@ I residui passivi al 31 dicembre 1984 ammontano complessivamente a lire 1.659.16
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 37 - Eccedenza
+## Art. 37 - Eccedenza
 
 E' approvata l'eccedenza in conto residui di lire 79.968.595 risultante al capitolo n. 213 - Partecipazione a mostre, fiere ed esposizioni. Spesa per la propaganda a favore dell'incremento dei servizi telefonici e la pubblicita' realizzate per mezzo degli organi di stampa e mediante documentari cinematografici ed altri mezzi audiovisivi. Acquisto del relativo materiale.
 
 ## AZIENDA AUTONOMA DELLE FERROVIE DELLO STATO
 
-#### Art. 38 - Entrate
+## Art. 38 - Entrate
 
 Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Azienda autonoma delle ferrovie dello Stato, comprese quelle delle gestioni speciali ed autonome, accertate nell'esercizio finanziario 1984 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero dei trasporti, in lire 35.084.495.284.457.
 
@@ -817,7 +815,7 @@ I residui attivi al 31 dicembre 1984 ammontano complessivamente a lire 9.628.779
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 39 - Spese
+## Art. 39 - Spese
 
 Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Azienda predetta, comprese quelle delle gestioni speciali ed autonome, impegnate nell'esercizio finanziario 1984 per la competenza propria dell'esercizio, risultano stabilite in lire 35.084.495.284.457.
 
@@ -827,7 +825,7 @@ I residui passivi al 31 dicembre 1984 ammontano complessivamente a lire 12.143.3
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 40 - Riassunto generale
+## Art. 40 - Riassunto generale
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Azienda autonoma delle ferrovie dello Stato, di competenza dell'esercizio 1984, risulta cosi' stabilito:
 
@@ -853,7 +851,7 @@ Spese delle gestioni speciali ed autonome . . . " 14.378.557.193.191
  =====================
 ```
 
-#### Art. 41 - Eccedenze
+## Art. 41 - Eccedenze
 
 Sono approvate le eccedenze di spesa sul conto della competenza e su quello della cassa risultanti ai sottoindicati capitoli in sede di consuntivo per l'esercizio finanziario 1984.
 
@@ -1007,7 +1005,7 @@ ne e l'acquisto di alloggi per i fer-
 
 rovieri . . . . . . . . . . . . . . . - 140.904.563
 
-#### Art. 42
+## Art. 42
 
 Il conto consuntivo dello Stato per l'esercizio 1984 e' approvato.
 
@@ -1025,7 +1023,7 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 ## AZIENDA AUTONOMA DELLE FERROVIE DELLO STATO
 
-#### Allegato 1
+## Allegato 1
 
 ALLEGATO N. 1
 
@@ -1185,7 +1183,7 @@ Le rimanenti integrazioni, per complessive lire 318.000.000, si sono rese necess
 
 Tenuto conto degli utilizzi analiticamente riportati e che con le leggi 21 luglio 1984, n. 390, e 1 ottobre 1984, n. 638, sono state assunte a carico dello Stato le spese per i funerali dei senatori Umberto Terracini e Aldo Sandulli, riducendo il fondo di riserva per le spese impreviste di cui al capitolo 6855 dello stato di previsione del Ministero del tesoro della somma di lire 18.000.000, l'intero stanziamento previsto per detto fondo risulta utilizzato e nessuna economia, percio', viene accertata a chiusura dell'esercizio.
 
-#### Allegato 2
+## Allegato 2
 
 ALLEGATO N. 2
 

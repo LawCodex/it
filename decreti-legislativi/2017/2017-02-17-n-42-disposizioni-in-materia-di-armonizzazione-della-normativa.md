@@ -74,11 +74,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Disposizioni di attuazione dell'articolo 19, comma 2, lettera a) della legge 30 ottobre 2014, n. 161
 
-### Disposizioni di attuazione dell'articolo 19, comma 2, lettera a) - della legge 30 ottobre 2014, n. 161
-
-#### Art. 1
+### Art. 1
 
 Modifiche dell'articolo 2
 
@@ -466,7 +464,7 @@ b) la lettera bb), e' sostituita dalla seguente:
 
 > bb) "zona silenziosa in aperta campagna": una zona, esterna all'agglomerato, delimitata dalla regione territorialmente competente su proposta dell'autorita' comunale - ovvero, qualora la zona ricade nell'ambito territoriale di piu' regioni, tramite apposito protocollo d'intesa tra le medesime - che non risente del rumore prodotto da infrastrutture di trasporto, da attivita' industriali o da attivita' ricreative.».
 
-#### Art. 2
+### Art. 2
 
 Modifiche dell'articolo 3
 
@@ -518,7 +516,7 @@ f) al comma 7, sono aggiunti, in fine, i seguenti periodi: «Nel caso in cui le 
 
 > 9\. All'attuazione del presente articolo si provvede con le risorse finanziarie disponibili a legislazione vigente, senza nuovi o maggiori oneri per la finanza pubblica.».
 
-#### Art. 3
+### Art. 3
 
 Modifiche dell'articolo 4
 
@@ -582,7 +580,7 @@ g) dopo il comma 10, sono inseriti i seguenti: «10-bis. Con decreto del Ministe
 
 > 11\. All'attuazione del presente articolo si provvede con le risorse finanziarie disponibili a legislazione vigente, senza nuovi o maggiori oneri per la finanza pubblica.».
 
-#### Art. 4
+### Art. 4
 
 Modifiche dell'articolo 7
 
@@ -638,7 +636,7 @@ c) entro i tre mesi successivi alle date stabilite all'articolo 4, commi 3 e 6, 
 
 > 2-bis. Per le finalita' di cui al comma 1, le societa' e gli enti gestori di servizi pubblici di trasporto o delle relative infrastrutture di interesse nazionale o di interesse di piu' regioni, compresi gli aeroporti principali, per quanto di competenza comunicano al Ministero dell'ambiente e della tutela del territorio e del mare, entro il 31 maggio 2020 e, successivamente, ogni cinque anni i dati di cui al comma 1, lettera a).».
 
-#### Art. 5
+### Art. 5
 
 Modifiche dell'articolo 8
 
@@ -656,7 +654,7 @@ del decreto legislativo 19 agosto 2005, n. 194
 
 > 3\. Fatto salvo quanto stabilito dal comma 2, i soggetti individuati allo stesso comma 2 disciplinano ulteriori modalita' di partecipazione del pubblico alla elaborazione dei piani d'azione.».
 
-#### Art. 6
+### Art. 6
 
 Modifiche dell'articolo 11
 
@@ -682,11 +680,9 @@ b) al comma 3, le parole: «comma 2» sono sostituite dalle seguenti: «comma 2-
 
 > 5\. Per quanto non espressamente previsto dal presente decreto si applicano le disposizioni della legge 24 novembre 1981, n. 689, e successive modificazioni.».
 
-## Capo II
+## Capo II - Disposizioni di attuazione dell'articolo 19, comma 2, lettera b), della legge 30 ottobre 2014, n. 161
 
-### Disposizioni di attuazione dell'articolo 19, comma 2, lettera b), - della legge 30 ottobre 2014, n. 161
-
-#### Art. 7
+### Art. 7
 
 Sostituzione dell'allegato 2
 
@@ -702,7 +698,7 @@ decreto legislativo 19 agosto 2005, n. 194
 
 > \- Per i riferimenti normativi della direttiva (UE) 2015/996, si veda nelle note alle premesse.
 
-#### Art. 8
+### Art. 8
 
 Commissione per la tutela
 
@@ -736,11 +732,9 @@ e) aggiornamento dei decreti attuativi della legge 26 ottobre 1995, n. 447, in m
 
 > \- Per il testo dell'art. 2 della legge 26 ottobre 1995, n. 447, citata nelle note alle premesse, modificato dal presente decreto, si veda nelle note all'articolo 9.
 
-## Capo III
+## Capo III - Disposizioni di attuazione dell'articolo 19, comma 2, lettera c), della legge 30 ottobre 2014, n. 161
 
-### Disposizioni di attuazione dell'articolo 19, comma 2, lettera c), - della legge 30 ottobre 2014, n. 161
-
-#### Art. 9
+### Art. 9
 
 Modifiche dell'articolo 2
 
@@ -816,7 +810,7 @@ In tali casi si applica quanto previsto all'articolo 4, comma 1, lettera a), con
 
 > 9\. I soggetti che effettuano i controlli devono essere diversi da quelli che svolgono le attivita' sulle quali deve essere effettuato il controllo.».
 
-#### Art. 10
+### Art. 10
 
 Modifiche dell'articolo 3
 
@@ -828,7 +822,7 @@ della legge 26 ottobre 1995, n. 447
 
 > \- Per il testo dell'art. 3 della legge 26 ottobre 1995, n. 447, modificato dal presente decreto, si veda nelle note all'articolo 19.
 
-#### Art. 11
+### Art. 11
 
 Modifiche dell'articolo 7
 
@@ -870,7 +864,7 @@ b) dopo il comma 5 e' aggiunto il seguente: «5-bis. In sede di concessione di c
 
 > 5-bis. In sede di concessione di contributi o risorse finanziarie regionali o statali, destinati ai comuni per il perseguimento degli obiettivi di cui alla presente legge, e' data priorita' ai comuni che ottemperano all'obbligo di adozione della relazione di cui al comma 5 e ai comuni individuati dalla regione o dalla provincia autonoma quali agglomerati che hanno ottemperato alla redazione delle mappe acustiche strategiche di cui all'articolo 3, comma 3, del decreto legislativo 19 agosto 2005, n. 194.».
 
-#### Art. 12
+### Art. 12
 
 Modifiche dell'articolo 8
 
@@ -930,7 +924,7 @@ d) al comma 6, dopo le parole: «dagli impianti» sono aggiunte le seguenti: «,
 
 > 6\. La domanda di licenza o di autorizzazione all'esercizio delle attivita' di cui al comma 4 del presente articolo, che si prevede possano produrre valori di emissione superiori a quelli determinati ai sensi dell'articolo 3, comma 1, lettera a), deve contenere l'indicazione delle misure previste per ridurre o eliminare le emissioni sonore causate dall'attivita' o dagli impianti, ai fini del rilascio del nulla-osta da parte del comune.».
 
-#### Art. 13
+### Art. 13
 
 Modifiche dell'articolo 10
 
@@ -976,7 +970,7 @@ h) dopo il comma 5-bis e' aggiunto il seguente: «5-ter. In caso di inottemperan
 
 > 5-ter. In caso di inottemperanza da parte delle societa' e degli enti gestori di servizi pubblici di trasporto o delle relative infrastrutture a quanto stabilito al comma 5, relativamente alla predisposizione e presentazione del piano o all'attuazione del medesimo nei tempi prefissati, si applicano i commi 1, 2 e 3 del presente articolo.».
 
-#### Art. 14
+### Art. 14
 
 Modifiche dell'articolo 11
 
@@ -1002,7 +996,7 @@ c) al comma 2, le parole: «devono essere» sono sostituite dalle seguenti: «e 
 
 > 3\. La prevenzione e il contenimento acustico nelle aree esclusivamente interessate da installazioni militari e nelle attivita' delle Forze armate sono definiti mediante specifici accordi dai comitati misti paritetici di cui all'articolo 3 della L. 24 dicembre 1976, n. 898, e successive modificazioni.».
 
-#### Art. 15
+### Art. 15
 
 Modifica dell'articolo 14
 
@@ -1030,11 +1024,9 @@ della legge 26 ottobre 1995, n. 447
 
 > 3\. Il personale incaricato dei controlli di cui al presente articolo ed il personale delle agenzie regionali dell'ambiente, nell'esercizio delle medesime funzioni di controllo e di vigilanza, puo' accedere agli impianti ed alle sedi di attivita' che costituiscono fonte di rumore, e richiedere i dati, le informazioni e i documenti necessari per l'espletamento delle proprie funzioni. Tale personale e' munito di documento di riconoscimento rilasciato dall'ente o dall'agenzia di appartenenza. Il segreto industriale non puo' essere opposto per evitare od ostacolare le attivita' di verifica o di controllo.».
 
-## Capo IV
+## Capo IV - Disposizioni di attuazione dell'articolo 19, comma 2, lettera d), della legge 30 ottobre 2014, n. 161
 
-### Disposizioni di attuazione dell'articolo 19, comma 2, lettera d), - della legge 30 ottobre 2014, n. 161
-
-#### Art. 16
+### Art. 16
 
 Disciplina delle emissioni sonore prodotte
 
@@ -1048,7 +1040,7 @@ nello svolgimento delle attivita' motoristiche
 
 > \- Per i riferimenti normativi del decreto del Presidente della Repubblica 3 aprile 2001, n. 304, si veda nelle note alle premesse.
 
-#### Art. 17
+### Art. 17
 
 Disciplina delle emissioni sonore prodotte
 
@@ -1062,11 +1054,9 @@ dai luoghi in cui si svolgono attivita' sportive
 
 > \- Per i riferimenti normativi del decreto del Presidente della Repubblica 3 aprile 2001, n. 304, si veda nelle note alle premesse.
 
-## Capo V
+## Capo V - Disposizioni di attuazione dell'articolo 19, comma 2, lettera e), della legge 30 ottobre 2014, n. 161
 
-### Disposizioni di attuazione dell'articolo 19, comma 2, lettera e), - della legge 30 ottobre 2014, n. 161
-
-#### Art. 18
+### Art. 18
 
 Modifiche all'articolo 2
 
@@ -1078,7 +1068,7 @@ della legge 26 ottobre 1995, n. 447
 
 > \- Per il testo dell'art. 2 della legge 26 ottobre 1995, n. 447, modificato dal presente decreto, si veda nelle note all'art. 9.
 
-#### Art. 19
+### Art. 19
 
 Modifiche all'articolo 3
 
@@ -1132,11 +1122,9 @@ della legge 26 ottobre 1995, n. 447
 
 > 4\. I provvedimenti di competenza dello Stato devono essere coordinati con quanto previsto dal decreto del Presidente del Consiglio dei ministri 1° marzo 1991, pubblicato nella Gazzetta Ufficiale n. 57 dell'8 marzo 1991.».
 
-## Capo VI
+## Capo VI - Disposizioni di attuazione dell'articolo 19, comma 2, lettera f), della legge 30 ottobre 2014, n. 161
 
-### Disposizioni di attuazione dell'articolo 19, comma 2, lettera f), - della legge 30 ottobre 2014, n. 161
-
-#### Art. 20
+### Art. 20
 
 Tecnico competente
 
@@ -1148,7 +1136,7 @@ Tecnico competente
 
 > \- Per i riferimenti normativi della legge 14 gennaio 2013, n. 4, si veda nelle note alle premesse.
 
-#### Art. 21
+### Art. 21
 
 Elenco dei tecnici competenti in acustica
 
@@ -1168,7 +1156,7 @@ Elenco dei tecnici competenti in acustica
 
 8\. Le modalita' procedurali per l'iscrizione e la cancellazione dall'elenco, nonche' per l'aggiornamento professionale sono disciplinate all'allegato 1 al presente decreto.
 
-#### Art. 22
+### Art. 22
 
 Requisiti per l'iscrizione
 
@@ -1208,7 +1196,7 @@ b) avere superato con profitto l'esame finale di un corso in acustica per tecnic
 
 > \- Per il testo dell'art. 2 della legge 26 ottobre 1995, n. 447, si veda nelle note all'art. 18.
 
-#### Art. 23
+### Art. 23
 
 Tavolo tecnico nazionale di coordinamento
 
@@ -1228,7 +1216,7 @@ c) accertare i titoli di studio e i requisiti professionali, validi per l'iscriz
 
 5\. Ai componenti del tavolo non sono corrisposti compensi, indennita', gettoni di presenza, rimborsi spese o altri emolumenti comunque denominati.
 
-#### Art. 24
+### Art. 24
 
 Modifiche della legge 26 ottobre 1995, n. 447
 
@@ -1244,7 +1232,7 @@ c) il comma 8 e' abrogato.
 
 > \- Per il testo dell'art. 2 della legge 26 ottobre 1995, n. 447, come modificato dal presente decreto, si veda nelle note all'art. 9.
 
-#### Art. 25
+### Art. 25
 
 Regime transitorio
 
@@ -1260,11 +1248,9 @@ Regime transitorio
 
 > \- Per i riferimenti normativi del decreto del Presidente del Consiglio dei ministri del 31 marzo 1998, si veda nelle note alle premesse.
 
-## Capo VII
+## Capo VII - Disposizioni di attuazione dell'articolo 19, comma 2, lettera h), della legge 30 ottobre 2014, n. 161
 
-### Disposizioni di attuazione dell'articolo 19, comma 2, lettera h), - della legge 30 ottobre 2014, n. 161
-
-#### Art. 26
+### Art. 26
 
 Criteri di sostenibilita' economica
 
@@ -1284,11 +1270,9 @@ Criteri di sostenibilita' economica
 
 > \- Per i riferimenti normativi della direttiva 2002/49/CE, modificato dal presente decreto, si veda nelle note alle premesse.
 
-## Capo VIII
+## Capo VIII - Disposizioni finali
 
-### Disposizioni finali
-
-#### Art. 27
+### Art. 27
 
 Provvedimenti attuativi
 
@@ -1304,7 +1288,7 @@ Provvedimenti attuativi
 
 > \- Per il testo dell'art. 7 della legge 26 ottobre 1995, n. 447, modificato dal presente decreto, si veda nelle note all'art. 11.
 
-#### Art. 28
+### Art. 28
 
 Disposizioni finali e abrogazioni
 
@@ -1392,7 +1376,7 @@ Visto, il Guardasigilli: Orlando
 
 ## Allegati
 
-#### Allegato 1
+### Allegato 1
 
 Allegato 1
 
@@ -1444,7 +1428,7 @@ PARTE A
 
 Classi di laurea e di laurea magistrale
 
-#### Articolo 22, comma 1 - classi di laurea di cui al decreto ministeriale 16 marzo 2007
+### Articolo 22, comma 1 - classi di laurea di cui al decreto ministeriale 16 marzo 2007
 
 Classe delle lauree in scienze dell'architettura e dell'ingegneria edile dell'architettura (classe L-17)
 

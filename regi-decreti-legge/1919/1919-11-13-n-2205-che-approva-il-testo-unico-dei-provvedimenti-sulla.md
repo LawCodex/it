@@ -50,11 +50,11 @@ Su proposta del ministro degli affari esteri, di concerto coi ministri dell'inte
 
 Abbiamo decretato e decretiamo:
 
-#### Art. 1
+### Art. 1
 
 E' approvato il testo che coordina i provvedimenti sull'emigrazione e sulla tutela giuridica degli emigranti, annesso al presente decreto e firmato, d'ordine Nostro, dal ministro proponente.
 
-#### Art. 2
+### Art. 2
 
 Il presente decreto avra' effetto dal giorno della sua pubblicazione nella Gazzetta ufficiale del Regno e sara' presentato al Parlamento per essere convertito in legge.
 
@@ -76,7 +76,7 @@ Visto, Il guardasigilli: Mortara.
 
 LEGGE SULL'EMIGRAZIONE.
 
-#### Art. 1
+### Art. 1
 
 ((E' istituito presso il Ministero degli affari esteri un Commissariato generale al quale e' attribuita la competenza per tutto cio' che si riferisce alla emigrazione e nel quale sono concentrati i servizi ad essa attinenti.
 
@@ -90,7 +90,7 @@ Le norme relative alle nomine e alle promozioni degli impiegati addetti al Commi
 
 Agli impiegati del Commissariato si applicano le disposizioni della legge sullo stato giuridico degli impiegati civili.
 
-#### Art. 2
+### Art. 2
 
 E' istituito un Consiglio superiore dell'emigrazione composto:
 
@@ -136,13 +136,13 @@ Il Regio Decreto 23 ottobre 1927, n. 2146 ha disposto (con l'art. 1, comma 1) ch
 
 Ha inoltre disposto (con l'art. 2, comma 1) che la presente modifica avra' effetto dal 30 novembre 1927.
 
-#### Art. 3
+### Art. 3
 
 Il Commissariato generale dell'emigrazione corrisponde con le autorita' del Regno, coi RR. agenti all'estero, con gli uffici d'emigrazione degli altri Stati, e con tutte le istituzioni che nel Regno e all'estero si occupano della protezione degli emigranti.
 
 Gode di franchigia postale e telegrafica per tutti gli affari attinenti ai servizi che gli sono commessi. Ha il diritto di affissione gratuita dei suoi manifesti in ogni stazione o agenzia, nei piroscafi, vetture e altri mezzi di trasporto per terra o per acqua.
 
-#### Art. 4
+### Art. 4
 
 Il ministro degli affari esteri dovra' presentare ogni anno al Parlamento, non piu' tardi del mese di aprile, una relazione sui servizi dell'emigrazione, allegando un rapporto del commissario generale sul movimento dell'emigrazione permanente e temporanea, corredato dei relativi dati statistici raccolti a cura del Commissariato, sulle operazioni dei vettori e dei loro rappresentanti, sui noli stabiliti od approvati nel corso dell'anno, sulle modificazioni che l'esperienza suggerisce di apportare alle norme vigenti, e sopra ogni altro punto che interessi l'emigrazione.
 
@@ -150,11 +150,11 @@ Questa relazione dovra' essere iscritta all'ordine del giorno nella tornata succ
 
 Il commissario generale puo' avere le funzioni di commissario del Governo, agli effetti dell'art. 59 dello Statuto del Regno, per cio' che concerne i servizi dell'emigrazione.
 
-#### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.P.R. 5 GENNAIO 1967, N. 18))
 
-#### Art. 6
+### Art. 6
 
 Con decreto del commissario generale potranno essere istituiti Comitati mandamentali o comunali per l'emigrazione, con funzioni gratuite, composti secondo le norme fissate dal regolamento.
 
@@ -162,7 +162,7 @@ Il Comitato e' presieduto dal pretore o, in sua mancanza, dal sindaco.
 
 Nelle provincie dove Istituti di assistenza agli emigranti funzionino in modo ritenuto dal Commissariato piu' conforme agli interessi degli emigranti che non i Comitati mandamentali o comunali, le attribuzioni a questi conferite passeranno agli Istituti menzionati.
 
-#### Art. 7
+### Art. 7
 
 Su ogni nave che trasporti emigranti con destinazione a paesi transoceanici prende imbarco un R. commissario, il quale, secondo le norme determinate dal regolamento, vigila sull'andamento del servizio sanitario e sull'osservanza delle leggi e dei regolamenti sulla emigrazione.
 
@@ -174,7 +174,7 @@ Alla designazione del R. commissario a bordo dei piroscafi in servizio di emigra
 
 I Regi commissari esercitano le loro funzioni anche nel viaggio di ritorno dal porto transoceanico, quando la nave si diriga ad un porto europeo con passeggeri italiani di terza classe, o di classe equivalente alla terza, che rimpatriano. Nel caso in cui la missione del R. commissario abbia termine fuori del Regno per fatto dipendente dal vettore, questi e' obbligato a fornirgli i mezzi per il rimpatrio nella misura che verra' determinata dal regolamento.
 
-#### Art. 8
+### Art. 8
 
 Negli Stati verso i quali si dirige l'emigrazione italiana, saranno istituiti, anche mediante accordi coi rispettivi Governi, uffici di protezione, d'informazione e d'avviamento al lavoro.
 
@@ -184,7 +184,7 @@ Tanto nei porti di transito, quanto in quelli di arrivo, si eseguiranno, a bordo
 
 ## CAPO II. - Dell'emigrazione in generale.
 
-#### Art. 9
+### Art. 9
 
 L'emigrazione e' libera nei limiti stabiliti dal diritto vigente.
 
@@ -200,23 +200,23 @@ La facolta' di emigrare consentita ai militari dai precedenti capoversi potra' e
 
 Il ministro degli affari esteri, d'accordo col ministro dell'interno, potra' sospendere l'emigrazione verso una determinata regione, per motivi d'ordine pubblico, o quando possano correre grave pericolo la vita, la liberta', gli averi degli emigranti, o quando lo richieda la tutela degli interessi economici o morali degli emigranti.
 
-#### Art. 10
+### Art. 10
 
 Salvo disposizioni speciali, e' considerato emigrante, agli effetti delle leggi e dei regolamenti sull'emigrazione, ogni cittadino che espatri esclusivamente a scopo di lavoro manuale o per esercitare il piccolo traffico, o vada a raggiungere il coniuge, ascendenti, discendenti, fratelli, zii, nipoti e gli affini negli stessi gradi, gia' emigrati a scopo di lavoro, o ritorni in paese estero ove gia' precedentemente sia emigrato nelle condizioni previste dal precedente articolo.
 
-#### art. 11
+### art. 11
 
 Legge sull'emigrazione-art. 11
 
 ((ARTICOLO ABROGATO DALLA L. 24 LUGLIO 1930, N. 1278))
 
-#### art. 12
+### art. 12
 
 Legge sull'emigrazione-art. 12
 
 ((ARTICOLO ABROGATO DALLA L. 24 LUGLIO 1930, N. 1278))
 
-#### Art. 13
+### Art. 13
 
 Chi abbandona in paese straniero minori degli anni diciassette, avuti in consegna nel Regno, per dare ad essi lavoro, sara' punito con la reclusione fino ad un anno e con multa da trecento a mille lire, senza pregiudizio delle maggiori pene in caso di maltrattamenti o di sevizie.
 
@@ -224,13 +224,13 @@ Se il minore non abbia compiuto quattordici anni, la pena sara' aumentata della 
 
 L'imputato, cittadino o straniero, sara' giudicato a richiesta del ministro della giustizia o a querela di parte; e se gia' fu, per lo stesso reato, giudicato all'estero, si applicheranno le disposizioni degli articoli 7 e 8 del Codice penale.
 
-#### art. 14
+### art. 14
 
 Legge sull'emigrazione-art. 14
 
 ((ARTICOLO ABROGATO DALLA L. 24 LUGLIO 1930, N. 1278))
 
-#### Art. 15
+### Art. 15
 
 I cittadini, che a norma delle leggi e dei regolamenti sulla emigrazione sono considerati o si presumono emigranti, per uscire dal Regno devono essere muniti di passaporto per l'estero. Tale passaporto e' rilasciato dalle autorita' competenti a norma delle disposizioni vigenti, secondo le istruzioni impartite dal Commissariato generale dell'emigrazione.
 
@@ -252,15 +252,13 @@ AGGIORNAMENTO (8)
 
 Il Regio Decreto 21 giugno 1928, n. 1730 ha disposto (con l'articolo unico, comma 1) che "E' revocata l'esenzione dalla tassa di bollo e da ogni altra tassa, concessa con l'ultimo capoverso dell'art. 15 del testo unico della legge sull'emigrazione, approvato con R. decreto 13 novembre 1919, n. 2205 [...] per gli atti necessari ad ottenere il rilascio del passaporto per gli emigranti che si recano all'estero a scopo di lavoro e per le loro famiglie".
 
-#### Art. 16
+### Art. 16
 
 Tutte le esenzioni fiscali accordate dalle leggi italiane in materia di infortuni sul lavoro, di assistenza e di assicurazioni sociali si applicano anche agli atti e documenti che siano richiesti nell'interesse di cittadini per ottenere la liquidazione o il pagamento di indennita' o rendite, o in genere il godimento di prestazioni in base a leggi straniere in materia di infortuni sul lavoro, assistenza ed assicurazioni sociali.
 
-## CAPO III. - Dell'emigrazione a paesi transoceanici.
+## CAPO III. - Dell'emigrazione a paesi transoceanici. Prima sezione - Emigranti.
 
-### Prima sezione - Emigranti.
-
-#### Art. 17
+### Art. 17
 
 Agli effetti del presente capo, sono emigranti i cittadini che trovandosi nelle condizioni di cui all'art. 10 o viaggiando in terza classe o in classe che il Commissariato generale dell'emigrazione dichiari equivalente alla terza attuale, si rechino in paese posto al di la' del Canale di Suez, escluse le colonie e i protettorati italiani, o in paese posto al di la' dello stretto di Gibilterra, escluse le coste d'Europa.
 
@@ -272,7 +270,7 @@ I passeggeri che partano spontaneamente e a proprie spese in terza classe o in c
 
 ## Seconda sezione - Vettori di emigranti.
 
-#### Art. 18
+### Art. 18
 
 Nessuno puo' arrolare o accaparrare emigranti, promettere o vendere biglietti d'imbarco, se non ha ottenuto dal Commissariato la patente di vettore di emigranti, piu' una speciale licenza dello stesso Commissariato, subordinata ad opportune garanzie, quando trattasi di emigranti con viaggio gratuito o sussidiato, o in qualsiasi modo favoriti o arrolati.
 
@@ -290,7 +288,7 @@ Il ministro degli affari esteri, udito il Consiglio superiore dell'emigrazione, 
 
 La cauzione sta a garanzia in primo luogo dell'adempimento di tutte le obbligazioni del vettore e del suo rappresentante verso l'emigrante o chi per esso; e, in secondo luogo, del pagamento delle pene pecuniarie, in cui il vettore o il suo rappresentante possano incorrere in forza della presente legge. La cauzione dovra' essere reintegrata ogni qualvolta abbia subito diminuzione, sotto pena di decadenza dalla patente; e sara' restituita, salvo il caso di giudizio pendente, sei mesi dopo che il vettore avra' cessato d'esser tale.
 
-#### Art. 19
+### Art. 19
 
 Le compagnie estere, le quali non siano gia' state riconosciute nel Regno secondo gli articoli 230 e seguenti del Codice di commercio, quando chiedono patenti di vettore, saranno equiparate alle nazionali per quanto riguarda la tassa di registro sugli atti costitutivi.
 
@@ -300,7 +298,7 @@ Tali tasse saranno tuttavia applicate per la parte del capitale impiegato in Ita
 
 Gli atti costitutivi delle compagnie forestiere di navigazione, per ottenere la concessione della patente di vettore, saranno registrati con tassa fissa da lire duemila a lire diecimila, in proporzione del capitale sociale. Gli atti che portano l'aumento del capitale sociale saranno registrati con tassa fissa, il cui ammontare verra' determinato proporzionatamente alla tassa pagata per la registrazione dell'atto costitutivo in rapporto col capitale sociale originario.
 
-#### Art. 20
+### Art. 20
 
 Il capitano di piroscafo nazionale o straniero, non iscritto su patente di vettore, che imprenda viaggi da porti transoceanici, qualora imbarchi, con destinazione ad un porto del Regno, piu' di cinquanta passeggieri italiani che viaggino in terza classe, o in classe equivalente, o siano emigranti di ritorno, deve munirsi di speciale licenza, che potra' essere concessa dalla R. autorita' consolare, sotto l'osservanza delle condizioni determinate dal regolamento.
 
@@ -322,7 +320,7 @@ AGGIORNAMENTO (9)
 
 Il Regio Decreto 3 agosto 1928, n. 2139 ha disposto (con l'art. 2, comma 1) che "Gli adempimenti di cui all'art. 20 del testo unico sull'emigrazione approvato con R. decreto-legge 13 novembre 1919, n. 2205, convertito in legge con la legge 17 aprile 1925, n. 473, sono limitati ai piroscafi che non siano provvisti ne' di patente di vettore ne' della licenza per un singolo viaggio in partenza da un porto del Regno".
 
-#### Art. 21
+### Art. 21
 
 Il Governo del Re, quando lo ritenga opportuno, potra' sospendere temporaneamente ogni nuova iscrizione di piroscafi su patente di vettore, per tutte o per alcune linee, o con determinate modalita'.
 
@@ -330,7 +328,7 @@ Il provvedimento sara' preso con decreto Reale, su deliberazione del Consiglio d
 
 Il Regio decreto dovra' essere presentato al Parlamento entro 15 giorni dalla data della sua pubblicazione, e accompagnato da relazione.
 
-#### Art. 22
+### Art. 22
 
 Il vettore nazionale d'emigranti puo', con lettera diretta al Commissariato, nominare rappresentanti propri, assumendo la responsabilita' civile di ogni loro atto in materia di emigrazione.
 
@@ -346,11 +344,11 @@ E' vietato a un rappresentante di procurare imbarco ad emigranti su piroscafi ch
 
 E' data facolta' al Commissariato generale dell'emigrazione, sia nella patente sia successivamente, sentito il Comitato permanente, di autorizzare, con le condizioni da esso stabilite, la nomina di rappresentanti anche da parte di vettori stranieri.
 
-#### Art. 23
+### Art. 23
 
 ((Ogni provvedimento di assenso da parte del Ministero degli affari esteri alle proposte di vettori per nomina di rappresentanti sara' sottoposta al pagamento di una tassa di L. 1000 da corrispondersi dal vettore per ogni concessione di rappresentanza)).
 
-#### Art. 24
+### Art. 24
 
 Il Commissariato generale dell'emigrazione, con le condizioni indicate in una speciale licenza, potra' permettere, che un privato, per conto proprio o per un'impresa coloniale consentita dalle leggi del paese in cui deve compirsi, proceda all'arruolamento di lavoratori nel Regno per lavori da eseguirsi in paesi contemplati dall'art. 17, purche' il privato, ove si tratti di emigrazione nei paesi contemplati dall'art. 17, si valga, per il trasporto, dell'opera d'un vettore patentato e questi paghi la tassa prescritta dall'art. 26.
 
@@ -358,7 +356,7 @@ Trattandosi di viaggi a regioni poco o nulla frequentate dagli emigranti italian
 
 La licenza e' sottoposta alla tassa di lire venti da attribuirsi integralmente al Fondo per l'emigrazione.
 
-#### Art. 25
+### Art. 25
 
 Ne' il vettore ne' il suo rappresentante possono dare biglietti d'imbarco agli emigranti italiani, se questi non presentano il passaporto.
 
@@ -368,7 +366,7 @@ E' vietato a chicchessia, tranne i vettori autorizzati dal Commissariato, di ril
 
 Il biglietto d'imbarco per gli emigranti, considerati tali a norma dell'art. 17, e' esente da ogni tassa di registro e bollo.
 
-#### Art. 26
+### Art. 26
 
 E' dovuta dai vettori una tassa di lire otto per ogni posto intero di passeggero considerato emigrante a norma dell'art. 17, quattro per ogni mezzo posto e due per ogni quarto di posto. Tale tassa, che e' attribuita al Fondo per l'emigrazione, potra' essere variata con decreto Reale, sentito il Consiglio superiore dell'emigrazione.
 
@@ -394,13 +392,13 @@ Il Regio D.L. 28 luglio 1929, n. 1363, convertito senza modificazioni dalla L. 1
 
 Ha inoltre disposto (con l'art. 4, comma 1) che la presente modifica avra' effetto dal 1° settembre 1929.
 
-#### Art. 27
+### Art. 27
 
 Il biglietto venduto all'estero da un vettore, o da altri per lui, e intestato a un emigrante che debba imbarcarsi nel Regno da' diritto all'emigrante ad esigere l'imbarco sul primo piroscafo di esso vettore, che parta per la destinazione indicata nel biglietto medesimo.
 
 Tutte le disposizioni della presente legge si applicano anche agli emigranti che viaggiano nelle condizioni previste in questo articolo.
 
-#### Art. 28
+### Art. 28
 
 ((COMMA ABROGATO DAL D.P.R. 5 GENNAIO 1967, N. 18))
 
@@ -412,17 +410,17 @@ In entrambi i casi si puo' fare eccezione al divieto, con permesso speciale dato
 
 Le circolari e gli annunzi di qualunque specie, fatti da parte dei vettori, dovranno indicare: la stazza lorda e netta e la velocita' dei piroscafi, la data della partenza, gli scali e la durata dell'intero viaggio.
 
-#### art. 29
+### art. 29
 
 Legge sull'emigrazione-art. 29
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 11 FEBBRAIO 1929, N. 358))
 
-#### Art. 30
+### Art. 30
 
 Il vettore, nonostante qualunque convenzione contraria, sara' tenuto (sempre che il piroscafo tocchi, nel viaggio di ritorno, un porto italiano) a trasportare, per il prezzo che sara' stabilito con decreto del commissario generale, compreso il vitto, gli indigenti italiani che, per qualsiasi motivo, rimpatrino per disposizione e con richiesta di un Regio agente diplomatico o consolare, in numero di dieci (posti interi) per i piroscafi che hanno meno di mille tonnellate di stazza, con l'aumento di uno ogni duecento tonnellate o frazione di duecento tonnellate al disopra delle mille, fino al numero di trenta. I fanciulli d'eta' superiore ai tre ed inferiore ai dodici anni pagheranno meta' quota; nulla quelli sotto i tre anni.
 
-#### Art. 31
+### Art. 31
 
 I prezzi dei noli di terza classe, che i vettori si propongono di percepire dagli emigranti per i viaggi di andata, dovranno riportare l'approvazione del Commissariato.
 
@@ -448,13 +446,13 @@ Volendo ridurre il prezzo gia' annunziato o contrattato, la riduzione dovra' ess
 
 Il regolamento conterra' le norme per disciplinare i prezzi dei noli di terza classe per i viaggi di ritorno dei passeggeri italiani che rimpatriano su pisoscafi' inscritti in patente di vettore o muniti di licenza consolare a norma dell'art. 20.
 
-#### Art. 32
+### Art. 32
 
 In caso di coalizione fra vettori per rifiutare il trasporto degli emigranti al prezzo dei noli approvati o stabiliti, il Governo potra' autorizzare i Comitati locali e gli Istituti di assistenza riconosciuti a sostituirsi in tutto all'opera dei rappresentanti dei vettori; potra' autorizzare con speciali concessioni altre compagnie, armatori o noleggiatori, italiani e stranieri, al trasporto degli emigranti, od effettuarlo, ove occorra, direttamente mediante requisizione di piroscafi inscritti in patente, secondo le norme stabilite dal regolamento; potra' consentire il trasbordo degli emigranti in porti esteri di qua dell'Oceano, e prendere ogni altro provvedimento opportuno a tutela dell'emigrazione.
 
 Quando si verifichi il caso predetto, verra' ritirata al vettore la patente, che non potra' essere nuovamente concessa se non dietro motivata deliberazione del Consiglio dei ministri. In caso di recidiva, la patente verra' definitivamente ritirata.
 
-#### Art. 33
+### Art. 33
 
 E' vietato al vettore, o a chi lo rappresenta, di percepire compensi di qualsiasi specie dall'emigrante, oltre il nolo.
 
@@ -468,7 +466,7 @@ Quando poi, per qualunque altra ragione, prima della partenza della nave, l'emig
 
 Se infine l'emigrante, a qualunque categoria appartenga, abbia perduto l'imbarco per ritardo d'un treno, anche dovuto a forza maggiore, le Amministrazioni ferroviarie saranno tenute a riportarlo gratuitamente col suo bagaglio alla stazione di provenienza, o alla stazione di confine se l'emigrante e' straniero, quando egli stesso ne faccia domanda all'ispettore d'emigrazione, e questo gli rilasci una richiesta di viaggio motivata, da presentarsi dentro ventiquattro ore alla stazione di partenza.
 
-#### Art. 34
+### Art. 34
 
 Il vitto e l'alloggio dell'emigrante munito di biglietto di terza classe, giunto al porto d'imbarco, sono a carico del vettore dal mezzodi' del giorno anteriore a quello stabilito per la partenza nel biglietto, fino al giorno in cui la partenza avvenga, qualunque sia la causa del ritardo.
 
@@ -482,7 +480,7 @@ E' nullo il patto per cui l'emigrante rinunzi alle indennita' stabilite dal pres
 
 ## CAPO IV. - Dell'emigrazione a paesi non transoceanici.
 
-#### Art. 35
+### Art. 35
 
 Nessuno puo' compiere operazioni, neppure preliminari, dirette ad arruolare emigranti per lavori da eseguirsi in paesi esteri non transoceanici se non ne abbia ottenuto speciale autorizzazione dal Commissariato generale dell'emigrazione.
 
@@ -498,7 +496,7 @@ Gli atti di arruolamento sono sottoposti ad una tassa di lire cinque, a favore d
 
 I contravventori al presente articolo sono puniti con l'ammenda da L. 50 a L. 100 per ogni operaio irregolarmente arruolato. Quando si tratti di arruolamenti di minorenni o di donne, l'ammenda non sara' inferiore a L. 200 per ogni persona arruolata: e vi potra' essere unita la pena della detenzione fino a sei mesi.
 
-#### Art. 36
+### Art. 36
 
 Gli emigranti non compresi nell'art. 17 che, a scopo di lavoro, si recano per ferrovia all'estero, fruiranno di speciali facilitazioni di viaggio sulle ferrovie italiane e di quelle che eventualmente fossero concordate con le Amministrazioni estere, purche' si facciano rilasciare alla stazione di partenza, contemporaneamente al biglietto di viaggio, una tessera della validita' di un anno e del valore di una lira.
 
@@ -506,101 +504,99 @@ Con decreto reale, promosso dal ministro competente d'accordo con quello degli e
 
 E' data facolta' al ministro degli affari esteri, sentito il Consiglio superiore della emigrazione, di provvedere, con speciali disposizioni, alla tutela dell'emigrazione che si effettuasse per via di mare verso paesi non transoceanici.
 
-## CAPO V. - Giurisdizioni speciali per l'emigrazione.
+## CAPO V. - Giurisdizioni speciali per l'emigrazione. Prima sezione - Ispettori dell'emigrazione.
 
-### Prima sezione - Ispettori dell'emigrazione.
-
-#### art. 37
+### art. 37
 
 Legge sull'emigrazione-art. 37
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 11 FEBBRAIO 1929, N. 358))
 
-#### art. 38
+### art. 38
 
 Legge sull'emigrazione-art. 38
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 11 FEBBRAIO 1929, N. 358))
 
-#### art. 39
+### art. 39
 
 Legge sull'emigrazione-art. 39
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 11 FEBBRAIO 1929, N. 358))
 
-#### art. 40
+### art. 40
 
 Legge sull'emigrazione-art. 40
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 11 FEBBRAIO 1929, N. 358))
 
-#### art. 41
+### art. 41
 
 Legge sull'emigrazione-art. 41
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 11 FEBBRAIO 1929, N. 358))
 
-#### art. 42
+### art. 42
 
 Legge sull'emigrazione-art. 42
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 11 FEBBRAIO 1929, N. 358))
 
-#### art. 43
+### art. 43
 
 Legge sull'emigrazione-art. 43
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 11 FEBBRAIO 1929, N. 358))
 
-#### art. 44
+### art. 44
 
 Legge sull'emigrazione-art. 44
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 11 FEBBRAIO 1929, N. 358))
 
-#### art. 45
+### art. 45
 
 Legge sull'emigrazione-art. 45
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 11 FEBBRAIO 1929, N. 358))
 
-#### art. 46
+### art. 46
 
 Legge sull'emigrazione-art. 46
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 11 FEBBRAIO 1929, N. 358))
 
-#### art. 47
+### art. 47
 
 Legge sull'emigrazione-art. 47
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 11 FEBBRAIO 1929, N. 358))
 
-#### art. 48
+### art. 48
 
 Legge sull'emigrazione-art. 48
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 11 FEBBRAIO 1929, N. 358))
 
-#### art. 49
+### art. 49
 
 Legge sull'emigrazione-art. 49
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 11 FEBBRAIO 1929, N. 358))
 
-#### art. 50
+### art. 50
 
 Legge sull'emigrazione-art. 50
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 11 FEBBRAIO 1929, N. 358))
 
-#### art. 51
+### art. 51
 
 Legge sull'emigrazione-art. 51
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 11 FEBBRAIO 1929, N. 358))
 
-#### art. 52
+### art. 52
 
 Legge sull'emigrazione-art. 52
 
@@ -608,25 +604,25 @@ Legge sull'emigrazione-art. 52
 
 ## Seconda sezione - Collegi dei probiviri.
 
-#### art. 53
+### art. 53
 
 Legge sull'emigrazione-art. 53
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 11 FEBBRAIO 1929, N. 358))
 
-#### art. 54
+### art. 54
 
 Legge sull'emigrazione-art. 54
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 11 FEBBRAIO 1929, N. 358))
 
-#### art. 55
+### art. 55
 
 Legge sull'emigrazione-art. 55
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 11 FEBBRAIO 1929, N. 358))
 
-#### art. 56
+### art. 56
 
 Legge sull'emigrazione-art. 56
 
@@ -634,25 +630,25 @@ Legge sull'emigrazione-art. 56
 
 ## Terza sezione - Commissione centrale dell'emigrazione.
 
-#### art. 57
+### art. 57
 
 Legge sull'emigrazione-art. 57
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 11 FEBBRAIO 1929, N. 358))
 
-#### art. 58
+### art. 58
 
 Legge sull'emigrazione-art. 58
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 11 FEBBRAIO 1929, N. 358))
 
-#### art. 59
+### art. 59
 
 Legge sull'emigrazione-art. 59
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 11 FEBBRAIO 1929, N. 358))
 
-#### art. 60
+### art. 60
 
 Legge sull'emigrazione-art. 60
 
@@ -660,13 +656,13 @@ Legge sull'emigrazione-art. 60
 
 ## Quarta sezione - Disposizioni generali.
 
-#### art. 61
+### art. 61
 
 Legge sull'emigrazione-art. 61
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 11 FEBBRAIO 1929, N. 358))
 
-#### art. 62
+### art. 62
 
 Legge sull'emigrazione-art. 62
 
@@ -680,13 +676,13 @@ AGGIORNAMENTO (10)
 
 Il Regio Decreto 11 febbraio 1929, n. 358 ha disposto (con l'art. 3, comma 4) che "Nei giudizi innanzi all'autorita' giudiziaria, preveduti nel presente articolo, continua ad avere vigore l'art. 62 della legge (testo unico) 13 novembre 1919, n. 2205, sull'emigrazione e la tutela giuridica degli emigranti".
 
-#### art. 63
+### art. 63
 
 Legge sull'emigrazione-art. 63
 
 ((ARTICOLO ABROGATO DAL REGIO DECRETO 11 FEBBRAIO 1929, N. 358))
 
-#### art. 64
+### art. 64
 
 Legge sull'emigrazione-art. 64
 
@@ -694,7 +690,7 @@ Legge sull'emigrazione-art. 64
 
 ## CAPO VI. - Fondo per l'emigrazione.
 
-#### Art. 65
+### Art. 65
 
 Il Fondo per l'emigrazione e' costituito dalle tasse, dalle pene pecuniarie e dagli altri redditi o proventi, che gli sono attribuiti dalle leggi e dai regolamenti dell'emigrazione.
 
@@ -718,7 +714,7 @@ AGGIORNAMENTO (6)
 
 Il Regio Decreto 18 giugno 1927, n. 1036 ha disposto (con l'art. 2, comma 1) che "I proventi e le tasse di qualsiasi natura, le multe, le ammende, i rimborsi ed i concorsi stabiliti dal testo unico dei provvedimenti sulla emigrazione, approvato con R. decreto 13 novembre 1919, n, 2205, e dalle successive disposizioni, sono devoluti allo Stato. Sono parimenti devolute allo Stato tutte le attivita' e le passivita', patrimoniali e finanziarie, pertinenti al fondo per l'emigrazione, restando contemporaneamente soppresso il conto corrente istituito con la Cassa depositi e prestiti a norma dell'art. 65 del succitato testo unico di legge".
 
-#### Art. 66
+### Art. 66
 
 Le spese per il Commissariato generale dell'emigrazione e per i servizi ad esso attinenti gravano sul bilancio del Fondo per l'emigrazione.
 
@@ -750,11 +746,11 @@ Il Regio D.L. 26 giugno 1924, n. 1603, convertito senza modificazioni dalla L. 2
 
 ## CAPO VII. - Sanzioni penali per le infrazioni alle leggi e ai regolamenti sull'emigrazione.
 
-#### Art. 67
+### Art. 67
 
 Gli ispettori dell'emigrazione, i Regi commissari e gli altri funzionari del Commissariato generale dell'emigrazione sono equiparati agli ufficiali di polizia giudiziaria per gli atti riguardanti le infrazioni alle leggi ed ai regolamenti sull'emigrazione.
 
-#### Art. 68
+### Art. 68
 
 Saranno puniti:
 
@@ -792,7 +788,7 @@ Copia delle ordinanze e delle sentenze per i reati previsti dalla legge sara' tr
 
 ## CAPO VIII. - Disposizioni generali e transitorie.
 
-#### Art. 69
+### Art. 69
 
 Un regolamento da approvarsi e da modificarsi, ove occorra, con decreto reale, sentito il parere del Consiglio di Stato, conterra', oltre quelle gia' accennate, le norme:
 
@@ -862,17 +858,17 @@ per coordinare le istituzioni di assistenza a favore dell'emigrazione;
 
 e, finalmente, per disciplinare e coordinare tutto cio' che si riferisce all'assistenza degli emigranti all'interno e all'estero.
 
-#### Art. 70
+### Art. 70
 
 Alla prima attuazione del ruolo organico del Commissariato generale dell'emigrazione, di cui all'art. 66 della presente legge, sara' provveduto secondo norme da stabilirsi con decreto del ministro degli affari esteri.
 
 Con decreto del ministro degli affari esteri sara' provveduto ad introdurre nel bilancio del Fondo per l'emigrazione le variazioni necessarie.
 
-#### Art. 71
+### Art. 71
 
 I ricorsi pendenti davanti alle Commissioni arbitrali istituite con la legge 31 gennaio 1901 n. 23 e davanti a quelle istituite con la legge 2 agosto 1913, n. 1075 alla data dell'entrata in vigore del decreto-legge 29 agosto 1918, n. 1379 sono deferiti alla cognizione degli Ispettori dell'emigrazione, secondo le norme degli art. 37 e 52 della presente legge, o, della Commissione centrale, se in grado di appello, a meno che non fossero gia' in stato di decisione, nel qual caso le Commissioni predette continueranno a funzionare finche' la decisione non sia pronunciata.
 
-#### Art. 72
+### Art. 72
 
 Tutte le disposizioni legislative concernenti la materia regolata dalla presente legge, le quali non siano richiamate negli articoli precedenti, sono abrogate.
 

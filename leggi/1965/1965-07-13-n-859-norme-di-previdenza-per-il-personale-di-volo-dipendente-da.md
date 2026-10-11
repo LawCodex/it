@@ -26,15 +26,11 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I
+## TITOLO I - ORDINAMENTO, SCOPI, ORGANIZZAZIONE DEL FONDO DI PREVIDENZA DEL PERSONALE DI VOLO DIPENDENTE DA AZIENDE DI NAVIGAZIONE AEREA.
 
-### ORDINAMENTO, SCOPI, ORGANIZZAZIONE DEL FONDO DI PREVIDENZA DEL - PERSONALE DI VOLO DIPENDENTE DA AZIENDE DI NAVIGAZIONE AEREA.
+### Capo I - IL FONDO E GLI ISCRITTI
 
-#### Capo I
-
-##### IL FONDO E GLI ISCRITTI
-
-###### Art. 1
+#### Art. 1
 
 Istituzione e scopi del Fondo.
 
@@ -42,7 +38,7 @@ E' istituito presso l'Istituto nazionale della previdenza sociale un "Fondo di p
 
 Il Fondo ha lo scopo di provvedere al trattamento di pensione in favore degli iscritti e dei loro superstiti, secondo le norme contenute nella presente legge.
 
-###### Art. 2
+#### Art. 2
 
 Ordinamento del Fondo e soppressione della Cassa nazionale della gente dell'aria
 
@@ -50,7 +46,7 @@ Il Fondo di cui al precedente articolo 1 costituisce una gestione autonoma in se
 
 Al Fondo medesimo, e per esso all'Istituto nazionale della previdenza sociale, sono trasferite le attivita' e le passivita', gli oneri ed i diritti e quanto altro di pertinenza della "Cassa nazionale della gente dell'aria" di cui al regio decreto 31 dicembre 1934, n. 2264, che viene soppressa con effetto dalla data di entrata in vigore della presente legge e la cui gestione si considera cessata con la data predetta. Alle operazioni di stralcio della gestione soppressa provvede il Fondo di previdenza regolato dalla presente legge.
 
-###### Art. 3
+#### Art. 3
 
 Passaggio all'istituto nazionale della previdenza sociale del personale della Cassa nazionale gente dell'aria.
 
@@ -58,7 +54,7 @@ Il personale della Cassa nazionale gente dell'aria passa a far parte del persona
 
 Apposite norme, da deliberarsi dal Consiglio di amministrazione dell'Istituto e da approvare con decreto del Ministro per il lavoro e la previdenza sociale di concerto con il Ministro per il tesoro, ne stabiliranno, all'entrata in vigore della presente legge, l'anzianita' di servizio, la carriera e la qualifica di appartenenza, in conformita' delle disposizioni di legge e di regolamento in vigore presso l'Istituto medesimo.
 
-###### Art. 4
+#### Art. 4
 
 ((Obbligo dell'iscrizione.
 
@@ -74,7 +70,7 @@ e) siano dipendenti da aziende di navigazione aerea o di costruzioni aeronautich
 
 2\. Sono, altresi', iscritti i soggetti indicati al comma 1 che abbiano i requisiti di cui alle lettere a), b), c) e d) e siano dipendenti da aziende esercenti i servizi aerei non di linea ai sensi degli articoli 788 e seguenti del codice della navigazione)).
 
-###### Art. 5
+#### Art. 5
 
 Trasferimento al Fondo dei contributi di previdenza degli iscritti alla Cassa nazionale della gente dell'aria.
 
@@ -84,7 +80,7 @@ Capo II.
 
 ## GLI ORGANI
 
-###### Art. 6
+#### Art. 6
 
 Comitato di vigilanza.
 
@@ -112,7 +108,7 @@ I membri supplenti partecipano alle riunioni in caso di assenza o impedimento de
 
 Il Comitato e' nominato con decreto del Ministro per il lavoro e la previdenza sociale; i componenti di cui alle lettere c), d), e), f) durano in carica quattro anni e possono essere confermati.
 
-###### Art. 7
+#### Art. 7
 
 Poteri del Comitato di vigilanza
 
@@ -130,15 +126,15 @@ Spetta al Comitato di cui al precedente articolo 6:
 
 6\) di dare pareri sulle questioni che, comunque, possano sorgere nell'applicazione delle norme di cui alla presente legge.
 
-###### Art. 8
+#### Art. 8
 
 Collegio dei sindaci
 
 Le funzioni dei sindaci rispetto al Fondo sono esercitate dal Collegio sindacale di cui all'articolo 18 del regio decreto-legge 4 ottobre 1935, n. 1827, modificato con decreto legislativo 13 maggio 1947, n. 436.
 
-## Capo III - IL PATRIMONIO E GESTIONE FINANZIARIA
+### Capo III - IL PATRIMONIO E GESTIONE FINANZIARIA
 
-###### Art. 9
+#### Art. 9
 
 Entrate del Fondo.
 
@@ -158,7 +154,7 @@ f) dalle rate di pensione prescritte;
 
 g) dalle ammende di cui al successivo articolo 52.
 
-###### Art. 10
+#### Art. 10
 
 Sopravvenienze attive.
 
@@ -170,7 +166,7 @@ b) le somme ritenute a titolo di pene pecuniarie sulle retribuzioni e sulle quot
 
 c) il ricavato della vendita degli oggetti appartenenti a persone morte o scomparse, trascorsi cinque anni dalla data di avviso notificato agli aventi diritto.
 
-###### Art. 11
+#### Art. 11
 
 Bilancio tecnico.
 
@@ -180,7 +176,7 @@ I risultati relativi sono sottoposti al Comitato di vigilanza e trasmessi al Min
 
 Il primo bilancio tecnico della gestione del Fondo e' compilato con riferimento alla situazione accertata al 31 dicembre 1967.
 
-###### Art. 12
+#### Art. 12
 
 Gestione del Fondo.
 
@@ -190,15 +186,13 @@ Il Fondo e' sostitutivo dell'assicurazione generale obbligatoria per l'invalidit
 
 ## TITOLO II - IL TRATTAMENTO DI PREVIDENZA
 
-### Capo I
+### Capo I - I CONTRIBUTI
 
-#### I CONTRIBUTI
-
-###### Art. 13
+#### Art. 13
 
 ((ARTICOLO ABROGATO DAL D. LGS. 24 APRILE 1997, N. 164))
 
-###### Art. 14
+#### Art. 14
 
 Misura e versamento del contributo
 
@@ -234,7 +228,7 @@ AGGIORNAMENTO (6)
 
 Il D.Lgs. 24 aprile 1997, n. 164 ha disposto (con l'art. 1, comma 9) che "A decorrere dal trimestre solare successivo a quello di entrata in vigore del presente decreto il contributo dovuto al Fondo deve essere versato con le modalita', nei termini e con la periodicita' vigenti nel Fondo pensioni lavoratori dipendenti".
 
-###### Art. 15
+#### Art. 15
 
 Tenuta dei conti delle aziende
 
@@ -256,11 +250,11 @@ Agli effetti del calcolo degli interessi, non sono computate le somme indebitame
 
 I contributi e gli interessi calcolati sulla base delle denuncie di cui al secondo comma, o degli elementi di cui al quarto comma del presente articolo, verranno rettificati in base alle risultanze degli elenchi annuali di contribuzione che debbono essere inviati dalle aziende in applicazione del successivo articolo 19.
 
-###### Art. 16
+#### Art. 16
 
 ((ARTICOLO ABROGATO DAL D. LGS. 24 APRILE 1997, N. 164))
 
-###### Art. 17
+#### Art. 17
 
 Contribuzione nei periodi di sospensione dal servizio e di malattia
 
@@ -276,13 +270,13 @@ La mancata osservanza di uno dei termini di cui al precedente comma comporta la 
 
 I periodi di servizio militare prestato per richiamo alle armi successivamente alla data di entrata in vigore della presente legge ed i periodi di interruzione obbligatoria o facoltativa del lavoro per gravidanza e puerperio sono riconosciuti, ai fini del diritto e della misura della pensione, a condizione che durante i periodi stessi risultino versati al Fondo i prescritti contributi a carico della azienda e del personale.
 
-###### Art. 18
+#### Art. 18
 
 Responsabilita' solidale per il versamento dei contributi
 
 In caso di fusione o cessazione di imprese, di aziende e, comunque, di subingresso convenzionale nella gestione dell'azienda, il nuovo esercente e' solidalmente responsabile con quello precedente del pagamento dei contributi maturati nonche' delle somme a qualsiasi altro titolo dovute al Fondo.
 
-###### Art. 19
+#### Art. 19
 
 Elenchi di contribuzione
 
@@ -290,7 +284,7 @@ Nel periodo dal 1° al 15 aprile di ciascun anno, le aziende comunicano a ciascu
 
 Entro il 30 giugno dello stesso anno le aziende inviano all'Istituto nazionale della previdenza sociale un elenco nominativo dei dipendenti iscritti al Fondo, indicando per ciascuno di essi le somme dovute per contributi sul totale delle voci retributive imponibili nonche', in complesso, le somme corrisposte ma non soggette a contributo.
 
-###### Art. 20
+#### Art. 20
 
 Comunicazione dei dati relativi all'assunzione ed all'esonero degli iscritti
 
@@ -308,15 +302,13 @@ Eventuali variazioni dei dati di cui al precedente punto 4) saranno indicate dal
 
 Le aziende sono tenute a comunicare le notizie relative alle assunzioni ed alle risoluzioni di rapporto di lavoro intervenute dopo l'entrata in vigore della presente legge, entro tre mesi dalla data in cui gli eventi si sono verificati.
 
-###### Art. 21
+#### Art. 21
 
 ((ARTICOLO ABROGATO DAL D. LGS. 24 APRILE 1997, N. 164))
 
-## CAPO II.
+### CAPO II. - LE PRESTAZIONI
 
-### LE PRESTAZIONI
-
-###### Art. 22
+#### Art. 22
 
 Requisiti per il conseguimento del diritto a pensione
 
@@ -350,7 +342,7 @@ Ove l'invalidita' sia dovuta a causa di servizio, per evento verificatosi poster
 
 Si considera dovuta a causa di servizio la invalidita' che sia conseguenza diretta ed immediata di traumi subiti o di infermita' contratte in servizio, in dipendenza dell'esercizio delle mansioni affidate all'iscritto.
 
-###### Art. 23
+#### Art. 23
 
 Periodi utili a pensione
 
@@ -362,7 +354,7 @@ b) riconosciuti in applicazione dei successivi articoli 45 e 46;
 
 c) per i quali siano stati versati i contributi volontari ai sensi del successivo articolo 39.
 
-###### Art. 24
+#### Art. 24
 
 Retribuzione pensionabile.
 
@@ -402,7 +394,7 @@ AGGIORNAMENTO (6)
 
 Il D.Lgs. 24 aprile 1997, n. 164 ha disposto (con l'art. 3, comma 8) che "Dalla data di entrata in vigore del presente decreto il limite massimo di retribuzione pensionabile calcolato ai sensi dell'articolo 24 della legge 13 luglio 1965, n. 859, come sostituito dall'articolo 8 della legge 31 ottobre 1988, n. 480, e' ridotto nella misura del 10 per cento e a decorrere dal 1 gennaio 2000 e' ridotto del 20 per cento".
 
-###### Art. 25
+#### Art. 25
 
 Determinazione della misura della pensione
 
@@ -416,7 +408,7 @@ La pensione annua e' dovuta in tredici quote mensili.
 
 ((COMMA ABROGATO DAL D. LGS. 24 APRILE 1997, N. 164)).
 
-###### Art. 26
+#### Art. 26
 
 Accertamento dell'invalidita'
 
@@ -432,17 +424,17 @@ L'accertamento dell'invalidita' di cui al punto b) del precedente articolo 22 e'
 
 Avverso i provvedimenti dell'Istituto e' ammesso ricorso al Comitato di vigilanza di cui al precedente articolo 6 nei termini e con le modalita' di cui al successivo articolo 55.
 
-###### Art. 27
+#### Art. 27
 
 Sospensione della pensione in caso di rioccupazione con obbligo di iscrizione al Fondo
 
 Qualora, successivamente alla liquidazione della pensione a carico del Fondo, il pensionato si rioccupi presso la stessa Societa' dalla quale dipendeva all'atto del collocamento a pensione, oppure presso altra Societa' di navigazione aerea, con rapporto di lavoro che comporti l'obbligo dell'iscrizione al Fondo, la corresponsione della pensione e' sospesa per tutta la durata del nuovo rapporto di lavoro e con decorrenza dal primo giorno del mese successivo a quello di rioccupazione Durante il periodo di rioccupazione, la Societa' e' tenuta a versare i contributi di cui al precedente articolo 14.
 
-###### Art. 28
+#### Art. 28
 
 ((ARTICOLO ABROGATO DAL D. LGS. 24 APRILE 1997, N. 164))
 
-###### Art. 29
+#### Art. 29
 
 Pensione al coniuge superstite ed ai figli
 
@@ -466,7 +458,7 @@ Se, invece, con il coniuge superstite ed i figli avuti dal matrimonio con l'iscr
 
 Nei casi in cui venga a cessare la pensione al coniuge superstite o ai figli, si procede alla modificazione della misura della pensione con le norme stabilite dal presente articolo e con quelle di cui al successivo articolo 30.
 
-###### Art. 30
+#### Art. 30
 
 Pensione per i figli e gli ascendenti
 
@@ -488,7 +480,7 @@ La misura della pensione e' pari, per ciascuno dei genitori, al 30 per cento di 
 
 Se la morte dell'iscritto e' conseguenza diretta di infortunio sul lavoro, il diritto a pensione per i genitori non e' subordinato ad alcuna condizione di eta'.
 
-###### Art. 31
+#### Art. 31
 
 Esclusione del coniuge superstite dal diritto a pensione
 
@@ -514,7 +506,7 @@ La Corte Costituzionale, con sentenza 19 - 27 luglio 1989, n. 450 (in G.U. 1a s.
 
 alimenti verso il coniuge deceduto."
 
-###### Art. 32
+#### Art. 32
 
 Figli e persone equiparate
 
@@ -526,7 +518,7 @@ Le figlie sono considerate, ai fini della liquidazione delle prestazioni previst
 
 I nati da precedente matrimonio del coniuge dello iscritto o del pensionato non hanno diritto al trattamento indiretto o di reversibilita' quando risultino titolari di altro trattamento di pensione.
 
-###### Art. 33
+#### Art. 33
 
 Decorrenza delle pensioni di invalidita', di anzianita' e per i superstiti
 
@@ -540,21 +532,21 @@ La pensione ai superstiti decorre dal primo giorno del mese successivo a quello 
 
 In caso diverso, la pensione decorre dal primo giorno del mese successivo a quello di presentazione della domanda.
 
-###### Art. 34
+#### Art. 34
 
 ((ARTICOLO ABROGATO DAL D.L. 5 OTTOBRE 2004, N. 249, CONVERTITO CON MODIFICAZIONI DALLA L. 3 DICEMBRE 2004, N. 291))
 
-###### Art. 35
+#### Art. 35
 
 ((ARTICOLO ABROGATO DALLA L. 30 LUGLIO 1973, N. 484))
 
-###### Art. 36
+#### Art. 36
 
 Prescrizione delle rate di pensione
 
 Le rate di pensione non riscosse entro cinque anni dal giorno della loro scadenza sono prescritte a favore del Fondo.
 
-###### Art. 37
+#### Art. 37
 
 Incedibilita', impignorabilita' e insequestrabilita' delle pensioni.
 
@@ -564,21 +556,17 @@ Esse sono esenti da pignoramento e sequestro e non possono essere soggette a rid
 
 L'Istituto nazionale della previdenza sociale ha diritto di trattenere sulle prestazioni di cui alla presente legge l'ammontare delle somme ad esso dovute in forza di provvedimenti dell'autorita' giudiziaria.
 
-## TITOLO III - TRATTAMENTO AL PERSONALE CESSATO DAL SERVIZIO PRIMA DI AVER
+## TITOLO III - TRATTAMENTO AL PERSONALE CESSATO DAL SERVIZIO PRIMA DI AVER CONSEGUITO IL DIRITTO A PENSIONE
 
-### CONSEGUITO IL DIRITTO A PENSIONE
+### Capo I - LIQUIDAZIONE DELLA POSIZIONE ASSICURATIVA
 
-#### Capo I - LIQUIDAZIONE DELLA POSIZIONE ASSICURATIVA
-
-###### Art. 38
+#### Art. 38
 
 ((ARTICOLO ABROGATO DAL D. LGS. 24 APRILE 1997, N. 164))
 
-## Capo II - LA PROSECUZIONE VOLONTARIA DELL'ASSICURAZIONE AL FONDO E LE
+### Capo II - LA PROSECUZIONE VOLONTARIA DELL'ASSICURAZIONE AL FONDO E LE PRESTAZIONI
 
-### PRESTAZIONI
-
-###### Art. 39
+#### Art. 39
 
 Prosecuzione volontaria della contribuzione.
 
@@ -602,7 +590,7 @@ Ove dall'assicurazione straniera derivi diritto a prestazioni, i contributi volo
 
 ((Il contributo volontario e' versato mensilmente. L'iscritto che, per il periodo di un anno, non versi il contributo e lo versi in misura inferiore a quella dovuta decade dalla possibilita' di coprire di contribuzione il periodo pregresso)).
 
-###### Art. 40
+#### Art. 40
 
 Trattamento per il personale cessato dal servizio dopo aver compiuto quindici anni di contribuzione.
 
@@ -612,11 +600,11 @@ L'iscritto per il quale sia cessato l'obbligo della contribuzione al Fondo, a se
 
 Le disposizioni di cui ai commi precedenti si applicano anche agli iscritti che sospendono il versamento del contributo volontario prima di aver conseguito diritto a pensione e dopo aver compiuto un periodo di contribuzione al Fondo di almeno 15 anni.
 
-###### Art. 41
+#### Art. 41
 
 ((ARTICOLO ABROGATO DALLA L. 31 OTTOBRE 1988, N. 480))
 
-###### Art. 42
+#### Art. 42
 
 Prestazioni agli iscritti volontari.
 
@@ -626,7 +614,7 @@ a) alla pensione di anzianita', di cui ai punti 1), 2), 3) del precedente artico
 
 b) alla pensione di invalidita', purche' ricorrano, nei loro confronti, gli estremi per il riconoscimento della invalidita' previsti dalle norme sull'assicurazione generale obbligatoria.
 
-###### Art. 43
+#### Art. 43
 
 Decorrenza delle pensioni per gli iscritti volontari.
 
@@ -642,19 +630,15 @@ Per i superstiti di iscritti volontari o di pensionati la pensione decorre dal p
 
 In caso diverso la pensione decorre dal primo giorno del mese successivo a quello di ricezione della domanda.
 
-###### Art. 44
+#### Art. 44
 
 Accertamento dell'invalidita' per gli iscritti volontari L'invalidita' dell'iscritto volontario, ai fini della pensione, e' accertata con le forme e le modalita' previste dal quinto e sesto comma del precedente articolo 26.
 
 ## TITOLO IV - DISPOSIZIONI TRANSITORIE, PENALI E FINALI
 
-### Capo I.
+### Capo I. - DISPOSIZIONI SPECIALI PER GLI ISCRITTI ALL'EX CASSA NAZIONALE DELLA GENTE DELL'ARIA
 
-#### DISPOSIZIONI SPECIALI PER GLI ISCRITTI ALL'EX CASSA NAZIONALE DELLA
-
-##### GENTE DELL'ARIA
-
-###### Art. 45
+#### Art. 45
 
 Riconoscimento dei periodi di servizio prestato posteriormente al 31 dicembre 1946
 
@@ -662,7 +646,7 @@ Al personale in servizio di cui al precedente articolo 4 che sia gia' stato iscr
 
 Le posizioni assicurative costituite in favore degli interessati nell'assicurazione generale obbligatoria durante i periodi oggetto di riconoscimento sono annullate e la gestione dell'assicurazione generale accreditera' il Fondo dell'importo complessivo dei contributi base e integrativi versati dalle aziende per gli interessati medesimi in corrispondenza dei periodi suindicati.
 
-###### Art. 46
+#### Art. 46
 
 Riconoscimento dei periodi di servizio posteriori al 31 dicembre 1946 per gli iscritti che abbiano ottenuto la liquidazione degli accantonamenti.
 
@@ -682,7 +666,7 @@ Gli effetti del riconoscimento decorrono dalla data della domanda, purche' il ve
 
 Qualora il versamento pervenga dopo tale termine, gli effetti del riconoscimento decorrono dal primo giorno del mese successivo a quello in cui il versamento e' pervenuto all'istituto nazionale della previdenza sociale.
 
-###### Art. 47
+#### Art. 47
 
 Rimborso agli iscritti dei contributi integrativi versati anteriormente al 1 gennaio 1947 e delle eventuali eccedenze contributive.
 
@@ -694,7 +678,7 @@ Il rimborso di cui ai due commi precedenti e' eseguito su domanda degli iscritti
 
 L'inosservanza del termine di cui al precedente comma comporta la decadenza dalla facolta' di ottenere il rimborso.
 
-###### Art. 48
+#### Art. 48
 
 Trattamento al personale cessato dal servizio nel periodo compreso fra il 1 luglio 1962 e la data di entrata in vigore della presente legge.
 
@@ -712,7 +696,7 @@ I termini di cui alle precedenti lettere a) e b) sono perentori e la loro inosse
 
 Il riconoscimento previsto dal presente articolo puo' essere chiesto, con l'osservanza delle modalita' e termini di cui alle precedenti lettere a) e b), anche dai superstiti di coloro che, cessati dal servizio posteriormente al 30 giugno 1962 e prima della data di entrata in vigore della presente legge, siano deceduti anteriormente a quest'ultima data, purche' i superstiti stessi possano far valere i requisiti previsti dalla presente legge per ottenere la pensione di riversibilita'.
 
-###### Art. 49
+#### Art. 49
 
 Calcolo e decorrenza della pensione al personale cessato dal servizio nel periodo compreso fra il 1 luglio 1962 e la data di entrata in vigore della presente legge.
 
@@ -726,15 +710,15 @@ Salvo quanto previsto dal precedenti commi, trovano l'applicazione, nel riguardi
 
 Il Fondo si surroga, con effetto dalla data di decorrenza della pensione posta a proprio carico, nei diritti derivanti agli interessati dai contributi versati in loro favore nella assicurazione generale obbligatoria durante il periodo del quale e' stato concesso il riconoscimento.
 
-###### Art. 50
+#### Art. 50
 
 Concessione, al personale cessato dal servizio nel periodo compreso tra il 1 luglio 1962 e la data di entrata in vigore della presente legge, della facolta' di proseguire volontariamente la contribuzione e l'iscrizione.
 
 Coloro che, essendosi trovati nelle condizioni di cui al primo comma del precedente articolo 48 ed avendo conseguito il riconoscimento di cui all'articolo stesso, non abbiano tuttavia maturato i requisiti occorrenti per ottenere la pensione a carico del Fondo, possono avvalersi delle disposizioni concernenti la prosecuzione volontaria della contribuzione o della iscrizione di cui al precedenti articoli 39 e 40 purche' inoltrino la relativa domanda entro un anno dalla data in cui l'I.N.P.S. ha dato comunicazione dell'avvenuto riconoscimento.
 
-## Capo II - SANZIONI
+### Capo II - SANZIONI
 
-###### Art. 51
+#### Art. 51
 
 Sanzioni.
 
@@ -746,33 +730,29 @@ In caso di ritardo nella trasmissione dei dati di cui all'ultimo comma del prece
 
 La penale non puo' comunque essere inferiore a lire 50.000.
 
-## Capo III
+### Capo III - ESTENSIONE AL TRATTAMENTO DI PREVIDENZA DEL PERSONALE DI VOLO DELLE DISPOSIZIONI VIGENTI PER L'ASSICURAZIONB OBBLIGATORIA PER L'INVALIDITA, LA VECCHIAIA ED I SUPERSTITI.
 
-### ESTENSIONE AL TRATTAMENTO DI PREVIDENZA DEL PERSONALE DI VOLO DELLE - DISPOSIZIONI VIGENTI PER L'ASSICURAZIONB OBBLIGATORIA PER
-
-#### L'INVALIDITA, LA VECCHIAIA ED I SUPERSTITI.
-
-###### Art. 52
+#### Art. 52
 
 Applicabilita' delle disposizioni vigenti per l'assicurazione obbligatoria per l'invalidita', la vecchiaia ed i superstiti.
 
 Per cio' che non e' previsto dalla presente legge, valgono le disposizioni vigenti per l'assicurazione generale obbligatoria, per l'invalidita', la vecchiaia ed i superstiti in materia di contributi e prestazioni, nonche' In materia di sanzioni penali.
 
-###### Art. 53
+#### Art. 53
 
 Benefici, privilegi ed esenzioni fiscali
 
 Ai contributi ed alle prestazioni di pertinenza del Fondo istituito con la presente legge si intendono estese le disposizioni contenute nell'articolo 124 del regio decreto-legge 4 ottobre 1935, n. 1827, nonche' i benefici ed i privilegi in materia tributaria in atto per l'assicurazione generale obbligatoria.
 
-###### Art. 54
+#### Art. 54
 
 Esenzione da oneri fiscali dei documenti occorrenti per conseguire le prestazioni
 
 Sono esenti da ogni tassa e diritto dovuto a favore dello Stato ed anche dei Comuni tutti i documenti relativi a domande di prestazione, da corrispondersi a favore degli iscritti e dei loro aventi causa.
 
-## Capo IV - RICORSI ED ENTRATA IN VIGORE DELLA LEGGE
+### Capo IV - RICORSI ED ENTRATA IN VIGORE DELLA LEGGE
 
-###### Art. 55
+#### Art. 55
 
 Ricorsi o termini per la loro presentazione.
 
@@ -782,7 +762,7 @@ Non e' ammesso il ricorso all'autorita' giudiziaria se non sia stato prima esper
 
 L'azione giudiziaria non puo' essere proposta quando sia trascorso il termine perentorio di cinque anni dalla data di ricezione della decisione del ricorso in sede amministrativa o dalla scadenza del termine di novanta giorni fissato per la decisione amministrativa.
 
-###### Art. 56
+#### Art. 56
 
 Entrata in vigore.
 

@@ -27,15 +27,15 @@ Promulga
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato ad aderire alla Convenzione concernente la reciproca assistenza amministrativa in materia fiscale tra gli Stati membri del Consiglio d'Europa ed i Paesi membri dell'Organizzazione per la cooperazione e lo sviluppo economico-OCSE, con Allegati, fatta a Strasburgo il 25 gennaio 1988, e sua esecuzione.
 
-##### Art. 2
+#### Art. 2
 
 1\. Piena ed intera esecuzione e' data alla Convenzione di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 28, paragrafo 3, della Convenzione stessa.
 
-##### Art. 3
+#### Art. 3
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -53,7 +53,7 @@ Visto, il Guardasigilli: Castelli
 
 ## Allegati
 
-##### Allegato
+#### Allegato
 
 Allegato
 
@@ -89,7 +89,7 @@ Desiderosi di concludere una Convenzione di reciproca assistenza amministrativa 
 
 Hanno convenuto quanto segue:
 
-##### Articolo 1
+#### Articolo 1
 
 Oggetto della Convenzione e persone interessate
 
@@ -107,7 +107,7 @@ c. la notifica di documenti.
 
 3\. Una Parte fornira' assistenza amministrativa, a prescindere se la persona in oggetto e' residente o cittadina di una Parte o di ogni altro Stato.
 
-##### Articolo 2
+#### Articolo 2
 
 Tasse in oggetto
 
@@ -159,7 +159,7 @@ Generale dell'OCSE (di seguito denominato Depositari) qualsiasi modifica da appo
 
 ## CAPITOLO II - DEFINIZIONI GENERALI
 
-##### Articolo 3
+#### Articolo 3
 
 Definizioni
 
@@ -187,11 +187,9 @@ Per ogni Parte che formula una dichiarazione a tal fine, i termini di cui sopra 
 
 ## CAPITOLO III - FORME DI ASSISTENZA
 
-### Sezione I
+### Sezione I - cambio d'informazioni
 
-#### cambio d'informazioni
-
-##### Articolo 4
+#### Articolo 4
 
 Norma generale
 
@@ -209,7 +207,7 @@ Le informazioni che risultano manifestamente non pertinenti riguardo agli obiett
 
 3\. Una Parte puo' , mediante una dichiarazione indirizzata ad uno dei Depositari, indicare che, conformemente alla sua legislazione interna, le sue autorita' possono informare il suo residente o cittadino prima di fornire informazioni che lo riguardano , in applicazione degli Articoli 5 e 7.
 
-##### Articolo 5
+#### Articolo 5
 
 Scambio: d'informazioni su richiesta
 
@@ -217,13 +215,13 @@ Scambio: d'informazioni su richiesta
 
 2\. Se le informazioni disponibili nelle cartelle fiscali dello Stato richiesto non consentono di dar seguito alla richiesta d'informazioni, detto Stato deve prendere tutti i provvedimenti necessari al fine di fornire allo Stato richiedente le informazioni richieste.
 
-##### Articolo 6
+#### Articolo 6
 
 Scambio automatico d'informazioni
 
 Per talune categorie di casi e secondo procedure che determinano di comune accordo, due o piu' Parti si scambiano automaticamente le informazioni di cui all'Articolo 4.
 
-##### Articolo 7
+#### Articolo 7
 
 Scambio spontaneo di informazioni
 
@@ -241,7 +239,7 @@ e. a seguito d'informazioni comunicate ad una Parte da un'altra Parte, la prima 
 
 2\. Ciascuna Parte prende i provvedimenti ed attua le procedure necessarie affinche' le pervengano le informazioni di cui al paragrafo 1 in vista della loro trasmissione ad un'altra Parte.
 
-##### Articolo 8
+#### Articolo 8
 
 Controlli fiscali contestuali
 
@@ -251,7 +249,7 @@ Ciascuna Parte decide se partecipare o meno , in un determinato caso, ad un cont
 
 2\. Ai fini della presente Convenzione, per controllo fiscale contestuale s'intende un controllo intrapreso ai sensi di un accordo con il quale due o piu' Parti convengono di verificare contestualmente, ciascuna sul proprio territorio, la situazione fiscale di una o piu' persone con cui hanno interessi comuni o complementari, al fine di scambiare le informazioni cosi' ottenute.
 
-##### Articolo 9
+#### Articolo 9
 
 Controlli fiscali all'estero
 
@@ -261,15 +259,15 @@ Controlli fiscali all'estero
 
 3\. Una Parte puo' informare uno dei Depositari del suo intento di non accettare, in linea di massima, le richieste di cui al paragrafo 1. Questa dichiarazione puo' essere fatta o ritirata in qualsiasi momento
 
-##### Articolo 10
+#### Articolo 10
 
 Informazioni contraddittorie
 
 Se una Parte riceve da un'altra Parte informazioni sulla situazione fiscale di una persona che le sembrano in contrasto con quelle di cui dispone, essa ne avvisa la Parte che ha fornito le informazioni.
 
-## Sezione II - Assistenza in vista del recupero
+### Sezione II - Assistenza in vista del recupero
 
-##### Articolo 11
+#### Articolo 11
 
 Recupero di crediti fiscali
 
@@ -281,13 +279,13 @@ Tuttavia, se il credito concerne una persona che non ha qualita' di residente ne
 
 3\. L'obbligo di fornire assistenza ai fini del recupero dei crediti fiscali concernenti una persona deceduta o la sua successione, e' limitata al valore della successione o dei beni ricevuti da ciascuno dei beneficiari della successione , a seconda se il credito deve essere ricuperato sulla successione o presso i beneficiari di quest'ultima.
 
-##### Articolo 12
+#### Articolo 12
 
 Misure conservatorie
 
 Su richiesta dello Stato richiedente , lo Stato richiesto prende provvedimenti conservatori in vista del recupero di un ammontare d'imposta, anche se il credito e' contestato o se il titolo esecutivo non e' ancora stato emanato.
 
-##### Articolo 13
+#### Articolo 13
 
 Documenti di accompagnamento della domanda
 
@@ -301,7 +299,7 @@ c. da ogni altro documento stabilito per il ricupero o per adottare le misure co
 
 2\. Il titolo che consente l'esecuzione nello Stato richiedente e', se del caso, ed in conformita' alle norme in vigore nello Stato richiesto, ammesso, omologato, completato o sostituito al piu' presto, dopo la data di ricevimento della richiesta di assistenza, da un titolo che consente l'esecuzione nello Stato richiesto.
 
-##### Articolo 14
+#### Articolo 14
 
 Termini
 
@@ -311,21 +309,21 @@ Termini
 
 3\. In ogni caso lo Stato richiesto non e' tenuto a dar seguito ad una domanda di assistenza presentata dopo un periodo di 15 anni a decorrere dalla data del titolo esecutivo iniziale.
 
-##### Articolo 15
+#### Articolo 15
 
 Privilegi
 
 Il credito fiscale per il cui recupero viene concessa l'assistenza, non gode nello Stato richiesto di alcuno dei privilegi inerenti ai crediti fiscali di detto Stato, anche se la procedura di recupero utilizzata e' quella che detto Stato applica ai propri crediti fiscali.
 
-##### Articolo 16
+#### Articolo 16
 
 Termini di pagamento
 
 Se la sua legislazione o prassi amministrativa lo consente in circostanze analoghe, lo Stato richiesto puo' consentire un termine di pagamento o un pagamento scaglionato, ma deve informarne preliminarmente lo Stato ricorrente.
 
-## Sezione III - Notifica di documenti
+### Sezione III - Notifica di documenti
 
-##### Articolo 17
+#### Articolo 17
 
 Notifica di documenti
 
@@ -345,7 +343,7 @@ b. per quanto possibile, secondo la particolare forma stabilita dallo Stato rich
 
 ## CAPITOLO IV - DISPOSIZIONI COMUNI ALLE VARIE FORME DI ASSISTENZA
 
-##### Articolo 18
+#### Articolo 18
 
 Informazioni che lo Stato richiedente deve fornire
 
@@ -367,13 +365,13 @@ f se la domanda e' conforme alla legislazione ed alla prassi amministrativa dell
 
 2\. Lo Stato richiedente comunica allo Stato richiesto, non appena ne ha conoscenza, tutte le altre informazioni relative alla richiesta di assistenza.
 
-##### Articolo 19
+#### Articolo 19
 
 Possibilita' di declinare una domanda
 
 Lo Stato richiesto non e' tenuto a dar seguito ad una domanda se lo Stato richiedente non ha esaurito tutti i mezzi di cui dispone sul suo territorio, a meno che la loro utilizzazione non dia luogo a difficolta' sproporzionate .
 
-##### Articolo 20
+#### Articolo 20
 
 Seguito dato alla domanda di assistenza
 
@@ -383,7 +381,7 @@ Seguito dato alla domanda di assistenza
 
 3\. Se, nel caso di una richiesta d'informazioni, lo Stato richiedente ha precisato la forma in cui auspica ricevere l'informazione e lo Stato richiesto e' in grado di farlo, quest'ultimo fornira' l'informazione nella forma desiderata.
 
-##### Articolo 21
+#### Articolo 21
 
 Protezione delle persone e limiti dell'obbligo di assistenza
 
@@ -403,7 +401,7 @@ e. di concedere assistenza, se, e nella misura in cui ritiene che l'imposizione 
 
 f. di concedere assistenza, quando l'applicazione della presente Convenzione potrebbe dar luogo ad una discriminazione fra lo Stato richiesto ed i cittadini dello Stato ricorrente che si trovano nella stessa situazione.
 
-##### Articolo 22
+#### Articolo 22
 
 Segreto
 
@@ -415,7 +413,7 @@ Segreto
 
 4\. Nonostante le disposizioni dei paragrafi 1,2 e 3, le informazioni ottenute da una Parte possono essere utilizzate per altri fini quando l'uso di tali' informazioni a tali fini e' possibile secondo la legislazione della Parte che fornisce le informazioni, e l'autorita' competente di questa Parte consente a detta utilizzazione. Le informazioni fornite da una Parte ad un'altra Parte possono essere trasmesse da quest'ultima ad una terza parte, fatta salva l'autorizzazione preliminare dell'autorita' competente della prima Parte.
 
-##### Articolo 23
+#### Articolo 23
 
 Procedure
 
@@ -427,7 +425,7 @@ Procedure
 
 ## CAPITOLO V - DISPOSIZIONI SPECIALI
 
-##### Articolo 24
+#### Articolo 24
 
 Attuazione della Convenzione
 
@@ -443,13 +441,13 @@ Attuazione della Convenzione
 
 6 Il Segretario generale dell'OCSE trasmette alle Parti, nonche' agli Stati firmatari della Convenzione che non l'hanno ancora ratificata, accettata o approvata, i pareri espressi dall'organo di coordinamento ai sensi delle norme del paragrafo 4 di cui sopra, nonche' le transazioni cui si e' addivenuti ai sensi del paragrafo 5 precedente .
 
-##### Articolo 25
+#### Articolo 25
 
 Lingue
 
 Le domande di assistenza, nonche' le risposte, sono redatte in una delle lingue ufficiali dell'OCSE o del Consiglio d'Europa o in ogni altra lingua che le Parti interessate convengono, a livello bilaterale, di utilizzare.
 
-##### Articolo 26
+#### Articolo 26
 
 Spese
 
@@ -461,7 +459,7 @@ b. le spese straordinarie stanziate per l'assistenza sono a carico dello Stato r
 
 ## CAPITOLO VI - Disposizioni finali
 
-##### Articolo 27
+#### Articolo 27
 
 Altri accordi ed intese internazionali
 
@@ -469,7 +467,7 @@ Altri accordi ed intese internazionali
 
 2\. In deroga alle disposizioni della presente Convenzione, le Parti membri della Comunita' Economica Europea, applicano nelle loro reciproche relazioni le regole comuni in vigore in tale Comunita'.
 
-##### Articolo 28
+#### Articolo 28
 
 Firma ed entrata in vigore della Convenzione
 
@@ -479,7 +477,7 @@ Firma ed entrata in vigore della Convenzione
 
 3\. Per ogni Stato membro del Consiglio d'Europa o paese membro dell'OCSE che esprima in seguito il suo consenso ad essere vincolato dalla Convenzione, quest'ultima entrera' in vigore il primo giorno del mese successivo alla scadenza di un periodo di tre mesi dopo la data di deposito dello strumento di ratifica, di accettazione o di approvazione.
 
-##### Articolo 29
+#### Articolo 29
 
 Applicazione territoriale della Convenzione
 
@@ -489,7 +487,7 @@ Applicazione territoriale della Convenzione
 
 3\. Ogni dichiarazione effettuata ai sensi di uno dei due paragrafi precedenti potra' essere ritirata , per quanto concerne qualsiasi territorio designato in detta dichiarazione, per mezzo di una notifica indirizzata ad uno dei Depositari. Il ritiro avra' effetto il primo giorno del mese successivo alla scadenza di un periodo di tre mesi dopo la data di ricezione della notifica da parte del Depositario.
 
-##### Articolo 30
+#### Articolo 30
 
 Riserve
 
@@ -513,7 +511,7 @@ e. di non accettare le notifiche a mezzo posta previste all'Articolo 17, paragra
 
 5\. La Parte che ha formulato una riserva relativamente ad una norma della presente Convenzione non puo' esigere da un'altra Parte l'applicazione di detta norma; tuttavia, se la riserva e' parziale, essa puo' pretendere che tale disposizione sia applicata nella misura in cui essa l'ha accettata.
 
-##### Articolo 31
+#### Articolo 31
 
 Denuncia
 
@@ -523,7 +521,7 @@ Denuncia
 
 3\. La Parte che denuncia la presente Convenzione rimane vincolata dall'Articolo 22 fintanto che conserva in suo possesso informazioni, documenti o altre notizie ottenute in applicazione della Convenzione.
 
-##### Articolo 32
+#### Articolo 32
 
 Depositari e loro funzioni
 

@@ -54,7 +54,7 @@ il seguente decreto legislativo:
 
 ## Capo I - Disposizioni generali
 
-#### Art. 1
+### Art. 1
 
 Oggetto
 
@@ -94,7 +94,7 @@ Oggetto
 
 > Per il testo dell'art. 24, della legge 18 giugno 2009, n. 69 si veda nelle note alle premesse.
 
-#### Art. 2
+### Art. 2
 
 Natura e finalita'
 
@@ -118,7 +118,7 @@ f-bis) promuovere e sostenere, durante l'intero percorso di carriera, la qualifi
 
 3\. La Scuola e' dotata di autonomia organizzativa e contabile nei limiti delle proprie risorse economico-finanziarie. La Scuola e' iscritta nell'apposito schedario dell'anagrafe delle ricerche, istituito ai sensi del terzo comma dell'articolo 63 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382.
 
-#### Art. 3
+### Art. 3
 
 Compiti
 
@@ -158,7 +158,7 @@ n) ogni altra competenza attribuita dal Presidente del Consiglio dei Ministri o 
 
 3-ter. La Scuola, previo accreditamento ai sensi del regolamento di cui al decreto del Ministro dell'universita' e della ricerca 14 dicembre 2021, n. 226, anche in deroga al requisito di cui all'articolo 4, comma 1, lettera a), del predetto regolamento relativamente al numero minimo di docenti per la formazione del collegio del dottorato, comunque non inferiore a sei, individuati anche tra professori universitari sulla base di una convenzione con l'ateneo di appartenenza secondo le modalita' di cui all'articolo 6, comma 11, della legge 30 dicembre 2010, n. 240, in quanto compatibili, puo' altresi' emanare bandi per corsi di dottorato in Scienze della pubblica amministrazione, in favore di un massimo di otto candidati, fino al raggiungimento, a regime, di un numero di frequentatori non superiore a trentadue unita', nei limiti delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente)).
 
-#### Art. 4
+### Art. 4
 
 Organi
 
@@ -172,11 +172,11 @@ c) il Presidente.
 
 ((c-bis) il Vicepresidente, se nominato)).
 
-#### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.P.R. 16 APRILE 2013, N. 70))
 
-#### Art. 6 - Il Comitato di gestione
+### Art. 6 - Il Comitato di gestione
 
 1\. Il Comitato di gestione e' composto dal Presidente, che lo presiede, ((dal Vicepresidente,)) dal Segretario Generale, dal Capo del Dipartimento per il personale della Presidenza del Consiglio dei ministri, dal Capo del Dipartimento della funzione pubblica, da tre rappresentanti nominati dal Ministro per la pubblica amministrazione, di cui uno su indicazione del Presidente dell'Istituto nazionale di statistica, da un rappresentante nominato dal Ministro dell'universita' e della ricerca, da uno nominato dal Ministro dell'interno, da uno nominato dal Ministro dell'economia e delle finanze, da uno nominato dal Ministro degli affari esteri e della cooperazione internazionale, da uno nominato dal Ministro della difesa, da uno nominato dal Ministro della cultura e da non piu' di tre nominati da ulteriori Ministri designati con decreto del Presidente del Consiglio dei ministri. La nomina a membro del comitato di gestione e la partecipazione alle riunioni non danno titolo a emolumenti o compensi di qualsiasi tipo.
 
@@ -184,7 +184,7 @@ c) il Presidente.
 
 3\. Il Comitato di gestione dura in carica quattro anni.
 
-#### Art. 7
+### Art. 7
 
 Il Presidente
 
@@ -200,7 +200,7 @@ Il Presidente
 
 4-ter. Il Vicepresidente e' scelto tra le medesime categorie di soggetti di cui al comma 1. L'incarico del Vicepresidente cessa con la nomina del nuovo Presidente. Il Vicepresidente puo' essere confermato per una sola volta. Se dipendente pubblico o docente universitario, per l'intera durata dell'incarico, se svolto a tempo pieno, e' collocato nella posizione di fuori ruolo, di aspettativa o di comando, secondo i rispettivi ordinamenti. Ove l'incarico non sia a tempo pieno, e' svolto conformemente ai rispettivi ordinamenti di appartenenza, senza collocamento in una delle predette posizioni.
 
-#### Art. 8 - Segretario Generale
+### Art. 8 - Segretario Generale
 
 ((1. Il Segretario generale e' nominato, sentito il Presidente, con decreto del Presidente del Consiglio dei ministri, o del Ministro per la pubblica amministrazione a tal fine delegato, ai sensi dell'articolo 19, comma 3, del decreto legislativo 30 marzo 2001, n. 165. Conseguentemente, la dotazione organica della Presidenza del Consiglio dei ministri e' aumentata di una unita' dirigenziale di livello generale. Il Segretario generale dura in carica quattro anni e puo' essere confermato)).
 
@@ -224,7 +224,7 @@ h) nomina i dirigenti della Scuola.
 
 ## Capo III
 
-#### Art. 9
+### Art. 9
 
 Responsabili di settore
 
@@ -238,7 +238,7 @@ Responsabili di settore
 
 5\. I responsabili di settore sono posti obbligatoriamente in posizione di fuori ruolo, aspettativa o comando secondo i rispettivi ordinamenti ed anche in deroga ai limiti temporali da essi previsti.
 
-#### Art. 10
+### Art. 10
 
 I docenti della scuola
 
@@ -254,7 +254,7 @@ Essi sono scelti tra professori universitari, dirigenti di amministrazioni pubbl
 
 5\. Gli incarichi temporanei di cui ai commi 3 e 4 sono conferiti dal Presidente, sentiti il Segretario Generale e i responsabili di settore, con le modalita' stabilite nelle delibere di nomina.
 
-#### Art. 11
+### Art. 11
 
 Altri incarichi
 
@@ -268,7 +268,7 @@ Altri incarichi
 
 2-bis. La Presidenza del Consiglio dei ministri e' autorizzata a reclutare, dall'anno 2023, con contratto di lavoro subordinato a tempo indeterminato, in aggiunta alle vigenti facolta' assunzionali e con corrispondente aumento della dotazione organica del personale non dirigenziale, ventotto unita' di personale non dirigenziale, da inquadrare nella categoria A, posizione economica F1, mediante apposite procedure selettive, nell'ambito delle quali possono essere prioritariamente valorizzate le esperienze lavorative maturate dai titolari di contratti stipulati nell'ultimo triennio per lo svolgimento di attivita' di tutoraggio ai sensi del comma 1-bis. A tal fine e' autorizzata la spesa di euro 1.916.248 annui a decorrere dall'anno 2023.
 
-#### Art. 12
+### Art. 12
 
 Sede centrale e sedi distaccate della Scuola superiore della pubblica amministrazione
 
@@ -284,7 +284,7 @@ Sede centrale e sedi distaccate della Scuola superiore della pubblica amministra
 
 5\. COMMA ABROGATO DAL D.P.R. 16 APRILE 2013, N. 70.
 
-#### Art. 13
+### Art. 13
 
 Personale non docente
 
@@ -306,7 +306,7 @@ Personale non docente
 
 2-octies. La Scuola provvede ai costi per la gestione dei concorsi pubblici e per le spese di funzionamento indotte dal reclutamento del personale di cui ai commi 2-bis e seguenti nell'ambito delle risorse derivanti dal contributo finanziario ordinario dello Stato disponibile a legislazione vigente.
 
-#### Art. 14
+### Art. 14
 
 Trattamento economico
 
@@ -318,7 +318,7 @@ Trattamento economico
 
 2\. I responsabili di settore conservano il trattamento economico, comunque definito, relativo alla qualifica posseduta presso l'amministrazione di appartenenza. Il trattamento economico dei responsabili di settore e' incrementato da un'indennita' di funzione stabilita, nei limiti delle risorse economico-finanziarie della Scuola con le delibere di cui all'articolo 15, comma 1.
 
-#### Art. 15
+### Art. 15
 
 Organizzazione interna, funzionamento e regolamento contabile e finanziario
 
@@ -338,7 +338,7 @@ AGGIORNAMENTO (6)
 
 E' stato ripristinato il testo gia' in vigore dal 9-7-2013 a seguito della soppressione della lettera m) dell'art. 5, comma 1 del D.L. 9 giugno 2021, n. 80, che disponeva la modifica del comma 2 del presente articolo, ad opera della L. 6 agosto 2021, n. 113, di conversione del D.L. medesimo.
 
-#### Art. 16
+### Art. 16
 
 Entrate, programmazione e dotazione finanziaria della Scuola
 
@@ -370,11 +370,9 @@ h) dalle entrate per partite di giro.
 
 6\. I bilanci preventivi e consuntivi vengono trasmessi, entro dieci giorni dalla deliberazione del Comitato di gestione, alla Presidenza del Consiglio dei Ministri.
 
-## Capo V
+## Capo V - Disposizioni finali
 
-### Disposizioni finali
-
-#### Art. 17
+### Art. 17
 
 Norme suppletive e comparto di contrattazione
 
@@ -384,7 +382,7 @@ Norme suppletive e comparto di contrattazione
 
 > \- Per il riferimento al decreto legislativo 30 marzo 1999, n. 303 e al decreto legislativo 30 marzo 2001, n. 165 vedasi nelle note alle premesse.
 
-#### Art. 18
+### Art. 18
 
 Diritti di proprieta' intellettuale ed attivita' per conto terzi
 
@@ -392,7 +390,7 @@ Diritti di proprieta' intellettuale ed attivita' per conto terzi
 
 2\. Con la medesima procedura di cui al comma 1, sono altresi' definiti le modalita' ed i criteri di riparto dei proventi derivanti da contratti di consulenza e convenzioni per conto terzi.
 
-#### Art. 19
+### Art. 19
 
 Abrogazioni
 

@@ -29,11 +29,9 @@ la seguente legge:
 
 ## Titolo I - Rendiconto generale dello stato
 
-### Capo I
+### Capo I - Conto del bilancio
 
-#### Conto del bilancio
-
-##### Art. 1
+#### Art. 1
 
 Entrate
 
@@ -51,7 +49,7 @@ Parte di provvedimento in formato grafico
 
 > Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
-##### Art. 2
+#### Art. 2
 
 Spese
 
@@ -63,7 +61,7 @@ Spese
 
 Parte di provvedimento in formato grafico
 
-##### Art. 3
+#### Art. 3
 
 Disavanzo della gestione di competenza
 
@@ -106,7 +104,7 @@ Disavanzo della gestione di competenza
 +--------------------+-------------------------+--------------------+
 ```
 
-##### Art. 4
+#### Art. 4
 
 Situazione finanziaria
 
@@ -116,7 +114,7 @@ Situazione finanziaria
 
 Parte di provvedimento in formato grafico
 
-##### Art. 5
+#### Art. 5
 
 Allegati
 
@@ -136,9 +134,9 @@ Allegati
 
 > 4\. Alla legge di approvazione del rendiconto generale dello Stato e' allegato un elenco dei decreti di cui al comma 2, con le indicazioni dei motivi per i quali si e' proceduto ai prelevamenti dal fondo di cui al presente articolo.»
 
-## Capo II - Conto generale del patrimonio
+### Capo II - Conto generale del patrimonio
 
-##### Art. 6
+#### Art. 6
 
 Risultati generali della gestione patrimoniale
 
@@ -174,7 +172,7 @@ Risultati generali della gestione patrimoniale
 
 ## Titolo II - Approvazione del rendiconto
 
-##### Art. 7
+#### Art. 7
 
 Rendiconto
 
@@ -194,7 +192,7 @@ Visto, il Guardasigilli: Nordio
 
 ## Allegati
 
-##### Allegato 1
+#### Allegato 1
 
 Allegato 1
 

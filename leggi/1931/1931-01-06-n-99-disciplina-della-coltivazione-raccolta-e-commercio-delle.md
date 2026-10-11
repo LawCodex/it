@@ -32,35 +32,35 @@ Noi abbiamo sanzionato e promulghiamo quanto segue:
 
 ## Coltivazione, raccolta e commercio delle piante officinali.
 
-### Art. 1
+## Art. 1
 
 ((ARTICOLO ABROGATO DAL D. LGS. 21 MAGGIO 2018, N. 75))
 
-### Art. 2
+## Art. 2
 
 ((ARTICOLO ABROGATO DAL D. LGS. 21 MAGGIO 2018, N. 75))
 
-### Art. 3
+## Art. 3
 
 ((ARTICOLO ABROGATO DAL D. LGS. 21 MAGGIO 2018, N. 75))
 
-### Art. 4
+## Art. 4
 
 ((ARTICOLO ABROGATO DAL D. LGS. 21 MAGGIO 2018, N. 75))
 
-### Art. 5
+## Art. 5
 
 ((ARTICOLO ABROGATO DAL D. LGS. 21 MAGGIO 2018, N. 75))
 
-### Art. 6
+## Art. 6
 
 Il diploma di erborista viene rilasciato dalle Scuole di erboristeria presso le Scuole di farmacia universitarie, a chi, avendo frequentato gli appositi corsi di studio, da stabilirsi con il regolamento di cui all'art. 2, abbia superato gli esami finali.
 
-### Art. 7
+## Art. 7
 
 ((ARTICOLO ABROGATO DAL D. LGS. 21 MAGGIO 2018, N. 75))
 
-### Art. 8
+## Art. 8
 
 Le contravvenzioni ((all'articolo)) 6 ((...)) sono punite con una ammenda da L. 50 a L. 1000. ((2))
 
@@ -72,49 +72,49 @@ AGGIORNAMENTO (2)
 
 Il D. Lgs. 21 maggio 2018, n. 75 ha disposto (con l'art. 10, comma 4, lettera b) che la presente modifica si applica a decorrere dal centottantesimo giorno successivo alla pubblicazione del suindicato decreto nella Gazzetta Ufficiale della Repubblica italiana.
 
-### Art. 9
+## Art. 9
 
 ((ARTICOLO ABROGATO DAL D. LGS. 21 MAGGIO 2018, N. 75))
 
 ## Commissione consultiva per le piante officinali.
 
-### Art. 10
+## Art. 10
 
 ((ARTICOLO ABROGATO DAL D. LGS. 21 MAGGIO 2018, N. 75))
 
-### Art. 11
+## Art. 11
 
 ((ARTICOLO ABROGATO DAL D. LGS. 21 MAGGIO 2018, N. 75))
 
 ## Consorzi e Federazioni.
 
-### Art. 12
+## Art. 12
 
 ((ARTICOLO ABROGATO DAL D. LGS. 21 MAGGIO 2018, N. 75))
 
-### Art. 13
+## Art. 13
 
 ((ARTICOLO ABROGATO DAL D. LGS. 21 MAGGIO 2018, N. 75))
 
-### Art. 14
+## Art. 14
 
 ((ARTICOLO ABROGATO DAL D. LGS. 21 MAGGIO 2018, N. 75))
 
-### Art. 15
+## Art. 15
 
 ((ARTICOLO ABROGATO DAL D. LGS. 21 MAGGIO 2018, N. 75))
 
 ## Disposizioni generali e transitorie.
 
-### Art. 16
+## Art. 16
 
 ((ARTICOLO ABROGATO DAL D. LGS. 21 MAGGIO 2018, N. 75))
 
-### Art. 17
+## Art. 17
 
 ((ARTICOLO ABROGATO DAL D. LGS. 21 MAGGIO 2018, N. 75))
 
-### Art. 18
+## Art. 18
 
 ((ARTICOLO ABROGATO DAL D. LGS. 21 MAGGIO 2018, N. 75))
 

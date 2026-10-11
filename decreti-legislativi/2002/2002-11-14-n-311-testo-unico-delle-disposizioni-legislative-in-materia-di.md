@@ -49,15 +49,15 @@ il seguente decreto legislativo:
 
 ## Titolo I - Oggetto e definizioni
 
-##### ART. 1 (L) - Oggetto
+#### ART. 1 (L) - Oggetto
 
 1\. Le norme del presente testo unico disciplinano il casellario giudiziale, il casellario dei carichi pendenti, l'anagrafe delle sanzioni amministrative dipendenti da reato, l'anagrafe dei carichi pendenti degli illeciti amministrativi dipendenti da reato, i servizi certificativi, le relative procedure. In particolare, disciplinano l'iscrizione, l'eliminazione, la trasmissione e conservazione dei dati, i certificati, le funzioni degli uffici interessati.
 
-##### ART. 2 (R) - Definizioni
+#### ART. 2 (R) - Definizioni
 
 ## Titolo II - Casellario giudiziale
 
-##### ART. 3 (L) - Provvedimenti iscrivibili
+#### ART. 3 (L) - Provvedimenti iscrivibili
 
 1\. Nel casellario giudiziale si iscrivono per estratto:
 
@@ -101,9 +101,9 @@ u) qualsiasi altro provvedimento che concerne a norma di legge i provvedimenti g
 
 (art. 686 c.p.p.; art. 194 att. c.p.p; artt. 4 e 14, r.d. n. 778/1931; art. 24, parte del sesto comma, r.d.l. 1404/1934, convertito, con modificazioni, l. n. 835/1935; art. 58-bis, l. n. 354/1975; art. 73, l. n. 689/1981)
 
-##### ART. 4 (R) - Estratto del provvedimento iscrivibile
+#### ART. 4 (R) - Estratto del provvedimento iscrivibile
 
-##### ART. 5 (L) - Eliminazione delle iscrizioni
+#### ART. 5 (L) - Eliminazione delle iscrizioni
 
 1\. Le iscrizioni nel casellario giudiziale sono eliminate al compimento dell'ottantesimo anno di eta' o per morte della persona alla quale si riferiscono.
 
@@ -139,7 +139,7 @@ art. 15 d.P.R. n. 448/1988; artt. 46 e 63 c. 2, d.lgs. n. 274/2000)
 
 ## Titolo III - Casellario dei carichi pendenti
 
-##### ART. 6 (L) - Provvedimenti iscrivibili
+#### ART. 6 (L) - Provvedimenti iscrivibili
 
 1\. Nel casellario dei carichi pendenti si iscrivono per estratto:
 
@@ -149,9 +149,9 @@ b) ogni altro provvedimento giudiziario che decide sull'imputazione, emesso nell
 
 (art. 110, c. 1, lett. c), d.lgs. n. 271/1989, e raccordo con l'art. 60, c. 3, c.p.p)
 
-##### ART. 7 (R) - Estratto del provvedimento iscrivibile
+#### ART. 7 (R) - Estratto del provvedimento iscrivibile
 
-##### ART. 8 (L) - Eliminazioni delle iscrizioni
+#### ART. 8 (L) - Eliminazioni delle iscrizioni
 
 1\. Le iscrizioni nel casellario dei carichi pendenti sono eliminate:
 
@@ -163,7 +163,7 @@ b) alla cessazione della qualita' di imputato ai sensi dell'articolo 60, comma 2
 
 ## Titolo IV - Anagrafe delle sanzioni amministrative dipendenti da reato
 
-##### ART. 9 (L) - Provvedimenti iscrivibili
+#### ART. 9 (L) - Provvedimenti iscrivibili
 
 1\. Nell'anagrafe delle sanzioni amministrative dipendenti da reato si iscrivono per estratto:
 
@@ -175,19 +175,17 @@ c) qualsiasi altro provvedimento che concerne a norma di legge i provvedimenti g
 
 (art. 80, c. 2, d.lgs. n. 231/2001)
 
-##### ART. 10 (R) - Estratto del provvedimento iscrivibile
+#### ART. 10 (R) - Estratto del provvedimento iscrivibile
 
-##### ART. 11 (L) - Eliminazione delle iscrizioni
+#### ART. 11 (L) - Eliminazione delle iscrizioni
 
 1\. Le iscrizioni nell'anagrafe delle sanzioni amministrative sono eliminate trascorsi cinque anni dal giorno in cui e' stata eseguita la sanzione pecuniaria, o trascorsi dieci anni dal giorno in cui e' cessata l'esecuzione di qualunque altra diversa sanzione, se negli stessi periodi non e' stato commesso un ulteriore illecito amministrativo.
 
 (art. 80, c. 2, d.lgs. n. 231/2001)
 
-## Titolo V - Anagrafe dei carichi pendenti degli illeciti amministrativi
+## Titolo V - Anagrafe dei carichi pendenti degli illeciti amministrativi dipendenti da reato
 
-### dipendenti da reato
-
-##### ART. 12 (L) - Provvedimenti iscrivibili
+#### ART. 12 (L) - Provvedimenti iscrivibili
 
 1\. Nell'anagrafe dei carichi pendenti degli illeciti amministrativi dipendenti da reato si iscrivono per estratto:
 
@@ -197,37 +195,33 @@ b) ogni altro provvedimento giudiziario che decide sulla contestazione dell'ille
 
 (art. 110, c. 1, lett. c), d.lgs. n. 271/1989, e raccordo con gli artt. 36 e 59 d.lgs. n. 231/2001)
 
-##### ART. 13 (R) - Estratto del provvedimento iscrivibile
+#### ART. 13 (R) - Estratto del provvedimento iscrivibile
 
-##### ART. 14 (L) - Eliminazione delle iscrizioni
+#### ART. 14 (L) - Eliminazione delle iscrizioni
 
 1\. Le iscrizioni dell'anagrafe dei carichi pendenti delle sanzioni amministrative sono eliminate alla cessazione della qualita' di ente sottoposto al procedimento di accertamento relativo agli illeciti amministrativi dipendenti da reato.
 
 (art. 110, c. 1, lett. c), d.lgs. n. 27111989, raccordo tra l'art. 35 d.lgs. n. 231/2001 e l'art. 60, c. 2, c.p.p.)
 
-## Titolo VI - Ufficio iscrizione, ufficio territoriale, ufficio locale, ufficio
+## Titolo VI - Ufficio iscrizione, ufficio territoriale, ufficio locale, ufficio centrale
 
-### centrale
+#### ART. 15 (R) - Ufficio iscrizione
 
-##### ART. 15 (R) - Ufficio iscrizione
+#### ART. 16 (R) - Comunicazioni all'ufficio iscrizione
 
-##### ART. 16 (R) - Comunicazioni all'ufficio iscrizione
+#### ART. 17 (R) - Ufficio territoriale
 
-##### ART. 17 (R) - Ufficio territoriale
+#### ART. 18 (R) - Ufficio locale
 
-##### ART. 18 (R) - Ufficio locale
+#### ART. 19 (R) - Ufficio centrale
 
-##### ART. 19 (R) - Ufficio centrale
-
-##### ART. 20 (R) - Comunicazioni all'ufficio centrale
+#### ART. 20 (R) - Comunicazioni all'ufficio centrale
 
 ## TITOLO VII - Servizi certificativi
 
-### Capo I
+### Capo I - Servizi certificativi del casellario giudiziale e del casellario dei carichi pendenti
 
-#### Servizi certificativi del casellario giudiziale e del casellario dei - carichi pendenti
-
-##### ART. 21 (L) - Certificato del casellario giudiziale e del casellario dei carichi pendenti acquisito dall'autorita' giudiziaria
+#### ART. 21 (L) - Certificato del casellario giudiziale e del casellario dei carichi pendenti acquisito dall'autorita' giudiziaria
 
 1\. Per ragioni di giustizia, gli uffici che esercitano la giurisdizione penale e quelli del pubblico ministero acquisiscono dal sistema il certificato di tutte le iscrizioni esistenti riferite ad un determinato soggetto.
 
@@ -235,19 +229,19 @@ b) ogni altro provvedimento giudiziario che decide sulla contestazione dell'ille
 
 (art. 688 c.p.p.: c. 1, primo periodo, c. 2; art. 110, c. 1, lett. c), d.lgs. n. 271/1989)
 
-##### ART. 22 (L) - Certificato del casellario giudiziale e del casellario dei carichi pendenti richiesto dal difensore
+#### ART. 22 (L) - Certificato del casellario giudiziale e del casellario dei carichi pendenti richiesto dal difensore
 
 1\. Previa autorizzazione del giudice procedente, il difensore ha diritto di ottenere il certificato di tutte le iscrizioni esistenti riferite ad un determinato soggetto, avente la qualita' di persona offesa dal reato o di testimone, per le finalita' riconosciute dal codice di procedura penale.
 
 (art. 688 c.p.p., c. 2, secondo periodo; art. 110, c. 1, lett. c), d.lgs. n. 271/1989)
 
-##### ART. 23 (L) - Certificati del casellario giudiziale richiesti dall'interessato
+#### ART. 23 (L) - Certificati del casellario giudiziale richiesti dall'interessato
 
 1\. L'interessato ha il diritto di ottenere il certificato generale, il certificato penale, il certificato civile, di cui agli articoli 24, 25 e 26, senza motivare la richiesta.
 
 (art. 689 c.p.p.)
 
-##### ART. 24 (L)
+#### ART. 24 (L)
 
 (Certificato generale del casellario giudiziale richiesto
 
@@ -283,7 +277,7 @@ n) ai provvedimenti concernenti il fallimento, quando il fallito e' stato riabil
 
 (art. 689 c.p.p, 194, c. 2, att. c.p.p.; artt. 45 e 63, c. 2, d.lgs. n. 274/2000; art. 24, settimo comma, r.d.l. n. 1404/1934, convertito, con modificazioni, dalla l. n. 835/1935)
 
-##### ART. 25 (L)
+#### ART. 25 (L)
 
 (Certificato penale del casellario giudiziale richiesto
 
@@ -321,7 +315,7 @@ o) ai provvedimenti amministrativi di espulsione e ai provvedimenti giudiziari c
 
 (art. 689 c.p.p, 194, c. 2, att. c.p.p.; artt. 45 e 63, c. 2, d.lgs. n. 274/2000; art. 24, settimo comma, r.d.l. n. 1404/1934, convertito, con modificazioni, dalla l. n. 835/1935)
 
-##### ART. 26 (L)
+#### ART. 26 (L)
 
 (Certificato civile del casellario giudiziale richiesto
 
@@ -339,7 +333,7 @@ d) ai provvedimenti concernenti le pene accessorie portanti limitazioni alla cap
 
 (art. 689 c.p.p.)
 
-##### ART. 27 (L)
+#### ART. 27 (L)
 
 (Certificato del casellario dei carichi pendenti richiesto
 
@@ -363,13 +357,13 @@ f) ai provvedimenti giudiziari relativi ai reati di competenza del giudice di pa
 
 (estensione dell'art. 689, c. 1, e parte del c. 2, c.p.p.; art. 21 d.m. 6 aprile 2001, n. 204)
 
-##### ART. 28 (L) - Certificato richiesto dalle amministrazioni pubbliche e dai gestori di pubblici servizi
+#### ART. 28 (L) - Certificato richiesto dalle amministrazioni pubbliche e dai gestori di pubblici servizi
 
 1\. Le amministrazioni pubbliche e i gestori di pubblici servizi hanno diritto di ottenere i certificati di cui all'articolo 23 e all'articolo 27, relativo a persone maggiori di eta', quando tale certificato e' necessario per l'esercizio delle loro funzioni.
 
 (art. 688, c. 1, c.p.p., art. 14, c. 3, del d.P.R. n. 448/1988)
 
-##### ART. 29 (L) - Certificato del casellario giudiziale per ragioni di elettorato
+#### ART. 29 (L) - Certificato del casellario giudiziale per ragioni di elettorato
 
 1\. Il certificato per ragioni di elettorato contiene solo le iscrizioni esistenti nel casellario giudiziale che incidono sul diritto elettorale, ai sensi dell'articolo 2 del decreto del Presidente della Repubblica 20 marzo 1967, n. 223, e successive modificazioni.
 
@@ -377,11 +371,9 @@ f) ai provvedimenti giudiziari relativi ai reati di competenza del giudice di pa
 
 (art. 688, c. 3, c.p.p., art. 195 att. c.p.p.)
 
-## Capo II - Servizi certificativi dell'anagrafe delle sanzioni amministrative
+### Capo II - Servizi certificativi dell'anagrafe delle sanzioni amministrative dipendenti da reato e dell'anagrafe dei carichi pendenti degli illeciti amministrativi dipendenti da reato
 
-### dipendenti da reato e dell'anagrafe dei carichi pendenti degli - illeciti amministrativi dipendenti da reato
-
-##### ART. 30 (L)
+#### ART. 30 (L)
 
 (Certificato dell'anagrafe delle sanzioni amministrative dipendenti da reato e dell'anagrafe dei carichi pendenti degli illeciti
 
@@ -391,7 +383,7 @@ amministrativi dipendenti da reato acquisito dall'autorita' giudiziaria)
 
 (art. 81, c. 1, primo periodo, c. 2, d.lgs. n. 231/2001)
 
-##### ART. 31 (L)
+#### ART. 31 (L)
 
 (Certificato dell'anagrafe delle sanzioni amministrative dipendenti
 
@@ -403,23 +395,23 @@ da reato e dell'anagrafe dei carichi pendenti degli illeciti amministrativi dipe
 
 (art. 81. c. 3 e 4, d.lgs. n. 231/2001)
 
-##### ART. 32 (L) - Certificato richiesto dalle amministrazioni pubbliche e dai gestori di pubblici servizi
+#### ART. 32 (L) - Certificato richiesto dalle amministrazioni pubbliche e dai gestori di pubblici servizi
 
 1\. Le amministrazioni pubbliche e i gestori di pubblici servizi hanno diritto di ottenere i certificati di cui all'articolo 31, quando sono necessari per l'esercizio delle loro funzioni.
 
 (art. 81, c. 1, secondo periodo, d.lgs. n. 231/2001)
 
-## Capo III - Disposizioni comuni ai servizi certificativi
+### Capo III - Disposizioni comuni ai servizi certificativi
 
-##### ART. 33 (R) - Visura delle iscrizioni da parte della persona o dell'ente interessato
+#### ART. 33 (R) - Visura delle iscrizioni da parte della persona o dell'ente interessato
 
-##### ART. 34 (R) - Esclusione del codice identificativo dal certificato
+#### ART. 34 (R) - Esclusione del codice identificativo dal certificato
 
-##### ART. 35 (R) - Ufficio competente al rilascio del certificato
+#### ART. 35 (R) - Ufficio competente al rilascio del certificato
 
-##### ART. 36 (R) - Certificato di emergenza
+#### ART. 36 (R) - Certificato di emergenza
 
-##### ART. 37 (L) - Certificati richiesti da autorita' straniere
+#### ART. 37 (L) - Certificati richiesti da autorita' straniere
 
 1\. Le autorita' interessate di Stati dell'Unione europea possono richiedere i certificati, nei casi previsti dal presente testo unico, presso tutti gli uffici locali, i quali provvedono al rilascio.
 
@@ -427,13 +419,13 @@ da reato e dell'anagrafe dei carichi pendenti degli illeciti amministrativi dipe
 
 (art. 35, primo c. , r.d. n. 778/1931)
 
-##### ART. 38 (R) - Termine per il rilascio di certificato
+#### ART. 38 (R) - Termine per il rilascio di certificato
 
-##### ART. 39 (R) - Consultazione diretta del sistema e acquisizione di certificati dalle amministrazioni pubbliche e dai gestori di pubblici servizi
+#### ART. 39 (R) - Consultazione diretta del sistema e acquisizione di certificati dalle amministrazioni pubbliche e dai gestori di pubblici servizi
 
 ## TITOLO VIII - Garanzie giurisdizionali
 
-##### ART. 40 (L) - Questioni concernenti le iscrizioni e i certificati
+#### ART. 40 (L) - Questioni concernenti le iscrizioni e i certificati
 
 1\. Sulle questioni concernenti le iscrizioni e i certificati del casellario giudiziale e dei carichi pendenti decide, in composizione monocratica e con le forme stabilite dall'articolo 666 del codice di procedura penale, il tribunale del luogo dove ha sede l'ufficio locale nel cui ambito territoriale e' nata la persona cui e' riferita l'iscrizione o il certificato, o il Tribunale di Roma, per le persone nate all'estero, o delle quali non e' stato accertato il luogo di nascita nel territorio dello Stato.
 
@@ -443,37 +435,37 @@ da reato e dell'anagrafe dei carichi pendenti degli illeciti amministrativi dipe
 
 ## TITOLO IX - Sistema informativo
 
-##### ART. 41 (R) - Principi e funzioni
+#### ART. 41 (R) - Principi e funzioni
 
-##### ART. 42 (R) - Regole tecniche del sistema
+#### ART. 42 (R) - Regole tecniche del sistema
 
-##### ART. 43 (R) - Codice identificativo sulla base delle impronte digitali
+#### ART. 43 (R) - Codice identificativo sulla base delle impronte digitali
 
 ## Titolo X - Disposizioni transitorie
 
-##### ART. 44 (R) - Eliminazione di iscrizioni incompatibili
+#### ART. 44 (R) - Eliminazione di iscrizioni incompatibili
 
-##### ART. 45 (L) - Esclusione dai certificati ed eliminazione di iscrizioni per i reati di competenza del giudice di pace commessi prima del 2 gennaio 2002
+#### ART. 45 (L) - Esclusione dai certificati ed eliminazione di iscrizioni per i reati di competenza del giudice di pace commessi prima del 2 gennaio 2002
 
 1\. Le iscrizioni relative ai reati di cui all'articolo 4, commi 1 e 2, del decreto legislativo 28 agosto 2000, n. 274, commessi prima del 2 gennaio 2002, non sono riportate nei certificati di cui agli articoli 24, 25 e 27, e sono eliminate secondo le previsioni dell'articolo 5, comma 2, lettere e), g) ed h).
 
 (art. 63, c. 2, d.lgs. n. 274/2600 e raccordo con l'art. 64, c. 2, d.lgs. n. 274/2000, nella parte in cui rinvia all'art. 63, c. 2, stesso d.lgs.)
 
-##### ART. 46 (R) - Regole tecniche sino alla completa operativita' del sistema
+#### ART. 46 (R) - Regole tecniche sino alla completa operativita' del sistema
 
-##### ART. 47 (R) - Eliminazioni di iscrizioni per morte della persona effettuate dall'ufficio locale
+#### ART. 47 (R) - Eliminazioni di iscrizioni per morte della persona effettuate dall'ufficio locale
 
-##### ART. 48 (R) - Termine per il rilascio di certificato
+#### ART. 48 (R) - Termine per il rilascio di certificato
 
 ## Titolo XI - Disposizioni finali e abrogazioni
 
-##### ART. 49 (R) - Modifica dell'articolo 46, del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445
+#### ART. 49 (R) - Modifica dell'articolo 46, del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445
 
-##### ART. 50 (R) - Termine per l'emanazione dei decreti dirigenziali
+#### ART. 50 (R) - Termine per l'emanazione dei decreti dirigenziali
 
-##### ART. 51 (R) - Raccordo con norme esterne al testo unico
+#### ART. 51 (R) - Raccordo con norme esterne al testo unico
 
-##### ART. 52 (L) - Abrogazioni di norme primarie
+#### ART. 52 (L) - Abrogazioni di norme primarie
 
 1\. Dalla data di entrata in vigore del presente testo unico sono o restano abrogate le seguenti disposizioni:
 
@@ -507,7 +499,7 @@ da reato e dell'anagrafe dei carichi pendenti degli illeciti amministrativi dipe
 
 \- del decreto legislativo 8 giugno 2001, n. 231, gli articoli: 80, 81, 82 e 85, comma 1, lettera b).
 
-##### ART. 53 (L) - Abrogazioni parziali e riformulazioni conseguenti di norme
+#### ART. 53 (L) - Abrogazioni parziali e riformulazioni conseguenti di norme
 
 1\. Nell'articolo 110, comma 1, lettera c), del decreto legislativo 28 luglio 1989, n. 271, le parole: "delle iscrizioni relative ai procedimenti per i quali la persona ha assunto la qualita' di imputato" sono sostituite dalle seguenti: "del casellario dei carichi pendenti".
 
@@ -515,9 +507,9 @@ da reato e dell'anagrafe dei carichi pendenti degli illeciti amministrativi dipe
 
 3\. Nell'articolo 732, comma 1, del codice di procedura penale, le parole: "competente ai fini dell'iscrizione" sono sostituite dalle seguenti: "locale del luogo di nascita della persona cui e' riferito il provvedimento giudiziario straniero, o alla Corte di appello di Roma".
 
-##### ART. 54 (R) - Abrogazioni di norme secondarie
+#### ART. 54 (R) - Abrogazioni di norme secondarie
 
-##### ART. 55 (L) - Norma finale
+#### ART. 55 (L) - Norma finale
 
 1\. Le disposizioni del presente testo unico hanno effetto a decorrere dal quarantacinquesimo giorno a partire dalla data di pubblicazione nella Gazzetta Ufficiale.
 

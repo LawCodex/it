@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I
+## Capo I - Disposizioni generali
 
-### Disposizioni generali
-
-##### Art. 1
+#### Art. 1
 
 Oggetto e finalita'
 
@@ -82,7 +80,7 @@ Oggetto e finalita'
 
 > L'art. 117 della Costituzione dispone, tra l'altro, che la potesta' legislativa e' esercitata dallo Stato e dalle Regioni nel rispetto della Costituzione, nonche' dei vincoli derivanti dall'ordinamento comunitario e dagli obblighi internazionali.
 
-##### Art. 2
+#### Art. 2
 
 Definizioni
 
@@ -164,7 +162,7 @@ v) «Film Commission»: l'istituzione, riconosciuta da ciascuna regione o provin
 
 > 3\. L'autorita' giudiziaria o quella amministrativa competente puo' esigere, anche in via d'urgenza, che il prestatore, nell'esercizio delle attivita' di cui al comma 1, impedisca o ponga fine alle violazioni commesse.".
 
-##### Art. 3
+#### Art. 3
 
 Principi
 
@@ -186,7 +184,7 @@ g) promuove e favorisce la piu' ampia fruizione del cinema e dell'audiovisivo, t
 
 h) riserva particolare attenzione alla scrittura, progettazione, preparazione, produzione, post-produzione, promozione, distribuzione e programmazione dei prodotti cinematografici e audiovisivi italiani e alla valorizzazione del ruolo delle sale cinematografiche e dei festival cinematografici quali momenti di fruizione sociale collettiva del prodotto cinematografico.
 
-##### Art. 4
+#### Art. 4
 
 Funzioni e compiti delle regioni
 
@@ -204,7 +202,7 @@ Funzioni e compiti delle regioni
 
 7\. Le disposizioni della presente legge sono applicabili nelle regioni a statuto speciale e nelle province autonome di Trento e di Bolzano compatibilmente con le norme dei rispettivi statuti e le relative norme di attuazione, anche con riferimento alla legge costituzionale 18 ottobre 2001, n. 3.
 
-##### Art. 5
+#### Art. 5
 
 Nazionalita' italiana delle opere
 
@@ -232,7 +230,7 @@ f) post-produzione svolta principalmente in Italia.
 
 > 1\. In attuazione dell'articolo 6 della Costituzione e in armonia con i principi generali stabiliti dagli organismi europei e internazionali, la Repubblica tutela la lingua e la cultura delle popolazioni albanesi, catalane, germaniche, greche, slovene e croate e di quelle parlanti il francese, il franco-provenzale, il friulano, il ladino, l'occitano e il sardo.".
 
-##### Art. 6
+#### Art. 6
 
 Nazionalita' italiana delle opere
 
@@ -246,7 +244,7 @@ in coproduzione internazionale
 
 4\. Le procedure e i requisiti per il riconoscimento della nazionalita' italiana delle opere in coproduzione internazionale, nonche' i casi di revoca e decadenza, sono stabiliti con il decreto di cui all'articolo 5, comma 2.
 
-##### Art. 7
+#### Art. 7
 
 Tutela e fruizione del patrimonio cinematografico e audiovisivo.
 
@@ -272,7 +270,7 @@ d) i criteri di ripartizione dei proventi delle iniziative di cui al presente co
 
 6\. Con il decreto di cui al comma 5 sono stabilite altresi' le modalita' di costituzione, senza nuovi o maggiori oneri per la finanza pubblica, nell'ambito delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente, di una rete nazionale delle cineteche pubbliche, al fine di favorire la collaborazione e promuovere le attivita' destinate alla valorizzazione del patrimonio filmico e alla diffusione della cultura cinematografica. Il decreto definisce altresi' le modalita' e le condizioni di possibili adesioni alla rete da parte delle cineteche private, con particolare riferimento a quelle iscritte alla Federazione internazionale degli archivi del film.
 
-##### Art. 8
+#### Art. 8
 
 Valorizzazione delle sale cinematografiche
 
@@ -308,7 +306,7 @@ Valorizzazione delle sale cinematografiche
 
 > 4\. La Conferenza unificata di cui al comma 1 e' convocata dal Presidente del Consiglio dei Ministri. Le sedute sono presiedute dal Presidente del Consiglio dei Ministri o, su sua delega, dal Ministro per gli affari regionali o, se tale incarico non e' conferito, dal Ministro dell'interno.".
 
-##### Art. 9
+#### Art. 9
 
 Tutela delle minoranze linguistiche
 
@@ -320,11 +318,9 @@ Tutela delle minoranze linguistiche
 
 > Per il testo dell'articolo 2 della citata legge 15 dicembre 1999, n. 482, si veda nella nota all'art. 5.
 
-## Capo II
+## Capo II - Organizzazione
 
-### Organizzazione
-
-##### Art. 10
+#### Art. 10
 
 Funzioni statali
 
@@ -376,7 +372,7 @@ n) favorisce, in raccordo con il Ministero del lavoro e delle politiche sociali,
 
 > (Omissis).".
 
-##### Art. 11
+#### Art. 11
 
 Consiglio superiore del cinema e dell'audiovisivo
 
@@ -422,13 +418,11 @@ b) tre membri scelti dal Ministro nell'ambito di una rosa di nomi proposta dalle
 
 > Il decreto del Presidente della Repubblica 14 maggio 2007, n. 89 (Regolamento per il riordino degli organismi operanti presso il Ministero per i beni e le attivita' culturali, a norma dell'articolo 29 del D.L. 4 luglio 2006, n. 223, convertito, con modificazioni, dalla L. 4 agosto 2006, n. 248), e' pubblicato nella Gazzetta Ufficiale 10 luglio 2007, n. 158, S.O.
 
-## Capo III
+## Capo III - Finanziamento e fiscalita'
 
-### Finanziamento e fiscalita' - Sezione I
+### Sezione I - Finalita' e strumenti
 
-#### Finalita' e strumenti
-
-##### Art. 12
+#### Art. 12
 
 Obiettivi e tipologie di intervento
 
@@ -466,7 +460,7 @@ b) in considerazione anche delle risorse disponibili, l'esclusione, ovvero una d
 
 6\. A decorrere dalla data di entrata in vigore dei decreti di cui al comma 3, ((al fine di rafforzare la capacita' di monitoraggio, controllo e valutazione della spesa, secondo quanto previsto dal Piano strutturale di bilancio di medio termine 2025-2029,)) il Ministero predispone e trasmette alle Camere, entro il 30 settembre di ciascun anno, una relazione annuale sullo stato di attuazione degli interventi di cui alla presente legge, con particolare riferimento all'impatto economico, industriale e occupazionale e all'efficacia ((degli incentivi ivi previsti)), comprensiva di una valutazione delle politiche di sostegno del settore cinematografico e audiovisivo ((...)).
 
-##### Art. 13
+#### Art. 13
 
 Fondo per lo sviluppo degli investimenti nel cinema e nell'audiovisivo
 
@@ -486,7 +480,7 @@ Il decreto di cui al primo periodo stabilisce i criteri e le modalita' di attuaz
 
 6\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, su proposta del Ministro, con propri decreti, previa verifica della neutralita' sui saldi di finanza pubblica, variazioni compensative in termini di residui, competenza e cassa tra gli stanziamenti iscritti in bilancio ai sensi del presente capo negli stati di previsione del Ministero dei beni e delle attivita' culturali e del turismo e del Ministero dell'economia e delle finanze. Detti decreti sono trasmessi alle Commissioni parlamentari competenti.
 
-##### Art. 14
+#### Art. 14
 
 Requisiti di ammissione e casi di esclusione
 
@@ -534,11 +528,9 @@ h) programmi televisivi.
 
 > (Omissis).".
 
-## Sezione II
+### Sezione II - Incentivi fiscali
 
-### Incentivi fiscali
-
-##### Art. 15
+#### Art. 15
 
 Credito d'imposta per le imprese di produzione
 
@@ -552,7 +544,7 @@ b) per le opere audiovisive, ((l'aliquota massima del 40 per cento)) puo' essere
 
 3\. Per le altre tipologie di opere audiovisive, l'aliquota e' determinata tenendo conto delle risorse disponibili e nell'ottica del raggiungimento degli obiettivi previsti dall'articolo 12.
 
-##### Art. 16
+#### Art. 16
 
 Credito d'imposta per le imprese di distribuzione
 
@@ -564,7 +556,7 @@ Credito d'imposta per le imprese di distribuzione
 
 4\. Per le altre tipologie di opere e imprese, l'aliquota e' determinata tenendo conto delle risorse disponibili, delle tipologie di opere distribuite, della circostanza che l'impresa di distribuzione cinematografica o audiovisiva o di editoria audiovisiva sia o meno indipendente ovvero sia o meno italiana o europea e nell'ottica del raggiungimento degli obiettivi previsti dall'articolo 12.
 
-##### Art. 17
+#### Art. 17
 
 Credito d'imposta per le imprese dell'esercizio cinematografico, per le industrie tecniche e di post-produzione
 
@@ -580,7 +572,7 @@ AGGIORNAMENTO (9)
 
 Il D.L. 17 maggio 2022, n. 50, convertito con modificazioni dalla L. 15 luglio 2022, n. 91, ha disposto (con l'art. 23, comma 1-bis) che "Per le medesime finalita' di cui al comma 1, per gli anni 2022 e 2023, il credito d'imposta di cui all'articolo 17, comma 1, della legge 14 novembre 2016, n. 220, e' riconosciuto, in favore delle piccole e medie imprese, in misura non superiore al 60 per cento delle spese complessivamente sostenute per la realizzazione di nuove sale o il ripristino di sale inattive, per la ristrutturazione e l'adeguamento strutturale e tecnologico delle sale cinematografiche, per l'installazione, la ristrutturazione, il rinnovo di impianti, apparecchiature, arredi e servizi accessori delle sale".
 
-##### Art. 18
+#### Art. 18
 
 Credito d'imposta per il potenziamento dell'offerta cinematografica
 
@@ -596,13 +588,13 @@ AGGIORNAMENTO (9)
 
 Il D.L. 17 maggio 2022, n. 50, convertito con modificazioni dalla L. 15 luglio 2022, n. 91, ha disposto (con l'art. 23, comma 1) che "Al fine di favorire la ripresa delle attivita' e lo sviluppo delle sale cinematografiche, per gli anni 2022 e 2023, il credito di imposta di cui all'articolo 18 della legge 14 novembre 2016, n. 220, e' riconosciuto nella misura massima del 40 per cento dei costi di funzionamento delle sale cinematografiche, se esercite da grandi imprese, o del 60 per cento dei medesimi costi, se esercite da piccole o medie imprese, secondo le disposizioni stabilite con decreto adottato ai sensi dell'articolo 21, comma 5, della medesima legge n. 220 del 2016".
 
-##### Art. 19
+#### Art. 19
 
 Credito d'imposta per l'attrazione in Italia di investimenti cinematografici e audiovisivi
 
 1\. Alle imprese italiane di produzione esecutiva e di post-produzione e' riconosciuto un credito d'imposta, in relazione a opere cinematografiche e audiovisive o a parti di esse realizzate sul territorio nazionale, utilizzando manodopera italiana, su commissione di produzioni estere, in misura non inferiore al 25 per cento e non superiore al ((40 per cento)) della spesa sostenuta nel territorio nazionale.
 
-##### Art. 20
+#### Art. 20
 
 Credito d'imposta per le imprese non appartenenti al settore cinematografico e audiovisivo
 
@@ -610,7 +602,7 @@ Credito d'imposta per le imprese non appartenenti al settore cinematografico e a
 
 2\. Il decreto di cui all'articolo 21 disciplina le modalita', le condizioni e le ulteriori specificazioni con le quali il beneficio puo' essere riconosciuto ((, in particolare,)) per gli investimenti effettuati anche per il tramite di intermediari e veicoli finanziari sottoposti a vigilanza prudenziale, quali gli organismi di investimento collettivo del risparmio, di cui all'articolo 1, comma 1, del testo unico di cui al decreto legislativo 24 febbraio 1998, n. 58.
 
-##### Art. 21
+#### Art. 21
 
 Disposizioni comuni in materia di crediti d'imposta
 
@@ -634,7 +626,7 @@ Con riferimento alle previsioni di cui all'articolo 15, il credito d'imposta mas
 
 6\. Le risorse stanziate per il finanziamento dei crediti d'imposta previsti nella presente sezione, laddove inutilizzate e nell'importo definito con decreto del Ministro, di concerto con il Ministro dell'economia e delle finanze, sono destinate al rifinanziamento del Fondo per il cinema e l'audiovisivo. A tal fine si applicano le disposizioni di cui all'articolo 24, comma 1, della legge 12 novembre 2011, n. 183.
 
-##### Art. 22
+#### Art. 22
 
 Agevolazioni fiscali e finanziarie
 
@@ -660,11 +652,9 @@ Agevolazioni fiscali e finanziarie
 
 > 9\. La destinazione a sala cinematografica o comunque a sala di spettacolo dei locali di cui ai commi 7 e 8 deve risultare da atto d'obbligo trascritto e non puo' essere mutata, nel caso di cui al comma 7, per un periodo di venti anni e, nel caso di cui al comma 8, per un periodo di dieci anni.".
 
-## Sezione III
+### Sezione III - Contributi automatici
 
-### Contributi automatici
-
-##### Art. 23
+#### Art. 23
 
 Contributi automatici per lo sviluppo, la produzione e la distribuzione delle opere cinematografiche e audiovisive
 
@@ -672,7 +662,7 @@ Contributi automatici per lo sviluppo, la produzione e la distribuzione delle op
 
 2\. L'importo complessivo dei contributi automatici spettante a ciascuna impresa e' determinato sulla base di parametri oggettivi, relativi alle opere cinematografiche e audiovisive precedentemente prodotte ovvero distribuite dalla medesima impresa, individuati dall'articolo 24.
 
-##### Art. 24
+#### Art. 24
 
 Modalita' di erogazione del sostegno automatico
 
@@ -708,7 +698,7 @@ c) possono essere introdotti meccanismi premianti rispetto ai risultati ottenuti
 
 > 6\. Il contributo di cui al comma 1 e' revocato nei casi di violazione delle prescrizioni del decreto ministeriale di cui al comma 4. Il provvedimento di revoca comporta l'inammissibilita', per i successivi cinque anni, di ogni successiva istanza del medesimo soggetto finalizzata all'ottenimento di benefici a carico dello Stato.".
 
-##### Art. 25
+#### Art. 25
 
 Disposizioni di attuazione
 
@@ -728,11 +718,9 @@ d-bis) i requisiti e le modalita' di erogazione dei contributi di cui all'artico
 
 1-ter. Il decreto di cui al comma 1 puo' altresi' prevedere, a carico dei richiedenti, il versamento in conto entrate al bilancio dello Stato di un contributo per le spese istruttorie. Le somme derivanti dal presente comma sono riassegnate ad apposito capitolo dello stato di previsione del Ministero della cultura, di pertinenza della Direzione generale cinema e audiovisivo del medesimo Ministero)).
 
-## Sezione IV
+### Sezione IV - Contributi selettivi
 
-### Contributi selettivi
-
-##### Art. 26
+#### Art. 26
 
 Contributi selettivi
 
@@ -752,11 +740,9 @@ Con decreto del Ministro si provvede altresi' a disciplinare le modalita' di cos
 
 4-ter. Il decreto di cui al comma 4 puo' altresi' prevedere, a carico dei richiedenti, il versamento in conto entrate al bilancio dello Stato di un contributo per le spese istruttorie. Le somme derivanti dal presente comma sono riassegnate ad apposito capitolo dello stato di previsione del Ministero della cultura, di pertinenza della Direzione generale cinema e audiovisivo del medesimo Ministero.
 
-## Sezione V
+### Sezione V - Attivita' di promozione cinematografica e audiovisiva
 
-### Attivita' di promozione cinematografica e audiovisiva
-
-##### Art. 27
+#### Art. 27
 
 Contributi alle attivita' e alle iniziative di promozione cinematografica e audiovisiva
 
@@ -802,11 +788,9 @@ d) al sostegno delle attivita' del Museo nazionale del cinema Fondazione Maria A
 
 4-ter. Il decreto di cui al comma 4 puo' altresi' prevedere, a carico dei richiedenti, il versamento in conto entrate al bilancio dello Stato di un contributo per le spese istruttorie. Le somme derivanti dal presente comma sono riassegnate ad apposito capitolo dello stato di previsione del Ministero della cultura, di pertinenza della Direzione generale cinema e audiovisivo del medesimo Ministero.
 
-## Capo IV
+## Capo IV - Interventi straordinari e altre misure per il rilancio del settore
 
-### Interventi straordinari e altre misure per il rilancio del settore
-
-##### Art. 28
+#### Art. 28
 
 Piano per il potenziamento del circuito delle sale cinematografiche e polifunzionali
 
@@ -828,7 +812,7 @@ d) alla ristrutturazione e all'adeguamento strutturale e tecnologico delle sale;
 
 5\. Nel quadro delle iniziative per la riqualificazione urbana e la rigenerazione delle periferie e delle aree urbane degradate, e al fine di agevolare le azioni di cui al comma 1, le regioni e le province autonome di Trento e di Bolzano possono introdurre previsioni urbanistiche ed edilizie dirette, anche in deroga agli strumenti urbanistici, a favorire e incentivare il potenziamento e la ristrutturazione di sale cinematografiche e centri culturali multifunzionali, anche mediante interventi di demolizione e ricostruzione che prevedano il riconoscimento di una volumetria aggiuntiva rispetto a quella preesistente come misura premiale e le modifiche della sagoma necessarie per l'armonizzazione architettonica con gli organismi edilizi esistenti, in attuazione dei principi introdotti dall'articolo 5, commi 9 e seguenti, del decreto-legge 13 maggio 2011, n. 70, convertito, con modificazioni, dalla legge 12 luglio 2011, n. 106.
 
-##### Art. 29
+#### Art. 29
 
 Piano per la digitalizzazione del patrimonio cinematografico e audiovisivo
 
@@ -840,7 +824,7 @@ Piano per la digitalizzazione del patrimonio cinematografico e audiovisivo
 
 4\. Con decreto del Ministro della cultura, da emanare entro centoventi giorni dalla data di entrata in vigore della presente legge, acquisiti il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano e il parere del Consiglio superiore, sono definiti i requisiti soggettivi dei beneficiari, le modalita' per il riconoscimento e l'assegnazione dei contributi, i limiti massimi d'intensita' dei contributi stessi, nonche' le condizioni e i termini di utilizzo del materiale digitalizzato ai sensi del comma 3.
 
-##### Art. 30
+#### Art. 30
 
 Sezione speciale per l'audiovisivo del Fondo di garanzia per le piccole e medie imprese
 
@@ -864,7 +848,7 @@ Sezione speciale per l'audiovisivo del Fondo di garanzia per le piccole e medie 
 
 > (Omissis).".
 
-##### Art. 31
+#### Art. 31
 
 Misure dirette a favorire una migliore distribuzione
 
@@ -902,11 +886,9 @@ delle opere cinematografiche
 
 > Tale termine puo' essere prorogato nel corso dell'istruttoria per un periodo non superiore a trenta giorni, qualora le imprese non forniscano informazioni e dati a loro richiesti che siano nella loro disponibilita'.".
 
-## Capo V
+## Capo V - Riforma e razionalizzazione della normativa vigente
 
-### Riforma e razionalizzazione della normativa vigente
-
-##### Art. 32
+#### Art. 32
 
 Istituzione del Registro pubblico delle opere cinematografiche e audiovisive
 
@@ -936,7 +918,7 @@ b) al terzo comma, le parole: «In detti registri» sono sostituite dalle seguen
 
 c) al quinto comma, l'ultimo periodo e' soppresso.
 
-##### Art. 33
+#### Art. 33
 
 Delega al Governo per la riforma delle disposizioni legislative in materia di tutela dei minori nel settore cinematografico e audiovisivo
 
@@ -958,7 +940,7 @@ e) prevedere le abrogazioni e modificazioni della normativa vigente in contrasto
 
 > La legge 21 aprile 1962, n. 161 (Revisione dei film e dei lavori teatrali) e' pubblicata nella Gazzetta Ufficiale 28 aprile 1962, n. 109, S.O.
 
-##### Art. 34
+#### Art. 34
 
 Delega al Governo per la riforma della promozione delle opere europee e italiane da parte dei fornitori di servizi di media audiovisivi
 
@@ -978,7 +960,7 @@ e) provvedere alla riformulazione della definizione di «produttore indipendente
 
 f) prevedere un adeguato sistema di verifica, di controllo, di valutazione dell'efficacia e un appropriato sistema sanzionatorio.
 
-##### Art. 35
+#### Art. 35
 
 Delega al Governo per la riforma delle norme in materia di rapporti di lavoro nel settore cinematografico e audiovisivo
 
@@ -998,7 +980,7 @@ c) prevedere le opportune misure adeguate alle peculiari modalita' di organizzaz
 
 > La legge 10 dicembre 2014, n. 183 (Deleghe al Governo in materia di riforma degli ammortizzatori sociali, dei servizi per il lavoro e delle politiche attive, nonche' in materia di riordino della disciplina dei rapporti di lavoro e dell'attivita' ispettiva e di tutela e conciliazione delle esigenze di cura, di vita e di lavoro) e' pubblicata nella Gazzetta Ufficiale 15 dicembre 2014, n. 290, S.O.
 
-##### Art. 36
+#### Art. 36
 
 Procedura di adozione dei decreti legislativi
 
@@ -1008,11 +990,9 @@ Procedura di adozione dei decreti legislativi
 
 3\. I decreti legislativi dai quali derivano nuovi o maggiori oneri sono emanati solo successivamente o contestualmente all'entrata in vigore dei provvedimenti legislativi che stanzino le occorrenti risorse finanziarie. Ciascuno schema di decreto legislativo e' corredato di una relazione tecnica che da' conto della neutralita' finanziaria del medesimo decreto ovvero dei nuovi o maggiori oneri da esso derivanti e dei corrispondenti mezzi di copertura.
 
-## Capo VI
+## Capo VI - Controllo e sanzioni
 
-### Controllo e sanzioni
-
-##### Art. 37
+#### Art. 37
 
 Vigilanza e sanzioni
 
@@ -1022,11 +1002,9 @@ Vigilanza e sanzioni
 
 3\. Il Ministero provvede all'attuazione delle disposizioni di cui al presente articolo senza nuovi o maggiori oneri a carico della finanza pubblica e nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-## Capo VII
+## Capo VII - Disposizioni transitorie e finali
 
-### Disposizioni transitorie e finali
-
-##### Art. 38
+#### Art. 38
 
 Copertura finanziaria
 
@@ -1114,7 +1092,7 @@ d) quanto a euro 120.371.831 per l'anno 2017, mediante corrispondente riduzione 
 
 > 2\. Le leggi di delega comportanti oneri recano i mezzi di copertura necessari per l'adozione dei relativi decreti legislativi. Qualora, in sede di conferimento della delega, per la complessita' della materia trattata, non sia possibile procedere alla determinazione degli effetti finanziari derivanti dai decreti legislativi, la quantificazione degli stessi e' effettuata al momento dell'adozione dei singoli decreti legislativi. I decreti legislativi dai quali derivano nuovi o maggiori oneri sono emanati solo successivamente all'entrata in vigore dei provvedimenti legislativi che stanzino le occorrenti risorse finanziarie. A ciascuno schema di decreto legislativo e' allegata una relazione tecnica, predisposta ai sensi del comma 3, che da' conto della neutralita' finanziaria del medesimo decreto ovvero dei nuovi o maggiori oneri da esso derivanti e dei corrispondenti mezzi di copertura.".
 
-##### Art. 39
+#### Art. 39
 
 Abrogazioni
 
@@ -1140,7 +1118,7 @@ d) l'articolo 8 del decreto-legge 8 agosto 2013, n. 91, convertito, con modifica
 
 > Il decreto-legge 8 agosto 2013, n. 91 (Disposizioni urgenti per la tutela, la valorizzazione e il rilancio dei beni e delle attivita' culturali e del turismo, convertito con modificazioni dalla L. 7 ottobre 2013, n. 112), modificato dalla presente legge, e' pubblicato nella Gazzetta Ufficiale 9 agosto 2013, n. 186, S.O.
 
-##### Art. 40
+#### Art. 40
 
 Norme transitorie
 
@@ -1154,7 +1132,7 @@ Norme transitorie
 
 > Per i riferimenti all'art. 8 del decreto-legge 8 agosto 2013, n. 91, abrogato dalla presente legge, si veda la nota all'art. 39.
 
-##### Art. 41
+#### Art. 41
 
 Entrata in vigore
 

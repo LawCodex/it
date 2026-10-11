@@ -32,7 +32,7 @@ Noi abbiamo sanzionato e promulghiamo quanto segue:
 
 ## I. - Delle ((istituzioni pubbliche di assistenza e beneficenza)).
 
-### Art. 1
+## Art. 1
 
 Sono istituzioni di beneficenza soggette alla presente legge le opere pie ed ogni altro ente morale che abbia in tutto od in parte per fine: (3) (4)
 
@@ -68,7 +68,7 @@ AGGIORNAMENTO (11)
 
 La Corte Costituzionale con sentenza 24 marzo - 7 aprile 1988, n. 396 (in G.U. 1° s.s. 13/04/1988, n. 15) ha dichiarato "l'illegittimita' costituzionale dell'art. 1 della legge 17 luglio 1890, n. 6972 ("Norme sulle istituzioni pubbliche di assistenza e beneficenza") nella parte in cui non prevede che le IPAB regionali e infraregionali possano continuare a sussistere assumendo la personalita' giuridica di diritto privato, qualora abbiano tuttora i requisiti di un'istituzione privata".
 
-### Art. 2
+## Art. 2
 
 Non sono compresi nelle istituzioni di beneficenza soggette alla presente legge:
 
@@ -98,7 +98,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 3
+## Art. 3
 
 In ogni comune e' instituita una congregazione di carita' con le attribuzioni che le sono assegnate dalla presente legge.
 
@@ -106,7 +106,7 @@ Alla congregazione di carita' saranno devoluti i beni destinati ai poveri giusta
 
 ## II. - Degli amministratori delle ((istituzioni pubbliche di assistenza e beneficenza)).
 
-### Art. 4
+## Art. 4
 
 Le istituzioni pubbliche di assistenza e beneficenza sono amministrate dalla congregazione di carita' o dai corpi morali, consigli, direzioni od altre amministrazioni speciali istituite dalle tavole di fondazione o dagli statuti regolarmente approvati.(3)((4))
 
@@ -126,7 +126,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 5
+## Art. 5
 
 ((La Congregazione di carita' e' amministrata da un presidente assistito da un Comitato di patroni composto di 4 membri nei Comuni con popolazione non superiore ai 20,000 abitanti, di 6 nei Comuni con popolazione superiore a 20,000 e fino a 100,000 abitanti e di 8 nei Comuni con piu' di 100,000 abitanti.
 
@@ -156,7 +156,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 6
+## Art. 6
 
 IL REGIO DECRETO 30 DICEMBRE 1923, N. 2841 HA DISPOSTO (CON L'ART. 5) CHE IL PRESENTE ARTICOLO E' SOSTITUITO DALL'ATTUALE ART. 5 DELLA L. 17 LUGLIO 1890, N. 6972.
 
@@ -176,15 +176,15 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 7
+## Art. 7
 
 Spetta alla congregazione di carita' di curare gli interessi dei poveri del comune e di assumerne la rappresentanza legale, cosi' innanzi all'autorita' amministrativa, come dinanzi all'autorita' giudiziaria.
 
-### Art. 8
+## Art. 8
 
 La congregazione di carita' promuove i provvedimenti amministrativi e giudiziari di assistenza e di tutela degli orfani e minorenni abbandonati, dei ciechi e dei sordomuti poveri, assumendone provvisoriamente la cura nei casi di urgenza.
 
-### Art. 9
+## Art. 9
 
 La nomina e la rinnovazione degli amministratori di una istituzione pubblica di beneficenza, che non sia posta sotto l'amministrazione della congregazione di carita', si fanno a termini delle tavole di fondazione o dei rispettivi statuti.
 
@@ -206,11 +206,11 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 10
+## Art. 10
 
 I membri dalla congregazione di carita' e gli amministratori di ogni altra istituzione pubblica, che debbono essere eletti all'ufficio per un tempo determinato, non possono essere rieletti senza interruzione piu' d'una volta; salva, per le amministrazioni diverse dalla congregazione di carita', la esplicita disposizione in contrario degli statuti.
 
-### Art. 11
+## Art. 11
 
 Nonostante qualsiasi disposizione in contrario delle tavole di fondazione o degli statuti, non possono far parte della congregazione di carita' o dell'amministrazione d'ogni altra istituzione pubblica di beneficenza: (3) (4)
 
@@ -246,11 +246,11 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 12
+## Art. 12
 
 ((ARTICOLO ABROGATO DALLA L. 17 LUGLIO 1919, N. 1176))
 
-### Art. 13
+## Art. 13
 
 Incorre in una penalita' pecuniaria dalle 50 alle 1000 lire, salvo l'applicazione del codice penale, quando siavi reato:
 
@@ -260,13 +260,13 @@ Incorre in una penalita' pecuniaria dalle 50 alle 1000 lire, salvo l'applicazion
 
 Ma se consta che la persona colpita dall'incompatibilita' la denunzio' o ne propose il dubbio; ovvero se la esistenza dell'incompatibilita' fu oggetto di discussione o anche di mero esame per parte della congregazione, del collegio o consiglio di amministrazione che doveva deliberare intorno ad essa, non ha luogo l'applicazione della penalita', sebbene al seguito dei ricorsi, o per provvedimenti d'ufficio la incompatibilita' sia stata dalle autorita' superiori dichiarata esistente.
 
-### Art. 14
+## Art. 14
 
 Non possono appartenere contemporaneamente alla stessa amministrazione gli ascendenti e i discendenti, i fratelli, le sorelle, i coniugi, i suoceri e il genero o la nuora.
 
 Tuttavia, per le amministrazioni diverse dalle congregazioni di carita' sono mantenuti i particolari statuti che dispongano diversamente.
 
-### Art. 15
+## Art. 15
 
 Chi fa parte della congregazione di carita' o dell'amministrazione di ogni altra istituzione pubblica di beneficenza, non puo' intervenire a discussioni o deliberazioni, ne' puo' prender parte ad atti o provvedimenti concernenti interessi suoi o dei parenti od affini sino al quarto grado, o interessi di stabilimenti da lui amministrati, o di corpi morali di cui avesse una rappresentanza, o di persone con le quali fosse legato con vincolo di societa' in nome collettivo o in accomandita semplice o di associazione in partecipazione. (3) ((4))
 
@@ -288,11 +288,11 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 16
+## Art. 16
 
 La disposizione del capoverso dell'articolo precedente si applica anche a coloro che fanno parte dell'ufficio di prefettura, di sottoprefettura o di altra autorita' politica, ovvero della giunta provinciale amministrativa, ed al sindaco del comune.
 
-### Art. 17
+## Art. 17
 
 I contravventori agli art. 15 e 16 incorrono in una penalita' pecuniaria dalle 50 alle 1000 lire, nella decadenza dall'ufficio di componente la congregazione di carita' o di amministratore di altra istituzione di beneficenza e nell'obbligo del risarcimento dei danni; salve le maggiori pene quando siavi reato.
 
@@ -302,7 +302,7 @@ Ov'essa non faccia valere o non deduca la nullita', puo' farla valere o dedurla 
 
 ## III. - Dell'amministrazione e contabilità.
 
-### Art. 18
+## Art. 18
 
 Le amministrazioni delle istituzioni pubbliche di assistenza e beneficenza devono tenere in corrente un esatto inventario di tutti i beni mobili ed immobili, ed uno stato dei diritti, crediti, pesi ed obbligazioni coi titoli relativi.
 
@@ -322,11 +322,11 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 19
+## Art. 19
 
 Dell'inventario e delle successive aggiunte e variazioni e' data comunicazione al sindaco ed alla giunta provinciale amministrativa, nel termine e nelle forme stabilite dal regolamento.
 
-### Art. 20
+## Art. 20
 
 Le amministrazioni delle istituzioni pubbliche di assistenza e beneficenza di prima classe debbono formare ogni anno, nei limiti e nei modi fissati dal regolamento, il bilancio preventivo.
 
@@ -356,7 +356,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 21
+## Art. 21
 
 Le amministrazioni di tutte le istituzioni pubbliche di assistenza e beneficenza devono formare ogni anno, nei termini e nei modi stabiliti nel regolamento, il conto consuntivo corredato dal conto del tesoriere e da una relazione sul risultato morale della gestione.
 
@@ -396,7 +396,7 @@ AGGIORNAMENTO (10)
 
 La Corte Costituzionale con sentenza 17 maggio - 3 giugno 1966, n. 55 (in G.U. 1° s.s. 11/06/1966, n. 143) ha dichiarato "l'illegittimita' costituzionale: [...] b) delle seguenti disposizioni della legge 17 luglio 1890, n. 6972, sulle istituzioni pubbliche di assistenza e beneficenza: art. 21 (cosi' come sostituito dall'art. 1 del decreto-legge 20 febbraio 1927, n. 257), comma terzultimo - limitatamente alla parte in cui dispone che il conto "e' sottoposto al giudizio del Consiglio di prefettura, il quale deve decidere entro sei mesi, udite, ove lo richiedano, le parti interessate" -, nonche' comma penultimo e comma ultimo; art. 30 (cosi' come modificato dall'art. 3 del citato decreto-legge 20 febbraio 1927, n. 257), comma quinto".
 
-### Art. 22
+## Art. 22
 
 La riscossione delle entrate ed il servizio di tesoreria sono di regola affidati all'esattore comunale.
 
@@ -422,13 +422,13 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 23
+## Art. 23
 
 Le somme eccedenti i bisogni ordinari debbono essere depositate ad interesse presso le casse di risparmio pestali, ovvero presso altro istituto di credito o risparmio, designato dalla rappresentanza dell'istituto di beneficenza coll'approvazione della giunta provinciale amministrativa.
 
 Ai depositi nelle casse postali di risparmio non e' applicabile il disposto degli art. 4 e 6 della legge del 27 maggio 1875, n. 2779 (serie 3ª).
 
-### Art. 24
+## Art. 24
 
 Le entrate degli istituti pubblici di beneficenza si riscuotono secondo le norme vigenti per la riscossione delle entrate comunali.(3) ((4))
 
@@ -450,7 +450,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 25
+## Art. 25
 
 Le istituzioni pubbliche di assistenza e beneficenza sono ammesse di diritto al patrocinio gratuito quando concorra a loro favore la condizione preveduta dal n. 2 dell'art. 9 del regio decreto 6 dicembre 1865, n. 2627. E' derogato all'art. 1 dell'allegato D alla legge del 19 luglio 1880, n. 5536. (3) (4)
 
@@ -472,7 +472,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 26
+## Art. 26
 
 Le alienazioni, locazioni od altri simili contratti e gli appalti delle cose ed opere per un valore complessivo di oltre L. 3000, per le istituzioni di prima classe, e di oltre L. 1000, per le istituzioni di seconda classe, debbono essere fatti, sotto pena di nullita', all'asta pubblica, con le forme stabilite per i contratti e per le opere dello Stato. ((8))
 
@@ -506,7 +506,7 @@ AGGIORNAMENTO (8)
 
 La L. 26 aprile 1954, n. 251, nel modificare l'art. 10, comma 1 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 4, comma 1) che "I valori indicati nel primo comma dell'art. 10 del regio decreto 30 dicembre 1923, n. 2841, sono elevati, rispettivamente, a lire 2.500.000 e a lire 400.000".
 
-### Art. 27
+## Art. 27
 
 I beni immobili delle istituzioni pubbliche di assistenza e beneficenza devono di regola essere dati in affitto colle forme fissate dal regolamento. (3) ((4))
 
@@ -526,7 +526,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 28
+## Art. 28
 
 Le somme da investirsi debbono essere impiegate in titoli del debito pubblico dello Stato, o in altri titoli emessi o garantiti dallo Stato.
 
@@ -534,7 +534,7 @@ Ove i titoli non siano nominativi debbono essere depositati, se e come verra' de
 
 Le somme suddette possono tuttavia, con l'autorizzazione della giunta amministrativa, essere impiegate nel miglioramento del patrimonio esistente, nei casi nei quali sia evidente la maggiore utilita' di tale impiego.
 
-### Art. 29
+## Art. 29
 
 Quando gli amministratori e gl'impiegati di un'istituzione pubblica di assistenza e beneficenza, con dolo o colpa grave, ancorche' non vi siano gli estremi di reato, abbiano recato un danno economico all'istituzione, la Giunta provinciale amministrativa, d'ufficio o su richiesta dell'autorita' di vigilanza, procede in via amministrativa all'accertamento del danno, indicando quali persone ne appariscano responsabili e per quale ammontare.
 
@@ -558,7 +558,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 30
+## Art. 30
 
 Le cause di responsabilita' dipendenti dalla gestione amministrativa delle istituzioni pubbliche di assistenza e beneficenza sono di competenza dei tribunali ordinari. (3) (4)
 
@@ -596,7 +596,7 @@ AGGIORNAMENTO (10)
 
 La Corte Costituzionale con sentenza 17 maggio - 3 giugno 1966, n. 55 (in G.U. 1° s.s. 11/06/1966, n. 143) ha dichiarato "l'illegittimita' costituzionale: [...] b) delle seguenti disposizioni della legge 17 luglio 1890, n. 6972, sulle istituzioni pubbliche di assistenza e beneficenza: art. 21 (cosi' come sostituito dall'art. 1 del decreto-legge 20 febbraio 1927, n. 257), comma terzultimo - limitatamente alla parte in cui dispone che il conto "e' sottoposto al giudizio del Consiglio di prefettura, il quale deve decidere entro sei mesi, udite, ove lo richiedano, le parti interessate" -, nonche' comma penultimo e comma ultimo; art. 30 (cosi' come modificato dall'art. 3 del citato decreto-legge 20 febbraio 1927, n. 257), comma quinto".
 
-### Art. 31
+## Art. 31
 
 Le congregazioni di carita' e le istituzioni pubbliche di assistenza e beneficenza che, avuto riguardo alla specie ed alla rilevanza delle loro rendite ed alla specie della beneficenza nella quale vengono erogate, richiedano l'opera di un personale stipendiato, debbono stabilirne la pianta organica e fissarne con speciale regolamento i diritti e le attribuzioni. (3) (4)
 
@@ -622,7 +622,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 32
+## Art. 32
 
 Il Governo del Re curera' che alle istituzioni di beneficenza sieno applicate le disposizioni seguenti, ogni qualvolta la composizione dei loro consigli amministrativi e il loro ordinamento amministrativo ne comportino l'applicazione; salve le equivalenti o maggiori guarentigie che i particolari statuti abbiano stabilito:
 
@@ -650,7 +650,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 33
+## Art. 33
 
 All'applicazione delle disposizioni contenute nel precedente articolo il Governo del Re provvedera':
 
@@ -660,7 +660,7 @@ b) per le istituzioni i cui statuti sono ai termini della presente legge sottopo
 
 c) per tutte le altre istituzioni, nei medi e nei termini che saranno stabiliti nelle disposizioni transitorie per l'attuazione della presente legge.
 
-### Art. 34
+## Art. 34
 
 Le deliberazioni delle amministrazioni pubbliche di beneficenza per le quali e' richiesta l'approvazione della giunta provinciale amministrativa, e quelle concernenti la nomina, elezione e rielezione degli amministratori sono pubblicate per copia entro otto giorni dalla loro data, nelle forme delle deliberazioni dei consigli comunali.
 
@@ -668,7 +668,7 @@ Nello stesso termine deve esser rimessa all'autorita' politica del circondario u
 
 ## IV. - Della tutela.
 
-### Art. 35
+## Art. 35
 
 Le istituzioni pubbliche di assistenza e beneficenza sono poste sotto la tutela della giunta provinciale amministrativa.
 
@@ -688,7 +688,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 36
+## Art. 36
 
 Sono soggetti all'approvazione della Giunta provinciale amministrativa:
 
@@ -722,11 +722,11 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 37
+## Art. 37
 
 Qualora la giunta amministrativa non abbia, prima che incominci il nuovo esercizio, approvato in tutto o in parte il bilancio preventivo, sara' per la parte non approvata applicato l'ultimo preventivo che ottenne l'approvazione.
 
-### Art. 38
+## Art. 38
 
 IL REGIO DECRETO 30 DICEMBRE 1923, N. 2841 HA DISPOSTO (CON L'ART.
 
@@ -748,7 +748,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 39
+## Art. 39
 
 La Giunta provinciale amministrativa, in occasione dell'esame dei bilanci preventivi:
 
@@ -774,15 +774,15 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 40
+## Art. 40
 
 La giunta provinciale amministrativa, prima di deliberare intorno agli atti che sono soggetti ad approvazione, puo' ordinare, a spese della istituzione di beneficenza, quelle verifiche o perizie che creda necessarie al suo controllo.
 
-### Art. 41
+## Art. 41
 
 Un sommario delle deliberazioni della giunta provinciale amministrativa in materia di tutela deve essere pubblicato nel bollettino della prefettura.
 
-### Art. 42
+## Art. 42
 
 Contro i provvedimenti della Giunta provinciale amministrativa le rappresentanze delle istituzioni pubbliche di assistenza e beneficenza, i Prefetti, e chiunque altro vi abbia interesse, possono ricorrere, nel termine di quindici giorni, al Ministro dell'interno, il quale provvede definitivamente.
 
@@ -802,7 +802,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 43
+## Art. 43
 
 ARTICOLO ABROGATO DAL REGIO DECRETO 30 DICEMBRE 1923, N. 2841
 
@@ -824,17 +824,17 @@ Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 
 
 ## V. - Della vigilanza e ingerenza governativa.
 
-### Art. 44
+## Art. 44
 
 Al ministro dell'interno spetta l'alta sorveglianza sulla pubblica beneficenza. Esso invigila sul regolare andamento delle istituzioni, ne esamina le condizioni cosi' nei rapporti amministrativi come in relazione ai loro fini, e cura l'osservanza della presente legge, delle tavole di fondazione, degli statuti e dei regolamenti.
 
 ((In ogni provincia il prefetto incarica un consigliere di prefettura di vigilare sull'osservanza delle leggi in materia di pubblica assistenza e beneficenza)).
 
-### Art. 45
+## Art. 45
 
 Qualora la giunta provinciale amministrativa o le amministrazioni non ottemperino alla disposizione dell'art. 39, spetta al prefetto di fare al ministero dell'interno le proposte che credera' necessarie.
 
-### Art. 46
+## Art. 46
 
 Salva la facolta' di dare, a norma delle leggi, i provvedimenti richiesti da urgente necessita' per tutelare gli interessi degli istituti di assistenza e beneficenza, quando un'amministrazione, dopo di essere stata invitata, non si conformi alle norme di legge o agli statuti e regolamenti dell'istituzione, ovvero pregiudichi gli interessi della medesima, puo' essere sciolta con decreto del Prefetto, previo il parere del Consiglio di prefettura.
 
@@ -854,7 +854,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 47
+## Art. 47
 
 Se l'amministrazione disciolta e' la congregazione di carita', la gestione temporanea spetta di diritto alla giunta municipale; questa puo' farne delegazione ad uno o piu' dei suoi membri.
 
@@ -864,7 +864,7 @@ Ove si venga allo scioglimento della nuova congregazione per gli stessi motivi p
 
 L'indennita' del commissario e' a carico del comune, salvo rivalsa contro chi di ragione.
 
-### Art. 48
+## Art. 48
 
 Quando un'istituzione pubblica di assistenza, e beneficenza interessi piu' Provincie o piu' Comuni, puo', nei casi contemplati dall'art. 46, essere sciolta l'amministrazione e nominato un Commissario, che ne assume la gestione temporanea per non piu' di sei mesi, se l'istituzione interessi una sola provincia o Comuni di una sola Provincia; per non piu' di un anno, se interessi piu' Provincie o Comuni di diverse Provincie.
 
@@ -888,7 +888,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 49
+## Art. 49
 
 Trattandosi dello scioglimento di altra istituzione pubblica di beneficenza la gestione temporanea spetta di diritto alla congregazione di carita', sino a che non sia ricostituita l'amministrazione ordinaria. (3) ((4))
 
@@ -910,7 +910,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 50
+## Art. 50
 
 Il Sottoprefetto, di propria iniziativa o sulla domanda dell'autorita' comunale, puo' ordinare in ogni tempo inchieste sugli uffici e gli atti amministrativi delle istituzioni pubbliche di assistenza e beneficenza e la verifica dello stato di cassa dei tesorieri.(3)(4)
 
@@ -934,7 +934,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 51
+## Art. 51
 
 La fondazione di nuove istituzioni pubbliche di assistenza e beneficenza, con amministrazione propria, e' fatta con decreto Reale, previo parere del Consiglio di Stato.
 
@@ -960,7 +960,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 52
+## Art. 52
 
 Il Sottoprefetto puo' chiedere copia delle deliberazioni e dei provvedimenti delle istituzioni pubbliche 'di assistenza e beneficenza per le quali non sia richiesta l'approvazione tutoria.(3)((4))
 
@@ -990,7 +990,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 52-bis
+## Art. 52-bis
 
 Il Sottoprefetto deve curare il coordinamento delle varie forme di assistenza e beneficenza e dei vari modi di erogazione nei singoli Comuni e nell'intero Circondario.
 
@@ -1022,7 +1022,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 52-ter
+## Art. 52-ter
 
 Al Sottoprefetto e' commessa la protezione dell'infanzia abbandonata nel Circondario.
 
@@ -1058,7 +1058,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 53
+## Art. 53
 
 ARTICOLO ABROGATO DAL REGIO DECRETO 30 DICEMBRE 1923, N. 2841
 
@@ -1080,13 +1080,13 @@ Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 
 
 ## VI. - Delle riforme nell'amministrazione e delle mutazioni nel fine.
 
-### Art. 54
+## Art. 54
 
 Sono concentrate nella congregazione di carita' le istituzioni elemosiniere.
 
 Debbono pure essere amministrati dalla congregazione di carita' i fondi delle altre istituzioni che siano destinati ad elemosina, fatta eccezione per quelli che servano ad integrare o completare altra forma di beneficenza esercitata da istituzione non sottoposta a concentramento.
 
-### Art. 55
+## Art. 55
 
 Nell'occasione del concentramento preveduto nel precedente articolo, si procedera' alla revisione degli statuti e dei regolamenti delle istituzioni elemosiniere, nell'intento di coordinare l'erogazione delle rendite destinate ad elemosine, preferibilmente all'uno o all'altro degli scopi seguenti, che piu' si avvicini all'indole dell'istituzione ed all'intenzione del fondatore:
 
@@ -1104,7 +1104,7 @@ f) sussidi temporanei anche ad individui abili al lavoro, quando ne sia manifest
 
 g) concorso alla fondazione ed all'incremento di istituzioni di previdenza o di tutela in favore dei poveri.
 
-### Art. 56
+## Art. 56
 
 ((Nell'intento di rendere piu' semplice e piu' economica l'amministrazione, di facilitarne il controllo e di procurare che riescano piu' efficaci la assistenza e la beneficenza, puo' essere concentrata nelle Congregazioni di carita' qualsiasi istituzione di assistenza e di beneficenza esistente nel Comune, e particolarmente le istituzioni che non abbiano una rendita netta superiore a 20,000 lire o che siano a beneficio degli abitanti di uno o piu' Comuni, i quali, riuniti insieme, abbiano meno di 10,000 abitanti, e quelle di cui sia venuta a mancare o per le quali non si possano costituire l'Ammnistrazione e la rappresentanza per difetto di disposizioni nell'atto di fondazione.
 
@@ -1126,11 +1126,11 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 57
+## Art. 57
 
 ((LA LEGGE 17 GIUGNO 1926, N. 1187 HA DISPOSTO (CON L'ART. 6) CHE IL PRESENTE ARTICOLO E' SOSTITUITO DALL'ATTUALE ART. 56 DELLA L. 17 LUGLIO 1890, N. 6972)).
 
-### Art. 58
+## Art. 58
 
 ((Quando non avvenga il concentramento previsto dai precendenti articoli, le istituzioni pubbliche di assistenza e beneficenza possono essere riunite per gruppi, dipendenti da una o piu' Amministrazioni secondo l'affinita' degli scopi rispettivi.
 
@@ -1156,7 +1156,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 59
+## Art. 59
 
 IL REGIO DECRETO 30 DICEMBRE 1923, N. 2841 HA DISPOSTO (CON L'ART.
 
@@ -1178,13 +1178,13 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 60
+## Art. 60
 
 Possono essere eccettuate dal concentramento o dalla riunione in gruppi, ordinati negli art. 54 e seguenti, quelle istituzioni, anche elemosiniere, le quali, avuto riguardo alla rilevanza del loro patrimonio, all'indole loro o alle speciali condizioni nelle quali esercitano la beneficenza, richiedano una separata amministrazione.
 
 Ma, ove trattisi di istituzioni elemosiniere, rimane fermo l'obbligo di procedere alla revisione degli statuti e dei regolamenti, secondo le norme stabilite nell'art. 55.
 
-### Art. 61
+## Art. 61
 
 Le istituzioni pubbliche di assistenza e beneficenza concentrate nella congregazione di carita' o riunite in gruppi a norma dei precedenti articoli, mantengono separati i patrimoni e continuano ad erogare le rendite, in conformita' dei rispettivi statuti, a vantaggio degli abitanti delle provincie, dei comuni, o delle frazioni di comune a beneficio dei quali erano destinate; e di tale separazione e speciale erogazione deve risultare negli inventari, nei bilanci e nei conti. (3) ((4))
 
@@ -1206,7 +1206,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 61-a
+## Art. 61-a
 
 Piu' istituzioni pubbliche di assistenza e beneficenza, aventi scopi affini, possono riunirsi in consorzio, per erogare in comune la rispettiva beneficenza, anche mediante la fondazione di istituti di ricovero, ovvero per avere personale stipendiato e locali in comune.
 
@@ -1236,7 +1236,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 61-b
+## Art. 61-b
 
 Nello statuto, da approvarsi o stabilirsi, secondo i casi e secondo la competenza, dal Prefetto o dal Ministro dell'interno, devono essere determinati: lo scopo e la durata del consorzio, la costituzione e il funzionamento dell'amministrazione, il contributo di ciascun istituto consorziato, il modo e la misura di partecipazione dei poveri di ciascun comune all'erogazione della beneficenza.
 
@@ -1270,7 +1270,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 61-c
+## Art. 61-c
 
 Piu' istituzioni pubbliche e private di assistenza e beneficenza possono riunirsi in federazione, per il coordinamento e l'integrazione delle diverse forme della loro attivita', o per provvedere in comune ad acquisti o servizi non esclusa la gestione del patrimonio.
 
@@ -1310,7 +1310,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 62
+## Art. 62
 
 ((Le riforme degli statuti organici e delle Amministrazioni, le fusioni e le mutazioni del fine delle istituzioni pubbliche di assistenza e beneficenza possono essere proposte:
 
@@ -1354,23 +1354,23 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 63
+## Art. 63
 
 Quando le amministrazioni interessate o la congregazione di carita', ovvero il consiglio comunale o il provinciale non prendano l'iniziativa delle proposte di riforma, o non si conformino alle prescrizioni concernenti la revisione degli statuti, in ordine agli articoli precedenti, ovvero la giunta provinciale amministrativa indugi ad emettere il suo parere, e' dal prefetto fissato a ciascuno di questi corpi un termine da uno a tre mesi.
 
 Trascorso inutilmente anche questo termine, in seguito a relazione del prefetto e sentito il consiglio di Stato, sara' provveduto con decreto reale.
 
-### Art. 64
+## Art. 64
 
 Fatta eccezione per i sussidi dati per favorire l'educazione e l'istruzione, o l'avviamento a qualche professione, arte o mestiere, e' vietato alla congregazione di carita' accordare, sui fondi propri o delle istituzioni poste sotto la sua amministrazione, pensioni vitalizie od assegni continuativi o largizioni periodiche a persone non invalide.
 
 Ogni sussidio o soccorso, sotto qualunque forma prestato, deve risultare da uno stato nominativo.
 
-### Art. 65
+## Art. 65
 
 Di ogni altra riforma negli organici o nella amministrazione, non compresa negli articoli 54, 55, 56, 57, 58, 59, 60, spetta la iniziativa all'amministrazione, al consiglio comunale o al consiglio provinciale secondo le distinzioni dell'art. 62.
 
-### Art. 66
+## Art. 66
 
 Quando i consigli comunali o provinciali, o le amministrazioni delle istituzioni pubbliche di assistenza e beneficenza trascurino di iniziare le riforme di cui all'articolo precedente, le proposte possono essere fatte dal prefetto.
 
@@ -1390,11 +1390,11 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 67
+## Art. 67
 
 Anche sopra le proposte di riforma indicate nei due precedenti articoli, sara' provveduto con decreto reale, sentiti la giunta provinciale amministrativa e il consiglio di Stato.
 
-### Art. 68
+## Art. 68
 
 Tutte le proposte di riforma delle istituzioni pubbliche di assistenza e beneficenza, formulate dalle amministrazioni e dai Consigli di cui all'art. 62, debbono essere pubblicate a norma dell'art. 34, e quando interessino gli abitanti dell'intera Provincia o di piu' Comuni, inserite anche nel Foglio degli annunzi legali della Provincia; ovvero nella Gazzetta Ufficiale del Regno, quando interessino piu' provincie, o comuni di provincie diverse, o l'intera Nazione.
 
@@ -1418,7 +1418,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 69
+## Art. 69
 
 IL REGIO DECRETO 30 DICEMBRE 1923, N. 2841 HA DISPOSTO (CON L'ART.
 
@@ -1440,7 +1440,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 70
+## Art. 70
 
 Le istituzioni contemplate dalla presente legge, alle quali sia venuto a mancare il fine, o che per il fine loro piu' non corrispondono ad un interesse della pubblica beneficenza, o che siano diventate superflue perche' siasi al fine medesimo in altro modo pienamente e stabilmente provveduto, sono soggette a trasformazione.
 
@@ -1448,7 +1448,7 @@ La trasformazione deve esser fatta in modo che, allontanandosi il meno possibile
 
 Quando sieno trasformate in istituzioni elemosiniere, si osserveranno le norme stabilite nell'art. 55.
 
-### Art. 71
+## Art. 71
 
 Per siffatte trasformazioni si seguono le norme stabilite negli art. 62, 63, 68 e 69.
 
@@ -1456,11 +1456,11 @@ In caso di omissione o d'indugio a proporre o a deliberare, provvedera' il prefe
 
 ## VII. - Del domicilio di soccorso.
 
-### Art. 72
+## Art. 72
 
 ((ARTICOLO ABROGATO DALLA L. 8 NOVEMBRE 2000, N. 328))
 
-### Art. 73
+## Art. 73
 
 I figli legittimi o riconosciuti, minori di quattordici anni, seguono il domicilio di soccorso dell'esercente la patria podesta'.
 
@@ -1482,17 +1482,17 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 74
+## Art. 74
 
 Non e' considerato produrre interruzione della dimora in un comune il tempo trascorso altrove sotto le armi od in stabilimenti di cura; ne' vale a far acquistare il domicilio di soccorso in un comune il tempo ivi trascorso sotto le armi, o in stabilimenti di cura, o in stabilimenti di beneficenza pubblica a carico della medesima, ovvero in stabilimenti di pena od in case di correzione.
 
-### Art. 75
+## Art. 75
 
 Le norme stabilite nei precedenti articoli si applicano in tutti i casi nei quali i comuni, le provincie ed altri istituti locali sieno obbligati a rimborsare spese di soccorso, di assistenza e di spedalita'.
 
 Fatta eccezione per le istituzioni che provvedano a beneficenza obbligatoria per legge, rimangono pero' salve le disposizioni dei particolari statuti che regolano in modo diverso il domicilio di soccorso.
 
-### Art. 76
+## Art. 76
 
 Le congregazioni di carita' e le altre istituzioni pubbliche di assistenza e beneficenza, se dispongano dei mezzi necessari, non possono rifiutare soccorsi urgenti, sotto pretesto che il povero non appartenga al comune, ai termini degli articoli precedenti.
 
@@ -1512,13 +1512,13 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 77
+## Art. 77
 
 Per la cura degli stranieri gli ospitali hanno diritto al rimborso dal Governo nazionale, il quale, per la rivalsa verso i Governi esteri, provvede secondo le convenzioni internazionali.
 
 ## VIII. - Disposizioni generali.
 
-### Art. 78
+## Art. 78
 
 Le istituzioni contemplate dalla presente legge esercitano la beneficenza verso coloro che vi hanno titolo, senza distinzione di culto religioso o di opinioni politiche.
 
@@ -1546,7 +1546,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 78-a
+## Art. 78-a
 
 Ogni ospedale, secondo la propria competenza nosologica e nei limiti dei mezzi disponibili, ha obbligo di provvedere, sotto l'osservanza delle condizioni stabilite nell'articolo seguente, all'assistenza e alla cura dei poveri affetti da malattie acute, dei feriti e delle donne nell'imminenza del parto, ancorche' si tratti di persone che, secondo le relative norme statutarie, non abbiano titolo al ricovero gratuito nell'istituto: salvo in questo caso il diritto al rimborso delle spese di degenza verso il Comune al quale la persona ricoverata appartenga per domicilio di soccorso ((o l'istituto mutualistico o assicurativo di diritto pubblico dal quale l'infermo risulti aver titolo all'assistenza)).
 
@@ -1570,7 +1570,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 78-b
+## Art. 78-b
 
 L'ammissione in un ospedale, qualora non sia richiesta a pagamento, non puo' effettuarsi, se dal richiedente non siano dimostrate la condizione di poverta' e la necessita' del ricovero, in dipendenza dell'impossibilita' della cura o dell'assistenza ostetrica a domicilio, o negli ambulatori o dispensari.
 
@@ -1604,7 +1604,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 78-c
+## Art. 78-c
 
 L'amministrazione di ciascun ospedale deve annualmente determinare, con le norme stabilite dal regolamento, la retta giornaliera per l'assistenza e la cura dei poveri, con apposita deliberazione da sottoporre all'approvazione del Prefetto.
 
@@ -1624,7 +1624,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 78-d
+## Art. 78-d
 
 I Comuni tenuti, in base alle disposizioni dell'art. 78-a, al rimborso di spese di spedalita', possono rivalersi, esclusivamente a tale scopo, nei limiti dei loro oneri e nel seguente ordine di precedenza:
 
@@ -1652,7 +1652,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 79
+## Art. 79
 
 Quando gli ospedali od altri istituti aventi in tutto od in parte per fine il ricovero o la cura di malati o feriti, ricusino di prestare soccorsi richiesti d'urgenza, le parti interessate o l'ufficiale sanitario potranno rivolgersi al sindaco. Questi, verificata l'urgenza, assunte sommarie informazioni sopra le cause del rifiuto, dara' per iscritto i provvedimenti che giudichi opportuni, e che saranno immediatamente eseguiti con riserva di ogni provvedimento definitivo, e di ogni altra ragione delle parti interessate.
 
@@ -1660,7 +1660,7 @@ Eguale facolta' puo' esercitare l'autorita' politica; direttamente o in seguito 
 
 Le disposizioni del presente articolo sono applicabili anche al caso in cui gli ospedali, ospizi, od altri istituti di ricovero ricusino di accogliere una donna che sia priva di abitazione e nell'imminenza del parto.
 
-### Art. 80
+## Art. 80
 
 ((Le controversie fra Province, Comuni, istituti mutualistici ed assicurativi di diritto pubblico, consorzi provinciali antitubercolari ed istituzioni pubbliche di assistenza e beneficenza per il rimborso di spese di spedalita', di soccorso e di assistenza rese obbligatorie da particolari disposizioni di legge o di statuti, comprese quelle relative al mantenimento degli inabili al lavoro a norma del regio decreto-legge 19 novembre 1889, n. 6535, sono decise in via amministrativa dal prefetto della Provincia in cui ha sede l'istituzione che ha effettuato il ricovero su parere conforme di una Commissione composta dal consigliere di prefettura incaricato della vigilanza sul servizio delle opere pie, dal medico provinciale e dal direttore dell'Ufficio provinciale del lavoro.
 
@@ -1686,7 +1686,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 81
+## Art. 81
 
 Contro i provvedimenti definitivi emanati dal Governo, le rappresentanze degli istituti pubblici di beneficenza, o i componenti di esse, quando siano disciolte, o coloro che, mediante contribuzioni volontarie, concorrono a mantenerle, o chiunque altro vi abbia interesse, ove non abbiano presentato ricorso al Re in sede amministrativa, possono produrre ricorso alla quarta sezione del consiglio di Stato per incompetenza, eccesso di potere o violazione di legge ai termini dell'art. 24 della legge del 2 giugno 1889.(3)((4))
 
@@ -1712,7 +1712,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 82
+## Art. 82
 
 Salve le disposizioni dell'allegato E alla legge 20 marzo 1865, n. 2248, e delle altre leggi che regolino la competenza amministrativa e giudiziaria, ogni cittadino che appartenga, anche ai termini del capo VII della presente legge, alla provincia, al comune o alla frazione di esso, a cui la beneficenza si estende, puo' esercitare l'azione giudiziale nell'interesse dell'istituzione o dei poveri a cui beneficio e' destinata:
 
@@ -1726,7 +1726,7 @@ b) contro i rappresentanti e amministratori della istituzione, per far valere gl
 
 3° Per la costituzione di parte civile in giudizio penale, e per il conseguimento delle indennita' di ragione.
 
-### Art. 83
+## Art. 83
 
 L'azione popolare deve, qualunque sia il giudice competente, esser fatta valere col ministero di procuratore, ed essere sempre spiegata in contraddittorio del prefetto e della legittima rappresentanza dell'ente a cui si riferisca, e non puo' essere introdotta se non per le materie che abbiano fatto oggetto di ricorso notificato al prefetto 30 giorni innanzi.
 
@@ -1738,7 +1738,7 @@ L'ammissione al gratuito patrocinio non dispensa dal deposito.
 
 Non sono necessari ne' il ricorso ne' il deposito per le materie di cui al n. 1, e basta il solo deposito per le materie di cui al n. 3 della lettera b dell'articolo precedente.
 
-### Art. 84
+## Art. 84
 
 Il notaio, col cui intervento si aprano o si depositino testamenti, ne' quali in modo diretto od indiretto si fondino istituti aventi carattere di pubblica beneficenza, o si contengano disposizioni concernenti le fondazioni di cui alla lettera b dell'art. 2 della presente legge, o col cui intervento si stipulino atti tra vivi, concernenti simili fondazioni e disposizioni, e' obbligato, nei trenta giorni dall'apertura o stipulazione, a farne denunzia al sindaco.
 
@@ -1752,7 +1752,7 @@ L'intendente ne deve dare ogni mese comunicazione al prefetto.
 
 La congregazione di carita' appena abbia ricevuto la denuncia delle donazioni o dei lasciti aventi per iscopo la pubblica beneficenza, deve fare gli atti conservatorii occorrenti e promuovere, ove ne sia il caso, il riconoscimento legale dell'ente.
 
-### Art. 85
+## Art. 85
 
 Salve le pene stabilite dal codice penale contro i pubblici ufficiali per violazione dei doveri d'ufficio, e salve le pene stabilite dal codice stesso contro chiunque altro per fatti costituenti reato, e' punito con multa dalle 100 alla 1000 lire:
 
@@ -1776,7 +1776,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 86
+## Art. 86
 
 Coloro che ai termini degli articoli 17, 78 e 85 della presente legge siano incorsi nella decadenza dall'ufficio, non potranno per il termine di tre anni esser nominati amministratori di istituzioni di pubblica beneficenza.
 
@@ -1798,7 +1798,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 87
+## Art. 87
 
 Le disposizioni del capo VI della presente legge sono applicabili anche alle opere pie o legati di beneficenza amministrati dal demanio o dal fondo pel culto come possessori di beni provenienti dalle soppresse corporazioni religiose o da enti ecclesiastici soppressi, sia che le corporazioni e gli enti soppressi fossero eredi di pii fondatori, ovvero soltanto di fidecommissari fiduciari.
 
@@ -1806,7 +1806,7 @@ Sono pure applicabili alle opere pie o legati di beneficenza amministrati dagli 
 
 All'esecuzione delle disposizioni medesime provvede il ministro dell'interno a norma dell'art. 67 di concerto col ministro competente, sentiti i consigli comunali e provinciali, secondo le distinzioni dell'articolo 62, la giunta provinciale amministrativa e il consiglio di Stato.
 
-### Art. 88
+## Art. 88
 
 L'applicazione delle penalita' sancite negli articoli 13, 17, 78, 84, e 89 della presente legge e' di competenza del tribunale civile, in camera di consiglio, ad istanza del pubblico ministero.
 
@@ -1814,7 +1814,7 @@ Sul ricorso del condannato o del pubblico ministero provvede la sezione civile d
 
 ## IX. - Disposizioni finali e transitorie.
 
-### Art. 89
+## Art. 89
 
 Gli amministratori e rappresentanti delle istituzioni di beneficenza soggette a concentramento o a raggruppamento ai termini del capo VI della presente legge e di quelle prevedute nei seguenti articoli 90 e 93, debbono farne la denunzia alla congregazione di carita' nel termine di 50 giorni dalla pubblicazione della presente legge.
 
@@ -1822,7 +1822,7 @@ Il contravventore a questa disposizione soggiace ad una penalita' pecuniaria da 
 
 Le disposizioni di questo articolo non sono applicabili alle istituzioni di beneficenza ed ai lasciti, legati od opere pie di culto amministrati dal demanio, dal fondo pel culto o dagli economati generali dei beneficii vacanti, pei quali dovra' provvedersi d'ufficio entro un anno dalla pubblicazione della legge.
 
-### Art. 90
+## Art. 90
 
 Sono soggetti a trasformazione a norma dell'art. 70:
 
@@ -1832,7 +1832,7 @@ Sono soggetti a trasformazione a norma dell'art. 70:
 
 3\. Gli ospizi dei catecumeni, in quanto abbiano conservato l'originaria destinazione.
 
-### Art. 91
+## Art. 91
 
 Ferme stanti le vigenti leggi relative agli enti ecclesiastici conservati e alle loro dotazioni, e mantenute le soppressioni e devoluzioni dalle leggi stesse ordinate, sono equiparati alle istituzioni pubbliche di assistenza e beneficenza, e soggetti a trasformazione, secondo le norme stabilite nell'art. 70: (3) ((4))
 
@@ -1860,7 +1860,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 92
+## Art. 92
 
 La dichiarazione di applicabilita' dell'art. 70 alle istituzioni di cui ai nn. 1, 2, 3 dell'art. 90, e' fatta per decreto ministeriale, che affidera' pure la temporanea gestione del patrimonio, con obbligo di accumularne le rendite, alla congregazione di carita' locale; ed ove siano interessati piu' comuni o l'intera provincia, alla congregazione di carita' del luogo nel quale attualmente l'istituzione ha sede.
 
@@ -1890,7 +1890,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 93
+## Art. 93
 
 E' fatta obbligatoria la revisione degli statuti e dei regolamenti:
 
@@ -1920,7 +1920,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 94
+## Art. 94
 
 E' pure obbligatoria la revisione degli statuti o regolamenti delle istituzioni fondate a beneficio di appartenenti a provincie o comuni diversi dal comune ove ha sede la istituzione, e debbono osservarsi le seguenti norme:
 
@@ -1932,7 +1932,7 @@ c) Operata che sia ai termini della presente legge la trasformazione dei lasciti
 
 L'applicazione delle disposizioni del presente articolo ha luogo nei termini, nei modi e per gli effetti preveduti nell'articolo precedente.
 
-### Art. 95
+## Art. 95
 
 Le istituzioni pubbliche di assistenza e beneficenza mancanti di statuto, di regolamento interno di amministrazione, dell'inventario o degli altri atti obbligatori, devono uniformarsi alle disposizioni della presente legge nel termine di un anno.
 
@@ -1952,7 +1952,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 96
+## Art. 96
 
 Le istituzioni pubbliche di assistenza e beneficenza debbono procedere, entro un quinquennio dalla pubblicazione della presente legge, a norma dei titoli o delle leggi vigenti, alla affrancazione dei legati, censi, livelli, oneri ed altre prestazioni perpetue d'ogni natura dalle quali fossero gravate con obbligazione civile debitamente accertata. (3) ((4))
 
@@ -1974,7 +1974,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 97
+## Art. 97
 
 Nelle provincie dove per legge o consuetudine sussista l'obbligo di rimborsare agli spedali la spesa dei rispettivi malati poveri, continua provvisoriamente tale obbligo, ma debbono applicarsi le norme di cui al capo VII della presente legge per determinare la pertinenza di un malato ad un comune.
 
@@ -2000,7 +2000,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 98
+## Art. 98
 
 Nelle citta' che sono sedi di facolta' medico-chirurgiche, gli ospedali sono tenuti a fornire il locale ed a lasciare a disposizione i malati ed i cadaveri occorrenti per i diversi insegnamenti.
 
@@ -2010,11 +2010,11 @@ In caso di disaccordo cosi' circa l'estensione dell'obbligo degli ospedali, come
 
 Gli arbitri decideranno come amichevoli compositori, e la loro sentenza sara' inappellabile, osservate le forme e per gli effetti preveduti dal codice di procedura civile.
 
-### Art. 99
+## Art. 99
 
 Entro il termine di cui nell'art. 97, il Governo del Re proporra' al Parlamento gli opportuni provvedimenti circa i ratizzi che furono imposti alle opere pie delle provincie meridionali per sussidi agli stabilimenti d'interesse provinciale, circondariale e consortile, o per provvedere alle pensioni degli impiegati dei cessati consigli degli ospizi.
 
-### Art. 100
+## Art. 100
 
 Con l'anno 1893 cesseranno in Sicilia gli effetti del decreto dittatoriale del 9 giugno 1860 e della legge del 2 aprile 1865, n. 2226, in quanto concernano i lasciti esclusivamente destinati alla pubblica beneficenza.
 
@@ -2026,13 +2026,13 @@ Per detti istituti il termine dello svincolo decorrera' dall'anno in cui avranno
 
 Sono condonati i crediti del tesoro dipendenti da interessi sulle somme anticipate e da anticipare in favore dei danneggiati dalle truppe borboniche in Sicilia nel 1860, non che gli altri crediti dipendenti da spese di amministrazione sostenute o da sostenere per la relativa azienda; restando derogato per tal parte a cio' che dispone l'anzidetta legge del 2 aprile 1865.
 
-### Art. 101
+## Art. 101
 
 I buoni a favore dei danneggiati di cui e' parola nel regio decreto del 21 agosto 1862, n. 853, saranno ammortizzati in 90 anni, in parti eguali, a cominciare dal 1895, con acquisti al corso, se al disotto della pari, o mediante estrazione a sorte.
 
 Ai buoni medesimi sono estese le disposizioni della legge dell'8 marzo 1874, n. 1834, per la conversione dei debiti pubblici redimibili dello Stato; purche' pero' l'importo della rendita 5 per cento da darsi in cambio non superi il 90 per cento di quella dei buoni da ritirarsi.
 
-### Art. 102
+## Art. 102
 
 Ogni anno il ministro dell'interno deve presentare al Senato ed alla Camera dei deputati una relazione intorno ai provvedimenti di concentramento, raggruppamento e trasformazione delle istituzioni pubbliche di assistenza e beneficenza, e di revisione dei relativi statuti e regolamenti emanati nell'anno precedente. (3) ((4))
 
@@ -2052,7 +2052,7 @@ AGGIORNAMENTO (4)
 
 Il Decreto 11 febbraio 1924 (in G.U. 19/02/19, n. 42), nel modificare l'art. 44 del Regio Decreto 30 dicembre 1923, n. 2841, ha conseguentemente disposto (con l'art. 1, comma 1) che "E' data esecuzione, a decorrere dal 1° marzo 1924, alle disposizioni contenute negli articoli 1, 3, 4, 5, 6, 9, 11, 12, 13, 14, 15, 16, 17, 18 (ultimo comma), 19, 20, 21, 22, 23, 25, 28, 29, 30, 31, 32, 33, 34, 39, 40, 41, 43, 44 del predetto R. decreto 30 dicembre 1923, n. 2841, fatta eccezione per quelle di cui nei due ultimi capoversi dell'art. 5, alle lettere c) e d) dell'art. 19, negli ultimi dieci capoversi dell'art. 30 e nel penultimo comma dell'art. 31".
 
-### Art. 103
+## Art. 103
 
 E' derogato ad ogni disposizione di legge contraria alla presente.
 
@@ -2060,7 +2060,7 @@ Le private disposizioni e convenzioni le quali vietino alle pubbliche autorita' 
 
 Questa disposizione si applica anche ai divieti ed alle clausole di nullita', rescissione, decadenza o riversibilita' dirette ad impedire le riforme amministrative, la mutazione del fine ed i raggruppamenti preveduti nel capo VI della presente legge.
 
-### Art. 104
+## Art. 104
 
 Ferma stante la disposizione dell'art. 89, la presente legge andra' in vigore nei termini che saranno stabiliti per mezzo di decreti reali, ma dovra' entrare totalmente in vigore nei sei mesi dalla sua promulgazione.
 

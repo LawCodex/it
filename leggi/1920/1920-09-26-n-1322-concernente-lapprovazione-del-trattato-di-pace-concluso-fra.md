@@ -855,7 +855,7 @@ I processi verbali definitivi di delimitazione, le carte ed i documenti annessi 
 
 ## PARTE III. - Clausole politiche europee.
 
-### SEZIONE I. - Italia.
+#### SEZIONE I. - Italia.
 
 ##### Art. 36
 
@@ -919,7 +919,7 @@ L'Austria riconosce inoltre il diritto dell'Italia al libero uso delle acque del
 
 5° Ogni altra questione di competenza, di procedura o di amministrazione della giustizia sara' definita merce' una convenzione speciale fra l'Italia e l'Austria.
 
-## SEZIONE II - Stato serbo-croato-sloveno.
+#### SEZIONE II - Stato serbo-croato-sloveno.
 
 ##### Art. 46
 
@@ -1059,7 +1059,7 @@ La proporzione e la natura degli oneri-finanziari dell'antico Impero d'Austria, 
 
 Le questioni che non fossero definite dal presente trattato e che potessero derivare dalla cessione del detto territorio saranno definite da convenzioni ulteriori.
 
-## SEZIONE III. - Stato czeco-slovacco.
+#### SEZIONE III. - Stato czeco-slovacco.
 
 ##### Art. 53
 
@@ -1091,7 +1091,7 @@ La proporzione e la natura degli oneri finanziari dell'antico Impero d'Austria c
 
 Convenzioni ulteriori definiranno le questioni che non saranno state definite dal presente trattato o che potessero derivare dalla cessione del detto territorio.
 
-## SEZIONE IV. - Romania.
+#### SEZIONE IV. - Romania.
 
 ##### Art. 59
 
@@ -1109,7 +1109,7 @@ La promozione e la natura degli oneri finanziari dell'antico Impero d'Austria ch
 
 Convenzioni ulteriori definiranno le questioni che non saranno state definite dal presente trattato e che potessero derivare dalla cessione del detto territorio.
 
-## SEZIONE V. - Protezione delle minoranze.
+#### SEZIONE V. - Protezione delle minoranze.
 
 ##### Art. 62
 
@@ -1159,7 +1159,7 @@ L'Austria consente che qualsiasi membro della Societa' delle Nazioni possa segna
 
 L'Austria consente inoltre che, in caso di divergenza d'opinioni su questioni di diritto o di fatto concernenti questi articoli, fra il Governo austriaco e una delle Potenze alleate e associate facenti parte del Consiglio della Societa' dalle Nazioni, questa divergenza sia considerata, come una controversia di carattere internazionale, a termini dell'articolo 14 del patto della Societa'. Il Governo austriaco consente che ogni controversia di tal genera sia deferita, sa l'altra parte lo richiede, alla Corte permanente di giustizia. La decisione sara' inappellabile e avra' la stessa efficacia e lo stesso valore di una decisione pronunciata in virtu' dell'articolo 13 del patto.
 
-## SEZIONE VI. - Clausole relative alla cittadinanza.
+#### SEZIONE VI. - Clausole relative alla cittadinanza.
 
 ##### Art. 70
 
@@ -1225,9 +1225,7 @@ Le Alte Parti contraenti si impegnano a non porre alcun impedimento all'esercizi
 
 Le donne maritate seguiranno la condizione del marito o i figli minori di 18 anni quella dei genitori, per tutto quanto concerne l'applicazione delle disposizioni che procedono.
 
-## SEZIONE VII. - Clausole politiche relative ad alcuni paesi d'Europa.
-
-### 1\. - Belgio.
+#### SEZIONE VII. - Clausole politiche relative ad alcuni paesi d'Europa. 1. - Belgio.
 
 ##### Art. 83
 
@@ -1263,7 +1261,7 @@ Le Potenze alleate e associate riservano espressamente i diritti della Russia ad
 
 L'Austria s'impegna a riconoscere la piena validita' di tutti i trattati ed accordi che le Potenze alleate e associate fossero per conchiudere con gli Stati che si sono costituiti o si costituiranno, in tutto o in parte, sul territorio dell'antica Impero di Russia, come esisteva al 1° agosto 1914, o a riconoscere le frontiere dei detti Stati, come saranno stabilite nei detti trattati ed accordi
 
-## SEZIONE VII. - Disposizioni generali.
+#### SEZIONE VII. - Disposizioni generali.
 
 ##### Art. 88
 
@@ -1305,7 +1303,7 @@ Oltre le sue frontiere, come sono determinate dal presente trattato; l'Austria r
 
 L'Austria si impegna fin d'ora a riconoscere e accettare i provvedimenti, che sono o saranno presi dalle principali Potenze alleate e associate, d'intesa, occorrendo, con le terze Potenze, per regolare le conseguenze di questa disposizione.
 
-## SEZIONE I. - Marocco.
+#### SEZIONE I. - Marocco.
 
 ##### Art. 96
 
@@ -1349,7 +1347,7 @@ Questo trasferimento avverra' senza pregiudizio del rimborso dei debiti che i su
 
 Le merci marocchine godranno all'entrata la Austria del trattamento applicato alle merci francesi.
 
-## SEZIONE II. - Egitto.
+#### SEZIONE II. - Egitto.
 
 ##### Art. 102
 
@@ -1391,7 +1389,7 @@ Tutti i beni mobili ed immobili appartenenti in Egitto a sudditi austriaci saran
 
 Le merci egiziane godranno, all'entrata in Austria, del trattamento applicato alle merci britanniche.
 
-## SEZIONE III. - Siam
+#### SEZIONE III. - Siam
 
 ##### Art. 110
 
@@ -1407,7 +1405,7 @@ I beni, diritti e proprieta' private pei sudditi austriaci al Siam saranno tratt
 
 L'Austria rinuncia, per se' e per i propri sudditi, a qualsiasi reclamo contro il Governo siamese, relativamente alla liquidazione dei beni austriaci al Siam. Questa disposizione non pregiudichera', i diritti delle parti interessate sul prodotto di alcuna di queste liquidazioni, che serenato regolati dalle disposizioni della parte X (Clausole economiche) del presente trattato.
 
-## SEZIONE IV. - Cina.
+#### SEZIONE IV. - Cina.
 
 ##### Art. 113
 
@@ -1443,9 +1441,9 @@ Essa rinuncia egualmente, per quanto la concerne, a qualsiasi reclamo per la cat
 
 ## PARTE V. - Clausole militari, navali ed aeree.
 
-### SEZIONE I. - Clausole militari.
+#### SEZIONE I. - Clausole militari.
 
-#### CAPITOLO I. - Clausole generali.
+### CAPITOLO I. - Clausole generali.
 
 Per rendere possibile la preparazione di una limitazione generale degli armamenti di tutti gli Stati, l'Austria si impegna a osservare rigorosamente le disposizioni militari, navali ed aeree che seguono.
 
@@ -1459,7 +1457,7 @@ Nei tre mesi successivi alla entrata in vigore del presente trattato le forze mi
 
 Il servizio militare obbligatorio per tutti sara' abolito in Austria. L'esercito austriaco sara' costituito e reclutato, in seguito, soltanto per arruolamenti volontari.
 
-## CAPITOLO II. - Effettivi e quadri dell'esercito austriaco.
+### CAPITOLO II. - Effettivi e quadri dell'esercito austriaco.
 
 ##### Art. 120
 
@@ -1501,7 +1499,7 @@ Gli impiegati e funzionari, compresi gli addetti al servizio ferroviario, non po
 
 E' vietata ogni formazione di truppe non prevista nei quadri allegati a questa sezione. Quelle esistenti, oltre l'effettivo autorizzato di 30,000 uomini, saranno soppresse nel termine stabilito dall'articolo 118.
 
-## CAPITOLO III. - Reclutamento e istruzione militare.
+### CAPITOLO III. - Reclutamento e istruzione militare.
 
 ##### Art. 125
 
@@ -1519,7 +1517,7 @@ La durata totale della ferma dei sottufficiali e degli uomini di truppa non dovr
 
 La proporzione degli uomini congedati prima del termine della loro ferma, per motivi di salute, e per provvedimento disciplinare o per qualsiasi altro motivo, non dovra' superare per ciascun anno un ventesimo dell'effettivo totale stabilito all'art. 120. Se questa proporzione fosse superata per causa di forza maggiore, la deficienza che risultera' non e dovra' essere colmata con nuovi arruolamenti.
 
-## CAPITOLO IV. - Scuole, Istituti di insegnamento, Società ed Associazioni militari
+### CAPITOLO IV. - Scuole, Istituti di insegnamento, Società ed Associazioni militari
 
 ##### Art. 127
 
@@ -1531,7 +1529,7 @@ Ogni scuola militare non necessaria a questo fine sara' soppressa.
 
 Gli istituti d'insegnamento diversi da quelli contemplati all'articolo 127, e le societa' sportive o d'altro genere non dovranno occuparsi di questioni militari.
 
-## CAPITOLO V. - Armamento, munizioni, materiale fortificazioni.
+### CAPITOLO V. - Armamento, munizioni, materiale fortificazioni.
 
 ##### Art. 129
 
@@ -1621,7 +1619,7 @@ Parte di provvedimento in formato grafico
 
 (Specchi pubblicati in G.U. n. 241 del 12/10/1920)
 
-## SEZIONE II. - Clausole navali.
+#### SEZIONE II. - Clausole navali.
 
 ##### Art. 136
 
@@ -1699,7 +1697,7 @@ Nei tre mesi successivi all'entrata in vigore del presente trattato, la stazione
 
 Entro lo stesso termine, l'Austria non potra' costruire stazioni ultra-potenti di telegrafia senza fili, ne' sul proprio territorio, ne' su quello dell'Ungheria, della Germania, della Bulgaria o della Turchia.
 
-## SEZIONE III. - Clausole concernenti l'aeronautica militare e navale.
+#### SEZIONE III. - Clausole concernenti l'aeronautica militare e navale.
 
 ##### Art. 144
 
@@ -1755,7 +1753,7 @@ Le parti staccate, relative a ciascuna delle categorie precedenti.
 
 Il materiale predetto non potra' essere spostato senza usa autorizzazione speciale dei Governi delle Potenze prodotte.
 
-## SEZIONE IV. - Commissioni interalleate di controllo.
+#### SEZIONE IV. - Commissioni interalleate di controllo.
 
 ##### Art. 149
 
@@ -1795,7 +1793,7 @@ La Commissione aeronautica interelleata di controllo avra' in specie il compito 
 
 Il Governo austriaco fornira' alla Commissione aeronautica interalleata di controllo tutte le informazioni e documenti legislativi, amministrativi o d'altro genere che essa stimera' necessari per assicurare la completa esecuzione delle clausole aeronautiche, e particolarmente un elenco numerico del personale appartenente a tutti i servizi aeronautici austriaci, del materiale esigente, in fabbricazione o ordinate, e un elenco completo di tutti gli stabilimenti che lavorano per l'aeronautica, del luogo dove si trovano e di tutti gli hangars e campi di atterramento.
 
-## SEZIONE V. - Clausole generali.
+#### SEZIONE V. - Clausole generali.
 
 ##### Art. 156
 
@@ -1821,7 +1819,7 @@ Finche' restera' in vigore il presente trattato, l'Austria s'impegna a pestarsi 
 
 ## PARTE VI. - Prigionieri di guerra e sepolture.
 
-### SEZIONE I. - Prigionieri di guerra.
+#### SEZIONE I. - Prigionieri di guerra.
 
 ##### Art. 160
 
@@ -1883,7 +1881,7 @@ Il Governo austriaco si impegna a restituire senza indugio, dal momento dell'ent
 
 Le Alte Parti contraenti dichiarano di rinunciare reciprocamente al rimborso delle somme dovute per il mantenimento dei prigionieri di guerra nei rispettivi territori.
 
-## SEZIONE II. - Sepolture.
+#### SEZIONE II. - Sepolture.
 
 ##### Art. 171
 
@@ -1931,7 +1929,7 @@ Se le persone di cui si tratta hanno acquistato la cittadinanza di uno dei detti
 
 ## PARTE VIII. - Riparazioni.
 
-### SEZIONE I. - Disposizioni generali.
+#### SEZIONE I. - Disposizioni generali.
 
 ##### Art. 177
 
@@ -2377,7 +2375,7 @@ Per quanto riguarda il cavo Trieste-Corfu', il Governo italiano godra', nei rapp
 
 II valore dei cavi o porzioni di cavi di cui nei due primi capoversi del presente allegato, calcolato in base al prezzo d'impianto e diminuito di una percentuale adeguata per il deprezzamento, sara' inscritto, a credito dell'Austria, al capitolo delle riparazioni.
 
-## SEZIONE II. - Disposizioni particolari.
+#### SEZIONE II. - Disposizioni particolari.
 
 ##### Art. 191
 
@@ -2741,9 +2739,9 @@ All'Austria non incombera' l'obbligo del pagamento delle pensioni civili e milit
 
 ## PARTE X. - Clausole economiche.
 
-### SEZIONE I. - Relazioni commerciali.
+#### SEZIONE I. - Relazioni commerciali.
 
-#### Capitolo I. - Regolamenti, tasse e restrizioni doganali.
+### Capitolo I. - Regolamenti, tasse e restrizioni doganali.
 
 ##### Art. 217
 
@@ -2791,13 +2789,13 @@ Questa disposizione continuera' ad essere applicata, durante un secondo periodo 
 
 5° In caso di disaccordo circa l'esecuzione o l'interpretazione di una delle disposizioni precedenti, la Commissione delle riparazioni decidera'.
 
-## Capitolo II. - Navigazione.
+### Capitolo II. - Navigazione.
 
 ##### Art. 225
 
 Le Alte Parti contraenti s'impegnano a riconoscere da bandiera delle navi di qualunque Parte contraente che non abbia litorale marittimo, quando siano registrate in una determinata localita', situata nel suo territorio; questa localita' fara' le veci di porto di inscrizione delle navi.
 
-## Capitolo III. - Metodi sleali di concorrenza.
+### Capitolo III. - Metodi sleali di concorrenza.
 
 ##### Art. 226
 
@@ -2809,7 +2807,7 @@ L'Austria si obbliga a reprimere ed a vietare, sotto pena di confisca e con ogni
 
 L'Austria si obbliga, a condizione che le sia accordato un trattamento di reciprocita' al riguardo, a conformarsi alle leggi ed alle decisioni amministrative o giudiziarie prese a norma di esse, vigenti in un Paese alleato o associato, e dalle competenti autorita' a lei regolarmente notificate, le quali stabiliscano o regolino il diritto a una designazione regionale per i vini e gli spiriti prodotti nel paese cui appartiene la regione, o le condizioni in cui puo' essere autorizzato l'uso di una denominazione regionale; e l'importazione, l'esportazione, la fabbricazione, la circolazione, la vendita o la messa in vendita di prodotti o merci sotto le designazioni regionali, contrariamente alle leggi e decisioni predette, saranno dall'Austria vietate e represse merce' le disposizioni prescritte dall'articolo precedente.
 
-## Capitolo IV. - Trattamento dei sudditi delle Potenze alleate ed associate.
+### Capitolo IV. - Trattamento dei sudditi delle Potenze alleate ed associate.
 
 ##### Art. 228
 
@@ -2835,7 +2833,7 @@ L'Austria s'impegna a riconoscere la nuova nazionalita' che sara' stata o sara' 
 
 Le Potenze alleate o associate potranno nominare consoli generali, consoli, viceconsoli o agenti consolari nelle citta' e nei porti dell'Austria. L'Austria s'impegna ad approvare la designazione dei detti consoli generali, consoli, viceconsoli e agenti consolari, di cui le saranno notificati i nomi, e ad ammetterli all'esercizio delle loro funzioni in conformita' delle norme e degli usi vigenti.
 
-## Capitolo V. - Clausole generali.
+### Capitolo V. - Clausole generali.
 
 ##### Art. 232
 
@@ -2849,7 +2847,7 @@ L'art. 228 del capitolo IV restera' in vigore anche dopo il periodo di cinque an
 
 Se il Governo austriaco esercitera' il commercio internazionale non avra', a questo riguardo, ne' gli sara' riconosciuto alcuno dei diritti, privilegi o immunita' inerenti alla sovranita'.
 
-## SEZIONE II. - Trattati.
+#### SEZIONE II. - Trattati.
 
 ##### Art. 234
 
@@ -3003,7 +3001,7 @@ Le Alte Parti contraenti convengono inoltre, nei riguardi di quelle fra esse che
 
 Il Governo della Repubblica francese comunichera' al Governo dei Paesi Bassi una copia autentica del processo verbale di deposito delle ratificazioni del presente trattato e invitera' il Governo dei Paesi Bassi ad accettare e ricevere questo documento come deposito delle ratificazioni della convenzione del 23 gennaio 1912 e come sottoscrizione del protocollo addizionale del 1914.
 
-## SEZIONE III. - Debiti.
+#### SEZIONE III. - Debiti.
 
 ##### Art. 248
 
@@ -3189,7 +3187,7 @@ Le Alte Parti contraenti convengono di considerare le decisioni del Tribunale ar
 
 Se un Ufficio creditore si rifiuta di notificare all'Ufficio debitore una domanda o di compiere un atto di procedura previsto nel presente allegato e inteso a far valere, in tutto o in parte, una domanda che gli sia stata debitamente notificata, dovra' rilasciare al creditore un certificato indicante la somma reclamata, e il creditore potra' perseguirne il ricupero davanti ai tribunali ordinari o in qualsiasi altro modo, a forma di legge.
 
-## SEZIONE IV. - Beni, diritti e interessi.
+#### SEZIONE IV. - Beni, diritti e interessi.
 
 ##### Art. 249
 
@@ -3315,7 +3313,7 @@ Per la definizione delle questioni contemplate dall'articolo 249 tra l'Austria e
 
 Le disposizioni dell'articolo 249 e del presente allegato si applicano ai diritti di proprieta' industriale, letteraria o artistica che sono o saranno compresi nella liquidazione dei beni, diritti e interessi, societa' o imprese, effettuata in applicazione della legislazione eccezionale di guerra delle Potenze alleate od associate, o in applicazione delle disposizioni dell'articolo 249, lettera b).
 
-## SEZIONE V. - Contratti - Prescrizioni - Giudizi.
+#### SEZIONE V. - Contratti - Prescrizioni - Giudizi.
 
 ##### Art. 251
 
@@ -3527,7 +3525,7 @@ Le somme dovute in virtu' del contratto di riassicurazione, per quanto concerne 
 
 Le disposizioni dei paragrafi 16 e 17 e l'ultimo comma del paragrafo 15 si applicheranno ai contratti di assicurazione di rischi marittimi.
 
-## SEZIONE VI. - Tribunale arbitrale misto.
+#### SEZIONE VI. - Tribunale arbitrale misto.
 
 ##### Art. 256
 
@@ -3595,7 +3593,7 @@ Il luogo e la data delle udienze di ogni Tribunale saranno determinati dal suo p
 
 Se un tribunale competente ha pronunciato o pronuncia una sentenza in una controversia prevista dalle sezioni III, IV, V e VII, e se questa sentenza non e' conforme alle disposizioni dei detti articoli o regolamenti, la parte che avra' subito per tale fatto un pregiudizio avra' diritto a una riparazione che sara' determinata dal Tribunale arbitrale misto. Su domanda del suddito di una Potenza alleata o associata, la riparazione predetta potra', quando sia possibile, essere effettuata dal tribunale arbitrale misto, rimettendo le parti nella situazione in cui erano prima delle sentenze pronunciate dal tribunale dell'antico Impero d'Austria.
 
-## SEZIONE VII. - Proprietà induttriale.
+#### SEZIONE VII. - Proprietà induttriale.
 
 ##### Art. 258
 
@@ -3651,7 +3649,7 @@ Qualora siano state pagate, durante la guerra, relativamente ai diritti delle pe
 
 Questo articolo non sara' applicabile nei rapporti tra gli Stati Uniti d'America e l'Austria.
 
-## SEZIONE VIII. - Disposizioni speciali ai territori trasferiti.
+#### SEZIONE VIII. - Disposizioni speciali ai territori trasferiti.
 
 ##### Art. 263
 
@@ -3775,7 +3773,7 @@ Gli obblighi imposti dalle disposizioni precedenti rimarranno in vigore fino al 
 
 ## PARTE XII. - Porti, vie d'acqua e ferrovie.
 
-### SEZIONE I. - Disposizioni generali.
+#### SEZIONE I. - Disposizioni generali.
 
 ##### Art. 284
 
@@ -3813,7 +3811,7 @@ I porti di mare delle Potenze alleate e associate profitteranno di ogni favore e
 
 L'Austria non potra' rifiutarsi di partecipare alle tariffe o combinazioni di tariffe che abbiano per scopo di assicurare ai porti di una delle Potenze alleate e associate vantaggi analoghi a quelli che avesse concesso ai porti di un'altra Potenza.
 
-## SEZIONE II. - Navigazione.
+#### SEZIONE II. - Navigazione.
 
 ### Capitolo I. - Libertà di navigazione.
 
@@ -3827,9 +3825,7 @@ Nel caso che l'Austria accordasse a una delle Potenze alleate e associate od a q
 
 Non saranno posti altri impedimenti alla circolazione delle persone e delle navi o dei galleggianti, tranne quelli che risultano dalle disposizioni relative alle dogane, alla polizia, alle prescrizioni sanitarie, alla emigrazione o all'immigrazione, e all'importazione o all'esportazione delle merci proibite. Queste disposizioni dovranno essere ragionevoli ed uniformi, e non ostacolare inutilmente il traffico.
 
-## Capitolo II - Clausole relative al Danubio.
-
-### Clausole comuni alle reti fluviali dichiarate internazionali.
+### Capitolo II - Clausole relative al Danubio. Clausole comuni alle reti fluviali dichiarate internazionali.
 
 ##### Art. 291
 
@@ -3947,7 +3943,7 @@ L'Austria sara' obbligata verso la Commissione europea del Danubio ad ogni resti
 
 In caso di costruzione di una via navigabile a grande sezione Reno-Danubio, l'Austria si impegna fin d'ara a consentire che si applichi alla detta via navigabile lo stesso regime stabilito dagli articoli 292 e 294 a 299 del presente trattato.
 
-## Capitolo III. - Regime delle acque.
+### Capitolo III. - Regime delle acque.
 
 ##### Art. 309
 
@@ -3963,7 +3959,7 @@ In attesa di questo accordo, le stazioni centrali elettriche e gli impianti idra
 
 In mancanza di accordo, un arbitro designato dal Consiglio della Societa' delle Nazioni decidera'.
 
-## SEZIONE III. - Ferrovie.
+#### SEZIONE III. - Ferrovie.
 
 ### Capitolo I. - Libertà di transito per l'Austria verso l'Adriatico.
 
@@ -3977,7 +3973,7 @@ Convenzioni particolari tra gli Stati e le Amministrazioni interessate stabilira
 
 La liberta' di transito si estendera' ai servizi postali, telegrafici e telefonici.
 
-## Capitolo II. - Disposizioni relative ai trasporti internazionali.
+### Capitolo II. - Disposizioni relative ai trasporti internazionali.
 
 ##### Art. 312
 
@@ -4007,7 +4003,7 @@ L'Austria s'impegna a non adottare alcun provvedimento tecnico, fiscale o ammini
 
 In caso di trasporto, parte per ferrovia o parte per navigazione interna con o senza lettera di vettura diretta, le clausole precedenti si applicheranno alla parte del percorso che avviene per ferrovia.
 
-## Capitolo III. - Materiale rotabile.
+### Capitolo III. - Materiale rotabile.
 
 ##### Art. 317
 
@@ -4019,7 +4015,7 @@ L'Austria s'impegna a provvedere perche' i vagoni austriaci siano muuiti di disp
 
 Il materiale rotabile delle Potenze alleate e associate godra' sulle linee austriache dello stesso trattamento del materiale austriaco, per quanto riguarda la circolazione, la manutenzione e le riparazioni.
 
-## CAPITOLO IV. - Trasferimento di linee ferroviarie.
+### CAPITOLO IV. - Trasferimento di linee ferroviarie.
 
 ##### Art. 318
 
@@ -4037,7 +4033,7 @@ Esse designeranno egualmente le locomotive, le vetture e i vagoni da trasferire 
 
 Le disposizioni dei paragrafi 3° e 4° saranno applicate alle linee dell'antica Polonia russa, portate dalle autorita' austro-ungariche allo Scartamento normale, assimilando le parti separate delle reti di Stato austriaca e ungherese.
 
-## Capitolo V. - Disposizioni relative ad alcune linee ferroviarie.
+### Capitolo V. - Disposizioni relative ad alcune linee ferroviarie.
 
 ##### Art. 319
 
@@ -4093,7 +4089,7 @@ Le condizioni tecniche, amministrative e finanziarie con le quali lo Stato czeco
 
 In caso di disaccordo sull'interpretazione della convenzione o di difficolta' non previste dalla medesima, la vertenza sara' decisa per mezzo di un arbitrato con le stesse norme, finche' la Societa' delle Nazioni non avra' istituito una procedura diversa.
 
-## Capitolo VI. - Disposizioni transitorie.
+### Capitolo VI. - Disposizioni transitorie.
 
 ##### Art. 325
 
@@ -4103,7 +4099,7 @@ L'Austria eseguira' le istruzioni che le saranno impartite, in materia di traspo
 
 2° e, provvisoriamente, per il trasporto delle derrate necessarie all'approvvigionamento di alcune regioni, per il ristabilimento piu' rapido che sia possibile delle condizioni normali dei trasporti e per la organizzazione dei servizi postali e telegrafici.
 
-## Capitolo VII. - Telegrafi e telefoni.
+### Capitolo VII. - Telegrafi e telefoni.
 
 ##### Art. 326
 
@@ -4135,9 +4131,7 @@ Trascorsi diedi anni dall'entrata in vigore dal presento trattato, le condizioni
 
 7° Sorgendo controversia fra le Parti circa l'interpretazione del presente articolo o della convenzione prevista al paragrafo 5, la controversia sara' sottoposta alla decisione della Corte permanente di giustizia internazionale che la Societa' delle Nazioni istituira'.
 
-## SEZIONE IV. - Decisione delle controversie
-
-### e revisione delle clausole permanenti.
+#### SEZIONE IV. - Decisione delle controversie e revisione delle clausole permanenti.
 
 ##### Art. 328
 
@@ -4157,7 +4151,7 @@ Il termine di tre anni, durante il quale la reciprocita' non puo' essere pretesa
 
 Gli Stati ai quali e' trasferita parte dei territori dell'antica Monarchia austro-ungarica o che sono sorti dallo smembramento di essa non potranno reclamare il beneficio di alcuna delle disposizioni predette, se non a condizione di assicurare un trattamento reciproco all'Austria, sul territorio passato sotto la loro sovranita' in virtu' del presente trattato.
 
-## SEZIONE V. - Disposizione particolare.
+#### SEZIONE V. - Disposizione particolare.
 
 ##### Art. 331
 
@@ -4165,9 +4159,9 @@ Senza pregiudizio degli obblighi particolari che le sono imposti col presente tr
 
 ## PARTE XIII. - Lavoro.
 
-### SEZIONE I. - Organizzazione del lavoro.
+#### SEZIONE I. - Organizzazione del lavoro.
 
-#### Capitolo 1. - Organizzazione.
+### Capitolo 1. - Organizzazione.
 
 Considerando che la Societa' delle Nazioni ha per fine di stabilire la pace universale, e una pace siffatta puo' essere fondata soltanto sulla giustizia sociale;
 
@@ -4283,7 +4277,7 @@ Le somme occorrenti per tutte le altre spese dell'Ufficio internazionale del lav
 
 Il direttore sara' responsabile, di fronte al segretario generale della Societa' delle Nazioni, dell'impiego di tutti i fondi a lui versati in conformita' delle disposizioni del presente articolo.
 
-## Capitolo II. - Funzionamento.
+### Capitolo II. - Funzionamento.
 
 ##### Art. 345
 
@@ -4419,7 +4413,7 @@ So uno dei Membri non si conforma, nel termine prescritto, alle proposte eventua
 
 Il Governo inadempiente puo' in qualunque tempo informare il Consiglio d'amministrazione di avere preso i provvedimenti necessari per conformarsi, sia alle proposte della Commissione d'inchiesta, sia a quelle contenute nella decisione della Corte permanente di giustizia internazionale, e puo' chiedere al Consiglio di far costituire, a cura del segretario generale della Societa' delle Nazioni, una Commissione d'inchiesta per verificare le sue asserzioni. In questo caso saranno applicate le disposizioni degli articoli 357, 358, 359, 360,362 e 363, e se il rapporto della Commissione d'inchiesta o la decisione della Corte permanente di giustizia internazionale fossero favorevoli al Governo inadempiente, gli altri Governi dovranno subito revocare i provvedimenti di ordine economico presi contro di esso.
 
-## Capitolo III. - Disposizioni generali.
+### Capitolo III. - Disposizioni generali.
 
 ##### Art. 366
 
@@ -4439,7 +4433,7 @@ Gli emendamenti a questa parte del presente trattato, approvati dalla Conferenza
 
 Tutte le questioni e le controversie relative all'interpretazione di questa parte del presente trattato e delle convenzioni successive conchiuse dai membri in virtu' della medesima saranno sottoposte all'esame della corte permanente di giustizia internazionale.
 
-## Capitolo IV. - Disposizioni transitorie.
+### Capitolo IV. - Disposizioni transitorie.
 
 ##### Art. 369
 
@@ -4493,7 +4487,7 @@ c) lavori insalubri.
 
 5° Estensione ed applicazione delle convenzioni internazionali approvate a Berna, nel 1906 circa il divieto del lavoro notturno per le donne impiegate nell'industria e la proibizione dell'uso del fosforo bianco nell'industria dei fiammiferi.
 
-## SEZIONE II - Principi generali.
+#### SEZIONE II - Principi generali.
 
 ##### Art. 372
 

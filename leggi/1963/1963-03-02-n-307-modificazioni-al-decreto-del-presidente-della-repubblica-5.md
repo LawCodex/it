@@ -28,11 +28,11 @@ la seguente legge:
 
 ## CAPO I. - DISPOSIZIONI GENERALI
 
-#### Art. 1
+### Art. 1
 
 Le parole di cui all'articolo 1 del decreto del Presidente della Repubblica 5 giugno 1952, n. 656 "uffici locali, agenzie recapiti, ricevitorie e portalettere "sono sostituite dalle seguenti: "uffici locali, agenzie, recapiti e ricevitorie".
 
-#### Art. 2
+### Art. 2
 
 L'articolo 6 del decreto del Presidente della Repubblica 5 giugno 1952, n. 656, e successive modificazioni, e' sostituito dal seguente: "L'Istituzione, la riunione e la soppressione degli uffici locali e delle agenzie sono disposte con decreto del Ministro, sentita la Commissione centrale per gli uffici locali.
 
@@ -42,7 +42,7 @@ Per l'istituzione, la riorganizzazione e la soppressione delle ricevitorie e del
 
 Il relativo decreto di istituzione stabilira' altresi' lo ufficio postale da cui la ricevitoria e le zone di portalettere dipendono".
 
-#### Art. 3
+### Art. 3
 
 Con decreto del Ministro per le poste e le telecomunicazioni, di concerto con il Ministro per il tesoro, sentita la Commissione centrale per gli uffici locali ed il Consiglio di amministrazione, si provvede alla classificazione degli uffici locali delle agenzie ogni cinque anni, sulla base delle operazioni del penultimo esercizio finanziario del quinquennio.
 
@@ -58,7 +58,7 @@ AGGIORNAMENTO (4)
 
 La L. 12 marzo 1968, n. 259 ha disposto (con l'art. 13, comma 1) che "In deroga al disposto dell'articolo 3 della legge 2 marzo 1963, n. 307, la classificazione degli uffici locali e delle agenzie dell'Amministrazione delle poste e delle telecomunicazioni per il quinquennio 1 aprile 1968-31 marzo 1973 e' effettuata sulla base dei punteggi stabiliti dall'articolo 69 della predetta legge, secondo i criteri previsti dalla tabella A allegata al decreto del Presidente della Repubblica 19 luglio 1960, n. 1816".
 
-#### Art. 4
+### Art. 4
 
 La classificazione degli uffici locali di nuova istituzione e' stabilita provvisoriamente con il decreto di istituzione in base all'importanza presunta.
 
@@ -68,7 +68,7 @@ Per la istituzione di nuove zone di recapito la durata della relativa prestazion
 
 Decorso un anno dalla data di istituzione viene stabilita, con decreto del Ministro per le poste e le telecomunicazioni, la prestazione effettiva da calcolarsi secondo i criteri previsti dall'articolo 6.
 
-#### Art. 5
+### Art. 5
 
 Qualora si debba procedere alla riunione di due uffici locali esistenti nella stessa localita', il Ministero determina quale dei due uffici debba intendersi soppresso, sentita la Commissione centrale per gli uffici locali.
 
@@ -76,13 +76,13 @@ La classifica provvisoria dell'ufficio risultante dalla riunione e' determinati 
 
 L'Amministrazione procede a nuova classifica dello ufficio risultante, dalla riunione, con i criteri previsti dal regolamento, decorso un esercizio finanziario dalla data del provvedimento di riunione.
 
-#### Art. 6
+### Art. 6
 
 Con decreto del Ministro per le poste e le telecomunicazioni, di concerto con il Ministro per il tesoro, saranno determinati i criteri ed i coefficienti di valutazione per quanto riguarda la istituzione e la riorganizzazione di ricevitorie, di posti di portalettere e di posti di procacciato.
 
 Nella formulazione dei criteri si dovra' tenere presente che l'agente puo' eseguire il servizio anche con mezzo motorizzato.
 
-#### Art. 7
+### Art. 7
 
 Negli uffici locali, nei quali i telegrammi e gli espressi da recapitare raggiungano almeno la media mensile di ottocento pezzi, l'Amministrazione provvedera' il recapito a mezzo di fattorini, il cui assegno numerico per i singoli uffici locali e' fissato con decreto del Ministro per le poste e le telecomunicazioni, sentita la Commissione centrale per gli uffici locali.
 
@@ -90,7 +90,7 @@ Ogni quinquennio si dovra' accertare la media mensile dei telegrammi: degli espr
 
 Nei casi in cui la media mensile degli oggetti recapitati sia discesa per qualsiasi motivo al di sotto dei seicento nell'ultimo esercizio finanziario e tale diminuzione di lavoro sia confermata nell'esercizio finanziario successivo al quinquennio, con decreto del Ministro per le poste e le telecomunicazioni, verra' ridotto il numero dei fattorini in assegno all'ufficio.
 
-#### Art. 8
+### Art. 8
 
 Per temporanee e particolari esigenze di carattere locale l'Amministrazione puo' autorizzare l'attivazione, per un periodo non superiore a quattro mesi in anno, di una agenzia per l'esecuzione di alcuni servizi, alla quale e' preposto un ufficiale da scegliersi preferibilmente tra quelli in servizio nell'ufficio locale viciniore.
 
@@ -98,7 +98,7 @@ Per il funzionamento di tale agenzia gli organi locali devono provvedere alla fo
 
 L'attivazione disposta dal direttore centrale degli uffici locali su proposta motivata della direzione provinciale competente.
 
-#### Art. 9
+### Art. 9
 
 Per esigenze di servizio di carattere eccezionale nella ricorrenza delle feste natalizie e pasquali e durante i mesi di luglio e agosto, l'Amministrazione puo' procedere ad assunzioni di personale straordinario, riconosciuto idoneo, da applicare a mansioni della carriera Tale personale puo' essere tenuto in servizio per un periodo di tempo non superiore a novanta giorni in un anno e cessa di diritto dal servizio al compimento di tale periodo.
 
@@ -108,7 +108,7 @@ Tale personale viene assunto con provvedimento del direttore provinciale nel lim
 
 Per tali assunzioni i direttori provinciali sono tenuti a dare la precedenza agli iscritti nell'elenco provinciale dei sostituti come previsto dai successivi articoli.
 
-#### Art. 10
+### Art. 10
 
 Dagli uffici locali e' proposto un direttore.
 
@@ -130,7 +130,7 @@ Tali assegni sono stabiliti, per ciascun ufficio locale, con provvedimento del d
 
 Ove non sia prevista la scorta, la sostituzione degli agenti sara' effettuata mediante personale, denominato "sostituto", iscritto in apposito elenco che, ai sensi delle disposizioni che seguono, viene tenuto da ogni Direzione provinciale.
 
-#### Art. 11
+### Art. 11
 
 Negli uffici locali di gruppo E di limitata importanza, oltre al dirigente, non sono assegnate unita' della carriera esecutiva, salvo comprovate esigenze di servizio.
 
@@ -138,13 +138,13 @@ Si considera di limitata importanza l'ufficio locale di gruppo E che, secondo i 
 
 Ove i criteri relativi alle classifiche degli uffici locali vigenti alla data di pubblicazione della presente legge dovessero essere, variati, il punteggio complessivo, per stabiliti gli uffici locali di gruppo E di limitata importanza sara' fissato dal regolamento di esecuzione.
 
-#### Art. 12
+### Art. 12
 
 L'organico o del personale di ruolo, degli uffici locali e' determinato per ciascuna, carriera, e qualifica dal numero dei posti istituiti con le modalita' stabilite dalla presente legge.
 
 Con decreto ministeriale sara' determinata per ciascuna carriera la situazione numerica complessiva dei relativi posti esistenti al 31 dicembre di ogni anno, tenendo conto delle variazioni verificatesi nel corso dell'anno stesso.
 
-#### Art. 13
+### Art. 13
 
 Gli orari di servizio al pubblico degli uffici locali, delle agenzie e delle ricevitorie sono stabiliti dal direttore generale o per sua delega, dal direttore centrale per gli uffici locali.
 
@@ -154,13 +154,13 @@ Per particolari esigenze di carattere locale e stagionale il direttore generale 
 
 ## CAPO II - STATO GIURIDICO
 
-#### Art. 14
+### Art. 14
 
 Gli impiegati di ruolo degli uffici locali e delle agenzie postali, telegrafiche e fototelegrafiche sono impiegati civili dello Stato.
 
 Ad essi si applicano le norme contenute nel testo unico delle le disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n 3, e in materia di trattamento economico, le disposizioni vigenti per le corrispondenti carriere degli impiegati di ruolo del Ministro delle poste e di telecomunicazioni, salvo quanto disposto dalla presente legge, nonche' dal decreto del Presidente della Repubblica 5 giugno 1952 n. 656, e successive modificazioni ed integrazioni.
 
-#### Art. 15
+### Art. 15
 
 Il personale di ruolo degli uffici locali dell'Amministrazione delle poste e delle telecomunicazioni si distingue in:
 
@@ -170,7 +170,7 @@ personale della carriera esecutiva;
 
 personale della carriera ausiliaria.
 
-#### Art. 16
+### Art. 16
 
 I direttori di ufficio locale dei gruppi A, B e C appartengono al personale della carriera di concetto.
 
@@ -178,11 +178,11 @@ I direttori di ufficio locale dei rimanenti gruppi gli uffici ali appartengono a
 
 Gli agenti appartengono al personale della carriera le attribuzioni del personale, di cui ai commi precedenti determinate dalla presente legge dal relativo regolamento di esecuzione, dalle leggi regolamenti ed istruzioni che disciplinano i servizi della Amministrazione delle poste e delle telecomunicazioni.
 
-#### Art. 17
+### Art. 17
 
 I direttori di ufficio locale svolgono funzioni di dirigenza, di gestione e di controllo dell'ufficio a cui sono preposti concorrono personalmente allo svolgimento, dei servizi; vigilano e coordinano l'opera del personale dipendente; svolgono funzioni di carattere amministrativo, contabile e tecnico nei limiti e, nei modi stabiliti dalle leggi, dai decreti e dalle norme di servizio.
 
-#### Art. 18
+### Art. 18
 
 Gli ufficiali svolgono mansioni di sportello di trasmissione e ricezione telegrafica, di movimento postale, di collaborazione contabile, tecnica, ed amministrativa, nonche' di archivio, di registrazione e di copia secondo le norme contenute nelle leggi, nei decreti nelle istruzioni dei servizi postali e telegrafici. Svolgono, altresi', funzioni di aiuto dirigenza negli uffici locali.
 
@@ -194,7 +194,7 @@ Negli altri locali le mansioni di cui ai precedente commi sono espletate da un u
 
 Agli ufficiali, oltre alle mansioni di cui al primo comma del presente articolo, puo' essere conferito l'incarico di titolare o reggente di agenzia.
 
-#### Art. 19
+### Art. 19
 
 ((Il personale della carriera ausiliaria svolge il servizio di recapito, trasporto e scambio degli effetti postali e quello di ricevitoria)).
 
@@ -228,7 +228,7 @@ Le disposizioni di cui ai precedenti tre commi si applicano anche agli agenti di
 
 ## CAPO III - CARRIERA DEL PERSONALE DI CONCETTO
 
-#### Art. 20
+### Art. 20
 
 La carriera del personale di concerto degli uffici locali comprende le seguenti qualifiche:
 
@@ -238,7 +238,7 @@ direttore di ufficio locale di gruppo B;
 
 direttore di ufficio locale di gruppo C.
 
-#### Art. 21
+### Art. 21
 
 I posti disponibili nella qualifica di direttore di ufficio locale di gruppo C sono conferiti mediante concorso per titoli e per esame speciale a mezzo colloquio, al quale sono ammessi a partecipare i direttori di ufficio locale di gruppo D che, alla data di pubblicazione del decreto che indice il concorso, abbiano compiuto complessivamente nove anni di effettivo servizio con qualifica di direttore di ufficio locale.
 
@@ -258,7 +258,7 @@ Al termine di ogni seduta dedicata al colloquio la Commissione di cui al comma p
 
 L'elenco sottoscritto dal presidente e dal segretario e' affisso nel medesimo giorno nell'albo dell'Amministrazione.
 
-#### Art. 22
+### Art. 22
 
 I concorsi per i posti di direttore di cui all'articolo 21, indetti con decreto del Ministro per le poste e le telecomunicazioni pubblicati nel Bollettino ufficiale del Ministero.
 
@@ -270,11 +270,11 @@ I bandi di concorso devono altresi' precisare i documenti da allegare a corredo 
 
 Per particolari esigenze di servizio i candidati possono essere sottoposti ad esami orali per l'accertamento della conoscenza di una o piu' lingue straniere specificate nel bando di concorso.
 
-#### Art. 23
+### Art. 23
 
 La Commissione esaminatrice deve procedere alla valutazione dei titoli applicando i coefficienti numerici ed i criteri che saranno preliminariamente fissati con decreto del Ministro, sentita la Commissione centrale per gli uffici locali, in relazione alla capacita' ed attitudine dei candidati, ai servizi da essi comunque prestati alle dipendenze dell'Amministrazione postale ed al loro grado di cultura.
 
-#### Art. 24
+### Art. 24
 
 Al punteggio totalizzato per le voci indicate nell'articolo precedente va aggiunto quello assegnato per la prova del colloquio.
 
@@ -284,7 +284,7 @@ A parita' di voto ha la precedenza il candidato collocato prima nel ruolo di anz
 
 Dalla graduatoria sono esclusi i candidati che non abbiano conseguito nel colloquio la votazione di almeno sette decimi.
 
-#### Art. 25
+### Art. 25
 
 La graduatoria di merito formata dalla Commissione sara' approvata con decreto ministeriale il quale dichiarera', altresi', nell'ordine, i vincitori in rapporto al numero dei posti messi a concorso ed approvera', nell'ordine, l'elenco dei candidati riusciti idonei.
 
@@ -300,7 +300,7 @@ Gli assegnatari saranno nominati, con decreto ministeriale, direttori di ufficio
 
 Nel caso che alcuni uffici messi a concorso restino scoperti, perche' non richiesti o per rinuncia, l'Amministrazioni procedera', nel termine di 6 mesi dalla data prevista nel precedente comma, ad altrettante nomine dopo l'ultima o assegnatario, secondo l'ordine della graduatoria e senza piu' tener conto dell'ordine di preferenza.
 
-#### Art. 26
+### Art. 26
 
 I posti disponibili di direttore di ufficio locale il gruppo B sono conferiti mediante scrutinio per anzianita', congiunta al merito al quale sono ammessi i direttori di ufficio locale di gruppo C, che, alla data dello scrutinio, abbiano compiuto tre anni di effettivo servizio in tale qualifica.
 
@@ -308,7 +308,7 @@ Le promozioni di cui al presente articolo sono conferite con decreto ministerial
 
 Non possono essere ammessi allo scrutinio gli impiegati che nell'ultimo triennio abbiano riportato, anche per una sola volta, un giudizio complessivo inferiore a "buono".
 
-#### Art. 27
+### Art. 27
 
 I posti disponibili di direttore di ufficio locale di gruppo A sono conferiti mediante concorso per titoli, al quale sono ammessi gli impiegati aventi la qualifica di direttore di ufficio locale di gruppo B, che, alla data di pubblicazione del decreto che indice il concorso, abbiano compiuto in tale qualifica tre anni di effettivo servizio e che nell'ultimo triennio non abbiano riportato un giudizio complessivo, anche una sola volta inferiore a "buono".
 
@@ -318,7 +318,7 @@ Per la partecipazione ai concorsi di cui al presente articolo, per il loro svolg
 
 ## CAPO IV - CARRIERA DEL PERSONALE ESECUTIVO
 
-#### Art. 28
+### Art. 28
 
 LA carriera del personale esecutivo degli uffici locali comprende le seguenti qualifiche:
 
@@ -338,7 +338,7 @@ ufficiale di 2ª classe;
 
 ufficiale di 3ª classe.
 
-#### Art. 29
+### Art. 29
 
 ((I posti disponibili di direttore di ufficio locale di gruppo E sono conferiti:
 
@@ -354,7 +354,7 @@ Fra i titoli vengono particolarmente valutate le mansioni di titolare di agenzia
 
 Per l'ammissione al concorso gli aspiranti devono essere in possesso del titolo di studio di licenza di scuola media inferiore e non aver riportato anche una sola volta, nell'ultimo triennio, un giudizio complessivo inferiore a "buono Per l'espletamento e la definizione del concorso si applicano le disposizioni previste nei precedenti articoli 22, 25 e 27, secondo comma)).
 
-#### Art. 30
+### Art. 30
 
 I posti disponibili di direttore di ufficio locale di gruppo D) sono conferiti mediante scrutinio per anzianita' congiunta al merito al quale sono ammessi i direttori di ufficio locale di gruppo E e i primi ufficiali che alla data dello scrutinio abbiano compiuto in tali qualifiche tre anni di servizio effettivo.
 
@@ -362,7 +362,7 @@ Le promozioni a direttore di ufficio locale di gruppo D sono conferite nel limit
 
 Non possono essere ammessi allo scrutinio gli impiegati che nell'ultimo triennio abbiano riportato, anche per una sola volta, un giudizio complessivo inferiore a "buono".
 
-#### Art. 31
+### Art. 31
 
 La nomina in prova ad ufficiale di 3ª classe della carriera esecutiva degli uffici locali si consegue mediante pubblico concorso per esame al quale sono ammessi a partecipare i cittadini italiani che siano in possesso del diploma di istituto di istruzione secondaria di primo grado e degli altri requisiti stabiliti nei successivi articoli.
 
@@ -388,7 +388,7 @@ Ove nel corso dello stesso triennio siano stati definiti piu' concorsi, gli idon
 
 Per lo svolgimento dei concorsi e per la loro definizione si applicano le norme contenute nel testo unico delle disposizioni concernenti lo statuito degli impiegati civili dello Stato approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, salvo quanto diversamente disposto con la presente legge, Nei concorsi ad ufficiale di 3ª classe in prova puo' essere riservata al personale le degli uffici locali una aliquota di posti non superiore al quinto di quelli messi a concorso.
 
-#### Art. 32
+### Art. 32
 
 La promozione alla qualifica di ufficiale di seconda classe si consegue a ruolo aperto dopo quattro anni di permanenza senza demerito nella qualifica immediatamente inferiore.
 
@@ -398,11 +398,11 @@ Non possono conseguire le promozioni di cui e al presente articolo gli impiegati
 
 Le promozioni vengono conferite con provvedimento del direttore generale di amministrazione e o, per sua delega, del direttore centrale per gli uffici locali.
 
-#### Art. 33
+### Art. 33
 
 In ciascun ufficio locale di gruppo A e B e' istituito un posto di primo ufficiale per l'espletamento delle mansioni previste dal precedente articolo 18, il numero complessivo dei posti di primo ufficiale e' determinato dal totale degli uffici locali di gruppo A e B.
 
-#### Art. 34
+### Art. 34
 
 La promozione a primo ufficiale si consegue mediante concorso per titoli nel limite dei posti disponibili, in base a graduatoria di merito formata dalla Commissione centrale per gli uffici locali, Al concorso sono ammessi gli impiegati dello stesso ruolo che rivestano la qualifica di ufficiali di prima classe e che, alla data di pubblicazione del decreto che Al concorso non possono essere ammessi gli impiegati che nell'ultimo triennio abbiano riportato un giudizio complessivo, anche per una sola volta, inferiore a "buono".
 
@@ -416,7 +416,7 @@ Ove, al termine fissato dall'Amministrazione, non raggiunga la sede assegnata, l
 
 ## CAPO V - CARRIERA DEL PERSONALE AUSILIARIO
 
-#### Art. 35
+### Art. 35
 
 La carriera del personale ausiliario degli uffici locali comprende le seguenti qualifiche:
 
@@ -430,7 +430,7 @@ agente di 3ª classe;
 
 fattorino.
 
-#### Art. 36;
+### Art. 36;
 
 La nomina a fattorino in prova della carriera ausiliaria degli uffici locali si consegue mediante pubblico concorso per titoli integrato da una prova pratica di scrittura sotto dettato.
 
@@ -450,11 +450,11 @@ a) il dieci per cento dei posti messi a concorso ai reggenti iscritti nell'elenc
 
 b) il venti per cento dei posti messi a concorso ai sostituti iscritti da almeno due anni nell'elenco, nonche' ai prestatori d'opera di cui all'articolo 68 della presente legge, che abbiano prestato la loro opera per almeno due anni)).
 
-#### Art. 37
+### Art. 37
 
 I posti di agente superiore e di agente di prima classe della carriera ausiliaria prevista dall'articolo 35 sono stabiliti rispettivamente in rapporto al 3,50 per cento ed al venti per cento del totale dei posti della carriera ausiliaria determinato ai sensi del precedente articolo 12.
 
-#### Art. 38
+### Art. 38
 
 La promozione alla qualifica di agente di 3ª classe e' conferita, a ruolo aperto, dopo quattro anni di effettivo servizio, nella qualifica immediatamente inferiore.
 
@@ -470,17 +470,17 @@ Non possono conseguire le promozioni previste dai commi precedenti gli agenti ch
 
 ## CAPO VI - DOVERI - RESPONSABILITA' - DIRITTI
 
-#### Art. 39
+### Art. 39
 
 I dipendenti degli uffici locali debbono risiedere nel Comune in cui ha sede l'ufficio.
 
 Tuttavia il direttore provinciale, per comprovate ragioni, autorizza l'impiegato a risiedere altrove quando cio' sia conciliabile col pieno e regolare adempimento d'ogni altro suo dovere; dell'eventuale diniego e' data comunicazione scritta all'interessato.
 
-#### Art. 40
+### Art. 40
 
 Per l'orario normale di lavoro del personale degli uffici locali si applicano le stesse norme previste per il personale di ruolo l'Amministrazione delle poste e delle telecomunicazioni avente le medesime mansioni.
 
-#### Art. 41
+### Art. 41
 
 Il trattamento economico, degli impiegati di ruolo degli uffici locali e' stabilito sulla base dei coefficienti indicati in corrispondenza a ciascuna qualifica, come, segue:
 
@@ -526,7 +526,7 @@ Agli impiegati di ruolo degli uffici locali sono concessi, con provvedimento del
 
 Sono concessi, altresi', con provvedimento dello stesso direttore centrale, gli aumenti anticipati di stipendio per nascita di figli, per benemerenze militari e per gli altri casi previsti per gli impiegati civili dello Stato.
 
-#### Art. 42
+### Art. 42
 
 Con provvedimento del direttore provinciale sono disposte:
 
@@ -548,7 +548,7 @@ I titoli di spesa, emessi sono contabilizzati in conto sospeso fino al momento i
 
 La Direzione provinciale deve comunicare i provvedimenti adottati alla Direzione centrale per gli uffici locali e le agenzie, alla Direzione centrale per i servizi di ragioneria ed all'Istituto poste-telegrafonici.
 
-#### Art. 43
+### Art. 43
 
 In materia di riposo settimanale, di congedo ordinario, di congedo straordinario, di aspettativa e disponibilita' si applicano al personale di ruolo degli uffici locali, le norme vigenti per i dipendenti civili di ruolo dello Stato.
 
@@ -560,11 +560,9 @@ Il congedo straordinario per il personale di cui al primo comma e' concesso, con
 
 Con provvedimento del direttore provinciale viene disposto per il personale di ruolo degli uffici locali il collocamento in aspettativa per qualsiasi motivo.
 
-## CAPO VII - RAPPORTI INFORMATIVI - ORGANI
+## CAPO VII - RAPPORTI INFORMATIVI - ORGANI COMPETENTI A COMPILARLI - GRAVAMI
 
-### COMPETENTI A COMPILARLI - GRAVAMI
-
-#### Art. 44
+### Art. 44
 
 Per i direttori di ufficio locale e per i reggenti, per gli ufficiali che svolgono le mansioni di titolare, o reggente, di agenzia, deve essere redatto, a cura del capo di un reparto della Direzione provinciale, un rapporto informativo si conclude con il giudizio complessivo, formulato dal direttore provinciale, di "ottimo", e distinto", "buono", "mediocre", "insufficiente" prendendo a base i seguenti elementi: qualita' morali e di carattere; mansioni disimpegnate e rendimento; attaccamento al servizio; capacita' organizzativa ed a attitudine ad esercitare mansioni di maggiore responsabilita'; comportamento in servizio e fuori.
 
@@ -576,7 +574,7 @@ Al dipendente, al quale nell'anno in cui si riferisce il rapporto informativo, s
 
 I rapporti informativi di cui ai precedenti commi debbono essere redatti entro il mese di gennaio di ciascun anno Nel caso che il rapporto informativo sia stato compilato dal direttore provinciale, il giudizio complessivo e' formulato da un direttore di divisione della Direzione centrale per gli uffici locali.
 
-#### Art. 45
+### Art. 45
 
 Il giudizio complessivo e' comunicato su apposito modello all'impiegato che vi appone la data di comunicazione la firma.
 
@@ -590,17 +588,15 @@ La Commissione centrale, sentita la direzione centrale per gli uffici locali e l
 
 La deliberazione della Commissione centrale per gli uffici locali e' provvedimento definitivo.
 
-## CAPO VIII - ISCRIZIONE ALL'ALBO DEI DIPENDENTI
+## CAPO VIII - ISCRIZIONE ALL'ALBO DEI DIPENDENTI CIVILI DELLO STATO
 
-### CIVILI DELLO STATO
-
-#### Art. 46
+### Art. 46
 
 Il personale di ruolo degli uffici locali e' iscritto all'albo dei dipendenti civili dello Stato con l'osservanza delle norme previste dall'articolo 152 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
 
 ## CAPO IX - INCOMPATIBILITA' E CUMULO D'IMPIEGHI
 
-#### Art. 47
+### Art. 47
 
 Ai dipendenti di ruolo degli uffici locali per quanto riguarda l'incompatibilita' ed il divieto di cumulo di impieghi, sono applicabili le disposizioni contenute sugli articoli 60, 61, 62, 63, 64 e 65 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con decreto del Presidente della Repubblica, 10 gennaio 1957, n. 3.
 
@@ -610,13 +606,13 @@ La denuncia dei casi di incompatibilita' di cui all'articolo 64 del succitato te
 
 ## CAPO X - DISCIPLINA
 
-#### Art. 48
+### Art. 48
 
 Ai dipendenti di ruolo degli uffici locali sono applicabili in materia di disciplina le disposizioni contenute nei capi I e II del titolo VII e l'articolo 120 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, salvo quanto diversamente disposto dalla presente legge.
 
 A detto personale, ad eccezione dei direttori di ufficio locale di gruppo A, B, e C, possono essere applicate, altresi', le ammende disciplinari stabilite per il personale di ruolo del Ministero delle poste e delle telecomunicazioni.
 
-#### Art. 49
+### Art. 49
 
 L'ammenda disciplinare e la censura sono inflitte dal capo del primo reparto della Direzione provinciale.
 
@@ -630,7 +626,7 @@ Avverso la punizione della censura e' ammesso ricorso al direttore provinciale, 
 
 Contro i provvedimenti della riduzione dello stipendio e della sospensione dalla qualifica con privazione dello stipendio, irrogati dal direttore provinciale, e' ammesso ricorso gerarchico al Ministro, il quale decide sentita la Commissione centrale per gli uffici locali.
 
-#### Art. 50
+### Art. 50
 
 Nel termine di venti giorni dalla comunicazione delle contestazioni, l'interessato deve presentare le proprie giustificazioni scritte all'organo che ha mosso le contestazioni, dichiarando, nel caso sia deferito alla Commissione provinciale, o a quella centrale, per gli uffici locali, se intende giustificarsi anche verbalmente, ed indicando il recapito al quale potranno essergli indirizzate le occorrenti comunicazioni.
 
@@ -646,7 +642,7 @@ L'organo giudicante decide anche quando l'interessato non risulti reperibile, o 
 
 ## CAPO XI - TRASFERIMENTI
 
-#### Art. 51
+### Art. 51
 
 Per i trasferimenti degli impiegati di ruolo degli uffici locali da una ad altra sede si applicano le disposizioni dell'articolo 32 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, salvo quanto diversamente disposto dalla presente legge.
 
@@ -664,7 +660,7 @@ In sede di ricorso, sia presso la Commissione provinciale, sia presso la Commiss
 
 Il direttore provinciale puo' disporre, nell'ambito della Provincia, l'applicazione temporanea o invio in missione del dipendente personale, eccettuati direttori di ufficio locale, anche in uffici principali.
 
-#### Art. 52
+### Art. 52
 
 Per i trasferimenti a domanda dei direttori di ufficio locale la Direzione centrale per gli uffici locali provvedera' a pubblicare, almeno ogni quadrimestre, gli elenchi degli uffici locali vacanti.
 
@@ -674,7 +670,7 @@ Il trasferimento sara' disposto con ordinanza del direttore centrale osservando 
 
 Tali istanze di trasferimento debbono essere formulate per gli uffici corrispondenti alla qualifica posseduta dal richiedente salvo quanto disposto dal primo comma del successivo articolo 53.
 
-#### Art. 53
+### Art. 53
 
 Gli impiegati con qualifica di direttore di ufficio locale di gruppo C ed E possono essere anche preposti, a domanda o d'ufficio, alla dirigenza di uffici locali di gruppo immediatamente superiore alla qualifica rivestita.
 
@@ -684,13 +680,13 @@ La norma di cui al comma precedente e' applicabile anche nei confronti degli imp
 
 ((Per i trasferimenti negli uffici di gruppo D e di gruppo B hanno la precedenza assoluta i direttori di ufficio locale che rivestono le qualifiche corrispondenti)).
 
-#### Art. 54
+### Art. 54
 
 In caso di riunione di due uffici locali, il direttore dell'ufficio soppresso viene trasferito ad un altro ufficio disponibile di gruppo corrispondente a quello cui apparteneva l'ufficio del quale era titolare, salvo quanto previsto dal precedente articolo 53 primo comma.
 
 ((Nel caso di classificazione di un'agenzia di un ufficio locale di gruppo D o di gruppo B al gruppo superiore, il titolare od il direttore puo' rimanere nello stesso ufficio in attesa che questo venga messo a concorso, purche' il direttore od il titolare abbia titolo a parteciparvi)).
 
-#### Art. 55
+### Art. 55
 
 Nel caso in cui un ufficio locale venga temporaneamente chiuso, il direttore, limitatamente al periodo in cui dura la temporanea chiusura, viene incaricato della dirigenza di altro ufficio locale dello stesso gruppo, possibilmente nella stessa sede, salvo quanto previsto dal primo comma del precedente articolo 53.
 
@@ -700,29 +696,29 @@ Ove, invece, si preveda che la chiusura temporanea si protragga per oltre due an
 
 ## CAPO XII. - DISPOSIZIONI VARIE
 
-#### Art. 56
+### Art. 56
 
 L'articolo 320, e seguenti, del regolamento organico dell'Amministrazione delle poste e dei telegrafi, approvato con regio decreto 14 ottobre 1906 n. 506, e successive modificazioni, si applicano, per quanto concerne le spese di ufficio, anche agli uffici locali ed agenzie.
 
 Rimangono in vigore gli obblighi assunti dai Comuni ed altri soggetti per provvedere gratuitamente ai locali e ad altre prestazioni.
 
-#### Art. 57
+### Art. 57
 
 I concorsi per posti disponibili di direttore di ufficio locale devono essere banditi almeno due volte l'anno.
 
 Gli scrutini per anzianita' congiunta al merito nei casi previsti dalla presente legge devono essere tenuti almeno ogni trimestre.
 
-#### Art. 58
+### Art. 58
 
 Ai fini del collocamento obbligatorio degli invalidi di guerra e categorie assimilate, previste dalle vigenti disposizioni, l'Amministrazione riserva agli interessati, limitatamente a quelli aventi una invalidita' di ottava e settima categoria, non oltre il cinque per cento complessivo dei posti che risultino vacanti al 1 gennaio di ogni anno nella qualifica iniziale della carriera degli ufficiali con esclusione di qualsiasi aliquota nella carriera ausiliaria.
 
-#### Art. 59
+### Art. 59
 
 Gli uffici locali di nuova istituzione sono affidati in reggenza ad un ufficiale di 1ª classe sempreche' idoneo.
 
 In mancanza, il direttore provinciale puo' affidare la reggenza ad altro ufficiale sempreche' in possesso dei requisiti indicati nel secondo comma del successivo articolo 60.
 
-#### Art. 60
+### Art. 60
 
 L'ufficiale delegato e' scelto dal direttore provinciale, sentito il direttore o reggente dell'ufficio locale, preferibilmente tra gli ufficiali di prima classe e, ove cio' non sia possibile, tra gli ufficiali, delle qualifiche inferiori, dello stesso ufficio.
 
@@ -738,7 +734,7 @@ Nei casi di sospensione o cessazione dall'impiego e nei casi di i trasferimento 
 
 Alla sostituzione del direttore o reggente degli uffici locali di limitata importanza si provvedera' con un ufficiale di un ufficio locale viciniore che abbia i requisiti di cui al precedente secondo comma.
 
-#### Art. 61
+### Art. 61
 
 All'ufficiale o al primo ufficiale che abbia la reggenza di un ufficio locale e' concessa, dopo novanta giorni continuativi di reggenza e per la successiva durata di questa, una indennita' corrispondente alla differenza tra lo stipendio iniziale della qualifica di appartenenza e quello iniziale spettante alla qualifica immediatamente superiore.
 
@@ -746,7 +742,7 @@ All'ufficiale o al primo ufficiale che abbia la reggenza di un ufficio locale e'
 
 Tale indennita' non e' pensionabile.
 
-#### Art. 62
+### Art. 62
 
 L'ufficiale che assume la titolarita' di una agenzia ai sensi del precedente articolo 10 diviene contabile secondario secondo le norme previste nel regolamento per l'amministrazione del patrimonio e per la contabilita' delle poste e dei telegrafi, approvato con regio decreto 8 maggio 1933, n. 841.
 
@@ -760,7 +756,7 @@ Nessuna responsabilita' assume il titolare dell'agenzia per le operazioni compiu
 
 Nei casi di sospensione o cessazione dall'impiego e nei casi di trasferimento dell'ufficiale incaricato della titolarita', o della reggenza, la gestione dell'ufficio viene assunta previo passaggio di amministrazione, con la presenza di un funzionario all'uopo delegato.
 
-#### Art. 63
+### Art. 63
 
 I primi ufficiali applicati negli uffici locali di gruppo A e B, oltre alle mansioni previste dal precedente articolo 18, coadiuvano i direttori degli uffici locali nello svolgimento dell'azione di controllo di cui al primo comma dell'articolo 21 del decreto del Presidente della Repubblica 5 giugno 1952, n. 656.
 
@@ -768,7 +764,7 @@ In tal caso i detti primi ufficiali assumono diretta responsabilita' per le oper
 
 Le disposizioni di cui al comma precedente si applicano anche agli ufficiali chiamati a svolgere tale funzione in sostituzione del primo ufficiale reggente dell'ufficio.
 
-#### Art. 64
+### Art. 64
 
 ((Le direzioni provinciali debbono tenere un elenco in cui sono iscritti, in ordine di presentazione della domanda, coloro i quali, possedendo i requisiti previsti dal presente articolo, intendano sostituire, ove si renda necessario, gli agenti addetti al recapito, allo scambio e trasporto degli effetti postali ed ai servizi di ricevitoria durante le assenze per congedo, malattia, od altro legittimo impedimento degli stessi)).
 
@@ -794,7 +790,7 @@ I sostituti possono essere chiamati a svolgere il servizio anche in Province lim
 
 I reggenti ed i sostituti non assumono verso i terzi, nell'esercizio delle loro funzioni, responsabilita' maggiore e diversa di quella attribuita, all'Amministrazione e da questa assunta.
 
-#### Art. 65
+### Art. 65
 
 Oltre che per brevi incarichi dovuti a sostituzione di agenti per congedo, malattia od altre cause, la reggenza puo' essere affidata anche per posti di nuova istituzione o vacanti per cessazioni o sospensioni dall'impiego e per chiamata o richiamo alle armi dell'agente.
 
@@ -822,7 +818,7 @@ Ai sostituti, cui e' affidata la reggenza, sono applicabili le punizioni dell'am
 
 Nei casi in cui sarebbero passibili di piu' gravi sanzioni si procede al loro esonero dalla reggenza.
 
-#### Art. 66
+### Art. 66
 
 I sostituti reggenti cessano dall'incarico oltre che nei casi previsti dalla presente legge anche per quelli appresso indicati:
 
@@ -844,17 +840,17 @@ La cancellazione dall'elenco non da' diritto ad alcun compenso ed essa puo' avve
 
 Il provvedimento e' disposto dal direttore provinciale; e' ammesso ricorso al direttore centrale degli uffici locali il quale decide in via definitiva.
 
-#### Art. 67
+### Art. 67
 
 I telegrammi e gli espressi recapitati dai fattorini oltre gli ottocento pezzi mensili sono da considerare prestazione straordinaria a cottimo con titolo al compenso di un'ora di straordinario per ogni dodici pezzi Si applicano le altre norme dell'articolo 12 della legge 27 maggio 1961, n. 465, in quanto possibile.
 
-#### Art. 68
+### Art. 68
 
 Laddove non sia possibile effettuare il recapito dei telegrammi ed espressi con un fattorino, l'Amministrazione provvede con prestatori d'opera autonomi incaricati di volta in volta e pagati ad opera nella misura e con le modalita' stabilite nel regolamento.
 
 ## CAPO XIII. - DISPOSIZIONI FINALI E TRANSITORIE
 
-#### Art. 69
+### Art. 69
 
 Nella prima attuazione della presente legge, gli uffici locali e le agenzie sono classificati secondo i punteggi seguenti:
 
@@ -878,13 +874,13 @@ Per la classificazione prevista dal presente articolo non si applicano gli artic
 
 La classifica, determinata ai sensi del precedente comma e' approvata con decreto del Ministro.
 
-#### Art. 70
+### Art. 70
 
 Dalla data di entrata in vigore della presente legge i direttori di ufficio locale saranno inquadrati nella qualifica corrispondente al gruppo in cui sara' classificato ai sensi del precedente articolo 69 l'ufficio, di cui sono titolari e dalla stessa data conseguiranno il relativo trattamento economico previsto dall'articolo 41 della presente legge.
 
 I direttori di ufficio locale che, in sede di primo inquadramento ai sensi del precedente comma manterranno la stessa qualifica, anche se con diverso trattamento economico, conserveranno, ad ogni effetto, la anzianita' di servizio gia' maturata nella qualifica stessa.
 
-#### Art. 71
+### Art. 71
 
 I titolari, le cui agenzie raggiungano non oltre 850 punti nella classifica prevista dal precedente articolo 69, possono conseguire, a domanda, la qualifica di direttore di ufficio locale di gruppo E dalla data di entrata in vigore della presente legge.
 
@@ -894,13 +890,13 @@ La domanda di cui al primo comma dovra' essere presentata alla Direzione provinc
 
 I titolari delle dette agenzie che non presenteranno la domanda saranno nominati con effetto dalla data di entrata in vigore della presente legge ufficiali di prima classe, salvo quanto previsto dal successivo articolo 80.
 
-#### Art. 72
+### Art. 72
 
 Ai fini dell'inquadramento nelle qualifiche di ufficiale di prima, seconda e terza classe della carriera, esecutiva degli uffici locali e' considerato utile, a tutti gli effetti, solo il servizio reso con iscrizione all'Albo nazionale previsto dall'articolo 46 del decreto del Presidente della Repubblica 5 giugno 1952, n. 656.
 
 Nella prima applicazione della presente legge l'anzianita' residua da quella occorrente per l'inquadramento nelle qualifiche di cui al precedente comma sara' valutata a tutti gli effetti.
 
-#### Art. 73
+### Art. 73
 
 Ai fini dell'inquadramento nelle qualifiche della carriera ausiliaria del personale degli uffici locali e' utile, a tutti gli effetti, il servizio prestato dal 1 luglio 1953, in qualita' di ricevitore e di portalettere. E' altresi' valido il servizio prestato dalla data di entrata in vigore della legge 5 marzo 1961, n. 211, con la qualifica di procaccia. Si procede all'inquadramento iniziando dalla qualifica di agente di terza classe.
 
@@ -908,19 +904,19 @@ Per quanto riguarda l'attribuzione degli aumenti periodici di stipendio si appli
 
 Gli addetti al servizio di recapito dei telegrammi ed espressi assunti alle dipendenze degli uffici locali con contratto di diritto privato ai sensi dell'articolo 2 della legge 27 febbraio 1958, n. 120, sono nominati fattorini e ad essi viene attribuito il trattamento economico corrispondente al coefficiente 150 previsto dall'articolo 41 della presente legge.
 
-#### Art. 74
+### Art. 74
 
 Qualora l'ammontare netto dello stipendio, derivante al personale dal primo inquadramento previsto dai precedenti articoli, risulti inferiore a quello netto in godimento prima dell'entrata in vigore della presente legge, la differenza e' conservata a titolo di assegno personale non pensionabile e non assoggettabile a ritenuta alcuna, da riassorbirsi con i successivi aumenti di stipendio a qualsiasi titolo.
 
-#### Art. 75
+### Art. 75
 
 Per cinque anni dalla data di pubblicazione della presente legge, il personale gia' in servizio al 30 settembre 1952 con le qualifiche di cui all'articolo 97 del decreto del Presidente della Repubblica 5 giugno 1952, n. 656, inquadrato nei ruoli previsti dalla presente legge, e' ammesso agli scrutini di anzianita' congiunta al merito ed ai concorsi di cui ai precedenti articoli purche' in possesso del titolo di studio di grado immediatamente inferiore a quello richiesto.
 
-#### Art. 76
+### Art. 76
 
 Nella prima applicazione della presente legge le disposizioni del precedente articolo 75 si applicano altresi' ai fini dell'inquadramento derivante dalle presenti norme.
 
-#### Art. 77
+### Art. 77
 
 I posti disponibili a qualsiasi titolo nella qualifica iniziale della carriera esecutiva del personale degli uffici locali dal 1 gennaio 1964 al 31 dicembre 1965, nonche' quelli che verranno in aumento per effetto della presente legge, saranno conferiti mediante un concorso per titoli riservato:
 
@@ -944,7 +940,7 @@ L'assunzione in servizio sara' fatta seguendo l'ordine della graduatoria approva
 
 Non saranno comunque assunti in servizio coloro che entro il 31 dicembre 1965 non dimostrino di possedere il titolo di studio di cui al precedente comma. Da tale obbligo sono esclusi gli ex supplenti di cui alla, precedente lettera e).
 
-#### Art. 78
+### Art. 78
 
 I posti, disponibili a qualsiasi titolo nella qualifica iniziale della carriera ausiliaria del personale degli uffici locali fino al 31 dicembre 1965, saranno conferiti mediante concorso per titoli riservato;
 
@@ -958,7 +954,7 @@ Ai fini dell'ammissione a tale concorso si prescinde dal limite massimo di eta' 
 
 Non potranno conseguire la nomina di cui al precedente primo comma coloro i quali entro il 31 dicembre 1965 non dimostrino di possedere il titolo di studio di licenza elementare.
 
-#### Art. 79
+### Art. 79
 
 Per le assegnazioni senza concorso di agenzie, di posti di ricevitore o portalettere e di procaccia, previste dagli articoli 14 e 62 del decreto del Presidente della Repubblica 5 giugno 1952, n. 656, e successive modificazioni, nonche' dall'articolo 6 della legge 5 marzo 1961, n. 211, la cui vacanza o trasformazione non sia stata, ancora pubblicata sul Bollettino ufficiale del Ministero alla data di pubblicazione della presente legge, la domanda di assegnazione deve essere presentata, a pena di decadenza entro il termine di sessanta giorni dalla data predetta.
 
@@ -970,7 +966,7 @@ La nomina sara' disposta con decreto del Ministro per le poste e le telecomunica
 
 Essa avra' effetto dalla data di emissione del provvedimento. Nei confronti dei titolari di ricevitorie trasformate in agenzie le nomine decorrono, invece, dalla data della trasformazione.
 
-#### Art. 80
+### Art. 80
 
 Le disposizioni previste per le assegnazioni senza concorso dall'articolo 14, lettere a), b) e c), del decreto del Presidente della Repubblica 5 giugno 1952, n. 656, modificato dall'articolo 1 della legge 27 febbraio 1958, n. 120, conservano la loro efficacia nei confronti degli aventi titolo alla titolarita' di agenzie che si rendano vacanti entro novanta giorni dalla data di pubblicazione della presente legge.
 
@@ -994,7 +990,7 @@ Gli aspiranti aventi titolo all'assegnazione senza concorso che abbiano assunto 
 
 A coloro che assumono la reggenza successivamente alla data di pubblicazione della presente legge compete il trattamento economico iniziale previsto dall'articolo 54 della legge 27 febbraio 1958, n. 119, per gli impiegati non di ruolo di 3ª categoria.
 
-#### Art. 81
+### Art. 81
 
 Le disposizioni previste per le assegnazioni senza concorso di posti di ricevitore o portalettere dall'articolo 62, lettere a) e b), del decreto del Presidente della Repubblica 5 giugno 1952, n. 656, modificato dall'articolo 4 della legge 27 febbraio 1958, n. 120, nonche' di posti di procaccia previste dall'articolo 6, lettere a) e b), della legge 5 marzo 1961, n. 211, conservano la loro efficacia nel confronti degli aventi titolo al conferimento senza concorso della titolarita' dei posti resisi vacanti fino a novanta giorni dalla data di pubblicazione della presente legge, sempreche' i titolari dei posti dichiarino esplicitamente di rinunciare all'inquadramento previsto dai precedenti articoli.
 
@@ -1010,15 +1006,15 @@ La nomina viene disposta con decreto del Ministro per le poste e le telecomunica
 
 In caso di decesso del titolare di posto di ricevitoria o portalettere nonche' di procaccia, verificatosi entro novanta giorni dalla data di pubblicazione della presente legge, le disposizioni del precedente primo comma si applicano anche quando non sia stata presentata dichiarazione di rinuncia all'inquadramento.
 
-#### Art. 82
+### Art. 82
 
 I titolari di agenzia, i ricevitori, i portalettere ed i procaccia i cui posti vengono assegnati senza concorso ai sensi dei precedenti articoli 80 e 81 cessano dal servizio, a tutti gli effetti, con la qualifica rivestita prima della pubblicazione della presente legge.
 
-#### Art. 83
+### Art. 83
 
 I direttori di ufficio locale, i titolari di agenzia, gli ufficiali dell'albo nazionale, i ricevitori, i portalettere, i procaccia, i fattorini assunti con contratto di diritto privato i quali, in servizio alla data di entrata in vigore della presente legge, cessino dal servizio prima della emissione del provvedimento di inquadramento di chi alla presente legge, conseguiranno, egualmente, a tutti gli effetti, le nomine previste dai precedenti articoli 70, 71, 72 e 73 salvo quanto disposte dall'articolo 82 della presente legge.
 
-#### Art. 84
+### Art. 84
 
 In sostituzione dei servizi di trasporto, scambio e recapito degli oggetti postali, affidati in accessorio alle agenzie, ai sensi dell'articolo 28 del decreto del Presidente della Repubblica 5 giugno 1952, n. 656, modificato dall'articolo 1 della legge 27 febbraio 1958, n. 120, l'Amministrazione, entro un biennio dalla data di pubblicazione della presente legge, provvedera' a dare conveniente organizzazione ai servizi, tenendo conto anche della durata della prestazione delle zone viciniori.
 
@@ -1026,21 +1022,21 @@ Nel frattempo l'incaricato del servizio in accessorio potra' continuare a presta
 
 Gli incaricati dei servizi in accessorio, dopo la riorganizzazione dei servizi di cui al precedente primo comma, saranno iscritti d'ufficio nell'elenco dei sostituti, previsto dal precedente articolo 64, sempreche' siano in possesso di tutti i requisiti prescritti, ad eccezione del limite massimo di eta', che e' elevato ad anni 45.
 
-#### Art. 85
+### Art. 85
 
 I prestatori d'opera, i quali ai sensi del primo comma dell'articolo 29 bis del decreto del Presidente della Repubblica 5 giugno 1952, n. 656, inserito dall'articolo 2 della legge 27 febbraio 1958, n. 120, nell'ultimo esercizio finanziario precedente la data di pubblicazione della presente legge, hanno recapitato, in media, almeno ottocento oggetti, possono partecipare al concorso per la qualifica iniziale della carriera ausiliaria del personale di ruolo degli uffici locali, previsto dal precedente articolo 78, purche' siano in possesso dei requisiti ivi prescritti.
 
-#### Art. 86
+### Art. 86
 
 Sino a quando non sara' emanato il decreto ministeriale, previsto dall'articolo 6, per la istituzione e modificazione delle zone di portalettere e dei servizi di procacciato rimangono in vigore i criteri vigenti alla data di pubblicazione della presente legge.
 
-#### Art. 87
+### Art. 87
 
 Sono confermati gli assegni quantitativi del personale ufficiali autorizzati anteriormente alla data di pubblicazione della presente legge.
 
 Gli assegni del personale ufficiali, e la scorta, degli uffici locali di nuova istituzione e le eventuali variazioni degli assegni di cui ai primo comma sono stabiliti con le modalita' previste dall'articolo 10 della presente legge.
 
-#### Art. 88
+### Art. 88
 
 Il personale, che, alla data di pubblicazione della presente legge, e' preposto alla reggenza di agenzie vacanti, di ricevitorie o di posti di portalettere vacanti, nonche' di posti di procacciato vacanti, continua nell'incarico fino a quando non vi venga applicato un titolare.
 
@@ -1048,21 +1044,21 @@ Il personale di cui al comma precedente, per il periodo in cui continua l'incari
 
 Gli ufficiali provvisori, nominati ai sensi dell'articolo 66 del Regolamento, approvato con decreto presidenziale 19 luglio 1960, n. 1816, in servizio alla data di pubblicazione della presente legge, conservando, il trattamento economico in godimento.
 
-#### Art. 89
+### Art. 89
 
 Per quanto concerne le spese di gestione degli uffici locali e delle agenzie, fino a quando l'Amministrazione non emanera' disposizioni per l'attuazione di quanto previsto dal precedente articolo 56 si applicano, per non oltre un biennio dalla data di pubblicazione della presente legge, le norme contenute nell'articolo 29 del decreto del Presidente della Repubblica 5 giugno 1952, n. 656, modificato dall'articolo 1 della legge 27 febbraio 1958, n. 120.
 
-#### Art. 90
+### Art. 90
 
 I sostituti ricevitori, i sostituti portalettere e i sostituti procaccia, i quali, alla data di pubblicazione della, presente legge, rivestono tali qualifiche, saranno iscritti d'ufficio nell'elenco dei sostituti della rispettiva Provincia, con precedenza sugli altri aspiranti, sempreche' siano in possesso di tutti i requisiti previsti dal precedente articolo 64 ad eccezione del limite di eta' che e' fissato in anni quarantacinque.
 
-#### Art. 91
+### Art. 91
 
 I ricevitori, i portalettere ed i procaccia che, in sede di prima applicazione della presente legge, conseguono l'inquadramento nella carriera ausiliaria del personale di ruolo degli uffici locali, in servizio in posti di lavoro che richiedono una prestazione inferiore a quella normale possono essere applicati, per l'integrazione della prestazione giornaliera, a mansioni interne nell'ufficio da cui l'agente dipende.
 
 Ove non sia possibile fare eseguire tale integrazione ed in attesa della riorganizzazione del servizio, il trattamento economico degli agenti interessati e' corrisposto in proporzione al numero delle ore lavorative stabilite nel decreto di istituzione del posto e successive modificazioni, ferma restando la possibilita' di applicarli in altra sede avente posti vacanti a prestazione intera.
 
-#### Art. 92
+### Art. 92
 
 Il primo comma dell'articolo 34 del decreto del Presidente della Repubblica 5 giugno 1952, n. 656, modificato dall'articolo 3 della legge 27 febbraio 1958, n. 120, e' sostituito dai seguenti:
 
@@ -1070,11 +1066,11 @@ Il primo comma dell'articolo 34 del decreto del Presidente della Repubblica 5 gi
 
 La cessazione del rapporto di servizio per dimissioni o per collocamento a riposo e' disposta con provvedimento del direttore centrale per gli uffici locali, o, per sua delega, del direttore provinciale".
 
-#### Art. 93
+### Art. 93
 
 La dispensa dal servizio per motivi di salute degli impiegati di ruolo degli uffici locali, i quali abbiano accettato il giudizio di inidoneita' fisica al servizio, espresso da un sanitario fiscale, e disposta con provvedimento definitivo del direttore centrale per gli uffici locali.
 
-#### Art. 94
+### Art. 94
 
 Nel caso che l'impiegato non accetti il giudizio del medico fiscale, sara' sottoposto a visita di controllo da effettuarsi da un collegio medico.
 
@@ -1088,7 +1084,7 @@ Nel caso in cui il giudizio del Collegio medico non concordi con quello emesso d
 
 Sia alla visita da effettuarsi dal Collegio medico, sia a quella del medico provinciale, l'impiegato ha diritto di falsi assistere da un medico di propria fiducia.
 
-#### Art. 95
+### Art. 95
 
 Ove l'inidoneita', al servizio espressa dal medico fiscale sia attribuita a malattie contratte in servizio e per cause di servizio l'impiegato sara' sottoposto a visita medica collegiale con le norme e cautele di cui al comma secondo e terzo dell'articolo 1 del decreto del Capo provvisorio dello Stato del 20 agosto 1947, n. 1711.
 
@@ -1102,13 +1098,13 @@ La dispensa dal servizio prevista dal presente articolo e dal precedente e' adot
 
 Avverso il detto provvedimento e' ammesso ricorso dal Ministro che decide sentita la Commissione centrale per gli uffici locali.
 
-#### Art. 96
+### Art. 96
 
 La dispensa dal servizio per motivi di salute decorre dalla data in cui l'impiegato e' stato dichiarato inidoneo dall'ultimo organo sanitario al quale e' stato sottoposto a visita medica o dalla scadenza della durata massima dell'aspettativa, permanendo l'inidoneita' al servizio.
 
 Si applicano le disposizioni del primo comma dello articolo 71 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
 
-#### Art. 97
+### Art. 97
 
 Coloro che conseguono la nomina nella qualifica iniziale della carriera, esecutiva e di quella ausiliaria, del personale degli uffici locali sono iscritti al fondo per il trattamento di quiescenza di cui all'articolo 77 del decreto del Presidente della Repubblica 5 giugno 1952, n. 656.
 
@@ -1122,7 +1118,7 @@ Il termine previsto dall'articolo 3 della legge 25 gennaio 1960, n. 4, per la pr
 
 Il personale dell'Istituto postelegrafonici e' iscritto, a domanda, senza alcun onere per l'Amministrazione postale e telegrafica, al Fondo di quiescenza di cui all'articolo 77 del decreto del Presidente della Repubblica 5 giugno 1952, n. 656, alle condizioni, con le modalita' e nei termini stabiliti per il personale degli uffici locali.
 
-#### Art. 98
+### Art. 98
 
 Le nomine dei vincitori del concorso per ufficiali A.N., previsto dall'articolo 83 della legge 31 dicembre 1961, n. 1406, saranno conferite nella qualifica iniziale della carriera esecutiva del personale di ruolo degli uffici locali.
 
@@ -1134,23 +1130,23 @@ Il concorso per posti di direttore di ufficio locale e di titolare di agenzia, i
 
 Nel caso che alcuni uffici messi a concorso restino scoperti per rinuncia o perche' non richiesti, si applica quanto previsto dall'ultimo comma dell'articolo 25 della presente legge.
 
-#### Art. 99
+### Art. 99
 
 Il direttore generale di amministrazione, il direttore centrale per gli uffici locali e le agenzie e il direttore provinciale delle poste e delle telecomunicazioni esercitano, oltre alle attribuzioni di loro competenza a norma di legge e di regolamento in materia di uffici locali, agenzie, recapiti, ricevitorie e servizi di portalettere, anche quelle di carattere amministrativo che saranno ad essi delegate con decreto del Ministro.
 
-#### Art. 100
+### Art. 100
 
 Entro diciotto mesi dalla data di pubblicazione della presente legge dovra' essere emanato il regolamento di esecuzione al decreto del Presidente della Repubblica 5 giugno 1952, n. 636, a successive modificazioni.
 
 Fino a quando non sara', pubblicato il regolamento di cui al comma precedente, resteranno in vigore, in quanto non siano contrarie alle disposizioni della presente legge, le norme del regolamento approvato con decreto del Presidente della Repubblica 19 luglio 1960, numero 1816.
 
-#### Art. 101
+### Art. 101
 
 Dalla data di entrata in vigore della presente legge il titolare di agenzia facente parte delle Commissioni per gli uffici locali di cui agli articoli 72, lettera, e) e 73, lettera d) del decreto del Presidente della Repubblica 5 giugno 1952, n. 656, e' sostituito dall'ufficiale della carriera esecutiva del personale degli uffici locali eletto ai sensi dell'articolo 32 della legge 31 dicembre 1961, numero 1406.
 
 Nella prima applicazione della presente legge i titolari di agenzia, gia' membri eletti delle Commissioni di cui al precedente comma, che opteranno per la qualifica di ufficiale continueranno a farne parte sino alla scadenza del loro mandato prevista dal citato articolo 32.
 
-#### Art. 102
+### Art. 102
 
 Alla scadenza del mandato dei rappresentanti del personale in seno alla Commissione centrale per gli uffici locali, prevista dall'articolo 32 della legge 31 dicembre 1961, n. 1406, la Commissione centrale per gli uffici locali e' composta:
 
@@ -1180,7 +1176,7 @@ In caso di nomina sostitutiva, il prescelto dura in carica fino al compimento de
 
 La nomina a membri effettivi e supplenti dei rappresentanti del personale, di cui alla lettera e) del presente articolo, e' fatta sulla base dei risultati delle elezioni previste dal citato articolo 32 della succitata legge numero 1406.
 
-#### Art. 103
+### Art. 103
 
 Alla scadenza del mandato dei rappresentanti del personale in seno alla Commissione provinciale per gli uffici locali, prevista dall'articolo 32 della legge 31 dicembre 1961, n. 1406, le Commissioni provinciali per gli uffici locali sono composte:
 
@@ -1208,7 +1204,7 @@ In caso di nomina sostitutiva, il prescelto dura in carica fino al compimento de
 
 La nomina a membri effettivi e supplenti dei rappresentanti del personale, di cui alla lettera d) del presente articolo, e' fatta sulla base dei risultati delle elezioni previste dall'articolo 32 della succitata legge 31 dicembre 1961, n. 1406.
 
-#### Art. 104
+### Art. 104
 
 Sono abrogati gli articoli 4, secondo comma, 7, escluso il penultimo comma, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 23, 24, 26, 27, 28, 29, 31, 32, 33, 35, 36, 37, 39, 40, 42, 43, 44, 45, 46, 47, 49, 50, 52, 53, 54, 55, 56, 58, 59, da 60 a 70, 94 del decreto del Presidente della Repubblica 5 giugno 1952, n. 656, e successive modificazioni.
 
@@ -1220,11 +1216,11 @@ E' abrogato l'articolo 81 della legge 31 dicembre 1961, n. 1406.
 
 Sono altresi' abrogate tutte le altre norme incompatibili con la presente legge.
 
-#### Art. 105
+### Art. 105
 
 La presente legge entra in vigore dal primo giorno del mese successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
-#### Art. 106
+### Art. 106
 
 Negli stati di previsione dell'entrata e della spesa dell'Azienda di Stato per i servizi telefonici, per l'esercizio finanziario 1962-1963, sono introdotte le seguenti variazioni in aumento:
 
@@ -1234,13 +1230,13 @@ Capitolo n. 1: proventi del traffico, telefonico interurbano e delle sopratasse 
 
 Capitolo n. 68: avanzo di gestione da versare al Tesoro, giusta il disposto dell'articolo 26, ultimo comma, del regio decreto-legge 14 giugno 1925, n. 881, convertito nella legge 18 marzo 1926, n. 562, lire 2 miliardi.
 
-#### Art. 107
+### Art. 107
 
 Nello stato di previsione dell'entrata per l'esercizio finanziario 1962-1963 e' introdotta la seguente variazione in aumento:
 
 Capitolo n. 22: avanzo di gestione della Azienda di Stato per i servizi telefonici (articolo 26 del regio decreto-legge 14 giugno 1925, n. 884, convertito in legge 18 marzo 1926, n. 562), lire 2.000.000.000.
 
-#### Art. 108
+### Art. 108
 
 All'onere derivante dall'applicazione della presente legge, per l'esercizio finanziario 1962-1963, si provvedera' con la maggiore disponibilita' di cui all'articolo precedente.
 

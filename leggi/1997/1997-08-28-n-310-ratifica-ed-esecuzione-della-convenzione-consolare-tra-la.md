@@ -27,21 +27,21 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+#### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la convenzione consolare tra la Repubblica italiana e la Repubblica di Mauritius, fatta a Port Louis il 28 gennaio 1993, con scambio di lettere interpretativo dell'articolo 17, effettuato nelle date 1 dicembre 1995 e 10 gennaio 1996.
 
-### Art. 2
+#### Art. 2
 
 1\. Piena ed intera esecuzione e' data alla convenzione di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore in conformita' a quanto disposto dall'articolo 63 della convenzione stessa.
 
-### Art. 3
+#### Art. 3
 
 1\. All'onere derivante dall'attuazione della presente legge, valutato in lire 37 milioni di lire annue per ciascuno degli anni 1997 e 1999, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1997-1999, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1997, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri.
 
 2\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-### Art. 4
+#### Art. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -55,7 +55,7 @@ PRODI, Presidente del Consiglio dei Ministri
 
 DINI, Ministro degli affari esteri Visto, il Guardasigilli: FLICK
 
-## Capitolo I - Disposizioni preliminari
+### Capitolo I - Disposizioni preliminari
 
 CONVENZIONE CONSOLARE
 
@@ -85,7 +85,7 @@ Parte di provvedimento in formato grafico
 
 i quali dopo aver scambiato i pieni poteri, constatati in buona e debita forma, hanno convenuto quanto segue:
 
-### Articolo 1
+#### Articolo 1
 
 Definizioni
 
@@ -125,7 +125,7 @@ Esistono due categorie di funzionari consolari: i funzionari consolari di carrie
 
 ## Titolo II - Stabilimento e conduzione delle relazioni consolari
 
-### Articolo 2
+#### Articolo 2
 
 Stabilimento di un Ufficio consolare
 
@@ -143,7 +143,7 @@ puo' esigere che essa sia mantenuta nei limiti di cio' che
 
 detto Stato ritiene ragionevole e normale, in considerazione delle circostanze e condizioni esistenti nella circoscrizione consolare e con riguardo alle esigenze della sede consolare in questione.
 
-### Articolo 3
+#### Articolo 3
 
 Nomina ed assunzione di funzioni dei funzionari consolari
 
@@ -157,13 +157,13 @@ Nomina ed assunzione di funzioni dei funzionari consolari
 
 5\. L'exequatur puo' essere rifiutato o ritirato solo per gravi motivi. Lo stesso vale per il diniego all'esercizio delle proprie funzioni o per la richiesta di richiamo di funzionari consolari che non siano Capi dell'Ufficio.
 
-### Articolo 4
+#### Articolo 4
 
 Notifica alle autorita' della circoscrizione consolare
 
 Dal momento in. cui il Capo. dell'Ufficio Consolare viene ammesso, anche a titolo provvisorio, all'esercizio delle sue funzioni, lo Stato di residenza e' tenuto ad informare le Autorita' competenti della circoscrizione consolare; esso e' altresi' tenuto a vigilare che siano adottate le misure necessarie affinche' il Capo dell'Ufficio consolare possa adempiera agli obblighi propri del suo incarico nonche' beneficiare del trattamento previsto dalle disposizioni della presente Convenzione.
 
-### Articolo 5
+#### Articolo 5
 
 Nomina degli altri membri dell'Ufficio consolare
 
@@ -171,7 +171,7 @@ Nomina degli altri membri dell'Ufficio consolare
 
 2\. Lo Stato di residenza puo', al momento della notifica o successivamente, rifiutare o cessare di riconoscere ogni persona in qualita' di impiegato consolare o di membro del personale di servizio. In tal caso, lo Stato d'invio, a seconda dei casi, richiama la persona in questione o pone fine alle sue funzioni consolari.
 
-### Articolo 6
+#### Articolo 6
 
 Esercizio di funzioni consolari da parte di una missione diplomatica 1. Le disposizioni della presente Convenzione si applicano altresi', nella misura in cui il contesto lo consente, all'esercizio delle funzioni consolari da parte di una missione diplomatica.
 
@@ -185,7 +185,7 @@ b) alle autorita' centrali dello stato di residenza se le leggi, regolamenti ed 
 
 4\. L'esercizio di funzioni consolari da parte dei membri di una missione diplomatica di cui al paragrafo 1 del presente articolo non pregiudica i privilegi e le immunita' di cui godono nella loro qualita' di membri del personale diplomatico di detta missione.
 
-### Articolo 7
+#### Articolo 7
 
 Esercizio interinale delle funzioni di Capo dell'Ufficio Consolare 1. Se il Capo dell'Ufficio consolare e' impossibilitato ad esercitare le sue funzioni o se la sua carica e' vacante, lo Stato d'invio puo' designare una persona per dirigere temporaneamente l'Ufficio consolare. Tale designazione e' notificata al Ministero degli Affari Esteri dello Stato di residenza.
 
@@ -195,7 +195,7 @@ Il Capo dell'Ufficio consolare interinale cosi' designato beneficia dei privileg
 
 3\. Quando un membro del personale diplomatico della missione diplomatica dello Stato d'invio nello Stato di residenza e' designato a dirigere temporaneamente l'Ufflcio consolare, secondo il paragrato 1 del presente articolo, esso continua a beneficiare dei privilegi e delle immunita' diplomatiche se lo Stato di residenza non vi si oppone.
 
-### Articolo 8
+#### Articolo 8
 
 Notifica allo Stato di residenza delle nomine degli arrivi e delle partenze
 
@@ -209,9 +209,9 @@ c) l'arrivo nello Stato di residenza e la partenza definitiva da questo Stato de
 
 d) l'assunzione e la cessazione di funzioni in un Ufficio consolare degli impiegati consolari e dei membri del personale di servizio ingaggiati nello Stato di residenza.
 
-## CAPITOLO III - PRIVILEGI ED IMMUNITA' RELATIVE AGLI UFFICI CONSOLARI, AI FUNZIONARI CONSOLARI DI CARRIERA E AD ALTRI MEMBRI DI UN UFFICIO CONSOLARE
+### CAPITOLO III - PRIVILEGI ED IMMUNITA' RELATIVE AGLI UFFICI CONSOLARI, AI FUNZIONARI CONSOLARI DI CARRIERA E AD ALTRI MEMBRI DI UN UFFICIO CONSOLARE
 
-### Articolo 9
+#### Articolo 9
 
 Locali ed alloggi
 
@@ -231,7 +231,7 @@ Lo Stato di residenza deve anche, ove occorra, aiutare l'Ufficio consolare ad ot
 
 3\. Le di posizioni del presente articolo non esimono lo Stato d'invio dal rispetto dei regolamenti edilizi e urbanistici applicabili nella zona nella quale sono situati i beni immobili.
 
-### Articolo 10
+#### Articolo 10
 
 Uso della bandiera e degli stemmi nazionali
 
@@ -241,7 +241,7 @@ Uso della bandiera e degli stemmi nazionali
 
 3\. Ciascuna Parte contraente ne assicurera' il rispetto e la protezione.
 
-### Articolo 11
+#### Articolo 11
 
 Esenzione da requisizione
 
@@ -255,7 +255,7 @@ b) i mezzi di trasporto dell'Ufficio Consolare;
 
 Inoltre dovra' essere corrisposto, in caso di esproprio, un indennizzo pronto, adeguato ed effettivo che potra' essere liberamente trasferito allo Stato d'invio in un lasso di tempo ragionevole.
 
-### Articolo 12
+#### Articolo 12
 
 Esenzione fiscale dei locali consolari
 
@@ -269,7 +269,7 @@ b) l'acquisto, la proprieta', il possesso o l'utilizzazione, conformi alle dispo
 
 3\. L'esenzione fiscale di cui al paragrafo 1 del presente articolo non si applica a queste imposte e tasse se, secondo le leggi ed i regolamenti dello Stato di residenza, esse sono a carico della persona che ha contrattato con lo Stato d'invio o con la persona agente per conto di tale Stato.
 
-### Articolo 13
+#### Articolo 13
 
 Inviolabilita' dei locali consolari e della residenza del Capo dell'Ufficio Consolare
 
@@ -277,13 +277,13 @@ I locali consolari e la residenza del Capo dell'Ufficio consolare di carriera so
 
 In ogni caso tale consenso e' presunto in caso di incendio o di altri sinistri che esigano misure immediate di protezione.
 
-### Articolo 14
+#### Articolo 14
 
 Inviolabilita' dell'archivio e dei documenti consolari
 
 In conformita' ai principi riconosciuti di diritto internazionale, gli archivi e tutti gli altri documenti e registri sono in ogni tempo ed in ogni luogo inviolabili, e le Autorita' dello Stato di residenza non possono, con qualsivoglia pretesto, esaminarli o confiscarli.
 
-### Articolo 15
+#### Articolo 15
 
 Agevolazioni concesse all'Ufficio consolare per l'adempimento delle sue funzioni.
 
@@ -293,7 +293,7 @@ Agevolazioni concesse all'Ufficio consolare per l'adempimento delle sue funzioni
 
 3\. Con riserva delle disposizioni dell'articolo 13, lo Stato di residenza ha l'obbligo particolare di adottare tutti i provvedimenti appropriati per tutelare i locali consolari da intrusioni o danneggiamenti e per impedire che la tranquillita' dell'ufficio consolare sia turbata o che la sua dignita' sia sminuita.
 
-### Articolo 16
+#### Articolo 16
 
 Esenzione dalla registrazione e dal permesso di soggiorno
 
@@ -301,7 +301,7 @@ Esenzione dalla registrazione e dal permesso di soggiorno
 
 2\. Tuttavia, le disposizioni del paragrafo 1 del presente articolo non si applicano ne' all'impiegato consolare che non e' impiegato permanente dello Stato d'invio o che esercita un'attivita' privata a carattere lucrativo nello Stato di residenza, ne' ad un membro della sua famiglia.
 
-### Articolo 17
+#### Articolo 17
 
 Esenzione dal permesso di lavoro
 
@@ -309,7 +309,7 @@ Esenzione dal permesso di lavoro
 
 2\. I membri del personale privato dei funzionari ed impiegati consoIari, che non esercitano altra attivita' privata a carattere lucrativo nello Stato di residenza, sono esenti dagli obblighi di cui al paragrato 1 del presente articolo.
 
-### Articolo 18
+#### Articolo 18
 
 Esenzione dal regime di sicurezza sociale
 
@@ -325,13 +325,13 @@ b) siano assoggettati alle disposizioni sulla sicurezza sociale vigenti nello St
 
 4\. L'esenzione prevista ai paragrafi 1 e 2 del presente articolo non esclude la partecipazione volontaria al regime di sicurezza sociale dello Stato di residenza, nel caso in cui tale partecipazione e' prevista da detto Stato.
 
-### Articolo 19
+#### Articolo 19
 
 Liberta' di movimento
 
 Con riserva delle leggi e dei regolamenti dello Stato di residenza relativi a zone il cui accesso e' vietato o regolamentato per ragioni di sicurezza nazionale, ogni membro dell'ufficio consolare e' autorizzato a circolare liberamente nello Stato di residenza.
 
-### Articolo 20
+#### Articolo 20
 
 Liberta' di comunicazione
 
@@ -357,7 +357,7 @@ Tuttavia, se le Autorita' competenti dello Stato di residenza hanno seri motivi 
 
 In base ad intese con le Autorita' locali competenti, l'Ufficio consolare puo' inviare i suoi membri per ritirare, direttamente e liberamente, la valigia dalle mani del comandante della nave o dell'aeromobile.
 
-### Articolo 21
+#### Articolo 21
 
 Diritti e tasse consolari
 
@@ -365,7 +365,7 @@ Diritti e tasse consolari
 
 2\. Lo Stato d'invio e' esente da imposte e tasse di qualsiasi natura stabilite o percepite dallo Stato di residenza sulle somme riscosse di cui al paragrafo 1 del presente articolo, nonche' sulle relative ricevute.
 
-### Articolo 22
+#### Articolo 22
 
 Esenzione fiscale
 
@@ -387,7 +387,7 @@ f) delle imposte di registrazione, giudiziarie, di ipoteca e di bollo, fatta ris
 
 3\. I membri dell'Ufficio consolare che impiegano persone il cui salario o corrispettivo non e' esente dalle imposte sul reddito nello Stato di residenza, devono rispettare gli obblighi imposti ai datori di lavoro dalle leggi e dai regolamenti di detto Stato in materia di riscossione dell'imposta sul reddito.
 
-### Articolo 23
+#### Articolo 23
 
 Esenzione dai diritti doganali e dal controllo doganale
 
@@ -401,7 +401,7 @@ b) i beni destinati all'uso personala del funzionario consolare e dei membri del
 
 3\. Il bagaglio personale accompagnato dei funzionari consolari e dei loro familiari conviventi e' esente dal controllo doganale. Esso puo' essere ispezionato solo nel caso in cui vi siano seri motivi di ritenere che contenga oggetti diversi da quelli citati alla lettera "b" del paragrafo 1 del presente articolo, ovvero oggetti la cui importazione o esportazione e' vietata dalle leggi e dai regolamenti dello Stato di residenza o soggetta alle sue leggi e regolamenti di quarantena. Tali ispezioni possono essere effettuate solo in presenza del funzionario consolare o del membro della sua famiglia interessato.
 
-### Articolo 24
+#### Articolo 24
 
 Successione di un membro dell'Ufficio consolare o di un membro della sua famiglia
 
@@ -411,7 +411,7 @@ In caso di decesso di un membro dell'Ufficio consolare o di un membro della sua 
 
 2\. non esigere il pagamento di diritti di successione ne' di passaggio di proprieta' nazionali, regionali o comunali relativamente ai beni mobili la cui presenza nello Stato di residenza era dovuta unicamente alla presenza in detto Stato del defunto in qualita' di membro dell'Ufficio consolare o della famiglia di un membro dell'Ufficio consolare.
 
-### Articolo 25
+#### Articolo 25
 
 Inviolabilita' personale dei funzionari consolari
 
@@ -421,13 +421,13 @@ Inviolabilita' personale dei funzionari consolari
 
 3\. Se un procedimento penale e' promosso contro un funzionario consolare, questi e' tenuto a presentarsi davanti alle Autorita' competenti. Tuttavia, tale procedimento deve essere condotto con i riguardi dovuti al funzionario consolare in considerazione della sua posizione ufficiale e, ad eccezione del caso di cui al paragrafo 1 del presente articolo, in maniera da ostacolare il meno nossibile l'esercizio delle funzioni consolari. Qualora, nelIe circostanze di cui al paragrafo 1 del presente articolo, si renda necessario porre un funzionario consolare in stato di detenzione preventiva, il procedimento intentato nei suoi confronti dovra' iniziare nei termini piu' brevi.
 
-### Articolo 26
+#### Articolo 26
 
 Notifica di casi di arresto di detenzione o di Procedimento
 
 In caso di arresto, di detenzione preventiva di un membro del personale consolare o di procedimento penale intentato contro lo stesso, lo Stato di residenza e' tenuto ad informarne il prima possibile il Capo dell'Ufficio consolare. Se detti provvedimenti sono diretti nei suoi confronti, lo Stato di residenza deve informarne lo Stato di invio per via diplomatica.
 
-### Articolo 27
+#### Articolo 27
 
 Immunita' dalla giurisdizione
 
@@ -439,7 +439,7 @@ a) coneguente alla stipula di un contratto da parte di un funzionario o di un im
 
 b) intentata da un terzo per danni derivanti da un incidente causato nello Stato di residenza da un veicolo, da una nave, o da un aeromobile.
 
-### Articolo 28
+#### Articolo 28
 
 Obbligo di prestare testimonianza
 
@@ -453,7 +453,7 @@ Essa puo' ricevere la sua testimonianza presso la sua residenza o l'Ufficio Cons
 
 Essi hanno altresi' diritto di rifiutare di testimoniare in qualita' di esperti sul diritto nazionale dello Stato d'invio.
 
-### Articolo 29
+#### Articolo 29
 
 Rinuncia ai privilegi ed alle immunita'
 
@@ -465,19 +465,19 @@ Rinuncia ai privilegi ed alle immunita'
 
 4\. La rinuncia alla immunita' giurisdizionale per un'azione civile o amministrativa non comporta rinuncia all'immunita' relativamente alle misure di esecuzione della sentenza, per le quali e' necessaria una rinuncia distinta.
 
-### Articolo 30
+#### Articolo 30
 
 Osservanza delle leggi e dei regolamenti dello Stato di residenza Senza alcun pregiudizio dei propri privilegi ed immunita', tutte le persone che ne beneficiano hanno il dovere di rispettare le leggi ed i regolamenti dello Stato di residenza, in particolare i regolamenti relativi alla circolazione.
 
 Esse hanno anche il dovere di non interferire negli affari interni di tale Stato.
 
-### Articolo 31
+#### Articolo 31
 
 Assicurazioni contro danni causati a terzi
 
 I membri dell'Ufficio consolare devono conformarsi a tutti gli obblighi prescritti dalle leggi e dai regolamenti dello Stato di residenza in materia di assicurazione sulla responsabilita' civile per l'utilizzazione di ogni veicolo, nave o aeromobile.
 
-### Articolo 32
+#### Articolo 32
 
 Disposizioni generali concernenti i privilegi ed immunita'
 
@@ -487,7 +487,7 @@ Disposizioni generali concernenti i privilegi ed immunita'
 
 3\. Lo Stato di residenza deve esercitare la sua giurisdizione sulle persone di cui ai paragrafi 1 e 2 del presente articolo in modo da non intralciare l'esercizio delle funzioni dell'Ufficio consolare.
 
-### Articolo 33
+#### Articolo 33
 
 Inizio e fine dei privilegi e delle immunita' consolari
 
@@ -501,7 +501,7 @@ Inizio e fine dei privilegi e delle immunita' consolari
 
 5\. Nel caso di decesso di un membro dell'Ufficio consolare, i membri della sua famiglia conviventi continuano a godere dei privilegi ed immunita' di cui beneficiano fino alla prima delle seguenti date: il momento in cui lasciano il territorio dello Stato di residenza, oppure allo scadere di un termine ragionevole accordato loro a tal fine.
 
-### Articolo 34
+#### Articolo 34
 
 Rispetto delle formalita' amministrative
 
@@ -509,9 +509,9 @@ Rispetto delle formalita' amministrative
 
 2\. Le Autorita' competenti dello Stato di residenza rilasciano ai funzionari ed impiegati consolari ed ai membri delle loro famiglie che non hanno la nazionalita' dello Stato di residenza un documento d'identita'.
 
-## Capitolo IV - Funzioni consolari
+### Capitolo IV - Funzioni consolari
 
-### Articolo 35
+#### Articolo 35
 
 Portata delle funzioni consolari
 
@@ -529,7 +529,7 @@ I funzionari consolari sono abilitati a:
 
 6\. Informarsi con ogni mezzo lecito in merito alla legislazione dello Stato di residenza sugli incidenti che concernono i cittadini dello Stato d'invio.
 
-### Articolo 36
+#### Articolo 36
 
 Esercizio delle funzioni consolari.
 
@@ -569,7 +569,7 @@ c) trascrivere o annotare, sulla base di una decisione giudiziaria con valore es
 
 Le disposizioni dei paragrafi 2 e 3 del presente articolo non esentano i cittadini dello Stato d'invio dall'obbligo di effettuare le dichiarazioni prescritte dalle leggi dello Stato di residenza.
 
-### Articolo 37
+#### Articolo 37
 
 Comunicazione con i cittadini dello Stato d'invio
 
@@ -585,7 +585,7 @@ Le autorita' dello Stato di residenza dovranno trasmettere senza indugio ogni co
 
 5\. Le autorita' competenti dello Stato di residenza faranno in modo, se del caso e nella misura del possibile, di facilitare la comunicazione tra i funzionari consolari ed i cittadini dello Stato d'invio che si trovano nel territorio dello Stato di residenza, ed in caso di catastrofe o altro sinistro grave, di aiutare detti funzionari ad adottare le necessarie misure di assistenza.
 
-### Articolo 38
+#### Articolo 38
 
 Decesso, tutela e misure conservative
 
@@ -613,7 +613,7 @@ d) tutti i diritti di successione siano stati pagati o garantiti.
 
 Il funzionario consolare dovra' consegnare gli effetti personali e le somme di denaro suddette alle Autorita' dello Stato di residenza designate per assicurarne l'amministrazione e la liquidazione. Per l'esportazione di effetti personali e per il trasferimento di somme di denaro dovra' attenersi alla legislazione dello Stato di residenza in materia.
 
-### Articolo 39
+#### Articolo 39
 
 Assistenza alle navi
 
@@ -623,7 +623,7 @@ Il comandante e i membri dell'equipaggio possono altresi', per gli stessi fini, 
 
 Il Capo dell'Ufficio consolare puo' domandare l'assistenza delle Autorita' dello Stato di residenza per ogni questione relativa all'esercizio delle funzioni previste al presente articolo; tali Autorita' forniscono questa assistenza a meno che non abbiano valide ragioni di rifiutarla in un caso particolare.
 
-### Articolo 40
+#### Articolo 40
 
 Diritti del funzionario consolare relativi alla nave ed all'equipaggio
 
@@ -655,7 +655,7 @@ Con la stessa riserva, possono esercitare i poteri loro attribuiti dallo Stato d
 
 7\. Compiere gli atti d'inventario e tutte le altre operazioni necessarie per la conservazione dei beni ed oggetti di qualsiasi natura lasciati da cittadini dello Stato d'invio, marittimi e passeggeri, deceduti a bordo di una nave dello Stato d'invio prima del suo arrivo nel porto.
 
-### Articolo 41
+#### Articolo 41
 
 Competenza delle Autorita giudiziarie
 
@@ -669,13 +669,13 @@ c) reati punibili, ai sensi della legislazione dello Stato di residenza, con una
 
 d) reati in materia di traffico illecito di armi, di stupefacenti e di sostanze psicotrope.
 
-### Articolo 42
+#### Articolo 42
 
 Giurisdizione a bordo della nave
 
 1\. Le autorita' dello Stato di residenza non possono intervenire in alcuna materia che interessa la direzione interna della nave se non su richiesta o con il consenso del Capo dell'Ufficio consolare, o in caso di impedimento di quest'ultimo, su richiesta o con il consenso del comandante.
 
-### Articolo 43
+#### Articolo 43
 
 Avaria o naufragio della nave
 
@@ -703,13 +703,13 @@ a) che gli oggetti facciano parte di una nave dello Stato d'invio o appartengano
 
 b) che il proprietario degli oggetti, il suo agente, l'assicuratore o il comandante, benche' autorizzati dalla legge di bandiera non siano in grado di adottare queste disposizioni.
 
-### Articolo 44
+#### Articolo 44
 
 Navi da guerra ed aeromobili militari
 
 Le disposizioni degli articoli 39, 40, 41, 42 e 43 non si applicano alle navi da guerra ed agli aeromobili militari.
 
-### Articolo 45
+#### Articolo 45
 
 Aeromobili
 
@@ -719,7 +719,7 @@ Aeromobili
 
 ## TITOLO V - REGIME APPLICABILE AI FUNZIONARI CONSOLARI ONORARI ED AGLI UFFICI CONSOLARI DA ESSI DIRETTI
 
-### Articolo 46
+#### Articolo 46
 
 Disposizioni generali relative alle agevolazioni privilegi ed immunita
 
@@ -731,13 +731,13 @@ Disposizioni generali relative alle agevolazioni privilegi ed immunita
 
 4\. Lo scambio di valigie consolari tra due Uffici consolari onorari situati in paesi diversi e diretti da funzionari consolari onorari e' ammesso solo con riserva del consenso dei due Stati di residenza.
 
-### Articolo 47
+#### Articolo 47
 
 Protezione dei locali consolari
 
 Lo Stato di residenza adotta i provvedimenti appropriati per proteggere i locali consolari di un Ufficio consolare diretti da un funzionario consolare onorario, da intrusioni o danneggiamenti e per prevenire che la tranquillita' dell'Ufficio consolare sia turbata o che la sua dignita' sia sminuita.
 
-### Articolo 48
+#### Articolo 48
 
 Esenzione fiscale dei locali consolari
 
@@ -745,49 +745,49 @@ Esenzione fiscale dei locali consolari
 
 2\. L'esenzione fiscale di cui al paragrafo 1 del presente articolo non si applica a queste imposte e tasse se, secondo le leggi ed i regolamenti dello Stato di residenza, essi sono a carico della persona che ha contrattato con lo Stato d'invio.
 
-### Articolo 49
+#### Articolo 49
 
 Inviolabilita' decli Archivi e dei documenti consolari
 
 Gli Archivi ed i documenti consolari di un Ufficio consolare diretto da un funzionario consolare onorario sono inviolabili in ogni tempo ed in qualunque luogo essi si trovino, a condizione che siano separati dalle altre carte e documenti ed in particolare dalla corrispondenza privata del Capo dell'Ufficio consolare e di ogni suo collaboratore, nonche' da beni, libri o documenti attinenti alla loro professione o al loro commercio.
 
-### Articolo 50
+#### Articolo 50
 
 Esenzione doganale
 
 In base alle disposizioni legislative e regolamentari che puo' adottare, lo Stato di residenza autorizza l'importazione e concede l'esenzione da dazi doganali, tasse ed altri diritti connessi, diversi dalle spese di deposito,di trasporto e spese attinenti a servizi analoghi, per i seguenti oggetti, a condizione che siano destinati esclusivamente all'uso ufficiale di un Ufficio consolare diretto da un funzionario consolare onorario: stemmi, bandiere, insegne sigilli e timbri, libri, stampe ufficiali, arredi per ufficio, materiale e forniture d'ufficio ed oggetti analoghi forniti all'Ufficio consolare dallo Stato d'invio o dietro sua richiesta.
 
-### Articolo 51
+#### Articolo 51
 
 Procedura penale
 
 Se un procedimento penale e' intentato contro un funzionario consolare onorario, quest'ultimo e' tenuto a presentarsi davanti alle Autorita' competenti. Tuttavia, la procedura deve essere svolta con i riguardi dovuti al funzionario consolare onorario per via della sua posizione ufficiale , salvo il caso in cui l'interessato sia in stato di arresto o di detenzione, in modo da frapporre i minori ostacoli all'esercizio delle funzioni consolari. Qualora si riveli necessario porre un funzionario consolare onorario in detenzione preventiva, il procedimento intentato contro di lui deve essere iniziato nei piu' brevi termini.
 
-### Articolo 52
+#### Articolo 52
 
 Protezione del funzionario consolare onorario
 
 Lo Stato di residenza e' tenuto a concedere al funzioanrio consolare onorario la protezione che puo' essere necessaria in ragione della sua posizione ufficiale.
 
-### Articolo 53
+#### Articolo 53
 
 Esenzione dall'immatricolazione o dal permesso di soggiorno
 
 I funzionari consolari onorari, ad eccezione di quelli che esercitano nello Stato di residenza un'attivita' professionale o commerciale a loro beneficio personale, sono esenti da ogni obbligo previsto dalle leggi e dai regolamenti dello Stato di residenza, in materia di immatricolazione degli stranieri o di permessi di soggiorno.
 
-### Articolo 54
+#### Articolo 54
 
 Esenzione fiscale
 
 Il funzionario consolare onorario e' esente da ogni imposta e tassa sulle indennita e gli emolumenti che riceve dallo Stato d'invio per l'esercizio delle funzioni consolari.
 
-### Articolo 55
+#### Articolo 55
 
 Esenzione da prestazioni personali
 
 Lo Stato di residenza deve esentare i funzionari consolari da ogni prestazione di natura personale e da qualsiasi servizio di interesse pubblico, di qualsiasi natura, nonche' da oneri militari come requisizioni, contributi e acquartieramenti militari.
 
-### Articolo 56
+#### Articolo 56
 
 Carattere facoltativo dell'istituzione dei funzionari consolari onorari
 
@@ -795,7 +795,7 @@ Ciascuno Stato e' libero di decidere se nominare o ricevere funzionari consolari
 
 ## Titolo V - Disposizioni Generali
 
-### Articolo 57
+#### Articolo 57
 
 1\. A meno che agevolazioni, privilegi ed immunita' supplementari non siano state concesse dallo Stato di residenza, i funzionari consolari che sono cittadini dello Stato di residenza, o residenti dello Stato di residenza, beneficiano unicamenta dell'immunita' dalla giurisdizione e dell'inviolabilita' personale per gli atti ufficiali compiuti nell'esercizio delle loro funzioni e dei privilegio previsto al paragrafo 3 dell'articolo 28. Per quanto riguarda questi funzionari consolari, lo Stato di residenza e' vincolato dall'obbligo previsto all'articolo 26.
 
@@ -803,25 +803,25 @@ Se un procedimerto penale e' intentato contro un tale funzionario consolare, la 
 
 2\. Gli altri membri dell'Ufficio consolare che sono cittadini o residenti permanenti dello Stato di residenza ed i membri della loro famiglia, nonche i.membri della famiglia dei funzionari consolari. di cui al paragrafo 1 del presente articolo, beneficiano delle agevolazioni, privilegi ed immunita' solo nella misura in cui sono loro riconosciuti dallo Stato di residenza. Anche i membri della famiglia di un membro dell'Ufficio consolare ed i membri del personale privato che sono essi stessi cittadini dello Stato di residenza, o che risiedono stabilmente in questo Stato, beneficiano di queste agevolazioni; privilegi ed immunita' solo nella misura in cui vi sono autorizzati da quest'ultimo Stato. Tuttavia lo Stato di residenza e' tenuto ad esercitare la sua giurisdizione su queste persone in maniera da non intralciare eccessivamente l'esercizio delle funzioni dell'Ufficio consolare.
 
-### Articolo 58
+#### Articolo 58
 
 Esercizio delle funzioni consolari al di fuori della circoscrizione consolare
 
 I funzionari consolari hanno diritto di esercitare le loro competenze solo nella loro circoscrizione consolare. Tuttavia, mediante il consenso delle Autorita' dello Stato di residenza, essi possono esercitarle fuori dalla loro circoscrizione.
 
-### Articolo 59
+#### Articolo 59
 
 Esercizio delle funzioni consolari che non sono menzionate in questa Convenzione
 
 Oltre alle funzioni enumerate nella presente Convenzione, i funzionari consolari sono autorizzati ad esercitare ogni altra funzione consolare riconosciuta dallo Stato di residenza come compatibile con la loro qualita'.
 
-### Articolo 60
+#### Articolo 60
 
 Esercizio delle funzioni consolari per conto di uno Stato terzo
 
 Dietro notifica appropriata allo Stato di residenza ed a meno che quest'ultimo non vi si opponga, un Ufficio consolare dello Stato d'invio puo' esercitare funzioni consolari nello Stato di residenza per conto di uno Stato terzo.
 
-### Articolo 61
+#### Articolo 61
 
 Comunicazione con le Autorita dello Stato di residenza
 
@@ -831,25 +831,25 @@ a) alle Autorita locali competenti della loro circoscrizione consolare;
 
 b) alle Autorita' centrali competenti di residenza, nella misura in cui cio' e' ammesso dalle leggi, regolamentl e prassi dello Stato di residenza o dagli accordi internazionali in materia.
 
-### Articolo 62
+#### Articolo 62
 
 Esercizio di funzioni consolari in uno Stato terzo
 
 Lo Stato d'invio puo', dietro notifica allo Stato di residenza, incaricare un Ufficio consolare istituito in tale Stato, di esercitare funzioni consolari in un altro Stato.
 
-### Articolo 63
+#### Articolo 63
 
 Ratifica ed entrata in vigore
 
 La presente Convenzione deve essere ratificata. Essa entrera' in vigore il primo giorno del secondo mese successivo alla data dello scambio degli strumenti di ratifica.
 
-### Articolo 64
+#### Articolo 64
 
 Istituzione di una Commissione Mista
 
 Una Commissione Mista composta da funzionari designati da ciascuno dei due Stati si riunira' a richiesta dell'una o dell'altra Parte contraente per garantire l'attuazione ottimale delle disposizioni della presente Convenzione.
 
-### Articolo 65
+#### Articolo 65
 
 Durata e denuncia
 
@@ -867,7 +867,7 @@ in due esemplari originali, ciascuno in lingua francese ed in lingua italiana, f
 
 Parte di provvedimento in formato grafico
 
-### Scambio di lettere
+#### Scambio di lettere
 
 Parte di provvedimento in formato grafico
 

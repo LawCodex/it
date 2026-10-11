@@ -28,11 +28,11 @@ la seguente legge costituzionale:
 
 ## TITOLO I - Costituzione della Regione
 
-##### Art. 1
+#### Art. 1
 
 Il Friuli-Venezia Giulia e' costituito in Regione autonoma, fornita di personalita' giuridica, entro l'unita' della Repubblica italiana, una e indivisibile, sulla base dei principi della Costituzione, secondo il presente Statuto.
 
-##### Art. 2
+#### Art. 2
 
 ((La Regione comprende i territori delle attuali province di Gorizia, di Udine, di Pordenone e di Trieste)).
 
@@ -40,17 +40,15 @@ La Regione ha per capoluogo la citta' di Trieste.
 
 Ferme restando le disposizioni sull'uso della bandiera nazionale, la Regione ha un proprio gonfalone ed uno stemma, approvato con decreto del Presidente della Repubblica.
 
-##### Art. 3
+#### Art. 3
 
 Nella Regione e' riconosciuta parita' di diritti e di trattamento tutti i cittadini, qualunque sia il gruppo linguistico al quale appartengono, con la salvaguardia delle rispettive caratteristiche etniche e culturali.
 
 ## TITOLO II - Potesta' della Regione
 
-### CAPO I
+### CAPO I - POTESTA' LEGISLATIVA
 
-#### POTESTA' LEGISLATIVA
-
-##### Art. 4
+#### Art. 4
 
 In armonia con la Costituzione, con i principi generali dell' ((ordinamento giuridico della Repubblica)), con le norme fondamentali delle riforme economico-sociali e con gli obblighi internazionali dello Stato, nonche' nel rispetto degli interessi nazionali e di quelli delle altre Regioni, la Regione ha potesta' legislativa nelle seguenti materie:
 
@@ -84,7 +82,7 @@ In armonia con la Costituzione, con i principi generali dell' ((ordinamento giur
 
 14\) istituzioni culturali, ricreative e sportive: musei e biblioteche di interesse locale e regionale.
 
-##### Art. 5
+#### Art. 5
 
 Con l'osservanza dei limiti generali indicati nello articolo 4 ed in armonia con i principi fondamentali stabiliti dalle leggi dello Stato nelle singole materie, la Regione ha potesta' legislativa nelle seguenti materie:
 
@@ -132,7 +130,7 @@ Con l'osservanza dei limiti generali indicati nello articolo 4 ed in armonia con
 
 22\) opere di prevenzione e soccorso per calamita' naturali.
 
-##### Art. 6
+#### Art. 6
 
 La Regione ha facolta' di adeguare alle sue particolari esigenze le disposizioni delle leggi della Repubblica, emanando norme di integrazione e di attuazione nelle seguenti materie:
 
@@ -142,7 +140,7 @@ La Regione ha facolta' di adeguare alle sue particolari esigenze le disposizioni
 
 3\) antichita' e belle arti, tutela del paesaggio, della flora e della fauna, oltre che nelle altre materie per le quali le leggi dello Stato attribuiscano alla Regione questa facolta'.
 
-##### Art. 7
+#### Art. 7
 
 La Regione provvede con legge:
 
@@ -154,17 +152,17 @@ La Regione provvede con legge:
 
 3-bis) ((all'istituzione di nuovi enti di area vasta e alla modificazione della loro circoscrizione e denominazione, intese le popolazioni interessate)).
 
-## CAPO II - POTESTA' AMMINISTRATIVA
+### CAPO II - POTESTA' AMMINISTRATIVA
 
-##### Art. 8
+#### Art. 8
 
 1\. ((La Regione esercita funzioni di programmazione nonche' funzioni amministrative nelle materie in cui ha potesta' legislativa a norma degli articoli 4 e 5, in conformita' ai principi della Costituzione e del presente Statuto)).
 
-##### Art. 9
+#### Art. 9
 
 La Regione ha facolta' di concorrere con propri contributi allo sviluppo dell'istruzione universitaria, nell'ambito della Regione stessa.
 
-##### Art. 10
+#### Art. 10
 
 Lo Stato puo' con legge, delegare alla Regione ((ed ai Comuni, anche nella forma di Citta' metropolitane,)) l'esercizio di proprie funzioni amministrative.
 
@@ -172,7 +170,7 @@ Le Amministrazioni statali centrali, per l'esercizio nella Regione di funzioni d
 
 Nei casi previsti dai precedenti commi, l'onere delle relative spese fara' carico allo Stato.
 
-##### Art. 11
+#### Art. 11
 
 1\. I Comuni, anche nella forma di Citta' metropolitane, sono titolari di funzioni amministrative proprie e di quelle conferite con legge statale o regionale, secondo le rispettive competenze.((Gli enti di area vasta sono titolari di funzioni amministrative proprie, individuate con legge regionale, e di quelle conferite con legge regionale)).
 
@@ -182,11 +180,9 @@ Nei casi previsti dai precedenti commi, l'onere delle relative spese fara' caric
 
 ## TITOLO III - Organi della Regione - Costituzione e attribuzioni
 
-### CAPO I
+### CAPO I - ORGANI DELLA REGIONE
 
-#### ORGANI DELLA REGIONE
-
-##### Art. 12
+#### Art. 12
 
 Sono organi della Regione: il Consiglio regionale, la Giunta regionale e il Presidente della Regione.
 
@@ -198,9 +194,9 @@ La legge regionale di cui al secondo comma non e' comunicata al Commissario del 
 
 ((COMMA ABROGATO DALLA L. COSTITUZIONALE 26 GENNAIO 2026, N. 1)).
 
-## CAPO II - IL CONSIGLIO REGIONALE
+### CAPO II - IL CONSIGLIO REGIONALE
 
-##### Art. 13
+#### Art. 13
 
 1\. Il Consiglio regionale e' eletto a suffragio universale diretto, uguale e segreto.
 
@@ -214,7 +210,7 @@ AGGIORNAMENTO (11)
 
 La legge costituzionale 7 febbraio 2013, n. 1 ha disposto (con l'art. 2, comma 1) che "Le disposizioni di cui all'articolo 1 si applicano a decorrere dalla legislatura successiva alla data di entrata in vigore della presente legge costituzionale".
 
-##### Art. 14
+#### Art. 14
 
 Il consiglio regionale e' eletto per cinque anni. Il quinquennio decorre dalla data delle elezioni.
 
@@ -226,7 +222,7 @@ Il nuovo consiglio si riunisce entro i venti giorni dalla proclamazione degli el
 
 La Presidenza provvisoria del nuovo Consiglio regionale e' assunta dal consigliere piu' anziano di eta' fra i presenti; i due consiglieri piu' giovani fungono da segretari.
 
-##### Art. 15
+#### Art. 15
 
 Sono elettori del Consiglio regionale gli iscritti nelle liste elettorali dei Comuni della Regione.
 
@@ -236,17 +232,17 @@ L'ufficio di consigliere regionale e' incompatibile con quello di membro di una 
 
 COMMA ABROGATO DALLA L. COSTITUZIONALE 31 GENNAIO 2001, N. 2.
 
-##### Art. 16
+#### Art. 16
 
 I consiglieri regionali rappresentano la intera Regione senza vincolo di mandato.
 
 Essi non possono essere perseguiti per le opinioni espresse ed i voti dati nell'esercizio delle loro funzioni.
 
-##### Art. 17
+#### Art. 17
 
 Prima di essere ammessi all'esercizio delle loro funzioni, ciascun consigliere regionale presta giuramento, secondo la seguente formula: "Giuro di essere fedele alla Repubblica e di esercitare il mio ufficio al solo scopo del bene inseparabile dello Stato e della Regione".
 
-##### Art. 18
+#### Art. 18
 
 Il Consiglio regionale procede, come primo suo atto, alla costituzione dell'Ufficio di presidenza, con la elezione del Presidente, di due vicepresidenti e di segretari, secondo le norme che saranno stabilite nel regolamento interno del Consiglio.
 
@@ -254,13 +250,13 @@ L'elezione del Presidente ha luogo per scrutinio segreto a maggioranza assoluta 
 
 Subito dopo la costituzione dell'ufficio di Presidenza, i consiglieri regionali sono assegnati a Commissioni permanenti istituite, a norma di regolamento, per il preventivo esame dei disegni di legge.
 
-##### Art. 19
+#### Art. 19
 
 Al Presidente del Consiglio regionale e' attribuita, con legge regionale, una indennita' di carica.
 
 Agli altri membri del Consiglio regionale e' attribuita, con legge regionale, una indennita' di presenza per i giorni di seduta dell'Assemblea e delle Commissioni.
 
-##### Art. 20
+#### Art. 20
 
 Il Consiglio regionale e' convocato dal suo Presidente.Esso si riunisce di diritto il primo giorno, non festivo di febbraio e di ottobre.
 
@@ -270,11 +266,11 @@ L'ordine del giorno del Consiglio regionale e' preventivamente comunicato al Com
 
 Le sedute del Consiglio sono pubbliche, eccettuati i casi previsti dal regolamento.
 
-##### Art. 21
+#### Art. 21
 
 Il Consiglio regionale approva, a maggioranza assoluta dei consiglieri assegnati alla Regione, il proprio regolamento interno.
 
-##### Art. 22
+#### Art. 22
 
 Il Consiglio regionale puo' essere sciolto, quando compia atti contrari alla Costituzione o al presente Statuto, o gravi violazioni di legge, o quando non corrisponda all'invito del Governo della Repubblica di sostituire la Giunta regionale o il Presidente che abbiano compiuto analoghi atti o violazioni.
 
@@ -290,17 +286,17 @@ Il nuovo Consiglio e' convocato entro 20 giorni dalla data delle elezioni.
 
 ((Con decreto motivato del Presidente della Repubblica e con l'osservanza delle forme di cui al terzo comma e' disposta la rimozione del Presidente della Regione, se eletto a suffragio universale e diretto, che abbia compiuto atti contrari alla Costituzione o reiterate e gravi violazioni di legge. La rimozione puo' altresi' essere disposta per ragioni di sicurezza nazionale.))
 
-##### Art. 23
+#### Art. 23
 
 L'invito a sostituire la Giunta regionale ((o il Presidente della Regione)), previsto dal primo comma dell'articolo 22, e' rivolto al Presidente del Consiglio regionale, per il tramite del Commissario del Governo, con provvedimento motivato, dal Presidente del Consiglio dei Ministri, sentito il Consiglio dei Ministri.
 
-## CAPO III - FUNZIONI DEL CONSIGLIO REGIONALE
+### CAPO III - FUNZIONI DEL CONSIGLIO REGIONALE
 
-##### Art. 24
+#### Art. 24
 
 Il Consiglio regionale esercita le potesta' legislative, attribuite alla Regione, e le altre funzioni, conferitegli dalla Costituzione, dal presente Statuto e dalle leggi dello Stato.
 
-##### Art. 25
+#### Art. 25
 
 Il Consiglio regionale, entro il 31 dicembre, approva il bilancio di previsione della Regione per il successivo esercizio predisposto dalla Giunta regionale.
 
@@ -310,7 +306,7 @@ L'esercizio finanziario decorre dal 1 gennaio al 31 dicembre.
 
 Il Consiglio regionale, entro il 31 luglio, esamina ed approva il conto consuntivo della Regione per l'esercizio trascorso. Il conto consuntivo e' diviso nello stesso modo in cui e' diviso il bilancio di previsione.
 
-##### Art. 26
+#### Art. 26
 
 Il Consiglio regionale, in materie estranee alla sua competenza, ma che presentano particolare interesse per la Regione, puo' formulare progetti di legge da sottoporre al Parlamento.
 
@@ -318,77 +314,77 @@ I progetti sono inviati, dal ((Presidente della Regione)), al Governo per la pre
 
 Il Consiglio regionale puo' anche presentare voti alle Camere e al Governo della Repubblica.
 
-## CAPO IV - LA FORMAZIONE DELLE LEGGI REGIONALI
+### CAPO IV - LA FORMAZIONE DELLE LEGGI REGIONALI
 
-##### Art. 27
+#### Art. 27
 
 L'iniziativa delle leggi regionali, sotto forma di progetti redatti in articoli, appartiene alla Giunta, a ciascun membro del Consiglio ed agli elettori, in numero non inferiore a ((5.000)).
 
-##### Art. 28
+#### Art. 28
 
 Ogni disegno di legge deve essere previamente esaminato da una Commissione, ed approvato dal Consiglio, articolo per articolo e con votazione finale.
 
-##### Art. 29
+#### Art. 29
 
 ((ARTICOLO ABROGATO DALLA L. COSTITUZIONALE 26 GENNAIO 2026, N. 1))
 
-##### Art. 30
+#### Art. 30
 
 ((ARTICOLO ABROGATO DALLA L. COSTITUZIONALE 26 GENNAIO 2026, N. 1))
 
-##### Art. 31
+#### Art. 31
 
 La legge regionale e' promulgata dal ((Presidente della Regione)) con la formula: "Il Consiglio regionale ha approvato, il ((Presidente della Regione)) promulga la seguente legge". Al testo della legge, segue la formula: "La presente legge regionale sara' pubblicata nel Bollettino Ufficiale della Regione. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione".
 
-##### Art. 32
+#### Art. 32
 
 La legge regionale e' pubblicata nel Bollettino Ufficiale della Regione Friuli-Venezia Giulia, ed entra in vigore il 15° giorno successivo alla pubblicazione, salvo che non sia fissato nella legge stessa un termine diverso.
 
 La legge regionale e' riprodotta nella Gazzetta Ufficiale della Repubblica.
 
-##### Art. 33
+#### Art. 33
 
 ((ARTICOLO ABROGATO DALLA L. COSTITUZIONALE 31 GENNAIO 2001, N. 2))
 
-## CAPO V - IL PRESIDENTE DELLA GIUSTA REGIONALE E LA GIUNTA REGIONALE
+### CAPO V - IL PRESIDENTE DELLA GIUSTA REGIONALE E LA GIUNTA REGIONALE
 
-##### Art. 34
+#### Art. 34
 
 ((La Giunta regionale e' composta del Presidente e degli assessori.Un assessore assume le funzioni di Vicepresidente.
 
 L'approvazione della mozione di sfiducia nei confronti del Presidente della Regione eletto a suffragio universale e diretto, nonche' la rimozione, l'impedimento permanente, la morte o le dimissioni dello stesso comportano le dimissioni della Giunta e lo scioglimento del Consiglio regionale.))
 
-##### Art. 35
+#### Art. 35
 
 ((ARTICOLO ABROGATO DALLA L. COSTITUZIONALE 31 GENNAIO 2001, N. 2))
 
-##### Art. 36
+#### Art. 36
 
 ((ARTICOLO ABROGATO DALLA L. COSTITUZIONALE 31 GENNAIO 2001, N. 2))
 
-##### Art. 37
+#### Art. 37
 
 ((ARTICOLO ABROGATO DALLA L. COSTITUZIONALE 31 GENNAIO 2001, N. 2))
 
-##### Art. 38
+#### Art. 38
 
 ((ARTICOLO ABROGATO DALLA L. COSTITUZIONALE 31 GENNAIO 2001, N. 2))
 
-##### Art. 39
+#### Art. 39
 
 ((ARTICOLO ABROGATO DALLA L. COSTITUZIONALE 31 GENNAIO 2001, N. 2))
 
-##### Art. 40
+#### Art. 40
 
 L'Ufficio di ((Presidente della Regione)) o d' assessore e' incompatibile con qualunque altra carica pubblica.
 
-##### Art. 41
+#### Art. 41
 
 Al ((Presidente della Regione)) ed agli assessori e' attribuita con legge regionale una indennita' di carica.
 
-## CAPO VI. - FUNZIONI DEL PRESIDENTE DELLA GIUNTA REGIONALE
+### CAPO VI. - FUNZIONI DEL PRESIDENTE DELLA GIUNTA REGIONALE
 
-##### Art. 42
+#### Art. 42
 
 Il ((Presidente della Regione)):
 
@@ -398,15 +394,15 @@ b) promulga, le leggi regionali ed emana, con proprio decreto, i regolamenti del
 
 c) esercita, le altre attribuzioni che gli sono conferite dalle leggi e, dallo Statuto regionale.
 
-##### Art. 43
+#### Art. 43
 
 ((ARTICOLO ABROGATO DALLA L. COSTITUZIONALE 31 GENNAIO 2001, N. 2))
 
-##### Art. 44
+#### Art. 44
 
 Il ((Presidente della Regione)) interviene alle sedute del Consiglio dei ministri per essere sentito, quando sono trattate questioni che riguardano particolarmente la Regione.
 
-##### Art. 45
+#### Art. 45
 
 Il ((Presidente della Regione)) presiede alle funzioni amministrative il cui svolgimento e' stato affidato dallo Stato alla Regione a norma del primo e del secondo comma dell'articolo 10, uniformandosi alle istruzioni impartite dalle Amministrazioni centrali statali.
 
@@ -414,13 +410,13 @@ Il ((Presidente della Regione)) risponde della attivita' diretta all'esercizio d
 
 I provvedimenti emanati dalla Regione in base all'articolo 10 non sono definitivi.
 
-## CAPO VII - FUNZIONI DELLA GIUNTA REGIONALE
+### CAPO VII - FUNZIONI DELLA GIUNTA REGIONALE
 
-##### Art. 46
+#### Art. 46
 
 ((ARTICOLO ABROGATO DALLA L. COSTITUZIONALE 31 GENNAIO 2001, N. 2))
 
-##### Art. 47
+#### Art. 47
 
 La Giunta regionale deve essere consultata ai fini della: istituzione, regolamentazione e modificazione dei servizi nazionali di comunicazione e dei trasporti che interessano in modo particolare la Regione.
 
@@ -430,11 +426,11 @@ Il Governo della Repubblica puo' chiedere il parere della Giunta regionale su al
 
 ## TITOLO IV - Finanze - Demanio e patrimonio della Regione
 
-##### Art. 48
+#### Art. 48
 
 La Regione ha una propria finanza, coordinata con quella dello Stato, in armonia con i principi della solidarieta' nazionale, nei modi stabiliti dagli articoli seguenti.
 
-##### Art. 49
+#### Art. 49
 
 ((1. Spettano alla Regione le seguenti quote di gettito delle sottoindicate entrate tributarie erariali:
 
@@ -482,11 +478,11 @@ La L. 27 dicembre 2017, n. 205 ha disposto (con l'art. 1, comma 817, alinea) che
 
 Ha inoltre disposto (con l'art. 1, comma 819) che "Le disposizioni dell'articolo 49 dello statuto speciale della regione Friuli Venezia Giulia, di cui alla legge costituzionale 31 gennaio 1963, n. 1, nel testo precedente alle modificazioni apportate dal comma 817 del presente articolo, continuano ad applicarsi per la ripartizione dei versamenti d'imposta effettuati dai contribuenti fino al 31 dicembre 2017 e per la quantificazione dei conguagli delle spettanze dovute per le annualita' fino al 2017. Le stesse disposizioni si applicano, in via provvisoria, per la ripartizione dei versamenti d'imposta effettuati dai contribuenti dal 1° gennaio 2018 fino alla data di entrata in vigore delle norme di attuazione statutaria di cui al comma 818 e dei relativi provvedimenti attuativi. Successivamente a tale data, la compartecipazione ai tributi erariali e' rideterminata secondo le disposizioni dell'articolo 49 del medesimo statuto, come sostituito dal comma 817 del presente articolo, e sono operati i conseguenti conguagli".
 
-##### Art. 50
+#### Art. 50
 
 Per provvedere a scopi determinati, che non rientrano nelle funzioni normali della Regione, e per la esecuzione di programmi organici di sviluppo, lo Stato assegna alla stessa, con legge, contributi speciali.
 
-##### Art. 51
+#### Art. 51
 
 Le entrate della Regione sono anche costituite dai redditi del suo patrimonio o da tributi propri che essa ha la facolta' di istituire con legge regionale, in armonia col sistema tributario dello Stato e dei Comuni, anche nella forma di Citta' metropolitane.
 
@@ -514,11 +510,11 @@ AGGIORNAMENTO (14)
 
 La L. 27 dicembre 2017, n. 205 ha disposto (con l'art. 1, comma 817, alinea) che la presente modifica decorre dal 1° gennaio 2018.
 
-##### Art. 52
+#### Art. 52
 
 La Regione ha facolta' di emettere prestiti interni da essa garantiti, per provvedere ad investimenti in opere permanenti per un importo annuale non superiore alle sue entrate ordinarie, salve le autorizzazioni di competenza del Ministro per il tesoro e del Comitato interministeriale per il credito e il risparmio disposte dalle leggi vigenti.
 
-##### Art. 53
+#### Art. 53
 
 La regione collabora all'accertamento delle imposte erariali sui redditi dei soggetti con domicilio fiscale nel suo territorio.
 
@@ -534,11 +530,11 @@ AGGIORNAMENTO (1a)
 
 La L. 6 agosto 1984, n. 457, ha disposto (con l'art.4) che la modifica ha effetto dal 1 gennaio 1984.
 
-##### Art. 54
+#### Art. 54
 
 Allo scopo di adeguare le finanze dei Comuni, anche nella forma di Citta' metropolitane, ((e degli enti di area vasta)) al raggiungimento delle finalita' ed all'esercizio delle funzioni stabilite dalle leggi, il Consiglio regionale puo' assegnare essi annualmente una quota delle entrate della Regione.
 
-##### Art. 55
+#### Art. 55
 
 Sono trasferiti alla Regione e vanno a far parte del patrimonio indisponibile i seguenti beni dello Stato;
 
@@ -548,39 +544,39 @@ Sono trasferiti alla Regione e vanno a far parte del patrimonio indisponibile i 
 
 3\) le cave e torbiere, quando la disponibilita' e' sottratta al proprietario del fondo.
 
-##### Art. 56
+#### Art. 56
 
 Sono trasferiti alla Regione i beni immobili patrimoniali dello Stato, che si trovano nel territorio della Regione, disponibili alla data di entrata in vigore del presente Statuto.
 
-##### Art. 57
+#### Art. 57
 
 Con norme di attuazione del presente Statuto, saranno determinati i beni indicati negli articoli 55 e 56 e le modalita' per la loro consegna alla Regione.
 
 ## TITOLO V - Controlli sull'Amministrazione regionale
 
-##### Art. 58
+#### Art. 58
 
 Il controllo di legittimita' sugli atti amministrativi della Regione e' esercitato, in conformita' delle leggi dello Stato che disciplinano le attribuzioni della Corte dei conti, da una delegazione della Corte stessa, avente sede nel capoluogo della Regione.
 
 ## TITOLO VI - Enti locali
 
-##### Art. 59
+#### Art. 59
 
 1\. L'ordinamento degli enti locali della Regione si basa sui Comuni, anche nella forma di Citta' metropolitane, ((e su enti di area vasta a elezione diretta,)) quali enti autonomi obbligatori con propri statuti, poteri e funzioni, secondo i principi fissati dalla Costituzione e dal presente Statuto.
 
 1-bis. ((La legge regionale disciplina la prima istituzione, le circoscrizioni e, anche con modalita' differenziate, le funzioni, la forma di governo e le modalita' di elezione degli organi degli enti di area vasta)).
 
-##### Art. 60
+#### Art. 60
 
 ((ARTICOLO ABROGATO DALLA L. COSTITUZIONALE 26 GENNAIO 2026, N. 1)).
 
 ## TITOLO VII - Rapporti tra Stato e Regione
 
-##### Art. 61
+#### Art. 61
 
 E' istituito, nella Regione, un commissario del Governo, residente nel capoluogo della Regione stessa. Il Commissario e' un funzionario dello Stato avente qualifica non inferiore a direttore generale o equiparata, nominato con decreto del Presidente della Repubblica, su proposta del Presidente del Consiglio dei Ministri di concerto con il Ministro per l'interno, sentito il Consiglio dei Ministri.
 
-##### Art. 62
+#### Art. 62
 
 Il Commissario del Governo nella Regione, oltre ad esercitare le funzioni demandategli dal presente Statuto:
 
@@ -594,7 +590,7 @@ Al Commissario del Governo devono essere inviate tempestivamente dalla Presidenz
 
 ## TITOLO VIII - Disposizioni integrative transitorie e finali
 
-##### Art. 63
+#### Art. 63
 
 Per le modificazioni del presente Statuto si applica la procedura prevista dalla Costituzione per le leggi costituzionali.
 
@@ -606,15 +602,15 @@ Le modificazioni approvate non sono comunque sottoposte a referendum nazionale.)
 
 Le disposizioni contenute nel titolo IV possono essere modificate con leggi ordinarie, su proposta di ciascun membro delle Camere, del Governo e della Regione, e, in ogni caso, sentita la Regione.
 
-##### Art. 64
+#### Art. 64
 
 Nelle materie attribuite alla competenza della Regione, fino a quando non sia diversamente disposto con legge regionale, si applicano le leggi dello Stato.
 
-##### Art. 65
+#### Art. 65
 
 Con decreti legislativi, sentita una Commissione paritetica di sei membri, nominati tre dal Governo della Repubblica e tre dal Consiglio regionale, saranno stabilite le norme di attuazione del presente Statuto e quelle relative al trasferimento all'Amministrazione regionale degli uffici statali che nel Friuli-Venezia Giulia adempiono a funzioni attribuite alla Regione.
 
-##### Art. 66
+#### Art. 66
 
 Con le norme da emanarsi nei modi previsti dallo articolo 65 ed entro il termine di quattro mesi dalla prima elezione del Consiglio regionale, sara' istituito, nell'ambito della provincia di Udine, un circondario corrispondente al territorio attualmente soggetto alla giurisdizione del tribunale di Pordenone ed al territorio dei comuni di Erto-Casso e Cimolais, per il decentramento di funzioni amministrative.
 
@@ -624,7 +620,7 @@ Con le stesse norme saranno decentrati, con specifica attribuzione di competenza
 
 ((COMMA ABROGATO DALLA L. COSTITUZIONALE 28 LUGLIO 2016, N. 1)).
 
-##### Art. 67
+#### Art. 67
 
 La Regione provvedera' alla prima costituzione dei propri uffici, di norma, con personale comandato dai Comuni, dalle Province e dagli uffici dello Stato.
 
@@ -632,7 +628,7 @@ Spetta al Consiglio regionale determinare il numero e le qualifiche dei dipenden
 
 I comandi sono disposti dalle Amministrazioni dalle quali dipendono gli impiegati, previa intesa con la Giunta regionale.
 
-##### Art. 68
+#### Art. 68
 
 Con legge regionale saranno stabilite le modalita' per l'inquadramento nei ruoli organici della Regione del personale indicato dall'articolo 67.
 
@@ -640,7 +636,7 @@ Le norme sullo stato giuridico ed il trattamento economico del personale del ruo
 
 Per il personale statale inquadrato nei ruoli organici della Regione si opera una corrispondente riduzione nei ruoli organici dello Stato.
 
-##### Art. 69
+#### Art. 69
 
 Con legge della Repubblica saranno emanate, entro quattro mesi dall'entrata in vigore del presente Statuto, le norme per la elezione e la convocazione del primo Consiglio regionale con i criteri stabiliti nello articolo 13.
 
@@ -648,7 +644,7 @@ Le spese relative alla prima elezione sono a carico dello Stato.
 
 Le spese relative al primo impianto dell'organizzazione regionale sono anticipate dallo Stato sulle quote dei proventi spettanti alla Regione, in conformita' dello articolo 49.
 
-##### Art. 70
+#### Art. 70
 
 Fino a quando non sara' diversamente disposto con legge della Repubblica, i poteri di amministrazione del Commissario generale del Governo per il territorio di Trieste - esclusi quelli spettanti al Prefetto e quelli trasferiti alla Regione - saranno esercitati dal Commissario del Governo nella Regione. Al Commissario del Governo nella Regione sono inoltre devolute le attribuzioni indicate nella legge 27 giugno 1955, n. 514, e successive proroghe,- per la gestione dei fondi di bilancio destinati alle esigenze del predetto territorio.
 

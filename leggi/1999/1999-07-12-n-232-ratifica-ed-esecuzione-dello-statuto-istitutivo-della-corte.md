@@ -28,21 +28,21 @@ PROMULGA
 
 la seguente legge
 
-### Art. 1
+#### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare lo statuto istitutivo della Corte penale internazionale, con atto finale ed allegati, adottato dalla Conferenza diplomatica delle Nazioni Unite a Roma il 17 luglio 1998.
 
-### Art. 2
+#### Art. 2
 
 1\. Piena ed intera esecuzione e' data allo statuto di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 126 dello statuto stesso.
 
-### Art. 3
+#### Art. 3
 
 1\. All'onere derivante dall'attuazione della presente legge, nel limite massimo di lire 1.500 milioni annue a decorrere dal 2000, si provvede, per gli anni 2000 e 2001, mediante parziale utilizzo delle proiezioni dello stanziamento iscritto, al fini del bilancio triennale 1999-2001, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno finanziario 1999, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri.
 
 2\. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-### Art. 4
+#### Art. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -58,13 +58,13 @@ DINI, Ministro degli affari esteri Visto, il Guardasigilli: DILIBERTO
 
 ## Allegati
 
-### Statute
+#### Statute
 
 Parte di provvedimento in formato grafico
 
 Parte di provvedimento in formato grafico
 
-## CAPITOLO PRIMO - ISTITUZIONE DELLA CORTE
+### CAPITOLO PRIMO - ISTITUZIONE DELLA CORTE
 
 TRADUZIONE NON UFFICIALE
 
@@ -98,19 +98,19 @@ Risoluti a garantire duraturo rispetto all'applicazione della giustizia internaz
 
 Hanno convenuto quanto segue:
 
-### Articolo 1
+#### Articolo 1
 
 La Corte
 
 E' istituita una Corte penale internazionale ("la Corte") in quanto istituzione permanente che puo' esercitare il suo potere giurisdizionale sulle persone fisiche per i piu' gravi crimini di portata internazionale, ai sensi del presente Statuto. Essa e' complementare alle giurisdizioni penali nazionali La sua giurisdizione ed il suo funzionamento sono regolati dalle norme del presente Statuto.
 
-### Articolo 2
+#### Articolo 2
 
 Rapporti della Corte con le Nazioni Unite
 
 La Corte instaura rapporti con le Nazioni Unite attraverso un accordo che dovra' essere approvato dall'Assemblea degli Stati Parti al presente Statuto e successivamente concluso dal Presidente della Corte a nome di quest'ultima.
 
-### Articolo 3
+#### Articolo 3
 
 Sede della Corte
 
@@ -120,7 +120,7 @@ Sede della Corte
 
 3\. Quando lo ritiene opportuno, la Corte puo' riunirsi in qualsiasi altro luogo, secondo le norme del presente Statuto.
 
-### Articolo 4
+#### Articolo 4
 
 Status giuridico e poteri della Corte
 
@@ -128,9 +128,9 @@ Status giuridico e poteri della Corte
 
 2\. La Corte puo' esercitare le proprie funzioni ed i propri poteri quali preveduti nel presente Statuto, sul territorio di qualsiasi Stato Parte e mediante una convenzione a tal fine, sul territorio di ogni altro Stato.
 
-## CAPITOLO II - GIURISDIZIONE, PROCEDIBILITA' E NORMATIVA APPLICABILE
+### CAPITOLO II - GIURISDIZIONE, PROCEDIBILITA' E NORMATIVA APPLICABILE
 
-### Articolo 5
+#### Articolo 5
 
 Crimini di competenza della Corte
 
@@ -146,7 +146,7 @@ d) crimine di aggressione.
 
 2\. La Corte esercitera' il proprio potere giurisdizionale sul crimine di aggressione successivamente all'adozione in conformita' agli articoli 121 e 123, della disposizione che definira' tale crimine e stabilira' le condizioni alle quali la Corte potra' esercitare il proprio potere giurisdizionale su tale crimine. Tale norma dovra' essere compatibile con le disposizioni in materia della Carta delle Nazioni Unite.
 
-### Articolo 6
+#### Articolo 6
 
 Crimine di genocidio
 
@@ -162,7 +162,7 @@ d) imporre misure volte ad impedire le nascite in seno al gruppo;
 
 e) trasferire con la forza bambini appartenenti al gruppo ad un gruppo diverso;
 
-### Articolo 7
+#### Articolo 7
 
 Crimini contro l'umanita'
 
@@ -212,7 +212,7 @@ i) per "sparizione forzata delle persone" s'intende l'arresto, la detenzione o r
 
 3\. Agli effetti del presente Statuto con il termine "genere sessuale" si fa riferimento ai due sessi maschile e femminile, nel contesto sociale, Tale termine non implica alcun altro significato di quello sopra menzionato.
 
-### Articolo 8
+#### Articolo 8
 
 Crimini di guerra
 
@@ -450,7 +450,7 @@ f) il capoverso e) del paragrafo 2 si applica ai conflitti armati non di caratte
 
 3\. Nulla di quanto contenuto nelle disposizioni del paragrafo 2, capoversi c) e d) puo' avere incidenza sulle responsabilita' dei governi di mantenere o ristabilire l'ordine pubblico all'interno dello Stato o di difendere l'unita' e l'integrita' territoriale dello Stato con ogni mezzo legittimo.
 
-### Articolo 9
+#### Articolo 9
 
 Elementi costitutivi dei crimini
 
@@ -468,11 +468,11 @@ Le modifiche sono approvate dall'Assemblea degli Stati Parte a maggioranza di du
 
 3\. Gli elementi costitutivi dei crimini e le modifiche allo stesso devono essere compatibili con il presente Statuto.
 
-### Articolo 10
+#### Articolo 10
 
 Nessuna disposizione del presente capitolo puo' essere interpretata nel senso di limitare o pregiudicare in qualsiasi modo, per effetti diversi da quelli del presente Statuto, le norme del diritto internazionale esistenti o in formazione.
 
-### Articolo 11
+#### Articolo 11
 
 Competenza ratione temporis
 
@@ -480,7 +480,7 @@ Competenza ratione temporis
 
 2\. Quando uno Stato diviene Parte al presente Statuto successivamente alla sua l'entrata in vigore, la Corte puo' esercitare il proprio potere giurisdizionale solo sui crimini commessi dopo l'entrata in vigore del presente Statuto nei confronti di tale Stato, a meno che lo Stato stesso abbia reso una dichiarazione ai sensi dell'articolo 12, paragrafo 3.
 
-### Articolo 12
+#### Articolo 12
 
 1\. Lo Stato che diviene parte del presente Statuto accetta con tale atto la competenza della Corte sui crimini di cui all'articolo 5.
 
@@ -492,7 +492,7 @@ b) lo Stato del quale la persona accusata ha la nazionalita'.
 
 3\. Se e' necessaria, a norma delle disposizioni del paragrafo 2, l'accettazione di uno Stato non Parte del presente Statuto, tale Stato puo', con dichiarazione depositata in Cancelleria, accettare la competenza della Corte sul crimine di cui trattasi. Lo Stato accettante Corte coopera con la Corte senza ritardo e senza eccezioni, in conformita' al capitolo IX.
 
-### Articolo 13
+#### Articolo 13
 
 Condizioni di procedibilita'
 
@@ -504,7 +504,7 @@ b) il Consiglio di Sicurezza, nell'ambito delle azioni prevedute dal capitolo VI
 
 c) il Procuratore ha aperto un'indagine su uno o piu' di tali crimini, in forza dell'articolo 15.
 
-### Articolo 14
+#### Articolo 14
 
 Segnalazione di una situazione ad opera di uno Stato Parte
 
@@ -512,7 +512,7 @@ Segnalazione di una situazione ad opera di uno Stato Parte
 
 2\. Lo Stato che sottopone il caso, indica per quanto possibile le circostanze rilevanti e presenta la documentazione di supporto di cui dispone.
 
-### Articolo 15
+#### Articolo 15
 
 Il Procuratore
 
@@ -530,13 +530,13 @@ Il Procuratore
 
 Cio' non preclude al Procuratore la possibilita' la facolta' di prendere in esame, alla luce di fatti o elementi di prova nuovi, ulteriori informazioni a lui eventualmente sottoposte relative alla stessa situazione.
 
-### Articolo 16
+#### Articolo 16
 
 Sospensione delle indagini o dell'esercizio dell'azione penale
 
 Nessuna indagine e nessun procedimento penale possono essere iniziati o proseguiti ai sensi del presente Statuto per il periodo di dodici mesi successivo alla data in cui il Consiglio di Sicurezza con risoluzione adottata ai sensi del Capitolo VIII della Carta delle Nazioni Unite, ne abbia fatto richiesta alla Corte; tale richiesta puo' essere rinnovata dal Consiglio con le stesse modalita'.
 
-### Articolo 17
+#### Articolo 17
 
 Questioni relative alla procedibilita'
 
@@ -560,7 +560,7 @@ c) il procedimento non e' stato, o non e' condotto in modo indipendente o imparz
 
 3\. Al fine di decidere se ricorre in specifiche fattispecie l'incapacita' dello Stato, la Corte valuta se, a causa di un totale o sostanziale collasso ovvero della indisponibilita' del proprio sistema giudiziario interno, lo Stato non abbia la capacita' di ottenere la presenza dell'imputato o le prove e testimonianze necessarie, ovvero sia in qualunque altro modo incapace a svolgere il procedimento instaurato.
 
-### Articolo 18
+#### Articolo 18
 
 Decisione preliminare in ordine alla procedibilita'
 
@@ -578,7 +578,7 @@ Decisione preliminare in ordine alla procedibilita'
 
 7\. Lo Stato che ha proposto impugnazione ai sensi del presente articolo contro una decisione della Camera Preliminare puo' eccepire l'improcedibillita' del caso ai sensi dell'articolo 19, sulla base di ulteriori fatti significativi o di un rilevante mutamento delle circostanze.
 
-### Articolo 19
+#### Articolo 19
 
 Questioni pregiudiziali sulla competenza della Corte e la procedibilita' del caso.
 
@@ -620,7 +620,7 @@ c) ad impedire, in cooperazione con gli Stati interessati, che coloro nei cui co
 
 Tali notizie devono essere , a richiesta dello Stato in oggetto, tenute riservate. Se successivamente il Procuratore decide di procedere alle indagini deve darne formale notizia allo Stato la cui procedura era all'origine della sospensione.
 
-### Articolo 20
+#### Articolo 20
 
 Ne bis in idem
 
@@ -634,7 +634,7 @@ a) mirava a sottrarre la persona interessata alla sua responsabilita' penale per
 
 b) in ogni caso non era stato condotto in modo indipendente ed imparziale, nel rispetto delle garanzie previste dal diritto internazionale, ma invece era stato condotto in modo da essere incompatibile, date le circostanze, con il fine di assicurare la persona interessata alla giustizia.
 
-### Articolo 21
+#### Articolo 21
 
 Normativa applicabile
 
@@ -646,9 +646,9 @@ b) in secondo luogo, ove occorra , i trattati applicabili ed i principi e le reg
 
 c) in mancanza, i principi generali di diritto ricavati dalla Corte in base alla normativa interna dei sistemi giuridici dei mondo, compresa, ove occorra, la normativa interna degli Stati che avrebbero avuto giurisdizione sul crimine, purche' tali principi non siano in contrasto con il presente Statuto, con il diritto internazionale e con le norme ed i criteri internazionalmente riconosciuti. 2. La Corte puo' applicare i principi di diritto e le norme giuridiche quali risultano dall'interpretazione fornitane nelle proprie precedenti decisioni. 3. L'applicazione e l'interpretazione del diritto ai sensi del presente articolo devono essere compatibili con i diritti dell'uomo internazionalmente riconosciuti e devono essere effettuate senza alcuna discriminazione fondata su ragioni quali il genere sessuale come definito nell'articolo 7, paragrafo 3, l'eta', la razza, il colore, la lingua, la religione o il credo, le opinioni politiche o le altre opinioni, la nazionalita', l'origine etnica o sociale, le condizioni economiche, la nascita o le altre condizioni personali.
 
-## CAPITOLO III - PRINCIPI GENERALI DEL DIRITTO PENALE
+### CAPITOLO III - PRINCIPI GENERALI DEL DIRITTO PENALE
 
-### Articolo 22
+#### Articolo 22
 
 Nullum crimine sine lege
 
@@ -658,13 +658,13 @@ Nullum crimine sine lege
 
 3\. Il presente articolo non impedisce che un comportamento sia qualificato come crimine secondo il diritto internazionale, indipendentemente dal presente Statuto.
 
-### Articolo 23
+#### Articolo 23
 
 Nulla poena sine lege
 
 Una persona che e' stata condannata dalla Corte puo' essere punita solo in conformita' alle disposizioni del presente Statuto.
 
-### Articolo 24
+#### Articolo 24
 
 Non retroattivita' ratione personae
 
@@ -672,7 +672,7 @@ Non retroattivita' ratione personae
 
 Se il diritto applicabile ad un caso e' modificato prima della sentenza definitiva, alla persona che e' oggetto d'inchiesta, di un procedimento giudiziario o di una condanna sara' applicato il diritto piu' favorevole.
 
-### Articolo 25
+#### Articolo 25
 
 Responsabilita' penale individuale
 
@@ -706,11 +706,11 @@ f) tenta di commettere il reato mediante atti che per via del loro carattere sos
 
 4\. Nessuna disposizione del presente Statuto relativa alla responsabilita' penale degli individui pregiudica la responsabilita' degli Stati nel diritto internazionale.
 
-### Articolo 26
+#### Articolo 26
 
 Esclusione di giurisdizione per persone di eta' inferiore a 18 anni La Corte non ha competenza nei confronti di una persona minore di 18 anni al momento della pretesa perpetrazione di un crimine.
 
-### Articolo 27
+#### Articolo 27
 
 Irrilevanza della qualifica ufficiale
 
@@ -718,7 +718,7 @@ Irrilevanza della qualifica ufficiale
 
 2\. Le immunita' o regole di procedura speciale eventualmente inerenti alla qualifica ufficiale di una persona in forza del diritto interno o del diritto Internazionale non vietano alla Corte di esercitare la sua competenza nei confronti di questa persona.
 
-### Articolo 28
+#### Articolo 28
 
 Responsabilita' dei capi militari e di altri superiori gerarchici
 
@@ -738,13 +738,13 @@ b) i crimini erano inerenti ad attivita' sotto la sua effettiva autorita' e resp
 
 c) non ha preso tutte le misure necessarie e ragionevoli in suo potere per impedirne o reprimerne l'esecuzione o per sottoporre la questione alle autorita' competenti ai fini d'inchiesta e di esercizio dell'azione penale.
 
-### Articolo 29
+#### Articolo 29
 
 Imprescrittibilita'
 
 I crimini di competenza della Corte non sono soggetti ad alcun termine di prescrizione.
 
-### Articolo 30
+#### Articolo 30
 
 Elementi psicologici
 
@@ -758,7 +758,7 @@ b) trattandosi di una conseguenza, una persona intende causa e tale conseguenza 
 
 3\. Vi e' consapevolezza ai sensi del presente articolo quando una persona e' cosciente dell'esistenza di una determinata circostanza o che una conseguenza avverra' nel corso normale degli eventi. "Intenzionalmente" e "con cognizione di causa" vanno interpretati di conseguenza.
 
-### Articolo 31
+#### Articolo 31
 
 Motivi di esclusione dalle responsabilita' penali
 
@@ -782,7 +782,7 @@ volonta'.
 
 3\. Durante il processo la Corte puo' tenere conto di un motivo di esonero diverso da quelli previsti al paragrafo 1, se tale motivo discende dal diritto applicabile enunciato all'articolo 21. Le procedure di esame di tale motivo di esclusione sono previste nelle Regole Procedurali e di Ammissibilita' delle Prove.
 
-### Articolo 32
+#### Articolo 32
 
 Errore di fatto o di diritto
 
@@ -790,7 +790,7 @@ Errore di fatto o di diritto
 
 2\. Un errore di diritto concernente la questione di sapere se un determinato tipo di comportamento costituisce un reato passibile della giurisdizione della Corte non e' motivo di esclusione dalla responsabilita' penale. Tuttavia, un errore di diritto puo' essere motivo di esclusione dalla responsabilita' penale quando annulla l'elemento psicologico del reato, o sulla base di quanto preveduto dall'articolo 33.
 
-### Articolo 33
+#### Articolo 33
 
 Ordini del superiore gerarchico e ordine di legge
 
@@ -804,9 +804,9 @@ c) l'ordine non era manifestamente illegale.
 
 2\. Ai fini del presente articolo, gli ordini di commettere un genocidio o crimini contro l'umanita' sono manifestamente illegali.
 
-## CAPITOLO IV - COMPOSIZIONE ED AMMINISTRAZIONE DELLA CORTE
+### CAPITOLO IV - COMPOSIZIONE ED AMMINISTRAZIONE DELLA CORTE
 
-### ARTICOLO 34
+#### ARTICOLO 34
 
 Organi della corte
 
@@ -820,7 +820,7 @@ e) Ufficio del Procuratore
 
 d) Cancelleria
 
-### Articolo 35
+#### Articolo 35
 
 Esercizio delle funzioni da parte dei giudici
 
@@ -832,7 +832,7 @@ Esercizio delle funzioni da parte dei giudici
 
 4\. Le intese finanziarie concernenti i giudici che non sono tenuti ad esercitare le loro funzioni a tempo pieno sono stabilite secondo l'articolo 49.
 
-### Articolo 36
+#### Articolo 36
 
 Qualificazioni candidatura ed elezione dei giudici
 
@@ -928,7 +928,7 @@ c) Un giudice nominato per un mandato di tre anni in applicazione del sotto-para
 
 10\. Nonostante le disposizioni del paragrafo 9, un giudice applicato alla Camera di primo grado o alla Camera d'Appello secondo l'articolo 39, che ha iniziato dinanzi a questa Sezione la trattazione di una causa di primo grado o d'appello rimane in funzione fino a quando la causa non e' risolta.
 
-### Articolo 37
+#### Articolo 37
 
 Seggi vacanti
 
@@ -936,7 +936,7 @@ Seggi vacanti
 
 2\. Un giudice eletto ad un seggio divenuto vacante completa il mandato del suo predecessore; se la durata del mandato da portare a termine e' inferiore o pari a tre anni, egli e' rieleggibile per un intero mandato secondo l'articolo 36.
 
-### Articolo 38
+#### Articolo 38
 
 Presidenza
 
@@ -950,7 +950,7 @@ b) delle altre funzioni conferitele secondo il presente Statuto.
 
 4\. Nell'esercizio delle competenze di cui al paragrafo 3, capoverso a), la Presidenza agisce di comune accordo con il Procuratore, al quale chiede il suo consenso per tutte le questioni d'interesse comune.
 
-### Articolo 39
+#### Articolo 39
 
 Sezioni
 
@@ -976,7 +976,7 @@ b) I giudici applicati alla Sezione degli appelli vi siedono per tutta la durata
 
 4\. I giudici applicati alla Sezione degli appelli siedono esclusivamente in questa Sezione. Tuttavia, nessuna disposizione del presente articolo vieta l'applicazione provvisoria di giudici della Sezione di primo grado alla Sezione preliminare o viceversa, se la Presidenza ritiene che cio' e' necessario in considerazione del carico di lavoro della Corte, rimanendo inteso che un giudice che ha partecipato alla fase preliminare di una questione non e' in alcun caso autorizzato a sedere nella Camera di primo grado investita della stessa questione.
 
-### Articolo 40
+#### Articolo 40
 
 Indipendenza dei giudici
 
@@ -988,7 +988,7 @@ Indipendenza dei giudici
 
 4\. Ogni questione che potrebbe sorgere a proposito dei paragrafi 2 e 3 e' decisa a maggioranza assoluta dei giudici. Quando una questione concerne un giudice, tale giudice non partecipera' all'adozione della decisione.
 
-### Articolo 41
+#### Articolo 41
 
 Esonero e ricusazione dei giudici
 
@@ -1000,7 +1000,7 @@ b) Il procuratore o la persona oggetto di un'inchiesta o di azioni giudiziarie p
 
 c) Ogni questione relativa alla ricusazione di un giudice e' decisa a maggioranza assoluta dei giudici. Il giudice di cui si domanda la ricusazione, puo' presentare le sue osservazioni in merito, ma non partecipa alla decisione.
 
-### Articolo 42
+#### Articolo 42
 
 Ufficio del Procuratore
 
@@ -1028,7 +1028,7 @@ a) La persona oggetto di un'inchiesta o di azioni giudiziarie puo' in qualsiasi 
 
 9\. Il Procuratore nomina consiglieri che sono specialisti in diritto per talune questioni, in modo particolare violenze sessuali, violenze per motivazioni sessiste e violenze contro bambini.
 
-### Articolo 43
+#### Articolo 43
 
 Ufficio di Cancelleria
 
@@ -1044,7 +1044,7 @@ Ufficio di Cancelleria
 
 6\. Il Cancelliere istituisce nell'ambito dell'Ufficio di cancelleria, una Divisione di assistenza per le vittime ed i testimoni. Tale Divisione e' incaricata, in consultazione con l'ufficio del procuratore, di consigliare e di aiutare in ogni altro modo appropriato i testimoni le vittime che compaiono dinanzi alla Corte e le altre persone che potrebbero essere messe in pericolo dalle deposizioni di tali testimoni, nonche' di prevedere le misure e disposizioni da prendere per garantire la loro protezione e sicurezza. Il personale della Divisione include specialisti dell'aiuto alle vittime di traumi, in modo particolare traumi susseguenti a violenze sessuali.
 
-### Articolo 44
+#### Articolo 44
 
 Il personale
 
@@ -1056,13 +1056,13 @@ Il personale
 
 4\. La Corte puo', in circostanze eccezionali, impiegare del personale messo gratuitamente a disposizione da Stati parti Organizzazioni intergovernative o organizzazioni non governative, per aiutare qualsiasi organo della Corte nei suoi lavori. Il Procuratore puo' accettare questa offerta per quanto riguarda L'Ufficio del Procuratore. Tali persone messe gratuitamente a disposizione sono impiegate in conformita' alle direttive che saranno stabilite dall'Assemblea degli Stati parti.
 
-### Articolo 45
+#### Articolo 45
 
 Impegno solenne
 
 Prima di entrare in funzione secondo il presente Statuto, i giudici, il Procuratore i Vice-Procuratori, il Cancelliere ed il Vice- Cancelliere assumono, in sessione pubblica, l'impegno solenne di esercitare le loro competenze in completa imparzialita' e coscienza.
 
-### Articolo 46
+#### Articolo 46
 
 Perdita di funzioni
 
@@ -1084,13 +1084,13 @@ c) nel caso di un Vice-procuratore, a maggioranza assoluta degli Stati parti su 
 
 4\. Un giudice, un Procuratore, un Vice-procuratore, un Cancelliere o Vice-Cancelliere il cui comportamento o attitudine ad esercitare le funzioni previste dal presente Statuto sono contestati in forza del presente articolo ha ogni facolta' di produrre e ricevere elementi di prova e di far valere i suoi argomenti secondo il Regolamento di procedura e di prova. Non e' prevista in altro modo la sua partecipazione all'esame della questione.
 
-### Articolo 47
+#### Articolo 47
 
 Misure disciplinari
 
 Un giudice, un Procuratore, un Vice-procuratore, un Cancelliere o un Vice-Cancelliere che abbia commesso una colpa di gravita' minore di quella menzionata all'articolo 46, paragrafo 1, e' oggetto di misure disciplinari secondo le Regole Procedurali e di Ammissibilita' delle Prove.
 
-### Articolo 48
+#### Articolo 48
 
 Privilegi ed immunita'
 
@@ -1112,13 +1112,13 @@ c) nel caso dei Vice-Procuratori e del personale dell'ufficio del Procuratore, d
 
 d) nel caso del Vice-Cancelliere e del personale dell'Ufficio di Cancelleria, dal Cancelliere.
 
-### Articolo 49
+#### Articolo 49
 
 Retribuzioni, indenniita' e rimborso spese
 
 I giudici, il Procuratore, i Vice-Procuratori il Cancelliere ed il Vice-Cancelliere percepiscono le retribuzioni, indennita' e rimborsi stabilite dall'Assemblea degli Stati Parti. Tali retribuzioni ed indennita' non saranno ridotte nel corso del mandato.
 
-### Articolo 50
+#### Articolo 50
 
 Lingue ufficiali e lingue di lavoro
 
@@ -1128,7 +1128,7 @@ Lingue ufficiali e lingue di lavoro
 
 3\. Su richiesta di ogni parte ad una procedura, o di' ogni Stato autorizzato ad intervenire in una procedura la Corte autorizza l'impiego, per tale parte o Stato, di una lingua diversa dall'inglese o dal francese qualora lo ritenga giustificato.
 
-### Articolo 51
+#### Articolo 51
 
 Regole Procedurali e di Ammissibilita' delle Prove.
 
@@ -1150,7 +1150,7 @@ Tali emendamenti entrano in vigore al momento della loro adozione a maggioranza 
 
 5\. In caso di conflitto fra lo Statuto ed il regolamento di procedura e di prova, prevale lo Statuto.
 
-### Articolo 52
+#### Articolo 52
 
 Regolamento della Corte
 
@@ -1160,9 +1160,9 @@ Regolamento della Corte
 
 3\. Il Regolamento della Corte ed ogni emendamento relativo acquisiscono effetto sin dal momento della loro adozione, a meno che i giudici non decidano diversamente. Immediatamente dopo essere stati adottati, essi saranno comunicati agli Stati Parti per osservazioni. Essi rimangono in vigore se la maggioranza degli Stati Parti non formula obiezioni al riguardo entro sei mesi.
 
-## CAPITOLO V - INDAGINE, ED ESERCIZIO DELL'AZIONE PENALE
+### CAPITOLO V - INDAGINE, ED ESERCIZIO DELL'AZIONE PENALE
 
-### Articolo 53
+#### Articolo 53
 
 Apertura di un'indagine
 
@@ -1190,7 +1190,7 @@ b) Inoltre la Camera preliminare puo', di sua iniziativa, esaminare la decisione
 
 4\. Il Procuratore puo in ogni momento riconsiderare la sua decisione di aprire o meno un'inchiesta o d'intentare o meno un'azione giudiziaria sulla base di nuovi fatti o informazioni.
 
-### Articolo 54
+#### Articolo 54
 
 Doveri e Poteri del Procuratore in materia d'inchieste.
 
@@ -1222,7 +1222,7 @@ e) impegnarsi a non divulgare, in nessuna fase della procedura, i documenti o in
 
 f) prendere o chiedere che siano prese misure atte a garantire la confidenzialita' delle informazioni raccolte, la protezione delle persone o la preservazione degli elementi probatori.
 
-### Articolo 55
+#### Articolo 55
 
 Diritti delle persone durante l'indagine
 
@@ -1246,7 +1246,7 @@ c) essere assistita da un difensore di sua scelta oppure se ne e' sprovvista, da
 
 d) essere interrogata in presenza del suo avvocato, a meno che non abbia rinunciato al suo diritto ad essere assistita da un avvocato.
 
-### Articolo 56
+#### Articolo 56
 
 Ruolo della Camera preliminare in relazione ad un'opportunita'
 
@@ -1278,7 +1278,7 @@ b) Il procuratore puo' impugnare la decisione della Camera preliminare di agire 
 
 4\. L'ammissibilita' degli elementi di prova preservati o raccolti ai fini del processo in attuazione del presente articolo, o la loro registrazione, e' regolata dall'articolo 69, il loro valore essendo quello attribuito alle stesse dalla Camera di primo grado.
 
-### Articolo 57
+#### Articolo 57
 
 Funzioni e poteri della Camera preliminare
 
@@ -1300,7 +1300,7 @@ d) autorizzare il Procuratore a prendere alcune misure in materia d'inchiesta su
 
 e) quando un mandato d'arresto o citazione di comparizione e' stato rilasciato in forza dell'articolo 58, sollecitare la cooperazione degli Stati in forza dell'articolo 93, paragrafo 1 capoverso j), tenendo debitamente conto della consistenza degli elementi probatori e dei diritti delle parti interessate, come previsto nel presente Statuto e nelle Regole Procedurali e di Ammissibilita' delle Prove, per prendere misure cautelari a fini di confisca, soprattutto nell'interesse superiore delle vittime.
 
-### Articolo 58
+#### Articolo 58
 
 Rilascio da parte della Camera preliminare di un mandato d'arresto o di un ordine di comparizione
 
@@ -1358,7 +1358,7 @@ d) un breve esposto dei fatti che si presume costituiscano reato.
 
 La citazione e' notificata alla persona.
 
-### Articolo 59
+#### Articolo 59
 
 Procedura di arresto nello Stato di detenzione preventiva
 
@@ -1384,7 +1384,7 @@ L'autorita' competente dello Stato di detenzione non e' abilitata a verificare s
 
 7\. Dopo l'ordine di consegna da parte dello Stato di detenzione, la persona e' al piu' presto consegnata alla Corte.
 
-### Articolo 60
+#### Articolo 60
 
 Procedura iniziale dinanzi alla Corte
 
@@ -1398,7 +1398,7 @@ Procedura iniziale dinanzi alla Corte
 
 5\. Se del caso la Camera preliminare emette un mandato d'arresto per garantire la comparizione di una persona posta in liberta'.
 
-### Articolo 61
+#### Articolo 61
 
 Convalida delle accuse prima del processo
 
@@ -1456,13 +1456,13 @@ ii) di modificare un'accusa se gli elementi probatori prodotti sembrano indicare
 
 ## PARTE 6 - IL PROCESSO
 
-### Articolo 62
+#### Articolo 62
 
 Luogo del processo
 
 Se non diversamente stabilito, il luogo del processo e' la sede della Corte.
 
-### Articolo 63
+#### Articolo 63
 
 Processo in presenza dell'imputato
 
@@ -1470,7 +1470,7 @@ Processo in presenza dell'imputato
 
 2\. Qualora l'imputato, presente dinanzi alla Corte, disturbi in modo persistente lo svolgimento del processo, la Camera di primo grado puo' ordinare che sia espulso dall'aula dell'udienza, e decidere che segua il processo e fornisca istruzioni al suo legale dall'esterno dell'aula, se del caso usando mezzi tecnologici di comunicazione. Tali provvedimenti verranno adottati solo in circostanze eccezionali, dopo che altre alternative ragionevoli si saranno dimostrate inadeguate, e solo per la durata strettamente necessaria.
 
-### Articolo 64
+#### Articolo 64
 
 Funzioni e poteri della Camera di primo grado
 
@@ -1516,7 +1516,7 @@ Funzioni e poteri della Camera di primo grado
 
 10\. La Camera di primo grado si assicura che vengano redatti e conservati a cura del Cancelliere i verbali integrali del processo, riflettenti in modo accurato i lavori.
 
-### Articolo 65
+#### Articolo 65
 
 Procedure in caso di ammissione di colpevolezza
 
@@ -1550,7 +1550,7 @@ testimoni prodotte dal Procuratore o dall'imputato.
 
 5\. Le consultazioni fra il Procuratore e la difesa su eventuali modifiche dei capi d'accusa, sull'ammissione di colpevolezza o la pena da pronunziare non saranno vincolanti per la Corte.
 
-### Articolo 66
+#### Articolo 66
 
 Presunzione d'innocenza
 
@@ -1560,7 +1560,7 @@ Presunzione d'innocenza
 
 3\. Per condannare l'imputato, la Corte deve accertare la colpevolezza dell'imputato al di la' di ogni ragionevole dubbio.
 
-### Articolo 67
+#### Articolo 67
 
 Diritti dell'imputato
 
@@ -1586,7 +1586,7 @@ Diritti dell'imputato
 
 2\. In aggiunta ad ogni altra comunicazione prevista dal presente Statuto, il Procuratore, non appena possibile, porta a conoscenza della difesa gli elementi di prova in suo possesso o a sua disposizione, che egli ritiene dimostrino o tendano a dimostrare l'innocenza dell'imputato, o ad attenuare la sua colpevolezza, o che siano tali da compromettere la credibilita' degli elementi di prova a carico. In caso di dubbio sull'applicazione del presente paragrafo, decide la Corte.
 
-### Articolo 68
+#### Articolo 68
 
 Protezione delle vittime e dei testimoni e loro partecipazione al
 
@@ -1604,7 +1604,7 @@ processo
 
 6\. Gli Stati possono chiedere l'adozione delle misure di protezione necessarie per i loro funzionari o agenti e per la protezione di informazioni riservate o delicate
 
-### Articolo 69
+#### Articolo 69
 
 Prove
 
@@ -1632,7 +1632,7 @@ Procedurali e di Ammissibilita' delle Prove. La Corte puo' altresi' autorizzare 
 
 8\. Nel decidere sulla rilevanza o l'ammissibilita' degli elementi di prova raccolti da uno Stato, la Corte non si pronuncia sull'applicazione della legislazione nazionale di questo Stato.
 
-### Articolo 70
+#### Articolo 70
 
 Reati contro l'amministrazione della giustizia
 
@@ -1658,7 +1658,7 @@ Reati contro l'amministrazione della giustizia
 
 (b) su richiesta della Corte, ogni qualvolta lo riterra' opportuno lo Stato Parte sottoporra' il caso alle sue autorita' competenti ai fini del procedimento. Dette autorita' competenti tratteranno tali casi con diligenza e mobiliteranno risorse sufficienti perche' si possano svolgere con efficienza.
 
-### Articolo 71
+#### Articolo 71
 
 Sanzioni per comportamento scorretto dinanzi alla Corte
 
@@ -1666,7 +1666,7 @@ Sanzioni per comportamento scorretto dinanzi alla Corte
 
 2\. Il regime delle sanzioni indicate al paragrafo 1 e' stabilito nelle Regole Procedurali e di Ammissibilita' delle Prove.
 
-### Articolo 72
+#### Articolo 72
 
 Protezione delle informazioni attinenti la sicurezza nazionale
 
@@ -1718,13 +1718,13 @@ conformita' con l'Articolo 87, paragrafo 7, specificando i motivi in base ai qua
 
 appropriata nella fattispecie nel giudicare l'imputato, circa l'esistenza o l'inesistenza di un fatto
 
-### Articolo 73
+#### Articolo 73
 
 Informazioni o documenti provenienti da terzi
 
 Qualora la Corte chieda ad uno Stato, Parte di produrre un documento o informazioni in sua custodia in suo possesso o sotto il suo controllo, ad esso rivelati da uno Stato, un'organizzazione intergovernativa o un'organizzazione internazionale in maniera riservata, lo Stato Parte cerchera' di ottenere dalla fonte il consenso a divulgare tale documento o informazione. Qualora la fonte sia uno Stato Parte, questo acconsentira' alla divulgazione del documento o dell'informazione oppure si impegnera' a risolvere la questione della sua divulgazione con la Corte, ferme restando le disposizioni dell'Articolo 72. Nel caso in cui la fonte non sia uno Stato Parte e neghi il consenso alla divulgazione, lo Stato a cui e' stata rivolta la richiesta informera' la Corte di non essere in grado di presentare il documento o l'informazione, a causa di un obbligo pregresso di riservatezza assunto con la fonte.
 
-### Articolo 74
+#### Articolo 74
 
 Requisiti per la sentenza
 
@@ -1738,7 +1738,7 @@ Requisiti per la sentenza
 
 5\. La decisione sara' messa per iscritto e conterra' un rendiconto completo e ragionato delle risultanze della Camera di primo grado sulle prove e le conclusioni. La Camera di primo grado emanera' una sola sentenza. Nel caso in cui non vi sia unanimita' la sentenza della Camera di primo grado conterra' i pareri della maggioranza e quelli della minoranza. La sentenza o una sintesi stessa sara' letta in pubblica udienza.
 
-### Articolo 75
+#### Articolo 75
 
 Riparazioni a favore delle vittime
 
@@ -1754,7 +1754,7 @@ Riparazioni a favore delle vittime
 
 6\. Nulla nel presente Articolo sara' interpretato come lesivo dei diritti che la legislazione nazionale o internazionale riconoscono alle vittime.
 
-### Articolo 76
+#### Articolo 76
 
 Condanne
 
@@ -1766,9 +1766,9 @@ Condanne
 
 4\. La sentenza e' pronunziata in udienza pubblica e, ove possibile, in presenza dell'imputato
 
-## CAPITOLO VII - PENE
+### CAPITOLO VII - PENE
 
-### Articolo 77
+#### Articolo 77
 
 Pene applicabili
 
@@ -1784,7 +1784,7 @@ a) un'ammenda fissata secondo i criteri previsti dalle Regole Procedurali e di A
 
 b) la confisca di profitti, beni ed averi ricavati direttamente o indirettamente dal crimine fatti salvi i diritti di terzi in buona fede.
 
-### Articolo 78
+#### Articolo 78
 
 Determinazione della pena
 
@@ -1794,7 +1794,7 @@ Determinazione della pena
 
 3\. Se una persona e' riconosciuta colpevole di piu' reati, la Corte quantifica sia la pena per ciascun reato che quella cumulativa, specificando la durata totale dell'imprigionamento. Tale durata non puo' essere inferiore a quella della pena piu' alta applicata per un singolo crimine e non puo' superare i 30 anni di reclusione o l'ergastolo previsto all'articolo 77, paragrafo 1, capoverso b).
 
-### Articolo 79
+#### Articolo 79
 
 Fondo di garanzia per le vittime
 
@@ -1804,15 +1804,15 @@ Fondo di garanzia per le vittime
 
 3\. Il Fondo e' gestito in conformita' ai criteri stabiliti dall'Assemblea degli Stati Parte.
 
-### Articolo 80
+#### Articolo 80
 
 Autonomia dell'applicazione delle pene ad opera degli, Stati e della legislazione nazionale
 
 Nessuna disposizione del presente capitolo vieta l'applicazione ad opera degli Stati di pene previste dal loro diritto interno, ne l'applicazione della normativa di Stati che non prevedono le pene stabilite nel presente capitolo.
 
-## CAPITOLO VIII - APPELLO E REVISIONE
+### CAPITOLO VIII - APPELLO E REVISIONE
 
-### Articolo 81
+#### Articolo 81
 
 Appello contro la sentenza di condanna o la determinazione della pena
 
@@ -1858,7 +1858,7 @@ ii) contro un'ordinanza della Camera di primo grado preveduta dal capoverso i) p
 
 4\. Subordinatamente alle disposizioni del paragrafo 3, capoversi a) e b) l'esecuzione della decisione sulla colpevolezza o della sentenza e' sospesa durante il periodo utile per proporre appello e durante il corso del giudizio di appello.
 
-### Articolo 82
+#### Articolo 82
 
 Appello contro altre decisioni
 
@@ -1880,7 +1880,7 @@ L'appello in questione sara' trattato mediante una procedura d'urgenza.,
 
 4\. Il rappresentante legale delle vittime la persona condannata o il proprietario in buona fede di un bene pregiudicato da un'ordinanza emessa in forza dell'articolo 73, possono presentare appello contro tale ordinanza, come previsto nelle Regole Procedurali e di Ammissibilita' delle Prove.
 
-### Articolo 83
+#### Articolo 83
 
 Procedura d'appello
 
@@ -1900,7 +1900,7 @@ A tal fine, la Camera d'appello puo' rinviare una questione di fatto dinanzi all
 
 5\. La Camera di appello puo' pronunciare la sua sentenza in assenza della persona prosciolta o condannata.
 
-### Articolo 84
+#### Articolo 84
 
 Revisione della condanna o della pena.
 
@@ -1930,7 +1930,7 @@ c) rimanere investita del caso,
 
 in vista di determinare dopo aver inteso le parti secondo le modalita' previste nelle Regole Procedurali e di Ammissibilita' delle Prove, se la sentenza debba essere riveduta.
 
-### Articolo 85
+#### Articolo 85
 
 Risarcimento alle persone arrestate e condannate.
 
@@ -1940,15 +1940,15 @@ Risarcimento alle persone arrestate e condannate.
 
 3\. In circostanze eccezionali, qualora la Corte scopra sulla base di elementi affidabili che e' stato commesso un errore giudiziario grave e manifesto essa puo', a sua discrezione concedere un risarcimento secondo i criteri enunciati nelle Regole Procedurali e di Ammissibilita' delle Prove, ad una persona che era stata liberata a seguito di un proscioglimento definitivo o in quanto il procedimento giudiziario aveva cessato per via di questo fatto.
 
-## CAPITOLO IX - COOPERAZIONE INTERNAZIONALE ED ASSISTENZA GIUDIZIARIA
+### CAPITOLO IX - COOPERAZIONE INTERNAZIONALE ED ASSISTENZA GIUDIZIARIA
 
-### Articolo 86
+#### Articolo 86
 
 Obbligo generale di cooperare
 
 Secondo le disposizioni del presente Statuto gli Stati parti cooperano pienamente con la Corte nelle inchieste ed azioni giudiziarie che la stessa svolge per reati di sua competenza.
 
-### Articolo 87
+#### Articolo 87
 
 Richieste di cooperazione: disposizioni generali
 
@@ -1974,13 +1974,13 @@ Se, avendo concluso con la Corte un'intesa ad hoc o un accordo, lo Stato non par
 
 7\. Se uno Stato Parte non aderisce ad una richiesta di cooperazione della Corte, diversamente da come previsto dal presente Statuto, impedendole in tal modo di esercitare le sue funzioni ed i suoi poteri in forza del presente Statuto, la Corte puo' prenderne atto ed investire del caso l'Assemblea degli Stati parti o il Consiglio di sicurezza se e' stata adita da quest'ultimo.
 
-### Articolo 88
+#### Articolo 88
 
 Procedure disponibili secondo la legislazione nazionale
 
 Gli Stati parti si adoperano per predisporre nel loro ordinamento nazionale procedure appropriate per realizzare tutte le forme di cooperazione indicate nel presente capitolo.
 
-### Articolo 89
+#### Articolo 89
 
 Consegna di determinate persone alla Corte
 
@@ -2008,7 +2008,7 @@ Tuttavia la detenzione ai sensi del presente capoverso non puo' prolungarsi oltr
 
 4\. Se la persona reclamata e' oggetto di un'azione giudiziaria o sconta una pena nello Stato richiesto per un reato diverso da quello per il quale si richiede la sua consegna alla Corte lo Stato richiesto che ha deciso di aderire alla domanda si consulta con la Corte.
 
-### Articolo 90
+#### Articolo 90
 
 Richieste concorrenti
 
@@ -2042,7 +2042,7 @@ b) se e' tenuto, per via di un obbligo internazionale, ad estradare la persona v
 
 8\. Se, a seguito di una notifica ricevuta in applicazione del presente articolo, la Corte ha giudicato un caso come inammissibile e l'estradizione verso lo Stato richiedente e' ulteriormente rifiutata, lo Stato richiesto notifica la decisione della Corte.
 
-### Articolo 91
+#### Articolo 91
 
 Contenuto della richiesta di arresto e di consegna
 
@@ -2068,7 +2068,7 @@ d) se la persona ricercata e' stata condannata ad una pena, una copia della cond
 
 4\. Su richiesta della Corte, uno Stato parte intrattiene con quest'ultima sia in generale, sia a proposito di una particolare questione, consultazioni sulle condizioni previste dalla sua legislazione interna che potrebbero applicarsi secondo il paragrafo 2, capoverso c). Nell'ambito di tali consultazioni lo Stato parte informa la Corte delle particolari esigenze della sua legislazione.
 
-### Articolo 92
+#### Articolo 92
 
 Fermo
 
@@ -2088,7 +2088,7 @@ d) una dichiarazione indicante che fara' seguito una richiesta di consegna della
 
 4\. La rimessa in liberta' della persona ricercata prevista al paragrafo 3 non pregiudica il suo successivo arresto e la sua consegna, se la richiesta di consegna accompagnata dai documenti giustificativi viene presentata in seguito.
 
-### Articolo 93
+#### Articolo 93
 
 Altre forme di cooperazione
 
@@ -2162,7 +2162,7 @@ ii) Nel caso di cui al sottocapoverso b), i) 1).
 
 c) La Corte puo', alle condizioni enunciate al presente paragrafo, dar seguito ad una richiesta di assistenza emanante da uno Stato che non e' parte al presente Statuto.
 
-### Articolo 94
+#### Articolo 94
 
 Differimento della messa in opera di una richiesta per a di inchieste
 
@@ -2174,7 +2174,7 @@ Tuttavia il rinvio non dovra' prolungarsi oltre quanto sia necessario per portar
 
 2\. Se viene presa la decisione di soprassedere all'esecuzione della richiesta in applicazione del paragrafo 1, il Procuratore puo' tuttavia chiedere l'adozione di provvedimenti per preservare gli elementi di prova, come previsto all'articolo 93, paragrafo 1. capoverso j).
 
-### Articolo 95
+#### Articolo 95
 
 Differimento dell'esecuzione di una richiesta per via di un'eccezione
 
@@ -2182,7 +2182,7 @@ d'inammissibilita'
 
 Fatto salvo l'articolo 53, paragrafo 2, se la Corte esamina un'eccezione d'inammissibilita' in applicazione degli articoli 18 e 19, lo Stato richiesto puo' soprassedere all'esecuzione di una richiesta presentata in forza del presente capitolo fino a quando la Corte non abbia specificatamente ordinato che il Procuratore. puo' continuare a raccogliere elementi di prova in applicazione degli articoli 18 e 19.
 
-### Articolo 96
+#### Articolo 96
 
 Contenuto di una richiesta vertente su altre forme di cooperazione
 
@@ -2208,7 +2208,7 @@ f) ogni altra informazione utile affinche' l'assistenza richiesta possa essere f
 
 4\. Le disposizioni del presente articolo si applicano altresi', se del caso, ad una richiesta d'assistenza indirizzata alla Corte.
 
-### Articolo 97
+#### Articolo 97
 
 Consultazioni
 
@@ -2220,7 +2220,7 @@ b) nel caso di una richiesta di consegna, la persona reclamata rimane introvabil
 
 c) il fatto che lo Stato richiesto sarebbe costretto, per dar seguito alla richiesta nella forma in cui si trova, di infrangere un obbligo convenzionale che gia' ha nei confronti di un altro Stato.
 
-### Articolo 98
+#### Articolo 98
 
 Cooperazione in relazione a rinuncia ad immunita' e consenso alla
 
@@ -2230,7 +2230,7 @@ consegna
 
 2\. La Corte non' puo' presentare una richiesta di consegna che costringerebbe lo Stato richiesto ad agire in modo incompatibile con gli obblighi che gli incombono in forza di accordi internazionali secondo i quali il consenso dello Stato d'invio e' necessario per poter consegnare alla Corte una persona dipendente da detto Stato, a meno che la Corte non sia in grado di ottenere preliminarmente la cooperazione dello Stato d'invio ed il suo consenso alla consegna.
 
-### Articolo 99
+#### Articolo 99
 
 Seguito dato alle richieste presentate a titolo degli articoli 93 e 96
 
@@ -2250,7 +2250,7 @@ b) negli altri casi, il Procuratore puo' eseguire la richiesta, previa consultaz
 
 5\. Le disposizioni che autorizzano la persona sentita o interrogata dalla Corte ai sensi dell'articolo 72, ad invocare le limitazioni previste, al fine d'impedire la divulgazione d'informazioni confidenziali connesse alla difesa o alla sicurezza nazionale, si applicano altresi' all'esecuzione delle richieste di assistenza ai sensi del presente articolo.
 
-### Articolo 100
+#### Articolo 100
 
 Spese
 
@@ -2270,7 +2270,7 @@ f) previa consultazione, tutte le spese straordinarie che la messa in opera di u
 
 2\. Le disposizioni del paragrafo 1 si applicano, se del caso, alle richieste indirizzate alla Corte dagli Stati parti. In questo caso, la Corte si assume a carico le spese ordinarie di messa in opera.
 
-### Articolo 101
+#### Articolo 101
 
 Regola della specialita'
 
@@ -2278,7 +2278,7 @@ Regola della specialita'
 
 2\. La Corte puo' sollecitare allo Stato che le ha consegnato una persona, una deroga alle condizioni di cui al paragrafo 1. Essa fornisce se del caso, informazioni supplementari secondo l'articolo 91. Gli Stati parti sono abilitati a concedere una deroga alla Corte e non devono lesinare sforzi a tal fine.
 
-### Articolo 102
+#### Articolo 102
 
 Uso dei termini
 
@@ -2288,9 +2288,9 @@ a) "consegna" significa per uno Stato il fatto di consegnare una persona alla Co
 
 b) "estradizione" significa per uno Stato consegnare una persona ad un altro Stato in applicazione di un trattato, di una convenzione o della sua legislazione nazionale.
 
-## CAPITOLO X - ESECUZIONE
+### CAPITOLO X - ESECUZIONE
 
-### Articolo 103
+#### Articolo 103
 
 Ruolo degli Stati nell'esecuzione delle pene detentive
 
@@ -2318,7 +2318,7 @@ e) di ogni altro fattore relativo alle circostanze del reato, alla situazione de
 
 4\. Se nessun Stato e' designato come previsto al paragrafo 1, la pena detentiva e' scontata in un istituto penitenziario messo a disposizione dallo Stato ospitante, in condizioni definite nell'accordo di sede di cui all'articolo 3, paragrafo 2. In questo caso, le spese relative all'esecuzione della pena sono a carico della Corte.
 
-### Articolo 104
+#### Articolo 104
 
 Modifica della designazione dello Stato incaricato dell'esecuzione
 
@@ -2326,7 +2326,7 @@ Modifica della designazione dello Stato incaricato dell'esecuzione
 
 2\. La persona condannata puo' in qualsiasi momento chiedere alla Corte di essere trasferita fuori dallo Stato incaricato dell'esecuzione.
 
-### Articolo 105
+#### Articolo 105
 
 Esecuzione della pena
 
@@ -2334,7 +2334,7 @@ Esecuzione della pena
 
 2\. La Corte ha sola il diritto di pronunziarsi su una richiesta di revisione della sua decisione di colpevolezza o sulla pena. Lo Stato incaricato dell'esecuzione non impedisce al condannato di presentare tale domanda.
 
-### Articolo 106
+#### Articolo 106
 
 Controllo dell'esecuzione della pena e condizioni di detenzione
 
@@ -2344,7 +2344,7 @@ Controllo dell'esecuzione della pena e condizioni di detenzione
 
 3\. Le comunicazioni fra i condannati e la Corte sono riservate e senza impedimenti.
 
-### Articolo 107
+#### Articolo 107
 
 Trasferimento del condannato che ha terminato di scontare la pena
 
@@ -2354,7 +2354,7 @@ Trasferimento del condannato che ha terminato di scontare la pena
 
 3\. Subordinatamente alle disposizioni dell'articolo 108, lo Stato di detenzione puo' altresi', in applicazione della sua legislazione, estradare o consegnare in altra maniera la persona allo Stato che ha chiesto la sua estradizione, o la sua consegna, a fini di giudizio o di esecuzione di una pena.
 
-### Articolo 108
+#### Articolo 108
 
 Limiti in materia di procedimenti giudiziari o di condanne per altre infrazioni
 
@@ -2364,7 +2364,7 @@ Limiti in materia di procedimenti giudiziari o di condanne per altre infrazioni
 
 3\. Il paragrafo 1 cessa di applicarsi se il condannato risiede volontariamente per piu' di 30 giorni sul territorio dello Stato incaricato dell'esecuzione dopo aver scontato la totalita' della pena pronunciata dalla Corte o ritorna sul territorio dello Stato dopo averlo lasciato.
 
-### Articolo 109
+#### Articolo 109
 
 Pagamento di sanzioni pecuniarie ed esecuzione di misure, di confisca 1. Gli Stati parti fanno eseguire le sanzioni pecuniarie e le misure di confisca ordinate dalla Corte in forza del capitolo VII fatti salvi i diritti dei terzi in buona fede e secondo la procedura prevista dalla loro legislazione interna.
 
@@ -2372,7 +2372,7 @@ Pagamento di sanzioni pecuniarie ed esecuzione di misure, di confisca 1. Gli Sta
 
 3\. I beni o i proventi della vendita di beni immobiliari o, se del caso, di altri beni ottenuti da uno Stato parte in esecuzione di una sentenza della Corte, sono trasferiti alla Corte.
 
-### Articolo 110
+#### Articolo 110
 
 Esame da parte della Corte della questione di una riduzione di pena 1. Lo Stato incaricato dell'esecuzione non puo' liberare la persona detenuta prima della espiazione della pena pronunciata dalla Corte.
 
@@ -2392,15 +2392,15 @@ c) altri fattori previsti nelle Regole Procedurali e di Ammissibilita' delle Pro
 
 5\. Se, in occasione del suo riesame di cui al paragrafo 3 la Corte decide che non e' il caso di ridurre la pena, essa in seguito rivedra' la questione della riduzione di pena negli intervalli previsti nel Regolamento di procedura e di' prova, ed applicando i criteri che vi sono enunciati.
 
-### Articolo 111
+#### Articolo 111
 
 Evasione
 
 Se una persona condannata evade dal luogo di detenzione e 'fugge dallo Stato incaricato dell'esecuzione della pena tale Stato puo', dopo aver consultato la Corte, chiedere allo Stato in cui la persona si trova, la consegna di tale persone in applicazione di accordi bilaterali o multilaterali in vigore, oppure chiedere alla Corte di sollecitare la consegna di detta persona secondo il capitolo IX. Quando la Corte sollecita la consegna di una persona, puo' ordinare che sia consegnata allo Stato nel quale scontava la pena o altro Stato da essa designato.
 
-## CAPITOLO XI - ASSEMBLEA DEGLI STATI PARTE
+### CAPITOLO XI - ASSEMBLEA DEGLI STATI PARTE
 
-### Articolo 112
+#### Articolo 112
 
 Assemblea degli Stati parti
 
@@ -2448,21 +2448,21 @@ b) le decisioni su questioni di procedura devono essere adottate mediante una ma
 
 10\. Le lingue ufficiali e di lavoro dell'Assemblea sono quelle dell'Assemblea, Generale delle Nazioni Unite.
 
-## CAPITOLO III - FINANZIAMENTO
+### CAPITOLO III - FINANZIAMENTO
 
-### Articolo 113
+#### Articolo 113
 
 Disposizioni finanziarie
 
 Salvo diversa disposizione formale, tutte le questioni finanziarie relative alla Corte ed alle riunioni dell'Assemblea degli Stati parti, ivi compreso l'Ufficio di Presidenza e gli organi sussidiari della stessa sono disciplinate dal presente Statuto, dal Regolamento finanziario e dalle Regole di gestione finanziaria adottate dall'Assemblea degli Stati parti.
 
-### Articolo 114
+#### Articolo 114
 
 Pagamento delle spese
 
 Le spese della Corte e dell'Assemblea degli Stati parti nonche' dell'Ufficio di Presidenza e degli organi sussidiari della stessa, sono pagate mediante le risorse finanziarie della Corte.
 
-### Articolo 115
+#### Articolo 115
 
 Risorse finanziarie della Corte e dell'Assemblea degli Stati parti
 
@@ -2472,27 +2472,27 @@ a) contributi degli Stati parti;
 
 b) risorse finanziarie fornite dell'Organizzazione delle Nazioni Unite subordinatamente all'approvazione dell'Assemblea generale, in modo particolare per quanto concerne le spese effettuate per le rimessioni decise dal Consiglio di sicurezza.
 
-### Articolo 116
+#### Articolo 116
 
 Contributi volontari
 
 Fermo restando l'articolo 115, la Corte puo' ricevere ed utilizzare a titolo di risorse supplementari i contributi volontari di Governi, Organizzazioni internazionali privati, societa' ed altri enti secondo i criteri stabiliti in materia dall'Assemblea degli Stati parti.
 
-### Articolo 117
+#### Articolo 117
 
 Calcolo dei contributi
 
 I contributi degli Stati parti sono calcolati sulla base di un tariffario per le rispettive quote, stabilito di comune accordo, basato sul tariffario adottato dall'Organizzazione delle Nazioni Unite per il suo bilancio preventivo ordinario, ed adeguato in conformita' ai principi di quest'ultimo tariffario si fonda.
 
-### Articolo 118
+#### Articolo 118
 
 Revisione annuale dei conti
 
 I registri, i libri ed i conti della Corte, compresi i suoi stati patrimoniali annuali sono oggetto ogni anno di un controllo da parte di un revisore dei conti indipendente.
 
-## CAPITOLO XIII - CLAUSOLE FINALI
+### CAPITOLO XIII - CLAUSOLE FINALI
 
-### Articolo 119
+#### Articolo 119
 
 Soluzione delle controversie
 
@@ -2500,13 +2500,13 @@ Soluzione delle controversie
 
 2\. Ogni altra controversia fra due o piu' Stati Parti relativa all'interpretazione o applicazione del presente Statuto che non e' risolta per via negoziale entro tre mesi dopo il suo inizio, e' rinviata all'Assemblea degli Stati parti. L'Assemblea puo' adoperarsi per risolvere essa stessa la controversia, oppure formulare raccomandazioni su altri mezzi processuali per risolverla, ivi compreso mediante il deferimento alla Corte internazionale di giustizia in conformita' allo Statuto di quest'ultima
 
-### Articolo 120
+#### Articolo 120
 
 Riserve
 
 Nessuna riserva puo' essere apportata al presente Statuto
 
-### Articolo 121
+#### Articolo 121
 
 Emendamenti
 
@@ -2524,7 +2524,7 @@ Emendamenti
 
 7\. Il Segretario Generale dell'Organizzazione delle Nazioni Unite comunica a tutti gli Stati parti gli emendamenti adottati in una riunione dell'Assemblea degli Stati parti o ad una Conferenza di revisione.
 
-### Articolo 122
+#### Articolo 122
 
 Emendamenti alle disposizioni di carattere istituzionale
 
@@ -2532,7 +2532,7 @@ Emendamenti alle disposizioni di carattere istituzionale
 
 2\. Gli emendamenti presentati in attuazione del presente articolo, per i quali non e' possibile pervenire ad un consenso, sono adottati dall'Assemblea degli Stati parti o da una Conferenza di revisione a maggioranza di due terzi degli Stati parti. Tali emendamenti entrano in vigore nei confronti di tutti gli Stati parti sei mesi dopo la loro adozione da parte dell'Assemblea o della Conferenza, a seconda dei casi.
 
-### Articolo 123
+#### Articolo 123
 
 Revisione dello Statuto
 
@@ -2542,13 +2542,13 @@ Revisione dello Statuto
 
 3\. L'adozione e l'entrata in vigore di ogni emendamento al presente Statuto, esaminato ad una Conferenza di revisione, sono regolate dalle disposizioni dell'articolo 121, paragrafi 3 a 7.
 
-### Articolo 124
+#### Articolo 124
 
 Disposizione transitoria
 
 Nonostante le disposizioni dell'articolo 12, paragrafo 1, uno Stato che diviene parte al presente Statuto puo', nei sette anni successivi all'entrata in vigore dello Statuto nei suoi confronti dichiarare di non accettare la competenza della Corte per quanto riguarda la categoria di reati di cui all'articolo 8 quando sia allegato che un reato e' stato commesso sul suo territorio o da suoi cittadini. Tale dichiarazione puo' essere ritirata in qualsiasi momento, Le disposizioni del presente articolo saranno riesaminate nella Conferenza di revisione prevista all'articolo 123, paragrafo 1.
 
-### Articolo 125
+#### Articolo 125
 
 Firma, ratifica, accettazione, approvazione o adesione
 
@@ -2562,7 +2562,7 @@ Successivamente a tale data, rimarra' aperto alla firma in Roma presso il Minist
 
 Gli strumenti di adesione saranno depositati presso il Segretario generale dell'Organizzazione delle Nazioni Unite.
 
-### Articolo 126
+#### Articolo 126
 
 Entrata in vigore
 
@@ -2570,7 +2570,7 @@ Entrata in vigore
 
 2\. Nei confronti di ciascun Stato che ratifica accetta o approva lo Statuto o vi aderisce dopo il deposito del sessantesimo strumento di ratifica, di accettazione, di approvazione o di adesione lo Statuto entra in vigore il primo giorno del mese dopo il sessantesimo giorno successivo al deposito da parte di questo Stato del suo strumento di ratifica accettazione, approvazione o adesione.
 
-### Articolo 127
+#### Articolo 127
 
 Recesso
 
@@ -2578,7 +2578,7 @@ Recesso
 
 2\. Il recesso di uno Stato non lo esonera dagli obblighi posti a suo carico dal presente Statuto quando ne era parte, compresi tutti gli obblighi finanziari derivanti ne' pregiudica ogni cooperazione concordata con la Corte in occasione di inchieste e procedure penali alle quali lo Stato che recede aveva il dovere di cooperare ed iniziate prima della data in cui il recesso e' divenuto effettivo; tale recesso non impedisce neppure di continuare ad esaminare qualsiasi questione di cui la Corte era gia' investita prima della data in cui il recesso e' divenuto effettivo.
 
-### Articolo 128
+#### Articolo 128
 
 Testi autentici
 
@@ -2588,7 +2588,7 @@ In fede di che, i sottoscritti a tal fine debitamente autorizzati dai loro rispe
 
 Fatto a Roma, il diciassette luglio millenovecentonovantotto.
 
-### Atto finale
+#### Atto finale
 
 ATTO FINALE DELLA CONFERENZA DIPLOMATICA DI PLENIPOTENZIARI DELLE NAZIONI UNITE PER L'ISTITUZIONE DI UNA CORTE PENALE INTERNAZIONALE 1. Con risoluzione 51/207 del 17 dicembre 1996 l'Assemblea generale delle Nazioni Unite decise che una conferenza diplomatica di plenipotenziari si sarebbe tenuta nel 1998 per formalizzare adottare la Convenzione sull'istituzione di una Corte penale internazionale.
 
@@ -2746,7 +2746,7 @@ Il Segretario Esecutivo della Conferenza
 
 Roy S. Lee
 
-### Annesso I
+#### Annesso I
 
 ANNESSO I
 
@@ -2846,7 +2846,7 @@ h) Regolamento procedurale interno dell'Assemblea degli Stati parti 6. I progett
 
 11\. Il Segretario generale dell'Organizzazione delle Nazioni Unite sottoporra' la presente risoluzione all'attenzione dell'Assemblea generale ai fini di ogni eventuale provvedimento.
 
-### Annesso II
+#### Annesso II
 
 ANNESSO II
 
@@ -3042,7 +3042,7 @@ Slovacchia
 
 Slovenia
 
-### Annesso III
+#### Annesso III
 
 ANNESS0 III
 
@@ -3126,7 +3126,7 @@ Tribunale internazionale per l'ex-Iugoslavia.
 
 Tribunale penale internazionale per il Ruanda
 
-### Annesso IV
+#### Annesso IV
 
 ANNESSO IV
 

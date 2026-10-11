@@ -20,9 +20,7 @@ retrieved: 2026-10-11
 
 ## TITOLO I - Onorari, diritti accessori e rimborsi di spese dovuti al notaio
 
-### CAPO I
-
-#### ONORARI DOVUTI PER GLI ATTI ORIGINALI
+### CAPO I - ONORARI DOVUTI PER GLI ATTI ORIGINALI
 
 ##### Art. 1
 
@@ -32,7 +30,7 @@ retrieved: 2026-10-11
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-## SEZIONE I - Onorari graduali
+#### SEZIONE I - Onorari graduali
 
 ##### Art. 3
 
@@ -58,7 +56,7 @@ retrieved: 2026-10-11
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-## SEZIONE II - Onorari fissi
+#### SEZIONE II - Onorari fissi
 
 ##### Art. 9
 
@@ -88,9 +86,7 @@ retrieved: 2026-10-11
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-## SEZIONE III - Disposizioni comuni agli onorari graduali
-
-### e fissi dovuti per gli atti originali
+#### SEZIONE III - Disposizioni comuni agli onorari graduali e fissi dovuti per gli atti originali
 
 ##### Art. 16
 
@@ -116,9 +112,7 @@ AGGIORNAMENTO (6)
 
 L'avviso di rettifica (in G.U. 04/03/2011, n. 52), come modificato dall'errata corrige (in G.U. 07/03/2011, n. 54), ha disposto il venir meno dell'abrogazione del presente articolo.
 
-## CAPO II - ONORARI DOVUTI PER COPIE, ESTRATTI,
-
-### CERTIFICATI ED ALTRE PRESTAZIONI
+### CAPO II - ONORARI DOVUTI PER COPIE, ESTRATTI, CERTIFICATI ED ALTRE PRESTAZIONI
 
 ##### Art. 19
 
@@ -152,7 +146,7 @@ L'avviso di rettifica (in G.U. 04/03/2011, n. 52), come modificato dall'errata c
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-## CAPO III - DIRITTI ACCESSORI E RIMBORSI DI SPESE
+### CAPO III - DIRITTI ACCESSORI E RIMBORSI DI SPESE
 
 ##### Art. 27
 
@@ -178,9 +172,7 @@ L'avviso di rettifica (in G.U. 04/03/2011, n. 52), come modificato dall'errata c
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-## CAPO IV - DISPOSIZIONI SPECIALI RELATIVE
-
-### AGLI ONORARI ED AI DIRITTI ACCESSORI
+### CAPO IV - DISPOSIZIONI SPECIALI RELATIVE AGLI ONORARI ED AI DIRITTI ACCESSORI
 
 ##### Art. 33
 

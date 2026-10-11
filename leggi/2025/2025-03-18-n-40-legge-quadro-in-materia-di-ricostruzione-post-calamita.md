@@ -264,9 +264,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 30 giugno 2025, n. 95, convertito con modificazioni dalla L. 8 agosto 2025, n. 118 ha disposto (con l'art. 4, comma 1-ter) che "Le disposizioni di cui all'articolo 7, comma 4, della legge 18 marzo 2025, n. 40, si interpretano nel senso che, per l'attribuzione alla Presidenza del Consiglio dei ministri del contingente di personale ivi previsto, non e' richiesto il previo assenso dell'amministrazione di provenienza".
 
-## Sezione I
-
-### Disposizioni comuni alla ricostruzione pubblica e privata
+### Sezione I - Disposizioni comuni alla ricostruzione pubblica e privata
 
 #### Art. 8
 
@@ -342,7 +340,7 @@ c) opere o interventi soggetti a procedure di valutazione di impatto ambientale 
 
 > 3-ter. L'applicazione delle disposizioni contenute nel presente articolo non puo' comportare limitazione dei diritti dei terzi».
 
-## Sezione II - Ricostruzione dei beni danneggiati privati
+### Sezione II - Ricostruzione dei beni danneggiati privati
 
 #### Art. 9
 
@@ -616,7 +614,7 @@ Ulteriori disposizioni per la ricostruzione privata
 
 > 3\. La giurisdizione della Corte dei conti e' esercitata dai giudici contabili secondo le norme del presente codice.».
 
-## Sezione III - Ricostruzione dei beni danneggiati pubblici
+### Sezione III - Ricostruzione dei beni danneggiati pubblici
 
 #### Art. 13
 
@@ -1160,9 +1158,7 @@ Qualora il rinvenimento avvenga durante la raccolta, il rifiuto residuato dallo 
 
 > 7\. Il datore di lavoro provvede affinche' i lavoratori o i loro rappresentanti abbiano accesso alla documentazione di cui al comma 4.».
 
-## Capo IV - Disposizioni in materia di controllo, trasparenza, tutela dei
-
-### lavoratori, assicurazioni private e sistema produttivo
+## Capo IV - Disposizioni in materia di controllo, trasparenza, tutela dei lavoratori, assicurazioni private e sistema produttivo
 
 #### Art. 20
 

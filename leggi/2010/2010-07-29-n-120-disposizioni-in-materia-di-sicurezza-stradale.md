@@ -28,11 +28,9 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I - MODIFICHE AL CODICE DELLA
+## CAPO I - MODIFICHE AL CODICE DELLA STRADA, DI CUI AL DECRETO LEGISLATIVO 30 APRILE 1992, N. 285
 
-### STRADA, DI CUI AL DECRETO - LEGISLATIVO 30 APRILE 1992, N. 285
-
-#### Art. 1 - Modifiche agli articoli 6, 59, 77, 79 e 80 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, in materia di pneumatici invernali, di veicoli con caratteristiche atipiche, di produzione e commercializzazione di sistemi, componenti ed entita' tecniche di tipo non omologato, di sanzioni per veicoli circolanti in condizioni di non efficienza e di omessa revisione
+### Art. 1 - Modifiche agli articoli 6, 59, 77, 79 e 80 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, in materia di pneumatici invernali, di veicoli con caratteristiche atipiche, di produzione e commercializzazione di sistemi, componenti ed entita' tecniche di tipo non omologato, di sanzioni per veicoli circolanti in condizioni di non efficienza e di omessa revisione
 
 1\. La lettera e) del comma 4 dell'articolo 6 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, e successivemodificazioni, di seguito denominato «decreto legislativo n. 285 del 1992», e' sostituita dalla seguente:
 
@@ -114,7 +112,7 @@ c) il terzo periodo e' sostituito dai seguenti: «L'organo accertatore annota su
 
 > 14\. Ad esclusione dei cosi previsti dall'articolo 176, comma 18, chiunque circola con un veicolo che non sia stato presentato alla prescritta revisione e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 155 a euro 624. Tale sanzione e' raddoppiabile in caso di revisione omessa per piu' di una volta in relazione alle cadenze previste dalle disposizioni vigenti. L'organo accertatore annota sul documento di circolazione che il veicolo e' sospeso dalla circolazione fino all'effettuazione della revisione. E' consentita la circolazione del veicolo al solo fine di recarsi presso uno dei soggetti di cui al comma 8 ovvero presso il competente ufficio del Dipartimento per i trasporti, la navigazione ed i sistemi informativi e statistici per la prescritta revisione. Al di fuori di tali ipotesi, nel caso in cui si circoli con un veicolo sospeso dalla circolazione in attesa dell'esito della revisione, si applica la sanzione amministrativa del pagamento di una somma da euro 1.842 a euro 7.369. All'accertamento della violazione di cui al periodo precedente consegue la sanzione amministrativa accessoria del fermo amministrativo del veicolo per novanta giorni, secondo le disposizioni del capo I, sezione II, del titolo VI. In caso di reiterazione delle violazioni, si applica la sanzione accessoria della confisca amministrativa del veicolo.
 
-#### Art. 2 - Modifiche agli articoli 7 e 62 del decreto legislativo n. 285 del 1992, in materia di regolamentazione della circolazione nei centri abitati e di massa dei veicoli ad alimentazione a metano, elettrica e ibrida
+### Art. 2 - Modifiche agli articoli 7 e 62 del decreto legislativo n. 285 del 1992, in materia di regolamentazione della circolazione nei centri abitati e di massa dei veicoli ad alimentazione a metano, elettrica e ibrida
 
 1\. Dopo il comma 13 dell'articolo 7 del decreto legislativo n. 285 del 1992, e' inserito il seguente:
 
@@ -204,7 +202,7 @@ c) il terzo periodo e' sostituito dai seguenti: «L'organo accertatore annota su
 
 > 7-bis. Il Ministro delle infrastrutture e dei trasporti, con proprio decreto, stabilisce i criteri e le modalita' con cui, nel rispetto della normativa comunitaria in materia di tutela dell'ambiente, sicurezza stradale e caratteristiche tecniche dei veicoli che circolano su strada, per i veicoli ad alimentazione a metano, GPL, elettrica e ibrida si puo' applicare una riduzione della massa a vuoto, pari, nel caso dei veicoli ad alimentazione esclusiva o doppia con gas metano o GPL, alla massa delle bombole di gas metano o GPL e dei relativi accessori e, nel caso dei veicoli ad alimentazione elettrica o ibrida, alla massa degli accumulatori e dei loro accessori, definendo altresi' le modifiche alle procedure relative alle verifiche tecniche di omologazione derivanti dall'applicazione del presente comma. In ogni caso la riduzione di massa a vuoto di cui al presente comma non puo' superare il valore minimo tra il 10 per cento della massa complessiva a pieno carico del veicolo e una tonnellata. La riduzione si applica soltanto nel caso in cui il veicolo sia dotato di controllo elettronico della stabilita'.
 
-#### Art. 3 - Modifiche all'articolo 9 del decreto legislativo n. 285 del 1992, in materia di competizioni sportive su strada
+### Art. 3 - Modifiche all'articolo 9 del decreto legislativo n. 285 del 1992, in materia di competizioni sportive su strada
 
 1\. All'articolo 9 del decreto legislativo n. 285 del 1992, dopo il comma 4 e' inserito il seguente:
 
@@ -248,7 +246,7 @@ c) il terzo periodo e' sostituito dai seguenti: «L'organo accertatore annota su
 
 > 9\. Chiunque non ottemperi agli obblighi, divieti o limitazioni a cui il presente articolo subordina l'effettuazione di una competizione sportiva, e risultanti dalla relativa autorizzazione, e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 78 a euro 311, se si tratta di competizione sportiva atletica, ciclistica o con animali, ovvero di una somma da euro 155 a euro 624, se si tratta di competizione sportiva con veicoli a motore.
 
-#### Art. 4 - Modifiche all'articolo 10 del decreto legislativo n. 285 del 1992, in materia di veicoli eccezionali e trasporti in condizioni di eccezionalita'
+### Art. 4 - Modifiche all'articolo 10 del decreto legislativo n. 285 del 1992, in materia di veicoli eccezionali e trasporti in condizioni di eccezionalita'
 
 1\. All'articolo 10 del decreto legislativo n. 285 del 1992 sono apportate le seguenti modificazioni:
 
@@ -274,7 +272,7 @@ d) al comma 18, le parole: «all'obbligo di scorta della Polizia stradale o tecn
 
 > 18\. Chiunque, senza avere ottenuto l'autorizzazione, ovvero violando anche una sola delle condizioni stabilite nell'autorizzazione relativamente ai percorsi prestabiliti, fatta esclusione di brevi tratte non prevedibili e funzionali alla consegna delle merci, su o tra percorsi gia' autorizzati, ai periodi temporali, all'obbligo di scorta tecnica, nonche' superando anche uno solo dei limiti massimi dimensionali o di massa indicati nell'autorizzazione medesima, esegua uno dei trasporti eccezionali di cui ai commi 2, 3 o 7, ovvero circoli con uno dei veicoli eccezionali di cui al comma 1, e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 715 a euro 2.886.
 
-#### Art. 5 - Modifiche agli articoli 15, 23 e 24 nonche' abrogazione dell'articolo 34-bis del decreto legislativo n. 285 del 1992, in materia di decoro delle strade, di pubblicita' sulle strade e sui veicoli e di pertinenze delle strade
+### Art. 5 - Modifiche agli articoli 15, 23 e 24 nonche' abrogazione dell'articolo 34-bis del decreto legislativo n. 285 del 1992, in materia di decoro delle strade, di pubblicita' sulle strade e sui veicoli e di pertinenze delle strade
 
 1\. All'articolo 15 del decreto legislativo
 
@@ -476,7 +474,7 @@ d) dopo il comma 13-quater e' aggiunto il seguente:
 
 > 1\. Chiunque insozza le pubbliche strade gettando rifiuti od oggetti dai veicoli in movimento o in sosta e' punito con la sanzione amministrativa da euro 500 a euro 1.000
 
-#### Art. 6 - Modifica all'articolo 38 del decreto legislativo n. 285 del 1992, in materia di segnaletica stradale
+### Art. 6 - Modifica all'articolo 38 del decreto legislativo n. 285 del 1992, in materia di segnaletica stradale
 
 1\. All'articolo 38 del decreto legislativo n. 285 del 1992 sono apportate le seguenti modificazioni:
 
@@ -492,7 +490,7 @@ b) al comma 13, le parole: «del pagamento di una somma da euro 78 a euro 311» 
 
 > 13\. I soggetti diversi dagli enti proprietari che violano le disposizioni di cui ai commi 7, 8, 9 e 10 sono soggetti alla sanzione amministrativa del pagamento di una somma da euro 389 a euro 1.559.
 
-#### Art. 7
+### Art. 7
 
 (Modifica all'articolo 41 del decreto legislativo n. 285 del 1992, in materia di segnali
 
@@ -534,7 +532,7 @@ luminosi)
 
 > m) segnali luminosi particolari.
 
-#### Art. 8 - Modifiche agli articoli 46 e 190 del decreto legislativo n. 285 del 1992, in materia di macchine per uso di bambini o di invalidi
+### Art. 8 - Modifiche agli articoli 46 e 190 del decreto legislativo n. 285 del 1992, in materia di macchine per uso di bambini o di invalidi
 
 1\. All'articolo 46, comma 1, del decreto legislativo n. 285 del 1992, il secondo periodo e' sostituito dal seguente: «Non rientrano nella definizione di veicolo:
 
@@ -562,7 +560,7 @@ b) le macchine per uso di invalidi, rientranti tra gli ausili medici secondo le 
 
 > 7\. Le macchine per uso di bambini o di persone invalide, anche se asservite da motore, con le limitazioni di cui all'articolo 46, possono circolare sulle parti della strada riservate ai pedoni , secondo le modalita' stabilite dagli enti proprietari delle strade ai sensi degli articolo 6 e 7.
 
-#### Art. 9 - Modifica all'articolo 85 del decreto legislativo n. 285 del 1992, in materia di servizio di noleggio con conducente per trasporto di persone
+### Art. 9 - Modifica all'articolo 85 del decreto legislativo n. 285 del 1992, in materia di servizio di noleggio con conducente per trasporto di persone
 
 1\. All'articolo 85 del decreto legislativo n. 285 del 1992, il comma 2 e' sostituito dal seguente:
 
@@ -602,7 +600,7 @@ g) i veicoli a trazione animale».
 
 > g) i veicoli a trazione animale.
 
-#### Art. 10 - Modifiche all'articolo 92 del decreto legislativo n. 285 del 1992 e all'articolo 7 della legge 8 agosto 1991, n. 264, in materia di estratto dei documenti di circolazione o di guida
+### Art. 10 - Modifiche all'articolo 92 del decreto legislativo n. 285 del 1992 e all'articolo 7 della legge 8 agosto 1991, n. 264, in materia di estratto dei documenti di circolazione o di guida
 
 1\. Il comma 2 dell'articolo 92 del decreto legislativo n. 285 del 1992 e' sostituito dal seguente:
 
@@ -632,7 +630,7 @@ b) il comma 2 e' abrogato.
 
 > 1\. L'impresa o la societa' di consulenza per la circolazione dei mezzi di trasporto, procede al ritiro del documento di circolazione del mezzo di trasporto o del documento di abilitazione alla guida per gli adempimenti di competenza e rilascia all'interessato una ricevuta conforme a modello approvato dal Ministro dei trasporti, con proprio decreto, entro sessanta giorni dalla data di entrata in vigore della presente legge.
 
-#### Art. 11 - Modifiche agli articoli 94, 100, 103 e 196 del decreto legislativo n. 285 del 1992, in materia di rinnovo e aggiornamento della carta di circolazione, di targa personale, di targa dei rimorchi e di solidarieta' nel pagamento delle sanzioni
+### Art. 11 - Modifiche agli articoli 94, 100, 103 e 196 del decreto legislativo n. 285 del 1992, in materia di rinnovo e aggiornamento della carta di circolazione, di targa personale, di targa dei rimorchi e di solidarieta' nel pagamento delle sanzioni
 
 1\. Il comma 2 dell'articolo 94 del decreto legislativo n. 285 del 1992 e' sostituito dal seguente:
 
@@ -778,7 +776,7 @@ b) al secondo periodo, le parole: «e delle targhe» sono soppresse.
 
 > 5\. Presso il Dipartimento per i trasporti terrestri e' istituito l'archivio nazionale dei veicoli contenente i dati relativi ai veicoli di cui all'art. 47, comma 1, lettere e), f), g), h), i), l), m) e n).
 
-#### Art. 12 - Introduzione dell'articolo 94-bis e modifiche agli articoli 94 e 96 del decreto legislativo n. 285 del 1992, in materia di divieto di intestazione fittizia dei veicoli
+### Art. 12 - Introduzione dell'articolo 94-bis e modifiche agli articoli 94 e 96 del decreto legislativo n. 285 del 1992, in materia di divieto di intestazione fittizia dei veicoli
 
 1\. All'articolo 94 del decreto legislativo n. 285 del 1992 sono apportate le seguenti modificazioni:
 
@@ -910,7 +908,7 @@ La sanzione di cui al periodo precedente si applica anche a chi abbia la materia
 
 > 2-bis. In caso di circolazione dopo la cancellazione si applicano le sanzioni amministrative di cui al comma 7 dell'articolo 93.
 
-#### Art. 13 - Modifica all'articolo 95 del decreto legislativo n. 285 del 1992, in materia di duplicato della carta di circolazione
+### Art. 13 - Modifica all'articolo 95 del decreto legislativo n. 285 del 1992, in materia di duplicato della carta di circolazione
 
 1\. All'articolo 95, comma 1-bis, del decreto legislativo n. 285 del 1992, dopo le parole: «carta di circolazione,» sono inserite le seguenti: «anche con riferimento ai duplicati per smarrimento, deterioramento o distruzione dell' originale,».
 
@@ -934,7 +932,7 @@ La sanzione di cui al periodo precedente si applica anche a chi abbia la materia
 
 > 6\. Chiunque circola con un veicolo per il quale non sia stata rilasciata la carta provvisoria di circolazione e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 78 a euro 311. Dalla violazione consegue la sanzione amministrativa accessoria del fermo amministrativo del veicolo fino al rilascio della carta di circolazione, secondo le norme di cui al capo I, sezione II, del titolo VI.
 
-#### Art. 14 - Modifiche all'articolo 97 del decreto legislativo n. 285 del 1992, in materia di sanzioni per ciclomotori alterati, e disposizioni in materia di circolazione dei ciclomotori
+### Art. 14 - Modifiche all'articolo 97 del decreto legislativo n. 285 del 1992, in materia di sanzioni per ciclomotori alterati, e disposizioni in materia di circolazione dei ciclomotori
 
 1\. All'articolo 97 del decreto legislativo n. 285 del 1992 sono apportate le seguenti modificazioni:
 
@@ -988,7 +986,7 @@ c) al comma 10, le parole: «da euro 23 a euro 92» sono sostituite dalle seguen
 
 > 14\. Alle violazioni previste dai commi 5 e 7 consegue la sanzione amministrativa accessoria della confisca del ciclomotore, secondo le norme di cui al capo I, sezione II, del titolo VI; nei casi previsti dal comma 5 si procede alla distruzione del ciclomotore, fatta salva la facolta' degli enti da cui dipende il personale di polizia stradale che ha accertato la violazione di chiedere tempestivamente che sia assegnato il ciclomotore confiscato, previo ripristino delle caratteristiche costruttive, per lo svolgimento dei compiti istituzionali e fatto salvo l'eventuale risarcimento del danno in caso di accertata illegittimita' della confisca e distruzione. Alla violazione prevista dal comma 6 consegue la sanzione amministrativa accessoria del fermo amministrativo del veicolo per un periodo di sessanta giorni; in caso di reiterazione della violazione, nel corso di un biennio, il fermo amministrativo del veicolo e' disposto per novanta giorni. Alla violazione prevista dai commi 8 e 9 consegue la sanzione accessoria del fermo amministrativo del veicolo per un periodo di un mese o, in caso di reiterazione delle violazioni nel biennio, la sanzione accessoria della confisca amministrativa del veicolo, secondo le norme di cui al capo I, sezione II, del titolo VI
 
-#### Art. 15 - Modifiche agli articoli 104 e 114 del decreto legislativo n. 285 del 1992, in materia di circolazione delle macchine agricole
+### Art. 15 - Modifiche agli articoli 104 e 114 del decreto legislativo n. 285 del 1992, in materia di circolazione delle macchine agricole
 
 1\. Al comma 8 dell'articolo 104 del decreto legislativo n. 285 del 1992, le parole: «valida per un anno» sono sostituite dalle seguenti: «valida per due anni».
 
@@ -1022,7 +1020,7 @@ c) al comma 10, le parole: «da euro 23 a euro 92» sono sostituite dalle seguen
 
 > 5\. Sono fatte salve, in quanto applicabili, le disposizioni contenute nella legge 8 agosto 1977, n. 572 e successive modificazioni.
 
-#### Art. 16 - Modifiche all'articolo 115 del decreto legislativo n. 285 del 1992, in materia di guida accompagnata e di requisiti per la guida dei veicoli
+### Art. 16 - Modifiche all'articolo 115 del decreto legislativo n. 285 del 1992, in materia di guida accompagnata e di requisiti per la guida dei veicoli
 
 1\. All'articolo 115 del decreto legislativo n. 285 del 1992 sono apportate le seguenti modificazioni:
 
@@ -1108,7 +1106,7 @@ c) dopo il comma 2 e' inserito il seguente:
 
 > \- Il testo dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, e' riportato nelle nota all'art. 11
 
-#### Art. 17 - Modifiche all'articolo 116 del decreto legislativo n. 285 del 1992, in materia di certificato di idoneita' alla guida di ciclomotori
+### Art. 17 - Modifiche all'articolo 116 del decreto legislativo n. 285 del 1992, in materia di certificato di idoneita' alla guida di ciclomotori
 
 1\. Al comma 11-bis dell'articolo 116 del decreto legislativo n. 285 del 1992 sono apportate le seguenti modificazioni:
 
@@ -1130,7 +1128,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 29 dicembre 2010, n. 225, convertito con modificazioni dalla L. 26 febbraio 2011, n. 10, ha disposto (con l'art. 1, comma 1), in relazione al comma 2 del presente articolo, che "E' fissato al 31 marzo 2011 il termine di scadenza dei termini e dei regimi giuridici indicati nella tabella 1 allegata con scadenza in data anteriore al 15 marzo 2011."
 
-#### Art. 18 - Modifica all'articolo 117 del decreto legislativo n. 285 del 1992, in materia di limitazioni nella guida
+### Art. 18 - Modifica all'articolo 117 del decreto legislativo n. 285 del 1992, in materia di limitazioni nella guida
 
 1\. Al comma 2-bis dell'articolo 117 del decreto legislativo n. 285 del 1992, le parole: «superiore a 50 kw/t. La limitazione di cui al presente comma non si applica» sono sostituite dalle seguenti: «superiore a 55 kW/t. Nel caso di veicoli di categoria M1, ai fini di cui al precedente periodo si applica un ulteriore limite di potenza massima pari a 70 kW. Le limitazioni di cui al presente comma non si applicano».
 
@@ -1144,7 +1142,7 @@ Il D.L. 29 dicembre 2010, n. 225, convertito con modificazioni dalla L. 26 febbr
 
 > 2-bis. Ai titolari di patente di guida di categoria B, per il primo anno dal rilascio non e' consentita la guida di autoveicoli aventi una potenza specifica, riferita alla tara, superiore a 55 kW/t. Nel caso di veicoli di categoria M1, ai fini di cui al precedente periodo si applica un ulteriore limite di potenza massima pari a 70 kW. Le limitazioni di cui al presente comma non si applicano ai veicoli adibiti al servizio di persone invalide, autorizzate ai sensi dell'articolo 188, purche' la persona invalida sia presente sul veicolo. Fatto salvo quanto previsto dall'articolo 120 del presente codice, alle persone destinatarie del divieto di cui all'articolo 75, comma 1, lettera a), del testo unico di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, il divieto di cui al presente comma ha effetto per i primi tre anni dal rilascio della patente di guida.
 
-#### Art. 19 - Modifiche all'articolo 120 del decreto legislativo n. 285 del 1992, in materia di requisiti morali per ottenere il rilascio dei titoli abilitativi alla guida
+### Art. 19 - Modifiche all'articolo 120 del decreto legislativo n. 285 del 1992, in materia di requisiti morali per ottenere il rilascio dei titoli abilitativi alla guida
 
 1\. Al comma 1 dell'articolo 120 del decreto legislativo n. 285 del 1992, le parole da: "nonche'" fino alla fine del comma sono sostituite dalle seguenti: "nonche' i soggetti destinatari dei divieti di cui agli articoli 75, comma 1, lettera a), e 75-bis, comma 1, lettera f), del medesimo testo unico di cui al decreto del Presidente della Repubblica n. 309 del 1990 per tutta la durata dei predetti divieti. Non possono di nuovo conseguire la patente di guida le persone a cui sia applicata per la seconda volta, con sentenza di condanna per il reato di cui al terzo periodo del comma 2 dell'articolo 222, la revoca della patente ai sensi del quarto periodo del medesimo comma".
 
@@ -1166,7 +1164,7 @@ b) al secondo periodo, le parole: "dal medesimo comma 1" sono sostituite dalle s
 
 > 2\. Fermo restando quanto previsto dall'articolo 75, comma 1, lettera a), del citato testo unico di cui al decreto del Presidente della Repubblica n. 309 del 1990, se le condizioni soggettive indicate al primo periodo del comma 1 del presente articolo intervengono in data successiva al rilascio, il prefetto provvede alla revoca della patente di guida, del certificato di abilitazione professionale per la guida di motoveicoli e del certificato di idoneita' alla guida di ciclomotori. La revoca non puo' essere disposta se sono trascorsi piu' di tre anni dalla data di applicazione delle misure di prevenzione, o di quella del passaggio in giudicato della sentenza di condanna per i reati indicati al primo periodo del medesimo comma 1.
 
-#### Art. 20 - Modifiche agli articoli 121, 122 e 123 del decreto legislativo n. 285 del 1992, in materia di esame di idoneita', di esercitazioni di guida e di autoscuole
+### Art. 20 - Modifiche agli articoli 121, 122 e 123 del decreto legislativo n. 285 del 1992, in materia di esame di idoneita', di esercitazioni di guida e di autoscuole
 
 1\. All'articolo 121 del decreto legislativo n. 285 del 1992 sono apportate le seguenti modificazioni:
 
@@ -1346,7 +1344,7 @@ i) al comma 13, primo periodo, sono aggiunte, in fine, le seguenti parole: «, f
 
 > 5-septies. All'articolo 123, comma 10, del decreto legislativo 30 aprile 1992, n. 285, dopo le parole: «requisiti di idoneita'» sono inserite le seguenti: «, i corsi di formazione iniziale e periodica, con i relativi programmi,» e dopo le parole: «idoneita' tecnica degli insegnanti e degli istruttori" sono inserite le seguenti: «, cui si accede dopo la citata formazione iniziale». Il Ministro dei trasporti dispone, conseguentemente, in materia con proprio decreto da adottare entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto. Nelle more possono accedere all'esame di insegnante o istruttore coloro che hanno presentato la relativa domanda antecedentemente alla data di entrata in vigore del presente decreto
 
-#### Art. 21 - Modifiche all'articolo 126 del decreto legislativo n. 285 del 1992, in materia di procedure di rinnovo di validita' della patente di guida
+### Art. 21 - Modifiche all'articolo 126 del decreto legislativo n. 285 del 1992, in materia di procedure di rinnovo di validita' della patente di guida
 
 1\. Al comma 5 dell'articolo 126 del decreto legislativo n. 285 del 1992 sono apportate le seguenti modificazioni:
 
@@ -1368,7 +1366,7 @@ c) e' aggiunto, in fine, il seguente periodo: «Il titolare della patente, dopo 
 
 > 5\. La validita' della patente e' confermata dal competente ufficio del Dipartimento per i trasporti terrestri, che trasmette per posta al titolare della patente di guida un duplicato della patente medesima, con l'indicazione del nuovo termine di validita'. A tal fine gli uffici da cui dipendono i sanitari indicati nell'art. 119, comma 2, sono tenuti a trasmettere al suddetto ufficio del Dipartimento per i trasporti terrestri, nel termine di cinque giorni decorrente dalla data di effettuazione della visita medica, i dati e ogni altro documento utile ai fini dell'emissione del duplicato della patente di cui al precedente periodo. Analogamente procedono le commissioni di cui all'art. 119, comma 4, nonche' i competenti uffici del Ministero delle infrastrutture e dei trasporti nei casi di cui all'art. 119, comma 5. Non possono essere sottoposti alla visita medica i conducenti che non dimostrano, previa esibizione delle ricevute, di aver effettuato i versamenti in conto corrente postale degli importi dovuti per la conferma di validita' della patente di guida. Il personale sanitario che effettua la visita e' responsabile in solido dell'omesso pagamento. La ricevuta andra' conservata dal titolare della patente per il periodo di validita'. Il titolare della patente, dopo aver ricevuto il duplicato, deve provvedere alla distruzione della patente scaduta di validita'.
 
-#### Art. 22 - Modifiche all'articolo 126-bis e all'allegata tabella dei punteggi del decreto legislativo n. 285 del 1992, in materia di patente a punti, e disposizioni in materia di corsi di guida sicura
+### Art. 22 - Modifiche all'articolo 126-bis e all'allegata tabella dei punteggi del decreto legislativo n. 285 del 1992, in materia di patente a punti, e disposizioni in materia di corsi di guida sicura
 
 1\. All'articolo 126-bis del decreto legislativo n. 285 del 1992 sono apportate le seguenti modificazioni:
 
@@ -1440,7 +1438,7 @@ h) all'ultimo capoverso e' aggiunto, in fine, il seguente periodo: «Per gli ste
 
 > Per le patenti rilasciate successivamente al 1° ottobre 2003 a soggetti che non siano gia' titolari di altra patente di categoria B o superiore, i punti riportati nella presente tabella, per ogni singola violazione, sono raddoppiati qualora le violazioni siano commesse entro i primi tre anni dal rilascio Per gli stessi tre anni, la mancanza di violazioni di una norma di comportamento da cui derivi la decurtazione del punteggio determina l'attribuzione, fermo restando quanto previsto dal comma 5, di un punto all'anno fino ad un massimo di tre punti.
 
-#### Art. 23 - Modifiche agli articoli 119 e 128 del decreto legislativo n. 285 del 1992, in materia di accertamento dei requisiti fisici e psichici per il conseguimento della patente di guida e di revisione della patente di guida
+### Art. 23 - Modifiche agli articoli 119 e 128 del decreto legislativo n. 285 del 1992, in materia di accertamento dei requisiti fisici e psichici per il conseguimento della patente di guida e di revisione della patente di guida
 
 1\. All'articolo 119 del decreto legislativo n. 285 del 1992 sono apportate le seguenti modificazioni:
 
@@ -1564,7 +1562,7 @@ d) il comma 3 e' abrogato.
 
 > 2\. Nei confronti del titolare di patente di guida che non si sottoponga, nei termini prescritti, agli accertamenti di cui ai commi da 1 a 1-quater e' sempre disposta la sospensione della patente di guida fino al superamento degli accertamenti stessi con esito favorevole. La sospensione decorre dal giorno successivo allo scadere del termine indicato nell'invito a sottoporsi ad accertamento ai fini della revisione, senza necessita' di emissione di un ulteriore provvedimento da parte degli uffici provinciali o del prefetto. Chiunque circola durante il periodo di sospensione della patente di guida e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 155 a euro 624 e alla sanzione amministrativa accessoria della revoca della patente di guida di cui all'articolo 219. Le disposizioni del presente comma si applicano anche a chiunque circoli dopo essere stato dichiarato temporaneamente inidoneo alla guida, a seguito di un accertamento sanitario effettuato ai sensi dei citati commi da 1 a 1-quater.
 
-#### Art. 24 - Modifiche all'articolo 136 del decreto legislativo n. 285 del 1992 e all'articolo 6-ter del decreto-legge 27 giugno 2003, n. 151, convertito, con modificazioni, dalla legge 1° agosto 2003, n. 214, in materia di sanzioni per i titolari di patenti di guida rilasciate da uno Stato estero
+### Art. 24 - Modifiche all'articolo 136 del decreto legislativo n. 285 del 1992 e all'articolo 6-ter del decreto-legge 27 giugno 2003, n. 151, convertito, con modificazioni, dalla legge 1° agosto 2003, n. 214, in materia di sanzioni per i titolari di patenti di guida rilasciate da uno Stato estero
 
 1\. Il comma 6 dell'articolo 136 del decreto legislativo n. 285 del 1992 e' sostituito dai seguenti:
 
@@ -1618,7 +1616,7 @@ b) dopo il comma 2 e' inserito il seguente:
 
 > 3\. Presso il Ministero delle infrastrutture e dei trasporti e' istituito il registro degli abilitati alla guida di nazionalita' straniera, al fine di rendere omogenea l'applicazione delle norme e delle sanzioni previste dal presente decreto
 
-#### Art. 25 - Modifiche all'articolo 142 del decreto legislativo n. 285 del 1992, in materia di limiti di velocita'
+### Art. 25 - Modifiche all'articolo 142 del decreto legislativo n. 285 del 1992, in materia di limiti di velocita'
 
 1\. All'articolo 142 del decreto legislativo n. 285 del 1992 sono apportate le seguenti modificazioni:
 
@@ -1646,7 +1644,7 @@ AGGIORNAMENTO (2)
 
 Il D.L. 2 marzo 2012, n. 16 convertito con modificazioni dalla L. 26 aprile 2012, n. 44 ha disposto (con l'art. 4-ter, comma 16) che "Il decreto di cui al comma 2 dell'articolo 25 della legge 29 luglio 2010, n. 120, e' emanato entro novanta giorni dalla data di entrata in vigore del presente decreto. In caso di mancata emanazione del decreto entro il predetto termine, trovano comunque applicazione le disposizioni di cui ai commi 12-bis, 12-ter e 12-quater dell'articolo 142 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285".
 
-#### Art. 26 - Modifica dell'articolo 152 del decreto legislativo n. 285 del 1992, in materia di segnalazione visiva e illuminazione dei veicoli
+### Art. 26 - Modifica dell'articolo 152 del decreto legislativo n. 285 del 1992, in materia di segnalazione visiva e illuminazione dei veicoli
 
 1\. L'articolo 152 del decreto legislativo n. 285 del 1992 e' sostituito dal seguente:
 
@@ -1666,7 +1664,7 @@ Fanno eccezione all'obbligo di uso dei predetti dispositivi i veicoli di interes
 
 > 2\. Chiunque viola le disposizioni del presente articolo e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 38 a euro 155.
 
-#### Art. 27 - Modifiche agli articoli 157 e 158 del decreto legislativo n. 285 del 1992, in materia di arresto, fermata e sosta dei veicoli e di divieto di fermata e di sosta dei veicoli
+### Art. 27 - Modifiche agli articoli 157 e 158 del decreto legislativo n. 285 del 1992, in materia di arresto, fermata e sosta dei veicoli e di divieto di fermata e di sosta dei veicoli
 
 1\. Al comma 7-bis dell'articolo 157 del decreto legislativo n. 285 del 1992, le parole: «o la fermata» sono soppresse.
 
@@ -1688,7 +1686,7 @@ b) al comma 6, le parole: «da euro 38 a euro 155» sono sostituite dalle seguen
 
 > 6\. Chiunque viola le altre disposizioni del presente articolo e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 23 a euro 92 per i ciclomotori e i motoveicoli a due ruote e da euro 38 a euro 155 per i restanti veicoli.
 
-#### Art. 28 - Modifica agli articoli 171, 172 e 182 del decreto legislativo n. 285 del 1992, in materia di uso del casco protettivo per gli utenti di veicoli a due ruote, di uso delle cinture di sicurezza e di circolazione dei velocipedi
+### Art. 28 - Modifica agli articoli 171, 172 e 182 del decreto legislativo n. 285 del 1992, in materia di uso del casco protettivo per gli utenti di veicoli a due ruote, di uso delle cinture di sicurezza e di circolazione dei velocipedi
 
 1\. Al comma 1 dell'articolo 171 del decreto legislativo n. 285 del 1992, le parole: "secondo la normativa stabilita dal Ministero delle infrastrutture e dei trasporti" sono sostituite dalle seguenti: "in conformita' con i regolamenti emanati dall'Ufficio europeo per le Nazioni Unite - Commissione economica per l'Europa e con la normativa comunitaria".
 
@@ -1792,7 +1790,7 @@ b) al comma 6, le parole: «da euro 38 a euro 155» sono sostituite dalle seguen
 
 > 10\. Chiunque viola le disposizioni del presente articolo e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 23 a euro 92. La sanzione e' da euro 38 a euro 155 quando si tratta di velocipedi di cui al comma 6
 
-#### Art. 29 - Modifica all'articolo 173 del decreto legislativo n. 285 del 1992, in materia di uso di lenti o di determinati apparecchi durante la guida
+### Art. 29 - Modifica all'articolo 173 del decreto legislativo n. 285 del 1992, in materia di uso di lenti o di determinati apparecchi durante la guida
 
 1\. Il comma i dell'articolo 173 del decreto legislativo n. 285 del 1992 e' sostituito dal seguente:
 
@@ -1806,7 +1804,7 @@ b) al comma 6, le parole: «da euro 38 a euro 155» sono sostituite dalle seguen
 
 > 1\. Il titolare di patente di guida o di certificato di idoneita' alla guida dei ciclomotori al quale, in sede di rilascio o rinnovo della patente o del certificato stessi, sia stato prescritto di integrare le proprie deficienze organiche e minorazioni anatomiche o funzionali per mezzo di lenti o di determinati apparecchi, ha l'obbligo di usarli durante la guida.
 
-#### Art. 30 - Modifiche degli articoli 174 e 178 e agli articoli 176 e 179 del decreto legislativo n. 285 del 1992, in materia di durata della guida degli autoveicoli adibiti al trasporto di persone o di cose, di documenti di viaggio, di comportamenti durante la circolazione e di verifiche in caso di incidenti
+### Art. 30 - Modifiche degli articoli 174 e 178 e agli articoli 176 e 179 del decreto legislativo n. 285 del 1992, in materia di durata della guida degli autoveicoli adibiti al trasporto di persone o di cose, di documenti di viaggio, di comportamenti durante la circolazione e di verifiche in caso di incidenti
 
 1\. L'articolo 174 del decreto legislativo n. 285 del 1992 e' sostituito dal seguente:
 
@@ -2932,7 +2930,7 @@ b) dopo il comma 8 e' inserito il seguente:
 
 > Nel caso di accertamento di violazioni alle disposizioni di cui ai commi 2 e 3, il verbale deve essere inviato all'ufficio metrico provinciale per le necessarie verifiche del ripristino della regolarita' di funzionamento dell'apparecchio cronotachigrafo
 
-#### Art. 31 - Modifiche agli articoli 177 e 189 del decreto legislativo n. 285 del 1992, in materia di mezzi di soccorso per animali e di incidenti con danni ad animali
+### Art. 31 - Modifiche agli articoli 177 e 189 del decreto legislativo n. 285 del 1992, in materia di mezzi di soccorso per animali e di incidenti con danni ad animali
 
 1\. Al comma 1 dell'articolo 177 del decreto legislativo n. 285 del 1992, dopo il secondo periodo sono aggiunti i seguenti: «L'uso dei predetti dispositivi e' altresi' consentito ai conducenti delle autoambulanze, dei mezzi di soccorso anche per il recupero degli animali o di vigilanza zoofila, nell'espletamento dei servizi urgenti di istituto, individuati con decreto del Ministro delle infrastrutture e dei trasporti. Con il medesimo decreto sono disciplinate le condizioni alle quali il trasporto di un animale in gravi condizioni di salute puo' essere considerato in stato di necessita', anche se effettuato da privati, nonche' la documentazione che deve essere esibita, eventualmente successivamente all'atto di controllo da parte delle autorita' di polizia stradale di cui all'articolo 12, comma 1».
 
@@ -2980,7 +2978,7 @@ Chiunque non ottempera agli obblighi di cui al periodo precedente e' punito con 
 
 > Chiunque non ottempera all'obbligo di cui al periodo precedente e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 78 a euro 311.
 
-#### Art. 32 - Modifica all'articolo 180 del decreto legislativo n. 285 del 1992, in materia di possesso dei documenti di guida
+### Art. 32 - Modifica all'articolo 180 del decreto legislativo n. 285 del 1992, in materia di possesso dei documenti di guida
 
 1\. Il comma 5 dell'articolo 180 del decreto legislativo n. 285 del 1992 e' sostituito dal seguente:
 
@@ -2992,7 +2990,7 @@ Chiunque non ottempera agli obblighi di cui al periodo precedente e' punito con 
 
 > 5\. Il conducente deve avere con se' il certificato di abilitazione professionale, la carta di qualificazione del conducente e il certificato di idoneita', quando prescritti.
 
-#### Art. 33 - Modifiche agli articoli 186 e 187 e introduzione dell'articolo 186-bis del decreto legislativo n. 285 del 1992, in materia di guida sotto l'influenza dell'alcool e in stato di alterazione psicofisica per uso di sostanze stupefacenti, nonche' di guida sotto l'influenza dell'alcool per conducenti di eta' inferiore a ventuno anni per i neo patentati e per chi esercita professionalmente l'attivita' di trasporto di persone o di cose
+### Art. 33 - Modifiche agli articoli 186 e 187 e introduzione dell'articolo 186-bis del decreto legislativo n. 285 del 1992, in materia di guida sotto l'influenza dell'alcool e in stato di alterazione psicofisica per uso di sostanze stupefacenti, nonche' di guida sotto l'influenza dell'alcool per conducenti di eta' inferiore a ventuno anni per i neo patentati e per chi esercita professionalmente l'attivita' di trasporto di persone o di cose
 
 1\. All'articolo 186 del decreto legislativo n. 285 del 1992 sono apportate le seguenti modificazioni:
 
@@ -3148,7 +3146,7 @@ h) dopo il comma 8 e' aggiunto il seguente:
 
 > 8-bis. Al di fuori dei casi previsti dal comma 1-bis del presente articolo, la pena detentiva e pecuniaria puo' essere sostituita, anche con il decreto penale di condanna, se non vi e' opposizione da parte dell'imputato, con quella del lavoro di pubblica utilita' di cui all'articolo 54 del decreto legislativo 28 agosto 2000, n. 274, secondo le modalita' ivi previste e consistente nella prestazione di un'attivita' non retribuita a favore della collettivita' da svolgere, in via prioritaria, nel campo della sicurezza e dell'educazione stradale presso lo Stato, le regioni, le province, i comuni o presso enti o organizzazioni di assistenza sociale e di volontariato, nonche' nella partecipazione ad un programma terapeutico e socio-riabilitativo del soggetto tossicodipendente come definito ai sensi degli articoli 121 e 122 del testo unico di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309. Con il decreto penale o con la sentenza il giudice incarica l'ufficio locale di esecuzione penale ovvero gli organi di cui all'articolo 59 del decreto legislativo n. 274 del 2000 di verificare l'effettivo svolgimento del lavoro di pubblica utilita'. In deroga a quanto previsto dall'articolo 54 del decreto legislativo n. 274 del 2000, il lavoro di pubblica utilita' ha una durata corrispondente a quella della sanzione detentiva irrogata e della conversione della pena pecuniaria ragguagliando 250 euro ad un giorno di lavoro di pubblica utilita'. In caso di svolgimento positivo del lavoro di pubblica utilita', il giudice fissa una nuova udienza e dichiara estinto il reato, dispone la riduzione alla meta' della sanzione della sospensione della patente e revoca la confisca del veicolo sequestrato. La decisione e' ricorribile in cassazione. Il ricorso non sospende l'esecuzione a meno che il giudice che ha emesso la decisione disponga diversamente. In caso di violazione degli obblighi connessi allo svolgimento del lavoro di pubblica utilita', il giudice che procede o il giudice dell'esecuzione, a richiesta del pubblico ministero o di ufficio, con le formalita' di cui all'articolo 666 del codice di procedura penale, tenuto conto dei motivi, della entita' e delle circostanze della violazione, dispone la revoca della pena sostitutiva con ripristino di quella sostituita e della sanzione amministrativa della sospensione della patente e della misura di sicurezza della confisca. Il lavoro di pubblica utilita' puo' sostituire la pena per non piu' di una volta.
 
-#### Art. 34 - Modifica all'articolo 191 del decreto legislativo n. 285 del 1992, in materia di attraversamenti pedonali
+### Art. 34 - Modifica all'articolo 191 del decreto legislativo n. 285 del 1992, in materia di attraversamenti pedonali
 
 1\. All'articolo 191 del decreto legislativo n. 285 del 1992, il comma 1 e' sostituito dal seguente:
 
@@ -3162,7 +3160,7 @@ h) dopo il comma 8 e' aggiunto il seguente:
 
 > Resta fermo il divieto per i pedoni di cui all'articolo 190, comma 4.
 
-#### Art. 35 - Modifiche all'articolo 200 del decreto legislativo n. 285 del 1992, in materia di contestazione e verbalizzazione delle violazioni
+### Art. 35 - Modifiche all'articolo 200 del decreto legislativo n. 285 del 1992, in materia di contestazione e verbalizzazione delle violazioni
 
 1\. All'articolo 200 del decreto legislativo n. 285 del 1992 sono apportate le seguenti modificazioni:
 
@@ -3180,7 +3178,7 @@ b) il comma 2 e' sostituito dal seguente:
 
 > 2\. Dell'avvenuta contestazione deve essere redatto verbale contenente anche le dichiarazioni che gli interessati chiedono vi siano inserite. Il verbale, che puo' essere redatto anche con l'ausilio di sistemi informatici, contiene la sommaria descrizione del fatto accertato, gli elementi essenziali per l'identificazione del trasgressore e la targa del veicolo con cui e' stata commessa la violazione. Nel regolamento sono determinati i contenuti del verbale.
 
-#### Art. 36 - Modifiche all'articolo 201 del decreto legislativo n. 285 del 1992, in materia di notificazione delle violazioni
+### Art. 36 - Modifiche all'articolo 201 del decreto legislativo n. 285 del 1992, in materia di notificazione delle violazioni
 
 1\. All'articolo 201 del decreto legislativo n. 285 del 1992 sono apportate le seguenti modificazioni:
 
@@ -3254,7 +3252,7 @@ devono essere gestiti direttamente dagli organi di polizia stradale di cui all'a
 
 > 5-bis. Nel caso di accertamento di violazione per divieto di fermata e di sosta ovvero di violazione del divieto di accesso o transito nelle zone a traffico limitato, nelle aree pedonali o in zone interdette alla circolazione, mediante apparecchi di rilevamento a distanza, quando dal pubblico registro automobilistico o dal registro della motorizzazione il veicolo risulta intestato a soggetto pubblico istituzionale, individuato con decreto del Ministro dell'interno, il comando o l'ufficio che procede interrompe la procedura sanzionatoria per comunicare al soggetto intestatario del veicolo l'inizio del procedimento al fine di conoscere, tramite il responsabile dell'ufficio da cui dipende il conducente del veicolo, se lo stesso, in occasione della commessa violazione, si trovava in una delle condizioni previste dall'articolo 4 della legge 24 novembre 1981, n. 689. In caso di sussistenza dell'esclusione della responsabilita', il comando o l'ufficio procedente trasmette gli atti al prefetto ai sensi dell'articolo 203 per l'archiviazione. In caso contrario, si procede alla notifica del verbale al soggetto interessato ai sensi dell'articolo 196, comma 1; dall'interruzione della procedura fino alla risposta del soggetto intestatario del veicolo rimangono sospesi i termini per la notifica.
 
-#### Art. 37 - Modifiche agli articoli 202 e 207 del decreto legislativo n. 285 del 1992, in materia di pagamento in misura ridotta e di sanzioni per i veicoli immatricolati all'estero o muniti di targa EE
+### Art. 37 - Modifiche agli articoli 202 e 207 del decreto legislativo n. 285 del 1992, in materia di pagamento in misura ridotta e di sanzioni per i veicoli immatricolati all'estero o muniti di targa EE
 
 1\. All'articolo 202 del decreto legislativo n. 285 del 1992, dopo il comma 2 sono inseriti i seguenti:
 
@@ -3308,7 +3306,7 @@ b) il comma 4-bis e' abrogato.
 
 > 4.bis (soppresso)
 
-#### Art. 38 - Introduzione dell'articolo 202-bis del decreto legislativo n. 285 del 1992, in materia di rateazione delle sanzioni pecuniarie
+### Art. 38 - Introduzione dell'articolo 202-bis del decreto legislativo n. 285 del 1992, in materia di rateazione delle sanzioni pecuniarie
 
 1\. Dopo l'articolo 202 del decreto legislativo n. 285 del 1992 e' inserito il seguente:
 
@@ -3368,7 +3366,7 @@ L'istanza e' comunicata dall'autorita' ricevente all'ufficio o comando da cui di
 
 > \- per il testo dell'articolo 204-bis del decreto legislativo 30 aprile 1992, n. 285, si veda note all'articolo 39:
 
-#### Art. 39 - Modifiche agli articoli 204-bis e 205 del decreto legislativo n. 285 del 1992, in materia di ricorso al giudice di pace e di opposizione
+### Art. 39 - Modifiche agli articoli 204-bis e 205 del decreto legislativo n. 285 del 1992, in materia di ricorso al giudice di pace e di opposizione
 
 1\. All'articolo 204-bis del decreto legislativo n. 285 del 1992 sono apportate le seguenti modificazioni:
 
@@ -3438,7 +3436,7 @@ e) e' aggiunto, in fine, il seguente comma:
 
 > 3\. (soppresso)
 
-#### Art. 40 - Modifiche all'articolo 208 del decreto legislativo n. 285 del 1992, in materia di destinazione dei proventi delle sanzioni amministrative pecuniarie
+### Art. 40 - Modifiche all'articolo 208 del decreto legislativo n. 285 del 1992, in materia di destinazione dei proventi delle sanzioni amministrative pecuniarie
 
 1\. All'articolo 208 del decreto legislativo n. 285 del 1992 sono apportate le seguenti modificazioni:
 
@@ -3550,7 +3548,7 @@ e) al Ministero dell'interno, nella misura del 5 per cento del totale annuo, per
 
 > 5\. I soggetti indicati nel presente articolo, eccetto quelli di cui al comma 3-bis, quando non siano in uniforme, per espletare i propri compiti di polizia stradale devono fare uso di apposito segnale distintivo, conforme al modello stabilito nel regolamento.
 
-#### Art. 41 - Introduzione dell'articolo 214-ter del decreto legislativo n. 285 del 1992, in materia di destinazione dei veicoli confiscati
+### Art. 41 - Introduzione dell'articolo 214-ter del decreto legislativo n. 285 del 1992, in materia di destinazione dei veicoli confiscati
 
 1\. Dopo l'articolo 214-bis del decreto legislativo n. 285 del 1992 e' inserito il seguente:
 
@@ -3640,7 +3638,7 @@ Il provvedimento e' comunicato al pubblico registro automobilistico per l'aggior
 
 > 8\. Con decreto del Ministro delle finanze, di concerto con il Ministro della giustizia, emanato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono dettate le disposizioni di attuazione del presente articolo
 
-#### Art. 42 - Modifiche all'articolo 218 e introduzione dell'articolo 218-bis del decreto legislativo n. 285 del 1992, in materia di sanzione accessoria della sospensione della patente e di applicazione della sospensione della patente per i neo-patentati
+### Art. 42 - Modifiche all'articolo 218 e introduzione dell'articolo 218-bis del decreto legislativo n. 285 del 1992, in materia di sanzione accessoria della sospensione della patente e di applicazione della sospensione della patente per i neo-patentati
 
 1\. All'articolo 218 del decreto legislativo n. 285 del 1992 sono apportate le seguenti modificazioni:
 
@@ -3700,7 +3698,7 @@ d) al comma 6, dopo le parole: «circola abusivamente» sono inserite le seguent
 
 > 7\. Le disposizioni di cui ai commi 1, 2, 3, 4 e 5 si applicano anche agli affidatari di persone handicappate in situazione di gravita'
 
-#### Art. 43 - Modifiche agli articoli 219, 219-bis e 222,modifica dell'articolo 223 e abrogazione dell'articolo 130-bis del decreto legislativo n. 285 del 1992, in materia di revoca e ritiro della patente di guida
+### Art. 43 - Modifiche agli articoli 219, 219-bis e 222,modifica dell'articolo 223 e abrogazione dell'articolo 130-bis del decreto legislativo n. 285 del 1992, in materia di revoca e ritiro della patente di guida
 
 1\. All'articolo 219 del decreto legislativo n. 285 del 1992 sono apportate le seguenti modificazioni:
 
@@ -3788,7 +3786,7 @@ b) il comma 2 e' abrogato.
 
 > 3\. Il decreto penale di condanna e' irrevocabile quando e' inutilmente decorso il termine per proporre opposizione o quello per impugnare l'ordinanza che la dichiara inammissibile.
 
-#### Art. 44 - Introduzione dell'articolo 224-ter del decreto legislativo n. 285 del 1992, in materia di applicazione delle sanzioni amministrative accessorie della confisca e del fermo e di sposizioni in materia di confisca dei ciclomotori e dei motocicli con cui sono state commesse violazioni amministrative
+### Art. 44 - Introduzione dell'articolo 224-ter del decreto legislativo n. 285 del 1992, in materia di applicazione delle sanzioni amministrative accessorie della confisca e del fermo e di sposizioni in materia di confisca dei ciclomotori e dei motocicli con cui sono state commesse violazioni amministrative
 
 1\. Alla sezione II del capo II del titolo VI del decreto legislativo n. 285 del 1992, dopo l'articolo 224-bis e' aggiunto il seguente:
 
@@ -3842,7 +3840,7 @@ b) il comma 2 e' abrogato.
 
 > 7\. Alle violazioni previste dal comma 1 e, se commesse da conducente minorenne, dal comma 2, alla sanzione pecuniaria amministrativa consegue il fermo amministrativo del veicolo per sessanta giorni, ai sensi del capo I, sezione II, del titolo VI; quando, nel corso di un biennio, con un ciclomotore o un motociclo sia stata commessa, per almeno due volte, una delle violazioni previste dai commi 1 e 2, il fermo amministrativo del veicolo e' disposto per novanta giorni
 
-#### Art. 45 - Modifica all'articolo 230 del decreto legislativo n. 285 del 1992, in materia di educazione stradale
+### Art. 45 - Modifica all'articolo 230 del decreto legislativo n. 285 del 1992, in materia di educazione stradale
 
 1\. Al comma 1 dell'articolo 230 del decreto legislativo n. 285 del 1992, le parole da: «i Ministri delle infrastrutture e dei trasporti» fino a: «predispongono» sono sostituite dalle seguenti: «il Ministro dell'istruzione, dell'universita' e della ricerca, con proprio decreto, da emanare di concerto con i Ministri delle infrastrutture e dei trasporti, dell'interno e dell'ambiente e della tutela del territorio e del mare, sentita la Conferenza Stato-citta' ed autonomie locali, avvalendosi dell'Automobile Club d'Italia, predispone».
 
@@ -3862,11 +3860,9 @@ b) il comma 2 e' abrogato.
 
 > 2-bis. Il Ministro delle infrastrutture e dei trasporti predispone annualmente un programma informativo sulla sicurezza stradale, sottoponendolo al parere delle Commissioni parlamentari competenti alle quali riferisce sui risultati ottenuti. ».
 
-## CAPO II - ALTRE DISPOSIZIONI IN MATERIA DI SICUREZZA NELLA CIRCOLAZIONE
+## CAPO II - ALTRE DISPOSIZIONI IN MATERIA DI SICUREZZA NELLA CIRCOLAZIONE STRADALE
 
-### STRADALE
-
-#### Art. 46 - Istituzione del Comitato per l'indirizzo ed il coordinamento delle attivita' connesse alla sicurezza stradale
+### Art. 46 - Istituzione del Comitato per l'indirizzo ed il coordinamento delle attivita' connesse alla sicurezza stradale
 
 1\. Al fine di ottimizzare le sinergie delle attivita' di sicurezza stradale, sotto ogni profilo svolte da tutti i soggetti istituzionalmente preposti, anche ai vari livelli di governo territoriale, e' istituito, presso il Ministero delle infrastrutture e dei trasporti, il Comitato per l'indirizzo ed il coordinamento delle attivita' connesse alla sicurezza stradale, di seguito denominato «Comitato».
 
@@ -3928,7 +3924,7 @@ g) tre rappresentanti delle regioni, delle province autonome di Trento e di Bolz
 
 > 4\. La Conferenza unificata di cui al comma 1 e' convocata dal Presidente del Consiglio dei Ministri. Le sedute sono presiedute dal Presidente del Consiglio dei Ministri o, su sua delega, dal Ministro per gli affari regionali o, se tale incarico non e' conferito, dal Ministro dell'interno
 
-#### Art. 47 - Obblighi degli enti proprietari e concessionari delle strade e delle autostrade
+### Art. 47 - Obblighi degli enti proprietari e concessionari delle strade e delle autostrade
 
 1\. Gli enti proprietari e concessionari delle strade e delle autostrade nelle quali si registrano piu' elevati tassi di incidentalita' effettuano specifici interventi di manutenzione straordinaria della sede stradale e autostradale, delle pertinenze, degli arredi, delle attrezzature e degli impianti, nonche' di sostituzione, di ammodernamento, di potenziamento, di messa a norma e di manutenzione della segnaletica e delle barriere volti a ridurre i rischi relativi alla circolazione. Al finanziamento degli interventi di cui al presente comma si provvede nei limiti delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri per la finanza pubblica.
 
@@ -3962,7 +3958,7 @@ g) tre rappresentanti delle regioni, delle province autonome di Trento e di Bolz
 
 > 4\. Per le strade vicinali di cui all'art. 2, comma 7, i poteri dell'ente proprietario previsti dal presente codice sono esercitati dal comune
 
-#### Art. 48 - Disposizioni in materia di classificazione amministrativa della rete autostradale e stradale di interesse nazionale
+### Art. 48 - Disposizioni in materia di classificazione amministrativa della rete autostradale e stradale di interesse nazionale
 
 1\. Dopo l'articolo 1 del decreto legislativo 29 ottobre 1999, n. 461, e' inserito il seguente:
 
@@ -4014,7 +4010,7 @@ g) tre rappresentanti delle regioni, delle province autonome di Trento e di Bolz
 
 > e) il coordinamento dei rapporti con l'Unione europea e i compiti preordinati ad assicurare l'esecuzione a livello nazionale degli obblighi derivanti dal Trattato sull'Unione europea e dagli accordi internazionali.
 
-#### Art. 49 - Introduzione del casco elettronico e della «scatola nera»
+### Art. 49 - Introduzione del casco elettronico e della «scatola nera»
 
 1\. Il Ministro delle infrastrutture e dei trasporti puo' emanare, sentito, per quanto di competenza, il Garante per la protezione dei dati personali, direttive al fine di prevedere, compatibilmente con la normativa comunitaria e nel rispetto della disciplina in materia di protezione dei dati personali, l'impiego in via sperimentale, da parte dei conducenti e degli eventuali passeggeri di ciclomotori e motoveicoli, del casco protettivo elettronico e l'equipaggiamento in via sperimentale degli autoveicoli per i quali e' richiesta, ai sensi del comma 3 dell'articolo 116 del decreto legislativo n. 285 del 1992, la patente di guida di categoria C, D o E, con un dispositivo elettronico protetto, denominato «scatola nera», idoneo a rilevare, allo scopo di garantire la sicurezza stradale, la tipologia del percorso, la velocita' media e puntuale del veicolo, le condizioni tecnico-meccaniche del medesimo e la condotta di guida, nonche', in caso di incidente, a ricostruirne la dinamica.
 
@@ -4022,7 +4018,7 @@ g) tre rappresentanti delle regioni, delle province autonome di Trento e di Bolz
 
 > -Per il testo dell'articolo 116 del decreto legislativo 30 aprile 1992, n. 285, si vedano note all'articolo 17
 
-#### Art. 50 - Certificazione di assenza di abuso di sostanze alcoliche e di assenza di assunzione di sostanze stupefacenti o psicotrope per chi esercita attivita' di autotrasporto
+### Art. 50 - Certificazione di assenza di abuso di sostanze alcoliche e di assenza di assunzione di sostanze stupefacenti o psicotrope per chi esercita attivita' di autotrasporto
 
 1\. Per l'esercizio dell'attivita' professionale di trasporto su strada che richieda la patente di guida di categoria C, C+E, D, D+E, l'interessato deve produrre apposita certificazione con cui si esclude che faccia abuso di sostanze alcoliche ovvero uso di sostanze stupefacenti o psicotrope.
 
@@ -4030,7 +4026,7 @@ g) tre rappresentanti delle regioni, delle province autonome di Trento e di Bolz
 
 3\. Le spese connesse al rilascio della certificazione di cui al comma 1 sono a carico dei soggetti che la richiedono. Le amministrazioni pubbliche interessate provvedono alle attivita' previste dal presente articolo nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente e senza nuovi o maggiori oneri per la finanza pubblica.
 
-#### Art. 51 - Modifiche al decreto legislativo 21 novembre 2005, n. 286, in materia di responsabilita' del vettore, del committente, del caricatore e del proprietario della merce, di documenti di trasporto e di rilascio della patente di guida per l'esercizio di attivita' di autotrasportatore
+### Art. 51 - Modifiche al decreto legislativo 21 novembre 2005, n. 286, in materia di responsabilita' del vettore, del committente, del caricatore e del proprietario della merce, di documenti di trasporto e di rilascio della patente di guida per l'esercizio di attivita' di autotrasportatore
 
 1\. Al decreto legislativo 21 novembre 2005, n. 286, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -4186,7 +4182,7 @@ c) all'articolo 22, dopo il comma 7 e' aggiunto il seguente:
 
 > 7-bis. In deroga ai criteri di propedeuticita' di cui all'articolo 116, comma 6, del decreto legislativo 30 aprile 1992, n. 285, puo' conseguire la patente di guida corrispondente alle categorie della patente estera posseduta il conducente titolare di patente di guida rilasciata da uno Stato con il quale non sussistono le condizioni di reciprocita' richieste dall'articolo 136, comma 2, del decreto legislativo n. 285 del 1992, dipendente di un'impresa di autotrasporto di persone o cose avente sede in Italia e titolare di carta di qualificazione del conducente rilasciata in Italia per mera esibizione della patente di guida posseduta, il quale ha stabilito la propria residenza in Italia da oltre un anno. All'atto del rilascio della patente, al titolare e' rilasciato anche un duplicato della carta di qualificazione del conducente con scadenza di validita' coincidente con quella della carta di qualificazione duplicata. Le medesime disposizioni si applicano anche qualora il dipendente di un'impresa di autotrasporto di persone o cose avente sede in Italia e titolare di carta di qualificazione del conducente rilasciata in Italia per mera esibizione della patente di guida posseduta, sia titolare di una patente rilasciata da uno Stato membro dell'Unione europea, su conversione di patente rilasciata da Stato terzo con il quale non sussistono le condizioni di reciprocita' richieste dall'articolo 136, comma 2, del decreto legislativo n. 285 del 1992, che scada di validita'.".
 
-#### Art. 52 - Introduzione dell'articolo 46-bis e modifica all'articolo 60 della legge 6 giugno 1974, n. 298, in materia di sanzioni per il cabotaggio stradale in violazione della normativa comunitaria
+### Art. 52 - Introduzione dell'articolo 46-bis e modifica all'articolo 60 della legge 6 giugno 1974, n. 298, in materia di sanzioni per il cabotaggio stradale in violazione della normativa comunitaria
 
 1\. Alla legge 6 giugno 1974, n. 298, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -4216,7 +4212,7 @@ b) il quarto comma dell'articolo 60 e' sostituito dal seguente: «Qualora le vio
 
 > Qualora le violazioni di cui agli articoli 26 e 46 siano commesse da un veicolo immatricolato all'estero, esercente attivita' di autotrasporto internazionale o di cabotaggio, si applicano le disposizioni dell'articolo 207 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni."
 
-#### Art. 53 - Misure per la prevenzione dei danni e degli incidenti stradali legati al consumo di alcool
+### Art. 53 - Misure per la prevenzione dei danni e degli incidenti stradali legati al consumo di alcool
 
 1\. L'articolo 14 della legge 30 marzo 2001, n. 125, e' sostituito dal seguente:
 
@@ -4240,7 +4236,7 @@ b) il quarto comma dell'articolo 60 e' sostituito dal seguente: «Qualora le vio
 
 > 1\. Negli esercizi commerciali e nei locali pubblici con accesso sulle strade classificate del tipo A di cui all'articolo 2, comma 2, del decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni, e' vietata la somministrazione di bevande superalcoliche.".
 
-#### Art. 54 - Modifiche alla disciplina della somministrazione e vendita di alcool nelle ore notturne
+### Art. 54 - Modifiche alla disciplina della somministrazione e vendita di alcool nelle ore notturne
 
 1\. All'articolo 6 del decreto-legge 3 agosto 2007, n. 117, convertito, con modificazioni, dalla legge 2 ottobre 2007, n. 160, sono apportate le seguenti modificazioni:
 
@@ -4370,7 +4366,7 @@ L'inosservanza delle disposizioni di cui al comma 2-quater comporta la sanzione 
 
 > c) per l'installazione in esercizi commerciali o pubblici diversi da quelli gia' in possesso di altre licenze di cui al primo o secondo comma o di cui all'articolo 88 ovvero per l'installazione in altre aree aperte al pubblico od in circoli privati
 
-#### Art. 55 - Disposizioni in materia di individuazione dei prodotti farmaceutici pericolosi per la guida dei veicoli
+### Art. 55 - Disposizioni in materia di individuazione dei prodotti farmaceutici pericolosi per la guida dei veicoli
 
 1\. Le disposizioni del presente articolo si applicano a tutti i prodotti farmaceutici, soggetti o meno a prescrizione medica e presentati sotto qualsiasi forma, che producono effetti negativi in relazione alla guida dei veicoli e dei natanti.
 
@@ -4398,7 +4394,7 @@ L'inosservanza delle disposizioni di cui al comma 2-quater comporta la sanzione 
 
 > 1\. L'imballaggio esterno e il foglio illustrativo possono, previa autorizzazione dell'AIFA, riportare segni o pittogrammi finalizzati a rendere piu' esplicite alcune informazioni di cui agli articoli 73 e 77, comma 1, nonche' altre informazioni compatibili con il riassunto delle caratteristiche del prodotto, utili per il paziente, ad esclusione di qualsiasi elemento di carattere promozionale."
 
-#### Art. 56 - Raccolta e invio dei dati relativi all'incidentalita' stradale
+### Art. 56 - Raccolta e invio dei dati relativi all'incidentalita' stradale
 
 1\. Ferme restando le competenze dell'Istituto nazionale di statistica e dell'Automobile Club d'Italia, con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'interno, sentita la Conferenza Stato-citta' ed autonomie locali, sono fissati i termini e le modalita' per la trasmissione, in via telematica, dei dati relativi all'incidentalita' stradale da parte delle Forze dell'ordine e degli enti locali al Dipartimento per i trasporti, la navigazione ed i sistemi informativi e statistici del Ministero delle infrastrutture e dei trasporti, ai fini dell'aggiornamento degli archivi previsti dagli articoli 225 e 226 del decreto legislativo n. 285 del 1992.
 
@@ -4412,7 +4408,7 @@ L'inosservanza delle disposizioni di cui al comma 2-quater comporta la sanzione 
 
 ## CAPO III - DISPOSIZIONI DI CARATTERE SOCIALE E DI SEMPLIFICAZIONE
 
-#### Art. 57 - Misure alternative alla pena detentiva
+### Art. 57 - Misure alternative alla pena detentiva
 
 1\. In luogo della misura detentiva dell'arresto prevista dall'articolo 116 del decreto legislativo n. 285 del 1992 e dagli articoli 186, 186-bis e 187 del decreto legislativo n. 285 del 1992, come da ultimo, rispettivamente, modificati e introdotto dall'articolo 33 della presente legge, a richiesta di parte puo' essere disposta la misura alternativa dell'affidamento in prova ai servizi sociali di cui all'articolo 47 della legge 26 luglio 1975, n. 354, e successive modificazioni, individuati con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro della giustizia, preferibilmente tra i servizi sociali che esercitano l'attivita' nel settore dell'assistenza alle vittime di sinistri stradali e alle loro famiglie.
 
@@ -4448,7 +4444,7 @@ L'inosservanza delle disposizioni di cui al comma 2-quater comporta la sanzione 
 
 > 12-bis. All'affidato in prova al servizio sociale che abbia dato prova nel periodo di affidamento di un suo concreto recupero sociale, desumibile da comportamenti rivelatori del positivo evolversi della sua personalita', puo' essere concessa la detrazione di pena di cui all'articolo 54. Si applicano gli articoli 69, comma 8, e 69-bis nonche' l'articolo 54, comma 3."
 
-#### Art. 58 - Modifiche all'articolo 74 del codice in materia di protezione dei dati personali, di cui al decreto legislativo 30 giugno 2003, n. 196, concernente contrassegni su veicoli a servizio di persone invalide
+### Art. 58 - Modifiche all'articolo 74 del codice in materia di protezione dei dati personali, di cui al decreto legislativo 30 giugno 2003, n. 196, concernente contrassegni su veicoli a servizio di persone invalide
 
 1\. All'articolo 74 del codice in materia di protezione dei dati personali, di cui al decreto legislativo 30 giugno 2003, n. 196, sono apportate le seguenti modificazioni:
 
@@ -4472,19 +4468,19 @@ b) il comma 2 e' sostituito dal seguente:
 
 > 4\. Per il trattamento dei dati raccolti mediante impianti per la rilevazione degli accessi di veicoli ai centri storici ed alle zone a traffico limitato continuano, altresi', ad applicarsi le disposizioni del decreto del Presidente della Repubblica 22 giugno 1999, n. 250.".
 
-#### Art. 59
+### Art. 59
 
 ((ARTICOLO ABROGATO DAL D.L. 16 LUGLIO 2020, N. 76, CONVERTITO CON MODIFICAZIONI DALLA L. 11 SETTEMBRE 2020, N. 120))
 
 ## CAPO IV - DISPOSIZIONI IN MATERIA DI CORRETTO ACCERTAMENTO DELLE VIOLAZIONI
 
-#### Art. 60 - Caratteristiche degli impianti semaforici e di altri dispositivi
+### Art. 60 - Caratteristiche degli impianti semaforici e di altri dispositivi
 
 1\. Con decreto del Ministro delle infrastrutture e dei trasporti, da emanare, sentita la Conferenza Stato-citta' ed autonomie locali, entro sessanta giorni dalla data di entrata in vigore della presente legge, sono definite le caratteristiche per l'omologazione e per l'installazione di dispositivi finalizzati a visualizzare il tempo residuo di accensione delle luci dei nuovi impianti semaforici, di impianti impiegati per regolare la velocita' e di impianti attivati dal rilevamento della velocita' dei veicoli in arrivo.
 
 2\. Le disposizioni di cui al comma 1 si applicano decorsi sei mesi dall'adozione del decreto di cui al medesimo comma 1.
 
-#### Art. 61 - Modalita' di accertamento delle violazioni al decreto legislativo n. 285 del 1992 da parte degli enti locali
+### Art. 61 - Modalita' di accertamento delle violazioni al decreto legislativo n. 285 del 1992 da parte degli enti locali
 
 1\. Agli enti locali e' consentita l'attivita' di accertamento strumentale delle violazioni al decreto legislativo n. 285 del 1992 soltanto mediante strumenti di loro proprieta' o da essi acquisiti con contratto di locazione finanziaria o di noleggio a canone fisso, da utilizzare ai fini dell'accertamento delle violazioni esclusivamente con l'impiego del personale dei corpi e dei servizi di polizia locale, fatto salvo quanto previsto dall'articolo 5 del regolamento di cui al decreto del Presidente della Repubblica 22 giugno 1999, n. 250.
 

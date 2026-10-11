@@ -42,7 +42,7 @@ DISPOSIZIONl GENERALI
 
 ## Titolo I - DISPOSIZIONl GENERALI
 
-##### Art. 1
+### Art. 1
 
 1\. Il Senato della Repubblica e' eletto su base regionale. Salvo i seggi assegnati alla circoscrizione Estero, i seggi sono ripartiti tra le regioni a norma dell'articolo 57 della Costituzione sulla base dei risultati dell'ultimo censimento generale della popolazione, riportati dalla piu' recente pubblicazione ufficiale dell'Istituto nazionale di statistica, con decreto del Presidente della Repubblica, da emanare, su proposta del Ministro dell'interno, previa deliberazione del Consiglio dei ministri, contemporaneamente al decreto di convocazione dei comizi.
 
@@ -64,15 +64,15 @@ AGGIORNAMENTO (4)
 
 Il D.L. 26 aprile 2005, n. 64, convertito con modificazioni dalla L. 25 giugno 2005, n. 110, ha disposto (con l'art. 1, comma 3) che nelle ipotesi di cui al comma 1 del suddetto decreto, anche in deroga a quanto previsto dal presente art. 1, comma 2 la determinazione del numero dei seggi da assegnare in ragione proporzionale in ciascuna circoscrizione e regione e' effettuata per l'elezione del Senato della Repubblica, di modo che il numero di seggi destinati al riparto con metodo proporzionale, in ogni regione, si ottiene sottraendo dal numero di seggi spettanti a ciascuna regione ai sensi del terzo e quarto comma dell'articolo 57 della Costituzione, il numero di seggi da attribuire, in base alla normativa vigente al momento dello scioglimento delle Camere, nei collegi uninominali di ciascuna regione.
 
-##### Art. 2 - Legge 4 agosto 1993, n. 276, art. 1
+### Art. 2 - Legge 4 agosto 1993, n. 276, art. 1
 
 1\. Il Senato della Repubblica e' eletto a suffragio universale, favorendo l'equilibrio della rappresentanza tra donne e uomini con voto diretto, libero e segreto, sulla base dei voti espressi nelle circoscrizioni regionali ((, suddivise in collegi uninominali e in collegi plurinominali)). PERIODO SOPPRESSO DALLA L. 21 DICEMBRE 2005, N. 270. PERIODO SOPPRESSO DALLA L. 21 DICEMBRE 2005, N. 270.
 
-##### Art. 3
+### Art. 3
 
 ((ARTICOLO ABROGATO DALLA L. 16 APRILE 2002, N. 62))
 
-##### Art. 4
+### Art. 4
 
 (Legge 6 febbraio 1948, n. 29, art. 4;
 
@@ -82,17 +82,17 @@ legge 23 aprile 1976, n. 136, art. 2, lettera i)
 
 2\. Il decreto di convocazione dei comizi per l'elezione dei senatori deve essere pubblicato nella Gazzetta Ufficiale non oltre il quarantacinquesimo giorno antecedente quello della votazione.
 
-##### Art. 5 - Legge 6 febbraio 1948, n. 29, art. 5
+### Art. 5 - Legge 6 febbraio 1948, n. 29, art. 5
 
 1\. Sono eleggibili a senatori gli elettori che, al giorno delle elezioni, hanno compiuto il quarantesimo anno di eta' e non si trovano in alcuna delle condizioni d'ineleggibilita' previste dagli articoli 7, 8, 9 e 10 del testo unico delle leggi recanti norme per l'elezione della Camera dei deputati, approvato con decreto del Presidente della Repubblica 30 marzo 1957, n. 361.
 
 ## Titolo II - DEGLI UFFICI ELETTORALI ((...)) REGIONALI
 
-##### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DALLA L. 21 DICEMBRE 2005, N. 270))
 
-##### Art. 7
+### Art. 7
 
 (Legge 6 febbraio 1948, n. 29, art. 7;
 
@@ -102,11 +102,11 @@ legge 23 aprile 1976, n. 136, art. 2, lettera a)
 
 ## Titolo III - ((DELLA PRESENTAZIONE DELLE CANDIDATURE))
 
-##### Art. 8
+### Art. 8
 
 ((1. I partiti o gruppi politici organizzati che intendono presentare candidature per l'elezione del Senato della Repubblica debbono depositare presso il Ministero dell'interno il contrassegno con il quale dichiarano di volere distinguere le candidature medesime, con l'osservanza delle norme di cui agli articoli 14, 14-bis, 15, 16 e 17 del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e successive modificazioni)).
 
-##### Art. 9
+### Art. 9
 
 1\. La dichiarazione di presentazione delle liste dei candidati deve contenere l'indicazione dei nominativi di due delegati effettivi e di due supplenti.
 
@@ -140,7 +140,7 @@ AGGIORNAMENTO (11)
 
 La L. 27 dicembre 2017, n. 205 ha disposto (con l'art. 1, comma 1123) che "Al fine di garantire il tempestivo avvio delle procedure connesse all'entrata in vigore del nuovo sistema elettorale, e' autorizzata la spesa di un milione di euro per l'anno 2018 per l'attuazione degli obblighi di trasparenza previsti dall'articolo 20, nono comma, del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e dall'articolo 4 della legge 3 novembre 2017, n. 165, e per l'implementazione dei sistemi informativi a supporto dei nuovi adempimenti degli uffici elettorali e per la trasmissione in formato elettronico alle Camere di tutti i dati necessari per la proclamazione degli eletti, e, anche in considerazione dei termini connessi alla nuova determinazione dei collegi elettorali in attuazione dell'articolo 3 della citata legge n. 165 del 2017, per le prime elezioni successive alla data di entrata in vigore della presente legge, il numero delle sottoscrizioni di cui all'articolo 18-bis, comma 1, del citato testo unico di cui al decreto del Presidente della Repubblica n. 361 del 1957 e all'articolo 9, comma 2, del testo unico delle leggi recanti norme per l'elezione del Senato della Repubblica, di cui al decreto legislativo 20 dicembre 1993, n. 533, e' ridotto a un quarto".
 
-##### Art. 10 - Legge 23 aprile 1976, n. 136, art. 2, lettera d
+### Art. 10 - Legge 23 aprile 1976, n. 136, art. 2, lettera d
 
 1\. L'ufficio elettorale regionale verifica se le candidature siano state presentate in termini e nelle forme prescritte.
 
@@ -156,7 +156,7 @@ La L. 27 dicembre 2017, n. 205 ha disposto (con l'art. 1, comma 1123) che "Al fi
 
 7\. Per le modalita' ed i termini per la presentazione dei ricorsi nonche' per le decisioni degli stessi e per le conseguenti comunicazioni ai ricorrenti ed agli uffici elettorali regionali si osservano le norme di cui all'articolo 23 del predetto testo unico.
 
-##### Art. 11
+### Art. 11
 
 (Legge 6 febbraio 1948, n. 29, art. 13, terzo e quarto comma; legge 23 aprile 1976, n. 136, art. 2, lettera f); legge 21 marzo 1990, n. 53, art. 13, comma 2; legge 13 marzo 1980, n. 70, art. 7, secondo comma; legge 4 febbraio 1992, n. 70, art. 2).
 
@@ -178,7 +178,7 @@ c) procede, per mezzo delle prefetture - uffici territoriali del Governo:
 
 4-bis. La scheda elettorale per l'elezione uninominale nel collegio della Valle d'Aosta deve recare doppie diciture in lingua italiana ed in lingua francese.
 
-##### Art. 12
+### Art. 12
 
 (Art. 2, lettera g), della legge 23 aprile 1976, n. 136)
 
@@ -190,7 +190,7 @@ c) procede, per mezzo delle prefetture - uffici territoriali del Governo:
 
 ## Titolo IV - DELLA VOTAZIONE
 
-##### Art. 13 - Legge 6 febbraio 1948, n. 29, art. 15, primo e secondo comma; legge 11 agosto 1991, n. 271, articoli 7, comma 1, ed 8, comma 1; legge 23 gennaio 1992, n. 33, art. 3, commi 1 e 2
+### Art. 13 - Legge 6 febbraio 1948, n. 29, art. 15, primo e secondo comma; legge 11 agosto 1991, n. 271, articoli 7, comma 1, ed 8, comma 1; legge 23 gennaio 1992, n. 33, art. 3, commi 1 e 2
 
 1\. All'elezione dei senatori partecipano gli elettori che hanno compiuto il venticinquesimo anno di eta'.
 
@@ -200,7 +200,7 @@ c) procede, per mezzo delle prefetture - uffici territoriali del Governo:
 
 4\. I rappresentanti ((. . .)) delle liste dei candidati alle elezioni della Camera dei deputati votano per l'elezione del Senato della Repubblica nella sezione presso la quale esercitano le loro funzioni, purche' siano elettori ((della circoscrizione regionale)).
 
-##### Art. 14
+### Art. 14
 
 ((1. L'elettore, senza che sia avvicinato da alcuno, esprime il voto tracciando con la matita sulla scheda un segno, comunque apposto, sul rettangolo contenente il contrassegno della lista e i nominativi dei candidati nel collegio plurinominale. Il voto e' valido a favore della lista e ai fini dell'elezione del candidato nel collegio uninominale.
 
@@ -216,19 +216,17 @@ AGGIORNAMENTO (9)
 
 La Corte Costituzionale con sentenza 4 dicembre 2013 - 13 gennaio 2014 n. 1 (in G.U. 1a s.s. 15/01/2014 n. 3) ha dichiarato l'illegittimita' costituzionale del comma 1 del presente articolo nella parte in cui non consentono all'elettore di esprimere una preferenza per i candidati.
 
-## Titolo V - DELLE OPERAZIONI
+## Titolo V - DELLE OPERAZIONI DELL'UFFICIO ELETTORALE CIRCOSCRIZIONALE
 
-### DELL'UFFICIO ELETTORALE CIRCOSCRIZIONALE
+## ((TITOLO ABROGATO DALLA L. 21 DICEMBRE 2005, N.270))
 
-#### ((TITOLO ABROGATO DALLA L. 21 DICEMBRE 2005, N.270))
-
-##### Art. 15
+### Art. 15
 
 ((ARTICOLO ABROGATO DALLA L. 21 DICEMBRE 2005, N. 270))
 
 ## Titolo VI - DELLE OPERAZIONI DELL'UFFICIO ELETTORALE REGIONALE ((E DELL'UFFICIO ELETTORALE CENTRALE NAZIONALE))
 
-##### Art. 16
+### Art. 16
 
 ((1. L'Ufficio elettorale regionale, compiute le operazioni previste dall'articolo 76 del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, facendosi assistere, ove lo ritenga opportuno, da uno o piu' esperti scelti dal presidente:
 
@@ -260,7 +258,7 @@ AGGIORNAMENTO (5)
 
 La L. 21 dicembre 2005, n. 270 ha disposto (con l'art. 8, comma 9) che "L'articolo 16 del decreto legislativo n. 533 del 1993, come sostituito dall'articolo 4, comma 7, della presente legge, e' incluso nel Titolo VI e il Titolo V e' conseguentemente abrogato".
 
-##### Art. 16-bis
+### Art. 16-bis
 
 1\. L'Ufficio elettorale centrale nazionale, ricevuti gli estratti dei verbali da tutti gli Uffici elettorali regionali, facendosi assistere, ove lo ritenga opportuno, da uno o piu' esperti scelti dal presidente:
 
@@ -282,7 +280,7 @@ e) individua quindi:
 
 f) comunica agli Uffici elettorali regionali, a mezzo di estratto del verbale, l'elenco delle liste e delle coalizioni di liste individuate ai sensi della lettera e), numeri 1) e 2).
 
-##### Art. 17
+### Art. 17
 
 1\. L'Ufficio elettorale regionale procede all'assegnazione dei seggi spettanti nei collegi plurinominali della regione alle liste singole e alle coalizioni di liste individuate dall'Ufficio elettorale centrale nazionale ai sensi dell'articolo 16-bis, comma 1, lettera e), numeri 1) e 2), e incluse nell'elenco di cui all'articolo 16-bis, comma 1, lettera f). A tale fine l'Ufficio procede alle seguenti operazioni:
 
@@ -304,7 +302,7 @@ AGGIORNAMENTO (9)
 
 La Corte Costituzionale con sentenza 4 dicembre 2013 - 13 gennaio 2014 n. 1 (in G.U. 1a s.s. 15/01/2014 n. 3) ha dichiarato l'illegittimita' costituzionale dei commi 2 e 4 del presente articolo.
 
-##### Art. 17-bis
+### Art. 17-bis
 
 ((1. Al termine delle operazioni di cui agli articoli precedenti, l'Ufficio elettorale regionale proclama eletti in ciascun collegio plurinominale, nei limiti dei seggi ai quali ciascuna lista ha diritto, i candidati compresi nella lista del collegio, secondo l'ordine di presentazione.
 
@@ -312,13 +310,13 @@ La Corte Costituzionale con sentenza 4 dicembre 2013 - 13 gennaio 2014 n. 1 (in 
 
 3\. Nel caso di elezione in piu' collegi si applica quanto previsto dall'articolo 85 del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361)).
 
-##### Art. 18 - Legge 6 febbraio 1948, n. 29, art. 20
+### Art. 18 - Legge 6 febbraio 1948, n. 29, art. 20
 
 ((01. Dell'avvenuta proclamazione il presidente dell'ufficio elettorale regionale invia attestato al senatore proclamato e da' immediata notizia alla segreteria del Senato, nonche' alla prefettura o alle prefetture-uffici territoriali del Governo della regione, perche' a mezzo dei sindaci sia portata a conoscenza degli elettori)).
 
 1\. Di tutte le operazioni dell'ufficio elettorale regionale viene redatto, in duplice esemplare, apposito verbale; un esemplare e' inviato subito alla segreteria del Senato, che ne rilascia ricevuta; l'altro e' depositato nella cancelleria della corte d'appello o del tribunale sede dell'ufficio elettorale regionale, con facolta' agli elettori della regione di prenderne visione nei successivi quindici giorni.
 
-##### Art. 19
+### Art. 19
 
 ((1. Nel caso in cui rimanga vacante per qualsiasi causa, anche sopravvenuta, un seggio in un collegio uninominale si procede ad elezioni suppletive per cui si applicano, in quanto compatibili, le disposizioni dell'articolo 21-ter.
 
@@ -326,7 +324,7 @@ La Corte Costituzionale con sentenza 4 dicembre 2013 - 13 gennaio 2014 n. 1 (in 
 
 ## Titolo VII - DISPOSIZIONI SPECIALI PER LE REGIONI ((CHE ELEGGONO UN SOLO SENATORE E PER LA REGIONE)) TRENTINO-ALTO ADIGE/SÜDTIROL
 
-##### Art. 20
+### Art. 20
 
 1\. L'elezione uninominale ((nei collegi delle regioni che eleggono un solo senatore)) e nei collegi uninominali della regione Trentino-Alto Adige e' regolata dalle disposizioni dei precedenti articoli, in quanto applicabili, e dalle norme seguenti:
 
@@ -338,11 +336,11 @@ c) i modelli di scheda per l'elezione nei collegi uninominali delle ((regioni di
 
 d) il tribunale ((del capoluogo di regione)), costituito in ufficio elettorale regionale ai sensi dell'articolo 7, esercita le sue funzioni con l'intervento di tre magistrati.
 
-##### Art. 20-bis
+### Art. 20-bis
 
 ((1. A pena di nullita' dell'elezione, nessun candidato puo' accettare la candidatura in piu' di un collegio uninominale.))
 
-##### Art. 21
+### Art. 21
 
 ((1. L'ufficio elettorale regionale procede, con l'assistenza del cancelliere, alle seguenti operazioni:
 
@@ -352,11 +350,11 @@ b) somma i voti ottenuti da ciascun candidato nelle singole sezioni, come risult
 
 2\. Il presidente dell'ufficio elettorale regionale, in conformita' ai risultati accertati, proclama eletto per ciascun collegio il candidato che ha ottenuto il maggior numero di voti validi. In caso di parita' di voti, e' proclamato eletto il candidato piu' anziano di eta'.))
 
-##### Art. 21-bis
+### Art. 21-bis
 
 ((ARTICOLO ABROGATO DALLA L. 3 NOVEMBRE 2017, N. 165))
 
-##### Art. 21-ter
+### Art. 21-ter
 
 1\. Quando, per qualsiasi causa, resti vacante il seggio di senatore nel collegio uninominale di una regione che elegge un solo senatore o in uno dei collegi uninominali del Trentino-Alto Adige, il presidente del Senato della Repubblica ne da' immediata comunicazione al Presidente del Consiglio dei ministri e al Ministro dell'interno perchesi proceda ad elezione suppletiva nel collegio interessato.
 
@@ -386,7 +384,7 @@ Ha inoltre disposto (con l'art. 1, comma 2) che "In considerazione di sopravvenu
 
 ## Titolo VIII - DISPOSIZIONI FINALI
 
-##### Art. 22
+### Art. 22
 
 (Legge 6 febbraio 1948, n. 29, art. 26, primo, secondo, quarto, quinto, sesto, settimo e ottavo comma; legge 23 aprile 1976, n. 136, art. 2, lettere m), n) ed o), e art. 6)
 
@@ -406,7 +404,7 @@ Ha inoltre disposto (con l'art. 1, comma 2) che "In considerazione di sopravvenu
 
 8\. Se non e' possibile l'immediato recapito, i plichi contenenti i verbali e i documenti allegati devono rimanere nella sala della votazione, che viene chiusa e custodita secondo le prescrizioni di cui all'articolo 64 del testo unico sopra richiamato, per essere recapitati con ogni urgenza, a cura del presidente, al mattino.
 
-##### Art. 23
+### Art. 23
 
 (Legge 6 febbraio 1948, n. 29, art. 27;
 
@@ -414,19 +412,19 @@ legge 30 giugno 1989, n. 244, art. 2, comma 3)
 
 1\. Nell'ipotesi prevista dall'articolo 22, comma 1, la commissione elettorale comunale, entro quindici giorni dalla data di pubblicazione nella Gazzetta Ufficiale del decreto di convocazione dei comizi, appone sull'esemplare della lista di sezione, depositato presso il comune, apposita annotazione, mediante stampigliatura, a fianco dei nominativi degli elettori che possono votare soltanto per l'elezione della Camera dei deputati. L'elenco di detti nominativi e' trasmesso, a cura del sindaco, immediatamente alla commissione elettorale circondariale, che provvede ad apporre analoga annotazione stampigliata sull'esemplare della lista destinato all'ufficio elettorale di sezione.
 
-##### Art. 24 - Legge 6 febbraio 1948, n. 29, art. 29
+### Art. 24 - Legge 6 febbraio 1948, n. 29, art. 29
 
 1\. Se le due elezioni per il Senato e per la Camera dei deputati non sono contemporanee, il membro della Camera ancora in funzione, che accetta la candidatura per l'altra Camera, decade dal mandato.
 
-##### Art. 25 - Legge 6 febbraio 1948, n. 29, art. 30
+### Art. 25 - Legge 6 febbraio 1948, n. 29, art. 30
 
 1\. Per le aperture di credito inerenti al pagamento delle spese per l'elezione del Senato della Repubblica e della Camera dei deputati e' autorizzata la deroga alle limitazioni previste dall'articolo 56 del regio decreto 18 novembre 1923, n. 2440.
 
-##### Art. 26 - Legge 6 febbraio 1948, n. 29, art. 31
+### Art. 26 - Legge 6 febbraio 1948, n. 29, art. 31
 
 1\. Gli emigrati per motivi di lavoro, che rimpatriano per le elezioni, hanno diritto al trasporto ferroviario gratuito dalla stazione di confine al comune in cui votano e viceversa.
 
-##### Art. 27
+### Art. 27
 
 (Legge 6 febbraio 1948, n. 29, art. 25, primo comma; legge 27
 
@@ -438,7 +436,7 @@ comma 2)
 
 1\. Per l'esercizio del diritto di voto e per tutto cio' che non e' disciplinato dal presente decreto si osservano, in quanto applicabili, le disposizioni del testo unico delle leggi per l'elezione della Camera dei deputati, approvato con decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e successive modificazioni.
 
-##### Art. 28
+### Art. 28
 
 Entrata in vigore
 
@@ -462,7 +460,7 @@ Visto, il Guardasigilli: CONSO
 
 ## Titolo VIII - DISPOSIZIONI FINALI
 
-##### Tabelle
+### Tabelle
 
 ((Tabella A
 

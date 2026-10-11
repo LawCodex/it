@@ -28,7 +28,7 @@ la seguente legge:
 
 ## Titolo I - DISPOSIZIONI GENERALI
 
-#### Art. 1
+### Art. 1
 
 ((Titolo di dottore agronomo e di dottore forestale
 
@@ -36,7 +36,7 @@ la seguente legge:
 
 2\. Possono accedere all'esame di stato per l'abilitazione all'- esercizio della professione i laureati della facolta' di agraria)).
 
-#### Art. 2
+### Art. 2
 
 ((Attivita' professionale
 
@@ -96,7 +96,7 @@ cc) le attivita', le operazioni e le attribuzioni comuni con altre categorie pro
 
 4\. L'elencazione di cui al comma 1 non pregiudica l'esercizio di ogni altra attivita' professionale dei dottori agronomi e dei dottori forestali, ne' di quanto puo' formare oggetto dell'attivita' professionale di altre categorie a norma di leggi e regolamenti)).
 
-#### Art. 3
+### Art. 3
 
 ((Esercizio della professione
 
@@ -112,13 +112,13 @@ cc) le attivita', le operazioni e le attribuzioni comuni con altre categorie pro
 
 6\. Gli iscritti ad un albo provinciale hanno facolta' di esercitare la professione in tutto il territorio dello Stato)).
 
-#### Art. 4
+### Art. 4
 
 Obbligo del segreto professionale
 
 L'iscritto nell'albo ha l'obbligo del segreto professionale per quanto attiene alle notizie delle quali sia venuto a conoscenza per ragioni della propria attivita'.
 
-#### Art. 5
+### Art. 5
 
 Vigilanza sull'esercizio della professione
 
@@ -126,7 +126,7 @@ L'ordine dei dottori agronomi e dei dottori forestali e' posto sotto la vigilanz
 
 Il ((Ministero della giustizia)) vigila sull'esatta osservanza delle norme legislative e regolamentari ed a tale scopo formula, direttamente ovvero per mezzo dei suddetti magistrati, le richieste ed i rilievi del caso.
 
-#### Art. 6
+### Art. 6
 
 Incarichi dell'autorita' giudiziaria
 
@@ -136,7 +136,7 @@ Gli incarichi relativi all'attivita' professionale sono affidati dall'autorita' 
 
 Qualora esse intendano conferire incarichi a persone non iscritte nell'albo, ne enunciano i motivi nel provvedimento.
 
-#### Art. 7
+### Art. 7
 
 Riscossione dei contributi
 
@@ -146,17 +146,15 @@ I ruoli sono pubblicati e posti in riscossione in coincidenza con i ruoli eraria
 
 L'esattore versa i contributi al ricevitore provinciale delle imposte dirette, il quale provvede a rimettere all'ordine locale ed al consiglio nazionale l'importo delle rispettive quote.
 
-#### Art. 8
+### Art. 8
 
 ((Personale del consiglio dell'ordine nazionale e dei consigli degli ordini.
 
 1\. Il consiglio dell'ordine nazionale ed i consigli degli ordini provvedono al personale occorrente e ad ogni altra necessita' per il proprio funzionamento)).
 
-## Titolo II - ((ORDINI DEI DOTTORI AGRONOMI E DEI DOTTORI FORESTALI
+## Titolo II - ((ORDINI DEI DOTTORI AGRONOMI E DEI DOTTORI FORESTALI E FEDERAZIONI REGIONALI DEGLI ORDINI))
 
-### E FEDERAZIONI REGIONALI DEGLI ORDINI))
-
-#### Art. 9
+### Art. 9
 
 Circoscrizioni territoriali
 
@@ -164,7 +162,7 @@ L'ordine dei dottori agronomi e dei dottori forestali e' costituito, con sede ne
 
 Se il numero dei professionisti iscritti nell'albo e' inferiore a quindici, essi sono iscritti nell'albo di altro ordine viciniore fissato dal consiglio nazionale.
 
-#### Art. 10
+### Art. 10
 
 Composizione del consiglio dell'ordine
 
@@ -176,7 +174,7 @@ La maggioranza dei componenti il consiglio deve essere costituita da iscritti al
 
 Il consiglio uscente rimane in carica fino all'insediamento del nuovo consiglio.
 
-#### Art. 11
+### Art. 11
 
 Cariche del consiglio - Validita' delle sedute
 
@@ -186,13 +184,13 @@ Quando il presidente e il vice presidente sono assenti o impediti, ne fa le veci
 
 Per la validita' delle sedute occorre la presenza della maggioranza dei consiglieri componenti il consiglio.
 
-#### Art. 12
+### Art. 12
 
 Attribuzioni del presidente
 
 Il presidente ha la rappresentanza dell'ordine, di cui convoca e presiede l'assemblea, ed esercita le attribuzioni conferitegli dalla presente legge o da altre norme; inoltre rilascia la tessera di riconoscimento nonche' le attestazioni ed i certificati relativi agli iscritti.
 
-#### Art. 13
+### Art. 13
 
 Attribuzioni del consiglio
 
@@ -224,7 +222,7 @@ n) cura il perfezionamento tecnico e culturale degli iscritti.
 
 Le delibere del consiglio sono prese a maggioranza dei presenti; in caso di parita' prevale il voto del presidente o di chi ne fa le veci, salvo il disposto di cui al secondo comma dell'articolo 48.
 
-#### Art. 14
+### Art. 14
 
 Decadenza dalla carica di membro del consiglio
 
@@ -236,7 +234,7 @@ I membri decaduti e quelli dimissionari sono sostituiti dai candidati non eletti
 
 ((COMMA ABROGATO DAL D.P.R. 8 LUGLIO 2005, N. 169)).
 
-#### Art. 15
+### Art. 15
 
 Scioglimento del consiglio
 
@@ -254,7 +252,7 @@ AGGIORNAMENTO (3)
 
 Il D.lgs. 26 marzo 2010, n. 59, ha disposto (con l'art. 50, comma 5) che "l'espressione "Ministro di grazia e giustizia", ovunque ricorra, e' sostituita dalla seguente: "Ministro della giustizia"".
 
-#### Art. 16
+### Art. 16
 
 Assemblea ordinaria degli iscritti
 
@@ -264,13 +262,13 @@ Essa e' regolarmente costituita in prima convocazione con la presenza della magg
 
 L'assemblea delibera a maggioranza assoluta dei presenti.
 
-#### Art. 17
+### Art. 17
 
 Assemblea per l'approvazione dei conti
 
 L'assemblea degli iscritti nell'albo per la approvazione del conto preventivo e di quello consuntivo e' convocata nel mese di marzo di ogni anno.
 
-#### Art. 18
+### Art. 18
 
 Assemblea straordinaria
 
@@ -278,7 +276,7 @@ Il presidente convoca l'assemblea straordinaria quando lo ritiene opportuno nonc
 
 Nei casi suddetti il presidente convoca l'assemblea entro venti giorni e, se non vi provvede, l'assemblea stessa e' convocata dal procuratore della Repubblica presso il tribunale, il quale designa a presiederla un iscritto nell'albo.
 
-#### Art. 19
+### Art. 19
 
 Assemblea per l'elezione del consiglio
 
@@ -300,7 +298,7 @@ Assemblea per l'elezione del consiglio
 
 9\. Contro i risultati delle elezioni ciascun iscritto all'albo puo' proporre ricorso al consiglio dell'ordine nazionale ai sensi del terzo comma dell'articolo 54.
 
-#### Art. 20
+### Art. 20
 
 Costituzione di nuovi ordini
 
@@ -312,7 +310,7 @@ AGGIORNAMENTO (3)
 
 Il D.lgs. 26 marzo 2010, n. 59, ha disposto (con l'art. 50, comma 5) che "l'espressione "Ministro di grazia e giustizia", ovunque ricorra, e' sostituita dalla seguente: "Ministro della giustizia"".
 
-#### Art. 21
+### Art. 21
 
 Fusioni di ordini
 
@@ -324,7 +322,7 @@ AGGIORNAMENTO (3)
 
 Il D.lgs. 26 marzo 2010, n. 59, ha disposto (con l'art. 50, comma 5) che "l'espressione "Ministro di grazia e giustizia", ovunque ricorra, e' sostituita dalla seguente: "Ministro della giustizia"".
 
-#### Art. 21-bis
+### Art. 21-bis
 
 ((Federazione regionale degli ordini
 
@@ -342,7 +340,7 @@ In caso di necessita', i presidenti degli ordini possono farsi sostituire delega
 
 6\. Il presidente e' nominato dal consiglio nel suo seno. In caso di impedimento, e' sostituito dal piu' anziano per iscrizione all'albo dei consiglieri della federazione in carica. Il presidente resta in carica due anni, sempreche' mantenga la qualita' di componente il consiglio, ed e' rieleggibile)).
 
-#### Art. 21-ter
+### Art. 21-ter
 
 ((Funzioni della federazione regionale
 
@@ -362,7 +360,7 @@ f) promuove e coordina sul piano regionale tra le attivita' di aggiornamento e d
 
 g) puo' compiere studi, indagini ed altre attivita' anche su commessa e con contributi della pubblica amministrazione)).
 
-#### Art. 21-quater
+### Art. 21-quater
 
 ((Funzioni degli organi della federazione regionale
 
@@ -402,17 +400,15 @@ e) in genere provvede, salvo i compiti espressamente attribuiti agli organi, a q
 
 10\) Il presidente e' inoltre tenuto a convocare il consiglio entro quindici giorni dalla data in cui ne abbia fatta richiesta scritta almeno un terzo dei consiglieri in carica con l'indicazione degli argomenti da porre all'ordine del giorno)).
 
-## Titolo III - CONSIGLIO DELL'ORDINE NAZIONALE DEI DOTTORI AGRONOMI
+## Titolo III - CONSIGLIO DELL'ORDINE NAZIONALE DEI DOTTORI AGRONOMI E DEI DOTTORI FORESTALI
 
-### E DEI DOTTORI FORESTALI
-
-#### Art. 22
+### Art. 22
 
 Ordine nazionale
 
 Gli ordini dei dottori agronomi e dei dottori forestali costituiscono un unico ordine nazionale.
 
-#### Art. 23
+### Art. 23
 
 Consiglio dell'ordine nazionale
 
@@ -422,7 +418,7 @@ COMMA ABROGATO DAL D.P.R. 8 LUGLIO 2005, N. 169.
 
 COMMA ABROGATO DAL D.P.R. 8 LUGLIO 2005, N. 169.
 
-#### Art. 24
+### Art. 24
 
 Cariche del consiglio dell'ordine nazionale
 
@@ -430,7 +426,7 @@ Il consiglio dell'ordine nazionale elegge nel proprio seno un presidente, un vic
 
 Quando il presidente ed il vice presidente sono assenti od impediti, ne fa le veci il membro del consiglio piu' anziano per iscrizione nell'albo o, in caso di pari anzianita', il piu' anziano per eta'.
 
-#### Art. 25
+### Art. 25
 
 Attribuzioni del presidente del consiglio dell'ordine nazionale
 
@@ -438,7 +434,7 @@ Il presidente del consiglio dell'ordine nazionale ha la rappresentanza del consi
 
 Il presidente convoca il consiglio ogni volta che lo ritiene opportuno e quando ne e' fatta motivata richiesta scritta da almeno cinque membri.
 
-#### Art. 26
+### Art. 26
 
 Attribuzioni del consiglio dell'ordine nazionale
 
@@ -466,7 +462,7 @@ AGGIORNAMENTO (3)
 
 Il D.lgs. 26 marzo 2010, n. 59, ha disposto (con l'art. 50, comma 5) che "l'espressione "Ministro di grazia e giustizia", ovunque ricorra, e' sostituita dalla seguente: "Ministro della giustizia"".
 
-#### Art. 27
+### Art. 27
 
 Elezione del consiglio dell'ordine nazionale
 
@@ -486,11 +482,11 @@ AGGIORNAMENTO (3)
 
 Il D.lgs. 26 marzo 2010, n. 59, ha disposto (con l'art. 50, comma 5) che "l'espressione "Ministro di grazia e giustizia", ovunque ricorra, e' sostituita dalla seguente: "Ministro della giustizia"".
 
-#### Art. 28
+### Art. 28
 
 ((ARTICOLO ABROGATO DAL D.P.R. 8 LUGLIO 2005, N. 169)).
 
-#### Art. 29
+### Art. 29
 
 Comunicazione delle decisioni
 
@@ -498,7 +494,7 @@ Le decisioni del consiglio nazionale sono, a cura del segretario, comunicate ent
 
 ## Titolo IV - ISCRIZIONE NELL'ALBO, TRASFERIMENTO, CANCELLAZIONE
 
-#### Art. 30
+### Art. 30
 
 Contenuto dell'albo e suoi effetti
 
@@ -506,7 +502,7 @@ L'albo dei dottori agronomi e forestali e' distinto in piu' sezioni riguardanti 
 
 L'anzianita' e' determinata dalla data di iscrizione nell'albo.
 
-#### Art. 31
+### Art. 31
 
 Requisiti per l'iscrizione nell'albo
 
@@ -528,7 +524,7 @@ f) precisare il proprio stato giuridico professionale.
 
 Non possono ottenere l'iscrizione coloro che hanno riportato condanne che, a norma del presente ordinamento, comportino la radiazione dall'albo.
 
-#### Art. 32
+### Art. 32
 
 Iscrizione - Rigetto della domanda
 
@@ -538,7 +534,7 @@ Il consiglio dell'ordine delibera nel termine di ((due)) mesi dalla presentazion
 
 Il rigetto della domanda per motivi di incompatibilita' o di condotta puo' essere pronunciato solo dopo che l'interessato e' stato invitato a comparire davanti al consiglio.
 
-#### Art. 33
+### Art. 33
 
 Divieto di iscrizione in piu' albi - Variazioni dello stato
 
@@ -552,7 +548,7 @@ Gli iscritti all'albo che si trasferiscono all'estero potranno conservare l'iscr
 
 Non e' ammesso il trasferimento della iscrizione quando il richiedente e' sottoposto a procedimento penale o disciplinare, ovvero e' sospeso dall'albo.
 
-#### Art. 34
+### Art. 34
 
 Cancellazione - Sospensione per morosita'
 
@@ -564,7 +560,7 @@ La sospensione per morosita' non e' soggetta a limiti di durata ed e' revocata c
 
 Per il procedimento di cancellazione nonche' per quello di sospensione per morosita' si osservano, in quanto applicabili, le norme previste per il procedimento disciplinare.
 
-#### Art. 35
+### Art. 35
 
 Reiscrizione
 
@@ -572,7 +568,7 @@ Gli iscritti cancellati dall'albo possono chiedere la reiscrizione quando sono c
 
 Il reiscritto conserva la precedente anzianita', dedotto il periodo di interruzione.
 
-#### Art. 36
+### Art. 36
 
 Comunicazioni delle deliberazioni del consiglio
 
@@ -580,13 +576,13 @@ Le decisioni del consiglio dell'ordine in materia di iscrizione, cancellazione o
 
 ## Titolo V - SANZIONI DISCIPLINARI - PROCEDIMENTO
 
-#### Art. 37
+### Art. 37
 
 Responsabilita' disciplinare
 
 Agli iscritti all'albo che si rendono colpevoli di abusi o mancanze nell'esercizio della professione o di fatti lesivi della dignita' o del decoro professionale, si applicano le sanzioni previste nel presente titolo.
 
-#### Art. 38
+### Art. 38
 
 Sanzioni disciplinari
 
@@ -600,7 +596,7 @@ c) la sospensione dall'esercizio professionale per un periodo non inferiore a qu
 
 d) la radiazione.
 
-#### Art. 39
+### Art. 39
 
 Avvertimento
 
@@ -608,7 +604,7 @@ L'avvertimento consiste nel rilievo della trasgressione commessa dal professioni
 
 Entro dieci giorni successivi alla avvenuta comunicazione l'interessato puo' richiedere di essere sottoposto a procedimento disciplinare.
 
-#### Art. 40
+### Art. 40
 
 Censura
 
@@ -616,7 +612,7 @@ La censura consiste nel biasimo formale per la trasgressione commessa dal profes
 
 La censura e' disposta con deliberazione del consiglio dell'ordine.
 
-#### Art. 41
+### Art. 41
 
 Sospensione dall'esercizio professionale
 
@@ -634,7 +630,7 @@ Nei casi di cui al precedente comma la sospensione e' immediatamente esecutiva, 
 
 Durante il periodo di sospensione dall'esercizio professionale restano sospesi tutti i diritti elettorali attivi e passivi previsti dalla presente legge.
 
-#### Art. 42
+### Art. 42
 
 Radiazione
 
@@ -648,19 +644,19 @@ b) l'interdizione dai pubblici uffici perpetua o di durata superiore ai tre anni
 
 c) il ricovero in un manicomio giudiziario nei casi indicati nell'articolo 222, comma secondo, del codice penale, o l'assegnazione ad una colonia agricola, ad una casa di lavoro o ad una casa di cura e di custodia.
 
-#### Art. 43
+### Art. 43
 
 Rapporto tra procedimento disciplinare e giudizio penale
 
 Gli iscritti all'albo sottoposti a procedimento penale per delitto non colposo sono sottoposti, quando non sono stati radiati a norma dell'articolo precedente, a procedimento disciplinare per il medesimo fatto, sempre che non intervenga sentenza di proscioglimento perche' il fatto non sussiste o perche' l'imputato non lo ha commesso.
 
-#### Art. 44
+### Art. 44
 
 Fatti costituenti reato
 
 Se nei fatti oggetto del procedimento disciplinare il consiglio ravvisa gli elementi di un reato, trasmette gli atti al procuratore della Repubblica presso il tribunale e sospende il procedimento.
 
-#### Art. 45
+### Art. 45
 
 Prescrizione
 
@@ -668,7 +664,7 @@ L'infrazione disciplinare si estingue per prescrizione in cinque anni.
 
 Si osservano, in quanto applicabili, le norme di cui agli articoli 158, 159, 160 del codice penale.
 
-#### Art. 46
+### Art. 46
 
 Competenza
 
@@ -678,7 +674,7 @@ Se l'incolpato e' membro del consiglio competente a procedere disciplinarmente a
 
 Se l'incolpato e' membro del consiglio dell'ordine del capoluogo del distretto della corte di appello, la competenza per il giudizio disciplinare spetta al consiglio dell'ordine designato dal consiglio nazionale.
 
-#### Art. 47
+### Art. 47
 
 Apertura del procedimento disciplinare
 
@@ -690,7 +686,7 @@ Nessuna sanzione disciplinare, la cui applicazione sia facoltativa, puo' essere 
 
 Nei casi di sospensione o di radiazione di diritto l'audizione dell'interessato e' facoltativa.
 
-#### Art. 48
+### Art. 48
 
 Svolgimento del procedimento disciplinare
 
@@ -704,13 +700,13 @@ La deliberazione deve contenere l'indicazione dei fatti, i motivi della decision
 
 Il proscioglimento e' pronunciato con la formula: "non essere luogo a provvedimento disciplinare".
 
-#### Art. 49
+### Art. 49
 
 Notificazione delle decisioni
 
 Le decisioni del consiglio in materia disciplinare sono notificate, entro trenta giorni, all'interessato, al consiglio nazionale, al procuratore della Repubblica presso il tribunale, al procuratore generale presso la corte di appello del distretto ove ha sede il consiglio, nonche' al ((Ministero della giustizia)).
 
-#### Art. 50
+### Art. 50
 
 Astensione e ricusazione dei membri del consiglio dell'ordine
 
@@ -722,7 +718,7 @@ Se, a seguito di astensioni o ricusazioni viene a mancare la maggioranza dei mem
 
 Il consiglio competente a termini del comma precedente, se autorizza l'astensione o riconosce legittima la ricusazione, si sostituisce al consiglio dell'ordine cui appartengono i membri che hanno chiesto di astenersi o che sono stati ricusati; altrimenti restituisce gli atti per la prosecuzione del procedimento.
 
-#### Art. 51
+### Art. 51
 
 Astensione e ricusazione dei membri del consiglio dell'ordine nazionale
 
@@ -732,13 +728,13 @@ Sulla astensione, quando e' necessaria l'autorizzazione, e sulla ricusazione dec
 
 Se a seguito di astensioni o ricusazioni viene a mancare la maggioranza dei membri, il presidente del consiglio dell'ordine nazionale chiama ad integrare il consiglio stesso un numero corrispondente di membri del consiglio dell'ordine di Roma, seguendo l'ordine di anzianita' di iscrizione nell'albo.
 
-#### Art. 52
+### Art. 52
 
 Esecuzione provvisoria della radiazione o della sospensione
 
 Il consiglio dell'ordine, nell'applicare le sanzioni disciplinari della radiazione o della sospensione, puo' ordinarne provvisoriamente l'immediata esecuzione nonostante ricorso.
 
-#### Art. 53
+### Art. 53
 
 Reiscrizione dei radiati
 
@@ -750,7 +746,7 @@ Il radiato reiscritto nell'albo acquista l'anzianita' dalla data della reiscrizi
 
 ## Titolo VI - IMPUGNAZIONI
 
-#### Art. 54
+### Art. 54
 
 Ricorsi avverso le decisioni del consiglio dell'ordine
 
@@ -764,7 +760,7 @@ In materia di eleggibilita' o di regolarita' delle operazioni elettorali ogni is
 
 Salvo che in materia elettorale, e nei casi di cui all'articolo 52, il ricorso al consiglio dell'ordine nazionale ha effetto sospensivo.
 
-#### Art. 55
+### Art. 55
 
 Poteri del consiglio dell'ordine nazionale
 
@@ -772,7 +768,7 @@ Il consiglio dell'ordine nazionale ha facolta' di sospendere l'efficacia del pro
 
 In materia elettorale il consiglio dell'ordine nazionale puo' annullare in tutto o in parte le elezioni, ordinando la rinnovazione delle operazioni che ritiene necessarie.
 
-#### Art. 56
+### Art. 56
 
 Irricevibilita' del ricorso
 
@@ -782,7 +778,7 @@ Se il ricorso non e' corredato dalla ricevuta del versamento della tassa previst
 
 In caso di mancata presentazione della ricevuta nel termine assegnato il ricorso e' dichiarato irricevibile.
 
-#### Art. 57
+### Art. 57
 
 Decisione del ricorso
 
@@ -792,7 +788,7 @@ Le decisioni sono prese a maggioranza assoluta. In caso di parita' di voti preva
 
 La decisione e' depositata in originale presso la segreteria del consiglio dell'ordine nazionale ed in copia presso la segreteria dell'ordine di appartenenza: e' notificata, nel termine di trenta giorni dal deposito, al ricorrente nel domicilio eletto o, in mancanza, presso il domicilio risultante dall'albo ed al procuratore della Repubblica presso il tribunale del circondario ove ha sede l'ordine di appartenenza dell'interessato.
 
-#### Art. 58
+### Art. 58
 
 Ricorso contro le decisioni del consiglio dell'ordine nazionale
 
@@ -812,7 +808,7 @@ La sentenza puo' annullare, revocare o modificare la deliberazione impugnata.
 
 ## Titolo VII - ONORARI, INDENNITA' E SPESE
 
-#### Art. 59
+### Art. 59
 
 Determinazione delle tariffe e dei criteri per il rimborso delle spese
 
@@ -824,7 +820,7 @@ AGGIORNAMENTO (3)
 
 Il D.lgs. 26 marzo 2010, n. 59, ha disposto (con l'art. 50, comma 5) che "l'espressione "Ministro di grazia e giustizia", ovunque ricorra, e' sostituita dalla seguente: "Ministro della giustizia"".
 
-#### Art. 60
+### Art. 60
 
 Restituzione di atti e documenti
 
@@ -834,19 +830,19 @@ Sul reclamo del committente il presidente del consiglio dell'ordine invita il pr
 
 ## Titolo VIII - DISPOSIZIONI TRANSITORIE E FINALI
 
-#### Art. 61
+### Art. 61
 
 Gia' abilitati all'esercizio professionale
 
 Hanno diritto di essere iscritti nell'albo tutti coloro che hanno conseguito il diploma di laurea in forza di disposizioni che abbiano attribuito al titolo accademico valore abilitante all'esercizio della professione. Analogo diritto hanno i cittadini italiani appartenenti ai territori annessi in virtu' delle leggi 26 settembre 1920, n. 1322, e 19 dicembre 1920, n. 1778, e del regio decreto-legge 22 febbraio 1924, n. 211, essendo considerato equivalente al titolo di dottore in scienze agrarie o di dottore forestale il diploma conferito, entro il 1922, dall'Istituto agricolo e forestale di Vienna.
 
-#### Art. 62
+### Art. 62
 
 Abrogazione di norme anteriori in contrasto
 
 Sono abrogate tutte le norme in contrasto con la nuova disciplina della professione di dottore agronomo e di dottore forestale, compresa l'attribuzione di competenze professionali ad altri soggetti stabilita da leggi speciali.
 
-#### Art. 63
+### Art. 63
 
 Regolamento di esecuzione
 

@@ -322,11 +322,9 @@ Art. 69, c.1 L. n. 219/1981; Norma di coordinamento
 
 > 6\. Resta fermo quanto previsto dalla legge 18 dicembre 1973, n. 880, concernente la localizzazione degli impianti per la produzione di energia elettrica e dalla legge 2 agosto 1975, n. 393, relativa a norme sulla localizzazione delle centrali elettronucleari e sulla produzione e sull'impiego di energia elettrica e dalla legge 24 dicembre 1976, n. 898, per la servitu' militare".
 
-## TITOLO II - RICOSTRUZIONE E RIPARAZIONE DELL'EDILIZIA RESIDENZIALE E DELLE
+## TITOLO II - RICOSTRUZIONE E RIPARAZIONE DELL'EDILIZIA RESIDENZIALE E DELLE OPERE PUBBLICHE
 
-### OPERE PUBBLICHE - CAPO I
-
-#### INTERVENTI REGIONALI
+### CAPO I - INTERVENTI REGIONALI
 
 ##### Art. 6 - Definizione degli interventi
 
@@ -1064,7 +1062,7 @@ Art. 23, c. 6, D.L. n. 57/82 conv. con mod. L.n. 187/1982
 
 > "Gli interventi di cui all'articolo precedente sono realizzati in modo unitario, sulla base dei programmi costruttivi, comprensivi della urbanizzazione primaria e secondaria, anche relative al recupero di fabbisogni arretrati e con riferimento ai costi di costruzione stabiliti dal CIPE su proposta del Ministro dei lavori pubblici".
 
-## CAPO II - INTERVENTI STATALI
+### CAPO II - INTERVENTI STATALI
 
 ##### Art. 23 - Ricostruzione e riparazione di opere pubbliche e di proprieta' di enti pubblici
 
@@ -1238,7 +1236,7 @@ Art. 20, L.n. 219/1981
 
 > 8\. Il beneficio della garanzia non e' cumulabile con altri analoghi benefici previsti da leggi dello Stato e delle Regioni a statuto autonomo, ne' con la fidejussione della Cassa per la formazione della piccola proprieta' contadina di cui all'articolo 7 della legge 1 febbraio 1956, n. 53"
 
-## CAPO II - INDUSTRIA, COMMERCIO, ARTIGIANATO, TURISMO SPETTACOLO E COOPERAZIONE
+### CAPO II - INDUSTRIA, COMMERCIO, ARTIGIANATO, TURISMO SPETTACOLO E COOPERAZIONE
 
 ##### Art. 27 - Ricostruzione e riparazione degli stabilimenti industriali
 
@@ -1464,9 +1462,7 @@ Art. 25 sexies, D.L. n. 57/82, conv. con mod. L.n. 187/1982
 
 1\. Il Ministro del bilancio e della programmazione economica e' autorizzato a concedere contributi, a valere sui fondi di cui all'articolo 3, entro il limite complessivo di lire 20 miliardi, alle cooperative ed ai consorzi promossi da enti pubblici, isitituti di credito e della FIME, aventi come scopo la prestazione di garanzie ai fini di facilitare l'ottenimento del credito bancario e di ridurre gli oneri finanziari a carico delle imprese danneggiate dal terremoto.
 
-## TITOLO IV - NORME PARTICOLARI PER LE ZONE DISASTRATE E QUELLE
-
-### GRAVEMENTE DANNEGGIATE
+## TITOLO IV - NORME PARTICOLARI PER LE ZONE DISASTRATE E QUELLE GRAVEMENTE DANNEGGIATE
 
 ##### Art. 33 - Direttive generali
 
@@ -2244,9 +2240,9 @@ L.n. 12/1988
 
 > all'articolo 23, comma 9
 
-## CAPO II - NORME DI ORGANIZZAZIONE
+### CAPO II - NORME DI ORGANIZZAZIONE
 
-### Sezione I - Universita' degli studi della Basilicata
+#### Sezione I - Universita' degli studi della Basilicata
 
 ##### Art. 52 - Istituzione
 
@@ -2296,9 +2292,9 @@ Idem, art. 47
 
 > il D.P.R. 27 giugno 1983, n. 412 (in Gazzetta Ufficiale n. 237 del 30 agosto 1983) concerne "Approvazione dello statuto dell'Universita' degli studi della Basilicata".
 
-## CAPO II - NORME DI ORGANIZZAZIONE
+### CAPO II - NORME DI ORGANIZZAZIONE
 
-### Sezione II - Facolta' di ingegneria nell'Universita' di Salerno
+#### Sezione II - Facolta' di ingegneria nell'Universita' di Salerno
 
 ##### Art. 56 - Istituzione
 
@@ -2338,9 +2334,9 @@ Art. 6, c.10, L.n. 730/1986
 
 > \- comma 4: il D.P.R. 11 luglio 1980, n. 382 (in Gazzetta Ufficiale n. 209 del 31 luglio 1980) riguarda "Riordinamento della docenza universitaria, relativa fascia di formazione nonche' sperimentazione organizzativa e didattica" e la legge 11 luglio 1980, n. 312 (in S.O. alla Gazzetta Ufficiale n. 190 del 12 luglio 1980) reca "Nuovo assetto retributivo-funzionale del personale civile e militare dello Stato".
 
-## CAPO II - NORME DI ORGANIZZAZIONE
+### CAPO II - NORME DI ORGANIZZAZIONE
 
-### Sezione III - Beni culturali
+#### Sezione III - Beni culturali
 
 ##### Art. 57 - Istituzione di soprintendenze e programmi del Ministero
 
@@ -2374,9 +2370,9 @@ AGGIORNAMENTO (5)
 
 Il D.P.R. 20 dicembre 1994, n. 760 ha disposto (con l'art. 2, comma 2) che il presente articolo e' abrogato limitatamente alla istituzione della Soprintendenza generale agli interventi post-sismici in Campania e Basilicata, che e' soppressa.
 
-## CAPO II - NORME DI ORGANIZZAZIONE
+### CAPO II - NORME DI ORGANIZZAZIONE
 
-### Sezione IV - Lavori pubblici
+#### Sezione IV - Lavori pubblici
 
 ##### Art. 58 - Potenziamento delle strutture periferiche del Ministero
 
@@ -2388,9 +2384,9 @@ Art. 1, c. 7bis, D.L. n. 19/84, conv. con mod. L.n. 80/1984
 
 2\. In ciascuna delle sezioni di cui al precedente comma e' assicurata l'effettiva presenza di almeno un dirigente superiore.
 
-## CAPO II - NORME DI ORGANIZZAZIONE
+### CAPO II - NORME DI ORGANIZZAZIONE
 
-### Sezione V - Altre norme di organizzazione
+#### Sezione V - Altre norme di organizzazione
 
 ##### Art. 59 - Personale tecnico
 
@@ -2636,7 +2632,7 @@ Art. 11 bis, D.L. n. 19/84, conv. con mod. L.n. 80/1984
 
 > "Per la validita' del servizio negli anni scolastici indicati nel comma precedente (1980-81 e 1981-82) si applica il disposto di cui agli articoli 27, penultimo e ultimo comma e 38, ultimo comma, della presente legge".
 
-## CAPO III - AGEVOLAZIONI FISCALI
+### CAPO III - AGEVOLAZIONI FISCALI
 
 ##### Art. 69 - Acquisto di immobili
 

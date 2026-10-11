@@ -59,9 +59,7 @@ Visto, il Guardasigilli: MARTELLI
 
 \_\_\_\_\_\_\_\_\_
 
-## TITOLO I
-
-### DISPOSIZIONI GENERALI
+## TITOLO I - DISPOSIZIONI GENERALI
 
 La Repubblica italiana e la Repubblica del Venezuela intendono regolare i rapporti tra i due Stati in materia di sicurezza sociale e desiderando tutelare i diritti delle persone che sono state assoggettate ai sistemi di sicurezza sociale di uno o di entrambi i Paesi, hanno concordato di stipulare la seguente convenzione:
 
@@ -201,9 +199,7 @@ Assicurazione volontaria o facoltativa
 
 Ai fini dell'applicazione e ammissione alla assicurazione volontaria prevista dalla legislazione di uno Stato contraente, i periodi di assicurazione compiuti dal lavoratore in virtu' della legislazione di tale Stato, si totalizzano, se necessario, con i periodi di assicurazione compiuti in virtu' della legislazione dell'altro Stato contraente, a condizione che non si sovrappongano e che l'interessato possa far valere almeno un anno di assicurazione ai sensi della legislazione del primo Stato.
 
-## Capitolo II
-
-### PRESTAZIONI ECONOMICHE DI MALATTIA E MATERNITA'
+### Capitolo II - PRESTAZIONI ECONOMICHE DI MALATTIA E MATERNITA'
 
 #### Art. 10
 
@@ -211,9 +207,7 @@ Le prestazioni economiche di malattia e maternita' sono a carico dell'istituzion
 
 Per l'acquisizione del diritto alle prestazioni, se necessario, si fara' ricorso alla totalizzazione dei periodi di assicurazione secondo le regole dell'art. 7.
 
-## Capitolo III
-
-### INFORTUNI SUL LAVORO E MALATTIE PROFESSIONALI
+### Capitolo III - INFORTUNI SUL LAVORO E MALATTIE PROFESSIONALI
 
 #### Art. 11
 

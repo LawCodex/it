@@ -56,11 +56,9 @@ EMANA
 
 il seguente decreto legislativo:
 
-## CAPO I - Modificazioni della legge 22 aprile 1941, n. 633, recante
+## CAPO I - Modificazioni della legge 22 aprile 1941, n. 633, recante protezione del diritto d'autore e di altri diritti connessi al suo esercizio
 
-### protezione del diritto d'autore e di altri diritti connessi - al suo esercizio
-
-#### Art. 1
+### Art. 1
 
 1\. L'articolo 13 della legge 22 aprile 1941, n. 633, e' sostituito dal seguente:
 
@@ -312,7 +310,7 @@ il seguente decreto legislativo:
 
 > \- La legge 18 agosto 2000, n. 248, reca: «Nuove norme di tutela del diritto di autore».
 
-#### Art. 2
+### Art. 2
 
 1\. L'articolo 16 della legge 22 aprile 1941, n. 633, e' sostituito dal seguente:
 
@@ -320,7 +318,7 @@ il seguente decreto legislativo:
 
 2\. Il diritto di cui al comma 1 non si esaurisce con alcun atto di comunicazione al pubblico, ivi compresi gli atti di messa a disposizione del pubblico.".
 
-#### Art. 3
+### Art. 3
 
 1\. L'articolo 17 della legge 22 aprile 1941, n. 633, e' sostituito dal seguente:
 
@@ -332,7 +330,7 @@ il seguente decreto legislativo:
 
 4\. Ai fini dell'esaurimento di cui al comma 2, non costituisce esercizio del diritto esclusivo di distribuzione la consegna gratuita di esemplari delle opere, effettuata o consentita dal titolare a fini promozionali, ovvero di insegnamento o di ricerca scientifica".
 
-#### Art. 4
+### Art. 4
 
 1\. L'articolo 55 della legge 22 aprile 1941, n. 633, e' sostituito dal seguente:
 
@@ -340,7 +338,7 @@ il seguente decreto legislativo:
 
 2\. E' consentita la conservazione in archivi ufficiali delle registrazioni di cui al comma 1 che abbiano un eccezionale carattere documentario, senza possibilita' di ulteriore utilizzazione a fini economici o commerciali salva, per quest'ultima, l'autorizzazione dell'autore dell'opera e dei titolari di diritti connessi.".
 
-#### Art. 5
+### Art. 5
 
 1\. La denominazione della sezione V, capo IV, titolo I, della legge 22 aprile 1941, n. 633, e' sostituita dalla seguente:
 
@@ -348,7 +346,7 @@ il seguente decreto legislativo:
 
 Opere registrate su rapporti".
 
-#### Art. 6
+### Art. 6
 
 1\. L'articolo 61 della legge 22 aprile 1941, n. 633, e' sostituito dal seguente:
 
@@ -364,7 +362,7 @@ c) di eseguire pubblicamente e di comunicare l'opera al pubblico mediante l'impi
 
 3\. Per quanto riguarda la radiodiffusione, il diritto d'autore resta regolato dalle norme contenute nella precedente sezione.".
 
-#### Art. 7
+### Art. 7
 
 1\. L'articolo 62 della legge 22 aprile 1941 , n. 633, e' sostituito dal seguente:
 
@@ -378,7 +376,7 @@ c) nome dell'artista interprete od esecutore. I complessi orchestrali o corali s
 
 d) data della fabbricazione.".
 
-#### Art. 8
+### Art. 8
 
 1\. L'articolo 63 della legge 22 aprile 1941, n. 633, e' sostituito dal seguente:
 
@@ -386,7 +384,7 @@ d) data della fabbricazione.".
 
 2\. Si considerano lecite le modificazioni dell'opera richieste dalle necessita' tecniche della registrazione.".
 
-#### Art. 9
+### Art. 9
 
 1\. Il capo V del titolo I della legge 22 aprile 1941, n. 633, e sostituito dal seguente:
 
@@ -494,7 +492,7 @@ Art.71-decies 1. Le eccezioni e limitazioni al diritto d'autore contenute nel pr
 
 > «2. L'IMAIE utilizza le somme di cui al comma l e quelle di cui all'art. 3, comma 6, all'art. 5, comma 5 e all'art. 6, comma 5, per le attivita' di studio e di ricerca nonche' per i fini di promozione di formazione e di sostegno professionale degli artisti interpreti o esecutori.».
 
-#### Art. 10
+### Art. 10
 
 1\. La denominazione del capo I del titolo II della legge 22 aprile 1941, n. 633, e' sostituita dalla seguente:
 
@@ -502,7 +500,7 @@ Art.71-decies 1. Le eccezioni e limitazioni al diritto d'autore contenute nel pr
 
 Diritti del produttore di fonogrammi".
 
-#### Art. 11
+### Art. 11
 
 1\. L'articolo 72 della legge 22 aprile 1941, n. 633, e' sostituito dal seguente:
 
@@ -516,7 +514,7 @@ c) di autorizzare il noleggio ed il prestito degli esemplari dei suoi fonogrammi
 
 d) di autorizzare la messa a disposizione del pubblico dei suoi fonogrammi in maniera tale che ciascuno possa avervi accesso dal luogo e nel momento scelti individualmente. Tale diritto non si esaurisce con alcun atto di messa a disposizione del pubblico.".
 
-#### Art. 12
+### Art. 12
 
 1\. L'articolo 73 della legge 22 aprile 1941, n. 633, e' sostituito dal seguente:
 
@@ -526,7 +524,7 @@ d) di autorizzare la messa a disposizione del pubblico dei suoi fonogrammi in ma
 
 3\. Nessun compenso e' dovuto per l'utilizzazione ai fini dell'insegnamento e della comunicazione istituzionale fatta dall'Amministrazione dello Stato o da enti a cio' autorizzati dallo Stato.".
 
-#### Art. 13
+### Art. 13
 
 1\. L'articolo 74 della legge 22 aprile 1941, n. 633, e' sostituito dal seguente:
 
@@ -534,19 +532,19 @@ d) di autorizzare la messa a disposizione del pubblico dei suoi fonogrammi in ma
 
 2\. Su richiesta dell'interessato, il Ministero per i beni e le attivita' culturali, in attesa della decisione dell'autorita' giudiziaria, puo' nondimeno autorizzare l'utilizzazione dei fonogrammi previi accertamenti tecnici e disponendo, se occorra, quanto e' necessario per eliminare le cause che turbano la regolarita' dell'utilizzazione.".
 
-#### Art. 14
+### Art. 14
 
 1\. L'articolo 75 della legge 22 aprile 1941, n. 633, e' sostituito dal seguente:
 
 "Art. 75 - 1. La durata dei diritti previsti nel presente capo e' di cinquanta anni dalla fissazione. Tuttavia, se durante tale periodo il fonogramma e' lecitamente pubblicato ai sensi dell'articolo 12, comma 3, la durata dei diritti e' di cinquanta anni dalla data della sua prima pubblicazione.".
 
-#### Art. 15
+### Art. 15
 
 1\. L'articolo 76 della legge 22 aprile 1941, n. 633, e' sostituito dal seguente:
 
 "Art. 76 - 1. I supporti contenenti fonogrammi non possono essere distribuiti se non portano stabilmente apposte le indicazioni di cui all'articolo 62, in quanto applicabili.".
 
-#### Art. 16
+### Art. 16
 
 1\. L'articolo 78 della legge 22 aprile 1941, n. 633, e' sostituito dal seguente:
 
@@ -554,13 +552,13 @@ d) di autorizzare la messa a disposizione del pubblico dei suoi fonogrammi in ma
 
 2\. E' considerato come luogo della produzione quello nel quale avviene la diretta registrazione originale.".
 
-#### Art. 17
+### Art. 17
 
 1\. L'articolo 78-bis della legge 22 aprile 1941, n. 633, e' sostituito dal seguente:
 
 "Art. 78-bis - 1. L'utilizzazione dei fonogrammi da parte di emittenti radiotelevisive e' soggetta alle disposizioni di cui al presente capo.".
 
-#### Art. 18
+### Art. 18
 
 1\. Dopo l'articolo 78-bis della legge 22 aprile 1941, n. 633, e' inserito il seguente:
 
@@ -576,7 +574,7 @@ d) di autorizzare la messa a disposizione del pubblico dell'originale e delle co
 
 2\. La durata dei diritti di cui al comma 1 e' di cinquanta anni dalla fissazione. Se l'opera cinematografica o audiovisiva o la sequenza di immagini in movimento e' pubblicata o comunicata al pubblico durante tale termine, la durata e' di cinquanta anni dalla prima pubblicazione o, se anteriore, dalla prima comunicazione al pubblico dell'opera cinematografica o audiovisiva o della sequenza di immagini in movimento.".
 
-#### Art. 19
+### Art. 19
 
 1\. L'articolo 79 della legge 22 aprile 1941, n. 633, e' sostituito dal seguente:
 
@@ -602,7 +600,7 @@ f) i diritti di cui alle lettere c) e d) non si esauriscono con alcun atto di co
 
 5\. La durata dei diritti di cui al comma 1 e' di cinquanta anni dalla prima diffusione di una emissione.".
 
-#### Art. 20
+### Art. 20
 
 1\. L'articolo 80 della legge 22 aprile 1941, n. 633, e' sostituito dal seguente:
 
@@ -624,7 +622,7 @@ f) autorizzare il noleggio o il prestito delle fissazioni delle loro prestazioni
 
 3 . I diritti di cui al comma 2, lettera c), non si esauriscono con alcun atto di comunicazione al pubblico, ivi compresi gli atti di messa a disposizione del pubblico.".
 
-#### Art. 21
+### Art. 21
 
 1\. Il primo comma dell'articolo 81 della legge 22 aprile 1941, n. 633, e' sostituito dal seguente:
 
@@ -638,13 +636,13 @@ f) autorizzare il noleggio o il prestito delle fissazioni delle loro prestazioni
 
 > Per quanto attiene alla radiodiffusione, le controversie nascenti dall'applicazione del presente articolo sono regolate dalle norme contenute nel comma primo dell'art. 54.».
 
-#### Art. 22
+### Art. 22
 
 1\. L'articolo 83 della legge 22 aprile 1941, n. 633, e' sostituito dal seguente:
 
 "Art. 83 - 1. Gli artisti interpreti e gli artisti esecutori che sostengono le prime parti nell'opera o composizione drammatica, letteraria o musicale, hanno diritto che il loro nome sia indicato nella comunicazione al pubblico della loro recitazione, esecuzione o rappresentazione e venga stabilmente apposto sui supporti contenenti la relativa fissazione, quali fonogrammi, videogrammi o pellicole cinematografiche.".
 
-#### Art. 23
+### Art. 23
 
 1\. Dopo il titolo II-bis della legge 22 aprile 1941, n. 633, e' inserito il seguente:
 
@@ -664,7 +662,7 @@ Art. 102-quinquies - 1. Informazioni elettroniche sul regime dei diritti possono
 
 2\. Le informazioni elettroniche sul regime dei diritti identificano l'opera o il materiale protetto, nonche' l'autore o qualsiasi altro titolare dei diritti. Tali informazioni possono altresi' contenere indicazioni circa i termini o le condizioni d'uso dell'opera o dei materiali, nonche' qualunque numero o codice che rappresenti le informazioni stesse o altri elementi di identificazione.".
 
-#### Art. 24
+### Art. 24
 
 1\. L'articolo 163 della legge 22 aprile 1941, n. 633, e' sostituito dal seguente:
 
@@ -676,7 +674,7 @@ Art. 102-quinquies - 1. Informazioni elettroniche sul regime dei diritti possono
 
 4\. Ove in sede giudiziaria si accerti l'utilizzazione di fonogrammi che, ai sensi dell'art. 74, arrecano pregiudizio al produttore fonografico, oltre alla interdizione definitiva dal loro utilizzo, puo' essere comminata una sanzione amministrativa da un minimo di euro 260,00 ad un massimo di euro 5.200,00.".
 
-#### Art. 25
+### Art. 25
 
 1\. All'articolo 164, primo comma, della legge 22 aprile 1941, n. 633, il n. 3) e' sostituito dal seguente:
 
@@ -698,7 +696,7 @@ Art. 102-quinquies - 1. Informazioni elettroniche sul regime dei diritti possono
 
 > «Art. 474 (Modi di accettazione). - L'accettazione puo' essere espressa o tacita.».
 
-#### Art. 26
+### Art. 26
 
 1\. All'articolo 171-ter, primo comma, della legge 22 aprile 1941, n. 633, la lettera d), e' sostituita dalla seguente:
 
@@ -752,13 +750,13 @@ h) abusivamente rimuove o altera le informazioni elettroniche di cui all'articol
 
 > 5\. Gli importi derivanti dall'applicazione delle sanzioni pecuniarie previste dai precedenti commi sono versati all'Ente nazionale di previdenza ed assistenza per i pittori e scultori, musicisti, scrittori ed autori drammatici.».
 
-#### Art. 27
+### Art. 27
 
 1\. L'articolo 174-bis della legge 22 aprile 1941, n. 633, e' sostituito dal seguente:
 
 "Art. 174-bis - 1. Ferme le sanzioni penali applicabili, la violazione delle disposizioni previste nella presente sezione e' punita con la sanzione amministrativa pecuniaria pari al doppio del prezzo di mercato dell'opera o del supporto oggetto della violazione, in misura comunque non inferiore a euro 103,00. Se il prezzo non e' facilmente determinabile, la violazione e' punita con la sanzione amministrativa da euro 103,00 a euro 1032,00. La sanzione amministrativa si applica nella misura stabilita per ogni violazione e per ogni esemplare abusivamente duplicato o riprodotto.".
 
-#### Art. 28
+### Art. 28
 
 1\. L'articolo 174-ter della legge 22 aprile 1941, n.633, e' sostituto dal seguente:
 
@@ -766,7 +764,7 @@ h) abusivamente rimuove o altera le informazioni elettroniche di cui all'articol
 
 2\. In caso di recidiva o di fatto grave per la quantita' delle violazioni o delle copie acquistate o noleggiate, la sanzione amministrativa e' aumentata sino ad euro 1032,00 ed il fatto e' punito con la confisca degli strumenti e del materiale, con la pubblicazione del provvedimento su due o piu' giornali quotidiani a diffusione nazionale o su uno o piu' periodici specializzati nel settore dello spettacolo e, se si tratta di attivita' imprenditoriale, con la revoca della concessione o dell'autorizzazione di diffusione radiotelevisiva o dell'autorizzazione per l'esercizio dell'attivita' produttiva o commerciale.".
 
-#### Art. 29
+### Art. 29
 
 1\. Dopo l'articolo 174-ter della legge 22 aprile 1941, n. 633, e' inserito il seguente:
 
@@ -790,7 +788,7 @@ b) nella restante misura, ad apposito capitolo dello stato di previsione del Min
 
 > 3-bis. Il Dipartimento, nei limiti delle disponibilita' derivanti dall'applicazione del comma 3-ter, realizza e promuove campagne informative attraverso la televisione, la radio, il cinema e la stampa quotidiana e periodica, volte a sensibilizzare l'opinione pubblica sulla illiceita' dell'acquisto di prodotti delle opere dell'ingegno abusivi o contraffatti.».
 
-#### Art. 30
+### Art. 30
 
 1\. Dopo l'articolo 174-quater della legge 22 aprile 1941, n. 633, e' inserito il seguente:
 
@@ -860,7 +858,7 @@ b) nella restante misura, ad apposito capitolo dello stato di previsione del Min
 
 > Ferma restando l'autorizzazione di spesa di cui all'art. 1 della legge 26 luglio 1984, n. 414, l'autorita' competente in materia di spettacolo determina con proprio decreto la quota annua del fondo speciale da assegnare all'ente autonomo «La Biennale di Venezia», per la realizzazione della Mostra internazionale d'arte cinematografica.».
 
-#### Art. 31
+### Art. 31
 
 1\. All'articolo 182-bis, comma 1, della legge 22 aprile 1941, n. 633, dopo la lettera d), e' aggiunta la seguente:
 
@@ -892,7 +890,7 @@ b) nella restante misura, ad apposito capitolo dello stato di previsione del Min
 
 > 3\. Per lo svolgimento dei compiti indicati nel comma 1, l'Autorita' per le garanzie nelle comunicazioni puo' conferire funzioni ispettive a propri funzionari ed agire in coordinamento con gli ispettori della SIAE. Gli ispettori possono accedere ai locali dove vengono svolte le attivita' di riproduzione, duplicazione, vendita, emissione via etere e via cavo o proiezione cinematografica, nonche' le attivita' ad esse connesse; possono altresi' accedere ai locali dove vengono svolte le attivita' di cui alla lettera e) del comma 1. Possono richiedere l'esibizione della documentazione relativa all'attivita' svolta, agli strumenti e al materiale in lavorazione, in distribuzione, in fase di utilizzazione attraverso l'emissione o la ricezione via etere e via cavo o la proiezione cinematografica, nonche' quella relativa agli apparecchi e supporti di registrazione di cui all'art. 71-septies. Nel caso in cui i suddetti locali non siano luoghi aperti al pubblico, stabilimenti industriali o esercizi commerciali o emittenti radiotelevisive, l'accesso degli ispettori deve essere autorizzato dall'autorita' giudiziaria.».
 
-#### Art. 32
+### Art. 32
 
 1\. All'articolo 186 della legge 22 aprile 1941, n. 633, dopo il secondo comma e' aggiunto il seguente:
 
@@ -908,7 +906,7 @@ b) nella restante misura, ad apposito capitolo dello stato di previsione del Min
 
 > Salve le convenzioni internazionali per la protezione dei fonogrammi, la formalita' prevista quale condizione dell'esercizio dei diritti spettanti al produttore di fonogrammi che non possono essere considerati nazionali, si riterra' soddisfatta qualora su tutti gli esemplari del supporto fonografico sia apposto in modo stabile il simbolo (P) accompagnato dall'indicazione dell'anno di prima pubblicazionei.».
 
-#### Art. 33
+### Art. 33
 
 1\. All'articolo 190 della legge 22 aprile 1941, n. 633, dopo il secondo comma e' aggiunto il seguente:
 
@@ -924,7 +922,7 @@ b) nella restante misura, ad apposito capitolo dello stato di previsione del Min
 
 > Il comitato esperisce il tentativo di conciliazione di cui all'art. 71-quinquies comma 4.».
 
-#### Art. 34
+### Art. 34
 
 1\. All'articolo 193 della legge 22 aprile 1941, n. 633, il secondo cormma e' sostituito dal seguente:
 
@@ -944,7 +942,7 @@ b) nella restante misura, ad apposito capitolo dello stato di previsione del Min
 
 > Il Ministro per la cultura popolare, su proposta del presidente del comitato, puo' invitare alle riunioni anche persone estranee al comitato, particolarmente competenti nelle questioni da esaminare, senza diritto a voto.».
 
-#### Art. 35
+### Art. 35
 
 1\. Dopo l'articolo 194 della legge 22 aprile 1941, n. 633, e' inserito il seguente:
 
@@ -970,11 +968,9 @@ Il verbale costituisce titolo esecutivo.
 
 8\. Il giudice che rileva che non e' stato promosso il tentativo di conciliazione secondo le disposizioni di cui ai precedenti commi o che la domanda giudiziale e' stata promossa prima della scadenza dei termine di 90 giorni dalla promozione del tentativo, sospende il giudizio e fissa alle parti il termine perentorio di 60 giorni per promuovere il tentativo di conciliazione. Espletato quest'ultimo o decorso il termine di 90 giorni, il processo puo' essere riassunto entro il termine perentorio di 180 giorni. Ove il processo non sia stato tempestivamente riassunto, il giudice dichiara d'ufficio l'estinzione del processo con decreto cui si applica la disposizione di cui all'articolo 308 del codice di procedura civile.".
 
-## CAPO II - Modificazioni della legge 5 febbraio 1992, n. 93, recante norme a
+## CAPO II - Modificazioni della legge 5 febbraio 1992, n. 93, recante norme a favore delle imprese fonografiche ed i compensi per le riproduzioni private senza scopo di lucro
 
-### favore delle imprese fonografiche ed i compensi per le riproduzioni - private senza scopo di lucro
-
-#### Art. 36
+### Art. 36
 
 1\. All'articolo 5 della legge 5 febbraio 1992, n. 93, il comma 1 e' sostituito dal seguente:
 
@@ -1002,7 +998,7 @@ Il verbale costituisce titolo esecutivo.
 
 > 5\. Trascorso il termine di cui al comma 4 del presente articolo, le somme relative ai diritti non esercitati sono devolute all'IMAIE e sono utilizzate per le attivita' e per le finalita' di cui all'art. 7, comma 2.».
 
-#### Art. 37
+### Art. 37
 
 1\. All'art. 7 della legge 5 febbraio 1992, n. 93, il comma 2 e' sostituito dal seguente:
 
@@ -1018,7 +1014,7 @@ Il verbale costituisce titolo esecutivo.
 
 ## CAPO III - Disposizioni comuni, transitorie e finali
 
-#### Art. 38
+### Art. 38
 
 1\. Le disposizioni del presente decreto si applicano a tutte le opere e agli altri materiali in esso contemplati, protetti alla data del 22 dicembre 2002.
 
@@ -1030,7 +1026,7 @@ Il verbale costituisce titolo esecutivo.
 
 > \- Per il testo vigente dell'art. 75 della legge n. 633/1941, si veda l'art. 14 del presente decreto.
 
-#### Art. 39
+### Art. 39
 
 1\. Il compenso di cui all'art. 71-septies della legge 22 aprile 1941, n. 633, e' fissato fino al 31 dicembre 2005, e comunque fino all'emanazione del decreto di cui allo stesso art. 71-septies, nelle seguenti misure:
 
@@ -1052,7 +1048,7 @@ h) apparecchi esclusivamente destinati alla registrazione analogica o digitale a
 
 ((h-bis) LETTERA ABROGATA DAL D.L. 31 GENNAIO 2005, N. 7 CONVERTITO CON MODIFICAZIONI DALLA L. 31 MARZO 2005, N. 43)).
 
-#### Art. 40
+### Art. 40
 
 1\. All'articolo 7 del decreto legislativo 29 ottobre 1999, n. 419, il comma 7 e' sostituito dal seguente:
 
@@ -1084,7 +1080,7 @@ h) apparecchi esclusivamente destinati alla registrazione analogica o digitale a
 
 > 8\. Il Ministro per i beni e le attivita' culturali esercita la vigilanza sulla SIAE. L'attivita' di vigilanza e' svolta sentito il Ministro delle finanze per le materie di sua specifica competenza. Sono soppressi l'art. 182 della legge 22 aprile 1941, n. 633, e l'art. 57 del regolamento di attuazione della medesima legge, approvato con regio decreto 18 maggio 1942, n. 1369.».
 
-#### Art. 41
+### Art. 41
 
 1\. Gli articoli 1 e 2 della legge 22 maggio 1993, n. 159, restano abrogati.
 

@@ -30,23 +30,23 @@ Il Senato e la Camera dei deputati hanno approvato;
 
 Noi abbiamo sanzionato e promulghiamo quanto segue:
 
-### Art. 1
+## Art. 1
 
 Il titolo d'ingegnere e quello di architetto spettano esclusivamente a coloro che hanno conseguito i relativi diplomi dagli Istituti di istruzione superiore autorizzati per legge a conferirli, salva la disposizione dell'articolo 12.
 
-### Art. 2
+## Art. 2
 
 E' istituito l'ordine degli ingegneri e degli architetti inscritti nell'albo in ogni provincia.
 
 Per ciascun inscritto nell'albo sara' indicato il titolo in base al quale e' fatta l'inscrizione.
 
-### Art. 3
+## Art. 3
 
 Sono inscritti nell'albo coloro ai quali spetta il titolo di cui all'articolo 1, che godono dei diritti civili e non sono incorsi in alcuna delle condanne di cui all'articolo 28 della legge 28 giugno 1874, n. 1938.
 
 Potranno essere iscritti nell'albo anche gli ufficiali generali e superiori dell'arma del Genio che siano abilitati all'esercizio della professione a senso del R. decreto n. 485 in data 6 settembre 1902.
 
-### Art. 4
+## Art. 4
 
 Le perizie e gli altri incarichi relativi all'oggetto della professione d'ingegnere e di architetto sono dall'autorita' giudiziaria conferiti agli iscritti nell'albo.
 
@@ -54,7 +54,7 @@ Le pubbliche amministrazioni, quando debbano valersi dell'opera di ingegneri o a
 
 Tuttavia, per ragioni di necessita' o di utilita' evidente, possono le perizie e gli incarichi di cui nei precedenti commi essere affidati a persone di competenza tecnica, anche non inscritte nell'albo, nei limiti e secondo le norme che saranno stabilite col regolamento.
 
-### Art. 5
+## Art. 5
 
 Gli inscritti nell'albo eleggono il proprio Consiglio dell'Ordine, che esercita le seguenti attribuzioni:
 
@@ -66,11 +66,11 @@ Gli inscritti nell'albo eleggono il proprio Consiglio dell'Ordine, che esercita 
 
 4° vigila alla tutela dell'esercizio professionale, e alla conservazione del decoro dell'Ordine, reprimendo gli abusi e le mancanze di cui gli iscritti si rendessero colpevoli nell'esercizio della professione con le sanzioni e nelle forme di cui agli articoli 26, 27, 28 e 30 della legge 28 giugno 1874, n. 1938, in quanto siano applicabili.
 
-### Art. 6
+## Art. 6
 
 Contro le deliberazioni del Consiglio dell'Ordine relative alla mancata iscrizione nell'albo e' ammesso ricorso all'autorita' giudiziaria con le norme da stabilirsi nel regolamento.
 
-### Art. 7
+## Art. 7
 
 Le norme relative alla determinazione dell'oggetto e dei limiti delle due professioni, alla composizione e funzionamento del Consiglio dell'Ordine, alla formazione e annuale revisione dell'albo e per le impugnative contro provvedimenti disciplinari, nonche' quelle di coordinamento con le disposizioni vigenti nelle nuove provincie, e tutte le altre per l'attuazione della presente legge e di coordinamento, saranno emanate con regolamento, sulla proposta dei Ministri della giustizia, dell'interno, dell'istruzione e dei lavori pubblici, udito il parere di una Commissione di nove componenti, da nominare con decreto Reale, su proposta del Ministro della giustizia, d'accordo con gli altri ministri interessati. Cinque di tali componenti saranno scelti tra coloro che posseggano i requisiti per l'iscrizione nell'albo.
 
@@ -82,11 +82,11 @@ Con apposito regolamento, sulla proposta dei Ministri dell'interno, della giusti
 
 ## Diposizioni transitorie.
 
-### Art. 8
+## Art. 8
 
 Ferma la condizione di cui all'articolo 3, possono essere inscritti nell'albo, pure non possedendo il requisito di cui all'articolo 1, coloro i quali, anteriormente alla pubblicazione della presente legge, siano stati abilitati all'esercizio della professione dalle disposizioni vigenti.
 
-### Art. 9
+## Art. 9
 
 Possono essere inscritti nell'albo coloro i quali, entro sei mesi dalla pubblicazione del regolamento, dimostrino con titoli di avere esercitato lodevolmente per dieci anni la professione di ingegnere o di architetto e di avere cultura sufficiente per il detto esercizio.(1) (3) ((5))
 
@@ -126,7 +126,7 @@ Il Regio D.L. 16 dicembre 1935, n. 2263, convertito senza modificazioni dalla L.
 
 \- (con l'art. 3, comma 3) che "In ogni caso l'attivita' professionale svolta dopo il termine indicato negli articoli 9 e 10 della legge su richiamata, non puo' essere computato per una durata complessiva superiore a cinque anni nell'ipotesi preveduta dall'art. 9 e a due anni e mesi sei nell'ipotesi preveduta dall'art. 10".
 
-### Art. 10
+## Art. 10
 
 Entro il 31 dicembre 1926 coloro che, possedendo la licenza di professore di disegno architettonico conseguita da un'Accademia o Istituto di' belle arti nel Regno, abbiano esercitato lodevolmente per cinque anni la professione di architetto, potranno essere inscritti nell'albo come architetti. (2) (3) ((5))
 
@@ -156,11 +156,11 @@ Il Regio D.L. 16 dicembre 1935, n. 2263, convertito senza modificazioni dalla L.
 
 \- (con l'art. 3, comma 3) che "In ogni caso l'attivita' professionale svolta dopo il termine indicato negli articoli 9 e 10 della legge su richiamata, non puo' essere computato per una durata complessiva superiore a cinque anni nell'ipotesi preveduta dall'art. 9 e a due anni e mesi sei nell'ipotesi preveduta dall'art. 10".
 
-### Art. 11
+## Art. 11
 
 Entro tre mesi dalla pubblicazione del regolamento, nel capoluogo di ogni provincia, il presidente della Corte di appello. o, nelle provincie dove non e' sede di Corte di appello, il presidente del Tribunale avente giurisdizione sul capoluogo, procede alla formazione dell'albo.
 
-### Art. 12
+## Art. 12
 
 Agli inscritti nell'albo a norma degli articoli 8, 9 e 10 spetta rispettivamente il titolo di architetto o di abilitato all'esercizio della professione di ingegnere.
 

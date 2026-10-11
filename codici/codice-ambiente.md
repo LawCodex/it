@@ -292,7 +292,7 @@ Diritto di accesso alle informazioni ambientali e di partecipazione a scopo coll
 
 ## ((PARTE SECONDA - PROCEDURE PER LA VALUTAZIONE AMBIENTALE STRATEGICA (VAS), PER LA VALUTAZIONE DELL'IMPATTO AMBIENTALE (VIA) E PER L'AUTORIZZAZIONE INTEGRATA AMBIENTALE (IPPC)
 
-#### TITOLO I - PRINCIPI GENERALI PER LE PROCEDURE DI VIA, DI VAS E PER LA VALUTAZIONE D'INCIDENZA E L'AUTORIZZAZIONE INTEGRATA AMBIENTALE (AIA).))
+### TITOLO I - PRINCIPI GENERALI PER LE PROCEDURE DI VIA, DI VAS E PER LA VALUTAZIONE D'INCIDENZA E L'AUTORIZZAZIONE INTEGRATA AMBIENTALE (AIA).))
 
 ###### ART. 4
 
@@ -888,7 +888,7 @@ Il D.Lgs. 16 giugno 2017, n. 104 ha disposto (con l'art. 23, comma 1) che "Le di
 
 Ha inoltre disposto (con l'art. 23, comma 2) che "I procedimenti di verifica di assoggettabilita' a VIA pendenti alla data del 16 maggio 2017, nonche' i procedimenti di VIA per i progetti per i quali alla medesima data risulti avviata la fase di consultazione di cui all'articolo 21 del decreto legislativo 3 aprile 2006, n. 152, ovvero sia stata presentata l'istanza di cui all'articolo 23 del medesimo decreto legislativo, restano disciplinati dalla normativa previgente".
 
-#### ((TITOLO II - LA VALUTAZIONE AMBIENTALE STRATEGICA))
+### ((TITOLO II - LA VALUTAZIONE AMBIENTALE STRATEGICA))
 
 ###### ART. 11
 
@@ -1044,7 +1044,7 @@ Monitoraggio
 
 4\. Le informazioni raccolte attraverso il monitoraggio sono tenute in conto nel caso di eventuali modifiche al piano o programma e comunque sempre incluse nel quadro conoscitivo dei successivi atti di pianificazione o programmazione.
 
-#### TITOLO III - ((LA VALUTAZIONE DI IMPATTO AMBIENTALE))
+### TITOLO III - ((LA VALUTAZIONE DI IMPATTO AMBIENTALE))
 
 ###### ART. 19 - Modalita' di svolgimento del procedimento di verifica di assoggettabilita' a VIA
 
@@ -1648,7 +1648,7 @@ Il D.Lgs. 16 giugno 2017, n. 104 ha disposto (con l'art. 23, comma 1) che "Le di
 
 Ha inoltre disposto (con l'art. 23, comma 2) che "I procedimenti di verifica di assoggettabilita' a VIA pendenti alla data del 16 maggio 2017, nonche' i procedimenti di VIA per i progetti per i quali alla medesima data risulti avviata la fase di consultazione di cui all'articolo 21 del decreto legislativo 3 aprile 2006, n. 152, ovvero sia stata presentata l'istanza di cui all'articolo 23 del medesimo decreto legislativo, restano disciplinati dalla normativa previgente".
 
-#### ((TITOLO III-BIS - L'AUTORIZZAZIONE INTEGRATA AMBIENTALE))
+### ((TITOLO III-BIS - L'AUTORIZZAZIONE INTEGRATA AMBIENTALE))
 
 ###### Articolo 29-bis
 
@@ -2076,7 +2076,7 @@ d) all'utilizzo di combustibili non autorizzati.
 
 14\. Per gli impianti autorizzati ai sensi della Parte Seconda, dalla data della prima comunicazione di cui all'articolo 29-decies, comma 1, non si applicano le sanzioni, previste da norme di settore o speciali, relative a fattispecie oggetto del presente articolo, a meno che esse non configurino anche un piu' grave reato.))
 
-#### TITOLO IV - ((VALUTAZIONI AMBIENTALI INTERREGIONALI E TRANSFRONTALIERE))
+### TITOLO IV - ((VALUTAZIONI AMBIENTALI INTERREGIONALI E TRANSFRONTALIERE))
 
 ###### ART. 30
 
@@ -2154,7 +2154,7 @@ AGGIORNAMENTO (40)
 
 Il D.Lgs. 29 giugno 2010, n. 128 ha disposto (con l'art. 4, comma 2) che "Nel decreto legislativo 3 aprile 2006, n. 152, ovunque ricorrano, le parole "Ministero dell'ambiente e della tutela del territorio", sono sostituite dalle seguenti: "Ministero dell'ambiente e della tutela del territorio e del mare", le parole: "Ministro dell'ambiente e della tutela del territorio" sono sostituite dalle seguenti: "Ministro dell'ambiente e della tutela del territorio e del mare", le parole "Agenzia per la protezione dell'ambiente e per i servizi tecnici" sono sostituite dalle seguenti: "Istituto superiore per la protezione e la ricerca ambientale", e la parola "APAT" e' sostituita dalla seguente: "ISPRA"".
 
-#### ((TITOLO V - NORME TRANSITORIE E FINALI))
+### ((TITOLO V - NORME TRANSITORIE E FINALI))
 
 ###### ART. 33
 
@@ -2408,11 +2408,11 @@ PRESENTE ARTICOLO))
 
 ## PARTE TERZA - NORME IN MATERIA DI DIFESA DEL SUOLO E LOTTA ALLA DESERTIFICAZIONE, DI TUTELA DELLE ACQUE DALL'INQUINAMENTO E DI GESTIONE DELLE RISORSE IDRICHE
 
-### SEZIONE I - NORME IN MATERIA DI DIFESA DEL SUOLO E LOTTA ALLA DESERTIFICAZIONE
+##### SEZIONE I - NORME IN MATERIA DI DIFESA DEL SUOLO E LOTTA ALLA DESERTIFICAZIONE
 
-#### TITOLO I - PRINCIPI GENERALI E COMPETENZE
+### TITOLO I - PRINCIPI GENERALI E COMPETENZE
 
-##### CAPO I - PRINCIPI GENERALI
+#### CAPO I - PRINCIPI GENERALI
 
 ###### ART. 53 - finalita
 
@@ -2544,7 +2544,7 @@ a) condizioni di salvaguardia della vita umana e del territorio, ivi compresi gl
 
 b) modalita' di utilizzazione delle risorse e dei beni, e di gestione dei servizi connessi.
 
-##### CAPO II - COMPETENZE
+#### CAPO II - COMPETENZE
 
 ###### ART. 57 - Presidente del Consiglio dei Ministri, Comitato dei Ministri per gli interventi nel settore della difesa del suolo
 
@@ -2824,9 +2824,9 @@ b) a esprimere parere sulla coerenza con gli obiettivi del Piano di bacino dei p
 
 ((5-bis. Per le province autonome di Trento e di Bolzano resta fermo quanto previsto dall'articolo 176)).
 
-#### TITOLO II - I DISTRETTI IDROGRAFICI, GLI STRUMENTI, GLI INTERVENTI
+### TITOLO II - I DISTRETTI IDROGRAFICI, GLI STRUMENTI, GLI INTERVENTI
 
-##### CAPO I - I DISTRETTI IDROGRAFICI
+#### CAPO I - I DISTRETTI IDROGRAFICI
 
 ###### ART. 64
 
@@ -2924,7 +2924,7 @@ f) distretto idrografico della Sardegna, comprendente i bacini della Sardegna, g
 
 g) distretto idrografico della Sicilia, comprendente i bacini della Sicilia, gia' bacini regionali ai sensi della legge 18 maggio 1989, n. 183)).
 
-##### CAPO II - GLI STRUMENTI
+#### CAPO II - GLI STRUMENTI
 
 ###### ART. 65 - valore, finalita' e contenuti del piano di bacino distrettuale
 
@@ -3064,7 +3064,7 @@ m) l'articolo 5 della legge n. 225 del 1992, citato nell'articolo 67, commi 2 e 
 
 ((1. I contratti di fiume concorrono alla definizione e all'attuazione degli strumenti di pianificazione di distretto a livello di bacino e sottobacino idrografico, quali strumenti volontari di programmazione strategica e negoziata che perseguono la tutela, la corretta gestione delle risorse idriche e la valorizzazione dei territori fluviali, unitamente alla salvaguardia dal rischio idraulico, contribuendo allo sviluppo locale di tali aree)).
 
-##### CAPO III - GLI INTERVENTI
+#### CAPO III - GLI INTERVENTI
 
 ###### ART. 69 - programmi di intervento
 
@@ -3132,9 +3132,9 @@ c) compilazione ed aggiornamento dei piani di bacino, svolgimento di studi, rile
 
 8\. Il Ministro dell'ambiente e della tutela del territorio e del mare presenta alle Camere una relazione sull'attuazione del presente articolo, in cui sono indicati i finanziamenti utilizzati e gli interventi realizzati)).
 
-### SEZIONE II - TUTELA DELLE ACQUE DALL'INQUINAMENTO
+##### SEZIONE II - TUTELA DELLE ACQUE DALL'INQUINAMENTO
 
-#### TITOLO I - PRINCIPI GENERALI E COMPETENZE
+### TITOLO I - PRINCIPI GENERALI E COMPETENZE
 
 ###### ART. 73 - finalita
 
@@ -3388,9 +3388,9 @@ b) le regioni e gli enti locali esercitano le funzioni e i compiti ad essi spett
 
 9\. I consorzi di bonifica e di irrigazione, anche attraverso appositi accordi di programma con le competenti autorita', concorrono alla realizzazione di azioni di salvaguardia ambientale e di risanamento delle acque anche al fine della loro utilizzazione irrigua, della rinaturalizzazione dei corsi d'acqua e della filodepurazione.
 
-#### TITOLO II - OBIETTIVI DI QUALITA'
+### TITOLO II - OBIETTIVI DI QUALITA'
 
-##### CAPO I - OBIETTIVO DI QUALITA' AMBIENTALE E OBIETTIVO DI QUALITA' PER SPECIFICA DESTINAZIONE
+#### CAPO I - OBIETTIVO DI QUALITA' AMBIENTALE E OBIETTIVO DI QUALITA' PER SPECIFICA DESTINAZIONE
 
 ###### ART. 76 - disposizioni generali
 
@@ -3718,7 +3718,7 @@ d) le acque destinate alla vita dei molluschi.
 
 3\. Le regioni, al fine di un costante miglioramento dell'ambiente idrico, stabiliscono programmi, che vengono recepiti nel Piano di tutela, per mantenere o adeguare la qualita' delle acque di cui al comma 1 all'obiettivo di qualita' per specifica destinazione. Le regioni predispongono apposito elenco aggiornato periodicamente delle acque di cui al comma 1.
 
-##### CAPO II - ACQUE A SPECIFICA DESTINAZIONE
+#### CAPO II - ACQUE A SPECIFICA DESTINAZIONE
 
 ###### ART. 80 - acque superficiali destinate alla produzione di acqua potabile
 
@@ -3832,9 +3832,9 @@ molluschi)
 
 1\. Le attivita' di cui agli articoli 87, 88 e 89 lasciano impregiudicata l'attuazione delle norme sanitarie relative alla classificzione delle zone di produzione e di stabulazione dei molluschi bivalvi vivi, effettuata ai sensi del decreto legislativo 30 dicembre 1992, n. 530.
 
-#### TITOLO III - TUTELA DEI CORPI IDRICI E DISCIPLINA DEGLI SCARICHI
+### TITOLO III - TUTELA DEI CORPI IDRICI E DISCIPLINA DEGLI SCARICHI
 
-##### CAPO I - AREE RICHIEDENTI SPECIFICHE MISURE DI PREVENZIONE DALL'INQUINAMENTO E DI RISANAMENTO
+#### CAPO I - AREE RICHIEDENTI SPECIFICHE MISURE DI PREVENZIONE DALL'INQUINAMENTO E DI RISANAMENTO
 
 ###### ART. 91 - aree sensibili
 
@@ -3978,7 +3978,7 @@ b) emergenze naturali ed artificiali della falda;
 
 c) zone di riserva.
 
-##### CAPO II - TUTELA QUANTITATIVA DELLA RISORSA E RISPARMIO IDRICO
+#### CAPO II - TUTELA QUANTITATIVA DELLA RISORSA E RISPARMIO IDRICO
 
 ###### ART. 95 - pianificazione del bilancio idrico
 
@@ -4090,7 +4090,7 @@ L'autorita' competente, con espresso provvedimento nel quale sono stabilite le n
 
 2\. Le regioni, nel rispetto dei principi della legislazione statale, e sentita l'Autorita' di vigilanza sulle risorse idriche e sui rifiuti, adottano norme e misure volte a favorire il riciclo dell'acqua e il riutilizzo delle acque reflue depurate.
 
-##### CAPO III - TUTELA QUALITATIVA DELLA RISORSA: DISCIPLINA DEGLI SCARICHI
+#### CAPO III - TUTELA QUALITATIVA DELLA RISORSA: DISCIPLINA DEGLI SCARICHI
 
 ###### ART. 100 - reti fognarie
 
@@ -4280,7 +4280,7 @@ Il D.Lgs. 16 gennaio 2008, n. 4 ha disposto (con l'art. 2, comma 19) che, per ef
 
 6\. L'autorita' competente al rilascio dell'autorizzazione per le sostanze di cui alla Tabella 3/A dell'Allegato 5 alla parte terza del presente decreto, derivanti dai cicli produttivi indicati nella tabella medesima, redige un elenco delle autorizzazioni rilasciate, degli scarichi esistenti e dei controlli effettuati, ai fini del successivo inoltro alla Commissione europea.
 
-##### CAPO IV - ULTERIORI MISURE PER LA TUTELA DEI CORPI IDRICI
+#### CAPO IV - ULTERIORI MISURE PER LA TUTELA DEI CORPI IDRICI
 
 ###### ART. 109 - Immersione in mare di materiale derivante da attivita' di escavo e attivita' di posa in mare di cavi e condotte
 
@@ -4416,9 +4416,9 @@ I programmi sono approvati entro il 2009 ed attuati dalle regioni entro il 2012;
 
 ((1-bis. Eventuali misure nuove o modificate, approvate nell'ambito di un programma aggiornato, sono applicate entro tre anni dalla loro approvazione)).
 
-#### TITOLO IV - STRUMENTI DI TUTELA
+### TITOLO IV - STRUMENTI DI TUTELA
 
-##### CAPO I - PIANI DI GESTIONE E PIANI DI TUTELA DELLE ACQUE
+#### CAPO I - PIANI DI GESTIONE E PIANI DI TUTELA DELLE ACQUE
 
 ###### ART. 117 - piani di gestione e registro delle aree protette
 
@@ -4534,7 +4534,7 @@ b) i programmi di monitoraggio secondo quanto previsto all'articolo 120 entro do
 
 3\. Entro tre anni dalla pubblicazione di ciascun Piano di tutela o dall'aggiornamento di cui all'articolo 121, le regioni trasmettono al ((Ministero dell'ambiente e della tutela del territorio e del mare)) una relazione sui progressi realizzati nell'attuazione delle misure di base o supplementari di cui all'articolo 116.
 
-##### CAPO II - AUTORIZZAZIONE AGLI SCARICHI
+#### CAPO II - AUTORIZZAZIONE AGLI SCARICHI
 
 ###### ART. 124 - criteri generali
 
@@ -4592,7 +4592,7 @@ Tale disciplina deve tenere conto dei criteri di cui all'Allegato 5 alla parte t
 
 2\. E' vietato lo smaltimento dei fanghi nelle acque superficiali dolci e salmastre.
 
-##### CAPO III - CONTROLLO DEGLI SCARICHI
+#### CAPO III - CONTROLLO DEGLI SCARICHI
 
 ###### ART. 128 - soggetti tenuti al controllo
 
@@ -4624,9 +4624,9 @@ c) alla revoca dell'autorizzazione in caso di mancato adeguamento alle prescrizi
 
 2\. Nell'esercizio dei poteri sostitutivi di cui al comma 1, il ((Ministro dell'ambiente e della tutela del territorio e del mare)) nomina un commissario "ad acta" che pone in essere gli atti necessari agli adempimenti previsti dalla normativa vigente a carico delle regioni al fine dell'organizzazione del sistema dei controlli.
 
-#### TITOLO V - SANZIONI
+### TITOLO V - SANZIONI
 
-##### CAPO I - SANZIONI AMMINISTRATIVE
+#### CAPO I - SANZIONI AMMINISTRATIVE
 
 ###### ART. 133 - sanzioni amministrative
 
@@ -4682,7 +4682,7 @@ b) effettui le medesime operazioni prima dell'approvazione del progetto di gesti
 
 1\. Le somme derivanti dai proventi delle sanzioni amministrative previste dalla parte terza del presente decreto sono versate all'entrata del bilancio regionale per essere riassegnate alle unita' previsionali di base destinate alle opere di risanamento e di riduzione dell'inquinamento dei corpi idrici. Le regioni provvedono alla ripartizione delle somme riscosse fra gli interventi di prevenzione e di risanamento.
 
-##### CAPO II - SANZIONI PENALI
+#### CAPO II - SANZIONI PENALI
 
 ###### ART. 137 - sanzioni penali
 
@@ -4734,9 +4734,9 @@ per l'attivita' di molluschicoltura)
 
 1\. Nei confronti di chi, prima del giudizio penale o dell'ordinanza-ingiunzione, ha riparato interamente il danno, le sanzioni penali e amministrative previste nel presente titolo sono diminuite dalla meta' a due terzi.
 
-### SEZIONE III - GESTIONE DELLE RISORSE IDRICHE
+##### SEZIONE III - GESTIONE DELLE RISORSE IDRICHE
 
-#### TITOLO I - PRINCIPI GENERALI E COMPETENZE
+### TITOLO I - PRINCIPI GENERALI E COMPETENZE
 
 ###### ART. 141 - ambito di applicazione
 
@@ -4804,7 +4804,7 @@ h) individuare aree di ricarica delle falde ed adottare misure di protezione e g
 
 3\. Entro un anno dalla data di entrata in vigore della parte terza del presente decreto, il Ministro dell'ambiente e della tutela del territorio e del mare, sentita l'Autorita' di vigilanza sulle risorse idriche e sui rifiuti e il Dipartimento tutela delle acque interne e marine dell' Istituto superiore per la protezione e la ricerca ambientale (ISPRA), adotta un regolamento per la definizione dei criteri e dei metodi in base ai quali valutare le perdite degli acquedotti e delle fognature. Entro il mese di febbraio di ciascun anno, i soggetti gestori dei servizi idrici trasmettono all'Autorita' di vigilanza sulle risorse idriche e sui rifiuti ed ((all'ente di governo dell'ambito)) competente i risultati delle rilevazioni eseguite con i predetti metodi.
 
-#### TITOLO II - SERVIZIO IDRICO INTEGRATO
+### TITOLO II - SERVIZIO IDRICO INTEGRATO
 
 ###### ART. 147 - organizzazione territoriale del servizio idrico integrato
 
@@ -5026,7 +5026,7 @@ In particolare:
 
 n) l'articolo 3, comma 6, legge n. 225 del 1992 citato nell'articolo 158-bis del decreto legislativo 3 aprile 2006, n. 152, deve intendersi riferito all'articolo 18, comma 3, del presente decreto".
 
-#### TITOLO III - VIGILANZA, CONTROLLI E PARTECIPAZIONE
+### TITOLO III - VIGILANZA, CONTROLLI E PARTECIPAZIONE
 
 ###### Art. 159
 
@@ -5166,7 +5166,7 @@ Restano ferme le competenze amministrative e le funzioni di controllo sulla qual
 
 > 5\. La violazione delle disposizioni di cui all'art. 9 e' punita con la sanzione amministrativa pecuniaria da lire venti milioni a lire centoventi milioni.».
 
-#### TITOLO IV - USI PRODUTTIVI DELLE RISORSE IDRICHE
+### TITOLO IV - USI PRODUTTIVI DELLE RISORSE IDRICHE
 
 ###### ART. 166 - usi delle acque irrigue e di bonifica
 
@@ -5226,7 +5226,7 @@ c)la difesa e la bonifica per la salvaguardia della quantita' e della qualita' d
 
 1\. I piani, gli studi e le ricerche realizzati dalle Amministrazioni dello Stato e da enti pubblici aventi competenza nelle materie disciplinate dalla parte terza del presente decreto sono comunicati alle Autorita' di bacino competenti per territorio ai fini della predisposizione dei piani ad esse affidati.
 
-### SEZIONE IV - DISPOSIZIONI TRANSITORIE E FINALI
+##### SEZIONE IV - DISPOSIZIONI TRANSITORIE E FINALI
 
 ###### Art. 170
 
@@ -5470,9 +5470,9 @@ cc) l'articolo 1-bis del decreto-legge 12 ottobre 2000, n. 279, convertito, con 
 
 ## PARTE QUARTA - NORME IN MATERIA DI GESTIONE DEI RIFIUTI E DI BONIFICA DEI SITI INQUINATI
 
-#### TITOLO I - GESTIONE DEI RIFIUTI
+### TITOLO I - GESTIONE DEI RIFIUTI
 
-##### CAPO I - DISPOSIZIONI GENERALI
+#### CAPO I - DISPOSIZIONI GENERALI
 
 ###### Articolo 177 - Campo di applicazione e finalita'
 
@@ -6736,7 +6736,7 @@ c) corrispondente e' il Ministero dell'ambiente e della tutela del territorio e 
 
 ((ARTICOLO ABROGATO DAL D.L. 6 NOVEMBRE 2021, N. 152))
 
-##### CAPO II - COMPETENZE
+#### CAPO II - COMPETENZE
 
 ###### Art. 195
 
@@ -6958,7 +6958,7 @@ b) la definizione di meccanismi vincolanti di solidarieta' tra Regioni finalizza
 
 5\. In sede di prima applicazione, il Programma nazionale per la gestione dei rifiuti e' approvato entro 18 mesi dalla entrata in vigore della presente disposizione. Il Ministero dell'ambiente della tutela del territorio e del mare aggiorna il Programma almeno ogni 6 anni, tenendo conto, tra l'altro, delle modifiche normative, organizzative e tecnologiche intervenute nello scenario nazionale e sovranazionale.
 
-##### CAPO III - SERVIZIO DI GESTIONE INTEGRATA DEI RIFIUTI
+#### CAPO III - SERVIZIO DI GESTIONE INTEGRATA DEI RIFIUTI
 
 ###### Articolo 199 - Piani regionali
 
@@ -7428,7 +7428,7 @@ AGGIORNAMENTO (2)
 
 Il D.Lgs. 8 novembre 2006, n. 284 ha disposto (con l'art. 1, comma 5) che "il Comitato per la vigilanza sull'uso delle risorse idriche e l'Osservatorio nazionale sui rifiuti sono ricostituiti ed esercitano le relative funzioni".
 
-##### CAPO IV - AUTORIZZAZIONI E ISCRIZIONI
+#### CAPO IV - AUTORIZZAZIONI E ISCRIZIONI
 
 ###### ART. 208 - autorizzazione unica per i nuovi impianti di smaltimento e di recupero dei rifiuti
 
@@ -7720,7 +7720,7 @@ b) la comunicazione di cui all'articolo 216, limitatamente alle attivita' non ri
 
 2\. ((COMMA ABROGATO DAL D.LGS. 3 DICEMBRE 2010, N. 205)).
 
-##### CAPO V - PROCEDURE SEMPLIFICATE
+#### CAPO V - PROCEDURE SEMPLIFICATE
 
 ###### Articolo 214 - Determinazione delle attivita' e delle caratteristiche dei rifiuti per l'ammissione alle procedure semplificate
 
@@ -7954,7 +7954,7 @@ del presente decreto.
 
 6\. La parte quarta del presente decreto nonche' i provvedimenti ((inerenti alla gestione dei rifiuti)), sono comunicati alla Commissione europea.
 
-#### TITOLO II - GESTIONE DEGLI IMBALLAGGI
+### TITOLO II - GESTIONE DEGLI IMBALLAGGI
 
 ###### ART. 217 - ambito di applicazione (( e finalita') )
 
@@ -8550,7 +8550,7 @@ d) ((imballaggi flessibili monouso per cosmetici e prodotti per l'igiene per l'u
 
 4\. ((Il comma 1 del presente articolo non pregiudica il rispetto degli obblighi di conformita' alla normativa sull'utilizzo dei materiali destinati al contatto con gli alimenti adottata in attuazione del regolamento (CE) n. 1935/2004 del Parlamento europeo e del Consiglio, del 27 ottobre 2004, del regolamento (UE) n. 10/2011 della Commissione, del 14 gennaio 2011, e del regolamento (CE) n. 2023/2006 della Commissione, del 22 dicembre 2006, nonche' delle previsioni sulla gestione dei rifiuti di cui al comma 6 dell'articolo 182-ter del presente decreto.))
 
-#### TITOLO III - GESTIONE DI PARTICOLARI CATEGORIE DI RIFIUTI
+### TITOLO III - GESTIONE DI PARTICOLARI CATEGORIE DI RIFIUTI
 
 ###### ART. 227
 
@@ -8922,7 +8922,7 @@ f) le eventuali ragioni che impediscono il raggiungimento degli obiettivi di rec
 
 10\. I produttori che non intendono aderire ai sistemi collettivi esistenti di cui al Titolo III, presentano al Ministero dell'Ambiente e della Tutela del Territorio e del Mare una apposita istanza di riconoscimento per la costituzione di un sistema autonomo in forma individuale ovvero collettiva, avente personalita' giuridica di diritto privato, senza scopo di lucro, retto da uno statuto conforme ai principi del presente decreto, nonche' allo statuto tipo. Il riconoscimento e' effettuato secondo le modalita' contenute nell'articolo 221-bis, in quanto compatibili con il regime specifico applicabile.
 
-#### ((TITOLO III-bis - INCENERIMENTO E COINCENERIMENTO DEI RIFIUTI))
+### ((TITOLO III-bis - INCENERIMENTO E COINCENERIMENTO DEI RIFIUTI))
 
 ###### ART. 237-bis
 
@@ -9392,7 +9392,7 @@ b) la conformita' delle attivita' di coincenerimento a quanto previsto agli arti
 
 8\. Per il recepimento di normative tecniche comunitarie di modifica degli allegati al presente Titolo si provvede con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, previa comunicazione ai Ministri della salute e delle attivita' produttive; ogni qualvolta la nuova normativa comunitaria preveda poteri discrezionali per la sua trasposizione, il decreto e' adottato di concerto con i Ministri della salute e delle attivita' produttive, sentita la Conferenza unificata.))
 
-#### TITOLO IV - TARIFFA PER LA GESTIONE DEI RIFIUTI URBANI
+### TITOLO IV - TARIFFA PER LA GESTIONE DEI RIFIUTI URBANI
 
 ###### Art. 238
 
@@ -9400,7 +9400,7 @@ b) la conformita' delle attivita' di coincenerimento a quanto previsto agli arti
 
 1\. ((Ai fini dell'applicazione della tariffa per la gestione dei rifiuti urbani e dei sistemi di misurazione puntuale, per i rifiuti conferiti al servizio pubblico, si applica la disciplina relativa ai prelievi sui rifiuti urbani di cui all'articolo 1, commi 639 e 668, della legge 27 dicembre 2013, n. 147.))
 
-#### TITOLO V - BONIFICA DI SITI CONTAMINATI
+### TITOLO V - BONIFICA DI SITI CONTAMINATI
 
 ###### ART. 239 - principi e campo di applicazione
 
@@ -9818,9 +9818,9 @@ c) termine finale per il completamento degli interventi di riparazione del danno
 
 5\. Gli interventi di bonifica dei siti inquinati possono essere assistiti, sulla base di apposita disposizione legislativa di finanziamento, da contributi pubblici entro il limite massimo del cinquanta per cento delle relative spese qualora sussistano preminenti interessi pubblici connessi ad esigenze di tutela igienico-sanitaria e ambientale o occupazionali. Ai predetti contributi pubblici non si applicano le disposizioni di cui ai commi 1 e 2.
 
-#### TITOLO VI - SISTEMA SANZIONATORIO E DISPOSIZIONI TRANSITORIE E FINALI
+### TITOLO VI - SISTEMA SANZIONATORIO E DISPOSIZIONI TRANSITORIE E FINALI
 
-##### CAPO I - SANZIONI
+#### CAPO I - SANZIONI
 
 ###### ART. 254 - norme speciali
 
@@ -10212,7 +10212,7 @@ Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, commi 1 e 2) che 
 
 ((2-bis. Il 50 per cento delle somme derivanti dai proventi delle sanzioni amministrative pecuniarie irrogate ai sensi dell'articolo 255, comma 1-bis, e' versato all'entrata del bilancio dello Stato per essere riassegnato ad un apposito Fondo istituito presso lo stato di previsione del Ministero dell'ambiente e della tutela del territorio e del mare e destinato alle attivita' di cui ai commi 1 e 2 dell'articolo 232-bis. Il restante 50 per cento dei suddetti proventi e' destinato ai comuni nel cui territorio sono state accertate le relative violazioni ed e' destinato alle attivita' di cui al comma 1 dell'articolo 232-bis, ad apposite campagne di informazione da parte degli stessi comuni, volte a sensibilizzare i consumatori sulle conseguenze nocive per l'ambiente derivanti dall'abbandono dei mozziconi dei prodotti da fumo e dei rifiuti di piccolissime dimensioni di cui all'articolo 232-ter, nonche' alla pulizia del sistema fognario urbano. Con provvedimento del Ministero dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministero dell'interno e con il Ministero dell'economia e delle finanze, da emanare entro novanta giorni dalla data di entrata in vigore della presente disposizione, sono stabilite le modalita' attuative del presente comma)).
 
-##### CAPO II - DISPOSIZIONI TRANSITORIE E FINALI
+#### CAPO II - DISPOSIZIONI TRANSITORIE E FINALI
 
 ###### ART. 264 - abrogazione di norme
 
@@ -10332,7 +10332,7 @@ Il D.L. 17 ottobre 2016, n. 189, convertito con modificazioni dalla L. 15 dicemb
 
 ## PARTE QUINTA - NORME IN MATERIA DI TUTELA DELL'ARIA E DI RIDUZIONE DELLE EMISSIONI IN ATMOSFERA
 
-#### TITOLO I - PREVENZIONE E LIMITAZIONE DELLE EMISSIONI IN ATMOSFERA DI IMPIANTI E ATTIVITA'
+### TITOLO I - PREVENZIONE E LIMITAZIONE DELLE EMISSIONI IN ATMOSFERA DI IMPIANTI E ATTIVITA'
 
 ###### ART. 267 - campo di applicazione
 
@@ -11180,7 +11180,7 @@ Il D.Lgs. 29 giugno 2010, n. 128 ha disposto (con l'art. 4, comma 2) che nel pre
 
 "ISPRA".
 
-#### TITOLO II - IMPIANTI TERMICI CIVILI
+### TITOLO II - IMPIANTI TERMICI CIVILI
 
 ###### ART. 282
 
@@ -11344,7 +11344,7 @@ c) il responsabile dell'esercizio e della manutenzione se sussistono la attestaz
 
 4\. Con decreto del Ministro dell'ambiente, di concerto con i Ministri della salute e dello sviluppo economico ((...)) sono disciplinati i requisiti, le procedure e le competenze per il rilascio di una certificazione dei generatori di calore, con priorita' per quelli aventi potenza termica nominale inferiore al valore di soglia di 0,035 MW, alimentati con i combustibili individuati alle lettere f), g) e h) della parte I, sezione 2, dell'allegato X alla parte quinta del presente decreto. Nella certificazione si attesta l'idoneita' dell'impianto ad assicurare specifiche prestazioni emissive, con particolare riferimento alle emissioni di polveri e di ossidi di azoto, e si assegna, in relazione ai livelli prestazionali assicurati, una specifica classe di qualita'. Tale decreto individua anche le prestazioni emissive di riferimento per le diverse classi, i relativi metodi di prova e le verifiche che il produttore deve effettuare ai fini della certificazione, nonche' indicazioni circa le corrette modalita' di installazione e gestione dei generatori di calore. A seguito dell'entrata in vigore del decreto, i piani di qualita' dell'aria previsti dalla vigente normativa possono imporre limiti e divieti all'utilizzo dei generatori di calore non aventi la certificazione o certificati con una classe di qualita' inferiore, ove tale misura sia necessaria al conseguimento dei valori di qualita' dell'aria. I programmi e gli strumenti di finanziamento statali e regionali diretti ad incentivare l'installazione di generatori di calore a ridotto impatto ambientale assicurano priorita' a quelli certificati con una classe di qualita' superiore.
 
-#### TITOLO III - COMBUSTIBILI
+### TITOLO III - COMBUSTIBILI
 
 ###### ART. 291 - campo di applicazione
 
@@ -11592,7 +11592,7 @@ Il D.lgs. 29 giugno 2010, n. 128, ha disposto (con l'art. 4, comma 2) che nel pr
 
 ## PARTE QUINTA-BIS - DISPOSIZIONI PER PARTICOLARI INSTALLAZIONI
 
-#### TITOLO I - ATTIVITA' DI PRODUZIONE DI BIOSSIDO DI TITANIO ((E SOLFATI DI CALCIO))
+### TITOLO I - ATTIVITA' DI PRODUZIONE DI BIOSSIDO DI TITANIO ((E SOLFATI DI CALCIO))
 
 ###### ART. 298-bis
 
@@ -11644,7 +11644,7 @@ Il D.Lgs. 4 marzo 2014, n. 46 ha disposto (con l'art. 25, comma 1) l'introduzion
 
 ## PARTE SESTA - NORME IN MATERIA DI TUTELA RISARCITORIA CONTRO I DANNI ALL'AMBIENTE
 
-#### TITOLO I - AMBITO DI APPLICAZIONE
+### TITOLO I - AMBITO DI APPLICAZIONE
 
 ###### ART. 298-bis
 
@@ -11778,7 +11778,7 @@ h) non si applica al danno ambientale o alla minaccia imminente di tale danno ca
 
 i) ((LETTERA A BROGATA DALLA L. 6 AGOSTO 2013, N. 97)).
 
-#### TITOLO II - PREVENZIONE E RIPRISTINO AMBIENTALE
+### TITOLO II - PREVENZIONE E RIPRISTINO AMBIENTALE
 
 ###### ART. 304 - azione di prevenzione
 
@@ -11910,7 +11910,7 @@ b) un'emissione o un'attivita' o qualsiasi altro modo di utilizzazione di un pro
 
 4\. Resta ferma la facolta' dell'interessato di ricorrere in via straordinaria al Presidente della Repubblica nel termine di centoventi giorni dalla notificazione, comunicazione o piena conoscenza dell'atto o provvedimento che si ritenga illegittimo e lesivo.
 
-#### TITOLO III - RISARCIMENTO DEL DANNO AMBIENTALE
+### TITOLO III - RISARCIMENTO DEL DANNO AMBIENTALE
 
 ###### ART. 311 - azione risarcitoria in forma specifica ((...))
 

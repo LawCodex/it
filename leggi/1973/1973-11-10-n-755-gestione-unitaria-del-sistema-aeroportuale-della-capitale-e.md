@@ -26,17 +26,15 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - GESTIONE UNITARIA
+## TITOLO I - GESTIONE UNITARIA DEL SISTEMA AEROPORTUALE DI ROMA
 
-### DEL SISTEMA AEROPORTUALE DI ROMA
-
-#### Art. 1
+### Art. 1
 
 L'aeroporto intercontinentale "Leonardo da Vinci" di Roma-Fiumicino e l'aeroporto di Ciampino sono costituiti in sistema aeroportuale della capitale.
 
 Essi sono gestiti unitariamente, sotto la sorveglianza del Ministero dei trasporti e dell'aviazione civile, secondo le disposizioni del codice della navigazione e delle leggi vigenti.
 
-#### Art. 2
+### Art. 2
 
 La gestione del sistema aeroportuale della capitale di cui all'articolo precedente e' concessa ad una societa' con capitale sottoscritto, direttamente o indirettamente, dall'IRI.
 
@@ -44,13 +42,13 @@ Iniziata la gestione da parte della societa' concessionaria, la regione Lazio, i
 
 ((La societa' concessionaria provvedera' a propria cura e spesa alla ordinaria e straordinaria manutenzione di tutte le opere, infrastrutture ed impianti del sistema aeroportuale della capitale, e fornira' gratuitamente alle amministrazioni dello Stato i locali e le aree necessarie per l'effettuazione dei servizi d'istituto per il movimento degli aeromobili, dei passeggeri e delle merci)).
 
-#### Art. 3
+### Art. 3
 
 Entro sei mesi dalla data di entrata in vigore della presente legge, il Ministro per i trasporti e l'aviazione civile, di concerto con i Ministri per la difesa, per le finanze e per il tesoro, provvede con decreto all'affidamento della concessione di cui all'articolo precedente con lo stesso decreto approva, previo parere del Consiglio di Stato, e sentiti i rappresentanti della regione Lazio, del comune di Roma e dell'IRI, la relativa convenzione.
 
 La durata della concessione e' fissata in 35 anni, decorrenti dalla data del decreto di cui al comma precedente.
 
-#### Art. 4
+### Art. 4
 
 La societa' concessionaria deve operare con criteri di organicita' e di economicita'.
 
@@ -62,7 +60,7 @@ Al personale che passera' alle dipendenze della nuova societa' concessionaria do
 
 La societa' concessionaria puo' anche provvedere a servizi particolari mediante appalti o subconcessioni parziali regolate dal diritto privato, ferma restando la propria responsabilita'.
 
-#### Art. 5
+### Art. 5
 
 La convenzione di cui all'articolo 3 deve indicare le linee di una gestione organica e funzionale del sistema aeroportuale della capitale di cui all'articolo 2, da parte della societa' concessionaria, che dovra' attenersi a criteri di economicita'.
 
@@ -92,57 +90,55 @@ Nella convenzione sono, tra l'altro, determinati:
 
 12\) la costituzione di un collegio arbitrale per la risoluzione delle eventuali controversie relative alla applicazione delle norme della presente legge e della convenzione.
 
-#### Art. 6
+### Art. 6
 
 Competono alla societa' concessionaria tutte le entrate di pertinenza dello Stato, comunque conseguibili dalla gestione degli aeroporti.
 
 Le tariffe relative all'uso dei servizi ed alle prestazioni rese dalla societa' concessionaria dovranno tener conto dell'economica gestione dell'impresa ed entreranno in vigore dopo l'approvazione del Ministro per i trasporti e l'aviazione civile.
 
-## TITOLO II - COSTRUZIONE DI UNA NUOVA AEROSTAZIONE NELL'AEROPORTO
+## TITOLO II - COSTRUZIONE DI UNA NUOVA AEROSTAZIONE NELL'AEROPORTO INTERCONTINENTALE DI ROMA-FIUMICINO
 
-### INTERCONTINENTALE DI ROMA-FIUMICINO
-
-#### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DALLA L. 21 DICEMBRE 1977, N. 985))
 
-#### Art. 8
+### Art. 8
 
 ((ARTICOLO ABROGATO DALLA L. 21 DICEMBRE 1977, N. 985))
 
-#### Art. 9
+### Art. 9
 
 ((ARTICOLO ABROGATO DAL D.LGS. 21 DICEMBRE 1977, N. 985))
 
-#### Art. 10
+### Art. 10
 
 ((ARTICOLO ABROGATO DAL D.LGS. 21 DICEMBRE 1977, N. 985))
 
-#### Art. 11
+### Art. 11
 
 ((ARTICOLO ABROGATO DAL D.LGS. 21 DICEMBRE 1977, N. 985))
 
 ## TITOLO III - DISPOSIZIONI FINANZIARIE
 
-#### Art. 12
+### Art. 12
 
 ((ARTICOLO ABROGATO DAL D.LGS. 21 DICEMBRE 1977, N. 985))
 
-#### Art. 13
+### Art. 13
 
 ((ARTICOLO ABROGATO DALLA L. 21 DICEMBRE 1977, N. 985))
 
-#### Art. 14
+### Art. 14
 
 ((ARTICOLO ABROGATO L. 21 DICEMBRE 1977, N. 985))
 
-#### Art. 15
+### Art. 15
 
 ((ARTICOLO ABROGATO DALLA L. 21 DICEMBRE 1977, N. 985))
 
 ## TITOLO IV - NORMA FINALE
 
-#### Art. 16
+### Art. 16
 
 L'ufficio speciale del genio civile istituito con decreto-legge 31 ottobre 1967, n. 969, convertito in legge 23 dicembre 1967, n. 1246, e inteso a provvedere allo studio, alla progettazione, alla direzione, all'assistenza e alla contabilizzazione delle opere di complemento e ampliamento dell'aeroporto intercontinentale "Leonardo da Vinci" di Roma-Fiumicino, e' soppresso entro un anno dalla data di entrata in vigore della presente legge.
 

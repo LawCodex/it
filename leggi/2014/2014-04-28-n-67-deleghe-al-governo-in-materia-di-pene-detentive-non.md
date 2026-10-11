@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I
+## Capo I - Deleghe al Governo
 
-### Deleghe al Governo
-
-#### Art. 1
+### Art. 1
 
 Delega al Governo in materia
 
@@ -136,7 +134,7 @@ n) provvedere al coordinamento delle nuove norme in materia di pene detentive no
 
 > \- La legge 26 luglio 1975, n. 354 reca: «Norme sull'ordinamento penitenziario e sull'esecuzione delle misure privative e limitative della liberta'».
 
-#### Art. 2
+### Art. 2
 
 Delega al Governo per la riforma
 
@@ -406,11 +404,9 @@ e) prevedere che le sanzioni pecuniarie civili relative alle condotte di cui all
 
 > Acquisita la comunicazione del riconoscimento della protezione internazionale di cui al decreto legislativo 19 novembre 2007, n. 251, ovvero del rilascio del permesso di soggiorno nelle ipotesi di cui all' articolo 5, comma 6, del presente testo unico, il giudice pronuncia sentenza di non luogo a procedere.».
 
-## Capo II
+## Capo II - Sospensione del procedimento con messa alla prova
 
-### Sospensione del procedimento con messa alla prova
-
-#### Art. 3
+### Art. 3
 
 Modifiche al codice penale in materia di sospensione
 
@@ -456,7 +452,7 @@ Art. 168-quater (Revoca della sospensione del procedimento con messa alla prova)
 
 > La sospensione condizionale della pena e' altresi' revocata quando e' stata concessa in violazione dell'articolo 164, quarto comma, in presenza di cause ostative. La revoca e' disposta anche se la sospensione e' stata concessa ai sensi del comma 3 dell'articolo 444 del codice di procedura penale.».
 
-#### Art. 4
+### Art. 4
 
 Modifiche al codice di procedura penale in materia
 
@@ -560,7 +556,7 @@ b) dopo l'articolo 657 e' inserito il seguente:
 
 > 5\. Il pubblico ministero provvede con decreto, che deve essere notificato al condannato e al suo difensore.».
 
-#### Art. 5
+### Art. 5
 
 Introduzione del capo X-bis del titolo I delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale
 
@@ -588,7 +584,7 @@ Art. 141-ter (Attivita' dei servizi sociali nei confronti degli adulti ammessi a
 
 > \- Il Titolo I del capo X delle Norme di attuazione, di coordinamento e transitorie del codice di procedura penale reca: «Disposizioni relative al procedimento di oblazione».
 
-#### Art. 6
+### Art. 6
 
 Modifica al testo unico delle disposizioni legislative e regolamentari in materia di casellario giudiziale, di anagrafe delle sanzioni amministrative dipendenti da reato e dei relativi carichi pendenti, di cui al decreto del Presidente della Repubblica 14 novembre 2002, n. 313, in materia di messa alla prova
 
@@ -644,7 +640,7 @@ Modifica al testo unico delle disposizioni legislative e regolamentari in materi
 
 > u) qualsiasi altro provvedimento che concerne a norma di legge i provvedimenti gia' iscritti, come individuato con decreto del Presidente della Repubblica, ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, su proposta del Ministro della giustizia.».
 
-#### Art. 7
+### Art. 7
 
 Disposizioni in materia di pianta organica degli uffici locali di esecuzione penale esterna del ((Dipartimento per la giustizia minorile e di comunita')) del Ministero della giustizia
 
@@ -652,7 +648,7 @@ Disposizioni in materia di pianta organica degli uffici locali di esecuzione pen
 
 2\. Entro il 31 maggio di ciascun anno, il Ministro della giustizia riferisce alle competenti Commissioni parlamentari in merito all'attuazione delle disposizioni in materia di messa alla prova ((e di pene sostitutive delle pene detentive, nonche' sullo stato generale dell'esecuzione penale esterna)).
 
-#### Art. 8
+### Art. 8
 
 Regolamento del Ministro della giustizia per disciplinare le convenzioni in materia di lavoro di pubblica utilita' conseguente alla messa alla prova dell'imputato
 
@@ -670,11 +666,9 @@ Regolamento del Ministro della giustizia per disciplinare le convenzioni in mate
 
 > 4\. - 4-bis. - 4-ter. (Omissis).».
 
-## Capo III
+## Capo III - Sospensione del procedimento nei confronti degli irreperibili
 
-### Sospensione del procedimento nei confronti degli - irreperibili
-
-#### Art. 9
+### Art. 9
 
 Modifiche al codice di procedura penale
 
@@ -728,7 +722,7 @@ d) se deve essere pronunciata sentenza a norma dell'articolo 129.
 
 > 2\. - 3. - 4. - 5. - 6. - 7. (Omissis).».
 
-#### Art. 10
+### Art. 10
 
 Disposizioni in materia di dibattimento
 
@@ -772,7 +766,7 @@ Disposizioni in materia di dibattimento
 
 > 3\. L'avviso di deposito con l'estratto della sentenza e' in ogni caso comunicato al procuratore generale presso la corte di appello.».
 
-#### Art. 11
+### Art. 11
 
 Disposizioni in materia di impugnazioni
 
@@ -886,7 +880,7 @@ e di restituzione nel termine
 
 > 2-bis. - 3. - 4. - 5. - 6. - 7. - 8. (Omissis).».
 
-#### Art. 12
+### Art. 12
 
 Modifiche al codice penale
 
@@ -922,7 +916,7 @@ in materia di prescrizione del reato
 
 > Nel caso di sospensione del procedimento ai sensi dell'articolo 420-quater del codice di procedura penale, la durata della sospensione della prescrizione del reato non puo' superare i termini previsti dal secondo comma dell'articolo 161 del presente codice.».
 
-#### Art. 13
+### Art. 13
 
 Modalita' e termini di comunicazione e gestione
 
@@ -930,7 +924,7 @@ dei dati relativi all'assenza dell'imputato
 
 1\. Con decreto del Ministro della giustizia, di concerto con il Ministro dell'interno, da adottare entro sessanta giorni dalla data di entrata in vigore della presente legge, sono stabiliti le modalita' e i termini secondo i quali devono essere comunicati e gestiti i dati relativi all'ordinanza di sospensione del processo per assenza dell'imputato, al decreto di citazione in giudizio del medesimo e alle successive informazioni all'autorita' giudiziaria.
 
-#### Art. 14
+### Art. 14
 
 Modifica alle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, di cui al decreto legislativo 28 luglio 1989, n. 271
 
@@ -944,7 +938,7 @@ Modifica alle norme di attuazione, di coordinamento e transitorie del codice di 
 
 > «Art. 143. (Rinnovazione della citazione a giudizio). - 1. Negli atti preliminari al dibattimento, in tutti i casi in cui occorre, per qualunque motivo, rinnovare la citazione a giudizio o la relativa notificazione, vi provvede il presidente.».
 
-#### Art. 15
+### Art. 15
 
 Modifiche al testo unico delle disposizioni legislative e regolamentari in materia di casellario giudiziale, di anagrafe delle sanzioni amministrative dipendenti da reato e dei relativi carichi pendenti, di cui al decreto del Presidente della Repubblica 14 novembre 2002, n. 313
 
@@ -996,7 +990,7 @@ b) all'articolo 5 (L), comma 2, dopo la lettera l) e' aggiunta la seguente:
 
 > 4\. Le iscrizioni di provvedimenti giudiziari relativi a minori di eta' sono eliminate al compimento del diciottesimo anno di eta' della persona cui si riferiscono, eccetto quelle relative al perdono giudiziale, che sono eliminate al compimento del ventunesimo anno, ed eccetto quelle relative ai provvedimenti di condanna a pena detentiva, anche se condizionalmente sospesa.».
 
-#### Art. 15-bis
+### Art. 15-bis
 
 (( (Norme transitorie). ))
 
@@ -1004,11 +998,9 @@ b) all'articolo 5 (L), comma 2, dopo la lettera l) e' aggiunta la seguente:
 
 2\. In deroga a quanto previsto dal comma 1, le disposizioni vigenti prima della data di entrata in vigore della presente legge continuano ad applicarsi ai procedimenti in corso alla data di entrata in vigore della presente legge quando l'imputato e' stato dichiarato contumace e non e' stato emesso il decreto di irreperibilita')).
 
-## Capo IV
+## Capo IV - Disposizioni comuni
 
-### Disposizioni comuni
-
-#### Art. 16
+### Art. 16
 
 Clausola di invarianza finanziaria
 

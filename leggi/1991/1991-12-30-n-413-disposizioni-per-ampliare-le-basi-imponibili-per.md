@@ -28,15 +28,11 @@ PROMULGA:
 
 la seguente legge:
 
-## TITOLO I - DISPOSIZIONI PER CONTRASTARE
+## TITOLO I - DISPOSIZIONI PER CONTRASTARE L'EVASIONE FISCALE ED ALLEGARE LA BASE IMPONIBILE
 
-### L'EVASIONE FISCALE - ED ALLEGARE LA BASE IMPONIBILE
+### CAPO I - DATI INDICATIVI DI CAPACITA' CONTRIBUTIVA. ACCERTAMENTI PARZIALI
 
-#### CAPO I - DATI INDICATIVI DI CAPACITA' CONTRIBUTIVA.
-
-##### ACCERTAMENTI PARZIALI
-
-###### Art. 1
+#### Art. 1
 
 1\. Al decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -110,7 +106,7 @@ Qualora l'ufficio determini sinteticamente il reddito complessivo netto in relaz
 
 > Dal reddito complessivo determinato sinteticamente non sono deducibili gli oneri di cui all'art. 10 del decreto indicato nel secondo comma. Agli effetti dell'imposta lo- cale sui redditi il maggior reddito accertato sinteticamente e' considerato reddito di capitale salva la facolta' del contribuente di provarne l'appartenenza ad altre categorie di redditi."
 
-###### Art. 2
+#### Art. 2
 
 1\. L'articolo 41-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, introdotto dall'articolo 1 del decreto del Presidente della Repubblica 14 aprile 1982, n. 309, e successive modificazioni, e' sostituito dal seguente:
 
@@ -208,7 +204,7 @@ Qualora l'ufficio determini sinteticamente il reddito complessivo netto in relaz
 
 > 2\. Se i fatti previsti nelle lettere a), c), d) e) ed f) del comma 1 sono di lieve entita' si applica la pena della resclusione fino a sei mesi o della multa fino a lire cinque milioni. I fatti si considerano in ogni caso di lieve entita' quando i relativi importi complessivi sono superiori a lire cinquanta milioni".
 
-###### Art. 3
+#### Art. 3
 
 1\. All'articolo 54 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, sono aggiunti, in fine, i seguenti commi:
 
@@ -242,13 +238,11 @@ Gli avvisi di accertamento parziale sono annullati dall'ufficio che li ha emessi
 
 > Gli avvisi di accertamento parziale sono annullati dall'ufficio che li ha emessi se, dalla documentazione prodotta dal contribuente, risultano infondati in tutto o in parte.".
 
-## TITOLO I - DISPOSIZIONI PER CONTRASTARE
+## TITOLO I - DISPOSIZIONI PER CONTRASTARE L'EVASIONE FISCALE ED ALLEGARE LA BASE IMPONIBILE
 
-### L'EVASIONE FISCALE - ED ALLEGARE LA BASE IMPONIBILE
+### CAPO II - REVISIONE DEL REGIME DEI COEFFICIENTI
 
-#### CAPO II - REVISIONE DEL REGIME DEI COEFFICIENTI
-
-###### Art. 4
+#### Art. 4
 
 1\. Al decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -282,7 +276,7 @@ b) all'articolo 48, primo comma, dopo il terzo periodo e' aggiunto il seguente: 
 
 4\. Il comma 7 dell'articolo 50 e l'articolo 80 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, sono abrogati. ((PERIODO ABROGATO DAL D.L. 10 GIUGNO 1994, N. 357, CONVERTITO CON MODIFICAZIONI DALLA L. 08 AGOSTO 1994, N. 489)).
 
-###### Art. 5
+#### Art. 5
 
 1\. soggetti, diversi da quelli indicati alle lettere a) e b) del comma 1 dell'articolo 87 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, che esercitano attivita' di agriturismo di cui alla legge 5 dicembre 1985, n. 730, determinano il reddito imponibile applicando all'ammontare dei ricavi conseguiti con l'esercizio di tale attivita', al netto della imposta sul valore aggiunto, il coefficiente di redditivita' del 25 per cento.
 
@@ -296,7 +290,7 @@ AGGIORNAMENTO (35)
 
 La L. 27 dicembre 2017, n. 205, ha disposto (con l'art. 1, comma 503) che "Il regime forfettario dell'imposta sul valore aggiunto di cui all'articolo 5, comma 2, della legge n. 413 del 1991 si applica solo per i produttori agricoli di cui agli articoli 295 e seguenti della direttiva 2006/112/CE del Consiglio, del 28 novembre 2006".
 
-###### Art. 6
+#### Art. 6
 
 1\. I commi 1, 2, 3, 4 e 5 dell'articolo 11 del decreto-legge 2 marzo 1989, n. 69, convertito, con modificazioni, dalla legge 27 aprile 1989, n. 154, sono sostituiti dai seguenti:
 
@@ -326,7 +320,7 @@ La L. 27 dicembre 2017, n. 205, ha disposto (con l'art. 1, comma 503) che "Il re
 
 > 5-bis. Il Ministro delle finanze istituisce un apposito ufficio centrale, gestito unitariamente dalle direzioni generali delle imposte dirette e dalla direzione generale delle tasse per quanto riguarda l'imposta sul valore aggiunto, con il compito di elaborare ed aggiornare periodicamente i coefficienti di cui al comma 1; a tal fine il suddetto ufficio dovra' individuare dati ed elementi informativi, da richiedere ai contribuenti in allegato alle dichiarazioni dei redditi e dell'IVA o ad integrazione di essi su esplicita richiesta degli uffici. Tali dati ed informazioni devono avere caratteristiche di analiticita' sufficienti a consentire una agevole collocazione del contribuente all'interno delle categorie di attivita' di cui al comma 1 ed una corretta individuazione dei coefficienti di ricavi, compensi e corrispettivi attribuibili".
 
-###### Art. 7
+#### Art. 7
 
 1\. L'articolo 12 del decreto-legge 2 marzo 1989, n. 69, convertito, con modificazioni, dalla legge 27 aprile 1989, n. 154, e' sostituto dal seguente:
 
@@ -456,7 +450,7 @@ La L. 27 dicembre 2017, n. 205, ha disposto (con l'art. 1, comma 503) che "Il re
 
 > \- Il libro giornale deve indicare giorno per giorno le operazioni relative all'esercizio dell'impresa, e il volume in corso deve essere presentato per la vidimazione all'ufficio del registro delle imprese o ad un notaio entro la fine del secondo mese successivo alla scadenza di ciascun anno dalla data di bollatura di cui all'articolo 2215.
 
-###### Art. 8
+#### Art. 8
 
 1\. All'articolo 2216 del codice civile le parole: "e deve essere annualmente vidimato dall'ufficio del registro delle imprese o da un notaio" sono sostituite dalle seguenti: "e il volume in corso deve essere presentato per la vidimazione all'ufficio del registro delle imprese o ad un notaio entro la fine del secondo mese successivo alla scadenza di ciascun anno dalla data di bollatura di cui all'articolo 2215".
 
@@ -516,13 +510,11 @@ La L. 27 dicembre 2017, n. 205, ha disposto (con l'art. 1, comma 503) che "Il re
 
 > Il bilancio e il conto dei profitti e e delle perdite, salve le disposizioni del codice civile e delle leggi speciali, possono essere redatti con qualsiasi metodo e secondo qualsiasi schema, purche' conformi ai principi della tecnica contabile, salvo quanto stabilito nel secondo comma dell'art. 3".
 
-## TITOLO I - DISPOSIZIONI PER CONTRASTARE
+## TITOLO I - DISPOSIZIONI PER CONTRASTARE L'EVASIONE FISCALE ED ALLEGARE LA BASE IMPONIBILE
 
-### L'EVASIONE FISCALE - ED ALLEGARE LA BASE IMPONIBILE
+### CAPO III - DISPOSIZIONI PER ALLARGARE LA BASE IMPONIBILE
 
-#### CAPO III - DISPOSIZIONI PER ALLARGARE LA BASE IMPONIBILE
-
-###### Art. 9
+#### Art. 9
 
 1\. All'articolo 17 della legge 29 dicembre 1990, n. 408, sono apportate le seguenti modificazioni:
 
@@ -624,7 +616,7 @@ b) dopo la parola: "omessa", sono inserite le seguenti: "incompleta, infedele o 
 
 > 3\. Il decreto legislativo di cui al comma 1, le cui disposizioini avranno effetto dal 1 gennaio 1993, sara' emanato con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, su proposta del Ministro delle finanze, di concerto con i Ministri del tesoro e del bilancio e della programmazione economica".
 
-###### Art. 10
+#### Art. 10
 
 1\. Al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -636,15 +628,11 @@ b) all'articolo 33, primo comma dopo le parole: "trecentosessanta milioni di lir
 
 "6-bis. Per gli enti non commerciali e gli organismi di tipo associativo di cui agli articoli 108 e 111, che rientrano tra i soggetti disciplinati dal presente articolo, non si applicano le disposizioni del comma 6".
 
-## TITOLO I - DISPOSIZIONI PER CONTRASTARE
+## TITOLO I - DISPOSIZIONI PER CONTRASTARE L'EVASIONE FISCALE ED ALLEGARE LA BASE IMPONIBILE
 
-### L'EVASIONE FISCALE - ED ALLEGARE LA BASE IMPONIBILE
+### CAPO IV - ADEMPIMENTI STRUMENTALI E DISPOSIZIONI PER CONTENERE L'ELUSIONE E PER REPRIMERE IL CONTRABBANDO DI TABACCHI
 
-#### CAPO IV - ADEMPIMENTI STRUMENTALI E DISPOSIZIONI
-
-##### PER CONTENERE L'ELUSIONE E PER REPRIMERE - IL CONTRABBANDO DI TABACCHI
-
-###### Art. 11
+#### Art. 11
 
 1\. Al testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -774,7 +762,7 @@ Il D.P.R. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122
 
 Il D.P.R. 8 giugno 2001, n. 327, come modificato dal D.Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del comma 9 del presente articolo dal 1 gennaio 2002 al 30 giugno 2003.
 
-###### Art. 12
+#### Art. 12
 
 1\. I corrispettivi delle cessioni di beni e delle prestazioni di servizi di cui agli articoli 2 e 3 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, per le quali non e' obbligatoria l'emissione della fattura se non a richiesta del cliente, devono essere certificati mediante il rilascio della ricevuta fiscale di cui all'articolo 8 della legge 10 maggio 1976, n. 249, e successive modificazioni, ovvero delle scontrino fiscale, anche manuale o prestampato a tagli fissi, di cui alla legge 26 gennaio 1983, n. 18, e successive modificazioni. Per le prestazioni di trasporto pubblico collettivo di persone e di veicioli e bagagli al seguito, con qualunque mezzo esercitato, i biglietti di trasporto assolvono la funzione dello scontrino fiscale. Dal 1° gennaio 1993 tali biglietti devono rispondere alle caratteristiche che saranno fissate con decreto del Ministro delle finanze da pubblicare nella Gazzetta Ufficiale entro il 30 giugno 1992.
 
@@ -816,7 +804,7 @@ AGGIORNAMENTO (29)
 
 Il D.L. 6 luglio 2011, n. 98, convertito con modificazioni dalla L. 15 luglio 2011, n. 111, ha disposto (con l'art. 23, comma 42, lettera a)) che "le disposizioni di cui all'articolo 12, comma 9 della legge 30 dicembre 1991, n. 413, non si applicano ai soggetti che esercitano attivita' di locazione veicoli ai sensi dell'articolo 84 del decreto legislativo 30 aprile 1992, ".
 
-###### Art. 13
+#### Art. 13
 
 1\. Ai fini dell'applicazione delle disposizioni contenute nella lettera a) del primo comma dell'articolo 8 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, le cessioni ivi previste devono intendersi non imponibili sempreche' l'esportazione risulti da documento doganale, o da vidimazione apposta dall'ufficio doganale su un esemplare della fattura o della bolla di accompagnamento emessa dai cedenti a norma dell'articolo 2 del decreto del Presidente della Repubblica 6 ottobre 1978, n. 627, nonche' sulle fatture emesse dai cessionari, a nulla rilevando, per la documentazione della cessione all'esportazione, che i documenti di cui all'articolo 21 del predetto decreto n. 633 del 1972 siano emessi dagli spedizionieri o trasportatori nei confronti dei cedenti o altri soggetti.
 
@@ -926,7 +914,7 @@ Il D.L. 6 luglio 2011, n. 98, convertito con modificazioni dalla L. 15 luglio 20
 
 > 4\. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali che devono recare la denominazione di "regolamento", sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale".
 
-###### Art. 14
+#### Art. 14
 
 1\. A decorrere dall'anno 1992 il contributo per le prestazioni del Servizio sanitario nazionale di cui all'articolo 31, commi 8, 9 e 11, della legge 28 febbraio 1986, n. 41, e successive modificazioni, e' dovuto sulla base degli imponibili stabiliti dalla predetta legge relativi al medesimo anno.
 
@@ -936,15 +924,11 @@ Il D.L. 6 luglio 2011, n. 98, convertito con modificazioni dalla L. 15 luglio 20
 
 4\. Con decreti del Ministro delle finanze, di concerto con i Ministri del tesoro, del lavoro e della previdenza sociale e della sanita', da pubblicare nella Gazzetta Ufficiale entro il 30 giugno 1992, da emanare ai sensi dell'articolo 17 della legge 23 agosto 1988, n. 400, sono stabiliti criteri e modalita' per l'attuazione delle disposizioni recate dai commi precedenti.
 
-## TITOLO II - SEMPLIFICAZIONE E
+## TITOLO II - SEMPLIFICAZIONE E RAZIONALIZZAZIONE DELLE PROCEDURE
 
-### RAZIONALIZZAZIONE DELLE - PROCEDURE
+### CAPO I - DISPOSIZIONI PER LA SEMPLIFICAZIONE DI TALUNE PROCEDURE DI RIMBORSO
 
-#### CAPO I - DISPOSIZIONI PER LA SEMPLIFICAZIONE DI
-
-##### TALUNE PROCEDURE DI RIMBORSO
-
-###### Art. 15
+#### Art. 15
 
 1\. All'articolo 42-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -1038,7 +1022,7 @@ La disposizione non si applica se l'ammontare delle somme non corrisposte non e'
 
 > La condanna per il reato di cui al precedente comma importa, per un periodo di tre anni, le interdizioni previste negli articoli 28 e 30 del codice penale e l'incapacita' prevista nell'art. 2641 del codice civile nonche' la cancellazione, per lo stesso periodo, dall'albo nazionale dei costruttori o dagli albi o elenchi dei fornitori delle pubbliche amministrazioni. Le stesse pene accessorie possono essere applicate provvisoriamente durante l'istruzione o il giudizio a norma dell'art. 140 del codice penale".
 
-###### Art. 16
+#### Art. 16
 
 1\. E' concessa la restituzione d'imposta gia' istituita con decreto- legge 22 maggio 1990, n. 120, a chiunque deteneva alle ore zero del 16 novembre 1990 carburanti adulterati per agricoltura in quantita' superiore a tremila chilogrammi. La domanda di restituzione, se non e' stata gia' presentata deve essere prodotta entro trenta giorni all'Ufficio tecnico delle imposte di fabbricazione competente e la restituzione avverra' mediante autorizzazione ad estrarre in esenzione d'imposta di fabbricazione prodotti petroliferi in misura tale da consentire il recupero delle somme di cui e' riconosciuto il diritto al rimborso.
 
@@ -1046,15 +1030,11 @@ La disposizione non si applica se l'ammontare delle somme non corrisposte non e'
 
 > \- Il D.L. n. 120/1990 reca: "Disposizioni fiscali urgenti in materia di finanza locale e per il contenimento del disavanzo del bilancio dello Stato".
 
-## TITOLO II - SEMPLIFICAZIONE E
+## TITOLO II - SEMPLIFICAZIONE E RAZIONALIZZAZIONE DELLE PROCEDURE
 
-### RAZIONALIZZAZIONE DELLE - PROCEDURE
+### CAPO II - DISPOSIZIONI IN MATERIA DI RISCOSSIONE E DEFINIZIONE DEI CREDITI DICHIARATI INESIGIBILI DAI CESSATI ESATTORI
 
-#### CAPO II - DISPOSIZIONI IN MATERIA DI RISCOSSIONE E DEFINIZIONE DEI CREDITI
-
-##### DICHIARATI INESIGIBILI DAI CESSATI ESATTORI
-
-###### Art. 17
+#### Art. 17
 
 1\. I contribuenti che, dalle domande di rimborso o di discarico presentate dagli esattori delle imposte dirette o dai concessionari per le quote ricevute in carico dagli stessi esattori, risultano, alla data di entrata in vigore della presente legge, debitori per tributi iscritti a ruolo entro il 31 dicembre 1989, possono estinguere il debito con il pagamento di una somma pari ad un sesto dell'imposta ancora dovuta e di una somma pari al 10 per cento degli interessi, pene pecuniarie, soprattasse ed altri accessori iscritti a ruolo e non ancora pagati. Il versamento deve essere effettuato, contestualmente alla sottoscrizione dell'atto previsto dal comma 3, al competente concessionario del servizio di riscossione dei tributi.
 
@@ -1100,15 +1080,11 @@ AGGIORNAMENTO (12)
 
 La L. 27 dicembre 1997, n. 449 ha disposto (con l'art. 24, comma 13) che "Il termine di liquidazione di cui all'articolo 17, comma 7, primo periodo, della legge 30 dicembre 1991, n. 413, e' prorogato al 30 giugno 1998".
 
-## TITOLO III - DISPOSIZIONI PER LA TRASPARENZA
+## TITOLO III - DISPOSIZIONI PER LA TRASPARENZA DEI RAPPORTI TRA AMMINISTRAZIONE FINANZIARIA E CONTRIBUENTI
 
-### DEI RAPPORTI TRA AMMINISTRAZIONE - FINANZIARIA E CONTRIBUENTI
+### CAPO I - POTERI DEGLI UFFICI PER L'ADEMPIMENTO DEI LORO COMPITI E OBBLIGHI DI COMUNICAZIONE E ALLEGAZIONE
 
-#### CAPO I - POTERI DEGLI UFFICI PER L'ADEMPIMENTO
-
-##### DEI LORO COMPITI E OBBLIGHI DI COMUNICAZIONE - E ALLEGAZIONE
-
-###### Art. 18
+#### Art. 18
 
 1\. Al decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -1298,7 +1274,7 @@ l) nel primo comma, primo periodo, dell'articolo 63, come modificato dall'artico
 
 > Il pubblico ufficiale o la persona incaricata di un pubblico servizio, che, per procurare a se' o ad altri un indebito profitto patrimoniale, si avvale illegittimamente di notizie di ufficio, le quali debbano rimanere segrete, e' punito con la reclusione da due a cinque anni. Se il fatto e' commesso al fine di procurare a se' o ad altri un ingiusto profitto non patrimoniale o di cagionare ad altri un danno ingiusto, si applica la pena della reclusione fino a due anni".
 
-###### Art. 19
+#### Art. 19
 
 1\. Al decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -1422,7 +1398,7 @@ b) elenco nominativo dei soggetti che esercitano imprese commerciali, arti e pro
 
 > \- Il D.P.R. n. 648/1972 reca: "Riordinamento dei fondi di previdenza e armonizzazione delle tabelle dei tributi speciali".
 
-###### Art. 20
+#### Art. 20
 
 1\. All'articolo 66-bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -1606,27 +1582,19 @@ b) nell'articolo 7, comma 1, dopo le parole "per l'adempimento degli obblighi, n
 
 > 1-bis. L'Amministrazione finanziaria procede, anche sulla base di criteri selettivi adottati per i controlli annuali, a verifiche nei confronti delle persone fisiche, degli enti non commerciali e dei soggetti indicati nell'art. 5 del testo unico delle imposte sui redditi, approvato con D.P.R. 22 dicembre 1986, n. 917".
 
-## TITOLO III - DISPOSIZIONI PER LA TRASPARENZA
+## TITOLO III - DISPOSIZIONI PER LA TRASPARENZA DEI RAPPORTI TRA AMMINISTRAZIONE FINANZIARIA E CONTRIBUENTI
 
-### DEI RAPPORTI TRA AMMINISTRAZIONE - FINANZIARIA E CONTRIBUENTI
+### CAPO II - INTERPELLO DELL'AMMINISTRAZIONE FINANZIARIA DA PARTE DEI CONTRIBUENTI
 
-#### CAPO II - INTERPELLO DELL'AMMINISTRAZIONE
-
-##### FINANZIARIA DA PARTE DEI CONTRIBUENTI
-
-###### Art. 21
+#### Art. 21
 
 ((ARTICOLO ABROGATO DAL D.LGS. 24 SETTEMBRE 2015, N. 156))
 
-## TITOLO III - DISPOSIZIONI PER LA TRASPARENZA
+## TITOLO III - DISPOSIZIONI PER LA TRASPARENZA DEI RAPPORTI TRA AMMINISTRAZIONE FINANZIARIA E CONTRIBUENTI
 
-### DEI RAPPORTI TRA AMMINISTRAZIONE - FINANZIARIA E CONTRIBUENTI
+### CAPO III - DISPOSIZIONI PER L'AMMINISTRAZIONE FINANZIARIA
 
-#### CAPO III - DISPOSIZIONI PER
-
-##### L'AMMINISTRAZIONE FINANZIARIA
-
-###### Art. 22
+#### Art. 22
 
 1\. In aggiunta ai centri informativi previsti dall'articolo 2, secondo comma, del decreto-legge 30 gennaio 1976, n. 8, convertito, con modificazioni, dalla legge 27 marzo 1976, n. 60, e' istituito, sentite l'Associazione nazionale comuni italiani (ANCI), l'Unione delle province d'Italia (UPI) e l'Unione nazionale comuni, comunita' enti montani (UNCEM), il centro informativo della direzione generale della finanza locale per lo svolgimento dei compiti dell'anagrafe tributaria nel settore di competenza mediante la raccolta, l'elaborazione e l'archiviazione dei dati e delle notizie occorrenti.
 
@@ -1700,13 +1668,11 @@ il Ministro delle finanze, con propri decreti, stabilisce la data di attivazione
 
 > Tuttavia, nel caso di piu' violazioni alle disposizioni di cui al presente articolo, commesse anche in tempi diversi in esecuzione della medesima risoluzione, la sanzione puo' essere applicata, tenuto conto delle cirostanze dei fatti e della personalita' dell'autore delle violazioni, in misura corrispondente ad un terzo del massimo stabilito dalla legge per una sola violazione, aumentata del quindici per cento per ogni violazione successiva alla prima".
 
-## TITOLO III - DISPOSIZIONI PER LA TRASPARENZA
+## TITOLO III - DISPOSIZIONI PER LA TRASPARENZA DEI RAPPORTI TRA AMMINISTRAZIONE FINANZIARIA E CONTRIBUENTI
 
-### DEI RAPPORTI TRA AMMINISTRAZIONE - FINANZIARIA E CONTRIBUENTI
+### CAPO IV - MISURE DI RAZIONALIZZAZIONE
 
-#### CAPO IV - MISURE DI RAZIONALIZZAZIONE
-
-###### Art. 23
+#### Art. 23
 
 1\. Al testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e succes- sive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -1772,15 +1738,11 @@ AGGIORNAMENTO (3)
 
 Il D.L. 30 agosto 1993, n. 331, convertito con modificazioni dalla L. 29 ottobre 1993, n. 427 ha disposto (con l'art. 63, comma 1) che"Le disposizioni di cui al comma 3, lettera c), dell'articolo 23 della legge 30 dicembre 1991, n. 413, si applicano alle successioni aperte dal 1 gennaio 1994".
 
-## TITOLO IV - RIVALUTAZIONE DI BENI IMMOBILI
+## TITOLO IV - RIVALUTAZIONE DI BENI IMMOBILI DELLE IMPRESE E DISPOSIZIONI PER LA TASSAZIONE DI TALUNE PLUSVALENZE DA CONFERIMENTI
 
-### DELLE IMPRESE E DISPOSIZIONI PER - LA TASSAZIONE DI TALUNE PLUSVALENZE DA CONFERIMENTI
+### CAPO I - DISPOSIZIONI IN MATERIA DI RIVALUTAZIONE DEI BENI IMMOBILI DELLE IMPRESE
 
-#### CAPO I - DISPOSIZIONI IN MATERIA DI RIVALUTAZIONE
-
-##### DEI BENI IMMOBILI DELLE IMPRESE
-
-###### Art. 24
+#### Art. 24
 
 1\. Le societa' per azioni e in accomandita per azioni, le societa' a responsabilita' limitata, le societa' cooperative, le societa' di mutua assicurazione, che hanno nel territorio dello Stato la sede legale o amministrativa o l'oggetto principale dell'attivita', e gli altri enti pubblici o privati, che hanno per oggetto esclusivo o principale l'esercizio di attivita' commerciali e che hanno nel territorio delle Stato la sede legale o amministrativa o l'oggetto principale dell'attivita'e' sono tenuti a rivalutare i fabbricati e le aree fabbricabili di cui all'articolo 25, acquisiti entro la data di chiusura dell'esercizio chiuso nell'anno 1990 e risultanti nel bilancio relativo a tale esercizio.
 
@@ -1790,7 +1752,7 @@ Il D.L. 30 agosto 1993, n. 331, convertito con modificazioni dalla L. 29 ottobre
 
 4\. La rivalutazione deve essere eseguita nel bilancio o rendiconto relativo all'esercizio per il quale il termine di presentazione della dichiarazione dei redditi scade successivamente alla data di entrata in vigore della presente legge e deve essere annotata nel relativo inventario. I soggetti che alla data di entrata in vigore della presente legge hanno gia' approvato il bilancio o rendiconto e per i quali il termine di presentazione della dichiarazione dei redditi scade dopo tale data debbono effettuare la rivalutazione nella dichiarazione dei redditi relativa al primo esercizio chiuso successivamente alla data medesima. Per gli enti e le societa' che possono avvalersi delle disposizioni di cui alla legge 30 luglio 1990, n. 218, la rivalutazione deve riguardare anche i beni di cui al comma 1 dell'artiocolo 25, ricevuti a seguito delle operazioni di conferimento previste dalla stessa legge, qualora detti beni siano stati acquisiti dall'ente o societa' conferente entro la data di chiusura dell'esercizio chiuso nell'anno 1990 e risultanti nel bilancio relativo a tale esercizio.
 
-###### Art. 25
+#### Art. 25
 
 1\. Per il calcolo della rivalutazione:
 
@@ -1880,7 +1842,7 @@ La rivalutazione e' costituita da almeno il 38 per cento dell'importo cosi' dete
 
 > \- La legge 218/1990 reca:"Disposizioni in materia di ristrutturazione e integrazione patrimoniale degli istituti di credito di diritto pubblico".
 
-###### Art. 26
+#### Art. 26
 
 1\. Il saldo attivo risultante dalla rivalutazione eseguita ai sensi degli articoli 24 e 25 deve essere imputato al capitale o accantonato in una speciale riserva designata con riferimento alla presente legge, con esclusione di ogni diversa utilizzazione.
 
@@ -1944,7 +1906,7 @@ La rivalutazione e' costituita da almeno il 38 per cento dell'importo cosi' dete
 
 > Ai fini del presente articolo si assumono come ricavi conseguiti nel periodo di imposta i corrispettivi delle operazioni registrate o soggette a registrazione nel periodo stesso agli effetti della imposta sul valore aggiunto e di quelle annotate o soggette ad annotazioni a norma del terzo comma".
 
-###### Art. 27
+#### Art. 27
 
 1\. In caso di violazione delle disposizioni degli articoli 24 e 25 o dell'articolo 26, gli amministratori e i sindaci o revisori o il titolare dell'impresa individuale sono puniti con l'ammenda da lire 2 milioni a lire 20 milioni, salvo che il fatto costituisca piu' grave reato. In caso di condanna il guidice puo' applicare la pena accessoria di cui all'articolo 32-bis del codice penale, per la durata non inferiore ad un anno e non superiore a tre anni.
 
@@ -1964,15 +1926,11 @@ La rivalutazione e' costituita da almeno il 38 per cento dell'importo cosi' dete
 
 > \- La legge n. 408/1990 e' citata nella nota all'art. 25.
 
-## TITOLO IV - RIVALUTAZIONE DI BENI IMMOBILI
+## TITOLO IV - RIVALUTAZIONE DI BENI IMMOBILI DELLE IMPRESE E DISPOSIZIONI PER LA TASSAZIONE DI TALUNE PLUSVALENZE DA CONFERIMENTI
 
-### DELLE IMPRESE E DISPOSIZIONI PER - LA TASSAZIONE DI TALUNE PLUSVALENZE DA CONFERIMENTI
+### CAPO II - DISPOSIZIONI PER LA TASSAZIONE DI PLUSVALENZE DA CONFERIMENTI
 
-#### CAPO II - DISPOSIZIONI PER LA TASSAZIONE
-
-##### DI PLUSVALENZE DA CONFERIMENTI
-
-###### Art. 28
+#### Art. 28
 
 1\. Il secondo ed il terzo periodo del comma 2 dell'articolo 7 della legge 30 luglio 1990, n. 218, sono sostituiti dai seguenti: "L'eventuale differenza tra il valore dei beni conferiti, quale iscritto nel bilancio della societa' conferitaria in dipendenza del conferimento, e l'ultimo valore dei beni stessi riconosciuto ai fini delle imposte sui redditi concorre a formare il reddito dell'ente conferente nella misura del 15 per cento. La differenza tassata e' considerata costo fiscalmente riconosciuto per la societa' conferitaria e puo' essere dalla medesima attribuita in tutto o in parte all'avviamento, ovvero proporzionalmente al costo dei beni ricevuti. La eventuale differenza tra il valore delle azioni ricevute e l'ultimo valore dei beni conferiti riconosciuto ai fini delle predette imposte, maggiorato della differenza tassata di cui al precedente periodo, non concorre a formare il reddito dell'ente conferente fino a quando non sia stata realizzata o distribuita. I beni ricevuti dalla societa' sono valutati fiscalmente in base all'ultimo valore riconosciuto ai predetti fini e le relative quote di ammortamento sono ammesse in deduzione fino a concorrenza dell'originario costo non ammortizzato alla data del conferimento, maggiorato della differenza tassata di cui al presente comma; non sono ammesse in deduzione quote di ammortamento del valore di avviamento iscritto nell'attivo del bilancio della societa' in dipendenza del conferimento, per la parte eccedente la differenza tassata allo stesso attribuita ai sensi del presente comma".
 
@@ -1990,15 +1948,13 @@ La rivalutazione e' costituita da almeno il 38 per cento dell'importo cosi' dete
 
 > \- Per la legge n. 408/1990 vedasi nota all'art. 25.
 
-###### Art. 29
+#### Art. 29
 
 1\. Le imprese familiari, ai fini della loro trasformazione in societa' in nome collettivo o in accomandita semplice, mediante conferimento d'azienda, possono avvalersi, fino al ((30 settembre 1993)), delle disposizioni di cui all'articolo 3, comma 16, del decreto-legge 19 dicembre 1984, n. 853, convertito, con modificazioni, dalla legge 17 febbraio 1985, n. 17, purche' costituite e risultanti da atto pubblico o da scrittura privata autenticata ai sensi dell'ultimo comma dell'articolo 5 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597, e successive modificazioni, alla data ((del 31 dicembre 1991)).
 
-## TITOLO V - DISPOSIZIONI PER LA REVISIONE
+## TITOLO V - DISPOSIZIONI PER LA REVISIONE DEL CONTENZIOSO TRIBUTARIO
 
-### DEL CONTENZIOSO TRIBUTARIO
-
-###### Art. 30
+#### Art. 30
 
 1\. Il Governo della Repubblica e' delegato ad emanare, entro dodici mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi recanti disposizioni per la revisione della disciplina e l'organizzazione del contenzioso tributario, con l'osservanza dei seguenti principi e criteri direttivi:
 
@@ -2178,7 +2134,7 @@ z) revisione della disciplina dell'iscrizione provvisoria a ruolo ovvero del pag
 
 > "4. La commissione parlamentare di cui all'articolo 17, terzo comma, della legge 9 ottobre 1971, n. 825, e' composta da quindici senatori e quindici deputati nominati dai Presidenti delle rispettive Assemblee in rappresentanza proporzionale dei gruppi parlamentari.".
 
-###### Art. 31
+#### Art. 31
 
 1\. All'articolo 6, primo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 605, e successive modificazioni, dopo la lettera g-ter) e' aggiunta la seguente:
 
@@ -2326,13 +2282,11 @@ z) revisione della disciplina dell'iscrizione provvisoria a ruolo ovvero del pag
 
 > La decadenza e' dichiarata con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri su proposta del Ministro per le finanze".
 
-## TITOLO VI - DISPOSIZIONI PER AGEVOLARE
+## TITOLO VI - DISPOSIZIONI PER AGEVOLARE LA DEFINIZIONE DELLE SITUAZIONI E PENDENZE TRIBUTARIE
 
-### LA DEFINIZIONE DELLE SITUAZIONI - E PENDENZE TRIBUTARIE
+### CAPO I - IMPOSTE SUI REDDITI
 
-#### CAPO I - IMPOSTE SUI REDDITI
-
-###### Art. 32
+#### Art. 32
 
 1\. Agli effetti dell'imposta sul reddito delle persone fisiche, dell'imposta sul reddito delle persone guiridiche e dell'imposta lo- cale sui redditi, nonche' delle relazioni addizionali, dovute per i periodi di imposta relativamente ai quali il termine per la presentazione della dichiarazione annuale e' scaduto anteriormente al 30 novembre 1991, i contribuenti, sempreche' non sia intervenuto accertamento definitivo, sono ammessi a presentare dichiarazioni integrative in luogo di quelle omesse e per rettificare in aumento quelle gia' presentate, ancorche' con ritardo superiore ad un mese.
 
@@ -2356,7 +2310,7 @@ AGGIORNAMENTO (13)
 
 La L. 8 maggio 1998, n. 146 ha disposto (con l'art. 18, comma 1) che "Le disposizioni dell'articolo 32, comma 4, della legge 30 dicembre 1991, n. 413, si interpretano nel senso che la definizione delle situazioni e pendenze tributarie, di cui al titolo VI della legge medesima, si intende legittimamente avvenuta, purche' i contribuenti che hanno presentato le dichiarazioni integrative di cui al comma 1 del citato articolo 32 e che non hanno corrisposto in tutto o in parte alle previste scadenze, anche ratealmente, le somme dovute, provvedano, alla scadenza della rata, al pagamento delle complessive somme iscritte nel ruolo speciale di cui all'articolo 39, comma 4, della predetta legge n. 413 del 1991; il pagamento e' considerato valido se comunque eseguito prima dell'inizio della azione esecutiva".
 
-###### Art. 33
+#### Art. 33
 
 1\. Ai fini della normativa di cui al presente titolo si considerano dichiarati i redditi risultanti dai certificati di cui alla lettera d) del quarto comma dell'articolo 1 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e successive modificazioni, presentati, in assenza delle condizioni richieste da questa disposizione, in luogo della dichiarazione. Ai fini dell'applicazione delle disposizioni contenute nel presente titolo e nel successivo si considerano altresi' dichiarati nella dichiarazione originaria di redditi, le perdite, le imposte lorde e le addizionali esposti nelle dichiarazioni integrative presentate ai sensi degli articoli da 14 a 19 del decreto-legge 2 marzo 1989, n. 69, convertito, con modificazioni, dalla legge 27 aprile 1989, n. 154, degli articoli da 5 a 8 del decreto-legge 25 novembre 1989, n. 383, e dell'articolo 14 della legge 29 dicembre 1990, n. 408. La dichiarazione integrativa non costituisce titolo per rimborso di ritenute, acconti di imposta e crediti di imposta precedentemente non dichiarati ne' per il riconoscimento di esenzioni o agevolazioni non richieste in precedenza ovvero di detrazioni di imposta diverse o maggiori di quelle originariamente dichiarate, ne' per l'esercizio di opzioni, e non esplica alcun effetto ai fini del calcolo della maggiorazione di conguaglio di cui all'articolo 2 della legge 25 novembre 1983, n. 649, e agli articoli 105, 106 e 107 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni.
 
@@ -2670,7 +2624,7 @@ Le quantita' ed i valori cosi' evidenziati si considerano riconosciuti ai fini d
 
 > 8\. Le plusvalenze risultanti da rivalutazioni delle rimanenze effettuate fino all'esercizio in corso al 31 dicembre 1984 in applicazione dei criteri di valutazione previsti dall'articolo 12 della legge 19 marzo 1983, n. 72, concorrono a formare il reddito, in quote costanti, nell'esercizio in cui sono state apportate le variazioni e nei quattro esercizi successivi".
 
-###### Art. 34
+#### Art. 34
 
 1\. Per i periodi di imposta relativamente ai quali anteriormente al 1 ottobre 1991, e' stato notificato accertamento in rettifica o d'ufficio diverso dall'accertamento parziale di cui all'articolo 41-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e successive modificazioni, la controversia si estingue se la dichiarazione stessa reca un imponibile non inferiore alla somma del 60 per cento dell'imponibile accertato dall'ufficio o enunciato in decreto di citazione a giudizio penale e del 15 per cento dell'imponibile dichiarato dal contribuente e sono versate le relative imposte. Se nella dichiarazione originaria, ancorche' tardiva oltre il mese, non sono stati indicati redditi imponibili relativamente ad una o piu' imposte cui la dichiarazione si riferiva, la controversia si estingue se la dichiarazione integrativa reca imponibili non inferiori al 65 per cento di quello accertato dall'ufficio relativamente alle medesime imposte e sono eseguiti i relativi versamenti. Se ai fini dell'imposta sul reddito delle persone fisiche o dell'imposta sul reddito delle persone giuridiche i soggetti, nei cui confronti rilevano le perdite ai sensi degli articoli 8 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597, e successive modificazioni, 17 e 24 del decreto del Presidente della Repubblica 29 settembre 1973, n. 598, e successive modificazioni, 8 e 102 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, nella dichiarazione originaria hanno esposto una perdita, la controversia si estingue se nella dichiarazione integrativa e' indicata una variazione della perdita dichiarata per un importo pari al 60 per cento dell'ammontare complessivo della riduzione della perdita accertata e dell'eventuale imponibile accertato. Se alcuni elementi dell'imponibile accertato non sono oggetto di contestazione da parte del contribuente le rela- tive imposte restano dovute per l'intero ammontare dei suddetti elementi e degli stessi non si tiene conto ai fini del presente articolo.
 
@@ -2698,11 +2652,11 @@ AGGIORNAMENTO (2)
 
 Il D.L. 23 gennaio 1993, n. 16, convertito con modificazioni dalla L. 24 marzo 1993, n. 75 ha disposto (con l'art. 3, comma 2) che continuano ad applicarsi fino al 20 giugno 1993 i commi 5 e 6 del presente articolo e che il termine per la richiesta di sospensione della riscossione di cui al comma 7, secondo periodo del presente articolo e' fissato al 30 giugno 1993.
 
-###### Art. 35
+#### Art. 35
 
 1\. Le controversie pendenti alla data di entrata in vigore, della presente legge, aventi per oggetto pene pecuniarie e soprattasse rel- ative ad infrazioni che non prevedono applicazione di imposta, possono essere definite mediante il pagamento del 10 per cento delle predette sanzioni nei termini e nei modi previsti negli articoli da 39 a 41.
 
-###### Art. 36
+#### Art. 36
 
 1\. Per i periodi di imposta relativamente ai quali fino al 30 settembre 1991 e' stato notificato accertamento in rettifica o d'ufficio, nonche' per gli accertamenti parziali di cui all'articolo 41- bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e successive modificazioni, notificati fino al ((20 giugno 1993)), la controversia, se non risulta estinta ai sensi dell'articolo 34 della presente legge, prosegue limitatamente alla differenza fra l'imponibile accertato e quello risultante dalla dichiarazione integrativa.
 
@@ -2720,7 +2674,7 @@ AGGIORNAMENTO (2)
 
 Il D.L. 23 gennaio 1993, n. 16, convertito con modificazioni dalla L. 24 marzo 1993, n. 75 ha disposto che il comma 3 del presente articolo continua ad applicarsi fino al 20 giugno 1993.
 
-###### Art. 37
+#### Art. 37
 
 1\. Per i periodi di imposta per i quali il contribuente ha presentato dichiarazione integrativa che non comporta definizione automatica, gli uffici, nell'ambito di programmi annuali di accertamento, procedono ai controlli e agli accertamenti, secondo le regole ordinarie anche per quanto concerne la competenza; l'accertamento in rettifica e' ammesso, per ciascuna imposta e per ciascun periodo d'imposta, a condizione che l'ammontare del reddito imponibile accertabile superi quello cumulativamente risultante dalla dichiarazione originaria e da quella integrativa di un importo non inferiore al 50 per cento del reddito aggiunto in sede di integrazione. Se l'imposta risultante dalla dichiarazione integrativa non e' inferiore al 10 per cento di quella corrispondente alla dichiarazione originaria, la maggior imposta dovuta a seguito dell'accertamento e' comunque limitata alla eccedenza rispetto all'imposta corrispondente alla somma degli imponibii dichiarati aumentata della franchigia indicata nel precedente periodo. Per gli accertamenti ammessi ai sensi del presente articolo non si applicano le disposizioni di cui al primo comma dell'articolo 15 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602.
 
@@ -2728,7 +2682,7 @@ Il D.L. 23 gennaio 1993, n. 16, convertito con modificazioni dalla L. 24 marzo 1
 
 > \- Il testo dell'art. 15 del D.P.R. n. 602/1973 e' riportato in nota all'art. 34.
 
-###### Art. 38
+#### Art. 38
 
 1\. Il contribuente con la dichiarazione integrativa puo' richiedere, per i periodi d'imposta diversi da quelli indicati nel comma 1 dell'articolo 34, che l'imposta sul reddito delle persone fisiche, l'imposta sul reddito delle persone giuridiche e l'imposta locale sui redditi siano definite per definizione automatica a norma del presente articolo.
 
@@ -2750,7 +2704,7 @@ Il D.L. 23 gennaio 1993, n. 16, convertito con modificazioni dalla L. 24 marzo 1
 
 8\. Se le maggiorazioni indicate nel comma 2 riguardano l'imposta lo- cale sui redditi e una delle imposte personali sui redditi, l'eventuale differenza, dovuta sino a concorrenza degli importi minimi di cui al comma 3, deve essere versata a titolo di imposta sul reddito delle persone fisiche o di quella sul reddito delle persone giuridiche. Alle medesime imposte si imputano i versamenti per gli importi di cui ai commi 4 e 5.
 
-###### Art. 39
+#### Art. 39
 
 1\. Le imposte dovute in base alle dichiarazioni integrative, ad esclusione di quelle relative ai redditi soggetti a tassazione separata, sono riscosse mediante versamento diretto con le modalita' di cui all'articolo 41.
 
@@ -2772,7 +2726,7 @@ AGGIORNAMENTO (2)
 
 Il D.L. 23 gennaio 1993, n. 16, convertito con modificazioni dalla L. 24 marzo 1993, n. 75 ha disposto che il comma 5 del presente articolo continua ad applicarsi fino al 20 giugno 1993.
 
-###### Art. 40
+#### Art. 40
 
 1\. La liquidazione di cui all'articolo 39 e' eseguita, per tutte le annualita' di imposta incluse nella dichiarazione integrativa, dall'ufficio delle imposte o dal centro di servizio cui detta dichiarazione e' stata presentata avvalendosi di procedure automatizzate sulla base dei dati memorizzati negli archivi del sistema informativo del Ministero delle finanze e di quelli comunicati dagli uffici presso i quali sono state o dovevano essere presentate le dichiarazioni annuali per i periodi di imposta inclusi nelle dichiarazioni integrative.
 
@@ -2788,7 +2742,7 @@ Il D.L. 23 gennaio 1993, n. 16, convertito con modificazioni dalla L. 24 marzo 1
 
 > \- Il D.P.R. n. 602/1973, reca: "Disposizioni sulla riscossione delle imposte sul reddito".
 
-###### Art. 41
+#### Art. 41
 
 1\. Gli importi di cui al comma 1 dell'articolo 39 sono riscossi mediante versamento diretto con le modalita' di cui al decreto del Presidente della Repubblica 29 settembre 1973, n. 602, e successive modificazioni da eseguirsi mediante stampati conformi al modello approvato con decreto del Ministro delle finanze, da pubblicare nella Gazzetta Ufficiale.
 
@@ -2798,7 +2752,7 @@ Il D.L. 23 gennaio 1993, n. 16, convertito con modificazioni dalla L. 24 marzo 1
 
 > \- Il D.P.R. n. 602/1973, reca: "Disposizioni sulla riscossione delle imposte sul reddito".
 
-###### Art. 42
+#### Art. 42
 
 1\. Le sanzioni amministrative per omissione, infedelta' o incompletezza delle dichiarazioni annuali dei redditi, compresa quella prevista nell'articolo 49 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e successive modificazioni, non si applicano se l'imposta resta definita per l'imposta resta definita per l'importo corrispondente alle dichiarazioni integrative; in caso contrario si applicano le sanzioni per incompleta e infedele dichiarazione commisurate alla maggiore imposta definitivamente accertata. Non si applicano altresi' le sanzioni amministrative per la tardivita' delle dichiarazioni e per le altre violazioni anche formali relative alle imposte sui redditi commesse dai contribuenti nei periodi di imposta per i quali sia stata presentata la dichiarazione integrativa.
 
@@ -2810,7 +2764,7 @@ Il D.L. 23 gennaio 1993, n. 16, convertito con modificazioni dalla L. 24 marzo 1
 
 > "Art. 49. (Deduzioni e detrazioni indebite). - Se il contribuente ha esposto nella dichiarazione indebite detrazioni dall'imposta ovvero indebite deduzioni dal reddito di cui agli articoli 17 e 24 del D.P.R. 29 settembre 1973, n. 598, e dell'art. 7 del D.P.R. 29 settembre 1973, n. 599, si applica la pena pecuniaria da due a quattro volte la maggiore imposta dovuta. La stessa pena si applica se le indebite detrazioni o deduzioni sono state conseguite per causa imputabile al contribuente, in sede di ritenuta alla fonte. Si applica il quinto comma dell'art. 55".
 
-###### Art. 43
+#### Art. 43
 
 1\. I soggetti che si avvalgono delle disposizioni di cui al presente Capo sono tenuti al pagamento dei relativi contributi o premi dovuti alle gestioni previdenziali ed assistenziali con il versamento di una somma aggiuntiva d'importo pari all'8 per cento in ragione d'anno del totale dei contributi o premi pedenti, entro il limite massimo del 40 per cento dei contributi o premi complessivamente dovuti, in sostituzione di quella prevista dall'articolo 4 del decreto-legge 30 dicembre 1987, n. 536, convertito, con modificazioni, dalla legge 29 febbraio 1988, n. 48, purche' il versamento, ivi compreso quello della somma aggiuntiva ridotta, venga effettuato in due rate di pari importo di cui la prima entro il 30 aprile 1992 e la seconda entro il 30 novembre 1992. I soggetti predetti sono tenuti, entro il 30 aprile 1992, a presentare agli enti impositori, a pena di decadenza, apposita domanda secondo lo schema predisposto dagli enti medesimi. Il pagamento dei contributi o premi e delle somme aggiuntive oltre i termini sopra indica comporta la decadenza dal beneficio di cui al presente articolo. ((2))
 
@@ -2828,13 +2782,11 @@ Il D.L. 23 gennaio 1993, n. 16, convertito con modificazioni dalla L. 24 marzo 1
 
 Entro la stessa data e in un'unica soluzione deve essere effettuato il versamento ivi previsto.
 
-## TITOLO VI - DISPOSIZIONI PER AGEVOLARE
+## TITOLO VI - DISPOSIZIONI PER AGEVOLARE LA DEFINIZIONE DELLE SITUAZIONI E PENDENZE TRIBUTARIE
 
-### LA DEFINIZIONE DELLE SITUAZIONI - E PENDENZE TRIBUTARIE
+### CAPO II - IMPOSTE INDIRETTE
 
-#### CAPO II - IMPOSTE INDIRETTE
-
-###### Art. 44
+#### Art. 44
 
 1\. Le controversie in materia di imposta sul valore aggiunto, per le quali alla data di entrata in vigore della presente legge non siano intervenuti accertamento definitivo o pronunzia non piu' impugnabile, possono essere definite con il solo pagamento di un importo pari al 60 per cento dell'imposta o della maggiore imposta accertata, ((dall'ufficio o enunciata in decreto di citazione a giudizio penale)), diminuita del 25 per cento dell'imposta dovuta in base alla dichiarazione e, in ogni caso, in misura non inferiore al 20 per cento della maggiore imposta accertata; in caso di eccedenza di credito non riconosciuta ((ai sensi degli articoli 54 e 55)) del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, la controversia puo' essere definita con il solo pagamento di un importo pari al 50 per cento di tale eccedenza.
 
@@ -2850,7 +2802,7 @@ Entro la stessa data e in un'unica soluzione deve essere effettuato il versament
 
 7\. La definizione di cui ai commi da 1 a 6 si rende applicabile agli accertamenti notificati entro il 30 settembre 1991. ((PERIODO SOPPRESSO DAL D.L. 23 GENNAIO 1993, N. 16, CONVERTITO CON MODIFICAZIONI DALLA L. 24 MARZO 1993, N. 75)).
 
-###### Art. 45
+#### Art. 45
 
 1\. Per la definizione di cui all'articolo 44, l'amministrazione finanziaria invia ai contribuenti, entro il 31 gennaio 1992 una lettera raccomandata con avviso di ricevimento contenente l'invito a definire la pendenze mediante il pagamento delle somme indicate, ripartite per annualita', entro il 30 aprile 1992 presso il compente ufficio provinciale dell'imposta sul valore aggiunto. E' consentito al contribuente di definire le controversie relative a singole annualita' d'imposta o quelle riguardanti singoli rilievi specificamente indicati in apposita istanza da presentare contestualmente al pagamento della prima o unica rata. ((2))
 
@@ -2866,7 +2818,7 @@ AGGIORNAMENTO (2)
 
 Il D.L. 23 gennaio 1993, n. 16, convertito con modificazioni dalla L. 24 marzo 1993, n. 75 ha disposto (con l'art. 3, comma 1) che le dichiarazioni e le istanze di cui al comma 1 del presente articolo possono essere presentate oltre i termini previsti dalla medesima legge e fino al 20 giugno 1993, senza applicazione di sanzioni.
 
-###### Art.46
+#### Art.46
 
 1\. I contribuenti che pur avendo controversie pendenti non abbiano ricevuto entro il 20 febbraio 1992 la lettera raccomandata di cui all'articolo 45, comma 1, possono definire le controversie secondo le modalita' ed i termini previsti negli articoli precedenti presentando, entro il 30 aprile 1992, istanza contenente la liquidazione dell'imposta all'ufficio competente, redatta su modello approvato con decreto del Ministro delle finanze da pubblicare nella Gazzetta ufficiale entro il 31 gennaio 1992. ((2))
 
@@ -2878,11 +2830,11 @@ AGGIORNAMENTO (2)
 
 Il D.L. 23 gennaio 1993, n. 16, convertito con modificazioni dalla L. 24 marzo 1993, n. 75 ha disposto (con l'art. 3, comma 1) che le dichiarazioni e le istanze di cui al comma 1 del presente articolo possono essere presentate oltre i termini previsti dalla medesima legge e fino al 20 giugno 1993, senza applicazione di sanzioni.
 
-###### Art. 47
+#### Art. 47
 
 1\. Le controversie pendenti alla data di entrata in vigore della presente legge, aventi per oggetto pene pecuniarie e soprattasse relative ad infrazioni formali sull'osservanza delle disposizioni in materia di imposta sul valore aggiunto, che non prevedono applicazione di imposta, possono essere definite mediante il pagamento del 10 per cento delle predette sanzioni nei termini e modi previsti negli articoli precedenti.
 
-###### Art. 48
+#### Art. 48
 
 1\. I giudizi in corso e i termini per ricorrere o di impugnativa pendenti alla data di entrata in vigore della presente legge o che iniziano a decorrere dopo tale data sono sospesi fino al 30 aprile 1992. Tuttavia i giudizi per i quali sia stata fissata l'udienza di discussione nel suddetto periodo sono sospesi nell'udienza medesima a richiesta del contribuente che dichiari di volersi avvalere delle disposizioni previste negli articoli da 44 a 47.
 
@@ -2900,7 +2852,7 @@ AGGIORNAMENTO (2)
 
 Il D.L. 23 gennaio 1993, n. 16, convertito con modificazioni dalla L. 24 marzo 1993, n. 75 ha disposto (con l'art. 3, comma 2) che il comma 3 del presente articolo continua ad applicarsi fino al 20 giugno 1993.
 
-###### Art. 49
+#### Art. 49
 
 1\. Per ciascuno dei periodi d'imposta relativamente ai quali il termine per la presentazione della dichiarazione e' scaduto entro il 5 marzo 1991 e, alla data di entrata in vigore della presente legge, non sono stati notificati avvisi di rettifica o accertamento, l'imposta sul valore aggiunto puo' essere definita, su richiesta del contribuente, mediante la presentazione di apposita dichiarazione integrativa. Tra i detti periodi d'imposta sono compresi anche quelli per i quali, pur scadendo l'ordinario termine per la presentazione della dichiarazione annuale successivamente alla data di entrata in vigore della presente legge per effetto di disposizioni che ne hanno stabilito la proroga, la dichiarazione stessa sia stata comunque presentata anteriormente alla detta data.
 
@@ -2930,7 +2882,7 @@ AGGIORNAMENTO (2)
 
 Il D.L. 23 gennaio 1993, n. 16, convertito con modificazioni dalla l. 24 marzo 1993, n. 75 ha disposto (con l'art. 3-ter, comma 1) che la dichiarazione integrativa ai fini dell'imposta sul valore aggiunto di cui al presente articolo, e' da considerare valida anche se non sottoscritta nel quadro D del relativo modello, purche' sottoscritta in calce.
 
-###### Art. 50
+#### Art. 50
 
 1\. I contribuenti sono ammessi a presentare le dichiarazioni annuali omesse, comportanti un versamento d'imposta non inferiore a lire 300.000, o a rettificare, indicando la maggiore imposta dovuta ovvero il minor credito spettante, le dichiarazioni presentate ancorche' con ritardo superiore ad un mese. Le detrazioni d'imposta non possono essere riconosciute in misura superiore a quella risultante dalla dichiarazione originaria.
 
@@ -2946,7 +2898,7 @@ AGGIORNAMENTO (2)
 
 Il D.L. 23 gennaio 1993, n. 16, convertito con modificazioni dalla l. 24 marzo 1993, n. 75 ha disposto (con l'art. 3-ter, comma 1) che la dichiarazione integrativa ai fini dell'imposta sul valore aggiunto di cui al presente articolo, e' da considerare valida anche se non sottoscritta nel quadro D del relativo modello, purche' sottoscritta in calce.
 
-###### Art. 51
+#### Art. 51
 
 1\. Le dichiarazioni integrative di cui agli articoli 49 e 50 devono essere spedite per lettera raccomandata tra il 1° e il 30 aprile 1992 all'ufficio provinciale dell'imposta sul valore aggiunto nella cui circoscrizione e' l'attuale domicilio fiscale del contribuente. ((2))
 
@@ -2980,7 +2932,7 @@ AGGIORNAMENTO (2)
 
 Il D.L. 23 gennaio 1993, n. 16, convertito con modificazioni dalla L. 24 marzo 1993, n. 75 ha disposto (con l'art. 3, comma 1) che le dichiarazioni e le istanze di cui al comma 1 del presente articolo possono essere presentate oltre i termini previsti dalla medesima legge e fino al 20 giugno 1993, senza applicazione di sanzioni.
 
-###### Art. 52
+#### Art. 52
 
 1\. La definizione di cui agli articoli 44 e 49 opera anche nei casi in cui siano state emesse o utilizzate fatture per operazioni inesistenti, a condizione che: se la definizione e' chiesta dal cedente o prestatore, si sia corrisposto o si corrisponda per intero la relativa imposta; se la definizione e' chiesta dall'acquirente o committente, si eliminino gli effetti dell'indebita detrazione.
 
@@ -2996,7 +2948,7 @@ AGGIORNAMENTO (2)
 
 Il D.L. 23 gennaio 1993, n. 16, convertito con modificazioni dalla l. 24 marzo 1993, n. 75 ha disposto (con l'art. 3-ter, comma 1) che la dichiarazione integrativa ai fini dell'imposta sul valore aggiunto di cui al presente articolo, e' da considerare valida anche se non sottoscritta nel quadro D del relativo modello, purche' sottoscritta in calce.
 
-###### Art. 53
+#### Art. 53
 
 1\. Le controversie di valutazione relative alle imposte di registro, ipotecarie e catastali, alle successioni e donazioni nonche' all'imposta comunale sull'incremento di valore degli immobili di cui all'articolo 2 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 643, e successive modificazioni, per le quali alla data del 30 settembre 1991 non sia intervenuta pronunzia, non piu' impugnabile, emessa dagli organi del contenzioso tributario, sono definite, su richiesta del contribuente, mediante il pagamento di un'ulteriore imposta determinata secondo i criteri previsti dall'articolo 44, comma 1, della presente legge, senza applicazione di soprattasse e pene pecuniarie non ancora corrisposte.
 
@@ -3040,7 +2992,7 @@ AGGIORNAMENTO (2)
 
 Il D.L. 23 gennaio 1993, n. 16, convertito con modificazioni dalla L. 24 marzo 1993, n. 75 ha disposto (con l'art. 3, comma 4) che le istanze di cui ai commi 8 e 9 del presente articolo possono essere presentate fino al 20 giugno 1993; in tal caso le somme da versare devono essere maggiorate, a titolo di interesse, del 12 per cento annuo; fino alla stessa data del 20 giugno 1993 puo' altresi' essere presentata l'istanza prevista dal comma 4 del presente articolo.
 
-###### Art. 54
+#### Art. 54
 
 1\. Le controversie, anche di natura amministrativa, in materia di imposta generale sull'entrata riguardanti accertamenti e/o liquidazioni dell'imposta pendenti alla data di entrata in vigore della presente legge, possono essere definite con il solo pagamento dell'imposta in contestazione, senza applicazione di soprattasse e pene pecuniarie. ((2))
 
@@ -3050,7 +3002,7 @@ AGGIORNAMENTO (2)
 
 Il D.L. 23 gennaio 1993, n. 16, convertito con modificazioni dalla L. 24 marzo 1993, n. 75 ha disposto (con l'art. 3, comma 4) che le istanze ai fini dell'applicazione del presente articolo possono essere presentate fino al 20 giugno 1993; in tal caso le somme da versare devono essere maggiorate, a titolo di interesse, del 12 per cento annuo.
 
-###### Art. 55
+#### Art. 55
 
 1\. I comuni e i loro consorzi, le comunita' montane, le province e le regioni, nonche' le unita' sanitarie locali, le istituzioni pubbliche di assistenza e beneficenza (IPAB), le aziende di turismo, gli enti provinciali per il turismo e, ove istituite, le aziende di promozione turistica, che, alla data di entrata in vigore della presente legge, non abbiano ancora provveduto a presentare le dichiarazioni dei redditi relative agli anni dal 1987 al 1990, e sempre che non sia stato notificato accertamento, sono esonerati dal presentarle se provvedono a versare, nei termini e con le modalita' di cui al comma 6 e per ognuno degli anni per i quali la dichiarazione non sia stata presentata, una somma a titolo di definizione delle relative imposte nella misura risultante dalla tabella di cui all'allegato B alla presente legge, nonche' per le IPAB nella misura risultante dalla quarta classe demografica relativa ai comuni e per le aziende di turismo, gli enti provinciali per il turismo e le aziende di promozione turistica, nella misura risultante dalla citata tabella relativamente alla prima classe delle province. Per le unita' sanitarie locali la misura corrisponde a quella prevista per i comuni che hanno una fascia demografica uguale. Gli stessi enti sono altresi' esonerati dal presentare le dichiarazioni dei redditi non presentate per gli anni dal 1981 al 1986, sempre che non sia stato notificato accertamento, ove provvedano a versare, nei termini e con le modalita' di cui al comma 6 e per ognuno degli anni per i quali la dichiarazione non sia stata presentata, una somma a titolo di definizione delle relative imposte in misura doppia di quella prevista dalla medesima tabella. L'esonero della presentazione delle dichiarazioni e' comunque subordinato al fatto che vengano definiti, mediante versamente delle somme in precedenza indicate, i rapporti di imposta relativi a tutti gli anni dal 1981 al 1990 per i quali la dichiarazione non risulti ancora presentata alla data di entrata in vigore della presente legge e per i quali non sia stato ancora notificato accertamento.
 
@@ -3092,7 +3044,7 @@ AGGIORNAMENTO (12)
 
 La L. 27 dicembre 1997, n. 449 ha disposto (con l'art. 48, comma 14) che "I termini di cui agli articoli 55 e 56 della legge 30 dicembre 1991, n. 413, e successive modificazioni, sono prorogati per i periodi d'imposta relativi agli anni dal 1991 al 1997. La domanda dell'ente interessato deve essere presentata entro il 30 giugno 1998".
 
-###### Art. 56
+#### Art. 56
 
 1\. I comuni e i loro consorzi, le comunita' montane, le province e le regioni, nonche' le unita' sanitarie locali, le IPAB, le aziende di turismo, gli enti provinciali per il turismo e, ove istituite, le aziende di promozione turistica, che, alla data di entrata in vigore della presente legge, non abbiano ancora presentato, agli effetti dell'imposta sul valore aggiunto, le dichiarazioni annuali relative ai periodi d'imposta compresi dal 1987 al 1990, sempre che non sia stato notificato accertamento, sono esonerati dal presentarle se provvedono a versare, per ogni periodo d'imposta, le somme indicate nella tabella di cui all'allegato B alla presente legge; per le aziende di turismo, gli enti provinciali per il turismo e le aziende di promozione turistica nella misura risultante dalla citata tabella relativamente alla prima classe delle province e per le IPAB nella misura risultante dalla quarta classe demografica relativa ai comuni.
 
@@ -3128,13 +3080,11 @@ AGGIORNAMENTO (12)
 
 La L. 27 dicembre 1997, n. 449 ha disposto (con l'art. 48, comma 14) che "I termini di cui agli articoli 55 e 56 della legge 30 dicembre 1991, n. 413, e successive modificazioni, sono prorogati per i periodi d'imposta relativi agli anni dal 1991 al 1997. La domanda dell'ente interessato deve essere presentata entro il 30 giugno 1998".
 
-## TITOLO VI - DISPOSIZIONI PER AGEVOLARE
+## TITOLO VI - DISPOSIZIONI PER AGEVOLARE LA DEFINIZIONE DELLE SITUAZIONI E PENDENZE TRIBUTARIE
 
-### LA DEFINIZIONE DELLE SITUAZIONI - E PENDENZE TRIBUTARIE
+### CAPO III - DISPOSIZIONI COMUNI
 
-#### CAPO III - DISPOSIZIONI COMUNI
-
-###### Art. 57
+#### Art. 57
 
 1\. Le dichiarazioni integrative di cui alla presente legge, da redigersi in carta semplice, sono irrevocabili. Le imposte e le maggiori imposte che ne risultano sono acquisite a titolo definitivo e le definizioni intervenute sulla base di dette dichiarazioni non possono essere modificate dagli uffici ne' contestate dai contribuenti se non per errore materiale o per violazione delle norme di cui ai Capi I e II del presente titolo; in tale ipotesi gli uffici, in sede di liquidazione delle dichiarazioni integrative, devono accertare, in base agli elementi in esse contenuti, quali effetti i contribuenti abbiano inteso conseguire, tenendo anche conto del principio di conservazione degli effetti giuridici degli atti.
 
@@ -3156,7 +3106,7 @@ AGGIORNAMENTO (2)
 
 Il D.L. 23 gennaio 1993, n. 16, convertito con modificazioni dalla L. 24 marzo 1993, n. 75 ha disposto (con l'art. 3, comma 1) che le dichiarazioni e le istanze di cui al comma 6 del presente articolo possono essere presentate oltre i termini previsti dalla medesima legge e fino al 20 giugno 1993, senza applicazione di sanzioni.
 
-###### Art. 58
+#### Art. 58
 
 1\. Il comma 1 dell'articolo 77 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, e' sostituito dal seguente:
 
@@ -3184,7 +3134,7 @@ AGGIORNAMENTO (3)
 
 Il D.L.30 agosto 1993, n. 331 convertito con modificazioni dalla L. 29 ottobre 1993, n. 427 ha disposto (con l'art. 62, comma 24) che "La dichiarazione di opzione di cui all'articolo 58, comma 3- bis, della legge 30 dicembre 1991, n. 413, introdotto dal comma 23, lettera b), del presente articolo, deve essere presentata entro il 18 dicembre 1993; la relativa imposta sostitutiva dell'imposta sul reddito delle persone giuridiche, dell'imposta locale sui redditi e dell'imposta sul valore aggiunto deve essere versata in due rate di pari importo, con scadenza, rispettivamente, la prima entro il termine di presentazione della dichiarazione e la seconda entro il mese di maggio 1994. Con decreto del Ministro delle finanze, da pubblicare nella Gazzetta Ufficiale entro il 30 settembre 1993, saranno stabilite le modalita' di presentazione della dichiarazione di opzione e di versamento dell'imposta".
 
-###### Art. 59
+#### Art. 59
 
 1\. Gli importi dovuti sulle annualita' definite ai sensi degli ((articoli 34, 36 e 44)) saranno da computare al netto degli importi pagati o iscritti a ruolo e versati ai sensi degli articoli 15 e 20 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, e successive modificazioni, e dell'articolo 60 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e potranno essere rateizzati in un numero massimo di cinque anni senza il pagamento degli interessi, se l'ammontare di detti importi supera i 500 milioni per ciascuna imposta.
 
@@ -3192,11 +3142,11 @@ Il D.L.30 agosto 1993, n. 331 convertito con modificazioni dalla L. 29 ottobre 1
 
 2\. Ai fini di cui al comma 1, alla dichiarazione integrativa dovra' essere allegata la fotocopia delle cartelle esattoriali, se esistenti, e delle ricevute di versamento da cui risultino le causali di versamento, ovvero l'attestazione del competente ufficio tributario relativa alle causali.
 
-###### Art. 60
+#### Art. 60
 
 1\. Al fine di agevolare l'attuazione delle norme contenute nella presente legge, l'intendente di finanza, accertate le esigenze dei dipendenti uffici finanziari, puo' disporre, fino al termine indicato nel comma 3 dell'articolo 39, per la liquidazione delle imposte dovute in base alle dichiarazioni integrative, il temporaneo distacco di personale da lui amministrato da uno ad altro degli uffici finanziari medesimi anche se di settore diverso da quello di appartenenza.
 
-###### Art. 61
+#### Art. 61
 
 1\. Il curatore del fallimento, sentito il parere del comitato dei creditori e con l'autorizzazione del giudice delegato, il commissario liquidatore ed il commissario dell'amministrazione straordinaria delle grandi imprese in crisi, sentito il parere del comitato di sorveglianza e con l'autorizzazione dell'autorita' di vigilanza, possono avvalersi delle disposizioni della presente legge. Il pagamento delle somme dovute deve avvenire entro i termini previsti dalle predette disposizioni. I relativi debiti sono equiparati a quelli previsti dall'articolo 111, primo comma, numero 1), delle disposizioni approvate con regio decreto 16 marzo 1942, n. 267.
 
@@ -3216,13 +3166,13 @@ Il D.L.30 agosto 1993, n. 331 convertito con modificazioni dalla L. 29 ottobre 1
 
 > I prelevamenti indicati al n. 1 sono determinati con decreto del giudice delegato".
 
-###### Art. 62
+#### Art. 62
 
 1\. Nello stato di previsione dell'entrata sono istituiti appositi capitoli cui affluiscono le riscossioni di cui alla presente legge relative alle singole imposte.
 
 2\. Sui capitoli di cui al comma 1 affluiscono le riscossioni degli interessi e delle soprattasse per omesso, insufficiente o ritardato versamento.
 
-###### Art. 62-bis
+#### Art. 62-bis
 
 1\. Le sanzioni amministrative previste nell'articolo 92 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, e successive modificazioni, e dell'articolo 44 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, non si applicano ai contribuenti e ai sostituti d'imposta che alla data del 29 aprile 1992 hanno provveduto al pagamento, ovvero vi hanno provveduto successivamente in due rate di uguale importo entro il 30 giugno e nel mese di luglio 1992, ovvero vi provvedono in unica soluzione entro il ((20 giugno 1993)), delle imposte o delle ritenute risultanti dalle dichiarazioni annuali presentate anteriormente al 30 novembre 1991, per le quali il termine di versamento e' scaduto anteriormente a questa data.
 
@@ -3232,13 +3182,11 @@ Il D.L.30 agosto 1993, n. 331 convertito con modificazioni dalla L. 29 ottobre 1
 
 4\. Sulla base della dichiarazione di cui al comma 3, gli uffici provvedono allo sgravio delle sanzioni indicate al comma 1 iscritte a ruolo, o al loro annullamento se ne e' stato intimato il pagamento con ingiunzione, non ancora pagate alla data del 29 aprile 1992, sempre che il mancato pagamento non dipenda da morosita', ovvero al rimborso di quelle pagate a partire dalla data medesima; il rimborso compete altresi' per le somme a tale titolo pagate anteriormente, se i soggetti interessati dimostrano che il versamento non e' stato eseguito tempestivamente per fatto doloso di terzi denunciato, anteriormente alla data del 24 gennaio 1993, all'autorita' giudiziaria. Restano fermi gli interessi iscritti a ruolo; le somme da versare, diverse da quelle iscritte a ruolo, devono essere maggiorate a titolo di interessi del 12 per cento se la dichiarazione e' stata presentata entro il 30 giugno 1992 ovvero del 13 per cento se la dichiarazione e' presentata successivamente a tale data ed entro il ((20 giugno 1993)).
 
-## TITOLO VI - DISPOSIZIONI PER AGEVOLARE
+## TITOLO VI - DISPOSIZIONI PER AGEVOLARE LA DEFINIZIONE DELLE SITUAZIONI E PENDENZE TRIBUTARIE
 
-### LA DEFINIZIONE DELLE SITUAZIONI - E PENDENZE TRIBUTARIE
+### CAPO IV - SOSTITUTI DI IMPOSTA
 
-#### CAPO IV - SOSTITUTI DI IMPOSTA
-
-###### Art. 63
+#### Art. 63
 
 1\. I soggetti indicati nel titolo III del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e successive modificazioni, obbligati all'effettuazione delle ritenute alla fonte sulle somme o valori da essi corrisposti ed alla presentazione della relativa dichiarazione ai sensi dell'articolo 7 del medesimo decreto, e successive modificazioni, per i periodi d'imposta relativamente ai quali il termine per la presentazione della dichiarazione e' scaduto anteriormente al 30 novembre 1991, sempreche' non sia intervenuto accertamento definitivo, sono ammessi a presentare dichiarazioni integrative in luogo di quelle omesse e per rettificare in aumento quelle gia' presentate ancorche' con ritardo superiore ad un mese.
 
@@ -3270,15 +3218,11 @@ Il D.L. 23 gennaio 1993, n. 16, convertito con modificazioni dalla L. 24 marzo 1
 
 Lo stesso D.L. 23 gennaio 1993, n. 16 ha poi disposto (con l'art. 3, comma 2) che se le dichiarazioni e le istanze sono presentate successivamente al 30 giugno 1992, i versamenti previsti nel comma 5 del presente articolo devono essere eseguiti in unica soluzione entro la predetta data del 20 giugno 1993 e le somme da versare devono essere maggiorate, a titolo di interessi, dell'1 per cento per mese o frazione di mese a decorrere dal 1 luglio 1992 fino alla data di effettuazione del pagamento.
 
-## TITOLO VI - DISPOSIZIONI PER AGEVOLARE
+## TITOLO VI - DISPOSIZIONI PER AGEVOLARE LA DEFINIZIONE DELLE SITUAZIONI E PENDENZE TRIBUTARIE
 
-### LA DEFINIZIONE DELLE SITUAZIONI - E PENDENZE TRIBUTARIE
+### CAPO V - DEFINIZIONE AGEVOLATA DELLE CONTROVERSIE DOGANALI
 
-#### CAPO V - DEFINIZIONE AGEVOLATA
-
-##### DELLE CONTROVERSIE DOGANALI
-
-###### Art. 64
+#### Art. 64
 
 1\. Le controversie relative ai tributi amministrati dal dipartimento delle dogane e delle imposte indirette pendenti presso l'Amministrazione o davanti all'autorita' giudiziaria alla data di entrata in vigore della presente legge per violazioni commesse fino al 30 settembre 1991, possono, su istanza del contribuente, essere definite con il pagamento dei tributi, accertati dagli uffici impositori, ove dovuti, e del 20 per cento del minimo della relativa pena pecuniaria. ((2))
 
@@ -3294,13 +3238,11 @@ AGGIORNAMENTO (2)
 
 Il D.L. 23 gennaio 1993, n. 16, convertito con modificazioni dalla L. 24 marzo 1993, n. 75 ha disposto (con l'art. 3, comma 5) che le istanze previste dal suddetto articolo, commi 1 e 2, possono essere presentate anche oltre i termini prescritti dalla predetta legge e fino al 20 giugno 1993; in tal caso il pagamento e' effettuato nei termini e secondo le modalita' stabilite negli articoli 1; 2, commi 1, 2, 3 e 5; 3, commi 1, 2, 3 e 6, del decreto del Ministro delle finanze 4 febbraio 1992, pubblicato nella Gazzetta Ufficiale n. 57 del 9 marzo 1992, e le somme da versare devono essere maggiorate, a titolo di interessi, dell'1 per cento per mese o frazione di mese a decorrere dal 1 luglio 1992 fino alla data di effettuazione del versamento.
 
-## TITOLO VI - DISPOSIZIONI PER AGEVOLARE
+## TITOLO VI - DISPOSIZIONI PER AGEVOLARE LA DEFINIZIONE DELLE SITUAZIONI E PENDENZE TRIBUTARIE
 
-### LA DEFINIZIONE DELLE SITUAZIONI - E PENDENZE TRIBUTARIE
+### CAPO VI - DISPOSIZIONI VARIE
 
-#### CAPO VI - DISPOSIZIONI VARIE
-
-###### Art. 65
+#### Art. 65
 
 1\. Le disposizioni per la definizione agevolata delle pendenze e delle situazioni tributarie, di cui ai precedenti Capi del presente titolo non si applicano:
 
@@ -3358,7 +3300,7 @@ d) alle societa' nelle cui attivita' economiche o finanziarie risultino, nella s
 
 > \- La legge n. 575/1965, reca: "Disposizioni contro la mafia".
 
-###### Art. 66
+#### Art. 66
 
 1\. Ai fini degli accertamenti induttivi previsti dall'articolo 2, comma 29, del decreto-legge 19 dicembre 1984, n. 853, convertito, con modificazioni, dalla legge 17 febbraio 1985, n. 17, e successive modificazioni, possono essere utilizzati i coefficienti presuntivi di cui all'articolo 38, comma 2.
 
@@ -3368,11 +3310,9 @@ d) alle societa' nelle cui attivita' economiche o finanziarie risultino, nella s
 
 > "29. Indipendentemente da quanto stabilito nell'art. 39 del D.P.R. 29 settembre 1973, n. 600, e negli articoli 54 e 55 del D.P.R. 26 ottobre 1972, n. 633, gli Uffici delle imposte dirette e gli Uffici dell'imposta sul valore aggiunto possono, previa richiesta per raccomandata al contribuente di chiarimenti da inviare per iscritto entro quarantacinque giorni, rettificare le dichiarazioni annuali presentate dai contribuenti che si sono avvalsi dei regimi di determinazione del reddito e dell'imposta sul valore aggiunto stabiliti nei precedenti commmi 1, 9 e 10 determinando induttivamente l'ammontare dei ricavi e dei compensi ovvero dei corrispettivi di operazioni imponibili in misura superiore a quella dichiarata, sulla base di presunzioni desunte in relazione al tipo di attivita', da uno o piu' dei seguenti elementi: dimensioni e ubicazione dei locali destinati all'esercizio, altri beni strumentali impiegati, numero, qualita' e retribuzioni degli addetti, acquisti di materie prime e sussidiarie, di semilavorati e di merci, consumi di energia, carburanti, lubrificanti e simili, assicurazioni stipulate, nonche' altri elementi che potranno essere indicati con decreti del Ministro delle finanze anche per singole attivita'. Negli avvisi di accertamento devono essere specificamente indicati i fatti che danno fondamento alla presunzione. Ai fini dei controlli si applicano le disposizioni degli articoli 6 e 7 della legge 24 aprile 1980, n. 146, relative alla programmazione dell'attivita' degli Uffici della Guardia di finanza con decreti del Ministro delle fnanze. Tra i criteri selettivi e di sorteggio ivi previsti sara' data adeguata rilevanza alla esistenza di constatate infrazioni degli obblighi di fatturazione e degli obbligi relativi alle bolle di accompagnamento, alle ricevute e scontrini fiscali e ai contrassegni prescritti ai fini dell'imposta sul valore aggiunto".
 
-## TITOLO VII - DELEGA AL PRESENTE DELLA REPUBBLICA
+## TITOLO VII - DELEGA AL PRESENTE DELLA REPUBBLICA PER CONCESSIONEDI AMNISTIA PER REATI TRIBUTARI
 
-### PER CONCESSIONEDI AMNISTIA - PER REATI TRIBUTARI
-
-###### Art. 67
+#### Art. 67
 
 1\. Il Presidente della Repubblica e' delegato a concedere amnistia per i reati previsti in materia di imposte dirette e di imposta sul valore aggiunto, commessi fino al 30 settembre 1991 e riferibili ai periodi di imposta che possono essere definiti secondo le disposizioni del titolo VI della presente legge.
 
@@ -3486,7 +3426,7 @@ b) relativamente alle altre contravvenzioni, se la dichiarazione integrativa rec
 
 > c) ovvero in mancanza di approvazione del bilancio dell'esercizio precedente o del prospetto contabile previsto nell'art. 2433-bis, quinto comma, oppure in difformita' da essi, ovvero sulla base di un bilancio o di un prospetto contabile falsi".
 
-###### Art. 68
+#### Art. 68
 
 1\. Il Presidente della Repubblica e' delegato a stabilire che l'amnistia non si applica:
 
@@ -3546,11 +3486,11 @@ c) alle persone indiziate di appartenenza ad associazioni di tipo mafioso e sott
 
 ## TITOLO VIII - DISPOSIZIONI VARIE
 
-###### Art. 69
+#### Art. 69
 
 Per l'anno 1992 le entrate derivanti dalle disposizioni del titolo VI della presente legge sono iscritte nell'entrata del bilancio dello stato per una quota di lire 10.000 miliardi; il gettito eccedente tale importo sara' icritto in bilancio in relazione alle risultanze delle dichiarazioni integrative presentate.
 
-###### Art. 70
+#### Art. 70
 
 1\. La lettera c) del primo comma dell'articolo 74 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, gia' sostituita dall'articolo 34, comma 3, lettera e), del decreto-legge 2 marzo 1989, n. 69, convertito, con modificazioni, dalla legge 27 aprile 1989, n. 154, e' sostituita dalla seguente:
 
@@ -3592,7 +3532,7 @@ AGGIORNAMENTO (21)
 
 La L. 24 dicembre 2003, n. 350 ha disposto (con l'art. 2, comma 3) che "Il termine di cui al comma 3 dell'articolo 70 della legge 30 dicembre 1991, n. 413, concernente le agevolazioni tributarie per la formazione e l'arrotondamento della proprieta' contadina, prorogato, da ultimo, al 31 dicembre 2003 dall'articolo 52, comma 22, della legge 28 dicembre 2001, n. 448, e' ulteriormente prorogato al 31 dicembre 2004".
 
-###### Art. 71
+#### Art. 71
 
 1\. All'articolo 7 della legge 30 luglio 1990, n. 218, dopo il comma 2, sono inseriti i seguenti:
 
@@ -3600,7 +3540,7 @@ La L. 24 dicembre 2003, n. 350 ha disposto (con l'art. 2, comma 3) che "Il termi
 
 2-ter. Dalla data in cui ha effetto il conferimento, la societa' bancaria conferitaria subentra agli effetti fiscali negli obblighi, nei diritti e nelle situazioni giuridiche concernenti l'azienda conferita a norma dell'articolo 1, ivi compresi gli obblighi di dichiarazione nonche' quelli di versamento degli acconti relativi sia alle imposte proprie che alle ritenute sui redditi altrui. Il patrimonio netto della societa' conferitaria, comunque determinato, conserva il regime fiscale di quello dell'ente o degli enti conferenti, anche ai fini dell'applicazione dell'articolo 105 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917".
 
-###### Art. 72
+#### Art. 72
 
 1\. All'articolo 3 della legge 29 dicembre 1990, n. 408, e' aggiunto, in fine, il seguente comma:
 
@@ -3630,7 +3570,7 @@ La L. 24 dicembre 2003, n. 350 ha disposto (con l'art. 2, comma 3) che "Il termi
 
 > 9-bis. Le disposizioni dei commi 8 e 9 non si applicano nel caso in cui, per effetto del conferimento dei beni rivalutati, nel patrimonio netto della societa' conferitaria venga ricostituito, anche ai soli fini fiscali, il saldo attivo di rivalutazione per un ammontare corrispondente al maggior valore attribuito ai beni conferiti. In tal caso le disposizioni di cui al comma 4 si applicano nei confronti della societa' conferitaria".
 
-###### Art. 73
+#### Art. 73
 
 1\. Per la regione Trentino-Alto Adige la commissione regionale di cui all'articolo 5, comma 6, della legge 2 gennaio 1991, n. 1, e' istituita mediante insediamento di sezioni provinciali presso le camere di commercio, industria, artigianato ed agricoltura di Bolzano e di Trento.
 
@@ -3640,7 +3580,7 @@ La L. 24 dicembre 2003, n. 350 ha disposto (con l'art. 2, comma 3) che "Il termi
 
 > "6. Presso ogni camera di commercio, industria, artigianato e agricoltura, con sede nei capoluoghi di regione, e' istituita, entro nove mesi dalla data di entrata in vigore della presente legge, una commissione rigionale per l'albo dei promotori di servizi finanziari composta da tre membri, di cui uno nominato dal presidente della stessa camera di commercio, uno dalle organizzazioni di categoria maggiormente rappresentative ed uno dal presidente della CONSOB".
 
-###### Art. 74
+#### Art. 74
 
 1\. I provvedimenti di cui all'ultimo periodo del comma 2 dell'articolo 18 della legge 2 gennaio 1991, n. 1, limitatamente alle societa' di intermediazione mobiliare autorizzate all'esercizio dell'attivita' di cui all'articolo 1, comma 1, lettera a), della medesima legge, per quanto concerne la negoziazione di valori mobiliari per conto terzi in borsa e nel mercato ristretto, acquistino efficacia dal 1° gennaio 1992.
 
@@ -3658,7 +3598,7 @@ La L. 24 dicembre 2003, n. 350 ha disposto (con l'art. 2, comma 3) che "Il termi
 
 > a) negoziazione per conto proprio o per conto terzi, ovvero sia per conto proprio che conto terzi, di valori mobiliari".
 
-###### Art. 75
+#### Art. 75
 
 1\. Le prestazioni di servizi comunque afferenti lo stazionamento o il movimento di unita' da diporto nei porti o approdi turistici si considerano operazioni imponibili a decorrere dal 1° gennaio 1989 e ad esse e' applicabile l'aliquota del 19 per cento. Non si fa luogo al rimborso dell'imposta versata, anteriormente alla data di entrata in vigore della presente legge, in misura superiore a quella indicata nel presente articolo. Le rettifiche effettuate dagli uffici, relativamente alle prestazioni di cui al presente articolo, per periodi di imposta decorsi anteriormente alla data di entrata in vigore della presente legge non comportano l'irrogazione di sanzioni amministrative.
 
@@ -3674,7 +3614,7 @@ La L. 24 dicembre 2003, n. 350 ha disposto (con l'art. 2, comma 3) che "Il termi
 
 7\. Le disposizioni di cui all'articolo 6, comma 1, lettera b), della legge 14 giugno 1990, n. 158, concernente delega al Governo in materia di autonomia impositiva delle regioni, e quelle di cui all'articolo 9 del decreto legislativo 21 dicembre 1990, n. 398, emanato in attuazione della delega anzidetta, devono intendersi rivolte ad escludere le imprese industriali ed artigiane che impiegano gas metano come combustibile sia dall'addizionale regionale all'imposta erariale di consumo sia dalla imposta regionale sostitutiva.
 
-###### Art. 76
+#### Art. 76
 
 1\. Le rendite corrisposte in Italia d parte della assicurazione invalidita', vecchiaia e superstiti Svizzera (AVS), maturata sulla base anche di contributi previdenziali tassati alla fonte in Svizzera, sono assoggettate a ritenuta unica del 5 per cento da parte degli istituti italiani, quali sostituti d'imposta, per il cui tramite l'AVS Svizzera le eroga ai beneficiari in Italia. Le rendite, giusta l'accordo tra Italia e Svizzera del 3 ottobre 1974, di cui alla legge 26 luglio 1975, n. 386, non formano piu' oggetto di denuncia fiscale in Italia.
 
@@ -3688,7 +3628,7 @@ AGGIORNAMENTO (42)
 
 La L. 29 dicembre 2022, n. 197 ha disposto (con l'art. 1, comma 78) che "Le disposizioni del comma 1-ter dell'articolo 76 della legge 30 dicembre 1991, n. 413, introdotto dal comma 77 del presente articolo, si applicano a decorrere dalla data di entrata in vigore del decreto-legge 30 settembre 2015, n. 153, convertito, con modificazioni, dalla legge 20 novembre 2015, n. 187. Non si da' luogo al rimborso o alla ripetizione di quanto gia' versato a titolo definitivo".
 
-###### Art. 77
+#### Art. 77
 
 1\. Il direttore generale delle imposte dirette ed il direttore generale delle tasse ed imposte indirette sugli affari fanno parte del comitato consultivo per l'applicazione delle norme antielusione di cui all'articolo 21, comma 4, fino alla data di nomina, in applicazione della legge 29 ottobre 1991, n. 358, del direttore generale e dei direttori centrali del dipartimento delle entrate. Da tale data fanno parte del predetto comitato il direttore generale del dipartimento delle entrate ed il direttore centrale preposto da una direzione centrale del dipartimento stesso con competenza in materia di imposte dirette e di tasse ed imposte indirette.
 
@@ -3696,7 +3636,7 @@ La L. 29 dicembre 2022, n. 197 ha disposto (con l'art. 1, comma 78) che "Le disp
 
 3\. ((COMMA ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107)).
 
-###### Art. 78
+#### Art. 78
 
 1\. COMMA ABROGATO DAL D.LGS. 28 DICEMBRE 1998, N. 490.
 
@@ -3862,7 +3802,7 @@ AGGIORNAMENTO (40)
 
 L'aggiornamento in calce, precedentemente disposto dall'art. 1, comma 5 del D.L. 2 marzo 2020, n. 9 e' stato eliminato; la modifica ha perso efficacia per effetto dell'abrogazione del D.L. medesimo ad opera della L. 24 aprile 2020, n. 27, la quale ne ha contestualmente fatti salvi gli effetti.
 
-###### Art. 79
+#### Art. 79
 
 1\. Fino alla data di inizio delle attivita' dei nuovi uffici periferici da istituirsi per effetto della ristrutturazione del Ministero delle finanze, e' istituito un uffico provinciale dell'imposta sul valore aggunto nella citta' di Lecco; la circoscrizione di tale ufficio comprende i comuni appartenenti alla istituenda provincia di Lecco.
 
@@ -3874,7 +3814,7 @@ L'aggiornamento in calce, precedentemente disposto dall'art. 1, comma 5 del D.L.
 
 > "Art. 2. 1. I decreti ministeriali di approvazione dei modelli di dichiarazione devono essere pubblicati nella Gazzetta Ufficiale non oltre il 15 dicembre dell'anno precedente a quello in cui devono essere utilizzati, relativamente all'imposta sul valore aggiunto, e non oltre il 15 gennaio dell'anno in cui devono essere utilizzati, relativamente alle imposte sui redditi.".
 
-###### Art. 80
+#### Art. 80
 
 1\. All'articolo 1, comma 8, del decreto-legge 9 settembre 1988, n. 397, convertito, con modificazioni, dalla legge 9 novembre 1988, n. 475, dopo le parole: "ai sacchetti di plastica", sono soppresse le parole: "non biodegradabili". I commi terzo e quarto dell'articolo 1 e l'articolo 3 del decreto del Ministro delle finanze 28 febbraio 1989, n. 100, pubblicato nella Gazzetta Ufficiale n. 66 del 20 marzo 1989, sono abrogati, e all'articolo 1, primo comma, del medesimo decreto sono soppresse le parole: "non biodegradabili".
 
@@ -3894,7 +3834,7 @@ L'aggiornamento in calce, precedentemente disposto dall'art. 1, comma 5 del D.L.
 
 > Per la determinazione del presupposto dell'obbligazione tributaria nelle importazioni si aplicano le vigenti disposizioni legislative in materia doganale.".
 
-###### Art. 81
+#### Art. 81
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
@@ -3912,7 +3852,7 @@ Visto il Guardasigilli: MARTELLI
 
 ## TITOLO VIII - DISPOSIZIONI VARIE
 
-###### Allegato A
+#### Allegato A
 
 ALLEGATO A
 
@@ -3972,7 +3912,7 @@ Oltre 3000...... 27 25 27 33
 
 ====================================================================
 
-###### Allegato B
+#### Allegato B
 
 ALLEGATO B
 

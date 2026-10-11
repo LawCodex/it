@@ -32,21 +32,21 @@ PROMULGA
 
 il seguente decreto legislativo, approvato dai Consiglio dei Ministri con deliberazione del 10 gennaio 1948:
 
-## MINISTERO DELLE FINANZE - TITOLO I
+## MINISTERO DELLE FINANZE
 
-### Amministrazione delle imposte dirette e del catasto - e dei servizi tecnici erariali.
+## TITOLO I - Amministrazione delle imposte dirette e del catasto e dei servizi tecnici erariali.
 
-#### Art. 1
+### Art. 1
 
 I titoli I, II e V della tabella A, ed i titoli I, II e III della tabella C, annesse al decreto legislativo del Capo provvisorio dello Stato 11 maggio 1947, n. 378, sono sostituiti dai corrispondenti titoli riportati nelle rispettive tabelle allegate al presente decreto, firmate dal Ministro per le finanze.
 
 Alla tabella C suddetta e' aggiunto il titolo V.
 
-#### Art. 2
+### Art. 2
 
 La sezione centrale per la formazione e per la conservazione dello "Schedario generale dei titoli azionari" e' autorizzata a percepire i diritti stabiliti nel titolo VI della tabella allegato A.
 
-#### Art. 3
+### Art. 3
 
 Le visure, le copie, i certificati e gli estratti indicati nel titolo VI della tabella allegato A, potranno essere richiesti:
 
@@ -60,27 +60,25 @@ d) dagli eredi del titolare delle azioni;
 
 e) da chi sia autorizzato per legge o per procura.
 
-#### Art. 4
+### Art. 4
 
 La Sezione centrale per la formazione e per la conservazione dello "Schedario generale dei titoli azionari" e' tenuta a rilasciare ricevuta ai richiedenti dei diritti riscossi a norma del titolo VI della tabella, allegato A, annotandone l'importo in apposito registro.
 
 L'ammontare dei diritti deve essere versato mensilmente sul conto corrente postale di cui all'art. 3 del decreto legislativo luogotenenziale 12 ottobre 1945, n. 672.
 
-#### Art. 5
+### Art. 5
 
 Il primo comma dell'art. 2 del decreto legislativo del Capo provvisorio dello Stato 11 maggio 1947, n. 378, e' sostituito dal seguente:
 
 "Il diritto di riscontro sulle quietanze indicato al titolo V della tabella prevista dall'art. 1 e' riscosso dagli esattori e l'ammontare di esso, afferente a tutti i tributi pagati fino all'ultimo giorno di ciascun mese pari, e' versato non oltre il giorno 8 del mese successivo sullo stesso conto corrente postale, al quale affiniscono i compensi disposti dal decreto legislativo luogotenenziale 12 ottobre 1945, n. 672, modificato dal decreto legislativo del Capo provvisorio dello Stato 11 maggio 1947, n. 378 e dal presente decreto".
 
-## TITOLO II - Amministrazione delle tasse e delle imposte indirette
+## TITOLO II - Amministrazione delle tasse e delle imposte indirette sugli affari.
 
-### sugli affari.
-
-#### Art. 6
+### Art. 6
 
 La tabella D annessa al decreto legislativo luogotenenziale 12 ottobre 1945, n. 672, modificato dall'art. 8 del decreto legislativo del Capo provvisorio dello Stato 11 maggio 1947, n. 378, e' soppressa e sostituita dalla tabella D annessa al presente decreto firmata dal Ministro per le finanze.
 
-#### Art. 7
+### Art. 7
 
 L'art. 10 del decreto legislativo del Capo provvisorio dello Stato 11 maggio 1947, n. 378, e' sostituito dal seguente:
 
@@ -98,13 +96,13 @@ del 50 per cento oltre lire 240.000.
 
 Agli effetti della determinazione del diritto erariale l'ammontare delle spese di ufficio, di cui all'art. 37 della legge 25 giugno 1943, n. 540, sulle imposte ipotecarie, e' stabilito con decreto Ministeriale e con lo stesso mezzo riveduto per ogni esercizio finanziario".
 
-#### Art. 8
+### Art. 8
 
 La liquidazione del diritto erariale di cui all'articolo precedente deve esser fatta, per l'esercizio finanziario 1947-48, sugli incassi globali dei diritti e compensi riscossi nell'intero esercizio.
 
 ## TITOLO III - Amministrazione delle dogane e delle imposte indirette.
 
-#### Art. 9
+### Art. 9
 
 Alle tabelle annesse al decreto legislativo del Capo provvisorio dello Stato 11 maggio 1947, n. 378, e' aggiunta la tabella E allegata al presente decreto, firmata dal Ministro per le finanze.
 
@@ -112,7 +110,7 @@ Gli Uffici delle dogane e delle imposte di fabbricazione e dei laboratori chimic
 
 Per la riscossione dei diritti suddetti valgono le disposizioni stabilite dalla legge 25 settembre 1940, n. 1424, per i diritti doganali.
 
-#### Art. 10
+### Art. 10
 
 I diritti di cui ai titoli I e III dell'allegata tabella E sono liquidati e riscossi sui documenti medesimi ai quali si riferiscono e, quando cio' non sia possibile, con separate bollette di quietanza rilasciate dagli uffici doganali.
 
@@ -120,17 +118,17 @@ I diritti di cui al titolo II dell'allegata tabella E sono riscossi con versamen
 
 Il diritto dovuto sulle bollette di legittimazione rilasciate da uffici diversi da quelli delle imposte di fabbricazione e' riscosso dagli uffici che hanno emesso le bollette e devoluto totalmente a loro favore, facendone menzione sulle relative bollette (matrici e figlie).
 
-#### Art. 11
+### Art. 11
 
 La ripartizione dei proventi fra il personale delle Dogane, delle imposte di fabbricazione e dei Laboratori chimici delle dogane, dopo prelevate le aliquote di cui ai successivo art. 13, verra' determinata secondo criteri da stabilirsi con decreto del Ministro per le finanze.
 
-#### Art. 12
+### Art. 12
 
 Al personale di cui al precedente articolo sono estese le disposizioni di cui agli articoli 17 e 19 del decreto legislativo del Capo provvisorio dello Stato 11 maggio 1947, n. 378.
 
 ## TITOLO IV - Disposizioni speciali.
 
-#### Art. 13
+### Art. 13
 
 ((L'art. 21 del decreto legislativo del Capo provvisorio dello Stato 11 maggio 1947, n. 378, e' sostituito dal seguente:
 
@@ -156,19 +154,19 @@ AGGIORNAMENTO (2)
 
 La L. 17 luglio 1951, n.575 ha disposto (con l'art. 3, comma 2) che "I decreti legislativi 11 maggio 1947, n. 378 e 28 gennaio 1948, n. 76 e le modifiche introdotte con la presente legge cessano di aver vigore il 31 dicembre 1952."
 
-## MINISTERO DEL TESORO - TITOLO V
+## MINISTERO DEL TESORO
 
-### ((Ministero del tesoro, Corte dei conti ed uffici dipendenti))
+## TITOLO V - ((Ministero del tesoro, Corte dei conti ed uffici dipendenti))
 
-#### Art. 14
+### Art. 14
 
 La tabella D annessa al decreto legislativo del Capo provvisorio dello Stato 11 maggio 1947, n. 378, e' soppressa e sostituita dalla tabella F annessa al presente decreto, firmata dal Ministro per il tesoro.
 
-#### Art. 15
+### Art. 15
 
 Per le somme riscosse in relazione alla tabella F di cui al precedente articolo e' stabilita in via definitiva la procedura di versamento al conto corrente postale previsto dal primo comma dell'art. 22 del decreto legislativo del Capo provvisorio dello Stato 11 maggio 1947, n. 378.
 
-#### Art. 16
+### Art. 16
 
 ((Sul totale dei diritti di cui alla, tabella F e' prelevata alla fine di ciascun bimestre una quota dell'1 per cento da accantonare in apposito fondo per concessione di sussidi immediati - in base a criteri da stabilirsi con decreti del Ministro per il tesoro - nei casi di morte dell'impiegato di ruolo o non di ruolo, nonche' dei salariati (o del pensionato che abbia appartenuto) comunque in servizio presso le amministrazioni di cui al titolo V della presente legge, o di morte del coniuge o di congiunti di primo grado, discendenti o ascendenti a suo carico, anche se non conviventi.
 
@@ -182,7 +180,7 @@ AGGIORNAMENTO (2)
 
 La L. 17 luglio 1951, n.575 ha disposto (con l'art. 3, comma 2) che "I decreti legislativi 11 maggio 1947, n. 378 e 28 gennaio 1948, n. 76 e le modifiche introdotte con la presente legge cessano di aver vigore il 31 dicembre 1952."
 
-#### Art. 17
+### Art. 17
 
 ((La ripartizione della somma di cui all'ultimo comma del precedente articolo e' effettuata con i criteri stabiliti dagli articoli 14 (lettere a), b) e ultimo comma), 15, 17 e 19 del decreto legislativo del Capo provvisorio dello Stato 11 maggio 1947, n. 378)). ((2))
 
@@ -192,7 +190,7 @@ AGGIORNAMENTO (2)
 
 La L. 17 luglio 1951, n.575 ha disposto (con l'art. 3, comma 2) che "I decreti legislativi 11 maggio 1947, n. 378 e 28 gennaio 1948, n. 76 e le modifiche introdotte con la presente legge cessano di aver vigore il 31 dicembre 1952."
 
-#### Art. 18
+### Art. 18
 
 ((ARTICOLO SOPPRESSO DALLA L. 17 LUGLIO 1951, N.575)). ((2))
 
@@ -202,7 +200,7 @@ AGGIORNAMENTO (2)
 
 La L. 17 luglio 1951, n.575 ha disposto (con l'art. 3, comma 2) che "I decreti legislativi 11 maggio 1947, n. 378 e 28 gennaio 1948, n. 76 e le modifiche introdotte con la presente legge cessano di aver vigore il 31 dicembre 1952."
 
-#### Art. 19
+### Art. 19
 
 ((ARTICOLO SOPPRESSO DALLA L. 17 LUGLIO 1951, N.575)). ((2))
 
@@ -214,27 +212,27 @@ La L. 17 luglio 1951, n.575 ha disposto (con l'art. 3, comma 2) che "I decreti l
 
 ## TITOLO VI - Disposizioni finali e comuni.
 
-#### Art. 20
+### Art. 20
 
 Il sesto comma dell'art. 13 ha effetto dal 1 giugno 1947.
 
-#### Art. 21
+### Art. 21
 
 La ripartizione dei diritti riscossi fino al 31 dicembre 1947 in base all'art. 22 del decreto legislativo del Capo provvisorio dello Stato 11 maggio 1947, n. 378, sara' fatta con i medesimi criteri indicati nei precedenti articoli 16, 17, 18 e 19.
 
-#### Art. 22
+### Art. 22
 
 Con decreto del Ministro per le finanze sara' stabilita la, quota dei diritti da devolversi - in misura non inferiore ad un quarto - a favore del personale delle ragionerie delle Intendenze di finanza per il periodo dal 1 giugno al 31 dicembre 1947, sul fondo costituito a norma del primo e quarto comma dell'art. 21 del decreto legislativo del Capo provvisorio dello Stato 11 maggio 1947, n. 378.
 
-#### Art. 23
+### Art. 23
 
 Il personale di Amministrazioni diverse da quelle delle finanze e del tesoro distaccato presso gli Uffici finanziari e del tesoro puo' essere ammesso, caso per caso, con valutazione della posizione individuale, alla ripartizione dei diritti di cui al presente decreto e sempreche' non partecipi ad analoghi compensi presso l'Amministrazione della quale organicamente fa parte.
 
-#### Art. 24
+### Art. 24
 
 Ad eccezione del personale del Catasto e dei Servizi tecnici erariali per il quale si osservano speciali criteri di ripartizione, il personale in servizio presso uffici finanziari diversi da quelli di appartenenza partecipa alla ripartizione dei diritti dell'ufficio di cui organicamente fa parte.
 
-#### Art. 25
+### Art. 25
 
 ((Il personale addetto agli uffici dipendenti dal Ministero delle finanze e da quello del tesoro, dalla Ragioneria generale dello Stato e dalla Corte dei conti puo' essere escluso dalla ripartizione dei diritti, qualora ricorrano motivi di demerito o quando fruisca di altri particolari compensi o benefici economici)). ((2))
 
@@ -246,7 +244,7 @@ AGGIORNAMENTO (2)
 
 La L. 17 luglio 1951, n.575 ha disposto (con l'art. 3, comma 2) che "I decreti legislativi 11 maggio 1947, n. 378 e 28 gennaio 1948, n. 76 e le modifiche introdotte con la presente legge cessano di aver vigore il 31 dicembre 1952."
 
-#### Art. 26
+### Art. 26
 
 Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -274,7 +272,7 @@ La L. 17 luglio 1951, n.575 ha disposto (con l'art. 3, comma 2) che "I decreti l
 
 ## TITOLO VI - Disposizioni finali e comuni.
 
-#### Allegati
+### Allegati
 
 ALLEGATO A.
 

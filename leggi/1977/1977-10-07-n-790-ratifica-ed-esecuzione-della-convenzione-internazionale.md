@@ -25,15 +25,15 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la convenzione internazionale delle telecomunicazioni, con tre allegati, un protocollo finale e sei protocolli addizionali, adottata a Malaga-Torremolinos il 25 ottobre 1973.
 
-##### Art. 2
+#### Art. 2
 
 Piena ed intera esecuzione e' data alla convenzione di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 45 della medesima.
 
-##### Art. 3
+#### Art. 3
 
 La quota annua di partecipazione dell'Italia all'Unione internazionale delle telecomunicazioni, prevista all'articolo 1 della succitata convenzione, sara' corrisposta dall'Amministrazione delle poste e delle telecomunicazioni.
 
@@ -49,7 +49,7 @@ Visto, il Guardasigilli: BONIFACIO
 
 ## Allegati
 
-##### Convention
+#### Convention
 
 CONVENTION INTERNATIONALE DES TELECOMMUNICATIONS
 
@@ -59,9 +59,7 @@ Parte di provvedimento in formato grafico
 
 ## PARTE PRIMA - DISPOSIZIONI FONDAMENTALI
 
-### CAPITOLO I
-
-#### COMPOSIZIONE, OGGETTO E STRUTTURA DELL'UNIONE
+### CAPITOLO I - COMPOSIZIONE, OGGETTO E STRUTTURA DELL'UNIONE
 
 TRADUZIONE NON UFFICIALE
 
@@ -73,7 +71,7 @@ PREAMBOLO
 
 1 I plenipotenziari dei Governi contraenti, pur riconoscendo pienamente a ciascun Paese il diritto sovrano di disciplinare le proprie telecomunicazioni, allo scopo di facilitare le relazioni tra i popoli mediante il buon funzionamento delle telecomunicazioni, hanno, di comune accordo, conchiuso la presente convenzione, che e' lo strumento fondamentale dell'Unione internazionale delle telecomunicazioni.
 
-##### ARTICOLO 1 - Composizione dell'Unione
+#### ARTICOLO 1 - Composizione dell'Unione
 
 2 1. L'Unione internazionale delle telecomunicazioni si compone di Membri che, tenuto conto del principio d'universalita' e dell'interesse a che la partecipazione all'Unione sia universale, sono:
 
@@ -85,7 +83,7 @@ PREAMBOLO
 
 6 2. In applicazione dei disposti del numero 5, se una domanda di adesione come Membro e' presentata nell'intervallo fra due Conferenze di plenipotenziari per via diplomatica e per il tramite del Paese dove e' fissata la sede dell'Unione, il segretario generale consulta i Membri dell'Unione; un Membro sara' considerato come astenutosi se non ha risposto nel termine di 4 mesi a contare dal giorno in cui e' stato consultato.
 
-##### ARTICOLO 2 - Diritti e obblighi dei Membri
+#### ARTICOLO 2 - Diritti e obblighi dei Membri
 
 7 1. 1 Membri dell'Unione hanno i diritti e sono sottoposti agli obblighi previsti nella Convenzione.
 
@@ -101,11 +99,11 @@ diritto di presentare i candidati ai posti di funzionari eletti di tutti gli org
 
 10 c) ogni Membro ha parimenti diritto a un voto in tutte le consultazioni effettuate per corrispondenza.
 
-##### ARTICOLO 3 - Sede dell'Unione
+#### ARTICOLO 3 - Sede dell'Unione
 
 11 La sede dell'Unione e' stabilita a Ginevra.
 
-##### ARTICOLO 4 - Oggetto dell'Unione
+#### ARTICOLO 4 - Oggetto dell'Unione
 
 12 1. L'Unione ha per oggetto:
 
@@ -135,7 +133,7 @@ disturbi nocivi tra le stazioni di radiocomunicazione di Paesi diversi;
 
 21 g) procede a studi, emana regolamenti, prende risoluzioni, elabora raccomandazioni e suggerimenti e raccoglie e pubblica informazioni concernenti le telecomunicazioni.
 
-##### ARTICOLO 5 - Struttura dell'Unione
+#### ARTICOLO 5 - Struttura dell'Unione
 
 22 L'Unione comprende gli organi seguenti:
 
@@ -153,7 +151,7 @@ a) il Segretariato generale;
 
 28 d) il Comitato consultivo internazionale telegrafico e telefonico (C.C.I.T.T.).
 
-##### ARTICOLO 6 - Conferenza di plenipotenziari
+#### ARTICOLO 6 - Conferenza di plenipotenziari
 
 29 1. La Conferenza di plenipotenziari e' composta di delegazioni rappresentanti i Membri. Essa e' convocata a intervalli regolari, normalmente ogni 5 anni.
 
@@ -183,7 +181,7 @@ conseguire gli scopi enunciati all'articolo 4 della presente Convenzione;
 
 40 k) tratta tutte le altre questioni di telecomunicazione giudicate opportune.
 
-##### ARTICOLO 7 - Conferenze amministrative
+#### ARTICOLO 7 - Conferenze amministrative
 
 41 1. Le conferenze amministrative dell'Unione comprendono;
 
@@ -203,7 +201,7 @@ a) la revisione parziale dei regolamenti amministrativi elencati al numero 571;
 
 47 (2) L'ordine del giorno di una conferenza amministrativa regionale deve comprendere unicamente questioni particolari delle telecomunicazioni di natura regionale, comprese le direttive destinate al Comitato internazionale di registrazione delle frequenze per quanto concerne il suo operato nella regione pertinente, sempre che tali direttive non pregiudichino gli interessi di altre regioni. Inoltre, le decisioni di una simile conferenza devono, in ogni caso, essere conformi alle disposizioni dei regolamenti amministrativi.
 
-##### ARTICOLO 8 - Consiglio d'amministrazione
+#### ARTICOLO 8 - Consiglio d'amministrazione
 
 48 1. (1) Il Consiglio d'amministrazione e' composto di 36 Membri dell'Unione eletti dalla Conferenza di plenipotenziari, tenuto conto della necessita' di un'equa rappresentanza di tutte le parti del mondo. Salvo nei casi di vacanza che si verificano nelle condizioni specificate nel regolamento generale, i Membri dell'Unione eletti nel Consiglio d'amministrazione adempiono il loro mandato fino alla data alla quale la Conferenza di plenipotenziari procede all'elezione di un nuovo Consiglio. Essi sono rieleggibili.
 
@@ -219,7 +217,7 @@ a) la revisione parziale dei regolamenti amministrativi elencati al numero 571;
 
 54 (3) Favorisce la cooperazione internazionale in vista di assicurare con tutti i mezzi a sua disposizione, e segnatamente con la partecipazione dell'Unione ai programmi appropriati delle Nazioni Unite, la cooperazione tecnica con i Paesi in via di sviluppo, conformemente allo scopo dell'Unione, che e' di favorire con tutti i mezzi possibili lo sviluppo delle telecomunicazioni.
 
-##### ARTICOLO 9 - Segretariato generale
+#### ARTICOLO 9 - Segretariato generale
 
 55 1. (1) Il Segretariato generale e' diretto da un segretario generale assistito da un vicesegretario generale.
 
@@ -237,7 +235,7 @@ a) la revisione parziale dei regolamenti amministrativi elencati al numero 571;
 
 62 4. Il vicesegretario generale assiste il segretario generale nell'esercizio delle sue funzioni e assume i compiti particolari che gli sono affidati dal segretario generale. Egli esercita le funzioni di segretario generale in assenza di quest'ultimo.
 
-##### ARTICOLO 10 - Comitato internazionale di registrazione delle frequenze
+#### ARTICOLO 10 - Comitato internazionale di registrazione delle frequenze
 
 63 1. Il Comitato internazionale di registrazione delle frequenze (I.F.R.B.) e' composto di 5 Membri indipendenti eletti dalla Conferenza di plenipotenziari. Questi Membri sono eletti tra i candidati proposti dai Paesi membri dell'Unione, in modo da assicurare una ripartizione equa tra le regioni del mondo. Ogni Membro dell'Unione puo' proporre un solo candidato, che deve essere cittadino del suo Paese.
 
@@ -255,7 +253,7 @@ frequenza fatte dai diversi Paesi, in modo da stabilire, in conformita' della pr
 
 69 e) tenere a giorno i documenti indispensabili all'esercizio delle sue funzioni.
 
-##### ARTICOLO 11 - Comitati consultivi internazionali
+#### ARTICOLO 11 - Comitati consultivi internazionali
 
 70 1. (1) Il Comitato consultivo internazionale delle radiocomunicazioni (C.C.I.R.) e' incaricato di eseguire studi e di emanare raccomandazioni inerenti alle questioni tecniche e d'esercizio specificamente relative alle radiocomunicazioni.
 
@@ -279,7 +277,7 @@ a) dall'assemblea plenaria;
 
 79 5. I metodi di lavoro dei Comitati consultivi internazionali sono definiti nel Regolamento generale.
 
-##### ARTICOLO 12 - Comitato di coordinazione
+#### ARTICOLO 12 - Comitato di coordinazione
 
 80 1. (1) Il Comitato di coordinazione assiste il segretario generale e gli da' pareri su questioni amministrative e finanziarie e di cooperazione tecnica interessanti parecchi organismi permanenti, come anche nel campo delle relazioni esterne e dell'informazione pubblica, tenendo pienamente conto in questo delle decisioni del Consiglio d'amministrazione e degli interessi dell'Unione tutta intera.
 
@@ -287,7 +285,7 @@ a) dall'assemblea plenaria;
 
 82 2. Il Comitato di coordinazione e' composto del vicesegretario generale, dei direttori dei Comitati consultivi internazionali e del presidente dal Comitato internazionale di registrazione delle frequenze; e' presieduto dal segretario generale.
 
-##### ARTICOLO 13 - I funzionari eletti e il personale dell'Unione
+#### ARTICOLO 13 - I funzionari eletti e il personale dell'Unione
 
 83 1. (1) Nell'adempimento delle loro funzioni, i funzionari e il personale dell'Unione non devono sollecitare ne' accettare istruzioni da nessun Governo, ne' da nessuna autorita' estranea all'Unione. Essi devono astenersi da ogni atto incompatibile con la loro situazione di funzionari internazionali.
 
@@ -299,7 +297,7 @@ a) dall'assemblea plenaria;
 
 87 3. La considerazione dominante nel reclutamento e nella fissazione delle condizioni d'impiego del personale deve essere la necessita' di assicurare all'Unione i servizi di persone che possiedano le piu' alte qualita' d'efficienza, di competenza e d'integrita'. L'importanza di un reclutamento effettuato su una base geografica la piu' larga possibile deve essere debitamente presa in considerazione.
 
-##### ARTICOLO 14 - Organizzazione dei lavori e direzione dei dibattiti in occasione di conferenze e di altre riunioni
+#### ARTICOLO 14 - Organizzazione dei lavori e direzione dei dibattiti in occasione di conferenze e di altre riunioni
 
 88 1. Per l'organizzazione dei loro lavori e la direzione dei loro dibattiti, le conferenze, le assemblee plenarie e le riunioni dei Comitati consultivi internazionali applicano il regolamento interno compreso nel Regolamento generale.
 
@@ -307,7 +305,7 @@ a) dall'assemblea plenaria;
 
 Tuttavia, queste regole complementari devono essere compatibili con le disposizioni dalla Convenzione e del Regolamento generale; se si tratta di regole complementari adottate da assemblee plenarie e da commissioni di studi, esse sono pubblicate sotto forma di risoluzione nei documenti delle assemblee plenarie.
 
-##### ARTICOLO 15 - Finanze dell'Unione
+#### ARTICOLO 15 - Finanze dell'Unione
 
 90 1. Le spese dell'Unione comprendono i costi attinenti:
 
@@ -345,7 +343,7 @@ classe di 8 unita'
 
 98 8. Le disposizioni che regolano le contribuzioni finanziarie delle aziende private riconosciute, degli organismi scientifici o industriali e delle organizzazioni internazionali figurano nel Regolamento generale.
 
-##### ARTICOLO 16 - Lingue
+#### ARTICOLO 16 - Lingue
 
 99 1. (1) Le lingue ufficiali dell'Unione sono: l'inglese, il cinese, lo spagnolo, il francese e il russo.
 
@@ -363,37 +361,37 @@ classe di 8 unita'
 
 L'interpretazione tra queste lingue e l'arabo e' assicurato alle Conferenze di plenipotenziari e alle conferenze amministrative dell'Unione.
 
-##### ARTICOLO 17 - Capacita' giuridica dell'Unione
+#### ARTICOLO 17 - Capacita' giuridica dell'Unione
 
 107 L'Unione gode, sul territorio di ciascuno dei suoi Membri, della capacita' giuridica che le e' necessaria per esercitare le sue funzioni e raggiungere i suoi obiettivi.
 
-## CAPITOLO II - DISPOSIZIONI GENERALI RELATIVE ALLE TELECOMUNICAZIONI
+### CAPITOLO II - DISPOSIZIONI GENERALI RELATIVE ALLE TELECOMUNICAZIONI
 
-##### ARTICOLO 18 - Diritto del pubblico di utilizzare il servizio internazionale delle telecomunicazioni
+#### ARTICOLO 18 - Diritto del pubblico di utilizzare il servizio internazionale delle telecomunicazioni
 
 108 I Membri riconoscono al pubblico il diritto di corrispondere per mezzo del servizio internazionale di corrispondenza pubblica. I servizi, le tasse e le garanzie sono le stesse per tutti gli utenti, in ogni categoria di corrispondenza, senza priorita' ne' preferenze di qualsiasi genere.
 
-##### ARTICOLO 19 - Arresto delle telecomunicazioni
+#### ARTICOLO 19 - Arresto delle telecomunicazioni
 
 109 1. I Membri si riservano il diritto di fermare la trasmissione di qualsiasi telegramma private che si reputi pericoloso per la sicurezza dello Stato o contrario alle sue leggi, all'ordine pubblico o al buon costume, a condizione di avvisare immediatamente l'ufficio di origine dell'arresto totale del telegramma o di una sua parte qualsiasi, salvo che una tale notificazione non sia considerata pericolosa per la sicurezza dello Stato.
 
 110 2. I Membri si riservano altresi' il diritto di interrompere qualsiasi telecomunicazione privata che possa reputarsi pericolosa per la sicurezza dello Stato o contraria alle sue leggi, all'ordine pubblico o al buon costume.
 
-##### ARTICOLO 20 - Sospensione del servizio
+#### ARTICOLO 20 - Sospensione del servizio
 
 111 Ogni Membro si riserva il diritto di sospendere il servizio internazionale delle telecomunicazioni per una durata indeterminata, sia in modo generale, sia per alcune relazioni soltanto e/o per talune specie di corrispondenze in partenza, in arrivo, o in transito, con l'obbligo di avvisarne immediatamente ciascuno degli altri Membri, per il tramite del segretariato generale.
 
-##### ARTICOLO 21 - Responsabilita'
+#### ARTICOLO 21 - Responsabilita'
 
 112 I Membri non accettano alcuna responsabilita' nei confronti degli utenti dei servizi internazionali delle telecomunicazioni, in particolare per quanto riguarda i reclami tendenti a ottenere il risarcimento di danni e interessi.
 
-##### ARTICOLO 22 - Segreto delle telecomunicazioni
+#### ARTICOLO 22 - Segreto delle telecomunicazioni
 
 113 1. I Membri si impegnano a prendere tutte le misure possibili, compatibili con il sistema di telecomunicazioni usato, per garantire il segreto delle corrispondenze internazionali.
 
 114 2. Essi si riservano tuttavia il diritto di trasmettere tali corrispondenze alle autorita' competenti allo scopo di salvaguardare l'applicazione della loro legislazione interna o l'esecuzione delle Convenzioni internazionali di cui sono parte.
 
-##### ARTICOLO 23 - Costruzione, esercizio e protezione delle vie e degli impianti di telecomunicazione
+#### ARTICOLO 23 - Costruzione, esercizio e protezione delle vie e degli impianti di telecomunicazione
 
 115 1. I Membri prendono i provvedimenti opportuni per stabilire, nelle migliori condizioni tecniche, le vie e gli impianti necessari per garantire lo scambio rapido e ininterrotto delle telecomunicazioni internazionali.
 
@@ -403,19 +401,19 @@ L'interpretazione tra queste lingue e l'arabo e' assicurato alle Conferenze di p
 
 118 4. Salvo accordi particolari, tutti i Membri prendono i provvedimenti necessari per garantire l'efficienza dei tratti di circuiti delle telecomunicazioni internazionali che si trovano sotto il loro controllo.
 
-##### ARTICOLO 24 - Notificazione delle contravvenzioni
+#### ARTICOLO 24 - Notificazione delle contravvenzioni
 
 119 Al fine di facilitare l'applicazione dei disposti dell'articolo 44, i Membri si impegnano a informarsi vicendevolmente sulle contravvenzioni ai disposti della presente Convenzione e dei Regolamenti annessi.
 
-##### ARTICOLO 25 - Priorita' delle telecomunicazioni concernenti la sicurezza della vita umana
+#### ARTICOLO 25 - Priorita' delle telecomunicazioni concernenti la sicurezza della vita umana
 
 120 I servizi internazionali delle telecomunicazioni devono concedere la precedenza assoluta alle telecomunicazioni concernenti la sicurezza della vita umana sui mari, su terra, nell'aria e nello spazio extraatmosferico e alle telecomunicazioni epidemiologiche d'urgenza eccezionale dell'Organizzazione mondiale della sanita'.
 
-##### ARTICOLO 26 - Priorita' dei telegrammi di Stato; delle chiamate e delle conversazioni telefoniche di Stato
+#### ARTICOLO 26 - Priorita' dei telegrammi di Stato; delle chiamate e delle conversazioni telefoniche di Stato
 
 121 Con riserva dei disposti degli articoli 25 e 36, i telegrammi di Stato godono del diritto di precedenza sugli altri telegrammi quando il mittente ne fa domanda. Le chiamate e le conversazioni telefoniche di Stato possono parimenti, a domanda speciale e nei limiti del possibile, fruire del diritto di priorita' sulle altre chiamate e conversazioni telefoniche.
 
-##### ARTICOLO 27 - Linguaggio segreto
+#### ARTICOLO 27 - Linguaggio segreto
 
 122 1. I telegrammi di Stato, come anche i telegrammi di servizio, possono essere redatti in linguaggio segreto in tutte le relazioni.
 
@@ -423,31 +421,31 @@ L'interpretazione tra queste lingue e l'arabo e' assicurato alle Conferenze di p
 
 124 3. I Membri che non ammettono i telegrammi privati in linguaggio segreto, in provenienza o a destinazione del loro territorio, devono accettarli in transito, salvo nel caso della sospensione del servizio prevista all'articolo 20.
 
-##### ARTICOLO 28 - Tasse e franchigia
+#### ARTICOLO 28 - Tasse e franchigia
 
 125 Le disposizioni relative alle tasse delle telecomunicazioni e i diversi casi in cui la franchigia e' accordata sono fissati nei Regolamenti amministrativi annessi alla presente Convenzione.
 
-##### ARTICOLO 29 - Compilazione e scambio dei conti
+#### ARTICOLO 29 - Compilazione e scambio dei conti
 
 126 I regolamenti dei conti internazionali sono considerati come transazioni correnti e operanti in relazione con gli obblighi internazionali correnti dei Paesi interessati, quando i Governi hanno conchiuso accordi al riguardo. In mancanza di accordi di tal genere o di accordi speciali conchiusi in virtu' dell'articolo 31, questi regolamenti di conti sono fatti in conformita' dei Regolamenti amministrativi.
 
-##### ARTICOLO 30 - Unita' monetaria
+#### ARTICOLO 30 - Unita' monetaria
 
 127 L'unita' monetaria usata nella composizione delle tariffe delle telecomunicazioni internazionali e nella compilazione dei conti internazionali e' il franco oro di 100 centesimi, del peso di 10/31 di grammo e al titolo di 0,900.
 
-##### ARTICOLO 31 - Accordi particolari
+#### ARTICOLO 31 - Accordi particolari
 
 128 I Membri riservano a se', alle aziende private da essi riconosciute e alle altre aziende debitamente autorizzate, la facolta' di conchiudere accordi speciali su questioni di telecomunicazioni che non interessano la generalita' dei Membri.
 
 Tuttavia, tali accordi non devono essere in contrasto con le disposizioni della Convenzione e dei Regolamenti amministrativi annessi, per quanto riguarda i disturbi nocivi che la loro applicazione potesse causare ai servizi di radiocomunicazione di altri Paesi.
 
-##### ARTICOLO 32 - Conferenze regionali, accordi regionali, organizzazioni regionali
+#### ARTICOLO 32 - Conferenze regionali, accordi regionali, organizzazioni regionali
 
 129 I Membri si riservano il diritto di tenere conferenze regionali, di conchiudere accordi regionali e di creare organizzazioni regionali nell'intento di regolare questioni concernenti le telecomunicazioni, suscettibili d'essere trattate su un piano regionale. Gli accordi regionali non devono pero' essere in contraddizione con la presente Convenzione.
 
-## CAPITOLO III - DISPOSIZIONI SPECIALI RELATIVE ALLE RADIOCOMUNICAZIONI
+### CAPITOLO III - DISPOSIZIONI SPECIALI RELATIVE ALLE RADIOCOMUNICAZIONI
 
-##### ARTICOLO 33 - Utilizzazione razionale dello spettro delle frequenze radioelettriche e dell'orbita dei satelliti geostazionari
+#### ARTICOLO 33 - Utilizzazione razionale dello spettro delle frequenze radioelettriche e dell'orbita dei satelliti geostazionari
 
 130 1. I Membri si sforzano di limitare il numero delle frequenze e l'estensione dello spettro utilizzato al minimo indispensabile per assicurare in modo soddisfacente il funzionamento dei servizi necessari.
 
@@ -455,7 +453,7 @@ A tale scopo, che si sforzano di applicare entro i piu' brevi termini, gli ultim
 
 131 2. Al momento di utilizzare le bande di frequenze per le radiocomunicazioni spaziali, i Membri tengono conto del fatto che le frequenze e l'orbita dei satelliti geostazionari sono risorse naturali limitate che devono essere utilizzate in modo efficace e economico, al fine di permettere un accesso equo a questa orbita e a queste frequenze ai differenti Paesi o gruppi di Paesi, secondo i loro bisogni e i mezzi tecnici di cui possono disporre, conformemente ai disposti del Regolamento delle radiocomunicazioni.
 
-##### ARTICOLO 34 - Intercomunicazione
+#### ARTICOLO 34 - Intercomunicazione
 
 132 1. Le stazioni che effettuano le radiocomunicazioni nel servizio mobile sono tenute, nei limiti della loro destinazione abituale, a scambiarsi reciprocamente le radiocomunicazioni senza distinzione del sistema radioelettrico da esse impiegato.
 
@@ -463,7 +461,7 @@ A tale scopo, che si sforzano di applicare entro i piu' brevi termini, gli ultim
 
 134 3. Nonostante le disposizioni del numero 132, una stazione puo' essere attribuita a un servizio internazionale limitato di telecomunicazione, atteso lo scopo di questa o altra circostanza indipendente dal sistema impiegato.
 
-##### ARTICOLO 35 - Disturbi nocivi
+#### ARTICOLO 35 - Disturbi nocivi
 
 135 1. Tutte le stazioni, qualunque sia il loro scopo, devono essere installate ed esercitate in modo da non cagionare disturbi nocivi alle comunicazioni o ai servizi radioelettrici degli altri Membri, delle aziende private riconosciute e delle altre aziende debitamente autorizzate ad esercitare un servizio di radio comunicazione e che funzionano conformemente alle disposizioni del Regolamento delle radiocomunicazioni.
 
@@ -471,15 +469,15 @@ A tale scopo, che si sforzano di applicare entro i piu' brevi termini, gli ultim
 
 137 3. Inoltre, i Membri riconoscono l'opportunita' che siano presi i provvedimenti praticamente possibili per impedire che il funzionamento degli apparecchi e degli impianti elettrici di ogni genere arrechi disturbi nocivi alle comunicazioni o ai servizi radioelettrici indicati al numero 135.
 
-##### ARTICOLO 36 - Chiamate e messaggi di soccorso
+#### ARTICOLO 36 - Chiamate e messaggi di soccorso
 
 138 Le stazioni di radiocomunicazioni sono obbligate ad accettare con priorita' assoluta le chiamate e i messaggi di soccorso, qualunque sia la loro provenienza, a rispondere a detti messaggi e a dare immediatamente il seguito che richiedono.
 
-##### ARTICOLO 37 - Segnali di soccorso, d'urgenza, di sicurezza o d'identificazione falsi o ingannatori
+#### ARTICOLO 37 - Segnali di soccorso, d'urgenza, di sicurezza o d'identificazione falsi o ingannatori
 
 139 I Membri si impegnano a prendere i provvedimenti necessari per reprimere la trasmissione o la messa in circolazione di segnali di soccorso, d'urgenza, di sicurezza o d'identificazione falsi o ingannatori, e a collaborare nell'intento di localizzare e di identificare le stazioni del loro Paese, che emettono questi segnali.
 
-##### ARTICOLO 38 - Impianti dei servizi di difesa nazionale
+#### ARTICOLO 38 - Impianti dei servizi di difesa nazionale
 
 140 1. I Membri conservano l'intera loro liberta' circa gli impianti radioelettrici militari dei loro eserciti e delle loro forze navali e aeree.
 
@@ -487,25 +485,25 @@ A tale scopo, che si sforzano di applicare entro i piu' brevi termini, gli ultim
 
 142 3. Inoltre, detti impianti, qualora siano adoperati nel servizio della corrispondenza pubblica o in altri servizi disciplinati dai Regolamenti amministrativi annessi alla presente Convenzione, devono conformarsi, in generale, alle prescrizioni regolamentari applicabili a tali servizi.
 
-## CAPITOLO IV - RELAZIONI CON LE NAZIONI UNITE E CON LE ORGANIZZAZIONI INTERNAZIONALI
+### CAPITOLO IV - RELAZIONI CON LE NAZIONI UNITE E CON LE ORGANIZZAZIONI INTERNAZIONALI
 
-##### ARTICOLO 39 - Relazioni con le Nazioni Unite
+#### ARTICOLO 39 - Relazioni con le Nazioni Unite
 
 143 1. Le relazioni tra le Nazioni Unite e l'Unione internazionale delle telecomunicazioni sono definite nell'Accordo conchiuso tra queste due organizzazioni, il cui testo figura nell'allegato 3 alla presente Convenzione.
 
 144 2. Conformemente alle disposizioni dell'articolo XVI dell'Accordo sopraccitato, i servizi d'esercizio delle telecomunicazioni delle Nazioni Unite godono dei diritti e sono sottoposti agli obblighi indicati nella presente Convenzione e nei Regolamenti amministrativi. Di conseguenza, essi hanno il diritto di assistere, a titolo consultivo, a tutte le conferenze dell'Unione, comprese le riunioni dei Comitati consultivi internazionali.
 
-##### ARTICOLO 40 - Relazioni con le organizzazioni internazionali
+#### ARTICOLO 40 - Relazioni con le organizzazioni internazionali
 
 145 Allo scopo di contribuire all'attuazione di una coordinazione internazionale completa nel campo delle telecomunicazioni, l'Unione collabora con le organizzazioni internazionali che hanno con essa comunanza d'interessi e di attivita'.
 
-## CAPITOLO V - APPLICAZIONE DELLA CONVENZIONE E DEI REGOLAMENTI
+### CAPITOLO V - APPLICAZIONE DELLA CONVENZIONE E DEI REGOLAMENTI
 
-##### ARTICOLO 41 - Disposizioni fondamentali e Regolamento generale
+#### ARTICOLO 41 - Disposizioni fondamentali e Regolamento generale
 
 146 In caso di divergenza tra una disposizione della prima parte della Convenzione (disposizioni fondamentali, numeri da 1 a 170) e una disposizione della seconda parte (Regolamento generale, numeri da 201 a 571), la prima parte prevale.
 
-##### ARTICOLO 42 - Regolamenti amministrativi
+#### ARTICOLO 42 - Regolamenti amministrativi
 
 147 1. Le disposizioni della Convenzione sono completate dai Regolamenti amministrativi, che regolano l'utilizzazione delle telecomunicazioni e vincolano tutti i Membri.
 
@@ -515,17 +513,17 @@ A tale scopo, che si sforzano di applicare entro i piu' brevi termini, gli ultim
 
 150 4. In caso di divergenza tra una disposizione della Convenzione e una disposizione di un Regolamento amministrativo, la Convenzione prevale.
 
-##### ARTICOLO 43 - Validita' dei Regolamenti amministrativi in vigore
+#### ARTICOLO 43 - Validita' dei Regolamenti amministrativi in vigore
 
 151 I Regolamenti amministrativi di cui al numero 147 sono quelli in vigore al momento della firma della presente Convenzione. Essi sono considerati come allegati alla presente Convenzione e rimangono valevoli, con riserva delle revisioni parziali che possono essere adottate ai sensi del numero 44, fino al momento dell'entrata in vigore dei nuovi Regolamenti elaborati dalle conferenze amministrative mondiali competenti e destinati a sostituirli quali allegati alla presente Convenzione.
 
-##### ARTICOLO 44 - Esecuzione della Convenzione e dei Regolamenti
+#### ARTICOLO 44 - Esecuzione della Convenzione e dei Regolamenti
 
 152 1. I Membri sono tenuti a conformarsi alle disposizioni della presente Convenzione e dei Regolamenti amministrativi ad essa allegati in tutti gli uffici e in tutti i posti di telecomunicazione installati e esercitati da essi e che assicurano servizi internazionali o che possono provocare disturbi nocivi ai servizi di radiocomunicazione di altri Paesi, salvo per quanto riguarda i servizi non soggetti a questi obblighi in virtu' delle disposizioni dell'articolo 38.
 
 153 2. Essi devono, inoltre, prendere i provvedimenti necessari per imporre l'osservanza delle disposizioni della presente Convenzione e dei Regolamenti allegati, alle aziende da loro autorizzate a impiantare e a esercitare telecomunicazioni, che assicurano servizi internazionali o che esercitano stazioni le quali possono provocare disturbi nocivi ai servizi di radiocomunicazione d'altri Paesi.
 
-##### ARTICOLO 45 - Ratifica della Convenzione
+#### ARTICOLO 45 - Ratifica della Convenzione
 
 154 1. La presente Convenzione sara' ratificata da ciascuno dei Governi firmatari, secondo le norme costituzionali vigenti nei rispettivi Paesi. Gli strumenti di ratifica saranno inviati, nel piu' breve tempo possibile, per via diplomatica e per il tramite del Governo dello Stato in cui si trova la sede dell'Unione, al segretario generale, che provvedera' a notificarli ai Membri.
 
@@ -537,35 +535,35 @@ A tale scopo, che si sforzano di applicare entro i piu' brevi termini, gli ultim
 
 158 4. Nel caso in cui uno o piu' Governi firmatari non ratificassero la Convenzione, questa non cessa di essere valida per i Governi che l'avranno ratificata.
 
-##### ARTICOLO 46 - Adesione alla Convenzione
+#### ARTICOLO 46 - Adesione alla Convenzione
 
 159 1. II Governo di un Paese che non ha firmato la presente Convenzione puo' aderirvi in qualsiasi momento, riservate le disposizioni dell'articolo 1.
 
 160 2. Lo strumento di adesione e' inviato per via diplomatica e per il tramite del Governo del Paese in cui si trova la sede dell'Unione, al segretario generale. L'adesione ha effetto, sempre che non sia stato convenuto altrimenti, a contare dal giorno del deposito. Il segretario generale notifica l'adesione ai Membri e trasmette a ciascuno di essi una copia autentica dello strumento.
 
-##### ARTICOLO 47 - Denuncia della Convenzione
+#### ARTICOLO 47 - Denuncia della Convenzione
 
 161 1. Ogni Membro che ha ratificato la presente Convenzione o vi ha aderito ha il diritto di denunciarla con una notificazione inviata al segretario generale per via diplomatica e per il tramite del Governo del Paese in cui si trova la sede dell'Unione il segretario generale ne da' avviso agli altri Membri.
 
 162 2. Questa denuncia ha effetto allo spirare del termine di un anno a contare dal giorno del ricevimento della notificazione da parte del segretario generale.
 
-##### ARTICOLO 48 - Abrogazione della Convenzione internazionale delle telecomunicazioni di Montreux - 1965
+#### ARTICOLO 48 - Abrogazione della Convenzione internazionale delle telecomunicazioni di Montreux - 1965
 
 163 La presente Convenzione abroga e sostituisce la Convenzione internazionale delle telecomunicazioni di Montreux (1965) nelle relazioni tra i Governi contraenti.
 
-##### ARTICOLO 49 - Relazioni con gli Stati non contraenti
+#### ARTICOLO 49 - Relazioni con gli Stati non contraenti
 
 164 Tutti i Membri riservano a se' e alle aziende private riconosciute la facolta' di stabilire le condizioni alle quali essi ammettono le telecomunicazioni scambiate con uno Stato che non e' partecipe della presente Convenzione. Se una telecomunicazione originaria di uno Stato non contraente e' accettata da un Membro, essa dev'essere trasmessa e, se utilizza le vie di telecomunicazioni d'un Membro, sono applicabili ad essa le disposizioni obbligatorie della Convenzione e dei Regolamenti amministrativi come anche le tasse normali.
 
-##### ARTICOLO 50 - Composizione delle controversie
+#### ARTICOLO 50 - Composizione delle controversie
 
 165 1. I Membri possono comporre le loro controversie, circa le questioni riguardanti l'interpretazione o l'applicazione della presente Convenzione o dei Regolamenti previsti all'articolo 42, o in via diplomatica, o seguendo le procedure stabilite per i trattati bilaterali o multilaterali conchiusi tra loro per la composizione delle controversie internazionali, o con qualsiasi altro modo da essi stabilito di comune accordo.
 
 166 2. Qualora non fosse accettato nessuno di questi mezzi di composizione delle controversie, ogni Membro, parte in una controversia, puo' fare ricorso all'arbitrato, conformemente alla procedura prevista nel Regolamento generale o nel Protocollo addizionale facoltativo, secondo il caso.
 
-## CAPITOLO VI - DEFINIZIONI
+### CAPITOLO VI - DEFINIZIONI
 
-##### ARTICOLO 51 - Definizioni
+#### ARTICOLO 51 - Definizioni
 
 167 Nella presente Convenzione, salvo non risulti altrimenti dal contesto:
 
@@ -573,9 +571,9 @@ a) i termini definiti all'allegato 2 alla presente Convenzione hanno il senso iv
 
 168 b) gli altri termini definiti nei Regolamenti indicati nell'articolo 42 hanno il senso riconosciuto in questi Regolamenti.
 
-## CAPITOLO VII - DISPOSIZIONE FINALE
+### CAPITOLO VII - DISPOSIZIONE FINALE
 
-##### ARTICOLO 52 - Entrata in vigore e registrazione della Convenzione
+#### ARTICOLO 52 - Entrata in vigore e registrazione della Convenzione
 
 169 La presente Convenzione entrera' in vigore il 1 gennaio 1975 tra i Membri per i quali gli strumenti di ratifica o adesione saranno depositati prima di questa data.
 
@@ -583,11 +581,9 @@ a) i termini definiti all'allegato 2 alla presente Convenzione hanno il senso iv
 
 ## PARTE SECONDA - REGOLAMENTO GENERALE
 
-### CAPITOLO VIII
+### CAPITOLO VIII - FUNZIONAMENTO DELL'UNIONE
 
-#### FUNZIONAMENTO DELL'UNIONE
-
-##### ARTICOLO 53 - Conferenza di plenipotenziari
+#### ARTICOLO 53 - Conferenza di plenipotenziari
 
 201 1. (1) La Conferenza di plenipotenziari si riunisce a intervalli regolari, normalmente ogni cinque anni.
 
@@ -601,7 +597,7 @@ a) a domanda di almeno un quarto dei Membri dell'Unione, presentata individualme
 
 205 (2) Nei due casi, vanno nuovamente stabiliti la data e/o il luogo, d'intesa con la maggioranza dei Membri dell'Unione.
 
-##### ARTICOLO 54 - Conferenze amministrative
+#### ARTICOLO 54 - Conferenze amministrative
 
 206 1. (1) L'ordine del giorno di una conferenza amministrativa e' fissato dal Consiglio d'amministrazione, d'intesa con la maggioranza dei Membri dell'Unione, se si tratta di una conferenza amministrativa mondiale, o della maggioranza dei Membri della regione interessata se si tratta di una conferenza amministrativa regionale, riservati i disposti del numero 225.
 
@@ -657,7 +653,7 @@ sono indirizzate individualmente al segretario generale che le sottopone all'app
 
 Se il numero delle risposte ricevute non supera la meta' del numero dei Membri dell'Unione consultati, si procede a una nuova consultazione il cui risultato sara' determinante qualunque sia il numero dei suffragi espressi.
 
-##### ARTICOLO 55 - Consiglio d'amministrazione
+#### ARTICOLO 55 - Consiglio d'amministrazione
 
 226 1. (1) Il Consiglio d'amministrazione e' composto di Membri dell'Unione eletti dalla Conferenza di plenipotenziari.
 
@@ -759,7 +755,7 @@ stipendi fissate dalle Nazioni Unite per le categorie corrispondenti del regime 
 
 261 q) invia ai Membri dell'Unione, il piu' presto possibile dopo ciascuna delle sue sessioni, rapporti succinti sui lavori svolti come anche ogni documento che giudica utile.
 
-##### ARTICOLO 56 - Segretariato generale
+#### ARTICOLO 56 - Segretariato generale
 
 262 1. Il segretario generale:
 
@@ -833,7 +829,7 @@ utilizzare nei servizi internazionali delle telecomunicazioni che dipendono da t
 
 291 2. Il segretario generale o il vicesegretario generale puo' assistere, a titolo consultivo, alle assemblee plenarie dei Comitati consultivi internazionali e a tutte le Conferenze dell'Unione; il segretario generale o il suo rappresentante puo' partecipare, a titolo consultivo, a tutte le altre adunanze dell'Unione; la loro partecipazione alle adunanze del Consiglio d'amministrazione e' disciplinata dai disposti del numero 235.
 
-##### ARTICOLO 57 - Comitato internazionale di registrazione delle frequenze
+#### ARTICOLO 57 - Comitato internazionale di registrazione delle frequenze
 
 292 1. (1) I membri del Comitato internazionale di registrazione delle frequenze devono essere pienamente qualificati per la loro competenza tecnica nel campo delle radiocomunicazioni e avere un'esperienza pratica in materia di assegnazione e di utilizzazione delle frequenze.
 
@@ -859,7 +855,7 @@ Essi restano normalmente in carica fino alla data stabilita dalla conferenza che
 
 302 4. Nessun Membro del Comitato deve, nell'esercizio delle sue funzioni, chiedere o ricevere istruzioni da alcun Governo, ne' da alcun Membro d'un Governo qualsiasi, ne' da alcuna organizzazione o persona pubblica o privata. Inoltre, ciascun Membro deve rispettare il carattere internazionale del Comitato e delle funzioni dei suoi Membri, e non deve, in nessun caso, cercare d'influenzare qualcuno di essi nell'esercizio delle sue funzioni.
 
-##### ARTICOLO 58 - Comitati consultivi internazionali
+#### ARTICOLO 58 - Comitati consultivi internazionali
 
 303 1. Il funzionamento di ogni Comitato consultivo internazionale e' assicurato mediante:
 
@@ -883,7 +879,7 @@ plenaria e' tenuta, se possibile, almeno otto mesi prima di questa conferenza;
 
 309 (2) A domanda dei Paesi interessati, ogni Comitato consultivo puo' parimenti eseguire studi e dare consigli su questioni relative alle telecomunicazioni nazionali di questi Paesi. Lo studio di tali questioni e' disciplinato dai disposti del numero 308.
 
-##### ARTICOLO 59 - Comitato di coordinazione
+#### ARTICOLO 59 - Comitato di coordinazione
 
 310 1. (1) Il Comitato di coordinazione coadiuva il segretario generale nello svolgimento dei compiti che gli sono assegnati in virtu' dei numeri 282, 285, 288 e 289.
 
@@ -897,9 +893,9 @@ In tali circostanze, egli fa rapporto senza indugio e per iscritto ai Membri del
 
 314 3. Il Comitato si riunisce su convocazione del suo presidente, normalmente almeno una volta al mese.
 
-## CAPITOLO IX - DISPOSIZIONI GENERALI CONCERNENTI LE CONFERENZE
+### CAPITOLO IX - DISPOSIZIONI GENERALI CONCERNENTI LE CONFERENZE
 
-##### ARTICOLO 60 - Invito e ammissione alle Conferenze di plenipotenziari in caso di partecipazione di un Governo invitante
+#### ARTICOLO 60 - Invito e ammissione alle Conferenze di plenipotenziari in caso di partecipazione di un Governo invitante
 
 315 1. Il Governo invitante, d'intesa con il Consiglio d'amministrazione, fissa la data definitiva e il luogo preciso della conferenza.
 
@@ -927,7 +923,7 @@ a) le delegazioni specificate nell'allegato 2;
 
 326 d) gli osservatori delle istituzioni specializzate e l'Agenzia internazionale dell'energia atomica, conformemente al numero 319.
 
-##### ARTICOLO 61 - Invito e ammissione alle conferenze amministrative in caso di partecipazione di un Governo invitante
+#### ARTICOLO 61 - Invito e ammissione alle conferenze amministrative in caso di partecipazione di un Governo invitante
 
 327 1. (1) Le disposizioni dei numeri 315 a 321 sono applicabili alle conferenze amministrative.
 
@@ -957,7 +953,7 @@ a) le delegazioni specificate nell'allegato 2;
 
 339 g) gli organismi permanenti dell'Unione, alle condizioni previste al numero 322.
 
-##### ARTICOLO 62 - Procedura per la convocazione di conferenze amministrative mondiali a domanda di Membri dell'Unione o su proposta del Consiglio d'amministrazione
+#### ARTICOLO 62 - Procedura per la convocazione di conferenze amministrative mondiali a domanda di Membri dell'Unione o su proposta del Consiglio d'amministrazione
 
 340 1. I Membri dell'Unione che desiderano la convocazione di una conferenza amministrativa mondiale ne informano il segretario generale, indicando l'ordine del giorno, il luogo e la data proposta per la conferenza.
 
@@ -979,15 +975,15 @@ a) le delegazioni specificate nell'allegato 2;
 
 349 7. La procedura sopra indicata e' parimenti applicabile quando la proposta di convocazione di una conferenza amministrativa mondiale e' presentata dal Consiglio d'amministrazione.
 
-##### ARTICOLO 63 - Procedura per la convocazione di conferenze amministrative regionali a domanda di Membri dell'Unione o su proposta del Consiglio d'amministrazione
+#### ARTICOLO 63 - Procedura per la convocazione di conferenze amministrative regionali a domanda di Membri dell'Unione o su proposta del Consiglio d'amministrazione
 
 350 Nel caso di conferenze amministrative regionali, la procedura di cui all'articolo 62 si applica ai soli Membri della regione interessata. Se la convocazione deve farsi per iniziativa dei Membri della regione, basta che il segretario generale riceva domande concordanti provenienti da un quarto dei Membri di questa regione.
 
-##### ARTICOLO 64 - Disposizioni relative a conferenze che si riuniscono senza che vi sia un Governo invitante
+#### ARTICOLO 64 - Disposizioni relative a conferenze che si riuniscono senza che vi sia un Governo invitante
 
 351 Le disposizioni degli articoli 60 e 61 sono applicabili quando una conferenza deve riunirsi senza che vi sia un Governo invitante. Il segretario generale, dopo intesa con il Governo della Confederazione Svizzera, prende le disposizioni necessarie per convocare e organizzare la conferenza alla sede dell'Unione.
 
-##### ARTICOLO 65 - Disposizioni comuni a tutte le conferenze Cambiamento della data o del luogo d'una conferenza
+#### ARTICOLO 65 - Disposizioni comuni a tutte le conferenze Cambiamento della data o del luogo d'una conferenza
 
 352 1. Le disposizioni degli articoli 62 e 63 sono applicabili per analogia quando si tratti, a domanda dei Membri dell'Unione o su proposta del Consiglio d'amministrazione, di cambiare la data e/o il luogo d'una conferenza. Tali cambiamenti possono tuttavia essere fatti solo se la maggioranza dei Membri interessati, determinata secondo i disposti del numero 225, si e' pronunciata in loro favore.
 
@@ -995,7 +991,7 @@ a) le delegazioni specificate nell'allegato 2;
 
 354 3. Se del caso, il segretario generale fa conoscere, nella comunicazione prevista nel numero 341, le probabili conseguenze finanziarie derivanti dal cambiamento del luogo o della data, per esempio quando sono fatte spese per preparare la riunione della conferenza al luogo previsto inizialmente.
 
-##### ARTICOLO 66 - Termini e modi di presentazione delle proposte alle conferenze
+#### ARTICOLO 66 - Termini e modi di presentazione delle proposte alle conferenze
 
 355 1. Immediatamente dopo la spedizione degli inviti, il segretario generale prega i Membri di comunicargli nel termine di quattro mesi, le loro proposte relative ai lavori della conferenza.
 
@@ -1005,7 +1001,7 @@ a) le delegazioni specificate nell'allegato 2;
 
 358 4. Il segretario generale raccoglie e coordina le proposte ricevute dalle amministrazioni e dalle assemblee plenarie dei Comitati consultivi internazionali e le trasmette ai Membri, almeno tre mesi prima della data d'apertura della conferenza, ne' il segretario generale, ne' i direttori dei Comitati consultivi internazionali, ne' i Membri del Comitato internazionale di registrazione delle frequenze sono autorizzati a presentare proposte.
 
-##### ARTICOLO 67 - Poteri delle delegazioni alle conferenze
+#### ARTICOLO 67 - Poteri delle delegazioni alle conferenze
 
 359 1. La delegazione inviata da un Membro dell'Unione per partecipare a una conferenza dev'essere debitamente accreditata conformemente alle disposizioni dei numeri da 360 a 366.
 
@@ -1037,9 +1033,9 @@ a) le delegazioni specificate nell'allegato 2;
 
 373 9. I poteri e le procure indirizzati per telegramma non sono accettabili. Per contro, sono accettabili i telegrammi di risposta a una domanda di chiarimento del presidente o del segretariato della conferenza concernente i poteri.
 
-## CAPITOLO X - DISPOSIZIONI GENERALI CONCERNENTI I COMITATI CONSULTIVI INTERNAZIONALI
+### CAPITOLO X - DISPOSIZIONI GENERALI CONCERNENTI I COMITATI CONSULTIVI INTERNAZIONALI
 
-##### ARTICOLO 68 - Condizioni di partecipazione
+#### ARTICOLO 68 - Condizioni di partecipazione
 
 374 1. I Membri dei Comitati consultivi internazionali menzionati ai numeri 73 e 74 possono partecipare a tutte le attivita' del Comitato consultivo di cui si tratta.
 
@@ -1057,7 +1053,7 @@ a) le delegazioni specificate nell'allegato 2;
 
 381 5. Ogni azienda privata riconosciuta, ogni organizzazione internazionale, ogni organizzazione regionale delle telecomunicazioni oppure ogni organismo scientifico o industriale che e' stato ammesso a partecipare ai lavori d'un Comitato consultivo ha il diritto di disdire la partecipazione mediante una notificazione indirizzata al segretario generale. Tale disdetta ha effetto dopo un anno a contare dal giorno del ricevimento della notificazione da parte del segretario generale.
 
-##### ARTICOLO 69 - Attribuzioni dell'assemblea plenaria
+#### ARTICOLO 69 - Attribuzioni dell'assemblea plenaria
 
 382 L'assemblea plenaria:
 
@@ -1077,7 +1073,7 @@ modifica o respinge i progetti di pareri in essi contenuti;
 
 389 h) esamina le altre questioni giudicate necessarie nel quadro dei disposti dell'articolo 11 e del presente capitolo.
 
-##### ARTICOLO 70 - Riunioni dell'assemblea plenaria
+#### ARTICOLO 70 - Riunioni dell'assemblea plenaria
 
 390 1. L'assemblea plenaria si riunisce normalmente alla data e nel luogo fissati dall'assemblea plenaria precedente.
 
@@ -1087,7 +1083,7 @@ modifica o respinge i progetti di pareri in essi contenuti;
 
 393 4. Il segretario generale e' incaricato di prendere, d'intesa con il direttore del Comitato consultivo interessato, le disposizioni amministrative e finanziarie necessarie in vista delle riunioni dell'assemblea plenaria e delle commissioni di studi.
 
-##### ARTICOLO 71 - Lingue e diritto di voto alle assemblee plenarie
+#### ARTICOLO 71 - Lingue e diritto di voto alle assemblee plenarie
 
 394 1. (1) Le lingue da usarsi durante le assemblee plenarie sono quelle previste negli articoli 16 e 78.
 
@@ -1097,7 +1093,7 @@ modifica o respinge i progetti di pareri in essi contenuti;
 
 397 3. Le disposizioni dei numeri 370 a 373 relative alle procure si applicano alle assemblee plenarie.
 
-##### ARTICOLO 72 - Commissioni di studi
+#### ARTICOLO 72 - Commissioni di studi
 
 398 1. L'assemblea plenaria istituisce e mantiene secondo i bisogni le commissioni di studi necessarie per trattare le questioni messe allo studio. Le amministrazioni, le aziende private riconosciute, le organizzazioni internazionali e le organizzazioni regionali delle telecomunicazioni ammesse conformemente alle disposizioni dei numeri 377 e 378, che desiderano partecipare ai lavori di commissioni di studi, si annunciano sia durante l'assemblea plenaria sia ulteriormente al direttore del Comitato consultivo di cui si tratta.
 
@@ -1107,7 +1103,7 @@ modifica o respinge i progetti di pareri in essi contenuti;
 
 Qualora si tratti di una commissione di studi per la quale l'assemblea plenaria aveva nominato parecchi vice-relatori principali, questa commissione, nel corso della sua riunione successiva, elegge tra essi il suo nuovo relatore principale e, se necessario, un nuovo vice-relatore principale tra i suoi Membri. Una tale commissione di studi elegge parimenti un nuovo vice-relatore principale qualora uno dei suoi vice-relatori principali sia impedito di esercitare le sue funzioni nell'intervallo tra due riunioni dell'assemblea plenaria.
 
-##### ARTICOLO 73 - Trattamento degli affari delle commissioni di studi
+#### ARTICOLO 73 - Trattamento degli affari delle commissioni di studi
 
 401 1. Le questioni affidate alle commissioni di studi sono, se possibile, trattate per corrispondenza.
 
@@ -1121,7 +1117,7 @@ Qualora si tratti di una commissione di studi per la quale l'assemblea plenaria 
 
 407 5. Il direttore trasmette i rapporti finali delle commissioni di studi alle amministrazioni partecipanti, alle aziende private riconosciute dal Comitato consultivo e, se del caso, alle organizzazioni internazionali e alle organizzazioni regionali delle telecomunicazioni che vi hanno partecipato. Questi rapporti sono inviati il piu' presto possibile e, in ogni caso, in modo che giungano ai destinatari almeno un mese prima del giorno della prossima assemblea plenaria. Si puo' derogare a questa clausola soltanto qualora riunioni delle commissioni di studi siano tenute immediatamente prima della riunione dell'assemblea plenaria. Le questioni che non sono state oggetto di un rapporto giunto nelle condizioni sopra indicate non possono essere iscritte all'ordine del giorno dell'assemblea plenaria.
 
-##### ARTICOLO 74 - Funzioni del direttore; segretariato specializzato
+#### ARTICOLO 74 - Funzioni del direttore; segretariato specializzato
 
 408 1. (1) Il direttore d'un Comitato consultivo coordina i lavori dell'assemblea plenaria e delle commissioni di studi; egli e' responsabile dell'organizzazione dei lavori del Comitato.
 
@@ -1145,7 +1141,7 @@ Qualora si tratti di una commissione di studi per la quale l'assemblea plenaria 
 
 418 8. Il direttore partecipa in tutta la misura necessaria alle attivita' di cooperazione tecnica dell'Unione nell'ambito delle disposizioni della Convenzione.
 
-##### ARTICOLO 75 - Proposte per le conferenze amministrative
+#### ARTICOLO 75 - Proposte per le conferenze amministrative
 
 419 1. Le assemblee plenarie dei Comitati consultivi internazionali sono autorizzate a sottomettere alle conferenze amministrative proposte derivanti direttamente da loro pareri o da conclusioni di loro studi in corso.
 
@@ -1153,7 +1149,7 @@ Qualora si tratti di una commissione di studi per la quale l'assemblea plenaria 
 
 421 3. Queste proposte vanno indirizzate in tempo utile al segretario generale per essere riunite, coordinate e comunicate nelle condizioni previste nel numero 358.
 
-##### ARTICOLO 76 - Relazioni dei Comitati consultivi fra loro e con altre organizzazioni internazionali
+#### ARTICOLO 76 - Relazioni dei Comitati consultivi fra loro e con altre organizzazioni internazionali
 
 422 1. (1) Le assemblee plenarie dei Comitati consultivi possono istituire commissioni miste per effettuare studi e emanare pareri su questioni di interesse comune.
 
@@ -1161,7 +1157,7 @@ Qualora si tratti di una commissione di studi per la quale l'assemblea plenaria 
 
 424 2. Qualora uno dei Comitati consultivi sia invitato a farsi rappresentare a una riunione dell'altro o di un'organizzazione internazionale, la sua assemblea plenaria o il suo direttore sono autorizzati, tenendo conto del numero 311, a prendere le misure necessarie per assicurare la rappresentanza con voto consultivo. 425 3. Il segretario generale, il vicesegretario generale, il presidente del Comitato internazionale di registrazione delle frequenze e il direttore dell'altro Comitato consultivo, o i loro rappresentanti, possono assistere a titolo consultivo alle riunioni d'un Comitato consultivo. In caso di bisogno, un Comitato puo' invitare alle sue riunioni, a titolo consultivo, dei rappresentanti di qualsiasi organismo permanente dell'Unione che non abbia giudicato necessario di farsi rappresentare.
 
-## CAPITOLO XI - REGOLAMENTO INTERNO DELLE CONFERENZE E DELLE ALTRE RIUNIONI
+### CAPITOLO XI - REGOLAMENTO INTERNO DELLE CONFERENZE E DELLE ALTRE RIUNIONI
 
 CAPITOLO XI
 
@@ -1169,7 +1165,7 @@ REGOLAMENTO INTERNO
 
 DELLE CONFERENZE E DELLE ALTRE RIUNIONI
 
-##### ARTICOLO 77 - Regolamento interno delle conferenze e delle altre riunioni
+#### ARTICOLO 77 - Regolamento interno delle conferenze e delle altre riunioni
 
 1\. ORDINE DEI POSTI.
 
@@ -1565,9 +1561,9 @@ CONDOTTA DEI DIBATTITI E PROCEDURA DI VOTO.
 
 534 Per la durata della conferenza, i Membri delle delegazioni, i Membri del Consiglio d'amministrazione, gli alti funzionari degli organismi permanenti dell'Unione che assistono alla conferenza e il personale del segretariato dell'Unione distaccato alla conferenza hanno diritto alla franchigia postale, telegrafica e telefonica nella misura in cui il Governo del Paese dove si tiene la conferenza sia riuscito a intendersi in merito con gli altri Governi e con le aziende private riconosciute cui cio' concerne.
 
-## CAPITOLO XII - ALTRE DISPOSIZIONI
+### CAPITOLO XII - ALTRE DISPOSIZIONI
 
-##### ARTICOLO 78 - Lingue
+#### ARTICOLO 78 - Lingue
 
 535 1. (1) Alle conferenze dell'Unione e alle riunioni del suo Consiglio d'amministrazione e dei suoi organismi permanenti, possono essere adoperate lingue diverse da quelle indicate ai numeri 100 e 106:
 
@@ -1581,7 +1577,7 @@ a) quando sia domandato al segretario generale o al capo dell'organismo permanen
 
 539 2. Tutti i documenti di cui ai numeri 102 a 105 possono essere pubblicati in una lingua diversa da quelle previste, a condizione che i Membri che domandano questa pubblicazione si impegnino ad assumere tutte le spese di traduzione e di pubblicazione.
 
-##### ARTICOLO 79 - Finanze
+#### ARTICOLO 79 - Finanze
 
 540 1. (1) Ogni Membro comunica al segretario generale, almeno sei mesi prima dell'entrata in vigore della Convenzione, la classe di contribuzione che ha scelto.
 
@@ -1625,13 +1621,13 @@ lavori hanno convenuto di partecipare o hanno partecipato conformemente al numer
 
 556 6. Il prezzo di vendita delle pubblicazioni alle amministrazioni, alle aziende private riconosciute o a privati e' determinato dal segretario generale, in collaborazione con il Consiglio d'amministrazione, tenuto conto del principio che le spese di pubblicazione e di distribuzione devono di regola essere coperte.
 
-##### ARTICOLO 80 - Allestimento e resa dei conti
+#### ARTICOLO 80 - Allestimento e resa dei conti
 
 557 1. Le amministrazioni dei Membri e le aziende private riconosciute che esercitano servizi internazionali di telecomunicazione devono mettersi d'accordo sull'ammontare dei loro crediti e dei loro debiti.
 
 558 2. I conti relativi ai debiti e agli erediti, di cui al numero 557, sono compilati conformemente alle disposizioni dei regolamenti amministrativi, salvo accordi particolari tra le parti interessate.
 
-##### ARTICOLO 81 - Arbitrato: procedura
+#### ARTICOLO 81 - Arbitrato: procedura
 
 (si veda l'articolo 50)
 
@@ -1657,9 +1653,9 @@ In mancanza d'accordo fra i due arbitri sulla scelta del terzo arbitro, ogni arb
 
 569 11. Ogni parte sostiene le spese d'istruzione e d'introduzione dell'arbitrato. Le spese per l'arbitrato, eccettuate quelle delle parti stesse, sono divise in parti uguali fra le parti in causa. 570 12. L'Unione fornisce tutte le informazioni che riguardano la controversia, delle quali l'arbitro o gli arbitri abbiano bisogno.
 
-## CAPITOLO XIII - REGOLAMENTI AMMINISTRATIVI
+### CAPITOLO XIII - REGOLAMENTI AMMINISTRATIVI
 
-##### ARTICOLO 82 - Regolamenti amministrativi
+#### ARTICOLO 82 - Regolamenti amministrativi
 
 571 Le disposizioni della Convenzione sono completate con i regolamenti amministrativi seguenti:
 
@@ -1677,7 +1673,7 @@ Fatto a Malaga-Torremolinos, il 25 ottobre 1973.
 
 (Seguono le firme)
 
-##### Allegato 1
+#### Allegato 1
 
 ALLEGATO 1.
 
@@ -1963,7 +1959,7 @@ Zaire (Repubblica dello)
 
 Zambia (Repubblica di)
 
-##### Allegato 2
+#### Allegato 2
 
 ALLEGATO 2.
 
@@ -2061,11 +2057,11 @@ PREAMBOLO
 
 In base alle disposizioni dell'articolo 57 della Carta delle Nazioni Unite e dell'articolo 26 della Convenzione dell'Unione internazionale delle telecomunicazioni stipulata ad Atlantic City nel 1947, le Nazioni Unite e l'Unione internazionale delle telecomunicazioni convengono quanto segue:
 
-##### ARTICOLO I
+#### ARTICOLO I
 
 Le Nazioni Unite riconoscono l'Unione internazionale delle telecomunicazioni, chiamata qui di seguito "L'Unione", come l'istituzione specializzata, incaricata di prendere tutti i provvedimenti adatti, conformi al suo Atto costitutivo, per raggiungere gli scopi fissati nel suddetto Atto.
 
-##### ARTICOLO II - Rappresentanza reciproca
+#### ARTICOLO II - Rappresentanza reciproca
 
 1\. L'Organizzazione delle Nazioni Unite sara' invitata a inviare dei rappresentanti per partecipare, senza diritto di voto, alle deliberazioni di tutte le conferenze plenipotenziarie e amministrative dell'Unione; essa sara' parimenti invitata, dopo aver preso i dovuti accordi con l'Unione, a inviare dei rappresentanti per assistere a riunioni di Comitati consultivi internazionali o a tutte le altre riunioni convocate dall'Unione, col diritto di partecipare, senza voto, alla discussione delle questioni che interessano le Nazioni Unite.
 
@@ -2077,11 +2073,11 @@ Le Nazioni Unite riconoscono l'Unione internazionale delle telecomunicazioni, ch
 
 5\. Il Segretariato delle Nazioni Unite fara' la distribuzione di tutte le relazioni scritte presentate dall'Unione ai Membri dell'Assemblea generale, del Consiglio economico e sociale e delle sue commissioni, e del Consiglio di tutela, secondo i casi. Cosi' pure le relazioni scritte presentate dalle Nazioni Unite saranno distribuite dall'Unione ai suoi Membri.
 
-##### ARTICOLO III - Iscrizione delle questioni all'ordine del giorno
+#### ARTICOLO III - Iscrizione delle questioni all'ordine del giorno
 
 Dopo le consultazioni preliminari che potrebbero essere necessarie, l'Unione iscrivera' all'ordine del giorno delle Conferenze plenipotenziarie o amministrative, o delle riunioni di altri organi dell'Unione, le questioni che le saranno proposte dalle Nazioni Unite. Il Consiglio economico e sociale e le sue commissioni, nonche' il Consiglio di tutela, iscriveranno parimenti nel loro ordine del giorno le questioni proposte dalle conferenze o dagli altri organi dell'Unione.
 
-##### ARTICOLO IV - Raccomandazioni delle Nazioni Unite
+#### ARTICOLO IV - Raccomandazioni delle Nazioni Unite
 
 1\. L'Unione, tenendo conto del fatto che le Nazioni Unite hanno l'obbligo di favorire l'attuazione degli obiettivi indicati nell'articolo 55 della Carta, e di aiutare il Consiglio economico e sociale a esercitare le funzioni e il potere che gli conferisce l'articolo 62 della Carta, di fare o provocare studi e rapporti su questioni internazionali nei campi economici, sociali, della cultura intellettuale e dell'educazione, della sanita' pubblica e in altri campi affini, nonche' di rivolgere raccomandazioni su tutte le questioni anzidette alle istituzioni speciali interessate, tenendo conto, inoltre, del fatto che gli articoli 58 e 63 della Carta dispongono che l'Organizzazione delle Nazioni Unite deve fare raccomandazioni per coordinare le attivita' di dette istituzioni specializzate e i principi generali ai quali esse si ispirano, ritiene utile di prendere i provvedimenti necessari per sottoporre il piu' presto possibile all'esame del suo organo competente, ad ogni buon fine, tutte le raccomandazioni ufficiali che l'Organizzazione delle Nazioni Unite potra' rivolgerle.
 
@@ -2089,7 +2085,7 @@ Dopo le consultazioni preliminari che potrebbero essere necessarie, l'Unione isc
 
 3\. L'Unione cooperera' all'adozione di ogni altro provvedimento che possa essere necessario per garantire il coordinamento pienamente efficace delle attivita' delle istituzioni specializzate e di quelle delle Nazioni Unite. In particolare, essa ritiene opportuno collaborare con ogni organo o con tutti gli organi che il Consiglio economico e sociale potra' istituire per facilitare tale coordinamento e fornire tutte le informazioni che potrebbero essere necessarie per raggiungere questi scopi.
 
-##### ARTICOLO V - Scambio di informazioni e documenti
+#### ARTICOLO V - Scambio di informazioni e documenti
 
 1\. Con riserva dei provvedimenti che potrebbero essere necessari per salvaguardare il carattere confidenziale di taluni documenti, le Nazioni Unite e l'Unione procederanno allo scambio completo e quanto piu' possibile rapido di informazioni e di documenti, per soddisfare ai bisogni di ciascuna di esse.
 
@@ -2101,11 +2097,11 @@ b) l'Unione dara' corso, quanto piu' possibile, a ogni domanda di rapporti speci
 
 c) il Segretario generale delle Nazioni Unite procedera' a scambi di vedute con l'autorita' competente dell'Unione, a domanda di questa, per fornire all'Unione quelle informazioni che presentassero per essa un interesse particolare.
 
-##### ARTICOLO VI - Assistenza alle Nazioni Unite
+#### ARTICOLO VI - Assistenza alle Nazioni Unite
 
 L'Unione conviene di cooperare con le Nazioni Unite, con i loro organismi principali e sussidiari, e di dar loro tutta l'assistenza possibile, conformemente alla Carta delle Nazioni Unite e alla Convenzione internazionale delle telecomunicazioni, tenendo pienamente conto della situazione particolare di quei Membri dell'Unione che non sono Membri delle Nazioni Unite.
 
-##### ARTICOLO VII - Relazioni con la Corte internazionale di Giustizia
+#### ARTICOLO VII - Relazioni con la Corte internazionale di Giustizia
 
 1\. L'Unione conviene di fornire alla Corte internazionale di Giustizia tutte le informazioni che questa potesse chiederle in applicazione dell'articolo 34 del suo Statuto.
 
@@ -2115,13 +2111,13 @@ L'Unione conviene di cooperare con le Nazioni Unite, con i loro organismi princi
 
 4\. L'Unione, quando chiede un parere consultivo alla Corte internazionale di Giustizia, comunica tale richiesta al Consiglio economico e sociale.
 
-##### ARTICOLO VIII - Disposizioni riguardanti il personale
+#### ARTICOLO VIII - Disposizioni riguardanti il personale
 
 1\. L'Organizzazione delle Nazioni Unite e l'Unione convengono di stabilire per il personale, quanto piu' sia possibile, norme, metodi e disposizioni comuni intesi a evitare gravi contraddizioni nei termini e nelle condizioni d'impiego, come pure la concorrenza nell'assunzione del personale e a facilitare gli scambi di personale che apparissero opportuni per ambo le parti, allo scopo di impiegare nel miglior modo possibile il personale.
 
 2\. L'Organizzazione delle Nazioni Unite e l'Unione convengono di cooperare nella maggiore misura possibile per conseguire gli scopi suindicati.
 
-##### ARTICOLO IX - Servizi statistici
+#### ARTICOLO IX - Servizi statistici
 
 1\. L'Organizzazione delle Nazioni Unite e l'Unione convengono di fare ogni sforzo per attuare una collaborazione quanto piu' stretta possibile, l'eliminazione di ogni duplicazione nella loro attivita' e l'utilizzazione piu' efficace possibile del loro personale tecnico nel raccogliere, analizzare, pubblicare, normalizzare, migliorare e diffondere le notizie statistiche. Esse convengono di unire i loro sforzi per trarre il miglior partito possibile dalle notizie statistiche e per alleviare il compito dei Governi e degli altri organismi chiamati a fornire tali notizie.
 
@@ -2133,41 +2129,41 @@ L'Unione conviene di cooperare con le Nazioni Unite, con i loro organismi princi
 
 5\. Resta convenuto che i dati forniti all'Organizzazione delle Nazioni Unite per essere incorporati nelle sue statistiche normali o nei suoi rapporti speciali saranno messi a disposizione dell'Unione, a sua domanda, in tutta la misura possibile ed opportuna.
 
-##### ARTICOLO X - Servizi amministrativi e tecnici
+#### ARTICOLO X - Servizi amministrativi e tecnici
 
 1\. L'Organizzazione delle Nazioni Unite e l'Unione riconoscono che e' desiderabile, per utilizzare nel modo piu' efficace il personale e le risorse disponibili, evitare, entro il limite del possibile, l'istituzione di servizi i cui lavori si facciano concorrenza o si accavallino, e, in caso di necessita', consultarsi per raggiungere tale scopo.
 
 2\. L'Organizzazione delle Nazioni Unite e l'Unione prenderanno accordi per quanto riguarda la registrazione e il deposito dei documenti ufficiali.
 
-##### ARTICOLO XI - Disposizioni per il bilancio e finanziarie
+#### ARTICOLO XI - Disposizioni per il bilancio e finanziarie
 
 1\. Il bilancio di previsione o il progetto di bilancio dell'Unione sara' trasmesso all'Organizzazione delle Nazioni Unite contemporaneamente all'invio ai Membri dell'Unione; l'Assemblea generale potra' fare in merito raccomandazioni all'Unione.
 
 2\. L'Unione avra' il diritto d'inviare rappresentanti per partecipare, senza diritto di voto, alle deliberazioni dell'Assemblea generale o di ogni commissione di detta Assemblea ogni qualvolta il bilancio dell'Unione sara' in discussione.
 
-##### ARTICOLO XII - Finanziamento dei servizi speciali
+#### ARTICOLO XII - Finanziamento dei servizi speciali
 
 1\. Se l'Unione si trova costretta, in seguito a una richiesta di assistenza, di rapporti speciali o di studi, presentata dall'Organizzazione delle Nazioni Unite in conformita' dell'articolo VI o di altre disposizioni del presente accordo, a far fronte a ingenti spese supplementari, le parti interessate si consulteranno per stabilire come sopperire a tali spese nel modo piu' equo possibile.
 
 2\. L'Organizzazione delle Nazioni Unite e l'Unione si consulteranno altresi' per prendere quei provvedimenti che riterranno convenienti per sopperire alle spese dei servizi centrali, amministrativi, tecnici o fiscali e di tutte le facilitazioni o assistenze speciali concesse dall'Organizzazione delle Nazioni Unite a domanda dell'Unione.
 
-##### ARTICOLO XIII - Lasciapassare delle Nazioni Unite
+#### ARTICOLO XIII - Lasciapassare delle Nazioni Unite
 
 I funzionari dell'Unione hanno il diritto di utilizzare i lasciapassare delle Nazioni Unite, conformemente agli accordi speciali che saranno conchiusi dal Segretario generale dell'Organizzazione delle Nazioni Unite e dalle autorita' competenti dell'Unione.
 
-##### ARTICOLO XIV - Accordi fra istituzioni
+#### ARTICOLO XIV - Accordi fra istituzioni
 
 1\. L'Unione conviene d'informare il Consiglio economico e sociale della natura e della portata di ogni accordo ufficiale previsto tra l'Unione ed ogni altra istituzione specializzata od ogni altra organizzazione intergovernativa, od ogni organizzazione internazionale non governativa, ed informera' inoltre il Consiglio economico e sociale dei particolari di detto accordo quando esso sara' conchiuso.
 
 2\. L'Organizzazione delle Nazioni Unite conviene d'informare l'Unione circa la natura e la portata di ogni accordo ufficiale proposto da ogni altra istituzione specializzata su questioni che possano interessare l'Unione ed inoltre comunichera' all'Unione i particolari di detto accordo quando esso sara' conchiuso.
 
-##### ARTICOLO XV - Collegamento
+#### ARTICOLO XV - Collegamento
 
 1\. L'Organizzazione delle Nazioni Unite e l'Unione convengono le disposizioni di cui sopra nella convinzione che esse contribuiranno a mantenere un collegamento effettivo tra le due organizzazioni. Esse affermano la loro intenzione di adottare i provvedimenti che potrebbero essere necessari per raggiungere tale scopo.
 
 2\. Le disposizioni riguardanti il collegamento contemplato dal presente accordo si applicheranno, nel modo piu' adatto, alle relazioni tra l'Unione e l'Organizzazione delle Nazioni Unite, compresi i suoi uffici regionali o ausiliari.
 
-##### ARTICOLO XVI - Servizio delle telecomunicazioni delle Nazioni Unite
+#### ARTICOLO XVI - Servizio delle telecomunicazioni delle Nazioni Unite
 
 1\. L'Unione riconosce l'importanza per l'Organizzazione delle Nazioni Unite di fruire degli stessi diritti dei Membri dell'Unione nell'esercizio dei servizi di telecomunicazione.
 
@@ -2175,21 +2171,21 @@ I funzionari dell'Unione hanno il diritto di utilizzare i lasciapassare delle Na
 
 3\. Le modalita' precise d'applicazione del presente articolo saranno oggetto di accordi speciali.
 
-##### ARTICOLO XVII - Esecuzione dell'accordo
+#### ARTICOLO XVII - Esecuzione dell'accordo
 
 Il Segretario generale delle Nazioni Unite e l'autorita' competente dell'Unione potranno conchiudere tutti quegli accordi supplementari che riterranno convenienti nell'applicazione del presente accordo.
 
-##### ARTICOLO XVIII - Revisione
+#### ARTICOLO XVIII - Revisione
 
 Il presente accordo puo' essere riveduto mediante intesa tra le Nazioni Unite e l'Unione, con riserva di un preavviso di sei mesi, dato dall'una o dall'altra parte.
 
-##### ARTICOLO XIX - Entrata in vigore
+#### ARTICOLO XIX - Entrata in vigore
 
 1\. Il presente accordo entrera' provvisoriamente in vigore dopo approvazione da parte dell'Assemblea generale delle Nazioni Unite e della Conferenza plenipotenziaria delle telecomunicazioni tenutasi ad Atlantic City nel 1947.
 
 2\. Con riserva dell'approvazione indicata nel numero 1, il presente accordo entrera' ufficialmente in vigore contemporaneamente alla Convenzione internazionale delle telecomunicazioni stipulata ad Atlantic City nel 1947, o ad una data anteriore, secondo la decisione dell'Unione.
 
-##### Protocollo finale
+#### Protocollo finale
 
 PROTOCOLLO FINALE1
 
@@ -3037,7 +3033,7 @@ Fatto a Malaga-Torremolinos, il 25 ottobre 1973.
 
 Nota del segretario generale: i testi del protocollo finale sono classificati secondo l'ordine cronologico del loro deposito.
 
-##### Protocolli addizionali
+#### Protocolli addizionali
 
 PROTOCOLLI ADDIZIONALI
 

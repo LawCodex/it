@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I
+## Capo I - Disposizioni in materia di libera circolazione delle merci, delle persone e dei servizi
 
-### Disposizioni in materia di libera circolazione delle merci, delle - persone e dei servizi
-
-#### Art. 1
+### Art. 1
 
 Disposizioni in materia di avvocati stabiliti.
 
@@ -78,7 +76,7 @@ Completo adeguamento alla direttiva 98/5/CE
 
 > «Sono dichiarati idonei i candidati che conseguano una media di sette decimi nelle prove scritte e in quella orale avendo riportato non meno di sei decimi in ciascuna di esse».".
 
-#### Art. 2
+### Art. 2
 
 Disposizioni in materia di diritto d'autore. Completo adeguamento alle diretive 2001/29/CE e 2004/48/CE
 
@@ -94,7 +92,7 @@ Disposizioni in materia di diritto d'autore. Completo adeguamento alle diretive 
 
 > \- Il testo degli articoli 3 e 9 della Direttiva 2004/48/CE (Direttiva del Parlamento europeo e del Consiglio sul rispetto dei diritti di proprieta' intellettuale), e' pubblicato nella G.U.U.E. 30 aprile 2004, n. L 157).
 
-#### Art. 3
+### Art. 3
 
 Disposizioni in materia di tracciabilita' dei medicinali veterinari e dei mangimi medicati per il conseguimento degli obiettivi delle direttive 2001/82/CE e 90/167/CEE
 
@@ -174,7 +172,7 @@ b) all'articolo 118, dopo il comma 1 sono aggiunti i seguenti:
 
 > 2\. Quando il mangime medicato e' somministrato ad animali le cui carni, le cui frattaglie o i cui prodotti sono destinati all'alimentazione umana, l'allevatore o il detentore degli animali in questione deve far si' che l'animale trattato non sia macellato per essere immesso al consumo prima che scada il periodo di attesa fissato e che i prodotti di un animale trattato non siano ceduti ai fini del consumo umano prima della scadenza di questo periodo di attesa.".
 
-#### Art. 4
+### Art. 4
 
 Modifiche all'articolo 98 del codice delle comunicazioni elettroniche, di cui al decreto legislativo 1° agosto 2003, n. 259 - Caso EU Pilot 8925/16/CNECT
 
@@ -242,11 +240,9 @@ Modifiche all'articolo 98 del codice delle comunicazioni elettroniche, di cui al
 
 > Il testo degli articoli 3, 4, paragrafi 1 e 2, 5, paragrafo 2, del regolamento (UE) n. 2015/2120 del Parlamento europeo e del Consiglio, del 25 novembre 2015, che stabilisce misure riguardanti l'accesso a un'Internet aperta e che modifica la direttiva 2002/22/CE relativa al servizio universale e ai diritti degli utenti in materia di reti e di servizi di comunicazione elettronica e il regolamento (UE) n. 531/2012 relativo al roaming sulle reti pubbliche di comunicazioni mobili all'interno dell'Unione, e' pubblicato nella G.U.U.E. 26 novembre 2015, n. L 310.
 
-## Capo II
+## Capo II - Disposizioni in materia di giustizia e sicurezza
 
-### Disposizioni in materia di giustizia e sicurezza
-
-#### Art. 5
+### Art. 5
 
 Disposizioni per la completa attuazione della decisione quadro 2008/913/GAI sulla lotta contro talune forme ed espressioni di razzismo e xenofobia mediante il diritto penale - Caso EU Pilot 8184/15/JUST
 
@@ -304,7 +300,7 @@ Disposizioni per la completa attuazione della decisione quadro 2008/913/GAI sull
 
 > 3\. Se l'ente o una sua unita' organizzativa viene stabilmente utilizzato allo scopo unico o prevalente di consentire o agevolare la commissione di reati in relazione ai quali e' prevista la sua responsabilita' e' sempre disposta l'interdizione definitiva dall'esercizio dell'attivita' e non si applicano le disposizioni previste dall'articolo 17.".
 
-#### Art. 6
+### Art. 6
 
 Disciplina dell'accesso alle prestazioni del Fondo per l'indennizzo delle vittime di reati intenzionali violenti. Procedura di infrazione n. 2011/4147
 
@@ -356,11 +352,9 @@ AGGIORNAMENTO (10)
 
 La L. 30 dicembre 2018, n. 145, come modificata dal D.L. 29 settembre 2023, n. 132, convertito con modificazioni dalla L. 27 novembre 2023, n. 170, ha disposto (con l'art. 1, comma 594) che "I termini di presentazione della domanda previsti dall'articolo 6, comma 3, della legge 20 novembre 2017, n. 167, per la concessione dell'indennizzo da corrispondere ai soggetti di cui al comma 2 dell'articolo 6 della stessa legge, nonche' i termini di presentazione della domanda previsti dall'articolo 13, comma 2, della legge 7 luglio 2016, n. 122, per la concessione dell'indennizzo da corrispondere in conseguenza di lesione personale gravissima ai sensi dell'articolo 583, secondo comma, del codice penale e di deformazione dell'aspetto della persona mediante lesioni permanenti al viso ai sensi dell'articolo 583-quinquies del codice penale, sono riaperti e prorogati, a pena di decadenza, fino al 31 dicembre 2025. Tuttavia, per i soggetti in relazione ai quali, alla data del 31 ottobre 2025, non risultano ancora sussistenti tutti i requisiti e le condizioni di cui agli articoli 12 e 13, comma 1, della legge n. 122 del 2016, il termine per la presentazione della domanda di accesso all'indennizzo e' quello di cui al comma 2 del predetto articolo 13".
 
-## Capo III
+## Capo III - Disposizioni in materia di fiscalita'
 
-### Disposizioni in materia di fiscalita'
-
-#### Art. 7
+### Art. 7
 
 Disposizioni in materia di rimborsi dell'imposta sul valore aggiunto.
 
@@ -408,7 +402,7 @@ Procedura d'infrazione n. 2013/4080
 
 > L'articolo 10, comma 5, del decreto-legge n. 282/2004 (Disposizioni urgenti in materia fiscale e di finanza pubblica), pubblicato nella Gazzetta Ufficiale 29 novembre 2004, n. 280, ha istituito il Fondo per interventi strutturali di politica economica.
 
-#### Art. 8
+### Art. 8
 
 Modifiche alla disciplina delle restituzioni
 
@@ -432,7 +426,7 @@ dell'IVA non dovuta - Caso EU Pilot 9164/17/TAXU
 
 > Per il testo dell'articolo 17, commi da 12 a 12-quater, della legge n. 196/2009, si veda nelle note all'art. 7.
 
-#### Art. 9
+### Art. 9
 
 Modifiche al regime di non imponibilita' ai fini dell'IVA delle cessioni all'esportazione, in attuazione dell'articolo 146, paragrafo 1, lettera c), della direttiva 2006/112/CE
 
@@ -506,7 +500,7 @@ Modifiche al regime di non imponibilita' ai fini dell'IVA delle cessioni all'esp
 
 > 5\. (abrogato).
 
-#### Art. 10
+### Art. 10
 
 Agevolazioni fiscali per le navi iscritte nei registri degli Stati dell'Unione europea o dello Spazio economico europeo. Caso EU Pilot 7060/14/TAXU
 
@@ -566,11 +560,9 @@ Agevolazioni fiscali per le navi iscritte nei registri degli Stati dell'Unione e
 
 > 3\. Le organizzazioni sindacali sottoscrittrici dei contratti collettivi di cui al comma 1 stabiliscono le condizioni economiche, salariali e assicurative, minime che devono essere comunque osservate per tutti i lavoratori non comunitari impegnati a bordo delle navi iscritte nel Registro internazionale, nel rispetto dei limiti internazionalmente stabiliti.".
 
-## Capo IV
+## Capo IV - Disposizioni in materia di lavoro
 
-### Disposizioni in materia di lavoro
-
-#### Art. 11
+### Art. 11
 
 Disposizioni relative agli ex lettori di lingua straniera. Caso EU Pilot 2079/11/EMPL
 
@@ -592,11 +584,9 @@ AGGIORNAMENTO (5)
 
 Il D.L. 14 agosto 2020, n. 104, convertito con modificazioni dalla L. 13 ottobre 2020, n. 126, ha disposto (con l'art. 33, comma 2-quinquies) che, per quanto non diversamente disposto, la presente modifica si applica esclusivamente all'anno accademico 2020/2021.
 
-## Capo V
+## Capo V - Disposizioni in materia di salute
 
-### Disposizioni in materia di salute
-
-#### Art. 12
+### Art. 12
 
 Disposizioni di attuazione della direttiva (UE) 2015/2203 del Parlamento europeo e del Consiglio, del 25 novembre 2015, sul ravvicinamento delle legislazioni degli Stati membri relative alle caseine e ai caseinati destinati all'alimentazione umana e che abroga la direttiva 83/417/CEE del Consiglio. Procedura di infrazione n. 2017/0129
 
@@ -668,7 +658,7 @@ f) l'identificazione della partita dei prodotti o la data di produzione.
 
 > Il decreto del Presidente della Repubblica 17 maggio 1988, n. 180 (Attuazione della direttiva CEE n. 83/417 relativa al ravvicinamento delle legislazioni degli Stati membri relative a talune lattoproteine (caseine e caseinati) destinate all'alimentazione umana, ai sensi dell'art. 15 della legge 16 aprile 1987, n. 183), abrogato dalla presente legge, e' stato pubblicato nella Gazzetta Ufficiale 4 giugno 1988, n. 130.
 
-#### Art. 13
+### Art. 13
 
 Disposizioni in materia di anagrafe equina per l'adeguamento al regolamento (UE) 2016/429 e al regolamento (UE) 2015/262
 
@@ -740,7 +730,7 @@ Disposizioni in materia di anagrafe equina per l'adeguamento al regolamento (UE)
 
 > Il testo dell'articolo 8 del decreto-legge 24 giugno 2003, n. 147 (Proroga di termini e disposizioni urgenti ordinamentali), convertito, con modificazioni dalla legge 1° agosto 2003, n. 200, pubblicato nella Gazzetta Ufficiale 25 giugno 2003, n. 145, modificato dalla presente legge, reca "Disposizioni sull'UNIRE.".
 
-#### Art. 14
+### Art. 14
 
 Modifica all'articolo 12, comma 5, del decreto legislativo 12 maggio 2015, n. 71, in materia di norme sanitarie per la gente di mare - Caso EU Pilot 8443/16/MOVE
 
@@ -758,7 +748,7 @@ Modifica all'articolo 12, comma 5, del decreto legislativo 12 maggio 2015, n. 71
 
 > 5\. Se il periodo di validita' di un certificato medico scade durante il viaggio, il certificato medico continuera' ad essere valido fino al prossimo scalo dove un medico ivi autorizzato e' disponibile, purche' tale periodo non sia comunque superiore a tre mesi.".
 
-#### Art. 15
+### Art. 15
 
 Disposizioni sanzionatorie per la violazione dell'articolo 48 del regolamento (CE) n. 1272/2008 relativo alla classificazione, all'etichettatura e all'imballaggio di sostanze e miscele
 
@@ -778,11 +768,9 @@ Disposizioni sanzionatorie per la violazione dell'articolo 48 del regolamento (C
 
 > Il regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio relativo alla classificazione, all'etichettatura e all'imballaggio delle sostanze e delle miscele che modifica e abroga le direttive 67/548/CEE e 1999/45/CE e che reca modifica al regolamento (CE) n. 1907/2006, e' pubblicato nella G.U.U.E. 31 dicembre 2008, n. L 353.
 
-## Capo VI
+## Capo VI - Disposizioni in materia di tutela dell'ambiente
 
-### Disposizioni in materia di tutela dell'ambiente
-
-#### Art. 16
+### Art. 16
 
 Disposizioni in materia di tutela delle acque. Monitoraggio delle sostanze chimiche. Caso EU Pilot 7304/15/ENVI
 
@@ -798,7 +786,7 @@ Disposizioni in materia di tutela delle acque. Monitoraggio delle sostanze chimi
 
 > 2\. In mancanza di standard di qualita' ambientali per un dato parametro o di un metodo di analisi che rispetti i requisiti minimi di prestazione di cui al comma 1, le ARPA e le APPA assicurano che il monitoraggio sia svolto applicando le migliori tecniche disponibili a costi sostenibili. Le autorita' di bacino distrettuali promuovono intese con le regioni e con le province autonome ricadenti nel distretto idrografico di competenza, al fine di garantire l'intercomparabilita', a livello di distretto idrografico, dei dati del monitoraggio delle sostanze prioritarie di cui alle tabelle 1/A e 2/A e delle sostanze non appartenenti alla lista di priorita' di cui alla tabella 1/B dell'allegato 1 alla parte terza. Ai fini del monitoraggio e della valutazione dello stato della qualita' delle acque, le autorita' di bacino distrettuali promuovono altresi' intese con i medesimi soggetti di cui al periodo precedente finalizzate all'adozione di una metodologia di valutazione delle tendenze ascendenti e d'inversione della concentrazione degli inquinanti nelle acque sotterranee. A tale fine, entro trenta giorni dalla data di entrata in vigore della presente disposizione, l'ISPRA rende disponibile mediante pubblicazione nel proprio sito internet istituzionale l'elenco dei laboratori del sistema delle agenzie dotati delle metodiche di analisi disponibili a costi sostenibili, conformi ai requisiti di cui al paragrafo A.2.8-bis dell'allegato 1 alla parte terza. Le autorita' di bacino distrettuali rendono disponibili nel proprio sito internet istituzionale, ai sensi dell'articolo 8 del decreto legislativo 19 agosto 2005, n. 195, i dati dei monitoraggi periodici come ottenuti dalle analisi effettuate da tali laboratori.".
 
-#### Art. 17
+### Art. 17
 
 Corretta attuazione della direttiva 91/271/CEE in materia di acque reflue urbane, con riferimento all'applicazione dei limiti di emissione degli scarichi idrici
 
@@ -848,7 +836,7 @@ Corretta attuazione della direttiva 91/271/CEE in materia di acque reflue urbane
 
 > 10\. Al fine di garantire un generale livello di protezione delle acque e' raccomandata l'applicazione del codice di buona pratica agricola anche al di fuori delle zone vulnerabili.".
 
-#### Art. 18
+### Art. 18
 
 Disposizioni in materia di emissioni industriali -
 
@@ -1288,11 +1276,9 @@ bb) alla parte I dell'allegato III alla parte quinta, al punto 3.4, le parole: �
 
 > 3\. L'autorizzazione puo' meglio specificare tempi, modalita' e destinatari delle informative di cui al comma 1, fermo restando il termine massimo di otto ore, di cui all'articolo 271, comma 14, nel caso in cui un guasto non permetta di garantire il rispetto dei valori limite di emissione in aria.".
 
-## Capo VII
+## Capo VII - Disposizioni in materia di energia e di fonti rinnovabili
 
-### Disposizioni in materia di energia e di fonti rinnovabili
-
-#### Art. 19
+### Art. 19
 
 Adeguamento della normativa nazionale alla comunicazione 2014/C 200/01 della Commissione, in materia di aiuti di Stato a favore dell'ambiente e dell'energia 2014-2020. Imprese a forte consumo di energia elettrica. Decisione C(2017) 3406 della Commissione
 
@@ -1402,7 +1388,7 @@ b) il comma 2 sostituito dal seguente:
 
 > 11-bis. La disposizione di cui al comma 11 non trova applicazione con riferimento al regime, gia' senza limiti temporali, di cui al decreto del Presidente della Repubblica 22 maggio 1963, n. 730, che continua ad applicarsi alle condizioni in essere al 31 dicembre 2004 fatti salvi eventuali adeguamenti da apportarsi attraverso lo strumento convenzionale di cui all'articolo 4 del citato decreto del Presidente della Repubblica.".
 
-#### Art. 20
+### Art. 20
 
 Adeguamento della normativa nazionale alla comunicazione 2014/C 200/01 della Commissione, in materia di aiuti di Stato a favore dell'ambiente e dell'energia 2014-2020. Sostegno alla produzione di energia da fonti rinnovabili
 
@@ -1520,7 +1506,7 @@ b) al comma 4, lettera c), le parole: «a un contingente di potenza da installar
 
 > 9\. Con decreto del Ministro dello sviluppo economico, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare, sono definiti specifici incentivi per la produzione di energia da fonti rinnovabili mediante impianti che facciano ricorso a tecnologie avanzate e non ancora pienamente commerciali, compresi gli impianti sperimentali di potenza fino a 5 MW alimentati da fluidi geotermici a media ed alta entalpia.".
 
-#### Art. 21
+### Art. 21
 
 Adeguamento alla normativa nazionale alla comunicazione 2014/C 200/01 della Commissione, in materia di aiuti di Stato a favore dell'ambiente e dell'energia 2014-2020. Imprese a forte consumo di gas naturale
 
@@ -1534,11 +1520,9 @@ Adeguamento alla normativa nazionale alla comunicazione 2014/C 200/01 della Comm
 
 > La comunicazione della Commissione europea 2014/C 200/01 del 28 giugno 2014 (Disciplina in materia di aiuti di Stato a favore dell'ambiente e dell'energia 2014-2020) e' pubblicata nella Gazzetta ufficiale dell'Unione europea serie C 200 del 28 giugno 2014.
 
-## Capo VIII
+## Capo VIII - Altre disposizioni
 
-### Altre disposizioni
-
-#### Art. 22
+### Art. 22
 
 Modifiche alla legge 24 dicembre 2012, n. 234
 
@@ -1590,7 +1574,7 @@ c) all'articolo 31, comma 6, e' aggiunto, in fine, il seguente periodo: «Resta 
 
 > 6\. Con la procedura di cui ai commi 2, 3 e 4 il Governo puo' adottare disposizioni integrative e correttive di decreti legislativi emanati ai sensi del comma 1, al fine di recepire atti delegati dell'Unione europea di cui all'articolo 290 del Trattato sul funzionamento dell'Unione europea, che modificano o integrano direttive recepite con tali decreti legislativi. Le disposizioni integrative e correttive di cui al primo periodo sono adottate nel termine di cui al comma 5 o nel diverso termine fissato dalla legge di delegazione europea. Resta ferma la disciplina di cui all'articolo 36 per il recepimento degli atti delegati dell'Unione europea che recano meri adeguamenti tecnici.".
 
-#### Art. 23
+### Art. 23
 
 Disposizioni per l'integrale attuazione della direttiva 2014/33/UE relativa agli ascensori e ai componenti di sicurezza degli ascensori nonche' per l'esercizio degli ascensori
 
@@ -1620,7 +1604,7 @@ Disposizioni per l'integrale attuazione della direttiva 2014/33/UE relativa agli
 
 > Il decreto del Presidente della Repubblica 24 dicembre 1951, n. 1767 (Approvazione del regolamento per l'esecuzione della L. 24 ottobre 1942, n. 1415, concernente l'impianto e l'esercizio di ascensori e di montacarichi in servizio privato) e' pubblicato nella Gazzetta ufficiale 17 marzo 1952, n. 66.
 
-#### Art. 24
+### Art. 24
 
 Termini di conservazione dei dati
 
@@ -1690,7 +1674,7 @@ di traffico telefonico e telematico
 
 > 1-bis. I dati relativi alle chiamate senza risposta, trattati temporaneamente da parte dei fornitori di servizi di comunicazione elettronica accessibili al pubblico oppure di una rete pubblica di comunicazione, sono conservati per trenta giorni.".
 
-#### Art. 25
+### Art. 25
 
 Trattamento economico del personale estraneo alla pubblica amministrazione selezionato per partecipare a iniziative e missioni del Servizio europeo di azione esterna.
 
@@ -1730,7 +1714,7 @@ Trattamento economico del personale estraneo alla pubblica amministrazione selez
 
 > 7\. Il personale militare impiegato dall'ONU nell'ambito delle missioni internazionali con contratto individuale conserva il trattamento economico fisso e continuativo e percepisce l'indennita' di missione di cui al presente articolo, con spese di vitto e di alloggio poste a carico dell'Amministrazione della difesa. Eventuali retribuzioni o altri compensi corrisposti direttamente dall'ONU allo stesso titolo, con esclusione di indennita' e di rimborsi per servizi fuori sede, sono versati all'Amministrazione della difesa, al netto delle ritenute, fino a concorrenza dell'importo corrispondente alla somma del trattamento economico fisso e continuativo e dell'indennita' di missione di cui al presente articolo, al netto delle ritenute, e delle spese di vitto e di alloggio.".
 
-#### Art. 26
+### Art. 26
 
 Autorita' nazionale competente per la certificazione e la sorveglianza degli aeroporti nonche' del personale e delle organizzazioni che operano in essi, ai sensi del regolamento (UE) n. 139/2014
 
@@ -1756,7 +1740,7 @@ Autorita' nazionale competente per la certificazione e la sorveglianza degli aer
 
 > 6\. Fino all'emanazione del decreto di cui al comma 5, continuano ad applicarsi, per quanto attiene al soccorso portuale, le disposizioni della legge 13 maggio 1940, n. 690.".
 
-#### Art. 27
+### Art. 27
 
 Interventi di cooperazione allo sviluppo
 
@@ -1790,7 +1774,7 @@ con finanziamento dell'Unione europea
 
 > Il decreto legislativo 18 aprile 2016, n. 50 (Codice dei contratti pubblici) e' pubblicato nella Gazzetta Ufficiale 19 aprile 2016, n. 91.
 
-#### Art. 28
+### Art. 28
 
 Modifiche al codice in materia di protezione dei dati personali, di cui al decreto legislativo 30 giugno 2003, n. 196
 
@@ -1830,7 +1814,7 @@ b) al capo III del titolo VII della parte II, dopo l'articolo 110 e' aggiunto il
 
 > 5\. Il responsabile effettua il trattamento attenendosi alle condizioni stabilite ai sensi del comma 4-bis e alle istruzioni impartite dal titolare, il quale, anche tramite verifiche periodiche, vigila sulla puntuale osservanza delle disposizioni di cui al comma 2, delle proprie istruzioni e di quanto stabilito negli atti di cui al comma 4-bis. "."
 
-#### Art. 29
+### Art. 29
 
 Disposizioni in materia di funzionamento
 
@@ -1860,7 +1844,7 @@ del Garante per la protezione dei dati personali
 
 > "268. Al fine di non disperdere la professionalita' acquisita dal personale con contratto di lavoro subordinato a tempo determinato assunto a seguito di superamento di apposita procedura selettiva pubblica, per titoli ed esami, nonche' per fare fronte agli accresciuti compiti derivanti dalla partecipazione alle attivita' di cooperazione fra autorita' di protezione di dati dell'Unione europea, il ruolo organico di cui all'articolo 156, comma 2, del codice di cui al decreto legislativo 30 giugno 2003, n. 196, come incrementato in attuazione dell'articolo 1, comma 542, della legge 27 dicembre 2006, n. 296, e' incrementato di dodici unita', previa contestuale riduzione nella medesima misura del contingente di cui al comma 5 del predetto articolo 156 del codice di cui al decreto legislativo n. 196 del 2003.".
 
-#### Art. 30
+### Art. 30
 
 Clausola di invarianza finanziaria
 

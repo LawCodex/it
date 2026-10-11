@@ -32,7 +32,7 @@ Promulga
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Autorizzazione alla ratifica
 
@@ -42,13 +42,13 @@ a) Protocollo addizionale alla Convenzione sul trasferimento delle persone conda
 
 b) Protocollo di emendamento al Protocollo addizionale alla Convenzione sul trasferimento delle persone condannate, fatto a Strasburgo il 22 novembre 2017.
 
-### Art. 2
+## Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data ai Protocolli di cui all'articolo 1 a decorrere dalla data della loro entrata in vigore, in conformita' a quanto disposto, rispettivamente, dall'articolo 4 del Protocollo di cui all'articolo 1, comma 1, lettera a), e dall'articolo 4 del Protocollo di cui all'articolo 1, comma 1, lettera b).
 
-### Art. 3
+## Art. 3
 
 Copertura finanziaria
 
@@ -56,7 +56,7 @@ Copertura finanziaria
 
 2\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-### Art. 4
+## Art. 4
 
 Entrata in vigore
 
@@ -76,7 +76,7 @@ Visto, il Guardasigilli: Cartabia
 
 ## Allegati
 
-### Protocol amending
+## Protocol amending
 
 Allegato
 
@@ -102,7 +102,7 @@ Considerando auspicabile tanto un aggiornamento quanto un miglioramento del Prot
 
 Hanno, convenuto di modificare il Protocollo Addizionale come segue:
 
-### Articolo 1
+## Articolo 1
 
 Il titolo ed il primo paragrafo dell'articolo 2 sono emendati come segue:
 
@@ -114,7 +114,7 @@ a quando il soggetto e' fuggito, o ha in altro modo fatto ritorno, presso lo Sta
 
 b quando il soggetto e' fuggito, o ha in altro modo fatto ritorno, presso lo Stato di sua nazionalita' pur essendo consapevole dell'emissione di una sentenza nei suoi confronti."
 
-### Articolo 2
+## Articolo 2
 
 I paragrafi 1, 3.a e 4 dell'articolo 3 sono modificati come segue: "Articolo 3 - Persone condannate soggette ad un decreto di espulsione
 
@@ -136,7 +136,7 @@ b quando la persona condannata, avendo avuto un'opportunita' di lasciare il terr
 
 ## Disposizioni finali
 
-### Articolo 3
+## Articolo 3
 
 Firma e ratifica
 
@@ -144,25 +144,25 @@ Firma e ratifica
 
 2 Dopo l'apertura alla firma di questo Protocollo e prima della sua entrata in vigore, uno Stato parte alla Convenzione non puo' ratificare, accettare, approvare o aderire al Protocollo Addizionale se non ha simultaneamente ratificato, accettato o approvato questo Protocollo.
 
-### Articolo 4
+## Articolo 4
 
 Entrata in vigore
 
 Questo Protocollo entra in vigore il primo giorno del mese seguente allo scadere di un termine di tre mesi dalla data in cui tutti gli Stati parte del Protocollo Addizionale avranno espresso il loro consenso ad essere vincolati dal Protocollo, conformemente alle disposizioni dell'articolo 3.
 
-### Articolo 5
+## Articolo 5
 
 Applicazione provvisoria
 
 In attesa dell'entrata in vigore di questo Protocollo in accordo con le condizioni stabilite all'Articolo 4, uno Stato parte al Protocollo Addizionale puo' al momento della ratifica, accettazione o approvazione del presente Protocollo o in ogni momento successivo, dichiarare che applichera' le disposizioni di questo Protocollo a titolo provvisorio. In questi casi, le disposizioni di questo Protocollo si applicano solo nei confronti degli altri Stati Parte che hanno effettuato la medesima dichiarazione. Questa dichiarazione entra in vigore il primo giorno del secondo mese successivo alla data del suo recepimento da parte del Segretario Generale del Consiglio d'Europa.
 
-### Articolo 6
+## Articolo 6
 
 Termini di applicazione provvisoria
 
 Questo Protocollo cessera' di essere applicato a titolo provvisorio a partire dalla data della sua entrata in vigore.
 
-### Articolo 7
+## Articolo 7
 
 Notifiche
 
@@ -184,7 +184,7 @@ Fatto a Strasburgo, il 22 novembre 2017, nelle lingue inglese e francese, entram
 
 Il Segretario Generale del Consiglio d'Europa ne trasmettera' copia certificata ad ogni Stato membro del Consiglio d'Europa, agli altri Stati parte alla Convenzione e ad ogni altro Stato invitato ad aderire alla Convenzione.
 
-### Additional Protocol
+## Additional Protocol
 
 Additional Protocol
 
@@ -204,7 +204,7 @@ consapevoli del fatto che molti Stati non possono estradare i propri cittadini;
 
 considerato che e' altresi' opportuno completare la Convenzione su alcuni punti, hanno convenuto quanto segue:
 
-### Art. 1
+## Art. 1
 
 Disposizioni generali
 
@@ -212,7 +212,7 @@ Disposizioni generali
 
 2\. Le disposizioni della Convenzione sono applicabili nella misura in cui sono compatibili con le disposizioni del presente Protocollo.
 
-### Art. 2
+## Art. 2
 
 Persone evase dallo Stato di condanna
 
@@ -222,7 +222,7 @@ Persone evase dallo Stato di condanna
 
 3\. Per il trasferimento dell'esecuzione non e' necessario il consenso del condannato.
 
-### Art. 3
+## Art. 3
 
 Condannati oggetto di un provvedimento di espulsione o di riaccompagnamento alla frontiera
 
@@ -246,7 +246,7 @@ b) quando, avendo avuto la possibilita' di farlo, il condannato non ha lasciato,
 
 6\. Ogni Stato contraente puo', per mezzo di una dichiarazione indirizzata al Segretario Generale del Consiglio d'Europa, indicare che non procedera' all'esecuzione di condanne alle condizioni di cui al presente articolo.
 
-### Art. 4
+## Art. 4
 
 Firma ed entrata in vigore
 
@@ -258,7 +258,7 @@ Gli strumenti di ratifica, accettazione o approvazione sono depositati presso il
 
 3\. Per ogni Stato firmatario che depositera' successivamente lo strumento di ratifica, accettazione o approvazione, il Protocollo entra in vigore il primo giorno del mese successivo alla scadenza di un periodo di tre mesi a decorrere dalla data del deposito.
 
-### Art. 5
+## Art. 5
 
 Adesione
 
@@ -266,7 +266,7 @@ Adesione
 
 2\. Per ogni Stato aderente, il Protocollo entra in vigore il primo giorno del mese successivo alla scadenza di un periodo di tre mesi a decorrere dalla data di deposito dello strumento di adesione.
 
-### Art. 6
+## Art. 6
 
 Applicazione territoriale
 
@@ -276,13 +276,13 @@ Applicazione territoriale
 
 3\. Ogni dichiarazione fatta in applicazione dei due paragrafi precedenti puo' essere ritirata, per quanto riguarda qualsiasi territorio indicato in tale dichiarazione, mediante notifica indirizzata al Segretario Generale. Il ritiro ha efficacia dal primo giorno del mese successivo alla scadenza di un periodo di tre mesi a decorrere dalla data di ricevimento della notifica da parte del Segretario Generale.
 
-### Art. 7
+## Art. 7
 
 Applicazione temporale
 
 Il presente Protocollo e' applicabile all'esecuzione delle condanne pronunciate anteriormente o successivamente alla sua entrata in vigore.
 
-### Art. 8
+## Art. 8
 
 Denuncia
 
@@ -294,7 +294,7 @@ Denuncia
 
 4\. La denuncia della Convenzione comporta di diritto la denuncia del presente Protocollo.
 
-### Art. 9
+## Art. 9
 
 Notifiche
 

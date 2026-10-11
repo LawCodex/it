@@ -28,9 +28,7 @@ PROMULGA
 
 la seguente legge:
 
-## PARTE I - CONVERSIONE IN LEGGE, CON MODIFICAZIONI, DEL DECRETO-LEGGE 19 MARZO
-
-### 1981, N. 75
+## PARTE I - CONVERSIONE IN LEGGE, CON MODIFICAZIONI, DEL DECRETO-LEGGE 19 MARZO 1981, N. 75
 
 ##### ART. 1 - Dispositivo di conversione
 
@@ -84,11 +82,9 @@ dopo l'articolo 10 e' aggiunto il seguente:
 
 "ART. 10-bis. - Nei confronti dei contribuenti e dei sostituti d'imposta aventi domicilio fiscale nei comuni disastrati, individuati con il decreto del Presidente del Consiglio dei ministri di cui all'articolo 1, primo comma, del decreto-legge 13 febbraio 1981, n. 19 convertito, con modificazioni, nella legge 15 aprile 1981, n. 128, i termini per la presentazione delle dichiarazioni dei redditi e dei certificati di cui all'articolo 1, quarto comma, lettera d), del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, scaduti o aventi scadenza tra il 23 novembre 1980 e il 29 novembre 1981, sono fissati al 30 novembre 1981".
 
-## PARTE II - PROVVEDIMENTI ORGANICI PER LA RICOSTRUZIONE E LO SVILUPPO DEI
+## PARTE II - PROVVEDIMENTI ORGANICI PER LA RICOSTRUZIONE E LO SVILUPPO DEI TERRITORI COLPITI
 
-### TERRITORI COLPITI
-
-#### TITOLO I - ORGANIZZAZIONE DEGLI INTERVENTI
+### TITOLO I - ORGANIZZAZIONE DEGLI INTERVENTI
 
 ##### ART. 2 - Dichiarazione di preminente interesse nazionale
 
@@ -152,9 +148,7 @@ Entro il 15 settembre di ciascun anno le amministrazioni comunicano il programma
 
 Il Ministro per il coordinamento delle politiche comunitarie, d'intesa con il Ministro per gli interventi straordinari nel Mezzogiorno, coordina l'utilizzo integrato da parte dei soggetti interessati dei fondi e dei finanziamenti comunitari nei comuni colpiti dal terremoto del novembre 1980 e del febbraio 1981.
 
-## TITOLO II - RICOSTRUZIONE E RIPARAZIONE DELL'EDILIZIA RESIDENZIALE E DELLE OPERE
-
-### PUBBLICHE
+### TITOLO II - RICOSTRUZIONE E RIPARAZIONE DELL'EDILIZIA RESIDENZIALE E DELLE OPERE PUBBLICHE
 
 #### CAPO I. - INTERVENTI REGIONALI.
 
@@ -430,7 +424,7 @@ l) le condizioni di affidamento e di commesse per imprese che realizzino nuovi i
 
 ((Per gli interventi di nuova costruzione derivanti dall'attuazione dell'articolo 8 si applicano le norme fissate dal CIPE con delibera 11 giugno 1981 per l'edilizia abitativa dell'area metropolitana di Napoli di cui al primo comma dell'articolo 81)).
 
-## CAPO II - INTERVENTI STATALI.
+#### CAPO II - INTERVENTI STATALI.
 
 ##### ART. 17
 
@@ -464,11 +458,9 @@ AGGIORNAMENTO (7)
 
 La L. 19 aprile 1984, n. 80 ha disposto (con l'art. 2) che "le facolta' di cui agli articoli 17 e 60 della legge 14 maggio 1981, n. 219, e successive modificazioni, possono essere esercitate fino al 31 dicembre 1984".
 
-## TITOLO III - ATTIVITA' PRODUTTIVE
+### TITOLO III - ATTIVITA' PRODUTTIVE
 
-### CAPO I
-
-#### AGRICOLTURA.
+#### CAPO I - AGRICOLTURA.
 
 ##### ART. 18 - Interventi nel settore agricolo
 
@@ -490,9 +482,7 @@ Nel caso in cui gli assegnatari intendano avvalersi per l'esecuzione delle stess
 
 Tutte le operazioni di credito agrario previste dalle leggi nazionali e regionali sulla ricostruzione, effettuate a favore di coltivatori diretti, affittuari, mezzadri, coloni o compartecipanti, lavoratori della terra, singoli o associati, cooperative agricole, enti cooperativi e loro consorzi, associazioni dei produttori, sono assistite dalla garanzia sussidiaria del fondo interbancario di garanzia di cui all'articolo 36, escluso l'ultimo comma, della legge 2 giugno 1961, n. 454, e successive modificazioni.
 
-## CAPO II - INDUSTRIA, COMMERCIO, ARTIGIANATO, TURISMO, SPETTACOLO E
-
-### COOPERAZIONE.
+#### CAPO II - INDUSTRIA, COMMERCIO, ARTIGIANATO, TURISMO, SPETTACOLO E COOPERAZIONE.
 
 ##### Art. 21
 
@@ -584,7 +574,7 @@ I lavoratori, di cui al presente articolo, al termine del periodo di cassa integ
 
 ((Il Ministro del bilancio e della programmazione economica e' autorizzato a concedere contributi, a valere sui fondi di cui all'articolo 3 della presente legge, entro il limite complessivo di lire 20 miliardi, alle cooperative ed ai consorzi promossi da enti pubblici, Istituti di credito e dalla FIME, aventi come scopo la prestazione di garanzie ai fini di facilitare l'ottenimento del credito bancario e di ridurre gli oneri finanziari a carico delle imprese danneggiate dal terremoto del novembre 1980 e del febbraio 1981)).
 
-## TITOLO IV - NORME PARTICOLARI PER LE ZONE DISASTRATE
+### TITOLO IV - NORME PARTICOLARI PER LE ZONE DISASTRATE
 
 ##### ART. 27 - Direttive generali
 
@@ -700,7 +690,7 @@ Il canone di locazione agevolato sara' ridotto del 20 per cento a favore delle f
 
 Alla scadenza del contratto di locazione finanziaria i beni oggetto della locazione possono essere acquistati dal conduttore per un importo pari al 5 per cento del valore di acquisto o del costo di costruzione dei beni immobili e all'1 per cento del valore di acquisto dei beni mobili.
 
-## TITOLO V - PROGETTI REGIONALI DI SVILUPPO
+### TITOLO V - PROGETTI REGIONALI DI SVILUPPO
 
 ##### ART. 35 - Definizione dei progetti
 
@@ -736,11 +726,9 @@ di sviluppo).
 
 Al finanziamento dei piani e dei progetti regionali di sviluppo di cui al presente titolo, si provvede con le disponibilita' attribuite dalle leggi per la realizzazione degli interventi straordinari nel Mezzogiorno e per il 1981 con lo stanziamento di 2.000 miliardi, di cui alla legge 30 marzo 1981, n. 119, nonche' con i fondi e i finanziamenti comunitari e con il ricavato di prestiti esteri.
 
-## TITOLO VI - DISPOSIZIONI IN MATERIA DI PUBBLICA ISTRUZIONE E DI BENI CULTURALI
+### TITOLO VI - DISPOSIZIONI IN MATERIA DI PUBBLICA ISTRUZIONE E DI BENI CULTURALI
 
-### CAPO I
-
-#### UNIVERSITA' DEGLI STUDI DELLA BASILICATA
+#### CAPO I - UNIVERSITA' DEGLI STUDI DELLA BASILICATA
 
 ##### ART. 39 - Istituzione
 
@@ -842,7 +830,7 @@ Lo statuto andra' in vigore dalla data di pubblicazione nella Gazzetta Ufficiale
 
 Per tutto quanto non previsto dalla presente legge si applicano le norme vigenti per l'ordinamento universitario.
 
-## CAPO II - FACOLTA' DI INGEGNERIA NELL'UNIVERSITA' DI SALERNO
+#### CAPO II - FACOLTA' DI INGEGNERIA NELL'UNIVERSITA' DI SALERNO
 
 ##### ART. 48 - Istituzione
 
@@ -858,7 +846,7 @@ I posti di ruolo del personale docente ricercatore e non docente attualmente ass
 
 Alle spese di funzionamento della facolta' di ingegneria si fara' fronte con i normali stanziamenti degli appositi capitoli di bilancio del Ministero della pubblica istruzione.
 
-## CAPO III - DISPOSIZIONI VARIE.
+#### CAPO III - DISPOSIZIONI VARIE.
 
 ##### ART. 49 - Tirocinio degli insegnanti della scuola materna statale
 
@@ -886,7 +874,7 @@ Limitatamente all'anno scolastico 1981-1982 l'assegnazione provvisoria di sede p
 
 Il personale che versi nelle condizioni di cui sopra ha diritto alla precedenza assoluta rispetto ad altri eventuali aspiranti ad assegnazione provvisoria alla medesima sede in possesso dei titoli indicati dalle apposite ordinanze ministeriali relative all'anno scolastico 1981-1982. Nel caso di piu' aspiranti alla medesima sede che versino nelle condizioni di cui al primo comma si tiene conto delle ulteriori precedenze e del punteggio spettante ai singoli interessati in base alle tabelle di valutazione allegate alle menzionate ordinanze ministeriali.
 
-## CAPO IV - BENI CULTURALI
+#### CAPO IV - BENI CULTURALI
 
 ##### ART. 53 - Programmi del Ministero per i beni culturali e ambientali
 
@@ -896,11 +884,9 @@ Il Ministero per i beni culturali e ambientali organizza altresi', sentito il pa
 
 Comuni singoli o comuni associati, nonche' le comunita' montane, possono proporre, entro 60 giorni dall'approvazione della presente legge, un programma per la riattivazione o per la costruzione di strutture destinate ad attivita' bibliotecarie, di pubblica lettura e per lo svolgimento di iniziative culturali di base. Le richieste sono trasmesse alla Regione che predispone entro 60 giorni, d'intesa con gli enti locali interessati, il piano degli interventi.
 
-## TITOLO VII - NORME FINALI
+### TITOLO VII - NORME FINALI
 
-### CAPO I
-
-#### SEMPLIFICAZIONE DELLE PROCEDURE
+#### CAPO I - SEMPLIFICAZIONE DELLE PROCEDURE
 
 ##### ART. 54 - Controlli
 
@@ -960,7 +946,7 @@ Per l'aggiudicazione dei lavori sino all'importo previsto dall'articolo 1 della 
 
 Nel caso di lavori di importo fino a 500 milioni di lire, il certificato di collaudo e' sostituito da quello di regolare esecuzione, da emettere non oltre tre mesi dalla data di ultimazione.
 
-## CAPO II - DISPOSIZIONI ORGANIZZATIVE
+#### CAPO II - DISPOSIZIONI ORGANIZZATIVE
 
 ##### ART. 60 - Comuni e comunita' montane
 
@@ -1060,7 +1046,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 26 giugno 1981, n. 333, convertito con modificazioni dalla L. 6 agosto 1981, n. 456, ha disposto (con l'art. 3) che "il termine previsto dall'art. 71 della legge 14 maggio 1981, n. 219, e' elevato a sessanta giorni".
 
-## CAPO IV - AGEVOLAZIONI FISCALI.
+#### CAPO IV - AGEVOLAZIONI FISCALI.
 
 ##### ART. 72 - Acquisto di immobili
 
@@ -1118,7 +1104,7 @@ I soggetti all'imposta sul reddito delle persone fisiche, aventi domicilio fisca
 
 ((ARTICOLO ABROGATO DAL D.L. 7 NOVEMBRE 1983, N. 623, CONVERTITO CON MODIFICAZIONI DALLA L. 23 DICEMBRE 1983, N. 748)).
 
-## CAPO V - DISPOSIZIONI FINANZIARIE
+#### CAPO V - DISPOSIZIONI FINANZIARIE
 
 ##### ART. 78 - Prestiti esteri
 
@@ -1140,9 +1126,7 @@ Al relativo onere si provvede, quanto a lire 1.900 miliardi e quanto a lire 100 
 
 Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-## TITOLO VIII - INTERVENTO STATALE PER L'EDILIZIA
-
-### A NAPOLI
+### TITOLO VIII - INTERVENTO STATALE PER L'EDILIZIA A NAPOLI
 
 ##### ART. 80 - Procedure
 

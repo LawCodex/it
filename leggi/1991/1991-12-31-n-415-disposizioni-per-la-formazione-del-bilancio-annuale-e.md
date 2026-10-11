@@ -30,7 +30,7 @@ la seguente legge:
 
 ## CAPO I - DISPOSIZIONI DI CARATTERE FINANZIARIO
 
-#### Art. 1
+### Art. 1
 
 1\. Per l'anno 1992, il limite massimo del saldo netto da finanziare resta determinato in termini di competenza in lire 117.427 miliardi, al netto di lire 7.500 miliardi per la regolazione in titoli dei crediti d'imposta. Tenuto conto delle operazioni di rimborso di prestiti, il livello massimo del ricorso al mercato finanziario di cui all'articolo 11 della legge 5 agosto 1978, n. 468, come sostituito dall'articolo 5 della legge 23 agosto 1988, n. 362 - ivi compreso l'indebitamento all'estero per un importo complessivo non superiore a lire 4.000 miliardi relativo ad interventi non considerati nel bilancio di previsione per il 1992 - resta fissato, in termini di competenza, in lire 248.527 miliardi per l'anno finanziario 1992.
 
@@ -80,7 +80,7 @@ la seguente legge:
 
 > 6\. In ogni caso, ferme restando le modalita' di copertura di cui al comma 5, le nuove o maggiori spese disposte con la legge finanziaria non possono concorrere a determinare tassi di evoluzione delle spese medesime, sia correnti che in conto capitale, incompatibili con le regole determinate, ai sensi dell'art. 3, comma 2, lettera e), nel documento di programmazione economico-finanziaria, come deliberato dal Parlamento".
 
-#### Art. 2
+### Art. 2
 
 1\. Il maggior gettito eventualmente derivante in ciascuno degli anni 1992, 1993 e 1994, per effetto di provvedimenti legislativi recanti nuove o maggiori entrate rispetto alle previsioni di entrate contemplate nella legge di bilancio, per ciascuno di detti anni, e' interamente destinato alla riduzione del saldo netto da finanziare nell'anno corrispondente, quale indicato nell'articolo 1, salvo che si tratti di assicurare la copertura finanziaria di interventi urgenti ed imprevisti per fronteggiare calamita' naturali o improrogabili esigenze connesse alla tutela della sicurezza del Paese ovvero situazioni di emergenza economico-finanziaria.
 
@@ -210,7 +210,7 @@ la seguente legge:
 
 ## CAPO II - IN MATERIA DI ENTRATE
 
-#### Art. 3
+### Art. 3
 
 1\. In relazione a quanto disposto con il decreto del Presidente del Consiglio dei Ministri del 30 settembre 1991, pubblicato nella Gazzetta Ufficiale n. 230 del 1 ottobre 1991, emanato in applicazione dell'articolo 3, comma 2, del decreto legge 2 marzo 1989, n. 69 convertito, con modificazioni, dalla legge 27 aprile 1989, n. 154, le minori entrate per imposta sul reddito delle persone fisiche per gli anni 1992, 1993, e 1994, sono valutate, rispettivamente, in lire 3.400 miliadi, lire 5.000 miliardi e lire 5.800 miliardi.
 
@@ -348,11 +348,9 @@ a) se per l'anno 1991 e' stato dichiarato un reddito imponibile non superiore a 
 
 > Il versamento di acconto dell'imposta sul reddito delle persone fisiche e' stato introdotto dall'art. 1 della legge 23 marzo 1977, n. 97 (Disposizioni in materia di riscossione delle imposte sui redditi), come sostituito dall'art. 1 della legge 17 ottobre 1977, n. 749, poi modificato dall'art. 11 del D.L. 26 maggio 1978, n. 216, convertito, con modificazioni, dalla legge 24 luglio 1978, n. 388. L'ultimo aumento della misura dell'acconto (al 98%) e' stato disposto dall'art. 1, comma 4, del D.L. 1 ottobre 1991, n. 307, convertito, con modificazioni, dalla legge 29 novembre 1991, n. 377.
 
-## CAPO III - DISPOSIZIONI
+## CAPO III - DISPOSIZIONI PER IL SETTORE DEI TRASPORTI
 
-### PER IL SETTORE DEI TRASPORTI
-
-#### Art. 4
+### Art. 4
 
 1\. Per l'anno 1992, il fondo nazionale per il ripiano dei disavanzi di esercizio delle aziende di trasporto pubbliche e private nelle regioni a statuto ordinario e' stabilito in lire 4.764 miliardi, ivi compresa la variazione da determinarsi ai sensi dell'articolo 9 della legge 10 aprile 1981, n. 151, modificato dall'articolo 27-quater del decreto-legge 22 dicembre 1981, n. 786, convertito, con modificazioni, dalla legge 26 febbraio 1982, n. 51.
 
@@ -504,7 +502,7 @@ b) quanto alla lettera c), oneri per capitale ed interessi, valutati in lire 650
 
 ## CAPO IV - IN MATERIA DI FINANZA REGIONALE
 
-#### Art. 5
+### Art. 5
 
 1\. La quota variabile del fondo per il finanziamento dei programmi regionali di sviluppo di cui all'articolo 3, comma 1, lettera b), della legge 14 giugno 1990, n. 158, al netto degli stanziamenti annuali previsti dalle leggi di settore, e' determinata per l'anno 1994 in lire 287 miliardi; per gli anni 1992 e 1993 sono confermate le quote stabilite dall'articolo 12 della legge 29 dicembre 1990, n. 405.
 
@@ -516,11 +514,9 @@ b) quanto alla lettera c), oneri per capitale ed interessi, valutati in lire 650
 
 5\. Rimangono acquisite al bilancio dello Stato per l'anno 1992 le entrate di cui all'articolo 1-duodecies del decreto-legge 18 agosto 1978, n. 481, convertito, con modificazioni, dalla legge 21 ottobre 1978, n. 641, per la parte spettante alle regioni a statuto ordinario, quelle di cui ai decreti del Presidente della Repubblica 18 aprile 1979, pubblicati, rispettivamente, nella Gazzetta Ufficiale n. 171 del 23 giugno 1979 e n. 150 del 2 giugno 1979, che affluiscono ai capitoli di entrata 3358, per la parte spettante alle regioni a statuto ordinario e, 3360, nonche' quelle di cui all'articolo 2, lettera a), della legge 29 novembre 1977, n. 891.
 
-## CAPO V - DISPOSIZIONI
+## CAPO V - DISPOSIZIONI IN MATERIA DI PREVIDENZA
 
-### IN MATERIA DI PREVIDENZA
-
-#### Art. 6
+### Art. 6
 
 1\. L'importo dei versamenti dello Stato all'INPS, per il concorso agli oneri della gestione degli intrventi assistenziali e di sostegno alle gestioni previdenziali, ai fini della progressiva assunzione degli oneri stessi a carico del bilancio dello Stato, ai sensi dell'articolo 37 della legge 9 marzo 1989, n. 88, e' complessivamente stabilito per l'anno 1992 in lire 3.900 miliardi, ivi compreso l'importo di lire 2.600 miliardi in applicazione delle disposizioni, a decorrere dal 1992, di cui all'articolo 13, commi 1 e 2, della legge 29 dicembre 1990, n. 405, di cui lire 1.192 miliardi a titoli di adeguamento della quota parte di mensilita' delle pensioni erogate dal fondo pensioni lavoratori dipendenti, dalle gestioni dei lavoratori autonomi, dalla gestione speciale minatori e dall'ENPALS, ai sensi del comma 3, lettera c), del suddetto articolo 37.
 
@@ -630,7 +626,7 @@ Agli stessi soggetti e per il medesimo periodo e', altresi', concessa una riduzi
 
 ## CAPO VI - NORME FINALI
 
-#### Art. 7
+### Art. 7
 
 1\. La copertura della presente legge per le nuove o maggiori spese correnti, per le riduzioni di entrata e per le nuove finalizzazioni nette da iscrivere nel fondo speciale di parte corrente viene assicurata, ai sensi dell'articolo 11, comma 5, della legge 5 agosto 1978, n. 468, come sostituito dall'articolo 5 della legge 23 agosto 1988, n. 362, come da prospetto allegato.
 
@@ -658,43 +654,43 @@ Visto, il Guardasigilli: Martelli
 
 ## CAPO VI - NORME FINALI
 
-#### Prospetto
+### Prospetto
 
 Prospetto di copertura
 
 Parte di provvedimento in formato grafico
 
-#### Tabella A
+### Tabella A
 
 Tabella A
 
 Parte di provvedimento in formato grafico
 
-#### Tabella B
+### Tabella B
 
 Tabella B
 
 Parte di provvedimento in formato grafico
 
-#### Tabella C
+### Tabella C
 
 Tabella C
 
 Parte di provvedimento in formato grafico
 
-#### Tabella D
+### Tabella D
 
 Tabella D
 
 Parte di provvedimento in formato grafico
 
-#### Tabella E
+### Tabella E
 
 Tabella E
 
 Parte di provvedimento in formato grafico
 
-#### Tabella F
+### Tabella F
 
 Tabella F
 

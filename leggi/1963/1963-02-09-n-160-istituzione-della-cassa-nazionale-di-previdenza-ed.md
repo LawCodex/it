@@ -26,17 +26,15 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I - DELL'ISTITUZIONE E DELL'ORDINAMENTO
+## CAPO I - DELL'ISTITUZIONE E DELL'ORDINAMENTO DELLA CASSA
 
-### DELLA CASSA
-
-#### Art. 1
+### Art. 1
 
 E' istituita la "Cassa nazionale di previdenza e assistenza a favore dei ragionieri e periti commerciali" allo scopo di provvedere a trattamenti di previdenza ed assistenza.
 
 La Cassa, con sede in Roma, ha personalita' giuridica di diritto pubblico ed e' sottoposta alla vigilanza del Ministero del lavoro e della previdenza sociale.
 
-#### Art. 2
+### Art. 2
 
 Sono obbligatoriamente iscritti alla Cassa i ragionieri e periti commerciali iscritti nell'Albo professionale, che esercitano la libera professione.
 
@@ -44,7 +42,7 @@ La iscrizione e' facoltativa per coloro che abbiano compiuto il 60° anno di eta
 
 Il trattamento di pensione e' cumulabile con qualunque altro goduto dall'iscritto.
 
-#### Art. 3
+### Art. 3
 
 Gli organi della Cassa sono:
 
@@ -58,13 +56,13 @@ d) la Giunta esecutiva;
 
 e) il Collegio dei sindaci.
 
-#### Art. 4
+### Art. 4
 
 Il presidente, eletto dal Consiglio di amministrazione fra i suoi componenti, convoca e presiede il Comitato dei delegati, il Consiglio di amministrazione e la Giunta esecutiva; ha la rappresentanza della Cassa rimane in carica fino a quando dura il Consiglio di amministrazione che lo ha eletto e puo' essere rieletto.
 
 Il presidente e' coadiuvato e, in caso di impedimento o di assenza, e' sostituito dal vicepresidente eletto dal Consiglio di amministrazione.
 
-#### Art. 5
+### Art. 5
 
 ((1. Il comitato dei delegati e' composto dai rappresentanti degli iscritti alla Cassa, eletti dagli iscritti medesimi in ciascuna sede dei collegi professionali nel numero di un rappresentante per ogni 200, o frazione di 200 non inferiore a 100, ragionieri e periti commerciali che al 31 dicembre dell'anno precedente quello delle elezioni risultano iscritti alla Cassa di previdenza.
 
@@ -76,7 +74,7 @@ AGGIORNAMENTO (3)
 
 La L. 30 dicembre 1991, n. 414, ha disposto (con l'art. 40) che la modifica avra' effetto dal 1 gennaio dell'anno successivo a quello della suddetta pubblicazione.
 
-#### Art. 6
+### Art. 6
 
 Il Comitato dei delegati ha le seguenti funzioni:
 
@@ -90,7 +88,7 @@ d) esercita tutte le altre attribuzioni previste dalla legge.
 
 Il Comitato dei delegati dura in carica quattro anni.
 
-#### Art. 7
+### Art. 7
 
 Il Comitato dei delegati e' convocato, almeno due volte l'anno, dal presidente della Cassa mediante avviso contenente l'indicazione del giorno, dell'ora e del luogo della adunanza, nonche' l'elenco delle materie da trattare.
 
@@ -102,7 +100,7 @@ Sono valide le deliberazioni approvate dalla maggioranza dei delegati presenti.
 
 Il presidente deve convocare senza ritardo il Comitato dei delegati quando ne sia fatta domanda da almeno un quinto dei componenti o dal Collegio sindacale per la materia di propria competenza.
 
-#### Art. 8
+### Art. 8
 
 ((1. Il consiglio di amministrazione, nominato con decreto del Ministro del lavoro e della previdenza sociale, e' costituito da nove componenti di cui:
 
@@ -126,7 +124,7 @@ AGGIORNAMENTO (3)
 
 La L. 30 dicembre 1991, n. 414, ha disposto (con l'art. 40) che la modifica avra' effetto dal 1 gennaio dell'anno successivo a quello della suddetta pubblicazione.
 
-#### Art. 9
+### Art. 9
 
 Il Consiglio di amministrazione ha le seguenti funzioni:
 
@@ -154,11 +152,11 @@ AGGIORNAMENTO (3)
 
 La L. 30 dicembre 1991, n. 414, ha disposto (con l'art. 40) che la modifica avra' effetto dal 1 gennaio dell'anno successivo a quello della suddetta pubblicazione.
 
-#### Art. 10
+### Art. 10
 
 La Giunta esecutiva e' composta dal presidente, dal vicepresidente e da tre membri eletti tra i propri componenti dal Consiglio di amministrazione.
 
-#### Art. 11
+### Art. 11
 
 La Giunta ha le seguenti funzioni:
 
@@ -182,11 +180,11 @@ AGGIORNAMENTO (3)
 
 La L. 30 dicembre 1991, n. 414, ha disposto (con l'art. 40) che la modifica avra' effetto dal 1 gennaio dell'anno successivo a quello della suddetta pubblicazione.
 
-#### Art. 12
+### Art. 12
 
 Contro le deliberazioni della Giunta di cui alle lettere b), d) ed e) del precedente articolo 11 e' ammesso ricorso, nel termine di sessanta giorni dalla data di spedizione della lettera raccomandata di comunicazione, al Consiglio di amministrazione, che decide nei termine di sessanta giorni dalla presentazione del ricorso medesimo.
 
-#### Art. 13
+### Art. 13
 
 Il Collegio dei sindaci e' composto da cinque membri effettivi e quattro supplenti, dei quali:
 
@@ -204,7 +202,7 @@ I sindaci esercitano le proprie funzioni secondo le norme degli articoli 2403 e 
 
 I sindaci durano in carica quattro anni e possono essere riconfermati.
 
-#### Art. 14
+### Art. 14
 
 I componenti il Consiglio di amministrazione ed il Collegio dei sindaci, che si astengano, senza giustificato motivo, dal partecipare alle riunioni per tre sedute consecutive decadono dalla carica.
 
@@ -212,7 +210,7 @@ In caso di cessazione dalla carica nel corso del quadriennio per decadenza, dimi
 
 Tutti i membri nominati nel corso del quadriennio durano in carica fino alla scadenza dell'organo.
 
-#### Art. 15
+### Art. 15
 
 ((1. Al presidente, al vicepresidente, ai componenti il comitato dei delegati, ai componenti il consiglio di amministrazione, ai componenti la giunta esecutiva sono dovuti dalla Cassa il rimborso delle spese sostenute nell'esercizio dell'incarico, le indennita' ed i compensi, nella misura e con le modalita' stabilite dalle disposizioni di legge in materia per gli altri enti della stessa categoria e dello stesso livello soggetti alla legge 20 marzo 1975, n. 70.
 
@@ -226,7 +224,7 @@ La L. 30 dicembre 1991, n. 414, ha disposto (con l'art. 40) che la modifica avra
 
 ## CAPO II - DEL PATRIMONIO
 
-#### Art. 16
+### Art. 16
 
 Il patrimonio della Cassa e' costituito:
 
@@ -234,7 +232,7 @@ a) dai beni mobili e immobili che per acquisti, lasciti, donazioni e per qualsia
 
 b) dalle somme destinate a formare speciali accantonamenti.
 
-#### Art. 17
+### Art. 17
 
 Le entrate ordinarie e straordinarie della Cassa sono le seguenti:
 
@@ -258,7 +256,7 @@ La L. 30 dicembre 1991, n. 414, ha disposto (con l'art.16, comma 1) che "A decor
 
 Ha inoltre disposto (con l'art. 40) che la modifica avra' effetto dal 1 gennaio dell'anno successivo a quello della suddetta pubblicazione.
 
-#### Art. 18
+### Art. 18
 
 ((COMMA ABROGATO DALLA L. 23 DICEMBRE 1970, n. 1140)).
 
@@ -268,7 +266,7 @@ Dopo il primo bilancio tecnico, a cura della Cassa, con deliberazione del Consig
 
 La deliberazione di cui al comma precedente deve essere sottoposta all'approvazione del Ministero del lavoro e della previdenza sociale.
 
-#### Art. 19
+### Art. 19
 
 Il contributo di cui alla lettera b) dell'articolo 17 e' corrisposto mediante applicazione dei seguenti tipi di marche:
 
@@ -282,87 +280,87 @@ Il contributo di cui al presente articolo e' a carico dei committenti per conto 
 
 La L. 23 dicembre 1970, n. 1140, ha disposto (con l'art.23, comma 2) che " Al primo comma dell'articolo 19 rispettivamente della legge 3 febbraio 1963, n. 100, e della legge 9 febbraio 1963, n. 160, e' aggiunto il seguente punto: "3) da lire 250 sugli atti relativi a procedure concorsuali"."
 
-#### Art. 20
+### Art. 20
 
 La percentuale sugli onorari per incarichi giudiziari o sindacali prevista dalla lettera c) dell'articolo 17 e' fissata nella misura del due per cento.
 
-#### Art. 21
+### Art. 21
 
 L'iscritto alla Cassa puo' eseguire i versamenti volontari previsti dalla lettera d) dell'articolo 17 per aumentare l'importo della pensione o del corrispondente valore capitale.
 
 Le relative somme possono essere ritirate in qualsiasi momento, mediante preavviso di tre mesi in caso di comprovato bisogno.
 
-#### Art. 22
+### Art. 22
 
 I redditi del patrimonio di cui alla lettera e) dell'articolo 17 sono costituiti dagli interessi e dalle rendite dei beni mobili ed immobili.
 
-#### Art. 23
+### Art. 23
 
 Le eventuali entrate di cui alla lettera f) dell'articolo 17 sono costituite dagli incameramenti e da ogni altro eccezionale ed imprevisto provento.
 
 ## CAPO III - DEL TRATTAMENTO DI PREVIDENZA
 
-#### Art. 24
+### Art. 24
 
 ((ARTICOLO ABROGATO DALLA L. 23 DICEMBRE 1970, n. 1140))
 
-#### Art. 25
+### Art. 25
 
 ((ARTICOLO ABROGATO DALLA L. 23 DICEMBRE 1970, n. 1140))
 
-#### Art. 26
+### Art. 26
 
 ((ARTICOLO ABROGATO DALLA L. 23 DICEMBRE 1970, n. 1140))
 
-#### Art. 27
+### Art. 27
 
 ((ARTICOLO ABROGATO DALLA L. 23 DICEMBRE 1970, n. 1140))
 
-#### Art. 28
+### Art. 28
 
 ((ARTICOLO ABROGATO DALLA L. 23 DICEMBRE 1970, n. 1140))
 
-#### Art. 29
+### Art. 29
 
 ((ARTICOLO ABROGATO DALLA L. 23 DICEMBRE 1970, n. 1140))
 
-#### Art. 30
+### Art. 30
 
 L'iscritto che abbia conseguito il diritto a pensione non e' tenuto a corrispondere ulteriormente il contributo personale di cui alla lettera n) dell'articolo 17, ne' gli eventuali versamenti volontari di cui alla lettera d) dello stesso articolo e non e' ammesso alla ripartizione di entrate di qualsiasi genere.
 
-#### Art. 31
+### Art. 31
 
 L'iscritto che cessa di appartenere alla Cassa per cancellazione dall'albo, prima del consegnimento di diritto a pensione, ha facolta' di chiedere la liquidazione del proprio conto individuale.
 
 Alla data di cancellazione dall'albo il conto dello iscritto cessa di produrre interessi. In dieci anni dalla stessa data si prescrive il diritto alla liquidazione del conto e le somme in esso accreditate si devolvono alla Cassa.
 
-#### Art. 32
+### Art. 32
 
 L'iscritto che a qualunque titolo sia debitore verso la Cassa e' ammesso al godimento della pensione concorrendo le condizioni richieste, previa detrazione delle somme dovute e dei relativi interessi.
 
 L'iscritto moroso per oltre un biennio, senza giustificato motivo, perde, dopo intimazione scritta a mezzo raccomandata con ricevuta di ritorno con preavviso di due mesi il diritto alle prestazioni della Cassa, salvo quanto disposto dall'articolo 33.
 
-#### Art. 33
+### Art. 33
 
 Agli assegni ed alle liquidazioni di qualsiasi specie che la Cassa corrisponde ai propri iscritti, od ai loro familiari, si applicano, per quanto si riferisce al sequestro, al pignoramento ed alla cessione, le disposizioni vigenti per i dipendenti delle Amministrazioni dello Stato.
 
 ## CAPO IV - DEL TRATTAMENTO DI ASSISTENZA
 
-#### Art. 34
+### Art. 34
 
 Il trattamento di assistenza si attua con provvidenze o con la concessione di sussidi a favore degli iscritti che si trovino in stato di bisogno.
 
-#### Art. 35
+### Art. 35
 
 ((ARTICOLO ABROGATO DALLA L. 23 DICEMBRE 1970, n. 1140))
 
 ## CAPO V - DELLA GESTIONE FINANZIARIA
 
-#### Art. 36
+### Art. 36
 
 ((ARTICOLO ABROGATO DALLA L. 23 DICEMBRE 1970, n. 1140))
 
-#### Art. 37
+### Art. 37
 
 L'esercizio finanziario della Cassa comincia col primo gennaio e termina col 31 dicembre.
 
@@ -374,15 +372,15 @@ Alla fine di ogni quadriennio viene compilato il bilancio tecnico dal quale deve
 
 Il primo bilancio tecnico deve essere redatto non oltre il quinto anno di esercizio.
 
-#### Art. 38
+### Art. 38
 
 ((ARTICOLO ABROGATO DALLA L. 23 DICEMBRE 1970, n. 1140))
 
-#### Art. 39
+### Art. 39
 
 ((ARTICOLO ABROGATO DALLA L. 23 DICEMBRE 1970, n. 1140))
 
-#### Art. 40
+### Art. 40
 
 L'esazione del contributo per marche si effettua a cura del professionista al rilascio dell'atto. Le marche sono fornite dalla Cassa a mezzo di Istituti di credito di diritto pubblico. Il professionista preleva le marche anticipandone l'importo.
 
@@ -406,7 +404,7 @@ La L. 30 dicembre 1991, n. 414, ha disposto (con l'art.20, comma 9) che "Il term
 
 Ha inoltre disposto (con l'art. 40) che la modifica avra' effetto dal 1 gennaio dell'anno successivo a quello della suddetta pubblicazione.
 
-#### Art. 41
+### Art. 41
 
 Le somme delle quali non sia necessario conservare la liquidita' sono impiegate:
 
@@ -424,31 +422,31 @@ Le deliberazioni di cui al comma precedente debbono essere sottoposte all'approv
 
 ## DISPOSIZIONI TRANSITORIE E FINALI
 
-#### Art. 42
+### Art. 42
 
 ((ARTICOLO ABROGATO DALLA L. 23 DICEMBRE 1970, n. 1140))
 
-#### Art. 43
+### Art. 43
 
 ((ARTICOLO ABROGATO DALLA L. 23 DICEMBRE 1970, n. 1140))
 
-#### Art. 44
+### Art. 44
 
 Per il primo anno dall'entrata in vigore della presente legge i poteri attribuiti agli organi della Cassa sono esercitati da un commissario, nominato dal Ministro per il lavoro e la previdenza sociale, sentito il Consiglio nazionale dei ragionieri e periti commerciali.
 
 Entro l'undicesimo mese il commissario e' tenuto a indire le elezioni dei delegati.
 
-#### Art. 45
+### Art. 45
 
 Nel caso di ripetute violazioni di legge o di regolamento, ovvero qualora siano emerse gravi irregolarita' o deficienze amministrative, il Consiglio di amministrazione puo' essere sciolto con decreto del Presidente della Repubblica su proposta del Ministro per il lavoro e la previdenza sociale. Con lo stesso decreto e' nominato per la durata massima di un anno un commissario straordinario coi poteri del predetto Consiglio.
 
-#### Art. 46
+### Art. 46
 
 Entro due anni dall'entrata in vigore della presente legge, il Consiglio di amministrazione ne predispone il regolamento di esecuzione che sara' emanato con decreto del Presidente della Repubblica, su proposta del Ministro per il lavoro e la previdenza sociale.
 
 Fino a quando non sara' emanato il regolamento di cui al comma precedente, ferme restando le disposizioni di cui ali commi primo e secondo dell'articolo 5 della presente legge, le elezioni dei delegati si svolgono secondo le norme in vigore per l'elezione dei membri dei Consigli dei Collegi dei ragionieri e periti commerciali, in quanto applicabili:
 
-#### Art. 47
+### Art. 47
 
 La presente legge entra in vigore trenta giorni dopo la sua pubblicazione nella Gazzetta Ufficiale della Repubblica.
 
@@ -466,7 +464,7 @@ Visto, il Guardasigilli: BOSCO
 
 ## DISPOSIZIONI TRANSITORIE E FINALI
 
-#### Tabelle
+### Tabelle
 
 TABELLA A
 

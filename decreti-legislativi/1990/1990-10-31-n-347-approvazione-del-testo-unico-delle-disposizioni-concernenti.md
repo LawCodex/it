@@ -38,7 +38,7 @@ E M A N A
 
 il seguente decreto legislativo:
 
-#### Art. 1
+### Art. 1
 
 1\. E' approvato l'unito testo unico delle disposizioni concernenti le imposte ipotecaria e catastale, vistato dal proponente e composto di 21 articoli.
 
@@ -90,7 +90,7 @@ Visto, il Guardasigilli: VASSALLI
 
 TESTO UNICO DELLE DISPOSIZIONI CONCERNENTI LE IMPOSTE IPOTECARIA E CATASTALE
 
-#### Art. 1
+### Art. 1
 
 Oggetto dell'imposta
 
@@ -104,7 +104,7 @@ Oggetto dell'imposta
 
 > \- Il testo unico delle disposizioni concernenti l'imposta sulle successioni e donazioni, approvato con D.Lgs. n. 346/1990, e' pubblicato in questo stesso supplemento ordinario alla Gazzetta Ufficiale. Per il testo del relativo art. 3 si veda ivi.
 
-#### Art. 2
+### Art. 2
 
 Base imponibile per le trascrizioni
 
@@ -114,7 +114,7 @@ Base imponibile per le trascrizioni
 
 (( 2-bis. In deroga alle disposizioni del comma 2, per la trascrizione dei contratti preliminari ai sensi dell'articolo 2645-bis del codice civile l'imposta e' dovuta nella misura fissa )).
 
-#### Art. 3
+### Art. 3
 
 Base imponibile per le iscrizioni
 
@@ -124,7 +124,7 @@ Base imponibile per le iscrizioni
 
 3\. L'imposta dovuta sull'annotazione per restrizione di ipoteca e' commisurata al minor valore tra quello del credito garantito e quello degli immobili o parti di immobili liberati determinato secondo le disposizioni relative all'imposta di registro.
 
-#### Art. 4
+### Art. 4
 
 Imposta relativa a piu' formalita'
 
@@ -134,7 +134,7 @@ Imposta relativa a piu' formalita'
 
 3\. Le disposizioni dei commi 1 e 2 si applicano anche alle annotazioni soggette ad imposta proporzionale.
 
-#### Art. 5
+### Art. 5
 
 Trascrizione del certificato di successione
 
@@ -142,7 +142,7 @@ Trascrizione del certificato di successione
 
 2\. La trascrizione del certificato e' richiesta ai soli effetti stabiliti dal presente testo unico e non costituisce trascrizione degli acquisti a causa di morte degli immobili e dei diritti reali immobiliari compresi nella successione.
 
-#### Art. 6
+### Art. 6
 
 Termini per la trascrizione
 
@@ -164,7 +164,7 @@ AGGIORNAMENTO (21)
 
 Il D.Lgs. 24 settembre 2015, n. 158 come modificato dalla L. 28 dicembre 2015, n. 208 ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
 
-#### Art. 7
+### Art. 7
 
 Termine per le annotazioni
 
@@ -186,13 +186,13 @@ Termine per le annotazioni
 
 > "Art. 2896 (Aggiudicazione al terzo acquirente). - Se l'aggiudicazione segue a favore del terzo acquirente, il decreto di trasferimento deve essere annotato in margine alla trascrizione dell'atto di acquisto".
 
-#### Art. 8
+### Art. 8
 
 Privilegio
 
 1\. Il credito dello Stato per l'imposta ipotecaria dovuta sulle iscrizioni, rinnovazioni e relative annotazioni ha privilegio, oltre che sull'immobile cui la formalita' si riferisce a norma del codice civile, anche sul credito garantito con preferenza rispetto ad ogni ragione su di esso spettante a terzi.
 
-#### Art. 9 - Sanzioni
+### Art. 9 - Sanzioni
 
 1\. Chi omette la richiesta di trascrizione o le annotazioni obbligatorie e' punito con la sanzione amministrativa ((pari all'ottanta)) per cento dell'imposta. Se la richiesta di trascrizione o le annotazioni obbligatorie sono effettuate con un ritardo non superiore a trenta giorni, si applica la sanzione amministrativa ((pari al quarantacinque)) dell'ammontare delle imposte dovute.(20) (21) ((23))
 
@@ -224,7 +224,7 @@ Il D.Lgs. 14 giugno 2024, n. 87, ha disposto (con l'art. 5, comma 1) che le disp
 
 ## CAPO II - IMPOSTA CATASTALE
 
-#### Art. 10
+### Art. 10
 
 Oggetto e misura dell'imposta
 
@@ -240,11 +240,9 @@ AGGIORNAMENTO (14)
 
 Il D.L. 29 novembre 2008, n. 185, convertito con modificazioni dalla L. 28 gennaio 2009, n. 2, ha disposto ( con l'art. 30, comma 6-bis) che la modifica al presente articolo si applica fino al 31 dicembre 2009.
 
-## CAPO III - ACCERTAMENTO, LIQUIDAZIONE
+## CAPO III - ACCERTAMENTO, LIQUIDAZIONE E RISCOSSIONE
 
-### E RISCOSSIONE
-
-#### Art. 11
+### Art. 11
 
 Soggetti obbligati al pagamento
 
@@ -252,13 +250,13 @@ Soggetti obbligati al pagamento
 
 2\. Sono inoltre solidalmente tenuti al pagamento delle imposte, di cui al comma 1, tutti coloro nel cui interesse e' stata richiesta la formalita' o la voltura e, nel caso di iscrizioni e rinnovazioni, anche i debitori contro i quali e' stata iscritta o rinnovata l'ipoteca ((, nonche' l'utilizzatore dell'immobile concesso in locazione finanziaria)).
 
-#### Art. 12
+### Art. 12
 
 Uffici competenti
 
 1\. Gli uffici del registro sono competenti per l'imposta catastale e per l'imposta ipotecaria relative ad atti che importano trasferimenti di beni immobili ovvero costituzione o trasferimento di diritti reali immobiliari di godimento e sulle trascrizioni relative a certificati di successione. Gli uffici dei registri immobiliari sono competenti per l'imposta ipotecaria sulle altre formalita' che vi sono soggette.
 
-#### Art. 13
+### Art. 13
 
 Procedimenti e termini
 
@@ -284,7 +282,7 @@ AGGIORNAMENTO (24)
 
 Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-#### Art. 14
+### Art. 14
 
 Prova del pagamento delle imposte
 
@@ -296,7 +294,7 @@ Prova del pagamento delle imposte
 
 4\. Le imposte riscosse dall'ufficio del registro (( e versate direttamente dagli eredi e dai legatari )) sono distintamente annotate sugli atti, sulle sentenze, sulle denunzie e sulle quietanze rilasciate a prova dell'eseguito pagamento delle imposte di registro e sulle successioni e donazioni, nonche' sulle copie dei titoli registrati.
 
-#### Art. 15
+### Art. 15
 
 Esecuzione di formalita' e di volture senza previo pagamento dell'imposta
 
@@ -308,7 +306,7 @@ b) le formalita' e le volture richieste dalle amministrazioni dello Stato quando
 
 2\. L'ufficio competente indica l'imposta dovuta sui documenti di cui all'art. 14 e procede alla riscossione.
 
-#### Art. 16
+### Art. 16
 
 Formalita' e volture da eseguirsi a debito
 
@@ -328,7 +326,7 @@ e) le formalita' e le volture relative a procedure di fallimento e ad altre proc
 
 ((2-bis. Nei casi di cui alla lettera c) del comma 1, l'ufficio provinciale dell'Agenzia del territorio notifica apposito avviso di liquidazione alle parti interessate con l'invito a effettuare entro il termine di sessanta giorni il pagamento dell'imposta, decorsi i quali procede alla riscossione a norma dell'articolo 15)).
 
-#### Art. 17
+### Art. 17
 
 Decadenza
 
@@ -344,13 +342,13 @@ Decadenza
 
 ## CAPO IV - DISPOSIZIONI VARIE E FINALI
 
-#### Art. 18
+### Art. 18
 
 Misura minima dell'imposta proporzionale e arrotondamento
 
 1\. Le imposte ipotecaria e catastale dovute in misura proporzionale non possono essere inferiori alla misura fissa e sono arrotondate a lire (( mille )) per difetto se la frazione non e' superiore a lire (( cinquecento )) e per eccesso se superiore (( , ovvero all'unita', nel caso in cui i valori siano espressi in euro, per difetto se la frazione e' inferiore a 50 centesimi e per eccesso se non inferiore. ))
 
-#### Art. 19
+### Art. 19
 
 ((Tasse per i servizi ipotecari e catastali))
 
@@ -364,7 +362,7 @@ AGGIORNAMENTO (24)
 
 Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-#### Art. 20
+### Art. 20
 
 Disciplina dei libri fondiari
 
@@ -374,7 +372,7 @@ Disciplina dei libri fondiari
 
 > \- Il R.D. n. 499/1929, reca: "Disposizioni relative ai libri fondiari dei territori delle Nuove Provincie".
 
-#### Art. 21
+### Art. 21
 
 Entrata in vigore
 
@@ -384,7 +382,7 @@ Visto, il Presidente del Consiglio dei Ministri
 
 ANDREOTTI
 
-#### Tariffa
+### Tariffa
 
 TARIFFA
 
@@ -544,7 +542,7 @@ AGGIORNAMENTO (24)
 
 Il D.Lgs. 18 settembre 2024, n. 139, ha disposto (con l'art. 9, comma 3) che "Le disposizioni di cui al presente decreto hanno effetto a partire dal 1° gennaio 2025 e si applicano agli atti pubblici formati, agli atti giudiziari pubblicati o emanati, alle scritture private autenticate o presentate per la registrazione a partire da tale data, nonche' alle successioni aperte e agli atti a titolo gratuito fatti a partire da tale data".
 
-#### Tabella
+### Tabella
 
 ((Tabella delle tasse per i servizi ipotecari e catastali
 

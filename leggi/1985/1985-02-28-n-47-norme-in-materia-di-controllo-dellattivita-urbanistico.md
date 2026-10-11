@@ -26,11 +26,9 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I. - NORME IN MATERIA DI CONTROLLO DELL'ATTIVITA' URBANISTICO-EDILIZIA.
+## CAPO I. - NORME IN MATERIA DI CONTROLLO DELL'ATTIVITA' URBANISTICO-EDILIZIA. SANZIONI AMMINISTRATIVE E PENALI
 
-### SANZIONI AMMINISTRATIVE E PENALI
-
-#### ART. 1 - Legge-quadro
+### ART. 1 - Legge-quadro
 
 Fermo restando quanto previsto dal capo IV, le regioni emanano norme in materia di controllo dell'attivita' urbanistica ed edilizia e di sanzioni amministrative in conformita' ai principi definiti dai capi I, II e III della presente legge.
 
@@ -38,11 +36,11 @@ Fino all'emanazione delle norme regionali si applicano le norme della presente l
 
 Sono in ogni caso fatte salve le competenze delle regioni a statuto speciale e delle province autonome di Trento e di Bolzano.
 
-#### ART. 2 - Sostituzione di norme
+### ART. 2 - Sostituzione di norme
 
 Le disposizioni di cui al capo I della presente legge sostituiscono quelle di cui all'articolo 32 della legge 17 agosto 1942, n. 1150, ed agli articoli 15 e 17 della legge 28 gennaio 1977, n. 10.
 
-#### Art. 3
+### Art. 3
 
 ((ARTICOLO ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380)).((17))
 
@@ -54,7 +52,7 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-#### Art. 4
+### Art. 4
 
 ((ARTICOLO ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380)). ((17))
 
@@ -66,7 +64,7 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-#### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380)).((17))
 
@@ -78,7 +76,7 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-#### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380)).((17))
 
@@ -90,7 +88,7 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-#### Art. 7
+### Art. 7
 
 ARTICOLO ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380.(17)((20))
 
@@ -108,7 +106,7 @@ AGGIORNAMENTO (20)
 
 La corte costituzionale con sentenza 6 giugno - 3 ottobre 2024, n. 160 (in G.U. 1ª s.s. 9/10/2024, n. 41) ha dichiarato "l'illegittimita' costituzionale dell'art. 7, terzo comma, della legge 28 febbraio 1985, n. 47 (Norme in materia di controllo dell'attivita' urbanistico-edilizia, sanzioni, recupero e sanatoria delle opere edilizie), nella parte in cui non fa salvo il diritto di ipoteca iscritto a favore del creditore, non responsabile dell'abuso edilizio, in data anteriore alla trascrizione nei registri immobiliari dell'atto di accertamento dell'inottemperanza alla ingiunzione a demolire".
 
-#### Art. 8
+### Art. 8
 
 ((ARTICOLO ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380)).((17))
 
@@ -120,7 +118,7 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-#### Art. 9
+### Art. 9
 
 ((ARTICOLO ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380)).((17))
 
@@ -132,7 +130,7 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-#### Art. 10
+### Art. 10
 
 ((ARTICOLO ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380)).((17))
 
@@ -144,7 +142,7 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-#### Art. 11
+### Art. 11
 
 ((ARTICOLO ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380)).((17))
 
@@ -156,7 +154,7 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-#### Art. 12
+### Art. 12
 
 ((ARTICOLO ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380)).((17))
 
@@ -168,7 +166,7 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-#### Art. 13
+### Art. 13
 
 ((ARTICOLO ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380)).((17))
 
@@ -182,7 +180,7 @@ novembre 2001, n. 411, convertito con modificazioni dalla L. 31 dicembre 2001, n
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-#### Art. 14
+### Art. 14
 
 ((ARTICOLO ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380)).((17))
 
@@ -194,7 +192,7 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-#### Art. 15
+### Art. 15
 
 ((ARTICOLO ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380)).((17))
 
@@ -206,7 +204,7 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-#### Art. 16
+### Art. 16
 
 ((ARTICOLO ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380)).((17))
 
@@ -218,7 +216,7 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-#### Art. 17
+### Art. 17
 
 ((ARTICOLO ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380)).((17))
 
@@ -230,7 +228,7 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-#### Art. 18
+### Art. 18
 
 ((ARTICOLO ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380)).((17))
 
@@ -242,7 +240,7 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-#### Art. 19
+### Art. 19
 
 ((ARTICOLO ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380)).((17))
 
@@ -254,7 +252,7 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-#### Art. 20
+### Art. 20
 
 ((ARTICOLO ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380)).((17))
 
@@ -266,7 +264,7 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-#### Art. 21
+### Art. 21
 
 ((ARTICOLO ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380)).((17))
 
@@ -278,7 +276,7 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-#### Art. 22
+### Art. 22
 
 ((ARTICOLO ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380)).((17))
 
@@ -290,7 +288,7 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-#### ART. 23 - Controlli periodici mediante rilevamenti aerofotogrammetrici
+### ART. 23 - Controlli periodici mediante rilevamenti aerofotogrammetrici
 
 Le regioni stabiliscono, con proprie leggi, quali aree del territorio debbano essere assoggettate a particolare controllo periodico dell'attivita' urbanistica ed edilizia anche mediante rilevamenti aerofotogrammetrici, ed il conseguente aggiornamento delle scritture catastali.
 
@@ -302,13 +300,13 @@ Con la legge finanziaria si provvede alla determinazione della quota da destinar
 
 ## CAPO II. - SNELLIMENTO DELLE PROCEDURE URBANISTICHE ED EDILIZIE.
 
-#### ART. 24 - Strumenti per cui non e' richiesta l'approvazione regionale
+### ART. 24 - Strumenti per cui non e' richiesta l'approvazione regionale
 
 Salvo che per le aree e per gli ambiti territoriali individuati dalle regioni come di interesse regionale in sede di piano territoriale di coordinamento o, in mancanza, con specifica deliberazione, non e' soggetto ad approvazione regionale lo strumento attuativo di strumenti urbanistici generali, compresi i piani per l'edilizia economica e popolare nonche' i piani per gli insediamenti produttivi.
 
 Le regioni emanano norme cui i comuni debbono attenersi per l'approvazione degli strumenti di cui al comma precedente, al fine di garantire la snellezza del procedimento e le necessarie forme di pubblicita' e di partecipazione dei soggetti pubblici e privati. I comuni sono comunque tenuti a trasmettere alla regione, entro sessanta giorni, copia degli strumenti attuativi di cui al presente articolo. Sulle eventuali osservazioni della regione i comuni devono esprimersi con motivazioni puntuali.
 
-#### ART. 25 - Semplificazione delle procedure
+### ART. 25 - Semplificazione delle procedure
 
 Le regioni entro centottanta giorni dalla entrata in vigore della presente legge emanano norme che:
 
@@ -332,7 +330,7 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del comma 4 del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-#### Art. 26
+### Art. 26
 
 ((ARTICOLO ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380)).((17))
 
@@ -344,7 +342,7 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-#### Art. 27
+### Art. 27
 
 ((ARTICOLO ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380)).((17))
 
@@ -356,13 +354,13 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-#### ART. 28 - Valore venale dell'immobile
+### ART. 28 - Valore venale dell'immobile
 
 L'ufficio tecnico erariale e' tenuto a determinare, entro centoventi giorni dalla richiesta del comune, il valore venale degli immobili in relazione alla applicazione delle sanzioni previste dalla presente legge.
 
 ## CAPO III. - RECUPERO URBANISTICO DI INSEDIAMENTI ABUSIVI.
 
-#### ART. 29 - Varianti agli strumenti urbanistici e poteri normativi delle regioni
+### ART. 29 - Varianti agli strumenti urbanistici e poteri normativi delle regioni
 
 Entro novanta giorni dall'entrata in vigore della presente legge le regioni disciplinano con proprie leggi la formazione, adozione e approvazione delle varianti agli strumenti urbanistici generali finalizzati al recupero urbanistico degli insediamenti abusivi, esistenti al 1 ottobre 1983, entro un quadro di convenienza economica e sociale. Le varianti devono tener conto dei seguenti principi fondamentali:
 
@@ -392,7 +390,7 @@ Decorso il termine di novanta giorni, di cui al primo comma, e fino alla emanazi
 
 ((4. Le proposte di varianti di recupero urbanistico possono essere presentate da parte di soggetti pubblici e privati, con allegato un piano di fattibilita' tecnico, economico, giuridico e amministrativo, finalizzato al finanziamento, alla realizzazione e alla gestione di opere di urbanizzazione primaria e secondaria e per il recupero urbanistico ed edilizio, volto al raggiungimento della sostenibilita' ambientale, economica e sociale, alla coesione degli abitanti dei nuclei edilizi inseriti nelle varianti e alla rivitalizzazione delle aree interessate dall'abusivismo edilizio.))
 
-#### ART. 30 - Facolta' e obblighi dei comuni
+### ART. 30 - Facolta' e obblighi dei comuni
 
 In luogo della indennita' di esproprio, i proprietari di lotti di terreno, vincolati a destinazioni pubbliche a seguito delle varianti di cui all'articolo 29, possono chiedere che vengano loro assegnati equivalenti lotti disponibili nell'ambito dei piani di zona di cui alla legge 18 aprile 1962, n. 167, per costruirvi, singolarmente o riuniti in cooperativa, la propria prima abitazione. Per i fini previsti dal presente comma e dal successivo secondo comma, i comuni che procedono all'adozione delle varianti di cui all'articolo 29 devono comunque provvedere, anche se non obbligati ai sensi delle norme vigenti, alla formazione dei piani di zona previsti dalla legge 18 aprile 1962, n. 167, senza tener conto del limite minimo del quaranta per cento di cui all'articolo 2, terzo comma, della legge 28 gennaio 1977, n. 10, ovvero procedere agli opportuni ampliamenti dei piani gia' approvati. I proprietari di terreni, coltivatori diretti o imprenditori agricoli a titolo principale, possono chiedere al comune, in luogo dell'indennita' di esproprio, l'assegnazione in proprieta' di equivalenti terreni, facenti parte del patrimonio disponibile delle singole amministrazioni comunali, per continuare l'esercizio dell'attivita' agricola.
 
@@ -400,11 +398,9 @@ I proprietari degli edifici per i quali e' prevista la demolizione possono chied
 
 I soggetti abitanti, a titolo di proprieta' o di locazione decorrente da data certa, anteriore all'entrata in vigore della presente legge, in edifici, ultimati ai sensi del secondo comma dell'articolo 31 della presente legge, alla data del 1 ottobre 1983, dei quali e' prevista la demolizione, a seguito dell'approvazione degli strumenti di recupero urbanistico, sono preferiti, purche' abbiano versato i contributi ex Gescal per almeno cinque anni, a parita' di punteggio nella graduatoria di assegnazione in locazione di alloggi cui abbiano titolo a norma di legge.
 
-## CAPO IV. - OPERE SANABILI. SOGGETTI LEGITTIMATI. CONSERVAZIONE DEI RAPPORTI
+## CAPO IV. - OPERE SANABILI. SOGGETTI LEGITTIMATI. CONSERVAZIONE DEI RAPPORTI SORTI SULLA BASE DI DECRETI-LEGGE NON CONVERTITI.
 
-### SORTI SULLA BASE DI DECRETI-LEGGE NON CONVERTITI.
-
-#### ART. 31 - Sanatoria delle opere abusive
+### ART. 31 - Sanatoria delle opere abusive
 
 Possono, su loro richiesta, conseguire la concessione o la autorizzazione in sanatoria i proprietari di costruzioni e di altre opere che risultino essere state ultimate entro la data del 1 ottobre 1983 ed eseguite:
 
@@ -420,7 +416,7 @@ Conservano efficacia gli atti ed i provvedimenti adottati in applicazione delle 
 
 Per le opere ultimate anteriormente al 1 settembre 1967 per le quali era richiesto, ai sensi dell'articolo 31, primo comma, della legge 17 agosto 1942, n. 1150, e dei regolamenti edilizi comunali, il rilascio della licenza di costruzione, i soggetti di cui ai commi primo e terzo del presente articolo conseguono la concessione in sanatoria previo pagamento, a titolo di oblazione, della somma determinata a norma dell'articolo 34 della presente legge.
 
-#### ART. 32
+### ART. 32
 
 ((Opere costruite su aree sottoposte a vincolo.
 
@@ -454,7 +450,7 @@ La L. 27 dicembre 1997, n. 449 ha disposto (con l'art. 1, comma 10) che il prese
 
 relazione alle specifiche competenze dell'amministrazione stessa."
 
-#### ART. 33 - Opere non suscettibili di sanatoria
+### ART. 33 - Opere non suscettibili di sanatoria
 
 Le opere di cui all'articolo 31 non sono suscettibili di sanatoria quando siano in contrasto con i seguenti vincoli, qualora, questi comportino inedificabilita' e siano stati imposti prima della esecuzione delle opere stesse:
 
@@ -470,7 +466,7 @@ Sono altresi' escluse dalla sanatoria le opere realizzate su edifici ed immobili
 
 Per le opere non suscettibili di sanatoria ai sensi del presente articolo si applicano le sanzioni previste dal capo I.
 
-#### ART. 34 - Somma da corrispondere a titolo di oblazione
+### ART. 34 - Somma da corrispondere a titolo di oblazione
 
 I soggetti di cui al primo e terzo comma dell'articolo 31 hanno titolo, fermo il disposto di cui all'articolo 37, a conseguire la concessione o l'autorizzazione in sanatoria delle opere abusive, previo versamento all'erario, a titolo di oblazione, di una somma determinata, con riferimento alla parte abusivamente realizzata, secondo le prescrizioni dell'allegata tabella, in relazione al tipo di abuso commesso e al tempo in cui l'opera abusiva e' stata ultimata.
 
@@ -496,7 +492,7 @@ d) e' ridotta di un terzo qualora l'opera abusiva sia destinata ad attivita' tur
 
 e) e' ridotta del 50 per cento qualora l'opera abusiva sia realizzata nelle zone agricole in funzione della conduzione del fondo e delle esigenze produttive dei coltivatori diretti o degli imprenditori agricoli a titolo principale.
 
-#### ART. 35 - Procedimento per la sanatoria
+### ART. 35 - Procedimento per la sanatoria
 
 La domanda di concessione o di autorizzazione in sanatoria deve essere presentata al comune interessato entro il termine perentorio del 30 novembre 1985 .
 
@@ -574,7 +570,7 @@ AGGIORNAMENTO (11)
 
 La L. 23 dicembre 1994, n. 724 ha disposto (con l'art. 39, comma 4) che "La documentazione di cui all'articolo 35, terzo comma, della legge 28 febbraio 1985, n. 47, e' sostituita da apposita dichiarazione del richiedente resa ai sensi dell'articolo 4 della legge 4 gennaio 1968, n. 15. Resta fermo l'obbligo di allegazione della documentazione fotografica e, ove prescritto, quello di presentazione della perizia giurata, della certificazione di cui alla lettera b) del predetto terzo comma, nonche' del progetto di adeguamento statico di cui al quinto comma dello stesso articolo 35."
 
-#### ART. 36 - Rateizzazione
+### ART. 36 - Rateizzazione
 
 ((Nella ipotesi di cui al terzo e quarto comma dell'articolo 34 i soggetti che posseggono, alla data di entrata in vigore della presente legge, i requisiti di reddito per essere assegnatari in locazione di un alloggio di edilizia pubblica sovvenzionata possono, allegando l'ultima dichiarazione dei redditi presentata da ciascun componente del nucleo familiare, versare all'atto della presentazione della domanda la prima rata in misura pari ad un ventesimo dell'oblazione determinata secondo il disposto dei menzionati commi.
 
@@ -588,7 +584,7 @@ Le rate di cui ai commi precedenti non possono comunque essere inferiori a lire 
 
 Il nominativo dei beneficiari e' trasmesso dal comune al Ministero delle finanze per l'inserimento nelle categorie di cui ai decreti concernenti i criteri per l'effettuazione dei controlli fiscali globali.
 
-#### ART. 37 - Contributo di concessione
+### ART. 37 - Contributo di concessione
 
 Il versamento dell'oblazione non esime i soggetti di cui all'articolo 31, primo e terzo comma, dalla corresponsione al comune, ai fini del rilascio della concessione, del contributo previsto dall'articolo 3 della legge 28 gennaio 1977, n. 10, ove dovuto.
 
@@ -598,7 +594,7 @@ Le regioni possono inoltre prevedere la corresponsione di un contributo ai fini 
 
 Il potere di legiferare ai sensi del secondo e terzo comma e' esercitato entro novanta giorni dall'entrata in vigore della presente legge; decorso inutilmente tale termine si applicano le norme vigenti ((all'entrata in vigore della presente legge)).
 
-#### ART. 38 - Effetti della oblazione e della concessione in sanatoria
+### ART. 38 - Effetti della oblazione e della concessione in sanatoria
 
 La presentazione entro il termine perentorio della domanda di cui all'articolo 31, accompagnata dalla attestazione, del versamento della somma di cui al primo comma dell'articolo 35, sospende il procedimento penale e quello per le sanzioni amministrative.
 
@@ -620,11 +616,11 @@ AGGIORNAMENTO (15)
 
 La L. 30 aprile 1999, n. 136, ha disposto (con l'art. 24, comma 1) che "Il secondo comma dell'articolo 38 della legge 28 febbraio 1985, n. 47, e successive modificazioni, deve intendersi nel senso che la corresponsione per intero dell'oblazione, purche' compiuta da uno dei soggetti legittimati a presentare la domanda di cui all'articolo 31 della stessa legge, estingue nei confronti di tutti i soggetti interessati i reati di cui all'articolo 41 della legge 17 agosto 1942, n. 1150, e successive modificazioni, all'articolo 17 della legge 28 gennaio 1977, n. 10, e successive modificazioni, all'articolo 221 del testo unico delle leggi sanitarie, approvato con regio decreto 27 luglio 1934, n. 1265, e agli articoli 13, primo comma, 14, 15 e 16 della legge 5 novembre 1971, n. 1086."
 
-#### ART. 39 - Effetti del diniego di sanatoria
+### ART. 39 - Effetti del diniego di sanatoria
 
 ((L'effettuazione dell'oblazione, qualora le opere non possano conseguire la sanatoria, estingue i reati contravvenzionali di cui all'articolo 38. Le sanzioni amministrative consistenti nel pagamento di una somma di danaro sono ridotte in misura corrispondente all'oblazione versata se l'interessato dichiari di rinunciare al rimborso)).
 
-#### ART. 40 - Mancata presentazione dell'istanza
+### ART. 40 - Mancata presentazione dell'istanza
 
 Se nel termine prescritto non viene presentata la domanda di cui all'articolo 31 per opere abusive realizzate in totale difformita' o in assenza della licenza o concessione, ovvero se la domanda presentata, per la rilevanza delle omissioni o delle inesattezze riscontrate, deve ritenersi dolosamente infedele, si applicano le sanzioni di cui al capo I. Le stesse sanzioni si applicano se, presentata la domanda, non viene effettuata l'oblazione dovuta. ((PERIODO ABROGATO DAL D.L. 12 GENNAIO 1988, N. 2, CONVERTITO CON MODIFICAZIONI DALLA L. 13 MARZO 1988, N. 68)).
 
@@ -638,7 +634,7 @@ Le nullita' di cui al secondo comma del presente articolo non si applicano ai tr
 
 Nella ipotesi in cui l'immobile rientri nelle previsioni di sanabilita' di cui al capo IV della presente legge e sia oggetto di trasferimento derivante da procedure esecutive, la domanda di sanatoria puo' essere presentata entro centoventi giorni dall'atto di trasferimento dell'immobile purche' le ragioni di credito per cui si interviene o procede siano di data anteriore all'entrata in vigore della presente legge.
 
-#### ART. 41 - Esecuzione delle sanzioni ai fini della commerciabilita' dei beni
+### ART. 41 - Esecuzione delle sanzioni ai fini della commerciabilita' dei beni
 
 Ai fini della commerciabilita' dei beni, possono essere stipulati gli atti aventi per oggetto diritti reali relativi ad immobili ((la cui costruzione sia stata iniziata successivamente al 1° settembre 1967)) per i quali sia esibita idonea certificazione rilasciata dall'autorita' competente che attesti l'avvenuto integrale adempimento delle prescrizioni dei ((provvedimenti sanzionatori adottati ai sensi dell'articolo 41 della legge 17 agosto 1942, n. 1150, modificato dall'articolo 13 della legge 6 agosto 1967, n. 765, per il caso di opere eseguite senza la licenza di costruzione o in base a licenza annullata, e ai sensi del nono comma dell'articolo 15 della legge 28 gennaio 1977, n. 10)). Degli estremi dei documenti esibiti dovra' farsi menzione in atto; ((si applica in ogni caso il disposto dell'ultimo comma dell'articolo 17 e del primo comma dell'articolo 21 della presente legge)).
 
@@ -648,11 +644,11 @@ La certificazione di cui al primo comma e' rilasciata dalla competente autorita'
 
 ((Le disposizioni di cui sopra non si applicano comunque agli atti costitutivi, modificativi od estintivi di diritti reali di garanzia o di servitu')).
 
-#### ART. 42 - Prevalenza sulle leggi speciali
+### ART. 42 - Prevalenza sulle leggi speciali
 
 Le disposizioni del presente capo prevalgono sulla diversa disciplina procedimentale stabilita dalla legge 16 aprile 1973, n. 171, e dal decreto del Presidente della Repubblica 20 settembre 1973, n. 791.
 
-#### ART. 43 - Procedimenti in corso
+### ART. 43 - Procedimenti in corso
 
 L'esistenza di provvedimenti sanzionatori non ancora eseguiti, ovvero ancora impugnabili o nei cui confronti pende l'impugnazione, non impedisce il conseguimento della sanatoria. ((3))
 
@@ -672,7 +668,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 12 gennaio 1988, n. 2, convertito, con modificazioni dalla L. 13 marzo 1988, n. 68 ha disposto (con l'art. 12-bis, comma 1) che il primo comma del presente articolo "va interpretato nel senso che l'esistenza di provvedimenti sanzionatori, anche se adottati a seguito di giudizio di ottemperanza, ma comunque non eseguiti, non impedisce il conseguimento della sanatoria."
 
-#### ART. 44 - Sospensione dei procedimenti
+### ART. 44 - Sospensione dei procedimenti
 
 Dalla data di entrata in vigore della presente legge e fino alla scadenza dei termini fissati dall'articolo 35, sono sospesi i procedimenti amministrativi e giurisdizionali e la loro esecuzione , quelli penali nonche' quelli connessi all'applicazione dell'articolo 15 della legge 6 agosto 1967, n. 765, attinenti al presente capo.
 
@@ -684,7 +680,7 @@ Decorso il termine del 30 settembre 1986 senza che sia stata presentata domanda 
 
 ## CAPO V. - DISPOSIZIONI FINALI.
 
-#### Art. 45
+### Art. 45
 
 ((ARTICOLO ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380)). ((17))
 
@@ -696,7 +692,7 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-#### Art. 46
+### Art. 46
 
 ((ARTICOLO ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380)).((17))
 
@@ -708,7 +704,7 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-#### Art. 47
+### Art. 47
 
 ((ARTICOLO ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380)).((17))
 
@@ -720,13 +716,13 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-#### ART. 47-bis
+### ART. 47-bis
 
 (( (Dichiarazioni dei rappresentanti).
 
 Tutte le dichiarazioni da rendersi ai sensi della presente legge, anche agli effetti della legge 4 gennaio 1968, n. 15, dai proprietari o da altri aventi titolo, possono essere rilasciate anche da rappresentanti legali o volontari)).
 
-#### Art. 48
+### Art. 48
 
 ((ARTICOLO ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380)).((17))
 
@@ -738,15 +734,15 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 138, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 30 giugno 2002 al 30 giugno 2003.
 
-#### ART. 49 - Sanatorie regionali
+### ART. 49 - Sanatorie regionali
 
 Coloro che abbiano gia' conseguito sanatorie in base alla normativa regionale vigente hanno diritto a detrarre l'importo delle somme versate dal contributo di cui al primo comma dell'articolo 37 della presente legge.
 
-#### ART. 50 - Variazioni di bilancio
+### ART. 50 - Variazioni di bilancio
 
 Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### ART. 51 - Determinazione delle superfici
+### ART. 51 - Determinazione delle superfici
 
 ((Ai fini del calcolo dell'oblazione, i riferimenti alle superfici, previsti dalla presente legge, sono computati in conformita' ai parametri di cui agli articoli 2 e 3 del decreto ministeriale 10 maggio 1977, pubblicato nella Gazzetta Ufficiale n. 146 del 31 maggio 1977.
 
@@ -754,7 +750,7 @@ Le superfici delle opere che beneficiano della riduzione di cui al precedente ar
 
 Ai fini del calcolo dell'oblazione non sono computati i volumi tecnici delle costruzioni nonche' quelli relativi a serbatoi, cabine o simili realizzati nell'ambito di stabilimenti soggetti a regime di concessione di pubblica utilita' o servizio pubblico, la cui realizzazione sia prevista dal decreto di concessione emesso previo consenso dell'amministrazione comunale.
 
-#### ART. 52 - Iscrizione al catasto
+### ART. 52 - Iscrizione al catasto
 
 ((COMMA ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380)).((17))
 
@@ -838,7 +834,7 @@ Il D.P.R. 6 giugno 2001, n. 380, come modificato dal D.L. 23 novembre 2001, n. 4
 
 ## CAPO V. - DISPOSIZIONI FINALI.
 
-#### Tabella
+### Tabella
 
 TABELLA.
 

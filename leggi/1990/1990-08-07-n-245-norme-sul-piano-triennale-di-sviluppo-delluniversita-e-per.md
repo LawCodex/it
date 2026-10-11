@@ -30,39 +30,35 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I - NORME SULLA PROGRAMMAZIONE
+## CAPO I - NORME SULLA PROGRAMMAZIONE UNIVERSITARIA
 
-### UNIVERSITARIA
-
-#### Art. 1
+### Art. 1
 
 ((ARTICOLO ABROGATO DAL D.P.R. 27 GENNAIO 1998, N. 25))
 
-#### Art. 2
+### Art. 2
 
 ((ARTICOLO ABROGATO DAL D.P.R. 27 GENNAIO 1998, N. 25))
 
-#### Art. 3
+### Art. 3
 
 ((ARTICOLO ABROGATO DAL D.P.R. 27 GENNAIO 1998, N. 25))
 
-#### Art. 4
+### Art. 4
 
 ((ARTICOLO ABROGATO DAL D.P.R. 27 GENNAIO 1998, N. 25))
 
-#### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.P.R. 27 GENNAIO 1998, N. 25))
 
-#### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.P.R. 27 GENNAIO 1998, N. 25))
 
-## CAPO II - NORME PER L'ATTUAZIONE DEL PIANO QUADRIENNALE DI SVILUPPO
+## CAPO II - NORME PER L'ATTUAZIONE DEL PIANO QUADRIENNALE DI SVILUPPO DELL'UNIVERSITA' 1986-1990.
 
-### DELL'UNIVERSITA' 1986-1990.
-
-#### Art. 7
+### Art. 7
 
 Attuazione del piano quadriennale 1986-1990
 
@@ -78,7 +74,7 @@ Attuazione del piano quadriennale 1986-1990
 
 > \- Il D.P.C.M. 12 maggio 1989 reca: "Approvazione del piano di sviluppo dell'Universita' per gli anni 1986-1990".
 
-#### Art. 8
+### Art. 8
 
 Istituzione del Politecnico di Bari
 
@@ -112,7 +108,7 @@ Istituzione del Politecnico di Bari
 
 > 2\) nelle universita' e negli istituti superiori liberi".
 
-#### Art. 9
+### Art. 9
 
 Statizzazione dell'Istituto universitario di magistero di Catania
 
@@ -148,7 +144,7 @@ c) la successione dell'Universita' nei rapporti giuridici facenti capo ad esso.
 
 > Fino all'adozione delle norme delegate che provvedono a rivedere gli ordinamenti delle scuole a fini speciali e delle scuole di specializzazione e perfezionamento, nulla e' innovato, per l'attribuzione degli insegnamenti in dette scuole, negli ordinamenti vigenti, oltre a quanto disposto nel presente decreto. Per gli insegnamenti eventualmente attribuiti ai professori di ruolo valgono le norme previste dal precedente art. 9. anche se a tempo pieno".
 
-#### Art. 10
+### Art. 10
 
 Istituzione della II Universita' di Napoli
 
@@ -160,7 +156,7 @@ Istituzione della II Universita' di Napoli
 
 > \- Per l'art. 1, secondo comma, n. 1), del citato regio decreto n. 1592/1933 vedi precedente nota all'art. 8.
 
-#### Art. 11
+### Art. 11
 
 Aumento delle dotazioni organiche
 
@@ -194,7 +190,7 @@ Aumento delle dotazioni organiche
 
 ## CAPO III - NORME TRANSITORIE E FINALI
 
-#### Art. 12
+### Art. 12
 
 Disposizioni sul piano 1991-1993 e sul primo rapporto
 
@@ -208,7 +204,7 @@ sullo stato della istruzione universitaria
 
 > \- Per l'art. 2, comma 1, lettera a), della citata legge n. 168/1989, vedi precedente nota all'art. 1.
 
-#### Art. 13
+### Art. 13
 
 Attuazione del riordinamento della facolta' di ingegneria
 
@@ -222,7 +218,7 @@ Attuazione del riordinamento della facolta' di ingegneria
 
 > "Art. 3. Entro sei mesi dall'entrata in vigore del presente decreto i Politecnici e le Universita' degli studi adegueranno l'ordinamento della facolta' in ingegneria e l'ordinamento didattico dei relativi corsi di laurea in conformita' all'allegata tabella XXIX, con la procedura di cui all'art. 17 del testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592".
 
-#### Art. 14
+### Art. 14
 
 Fondo di incentivazione per il personale
 
@@ -244,17 +240,17 @@ in servizio presso il Ministero
 
 > \- La legge n. 93/1983 reca: "Legge quadro sul pubblico impiego".
 
-#### Art. 15
+### Art. 15
 
 ((ARTICOLO ABROGATO DAL D.P.R. 27 GENNAIO 1998, N. 25))
 
-#### Art. 16
+### Art. 16
 
 Norma abrogativa
 
 1\. Sono abrogate tutte le disposizioni in contrasto con la presente legge.
 
-#### Art. 17
+### Art. 17
 
 Norma finanziaria
 

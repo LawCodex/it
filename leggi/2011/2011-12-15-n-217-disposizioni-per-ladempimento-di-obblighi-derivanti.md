@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I
+## Capo I - Disposizioni generali
 
-### Disposizioni generali
-
-#### Art. 1
+### Art. 1
 
 Delega al Governo per la disciplina sanzionatoria di violazioni di disposizioni comunitarie
 
@@ -108,7 +106,7 @@ Delega al Governo per la disciplina sanzionatoria di violazioni di disposizioni 
 
 > i) quando non sono di ostacolo i diversi termini di recepimento, sono attuate con un unico decreto legislativo le direttive che riguardano le stesse materie o che comunque comportano modifiche degli stessi atti normativi.".
 
-#### Art. 2
+### Art. 2
 
 Oneri relativi a prestazioni e controlli
 
@@ -142,7 +140,7 @@ Oneri relativi a prestazioni e controlli
 
 > 2-bis. Le entrate derivanti dalle tariffe determinate ai sensi del comma 2 sono attribuite, nei limiti previsti dalla legislazione vigente, alle amministrazioni che effettuano le prestazioni e i controlli, mediante riassegnazione ai sensi del regolamento di cui al decreto del Presidente della Repubblica 10 novembre 1999, n. 469.".
 
-#### Art. 3
+### Art. 3
 
 Delega al Governo per il riordino normativo nelle materie interessate dalle direttive comunitarie
 
@@ -312,7 +310,7 @@ Delega al Governo per il riordino normativo nelle materie interessate dalle dire
 
 > Nelle materie di sua competenza la Regione puo' concludere accordi con Stati e intese con enti territoriali interni ad altro Stato, nei casi e con le forme disciplinati da leggi dello Stato.".
 
-#### Art. 4
+### Art. 4
 
 Missioni connesse con gli impegni europei
 
@@ -332,11 +330,9 @@ Missioni connesse con gli impegni europei
 
 > (Omissis)."
 
-## Capo II
+## Capo II - Disposizioni particolari e principi e criteri direttivi specifici di delega legislativa
 
-### Disposizioni particolari e principi e criteri direttivi specifici di - delega legislativa
-
-#### Art. 5
+### Art. 5
 
 Modifiche al codice del consumo in materia di servizi finanziari a distanza
 
@@ -434,7 +430,7 @@ d) all'articolo 67-terdecies, comma 5, le parole: «entro quindici giorni» sono
 
 > 6\. Per i finanziamenti diretti principalmente a permettere di acquistare o mantenere diritti di proprieta' su terreni o edifici esistenti o progettati, o di rinnovare o ristrutturare edifici, l'efficacia del recesso e' subordinata alla restituzione di cui al comma 5;
 
-#### Art. 6
+### Art. 6
 
 Delega al Governo per l'attuazione delle direttive 2009/65/CE, in materia di organismi di investimento collettivo in valori mobiliari, 2009/109/CE, concernente obblighi informativi in caso di fusioni e scissioni, e 2009/110/CE, relativa agli istituti di moneta elettronica
 
@@ -750,7 +746,7 @@ n) apportare al citato testo unico di cui al decreto legislativo n. 58 del 1998 
 
 > c) emana le ulteriori disposizioni per l'attuazione del presente articolo.".
 
-#### Art. 7
+### Art. 7
 
 Delega al Governo per il recepimento della direttiva 2010/73/UE recante la modifica delle direttive 2003/71/CE relativa al prospetto da pubblicare per l'offerta pubblica o l'ammissione alla negoziazione di strumenti finanziari e 2004/109/CE sull'armonizzazione degli obblighi di trasparenza riguardanti le informazioni sugli emittenti i cui valori mobiliari sono ammessi alla negoziazione in un mercato regolamentato
 
@@ -772,7 +768,7 @@ c) apportare alla disciplina vigente in materia le modificazioni occorrenti perc
 
 > Per i riferimenti al citato decreto legislativo n. 58 del 1998, si veda nelle note all'articolo 6.
 
-#### Art. 8
+### Art. 8
 
 Delega al Governo per l'attuazione della direttiva 2010/24/UE sull'assistenza reciproca in materia di recupero dei crediti risultanti da dazi, imposte ed altre misure, nonche' disposizioni in materia di imposta sul valore aggiunto
 
@@ -1384,7 +1380,7 @@ b) il comma 2-bis dell'articolo 41 e' sostituito dal seguente:
 
 > 28-duodecies. L'articolo 2, comma 26, della legge 24 dicembre 2003, n. 350, e' abrogato.".
 
-#### Art. 9
+### Art. 9
 
 Delega al Governo per l'attuazione delle direttive 2009/127/CE, relativa alle macchine per l'applicazione di pesticidi, 2009/136/CE e 2009/140/CE, in materia di servizi di comunicazione elettronica, 2010/30/UE, concernente l'indicazione del consumo di energia e di risorse connesse, e 2011/17/UE, sulla metrologia
 
@@ -1510,7 +1506,7 @@ s) abrogazione espressa di tutte le disposizioni incompatibili con quelle adotta
 
 > (Omissis).".
 
-#### Art. 10
+### Art. 10
 
 Qualita' delle acque destinate al consumo umano
 
@@ -1538,7 +1534,7 @@ Qualita' delle acque destinate al consumo umano
 
 > (Omissis).".
 
-#### Art. 11
+### Art. 11
 
 Modifiche al decreto-legge 5 ottobre 1993, n. 400, convertito, con modificazioni, dalla legge 4 dicembre 1993, n. 494. Procedura di infrazione n. 2008/4908. Delega al Governo in materia di concessioni demaniali marittime
 
@@ -1580,7 +1576,7 @@ g) stabilire criteri per l'eventuale dichiarazione di decadenza delle concession
 
 6-quater. In coerenza con quanto disposto dal decreto del Ministro dell'interno 30 novembre 1983, pubblicato nella Gazzetta Ufficiale n. 339 del 12 dicembre 1983, non fanno parte dell'intrattenimento danzante e sono quindi sottratte alla disciplina dell'articolo 80 del citato testo unico, le aree della concessione demaniale circostanti i locali di pubblico spettacolo individuati nei progetti di cui al comma 6-bis, purche' prive di recinzioni di qualsiasi tipo e di strutture specificatamente destinate allo stazionamento del pubblico per assistere a spettacoli, in quanto aventi caratteristiche di locale all'aperto, come descritto all'articolo 1, comma 2, lettera a), del citato decreto ministeriale 30 novembre 1983.))
 
-#### Art. 12
+### Art. 12
 
 Delega al Governo per l'attuazione della direttiva 2009/43/CE del Parlamento europeo e del Consiglio, del 6 maggio 2009
 
@@ -1604,7 +1600,7 @@ Delega al Governo per l'attuazione della direttiva 2009/43/CE del Parlamento eur
 
 > La legge 9 luglio 1990, n. 185 (Nuove norme sul controllo dell'esportazione, importazione e transito dei materiali di armamento), e' pubblicata nella Gazzetta Ufficiale 14 luglio 1990, n. 163.
 
-#### Art. 13
+### Art. 13
 
 Adeguamento alla sentenza della Corte di giustizia delle Comunita' europee del 29 ottobre 2009, resa nella causa C-249/08
 
@@ -1636,7 +1632,7 @@ c) al comma 1, dopo la lettera c-bis) e' aggiunta la seguente:
 
 > c-ter) la sospensione della licenza di pesca per un periodo da tre mesi a sei mesi e, in caso di recidiva, il ritiro della medesima licenza nei confronti del titolare dell'impresa di pesca quale obbligato in solido, anche ove non venga emessa l'ordinanza-ingiunzione, in caso di violazione delle disposizioni relative alla detenzione a bordo ovvero alle modalita\` tecniche di utilizzo di rete da posta derivante.".
 
-#### Art. 14
+### Art. 14
 
 Attuazione della direttiva 2009/126/CE del Parlamento europeo e del Consiglio, del 21 ottobre 2009, relativa alla fase II del recupero di vapori di benzina durante il rifornimento dei veicoli a motore nelle stazioni di servizio, e disciplina organica dei requisiti di installazione degli impianti di distribuzione di benzina
 
@@ -1652,7 +1648,7 @@ Attuazione della direttiva 2009/126/CE del Parlamento europeo e del Consiglio, d
 
 > Il decreto legislativo 3 aprile 2006, n. 152 (Norme in materia ambientale), e' pubblicato nella Gazzetta Ufficiale 14 aprile 2006, n. 88, S.O.
 
-#### Art. 15
+### Art. 15
 
 Attuazione della direttiva 2010/78/UE del Parlamento europeo e del Consiglio, del 24 novembre 2010, recante modifica delle direttive 98/26/CE, 2002/87/CE, 2003/6/CE, 2003/41/CE, 2003/71/CE, 2004/39/CE, 2004/109/CE, 2005/60/CE, 2006/48/CE, 2006/49/CE e 2009/65/CE per quanto riguarda i poteri dell'Autorita' bancaria europea, dell'Autorita' europea delle assicurazioni e delle pensioni aziendali e professionali e dell'Autorita' europea degli strumenti finanziari e dei mercati
 
@@ -1692,7 +1688,7 @@ g) tenere conto delle raccomandazioni formulate nelle conclusioni del Consiglio 
 
 > I regolamenti (CE) 1093/2010, (CE) 1094/2010, (CE) 1095/2010 e (CE) 1092/2010 sono pubblicati nella G.U.U.E. 15 dicembre 2010, n. L 331.
 
-#### Art. 16
+### Art. 16
 
 Adeguamento alla procedura di infrazione n. 2009/4117 in materia di deducibilita' delle spese relative ai contratti di locazione sostenute da studenti universitari fuori sede
 
@@ -1724,7 +1720,7 @@ Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propr
 
 > 5\. Al fine di agevolare il perseguimento degli obiettivi di finanza pubblica, anche mediante interventi volti alla riduzione della pressione fiscale, nello stato di previsione del Ministero dell'economia e delle finanze e' istituito un apposito «Fondo per interventi strutturali di politica economica», alla cui costituzione concorrono le maggiori entrate, valutate in 2.215,5 milioni di euro per l'anno 2005, derivanti dal comma 1.".
 
-#### Art. 17
+### Art. 17
 
 Modifiche al decreto legislativo 12 giugno 2003, n. 178, recante attuazione della direttiva 2000/36/CE relativa ai prodotti di cacao e di cioccolato destinati all'alimentazione umana. Sentenza della Corte di giustizia dell'Unione europea del 25 novembre 2010 nella causa C-47/09
 
@@ -1758,7 +1754,7 @@ b) all'articolo 7, il comma 8 e' abrogato.
 
 > 8\. (Abrogato).".
 
-#### Art. 18
+### Art. 18
 
 Delega al Governo per l'attuazione delle direttive 2009/20/CE e 2010/36/UE, in materia di crediti marittimi e di sicurezza delle navi, e 2010/35/UE, in materia di attrezzature a pressione trasportabili
 
@@ -1772,7 +1768,7 @@ Delega al Governo per l'attuazione delle direttive 2009/20/CE e 2010/36/UE, in m
 
 > La direttiva 2010/35/UE e' pubblicata nella G.U.U.E. 30 giugno 2010, n. L 165.
 
-#### Art. 19
+### Art. 19
 
 Delega al Governo per l'attuazione della direttiva 2010/60/UE, in materia di commercializzazione delle miscele di sementi di piante foraggere
 
@@ -1782,7 +1778,7 @@ Delega al Governo per l'attuazione della direttiva 2010/60/UE, in materia di com
 
 > La direttiva 2010/60/UE e' pubblicata nella G.U.U.E. 31 agosto 2010, n. L 228.
 
-#### Art. 20
+### Art. 20
 
 Delega al Governo per l'attuazione della direttiva 2009/128/CE, relativa all'utilizzo sostenibile dei pesticidi
 
@@ -1792,7 +1788,7 @@ Delega al Governo per l'attuazione della direttiva 2009/128/CE, relativa all'uti
 
 > La direttiva 2009/128/CE e' pubblicata nella G.U.U.E. 24 novembre 2009, n. L 309.
 
-#### Art. 21
+### Art. 21
 
 Delega al Governo per l'attuazione delle direttive 2009/38/CE, relativa al comitato aziendale europeo, 2009/50/CE e 2009/52/CE, in materia di lavoro dei cittadini di paesi terzi
 
@@ -1806,7 +1802,7 @@ Delega al Governo per l'attuazione delle direttive 2009/38/CE, relativa al comit
 
 > La direttiva 2009/52/CE e' pubblicata nella G.U.U.E. 30 giugno 2009, n. L 168.
 
-#### Art. 22
+### Art. 22
 
 Delega al Governo per l'attuazione della direttiva 2010/76/CE, concernente il portafoglio di negoziazione e le ricartolarizzazioni e il riesame delle politiche remunerative da parte delle autorita' di vigilanza, e modifiche al testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1º settembre 1993, n. 385, nonche' al testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, concernenti i poteri di intervento della Banca d'Italia
 
@@ -1986,7 +1982,7 @@ b) all'articolo 7, il comma 2 e' sostituito dal seguente:
 
 > (Omissis).".
 
-#### Art. 23
+### Art. 23
 
 Modifiche al decreto legislativo 24 giugno 2003, n. 209, recante attuazione della direttiva 2000/53/CE relativa ai veicoli fuori uso
 
@@ -2018,7 +2014,7 @@ b) all'articolo 10, comma 1-bis, le parole: «dei centri di raccolta di cui all'
 
 > (Omissis).".
 
-#### Art. 24
+### Art. 24
 
 Disposizioni finali
 

@@ -110,11 +110,9 @@ Visto, il Guardasigilli: Nordio
 
 ## Parte I - Imposta di registro
 
-### Titolo I
+### Titolo I - PRESUPPOSTI, BASE IMPONIBILE E DISCIPLINA DEL TRIBUTO
 
-#### PRESUPPOSTI, BASE IMPONIBILE E DISCIPLINA DEL TRIBUTO
-
-##### Capo I - Oggetto dell'imposta
+#### Capo I - Oggetto dell'imposta
 
 Allegato
 
@@ -130,11 +128,9 @@ Oggetto dell'imposta (articolo 1 decreto del Presidente della Repubblica 26 apri
 
 1\. L'imposta di registro si applica, nella misura indicata nella tariffa, di cui all'allegato 1 al presente testo unico, agli atti soggetti a registrazione e a quelli volontariamente presentati per la registrazione.
 
-## Capo II - Presupposto dell'imposta
+#### Capo II - Presupposto dell'imposta
 
-### Sezione I
-
-#### Atti soggetti a registrazione
+##### Sezione I - Atti soggetti a registrazione
 
 ###### Art. 2
 
@@ -210,9 +206,7 @@ Registrazione volontaria (articolo 8 decreto del Presidente della Repubblica 26 
 
 1\. Chiunque vi abbia interesse puo' richiedere in qualsiasi momento, pagando la relativa imposta, la registrazione di un atto.
 
-## Sezione II - Modalità e procedimento
-
-### di registrazione degli atti
+##### Sezione II - Modalità e procedimento di registrazione degli atti
 
 ###### Art. 9
 
@@ -410,7 +404,7 @@ Denuncia di eventi successivi alla registrazione (articolo 19 decreto del Presid
 
 2\. Il termine di cui al comma 1 e' elevato a sessanta giorni se l'evento dedotto in condizione e' connesso alla nascita o alla sopravvivenza di una persona.
 
-## Capo III - Applicazione dell'imposta
+#### Capo III - Applicazione dell'imposta
 
 ###### Art. 24
 
@@ -624,7 +618,7 @@ Imposta principale, suppletiva e complementare (articolo 42 decreto del Presiden
 
 2\. L'imposta applicabile, ai sensi degli articoli precedenti, sugli atti non presentati per la registrazione o in aggiunta a quella assolta all'atto della registrazione e' riscossa dall'ufficio nei modi e nei termini indicati nel presente titolo, capo V.
 
-## Capo IV - Determinazione della base imponibile
+#### Capo IV - Determinazione della base imponibile
 
 ###### Art. 47
 
@@ -722,7 +716,7 @@ Atti ed operazioni concernenti societa', enti, consorzi, associazioni ed altre o
 
 1\. Per gli atti costitutivi e per gli aumenti di capitale o di patrimonio di societa' o di enti, diversi dalle societa', compresi i consorzi, le associazioni e le altre organizzazioni di persone o di beni con o senza personalita' giuridica aventi per oggetto esclusivo o principale l'esercizio di attivita' commerciali o agricole, con conferimento di immobili o diritti reali immobiliari, la base imponibile e' costituita dal valore dei beni o diritti conferiti al netto delle passivita' e degli oneri accollati alle societa', enti, consorzi, associazioni e altre organizzazioni commerciali o agricole, nonche' delle spese e degli oneri inerenti alla costituzione o all'esecuzione dell'aumento calcolati forfetariamente nella misura del 2 per cento del valore dichiarato fino a euro 103.291,38 e dell'1 per cento per la parte eccedente, e in ogni caso in misura non superiore a euro 516.546,90.
 
-## Capo V - Riscossione dell'imposta
+#### Capo V - Riscossione dell'imposta
 
 ###### Art. 55
 
@@ -826,7 +820,7 @@ Recupero delle imposte prenotate a debito (articolo 61 decreto del Presidente de
 
 1\. I rappresentanti delle amministrazioni dello Stato, i cancellieri, i procuratori e le parti devono pagare in proprio le imposte dovute sugli atti dei quali hanno richiesto la registrazione a debito, quando non hanno osservato le disposizioni contenute nell'articolo 61 ovvero quando di tali atti hanno fatto un uso diverso da quello per cui venne concessa la registrazione a debito.
 
-## Capo VI - Disposizioni varie
+#### Capo VI - Disposizioni varie
 
 ###### Art. 63
 
@@ -932,11 +926,9 @@ Decadenza dell'azione del contribuente (articolo 77 decreto del Presidente della
 
 ## Parte II - Imposte ipotecaria e catastale
 
-### Titolo I
+### Titolo I - IMPOSTA IPOTECARIA
 
-#### IMPOSTA IPOTECARIA
-
-##### Capo I - Oggetto dell'imposta
+#### Capo I - Oggetto dell'imposta
 
 ###### Art. 71
 
@@ -948,7 +940,7 @@ Oggetto dell'imposta
 
 2\. Non sono soggette all'imposta le formalita' eseguite nell'interesse dello Stato ne' quelle relative ai trasferimenti di cui all'articolo 89 salvo quanto disposto nel comma 3 dello stesso articolo.
 
-## Capo II - Base imponibile
+#### Capo II - Base imponibile
 
 ###### Art. 72
 
@@ -970,7 +962,7 @@ Base imponibile per le iscrizioni (articolo 3 decreto legislativo 31 ottobre 199
 
 3\. L'imposta dovuta sull'annotazione per restrizione di ipoteca e' commisurata al minor valore tra quello del credito garantito e quello degli immobili o parti di immobili liberati determinato secondo le disposizioni relative all'imposta di registro.
 
-## Capo III - Applicazione dell'imposta
+#### Capo III - Applicazione dell'imposta
 
 ###### Art. 74
 
@@ -1008,7 +1000,7 @@ Termine per le annotazioni (articolo 7 decreto legislativo 31 ottobre 1990, n. 3
 
 1\. Le annotazioni previste dagli articoli 2654, 2655 e 2896 del codice civile devono essere richieste, a cura delle parti o dei loro procuratori o dei notai o altri pubblici ufficiali che hanno ricevuto o autenticato l'atto, entro il termine di trenta giorni dalla data dell'atto o della pubblicazione della sentenza o della pronunzia del decreto.
 
-## Capo IV - Privilegio
+#### Capo IV - Privilegio
 
 ###### Art. 78
 
@@ -1018,11 +1010,9 @@ Privilegio (articolo 8 decreto legislativo
 
 1\. Il credito dello Stato per l'imposta ipotecaria dovuta sulle iscrizioni, rinnovazioni e relative annotazioni ha privilegio, oltre che sull'immobile cui la formalita' si riferisce a norma del codice civile, anche sul credito garantito con preferenza rispetto a ogni ragione su di esso spettante a terzi.
 
-## Titolo II - IMPOSTA CATASTALE
+### Titolo II - IMPOSTA CATASTALE
 
-### Capo I
-
-#### Presupposti dell'imposta
+#### Capo I - Presupposti dell'imposta
 
 ###### Art. 79
 
@@ -1034,11 +1024,9 @@ Oggetto e misura dell'imposta (articolo 10 decreto legislativo 31 ottobre 1990, 
 
 3\. Non sono soggette a imposta le volture eseguite nell'interesse dello Stato ne' quelle relative a trasferimenti di cui all'articolo 89, salvo quanto disposto nel comma 3 dello stesso articolo.
 
-## Titolo III - DISPOSIZIONI COMUNI
+### Titolo III - DISPOSIZIONI COMUNI
 
-### Capo I
-
-#### Assolvimento delle imposte
+#### Capo I - Assolvimento delle imposte
 
 ###### Art. 80
 
@@ -1092,7 +1080,7 @@ e) le formalita' e le volture relative a procedure di liquidazione giudiziale e 
 
 3\. Nei casi di cui al comma 1, lettera c), l'ufficio dell'Agenzia delle entrate notifica apposito avviso di liquidazione alle parti interessate con l'invito a effettuare entro il termine di sessanta giorni il pagamento dell'imposta, decorsi i quali procede alla riscossione a norma dell'articolo 82.
 
-## Capo II - Disposizioni varie
+#### Capo II - Disposizioni varie
 
 ###### Art. 84
 
@@ -1116,11 +1104,9 @@ Disciplina dei libri fondiari (articolo 20 decreto legislativo 31 ottobre 1990, 
 
 ## Parte III - Imposta sulle successioni e donazioni
 
-### Titolo I
+### Titolo I - DISPOSIZIONI GENERALI COMUNI
 
-#### DISPOSIZIONI GENERALI COMUNI
-
-##### Capo I - Disposizioni generali
+#### Capo I - Disposizioni generali
 
 ###### Art. 87
 
@@ -1214,11 +1200,9 @@ Ufficio competente (articolo 6 decreto legislativo 31 ottobre 1990, n. 346)
 
 2\. La competenza per l'applicazione dell'imposta alle donazioni e' determinata secondo le disposizioni relative all'imposta di registro.
 
-## Titolo II - APPLICAZIONE DELL'IMPOSTA ALLE SUCCESSIONI
+### Titolo II - APPLICAZIONE DELL'IMPOSTA ALLE SUCCESSIONI
 
-### Capo I
-
-#### Determinazione dell'imposta
+#### Capo I - Determinazione dell'imposta
 
 ###### Art. 93
 
@@ -1240,7 +1224,7 @@ d) a favore di altri soggetti: 8 per cento.
 
 4\. Fino a quando l'eredita' non e' stata accettata, o non e' stata accettata da tutti i chiamati, l'imposta e' determinata considerando come eredi i chiamati che non vi hanno rinunziato.
 
-## Capo II - Base imponibile
+#### Capo II - Base imponibile
 
 ###### Art. 94
 
@@ -1254,7 +1238,7 @@ Base imponibile (articolo 8 decreto legislativo 31 ottobre 1990, n. 346)
 
 4\. Il valore dell'eredita' o delle quote ereditarie e' determinato al netto dei legati e degli altri oneri che le gravano, quello dei legati al netto degli oneri da cui sono gravati.
 
-## Sezione I - Attivo ereditario
+##### Sezione I - Attivo ereditario
 
 ###### Art. 95
 
@@ -1320,7 +1304,7 @@ Beni culturali (articolo 13 decreto legislativo 31 ottobre 1990, n. 346)
 
 5\. Per i territori della regione siciliana e delle province autonome di Trento e di Bolzano agli adempimenti di cui al presente articolo provvedono gli organi rispettivamente competenti.
 
-## Sezione II - Valore dei beni e dei diritti
+##### Sezione II - Valore dei beni e dei diritti
 
 ###### Art. 99
 
@@ -1402,7 +1386,7 @@ Altri beni (articolo 19 decreto legislativo 31 ottobre 1990, n. 346)
 
 2\. In caso di usufrutto o di uso si applicano le disposizioni dell'articolo 99, comma 1, lettere b) e c).
 
-## Sezione III - Passività deducibili
+##### Sezione III - Passività deducibili
 
 ###### Art. 105
 
@@ -1474,7 +1458,7 @@ Spese mediche e spese funerarie (articolo 24 decreto legislativo 31 ottobre 1990
 
 2\. Le spese funerarie risultanti da regolari quietanze sono deducibili in misura non superiore a euro 1.032,91.
 
-## Capo III - Riduzioni e detrazioni
+#### Capo III - Riduzioni e detrazioni
 
 ###### Art. 110
 
@@ -1514,7 +1498,7 @@ Detrazione di altre imposte (articolo 26 decreto legislativo 31 ottobre 1990, n.
 
 1\. Dall'imposta determinata a norma degli articoli precedenti si detraggono le imposte pagate a uno Stato estero, in dipendenza della stessa successione e in relazione a beni esistenti in tale Stato, fino a concorrenza della parte dell'imposta di successione proporzionale al valore dei beni stessi, salva l'applicazione di trattati o accordi internazionali.
 
-## Capo IV - Liquidazione dell'imposta
+#### Capo IV - Liquidazione dell'imposta
 
 ###### Art. 112
 
@@ -1690,7 +1674,7 @@ c) le riduzioni e le detrazioni indicate nella dichiarazione non previste negli 
 
 4\. Le disposizioni del presente articolo si applicano anche per la riliquidazione dell'imposta in base a dichiarazione sostitutiva e per la liquidazione della maggiore imposta in base a dichiarazione integrativa.
 
-## Capo V - Versamento e riscossione
+#### Capo V - Versamento e riscossione
 
 ###### Art. 119
 
@@ -1804,7 +1788,7 @@ f) risultante pagata in piu' a seguito della chiusura della liquidazione giudizi
 
 4\. Non si fa luogo al rimborso per gli importi, comprensivi di interessi e sanzioni amministrative, non superiori a euro 10; gli importi superiori sono rimborsati per l'intero ammontare.
 
-## Capo VI - Norme particolari per le successioni testamentarie
+#### Capo VI - Norme particolari per le successioni testamentarie
 
 ###### Art. 126
 
@@ -1844,7 +1828,7 @@ Presunzione di legato (articolo 46 decreto legislativo 31 ottobre 1990, n. 346)
 
 3\. L'onere a carico dell'erede o del legatario, che ha per oggetto prestazioni a soggetti terzi determinati individualmente, e' considerato legato a favore del beneficiario.
 
-## Capo VII - Disposizioni varie
+#### Capo VII - Disposizioni varie
 
 ###### Art. 130
 
@@ -1870,11 +1854,9 @@ Notificazioni (articolo 49 decreto legislativo 31 ottobre 1990, n. 346)
 
 1\. Gli avvisi previsti nella presente parte III sono notificati, nei modi stabiliti in materia di imposte sui redditi, dagli ufficiali giudiziari, da messi speciali autorizzati a norma di legge dagli uffici dell'Agenzia delle entrate o da messi comunali o di conciliazione.
 
-## Titolo III - APPLICAZIONE DELL'IMPOSTA ALLE DONAZIONI
+### Titolo III - APPLICAZIONE DELL'IMPOSTA ALLE DONAZIONI
 
-### Capo I
-
-#### Applicazione dell'imposta
+#### Capo I - Applicazione dell'imposta
 
 ###### Art. 132
 
@@ -1916,7 +1898,7 @@ Donazioni anteriori (articolo 57 ((, commi 1 e 2, primo periodo)) decreto legisl
 
 2\. Negli atti di donazione e negli atti di cui all'articolo 30, devono essere indicati gli estremi delle donazioni anteriormente fatte dal donante al donatario o ad alcuno dei donatari e i relativi valori alla data degli atti stessi. ((PERIODO SOPPRESSO DAL D.LGS. 5 AGOSTO 2026, N. 141)).
 
-## Capo II - Disposizioni varie
+#### Capo II - Disposizioni varie
 
 ###### Art. 135
 
@@ -1958,11 +1940,9 @@ Agevolazioni (articolo 62 decreto legislativo 31 ottobre 1990, n. 346)
 
 ## Parte IV - Imposta di bollo e imposta sul valore delle attività finanziarie estere
 
-### Titolo I
+### Titolo I - PRESUPPOSTI, BASE IMPONIBILE E DISCIPLINA DELL'IMPOSTA DI BOLLO
 
-#### PRESUPPOSTI, BASE IMPONIBILE E DISCIPLINA DELL'IMPOSTA DI BOLLO
-
-##### Capo I - Oggetto dell'imposta e modi di pagamento
+#### Capo I - Oggetto dell'imposta e modi di pagamento
 
 ###### Art. 139
 
@@ -2030,7 +2010,7 @@ Onere del tributo nei rapporti con lo Stato (articolo 8 decreto del Presidente d
 
 1\. Nei rapporti con lo Stato l'imposta di bollo, quando dovuta, e' a carico dell'altra parte, nonostante qualunque patto contrario.
 
-## Capo II - Applicazione dell'imposta
+#### Capo II - Applicazione dell'imposta
 
 ###### Art. 146
 
@@ -2166,7 +2146,7 @@ Riscossione coattiva (articolo 16 decreto del Presidente della Repubblica 26 ott
 
 2\. Per l'imposta dovuta sulle sentenze e i decreti penali si applica l'articolo 16 della parte I della tariffa, di cui all'allegato 3 al presente testo unico.
 
-## Capo III - Atti e scritti per i quali l'imposta è prenotata a debito
+#### Capo III - Atti e scritti per i quali l'imposta è prenotata a debito
 
 ###### Art. 154
 
@@ -2180,9 +2160,7 @@ Atti di persone o enti ammessi al patrocinio a spese dello Stato (articolo 18 de
 
 1\. Nelle cause e nei procedimenti interessanti persone o enti ammessi al patrocinio a spese dello Stato non puo' farsi uso della carta libera, se in ciascun atto e in ciascuna copia non siano citati gli estremi del decreto di ammissione al patrocinio a spese dello Stato, e se, trattandosi di atti, documenti o copie da prodursi in giudizio, non sia in essi indicato lo scopo della produzione.
 
-## Capo IV - Effetti del mancato o insufficiente pagamento dell'imposta
-
-### Obblighi, divieti, solidarietà
+#### Capo IV - Effetti del mancato o insufficiente pagamento dell'imposta Obblighi, divieti, solidarietà
 
 ###### Art. 156
 
@@ -2226,7 +2204,7 @@ Patti sull'onere del tributo e delle sanzioni (articolo 23 decreto del President
 
 1\. I patti contrari alle disposizioni del presente titolo, compreso quello che pone l'imposta e le eventuali sanzioni a carico della parte inadempiente o di quella che abbia determinato la necessita' di far uso degli atti o dei documenti irregolari, sono nulli anche tra le parti.
 
-## Capo V - Disposizioni varie
+#### Capo V - Disposizioni varie
 
 ###### Art. 161
 
@@ -2282,7 +2260,7 @@ b) sulle somme riscosse all'atto del rilascio del contrassegno di cui all'artico
 
 3\. I soggetti convenzionati con l'Agenzia delle entrate di cui al comma 1 sono sempre responsabili per il fatto dei loro coadiutori e assistenti e devono esporre all'esterno del proprio locale un avviso recante l'indicazione «emissione e vendita di contrassegni per l'imposta di bollo» avente le caratteristiche stabilite dall'Agenzia delle entrate.
 
-## Capo VI - Disposizioni transitorie e finali
+#### Capo VI - Disposizioni transitorie e finali
 
 ###### Art. 166
 
@@ -2290,9 +2268,7 @@ Disposizioni transitorie (articolo 40 decreto del Presidente della Repubblica 26
 
 1\. Salvo quanto disposto nella tariffa e nella tabella di cui all'allegato 3 al presente testo unico, le esenzioni e le agevolazioni nonche' i regimi sostitutivi in materia di bollo, previsti dalle leggi in vigore alla data del 31 dicembre 1972, si applicano fino al termine che sara' stabilito con le disposizioni da emanare ai sensi dell'articolo 9, primo comma, numero 6, o dell'articolo 15, sesto comma, della legge 9 ottobre 1971, n. 825.
 
-## Capo VII - Imposta di bollo per attività finanziarie
-
-### oggetto di emersione
+#### Capo VII - Imposta di bollo per attività finanziarie oggetto di emersione
 
 ###### Art. 167
 
@@ -2310,7 +2286,7 @@ Attivita' finanziarie oggetto di emersione (articolo 19, ((commi 6, 7, 8, 9 e 11
 
 6\. Per l'accertamento e la riscossione dell'imposta di cui al comma 1 nonche' per il relativo contenzioso si applicano le disposizioni in materia di imposta sui redditi.
 
-## Titolo II - IMPOSTA SUL VALORE DELLE ATTIVITÀ FINANZIARIE ESTERE
+### Titolo II - IMPOSTA SUL VALORE DELLE ATTIVITÀ FINANZIARIE ESTERE
 
 #### Capo I - Prodotti finanziari, conti correnti e libretti di risparmio
 
@@ -2338,11 +2314,9 @@ A decorrere dal 2023, in luogo dell'imposta di bollo di cui all'articolo 9, dell
 
 ## Parte V - Regimi sostitutivi e agevolazioni
 
-### Titolo I
+### Titolo I - REGIMI SOSTITUTIVI
 
-#### REGIMI SOSTITUTIVI
-
-##### Capo I - Disposizioni varie
+#### Capo I - Disposizioni varie
 
 ###### Art. 169
 
@@ -2360,11 +2334,9 @@ Trasformazione in societa' e in cooperative delle compagnie e dei gruppi portual
 
 3\. Le disposizioni di cui ai commi 1 e 2 si applicano anche ai gruppi ormeggiatori e barcaioli che intendano trasformarsi in societa' e in cooperative secondo i tipi previsti nel libro quinto, titoli V e VI, del codice civile.
 
-## Titolo II - AGEVOLAZIONI
+### Titolo II - AGEVOLAZIONI
 
-### Capo I
-
-#### Agricoltura
+#### Capo I - Agricoltura
 
 ###### Art. 171
 
@@ -2402,7 +2374,7 @@ Controversie in materia di masi chiusi (articolo 35, comma 3, legge 24 novembre 
 
 1\. Tutti gli atti, i documenti e i provvedimenti relativi ai procedimenti, anche esecutivi, cautelari e tavolari relativi alle controversie in materia di masi chiusi, nonche' quelli relativi all'assunzione del maso chiuso, in seguito all'apertura della successione, sono esenti dall'imposta di bollo, di registro, da ogni altra imposta e tassa e dal contributo unificato.
 
-## Capo II - Disposizioni varie
+#### Capo II - Disposizioni varie
 
 ###### Art. 175
 
@@ -2564,7 +2536,7 @@ Rinvio alle agevolazioni per il settore del cinema e dell'audiovisivo ( ((...)) 
 
 1\. Restano ferme le agevolazioni previste dall'articolo 22, comma 1, della legge 14 novembre 2016, n. 220, per gli atti ivi contemplati.
 
-## Capo III - Eventi calamitosi
+#### Capo III - Eventi calamitosi
 
 ###### Art. 198
 
@@ -2630,9 +2602,7 @@ b) dall'articolo 3, commi 3 e 4, del decreto-legge 28 settembre 2018, n. 109, co
 
 ## Parte VI - Disposizioni varie, transitorie e finali
 
-### Titolo I
-
-#### DISPOSIZIONI VARIE, TRANSITORIE E FINALI
+### Titolo I - DISPOSIZIONI VARIE, TRANSITORIE E FINALI
 
 ###### Art. 203
 

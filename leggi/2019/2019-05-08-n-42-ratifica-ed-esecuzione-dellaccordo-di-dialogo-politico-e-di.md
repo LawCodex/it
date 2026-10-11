@@ -27,25 +27,25 @@ Promulga
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo di dialogo politico e di cooperazione tra l'Unione europea e i suoi Stati membri, da una parte, e la Repubblica di Cuba, dall'altra, fatto a Bruxelles il 12 dicembre 2016.
 
-##### Art. 2
+#### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 86 dell'Accordo stesso.
 
-##### Art. 3
+#### Art. 3
 
 Clausola di invarianza finanziaria
 
 1\. Dall'attuazione della presente legge non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
-##### Art. 4
+#### Art. 4
 
 Entrata in vigore
 
@@ -181,7 +181,7 @@ Constatando che, qualora le parti decidessero, nel quadro del presente accordo, 
 
 hanno convenuto quanto segue:
 
-##### Art. 1
+#### Art. 1
 
 Principi
 
@@ -197,7 +197,7 @@ Principi
 
 6\. Nel quadro della loro cooperazione, le parti riconoscono che tutti i popoli hanno il diritto di determinare liberamente il proprio sistema politico e di perseguire liberamente il proprio sviluppo economico, sociale e culturale.
 
-##### Art. 2
+#### Art. 2
 
 Obiettivi
 
@@ -219,7 +219,7 @@ g) promuovere la comprensione favorendo i contatti, il dialogo e la cooperazione
 
 ## Parte II - DIALOGO POLITICO
 
-##### Art. 3
+#### Art. 3
 
 Obiettivi
 
@@ -233,7 +233,7 @@ c) rafforzare le Nazioni Unite quale fulcro del sistema multilaterale, alla luce
 
 d) continuare a promuovere il partenariato strategico tra l'Unione europea e la Comunita' degli Stati latino-americani e caraibici (CELAC).
 
-##### Art. 4
+#### Art. 4
 
 Ambiti e modalita'
 
@@ -243,13 +243,13 @@ Ambiti e modalita'
 
 3\. Le parti instaurano dialoghi specifici negli ambiti necessari, definiti di comune accordo.
 
-##### Art. 5
+#### Art. 5
 
 Diritti umani
 
 Nell'ambito del dialogo politico generale, le parti convengono di instaurare un dialogo sui diritti umani al fine di potenziare la cooperazione pratica tra di esse a livello sia multilaterale che bilaterale. L'ordine del giorno di ogni sessione di dialogo e' concordato fra le parti, tiene conto dei loro rispettivi interessi e affronta in modo equilibrato i diritti civili e politici e i diritti economici, sociali e culturali.
 
-##### Art. 6
+#### Art. 6
 
 Commercio illegale di armi leggere e di piccolo calibro e di altre armi convenzionali
 
@@ -263,7 +263,7 @@ Commercio illegale di armi leggere e di piccolo calibro e di altre armi convenzi
 
 5\. Le parti convengono inoltre di collaborare a livello bilaterale, regionale e internazionale e di garantire il coordinamento, la complementarita' e la sinergia delle iniziative tese ad assicurare l'esistenza di leggi, regolamenti e procedure adeguati per esercitare un controllo effettivo sulla produzione, le esportazioni, le importazioni, i trasferimenti o i ritrasferimenti di armi leggere e di piccolo calibro e di altre armi convenzionali e per prevenire, combattere e sradicare il commercio illegale di armi, contribuendo in tal modo alla salvaguardia della pace e della sicurezza internazionali. Esse convengono di instaurare un dialogo politico regolare che consenta di accompagnare e di consolidare tale impegno, tenuto conto della natura, della portata e dell'entita' del commercio illegale di armi per ciascuna parte.
 
-##### Art. 7
+#### Art. 7
 
 Disarmo e non proliferazione delle armi di distruzione di massa
 
@@ -279,7 +279,7 @@ Disarmo e non proliferazione delle armi di distruzione di massa
 
 6\. Le parti convengono di instaurare un dialogo regolare che accompagni la loro cooperazione in questo settore.
 
-##### Art. 8
+#### Art. 8
 
 Lotta contro il terrorismo in tutte le sue forme e manifestazioni
 
@@ -297,7 +297,7 @@ d) collaborando per promuovere il consenso internazionale sulla lotta contro il 
 
 e) promuovendo la cooperazione tra gli Stati membri delle Nazioni Unite per attuare efficacemente, con ogni mezzo opportuno, la strategia globale delle Nazioni Unite contro il terrorismo.
 
-##### Art. 9
+#### Art. 9
 
 Gravi crimini di portata internazionale
 
@@ -309,7 +309,7 @@ Gravi crimini di portata internazionale
 
 4\. Le parti convengono di cooperare al fine di potenziare il quadro giuridico atto a prevenire e a punire i crimini piu' gravi, motivo di allarme per la comunita' internazionale, anche mediante la condivisione di esperienze e lo sviluppo delle capacita' in settori definiti di comune accordo.
 
-##### Art. 10
+#### Art. 10
 
 Misure coercitive unilaterali
 
@@ -317,7 +317,7 @@ Misure coercitive unilaterali
 
 2\. Le parti conducono un dialogo regolare sull'applicazione di siffatte misure, nonche' sulla prevenzione e sull'attenuazione dei loro effetti.
 
-##### Art. 11
+#### Art. 11
 
 Lotta contro la tratta di esseri umani e il traffico di migranti
 
@@ -329,7 +329,7 @@ a) promozione di leggi e politiche coerenti con le disposizioni della convenzion
 
 b) migliori pratiche e attivita' volte a contribuire a individuare, arrestare e perseguire le reti criminali coinvolte nel traffico di migranti e nella tratta di esseri umani e a sostenere le vittime di tali crimini.
 
-##### Art. 12
+#### Art. 12
 
 Lotta contro la produzione, il traffico e il consumo di droghe illecite
 
@@ -337,7 +337,7 @@ Lotta contro la produzione, il traffico e il consumo di droghe illecite
 
 2\. Le parti si adoperano inoltre per cooperare con altri paesi al fine di ridurre la produzione e il traffico di sostanze illecite, nel pieno rispetto del diritto internazionale, della sovranita' degli Stati e del principio della responsabilita' comune e condivisa.
 
-##### Art. 13
+#### Art. 13
 
 Lotta contro la discriminazione razziale, la xenofobia e l'intolleranza ad esse associata
 
@@ -349,7 +349,7 @@ Lotta contro la discriminazione razziale, la xenofobia e l'intolleranza ad esse 
 
 4\. Le parti valutano la possibilita' di realizzare azioni in materia di lotta contro la discriminazione razziale nell'ambito delle Nazioni Unite e di altri consessi.
 
-##### Art. 14
+#### Art. 14
 
 Sviluppo sostenibile
 
@@ -375,11 +375,9 @@ c) collaborando per favorire l'emancipazione femminile, la riduzione delle disug
 
 ## Parte III - COOPERAZIONE E DIALOGO STRATEGICO SETTORIALE
 
-### Titolo I
+### Titolo I - Disposizioni generali
 
-#### Disposizioni generali
-
-##### Art. 15
+#### Art. 15
 
 Obiettivi
 
@@ -395,7 +393,7 @@ c) contribuire alla realizzazione degli obiettivi dell'agenda 2030 per lo svilup
 
 d) promuovere la fiducia reciproca attraverso regolari scambi di opinioni e l'individuazione di settori di collaborazione su questioni globali che presentano un interesse per entrambe.
 
-##### Art. 16
+#### Art. 16
 
 Principi
 
@@ -419,7 +417,7 @@ Principi
 
 10\. La cooperazione tiene conto di tutte le questioni trasversali.
 
-##### Art. 17
+#### Art. 17
 
 Dialogo strategico settoriale
 
@@ -433,7 +431,7 @@ c) condivisione delle migliori prassi in materia di elaborazione di politiche se
 
 2\. Le parti mirano a sostenere il loro dialogo strategico settoriale attraverso misure di cooperazione concrete, se del caso.
 
-##### Art. 18
+#### Art. 18
 
 Modalita' e procedure di cooperazione
 
@@ -469,7 +467,7 @@ b) gestisce, unitamente alle autorita' competenti in materia di sanita' e agrico
 
 c) completa le procedure in materia di migrazione per il personale che si reca a Cuba per esigenze legate alle azioni di cooperazione convenute, nonche' le procedure riguardanti altre autorizzazioni relative ai permessi di lavoro e di soggiorno temporanei per il personale espatriato che lavora temporaneamente a Cuba.
 
-##### Art. 19
+#### Art. 19
 
 Attori della cooperazione
 
@@ -485,7 +483,7 @@ d) le agenzie di sviluppo degli Stati membri dell'Unione europea; e
 
 e) la societa' civile, comprese le associazioni scientifiche, tecniche, culturali, artistiche, sportive, di amicizia e solidarieta', le organizzazioni sociali, i sindacati e le cooperative.
 
-##### Art. 20
+#### Art. 20
 
 Settori di cooperazione
 
@@ -509,7 +507,7 @@ g) sviluppo delle capacita' nazionali; e
 
 h) gestione della conoscenza.
 
-##### Art. 21
+#### Art. 21
 
 Risorse disponibili per la cooperazione e tutela degli interessi finanziari delle parti
 
@@ -517,9 +515,9 @@ Risorse disponibili per la cooperazione e tutela degli interessi finanziari dell
 
 2\. Le parti utilizzano l'assistenza finanziaria secondo i principi di sana gestione finanziaria e collaborano per tutelare i propri interessi finanziari. Le parti adottano misure efficaci per prevenire e combattere le frodi, la corruzione e altre attivita' illecite, anche mediante la reciproca assistenza amministrativa e giudiziaria nei settori contemplati dal presente accordo. Qualsiasi altro accordo o strumento finanziario concluso fra le parti deve comprendere clausole specifiche sulla cooperazione finanziaria riguardanti azioni coordinate di controllo quali verifiche sul posto, ispezioni e misure antifrode, comprese quelle attuate dall'Ufficio europeo per la lotta antifrode e dal revisore generale della Repubblica di Cuba.
 
-## Titolo II - Democrazia, diritti umani e buon governo
+### Titolo II - Democrazia, diritti umani e buon governo
 
-##### Art. 22
+#### Art. 22
 
 Democrazia e diritti umani
 
@@ -545,7 +543,7 @@ f) rafforzare le istituzioni democratiche e le istituzioni che si occupano di di
 
 g) elaborare iniziative comuni di reciproco interesse nelle sedi multilaterali competenti.
 
-##### Art. 23
+#### Art. 23
 
 Buon governo
 
@@ -565,13 +563,13 @@ e) promuovere lo scambio di migliori prassi in materia di buon governo, rendicon
 
 f) collaborare a favore di processi politici piu' inclusivi che consentano l'effettiva partecipazione di tutti i cittadini.
 
-##### Art. 24
+#### Art. 24
 
 Rafforzamento delle istituzioni e dello Stato di diritto
 
 Le parti annettono particolare importanza al consolidamento dello Stato di diritto, compresi l'accesso alla giustizia e il diritto a un equo processo, nonche' al rafforzamento delle istituzioni di ogni livello negli ambiti connessi all'applicazione della legge e all'amministrazione della giustizia.
 
-##### Art. 25
+#### Art. 25
 
 Modernizzazione della pubblica amministrazione
 
@@ -591,7 +589,7 @@ f) procedere a scambi di opinioni e migliori prassi nell'ambito della gestione d
 
 g) rafforzare i processi di decentramento in conformita' delle rispettive strategie nazionali di sviluppo economico e sociale.
 
-##### Art. 26
+#### Art. 26
 
 Prevenzione e risoluzione dei conflitti
 
@@ -599,9 +597,9 @@ Prevenzione e risoluzione dei conflitti
 
 2\. La cooperazione in materia di prevenzione e risoluzione dei conflitti mira a rafforzare le capacita' di risoluzione dei conflitti e puo' comprendere, tra l'altro, il sostegno ai processi di mediazione, negoziato e riconciliazione e iniziative di piu' ampio respiro a favore della fiducia e del consolidamento della pace a livello regionale e internazionale.
 
-## Titolo III - Promozione della giustizia, sicurezza dei cittadini e migrazione
+### Titolo III - Promozione della giustizia, sicurezza dei cittadini e migrazione
 
-##### Art. 27
+#### Art. 27
 
 Protezione dei dati personali
 
@@ -609,7 +607,7 @@ Protezione dei dati personali
 
 2\. La cooperazione in materia di protezione dei dati personali puo' comprendere, tra l'altro, lo sviluppo delle capacita', l'assistenza tecnica e lo scambio di informazioni, come convenuto tra le parti.
 
-##### Art. 28
+#### Art. 28
 
 Droghe illecite
 
@@ -623,7 +621,7 @@ Droghe illecite
 
 5\. Le parti procedono a scambi di esperienze in settori quali l'elaborazione di politiche e lo sviluppo legislativo e istituzionale, la formazione del personale, la ricerca nel settore della droga, la prevenzione, il trattamento, la riabilitazione e il reinserimento sociale dei tossicodipendenti, con l'obiettivo di ridurre al minimo le ripercussioni sanitarie e sociali dell'abuso di droghe.
 
-##### Art. 29
+#### Art. 29
 
 Riciclaggio
 
@@ -637,7 +635,7 @@ a) scambi di informazioni pertinenti nell'ambito dei quadri legislativi delle Pa
 
 b) adozione e attuazione efficace di norme adeguate per combattere il riciclaggio e il finanziamento del terrorismo, equivalenti a quelle adottate dagli organismi internazionali competenti attivi nel settore quali, a seconda dei casi, il gruppo di azione finanziaria e il gruppo di azione finanziaria per l'America latina.
 
-##### Art. 30
+#### Art. 30
 
 Criminalita' organizzata
 
@@ -645,7 +643,7 @@ Criminalita' organizzata
 
 2\. Le parti convengono inoltre di collaborare al miglioramento della sicurezza dei cittadini, in particolare attraverso il sostegno alle politiche e alle strategie in materia di sicurezza. La cooperazione in questo ambito contribuisce alla prevenzione dei reati e puo' comprendere attivita' quali i progetti di cooperazione regionale tra le autorita' giudiziarie e di polizia, i programmi di formazione e lo scambio delle migliori prassi in materia di elaborazione del profilo criminale. Comprende, tra l'altro, scambi di opinioni sui quadri legislativi, assistenza tecnica e amministrativa volta a rafforzare le capacita' istituzionali e operative delle autorita' di contrasto, nonche' scambi di informazioni e misure intese a rafforzare la cooperazione in materia di indagini.
 
-##### Art. 31
+#### Art. 31
 
 Lotta contro la corruzione
 
@@ -665,7 +663,7 @@ e) incoraggiare le azioni volte a promuovere una cultura della trasparenza, la l
 
 f) agevolare le misure di identificazione e di recupero dei beni, promuovere le migliori prassi e sviluppare le capacita'.
 
-##### Art. 32
+#### Art. 32
 
 Traffico illecito di armi leggere e di piccolo calibro
 
@@ -673,7 +671,7 @@ Traffico illecito di armi leggere e di piccolo calibro
 
 2\. Come dichiarato nel programma d'azione delle Nazioni Unite di cui al paragrafo 1, le parti ribadiscono tra l'altro in questo contesto il diritto naturale di legittima difesa individuale o collettiva sancito dall'articolo 51 della Carta delle Nazioni Unite e il diritto di ciascuno Stato di fabbricare, importare e detenere armi leggere e di piccolo calibro per esigenze di autodifesa e di sicurezza, nonche' per poter partecipare a operazioni di mantenimento della pace conformemente alla Carta delle Nazioni Unite e in base alle decisioni di ciascuna delle parti.
 
-##### Art. 33
+#### Art. 33
 
 Lotta contro il terrorismo
 
@@ -687,7 +685,7 @@ Lotta contro il terrorismo
 
 5\. Le parti convengono inoltre di collaborare nell'ambito delle Nazioni Unite per mettere a punto il progetto di accordo sulla convenzione generale contro il terrorismo internazionale.
 
-##### Art. 34
+#### Art. 34
 
 Migrazione, tratta di esseri umani e traffico di migranti
 
@@ -717,21 +715,21 @@ b) fornire ai propri cittadini da riammettere adeguati documenti d'identita' a t
 
 3\. Le parti convengono di negoziare, su richiesta e non appena possibile, un accordo che disciplini gli obblighi specifici degli Stati membri dell'Unione europea e di Cuba in materia di migrazione, compresa la riammissione.
 
-##### Art. 35
+#### Art. 35
 
 Tutela consolare
 
 Cuba concorda sul fatto che le autorita' diplomatiche e consolari di qualsiasi Stato membro dell'Unione europea rappresentato devono offrire protezione a qualsiasi cittadino di un altro Stato membro che non disponga di una rappresentanza permanente in grado di fornirgli efficacemente tutela consolare, alle stesse condizioni previste per i cittadini di tale Stato membro dell'Unione europea.
 
-##### Art. 36
+#### Art. 36
 
 Societa' civile
 
 Le parti riconoscono il potenziale contributo della societa' civile, compresi il mondo accademico, i gruppi di riflessione e i media, al conseguimento degli obiettivi del presente accordo. Esse convengono di promuovere azioni a favore di una maggiore partecipazione della societa' civile alla definizione e all'attuazione delle pertinenti attivita' di cooperazione allo sviluppo e settoriale, anche attraverso lo sviluppo delle capacita'.
 
-## Titolo IV - Sviluppo e coesione sociali
+### Titolo IV - Sviluppo e coesione sociali
 
-##### Art. 37
+#### Art. 37
 
 Sviluppo e coesione sociali
 
@@ -759,7 +757,7 @@ i) politiche e programmi specifici a favore dei giovani intesi a promuoverne la 
 
 3\. Le parti convengono di incoraggiare lo scambio di informazioni e di esperienze per quanto attiene agli aspetti dei piani o programmi interni riguardanti lo sviluppo e la coesione sociali.
 
-##### Art. 38
+#### Art. 38
 
 Occupazione e protezione sociale
 
@@ -785,7 +783,7 @@ i) migliorare le condizioni di salute e di sicurezza sul lavoro, in particolare 
 
 j) stimolare la creazione di posti di lavoro e l'imprenditorialita' rafforzando il quadro istituzionale necessario alla creazione di imprese e all'agevolazione dell'accesso al credito.
 
-##### Art. 39
+#### Art. 39
 
 Istruzione
 
@@ -793,7 +791,7 @@ Istruzione
 
 2\. Le parti convengono che la cooperazione sostenga lo sviluppo delle risorse umane a tutti i livelli di istruzione, in particolare a livello di istruzione superiore, tenendo conto delle esigenze specifiche. Le parti promuovono lo scambio di studenti, ricercatori e docenti universitari attraverso i programmi esistenti e migliorano lo sviluppo di capacita' per modernizzare i propri sistemi d'istruzione superiore.
 
-##### Art. 40
+#### Art. 40
 
 Sanita' pubblica
 
@@ -801,13 +799,13 @@ Sanita' pubblica
 
 2\. Le parti convengono di prestare particolare attenzione alle azioni e ai programmi regionali attuati nel settore della salute pubblica.
 
-##### Art. 41
+#### Art. 41
 
 Protezione dei consumatori
 
 Le parti convengono di collaborare in materia di protezione dei consumatori al fine di tutelare la salute umana e gli interessi dei consumatori.
 
-##### Art. 42
+#### Art. 42
 
 Cultura e patrimonio culturale
 
@@ -823,7 +821,7 @@ Cultura e patrimonio culturale
 
 6\. Le parti incoraggiano il coordinamento nell'ambito dell'UNESCO con l'obiettivo di promuovere la diversita' culturale, anche attraverso consultazioni sulla ratifica e sull'applicazione della convenzione UNESCO sulla protezione e la promozione della diversita' delle espressioni culturali. La cooperazione intende altresi' favorire la diversita' culturale.
 
-##### Art. 43
+#### Art. 43
 
 Persone che si trovano in una situazione di vulnerabilita'
 
@@ -831,7 +829,7 @@ Persone che si trovano in una situazione di vulnerabilita'
 
 2\. La cooperazione comprende lo scambio di esperienze sulla tutela dei diritti umani, la promozione e l'attuazione di politiche volte a garantire pari opportunita' alle persone che si trovano in una situazione di vulnerabilita', la creazione di opportunita' economiche e la promozione di politiche sociali specifiche intese a sviluppare le capacita' umane attraverso l'istruzione e la formazione, l'accesso a servizi sociali di base, alle reti di sicurezza sociale e alla giustizia, rivolgendo particolare attenzione, tra l'altro, alle persone con disabilita' e alle loro famiglie, ai bambini e agli anziani.
 
-##### Art. 44
+#### Art. 44
 
 Prospettiva di genere
 
@@ -843,7 +841,7 @@ Prospettiva di genere
 
 4\. E' rivolta particolare attenzione ai programmi intesi a prevenire e contrastare ogni forma di violenza contro le donne.
 
-##### Art. 45
+#### Art. 45
 
 Gioventu'
 
@@ -853,7 +851,7 @@ Gioventu'
 
 3\. Le parti convengono di promuovere l'attuazione di programmi volti a favorire la cooperazione tra le organizzazioni giovanili, compresi i programmi di scambio.
 
-##### Art. 46
+#### Art. 46
 
 Sviluppo delle comunita' locali
 
@@ -865,9 +863,9 @@ a) iniziative locali, conformemente al rispettivo piano strategico territoriale;
 
 b) il rafforzamento delle capacita' di gestione economica delle strutture produttive e dei prestatori di servizi locali.
 
-## Titolo V - Ambiente, gestione del rischio di catastrofi e cambiamenti climatici
+### Titolo V - Ambiente, gestione del rischio di catastrofi e cambiamenti climatici
 
-##### Art. 47
+#### Art. 47
 
 Cooperazione in materia di ambiente e cambiamenti climatici
 
@@ -903,7 +901,7 @@ f) incoraggiare e promuovere la cooperazione regionale nel settore della tutela 
 
 g) contribuire all'attuazione e all'applicazione degli accordi multilaterali sull'ambiente di cui le parti sono parti.
 
-##### Art. 48
+#### Art. 48
 
 Gestione del rischio di catastrofi
 
@@ -911,7 +909,7 @@ Gestione del rischio di catastrofi
 
 2\. Le parti concordano che la cooperazione in materia di gestione del rischio di catastrofi e' intesa a ridurre la vulnerabilita' e i rischi, potenziare le capacita' di sorveglianza e allarme rapido e aumentare la resilienza di Cuba alle catastrofi, anche attraverso il sostegno a iniziative interne, nonche' al quadro regionale per la riduzione della vulnerabilita' e per la risposta alle catastrofi, in modo da rafforzare la ricerca regionale e divulgare le migliori prassi, sulla base dell'esperienza acquisita in materia di riduzione del rischio di catastrofi e di preparazione, pianificazione, prevenzione, attenuazione, reazione e recupero.
 
-##### Art. 49
+#### Art. 49
 
 Acqua e impianti igienico-sanitari
 
@@ -927,9 +925,9 @@ d) i programmi educativi che evidenziano la necessita' della conservazione, dell
 
 2\. Le parti convengono di prestare particolare attenzione alle azioni e ai programmi di cooperazione regionali in questo settore.
 
-## Titolo VI - Sviluppo economico
+### Titolo VI - Sviluppo economico
 
-##### Art. 50
+#### Art. 50
 
 Agricoltura, sviluppo rurale, pesca e acquacoltura
 
@@ -975,7 +973,7 @@ r) rafforzare la cooperazione per garantire una maggiore capacita' di sviluppare
 
 3\. Le parti promuovono, nelle zone esposte al rischio di catastrofi, l'analisi del rischio e misure adeguate per aumentare la resilienza nell'ambito della cooperazione nei settori della sicurezza alimentare e dell'agricoltura.
 
-##### Art. 51
+#### Art. 51
 
 Turismo sostenibile
 
@@ -999,7 +997,7 @@ g) l'elaborazione di piani di gestione per lo sviluppo del turismo interno e reg
 
 h) la promozione delle tecnologie dell'informazione applicate al turismo.
 
-##### Art. 52
+#### Art. 52
 
 Cooperazione nei settori della scienza, della tecnologia e dell'innovazione
 
@@ -1017,7 +1015,7 @@ b) attivita' congiunte di ricerca e sviluppo volte a promuovere il progresso sci
 
 5\. Le parti promuovono la partecipazione dei propri organismi ai programmi scientifici e tecnologici dell'altra parte per conseguire un'eccellenza scientifica reciprocamente vantaggiosa conformemente alle rispettive disposizioni che disciplinano la partecipazione di organismi di paesi terzi.
 
-##### Art. 53
+#### Art. 53
 
 Trasferimento tecnologico
 
@@ -1025,7 +1023,7 @@ Trasferimento tecnologico
 
 2\. L'Unione europea agevola e promuove l'accesso di Cuba ai programmi di ricerca e sviluppo riguardanti, tra l'altro, lo sviluppo tecnologico.
 
-##### Art. 54
+#### Art. 54
 
 Energia, comprese le energie rinnovabili
 
@@ -1045,7 +1043,7 @@ e) i programmi volti a sensibilizzare maggiormente la popolazione alle energie r
 
 f) il riciclaggio o l'uso energetico dei rifiuti solidi e liquidi.
 
-##### Art. 55
+#### Art. 55
 
 Trasporti
 
@@ -1063,7 +1061,7 @@ d) il miglioramento delle norme di sicurezza e di prevenzione dell'inquinamento,
 
 e) le attivita' volte a promuovere lo sviluppo del trasporto aereo e marittimo.
 
-##### Art. 56
+#### Art. 56
 
 Modernizzazione del modello economico e sociale
 
@@ -1091,7 +1089,7 @@ i) organizzazione e funzionamento delle imprese, comprese le imprese pubbliche.
 
 3\. Le parti convengono di favorire e incoraggiare la cooperazione tra le istituzioni, comprese le istituzioni settoriali, che promuovono strumenti a sostegno delle PMI, in particolare quelle che si adoperano per migliorare la competitivita', l'innovazione tecnologica, l'integrazione nelle catene del valore, l'accesso al credito e la formazione, nonche' per consolidare la capacita' e il quadro istituzionali. Esse convengono altresi' di promuovere i contatti tra le imprese di entrambe per sostenere la loro integrazione nei mercati internazionali, gli investimenti e il trasferimento di tecnologie.
 
-##### Art. 57
+#### Art. 57
 
 Statistiche
 
@@ -1099,7 +1097,7 @@ Statistiche
 
 2\. La cooperazione potrebbe comprendere, tra l'altro: scambi tecnici, anche di scienziati, tra l'istituto nazionale di statistica e informazione di Cuba e gli istituti statistici degli Stati membri dell'Unione europea ed Eurostat, lo sviluppo di metodi perfezionati e compatibili di raccolta, disaggregazione, analisi e interpretazione dei dati e l'organizzazione di seminari, gruppi di lavoro o programmi volti a integrare le capacita' statistiche.
 
-##### Art. 58
+#### Art. 58
 
 Buona governance in materia fiscale
 
@@ -1107,9 +1105,9 @@ Buona governance in materia fiscale
 
 2\. In funzione delle rispettive competenze, le parti migliorano la cooperazione internazionale in materia fiscale, agevolano la riscossione del gettito fiscale legittimo ed elaborano misure che consentano un'attuazione efficace delle norme minime di buona governance in materia fiscale.
 
-## Titolo VII - Integrazione e cooperazione regionali
+### Titolo VII - Integrazione e cooperazione regionali
 
-##### Art. 59
+#### Art. 59
 
 Cooperazione regionale
 
@@ -1123,7 +1121,7 @@ Cooperazione regionale
 
 ## Parte IV - SCAMBI E COOPERAZIONE COMMERCIALE
 
-##### Art. 60
+#### Art. 60
 
 Obiettivi
 
@@ -1141,9 +1139,9 @@ e) sostenere la diversificazione dell'economia cubana e la promozione di un cont
 
 f) incoraggiare l'intensificazione dei flussi di investimenti instaurando un contesto stabile e attraente per gli investimenti reciproci mediante un dialogo coerente volto a migliorare la comprensione e la cooperazione in materia di investimenti, e promuovere un regime di investimenti non discriminatorio.
 
-## Titolo I - Scambi commerciali
+### Titolo I - Scambi commerciali
 
-##### Art. 61
+#### Art. 61
 
 Commercio basato su regole
 
@@ -1151,7 +1149,7 @@ Commercio basato su regole
 
 2\. Le parti ribadiscono che e' nel loro interesse reciproco effettuare gli scambi conformemente a un sistema commerciale multilaterale basato su regole nel cui ambito spetta alle parti salvaguardare la supremazia delle norme e la loro attuazione efficace, equa ed equilibrata.
 
-##### Art. 62
+#### Art. 62
 
 Trattamento della nazione piu' favorita
 
@@ -1159,13 +1157,13 @@ Trattamento della nazione piu' favorita
 
 2\. Il paragrafo 1 non si applica in relazione al trattamento preferenziale concesso dalle parti alle merci di un altro paese in conformita' degli accordi dell'OMC.
 
-##### Art. 63
+#### Art. 63
 
 Trattamento nazionale
 
 Ciascuna parte concede alle merci dell'altra il trattamento nazionale in conformita' dell'articolo III del GATT 1994 e delle sue note interpretative, che sono integrati nel presente accordo e ne fanno parte, mutatis mutandis.
 
-##### Art. 64
+#### Art. 64
 
 Trasparenza
 
@@ -1173,13 +1171,13 @@ Trasparenza
 
 2\. Le parti convengono che le parti interessate dovrebbero poter essere informate delle regolamentazioni di ciascuna parte che incidono sul commercio internazionale.
 
-##### Art. 65
+#### Art. 65
 
 Agevolazione degli scambi
 
 Le parti confermano il proprio impegno a rispettare l'accordo dell'OMC sull'agevolazione degli scambi.
 
-##### Art. 66
+#### Art. 66
 
 Ostacoli tecnici agli scambi
 
@@ -1189,7 +1187,7 @@ Ostacoli tecnici agli scambi
 
 3\. Le parti riconoscono l'importanza di meccanismi efficaci per la notifica e lo scambio di informazioni in materia di regolamentazioni tecniche, norme e procedure di valutazione della conformita', conformemente all'accordo TBT.
 
-##### Art. 67
+#### Art. 67
 
 Misure sanitarie e fitosanitarie (MSF)
 
@@ -1197,27 +1195,27 @@ Misure sanitarie e fitosanitarie (MSF)
 
 2\. Le parti riconoscono l'importanza di meccanismi efficaci di consultazione, notifica e scambio di informazioni riguardo alle misure sanitarie e fitosanitarie e al benessere degli animali, nel quadro delle organizzazioni internazionali competenti.
 
-##### Art. 68
+#### Art. 68
 
 Difesa commerciale
 
 Le parti ribadiscono i propri impegni e obblighi derivanti dai seguenti accordi dell'OMC: accordo sulle misure di salvaguardia, accordo sulle sovvenzioni e sulle misure compensative e accordo sull'attuazione dell'articolo VI del GATT 1994.
 
-##### Art. 69
+#### Art. 69
 
 Clausola di revisione
 
 Le parti possono, di comune intesa, modificare e rivedere la presente parte per approfondire le loro relazioni in materia di scambi commerciali e investimenti.
 
-##### Art. 70
+#### Art. 70
 
 Clausola relativa alle eccezioni generali
 
 Le parti dichiarano che i loro diritti ed obblighi esistenti in forza dell'articolo XX del GATT 1994 e delle sue note interpretative sono integrati nel presente accordo e ne costituiscono parte integrante, mutatis mutandis.
 
-## Titolo II - Cooperazione commerciale
+### Titolo II - Cooperazione commerciale
 
-##### Art. 71
+#### Art. 71
 
 Dogane
 
@@ -1245,7 +1243,7 @@ c) promozione del coordinamento tra tutte le autorita' di frontiera competenti, 
 
 3\. Le parti si prestano reciprocamente assistenza amministrativa in ambito doganale. A tal fine, esse possono istituire di comune accordo strumenti bilaterali.
 
-##### Art. 72
+#### Art. 72
 
 Cooperazione in materia di agevolazione degli scambi
 
@@ -1261,7 +1259,7 @@ c) l'introduzione di procedure e prassi che tengano conto, per quanto fattibile,
 
 d) i sistemi d'informazione e l'automazione delle procedure doganali e di altre procedure commerciali, in particolare per l'attuazione delle misure di agevolazione degli scambi per gli operatori autorizzati e i servizi d'informazione.
 
-##### Art. 73
+#### Art. 73
 
 Proprieta' intellettuale
 
@@ -1271,7 +1269,7 @@ Proprieta' intellettuale
 
 3\. Le parti convengono che la cooperazione deve contribuire alla promozione dell'innovazione tecnologica, nonche' al trasferimento e alla diffusione della tecnologia, a reciproco vantaggio dei produttori e degli utilizzatori di conoscenze tecnologiche e in modo da favorire il benessere sociale ed economico e l'equilibrio tra diritti e obblighi.
 
-##### Art. 74
+#### Art. 74
 
 Cooperazione in materia di ostacoli tecnici agli scambi
 
@@ -1291,7 +1289,7 @@ e) perseguire la compatibilita' tra regolamenti tecnici e procedure di valutazio
 
 f) eliminare gli ostacoli innecessari agli scambi.
 
-##### Art. 75
+#### Art. 75
 
 Sicurezza alimentare, questioni inerenti alle MSF e questioni inerenti al benessere degli animali
 
@@ -1313,7 +1311,7 @@ e) la fornitura di consulenza e assistenza tecnica riguardo al sistema di regola
 
 f) la promozione della cooperazione nell'ambito delle organizzazioni internazionali competenti (comitato per le misure sanitarie e fitosanitarie dell'accordo OMC sulle misure sanitarie e fitosanitarie, convenzione internazionale per la protezione dei vegetali, Organizzazione mondiale per la salute animale e commissione del Codex Alimentarius) per favorire l'applicazione delle norme internazionali.
 
-##### Art. 76
+#### Art. 76
 
 Prodotti tradizionali e artigianali
 
@@ -1329,7 +1327,7 @@ c) incentivo a preservare i prodotti tradizionali;
 
 d) miglioramento delle prestazioni economiche dei fabbricanti di prodotti artigianali.
 
-##### Art. 77
+#### Art. 77
 
 Commercio e sviluppo sostenibile
 
@@ -1345,19 +1343,19 @@ c) promuovendo gli scambi di prodotti ottenuti da risorse naturali gestite in mo
 
 d) rafforzando la capacita' istituzionale di analisi e di intervento in materia di commercio e sviluppo sostenibile.
 
-##### Art. 78
+#### Art. 78
 
 Cooperazione in materia di difesa commerciale
 
 Le parti convengono di cooperare nel settore della difesa commerciale attraverso lo scambio di esperienze, l'assistenza tecnica e lo sviluppo di capacita'.
 
-##### Art. 79
+#### Art. 79
 
 Norme di origine
 
 Le parti riconoscono che le norme di origine svolgono un ruolo importante nel commercio internazionale e convengono di cooperare fornendo assistenza tecnica, sviluppando capacita' e procedendo a scambi di esperienze in tale settore.
 
-##### Art. 80
+#### Art. 80
 
 Investimenti
 
@@ -1365,7 +1363,7 @@ Le parti incentivano l'intensificazione dei flussi di investimenti grazie alla c
 
 ## Parte V - DISPOSIZIONI ISTITUZIONALI E FINALI
 
-##### Art. 81
+#### Art. 81
 
 Consiglio congiunto
 
@@ -1385,7 +1383,7 @@ Consiglio congiunto
 
 8\. Le decisioni e le raccomandazioni del consiglio congiunto sono adottate di comune accordo tra le parti. Questa procedura si applica a tutti gli altri organi direttivi istituiti dal presente accordo.
 
-##### Art. 82
+#### Art. 82
 
 Comitato misto
 
@@ -1399,7 +1397,7 @@ Comitato misto
 
 5\. Il comitato misto si riunisce di norma una volta l'anno per un riesame globale dell'attuazione del presente accordo, in alternanza a Bruxelles e a Cuba, in una data e con un ordine del giorno concordati in anticipo alle parti. Su richiesta di una delle parti possono essere convocate, di comune accordo, riunioni straordinarie. Il comitato misto e' presieduto a turno, da una riunione all'altra, da un rappresentante dell'Unione e da un rappresentante della Repubblica di Cuba.
 
-##### Art. 83
+#### Art. 83
 
 Sottocomitati
 
@@ -1423,13 +1421,13 @@ b) segue l'attuazione generale della parte III del presente accordo;
 
 c) discute temi di cooperazione che possono influire sul funzionamento della parte III del presente accordo.
 
-##### Art. 84
+#### Art. 84
 
 Definizione di «parti»
 
 Ai fini del presente accordo, per «parti» si intendono l'Unione europea o i suoi Stati membri oppure l'Unione europea e i suoi Stati membri, conformemente alle rispettive competenze, da una parte, e la Repubblica di Cuba, dall'altra.
 
-##### Art. 85
+#### Art. 85
 
 Adempimento degli obblighi
 
@@ -1445,7 +1443,7 @@ b) la violazione degli elementi essenziali del presente accordo di cui all'artic
 
 4\. Se una parte adotta una misura in un caso particolarmente urgente, l'altra puo' chiedere la convocazione di una riunione urgente delle parti da tenersi entro quindici giorni.
 
-##### Art. 86
+#### Art. 86
 
 Entrata in vigore, applicazione a titolo provvisorio, durata e denuncia
 
@@ -1467,19 +1465,19 @@ Ciascuna delle parti puo' notificare per iscritto all'altra parte la propria int
 
 5\. Le notifiche a norma del presente articolo sono inviate, nel caso dell'Unione europea, al segretariato generale del Consiglio dell'Unione europea e, nel caso della Repubblica di Cuba, al Ministero cubano degli affari esteri, depositari del presente accordo.
 
-##### Art. 87
+#### Art. 87
 
 Modifica
 
 Il presente accordo puo' essere modificato mediante accordo scritto tra le parti. Le modifiche entrano in vigore alla data convenuta dalle parti e una volta espletati i rispettivi obblighi e adempimenti giuridici.
 
-##### Art. 88
+#### Art. 88
 
 Applicazione territoriale
 
 Il presente accordo si applica, da un lato, ai territori cui si applicano il trattato sull'Unione europea e il trattato sul funzionamento dell'Unione europea, alle condizioni ivi precisate, e, dall'altro, al territorio della Repubblica di Cuba.
 
-##### Art. 89
+#### Art. 89
 
 Testi facenti fede
 

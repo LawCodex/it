@@ -28,7 +28,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Gli articoli 2, 7, 9, 10, 13, 14, 15, 16, 17, 24, 26, 27, 28 e 29 del testo unico approvato con decreto del Presidente della Repubblica 5 giugno 1952, n. 656, sono sostituiti dai seguenti:
 
@@ -178,11 +178,11 @@ Non e' dovuto il rimborso delle spese di gestione per le agenzie con orario al p
 
 Alle spese di gestione, l'Amministrazione, ove lo ritenga, puo' provvedere direttamente, in tutto o in parte, riducendo in equa misura l'assegno forfettario di cui al primo comma.".
 
-### Art. 2
+## Art. 2
 
 ((ARTICOLO ABROGATO DALLA L. 2 MAGGIO 1963, N. 307))
 
-### Art. 3
+## Art. 3
 
 Gli articoli 30, 34, 35 e 42 del testo unico approvato con decreto del Presidente della Repubblica 5 giugno 1952, n. 656, sono sostituiti dai seguenti:
 
@@ -222,7 +222,7 @@ I cambi di ufficio e i trasferimenti di cui al presente articolo non possono ess
 
 I detti movimenti non possono essere concessi a coloro che da meno di un triennio abbiano rinunciato al conseguito trasferimento".
 
-### Art. 4
+## Art. 4
 
 Gli articoli 44, 45, 47, 50, 52, 53, 60, 61, 62, 63, 64, 66, 67, 68, 70, 80, 81, 82, 84, 87, 88, 92 e 102 del testo unico approvato con decreto del Presidente della Repubblica, 5 giugno 1952, n. 656, sono sostituiti dai seguenti:
 
@@ -402,83 +402,83 @@ La L. 31 dicembre 1961, n. 1406 ha disposto (con l'art. 82) che "Sino al 30 sett
 
 ## Norme finali e transitorie
 
-### Art. 5
+## Art. 5
 
 Gli articoli 11, 25, 48 e 83 del testo unico approvato con decreto del Presidente della Repubblica 5 giugno 1952, n. 656, sono soppressi.
 
-### Art. 6
+## Art. 6
 
 ((ARTICOLO ABROGATO DALLA L. 2 MAGGIO 1963, N. 307))
 
-### Art. 7
+## Art. 7
 
 ((ARTICOLO ABROGATO DALLA L. 2 MAGGIO 1963, N. 307))
 
-### Art. 8
+## Art. 8
 
 ((ARTICOLO ABROGATO DALLA L. 2 MAGGIO 1963, N. 307))
 
-### Art. 9
+## Art. 9
 
 ((ARTICOLO ABROGATO DALLA L. 2 MAGGIO 1963, N. 307))
 
-### Art. 10
+## Art. 10
 
 ((ARTICOLO ABROGATO DALLA L. 2 MAGGIO 1963, N. 307))
 
-### Art. 11
+## Art. 11
 
 ((ARTICOLO ABROGATO DALLA L. 2 MAGGIO 1963, N. 307))
 
-### Art. 12
+## Art. 12
 
 ((ARTICOLO ABROGATO DALLA L. 2 MAGGIO 1963, N. 307))
 
-### Art. 13
+## Art. 13
 
 Il servizio prestato negli uffici postali e telegrafici dell'ex Africa orientale italiana e nelle ricevitorie postali e telegrafiche della Libia e delle Isole italiane dell'Egeo nella qualita' di dirigente, senza nomina a titolare, e' valutato nei concorsi per gli uffici locali e per le agenzie alla stregua del servizio di gerente di ricevitoria metropolitana. Il servizio prestato a seguito di regolare nomina quale titolare di ricevitoria e' valutato come servizio di titolare delle ricevitorie del territorio metropolitano, nei concorsi e ai fini della determinazione dell'anzianita' di servizio nei trasferimenti di cui all'art. 42.
 
 Ai fini del comma precedente si considera come servizio prestato anche il periodo di tempo trascorso in prigionia.
 
-### Art. 14
+## Art. 14
 
 ((ARTICOLO ABROGATO DALLA L. 2 MAGGIO 1963, N. 307))
 
-### Art. 15
+## Art. 15
 
 ((ARTICOLO ABROGATO DALLA L. 2 MAGGIO 1963, N. 307))
 
-### Art. 16
+## Art. 16
 
 ((ARTICOLO ABROGATO DALLA L. 2 MAGGIO 1963, N. 307))
 
-### Art. 17
+## Art. 17
 
 ((ARTICOLO ABROGATO DALLA L. 2 MAGGIO 1963, N. 307))
 
-### Art. 18
+## Art. 18
 
 ((ARTICOLO ABROGATO DALLA L. 2 MAGGIO 1963, N. 307))
 
-### Art. 19
+## Art. 19
 
 ((ARTICOLO ABROGATO DALLA L. 2 MAGGIO 1963, N. 307))
 
-### Art. 20
+## Art. 20
 
 Il personale in servizio alla data di entrata in vigore della presente legge, puo' restare in servizio anche oltre il 65° anno di eta' limitatamente al periodo necessario per il conseguimento del diritto al trattamento minimo di quiescenza.
 
-### Art. 21
+## Art. 21
 
 ((ARTICOLO ABROGATO DALLA L. 2 MAGGIO 1963, N. 307))
 
-### Art. 22
+## Art. 22
 
 Il comma settimo dell'art. 72 del decreto del Presidente della Repubblica n. 650, del 5 giugno 1952, e' sostituito dal seguente:
 
 "Le funzioni di segretario della Commissione sono disimpegnate da un impiegato dell'Amministrazione centrale con la qualifica non inferiore a consigliere di 1ª classe o segretario principale od equiparato; in caso di assenza o di impedimento e' sostituito da un segretario supplente con la qualifica non inferiore a segretario".
 
-### Art. 23
+## Art. 23
 
 All'onere derivante dall'applicazione della presente legge l'Amministrazione delle poste e delle telecomunicazioni fara' fronte con le disponibilita' provenienti dalle maggiori entrate derivanti dall'attuazione del decreto del Presidente della Repubblica 5 settembre 1957, n. 855, recante modifiche ad alcune voci delle tariffe postali e telegrafiche.
 

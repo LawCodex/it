@@ -27,19 +27,19 @@ Promulga
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Autorizzazione all'adesione
 
 1\. Il Presidente della Repubblica e' autorizzato ad aderire al Protocollo del 1997 di emendamento della Convenzione internazionale per la prevenzione dell'inquinamento causato da navi del 1973, come modificata dal Protocollo del 1978, con Allegato VI ed Appendici, fatto a Londra il 26 settembre 1997.
 
-### Art. 2
+## Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data al Protocollo del 1997 di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 6 del Protocollo stesso.
 
-### Art. 3
+## Art. 3
 
 Entrata in vigore
 
@@ -55,7 +55,7 @@ Berlusconi, Presidente del Consiglio dei Ministri Fini, Ministro degli affari es
 
 ## Allegati
 
-### Protocol
+## Protocol
 
 Protocol
 
@@ -75,19 +75,19 @@ CONSIDERANDO che tale obiettivo potrebbe essere conseguito al meglio per mezzo d
 
 Hanno convenuto quanto segue:
 
-### Articolo 1
+## Articolo 1
 
 Strumento da emendare
 
 Lo strumento che il presente Protocollo emenda e' la Convenzione Internazionale del 1973 per la prevenzione dell'inquinamento proveniente dalle navi, come modificato dal relativo Protocollo del 1978 (cui si fa riferimento in appresso con il termine "la Convenzione").
 
-### Articolo 2
+## Articolo 2
 
 Aggiunta dell'allegato VI alla Convenzione
 
 E' aggiunto il Regolamento intitolato Allegato 6 per la prevenzione dell'inquinamento marino causato dalle navi, il cui testo e' inserito nell'allegato al presente Protocollo.
 
-### Articolo 3
+## Articolo 3
 
 Obblighi generali
 
@@ -95,7 +95,7 @@ Obblighi generali
 
 Ogni riferimento al presente Protocollo costituisce al contempo un riferimento al relativo Allegato.
 
-### Articolo 4
+## Articolo 4
 
 Procedura di emendamento
 
@@ -103,7 +103,7 @@ Nell'applicare l'articolo 16 della Convenzione ad un emendamento all'Allegato VI
 
 ## CLAUSOLE FINALI
 
-### Articolo 5
+## Articolo 5
 
 Firma, ratifica, accettazione, approvazione ed adesione
 
@@ -121,7 +121,7 @@ c) adesione.
 
 2\. La ratifica, l'accettazione, l'approvazione o l'adesione saranno effettuate mediante il deposito di uno strumento a tal fine presso il Segretario Generale dell'Organizzazione (di seguito denominato "Segretario Generale).
 
-### Articolo 6
+## Articolo 6
 
 Entrata in vigore
 
@@ -131,7 +131,7 @@ Entrata in vigore
 
 3\. A decorrere dalla data in cui si considera che un emendamento al presente Protocollo e' stato accettato in conformita' all'articolo 16 della Convenzione ogni strumento di ratifica, di accettazione, di approvazione o di adesione depositato si applichera' al presente Protocollo come emendato.
 
-### Articolo 7
+## Articolo 7
 
 Denuncia
 
@@ -143,7 +143,7 @@ Denuncia
 
 4\. Si considerera' che una denuncia del Protocollo del 1978, in conformita' all'articolo VII dello stesso, include una denuncia del presente Protocollo conformemente al presente articolo. Tale denuncia avra' effetto alla data in cui la denuncia del Protocollo del 1978 ha effetto in conformita' all'articolo VII di detto Protocollo.
 
-### Articolo 8
+## Articolo 8
 
 Depositario
 
@@ -165,7 +165,7 @@ b) trasmettera' copie certificate conformi del presente Protocollo a tutti gli S
 
 3\. Non appena il presente Protocollo entra in vigore, una copia certificata conforme dello stesso sara' trasmessa dal Depositano al Segretariato delle Nazioni Unite per la sua registrazione e pubblicazione, in conformita' all'Articolo 102 dello Statuto delle Nazioni Unite.
 
-### Articolo 9
+## Articolo 9
 
 Lingue
 
@@ -175,7 +175,7 @@ IN FEDE DI CHE i sottoscritti, a tal fine debitamente autorizzati dai loro rispe
 
 FATTO A LONDRA il 26 settembre 1997.
 
-### Allegato VI
+## Allegato VI
 
 Traduzione non ufficiale
 
@@ -639,7 +639,7 @@ d) le emissioni che provengono da motori diesel esclusivamente abilitati per l'e
 
 Appendici all'Allegato VI
 
-### Appendici
+## Appendici
 
 Appendici all'Allegato VI
 

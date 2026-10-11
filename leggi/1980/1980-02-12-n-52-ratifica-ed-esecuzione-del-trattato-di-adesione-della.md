@@ -25,7 +25,7 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+###### Art. 1
 
 Il Presidente della Repubblica e autorizzato a ratificare il trattato, firmato ad Atene il 28 maggio 1979, concluso tra il Regno del Belgio, il Regno di Danimarca, la Repubblica federale di Germania, la Repubblica francese, l'Irlanda, la Repubblica italiana, il Granducato di Lussemburgo, il Regno dei Paesi Bassi, il Regno Unito di Gran Bretagna e d'Irlanda del Nord (Stati membri delle Comunita' europee) e la Repubblica ellenica relativo all'adesione della Repubblica ellenica alla Comunita' economica europea e alla
 
@@ -41,7 +41,7 @@ sette protocolli;
 
 atto finale, con allegati.
 
-##### Art. 2
+###### Art. 2
 
 Piena ed intera esecuzione e data al trattato di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 2 del trattato stesso.
 
@@ -75,7 +75,7 @@ Considerando che le condizioni di adesione che il Consiglio deve fissare sono st
 
 DECIDE
 
-##### Articolo 1
+###### Articolo 1
 
 1\. La Repubblica ellenica puo' diventare membro della Comunita' Europea del Carbone e dell'Acciaio aderendo, alle condizioni previste dalla presente decisione, al trattato che istituisce tale Comunita', quale e' stato modificato e completato.
 
@@ -85,7 +85,7 @@ Le disposizioni di tale atto concernenti la Comunita' Europea del Carbone e dell
 
 3\. Le disposizioni concernenti i diritti e gli obblighi degli Stati membri, nonche' i poteri 9 le competenze delle istituzioni delle Comunita', quali figurano nel trattato di cui al paragrafo 1, si applicano nei confronti della presente decisione.
 
-##### Articolo 2
+###### Articolo 2
 
 Lo strumento di adesione della Repubblica ellenica alla Comunita' Europea del Carbone e dell'Acciaio sara' depositato presso il Governo della Repubblica francese al 1 gennaio 1981.
 
@@ -93,7 +93,7 @@ L'adesione prende effetto il 1 gennaio 1981, a condizione che la Repubblica elle
 
 Il Governo della Repubblica francese rimettera' copia certificata conforme dello strumento di adesione della Repubblica ellenica ai Governi degli Stati membri.
 
-##### Articolo 3
+###### Articolo 3
 
 La presente decisione redatta in lingua danese, in lingua francese, in lingua greca, in lingua inglese, in lingua irlandese, in lingua italiana, in lingua olandese e in lingua tedesca, i testi in ciascuna di queste lingue facenti tutti ugualmente fede, e' comunicato agli Stati membri della Comunita' Europea del Carbone e dell'Acciaio ed alla Repubblica ellenica.
 
@@ -105,7 +105,7 @@ Il Presidente
 
 Parte di provvedimento in formato grafico
 
-##### art. 1
+###### art. 1
 
 TRATTATO
 
@@ -277,13 +277,13 @@ ARTICOLO 1
 
 3\. Le disposizioni concernenti i diritti e gli obblighi degli Stati membri, nonche' i poteri e le competenze delle Istituzioni delle Comunita', quali figurano nei trattati di cui al paragrafo 1, si applicano nei confronti del presente trattato.
 
-##### ARTICOLO 2
+###### ARTICOLO 2
 
 Il presente trattato sara' ratificato dalle Alte Parti Contraenti conformemente alle loro norme costituzionali rispettive. Gli strumenti di ratifica saranno depositati presso il Governo della Repubblica italiana al piu' tardi il 31 dicembre 1980.
 
 Il presente trattato entrera' in vigore il 10 gennaio 1981, a condizione che tutti gli strumenti di ratifica siano stati depositati prima di tale data e che lo strumento di adesione della Repubblica ellenica alla Comunita' Europea del Carbone e dell'Acciaio sia depositato a tale data.
 
-##### ARTICOLO 3
+###### ARTICOLO 3
 
 Il presente trattato, redatto in unico esemplare, in lingua danese, in lingua francese, in lingua greca, in lingua inglese, in lingua irlandese, in lingua italiana, in lingua olandese e in lingua tedesca, i testi in ciascuna di queste lingue facenti tutte ugualmente fede, sara' depositato negli archivi del Governo della Repubblica italiana che provvedera' a rimetterne copia certificata conforme a ciascuno dei Governi degli altri Stati firmatari.
 
@@ -299,7 +299,7 @@ ATTO
 
 RELATIVO ALLE CONDIZIONI DI ADESIONE DELLA REPUBBLICA ELLENICA ED AGLI ADATTAMENTI DEI TRATTATI
 
-##### ARTICOLO 1
+###### ARTICOLO 1
 
 Ai fini del presente atto:
 
@@ -307,11 +307,11 @@ Ai fini del presente atto:
 
 \- per "Stati membri attuali" s'intendono il Regno del Belgio, il Regno di Danimarca, la Repubblica federale di Germania, la Repubblica francese, l'Irlanda, la Repubblica italiana, il Granducato del Lussemburgo, il Regno dei Paesi Bassi e ii Regno Unito di Gran Bretagna e Irlanda del Nord.
 
-##### ARTICOLO 2
+###### ARTICOLO 2
 
 Dal momento dell'adesione le disposizioni dei trattati originari e gli atti delle Istituzioni delle Comunita' vincolano la Repubblica ellenica e si applicano in tale Stato alle condizioni previste da detti trattati e dal presente atto.
 
-##### ARTICOLO 3
+###### ARTICOLO 3
 
 1\. La Repubblica ellenica aderisce con il presente atto alle decisioni ed agili accordi conclusi dai rappresentanti dei governi degli Stati membri riuniti in sede di Consiglio. Essa s'impegna ad aderire dal momento dell'adesione a ogni altro accordo concluso dagli Stati membri attuali relative al funzionamento delle Comunita' o che sia connesso alla loro azione.
 
@@ -319,7 +319,7 @@ Dal momento dell'adesione le disposizioni dei trattati originari e gli atti dell
 
 3\. La Repubblica ellenica si trova nella stessa situazione degli Stati membri attuali rispetto alle dichiarazioni, risoluzioni o altre prese di posizione del Consiglio, nonche' a quelle relative alle Comunita' Europee adottate di comune accordo dagli Stati membri; essa rispettera' quindi i principi e qui orientamenti che ne derivano e prendera' le misure che possono risultare necessarie per assicurarne l'applicazione.
 
-##### ARTICOLO 4
+###### ARTICOLO 4
 
 1\. Gli accordi e le convenzioni conclusi da una delle Comunita' con uno o piu' Stati terzi, con un'organizzazione internazionale o con un cittadino di uno Stato terzo vincolano la Repubblica ellenica alle condizioni previste dai trattati originari e dal presente atto.
 
@@ -329,23 +329,23 @@ Dal momento dell'adesione le disposizioni dei trattati originari e gli atti dell
 
 4\. La Repubblica ellenica prende le misure adatte per adeguare, se occorre, ai diritti ed agli obblighi derivanti dall'adesione alle Comunita' la propria posizione nei confronti delle organizzazioni internazionali e degli accordi internazionali cui sono parti anche altri Stati membri o una delle Comunita.
 
-##### ARTICOLO 5
+###### ARTICOLO 5
 
 L'articolo 234 del trattato CEE e gli articoli 105 e 106 del trattato CEEA si applicano, per quanto attiene alla Repubblica ellenica, agli accordi ed alle convenzioni conclusi prima dell'adesione di quest'ultima.
 
-##### ARTICOLO 6
+###### ARTICOLO 6
 
 Le disposizioni del presente atto, se non e stabilito altrimenti, non possono essere sospese, modificate o abrogate che a mezzo delle procedure, previste dai trattati originari, che consentono la revisione di tali trattati.
 
-##### ARTICOLO 7
+###### ARTICOLO 7
 
 Gli atti delle Istituzioni delle Comunita' ai quali si riferiscono le disposizioni transitorie stabilite col presente atto conservano la loro natura giuridica; in particolare le procedure per la loro modifica restano applicabili.
 
-##### ARTICOLO 8
+###### ARTICOLO 8
 
 Le disposizioni del presente atto che hanno per oggetto o per effetto di abrogare o di modificare, a titolo non transitorio, atti delle Istituzioni delle Comunita' acquistano la stessa natura giuridica delle disposizioni cosi' abrogate o modificate e sono sottoposte alle stesse norme.
 
-##### ARTICOLO 9
+###### ARTICOLO 9
 
 1\. L'applicazione dei trattati originari e degli atti delle Istituzioni e' soggetta, a titolo transitorio, alle disposizioni derogatorie previste dal presente atto.
 
@@ -357,7 +357,7 @@ Le disposizioni del presente atto che hanno per oggetto o per effetto di abrogar
 
 #### Capo 1 - L'ASSEMBLEA
 
-##### ARTICOLO 10
+###### ARTICOLO 10
 
 L'articolo 2 dell'atto relativo all'elezione dei rappresentanti nell'Assemblea a suffragio universale diretto, allegato alla decisione 76/787/ CECA, CEE, Euratom e sostituito dalle seguenti
 
@@ -369,13 +369,13 @@ fissato come segue:
 
 Belgio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24 Danimarca. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16 Germania . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81 Grecia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21 Francia. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81 Irlanda. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15 Italia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81 Lussemburgo . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 Paesi Bassi. . . . . . . . . . . . . . . . . . . . . . . . . . . . 25 Regno Unito . . . . . . . . . . . . . . . . . . . . . . . . . . . 81.
 
-## Capo 2 - IL CONSIGLIO
+#### Capo 2 - IL CONSIGLIO
 
-##### ARTICOLO 11
+###### ARTICOLO 11
 
 L'articolo 2, secondo comma, del trattato che istituisce un Consiglio unico ed una Commissione unica delle Comunita' Europee e sostituito dalla seguente disposizione "La presidenza e' esercitata a turno da ciascun membro del Consiglio per una durata di sei mesi, secondo l'ordine seguente degli Stati membri: Belgio, Danimarca, Germania, Grecia, Francia, Irlanda, Italia, Lussemburgo, Paesi Bassi e Regno Unito".
 
-##### ARTICOLO 12
+###### ARTICOLO 12
 
 L'articolo 28, quarto comma, del trattato CECA S sostituito dalla seguente disposizione:
 
@@ -383,13 +383,13 @@ L'articolo 28, quarto comma, del trattato CECA S sostituito dalla seguente dispo
 
 Tuttavia ai voti dei membri del Consiglio e attribuita la ponderazione seguente per l'applicazione delle disposizioni degli articoli 78, 78 terzo e 78 quinto del presente trattato che richiedono la maggioranza qualificata: Belgio 5, Danimarca 3, Germania 10, Grecia 5, Francia 10, Irlanda 3, Italia 10, Lussemburgo 2, Paesi Bassi 5, Regno Unito 10. Le deliberazioni sono valide se hanno raccolto almeno 45 voti, che esprimano il voto favorevole di almeno sei membri".
 
-##### ARTICOLO 13
+###### ARTICOLO 13
 
 L'articolo 95, quarto comma, del trattato CECA e sostituito dalla seguente disposizione
 
 "Queste modificazioni sono oggetto di proposte stabilite d'accordo dall'Alta Autorita' e dal Consiglio deliberante a maggioranza di nove decimi dei suoi membri, e sottoposte al parere della Corte. Nel suo esame, la Corte ha piena competenza per valutare tutti gli elementi di fatto e di diritto. Se, in seguito a questo esame, la Corte riconosce la conformita' delle proposte alle disposizioni del capoverso precedente, esse sono trasmesse all'Assemblea ed entrano in vigore se sono approvate a maggioranza di tre quarti dei voti espressi e a maggioranza di due terzi dei membri che compongono l'Assemblea".
 
-##### ARTICOLO 14
+###### ARTICOLO 14
 
 L'articolo 148, paragrafo 2, del trattato CEE e l'articolo 118, paragrafo 2, del trattato CEEA sono sostituiti dalle seguenti disposizioni:
 
@@ -403,23 +403,23 @@ Le deliberazioni sono valide se hanno raccolto almeno:
 
 \- quarantacinque voti che esprimano il veto favorevole di almeno sei membri, negli altri casi".
 
-## Capo 3 - LA COMMISSIONE
+#### Capo 3 - LA COMMISSIONE
 
-##### ARTICOLO 15
+###### ARTICOLO 15
 
 L'articolo 10, paragrafo 1, primo comma, del trattato che istituisce un Consiglio unico ed una Commissione unica delle Comunita' Europee e sostituito dalla seguente disposizione:
 
 "La Commissione e composta di quattordici membri, scelti in base alla loro competenza generale e che offrano ogni garanzia di indipendenza".
 
-## Capo 4 - LA CORTE DI GIUSTIZIA
+#### Capo 4 - LA CORTE DI GIUSTIZIA
 
-##### ARTICOLO 16
+###### ARTICOLO 16
 
 Dal momento dell'adesione della Repubblica ellenica, il Consiglio delle Comunita' Europee, deliberando all'unanimita', decide gli adattamenti da apportare rispettivamente all'articolo 32, primo comma, del trattato CECA, all'articolo 165, primo comma, del trattato CEE e all'articolo 137, primo comma, del trattato CEEA, al fine di aumentare di un'unita' il numero dei giudici che compongono la Corte di Giustizia. Esso decide ugualmente i necessari adattamenti da apportare conseguentemente all'articolo 32 ter, secondo comma, del trattato CECA, all'articolo 167, secondo comma, del trattato CEE e all'articolo 139, secondo comma, del trattato CEEA, nonche' all'articolo 18, secondo comma, del protocollo sullo statuto della Corte di Giustizia della Comunita' Europea del Carbone e dell'Acciaio, all'articolo 15 del protocollo sullo statuto della Corte di Giustizia della Comunita' Economica Europea e all'articolo 15 del protocollo sullo statuto della Corte di Giustizia della Comunita' Europea dell'Energia Atomica.
 
-## Capo 5 - IL COMITATO ECONOMICO E SOCIALE
+#### Capo 5 - IL COMITATO ECONOMICO E SOCIALE
 
-##### ARTICOLO 17
+###### ARTICOLO 17
 
 L'articolo 194, primo comma, del trattato CEE e l'articolo 166, primo comma, del trattato CEEA sono sostituiti dalla seguente
 
@@ -429,25 +429,25 @@ disposizione:
 
 Belgio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12 Danimarca . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9 Germania . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24 Grecia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12 Francia. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21 Irlanda . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9 Italia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24 Lussemburgo . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 Paesi Bassi. . . . . . . . . . . . . . . . . . . . . . . . . . . . 12 Regno Unito . . . . . . . . . . . . . . . . . . . . . . . . . . . 24.
 
-## Capo 6 - LA CORTE DEI CONTI
+#### Capo 6 - LA CORTE DEI CONTI
 
-##### ARTICOLO 18
+###### ARTICOLO 18
 
 L'articolo 78 sesto, paragrafo 2, del trattato CECA, l'articolo 206, paragrafo 2, del trattato CEE e l'articolo 180, paragrafo 2, del trattato CEEA sono sostituiti dalla seguente disposizione:
 
 "La Corte dei Conti e composta di dieci membri".
 
-## Capo 7 - IL COMITATO SCIENTIFICO E TECNICO
+#### Capo 7 - IL COMITATO SCIENTIFICO E TECNICO
 
-##### ARTICOLO 19
+###### ARTICOLO 19
 
 L'articolo 134, paragrafo 2, primo comma, del trattato CEEA e sostituito dalla seguente disposizione:
 
 "Il Comitato e composto di ventotto membri, nominati dal Consiglio previa consultazione della Commissione".
 
-## TITOLO II - ALTRI ADATTAMENTI
+### TITOLO II - ALTRI ADATTAMENTI
 
-##### ARTICOLO 20
+###### ARTICOLO 20
 
 L'articolo 227, paragrafo 1, del trattato CEE 8 sostituito dalla seguente disposizione:
 
@@ -455,11 +455,11 @@ L'articolo 227, paragrafo 1, del trattato CEE 8 sostituito dalla seguente dispos
 
 ## PARTE TERZA - ADATTAMENTI DEGLI ATTI DELLE ISTITUZIONI
 
-##### ARTICOLO 21
+###### ARTICOLO 21
 
 Gli atti indicati nell'elenco riportato dall'allegato 1 del presente atto formano oggetto degli adattamenti specificati in tale allegato.
 
-##### ARTICOLO 22
+###### ARTICOLO 22
 
 Gli adattamenti degli atti indicati nell'elenco riportato dall'allegato II del presente atto, resi necessari dall'adesione, sono effettuati conformemente aghi orientamenti enunciati in detto allegato e secondo la procedura e alle condizioni di cui all'articolo 146.
 
@@ -467,7 +467,7 @@ Gli adattamenti degli atti indicati nell'elenco riportato dall'allegato II del p
 
 ### TITOLO I - DISPOSIZIONI ISTITUZIONALI
 
-##### ARTICOLO 23
+###### ARTICOLO 23
 
 1\. Durante il 1981 la Repubblica ellenica procede all'elezione a suffragio universale diretto dei ventiquattro rappresentanti del popolo della Grecia nell'assemblea, conformemente alle disposizioni dell'atto del 20 settembre 1976 relativo all'elezione dei rappresentanti nell'assemblea a suffragio universale diretto.
 
@@ -475,11 +475,11 @@ Il mandato di questi rappresentanti scade contemporaneamente a quello dei rappre
 
 2\. Dal momento dell'adesione e fino all'elezione di cui al paragrafo 1 i ventiquattro rappresentanti del popolo della Grecia nell'assemblea sono designati dal Parlamento ellenico fra i propri membri secondo la procedura fissata dalla Repubblica ellenica.
 
-## TITOLO II - LIBERA CIRCOLAZIONE DELLE MERCI
+### TITOLO II - LIBERA CIRCOLAZIONE DELLE MERCI
 
-### Capo 1 - DISPOSIZIONI TARIFFARIE
+#### Capo 1 - DISPOSIZIONI TARIFFARIE
 
-##### ARTICOLO 24
+###### ARTICOLO 24
 
 1\. Per ogni prodotto il dazio di base sul quale vanno operate le successive riduzioni di cui agli articoli 25 e 64 e' il dazio effettivamente applicato al 10 luglio 1980.
 
@@ -487,7 +487,7 @@ Per ogni prodotto il dazio di base per il ravvicinamento alla tariffa doganale c
 
 2\. La Comunita' nella sua composizione attuale e la Repubblica ellenica si comunicano i rispettivi dazi di base;.
 
-##### ARTICOLO 25
+###### ARTICOLO 25
 
 1\. I dazi doganali all'importazione tra la Comunita' nella sua composizione attuale e la Repubblica ellenica sono progressivamente aboliti secondo il seguente ritmo:
 
@@ -509,23 +509,23 @@ a) una franchigia dai dazi doganali viene applicata, dal momento dell'adesione, 
 
 b) una franchigia dai dazi doganali viene applicata, dal momento dell'adesione, alle importazioni di merci che sono oggetto di piccole spedizioni prive di carattere commerciale che beneficiano delle disposizioni relative alla franchigia fiscale fra gli Stati membri.
 
-##### ARTICOLO 26
+###### ARTICOLO 26
 
 In nessun caso si applicano all'interno della Comunita' dazi doganali superiori a quelli applicati nei confronti dei paesi terzi che beneficiano della clausola della nazione piu' favorita.
 
 In caso di modifica o di sospensione dei dazi della tariffa doganale comune o di applicazione dell'articolo 34 da parte della Repubblica ellenica il Consiglio deliberando a maggioranza qualificata su proposta della Commissione, puo' prendere le misure necessarie per mantenere la preferenza comunitaria.
 
-##### ARTICOLO 27
+###### ARTICOLO 27
 
 La Repubblica ellenica puo' sospendere integralmente o parzialmente la riscossione dei dazi applicabili ai prodotti importati dalla Comunita' nella sua composizione attuale. Essa ne informa gli altri Stati membri e la Commissione.
 
 Il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, puo' sospendere totalmente o parzialmente la riscossione dei dazi applicabili ai prodotti importati dalla Grecia.
 
-##### ARTICOLO 28
+###### ARTICOLO 28
 
 Qualunque tassa di effetto equivalente ad un dazio doganale all'importazione istituita dopo il 1 gennaio 1979 negli scambi tra la Comunita' nella sua composizione attuale e la Grecia e' abolita al 1 gennaio 1981.
 
-##### ARTICOLO 29
+###### ARTICOLO 29
 
 Le tasse di effetto equivalente a dazi doganali all'importazione tra la Comunita' nella sua composizione attuale e la Grecia sono progressivamente abolite secondo il seguente ritmo:
 
@@ -543,11 +543,11 @@ al 1 gennaio 1985
 
 al 1 gennaio 1986.
 
-##### ARTICOLO 30
+###### ARTICOLO 30
 
 I dazi doganali all'esportazione e le tasse di effetto equivalente tra la Comunita' nella sua composizione attuale e la Grecia sono aboliti al 1 gennaio 1981.
 
-##### ARTICOLO 31
+###### ARTICOLO 31
 
 Ai fini dell'applicazione progressiva della tariffa doganale comune, la Repubblica ellenica modifica come segue la sua tariffa applicabile nei confronti dei paesi terzi:
 
@@ -563,7 +563,7 @@ Tale scarto 6 nuovamente ridotto ogni volta del 20% allo gennaio 1983, al 1 genn
 
 A decorrere dal 1 gennaio 1986 la Repubblica ellenica applica integralmente la tariffa doganale comune.
 
-##### ARTICOLO 32
+###### ARTICOLO 32
 
 1\. Ai fini dell'applicazione progressiva della tariffa unificata CECA, la Repubblica ellenica modifica come segue la sua tariffa applicabile nei confronti dei paesi terzi:
 
@@ -577,7 +577,7 @@ A decorrere dal 1 gennaio 1986 la Repubblica ellenica applica integralmente la t
 
 2\. Per le ligniti e gli agglomerati di ligniti della voce n° 27.02 della tariffa doganale comune, la Repubblica ellenica introduce, secondo lo stesso ritmo di progressivita' di quello previsto dal paragrafo 1, le disposizioni di cui alla tariffa doganale comune per questi prodotti ed applica un dazio del 5% al piu' tardi il 1 gennaio 1986.
 
-##### ARTICOLO 33
+###### ARTICOLO 33
 
 1\. Nei casi in cui i dazi della tariffa doganale della Repubblica ellenica siano di natura diversa dai corrispondenti dazi della tariffa doganale comune o della tariffa unificata CECA, il progressivo ravvicinamento dei primi verso i secondi si opera addizionando gli elementi del dazio di base ellenico con quelli del dazio della tariffa doganale comune o con quelli della tariffa unificata CECA il dazio di base ellenico e ridotto progressivamente a 0, secondo i ritmi fissati dagli articoli 31, 32 e 64, mentre il dazio della tariffa doganale comune o della tariffa unificata CECA parte da 0 per raggiungere progressivamente e secondo gli stessi ritmi il suo importo definitivo.
 
@@ -589,21 +589,19 @@ La Repubblica ellenica puo' riprendere all'interno di tali nomenclature le suddi
 
 4\. Per facilitare la progressiva applicazione della tariffa doganale comune e della tariffa unificata CECA da parte della Repubblica ellenica, la Commissione puo' stabilire, se occorre, le modalita' d'applicazione secondo cui la Repubblica ellenica modifica i suoi dazi doganali.
 
-##### ARTICOLO 34
+###### ARTICOLO 34
 
 Per allineare la sua tariffa alla tariffa doganale comune e alla tariffa unificata CECA la Repubblica ellenica resta libera di modificare i suoi dazi doganali a un ritmo piu' rapido di quello previsto dagli articoli 31, 32 e 611.
 
 Essa ne informa gli altri Stati membri e la Commissione.
 
-## Capo 2 - ABOLIZIONE DELLE RESTRIZIONI QUANTITATIVE
+#### Capo 2 - ABOLIZIONE DELLE RESTRIZIONI QUANTITATIVE E DELLE MISURE DI EFFETTO EQUIVALENTE
 
-### E DELLE MISURE DI EFFETTO EQUIVALENTE
-
-##### ARTICOLO 35
+###### ARTICOLO 35
 
 Le restrizioni quantitative all'importazione e all'esportazione nonche' qualsiasi misura di effetto equivalente tra la Comunita' nella composizione attuale e la Grecia sono abolite dal momento dell'adesione.
 
-##### ARTICOLO 36
+###### ARTICOLO 36
 
 1\. In deroga all'articolo 35 la Repubblica ellenica puo' mantenere fino al 31 dicembre 1985 restrizioni quantitative per i prodotti di cui all'allegato III del presente atto provenienti dagli Stati membri attuali.
 
@@ -621,11 +619,11 @@ Quanto agli autobus, autocorriere, torpedoni ed altri autoveicoli della sottovoc
 
 5\. I contingenti aperti per i concimi delle voci nn. 31.02, 31.03 e 31.05 A I, II e IV della tariffa doganale comune costituiscono del pari le misure transitorie necessarie all'abolizione dei diritti esclusivi di importazione. A questi contingenti puo' accedere qualsiasi importatore in Grecia ed i prodotti importati nel quadro di detti contingenti non possono essere sottoposti in Grecia a diritti esclusivi di commercializzazione.
 
-##### ARTICOLO 37
+###### ARTICOLO 37
 
 In deroga all'articolo 35 gli Stati membri attuali e la Repubblica ellenica possono mantenere negli scambi tra gli Stati membri attuali e la Grecia le restrizioni all'esportazione di rottami, cascami e avanzi di lavori di ghisa, di ferro o di acciaio della voce n° 73.03 della tariffa doganale comune, per un periodo di due anni dal 1 gennaio 1981, purche' tale regime non sia piu' restrittivo di quello applicato alle esportazioni verso i paesi terzi.
 
-##### ARTICOLO 38
+###### ARTICOLO 38
 
 In deroga all'articolo 35 i tassi delle cauzioni e gli importi da pagare in contanti in vigore in Grecia al 31 dicembre 1980 per le importazioni provenienti dagli Stati membri attuali sono progressivamente aboliti nel corso di un periodo di tre anni dal 1 gennaio 1981.
 
@@ -639,13 +637,13 @@ I tassi delle cauzioni e gli importi da pagare in contanti sono ridotti secondo 
 
 1 gennaio 1984: 25%.
 
-##### ARTICOLO 39
+###### ARTICOLO 39
 
 1\. In deroga all'articolo 35 la preferenza generale dell'8% applicabile in Grecia agli appalti pubblici sara' progressivamente abolita dalla Repubblica ellenica con lo stesso ritmo fissato dall'articolo 25 per l'abolizione dei dazi doganali all'importazione tra la Grecia e la Comunita' nella sua composizione attuale.
 
 2\. In deroga all'articolo 35 la Repubblica ellenica puo' soprassedere per un periodo di due anni dal 1 gennaio 1981 all'apertura ai fornitori comunitari dei suoi elenchi di fornitori riconosciuti.
 
-##### ARTICOLO 40
+###### ARTICOLO 40
 
 1\. Fatto salvo il paragrafo 2 del presente articolo la Repubblica ellenica procede, a decorrere dal 1 gennaio 1981, ad un progressivo riordinamento dei monopoli nazionali che presentano un carattere commerciale, ai sensi dell'articolo 37, paragrafo 1, del trattato CEE, in modo che venga esclusa, anteriormente al 31 dicembre 1985, qualsiasi discriminazione fra i cittadini degli Stati membri per quanto riguarda le condizioni relative all'approvvigionamento ed agli sbocchi.
 
@@ -655,9 +653,9 @@ La Commissione formula raccomandazioni in merito alle modalita' ed al ritmo da s
 
 2\. A decorrere dal 1 gennaio 1981 la Repubblica ellenica abolisce la totalita' dei diritti esclusivi d'esportazione. Essa abolisce del pari, a decorrere dalla stessa data, i diritti esclusivi d'importazione sul solfato di rame della sottovoce ex 28.38 A II della tariffa doganale comune, sulla saccarina della sottovoce ex 29.26 A I della tariffa doganale comune e sulla carta sottile della sottovoce ex 48.18 della tariffa doganale comune.
 
-## Capo 3 - ALTRE DISPOSIZIONI
+#### Capo 3 - ALTRE DISPOSIZIONI
 
-##### ARTICOLO 41
+###### ARTICOLO 41
 
 1\. La Commissione stabilisce, tenendo debitamente conto delle disposizioni vigenti ed in particolare di quelle relative al transito comunitario, i metodi di collaborazione amministrativa intesi ad assicurare dal 1 gennaio 1981 che le merci rispondenti alle condizioni a tal fine stabilite fruiscano dell'abolizione dei dazi doganali e delle tasse di effetto equivalente, nonche' delle restrizioni quantitative e misure di effetto equivalente.
 
@@ -669,7 +667,7 @@ La Commissione formula raccomandazioni in merito alle modalita' ed al ritmo da s
 
 Nell'adottare tali disposizioni la Commissione prende in considerazione le norme previste dal presente atto per l'abolizione dei dazi doganali tra la Comunita' nella sua composizione attuale e la Grecia e quelle per la progressiva applicazione, da parte della Repubblica ellenica, della tariffa doganale comune e delle disposizioni in materia di politica agricola comune.
 
-##### ARTICOLO 42
+###### ARTICOLO 42
 
 1\. Salvo disposizione contraria del presente atto, le disposizioni vigenti in materia di legislazione doganale per gli scambi con i paesi terzi si applicano alle stesse condizioni agli scambi all'interno della Comunita', fintantoche' sono riscossi dei dazi doganali su tali scambi.
 
@@ -679,7 +677,7 @@ Per gli scambi all'interno della Comunita', nonche' per gli scambi coi paesi ter
 
 La Repubblica ellenica puo' riprendere all'interno di tali nomenclature le suddivisioni nazionali esistenti al momento dell'adesione che siano indispensabili affinche' la progressiva abolizione dei suoi dazi doganali all'interno della Comunita' si compia alle condizioni previste dal presente atto.
 
-##### ARTICOLO 43
+###### ARTICOLO 43
 
 1\. Se negli scambi tra la Comunita' nella sua composizione attuale e la Grecia vengono applicati gli importi compensativi di cui all'articolo 61 su uno o piu' prodotti di base considerati come entranti nella fabbricazione delle merci di cui al regolamento (CEE) n° 1059/69 che determina il regime degli scambi applicabile a talune merci che derivano dalla trasformazione di prodotti agricoli, al regolamento (CEE) n° 2730/75 relativo al glucosio e al lattosio ed al regolamento (CEE) n° 2783/75 che istaura un regime comune di scambi per l'ovoalbumina e la lattoalbumina, si applicano le seguenti misure transitorie:
 
@@ -707,17 +705,15 @@ Dal momento dell'adesione la Repubblica ellenica abolisce per le importazioni da
 
 6\. Il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, adotta le disposizioni di applicazione del presente articolo.
 
-## TITOLO III - LIBERA CIRCOLAZIONE DELLE
+### TITOLO III - LIBERA CIRCOLAZIONE DELLE PERSONE DEI SERVIZI E DEI CAPITALI
 
-### PERSONE DEI SERVIZI E DEI CAPITALI - Capo 1
+#### Capo 1 - I LAVORATORI
 
-#### I LAVORATORI
-
-##### ARTICOLO 44
+###### ARTICOLO 44
 
 Le disposizioni dell'articolo 48 del trattato CEE sono, per quanto concerne la libera circolazione dei lavoratori tra gli Stati membri attuali e la Grecia, applicabili soltanto con riserva degli articoli 45, 46 e 47 del presente atto.
 
-##### ARTICOLO 45
+###### ARTICOLO 45
 
 1\. Gli articoli da 1 a 6 e da 13 a 23 del regolamento (CEE) n° 1612/68 relativo alla libera circolazione dei lavoratori all'interno della Comunita' sono applicabili soltanto dal 1 gennaio 1988 negli Stati membri attuali nei confronti dei cittadini ellenici ed in Grecia nei confronti dei cittadini degli Stati membri attuali.
 
@@ -729,15 +725,15 @@ Tuttavia i membri della famiglia del lavoratore, ai sensi dell'articolo 10 di ta
 
 Le disposizioni del presente paragrafo non pregiudicano le disposizioni nazionali piu' favorevoli.
 
-##### ARTICOLO 46
+###### ARTICOLO 46
 
 Nella misura in cui talune disposizioni della direttiva 68/360/CEE relativa alla soppressione delle restrizioni al trasferimento e al soggiorno dei lavoratori degli Stati membri e delle loro famiglie all'interno della Comunita' sono indissociabili da quelle disposizioni del regolamento (CEE) n° 1612/68 la cui applicazione e' differita in virtu' dell'articolo 45, gli Stati membri attuali e la Repubblica ellenica hanno la facolta' di derogare alle disposizioni in questione nella misura necessaria all'applicazione delle disposizioni dell'articolo 45 che derogano al regolamento citato.
 
-##### ARTICOLO 47
+###### ARTICOLO 47
 
 Gli Stati membri attuali e la Repubblica ellenica, assistiti dalla Commissione, prendono le misure necessarie affinche', al piu' tardi il 1 gennaio 1988, possa essere estesa alla Grecia l'applicazione della decisione della Commissione, dell'8 dicembre 1972, concernente il sistema uniforme stabilito in applicazione dell'articolo 15 del regolamento (CEE) n° 1612/68 del Consiglio, sistema denominato "SEDOC", e la decisione della Commissione, del 14 dicembre 1972, concernente lo "Schema comunitario" per la raccolta e la diffusione delle informazioni di cui all'articolo 14, paragrafo 3 del regolamento (CEE) n° 1612/68 del Consiglio.
 
-##### ARTICOLO 48
+###### ARTICOLO 48
 
 Sino al 31 dicembre 1983 le disposizioni dell'articolo 73, paragrafi 1 e 3, dell'articolo 74, paragrafo 1 e dell'articolo 75, paragrafo 1 del regolamento (CEE) n° 1408/71 relativo all'applicazione dei regimi di sicurezza sociale ai lavoratori subordinati e ai loro familiari che si spostano all'interno della Comunita' nonche' degli articoli 86 e 88 del regolamento (CEE) n° 574/72 che stabilisce le modalita' di applicazione del regolamento (CEE) n° 1408/71, non si applicano ai lavoratori greci occupati in uno Stato membro che non sia la Grecia, i cui membri della famiglia risiedono in Grecia.
 
@@ -745,17 +741,17 @@ Le disposizioni dell'articolo 73, paragrafo 2, dell'articolo 74, paragrafo 2 e d
 
 Tuttavia rimangono impregiudicate le disposizioni di uno Stato membro che prevedano che le prestazioni familiari sono dovute al lavoratore qualunque sia il paese di residenza dei membri della famiglia.
 
-## Capo 2 - MOVIMENTI DI CAPITALI E TRANSAZIONI INVISIBILI
+#### Capo 2 - MOVIMENTI DI CAPITALI E TRANSAZIONI INVISIBILI
 
-### Sezione I - MOVIMENTI DI CAPITALI
+##### Sezione I - MOVIMENTI DI CAPITALI
 
-##### ARTICOLO 49
+###### ARTICOLO 49
 
 1\. La Repubblica ellenica puo' differire, alle condizioni e nei termini di cui agli articoli da 50 a 53, la liberalizzazione dei movimenti di capitali prevista dalla prima direttiva del Consiglio dell'11 maggio 1960 per la applicazione dell'articolo 67 del trattato CEE e dalla seconda direttiva del Consiglio del 18 dicembre 1962 che completa e modifica la prima direttiva per l'applicazione dell'articolo 67 del trattato CEE.
 
 2\. Fra le autorita' elleniche e la Commissione si tengono, in tempo utile, idonee consultazioni sulle modalita' di applicazione delle misure di liberalizzazione o di mitigazione la cui attuazione puo' essere differita a norma delle disposizioni che seguono.
 
-##### ARTICOLO 50
+###### ARTICOLO 50
 
 1\. La Repubblica ellenica puo' differire:
 
@@ -765,7 +761,7 @@ b) fino al 31 dicembre 1983 la liberalizzazione del trasferimento del prodotto d
 
 2\. La Repubblica ellenica, riconoscendo che e' auspicabile procedere, dal 1 gennaio 1981, ad una forte mitigazione delle norme che disciplinano le operazioni di cui al paragrafo 1, lettera a), procurera' di adottare le misure idonee a tal fine.
 
-##### ARTICOLO 51
+###### ARTICOLO 51
 
 1\. La Repubblica ellenica puo' differire fino al 31 dicembre 1985:
 
@@ -775,7 +771,7 @@ b) la liberalizzazione degli investimenti immobiliari effettuati in uno Stato me
 
 2\. Il rimpatrio del prodotto della liquidazione degli investimenti immobiliari situati in Grecia ed acquisiti prima dell'adesione da residenti negli Stati membri attuali e' oggetto di una progressiva liberalizzazione mediante l'inclusione delle operazioni in questione nel sistema di liberalizzazione per i fondi bloccati in Grecia, quale e' definito all'articolo 52.
 
-##### ARTICOLO 52
+###### ARTICOLO 52
 
 I fondi bloccati in Grecia appartenenti a residenti negli Stati membri attuali sono liberalizzati progressivamente in base ad aliquote annuali di uguale entita', dall'adesione e fino al 31 dicembre 1985, in sei tappe, la prima delle quali ha inizio il 1 gennaio 1981.
 
@@ -783,7 +779,7 @@ I capitali in deposito su ogni singolo fondo bloccato al 1 gennaio 1981 o tali d
 
 Al 1 gennaio 1986 saranno aboliti i fondi bloccati che appartengono a residenti negli Stati membri attuali.
 
-##### ARTICOLO 53
+###### ARTICOLO 53
 
 La Repubblica ellenica puo' differire fino al 31 dicembre 1985 la liberalizzazione delle operazioni comprese nell'elenco B allegato alle direttive di cui all'articolo 49 ed effettuate da residenti in Grecia.
 
@@ -793,9 +789,9 @@ a) per il 1981 tali operazioni possono essere limitate ad un importo di 20 milio
 
 b) detto massimale e' aumentato in seguito all'inizio di ogni anno del 20% rispetto a quello fissato per il 1981.
 
-## Sezione II - TRANSAZIONI INVISIBILI
+##### Sezione II - TRANSAZIONI INVISIBILI
 
-##### ARTICOLO 54
+###### ARTICOLO 54
 
 1\. La Repubblica ellenica puo' mantenere fino al 31 dicembre 1985 e alle condizioni indicate dal paragrafo 2 restrizioni ai trasferimenti attinenti al turismo.
 
@@ -803,25 +799,25 @@ b) detto massimale e' aumentato in seguito all'inizio di ogni anno del 20% rispe
 
 A decorrere dal 1 gennaio 1982, quest'assegnazione e' aumentata ogni anno almeno del 20% rispetto all'importo annuo fissato per il 1981.
 
-## Sezione III - DISPOSIZIONI GENERALI
+##### Sezione III - DISPOSIZIONI GENERALI
 
-##### ARTICOLO 55
+###### ARTICOLO 55
 
 Se le circostanze lo permettono la Repubblica ellenica attuera' la liberalizzazione dei movimenti di capitale e delle transazioni invisibili di cui agli articoli da 50 a 54 prima della scadenza dei termini fissati in tali articoli.
 
-##### ARTICOLO 56
+###### ARTICOLO 56
 
 Per l'applicazione delle disposizioni del presente capo la Commissione puo' procedere alla consultazione del Comitato monetario e presentare ogni utile proposta al Consiglio.
 
-## TITOLO IV - AGRICOLTURA
+### TITOLO IV - AGRICOLTURA
 
-### Capo 1 - DISPOSIZIONI GENERALI
+#### Capo 1 - DISPOSIZIONI GENERALI
 
-##### ARTICOLO 57
+###### ARTICOLO 57
 
 Salvo disposizioni contrarie del presente titolo, le regole previste dal presente atto si applicano ai prodotti agricoli.
 
-##### ARTICOLO 58
+###### ARTICOLO 58
 
 1\. Le disposizioni del presente articolo si applicano ai prezzi per i quali nel capo 2 e' fatto riferimento al presente articolo.
 
@@ -829,7 +825,7 @@ Salvo disposizioni contrarie del presente titolo, le regole previste dal present
 
 Tuttavia, in assenza di dati sui prezzi relativi a taluni prodotti sul mercato greco, il prezzo da applicare in questo Stato membro e' calcolato sulla base dei prezzi dei prodotti o gruppi di prodotti simili concorrenti praticati nella Comunita' nella sua composizione attuale.
 
-##### ARTICOLO 59
+###### ARTICOLO 59
 
 1\. Qualora l'applicazione delle disposizioni del presente titolo conduca ad un livello di prezzi diverso da quello dei prezzi comuni, i prezzi per i quali nel capo 2 e fatto riferimento al presente articolo sono ravvicinati, fatte salve le disposizioni del paragrafo 4, al livello dei prezzi comuni ogni anno all'inizio della campagna di commercializzazione secondo le disposizioni dei paragrafi 2 e 3.
 
@@ -857,7 +853,7 @@ In tal caso il livello del prezzo per la campagna successiva e' quello che sareb
 
 La deroga di cui al primo comma non si applica all'ultimo ravvicinamento di cui ai paragrafi 2 o 3.
 
-##### ARTICOLO 60
+###### ARTICOLO 60
 
 Il Consiglio, deliberando secondo la procedura prevista dall'articolo 43, paragrafo 2 del trattato CEE, puo' decidere che per un dato prodotto il prezzo comune sia applicato in Grecia:
 
@@ -865,7 +861,7 @@ a) qualora si costati che la differenza tra il livello del prezzo per tale prodo
 
 b) qualora il prezzo in Grecia o il prezzo sul mercato mondiale per il prodotto in questione sia superiore al prezzo comune.
 
-##### ARTICOLO 61
+###### ARTICOLO 61
 
 Le differenze nei livelli dei prezzi per i quali nel capo 2 e' fatto riferimento al presente articolo sono compensate secondo le seguenti modalita':
 
@@ -885,15 +881,15 @@ Il Consiglio, deliberando a maggioranza qualificata su proposta della Commission
 
 6\. Il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, puo', nella misura necessaria al buon funzionamento della politica agricola comune, derogare all'articolo 42, paragrafo 1, primo comma per i prodotti ai quali si applicano gli importi compensativi.
 
-##### ARTICOLO 62
+###### ARTICOLO 62
 
 Qualora per un prodotto il prezzo del mercato mondiale superi il prezzo preso in considerazione per il calcolo degli oneri all'importazione instaurati nell'ambito della politica agricola comune, ridotto dell'importo compensativo che in applicazione dell'articolo 61 viene dedotto dagli oneri all'importazione, oppure qualora la restituzione all'esportazione verso i paesi terzi sia inferiore all'importo compensativo o nessuna restituzione sia applicabile, possono adottarsi misure appropriate per assicurare il buon funzionamento dell'organizzazione comune dei mercati.
 
-##### ARTICOLO 63
+###### ARTICOLO 63
 
 Gli importi compensativi versati sono finanziati dalla Comunita' e imputati al Fondo europeo agricolo di orientamento e garanzia, sezione garanzia.
 
-##### ARTICOLO 64
+###### ARTICOLO 64
 
 Per i prodotti la cui importazione dai paesi terzi nella Comunita' nella sua composizione attuale a sottoposta all'applicazione di dazi doganali, s'applicano le seguenti disposizioni.
 
@@ -941,7 +937,7 @@ Per gli altri prodotti non occorre l' autorizzazione perche' la Repubblica ellen
 
 I dazi doganali risultanti da un ravvicinamento accelerato non possono essere inferiori a quelli applicati alle importazioni dei medesimi prodotti dagli altri Stati membri.
 
-##### ARTICOLO 65
+###### ARTICOLO 65
 
 1\. Per i prodotti che al momento dell'adesione sono soggetti all'organizzazione comune dei mercati il regime applicabile nella Comunita' nella sua composizione attuale in materia di dazi doganali e tasse di effetto equivalente e di restrizioni quantitative e misure di effetto equivalente si applica in Grecia a decorrere dal 1° gennaio 1981, fatte salve le disposizioni degli articoli 61, 64 e 115.
 
@@ -953,7 +949,7 @@ Questa disposizione e' applicabile soltanto fino all'applicazione di un'organizz
 
 A condizione che non ne risultino difficolta' per l'applicazione della regolamentazione comunitaria, in particolare per il funzionamento dell'organizzazione comune dei mercati e dei meccanismi transitori previsti dal presente titolo, il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, puo' autorizzare la Repubblica ellenica a riprendere, all'interno di questa nomenclatura, le suddivisioni nazionali esistenti che fossero indispensabili perche' il ravvicinamento progressivo alla tariffa doganale comune o l'eliminazione dei dazi all'interno della Comunita' si effettuino alle condizioni previste nel presente atto.
 
-##### ARTICOLO 66
+###### ARTICOLO 66
 
 1\. L'elemento destinato ad assicurare la protezione dell'industria di trasformazione che entra nel calcolo degli oneri sulle importazioni dai paesi terzi per i prodotti soggetti all'organizzazione comune dei mercati nei settori dei cereali e del riso viene riscosso sulle importazioni dalla Grecia nella Comunita' nella sua composizione attuale.
 
@@ -965,11 +961,11 @@ Tale elemento o tali elementi vengono riscossi sull'importazione dagli altri Sta
 
 Tuttavia le riduzioni o i ravvicinamenti in questione si effettuano in cinque tappe del 20%, all'inizio di ciascuna delle cinque campagne di commercializzazione del relativo prodotto di base che seguono l'adesione.
 
-##### ARTICOLO 67
+###### ARTICOLO 67
 
 Nella fissazione del livello dei vari importi previsti nell'ambito della politica agricola comune, diversi dai prezzi di cui all'articolo 58, per la Grecia si tiene conto, nella misura richiesta dal buon funzionamento della politica agricola comune, dell'importo compensativo applicato o, in sua assenza, della differenza dei prezzi costatata e, se del caso, dell'incidenza dei dazi doganali.
 
-##### ARTICOLO 68
+###### ARTICOLO 68
 
 1\. Le disposizioni del presente articolo si applicano agli aiuti, premi ed altri importi analoghi istituiti nell'ambito della politica agricola comune per i quali nel capo 2 e' fatto riferimento al presente articolo.
 
@@ -989,7 +985,7 @@ b) In seguito l'aiuto viene introdotto in Grecia oppure il livello dell'aiuto co
 
 \- il livello dell'aiuto comunitario e' integralmente applicato in Grecia all'inizio della quinta campagna di commercializzazione o del quinto periodo d'applicazione dell'aiuto che seguono l'adesione.
 
-##### ARTICOLO 69
+###### ARTICOLO 69
 
 1\. Fatte salve le disposizioni dell'articolo 68, la Repubblica ellenica e' autorizzata a mantenere fino al 31 dicembre 1985 aiuti nazionali, a titolo transitorio ed in maniera degressiva. Puo' tuttavia essere derogato al principio della degressivita' per gli aiuti nazionali greci considerati con riguardo al campo d'applicazione delle direttive socio-strutturali di cui all'allegato IV.
 
@@ -997,7 +993,7 @@ b) In seguito l'aiuto viene introdotto in Grecia oppure il livello dell'aiuto co
 
 Queste misure comprendono, in particolare, l'elenco e la designazione esatta degli aiuti di cui al paragrafo 1, i loro importi, il ritmo della loro abolizione, nonche' le modalita' necessarie al buon funzionamento della politica agricola comune; esse devono inoltre garantire ai mezzi di produzione, siano essi di origine greca od originari degli Stati membri attuali, l'uguaglianza nell'accesso al mercato greco.
 
-##### ARTICOLO 70
+###### ARTICOLO 70
 
 1\. Fino all'entrata in vigore delle disposizioni complementari da adottare da parte della Comunita' e
 
@@ -1017,35 +1013,33 @@ b) le olive destinate a usi diversi dalla produzione di olio, delle sottovoci nn
 
 3\. Il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, determina dal momento dell'adesione le misure di cui al paragrafo 1 che la Repubblica ellenica e autorizzata a mantenere.
 
-##### ARTICOLO 71
+###### ARTICOLO 71
 
 Qualsiasi scorta di prodotti che si trovano in libera pratica sul territorio greco al 1 gennaio 1981 e che superino in quantita' quella che puo' essere considerata una scorta normale di riporto deve essere eliminata dalla Repubblica ellenica ed a carico di questa, nel quadro di procedure comunitarie da definire ed in termini da determinare.
 
-##### ARTICOLO 72
+###### ARTICOLO 72
 
 1\. Il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, adotta le disposizioni necessarie per l'applicazione delle disposizioni del presente titolo.
 
 2\. Il Consiglio, deliberando all'unanimita' su proposta della Commissione e previa consultazione dell'Assemblea puo' procedere agli adattamenti delle modalita' di cui al presente titolo che possono risultare necessari in caso di una modifica della regolamentazione comunitaria.
 
-##### ARTICOLO 73
+###### ARTICOLO 73
 
 1\. Qualora siano necessarie misure transitorie per facilitare il passaggio dal regime esistente in Grecia a quello derivante dall'attuazione dell'organizzazione comune dei mercati alle condizioni previste nel presente titolo, in particolare nel caso in cui l'applicazione del nuovo regime alla data prevista incontri per alcuni prodotti notevoli difficolta', tali misure sono adottate secondo la procedura prevista dall'articolo 38 del regolamento n° 136/66/CEE o, secondo i casi, dagli articoli corrispondenti degli altri regolamenti relativi all'organizzazione comune dei mercati agricoli. Tali misure possono essere adottate fino al 31 dicembre 1982; la loro applicazione non puo' andare oltre questa data.
 
 2\. Il Consiglio, deliberando all'unanimita' su proposta della Commissione e previa consultazione dell'Assemblea puo' prorogare il periodo di cui al paragrafo 1.
 
-## Capo 2 - DISPOSIZIONI RELATIVE A TALUNE ORGANIZZAZIONI
+#### Capo 2 - DISPOSIZIONI RELATIVE A TALUNE ORGANIZZAZIONI COMUNI DEI MERCATI
 
-### COMUNI DEI MERCATI - Sezione 1
+##### Sezione 1 - ORTOFRUTTICOLI
 
-#### ORTOFRUTTICOLI
-
-##### ARTICOLO 74
+###### ARTICOLO 74
 
 Nel settore degli ortofrutticoli le disposizioni dell'articolo 59 si applicano ai prezzi di base.
 
 Il prezzo di base e' fissato in Grecia, al momento dell'adesione, tenendo conto dello scarto fra la media dei prezzi alla produzione in Grecia e nella Comunita' nella sua composizione attuale costatato durante un periodo rappresentativo da determinare.
 
-##### ARTICOLO 75
+###### ARTICOLO 75
 
 1\. Per gli ortofrutticoli provenienti dalla Grecia per i quali e' fissato un prezzo istituzionale e' istaurato, all'importazione nella Comunita' nella sua composizione attuale, un meccanismo di compensazione.
 
@@ -1067,13 +1061,13 @@ b) fino al 31 dicembre 1985 per i prodotti indicati nell'articolo 59, paragrafo 
 
 4 Se il mercato greco e perturbato a causa delle importazioni provenienti dagli Stati membri attuali possono venir decise adeguate misure, che prevedono eventualmente un meccanismo di compensazione simile a quello previsto dai paragrafi precedenti, per quanto concerne le importazioni in Grecia di ortofrutticoli provenienti dalla Comunita' nella sua composizione attuale per i quali e' fissato un prezzo istituzionale.
 
-##### ARTICOLO 76
+###### ARTICOLO 76
 
 Le disposizioni dell'articolo 68 si applicano alla compensazione finanziaria prevista nell'articolo 6 del regolamento (CEE) n° 2511/69 che prevede misure speciali per il miglioramento della produzione e della commercializzazione nel settore degli agrumi comunitari.
 
 Tale compensazione finanziaria e' considerata come un aiuto che non e' concesso in Grecia sotto il regime nazionale precedente.
 
-##### ARTICOLO 77
+###### ARTICOLO 77
 
 Il prezzo minimo e la compensazione finanziaria applicabili in Grecia, previsti agli articoli 2 e 3 del regolamento (CEE) n° 2601/69 che prevede misure speciali per favorire il ricorso alla trasformazione per talune varieta' di arance ed agli articoli 1 e 2 del regolamento (CEE) n° 1035/77 che prevede misure particolari intese a favorire la commercializzazione dei prodotti trasformati a base di limoni sono fissati come segue:
 
@@ -1083,13 +1077,13 @@ Il prezzo minimo e la compensazione finanziaria applicabili in Grecia, previsti 
 
 3\. Tuttavia, se il prezzo minimo risultante dall'applicazione dei paragrafi 1 o 2 e' superiore al prezzo minimo comune quest'ultimo prezzo puo' essere definitivamente applicato in Grecia.
 
-##### ARTICOLO 78
+###### ARTICOLO 78
 
 Fino al 31 dicembre 1987 la Repubblica ellenica e' autorizzata a prevedere per tutti i produttori di ortofrutticoli l'obbligo di commercializzare, per il tramite dei mercati locali, tutta la loro produzione ortofrutticola soggetta a norme comuni di qualita'.
 
-## Sezione 2 - MATERIE GRASSE
+##### Sezione 2 - MATERIE GRASSE
 
-##### ARTICOLO 79
+###### ARTICOLO 79
 
 1\. Per l'olio d'oliva le disposizioni degli articoli 58, 59 e 61 si applicano al prezzo d'intervento.
 
@@ -1097,11 +1091,11 @@ L'importo compensativo risultante dall'applicazione delle disposizioni dell'arti
 
 2\. Per i semi oleosi i prezzi indicativi o di obiettivo sono fissati in funzione dello scarto esistente fra i prezzi dei prodotti concorrenti nelle colture di avvicendamento in Grecia e nella Comunita' nella sua composizione attuale, durante un periodo di riferimento da determinare. Se i prezzi di questi prodotti concorrenti sono vicini il prezzo comune e' applicabile in Grecia dal momento dell'adozione. In caso contrario le disposizioni dell'articolo 59 si applicano ai prezzi indicativo o di obiettivo fissati per tali prodotti. I prezzi indicativo o di obiettivo da applicare in Grecia non possono tuttavia essere superiori ai prezzi indicativo e di obiettivo comuni.
 
-##### ARTICOLO 80
+###### ARTICOLO 80
 
 In deroga all'articolo 67 il livello dei vari importi previsti nel settore dei semi oleosi e diversi dai prezzi di cui all'articolo 79, paragrafo 2 viene fissato tenendo conto per la Grecia, nella misura necessaria al buon funzionamento dell'organizzazione comune dei mercati per tali prodotti, dello scarto che deriva dall'applicazione dell'articolo 79, paragrafo 2.
 
-##### ARTICOLO 81
+###### ARTICOLO 81
 
 1\. Le disposizioni dell'articolo 68 si applicano agli aiuti per l'olio d'oliva. Il primo ravvicinamento relativo all'aiuto alla produzione di questo prodotto interviene tuttavia al 1° gennaio 1981.
 
@@ -1115,33 +1109,33 @@ Fatta salva l'applicazione del primo comma, l'importo dell'aiuto per i semi di c
 
 3\. L'importo dell'aiuto per i semi di soia e di lino, raccolti in Grecia viene corretto dell'eventuale differenza fra i prezzi di obiettivo applicabili in Grecia e nella Comunita' nella sua composizione attuale e diminuito dell'incidenza dei dazi doganali applicati dalla Repubblica ellenica all'importazione di questi prodotti provenienti dai paesi terzi.
 
-##### ARTICOLO 82
+###### ARTICOLO 82
 
 La Repubblica ellenica puo' applicare fino al 31 dicembre 1983, secondo modalita' da definire, il regime di controllo all'importazione dei semi oleosi e degli oli e grassi vegetali che essa applicava al 1 gennaio 1979.
 
-## Sezione 3 - LATTE E PRODOTTI LATTIERO-CASEARI
+##### Sezione 3 - LATTE E PRODOTTI LATTIERO-CASEARI
 
-##### ARTICOLO 83
+###### ARTICOLO 83
 
 Le disposizioni degli articoli 58, 59 e 61 si applicano ai prezzi d'intervento del burro e del latte scremato in polvere.
 
-##### ARTICOLO 84
+###### ARTICOLO 84
 
 L'importo compensativo per i prodotti lattiero-caseari diversi dal burro e dal latte scremato in polvere e' fissato mediante coefficienti da determinare.
 
-## Sezione 4 - CARNI BOVINE
+##### Sezione 4 - CARNI BOVINE
 
-##### ARTICOLO 85
+###### ARTICOLO 85
 
 Le disposizioni degli articoli 58, 59 e 61 si applicano ai prezzi per i bovini adulti in Grecia e nella Comunita' nella sua composizione attuale.
 
-##### ARTICOLO 86
+###### ARTICOLO 86
 
 L'importo compensativo per i prodotti elencati nell'allegato del regolamento (CEE) n° 805/68 e' fissato mediante coefficienti da determinare.
 
-## Sezione 5 - TABACCO
+##### Sezione 5 - TABACCO
 
-##### ARTICOLO 87
+###### ARTICOLO 87
 
 1\. Le disposizioni dell'articolo 58 si applicano al prezzo d'intervento fissato per ogni varieta' o gruppo di varieta'.
 
@@ -1153,55 +1147,55 @@ a) fissato conformemente ai criteri previsti all'articolo 2, paragrafo 2, primo 
 
 b) aumentato, in quattro tappe annuali, dell'incidenza della diminuzione degli aiuti nazionali che la Repubblica ellenica e' autorizzata a mantenere in maniera degressiva per il tabacco in applicazione dell'articolo 69; il primo aumento interviene per il secondo raccolto che segue l'adesione.
 
-##### ARTICOLO 88
+###### ARTICOLO 88
 
 In deroga alle disposizioni dell'articolo 71 qualsiasi scorta di tabacco esistente in Grecia e proveniente da raccolti anteriori all'adesione deve essere eliminata integralmente dalla Repubblica ellenica ed a carico di questa, nel quadro di procedure comunitarie da definire ed in termini da determinare.
 
-## Sezione 6 - LINO E CANAPA
+##### Sezione 6 - LINO E CANAPA
 
-##### ARTICOLO 89
+###### ARTICOLO 89
 
 Le disposizioni dell'articolo 68 si applicano all'aiuto per il lino tessile e la canapa.
 
-## Sezione 7 - LUPPOLO
+##### Sezione 7 - LUPPOLO
 
-##### ARTICOLO 90
+###### ARTICOLO 90
 
 Le disposizioni dell'articolo 68 si applicano all'aiuto per il luppolo.
 
-## Sezione 8 - SEMENTI
+##### Sezione 8 - SEMENTI
 
-##### ARTICOLO 91
+###### ARTICOLO 91
 
 Le disposizioni dell'articolo 68 si applicano all'aiuto per le sementi.
 
-## Sezione 9 - BACHI DA SETA
+##### Sezione 9 - BACHI DA SETA
 
-##### ARTICOLO 92
+###### ARTICOLO 92
 
 Le disposizioni dell'articolo 68 si applicano all'aiuto per i bachi da seta.
 
-## Sezione 10 - ZUCCHERO
+##### Sezione 10 - ZUCCHERO
 
-##### ARTICOLO 93
+###### ARTICOLO 93
 
 Le disposizioni degli articoli 58, 59 e 61 si applicano al prezzo d'intervento dello zucchero bianco ed al prezzo minimo della barbabietola.
 
-##### ARTICOLO 94
+###### ARTICOLO 94
 
 Per i prodotti, diversi dalle barbabietole fresche, di cui all'articolo 1, paragrafo 1, lettera b) e per i prodotti di cui all'articolo 1, paragrafo 1, lettera d) del regolamento (CEE) n° 3330/74 relativo all'organizzazione comune dei mercati nel settore dello zucchero gli importi compensativi sono derivati dall'importo compensativo applicabile al prodotto di base in questione, mediante coefficienti da determinare.
 
-##### ARTICOLO 95
+###### ARTICOLO 95
 
 L'importo di cui all'articolo 26, paragrafo 3 del regolamento (CEE) n° 3330/74 applicabile in Grecia e' corretto dell'importo compensativo.
 
-## Sezione 11 - CEREALI
+##### Sezione 11 - CEREALI
 
-##### ARTICOLO 96
+###### ARTICOLO 96
 
 Nel settore dei cereali le disposizioni degli articoli 58, 59 e 61 si applicano al prezzo d'intervento e, per il frumento tenero, al prezzo di riferimento.
 
-##### ARTICOLO 97
+###### ARTICOLO 97
 
 Gli importi compensativi sono fissati come segue:
 
@@ -1219,13 +1213,13 @@ Tuttavia, nel caso di cui al primo comma, primo trattino il rapporto costatato d
 
 3\. Fatta salva l'applicazione del paragrafo 2, nel caso di prodotti trasformati a base di frumento tenero e di frumento duro l'importo compensativo viene fissato ad un livello che tenga conto anche dell'eventuale aiuto nazionale che la Repubblica ellenica dovesse mantenere in forza dell'articolo 69 per il frumento destinato all'industria molitoria.
 
-##### ARTICOLO 98
+###### ARTICOLO 98
 
 Le disposizioni dell'articolo 68 si applicano all'aiuto per il frumento duro di cui all'articolo 10 del regolamento (CEE) n° 2727/75.
 
-## Sezione 12 - CARNI SUINE
+##### Sezione 12 - CARNI SUINE
 
-##### ARTICOLO 99
+###### ARTICOLO 99
 
 1\. Nel settore delle carni suine le disposizioni degli articoli 58, 59 e 61 si applicano al prezzo di questo prodotto in Grecia e nella Comunita' nella sua composizione attuale.
 
@@ -1235,9 +1229,9 @@ Fatta salva l'applicazione del primo comma, l'importo compensativo puo' essere f
 
 3\. Per i prodotti diversi dal suino macellato, di cui all'articolo 1, paragrafo 1 del regolamento (CEE) n° 2759/75 relativo all'organizzazione comune dei mercati nel settore delle carni suine, l'importo compensativo viene derivato da quello applicato conformemente ai paragrafi 1 o 2, mediante coefficienti da determinare.
 
-## Sezione 13 - UOVA
+##### Sezione 13 - UOVA
 
-##### ARTICOLO 100
+###### ARTICOLO 100
 
 1\. Nel settore delle uova le disposizioni degli articoli 58, 59 e 61 si applicano ai prezzi di questi prodotti in Grecia e nella Comunita' nella sua composizione attuale.
 
@@ -1251,9 +1245,9 @@ Fatta salva l'applicazione del primo comma, l'importo compensativo puo' essere f
 
 3\. Per i prodotti di cui all'articolo 1, paragrafo 1, lettera b) del regolamento (CEE) n° 2771/75 relativo all'organizzazione comune dei mercati nel settore delle uova, l'importo compensativo viene derivato da quello applicato conformemente ai paragrafi 1 o 2, mediante coefficienti da determinare.
 
-## Sezione 14 - POLLAME
+##### Sezione 14 - POLLAME
 
-##### ARTICOLO 101
+###### ARTICOLO 101
 
 1\. Nel settore del pollame le disposizioni degli articoli 58, 59 e 61 si applicano ai prezzi di questi prodotti in Grecia e nella Comunita' nella sua composizione attuale.
 
@@ -1267,9 +1261,9 @@ Fatta salva l'applicazione del primo comma, l'importo compensativo puo' essere f
 
 3\. Per i prodotti di cui all'articolo 1, paragrafo 2, lettera d) del regolamento (CEE), n° 2777/75 relativo all'organizzazione comune dei mercati nel settore del pollame l'importo compensativo viene derivato da quello applicato conformemente ai paragrafi 1 o 2, mediante coefficienti da determinare.
 
-## Sezione 15 - RISO
+##### Sezione 15 - RISO
 
-##### ARTICOLO 102
+###### ARTICOLO 102
 
 1\. Nel settore del riso le disposizioni degli articoli 58, 59 e 61 sono applicabili al prezzo d'intervento del risone.
 
@@ -1283,9 +1277,9 @@ Fatta salva l'applicazione del primo comma, l'importo compensativo puo' essere f
 
 6\. L'importo compensativo per il riso spezzato (rotture) viene fissato ad un livello che tenga conto della differenza fra il prezzo di approvvigionamento in Grecia ed il prezzo di entrata.
 
-## Sezione 16 - ORTOFRUTTICOLI TRASFORMATI
+##### Sezione 16 - ORTOFRUTTICOLI TRASFORMATI
 
-##### ARTICOLO 103
+###### ARTICOLO 103
 
 Per i prodotti che beneficiano del regime d'aiuti previsto dall'articolo 3 bis del regolamento (CEE) n° 516/77 relativo all'organizzazione comune dei mercati nel settore dei prodotti trasformati a base di ortofrutticoli le disposizioni seguenti si applicano in Grecia.
 
@@ -1299,9 +1293,9 @@ Per i prodotti che beneficiano del regime d'aiuti previsto dall'articolo 3 bis d
 
 5\. Tuttavia, se il prezzo minimo risultante dall'applicazione dei paragrafi 1 o 2 e' superiore al prezzo minimo comune quest'ultimo prezzo puo' essere definitivamente applicato in Grecia.
 
-## Sezione 17 - FORAGGI ESSICCATI
+##### Sezione 17 - FORAGGI ESSICCATI
 
-##### ARTICOLO 104
+###### ARTICOLO 104
 
 1\. Il prezzo di obiettivo, di cui all'articolo 4 del regolamento (CEE) n. 1117/78 relativo all'organizzazione comune dei mercati nel settore dei foraggi essiccati, applicabile in Grecia dal 1 gennaio 1981 e' fissato ad un livello equivalente al prezzo del mercato mondiale maggiorato dell'eventuale aiuto concesao in Grecia sotto il precedente regime nazionale, durante un periodo da determinare, con esclusione degli aiuti mantenuti in forza dell'articolo 69, e dei dazi doganali applicati dalla Grecia nei confronti dei paesi terzi al 1 luglio 1980. Tuttavia, il prezzo di obiettivo cosi' determinato non puo' essere superiore al prezzo di obiettivo comune.
 
@@ -1311,9 +1305,9 @@ Per i prodotti che beneficiano del regime d'aiuti previsto dall'articolo 3 bis d
 
 4\. Le disposizioni dell'articolo 68 si applicano all'aiuto forfettario di cui all'articolo 3 del regolamento (CEE) n° 1117/78.
 
-## Sezione 18 - PISELLI, FAVE, FAVETTE
+##### Sezione 18 - PISELLI, FAVE, FAVETTE
 
-##### ARTICOLO 105
+###### ARTICOLO 105
 
 1\. Per i piselli, le fave e le favette il prezzo limite applicabile in Grecia al 1 gennaio 1981 e' fissato in funzione dello scarto esistente fra i prezzi dei prodotti concorrenti nelle colture di avvicendamento in Grecia e nella Comunita' nella sua composizione attuale, durante un periodo di riferimento da determinare.
 
@@ -1325,13 +1319,13 @@ Fatta salva l'applicazione del comma precedente, l'importo dell'aiuto in causa p
 
 Agli importi risultanti dall'applicazione del primo e secondo comma si applica la percentuale di cui all'articolo 2, paragrafo 1 del regolamento (CEE) n° 1119/78.
 
-##### ARTICOLO 106
+###### ARTICOLO 106
 
 In deroga all'articolo 67, nella fissazione del livello dei vari importi previsti nel settore dei piselli, delle fave e delle favette diversi dai prezzi di cui all'articolo 105, paragrafo 1 per la Grecia si tiene conto, nella misura richiesta dal buon funzionamento dell'organizzazione comune dei mercati per tali prodotti, dello scarto di prezzo risultante dall'applicazione dell'articolo 105, paragrafo 1.
 
-## Sezione 19 - VINO
+##### Sezione 19 - VINO
 
-##### ARTICOLO 107
+###### ARTICOLO 107
 
 1\. Le disposizioni degli articoli 58 e 59 si applicano ai prezzi d'orientamento per i vini da tavola. Le disposizioni dell'articolo 61 si applicano agli stessi prodotti con riserva del paragrafo 3.
 
@@ -1341,23 +1335,23 @@ Per i vini liquorosi l'importo compensativo applicabile al 1 gennaio 1981 e' tut
 
 3\. Nessun importo compensativo si applica in Grecia all'importazione dei prodotti soggetti a prezzo di riferimento provenienti dai paesi terzi.
 
-##### ARTICOLO 108
+###### ARTICOLO 108
 
 In deroga all'articolo 67 il prezzo limite, di cui all'articolo 3 del regolamento (CEE) n° 337/79 relativo all'organizzazione comune del mercato vitivinicolo, applicabile in Grecia non e' corretto dell'importo compensativo. Questo importo e' tuttavia aggiunto al prezzo medio fissato per ogni mercato rappresentativo greco.
 
-##### ARTICOLO 109
+###### ARTICOLO 109
 
 Fintanto che la Repubblica ellenica applica le disposizioni dell'articolo 70 per le uve secche, il volume di alcole di uve secche che puo' essere aggiunto a taluni vini in Grecia in forza del regolamento (CEE) n° 351/79 concernente l'aggiunta di alcole ai prodotti del settore vitivinicolo e' limitato ad un volume annuo che non sia superiore alla media annua del volume di quest'alcole utilizzato a tale scopo in Grecia durante gli anni 1978, 1979 e 1980.
 
-## Capo 3 - DISPOSIZIONI RELATIVE ALLA PESCA
+#### Capo 3 - DISPOSIZIONI RELATIVE ALLA PESCA
 
-##### ARTICOLO 110
+###### ARTICOLO 110
 
 1\. In deroga all'articolo 2, paragrafo 1 del regolamento (CEE) n° 101/76 relativo all'attuazione di una politica comune delle strutture nel settore della pesca ed all'articolo 100 dell'atto di adesione del 1972 la Repubblica italiana e la Repubblica ellenica sono autorizzate a limitare fino al 31 dicembre 1985, l'una nei confronti dell'altra, l'esercizio della pesca nelle acque soggette alla loro sovranita' o giurisdizione, situate all'interno delle zone indicate all'articolo 111, alle navi la cui attivita' di pesca e' tradizionalmente esercitata in tali acque partendo dai porti della zona geografica rivierasca.
 
 2\. Le disposizioni del paragrafo 1 e dell'articolo 111 non pregiudicano i diritti di pesca particolari che la Repubblica ellenica e la Repubblica italiana possono vantare, l'una nei confronti dell'altra, al 1 gennaio 1981.
 
-##### ARTICOLO 111
+###### ARTICOLO 111
 
 Le zone di cui all'articolo 110, paragrafo 1 sono delimitate come segue
 
@@ -1377,11 +1371,11 @@ c) Mare e Canale di Sicilia, comprese le isole
 
 d) Acque della Sardegna.
 
-## Capo 4 - ALTRE DISPOSIZIONI
+#### Capo 4 - ALTRE DISPOSIZIONI
 
-### Sezione 1 - MISURE VETERINARIE
+##### Sezione 1 - MISURE VETERINARIE
 
-##### ARTICOLO 112
+###### ARTICOLO 112
 
 1\. La Repubblica ellenica non spedisce, dalle sue regioni determinate secondo la procedura del Comitato veterinario permanente in base alle garanzie offerte, verso il territorio degli altri Stati membri nessun animale della specie bovina o suina ne' carni fresche delle specie bovina, suina, caprina ed ovina fintanto che in tali regioni sia trascorso un periodo di dodici mesi dal manifestarsi dell'ultimo focolaio di afta epizootica da virus esotico o dall'ultima vaccinazione contro questa malattia.
 
@@ -1389,11 +1383,9 @@ d) Acque della Sardegna.
 
 Al piu' tardi al 1 luglio 1984 la Commissione sottopone al Consiglio una relazione con proposte allo scopo di adottare le disposizioni comunitarie appropriate in questo settore.
 
-## Sezione 2 - MISURE RELATIVE ALLA LEGISLAZIONE CONCERNENTE
+##### Sezione 2 - MISURE RELATIVE ALLA LEGISLAZIONE CONCERNENTE LE SEMENTI ED I MATERIALI DA MOLTIPLICAZIONE
 
-### LE SEMENTI ED I MATERIALI DA MOLTIPLICAZIONE
-
-##### ARTICOLO 113
+###### ARTICOLO 113
 
 1\. Fino al 31 dicembre 1985 la Repubblica ellenica puo' applicare le proprie norme per l'ammissione delle varieta' delle specie agricole od orticole o del materiale di base delle specie forestali, nonche' le sue norme per la certificazione ed il controllo della propria produzione di sementi e di piante agricole, orticole e forestali.
 
@@ -1405,17 +1397,17 @@ b) puo' limitare totalmente o parzialmente, prima dello scadere del termine di c
 
 3\. Prima del 31 dicembre 1985 si puo' decidere, secondo la procedura del Comitato permanente delle sementi e dei materiali da moltiplicazione agricoli, orticoli e forestali, di liberalizzare progressivamente gli scambi delle sementi e dei materiali da moltiplicazione di talune specie tra la Grecia e la Comunita' nella sua composizione attuale, non appena si costati che le condizioni per una tale liberalizzazione sono soddisfatte.
 
-## Sezione 3 - DISPOSIZIONI VARIE
+##### Sezione 3 - DISPOSIZIONI VARIE
 
-##### ARTICOLO 114
+###### ARTICOLO 114
 
 Gli atti indicati nell'elenco riportato dall'Allegato IV del presente atto si applicano alla Grecia alle condizioni previste in tale allegato.
 
-## TITOLO V - RELAZIONI ESTERNE
+### TITOLO V - RELAZIONI ESTERNE
 
-### Capo 1 - POLITICA COMMERCIALE COMUNE
+#### Capo 1 - POLITICA COMMERCIALE COMUNE
 
-##### ARTICOLO 115
+###### ARTICOLO 115
 
 1\. Fino al 31 dicembre 1985 la Repubblica ellenica puo' mantenere restrizioni quantitative sotto forma di contingenti globali per i prodotti ed i quantitativi elencati nell'allegato V, in deroga temporanea agli elenchi comuni di liberalizzazione di cui ai regolamenti (CEE) n° 109/70, n° 1439/74 e n° 2532/78. Detti prodotti saranno completamente liberalizzati al 1 gennaio 1986 ed i contingenti verranno progressivamente rialzati fino a tale data. Le modalita' per l'aumento dei contingenti saranno identiche a quelle stabilite nell'articolo 36.
 
@@ -1427,11 +1419,11 @@ Se per uno di questi prodotti le importazioni effettuate per due anni consecutiv
 
 Ogni eventuale modifica di questi contingenti puo' aver luogo soltanto in conformita' delle procedure comunitarie.
 
-##### ARTICOLO 116
+###### ARTICOLO 116
 
 La Repubblica ellenica abolisce nei confronti dei paesi terzi il suo sistema, vigente al momento dell'adesione, di depositi cauzionali all'importazione e di pagamenti in contanti, secondo lo stesso calendario ed alle stesse condizioni di quanto stabilito nell'articolo 38 per gli Stati membri attuali.
 
-##### ARTICOLO 117
+###### ARTICOLO 117
 
 1\. Al 1 gennaio 1981 la Repubblica ellenica applica il sistema comunitario delle preferenze generalizzate per i prodotti diversi da quelli elencati nell'allegato II del trattato CEE; tuttavia quanto ai prodotti elencati nell'allegato VII, la Repubblica ellenica si allinea gradualmente, fino al 31 dicembre 1985, ai tassi del sistema delle preferenze generalizzate. Il calendario ed il ritmo di allineamento di questi prodotti sono identici a quelli fissati nell'articolo 31.
 
@@ -1439,9 +1431,9 @@ La Repubblica ellenica abolisce nei confronti dei paesi terzi il suo sistema, vi
 
 In nessun caso le importazioni in Grecia provenienti da paesi terzi possono fruire di dazi doganali piu' favorevoli di quelli applicati ai prodotti provenienti dalla Comunita' nella sua composizione attuale.
 
-## Capo 2 - ACCORDI DELLE COMUNITA' CON TALUNI PAESI TERZI
+#### Capo 2 - ACCORDI DELLE COMUNITA' CON TALUNI PAESI TERZI
 
-##### ARTICOLO 118
+###### ARTICOLO 118
 
 1\. Dal 1 gennaio 1981 la Repubblica ellenica applica le disposizioni degli accordi di cui all'articolo 120.
 
@@ -1455,49 +1447,47 @@ In particolare, tutti i prodotti che sono oggetto di misure transitorie riguarda
 
 4\. Le misure transitorie applicabili ai paesi elencati nell'articolo 120 non comportano l'applicazione, da parte della Repubblica ellenica nei confronti di detti paesi, di un trattamento meno favorevole di quello applicato agli altri paesi terzi. In particolare, misure transitorie riguardanti restrizioni quantitative non possono essere previste nei confronti dei paesi elencati nell'articolo 120 per i prodotti esenti da tali restrizioni all'importazione in Grecia in provenienza da altri paesi terzi.
 
-##### ARTICOLO 119
+###### ARTICOLO 119
 
 Qualora, per motivi indipendenti dalla volonta' della Comunita' o della Repubblica ellenica, i protocolli di cui all'articolo 118, paragrafo 1 non fossero conclusi al 1 gennaio 1981, la Comunita' prende le misure necessarie per porre rimedio, dal momento dell'adesione, a tale situazione.
 
 In ogni caso il trattamento della nazione piu' favorita viene applicato dal 1 gennaio 1981 da parte della Repubblica ellenica ai paesi di cui all'articolo 120.
 
-##### ARTICOLO 120
+###### ARTICOLO 120
 
 Le disposizioni degli articoli 118 e 119 si applicano agli accordi conclusi con l'Algeria, l'Austria, Cipro, l'Egitto, la Finlandia, la Giordania, l'Islanda, Israele, il Libano, Malta, il Marocco, la Norvegia, il Portogallo, la Siria, la Spagna, la Svezia, la Svizzera, la Tunisia e la Turchia.
 
 Le disposizioni degli articoli 118 e 119 si applicano anche agli accordi che la Comunita' avra' concluso con altri paesi terzi della regione mediterranea prima dell'entrata in vigore del presente atto.
 
-## CAPO 3 - RELAZIONI CON GLI STATI DELL'AFRICA,
+#### CAPO 3 - RELAZIONI CON GLI STATI DELL'AFRICA, DEI CARAIBI E DEL PACIFICO
 
-### DEI CARAIBI E DEL PACIFICO
-
-##### ARTICOLO 121
+###### ARTICOLO 121
 
 I regimi che risultano dalla Convenzione ACP-CEE di Lome' e dall'accordo relativo ai prodotti di competenza della Comunita' Europea del Carbone e dell'Acciaio, firmati il 28 febbraio 1975, non sono applicabili nelle relazioni tra la Repubblica ellenica e gli Stati dell'Africa, dei Caraibi e del Pacifico, ad eccezione del protocollo n° 3 relativo allo zucchero.
 
-##### ARTICOLO 122
+###### ARTICOLO 122
 
 Le disposizioni degli articoli 118 e 119 si applicano a qualsiasi nuovo accordo che la Comunita' avra' concluso con i paesi dell'Africa, dei Caraibi e del Pacifico prima dell'entrata in vigore del presente atto.
 
-## Capo 4 - PRODOTTI TESSILI
+#### Capo 4 - PRODOTTI TESSILI
 
-##### ARTICOLO 123
+###### ARTICOLO 123
 
 1\. Dal 1 gennaio 1981 la Repubblica ellenica applica l'accordo del 20 dicembre 1973 sul commercio internazionale dei tessili, nonche' gli accordi bilaterali conclusi dalla Comunita' nel quadro di tale accordo. I protocolli di adattamento di detti accordi sono negoziati dalla Comunita' con i paesi terzi che sono parte degli accordi stessi al fine di prevedere una limitazione volontaria delle esportazioni verso la Grecia in caso di prodotti e di origini per i quali vi siano limitazioni alle esportazioni nella Comunita'.
 
 2\. Qualora detti protocolli non fossero conclusi al 1 gennaio 1981, la Comunita' prende le misure destinate a porre rimedio a tale situazione e relative agli accorgimenti transitori necessari per assicurare l'applicazione degli accordi da parte della Comunita'.
 
-## TITOLO VI - DISPOSIZIONI FINANZIARIE
+### TITOLO VI - DISPOSIZIONI FINANZIARIE
 
-##### ARTICOLO 124
+###### ARTICOLO 124
 
 La decisione del 21 aprile 1970 relativa alla sostituzione dei contributi finanziari degli Stati membri con risorse proprie delle Comunita', qui in appresso denominata "decisione del 21 aprile 1970", si applica secondo le disposizioni degli articoli da 125, 126 e 127.
 
-##### ARTICOLO 125
+###### ARTICOLO 125
 
 Le entrate denominate "prelievi agricoli", di cui all'articolo 2, lettera a), della decisione del 21 aprile 1970, comprendono anche gli introiti provenienti da qualsiasi importo compensativo riscosso all'importazione a norma degli articoli 43, 61 e 75 nonche' dagli elementi fissi applicati negli scambi tra la Comunita' nella sua composizione attuale e la Grecia e negli scambi tra la Grecia ed i paesi terzi a norma dell'articolo 66.
 
-##### ARTICOLO 126
+###### ARTICOLO 126
 
 Le entrate denominate "dazi doganali", di cui all'articolo 2, lettera b), della decisione del 2 aprile 1970, comprendono, fino al 31 dicembre 1985, i dazi doganali calcolati come se dal momento dell'adesione la Repubblica ellenica applicasse negli scambi con i paesi terzi i tassi risultanti dalla tariffa doganale comune ed i tassi ridotti risultanti da qualsiasi preferenza tariffaria applicata dalla Comunita'.
 
@@ -1505,7 +1495,7 @@ La Repubblica ellenica provvede ogni mese al calcolo di tali dazi doganali sulla
 
 Dal 1 gennaio 1986 i dazi doganali riscossi sono dovuti integralmente.
 
-##### ARTICOLO 127
+###### ARTICOLO 127
 
 L'importo dei diritti costatati a titolo delle risorse proprie provenienti dall'imposta sul valore aggiunto o dei contributi finanziari basati sul prodotto nazionale lordo in applicazione dell'articolo 4, paragrafi da 1 a 5, della decisione del 21 aprile 1970 e' interamente dovuto dal 1 gennaio 1981.
 
@@ -1521,13 +1511,13 @@ Tuttavia la Comunita' restituira' alla Repubblica ellenica una parte dell'import
 
 \- 10% nel 1985.
 
-## TITOLO VII - ALTRE DISPOSIZIONI
+### TITOLO VII - ALTRE DISPOSIZIONI
 
-##### ARTICOLO 128
+###### ARTICOLO 128
 
 Gli atti elencati nell'allegato VIII del presente atto si applicano nei confronti della Repubblica ellenica alle condizioni previste in tale allegato.
 
-##### ARTICOLO 129
+###### ARTICOLO 129
 
 1\. Fino al 31 dicembre 1985 le imprese siderurgiche della Grecia sono autorizzate ad applicare il sistema dei punti di parita' multipli.
 
@@ -1535,7 +1525,7 @@ Gli atti elencati nell'allegato VIII del presente atto si applicano nei confront
 
 Le disposizioni del primo comma riguardano soltanto l'allineamento sui listini dei produttori degli Stati membri attuali e della Grecia per i prodotti che al 1 gennaio 1981 sono effettivamente prodotti in Grecia. L'elenco dei prodotti in causa sara' oggetto di una pubblicazione della Commissione a detta data.
 
-##### ARTICOLO 130
+###### ARTICOLO 130
 
 1\. Fino al 31 dicembre 1985 in caso di difficolta' gravi di un settore dell'attivita' economica, che siano suscettibili di protrarsi, come anche in caso di difficolta' che possano determinare grave perturbazione in una situazione economica regionale, la Repubblica ellenica puo' domandare di essere autorizzata ad adottare misure di salvaguardia che consentano di ristabilire la situazione e di adattare il settore interessato all'economica del mercato comune.
 
@@ -1551,7 +1541,7 @@ Nel settore dell'agricoltura, quando il mercato di uno Stato membro e' perturbat
 
 3\. Le misure autorizzate ai sensi del paragrafo 2 possono comportare deroghe alle norme del trattato CEE e del presente atto nei limiti e nei termini strettamente necessari per raggiungere gli scopi contemplati dal paragrafo 1. Nella scelta di tali misure dovra' accordarsi la precedenza a quelle che turbino il meno possibile il funzionamento del mercato comune.
 
-##### ARTICOLO 131
+###### ARTICOLO 131
 
 1\. Qualora, entro la scadenza della durata di applicazione delle misure transitorie definite in ciascun caso ai sensi del presente atto, la Commissione, a richiesta di uno Stato membro o di qualsiasi altro interessato, costati l'esistenza di pratiche di dumping esercitate tra la Comunita' nella sua composizione attuale e la Grecia, essa rivolge raccomandazioni all'autore od agi autori di tali pratiche per porvi termine.
 
@@ -1563,23 +1553,23 @@ Se le pratiche di dumping continuano a sussistere, la Commissione autorizza lo S
 
 ### TITOLO I - INSEDIAMENTO DELLE ISTITUZIONI
 
-##### ARTICOLO 132
+###### ARTICOLO 132
 
 L'assemblea si riunisce non piu' tardi di un mese dopo l'adesione della Repubblica ellenica. Essa apporta al suo regolamento interno gli adattamenti resi necessari dall'adesione.
 
-##### ARTICOLO 133
+###### ARTICOLO 133
 
 1\. Dal momento dell'adesione della Repubblica ellenica la presidenza del Consiglio e' esercitata dal membro del Consiglio che, conformemente all'articolo 2 del trattato che istituisce un Consiglio unico ed una Commissione unica delle Comunita' Europee nella sua versione originaria, deve esercitare la presidenza. Scaduto tale mandato, la presidenza e' in seguito esercitata nell'ordine degli Stati membri fissato dall'articolo sopraccitato, modificato dall'articolo 11.
 
 2\. Il Consiglio apporta al suo regolamento interno gli adattamenti resi necessari dall'adesione della Repubblica ellenica.
 
-##### ARTICOLO 134
+###### ARTICOLO 134
 
 1\. Il presidente, i vicepresidenti e i membri della Commissione sono nominati immediatamente dopo l'adesione della Repubblica ellenica. La Commissione entra in carica il quinto giorno successivo alla nomina dei suoi membri. Scade simultaneamente il mandato dei membri che sono in carica al momento dell'adesione.
 
 2\. La Commissione apporta al suo regolamento interno gli adattamenti resi necessari dall'adesione della Repubblica ellenica.
 
-##### ARTICOLO 135
+###### ARTICOLO 135
 
 1\. Immediatamente dopo l'adesione della Repubblica ellenica la Corte di Giustizia e' completata con la nomina di un nuovo giudice.
 
@@ -1589,91 +1579,91 @@ L'assemblea si riunisce non piu' tardi di un mese dopo l'adesione della Repubbli
 
 4\. Per la pronuncia sulle cause pendenti davanti alla Corte al 1 gennaio 1981 per le quali la procedura orale sia stata aperta prima di tale data, la Corte in seduta plenaria o le sezioni si riuniscono nella composizione che avevano prima dell'adesione della Repubblica ellenica ed applicano il regolamento di procedura vigente al 31 dicembre 1980.
 
-##### ARTICOLO 136
+###### ARTICOLO 136
 
 Immediatamente dopo l'adesione della Repubblica ellenica il Comitato Economico e Sociale e' completato con la nomina di dodici membri in rappresentanza delle varie categorie della vita economica e sociale della Grecia. Il mandato dei membri cosi' nominati scade contemporaneamente a quello dei membri che sono in carica al momento dell'adesione.
 
-##### ARTICOLO 137
+###### ARTICOLO 137
 
 Immediatamente dopo l'adesione della Repubblica ellenica la Corte dei Conti e' completata con la nomina di un membro supplementare. Il mandato del membro cosi' nominato scade contemporaneamente a quello dei membri che sono in carica al momento dell'adesione.
 
-##### ARTICOLO 138
+###### ARTICOLO 138
 
 Immediatamente dopo l'adesione della Repubblica ellenica il Comitato consultivo della Comunita' Europea del Carbone e dell'Acciaio e' completato con la nomina di tre membri supplementari.
 
 Il mandato dei membri cosi' nominati scade contemporaneamente a quello dei membri che sono in carica al momento dell'adesione.
 
-##### ARTICOLO 139
+###### ARTICOLO 139
 
 Immediatamente dopo l'adesione della Repubblica ellenica il Comitato scientifico e tecnico e' completato con la nomina di un membro supplementare. Il mandato del membro cosi' nominato scade contemporaneamente a quello dei membri che sono in carica al momento dell'adesione.
 
-##### ARTICOLO 140
+###### ARTICOLO 140
 
 Immediatamente dopo l'adesione della Repubblica ellenica il Comitato monetario e' completato con la nomina dei membri che rappresentano questo nuovo Stato membro. Il loro mandato scade contemporaneamente a quello dei membri che sono in carica al momento dell'adesione.
 
-##### ARTICOLO 141
+###### ARTICOLO 141
 
 Gli adattamenti degli statuti e dei regolamenti interni dei comitati istituiti dai trattati originari, resi necessari dall'adesione della Repubblica ellenica, sono effettuati non appena possibile dopo l'adesione.
 
-##### ARTICOLO 142
+###### ARTICOLO 142
 
 1\. Per i comitati elencati nell'allegato IX, il mandato dei nuovi membri scade contemporaneamente a quello dei membri che sono in carica al momento dell'adesione.
 
 2\. I comitati elencati nell'allegato X sono integralmente rinnovati immediatamente dopo l'adesione.
 
-## TITOLO II - APPLICABILITA' DEGLI ATTI DELLE ISTITUZIONI
+### TITOLO II - APPLICABILITA' DEGLI ATTI DELLE ISTITUZIONI
 
-##### ARTICOLO 143
+###### ARTICOLO 143
 
 Dal momento della sua adesione la Repubblica ellenica e' considerata come destinataria e come avente ricevuto notificazione delle direttive e delle decisioni ai sensi dell'articolo 189 del trattato CEE e dell'articolo 161 del trattato CEEA, nonche' delle raccomandazioni e decisioni ai sensi dell'articolo 14 del trattato CECA, purche' tali direttive, raccomandazioni e decisioni siano state notificate a tutti gli Stati membri attuali.
 
-##### ARTICOLO 144
+###### ARTICOLO 144
 
 L'applicazione, in Grecia, degli atti elencati nell'allegato XI del presente atto e' rinviata fino alle date indicate in tale elenco.
 
-##### ARTICOLO 145
+###### ARTICOLO 145
 
 La Repubblica ellenica mette in vigore le misure necessarie per conformarsi, dal momento dell'adesione, alle disposizioni delle direttive e delle decisioni, ai sensi dell'articolo 189 del trattato CEE e dell'articolo 161 del Trattato CEEA, nonche' delle raccomandazioni e delle decisioni ai sensi dell'articolo 14 del trattato CECA, fatti salvi gli eventuali termini previsti nell'elenco riportato nell'allegato XII o in altre disposizioni del presente atto.
 
-##### ARTICOLO 146
+###### ARTICOLO 146
 
 1\. Gli adattamenti degli atti delle Istituzioni delle Comunita' non contenuti nel presente atto o nei suoi allegati ed effettuati dalle Istituzioni prima dell'adesione della Repubblica ellenica secondo la procedura del paragrafo 2, per mettere tali atti in concordanza con le disposizioni del presente atto, in particolare quelle contenute nella parte quarta, entrano in vigore dal momento dell'adesione.
 
 2\. Il Consiglio, deliberando a maggioranza qualificata su proposta della Commissione, o la Commissione, a seconda che gli atti iniziali siano stati emanati dall'una o dall'altra di queste due Istituzioni, stabiliscono i testi necessari a tal fine.
 
-##### ARTICOLO 147
+###### ARTICOLO 147
 
 I testi degli atti delle Istituzioni delle Comunita' anteriori all'adesione della Repubblica ellenica e redatti dal Consiglio o dalla Commissione in lingua greca fanno fede, dal momento dell'adesione, alle stesse condizioni dei testi redatti nelle sei lingue attuali. Essi sono pubblicati nella Gazzetta Ufficiale delle Comunita' Europee ogniqualvolta i testi nelle lingue attuali siano stati oggetto di una tale pubblicazione.
 
-##### ARTICOLO 148
+###### ARTICOLO 148
 
 Gli accordi, le decisioni e le pratiche concertate esistenti al momento dell'adesione della Repubblica ellenica e che in conseguenza dell'adesione rientrano nel campo di applicazione dell'articolo 65 del trattato CECA devono essere notificati alla Commissione entro tre mesi dalla adesione. Soltanto gli accordi e le decisioni notificati restano provvisoriamente in vigore fino alla decisione della Commissione.
 
-##### ARTICOLO 149
+###### ARTICOLO 149
 
 Le disposizioni legislative, regolamentari e amministrative destinate ad assicurare, sul territorio della Repubblica ellenica, la protezione sanitaria delle popolazioni e dei lavoratori contro i pericoli derivanti dalle radiazioni ionizzanti sono comunicate da questo Stato alla Commissione, conformemente all'articolo 33 del trattato CEEA, entro tre mesi dall'adesione.
 
-## TITOLO III - DISPOSIZIONI FINALI
+### TITOLO III - DISPOSIZIONI FINALI
 
-##### ARTICOLO 150
+###### ARTICOLO 150
 
 Gli allegati da I a XII ed i Protocolli da n° 1 a n° 7, uniti al presente atto, ne costituiscono parte integrante.
 
-##### ARTICOLO 151
+###### ARTICOLO 151
 
 Il Governo della Repubblica francese rimettera' al Governo della Repubblica ellenica copia certificata conforme del trattato che istituisce la Comunita' Europea del Carbone e dell'Acciaio e dei trattati che l'hanno modificato.
 
-##### ARTICOLO 152
+###### ARTICOLO 152
 
 Il Governo della Repubblica italiana rimettera' al Governo della Repubblica ellenica copia certificata conforme del trattato che istituisce la Comunita' Economica Europea, del trattato che istituisce la Comunita' Europea dell'Energia Atomica e dei trattati che li hanno modificati o completati, ivi compreso il trattato relativo all'adesione del Regno di Danimarca, dell'Irlanda e del Regno Unito di Gran Bretagna e Irlanda del Nord alla Comunita' Economica Europea e alla Comunita' Europea dell'Energia Atomica, nelle lingue danese, francese, inglese, irlandese, italiana, olandese e tedesca.
 
 I testi dei suddetti trattati, redatti in lingua greca, sono allegati al presente atto. Tali testi fanno fede alle stesse condizioni dei testi dei trattati di cui al primo comma redatti nelle lingue attuali.
 
-##### ARTICOLO 153
+###### ARTICOLO 153
 
 Il Segretario Generale rimettera' al Governo della Repubblica ellenica copia certificata conforme degli accordi internazionali depositati negli archivi del Segretariato Generale del Consiglio delle Comunita' Europee.
 
-##### Allegato I
+###### Allegato I
 
 ALLEGATO I
 
@@ -1681,7 +1671,7 @@ ELENCO di cui all'articolo 21 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato II
+###### Allegato II
 
 ALLEGATO II
 
@@ -1689,7 +1679,7 @@ ELENCO di cui all'articolo 22 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato III
+###### Allegato III
 
 ALLEGATO III
 
@@ -1697,7 +1687,7 @@ ELENCO di cui all'articolo 36, paragrafi 1 e 2, dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato IV
+###### Allegato IV
 
 ALLEGATO IV
 
@@ -1705,7 +1695,7 @@ ELENCO di cui all'articolo 114 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato V
+###### Allegato V
 
 ALLEGATO V
 
@@ -1713,7 +1703,7 @@ ELENCO di cui all'articolo 115, paragrafo 1, dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato VI
+###### Allegato VI
 
 ALLEGATO VI
 
@@ -1721,7 +1711,7 @@ ELENCO di cui all'articolo 115, paragrafo 3, dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato VII
+###### Allegato VII
 
 ALLEGATO VII
 
@@ -1731,7 +1721,7 @@ di cui all'articolo 117, paragrafo 1, dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato VIII
+###### Allegato VIII
 
 ALLEGAT0 VIII
 
@@ -1739,7 +1729,7 @@ ELENCO di cui all'articolo 128 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato IX
+###### Allegato IX
 
 ALLEGATO IX
 
@@ -1747,7 +1737,7 @@ ELENCO di cui all'articolo 142, paragrafo 1 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato X
+###### Allegato X
 
 ALLEGATO X
 
@@ -1755,7 +1745,7 @@ ELENCO di cui all'articolo 142, paragrafo 2 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XI
+###### Allegato XI
 
 ALLEGATO XI
 
@@ -1765,7 +1755,7 @@ dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-##### Allegato XII
+###### Allegato XII
 
 ALLEGATO XII
 
@@ -1773,15 +1763,13 @@ ELENCO di cui all'articolo 145 dell'atto di adesione
 
 Parte di provvedimento in formato grafico
 
-## PARTE PRIMA - ADATTAMENTI DELLO STATUTO DELLA BANCA
-
-### EUROPEA PER GLI INVESTIMENTI
+## PARTE PRIMA - ADATTAMENTI DELLO STATUTO DELLA BANCA EUROPEA PER GLI INVESTIMENTI
 
 PROTOCOLLI
 
 PROTOCOLLO N° 1 concernente lo statuto della Banca Europea per gli Investimenti
 
-##### ARTICOLO 1
+###### ARTICOLO 1
 
 L'articolo 3 del protocollo sullo statuto della Banca e' sostituito dalle seguenti disposizioni:
 
@@ -1809,7 +1797,7 @@ Conformemente all'articolo 129 del trattato, i membri della Banca sono:
 
 \- il Regno Unito di Gran Bretagna o Irlanda del Nord".
 
-##### ARTICOLO 2
+###### ARTICOLO 2
 
 L'articolo 4, paragrafo 1, primo comma del protocollo sullo statuto della Banca e' sostituito dalle seguenti disposizioni:
 
@@ -1817,7 +1805,7 @@ L'articolo 4, paragrafo 1, primo comma del protocollo sullo statuto della Banca 
 
 Germania. . . . . . . . . . . . . . . . . . . . . . . . 1.575 milioni Francia . . . . . . . . . . . . . . . . . . . . . . . . 1.575 milioni Regno Unito . . . . . . . . . . . . . . . . . . . . . . 1.575 milioni Italia. . . . . . . . . . . . . . . . . . . . . . . . . 1.260 milioni Belgio . . . . . . . . . . . . . . . . . . . . . . . . 414,75 milioni Paesi Bassi. . . . . . . . . . . . . . . . . . . . . . 414,75 milioni Danimarca . . . . . . . . . . . . . . . . . . . . . . . . 210 milioni Grecia . . . . . . . . . . . . . . . . . . . . . . . . 112,50 milioni Irlanda . . . . . . . . . . . . . . . . . . . . . . . . 52,50 milioni Lussemburgo. . . . . . . . . . . . . . . . . . . . . 10,50 milioni.".
 
-##### ARTICOLO 3
+###### ARTICOLO 3
 
 L'articolo 7 del protocollo sullo statuto della Banca e' sostituito dalle seguenti disposizioni:
 
@@ -1833,7 +1821,7 @@ L'articolo 7 del protocollo sullo statuto della Banca e' sostituito dalle seguen
 
 Esso puo' inoltre, deliberando all'unanimita' su proposta del Consiglio di amministrazione, determinare le modalita' dell'adeguamento del capitale di cui ai paragrafi 1 e 2 del presente articolo; i versamenti relativi a tale adeguamento devono essere effettuati almeno una volta per anno.".
 
-##### ARTICOLO 4
+###### ARTICOLO 4
 
 L'articolo 11, paragrafo 2, primo, secondo e terzo comma del Protocollo sullo statuto della Banca e' sostituito dalle seguenti disposizioni:
 
@@ -1877,13 +1865,13 @@ I sostituti sono nominati per un periodo di cinque anni dal Consiglio dei govern
 
 1 sostituto designato dalla Commissione.".
 
-##### ARTICOLO 5
+###### ARTICOLO 5
 
 La seconda frase dell'articolo 12, paragrafo 2, del protocollo sullo statuto della Banca e' sostituita dalla frase seguente:
 
 "La maggioranza qualificata richiede tredici voti."
 
-##### ARTICOLO 6
+###### ARTICOLO 6
 
 L'articolo 13, paragrafo 1, primo comma del Protocollo sullo statuto della Banca e sostituito dalle seguenti disposizioni:
 
@@ -1891,31 +1879,31 @@ L'articolo 13, paragrafo 1, primo comma del Protocollo sullo statuto della Banca
 
 ## PARTE SECONDA - ALTRE DISPOSIZIONI
 
-##### ARTICOLO 7
+###### ARTICOLO 7
 
 1\. La Repubblica ellenica versa la somma di 8.840.000 unita' di conto, corrispondenti alla sua quota del capitale sottoscritto versato dagli Stati membri alla data del 31 dicembre 1979, in cinque rate semestrali uguali, esigibili il 30 aprile ed il 31 ottobre. La prima rata e dovuta a quella di queste due date che segue per prima la data dell'adesione, a condizione che tra quest'ultima data e quella dell'esigibilita' intercorra un periodo di almeno due mesi.
 
 2\. Dal giorno dell'adesione la Repubblica ellenica, partecipa all'aumento del capitale deciso il 19 giugno 1978, effettuando i versamenti a titolo di tale aumento proporzionalmente alla sua quota del capitale sottoscritto e secondo uno scadenzario stabilito dal Consiglio dei governatori. Se prima dell'adesione gli Stati membri hanno gia' effettuato uno o piu' versamenti a tale titolo, l'importo dei versamenti corrispondente alla quota del capitale sottoscritta dalla Repubblica ellenica viene aggiunto, in cinque rate uguali, ai versamenti che la Repubblica ellenica e' tenuta ad effettuare a norma del paragrafo 1 del presente articolo.
 
-##### ARTICOLO 8
+###### ARTICOLO 8
 
 La Repubblica ellenica contribuisce alla riserva statutaria, alla riserva supplementare, alle provviste equivalenti a riserve nonche' all'importo che deve ancora essere destinato alle riserve e provviste, costituito dal saldo del conto profitti e perdite al 31 dicembre dell'anno che precede l'adesione, quali figurano in unita' di conto nel bilancio approvato dalla Banca, in ragione dell'1,56% di tali voci ed alle date di cui all'articolo 7, paragrafo 1.
 
-##### ARTICOLO 9
+###### ARTICOLO 9
 
 I versamenti di cui agli articoli 7 ed 8 del presente protocollo sono effettuati dalla Repubblica ellenica in moneta nazionale liberamente convertibile. Per il calcolo degli importi da versare viene preso per base il tasso di conversione tra l'unita' di conto e la dracma in vigore l'ultimo giorno lavorativo del mese che precede la data dei versamenti in questione.
 
-##### ARTICOLO 10
+###### ARTICOLO 10
 
 1\. Immediatamente dopo l'adesione il Consiglio dei governatori completa la composizione del Consiglio di amministrazione nominando un amministratore designato dalla Repubblica ellenica ed un sostituto designato di comune accordo dal Regno di Danimarca, dalla Repubblica ellenica e dall'Irlanda.
 
 2\. Il mandato dell'amministratore e del sostituto cosi' nominati scade al termine della seduta annuale del Consiglio dei governatori nel corso della quale viene esaminata la relazione annuale sull'esercizio 1982.
 
-##### ARTICOLO 11
+###### ARTICOLO 11
 
 Il Consiglio dei governatori nomina su proposta del Consiglio di amministrazione il quinto vicepresidente di cui all'articolo 6 del presente protocollo al piu' tardi durante la seduta annuale nel corso della quale viene esaminata la relazione annuale sull'esercizio 1981.
 
-##### Protocollo 2
+###### Protocollo 2
 
 PROTOCOLLO N° 2
 
@@ -1925,7 +1913,7 @@ Il dazio di base sul quale la Repubblica ellenica opera le riduzioni successive 
 
 Per gli stessi prodotti il dazio di base preso in considerazione per i ravvicinamenti alla tariffa doganale comune, da eseguire conformemente all'articolo 31, e' del 17,2%.
 
-##### Protocollo 3
+###### Protocollo 3
 
 PROTOCOLLO N. 3
 
@@ -1939,7 +1927,7 @@ Le disposizioni relative al ravvicinamento dei dazi della tariffa doganale ellen
 
 \- della legge n° 289/76 - Incentivi per promuovere lo sviluppo delle regioni di frontiera e concernenti tutte le questioni relative fino allo scadere degli accordi conclusi dal governo ellenico con i beneficiari di tali misure.
 
-##### Protocollo 4
+###### Protocollo 4
 
 PROTOCOLLO N° 4
 
@@ -2039,7 +2027,7 @@ c) le condizioni alle quali possono essere prese le misure transitorie necessari
 
 Fino alla data di tale applicazione la Repubblica ellenica ha la facolta' di mantenere, a titolo di deroga, il regime d'aiuti vigente nel suo territorio prima dell'adesione.
 
-##### Protocollo 5
+###### Protocollo 5
 
 PROTOCOLLO N° 5
 
@@ -2055,7 +2043,7 @@ PROTOCOLLO N° 6
 
 concernente gli scambi di cognizioni con la Repubblica ellenica nel campo dell'energia nucleare
 
-##### ARTICOLO 1
+###### ARTICOLO 1
 
 1\. Dal momento dell'adesione le cognizioni comunicate agli Stati membri, alle persone e alle imprese, conformemente all'articolo 13 del trattato CEEA, sono messe a disposizione della Repubblica ellenica, che provvede alla loro diffusione limitata nel proprio territorio, alle condizioni di cui allo stesso articolo.
 
@@ -2071,7 +2059,7 @@ concernente gli scambi di cognizioni con la Repubblica ellenica nel campo dell'e
 
 \- lo sviluppo dei metodi di prospezione dei minerali radioattivi.
 
-##### ARTICOLO 2
+###### ARTICOLO 2
 
 1\. Nei settori in cui la Repubblica ellenica mette delle cognizioni a disposizione della Comunita', gli organismi competenti concedono a richiesta licenze a condizioni commerciali agli Stati membri e alle persone ed imprese della Comunita' qualora essi abbiano diritti di esclusivita' su brevetti depositati negli Stati membri della Comunita' e purche' non abbiano, nei confronti di terzi, alcun obbligo o impegno di concedere o di proporre la concessione di una licenza esclusiva o parzialmente esclusiva sui diritti di tali brevetti.
 
@@ -2079,7 +2067,7 @@ concernente gli scambi di cognizioni con la Repubblica ellenica nel campo dell'e
 
 Tali licenze esclusive o parzialmente esclusive vengono concesse su una base commerciale normale.
 
-##### Protocollo 7
+###### Protocollo 7
 
 PROTOCOLLO N° 7
 
@@ -2101,7 +2089,7 @@ CONVENGONO di raccomandare a tale scopo alle Istituzioni della Comunita' di attu
 
 RICONOSCONO in particolare che, in caso di applicazione degli articoli 92 e 93 del trattato CEE, si dovra' tener conto degli obiettivi di espansione economica e di aumento del livello di vita della popolazione.
 
-##### Atto finale
+###### Atto finale
 
 ATTO FINALE
 
@@ -2223,7 +2211,7 @@ Fatto ad Atene, addi' ventotto maggio millenovecentosettantanove.
 
 Parte di provvedimento in formato grafico
 
-##### Dichiarazioni comuni
+###### Dichiarazioni comuni
 
 DICHIARAZIONE COMUNE
 

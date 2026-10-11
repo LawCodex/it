@@ -34,11 +34,11 @@ Noi abbiamo sanzionato e promulghiamo quanto segue:
 
 ## Capo I - Disposizioni generali.
 
-#### Art. 1
+### Art. 1
 
 I rapporti tra i proprietari di edifici o parte di edifici adibiti a teatro e i titolari del diritto di palco nei teatri medesimi sono regolati dalle disposizioni della presente legge.
 
-#### Art. 2
+### Art. 2
 
 Il diritto di palco consiste nella facolta' di godere e di disporre del palco medesimo, in modo esclusivo, facendone uso conforme allo scopo al quale il teatro e' destinato.
 
@@ -46,13 +46,13 @@ L'estensione e le modalita' dell'uso sono determinate dal titolo e, in mancanza 
 
 Il diritto di palco non comprende, salvo titolo contrario, alcuna quota di comproprieta' sulla sala, sul palcoscenico e sulle parti dell'edificio indicate negli articoli 3 e 4 della legge 10 gennaio 1935-XIII, n. 8.
 
-#### Art. 3
+### Art. 3
 
 Il titolare del diritto di palco non ha alcuna ingerenza nella manutenzione del teatro e nell'amministrazione dell'azienda teatrale.
 
 Spetta unicamente al proprietario o gestore del teatro di predisporre e organizzare i pubblici spettacoli; il titolare del diritto di palco non puo' richiederne, ne' darne, a proprio spese, salvo patto contrario.
 
-#### Art. 4
+### Art. 4
 
 Le spese necessarie per la conservazione dei palchi sono sostenute dai rispettivi titolari e qualora questi non vi provvedono possono essere sostenute dal proprietario del teatro salvo a questo il, diritto di rivalsa.
 
@@ -62,7 +62,7 @@ Rientrano fra le spese di cui sopra i contributi per l'assicurazione dell'edific
 
 I titolari del diritto di palco non possono apportare nel palco stesso modificazioni che siano in contrasto con le esigenze architettoniche ed estetiche del teatro e devono richiedere in ogni caso il preventivo consenso del proprietario del teatro.
 
-#### Art. 5
+### Art. 5
 
 Il proprietario dell'edificio destinato a teatro non puo' eseguire innovazioni dirette all'uso piu' comodo e redditizio del teatro senza l'autorizzazione del Ministro per la cultura popolare ed, ove occorra, l'approvazione del Prefetto ai sensi dell'art. 158 del regolamento di pubblica sicurezza approvato con il R. decreto 21 gennaio 1929-VII, n. 62.
 
@@ -70,7 +70,7 @@ Qualora il teatro appartenga a piu' proprietari la facolta' di innovazione spett
 
 In ogni caso i titolari del diritto di palco sono tenuti a concorrere alla spesa occorrente per le innovazioni secondo le norme degli articoli seguenti.
 
-#### Art. 6
+### Art. 6
 
 Sono a carico dei rispettivi titolari le spese incontrate per uniformare i palchi e i relativi arredamenti alle nuove condizioni estetiche del teatro. L'ammontare complessivo della spesa col progetto di ripartizione tra i diversi obbligati dev'essere comunicato agli interessati con lettera raccomandata con ricevuta di ritorno, prima dell'inizio dei lavori.
 
@@ -80,11 +80,11 @@ Nel caso di piu' opposizioni, queste sono riunite e decise con unica sentenza.
 
 Ne' l'azione giudiziaria, ne' il ricorso in via amministrativa sospendono l'esecuzione dei lavori.
 
-#### Art. 7
+### Art. 7
 
 I titoli del diritto di palco che non intendono concorrere nelle spese di cui all'articolo precedente sono tenuti a cedere il loro diritto al proprietario del teatro che ne faccia richiesta, dietro corrispettivo che sara' determinato coi criteri fissati nei successivi articoli 16 e 17.
 
-#### Art. 8
+### Art. 8
 
 Le spese di cui all'articolo 6 sono ripartite, in mancanza di apposite convenzioni, fra i titolari del diritto di palco assegnando a ciascuno una quota proporzionale al valore del suo diritto.
 
@@ -94,13 +94,13 @@ In mancanza di accertamento dell'imponibile, il valore e' stabilito mediante per
 
 I contributi di cui al secondo comma dell'articolo 4 devono essere proporzionati al valore di ciascun palco in relazione al valore dell'edificio che forma oggetto dell'assicurazione.
 
-#### Art. 9
+### Art. 9
 
 I titolari del diritto di palco possono concederne l'uso dietro corrispettivo per singoli spettacoli o per turni di spettacoli soltanto pel tramite del gestore del teatro, il quale sara' tenuto ad esigere il prezzo fissato per l'uso dei palchi destinati al pubblico.
 
 In caso d'inosservanza di questa norma il gestore puo' esigere una somma pari a tre volte il prezzo suddetto.
 
-#### Art. 10
+### Art. 10
 
 L'accesso ai palchi di proprieta' privata importa sempre, per ciascuna persona che assiste allo spettacolo, il pagamento del biglietto d'ingresso nella stessa misura fissata per l'ingresso ai palchi destinati al pubblico.
 
@@ -108,17 +108,15 @@ Il titolare del diritto di palco e' inoltre tenuto a rimborsare al proprietario 
 
 Restano privi di effetto i patti contrari alle disposizioni dei due commi precedenti, stipulati prima dell'entrata in vigore della presente legge.
 
-#### Art. 11
+### Art. 11
 
 Il proprietario o gestore del teatro, per ottenere il rimborso delle somme da lui anticipate, relative ai diritti erariali o ai diritti demaniali sulle opere di pubblico dominio spettanti ai palchettisti a norma degli articoli 13 del R. decreto 30 dicembre 1923-II, n. 3276, e 8 del R. decreto 15 luglio 1926-IV, n. 1369, puo' valersi del procedimento d'ingiunzione.
 
 Il decreto d'ingiunzione e' immediatamente esecutivo nonostante opposizione.
 
-## Capo II - Norme concernenti l'espropriazione dei teatri in regime di condominio
+## Capo II - Norme concernenti l'espropriazione dei teatri in regime di condominio e l'espropriazione dei palchi.
 
-### e l'espropriazione dei palchi.
-
-#### Art. 12
+### Art. 12
 
 Chi abbia la comproprieta' del teatro per una parte costituente almeno la meta' del suo valore, previa autorizzazione del Ministro per la cultura popolare, che ha valore di dichiarazione di pubblica utilita', puo' chiedere l'espropriazione della parte spettante agli altri condomini.
 
@@ -128,17 +126,17 @@ Il Ministro per la cultura popolare, in ogni caso, prima di concedere l'autorizz
 
 Nel caso previsto dal secondo comma, qualora il Ministro per la cultura popolare riconosca che i lavori siano urgenti ed indifferibili, di concerto col Ministro per i lavori pubblici, puo' disporre l'occupazione dell'immobile espropriando, prefiggendo un termine per l'esecuzione dei lavori.
 
-#### Art. 13
+### Art. 13
 
 L'espropriazione e' disposta dal prefetto della Provincia. Essa impone l'obbligo da parte degli esproprianti e dei loro successori a titolo universale o particolare di mantenere la destinazione dell'immobile a teatro per almeno cinquanta anni. Il Ministro per la cultura popolare puo' disporre che le opere fatte in contravvenzione a questo divieto siano distrutte e che sia rimesso l'immobile nel pristino stato, facendo eseguire gli ordini relativi a spese del contravventore.
 
-#### Art. 14
+### Art. 14
 
 Per la procedura di espropriazione e per la liquidazione delle indennita' spettanti ai condomini espropriati si osservano le norme della legge 25 giugno 1865, n. 2359; possono tuttavia essere abbreviati i termini, con decreto del Prefetto da pubblicarsi nei modi di legge.
 
 Qualora nel teatro esistano diritti di palco che siano compresi nell'espropriazione, l'indennita' relativa sara' liquidata coi criteri di cui ai successivi articoli 16 e 17.
 
-#### Art. 15
+### Art. 15
 
 Fuori dei casi previsti dagli articoli precedenti, il proprietario di un teatro, o chi ne abbia la comproprieta' per una parte costituente almeno un terzo del suo valore, previa autorizzazione del Ministro per la cultura popolare, puo' chiedere l'espropriazione per causa di pubblica utilita' dei palchi, coi relativi accessori, formanti oggetto di proprieta' separata.
 
@@ -146,7 +144,7 @@ Il Ministro, prima di concedere l'autorizzazione, deve sentire gli altri condomi
 
 L'espropriazione e' disposta dal prefetto della Provincia; essa importa il divieto da parte degli esproprianti e dei loro successori a titolo universale o particolare di alienare separatamente i palchi espropriati. Ogni pattuizione contraria a questo divieto e' nulla.
 
-#### Art. 16
+### Art. 16
 
 L'indennita' dovuta ai proprietari dei palchi espropriati consiste nella somma corrispondente al reddito annuo netto di ciascun palco capitalizzato in ragione del cento per otto.
 
@@ -154,7 +152,7 @@ Il reddito netto si determina prendendo a base la media dei fitti percepiti o ch
 
 Qualora nell'ultimo quinquennio il teatro non sia stato aperto al pubblico la determinazione del reddito sara' fatta mediante perizia, possibilmente tenendo conto della situazione analoga di altri teatri ed apportandovi sempre la riduzione del trenta per cento.
 
-#### Art. 17
+### Art. 17
 
 Quando al diritto di palco sia connessa la comproprieta' di locali comuni ad altri proprietari di palchi, ovvero di talune parti dell'edificio indicate nel terzo comma dell'articolo 2, l'espropriazione del palco si estende di diritto alla quota di partecipazione sulle anzidette cose comuni.
 
@@ -162,15 +160,15 @@ In tal caso e' dovuto all'espropriato un supplemento d'indennita' in relazione a
 
 Tale quota, ove il titolo non disponga altrimenti, si presume eguale a quella degli altri condomini, se trattasi di locali che formano oggetto di comunione fra i proprietari di palchi; se invece la comunione riguardi talune parti dell'edificio indicate nell'articolo 2 la quota espropriata, salvo titolo contrario, si considera, proporzionata al valore del palco in relazione al valore dell'edificio destinato a teatro.
 
-#### Art. 18
+### Art. 18
 
 I comproprietari di un edificio destinato a teatro, a favore dei quali sia avvenuta la espropriazione delle altre quote di condominio, ovvero dei palchi, acquistano sui beni espropriati diritti proporzionali alla loro quota di comproprieta' dell'edificio.
 
-#### Art. 19
+### Art. 19
 
 Per l'esecuzione degli espropri previsti dall'art. 15 si osserva la procedura speciale disciplinata, negli articoli seguenti.
 
-#### Art. 20
+### Art. 20
 
 La domanda di espropriazione dev'essere corredata dalla autorizzazione ministeriale prescritta nell'art. 15, dall'elenco dei palchi e degli altri eventuali diritti da espropriare e del prezzo offerto per la espropriazione.
 
@@ -180,7 +178,7 @@ Il Prefetto, esaminata la regolarita' della domanda, dispone che, in contradditt
 
 In base alla risultanza dello stato di consistenza, alle deduzioni delle parti od ai criteri di valutazione fissati negli articoli 16 e 17, sentito ove occorra un tecnico scelto negli albi professionali, il Prefetto determina la somma da corrispondersi quale indennita' di espropriazione unica ed inscindibile per ogni palco e per le altre cose che vi siano connesse, a tacitazione anche dei diritti reali che possono sussistere sul palco medesimo e sugli accessori e ne ordina il deposito presso la Cassa depositi e prestiti, fissando il termine per l'adempimento.
 
-#### Art. 21
+### Art. 21
 
 Eseguito il deposito, gli esproprianti richiedono al Prefetto il decreto di trasferimento di proprieta' e d'immissione in possesso dei palchi e delle altre cose che vi siano connesse, descritti nello stato di consistenza di cui all'articolo precedente.
 
@@ -188,13 +186,13 @@ Il decreto di cui sopra e' trascritto, a cura, dell'espropriante, nell'ufficio d
 
 La notificazione del decreto tiene luogo di presa di possesso dei beni espropriandi.
 
-#### Art. 22
+### Art. 22
 
 Nei trenta giorni successivi alla notificazione suddetta gl'interessati possono proporre avanti l'Autorita', giudiziaria le loro opposizioni in relazione alla misura dell'indennita'.
 
 Trascorsi trenta giorni dalla notifica senza che sia stata proposta opposizione, l'indennita' determinata in base agli articoli precedenti diviene effettiva e non puo' essere modificata.
 
-#### Art. 23
+### Art. 23
 
 Le disposizioni degli articoli 16 e 17 della presente legge sono applicabili anche alle espropriazioni promosse da Comuni o da altri Enti di diritto pubblico in virtu' della legge 17 giugno 1937-XV, n. 1221.
 

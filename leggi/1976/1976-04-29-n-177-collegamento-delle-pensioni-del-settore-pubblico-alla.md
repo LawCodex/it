@@ -28,11 +28,9 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I - COLLEGAMENTO DELLE PENSIONI
+### CAPO I - COLLEGAMENTO DELLE PENSIONI ALLA DINAMICA DELLE RETRIBUZIONI
 
-### ALLA DINAMICA DELLE RETRIBUZIONI
-
-##### Art. 1
+#### Art. 1
 
 Perequazione automatica delle pensioni
 
@@ -56,7 +54,7 @@ AGGIORNAMENTO (6)
 
 Il D.L 22 dicembre 1990, n. 409, convertito, con modificazioni, dalla L. 26 febbraio 1991, n. 58 ha disposto (con l'art. 3, comma 1) che " Le pensioni di cui all'articolo 1 della legge 29 aprile 1976, n. 177, con eccezione di quelle a carico delle Casse pensioni amministrate dalla Direzione generale degli istituti di previdenza del Ministero del tesoro, sono aumentate, a decorrere dal 1' luglio 1990, nelle misure percentuali indicate, con riferimento alle date di decorrenza dei trattamenti, nella allegata tabella B."
 
-##### Art. 2
+#### Art. 2
 
 Indice delle retribuzioni
 
@@ -64,7 +62,7 @@ Con decreto del Presidente della Repubblica, su proposta del Presidente del Cons
 
 Sino a quando non sara' determinato l'indice di cui al precedente comma e comunque non oltre l'anno 1978, sara' applicato sulle pensioni l'indice valevole per lo aggancio alla dinamica salariale del settore privato.
 
-##### Art. 3
+#### Art. 3
 
 Perequazione delle pensioni per gli anni 1976 e 1977
 
@@ -74,17 +72,15 @@ Per l'anno 1977, le misure annue delle pensioni saranno ulteriormente aumentate 
 
 Gli aumenti di cui ai precedenti commi non operano sulle pensioni relative a cessazioni dal servizio con effetto posteriore al 31 dicembre 1975.
 
-##### Art. 4
+#### Art. 4
 
 Criteri di applicazione dell'indice
 
 Le variazioni percentuali di aumento dell'indice delle retribuzioni di cui al precedente articolo 3 sono applicate direttamente dagli uffici che amministrano le partite di pensione.
 
-## CAPO II - TRASFERIMENTO ASSEGNI VITALIZI AL FONDO SOCIALE E COSTITUZIONE
+### CAPO II - TRASFERIMENTO ASSEGNI VITALIZI AL FONDO SOCIALE E COSTITUZIONE DELLA POSIZIONE ASSICURATIVA.
 
-### DELLA POSIZIONE ASSICURATIVA.
-
-##### Art. 5
+#### Art. 5
 
 Costituzione della posizione assicurativa
 
@@ -94,7 +90,7 @@ A partire dalla stessa data, la posizione assicurativa di cui al precedente comm
 
 Sono abrogate tutte le disposizioni sulla concessione degli assegni vitalizi a carico del Fondo di previdenza dei dipendenti statali, dell'Istituto nazionale assistenza dipendenti enti locali e dell'Istituto postelegrafonici.
 
-##### Art. 6
+#### Art. 6
 
 Trasferimento degli assegni vitalizi al fondo sociale
 
@@ -112,7 +108,7 @@ AGGIORNAMENTO (2)
 
 La L. 20 marzo 1980, n. 75 ha disposto (con l'art. 10) che "Il termine per l'opzione di cui all'articolo 6, secondo comma, della legge 29 aprile 1976, n. 177, e' riaperto per centottanta giorni a decorrere dalla data di entrata in vigore della presente legge, anche per coloro che avessero gia' optato per il mantenimento dell'assegno vitalizio."
 
-##### Art. 7
+#### Art. 7
 
 Diritto all'indennita' di buonuscita
 
@@ -126,11 +122,9 @@ Il primo comma dell'articolo 5 del decreto del Presidente della Repubblica 29 di
 
 Le disposizioni di cui al presente articolo si applicano per le cessazioni dal servizio con decorrenza dal 1° gennaio 1976 e successive.
 
-## CAPO III - RIVALUTAZIONE DELLE PENSIONI ANTERIORI ALLA CONCESSIONE
+### CAPO III - RIVALUTAZIONE DELLE PENSIONI ANTERIORI ALLA CONCESSIONE DELL'ASSEGNO PEREQUATIVO O DI INDENNITA' ANALOGHE.
 
-### DELL'ASSEGNO PEREQUATIVO O DI INDENNITA' ANALOGHE.
-
-##### Art. 8
+#### Art. 8
 
 Adeguamento delle pensioni del personale che non ha fruito dell'assegno perequativo o di indennita' analoghe
 
@@ -144,7 +138,7 @@ Alla corresponsione dei benefici previsti dal presente articolo provvedono d'uff
 
 I benefici di cui ai precedenti commi spettano, nelle stesse percentuali e misure, anche alle categorie di pensionati previste dagli articoli 8 e 10 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1081, secondo i criteri indicati negli articoli stessi.
 
-##### Art. 9
+#### Art. 9
 
 Rivalutazione delle pensioni tabellari
 
@@ -154,13 +148,13 @@ Con effetto dal 1° gennaio 1978 le tabelle 2 e 3 indicate nel precedente comma 
 
 Le pensioni di cui al presente articolo non sono soggette alla perequazione automatica prevista dai precedenti articoli 2 e 3.
 
-##### Art. 10
+#### Art. 10
 
 Estensione dei miglioramenti al personale postelegrafonico e telefonico
 
 Il precedente articolo 8 si applica anche ai titolari di pensione a carico del fondo per il trattamento di quiescenza al personale degli uffici locali, ai titolari di agenzia, ai ricevitori ed ai portalettere, di cui all'articolo 77 del decreto del Presidente della Repubblica 5 giugno 1952, n. 656, nonche' ai titolari di assegni integrativi di carattere continuativo a carico della Cassa integrativa di previdenza per il personale telefonico statale, di cui al decreto legislativo 22 gennaio 1947, n. 134. Il relativo onere e' a carico del fondo e della cassa predetti.
 
-##### Art. 11
+#### Art. 11
 
 Effetti dei miglioramenti
 
@@ -170,19 +164,17 @@ ai fini di quanto disposto dall'articolo 7 della legge 10 febbraio 1962, n. 66;
 
 per la determinazione del limite di reddito previsto dall'articolo 6 della legge 25 novembre 1964, n. 1266;
 
-##### Art. 12
+#### Art. 12
 
 Collegamento alla perequazione automatica delle pensioni anteriori alla concessione dell'assegno perequativo ed indennita' analoghe.
 
 Ai fini previsti dagli articoli 2, 3 e 4 della presente legge, le pensioni di cui al precedente articolo 8 si considerano negli importi definitivamente spettanti a completamento della rivalutazione stabilita nello stesso articolo 8.
 
-## CAPO IV - NUOVE NORME SULLA CONTRIBUZIONE
+### CAPO IV - NUOVE NORME SULLA CONTRIBUZIONE E SULLA BASE PENSIONABILE
 
-### E SULLA BASE PENSIONABILE
+## Titolo I - PERSONALE CIVILE E MILITARE DELLO STATO
 
-#### Titolo I - PERSONALE CIVILE E MILITARE DELLO STATO
-
-##### Art. 13
+#### Art. 13
 
 Ritenute in conto entrate Tesoro
 
@@ -224,7 +216,7 @@ AGGIORNAMENTO(6)
 
 La D.L. 2 marzo 1989, n.65 convertito, con modificazioni dalla L. 26 aprile 1989, n. 155 ha disposto (con l'art. 1, comma 1) che " La ritenuta in conto entrata Tesoro prevista dall'articolo 13 della legge 29 aprile 1976, n. 177, come modificato dall'articolo 9 della legge 17 aprile 1985, n. 141, e' fissata nella misura del 6,75 per cento a decorrere dal 1 gennaio 1989, nella misura del 6,95 per cento dal 1 gennaio 1990 e nella misura del 7,15 per cento dal 1 gennaio 1991".
 
-##### Art. 14
+#### Art. 14
 
 Contributi di riscatto
 
@@ -250,7 +242,7 @@ AGGIORNAMENTO (6)
 
 La D.L. 2 marzo 1989, n.65 convertito, con modificazioni dalla L. 26 aprile 1989, n. 155 ha disposto (con l'art. 1, comma 3) che "Per le domande di riscatto, presentate a decorrere dal 1 gennaio 1989, dal 1 gennaio 1990 e dal 1 gennaio 1991 il contributo di cui all'articolo 14, primo comma, della legge 29 aprile 1976, n. 177, come modificato dall'articolo 9 della legge 17 aprile 1985, n. 141, e' fissato, rispettivamente, nelle misure del 6,75, 6,95 e 7,15 per cento".
 
-##### Art. 15
+#### Art. 15
 
 Base pensionabile personale civile
 
@@ -274,7 +266,7 @@ g) assegno personale previsto dall'articolo 202 del decreto del Presidente della
 
 Agli stessi fini, nessun altro assegno o indennita', anche se pensionabile, possono essere considerati se la relativa disposizione di legge non ne preveda espressamente la valutazione nella base pensionabile".
 
-##### Art. 16
+#### Art. 16
 
 Base pensionabile personale militare
 
@@ -294,7 +286,7 @@ Agli stessi fini, nessun altro assegno o indennita', anche se pensionabili, poss
 
 Per l'ufficiale che in tempo di guerra sia stato investito del grado superiore a quello ricoperto all'atto della cessazione dal servizio o delle funzioni organicamente devolute a detto grado superiore con godimento dei relativi assegni, si considerano lo stipendio e gli altri assegni pensionabili inerenti a tale grado".
 
-##### Art. 17
+#### Art. 17
 
 Indennita' mensili per servizio d'istituto e di servizio penitenziario
 
@@ -302,17 +294,17 @@ A partire dal 1° gennaio 1976 la quota pensionabile dell'indennita' mensile per
 
 Nulla e' innovato alla disciplina relativa al computo delle indennita' di aeronavigazione, di volo e di paracadutismo previste dal decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092.
 
-##### Art. 18
+#### Art. 18
 
 ((ARTICOLO ABROGATO DAL D. LGS. 15 MARZO 2010, N. 66))
 
-##### Art. 19
+#### Art. 19
 
 Personale militare richiamato
 
 Nei confronti degli ufficiali richiamati dalla posizione di ausiliaria nonche' degli ufficiali, sottufficiali e militari di truppa provvisti di pensione normale e richiamati in servizio, la riliquidazione del trattamento di quiescenza prevista dagli articoli 55 e 57 del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092, si effettua secondo le disposizioni sulla base pensionabile di cui all'articolo 16 per i casi di collocamento in congedo o in congedo assoluto disposti con decorrenza 1° gennaio 1976. Dalla stessa data sul trattamento di attivita' di servizio va disposta la ritenuta in conto entrate Tesoro di cui all'articolo 13 della presente legge.
 
-##### Art. 20
+#### Art. 20
 
 Limite della pensione
 
@@ -320,7 +312,7 @@ In nessun caso la pensione puo' superare la base pensionabile di cui agli artico
 
 ## Titolo II - PERSONALE DELL'AZIENDA AUTONOMA DELLE FERROVIE DELLO STATO
 
-##### Art. 21
+#### Art. 21
 
 Ritenute per il Fondo pensioni
 
@@ -338,7 +330,7 @@ L'articolo 211, lettera a), del decreto del Presidente della Repubblica 29 dicem
 
 In caso di riduzione dello stipendio la ritenuta ordinaria va commisurata allo stipendio intero".
 
-##### Art. 22
+#### Art. 22
 
 Base pensionabile per il personale ferroviario
 
@@ -354,21 +346,21 @@ c) assegno personale pensionabile.
 
 Per gli effetti del precedente comma si considerano soltanto gli assegni o indennita' previsti come utili ai fini della determinazione della base pensionabile, da disposizioni di legge".
 
-##### Art. 23
+#### Art. 23
 
 Cessazioni dal servizio non anteriori al 1° gennaio 1976
 
 Le disposizioni di cui alla legge 12 febbraio 1974, n. 22, non trovano applicazione nei confronti del personale ferroviario per le cessazioni dal servizio non anteriori al 1° gennaio 1976.
 
-##### Art. 24
+#### Art. 24
 
 Limiti della pensione
 
 In nessun caso la pensione puo' superare la base pensionabile di cui all'articolo 22.
 
-## CAPO V - PENSIONI DEGLI ISTITUTI DI PREVIDENZA
+### CAPO V - PENSIONI DEGLI ISTITUTI DI PREVIDENZA
 
-##### Art. 25
+#### Art. 25
 
 Miglioramenti pensioni anteriori al 1° gennaio 1975
 
@@ -390,7 +382,7 @@ Gli importi di cui ai commi precedenti sono concessi direttamente dalle direzion
 
 Tutti i provvedimenti di variazione delle pensioni a carico delle casse pensioni degli istituti di previdenza sono assoggettati, dai competenti organi, al controllo successivo.
 
-##### Art. 26
+#### Art. 26
 
 Minimi di pensione e di contribuzione
 
@@ -400,9 +392,9 @@ Analogamente ogni anno sono adeguati, ai fini della liquidazione delle pensioni 
 
 Con effetto dal 1° gennaio 1976, per gli iscritti alla Cassa pensioni dipendenti enti locali ed alla Cassa pensioni insegnanti, la retribuzione annua contributiva in nessun caso puo' essere considerata inferiore a lire 400.000, aumentata dell'importo dell'indennita' integrativa speciale di cui all'articolo 1 della legge 27 maggio 1959, n. 324, e successive modificazioni. L'ente si rivale verso il dipendente per il contributo personale riferito alla effettiva retribuzione annua percepita.
 
-## CAPO VI - DISPOSIZIONI FINALI
+### CAPO VI - DISPOSIZIONI FINALI
 
-##### Art. 27
+#### Art. 27
 
 Diritto al trattamento normale di quiescenza
 
@@ -416,13 +408,13 @@ L'articolo 81, primo comma, del decreto del Presidente della Repubblica 29 dicem
 
 Le disposizioni di cui a commi precedenti si applicano per le cessazioni dal servizio successive all'entrata in vigore della presente legge.
 
-##### Art. 28
+#### Art. 28
 
 Servizi ammessi a riscatto
 
 I servizi comunque prestati anteriormente al 1° giugno 1974 nelle categorie di personale di cui all'articolo 2, lettere b) e c) del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092, sprovvisti di iscrizione all'assicurazione generale obbligatoria per la invalidita', la vecchiaia ed i superstiti o a fondi sostitutivi di essa sono computati a domanda mediante riscatto, per il periodo di effettiva prestazione, secondo le disposizioni contenute nell'articolo 14, secondo comma, del decreto medesimo, cosi' come modificato dallo articolo 14 della presente legge.
 
-##### Art. 29
+#### Art. 29
 
 Soppressione dell'assegno di caroviveri
 
@@ -430,7 +422,7 @@ A decorrere dal 1° gennaio 1976 l'assegno di caroviveri di cui all'articolo 96 
 
 Gli assegni di caroviveri spettanti sulle pensioni liquidate o da liquidarsi fino al 31 dicembre 1975 continuano ad essere corrisposti aumentando la pensione del relativo importo.
 
-##### Art. 30
+#### Art. 30
 
 Sussistenza e cessazione delle condizioni previste
 
@@ -438,7 +430,7 @@ L'ultimo comma dell'articolo 86 del decreto del Presidente della Repubblica 29 d
 
 "E' fatto obbligo agli interessati di comunicare alla competente direzione provinciale del tesoro la cessazione delle condizioni che hanno dato luogo all'attribuzione della pensione o dell'assegno alimentare, nonche' il verificarsi di qualsiasi evento che comporti variazione della misura della pensione stessa ovvero soppressione degli assegni accessori".
 
-##### Art. 31
+#### Art. 31
 
 Liquidazione della pensione in caso di morte del pensionato
 
@@ -448,7 +440,7 @@ All'articolo 160 del decreto del Presidente della Repubblica 29 dicembre 1973, n
 
 Gli atti relativi alle concessioni effettuate ai sensi del precedente comma sono inviati alla Corte dei conti per il controllo successivo".
 
-##### Art. 32
+#### Art. 32
 
 Trattamento speciale
 
@@ -460,7 +452,7 @@ Gli atti relativi alle concessioni effettuate ai sensi del precedente comma sono
 
 In favore degli orfani maggiorenni del titolare di pensione privilegiata diretta o di assegno rinnovabile di prima categoria, il trattamento speciale e la pensione privilegiata di riversibilita' previsti dall'articolo 93 sono liquidati dalla direzione provinciale del tesoro che ha in carico la partita di pensione diretta, con l'osservanza delle disposizioni dell'articolo 160, terzo comma".
 
-##### Art. 33
+#### Art. 33
 
 Comunicazione del decreto di pensione
 
@@ -468,7 +460,7 @@ Il primo comma dell'articolo 193 del decreto del Presidente della Repubblica 29 
 
 "Il decreto relativo al trattamento di quiescenza e' comunicato all'interessato a mezzo del servizio postale ovvero e' consegnato dalla direzione provinciale del tesoro direttamente al pensionato che ne rilascia ricevuta, salvo quanto disposto dal precedente articolo 155, quarto comma".
 
-##### Art. 34
+#### Art. 34
 
 Pagamento delle pensioni e degli assegni
 
@@ -478,7 +470,7 @@ All'articolo 197 del decreto del Presidente della Repubblica 29 dicembre 1973, n
 
 Il rappresentante risponde dei danni eventualmente arrecati all'erario a causa della omessa o tardiva comunicazione di cui al precedente comma".
 
-##### Art. 35
+#### Art. 35
 
 Arrotondamento
 
@@ -486,7 +478,7 @@ A decorrere dal 1 gennaio 1976 il primo comma dell'articolo 198 del decreto del 
 
 "L'importo annuo della pensione o dell'assegno rinnovabile e' arrotondato, per eccesso, a lire cinquecento".
 
-##### Art. 36
+#### Art. 36
 
 Copertura finanziaria
 
@@ -494,7 +486,7 @@ All'onere derivante dall'attuazione della presente legge, valutato per l'anno 19
 
 Il Ministro per il tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 37
+#### Art. 37
 
 In nessun caso il livello del trattamento pensionistico considerato dalla presente legge puo' superare il 100 per cento della retribuzione goduta di fatto, ivi incluse le indennita' particolari.
 
@@ -510,9 +502,9 @@ ANDREOTTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-## CAPO VI - DISPOSIZIONI FINALI
+### CAPO VI - DISPOSIZIONI FINALI
 
-##### Tabelle
+#### Tabelle
 
 TABELLA A
 

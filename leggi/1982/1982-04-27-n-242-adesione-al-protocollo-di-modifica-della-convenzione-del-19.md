@@ -25,11 +25,11 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il Presidente della Repubblica e' autorizzato ad aderire al protocollo di modifica della convenzione del 19 maggio 1956 relativa al contratto di trasporto internazionale di merci su strada (CMR), adottato a Ginevra il 5 luglio 1978.
 
-### Art. 2
+## Art. 2
 
 Piena ed intera esecuzione e' data al protocollo di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 4 del protocollo stesso.
 
@@ -45,7 +45,7 @@ Visto, il Guardasigilli: DARIDA
 
 ## Allegati
 
-### Protocole
+## Protocole
 
 PROTOCOLE A LA CONVENTION RELATIVE AU CONTRAT DE TRANSPORT INTERNATIONAL DE MARCHANOTSES PAR ROUTE (CMR)
 
@@ -69,13 +69,13 @@ maggio 1956,
 
 hanno convenuto quanto segue:
 
-### Articolo primo
+## Articolo primo
 
 Ai fini del presente Protocollo, per "Convenzione" si intende la
 
 Convenzione relativa al contratto di trasporto internazionale di merci su strada (CMR).
 
-### Articolo 2
+## Articolo 2
 
 L'articolo 23 della Convenzione viene modificato come segue:
 
@@ -101,7 +101,7 @@ L'unita' monetaria di cui al presente paragrafo corrisponde a 10/31 di grammo or
 
 ## DISPOSIZIONI FINALI
 
-### Articolo 3
+## Articolo 3
 
 1\. Il presente Protocollo sara' aperto alla firma degli Stati
 
@@ -125,7 +125,7 @@ strumento presso il Segretario generale dell'ONU.
 
 successivamente all'entrata in vigore di un emendamento del presente Protocollo nei confronti di tutte le Parti contraenti o dopo aver portato a termine gli adempimenti necessari all'entrata in vigore dell'emendamento nei confronti di dette Parti, dovra' ritenersi applicabile al Protocollo cosi' emendato.
 
-### Articolo 4
+## Articolo 4
 
 1\. Il presente Protocollo entrera' in vigore il 90° giorno dopo che
 
@@ -135,7 +135,7 @@ successivamente all'entrata in vigore di un emendamento del presente Protocollo 
 
 il deposito dello strumento di ratifica o di adesione da parte di 5 Stati, il presente Protocollo entrera' in vigore il 90° giorno dopo il deposito da parte di detto Stato del suo strumento di ratifica o di adesione.
 
-### Articolo 5
+## Articolo 5
 
 1\. Ciascuna Parte contraente potra' denunciare il presente
 
@@ -149,13 +149,13 @@ Segretario generale avra' ricevuto la notifica.
 
 Convenzione cessera' contemporaneamente di essere Parte al presente Protocollo.
 
-### Articolo 6
+## Articolo 6
 
 Qualora, dopo l'entrata in vigore del presente Protocollo, ed in
 
 seguito a denuncie, il numero delle Parti contraenti dovesse essere inferiore a 5, il presente Protocollo cessera' di essere in vigore alla data in cui l'ultima di dette denuncie avra' effetto. Cessera' altresi' di essere in vigore dalla data in cui la Convenzione stessa cessera' di essere in vigore.
 
-### Articolo 7
+## Articolo 7
 
 1\. Ogni Stato potra', al momento del deposito del suo strumento di ratifica o di adesione o successivamente, dichiarare, inviandone notifica al Segretario generale dell'ONU, che il presente Protocollo sara' applicato a tutti o a parte dei territori che rappresenta in campo internazionale e per i quali ha fatto una dichiarazione in conformita' all'articolo 46 della Convenzione.
 
@@ -165,13 +165,13 @@ Il presente Protocollo potra' essere applicato al territorio o ai territori menz
 
 paragrafo, una dichiarazione allo scopo di applicare il presente Protocollo ad un territorio che esso rappresenta in campo internazionale potra', conformemente al precedente articolo 5, denunciare il Protocollo separatamente per quanto concerne detto territorio.
 
-### Articolo 8
+## Articolo 8
 
 Qualunque controversia tra due o piu' Parti contraenti relativa
 
 alla interpretazione o all'applicazione del presente Protocollo che le Parti non siano riuscite a comporre per via di negoziato o per altra via potra' essere portata, a richiesta di una delle Parti contraenti interessate, davanti alla Corte internazionale di giustizia per essere composta.
 
-### Articolo 9
+## Articolo 9
 
 1\. Ciascuna Parte contraente potra', al momento della firma o della
 
@@ -183,7 +183,7 @@ potra' essere ritirata in qualunque momento mediante notifica inviata al Segreta
 
 3\. Non sara' ammessa nessun'altra riserva al presente Protocollo.
 
-### Articolo 10
+## Articolo 10
 
 1\. Tre anni dopo l'entrata in vigore del presente Protocollo, ogni Parte contraente potra' chiedere la convocazione di una Conferenza per la revisione del presente Protocollo inviandone notifica al Segretario generale dell'ONU. Il Segretario generale notifichera' detta richiesta a tutte le Parti contraenti e convochera' una Conferenza di revisione qualora, entro 4 mesi dalla data della notifica da lui inviata, almeno un quarto delle Parti contraenti gli notificheranno il loro consenso a tale richiesta.
 
@@ -197,7 +197,7 @@ Il Segretario generale comunichera' a tutte le Parti contraenti l'ordine del gio
 
 conformita' al presente articolo tutti gli Stati di cui ai paragrafi 1 e 2 dell'articolo 3, nonche' gli Stati divenuti Parti contraenti in applicazione del paragrafo 3 dell'articolo 3 del presente Protocollo.
 
-### Articolo 11
+## Articolo 11
 
 Oltre alle notifiche previste all'articolo 10, il Segretario
 
@@ -225,7 +225,7 @@ g) le dichiarazioni e le notifiche ricevute conformemente ai
 
 paragrafi 1 e 2 dell'articolo 9.
 
-### Articolo 12
+## Articolo 12
 
 Dopo il 31 agosto 1979, l'originale del presente Protocollo verra' depositato presso il Segretario generale dell'ONU, che ne trasmettera' copia certificata conforme a ciascuno Stato di cui ai paragrafi 1, 2 e 3 dell'articolo 3 del presente Protocollo.
 

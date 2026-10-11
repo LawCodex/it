@@ -239,7 +239,7 @@ Nell'applicazione degli articoli 5 a 7 non saranno presi in
 
 considerazione i periodi di assenza temporanea dalla Svezia. Quali assenze temporanee si considerano quelle che non superino i quattro mesi, o, se superiori, che siano giustificate da circostanze speciali. A tale fine si tiene conto della durata del periodo di residenza in Svezia e del motivo dell'assenza.
 
-## CAPITOLO II - Assicurazioni per i casi di malattia, tubercolosi e maternita'
+### CAPITOLO II - Assicurazioni per i casi di malattia, tubercolosi e maternita'
 
 #### Articolo 11
 
@@ -255,7 +255,7 @@ Nei casi previsti dall'art. 11 le prestazioni di malattia o di
 
 tubercolosi sono concesse solo se la malattia o la tubercolosi si e' manifestata posteriormente all'iscrizione o all'ammissione prevista nello stesso articolo.
 
-## CAPITOLO III - Assegni per i figli
+### CAPITOLO III - Assegni per i figli
 
 #### Articolo 13
 
@@ -271,7 +271,7 @@ b) gli assegni speciali ai figli di vedove, di invalidi e di
 
 altri, a condizione che detti figli siano stati domiciliati e civilmente registrati in Svezia per almeno cinque anni consecutivi immediatamente precedenti la data di presentazione della domanda di prestazioni, oppure il padre o il padrigno o la madre abbia diritto alla pensione del popolo o alle prestazioni per vedove o vedovi con figli a carico. Ai fini di quanto precede non si terra' conto delle assenze temporanee dalla Svezia in conformita' all'art. 10.
 
-## CAPITOLO IV - Assicurazione contro gli infortuni sul lavoro e le malattie professionali
+### CAPITOLO IV - Assicurazione contro gli infortuni sul lavoro e le malattie professionali
 
 #### Articolo 14
 
@@ -313,7 +313,7 @@ Se un'impresa, avente sede in uno dei due Paesi, effettua
 
 nell'altro Paese lavori per i quali e' prevista l'assicurazione contro gli infortuni sul lavoro e le malattie professionali, non puo' essere tenuta per tale assicurazione a corrispondere contributi piu' elevati, per il fatto che l'impresa non abbia la propria sede nel Paese in cui i lavori sono effettuati.
 
-## CAPITOLO V - Prestazioni in caso di disoccupazione
+### CAPITOLO V - Prestazioni in caso di disoccupazione
 
 #### Articolo 16
 

@@ -49,7 +49,7 @@ I metalli preziosi e loro titoli legali
 
 ## Capo I
 
-#### Art. 1
+### Art. 1
 
 1\. I metalli preziosi considerati ai fini del presente decreto sono i seguenti: platino, palladio, oro e argento.
 
@@ -97,13 +97,13 @@ I metalli preziosi e loro titoli legali
 
 > Il decreto del Presidente della Repubblica 30 dicembre 1970, n. 1496, reca approvazione del regolamento per l'applicazione della legge 30 gennaio 1968, n. 46, sulla disciplina dei titoli e dei marchi di identificazione dei metalli preziosi.
 
-#### Art. 2
+### Art. 2
 
 1\. I metalli preziosi e le loro leghe devono portare impresso il titolo in millesimi del fino contenuto ed il marchio di identificazione, secondo quanto prescritto dalle norme contenute nei successivi articoli.
 
 2\. E' vietato l'uso di marchi di identificazione diversi da quelli stabiliti dal presente decreto.
 
-#### Art. 3
+### Art. 3
 
 1\. Il titolo del metallo prezioso contenuto nell'oggetto deve essere espresso in millesimi.
 
@@ -129,11 +129,11 @@ c) per gli oggetti in oro eseguiti col metodo della fusione in cera persa, con i
 
 5\. Le modalita' per il riconoscimento delle caratteristiche costruttive dell'oggetto sono fissate dal regolamento di applicazione previsto dall'articolo 27, di seguito denominato regolamento. Tale regolamento indica anche i metodi ufficiali di analisi per la determinazione del titolo, da applicare ai fini del presente decreto, e la misura massima dell'errore ammissibile in sede delle analisi medesime.
 
-#### Art. 4
+### Art. 4
 
 1\. Gli oggetti in metallo prezioso fabbricati e posti in commercio nel territorio della Repubblica debbono essere a titolo legale e portare impresso il titolo stesso ed il marchio di identificazione.
 
-#### Art. 5
+### Art. 5
 
 1\. Gli oggetti in metallo prezioso legalmente prodotti e commercializzati nei Paesi membri dell'Unione europea o dello Spazio economico europeo, per esseri posti in commercio sul territorio della Repubblica, sono esentati dall'obbligo di recare il marchio di identificazione dell'importatore a condizione che rechino l'indicazione del titolo in millesimi e del marchio di responsabilita' previsto dalla normativa del Paese di provenienza, o, in sostituzione di quest'ultimo, di una punzonatura avente un contenuto informativo equivalente a quello del marchio prescritto dal presente decreto e comprensibile per il consumatore finale.
 
@@ -143,13 +143,13 @@ c) per gli oggetti in oro eseguiti col metodo della fusione in cera persa, con i
 
 4\. Al fine di garantire una corretta informazione al consumatore, sono fissate nel regolamento le caratteristiche della tabella di comparazione da esporre in maniera chiara da chiunque vende al dettaglio gli oggetti disciplinati dal presente articolo, che riportano titoli e marchi differenti da quelli previsti per gli oggetti di produzione italiana.
 
-#### Art. 6
+### Art. 6
 
 1\. E' consentita la produzione di oggetti con titoli diversi da quelli stabiliti con il presente decreto sia ai fini dell'esportazione fuori dallo Spazio economico europeo sia di commercializzazione nei Paesi dello Spazio economico europeo, sempreche' tali titoli siano previsti dalla normativa di quel Paese.
 
 ## Capo II - Marchio di identificazione
 
-#### Art. 7
+### Art. 7
 
 1\. Per ottenere il marchio di identificazione, i fabbricanti, gli importatori ed i venditori di metalli preziosi ne fanno richiesta nella domanda prevista dall'articolo 14, comma 2, unendo alla medesima la quietanza di versamento del diritto di saggio e marchio di L. 125.000 se trattasi di aziende artigiane iscritte all'albo delle imprese artigiane o di laboratori annessi ad aziende commerciali e di L. 500.000 se trattasi di aziende industriali. Il diritto e' raddoppiato per quelle aziende industriali che impiegano oltre cento dipendenti.
 
@@ -159,7 +159,7 @@ c) per gli oggetti in oro eseguiti col metodo della fusione in cera persa, con i
 
 4\. Qualora il pagamento non venga effettuato entro l'anno la camera di commercio provvede al ritiro del marchio di identificazione ed alla cancellazione dal registro di cui all'articolo 14, comma 1, dandone comunicazione al questore, affinche' sia provveduto al ritiro della licenza di pubblica sicurezza.
 
-#### Art. 8
+### Art. 8
 
 1\. Le caratteristiche del marchio di identificazione sono indicate nel regolamento.
 
@@ -181,15 +181,15 @@ c) per gli oggetti in oro eseguiti col metodo della fusione in cera persa, con i
 
 10\. Salvo i casi previsti dall'articolo 15, e' fatto divieto di introdurre, all'interno degli oggetti, metalli non preziosi, mastice ed altre sostanze.
 
-#### Art. 9
+### Art. 9
 
 1\. I marchi tradizionali di fabbrica, o sigle particolari, sono ammessi, in aggiunta al marchio di identificazione, ma non devono contenere alcuna indicazione atta a ingenerare equivoci con i titoli ed il marchio medesimo.
 
-#### Art. 10
+### Art. 10
 
 1\. La camera di commercio non oltre due mesi dalla data di presentazione della richiesta di cui all'articolo 14 assegna al richiedente il numero caratteristico del marchio e fa eseguire le matrici recanti le impronte del marchio stesso. Con il regolamento sono definiti criteri e modalita' di stampa delle matrici, tali da garantire sicurezza e uniformita' su tutto il territorio nazionale.
 
-#### Art. 11
+### Art. 11
 
 1\. Le matrici vengono depositate presso le camere di commercio competenti per territorio.
 
@@ -199,7 +199,7 @@ c) per gli oggetti in oro eseguiti col metodo della fusione in cera persa, con i
 
 4\. I marchi di identificazione resi inservibili dall'uso devono essere rimessi alle camere di commercio per la deformazione che viene effettuata con le modalita' previste dal regolamento.
 
-#### Art. 12
+### Art. 12
 
 1\. Non sono soggetti all'obbligo del marchio di identificazione e dell'indicazione del titolo ma devono essere garantiti con le modalita' che saranno stabilite dal regolamento:
 
@@ -241,11 +241,11 @@ l) le leghe saldanti a base argento, platino o palladio.
 
 > L'esercente, che ha comprato cose preziose, non puo' alterarle o alienarle se non dieci giorni dopo l'acquisto, tranne che si tratti di oggetti comprati presso i fondachieri o i fabbricanti ovvero all'asta pubblica.
 
-#### Art. 13
+### Art. 13
 
 1\. I metalli e gli oggetti contenenti metalli disciplinati dal presente decreto possono essere sottoposti a saggio, a richiesta degli interessati, da parte delle camere di commercio, che appongono, sul metallo o sull'oggetto saggiato, apposito marchio con le impronte indicate dal regolamento.
 
-#### Art. 14
+### Art. 14
 
 1\. Presso ogni camera di commercio e' tenuto il registro degli assegnatari dei marchi di identificazione al quale devono iscriversi:
 
@@ -285,11 +285,9 @@ b) coloro che fabbricano od importano oggetti contenenti i metalli di cui alla l
 
 > 4\. E' abrogato l'art. 12 della legge 8 agosto 1985, n. 443.
 
-## Capo III - Oggetti placcati, dorati, argentati
+## Capo III - Oggetti placcati, dorati, argentati e rinforzati o di fabbricazione mista
 
-### e rinforzati o di fabbricazione mista
-
-#### Art. 15
+### Art. 15
 
 1\. E' fatto divieto di imprimere indicazione di titoli in millesimi ed in carati, e comunque di imprimere altre indicazioni che possano ingenerare equivoci, sugli oggetti di metalli differenti da quelli preziosi, anche se dorati, argentati, ovvero placcati.
 
@@ -299,19 +297,17 @@ b) coloro che fabbricano od importano oggetti contenenti i metalli di cui alla l
 
 4\. Per tali oggetti il regolamento stabilisce, altresi', le modalita' con cui le sostanze estranee devono essere, anche quantitativamente, identificate.
 
-## Capo IV - Responsabilita', sistemi di certificazione
+## Capo IV - Responsabilita', sistemi di certificazione vigilanza e sanzioni
 
-### vigilanza e sanzioni
-
-#### Art. 16
+### Art. 16
 
 1\. Il rivenditore risponde verso il compratore dell'esattezza del titolo dichiarato, salvo l'azione di rivalsa.
 
-#### Art. 17
+### Art. 17
 
 1\. I titolari di marchi di identificazione, previa autorizzazione scritta e sotto la propria responsabilita', possono far apporre il proprio marchio di identificazione ad altri soggetti titolari di marchi di identificazione, che partecipano al processo produttivo.
 
-#### Art. 18
+### Art. 18
 
 1\. I laboratori che effettuano il saggio degli oggetti in metallo prezioso e rilasciano le relative certificazioni del titolo devono essere abilitati dalle camere di commercio o appartenere alle stesse o a loro aziende speciali.
 
@@ -333,7 +329,7 @@ c) rispetto del segreto professionale.
 
 5\. La vigilanza ed il controllo sui laboratori abilitati volti a verificare l'osservanza dei suddetti requisiti sono esercitati dalle camere di commercio competenti per territorio, secondo le modalita' stabilite nel regolamento.
 
-#### Art. 19
+### Art. 19
 
 1\. Allo scopo di garantire la conformita' alle disposizioni del presente decreto, sono ammesse certificazioni aggiuntive.
 
@@ -343,7 +339,7 @@ c) rispetto del segreto professionale.
 
 4\. Ai sensi del presente articolo i laboratori e gli organismi di certificazione svolgono periodicamente presso il fabbricante controlli sugli oggetti pronti per la vendita. Le modalita' di tali controlli, mediante prelievi di campioni di oggetti ed i relativi esiti delle analisi di saggio, sono stabilite nel regolamento.
 
-#### Art. 20
+### Art. 20
 
 1\. Agli effetti dell'articolo 57 del codice di procedura penale, il personale delle camere di commercio, durante l'espletamento e nei limiti del servizio per l'applicazione delle norme del presente decreto, sono ufficiali e agenti di polizia giudiziaria.
 
@@ -369,7 +365,7 @@ c) rispetto del segreto professionale.
 
 > 3\. Sono altresi' ufficiali e agenti di polizia giudiziaria, nei limiti del servizio cui sono destinate e secondo le rispettive attribuzioni, le persone alle quali le leggi e i regolamenti attribuiscono le funzioni previste dall'art. 55.
 
-#### Art. 21
+### Art. 21
 
 1\. Il personale della camera di commercio effettua visite ispettive anche non preannunciate. A tal fine ha facolta' di accesso nei locali adibiti alla produzione, al deposito ed alla vendita di materie prime e di oggetti contenenti metalli preziosi, allo scopo di:
 
@@ -383,15 +379,15 @@ c) controllare le caratteristiche di autenticita' dei marchi e la loro perfetta 
 
 3\. Il verbale deve specificare, tra l'altro, il peso, il valore, le caratteristiche ed il marchio di identificazione dell'oggetto e della materia prima lavorata.
 
-#### Art. 22
+### Art. 22
 
 1\. Ai fini dell'articolo 21 i saggi sono eseguiti con i metodi prescritti dal regolamento, non danno luogo ad indennizzo ed i risultati devono essere indicati in appositi certificati.
 
-#### Art. 23
+### Art. 23
 
 1\. I campioni e gli oggetti prelevati per il saggio ed i residui dei campioni e degli oggetti stessi sono restituiti al proprietario se risultano rispondenti a quanto prescritto dal presente decreto.
 
-#### Art. 24
+### Art. 24
 
 1\. E' fatto divieto ai produttori, importatori e commercianti di vendere oggetti in metalli preziosi sprovvisti di marchio di identificazione e di titolo legale.
 
@@ -401,7 +397,7 @@ c) controllare le caratteristiche di autenticita' dei marchi e la loro perfetta 
 
 4\. I semilavorati su cui non e' possibile effettuare la punzonatura del marchio di identificazione e del titolo potranno formare oggetto di scambio solo tra operatori muniti di marchio di identificazione, purche' siano contenuti in involucri sigillati portanti il marchio di identificazione e l'indicazione del titolo.
 
-#### Art. 25
+### Art. 25
 
 1\. Salva l'applicazione delle maggiori pene stabilite dalle leggi vigenti qualora il fatto costituisca reato, per le violazioni delle norme del presente decreto si applicano le seguenti sanzioni:
 
@@ -419,7 +415,7 @@ e) chiunque smarrisce uno o piu' marchi di identificazione e non ne fa immediata
 
 3\. Copia del rapporto concernente taluna delle violazioni alle disposizioni del presente decreto e' trasmessa al Questore.
 
-#### Art. 26
+### Art. 26
 
 1\. Salvo i casi di particolare tenuita', qualora il fatto costituisca reato, alla condanna penale consegue la pubblicazione della sentenza a norma dell'articolo 36 del codice penale.
 
@@ -441,7 +437,7 @@ e) chiunque smarrisce uno o piu' marchi di identificazione e non ne fa immediata
 
 > "Art. 10 (art. 9 testo unico 1926). - Le autorizzazioni di polizia possono essere revocate o sospese in qualsiasi momento, nel caso di abuso della persona autorizzata".
 
-#### Art. 27
+### Art. 27
 
 1\. Entro 6 mesi dalla data di entrata in vigore del presente decreto, con decreto del Presidente della Repubblica, su proposta del Ministro per l'industria, del commercio e dell'artigianato, di concerto con il Ministro dell'interno, previa deliberazione del Consiglio dei Ministri, sentiti il Comitato centrale metrico ed il Consiglio di Stato, sara' emanato il regolamento di applicazione del presente decreto.
 
@@ -451,7 +447,7 @@ e) chiunque smarrisce uno o piu' marchi di identificazione e non ne fa immediata
 
 > \- Per il decreto del Presidente della Repubblica 30 dicembre 1970, n. 1496, vedi note alle premesse.
 
-#### Art. 28
+### Art. 28
 
 1\. Sono abrogate la legge 30 gennaio 1968, n. 46, ed ogni altra disposizione diversa o contraria a quelle contenute nel presente decreto.
 
@@ -459,7 +455,7 @@ e) chiunque smarrisce uno o piu' marchi di identificazione e non ne fa immediata
 
 > \- Per la legge 30 gennaio 1968 n. 46 vedi note alle premesse.
 
-#### Art. 29
+### Art. 29
 
 1\. Fino al prodursi dell'efficacia del decreto del Presidente del Consiglio dei Ministri attuativo del decreto legislativo 31 marzo 1998, n. 112, articoli 20 e 50, le funzioni conferite alle camere di commercio con il presente decreto continuano ad essere esercitate dagli uffici metrici provinciali.
 
@@ -467,7 +463,7 @@ e) chiunque smarrisce uno o piu' marchi di identificazione e non ne fa immediata
 
 > \- Per il decreto legislativo 31 marzo 1998, n. 12, articoli 20 e 50 vedi note alle premesse.
 
-#### Art. 30
+### Art. 30
 
 1\. Il presente decreto entra in vigore sessanta giorni dopo la sua pubblicazione nella Gazzetta Ufficiale.
 

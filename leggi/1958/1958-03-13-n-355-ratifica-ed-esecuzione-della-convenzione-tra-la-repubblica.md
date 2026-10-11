@@ -27,11 +27,11 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la Convenzione tra la Repubblica Italiana ed il Regno Unito di Gran Bretagna ed Irlanda del Nord sulle assicurazioni sociali in Italia e nell'Irlanda del Nord, conclusa in Roma il 29 gennaio 1957.
 
-##### Art. 2
+#### Art. 2
 
 Piena ed intera esecuzione e' data alla Convenzione di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' al disposto dell'articolo 39 della Convenzione stessa.
 
@@ -59,7 +59,7 @@ Desiderosi di attuare questo principio e di provvedere inoltre a che, in certi c
 
 Hanno convenuto quanto segue:
 
-##### Articolo 1
+#### Articolo 1
 
 Ai fini della presente Convenzione:
 
@@ -75,7 +75,7 @@ Ai fini della presente Convenzione:
 
 6\) "pensione di vecchiaia" significa, nei riguardi del Regno Unito, una pensione di vecchiaia o di ritiro dal lavoro quale e' indicata dalla legislazione specificata alla lettera a), numero 1, del paragrafo 1) dell'articolo 2.
 
-##### Articolo 2
+#### Articolo 2
 
 1\. Le disposizioni della presente Convenzione si applicano:
 
@@ -119,7 +119,7 @@ che potranno essere emanati per estendere a nuove categorie di persone i regimi 
 
 ## TITOLO II - DISPOSIZIONI GENERALI
 
-##### Articolo 3
+#### Articolo 3
 
 1\. I cittadini di una delle Parti contraenti sono soggetti agli
 
@@ -127,13 +127,13 @@ obblighi e fruiscono dei benefici della legislazione dell'altra Parte contraente
 
 2\. Salvo quanto stabilito nei capitoli III e IV del titolo III, le disposizioni della presente Convenzione non possono conferire ad una persona qualsiasi diritto di ottenere, per uno stesso periodo, prestazioni della stessa natura dalle legislazioni delle due Parti.
 
-##### Articolo 4
+#### Articolo 4
 
 La presente Convenzione non si applica ai funzionari di ruolo
 
 dipendenti dal Ministero degli Affari Esteri dell'una o dell'altra Parte contraente.
 
-##### Articolo 5
+#### Articolo 5
 
 1\. Salve le disposizioni di cui ai paragrafo 2) del presente
 
@@ -165,7 +165,7 @@ per malattia o lesione professionale determinatesi durante detta occupazione, co
 
 6\. Per l'applicazione dei paragrafi 4) e 5) del presente articolo per prestazioni di maternita' e prestazioni in denaro di maternita' si intendono nei riguardi della legislazione del Regno Unito, le prestazioni di maternita' divise dall'assegno di parto a domicilio.
 
-##### Articolo 6
+#### Articolo 6
 
 Fermo quanto disposto all'art. 4:
 
@@ -181,7 +181,7 @@ c) quando un cittadino dell'una o dell'altra Parte contraente,
 
 cui non si applicano le disposizioni delle lettere a) o b) del presente articolo, sia occupato alle dipendenze degli Uffici diplomatici o consolari di una Parte nel territorio dell'altra, oppure sia ivi al servizio personale di un funzionario diplomatico o consolare della prima Parte, nei suoi confronti si applica la legislazione della Parte nel cui territorio egli e' occupato.
 
-##### Articolo 7
+#### Articolo 7
 
 1\. Ai fini del presente articolo "nave o aeromobile di una (o
 
@@ -213,11 +213,9 @@ impiegato a bordo di una nave o di un aeromobile di una, Parte e che, a seguito 
 
 ## TITOLO III - DISPOSIZIONI SPECIALI
 
-### CAPITOLO I
+### CAPITOLO I - Prestazioni in caso di disoccupazione, di malattia (compresa la tubercolosi) e di maternita'
 
-#### Prestazioni in caso di disoccupazione, di malattia (compresa la tubercolosi) e di maternita'
-
-##### Articolo 8
+#### Articolo 8
 
 1\. I cittadini dell'una o dell'altra Parte contraente, che si
 
@@ -245,9 +243,9 @@ territorio di una Parte in quello dell'altra al solo scopo di essere curati di u
 
 dell'una o dell'altra Parte partorisca nell'uno o nell'altro territorio, le prestazioni in denaro di maternita' diverse, nei riguardi della legislazione del Regno Unito, dall'assegno di parto a domicilio le saranno pagate dall'Organismo di assicurazione della Parte ai sensi della cui legislazione la donna o, nel caso che la prestazione sia richiesta in base all'assicurazione del marito, il marito versa i contributi al momento del parto o verso' per l'ultimo i contributi prima di esso.
 
-## CAPITOLO II - Prestazioni per malattia di lunga durata e di invalidita'
+### CAPITOLO II - Prestazioni per malattia di lunga durata e di invalidita'
 
-##### Articolo 9
+#### Articolo 9
 
 1\. Qualora un cittadino dell'una o dell'altra Parte contraente sia stato assicurato, secondo la legislazione del Regno Unito, per le prestazioni di malattia di lunga durata e, secondo quella della Repubblica italiana, per le prestazioni di invalidita', i periodi durante i quali il cittadino e' stato assicurato e i contributi versati (o accreditati) ai sensi della legislazione dell'una o dell'altra Parte sono sommati, salve le disposizioni di cui all'articolo 22, allo scopo di determinare il diritto alla prestazione.
 
@@ -255,23 +253,23 @@ dell'una o dell'altra Parte partorisca nell'uno o nell'altro territorio, le pres
 
 competente della Parte la cui legislazione si applicava al cittadino al momento in cui la malattia di lunga durata o la sua invalidita' e stata per la prima volta accertata sanitariamente.
 
-##### Articolo 10
+#### Articolo 10
 
 Se, dopo la sospensione o la revoca della prestazione di malattia di lunga durata prevista dalla legislazione del Regno Unito o della pensione di invalidita' prevista dalla legislazione della Repubblica italiana, il cittadino interessato riacquista il diritto alle prestazioni nel termine massimo di un anno il pagamento, della prestazione sara' ripreso dall'Organismo di assicurazione debitore delle prestazioni primitivamente accordate, purche' lo stato di malattia di lunga durata o di invalidita' sia imputabile a quella stessa causa di malattia o di minorazione che aveva precedentemente giustificato l'attribuzione dal la prestazione.
 
-##### Articolo 11
+#### Articolo 11
 
 Un cittadino dell'una o dell'altra Parte contraente, il quale si
 
 trasferisca territorio di una Parte in quello dell'altra e si i beneficiario di una prestazione per malattia di lunga durata prevista dalla legislazione del Regno Unito a seguito di una malattia o di una minorazione riconosciuta cronica prima della sua partenza, Ovvero di una pensione di invalidita' prevista dalla legislazione della Repubblica italiana, conserva il diritto alla prestazione per tutto il tempo in cui egli risiedeva ne secondo territorio, alle stesse condizioni alle quali lo avrebbe conservato nel primo.
 
-##### Articolo 12
+#### Articolo 12
 
 Le Autorita' competenti determineranno di comune accordo le
 
 modalita' per il controllo medico e amministrativo dei beneficiari di una Prestazione per malattia di lunga durata o di una pensione ai sensi nel presente capitolo.
 
-##### Articolo 13
+#### Articolo 13
 
 Agli effetti del presente Titolo "prestazioni per malattia di lunga
 
@@ -283,9 +281,9 @@ b) prestazioni di malattia il cui pagamento e' ripreso secondo le
 
 condizioni stabilite all'articolo 10.
 
-## CAPITOLO III - Pensioni di vecchiaia
+### CAPITOLO III - Pensioni di vecchiaia
 
-##### Articolo 14
+#### Articolo 14
 
 1\. Se un cittadino dell'una o dell'altra Parte contraente, il quale
 
@@ -313,7 +311,7 @@ sara' tenuto conto di quanto stabilito dagli articoli 31, 32 e 33.
 
 4\. Un cittadino dell'una o dell'altra Parte potra' avere diritto a ricevere, ai sensi dei precedenti paragrafi, sia una pensione dall'Organismo di assicurazione di una l'arte, sia pensioni dagli Organismi di assicurazione di ambedue le Parti.
 
-##### Articolo 15
+#### Articolo 15
 
 1\. Un cittadino dell'una o dell'altra Parte contraente che
 
@@ -325,7 +323,7 @@ In tal caso le prestazioni, alle quali egli ha diritto ai sensi della legislazio
 
 opzione tra l'avvalersi delle disposizioni di cui all'articolo 14 e quelle(di cui al presente articolo ogni qualvolta vi abbia interesse.
 
-##### Articolo 16
+#### Articolo 16
 
 1\. Un cittadino dell'una o dell'altra Parte contraente che abbia
 
@@ -335,17 +333,17 @@ diritto a una pensione di vecchiaia acquisita ai sensi della legislazione di una
 
 norme della legislazione del Regno Unito relative ai guadagni di detto cittadino e della propria moglie, saranno applicate in Italia dal competente Organismo italiano di assicurazione.
 
-## CAPITOLO IV - Prestazioni alle vedove e agli orfani
+### CAPITOLO IV - Prestazioni alle vedove e agli orfani
 
-##### Articolo 17
+#### Articolo 17
 
 Le disposizioni che si riferiscono all'assicurazione per la
 
 vecchiaia contenente negli articoli 14 e 16 si applicheranno (con quelle modifiche che potranno essere richieste dalla differente natura delle prestazioni) alla concessione di una pensione alla vedova di un cittadino dell'una o dell'altra Parte contraente e per un orfano di uno o di entrambi i genitori: tuttavia esse non si applicheranno alla concessione di una pensione, secondo la legislazione della Repubblica italiana, ad un cittadino vedovo e per un figlio il cui padre sia vivente.
 
-## CAPITOLO V - Prestazioni in caso di infortunio sul lavoro, di malattia o lesione professionale
+### CAPITOLO V - Prestazioni in caso di infortunio sul lavoro, di malattia o lesione professionale
 
-##### Articolo 18
+#### Articolo 18
 
 1\. Se un cittadino dell'una o dell'altra Parte contraente abbia
 
@@ -355,9 +353,9 @@ diritto ad una prestazione, incluso qualsiasi aumento per essa previsto o qualsi
 
 modalita' per gli accertamenti medici, per il controllo medico ed amministrativo dei beneficiari di una delle suddette prestazioni.
 
-## CAPITOLO VI - Disposizioni relative al pagamento delle prestazioni
+### CAPITOLO VI - Disposizioni relative al pagamento delle prestazioni
 
-##### Articolo 19
+#### Articolo 19
 
 1\. Quando, ai sensi della legislazione di una Parte contraente, il pagamento di una prestazione, o di una maggiorazione di prestazione per persone riconosciute a carico diverse da quelle di cui al successivo paragrafo 2), e subordinato alla residenza di tali persone nel territorio di detta Parte, la stessa prestazione o maggiorazione di prestazione saranno pagate anche se le persone riconosciute a carico si trovino nel territorio dell'altra Parte.
 
@@ -365,7 +363,7 @@ modalita' per gli accertamenti medici, per il controllo medico ed amministrativo
 
 prestazione fossero previste per un bambino, ovvero per una persona riconosciuta a carico che ha cura di un bambino, e subordinate alla residenza del bambino stesso in un territorio, la prestazione o la maggiorazione saranno corrisposte anche se il bambino risieda nell'altro territorio.
 
-##### Articolo 20
+#### Articolo 20
 
 1\. Qualora ai sensi delle disposizioni di cui ai Capitoli II, III IV e V del presente Titolo una prestazione sia pagabile da parte di un Organismo di assicurazione di una Parte contraente ad una persona che si trova nel territorio dell'altra Parte, il pagamento di detta prestazione e' eseguita dal competente Organismo di assicurazione di tale Parte come agente del primo Organismo:
 
@@ -391,7 +389,7 @@ III) rendite per infortunio sul lavoro o malattie professionali (incluse le rend
 
 persona che ha diritto a riceverla, dall'Organismo di assicurazione debitore.
 
-##### Articolo 21
+#### Articolo 21
 
 1\. Le prestazioni di cui al paragrafo 1) lettera a) dell'articolo 20 pagabili, ai sensi dello stesso articolo, in Italia potranno essere pagate, quando non si tratti di somme assunte una tantum, mensilita' posticipate.
 
@@ -399,13 +397,13 @@ persona che ha diritto a riceverla, dall'Organismo di assicurazione debitore.
 
 cui al paragrafo 1) lettera a) dell'articolo 20 pagabili, ai sensi dello stesso articolo, in Italia saranno definite dall'Autorita', competente del Regno Unito dopo che saranno stati espletati quegli accertamenti o quelle indagini che potranno essere ritenuti necessari. La decisione emanata da detta Autorita', senza pregiudizio del diritto a revisione di tale decisione qualora nuovi fatti vengano portati a sua conoscenza, sara' definitiva.
 
-##### Articolo 22
+#### Articolo 22
 
 Nel caso in cui, ai sensi della legislazione dell'una o dell'altra Parte contraente, fossero stati versati (o accreditati) contributi per uno stesso periodo, sara' tenuto conto soltanto, ai fini del paragrafo 1) lettera c) dell'articolo 8, del paragrafo 1) dell'articolo 9 o del paragrafo 1) dell'articolo 14, soltanto dei contributi versati (o accreditati) ai sensi della legislazione della Parte nel cui territorio la persona interessata risiedeva in quel momento.
 
 ## TITOLO IV - DISPOSIZIONI VARIE
 
-##### Articolo 23
+#### Articolo 23
 
 Le Autorita' competenti:
 
@@ -419,13 +417,13 @@ necessarie per l'applicazione della presente Convenzione;
 
 qualsiasi cambiamento avvenuto nella propria legislazione, che abbia influenza sull'applicazione della presente Convenzione.
 
-##### Articolo 24
+#### Articolo 24
 
 Le Autorita' competenti e gli Organismi di assicurazione si
 
 forniranno l'un l'altro assistenza per l'applicazione della presente Convenzione, come se si trattasse dell'applicazione dei propri regimi assicurativi.
 
-##### Articolo 25
+#### Articolo 25
 
 1\. Il beneficio di una qualsiasi esenzione di tasse, imposte o
 
@@ -435,23 +433,23 @@ diritti, previsto dalla legislazione di una Parte contraente rispetto a certific
 
 o dell'altra Parte per quanto concerne la legalizzazione o autenticazione, da parte delle rispettive Autorita' diplomatiche e consolari, di certificati e altri documenti che debbono essere prodotti per l'applicazione della presente Convenzione.
 
-##### Articolo 26
+#### Articolo 26
 
 Qualsiasi domanda, dichiarazione o ricorso che avrebbero dovuto
 
 essere presentati all'Organismo di assicurazione di una Parte contraente, ma che di fatto sono stati presentati all'Organismo di assicurazione dell'altra Parte, saranno considerati come se fossero stati presentati all'Organismo di assicurazione della prima Parte. In tal caso l'Organismo di assicurazione della seconda Parte trasmettera', appena possibile, la domanda, la dichiarazione o il ricorso all'Organismo di assicurazione della prima Parte.
 
-##### Articolo 27
+#### Articolo 27
 
 Le autorita' competenti e gli Organismi di assicurazione potranno corrispondere nella propria lingua ufficiale direttamente fra di loro e con le persone interessate (o i loro legali rappresentanti) per quanto riguarda l'applicazione della presente Convenzione.
 
-##### Articolo 28
+#### Articolo 28
 
 Qualsiasi domanda o documento che un cittadino dell'una o
 
 dell'altra Parte contraente o una delle persone riconosciute a carico, presenta all'Autorita' competente di una di dette Parti o agli Organismi di assicurazione in applicazione della presente Convenzione, potra' essere redatto nella lingua ufficiale dell'altra Parte.
 
-##### Articolo 29
+#### Articolo 29
 
 1\. Gli Organismi di assicurazione, debitori delle prestazioni
 
@@ -461,21 +459,21 @@ previste dalla presente Convenzione, si libereranno validamente dei propri obbli
 
 abbia effettuato, ai sensi della presente Convenzione, il pagamento di una prestazione nella valuta nazionale per conto dell'Organismo di assicurazione dell'altra Parte, tale Organismo potra' ritenersi liberato dalla sua obbligazione verso il primo Organismo quando quest'ultimo sara' stato rimborsato, nella propria valuta, dell'esatto ammontare della prestazione pagata.
 
-##### Articolo 30
+#### Articolo 30
 
 Le Autorita' competenti o gli Organismi di assicurazione possono, in caso di disaccordo circa la competenza per il pagamento di una prestazione prevista, dalla presente Convenzione, effettuare pagamenti provvisori alle persone interessate fino a che la controversia non sia stata risolta.
 
-##### Articolo 31
+#### Articolo 31
 
 Le Autorita' competenti determineranno di comune accordo, salvo le disposizioni di cui all'articolo 32, in qual modo ed entro quale termine le domande e le dichiarazioni relative al ritiro della occupazione possono essere presentate in relazione alle pensioni di vecchiaia cui la presente Convenzione si riferisce, e stabiliranno anche le date dalle quali tali pensioni saranno pagabili.
 
-##### Articolo 32
+#### Articolo 32
 
 Le pensioni di vecchiaia del Regno Unito che, entro i sei mesi
 
 successivi alla data di entrata in vigore della presente Convenzione divengono pagabili per effetto delle disposizioni della stessa Convenzione, saranno corrisposte a partire dalla data nella quale esse divennero pagabili, qualora per esse sia presentata, entro detto periodo, regolare domanda e sia fornita una dichiarazione relativa al ritiro dell'occupazione; nel caso in cui la domanda e la dichiarazione non siano presentate entro detto termine, si applicheranno le disposizioni di cui all'articolo 31.
 
-##### Articolo 33
+#### Articolo 33
 
 1\. Qualora un cittadino dell'una o dell'altra Parte contraente,
 
@@ -501,13 +499,13 @@ avesse lasciato l'anzidetto territorio perche' l'interessato o, nel caso di una 
 
 della legislazione del Regno Unito ha lasciato l'anzidetto territorio prima del 5 luglio 1948 ed ha raggiunto l'eta' pensionabile dopo tale data avra' diritto a che i contributi che furono versati (o accreditati) a suo favore, dopo il 1° luglio 1940, ai sensi della stessa, legislazione, siano presi in considerazione allo scopo di determinare il diritto alla pensione ai sensi della presente Convenzione purche', entro il periodo di copertura stabilito dalla gia' citata legislazione, egli sia divenuto assicurato ed abbia continuato ad esserlo, fino al 5 luglio 1948, ai sensi della legislazione italiana.
 
-##### Articolo 34
+#### Articolo 34
 
 Le disposizioni degli articoli 31, 32 e 33 si applicano alle
 
 prestazioni alle vedove ed agli orfani, salvo quelle modifiche che potranno essere richieste dalla diversa natura di tali prestazioni.
 
-##### Articolo 35
+#### Articolo 35
 
 1\. Nessuna disposizione della presente Convenzione potra' conferire
 
@@ -525,7 +523,7 @@ b) qualsiasi prestazione che sia stata gia' calcolata sara', se necessario, nuov
 
 3\. I periodi per i quali un cittadino dell'una o dell'altra Parte e' stato assicurato e i contributi versati (o accreditati) a suo favore prima della data di entrata in vigore della Convenzione, saranno presi in considerazione per la determinazione del diritto alle prestazioni ai sensi delle disposizioni della Convenzione medesima, salvo quanto disposto nell'articolo 33.
 
-##### Articolo 36
+#### Articolo 36
 
 1\. Le Parti contraenti si adopereranno per risolvere a mezzo di
 
@@ -537,23 +535,23 @@ negoziati qualsiasi questione che possa sorgere nell'interpretazione o sull'appl
 
 dei casi, sara' accettata come definitiva e vincolante.
 
-##### Articolo 37
+#### Articolo 37
 
 Le Parti contraenti concluderanno, se necessario, uno o piu'
 
 accordi basati sui principi della presente Convenzione allo scopo di completare le disposizioni in essa contenute.
 
-##### Articolo 38
+#### Articolo 38
 
 Nel caso in cui la presente Convenzione sia denunciata, i diritti acquisiti da ma persona in conformita' delle disposizioni della Convenzione medesima saranno mantenuti, e negoziati avranno luogo per la definizione di tutti i diritti che siano in corso di acquisizione, a quell'epoca, per effetto di dette disposizioni.
 
-##### Articolo 39
+#### Articolo 39
 
 La presente Convenzione sara' ratificata e gli strumenti di
 
 ratifica saranno scambiati in Londra appena possibile. La Convenzione entrera' in vigore il primo giorno del mese successivo alla data dello scambio degli strumenti di ratifica.
 
-##### Articolo 40
+#### Articolo 40
 
 La presente Convenzione rimarra' in vigore per il periodo di un
 
@@ -579,7 +577,7 @@ Il Ministro per gli affari esteri
 
 PELLA
 
-##### Convention
+#### Convention
 
 Convention between the United Kingdom of Great Britain and Northern Ireland and the Italian Republic on social insurance in Northern
 

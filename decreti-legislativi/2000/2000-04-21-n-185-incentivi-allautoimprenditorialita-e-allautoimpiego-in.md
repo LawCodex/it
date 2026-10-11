@@ -40,19 +40,17 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I - INCENTIVI IN FAVORE DELL'AUTOIMPRENDI-
+## Titolo I - INCENTIVI IN FAVORE DELL'AUTOIMPRENDI- TORIALITA'
 
-### TORIALITA'
+### ((Capo 0I - Misure in favore della nuova imprenditorialita' nei settori della produzione dei beni e dell'erogazione dei servizi))
 
-#### ((Capo 0I - Misure in favore della nuova imprenditorialita' nei settori della produzione dei beni e dell'erogazione dei servizi))
-
-##### Art. 1
+#### Art. 1
 
 ((Principi generali))
 
 ((1. Le disposizioni del presente Capo sono dirette a sostenere in tutto il territorio nazionale la creazione di micro e piccole imprese a prevalente o totale partecipazione giovanile o femminile e a sostenerne lo sviluppo attraverso migliori condizioni per l'accesso al credito.))
 
-##### Art. 2
+#### Art. 2
 
 Benefici
 
@@ -60,7 +58,7 @@ Benefici
 
 2\. I mutui di cui al comma 1 possono essere assistiti dalle garanzie previste dal codice civile e da privilegio speciale, acquisibili nell'ambito degli investimenti da realizzare.
 
-##### Art. 3
+#### Art. 3
 
 Soggetti beneficiari
 
@@ -74,59 +72,53 @@ c) costituite in forma societaria;
 
 d) in cui la compagine societaria sia composta, per oltre la meta' numerica dei soci e di quote partecipazione, da soggetti di eta' compresa tra i 18 ed i 35 anni ovvero da donne.
 
-##### Art. 4
+#### Art. 4
 
 Progetti finanziabili
 
 1\. Possono essere finanziate, secondo i criteri e le modalita' stabiliti con il decreto di cui all'articolo 24 ((...)), le iniziative che prevedano investimenti non superiori a 1.500.000 euro, relative alla produzione di beni nei settori dell'industria, dell'artigianato, della trasformazione dei prodotti agricoli ovvero all'erogazione di servizi in qualsiasi settore, incluse le iniziative nel commercio e nel turismo, nonche' le iniziative relative agli ulteriori settori di particolare rilevanza per lo sviluppo dell'imprenditoria giovanile individuati con il predetto decreto. ((L'importo massimo delle spese ammissibili e' innalzato a 3 milioni di euro per le imprese costituite da almeno trentasei mesi e da non oltre sessanta mesi. Sono fatte salve le limitazioni derivanti dall'applicazione della disciplina europea in materia di aiuti di Stato di riferimento.))
 
-##### Art. 4-bis
+#### Art. 4-bis
 
 ((Risorse finanziarie disponibili))
 
 ((1. La concessione delle agevolazioni di cui al presente Capo e' disposta a valere sulle disponibilita' del Fondo rotativo previsto dall'articolo 4 del decreto 30 novembre 2004, pubblicato nella Gazzetta Ufficiale n. 14 del 19 gennaio 2005, del Ministro dell'economia e delle finanze, derivanti dai rientri dei mutui concessi ai sensi del presente decreto. Le predette disponibilita' possono essere incrementate da eventuali ulteriori risorse derivanti dalla programmazione nazionale e comunitaria.))
 
-##### Art. 4-ter
+#### Art. 4-ter
 
 (( (Cumulo). ))
 
 ((1. Le agevolazioni di cui al presente Capo possono essere cumulate con altri aiuti di Stato anche de minimis, nei limiti previsti dalla disciplina europea in materia di aiuti di Stato di riferimento.))
 
-## Capo I - Misure in favore della nuova imprenditorialita' nei settori
+### Capo I - Misure in favore della nuova imprenditorialita' nei settori della produzione dei beni e dei servizi alle imprese. ((CAPO ABROGATO DAL D.L. 23 DICEMBRE 2013, N. 145, CONVERTITO CON MODIFICAZIONI DALLA L. 21 FEBBRAIO 2014, N. 9))
 
-### della produzione dei beni e dei servizi alle imprese.
-
-#### ((CAPO ABROGATO DAL D.L. 23 DICEMBRE 2013, N. 145, CONVERTITO CON MODIFICAZIONI DALLA L. 21 FEBBRAIO 2014, N. 9))
-
-##### Art. 5
+#### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.L. 23 DICEMBRE 2013, N. 145, CONVERTITO CON MODIFICAZIONI DALLA L. 21 FEBBRAIO 2014, N. 9))
 
-##### Art. 6
+#### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.L. 23 DICEMBRE 2013, N. 145, CONVERTITO CON MODIFICAZIONI DALLA L. 21 FEBBRAIO 2014, N. 9))
 
-## Capo II - Misure in favore della nuova imprenditorialita' nel settore dei servizi
+### Capo II - Misure in favore della nuova imprenditorialita' nel settore dei servizi ((CAPO ABROGATO DAL D.L. 23 DICEMBRE 2013, N. 145, CONVERTITO CON MODIFICAZIONI DALLA L. 21 FEBBRAIO 2014, N. 9))
 
-### ((CAPO ABROGATO DAL D.L. 23 DICEMBRE 2013, N. 145, CONVERTITO CON MODIFICAZIONI DALLA L. 21 FEBBRAIO 2014, N. 9))
-
-##### Art. 7
+#### Art. 7
 
 ((ARTICOLO ABROGATO DAL D.L. 23 DICEMBRE 2013, N. 145, CONVERTITO CON MODIFICAZIONI DALLA L. 21 FEBBRAIO 2014, N. 9))
 
-##### Art. 8
+#### Art. 8
 
 ((ARTICOLO ABROGATO DAL D.L. 23 DICEMBRE 2013, N. 145, CONVERTITO CON MODIFICAZIONI DALLA L. 21 FEBBRAIO 2014, N. 9))
 
-## ((CAPO III - MISURE IN FAVORE DELLO SVILUPPO DELL'IMPRENDITORIALITA' IN AGRICOLTURA E DEL RICAMBIO GENERAZIONALE))
+### ((CAPO III - MISURE IN FAVORE DELLO SVILUPPO DELL'IMPRENDITORIALITA' IN AGRICOLTURA E DEL RICAMBIO GENERAZIONALE))
 
-##### Art. 9 - Principi generali
+#### Art. 9 - Principi generali
 
 1\. Le disposizioni del presente capo sono dirette a sostenere in tutto il territorio nazionale le imprese agricole a prevalente o totale partecipazione giovanile ((o femminile)), a favorire il ricambio generazionale in agricoltura e a sostenerne lo sviluppo attraverso migliori condizioni per l'accesso al credito.
 
 2\. La concessione delle misure di cui al presente capo e' subordinata all'autorizzazione della Commissione europea ai sensi dell'articolo 108, paragrafo 3, del Trattato sul funzionamento dell'Unione europea.
 
-##### Art. 10 - Benefici
+#### Art. 10 - Benefici
 
 ((1. Ai soggetti ammessi alle agevolazioni di cui al presente capo possono essere concessi mutui agevolati per gli investimenti, a un tasso pari a zero, della durata massima di dieci anni comprensiva del periodo di preammortamento e di importo non superiore al 60 per cento della spesa ammissibile, nonche' un contributo a fondo perduto fino al 35 per cento della spesa ammissibile. Per le iniziative nel settore della produzione agricola il mutuo agevolato ha una durata, comprensiva del periodo di preammortamento, non superiore a quindici anni)).
 
@@ -142,7 +134,7 @@ E' stato ripristinato il testo gia' in vigore dal 13-08-2017 a seguito della mod
 
 medesimo.
 
-##### Art. 10-bis - Soggetti beneficiari
+#### Art. 10-bis - Soggetti beneficiari
 
 1\. Possono beneficiare delle agevolazioni di cui al presente capo le imprese, in qualsiasi forma costituite, che subentrino nella conduzione di un'intera azienda agricola, esercitante esclusivamente l'attivita' agricola ai sensi dell'articolo 2135 del codice civile da almeno due anni alla data di presentazione della domanda di agevolazione, e presentino progetti per lo sviluppo o il consolidamento dell'azienda agricola attraverso iniziative nel settore agricolo e in quello della trasformazione e commercializzazione di prodotti agricoli.
 
@@ -156,37 +148,35 @@ b) esercitino esclusivamente l'attivita' agricola ai sensi dell'articolo 2135 de
 
 3\. Possono altresi' beneficiare delle agevolazioni di cui al presente capo le imprese che presentino progetti per lo sviluppo o il consolidamento di iniziative nei settori della produzione e della trasformazione e commercializzazione di prodotti agricoli, attive da almeno due anni alla data di presentazione della domanda di agevolazione. Tali imprese devono essere in possesso dei requisiti di cui al comma 2, lettere b) e c).
 
-##### Art. 10-ter
+#### Art. 10-ter
 
 (( (Progetti finanziabili).))
 
 ((1. Possono essere finanziate, nei limiti delle risorse di cui all'articolo 10-quater, secondo i criteri e le modalita' stabiliti con decreto di natura non regolamentare del Ministro dell'economia e delle finanze, di concerto con il Ministro delle politiche agricole alimentari e forestali, da emanare entro sessanta giorni dalla data di entrata in vigore della presente disposizione, e nei limiti stabiliti dall'Unione europea, le iniziative che prevedano investimenti non superiori a euro 1.500.000, nei settori della produzione e della trasformazione e commercializzazione dei prodotti agricoli.))
 
-##### Art. 10-quater
+#### Art. 10-quater
 
 (( (Risorse finanziarie disponibili).))
 
 ((1. La concessione delle agevolazioni di cui al presente capo e' disposta, con le modalita' previste dal decreto di cui all'articolo 10-ter, comma 1, a valere sulle risorse di cui al punto 2 della delibera del Comitato interministeriale per la programmazione economica n. 62/2002 del 2 agosto 2002, pubblicata nella Gazzetta Ufficiale n. 261 del 7 novembre 2002. Le predette disponibilita' possono essere incrementate da eventuali ulteriori risorse derivanti dalla programmazione nazionale ed europea)).
 
-## Capo IV - Misure in favore delle cooperative sociali
+### Capo IV - Misure in favore delle cooperative sociali ((CAPO ABROGATO DAL D.L. 23 DICEMBRE 2013, N. 145, CONVERTITO CON MODIFICAZIONI DALLA L. 21 FEBBRAIO 2014, N. 9))
 
-### ((CAPO ABROGATO DAL D.L. 23 DICEMBRE 2013, N. 145, CONVERTITO CON MODIFICAZIONI DALLA L. 21 FEBBRAIO 2014, N. 9))
-
-##### Art. 11
+#### Art. 11
 
 ((ARTICOLO ABROGATO DAL D.L. 23 DICEMBRE 2013, N. 145, CONVERTITO CON MODIFICAZIONI DALLA L. 21 FEBBRAIO 2014, N. 9))
 
-##### Art. 12
+#### Art. 12
 
 ((ARTICOLO ABROGATO DAL D.L. 23 DICEMBRE 2013, N. 145, CONVERTITO CON MODIFICAZIONI DALLA L. 21 FEBBRAIO 2014, N. 9))
 
-##### Art. 12-bis
+#### Art. 12-bis
 
 ((ARTICOLO ABROGATO DAL D.L. 23 DICEMBRE 2013, N. 145, CONVERTITO CON MODIFICAZIONI DALLA L. 21 FEBBRAIO 2014, N. 9))
 
 ## Titolo II - INCENTIVI IN FAVORE DELL'AUTOIMPIEGO
 
-##### Art. 13
+#### Art. 13
 
 Principi generali
 
@@ -198,7 +188,7 @@ a) a favorire l'inserimento nel mondo del lavoro di soggetti privi di occupazion
 
 b) a qualificare la professionalita' dei soggetti beneficiari e promuovere la cultura d'impresa.
 
-##### Art. 14
+#### Art. 14
 
 Ambito territoriale di applicazione
 
@@ -208,7 +198,7 @@ Ambito territoriale di applicazione
 
 > \- Per il testo della lettera c), paragrafo 3, dell'art. 87 del Trattato di Roma e per il testo del decreto del Ministro del lavoro e della previdenza sociale del 14 marzo 1995, si veda in note all'art. 2.
 
-##### Art. 15
+#### Art. 15
 
 Benefici
 
@@ -222,15 +212,15 @@ c) assistenza tecnica in fase di realizzazione degli investimenti e di avvio del
 
 2\. I benefici finanziari di cui al comma 1 sono concessi entro il limite del de minimis individuato in base alle vigenti disposizioni comunitarie.
 
-##### Art. 16
+#### Art. 16
 
 G a r a n z i e
 
 1\. La realizzazione e gestione delle iniziative agevolate sono assistite da idonee garanzie anche assicurative relative ai beni ed alle attivita' oggetto di finanziamento.
 
-## Capo I - Misure in favore del lavoro autonomo
+### Capo I - Misure in favore del lavoro autonomo
 
-##### Art. 17
+#### Art. 17
 
 Soggetti beneficiari
 
@@ -252,7 +242,7 @@ f) gli artigiani.
 
 3\. Le iniziative agevolate devono avere sede amministrativa ed operativa nei territori di cui all'articolo 14.
 
-##### Art. 18
+#### Art. 18
 
 Progetti finanziabili
 
@@ -266,9 +256,9 @@ a) prevedono investimenti superiori a lire 50 milioni al netto dell'IVA;
 
 b) si riferiscono a settori esclusi o sospesi dal CIPE o da disposizioni comunitarie.
 
-## Capo II - Misure in favore dell'autoimpiego in forma di microimpresa
+### Capo II - Misure in favore dell'autoimpiego in forma di microimpresa
 
-##### Art. 19
+#### Art. 19
 
 Soggetti beneficiari
 
@@ -278,7 +268,7 @@ Soggetti beneficiari
 
 3\. La presente disposizione non si applica alle ditte individuali, alle societa' di capitali, alle societa' di fatto ed alle societa' aventi un unico socio.
 
-##### Art. 20
+#### Art. 20
 
 Progetti finanziabili
 
@@ -290,9 +280,9 @@ a) prevedono investimenti complessivamente superiori a lire 250 milioni al netto
 
 b) si riferiscono ai settori della produzione di beni in agricoltura, del commercio, nonche' ai settori esclusi o sospesi dal CIPE o da disposizioni comunitarie.
 
-## Capo III - Misure in favore dell'autoimpiego in franchising
+### Capo III - Misure in favore dell'autoimpiego in franchising
 
-##### Art. 21
+#### Art. 21
 
 Soggetti beneficiari
 
@@ -304,7 +294,7 @@ Soggetti beneficiari
 
 4\. La presente disposizione non si applica alle societa' di fatto ed alle societa' aventi scopi mutualistici.
 
-##### Art. 22
+#### Art. 22
 
 Progetti finanziabili
 
@@ -314,7 +304,7 @@ Progetti finanziabili
 
 ## Titolo III - DISPOSIZIONI COMUNI TRANSITORIE E FINALI
 
-##### Art. 23
+#### Art. 23
 
 Disposizioni di attuazione
 
@@ -332,7 +322,7 @@ Disposizioni di attuazione
 
 ((4-ter. Per l'attuazione degli interventi di cui al Titolo I, Capo III si applica il decreto 28 dicembre 2006, pubblicato nella Gazzetta Ufficiale n. 5 dell'8 gennaio 2007, del Ministro delle politiche agricole alimentari e forestali, di concerto con il Ministro dell'economia e delle finanze, e successive modificazioni.))
 
-##### Art. 24
+#### Art. 24
 
 Criteri e modalita' per la concessione delle agevolazioni
 
@@ -340,7 +330,7 @@ Criteri e modalita' per la concessione delle agevolazioni
 
 2\. Le disposizioni del presente articolo si applicano nel limite delle competenze statali ai sensi degli articoli 18 e 19 del decreto legislativo 31 marzo 1998, n. 112.
 
-##### Art. 25
+#### Art. 25
 
 Disposizioni finanziarie
 
@@ -368,13 +358,13 @@ Disposizioni finanziarie
 
 > "2. Il Ministro del lavoro e della previdenza sociale puo' destinare una quota fino a lire 100 miliardi per l'anno 2000, nell'ambito delle disponibilita' del Fondo di cui all'art. 1, comma 7, del decreto-legge 20 maggio 1993, n. 148, convertito, con modificazioni, dalla legge 19 luglio 1993, n. 236, agli interventi di promozione del lavoro autonomo di cui all'art. 9-septies del decreto-legge 1o ottobre 1996, n. 510, convertito, con modificazioni, dalla legge 28 novembre 1996, n. 608".
 
-##### Art. 26
+#### Art. 26
 
 Disposizioni generali
 
 1\. Il Ministro del tesoro, del bilancio e della programmazione economica presenta annualmente al Parlamento una relazione sull'attuazione delle misure incentivanti previste dal presente decreto.
 
-##### Art. 27
+#### Art. 27
 
 Disposizioni transitorie
 

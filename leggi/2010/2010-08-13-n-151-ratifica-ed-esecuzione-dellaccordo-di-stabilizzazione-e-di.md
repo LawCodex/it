@@ -387,7 +387,7 @@ i suddetti dazi ridotti sostituiranno il dazio di base di cui al paragrafo 4 a d
 
 2\) Gazzetta ufficiale della Serbia 62/2005 e 61/2007.
 
-## CAPITOLO I - PRODOTTI INDUSTRIALI
+### CAPITOLO I - PRODOTTI INDUSTRIALI
 
 ##### ARTICOLO 19
 
@@ -433,7 +433,7 @@ La Serbia si dichiara disposta a ridurre i suoi dazi doganali nei confronti dell
 
 Il CSA valuta la situazione e formula le raccomandazioni del caso.
 
-## CAPITOLO II - AGRICOLTURA E PESCA
+### CAPITOLO II - AGRICOLTURA E PESCA
 
 ##### ARTICOLO 24
 
@@ -547,7 +547,7 @@ dei prodotti della pesca e dei prodotti alimentari diversi da vini e bevande alc
 
 1\) GU L 93 del 31.3.2006, pag. 12. Regolamento modificato dal regolamento (CE) n. 1791/2006 (GU L 363 del 20.12.2006, pag. 1).
 
-## CAPITOLO III - DISPOSIZIONI COMUNI
+### CAPITOLO III - DISPOSIZIONI COMUNI
 
 ##### ARTICOLO 34
 
@@ -715,9 +715,7 @@ L'applicazione del presente accordo non pregiudica l'applicazione delle disposiz
 
 ## TITOLO V - CIRCOLAZIONE DEI LAVORATORI, STABILIMENTO, PRESTAZIONE DI SERVIZI, CAPITALI
 
-### CAPITOLO I
-
-#### CIRCOLAZIONE DEI LAVORATORI
+### CAPITOLO I - CIRCOLAZIONE DEI LAVORATORI
 
 ##### ARTICOLO 49
 
@@ -751,7 +749,7 @@ c) ai lavoratori in questione sono versati gli assegni familiari per i membri de
 
 2\. La Serbia concede ai lavoratori cittadini di uno Stato membro legalmente occupati nel suo territorio e ai loro familiari legalmente residenti nel suo territorio un trattamento analogo a quello specificato al paragrafo 1, lettere b) e c).
 
-## CAPITOLO II - STABILIMENTO
+### CAPITOLO II - STABILIMENTO
 
 ##### ARTICOLO 52
 
@@ -861,7 +859,7 @@ a) detti rappresentanti non procedano a vendite dirette, non forniscano servizi 
 
 b) la sede principale della societa' si trovi rispettivamente al di fuori della Comunita' e della Serbia e non esistano altri rappresentanti, uffici, filiali o consociate della societa' rispettivamente nello Stato membro o in Serbia.
 
-## CAPITOLO III - PRESTAZIONE DI SERVIZI
+### CAPITOLO III - PRESTAZIONE DI SERVIZI
 
 ##### ARTICOLO 59
 
@@ -903,7 +901,7 @@ c) ciascuna Parte concede, tra l'altro, alle navi gestite da cittadini o compagn
 
 7\. A mano a mano che le Parti progrediscono nel conseguimento degli obiettivi del presente capitolo, il consiglio di stabilizzazione e di associazione esamina in qual modo si possa migliorare la libera prestazione dei servizi di trasporto aereo, terrestre e fluviale.
 
-## CAPITOLO IV - PAGAMENTI CORRENTI E MOVIMENTI DI CAPITALI
+### CAPITOLO IV - PAGAMENTI CORRENTI E MOVIMENTI DI CAPITALI
 
 ##### ARTICOLO 62
 
@@ -933,7 +931,7 @@ Le Parti si impegnano ad autorizzare, in conformita' delle disposizioni dell'art
 
 2\. Entro la fine del quarto anno successivo all'entrata in vigore del presente accordo, il consiglio di stabilizzazione e di associazione stabilisce le modalita' per la completa applicazione in Serbia delle norme comunitarie in materia di circolazione dei capitali.
 
-## CAPITOLO V - DISPOSIZIONI DI CARATTERE GENERALE
+### CAPITOLO V - DISPOSIZIONI DI CARATTERE GENERALE
 
 ##### ARTICOLO 65
 
@@ -3505,7 +3503,7 @@ c) non pregiudicano le disposizioni che disciplinano la comunicazione, tra i ser
 
 3\. Per quanto riguarda le questioni relative all'applicabilita' del presente protocollo, le Parti si consultano per trovare una soluzione in sede di comitato di stabilizzazione e di associazione istituito dall'articolo 119 del presente accordo.
 
-## CAPITOLO I - OBIETTIVO E AMBITO DI APPLICAZIONE
+### CAPITOLO I - OBIETTIVO E AMBITO DI APPLICAZIONE
 
 PROTOCOLLO 7
 
@@ -3539,11 +3537,9 @@ c) Titolo VI Ravvicinamento, applicazione delle legislazioni e regole di concorr
 
 \- Articoli 75, paragrafo 2 (proprieta' intellettuale, industriale e commerciale), e 76, paragrafo 1, paragrafo 2, primo comma, e 3-6 (appalti pubblici).
 
-## CAPITOLO II - PROCEDURE DI COMPOSIZIONE DELLE CONTROVERSIE
+### CAPITOLO II - PROCEDURE DI COMPOSIZIONE DELLE CONTROVERSIE
 
-### SEZIONE I
-
-#### PROCEDURA DI ARBITRATO
+#### SEZIONE I - PROCEDURA DI ARBITRATO
 
 ##### ARTICOLO 3
 
@@ -3589,7 +3585,7 @@ Lodo del collegio arbitrale
 
 5\. Su richiesta di entrambe le Parti, il collegio arbitrale puo' sospendere i lavori in qualsiasi momento per un periodo non superiore a 12 mesi. Una volta scaduti i 12 mesi, decade la facolta' di costituire il collegio, fermo restando il diritto per la Parte ricorrente di chiedere successivamente la costituzione di un collegio per la stessa misura.
 
-## SEZIONE II - APPLICAZIONE DEL LODO ARBITRALE
+#### SEZIONE II - APPLICAZIONE DEL LODO ARBITRALE
 
 ##### ARTICOLO 6
 
@@ -3641,7 +3637,7 @@ Esame delle misure prese per ottemperare al lodo del collegio arbitrale dopo la 
 
 3\. Qualora non sia possibile ricostituire, interamente o in parte, il collegio arbitrale originale, si applicano le procedure di cui all'articolo 4. Anche in questo caso, il lodo deve essere notificato entro 45 giorni dalla costituzione del collegio.
 
-## SEZIONE III - DISPOSIZIONI COMUNI
+#### SEZIONE III - DISPOSIZIONI COMUNI
 
 ##### ARTICOLO 11
 
@@ -3669,7 +3665,7 @@ Lodi e decisioni del collegio arbitrale
 
 2\. Tutti i lodi del collegio arbitrale sono vincolanti per le Parti e vengono notificati alle Parti e al comitato di stabilizzazione e di associazione, che li mette a disposizione del pubblico, a meno che non decida all'unanimita' di non divulgarli.
 
-## CAPITOLO III - DISPOSIZIONI DI CARATTERE GENERALE
+### CAPITOLO III - DISPOSIZIONI DI CARATTERE GENERALE
 
 ##### ARTICOLO 15
 

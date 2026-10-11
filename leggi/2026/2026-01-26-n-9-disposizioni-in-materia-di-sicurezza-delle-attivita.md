@@ -30,7 +30,7 @@ la seguente legge:
 
 ## Capo I - Politiche della dimensione subacquea
 
-##### Art. 1
+#### Art. 1
 
 Ambito di applicazione delle attivita'
 
@@ -56,7 +56,7 @@ della dimensione subacquea
 
 > Nessuno puo' essere obbligato a un determinato trattamento sanitario se non per disposizione di legge. La legge non puo' in nessun caso violare i limiti imposti dal rispetto della persona umana.».
 
-##### Art. 2
+#### Art. 2
 
 Definizioni
 
@@ -200,7 +200,7 @@ u) «attivita' di ricerca subacquea»: le attivita' volte allo sviluppo di conos
 
 > 1-bis. La Marina militare promuove le attivita' per la valorizzazione delle potenzialita' e della competitivita' del settore della subacquea nazionale, per la promozione delle connesse attivita' di ricerca e tecnico-scientifiche nonche' per il potenziamento delle innovazioni e della relativa proprieta' intellettuale. A tale fine, con decreto del Ministro della difesa, di concerto con i Ministri delle imprese e del made in Italy, dell'universita' e della ricerca e dell'Autorita' politica delegata per le politiche del mare, e' istituito e disciplinato il Polo nazionale della subacquea.».
 
-##### Art. 3
+#### Art. 3
 
 Competenze del Presidente del Consiglio dei ministri
 
@@ -212,7 +212,7 @@ Competenze del Presidente del Consiglio dei ministri
 
 ## Capo II - Agenzia per la sicurezza delle attività subacquee
 
-##### Art. 4
+#### Art. 4
 
 Agenzia per la sicurezza delle attivita' subacquee
 
@@ -240,7 +240,7 @@ L'Agenzia puo', altresi', avvalersi di apposite articolazioni della Marina milit
 
 > «Art. 1 (La rappresentanza, il patrocinio e l'assistenza in giudizio delle Amministrazioni dello Stato, anche se organizzate ad ordinamento autonomo, spettano all'Avvocatura dello Stato). - Gli avvocati dello Stato esercitano le loro funzioni innanzi a tutte le giurisdizioni ed in qualunque sede e non hanno bisogno di mandato, neppure nei casi nei quali le norme ordinarie richiedono il mandato speciale, bastando che consti della loro qualita'.».
 
-##### Art. 5
+#### Art. 5
 
 Organizzazione dell'Agenzia
 
@@ -294,7 +294,7 @@ c) l'istituzione di eventuali sedi secondarie.
 
 > 4-ter. Con regolamenti da emanare ai sensi del comma 1 del presente articolo, si provvede al periodico riordino delle disposizioni regolamentari vigenti, alla ricognizione di quelle che sono state oggetto di abrogazione implicita e all'espressa abrogazione di quelle che hanno esaurito la loro funzione o sono prive di effettivo contenuto normativo o sono comunque obsolete.».
 
-##### Art. 6
+#### Art. 6
 
 Funzioni dell'Agenzia
 
@@ -344,7 +344,7 @@ v) concorre nella regolazione del libretto personale informatico degli operatori
 
 > \- Il decreto legislativo 2 gennaio 2018, n. 1, recante: «Codice della protezione civile», e' pubblicato nella Gazzetta Ufficiale n. 17 del 22 gennaio 2018.
 
-##### Art. 7
+#### Art. 7
 
 Norme di contabilita'
 
@@ -370,7 +370,7 @@ b) il bilancio consuntivo e la relazione della Corte dei conti sono trasmessi al
 
 2-bis. ((Nelle more dell'entrata in vigore del regolamento di cui al comma 2, per la copertura finanziaria degli oneri necessari alla prima operativita', all'organizzazione, al funzionamento e al perseguimento dei fini istituzionali previsti dalla presente legge, il direttore generale dell'Agenzia e' autorizzato ad utilizzare le risorse disponibili a legislazione vigente.))
 
-##### Art. 8
+#### Art. 8
 
 Personale
 
@@ -404,7 +404,7 @@ f) le modalita' applicative delle disposizioni del codice della proprieta' indus
 
 > \- Per il testo dell'articolo 17 della legge 23 agosto 1988, n. 400 si vedano le note all'articolo 5.
 
-##### Art. 9
+#### Art. 9
 
 Relazione annuale
 
@@ -412,11 +412,9 @@ Relazione annuale
 
 ## Capo III - Navigazione subacquea, mezzi e infrastrutture subacquee
 
-### Sezione I
+### Sezione I - Autorizzazioni e comunicazioni
 
-#### Autorizzazioni e comunicazioni
-
-##### Art. 10
+#### Art. 10
 
 Gestione delle interferenze nella dimensione subacquea
 
@@ -534,7 +532,7 @@ d) siano idonee a determinare la manomissione, il danneggiamento o la distruzion
 
 > m) cura la vendita dei propri dati e prodotti anche attraverso rivenditori ufficiali.».
 
-##### Art. 11
+#### Art. 11
 
 Comunicazione dei titoli abilitativi
 
@@ -542,7 +540,7 @@ relativi alla dimensione subacquea
 
 1\. Al fine di consentire all'Agenzia di avere un quadro conoscitivo completo delle attivita' subacquee per svolgere le funzioni di prevenzione delle interferenze di cui all'articolo 10, le amministrazioni competenti trasmettono all'Agenzia immediatamente e, comunque, entro il termine di cinque giorni dalla loro adozione, i provvedimenti abilitativi e regolatori relativi allo svolgimento delle attivita' di superficie e della dimensione subacquea di propria competenza.
 
-##### Art. 12
+#### Art. 12
 
 Cooperazione informativa
 
@@ -656,9 +654,9 @@ Cooperazione informativa
 
 > 10\. L'organizzazione e il funzionamento dell'AISI sono disciplinati con apposito regolamento.».
 
-## Sezione II - Infrastrutture subacquee
+### Sezione II - Infrastrutture subacquee
 
-##### Art. 13
+#### Art. 13
 
 Sicurezza delle infrastrutture subacquee
 
@@ -702,15 +700,15 @@ e) concorrere a definire, in merito ad aspetti di sicurezza afferenti alle attiv
 
 > 9\. Le Regioni, nei limiti della propria potesta' legislativa, definiscono provvedimenti con finalita' analoghe a quanto previsto dal presente articolo in relazione alle emergenze di cui all'articolo 7, comma 1, lettera b).».
 
-## Sezione III - Mezzi subacquei
+### Sezione III - Mezzi subacquei
 
-##### Art. 14
+#### Art. 14
 
 Soccorso a mezzi subacquei civili sinistrati
 
 1\. Ferme restando le competenze stabilite dalla normativa vigente per il coordinamento della ricerca e il soccorso in mare e le specifiche capacita' per il soccorso ai sommergibili militari sinistrati, l'Agenzia, avvalendosi della Marina militare, del Comando generale delle Capitanerie di porto, del Corpo nazionale dei vigili del fuoco e del Comando generale della Guardia di finanza sulla base di convenzioni non onerose concluse a valere sulle risorse umane, strumentali e finanziarie disponibili a legislazione vigente, promuove lo sviluppo della capacita' nazionale di soccorso ed estrazione di persone da mezzi subacquei civili sinistrati.
 
-##### Art. 15
+#### Art. 15
 
 Caratteristiche dei mezzi subacquei
 
@@ -720,7 +718,7 @@ Caratteristiche dei mezzi subacquei
 
 L'Agenzia, con provvedimento adottato ai sensi del comma 1, definisce le procedure di verifica della idoneita' all'utilizzo di cui al precedente periodo.
 
-##### Art. 16
+#### Art. 16
 
 Comando e conduzione dei mezzi subacquei
 
@@ -744,9 +742,9 @@ b) i programmi di qualificazione professionale e le procedure di verifica dei re
 
 > «Art. 11 (Criteri per l'applicazione delle sanzioni amministrative pecuniarie). - Nella determinazione della sanzione amministrativa pecuniaria fissata dalla legge tra un limite minimo ed un limite massimo e nell'applicazione delle sanzioni accessorie facoltative, si ha riguardo alla gravita' della violazione, all'opera svolta dall'agente per l'eliminazione o attenuazione delle conseguenze della violazione, nonche' alla personalita' dello stesso e alle sue condizioni economiche.».
 
-## Sezione IV - Linee guida
+### Sezione IV - Linee guida
 
-##### Art. 17
+#### Art. 17
 
 Sviluppo di tecnologie subacquee
 
@@ -774,11 +772,9 @@ i) le tecniche di soccorso ai sommergibili civili sinistrati, in coordinamento c
 
 ## Capo IV - Attività subacquee e iperbariche
 
-### Sezione I
+### Sezione I - Ambito di applicazione
 
-#### Ambito di applicazione
-
-##### Art. 18
+#### Art. 18
 
 Lavori subacquei e iperbarici e attivita' escluse
 
@@ -836,9 +832,9 @@ Lavori subacquei e iperbarici e attivita' escluse
 
 > 4\. Fino all'insediamento del Comitato di cui al comma 1, continua ad operare la Consulta Nazionale delle organizzazioni di volontariato di protezione civile costituita con decreto del Presidente del Consiglio dei ministri del 25 gennaio 2008, pubblicato nella Gazzetta Ufficiale n. 61 del 12 marzo 2008, nella composizione definita con il decreto del Capo del Dipartimento della protezione civile del 21 ottobre 2014.».
 
-## Sezione II - Operatori subacquei e iperbarici
+### Sezione II - Operatori subacquei e iperbarici
 
-##### Art. 19
+#### Art. 19
 
 Qualifiche professionali e ambiti operativi
 
@@ -866,7 +862,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 31 dicembre 2025, n. 200, convertito con modificazioni dalla L. 27 febbraio 2026, n. 26, ha disposto (con l'art. 1, comma 16-bis) che "Le disposizioni di cui agli articoli 19, comma 1, 22 e 26 della legge 26 gennaio 2026, n. 9, limitatamente all'obbligatorieta' dell'iscrizione nel registro degli operatori subacquei e iperbarici professionali ai fini dell'esercizio di lavori subacquei e iperbarici, nonche' all'articolo 19, comma 2, lettera c), della medesima legge n. 9 del 2026, limitatamente alla prescrizione che prevede l'obbligo di immersione in coppia con un operatore tecnico subacqueo (OTS) per il personale tecnico o scientifico non in possesso della qualifica professionale di OTS, si applicano a decorrere dal 1° gennaio 2027".
 
-##### Art. 20
+#### Art. 20
 
 Registro degli operatori subacquei e iperbarici
 
@@ -874,7 +870,7 @@ professionali
 
 1\. Il registro dei sommozzatori in servizio locale, tenuto dal comandante del porto ai sensi dell'articolo 3 del decreto del Ministro della marina mercantile 13 gennaio 1979, pubblicato nella Gazzetta Ufficiale n. 47 del 16 febbraio 1979, assume la denominazione di registro degli operatori subacquei e iperbarici professionali.
 
-##### Art. 21
+#### Art. 21
 
 Requisiti per l'iscrizione nel registro
 
@@ -902,7 +898,7 @@ g) assenza di condanne per un delitto non colposo punibile con una pena superior
 
 > \- Per il testo dell'articolo 8 del decreto legislativo 28 agosto 1997, n. 281 si vedano le note all'articolo 18.
 
-##### Art. 22
+#### Art. 22
 
 Esercizio della professione sulla base di titoli conseguiti all'estero
 
@@ -924,7 +920,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 31 dicembre 2025, n. 200, convertito con modificazioni dalla L. 27 febbraio 2026, n. 26, ha disposto (con l'art. 1, comma 16-bis) che "Le disposizioni di cui agli articoli 19, comma 1, 22 e 26 della legge 26 gennaio 2026, n. 9, limitatamente all'obbligatorieta' dell'iscrizione nel registro degli operatori subacquei e iperbarici professionali ai fini dell'esercizio di lavori subacquei e iperbarici, nonche' all'articolo 19, comma 2, lettera c), della medesima legge n. 9 del 2026, limitatamente alla prescrizione che prevede l'obbligo di immersione in coppia con un operatore tecnico subacqueo (OTS) per il personale tecnico o scientifico non in possesso della qualifica professionale di OTS, si applicano a decorrere dal 1° gennaio 2027".
 
-##### Art. 23
+#### Art. 23
 
 Sorveglianza sanitaria
 
@@ -936,7 +932,7 @@ Sorveglianza sanitaria
 
 > \- Il decreto legislativo 9 aprile 2008, n. 81, recante: «Attuazione dell'articolo 1 della legge 3 agosto 2007, n. 123, in materia di tutela della salute e della sicurezza nei luoghi di lavoro» e' pubblicato nella Gazzetta Ufficiale n. 101 del 30 aprile 2008.
 
-##### Art. 24
+#### Art. 24
 
 Libretto personale informatico degli operatori subacquei
 
@@ -1006,9 +1002,9 @@ l) gli eventuali infortuni subiti.
 
 > I contravventori alle precedenti disposizioni sono puniti con l'ammenda da lire 18.000 a lire 36.000.».
 
-## Sezione III - Imprese subacquee e iperbariche
+### Sezione III - Imprese subacquee e iperbariche
 
-##### Art. 25
+#### Art. 25
 
 Regolamentazione tecnica
 
@@ -1034,7 +1030,7 @@ g) le norme per la sicurezza e l'igiene nei lavori subacquei e iperbarici nelle 
 
 ## Capo V - Sanzioni
 
-##### Art. 26
+#### Art. 26
 
 Operatori subacquei e iperbarici professionali
 
@@ -1056,7 +1052,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 31 dicembre 2025, n. 200, convertito con modificazioni dalla L. 27 febbraio 2026, n. 26, ha disposto (con l'art. 1, comma 16-bis) che "Le disposizioni di cui agli articoli 19, comma 1, 22 e 26 della legge 26 gennaio 2026, n. 9, limitatamente all'obbligatorieta' dell'iscrizione nel registro degli operatori subacquei e iperbarici professionali ai fini dell'esercizio di lavori subacquei e iperbarici, nonche' all'articolo 19, comma 2, lettera c), della medesima legge n. 9 del 2026, limitatamente alla prescrizione che prevede l'obbligo di immersione in coppia con un operatore tecnico subacqueo (OTS) per il personale tecnico o scientifico non in possesso della qualifica professionale di OTS, si applicano a decorrere dal 1° gennaio 2027".
 
-##### Art. 27
+#### Art. 27
 
 Imprese subacquee e iperbariche
 
@@ -1072,7 +1068,7 @@ Imprese subacquee e iperbariche
 
 ## Capo VI - Disposizioni finali e transitorie
 
-##### Art. 28
+#### Art. 28
 
 Modifiche al codice dell'ordinamento militare, di cui al decreto legislativo 15 marzo 2010, n. 66, in materia di competenze della Marina militare e compiti del Corpo della Guardia di finanza
 
@@ -1094,7 +1090,7 @@ d-quinquies) la cooperazione con le marine militari di Stati alleati o confinant
 
 > \- Per il testo dell'articolo 111 del decreto legislativo del 15 marzo 2010, n. 66 si vedano le note all'articolo 2.
 
-##### Art. 29
+#### Art. 29
 
 Modifiche al codice della navigazione
 
@@ -1158,13 +1154,13 @@ f) all'articolo 579, dopo il terzo comma e' inserito il seguente:
 
 > Quando nel sinistro siano coinvolti mezzi subacquei con equipaggio, autonomi o a pilotaggio remoto, all'inchiesta formale partecipa, in qualita' di membro della commissione inquirente, un funzionario dell'Agenzia per la sicurezza delle attivita' subacquee.».
 
-##### Art. 30
+#### Art. 30
 
 Principio di specialita'
 
 1\. Le disposizioni del codice della navigazione si applicano, in quanto compatibili, anche ai mezzi subacquei non militari idonei alla navigazione subacquea, con equipaggio, autonomi o a controllo remoto, salvo quanto diversamente previsto dalla presente legge.
 
-##### Art. 31
+#### Art. 31
 
 Modifica della composizione di organi collegiali
 
@@ -1222,7 +1218,7 @@ in materia di politiche del mare
 
 > Omissis.».
 
-##### Art. 32
+#### Art. 32
 
 Clausola di salvaguardia
 
@@ -1500,13 +1496,13 @@ l) agli organismi di cui agli articoli 4, 6 e 7 della legge 3 agosto 2007, n. 12
 
 > \- Per il testo degli articoli 4, 6 e 7 della legge 3 agosto 2007 n. 124 si vedono le note all'articolo 5.
 
-##### Art. 33
+#### Art. 33
 
 Disposizioni transitorie
 
 1\. Al fine di assicurare la prima operativita' dell'Agenzia, dalla data della nomina del direttore generale dell'Agenzia e ((nel limite del 40 per cento della dotazione organica complessiva, di cui almeno sei unita' di personale dirigenziale)) di cui all'articolo 8, comma 3, l'Agenzia si avvale di unita' di personale appartenenti a pubbliche amministrazioni, per un periodo massimo di dodici mesi, prorogabile una sola volta per un massimo di ulteriori dodici mesi, messo a disposizione dell'Agenzia stessa su specifica richiesta e secondo modalita' individuate mediante intese con le rispettive amministrazioni di appartenenza. Il personale di cui si avvale l'Agenzia e' collocato fuori ruolo o in posizione di comando o altra analoga posizione prevista dagli ordinamenti di appartenenza. Fino alla cessazione del periodo del collocamento fuori ruolo, l'amministrazione di provenienza puo' ricoprire temporaneamente il posto resosi vacante nella dotazione organica utilizzando le corrispondenti risorse finanziarie. I relativi oneri sono a carico dell'Agenzia e ai fini del trattamento retributivo si applicano le disposizioni del regolamento di cui all'articolo 8, comma 1. Il personale di cui al primo periodo ((...)) puo' essere inquadrato, senza effetti retroattivi, con provvedimento dell'Agenzia adottato ai sensi dell'articolo 5, comma 3, nel ruolo del personale di cui all'articolo 8, comma 2, lettera a), non oltre il termine indicato al medesimo primo periodo del presente comma. Al relativo inquadramento si provvede, mediante apposite selezioni, con le modalita' e le procedure definite con provvedimento dell'Agenzia, adottato ai sensi del medesimo articolo 5, comma 3, sulla base di criteri di valorizzazione delle pregresse esperienze e anzianita' di servizio, delle competenze acquisite, dei requisiti di professionalita' posseduti e dell'impiego nell'Agenzia. Al personale inquadrato ai sensi del presente comma si applicano le disposizioni del regolamento di cui all'articolo 8, comma 1.
 
-##### Art. 34
+#### Art. 34
 
 Disposizioni finanziarie
 
@@ -1518,7 +1514,7 @@ Disposizioni finanziarie
 
 > «200. Nello stato di previsione del Ministero dell'economia e delle finanze e' istituito un Fondo per far fronte ad esigenze indifferibili che si manifestano nel corso della gestione, con la dotazione di 27 milioni di euro per l'anno 2015 e di 25 milioni di euro annui a decorrere dall'anno 2016. Il Fondo e' ripartito annualmente con uno o piu' decreti del Presidente del Consiglio dei ministri su proposta del Ministro dell'economia e delle finanze. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare le occorrenti variazioni di bilancio.».
 
-##### Art. 35
+#### Art. 35
 
 Entrata in vigore
 

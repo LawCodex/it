@@ -30,25 +30,25 @@ Promulga
 
 la seguente legge:
 
-##### Art. 1
+### Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la Convenzione del Consiglio d'Europa sulla prevenzione e la lotta contro la violenza nei confronti delle donne e la violenza domestica, fatta a Istanbul l'11 maggio 2011 e sottoscritta dall'Italia il 27 settembre 2012, di seguito denominata «Convenzione».
 
-##### Art. 2
+### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data alla Convenzione a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 75 della Convenzione stessa.
 
-##### Art. 3
+### Art. 3
 
 Clausola di neutralita' finanziaria
 
 1\. Le misure amministrative necessarie all'attuazione e all'esecuzione della Convenzione sono assicurate con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-##### Art. 4
+### Art. 4
 
 Entrata in vigore
 
@@ -66,7 +66,7 @@ Visto, il Guardasigilli: Cancellieri
 
 ## Allegati
 
-##### Convention
+### Convention
 
 ((Allegato
 
@@ -88,13 +88,9 @@ ET LA VIOLENCE DOMESTIQUE))
 
 ((Parte di provvedimento in formato grafico))
 
-## ((Capitolo I - Obiettivi, definizioni, uguaglianza
+## ((Capitolo I - Obiettivi, definizioni, uguaglianza e non discriminazione, obblighi generali))
 
-### e - non
-
-#### discriminazione, obblighi generali))
-
-##### art. 1
+### art. 1
 
 ((Parte di provvedimento in formato grafico))
 
@@ -158,7 +154,7 @@ e sostenere e assistere le organizzazioni e autorita' incaricate dell'applicazio
 
 2 Allo scopo di garantire un'efficace attuazione delle sue disposizioni da parte delle Parti contraenti, la presente Convenzione istituisce uno specifico meccanismo di controllo.))
 
-##### art. 2
+### art. 2
 
 (( Articolo 2 - Campo di applicazione della Convenzione
 
@@ -168,7 +164,7 @@ e sostenere e assistere le organizzazioni e autorita' incaricate dell'applicazio
 
 3 La presente Convenzione si applica in tempo di pace e nelle situazioni di conflitto armato. ))
 
-##### art. 3
+### art. 3
 
 (( Articolo 3 - Definizioni
 
@@ -186,7 +182,7 @@ e per "vittima" si intende qualsiasi persona fisica che subisce gli atti o i com
 
 f con il termine "donne" sono da intendersi anche le ragazze di meno di 18 anni. ))
 
-##### art. 4
+### art. 4
 
 (( Articolo 4 - Diritti fondamentali, uguaglianza e non discriminazione
 
@@ -204,7 +200,7 @@ f con il termine "donne" sono da intendersi anche le ragazze di meno di 18 anni.
 
 4 Le misure specifiche necessarie per prevenire la violenza e proteggere le donne contro la violenza di genere non saranno considerate discriminatorie ai sensi della presente Convenzione. ))
 
-##### art. 5
+### art. 5
 
 (( Articolo 5 - Obblighi degli Stati e dovuta diligenza
 
@@ -212,7 +208,7 @@ f con il termine "donne" sono da intendersi anche le ragazze di meno di 18 anni.
 
 2 Le Parti adottano le misure legislative e di altro tipo necessarie per esercitare la debita diligenza nel prevenire, indagare, punire i responsabili e risarcire le vittime di atti di violenza commessi da soggetti non statali che rientrano nel campo di applicazione della presente Convenzione. ))
 
-##### art. 6
+### art. 6
 
 (( Articolo 6 - Politiche sensibili al genere
 
@@ -220,7 +216,7 @@ Le Parti si impegnano a inserire una prospettiva di genere nell'applicazione e n
 
 ## ((Capitolo II - Politiche integrate e raccolta dei dati))
 
-##### art. 7
+### art. 7
 
 (( Articolo 7 - Politiche globali e coordinate
 
@@ -230,19 +226,19 @@ Le Parti si impegnano a inserire una prospettiva di genere nell'applicazione e n
 
 3 Le misure adottate in virtu' del presente articolo devono coinvolgere, ove necessario, tutti i soggetti pertinenti, quali le agenzie governative, i parlamenti e le autorita' nazionali, regionali e locali, le istituzioni nazionali deputate alla tutela dei diritti umani e le organizzazioni della societa' civile. ))
 
-##### art. 8
+### art. 8
 
 (( Articolo 8 - Risorse finanziarie
 
 La Parti stanziano le risorse finanziarie e umane appropriate per un'adeguata attuazione di politiche integrate, di misure e di programmi destinati a prevenire e combattere ogni forma di violenza rientrante nel campo di applicazione della presente Convenzione, ivi compresi quelli realizzati dalle ONG e dalla societa' civile. ))
 
-##### art. 9
+### art. 9
 
 (( Articolo 9 - Organizzazioni non governative e societa' civile
 
 Le Parti riconoscono, incoraggiano e sostengono a tutti i livelli il lavoro delle ONG pertinenti e delle associazioni della societa' civile attive nella lotta alla violenza contro le donne e instaurano un'efficace cooperazione con tali organizzazioni. ))
 
-##### art. 10
+### art. 10
 
 (( Articolo 10 - Organismo di coordinamento
 
@@ -252,7 +248,7 @@ Le Parti riconoscono, incoraggiano e sostengono a tutti i livelli il lavoro dell
 
 3 Le Parti si accertano che gli organismi designati o istituiti ai sensi del presente articolo dispongano della capacita' di comunicare direttamente e di incoraggiare i rapporti con i loro omologhi delle altre Parti. ))
 
-##### art. 11
+### art. 11
 
 (( Articolo 11 - Raccolta dei dati e ricerca
 
@@ -270,7 +266,7 @@ b sostenere la ricerca su tutte le forme di violenza che rientrano nel campo di 
 
 ## ((Capitolo III - Prevenzione))
 
-##### art. 12
+### art. 12
 
 (( Articolo 12 - Obblighi generali
 
@@ -286,7 +282,7 @@ b sostenere la ricerca su tutte le forme di violenza che rientrano nel campo di 
 
 6 Le Parti adottano le misure necessarie per promuovere programmi e attivita' destinati ad aumentare il livello di autonomia e di emancipazione delle donne. ))
 
-##### art. 13
+### art. 13
 
 (( Articolo 13 - Sensibilizzazione
 
@@ -294,7 +290,7 @@ b sostenere la ricerca su tutte le forme di violenza che rientrano nel campo di 
 
 2 Le Parti garantiscono un'ampia diffusione presso il vasto pubblico delle informazioni riguardanti le misure disponibili per prevenire gli atti di violenza che rientrano nel campo di applicazione della presente Convenzione. ))
 
-##### art. 14
+### art. 14
 
 (( Articolo 14 - Educazione
 
@@ -302,7 +298,7 @@ b sostenere la ricerca su tutte le forme di violenza che rientrano nel campo di 
 
 2 Le Parti intraprendono le azioni necessarie per promuovere i principi enunciati al precedente paragrafo 1 nelle strutture di istruzione non formale, nonche' nei centri sportivi, culturali e di svago e nei mass media. ))
 
-##### art. 15
+### art. 15
 
 (( Articolo 15 - Formazione delle figure professionali
 
@@ -310,7 +306,7 @@ b sostenere la ricerca su tutte le forme di violenza che rientrano nel campo di 
 
 2 Le Parti incoraggiano a inserire nella formazione di cui al paragrafo 1 dei corsi di formazione in materia di cooperazione coordinata interistituzionale, al fine di consentire una gestione globale e adeguata degli orientamenti da seguire nei casi di violenza che rientrano nel campo di applicazione della presente Convenzione. ))
 
-##### art. 16
+### art. 16
 
 (( Articolo 16 - Programmi di intervento di carattere preventivo e di trattamento
 
@@ -320,7 +316,7 @@ b sostenere la ricerca su tutte le forme di violenza che rientrano nel campo di 
 
 3 Nell'adottare le misure di cui ai paragrafi 1 e 2, le Parti si accertano che la sicurezza, il supporto e i diritti umani delle vittime siano una priorita' e che tali programmi, se del caso, siano stabiliti ed attuati in stretto coordinamento con i servizi specializzati di sostegno alle vittime. ))
 
-##### art. 17
+### art. 17
 
 (( Articolo 17 - Partecipazione del settore privato e dei mass media
 
@@ -330,7 +326,7 @@ b sostenere la ricerca su tutte le forme di violenza che rientrano nel campo di 
 
 ## ((Capitolo IV - Protezione e sostegno))
 
-##### art. 18
+### art. 18
 
 (( Articolo 18 - Obblighi generali
 
@@ -356,13 +352,13 @@ b sostenere la ricerca su tutte le forme di violenza che rientrano nel campo di 
 
 5 Le Parti adottano misure adeguate per garantire protezione consolare o di altro tipo e sostegno ai loro cittadini e alle altre vittime che hanno diritto a tale protezione, conformemente ai loro obblighi derivanti dal diritto internazionale. ))
 
-##### art. 19
+### art. 19
 
 (( Articolo 19 - Informazione
 
 Le Parti adottano misure legislative o di altro tipo che consentano alle vittime di ottenere un'informazione adeguata e tempestiva sui servizi di sostegno e le misure legali disponibili in una lingua che comprendono. ))
 
-##### art. 20
+### art. 20
 
 (( Articolo 20 - Servizi di supporto generali
 
@@ -370,13 +366,13 @@ Le Parti adottano misure legislative o di altro tipo che consentano alle vittime
 
 2 Le Parti adottano le misure legislative o di altro tipo necessarie per garantire che le vittime abbiano accesso ai servizi sanitari e sociali, che tali servizi dispongano di risorse adeguate e di figure professionali adeguatamente formate per fornire assistenza alle vittime e indirizzarle verso i servizi appropriati. ))
 
-##### art. 21
+### art. 21
 
 (( Articolo 21 - Assistenza in materia di denunce individuali/collettive
 
 Le Parti vigilano affinche' le vittime possano usufruire di informazioni sui meccanismi regionali e internazionali disponibili per le denunce individuali o collettive e vi abbiano accesso. Le Parti promuovono la messa a disposizione delle vittime di un supporto sensibile e ben informato per aiutarle a sporgere denuncia. ))
 
-##### art. 22
+### art. 22
 
 (( Articolo 22 - Servizi di supporto specializzati
 
@@ -384,25 +380,25 @@ Le Parti vigilano affinche' le vittime possano usufruire di informazioni sui mec
 
 2 Le Parti forniscono o predispongono dei servizi di supporto specializzati per tutte le donne vittime di violenza e i loro bambini. ))
 
-##### art. 23
+### art. 23
 
 (( Articolo 23 - Case rifugio
 
 Le Parti adottano le misure legislative o di altro tipo necessarie per consentire la creazione di rifugi adeguati, facilmente accessibili e in numero sufficiente per offrire un alloggio sicuro alle vittime, in particolare le donne e i loro bambini, e per aiutarle in modo proattivo. ))
 
-##### art. 24
+### art. 24
 
 (( Articolo 24 - Linee telefoniche di sostegno
 
 Le Parti adottano le misure legislative o di altro tipo necessarie per istituire a livello nazionale apposite linee telefoniche gratuite di assistenza continua, operanti 24 ore su 24, sette giorni alla settimana, destinate a fornire alle persone che telefonano, in modo riservato o nel rispetto del loro anonimato, delle consulenze su tutte le forme di violenza oggetto della presente Convenzione. ))
 
-##### art. 25
+### art. 25
 
 (( Articolo 25 - Supporto alle vittime di violenza sessuale
 
 Le Parti adottano le misure legislative o di altro tipo necessarie per consentire la creazione di centri di prima assistenza adeguati, facilmente accessibili e in numero sufficiente, per le vittime di stupri e di violenze sessuali, che possano proporre una visita medica e una consulenza medico-legale, un supporto per superare il trauma e dei consigli. ))
 
-##### art. 26
+### art. 26
 
 (( Articolo 26 - Protezione e supporto ai bambini testimoni di violenza
 
@@ -410,13 +406,13 @@ Le Parti adottano le misure legislative o di altro tipo necessarie per consentir
 
 2 Le misure adottate conformemente al presente articolo comprendono le consulenze psicosociali adattate all'eta' dei bambini testimoni di ogni forma di violenza rientrante nel campo di applicazione della presente Convenzione e tengono debitamente conto dell'interesse superiore del minore. ))
 
-##### art. 27
+### art. 27
 
 (( Articolo 27 - Segnalazioni
 
 Le Parti adottano le misure necessarie per incoraggiare qualsiasi persona che sia stata testimone di un qualsiasi atto di violenza che rientra nel campo di applicazione della presente Convenzione, o che abbia ragionevoli motivi per ritenere che tale atto potrebbe essere commesso, o che si possano temere nuovi atti di violenza, a segnalarlo alle organizzazioni o autorita' competenti. ))
 
-##### art. 28
+### art. 28
 
 (( Articolo 28 - Segnalazioni da parte delle figure professionali
 
@@ -424,7 +420,7 @@ Le Parti adottano le misure necessarie per garantire che le norme sulla riservat
 
 ## ((Capitolo V - Diritto sostanziale))
 
-##### art. 29
+### art. 29
 
 (( Articolo 29 - Procedimenti e vie di ricorso in materia civile
 
@@ -432,7 +428,7 @@ Le Parti adottano le misure necessarie per garantire che le norme sulla riservat
 
 2 Le Parti adottano le misure legislative o di altro tipo necessarie, conformemente ai principi generali del diritto internazionale, per fornire alle vittime adeguati risarcimenti civili nei confronti delle autorita' statali che abbiano mancato al loro dovere di adottare le necessarie misure di prevenzione o di protezione nell'ambito delle loro competenze. ))
 
-##### art. 30
+### art. 30
 
 (( Articolo 30 - Risarcimenti
 
@@ -442,7 +438,7 @@ Le Parti adottano le misure necessarie per garantire che le norme sulla riservat
 
 3 Le misure adottate conformemente al paragrafo 2 devono garantire che il risarcimento sia concesso entro un termine ragionevole. ))
 
-##### art. 31
+### art. 31
 
 (( Articolo 31 - Custodia dei figli, diritti di visita e sicurezza
 
@@ -450,31 +446,31 @@ Le Parti adottano le misure necessarie per garantire che le norme sulla riservat
 
 2 Le Parti adottano le misure legislative o di altro tipo necessarie per garantire che l'esercizio dei diritti di visita o di custodia dei figli non comprometta i diritti e la sicurezza della vittima o dei bambini. ))
 
-##### art. 32
+### art. 32
 
 (( Articolo 32 - Conseguenze civili dei matrimoni forzati
 
 Le Parti adottano le misure legislative o di altro tipo necessarie per garantire che i matrimoni contratti con la forza possano essere invalidabili, annullati o sciolti senza rappresentare un onere finanziario o amministrativo eccessivo per la vittima. ))
 
-##### art. 33
+### art. 33
 
 (( Articolo 33 - Violenza psicologica
 
 Le Parti adottano le misure legislative o di altro tipo necessarie per penalizzare un comportamento intenzionale mirante a compromettere seriamente l'integrita' psicologica di una persona con la coercizione o le minacce. ))
 
-##### art. 34
+### art. 34
 
 (( Articolo 34 - Atti persecutori (Stalking)
 
 Le Parti adottano le misure legislative o di altro tipo necessarie per penalizzare un comportamento intenzionalmente e ripetutamente minaccioso nei confronti di un'altra persona, portandola a temere per la propria incolumita'. ))
 
-##### art. 35
+### art. 35
 
 (( Articolo 35 - Violenza fisica
 
 Le Parti adottano le misure legislative o di altro tipo necessarie per penalizzare il comportamento intenzionale di chi commette atti di violenza fisica nei confronti di un'altra persona. ))
 
-##### art. 36
+### art. 36
 
 (( Articolo 36 - Violenza sessuale, compreso lo stupro
 
@@ -490,7 +486,7 @@ c il fatto di costringere un'altra persona a compiere atti sessuali non consensu
 
 3 Le Parti adottano le misure legislative e di altro tipo per garantire che le disposizioni del paragrafo 1 si applichino anche agli atti commessi contro l'ex o l'attuale coniuge o partner, quale riconosciuto dalla legislazione nazionale. ))
 
-##### art. 37
+### art. 37
 
 (( Articolo 37 - Matrimonio forzato
 
@@ -498,7 +494,7 @@ c il fatto di costringere un'altra persona a compiere atti sessuali non consensu
 
 2 Le Parti adottano le misure legislative o di altro tipo necessarie per penalizzare il fatto di attirare intenzionalmente con l'inganno un adulto o un bambino sul territorio di una Parte o di uno Stato diverso da quello in cui risiede, allo scopo di costringerlo a contrarre matrimonio. ))
 
-##### art. 38
+### art. 38
 
 (( Articolo 38 - Mutilazioni genitali femminili
 
@@ -510,7 +506,7 @@ b costringere una donna a subire qualsiasi atto indicato al punto a, o fornirle 
 
 c indurre, costringere o fornire a una ragazza i mezzi per subire qualsiasi atto enunciato al punto a. ))
 
-##### art. 39
+### art. 39
 
 (( Articolo 39 - Aborto forzato e sterilizzazione forzata
 
@@ -520,13 +516,13 @@ a praticare un aborto su una donna senza il suo preliminare consenso informato;
 
 b praticare un intervento chirurgico che abbia lo scopo e l'effetto di interrompere definitivamente la capacita' riproduttiva di una donna senza il suo preliminare consenso informato o la sua comprensione della procedura praticata. ))
 
-##### art. 40
+### art. 40
 
 (( Articolo 40 - Molestie sessuali
 
 Le Parti adottano le misure legislative o di altro tipo necessarie per garantire che qualsiasi forma di comportamento indesiderato, verbale, non verbale o fisico, di natura sessuale, con lo scopo o l'effetto di violare la dignita' di una persona, segnatamente quando tale comportamento crea un clima intimidatorio, ostile, degradante, umiliante o offensivo, sia sottoposto a sanzioni penali o ad altre sanzioni legali. ))
 
-##### art. 41
+### art. 41
 
 (( Articolo 41 - Favoreggiamento o complicita' e tentativo
 
@@ -534,7 +530,7 @@ Le Parti adottano le misure legislative o di altro tipo necessarie per garantire
 
 2 Le Parti adottano le misure legislative o di altro tipo necessarie per perseguire penalmente i tentativi intenzionali di commissione dei reati di cui agli articoli 35, 36, 37, 38.a e 39 della presente Convenzione. ))
 
-##### art. 42
+### art. 42
 
 (( Articolo 42 - Giustificazione inaccettabile dei reati, compresi quelli commessi in nome del cosiddetto "onore"
 
@@ -544,13 +540,13 @@ Rientrano in tale ambito, in particolare, le accuse secondo le quali la vittima 
 
 2 Le Parti adottano le misure legislative o di altro tipo necessarie per garantire che, qualora un bambino sia stato istigato da una persona a compiere un atto di cui al paragrafo 1, non sia per questo diminuita la responsabilita' penale della suddetta persona per gli atti commessi. ))
 
-##### art. 43
+### art. 43
 
 (( Articolo 43 - Applicazione dei reati
 
 I reati previsti ai sensi della presente Convenzione si applicano a prescindere dalla natura del rapporto tra la vittima e l'autore del reato. ))
 
-##### art. 44
+### art. 44
 
 (( Articolo 44 - Giurisdizione
 
@@ -578,7 +574,7 @@ e da una persona avente la propria residenza abituale sul loro territorio.
 
 7 Fatte salve le disposizioni generali di diritto internazionale, la presente Convenzione non esclude alcuna competenza penale esercitata da una delle Parti conformente al proprio diritto interno. ))
 
-##### art. 45
+### art. 45
 
 (( Articolo 45 - Sanzioni e misure repressive
 
@@ -592,7 +588,7 @@ Tali sanzioni includono, se del caso, pene privative della liberta' e che posson
 
 \- la privazione della patria podesta', se l'interesse superiore del bambino, che puo' comprendere la sicurezza della vittima, non puo' essere garantito in nessun altro modo. ))
 
-##### art. 46
+### art. 46
 
 (( Articolo 46 - Circostanze aggravanti
 
@@ -614,13 +610,13 @@ h il reato ha provocato gravi danni fisici o psicologici alla vittima;
 
 i l'autore era stato precedentemente condannato per reati di natura analoga. ))
 
-##### art. 47
+### art. 47
 
 (( Articolo 47 - Condanne pronunciate sul territorio di un'altra Parte contraente
 
 Le Parti adottano le misure legislative o di altro tipo necessarie per prevedere la possibilita' di prendere in considerazione, al momento della decisione relativa alla pena, le condanne definitive pronunciate da un'altra Parte contraente in relazione ai reati previsti in base alla presente Convenzione. ))
 
-##### art. 48
+### art. 48
 
 Articolo 48 - ((Divieto di ricorso obbligatorio a metodi alternativi di risoluzione dei conflitti o a misure alternative alle pene.
 
@@ -628,11 +624,9 @@ Articolo 48 - ((Divieto di ricorso obbligatorio a metodi alternativi di risoluzi
 
 2 - Le Parti adottano le misure legislative o di altro tipo destinate a garantire che, se viene inflitto il pagamento di una multa, sia debitamente presa in considerazione la capacita' del condannato di adempiere ai propri obblighi finanziari nei confronti della vittima.))
 
-## ((Capitolo VI - Indagini, procedimenti penali, diritto procedurale
+## ((Capitolo VI - Indagini, procedimenti penali, diritto procedurale e misure protettive))
 
-### e - misure protettive))
-
-##### art. 49
+### art. 49
 
 (( Articolo 49 - Obblighi generali
 
@@ -640,7 +634,7 @@ Articolo 48 - ((Divieto di ricorso obbligatorio a metodi alternativi di risoluzi
 
 2 Le Parti adottano le misure legislative o di altro tipo, in conformita' con i principi fondamentali in materia di diritti umani e tenendo conto della comprensione della violenza di genere, per garantire indagini e procedimenti efficaci nei confronti dei reati stabiliti conformemente alla presente Convenzione. ))
 
-##### art. 50
+### art. 50
 
 (( Articolo 50 - Risposta immediata, prevenzione e protezione
 
@@ -648,7 +642,7 @@ Articolo 48 - ((Divieto di ricorso obbligatorio a metodi alternativi di risoluzi
 
 2 Le Parti adottano le misure legislative e di altro tipo per garantire che le autorita' incaricate dell'applicazione della legge operino in modo tempestivo e adeguato in materia di prevenzione e protezione contro ogni forma di violenza che rientra nel campo di applicazione della presente Convenzione, ivi compreso utilizzando misure operative di prevenzione e la raccolta delle prove. ))
 
-##### art. 51
+### art. 51
 
 (( Articolo 51 - Valutazione e gestione dei rischi
 
@@ -656,13 +650,13 @@ Articolo 48 - ((Divieto di ricorso obbligatorio a metodi alternativi di risoluzi
 
 2 Le Parti adottano le misure legislative o di altro tipo necessarie per garantire che la valutazione di cui al parafrafo 1 prenda in considerazione, in tutte le fasi dell'indagine e dell'applicazione delle misure di protezione, il fatto che l'autore di atti di violenza che rientrano nel campo di applicazione della presente Convenzione possieda, o abbia accesso ad armi da fuoco. ))
 
-##### art. 52
+### art. 52
 
 (( Articolo 52 - Misure urgenti di allontanamento imposte dal giudice
 
 Le Parti adottano le misure legislative o di altro tipo necessarie per garantire che le autorita' competenti si vedano riconosciuta la facolta' di ordinare all'autore della violenza domestica, in situazioni di pericolo immediato, di lasciare la residenza della vittima o della persona in pericolo per un periodo di tempo sufficiente e di vietargli l'accesso al domicilio della vittima o della persona in pericolo o di impedirgli di avvicinarsi alla vittima. Le misure adottate in virtu' del presente articolo devono dare priorita' alla sicurezza delle vittime o delle persone in pericolo. ))
 
-##### art. 53
+### art. 53
 
 (( Articolo 53 - Ordinanze di ingiunzione o di protezione
 
@@ -682,13 +676,13 @@ Le Parti adottano le misure legislative o di altro tipo necessarie per garantire
 
 3 Le Parti adottano le misure legislative o di altro tipo necessarie per garantire che la violazione delle ordinanze di ingiunzione o di protezione emesse ai sensi del paragrafo 1 sia oggetto di sanzioni penali o di altre sanzioni legali efficaci, proporzionate e dissuasive. ))
 
-##### art. 54
+### art. 54
 
 (( Articolo 54 - Indagini e prove
 
 Le Parti adottano le misure legislative o di altro tipo necessarie per garantire che in qualsiasi procedimento civile o penale, le prove relative agli antecedenti sessuale e alla condotta della vittima siano ammissibili unicamente quando sono pertinenti e necessarie. ))
 
-##### art. 55
+### art. 55
 
 (( Articolo 55 - Procedimenti d'ufficio e ex parte
 
@@ -696,7 +690,7 @@ Le Parti adottano le misure legislative o di altro tipo necessarie per garantire
 
 2 Le Parti adottano le misure legislative e di altro tipo necessarie per garantire, conformemente alle condizioni previste dal loro diritto interno, la possibilita' per le organizzazioni governative e non governative e per i consulenti specializzati nella lotta alla violenza domestica di assistere e/o di sostenere le vittime, su loro richiesta, nel corso delle indagini e dei procedimenti giudiziari relativi ai reati stabiliti conformemente alla presente Convenzione. ))
 
-##### art. 56
+### art. 56
 
 (( Articolo 56 - Misure di protezione
 
@@ -722,13 +716,13 @@ i consentendo alle vittime di testimoniare in aula, secondo le norme previste da
 
 2 Un bambino vittima e testimone di violenza contro le donne e di violenza domestica, deve, se necessario, usufruire di misure di protezione specifiche, che prendano in considerazione il suo interesse superiore. ))
 
-##### art. 57
+### art. 57
 
 (( Articolo 57 - Gratuito patrocinio
 
 Le Parti garantiscono che le vittime abbiano diritto all'assistenza legale e al gratuito patrocinio alle condizioni previste dal diritto interno. ))
 
-##### art. 58
+### art. 58
 
 (( Articolo 58 - Prescrizione
 
@@ -736,7 +730,7 @@ Le Parti adottano le misure legislative e di altro tipo necessarie per garantire
 
 ## ((Capitolo VII - Migrazione e asilo))
 
-##### art. 59
+### art. 59
 
 (( Articolo 59 - Status di residente
 
@@ -752,7 +746,7 @@ b quando l'autorita' competente ritene che il loro soggiorno sia necessario per 
 
 4 Le Parti adottano le misure legislative o di altro tipo necessarie per garantire che le vittime di un matrimonio forzato condotte in un altro paese al fine di contrarre matrimonio, e che abbiano perso di conseguenza il loro status di residente del paese in cui risiedono normalmente, possano recuperare tale status. ))
 
-##### art. 60
+### art. 60
 
 (( Articolo 60 - Richieste di asilo basate sul genere
 
@@ -762,7 +756,7 @@ b quando l'autorita' competente ritene che il loro soggiorno sia necessario per 
 
 3 Le Parti adottano le misure legislative o di altro tipo necessarie per sviluppare procedure di accoglienza sensibili al genere e servizi di supporto per i richiedenti asilo, nonche' linee guida basate sul genere e procedure di asilo sensibili alle questioni di genere, compreso in materia di concessione dello status di rifugiato e di richiesta di protezione internazionale. ))
 
-##### art. 61
+### art. 61
 
 (( Articolo 61 - Diritto di non-respingimento
 
@@ -772,7 +766,7 @@ b quando l'autorita' competente ritene che il loro soggiorno sia necessario per 
 
 ## ((Capitolo VIII - Cooperazione internazionale))
 
-##### art. 62
+### art. 62
 
 (( Articolo 62 - Principi generali
 
@@ -792,13 +786,13 @@ d applicare le pertinenti sentenze civili e penali pronunciate dalle autorita' g
 
 4 Le Parti si sforzano di integrare, se del caso, la prevenzione e la lotta contro la violenza nei confronti delle donne e la violenza domestica nei programmi di assistenza allo sviluppo condotti a favore di paesi terzi, compresa la conclusione di accordi bilaterali e multilaterali con paesi terzi, al fine di facilitare la protezione delle vittime, conformemente all'articolo 18, paragrafo 5. ))
 
-##### art. 63
+### art. 63
 
 (( Articolo 63 - Misure relative alle persone in pericolo
 
 Quando una Parte, sulla base delle informazioni a sua disposizione, ha seri motivi di pensare che una persona possa essere esposta in modo immediato al rischio di subire uno degli atti di violenza di cui agli Articoli 36, 37, 38 e 39 della presente Convenzione sul territorio di un'altra Parte, la Parte che dispone di tale informazione e' incoraggiata a trasmetterla senza indugio all'altra Parte, al fine di garantire che siano prese le misure di protezione adeguate. Tale informazione deve includere, se del caso, delle indicazioni sulle disposizioni di protezione esistenti a vantaggio della persona in pericolo. ))
 
-##### art. 64
+### art. 64
 
 (( Articolo 64 - Informazioni
 
@@ -808,7 +802,7 @@ Quando una Parte, sulla base delle informazioni a sua disposizione, ha seri moti
 
 3 Una Parte che riceve delle informazioni conformemente al precedente paragrafo 2 deve comunicarle alle proprie autorita' competenti, in modo che possano essere avviati dei procedimenti se sono considerati appropriati, o che tale informazione possa essere presa in considerazione nei procedimenti civili o penali pertinenti. ))
 
-##### art. 65
+### art. 65
 
 (( Articolo 65 - Protezione dei dati
 
@@ -816,7 +810,7 @@ I dati personali sono conservati e utilizzati conformemente agli obblighi assunt
 
 ## ((Capitolo IX - Meccanismo di controllo))
 
-##### art. 66
+### art. 66
 
 (( Articolo 66 - Gruppo di esperti sulla lotta contro la violenza nei confronti delle donne e la violenza domestica
 
@@ -846,7 +840,7 @@ e. devono partecipare a titolo individuale e devono essere indipendenti e imparz
 
 7 I membri del GREVIO e gli altri membri delle delegazioni incaricate di compiere le visite nei paesi, come stabilito all'articolo 68, paragrafi 9 e 14, godono dei privilegi e immunita' previsti nell'allegato alla presente Convenzione. ))
 
-##### art. 67
+### art. 67
 
 (( Articolo 67 - Comitato delle Parti
 
@@ -856,7 +850,7 @@ e. devono partecipare a titolo individuale e devono essere indipendenti e imparz
 
 3 Il Comitato delle Parti adotta il proprio regolamento interno. ))
 
-##### art. 68
+### art. 68
 
 (( Articolo 68 - Procedura
 
@@ -892,13 +886,13 @@ Il suddetto questionario e' inviato a tutte le Parti. Le Parti rispondono al sud
 
 15 Dopo avere esaminato le conclusioni relative all'indagine di cui al paragrafo 14, il GREVIO trasmette tali risultati alla Parte interessata e, se del caso, al Comitato delle Parti e al Comitato dei Ministri del Consiglio d'Europa, accompagnati da qualsiasi altra osservazione e raccomandazione. ))
 
-##### art. 69
+### art. 69
 
 (( Articolo 69 - Raccomandazioni generali
 
 Il GREVIO puo' adottare, ove opportuno, raccomandazioni di carattere generale sull'applicazione della presente Convenzione. ))
 
-##### art. 70
+### art. 70
 
 (( Articolo 70 - Partecipazione dei Parlamenti al controllo
 
@@ -910,7 +904,7 @@ Il GREVIO puo' adottare, ove opportuno, raccomandazioni di carattere generale su
 
 ## ((Capitolo X - Relazioni con altri strumenti internazionali))
 
-##### art. 71
+### art. 71
 
 (( Articolo 71 - Relazioni con altri strumenti internazionali
 
@@ -920,7 +914,7 @@ Il GREVIO puo' adottare, ove opportuno, raccomandazioni di carattere generale su
 
 ## ((Capitolo XI - Emendamenti alla Convenzione))
 
-##### art. 72
+### art. 72
 
 (( Articolo 72 - Emendamenti
 
@@ -932,13 +926,13 @@ Il GREVIO puo' adottare, ove opportuno, raccomandazioni di carattere generale su
 
 ## ((Capitolo XII - Clausole finali))
 
-##### art. 73
+### art. 73
 
 (( Articolo 73 - Effetti della Convenzione
 
 Le disposizioni della presente Convenzione non pregiudicano le disposizioni di diritto interno e di altri strumenti internazionali vincolanti gia' in vigore o che possono entrare in vigore, in base ai quali sono o sarebbero riconosciuti dei diritti piu' favorevoli per la prevenzione e la lotta contro la violenza sulle donne e la violenza domestica. ))
 
-##### art. 74
+### art. 74
 
 (( Articolo 74 - Composizione delle controversie
 
@@ -946,7 +940,7 @@ Le disposizioni della presente Convenzione non pregiudicano le disposizioni di d
 
 2 Il Comitato dei Ministri del Consiglio d'Europa puo' stabilire delle procedure per la composizione delle controversie che potranno essere utilizzate dalle Parti, se vi consentono. ))
 
-##### art. 75
+### art. 75
 
 (( Articolo 75 - Firma ed entrata in vigore
 
@@ -958,7 +952,7 @@ Le disposizioni della presente Convenzione non pregiudicano le disposizioni di d
 
 4 Se uno Stato di cui al paragrafo 1 o l'Unione europea esprime ulteriormente il proprio consenso a essere vincolato dalla Convenzione, quest'ultima entrera' in vigore, nei suoi confronti, il primo giorno del mese successivo alla scadenza di un periodo di tre mesi dopo la data del deposito dello strumento di ratifica, di accettazione o di approvazione. ))
 
-##### art. 76
+### art. 76
 
 (( Articolo 76 - Adesione alla Convenzione
 
@@ -966,7 +960,7 @@ Le disposizioni della presente Convenzione non pregiudicano le disposizioni di d
 
 2 Nei confronti di ogni Stato aderente, la Convenzione entrera' in vigore il primo giorno del mese successivo alla scadenza di un periodo di tre mesi dopo la data del deposito dello strumento di adesione presso il Segretario Generale del Consiglio d'Europa. ))
 
-##### art. 77
+### art. 77
 
 (( Articolo 77 - Applicazione territoriale
 
@@ -976,7 +970,7 @@ Le disposizioni della presente Convenzione non pregiudicano le disposizioni di d
 
 3 Ogni dichiarazione fatta ai sensi dei due paragrafi precedenti potra' essere ritirata nei confronti di ogni territorio specificato nella suddetta dichiarazione mediante notifica indirizzata al Segretario Generale del Consiglio d'Europa. Il ritiro avra' effetto il primo giorno del mese successivo alla scadenza di un periodo di tre mesi dalla data del ricevimento di tale notifica da parte del Segretario Generale. ))
 
-##### art. 78
+### art. 78
 
 (( Articolo 78 - Riserve
 
@@ -1000,7 +994,7 @@ Le disposizioni della presente Convenzione non pregiudicano le disposizioni di d
 
 Il ritiro avra' effetto a partire dalla data del suo ricevimento da parte del Segretario Generale. ))
 
-##### art. 79
+### art. 79
 
 (( Articolo 79 - Validita' ed esame delle riserve
 
@@ -1010,7 +1004,7 @@ Il ritiro avra' effetto a partire dalla data del suo ricevimento da parte del Se
 
 3 La Parte che ha formulato una riserva conformemente all'Articolo 78, paragrafi 2 e 3, deve fornire, prima di rinnovarla, o su richiesta, delle spiegazioni al GREVIO in merito ai motivi che ne giustificano il mantenimento. ))
 
-##### art. 80
+### art. 80
 
 (( Articolo 80 - Denuncia
 
@@ -1018,7 +1012,7 @@ Il ritiro avra' effetto a partire dalla data del suo ricevimento da parte del Se
 
 2 Tale denuncia ha effetto il primo giorno del mese successivo alla scadenza di un periodo di tre mesi dalla data di ricevimento della notifica da parte del Segretario Generale. ))
 
-##### art. 81
+### art. 81
 
 (( Articolo 81 - Notifica
 
@@ -1042,7 +1036,7 @@ In fede di che i sottoscritti, debitamente autorizzati a tal fine, hanno firmato
 
 Fatto a Istanbul, l'11 maggio 2011, in inglese e in francese, entrambi i testi facenti ugualmente fede, in un unico esemplare che sara' depositato negli archivi del Consiglio d'Europa. Il Segretario Generale del Consiglio d'Europa ne trasmettera' una copia certificata conforme a ogni Stato membro del Consiglio d'Europa, agli Stati non membri che hanno partecipato all'elaborazione della presente Convenzione, all'Unione europea e a ogni Stato invitato ad aderirvi.))
 
-##### Allegato
+### Allegato
 
 (( Allegato - Privilegi e immunita' (Articolo 66)
 

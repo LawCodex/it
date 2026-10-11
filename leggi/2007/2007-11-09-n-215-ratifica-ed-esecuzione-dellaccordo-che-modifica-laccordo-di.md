@@ -27,7 +27,7 @@ Promulga
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Autorizzazione alla ratifica
 
@@ -39,19 +39,19 @@ b) Accordo interno tra i rappresentanti dei Governi degli Stati membri, riuniti 
 
 c) Accordo interno tra i rappresentanti dei Governi degli Stati membri, riuniti in sede di Consiglio, riguardante il finanziamento degli aiuti comunitari forniti nell'ambito del quadro finanziario pluriennale per il periodo 2008-2013 in applicazione dell'Accordo di partenariato ACP-CE e lo stanziamento degli aiuti finanziari ai paesi e territori d'oltremare ai quali si applica la parte quarta del Trattato CE, fatto a Bruxelles il 17 luglio 2006.
 
-#### Art. 2
+### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data agli Accordi di cui all'articolo 1 a decorrere dalla data della loro entrata in vigore, in conformita' a quanto disposto rispettivamente dall'articolo 95, comma 3, dell'Accordo di partenariato a Cotonou, dall'articolo 2 dell'Accordo di cui all'art. 1, comma 1, lettera b), della presente legge e dall'articolo 13 dell'Accordo di cui all'art. 1, comma 1, lettera c), della medesima legge.
 
-#### Art. 3
+### Art. 3
 
 Copertura finanziaria
 
 1\. Per il finanziamento degli aiuti del decimo Fondo europeo di sviluppo, previsto ai sensi dell'articolo 1, comma 2, lettera a), dell'Accordo di cui all'articolo 1, comma 1, lettera c), della presente legge, pari a 100 milioni di euro annui a decorrere dall'anno 2008, si provvede per ciascuno degli anni 2008 e 2009 nell'ambito delle risorse di cui alla legge 15 marzo 1986, n. 81. Per gli anni 2010 e successivi la dotazione dei contributi e' quantificata ai sensi dell'articolo 11, comma 3, lettera d), della legge 5 agosto 1978, n. 468, e successive modificazioni.
 
-#### Art. 4
+### Art. 4
 
 Entrata in vigore
 
@@ -71,7 +71,7 @@ Visto, il Guardasigilli: Mastella
 
 ## Allegati
 
-#### Accordo
+### Accordo
 
 Allegato
 
@@ -1869,7 +1869,7 @@ Norme supplementari relative alle consultazioni di cui all'articolo
 
 IN FEDE DI CHE, i plenipotenziari sottoscritti hanno apposto le loro firme in calce al presente accordo.
 
-#### Atto finale e Dichiarazioni
+### Atto finale e Dichiarazioni
 
 ATTO FINALE
 
@@ -2377,7 +2377,7 @@ HANNO CONVENUTO QUANTO SEGUE:
 
 1\) GU L 317 del 15.12.2000, pag. 376.
 
-#### ARTICOLO 1
+### ARTICOLO 1
 
 L'accordo interno tra i rappresentanti dei governi degli Stati membri, riuniti in sede di Consiglio, del 18 settembre 2000, relativo ai provvedimenti da prendere ed alle procedure da seguire per l'applicazione dell'accordo di partenariato ACP-CE e' modificato come segue:
 
@@ -2419,7 +2419,7 @@ La decisione del Consiglio e' pubblicata nella Gazzetta ufficiale dell'Unione eu
 
 4\. Il Parlamento europeo viene informato senza indugio, e in modo esauriente, di tutte le decisioni prese a norma dei punti 2 e 3.".
 
-#### ARTICOLO 2
+### ARTICOLO 2
 
 Il presente accordo modificato e' approvato da ciascuno Stato membro conformemente alle proprie norme costituzionali. Il governo di ciascuno Stato membro notifica al Segretariato generale del Consiglio l'espletamento delle procedure richieste per la sua entrata in vigore.
 
@@ -2435,9 +2435,7 @@ Fatto a Lussemburgo, addi' dieci aprile duemilasei.
 
 Parte di provvedimento in formato grafico
 
-## CAPO I
-
-### RISORSE FINANZIARIE
+## CAPO I - RISORSE FINANZIARIE
 
 ACCORDO INTERNO
 
@@ -2511,7 +2509,7 @@ CAPO 1
 
 RISORSE FINANZIARIE
 
-#### ARTICOLO I
+### ARTICOLO I
 
 Risorse del 10° FES
 
@@ -2558,7 +2556,7 @@ L'attuazione e il regolamento finanziario di cui all'articolo 9 contengono anche
 
 10\. Il Consiglio in conformita' del paragrafo 7 del protocollo finanziario dell'accordo di partenariato ACP-CE esegue, insieme con gli Stati ACP, l'analisi dei risultati valutando il livello di realizzazione degli impegni e degli esborsi nonche' i risultati e l'impatto degli aiuti forniti. L'analisi dei risultati e' eseguita sulla base di una proposta elaborata dalla Commissione nel 2010. Tale analisi contribuisce alla decisione relativa all'importo della cooperazione finanziaria dopo il 2013.
 
-#### ARTICOLO 2
+### ARTICOLO 2
 
 Risorse assegnate agli Stati ACP
 
@@ -2590,7 +2588,7 @@ d) 1500 milioni di EUR sotto forma di stanziamento a favore della
 
 BEI per finanziare il fondo investimenti in conformita' con le modalita' e le condizioni di cui all'allegato II dell'accordo di partenariato ACP-CE, ivi compreso un contributo aggiuntivo di 1 100 milioni di EUR alle risorse del fondo investimenti, gestito come fondo rotativo e 400 milioni di EUR sotto forma di aiuti non rimborsabili per il finanziamento degli abbuoni di interesse di cui agli articoli 2 e 4 dell'allegato II dell'accordo di partenariato ACP-CE nel periodo del 10° FES.
 
-#### ARTICOLO 3
+### ARTICOLO 3
 
 Risorse destinate ai PTOM
 
@@ -2602,7 +2600,7 @@ Risorse destinate ai PTOM
 
 partenariato ACP-CE, l'importo di cui al paragrafo 1 viene ridotto e gli importi di cui all'articolo 2, lettera a), vengono aumentati in maniera corrispondente mediante una decisione del Consiglio, che delibera all'unanimita' su proposta della Commissione.
 
-#### ARTICOLO 4
+### ARTICOLO 4
 
 Prestiti derivanti dalle risorse proprie della BEI
 
@@ -2622,7 +2620,7 @@ dell'importo complessivo dei crediti aperti dalla BEI a titolo dei contratti di 
 
 verranno stipulati contratti di garanzia tra ciascuno Stato membro e la BEI.
 
-#### ARTICOLO 5
+### ARTICOLO 5
 
 Operazioni gestite dalla BEI
 
@@ -2642,7 +2640,7 @@ effettuate a titolo del fondo investimenti nell'ambito del 9° e del 10° FES so
 
 per la gestione delle operazioni effettuate a titolo del fondo investimenti di cui al paragrafo 3 in conformita' con l'articolo 3, paragrafo 1, lettera a), dell'allegato II dell'accordo di partenariato ACP-CE.
 
-#### ARTICOLO 6
+### ARTICOLO 6
 
 Risorse riservate alle spese di sostegno associate al FES
 
@@ -2674,11 +2672,9 @@ Queste non sono attribuite a compiti fondamentali del servizio
 
 pubblico europeo cioe' del personale permanente della Commissione.
 
-## CAPO II
+## CAPO II - ATTUAZIONE E DISPOSIZIONI FINALI
 
-### ATTUAZIONE E DISPOSIZIONI FINALI
-
-#### ARTICOLO 7
+### ARTICOLO 7
 
 Contributi al 10° FES
 
@@ -2710,7 +2706,7 @@ Per quanto riguarda i fondi del 9° FES e dei FES precedenti che non sono trasfe
 
 membri sono fissate in dettaglio dal regolamento finanziario di cui all'articolo 10, paragrafo 2.
 
-#### ARTICOLO 8
+### ARTICOLO 8
 
 Il comitato del Fondo europeo di sviluppo
 
@@ -2732,7 +2728,7 @@ Belgio | 35 Bulgaria * | [il] Repubblica ceca | 5 Danimarca | 20 Germania | 205 
 
 5\. Il Consiglio adotta il regolamento interno del FES all'unanimita'.
 
-#### ARTICOLO 9
+### ARTICOLO 9
 
 Il Comitato del Fondo investimenti
 
@@ -2742,7 +2738,7 @@ Il Comitato del Fondo investimenti
 
 3\. Il Comitato degli investimenti delibera a maggioranza qualificata come stabilito dall'articolo 8, paragrafi 2 e 3.
 
-#### ARTICOLO 10
+### ARTICOLO 10
 
 Disposizioni di attuazione
 
@@ -2756,7 +2752,7 @@ Stabilisce altresi' particolari procedure di gestione per il Fondo per la pace i
 
 3\. La Commissione presentera' i regolamenti di cui ai paragrafi 1 e 2 prevedendo, tra l'altro, la sua proposta per la possibilita' di delegare l'attuazione dei compiti a terzi.
 
-#### ARTICOLO 11
+### ARTICOLO 11
 
 Esecuzione finanziaria, contabilita', audit e scarico
 
@@ -2778,7 +2774,7 @@ Esecuzione finanziaria, contabilita', audit e scarico
 
 9\. Le operazioni finanziate sulle risorse del FES gestite dalla BEI sono soggette alle procedure di controllo e di approvazione definite dallo statuto della BEI per tutte le sue operazioni.
 
-#### ARTICOLO 12
+### ARTICOLO 12
 
 Clausola di revisione
 
@@ -2786,7 +2782,7 @@ L'articolo 1, paragrafo 3 e gli articoli del Capo II, ad eccezione delle modific
 
 La BEI e' associata alla proposta della Commissione nelle questioni concernenti le sue attivita' e quelle del fondo investimenti.
 
-#### ARTICOLO 13
+### ARTICOLO 13
 
 Ratifica, entrata in vigore e durata
 
@@ -2796,7 +2792,7 @@ Ratifica, entrata in vigore e durata
 
 3\. Il presente accordo e' concluso per la stessa durata del quadro finanziario pluriennale dell'allegato I ter dell'accordo di partenariato ACP-CE. Tuttavia, fatto salvo il disposto dell'articolo 1, paragrafo 4, il presente accordo resta in vigore per il tempo necessario alla totale esecuzione di tutte le azioni finanziate nel quadro dell'accordo di partenariato ACP-CE, della decisione sull'associazione e di detto quadro finanziario pluriennale.
 
-#### ARTICOLO 14
+### ARTICOLO 14
 
 Lingue facenti fede
 

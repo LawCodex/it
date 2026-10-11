@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Titolo I
+## Titolo I - DISPOSIZIONI GENERALI
 
-### DISPOSIZIONI GENERALI
-
-###### Art. 1
+#### Art. 1
 
 Disciplina dell'ordinamento forense
 
@@ -76,7 +74,7 @@ Gli schemi dei regolamenti sono trasmessi alle Camere, ciascuno corredato di rel
 
 > 4\. - 4ter. (Omissis).".
 
-###### Art. 2
+#### Art. 2
 
 Disciplina della professione di avvocato
 
@@ -98,7 +96,7 @@ Possono essere altresi' iscritti: a) coloro che hanno svolto le funzioni di magi
 
 8\. L'uso del titolo e' vietato a chi sia stato radiato.
 
-###### Art. 3
+#### Art. 3
 
 Doveri e deontologia
 
@@ -114,7 +112,7 @@ Doveri e deontologia
 
 > \- Per il testo dell'articolo 17, comma 3, della legge 23 agosto 1988 n. 400, vedi nelle note all'articolo 1.
 
-###### Art. 4
+#### Art. 4
 
 Associazioni tra avvocati e multidisciplinari
 
@@ -138,7 +136,7 @@ Associazioni tra avvocati e multidisciplinari
 
 10\. Le associazioni che hanno ad oggetto esclusivamente lo svolgimento di attivita' professionale non sono assoggettate alle procedure fallimentari e concorsuali.
 
-###### Art. 4-bis - Esercizio della professione forense in forma societaria
+#### Art. 4-bis - Esercizio della professione forense in forma societaria
 
 1\. L'esercizio della professione forense in forma societaria e' consentito a societa' di persone, a societa' di capitali o a societa' cooperative iscritte in un'apposita sezione speciale dell'albo tenuto dall'ordine territoriale nella cui circoscrizione ha sede la stessa societa'; presso tale sezione speciale e' resa disponibile la documentazione analitica, per l'anno di riferimento, relativa alla compagine sociale. E' vietata la partecipazione societaria tramite societa' fiduciarie, trust o per interposta persona. La violazione di tale previsione comporta di diritto l'esclusione del socio.
 
@@ -162,11 +160,11 @@ c) i componenti dell'organo di gestione non possono essere estranei alla compagi
 
 6-ter. La Cassa nazionale di previdenza e assistenza forense, con proprio regolamento da emanare entro un anno dalla data di entrata in vigore della presente disposizione, provvede a definire termini, modalita' dichiarative e di riscossione, nonche' eventuali sanzioni applicabili per garantire l'applicazione delle disposizioni del comma 6-bis. Il regolamento di cui al primo periodo e' sottoposto ad approvazione ai sensi dell'articolo 3, comma 2, lettera a), del decreto legislativo 30 giugno 1994, n. 509)).
 
-###### Art. 5
+#### Art. 5
 
 ((ARTICOLO ABROGATO DALLA L. 4 AGOSTO 2017, N. 124))
 
-###### Art. 6
+#### Art. 6
 
 Segreto professionale
 
@@ -178,7 +176,7 @@ Segreto professionale
 
 4\. La violazione degli obblighi di cui al comma 1 costituisce illecito disciplinare. La violazione degli obblighi di cui al comma 2 costituisce giusta causa per l'immediato scioglimento del rapporto di collaborazione o di dipendenza.
 
-###### Art. 7
+#### Art. 7
 
 Prescrizioni per il domicilio
 
@@ -228,13 +226,13 @@ Ogni variazione deve essere tempestivamente comunicata dall'iscritto all'ordine,
 
 > 7-bis - 12-undecies (Omissis).".
 
-###### Art. 8
+#### Art. 8
 
 Impegno solenne
 
 1\. Per poter esercitare la professione, l'avvocato assume dinanzi al consiglio dell'ordine in pubblica seduta l'impegno di osservare i relativi doveri, secondo la formula: «Consapevole della dignita' della professione forense e della sua funzione sociale, mi impegno ad osservare con lealta', onore e diligenza i doveri della professione di avvocato per i fini della giustizia ed a tutela dell'assistito nelle forme e secondo i principi del nostro ordinamento».
 
-###### Art. 9
+#### Art. 9
 
 Specializzazioni
 
@@ -258,7 +256,7 @@ Il regolamento di cui al comma 1 stabilisce i parametri e i criteri sulla base d
 
 8\. Gli avvocati docenti universitari di ruolo in materie giuridiche e coloro che, alla data di entrata in vigore della presente legge, abbiano conseguito titoli specialistici universitari possono indicare il relativo titolo con le opportune specificazioni.
 
-###### Art. 10
+#### Art. 10
 
 Informazioni sull'esercizio della professione
 
@@ -270,7 +268,7 @@ Informazioni sull'esercizio della professione
 
 4\. L'inosservanza delle disposizioni del presente articolo costituisce illecito disciplinare.
 
-###### Art. 11
+#### Art. 11
 
 Formazione continua
 
@@ -396,7 +394,7 @@ Formazione continua
 
 > Nelle materie di sua competenza la Regione puo' concludere accordi con Stati e intese con enti territoriali interni ad altro Stato, nei casi e con le forme disciplinati da leggi dello Stato.".
 
-###### Art. 12
+#### Art. 12
 
 Assicurazione per la responsabilita' civile e assicurazione contro gli infortuni
 
@@ -410,7 +408,7 @@ Assicurazione per la responsabilita' civile e assicurazione contro gli infortuni
 
 5\. Le condizioni essenziali e i massimali minimi delle polizze sono stabiliti e aggiornati ogni cinque anni dal Ministro della giustizia, sentito il CNF.
 
-###### Art. 13
+#### Art. 13
 
 Conferimento dell'incarico e compenso
 
@@ -434,11 +432,11 @@ Conferimento dell'incarico e compenso
 
 10\. Oltre al compenso per la prestazione professionale, all'avvocato e' dovuta, sia dal cliente in caso di determinazione contrattuale, sia in sede di liquidazione giudiziale, oltre al rimborso delle spese effettivamente sostenute e di tutti gli oneri e contributi eventualmente anticipati nell'interesse del cliente, una somma per il rimborso delle spese forfetarie, la cui misura massima e' determinata dal decreto di cui al comma 6, unitamente ai criteri di determinazione e documentazione delle spese vive.
 
-###### Art. 13-bis
+#### Art. 13-bis
 
 ((ARTICOLO ABROGATO DALLA L. 21 APRILE 2023, N. 49))
 
-###### Art. 14
+#### Art. 14
 
 Mandato professionale. Sostituzioni e collaborazioni
 
@@ -452,11 +450,9 @@ Gli avvocati possono farsi sostituire da altro avvocato, con incarico anche verb
 
 4\. L'avvocato puo' nominare stabilmente uno o piu' sostituti presso ogni ufficio giudiziario, depositando la nomina presso l'ordine di appartenenza.
 
-## Titolo II
+## Titolo II - ALBI, ELENCHI E REGISTRI
 
-### ALBI, ELENCHI E REGISTRI
-
-###### Art. 15
+#### Art. 15
 
 Albi, elenchi e registri
 
@@ -526,7 +522,7 @@ n) ogni altro albo, registro o elenco previsto dalla legge o da regolamento.
 
 > 10\. Successivamente all'iscrizione, l'avvocato stabilito e' tenuto a presentare annualmente al Consiglio dell'ordine un attestato di iscrizione all'organizzazione professionale di appartenenza, rilasciato in data non antecedente a tre mesi dalla data di presentazione, ovvero dichiarazione sostitutiva.".
 
-###### Art. 16
+#### Art. 16
 
 Delega al Governo per il riordino
 
@@ -540,7 +536,7 @@ b) abrogazione delle norme vigenti incompatibili.
 
 2\. Lo schema del decreto legislativo di cui al comma 1 e' trasmesso alle Camere per l'acquisizione del parere delle competenti Commissioni parlamentari, che si esprimono entro trenta giorni dall'assegnazione.
 
-###### Art. 17
+#### Art. 17
 
 Iscrizione e cancellazione
 
@@ -626,7 +622,7 @@ AGGIORNAMENTO (33)
 
 La Corte costituzionale con sentenza 10 marzo - 23 maggio 2025, n. 70 (in G.U. 1ª s.s. 28/5/2025, n. 22) ha dichiarato "in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e sul funzionamento della Corte costituzionale), l'illegittimita' costituzionale dell'art. 17, comma 16, della legge n. 247 del 2012".
 
-###### Art. 18
+#### Art. 18
 
 Incompatibilita'
 
@@ -642,7 +638,7 @@ L'incompatibilita' non sussiste se l'oggetto della attivita' della societa' e' l
 
 d) con qualsiasi attivita' di lavoro subordinato anche se con orario di lavoro limitato.
 
-###### Art. 19
+#### Art. 19
 
 Eccezioni alle norme sulla incompatibilita'
 
@@ -652,7 +648,7 @@ Eccezioni alle norme sulla incompatibilita'
 
 3\. E' fatta salva l'iscrizione nell'elenco speciale per gli avvocati che esercitano attivita' legale per conto degli enti pubblici con le limitate facolta' disciplinate dall'articolo 23.
 
-###### Art. 20
+#### Art. 20
 
 Sospensione dall'esercizio professionale
 
@@ -662,7 +658,7 @@ Sospensione dall'esercizio professionale
 
 3\. Della sospensione, prevista dai commi 1 e 2, e' fatta annotazione nell'albo.
 
-###### Art. 21
+#### Art. 21
 
 Esercizio professionale effettivo, continuativo, abituale e prevalente e revisione degli albi, degli elenchi e dei registri; obbligo di iscrizione alla previdenza forense
 
@@ -694,7 +690,7 @@ c) agli avvocati che svolgano comprovata attivita' di assistenza continuativa di
 
 10\. Non e' ammessa l'iscrizione ad alcuna altra forma di previdenza se non su base volontaria e non alternativa alla Cassa nazionale di previdenza e assistenza forense.
 
-###### Art. 22
+#### Art. 22
 
 Albo speciale per il patrocinio davanti alle giurisdizioni superiori
 
@@ -710,7 +706,7 @@ Albo speciale per il patrocinio davanti alle giurisdizioni superiori
 
 «Sono dichiarati idonei i candidati che conseguano una media di sette decimi nelle prove scritte e in quella orale avendo riportato non meno di sei decimi in ciascuna di esse».
 
-###### Art. 23
+#### Art. 23
 
 Avvocati degli enti pubblici
 
@@ -720,15 +716,11 @@ Avvocati degli enti pubblici
 
 3\. Gli avvocati iscritti nell'elenco sono sottoposti al potere disciplinare del consiglio dell'ordine.
 
-## Titolo III
+## Titolo III - ORGANI E FUNZIONI DEGLI ORDINI FORENSI
 
-### ORGANI E FUNZIONI DEGLI ORDINI FORENSI
+### Capo I - L'Ordine Forense
 
-#### Capo I
-
-##### L'Ordine Forense
-
-###### Art. 24
+#### Art. 24
 
 L'ordine forense
 
@@ -738,11 +730,9 @@ L'ordine forense
 
 3\. Il CNF e gli ordini circondariali sono enti pubblici non economici a carattere associativo istituiti per garantire il rispetto dei principi previsti dalla presente legge e delle regole deontologiche, nonche' con finalita' di tutela della utenza e degli interessi pubblici connessi all'esercizio della professione e al corretto svolgimento della funzione giurisdizionale. Essi sono dotati di autonomia patrimoniale e finanziaria, sono finanziati esclusivamente con i contributi degli iscritti, determinano la propria organizzazione con appositi regolamenti, nel rispetto delle disposizioni di legge, e sono soggetti esclusivamente alla vigilanza del Ministro della giustizia.
 
-## Capo II
+### Capo II - Ordine Circondariale
 
-### Ordine Circondariale
-
-###### Art. 25
+#### Art. 25
 
 L'ordine circondariale forense
 
@@ -754,7 +744,7 @@ L'ordine circondariale forense
 
 4\. Presso ogni consiglio dell'ordine e' costituito il comitato pari opportunita' degli avvocati, eletto con le modalita' stabilite con regolamento approvato dal consiglio dell'ordine.
 
-###### Art. 26
+#### Art. 26
 
 Organi dell'ordine circondariale
 
@@ -776,7 +766,7 @@ f) il collegio dei revisori.
 
 2\. Il presidente rappresenta l'ordine circondariale.
 
-###### Art. 27
+#### Art. 27
 
 L'assemblea
 
@@ -796,7 +786,7 @@ AGGIORNAMENTO (12)
 
 Il D.L. 14 dicembre 2018, n. 135, convertito con modificazioni dalla L. 11 febbraio 2019, n. 12, ha disposto (con l'art. 11-quinquies, comma 2) che "Per il rinnovo dei consigli degli ordini circondariali degli avvocati scaduti il 31 dicembre 2018, l'assemblea di cui all'articolo 27, comma 4, secondo periodo, della legge 31 dicembre 2012, n. 247, si svolge entro il mese di luglio 2019".
 
-###### Art. 28
+#### Art. 28
 
 Il consiglio dell'ordine
 
@@ -840,7 +830,7 @@ Nei consigli con almeno quindici componenti, il consiglio puo' eleggere un vicep
 
 12\. Contro i risultati delle elezioni per il rinnovo del consiglio dell'ordine ciascun avvocato iscritto nell'albo puo' proporre reclamo al CNF entro dieci giorni dalla proclamazione. La presentazione del reclamo non sospende l'insediamento del nuovo consiglio.
 
-###### Art. 29
+#### Art. 29
 
 Compiti e prerogative del consiglio
 
@@ -910,7 +900,7 @@ AGGIORNAMENTO (23)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-###### Art. 30
+#### Art. 30
 
 Sportello per il cittadino
 
@@ -922,7 +912,7 @@ Sportello per il cittadino
 
 4\. Gli oneri derivanti dall'espletamento delle attivita' di sportello di cui al presente articolo sono posti a carico degli iscritti a ciascun albo, elenco o registro, nella misura e secondo le modalita' fissate da ciascun consiglio dell'ordine ai sensi dell'articolo 29, comma 3.
 
-###### Art. 31
+#### Art. 31
 
 Il collegio dei revisori
 
@@ -934,7 +924,7 @@ Il collegio dei revisori
 
 4\. Il collegio, che e' presieduto dal piu' anziano per iscrizione, verifica la regolarita' della gestione patrimoniale riferendo annualmente in sede di approvazione del bilancio.
 
-###### Art. 32
+#### Art. 32
 
 Funzionamento dei consigli
 
@@ -946,7 +936,7 @@ dell'ordine per commissioni
 
 Il regolamento puo' prevedere che i componenti delle commissioni possano essere scelti, eccettuate le materie deontologiche o che trattino dati riservati, anche tra gli avvocati iscritti all'albo, anche se non consiglieri dell'ordine.
 
-###### Art. 33
+#### Art. 33
 
 Scioglimento del consiglio
 
@@ -964,11 +954,9 @@ c) se ricorrono altri gravi motivi di rilevante interesse pubblico.
 
 4\. Il commissario, per essere coadiuvato nell'esercizio delle sue funzioni, puo' nominare un comitato di non piu' di sei componenti, scelti tra gli iscritti all'albo, di cui uno con funzioni di segretario.
 
-## Capo III
+### Capo III - Consiglio Nazionale Forense
 
-### Consiglio Nazionale Forense
-
-###### Art. 34
+#### Art. 34
 
 Durata e composizione
 
@@ -992,7 +980,7 @@ AGGIORNAMENTO (27)
 
 Il D.L. 22 giugno 2023, n. 75, convertito, con modificazioni, dalla L. 10 agosto 2023, n. 112, ha disposto (con l'art. 16-bis, comma 1) che "In attuazione dell'articolo 51 della Costituzione, il riferimento al rispetto dell'equilibrio tra i generi di cui all'articolo 34, comma 1, secondo periodo, della legge 31 dicembre 2012, n. 247, si interpreta nel senso che tale rispetto e' assicurato dall'osservanza della previsione di cui al comma 2 del citato articolo 34 nonche' della previsione di cui al quinto periodo del comma 3 del medesimo articolo 34 della legge n. 247 del 2012".
 
-###### Art. 35
+#### Art. 35
 
 Compiti e prerogative
 
@@ -1098,7 +1086,7 @@ c) a stabilire la misura della tassa di iscrizione e del contributo annuale dovu
 
 > Art. 65. Nei procedimenti che si svolgono davanti al Consiglio nazionale forense nei casi di cui agli artt. 49, comma secondo, 54, n. 2, del R.D.L. 27 novembre 1933, n. 1578, e 52, comma secondo, e 55 del presente decreto interviene alla seduta il Pubblico Ministero presso la Corte di cassazione.".
 
-###### Art. 36
+#### Art. 36
 
 Competenza giurisdizionale
 
@@ -1122,7 +1110,7 @@ Competenza giurisdizionale
 
 > \- Per il testo degli articoli da 59 a 65 del regio decreto 22 gennaio 1934, n. 37, vedi nelle note all'articolo 35.
 
-###### Art. 37
+#### Art. 37
 
 Funzionamento
 
@@ -1138,7 +1126,7 @@ Funzionamento
 
 > \- Per il testo degli articoli da 59 a 65 del regio decreto 22 gennaio 1934, n. 37, vedi nelle note all'articolo 35.
 
-###### Art. 38
+#### Art. 38
 
 Eleggibilita' e incompatibilita'
 
@@ -1150,11 +1138,9 @@ Eleggibilita' e incompatibilita'
 
 4\. L'eletto che viene a trovarsi in condizione di incompatibilita' deve optare per uno degli incarichi entro trenta giorni dalla proclamazione. Nel caso in cui non vi provveda, decade automaticamente dall'incarico assunto in precedenza.
 
-## Capo IV
+### Capo IV - Congresso Nazionale Forense
 
-### Congresso Nazionale Forense
-
-###### Art. 39
+#### Art. 39
 
 Congresso nazionale forense
 
@@ -1164,15 +1150,11 @@ Congresso nazionale forense
 
 3\. Il congresso nazionale forense delibera autonomamente le proprie norme regolamentari e statutarie, ed elegge l'organismo chiamato a dare attuazione ai suoi deliberati.
 
-## Titolo IV
+## Titolo IV - ACCESSO ALLA PROFESSIONE FORENSE
 
-### ACCESSO ALLA PROFESSIONE FORENSE
+### Capo I - Tirocinio Professionale
 
-#### Capo I
-
-##### Tirocinio Professionale
-
-###### Art. 40
+#### Art. 40
 
 Accordi tra universita' e ordini forensi
 
@@ -1180,7 +1162,7 @@ Accordi tra universita' e ordini forensi
 
 2\. Il CNF e la Conferenza dei presidi delle facolta' di giurisprudenza promuovono, anche mediante la stipulazione di apposita convenzione, senza nuovi o maggiori oneri per la finanza pubblica, la piena collaborazione tra le facolta' di giurisprudenza e gli ordini forensi, per il perseguimento dei fini di cui al presente capo.
 
-###### Art. 41
+#### Art. 41
 
 Contenuti e modalita' di svolgimento del tirocinio
 
@@ -1238,13 +1220,13 @@ AGGIORNAMENTO (15)
 
 Il D.L. 8 aprile 2020, n. 22, convertito con modificazioni dalla L. 6 giugno 2020, n. 41, ha disposto (con l'art. 6, comma 3) che "Il semestre di tirocinio professionale, di cui all'articolo 41 della legge 31 dicembre 2012, n. 247, all'interno del quale ricade il periodo di sospensione delle udienze dovuto all'emergenza epidemiologica determinata dal diffondersi del COVID-19, e' da considerarsi svolto positivamente anche nel caso in cui il praticante non abbia assistito al numero minimo di udienze di cui all'articolo 8, comma 4, del decreto del Ministro della giustizia 17 marzo 2016, n. 70. E' ridotta a sedici mesi la durata del tirocinio professionale di cui al Capo I del Titolo IV della legge 31 dicembre 2012, n. 247, per i tirocinanti che hanno conseguito la laurea in giurisprudenza nella sessione di cui all'articolo 101, comma 1, primo periodo, del decreto-legge 17 marzo 2020, n. 18, convertito, con modificazioni, dalla legge 24 aprile 2020, n. 27, indipendentemente dalla data in cui si sia svolta la seduta di laurea".
 
-###### Art. 42
+#### Art. 42
 
 Norme disciplinari per i praticanti
 
 1\. I praticanti osservano gli stessi doveri e norme deontologiche degli avvocati e sono soggetti al potere disciplinare del consiglio dell'ordine.
 
-###### Art. 43
+#### Art. 43
 
 Corsi di formazione per l'accesso alla professione di avvocato
 
@@ -1266,13 +1248,13 @@ AGGIORNAMENTO (15)
 
 Il D.L. 8 aprile 2020, n. 22, convertito con modificazioni dalla L. 6 giugno 2020, n. 41, ha disposto (con l'art. 6, comma 3) che "E' ridotta a sedici mesi la durata del tirocinio professionale di cui al Capo I del Titolo IV della legge 31 dicembre 2012, n. 247, per i tirocinanti che hanno conseguito la laurea in giurisprudenza nella sessione di cui all'articolo 101, comma 1, primo periodo, del decreto-legge 17 marzo 2020, n. 18, convertito, con modificazioni, dalla legge 24 aprile 2020, n. 27, indipendentemente dalla data in cui si sia svolta la seduta di laurea".
 
-###### Art. 44
+#### Art. 44
 
 Frequenza di uffici giudiziari
 
 1\. L'attivita' di praticantato presso gli uffici giudiziari e' disciplinata da apposito regolamento da emanare, entro un anno dalla data di entrata in vigore della presente legge, dal Ministro della giustizia, sentiti il Consiglio superiore della magistratura e il CNF.
 
-###### Art. 45
+#### Art. 45
 
 Certificato di compiuto tirocinio
 
@@ -1282,13 +1264,9 @@ Certificato di compiuto tirocinio
 
 3\. Il praticante avvocato e' ammesso a sostenere l'esame di Stato nella sede di corte di appello nel cui distretto ha svolto il maggior periodo di tirocinio. Nell'ipotesi in cui il tirocinio sia stato svolto per uguali periodi sotto la vigilanza di piu' consigli dell'ordine aventi sede in distretti diversi, la sede di esame e' determinata in base al luogo di svolgimento del primo periodo di tirocinio.
 
-## Capo II
+### Capo II - Esame di Stato per l'abilitazione all'esercizio della professione di avvocato
 
-### Esame di Stato per l'abilitazione all'esercizio - della
-
-#### professione di avvocato
-
-###### Art. 46
+#### Art. 46
 
 ((ARTICOLO ABROGATO DAL D.L. 12 GIUGNO 2026, N. 100))
 
@@ -1300,7 +1278,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 12 giugno 2026, n. 100 ha disposto (con l'art. 1, comma 15) che "Le disposizioni del presente articolo si applicano a partire dalla prima sessione successiva all'entrata in vigore del presente decreto".
 
-###### Art. 47
+#### Art. 47
 
 ((ARTICOLO ABROGATO DAL D.L. 12 GIUGNO 2026, N. 100))
 
@@ -1312,7 +1290,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 12 giugno 2026, n. 100 ha disposto (con l'art. 1, comma 15) che "Le disposizioni del presente articolo si applicano a partire dalla prima sessione successiva all'entrata in vigore del presente decreto".
 
-###### Art. 48
+#### Art. 48
 
 Disciplina transitoria per la pratica professionale
 
@@ -1326,7 +1304,7 @@ Disciplina transitoria per la pratica professionale
 
 > "Art. 1. - 1. Il diploma di specializzazione, conseguito presso le scuole di specializzazione per le professioni legali di cui all'articolo 16 del decreto legislativo 17 novembre 1997, n. 398, e successive modificazioni, e' valutato ai fini del compimento del periodo di pratica per l'accesso alla professione di notaio per il periodo di un anno.".
 
-###### Art. 49
+#### Art. 49
 
 ((ARTICOLO ABROGATO DAL D.L. 12 GIUGNO 2026, N. 100))
 
@@ -1338,15 +1316,11 @@ AGGIORNAMENTO (34)
 
 Il D.L. 12 giugno 2026, n. 100 ha disposto (con l'art. 1, comma 15) che "Le disposizioni del presente articolo si applicano a partire dalla prima sessione successiva all'entrata in vigore del presente decreto".
 
-## Titolo V
+## Titolo V - IL PROCEDIMENTO DISCIPLINARE
 
-### IL PROCEDIMENTO DISCIPLINARE
+### Capo I - Norme Generali
 
-#### Capo I
-
-##### Norme Generali
-
-###### Art. 50
+#### Art. 50
 
 Consigli distrettuali di disciplina
 
@@ -1360,7 +1334,7 @@ Consigli distrettuali di disciplina
 
 5\. Il regolamento per il procedimento e' approvato dal CNF, sentiti gli organi circondariali.
 
-###### Art. 51
+#### Art. 51
 
 Procedimento disciplinare e notizia del fatto
 
@@ -1378,7 +1352,7 @@ c) sono effettuati perquisizioni o sequestri;
 
 d) sono emesse sentenze che definiscono il grado di giudizio.
 
-###### Art. 52
+#### Art. 52
 
 Contenuto della decisione
 
@@ -1390,7 +1364,7 @@ b) il richiamo verbale, non avente carattere di sanzione disciplinare, nei casi 
 
 c) l'irrogazione di una delle seguenti sanzioni disciplinari: avvertimento, censura, sospensione dall'esercizio della professione da due mesi a cinque anni, radiazione.
 
-###### Art. 53
+#### Art. 53
 
 Sanzioni
 
@@ -1402,7 +1376,7 @@ Sanzioni
 
 4\. La radiazione consiste nell'esclusione definitiva dall'albo, elenco o registro e impedisce l'iscrizione a qualsiasi altro albo, elenco o registro, fatto salvo quanto stabilito nell'articolo 62. La radiazione e' inflitta per violazioni molto gravi che rendono incompatibile la permanenza dell'incolpato nell'albo.
 
-###### Art. 54
+#### Art. 54
 
 Rapporto con il processo penale
 
@@ -1414,7 +1388,7 @@ Rapporto con il processo penale
 
 4\. La durata della pena accessoria dell'interdizione dall'esercizio della professione inflitta dall'autorita' giudiziaria all'avvocato e' computata in quella della corrispondente sanzione disciplinare della sospensione dall'esercizio della professione.
 
-###### Art. 55
+#### Art. 55
 
 Riapertura del procedimento
 
@@ -1428,7 +1402,7 @@ b) se e' stato pronunciato il proscioglimento e l'autorita' giudiziaria ha emess
 
 3\. Per la riapertura del procedimento e per i provvedimenti conseguenti e' competente il consiglio distrettuale di disciplina che ha emesso la decisione, anche se sono state emesse sentenze su ricorso. Il giudizio e' affidato a una sezione diversa da quella che ha deciso.
 
-###### Art. 56
+#### Art. 56
 
 Prescrizione dell'azione disciplinare
 
@@ -1438,7 +1412,7 @@ Prescrizione dell'azione disciplinare
 
 3\. Il termine della prescrizione e' interrotto con la comunicazione all'iscritto della notizia dell'illecito. Il termine e' interrotto anche dalla notifica della decisione del consiglio distrettuale di disciplina e della sentenza pronunciata dal CNF su ricorso. Da ogni interruzione decorre un nuovo termine della durata di cinque anni. Se gli atti interruttivi sono piu' di uno, la prescrizione decorre dall'ultimo di essi, ma in nessun caso il termine stabilito nel comma 1 puo' essere prolungato di oltre un quarto. Non si computa il tempo delle eventuali sospensioni.
 
-###### Art. 57
+#### Art. 57
 
 Divieto di cancellazione
 
@@ -1452,7 +1426,7 @@ AGGIORNAMENTO (33)
 
 La Corte costituzionale con sentenza 10 marzo - 23 maggio 2025, n. 70 (in G.U. 1ª s.s. 28/5/2025, n. 22) ha dichiarato "l'illegittimita' costituzionale dell'art. 57 della legge 31 dicembre 2012, n. 247 (Nuova disciplina dell'ordinamento della professione forense)".
 
-###### Art. 58
+#### Art. 58
 
 Notizia di illecito disciplinare e
 
@@ -1466,11 +1440,9 @@ fase istruttoria pre-procedimentale
 
 4\. Il provvedimento di archiviazione e' comunicato al consiglio dell'ordine presso il quale l'avvocato e' iscritto, all'iscritto e al soggetto dal quale e' pervenuta la notizia di illecito.
 
-## Capo II
+### Capo II - Procedimento
 
-### Procedimento
-
-###### Art. 59
+#### Art. 59
 
 Procedimento disciplinare
 
@@ -1524,7 +1496,7 @@ Nel caso di decisioni complesse, il termine per il deposito della motivazione pu
 
 n) per quanto non specificatamente disciplinato dal presente comma, si applicano le norme del codice di procedura penale, se compatibili.
 
-###### Art. 60
+#### Art. 60
 
 Sospensione cautelare
 
@@ -1598,7 +1570,7 @@ Sospensione cautelare
 
 > Si applica l'ultimo comma dell'articolo 648.".
 
-###### Art. 61
+#### Art. 61
 
 Impugnazioni
 
@@ -1608,7 +1580,7 @@ Impugnazioni
 
 3\. La proposizione del ricorso sospende l'esecuzione del provvedimento.
 
-###### Art. 62
+#### Art. 62
 
 Esecuzione
 
@@ -1632,7 +1604,7 @@ Esecuzione
 
 10\. Il professionista radiato puo' chiedere di essere nuovamente iscritto decorsi cinque anni dall'esecutivita' del provvedimento sanzionatorio, ma non oltre un anno successivamente alla scadenza di tale termine.
 
-###### Art. 63
+#### Art. 63
 
 Poteri ispettivi del CNF
 
@@ -1640,11 +1612,9 @@ Poteri ispettivi del CNF
 
 2\. Analoghi poteri ispettivi possono essere esercitati per quanto riguarda i procedimenti in corso presso i consigli dell'ordine di appartenenza per la previsione transitoria di cui all'articolo 49.
 
-## Titolo VI
+## Titolo VI - DELEGA AL GOVERNO E DISPOSIZIONI TRANSITORIE E FINALI
 
-### DELEGA AL GOVERNO E DISPOSIZIONI TRANSITORIE E FINALI
-
-###### Art. 64
+#### Art. 64
 
 Delega al Governo per il testo unico
 
@@ -1658,7 +1628,7 @@ b) procedere al coordinamento del testo delle disposizioni vigenti apportando, n
 
 3\. Dalle disposizioni del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
-###### Art. 65
+#### Art. 65
 
 Disposizioni transitorie
 
@@ -1688,7 +1658,7 @@ Disposizioni transitorie
 
 > b) gli avvocati ed i procuratori degli uffici legali istituiti sotto qualsiasi denominazione ed in qualsiasi modo presso gli enti di cui allo stesso secondo comma, per quanto concerne le cause e gli affari propri dell'ente presso il quale prestano la loro opera. Essi sono iscritti nell'elenco speciale annesso all'albo .".
 
-###### Art. 66
+#### Art. 66
 
 Disposizione finale
 
@@ -1832,7 +1802,7 @@ Disposizione finale
 
 > 28\. a far data dal 1 gennaio 1996 saranno soggette all'assicurazione obbligatoria per la tubercolosi le istituzioni pubbliche di assistenza e beneficenza (ipab) o loro reparti convenzionati con il servizio sanitario nazionale ai sensi dell'articolo 26 della legge 23 dicembre 1978, n. 833, competendo soltanto ad esse la qualifica di istituzione pubblica sanitaria.".
 
-###### Art. 67
+#### Art. 67
 
 Clausola di invarianza finanziaria
 

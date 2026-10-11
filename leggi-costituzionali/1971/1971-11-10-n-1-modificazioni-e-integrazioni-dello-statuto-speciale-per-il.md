@@ -25,7 +25,7 @@ PROMULGA
 
 la seguente legge costituzionale:
 
-### Art. 1
+## Art. 1
 
 All'articolo 3 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, sono aggiunti i seguenti commi:
 
@@ -35,7 +35,7 @@ Ferme restando le disposizioni sull'uso della bandiera nazionale, la regione, la
 
 Il terzo comma dell'articolo 1 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' soppresso.
 
-### Art. 2
+## Art. 2
 
 L'articolo 4 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' sostituito dal seguente:
 
@@ -61,7 +61,7 @@ L'articolo 4 dello Statuto speciale per il Trentino-Alto Adige, approvato con le
 
 10\) contributi di miglioria in relazione ad opere pubbliche eseguite dagli altri enti pubblici compresi nell'ambito del territorio regionale".
 
-### Art. 3
+## Art. 3
 
 L'articolo 5 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' sostituito dal seguente:
 
@@ -73,7 +73,7 @@ L'articolo 5 dello Statuto speciale per il Trentino-Alto Adige, approvato con le
 
 3\) ordinamento degli enti di credito fondiario e di credito agrario, delle casse di risparmio e delle casse rurali, nonche' delle aziende di credito a carattere regionale".
 
-### Art. 4
+## Art. 4
 
 L'articolo 8 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' sostituito dal seguente:
 
@@ -87,7 +87,7 @@ L'autorizzazione all'apertura e al trasferimento nella provincia di sportelli ba
 
 La provincia nomina il presidente e il vice presidente della Cassa di risparmio, sentito il parere del Ministero del tesoro".
 
-### Art. 5
+## Art. 5
 
 L'articolo 11 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' sostituito dal seguente:
 
@@ -151,7 +151,7 @@ L'articolo 11 dello Statuto speciale per il Trentino-Alto Adige, approvato con l
 
 29\) addestramento e formazione professionale".
 
-### Art. 6
+## Art. 6
 
 L'articolo 12 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' sostituito dal seguente:
 
@@ -179,7 +179,7 @@ L'articolo 12 dello Statuto speciale per il Trentino-Alto Adige, approvato con l
 
 11\) attivita' sportive e ricreative con i relativi impianti ed attrezzature".
 
-### Art. 7
+## Art. 7
 
 Dopo l'articolo 12 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' istituito il seguente articolo 12-bis:
 
@@ -189,19 +189,19 @@ I collocatori comunali saranno scelti e nominati dagli organi statali, sentiti i
 
 I cittadini residenti nella provincia di Bolzano hanno diritto alla precedenza nel collocamento al lavoro nel territorio della provincia stessa, esclusa ogni distinzione basata sulla appartenenza ad un gruppo linguistico o sull'anzianita' di residenza".
 
-### Art. 8
+## Art. 8
 
 Dopo l'articolo 13 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' istituito il seguente articolo 13-bis:
 
 "Con legge dello Stato puo' essere attribuita alla regione e alle province la potesta' di emanare norme legislative per servizi relativi a materie estranee alle rispettive competenze previste dal presente Statuto".
 
-### Art. 9
+## Art. 9
 
 Al primo comma dell'articolo 14 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' aggiunta la seguente disposizione:
 
 "La delega alle province e' obbligatoria nella materia dei servizi antincendi".
 
-### Art. 10
+## Art. 10
 
 L'articolo 9 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' sostituito dal seguente:
 
@@ -213,7 +213,7 @@ I presidenti delle giunte provinciali territorialmente competenti o loro delegat
 
 Il Ministero competente adotta i provvedimenti concernenti l'attivita' dell'Ente nazionale per l'energia elettrica (ENEL) nella regione, sentito il parere della provincia interessata".
 
-### Art. 11
+## Art. 11
 
 L'articolo 10 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' sostituito dal seguente:
 
@@ -227,7 +227,7 @@ Sulle domande di concessione per grandi derivazioni idroelettriche presentate, n
 
 L'articolo 63 dello Statuto speciale e' soppresso.
 
-### Art. 12
+## Art. 12
 
 L'articolo 15 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' sostituito dal seguente:
 
@@ -261,23 +261,23 @@ II consiglio scolastico, oltre a svolgere i compiti previsti dalle leggi vigenti
 
 Per l'eventuale istituzione di universita' nel Trentino-Alto Adige, lo Stato deve sentire preventivamente il parere della regione e della provincia interessata".
 
-### Art. 13
+## Art. 13
 
 Al secondo comma dell'articolo 16 e all'articolo 17 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, sono aggiunte le seguenti parole: "ovvero della polizia locale, urbana e rurale".
 
-### Art. 14
+## Art. 14
 
 Dopo l'articolo 16 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' istituito il seguente articolo 16-bis:
 
 "I provvedimenti dell'autorita' statale adottati per motivi di ordine pubblico, che incidono, sospendono o comunque limitano l'efficacia di autorizzazioni dei presidenti delle giunte provinciali in materia di polizia o di altri provvedimenti di competenza della provincia, sono emanati sentito il presidente della giunta provinciale competente, il quale deve esprimere il parere nel termine indicato nella richiesta".
 
-### Art. 15
+## Art. 15
 
 Dopo l'articolo 17 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' istituito il seguente articolo 17-bis:
 
 "La regione e le province utilizzano - a presidio delle norme contenute nelle rispettive leggi - le sanzioni penali che le leggi dello Stato stabiliscono per le stesse fattispecie".
 
-### Art. 16
+## Art. 16
 
 Dopo l'articolo 17 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5 e' istituito il seguente articolo 17-ter;
 
@@ -287,7 +287,7 @@ E' altresi' obbligatorio il parere della provincia per le opere idrauliche della
 
 L'utilizzazione delle acque pubbliche da parte dello Stato e della provincia, nell'ambito della rispettiva competenza, ha luogo in base a un piano generale stabilito d'intesa tra i rappresentanti dello Stato e della provincia in seno a un apposito comitato".
 
-### Art. 17
+## Art. 17
 
 Dopo l'articolo 17 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' istituito il seguente articolo 17-quater:
 
@@ -297,19 +297,19 @@ Qualora lo Stato intervenga con propri fondi nelle province di Trento e di Bolza
 
 La provincia di Bolzano utilizza i propri stanziamenti destinati a scopi assistenziali, sociali e culturali in proporzione diretta alla consistenza di ciascun gruppo linguistico e in riferimento alla entita' del bisogno del gruppo medesimo, salvo casi straordinari che richiedano interventi immediati per esigenze particolari".
 
-### Art. 18
+## Art. 18
 
 I commi secondo e quarto dell'articolo 19 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, sono, rispettivamente, sostituiti dai seguenti: "Il numero dei consiglieri regionali e' di 70. La ripartizione dei seggi tra i collegi si effettua dividendo il numero degli abitanti della regione, quale risulta dall'ultimo censimento generale della popolazione, per 70 e distribuendo i seggi in proporzione alla popolazione di ogni collegio, sulla base dei quozienti interi e dei piu' alti resti".
 
 "Per l'esercizio del diritto elettorale attivo e' richiesto il requisito della residenza nel territorio regionale per un periodo ininterrotto di quattro anni. L'elettore che abbia maturato il periodo di residenza ininterrotta quadriennale nel territorio della regione e' iscritto, ai fini delle elezioni regionali, nelle liste elettorali del comune della provincia ove ha maturato il maggior periodo di residenza nel quadriennio, oppure, nel caso di periodi di pari durata, nel comune di sua ultima residenza. Per l'elezione dei consigli regionali e provinciali e per quella dei consigli comunali prevista dall'art. 54-ter durante il quadriennio l'elettore esercita il diritto di voto nel comune di precedente residenza".
 
-### Art. 19
+## Art. 19
 
 Dopo il quinto comma dell'articolo 27 dello Statuto speciale per il Trentino-Alto-Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' aggiunto il seguente comma:
 
 "Lo scioglimento del consiglio regionale non comporta lo scioglimento dei consigli provinciali. I componenti del consiglio disciolto continuano ad esercitare le funzioni di consigliere provinciale fino alla elezione del nuovo consiglio regionale".
 
-### Art. 20
+## Art. 20
 
 L'articolo 30 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' sostituito dal seguente:
 
@@ -323,13 +323,13 @@ Il presidente sceglie il vice presidente chiamato a sostituirlo in caso di assen
 
 Gli assessori supplenti sono chiamati a sostituire gli effettivi nelle rispettive attribuzioni, tenendo conto del gruppo linguistico al quale appartengono i sostituiti".
 
-### Art. 21
+## Art. 21
 
 Il primo comma dell'articolo 43 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' sostituito dal seguente:
 
 "Ai consigli provinciali si applicano, in quanto compatibili, le disposizioni degli articoli 21, 22, 23, 25, 26, 27 e 28".
 
-### Art. 22
+## Art. 22
 
 Nel primo comma dell'articolo 44 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, dopo la parola "provinciale" sono inserite le parole "di Trento".
 
@@ -341,7 +341,7 @@ La composizione della giunta provinciale di Bolzano deve adeguarsi alla consiste
 
 Il presidente sceglie il vice presidente chiamato a sostituirlo in caso di assenza o impedimento".
 
-### Art. 23
+## Art. 23
 
 Nel secondo comma dell'articolo 34 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' soppressa la parola: "particolarmente".
 
@@ -349,7 +349,7 @@ Dopo il terzo comma dell'articolo 46 dello stesso Statuto e' aggiunto il seguent
 
 "Egli interviene alle sedute del Consiglio dei Ministri, quando si trattano questioni che riguardano la provincia".
 
-### Art. 24
+## Art. 24
 
 Il n. 5 dell'articolo 48 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' sostituito dal seguente:
 
@@ -357,13 +357,13 @@ Il n. 5 dell'articolo 48 dello Statuto speciale per il Trentino-Alto Adige, appr
 
 Restano riservati allo Stato i provvedimenti straordinari di cui sopra allorche' siano dovuti a motivi di ordine pubblico e quando si riferiscano a comuni con popolazione superiore ai 20.000 abitanti".
 
-### Art. 25
+## Art. 25
 
 I commi primo e quarto dell'articolo 49 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, sono, rispettivamente, sostituiti dai seguenti: "I disegni di legge approvati dal consiglio regionale o da quello provinciale sono comunicati al commissario del Governo in Trento, se trattasi della regione o della provincia di Trento, e al commissario del Governo in Bolzano, se trattasi della provincia di Bolzano. I disegni di legge sono promulgati 30 giorni dopo la comunicazione, salvo che il Governo non li rinvii rispettivamente al consiglio regionale od a quello provinciale col rilievo che eccedono le rispettive competenze o contrastano con gli interessi nazionali o con quelli di una delle due province nella regione".
 
 "Le leggi regionali e quelle provinciali sono promulgate rispettivamente dal presidente della giunta regionale o dal presidente della giunta provinciale e sono vistate dal commissario del Governo competente".
 
-### Art. 26
+## Art. 26
 
 Dopo l'articolo 49 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' istituito il seguente articolo 49-bis:
 
@@ -373,37 +373,37 @@ Nel caso che la richiesta di votazione separata non sia accolta, ovvero qualora 
 
 Il ricorso non ha effetto sospensivo".
 
-### Art. 27
+## Art. 27
 
 All'articolo 54 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' aggiunto il seguente comma:
 
 "Nei comuni della provincia di Bolzano ciascun gruppo linguistico ha diritto di essere rappresentato nella giunta municipale se nel consiglio comunale vi siano almeno due consiglieri appartenenti al gruppo stesso".
 
-### Art. 28
+## Art. 28
 
 Dopo l'articolo 54 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' istituito il seguente articolo 54-bis:
 
 "Le leggi sulle elezioni del consiglio regionale e di quello provinciale di Bolzano, nonche' le norme sulla composizione degli organi collegiali degli enti pubblici locali in provincia di Bolzano garantiscono la rappresentanza del gruppo linguistico ladino".
 
-### Art. 29
+## Art. 29
 
 Dopo l'articolo 54 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' istituito il seguente articolo 54-ter:
 
 Per l'esercizio del diritto elettorale attivo nelle elezioni dei consigli comunali della provincia di Bolzano si applicano le disposizioni di cui all'ultimo comma dell'articolo 19".
 
-### Art. 30
+## Art. 30
 
 La denominazione del titolo V dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' sostituita dalla seguente:
 
 "Demanio e patrimonio della regione e delle province".
 
-### Art. 31
+## Art. 31
 
 Dopo l'articolo 58 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' istituito il seguente articolo 58-bis:
 
 "Le province, in corrispondenza delle nuove materie attribuite alla loro competenza, succedono, nell'ambito del proprio territorio, nei beni e diritti demaniali e patrimoniali di natura immobiliare dello Stato e nei beni e diritti demaniali e patrimoniali della regione, esclusi in ogni caso quelli relativi al demanio militare, a servizi di carattere nazionale e a materie di competenza regionale".
 
-### Art. 32
+## Art. 32
 
 All'articolo 59 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' aggiunto il seguente comma:
 
@@ -415,39 +415,39 @@ b) i due decimi dell'imposta generale sull'entrata relativa all'ambito regionale
 
 c) i nove decimi del provento del lotto, al netto delle vincite".
 
-### Art. 33
+## Art. 33
 
 L'articolo 60 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' abrogato.
 
-### Art. 34
+## Art. 34
 
 L'articolo 61 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' sostituito dal seguente:
 
 "E' devoluto alle province il provento dell'imposta erariale, riscossa nei rispettivi territori, per l'energia ed il gas ivi consumati".
 
-### Art. 35
+## Art. 35
 
 L'articolo 62 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' sostituito dal seguente:
 
 "Per le concessioni di grande derivazione di acque pubbliche esistenti nella provincia, accordate o da accordarsi per qualunque scopo, lo Stato cede a favore della provincia i nove decimi dell'importo del canone annuale stabilito a norma di legge".
 
-### Art. 36
+## Art. 36
 
 All'articolo 65 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' aggiunto il seguente comma:
 
 "Le province hanno facolta' di sovrimporre ai tributi stabiliti dalla regione, nei limiti consentiti dalla legge regionale di cui al comma precedente".
 
-### Art. 37
+## Art. 37
 
 Nell'articolo 66 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, le parole: "la regione ha", sono sostituite da quelle: "la regione e le province hanno" e le parole: "da essa", da quelle: "da esse".
 
-### Art. 38
+## Art. 38
 
 L'articolo 67 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' sostituito dal seguente:
 
 "Sono devoluti alle province i nove decimi del gettito delle imposte erariali sui terreni e fabbricati e sui redditi agrari relativi ai loro territori".
 
-### Art. 39
+## Art. 39
 
 All'articolo 68 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' aggiunto il seguente comma:
 
@@ -475,13 +475,13 @@ Art. 68-quater.
 
 "L'articolo 119, terzo comma, della Costituzione si applica anche alle province autonome di Trento e di Bolzano".
 
-### Art. 40
+## Art. 40
 
 L'articolo 69 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' sostituito dal seguente:
 
 "Le province hanno competenza legislativa, nei limiti stabiliti dall'articolo 5, per le autorizzazioni in materia di finanza locale".
 
-### Art. 41
+## Art. 41
 
 L'articolo 70 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' sostituito dal seguente:
 
@@ -489,7 +489,7 @@ L'articolo 70 dello Statuto speciale per il Trentino-Alto Adige, approvato con l
 
 In casi eccezionali, allo scopo di adeguare le finanze dei comuni al raggiungimento delle finalita' e all'esercizio delle funzioni stabilite dalle leggi, le province di Trento e di Bolzano possono altresi' assegnare ai comuni stessi quote di integrazione".
 
-### Art. 42
+## Art. 42
 
 L'articolo 73 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' sostituito dal seguente:
 
@@ -511,13 +511,13 @@ Limitatamente ai capitoli definiti con la procedura di cui ai commi precedenti, 
 
 Per l'approvazione dei bilanci e dei rendiconti finanziari della regione e' necessario il voto favorevole della maggioranza dei consiglieri della provincia di Trento e di quelli della provincia di Bolzano. Se tale maggioranza non si forma, l'approvazione stessa e' data da un organo a livello regionale. Detto organo non puo' modificare le decisioni in ordine ai capitoli di bilancio eventualmente contestati in base a quanto previsto ai commi terzo, quarto e quinto del presente articolo e definiti con la procedura ivi contemplata".
 
-### Art. 43
+## Art. 43
 
 La denominazione del titolo VII dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' sostituita dalla seguente:
 
 "Rapporti fra Stato, regione e provincia".
 
-### Art. 44
+## Art. 44
 
 L'articolo 76 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' sostituito dal seguente:
 
@@ -531,7 +531,7 @@ L'articolo 76 dello Statuto speciale per il Trentino-Alto Adige, approvato con l
 
 Il commissario del Governo in Trento esercita le attribuzioni di cui al n. 2) del precedente comma nei riguardi della regione e delle altre amministrazioni pubbliche aventi competenza sull'intero territorio regionale".
 
-### Art. 45
+## Art. 45
 
 Dopo l'articolo 77 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' istituito il seguente articolo 77-bis:
 
@@ -549,13 +549,13 @@ I trasferimenti del personale di lingua tedesca saranno, comunque, contenuti nel
 
 Le disposizioni sulla riserva e ripartizione proporzionale tra i gruppi linguistici italiano e tedesco dei posti esistenti nella provincia di Bolzano sono estese al personale della magistratura giudicante e requirente. E' garantita la stabilita' di sede nella provincia stessa ai magistrati appartenenti al gruppo linguistico tedesco, ferme le norme dell'ordinamento giudiziario sulle incompatibilita'. Si applicano anche al personale della magistratura in provincia di Bolzano i criteri per la attribuzione dei posti riservati ai cittadini di lingua tedesca, fissati nel quarto comma del presente articolo".
 
-### Art. 46
+## Art. 46
 
 L'articolo 78 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' sostituito dal seguente:
 
 "Nel Trentino-Alto Adige e' istituito un tribunale regionale di giustizia amministrativa con una autonoma sezione per la provincia di Bolzano, secondo l'ordinamento che verra' stabilito al riguardo".
 
-### Art. 47
+## Art. 47
 
 Dopo l'articolo 78 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' istituito il seguente articolo 78-bis:
 
@@ -567,25 +567,25 @@ Si succedono quali presidenti della sezione per uguale periodo di tempo un giudi
 
 Al presidente della sezione e' dato voto determinante in caso di parita' di voti, tranne che per i ricorsi avverso provvedimenti amministrativi lesivi del principio di parita' tra i gruppi linguistici e la procedura di approvazione dei bilanci regionali e provinciali".
 
-### Art. 48
+## Art. 48
 
 Dopo l'articolo 78 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' istituito il seguente articolo 78-ter:
 
 "Gli atti amministrativi degli enti ed organi della pubblica amministrazione aventi sede nella regione, ritenuti lesivi del principio di parita' dei cittadini in quanto appartenenti ad un gruppo linguistico, possono essere impugnati dinanzi all'autonoma sezione di Bolzano del tribunale regionale di giustizia amministrativa, da parte dei consiglieri regionali o provinciali e, in caso di provvedimenti dei comuni nella provincia di Bolzano, anche da parte dei consiglieri dei comuni di tale provincia, qualora la lesione sia stata riconosciuta dalla maggioranza del gruppo linguistico consiliare che si ritiene leso".
 
-### Art. 49
+## Art. 49
 
 Dopo l'articolo 78 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' istituito il seguente articolo 78-quater:
 
 "Delle sezioni del Consiglio di Stato investite dei giudizi d'appello sulle decisioni dell'autonoma sezione di Bolzano del tribunale regionale di giustizia amministrativa di cui all'articolo 78 dello Statuto fa parte un consigliere appartenente al gruppo di lingua tedesca della provincia di Bolzano".
 
-### Art. 50
+## Art. 50
 
 Il primo comma dell'articolo 82 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' sostituito dal seguente:
 
 "Ferme le disposizioni contenute negli articoli 49-bis e 73, commi sesto e settimo, dello Statuto, la legge regionale o provinciale puo' essere impugnata davanti la Corte costituzionale per violazione della Costituzione o del presente Statuto o del principio di parita' tra i gruppi linguistici".
 
-### Art. 51
+## Art. 51
 
 L'articolo 83 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' sostituito dal seguente:
 
@@ -597,13 +597,13 @@ Il ricorso e' proposto dal Presidente della giunta regionale o da quello della g
 
 Copia dell'atto di impugnazione e del ricorso per conflitto di attribuzione deve essere inviata al commissario del Governo in Trento, se trattasi della regione o della provincia di Trento, e al commissario del Governo in Bolzano, se trattasi della provincia di Bolzano".
 
-### Art. 52
+## Art. 52
 
 L'articolo 84 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' sostituito dal seguente:
 
 "Nella regione la lingua tedesca e' parificata a quella italiana che e' la lingua ufficiale dello Stato. La lingua italiana fa testo negli atti aventi carattere legislativo e nei casi nei quali dal presente Statuto e' prevista la redazione bilingue".
 
-### Art. 53
+## Art. 53
 
 L'articolo 85 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' sostituito dal seguente:
 
@@ -615,7 +615,7 @@ Gli uffici, gli organi e i concessionari di cui al primo comma usano nella corri
 
 Salvo i casi previsti espressamente - e la regolazione con norme di attuazione dei casi di uso congiunto delle due lingue negli atti destinati alla generalita' dei cittadini, negli atti individuali destinati a uso pubblico e negli atti destinati a pluralita' di uffici - e' riconosciuto negli altri casi l'uso disgiunto dell'una o dell'altra delle due lingue. Rimane salvo l'uso della sola lingua italiana all'interno degli ordinamenti di tipo militare".
 
-### Art. 54
+## Art. 54
 
 Il primo comma dell'articolo 87 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' soppresso.
 
@@ -625,7 +625,7 @@ Il secondo comma dello stesso articolo 87 e' sostituito dai seguenti:
 
 Nelle scuole dei comuni della provincia di Trento ove e' parlato il ladino e' garantito l'insegnamento della lingua e della cultura ladina".
 
-### Art. 55
+## Art. 55
 
 L'articolo 89 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' sostituito dal seguente:
 
@@ -635,11 +635,11 @@ Le disposizioni di cui agli articoli 24 e 43, relative al cambiamento biennale d
 
 ## NORME FINALI E TRANSITORIE
 
-### Art. 56
+## Art. 56
 
 Nelle materie trasferite dalla competenza della regione a quella delle province, le leggi regionali vigenti alla data di entrata in vigore della presente legge continuano ad applicarsi fino a quando non sia diversamente disposto con legge provinciale.
 
-### Art. 57
+## Art. 57
 
 L'articolo 95 dello Statuto speciale per il Trentino-Alto Adige, approvato con legge costituzionale 26 febbraio 1948, n. 5, e' sostituito dal seguente:
 
@@ -647,7 +647,7 @@ L'articolo 95 dello Statuto speciale per il Trentino-Alto Adige, approvato con l
 
 In seno alla commissione di cui al precedente comma e' istituita una speciale commissione per le norme di attuazione relative alle materie attribuite alla competenza della provincia di Bolzano, composta di sei membri, di cui tre in rappresentanza dello Stato e tre della provincia. Uno dei membri in rappresentanza dello Stato deve appartenere al gruppo linguistico tedesco; uno di quelli in rappresentanza della provincia deve appartenere al gruppo linguistico italiano".
 
-### Art. 58
+## Art. 58
 
 Salvi i casi espressamente previsti, i decreti legislativi contenenti le norme di attuazione dello Statuto saranno emanati entro due anni dalla data di entrata in vigore della presente legge.
 
@@ -655,7 +655,7 @@ Se nei primi 18 mesi le commissioni di cui all'articolo precedente non hanno eme
 
 Con norme di attuazione da emanare entro un anno dalla data di entrata in vigore della presente legge, sono determinati i beni di cui all'articolo 31 della presente legge che passano alle province, nonche' le modalita' per la consegna dei beni stessi.
 
-### Art. 59
+## Art. 59
 
 Con norme di attuazione da emanare entro un anno dalla data di entrata in vigore della presente legge sono indicati i beni del patrimonio storico e artistico di interesse nazionale, esclusi dalla competenza provinciale di cui all'articolo 11, n. 3, dello Statuto.
 
@@ -663,33 +663,33 @@ Entro lo stesso termine sono emanate le norme di attuazione dell'articolo 15 del
 
 Qualora le norme di cui ai commi precedenti non siano emanate nel termine stabilito, le province possono assumere, con legge, le relative funzioni amministrative.
 
-### Art. 60
+## Art. 60
 
 La data di inizio e le modalita' tecniche per l'applicazione delle norme in materia finanziaria contenute nella presente legge che integrano e modificano le disposizioni dello Statuto sono stabilite con norme di attuazione da emanare tempestivamente in relazione al passaggio delle funzioni alle province e comunque non oltre il termine di cui al primo comma dell'articolo 58 della presente legge.
 
-### Art. 61
+## Art. 61
 
 In relazione al trasferimento di competenze dalla regione alle province, disposto dalla presente legge, si provvede al passaggio di uffici e personale dalla regione alle province, con decreto del Presidente della giunta regionale, sentita la giunta provinciale interessata, facendo salvi la posizione di stato e il trattamento economico del personale trasferito, e tenendo conto delle esigenze familiari, della residenza e del gruppo linguistico dei dipendenti.
 
-### Art. 62
+## Art. 62
 
 Con convenzioni stipulate tra la regione e la provincia interessata si provvede alla sistemazione degli oneri finanziari relativi a mutui passivi pluriennali stipulati per competenze devolute dalla presente legge dalla regione alle province, nonche' alla regolamentazione di altri rapporti patrimoniali e finanziari.
 
-### Art. 63
+## Art. 63
 
 Restano ferme le disposizioni contenute nella legge della provincia di Bolzano 5 gennaio 1958, n. 1, concernenti l'assistenza a studenti universitari, salva la potesta' della provincia stessa di aggiornare i limiti di valore e di modificare il numero delle borse di studio.
 
-### Art. 64
+## Art. 64
 
 La traduzione in lingua tedesca della presente legge costituzionale sara' pubblicata nel Bollettino ufficiale della regione.
 
 La dizione "Trentino-Tiroler Etschland" contenuta nell'articolo 96 dello Statuto, e' sostituita da quella "Trentino-Sudtirol".
 
-### Art. 65
+## Art. 65
 
 Le disposizioni di cui all'articolo 18 della presente legge si applicano dalla prima scadenza del consiglio regionale in carica alla data di entrata in vigore della presente legge.
 
-### Art. 66
+## Art. 66
 
 Entro quattro mesi dalla data di entrata in vigore della presente legge, il Governo provvede a compilare, esclusa qualsiasi facolta' di apportare modifiche o variazioni, il nuovo testo dello Statuto speciale per il Trentino-Alto Adige, quale risulta dalle disposizioni contenute nella legge costituzionale 26 febbraio 1948, n. 5, rimaste in vigore e da quelle di cui alla presente legge.
 

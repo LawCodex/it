@@ -32,19 +32,19 @@ Promulga
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo tra la Repubblica italiana e lo Stato di Israele sulla previdenza sociale, fatto a Gerusalemme il 2 febbraio 2010.
 
-##### Art. 2
+#### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 28 dell'Accordo stesso.
 
-##### Art. 3
+#### Art. 3
 
 Copertura finanziaria
 
@@ -56,7 +56,7 @@ Copertura finanziaria
 
 4\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 4
+#### Art. 4
 
 Entrata in vigore
 
@@ -94,7 +94,7 @@ PREVIDENZA SOCIALE
 
 Il Governo della Repubblica Italiana e il Governo dello Stato di Israele, desiderando regolamentare i rapporti tra i due Stati nel campo della previdenza sociale, hanno concordato quanto segue:
 
-##### Art. 1
+#### Art. 1
 
 Definizioni
 
@@ -122,7 +122,7 @@ j) «Familiari» significa: Le persone definite o riconosciute come tali dalla l
 
 2\. Altri termini ed espressioni utilizzati nel presente Accordo avranno i significati rispettivamente assegnatigli nella legislazione applicata.
 
-##### Art. 2
+#### Art. 2
 
 Campo di applicazione oggettivo
 
@@ -150,13 +150,13 @@ i regimi esclusivi e sostitutivi dell'assicurazione generale obbligatoria previs
 
 6\. Il presente Accordo non si applica alla legislazione dei due Stati contraenti per quanto riguarda la pensione sociale e altri benefici non contributivi erogati con fondi pubblici, o relativa all'integrazione del beneficio minimo, ad eccezione di quanto previsto dagli articoli 13.5 e 16.4.
 
-##### Art. 3
+#### Art. 3
 
 Campo di applicazione personale
 
 A meno che non sia diversamente previsto, il presente Accordo si applichera' a tutte le persone che sono o sono state soggette alla legislazione di cui all'articolo 2 del presente Accordo, come pure ai familiari ed ai superstiti di tali persone.
 
-##### Art. 4
+#### Art. 4
 
 Parita' di trattamento
 
@@ -172,7 +172,7 @@ d) familiari e superstiti delle persone indicate ai sottoparagrafi da a) a c), p
 
 e) per quanto riguarda la Parte Contraente italiana: i cittadini dell'Unione europea.
 
-##### Art. 5
+#### Art. 5
 
 Esportabilita' delle prestazioni
 
@@ -180,7 +180,7 @@ A meno che non sia diversamente previsto nel presente Accordo, le pensioni ed al
 
 ## PARTE II - Legislazione applicabile
 
-##### Art. 6
+#### Art. 6
 
 Disposizioni generali
 
@@ -198,7 +198,7 @@ A meno che non sia diversamente previsto in questa parte
 
 6\. I dipendenti pubblici, le persone assimilate e le persone impiegate presso un'amministrazione pubblica della Parte Contraente, saranno soggette alla legislazione della Parte Contraente nella cui amministrazione lavorano, purche' siano stati soggetti alla legislazione di tale Parte Contraente precedentemente all'impiego.
 
-##### Art. 7
+#### Art. 7
 
 Disposizioni speciali
 
@@ -218,13 +218,13 @@ continuera' ad essere soggetta alla legislazione della prima Parte Contraente co
 
 4\. Una persona che lavora su una nave battente bandiera di una delle Parti Contraenti sara' soggetta alla legislazione di tale Parte Contraente, purche' la sede legale del datore di lavoro sia ubicata nel territorio della Parte Contraente. Quanto sopra si applica anche quando una nave batte bandiera di un Paese terzo, ma ha un equipaggio pagato da una societa' che ha la sua sede legale in una delle Parti Contraenti o da una persona residente in una delle Parti Contraenti.
 
-##### Art. 8
+#### Art. 8
 
 Eccezioni agli articoli 6 e 7
 
 Le autorita' Competenti o le istituzioni da queste autorizzate possono concordare, per iscritto, eccezioni alle disposizioni degli articoli 6 e 7 nell'interesse di alcune persone o categoria di persone.
 
-##### Art. 9
+#### Art. 9
 
 Applicazioni degli articoli da 6 a 8 ai familiari
 
@@ -236,7 +236,7 @@ Applicazioni degli articoli da 6 a 8 ai familiari
 
 4\. Le disposizioni dei paragrafi 1, 2 e 3 non si applicheranno se il familiare e' soggetto alla legislazione dell'altra parte contraente in base al proprio impiego.
 
-##### Art. 10
+#### Art. 10
 
 Contributi assicurativi
 
@@ -244,17 +244,15 @@ I contributi assicurativi relativi ad una persona coperta dal presente Accordo, 
 
 ## PARTE III - Disposizioni speciali riguardanti le varie categorie di prestazioni
 
-### Capitolo I
+### Capitolo I - Pensioni di invalidita', vecchiaia e superstiti
 
-#### Pensioni di invalidita', vecchiaia e superstiti
-
-##### Art. 11
+#### Art. 11
 
 Erogazione delle pensioni
 
 A meno che non sia diversamente previsto nel presente Accordo, quando erogano le pensioni sulla base di questo Accordo, le istituzioni competenti delle Parti Contraenti applicheranno le loro rispettive legislazioni.
 
-##### Art. 12
+#### Art. 12
 
 Periodi assicurativi inferiori a dodici mesi
 
@@ -264,7 +262,7 @@ Periodi assicurativi inferiori a dodici mesi
 
 ## Applicazione della legislazione dello Stato di Israele
 
-##### Art. 13
+#### Art. 13
 
 Pensione di vecchiaia e superstiti
 
@@ -284,7 +282,7 @@ b) Sulla base della somma teorica di cui sopra, l'Istituzione Competente dovra' 
 
 6\. L'assegno funerario non potra' essere pagato per una persona che e' deceduta al di fuori dello Stato di Israele e che non era residente in Israele nel giorno della sua morte.
 
-##### Art. 14
+#### Art. 14
 
 Pensione di invalidita'
 
@@ -296,7 +294,7 @@ Pensione di invalidita'
 
 ## Applicazione della legislazione italiana
 
-##### Art. 15
+#### Art. 15
 
 Pensioni di invalidita', vecchiaia e superstiti
 
@@ -304,7 +302,7 @@ Pensioni di invalidita', vecchiaia e superstiti
 
 (2) Quando il diritto a ricevere pensioni in base alla legislazione italiana e' subordinato al completamento di un determinato periodo di lavoro coperto da un regime speciale o ad un lavoro o impiego specificato, dovranno essere presi in considerazione per determinare il diritto a tali pensioni unicamente i periodi completati in base alla legislazione israeliana, secondo il regime interessato o, in assenza di tale regime, nello stesso lavoro o impiego, come appropriato.
 
-##### Art. 16
+#### Art. 16
 
 Calcolo delle prestazioni
 
@@ -320,11 +318,9 @@ b. Sulla base della somma calcolata come indicato sopra, la somma effettiva dell
 
 (4) Se sono soddisfatti i requisiti legislativi fissati dalla legislazione italiana, l'Istituzione Competente integra al minimo la pensione a cui il beneficiario ha diritto sulla base dell'articolo 15, unicamente se il beneficiario risiede in Italia.
 
-## PARTE IV
+## PARTE IV - Disposizioni varie
 
-### Disposizioni varie
-
-##### Art. 17
+#### Art. 17
 
 Accordo amministrativo e scambio di informazioni
 
@@ -338,7 +334,7 @@ c) si scambieranno le informazioni su tutte le modifiche delle rispettive legisl
 
 d) nomineranno gli organismi di collegamento per facilitare ed accelerare l'attuazione di questo accordo attraverso l'accordo amministrativo.
 
-##### Art. 18
+#### Art. 18
 
 Cooperazione amministrativa
 
@@ -348,13 +344,13 @@ Cooperazione amministrativa
 
 3\. Su richiesta delle autorita' e delle istituzioni italiane, le autorita' e le istituzioni competenti di Israele comunicheranno i dati necessari e le informazioni per l'attuazione dell'articolo 4 e).
 
-##### Art. 19
+#### Art. 19
 
 Protezione dei dati
 
 Qualsiasi dato relativo alle singole persone che nel corso dell'applicazione del presente Accordo viene trasmesso da una Parte Contraente all'altra, dovra' essere mantenuto riservato ed utilizzato esclusivamente per determinare il diritto alle prestazioni in base a questo Accordo, le quali sono specificate nella richiesta di informazioni o comunque collegate ad esse. Tutti gli scambi di dati tra le Parti Contraenti saranno soggetti alla legislazione delle due Parti Contraenti.
 
-##### Art. 20
+#### Art. 20
 
 Esenzione dalle imposte, oneri e autenticazione
 
@@ -362,7 +358,7 @@ Esenzione dalle imposte, oneri e autenticazione
 
 2\. I documenti ed i certificati presentati ai fini di questo Accordo saranno esentati dall'autenticazione da parte delle autorita' diplomatiche o consolari.
 
-##### Art. 21
+#### Art. 21
 
 Presentazioni delle domande
 
@@ -370,7 +366,7 @@ Presentazioni delle domande
 
 2\. Una domanda per una prestazione erogabile in base alla legislazione di una Parte Contraente sara' considerata come una domanda per la corrispondente prestazione erogabile in base alla legislazione dell'altra Parte Contraente, purche' tale domanda sia inviata senza indugio alla Istituzione Competente dell'altra Parte Contraente.
 
-##### Art. 22
+#### Art. 22
 
 Richieste di recupero
 
@@ -378,13 +374,13 @@ Richieste di recupero
 
 2\. Se l'Istituzione di una Parte Contraente ha fatto pagamenti anticipati per un periodo durante il quale il beneficiario aveva diritto alle prestazioni in base alla legislazione dell'altra Parte Contraente, questa Istituzione puo' chiedere all'Istituzione dell'altra Parte Contraente di trattenere una somma equivalente a tali anticipi dalle prestazioni che tale Istituzione deve erogare al beneficiario per lo stesso periodo. Tale trattenuta da parte di questa Istituzione rispettera' l'ambito e i termini delle leggi applicabili e la somma trattenuta sara' trasmessa all'Istituzione richiedente.
 
-##### Art. 23
+#### Art. 23
 
 Lingue utilizzate nell'applicazione dell'Accordo
 
 Le Autorita' e le Istituzioni Competenti delle Parti Contraenti possono, in applicazione del presente Accordo, utilizzare le lingue ufficiali delle Parti Contraenti o la lingua inglese, come specificato nell'accordo amministrativo di cui al sottoparagrafo a) dell'articolo 17.
 
-##### Art. 24
+#### Art. 24
 
 Valuta e modalita' di pagamento
 
@@ -394,7 +390,7 @@ Valuta e modalita' di pagamento
 
 3\. Quando un beneficiario nel territorio di una Parte Contraente riceve le prestazioni in base alla legislazione dell'altra Parte Contraente, tali prestazioni saranno erogate direttamente al beneficiario attraverso qualsiasi modalita' che l'Istituzione Competente di quest'ultima Parte Contraente ritenga adeguata.
 
-##### Art. 25
+#### Art. 25
 
 Composizione delle controversie
 
@@ -404,7 +400,7 @@ Composizione delle controversie
 
 ## PARTE V - Disposizioni transitorie e finali
 
-##### Art. 26
+#### Art. 26
 
 Applicazione del presente Accordo ai periodi di tempo precedenti la sua entrata in viaore
 
@@ -420,7 +416,7 @@ Applicazione del presente Accordo ai periodi di tempo precedenti la sua entrata 
 
 6\. Se la richiesta di cui ai paragrafi 4 e 5 di questo articolo viene presentata entro due anni dalla data di entrata in vigore di questo Accordo, i diritti in base al presente Accordo saranno acquisiti da tale data. Se la richiesta di cui ai paragrafi 4 e 5 di questo articolo viene presentata dopo la scadenza dei due anni successivi alla data di entrata in vigore di questo Accordo, i diritti che non siano decaduti o prescritti, saranno considerati acquisiti dalla data di presentazione della richiesta, fatta salva l'applicazione di norme piu' favorevoli della legislazione di ciascuna delle Parti Contraenti.
 
-##### Art. 27
+#### Art. 27
 
 Validita' e Denuncia dell'Accordo
 
@@ -430,7 +426,7 @@ Validita' e Denuncia dell'Accordo
 
 3\. Se tale Accordo viene denunciato, qualsiasi diritto acquisito in conformita' al presente Accordo sara' mantenuto.
 
-##### Art. 28
+#### Art. 28
 
 Entrata in vigore
 
@@ -448,7 +444,7 @@ della Repubblica Italiana dello Stato di Israele (Firma) (Firma)
 
 Parte di provvedimento in formato grafico
 
-##### Agreement
+#### Agreement
 
 Agreement
 

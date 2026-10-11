@@ -25,11 +25,9 @@ IL PRESIDENTE DELLA REPUBBLICA Promulga
 
 la seguente legge:
 
-## TITOLO I
+## TITOLO I - APPROVAZIONE DEI RENDICONTI
 
-### APPROVAZIONE DEI RENDICONTI
-
-##### Art. 1 - Rendiconti
+#### Art. 1 - Rendiconti
 
 1\. Il rendiconto generale dell'Amministrazione dello Stato e i rendiconti delle Amministrazioni e delle Aziende autonome per l'esercizio 2006 sono approvati nelle risultanze di cui ai seguenti articoli.
 
@@ -49,9 +47,9 @@ la seguente legge:
 
 ## TITOLO II - AMMINISTRAZIONE DELLO STATO
 
-#### CAPO I - CONTO DEL BILANCIO
+### CAPO I - CONTO DEL BILANCIO
 
-##### Art. 2 - Entrate
+#### Art. 2 - Entrate
 
 1\. Le entrate tributarie, extratributarie, per alienazione ed ammortamento di beni patrimoniali e riscossione di crediti, e per accensione di prestiti, accertate nell'esercizio finanziario 2006 per la competenza propria dell'esercizio, risultano stabilite in euro 662.170.155.953,00.
 
@@ -61,7 +59,7 @@ la seguente legge:
 
 Parte di provvedimento in formato grafico
 
-##### Art. 3 - Spese
+#### Art. 3 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di passivita' finanziarie, impegnate nell'esercizio finanziario 2006 per la competenza propria dell'esercizio, risultano stabilite in euro 630.714.382.657,58.
 
@@ -93,7 +91,7 @@ dell'esercizio
 ---------------------------------------------------------------------
 ```
 
-##### Art. 4 - Avanzo della gestione di competenza
+#### Art. 4 - Avanzo della gestione di competenza
 
 1\. L'avanzo della gestione di competenza dell'esercizio finanziario 2006, di euro 31.455.773.295,42, risulta stabilito come segue:
 
@@ -125,7 +123,7 @@ finanziarie                |" 163.620.445.968,20|
 
 Avanzo della gestione di competenza  31.455.773.295,42
 
-##### Art. 5 - Situazione finanziaria
+#### Art. 5 - Situazione finanziaria
 
 1\. Il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 2006, di euro 318.673.262.470,15, risulta stabilito come segue:
 
@@ -167,11 +165,11 @@ al 31 dicembre 2006 " 108.111.434.929,92
 
 Disavanzo al 31 dicembre 2005  350.128.995.765,57 Disavanzo finanziario al 31 dicembre 2006  318.673.262.470,15 =====================
 
-##### Art. 6 - Approvazione allegato
+#### Art. 6 - Approvazione allegato
 
 1\. E' approvato l'allegato n. 1, di cui all'articolo 9, ultimo comma, della legge 5 agosto 1978, n. 468.
 
-##### Art. 7 - Eccedenze
+#### Art. 7 - Eccedenze
 
 1\. Sono approvate le eccedenze di impegni e di pagamenti risultate in sede di consuntivo rispettivamente sul conto della competenza, sul conto dei residui e sul conto della cassa, relative alle unita' previsionali di base degli stati di previsione della spesa dei Ministeri sotto indicati per l'esercizio 2006, come risulta dal dettaglio che segue:
 
@@ -440,9 +438,9 @@ AMMINISTRAZIONE DEI MONOPOLI DI STATO
 1.4.2 Lotterie nazionali |498.312.578;18| - | -
 ```
 
-## Capo II - CONTO GENERALE DEL PATRIMONIO
+### Capo II - CONTO GENERALE DEL PATRIMONIO
 
-##### Art. 8 - Risultati generali della gestione patrimoniale
+#### Art. 8 - Risultati generali della gestione patrimoniale
 
 1\. La situazione patrimoniale dell'Amministrazione dello Stato, al 31 dicembre 2006, resta stabilita come segue:
 
@@ -472,9 +470,9 @@ al 31 dicembre 2006  1.418.881.286.768,60
 
 ## TITOLO III - AZIENDE SPECIALI ED AUTONOME
 
-#### CAPO I - ISTITUTO AGRONOMICO PER L'OLTREMARE
+### CAPO I - ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-##### Art. 9 - Entrate
+#### Art. 9 - Entrate
 
 1\. Le entrate correnti del bilancio dell'Istituto agronomico per l'Oltremare, accertate nell'esercizio finanziario 2006 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Istituto stesso, allegato al conto consuntivo del Ministero degli affari esteri, in euro 10.415.170,96.
 
@@ -504,7 +502,7 @@ dell'esercizio 2005 - 166.642,00 166.642,00
  ============
 ```
 
-##### Art. 10 - Spese
+#### Art. 10 - Spese
 
 1\. Le spese correnti ed in conto capitale del bilancio dell'Istituto predetto, impegnate nell'esercizio finanziario 2006 per la competenza propria dell'esercizio, risultano stabilite in euro 10.415.170,96.
 
@@ -534,9 +532,9 @@ dell'esercizio 2005 1.196.514,71 1.012.736,98 2.209.251,69
  ==============
 ```
 
-## CAPO II - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
+### CAPO II - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-##### Art. 11 - Entrate
+#### Art. 11 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione. autonoma dei monopoli di Stato, comprese quelle delle gestioni speciali ed autonome, accertate nell'esercizio finanziario 2006 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'economia e delle finanze, in euro 9.820.342.691,70.
 
@@ -546,7 +544,7 @@ dell'esercizio 2005 1.196.514,71 1.012.736,98 2.209.251,69
 
 Parte di provvedimento in formato grafico
 
-##### Art. 12 - Spese
+#### Art. 12 - Spese
 
 1\. Le spese correnti ed in conto capitale e per rimborso di passivita' finanziarie del bilancio dell'Amministrazione predetta, comprese quelle delle gestioni speciali ed autonome, impegnate nell'esercizio 2006 per la competenza propria dell'esercizio, risultano stabilite in euro 9.820.342.691,70.
 
@@ -578,7 +576,7 @@ dell'esercizio
  ================
 ```
 
-##### Art. 13 - Riassunto generale
+#### Art. 13 - Riassunto generale
 
 1\. Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione autonoma dei monopoli di Stato, di competenza dell'esercizio 2006, risulta cosi' stabilito:
 
@@ -590,7 +588,7 @@ Spese (escluse le gestioni speciali) ..............   930.347.383,65 Spese del
  ------------------  9.820.342.691,70 ==================
 ```
 
-##### Art. 14 - Situazione finanziaria
+#### Art. 14 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dell' esercizio 2006, risulta come appresso:
 
@@ -600,9 +598,9 @@ Spese dell'esercizio 2006....................... " 9.820.342.691,70
 
 Saldo della gestione di competenza..............  -
 
-## CAPO III - ARCHIVI NOTARILI
+### CAPO III - ARCHIVI NOTARILI
 
-##### Art. 15 - Avanzo
+#### Art. 15 - Avanzo
 
 1\. L'avanzo della gestione del bilancio degli Archivi notarili, per l'esercizio finanziario 2006, risulta stabilito come segue:
 
@@ -610,9 +608,9 @@ Entrate.............................................  352.629.109,61 Spese....
 
 ------------------  32.430.950,80 ==================
 
-## CAPO IV - FONDO EDIFICI DI CULTO
+### CAPO IV - FONDO EDIFICI DI CULTO
 
-##### Art. 16 - Entrate
+#### Art. 16 - Entrate
 
 1\. Le entrate correnti e in conto capitale del bilancio del Fondo edifici di culto, accertate nell'esercizio finanziario 2006 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'interno, in euro 12.764.251,99.
 
@@ -622,7 +620,7 @@ Entrate.............................................  352.629.109,61 Spese....
 
 Parte di provvedimento in formato grafico
 
-##### Art. 17 - Spese
+#### Art. 17 - Spese
 
 1\. Le spese correnti ed in conto capitale del bilancio dell'Amministrazione predetta, impegnate nell'esercizio 2006 per la competenza propria dell'esercizio, risultano stabilite in euro 17.475.442,90.
 
@@ -650,7 +648,7 @@ dell'esercizio 2005 5.148.477,01 1.291.987,01 6.440.464,02
  ===============
 ```
 
-##### Art. 18 - Situazione finanziaria
+#### Art. 18 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Amministrazione del Fondo edifici di culto, alla fine dell'esercizio 2006, risulta come appresso:
 
@@ -696,9 +694,9 @@ Saldo effettivo dell'esercizio 2005.................... 6.166.847,09
 
 -------------- Saldo attivo al 31 dicembre 2006............... 1.455.656,18 ==============
 
-## CAPO IV - FONDO EDIFICI DI CULTO
+### CAPO IV - FONDO EDIFICI DI CULTO
 
-##### Allegato N.1
+#### Allegato N.1
 
 ALLEGATO N. 1
 

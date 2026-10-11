@@ -27,15 +27,15 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo tra la Repubblica Italiana e la Repubblica Federale di Germania sulle tombe di guerra, con annessi scambi di Note, concluso in Bonn il 22 dicembre 1955.
 
-### Art. 2
+## Art. 2
 
 Piena ed intera esecuzione e' data all'Accordo di cui all'articolo precedente, con annessi scambi di Note, a decorrere dalla sua entrata in vigore, in conformita' all'art. 27 dell'Accordo stesso.
 
-### Art. 3
+## Art. 3
 
 Le spese derivanti dall'attuazione della presente legge graveranno sui fondi stanziati nel capitolo n. 306 dello stato di previsione della spesa del Ministero della difesa per l'esercizio finanziario 1956-57 e corrispondenti per gli esercizi successivi.
 
@@ -75,13 +75,13 @@ Desiderando assicurare degnamente la tutela delle tombe dei Caduti di guerra ita
 
 Hanno deciso di stipulare il seguente Accordo:
 
-### Art. 1
+## Art. 1
 
 Ai sensi del presente Accordo vengono considerati come caduti di
 
 guerra tedeschi i membri delle Forze armate tedesche o le persone assimilate a questi, nonche' i cittadini tedeschi deceduti in seguito a fatti di guerra.
 
-### Art. 2
+## Art. 2
 
 Le salme dei caduti in guerra tedeschi nella seconda guerra
 
@@ -91,7 +91,7 @@ Ove sia opportuno e possibile, nelle stesse localita' potranno
 
 essere raccolte anche le salme dei caduti della prima guerra mondiale e, parimenti, le salme dei caduti della seconda guerra mondiale potranno essere raccolte nei cimiteri o sacrari della prima guerra mondiale.
 
-### Art. 3
+## Art. 3
 
 Il terreno occorrente verra' scelto previe intese tra il Governo
 
@@ -103,19 +103,19 @@ La determinazione circa la sistemazione a cimitero od a sacrario verra' presa di
 
 Per la sistemazione verra' utilizzata una superficie non superiore a 4 mq. per salma.
 
-### Art. 4
+## Art. 4
 
 L'esumazione e la traslazione delle salme dei caduti in guerra
 
 tedeschi nonche' la sistemazione dei cimiteri e sacrari tedeschi verranno effettuate dal Governo della R. F. T. a sue spese, previe intese con il Governo italiano e nel piu' breve tempo possibile.
 
-### Art. 5
+## Art. 5
 
 Il Governo italiano si impegna a cedere al Governo della R. F. T. il libero uso delle aree di terreno sulle quali sorgeranno i cimiteri o sacrari tedeschi, per tale scopo specifico e per tutto il tempo in cui dette aree rimarranno adibite a tale uso. Il Governo italiano garantira' la tutela dei cimiteri e sacrari nonche' il diritto permanente di riposo delle salme dei caduti in guerra tedeschi ivi giacenti.
 
 Qualora il Governo italiano ravvisasse la necessita', per urgenti motivi di interesse pubblico, di adibire una area cimiteriale ad altro uso, mettera' a disposizione un altro terreno adatto allo stesso scopo e procedera' a sue spese alla traslazione delle salme e ad una analoga sistemazione del nuovo cimitero. La scelta del nuovo terreno, l'esecuzione delle traslazioni e la sistemazione del nuovo cimitero avverranno previe intese con il Governo della I.R. F. T.
 
-### Art. 6
+## Art. 6
 
 Per la custodia di ciascun cimitero o sacrario tedesco in Italia
 
@@ -125,7 +125,7 @@ Il Governo italiano riconosce al Governo della R.F.T. il diritto di provvedere, 
 
 conservazione dei cimiteri e sacrari tedeschi in Italia, e di impiegare a tale fine personale tedesco.
 
-### Art. 7
+## Art. 7
 
 Il Governo della R. F. T. potra' importare in Italia, in esenzione di dogana e di altre imposte, il materiale (compresi i marmi, pietre grezze e lavorate), gli utensili (compresi gli apparecchi meccanici, quali le macchine per tagliare l'erba ed altri attrezzi) e gli oggetti d'arte, occorrenti per l'esumazione e la riinumazione delle salme, la definitiva sistemazione e la manutenzione dei cimiteri tedeschi.
 
@@ -137,7 +137,7 @@ Le esenzioni previste in questo articolo verranno accordate su
 
 richiesta del Governo della R. F. T., inoltrata per le vie diplomatiche.
 
-### Art. 8
+## Art. 8
 
 Il Governo italiano accordera', su richiesta del Governo della R.
 
@@ -147,7 +147,7 @@ L'esumazione potra' essere effettuata soltanto in presenza di un
 
 incaricato della competente autorita' italiana, che redigera' un processo verbale relativo alla esumazione.
 
-### Art. 9
+## Art. 9
 
 Il Governo italiano concedera', nel periodo dal 1° settembre al 30 giugno di ogni esercizio, la riduzione del 40% sulle tariffe delle Ferrovie dello Stato per un viaggio all'anno e sul percorso di andata e ritorno, ai parenti prossimi (genitori, vedove - anche se rimaritate - figli, fratelli e sorelle) di caduti in guerra tedeschi che si rechino a visitare le tombe di guerra nella Repubblica Italiana.
 
@@ -157,13 +157,13 @@ presente articolo saranno concordate direttamente tra le Amministrazioni ferrovi
 
 Le facilitazioni stesse avranno esecuzione a partire dalla data di pubblicazione in Italia delle norme relative a dette modalita' di applicazione.
 
-### Art. 10
+## Art. 10
 
 Il Governo italiano provvedera' a consegnare al Governo della R. F.
 
 T. tutti i documenti in suo possesso relativi ai Caduti tedeschi ed alle tombe di guerra tedesche in Italia.
 
-### Art. 11
+## Art. 11
 
 Il Governo italiano acconsente a che il Volksbund Deutsche
 
@@ -175,7 +175,7 @@ Kriegsgraeberfuersorge e. V. potra' inviare in Italia personale specializzato ed
 
 La nomina dei rappresentanti e del personale di tale Ente, che svolgeranno la loro attivita' in Italia, e' soggetta all'approvazione del Governo italiano.
 
-### Art. 12
+## Art. 12
 
 Le modalita' di esecuzione del presente Accordo saranno regolate
 
@@ -183,13 +183,13 @@ direttamente tra l'Ente tedesco di cui all'art. 11 e le competenti Autorita' ita
 
 ## II. - Tombe di guerra italiane nella Repubblica Federale Tedesca
 
-### Art. 13
+## Art. 13
 
 Ai sensi del presente Accordo vengono considerati come caduti in
 
 guerra italiani i militari o civili italiani deceduti per qualsiasi motivo dipendente dallo stato di guerra.
 
-### Art. 14
+## Art. 14
 
 Le saline dei caduti in guerra italiani della seconda guerra
 
@@ -203,7 +203,7 @@ Per quei casi nei quali non sia possibile procedere alla esumazione
 
 e al riconoscimento di salme italiane sepolte in fosse comuni con caduti di altra nazionalita', il Governo tedesco provvedera' a sistemare degnamente il luogo e a conservarlo in permanenza.
 
-### Art. 15
+## Art. 15
 
 Il terreno occorrente verra' scelto previe intese tra il Governo
 
@@ -219,13 +219,13 @@ verra' presa di comune accordo dalle due Parti.
 
 Per le sistemazioni verra' utilizzata una superficie non superiore a 4 mq. per salma.
 
-### Art. 16
+## Art. 16
 
 L'esumazione e la traslazione delle salme dei caduti in guerra
 
 italiani nonche' la sistemazione dei cimiteri e sacrari italiani verranno effettuate dal Governo italiano, a sue spese, previe intese con il Governo della R. F. T. e nel piu' breve tempo possibile.
 
-### Art. 17
+## Art. 17
 
 Il Governo della R. F. T. si impegna a cedere al Governo italiano il libero uso delle aree di terreno sulle quali sorgeranno i cimiteri o sacrari italiani, per tale scopo specifico e per tutto il tempo in cui dette aree rimarranno adibite a tale uso. Il Governo della R. F.
 
@@ -235,7 +235,7 @@ Qualora il Governo della R. F. T. ravvisasse la necessita', per
 
 urgenti motivi di interesse pubblico, di adibire una area cimiteriale al altro uso, mettera' a disposizione un altro terreno adatto allo stesso scopo e procedera' a sue spese alla traslazione delle salme e ad una analoga sistemazione del nuovo cimitero. La scelta del nuovo terreno, l'esecuzione delle traslazioni e la sistemazione del nuovo cimitero avverranno previe intese con il Governo della Repubblica italiana.
 
-### Art. 18
+## Art. 18
 
 Per la custodia di ciascun cimitero o sacrario italiano nella
 
@@ -243,7 +243,7 @@ Repubblica Federale di Germania verra' impiegato un guardiano rimunerato dal Gov
 
 Il Governo della R. F. T. riconosce al Governo italiano il diritto di provvedere, a proprie spese, alla manutenzione e conservazione dei cimiteri e sacrari italiani nella Repubblica Federale di Germania, e di impiegare a tale fine personale italiano.
 
-### Art. 19
+## Art. 19
 
 Il Governo Italiano potra' importare nella Repubblica Federale di Germania, in esenzione di dogana e di altre imposte, il materiale (compresi i marmi, pietre grezze e lavorate), gli utensili (compresi gli apparecchi meccanici, quali le macchine per tagliare l'erba ed altri attrezzi) e gli oggetti d'arte, occorrenti per l'esumazione e la riesumazione delle salme, la definitiva sistemazione e la manutenzione dei cimiteri italiani.
 
@@ -253,7 +253,7 @@ Le esenzioni previste in questo articolo verranno accordate su
 
 richiesta del Governo italiano, inoltrata per le vie diplomatiche.
 
-### Art. 20
+## Art. 20
 
 Il Governo della R. F. T. accordera', su richiesta del Governo
 
@@ -263,7 +263,7 @@ L'esumazione potra' essere effettuata soltanto in presenza di un
 
 incaricato della competente autorita' tedesca, che redigera' un processo verbale relativo all'esumazione.
 
-### Art. 21
+## Art. 21
 
 Il Governo della R. F. T. concedera', nel periodo dal 1° settembre al 30 giugno di ogni esercizio, la riduzione del 40% sulle tariffe delle Ferrovie federali, per un viaggio all'anno e sul percorso di andata e ritorno, ai parenti prossimi (genitori, vedove - anche se rimaritate - figli, fratelli e sorelle) di caduti in guerra italiani che si rechino a visitare le tombe di guerra nella Repubblica Federale di Germania.
 
@@ -273,7 +273,7 @@ presente articolo saranno concordate direttamente tra le Amministrazioni ferrovi
 
 Le facilitazioni stesse avranno esecuzione a partire dalla stessa data in cui avranno esecuzione le facilitazioni previste all'art. 9.
 
-### Art. 22
+## Art. 22
 
 Il Governo della R. F. T. provvedera' a consegnare al Governo
 
@@ -299,7 +299,7 @@ T., in tutti i casi in cui cio' sia necessario ai fini delle ricerche.
 
 Da parte del Governo della Repubblica Federale verra' raccomandato agli Enti privati di procedere in modo analogo.
 
-### Art. 23
+## Art. 23
 
 Il Governo della R. F. T. riconosce nella Delegazione italiana del Commissariato generale onoranze caduti in guerra l'Ente ufficialmente incaricato di svolgere le incombenze attinenti ai caduti italiani di cui al presente Accordo.
 
@@ -315,7 +315,7 @@ Per l'espletamento dei suoi compiti, l'Ente stesso potra' avvalersi
 
 di personale specializzato inviato dalla Italia e installare i locali necessari per la sua attivita'.
 
-### Art. 24
+## Art. 24
 
 Le modalita' di esecuzione del presente Accordo saranno regolate
 
@@ -323,19 +323,19 @@ direttamente tra la Delegazione italiana di cui all'art. 23 e le competenti auto
 
 ## Disposizioni finali
 
-### Art. 25
+## Art. 25
 
 Il presente Accordo si applica anche al "Land Berlin" qualora il
 
 Governo della R. F. T. non faccia al riguardo una comunicazione in contrario al Governo italiano entro tre mesi dalla data di entrata in vigore dell'Accordo stesso.
 
-### Art. 26
+## Art. 26
 
 Ogni controversia relativa all'interpretazione ed alla applicazione
 
 del presente Accordo sara' risolta per via diplomatica.
 
-### Art. 27
+## Art. 27
 
 Il presente Accordo sara' ratificato ed entrera' in vigore alla
 
@@ -369,7 +369,7 @@ PELLA
 
 Bad Godesberg, 22 dicembre 1955.
 
-### Scambio di Lettere
+## Scambio di Lettere
 
 Eccellenza,
 

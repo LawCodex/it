@@ -27,7 +27,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Nei riguardi del personale a rapporto di impiego e a rapporto di lavoro dell'Istituto nazionale della previdenza sociale, dell'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro, della Croce rossa italiana nonche' del personale dell'Istituto superiore di odontoiatria "George Eastman", in servizio presso le rispettive unita' ospedaliere alla data dei decreti di costituzione in enti ospedalieri delle unita' stesse, ovvero successivamente a tale data per il completamento di concorsi di assunzione o in applicazione di leggi sul collocamento obbligatorio, e che passa agli enti ospedalieri medesimi ai sensi dell'articolo 59 della legge 12 febbraio 1968, n. 132, tutti i servizi o periodi gia' riconosciuti utili ai fini dei preesistenti ordinamenti di previdenza e di quiescenza, sono riconosciuti ai fini dei corrispondenti trattamenti delle casse pensioni facenti parte degli istituti di previdenza presso il Ministero del tesoro e dell'Istituto nazionale assistenza dipendenti enti locali.
 
@@ -43,7 +43,7 @@ L'importo dell'ordinaria indennita' di fine servizio o di anzianita' maturato al
 
 Il versamento delle somme di cui ai precedenti commi sara' effettuato in dieci annualita' costanti posticipate, calcolate al saggio del 5 per cento.
 
-### Art. 2
+## Art. 2
 
 Al personale contemplato nell'articolo 1, o ai loro superstiti, alla data di cessazione dal servizio spetta, a carico delle casse pensioni, il trattamento piu' favorevole tra quello determinato in base agli ordinamenti delle casse stesse e quello attribuibile alla corrispondente qualifica esistente nell'ente di provenienza, applicando a tal fine le tabelle di equiparazione delle qualifiche unite alla presente legge. Per gli eventuali futuri miglioramenti, i trattamenti risultanti sono considerati, in ogni caso, alla stessa stregua dei trattamenti delle predette casse pensioni.
 
@@ -51,7 +51,7 @@ Nel caso contemplato dal terzo comma dell'articolo 1, qualora l'applicazione del
 
 Criterio analogo a quello indicato nel comma precedente si segue nei casi in cui l'applicazione del primo comma comporti il diritto a pensione, laddove l'applicazione delle norme preesistenti avrebbe comportato il diritto all'indennita' una volta tanto a carico delle casse pensioni e sussista il diritto all'assegno vitalizio da parte dell'INADEL, in base al periodo d'iscrizione all'Istituto stesso.
 
-### Art. 3
+## Art. 3
 
 Al personale contemplato nell'articolo 1 o ai loro superstiti e' garantito, a carico dell'INADEL, il trattamento di buonuscita spettante secondo gli ordinamenti di tale Istituto.
 
@@ -61,11 +61,11 @@ Nel caso in cui gli interessati richiedano il trattamento degli istituti di prov
 
 L'INADEL e' autorizzato a trattenere in unica soluzione, sulle indennita' di fine servizio, le somme a qualsiasi titolo eventualmente ancora dovute agli istituti di provenienza dai singoli dipendenti trasferiti e ad effettuare il versamento di dette somme agli istituti creditori.
 
-### Art. 4
+## Art. 4
 
 Al personale contemplato nell'articolo 1 e ai loro familiari compete l'assistenza di malattia secondo la legislazione dell'Istituto nazionale assistenza dipendenti enti locali.
 
-### Art. 5
+## Art. 5
 
 Salvo quanto gia' disposto in materia dai singoli enti di provenienza in forza dei rispettivi ordinamenti, il personale a rapporto d'impiego delle istituzioni sanitarie dell'INPS costituite in enti ospedalieri ha facolta' di chiedere di rimanere alle dipendenze dell'INPS medesimo in deroga all'articolo 59 della legge 12 febbraio 1968, n. 132, entro centoventi giorni dalla data di entrata in vigore della presente legge o, se successiva, dalla data di pubblicazione del decreto di costituzione degli enti ospedalieri.
 
@@ -77,13 +77,13 @@ Il numero delle domande da accogliere per le singole qualifiche, i criteri gener
 
 Nei limiti dei posti di organico disponibili, da accertarsi mediante deliberazione dei consigli di amministrazione degli enti ospedalieri scorporati, il personale a rapporto di impiego dell'INAIL, in servizio presso le rispettive unita' ospedaliere alla data di pubblicazione del decreto di costituzione degli enti ospedalieri medesimi, ha facolta' di optare per questi enti entro centoventi giorni dalla data di entrata in vigore della presente legge.
 
-### Art. 6
+## Art. 6
 
 Le disposizioni di cui agli articoli 1, 2, 3 e 4 non si applicano al personale che, in applicazione dell'articolo 5, rimanga alle dipendenze dell'INPS, ne' al personale che abbia risolto per qualunque causa il rapporto d'impiego o di lavoro con gli istituti di provenienza prima dell'entrata in vigore della presente legge.
 
 Salvi gli effetti dell'anzianita' contributiva determinata ai sensi dell'articolo 1 della presente legge, le disposizioni di cui agli articoli 2 e 3 non si applicano altresi' al personale considerato dallo stesso articolo 1 che, successivamente al suo inquadramento presso l'ente ospedaliero costituito in applicazione dell'articolo 3, comma secondo, della legge 12 febbraio 1968, n. 132, modifichi la propria qualifica per cause non collegabili allo svolgimento della carriera di appartenenza alla data del suddetto inquadramento e riconducibili ad atti di volonta' del personale medesimo.
 
-### Art. 7
+## Art. 7
 
 Il rapporto d'impiego e di lavoro del personale di cui all'articolo 59 della legge 12 febbraio 1968, n. 132, cessato dal servizio prima della data di entrata in vigore della presente legge, resta disciplinato, anche per quanto attiene al trattamento di quiescenza, di previdenza e di malattia, dalle disposizioni relative alle categorie di personale di cui faceva parte il personale medesimo alla data del decreto di costituzione dell'ente ospedaliero in applicazione dell'articolo 3, comma secondo, della legge 12 febbraio 1968, n. 132, ovvero alla data della successiva immissione in servizio per il personale di cui al primo comma dell'articolo 1 della presente legge.
 
@@ -93,17 +93,17 @@ Sono altresi' irripetibili le maggiori somme percette dagli interessati che hann
 
 Le disposizioni di cui agli articoli 1, 2, 3 e 4, in deroga a quanto stabilito dal precedente articolo 6, nonche' quelle di cui all'articolo 5, si applicano anche nei confronti del personale che ai sensi dell'articolo 59 della legge 12 febbraio 1968, n. 132, sia passato alle dipendenze dell'ente ospedaliero prima dell'entrata in vigore della presente legge.
 
-### Art. 8
+## Art. 8
 
 Salve le fattispecie contemplate dal primo comma dell'articolo 1, al personale assunto in servizio dall'INPS, dall'INAIL, dalla Croce rossa italiana e dall'Istituto superiore di odontoiatria "George Eastman" di Roma, a decorrere da data non anteriore a quella del decreto di costituzione dell'ente ospedaliero, cui e' stato assegnato all'atto della prima nomina, si applicano le disposizioni sullo stato giuridico dei dipendenti degli enti ospedalieri, fissate dal decreto del Presidente della Repubblica 27 marzo 1969, n. 130.
 
-### Art. 9
+## Art. 9
 
 Le somme per gli oneri relativi al personale, erogate dagli istituti di cui all'articolo 1 della presente legge per il periodo successivo alla data di costituzione in enti delle unita' ospedaliere ad essi appartenute e fino alla data dei decreti di cui all'articolo 59 della legge 12 febbraio 1968, n. 132, sono recuperate nei confronti dei singoli enti ospedalieri mediante compensazione con le rette di degenza dovute sino alla data di detti decreti; l'eventuale eccedenza a credito degli istituti originari viene ammortizzata in un numero di rate semestrali da concordarsi tra gli enti ospedalieri e gli istituti medesimi.
 
 ## DISPOSIZIONE TRANSITORIA
 
-### Art. 10
+## Art. 10
 
 Per il personale dipendente dal complesso sanatoriale di Sondalo i termini per l'esercizio del diritto di opzione, previsto dal precedente articolo 5, sono prorogati di un anno dalla data di entrata in vigore della presente legge.
 
@@ -119,7 +119,7 @@ Visto, il Guardasigilli: ZAGARI
 
 ## DISPOSIZIONE TRANSITORIA
 
-### Tabelle
+## Tabelle
 
 TABELLA A
 

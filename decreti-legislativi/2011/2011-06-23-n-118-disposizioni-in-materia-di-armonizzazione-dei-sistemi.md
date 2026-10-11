@@ -42,13 +42,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I
+## Titolo I - Principi contabili generali e applicati per le regioni, le province autonome e gli enti locali
 
-### Principi contabili generali e applicati per le regioni, - le
-
-#### province autonome e gli enti locali
-
-##### Art. 1
+### Art. 1
 
 Oggetto e ambito di applicazione
 
@@ -66,7 +62,7 @@ b) per organismi strumentali delle regioni e degli enti locali si intendono le l
 
 5\. Per gli enti coinvolti nella gestione della spesa sanitaria finanziata con le risorse destinate al Servizio sanitario nazionale, come individuati all'articolo 19, si applicano le disposizioni recate dal Titolo II.
 
-##### Art. 2
+### Art. 2
 
 Adozione di sistemi contabili omogenei
 
@@ -78,7 +74,7 @@ Adozione di sistemi contabili omogenei
 
 4.((COMMA ABROGATO DAL D.LGS. 10 AGOSTO 2014, N. 126)).
 
-##### Art. 3
+### Art. 3
 
 Principi contabili generali e applicati
 
@@ -158,7 +154,7 @@ AGGIORNAMENTO (7)
 
 Il D.L. 19 giugno 2015, n. 78, convertito con modificazioni dalla L. 6 agosto 2015, n. 125 ha disposto (con l'art. 2, comma 1) che "In deroga a quanto previsto dall'articolo 3, comma 8, del decreto legislativo n. 118 del 2011, e successive modificazioni, la procedura prevista dal comma 2, primo periodo, dell'articolo 141 del decreto legislativo 18 agosto 2000, n. 267, eventualmente gia' avviata, cessa di avere efficacia nei confronti degli enti locali che deliberano il riaccertamento straordinario dei residui al 1° gennaio 2015 entro il 15 giugno 2015".
 
-##### Art. 3-bis
+### Art. 3-bis
 
 (( (Commissione per l'armonizzazione degli enti territoriali).))
 
@@ -170,7 +166,7 @@ Il D.L. 19 giugno 2015, n. 78, convertito con modificazioni dalla L. 6 agosto 20
 
 4\. La Commissione di cui al comma 1 si avvale delle strutture e dell'organizzazione del Ministero dell'economia e delle finanze - Dipartimento della Ragioneria Generale dello stato. Ai componenti della Commissione non e' corrisposto alcun compenso, ne' indennita', ne' rimborso di spese.))
 
-##### Art. 4
+### Art. 4
 
 Piano dei conti integrato
 
@@ -196,7 +192,7 @@ b) il piano dei conti dedicato alle province, ai comuni e agli enti locali, deri
 
 7-ter. A seguito degli aggiornamenti del piano dei conti integrato di cui all'art. 4, comma 3, lettera a), del decreto legislativo 31 maggio 2011, n. 91, l'allegato n. 6 puo' essere modificato con decreto del Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato, di concerto con il Ministero dell'interno - Dipartimento per gli affari interni e territoriali e la Presidenza del Consiglio dei ministri - Dipartimento per gli affari regionali, su proposta della Commissione per l'armonizzazione contabile degli enti territoriali. La commissione per l'armonizzazione contabile degli enti territoriali promuove le modifiche e le integrazioni del piano dei conti di cui all'art. 4, comma 3, lettera a), del decreto legislativo 31 maggio 2011, n. 91, di interesse degli enti territoriali.
 
-##### Art. 5
+### Art. 5
 
 Definizione della transazione elementare
 
@@ -208,7 +204,7 @@ Definizione della transazione elementare
 
 ((3-bis. Negli ordinativi di incasso e di pagamento la codifica della transazione elementare e' inserita nei campi liberi a disposizione dell'ente, non gestiti dal tesoriere.))
 
-##### Art. 6
+### Art. 6
 
 Struttura della codifica della transazione elementare
 
@@ -216,7 +212,7 @@ Struttura della codifica della transazione elementare
 
 ((1-bis. La codifica della transazione elementare e' aggiornata con decreto del Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato, di concerto con il Ministero dell'interno - Dipartimento per gli affari interni e territoriali e la Presidenza del Consiglio dei ministri - Dipartimento per gli affari regionali, su proposta della Commissione per l'armonizzazione contabile degli enti territoriali con validita' dall'esercizio successivo alla data di pubblicazione.))
 
-##### Art. 7
+### Art. 7
 
 Modalita' di codificazione delle transazioni elementari
 
@@ -230,7 +226,7 @@ c) assumere impegni sui fondi di riserva((e sugli altri accantonamenti stanziati
 
 ((1-bis. I residui provenienti dagli esercizi precedenti all'entrata in vigore del presente decreto, che non sono stati oggetto del riaccertamento di cui all'art. 3, comma 7, non imputabili ad una sola tipologia di entrata, o ad un solo programma di spesa, possono essere codificati adottando il criterio della prevalenza.))
 
-##### Art. 8
+### Art. 8
 
 Adeguamento SIOPE
 
@@ -238,7 +234,7 @@ Adeguamento SIOPE
 
 2\. Eventuali ulteriori livelli di articolazione delle codifiche SIOPE sono riconducibili alle aggregazioni previste dal piano dei conti integrati.
 
-##### Art. 9
+### Art. 9
 
 Il sistema di bilancio
 
@@ -248,7 +244,7 @@ Il sistema di bilancio
 
 > \- Il Regolamento (CE) 25 giugno 1996, n. 2223/96, del Consiglio relativo al Sistema europeo dei conti nazionali e regionali nella Comunita' e' pubblicato nella G.U.C.E. 30 novembre 1996, n. L 310.
 
-##### Art. 10
+### Art. 10
 
 Bilanci di previsione finanziari
 
@@ -266,7 +262,7 @@ b) sugli esercizi non considerati nel bilancio, a meno delle spese derivanti da 
 
 4-bis. Il conto del tesoriere e' predisposto secondo lo schema di cui all'allegato n. 17.
 
-##### Art. 11
+### Art. 11
 
 Schemi di bilancio
 
@@ -416,7 +412,7 @@ b) il prospetto delle previsioni di spesa per missioni, programmi e macroaggrega
 
 17\. In caso di esercizio provvisorio o gestione provvisoria nell'esercizio 2016 gli enti di cui al comma 1 gestiscono gli stanziamenti di spesa previsti nel bilancio pluriennale autorizzatorio 2015 - 2017 per l'annualita' 2016, riclassificati secondo lo schema di cui all'allegato 9.
 
-##### Art. 11-bis
+### Art. 11-bis
 
 (( (Bilancio consolidato).))
 
@@ -432,7 +428,7 @@ b) la relazione del collegio dei revisori dei conti.
 
 4\. Gli enti di cui al comma 1 possono rinviare l'adozione del bilancio consolidato con riferimento all'esercizio 2016, salvo gli enti che, nel 2014, hanno partecipato alla sperimentazione.))
 
-##### Art. 11-ter - Enti strumentali
+### Art. 11-ter - Enti strumentali
 
 1\. Si definisce ente strumentale controllato di una regione o di un ente locale di cui all'art. 2 del decreto legislativo 18 agosto 2000, n. 267, l'azienda o l'ente, pubblico o privato, nei cui confronti la regione o l'ente locale ha una delle seguenti condizioni:
 
@@ -494,7 +490,7 @@ AGGIORNAMENTO (18)
 
 Il D.L. 20 giugno 2017, n. 91, convertito con modificazioni dalla L. 3 agosto 2017, n. 123, ha disposto (con l'art. 8, comma 1-quater) che "L'articolo 11-ter del decreto legislativo 23 giugno 2011, n. 118, non si applica ai Corpi volontari dei vigili del fuoco, nonche' alle relative unioni".
 
-##### Art. 11-quater - Societa' controllate
+### Art. 11-quater - Societa' controllate
 
 1\. ((Ai fini dell'elaborazione del bilancio consolidato, si definisce)) controllata da una regione o da un ente locale la societa' nella quale la regione o l'ente locale ha una delle seguenti condizioni:
 
@@ -508,7 +504,7 @@ b) il diritto, in virtu' di un contratto o di una clausola statutaria, di eserci
 
 4\. In fase di prima applicazione del presente decreto, con riferimento agli esercizi 2015-2017, non sono considerate le societa' quotate e quelle da esse controllate ai sensi dell'art. 2359 del codice civile. A tal fine, per societa' quotate degli enti di cui al presente articolo si intendono le societa' emittenti strumenti finanziari quotati in mercati regolamentari.
 
-##### Art. 11-quinquies - Societa' partecipate
+### Art. 11-quinquies - Societa' partecipate
 
 1\. ((Ai fini dell'elaborazione del bilancio consolidato, per societa' partecipata)) da una regione o da un ente locale, si intende la societa' nella quale la regione o l'ente locale, direttamente o indirettamente, dispone di una quota di voti, esercitabili in assemblea, pari o superiore al 20 per cento, o al 10 per cento se trattasi di societa' quotata.
 
@@ -516,13 +512,13 @@ b) il diritto, in virtu' di un contratto o di una clausola statutaria, di eserci
 
 3\. In fase di prima applicazione del presente decreto, con riferimento agli esercizi 2015 - 2017, per societa' partecipata da una regione o da un ente locale, si intende la societa' a totale partecipazione pubblica affidataria di servizi pubblici locali della regione o dell'ente locale, indipendentemente dalla quota di partecipazione.
 
-##### Art. 12
+### Art. 12
 
 Omogeneita' della classificazione delle spese
 
 1\. Allo scopo di assicurare maggiore trasparenza delle informazioni riguardanti il processo di allocazione delle risorse pubbliche e la destinazione delle stesse alle politiche pubbliche settoriali, e al fine di consentire la confrontabilita' dei dati di bilancio in coerenza con le classificazioni economiche e funzionali individuate dai regolamenti comunitari in materia di contabilita' nazionale e relativi conti satellite, le amministrazioni pubbliche di cui all'articolo 2 ((...)) adottano uno schema di bilancio articolato per missioni e programmi che evidenzi le finalita' della spesa.
 
-##### Art. 13
+### Art. 13
 
 Definizione del contenuto di missione e programma
 
@@ -530,7 +526,7 @@ Definizione del contenuto di missione e programma
 
 2\. L'unita' di voto per l'approvazione del bilancio di previsione delle amministrazioni di cui all'articolo 2 ((...)) e' costituita dai programmi.
 
-##### Art. 14
+### Art. 14
 
 Criteri per la specificazione e classificazione delle spese
 
@@ -552,7 +548,7 @@ c) ((LETTERA ABROGATA DAL D.LGS. 10 AGOSTO 2014, N. 126)).
 
 3-ter. L'elenco delle missioni, programmi, titoli e macroaggregati, indicato nell'allegato n. 14, e' aggiornato con decreto del Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato, di concerto con il Ministero dell'interno - Dipartimento per gli affari interni e territoriali e la Presidenza del Consiglio dei ministri - Dipartimento per gli affari regionali, su proposta della Commissione per l'armonizzazione contabile degli enti territoriali. L'allegato 14 comprende il glossario delle missioni e dei programmi che individua anche le corrispondenze tra i programmi e la classificazione COFOG di secondo livello (Gruppi).))
 
-##### Art. 15
+### Art. 15
 
 Criteri per la specificazione e la classificazione delle entrate
 
@@ -566,7 +562,7 @@ c) ((LETTERA ABROGATA DAL D.LGS. 10 AGOSTO 2014, N. 126)).
 
 ((2. Nell'ambito delle categorie e' data separata evidenza delle eventuali quote di entrata non ricorrente. L'elenco dei titoli, delle tipologie e delle categorie, indicato nell'allegato n. 13, e' aggiornato con decreto del Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato, di concerto con il Ministero dell'interno - Dipartimento per gli affari interni e territoriali e la Presidenza del Consiglio dei ministri - Dipartimento per gli affari regionali, su proposta della Commissione per l'armonizzazione contabile degli enti territoriali.))
 
-##### Art. 16
+### Art. 16
 
 (( (Flessibilita' degli stanziamenti di bilancio).))
 
@@ -574,7 +570,7 @@ c) ((LETTERA ABROGATA DAL D.LGS. 10 AGOSTO 2014, N. 126)).
 
 2\. Resta in ogni caso precluso l'utilizzo delle entrate in conto capitale e derivanti dall'accensione di prestiti per il finanziamento delle spese correnti.))
 
-##### Art. 17
+### Art. 17
 
 Tassonomia per gli enti in contabilita' civilistica
 
@@ -598,7 +594,7 @@ Tassonomia per gli enti in contabilita' civilistica
 
 6-quater. Il prospetto di cui all'allegato n. 15 e' aggiornato con decreto del Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato, di concerto con il Ministero dell'interno - Dipartimento per gli affari interni e territoriali e la Presidenza del Consiglio dei ministri - Dipartimento per gli affari regionali, su proposta della Commissione per l'armonizzazione contabile degli enti territoriali.))
 
-##### Art. 18
+### Art. 18
 
 Termini di approvazione dei bilanci
 
@@ -618,7 +614,7 @@ AGGIORNAMENTO (32)
 
 Il D.L. 19 maggio 2020, n. 34 ha disposto (con l'art. 110, comma 1) che "Il termine per l'approvazione del bilancio consolidato 2019 di cui all'articolo 18, comma 1, lettera c), del decreto legislativo 23 giugno 2011, n. 118 e' differito al 30 novembre 2020".
 
-##### Art. 18-bis
+### Art. 18-bis
 
 (( (Indicatori di bilancio) ))
 
@@ -630,11 +626,9 @@ Il D.L. 19 maggio 2020, n. 34 ha disposto (con l'art. 110, comma 1) che "Il term
 
 4\. Il sistema comune di indicatori di risultato delle Regioni e dei loro enti ed organismi strumentali, e' definito con decreto del Ministero dell'economia e delle finanze su proposta della Commissione sull'armonizzazione contabile degli enti territoriali. Il sistema comune di indicatori di risultato degli enti locali e dei loro enti ed organismi strumentali e' definito con decreto del Ministero dell'interno, su proposta della Commissione sull'armonizzazione contabile degli enti territoriali. L'adozione del Piano di cui al comma 1 e' obbligatoria a decorrere dall'esercizio successivo all'emanazione dei rispettivi decreti.))
 
-## Titolo II
+## Titolo II - Principi contabili generali e applicati per il settore sanitario
 
-### Principi contabili generali e applicati per il settore sanitario
-
-##### Art. 19
+### Art. 19
 
 Oggetto e ambito di applicazione
 
@@ -672,7 +666,7 @@ d) istituti zooprofilattici di cui al decreto legislativo 30 giugno 1993, n. 270
 
 > \- Per il testo dell'art. 17, comma 3, della citata legge n. 400 del 1988, si veda nelle note all'art. 18.
 
-##### Art. 20
+### Art. 20
 
 Trasparenza dei conti sanitari e finalizzazione delle risorse al finanziamento dei singoli servizi sanitari regionali
 
@@ -724,7 +718,7 @@ AGGIORNAMENTO (22)
 
 La L. 27 dicembre 2017, n. 205 ha disposto (con l'art. 1, comma 777) che "In deroga alle disposizioni recate dall'articolo 20, comma 3, primo periodo, del decreto legislativo 23 giugno 2011, n. 118, le somme per interventi di edilizia sanitaria compresi in accordi di programma sottoscritti nel 2017 ammessi a finanziamento nel 2018 sono accertate in entrata dalle regioni nel 2019".
 
-##### Art. 21
+### Art. 21
 
 Accensione di conti di tesoreria intestati alla sanita'
 
@@ -736,7 +730,7 @@ b) le ulteriori risorse destinate al finanziamento del Servizio sanitario nazion
 
 2\. Ai fini della rilevazione SIOPE le regioni sono identificate da distinti codici-ente, riguardanti la gestione non sanitaria e la gestione sanitaria.
 
-##### Art. 22
+### Art. 22
 
 Individuazione delle responsabilita' all'interno delle regioni nel caso di sussistenza della gestione sanitaria accentrata presso la regione
 
@@ -758,7 +752,7 @@ i. in sede di rendicontazione trimestrale, la regolare tenuta dei libri contabil
 
 ii. in sede di rendicontazione annuale, quando indicato al punto i), nonche' la corrispondenza del bilancio alle risultanze della contabilita'.
 
-##### Art. 23
+### Art. 23
 
 Individuazione delle responsabilita' all'interno delle regioni nel caso di gestione integrale del finanziamento del servizio sanitario regionale presso gli enti di cui del servizio sanitario regionale
 
@@ -770,7 +764,7 @@ b) trattano presso la regione le sole operazioni di consolidamento dei conti san
 
 c) non possono effettuare, a valere sui capitoli di spesa del servizio sanitario regionale, operazioni di gestione diverse dal mero trasferimento delle somme agli enti del servizio sanitario regionale di cui all'articolo 19, comma 2, lettera c). A tal fine le regioni destinano in ciascun esercizio agli enti del servizio sanitario regionale l'intero importo del finanziamento previsto nell'esercizio di riferimento.
 
-##### Art. 24
+### Art. 24
 
 Libri obbligatori della gestione sanitaria accentrata presso la regione
 
@@ -786,7 +780,7 @@ Il libro giornale registra indistintamente, in ordine cronologico, tutti i fatti
 
 > \- Per il testo dell'art. 13, comma 3, della citata legge n. 196 del 2009, si veda nella nota all'art. 16.
 
-##### Art. 25
+### Art. 25
 
 Bilancio preventivo economico annuale
 
@@ -800,7 +794,7 @@ Bilancio preventivo economico annuale
 
 4\. Gli enti di cui alla lettera d), del comma 2 dell'articolo 19 predispongono un bilancio preventivo economico annuale, corredato da una nota illustrativa che espliciti i criteri impiegati nell'elaborazione dello stesso, nonche' da un piano degli investimenti che definisca gli investimenti da effettuare nel triennio e le relative modalita' di finanziamento. Il bilancio preventivo economico annuale deve essere corredato dalla relazione del collegio dei revisori. Con delibera del direttore generale, il bilancio preventivo economico annuale, corredato dalla nota illustrativa, dal piano triennale degli investimenti e dalla relazione del collegio dei revisori, viene sottoposto al Consiglio di amministrazione dell'ente per l'approvazione.
 
-##### Art. 26
+### Art. 26
 
 Bilancio di esercizio e schemi di bilancio degli enti del SSN
 
@@ -818,7 +812,7 @@ AGGIORNAMENTO (3)
 
 Il Decreto 20 marzo 2013 (in SO n. 30, relativo alla G.U. 15/04/2013, n. 88) ha disposto (con l'art. 1, comma 1) che "Gli schemi dello Stato Patrimoniale, del Conto Economico e della Nota Integrativa di cui agli articoli 26, comma 3 e 32, comma 6 del decreto legislativo 23 giugno 2011, n. 118, sono modificati rispettivamente secondo gli schemi di cui agli allegati 1, 2 e 3 al presente decreto".
 
-##### Art. 27
+### Art. 27
 
 Piano dei conti
 
@@ -826,13 +820,13 @@ Piano dei conti
 
 2\. Gli enti di cui al comma 1 possono dettagliare il proprio piano dei conti inserendo ulteriori sottovoci, rispetto a quelle di cui ai modelli di rilevazione SP e CE di cui al decreto ministeriale 13 novembre 2007 e successive modificazioni ed integrazioni, secondo le proprie esigenze informative.
 
-##### Art. 28
+### Art. 28
 
 Norme generali di riferimento
 
 1\. Per la redazione del bilancio d'esercizio gli enti di cui alle lettere b), punto i), c) e d) del comma 2 dell'articolo 19 applicano gli articoli da 2423 a 2428 del codice civile, fatto salvo quanto diversamente disposto nel presente titolo.
 
-##### Art. 29
+### Art. 29
 
 Principi di valutazione specifici del settore sanitario
 
@@ -876,7 +870,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 2 - 11 luglio 2012, n. 178 (in G.U. 1a s.s. 18/7/2012, n. 29) ha dichiarato "l'illegittimita' costituzionale dell'alinea e della lettera k) del comma 1 dell'art. 29 del d.lgs. n. 118 del 2011, nella parte in cui si applicano direttamente alle Regioni autonome ed alle Province autonome".
 
-##### Art. 30
+### Art. 30
 
 Destinazione del risultato d'esercizio degli enti del SSN
 
@@ -884,7 +878,7 @@ Destinazione del risultato d'esercizio degli enti del SSN
 
 L'eventuale eccedenza e' accantonata a riserva ovvero, limitatamente agli enti di cui alle lettere b) punto i), e c) del comma 2 dell'articolo 19, e' reso disponibile per il ripiano delle perdite del servizio sanitario regionale. ((Fermo restando quanto previsto dall'articolo 2, comma 80, della legge 23 dicembre 2009, n. 191, eventuali risparmi nella gestione del Servizio sanitario nazionale effettuati dalle regioni rimangono nella disponibilita' delle regioni stesse per finalita' sanitarie)).
 
-##### Art. 31
+### Art. 31
 
 Adozione del bilancio d'esercizio
 
@@ -894,7 +888,7 @@ Gli enti di cui alla lettera c) del comma 2 dell'articolo 19 provvedono, altresi
 
 2\. Entro la medesima data del 30 aprile dell'anno successivo a quello di riferimento, gli enti di cui alla lettera d) del comma 2 dell' articolo 19 devono trasmettere al Ministero della Salute il bilancio di esercizio corredato dalla relazione del collegio dei revisori.
 
-##### Art. 32
+### Art. 32
 
 Bilancio consolidato del Servizio Sanitario Regionale
 
@@ -920,7 +914,7 @@ AGGIORNAMENTO (3)
 
 Il Decreto 20 marzo 2013 (in SO n. 30, relativo alla G.U. 15/04/2013, n. 88) ha disposto (con l'art. 1, comma 1) che "Gli schemi dello Stato Patrimoniale, del Conto Economico e della Nota Integrativa di cui agli articoli 26, comma 3 e 32, comma 6 del decreto legislativo 23 giugno 2011, n. 118, sono modificati rispettivamente secondo gli schemi di cui agli allegati 1, 2 e 3 al presente decreto".
 
-##### Art. 33
+### Art. 33
 
 Tassonomia per gli enti in contabilita' civilista
 
@@ -930,23 +924,21 @@ Tassonomia per gli enti in contabilita' civilista
 
 ((2-bis. Il prospetto di cui all'allegato n. 16 e' aggiornato con decreto del Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato, di concerto con il Ministero dell'interno - Dipartimento per gli affari interni e territoriali e la Presidenza del Consiglio dei ministri - Dipartimento per gli affari regionali, su proposta della Commissione per l'armonizzazione contabile degli enti territoriali.))
 
-##### Art. 34
+### Art. 34
 
 Aggiornamento schemi tecnici
 
 1\. In funzione di eventuali emergenti fabbisogni informativi, anche in conseguenza dell'attivita' di monitoraggio dei conti sanitari e dell'erogazione dei livelli di assistenza, ovvero di aggiornamento dei livelli essenziali di assistenza, nonche' della definizione del livello minimo di articolazione del piano dei conti integrato di cui all'articolo 36, comma 2, i relativi necessari aggiornamenti degli schemi allegati al presente decreto legislativo, di cui agli articoli 26 e 32 nonche' la tabella di cui all'articolo 29, comma 1, lettera b) sono effettuati con decreto del Ministro della Salute, di concerto con il Ministro dell'economia e delle finanze, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano.
 
-##### Art. 35
+### Art. 35
 
 Sistemi informativi e statistici della Sanita'
 
 1\. Al fine di migliorare i sistemi informativi e statistici della sanita' e per il loro migliore utilizzo in termini di monitoraggio dell'organizzazione dei livelli di assistenza, con procedure analoghe a quanto previsto dall'articolo 34, con decreto del Ministro della salute vengono stabilite le procedure di anonimizzazione dei dati individuali presenti nei flussi informativi, gia' oggi acquisiti in modo univoco sulla base del codice fiscale dell'assistito, con la trasformazione del codice fiscale, ai fini di ricerca per scopi di statistica sanitaria, in codice anonimo, mediante apposito algoritmo biunivoco, in modo da tutelare l'identita' dell'assistito nel procedimento di elaborazione dei dati. I dati cosi' anonimizzati sono utilizzati per migliorare il monitoraggio e la valutazione della qualita' e dell'efficacia dei percorsi di cura, con un pieno utilizzo degli archivi informatici dell'assistenza ospedaliera, specialistica, farmaceutica.
 
-## ((Titolo III
+## ((Titolo III - Ordinamento finanziario e contabile delle regioni))
 
-### Ordinamento finanziario e contabile delle regioni))
-
-##### Art. 36
+### Art. 36
 
 (( (Principi generali in materia di finanza regionale).))
 
@@ -960,7 +952,7 @@ Sistemi informativi e statistici della Sanita'
 
 5\. Le regioni adottano i principi contabili generali ed i principi contabili applicati di cui agli allegati n. 1 e n. 4 al presente decreto.))
 
-##### Art. 37
+### Art. 37
 
 (( (Sistema contabile).))
 
@@ -982,7 +974,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 2 - 11 luglio 2012, n. 178 (in G.U. 1a s.s. 18/7/2012, n. 29), ha dichiarato "l'illegittimita' costituzionale del secondo periodo del comma 1 dell'art. 37 del decreto legislativo 23 giugno 2011, n. 118 (Disposizioni in materia di armonizzazione dei sistemi contabili e degli schemi di bilancio delle Regioni, degli enti locali e dei loro organismi, a norma degli articoli 1 e 2 della legge 5 maggio 2009, n. 42".
 
-##### Art. 38
+### Art. 38
 
 (( (Leggi regionali di spesa e relativa copertura finanziaria).))
 
@@ -990,7 +982,7 @@ La Corte Costituzionale, con sentenza 2 - 11 luglio 2012, n. 178 (in G.U. 1a s.s
 
 2\. Le leggi regionali che dispongono spese a carattere pluriennale indicano l'ammontare complessivo della spesa, nonche' la quota eventualmente a carico del bilancio in corso e degli esercizi successivi. La legge di stabilita' regionale puo' annualmente rimodulare le quote previste per ciascuno degli anni considerati nel bilancio di previsione e per gli esercizi successivi, nei limiti dell'autorizzazione complessiva di spesa.))
 
-##### Art. 39
+### Art. 39
 
 (( (Il sistema di bilancio delle regioni).))
 
@@ -1056,7 +1048,7 @@ b) l'elenco delle spese che possono essere finanziate con il fondo di riserva pe
 
 16\. Nella sezione del sito internet della regione dedicata ai bilanci sono pubblicati: il bilancio di previsione finanziario, il relativo documento tecnico di accompagnamento, il bilancio finanziario gestionale, le variazioni del bilancio di previsione, le variazioni del documento tecnico di accompagnamento, il bilancio di previsione assestato, il documento tecnico di accompagnamento assestato e il bilancio gestionale assestato.))
 
-##### Art. 40 - Equilibrio di bilanci
+### Art. 40 - Equilibrio di bilanci
 
 1\. Per ciascuno degli esercizi in cui e' articolato, il bilancio di previsione e' deliberato in pareggio finanziario di competenza, comprensivo dell'utilizzo dell'avanzo di amministrazione e del recupero del disavanzo di amministrazione, garantendo un fondo di cassa finale non negativo. Inoltre, le previsioni di competenza relative alle spese correnti sommate alle previsioni di competenza relative ai trasferimenti in c/capitale, al saldo negativo delle partite finanziarie, alle quote di capitale delle rate di ammortamento dei mutui e degli altri prestiti, con l'esclusione dei rimborsi anticipati, non possono essere complessivamente superiori alle previsioni di competenza dei primi tre titoli dell'entrata, ai contributi destinati al rimborso dei prestiti e all'utilizzo dell'avanzo di competenza di parte corrente, salvo le eccezioni tassativamente indicate nel principio applicato alla contabilita' finanziaria necessarie a garantire elementi di flessibilita' degli equilibri di bilancio ai fini del rispetto del principio dell'integrita'. Nelle more dell'applicazione del capo IV della legge 24 dicembre 2012, n. 243, il totale delle spese di cui si autorizza l'impegno puo' essere superiore al totale delle entrate che si prevede di accertare nel medesimo esercizio, purche' il relativo disavanzo sia coperto da mutui e altre forme di indebitamento autorizzati con la legge di approvazione del bilancio nei limiti di cui all'art. 62.
 
@@ -1064,13 +1056,13 @@ b) l'elenco delle spese che possono essere finanziate con il fondo di riserva pe
 
 ((2-bis. Fermo restando quanto previsto dal comma 2, a decorrere dall'esercizio 2018, le regioni e le province autonome di Trento e di Bolzano che nell'ultimo anno hanno registrato valori degli indicatori annuali di tempestivita' dei pagamenti, calcolati e pubblicati secondo le modalita' stabilite dal decreto del Presidente del Consiglio dei ministri 22 settembre 2014, pubblicato nella Gazzetta Ufficiale n. 265 del 14 novembre 2014, rispettosi dei termini di pagamento di cui all'articolo 4 del decreto legislativo 9 ottobre 2002, n. 231, possono autorizzare spese di investimento la cui copertura sia costituita da debito da contrarre solo per far fronte a esigenze effettive di cassa. L'eventuale disavanzo di amministrazione per la mancata contrazione del debito puo' essere coperto nell'esercizio successivo con il ricorso al debito, da contrarre solo per far fronte a effettive esigenze di cassa)).
 
-##### Art. 41
+### Art. 41
 
 (( (Il piano degli indicatori e dei risultati attesi).))
 
 ((1. Al fine di consentire la comparazione dei bilanci, entro 30 giorni dall'approvazione del bilancio di previsione e del rendiconto, la regione presenta un documento denominato "Piano degli indicatori e dei risultati attesi di bilancio" predisposto secondo le modalita' previste dall'art. 18-bis.))
 
-##### Art. 42 - Il risultato di amministrazionei
+### Art. 42 - Il risultato di amministrazionei
 
 1\. Il risultato di amministrazione, distinto in fondi liberi, fondi accantonati, fondi destinati agli investimenti e fondi vincolati, e' accertato con l'approvazione del rendiconto della gestione dell'ultimo esercizio chiuso, ed e' pari al fondo di cassa aumentato dei residui attivi e diminuito dei residui passivi. Tale risultato non comprende le risorse accertate che hanno finanziato spese impegnate con imputazione agli esercizi successivi, rappresentate dal fondo pluriennale vincolato determinato in spesa del conto del bilancio. Nel caso in cui il risultato di amministrazione non presenti un importo sufficiente a comprendere le quote vincolate, destinate ed accantonate, la differenza e' iscritta nel primo esercizio considerato nel bilancio di previsione, prima di tutte le spese, come disavanzo da recuperare, secondo le modalita' previste al comma 12.
 
@@ -1130,7 +1122,7 @@ A seguito dell'approvazione del rendiconto e dell'accertamento dell'importo defi
 
 15\. A seguito dell'eventuale accertamento di un disavanzo di amministrazione presunto, nell'ambito delle attivita' previste dal comma 9 effettuate nel corso dell'esercizio provvisorio, si provvede alla tempestiva approvazione del bilancio di previsione. Nelle more dell'approvazione del bilancio, la gestione prosegue secondo le modalita' previste dal principio applicato della contabilita' finanziaria riguardante la gestione provvisoria del bilancio.
 
-##### Art. 43
+### Art. 43
 
 (( (Esercizio provvisorio e gestione provvisoria).))
 
@@ -1138,7 +1130,7 @@ A seguito dell'approvazione del rendiconto e dell'accertamento dell'importo defi
 
 2\. L'esercizio provvisorio del bilancio non puo' essere concesso se non per legge e per periodi non superiori complessivamente a quattro mesi, nei modi, nei termini e con gli effetti previsti dagli statuti e dall'ordinamento contabile dell'ente. Nel corso dell'esercizio provvisorio non e' consentito il ricorso all'indebitamento.))
 
-##### Art. 44
+### Art. 44
 
 (( (Classificazione delle entrate).))
 
@@ -1154,7 +1146,7 @@ Nell'ambito delle categorie e' data separata evidenza delle eventuali quote di e
 
 3\. Le entrate in c/capitale e derivanti da debito sono destinate esclusivamente al finanziamento di spese di investimento e non possono essere impiegate per la spesa corrente.))
 
-##### Art. 45
+### Art. 45
 
 (( (Classificazione delle spese).))
 
@@ -1166,7 +1158,7 @@ b) programmi, che rappresentano gli aggregati omogenei di attivita' volte a pers
 
 2\. Ai fini della gestione, i programmi sono ripartiti in macroaggregati, capitoli ed eventualmente in articoli. I macroaggregati di spesa delle regioni sono individuati dall'elenco di cui all'allegato n. 14. La Giunta, contestualmente alla proposta di bilancio, trasmette, a fini conoscitivi, la proposta di articolazione dei programmi in macroaggregati.))
 
-##### Art. 46
+### Art. 46
 
 (( (Fondo crediti di dubbia esigiblita').))
 
@@ -1176,7 +1168,7 @@ b) programmi, che rappresentano gli aggregati omogenei di attivita' volte a pers
 
 3\. E' data facolta' alle regioni di stanziare nella missione "Fondi e accantonamenti", all'interno del programma "Altri fondi", ulteriori accantonamenti riguardanti passivita' potenziali, sui quali non e' possibile impegnare e pagare. A fine esercizio, le relative economie di bilancio confluiscono nella quota accantonata del risultato di amministrazione, immediatamente utilizzabili ai sensi di quanto previsto dall'art. 42, comma 3. Quando si accerta che la spesa potenziale non puo' piu' verificarsi, la corrispondente quota del risultato di amministrazione e' liberata dal vincolo.))
 
-##### Art. 47
+### Art. 47
 
 (( (Sistemi contabili degli organismi e degli enti strumentali della regione. Spese degli enti locali).))
 
@@ -1190,7 +1182,7 @@ b) programmi, che rappresentano gli aggregati omogenei di attivita' volte a pers
 
 5\. I bilanci degli enti e degli organismi, in qualunque forma costituiti, strumentali della regione, sono approvati annualmente nei termini e nelle forme stabiliti dallo statuto e dalle leggi regionali e sono pubblicati nel sito internet della regione.))
 
-##### Art. 48
+### Art. 48
 
 (( (Fondi di riserva).))
 
@@ -1206,7 +1198,7 @@ c) il fondo di riserva per le autorizzazioni di cassa di cui al comma 3.
 
 3\. Il fondo di riserva per le autorizzazioni di cassa e' iscritto nel solo bilancio di cassa per un importo definito in rapporto alla complessiva autorizzazione a pagare ivi disposta, secondo modalita' indicate dall'ordinamento contabile regionale in misura non superiore ad un dodicesimo e i cui prelievi e relative destinazioni ed integrazioni degli altri programmi di spesa, nonche' dei relativi capitoli del bilancio di cassa, sono disposti con decreto dirigenziale.))
 
-##### Art. 49
+### Art. 49
 
 (( (Fondi speciali).))
 
@@ -1220,7 +1212,7 @@ c) il fondo di riserva per le autorizzazioni di cassa di cui al comma 3.
 
 5\. Ai fini della copertura finanziaria di spese derivanti da provvedimenti legislativi non approvati entro il termine dell'esercizio relativo, ma in corso di approvazione da parte del Consiglio, puo' farsi riferimento alle quote non utilizzate dei relativi fondi speciali di detto esercizio. A tal fine, le economie di spesa derivanti dalle quote non utilizzate di tali fondi speciali costituiscono una quota accantonata del risultato di amministrazione, destinata alla copertura finanziaria di spese derivanti dai relativi provvedimenti legislativi, purche' tali provvedimenti siano approvati entro il termine dell'esercizio immediatamente successivo.))
 
-##### Art. 50 - Assestamento del bilancio
+### Art. 50 - Assestamento del bilancio
 
 1\. Entro il 31 luglio, la regione approva con legge l'assestamento delle previsioni di bilancio, anche sulla scorta della consistenza dei residui attivi e passivi, del fondo pluriennale vincolato e del fondo crediti di dubbia esigibilita', accertati in sede di rendiconto dall'esercizio scaduto il 31 dicembre precedente, fermi restando i vincoli di cui all'art. 40.
 
@@ -1236,7 +1228,7 @@ c) le modalita' di copertura dell'eventuale disavanzo di amministrazione tenuto 
 
 ((3-bis. Nelle more della conclusione del giudizio di parificazione del rendiconto dell'esercizio precedente da parte della Corte dei conti, i consigli regionali e delle province autonome di Trento e di Bolzano approvano la legge di assestamento del bilancio anche sulla base delle risultanze del rendiconto approvato dalla giunta, fermo restando l'obbligo di apportare le eventuali variazioni di bilancio che si dovessero rendere necessarie a seguito dell'approvazione definitiva del rendiconto dopo la decisione di parificazione. In ogni caso, l'eventuale avanzo di amministrazione libero e quello destinato agli investimenti possono essere applicati al bilancio di previsione solo a seguito dell'approvazione con legge del rendiconto che ne certifica la sussistenza)).
 
-##### Art. 51 - Variazioni del bilancio di previsione, del documento tecnico di accompagnamento e del bilancio gestionale
+### Art. 51 - Variazioni del bilancio di previsione, del documento tecnico di accompagnamento e del bilancio gestionale
 
 1\. Nel corso dell'esercizio, il bilancio di previsione puo' essere oggetto di variazioni autorizzate con legge.
 
@@ -1296,7 +1288,7 @@ b) le variazioni del fondo pluriennale vincolato effettuate nel corso dell'eserc
 
 10\. Nel corso dell'esercizio 2015 sono applicate le norme concernenti le variazioni di bilancio vigenti nell'esercizio 2014, fatta salva la disciplina del fondo pluriennale vincolato e del riaccertamento straordinario dei residui. Gli enti che hanno partecipato alla sperimentazione nel 2014 adottano la disciplina prevista dal presente articolo a decorrere dal 1° gennaio 2015.
 
-##### Art. 51-bis
+### Art. 51-bis
 
 (( (Variazioni in via d'urgenza da parte della giunta regionale) ))
 
@@ -1304,7 +1296,7 @@ b) le variazioni del fondo pluriennale vincolato effettuate nel corso dell'eserc
 
 2\. ((In caso di mancata o parziale ratifica del provvedimento di variazione adottato dalla giunta regionale, il consiglio regionale e' tenuto ad adottare nei successivi trenta giorni, e comunque entro il 31 dicembre dell'esercizio in corso, i provvedimenti ritenuti necessari nei riguardi dei rapporti eventualmente sorti sulla base della deliberazione non ratificata)).
 
-##### Art. 52
+### Art. 52
 
 (( (La gestione delle entrate e delle spese).))
 
@@ -1312,7 +1304,7 @@ b) le variazioni del fondo pluriennale vincolato effettuate nel corso dell'eserc
 
 2\. La gestione delle spese si attua attraverso le fasi dell'impegno, della liquidazione, dell'ordinazione e del pagamento.))
 
-##### Art. 53
+### Art. 53
 
 (( (Accertamenti).))
 
@@ -1320,7 +1312,7 @@ b) le variazioni del fondo pluriennale vincolato effettuate nel corso dell'eserc
 
 2\. L'accertamento costituisce la prima fase della gestione dell'entrata con la quale il funzionario competente, sulla base di idonea documentazione verifica la ragione del credito e la sussistenza di un idoneo titolo giuridico che da' luogo all'obbligazione attiva giuridicamente perfezionata, individua il debitore, quantifica la somma da incassare, individua la relativa scadenza, e registra il diritto di credito imputandolo contabilmente all'esercizio finanziario nel quale viene a scadenza. Non possono essere riferite ad un determinato esercizio finanziario le entrate il cui diritto di credito non venga a scadenza nello stesso esercizio finanziario. E' vietato l'accertamento attuale di entrate future.))
 
-##### Art. 54
+### Art. 54
 
 (( (La riscossione).))
 
@@ -1358,7 +1350,7 @@ h) la codifica SIOPE di cui all'art. 14 della legge 31 dicembre 2009, n. 196.
 
 9\. I codici di cui al comma 3, lettera e), possono essere applicati all'ordinativo di incasso a decorrere dal 1° gennaio 2016.))
 
-##### Art. 55
+### Art. 55
 
 (( (Il versamento).))
 
@@ -1368,7 +1360,7 @@ h) la codifica SIOPE di cui all'art. 14 della legge 31 dicembre 2009, n. 196.
 
 3\. Gli incaricati interni, designati con provvedimento formale della regione, versano le somme riscosse presso la tesoreria della regione con cadenza stabilita dall'ordinamento contabile regionale, non superiore ai quindici giorni lavorativi.))
 
-##### Art. 56 - Impegni di spesa
+### Art. 56 - Impegni di spesa
 
 1\. Tutte le obbligazioni giuridicamente perfezionate passive, da cui derivano spese per la regione, devono essere registrate nelle scritture contabili quando l'obbligazione e' perfezionata, con imputazione all'esercizio in cui l'obbligazione viene a scadenza, secondo le modalita' previste. dal principio applicato della contabilita' finanziaria di cui all'allegato n. 4/2. Le spese sono registrate nelle scritture contabili anche se non determinano movimenti di cassa effettivi.
 
@@ -1386,7 +1378,7 @@ h) la codifica SIOPE di cui all'art. 14 della legge 31 dicembre 2009, n. 196.
 
 8\. L'ordinamento contabile della regione disciplina le modalita' attraverso le quali le fatture o i documenti contabili equivalenti che attestano l'avvenuta cessione di beni, lo stato di avanzamento di lavori, la prestazione di servizi nei confronti dell'ente, sono annotate entro 10 giorni nel registro delle fatture ricevute secondo le modalita' previste dall'art. 42 del decreto-legge 24 aprile 2014, n. 66, convertito in legge, con modificazioni, dalla legge 23 giugno 2014, n. 89. Per il protocollo di tali documenti e' istituito un registro unico nel rispetto della disciplina in materia di documentazione amministrativa di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, ed e' esclusa la possibilita' di ricorrere a registri di settore o di reparto.
 
-##### Art. 57
+### Art. 57
 
 (( (Liquidazione della spesa).))
 
@@ -1394,7 +1386,7 @@ h) la codifica SIOPE di cui all'art. 14 della legge 31 dicembre 2009, n. 196.
 
 2 La liquidazione e' una registrazione contabile effettuata quando l'obbligazione diviene effettivamente esigibile, a seguito della acquisizione completa della documentazione necessaria a comprovare il diritto del creditore e a seguito del riscontro operato sulla regolarita' della fornitura o della prestazione e sulla rispondenza della stessa ai requisiti quantitativi e qualitativi, ai termini ed alle condizioni pattuite.))
 
-##### Art. 58
+### Art. 58
 
 (( (Il pagamento della spesa).))
 
@@ -1434,7 +1426,7 @@ j) il codice che identifica le spese non soggette al controllo dei dodicesimi pr
 
 8\. I mandati di pagamento, non pagati entro il termine dell'esercizio, sono commutati dal tesoriere, nelle forme e nelle modalita' previste dalla legge, in assegni postali localizzati o altri mezzi equipollenti offerti dal sistema bancario o postale, al fine di rendere possibile, al 31 dicembre di ciascun anno, la parificazione dei mandati emessi dall'ente con quelli pagati dal tesoriere.))
 
-##### Art. 59
+### Art. 59
 
 (( (Modalita' di estinzione dei titoli di pagamento).))
 
@@ -1450,7 +1442,7 @@ d) altre forme di pagamento previste dai sistemi bancari e postali.
 
 2\. Le dichiarazioni di accreditamento o di commutazione, che sostituiscono la quietanza del creditore, devono risultare da annotazione sul mandato di pagamento, o su evidenze informatiche, recante gli estremi relativi alle operazioni)).
 
-##### Art. 60
+### Art. 60
 
 (( (Gestione dei residui).))
 
@@ -1468,13 +1460,13 @@ d) altre forme di pagamento previste dai sistemi bancari e postali.
 
 7\. Tutte le somme iscritte negli stanziamenti di competenza del bilancio e non impegnate, a norma dell'art. 56, entro il termine dell'esercizio costituiscono economia di spesa e a tale titolo concorrono a determinare i risultati finali della gestione, escluse le somme iscritte negli stanziamenti relativi ai fondi pluriennali vincolati in corrispondenza di impegni imputati agli esercizi successivi.))
 
-##### Art. 61
+### Art. 61
 
 (( (Fondi statali per interventi speciali).))
 
 ((1. Nel caso di assegnazioni dello Stato per interventi speciali, la regione ha facolta' di stanziare e di erogare somme eccedenti quelle assegnate dallo Stato, di compensare tali maggiori spese con minori erogazioni per lo stesso scopo nei due esercizi immediatamente successivi.))
 
-##### Art. 62
+### Art. 62
 
 (( (Mutui e altre forme di indebitamento).))
 
@@ -1500,7 +1492,7 @@ Il limite e' determinato anche con riferimento ai finanziamenti imputati contabi
 
 9\. Ai mutui e alle anticipazioni contratti dalle Regioni, si applica il trattamento fiscale previsto per i corrispondenti atti dell'Amministrazione dello Stato.))
 
-##### Art. 63
+### Art. 63
 
 (( (Rendiconto generale).))
 
@@ -1538,7 +1530,7 @@ Le entrate e le spese accertate e impegnate non esigibili nell'esercizio conside
 
 11\. Le variazioni dei residui attivi e passivi e la loro reimputazione ad altri esercizi in considerazione del principio generale della competenza finanziaria di cui all'allegato n. 4/3, formano oggetto di apposito decreto del responsabile del procedimento, previa attestazione dell'inesigibilita' dei crediti o il venir meno delle obbligazioni giuridicamente vincolanti posta in essere dalla struttura regionale competente in materia, sentito il collegio dei revisori dei conti, che in proposito manifesta il proprio parere. Dette variazioni trovano evidenza nel conto economico e nel risultato di amministrazione, tenuto conto dell'accantonamento al fondo crediti di dubbia esigibilita'.))
 
-##### Art. 64
+### Art. 64
 
 (( (Gli inventari).))
 
@@ -1552,7 +1544,7 @@ Le entrate e le spese accertate e impegnate non esigibili nell'esercizio conside
 
 5\. Nel proprio ordinamento contabile le regioni disciplinano le modalita' di inventariazione, di classificazione e di gestione dei beni, nonche' la nomina dei consegnatari dei beni mobili, nel rispetto dei principi contabili applicati.))
 
-##### Art. 65
+### Art. 65
 
 (( (Rendiconti degli enti strumentali della regione e spese degli enti locali).))
 
@@ -1560,7 +1552,7 @@ Le entrate e le spese accertate e impegnate non esigibili nell'esercizio conside
 
 2\. I rendiconti degli organismi strumentali e degli enti di cui al comma 1 che adottano la contabilita' finanziaria sono redatti secondo lo schema previsto dall'allegato n. 10 al presente decreto.))
 
-##### Art. 66
+### Art. 66
 
 (( (Modalita' per la formazione e l'approvazione del rendiconto).))
 
@@ -1568,7 +1560,7 @@ Le entrate e le spese accertate e impegnate non esigibili nell'esercizio conside
 
 2\. Nel sito internet della regione dedicato ai bilanci e' pubblicata la versione integrale del rendiconto della gestione, comprensivo anche della gestione in capitoli, con il relativo allegato concernente la gestione del perimetro sanitario di cui all'art. 63, comma 4, del rendiconto consolidato, comprensivo della gestione in capitoli e del rendiconto semplificato per il cittadino di cui all'art. 11, comma 2.))
 
-##### Art. 67
+### Art. 67
 
 (( (Autonomia contabile del consiglio regionale).))
 
@@ -1578,7 +1570,7 @@ Le entrate e le spese accertate e impegnate non esigibili nell'esercizio conside
 
 3\. La presidenza del consiglio regionale sottopone all'assemblea consiliare, secondo le norme previste nel regolamento interno di questa, il rendiconto del Consiglio regionale. Le relative risultanze finali confluiscono nel rendiconto consolidato di cui all'art. 63, comma 3. Al fine di consentire il predetto consolidato, l'assemblea consiliare approva il proprio rendiconto entro il 30 giugno dell'anno successivo.))
 
-##### Art. 68 - Il bilancio consolidato
+### Art. 68 - Il bilancio consolidato
 
 1\. La regione redige il bilancio consolidato con i propri enti ed organismi strumentali, aziende, societa' controllate e partecipate, secondo le modalita' ed i criteri individuati dal presente decreto.
 
@@ -1596,7 +1588,7 @@ b) la relazione del collegio dei revisori dei conti.
 
 5-bis. ((I bilanci consolidati delle regioni sono trasmessi alla banca dati unitaria delle amministrazioni pubbliche entro sette giorni dalla loro approvazione)).
 
-##### Art. 69 - Servizio di tesoreria della regione
+### Art. 69 - Servizio di tesoreria della regione
 
 1\. Il servizio di tesoreria delle regioni e' affidato, in base ad apposita convenzione sottoscritta dal dirigente competente, a imprese autorizzate all'esercizio dell'attivita' bancaria ai sensi del decreto legislativo 1° settembre 1993, n. 385, e successive modificazioni.
 
@@ -1626,7 +1618,7 @@ L'importo dell'anticipazione specificata in convenzione e' da ritenersi vincolan
 
 11\. La regione registra le operazioni di anticipazione e i relativi rimborsi secondo le modalita' indicate nel principio applicato della contabilita' finanziaria allegato al presente decreto.
 
-##### Art. 70
+### Art. 70
 
 (( (Cooperazione Stato-Regioni).))
 
@@ -1634,13 +1626,13 @@ L'importo dell'anticipazione specificata in convenzione e' da ritenersi vincolan
 
 2\. In attuazione di quanto previsto dal comma 1, le regioni trasmettono alla banca dati delle amministrazioni pubbliche tutte le informazioni previste dall'art. 13 della legge 31 dicembre 2009 n. 196, e accedono alla medesima banca dati secondo le modalita' previste con apposito decreto del Ministro dell'economia e delle finanze.))
 
-##### Art. 71
+### Art. 71
 
 (( (Responsabilita' verso l'ente degli amministratori e dei dipendenti, competenza della Corte dei conti e obblighi di denunzia).))
 
 ((1. Gli amministratori e i dipendenti della regione, per danni arrecati nell'esercizio delle loro funzioni, rispondono nei soli casi e negli stessi limiti di cui alla legge 14 gennaio 1994, n. 20, e successive modificazioni. Si applicano alle indicate ipotesi di responsabilita' gli istituti processuali valevoli per i dipendenti delle amministrazioni statali.))
 
-##### Art. 72
+### Art. 72
 
 (( (Il Collegio dei revisori dei conti).))
 
@@ -1654,7 +1646,7 @@ L'importo dell'anticipazione specificata in convenzione e' da ritenersi vincolan
 
 5\. Il registro dei verbali e' custodito presso la sede della regione. Copia del verbale e' inviata al presidente della regione, al Consiglio regionale, alla sezione regionale di controllo della Corte dei conti e al responsabile finanziario della regione.))
 
-##### Art. 73 - Riconoscimento di legittimita' di debiti fuori bilancio delle Regioni
+### Art. 73 - Riconoscimento di legittimita' di debiti fuori bilancio delle Regioni
 
 1\. Il Consiglio regionale riconosce con legge, la legittimita' dei debiti fuori bilancio derivanti da:
 
@@ -1674,11 +1666,9 @@ e) acquisizione di beni e servizi in assenza del preventivo impegno di spesa.
 
 4\. Al riconoscimento della legittimita' dei debiti fuori bilancio di cui al comma 1, lettera a), ((il Consiglio regionale o la Giunta regionale provvedono entro trenta giorni)) dalla ricezione della relativa proposta. Decorso inutilmente tale termine, la legittimita' di detto debito si intende riconosciuta.
 
-## ((Titolo IV
+## ((Titolo IV - Adeguamento delle disposizioni riguardanti la finanza regionale e locale))
 
-### Adeguamento delle disposizioni riguardanti la finanza - regionale e locale))
-
-##### Art. 74 - Adeguamento dell'ordinamento contabile degli enti locali
+### Art. 74 - Adeguamento dell'ordinamento contabile degli enti locali
 
 1\. Nel decreto legislativo 18 agosto 2000, n. 267, e successive modificazioni, recante il testo unico delle leggi sull'ordinamento degli enti locali, sono apportate le seguenti modificazioni:
 
@@ -2532,7 +2522,7 @@ c) dopo la lettera d) e' inserita la seguente:
 
 64\) al primo periodo del comma 5 dell'art. 268-bis, le parole: «nei bilanci annuale e pluriennale» sono sostituite dalle seguenti: «in ciascuno degli esercizi considerati nel bilancio di previsione.».
 
-##### Art. 75
+### Art. 75
 
 (( (Adeguamento della definizione di indebitamento).))
 
@@ -2546,7 +2536,7 @@ Dal 2015, gli enti di cui al comma 16 rilasciano garanzie solo a favore dei sogg
 
 b) al comma 18 dell'art. 3, le parole: « Trasferimenti in conto capitale» sono sostituite dalle seguenti: «Contributi agli investimenti e i trasferimenti in conto capitale a seguito di escussione delle garanzie».))
 
-##### Art. 76
+### Art. 76
 
 (( (Adeguamento delle disposizioni in materia di trasparenza dei bilanci).))
 
@@ -2558,7 +2548,7 @@ a) l'art. 6 della legge n. 25 febbraio 1987, n. 67, recante rinnovo della legge 
 
 b) il decreto del Presidente della Repubblica 15 febbraio 1989, n. 90, recante approvazione dei modelli degli estratti di bilancio che gli enti pubblici devono compilare e pubblicare sui giornali quotidiani e periodici, ai sensi dell'art. 6 della legge n. 25 febbraio 1987, n. 67.))
 
-##### Art. 77
+### Art. 77
 
 (( (Abrogazioni).))
 
@@ -2586,11 +2576,9 @@ h) al decreto del Presidente della Repubblica 31 gennaio 1996, n. 194:
 
 3\) gli articoli 2, 3 e 4.))
 
-## ((Titolo V
+## ((Titolo V - Disposizioni finali e transitorie))
 
-### Disposizioni finali e transitorie))
-
-##### Art. 78
+### Art. 78
 
 (( (Sperimentazione).))
 
@@ -2608,13 +2596,13 @@ Decorso tale termine, il decreto puo' comunque essere adottato.
 
 6\. Il decreto del Presidente del Consiglio dei ministri di cui al comma 2, individua un sistema premiante, senza nuovi o maggiori oneri per la finanza pubblica, a favore delle amministrazioni pubbliche che partecipano alla sperimentazione.))
 
-##### Art. 79
+### Art. 79
 
 (( (Disposizioni concernenti le Regioni a statuto speciale e le province autonome di Trento e di Bolzano).))
 
 ((1. La decorrenza e le modalita' di applicazione delle disposizioni di cui al presente decreto legislativo nei confronti delle Regioni a statuto speciale e delle province autonome di Trento e di Bolzano, nonche' nei confronti degli enti locali ubicati nelle medesime Regioni speciali e province autonome, sono stabilite, in conformita' con i relativi statuti, con le procedure previste dall'art. 27 della legge 5 maggio 2009, n. 42.))
 
-##### Art. 80
+### Art. 80
 
 (( (Disposizioni finali ed entrata in vigore).))
 
@@ -2652,7 +2640,7 @@ Visto, il Guardasigilli: Alfano
 
 ## Allegati
 
-##### Allegato 1
+### Allegato 1
 
 Allegato 1
 
@@ -3018,7 +3006,7 @@ AGGIORNAMENTO (9)
 
 Il Decreto 1 dicembre 2015 (in G.U. 22/12/2015, n. 297) ha disposto (con l'art. 8, comma 1) che la presente modifica si applica con riferimento agli schemi di bilancio e di rendiconto riguardanti l'esercizio 2016.
 
-##### Allegato 2
+### Allegato 2
 
 Allegato 2
 
@@ -3026,13 +3014,13 @@ Allegato 2
 
 Parte di provvedimento in formato grafico
 
-##### Allegato 3
+### Allegato 3
 
 Allegato 3
 
 Parte di provvedimento in formato grafico
 
-##### Allegato 4/1
+### Allegato 4/1
 
 Principi contabili applicati
 
@@ -4512,7 +4500,7 @@ Parte di provvedimento in formato grafico
 
 Con riferimento agli enti locali, si richiama l'ultimo periodo dell'art. 188, comma 1, del TUEL, il quale prevede che l'eventuale ulteriore disavanzo formatosi nel corso del periodo considerato nel piano di rientro deve essere coperto non oltre la scadenza del piano di rientro in corso.
 
-##### Allegato 4/1
+### Allegato 4/1
 
 10\. Il piano esecutivo di gestione (enti locali)
 
@@ -5656,7 +5644,7 @@ Il Decreto 10 ottobre 2024 (in G.U. 17/10/2024, n. 244) ha disposto:
 
 \- (con l'art. 1, comma 2) che "L'aggiornamento di cui al comma 1, si applica a decorrere dal giorno successivo a quello di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana, salvo la lettera h) che si applica a decorrere dal 1° gennaio 2025 con riferimento al bilancio di previsione 2026-2028 e le lettere da k) a q) che si applicano a decorrere dal 1° gennaio 2026 con riferimento al rendiconto 2025".
 
-##### Allegato 4/2
+### Allegato 4/2
 
 Allegato n. 4/2
 
@@ -6704,7 +6692,7 @@ a) del debito nei confronti del soggetto a favore del quale e' previsto il pagam
 
 b) dell'impegno per il rimborso del prestito, con imputazione agli esercizi secondo le scadenze previste contrattualmente a carico della parte corrente del bilancio.
 
-##### Allegato 4/2
+### Allegato 4/2
 
 5.3.3 La copertura finanziaria delle spese di investimento, comprese quelle che comportano impegni di spesa imputati a piu' esercizi deve essere predisposta - fin dal momento dell'attivazione del primo impegno - con riferimento all'importo complessivo della spesa dell'investimento.
 
@@ -7610,7 +7598,7 @@ c) ridurre il disavanzo da ripianare negli esercizi successivi per un importo pa
 
 Nel caso in cui non sia possibile riferirlo ai piani di rientro, il maggiore ripiano del disavanzo e' attribuito alle componenti del disavanzo di amministrazione in ordine di anzianita' di formazione del disavanzo stesso, nei limiti delle quote previste nell'esercizio successivo e seguenti e restano ferme le modalita' di ripiano previste nei piani di rientro, che termineranno prima del previsto.
 
-##### Allegato 4/2
+### Allegato 4/2
 
 9.3 Il riaccertamento straordinario dei residui
 
@@ -9381,7 +9369,7 @@ AGGIORNAMENTO (29)
 
 Il Decreto 1 agosto 2019 (in G.U. 22/08/2019, n. 196) ha disposto (con l'art. 3, comma 1, lettera i)) che "Al paragrafo 5.4.9 la parola "validato" e' sostituita dalla seguente "verificato" con la seguente nota "(53) Si fa riferimento alla verifica preventiva della progettazione di cui all'articolo 26 del d.lgs. n. 50 del 2016"".
 
-##### Allegato 4/3
+### Allegato 4/3
 
 Allegato n. 4/3
 
@@ -10252,7 +10240,7 @@ A fronte delle spese di manutenzione ordinaria, svolte periodicamente dopo un ce
 
 Tale fondo non intende coprire costi per apportare migliorie, modifiche, ristrutturazioni o rinnovamenti, che si concretizzino in un incremento significativo e tangibile di capacita' o di produttivita' o di sicurezza (manutenzioni di tipo straordinario), per i quali si rimanda al paragrafo sulle immobilizzazioni materiali.
 
-##### Allegato 4/3
+### Allegato 4/3
 
 Gli stanziamenti a tale fondo hanno l'obiettivo di ripartire, secondo il principio della competenza fra i vari esercizi, il costo di manutenzione che, benche' effettuata dopo un certo numero di anni, si riferisce ad un'usura del bene verificatasi anche negli esercizi precedenti a quello in cui la manutenzione viene eseguita. Pertanto, accantonamenti periodici a questo fondo vanno effettuati se ricorrono le seguenti condizioni:
 
@@ -11984,7 +11972,7 @@ Stato patrimoniale Conto economico
 
 Le scritture di assestamento e di chiusura saranno ripetute nei successivi anni per tutta la durata della vita utile del cespite immobilizzato.
 
-##### Allegato 4/3
+### Allegato 4/3
 
 21\. in data 10/03/2016 la Regione paga il contributo. Qualora si tratti solo dell'ultima tranche:
 
@@ -14315,7 +14303,7 @@ AGGIORNAMENTO (39)
 
 Il Decreto 13 febbraio 2025 (in G.U. 24/02/2025, n. 45) ha disposto (con l'art. 3, comma 1) che "Al paragrafo 4.22 del principio contabile applicato concernente la contabilita' economico patrimoniale degli enti in contabilita' finanziaria di cui all'allegato 4/3 al decreto legislativo 23 giugno 2011, n. 118, dopo le parole «Fondo di garanzia debiti commerciali di cui all'art. 1, comma 862, della legge n. 145 del 2018» sono inserite le seguenti «, il fondo obiettivi di finanza pubblica di cui all'art. 1, comma 789, della legge n. 207 del 2024»".
 
-##### Allegato 4/4
+### Allegato 4/4
 
 Allegato n. 4/4
 
@@ -14665,7 +14653,7 @@ AGGIORNAMENTO (19)
 
 Il Decreto 11 agosto 2017 (in G.U. 8/9/2017, n. 210), ha disposto (con l'art. 2, comma 2) che "L'aggiornamento di cui al comma 1 si applica dall'esercizio 2018, con riferimento al bilancio consolidato 2017, salvo l'aggiornamento di cui al comma 1, lettera h), che si applica dall'esercizio 2019, con riferimento al bilancio consolidato 2018".
 
-##### Allegato 5/1
+### Allegato 5/1
 
 ((Allegati alla delibera di riaccertamento straordinario dei residui))
 
@@ -14963,7 +14951,7 @@ Impegni reimputati agli esercizi successivi |         - |         - |
 
 ((Parte di provvedimento in formato grafico))
 
-##### Allegato 5/2
+### Allegato 5/2
 
 ((Allegato 5/2
 
@@ -15077,7 +15065,7 @@ al D.Lgs. 118/2011))
 
 ))
 
-##### Allegato 6/1
+### Allegato 6/1
 
 Piano dei conti integrato
 
@@ -17556,7 +17544,7 @@ al D.Lgs. 118/2011
 +-----+-----+-------------------------------+-----------------------+
 ```
 
-##### Allegato 6/1
+### Allegato 6/1
 
 ```text
 +-----+-----+-------------------------------+-----------------------+
@@ -19675,7 +19663,7 @@ al D.Lgs. 118/2011
 +-----+-----+-------------------------------+-----------------------+
 ```
 
-##### Allegato 6/1
+### Allegato 6/1
 
 ```text
 +-----+-----+-------------------------------+-----------------------+
@@ -21679,7 +21667,7 @@ al D.Lgs. 118/2011
 +-----+-----+-------------------------------+-----------------------+
 ```
 
-##### Allegato 6/1
+### Allegato 6/1
 
 ```text
 +-----+-----+-------------------------------+-----------------------+
@@ -23744,7 +23732,7 @@ al D.Lgs. 118/2011
 +-----+-----+-------------------------------+-----------------------+
 ```
 
-##### Allegato 6/1
+### Allegato 6/1
 
 ```text
 +-----+-----+-------------------------------+-----------------------+
@@ -25834,7 +25822,7 @@ al D.Lgs. 118/2011
 +-----+-----+-------------------------------+-----------------------+
 ```
 
-##### Allegato 6/1
+### Allegato 6/1
 
 ```text
 +-----+-----+-------------------------------+-----------------------+
@@ -27872,7 +27860,7 @@ al D.Lgs. 118/2011
 +-----+-----+-------------------------------+-----------------------+
 ```
 
-##### Allegato 6/1
+### Allegato 6/1
 
 ```text
 +-----+-----+-------------------------------+-----------------------+
@@ -29948,7 +29936,7 @@ AGGIORNAMENTO (40)
 
 Il Decreto 6 agosto 2025 (in G.U. 20/08/2025, n. 192) ha disposto (con l'art. 2, comma 4) che "Gli aggiornamenti di cui al presente articolo si applicano a decorrere dal 1° gennaio 2026, salvo quelli relativi alle lettere b), dei commi 1 e 3, che si applicano a decorrere dal 1° gennaio 2027".
 
-##### Allegato 6/2
+### Allegato 6/2
 
 Allegato n. 6/2
 
@@ -32072,7 +32060,7 @@ al D.Lgs. 118/2011
 +----------------------------------------+--------------+-----+-----+
 ```
 
-##### Allegato 6/2
+### Allegato 6/2
 
 ```text
 +----------------------------------------+--------------+-----+-----+
@@ -33276,7 +33264,7 @@ al D.Lgs. 118/2011
 +----------------------------------------+--------------+-----+-----+
 ```
 
-##### Allegato 6/2
+### Allegato 6/2
 
 ```text
 +----------------------------------------+--------------+-----+-----+
@@ -35998,7 +35986,7 @@ al D.Lgs. 118/2011
 +----------------------------------------+--------------+-----+-----+
 ```
 
-##### Allegato 6/2
+### Allegato 6/2
 
 ```text
 +----------------------------------------+--------------+-----+-----+
@@ -38360,7 +38348,7 @@ al D.Lgs. 118/2011
 +----------------------------------------+--------------+-----+-----+
 ```
 
-##### Allegato 6/2
+### Allegato 6/2
 
 ```text
 +----------------------------------------+--------------+-----+-----+
@@ -39698,7 +39686,7 @@ AGGIORNAMENTO (40)
 
 Il Decreto 6 agosto 2025 (in G.U. 20/08/2025, n. 192) ha disposto (con l'art. 2, comma 4) che "Gli aggiornamenti di cui al presente articolo si applicano a decorrere dal 1° gennaio 2026, salvo quelli relativi alle lettere b), dei commi 1 e 3, che si applicano a decorrere dal 1° gennaio 2027".
 
-##### Allegato 6/3
+### Allegato 6/3
 
 Allegato n. 6/3 al D.Lgs. 118/2011
 
@@ -42068,7 +42056,7 @@ Allegato n. 6/3 al D.Lgs. 118/2011
   +--------------------------------+---+---+---+---+------+---+---+
 ```
 
-##### Allegato 6/3
+### Allegato 6/3
 
 ```text
  +--------------------------------+---+---+---+---+------+---+---+
@@ -44505,7 +44493,7 @@ Allegato n. 6/3 al D.Lgs. 118/2011
   +--------------------------------+---+---+---+---+------+---+---+
 ```
 
-##### Allegato 6/3
+### Allegato 6/3
 
 ```text
 +--------------------------------+---+---+---+---+------+---+---+
@@ -46519,7 +46507,7 @@ Allegato n. 6/3 al D.Lgs. 118/2011
   +--------------------------------+---+---+---+---+------+---+---+
 ```
 
-##### Allegato 6/3
+### Allegato 6/3
 
 ```text
 +--------------------------------+---+---+---+---+------+---+---+
@@ -49140,7 +49128,7 @@ Allegato n. 6/3 al D.Lgs. 118/2011
   +--------------------------------+---+---+---+---+------+---+---+
 ```
 
-##### Allegato 6/3
+### Allegato 6/3
 
 ```text
 +--------------------------------+---+---+---+---+------+---+---+
@@ -51165,7 +51153,7 @@ Allegato n. 6/3 al D.Lgs. 118/2011
   +--------------------------------+---+---+---+---+------+---+---+
 ```
 
-##### Allegato 6/3
+### Allegato 6/3
 
 ```text
  +--------------------------------+---+---+---+---+------+---+---+
@@ -53178,7 +53166,7 @@ Allegato n. 6/3 al D.Lgs. 118/2011
   +--------------------------------+---+---+---+---+------+---+---+
 ```
 
-##### Allegato 6/3
+### Allegato 6/3
 
 ```text
  +--------------------------------+---+---+---+---+------+---+---+
@@ -54680,7 +54668,7 @@ AGGIORNAMENTO (40)
 
 Il Decreto 6 agosto 2025 (in G.U. 20/08/2025, n. 192) ha disposto (con l'art. 2, comma 4) che "Gli aggiornamenti di cui al presente articolo si applicano a decorrere dal 1° gennaio 2026, salvo quelli relativi alle lettere b), dei commi 1 e 3, che si applicano a decorrere dal 1° gennaio 2027".
 
-##### Allegato 7
+### Allegato 7
 
 ((Allegato n. 7
 
@@ -54778,7 +54766,7 @@ e) gli investimenti diretti,
 
 f) i contributi agli investimenti.))
 
-##### Allegato 8/1
+### Allegato 8/1
 
 ((Allegati delle variazioni del bilancio di previsione per il tesoriere))
 
@@ -54790,7 +54778,7 @@ Allegato delibera di variazione del bilancio riportante i dati d'interesse del T
 
 ((Parte di provvedimento in formato grafico))
 
-##### Allegato 8/2
+### Allegato 8/2
 
 Allegato n. 8/2
 
@@ -54853,7 +54841,7 @@ SPESE
 
 Parte di provvedimento in formato grafico
 
-##### Allegato 8/3
+### Allegato 8/3
 
 ((Allegato n. 8/3
 
@@ -54863,7 +54851,7 @@ Allegato n... - Comunicazione al Tesoriere degli aggiornamenti agli stanziamenti
 
 ((Parte di provvedimento in formato grafico))
 
-##### Allegato 9
+### Allegato 9
 
 Allegato n. 9-Bilancio di previsione
 
@@ -55233,7 +55221,7 @@ Comprende anche l'utilizzo del fondo del dl 35/2011";
 
 \- (con l'art. 4, comma 2) che "L'aggiornamento di cui al comma 1, si applica a decorrere dal bilancio di previsione 2027-2029".
 
-##### Allegato 10
+### Allegato 10
 
 Allegato n. 10-rendiconto della gestione al D.Lgs. 118/2011
 
@@ -55725,7 +55713,7 @@ Il Decreto 16 marzo 2026 (in G.U. 26/03/2026, n. 71) ha disposto (con l'art. 5, 
 
 Ha inoltre disposto (con l'art. 5, comma 2) che "L'aggiornamento di cui al comma 1, si applica a decorrere dal rendiconto 2026".
 
-##### Allegato 11
+### Allegato 11
 
 Allegato n. 11
 
@@ -55791,7 +55779,7 @@ dopo la voce «Risultato economico dell'esercizio di pertinenza di terzi"», la 
 
 Ha inoltre disposto (con l'art. 9, comma 2) che "Gli aggiornamenti di cui al comma 1 si applicano a decorrere dal bilancio consolidato 2021".
 
-##### Allegato 12/1
+### Allegato 12/1
 
 Allegati al Documento tecnico di accompagnamento per le regioni e al Piano esecutivo di gestione per gli enti locali
 
@@ -55841,7 +55829,7 @@ Il Decreto 11 agosto 2017, (in G.U. 08/09/2017, n. 210), ha disposto (con l'art.
 
 1010409 - Compartecipazioni accise benzina e gasolio destinate ad alimentare il Fondo nazionale trasporti di cui all'art.16-bis del decreto-legge 95/2012".
 
-##### Allegato 12/2
+### Allegato 12/2
 
 Allegato n. 12/2
 
@@ -55879,7 +55867,7 @@ AGGIORNAMENTO (17)
 
 Il Decreto 18 maggio 2017 (in G.U. 01/06/2017, n. 126) ha disposto (con l'art. 6, comma 1) che "All'allegato n. 12 al decreto legislativo n. 118 del 2011, concernente «Allegato al documento tecnico di accompagnamento delle regioni e Allegato al PEG degli enti locali» la categoria 1010176 e' ridenominata «Tributo per i servizi indivisibili (TASI)»".
 
-##### Allegato 12/3
+### Allegato 12/3
 
 Allegato n. 12/3
 
@@ -55929,7 +55917,7 @@ b) all'allegato 12/3 concernente «SPESE PER MISSIONI, PROGRAMMI E MACROAGGREGAT
 
 Ha inoltre disposto (con l'art. 6, comma 2) che "L'aggiornamento di cui al comma 1, si applica a decorrere dal bilancio di previsione 2026-2028".
 
-##### Allegato 12/4
+### Allegato 12/4
 
 Allegato n. 12/4
 
@@ -55977,7 +55965,7 @@ d) all'allegato 12/4 concernente «SPESE PER MISSIONI, PROGRAMMI E MACROAGGREGAT
 
 Ha inoltre disposto (con l'art. 6, comma 2) che "L'aggiornamento di cui al comma 1, si applica a decorrere dal bilancio di previsione 2026-2028".
 
-##### Allegato 12/5
+### Allegato 12/5
 
 Allegato n. 12/5
 
@@ -56015,7 +56003,7 @@ AGGIORNAMENTO (17)
 
 Il Decreto 18 maggio 2017 (in G.U. 01/06/2017, n. 126) ha disposto (con l'art. 6, comma 1) che "All'allegato n. 12 al decreto legislativo n. 118 del 2011, concernente «Allegato al documento tecnico di accompagnamento delle regioni e Allegato al PEG degli enti locali» la categoria 1010176 e' ridenominata «Tributo per i servizi indivisibili (TASI)»".
 
-##### Allegato 12/6
+### Allegato 12/6
 
 Allegato n. 12/6
 
@@ -56053,7 +56041,7 @@ AGGIORNAMENTO (17)
 
 Il Decreto 18 maggio 2017 (in G.U. 01/06/2017, n. 126) ha disposto (con l'art. 6, comma 1) che "All'allegato n. 12 al decreto legislativo n. 118 del 2011, concernente «Allegato al documento tecnico di accompagnamento delle regioni e Allegato al PEG degli enti locali» la categoria 1010176 e' ridenominata «Tributo per i servizi indivisibili (TASI)»".
 
-##### Allegato 12/7
+### Allegato 12/7
 
 Allegato n. 12/7
 
@@ -56091,7 +56079,7 @@ AGGIORNAMENTO (17)
 
 Il Decreto 18 maggio 2017 (in G.U. 01/06/2017, n. 126) ha disposto (con l'art. 6, comma 1) che "All'allegato n. 12 al decreto legislativo n. 118 del 2011, concernente «Allegato al documento tecnico di accompagnamento delle regioni e Allegato al PEG degli enti locali» la categoria 1010176 e' ridenominata «Tributo per i servizi indivisibili (TASI)»".
 
-##### Allegato 13/1
+### Allegato 13/1
 
 Elenco delle entrate per titoli, tipologie e categorie
 
@@ -57137,7 +57125,7 @@ AGGIORNAMENTO (9)
 
 Il Decreto 1 dicembre 2015 (in G.U. 22/12/2015, n. 297) ha disposto (con l'art. 8, comma 1) che le presenti modifiche si applicano con riferimento agli schemi di bilancio e di rendiconto riguardanti l'esercizio 2016.
 
-##### Allegato 13/2
+### Allegato 13/2
 
 Allegato 13/2
 
@@ -57975,7 +57963,7 @@ AGGIORNAMENTO (9)
 
 Il Decreto 1 dicembre 2015 (in G.U. 22/12/2015, n. 297) ha disposto (con l'art. 8, comma 1) che le presenti modifiche si applicano con riferimento agli schemi di bilancio e di rendiconto riguardanti l'esercizio 2016.
 
-##### Allegato 14
+### Allegato 14
 
 Allegato n. 14
 
@@ -58111,7 +58099,7 @@ descrizione gruppo Cofog: famiglia";
 
 \- (con l'art. 7, comma 2) che "L'aggiornamento di cui al comma 1, si applica a decorrere dal bilancio di previsione 2026-2028 con riferimento alle nuove spese".
 
-##### Allegato 15
+### Allegato 15
 
 ((Allegato n. 15
 
@@ -58121,7 +58109,7 @@ ENTI NON SANITARI - Prospetto di ripartizione della spesa per Missioni-Programmi
 
 ((Parte di provvedimento in formato grafico))
 
-##### Allegato 16
+### Allegato 16
 
 ((Allegato n. 16
 
@@ -58131,7 +58119,7 @@ ENTI SANITARI - Prospetto di ripartizione della spesa per Missioni-Programmi COF
 
 ((Parte di provvedimento in formato grafico))
 
-##### Allegato 17/1
+### Allegato 17/1
 
 Conto del tesoriere
 
@@ -58153,7 +58141,7 @@ Il Decreto 7 settembre 2020, (in G.U. 1/10/2020, n. 243), ha disposto (con l'art
 
 Ha inoltre disposto (con l'art. 6, comma 2) che "Gli aggiornamenti di cui al comma 1 si applicano a decorrere dal rendiconto 2020".
 
-##### Allegato 17/2
+### Allegato 17/2
 
 Allegato n. 17/2
 
@@ -58185,7 +58173,7 @@ b) nella Missione 12 e' inserito il Programma 11 «Interventi per asili nido»".
 
 Ha inoltre disposto (con l'art. 8, comma 2) che "L'aggiornamento di cui al comma 1, si applica a decorrere del rendiconto del tesoriere relativo all'esercizio 2026".
 
-##### Allegato 17/3
+### Allegato 17/3
 
 Allegato n. 17/3
 

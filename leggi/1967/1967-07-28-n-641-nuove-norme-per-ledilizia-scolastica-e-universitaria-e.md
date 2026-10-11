@@ -26,13 +26,11 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - EDILIZIA PER LA SCUOLA ELEMENTARE SECONDARIA, ARTISTICA E PER GLI
+## TITOLO I - EDILIZIA PER LA SCUOLA ELEMENTARE SECONDARIA, ARTISTICA E PER GLI ISTITUTI DI EDUCAZIONE
 
-### ISTITUTI DI EDUCAZIONE
+### CAPO I - NORME GENERALI SULLA PROGRAMMAZIONE DELL'EDILIZIA SCOLASTICA
 
-#### CAPO I - NORME GENERALI SULLA PROGRAMMAZIONE DELL'EDILIZIA SCOLASTICA
-
-##### Art. 1 - Programmi per l'edilizia delle scuole elementari secondarie e artistiche
+#### Art. 1 - Programmi per l'edilizia delle scuole elementari secondarie e artistiche
 
 La costruzione, l'ampliamento, il completamento e il riattamento di edifici, compresi le palestre e gli impianti sportivi, destinati alle scuole statali elementari, secondarie ed artistiche, nonche' agli istituti statali di educazione, sono eseguiti in base a programmi quinquennali.
 
@@ -42,7 +40,7 @@ Nella localizzazione degli edifici scolastici relativi alla scuola dell'obbligo,
 
 Per il quinquennio 1967-1971 l'esecuzione delle opere di edilizia scolastica di cui al primo comma del presente articolo, avviene a totale carico dello Stato e sotto il controllo e a cura del medesimo, con l'osservanza e nei limiti delle disposizioni della presente legge.
 
-##### Art. 2 - Oneri accessori
+#### Art. 2 - Oneri accessori
 
 Gli oneri relativi alla esecuzione delle opere di edilizia scolastica, di cui al presente titolo, comprendono anche quelli:
 
@@ -54,7 +52,7 @@ c) per le incombenze di cui al quarto comma dell'articolo 16, quando tali adempi
 
 d) per la spesa occorrente per l'acquisto delle aree nei casi in cui debba provvedere lo Stato ai sensi dell'articolo 13 della presente legge.
 
-##### Art. 3 - Istituzione degli Uffici scolastici regionali o interregionali
+#### Art. 3 - Istituzione degli Uffici scolastici regionali o interregionali
 
 Allo scopo di provvedere agli adempimenti previsti dalla presente legge sono istituiti Uffici scolastici regionali o interregionali come indicato nella tabella annessa e fatte salve le competenze previste dagli statuti delle Regioni. A tali Uffici sono preposti Sovrintendenti.
 
@@ -68,7 +66,7 @@ Alle spese per la fornitura e la manutenzione dei locali, dell'arredamento e deg
 
 L'onere di cui al precedente comma e' ripartito fra tutte le Province della circoscrizione in misura proporzionale al numero degli alunni delle scuole medie statali funzionanti in ciascuna di esse.
 
-##### Art. 4 - Comitati per l'edilizia scolastica
+#### Art. 4 - Comitati per l'edilizia scolastica
 
 Per la predisposizione dei programmi di edilizia scolastica sono istituiti:
 
@@ -78,7 +76,7 @@ b) presso gli Uffici scolastici regionali o interregionali, i Comitati regionali
 
 Qualora l'ambito di competenza degli Uffici predetti i estenda a piu' Regioni, saranno istituiti per ciascuna Regione, rispettivi Comitati per l'edilizia scolastica.
 
-##### Art. 5 - Compiti del Comitato centrale
+#### Art. 5 - Compiti del Comitato centrale
 
 Il Comitato centrale per l'edilizia scolastica:
 
@@ -92,7 +90,7 @@ Il Comitato centrale per l'edilizia scolastica:
 
 Il Comitato centrale e' assistito dalla Direzione generale per l'edilizia scolastica e l'arredamento della scuola che, attraverso un Ufficio studi e programmazione, ha il compito di provvedere all'aggiornamento annuale dei fabbisogni, in coordinamento con gli uffici del Comitato interministeriale per la programmazione economica (CIPE), presso il Ministero del bilancio e della programmazione economica.
 
-##### Art. 6 - Composizione del Comitato centrale
+#### Art. 6 - Composizione del Comitato centrale
 
 Il Comitato centrale per l'edilizia scolastica e' presieduto dal Ministro per la pubblica istruzione, o per sua delega, da un Sottosegretario di Stato alla pubblica istruzione ed e' composto da: un Sottosegretario di Stato del Ministero dei lavori pubblici;
 
@@ -118,7 +116,7 @@ Per la validita' delle deliberazioni e' necessaria la presenza della meta' dei c
 
 Le funzioni di segretario del Comitato sono disimpegnate da un funzionario della Direzione generale per l'edilizia scolastica e l'arredamento della scuola del Ministero della pubblica istruzione, avente qualifica non inferiore a quella di direttore di divisione o equiparata.
 
-##### Art. 7 - Compiti del Comitato regionale
+#### Art. 7 - Compiti del Comitato regionale
 
 Il Comitato regionale per l'edilizia scolastica:
 
@@ -138,7 +136,7 @@ La norma prevista al settimo comma dell'articolo 2 della legge 26 gennaio 1962, 
 
 Il Comitato regionale e' assistito dall'Ufficio scolastico regionale che, attraverso un proprio Ufficio studi e programmazione, provvede all'aggiornamento annuale dei fabbisogni in coordinamento con gli organismi esistenti a livello regionale per la programmazione economica, sentite le Commissioni provinciali di cui al seguente articolo 9.
 
-##### Art. 8 - Composizione del Comitato regionale
+#### Art. 8 - Composizione del Comitato regionale
 
 Il Comitato regionale per l'edilizia scolastica e' composto da:
 
@@ -168,7 +166,7 @@ Per la validita' delle deliberazioni del Comitato e' necessaria la presenza dell
 
 Le funzioni di segretario del Comitato sono disimpegnate da un funzionario con qualifica non inferiore a consigliere di 1ª classe, in servizio prezzo l'Ufficio scolastico regionale o interregionale.
 
-##### Art. 9 - Formazione dei programmi
+#### Art. 9 - Formazione dei programmi
 
 Alla formazione dei programmi nazionali quinquennali e dei relativi programmi regionali annuali si provvede secondo le seguenti modalita':
 
@@ -198,7 +196,7 @@ Le eventuali variazioni ai programmi esecutivi regionali sono predisposte dal Co
 
 6\) le proposte di programma quinquennale possono prevedere, in luogo della costruzione dell'opera, l'acquisto e l'eventuale ampliamento, completamento e riattamento di edifici gia' esistenti, sempre che rispondano ai criteri di funzionalita' didattica ed ambientale previsti dalle leggi e dai regolamenti in materia di edilizia scolastica e l'acquisto sia economicamente conveniente.
 
-##### Art. 10 - Termini per gli adempimenti della programmazione
+#### Art. 10 - Termini per gli adempimenti della programmazione
 
 Salvo quanto stabilito per il primo programma quinquennale dal successivo articolo 12, i termini per gli adempimenti della programmazione prevista dall'articolo 9 sono i seguenti:
 
@@ -214,7 +212,7 @@ entro i successivi tre mesi: predisposizione dei piani esecutivi annuali ed appr
 
 I successivi programmi regionali annuali devono essere approvati entro il termine del 30 giugno dell'anno che precede quello cui si riferiscono, con l'adempimento delle medesime formalita'.
 
-##### Art. 11 - Centro studi per l'edilizia scolastica
+#### Art. 11 - Centro studi per l'edilizia scolastica
 
 Il Centro studi per l'edilizia scolastica, di cui allo articolo 11 della legge 18 dicembre 1964, n. 1358, ha i seguenti compiti:
 
@@ -242,9 +240,9 @@ Per le esigenze del Centro studi puo' disporsi il comando di personale qualifica
 
 Sulla base degli studi, ricerche e sperimentazioni del Centro, il Ministro per i lavori pubblici, entro dieci mesi dalla data di entrata in vigore della presente legge, emana, con suo decreto, sentito il Consiglio superiore dei lavori pubblici e con il concerto del Ministro per la pubblica istruzione, norme tecniche relative all'edilizia scolastica, ivi compresi gli indici minimi di funzionalita' didattica, edilizia e urbanistica, da osservarsi nella esecuzione di opere di edilizia scolastica.
 
-## CAPO II - DISPOSIZIONI PER IL PERIODO 1967-1971
+### CAPO II - DISPOSIZIONI PER IL PERIODO 1967-1971
 
-##### Art. 12 - Norme per la formazione dei programmi nel quinquennio 1967-1971
+#### Art. 12 - Norme per la formazione dei programmi nel quinquennio 1967-1971
 
 Per gli anni 1967 e 1968 gli interventi di cui al presente titolo saranno attuati, in via transitoria, mediante un programma biennale proposto dal Provveditore agli studi formulato in base alle richieste degli Enti obbligati, sentito il parere di una Commissione composta dal Provveditore agli studi che la presiede, dall'assessore provinciale alla pubblica istruzione, dal sindaco del Comune capoluogo di Provincia o da un assessore da lui delegato, da un ispettore scolastico e da un capo di istituto di scuola secondaria nominati dal Provveditore agli studi.
 
@@ -260,9 +258,9 @@ Per il periodo 1969-71 si applicheranno, per la formazione e l'approvazione dei 
 
 ((Per le opere finanziate con il programma biennale per gli anni 1967 e 1968 le eventuali integrazioni di finanziamento, ivi comprese quelle conseguenti ad aggiudicazione di lavori mediante gare con offerta in aumento, a revisioni dei prezzi, a maggiori compensi per riserve e a maggiori costi di aree, sono disposte sui fondi accantonati, a norma del precedente articolo 9, n. 5) per il periodo 1969-1971)).
 
-## CAPO III - ESECUZIONE DEI PROGRAMMI
+### CAPO III - ESECUZIONE DEI PROGRAMMI
 
-##### Art. 13 - Fornitura dell'area
+#### Art. 13 - Fornitura dell'area
 
 I Comuni, le Province, anche riuniti in consorzio, e gli altri Enti obbligati per legge sono tenuti a fornire le aree per la costruzione degli edifici scolastici, ciascuno nell'ambito della propria competenza.
 
@@ -270,7 +268,7 @@ Gli Enti indicati al precedente comma hanno diritto di chiedere, nei modi previs
 
 Il Ministro per il tesoro, sentito il prefetto e il Comitato regionale, di cui all'articolo 8, puo' concedere, a domanda, l'esonero dal rimborso di cui al comma che precede, quando i Comuni e le Province, nonostante l'applicazione dei tributi con eccedenze sulle aliquote massime in misura non inferiore a quelle fissate dall'articolo 306 del testo unico della legge comunale e provinciale 3 marzo 1934, n. 383, e successive modificazioni e integrazioni, non conseguano il pareggio economico del bilancio e non abbiano deleghe disponibili per la contrazione di mutui, e sempreche' non dispongano o non possano disporre di aree idonee.
 
-##### Art. 14 - Scelta e vincolo delle aree
+#### Art. 14 - Scelta e vincolo delle aree
 
 Ferme restando le norme per la determinazione delle aree in sede di piani regolatori generali e particolareggiati, e salvo quanto disposto dall'articolo 7 della presente legge, i Comuni, le Province e gli altri Enti obbligati, per la parte di propria competenza, al momento dell'invio delle segnalazioni, di cui agli articoli 9 e 12, provvedono ad indicare anche le aree da essi proposte per la costruzione delle opere di edilizia scolastica nonche' a dichiarare se intendono fornirle od avvalersi del diritto di cui al secondo comma dell'articolo 13.
 
@@ -310,13 +308,13 @@ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122
 
 Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del comma 3 del presente articolo dal 1 gennaio 2002 al 30 giugno 2003.
 
-##### Art. 15 - Attuazione dei piani
+#### Art. 15 - Attuazione dei piani
 
 La responsabilita' dell'attuazione dei programmi esecutivi regionali e' affidata al Ministero dei lavori pubblici.
 
 Per l'adempimento dei compiti di cui al comma precedente, sono costituite, presso i Provveditorati regionali alle opere pubbliche, sezioni speciali per l'edilizia scolastica.
 
-##### Art. 16 - Affidamento in concessione delle opere
+#### Art. 16 - Affidamento in concessione delle opere
 
 ((Gli enti obbligati di cui al primo comma dell'articolo 9 possono avvalersi della delega da parte dello Stato per l'esecuzione delle opere di cui al presente titolo. Ai fini della progettazione e della costruzione la domanda redatta dal comune e dagli altri enti obbligati ai sensi del primo comma dell'articolo 9 equivale a richiesta di delega. La delega e' concessa all'atto dell'approvazione del piano esecutivo annuale.
 
@@ -332,13 +330,13 @@ I pagamenti delle rate di acconto sono disposti dal Provveditorato regionale all
 
 Limitatamente al programma per il biennio 1967-1968 gli Enti obbligati con la richiesta, di cui all'articolo 12, dovranno dichiarare, ai sensi e per gli effetti di cui ai commi che precedono, se intendono eseguire le opere in concessione.
 
-##### Art. 17 - Esecuzione diretta delle opere di edilizia scolastica
+#### Art. 17 - Esecuzione diretta delle opere di edilizia scolastica
 
 Qualora non si faccia luogo alla concessione delle opere, ovvero gli Enti di cui al terzo comma dell'articolo 16 non dichiarino, entro 30 giorni, di accettare l'affidamento in concessione delle opere, queste vengono eseguite a cura del Ministero dei lavori pubblici, il quale vi provvede, avvalendosi dei propri organi decentrati e periferici, in conformita' alle norme vigenti in materia di appalti ed esecuzione delle opere, anche con i sistemi costruttivi industrializzati di cui all'articolo 23 della presente legge.
 
 In deroga alle vigenti norme si applicano le disposizioni del precedente articolo 16 per quanto concerne la documentazione giustificativa delle rate di acconto da corrispondere alle ditte esecutrici.
 
-##### Art. 18 - Progettazione delle opere in concessione
+#### Art. 18 - Progettazione delle opere in concessione
 
 Gli Enti concessionari, di cui all'articolo 16, cureranno, nel caso in cui non si ricorra all'appalto concorso di cui all'articolo 23, la progettazione delle opere di edilizia scolastica direttamente o mediante affidamento a liberi professionisti.
 
@@ -366,7 +364,7 @@ AGGIORNAMENTO (2)
 
 Il D.L. 24 ottobre 1969, n. 701, convertito , con modificazioni dalla L. 22 dicembre 1969, n. 952 ha disposto (con l'art. 3, comma 1) che "I termini previsti dal secondo comma dell'articolo 18 e dall'articolo 22 della legge 28 luglio 1967, n. 641, decorrono dal ricevimento della delega o del giudizio favorevole sull'idoneita' dell'area allorche' questo sia successivo."
 
-##### Art. 19 - Progettazione delle opere in esecuzione diretta
+#### Art. 19 - Progettazione delle opere in esecuzione diretta
 
 Qualora si proceda all'esecuzione diretta delle opere di edilizia scolastica, alla compilazione dei progetti provvedono gli uffici del Genio civile, competenti per territorio, direttamente oppure avvalendosi di liberi professionisti. Per progetti che comportino una spesa superiore a 500 milioni di lire si applicano i commi terzo, quarto, sesto e settimo dell'articolo che precede.
 
@@ -378,7 +376,7 @@ Le convenzioni sono formulate sulla base di appositi disciplinari tipo. I compen
 
 I progetti devono essere inoltrati per l'approvazione entro 150 giorni dal termine resosi utile per l'esecuzione diretta delle opere.
 
-##### Art. 20 - Approvazione dei progetti
+#### Art. 20 - Approvazione dei progetti
 
 I progetti di opere di edilizia scolastica di importo non superiore a 250 milioni sono approvati dalla Commissione provinciale prevista dall'articolo 2 della legge 26 gennaio 1962, n. 17, secondo le norme di cui alla legge stessa; quelli di importo superiore sono approvati dal provveditore alle opere pubbliche, sentito il Comitato di cui all'articolo 25.
 
@@ -388,19 +386,19 @@ Detta Commissione provinciale e' anche competente per l'approvazione delle periz
 
 Sono altresi' di competenza della predetta Commissione l'approvazione dei prezzi nuovi, la concessione di proroghe ed ogni altro atto di carattere tecnico-amministrativo riguardante la conduzione delle opere fino al momento del collaudo.
 
-##### Art. 20-bis
+#### Art. 20-bis
 
 ((Qualora la gara per l'appalto di un'opera di edilizia scolastica
 
 vada deserta, nei casi di motivata necessita', puo' essere autorizzato dal competente provveditore alle opere pubbliche un secondo esperimento nel quale siano ammesse anche offerte in aumento sui prezzi di capitolato)).
 
-##### Art. 21 - Progetti di opere di edilizia scolastica non sovvenzionata
+#### Art. 21 - Progetti di opere di edilizia scolastica non sovvenzionata
 
 I progetti relativi alla costruzione, all'ampliamento, al completamento e al riattamento di edifici scolastici, che gli Enti obbligati, nell'ambito delle rispettive competenze, intendono eseguire a propria cura e spesa, ai sensi del numero 1 dell'articolo 9, devono essere sottoposti, se d'importo non superiore ai 250 milioni, al parere della Commissione provinciale, di cui al primo comma dell'articolo 20, della presente legge, e, oltre tale importo, al parere del Comitato di cui all'articolo 25.
 
 Il primo comma dell'articolo 12 della legge 18 dicembre 1964, n. 1358, e' abrogata.
 
-##### Art. 22 - Appalto-concorso
+#### Art. 22 - Appalto-concorso
 
 Nel caso che gli Enti obbligati, concessionari delle opere di edilizia scolastica, intendano ricorrere all'appalto-concorso, questo deve essere bandito entro 60 giorni dalla notificazione della avvenuta concessione.((2))
 
@@ -410,11 +408,11 @@ AGGIORNAMENTO (2)
 
 Il D.L. 24 ottobre 1969, n. 701, convertito , con modificazioni dalla L. 22 dicembre 1969, n. 952 ha disposto (con l'art. 3, comma 1) che "I termini previsti dal secondo comma dell'articolo 18 e dall'articolo 22 della legge 28 luglio 1967, n. 641, decorrono dal ricevimento della delega o del giudizio favorevole sull'idoneita' dell'area allorche' questo sia successivo."
 
-##### Art. 23 - Appalto-concorso obbligatorio
+#### Art. 23 - Appalto-concorso obbligatorio
 
 Ove si ritenga di eseguire le opere con sistemi costruttivi industrializzati mediante l'impiego delle varie tecniche e metodi della prefabbricazione, dovra' procedersi all'affidamento dei lavori mediante appalto-concorso.
 
-##### Art. 24 - Collaudo e consegna delle opere
+#### Art. 24 - Collaudo e consegna delle opere
 
 Il collaudo delle opere, di cui al presente capo, e' disposto dal provveditore regionale alle opere pubbliche competente per territorio, in conformita' alle norme vigenti.
 
@@ -426,7 +424,7 @@ Gli edifici scolastici, costruiti dallo Stato in applicazione dell'articolo 1 de
 
 I trasferimenti di cui ai precedenti commi sono effettuati con esenzione di ogni imposta e tassa. L'ufficio competente del registro immobiliare deve eseguire gratuitamente le trascrizioni del caso.
 
-##### Art. 25 - Composizione del Comitato tecnico-amministrativo presso i Provveditorati regionali alle opere pubbliche
+#### Art. 25 - Composizione del Comitato tecnico-amministrativo presso i Provveditorati regionali alle opere pubbliche
 
 Sui progetti di opere di edilizia scolastica di importo superiore a 250 milioni di lire e' competente ad esprimere pareri il Comitato tecnico-amministrativo del Provveditorato regionale alle opere pubbliche. A tal fine il Comitato stesso si riunira' nella seguente composizione ridotta:
 
@@ -452,7 +450,7 @@ Il Comitato di cui al primo comma e' costituito con decreto del Ministro per i l
 
 Si applicano, in quanto compatibili, le disposizioni contenute negli articoli 16 e 17 del decreto del Presidente della Repubblica 30 giugno 1955, n. 1534.
 
-##### Art. 26 - Interventi urgenti
+#### Art. 26 - Interventi urgenti
 
 Ove ricorrano situazioni determinate da eventi imprevedibili, il Ministro per i lavori pubblici, d'intesa con il Ministro per la pubblica istruzione, ha facolta' di ordinare l'immediata esecuzione di opere di edilizia scolastica che non possano essere differite per esigenze di igiene o sicurezza.
 
@@ -462,7 +460,7 @@ A tal fine e' accantonata una somma pari all'1 per cento degli stanziamenti annu
 
 Ai contratti per i lavori e le forniture relative alle opere di cui al presente articolo, si applica la disposizione del secondo comma dell'articolo 1 della legge 26 gennaio 1963, n. 47, per la parte relativa alla stipulazione dei contratti, prescindendosi, nel caso di ricorso all'impiego delle varie tecniche e metodi della prefabbricazione, dalla procedura di cui all'articolo 23 della presente legge)).
 
-##### Art. 27 - Spese per il funzionamento dei Comitati per l'edilizia scolastica, delle Commissioni provinciali, del Centro studi e della relativa Consulta
+#### Art. 27 - Spese per il funzionamento dei Comitati per l'edilizia scolastica, delle Commissioni provinciali, del Centro studi e della relativa Consulta
 
 ((Alla spesa per l'adempimento dei compiti del comitato centrale e dei comitati regionali per l'edilizia scolastica, di cui all'articolo 4, delle commissioni provinciali, di cui all'articolo 9 e all'articolo 12, nonche' del centro studi per l'edilizia scolastica e della relativa consulta, di cui all'articolo 11, e degli uffici studi e programmazione, di cui agli articoli 5 e 7, sara' provveduto con una aliquota non superiore all'1 per cento, allo 0,90, allo 0,80, allo 0,80 e all'1,2 per cento delle somme autorizzate rispettivamente per gli anni 1967, 1968, 1969, 1970, 1971, a termine dell'articolo 32 della presente legge)).
 
@@ -472,7 +470,7 @@ Per le esigenze di funzionamento degli organismi di cui al primo comma del prese
 
 Al personale di cui al comma precedente e' attribuito un trattamento economico non superiore a quello spettante per la qualifica iniziale delle carriere corrispondenti.
 
-##### Art. 28 - Sperimentazione di edilizia scolastica
+#### Art. 28 - Sperimentazione di edilizia scolastica
 
 Per la sperimentazione dell'edilizia scolastica anche prefabbricata, per le scuole e istituti di cui all'articolo 1, e' riservata la somma complessiva di 25.000 milioni, da prelevarsi sugli stanziamenti previsti, per ciascun anno, dall'articolo 32.
 
@@ -482,7 +480,7 @@ Per la esecuzione delle opere di edilizia sperimentale si applicano le disposizi
 
 Sono richiamate in vigore le norme previste dalla legge 26 gennaio 1963, n. 47.
 
-##### Art. 29 - Sussidi per adattamento e riadattamento di locali per le scuole elementari e medie
+#### Art. 29 - Sussidi per adattamento e riadattamento di locali per le scuole elementari e medie
 
 La facolta' spettante al Ministero della pubblica istruzione, a norma della legge 17 dicembre 1957, n. 1229, e successive modificazioni, e a norma dell'articolo 12 della legge 10 giugno 1942, n. 675, e' estesa all'adattamento e al riadattamento di costruzioni o locali adibiti ad uso di scuole elementari e medie di proprieta' dei Comuni con popolazione inferiore a 10 mila abitanti, nonche' di Comuni con popolazione superiore a 10 mila abitanti, limitatamente alle scuole di frazioni con popolazione non superiore ai 3.500 abitanti.
 
@@ -490,7 +488,7 @@ Ai fini di cui al precedente comma, saranno utilizzate anche le disponibilita' r
 
 ((La corresponsione dei sussidi e' subordinata all'avvenuta esecuzione dei lavori cui i sussidi medesimi si riferiscono, su attestazione dell'ingegnere capo del Genio civile e non e' soggetta ai limiti di cui all'articolo 3 della legge 17 dicembre 1957, n. 1229, e all'articolo 16 della legge 24 luglio 1962, n. 1073)).
 
-##### Art. 30
+#### Art. 30
 
 (( (Sussidi e spese per l'arredamento di scuole elementari e medie)
 
@@ -502,15 +500,15 @@ All'onere derivante dall'applicazione dei precedenti commi si provvede con gli a
 
 La corresponsione del sussidio e' subordinata alla avvenuta esecuzione della fornitura cui esso si riferisce, da attestarsi dal provveditore agli studi)).
 
-##### Art. 31 - Ispettori centrali per l'edilizia scolastica
+#### Art. 31 - Ispettori centrali per l'edilizia scolastica
 
 Nella dotazione organica degli ispettori centrali stabilita dalla legge 7 dicembre 1961, n. 1264, per l'istruzione elementare, secondaria e artistica, dieci posti sono riservati agli ispettori centrali per l'edilizia scolastica. Di essi almeno cinque dovranno essere forniti di laurea in ingegneria o in architettura.
 
 ((COMMA ABROGATO DAL D.P.R. 31 MARZO 1971, N. 283))
 
-## CAPO IV - FINANZIAMENTO DEI PROGRAMMI PER IL QUINQUENNIO 1967-1971
+### CAPO IV - FINANZIAMENTO DEI PROGRAMMI PER IL QUINQUENNIO 1967-1971
 
-##### Art. 32
+#### Art. 32
 
 Per l'esecuzione delle opere edilizie, ai sensi dell'articolo 1 della presente legge, sono autorizzate le spese di lire 180 miliardi; lire 200 miliardi; lire 235 miliardi; lire 235 miliardi e lire 150 miliardi, rispettivamente per gli anni finanziari 1967, 1968, 1969, 1970 e 1971.
 
@@ -520,11 +518,9 @@ Una somma pari al 5 per cento dello stanziamento previsto per ciascun anno nel p
 
 ## TITOLO II - EDILIZIA UNIVERSITARIA
 
-### CAPO I
+### CAPO I - FORMAZIONE E APPROVAZIONE DEI PROGRAMMI
 
-#### FORMAZIONE E APPROVAZIONE DEI PROGRAMMI
-
-##### Art. 33 - Modalita' per la formazione del programma
+#### Art. 33 - Modalita' per la formazione del programma
 
 II programma quinquennale e' compilato sulla base dei piani prospettati da ciascuna Universita' o Istituto universitario e tenendo conto anche delle esigenze derivanti dall'istituzione di nuove Universita', sentita una speciale Commissione, nonche', per quanto concerne i Collegi universitari, le Case dello studente ed altri servizi assistenziali universitari, il Comitato centrale delle Opere universitarie.
 
@@ -556,13 +552,13 @@ Per le necessita' edilizie delle nuove Universita' e' riservata una somma non in
 
 Eventuali variazioni al programma saranno apportate seguendo la procedura prevista dal presente articolo.
 
-##### Art. 34 - Programmi quinquennali per le opere della edilizia universitaria - Stanziamenti per gli esercizi finanziari dal 1967 al 1971
+#### Art. 34 - Programmi quinquennali per le opere della edilizia universitaria - Stanziamenti per gli esercizi finanziari dal 1967 al 1971
 
 Le opere edilizie necessarie alle esigenze delle stesse Universita' e altre istituzioni sono eseguite in base a programmi quinquennali secondo le norme contenute negli articoli 33 e 37.
 
 Ai fini del primo programma quinquennale, negli stati di previsione della spesa del Ministero della pubblica istruzione e' stanziata la somma di lire 41 miliardi 500 milioni per ciascuno degli esercizi finanziari 1967, 1968 e 1969 e di lire 42 miliardi 700 milioni per ciascuno degli esercizi finanziari 1970 e 1971 per contributi a favore delle Universita' e delle altre istituzioni di cui all'articolo 42 della presente legge.
 
-##### Art. 35 - Spese per le opere della edilizia universitaria
+#### Art. 35 - Spese per le opere della edilizia universitaria
 
 Ai fini del precedente articolo sono ammesse spese per l'acquisto di aree, per la costruzione, l'ampliamento, l'adattamento e il completamento di edifici, nonche' per l'arredamento e le attrezzature occorrenti in concomitanza con le opere edilizie e, in via eccezionale, per lo acquisto di edifici sempreche' questi rispondano a criteri di funzionalita' didattica e ambientale e l'acquisto sia economicamente conveniente.
 
@@ -570,7 +566,7 @@ Il programma quinquennale puo' comprendere anche spese per l'acquisto di aree di
 
 Degli stanziamenti di cui all'articolo 34 il 3 per cento e' accantonato anno per anno per fronteggiare situazioni derivate da eventi non prevedibili; la somma accantonata deve essere comunque impegnata non oltre l'ultimo anno del programma quinquennale.
 
-##### Art. 36 - Modalita' per la proposta dei fabbisogni
+#### Art. 36 - Modalita' per la proposta dei fabbisogni
 
 Le Universita' e gli Istituti di cui all'articolo 42 debbono trasmettere al Ministero della pubblica istruzione, entro il termine unico stabilito dal Ministero medesimo, il rispettivo piano quinquennale di opere di cui allo articolo 35, indicando le opere da realizzare secondo la graduatoria d'urgenza e accordando precedenza al completamento di singoli edifici o di singoli lotti funzionali di opere, gia' iniziati o parzialmente finanziati da precedenti leggi e, quando si tratti di costruzione di Istituti, concedendo preferenza agli edifici destinati a Istituti policattedra o a Dipartimenti.
 
@@ -580,11 +576,11 @@ Il piano quinquennale viene trasmesso, previa approvazione del Consiglio di ammi
 
 La relativa delibera e i verbali della discussione sono allegati ai programmi.
 
-##### Art. 37 - Coordinamento
+#### Art. 37 - Coordinamento
 
 Nella formazione dei piani quinquennali, di cui al primo comma dell'articolo 36, devono essere previsti i necessari coordinamenti territoriali e costruttivi tra Facolta', Istituti e Dipartimenti.
 
-##### Art. 38 - Aree fabbricabili
+#### Art. 38 - Aree fabbricabili
 
 Le aree fabbricabili, necessarie per le costruzioni previste nel presente titolo, sono prescelte nell'ambito dei piani regolatori secondo le indicazioni dei piani territoriali di coordinamento, ove esistano.
 
@@ -594,9 +590,9 @@ Il giudizio di idoneita' sulle aree prescelte dal Consiglio di amministrazione d
 
 L'autorizzazione all'acquisto di aree e' data alle Universita' ed alle istituzioni di cui all'articolo 42 dal prefetto senza limiti di valore.
 
-## CAPO II - PROGETTAZIONE ED ESECUZIONE DELLE OPERE
+### CAPO II - PROGETTAZIONE ED ESECUZIONE DELLE OPERE
 
-##### Art. 39 - Progettazione delle opere
+#### Art. 39 - Progettazione delle opere
 
 Alla progettazione delle opere le istituzioni di cui al successivo articolo 42 provvedono mediante pubblici concorsi o avvalendosi, per incarico direttamente conferito, di prestazioni di liberi professionisti, ovvero, per spese il cui importo non ecceda i 500 milioni, a mezzo di uffici tecnici propri o dei rispettivi Consorzi edilizi universitari.((2))
 
@@ -610,7 +606,7 @@ AGGIORNAMENTO (2)
 
 Il D.L. 24 ottobre 1969, n. 701, convertito , con modificazioni dalla L. 22 dicembre 1969, n. 952 ha disposto (con l'art. 9, comma 2) che "L'importo di spesa, stabilito dall'articolo 39, commi primo e secondo, della legge 28 luglio 1967, n. 641, e' elevato a un miliardo."
 
-##### Art. 40 - Approvazione dei progetti
+#### Art. 40 - Approvazione dei progetti
 
 L'approvazione dei progetti delle opere ha luogo in conformita' delle disposizioni vigenti in materia di opere pubbliche di conto dello Stato, previo accertamento di conformita' al programma di cui al precedente articolo 33.
 
@@ -618,7 +614,7 @@ L'approvazione dei progetti equivale a dichiarazione di pubblica utilita' ed i r
 
 Per le espropriazioni occorrenti si applicano gli articoli 12 e 13 della legge 15 gennaio 1885, n. 2892.
 
-##### Art. 41 - Autorizzazione all'acquisto di edifici
+#### Art. 41 - Autorizzazione all'acquisto di edifici
 
 In via eccezionale e qualora concorrano motivi di particolare convenienza, il rettore, o il legale rappresentante dell'istituzione interessata, puo' chiedere che in luogo dell'esecuzione dell'opera, per la quale sia stato concesso il contributo, venga acquistato un edificio.
 
@@ -628,13 +624,13 @@ In tal caso possono essere autorizzate le occorrenti variazioni del programma qu
 
 interessata al fine di consentire l'erogazione del prezzo d'acquisto. Nulla e' variato per quanto riguarda la procedura dell'acquisto.
 
-## CAPO III - EROGAZIONE DEI CONTRIBUTI
+### CAPO III - EROGAZIONE DEI CONTRIBUTI
 
-##### Art. 42 - Enti beneficiari dei contributi
+#### Art. 42 - Enti beneficiari dei contributi
 
 Le istituzioni ammesse a godere dei contributi per i fini di cui all'articolo 35 sono le Universita' statali, gli Istituti universitari statali, gli Istituti scientifici universitari statali con ordinamento speciale, anche per le cliniche universitarie e per quelle ubicate in reparti ospedalieri clinicizzati, e per gli edifici destinati agli impianti sportivi, nonche' i Collegi universitari e le Case dello studente annessi alle medesime Universita', ed altri servizi assistenziali o sanatoriali universitari anche consorziali, e gli Osservatori astronomici, astrofisici, geofisici e vulcanologici statali.
 
-##### Art. 43 - Procedura per l'erogazione dei contributi
+#### Art. 43 - Procedura per l'erogazione dei contributi
 
 Ai fini dell'erogazione dei contributi il rettore dell'Universita', o il legale rappresentante delle altre istituzioni interessate, invia al Ministero della pubblica istruzione apposita certificazione attestante per ciascuna opera:
 
@@ -652,15 +648,15 @@ Lo stato finale dei lavori, vistato dal competente ingegnere capo del Genio civi
 
 Ai fini del pagamento del saldo e' trasmesso il certificato di collaudo debitamente approvato.
 
-##### Art. 44 - Concorso degli Enti
+#### Art. 44 - Concorso degli Enti
 
 Le istituzioni di cui all'articolo 42, le Regioni, le Province, i Comuni, i Consorzi universitari e le Amministrazioni degli ospedali clinicizzati, che intendono apportare il proprio contributo finanziario all'attuazione delle opere programmate, possono contrarre mutui con la Cassa depositi e prestiti, con le Casse di risparmio e con le altre aziende di credito, indicate nell'articolo 5 del regio decreto-legge 12 marzo 1936, n. 375, e successive modificazioni, le quali sono autorizzate ad accordare i mutui stessi anche in deroga ai propri statuti.
 
-##### Art. 45 - Manutenzione degli edifici demaniali
+#### Art. 45 - Manutenzione degli edifici demaniali
 
 Le disposizioni di cui all'articolo 25 della legge 24 luglio 1962, n. 1073, si applicano anche agli Istituti universitari scientifici e culturali con ordinamento speciale sottoposti alla vigilanza del Ministero della pubblica istruzione.
 
-##### Art. 46 - Norme per la costruzione delle nuove Universita
+#### Art. 46 - Norme per la costruzione delle nuove Universita
 
 Per le erigende nuove Universita', nelle more della costituzione dei regolari organi accademici, il Ministro per la pubblica istruzione nomina, sentita la Commissione di cui al precedente articolo 33, appositi Comitati tecnico-amministrativi con i poteri dei Consigli di amministrazione universitari e con il particolare compito di provvedere all'allestimento degli edifici occorrenti. Di tali Comitati fanno parte in ogni caso un membro designato dall'Amministrazione provinciale ed uno dal Comune, sede dell'Universita'.
 
@@ -670,7 +666,7 @@ I Comitati di cui ai precedenti commi amministrano le somme messe a loro disposi
 
 I Comitati medesimi cessano all'atto della nomina del Consiglio di amministrazione della nuova Universita' al quale effettuano le relative consegne, e comunque non oltre due anni dalla data della loro costituzione.
 
-##### Art. 47 - Articolazione del primo programma quinquennale
+#### Art. 47 - Articolazione del primo programma quinquennale
 
 Il programma quinquennale di cui al secondo comma dell'articolo 34 sara' articolato in due distinte fasi: la prima per il biennio 1967-68, la seconda per il triennio 1969-71.
 
@@ -688,25 +684,25 @@ I contributi previsti per il triennio dovranno essere destinati, per almeno due 
 
 ## TITOLO III - NORME FINALI
 
-##### Art. 48
+#### Art. 48
 
 Per gli edifici finanziati dalla presente legge, il limite di 50 milioni, previsto dall'articolo 1 della legge 29 luglio 1949, n. 717, e successive modificazioni, e' elevato a 100 milioni.
 
-##### Art. 49
+#### Art. 49
 
 Fermi restando i maggiori benefici contenuti in leggi speciali, tutti gli atti, contratti e formalita' occorrenti per l'attuazione della presente legge sono soggetti alle tasse fisse di registro ed ipotecarie e sono esenti dai diritti catastali.
 
 Le norme di cui sopra si applicano anche se le opere di edilizia sono realizzate direttamente dagli Enti interessati o con il concorso dei medesimi.
 
-##### Art. 50
+#### Art. 50
 
 Tutti gli stanziamenti previsti dalla presente legge, non utilizzati nell'esercizio per cui sono stabiliti, potranno essere utilizzati negli esercizi successivi.
 
-##### Art. 51
+#### Art. 51
 
 Il Ministro per la pubblica istruzione presentera' ogni anno, unitamente allo stato di previsione del suo Ministero, una relazione sull'attuazione della presente legge.
 
-##### Art. 52
+#### Art. 52
 
 Per far fronte agli oneri previsti dalla presente legge e' autorizzata l'emissione di un prestito redimibile, denominato "Prestito per l'edilizia scolastica", da emettersi in cinque esercizi finanziari, a decorrere dal 1967, fino alla concorrenza di un ricavo netto di lire 222 miliardi nell'anno finanziario 1967, di lire 242 miliardi nell'anno finanziario 1968, di lire 277 miliardi nell'anno finanziario 1969, di lire 277 miliardi nell'anno finanziario 1970 e di lire 192 miliardi nell'anno finanziario 1971.
 
@@ -714,11 +710,11 @@ L'emissione puo' avere luogo anche in piu' riprese nel corso di ogni esercizio.
 
 Le sottoscrizioni sono effettuate per contanti.
 
-##### Art. 53
+#### Art. 53
 
 I titoli emessi in ciascuno dei cinque esercizi di cui all'articolo precedente sono rimborsabili, alla pari, mediante sorteggio annuale, a decorrere dall'esercizio successivo alla relativa emissione, secondo il piano e le modalita' di ammortamento che saranno stabiliti dal Ministro per il tesoro con i decreti di cui all'articolo 56.
 
-##### Art. 54
+#### Art. 54
 
 Il prestito di cui all'articolo 52 e' iscritto nel Gran Libro del debito pubblico e ad esso sono applicabili le disposizioni che regolano il Gran Libro e tutte le norme contenute nel testo unico delle leggi del Debito pubblico approvato con decreto del Presidente della Repubblica 14 febbraio 1963, n. 1343, comprese quelle relative alle esenzioni fiscali.
 
@@ -726,19 +722,19 @@ I titoli del prestito suddetto sono accettati tutte le volte che, per disposizio
 
 I titoli e le relative cedole fruiscono di tutte le garanzie e di tutti i privilegi concessi ai titoli e alle rendite di debito pubblico.
 
-##### Art. 55
+#### Art. 55
 
 Sono estese all'emissione del prestito le esenzioni ed agevolazioni di cui all'articolo 8 della legge 19 dicembre 1952, n. 2356.
 
-##### Art. 56
+#### Art. 56
 
 Il Ministro per il tesoro stabilira' annualmente con propri decreti il capitale nominale da emettere ed il relativo prezzo di emissione, il tasso di interesse da corrispondere in due semestralita' posticipate, le caratteristiche dei titoli, la decorrenza della loro iscrizione sul Gran Libro e la durata del relativo ammortamento, la loro ripartizione in serie ed in tagli, le norme relative alla consegna dei titoli, nonche' tutte le altre condizioni e modalita' concernenti la sottoscrizione e la stipula delle convenzioni con la Banca d'Italia per le operazioni relative all'emissione ed al collocamento dei titoli e, ove occorra, per la costituzione ed il funzionamento di consorzi per il collocamento stesso.
 
-##### Art. 57
+#### Art. 57
 
 All'onere relativo al pagamento della prima o delle prime due semestralita' di interessi e, ove occorra, della prima annualita' di ammortamento di ciascuna quota di prestito e ad ogni altra spesa derivante dall'emissione e dal collocamento dei titoli del prestito di cui alla presente legge nonche' per l'eventuale conguaglio di interessi, si fara' fronte con una aliquota dei proventi dell'emissione stessa.
 
-##### Art. 58
+#### Art. 58
 
 Sono estese ai titoli del prestito di cui all'articolo 52 le disposizioni del titolo II del decreto-legge 23 gennaio 1958, n. 8, convertito nella legge 23 febbraio 1958, n. 84.
 
@@ -746,13 +742,13 @@ E' autorizzata la spesa di lire 20.360 milioni da conferire ad incremento dell'a
 
 All'onere derivante dall'applicazione del precedente comma si provvede mediante riduzione dello stanziamento del capitolo 5381 dello stato di previsione della spesa del Ministero del tesoro per l'anno finanziario 1966.
 
-##### Art. 59
+#### Art. 59
 
 Il Ministro per il tesoro e' autorizzato a provvedere, con propri decreti, negli esercizi dal 1967 al 1971, alle variazioni di bilancio connesse con l'applicazione della presente legge.
 
 Nelle more del perfezionamento di emissione del prestito di cui al precedente articolo 52 i Ministri per i lavori pubblici e per la pubblica istruzione sono autorizzati ad assumere impegni per l'attuazione dei programmi previsti dalla presente legge, nei limiti degli importi annualmente previsti dai precedenti articoli 32 e 34.
 
-##### Art. 60
+#### Art. 60
 
 Sono abrogate le norme incompatibili con quelle contenute nella presente legge.
 
@@ -760,11 +756,11 @@ Nelle Regioni a Statuto speciale e nelle province di Bolzano e di Trento non avr
 
 Le norme stabilite dalla presente legge che risultassero in eventuale contrasto con le leggi istitutive delle Regioni decadranno automaticamente all'atto in cui dette leggi saranno emanate.
 
-##### Art. 61
+#### Art. 61
 
 Le agevolazioni tributarie dell'articolo 49 sono concesse, limitatamente agli atti di acquisto stipulati prima della entrata in vigore della presente legge, ai Comuni che, pur non essendovi obbligati, hanno acquistato fabbricati da adibire a scuole. Restano salvi i rapporti tributari gia' definiti, anche se relativi a pagamenti in tutto o in parte non ancora effettuati. Non si fa luogo, comunque, a restituzione di somme gia' pagate.
 
-##### Art. 62
+#### Art. 62
 
 La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -780,7 +776,7 @@ Visto, il Guardasigilli: REALE
 
 ## TITOLO III - NORME FINALI
 
-##### Allegato
+#### Allegato
 
 ALLEGATO
 

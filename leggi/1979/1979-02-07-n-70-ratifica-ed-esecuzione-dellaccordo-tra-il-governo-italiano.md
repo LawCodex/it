@@ -25,15 +25,15 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare l'accordo tra il Governo italiano ed il Governo di Malta per lo sviluppo dei servizi di telecomunicazioni tra i due Paesi, con allegati, firmato a La Valletta il 24 maggio 1974.
 
-### Art. 2
+## Art. 2
 
 Piena ed intera esecuzione e' data all'accordo di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 25 dell'accordo stesso.
 
-### Art. 3
+## Art. 3
 
 All'onere di L. 162.000.000, derivante dall'attuazione del programma di cui all'articolo 2 dell'accordo indicato nel precedente articolo 1, si provvede a carico del capitolo 502 dello stato di previsione della spesa dell'Amministrazione delle poste e delle telecomunicazioni per l'anno finanziario 1978; all'onere L. 440.000.000, derivante dall'attuazione del programma di cui all'articolo 10 dell'accordo stesso, si provvede a carico del capitolo 531 dello stato di previsione della spesa dell'Azienda di Stato per i servizi telefonici per l'anno finanziario 1978.
 
@@ -75,7 +75,7 @@ che e' altresi' necessario definire e regolarizzare i rapporti tariffari nel cam
 
 le Parti, in considerazione di quanto sopra detto, convengono quanto segue:
 
-### Articolo 1
+## Articolo 1
 
 La fornitura e l'installazione in territorio maltese delle apparecchiature necessarie alla realizzazione dei 12 circuiti telefonici per servizio semi-automatico a mezzo del cavo coassiale sottomarino, di cui in premessa, restano a carico dell'Amministrazione italiana.
 
@@ -85,11 +85,11 @@ L'Allegato 1 riporta l'elenco delle apparecchiature predette e delle relative pr
 
 ## Programma telex e telegrafico
 
-### Articolo 2
+## Articolo 2
 
 L'Amministrazione P.T. italiana cedera' gratuitamente alla Amministrazione maltese il materiale elencato nell'Allegato 2, occorrente per la realizzazione e l'esercizio di un centralino telegrafico di commutazione manuale composto di due tavoli d'operatore aventi ciascuno la potenzialita' di 30 linee d'utente e 10 linee internazionali, d'importo complessivo valutato in lire 162 milioni, comprese le spese di spedizione e di installazione.
 
-### Articolo 3
+## Articolo 3
 
 La messa in opera ed attivazione dei terminali di utente (telescriventi, teleinseritori, perforatori, trasmettitori automatici) sara' effettuata a cura e spese dell'Amministrazione maltese.
 
@@ -99,7 +99,7 @@ I quattro posti telex governativi ora allacciati direttamente alla centrale di R
 
 ## Nuovo collegamento in ponte-radio - Programma telefonico
 
-### Articolo 4
+## Articolo 4
 
 Saranno progettate, costruite, mantenute in efficienza ed esercite fra Malta e l'Italia le seguenti opere:
 
@@ -109,7 +109,7 @@ ii) inizialmente, 60 canali telefonici, terminati, lato maltese a Birkirkara;
 
 i canali saranno utilizzati per 15 circuiti telefonici semi-automatici uscenti da Malta verso l'Italia, 15 circuiti telefonici semi-automatici entranti a Malta dall'Italia, e per circuiti telefonici manuali e portanti telegrafici, secondo un programma da definire successivamente fra le due Amministrazioni.
 
-### Articolo 5
+## Articolo 5
 
 Lato italiano:
 
@@ -119,11 +119,11 @@ Lato maltese:
 
 la realizzazione del collegamento in ponte radio prevede la fornitura e l'installazione a Naxxar delle apparecchiature, delle antenne e del traliccio necessari, in locale esistente gia' dotato di alimentazione.
 
-### Articolo 6
+## Articolo 6
 
 Il raccordo fra la stazione terminale del ponte radio di Naxxar e la stazione di Birkirkara verra' realizzata a mezzo di cavo a 8 coppie coassiali di Km. 5,7 circa il cavo che sara' utilizzato anche per le esigenze della rete locale maltese, sara' posato in tubazioni fornite dal Governo maltese e sara' inizialmente equipaggiato con due sistemi di linea a 4 MHz per 960 canali telefonici ciascuno, senza amplificazione intermedia Di conseguenza la parte afferente al collegamento internazionale sara' Sostituita dal 25% del cavo (2 coppie coassiali su 8) e dal 50% dei sistemi di linea (1 sistema a 96 canali su 2).
 
-### Articolo 7
+## Articolo 7
 
 Nella stazione amplificatrice di Birkirkara la terminazione dei 60 canali di tipo telefonico sara' sostituita da apparecchiature multiplex complete di:
 
@@ -137,17 +137,17 @@ dispositivi di regolazione e di inserzione delle frequenze pilota;
 
 telai ripartitori.
 
-### Articolo 8
+## Articolo 8
 
 I circuiti telefonici saranno ristradati dalla stazione di Birkirkira alla centrale di Sliema Naxxar a mezzo della rete locale.
 
 Nella stazione di Sliema saranno installati traslatori per segnalazione del sistema ad una frequenza fuori banda fonica di tipo italiano, per la realizzazione di 15 circuiti a servizio semiautomatico uscente e 15 a servizio semiautomatico entrante, apparecchiature di chiamata manuale ed i necessari apparati di interfaccia per la rete locale esistente.
 
-### Articolo 9
+## Articolo 9
 
 I circuiti telefonici a servizio semiautomatico e manuale saranno terminati nelle localita' italiane, che verranno definite successivamente in apposito programma, da concordarsi fra le parti contraenti. Saranno mantenuti in servizio i 12 circuiti a servizio semiautomatico gia' attivi. Circuiti diretti per ogni tipo di traffico potranno altresi' essere realizzati con Paesi terzi.
 
-### Articolo 10
+## Articolo 10
 
 L'Amministrazione italiana realizzera' a propria cura e spese la parte del collegamento in ponte radio interessante il territorio italiano.
 
@@ -157,27 +157,27 @@ Il finanziamento di tali opere sara' a carico dell'Amministrazione italiana.
 
 Gli eventuali oneri fiscali e diritti di dogana saranno a carico delle parti, ciascuna per le opere realizzate nel proprio territorio, in base alle leggi ed ai regolamenti in vigore nei due Paesi.
 
-### Articolo 11
+## Articolo 11
 
 Le due Amministrazioni resteranno proprietarie ciascuna delle apparecchiature e delle installazioni messe in opera nel proprio paese ed assumeranno a proprio carico le relative spese di esercizio e manutenzione ordinaria e straordinaria.
 
 Per i criteri di manutenzione delle opere realizzate, le parti concordano di riferirsi alle raccomandazioni del CCITT e del CCIR.
 
-### Articolo 12
+## Articolo 12
 
 L'Amministrazione italiana, bandira' apposite gare tra Ditte italiane qualificate sulla base di capitolati tecnici concordati tra le due Amministrazioni, per la realizzazione delle opere previste in territorio maltese e relative alla fornitura e messa in opera della stazione terminale in ponte radio a Naxxar, del cavo coassiale tra Naxxar e Birkirkara, delle apparecchiature multiplex a Birkirkara, e delle apparecchiature di segnalazione automatica, di chiamata manuale e di interfaccia a Sliema.
 
 Un apposito comitato tecnico congiunto, formato da rappresentanti delle due Amministrazioni, presiedera' all'aggiudicazione delle gare ed all'esecuzione dei lavori, compresi quelli in fabbrica.
 
-### Articolo 13
+## Articolo 13
 
 Rappresentanti delle due Amministrazioni effettueranno il collaudo delle forniture e dei lavori.
 
-### Articolo 14
+## Articolo 14
 
 Le due Amministrazioni faranno del loro meglio affinche' gli impianti che formano oggetto del presente Accordo possano essere attivati entro 20 mesi dall'entrata in vigore dall'Accordo stesso.
 
-### Articolo 15
+## Articolo 15
 
 I circuiti telefonici per il servizio semiautomatico previsti nel presente Accordo consentiranno di realizzare la teleselezione da operatore fra i due Paesi.
 
@@ -185,7 +185,7 @@ Successivamente, quando le caratteristiche della rete locale di Malta lo consent
 
 Potranno altresi' essere attivati, compatibilmente con gli accordi da prendere con i Paesi terzi interessati, servizi di teleselezione da operatrice o da utente in campo sia europeo che intercontinentale, tramite il centro di transito internazionale CT2 di Roma, per cui Malta viene designata come CT3 collegato.
 
-### Articolo 16
+## Articolo 16
 
 L'Amministrazione maltese si impegna ad utilizzare il ponte radio previsto nel presente Accordo come via principale per il traffico internazionale da e per Malta fino al 1 gennaio 1979. I circuiti internazionali esistenti da e per Malta sono esclusi dal presente Accordo.
 
@@ -193,25 +193,25 @@ L'Amministrazione italiana si impegna a sua volta a fornire in tempo utile i mez
 
 Il pagamento di detti circuiti sara' regolato secondo le Raccomandazioni CEPT o CCITT.
 
-### Articolo 17
+## Articolo 17
 
 Il collegamento radioelettrico gia' realizzato in via di urgenza, di cui all'articolo 1 del presente Accordo, restera' in servizio.
 
 ## Questioni tariffarie
 
-### Articolo 18
+## Articolo 18
 
 Fino al 31 marzo 1973 l'Amministrazione italiana assume a proprio totale carico le quote parti di tassa, ad essa ed alle altre Amministrazioni estere dovute dall'Amministrazione maltese, per i telegrammi depositati via telex all'Ufficio telegrafico di Roma per l'inoltro a destinazione.
 
 L'Amministrazione maltese rinuncia, fino alla stessa data, alle quote ed essa spettanti per il traffico telegrafico trasmesso a Malta via telex dall'Ufficio telegrafico di Roma.
 
-### Articolo 19
+## Articolo 19
 
 Con effetto del 1 aprile 1973 e fino a quando la tassa terminale di Malta sara' portata al livello adottato da altri Paesi, le disposizioni specificate nel precedente articolo 18 per il servizio telegrafico rimarranno in vigore. Appena la tassa terminale sara' aumentata, verranno applicate le normali tasse di transito e terminali.
 
 Le modifiche necessarie verranno introdotte di comune accordo tra le Amministrazioni maltese ed italiana.
 
-### Articolo 20
+## Articolo 20
 
 Fino al 31 marzo 1973 i quattro posti telex allacciati alla centrale telex italiana di Roma vengono considerati a tutti gli effetti quali utenti lontani di detta centrale. L'Amministrazione italiana tuttavia esonera l'Amministrazione maltese dal pagamento di canoni dovuti per i circuiti di raccordo tra Malta e la centrale telex di Roma, valutati in lire 18.288.720 nonche' dagli altri oneri normalmente applicati agli utenti italiani.
 
@@ -221,7 +221,7 @@ Le tariffe nazionali ed internazionali da applicare alle suddette comunicazioni 
 
 L'Amministrazione italiana provvedera' ad inviare a quella maltese le fatture mensili relative al traffico svolto, il cui pagamento sara' da quest'ultima effettuato trimestralmente entro il mese successivo a quello dell'ultimo invio.
 
-### Articolo 21
+## Articolo 21
 
 A partire dal 1 aprile 1973 viene garantito all'Amministrazione maltese, Centro telecomunicazioni internazionali, lo status di Paese terminale per tutto il traffico telex compreso quello scambiato direttamente fra le due Amministrazioni.
 
@@ -233,21 +233,21 @@ La procedura, che regola la liquidazione dei conti relativi al traffico telex co
 
 I conti relativi al restante traffico telex in transito per l'Italia verranno scambiati con l'Amministrazione italiana, la quale, dal canto suo, provvedera' all'approntamento delle note di credito e di debito con le singole Amministrazioni corrispondenti sulla base delle tasse, stabilite di volta in volta, tra Malta e le Amministrazioni interessate".
 
-### Articolo 22
+## Articolo 22
 
 In ogni caso le condizioni tariffarie praticate dall'Amministrazione italiana a quella maltese non saranno meno favorevoli di quelle attualmente praticate alla "Cable &amp; Wireless" di
 
 Malta.
 
-### Articolo 23
+## Articolo 23
 
 Dopo la firma del presente Accordo gli esperti tariffari dei due Paesi si incontreranno per redigere di comune accordo, in base ai principi sopra enunciati, le tabelle relative alla ripartizione delle tasse, per le contabilita' internazionali relative.
 
-### Articolo 24
+## Articolo 24
 
 A richiesta dell'Amministrazione maltese l'Amministrazione italiana inviera' a Malta, a propria cura e spese, propri esperti per addestrare gli operatori maltesi nell'uso degli equipaggiamenti contemplati dal presente Accordo e nel predisporre il Centro P. T. di Malta a funzionare come terminale, compreso l'istradamento del traffico.
 
-### Articolo 25
+## Articolo 25
 
 Il presente Accordo entrera' in vigore alla data della firma.
 
@@ -261,7 +261,7 @@ Visto, il Ministro degli affari esteri
 
 FORLANI
 
-### Allegato 1
+## Allegato 1
 
 ALLEGATO 1
 
@@ -275,7 +275,7 @@ B) Fornitura e messa in opera a Valletta delle seguenti apparecchiature per un c
 
 Parte di provvedimento in formato grafico
 
-### Allegato 2
+## Allegato 2
 
 ALLEGATO 2
 
@@ -285,7 +285,7 @@ Equipaggiamenti occorrenti per la realizzazione e l'utilizzazione di un centrali
 
 Totale circa . . . . L. 162.000.000
 
-### Allegato 3
+## Allegato 3
 
 ALLEGATO 3
 

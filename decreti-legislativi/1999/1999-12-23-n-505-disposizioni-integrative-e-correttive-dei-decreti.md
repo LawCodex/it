@@ -56,11 +56,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## TITOLO I - Modifiche al decreto legislativo 21 novembre 1997, n. 461,
+## TITOLO I - Modifiche al decreto legislativo 21 novembre 1997, n. 461, recante il riordino della disciplina tributaria dei redditi di capitale e dei redditi diversi
 
-### recante il riordino della disciplina tributaria dei redditi - di capitale e dei redditi diversi
-
-##### Art. 1
+### Art. 1
 
 1\. Nell'articolo 16-bis, comma 1, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, dopo le parole: "la ritenuta a titolo d'imposta", sono inserite le seguenti: "o l'imposta sostitutiva di cui all'articolo 2, commi 1-bis e 1-ter, del decreto legislativo 1o aprile 1996, n. 239,".
 
@@ -72,7 +70,7 @@ il seguente decreto legislativo:
 
 > Parte di provvedimento in formato grafico
 
-##### Art. 2
+### Art. 2
 
 1\. Nel decreto del Presidente della Repubblica 29 settembre 1973, n. 600, sono apportate le seguenti modificazioni:
 
@@ -90,7 +88,7 @@ b) all'articolo 27, comma 5, il primo periodo e' sostituito dai seguenti: "La ri
 
 > Parte di provvedimento in formato grafico
 
-##### Art. 3
+### Art. 3
 
 1\. All'articolo 4, comma 1, secondo periodo, del decreto-legge 28 giugno 1990, n. 167, convertito, con modificazioni, dalla legge 4 agosto 1990, n. 227, dopo le parole: "non residenti" sono aggiunte le seguenti: ", soggetti all'imposta sostitutiva di cui all'articolo 2, commi 1-bis e 1-ter, del decreto legislativo 1o aprile 1996, n. 239,".
 
@@ -98,7 +96,7 @@ b) all'articolo 27, comma 5, il primo periodo e' sostituito dai seguenti: "La ri
 
 > Parte di provvedimento in formato grafico
 
-##### Art. 4
+### Art. 4
 
 1\. All'articolo 9 della legge 23 marzo 1983, n. 77, come sostituito dall'articolo 8, comma 1, del decreto legislativo 21 novembre 1997, n. 461, dopo il comma 2-bis, e' inserito il seguente:
 
@@ -118,7 +116,7 @@ Ai fini del computo del periodo temporale entro cui il risultato negativo e' com
 
 > Parte di provvedimento in formato grafico
 
-##### Art. 5
+### Art. 5
 
 1\. Al decreto legislativo 21 novembre 1997, n. 461, sono apportate le seguenti modificazioni:
 
@@ -134,7 +132,7 @@ c) all'articolo 7, comma 12, dopo il primo periodo, e' inserito il seguente: "I 
 
 > Parte di provvedimento in formato grafico
 
-##### Art. 6
+### Art. 6
 
 1\. Al decreto legislativo 1o aprile 1996, n. 239, sono apportate le seguenti modificazioni:
 
@@ -168,7 +166,7 @@ f) all'articolo 12, dopo il comma 2, e' inserito il seguente:
 
 > Parte di provvedimento in formato grafico
 
-##### Art. 7
+### Art. 7
 
 Coordinamento con le disposizioni relative ai versamenti
 
@@ -192,11 +190,11 @@ Coordinamento con le disposizioni relative ai versamenti
 
 > Parte di provvedimento in formato grafico
 
-##### Art. 8
+### Art. 8
 
 ((ARTICOLO ABROGATO DAL D.L. 29 DICEMBRE 2010, N. 225, CONVERTITO CON MODIFICAZIONI DALLA L. 26 FEBBRAIO 2011, N. 10))
 
-##### Art. 9
+### Art. 9
 
 Partecipazione ad organismi di investimento collettivo mobiliare di diritto estero
 
@@ -208,7 +206,7 @@ Partecipazione ad organismi di investimento collettivo mobiliare di diritto este
 
 > Parte di provvedimento in formato grafico
 
-##### Art. 10
+### Art. 10
 
 1\. All'articolo 82, comma 5, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, dopo le parole: "il valore di acquisto" sono aggiunte le seguenti: "assoggettato a tassazione".
 
@@ -218,13 +216,9 @@ Partecipazione ad organismi di investimento collettivo mobiliare di diritto este
 
 > Parte di provvedimento in formato grafico
 
-## TITOLO II - Modifiche al decreto legislativo 18 dicembre 1997, n. 467,
+## TITOLO II - Modifiche al decreto legislativo 18 dicembre 1997, n. 467, concernente le disposizioni in materia di imposta sostitutiva della maggiorazione di conguaglio e di credito d'imposta sugli utili societari.
 
-### concernente le disposizioni in materia di imposta sostitutiva - della maggiorazione di conguaglio e di credito d'imposta sugli
-
-#### utili societari.
-
-##### Art. 11
+### Art. 11
 
 1\. Al testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, sono apportate le seguenti modificazioni:
 
@@ -238,11 +232,9 @@ b) nell'articolo 94, comma 1-bis secondo periodo, le parole "al lordo" sono sost
 
 > Parte di provvedimento in formato grafico
 
-## TITOLO III - Modifiche al decreto legislativo 18 dicembre 1997, n. 466,
+## TITOLO III - Modifiche al decreto legislativo 18 dicembre 1997, n. 466, concernente il riordino delle imposte personali sul reddito al fine di favorire la capitalizzazione delle imprese
 
-### concernente il riordino delle imposte personali sul reddito - al fine di favorire la capitalizzazione delle imprese
-
-##### Art. 12
+### Art. 12
 
 1\. Al decreto legislativo 18 dicembre 1997, n. 466, nell'articolo 6, sono apportate le seguenti modificazioni:
 
@@ -258,13 +250,9 @@ AGGIORNAMENTO (3)
 
 La L. 18 ottobre 2001, n. 383 ha disposto (con l'art. 5, comma 1) che le agevolazioni fiscali di cui al presente articolo sono soppresse.
 
-## TITOLO IV - Modifiche al decreto legislativo 2 settembre 1997, n. 314,
+## TITOLO IV - Modifiche al decreto legislativo 2 settembre 1997, n. 314, concernente armonizzazione, razionalizzazione e semplificazione delle disposizioni fiscali e previdenziali concernenti i redditi di lavoro dipendente e dei relativi adempimenti da parte dei datori di lavoro.
 
-### concernente armonizzazione, razionalizzazione e semplificazione - delle disposizioni fiscali e previdenziali concernenti i redditi
-
-#### di lavoro dipendente e dei relativi adempimenti da parte dei - datori di lavoro.
-
-##### Art. 13
+### Art. 13
 
 1\. Al testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, sono apportate le seguenti modificazioni:
 
@@ -296,7 +284,7 @@ c) nell'articolo 48-bis, comma 1, dopo la lettera d), e' inserita la seguente: "
 
 > Parte di provvedimento in formato grafico
 
-##### Art. 14
+### Art. 14
 
 1\. Nel decreto del Presidente della Repubblica 29 settembre 1973, n. 600 sono apportate le seguenti modificazioni:
 
@@ -318,11 +306,11 @@ b) all'articolo 24:
 
 > Parte di provvedimento in formato grafico
 
-##### Art. 15
+### Art. 15
 
 (( ARTICOLO ABROGATO DALLA L. 21 NOVEMBRE 2000, N. 342))
 
-##### Art. 16
+### Art. 16
 
 1\. Per gli adempimenti previsti dai decreti legislativi emanati in attuazione dell'articolo 3 della legge 23 dicembre 1996, n. 662, resta ferma la disposizione di cui all'articolo 3, comma 136, della medesima legge 23 dicembre 1996, n. 662.
 

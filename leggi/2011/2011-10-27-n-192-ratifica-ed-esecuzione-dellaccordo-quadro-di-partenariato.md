@@ -27,19 +27,19 @@ Promulga
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo quadro di partenariato globale e cooperazione tra la Comunita' europea e i suoi Stati membri, da una parte, e la Repubblica di Indonesia dall'altra, con Atto finale, fatto a Giacarta il 9 novembre 2009.
 
-#### Art. 2
+### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 48 dell'Accordo stesso.
 
-#### Art. 3
+### Art. 3
 
 Entrata in vigore
 
@@ -167,7 +167,7 @@ IN CONFORMITA' delle rispettive leggi e normative,
 
 HANNO CONVENUTO QUANTO SEGUE:
 
-#### ARTICOLO 1
+### ARTICOLO 1
 
 Principi generali
 
@@ -183,7 +183,7 @@ Principi generali
 
 6\. Il presente accordo di partenariato e di cooperazione sara' applicato secondo principi di parita' e di reciproco vantaggio.
 
-#### ARTICOLO 2
+### ARTICOLO 2
 
 Finalita' della cooperazione
 
@@ -211,7 +211,7 @@ j) migliorare l'immagine di ciascuna Parte nelle regioni dell'altra;
 
 k) promuovere la comprensione fra i popoli con l'aiuto di enti non governativi di vario tipo, come i think-tank, le universita', la societa' civile e i media, attraverso seminari, conferenze, interazione fra i giovani e altre attivita'.
 
-#### ARTICOLO 3
+### ARTICOLO 3
 
 Lotta contro la proliferazione delle armi di distruzione di massa
 
@@ -227,7 +227,7 @@ Lotta contro la proliferazione delle armi di distruzione di massa
 
 6\. Le Parti decidono di avviare un dialogo politico regolare che accompagni e consolidi gli elementi suddetti. Il dialogo puo' svolgersi a livello regionale.
 
-#### ARTICOLO 4
+### ARTICOLO 4
 
 Cooperazione in campo giuridico
 
@@ -239,7 +239,7 @@ Cooperazione in campo giuridico
 
 4\. Le Parti convengono che un dialogo tra di esse in questo campo sarebbe proficuo.
 
-#### ARTICOLO 5
+### ARTICOLO 5
 
 Cooperazione nella lotta al terrorismo
 
@@ -255,27 +255,23 @@ Cooperazione nella lotta al terrorismo
 
 \- la cooperazione per promuovere i controlli e la gestione delle frontiere, rafforzando le capacita' mediante la creazione di reti, programmi di formazione e d'istruzione, scambi di visite di alti funzionari, accademici, analisti e operatori del settore e l'organizzazione di seminari e conferenze.
 
-## TITOLO II - COOPERAZIONE NELL'AMBITO DELLE ORGANIZZAZIONI
+## TITOLO II - COOPERAZIONE NELL'AMBITO DELLE ORGANIZZAZIONI REGIONALI E INTERNAZIONALI
 
-### REGIONALI E INTERNAZIONALI
-
-#### ARTICOLO 6
+### ARTICOLO 6
 
 Le Parti si impegnano a scambiare opinioni e a collaborare nelle sedi e organizzazioni regionali e internazionali come le Nazioni Unite, il dialogo ASEAN-UE, il forum regionale dell'ASEAN (ARF), il vertice Asia-Europa (ASEM), la conferenza delle Nazioni Unite per il commercio e lo sviluppo (UNCTAD) e l'Organizzazione mondiale del commercio (OMC).
 
 ## TITOLO III - COOPERAZIONE BILATERALE E REGIONALE
 
-#### ARTICOLO 7
+### ARTICOLO 7
 
 1\. Per ciascun settore oggetto di dialogo e di cooperazione nell'ambito del presente accordo, e riservando la debita attenzione alle questioni che rientrano nella cooperazione bilaterale, le Parti concordano di svolgere le attivita' pertinenti a livello bilaterale e/o regionale. Nella scelta del contesto appropriato, le Parti cercheranno di ottimizzare l'impatto e di promuovere la partecipazione di tutti gli interessati sfruttando al meglio le risorse disponibili, tenendo conto della fattibilita' politica e istituzionale e garantendo, se del caso, la coerenza con le altre attivita' in cui sono coinvolti la Comunita' e i partner dell'ASEAN.
 
 2\. La Comunita' e l'Indonesia possono decidere, all'occorrenza, di estendere il sostegno finanziario alle attivita' di cooperazione nei settori contemplati dall'accordo o ad esso collegati, compatibilmente con le rispettive procedure e risorse finanziarie. La cooperazione puo' comprendere, in particolare, l'organizzazione di cicli di formazione, laboratori e seminari, scambi di esperti, studi e altre azioni concordate tra le Parti.
 
-## TITOLO IV - COOPERAZIONE IN MATERIA
+## TITOLO IV - COOPERAZIONE IN MATERIA DI COMMERCIO E INVESTIMENTI
 
-### DI COMMERCIO E INVESTIMENTI
-
-#### ARTICOLO 8
+### ARTICOLO 8
 
 Principi generali
 
@@ -289,49 +285,49 @@ Principi generali
 
 5\. Le Parti promuovono il dialogo e la cooperazione per sviluppare gli scambi e gli investimenti tra di esse, compreso lo sviluppo delle capacita' tecniche necessarie per risolvere i problemi, nei settori di cui agli articoli da 9 a 16.
 
-#### ARTICOLO 9
+### ARTICOLO 9
 
 Questioni sanitarie e fitosanitarie (SPS)
 
 Le Parti avviano discussioni e scambi di informazioni sulle procedure legislative, certificative e ispettive, segnatamente nel quadro dell'accordo OMC sulle questioni sanitarie e fitosanitarie (SPS), della Convenzione internazionale per la protezione dei vegetali (CIPV), dell'Ufficio internazionale delle epizoozie (UIE) e della commissione del CODEX Alimentarius (CAC).
 
-#### ARTICOLO 10
+### ARTICOLO 10
 
 Ostacoli tecnici al commercio (TBT)
 
 Le Parti promuovono l'uso delle norme internazionali, collaborano e si scambiano informazioni sulle norme, sulle procedure di valutazione della conformita' e sui regolamenti tecnici, segnatamente nel quadro dell'accordo OMC sugli ostacoli tecnici agli scambi (TBT).
 
-#### ARTICOLO 11
+### ARTICOLO 11
 
 Tutela dei diritti di proprieta' intellettuale
 
 Le Parti collaborano per migliorare e applicare la tutela e l'uso dei diritti di proprieta' intellettuale in base alle migliori prassi, nonche' per diffondere la conoscenza in materia. Possono rientrare nella cooperazione scambi di informazione e di esperienze in materia di prassi, promozione, diffusione, razionalizzazione, gestione, armonizzazione, tutela e applicazione efficace dei diritti di proprieta' intellettuale, prevenzione degli abusi in questo campo e lotta contro la contraffazione e la pirateria.
 
-#### ARTICOLO 12
+### ARTICOLO 12
 
 Facilitazione degli scambi
 
 Le Parti condividono le esperienze e vagliano la possibilita' di semplificare le procedure di importazione/esportazione e le altre procedure doganali, di migliorare la trasparenza dei regolamenti commerciali, di sviluppare la cooperazione doganale, compresi i meccanismi di assistenza amministrativa reciproca, nonche' di promuovere la convergenza di opinioni e le azioni comuni nell'ambito delle iniziative internazionali. Le Parti si adoperano con particolare impegno per migliorare la sicurezza del commercio internazionale, compresi i servizi di trasporto, e per conciliare l'agevolazione degli scambi con la lotta contro le frodi e le irregolarita'.
 
-#### ARTICOLO 13
+### ARTICOLO 13
 
 Cooperazione doganale
 
 Fatte salve le altre forme di cooperazione previste dal presente accordo, le Parti esprimono interesse per la possibilita' di concludere, in futuro, un protocollo sulla cooperazione doganale, compresa l'assistenza reciproca, nel quadro istituzionale del presente accordo.
 
-#### ARTICOLO 14
+### ARTICOLO 14
 
 Investimenti
 
 Le Parti incentivano i flussi di investimenti rendendo piu' stabile e piu' attraente il contesto per gli investimenti reciproci attraverso un dialogo regolare volto a rafforzare la comprensione e la cooperazione in materia di investimenti, a ricercare meccanismi amministrativi per agevolare i flussi di investimenti e a promuovere un regime d'investimento stabile, trasparente, accessibile e non discriminatorio.
 
-#### ARTICOLO 15
+### ARTICOLO 15
 
 Politica della concorrenza
 
 Le Parti promuovono l'elaborazione e l'applicazione effettiva di regole sulla concorrenza e la divulgazione delle informazioni onde migliorare la trasparenza e la certezza del diritto per le imprese che operano sui mercati dell'altra Parte.
 
-#### ARTICOLO 16
+### ARTICOLO 16
 
 Servizi
 
@@ -339,7 +335,7 @@ Le Parti avviano un dialogo regolare finalizzato, tra l'altro, agli scambi di in
 
 ## TITOLO V - COOPERAZIONE IN ALTRI SETTORI
 
-#### ARTICOLO 17
+### ARTICOLO 17
 
 Turismo
 
@@ -347,13 +343,13 @@ Turismo
 
 2\. Le Parti possono intensificare la cooperazione per tutelare e ottimizzare il potenziale del patrimonio naturale e culturale, attenuando l'impatto negativo del turismo, aumentando il contributo positivo dell'attivita' turistica allo sviluppo sostenibile delle comunita' locali e cercando, in particolare, di promuovere l'ecoturismo, di rispettare l'integrita' e gli interessi delle comunita' locali e di migliorare la formazione nell'industria turistica.
 
-#### ARTICOLO 18
+### ARTICOLO 18
 
 Servizi finanziari
 
 Le Parti decidono di incentivare la cooperazione nel settore dei servizi finanziari in funzione delle loro necessita' e nell'ambito dei rispettivi programmi e quadri legislativi.
 
-#### ARTICOLO 19
+### ARTICOLO 19
 
 Dialogo sulla politica economica
 
@@ -363,7 +359,7 @@ Dialogo sulla politica economica
 
 3\. Le Parti riconoscono l'importanza di migliorare la trasparenza e gli scambi di informazioni onde agevolare l'attuazione di misure volte a prevenire l'elusione o l'evasione fiscale nell'ambito dei rispettivi quadri giuridici. Le Parti concordano di migliorare la cooperazione in questo campo.
 
-#### ARTICOLO 20
+### ARTICOLO 20
 
 Cooperazione in materia di politica industriale e di PMI
 
@@ -379,7 +375,7 @@ Cooperazione in materia di politica industriale e di PMI
 
 2\. Le Parti agevolano e sostengono le attivita' pertinenti del settore privato di entrambe.
 
-#### ARTICOLO 21
+### ARTICOLO 21
 
 Societa' dell'informazione
 
@@ -397,7 +393,7 @@ e) progetti di ricerca comuni sulle tecnologie dell'informazione e della comunic
 
 f) gli aspetti delle TIC connessi alla sicurezza.
 
-#### ARTICOLO 22
+### ARTICOLO 22
 
 Scienza e Tecnologia
 
@@ -417,7 +413,7 @@ d) promuovere altre forme di cooperazione stabilite di comune accordo.
 
 4\. Nell'ambito della cooperazione, le Parti possono favorire la partecipazione dei rispettivi istituti di istruzione superiore, centri di ricerca e settori produttivi, in particolare le PMI.
 
-#### ARTICOLO 23
+### ARTICOLO 23
 
 Energia
 
@@ -431,7 +427,7 @@ c) incentivare i trasferimenti di tecnologia finalizzati alla produzione e all'u
 
 d) affrontare la questione del collegamento tra energia abbordabile e sviluppo sostenibile.
 
-#### ARTICOLO 24
+### ARTICOLO 24
 
 Trasporti
 
@@ -449,7 +445,7 @@ d) un dialogo sui servizi di trasporto marittimo per ottenere i seguenti risulta
 
 e) l'applicazione di standard in materia di sicurezza e di prevenzione dell'inquinamento, specie per quanto riguarda i trasporti marittimi e aerei, in linea con le convenzioni internazionali pertinenti.
 
-#### ARTICOLO 25
+### ARTICOLO 25
 
 Istruzione e cultura
 
@@ -461,7 +457,7 @@ Istruzione e cultura
 
 4\. Le Parti pongono l'accento sulle misure volte ad instaurare contatti tra i rispettivi organismi specializzati, a favorire gli scambi di informazioni e pubblicazioni, competenze, studenti, esperti e risorse tecniche, onde promuovere l'uso delle TIC nel settore dell'istruzione, avvalendosi sia delle infrastrutture messe a disposizione dai programmi comunitari in materia di istruzione e cultura attuati nel sud-est asiatico che dell'esperienza acquisita da entrambe in questo campo. Le Parti decidono inoltre di promuovere l'attuazione del programma Erasmus Mundus.
 
-#### ARTICOLO 26
+### ARTICOLO 26
 
 Diritti umani
 
@@ -477,7 +473,7 @@ c) il potenziamento delle istituzioni competenti in materia di diritti umani.
 
 3\. Le Parti convengono che un dialogo tra di esse in questo campo sarebbe estremamente proficuo.
 
-#### ARTICOLO 27
+### ARTICOLO 27
 
 Ambiente e risorse naturali
 
@@ -507,7 +503,7 @@ i) l'adozione di misure volte a combattere le nebbie inquinanti.
 
 4\. Le Parti favoriscono l'accesso reciproco ai loro programmi in questo settore secondo le modalita' specifiche dei programmi stessi.
 
-#### ARTICOLO 28
+### ARTICOLO 28
 
 Silvicoltura
 
@@ -525,7 +521,7 @@ c) un aiuto per rendere sostenibile il settore forestale;
 
 d) la diffusione della certificazione forestale.
 
-#### ARTICOLO 29
+### ARTICOLO 29
 
 Agricoltura e sviluppo rurale
 
@@ -543,7 +539,7 @@ e) lo sviluppo del mercato e la promozione delle relazioni commerciali internazi
 
 f) lo sviluppo dell'agricoltura sostenibile.
 
-#### ARTICOLO 30
+### ARTICOLO 30
 
 Ambiente marino e pesca
 
@@ -557,7 +553,7 @@ c) la promozione della lotta alle attivita' di pesca illegali, non segnalate e n
 
 d) lo sviluppo del mercato e il potenziamento delle capacita'.
 
-#### ARTICOLO 31
+### ARTICOLO 31
 
 Salute
 
@@ -573,13 +569,13 @@ c) sviluppo delle capacita' tramite l'assistenza tecnica e promozione dei progra
 
 d) programmi volti a potenziare i servizi sanitari e a sostenere le attivita' connesse, tra cui la riduzione dei tassi di mortalita' infantile e materna.
 
-#### ARTICOLO 32
+### ARTICOLO 32
 
 Statistiche
 
 Le Parti convengono di promuovere, in linea con le attivita' di cooperazione statistica in corso tra la Comunita' e l'ASEAN, l'armonizzazione dei metodi e delle prassi statistiche, comprese la raccolta e la diffusione, per poter utilizzare in modo reciprocamente accettabile i dati statistici relativi agli scambi di beni e di servizi nonche', in generale, a tutti i settori contemplati dal presente accordo che possono prestarsi a un trattamento statistico, come la raccolta, l'analisi e la diffusione.
 
-#### ARTICOLO 33
+### ARTICOLO 33
 
 Protezione dei dati personali
 
@@ -587,7 +583,7 @@ Protezione dei dati personali
 
 2\. Nella cooperazione per la protezione dei dati personali puo' rientrare, fra l'altro, un'assistenza tecnica sotto forma di scambi di informazioni e di consulenze nel rispetto delle leggi e regolamentazioni delle Parti.
 
-#### ARTICOLO 34
+### ARTICOLO 34
 
 Migrazione
 
@@ -619,7 +615,7 @@ b) fornire ai cittadini riammessi documenti d'identita' adatti a tale scopo.
 
 4\. Le Parti convengono di negoziare, su richiesta, la conclusione di un accordo che disciplini i loro obblighi specifici in materia di riammissione, compreso l'obbligo di riammettere i loro cittadini e i cittadini di altri paesi. Si affronterebbe in tal modo anche il problema degli apolidi.
 
-#### ARTICOLO 35
+### ARTICOLO 35
 
 Lotta alla criminalita' organizzata e alla corruzione
 
@@ -627,7 +623,7 @@ Le Parti convengono di collaborare e di contribuire alla lotta contro la crimina
 
 Questa disposizione e' un elemento fondamentale del presente accordo.
 
-#### ARTICOLO 36
+### ARTICOLO 36
 
 Cooperazione per la lotta contro le droghe illecite
 
@@ -639,7 +635,7 @@ Cooperazione per la lotta contro le droghe illecite
 
 4\. Le Parti possono collaborare per promuovere politiche di sviluppo alternative volte a ridurre per quanto possibile la coltivazione illecita di droga, segnatamente la cannabis.
 
-#### ARTICOLO 37
+### ARTICOLO 37
 
 Cooperazione per la lotta al riciclaggio del denaro
 
@@ -649,7 +645,7 @@ Cooperazione per la lotta al riciclaggio del denaro
 
 3\. La cooperazione consentira' scambi di informazioni pertinenti nell'ambito delle rispettive legislazioni e l'adozione di norme appropriate per lottare contro il riciclaggio del denaro e il finanziamento del terrorismo equivalenti a quelle prese dalla Comunita' e dagli organi internazionali attivi nel settore, come la task force Azione finanziaria sul riciclaggio del denaro (FATF).
 
-#### ARTICOLO 38
+### ARTICOLO 38
 
 Societa' civile
 
@@ -665,7 +661,7 @@ c) gestire in modo trasparente tutte le risorse finanziarie che le vengono forni
 
 d) partecipare all'attuazione dei programmi di cooperazione, compreso lo sviluppo delle capacita', nei settori che la riguardano.
 
-#### ARTICOLO 39
+### ARTICOLO 39
 
 Cooperazione per la modernizzazione dell'amministrazione statale e pubblica
 
@@ -685,7 +681,7 @@ f) potenziando i sistemi giudiziari,
 
 g) migliorando i meccanismi e gli organi di applicazione della legge.
 
-#### ARTICOLO 40
+### ARTICOLO 40
 
 Mezzi di cooperazione
 
@@ -695,7 +691,7 @@ Mezzi di cooperazione
 
 ## TITOLO VI - QUADRO ISTITUZIONALE
 
-#### ARTICOLO 41
+### ARTICOLO 41
 
 Comitato misto
 
@@ -719,7 +715,7 @@ d) formulare raccomandazioni alle Parti firmatarie del presente accordo onde pro
 
 ## TITOLO VII - DISPOSIZIONI FINALI
 
-#### ARTICOLO 42
+### ARTICOLO 42
 
 Clausola sui futuri sviluppi
 
@@ -727,7 +723,7 @@ Clausola sui futuri sviluppi
 
 2\. Nell'ambito dell'attuazione del presente accordo, ciascuna delle Parti puo' formulare suggerimenti per estendere il campo della cooperazione, tenendo conto dell'esperienza acquisita nell'applicare il presente accordo.
 
-#### ARTICOLO 43
+### ARTICOLO 43
 
 Altri accordi
 
@@ -735,7 +731,7 @@ Altri accordi
 
 2\. Il presente accordo lascia impregiudicata l'esecuzione degli impegni assunti rispettivamente dalle Parti nei confronti di terzi.
 
-#### ARTICOLO 44
+### ARTICOLO 44
 
 Meccanismo di risoluzione delle controversie
 
@@ -755,25 +751,25 @@ ii) nella violazione di un elemento essenziale dell'accordo di cui agli articoli
 
 5\. Nella scelta delle misure, si privilegiano quelle che perturbano meno il funzionamento del presente accordo. Le misure decise vengono comunicate senza indugio all'altra Parte e, se quest'ultima lo richiede, sono oggetto di consultazioni nel comitato misto.
 
-#### ARTICOLO 45
+### ARTICOLO 45
 
 Strutture
 
 Per facilitare la cooperazione nell'ambito del presente accordo, le Parti convengono di concedere le agevolazioni necessarie agli esperti e funzionari debitamente autorizzati, per lo svolgimento dei loro compiti nell'ambito della cooperazione, in conformita' delle regolamentazioni e delle norme interne di entrambe le Parti.
 
-#### ARTICOLO 46
+### ARTICOLO 46
 
 Efficacia territoriale
 
 Il presente accordo si applica al territorio in cui si applica il trattato che istituisce la Comunita' europea, alle condizioni stabilite nel suddetto trattato, e al territorio dell'Indonesia.
 
-#### ARTICOLO 47
+### ARTICOLO 47
 
 Definizione delle Parti
 
 Ai fini del presente accordo, per "Parti" si intendono la Comunita', i suoi Stati membri o la Comunita' e i suoi Stati membri, in base ai rispettivi poteri, da un lato, e la Repubblica di Indonesia, dall'altro.
 
-#### ARTICOLO 48
+### ARTICOLO 48
 
 Entrata in vigore e durata
 
@@ -785,13 +781,13 @@ Entrata in vigore e durata
 
 4\. Al presente accordo puo' essere posta fine in qualsiasi momento da una delle Parti mediante preavviso scritto all'altra Parte. Il presente accordo si estingue sei mesi dopo che l'altra Parte ha ricevuto la notifica.
 
-#### ARTICOLO 49
+### ARTICOLO 49
 
 Notifica
 
 La notifica viene effettuata, rispettivamente, al segretario generale del Consiglio dell'Unione europea e al ministro degli esteri della Repubblica di Indonesia.
 
-#### ARTICOLO 50
+### ARTICOLO 50
 
 Testi facenti fede
 
@@ -801,7 +797,7 @@ Fatto in duplice copia a Giacarta il nono giorno di novembre dell'anno duemilano
 
 Parte di provvedimento in formato grafico
 
-#### Atto finale
+### Atto finale
 
 Parte di provvedimento in formato grafico
 

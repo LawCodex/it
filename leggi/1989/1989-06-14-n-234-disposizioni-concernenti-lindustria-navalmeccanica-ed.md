@@ -28,11 +28,9 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - INTERVENTI RELATIVI
+## TITOLO I - INTERVENTI RELATIVI ALL'INDUSTRIA NAVALMECCANICA ED ALL'ARMAMENTO
 
-### ALL'INDUSTRIA NAVALMECCANICA ED - ALL'ARMAMENTO
-
-##### Art. 1
+### Art. 1
 
 1\. Le disposizioni del presente titolo sono intese a favorire il completamento del processo di ristrutturazione e razionalizzazione dell'industria navalmeccanica in base alle linee programmatiche di cui all'articolo 1 della legge 22 marzo 1985, n. 111, e a dare attuazione alla direttiva del Consiglio delle Comunita' europee n. 167 del 26 gennaio 1987 concernente gli aiuti alla costruzione navale, di seguito denominata "Direttiva CEE". (( Le imprese navalmeccaniche beneficiarie degli aiuti di cui al presente titolo, a dimostrazione della conformita' della loro azione alla direttiva CEE e al principio della progressiva riduzione degli aiuti, presentano al Ministro della marina mercantile, entro il 30 settembre di ciascun anno, una relazione di verifica ed eventuale aggiornamento del piano di ristrutturazione e razionalizzazione aziendale, nonche' sulle misure attuate per accrescere efficienza, produttivita' e competitivita' dei cantieri e per migliorare il reddito operativo e il risultato di esercizio. Il Ministro della marina mercantile, entro i trenta giorni successivi, trasmette al Parlamento una relazione riassuntiva, cui sono allegate le relazioni presentate dalle imprese navalmeccaniche beneficiarie degli aiuti. ))
 
@@ -50,7 +48,7 @@ b) rimorchiatori e spintori con apparato motore di potenza non inferiore a 500 c
 
 6\. Gli aiuti di cui al presente titolo non sono cumulabili con altre provvidenze aventi analoghe finalita'.
 
-##### Art. 2
+### Art. 2
 
 1\. Per le nuove costruzioni delle navi complete e per i lavori e le unita' di cui all'articolo 1, il Ministro della marina mercantile puo' concedere alle imprese di costruzione navale nazionali, per i contratti di costruzione stipulati nel periodo dal 1 gennaio 1987 al 31 dicembre 1990, un contributo calcolato sul valore contrattuale prima dell'aiuto, comprese eventuali aggiunte o varianti di data certa anteriore a quella di ultimazione della costruzione, pari al 28 per cento per gli anni 1987 e 1988. La predetta percentuale e' ridotta al 20 per cento per le commesse relative a nuove costruzioni di valore inferiore ai 6 milioni di ECU.(1)(2)
 
@@ -100,7 +98,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 13 luglio 1995, n. 287 convertito con modificazioni dalla L. 8 agosto 1995, n. 343 ha disposto (con l'art. 2, comma 4) che " Il calcolo per l'attualizzazione del contributo di cui all'articolo 2, commi 8 e 9, della legge 14 giugno 1989, n. 234, nonche' all'articolo 5 del decreto-legge 24 dicembre 1993, n. 564, convertito dalla legge 22 febbraio 1994, n. 132, si intende riferito, ai fini dell'applicazione del metodo della capitalizzazione composta, alla data dell'incasso del saldo del contributo stesso."
 
-##### ART. 3
+### ART. 3
 
 1\. La domanda di concessione del contributo di cui all'articolo 2 deve essere presentata al Ministero della marina mercantile entro quindici giorni dalla data in cui e' stato stipulato il contratto di costruzione o, in assenza di contratto, dalla data della dichiarazione di costruzione in proprio e deve indicare:
 
@@ -112,7 +110,7 @@ c) il prezzo della costruzione;
 
 d) il committente e l'eventuale clausola di revisione prezzo o il valore dichiarato dal cantiere nei termini di cui al comma 7 dell'articolo 2.
 
-##### ART. 4
+### ART. 4
 
 1\. Le costruzioni per le quali sia stata chiesta la concessione del contributo di cui all'articolo 2 devono essere iniziate entro diciotto mesi dalla stipula del contratto o dalla data della dichiarazione di costruzione ed essere ultimate entro trenta mesi dal loro inizio.
 
@@ -134,7 +132,7 @@ d) il committente e l'eventuale clausola di revisione prezzo o il valore dichiar
 
 10\. Per le finalita' di cui al comma 7 e' autorizzata la spesa di lire 8.000 milioni per ciascuno degli anni 1989, 1990 e 1991.
 
-##### ART. 5
+### ART. 5
 
 1\. In corrispondenza del 25, del 50 e del 75 per cento dell'avanzamento globale della costruzione possono essere corrisposti tre anticipi ciascuno uguale al 25 per cento del contributo risultante dal provvedimento di concessione di cui all'articolo 2.
 
@@ -148,7 +146,7 @@ d) il committente e l'eventuale clausola di revisione prezzo o il valore dichiar
 
 6\. Le disposizioni del presente articolo si applicano anche ai lavori di trasformazione e modificazione navale.
 
-##### ART. 6
+### ART. 6
 
 1\. Alle imprese di costruzione e di riparazione navale le quali, in conformita' alle indicazioni contenute nel capo III della Direttiva CEE, effettuano nel periodo 1 gennaio 1987 - 31 dicembre 1990 investimenti atti a rendere piu' efficiente l'organizzazione produttiva, a razionalizzare l'assetto impiantistico o a migliorare le condizioni di lavoro sotto l'aspetto sanitario, di sicurezza ed ambientale, senza aumento di produzione, tenendo anche conto delle riduzioni di capacita' gia' effettuate nel periodo 1984-1986 ed in conformita' ai piani approvati dal Ministero della marina mercantile, puo' essere concesso un contributo pari al 40 per cento dell'investimento.
 
@@ -168,7 +166,7 @@ d) il committente e l'eventuale clausola di revisione prezzo o il valore dichiar
 
 9\. Per le finalita' di cui al presente articolo e' autorizzata la spesa di lire 7.000 milioni per l'anno 1989 e lire 20.000 milioni per ciascuno degli anni 1990 e 1991.
 
-##### ART. 7
+### ART. 7
 
 1\. Alle imprese di demolizione navale puo' essere concesso un contributo per gli anni 1987 e 1988 pari a L. 35.000 per tonnellata di stazza lorda compensata convenzionale demolita, diminuito a lire 30.000 per l'anno 1989; a lire 25.000 per l'anno 1990; a lire 20.000 per l'anno 1991. I contributi concessi sono riferiti a lavori
 
@@ -186,7 +184,7 @@ b) rimorchiatori e spintori con apparato motore di potenza non inferiore a 500 H
 
 5\. Per le finalita' di cui al presente articolo e' autorizzata la spesa di lire 9.000 milioni, per l'anno 1989, e di lire 3.000 milioni per ciascuno degli anni 1990 e 1991.
 
-##### ART. 8
+### ART. 8
 
 1\. Le imprese iscritte negli albi speciali delle imprese di costruzione, di riparazione, di demolizione navale di cui all'articolo 19 hanno diritto ai contributi di cui alla presente legge a decorrere dalla data, successiva al 1 gennaio 1987, in cui hanno acquisito i requisiti per l'iscrizione.
 
@@ -232,7 +230,7 @@ b) rimorchiatori e spintori con apparato motore di potenza non inferiore a 500 H
 
 > Per i cantieri minori che svolgono esclusivamente lavori di riparazione navale il numero minimo dei dipendenti diretti e' ridotto da 30 a 25; per essi non e' richiesto il possesso dei requisiti sussidiari della capacita' di sollevamento e della disponibilita' dello scalo fisso o del bacino sempre che dispongano di uno scalo di alaggio per navi di peso non inferiore a 150 tonnellate".
 
-##### ART. 9
+### ART. 9
 
 1\. Per i lavori relativi alla costruzione, trasformazione, modificazione e grande riparazione delle unita' di cui all'articolo 1 effettuati nei cantieri nazionali o dei paesi memmbri delle Comunita' europee, il Ministro della marina mercantile puo' concedere alle imprese aventi i requisiti per essere proprietarie di navi italiane ai sensi degli articoli 143 e 144 del codice della navigazione un contributo inteso a ridurre i relativi oneri finanziari.
 
@@ -248,7 +246,7 @@ AGGIORNAMENTO (3)
 
 Il Decreto 8 novembre 1990, n. 373 ha disposto (con l'art. 21, comma 1) che "I tassi di cui all'art. 9, comma 4, della legge si intendono come tassi annui effettivi."
 
-##### ART. 10
+### ART. 10
 
 1\. Il contributo di cui all'articolo 9 e' concesso con decreto del Ministro della marina mercantile ed e' corrisposto in rate semestrali costanti per la durata di otto anni e sei mesi decorrenti dal 1o marzo o dal 1 settembre successivi all'inizio dei lavori, da accertarsi sulla base di adeguata documentazione, sempre che sia stata prestata idonea fidejussione bancaria o assicurativa.
 
@@ -262,7 +260,7 @@ Il Decreto 8 novembre 1990, n. 373 ha disposto (con l'art. 21, comma 1) che "I t
 
 6\. Nel caso in cui si debba procedere ad una riduzione di impegno, il Ministro della marina mercantile provvede, contestualmente all'emanazione del provvedimento definitivo, al recupero di un'unica soluzione delle somme gia' corrisposte maggiorate degli interessi calcolati sulla base del tasso ufficiale di sconto in vigore alla data di emanazione del provvedimento aumentato di due punti.
 
-##### ART. 11
+### ART. 11
 
 1\. Nel caso in cui l'impresa beneficiaria del contributo di cui all'articolo 9 assuma impegno a mantenere o a far mantenere la nave di proprieta' italiana per quattro anni dalla fine dei lavori relativi all'unita' per la quale viene concesso il contributo, il contributo stesso e' calcolato secondo quanto indicato al comma 4 dell'articolo 9, aggiungendo due punti al tasso di riferimento risultante dal decreto del Ministro del tesoro.
 
@@ -270,7 +268,7 @@ Il Decreto 8 novembre 1990, n. 373 ha disposto (con l'art. 21, comma 1) che "I t
 
 3\. La perdita dell'unita' non da' luogo alla restituzione del contributo gia' erogato.
 
-##### ART. 12
+### ART. 12
 
 1\. Il Ministero della marina mercantile valuta la congruita' del prezzo di cui al comma 3 dell'articolo 9, tenuto conto anche delle eventuali forniture ed attrezzature fuori contratto, connesse o pertinenti alla commessa.
 
@@ -280,11 +278,9 @@ Il Decreto 8 novembre 1990, n. 373 ha disposto (con l'art. 21, comma 1) che "I t
 
 4\. Per le finalita' di cui agli articoli 9 e 11 del presente articolo, e' autorizzato per la durata di cui all'articolo 10, commi 1 e 5, un limite d'impegno di lire 9.000 milioni per ciascuno degli anni 1988, 1989, 1990 e 1991.
 
-## Titolo II - INTERVENTI PER LA RICONVERSIONE
+## Titolo II - INTERVENTI PER LA RICONVERSIONE DELL'INDUSTRIA NAVALMECCANICA
 
-### DELL'INDUSTRIA NAVALMECCANICA
-
-##### ART. 13
+### ART. 13
 
 1\. Alle imprese di costruzione, riparazione e demolizione navale che nell'arco di tempo dal 1 gennaio 1987 al 31 dicembre 1990, utilizzando almeno parzialmente maestranze e fattori produttivi, attuino progetti di riconversione industriale con riferimento ad attivita' riguardanti la pesca, la nautica da diporto, il turismo, approdi per il traffico di cabotaggio o approdi specializzati, la ricerca e lo sviluppo di nuove tecnologie, esplorazioni marine per lo sfruttamento di risorse minerarie e alimentari, analisi di fattori climatici e geologici, costruzioni di nuove strumentazioni dirette alla prevenzione e alla tutela ambientale del mare, volti a migliorare l'efficenza operativa dei traffici e/o del sistema industriale nazionale, sempreche' dalla riconversione derivi una riduzione effettiva ed irreversibile di capacita' produttiva del settore della costruzione, riparazione navale e demolizione, possono essere concessi dal Ministro della marina mercantile contributi fino al 50 per cento delle spese sostenute per:
 
@@ -304,7 +300,7 @@ e) promozione dell'innovazione nell'industria e nei servizi.
 
 4\. Le modalita' di erogazione del contributo di cui al presente articolo sono fissate con decreto del Ministero della marina mercantile da emanarsi entro sessanta giorni dalla data di entrata in vigore della presente legge.
 
-##### ART. 14
+### ART. 14
 
 1\. Alle imprese di costruzione, trasformazione, riparazione e demolizione navale in effettivo esercizio dal 31 dicembre 1970 che attuino nell'arco di tempo dal 1 gennaio 1987 al 31 dicembre 1990 progetti irreversibili di riconversione industriale verso settori diversi da quello della cantieristica navale o che effettuino chiusure totali o parziali, riducendo la capacita' produttiva del settore delle costruzioni, trasformazioni, riparazioni e demolizioni navali, puo' essere concesso dal Ministro della marina mercantile un contributo corrispondente a:
 
@@ -318,13 +314,9 @@ b) per le chiusure totali: ammontare del trattamento di fine rapporto corrispost
 
 4\. I piani relativi dovranno essere comunicati al Ministero della marina mercantile per la loro approvazione, previo parere del Comitato di cui all'articolo 23.
 
-## Titolo III - PROVVEDIMENTI IN MATERIA DI
+## Titolo III - PROVVEDIMENTI IN MATERIA DI RICERCA APPLICATA NEL SETTORE DELLA COSTRUZIONE E DELLA PROPULSIONE NAVALE
 
-### RICERCA APPLICATA NEL SETTORE - DELLA COSTRUZIONE E DELLA
-
-#### PROPULSIONE NAVALE
-
-##### ART. 15
+### ART. 15
 
 1\. L'articolo 4 della legge 1 aprile 1985, n. 122, e' sostituito dal seguente:
 
@@ -376,13 +368,13 @@ b) per le chiusure totali: ammontare del trattamento di fine rapporto corrispost
 
 > Le designazioni devono essere effettuate entro trenta giorni dalla data della richiesta. Trascorso tale termine si provvede alla nomina del comitato che potra' essere successivamente integrato con le designazioni pervenute dopo il predetto termine".
 
-##### ART. 16
+### ART. 16
 
 1\. Nell'anno finanziario 1988 il Ministro della marina mercantile e' autorizzato a concedere all'Istituto nazionale per studi ed esperienze di architettura navale - Vasca navale - di Roma un contributo di lire 20.200 milioni per il finanziamento del programma relativo al triennio 1988-1990 per l'espletamento dei propri compiti istituzionali anche in settori di interesse marittimo e portuale, nonche' per un programma di manutenzione straordinaria degli impianti e delle infrastrutture esistenti.
 
 2\. Le spese di cui al comma 1 comprendono anche quelle per lo sviluppo dei rapporti di collaborazione scientifica e la diffusione delle conoscenze e dei risultati ottenuti.
 
-##### ART. 17
+### ART. 17
 
 1\. I programmi triennali concernenti le attivita' della societa' "Centro per gli studi di tecnica navale", sono presentati al Ministro della marina mercantile, al Ministro del bilancio e della programmazione economica ed al Ministro per il coordinamento delle iniziative per la ricerca scientifica e tecnologica entro il 31 marzo del primo anno del triennio cui si riferiscono.
 
@@ -416,7 +408,7 @@ dell'articolo 1 della legge 1 aprile 1985, n. 122.
 
 > Per l'attuazione dei propri compiti, la societa' ha facolta' di stipulare contratti con aziende operanti nel settore della costruzione e della propulsione navale nonche' con universita' ed enti pubblici che operano nel settore della ricerca".
 
-##### ART. 18
+### ART. 18
 
 1\. Ai fini del sostegno alla ricerca applicata ed allo sviluppo, il Ministro della marina mercantile per il coordinamento delle iniziative per la ricerca scientifica e tecnologica, puo' concedere ai cantieri navali nazionali contributi fino al 50 per cento per la realizzazione di prototipi di navi e singoli componenti per scafo, macchina, impianto elettrico, allestimento e arredamento di navi di nuova costruzione.
 
@@ -424,11 +416,9 @@ dell'articolo 1 della legge 1 aprile 1985, n. 122.
 
 3\. Per la finalita' di cui al presente articolo e' autorizzata per l'anno 1988 la spesa complessiva di lire 12.000 milioni.
 
-## Titolo IV - ALBI SPECIALI
+## Titolo IV - ALBI SPECIALI DELLE IMPRESE NAVALMECCANICHE
 
-### DELLE IMPRESE NAVALMECCANICHE
-
-##### ART. 19
+### ART. 19
 
 1\. Sono istituiti presso il Ministero della marina mercantile:
 
@@ -442,7 +432,7 @@ c) l'Albo speciale delle imprese di demolizione navale.
 
 3\. L'iscrizione puo' essere altresi' consentita per l'esecuzione dei lavori per conto delle Amministrazioni dello Stato e degli enti pubblici su richiesta al Ministero della marina mercantile da parte delle predette Amministrazioni ed enti.
 
-##### ART. 20
+### ART. 20
 
 1\. Ai fini dell'iscrizione negli albi speciali di cui all'articolo 19 le imprese interessate devono essere in possesso dei sottoelencati requisiti minimi:
 
@@ -504,7 +494,7 @@ d) struttura economico-finanziaria desunta dai bilanci certificati da societa' d
 
 > Il divieto di cui al comma precedente ha effetto decorso il quinto anno successivo all'entrata in vigore del presente decreto".
 
-##### ART. 21
+### ART. 21
 
 1\. Presso il ministero della marina mercantile e' istituito il Comitato per gli albi speciali dei costruttori dei riparatori e dei demolitori navali, che da' parere sulle domande di ammissione agli albi speciali e sui provvedimenti di sospensione e di cancellazione dagli albi stessi.
 
@@ -526,7 +516,7 @@ d) da tre esperti in materia di costruzioni navali e in materia giuridico-ammini
 
 6\. All'onere di funzionamento del Comitato valutato in lire 50 milioni in ragione d'anno a decorrere dal 1989 si provvede mediante l'utilizzo del gettito dei diritti di cui all'articolo 20.
 
-##### ART. 22
+### ART. 22
 
 1\. Le imprese iscritte negli albi speciali di cui all'articolo 19 debbono comunicare al Ministero della marina mercantile tutte le variazioni nei loro requisiti, organizzazione e struttura, entro trenta giorni dal loro verificarsi.
 
@@ -560,7 +550,7 @@ e) recidiva o maggiore gravita', nei casi di cui alle lettere b), d) ed e) del c
 
 ## Titolo V - DISPOSIZIONI GENERALI
 
-##### ART. 23
+### ART. 23
 
 1\. Presso il Ministero della marina mercantile e' istituito il Comitato consultivo per l'industria cantieristica.
 
@@ -590,7 +580,7 @@ d) esamina e da' pareri su ogni altra questione che venga sottoposta al suo esam
 
 6\. Ai membri ed al segretario del Comitato spetta un compenso annuo determinato con decreto del Ministro della marina mercantile, di concerto con il Ministro del tesoro.
 
-##### Art. 24
+### Art. 24
 
 1\. Il Ministero della marina mercantile esercita il controllo e la vigilanza sull'attivita' delle imprese ammesse alle provvidenze della presente legge, limitatamente alla utilizzazione delle stesse provvidenze.
 
@@ -602,7 +592,7 @@ d) esamina e da' pareri su ogni altra questione che venga sottoposta al suo esam
 
 (( 5. L'ammontare complessivo delle somme di cui al comma 4 e' assegnato in ragione del 35 per cento al Registro italiano navale, del 10 per cento all'Istituto nazionale per studi ed esperienze di architettura navale - Vasca navale - e del 50 per cento al fine di incentivare la produttivita' del personale civile, compreso quello con qualifica dirigenziale, del Ministero dei trasporti e della navigazione, settore navigazione )).
 
-##### ART. 25
+### ART. 25
 
 1\. Le imprese che beneficiano dei contributi previsti dalla presente legge devono presentare annualmente al Ministero della marina mercantile il bilancio certificato da societa' di revisione all'uopo autorizzate ai sensi dell'articolo 8 del decreto del Presidente della Repubblica 31 marzo 1975, n. 136.
 
@@ -618,13 +608,13 @@ d) esamina e da' pareri su ogni altra questione che venga sottoposta al suo esam
 
 7\. Le imprese che nel corso dell'esercizio abbiano ricevuto contributi di cui alla presente legge non superiori a 500 milioni di lire sono esenti dall'obbligo della certificazione.
 
-##### ART. 26
+### ART. 26
 
 1\. Per la concessione delle provvidenze di cui alla presente legge, nonche' ai fini dei provvedimenti di iscrizione agli albi speciali previsti all'articolo 19, si osservano le disposizioni in materia di lotta contro la delinquenza mafiosa di cui alla legge 31 maggio 1965, n. 575, come modificata ed integrata dalle leggi 13 settembre 1982, n. 646, dal decreto-legge 6 settembre 1982, n. 629, convertito con modificazioni, dalla legge 12 ottobre 1982, n. 726 nonche' alla legge 23 dicembre 1982, n. 936.
 
 ## Titolo VI - DISPOSIZIONI TRANSITORIE E FINALI
 
-##### ART. 27
+### ART. 27
 
 1\. Alle imprese di cui all'articolo 9 che successivamente al 30 settembre 1988 ed entro il 31 dicembre 1990 acquistano navi di bandiera estera di eta' non inferiore a tre anni e non superiore a dieci puo' essere concesso un contributo semestrale pari al 2 per cento del prezzo di acquisto ritenuto congruo dal Ministero della marina mercantile. Il contributo e' esteso anche alle attrezzature pertinenti. Nel caso di navi altamente specializzate detto contributo e' elevato dell'1,25 per cento semestrale.
 
@@ -632,7 +622,7 @@ d) esamina e da' pareri su ogni altra questione che venga sottoposta al suo esam
 
 3\. Per le finalita' di cui al presente articolo e' autorizzato per l'anno 1988 un limite d'impegno pari a lire 8.000 milioni.
 
-##### ART. 28
+### ART. 28
 
 1\. All'articolo 156 del codice della navigazione, dopo il quinto comma, e' inserito il seguente:
 
@@ -650,7 +640,7 @@ d) esamina e da' pareri su ogni altra questione che venga sottoposta al suo esam
 
 3\. Per l'istituzione dei registri speciali di cui al comma 2, per l'attuazione e il completamento delle disposizioni in esso contenute, nel rispetto della riserva di cui all'articolo 224 del codice della navigazione, si provvede con decreto del Ministro della marina mercantile".
 
-##### Art. 29
+### Art. 29
 
 1\. Le disposizioni contenute nei commi 1 e 2 dell'articolo 28 sono applicabili alle navi per le quali viene chiesta l'autorizzazione a dismettere temporaneamente la bandiera da parte del Ministro della marina mercantile. Sulla richiesta viene sentito il parere di una commissione paritetica composta da tre membri designati dalle associazioni sindacali dei lavoratori maggiormente rappresentative sul piano nazionale, da tre membri designati dalle associazioni sindacali dei datori di lavoro maggiormente rappresentative sul piano nazionale e da un dirigente del Ministero della marina mercantile che la presiede.
 
@@ -674,11 +664,11 @@ AGGIORNAMENTO (6)
 
 Il D.P.R. 9 maggio 1994, n. 608 ha disposto (con l'art. 2, comma 1) che e' soppresso, ai sensi dell'art. 1, comma 28, lettera a) della legge 24 dicembre 1993, n. 537, l'organo collegiale "Commissione paritetica per le autorizzazioni alle temporanee dismissioni di bandiera delle navi nazionali" di cui al presente articolo.
 
-##### Art. 30
+### Art. 30
 
 1\. Gli atti relativi alla iscrizione e quelli contenenti assenso alla cancellazione di ipoteca navale sono soggetti ad imposta di registro in misura fissa.
 
-##### Art. 31
+### Art. 31
 
 1\. Nei limiti degli stanziamenti finalizzati alla ristrutturazione dell'industria navalmeccanica nel quadro della Direttiva CEE n. 81/363, il Ministro della marina mercantile provvede, non oltre sei mesi dalla data di entrata in vigore della presente legge, a definire gli interventi a favore delle iniziative avviate anteriormente al 1 gennaio 1987 per le quali le domande dirette ad ottenere i contributi previsti dalle leggi per nuove costruzioni, trasformazione e riparazione navale, nonche' per nuovi investimenti, non risultino ancora approvate alla data di entrata in vigore della presente legge.
 
@@ -714,11 +704,11 @@ anteriormente al 1 gennaio 1987.
 
 > "c) galleggianti e costruzioni di interesse energetico, costruzioni antinquinamento, unita' per ricerche nonche' per lavori in mare, e relative pertinenze, compresi i moduli abitativi, tutti di stazza lorda non inferiore a 150 tonnellate".
 
-##### Art. 32
+### Art. 32
 
 1\. I contributi dello Stato concessi a fronte di operazioni di credito navale in virtu' della legge 9 gennaio 1962, n. 1, e successive modifiche ed integrazioni, continuano ad essere corrisposti fino alla prevista scadenza, anche se il beneficiario provvede ad estinguere l'operazione di finanziamento cui il contributo stesso e' riferito.
 
-##### Art. 33
+### Art. 33
 
 1\. Ai contributi di cui all'articolo 6 possono accedere anche le imprese del settore delle demolizioni navali in effettivo esercizio dal 1 gennaio 1970, fatti salvi i piani di investimento definiti in base alle vigenti norme alla data di entrata in vigore della presente legge.
 
@@ -732,7 +722,7 @@ anteriormente al 1 gennaio 1987.
 
 > "Per l'ammmissione al contributo di cui all'articolo 16 della legge 14 agosto 1982, n. 599, le imprese interessate devono presentare le relative istanze entro un anno dalla data di entrata in vigore della presente legge. Le istanze devono essere corredate da un piano di investimento la cui attuazione abbia avuto inizio successivamente al 1 gennaio 1984. Le iniziative ammesse a contributo devono essere ultimate, a pena di decadenza, entro il 31 dicembre 1988".
 
-##### Art. 34
+### Art. 34
 
 1\. Al comma 1 dell'articolo 17 della legge 5 dicembre 1986, n. 856, e' aggiunto infine il seguente periodo: "Per i mezzi navali che eseguono lavori in mare al di fuori delle acque territoriali italiane, oltre che per i servizi gia' indicati per le navi da crociera, puo' essere concessa analoga autorizzazione anche per i servizi di officina, cantiere e assimilati".
 
@@ -742,7 +732,7 @@ anteriormente al 1 gennaio 1987.
 
 > "1. Il Ministro della marina mercantile, in deroga agli articoli 316 e seguenti del codice della navigazione, puo' autorizzare l'armatore ad appaltare ad imprese nazionali o straniere che abbiano un raccomandatario o un rappresentante in Italia, servizi complementari di camera, servizi di cucina o servizi generali a bordo delle navi adibite a crociera. Per i mezzi navali che eseguono lavori in mare al di fuori delle acque territoriali italiane, oltre che per i servizi gia' indicati per le navi da crociera, puo' essere concessa analoga autorizzazione anche per i servizi di officina, cantiere e assimilati".
 
-##### Art. 35
+### Art. 35
 
 1\. A decorrere dal periodo di paga in corso alla data del 19 settembre 1988, la norma di cui al comma 6-bis, primo periodo, dell'articolo 1 del decreto-legge 29 giugno 1984, n. 277, convertito, con modificazioni, dalla legge 4 agosto 1984, n. 430, si applica anche alle navi trasferite nel periodo dal 1 settembre 1983 al 31 ottobre 1988 da compartimenti marittimi ubicati nei territori del centro-nord a compartimenti marittimi ubicati nei territori del Mezzogiorno.
 
@@ -752,13 +742,13 @@ anteriormente al 1 gennaio 1987.
 
 > "6-bis. A decorrere dal periodo di paga in corso alla data del 1 gennaio 1980, gli sgravi contributivi di cui all'art. 59 del testo unico approvato con decreto del Presidente della Repubblica 6 marzo 1978, n. 218, e successive modificazioni ed integrazioni, si applicano anche alle imprese di navigazione per i marittimi componenti l'equipaggio di navi iscritte nei compartimenti marittimi ubicati nei territori del Mezzogiorno, con la eslusione delle imprese esercenti servizi con le isole maggiori e minori sovvenzionate ai sensi della legge 20 dicembre 1974, n. 684".
 
-##### Art. 36
+### Art. 36
 
 1\. Entro tre mesi dalla data di entrata in vigore della presente legge, con decreto del Ministro della marina meracantile saranno emanate le norme applicative e saranno stabiliti gli adempimenti da osservarsi ed i documenti da presentarsi da parte delle imprese interessate alla concessione ed al pagamento parziale e definitivo dei contributi previsti dalla presente legge, anche con riferimento agli obblighi in materia di apprestamenti difensivi, nonche' i termini da osservarsi a pena di decadenza ai predetti fini.
 
 2\. Con il decreto di cui al comma 1 saranno determinati gli ulteriori elementi da indicare nella domanda di concessione del contributo per nuove costruzioni, in aggiunta a quelli richiesti dall'articolo 3, nonche' gli elementi da indicare nella domanda di concessione del contributo nel caso di lavori di trasformazione e modificazione navale.
 
-##### Art. 37
+### Art. 37
 
 1\. All'onere derivante dall'applicazione degli articoli 9, 10, 11, 12, 15, 16, 17, 18 e 27, valutato in lire 74.400 milioni per l'anno 1988 si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1988-1990, al capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1988, all'uopo utilizzando l'apposito accantonamento "industria cantierista e armatoriale (Direttiva CEE n. 87/167)".
 

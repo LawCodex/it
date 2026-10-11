@@ -20,7 +20,7 @@ retrieved: 2026-10-11
 
 *Entrata in vigore della legge: 11-3-1989*
 
-### Art. 01
+## Art. 01
 
 (( (Categoria professionale degli psicologi). ))
 
@@ -36,7 +36,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1 - Definizione della professione di psicologo
+## Art. 1 - Definizione della professione di psicologo
 
 1\. La professione di psicologo comprende l'uso degli strumenti conoscitivi e di intervento per la prevenzione, la diagnosi, le attivita' di abilitazione-riabilitazione e di sostegno in ambito psicologico rivolte alla persona, al gruppo, agli organismi sociali e alle comunita'. Comprende altresi' le attivita' di sperimentazione, ricerca e didattica in tale ambito.
 
@@ -46,7 +46,7 @@ la seguente legge:
 
 > Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
-### Art. 2 - Requisiti per l'esercizio dell'attivita' di psicologo
+## Art. 2 - Requisiti per l'esercizio dell'attivita' di psicologo
 
 1\. Per esercitare la professione di psicologo e' necessario aver conseguito l'abilitazione in psicologia mediante l'esame di Stato ed essere iscritto nell'apposito albo professionale.
 
@@ -54,7 +54,7 @@ la seguente legge:
 
 3\. Sono ammessi all'esame di Stato i laureati in psicologia che siano in possesso di adeguata documentazione attestante l'effettuazione di un tirocinio pratico secondo modalita' stabilite con decreto del Ministro della pubblica istruzione, da emanarsi tassativamente entro un anno dalla data di entrata in vigore della presente legge.
 
-### Art. 3 - Esercizio dell'attivita' psicoterapeutica
+## Art. 3 - Esercizio dell'attivita' psicoterapeutica
 
 1\. L'esercizio dell'attivita' psicoterapeutica e' subordinato ad una specifica formazione professionale, da acquisirsi, dopo il conseguimento della laurea in psicologia o in medicina e chirurgia, mediante corsi di specializzazione almeno quadriennali che prevedano adeguata formazione e addestramento in psicoterapia, attivati ai sensi del decreto del Presidente della Repubblica 10 marzo 1982, n. 162, presso scuole di specializzazione universitaria o presso istituti a tal fine riconosciuti con le procedure di cui all'art. 3 del citato decreto del Presidente della Repubblica.
 
@@ -68,7 +68,7 @@ AGGIORNAMENTO (2)
 
 La L. 29 dicembre 2000, n. 401 ha disposto (con l'art. 2, comma 3) che "Il titolo di specializzazione in psicoterapia, riconosciuto, ai sensi degli articoli 3 e 35 della legge 18 febbraio 1989, n. 56, come equipollente al diploma rilasciato dalle corrispondenti scuole di specializzazione universitaria, deve intendersi valido anche ai fini dell'inquadramento nei posti organici di psicologo per la disciplina di psicologia e di medico o psicologo per la disciplina di psicoterapia, fermi restando gli altri requisiti previsti per i due profili professionali."
 
-### Art. 4 - Istituzione dell'albo
+## Art. 4 - Istituzione dell'albo
 
 1\. E' istituito l'albo degli psicologi.
 
@@ -84,13 +84,13 @@ La L. 29 dicembre 2000, n. 401 ha disposto (con l'art. 2, comma 3) che "Il titol
 
 > La misura minima e massima della sanzione pecuniaria di cui al primo comma dell'articolo soprariportato e' stata successivamente moltiplicata prima per due (D.L.L. 5 ottobre 1945, n. 679), poi per otto (D.L.C.P.S. 21 ottobre 1947, n. 1250), quindi per quaranta con assorbimento dei precedenti aumenti (art. 3 legge 12 luglio 1961, n. 603) e infine per cinque (legge 24 novembre 1981, n. 689, art. 113, primo comma). La misura attuale della sanzione e' quindi "da lire sessantamila a lire un milione".
 
-### Art. 5 - Istituzione dell'ordine degli psicologi
+## Art. 5 - Istituzione dell'ordine degli psicologi
 
 2\. Gli iscritti all'albo costituiscono l'ordine degli psicologi.
 
 Esso e' strutturato a livello regionale e, limitativamente alle province autonome di Trento e Bolzano, a livello provinciale.
 
-### Art. 6 - Istituzione di sedi provinciali del consiglio regionale dell'ordine
+## Art. 6 - Istituzione di sedi provinciali del consiglio regionale dell'ordine
 
 1\. Qualora il numero degli iscitti all'albo in una regione superi le mille unita' e ne facciano richiesta almeno duecento iscritti residenti in province diverse da quella in cui ha sede l'ordine regionale e tra loro contigur, puo' essere istituita una ulteriore sede nell'ambito della stessa regione.
 
@@ -104,7 +104,7 @@ AGGIORNAMENTO (7)
 
 La L. 11 gennaio 2018, n. 3 ha disposto (con l'art. 9, comma 6) che "Nella legge 18 febbraio 1989, n. 56, ogni riferimento al Ministro di grazia e giustizia e al Ministero di grazia e giustizia si intende fatto, rispettivamente, al Ministro della salute e al Ministero della salute".
 
-### Art. 7 - Condizioni per l'iscrizione all'albo
+## Art. 7 - Condizioni per l'iscrizione all'albo
 
 1\. Per essere iscritti all'albo e' necessario:
 
@@ -116,7 +116,7 @@ c) essere in possesso della abilitazione all'esercizio della professione;
 
 d) avere la residenzain Italia o, per cittadini italiani residenti all'estero, dimostrare di risiedere all'estero al servizio, in qualita' di psicologi, di enti o imprese nazionali che operino fuori del territorio dello Stato.
 
-### Art. 8 - Modalita' di iscrizione all'albo
+## Art. 8 - Modalita' di iscrizione all'albo
 
 1\. Per l'iscrizione all'albo l'interessato inoltra domanda in carta da bollo, al consiglio regionale o provinciale dell'ordine, allegando il documento attestante il possesso del requisito di cui alla lettera c) dell'articolo 7, nonche' le ricevute dei versamenti della tassa di iscrizione e della tassa di concessione governativa nella misura prevista dalle vigenti disposizioni per le iscrizioni negli albi professionali.
 
@@ -124,13 +124,13 @@ d) avere la residenzain Italia o, per cittadini italiani residenti all'estero, d
 
 3\. Ove tale esercizio sia precluso, ne viene riportata sull'albo annotazione con la relativa motivazione.
 
-### Art. 9 - Iscrizione
+## Art. 9 - Iscrizione
 
 1\. Il consiglio regionale o provinciale dell'ordine, di cui al precedente articolo 8, esamina le domande entro due mesi dalla data del loro ricevimento.
 
 2\. Il consiglio provvede con decisione motivata, su relazione di un membro, redigendo apposito verbale.
 
-### Art. 10 - Anzianita' di iscrizione nell'albo
+## Art. 10 - Anzianita' di iscrizione nell'albo
 
 1\. L'anzianita' di iscrizione e' determinata dalla data della relativa deliberazione.
 
@@ -140,7 +140,7 @@ d) avere la residenzain Italia o, per cittadini italiani residenti all'estero, d
 
 4\. L'albo contiene per ciascun iscritto: cognome, nome, luogo e data di nascita e residenza, nonche', per i sospesi dall'esercizio professionale, la relativa indicazione.
 
-### Art. 11 - Cancellazione dall'albo
+## Art. 11 - Cancellazione dall'albo
 
 1\. Il consiglio regionale o provinciale dell'ordine, d'ufficio o su richiesta del pubblico minstero, pronuncia la cancellazione dall'albo:
 
@@ -152,7 +152,7 @@ c) quando sia venuto a mancare uno dei requisiti di cui alle lettere a), b) e d)
 
 2\. Il consiglio anzidetto pronuncia la cancellazione dopo aver sentito l'interessato, tranne che nel caso di irreperibilita' o in quello previsto dalla lettera a) del comma 1.
 
-### Art. 12 - Consiglio regionale o provinciale dell'ordine
+## Art. 12 - Consiglio regionale o provinciale dell'ordine
 
 1\. COMMA ABROGATO DAL D.P.R. 25 OTTOBRE 2005, N. 221.
 
@@ -184,7 +184,7 @@ AGGIORNAMENTO (7)
 
 La L. 11 gennaio 2018, n. 3 ha disposto (con l'art. 9, comma 6) che "Nella legge 18 febbraio 1989, n. 56, ogni riferimento al Ministro di grazia e giustizia e al Ministero di grazia e giustizia si intende fatto, rispettivamente, al Ministro della salute e al Ministero della salute".
 
-### Art. 13
+## Art. 13
 
 (Attribuzioni del presidente del consiglio
 
@@ -194,11 +194,11 @@ regionale o provinciale dell'ordine)
 
 2\. Egli, inoltre, rilascia i certificati e le attestazioni relative agli iscritti.
 
-### Art. 14 - Riunione del consiglio regionale o provinciale dell'ordine
+## Art. 14 - Riunione del consiglio regionale o provinciale dell'ordine
 
 1\. Il consiglio dell'ordine e' convocato dal presidente almeno una volta ogni sei mesi, e comunque ognio volta che se ne presenti la necessita' o quando sia richiesto da almeno quattro dei suoi membri, o da almeno un terzo degli iscritti all'albo. Il verbale della riunione non ha carattere riservato, e' redattodal segretario sotto la direzione del presidente ed e' sottoscritto da entrambi.
 
-### Art. 15
+## Art. 15
 
 (Comunicazioni delle decisioni del consiglio
 
@@ -208,7 +208,7 @@ regionale o provinciale dell'ordine)
 
 2\. In caso di irreperibilita', la comunicazione avviene mediante affissione del provvedimento per dieci giorni nella sede del consiglio dell'ordine ed all'albo del comune di ultima residenza dell'interessato.
 
-### Art. 16 - Scioglimento del consiglio regionale o provinciale dell'ordine
+## Art. 16 - Scioglimento del consiglio regionale o provinciale dell'ordine
 
 1\. Il consiglio regionale o provinciale dell'ordine se, richiamato all'osservanza dei propri doveri, persiste nel violarli, ovvero se ricorrono altri gravi motivi, puo' essere sciolto. Inoltre puo' essere sciolto su richiesta scritta e motivata di almeno un terzo degli appartenenti all'albo.
 
@@ -224,7 +224,7 @@ AGGIORNAMENTO (7)
 
 La L. 11 gennaio 2018, n. 3 ha disposto (con l'art. 9, comma 6) che "Nella legge 18 febbraio 1989, n. 56, ogni riferimento al Ministro di grazia e giustizia e al Ministero di grazia e giustizia si intende fatto, rispettivamente, al Ministro della salute e al Ministero della salute".
 
-### Art. 17
+## Art. 17
 
 (Ricorsi avverso le deliberazioni del consiglio regionale o
 
@@ -232,19 +232,19 @@ provinciale dell'ordine ed in materia elettorale)
 
 1\. Le deliberazioni del consiglio dell'ordine nonche' i risultati elettorali possono essere impugnati, con ricorso al tribunale competente per territorio, dagli interessati o dal procuratore della Repubblica presso il tribunale stesso.
 
-### Art. 18 - Termini per la presentazione dei ricorsi
+## Art. 18 - Termini per la presentazione dei ricorsi
 
 1\. I ricorsi di cui all'art. 17 sono proposti entro il termine perentorio di trenta giorni dalla notificazione del provvedimento impugnato o dalla proclamazione degli eletti.
 
 2\. I ricorsi in materia elettorale non hanno effetto sospensivo.
 
-### Art. 19 - Decisioni sui ricorsi
+## Art. 19 - Decisioni sui ricorsi
 
 1\. Sui ricorsi avverso le deliberazioni del consiglio dell'ordine, di cui all'articolo 17, il tribunale competente per territorio provvede in camera di consiglio sentiti il pubblico ministero e l'interessato.
 
 2\. Contro la sentenza del tribunale gli interessati possono ricorrere alla corte d'appello, con l'osservanza delle medesime forme previste per il procedimento davanti al tribunale.
 
-### Art. 20 - Elezione del consiglio regionale o provinciale dell'ordine
+## Art. 20 - Elezione del consiglio regionale o provinciale dell'ordine
 
 ((1. Le elezioni per il rinnovo dei consigli territoriali dell'Ordine si svolgono contemporaneamente nel terzo quadrimestre dell'anno di scadenza. La proclamazione degli eletti deve essere effettuata entro il 31 dicembre dello stesso anno)).
 
@@ -272,7 +272,7 @@ provinciale dell'ordine ed in materia elettorale)
 
 13\. Il seggio, a cura del presidente del consiglio dell'ordine, e' costituito in un locale idoneo ad assicurare la segretezza del voto e la visibilita' dell'urna durante le operazioni elettorali.
 
-### Art. 21 - Composizione del seggio elettorale
+## Art. 21 - Composizione del seggio elettorale
 
 1\. ((COMMA ABROGATO DAL D.P.R. 25 OTTOBRE 2005, N. 221)).
 
@@ -280,7 +280,7 @@ provinciale dell'ordine ed in materia elettorale)
 
 3\. Durante la votazione e' sufficiente la presenza di tre componenti dell'ufficio elettorale.
 
-### Art. 22 - Votazione
+## Art. 22 - Votazione
 
 1\. Le schede per la prima e la seconda convocazione sono predisposte in un unico modello, predeterminato dal Consiglio nazionale con il timbro del consiglio dell'ordine regionale o provinciale degli psicologi. Esse, con l'indicazione della convocazione cui si riferiscono, immediatamente prima dell'inizio della votazione, sono firmate all'esterno da uno degli scritatori, in un numero corrispondente a quello degli aventi diritto al voto.
 
@@ -292,7 +292,7 @@ provinciale dell'ordine ed in materia elettorale)
 
 Qualora venga a mancare la meta' dei consiglieri si procede a nuove elezioni.
 
-### Art. 23 - Comunicazioni dell'esito delle elezioni
+## Art. 23 - Comunicazioni dell'esito delle elezioni
 
 1\. Il presidente del seggio comunica alla presidenza del consiglio dell'ordine regionale o provinciale i nominativi di tutti coloro che hanno riportato voti e provve alla pubblicazione della graduatoria e dei nomi degli eletti mediante affissione nella sede del consiglio dell'ordine.
 
@@ -304,7 +304,7 @@ AGGIORNAMENTO (7)
 
 La L. 11 gennaio 2018, n. 3 ha disposto (con l'art. 9, comma 6) che "Nella legge 18 febbraio 1989, n. 56, ogni riferimento al Ministro di grazia e giustizia e al Ministero di grazia e giustizia si intende fatto, rispettivamente, al Ministro della salute e al Ministero della salute".
 
-### Art. 24
+## Art. 24
 
 (Adunanza del consiglio regionale
 
@@ -326,7 +326,7 @@ AGGIORNAMENTO (7)
 
 La L. 11 gennaio 2018, n. 3 ha disposto (con l'art. 9, comma 6) che "Nella legge 18 febbraio 1989, n. 56, ogni riferimento al Ministro di grazia e giustizia e al Ministero di grazia e giustizia si intende fatto, rispettivamente, al Ministro della salute e al Ministero della salute".
 
-### Art. 25
+## Art. 25
 
 (Rinnovo delle elezioni nel consiglio regionale
 
@@ -342,7 +342,7 @@ AGGIORNAMENTO (7)
 
 La L. 11 gennaio 2018, n. 3 ha disposto (con l'art. 9, comma 6) che "Nella legge 18 febbraio 1989, n. 56, ogni riferimento al Ministro di grazia e giustizia e al Ministero di grazia e giustizia si intende fatto, rispettivamente, al Ministro della salute e al Ministero della salute".
 
-### Art. 26 - Sanzioni disciplinari
+## Art. 26 - Sanzioni disciplinari
 
 1\. All'iscritto nell'albo che si renda colpevole di abuso o mancanza nell'esercizio della professione o che comunque si comporti in modo non conforme alla dignita' o al decoro professionale, a seconda della gravita' del fatto, puo' essere inflitta da parte del consiglio regionale o provinciale dell'ordine una delle seguenti sanzioni disciplinari:
 
@@ -368,7 +368,7 @@ AGGIORNAMENTO (8)
 
 La Corte Costituzionale, con sentenza 24 settembre - 17 ottobre 2025, n. 153 (in G.U. 1ª s.s. 22/10/2025, n. 43), ha dichiarato "l'illegittimita' costituzionale dell'art. 26, comma 3, della legge 18 febbraio 1989, n. 56 (Ordinamento della professione di psicologo)".
 
-### Art. 27 - Procedimento disciplinare
+## Art. 27 - Procedimento disciplinare
 
 1\. Il consiglio regionale o provinciale dell'ordine inizia il procedimento disciplinare d'ufficio o su istanza del procuratore della Repubblica competente per territorio.
 
@@ -380,7 +380,7 @@ L'interessato puo' avvalersi dell'assistenza di un legale.
 
 4\. In caso di irreperibilita', le comunicazioni di cui ai commi 2 e 3 avvengono mediante affissione del provvedimento per dieci giorni nella sede del consiglio dell'ordine ed all'albo del comune dell'ultima residenza dell'interessato.
 
-### Art. 28 - Consiglio nazionale dell'ordine
+## Art. 28 - Consiglio nazionale dell'ordine
 
 1\. Il consiglio nazionale dell'ordine e' composta dai presidenti dei consigli regionali, provinciali, limitatamente alle province di Trento e Bolzano, e di quelli di cui al precedente articolo 6.
 
@@ -418,19 +418,19 @@ AGGIORNAMENTO (7)
 
 La L. 11 gennaio 2018, n. 3 ha disposto (con l'art. 9, comma 6) che "Nella legge 18 febbraio 1989, n. 56, ogni riferimento al Ministro di grazia e giustizia e al Ministero di grazia e giustizia si intende fatto, rispettivamente, al Ministro della salute e al Ministero della salute".
 
-### Art. 29
+## Art. 29
 
 (( (Vigilanza del Ministro della salute). ))
 
 ((1. Il Ministro della salute esercita l'alta vigilanza sull'Ordine nazionale degli psicologi)).
 
-### Art.30 - Equipollenza dei titoli
+## Art.30 - Equipollenza dei titoli
 
 1\. All'esame di Stato di cui agli articoli 2 e 33 della presente legge possono partecipare altresi' i possessori di titoli accademici in psicologia conseguiti presso istituzioni universitarie che siano riconosciute, con decreto del Ministro della pubblica istruzione su parere del Consiglio universitario nazionale, di particolare rilevanza scientifica sul piano internazionale, anche se i possessori di tali titoli non abbiano richiesto l'equipollenza con la laurea in psicologia conseguita nelle universita' italiane.
 
 ## NORME TRANSITORIE
 
-### Art. 31
+## Art. 31
 
 ( Istituzione dell'albo e costituzione dei consigli
 
@@ -440,7 +440,7 @@ regionali e provinciali dell'ordine)
 
 2\. Il commissario entro tre mesi dalla pubblicazione dei risultati della sessione speciale dell'esame di Stato per i titoli di cui all'articolo 33, comma 1, indice le elezioni per i consigli regionali o provinciali dell'ordine, attenendosi alle norme previste dalla presente legge. Provvede altres' a nominare un presidente di seggio, un vicepresidente, due scrutatori ed un segretario, scegliendoli tra funzionari della pubblica amministrazione.
 
-### Art. 32
+## Art. 32
 
 (Iscrizione all'albo in sede di prima
 
@@ -454,7 +454,7 @@ c) ai laureati che da almeno sette anni svolgano effettivamente in maniera conti
 
 d) a coloro che abbiano operato per almeno tre anni nelle discipline psicologiche ottenedo riconoscimenti nel campo specifico a livello nazionale o internazionale.
 
-### Art. 33 - Sessione speciale di esame di Stato
+## Art. 33 - Sessione speciale di esame di Stato
 
 1\. Nella prima applicazione della legge sara' tenuta un sessione speciale di esame di Stato per titoli alla quale saranno ammessi:
 
@@ -466,7 +466,7 @@ c) i laureati in discipline diverse dalla psicologia, che abbiano svolto dopo la
 
 d) coloro che siano stati dichiarati, a seguito di pubblico concorso, idonei a ricoprire un posto in materia psicologica presso un'istituzione pubblica per il cui accesso era richiesto il diploma di laurea.
 
-### Art. 34
+## Art. 34
 
 (Ammissione all'esame di Stato degli iscritti
 
@@ -474,7 +474,7 @@ ad un corso di specializzazione)
 
 1\. In deroga a quanto previsto dall'articolo 2, comma 3, sono ammessi a sostenere gli esami di Stato di cui al comma 2 di detto articolo, dopo il conseguimento del diploma di specializzazione, coloro che, al momento dell'entrata in vigore della presente legge, risultino iscritti ad un corso di specializzazione almeno triennale in psicologia o in uno dei suoi rami, e che documentino altresi' di aver svolto, per almeno un anno, attivita' che forma oggetto della professione di psicologo.
 
-### Art. 35
+## Art. 35
 
 Riconoscimento dell'attivita' psicoterapeutica
 
@@ -496,7 +496,7 @@ AGGIORNAMENTO (2)
 
 La L. 29 dicembre 2000, n. 401 ha disposto (con l'art. 2, comma 3) che "Il titolo di specializzazione in psicoterapia, riconosciuto, ai sensi degli articoli 3 e 35 della legge 18 febbraio 1989, n. 56, come equipollente al diploma rilasciato dalle corrispondenti scuole di specializzazione universitaria, deve intendersi valido anche ai fini dell'inquadramento nei posti organici di psicologo per la disciplina di psicologia e di medico o psicologo per la disciplina di psicoterapia, fermi restando gli altri requisiti previsti per i due profili professionali."
 
-### Art. 36 - Copertura finanziaria
+## Art. 36 - Copertura finanziaria
 
 1\. Agli oneri derivanti dall'attuazione degli articoli 31, 32 e 33 si fa fronte a carico degli appositi capitoli dello stato di previsione del Ministero di grazia e giustizia. ((7))
 

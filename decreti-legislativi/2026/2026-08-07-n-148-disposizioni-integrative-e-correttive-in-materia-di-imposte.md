@@ -91,7 +91,7 @@ il seguente decreto legislativo:
 
 ## Titolo I - DISPOSIZIONI IN MATERIA DI REDDITI DI LAVORO DIPENDENTE
 
-##### Art. 1
+#### Art. 1
 
 Trattamento fiscale dei familiari a carico
 
@@ -109,7 +109,7 @@ b) al secondo periodo sono aggiunte, in fine, le seguenti parole: «e, limitatam
 
 3\. Le disposizioni dei commi 1 e 2 si applicano a partire dal periodo d'imposta in corso alla data del 20 dicembre 2025.
 
-##### Art. 2
+#### Art. 2
 
 Disposizioni in materia di tassazione dei fringe benefit - auto aziendali e optional
 
@@ -131,7 +131,7 @@ Disposizioni in materia di tassazione dei fringe benefit - auto aziendali e opti
 
 ## Titolo II - DISPOSIZIONI IN MATERIA DI REDDITI DI LAVORO AUTONOMO
 
-##### Art. 3
+#### Art. 3
 
 Trattamento fiscale dei proventi derivanti dalla cessione o dall'utilizzo in compensazione dei crediti di imposta
 
@@ -155,11 +155,9 @@ A tali fini, qualora la dichiarazione dei redditi risulti gia' presentata, potra
 
 ## Titolo III - DISPOSIZIONI IN MATERIA DI REDDITI D'IMPRESA
 
-### Capo I
+### Capo I - Determinazione del reddito per le imprese agricole
 
-#### Determinazione del reddito per le imprese agricole
-
-##### Art. 4
+#### Art. 4
 
 Modifiche in materia di determinazione del reddito per le imprese agricole
 
@@ -183,9 +181,9 @@ c) all'articolo 66, il comma 6 e' sostituito dal seguente:
 
 «6. Le disposizioni del presente articolo si applicano agli imprenditori individuali, alle societa' semplici e ai soggetti che hanno esercitato l'opzione di cui all'articolo 287, comma 1.».
 
-## Capo II - Avvicinamento valori contabili e fiscali
+### Capo II - Avvicinamento valori contabili e fiscali
 
-##### Art. 5
+#### Art. 5
 
 Revisione della disciplina della derivazione del reddito imponibile dall'utile dell'esercizio
 
@@ -281,7 +279,7 @@ a) al comma 131, le lettere b) e c) sono abrogate;
 
 b) al comma 132, le parole: «, lettere da a) a c),» sono soppresse.
 
-##### Art. 6
+#### Art. 6
 
 Riallineamento straordinario delle divergenze tra i valori contabili e fiscali
 
@@ -293,9 +291,9 @@ Riallineamento straordinario delle divergenze tra i valori contabili e fiscali
 
 4\. Si applicano le disposizioni in materia di accertamento, riscossione, sanzioni e contenzioso in materia di imposte dirette.
 
-## Capo III - Revisione della disciplina del riporto delle perdite fiscali
+### Capo III - Revisione della disciplina del riporto delle perdite fiscali
 
-##### Art. 7
+#### Art. 7
 
 Norma di interpretazione autentica dell'articolo 84, comma 3, del TUIR
 
@@ -305,7 +303,7 @@ Norma di interpretazione autentica dell'articolo 84, comma 3, del TUIR
 
 «l-bis) l'articolo 93, comma 3, si interpreta nel senso che il trasferimento delle partecipazioni complessivamente rappresentanti la maggioranza dei diritti di voto nell'assemblea ordinaria del soggetto che riporta le perdite si considera avvenuto anche nel caso in cui oggetto dello stesso siano le partecipazioni di una societa' che detiene il controllo, ai sensi dell'articolo 2359, primo comma, numero 1), e secondo comma, del codice civile, del soggetto che riporta le perdite;».
 
-##### Art. 8
+#### Art. 8
 
 Revisione articoli 84, comma 3-quater, e 172, comma 8, del TUIR
 
@@ -321,9 +319,9 @@ a) all'articolo 93, comma 6, le parole: «commi da 1 a 5» sono sostituite dalle
 
 b) all'articolo 172, comma 10, le parole: «la data in cui ha effetto la» sono sostituite dalle seguenti: «la data antecedente a quella di efficacia della».
 
-## Capo IV - Revisione della disciplina dei conferimenti
+### Capo IV - Revisione della disciplina dei conferimenti
 
-##### Art. 9
+#### Art. 9
 
 Revisione alla disciplina dei conferimenti di partecipazioni minusvalenti
 
@@ -347,11 +345,9 @@ b) all'articolo 177, comma 2, il secondo periodo e' sostituito dal seguente: «L
 
 ## Titolo IV - REVISIONE FISCALITÀ INTERNAZIONALE
 
-### Capo I
+### Capo I - Modifiche al regime del riporto delle perdite fiscali estere definitive
 
-#### Modifiche al regime del riporto delle perdite fiscali estere definitive
-
-##### Art. 10
+#### Art. 10
 
 Perdite estere definitive
 
@@ -379,9 +375,9 @@ b) tali perdite non possono piu' essere utilizzate nello Stato di sua residenza 
 
 1-quater. La disposizione di cui al comma 1-bis si applica anche per le perdite della societa' partecipata residente in uno degli Stati ivi indicati, priva dell'assemblea ordinaria dei soci, della quale si detiene una partecipazione al patrimonio o al capitale superiore al 50 per cento, calcolata tenendo conto della eventuale demoltiplicazione prodotta dalla catena partecipativa.».
 
-## Capo II - Revisione della disciplina dell'imposizione minima globale
+### Capo II - Revisione della disciplina dell'imposizione minima globale
 
-##### Art. 11
+#### Art. 11
 
 Recepimento dei nuovi regimi elaborati dall'OCSE in materia di imposizione minima globale e altre modifiche
 
@@ -531,7 +527,7 @@ d) all'allegato B:
 
 ## Titolo V - DISPOSIZIONI IN MATERIA DI IMPOSTA SUL VALORE AGGIUNTO
 
-##### Art. 12
+#### Art. 12
 
 Detrazione
 
@@ -549,7 +545,7 @@ b) all'articolo 88, comma 1, le parole: «all'anno di ricezione della fattura e 
 
 ## Titolo VI - REVISIONE DISCIPLINA ACCERTAMENTO
 
-##### Art. 13
+#### Art. 13
 
 Modifica delle norme in materia di imposta sulle successioni e donazioni
 
@@ -577,7 +573,7 @@ d) al quarto periodo, le parole: «dell'imposta» sono sostituite dalle seguenti
 
 e) al quinto periodo, le parole: «dell'imposta assolta» sono sostituite dalle seguenti: «delle imposte assolte».
 
-##### Art. 14
+#### Art. 14
 
 Modifica all'articolo 34, comma 1, del testo unico delle disposizioni concernenti l'imposta sulle successioni e donazioni, di cui al decreto legislativo 31 ottobre 1990, n. 346
 
@@ -585,13 +581,13 @@ Modifica all'articolo 34, comma 1, del testo unico delle disposizioni concernent
 
 2\. All'articolo 309, comma 1, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento, di cui al decreto legislativo 5 agosto 2026, n. 141, le parole: «dalla data di notificazione della liquidazione dell'imposta principale» sono sostituite dalle seguenti: «decorrenti dal giorno successivo alla scadenza del termine di cui all'articolo 120, comma 1, primo periodo, del testo unico delle disposizioni legislative in materia di imposta di registro e di altri tributi indiretti, di cui al decreto legislativo 1° agosto 2025, n. 123».
 
-##### Art. 15
+#### Art. 15
 
 Modifica all'articolo 13, comma 2-bis, del testo unico delle disposizioni concernenti le imposte ipotecaria e catastale, di cui al decreto legislativo 31 ottobre 1990, n. 347
 
 1\. All'articolo 13, comma 2-bis, primo periodo, del testo unico delle disposizioni concernenti le imposte ipotecaria e catastale, di cui al decreto legislativo 31 ottobre 1990, n. 347, le parole: «comma 1-bis» sono sostituite dalle seguenti: «comma 1».
 
-##### Art. 16
+#### Art. 16
 
 Modifiche alla disciplina dell'adempimento collaborativo di cui al decreto legislativo 5 agosto 2015, n. 128
 
@@ -623,7 +619,7 @@ b) all'articolo 149, dopo il comma 2, sono aggiunti i seguenti:
 
 3\. Le disposizioni di cui ai commi 1 e 2, lettere a) e b), si applicano alle comunicazioni di rischi fiscali di cui alle citate lettere effettuate a partire dalla data di entrata in vigore del presente decreto.
 
-##### Art. 17
+#### Art. 17
 
 Differimento del termine per la certificazione del sistema integrato di rilevazione, misurazione, gestione e controllo del rischio fiscale ai fini dell'ammissione al regime di adempimento collaborativo
 
@@ -631,7 +627,7 @@ Differimento del termine per la certificazione del sistema integrato di rilevazi
 
 2\. All'articolo 148, comma 2, del testo unico delle disposizioni legislative in materia di adempimenti e accertamento di cui al decreto legislativo 5 agosto 2026, n. 141, le parole: «30 settembre 2026» sono sostituite dalle seguenti: «31 dicembre 2026».
 
-##### Art. 18
+#### Art. 18
 
 Modifiche all'articolo 39 del decreto legislativo 9 luglio 1997, n. 241
 
@@ -641,7 +637,7 @@ Modifiche all'articolo 39 del decreto legislativo 9 luglio 1997, n. 241
 
 3\. Le disposizioni del presente articolo si applicano a partire dalle attivita' di controllo effettuate sulle dichiarazioni relative al periodo d'imposta 2023.
 
-##### Art. 19
+#### Art. 19
 
 Modifiche all'articolo 152 del TUIR
 
@@ -649,7 +645,7 @@ Modifiche all'articolo 152 del TUIR
 
 2\. Con riferimento al periodo d'imposta in corso al 31 dicembre 2026 e ai seguenti, all'articolo 150, comma 1, del testo unico delle disposizioni legislative in materia di imposte sui redditi di cui al decreto legislativo 19 giugno 2026, n. 117, e' aggiunto, in fine, il seguente periodo: «Al rendiconto di cui al primo periodo deve essere attribuita data certa entro il termine di presentazione della dichiarazione dei redditi relativa al medesimo periodo d'imposta mediante vidimazione con marcatura temporale o altri strumenti idonei ai sensi delle vigenti disposizioni, e i dati in esso contenuti devono risultare da un apposito prospetto della dichiarazione dei redditi.».
 
-##### Art. 20
+#### Art. 20
 
 Disposizioni in materia di procedure di controllo sulle autoliquidazioni degli atti presentati con modello unico informatico ai fini della pubblicita' immobiliare
 
@@ -661,7 +657,7 @@ Disposizioni in materia di procedure di controllo sulle autoliquidazioni degli a
 
 «1-bis. Per le formalita' di pubblicita' immobiliare richieste da soggetti diversi da quelli di cui all'articolo 10, lettera b), l'ufficio controlla la regolarita' dell'autoliquidazione delle imposte e tasse effettuata dal contribuente nonche' la regolarita' dei versamenti. Nel caso in cui risultino dovuti maggiori tributi, l'ufficio notifica, entro i termini di decadenza previsti dall'articolo 17, comma 2, del testo unico delle disposizioni concernenti le imposte ipotecaria e catastale di cui al decreto legislativo 31 ottobre 1990, n. 347, apposito avviso di liquidazione ai soggetti obbligati al pagamento di cui all'articolo 80, con l'invito a effettuare, entro il termine di sessanta giorni, il pagamento per l'integrazione dei tributi nonche' della sanzione amministrativa di cui all'articolo 38 del testo unico delle sanzioni amministrative e penali di cui al decreto legislativo 5 novembre 2024, n. 173, e degli interessi di mora decorrenti dalla data in cui i tributi medesimi avrebbero dovuto essere pagati. Se il pagamento e' effettuato entro il termine indicato, l'ammontare della sanzione amministrativa dovuta e' ridotto a un terzo.».
 
-##### Art. 21
+#### Art. 21
 
 Modifica dell'articolo 1, comma 74, della legge 23 dicembre 2014, n. 190
 
@@ -669,7 +665,7 @@ Modifica dell'articolo 1, comma 74, della legge 23 dicembre 2014, n. 190
 
 2\. Con effetto a partire dal periodo d'imposta 2026, all'articolo 240 del testo unico delle disposizioni legislative in materia di imposte sui redditi di cui al decreto legislativo 19 giugno 2026, n. 117, le parole da «; per i contribuenti» a «e' ridotto di un anno» sono soppresse.
 
-##### Art. 22
+#### Art. 22
 
 Termine per l'accertamento dei componenti a efficacia pluriennale
 
@@ -695,7 +691,7 @@ Resta inoltre ferma l'applicazione dell'articolo 293, comma 6.
 
 3\. Il presente articolo si applica ai beni e servizi acquistati a partire dal periodo di imposta in corso al 31 dicembre 2027.
 
-##### Art. 23
+#### Art. 23
 
 Societa' di capitali a ristretta base partecipativa
 
@@ -719,7 +715,7 @@ b) di componenti reddituali negativi che hanno concorso a formare il reddito ma 
 
 2\. Gli utili dei quali si presume la distribuzione sono imponibili in capo ai soci ai sensi degli articoli 49, 70 e 98 del testo unico delle disposizioni legislative in materia di imposte sui redditi, di cui al decreto legislativo 19 giugno 2026, n. 117.».
 
-##### Art. 24
+#### Art. 24
 
 Accertamento per antieconomicita'
 
@@ -731,7 +727,7 @@ a) dopo l'articolo 252 e' inserito il seguente:
 
 «Articolo 252-bis (Accertamento per antieconomicita'). - 1. Ai fini delle imposte sui redditi e dell'imposta regionale sulle attivita' produttive, la difformita' tra il corrispettivo pattuito e il valore di mercato del bene o del servizio scambiato puo' costituire un indice sintomatico dell'esistenza di un maggior componente positivo o della carenza di inerenza di un componente negativo soltanto in presenza di ulteriori elementi indiziari che, valutati anche unitamente a tale difformita', siano gravi, precisi e concordanti o, in ogni caso, qualora la difformita' in questione risulti manifesta e rilevante.».
 
-##### Art. 25
+#### Art. 25
 
 Modifiche allo Statuto dei diritti del contribuente
 
@@ -739,7 +735,7 @@ Modifiche allo Statuto dei diritti del contribuente
 
 ## Titolo VII - REVISIONE DISCIPLINA REDDITI FINANZIARI
 
-##### Art. 26
+#### Art. 26
 
 Aumento dell'aliquota della ritenuta sui dividendi corrisposti a fondi pensione europei
 
@@ -749,7 +745,7 @@ Aumento dell'aliquota della ritenuta sui dividendi corrisposti a fondi pensione 
 
 3\. Le disposizioni del presente articolo si applicano sugli utili corrisposti a decorrere dall'entrata in vigore del presente decreto.
 
-##### Art. 27
+#### Art. 27
 
 Affrancamento partecipazioni black list
 
@@ -767,7 +763,7 @@ b) al comma 3, e' aggiunto, in fine, il seguente periodo: «L'imposta sostitutiv
 
 ## Titolo VIII - DISPOSIZIONI IN MATERIA DI CONCORDATO PREVENTIVO BIENNALE
 
-##### Art. 28
+#### Art. 28
 
 Disposizioni in materia di concordato preventivo biennale
 
@@ -901,7 +897,7 @@ c) risultano commesse altre violazioni di non lieve entita' di cui al comma 2;»
 
 3\. Le disposizioni introdotte con il presente articolo si applicano a decorrere dal biennio d'imposta 2026-2027.
 
-##### Art. 29
+#### Art. 29
 
 Imposta sostitutiva per i periodi d'imposta dal 2020 al 2023 dei soggetti che rinnovano l'adesione al concordato preventivo per il biennio 2026-2027
 
@@ -1063,7 +1059,7 @@ d) dichiarazione infedele di una causa di esclusione di cui al comma 7 del prese
 
 ## Titolo IX - REVISIONE DISCIPLINA ENTI DEL TERZO SETTORE
 
-##### Art. 30
+#### Art. 30
 
 Regime speciale IRAP per gli enti del Terzo Settore
 
@@ -1075,7 +1071,7 @@ Regime speciale IRAP per gli enti del Terzo Settore
 
 ## Titolo X - DISPOSIZIONI CONCERNENTI L'AGENZIA DELLE DOGANE E DEI MONOPOLI
 
-##### Art. 31
+#### Art. 31
 
 Utilizzo dei file delle fatture elettroniche
 
@@ -1083,7 +1079,7 @@ Utilizzo dei file delle fatture elettroniche
 
 2\. All'articolo 77, comma 7, lettera c), del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto di cui al decreto legislativo 19 gennaio 2026, n. 10, dopo le parole: «di cui al decreto legislativo 26 ottobre 1995, n. 504» sono aggiunte, in fine, le seguenti: «, nonche' per le attivita' di analisi dei rischi e di controllo a fini fiscali e doganali nelle materie e attivita' di competenza».
 
-##### Art. 32
+#### Art. 32
 
 Modifiche alle disposizioni tributarie in materia di accise
 
@@ -1115,7 +1111,7 @@ i) all'articolo 62, dopo il comma 7, e' inserito il seguente:
 
 ## Titolo XI - DISPOSIZIONI IN MATERIA DI SANZIONI TRIBUTARIE
 
-##### Art. 33
+#### Art. 33
 
 Disposizioni in materia di sanzioni per omessa, errata o tardiva trasmissione dei dati sui corrispettivi giornalieri
 
@@ -1131,7 +1127,7 @@ a) all'articolo 36, comma 6, ultimo periodo, dopo le parole: «del decreto legis
 
 b) all'articolo 37, comma 3, e' aggiunto, in fine, il seguente periodo: «Con riferimento alle ipotesi di cui all'articolo 2, comma 3, del decreto legislativo 5 agosto 2015, n. 127, le sanzioni si applicano salvo il caso in cui tra il numero delle operazioni regolate con pagamento elettronico, registrate e memorizzate ai fini della trasmissione dei dati dei corrispettivi giornalieri, e il numero dei pagamenti elettronici accettati vi sia una discrepanza non superiore al 5 per cento.».
 
-##### Art. 34
+#### Art. 34
 
 Disposizioni sanzionatorie in materia di adempimento collaborativo
 
@@ -1143,7 +1139,7 @@ Articolo 69-triecies ter (Omesso pagamento delle somme dovute in esecuzione dell
 
 ## Titolo XII - DISPOSIZIONI DI COORDINAMENTO E FINALI
 
-##### Art. 35
+#### Art. 35
 
 Disposizioni di coordinamento
 
@@ -1151,7 +1147,7 @@ Disposizioni di coordinamento
 
 2\. Le disposizioni di cui agli articoli 23, commi 1 e 2, 24, comma 1, 29, commi da 1 a 17, sono efficaci fino al termine di decorrenza di cui all'articolo 368 del testo unico delle disposizioni legislative in materia di adempimenti e accertamento di cui al decreto legislativo 5 agosto 2026, n. 141.
 
-##### Art. 36
+#### Art. 36
 
 Disposizioni finanziarie
 
@@ -1163,7 +1159,7 @@ a) quanto a 119,5 milioni di euro per l'anno 2027, 35,8 milioni di euro per cias
 
 b) quanto a 5.795.000 euro per l'anno 2028, 262.500 euro per l'anno 2030 e 872.334 euro per ciascuno degli anni dal 2034 al 2040 mediante corrispondente riduzione del fondo di cui all'articolo 62, comma 1, del decreto legislativo 27 dicembre 2023, n. 209.
 
-##### Art. 37
+#### Art. 37
 
 Entrata in vigore
 

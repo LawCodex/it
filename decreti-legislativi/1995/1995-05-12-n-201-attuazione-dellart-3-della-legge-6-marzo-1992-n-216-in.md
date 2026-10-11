@@ -46,7 +46,7 @@ il seguente decreto legislativo:
 
 ### Sezione I - RIORDINAMENTO DI RUOLI DEL PERSONALE CHE ESPLETA FUNZIONI DI POLIZIA
 
-##### Art. 1
+#### Art. 1
 
 Istituzione dei ruoli
 
@@ -108,7 +108,7 @@ c) ruolo degli ispettori.
 
 > (a) Di cui rispettivamente 249, 263, 276, 290 e 303 con qualifica di 'scelto' ai sensi degli articoli 23 e 25 del decreto del Presidente della Repubblica 28 dicembre 1970".
 
-##### Art. 2
+#### Art. 2
 
 Ruolo degli agenti e degli assistenti
 
@@ -120,7 +120,7 @@ assistente;
 
 assistente capo.
 
-##### Art. 3
+#### Art. 3
 
 Funzioni del personale appartenente al ruolo
 
@@ -132,7 +132,7 @@ degli agenti e degli assistenti
 
 Gli assistenti ed assistenti capo, in relazione ad una eventuale specifica preparazione professionale, possono espletare compiti di addestramento.
 
-##### Art. 4
+#### Art. 4
 
 Nomina ad allievo agente
 
@@ -166,7 +166,7 @@ e) gli altri requisiti generali per la partecipazione ai pubblici concorsi per l
 
 6\. Gli allievi agenti che abbiano superato gli esami di fine corso sono nominati agenti del Corpo forestale dello Stato, secondo l'ordine di graduatoria finale e prestano giuramento.
 
-##### Art. 5
+#### Art. 5
 
 Dimissioni dal corso per la nomina ad agente
 
@@ -194,7 +194,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 28 febbraio 2001, n. 87 ha disposto (con l'art. 32, comma 3) che l'espressione "direttore generale della Direzione generale delle risorse forestali, montane e idriche", di cui al presente comma, deve intendersi riferita al "Capo del Corpo forestale dello Stato".
 
-##### Art. 6
+#### Art. 6
 
 Promozioni
 
@@ -202,7 +202,7 @@ Promozioni
 
 2\. Il servizio prestato come allievo agente e' compreso per intero nella qualifica di agente.
 
-##### Art. 7
+#### Art. 7
 
 Ruolo dei sovrintendenti
 
@@ -214,7 +214,7 @@ sovrintendente;
 
 sovrintendente capo.
 
-##### Art. 8
+#### Art. 8
 
 Funzioni del personale appartenente al ruolo
 
@@ -224,7 +224,7 @@ dei sovrintendenti
 
 2\. Detto personale, nell'ambito dei compiti istituzionali, svolge anche in collaborazione con personale delle qualifiche superiori attivita' istruttoria nel contesto di prescrizioni di massima e di procedure predeterminate con ricorso a margini di iniziativa e di discrezionalita' inerenti anche alle qualifiche attribuite, con mansioni progressive di coordinamento di personale con qualifica inferiore o di direzione di piccole unita' operative, nonche' di sostituzione del superiore gerarchico in caso di assenza o di impedimento; provvede alle attivita' accessorie necessarie all'assolvimento delle proprie mansioni, con l'utilizzazione anche di apparecchiature e sistemi di uso complesso. Il personale del ruolo dei sovrintendenti in relazione alla professionalita' posseduta svolge anche compiti di addestramento.
 
-##### Art. 9
+#### Art. 9
 
 Nomina a vice sovrintendente
 
@@ -240,7 +240,7 @@ a) nel limite del ((quaranta per cento)) dei posti disponibili al 31 dicembre di
 
 4\. La nomina a vice sovrintendente e' conferita secondo l'ordine di graduatoria risultante dagli esami di fine corso ((con decorrenza giuridica dal 1 gennaio dell'anno successivo a quello di riferimento e con decorrenza economica dal giorno successivo alla data di conclusione del corso medesimo. I vincitori del concorso di cui al comma 1, lettera b), precedono in ruolo i vicintori del concorso di cui alla lettera a) dello stesso comma.))
 
-##### Art. 10
+#### Art. 10
 
 Dimissioni dal corso
 
@@ -268,19 +268,19 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 28 febbraio 2001, n. 87 ha disposto (con l'art. 32, comma 3) che l'espressione "direttore generale della Direzione generale delle risorse forestali, montane e idriche", di cui al presente comma, deve intendersi riferita al "Capo del Corpo forestale dello Stato".
 
-##### Art. 11
+#### Art. 11
 
 Promozione a sovrintendente
 
 1\. La promozione a sovrintendente si consegue a ruolo aperto mediante scrutinio ((per merito assoluto)) al quale sono ammessi i vice sovrintendenti con sette anni di effettivo servizio nella qualifica.
 
-##### Art. 12
+#### Art. 12
 
 Promozione a sovrintendente capo
 
 1\. La promozione alla qualifica di sovrintendente capo si consegue a ruolo aperto mediante scrutinio per merito comparativo al quale sono ammessi i sovrintendenti con sette anni di effettivo servizio nella qualifica.
 
-##### Art. 13
+#### Art. 13
 
 Ruolo degli ispettori
 
@@ -294,7 +294,7 @@ ispettore capo;
 
 ispettore superiore.
 
-##### Art. 14
+#### Art. 14
 
 Funzioni del personale del ruolo degli ispettori
 
@@ -302,7 +302,7 @@ Funzioni del personale del ruolo degli ispettori
 
 2\. Detto personale, nell'ambito di compiti istituzionali, puo' essere preposto ad unita' organiche operative ed organizzative con margini di iniziativa e discrezionalita' inerenti anche alle qualifiche attribuite, coordina e promuove l'attivita' di qualifiche inferiori con l'emanazione di programmi ed istruzioni specifiche per l'individuazione di obiettivi qualitativi, quantitativi e temporali da conseguire con piena responsabilita' dell'attivita' svolta; collabora alla predisposizione di programmi relativi al servizio concorrendo all'attuazione dei medesimi nonche' alla predisposizione di atti e provvedimenti di competenza degli ufficiali sostituendoli in caso di assenza o impedimento nelle attivita' di polizia giudiziaria e di pubblica sicurezza; provvede ove occorra alle attivita' necessarie all'assolvimento delle proprie mansioni, con l'utilizzazione anche di apparecchiature specializzate e sistemi autonomi gestibili con programmi variabili entro procedure generali determinate. Il personale del ruolo degli ispettori svolge, in relazione alla professionalita' posseduta, compiti di formazione e di istruzione.
 
-##### Art. 15
+#### Art. 15
 
 Nomina a vice ispettore
 
@@ -316,7 +316,7 @@ b) nel limite del cinquanta per cento dei posti disponibili mediante concorso in
 
 3\. Non puo' partecipare al concorso interno di cui al comma 1, lettera b), ne' usufruire della riserva di cui alla lettera a) il personale che abbia riportato nell'ultimo biennio sanzioni disciplinari o un giudizio complessivo inferiore a "buono con punti otto".
 
-##### Art. 16
+#### Art. 16
 
 Concorso pubblico
 
@@ -334,7 +334,7 @@ d) per gli appartenenti al ruolo degli agenti e assistenti e dei sovrintendenti 
 
 3\. La prova d'esame e' preceduta da una prova preliminare a carattere generale mediante idonei test il cui superamento costituisce requisito essenziale per la successiva partecipazione al concorso. Le modalita' di svolgimento di tale prova, nonche' la composizione della commissione esaminatrice sono fissate con decreto ministeriale.
 
-##### Art. 17
+#### Art. 17
 
 Concorso interno
 
@@ -350,7 +350,7 @@ Concorso interno
 
 6\. Il personale gia' appartenente ai ruoli del Corpo forestale dello Stato ammesso al corso conserva la qualifica rivestita all'atto dell'ammissione.
 
-##### Art. 18
+#### Art. 18
 
 Corso per la nomina a vice ispettore in prova
 
@@ -380,19 +380,19 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 28 febbraio 2001, n. 87 ha disposto (con l'art. 32, comma 3) che l'espressione "direttore generale della Direzione generale delle risorse forestali, montane e idriche", di cui al presente comma, deve intendersi riferita al "Capo del Corpo forestale dello Stato".
 
-##### Art. 19
+#### Art. 19
 
 Promozione a ispettore
 
 1\. La promozione alla qualifica di ispettore si consegue a ruolo aperto mediante scrutinio per merito assoluto, al quale e' ammesso il personale con qualifica di vice ispettore che abbia compiuto nella stessa almeno due anni di effettivo servizio, oltre al periodo di frequenza del corso.
 
-##### Art. 20
+#### Art. 20
 
 Promozione a ispettore capo
 
 1\. La promozione alla qualifica di ispettore capo si consegue a ruolo aperto mediante scrutinio ((per merito assoluto)), al quale e' ammesso il personale con la qualifica di ispettore, che abbia compiuto almeno sette anni di effettivo servizio nella qualifica stessa.
 
-##### Art. 21
+#### Art. 21
 
 Promozione alla qualifica di ispettore superiore
 
@@ -406,11 +406,11 @@ b) per il restante cinquanta per cento dei posti mediante concorso annuale per t
 
 3\. Le modalita' di svolgimento del concorso di cui al commma 1, lettera b), compresa la determinazione delle prove di esame e la composizione della Commissione esaminatrice, sono fissate con decreto ministeriale.
 
-##### Art. 21-bis
+#### Art. 21-bis
 
 (( ARTICOLO ABROGATO DAL D.LGS. 30 MAGGIO 2003, N. 193 ))
 
-##### Art. 21-ter
+#### Art. 21-ter
 
 Riconoscimento della denominazione di "scelto"
 
@@ -426,11 +426,11 @@ agli ispettori superiori
 
 6\. Agli ispettori superiori "scelti" possono essere affidate, nell'ambito delle funzioni di cui all'articolo 14, comma 2, funzioni vicarie del responsabile di unita' organiche operative in cui, oltre al funzionario preposto, non vi siano altri direttivi. Con decreto del capo del Corpo forestale dello Stato sono individuate le unita' nell'ambito delle quali agli ispettori superiori "scelti" possono essere affidate le funzioni predette, nonche' ulteriori funzioni di particolare rilevanza tra quelle di cui al medesimo articolo 14, comma 2.
 
-##### Art. 21-quater
+#### Art. 21-quater
 
 (( ARTICOLO ABROGATO DAL D.LGS. 30 MAGGIO 2003, N. 193 ))
 
-##### Art. 22
+#### Art. 22
 
 Promozione per merito straordinario
 
@@ -438,7 +438,7 @@ Promozione per merito straordinario
 
 2\. Al personale con la qualifica di sovrintendente capo e ispettore superiore, che si trovi nelle condizioni previste dal comma 1, sono attribuiti tre scatti stipendiali.
 
-##### Art. 23
+#### Art. 23
 
 Decorrenza delle promozioni per merito straordinario
 
@@ -458,7 +458,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 28 febbraio 2001, n. 87 ha disposto (con l'art. 32, comma 3) che l'espressione "direttore generale della Direzione generale delle risorse forestali, montane e idriche", di cui al presente comma, deve intendersi riferita al "Capo del Corpo forestale dello Stato".
 
-##### Art. 23-bis
+#### Art. 23-bis
 
 (( (Utilizzazione del personale non idoneo o con quindici anni di servizio). ))
 
@@ -472,7 +472,7 @@ sovrintendenti e degli ispettori del Corpo forestale dello Stato, giudicato asso
 
 4\. Dalla data di entrata in vigore del regolamento di cui al comma 3, sono abrogati gli articoli 10, 11 e 12 della legge 18 febbraio 1963, n. 301. ))
 
-##### Art. 24
+#### Art. 24
 
 Disposizioni diverse
 
@@ -480,11 +480,9 @@ Disposizioni diverse
 
 ## Capo I - RIORDINAMENTO DI RUOLI DEL PERSONALE DEL CORPO FORESTALE DELLO STATO
 
-### Sezione II - RIORDINAMENTO DI RUOLI DEL PERSONALE CHE ESPLETA ATTIVITA'
+### Sezione II - RIORDINAMENTO DI RUOLI DEL PERSONALE CHE ESPLETA ATTIVITA' TECNICO-SCIENTIFICA, TECNICO-STRUMENTALE ED AMMINISTRATIVA.
 
-#### TECNICO-SCIENTIFICA, TECNICO-STRUMENTALE ED AMMINISTRATIVA.
-
-##### Art. 25
+#### Art. 25
 
 Istituzione dei ruoli del personale che svolge attivita'
 
@@ -512,23 +510,23 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 28 febbraio 2001, n. 87 ha disposto (con l'art. 13, comma 2) che il personale del soppresso ruolo degli aiuto operatori di cui alla lettera a) del presente articolo e' inquadrato nella qualifica di operatore del ruolo degli operatori e dei collaboratori di cui all'articolo 30 del presente decreto legislativo, secondo l'ordine di ruolo.
 
-##### Art. 26
+#### Art. 26
 
 (( ARTICOLO ABROGATO DAL D.LGS. 28 FEBBRAIO 2001, N. 87 ))
 
-##### Art. 27
+#### Art. 27
 
 (( ARTICOLO ABROGATO DAL D.LGS. 28 FEBBRAIO 2001, N. 87 ))
 
-##### Art. 28
+#### Art. 28
 
 (( ARTICOLO ABROGATO DAL D.LGS. 28 FEBBRAIO 2001, N. 87 ))
 
-##### Art. 29
+#### Art. 29
 
 (( ARTICOLO ABROGATO DAL D.LGS. 28 FEBBRAIO 2001, N. 87 ))
 
-##### Art. 30
+#### Art. 30
 
 Ruolo degli operatori e dei collaboratori
 
@@ -540,7 +538,7 @@ collaboratore;
 
 collaboratore capo.
 
-##### Art. 31
+#### Art. 31
 
 Mansioni del personale appartenente al ruolo
 
@@ -550,7 +548,7 @@ degli operatori e dei collaboratori
 
 2\. I collaboratori ed i collaboratori capo possono, in relazione alla professionalita' posseduta, svolgere compiti di addestramento del personale sottordinato ed avere responsabilita' di guida e di controllo di altre persone.
 
-##### Art. 32
+#### Art. 32
 
 Nomina ad operatore
 
@@ -590,13 +588,13 @@ professionale, la determinazione e le modalita' di svolgimento delle prove d'esa
 
 12\. (COMMA SOPPRESSO DAL D.LGS. 28 FEBBRAIO 2001, N. 87)
 
-##### Art. 33
+#### Art. 33
 
 Promozione ad operatore scelto, collaboratore e collaboratore capo
 
 1\. Nell'ambito del ruolo degli operatori e dei collaboratori la promozione da una qualifica all'altra si consegue a ruolo aperto, mediante scrutinio per merito assoluto, al quale sono ammessi coloro che alla data dello scrutinio abbiano compiuto cinque anni di effettivo servizio nella qualifica inferiore ((compreso, ai fini della promozione a operatore scelto, il periodo di frequenza del corso )).
 
-##### Art. 34
+#### Art. 34
 
 Ruolo dei revisori
 
@@ -608,7 +606,7 @@ revisore;
 
 revisore capo.
 
-##### Art. 35
+#### Art. 35
 
 Mansioni del personale appartenente al ruolo dei revisori
 
@@ -618,7 +616,7 @@ Mansioni del personale appartenente al ruolo dei revisori
 
 3\. Al personale della qualifica di revisore capo, oltre a quanto gia' specificato, possono essere attribuiti incarichi specialistici richiedenti particolari conoscenze ed attitudini ed essere attribuiti compiti di addestramento del personale sottordinato.
 
-##### Art. 36
+#### Art. 36
 
 Nomina a vice revisore
 
@@ -652,19 +650,19 @@ b) nel limite del restante trenta per cento dei posti disponibili, mediante conc
 
 11\. Il personale del Corpo forestale dello Stato che partecipa ai concorsi di cui al comma 1 che non supera il periodo di prova viene reintegrato nel ruolo di provenienza conservandone la qualifica, l'anzianita' ed il posto di ruolo.
 
-##### Art. 37
+#### Art. 37
 
 (( (Promozione alla qualifica di revisore). ))
 
 ((1. La promozione alla qualifica di revisore si consegue a ruolo aperto mediante scrutinio per merito assoluto al quale sono ammessi i vice revisori che abbiano compiuto sette anni di effettivo servizio nella qualifica)).
 
-##### Art. 37-bis
+#### Art. 37-bis
 
 (( (Promozione alla qualifica di revisore capo). ))
 
 (( 1. La promozione alla qualifica di revisore capo si consegue a ruolo aperto mediante scrutinio per merito comparativo al quale sono ammessi i revisori che abbiano compiuto sette anni di effettivo servizio nella qualifica)).
 
-##### Art. 38
+#### Art. 38
 
 Mobilita' nell'ambito della qualifica del personale dei ruoli degli aiuto operatori, degli operatori e collaboratori e dei revisori
 
@@ -672,7 +670,7 @@ Mobilita' nell'ambito della qualifica del personale dei ruoli degli aiuto operat
 
 2\. I programmi, le modalita' di svolgimento e la durata dei corsi di qualificazione sono fissati con decreto ministeriale.
 
-##### Art. 39
+#### Art. 39
 
 Ruolo dei periti
 
@@ -686,7 +684,7 @@ perito capo;
 
 perito superiore.
 
-##### Art. 40
+#### Art. 40
 
 Funzioni del personale appartenente al ruolo dei periti
 
@@ -700,7 +698,7 @@ Funzioni del personale appartenente al ruolo dei periti
 
 5\. Nell'ambito del ruolo dei periti, il personale appartenente alle qualifiche di vice perito, perito e perito capo in caso di impedimento o di assenza puo' sostituire il superiore gerarchico.
 
-##### Art. 41
+#### Art. 41
 
 Nomina a vice perito
 
@@ -710,7 +708,7 @@ a) nel limite del cinquanta per cento dei posti disponibili mediante concorso pu
 
 b) per il restante cinquanta per cento mediante concorso interno per titoli ed esami.
 
-##### Art. 42
+#### Art. 42
 
 Concorso pubblico per la nomina a vice perito
 
@@ -728,7 +726,7 @@ Concorso pubblico per la nomina a vice perito
 
 6\. I posti riservati non coperti sono conferiti agli altri concorrenti secondo la graduatoria di merito.
 
-##### Art. 43
+#### Art. 43
 
 Concorso interno per la nomina a vice perito
 
@@ -738,7 +736,7 @@ Concorso interno per la nomina a vice perito
 
 3\. Al termine del concorso sono compilate tante graduatorie quanti sono i profili professionali previsti dal bando. I candidati collocatisi utilmente nella graduatoria di merito di ciascun profilo sono dichiarati vincitori del concorso ((. . .)).
 
-##### Art. 44
+#### Art. 44
 
 Corso di formazione
 
@@ -752,19 +750,19 @@ Corso di formazione
 
 5\. Al personale del Corpo forestale dello Stato che partecipa ai concorsi di cui all'art. 41, si applicano le disposizioni di cui ai commi 8 ed 11 dell'art. 36. Lo stesso puo' ripetere il corso di cui al comma 1 per una sola volta.
 
-##### Art. 45
+#### Art. 45
 
 Promozione alla qualifica di perito
 
 1\. La promozione alla qualifica di perito si consegue, a ruolo aperto, mediante scrutinio per merito assoluto al quale sono ammessi i vice periti che abbiano compiuti almeno due anni di effettivo servizio nella qualifica oltre al periodo di frequenza del corso di cui all'art. 44.
 
-##### Art. 46
+#### Art. 46
 
 Promozione alla qualifica di perito capo
 
 1\. La promozione alla qualifica di perito capo si consegue a ruolo aperto, mediante scrutinio ((per merito assoluto)) al quale e' ammesso il personale con qualifica di perito che abbia compiuto almeno sette anni di effettivo servizio nella qualifica stessa.
 
-##### Art. 47
+#### Art. 47
 
 Promozione alla qualifica di perito superiore
 
@@ -788,11 +786,11 @@ AGGIORNAMENTO (2)
 
 Il D.Lgs. 28 febbraio 2001, n. 87 ha disposto (con l'art. 25) che all'articolo 47, comma 3, le parole "nonche', ove sia previsto, dall'abilitazione all'esercizio dell'attivita' inerente al profilo professionale per il quale si concorre" sono soppresse."
 
-##### Art. 47-bis
+#### Art. 47-bis
 
 (( ARTICOLO ABROGATO DAL D.LGS. 30 MAGGIO 2003, N. 193 ))
 
-##### Art. 47-ter - Riconoscimento della denominazione di "scelto" ai periti superiori
+#### Art. 47-ter - Riconoscimento della denominazione di "scelto" ai periti superiori
 
 1\. I periti superiori che al 1 gennaio di ogni anno abbiano
 
@@ -812,11 +810,11 @@ AGGIORNAMENTO (5)
 
 Il D. Lgs. 30 maggio 2003, n. 193 ha disposto (con l'art. 12, comma 6, lettera a)) che la modifica apportata al comma 1 del presente articolo ha effetto a decorrere dal 1° gennaio 2005.
 
-##### Art. 47-quater
+#### Art. 47-quater
 
 (( ARTICOLO ABROGATO DAL D.LGS. 30 MAGGIO 2003, N. 193 ))
 
-##### Art. 48
+#### Art. 48
 
 Rapporto informativo e giudizio complessivo
 
@@ -824,7 +822,7 @@ Rapporto informativo e giudizio complessivo
 
 ((2. Al personale di cui all'articolo 1 non si applica il primo comma dell'articolo 17 della legge 11 luglio 1980, n. 312)).
 
-##### Art. 48-bis
+#### Art. 48-bis
 
 (( (Commissione per la progressione di carriera). ))
 
@@ -836,7 +834,7 @@ Rapporto informativo e giudizio complessivo
 
 ### Sezione III
 
-##### Art. 49
+#### Art. 49
 
 Trattamento economico
 
@@ -860,7 +858,7 @@ Trattamento economico
 
 1-decies. (( COMMA ABROGATO DAL D.LGS. 30 MAGGIO 2003, N. 193 )).
 
-##### Art. 50
+#### Art. 50
 
 Disposizioni diverse
 
@@ -888,13 +886,13 @@ Disposizioni diverse
 
 ## Capo II - NORME TRANSITORIE E FINALI
 
-##### Art. 51
+#### Art. 51
 
 Inquadramento nel ruolo degli agenti ed assistenti
 
 1\. Il personale che al 1 settembre 1995 riveste la qualifica di allievo guardia, guardia, guardia scelta, appuntato e appuntato scelto del previgente ruolo dei sottufficiali e guardie del Corpo forestale dello Stato privo della qualifica di ufficiale di polizia giudiziaria e' inquadrato secondo l'ordine di ruolo, con le anzianita' di qualifica e di servizio possedute, rispettivamente in quella di allievo agente, agente, agente scelto, assistente e assistente capo del ruolo degli agenti ed assistenti del Corpo forestale dello Stato.
 
-##### Art. 52
+#### Art. 52
 
 Inquadramento nel ruolo dei sovrintendenti
 
@@ -922,7 +920,7 @@ Al termine del predetto corso, il personale idoneo consegue la qualifica di uffi
 
 > "5. Le stesse norme di cui al comma 16 dell'art. 3 del decreto legge 21 settembre 1987, n. 387, convertito con modificazioni nella legge 20 novembre 1987, n. 472, si applicano agli appuntati scelti del Corpo forestale dello Stato".
 
-##### Art. 53
+#### Art. 53
 
 Inquadramento nel ruolo degli ispettori
 
@@ -952,7 +950,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 28 febbraio 2001, n. 87 ha disposto (con l'art. 29, comma 1) che il disposto di cui comma 1 del presente articolo 53, in ordine al mantenimento del trattamento economico in godimento, si interpreta nel senso che al personale interessato si applica il comma 57 dell'articolo 3 della legge 24 dicembre 1993, n. 537.
 
-##### Art. 54
+#### Art. 54
 
 Inquadramento nel ruolo degli aiuto operatori
 
@@ -960,7 +958,7 @@ Inquadramento nel ruolo degli aiuto operatori
 
 2\. Il personale che al 1 settembre 1995 appartiene ad un profilo professionale di terza qualifica funzionale della previgente dotazione organica di cui all'art. 25, comma 3, e' inquadrato, anche in soprannumero, sulla base dell'anzianita' di ruolo posseduta, dopo il personale di cui al comma 1, nella qualifica di vice aiuto operatore del ruolo degli aiuto operatori del Corpo forestale dello Stato e, se in possesso di una anzianita' di diciassette anni, in quella di aiuto operatore previo superamento di un corso straordinario di aggiornamento della durata di un mese da effettuarsi con le modalita' che saranno stabilite con decreto ministeriale, al quale sono ammessi anche i vice aiuto operatori di cui al comma 1.
 
-##### Art. 55
+#### Art. 55
 
 Inquadramento nel ruolo degli operatori e collaboratori
 
@@ -974,7 +972,7 @@ Inquadramento nel ruolo degli operatori e collaboratori
 
 5\. Il personale inquadrato ai sensi dei commi 1 e 2, conserva, anche ai fini della progressione alla qualifica superiore, l'anzianita' eccedente quella minima prevista per l'inquadramento.
 
-##### Art. 56
+#### Art. 56
 
 Inquadramento nel ruolo dei revisori
 
@@ -984,7 +982,7 @@ Inquadramento nel ruolo dei revisori
 
 3\. Il personale inquadrato ai sensi del presente articolo conserva, anche ai fini della progressione alla qualifica superiore, l'anzianita' eccedente quella minima prevista per l'inquadramento.
 
-##### Art. 57
+#### Art. 57
 
 Inquadramento nel ruolo dei periti
 
@@ -1004,7 +1002,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 28 febbraio 2001, n. 87 ha disposto (con l'art. 29, comma 1) che il disposto di cui comma 2 del presente articolo 57, in ordine al mantenimento del trattamento economico in godimento, si interpreta nel senso che al personale interessato si applica il comma 57 dell'articolo 3 della legge 24 dicembre 1993, n. 537.
 
-##### Art. 58
+#### Art. 58
 
 Inquadramenti
 
@@ -1014,13 +1012,13 @@ Inquadramenti
 
 3\. Fino al riassorbimento del soprannumero derivante dagli inquadramenti sono lasciati scoperti altrettanti posti nelle qualifiche iniziali dei singoli ruoli o nei ruoli sottordinati.
 
-##### Art. 59
+#### Art. 59
 
 Entrata in vigore
 
 1\. Le disposizioni del presente decreto legislativo si applicano con decorrenza dal 1 settembre 1995.
 
-##### Art. 60
+#### Art. 60
 
 Clausola finanziaria
 
@@ -1044,7 +1042,7 @@ Visto, il Guardasigilli: MANCUSO
 
 ## Capo II - NORME TRANSITORIE E FINALI
 
-##### Tabella A
+#### Tabella A
 
 TABELLA A
 

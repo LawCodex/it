@@ -29,15 +29,15 @@ la seguente legge:
 
 ## STATO DI PREVISIONE DEL MINISTERO DEL TESORO
 
-### Art. 1
+## Art. 1
 
 L'importo delle anticipazioni da concedere all'Azienda autonoma delle ferrovie dello Stato per l'anno finanziario 1977, fissato dall'articolo 26 della legge 23 dicembre 1976, n. 874, e' diminuito di L. 175.000.000.000.
 
-### Art. 2
+## Art. 2
 
 L'importo delle anticipazioni da concedere all'Amministrazione delle poste e delle telecomunicazioni a copertura del disavanzo di gestione dell'anno 1977, di cui all'articolo 20 della legge 23 dicembre 1976, n. 874, e' diminuito di L. 134.000.000.000.
 
-### Art. 3
+## Art. 3
 
 L'importo di cui al primo comma dell'articolo 21 della legge 23 dicembre 1976, n. 874, e' aumentato da L. 101.769.000.000 a L.
 
@@ -47,7 +47,7 @@ L'importo di L. 100.269.000.000 di cui al secondo comma dell'articolo 21 della l
 
 ## STATO DI PREVISIONE DEL MINISTERO DEI LAVORI PUBBLICI
 
-### Art. 4
+## Art. 4
 
 Lo stanziamento autorizzato dall'articolo 100 della legge 23 dicembre 1976, n. 874, e' elevato da L. 120.127.400.000 a L.
 
@@ -55,17 +55,17 @@ Lo stanziamento autorizzato dall'articolo 100 della legge 23 dicembre 1976, n. 8
 
 ## VARIAZIONI ALL'ENTRATA
 
-### Art. 5
+## Art. 5
 
 Nello stato di previsione dell'entrata per l'anno finanziario 1977 sono apportate le variazioni di cui all'annessa tabella A.
 
 ## VARIAZIONI ALLA SPESA
 
-### Art. 6
+## Art. 6
 
 Negli stati di previsione della spesa dei Ministeri del tesoro, delle finanze, di grazia e giustizia, degli affari esteri, della pubblica istruzione, dell'interno, dei trasporti, dei lavori pubblici, della difesa, dell'agricoltura e delle foreste, dell'industria, del commercio e dell'artigianato, del lavoro e della previdenza sociale, del commercio con l'estero, della sanita', del turismo e dello spettacolo, sono introdotte, per l'anno finanziario 1977, le variazioni di cui all'annessa tabella B.
 
-### Art. 7
+## Art. 7
 
 Per fronteggiare particolari esigenze di funzionamento connesse con l'applicazione del decreto del Presidente della Repubblica 26 maggio 1976, n. 411, e' autorizzata la spesa di lire 14.912 milioni da portare in aumento degli stanziamenti di cui ai sottonotati capitoli:
 
@@ -165,13 +165,13 @@ liano per il turismo . . . . . . . . . . . 2.538.000.000
 
 ## VARIAZIONI AI BILANCI DELLE AZIENDE AUTONOME
 
-### Art. 8
+## Art. 8
 
 Nei bilanci dell'Azienda autonoma delle ferrovie dello Stato, dell'Amministrazione delle poste e delle telecomunicazioni, dell'Azienda di Stato per i servizi telefonici, sono apportate, per l'anno finanziario 1977, le variazioni di cui all'annessa tabella C.
 
 ## DISPOSIZIONI DIVERSE
 
-### Art. 9
+## Art. 9
 
 L'articolo 202 della legge 23 dicembre 1976, n. 874, e' sostituito dal seguente:
 
@@ -199,7 +199,7 @@ Visto, il Guardasigilli: BONIFACIO
 
 ## DISPOSIZIONI DIVERSE
 
-### Tabella A
+## Tabella A
 
 TABELLA A
 
@@ -427,7 +427,7 @@ Cap. n. 3981 - Prelievi ed altre im-
 
 posizioni, ecc. . . . . . . . . . L. 500.000.000
 
-### Tabella B
+## Tabella B
 
 TABELLA B
 
@@ -1131,7 +1131,7 @@ del suolo . . . . . . . . . . . . - milioni 59.760
 
 In complesso. . . . . . . . . . . - milioni 49.760
 
-### Tabella C
+## Tabella C
 
 TABELLA C
 

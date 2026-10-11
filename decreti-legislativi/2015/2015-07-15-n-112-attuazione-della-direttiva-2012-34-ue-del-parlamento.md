@@ -70,11 +70,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Disposizioni Generali
 
-### Disposizioni Generali
-
-#### Art. 1
+### Art. 1
 
 Oggetto e ambito di applicazione
 
@@ -136,7 +134,7 @@ h) la definizione della strategia nazionale pluriennale di pianificazione degli 
 
 8\. Le disposizioni del presente decreto non pregiudicano la direttiva 2014/25/UE del Parlamento europeo e del Consiglio del 26 febbraio 2014, sulle procedure d'appalto degli enti erogatori nei settori dell'acqua, dell'energia, dei trasporti e dei servizi postali e che abroga la direttiva 2004/17/CE, recepita dal codice dei contratti pubblici di cui al decreto legislativo 18 aprile 2016, n. 50.
 
-#### Art. 2
+### Art. 2
 
 Principi
 
@@ -158,7 +156,7 @@ d) possibilita' di risanamento della struttura finanziaria delle imprese di prop
 
 > Per la direttiva 2012/34/UE, si veda nelle note alle premesse.
 
-#### Art. 3
+### Art. 3
 
 Definizioni
 
@@ -278,11 +276,9 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 23 novembre 2018, n. 139 ha disposto (con l'art. 20, comma 2) che la modifica del comma 1, lettera r) del presente articolo si applica a decorrere dal 1° gennaio 2019.
 
-## Capo II
+## Capo II - Imprese Ferroviarie
 
-### Imprese Ferroviarie
-
-#### Art. 4
+### Art. 4
 
 Principi
 
@@ -310,7 +306,7 @@ e) avviare nuove attivita' in settori associati all'attivita' ferroviaria.
 
 > Per il Regolamento (CE) 1370/2007, si veda nelle note all'art. 3.
 
-#### Art. 5
+### Art. 5
 
 Contabilita' e bilancio delle imprese ferroviarie
 
@@ -334,7 +330,7 @@ Contabilita' e bilancio delle imprese ferroviarie
 
 > Per la legge 22 dicembre 2011, n. 214, si veda nelle note alle premesse.
 
-#### Art. 6
+### Art. 6
 
 Accesso ed utilizzo dell'infrastruttura ferroviaria
 
@@ -358,7 +354,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 23 novembre 2018, n. 139 ha disposto (con l'art. 20, comma 2) che la presente modifica si applica a decorrere dal 1° gennaio 2019.
 
-#### Art. 7
+### Art. 7
 
 Licenza
 
@@ -382,7 +378,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 23 novembre 2018, n. 139 ha disposto (con l'art. 20, comma 2) che la presente modifica si applica a decorrere dal 1° gennaio 2019.
 
-#### Art. 8
+### Art. 8
 
 Requisiti per il rilascio della licenza
 
@@ -454,7 +450,7 @@ b) alle qualifiche del personale responsabile della sicurezza, nonche' alle moda
 
 15\. Ai fini dell'attestazione di quanto previsto al comma 13, l'impresa richiedente allega all'istanza la dichiarazione di impegno a disporre, al momento dell'inizio dell'attivita', della polizza assicurativa o della garanzia congruente con quanto stabilito nel decreto di cui al comma 14.
 
-#### Art. 9
+### Art. 9
 
 Validita' della licenza
 
@@ -504,7 +500,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 23 novembre 2018, n. 139 ha disposto (con l'art. 20, comma 2) che la presente modifica si applica a decorrere dal 1° gennaio 2019.
 
-#### Art. 10
+### Art. 10
 
 Certificato di sicurezza
 
@@ -530,11 +526,9 @@ Certificato di sicurezza
 
 > (Omissis).".
 
-## Capo III
+## Capo III - Gestore dell'infrastruttura
 
-### Gestore dell'infrastruttura
-
-#### Art. 11
+### Art. 11
 
 (( (Indipendenza del gestore dell'infrastruttura). ))
 
@@ -562,7 +556,7 @@ Certificato di sicurezza
 
 Ai capi di divisione incaricati della gestione dell'infrastruttura e della prestazione dei servizi ferroviari si applica il comma 9. Il rispetto dei requisiti di cui al presente comma e' dimostrato nelle contabilita' separate delle rispettive divisioni dell'impresa.))
 
-#### Art. 11-bis
+### Art. 11-bis
 
 (( (Imparzialita' del gestore dell'infrastruttura rispetto alla gestione del traffico e alla programmazione della manutenzione). ))
 
@@ -574,7 +568,7 @@ Qualora il gestore dell'infrastruttura conceda un ulteriore accesso al processo 
 
 3\. La programmazione a lungo termine dei lavori di grande manutenzione o rinnovo e' effettuata dal gestore dell'infrastruttura in modo non discriminatorio, e, a tal fine, il gestore dell'infrastruttura consulta i richiedenti e tiene conto, ove possibile, delle osservazioni da questi ultimi formulate.))
 
-#### Art. 11-ter
+### Art. 11-ter
 
 (( (Delega e ripartizione delle funzioni del gestore dell'infrastruttura). ))
 
@@ -588,7 +582,7 @@ b) delegare l'esecuzione di lavori e i relativi compiti circa lo sviluppo, la ma
 
 3\. Sotto la supervisione dell'organismo di regolazione, il gestore dell'infrastruttura puo' concludere accordi di cooperazione con una o piu' imprese ferroviarie in modo non discriminatorio e al fine di ottenere vantaggi per i clienti quali costi ridotti o migliori prestazioni sulla parte della rete coperta dall'accordo. L'organismo di regolazione monitora l'esecuzione di tali accordi e puo', in casi giustificati, raccomandare di porvi termine.))
 
-#### Art. 11-quater
+### Art. 11-quater
 
 (( (Trasparenza finanziaria). ))
 
@@ -614,7 +608,7 @@ b) delegare l'esecuzione di lavori e i relativi compiti circa lo sviluppo, la ma
 
 11\. I riferimenti di cui al presente articolo relativi al gestore dell'infrastruttura, all'impresa ferroviaria e ad altre entita' giuridiche di un'impresa ad integrazione verticale, si intendono riferiti anche alle rispettive divisioni dell'impresa)).
 
-#### Art. 11-quinquies
+### Art. 11-quinquies
 
 (( (Meccanismi di coordinamento). ))
 
@@ -634,13 +628,13 @@ d) qualsiasi altra questione relativa alle condizioni di accesso, all'uso dell'i
 
 4\. Il coordinamento a norma del presente articolo non pregiudica il diritto dei richiedenti di adire l'organismo di regolazione ne' i poteri dello stesso ai sensi dell'articolo 37.))
 
-#### Art. 11-sexies
+### Art. 11-sexies
 
 (( (Rete europea dei gestori dell'infrastruttura). ))
 
 ((1. Il gestore dell'infrastruttura ferroviaria nazionale partecipa alla rete europea dei gestori dell'infrastruttura di cui all'articolo 7-septies della direttiva 2012/34/UE del Parlamento europeo e del Consiglio. E' in ogni caso fatto salvo il diritto del richiedente di adire l'organismo di regolazione secondo quanto previsto dall'articolo 37, anche in relazione alle questioni oggetto dell'attivita' di coordinamento tra i gestori dell'infrastruttura.))
 
-#### Art. 12
+### Art. 12
 
 Condizioni di accesso all'infrastruttura ferroviaria
 
@@ -678,7 +672,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 23 novembre 2018, n. 139 ha disposto (con l'art. 20, comma 2) che la modifica dei commi 2, 5, 6, 7 e 9 del presente articolo si applica a decorrere dal 1° gennaio 2019.
 
-#### Art. 12-bis
+### Art. 12-bis
 
 (( (Servizi di trasporto passeggeri ad alta velocita'). ))
 
@@ -686,7 +680,7 @@ Il D.Lgs. 23 novembre 2018, n. 139 ha disposto (con l'art. 20, comma 2) che la m
 
 2\. Qualora, a seguito dell'analisi prevista dall'articolo 12, commi 6 e 7, l'organismo di regolazione determini che il servizio di trasporto passeggeri ad alta velocita' previsto tra un dato punto di partenza e una data destinazione compromette l'equilibrio economico di un contratto di servizio pubblico che copre lo stesso percorso o un percorso alternativo, l'organismo di regolazione indica le eventuali modifiche al servizio che permetterebbero di soddisfare le condizioni per la concessione del diritto di accesso di cui all'articolo 12, comma 6. Tali modifiche possono includere una modifica del servizio previsto.))
 
-#### Art. 13
+### Art. 13
 
 Condizioni di accesso ai servizi
 
@@ -786,11 +780,11 @@ e) servizi di manutenzione pesante prestati in centri di manutenzione dedicati a
 
 > Per la direttiva 2012/34/UE, si veda nelle note alle premesse.
 
-#### Art. 13-bis
+### Art. 13-bis
 
 ((ARTICOLO ABROGATO DAL D.L. 30 APRILE 2022, N. 36, CONVERTITO CON MODIFICAZIONI DALLA L. 29 GIUGNO 2022, N. 79))
 
-#### Art. 14
+### Art. 14
 
 Prospetto informativo della rete
 
@@ -804,7 +798,7 @@ Prospetto informativo della rete
 
 5\. Il prospetto informativo della rete e' pubblicato in lingua italiana ed in un'altra delle lingue ufficiali dell'Unione almeno quattro mesi prima della scadenza del termine per la presentazione delle richieste di assegnazione di capacita' d'infrastruttura.
 
-#### Art. 15
+### Art. 15
 
 Rapporti tra il gestore dell'infrastruttura ferroviaria nazionale e lo Stato
 
@@ -840,7 +834,7 @@ Il finanziamento puo' essere assicurato con mezzi diversi dai contributi statali
 
 8\. Il gestore dell'infrastruttura entro un anno dall'entrata in vigore del presente decreto legislativo, mette a punto e aggiorna annualmente un registro dei propri beni e dei beni della cui gestione e' responsabile, dandone adeguata informativa al Ministero delle infrastrutture e dei trasporti. Tale registro deve essere corredato delle spese dettagliate per il rinnovo e il potenziamento dell'infrastruttura ferroviaria e viene utilizzato per valutare il finanziamento necessario alla loro riparazione o sostituzione.
 
-#### Art. 16
+### Art. 16
 
 Costo dell'infrastruttura nazionale e contabilita'
 
@@ -852,11 +846,9 @@ Costo dell'infrastruttura nazionale e contabilita'
 
 4\. Fatto salvo l'eventuale obiettivo a lungo termine della copertura da parte dell'utilizzatore dei costi di infrastruttura per tutti i modi di trasporto sulla base di una concorrenza intermodale equa e non discriminatoria, quando il trasporto ferroviario e' competitivo rispetto ad altri modi di trasporto, nell'ambito dei principi di imposizione dei canoni di cui agli articoli 17 e 18, il gestore dell'infrastruttura deve tendere ad un equilibrio della contabilita' senza contributi statali.
 
-## Capo IV
+## Capo IV - Canoni
 
-### Canoni
-
-#### Art. 17
+### Art. 17
 
 Canoni per l'utilizzo dell'infrastruttura ferroviaria e dei servizi
 
@@ -894,7 +886,7 @@ L'applicazione del canone in parola ai richiedenti cui sia stata assegnata una t
 
 > Il Regolamento (UE) n. 429/2015 e' pubblicato nella G.U.U.E. 14 marzo 2015, n. L 70.
 
-#### Art. 18
+### Art. 18
 
 Deroghe ai principi di imposizione dei canoni di accesso
 
@@ -952,7 +944,7 @@ I sistemi di riduzione si applicano in modo non discriminatorio a qualsiasi impr
 
 14\. Ogni modifica degli elementi essenziali del sistema di imposizione dei canoni deve essere resa pubblica con almeno tre mesi di anticipo rispetto al termine per la pubblicazione del prospetto informativo della rete.
 
-#### Art. 19
+### Art. 19
 
 Sistema di compensazione per la mancata copertura dei costi ambientali, dei costi connessi ad incidenti e dei costi di infrastruttura
 
@@ -966,7 +958,7 @@ Sistema di compensazione per la mancata copertura dei costi ambientali, dei cost
 
 > Per i riferimenti al Trattato sul funzionamento dell'Unione europea, si veda nelle note all'art. 2.
 
-#### Art. 20
+### Art. 20
 
 Cooperazione in materia di sistemi di imposizione dei canoni su piu' reti
 
@@ -974,7 +966,7 @@ Cooperazione in materia di sistemi di imposizione dei canoni su piu' reti
 
 2\. Ai fini del comma 1, i gestori dell'infrastruttura cooperano al fine di consentire l'efficiente applicazione dei coefficienti di maggiorazione di cui all'articolo 18 e del sistema di controllo delle prestazioni di cui all'articolo 21 al traffico che interessa piu' di una rete del sistema ferroviario all'interno dell'Unione.
 
-#### Art. 21
+### Art. 21
 
 Sistema di controllo delle prestazioni del trasporto ferroviario
 
@@ -986,11 +978,9 @@ Sistema di controllo delle prestazioni del trasporto ferroviario
 
 > Per la direttiva 2012/34/UE, si veda nelle note alle premesse.
 
-## Capo V
+## Capo V - Assegnazione della Capacita' di Infrastruttura
 
-### Assegnazione della Capacita' di Infrastruttura
-
-#### Art. 22
+### Art. 22
 
 Diritti connessi alla capacita'
 
@@ -1022,7 +1012,7 @@ c) la riservatezza commerciale delle informazioni ricevute.
 
 > Per la direttiva 2012/34/UE, si veda nelle note alle premesse.
 
-#### Art. 23
+### Art. 23
 
 Accordi quadro
 
@@ -1052,7 +1042,7 @@ In tali casi eccezionali l'accordo quadro puo' fissare in maniera particolareggi
 
 > Per la direttiva 2012/34/UE, si veda nelle note alle premesse.
 
-#### Art. 24
+### Art. 24
 
 Richieste di tracce orarie
 
@@ -1070,7 +1060,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 23 novembre 2018, n. 139 ha disposto (con l'art. 20, comma 2) che la presente modifica si applica a decorrere dal 1° gennaio 2019.
 
-#### Art. 25
+### Art. 25
 
 Contratto di utilizzo dell'infrastruttura
 
@@ -1088,7 +1078,7 @@ Contratto di utilizzo dell'infrastruttura
 
 > Per la direttiva 2012/34/UE, si veda nelle note alle premesse.
 
-#### Art. 26
+### Art. 26
 
 Assegnazione di capacita'
 
@@ -1112,7 +1102,7 @@ Assegnazione di capacita'
 
 > Il Regolamento (CE) 1370/2007, e' pubblicato nella G.U.U.E. 3 dicembre 2007, n. L 315.
 
-#### Art. 27
+### Art. 27
 
 Cooperazione per l'assegnazione della capacita' di infrastruttura
 
@@ -1126,7 +1116,7 @@ Cooperazione per l'assegnazione della capacita' di infrastruttura
 
 5\. Nell'ambito della cooperazione di cui al comma 1, i gestori dell'infrastruttura valutano le esigenze ed eventualmente propongono e organizzano tracce orarie internazionali per facilitare la circolazione di treni merci che sono oggetto di una richiesta specifica secondo quanto previsto all'articolo 30. Queste tracce orarie internazionali, previamente convenute, sono comunicate ai richiedenti a cura di uno dei gestori dell'infrastruttura partecipanti.
 
-#### Art. 28
+### Art. 28
 
 Procedura di programmazione e coordinamento
 
@@ -1154,7 +1144,7 @@ A norma dell'articolo 11, ((comma 10)), dette informazioni sono fornite senza ch
 
 7\. Fatti salvi i rimedi giurisdizionali previsti dall'ordinamento nazionale e le disposizioni di cui all'articolo 37, in caso di vertenze relative all'assegnazione della capacita' di infrastruttura, il gestore dell'infrastruttura predispone un sistema di risoluzione delle vertenze al fine di giungere alla rapida soluzione delle stesse. Questo sistema e' illustrato nel prospetto informativo della rete. Le decisioni in merito sono adottate dal gestore dell'infrastruttura entro dieci giorni lavorativi.
 
-#### Art. 29
+### Art. 29
 
 Infrastruttura saturata
 
@@ -1170,7 +1160,7 @@ Infrastruttura saturata
 
 6\. Le procedure da seguire e i criteri da applicare quando l'infrastruttura e' a capacita' saturata sono indicati nel prospetto informativo della rete.
 
-#### Art. 30
+### Art. 30
 
 Richieste specifiche
 
@@ -1178,7 +1168,7 @@ Richieste specifiche
 
 2\. Il gestore dell'infrastruttura valuta la necessita' di tenere a disposizione, nell'ambito dell'orario definitivo di servizio, capacita' di riserva per poter rispondere rapidamente a prevedibili richieste specifiche di capacita'. Tale principio vale anche per infrastrutture saturate.
 
-#### Art. 31
+### Art. 31
 
 Infrastruttura specializzata
 
@@ -1188,7 +1178,7 @@ Infrastruttura specializzata
 
 3\. In caso di designazione di un'infrastruttura a norma del comma 2 ne e' fatta menzione nel prospetto informativo della rete.
 
-#### Art. 32
+### Art. 32
 
 Analisi della capacita'
 
@@ -1200,7 +1190,7 @@ L'analisi della capacita' individua i motivi della saturazione e le misure da ad
 
 3\. L'analisi della capacita' deve essere completata entro sei mesi dal momento in cui l'infrastruttura e' stata dichiarata saturata.
 
-#### Art. 33
+### Art. 33
 
 Piano di potenziamento della capacita'
 
@@ -1232,7 +1222,7 @@ a) il piano di potenziamento della capacita' non puo' essere attuato per ragioni
 
 b) le opzioni disponibili non sono economicamente o finanziariamente valide.
 
-#### Art. 34
+### Art. 34
 
 Utilizzo delle tracce orarie
 
@@ -1240,7 +1230,7 @@ Utilizzo delle tracce orarie
 
 2\. Nel prospetto informativo della rete, il gestore dell'infrastruttura indica le condizioni in base alle quali si terra' conto dei precedenti livelli di utilizzo delle tracce orarie nella determinazione delle priorita' nella procedura di assegnazione di capacita'.
 
-#### Art. 35
+### Art. 35
 
 Capacita' di infrastruttura per i lavori di manutenzione
 
@@ -1250,7 +1240,7 @@ Capacita' di infrastruttura per i lavori di manutenzione
 
 3\. Il gestore dell'infrastruttura informa al piu' presto le parti interessate dell'indisponibilita' di capacita' di infrastruttura a causa di lavori di manutenzione non programmata. ((L'organismo di regolazione puo' imporre al gestore dell'infrastruttura di fornirgli tali informazioni, qualora lo ritenga necessario.))
 
-#### Art. 36
+### Art. 36
 
 Misure speciali da adottare in caso di perturbazioni
 
@@ -1262,7 +1252,7 @@ Misure speciali da adottare in caso di perturbazioni
 
 ((3-bis. Le imprese ferroviarie che effettuano servizi di trasporto di passeggeri predispongono piani di emergenza e li trasmettono al gestore dell'infrastruttura affinche' siano adeguatamente coordinati per fornire assistenza ai passeggeri, ai sensi dell'articolo 18 del regolamento (CE) n. 1371/2007, nel caso di grave interruzione del servizio.))
 
-#### Art. 37
+### Art. 37
 
 Organismo di regolazione
 
@@ -1326,7 +1316,7 @@ c) qualora i destinatari di una richiesta dell'organismo non forniscano le infor
 
 d) in caso di reiterazione delle violazioni di cui alle lettere a), b) e c), ad irrogare una sanzione fino al doppio della sanzione massima prevista per ogni violazione.
 
-#### Art. 38
+### Art. 38
 
 Cooperazione tra organismi di regolazione
 
@@ -1350,7 +1340,7 @@ Cooperazione tra organismi di regolazione
 
 9\. L'organismo di regolazione riesamina le decisioni e le pratiche di associazione dei gestori dell'infrastruttura di cui all'articolo 17 e all'articolo 27, comma 1, che attuano le disposizioni del presente decreto o facilitano in altro modo il trasporto ferroviario internazionale.
 
-#### Art. 39
+### Art. 39
 
 Principi generali degli accordi transfrontalieri
 
@@ -1366,7 +1356,7 @@ La Commissione decide sulla conformita' di tali accordi al diritto europeo.
 
 5\. In tutti gli altri casi, qualora entro un anno dall'avvio del negoziato non si fosse trovato un possibile accordo, con la delegazione dell'altro Stato membro o Paese terzo, per la risoluzione delle difformita' rispetto al diritto europeo, il Ministro degli affari esteri e della cooperazione internazionale avvia la necessaria procedura di denuncia dell'accordo.
 
-#### Art. 40
+### Art. 40
 
 Monitoraggio del mercato
 
@@ -1396,7 +1386,7 @@ Monitoraggio del mercato
 
 > Il Regolamento (CE) n. 45/2001 e' pubblicato nella G.U.C.E. 12 gennaio 2001, n. L 8.
 
-#### Art. 41
+### Art. 41
 
 Ulteriori obblighi delle imprese ferroviarie
 
@@ -1412,11 +1402,9 @@ d) requisiti applicabili a tutte le imprese nel pertinente settore ferroviario d
 
 2\. E' fatto obbligo alle imprese ferroviarie di rispettare gli accordi applicabili ai trasporti ferroviari internazionali, nonche' le pertinenti disposizioni fiscali e doganali.
 
-## Capo VI
+## Capo VI - Disposizioni Finali
 
-### Disposizioni Finali
-
-#### Art. 42
+### Art. 42
 
 Norme abrogate
 
@@ -1444,7 +1432,7 @@ d) il decreto del Presidente della Repubblica 16 marzo 1999, n. 146, recante nor
 
 > Le direttive 95/18/CE e 95/19/CE sono pubblicate nella G.U.C.E. 27 giugno 1995, n. L 143.
 
-#### Art. 43
+### Art. 43
 
 Clausola di cedevolezza espressa
 
@@ -1454,7 +1442,7 @@ Clausola di cedevolezza espressa
 
 > Per la direttiva 2012/34/UE, si veda nelle note alle premesse.
 
-#### Art. 44
+### Art. 44
 
 Clausola di invarianza finanziaria
 
@@ -1462,7 +1450,7 @@ Clausola di invarianza finanziaria
 
 2\. Le amministrazioni interessate provvedono agli adempimenti previsti dal presente decreto con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-#### Art. 45
+### Art. 45
 
 Entrata in vigore
 
@@ -1488,7 +1476,7 @@ Visto, il Guardasigilli: Orlando
 
 ## Allegati
 
-#### Allegato I
+### Allegato I
 
 Allegato I
 
@@ -1516,7 +1504,7 @@ impianti per la trasformazione e il trasporto di energia elettrica per la trazio
 
 edifici adibiti al servizio delle infrastrutture, compresa una percentuale degli impianti per la riscossione dei canoni di trasporto.
 
-#### Allegato II
+### Allegato II
 
 Allegato II
 
@@ -1558,7 +1546,7 @@ f) protezione ambientale;
 
 Gli elementi minimi del presente allegato dovranno essere ricompresi nei singoli contratti di programma in coerenza con l'oggetto degli stessi.
 
-#### Allegato III
+### Allegato III
 
 Allegato III
 
@@ -1576,7 +1564,7 @@ DI ASSEGNAZIONE
 
 5\. Entro i quattro mesi successivi alla scadenza del termine per la presentazione delle offerte da parte dei richiedenti il gestore dell'infrastruttura predispone un progetto di orario di servizio.
 
-#### Allegato IV
+### Allegato IV
 
 Allegato IV
 
@@ -1618,7 +1606,7 @@ e) conto economico;
 
 f) note di supporto che illustrano in dettaglio e spiegano le dichiarazioni, ove necessario.
 
-#### Allegato V
+### Allegato V
 
 Allegato V
 

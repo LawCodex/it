@@ -28,7 +28,7 @@ la seguente legge:
 
 ## AMMINISTRAZIONI DELLO STATO
 
-### Art. 1 - Entrate
+## Art. 1 - Entrate
 
 1\. Le entrate tributarie, extratributarie, per alienazione ed ammortamento di beni patrimoniali e riscossione di crediti, e per accensione di prestiti, ((accertate nell'esercizio finanziario 1986)) per la competenza propria dell'esercizio, risultano stabilite in lire 394.132.146.500.519.
 
@@ -38,7 +38,7 @@ la seguente legge:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 2 - Spese
+## Art. 2 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di prestiti, impegnate nell'esercizio finanziario 1986 per la competenza propria dell'esercizio, risultano stabilite in lire 452.227.064.035.728.
 
@@ -48,7 +48,7 @@ la seguente legge:
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 3 - Disavanzo della gestione di competenza
+## Art. 3 - Disavanzo della gestione di competenza
 
 1\. Il disavanzo della gestione di competenza dell'esercizio finanziario 1986 di lire 58.094.917.535.209 risulta stabilito come segue:
 
@@ -60,7 +60,7 @@ riscossione di crediti. . . . . . . . . . . . . .L. 1.022.763.832.234 Accensione
 
 Spese correnti . . . . . . . . . . . . . . . . L. 332.960.336.476.607 Spese in conto capitale . . . . . . . . . . . . L. 73.263.629.272.999 Rimborso di prestiti. . . . . . . . . . . . . . L. 46.003.098.286.122 Totale Spese . . . . . . . . . . . . . . . . . L. 452.227.064.035.728 Disavanzo della gestione di competenza. . . . . L. 58.094.917.535.209
 
-### Art. 4 - Situazione finanziaria
+## Art. 4 - Situazione finanziaria
 
 1\. Il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 1986 di lire 319.749.610.401.792 risulta stabilito come segue:
 
@@ -90,11 +90,11 @@ Disavanzo finanziario al 31 dicembre 1986. . . L. 319.749.610.401.792
 
 ## DISPOSIZIONI SPECIALI
 
-### Art. 5 - Prelevamenti dal Fondo di riserva per le spese impreviste
+## Art. 5 - Prelevamenti dal Fondo di riserva per le spese impreviste
 
 1\. E' approvato l'allegato di cui all'articolo 9, ultimo comma, della legge 5 agosto 1978, n. 468, concernente i prelevamenti dal Fondo di riserva per le spese impreviste per l'anno 1986.
 
-### Art. 6 - Eccedenze
+## Art. 6 - Eccedenze
 
 1\. Sono approvate le eccedenze di impegni e di pagamenti risultate in sede di consuntivo rispettivamente sul conto della competenza, sul conto dei residui e sul conto della cassa, relative ai capitoli degli stati di previsione della spesa dei Ministeri sotto indicati per l'esercizio 1986, come risulta dal dettaglio che segue:
 
@@ -102,7 +102,7 @@ Disavanzo finanziario al 31 dicembre 1986. . . L. 319.749.610.401.792
 
 ## AZIENDE SPECIALI ED AUTONOME - GESTIONE DELL'EX AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### Art. 7 - Entrate
+## Art. 7 - Entrate
 
 1\. Le entrate correnti ed in conto capitale del bilancio della gestione dell'ex Azienda di Stato per le foreste demaniali, accertate nell'esercizio finanziario 1986 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo della gestione stessa, allegato al conto consuntivo del Ministero dell'agricoltura e delle foreste, in lire 41.413.855.172.
 
@@ -112,7 +112,7 @@ Disavanzo finanziario al 31 dicembre 1986. . . L. 319.749.610.401.792
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 8 - Spese
+## Art. 8 - Spese
 
 1\. Le spese correnti ed in conto capitale del bilancio della gestione predetta, impegnate nell'esercizio finanziario 1986 per la competenza propria dell'esercizio, risultano stabilite in lire 40.488.162.287.
 
@@ -135,7 +135,7 @@ dell'esercizio 1985|10.759.993.199|   5.883.070.923   |16.643.064.122
 |                  |              |  30.072.239.175
 ```
 
-### Art. 9 - Situazione finanziaria
+## Art. 9 - Situazione finanziaria
 
 1\. La situazione finanziaria della gestione dell'ex Azienda di Stato per le foreste demaniali alla fine dell'esercizio 1986 risulta come appresso:
 
@@ -159,13 +159,13 @@ Saldo attivo effettivo dell'esercizio 1985. . . . . L. 21.707.440.351 Saldo atti
 
 ## ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-### Art. 10 - Entrate
+## Art. 10 - Entrate
 
 1\. Le entrate correnti del bilancio dell'Istituto agronomico per l'Oltremare, accertate nell'esercizio finanziario 1986 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Istituto stesso, allegato al conto consuntivo del Ministero degli affari esteri, in lire 8.039.099.970 interamente versate.
 
 2\. Al 31 dicembre 1986 non risultano residui attivi.
 
-### Art. 11 - Spese
+## Art. 11 - Spese
 
 1\. Le spese correnti del bilancio dell'Istituto predetto, impegnate nell'esercizio finanziario 1986 per la competenza propria dell'esercizio, risultano stabilite in lire 8.039.099.970.
 
@@ -190,7 +190,7 @@ dell'esercizio 1985 |1.580.663.019|    992.972.584     |2.573.635.603
 
 ## AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-### Art. 12 - Entrate
+## Art. 12 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione autonoma dei monopoli di Stato, comprese quelle delle gestioni speciali, accertate nell'esercizio finanziario 1986 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero delle finanze, in lire 2.298.151.663.832.
 
@@ -200,7 +200,7 @@ dell'esercizio 1985 |1.580.663.019|    992.972.584     |2.573.635.603
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 13 - Spese
+## Art. 13 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Amministrazione predetta, comprese quelle delle gestioni speciali, impegnate nell'esercizio 1986 per la competenza propria dell'esercizio, risultano stabilite in lire 2.298.151.663.832.
 
@@ -224,7 +224,7 @@ dell'esercizio  |                 |                |
 |               |                 |662.206.358.679
 ```
 
-### Art. 14 - Riassunto generale
+## Art. 14 - Riassunto generale
 
 1\. Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione autonoma dei monopoli di Stato, di competenza dell'esercizio 1986, risulta cosi' stabilito:
 
@@ -236,7 +236,7 @@ Spese (escluse le gestioni speciali) . . . . . . L. 2.297.667.476.100
 
 Spese delle gestioni speciali. . . . . . . . . . . . . L. 484.187.732 . . . . . . . . . . . . . . . . . . . . . . . . L. 2.298.151.663.832
 
-### Art. 15 - Situazione finanziaria
+## Art. 15 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dell'esercizio 1986, risulta come appresso:
 
@@ -252,7 +252,7 @@ Saldo al 31 dicembre 1986. . . . . . . . . . . . . . . . . . . . L. -
 
 ## ARCHIVI NOTARILI
 
-### Art. 16 - Avanzo
+## Art. 16 - Avanzo
 
 1\. L'avanzo della gestione del bilancio degli Archivi notarili, per l'esercizio finanziario 1986, risulta stabilito come segue:
 
@@ -260,7 +260,7 @@ Entrate . . . . . . . . . . . . . . . . . . . . . L. 124.205.830.801 Spese. . . 
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-### Art. 17 - Entrate
+## Art. 17 - Entrate
 
 1\. Le entrate correnti ed in conto capitale del bilancio dell'Amministrazione del fondo per il culto, accertate nell'esercizio finanziario 1986 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'interno, in lire 323.929.548.228.
 
@@ -270,7 +270,7 @@ Entrate . . . . . . . . . . . . . . . . . . . . . L. 124.205.830.801 Spese. . . 
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 18 - Spese
+## Art. 18 - Spese
 
 1\. Le spese correnti ed in conto capitale del bilancio dell'Amministrazione predetta, impegnate nell'esercizio 1986 per la competenza propria dell'esercizio, risultano stabilite in lire 427.015.370.798.
 
@@ -280,7 +280,7 @@ Entrate . . . . . . . . . . . . . . . . . . . . . L. 124.205.830.801 Spese. . . 
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 19 - Situazione finanziaria
+## Art. 19 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Amministrazione del fondo per il culto, alla fine dell'esercizio 1986, risulta come appresso:
 
@@ -304,7 +304,7 @@ Saldo attivo effettivo dell'esercizio 1985 . . . . L. 103.085.822.570 Saldo al 3
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE - NELLA CITTA' DI ROMA
 
-### Art. 20 - Entrate
+## Art. 20 - Entrate
 
 1\. Le entrate correnti ed in conto capitale del bilancio del Fondo di beneficenza e di religione nella citta' di Roma, accertate nell'esercizio finanziario 1986 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'interno, in lire 4.350.757.405.
 
@@ -314,7 +314,7 @@ Saldo attivo effettivo dell'esercizio 1985 . . . . L. 103.085.822.570 Saldo al 3
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 21 - Spese
+## Art. 21 - Spese
 
 1\. Le spese correnti ed in conto capitale del bilancio dell'Amministrazione predetta, impegnate nell'esercizio finanziario 1986 per la competenza propria dell'esercizio, risultano stabilite in lire 4.665.076.079.
 
@@ -337,7 +337,7 @@ dell'esercizio 1985 |1.197.862.471 |    842.781.435    |2.040.643.906
 |                   |              |   2.320.303.734
 ```
 
-### Art. 22 - Situazione finanziaria
+## Art. 22 - Situazione finanziaria
 
 1\. La situazione finanziaria del Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1986, risulta come appresso:
 
@@ -361,7 +361,7 @@ Saldo attivo effettivo dell'esercizio 1985 . . . . . . L. 314.318.674 Saldo al 3
 
 ## PATRIMONI RIUNITI EX ECONOMALI
 
-### Art. 23 - Entrate
+## Art. 23 - Entrate
 
 1\. Le entrate correnti ed in conto capitale del bilancio dell'Azienda dei patrimoni riuniti ex economali, accertate nell'esercizio finanziario 1986 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero dell'interno, in lire 1.239.262.622.
 
@@ -371,7 +371,7 @@ Saldo attivo effettivo dell'esercizio 1985 . . . . . . L. 314.318.674 Saldo al 3
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 24 - Spese
+## Art. 24 - Spese
 
 1\. Le spese correnti ed in conto capitale del bilancio dell'Azienda predetta, impegnate nell'esercizio finanziario 1986 per la competenza propria dell'esercizio, risultano stabilite in lire 1.536.678.861.
 
@@ -394,7 +394,7 @@ dell'esercizio 1985 |433.899.260 |   553.989.432     | 987.888.692
 |            |                     |1.482.922.428
 ```
 
-### Art. 25 - Situazione finanziaria
+## Art. 25 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Azienda dei patrimoni riuniti ex economali, alla fine dell'esercizio 1986, risulta come appresso:
 
@@ -416,7 +416,7 @@ Saldo attivo effettivo dell'esercizio 1985 . . . . . . L. 306.899.110 Saldo atti
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE
 
-### Art. 26 - Entrate
+## Art. 26 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Azienda nazionale autonoma delle strade, accertate nell'esercizio finanziario 1986 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero dei lavori pubblici, in lire 5.297.993.756.397.
 
@@ -426,7 +426,7 @@ Saldo attivo effettivo dell'esercizio 1985 . . . . . . L. 306.899.110 Saldo atti
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 27 - Spese
+## Art. 27 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Azienda predetta, impegnate nell'esercizio finanziario 1986 per la competenza propria dell'esercizio, risultano stabilite in lire 5.297.993.756.397.
 
@@ -438,7 +438,7 @@ Saldo attivo effettivo dell'esercizio 1985 . . . . . . L. 306.899.110 Saldo atti
 
 ## AMMINISTRAZIONE DELLE POSTE E DELLE TELECOMUNICAZIONI
 
-### Art. 28 - Entrate
+## Art. 28 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione delle poste e delle telecomunicazioni, accertate nell'esercizio finanziario 1986 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero delle poste e delle telecomunicazioni, in lire 10.443.159.129.109.
 
@@ -448,7 +448,7 @@ Saldo attivo effettivo dell'esercizio 1985 . . . . . . L. 306.899.110 Saldo atti
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 29 - Spese
+## Art. 29 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Amministrazione predetta, impegnate nell'esercizio finanziario 1986 per la competenza propria dell'esercizio, risultano stabilite in lire 10.443.159.129.109.
 
@@ -460,7 +460,7 @@ Saldo attivo effettivo dell'esercizio 1985 . . . . . . L. 306.899.110 Saldo atti
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Art. 30 - Entrate
+## Art. 30 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Azienda di Stato per i servizi telefonici, accertate nell'esercizio finanziario 1986 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero delle poste e delle telecomunicazioni, in lire 3.182.869.152.674.
 
@@ -470,7 +470,7 @@ Saldo attivo effettivo dell'esercizio 1985 . . . . . . L. 306.899.110 Saldo atti
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 31 - Spese
+## Art. 31 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Azienda predetta, impegnate nell'esercizio finanziario 1986 per la competenza propria dell'esercizio, risultano stabilite in lire 3.182.869.152.674.
 
@@ -480,13 +480,13 @@ Saldo attivo effettivo dell'esercizio 1985 . . . . . . L. 306.899.110 Saldo atti
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 32
+## Art. 32
 
 1\. Il conto consuntivo dello Stato per l'esercizio 1986 e' approvato.
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Allegato n. 1
+## Allegato n. 1
 
 ALLEGATO n. 1
 
@@ -734,7 +734,7 @@ Tenuto conto degli utilizzi analiticamente sopra citati,
 
 residuano lire 3.259.458.000, che costituiscono economie di spesa.
 
-### Allegato n. 2
+## Allegato n. 2
 
 ALLEGATO n. 2
 

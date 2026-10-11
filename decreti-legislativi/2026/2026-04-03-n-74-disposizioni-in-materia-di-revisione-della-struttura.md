@@ -59,11 +59,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Ambito di applicazione
 
-### Ambito di applicazione
-
-#### Art. 1
+### Art. 1
 
 Oggetto e finalita'
 
@@ -283,11 +281,9 @@ Oggetto e finalita'
 
 > \- Per il testo dell'articolo 9 della legge 5 agosto 2022, n. 119, si vedano le note alle premesse.
 
-## Capo II
+## Capo II - Revisione della struttura organizzativa
 
-### Revisione della struttura organizzativa
-
-#### Art. 2
+### Art. 2
 
 Istituzione del Servizio sanitario militare nazionale
 
@@ -317,7 +313,7 @@ g) ogni altro adempimento previsto dal presente codice, dal regolamento o dalla 
 
 > \- Per i riferimenti al decreto legislativo 15 marzo 2010, n. 66, si vedano le note alle premesse.
 
-#### Art. 3
+### Art. 3
 
 Direttore della Sanita' militare
 
@@ -355,7 +351,7 @@ c) se militare, esercita la funzione di comando del Corpo unico della Sanita' mi
 
 > \- Per i riferimenti al decreto legislativo 15 marzo 2010, n. 66, si vedano le note alle premesse.
 
-#### Art. 4
+### Art. 4
 
 Riorganizzazione della Sanita' militare
 
@@ -971,11 +967,9 @@ ii) all'articolo 207, al comma 1, le parole: «dalle Forze armate al proprio per
 
 > b) una dichiarazione in francese o in inglese che precisi la natura e la data della vaccinazione e attesti che i documenti vengano rilasciati in virtu' del presente articolo.».
 
-## Capo III
+## Capo III - Revisione dell'assetto ordinativo del personale della Sanita' militare
 
-### Revisione dell'assetto ordinativo del personale della Sanita' - militare
-
-#### Art. 5
+### Art. 5
 
 Esercizio delle professioni sanitarie
 
@@ -1137,7 +1131,7 @@ d) all'articolo 213, dopo il comma 1 e' aggiunto il seguente:
 
 > 1-bis. Qualifica, compiti e formazione dei soccorritori militari per le forze speciali sono disciplinati dall'articolo 51, commi 8-ter e 8-quater del decreto-legge 17 maggio 2022, n. 50, convertito, con modificazioni, dalla legge 15 luglio 2022, n. 91.».
 
-#### Art. 6
+### Art. 6
 
 Reclutamento
 
@@ -1433,7 +1427,7 @@ u) all'articolo 705:
 
 > c) previo accertamento del possesso dei requisiti per il reclutamento in servizio permanente di cui agli articoli 635 e 640.».
 
-#### Art. 7
+### Art. 7
 
 Formazione
 
@@ -1753,7 +1747,7 @@ aa) all'articolo 773, al comma 1, le parole: «e dell'Aeronautica militare» son
 
 > 2\. Coloro che al termine del corso sono dichiarati idonei conseguono la nomina a sergente e sono inseriti in ruolo nell'ordine determinato dalla graduatoria finale del corso, con decorrenza dalla data di conclusione dello stesso.».
 
-#### Art. 8
+### Art. 8
 
 Ruoli e organici
 
@@ -2153,7 +2147,7 @@ q) all'articolo 906, al comma 1, dopo le parole: «fissate per ogni Forza armata
 
 > 2\. Il collocamento in aspettativa per riduzione dei quadri di cui al comma 1 e' disposto al 31 dicembre dell'anno di riferimento.».
 
-#### Art. 9
+### Art. 9
 
 Stato giuridico e impiego
 
@@ -2277,7 +2271,7 @@ n) all'articolo 2059, comma 1, le parole: «e dell'Aeronautica militare» sono s
 
 > 2\. - 3. (Omissis).».
 
-#### Art. 10
+### Art. 10
 
 Avanzamento
 
@@ -2997,7 +2991,7 @@ bbb) dopo la tabella 4 e' aggiunta la tabella 4-bis:
 
 > Omissis.».
 
-#### Art. 11
+### Art. 11
 
 Disciplina militare
 
@@ -3153,7 +3147,7 @@ Le disposizioni di cui al presente titolo si applicano anche al Corpo unico dell
 
 > d) se i giudicandi appartengono a piu' di tre Forze armate, e' tratto un membro da ciascuna Forza armata e il componente meno elevato in grado o meno anziano deve essere della stessa Forza armata del presidente ovvero della Forza armata del giudicando di minor grado o di minore anzianita', fermo restando che per ciascun giudicando e' tratto almeno un membro dalla medesima Forza armata.».
 
-#### Art. 12
+### Art. 12
 
 Trattamento economico e previdenziale
 
@@ -3265,11 +3259,9 @@ c) all'articolo 1913, dopo il comma 2, sono inseriti i seguenti:
 
 > 3-ter. Il personale militare impiegato a tempo indeterminato, ai sensi della legge 3 agosto 2007, n. 124, che rientra nel ruolo di provenienza e' iscritto al relativo fondo di previdenza se, in ragione degli anni di servizio residui, puo' maturare il diritto all'indennita' supplementare ai sensi dell'articolo 1914 del presente codice. Il computo degli anni di iscrizione al fondo decorre dalla data di reiscrizione nei ruoli di provenienza.».
 
-## Capo IV
+## Capo IV - Disposizioni di coordinamento, transitorie e finali
 
-### Disposizioni di coordinamento, transitorie e finali
-
-#### Art. 13
+### Art. 13
 
 Disposizioni transitorie
 
@@ -3333,7 +3325,7 @@ b) avviare il riassetto e la razionalizzazione delle strutture sanitarie di cui 
 
 > 2\. Le dotazioni organiche dei singoli ruoli di Forza armata, risultate in eccedenza al termine dell'unificazione o del trasferimento di funzioni, possono essere ripartite tra i ruoli delle Forze armate o riassegnate secondo necessita', con decreto del Ministro della difesa, di concerto con il Ministro dell'economia e delle finanze, emanato, senza oneri aggiuntivi, ai sensi dell'articolo 17 della legge 23 agosto 1988, n. 400.».
 
-#### Art. 14
+### Art. 14
 
 Disposizioni transitorie in materia di reclutamento
 
@@ -3423,7 +3415,7 @@ d) non aver riportato nell'ultimo biennio una valutazione inferiore a "superiore
 
 > 3.».
 
-#### Art. 15
+### Art. 15
 
 Disposizioni transitorie in materia
 
@@ -3461,7 +3453,7 @@ b) dopo l'articolo 2206-ter e' inserito il seguente:
 
 > c) a 160.377 unita', fissate dall'articolo 798, a decorrere dal 1° gennaio 2034.».
 
-#### Art. 16
+### Art. 16
 
 Disposizioni di coordinamento e transitorie
 
@@ -3621,7 +3613,7 @@ b) si computano:
 
 > 1\. A decorrere dall'anno 2017, quota parte dei risparmi derivanti dalla progressiva riduzione del personale militare, accertati secondo quanto previsto dall'articolo 4, comma 1, lettera d), della legge 31 dicembre 2012, n. 244, e' destinata ad alimentare il fondo per l'efficienza dei servizi istituzionali dell'Esercito italiano, della Marina militare, dell'Aeronautica militare e del Corpo unico della Sanita' militare, escluso il personale proveniente dall'Arma dei carabinieri, in misura non inferiore al 4 per cento e non superiore al 10 per cento, informate le associazioni professionali a carattere sindacale tra militari rappresentative ai sensi dell'articolo 1478.».
 
-#### Art. 17
+### Art. 17
 
 Disposizioni transitorie e di coordinamento
 
@@ -3919,7 +3911,7 @@ d) all'articolo 2251-quater, alla rubrica, le parole: «e dell'Aeronautica milit
 
 > d) 1° luglio 2027, luogotenenti con anzianita' di grado dal 1° luglio 2023 al 31 dicembre 2023.».
 
-#### Art. 18
+### Art. 18
 
 Disposizioni transitorie in materia
 
@@ -3943,7 +3935,7 @@ Art. 2257-quinquies (Disposizioni transitorie in materia di disciplina del Corpo
 
 > \- Per i riferimenti al decreto legislativo 15 marzo 2010, n. 66, si vedano le note alle premesse.
 
-#### Art. 19
+### Art. 19
 
 Disposizioni finanziarie
 
@@ -3957,7 +3949,7 @@ Disposizioni finanziarie
 
 > «794. Al fine di adottare provvedimenti normativi in materia di revisione della struttura organizzativa e ordinativa del Servizio sanitario militare di cui all'articolo 2 della legge 28 novembre 2023, n. 201, in linea con i principi e criteri direttivi di cui all'articolo 9, comma 1, lettera g), della legge 5 agosto 2022, n. 119, e' istituito un apposito fondo nello stato di previsione del Ministero della difesa, con dotazione iniziale di 2 milioni di euro a decorrere dall'anno 2026.».
 
-#### Art. 20
+### Art. 20
 
 Entrata in vigore
 
@@ -3995,7 +3987,7 @@ Visto, il Guardasigilli: Nordio
 
 ## Allegati
 
-#### Tabelle
+### Tabelle
 
 Tabella A
 

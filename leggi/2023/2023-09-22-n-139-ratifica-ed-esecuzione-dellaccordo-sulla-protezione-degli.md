@@ -1089,7 +1089,7 @@ b) dichiarare la propria competenza a decidere su una o piu' domande, istruirle 
 
 12\. Su richiesta di una delle parti della controversia, la divisione incaricata di riunire le domande puo' prendere le misure che ritenga opportune per tutelare la riservatezza di informazioni protette relative a tale parte della controversia nei confronti delle altre parti della controversia. Tali misure possono comprendere anche l'autorizzazione alla presentazione alle altre parti della controversia di versioni espunte di documenti contenenti informazioni protette, o disposizioni per lo svolgimento di parti dell'udienza a porte chiuse.
 
-## SEZIONE B - RISOLUZIONE DELLE CONTROVERSIE TRA LE PARTI
+### SEZIONE B - RISOLUZIONE DELLE CONTROVERSIE TRA LE PARTI
 
 #### ARTICOLO 3.25
 
@@ -1695,7 +1695,7 @@ Obiettivo
 
 Il meccanismo di mediazione ha l'obiettivo di agevolare la ricerca di una soluzione concordata mediante una procedura esauriente e rapida con l'assistenza di un mediatore.
 
-## SEZIONE A - PROCEDIMENTO DEL MECCANISMO DI MEDIAZIONE
+### SEZIONE A - PROCEDIMENTO DEL MECCANISMO DI MEDIAZIONE
 
 #### Articolo 2
 
@@ -1753,7 +1753,7 @@ c) con una dichiarazione scritta con la quale il mediatore, dopo aver consultato
 
 d) con una dichiarazione scritta di una delle parti della controversia al termine della ricerca di soluzioni concordate nel quadro del procedimento di mediazione e previo esame dei pareri e delle soluzioni proposte dal mediatore, nel cui caso la procedura di mediazione si conclude nel giorno di tale dichiarazione.
 
-## SEZIONE B - ATTUAZIONE
+### SEZIONE B - ATTUAZIONE
 
 #### Articolo 5
 
@@ -1765,7 +1765,7 @@ Attuazione di una soluzione concordata
 
 3\. Su richiesta delle parti della controversia, il mediatore trasmette loro un progetto di relazione scritta dei fatti, che fornisce una sintesi: i) della misura contestata oggetto del procedimento; ii) delle procedure seguite; e iii) dell'eventuale soluzione concordata cui si e' giunti al termine di tale procedimento, comprese eventuali soluzioni provvisorie. Il mediatore da' alle parti della controversia 15 giorni lavorativi per formulare osservazioni sul progetto di relazione. Una volta esaminate le osservazioni formulate entro il suddetto termine dalle parti della controversia, entro 15 giorni lavorativi il mediatore presenta per iscritto alle parti della controversia una relazione scritta finale dei fatti. Detta relazione scritta non contiene alcuna interpretazione del presente accordo.
 
-## SEZIONE C - DISPOSIZIONI GENERALI
+### SEZIONE C - DISPOSIZIONI GENERALI
 
 #### Articolo 6
 

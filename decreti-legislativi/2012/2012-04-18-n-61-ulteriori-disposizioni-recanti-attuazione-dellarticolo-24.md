@@ -46,11 +46,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Disposizioni generali
 
-### Disposizioni generali
-
-#### Art. 1
+### Art. 1
 
 Oggetto
 
@@ -58,11 +56,11 @@ Oggetto
 
 2\. Ferme restando le funzioni amministrative gia' attribuite dall'articolo 24, comma 3, della legge delega, nonche' quanto previsto dall'articolo 2, comma 7, della medesima legge, con legge regionale, sentiti la Provincia di Roma e Roma capitale, possono essere conferite a quest'ultima ulteriori funzioni amministrative nell'ambito delle materie di competenza legislativa della Regione.
 
-#### Art. 2
+### Art. 2
 
 ((ARTICOLO ABROGATO DAL D.LGS. 22 GENNAIO 2016, N. 10))
 
-#### Art. 3
+### Art. 3
 
 Programmazione pluriennale degli interventi nel territorio di Roma capitale
 
@@ -88,7 +86,7 @@ d) al comma 2, lettera c), secondo periodo, dopo le parole «o province autonome
 
 ((6-bis. Nelle more dell'applicazione delle procedure di cui al presente articolo, l'eventuale rimodulazione del programma di interventi per Roma capitale, finanziati ai sensi della legge 15 dicembre 1990, n. 396, e' adottata dal medesimo ente con le procedure previste dal proprio ordinamento e trasmessa al Ministro delle infrastrutture e dei trasporti per l'approvazione definitiva con apposito decreto, da adottarsi di concerto con il Ministro dell'economia e delle finanze. A tal fine le relative rimodulazioni che comportino modificazioni o sostituzioni di progetti inseriti nel programma sono adottate mediante conferenza di servizi indetta dal Sindaco di Roma capitale ai sensi dell'articolo 14 della legge 7 agosto 1990, n. 241, e successive modificazioni. Dalle eventuali rimodulazioni del programma non devono in ogni caso derivare effetti negativi sui saldi di finanza pubblica e non deve determinarsi un incremento del fabbisogno residuo per la realizzazione delle opere.))
 
-#### Art. 4
+### Art. 4
 
 Raccordi istituzionali
 
@@ -156,11 +154,9 @@ Raccordi istituzionali
 
 > c) le attivita' relative alla organizzazione di manifestazioni che coinvolgono piu' comuni o province da celebrare in ambito nazionale».
 
-## Capo II
+## Capo II - Beni storici, ambientali e fluviali
 
-### Beni storici, ambientali e fluviali
-
-#### Art. 5
+### Art. 5
 
 Conferenza delle Soprintendenze
 
@@ -324,7 +320,7 @@ d) adotta i piani di gestione dei siti iscritti nella lista del patrimonio mondi
 
 > 9\. Alle finalita' di cui all'art. 95 e dei commi che precedono del presente articolo le Province autonome di Trento e di Bolzano provvedono nell'ambito delle competenze previste dallo statuto speciale e dalle relative norme di attuazione».
 
-#### Art. 6
+### Art. 6
 
 Concorso alla valorizzazione dei beni storici e artistici
 
@@ -396,7 +392,7 @@ Concorso alla valorizzazione dei beni storici e artistici
 
 > \- La legge 20 maggio 1985, n. 222 (Disposizioni sugli enti e beni ecclesiastici in Italia e per il sostentamento del clero cattolico in servizio nelle diocesi) e' pubblicata nella Gazzetta Ufficiale 3 giugno 1985, n. 129, S.O.
 
-#### Art. 7
+### Art. 7
 
 Funzioni in materia di beni ambientali e fluviali
 
@@ -428,11 +424,9 @@ d) alle attivita' di vigilanza sui beni paesaggistici del territorio di Roma cap
 
 > 3\. Gli altri enti pubblici territoriali conformano la loro attivita' di pianificazione agli indirizzi e ai criteri di cui al comma 2 e, nell'immediato, adeguano gli strumenti vigenti».
 
-## Capo III
+## Capo III - Sviluppo economico e sociale con particolare riferimento al settore produttivo e turistico
 
-### Sviluppo economico e sociale con particolare riferimento al settore - produttivo e turistico
-
-#### Art. 8
+### Art. 8
 
 Funzioni in materia di fiere
 
@@ -460,7 +454,7 @@ Funzioni in materia di fiere
 
 > 2\. Resta fermo quanto previsto dall'art. 19, comma terzo, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616.».
 
-#### Art. 9
+### Art. 9
 
 Funzioni in materia di turismo
 
@@ -502,11 +496,9 @@ Funzioni in materia di turismo
 
 > 5\. Agli oneri derivanti dal funzionamento della Conferenza si provvede nell'ambito degli ordinari stanziamenti di bilancio della Presidenza del Consiglio dei Ministri afferenti il Dipartimento per lo sviluppo e la competitivita' del turismo, con le risorse allo scopo trasferite ai sensi del decreto-legge 18 maggio 2006, n. 181, convertito, con modificazioni, dalla legge 17 luglio 2006, n. 233.».
 
-## Capo IV
+## Capo IV - Protezione civile
 
-### Protezione civile
-
-#### Art. 10
+### Art. 10
 
 Funzioni in materia di protezione civile
 
@@ -526,11 +518,9 @@ In particolare:
 
 e) gli articoli 2 e 14 della legge n. 225 del 1992, citati nell'articolo 10, comma 1, del decreto legislativo 18 aprile 2012, n.61, devono intendersi rispettivamente riferiti agli articoli 7 e 9 del presente decreto".
 
-## Capo V
+## Capo V - Disposizioni in materia di organizzazione
 
-### Disposizioni in materia di organizzazione
-
-#### Art. 11
+### Art. 11
 
 Organizzazione e personale
 
@@ -544,11 +534,9 @@ Organizzazione e personale
 
 > \- Il decreto legislativo 30 marzo 2001, n. 165 (Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche) e' pubblicato nella Gazzetta Ufficiale 9 maggio 2001, n. 106, S.O.
 
-## Capo VI
+## Capo VI - Disposizioni finanziarie e finali
 
-### Disposizioni finanziarie e finali
-
-#### Art. 12
+### Art. 12
 
 Disposizioni finanziarie
 
@@ -564,7 +552,7 @@ Disposizioni finanziarie
 
 5\. Le disposizioni in materia di imposta di soggiorno, di cui all'articolo 4 del decreto legislativo 14 marzo 2011, n. 23, si applicano a Roma capitale anche per il finanziamento degli investimenti compresi nei programmi di cui all'articolo 3 del presente decreto e limitatamente al periodo di ammortamento delle opere. Restano ferme le misure di imposta di soggiorno stabilite dall'articolo 14, comma 16, lettera e), del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122.
 
-#### Art. 13
+### Art. 13
 
 Rendicontazione della gestione commissariale
 
@@ -600,7 +588,7 @@ Rendicontazione della gestione commissariale
 
 > 8\. Nelle more dell'approvazione del piano di rientro di cui al presente articolo, la Cassa Depositi e Prestiti S.p.A. concede al comune di Roma una anticipazione di 500 milioni di euro a valere sui primi futuri trasferimenti statali ad esclusione di quelli compensativi per i mancati introiti di natura tributaria.».
 
-#### Art. 14
+### Art. 14
 
 Disposizioni finali
 

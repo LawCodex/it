@@ -28,11 +28,9 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - DISPOSIZIONI GENERALI SUI PROCEDIMENTI
+## TITOLO I - DISPOSIZIONI GENERALI SUI PROCEDIMENTI PER L'ADEMPIMENTO DEGLI OBBLIGHI COMUNITARI
 
-### PER L'ADEMPIMENTO DEGLI OBBLIGHI COMUNITARI
-
-###### Art. 1 - Delega al Governo per l'attuazione di direttive comunitarie
+##### Art. 1 - Delega al Governo per l'attuazione di direttive comunitarie
 
 1\. Il Governo e' delegato ad emanare, entro il termine di un anno dalla data di entrata in vigore della presente legge, i decreti legislativi recanti le norme occorrenti per dare attuazione alle direttive delle Comunita' Europee comprese nell'elenco di cui all'allegato A alla presente legge. ((4))
 
@@ -46,7 +44,7 @@ AGGIORNAMENTO (4)
 
 La L. 22 febbraio 1994, n. 146 ha disposto (con l'art. 6, comma 5) che il termine di cui al comma 1 del presente articolo "per quanto attiene alle direttive di cui agli articoli 9, 14, 41, commi 1 e 2, 44, 45 e 65 della legge medesima, e' sostituito dal termine di cui all'articolo 1, comma 1, della presente legge."
 
-###### Art. 2 - Criteri e principi direttivi generali della delega legislativa
+##### Art. 2 - Criteri e principi direttivi generali della delega legislativa
 
 1\. Salvi gli specifici criteri e principi direttivi dettati negli articoli seguenti ed in aggiunta a quelli contenuti nelle direttive da attuare, i decreti legislativi di cui all'articolo 1 saranno informati ai seguenti principi e criteri generali:
 
@@ -62,25 +60,23 @@ e) eventuali spese non contemplate da leggi vigenti e che non riguardino l'attiv
 
 f) i decreti legislativi assicureranno in ogni caso che, nelle materie trattate dalle direttive da attuare, la disciplina disposta sia pienamente conforme alle prescrizioni delle direttive medesime, tenuto anche conto delle eventuali modificazioni intervenute entro il termine della delega.
 
-###### Art. 3 - Attuazione di direttive comunitarie in via regolamentare
+##### Art. 3 - Attuazione di direttive comunitarie in via regolamentare
 
 1\. Il Governo e' autorizzato ad attuare in via regolamentare, a norma degli articoli 3 comma 1, lettera c), e 4 della legge 9 marzo 1989, n. 86, le direttive comprese nell'elenco di cui all'allegato C alla presente legge, applicando anche il disposto dell'articolo 5, comma 1, della medesima legge n. 86 del 1989.
 
-###### Art. 4 - Attuazione di direttive comunitarie in via amministrativa
+##### Art. 4 - Attuazione di direttive comunitarie in via amministrativa
 
 1\. Ai sensi dell'articolo 4, comma 8, della legge 9 marzo 1989, n. 86, le direttive da attuare in via amministrativa sono comprese nell'elenco di cui all'allegato D alla presente legge.
 
-###### Art. 5 - Provvedimenti amministrativi di attuazione
+##### Art. 5 - Provvedimenti amministrativi di attuazione
 
 1\. Il Ministro della sanita', nell'ambito della sua competenza, adotta, con proprio decreto, i provvedimenti amministrativi direttamente conseguenti alle disposizioni dei regolamenti e delle decisioni emanati dalla Comunita' economica europea in materia di sanita', al fine di assicurarne l'applicazione nell'intero territorio nazionale.
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### E CRITERI SPECIALI DI DELEGA LEGISLATIVA - CAPO I
+### CAPO I - CIRCOLAZIONE DELLE PERSONE, PROFESSIONI, ATTIVITA' ECONOMICHE
 
-#### CIRCOLAZIONE DELLE PERSONE, - PROFESSIONI, ATTIVITA' ECONOMICHE
-
-###### Art. 6
+##### Art. 6
 
 (Diritto di soggiorno dei cittadini comunitari criteri di delega) 1. L'attuazione delle direttive del Consiglio 90/364/CEE, 90/365/CEE e 90/366/CEE deve avvenire nel rispetto dei seguenti principi e criteri direttivi:
 
@@ -92,7 +88,7 @@ c) indicare le modalita' per la dimostrazione del possesso delle risorse economi
 
 d) ricomprendere nella nozione di formazione professionale anche l'istruzione universitaria.
 
-###### Art. 7 - Rilascio dei visti d'ingresso ai membri della famiglia di cittadini comunitari che non possiedono la cittadinanza di uno degli Stati membri
+##### Art. 7 - Rilascio dei visti d'ingresso ai membri della famiglia di cittadini comunitari che non possiedono la cittadinanza di uno degli Stati membri
 
 1\. All'articolo 26 della tabella dei diritti da riscuotersi dagli Uffici diplomatici e consolari, annessa al decreto del Presidente della Repubblica 5 gennaio 1967, n. 200, come sostituita dalla tabella annessa alla legge 2 maggio 1983, n. 185, sono aggiunte, in fine, le parole: "Nessun diritto e' percepito per il rilascio del visto al coniuge ai figli di eta' inferiore a ventuno anni dei cittadini degli Stati membri delle Comunita' europee, nonche' agli ascendenti e discendenti dei cittadini suddetti e del coniuge di tali cittadini che sono a loro carico, qualunque sia la loro cittadinanza".
 
@@ -100,11 +96,11 @@ d) ricomprendere nella nozione di formazione professionale anche l'istruzione un
 
 Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-###### Art. 8 - Professioni sanitarie per le quali non e' richiesta la laurea
+##### Art. 8 - Professioni sanitarie per le quali non e' richiesta la laurea
 
 1\. Il riconoscimento dei titoli abilitanti conseguiti all'estero di cui alla legge 8 novembre 1984, n. 752 e alle relative norme di attuazione, e' esteso a favore dei cittadini delle Comunita' europee.
 
-###### Art. 9 - Riconoscimento diplomi e svolgimento attivita' e professioni sanitarie: criteri di delega
+##### Art. 9 - Riconoscimento diplomi e svolgimento attivita' e professioni sanitarie: criteri di delega
 
 1\. L'attuazione delle direttive del Consiglio 89/594/CEE, 89/595/CEE e 90/658/CEE dovra' prevedere:
 
@@ -112,7 +108,7 @@ a) che siano apportate alle norme di legge vigenti concernenti le professioni di
 
 b) che siano fatte salve le disposizioni contenute nell'articolo 9, commi 1, 2 e 3 della legge 19 novembre 1990, n. 341, nell'articolo 1, terzo comma, della legge 22 maggio 1978, n. 217, nell'articolo 7, quarto comma, della legge 24 luglio 1985, n. 409 nell'articolo 1, terzo comma, della legge 18 dicembre 1980, n. 905, nell'articolo 1, terzo comma, della legge 8 novembre 1984, n. 750, nell'articolo 1, terzo comma, della legge 13 giugno 1985, n. 296.
 
-###### Art. 10 - Trasportatori di merci per via navigabile
+##### Art. 10 - Trasportatori di merci per via navigabile
 
 1\. Entro sessanta giorni dalla data di entrata in vigore della presente legge sono adottate, con decreto del Ministro dei trasporti, le disposizioni per l'attuazione della direttiva del Consiglio 87/540/CEE relativa all'accesso alla professione di trasportatore di merci per via navigabile nel settore dei trasporti nazionali ed internazionali.
 
@@ -122,7 +118,7 @@ b) che siano fatte salve le disposizioni contenute nell'articolo 9, commi 1, 2 e
 
 4\. Con atto di indirizzo e coordinamento ai sensi dell'articolo 9, commi 5 e 6, della legge 9 marzo 1989, n. 86, da emanarsi entro sessanta giorni dalla data di entrata in vigore della presente legge, saranno armonizzate le procedure necessarie al rilascio delle autorizzazioni per l'esercizio dell'attivita' di trasportatore di merci per via navigabile.
 
-###### Art. 11 - Formazione professionale di conducenti dei veicoli che trasportano merci pericolose su strada
+##### Art. 11 - Formazione professionale di conducenti dei veicoli che trasportano merci pericolose su strada
 
 1\. Entro sessanta giorni dalla data di entrata in vigore della presente legge sono adottate, con decreto del Ministro dei trasporti, le disposizioni per l'attuazione della direttiva del Consiglio 89/684/CEE, relativa alla formazione professionale di taluni conducenti di veicoli che trasportano merci pericolose su strada.
 
@@ -148,7 +144,7 @@ b) che siano fatte salve le disposizioni contenute nell'articolo 9, commi 1, 2 e
 
 12\. In caso di ritiro del certificato di formazione professionale, lo stesso e' inviato dall'organo accertarne all'ufficio provinciale della motorizzazione civile e dei trasporti in concessione presso cui il titolare del certificato stesso chiede la conferma di validita' o, in mancanza, presso l'ufficio che lo ha rilasciato. In caso di revoca, il certificato e' inviato all'ufficio provinciale della motorizzazione civile e dei trasporti in concessione che ne ha effettuato il rilascio.
 
-###### Art. 12
+##### Art. 12
 
 Procedura per la riparazione delle violazioni comunitarie in materia di appalti e forniture
 
@@ -168,19 +164,19 @@ AGGIORNAMENTO (13)
 
 Il D.P.R. 14 maggio 2007, n. 91 ha disposto (con l'art. 7, comma 1, lettera b)) che e' abrogato il presente articolo "nella parte in cui prevede l'istituzione del "Comitato tecnico-consultivo per la riparazione delle violazioni comunitarie in materia di appalti e forniture"".
 
-###### Art. 13
+##### Art. 13
 
 ((ARTICOLO ABROGATO DAL D. LGS. 31 MARZO 1998, N. 80))
 
-###### Art. 14
+##### Art. 14
 
 (( ARTICOLO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163 ))
 
-###### Art. 15 - Appalti di forniture nel settore dell'informatica
+##### Art. 15 - Appalti di forniture nel settore dell'informatica
 
 1\. L'articolo 3 del decreto-legge 30 gennaio 1976, n. 8, convertito, con modificazioni dalla legge 27 marzo 1976, n. 60, l'articolo 15, secondo comma, della legge 26 aprile 1982, n. 181, l'articolo 7, secondo comma, del decreto-legge 30 settembre 1982, n. 688, convertito con modificazioni della legge 27 novembre 1982, n. 873, l'articolo 15, primo comma, della legge 4 giugno 1984, n. 194, e l'articolo 4, comma 20, del decreto-legge 19 dicembre 1984, n. 853, convertito, con modificazioni, dalla legge 17 febbraio 1985, n. 17, sono abrogati limitatamente alla parte in cui obbligatoriamente prevedono l'affidamento delle prestazioni ivi contemplate a societa' costituite con prevalente partecipazione statale, anche indiretta.
 
-###### Art. 16 - Pubblicita' degli atti delle succursali di societa' criteri di delega
+##### Art. 16 - Pubblicita' degli atti delle succursali di societa' criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 89/666/CEE sara' informata ai seguenti principi e criteri direttivi:
 
@@ -194,7 +190,7 @@ d) estensione dell'obbligo di pubblicita' alle informazioni previste dall'artico
 
 e) previsione dell'applicabilita' delle sanzioni previste dagli articoli 2626 e 2627 del codice civile nei confronti degli amministratori e dei liquidatori, per inosservanza degli obblighi relativi alla pubblicita' o alle indicazioni prescritte.
 
-###### Art. 17 - Societa' di capitali unipersonali: criteri di delega
+##### Art. 17 - Societa' di capitali unipersonali: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 89/667/CEE sara' informata ai seguenti principi e criteri direttivi:
 
@@ -204,15 +200,13 @@ b) eventuale previsione di sanzioni amministrative o penali, nei limiti di cui a
 
 c) applicazione della direttiva alle societa' a responsabilita' limitata.
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### E CRITERI SPECIALI DI DELEGA LEGISLATIVA - CAPO II
+### CAPO II - CREDITO E RISPARMIO
 
-#### CREDITO E RISPARMIO - SEZIONE I
+#### SEZIONE I - CREDITO AL CONSUMO
 
-##### CREDITO AL CONSUMO
-
-###### Art. 18
+##### Art. 18
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385)) ((3))
 
@@ -222,7 +216,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 1 settembre 1993, n. 385 ha disposto (con l'art. 161, comma 2) che e' abrogato il presente articolo, ma continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del presente decreto legislativo.
 
-###### Art. 19
+##### Art. 19
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385)) ((3))
 
@@ -232,7 +226,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 1 settembre 1993, n. 385 ha disposto (con l'art. 161, comma 2) che e' abrogato il presente articolo, ma continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del presente decreto legislativo.
 
-###### Art. 20
+##### Art. 20
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385)) ((3))
 
@@ -242,7 +236,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 1 settembre 1993, n. 385 ha disposto (con l'art. 161, comma 2) che e' abrogato il presente articolo, ma continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del presente decreto legislativo.
 
-###### Art. 21
+##### Art. 21
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385)) ((3))
 
@@ -252,7 +246,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 1 settembre 1993, n. 385 ha disposto (con l'art. 161, comma 2) che e' abrogato il presente articolo, ma continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del presente decreto legislativo.
 
-###### Art. 22
+##### Art. 22
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385)) ((3))
 
@@ -262,7 +256,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 1 settembre 1993, n. 385 ha disposto (con l'art. 161, comma 2) che e' abrogato il presente articolo, ma continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del presente decreto legislativo.
 
-###### Art. 23
+##### Art. 23
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385)) ((3))
 
@@ -272,7 +266,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 1 settembre 1993, n. 385 ha disposto (con l'art. 161, comma 2) che e' abrogato il presente articolo, ma continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del presente decreto legislativo.
 
-###### Art. 24
+##### Art. 24
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385)) ((3))
 
@@ -282,15 +276,13 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 1 settembre 1993, n. 385 ha disposto (con l'art. 161, comma 2) che e' abrogato il presente articolo, ma continua ad essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del presente decreto legislativo.
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### E CRITERI SPECIALI DI DELEGA LEGISLATIVA - CAPO II
+### CAPO II - CREDITO E RISPARMIO
 
-#### CREDITO E RISPARMIO - Sezione II
+#### Sezione II - RISPARMIO
 
-##### RISPARMIO
-
-###### Art. 25 - Accesso all'attivita' degl enti creditizi ed esercizio della medesima: criteri di delega
+##### Art. 25 - Accesso all'attivita' degl enti creditizi ed esercizio della medesima: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 89/646/CEE deve avvenire in conformita' dei seguenti princi'pi:
 
@@ -308,23 +300,21 @@ e) dovra' essere adottata ogni altra disposizione necessaria per adeguare alla d
 
 3\. In quanto compatibili, si applicano le altre disposizioni contenute nel titolo V della legge 10 ottobre 1990, n. 287, ivi comprese quelle relative alla sussistenza del controllo, agli obblighi relativi alle autorizzazioni e comunicazioni, alla sospensione del voto, all'obbligo di alienazione, alle sanzioni penali e ai conflitti di interesse.
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### E CRITERI SPECIALI DI DELEGA LEGISLATIVA - CAPO III
+### CAPO III - ASSICURAZIONI
 
-#### ASSICURAZIONI
-
-###### Art. 26
+##### Art. 26
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-###### Art. 27 - Attuazione della direttiva del Consiglio 90/232/CEE in materia di assicurazione obbligatoria per la responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti Persone trasportate
+##### Art. 27 - Attuazione della direttiva del Consiglio 90/232/CEE in materia di assicurazione obbligatoria per la responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti Persone trasportate
 
 1\. Il secondo comma dell'articolo 1 della legge 24 dicembre 1969, n. 990, e successive modificazioni, e' sostituito dal seguente:
 
 "L'assicurazione deve comprendere anche la responsabilita' per i danni alla persona causati ai trasportati, qualunque sia il titolo in base al quale e' effettuato il trasporto".
 
-###### Art. 28 - Attuazione della direttiva del Consiglio 84/5/CEE in materia di assicurazione obbligatoria per la responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti. Estensione soggettiva della garanzia
+##### Art. 28 - Attuazione della direttiva del Consiglio 84/5/CEE in materia di assicurazione obbligatoria per la responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti. Estensione soggettiva della garanzia
 
 1\. L'articolo 4 della legge 24 dicembre 1969, n. 990 e successive modificazioni, e' sostituito dal seguente:
 
@@ -338,17 +328,17 @@ b) il coniuge non legalmente separato, gli ascendenti e i discendenti legittimi,
 
 c) ove l'assicurato sia una societa', i soci a responsabilita' illimitata e le persone che si trovano con questi in uno dei rapporti indicati alla lettera b)".
 
-###### Art. 29 - Estensione territoriale della garanzia assicurativa ai sinistri verificatisi nel territorio degli Stati membri
+##### Art. 29 - Estensione territoriale della garanzia assicurativa ai sinistri verificatisi nel territorio degli Stati membri
 
 1\. Dopo l'articolo 1 della legge 24 dicembre 1969, n. 990 e suc- cessive modificazioni e' inserito il seguente:
 
 "Art. 1-bis. - 1. L'assicurazione stipulata ai sensi dell'articolo 1 copre anche la responsabilita' per i danni causati nel territorio degli Stati membri della Comunita' economica europea, secondo le condizioni ed entro i limiti stabiliti dalle legislazioni nazionali di ciascuno di tali Stati, concernenti l'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore, ferme le maggiori garanzie eventualmente previste dal contratto o dalla legislazione dello Stato in cui stazionano abitualmente".
 
-###### Art. 30
+##### Art. 30
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-###### Art. 31 - Intervento del Fondo di garanzia per le vittime della strada
+##### Art. 31 - Intervento del Fondo di garanzia per le vittime della strada
 
 1\. Il secondo comma dell'articolo 19 della legge 24 dicembre 1969,
 
@@ -358,21 +348,19 @@ n. 990, e successive modificazioni, e' sostituito dal seguente:
 
 Nell'ipotesi di cui alla lettera c) il risarcimento e' dovuto per i danni alla persona nonche' per i danni alle cose".
 
-###### Art. 32 - Decorrenza dell'efficacia
+##### Art. 32 - Decorrenza dell'efficacia
 
 1\. Le disposizioni di cui agli articoli 27, 28, 29, 30, comma 2, e 31 acquistano efficacia a decorrere dal secondo mese successivo alla data di entrata in vigore della presente legge.
 
-###### Art. 33
+##### Art. 33
 
 (( ARTICOLO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209 ))
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### E CRITERI SPECIALI DI DELEGA LEGISLATIVA - CAPO IV
+### CAPO IV - FINANZE
 
-#### FINANZE
-
-###### Art. 34
+##### Art. 34
 
 (Regime fiscale comune da applicare alle fusioni, alle scissioni, ai conferimenti d'attivo ed agli scambi d'azioni concernenti societa' di Stati membri diversi: criteri di delega.
 
@@ -414,7 +402,7 @@ g) previsione della retroattivita', ai fini delle imposte sui redditi, degli eff
 
 h) disapplicazione o revoca dei benefici fiscali alle operazioni di fusione, scissione o scambio di azioni, se dette operazioni tra societa' o enti di Stati membri diversi sono poste in essere senza valide ragioni economiche ed allo scopo esclusivo di ottenere fraudolentemente un risparmio di imposta.
 
-###### Art. 35
+##### Art. 35
 
 (Regime fiscale applicabile alle societa' madri e figlie di
 
@@ -434,7 +422,7 @@ e) disciplina del criterio e delle condizioni di deducibilita' degli oneri relat
 
 f) emanazione di disposizioni, comportanti disapplicazione o revoca dei benefici fiscali, intese ad evitare frodi ed abusi.
 
-###### Art. 36 - Delega legislativa per modifiche al sistema di accertamento dell'imposta di fabbricazione sulla birra
+##### Art. 36 - Delega legislativa per modifiche al sistema di accertamento dell'imposta di fabbricazione sulla birra
 
 1\. Il Governo e' delegato ad emanare, entro un anno dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi, recanti norme per modificare il sistema di accertamento dell'imposta di fabbricazione, sulla birra, secondo i seguenti principi:
 
@@ -444,13 +432,11 @@ b) l'aliquota dovra' essere riferita ad ettolitro/grado Plato o ad altra unita' 
 
 c) l'accertamento dovra' essere eseguito secondo le modalita' tecniche ed amministrative ritenute idonee dall'Amministrazione finanziaria, tenuto conto anche degli indirizzi in materia della Comunita' economica europea.
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### E CRITERI SPECIALI DI DELEGA LEGISLATIVA - CAPO V
+### CAPO V - SANITA', PROTEZIONE DEI LAVORATORI, AMBIENTE
 
-#### SANITA', PROTEZIONE - DEI LAVORATORI, AMBIENTE
-
-###### Art. 37
+##### Art. 37
 
 Contenuto di catrame nelle sigarette
 
@@ -464,7 +450,7 @@ Contenuto di catrame nelle sigarette
 
 5\. ((COMMA ABROGATO DAL D.LGS. 24 GIUGNO 2003, N. 184)).
 
-###### Art. 38 - Componenti dei concimi: criteri di delega
+##### Art. 38 - Componenti dei concimi: criteri di delega
 
 1\. L'attuazione delle direttive del Consiglio 89/284/CEE e 89/530/CEE sara' informata ai seguenti princi'pi e criteri direttivi:
 
@@ -472,7 +458,7 @@ a) dovranno essere adottate etichette con indicazioni delle dosi massime e delle
 
 b) dovranno essere adottate etichette aggiuntive con elencazione dei rischi ambientali nel caso di mancato rispetto delle dosi e delle modalita' d'uso previste.
 
-###### Art. 39 - Dispositivi medici impiantabili attivi: criteri di delega
+##### Art. 39 - Dispositivi medici impiantabili attivi: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 90/385/CEE sara' informata ai seguenti principi e criteri direttivi:
 
@@ -488,7 +474,7 @@ e) sara' istituito un sistema di monitoraggio che, prevedendo precisi obblighi d
 
 f) saranno previste opportune norme transitorie per assicurare la permanenza in commercio dei prodotti gia' disciplinati dal decreto del Ministro della sanita' 8 agosto 1988, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 266 del 12 novembre 1988, e suc- cessive modificazioni e integrazioni, concernente "Reinquadramento nell disciplina dei presidi medicochirurgici degli elettrostimolatori cardiaci impiantabili (pacemakers) alimentati da sorgente di energia non radioattiva e degli elettrocateteri per stimolazione cardiaca e loro raccordi".
 
-###### Art. 40 - Impiego e rilascio di organismi geneticamente modificati: criteri di delega
+##### Art. 40 - Impiego e rilascio di organismi geneticamente modificati: criteri di delega
 
 1\. L'attuazione delle direttive del Consiglio 90/219/CEE e 90/220/CEE sara' informata ai seguenti principi e criteri direttivi:
 
@@ -516,7 +502,7 @@ l) individuare l'autorita' competente in termini di biosicurezza.
 
 3\. Gli schemi dei decreti legislativi recanti attuazione delle direttive 90/219/CEE e 90/220/CEE sono trasmessi alla Camera dei deputati e al Senato della Repubblica, perche' su di essi sia espresso il parere delle competenti Commissioni permanenti.
 
-###### Art. 41 - Protezione dalla radioattivita': criteri di delega
+##### Art. 41 - Protezione dalla radioattivita': criteri di delega
 
 1\. L'attuazione della direttiva 89/618/EURATOM sara' informata ai princi'pi e criteri direttivi stabiliti dall'articolo 4 della legge 30 luglio 1990, n. 212, relativo all'attuazione delle direttive sulla tutela dalle radiazioni ionizzanti di cui all'allegato B alla legge predetta.
 
@@ -524,7 +510,7 @@ l) individuare l'autorita' competente in termini di biosicurezza.
 
 1990, n. 212.
 
-###### Art. 42 - Requisiti costruttivi dei dispositivi di protezione individuale: criteri di delega
+##### Art. 42 - Requisiti costruttivi dei dispositivi di protezione individuale: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 89/686/CEE sara' informata ai seguenti princi'pi e criteri direttivi:
 
@@ -538,7 +524,7 @@ d) disciplinare l'apposizione sui DPI, sui loro imballaggi o su entrambi del mar
 
 e) stabilire efficaci misure per i controlli nella fase di commercializzazione di DPI.
 
-###### Art. 43 - Sicurezza e salute dei lavoratori durante il lavoro: criteri di delega
+##### Art. 43 - Sicurezza e salute dei lavoratori durante il lavoro: criteri di delega
 
 1\. L'attuazione delle direttive del Consiglio 89/391/CEE, 89/654/CEE, 89/655/CEE, 89/656/CEE, 90/269/CEE, 90/270/CEE, 90/394/CEE e 90/679/CEE nonche' 91/383/CEE sara' informata ai seguenti principi e criteri direttivi:
 
@@ -588,7 +574,7 @@ AGGIORNAMENTO (7)
 
 La L. 24 aprile 1998, n. 128 ha disposto (con l'art. 51, comma 2) che il numero 2) della lettera g) del comma 1 del presente articolo "deve intendersi nel senso che gli oneri derivanti dalle attivita' di informazione, consulenza ed assistenza in materia antinfortunistica e di prevenzione svolte da istituzioni ed enti pubblici di formazione in detta materia sono a carico del datore di lavoro; qualora il datore di lavoro sia un'amministrazione pubblica, ai predetti oneri si provvede con le ordinarie risorse di bilancio dell'amministrazione interessata".
 
-###### Art. 44 - Sostanze e preparati pericolosi: criteri di delega
+##### Art. 44 - Sostanze e preparati pericolosi: criteri di delega
 
 1\. L'attuazione delle direttive del Consiglio 89/677/CEE e 89/678/CEE sara' informata ai seguenti princi'pi e criteri direttivi:
 
@@ -598,7 +584,7 @@ b) prevedere i termini strettamente necessari per lo smaltimento delle scorte;
 
 c) prevedere che l'attuazione delle direttive della Commissione CEE adottate in base alla direttiva del Consiglio 89/678/CEE sia disposta con decreto del Ministro della sanita', di concerto con il Ministro dell'ambiente, sentiti i Ministri preposti alle altre amministrazioni interessate.
 
-###### Art. 45 - Liberta' di accesso all'informazione in materia di ambiente: criteri di delega
+##### Art. 45 - Liberta' di accesso all'informazione in materia di ambiente: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 90/313/CEE sara' informata ai seguenti princi'pi e criteri direttivi:
 
@@ -618,13 +604,11 @@ g) garantire la tutela giurisdizionale del diritto all'informazione ambientale;
 
 h) assicurare il coordinamento con la vigente normativa a tutela del diritto di accesso ai documenti amministrativi, in particolare con la legge 7 agosto 1990 n. 241.
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### E CRITERI SPECIALI DI DELEGA LEGISLATIVA - Capo VI
+### Capo VI - SANITA' VETERINARIA
 
-#### SANITA' VETERINARIA
-
-###### Art. 46 - Medicinali veterinari per uso immunologico e mangimi medicati: criteri di delega
+##### Art. 46 - Medicinali veterinari per uso immunologico e mangimi medicati: criteri di delega
 
 1\. L'attuazione delle direttive del Consiglio 90/44/CEE. 90/167/CEE e 90/677/CEE sara' informata ai seguenti princi'pi e criteri direttivi:
 
@@ -634,7 +618,7 @@ b) disporre procedure e prove idonee a dimostrarne l'efficacia e l'innocuita';
 
 c) stabilire controlli sull'importazione, produzione e commercializzazione del materiale biologico e delle materie prime impiegate nella loro preparazione.
 
-###### Art. 47 - Controlli veterinari: criteri di delega
+##### Art. 47 - Controlli veterinari: criteri di delega
 
 1\. L'attuazione delle direttive del Consiglio 89/608/CEE, 89/662/CEE, 90/425/CEE, 90/667/CEE e 90/675/CEE sara' informata ai seguenti princi'pi e criteri direttivi:
 
@@ -644,19 +628,17 @@ b) prevedere procedure di vigilanza e sistemi di controllo razionali, efficaci e
 
 c) individuare, tenuto conto delle funzioni attribuite, anche modalita' di riorganizzazione dei servizi pubblici veterinari, sulla base di criteri di organicita', razionalita' ed economicita', preved- endo, ove necessario, l'emanazione di atti di indirizzo e coordinamento alle regioni e la possibilita' di delegare l'accertamento del possesso dei requisiti prescritti ai fini del riconoscimento dell'idoneita' degli stabilimenti alla commercializzazione delle carni negli scambi intracomunitari.
 
-###### Art. 48 - Disposizioni in tema di controlli veterinari
+##### Art. 48 - Disposizioni in tema di controlli veterinari
 
 1\. All'articolo 26, comma 2, della legge 30 aprile 1976, n. 397, sono aggiunte, in fine, le parole: ", qualora si tratti di importazioni di animali provenienti da Paesi terzi".
 
 2\. Il quinto comma dell'articolo 6 della legge 28 maggio 1981, n. 296, e' abrogato.
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### E CRITERI SPECIALI DI DELEGA LEGISLATIVA - Capo VII
+### Capo VII - PRODOTTI ALIMENTARI
 
-#### PRODOTTI ALIMENTARI
-
-###### Art. 49 - Solventi da estrazione per la preparazione dei prodotti alimentari: criteri di delega
+##### Art. 49 - Solventi da estrazione per la preparazione dei prodotti alimentari: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 88/344/CEE sara' informata ai seguenti princi'pi e criteri direttivi:
 
@@ -664,7 +646,7 @@ a) prevedere idonee garanzie a tutela della salute umana;
 
 b) assicurare un'adeguata informazione del consumatore.
 
-###### Art. 50 - Produzione e commercializzazione dei prodotti a base di carne e degli ovoprodotti: criteri di delega
+##### Art. 50 - Produzione e commercializzazione dei prodotti a base di carne e degli ovoprodotti: criteri di delega
 
 1\. L'attuazione delle direttive del Consiglio 88/658/CEE, 89/227/CEE e 89/437/CEE dovra' avvenire in modo da assicurare:
 
@@ -674,7 +656,7 @@ b) l'idoneita' tecnica delle strutture di produzione;
 
 c) una dettagliata informazione del consumatore ricavabile dall'etichettatura contenente l'elenco completo degli ingredienti.
 
-###### Art. 51 - Etichettatura nutrizionale dei prodotti alimentari: criteri di delega
+##### Art. 51 - Etichettatura nutrizionale dei prodotti alimentari: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 90/496/CEE sara' informata ai seguenti princi'pi e criteri direttivi:
 
@@ -684,7 +666,7 @@ b) stabilire che le informazioni relative ai prodotti commercializzati siano for
 
 c) raccordare e armonizzare la disciplina di recepimento a quella gia' dettata per il recepimento delle direttive del Consiglio 79/112/CEE e 89/395/CEE.
 
-###### Art. 52 - Controlli sugli alimenti: criteri di delega
+##### Art. 52 - Controlli sugli alimenti: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 89/397/CEE sara' informata ai seguenti criteri direttivi: l'organizzazione dei controlli ufficiali dei prodotti alimentari dovra' assumere una distribuzione nazionale territoriale omogenea e adottare gli stessi metodi di controllo sia per i prodotti destinati ad essere commercializzati nel territorio nazionale che per quelli destinati in altro Stato membro o fuori della Comunita'.
 
@@ -696,7 +678,7 @@ c) raccordare e armonizzare la disciplina di recepimento a quella gia' dettata p
 
 5\. Nei casi in cui le regioni e le province autonome non provvedano si applica il disposto di cui all'articolo 11 della legge 9 marzo 1989, n. 86.
 
-###### Art. 53 - Formaggi
+##### Art. 53 - Formaggi
 
 1\. Non e' prescritto un contenuto minimo di materia grassa per i formaggi diversi da quelli a denominazione d'origine ed a denominazione tipica di cui alla legge 10 aprile 1954, n. 125, che restano regolati dalle disposizioni emanate ai sensi di tale legge.
 
@@ -704,7 +686,7 @@ c) raccordare e armonizzare la disciplina di recepimento a quella gia' dettata p
 
 3\. Il regio decreto-legge 17 maggio 1938, n. 1177, convertito, con modificazioni, dalla legge 2 febbraio 1939, n. 396, e' abrogato.
 
-###### Art. 54 - Burro
+##### Art. 54 - Burro
 
 1\. L'articolo 3 della legge 23 dicembre 1956, n. 1526, e' sostituito dal seguente:
 
@@ -714,7 +696,7 @@ c) raccordare e armonizzare la disciplina di recepimento a quella gia' dettata p
 
 3\. E' consentita la produzione e la commercializzazione con la denominazione "burro leggero a basso tenore di grasso" del prodotto ottenuto dalla crema ricavata dal latte di vacca, dal siero di latte di vacca, nonche' dlla miscela dei due prodotti indicati, avente un contenuto di materia grassa compreso tra il 39 ed il 41 per cento, la cui percentuale deve risultare indicata in etichetta".
 
-###### Art. 55 - Margarine
+##### Art. 55 - Margarine
 
 1\. L'articolo 6 della legge 4 novembre 1951, n. 1316, e' sostituito dal seguente:
 
@@ -730,7 +712,7 @@ c) raccordare e armonizzare la disciplina di recepimento a quella gia' dettata p
 
 2\. E' abrogata la disposizione di cui al primo comma, n. 1), dell'articolo 7 della legge 4 novembre 1951, n. 1316, che fissa all'84 per cento il tenore minimo di materia grassa nella margarina.
 
-###### Art. 56 - Rivelatori
+##### Art. 56 - Rivelatori
 
 1\. L'articolo 2 della legge 31 maggio 1977, n. 321, e' abrogato.
 
@@ -738,7 +720,7 @@ c) raccordare e armonizzare la disciplina di recepimento a quella gia' dettata p
 
 3\. La commercializzazione dei grassi e degli oli gia' prodotti in conformita' alle disposizioni abrogate con i commi 1 e 2, e' consentita rispettivamente fino a sei mesi e fino a ventiquattro mesi dalla data di entrata in vigore della presente legge.
 
-###### Art. 57 - Dolcificanti artificiali
+##### Art. 57 - Dolcificanti artificiali
 
 1\. Gli articoli 2 e 3 del decreto-legge 7 maggio 1980, n. 150, convertito, con modificazioni, dalla legge 7 luglio 1980, n. 297, sono abrogati.
 
@@ -756,17 +738,17 @@ AGGIORNAMENTO (3)
 
 Il Decreto 25 giugno 1993, n. 459, ha disposto (con l'art. 1, comma 4) che "le imprese gia' in servizio che hanno presentato istanza ai sensi del presente articolo 57, si intendono autorizzate a svolgere l'attivita' oggetto dell'istanza fino al rilascio dell' autorizzazione secondo le procedure di cui al comma 2 dell'art. 1 dello stesso decreto n. 459/93. Qualora l'istanza non sia stata corredata in modo integrale con la documentazione di cui all'allegato I, le imprese sono tenute a provvedere, entro centoventi giorni dalla data di entrata in vigore del presente decreto, al completamento della documentazione; l'istante e' autorizzato a proseguire nella propria attivita' fino a quando non gli venga comunicato che l'istanza di autorizzazione e' stata respinta".
 
-###### Art. 58
+##### Art. 58
 
 (( ARTICOLO ABROGATO DAL D.LGS. 21 MAGGIO 2004, N. 179 ))
 
-###### Art. 59 - Violazioni in materia di prelievo di corresponsabilita' sui cereali
+##### Art. 59 - Violazioni in materia di prelievo di corresponsabilita' sui cereali
 
 1\. All'articolo 63 della legge 29 dicembre 1990, n. 428, al comma 1, dopo le parole: "decreto del Ministro dell'agricoltura e delle foreste 13 giugno 1989, n. 242," e ai commi 2, 3 e 5, dopo le parole:
 
 "decreto ministeriale di cui al comma 1," sono inserite le parole: "e successive modificazioni ed integrazioni,".
 
-###### Art. 60 - Adeguamento alla normativa comunitaria Denominazioni di origine, indicazioni geografiche e attestazioni di specificita' di taluni prodotti agro-alimentari
+##### Art. 60 - Adeguamento alla normativa comunitaria Denominazioni di origine, indicazioni geografiche e attestazioni di specificita' di taluni prodotti agro-alimentari
 
 1\. L'articolo 1 della legge 13 febbraio 1990, n. 26, e' sostituito dal seguente:
 
@@ -796,7 +778,7 @@ b) stagionato nella zona tipica di produzione geograficamente individuata negli 
 
 "Il prosciutto veneto berico-euganeo deve essere ricavato dalla coscia fresca posteriore dei suini adulti di razza pregiata, esclusi verri e scrofe, allevati nelle zone indicate dal regolamento di esecuzione della presente legge, alimentati nell'ultimo periodo con sostanze ad alto contenuto proteico, macellati in ottimo stato sanitario e perfettamente dissanguati".
 
-###### Art. 61 - Adeguamento alla normativa comunitaria Denominazione di origine del Salame di Varzi
+##### Art. 61 - Adeguamento alla normativa comunitaria Denominazione di origine del Salame di Varzi
 
 1\. Il comma 1 dell'articolo 1 della legge 30 maggio 1989, n. 224 e' sostituito dal seguente:
 
@@ -806,13 +788,11 @@ b) stagionato nella zona tipica di produzione geograficamente individuata negli 
 
 "a) in ottimo stato sanitario, allevati nella zona di cui al comma 1 dell'articolo 1 o comunque provenienti da allevamenti di zona a caratteristica tradizionale suinicola della provincia di Pavia e da allevamenti situati nei comuni della provincia di Alessandria e di Piacenza confinanti con la zona di produzione del "Salame di Varzi", o da altre zone a tipica vocazione per allevamento di suini identificate dal regolamento di esecuzione della presente legge".
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### E CRITERI SPECIALI DI DELEGA LEGISLATIVA - Capo VIII
+### Capo VIII - PRODUZIONE INDUSTRIALE
 
-#### PRODUZIONE INDUSTRIALE
-
-###### Art. 62 - Marchi di impresa: criteri di delega
+##### Art. 62 - Marchi di impresa: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 89/104/CEE deve riguardare tutte le prescrizioni obbligatorie della direttiva stessa, quelle facoltative appresso indicate e deve comunque avvenire nel rispetto dei seguenti princi'pi e criteri direttivi:
 
@@ -854,15 +834,15 @@ s) disciplinare la rappresentanza a mezzo di mandatario abilitato nelle procedur
 
 3\. Le disposizioni transitorie dovranno tener conto. oltreche' dei criteri fissati nella direttiva, di quelli derivanti dagli articoli 81 e seguenti del regio decreto 21 giugno 1942, n. 929, in quanto applicabili.
 
-###### Art. 63 - Transito di energia elettrica sulle grandi reti
+##### Art. 63 - Transito di energia elettrica sulle grandi reti
 
 1\. Entro tre mesi dalla data di entrata in vigore della presente legge il Ministro dell'industria, del commercio e dell'artigianato stabilisce, con proprio decreto, direttive e disposizioni vincolanti per l'Entre nazionale per l'energia elettrica atte a garantire l'osservanza degli obblighi relativi alla negoziazione e alla informazione comunitaria, previsti dalla direttiva del Consiglio 90/547/CEE.
 
-###### Art. 64 - Trasparenza dei prezzi del gas ed energia elettrica ad uso industriale
+##### Art. 64 - Trasparenza dei prezzi del gas ed energia elettrica ad uso industriale
 
 1\. Gli enti e le imprese che forniscono gas ed energia elettrica ai consumatori finali dell'industria sono tenuti ad osservare gli obblighi di informazione previsti dalla ((direttiva del Parlamento europeo e del Consiglio 2008/92/CE)) secondo le modalita' applicative che saranno stabilite, in conformita' alla direttiva medesima, con decreto del Ministro dell'industria, del commercio e dell'artigianato, da emanarsi entro tre mesi dalla data di entrata in vigore della presente legge.
 
-###### Art. 65 - Risparmio di greggio mediante l'impiego di componenti di carburanti di sostituzione: criteri di delega
+##### Art. 65 - Risparmio di greggio mediante l'impiego di componenti di carburanti di sostituzione: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 85/536/CEE e della direttiva della Commissione 87/441/CEE sara' informata ai seguenti princi'pi e criteri direttivi:
 
@@ -878,13 +858,11 @@ e) prevedere che ai fini dei controlli, la Stazione sperimentale per i combustib
 
 f) prevedere che l'immissione in consumo di miscele di benzina con composti ossigenati organici non rispondenti a quanto stabilito sia punita con la sanzione amministrativa da lire quattro milioni a lire cento milioni.
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### E CRITERI SPECIALI DI DELEGA LEGISLATIVA - Capo IX
+### Capo IX - TRASPORTI E TELECOMUNICAZIONI
 
-#### TRASPORTI E TELECOMUNICAZIONI
-
-###### Art. 66 - Spessore minimo degli intagli dei battistrada: attuazione della direttiva del Consiglio 89/459/CEE
+##### Art. 66 - Spessore minimo degli intagli dei battistrada: attuazione della direttiva del Consiglio 89/459/CEE
 
 1\. Il secondo comma dell'articolo 50 del testo unico delle norme sulla circolazione stradale, approvato con decreto del Presidente della Repubblica 15 giugno 1959, n. 393, e' sostituito dal seguente: "Sia le ruote che i pneumatici, o sistemi equivalenti, montati sui predetti veicoli dovranno essere in perfetta efficienza, privi di lesioni che possano comprometterne la sicurezza. Il battistrada dovra' avere il disegno a rilievo ben visibile su tutta la sua larghezza e su tutta la sua circonferenza; la profondita' degli intagli principali del battistrada dovra' essere di almeno 1,60 millimetri per gli autoveicoli, i filoveicoli e rimorchi, di almeno 1,00 millimetri per i motoveicoli e di almeno 0,50 millimetri per i ciclomotori".
 
@@ -892,17 +870,17 @@ f) prevedere che l'immissione in consumo di miscele di benzina con composti ossi
 
 "Per intagli principali si intendono gli intagli larghi situati nella zona centrale del battistrada che copre all'incirca i tre quarti della superficie dello stesso".
 
-###### Art. 67 - Trasporti in conto proprio: attuazione della direttiva del Consiglio 90/398/CEE
+##### Art. 67 - Trasporti in conto proprio: attuazione della direttiva del Consiglio 90/398/CEE
 
 1\. La lettera a) del primo comma dell'articolo 31 della legge 6 giugno 1974, n. 298, gia' sostituita dall'articolo 2 del decreto legge 6 febbraio 1987, n. 16, convertito, con modificazioni, dalla legge 30 marzo 1987, n. 132, e' sostituita dalla seguente:
 
 "a) il trasporto avvenga con mezzi di proprieta' o in usufrutto delle persone fisiche o giuridiche, enti privati o pubblici che lo esercitano o da loro acquistati con patto di riservato dominio o presi in locazione con facolta' di compera oppure noleggiati senza conducenti nel caso di veicoli di peso totale a pieno carico autorizzato sino a 6.000 chilogrammi, ed i preposti alla guida ed alla scorta dei veicoli, se non esercitate personalmente dal titolare della licenza, risultino lavoratori dipendenti;".
 
-###### Art. 68 - Utilizzazione di veicoli noleggiati senza conducente per il trasporto di merci su strada per conto terzi
+##### Art. 68 - Utilizzazione di veicoli noleggiati senza conducente per il trasporto di merci su strada per conto terzi
 
 1\. Con decreto da emanarsi ai sensi dell'articolo 14, comma 2, della legge 16 aprile 1987, n. 183, su proposta del Ministro dei trasporti, entro sei mesi dalla data di entrata in vigore della presente legge, saranno apportate le modifiche al decreto del Ministro per il coordinamento delle politiche comunitarie 14 dicembre 1987, n. 601, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 92 del 20 aprile 1988, per renderlo conforme alla direttiva del Consiglio 90/398/CEE ed alle disposizioni sul contingentamento delle capacita' di trasporto su strada.
 
-###### Art. 69 - Fornitura di una rete aperta di telecomunicazioni: criteri di delega
+##### Art. 69 - Fornitura di una rete aperta di telecomunicazioni: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 90/387/CEE sara' informata ai seguenti princi'pi e criteri direttivi:
 
@@ -912,7 +890,7 @@ b) assicurare che il rispetto delle norme tecniche da parte dei soggetti interes
 
 c) prevedere che le condizioni di fornitura della rete aperta non limitino l'accesso e l'impiego delle reti pubbliche e dei servizi pubblici di telecomunicazioni se non per ragioni basate sui requisiti essenziali e sulle restrizioni derivanti dall'esercizio di diritti esclusivi o speciali.
 
-###### Art. 70 - Compatibilita' elettromagnetica: criteri di delega
+##### Art. 70 - Compatibilita' elettromagnetica: criteri di delega
 
 1\. L'attuazione della direttiva del Consiglio 89/336/CEE sara' informata ai seguenti princi'pi e criteri direttivi:
 
@@ -932,11 +910,11 @@ e) stabilire efficaci misure per la vigilanza ed il controllo nella fase di comm
 
 f) stabilire modalita' per l'emanazione delle normative tecniche applicabili.
 
-###### Art. 71 - Servizio pubblico paneuropeo di radioavviso terrestre
+##### Art. 71 - Servizio pubblico paneuropeo di radioavviso terrestre
 
 1\. Con decreto del Ministro delle poste e delle telecomunicazioni, da emanarsi entro trenta giorni dalla data di entrata in vigore della presente legge, saranno adottate, in attuazione della direttiva del Consiglio 90/544/CEE, le modifiche al decreto del Ministro medesimo 31 gennaio 1983, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 47 del 17 febbraio 1983, recante l'approvazione del pi- ano nazionale di ripartizione delle radiofrequenze, necessarie alla individuazione delle frequenze da destinare al servizio pubblico paneuropeo di radioavviso terrestre.
 
-###### Art. 72 - Concorrenza nei mercati dei servizi di telecomunicazione: criteri di delega
+##### Art. 72 - Concorrenza nei mercati dei servizi di telecomunicazione: criteri di delega
 
 1\. L'attuazione della direttiva della Commissione 90/388/CEE sara' informata ai seguenti princi'pi e criteri direttivi:
 
@@ -952,19 +930,17 @@ e) disporre l'abrogazione delle restrizioni esistenti relative al trattamento de
 
 f) mantenere, relativamente al servizio di trasmissione dati a commutazione di pacchetto o di circuito, il divieto per gli operatori economici di offrire al pubblico la semplice rivendita di capacita' di circuiti affittati; il divieto deve essere abolito entro il 1 gennaio 1996 e, comunque, non anteriormente al 31 dicembre 1992.
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### E CRITERI SPECIALI DI DELEGA LEGISLATIVA - Capo X
+### Capo X - RELAZIONI FINANZIARIE CON LE COMUNITA' EUROPEE
 
-#### RELAZIONI FINANZIARIE CON LE COMUNITA' EUROPEE
-
-###### Art. 73 - Acquisizione indebita di erogazioni FEOGA
+##### Art. 73 - Acquisizione indebita di erogazioni FEOGA
 
 1\. Il comma 1 dell'articolo 2 della legge 23 dicembre 1986, n. 898, e' sostituito dal seguente:
 
 "1. Ove il fatto non configuri il piu' grave reato previsto dall'articolo 640-bis del codice penale, chiunque, mediante l'esposizione di dati o notizie falsi, consegue indebitamente, per se' o per altri, aiuti, premi, indennita', restituzioni, contributi o altre erogazioni a carico totale o parziale del Fondo europeo agricolo di orientamento e garanzia e' punito con la reclusione da sei mesi a tre anni. Quando l somma indebitamente percepita e' pari od inferiore a lire venti milioni si applica soltanto la sanzione amministrativa di cui agli articoli seguenti".
 
-###### Art. 74 - Fondo di rotazione
+##### Art. 74 - Fondo di rotazione
 
 1\. Il conto corrente infruttifero di Tesoreria del Fondo di rotazione di cui all'articolo 5 della legge 16 aprile 1987, n. 183, assume la seguente denominazione: "Ministero del tesoro - Fondo di rotazione per l'attuazione delle politiche comunitarie: finanziamenti nazionali".
 
@@ -978,19 +954,17 @@ c) i finanziamenti in lire disposti dalle istituzioni delle Comunita' europee a 
 
 3\. Il Fondo di rotazione per i pagamenti puo' avvalersi, mediante stipula di apposite convenzioni, dei servizi di istituti di credito di diritto pubblico.
 
-###### Art. 75 - Impegni a carico del Fondo di rotazione
+##### Art. 75 - Impegni a carico del Fondo di rotazione
 
 1\. Sul Fondo di rotazione per l'attuazione delle politiche comunitarie, istituito con l'articolo 5 della legge 16 aprile 1987, n. 183, possono essere assunti impegni a carico degli esercizi futuri in misura non superiore, per ciascun esercizio finanziario, allo stanziamento autorizzato, quale dotazione del Fondo, dalla legge di bilancio nell'esercizio di assunzione degli impegni stessi.
 
 2\. Gli esercizi a carico dei quali possono essere assunti gli impegni di cui al comma 1 sono determinati dalle annualita' in cui dovra' realizzarsi l'intervento cofinanziato dalle Comunita' europee, in base a programmi coordinati in sede nazionale e definiti in sede comunitaria.
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### E CRITERI SPECIALI DI DELEGA LEGISLATIVA - Capo XI
+### Capo XI - DISPOSIZIONI FINALI
 
-#### DISPOSIZIONI FINALI
-
-###### Art. 76
+##### Art. 76
 
 Organismi di coordinamento operanti presso il
 
@@ -1026,13 +1000,11 @@ AGGIORNAMENTO (13)
 
 Il D.P.R. 14 maggio 2007, n. 91 ha disposto (con l'art. 7, comma 1, lettera b)) che e' abrogato il presente articolo "nella parte in cui prevede l'istituzione del "Comitato tecnico-consultivo per la riparazione delle violazioni comunitarie in materia di appalti e forniture""
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### E CRITERI SPECIALI DI DELEGA LEGISLATIVA - Capo XI
+### Capo XI - DISPOSIZIONI FINALI
 
-#### DISPOSIZIONI FINALI
-
-###### Allegato A
+##### Allegato A
 
 ALLEGATO A
 
@@ -1436,7 +1408,7 @@ DIRETTIVA 90/388/CEE
 
 Direttiva della Commissione del 28 giugno 1990, relativa alla concorrenza nei mercati dei servizi di telecomunicazione.
 
-###### Allegato B
+##### Allegato B
 
 Allegato B
 
@@ -1592,7 +1564,7 @@ medicinali veterinari e che stabilisce disposizioni
 
 complementari per i medicinali veterinari ad azione immunologica.
 
-###### Allegato C
+##### Allegato C
 
 Allegato C
 
@@ -1682,7 +1654,7 @@ di polizia sanitaria per gli scambi intracomunitari e le
 
 importazioni in provenienza dai Paesi terzi di pollame e uova da cova.
 
-###### Allegato D
+##### Allegato D
 
 Allegato D
 

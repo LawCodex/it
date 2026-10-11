@@ -25,13 +25,13 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il rendiconto consuntivo dello Stato per l'esercizio 1967 e' approvato con le risultanze degli articoli seguenti.
 
 ## ENTRATE E SPESE - DI COMPETENZA DELL'ESERCIZIO FINANZIARIO 1967
 
-### Art. 2
+## Art. 2
 
 Le entrate tributarie, extra tributarie,
 
@@ -57,7 +57,7 @@ rimasero da versare.. " 385.068.348.262
  -----------------
 ```
 
-### Art. 3
+## Art. 3
 
 Le spese correnti, in conto capitale e per
 
@@ -74,7 +74,7 @@ lite dal conto consuntivo del bilancio, in.. L. 10.322.091.329.380 delle quali f
  -----------------
 ```
 
-### Art. 4
+## Art. 4
 
 Il riepilogo generale delle entrate e delle spese di competenza dell'esercizio finanziario 1967 risulta stabilito dal conto consuntivo come segue:
 
@@ -89,7 +89,7 @@ Entrate tributarie ed extra-tributarie.... L. 8.409.434.540.033 Spese correnti..
 
 ## ENTRATE E SPESE RESIDUE DELL'ESERCIZIO FINANZIARIO 1966 - ED ESERCIZI PRECEDENTI
 
-### Art. 5
+## Art. 5
 
 I residui attivi alla chiusura dell'eser-
 
@@ -108,7 +108,7 @@ rimasero da versare.. " 299.313.106.228
  ----------------
 ```
 
-### Art. 6
+## Art. 6
 
 I residui passivi alla chiusura dell'eser-
 
@@ -123,7 +123,7 @@ dal conto consuntivo del bilancio in........ L. 3.916.313.762.845 dei quali furo
 
 ## RESIDUI ATTIVI E PASSIVI - ALLA CHIUSURA DELL'ESERCIZIO FINANZIARIO 1967
 
-### Art. 7
+## Art. 7
 
 I residui attivi alla chiusura dell'esercizio finanziario 1967 ri-
 
@@ -145,7 +145,7 @@ degli esercizi precedenti (articolo 5)...... " 476.037.838.639 Somme riscosse e 
  -----------------
 ```
 
-### Art. 8
+## Art. 8
 
 I residui passivi alla chiusura dell'esercizio finanziario 1967
 
@@ -167,7 +167,7 @@ esercizi precedenti (articolo 6)............ " 2.293.238.669.510
 
 ## SITUAZIONE FINANZIARIA
 
-### Art. 9
+## Art. 9
 
 Il disavanzo finanziario del conto del tesoro alla fine dell'esercizio 1967 e accertato nella somma di lire 7.454.029.150.087, come risulta dai seguenti dati:
 
@@ -229,17 +229,17 @@ contabilita generale dello Stato......... " 87.920
 
 ## DISPOSIZIONI SPECIALI
 
-### Art. 10
+## Art. 10
 
 Sono stabiliti nella somma di lire 87.920 i discarichi consentiti, nell'esercizio 1967, ai tesorieri per casi di forza maggiore, ai sensi dell'articolo 194 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato approvato con regio decreto 23 maggio 1924, n. 827.
 
-### Art. 11
+## Art. 11
 
 E' approvata l'eccedenza di impegni per lire 2.622.648.600, risultata in sede di consuntivo sul conto della competenza al capitolo n. 3242 "Somme occorrenti per la regolazione delle quote di entrate erariali devolute alla Regione sarda ai sensi dell'articolo 8 della legge costituzionale 26 febbraio 1948, n. 3" dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1967.
 
 ## AZIENDE SPECIALI ED AUTONOME - AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### Art. 12
+## Art. 12
 
 Le entrate correnti ed in conto capitale
 
@@ -267,7 +267,7 @@ rimasero da versare... " 3.269.896.993
  -------------
 ```
 
-### Art. 13
+## Art. 13
 
 Le spese correnti, in conto capitale e
 
@@ -286,7 +286,7 @@ in.......................................... L. 10.006.070.462 delle quali furon
  -------------
 ```
 
-### Art. 14
+## Art. 14
 
 I residui attivi alla chiusura dell'eser-
 
@@ -304,7 +304,7 @@ rimasero da versare... " 6.939.063
  ------------
 ```
 
-### Art. 15
+## Art. 15
 
 I residui passivi alla chiusura dell'e-
 
@@ -317,7 +317,7 @@ ti in....................................... L. 20.397.394.593 dei quali furono 
  -------------
 ```
 
-### Art. 16
+## Art. 16
 
 I residui attivi alla chiusura dell'esercizio finanziario 1967, risultano stabiliti nelle seguenti somme:
 
@@ -336,7 +336,7 @@ del riepilogo dell'entrata)................. " 3.276.836.056
  ------------
 ```
 
-### Art. 17
+## Art. 17
 
 I residui passivi alla chiusura dell'esercizio finanziario 1967 risultano stabiliti nelle seguenti somme:
 
@@ -353,7 +353,7 @@ esercizi precedenti (articolo 15............ " 16.136.661.709
  --------------
 ```
 
-### Art. 18
+## Art. 18
 
 La situazione finanziaria dell'Azienda di Stato per le foreste de maniali, alla fine dell'esercizio 1967, risulta come appresso:
 
@@ -399,7 +399,7 @@ al 31 dicembre 1967.... " 4.322.880.663
 
 ## ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-### Art. 19
+## Art. 19
 
 Le entrate correnti dell'Istituto agrono
 
@@ -422,7 +422,7 @@ finanziario predetto, in.................... L. 132.142.800 delle quali furono r
  -------------
 ```
 
-### Art. 20
+## Art. 20
 
 Le spese correnti dell'Istituto predetto,
 
@@ -437,7 +437,7 @@ desimo, risultano stabilite in.............. L. 132.142.800 delle quali furono p
  -------------
 ```
 
-### Art. 21
+## Art. 21
 
 I residui attivi alla chiusura dell'eser-
 
@@ -452,7 +452,7 @@ si e versati............................. " 6.000.000
  -------------
 ```
 
-### Art. 22
+## Art. 22
 
 I residui passivi alla chiusura dell'e-
 
@@ -465,7 +465,7 @@ ti in....................................... L. 18.510.697 dei quali furono paga
  -------------
 ```
 
-### Art. 23
+## Art. 23
 
 I residui attivi alla chiusura dell'esercizio 1967 risultano sta- biliti nelle seguenti somme:
 
@@ -486,7 +486,7 @@ del riepilogo dell'entrata)................. " -
  -------------
 ```
 
-### Art. 24
+## Art. 24
 
 I residui passivi alla chiusura dell'esercizio 1967 risultano sta- biliti nelle seguenti somme:
 
@@ -505,7 +505,7 @@ esercizi precedenti (articolo 22)........... " 10.151.077
 
 ## AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-### Art. 25
+## Art. 25
 
 Le entrate occorrenti, in conto capitale e
 
@@ -536,7 +536,7 @@ rimasero da versare. " 177.870.529
  --------------
 ```
 
-### Art. 26
+## Art. 26
 
 Le spese correnti, in conto capitale e
 
@@ -555,7 +555,7 @@ tano stabilite in........................... L. 185.737.211.171 delle quali furo
  --------------
 ```
 
-### Art. 27
+## Art. 27
 
 I residui attivi alla chiusura dell'eser-
 
@@ -570,7 +570,7 @@ si e versati................................ " 1.195.052.636
  -------------
 ```
 
-### Art. 28
+## Art. 28
 
 I residui passivi alla chiusura dell'e-
 
@@ -583,7 +583,7 @@ ti in....................................... L. 21.906.625.821 dei quali furono 
  -------------
 ```
 
-### Art. 29
+## Art. 29
 
 I residui attivi alla chiusura dell'eser-
 
@@ -606,7 +606,7 @@ del riepilogo dell'entrata)................. " 177.870.529
  -------------
 ```
 
-### Art. 30
+## Art. 30
 
 I residui passivi alla chiusura dell'esercizio finanziario 1967 risultano stabiliti nelle seguenti somme:
 
@@ -623,7 +623,7 @@ esercizi precedenti (articolo 28)........... " 4.973.063.836
  -------------
 ```
 
-### Art. 31
+## Art. 31
 
 La situazione finanziaria dell'Amministrazione autonoma dei Mono- poli di Stato, alla fine dello esercizio finanziario 1967, risulta come appresso:
 
@@ -641,7 +641,7 @@ Spese dell'esercizio 1967................... L. 185.737.211.171
 
 ## ARCHIVI NOTARILI
 
-### Art. 32
+## Art. 32
 
 E' approvato il conto consuntivo degli Archivi notarili, per l'eser- cizio 1967, nelle risultanze seguenti:
 
@@ -654,7 +654,7 @@ Entrate.................................. L. 9.461.008.654 Spese................
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-### Art. 33
+## Art. 33
 
 Le entrate correnti ed in conto capitale
 
@@ -682,7 +682,7 @@ rimasero da versare.. " 444.923
  -------------
 ```
 
-### Art. 34
+## Art. 34
 
 Le spese correnti, in conto capitale e
 
@@ -701,7 +701,7 @@ tano stabilite in........................... L. 19.803.558.639 delle quali furon
  -------------
 ```
 
-### Art. 35
+## Art. 35
 
 I residui attivi alla chiusura dell'eser-
 
@@ -719,7 +719,7 @@ rimasero da versare.... " 96.094
  -------------
 ```
 
-### Art. 36
+## Art. 36
 
 I residui passivi alla chiusura dell'e-
 
@@ -732,7 +732,7 @@ ti in....................................... L. 1.764.699.431 dei quali furono p
  -------------
 ```
 
-### Art. 37
+## Art. 37
 
 I residui attivi alla chiusura dell'esercizio finanziario 1967 ri- sultano stabiliti nelle seguenti somme:
 
@@ -749,7 +749,7 @@ del riepilogo dell'entrata)................. - " 541.017 - ------------- Residui
  -------------
 ```
 
-### Art. 38
+## Art. 38
 
 I residui passivi alla chiusura dell'esercizio finanziario 1967 risultano stabiliti nelle seguenti somme:
 
@@ -766,7 +766,7 @@ esercizi precedenti (articolo 36)........... " 259.408.143
  -------------
 ```
 
-### Art. 39
+## Art. 39
 
 Il saldo attivo del conto finanziario dell'Amministrazione del Fondo per il Culto alla fine dell'esercizio 1967, e accertato nella somma di lire 1.588.399.804,30, come risulta dai seguenti dati:
 
@@ -811,7 +811,7 @@ al 31 dicembre 1967..... " 1.000.629.081
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-### Art. 40
+## Art. 40
 
 Le entrate correnti ed in conto capitale
 
@@ -834,7 +834,7 @@ Ministero dell'interno, in.................. L. 457.626.308 delle quali furono r
  -------------
 ```
 
-### Art. 41
+## Art. 41
 
 Le spese correnti ed in conto capitale
 
@@ -851,7 +851,7 @@ desimo, risultano stabilite in.............. L. 457.626.308 delle quali furono p
  -------------
 ```
 
-### Art. 42
+## Art. 42
 
 I residui attivi alla chiusura dell'eser-
 
@@ -866,7 +866,7 @@ si e versati................................ " 30.073.490
  -------------
 ```
 
-### Art. 43
+## Art. 43
 
 I residui passivi alla chiusura dell'e-
 
@@ -879,7 +879,7 @@ ti in....................................... L. 133.858.165 dei quali furono pag
  -------------
 ```
 
-### Art. 44
+## Art. 44
 
 I residui attivi alla chiusura dell'esercizio finanziario 1967 ri- sultano stabiliti nelle seguenti somme:
 
@@ -898,7 +898,7 @@ del riepilogo dell'entrata)................. " -
  -------------
 ```
 
-### Art. 45
+## Art. 45
 
 I residui passivi alla chiusura dell'e-
 
@@ -919,7 +919,7 @@ esercizi precedenti (articolo 43)........... " 15.019.455
  -------------
 ```
 
-### Art. 46
+## Art. 46
 
 Il saldo attivo del conto finanziario del Fondo di beneficenza e di religione nella citta di Roma, alla fine dell'esercizio 1967, e' accertato nella somma di lire 12.895.917,58, come risulta dai seguen- ti dati:
 
@@ -960,7 +960,7 @@ Spese dell'esercizio finanziario 1967....... L. 457.626.308 - Saldo attivo al 31
 
 ## PATRIMONI RIUNITI EX ECONOMALI
 
-### Art. 47
+## Art. 47
 
 Le entrate correnti ed in conto capitale
 
@@ -983,7 +983,7 @@ dell'interno, in............................ L. 435.288.901 delle quali furono r
  -------------
 ```
 
-### Art. 48
+## Art. 48
 
 Le spese correnti ed in conto capitale
 
@@ -1000,7 +1000,7 @@ stabilite, dal conto consuntivo, in......... L. 435.288.901 mis delle quali furo
  -------------
 ```
 
-### Art. 49
+## Art. 49
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1018,7 +1018,7 @@ rimasero da versare........ " 3
  -------------
 ```
 
-### Art. 50
+## Art. 50
 
 I residui passivi alla chiusura dell'e-
 
@@ -1031,7 +1031,7 @@ ti dal conto consuntivo dell'Azienda, in.... L. 101.918.077 dei quali furono pag
  -------------
 ```
 
-### Art. 51
+## Art. 51
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1056,7 +1056,7 @@ degli esercizi precedenti (articolo 49)..... " 3.562.644 Somme riscosse e non ve
  -------------
 ```
 
-### Art. 52
+## Art. 52
 
 I residui passivi alla chiusura dell'e-
 
@@ -1077,7 +1077,7 @@ esercizi precedenti (articolo 50)........... " 26.289.798 - ------------- Residu
  -------------
 ```
 
-### Art. 53
+## Art. 53
 
 Il saldo attivo del conto finanziario
 
@@ -1130,7 +1130,7 @@ al 31 dicembre 1967......... " 5.017.093
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE
 
-### Art. 54
+## Art. 54
 
 Le entrate correnti, in conto capitale e
 
@@ -1155,7 +1155,7 @@ pubblici, in................................ L. 329.859.926.658 delle quali furo
  --------------
 ```
 
-### Art. 55
+## Art. 55
 
 Le spese correnti, in conto capitale e
 
@@ -1174,7 +1174,7 @@ tano stabilite in........................... L. 329.859.926.658 delle quali furo
  --------------
 ```
 
-### Art. 56
+## Art. 56
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1189,7 +1189,7 @@ si e versati................................ " 73.575.838.937
  --------------
 ```
 
-### Art. 57
+## Art. 57
 
 I residui passivi alla chiusura dell'e-
 
@@ -1202,7 +1202,7 @@ ti in....................................... L. 447.441.702.631 dei quali furono
  --------------
 ```
 
-### Art. 58
+## Art. 58
 
 I residui attivi alla chiusura dell'esercizio finanziario 1967 ri- sultano stabiliti nelle seguenti somme:
 
@@ -1221,7 +1221,7 @@ del riepilogo dell'entrata)................. " -
  --------------
 ```
 
-### Art. 59
+## Art. 59
 
 I residui passivi alla chiusura dell'esercizio finanziario 1967 risultano stabiliti nelle seguenti somme:
 
@@ -1240,7 +1240,7 @@ esercizi precedenti (articolo 57)........... " 230.153.666.733
 
 ## AMMINISTRAZIONE DELLE POSTE E DEI TELEGRAFI
 
-### Art. 60
+## Art. 60
 
 Le entrate correnti, in conto capitale e
 
@@ -1267,7 +1267,7 @@ nanziario predetto, in...................... L. 497.869.078.991 delle quali furo
  --------------
 ```
 
-### Art. 61
+## Art. 61
 
 Le spese correnti, in conto capitale e
 
@@ -1286,7 +1286,7 @@ in.......................................... L. 497.869.078.991 delle quali furo
  --------------
 ```
 
-### Art. 62
+## Art. 62
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1301,7 +1301,7 @@ si e versati............................. " 80.513.809.785
  --------------
 ```
 
-### Art. 63
+## Art. 63
 
 I residui passivi alla chiusura dell'e-
 
@@ -1314,7 +1314,7 @@ ti in....................................... L. 162.272.872.665 dei quali nell'e
  --------------
 ```
 
-### Art. 64
+## Art. 64
 
 I residui attivi alla chiusura dell'esercizio 1967 risultano sta- biliti nelle seguenti somme:
 
@@ -1331,7 +1331,7 @@ degli esercizi precedenti (articolo 62)..... " 124.486.570.118
  --------------
 ```
 
-### Art. 65
+## Art. 65
 
 I residui passivi alla chiusura dell'esercizio 1967 risultano sta- biliti nelle seguenti somme:
 
@@ -1350,7 +1350,7 @@ esercizi precedenti (articolo 63)........... " 50.452.489.419
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Art. 66
+## Art. 66
 
 Le entrate correnti, in conto capitale e
 
@@ -1377,7 +1377,7 @@ cizio predetto in........................... L. 147.126.753.470 delle quali furo
  --------------
 ```
 
-### Art. 67
+## Art. 67
 
 Le spese correnti, in conto capitale e
 
@@ -1396,7 +1396,7 @@ sultano stabilite in........................ L. 147.126.753.470 delle quali furo
  --------------
 ```
 
-### Art. 68
+## Art. 68
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1414,7 +1414,7 @@ rimasero da versare... " 16.140.000.000
  -------------
 ```
 
-### Art. 69
+## Art. 69
 
 I residui passivi alla chiusura dell'e-
 
@@ -1427,7 +1427,7 @@ ti in....................................... L. 114.596.925.952 dei quali nell'e
  --------------
 ```
 
-### Art. 70
+## Art. 70
 
 I residui attivi alla chiusura dell'esercizio 1967, risultano sta biliti nelle seguenti somme:
 
@@ -1446,7 +1446,7 @@ del riepilogo dell'entrata)................. " 16.140.000.000
  -------------
 ```
 
-### Art. 71
+## Art. 71
 
 I residui passivi alla chiusura dell'esercizio 1967 risultano sta- biliti nelle seguenti somme:
 
@@ -1465,7 +1465,7 @@ esercizi precedenti (articolo 69)........... " 48.811.795.332
 
 ## AMMINISTRAZIONE DELLE FERROVIE DELLO STATO
 
-### Art. 72
+## Art. 72
 
 Le entrate correnti, in conto capitale e
 
@@ -1494,7 +1494,7 @@ l'esercizio predetto, in.................... L. 2.070.508.956.789 delle quali fu
  ----------------
 ```
 
-### Art. 73
+## Art. 73
 
 Le spese correnti, in conto capitale e
 
@@ -1513,7 +1513,7 @@ no stabilite in............................. L. 2.070.508.956.789 delle quali fu
  -----------------
 ```
 
-### Art. 74
+## Art. 74
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione delle ferrovie dello Stato, di competenza del- l'esercizio finanziario 1967, risulta cosi stabilito:
 
@@ -1531,7 +1531,7 @@ autonome)................................... L. 997.638.922.826 Spese delle gest
  -----------------
 ```
 
-### Art. 75
+## Art. 75
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1546,7 +1546,7 @@ si e versati............................. " 343.126.992.834
  ---------------
 ```
 
-### Art. 76
+## Art. 76
 
 I residui passivi alla chiusura dell'e-
 
@@ -1559,7 +1559,7 @@ ti in....................................... L. 524.443.825.717 dei quali nell'e
  ---------------
 ```
 
-### Art. 77
+## Art. 77
 
 I residui attivi alla chiusura dell'esercizio 1967 risultano sta- biliti nelle seguenti somme:
 
@@ -1576,7 +1576,7 @@ degli esercizi precedenti (articolo 75)..... " 174.228.209.097
  --------------
 ```
 
-### Art. 78
+## Art. 78
 
 I residui passivi alla chiusura dell'esercizio 1967 risultano sta- biliti nelle seguenti somme:
 

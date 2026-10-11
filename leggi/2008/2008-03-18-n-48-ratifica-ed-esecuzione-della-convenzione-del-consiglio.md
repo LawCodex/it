@@ -30,19 +30,17 @@ la seguente legge:
 
 ## Capo I - RATIFICA ED ESECUZIONE
 
-##### Art. 1 - Autorizzazione alla ratifica
+### Art. 1 - Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la Convenzione del Consiglio d'Europa sulla criminalita' informatica, fatta a Budapest il 23 novembre 2001, di seguito denominata "Convenzione".
 
-##### Art. 2 - Ordine di esecuzione
+### Art. 2 - Ordine di esecuzione
 
 1\. Piena e intera esecuzione e' data alla Convenzione, a decorrere dalla data della sua entrata in vigore in conformita' a quanto disposto dall'articolo 36 della Convenzione stessa.
 
-## Capo II - MODIFICHE AL CODICE PENALE
+## Capo II - MODIFICHE AL CODICE PENALE E AL DECRETO LEGISLATIVO 8 GIUGNO 2001, N. 231
 
-### E AL DECRETO LEGISLATIVO - 8 GIUGNO 2001, N. 231
-
-##### Art. 3
+### Art. 3
 
 (Modifiche al titolo VII del libro secondo
 
@@ -58,7 +56,7 @@ b) il secondo periodo e' soppresso.
 
 "Art. 495-bis. - (Falsa dichiarazione o attestazione al certificatore di firma elettronica sull'identita' o su qualita' personali proprie o di altri). - Chiunque dichiara o attesta falsamente al soggetto che presta servizi di certificazione delle firme elettroniche l'identita' o lo stato o altre qualita' della propria o dell'altrui persona e' punito con la reclusione fino ad un anno".
 
-##### Art. 4
+### Art. 4
 
 (Modifica al titolo XII del libro secondo
 
@@ -68,7 +66,7 @@ del codice penale)
 
 "Art. 615-quinquies. - (Diffusione di apparecchiature, dispositivi o programmi informatici diretti a danneggiare o interrompere un sistema informatico o telematico). - Chiunque, allo scopo di danneggiare illecitamente un sistema informatico o telematico, le informazioni, i dati o i programmi in esso contenuti o ad esso pertinenti ovvero di favorire l'interruzione, totale o parziale, o l'alterazione del suo funzionamento, si procura, produce, riproduce, importa, diffonde, comunica, consegna o, comunque, mette a disposizione di altri apparecchiature, dispositivi o programmi informatici, e' punito con la reclusione fino a due anni e con la multa sino a euro 10.329".
 
-##### Art. 5 - Modifiche al titolo XIII del libro secondo del codice penale
+### Art. 5 - Modifiche al titolo XIII del libro secondo del codice penale
 
 1\. L'articolo 635-bis del codice penale e' sostituito dal seguente:
 
@@ -98,7 +96,7 @@ Se ricorre la circostanza di cui al numero 1) del secondo comma dell'articolo 63
 
 "Art. 640-quinquies. - (Frode informatica del soggetto che presta servizi di certificazione di firma elettronica). - Il soggetto che presta servizi di certificazione di firma elettronica, il quale, al fine di procurare a se' o ad altri un ingiusto profitto ovvero di arrecare ad altri danno, viola gli obblighi previsti dalla legge per il rilascio di un certificato qualificato, e' punito con la reclusione fino a tre anni e con la multa da 51 a 1.032 euro".
 
-##### Art. 6
+### Art. 6
 
 (Modifiche all'articolo 420
 
@@ -106,7 +104,7 @@ del codice penale)
 
 1\. All'articolo 420 del codice penale, il secondo e il terzo comma sono abrogati.
 
-##### Art. 7
+### Art. 7
 
 (Introduzione dell'articolo 24-bis
 
@@ -122,13 +120,9 @@ del decreto legislativo 8 giugno 2001, n. 231)
 
 4\. Nei casi di condanna per uno dei delitti indicati nel comma 1 si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, lettere a), b) ed e). Nei casi di condanna per uno dei delitti indicati nel comma 2 si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, lettere b) ed e). Nei casi di condanna per uno dei delitti indicati nel comma 3 si applicano le sanzioni interdittive previste dall'articolo 9, comma 2, lettere c), d) ed e)".
 
-## Capo III - MODIFICHE AL CODICE
+## Capo III - MODIFICHE AL CODICE DI PROCEDURA PENALE E AL CODICE DI CUI AL DECRETO LEGISLATIVO 30 GIUGNO 2003, N. 196
 
-### DI PROCEDURA PENALE E AL CODICE - DI CUI AL DECRETO LEGISLATIVO
-
-#### 30 GIUGNO 2003, N. 196
-
-##### Art. 8
+### Art. 8
 
 (Modifiche al titolo III del libro terzo
 
@@ -164,7 +158,7 @@ a) al comma 1, dopo le parole: "con altro mezzo" sono inserite le seguenti: ", a
 
 b) al comma 2 e' aggiunto, in fine, il seguente periodo: "Quando si tratta di dati, di informazioni o di programmi informatici, la copia deve essere realizzata su adeguati supporti, mediante procedura che assicuri la conformita' della copia all'originale e la sua immodificabilita'; in tali casi, la custodia degli originali puo' essere disposta anche in luoghi diversi dalla cancelleria o dalla segreteria".
 
-##### Art. 9
+### Art. 9
 
 (Modifiche al titolo IV del libro quinto
 
@@ -182,7 +176,7 @@ b) al comma 3, primo periodo, le parole: "lettere, pieghi, pacchi, valori, teleg
 
 3\. All'articolo 354, comma 2, del codice di procedura penale, dopo il primo periodo e' inserito il seguente: "In relazione ai dati, alle informazioni e ai programmi informatici o ai sistemi informatici o telematici, gli ufficiali della polizia giudiziaria adottano, altresi', le misure tecniche o impartiscono le prescrizioni necessarie ad assicurarne la conservazione e ad impedirne l'alterazione e l'accesso e provvedono, ove possibile, alla loro immediata duplicazione su adeguati supporti, mediante una procedura che assicuri la conformita' della copia all'originale e la sua immodificabilita'".
 
-##### Art. 10
+### Art. 10
 
 (Modifiche all'articolo 132 del codice
 
@@ -196,7 +190,7 @@ in materia di protezione dei dati personali, di cui al decreto legislativo 30 gi
 
 4-quinquies. I provvedimenti adottati ai sensi del comma 4-ter sono comunicati per iscritto, senza ritardo e comunque entro quarantotto ore dalla notifica al destinatario, al pubblico ministero del luogo di esecuzione il quale, se ne ricorrono i presupposti, li convalida. In caso di mancata convalida, i provvedimenti assunti perdono efficacia".
 
-##### Art. 11
+### Art. 11
 
 Competenza
 
@@ -206,7 +200,7 @@ Competenza
 
 ((1-bis. Le disposizioni di cui al comma 3-quinquies dell'articolo 51 del codice di procedura penale, introdotto dal comma 1 del presente articolo, si applicano solo ai procedimenti iscritti nel registro di cui all'articolo 335 del codice di procedura penale successivamente alla data di entrata in vigore della presente legge.))
 
-##### Art. 12
+### Art. 12
 
 (Fondo per il contrasto della pedopornografia su internet
 
@@ -222,13 +216,13 @@ di interesse nazionale)
 
 ## Capo IV - DISPOSIZIONI FINALI
 
-##### Art. 13 - Norma di adeguamento
+### Art. 13 - Norma di adeguamento
 
 1\. L'autorita' centrale ai sensi degli articoli 24, paragrafo 7, e 27, paragrafo 2, della Convenzione e' il Ministro della giustizia.
 
 2\. Il Ministro dell'interno, di concerto con il Ministro della giustizia, individua il punto di contatto di cui all'articolo 35 della Convenzione.
 
-##### Art. 14 - Entrata in vigore
+### Art. 14 - Entrata in vigore
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -256,7 +250,7 @@ Visto, il Guardasigilli: Scotti
 
 ## Capo IV - DISPOSIZIONI FINALI
 
-##### Convention
+### Convention
 
 Convention
 

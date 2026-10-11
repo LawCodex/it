@@ -54,37 +54,37 @@ il seguente decreto legislativo:
 
 ## Capo I - Disposizioni comuni
 
-#### Art. 1
+### Art. 1
 
 (( ARTICOLO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-#### Art. 2
+### Art. 2
 
 (( ARTICOLO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-#### Art. 3
+### Art. 3
 
 (( ARTICOLO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-#### Art. 4
+### Art. 4
 
 (( ARTICOLO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-#### Art. 5
+### Art. 5
 
 (( ARTICOLO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-#### Art. 6
+### Art. 6
 
 (( ARTICOLO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
 ## Capo II - Trattamenti per scopi storici
 
-#### Art. 7
+### Art. 7
 
 (( ARTICOLO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-#### Art. 8
+### Art. 8
 
 Consultabilita' di documenti
 
@@ -94,19 +94,17 @@ Consultabilita' di documenti
 
 2\. ((IL D.LGS. 22 GENNAIO 2004, N. 42 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE COMMA)).
 
-#### Art. 9
+### Art. 9
 
 ((IL D.LGS. 22 GENNAIO 2004, N. 42 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-## Capo III - Trattamenti per scopi statistici
+## Capo III - Trattamenti per scopi statistici e di ricerca scientifica
 
-### e di ricerca scientifica
-
-#### Art. 10
+### Art. 10
 
 (( ARTICOLO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-#### Art. 11
+### Art. 11
 
 Disposizioni sul Sistema statistico nazionale
 
@@ -164,7 +162,7 @@ Trattamenti di dati personali
 
 > 5\. Restano ferme le norme sul segreto professionale degli esercenti la professione di giornalista, limitatamente alla fonte della notizia".
 
-#### Art. 12
+### Art. 12
 
 Modifiche a disposizioni vigenti
 
@@ -232,31 +230,29 @@ Modifiche a disposizioni vigenti
 
 > 9\. l compensi di cui all'art. 20 per imembri della commissione sono posti a carico del bilancio dell'ISTAT".
 
-## Capo IV - Norme modificative e integrative
+## Capo IV - Norme modificative e integrative della legge n. 675/1996 e disposizioni finali e transitorie
 
-### della legge n. 675/1996 - e disposizioni finali e transitorie
-
-#### Art. 13
+### Art. 13
 
 (( ARTICOLO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-#### Art. 14
+### Art. 14
 
 (( ARTICOLO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-#### Art. 15
+### Art. 15
 
 (( ARTICOLO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-#### Art. 16
+### Art. 16
 
 (( ARTICOLO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-#### Art. 17
+### Art. 17
 
 (( ARTICOLO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 
-#### Art. 18
+### Art. 18
 
 (( ARTICOLO ABROGATO DAL D.LGS. 30 GIUGNO 2003, N. 196 ))
 

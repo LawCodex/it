@@ -344,7 +344,7 @@ Se il Regno di Spagna liberalizza le importazioni di uno dei prodotti di cui agl
 
 Per i prodotti di cui al regolameto (CEE) n. 3033/80 originari dell'Egitto, il Regno di Spagna abolisce progressivamente, dall'entrata in vigore del presente protocollo, i dazi doganali che costituiscono l'elemento fisso dell'imposizione, a partire dai dazi di base indicati all'allegato IV e secondo il ritmo previsto all'articolo 3, paragrafo 2.
 
-## Sezione II - Prodotti riportati all'allegato II del trattato che istituisce la Comunita' Economica europea
+#### Sezione II - Prodotti riportati all'allegato II del trattato che istituisce la Comunita' Economica europea
 
 ##### Articolo 8
 
@@ -424,7 +424,7 @@ Per i prodotti di cui all'articolo 8, paragrafo 1, al 1 marzo 1986, non sono sub
 
 La presente disposizione si applica soltanto fino all'attuazione di un'organizzazione comune dei mercati per questi prodotti, ma comunque non oltre il 31 dicembre 1995, entro i limiti strettamente necessari per garantire il mantenimento dell'organizzazione nazionale.
 
-## Sezione III - Isole Canarie e Ceuta e Melilla
+#### Sezione III - Isole Canarie e Ceuta e Melilla
 
 ##### Articolo 12
 
@@ -438,9 +438,9 @@ La presente disposizione si applica soltanto fino all'attuazione di un'organizza
 
 Nondimeno, detta tassa puo' essere mantenuta all'importazione dei prodotti riportati nell'elenco dell'allegato VI ed all'aliquota che corrisponde al 90% dell'aliquota indicata a fianco di ciascun prodotto ivi elencato e a condizione che detta aliquota ridotta venga applicata uniformemente su qualsiasi importazione di prodotti in causa originari dell'Egitto. Essa verra' abolita nello stesso momento in cui sara' soppressa nei confronti della Comunita'. La tassa in questione non potra' mai essere superiore al livello della tariffa doganale spagnola modificato per l'introduzione progressiva della tariffa doganale comune.
 
-## Capitolo II - Disposizioni applicabili alla Repubblica portoghese
+### Capitolo II - Disposizioni applicabili alla Repubblica portoghese
 
-### Sezione I - Regime generale
+#### Sezione I - Regime generale
 
 ##### Articolo 13
 
@@ -514,7 +514,7 @@ Fino al 31 dicembre 1987, la Repubblica portoghese mantiene restrizioni quantita
 
 Per i prodotti di cui al regolamento (CEE) n. 3033/80, originari dell'Egitto, la Repubblica portoghese abolisce progressivamente i dazi doganali che costituiscono l'elemento fisso dell'imposizione a partire dai dazi di base riportati nell'allegato X e secondo il ritmo previsto all'articolo 13, paragrafo 2.
 
-## Sezione II - Prodotti riportati all'allegato II del trattato che istituisce la Comunita' economica europea
+#### Sezione II - Prodotti riportati all'allegato II del trattato che istituisce la Comunita' economica europea
 
 ##### Articolo 20
 

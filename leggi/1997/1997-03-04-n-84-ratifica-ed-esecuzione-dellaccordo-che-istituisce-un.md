@@ -27,21 +27,21 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'accordo che istituisce un partenariato ed una cooperazione tra le Comunita' europee ed i loro Stati membri, da un lato, e la Repubblica del Kirghizistan, dall'altro, con due allegati, protocollo relativo all'assistenza reciproca in materia doganale, atto finale e scambio di lettere, fatto a Bruxelles il 9 febbraio 1995.
 
-##### Art. 2
+#### Art. 2
 
 1\. Piena ed intera esecuzione e' data all'accordo di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore in conformita' a quanto disposto dall'articolo 98 dello stesso accordo.
 
-##### Art. 3
+#### Art. 3
 
 1\. All'onere derivante dall'attuazione della presente legge, valutato in lire 14 milioni annue a decorrere dal 1996, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1996-1998, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1996, allo scopo parzialmente utilizzando l'accantonamento riguardante il Ministero degli affari esteri.
 
 2\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 4
+#### Art. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -147,7 +147,7 @@ DESIDEROSI di avviare una cooperazione culturale e di migliorare il flusso delle
 
 HANNO DECISO QUANTO SEGUE:
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 E' istituito un partenariato tra la Comunita' e gli Stati membri, da una parte, e la Repubblica del Kirghizistan, dall'altra. Gli obiettivi del partenariato sono:
 
@@ -161,17 +161,17 @@ E' istituito un partenariato tra la Comunita' e gli Stati membri, da una parte, 
 
 ## TITOLO I - PRINCIPI GENERALI
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Il rispetto della democrazia, i principi dei diritto internazionale e i diritti dell'uomo definiti, in particolare, nella Carta delle Nazioni Unite, nell'Atto finale di Helsinki e nella Carta di Parigi per una nuova Europa, nonche' i principi dell'economia di mercato, compresi quelli enunciati nei documenti della Conferenza CSCE di Bonn, sono alla base delle politiche interna ed estera delle Parti e costituiscono elementi fondamentali del partenariato e del presente accordo.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 Le Parti ritengono fondamentale, per la futura prosperita' e stabilita' nell'area dell'ex Unione Sovietica, che i nuovi Stati indipendenti sorti dopo lo scioglimento dell'Unione delle Repubbliche Socialiste Sovietiche (in appresso denominati "Stati indipendenti") mantengano e sviluppino la cooperazione tra di essi conformemente ai principi dell'Atto finale di Helsinki e al diritto internazionale, in uno spirito di buon vicinato, e che moltiplichino gli sforzi per promuovere questo processo.
 
 ## TITOLO II - DIALOGO POLITICO
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Le Parti avviano un regolare dialogo politico, che e' loro intenzione sviluppare e intensificare per accompagnare e consolidare il ravvicinamento tra la Comunita' e la Repubblica del Kirghizistan, sostenere i mutamenti politici ed economici in corso in questo paese e contribuire ad instaurare nuove forme di cooperazione. Detto dialogo politico:
 
@@ -181,11 +181,11 @@ Le Parti avviano un regolare dialogo politico, che e' loro intenzione sviluppare
 
 Il dialogo puo' svolgersi a livello regionale.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 A livello ministeriale, il dialogo politico si svolgera' nell'ambito del Consiglio di cooperazione istituito ai sensi dell'articolo 75 e, previo mutuo accordo, in altre occasioni.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 Le Parti creeranno altre procedure e altri meccanismi per il dialogo politico, segnatamente nelle forme seguenti:
 
@@ -195,13 +195,13 @@ Le Parti creeranno altre procedure e altri meccanismi per il dialogo politico, s
 
 \- utilizzando qualsiasi altro mezzo, compresa la possibilita' di riunioni tra esperti, che possa contribuire a consolidare e a sviluppare tale dialogo.
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 A livello parlamentare, il dialogo politico si svolgera' nell'ambito del Comitato parlamentare di cooperazione creato a norma dell'articolo 80 del presente accordo.
 
 ## TITOLO III - SCAMBI DI MERCI
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 1\. Le Parti si concedono reciprocamente il trattamento della nazione piu' favorita in tutti settori, per quanto riguarda:
 
@@ -225,7 +225,7 @@ c) ai vantaggi concessi ai paesi limitrofi per agevolare il traffico frontaliero
 
 3\. Le disposizioni del paragrafo 1 non si applicano, per un periodo transitorio che scadra' il 31 dicembre 1998 o, se precedente, al momento dell'adesione della Repubblica del Kirghizistan al GATT, ai vantaggi definiti nell'allegato I concessi dalla Repubblica del Kirghizistan agli altri Stati indipendenti dell'ex URSS.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 1\. Le Parti convengono che il principio del libero transito e' fondamentale per conseguire gli obiettivi del presente accordo.
 
@@ -235,21 +235,21 @@ A tale riguardo, ciascuna delle Parti consente il transito senza restrizioni att
 
 3\. Le disposizioni del presente articolo lasciano impregiudicate tutte le norme speciali concordate tra le Parti relative a settori particolari quali i trasporti o a determinati prodotti.
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 Fatti salvi i diritti e gli obblighi derivanti dalle convenzioni internazionali sull'ammissione temporanea delle merci cui hanno aderito entrambe le Parti, ciascuna di queste ultime concede all'altra l'esenzione dagli oneri all'importazione e dai dazi sulle merci in ammissione temporanea, nei casi e secondo le procedure previsti da qualsiasi altra convenzione in materia cui abbia aderito, in conformita' alla propria legislazione. Si terra' conto delle condizioni alle quali le Parti hanno accettato gli obblighi derivanti da tale convenzione.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 1\. Le merci originarie della Repubblica del Kirghizistan sono importate nella Comunita' in esenzione da restrizioni quantitative, fatte salve le disposizioni degli articoli 13, 16 e 17 del presente accordo nonche' le disposizioni degli articoli 77, 81, 244, 249 e 280 degli atti di adesione della Spagna e del Portogallo alla Comunita' europea.
 
 2\. Le merci originarie della Comunita' sono importate nella Repubblica del Kirghizistan in esenzione da tutte le restrizioni quantitative o misure di effetto equivalente.
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 Le merci vengono commercializzate tra le Parti ai prezzi di mercato.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 1\. Se un prodotto viene importato nel territorio di una delle Parti in quantita' talmente grandi o in condizioni tali da provocare o da minacciare di provocare pregiudizio ai produttori nazionali di prodotti simili o direttamente concorrenti, la Comunita' o la Repubblica del Kirghizistan, a seconda dei casi, possono prendere le misure opportune attenendosi alle seguenti procedure e condizioni.
 
@@ -263,19 +263,19 @@ Le merci vengono commercializzate tra le Parti ai prezzi di mercato.
 
 6\. Nessuna disposizione del presente articolo pregiudica ne' compromette minimamente l'adozione, ad opera di una delle Parti, di misure antidumping o compensative conformemente all'articolo VI del GATT, all'accordo sull'applicazione dell'articolo VI del GATT, all'accordo sull'interpretazione e sull'applicazione degli articoli VI, XVI e XXIII del GATT o alla relativa legislazione interna.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 Le Parti si impegnano a prendere in considerazione possibili sviluppi delle disposizioni del presente accordo relative agli scambi di merci tra di esse in funzione delle circostanze, compresa l'adesione della Repubblica del Kirghizistan al GATT. Il Consiglio di cooperazione di cui all'articolo 75 puo' formulare raccomandazioni alle Parti su questi sviluppi; se li accettano, le Parti possono procedere a detti sviluppi mediante un accordo concluso conformemente alle rispettive procedure.
 
-##### ARTICOLO 15
+#### ARTICOLO 15
 
 Il presente accordo lascia impregiudicati i divieti o le restrizioni sulle importazioni, sulle esportazioni o sul transito giustificati da motivi di moralita' pubblica, di ordine pubblico, di pubblica sicurezza, dalla tutela della vita e della salute delle persone, degli animali o delle piante, dalla tutela delle risorse naturali, dalla protezione del patrimonio artistico, storico o archeologico nazionale, dalla tutela della proprieta' intellettuale, industriale o commerciale oppure da norme relative all'oro e all'argento. Tuttavia, tali divieti e restrizioni non devono costituire un mezzo di discriminazione arbitraria, ne' una restrizione dissimulata al commercio tra le Parti.
 
-##### ARTICOLO 16
+#### ARTICOLO 16
 
 Il presente Titolo non si applica agli scambi di prodotti tessili che rientrano nei capitoli 50-63 della nomenclatura combinata, la cui disciplina e' contenuta in un accordo a parte siglato il 15 ottobre 1993 e applicato in via provvisoria dal 1 gennaio 1994.
 
-##### ARTICOLO 17
+#### ARTICOLO 17
 
 1\. Gli scambi dei prodotti contemplati dal trattato che istituisce la Comunita' europea del carbone e dell'acciaio sono disciplinati dalle disposizioni del presente Titolo, fatta eccezione per l'articolo 11.
 
@@ -283,47 +283,45 @@ Il presente Titolo non si applica agli scambi di prodotti tessili che rientrano 
 
 Il gruppo di contatto procede a regolari scambi di informazioni su tutte le questioni siderurgiche che interessano le Parti.
 
-##### ARTICOLO 18
+#### ARTICOLO 18
 
 Agli scambi di materiali nucleari si applicano le disposizioni di un accordo specifico che sara' concluso tra la Comunita' europea dell'energia atomica e la Repubblica del Kirghizistan.
 
 ## TITOLO IV - DISPOSIZIONI RIGUARDANTI LE ATTIVITA' COMMERCIALI E GLI INVESTIMENTI
 
-### CAPITOLO I
+### CAPITOLO I - Condizioni di lavoro
 
-#### Condizioni di lavoro
-
-##### ARTICOLO 19
+#### ARTICOLO 19
 
 1\. Conformemente alle leggi, condizioni e procedure applicabili in ciascuno Stato membro, la Comunita' e gli Stati membri si adoperano per evitare che i cittadini kirghisi legalmente impiegati sul territorio di uno Stato membro siano oggetto, rispetto ai loro cittadini, di discriminazioni basate sulla nazionalita' per quanto riguarda le condizioni di lavoro di retribuzione o di licenziamento.
 
 2\. Conformemente alle leggi, condizioni e procedure applicabili nella Repubblica del Kirghizistan, questo Stato si adopera per evitare che i cittadini di uno Stato membro legalmente impiegati sul suo territorio siano oggetto di discriminazioni, rispetto ai propri cittadini, basate sulla nazionalita' per quanto riguarda le condizioni di lavoro, di retribuzione o di licenziamento.
 
-##### ARTICOLO 20
+#### ARTICOLO 20
 
 Il Consiglio di cooperazione studia il modo di effettuare congiuntamente un controllo dell'immigrazione illegale tenendo conto del principio e della prassi della riammissione.
 
-##### ARTICOLO 21
+#### ARTICOLO 21
 
 Il Consiglio di cooperazione riflette su come migliorare le condizioni di lavoro per gli uomini d'affari conformemente agli impegni internazionali delle Parti, compresi quelli che figurano nel documento della conferenza CSCE di Bonn.
 
-##### ARTICOLO 22
+#### ARTICOLO 22
 
 Il Consiglio di cooperazione formula raccomandazioni per l'applicazione degli articoli 19, 20 e 21.
 
-## CAPITOLO II - Condizioni per lo stabilimento e l'attivita' delle societa'
+### CAPITOLO II - Condizioni per lo stabilimento e l'attivita' delle societa'
 
-##### ARTICOLO 23
+#### ARTICOLO 23
 
 1\. Conformemente alle rispettive legislazioni e normative, la Comunita' e gli Stati membri concedono alle societa' kirghise, come definite all'articolo 25, che si stabiliscono sul loro territorio creando controllate o sedi secondarie, un trattamento non meno favorevole di quello concesso a qualsiasi paese terzo; alle controllate e sedi secondarie di societa' kirghise stabilite sul loro territorio e' concesso, per la loro attivita', un trattamento non meno favorevole di quello concesso alle societa' o alle sedi secondarie di qualsiasi paese terzo.
 
 2\. Fatte salve le disposizioni degli articoli 35 e 84, la Repubblica del Kirghizistan concede, conformemente alle sue leggi e normative, alle societa' comunitarie e alle loro sedi secondarie un trattamento non meno favorevole di quello concesso alle sue societa' e alle loro sedi secondarie oppure, se piu' favorevole, alle societa' e alle sedi secondarie di societa' dei paesi terzi, per quanto riguarda lo stabilimento e l'attivita' sul suo territorio ai sensi dell'articolo 25.
 
-##### ARTICOLO 24
+#### ARTICOLO 24
 
 1\. Le disposizioni dell'articolo 23 non si applicano al trasporto aereo, fluviale e marittimo.
 
-##### ARTICOLO 25
+#### ARTICOLO 25
 
 Ai fini del presente accordo:
 
@@ -341,17 +339,17 @@ f) Per "attivita' economiche" s'intendono le attivita' di natura industriale, co
 
 Per quanto riguarda il trasporto marittimo internazionale, comprese le operazioni intermodali che comprendono una tratta marittima, i cittadini degli Stati membri o della Repubblica del Kirghizistan stabiliti al di fuori della Comunita' o della Repubblica del Kirghizistan rispettivamente e le agenzie marittime stabilite al di fuori della Comunita' o della Repubblica del Kirghizistan e controllate da cittadini di uno Stato membro o della Repubblica del Kirghizistan rispettivamente, beneficiano delle disposizioni del presente capitolo e del capitolo III se le loro navi sono registrate in detto Stato membro o nella Repubblica del Kirghizistan in conformita' delle rispettive legislazioni.
 
-##### ARTICOLO 26
+#### ARTICOLO 26
 
 1\. Fatte salve le altre disposizioni dell'accordo, ciascuna Parte non e' impedita di adottare misure cautelative per tutelare gli investitori, i depositanti, gli assicurati o le persone nei confronti delle quali un fornitore di servizi finanziari ha un obbligo fiduciario, oppure per garantire l'integrita' e la stabilita' del sistema finanziario. Qualora tali misure non siano conformi alle disposizioni dell'accordo esse non vengono utilizzate dalle Parti per eludere gli obblighi ivi previsti.
 
 2\. Nessuna disposizione dell'accordo puo' essere interpretata nel senso di richiedere a una Parte di rivelare informazioni relative agli affari e alla contabilita' dei singoli clienti ne' informazioni riservate o esclusive in possesso di enti pubblici.
 
-##### ARTICOLO 27
+#### ARTICOLO 27
 
 Le disposizioni del presente accordo non pregiudicano l'applicazione, ad opera di ciascuna Parte, di ogni misura necessaria per impedire l'elusione delle misure riguardanti l'accesso dei paesi terzi al loro mercato attraverso le disposizioni del presente accordo.
 
-##### ARTICOLO 28
+#### ARTICOLO 28
 
 1\. Fatte salve le disposizioni del capitolo I del presente titolo, una societa' comunitaria o kirghisa stabilita, sul territorio della Repubblica del Kirghizistan o della Comunita' rispettivamente ha il diritto di assumere o di far assumere da una delle sue controllate o sedi controllate o sedi secondarie, conformemente alla legislazione in vigore nel paese di stabilimento, sul territorio rispettivamente della Repubblica del Kirghizistan e della Comunita', cittadini degli Stati membri della Comunita' e della Repubblica del Kirghizistan, purche' si tratti di quadri intermedi ai sensi del paragrafo 2 del presente articolo impiegati esclusivamente da societa' o sedi secondarie. I permessi di soggiorno e di lavoro di questi dipendenti coprono unicamente la durata di tale occupazione.
 
@@ -369,11 +367,11 @@ b) I dipendenti di un'organizzazione in possesso di conoscenze non comuni indisp
 
 c) Per "persona trasferita all'interno della societa'" s'intende una persona fisica che lavora presso un'organizzazione sul territorio di una delle Parti e temporaneamente trasferita nel quadro di attivita' economiche svolte sul territorio dell'altra Parte; l'organizzazione in questione deve avere la sede principale sul territorio di una Parte e il trasferimento deve avvenire verso un'impresa (sede secondaria, controllata) di questa organizzazione, che effettivamente svolge attivita' economiche simili sul territorio dell'altra Parte.
 
-##### ARTICOLO 29
+#### ARTICOLO 29
 
 Le Parti riconoscono che e' importante concedersi reciprocamente il trattamento nazionale per lo stabilimento e l'attivita' delle rispettive societa' sul territorio dell'altra Parte e decidono di prendere in considerazione la possibilita' di raggiungere questo obiettivo secondo modalita' reciprocamente soddisfacenti, in base alle raccomandazioni del Consiglio di cooperazione.
 
-##### ARTICOLO 30
+#### ARTICOLO 30
 
 1\. Le Parti adoperano le loro migliori energie per evitare di adottare misure o avviare azioni tali da rendere le condizioni per lo stabilimento e l'attivita' delle societa' dell'altra Parte piu' restrittive rispetto alla situazione esistente il giorno che precede la firma dell'accordo.
 
@@ -383,19 +381,19 @@ Le Parti riconoscono che e' importante concedersi reciprocamente il trattamento 
 
 4\. Qualora l'introduzione nella Repubblica del Kirghizistan di nuove leggi o di nuovi regolamenti renda le condizioni per l'attivita' delle controllate e sedi secondarie di societa' comunitarie stabilite nella Repubblica del Kirghizistan piu' restrittive rispetto alla situazione esistente il giorno della firma dell'accordo, dette leggi o detti regolamenti non si applicano, per i tre anni successivi all'entrata in vigore dell'atto in questione, alle controllate e sedi secondarie gia' stabilite nella Repubblica del Kirghizistan al momento dell'entrata in vigore dell'atto stesso.
 
-## CAPITOLO III - Fornitura transnazionale di servizi tra la Comunita' e la Repubblica del Kirghizistan
+### CAPITOLO III - Fornitura transnazionale di servizi tra la Comunita' e la Repubblica del Kirghizistan
 
-##### ARTICOLO 31
+#### ARTICOLO 31
 
 1\. Conformemente alle disposizioni del presente capitolo, le Parti si impegnano ad adottare le misure necessarie per autorizzare progressivamente la fornitura di servizi da parte di societa' comunitarie o kirghise stabilite in una Parte diversa da quella del destinatario dei servizi, tenendo conto dell'evoluzione dei settori terziari delle Parti.
 
 2\. Il Consiglio di cooperazione fa raccomandazioni per l'applicazione del paragrafo 1.
 
-##### ARTICOLO 32
+#### ARTICOLO 32
 
 Le Parti collaborano al fine di sviluppare nella Repubblica del Kirghizistan un settore terziario orientato verso il mercato.
 
-##### ARTICOLO 33
+#### ARTICOLO 33
 
 1\. Le Parti si impegnano ad applicare efficacemente il principio dell'accesso illimitato al mercato e al traffico marittimo internazionale su base commerciale.
 
@@ -413,35 +411,35 @@ c) vietano le intese di ripartizione del carico nei futuri accordi bilaterali pe
 
 d) all'entrata in vigore dell'accordo aboliscono tutte le misure unilaterali, nonche' gli ostacoli amministrativi, tecnici o di altra natura che potrebbero introdurre restrizioni o discriminazioni rispetto alla libera fornitura di servizi nel trasporto marittimo internazionale.
 
-##### ARTICOLO 34
+#### ARTICOLO 34
 
 Al fine di garantire uno sviluppo coordinato dei trasporti tra le Parti delle loro esigenze commerciali, le condizioni del reciproco accesso al mercato nonche' la fornitura di servizi di trasporto stradale, ferroviario, fluviale e, se del caso, aereo potranno essere trattate da specifici accordi, negoziati ove necessario delle Parti, dopo l'entrata in vigore del presente accordo.
 
-## CAPITOLO IV - Disposizioni generali
+### CAPITOLO IV - Disposizioni generali
 
-##### ARTICOLO 35
+#### ARTICOLO 35
 
 1\. L'applicazione delle disposizioni del presente titolo e' soggetta alle limitazioni giustificate da motivi di ordine pubblico, pubblica sicurezza o sanita' pubblica.
 
 2\. Dette disposizioni non si applicano alle attivita', svolte sul territorio di ciascuna Parte, connesse, anche occasionalmente, all'esercizio delle potesta' pubbliche.
 
-##### ARTICOLO 36
+#### ARTICOLO 36
 
 Ai fini del presente titolo, nessun elemento del presente accordo vieta alle Parti di applicare le rispettive leggi e regolamenti in materia di ingresso e soggiorno, occupazione, condizioni di lavoro e di stabilimento delle persone fisiche e fornitura di servizi, purche' non le applichino in modo da vanificare o compromettere i vantaggi risultanti da una delle Parti da una disposizione specifica dell'accordo. Quanto precede non pregiudica l'applicazione dell'articolo 35.
 
-##### ARTICOLO 37
+#### ARTICOLO 37
 
 Beneficiano delle disposizioni dei capitoli II, III e IV del presente titolo anche le societa' controllate e possedute esclusivamente e congiuntamente da societa' kirghise e comunitarie.
 
-##### ARTICOLO 38
+#### ARTICOLO 38
 
 A decorrere dal primo giorno del mese che precede l'entrata in vigore dei corrispondenti obblighi dell'Accordo generale sul commercio e sui servizi (GATS), il trattamento concesso da ciascuna Parte all'altra ai sensi del presente accordo per i settori o le misure contemplati dal GATS non puo' comunque essere meno favorevole di quello concesso dalla Parte in questione a norma del GATS per ciascun settore, sottosettore e modo di fornitura dei servizi.
 
-##### ARTICOLO 39
+#### ARTICOLO 39
 
 Ai fini dei capitoli II, III e IV non si tiene conto del trattamento concesso dalla Comunita', dai suoi Stati membri o dalla Repubblica del Kirghizistan in base agli impegni assunti nel quadro di accordi di integrazione economica conformemente ai principi dell'articolo V del GATS.
 
-##### ARTICOLO 40
+#### ARTICOLO 40
 
 1\. Il trattamento della nazione piu' favorita concesso a norma del presente titolo non si applica ai vantaggi fiscali che le Parti concedono o concederanno in base ad accordi tesi a evitare la doppia imposizione o ad altre intese fiscali.
 
@@ -449,7 +447,7 @@ Ai fini dei capitoli II, III e IV non si tiene conto del trattamento concesso da
 
 3\. Nessun elemento del presento titolo puo' essere interpretato nel senso di impedire agli Stati membri o alla Repubblica del Kirghizistan di fare distinzioni, nell'applicare le pertinenti disposizioni della loro legislazione tributaria, tra contribuenti la cui situazione non e' identica, segnatamente per quanto riguarda il luogo di residenza.
 
-##### ARTICOLO 41
+#### ARTICOLO 41
 
 Fatto salvo il disposto dell'articolo 28, nessuna disposizione dei capitoli II, III e IV puo' essere intesa quale attribuzione del diritto a:
 
@@ -465,7 +463,7 @@ Fatto salvo il disposto dell'articolo 28, nessuna disposizione dei capitoli II, 
 
 ## TITOLO V - Pagamenti correnti e capitale
 
-##### ARTICOLO 42
+#### ARTICOLO 42
 
 1\. Le Parti si impegnano ad autorizzare l'uso di moneta liberamente convertibile per tutti i pagamenti sul conto corrente della bilancia dei pagamenti tra residenti della Comunita' e della Repubblica del Kirghizistan in relazione alla circolazione di beni, servizi o persone conformemente alle disposizioni del presente accordo.
 
@@ -479,9 +477,9 @@ Fatto salvo il disposto dell'articolo 28, nessuna disposizione dei capitoli II, 
 
 6\. Fatte salve le disposizioni di cui ai paragrafi 1 e 2, qualora in circostanze eccezionali, la circolazione dei capitali tra la Comunita' e la Repubblica del Kirghizistan provochi o minacci di provocare gravi difficolta' per la gestione delle politiche valutarie o monetarie nella Comunita' o nella Repubblica del Kirghizistan, ciascuna Parte rispettivamente puo' adottare misure di salvaguardia in merito per un periodo non superiore a sei mesi, a condizione che dette misure siano assolutamente necessarie.
 
-## CAPITOLO VI - Tutela della proprieta' intellettuale, industriale e commerciale
+### CAPITOLO VI - Tutela della proprieta' intellettuale, industriale e commerciale
 
-##### ARTICOLO 43
+#### ARTICOLO 43
 
 1\. Conformemente alle disposizioni del presente articolo e dell'allegato II, la Repubblica del Kirghizistan continua a migliorare la tutela dei diritti di proprieta' intellettuale, industriale e commerciale al fine di garantire, entro la fine del quinto anno dall'entrata in vigore dell'accordo, un livello di protezione analogo a quello esistente nella Comunita', prevedendo anche strumenti efficaci per l'attuazione di tali diritti. Il Consiglio di cooperazione puo' decidere di prolungare detto periodo in seguito a una situazione particolare nella Repubblica del Kirghizistan.
 
@@ -489,7 +487,7 @@ Fatto salvo il disposto dell'articolo 28, nessuna disposizione dei capitoli II, 
 
 ## TITOLO V - COOPERAZIONE LEGISLATIVA
 
-##### ARTICOLO 44
+#### ARTICOLO 44
 
 1\. Le Parti riconoscono che il ravvicinamento della legislazione attuale e futura della Repubblica del Kirghizistan a quella della Comunita' e' fondamentale per il consolidamento dei vincoli economici tra le Parti. La Repubblica del Kirghizistan si adoperera' di rendere la propria legislazione progressivamente compatibile con quella della Comunita'.
 
@@ -511,7 +509,7 @@ Fatto salvo il disposto dell'articolo 28, nessuna disposizione dei capitoli II, 
 
 ## TITOLO VI - COOPERAZIONE ECONOMICA
 
-##### ARTICOLO 45
+#### ARTICOLO 45
 
 1\. La Comunita' e la Repubblica del Kirghizistan istituiscono una cooperazione economica per favorire il processo di riforma e di rilancio dell'economia nonche' lo sviluppo sostenibile della Repubblica del Kirghizistan. Tale cooperazione rafforzera' e sviluppera' i vincoli economici esistenti a vantaggio di entrambe le Parti.
 
@@ -523,7 +521,7 @@ Fatto salvo il disposto dell'articolo 28, nessuna disposizione dei capitoli II, 
 
 5\. Se del caso, la Comunita' potra' fornire assistenza tecnica per la cooperazione economica e le altre forme di cooperazione previste dal presente accordo tenendo conto del regolamento del Consiglio relativo all'assistenza tecnica a favore degli Stati indipendenti, delle priorita' concordate nel programma indicativo per l'assistenza tecnica della Comunita' alla Repubblica del Kirghizistan e delle pro- cedure stabilite per il suo coordinamento ed attuazione.
 
-##### ARTICOLO 46
+#### ARTICOLO 46
 
 Cooperazione industriale
 
@@ -541,7 +539,7 @@ Cooperazione industriale
 
 2\. Le disposizioni del presente articolo non pregiudicano l'applicazione delle regole di concorrenza comunitarie applicabili alle imprese.
 
-##### ARTICOLO 47
+#### ARTICOLO 47
 
 Promozione e tutela degli investimenti
 
@@ -559,13 +557,13 @@ Promozione e tutela degli investimenti
 
 \- lo scambio di informazioni sulle possibilita' di investimenti sotto forma, tra l'altro, di fiere commerciali, esposizioni, settimane commerciali e altre manifestazioni.
 
-##### ARTICOLO 48
+#### ARTICOLO 48
 
 Commesse pubbliche
 
 Le Parti collaborano per favorire la trasparenza e il rispetto delle regole di concorrenza nell'aggiudicazione degli appalti per la fornitura di beni e servizi, in particolare mediante bandi di gara.
 
-##### ARTICOLO 49
+#### ARTICOLO 49
 
 Cooperazione in materia di standards e di valutazione della conformita'
 
@@ -579,7 +577,7 @@ Cooperazione in materia di standards e di valutazione della conformita'
 
 \- mettere in comune l'esperienza e le informazioni tecniche in materia di gestione della qualita'.
 
-##### ARTICOLO 50
+#### ARTICOLO 50
 
 Prodotti minerari e materie prime
 
@@ -599,7 +597,7 @@ Prodotti minerari e materie prime
 
 \- la sicurezza nell'industria mineraria.
 
-##### ARTICOLO 51
+#### ARTICOLO 51
 
 Cooperazione scientifica e tecnologica
 
@@ -621,7 +619,7 @@ Nello svolgere le attivita' di cooperazione, si rivolge particolare attenzione a
 
 3\. La cooperazione prevista al presente articolo si svolgera' in base ad intese specifiche da negoziare e concludere secondo le procedure adottate da ciascuna Parte definendo, tra l'altro, opportune disposizioni in materia di DPI.
 
-##### ARTICOLO 52
+#### ARTICOLO 52
 
 Istruzione e formazione
 
@@ -649,13 +647,13 @@ Istruzione e formazione
 
 3\. L'eventuale partecipazione di una Parte, ai programmi dell'altra in materia di istruzione e formazione potra' essere esaminata in conformita' alle procedure rispettive; se del caso saranno stabiliti quadri istituzionali e programmi di cooperazione basandosi sulla partecipazione della Repubblica del Kirghizistan al programma TEMPUS della Comunita'.
 
-##### ARTICOLO 53
+#### ARTICOLO 53
 
 Agricoltura e settore agroindustriale
 
 La cooperazione nel settore si prefigge il proseguimento della riforma agraria, l'ammodernamento, la privatizzazione e la ristrutturazione dell'agricoltura, dell'agroindustria e del terziario nella Repubblica del Kirghizistan, lo sviluppo dei mercati interno ed estero per i prodotti kirghisi, in condizioni da assicurare la protezione dell'ambiente e tenendo conto dell'esigenza di regolarizzare l'approvvigionamento alimentare, nonche' lo sviluppo delle imprese di produzione, di trasformazione e di distribuzione dei prodotti agricoli. Le Parti cercheranno inoltre di ravvicinare progressivamente le norme kirghise alle norme tecniche comunitarie in materia di prodotti alimentari industriali e agricoli, comprese le norme sanitarie e fitosanitarie.
 
-##### ARTICOLO 54
+#### ARTICOLO 54
 
 Energia
 
@@ -683,7 +681,7 @@ Energia
 
 \- la sicurezza per la produzione, il trasporto e il transito dell'energia e dei materiali energetici.
 
-##### ARTICOLO 55
+#### ARTICOLO 55
 
 Ambiente
 
@@ -741,7 +739,7 @@ Ambiente
 
 \- studi sull'impatto ambientale.
 
-##### ARTICOLO 56
+#### ARTICOLO 56
 
 Trasporti
 
@@ -761,7 +759,7 @@ La cooperazione comprende, tra l'altro:
 
 \- la predisposizione di un contesto legislativo e istituzionale per l'elaborazione e l'applicazione delle varie politiche, compresa la privatizzazione del settore dei trasporti.
 
-##### ARTICOLO 57
+#### ARTICOLO 57
 
 Servizi postali e telecomunicazioni
 
@@ -785,7 +783,7 @@ Compatibilmente con i rispettivi poteri e con le rispettive competenze, le Parti
 
 \- impartire la formazione necessaria per gestire i servizi delle poste e telecomunicazioni in normali condizioni di mercato.
 
-##### ARTICOLO 58
+#### ARTICOLO 58
 
 Servizi finanziari
 
@@ -799,7 +797,7 @@ La cooperazione sara' segnatamente intesa ad agevolare l'inserimento della Repub
 
 Tale cooperazione contribuira' in particolare a sviluppare le relazioni tra la Repubblica del Kirghizistan e gli Stati membri nel settore dei servizi finanziari.
 
-##### ARTICOLO 59
+#### ARTICOLO 59
 
 Riciclaggio del denaro
 
@@ -807,7 +805,7 @@ Riciclaggio del denaro
 
 2\. La cooperazione nel settore comprende un'assistenza amministrativa e tecnica volta a definire norme adeguate contro il riciclaggio del denaro equivalenti a quelle adottate in materia dalla Comunita' e dai consessi internazionali, compresa la Task Force Azione Finanziaria (FAFT).
 
-##### ARTICOLO 60
+#### ARTICOLO 60
 
 Sviluppo regionale
 
@@ -817,7 +815,7 @@ Sviluppo regionale
 
 Esse incoraggiano inoltre i contatti diretti tra le rispettive regioni e organizzazioni pubbliche incaricate di programmare lo sviluppo regionale per consentire loro, tra l'altro, di scambiare metodi e mezzi atti ad incentivare lo sviluppo regionale.
 
-##### ARTICOLO 61
+#### ARTICOLO 61
 
 Cooperazione sociale
 
@@ -849,7 +847,7 @@ La cooperazione prevede, in particolare, quanto segue:
 
 Dette riforme dovranno introdurre nella Repubblica del Kirghizistan metodi di protezione consoni alle economie di mercato e comprenderanno tutte le forme di previdenza sociale.
 
-##### ARTICOLO 62
+#### ARTICOLO 62
 
 Turismo
 
@@ -867,7 +865,7 @@ Le Parti intensificano e sviluppano la cooperazione tra loro, che comprendera' a
 
 \- impartire la formazione necessaria per sviluppare il turismo.
 
-##### ARTICOLO 63
+#### ARTICOLO 63
 
 Piccole e medie imprese
 
@@ -881,19 +879,19 @@ Piccole e medie imprese
 
 \- sviluppo delle tecnologie.
 
-##### ARTICOLO 64
+#### ARTICOLO 64
 
 Informazione e comunicazione
 
 Le Parti favoriscono l'uso di metodi moderni per il trattamento dell'informazione, anche a livello dei mass media, e un efficace reciproco scambio di informazioni. Si privilegeranno i programmi volti a diffondere tra la popolazione le informazioni di base sulla Comunita' e sulla Repubblica del Kirghizistan compreso, nei limiti del possibile, l'accesso alle banche dati nel pieno rispetto dei diritti di proprieta' intellettuale.
 
-##### ARTICOLO 65
+#### ARTICOLO 65
 
 Tutela dei consumatori
 
 Le Parti collaboreranno strettamente per rendere compatibili i rispettivi sistemi di tutela dei consumatori. Tale cooperazione puo' comprendere scambi di informazioni sull'elaborazione delle leggi e sulla riforma istituzionale, la creazione di sistemi permanenti di informazione reciproca sui prodotti pericolosi, il miglioramento dell'informazione fornita ai consumatori, segnatamente per quanto riguarda i prezzi, le caratteristiche dei prodotti e i servizi offerti, lo sviluppo degli scambi tra coloro che rappresentano gli interessi dei consumatori, una maggiore compatibilita' delle politiche di tutela dei consumatori, l'organizzazione di seminari e cicli di formazione.
 
-##### ARTICOLO 66
+#### ARTICOLO 66
 
 Dogane
 
@@ -919,7 +917,7 @@ Si fornira' l'assistenza tecnica necessaria.
 
 3\. Fatta salva l'ulteriore cooperazione prevista nel presente accordo, in particolare all'articolo 69, l'assistenza reciproca tra le autorita' amministrative delle Parti per le questioni doganali e' disciplinata dalle disposizioni del protocollo allegato al presente accordo.
 
-##### ARTICOLO 67
+#### ARTICOLO 67
 
 Cooperazione statistica
 
@@ -935,7 +933,7 @@ In particolare, le Parti cooperano al fine di:
 
 La Comunita' fornisce a tal fine alla Repubblica del Kirghizistan l'assistenza tecnica necessaria.
 
-##### ARTICOLO 68
+#### ARTICOLO 68
 
 Economia
 
@@ -947,7 +945,7 @@ La Comunita' fornisce assistenza tecnica per:
 
 \- favorire la cooperazione tra gli economisti onde accelerare il trasferimento del know-how per l'elaborazione delle politiche economiche e procedere a una vasta diffusione dei risultati della ricerca in materia.
 
-##### ARTICOLO 69
+#### ARTICOLO 69
 
 Droga
 
@@ -955,35 +953,35 @@ Nell'ambito dei rispettivi poteri e competenze, le Parti cooperano per aumentare
 
 ## TITOLO VII - COOPERAZIONE CULTURALE
 
-##### ARTICOLO 70
+#### ARTICOLO 70
 
 Le Parti si impegnano a promuovere, incoraggiare e agevolare la cooperazione culturale. All'occorrenza, si potranno estendere alla Repubblica del Kirghizistan i programmi di cooperazione culturale della Comunita' o di uno o piu' Stati membri nonche' sviluppare altre attivita' di reciproco interesse.
 
 ## TITOLO VIII - COOPERAZIONE FINANZIARIA SOTTO FORMA DI ASSISTENZA TECNICA
 
-##### ARTICOLO 71
+#### ARTICOLO 71
 
 Per conseguire gli obiettivi del presente accordo e in conformita' degli articoli 72, 73 e 74, la Repubblica del Kirghizistan beneficia di assistenza finanziaria temporanea fornita dalla Comunita' sotto forma di aiuti non rimborsabili per l'assistenza tecnica intesi ad accelerare la trasformazione economica del paese.
 
-##### ARTICOLO 72
+#### ARTICOLO 72
 
 Detta assistenza finanziaria si svolge nell'ambito del TACIS come disciplinato dal relativo regolamento del Consiglio.
 
-##### ARTICOLO 73
+#### ARTICOLO 73
 
 Gli obiettivi e i settori dell'assistenza finanziaria comunitaria sono stabiliti in un programma indicativo che riflette le priorita' concordate tra le Parti in funzione delle esigenze della Repubblica del Kirghizistan, della capacita' di assorbimento dei vari settori e dello stato di avanzamento delle riforme. Le Parti ne informano il Consiglio di cooperazione.
 
-##### ARTICOLO 74
+#### ARTICOLO 74
 
 Per consentire un impiego ottimale delle risorse disponibili, le Parti si adoperano affinche' i contributi comunitari per l'assistenza tecnica siano erogati in stretto coordinamento con quelli provenienti da altre fonti quali gli Stati membri, altri paesi e organizzazioni internazionali tra cui la Banca internazionale per la ricostruzione e lo sviluppo e la Banca europea per la ricostruzione e lo sviluppo.
 
 ## TITOLO IX - DISPOSIZIONI ISTITUZIONALI, GENERALI E FINALI
 
-##### ARTICOLO 75
+#### ARTICOLO 75
 
 E istituito un Consiglio di cooperazione di sorvegliare l'attuazione del presente accordo. Il Consiglio si riunisce a livello ministeriale una volta all'anno. Esso esamina tutte le questioni importanti inerenti all'accordo e qualunque altro problema bilaterale o internazionale di reciproco interesse per il conseguimento degli obiettivi dell'accordo. Il Consiglio di cooperazione puo' formulare opportune raccomandazioni con l'accordo di entrambe le Parti.
 
-##### ARTICOLO 76
+#### ARTICOLO 76
 
 1\. Il Consiglio di cooperazione e' composto da membri del Consiglio dell'Unione europea e della Commissione delle Comunita' europee, da un lato, e da membri del governo della Repubblica del Kirghizistan dall'altro.
 
@@ -991,7 +989,7 @@ E istituito un Consiglio di cooperazione di sorvegliare l'attuazione del present
 
 3\. Il Consiglio di cooperazione e' presieduto a turno da un rappresentante della Comunita' e da un membro del governo della Repubblica del Kirghizistan.
 
-##### ARTICOLO 77
+#### ARTICOLO 77
 
 1\. Nell'esercizio delle sue funzioni, il Consiglio di cooperazione e' assistito da un Comitato di cooperazione composto da rappresentanti di membri del Consiglio dell'Unione europea e della Commissione delle Comunita' europee, da un lato, e da rappresentanti del governo della Repubblica del Kirghizistan, normalmente alti funzionari, dall'altro.
 
@@ -1001,19 +999,19 @@ Il regolamento interno del Consiglio di cooperazione stabilisce i compiti del Co
 
 2\. Il Consiglio di cooperazione puo' delegare taluni suoi poteri al Comitato di cooperazione, che assicura la continuita' tra le riunioni del Consiglio di cooperazione.
 
-##### ARTICOLO 78
+#### ARTICOLO 78
 
 Il Consiglio di cooperazione puo' decidere di creare tutti i comitati o organi speciali necessari per coadiuvarlo nell'esercizio delle sue funzioni, determinandone la composizione, le mansioni e le modalita' di funzionamento.
 
-##### ARTICOLO 79
+#### ARTICOLO 79
 
 Nell'esaminare le questioni sollevate nel quadro del presente accordo in relazione ad una disposizione che si riferisca a un articolo del GATT, il Consiglio di cooperazione tiene conto, per quanto possibile, dell'interpretazione data generalmente a detto articolo del GATT dalle Parti contraenti del GATT.
 
-##### ARTICOLO 80
+#### ARTICOLO 80
 
 E istituito un Comitato parlamentare di cooperazione, che riunisce e consente scambi di opinioni tra membri del Parlamento kirghiso e del Parlamento europeo. Tale Comitato stabilisce la frequenza delle proprie riunioni.
 
-##### ARTICOLO 81
+#### ARTICOLO 81
 
 1\. Il Comitato parlamentare di cooperazione e' composto da membri dei Parlamenti europeo e kirghiso.
 
@@ -1021,7 +1019,7 @@ E istituito un Comitato parlamentare di cooperazione, che riunisce e consente sc
 
 3\. Il Comitato parlamentare di cooperazione e' presieduto a turno dal Parlamento europeo e dal Parlamento kirghiso, conformemente al regolamento interno.
 
-##### ARTICOLO 82
+#### ARTICOLO 82
 
 Il Comitato parlamentare di cooperazione puo' chiedere tutte le informazioni utili per quanto riguarda l'applicazione del presente accordo al Consiglio di cooperazione, che gli fornisce dette informazioni.
 
@@ -1029,7 +1027,7 @@ Il Comitato parlamentare di cooperazione viene informato delle raccomandazioni d
 
 Il Comitato parlamentare di cooperazione puo' presentare raccomandazioni al Consiglio di cooperazione.
 
-##### ARTICOLO 83
+#### ARTICOLO 83
 
 1\. Nell'ambito del presente accordo, ciascuna delle Parti si impegna a garantire che le persone fisiche e giuridiche dell'altra Parte possano adire senza discriminazioni, rispetto ai propri cittadini, i competenti organi giudiziari e amministrativi delle Parti per tutelare i loro diritti individuali e di proprieta', inclusi quelli riguardanti la proprieta' intellettuale, industriale e commerciale.
 
@@ -1043,7 +1041,7 @@ Il Comitato parlamentare di cooperazione puo' presentare raccomandazioni al Cons
 
 \- incoraggiano il ricorso alle norme di arbitrato elaborate dalla Commissione delle Nazioni Unite per il diritto commerciale internazionale (UNCITRAL) e il ricorso all'arbitrato da parte di ogni organismo di uno Stato firmatario della convenzione per il riconoscimento e l'esecuzione delle sentenze arbitrali straniere adattata a New York il 10 giugno 1958.
 
-##### ARTICOLO 84
+#### ARTICOLO 84
 
 Nessun elemento dell'accordo impedisce a una delle Parti di prendere le misure:
 
@@ -1055,7 +1053,7 @@ c) che giudica essenziali per la propria sicurezza in caso di gravi disordini in
 
 d) che ritiene necessarie per adempiere agli obblighi e agli impegni internazionali sul controllo del duplice uso dei beni e delle tecnologie industriali.
 
-##### ARTICOLO 85
+#### ARTICOLO 85
 
 1\. Nei settori contemplati dal presente accordo e fatta salva qualsiasi disposizione speciale ivi contenuta:
 
@@ -1065,7 +1063,7 @@ d) che ritiene necessarie per adempiere agli obblighi e agli impegni internazion
 
 2\. Le disposizioni del paragrafo 1 non pregiudicano il diritto delle Parti di applicare le pertinenti disposizioni della loro normativa fiscale ai contribuenti che non si trovano in situazioni identiche per quanto riguarda il luogo di residenza.
 
-##### ARTICOLO 86
+#### ARTICOLO 86
 
 1\. Ciascuna parte puo' adire il Consiglio di cooperazione per qualsiasi controversia relativa all'applicazione o all'interpretazione del presente accordo.
 
@@ -1077,29 +1075,29 @@ Il Consiglio di cooperazione designa un terzo conciliatore.
 
 Le raccomandazioni del conciliatore vengono adottate a maggioranza e non sono vincolanti per le Parti.
 
-##### ARTICOLO 87
+#### ARTICOLO 87
 
 Le Parti decidono di consultarsi tempestivamente, attraverso i canali appropriati, su richiesta di una di esse per discutere di tutte le questioni inerenti all'interpretazione o all'applicazione del presente accordo e di altri aspetti delle loro relazioni.
 
 Le disposizioni del presente articolo non pregiudicano l'applicazione degli articoli 13, 86 e 92.
 
-##### ARTICOLO 88
+#### ARTICOLO 88
 
 Il trattamento riservato alla Repubblica del Kirghizistan ai sensi del presente accordo non puo' comunque essere piu' favorevole di quello che gli Stati membri si concedono reciprocamente.
 
-##### ARTICOLO 89
+#### ARTICOLO 89
 
 Ai fini del presente accordo, per "Parti" s'intendono la Repubblica del Kirghizistan, da un lato, e la Comunita'. gli Stati membri o la Comunita' e gli Stati membri, a seconda dei rispettivi poteri, dall'altro.
 
-##### ARTICOLO 90
+#### ARTICOLO 90
 
 Fintantoche' le questioni contemplate dal presente accordo sono state contemplate nel trattato e nei protocolli della Carta europea dell'energia, a decorrere dall'entrata in vigore di quest'ultima i suddetti trattato e protocolli si applicano, se ivi previsto, a tali questioni.
 
-##### ARTICOLO 91
+#### ARTICOLO 91
 
 Il presente accordo e' concluso per un periodo iniziale di dieci anni, dopo di che potra' essere automaticamente rinnovato di anno in anno a condizione che nessuna delle Parti lo denunci dandone notifica per iscritto all'altra Parte sei mesi prima della scadenza.
 
-##### ARTICOLO 92
+#### ARTICOLO 92
 
 1\. Le Parti prendendo tutte le misure generali o specifiche necessarie per l'adempimento degli obblighi previsti dall'accordo e si adoperano per il conseguimento dei suoi obiettivi.
 
@@ -1107,27 +1105,27 @@ Il presente accordo e' concluso per un periodo iniziale di dieci anni, dopo di c
 
 Nella scelta delle misure, si privilegiano quelle che meno perturbano il funzionamento dell'accordo. Se l'altra Parte lo richiede, le misure decise vengono comunicate senza indugio al Consiglio di cooperazione.
 
-##### ARTICOLO 93
+#### ARTICOLO 93
 
 Gli allegati I e II e il protocollo costituiscono parte integrante del presente accordo.
 
-##### ARTICOLO 94
+#### ARTICOLO 94
 
 Fino a che gli individui e gli operatori economici non godranno di diritti equivalenti ai sensi del presente accordo, quest'ultimo non pregiudichera' i diritti loro garantiti dagli accordi in vigore tra uno o piu' Stati membri, da una parte, e la Repubblica del Kirghizistan, dall'altra, fatta eccezione per i settori di competenza comunitaria e fermi restando gli obblighi che l'accordo impone agli Stati membri nei settori di loro competenza.
 
-##### ARTICOLO 95
+#### ARTICOLO 95
 
 Il presente accordo si applica, da un lato, ai territori cui si applicano i trattati che istituiscono la Comunita' europea, la Comunita' europea del carbone e dell'acciaio e la Comunita' europea dell'energia atomica, alle condizioni ivi precisate, e, dall'altro, al territorio della Repubblica del Kirghizistan.
 
-##### ARTICOLO 96
+#### ARTICOLO 96
 
 Il Segretario Generale del Consiglio dell'Unione europea e' il depositario del presente accordo.
 
-##### ARTICOLO 97
+#### ARTICOLO 97
 
 L'originale del presente accordo redatto nelle lingue danese, finlandese, francese, greca, inglese, italiana, olandese, portoghese, spagnola, svedese, tedesca e kirghisa, tutti i testi facenti ugualmente fede, e' depositato presso il Segretario Generale del Consiglio dell'Unione europea.
 
-##### ARTICOLO 98
+#### ARTICOLO 98
 
 Il presente accordo e' approvato dalle Parti conformemente alle rispettive procedure.
 
@@ -1135,11 +1133,11 @@ L'accordo entra in vigore il primo giorno del secondo mese successivo alla data 
 
 A decorrere dalla sua entrata in vigore il presente accordo sostituisce, per quanto riguarda le relazioni tra la Repubblica del Kirghizistan e la Comunita', l'accordo tra la Comunita' economica europea, la Comunita' europea dell'energia atomica e l'Unione delle Repubbliche Socialiste Sovietiche sugli scambi e sulla cooperazione economica e commerciale, firmato il 18 dicembre 1989 a Bruxelles.
 
-##### ARTICOLO 99
+#### ARTICOLO 99
 
 Qualora, in attesa che siano espletate le procedure necessarie per l'entrata in vigore del presente accordo, le disposizioni di alcune sua parti siano applicate nel 1994 mediante un accordo interinale tra la Comunita' e la Repubblica del Kirghizistan, le Parti contraenti decidono che, nella fattispecie, per "data di entrata in vigore dell'accordo" s'intende la data di entrata in vigore dell'accordo interinale.
 
-##### Elenco Allegati
+#### Elenco Allegati
 
 Elenco dei documenti allegati
 
@@ -1155,7 +1153,7 @@ intellettuale di cui all'articolo 43.
 
 Protocollo relativo all'assistenza reciproca in materia doganale.
 
-##### Allegato I
+#### Allegato I
 
 ALLEGATO I
 
@@ -1193,7 +1191,7 @@ Speciali condizioni di transito
 
 Speciali procedure doganali.
 
-##### Allegato II
+#### Allegato II
 
 ALLEGATO II
 
@@ -1251,7 +1249,7 @@ TRA LE AUTORITA' AMMINISTRATIVE
 
 IN MATERIA DOGANALE
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 Definizioni
 
@@ -1267,7 +1265,7 @@ d) "autorita' interpellata": l'autorita' amministrativa competente all'uopo desi
 
 e) "infrazione": ogni violazione della legislazione doganale ovvero ogni tentata violazione di detta legislazione.
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Campo di applicazione
 
@@ -1275,7 +1273,7 @@ Campo di applicazione
 
 2\. L'assistenza in materia doganale prevista dal presente protocollo si applica ad ogni autorita' amministrativa delle Parti competente per l'applicazione dello stesso. Essa non pregiudica le norme che disciplinano l'assistenza reciproca in materia penale ne' copre le informazioni ottenute grazie a poteri esercitati su richiesta dell'autorita' giudiziaria salvo accordo di detta autorita'.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 Assistenza su richiesta
 
@@ -1291,7 +1289,7 @@ Assistenza su richiesta
 
 (d) i mezzi di trasporto per i quali vi sono fondati motivi di ritenere che siano stati, siano ovvero possano essere utilizzati per violare la normativa doganale.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Assistenza spontanea
 
@@ -1303,7 +1301,7 @@ Le Parti si prestano assistenza reciproca, in conformita' delle rispettive leggi
 
 \- merci note per essere soggette a sostanziali infrazioni della normativa doganale.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 Consegna/Notifica
 
@@ -1317,7 +1315,7 @@ necessarie per
 
 che rientrano nel campo di applicazione del presente protocollo ad un destinatario, residente o stabilito sul suo territorio. In tal caso, si applica l'articolo 6, paragrafo 3.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 Forma e contenuto delle domande di assistenza
 
@@ -1339,7 +1337,7 @@ Forma e contenuto delle domande di assistenza
 
 4\. Se la domanda non risponde ai requisiti formali stabiliti puo' esserne richiesta la correzione o il completamento; tuttavia possono essere disposte misure cautelative.
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 Adempimento delle domande
 
@@ -1351,7 +1349,7 @@ Adempimento delle domande
 
 4\. I funzionari di una Parte, d'intesa con l'altra Parte, possono essere presenti alle indagini condotte nel territorio di quest'ultima.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 Forma in cui devono essere comunicate le informazioni
 
@@ -1359,7 +1357,7 @@ Forma in cui devono essere comunicate le informazioni
 
 2\. I documenti di cui al paragrafo 1 possono essere sostituiti da informazioni computerizzate prodotte in qualsiasi forma per gli stessi fini.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 Eccezioni all'obbligo di fornire assistenza
 
@@ -1375,7 +1373,7 @@ Eccezioni all'obbligo di fornire assistenza
 
 3\. Se l'assistenza e' rifiutata o negata, la decisione e le sue motivazioni devono essere notificate senza indugio all'autorita' richiedente.
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 Obbligo di osservare la riservatezza
 
@@ -1391,7 +1389,7 @@ Su richiesta, la Parte che riceve i dati informa la Parte che li ha forniti dell
 
 5\. Fatti salvi i casi in cui prevale il pubblico interesse, la persona in questione puo' richiedere informazioni sulle basi di dati e sui loro scopi.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 Uso delle informazioni
 
@@ -1401,19 +1399,19 @@ Uso delle informazioni
 
 3\. Nei loro documenti probatori, nelle loro relazioni e testimonianze, nonche' nei procedimenti e nelle azioni penali promossi dinanzi al tribunale, le Parti possono utilizzare come prova le informazioni ottenute e i documenti consultati conformemente alle disposizioni del presente protocollo.
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 Esperti e testimoni
 
 Un funzionario dell'autorita' interpellata puo' essere autorizzato a comparire, nei limiti dell'autorizzazione concessa, in qualita' di esperto o testimone in azioni giudiziarie o amministrative riguardanti le materie di cui al presente protocollo nella giurisdizione di un'altra Parte e produrre oggetti, documenti ovvero loro copie autenticate che possano occorrere nel procedimento. Nella richiesta di comparizione deve essere specificamente indicato su quale argomento e a quale titolo il funzionario sara' interrogato.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 Spese di assistenza
 
 Le Parti rinunciano reciprocamente a tutte le richieste di rimborso delle spese sostenute in virtu' del presente protocollo, escluse, a seconda dei casi, le spese per esperti e testimoni nonche' per gli interpreti e traduttori che non dipendono da pubblici servizi.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 Esecuzione
 
@@ -1423,7 +1421,7 @@ Essi possono raccomandare ai competenti organismi le modifiche del presente prot
 
 2\. Le Parti si consultano e si tengono reciprocamente informate in merito alle norme specifiche di esecuzione adottate conformemente alle disposizioni del presente protocollo.
 
-##### ARTICOLO 15
+#### ARTICOLO 15
 
 Complementarita'
 
@@ -1431,7 +1429,7 @@ Complementarita'
 
 2\. Fatto salvo l'articolo 11, detti accordi non recano pregiudizio alle disposizioni della Comunita' che disciplinano la comunicazione, tra i competenti servizi della Commissione e le autorita' doganali degli Stati membri, di tutte le informazioni ottenute in materia doganale che possano interessare la Comunita'.
 
-##### Atto finale
+#### Atto finale
 
 ATTO FINALE
 
@@ -1501,7 +1499,7 @@ I Plenipotenziari degli Stati membri e della Comunita' ed i Plenipotenziari dell
 
 Dichiarazione del governo francese relativa ai propri paesi e territori d'oltremare.
 
-##### Dichiarazioni comuni
+#### Dichiarazioni comuni
 
 DICHIARAZIONE COMUNE
 

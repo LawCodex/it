@@ -3552,7 +3552,7 @@ Il D.Lgs. 19 febbraio 1998, n. 51, come modificato dalla L. 16 giugno 1998, n. 1
 
 ##### Sezione III - Dell'istruzione probatoria
 
-###### § 1 - Della nomina e delle indagini del consulente tecnico
+**§ 1 - Della nomina e delle indagini del consulente tecnico**
 
 ###### Art. 191 - Nomina del consulente tecnico
 
@@ -3676,7 +3676,7 @@ AGGIORNAMENTO (178)
 
 Il D.Lgs. 31 ottobre 2024, n. 164 ha disposto (con l'art. 7, comma 1) che "Ove non diversamente previsto, le disposizioni del presente decreto si applicano ai procedimenti introdotti successivamente al 28 febbraio 2023".
 
-###### § 2 - Dell'assunzione dei mezzi di prova in generale
+**§ 2 - Dell'assunzione dei mezzi di prova in generale**
 
 ###### Art. 202 - Tempo, luogo e modo dell'assunzione
 
@@ -3764,7 +3764,7 @@ La L. 26 novembre 1990, n. 353, come modificata dal D.L. 7 ottobre 1994, n. 571,
 
 Il giudice istruttore dichiara chiusa l'assunzione quando sono eseguiti i mezzi ammessi o quando, dichiarata la decadenza di cui all'articolo precedente, non vi sono altri mezzi da assumere, oppure quando egli ravvisa superflua, per i risultati gia' raggiunti, la ulteriore assunzione.
 
-###### § 3 - Dell'esibizione delle prove
+**§ 3 - Dell'esibizione delle prove**
 
 ###### Art. 210 - Ordine di esibizione alla parte o al terzo
 
@@ -3824,7 +3824,7 @@ AGGIORNAMENTO (173)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-###### § 4 - Del riconoscimento e della verificazione della scrittura privata
+**§ 4 - Del riconoscimento e della verificazione della scrittura privata**
 
 ###### Art. 214 - Disconoscimento della scrittura privata
 
@@ -3878,7 +3878,7 @@ AGGIORNAMENTO (2)
 
 Il D.Lgs. 9 aprile 1948, n. 438 ha disposto (con l'art. 3, comma 1) che "Le pene pecuniarie previste dal Codice di procedura civile sono moltiplicate per quattro".
 
-###### § 5 - Della querela di falso
+**§ 5 - Della querela di falso**
 
 ###### Art. 221 - Modo di proposizione e contenuto della querela
 
@@ -3958,7 +3958,7 @@ L'esecuzione delle sentenze previste nell'articolo precedente non puo' aver luog
 
 Se non e' richiesta dalle parti, l'esecuzione e' promossa dal pubblico ministero a spese del soccombente con l'osservanza, in quanto applicabili, delle norme dell'articolo 481 del codice di procedura penale.
 
-###### § 6 - Della confessione giudiziale e dell'interrogatorio formale
+**§ 6 - Della confessione giudiziale e dell'interrogatorio formale**
 
 ###### Art. 228 - Confessione giudiziale
 
@@ -3986,7 +3986,7 @@ Se la parte non si presenta o rifiuta di rispondere senza giustificato motivo, i
 
 Il giudice istruttore, che riconosce giustificata la mancata presentazione della parte per rispondere all'interrogatorio, dispone per l'assunzione di esso anche fuori della sede giudiziaria.
 
-###### § 7 - Del giuramento
+**§ 7 - Del giuramento**
 
 ###### Art. 233 - Deferimento del giuramento decisorio
 
@@ -4070,7 +4070,7 @@ Il giuramento deferito d'ufficio a una delle parti non puo' da questa essere rif
 
 Per la prestazione del giuramento deferito d'ufficio si applicano le disposizioni relative al giuramento decisorio.
 
-###### § 8 - Della prova per testimoni
+**§ 8 - Della prova per testimoni**
 
 ###### Art. 244 - Modo di deduzione
 
@@ -4274,7 +4274,7 @@ AGGIORNAMENTO (178)
 
 Il D.Lgs. 31 ottobre 2024, n. 164 ha disposto (con l'art. 7, comma 1) che "Ove non diversamente previsto, le disposizioni del presente decreto si applicano ai procedimenti introdotti successivamente al 28 febbraio 2023".
 
-###### § 9 - Delle ispezioni, delle riproduzioni meccaniche e degli esperimenti
+**§ 9 - Delle ispezioni, delle riproduzioni meccaniche e degli esperimenti**
 
 ###### Art. 258 - Ordinanza d'ispezione
 
@@ -4318,7 +4318,7 @@ Nel corso dell'ispezione o dell'esperimento il giudice istruttore puo' sentire t
 
 Puo' anche disporre l'accesso in luoghi appartenenti a persone estranee al processo, sentite se e' possibile queste ultime, e prendendo in ogni caso le cautele necessarie alla tutela dei loro interessi.
 
-###### § 10 - Del rendimento dei conti
+**§ 10 - Del rendimento dei conti**
 
 ###### Art. 263 - Presentazione e accettazione del conto
 
@@ -4352,7 +4352,7 @@ La revisione del conto che la parte ha approvato puo' essere chiesta, anche in s
 
 ##### Sezione IV - Dell'intervento di terzi e della riunione di procedimenti
 
-###### § 1 - Dell'intervento di terzi
+**§ 1 - Dell'intervento di terzi**
 
 ###### Art. 267 - Costituzione del terzo interveniente
 
@@ -4536,7 +4536,7 @@ Il D.Lgs. 31 ottobre 2024, n. 164 ha disposto (con l'art. 7, comma 1) che "Ove n
 
 Le questioni relative all'intervento sono decise dal collegio insieme col merito, salvo che il giudice istruttore disponga a norma dell'articolo 187 secondo comma.
 
-###### § 2 - Della riunione dei procedimenti
+**§ 2 - Della riunione dei procedimenti**
 
 ###### Art. 273 - Riunione di procedimenti relativi alla stessa causa
 
@@ -8406,9 +8406,7 @@ Il compenso del presidente del collegio e' fissato in misura pari al 2 per cento
 
 I contratti collettivi nazionali di categoria possono istituire un fondo per il rimborso al lavoratore delle spese per il compenso del presidente del collegio e del proprio arbitro di parte)).
 
-##### ((Sezione II - Del procedimento
-
-###### Par. 1 - Del procedimento di primo grado))
+##### ((Sezione II - Del procedimento Par. 1 Del procedimento di primo grado))
 
 ###### Art. 413 - Giudice competente
 
@@ -8804,7 +8802,7 @@ La L. 12 novembre 2011, n. 183 ha disposto (con l'art. 27, comma 2) che la prese
 
 ((Quando sia certo il diritto ma non sia possibile determinare la somma dovuta, il giudice la liquida con valutazione equitativa.))
 
-###### ((Par. 2 - Delle impugnazioni))
+## ((Par. 2 - Delle impugnazioni))
 
 ###### Art. 433 - Giudice d'appello
 
@@ -11134,7 +11132,7 @@ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n.
 
 ##### Sezione VI - Rapporti patrimoniali tra coniugi
 
-###### ((SEZIONE ABROGATA DAL D.LGS. 31 OTTOBRE 2024, N. 164))
+##### ((SEZIONE ABROGATA DAL D.LGS. 31 OTTOBRE 2024, N. 164))
 
 ###### Art. 473-bis.67
 
@@ -13554,7 +13552,7 @@ Il D.L.14 marzo 2005, n. 35,convertito con modificazioni dalla L. 14 maggio 2005
 
 ##### Sezione III - Della vendita e dell'assegnazione
 
-###### § 1 - Disposizioni generali
+**§ 1 - Disposizioni generali**
 
 ###### Art. 567 - Istanza di vendita
 
@@ -13830,7 +13828,7 @@ AGGIORNAMENTO (173)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-###### § 2 - Vendita senza incanto
+**§ 2 - Vendita senza incanto**
 
 ###### Art. 570 - Avviso della vendita
 
@@ -14016,7 +14014,7 @@ AGGIORNAMENTO (116)
 
 Il D.L.14 marzo 2005, n. 35,convertito con modificazioni dalla L. 14 maggio 2005, n. 80 , come modificato dal D.L.30 dicembre 2005, n. 273, convertito con modificazioni dalla L. 23 febbraio 2006, n. 51, ha disposto (con l'art. 2, comma 3-sexies) che "Le disposizioni di cui ai commi 3, lettera e), numeri da 2) a 43-bis), e 3-ter, lettere a-bis), b), c), c-bis), d), e) ed f), entrano in vigore il 1° marzo 2006 e si applicano anche alle procedure esecutive pendenti a tale data di entrata in vigore. Quando tuttavia e' gia' stata ordinata la vendita, la stessa ha luogo con l'osservanza delle norme precedentemente in vigore. L'intervento dei creditori non muniti di titolo esecutivo conserva efficacia se avvenuto prima del 1° marzo 2006."
 
-###### § 3 - Vendita con incanto
+**§ 3 - Vendita con incanto**
 
 ###### Art. 576 - Contenuto del provvedimento che dispone la vendita
 
@@ -14408,7 +14406,7 @@ AGGIORNAMENTO (150)
 
 Il D.L. 3 maggio 2016, n. 59 convertito con modificazioni dalla L. 30 giugno 2016, n. 119 ha disposto (con l'art. 4, comma 7) che ai fini dell'applicazione della modifica del comma 2 del presente articolo si tiene conto, per il computo del numero degli esperimenti di vendita anche di quelli svolti prima dell'entrata in vigore del presente decreto.
 
-###### ((§ 3-bis - Delega delle operazioni di vendita))
+**((§ 3-bis - Delega delle operazioni di vendita))**
 
 ###### Art. 591-bis - Delega delle operazioni di vendita
 
@@ -16882,7 +16880,7 @@ La L. 26 novembre 1990, n. 353, come modificata dal D.L. 7 ottobre 1994, n. 571,
 
 #### CAPO III-bis - Del procedimento sommario di cognizione
 
-##### ((CAPO ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149))
+#### ((CAPO ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149))
 
 ###### Art. 702-bis
 
@@ -17008,7 +17006,7 @@ La Corte Costituzionale con sentenza 22 gennaio-3 febbraio 1992, n. 25 (in G.U. 
 
 #### CAPO I - Della separazione personale dei coniugi
 
-##### ((CAPO ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149))
+#### ((CAPO ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149))
 
 ###### Art. 706
 
@@ -17044,7 +17042,7 @@ La Corte Costituzionale con sentenza 22 gennaio-3 febbraio 1992, n. 25 (in G.U. 
 
 #### CAPO II - Dell'interdizione, dell'inabilitazione e dell'amministrazione di sostegno
 
-##### ((CAPO ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149))
+#### ((CAPO ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149))
 
 ###### Art. 712
 
@@ -17088,7 +17086,7 @@ La Corte Costituzionale con sentenza 22 gennaio-3 febbraio 1992, n. 25 (in G.U. 
 
 #### CAPO III - Disposizioni relative all'assenza e alla dichiarazione di morte presunta
 
-##### ((CAPO ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149))
+#### ((CAPO ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149))
 
 ###### Art. 721
 
@@ -17136,7 +17134,7 @@ La Corte Costituzionale con sentenza 22 gennaio-3 febbraio 1992, n. 25 (in G.U. 
 
 #### CAPO IV - Disposizioni relative ai minori, agli interdetti e agli inabilitati
 
-##### ((CAPO ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149))
+#### ((CAPO ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149))
 
 ###### Art. 732
 
@@ -17152,7 +17150,7 @@ La Corte Costituzionale con sentenza 22 gennaio-3 febbraio 1992, n. 25 (in G.U. 
 
 #### CAPO V - Dei rapporti patrimoniali tra i coniugi
 
-##### ((CAPO ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149))
+#### ((CAPO ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149))
 
 ###### Art. 735
 
@@ -17164,7 +17162,7 @@ La Corte Costituzionale con sentenza 22 gennaio-3 febbraio 1992, n. 25 (in G.U. 
 
 #### CAPO V-BIS - Degli ordini di protezione contro gli abusi familiari
 
-##### ((CAPO ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149))
+#### ((CAPO ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149))
 
 ###### Art. 736-bis
 

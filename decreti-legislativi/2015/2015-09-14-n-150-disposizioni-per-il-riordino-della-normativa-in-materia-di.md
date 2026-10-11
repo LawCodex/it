@@ -46,11 +46,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - RETE DEI SERVIZI PER LE POLITICHE DEL LAVORO
 
-### RETE DEI SERVIZI PER LE POLITICHE DEL LAVORO
-
-#### Art. 1
+### Art. 1
 
 Rete Nazionale dei servizi per le politiche del lavoro
 
@@ -82,7 +80,7 @@ i) il sistema delle Camere di commercio, industria, artigianato e agricoltura, l
 
 5\. Le regioni a statuto speciale e le province autonome di Trento e Bolzano esercitano nelle materie disciplinate dal presente decreto le competenze ad esse spettanti ai sensi dei rispettivi statuti, delle relative norme di attuazione e delle norme speciali recanti deleghe di funzioni e, in riferimento alla provincia autonoma di Bolzano, anche in materia di uso della lingua tedesca e della lingua ladina nei rapporti dei cittadini con la pubblica amministrazione.
 
-#### Art. 2
+### Art. 2
 
 Indirizzi generali in materia di politiche attive del lavoro
 
@@ -94,7 +92,7 @@ b) la specificazione dei livelli essenziali delle prestazioni che debbono essere
 
 2\. Con il decreto di cui al comma 1 possono, altresi', essere determinati i tempi entro i quali debbono essere convocate le diverse categorie di utenti, ivi compresi i disoccupati che non siano beneficiari di prestazioni a sostegno del reddito collegate allo stato di disoccupazione, nonche' i tempi e le modalita' di definizione del relativo percorso di inserimento o di reinserimento lavorativo, prevedendo opportuni margini di adeguamento da parte delle regioni e province autonome.
 
-#### Art. 3
+### Art. 3
 
 Competenze del Ministero del lavoro e delle politiche sociali in materia di politiche attive del lavoro
 
@@ -116,7 +114,7 @@ c) indirizzo sul sistema della formazione professionale continua, ivi compresa q
 
 4\. Con intesa in Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano, sono definite linee guida per l'accreditamento degli enti di formazione.
 
-#### Art. 4
+### Art. 4
 
 Istituzione dell'Agenzia Nazionale per le Politiche Attive del Lavoro
 
@@ -176,7 +174,7 @@ d) l'ISFOL, al fine di coordinare le attivita' istituzionali fra i due enti e il
 
 18\. Entro quarantacinque giorni dall'entrata in vigore del presente decreto e' adottato lo statuto dell'ANPAL, con decreto del Presidente della Repubblica ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, su proposta del Ministro del lavoro e delle politiche sociali di concerto con il Ministro dell'economia delle finanze e con il Ministro per la semplificazione e la pubblica amministrazione, in conformita' ai principi e ai criteri direttivi stabiliti dall'articolo 8, comma 4, del decreto legislativo n. 300 del 1999.
 
-#### Art. 5
+### Art. 5
 
 Risorse finanziarie dell'Agenzia Nazionale per le Politiche Attive del Lavoro
 
@@ -204,7 +202,7 @@ c) alle somme gia' destinate al piano gestionale di cui all'articolo 29, comma 2
 
 ((4-bis. L'ANPAL effettua la verifica dei residui passivi a valere sul Fondo di rotazione di cui all'articolo 9, comma 5, del decreto-legge n. 148 del 1993, relativi a impegni assunti prima della data di entrata in vigore della presente disposizione. Con decreto del Ministero del lavoro e delle politiche sociali, di concerto con il Ministero dell'economia e delle finanze, sono individuate le risorse da disimpegnare a seguito della verifica di cui al primo periodo. Il 50 per cento delle risorse disimpegnate confluisce in una gestione a stralcio separata istituita nell'ambito dello stesso fondo di rotazione per essere destinate al finanziamento di iniziative del Ministero del lavoro e delle politiche sociali, il quale dispone delle risorse confluite nella gestione a stralcio separata delegando l'ANPAL ad effettuare i relativi pagamenti.))
 
-#### Art. 6
+### Art. 6
 
 Organi dell'Agenzia Nazionale per le Politiche Attive del Lavoro
 
@@ -228,7 +226,7 @@ d) il collegio dei revisori.
 
 6\. All'onere per gli organi dell'ANPAL si fa fronte mediante i risparmi di spesa di cui all'articolo 4, comma 6, e all'articolo 10, comma 1.
 
-#### Art. 7
+### Art. 7
 
 Attribuzioni degli organi dell'Agenzia Nazionale per le Politiche Attive del Lavoro
 
@@ -240,11 +238,11 @@ Attribuzioni degli organi dell'Agenzia Nazionale per le Politiche Attive del Lav
 
 4\. Il consiglio di vigilanza formula proposte sulle linee di indirizzo generale, propone gli obiettivi strategici e vigila sul perseguimento degli indirizzi e degli obiettivi strategici adottati dal consiglio di amministrazione.
 
-#### Art. 8
+### Art. 8
 
 ((ARTICOLO ABROGATO DAL D.L. 25 MAGGIO 2021, N. 73, CONVERTITO CON MODIFICAZIONI DALLA L. 23 LUGLIO 2021, N. 106)).
 
-#### Art. 9
+### Art. 9
 
 Funzioni e compiti dell'Agenzia Nazionale per le Politiche Attive del Lavoro
 
@@ -284,7 +282,7 @@ q) gestione del Repertorio nazionale degli incentivi all'occupazione, di cui all
 
 2\. In aggiunta ai compiti di cui al comma 1, all'ANPAL possono essere attribuiti ulteriori compiti e funzioni, mediante la stipula di apposite convenzioni con le regioni e le province autonome, in materia di gestione diretta dei servizi per il lavoro e delle politiche attive del lavoro.
 
-#### Art. 10
+### Art. 10
 
 Funzioni e compiti dell'Istituto per lo sviluppo della formazione professionale dei lavoratori
 
@@ -304,7 +302,7 @@ d) gestione di progetti comunitari, anche in collaborazione, con enti, istituzio
 
 ((3-bis. Con effetto dal 1° dicembre 2016, l'Istituto per lo sviluppo della formazione professionale dei lavoratori, costituito con decreto del Presidente della Repubblica 30 giugno 1973, n. 478, assume la denominazione di Istituto nazionale per l'analisi delle politiche pubbliche (INAPP) e conseguentemente ogni richiamo all'Istituto per lo sviluppo della formazione professionale dei lavoratori e all'ISFOL contenuto in disposizioni normative vigenti deve intendersi riferito, rispettivamente, all'Istituto nazionale per l'analisi delle politiche pubbliche e all'INAPP.))
 
-#### Art. 11
+### Art. 11
 
 Organizzazione dei servizi per il lavoro e delle politiche attive del lavoro a livello regionale e delle Province Autonome
 
@@ -360,7 +358,7 @@ b) accreditamento degli enti di formazione, nell'ambito dei criteri definiti ai 
 
 > 9.".
 
-#### Art. 12
+### Art. 12
 
 Accreditamento dei servizi per il lavoro
 
@@ -448,7 +446,7 @@ e) definizione della procedura di accreditamento dei soggetti abilitati ad opera
 
 > 5-bis. L'iscrizione alla sezione dell'albo di cui all'articolo 4, comma 1, lettera c), dei soggetti autorizzati secondo il regime particolare di cui al comma 1, lettere c), d), e), f), e f-bis), nonche' al comma 2 del presente articolo, comporta automaticamente l'iscrizione degli stessi alle sezioni dell'Albo di cui alle lettere d) ed e) dell'articolo 4, comma 1.".
 
-#### Art. 13
+### Art. 13
 
 Sistema informativo unitario delle politiche del lavoro
 
@@ -480,7 +478,7 @@ d-ter) ((la piattaforma)) digitale per l'inclusione sociale e lavorativa per la 
 
 7\. Il sistema di cui al presente articolo viene sviluppato nell'ambito dei programmi operativi cofinanziati con fondi strutturali, nel rispetto dei regolamenti e degli atti di programmazione approvati dalla Commissione Europea.
 
-#### Art. 14
+### Art. 14
 
 Fascicolo elettronico del lavoratore e coordinamento dei sistemi informativi
 
@@ -512,7 +510,7 @@ g) tre rappresentanti delle regioni e province autonome, designati dalla Confere
 
 6\. Su indicazione del comitato di cui al comma 4 gli enti partecipanti stipulano convenzioni con altri soggetti del sistema statistico nazionale (SISTAN) al fine di integrare le banche dati.
 
-#### Art. 15
+### Art. 15
 
 Albo nazionale degli enti accreditati a svolgere attivita' di formazione professionale e sistema informativo della formazione professionale
 
@@ -530,7 +528,7 @@ Albo nazionale degli enti accreditati a svolgere attivita' di formazione profess
 
 > Per il testo dell'articolo 2, comma 1, del citato decreto legislativo n. 276 del 2003, si vedano le note all'articolo 34.
 
-#### Art. 16
+### Art. 16
 
 Monitoraggio e valutazione
 
@@ -544,7 +542,7 @@ Monitoraggio e valutazione
 
 5\. All'attuazione delle disposizioni del presente articolo si provvede nell'ambito delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri a carico della finanza pubblica.
 
-#### Art. 17
+### Art. 17
 
 Fondi interprofessionali per la formazione continua
 
@@ -556,11 +554,9 @@ Fondi interprofessionali per la formazione continua
 
 > Per il testo dell'articolo 1, comma 4, della citata legge n.183 del 2014, si vedano le note alle premesse.
 
-## Capo II
+## Capo II - PRINCIPI GENERALI E COMUNI IN MATERIA DI POLITICHE ATTIVE DEL LAVORO
 
-### PRINCIPI GENERALI E COMUNI IN MATERIA DI POLITICHE ATTIVE DEL LAVORO
-
-#### Art. 18
+### Art. 18
 
 Servizi e misure di politica attiva del lavoro
 
@@ -596,7 +592,7 @@ m) promozione di prestazioni di lavoro socialmente utile, ai sensi dell'articolo
 
 > Per il testo della citata legge n. 68 del 1999, si vedano le note all'articolo 1.
 
-#### Art. 19
+### Art. 19
 
 Stato di disoccupazione
 
@@ -614,7 +610,7 @@ Stato di disoccupazione
 
 7\. Allo scopo di evitare l'ingiustificata registrazione come disoccupato da parte di soggetti non disponibili allo svolgimento dell'attivita' lavorativa, a decorrere dalla data di entrata in vigore del presente decreto le norme nazionali o regionali ed i regolamenti comunali che condizionano prestazioni di carattere sociale allo stato di disoccupazione si intendono riferite alla condizione di non occupazione. Sulla base di specifiche convenzioni l'ANPAL consente alle amministrazioni pubbliche interessate l'accesso ai dati essenziali per la verifica telematica della condizione di non occupazione.
 
-#### Art. 20
+### Art. 20
 
 Patto di servizio personalizzato
 
@@ -654,7 +650,7 @@ AGGIORNAMENTO (12)
 
 Il D.L. 17 marzo 2020, n. 18, convertito con modificazioni dalla L. 24 aprile 2020, n. 27, come modificato dal D.L. 19 maggio 2020, n. 34, ha disposto (con l'art. 40, comma 1) che "Ferma restando la fruizione dei benefici economici, considerate la situazione di emergenza sul territorio nazionale relativa al rischio di diffondersi del virus COVID-19 decretata per la durata di 6 mesi con delibera del Consiglio dei Ministri del 31 gennaio 2020 e le misure adottate allo scopo di contrastare la diffusione del virus di cui ai decreti del Presidente del Consiglio dei Ministri emanati in data 8 e 9 marzo 2020, al fine di limitare gli spostamenti delle persone fisiche ai casi strettamente necessari, sono sospesi per quattro mesi dall'entrata in vigore del presente decreto [...] i termini per le convocazioni da parte dei centri per l'impiego per la partecipazione ad iniziative di orientamento di cui all'articolo 20, comma 3, lettera a), del decreto legislativo 14 settembre 2015, n. 150".
 
-#### Art. 21
+### Art. 21
 
 Rafforzamento dei meccanismi di condizionalita' e livelli essenziali delle prestazioni relative ai beneficiari di strumenti di sostegno al reddito
 
@@ -702,11 +698,11 @@ d) in caso di mancata accettazione, in assenza di giustificato motivo, di un'off
 
 13\. L'INPS provvede annualmente a versare le risorse non erogate in relazione a prestazioni oggetto di provvedimenti di decurtazione o decadenza per il 50 per cento al Fondo per le politiche attive di cui all'articolo 1, comma 215, della legge n. 147 del 2013, e per il restante 50 per cento alle regioni e province autonome cui fanno capo i centri per l'impiego che hanno adottato i relativi provvedimenti, per l'impiego in strumenti di incentivazione del personale connessi al raggiungimento di particolari obiettivi.
 
-#### Art. 22
+### Art. 22
 
 ((ARTICOLO ABROGATO DALLA L. 30 DICEMBRE 2021, N. 234))
 
-#### Art. 23
+### Art. 23
 
 Assegno di ricollocazione
 
@@ -760,7 +756,7 @@ AGGIORNAMENTO (8)
 
 Il D.L. 28 gennaio 2019, n. 4, convertito con modificazioni dalla L. 28 marzo 2019, n. 26, ha disposto (con l'art. 9, comma 7) che "Fino alla data del 31 dicembre 2021 l'erogazione dell'assegno di ricollocazione ai soggetti di cui all'articolo 23, comma 1, del decreto legislativo 14 settembre 2015, n. 150, e' sospesa".
 
-#### Art. 24
+### Art. 24
 
 Finanziamento dell'assegno di ricollocazione
 
@@ -788,7 +784,7 @@ All'articolo 2, comma 10-bis, della legge n. 92 del 2012, le parole "cinquanta p
 
 > 10-bis. Al datore di lavoro che, senza esservi tenuto, assuma a tempo pieno e indeterminato lavoratori che fruiscono dell'Assicurazione sociale per l'impiego (ASpI) di cui al comma 1 e' concesso, per ogni mensilita' di retribuzione corrisposta al lavoratore, un contributo mensile pari al cinquanta per cento dell'indennita' mensile residua che sarebbe stata corrisposta al lavoratore. Il diritto ai benefici economici di cui al presente comma e' escluso con riferimento a quei lavoratori che siano stati licenziati, nei sei mesi precedenti, da parte di impresa dello stesso o diverso settore di attivita' che, al momento del licenziamento, presenta assetti proprietari sostanzialmente coincidenti con quelli dell'impresa che assume, ovvero risulta con quest'ultima in rapporto di collegamento o controllo. L'impresa che assume dichiara, sotto la propria responsabilita', all'atto della richiesta di avviamento, che non ricorrono le menzionate condizioni ostative.".
 
-#### Art. 25
+### Art. 25
 
 Offerta di lavoro congrua
 
@@ -816,7 +812,7 @@ AGGIORNAMENTO (6)
 
 Il D.Lgs. 14 settembre 2015, n. 148, come modificato dalla L. 27 dicembre 2017, n. 205, ha disposto (con l'art. 24-bis, comma 2) che "In deroga all'articolo 25 del medesimo decreto legislativo n. 150 del 2015, ai lavoratori ammessi all'assegno di ricollocazione ai sensi del presente articolo non si applica l'obbligo di accettazione di un'offerta di lavoro congrua".
 
-#### Art. 26
+### Art. 26
 
 Utilizzo diretto dei lavoratori titolari di strumenti di sostegno al reddito
 
@@ -846,7 +842,7 @@ Le assenze dovute a motivi personali, anche se giustificate, comportano la sospe
 
 12\. Gli articoli 7 e 8 del decreto legislativo 1° dicembre 1997, n. 468, si applicano ai soli progetti di attivita' e lavori socialmente utili che hanno avuto inizio prima della data di adozione della convenzione quadro di cui al comma 2.
 
-#### Art. 27
+### Art. 27
 
 Collocamento della gente di mare
 
@@ -860,7 +856,7 @@ Collocamento della gente di mare
 
 > Per il testo dell'articolo 6 del citato decreto legislativo n. 276 del 2003, si vedano le note all'articolo 12.
 
-#### Art. 28
+### Art. 28
 
 Livelli essenziali delle prestazioni
 
@@ -876,11 +872,9 @@ d) articolo 21, comma 2;
 
 e) articolo 23.
 
-## Capo III
+## Capo III - RIORDINO DEGLI INCENTIVI ALL'OCCUPAZIONE
 
-### RIORDINO DEGLI INCENTIVI ALL'OCCUPAZIONE
-
-#### Art. 29
+### Art. 29
 
 Riordino degli incentivi
 
@@ -912,7 +906,7 @@ b) le risorse di cui all'articolo 32, comma 5.
 
 > b) nella misura di 48 milioni di euro per l'anno 2013, 98 milioni di euro per l'anno 2014, 98 milioni di euro per l'anno 2015 e 50 milioni di euro per l'anno 2016, per le restanti regioni.".
 
-#### Art. 30
+### Art. 30
 
 Repertorio nazionale degli incentivi all'occupazione
 
@@ -936,7 +930,7 @@ f) conformita' alla normativa in materia di aiuti di stato.
 
 4\. Allo scopo di assicurare la massima trasparenza e la riduzione degli oneri amministrativi, i benefici economici connessi ad un incentivo all'occupazione sono riconosciuti di regola mediante conguaglio sul versamento dei contributi previdenziali.
 
-#### Art. 31
+### Art. 31
 
 Principi generali di fruizione degli incentivi
 
@@ -978,7 +972,7 @@ f) nei casi in cui le norme incentivanti richiedano un incremento occupazionale 
 
 > Per il testo dell'articolo 4 del citato decreto legislativo n. 276 del 2003, si vedano le note all'articolo 1.
 
-#### Art. 32
+### Art. 32
 
 Incentivi per il contratto di apprendistato per la qualifica, il diploma e il certificato di specializzazione tecnica superiore
 
@@ -1026,11 +1020,9 @@ La L. 11 dicembre 2016, n. 232 ha disposto (con l'art. 1, comma 240, lettera b))
 
 b) all'estensione degli incentivi di cui all'articolo 32, comma 1, del decreto legislativo 14 settembre 2015, n. 150, alle assunzioni effettuate fino al 31 dicembre 2017".
 
-## Capo IV
+## Capo IV - DISPOSIZIONI URGENTI E FINALI
 
-### DISPOSIZIONI URGENTI E FINALI
-
-#### Art. 33
+### Art. 33
 
 Centri per l'impiego
 
@@ -1044,7 +1036,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 24 settembre 2016, n. 185 ha disposto (con l'art. 4 comma 2) che "L'importo di cui all'articolo 33, comma 1, del decreto legislativo 14 settembre 2015, n. 150 e' incrementato di 30 milioni di euro per l'anno 2016."
 
-#### Art. 34
+### Art. 34
 
 Abrogazioni e norme di coordinamento
 
@@ -1520,7 +1512,7 @@ b) agli articoli 10, comma 1, e 15, comma 12, le parole «un reddito inferiore a
 
 > 12\. Il beneficiario di DIS-COLL che intraprenda un'attivita' lavorativa autonoma o di impresa individuale, dalla quale derivi un reddito che corrisponde a un'imposta lorda pari o inferiore alle detrazioni spettanti ai sensi dell'articolo 13 del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, deve comunicare all'INPS entro trenta giorni dall'inizio dell'attivita' il reddito annuo che prevede di trarne. Nel caso di mancata comunicazione del reddito previsto il beneficiario decade dal diritto alla DIS-COLL a decorrere dalla data di inizio dell'attivita' lavorativa autonoma o di impresa individuale. La DIS-COLL e' ridotta di un importo pari all'80 per cento del reddito previsto, rapportato al periodo di tempo intercorrente tra la data di inizio dell'attivita' e la data in cui termina il periodo di godimento dell'indennita' o, se antecedente, la fine dell'anno. La riduzione di cui al periodo precedente e' ricalcolata d'ufficio al momento della presentazione della dichiarazione dei redditi. Il lavoratore esentato dall'obbligo di presentazione della dichiarazione dei redditi e' tenuto a presentare all'INPS un'apposita autodichiarazione concernente il reddito ricavato dall'attivita' lavorativa autonoma o di impresa individuale entro il 31 marzo dell'anno successivo. Nel caso di mancata presentazione dell'autodichiarazione il lavoratore e' tenuto a restituire la DIS-COLL percepita dalla data di inizio dell'attivita' lavorativa autonoma o di impresa individuale.".
 
-#### Art. 35
+### Art. 35
 
 Entrata in vigore
 

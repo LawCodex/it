@@ -54,7 +54,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concer
 
 Abbiamo decretato e decretiamo:
 
-### Art. 1
+## Art. 1
 
 L'art. 2 del R. decreto-legge 24 luglio 1931, n. 1223, e' sostituito dal seguente:
 
@@ -72,33 +72,33 @@ e) una Scuola sottufficiali.
 
 « Con decreto del Ministro per le finanze sara' provveduto a stabilire l'ordinamento e le modalita' di funzionamento delle scuole, nonche' la durata dei corsi che in esse si svolgeranno ».
 
-### Art. 2
+## Art. 2
 
 I sottotenenti della Regia guardia di finanza in servizio permanente effettivo sono tratti dai sottufficiali del Corpo che non abbiano superato il 36° anno di eta' ed abbiano compiuto presso la Regia accademia di Modena, con esito favorevole, un apposito corso biennale analogo a quello prescritto per la nomina a sottotenente nell'Arma dei carabinieri Reali.
 
 Essi possono essere tratti, eventualmente, anche dagli ufficiali di complemento della Regia marina che abbiano quattro anni di servizio da ufficiale, non abbiano oltrepassato il 30° anno di eta' ed abbiano superato apposito concorso che sara' regolato con decreto del Ministro per le finanze.
 
-### Art. 3
+## Art. 3
 
 Possono essere ammessi all'Accademia di Modena, secondo le norme emanate dal Ministro per le finanze, di concerto con quello per la guerra, i sottufficiali del Corpo che possiedano il requisito della buona condotta, abbiano almeno due anni di anzianita' da sottufficiale e siano riconosciuti vincitori di apposito concorso per esame.
 
 Sono dispensati da tale esame i sottufficiali del Corpo licenziati dagli Istituti di istruzione media di secondo grado, conformemente a quanto e' stabilito per i sottufficiali del Regio esercito.
 
-### Art. 4
+## Art. 4
 
 I vincoli di servizio contratti dai sottufficiali del Corpo allievi dell'Accademia di Modena, possono essere rescissi a domanda, ove gli allievi stessi siano allontanati dall'Accademia di autorita' o ne siano dimessi per volontaria rinuncia al corso, ovvero non siano riconosciuti meritevoli, al termine degli studi, di coprire il grado di sottotenente.
 
-### Art. 5
+## Art. 5
 
 ((Agli allievi ufficiali congedati, che abbiano cessato di appartenere alla scuola perche' riprovati negli esami finali dell'ultimo anno di corso, purche' siano risultati idonei agli esami delle materie di carattere Militare, puo' essere conferita in ogni tempo la nomina a sottotenente di complemento del Corpo)).
 
-### Art. 6
+## Art. 6
 
 Un terzo dei posti vacanti, durante l'anno, nei gradi di subalterno della Regia guardia di finanza e' devoluto ai sottotenenti provenienti dai sottufficiali del Corpo. Gli altri due terzi sono devoluti ai tenenti in servizio permanente effettivo delle varie armi del Regio esercito di cui al successivo art. 10, ed eventualmente ai tenenti in servizio permanente effettivo di commissariato (ufficiali commissari) del Regio esercito, in seguito a concorso, cui possono essere ammessi secondo le norme stabilite dal Ministro per le finanze; nonche' ai sottotenenti di complemento della Regia marina di cui al secondo comma del precedente articolo 2.
 
 In difetto di elementi idonei di una delle rispettive categorie, le proporzioni potranno essere variate a favore dell'altra.
 
-### Art. 7
+## Art. 7
 
 L'ottavo comma dell'art. 5 del R. decreto legislativo 14 giugno 1923, n. 1281, e' cosi' sostituito:
 
@@ -106,7 +106,7 @@ L'ottavo comma dell'art. 5 del R. decreto legislativo 14 giugno 1923, n. 1281, e
 
 «L'aver compiuto con esito favorevole il corso di applicazione suddetto e' condizione necessaria ma non sufficiente per conseguire l'avanzamento))».
 
-### Art. 8
+## Art. 8
 
 I sottotenenti che non superino il corso di applicazione cessano di appartenere al ruolo degli ufficiali in servizio permanente e sono iscritti, d'ufficio, nel ruolo degli ufficiali di complemento.
 
@@ -118,43 +118,43 @@ AGGIORNAMENTO (4)
 
 Il D.P.R. 26 agosto 1959, n. 1006, nel modificare l'art. 9, comma 2, del Regio D.L. 4 ottobre 1935, n. 1961, convertito senza modificazioni dalla L. 9 gennaio 1936, n. 75, ha conseguentemente disposto (con l'art. 9, comma 2) che "La disposizione di cui al secondo comma dell'art. 9 del regio decreto-legge 4 ottobre 1935, n. 1961, convertito nella legge 9 gennaio 1936, n. 75, si applica ai sottotenenti che abbiano frequentato il primo ed il secondo anno del corso di applicazione".
 
-### Art. 9
+## Art. 9
 
 Al termine dei corsi tecnico-professionali, i sottotenenti vengono inscritti, agli effetti della promozione a tenente, in appositi quadri in base alle graduatorie secondo sara' stabilito con regolamento.
 
-### Art. 10
+## Art. 10
 
 I tenenti della Regia guardia di finanza sono tratti, nelle proporzioni e con le modalita' indicate nell'art. 6, dai tenenti in servizio permanente effettivo delle armi di fanteria, cavalleria, artiglieria e genio ed eventualmente dai tenenti di commissariato (ufficiali commissari) che abbiano non meno di due anni di anzianita' di grado, che non provengano dalla categoria di cui all'art. 2, n. 2, e di cui all'art. 3 del testo unico delle disposizioni sul reclutamento degli ufficiali del Regio esercito, approvato con R. decreto 21 marzo 1929, n. 629, e che, dopo il compimento di apposito corso tecnico professionale di abilitazione al servizio del Corpo, vengano dichiarati idonei.
 
-### Art. 11
+## Art. 11
 
 I sottotenenti della Regia guardia di finanza provenienti dagli ufficiali di complemento della Regia marina ed i tenenti di cui al precedente articolo, assumono l'anzianita' assoluta determinata dalla data di trasferimento nel Corpo.
 
 La sede relativa di anzianita' degli ufficiali trasferiti nel Corpo con la stessa data e' determinata dall'anzianita' nei ruoli di provenienza e, a parita' di questa, nei modi stabiliti dalle analoghe norme generali di cui alla legge sullo stato degli ufficiali del Regio esercito, della Regia marina e della Regia aeronautica.
 
-### Art. 12
+## Art. 12
 
 Entro due anni dal trasferimento nel Corpo, non compreso in questo termine il tempo eventualmente passato in aspettativa, gli ufficiali subalterni della Regia guardia di finanza provenienti dal Regio esercito o dalla Regia marina possono essere ritrasferiti nelle armi, nei corpi o nelle categorie di provenienza, per insufficiente attitudine al servizio d'istituto. In tal caso, essi riprendono nei rispettivi ruoli la loro anzianita' originaria.
 
-### Art. 13
+## Art. 13
 
 L'art. 6 del R. decreto-legge 6 maggio 1926, n. 844, e' sostituito dal seguente:
 
 «((All'insegnamento delle varie materie nella scuola ufficiali della Regia guardia di finanza, il Ministro per le finanze provvedera' affidandone l'incarico, da rinnovarsi anno per anno, ad ufficiali della Regia guardia di finanza e del Regio esercito ovvero a funzionari dell'Amministrazione finanziaria di gruppo A, in attivita' di servizio e di grado non inferiore al settimo, o a quanti abbiano titolo per l'insegnamento))».
 
-### Art. 14
+## Art. 14
 
 Il periodo aggiunto al secondo comma dell'art. 7 del decreto legislativo 14 giugno 1923, n. 1281, dall'art. 14 del R. decreto legge 19 gennaio 1928, n. 26 e' cosi' sostituito:
 
 « Il Ministro per le finanze potra', inoltre, su proposta del comandante generale ed indipendentemente da qualsiasi condizione di anzianita' o vincolo di esami, promuovere al grado immediatamente superiore, fino a quello di maresciallo maggiore incluso ed entro il limite massimo di un ventesimo dei posti vacanti annualmente nel grado da attribuire, i sottufficiali ((gli appuntati)) e le guardie che abbiano conseguito nell'esplicazione del servizio d'istituto, risultati di merito straordinario e posseggano i necessari requisiti morali, intellettuali e di cultura ».
 
-### Art. 14-bis
+## Art. 14-bis
 
 ((L'indennita', spettante agli ufficiali della Regia guardia di finanza di cui agli articoli 14-bis e 14-novies, aggiunti al R. decreto-legge 24 luglio 1931, n. 1223, convertito nella legge 21 dicembre 1931, n. 1710, e' regolata, agli effetti tributari, dalle stesse disposizioni vigenti per l'Opera di previdenza a favore del personale civile e militare dello Stato)).
 
 ## DISPOSIZIONI TRANSITORIE E FINALI
 
-### Art. 15
+## Art. 15
 
 L'art. 14 del R. decreto legislativo 31 dicembre 1923, n. 3170, e' abrogato.
 
@@ -164,17 +164,17 @@ Dal 1° ottobre 1934 il predetto professore sara' collocato nel ruolo dei presid
 
 Durante tale periodo sara' tenuto vacante in una delle scuole medie di secondo grado il posto di preside.
 
-### Art. 16
+## Art. 16
 
 Le disposizioni che regolano l'istituzione ed il funzionamento della Scuole allievi ufficiali della Regia guardia di finanza, d'ordinamento degli studi che in essa si svolgono e la nomina a sottotenente, nonehe' le disposizioni di cui agli articoli 14 del R. decreto legislativo 31 dicembre 1923, numero 3170, e 6 del R. decreto-legge 6 maggio 1926, n. 844, continuano ad avere vigore fino al 30 settembre 1934, con le limitazioni che saranno stabilite con decreto del Ministro per le finanze.
 
 La promozione a tenente dei sottotenenti provenienti dalla Scuola allievi ufficiali del Corpo e' regolata dalle disposizioni di cui all'art. 5, ottavo comma, del R. decreto legislativo 14 giugno 1923, n. 1281.
 
-### Art. 17
+## Art. 17
 
 E' data facolta' al Ministro per le finanze, per la prima applicazione del presente decreto, di emanare speciali norme esecutive, nell'attesa della pubblicazione del regolamento e di applicare nel frattempo, in quanto non contrastanti con le presenti disposizioni, le norme in vigore per il Regio esercito (Arma Reali carabinieri).
 
-### Art. 18
+## Art. 18
 
 Il Governo del Re, previa deliberazione del Consiglio dei Ministri e udito il parere del Consiglio di Stato, e' autorizzato a pubblicare il testo unico delle leggi e dei decreti legislativi riguardanti l'ordinamento della Regia guardia di finanza, con facolta' di coordinare fra loro le varie disposizioni, di porle in armonia con le altre leggi e decreti legislativi e di apportarvi modificazioni di forma, di denominazione e di intitolazione rese indispensabili dalla riunione e dal coordinamento o necessarie per togliere antinomie, duplicazioni e sovrapposizioni.
 

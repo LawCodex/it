@@ -28,11 +28,9 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I
+## CAPO I - DISPOSIZIONI RELATIVE AL PERSONALE DEL MINISTERO DEGLI AFFARI ESTERI
 
-### DISPOSIZIONI RELATIVE AL PERSONALE - DEL MINISTERO DEGLI AFFARI ESTERI
-
-#### ART. 1
+### ART. 1
 
 (Delega al Governo per il riordino
 
@@ -66,7 +64,7 @@ i) esplicita indicazione delle norme legislative abrogate.
 
 > Il testo delle note qui pubblicato e stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comuni 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 29 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
-#### ART. 2
+### ART. 2
 
 (Revisione degli organici delle qualifiche dirigenziali del Ministero degli affari esteri, incluse le qualifiche dirigenziali dell'area
 
@@ -96,7 +94,7 @@ c) alla individuazione del numero dei posti-funzione di direzione di Istituti it
 
 > e) previsione di decreti ministeriali di natura non regolamentare per la definizione dei compiti delle unita' dirigenziali nell'ambito degli uffici dirigenziali generali".
 
-#### ART. 3 - Riqualificazione e riordino del personale delle qualifiche funzionali del Ministero degli affari esteri
+### ART. 3 - Riqualificazione e riordino del personale delle qualifiche funzionali del Ministero degli affari esteri
 
 1\. Al fine di soddisfare le esigenze funzionali derivanti dal processo di riordino dell'Amministrazione degli affari esteri, alla riqualificazione del personale delle qualifiche funzionali, ivi incluse quelle appartenenti all'area della promozione culturale, nonche' alla reintegrazione della dotazione organica del personale non diplomatico e non dirigenziale, si provvede ai sensi della vigente normativa. anche contrattuale, nei limiti di una spesa annua complessiva non superiore a lire 7,651 miliardi per l'anno 1999, a lire 19,807 miliardi per l'anno 2000, a lire 32,755 miliardi per l'anno 2001 e a lire 47,038 miliardi a decorrere dall'anno 2002.
 
@@ -104,7 +102,7 @@ c) alla individuazione del numero dei posti-funzione di direzione di Istituti it
 
 3\. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### ART. 4
+### ART. 4
 
 (Personale assunto localmente dalle rappresentanze diplomatiche,
 
@@ -300,7 +298,7 @@ e) esplicita indicazione delle norme legislative abrogate.
 
 > Il personale a contratto dovra' effettuare entro un quadriennio dalla sua immissione nei ruoli almeno un biennio di servizio presso l'amministrazione centrale".
 
-#### ART. 5
+### ART. 5
 
 (Proroga del termine per l'immissione nei ruoli di cinquanta
 
@@ -314,7 +312,7 @@ impiegati a contratto).
 
 > "134. Gli impiegati di cittadinanza italiana in servizio presso le rappresentanze diplomatiche e gli uffici consolari con contratto a tempo indeterminato possono essere immessi nei ruoli del Ministero degli affari esteri, nell'ambito delle dotazioni organiche determinate ai sensi dell'art. 22, comma 16, della legge 23 dicembre 1994, n. 724, in numero massimo di cinquanta unita' per ciascun anno del triennio 1997-1999, tramite appositi concorsi per titoli ed esami purche' in possesso dei requisiti prescritti per le qualifiche cui aspirano e purche' abbiano compiuto almeno tre anni di servizio continuativo e lodevole. Le relative modalita' saranno fissate con decreto del Ministro degli affari esteri, di concerto con il Ministro per la funzione pubblica e con il Ministro del tesoro. Gli impiegati a contratto cosi' immessi nei ruoli sono destinati, quale sede di prima destinazione, a prestare servizio presso l'amministrazione centrale per un periodo minimo di due anni".
 
-#### ART. 6 - Proroga del termine per l'integrazione dei contrattisti Schengen
+### ART. 6 - Proroga del termine per l'integrazione dei contrattisti Schengen
 
 1\. Il termine per l'integrazione di duecento unita' del contingente degli impiegati a contratto di cui all'articolo 152 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, e successive modificazioni, disposta dall'articolo 7 del decreto legge 1^ luglio 1996, n. 347, convertito, con modificazioni, dalla legge 8 agosto 1996, n. 426, e' prorogato fino al 31 dicembre 2001. Nell'ambito del suddetto contingente, l'Amministrazione degli affari esteri, tenuto conto delle esigenze di servizio della rete diplomatico-consolare, puo' procedere a nuove assunzioni o, alternativamente, al rinnovo dei contratti gia' stipulati.
 
@@ -332,7 +330,7 @@ impiegati a contratto).
 
 > N.B. - Il testo sopra riportato non e' stato modificato dalla legge di conversione 8 agosto 1996, n. 426.
 
-#### ART. 7
+### ART. 7
 
 (Stipula di contratti di prestazione d'opera con traduttori ed
 
@@ -366,7 +364,7 @@ interpreti).
 
 > gruppo 3^: operatori dei vari sistemi di scrittura multipla, operatori meccanografici e operatori cinematografici di cabina".
 
-#### ART. 8 - Utilizzo nel triennio 1999-2001 delle giacenze sul Fondo rotativo di cui all'articolo 6 della legge 26 febbraio 1987, n. 49
+### ART. 8 - Utilizzo nel triennio 1999-2001 delle giacenze sul Fondo rotativo di cui all'articolo 6 della legge 26 febbraio 1987, n. 49
 
 1\. Le disponibilita' finanziarie non impegnate alla data del 1^ gennaio 1999 esistenti sul conto corrente presso la Tesoreria centrale dello Stato intestato al Fondo rotativo di cui all'articolo 26 della legge 24 maggio 1977, n. 227, ed all'articolo 6 della legge 26 febbraio 1987, n. 49, possono essere destinate fino ad un massimo del 20 per cento, nel corso dell'esercizio finanziario 1999, con decreto del Ministro del tesoro, del bilancio e della programmazione economica, di concerto con il Ministro degli affari esteri e con il Ministro del commercio con l'estero, per:
 
@@ -396,7 +394,7 @@ b) interventi bilaterali e multilaterali di restauro, conservazione e valorizzaz
 
 > \- Il decreto legislativo 31 marzo 1998, n. 143, reca: "Disposizioni in materia di commercio con l'estero, a norma dell'art. 4, comma 4, lettera c), e dell'art. 11 della legge 15 marzo 1997, n. 59"
 
-#### ART. 9 - Copertura finanziaria
+### ART. 9 - Copertura finanziaria
 
 1\. All'onere derivante dall'attuazione dell'articolo 1, comma 1, lettera c), pari a lire 7,581 miliardi per l'anno 1999, a lire 15,162 miliardi per l'anno 2000 e a lire 22,809 miliardi a decorrere dall'anno 2001, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1999-2001, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 1999, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri.
 
@@ -404,11 +402,9 @@ b) interventi bilaterali e multilaterali di restauro, conservazione e valorizzaz
 
 3\. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-## CAPO II
+## CAPO II - DISPOSIZIONI IN MATERIA DI RAPPORTO DI IMPIEGO DEL PERSONALE DELLA CARRIERA PREFETTIZIA
 
-### DISPOSIZIONI IN MATERIA DI RAPPORTO - DI IMPIEGO DEL PERSONALE DELLA CARRIERA PREFETTIZIA
-
-#### ART. 10
+### ART. 10
 
 (Delega al Governo per la disciplina del rapporto
 
@@ -500,7 +496,7 @@ m) esplicita indicazione delle norme legislative abrogate.
 
 > Art 44. - L'Avvocatura dello Stato assume la rappresentanza e la difesa degli impiegati e agenti delle amministrazioni dello Stato o delle amministrazioni o degli enti di cui all'art. 43 nei giudizi civili e penali che li interessano per fatti e cause di servizio, qualora le amministrazioni o gli enti ne facciano richiesta, e l'Avvocato generale dello Stato ne riconosca la opportunita'".
 
-#### ART. 11 - Disposizione transitoria
+### ART. 11 - Disposizione transitoria
 
 1\. Fino all'emanazione del decreto del Presidente della Repubblica di recepimento dell'accordo previsto dall'articolo 10, comma 1, lettera a), della presente legge, resta ferma l'applicazione dell'articolo 17 del decreto del Presidente della Repubblica 24 aprile 1982, n. 340, per il personale delle qualifiche direttive della carriera prefettizia, nonche' delle disposizioni in materia di adeguamento retributivo automatico del personale non contrattualizzato, per il personale delle qualifiche dirigenziali della medesima carriera prefettizia.
 
@@ -530,11 +526,9 @@ m) esplicita indicazione delle norme legislative abrogate.
 
 > g) VIII livello-bis: qualifica apicale del ruolo direttivo; a detta qualifica di ruolo direttivo e' attribuito il livello di stipendio previsto dal secondo comma dell'art. 137, legge 11 luglio 1980, n. 312)".
 
-## CAPO III
+## CAPO III - DISPOSIZIONI RELATIVE AL PERSONALE DELL'AMMINISTRAZIONE PENITENZIARIA
 
-### DISPOSIZIONI RELATIVE AL PERSONALE DELL'AMMINISTRAZIONE PENITENZIARIA
-
-#### ART. 12
+### ART. 12
 
 (Delega al Governo per la riorganizzazione del
 
@@ -602,11 +596,9 @@ d) prevedere eventuali disposizioni transitorie.
 
 > 6\. Per esigenze cui non possono far fronte con personale in servizio, le amministrazioni pubbliche possono conferire incarichi individuali ad esperti di provata competenza, determinando preventivamente durata, luogo, oggetto e compenso della collaborazione".
 
-## CAPO IV
+## CAPO IV - DISPOSIZIONI RELATIVE AL PERSONALE DEL CONSIGLIO SUPERIORE DELLA MAGISTRATURA
 
-### DISPOSIZIONI RELATIVE AL PERSONALE DEL - CONSIGLIO SUPERIORE DELLA MAGISTRATURA
-
-#### ART. 13 - Ruolo del Consiglio superiore della magistratura
+### ART. 13 - Ruolo del Consiglio superiore della magistratura
 
 1\. Il Governo e' delegato ad emanare, entro centottanta giorni dalla data di entrata in vigore della presente legge, un decreto legislativo volto a realizzare una piu' razionale e stabile organizzazione del personale addetto al Consiglio superiore della magistratura, senza nuovi oneri a carico del bilancio dello Stato, con l'osservanza dei seguenti principi e criteri direttivi:
 
@@ -714,11 +706,9 @@ L'eventuale reinserimento nei ruoli viene disposto nel rispetto delle procedure 
 
 > 28\. Nell'esercizio dei compiti attribuiti dall'art. 1, comma 62, della legge 23 dicembre 1996, n. 662, il Corpo della guardia di finanza agisce avvalendosi dei poteri di polizia tributaria previsti dal decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e dal decreto del Presidente della Repubblica 29 settembre 1973, n. 600. Nel corso delle verifiche previste dall'art. 1, comma 62, della legge 23 dicembre 1996, n. 662, non e' opponibile il segreto d'ufficio".
 
-## CAPO V
+## CAPO V - DISPOSIZIONI RELATIVE AL PERSONALE MILITARE
 
-### DISPOSIZIONI RELATIVE - AL PERSONALE MILITARE
-
-#### ART. 14 - Disposizioni relative al personale militare
+### ART. 14 - Disposizioni relative al personale militare
 
 1\. ((COMMA ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)).
 
@@ -748,11 +738,11 @@ AGGIORNAMENTO (5)
 
 Il D.Lgs. 15 marzo 2010, n. 66 ha disposto (con l'art. 2268, comma 1) che e' abrogato il comma 6 del presente articolo escluso l'ultimo periodo.
 
-#### ART. 15
+### ART. 15
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-#### Art. 16
+### Art. 16
 
 Delega al Governo per agevolare la mobilita' del
 
@@ -780,7 +770,7 @@ personale militare e delle Forze di polizia
 
 10-bis. Con le stesse modalita' stabilite al comma 10 possono essere alienati gli immobili del patrimonio e del demanio dello Stato concessi in qualita' di alloggi individuali ai dipendenti della Polizia di Stato e ubicati al di fuori o prospicienti le strutture di servizio.
 
-#### Art. 17
+### Art. 17
 
 Disposizioni concernenti il trasferimento del personale
 
@@ -788,7 +778,7 @@ delle Forze armate e delle Forze di polizia
 
 1\. Il coniuge convivente del personale in servizio permanente delle Forze armate, compresa l'Arma dei carabinieri, del Corpo della Guardia di finanza e delle Forze di polizia ad ordinamento civile e degli ufficiali e sottufficiali piloti di complemento in ferma dodecennale ((...)) nonche' del Corpo nazionale dei vigili del fuoco, trasferiti d'autorita' da una ad altra sede di servizio, che sia impiegato in una delle amministrazioni di cui all'articolo 1, comma 2 del decreto legislativo 3 febbraio 1993, n. 29, ha diritto, all'atto del trasferimento o dell'elezione di domicilio nel territorio nazionale, ad essere impiegato presso l'amministrazione di appartenenza o, per comando o distacco, presso altre amministrazioni nella sede di servizio del coniuge o, in mancanza, nella sede piu' vicina.
 
-#### ART. 18
+### ART. 18
 
 (Delega al Governo per l'emanazione di disposizioni correttive del
 
@@ -832,11 +822,9 @@ decreto legislativo n. 195 del 1995).
 
 > "20. Ai fini dell'armonizzazione al regime generale del trattamento di fine rapporto e dell'istituzione di forme di previdenza complementare dei dipendenti pubblici, le procedure di negoziazione, e di concertazione previste dal decreto legislativo 12 maggio 1995, n. 19 potranno definire, per il personale ivi contemplato, la disciplina del trattamento di fine rapporto ai sensi dell'art. 2, commi da 5 a 8, della legge 8 agosto 1995, n. 335, e successive modificazioni, nonche' l'istituzione di forme pensionistiche complementari, di cui all'art. 3 del decreto legislativo 21 aprile 1993, n. 124, e successive modificazioni. Per la prima applicazione di quanto previsto nel periodo precedente saranno attivate le procedure di negoziazione e di concertazione in deroga a quanto stabilito dall'art. 7, comma 1, del citato decreto legislativo n. 195 del 1995".
 
-## CAPO VI
+## CAPO VI - DISPOSIZIONI FINALI
 
-### DISPOSIZIONI FINALI
-
-#### Art. 19
+### Art. 19
 
 Disposizioni finali
 

@@ -28,7 +28,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 La ritenuta a favore della "Cassa ufficiali" della Guardia di finanza, cui sono soggetti - per effetto delle disposizioni in vigore - gli ufficiali del Corpo durante la permanenza nelle posizioni per le quali e' obbligatorio il versamento del contributo, e' stabilita nella misura del ((2,80 per cento)) sullo stipendio, intero o ridotto, che percepiscono, considerato in ragione dell'ottanta per cento. ((3))
 
@@ -46,29 +46,29 @@ b) «3 per cento» dal 1° gennaio 2026".
 
 Ha inoltre disposto (con l'art. 17, comma 3) che "Le percentuali di cui al comma 1, lettera a), e comma 2, lettera a), si applicano a decorrere dal mese di entrata in vigore della presente legge".
 
-### Art. 2
+## Art. 2
 
 ((ARTICOLO ABROGATO DALLA L. 30 NOVEMBRE 1961, N. 1326))
 
-### Art. 3
+## Art. 3
 
 L'indennita' dovuta all'ufficiale collocato in ausiliaria od in altra posizione di congedo, deceduto prima della riscossione di essa, e' corrisposta agli eredi.
 
-### Art. 4
+## Art. 4
 
 ((ARTICOLO ABROGATO DALLA L. 30 NOVEMBRE 1961, N. 1326))
 
-### Art. 5
+## Art. 5
 
 Il primo comma dell'art. 14-novies (aggiunto) della legge 21 dicembre 1931, n. 1710, ed ogni altra disposizione in contrasto con la presente legge sono abrogati.
 
 ## Disposizioni transitorie
 
-### Art. 6
+## Art. 6
 
 Agli ufficiali che alla data di entrata in vigore della presente legge siano gia' in ausiliaria od in altra posizione di congedo, l'indennita', e' liquidata nel piu' breve tempo consentito dalle disponibilita' finanziarie della Cassa ufficiali e comunque non oltre tre anni dalla data suddetta, dando la precedenza a coloro che da piu' lungo tempo si trovano nelle predette posizioni.
 
-### Art. 7
+## Art. 7
 
 La presente legge entra in vigore il primo giorno del mese successivo alla sua pubblicazione nella Gazzetta Ufficiale.
 

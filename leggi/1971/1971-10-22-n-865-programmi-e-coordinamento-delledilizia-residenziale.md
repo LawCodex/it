@@ -26,17 +26,15 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - PROGRAMMI E COORDINAMENTO
+## TITOLO I - PROGRAMMI E COORDINAMENTO DELL'EDILIZIA RESIDENZIALE PUBBLICA
 
-### DELL'EDILIZIA RESIDENZIALE PUBBLICA
-
-##### Art. 1
+### Art. 1
 
 Per la realizzazione di programmi di interventi di edilizia abitativa e degli altri fini indicati nella presente legge, tutti i fondi stanziati a qualsiasi titolo dallo Stato, dalle aziende statali e dagli enti pubblici edilizi a carattere nazionale, destinati agli stessi scopi, anche se derivanti dalla stipulazione di mutui, dall'emissione di obbligazioni e dal versamento di contributi da parte di enti e di privati, sono impiegati unitariamente dallo Stato secondo le norme della presente legge.
 
 Sono esclusi dalla previsione di cui al precedente comma i fondi destinati alla costruzione degli alloggi la cui concessione sia essenzialmente condizionata alla prestazione in loco di un determinato servizio presso pubbliche amministrazioni nonche' di quelli che si trovano negli stessi immobili nei quali hanno sede uffici, comandi, reparti o servizi delle amministrazioni predette.
 
-##### Art. 2
+### Art. 2
 
 E' istituito, presso il Ministero dei lavori pubblici, il Comitato per l'edilizia residenziale (CER).
 
@@ -56,7 +54,7 @@ Il Comitato e' costituito con decreto del Ministro per i lavori pubblici e dura 
 
 Le mansioni di segretario sono svolte da un funzionario della carriera direttiva dell'amministrazione centrale del Ministero dei lavori pubblici.
 
-##### Art. 3
+### Art. 3
 
 Entro trenta giorni dalla data di entrata in vigore della presente legge, le amministrazioni dello Stato, le aziende statali e gli enti pubblici previsti dal precedente articolo 1 danno comunicazione al CER dell'ammontare dei fondi disponibili per interventi di edilizia economica e popolare, comprendendovi quelli previsti dall'articolo 67 lettera a) della presente legge, con l'indicazione dei programmi gia' deliberati e del loro stato di attuazione, nonche' delle proposte di ripartizione dei fondi disponibili.
 
@@ -74,7 +72,7 @@ Le Regioni, nel predisporre i programmi di cui al precedente comma, si conforman
 
 Il CER, entro i limiti dell'attribuzione dei fondi assegnati a ciascuna Regione, quale risulta dal piano approvato dal CIPE, tenendo conto dei prevedibili tempi di esecuzione dei programmi formulati dalle Regioni stesse e del decreto del Ministro per il tesoro previsto dall'ultimo comma del successivo articolo 5, predispone il programma triennale di utilizzazione dei fondi disponibili; verifica ogni anno lo stato di attuazione dei programmi gia' deliberati al fine del coordinamento con quelli da adottare successivamente.
 
-##### Art. 4
+### Art. 4
 
 Fino alla data di entrata in vigore del decreto delegato previsto dal successivo articolo 8, le Regioni sono delegate all'attuazione dei programmi da esse approvati a norma del precedente articolo 3.
 
@@ -84,7 +82,7 @@ Per l'impiego dei fondi eventualmente eccedenti la capacita' di spesa degli enti
 
 Il CIPE, su proposta del CER che accerta l'eventuale mancata attuazione dei programmi deliberati, autorizza l'esercizio da parte del Ministro per i lavori pubblici del potere di cui ai precedenti secondo e terzo comma.
 
-##### Art. 5
+### Art. 5
 
 A partire dal mese successivo a quello di entrata in vigore della presente legge sono depositati su appositi conti correnti presso la Cassa depositi e prestiti:
 
@@ -102,7 +100,7 @@ Nei limiti dell'attribuzione dei fondi assegnati a ciascuna Regione, il Ministro
 
 Ai fini della predisposizione del programma triennale di cui all'ultimo comma dell'articolo 3, il Ministro per il tesoro, sentito il Comitato interministeriale per il credito ed il risparmio, indica entro 150 giorni dalla data di entrata in vigore della presente legge e, successivamente, entro il 30 settembre di ciascun anno, con proprio decreto, gli istituti di credito e gli enti dai quali i beneficiari possono ottenere mutui per la realizzazione dei programmi di edilizia abitativa previsti dalla presente legge e comunica al Ministro per i lavori pubblici, quale presidente del Comitato per l'edilizia residenziale, l'ammontare delle disponibilita' finanziarie che gli istituti e gli enti di cui sopra prevedono di destinare alla stipulazione dei mutui ammessi a contributo statale, in base alle vigenti disposizioni, tenendo anche conto dell'articolazione regionale dei programmi.
 
-##### Art. 6
+### Art. 6
 
 Entro un anno dalla data di entrata in vigore della presente legge gli istituti autonomi per le case popolari procederanno alla modifica del consiglio di amministrazione e del collegio sindacale secondo le disposizioni del presente articolo.
 
@@ -138,7 +136,7 @@ I membri eletti secondo le disposizioni di cui al numero 1) del terzo comma ed i
 
 Le disposizioni del presente articolo non si applicano agli IACP di Trento e Bolzano, per i quali si provvedera' con legge provinciale, prevedendo che nei rispettivi organi direttivi siano rappresentati democraticamente enti locali, lavoratori, assegnatari.
 
-##### Art. 7
+### Art. 7
 
 Alla data di entrata in vigore della presente legge, qualora non siano stati emanati, in materia urbanistica, i decreti delegati previsti dall'articolo 17 della legge 16 maggio 1970, n. 281, sono trasferite alle Regioni a statuto ordinario le attribuzioni dell'Amministrazione dei lavori pubblici relative ai regolamenti edilizi, ai programmi di fabbricazione, ai piani di zona di cui alla legge 18 aprile 1962, n. 167, e successive modificazioni, ai piani particolareggiati di esecuzione del piano regolatore generale ed ai piani di lottizzazione.
 
@@ -148,7 +146,7 @@ Per le procedure di annullamento in corso alla data di entrata in vigore della p
 
 Nell'esercizio delle attribuzioni indicate ai precedenti commi, le Regioni si avvalgono dei provveditorati regionali alle opere pubbliche e delle sezioni urbanistiche regionali.
 
-##### Art. 8
+### Art. 8
 
 Il Governo della Repubblica e' delegato ad emanare entro il 31 dicembre 1972, sentita una commissione composta da dieci senatori e dieci deputati nominati dai presidenti delle rispettive Assemblee, norme aventi valore di legge sulla riorganizzazione delle amministrazioni e degli enti pubblici operanti nel settore edilizio, sul riordinamento dei criteri di assegnazione degli alloggi di edilizia economica e popolare, dei canoni e delle quote di riscatto con l'osservanza dei seguenti principi e criteri direttivi:
 
@@ -172,13 +170,11 @@ i) promuovere la gestione democratica degli alloggi da parte degli assegnatari c
 
 Il CER, avvalendosi delle Regioni, predispone e realizza ogni due anni un censimento dei fabbisogni abitativi del Paese, accertando nel contempo la composizione dei nuclei familiari, i redditi e la reale situazione abitativa nonche' la dislocazione territoriale delle abitazioni.
 
-## TITOLO II - NORME SULL'ESPROPRIAZIONE
+## TITOLO II - NORME SULL'ESPROPRIAZIONE PER PUBBLICA UTILITA'
 
-### PER PUBBLICA UTILITA'
+## ((TITOLO ABROGATO DAL - D.P.R. 8 GIUGNO 2001, N. 327))
 
-#### ((TITOLO ABROGATO DAL - D.P.R. 8 GIUGNO 2001, N. 327))
-
-##### Art. 9
+### Art. 9
 
 ((ARTICOLO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N.327))((25))
 
@@ -194,7 +190,7 @@ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122
 
 Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 1 gennaio 2002 al 30 giugno 2003.
 
-##### Art. 10
+### Art. 10
 
 ((ARTICOLO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N.327))((25))
 
@@ -210,7 +206,7 @@ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122
 
 Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 1 gennaio 2002 al 30 giugno 2003.
 
-##### Art. 11
+### Art. 11
 
 ((ARTICOLO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N.327))((25))
 
@@ -226,7 +222,7 @@ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122
 
 Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 1 gennaio 2002 al 30 giugno 2003.
 
-##### Art. 12
+### Art. 12
 
 ((ARTICOLO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N.327))((25))
 
@@ -242,7 +238,7 @@ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122
 
 Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 1 gennaio 2002 al 30 giugno 2003.
 
-##### Art. 13
+### Art. 13
 
 ((ARTICOLO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N.327))((25))
 
@@ -258,7 +254,7 @@ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122
 
 Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 1 gennaio 2002 al 30 giugno 2003.
 
-##### Art. 14
+### Art. 14
 
 ((ARTICOLO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N.327))((25))
 
@@ -274,7 +270,7 @@ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122
 
 Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 1 gennaio 2002 al 30 giugno 2003.
 
-##### Art. 15 - ARTICOLO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N.327) (25) ((31)
+### Art. 15 - ARTICOLO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N.327) (25) ((31)
 
 ---------------
 
@@ -294,7 +290,7 @@ AGGIORNAMENTO (31)
 
 La Corte Costituzionale, con sentenza 07 - 10 giugno 2011, n. 181 (in G.U. 1a s.s. 15/06/2011, n. 26) ha dichiarato l'illegittimita' costituzionale dell'art. 5-bis, comma 4, del Decreto-Legge 11 luglio 1992, n. 333, convertito, con modificazioni, dalla legge 8 agosto 1992, n. 359, in combinato disposto con gli articoli 15, primo comma, secondo periodo, e 16, commi quinto e sesto,della legge 22 ottobre 1971, n. 865 come sostituiti dall'art. 14 della legge 28 gennaio 1977, n. 10.
 
-##### Art. 16 - ARTICOLO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N.327) (25) ((31)
+### Art. 16 - ARTICOLO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N.327) (25) ((31)
 
 ---------------
 
@@ -314,7 +310,7 @@ AGGIORNAMENTO (31)
 
 La Corte Costituzionale, con sentenza 07 - 10 giugno 2011, n. 181 (in G.U. 1a s.s. 15/06/2011, n. 26) ha dichiarato l'illegittimita' costituzionale dell'art. 5-bis, comma 4, del Decreto-Legge 11 luglio 1992, n. 333, convertito, con modificazioni, dalla legge 8 agosto 1992, n. 359, in combinato disposto con gli articoli 15, primo comma, secondo periodo, e 16, commi quinto e sesto,della legge 22 ottobre 1971, n. 865 come sostituiti dall'art. 14 della legge 28 gennaio 1977, n. 10.
 
-##### Art. 17
+### Art. 17
 
 ((ARTICOLO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N.327))((25))
 
@@ -330,7 +326,7 @@ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122
 
 Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 1 gennaio 2002 al 30 giugno 2003.
 
-##### Art. 18
+### Art. 18
 
 ((ARTICOLO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N.327))((25))
 
@@ -346,7 +342,7 @@ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122
 
 Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 1 gennaio 2002 al 30 giugno 2003.
 
-##### Art. 19
+### Art. 19
 
 ((ARTICOLO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N.327))((25))
 
@@ -362,7 +358,7 @@ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122
 
 Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 1 gennaio 2002 al 30 giugno 2003.
 
-##### Art. 20
+### Art. 20
 
 ((ARTICOLO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N.327))((25))
 
@@ -378,7 +374,7 @@ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122
 
 Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 1 gennaio 2002 al 30 giugno 2003.
 
-##### Art. 21
+### Art. 21
 
 ((ARTICOLO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N.327))((25))
 
@@ -394,7 +390,7 @@ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122
 
 Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 1 gennaio 2002 al 30 giugno 2003.
 
-##### Art. 22
+### Art. 22
 
 ((ARTICOLO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N.327))((25))
 
@@ -410,7 +406,7 @@ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122
 
 Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 1 gennaio 2002 al 30 giugno 2003.
 
-##### Art. 23
+### Art. 23
 
 ((ARTICOLO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N.327))((25))
 
@@ -426,7 +422,7 @@ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122
 
 Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 1 gennaio 2002 al 30 giugno 2003.
 
-##### Art. 24
+### Art. 24
 
 ((ARTICOLO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N.327))((25))
 
@@ -442,7 +438,7 @@ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122
 
 Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 1 gennaio 2002 al 30 giugno 2003.
 
-##### Art. 25
+### Art. 25
 
 ((ARTICOLO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N.327))((25))
 
@@ -458,11 +454,9 @@ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122
 
 Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente articolo dal 1 gennaio 2002 al 30 giugno 2003.
 
-## TITOLO III - MODIFICHE ED INTEGRAZIONI ALLE LEGGI 17 AGOSTO 1942, N. 1150, 18
+## TITOLO III - MODIFICHE ED INTEGRAZIONI ALLE LEGGI 17 AGOSTO 1942, N. 1150, 18 APRILE 1962, N. 167 E 29 SETTEMBRE 1964, n. 847
 
-### APRILE 1962, N. 167 E 29 SETTEMBRE 1964, n. 847
-
-##### Art. 26
+### Art. 26
 
 ((ARTICOLO ABROGATO DALLA L. 28 GENNAIO 1977, N.10)) ((8))
 
@@ -472,7 +466,7 @@ AGGIORNAMENTO (8)
 
 La L. 28 gennaio 1977, n.10 ha disposto (con l'art. 2, comma 4) che "L'articolo 26 della legge 22 ottobre 1971, n. 865, e' abrogato. Le aree gia' vincolate ai sensi di detto articolo sono assoggettate al regime previsto dall'articolo 35 della legge 22 ottobre 1971, n. 865, salvo quanto previsto nell'undicesimo, nel sedicesimo e nel diciottesimo comma dello stesso articolo 35 per cio' che concerne i requisiti soggettivi."
 
-##### Art. 27
+### Art. 27
 
 I comuni dotati di piano regolatore generale o di programma di fabbricazione approvati possono formare, previa autorizzazione della Regione, un piano delle aree da destinare ad insediamenti produttivi.
 
@@ -490,7 +484,7 @@ La concessione del diritto di superficie ad enti pubblici per la realizzazione d
 
 Contestualmente all'atto di concessione, o all'atto di cessione della proprieta' dell'area, tra il comune da una parte e il concessionario o l'acquirente dall'altra, viene stipulata una convenzione per atto pubblico con la quale vengono disciplinati gli oneri posti a carico del concessionario o dell'acquirente e le sanzioni per la loro inosservanza.
 
-##### Art. 28
+### Art. 28
 
 L'ultimo comma dell'articolo 1 della legge 18 aprile 1962, n. 167, e' sostituito dai seguenti:
 
@@ -498,27 +492,27 @@ L'ultimo comma dell'articolo 1 della legge 18 aprile 1962, n. 167, e' sostituito
 
 La Regione puo' disporre, a richiesta di una delle amministrazioni comunali interessate, la costituzione di consorzi obbligatori tra comuni limitrofi per la formazione di piani di zona consortili".
 
-##### Art. 29
+### Art. 29
 
 Il primo comma dell'articolo 3 della legge 18 aprile 1962, n. 167, e' sostituito dal seguente:
 
 "L'estensione delle zone da includere nei piani e' determinata in relazione alle esigenze dell'edilizia economica e popolare per un decennio e non puo' eccedere quella necessaria a soddisfare il 60 per cento del fabbisogno complessivo di edilizia abitativa nel periodo considerato".
 
-##### Art. 30
+### Art. 30
 
 Sono fatte salve le previsioni dei piani di zona approvati prima dell'entrata in vigore della presente legge, dimensionati in misura superiore a quanto previsto dal precedente articolo 29 della presente legge.
 
-##### Art. 31
+### Art. 31
 
 La percentuale del fabbisogno complessivo di edilizia abitativa di cui all'articolo 29 della presente legge si applica anche nei casi in cui i comuni o loro consorzi procedono all'aggiornamento dei piani di zona gia' approvati.
 
-##### Art. 32
+### Art. 32
 
 Il terzo comma dell'articolo 3 della legge 18 aprile 1962, n. 167, e' sostituito dal seguente:
 
 "Possono essere comprese nei piani anche le aree sulle quali insistono immobili la cui demolizione o trasformazione sia richiesta da ragioni igienico-sanitarie ovvero sia ritenuta necessaria per la realizzazione del piano".
 
-##### Art. 33
+### Art. 33
 
 L'ultimo comma dell'articolo 3 della legge 18 aprile 1962, n. 167, e' sostituito dai seguenti:
 
@@ -526,13 +520,13 @@ L'ultimo comma dell'articolo 3 della legge 18 aprile 1962, n. 167, e' sostituito
 
 I comuni possono comprendere tali zone anche in un piano regolatore soltanto adottato e trasmesso ai competenti organi per l'approvazione. In tale ipotesi il piano delle zone suddette, approvato con le modalita' di cui al comma precedente, e' vincolante in sede di approvazione del piano regolatore".
 
-##### Art. 34
+### Art. 34
 
 All'articolo 8 della legge 18 aprile 1962, n. 167, e' aggiunto il seguente comma:
 
 "Le varianti che non incidono sul dimensionamento globale del piano e non comportano modifiche al perimetro, agli indici di fabbricabilita' ed alle dotazioni di spazi pubblici o di uso pubblico, o costituiscono adeguamento delle previsioni del piano ai limiti ed ai rapporti di cui all'articolo 17 della legge 6 agosto 1967, n. 765, sono approvate con deliberazione del consiglio comunale. La deliberazione diviene esecutiva ai sensi dell'articolo 3 della legge 9 giugno 1947, n. 530".
 
-##### Art. 35
+### Art. 35
 
 Le disposizioni dell'articolo 10 della legge 18 aprile 1962, n. 167, sono sostituite dalle norme di cui al presente articolo.
 
@@ -604,11 +598,11 @@ AGGIORNAMENTO (20)
 
 La L. 30 aprile 1999, n.136 ha disposto (con l'art. 7, comma 4) che "La disposizione di cui all'undicesimo comma dell'articolo 35 della legge 22 ottobre 1971, n. 865, come sostituito dall'articolo 3, comma 63, lettera c), della legge 23 dicembre 1996, n. 662, che prevede la preferenza per i proprietari espropriati ai fini della concessione in diritto di superficie o della cessione in proprieta' delle aree, si interpreta nel senso che tale preferenza spetta ai soggetti che abbiano la proprieta' ((o che abbiano in corso le procedure di acquisto con stipula di un contratto preliminare di acquisto registrato e trascritto)) delle aree medesime alla data dell'adozione da parte del comune dello strumento urbanistico con il quale tali aree vengono destinate alla realizzazione di programmi di edilizia economica e popolare."
 
-##### Art. 36
+### Art. 36
 
 Le disposizioni contenute nell'articolo precedente non si applicano alle aree che alla data di entrata in vigore della presente legge siano state acquisite, previa assegnazione, da enti pubblici o da cooperative o siano state cedute, anche in superficie, dal comune a privati, o per le quali, alla medesima data, sia intervenuta l'assegnazione e sia in corso il procedimento di espropriazione da parte di detti enti o cooperative. Gli atti del procedimento di espropriazione non definiti alla data di entrata in vigore della presente legge sono assoggettati alle norme contenute nel precedente titolo secondo.
 
-##### Art. 37
+### Art. 37
 
 ((LA L. 29 LUGLIO 1980, N.385 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE COMMA)).
 
@@ -616,7 +610,7 @@ In tutti i casi in cui si verifichi la decadenza dalla concessione e la consegue
 
 I pagamenti da effettuare in adempimento di quanto previsto al comma precedente saranno considerati come spese obbligatorie da iscrivere in bilancio da parte degli enti obbligati, i quali sono tenuti a vincolare agli stessi pagamenti le rendite derivanti dalle costruzioni acquisite per devoluzione o risoluzione della cessione in proprieta'.
 
-##### Art. 38
+### Art. 38
 
 ((Le disposizioni dell'articolo 11 della legge 18 aprile 1962, n. 167, sono sostituite dalle norme del presente articolo.
 
@@ -634,15 +628,15 @@ I programmi di attuazione e le varianti di aggiornamento annuale sono approvati 
 
 In assenza del programma o della individuazione di cui alla lettera b) del precedente secondo comma la utilizzazione delle aree puo' avvenire esclusivamente in regime di superficie e la relativa determinazione e' vincolante in sede di approvazione dei programmi pluriennali di attuazione)).
 
-##### Art. 39
+### Art. 39
 
 Gli articoli 12, 13, 14, 15, 16, 17 e 18 della legge 18 aprile 1962, n. 167, e successive modificazioni, sono abrogati.
 
-##### Art. 40
+### Art. 40
 
 All'articolo 19 della legge 18 aprile 1962, n. 167, le parole: "... utilizzate in proprio dagli enti di cui al terzo comma dell'articolo 10" sono sostituite con le parole: "... utilizzate dagli enti pubblici istituzionalmente operanti nel settore dell'edilizia economica e popolare e da cooperative edilizie".
 
-##### Art. 41
+### Art. 41
 
 L'articolo 1 della legge 29 settembre 1964, n. 847, e' sostituito dal seguente:
 
@@ -656,7 +650,7 @@ c) per le opere di urbanizzazione secondaria indicate al successivo articolo 4;
 
 d) per le opere di carattere generale necessarie per allacciare ai pubblici servizi le zone del piano".
 
-##### Art. 42
+### Art. 42
 
 L'articolo 2 della legge 29 settembre 1964, n. 847, e' sostituito dal seguente:
 
@@ -672,13 +666,13 @@ Con decreto del Ministro per il tesoro la garanzia e' dichiarata decaduta per la
 
 L'ammortamento dei mutui puo' avere inizio, su richiesta del comune o del consorzio, tre anni dopo la concessione del mutuo stesso: in tal caso i relativi interessi sono capitalizzati".
 
-##### Art. 43
+### Art. 43
 
 L'articolo 3 della legge 29 settembre 1964, n. 847, e' sostituito dal seguente:
 
 "L'importo dei mutui non puo' essere superiore al 25 per cento della spesa totale prevista nella relazione finanziaria del piano".
 
-##### Art. 44
+### Art. 44
 
 All'articolo 4 della legge 29 settembre 1964, n. 847, e' aggiunto il seguente comma:
 
@@ -700,7 +694,7 @@ g) centri sociali e attrezzature culturali e sanitarie;
 
 h) aree verdi di quartiere".
 
-##### Art. 45
+### Art. 45
 
 E' costituito presso la Cassa depositi e prestiti un fondo speciale con gestione autonoma di lire 300 miliardi per la concessione di mutui per l'acquisizione e l'urbanizzazione primaria delle aree, nonche' per la realizzazione delle altre opere necessarie ad allacciare le aree stesse ai pubblici servizi, in attuazione dei piani di zona.
 
@@ -734,7 +728,7 @@ AGGIORNAMENTO (10)
 
 La L. 5 agosto 1978, n.457 ha disposto (con l'art. 40, comma 1) che "Il fondo speciale costituito presso la Cassa depositi e prestiti ai sensi dell'articolo 45 della legge 22 ottobre 1971, n. 865, modificato dall'articolo 7 della legge 27 maggio 1975, n. 166, e' ulteriormente elevato a lire 700 miliardi. A tal fine, il tesoro dello Stato e' autorizzato ad apportare alla Cassa depositi e prestiti la somma di lire 180 miliardi. Detta somma sara' iscritta nello stato di previsione della spesa del Ministero del tesoro in ragione di lire 60 miliardi per ciascuno degli anni finanziari 1979, 1980 e 1981."
 
-##### Art. 46
+### Art. 46
 
 All'onere di cui al precedente articolo si provvede con il ricavo netto derivante da operazioni finanziarie che il Ministro per il tesoro e' autorizzato ad effettuare in ciascun anno mediante la contrazione di mutui con il Consorzio di credito per le opere pubbliche o con emissioni di buoni poliennali del tesoro e di speciali certificati di credito.
 
@@ -752,7 +746,7 @@ All'onere relativo alle operazioni finanziarie di cui al presente articolo per l
 
 Il Ministro per il tesoro e' autorizzato a provvedere, con propri decreti, alle occorrenti variazioni di bilancio per gli esercizi 1971, 1972 e 1973.
 
-##### Art. 47
+### Art. 47
 
 In sede di prima applicazione i comuni o consorzi, sulla base dei programmi pluriennali di attuazione dei piani di zona, presentano le richieste di finanziamento alla Regione entro sessanta giorni dalla data di entrata in vigore della presente legge.
 
@@ -760,11 +754,9 @@ La Regione indica l'ordine di priorita' ed invia entro i venti giorni successivi
 
 Il Ministro per i lavori pubblici trasmette le richieste alla Cassa depositi e prestiti indicando l'ordine di precedenza sulla base del quale verranno concessi i mutui nei limiti degli stanziamenti previsti per gli anni finanziari 1971 e 1972, a norma del precedente articolo 45.
 
-## TITOLO IV - PROGRAMMI PUBBLICI
+## TITOLO IV - PROGRAMMI PUBBLICI DI EDILIZIA RESIDENZIALE
 
-### DI EDILIZIA RESIDENZIALE
-
-##### Art. 48
+### Art. 48
 
 Nel triennio 1971-1973 i programmi pubblici di edilizia residenziale di cui al presente titolo prevedono: la costruzione di alloggi destinati alla generalita' dei lavoratori ed a coloro che occupano abitazioni improprie, malsane e fatiscenti da demolire; la costruzione di alloggi destinati a soddisfare i fabbisogni abitativi di zone colpite da calamita' naturali; la costruzione di case-albergo per studenti, lavoratori; lavoratori immigrati e persone anziane, nonche' di alloggi destinati ai cittadini piu' bisognosi, anche riuniti in cooperative edilizie; la costruzione di alloggi in favore di lavoratori dipendenti emigrati all'estero e di profughi, anche se riuniti in cooperative edilizie; la realizzazione di opere di urbanizzazione primaria e secondaria relative agli interventi di edilizia abitativa; l'esecuzione di opere di manutenzione e di risanamento del patrimonio di abitazioni di tipo economico e popolare dello Stato e degli enti di edilizia economica e popolare, escluso quello ceduto ai sensi del decreto del Presidente della Repubblica 17 gennaio 1959, n. 2; l'integrazione dei contributi concessi agli istituti autonomi per le case popolari per la realizzazione di programmi edilizi.
 
@@ -784,7 +776,7 @@ b) per anzianita' di lavoro nella localita' in cui sono previste le costruzioni 
 
 c) in relazione all'anzianita' di contribuzione: i punteggi previsti dall'articolo 72 del decreto del Presidente della Repubblica 11 ottobre 1963, n. 1471, computandosi come periodi di effettiva contribuzione anche i periodi di lavoro prestati all'estero, da documentarsi con attestati delle ditte alle cui dipendenze il lavoratore abbia prestato la sua opera, vidimati dal consolato italiano di prima categoria competente per territorio o dalla cancelleria consolare della rappresentanza diplomatica italiana accreditata nel Paese in cui il lavoro e' stato prestato. Il punteggio minimo si intende elevato a punti 2 se il lavoro all'estero, anche in piu' riprese, sia durato almeno tre anni.
 
-##### Art. 49
+### Art. 49
 
 Ai lavoratori dipendenti o autonomi che, per la ricostruzione di abitazioni distrutte o gravemente danneggiate nei comuni soggetti a totale o parziale trasferimento, siano stati ammessi a contributi a fondo perduto per effetto di disposizioni legislative emanate in favore di persone colpite da calamita' naturali e catastrofi, sono concessi ulteriori contributi integrativi a fondo perduto sino alla concorrenza dell'intero ammontare della spesa iniziale.
 
@@ -792,11 +784,11 @@ Di tale beneficio potranno usufruire i proprietari per una sola unita' immobilia
 
 Con la legge di approvazione del bilancio dello Stato saranno stanziate annualmente le somme occorrenti per l'attuazione del presente articolo.
 
-##### Art. 50
+### Art. 50
 
 Nei comuni che abbiano provveduto alla formazione dei piani di zona ai sensi della legge 18 aprile 1962, n. 167, le aree per la realizzazione dei programmi pubblici di edilizia abitativa previsti dal presente titolo sono scelte nell'ambito di detti piani.
 
-##### Art. 51
+### Art. 51
 
 Nei comuni che non dispongono dei piani previsti dalla legge 18 aprile 1962, n. 167, i programmi costruttivi sono localizzati su aree indicate con deliberazione del consiglio comunale nell'ambito delle zone residenziali dei piani regolatori e dei programmi di fabbricazione, sempre che questi risultino approvati o adottati e trasmessi per le approvazioni di legge.
 
@@ -808,11 +800,11 @@ Qualora il consiglio comunale non provveda entro il termine di cui al comma prec
 
 La deliberazione del consiglio comunale o il decreto del presidente della giunta regionale comporta l'applicazione delle norme in vigore per l'attuazione dei piani di zona.
 
-##### Art. 52
+### Art. 52
 
 Le opere comprese nei programmi previsti dal presente titolo sono a tutti gli effetti dichiarate di pubblica utilita' e i lavori sono dichiarati urgenti e indifferibili.
 
-##### Art. 53
+### Art. 53
 
 I provveditori alle opere pubbliche, sulla base dei programmi approvati dalle Regioni, ai sensi del precedente articolo 3, concedono i contributi di cui alla lettera a) dell'articolo 67 agli enti costruttori, i quali possono chiedere che il contributo venga concesso anche sugli interessi di preammortamento capitalizzati. I decreti di concessione del contributo sono immediatamente comunicati al Ministero dei lavori pubblici.
 
@@ -820,7 +812,7 @@ I contributi sono erogati agli stessi enti costruttori ovvero agli istituti mutu
 
 Gli istituti mutuanti provvedono alla erogazione dei mutui sulla base dei certificati di pagamento nonche', per la rata di saldo, sulla base del certificato di collaudo approvato dal consiglio di amministrazione degli enti costruttori.
 
-##### Art. 54
+### Art. 54
 
 Gli istituti autonomi per le case popolari provvedono a demolire le baracche ed a rendere inagibili gli altri alloggi impropri o malsani, gia' occupati dagli assegnatari dei nuovi alloggi non appena questi ultimi sono stati consegnati.
 
@@ -832,7 +824,7 @@ La nota delle spese relative e' resa esecutoria dal prefetto ed e' rimessa all'e
 
 L'Istituto autonomo per le case popolari versa le somme riscosse in conto entrata Tesoro.
 
-##### Art. 55
+### Art. 55
 
 I fondi di cui alle lettere c) e d) del successivo articolo 67 sono destinati per:
 
@@ -846,7 +838,7 @@ d) prestiti individuali per la costruzione e l'acquisto di alloggi o miglioramen
 
 e) interventi di ristrutturazione, risanamento o restauro conservativo di interi complessi edilizi compresi nei centri storici per una quota gravante nella percentuale dei fondi destinata alla generalita' dei lavoratori.
 
-##### Art. 56
+### Art. 56
 
 La costruzione degli alloggi di cui alla lettera b) del precedente articolo 55 e' affidata alle imprese che ne hanno fatto richiesta, nei limiti delle disponibilita' dei fondi, sulla base di convenzioni all'uopo stipulate.
 
@@ -864,7 +856,7 @@ i criteri per la determinazione e la revisione dei canoni di locazione.
 
 Gli alloggi costruiti ai sensi del presente articolo restano in proprieta' dell'ente concedente e sono gestiti dalle imprese interessate per la durata della convenzione; saranno trasferiti, allo scadere della convenzione stessa, agli Istituti autonomi case popolari competenti per territorio.
 
-##### Art. 57
+### Art. 57
 
 La costruzione degli alloggi di cui alla lettera a) del precedente articolo 55 e' affidata di norma agli Istituti autonomi per le case popolari e loro consorzi e a cooperative e loro consorzi attraverso apposite convenzioni. Puo' essere altresi' affidata a societa' a prevalente partecipazione statale sulla base di convenzioni all'uopo stipulate dalle Regioni.
 
@@ -876,7 +868,7 @@ agli Istituti autonomi per le case popolari, gli alloggi realizzati e destinati 
 
 ai comuni, le case-albergo, le aree pubbliche, gli spazi e il verde attrezzato e quanto altro di loro competenza; nonche' le opere destinate ad attivita' sociali, sportive, culturali ed assistenziali, che potranno essere assegnate ad enti istituzionalmente competenti; all'ente religioso istituzionalmente competente, le opere destinate ad attivita' religiose.
 
-##### Art. 58
+### Art. 58
 
 Gli enti ed organismi incaricati dell'attuazione dei programmi di cui alla presente legge provvedono, per le parti di rispettiva competenza, alla progettazione delle opere, direttamente oppure avvalendosi di liberi professionisti.
 
@@ -884,7 +876,7 @@ La direzione, la contabilita' e l'assistenza ai lavori possono essere affidate a
 
 I suddetti enti ed organismi provvedono direttamente all'appalto dei lavori ed assumono l'attuazione delle parti di programmi di loro competenza, con ogni conseguente responsabilita' di ordine tecnico e amministrativo.
 
-##### Art. 59
+### Art. 59
 
 Per l'assegnazione dei prestiti a valere sul fondo di rotazione di cui alla legge 14 febbraio 1963, n. 60, e' formata un'unica graduatoria mediante sorteggio tra i lavoratori concorrenti in possesso dei requisiti di legge.
 
@@ -894,11 +886,11 @@ Coloro che per la ricostruzione di abitazioni distrutte o gravemente danneggiate
 
 Le domande di cui al precedente comma sono classificate in un elenco speciale.
 
-##### Art. 60
+### Art. 60
 
 Gli enti ed istituti, incaricati dell'attuazione dei programmi previsti dalla presente legge, acquisiscono dai comuni le aree all'uopo occorrenti; gli stessi enti ed istituti possono tuttavia procedere direttamente all'acquisizione delle aree in nome e per conto dei comuni, d'intesa con questi ultimi.
 
-##### Art. 61
+### Art. 61
 
 Le abitazioni costruite in base ai programmi di cui al presente titolo non destinate alle case-albergo ed alle cooperative sono assegnate in locazione, con divieto di sublocazione, ovvero cedute a riscatto, nei limiti del 15 per cento dei programmi, finanziati ai sensi del successivo articolo 67, lettere c) e d).
 
@@ -908,7 +900,7 @@ Le somme erogate per la realizzazione delle case-albergo sono rimborsate dagli I
 
 I finanziamenti assegnati alle cooperative, ivi comprese quelle per le quali alla data di entrata in vigore della presente legge non sia stata effettuata la consegna degli alloggi, sono rimborsati in 35 anni senza oneri di interessi.
 
-##### Art. 62
+### Art. 62
 
 I progetti delle opere comprese nei programmi di cui al presente titolo sono approvati dai consigli di amministrazione degli Istituti autonomi per le case popolari, previo parere della commissione di cui al successivo articolo 63.
 
@@ -920,7 +912,7 @@ b) dal consiglio di amministrazione del competente Istituto autonomo per le case
 
 E' soppresso l'articolo 49 del decreto del Presidente della Repubblica 11 ottobre 1963, n. 1471.
 
-##### Art. 63
+### Art. 63
 
 Presso ciascun Istituto autonomo per le case popolari e costituita una commissione tecnica cosi' composta:
 
@@ -942,7 +934,7 @@ I suddetti componenti possono designare un sostituto nei casi di assenza o di im
 
 Alla seduta della commissione puo' partecipare, senza diritto di voto, il professionista progettista.
 
-##### Art. 64
+### Art. 64
 
 Le opere di urbanizzazione e di edilizia sociale comprese nei programmi di cui al presente titolo sono realizzate dagli enti ed organismi incaricati dell'attuazione dei programmi costruttivi, sentite le competenti amministrazioni comunali, e sono attribuite in proprieta' agli enti ed organismi indicati nell'articolo 57 della presente legge, dopo l'approvazione del relativo collaudo da effettuarsi entro tre mesi dalla loro ultimazione.
 
@@ -956,7 +948,7 @@ I comuni sono tenuti a richiedere i relativi finanziamenti.
 
 Sara' esercitata la rivalsa delle somme anticipate nei confronti dei comuni e delle amministrazioni obbligate anche nel caso di opere costruite con fondi della Gestione case per lavoratori prima che le amministrazioni siano ammesse ai contributi.
 
-##### Art. 65
+### Art. 65
 
 Fino all'entrata in vigore delle norme delegate previste dal precedente articolo 8, con decreto del Presidente della Repubblica, su proposta dei Ministri per i lavori pubblici e per il lavoro e la previdenza sociale, sentiti il Ministro per il tesoro e una commissione composta da 10 senatori e da 10 deputati nominati dai Presidenti delle rispettive assemblee, sono emanate, entro sei mesi dall'entrata in vigore della presente legge, norme per l'assegnazione e la revoca, nonche' per la determinazione e la revisione dei canoni di locazione degli alloggi di edilizia economica e popolare, compresi quelli di cui alla legge 14 febbraio 1963, n. 60, e successive modificazioni, secondo i criteri indicati alle lettere g) ed h) del citato articolo 8. Fino all'emanazione del decreto sopra indicato e' sospesa ogni procedura di sfratto e nessun aumento degli attuali canoni e' consentito.
 
@@ -964,13 +956,13 @@ Tali norme si applicheranno anche agli alloggi dei programmi in corso e per i qu
 
 Le graduatorie formate dalle commissioni provinciali per l'assegnazione degli alloggi e dei prestiti della Gestione case per lavoratori sono definitive a seguito della decisione delle commissioni stesse sulle opposizioni proposte dai concorrenti.
 
-##### Art. 66
+### Art. 66
 
 Le disposizioni del presente titolo si applicano, in quanto compatibili, anche ai programmi della Gestione case per lavoratori in corso di attuazione.
 
 Tutte le agevolazioni ed esenzioni previste dall'articolo 33 della legge 14 febbraio 1963, n. 60, e successive norme regolamentari, sono estese alle abitazioni, ai fabbricati e alle opere comunque realizzate in base al presente titolo, salvo i maggiori benefici previsti da vigenti disposizioni legislative.
 
-##### Art. 67
+### Art. 67
 
 Alla realizzazione dei programmi di cui al precedente articolo 48 si provvede:
 
@@ -984,7 +976,7 @@ d) attraverso anticipazioni su pagamento dei debiti dello Stato nei conti della 
 
 e) attraverso l'utilizzazione di ogni altro fondo di cui all'articolo 1 della presente legge.
 
-##### Art. 68
+### Art. 68
 
 I limiti d'impegno indicati nella lettera a) dell'articolo 67 sono destinati alla concessione di contributi ai sensi della legge 2 luglio 1949, n. 408, e successive modificazioni e integrazioni:
 
@@ -996,13 +988,13 @@ Almeno un quarto dei contributi di cui al primo comma, lettera a) del presente a
 
 Una aliquota, non superiore ad un sesto dei finanziamenti di cui al primo comma lettera b) del presente articolo, viene destinata alla integrazione dei contributi gia' concessi agli Istituti autonomi per le case popolari relativamente a programmi ancora in corso di esecuzione nonche' a programmi di alloggi ultimati successivamente al 4 novembre 1963, ai fini del conseguimento delle finalita' indicate al precedente articolo 65. I provveditori alle opere pubbliche concedono i contributi agli Istituti autonomi per le case popolari sulla base delle integrazioni disposte dal Ministro per i lavori pubblici.
 
-##### Art. 69
+### Art. 69
 
 All'onere derivante dall'applicazione della disposizione contenuta nella lettera a) del precedente articolo 67, per l'anno finanziario 1971, si provvede con una corrispondente riduzione del capitolo 5381 dello stato di previsione del Ministero del tesoro per l'anno medesimo.
 
 Il Ministro per il tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 70
+### Art. 70
 
 Per le Regioni a statuto speciale aventi competenza in materia di edilizia popolare, nonche' per le province autonome di Trento e di Bolzano, il CIPE stabilisce su proposta del Ministro per i lavori pubblici, di concerto con il Ministro per il tesoro - le quote degli stanziamenti di cui alla presente legge da devolvere ai suddetti enti e da iscriversi nei rispettivi bilanci.
 
@@ -1010,17 +1002,15 @@ Tali quote sono utilizzate per le finalita' previste dalla presente legge.
 
 Tutte le agevolazioni ed esenzioni concernenti l'edilizia abitativa sono estese alle abitazioni, ai fabbricati e alle opere comunque realizzate in base a leggi delle regioni a statuto speciale e delle province autonome di Trento e Bolzano nell'ambito della loro competenza in materia di edilizia popolare.
 
-##### Art. 71
+### Art. 71
 
 Le cooperative edilizie che beneficiano dei contributi previsti dalla presente legge devono essere rette e disciplinate dai principi della mutualita', senza fini di speculazione privata e devono essere costituite esclusivamente da soci aventi i requisiti soggettivi necessari per essere assegnatari di alloggi economici e popolari ai sensi delle disposizioni vigenti in materia, e che siano iscritti nei ruoli dell'imposta complementare per un reddito imponibile annuo non superiore a 4 milioni di lire.
 
 Sono fatte salve le particolari disposizioni di cui alla legge 14 febbraio 1963, n. 60.
 
-## TITOLO V - EDILIZIA AGEVOLATA E CONVENZIONATA
+## TITOLO V - EDILIZIA AGEVOLATA E CONVENZIONATA AGEVOLAZIONI FISCALI
 
-### AGEVOLAZIONI FISCALI
-
-##### Art. 72
+### Art. 72
 
 Il Ministero dei lavori pubblici e' autorizzato a concedere un contributo nel pagamento degli interessi dei mutui contratti dai privati, dalle cooperative e dagli enti pubblici che ottengano, ai sensi della presente legge, le concessioni in superficie delle aree comprese nei piani di zona per l'edilizia economica e popolare.
 
@@ -1042,21 +1032,21 @@ Per la concessione dei contributi statali e' autorizzato il limite di impegno di
 
 Per gli anni successivi, con la legge di approvazione del bilancio dello Stato, sara' fissato annualmente il limite degli ulteriori impegni da assumere per l'applicazione del presente articolo.
 
-##### Art. 73
+### Art. 73
 
 L'esenzione dall'imposta sui fabbricati si applica per un periodo di 25 anni per gli edifici realizzati su aree date in concessione ai sensi dell'articolo 35 e per un periodo di 15 anni per quelli realizzati su aree cedute in proprieta' ai sensi dello stesso articolo.
 
-##### Art. 74
+### Art. 74
 
 Gli atti di trasferimento della proprieta' delle aree previste dal titolo III della presente legge nonche' gli atti di concessione del diritto di superficie sulle aree stesse sono soggetti all'imposta fissa minima di registro e sono esenti da imposta ipotecaria.
 
-##### Art. 75
+### Art. 75
 
 Tutti gli atti di cessione gratuita delle aree a favore dei comuni o loro consorzi sono soggetti alla imposta fissa minima di registro e sono esenti da imposta ipotecaria.
 
 ## DISPOSIZIONE FINALE
 
-##### Art. 76
+### Art. 76
 
 La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica.
 

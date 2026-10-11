@@ -27,7 +27,7 @@ La seguente legge:
 
 ## Capo I - DISPOSIZIONI CONCERNENTI IL PERSONALE
 
-#### Art. 1 - Reclutamento
+### Art. 1 - Reclutamento
 
 1\. L'articolo 12 ed il terzo comma dell'articolo 13 della legge 22 dicembre 1981, n. 797, sono abrogati.
 
@@ -59,7 +59,7 @@ La seguente legge:
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 2 - Passaggi di categoria per mansioni superiori
+### Art. 2 - Passaggi di categoria per mansioni superiori
 
 1\. In deroga agli articoli 1, 7 e 10 della legge 3 aprile 1979, n. 101, ed agli articoli 7, 13 e 15 della legge 22 dicembre 1981, n. 797, e con la limitazione di cui al comma 2 del presente articolo, i posti disponibili, per l'Amministrazione delle poste e delle telecomunicazioni, nelle qualifiche di operatore specializzato di esercizio UP, di operatore specializzato di officina, di revisore e di perito, nonche', per l'Azienda di Stato per i servizi telefonici (ASST), nelle qualifiche di operatore specializzato di esercizio, di revisore e di revisore tecnico, sono attribuiti mediante concorsi interni per i contingenti centrali e regionali per l'Amministrazione delle poste e delle telecomunicazioni e concorsi zonali per l'Azienda di Stato per i servizi telefonici. Ai concorsi, da espletare per titoli professionali, puo' partecipare il personale che, fino al 31 dicembre 1986 ed almeno per un anno effettivo anche non continuativo, abbia svolto in modo esclusivo le mansioni proprie di qualifica superiore cui si riferisce il concorso al quale il dipendente intende partecipare, fermo restando il requisito dell'anzianita' richiesto dall' articolo 9 della legge 3 aprile 1979, n. 101 .
 
@@ -87,11 +87,11 @@ La seguente legge:
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 3 - Riduzione di anzianita' per passaggi di categoria
+### Art. 3 - Riduzione di anzianita' per passaggi di categoria
 
 1\. Ai fini dell'accesso alle qualifiche di vice dirigente, appartenenti all'VIII categoria, l'anzianita' minima richiesta nelle corrispondenti qualifiche di consigliere e' fissata in un anno.
 
-#### Art. 4 - Accesso alla qualifica di vice dirigente
+### Art. 4 - Accesso alla qualifica di vice dirigente
 
 1\. La lettera b) del numero 8) del primo comma dell' articolo 7 della legge 3 aprile 1979, n. 101 , e' sostituita dalla seguente:
 
@@ -105,7 +105,7 @@ La seguente legge:
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 5 - Accesso alla dirigenza
+### Art. 5 - Accesso alla dirigenza
 
 1\. I posti disponibili al 31 dicembre degli anni 1983 e 1984 nella qualifica di primo dirigente dell'Amministrazione delle poste e delle telecomunicazioni, ancorche' messi a concorso e non ancora conferiti, sono attribuiti, a domanda, mediante scrutinio per merito comparativo al personale della medesima Amministrazione con qualifica di ispettore generale e di direttore di divisione dei ruoli ad esaurimento o equiparata, di cui all' articolo 60 del decreto del Presidente della Repubblica 30 giugno 1972, n. 748. La nomina decorre dalla data di entrata in vigore della presente legge.
 
@@ -121,7 +121,7 @@ La seguente legge:
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 6 - Funzioni dirigenziali e direttive
+### Art. 6 - Funzioni dirigenziali e direttive
 
 1\. Nei quadri G ed H della tabella allegata alla legge 22 dicembre 1984, n. 893, ferme restando le dotazioni organiche delle qualifiche di dirigente superiore amministrativo e di dirigente superiore tecnico dell'Azienda di Stato per i servizi telefonici, sono raggruppate le funzioni di dirigente di ispettorato di zona, di ispettore generale e di consigliere ministeriale aggiunto.
 
@@ -131,7 +131,7 @@ La seguente legge:
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 7 - Funzioni superiori
+### Art. 7 - Funzioni superiori
 
 1\. L' articolo 13 della legge 3 aprile 1979, n. 101, come sostituito dall'articolo 42 della legge 22 dicembre 1981, n. 797, e' ulteriormente sostituito dal seguente:
 
@@ -157,7 +157,7 @@ La seguente legge:
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 8 - Orario d'obbligo del personale addetto alla commutazione telefonica
+### Art. 8 - Orario d'obbligo del personale addetto alla commutazione telefonica
 
 1\. L' articolo 6 della legge 27 febbraio 1958, n. 119, come modificato dall'articolo 2 della legge 29 novembre 1973, n. 809, e' abrogato.
 
@@ -165,11 +165,11 @@ La seguente legge:
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 9 - Fascicolo personale e stato matricolare
+### Art. 9 - Fascicolo personale e stato matricolare
 
 1\. Il Ministro delle poste e delle telecomunicazioni e' autorizzato a determinare gli atti, costituenti il fascicolo personale dell'impiegato, dei quali deve essere data notizia, stabilendo le relative modalita'.
 
-#### Art. 10 - Applicazione dell'articolo 41 della legge 3 aprile 1979, n. 101
+### Art. 10 - Applicazione dell'articolo 41 della legge 3 aprile 1979, n. 101
 
 1\. Al personale di cui al primo comma, lettera b), dell'articolo 41 della legge 3 aprile 1979, n. 101, e' attribuito, sino al 31 dicembre 1980, il trattamento economico della rispettiva categoria immediatamente inferiore, da determinarsi ai sensi degli articoli 39 e 40 della stessa legge.
 
@@ -181,7 +181,7 @@ La seguente legge:
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 11 - Valutazione del servizio militare
+### Art. 11 - Valutazione del servizio militare
 
 1\. Nei confronti dei sottufficiali delle forze armate e dei corpi di polizia, transitati all'impiego civile ai sensi dell'articolo 352 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, come modificato dall'articolo 8 della legge 22 ottobre 1961, n. 1143, e di precedenti analoghe disposizioni, il servizio militare, sempreche' non abbia dato luogo a pensione ordinaria, e' riconosciuto, nella categoria corrispondente alla qualifica con cui sono stati immessi nell'Amministrazione, per intero relativamente ai primi dodici anni e per meta' relativamente al periodo eventualmente eccedente.
 
@@ -189,11 +189,11 @@ La seguente legge:
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 12 - Competenze accessorie
+### Art. 12 - Competenze accessorie
 
 1\. A decorrere dal 1° gennaio 1987, le misure delle competenze accessorie per il personale delle aziende postelegrafoniche con qualifiche dirigenziali e con qualifiche ad esaurimento di ispettore generale e di direttore di divisione o equiparate sono determinate, fatti salvi i trattamenti piu' favorevoli stabiliti con disposizioni a carattere generale, con decreto del Ministro delle poste e delle telecomunicazioni, di concerto con il Ministro del tesoro, sentito il consiglio di amministrazione, in relazione ad analoghi provvedimenti concernenti il personale inquadrato nelle categorie professionali.
 
-#### Art. 13 - Limiti del lavoro straordinario
+### Art. 13 - Limiti del lavoro straordinario
 
 1\. E' ratificata l'autorizzazione, concessa dalle aziende postelegrafoniche negli anni 1981 e 1982, per il superamento dei limiti individuali annuali di lavoro straordinario previsti dall' articolo 2 del decreto del Presidente della Repubblica 6 ottobre 1977, n. 1150.
 
@@ -201,7 +201,7 @@ La seguente legge:
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 14 - Cumulo di indennita'
+### Art. 14 - Cumulo di indennita'
 
 1\. Fino alla data di entrata in vigore del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, le disposizioni di cui agli articoli 2 e 5 del decreto del Presidente della Repubblica 11 maggio 1976, n. 269, come modificate rispettivamente con gli articoli 1 e 2 del decreto del Presidente della Repubblica 23 dicembre 1980, n. 985, devono essere intese nel senso che le indennita' previste dalle disposizioni medesime sono cumulabili con le maggiorazioni del compenso per lavoro straordinario stabilite dal terzo comma dell' articolo 4 del decreto del Presidente della Repubblica 6 ottobre 1977, n. 1150.
 
@@ -209,13 +209,13 @@ La seguente legge:
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 15 - Consegna di telegrammi ed espressi
+### Art. 15 - Consegna di telegrammi ed espressi
 
 1\. Il Ministro delle poste e delle telecomunicazioni, sentite le organizzazioni sindacali di categoria maggiormente rappresentative sul piano nazionale ed il consiglio di amministrazione, e' autorizzato a stabilire, con proprio decreto, di concerto con il Ministro del tesoro, sia la resa dei fattorini addetti al recapito dei telegrammi e degli espressi negli uffici principali e in quelli locali, sia i limiti della zona di recapito normale, oltre la quale il fattorino ha diritto ad uno specifico compenso.
 
 2\. Con il medesimo decreto sono stabiliti la misura e le modalita' di corresponsione del compenso, di cui al comma 1, nonche' i criteri per il calcolo degli oggetti diretti allo stesso destinatario.
 
-#### Art. 16 - Indennita' per l'uso di motomezzo di proprieta' del dipendente
+### Art. 16 - Indennita' per l'uso di motomezzo di proprieta' del dipendente
 
 1\. La misura dell'indennita' di motomezzo, di cui agli articoli 1 e 2 della legge 21 dicembre 1972, n. 819, come risultano modificati dall'articolo 23 della legge 12 agosto 1974, n. 370, e' determinata con decreto del Ministro delle poste e delle telecomunicazioni, di concerto con il Ministro del tesoro, sentito il consiglio di amministrazione, sulla base degli elementi di costo comunque connessi all'esercizio del mezzo.
 
@@ -223,7 +223,7 @@ La seguente legge:
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 17 - Indennita' di motoveicolo di proprieta' dell'Amministrazione delle poste e delle telecomunicazioni
+### Art. 17 - Indennita' di motoveicolo di proprieta' dell'Amministrazione delle poste e delle telecomunicazioni
 
 1\. Al personale dipendente dall'Amministrazione delle poste e delle telecomunicazioni, addetto alla distribuzione dei telegrammi, degli espressi e delle corrispondenze ordinarie o iscritte, puo' essere affidata, per le esigenze di servizio connesse all'espletamento delle proprie mansioni e in relazione all'organizzazione dei servizi, ai sensi dell'articolo 2 del regolamento approvato con decreto del Presidente della Repubblica 29 maggio 1982, n. 655, la conduzione di motoveicoli di proprieta' dell'Amministrazione, purche' gli interessati siano in possesso dei requisiti prescritti dalla legge.
 
@@ -239,7 +239,7 @@ La seguente legge:
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 18 - Servizi viaggianti
+### Art. 18 - Servizi viaggianti
 
 1\. L' articolo 16 del decreto del Presidente della Repubblica 6 gennaio 1978, n. 919, come da ultimo sostituito dall'articolo 1 del decreto del Presidente della Repubblica 1° giugno 1983, n. 356, e come integrato dall'articolo 67 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, e' sostituito dal seguente:
 
@@ -263,7 +263,7 @@ b) rimanente personale: lire 1.590.
 
 3\. Durante le soste fuori sede il personale di cui al comma 1 dell'articolo 16 del decreto del Presidente della Repubblica 6 gennaio 1978, n. 919, come sostituito per effetto del presente articolo, e' considerato in servizio a tutti gli effetti fino al limite massimo di due ore; il beneficio compete esclusivamente nei casi di sosta non superiore alle sei ore.
 
-#### Art. 19 - Modifiche alla legge 22 dicembre 1981, n. 797
+### Art. 19 - Modifiche alla legge 22 dicembre 1981, n. 797
 
 1\. Il secondo comma dell' articolo 30 della legge 22 dicembre 1981, n. 797, e' sostituito dal seguente:
 
@@ -283,13 +283,13 @@ b) rimanente personale: lire 1.590.
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 20 - Rimborso tassa per patente di guida
+### Art. 20 - Rimborso tassa per patente di guida
 
 1\. Fino al 31 dicembre 1983 le aziende dipendenti dal Ministero delle poste e delle telecomunicazioni sono autorizzate a rimborsare l'importo della tassa di concessione governativa, secondo la categoria della patente posseduta, al personale addetto alla guida di veicoli di proprieta' dell'Amministrazione od autorizzato a guidarli in via permanente.
 
 2\. Con decreto del Ministro delle poste e delle telecomunicazioni, sentito il consiglio di amministrazione, e' determinato il personale al quale, in relazione alle mansioni svolte, compete il rimborso di cui al comma 1.
 
-#### Art. 21 - Abbonamenti a trasporti urbani
+### Art. 21 - Abbonamenti a trasporti urbani
 
 1\. La lettera e) del primo comma dell' articolo 2 del decreto del Presidente della Repubblica 28 giugno 1955, n. 619, e' sostituita dalla seguente:
 
@@ -299,11 +299,11 @@ b) rimanente personale: lire 1.590.
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 22 - Compenso per lo speciale interessamento e la propaganda dei servizi a danaro
+### Art. 22 - Compenso per lo speciale interessamento e la propaganda dei servizi a danaro
 
 1\. L'Amministrazione delle poste e delle telecomunicazioni e' autorizzata a corrispondere, a titolo di speciale erogazione per l'interessamento e la propaganda dei servizi a danaro, un compenso una tantum di lire 15.000 nette al personale appartenente alle soppresse carriere esecutive e di concetto in servizio nell'anno 1979 presso le casse provinciali e gli uffici principali abilitati ai servizi a danaro.
 
-#### Art. 23 - Personale comandato o fuori ruolo
+### Art. 23 - Personale comandato o fuori ruolo
 
 1\. L'articolo 9 della legge 27 ottobre 1973, n. 674, e' sostituito dal seguente:
 
@@ -315,7 +315,7 @@ b) rimanente personale: lire 1.590.
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 24 - Affidamento dei servizi postali
+### Art. 24 - Affidamento dei servizi postali
 
 1\. Il divieto di cui all'articolo 1 della legge 23 ottobre 1960, n. 1369 , non si applica ai contratti con i quali l'Amministrazione delle poste e delle telecomunicazioni affida i servizi di raccolta della corrispondenza, di trasporto e consegna di dispacci postali e di recapito di pacchi.
 
@@ -325,7 +325,7 @@ b) rimanente personale: lire 1.590.
 
 ## Capo II - DISPOSIZIONI CONCERNENTI L'ORGANIZZAZIONE DELLE AZIENDE
 
-#### Art. 25 - Organizzazione degli uffici
+### Art. 25 - Organizzazione degli uffici
 
 1\. Le disposizioni di cui all' articolo 2 della legge 22 dicembre 1984, n. 893, hanno effetto fino alla data del 31 dicembre 1990.
 
@@ -335,7 +335,7 @@ b) rimanente personale: lire 1.590.
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 26 - Custodia e movimento fondi
+### Art. 26 - Custodia e movimento fondi
 
 1\. Per motivi connessi alla sicurezza della custodia e del movimento dei fondi, il Ministro delle poste e delle telecomunicazioni, di concerto con il Ministro del tesoro, sentito il consiglio di amministrazione, puo' autorizzare uffici diversi dalla cassa provinciale a ricevere i versamenti di altri uffici della stessa provincia ed a fare a questi le sovvenzioni.
 
@@ -343,7 +343,7 @@ b) rimanente personale: lire 1.590.
 
 3\. Nel caso e per le localita' in cui le forze dell'ordine incontrino obiettive difficolta' ad eseguire la vigilanza degli uffici postali o la scorta armata ai mezzi di trasporto dei fondi e dei valori dell'Amministrazione delle poste e delle telecomunicazioni, il Ministro delle poste e delle telecomunicazioni stabilisce, sentito il consiglio di amministrazione, le misure cautelari alternative, nel rispetto dell'esigenza prioritaria di assicurare la regolare e puntuale esecuzione dei servizi e, in particolare, del pagamento delle pensioni.
 
-#### Art. 27 - Visite fiscali e posti di pronta assistenza medica
+### Art. 27 - Visite fiscali e posti di pronta assistenza medica
 
 1\. Le aziende dipendenti dal Ministero delle poste e delle telecomunicazioni, per gli accertamenti ed i controlli medico-legali sulle malattie e sulla idoneita' fisica del proprio personale, si avvalgono delle unita' sanitarie locali ovvero di medici fiduciari scelti tra i liberi professionisti. Le prestazioni del medico fiduciario, ivi comprese quelle contemplate dal comma 2, costituiscono svolgimento di attivita' libero-professionale incompatibile con il rapporto di impiego nell'ambito universitario o in quello del servizio sanitario nazionale, nonche' con l'effettuazione di attivita' convenzionata quale medico di medicina generale.
 
@@ -357,7 +357,7 @@ b) rimanente personale: lire 1.590.
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 28 - Interpretazione autentica dell'articolo 5 della legge 19 aprile 1985, n. 150
+### Art. 28 - Interpretazione autentica dell'articolo 5 della legge 19 aprile 1985, n. 150
 
 1 . Il comma 1 dell'articolo 5 della legge 19 aprile 1985, n. 150, va inteso nel senso che, per il funzionamento degli uffici e dei posti di polizia postale e per l'effettuazione dei servizi resi nell'interesse dell'Amministrazione delle poste e delle telecomunicazioni, l'Amministrazione stessa e' autorizzata a cedere in uso gratuito al Ministero dell'interno locali, ancorche' destinati a case-albergo ai sensi delle leggi 7 giugno 1975, n. 227, e 10 febbraio 1982, n. 39 , ed a sostenere tutti gli oneri connessi.
 
@@ -365,7 +365,7 @@ b) rimanente personale: lire 1.590.
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 29 - Funzionamento degli organi collegiali
+### Art. 29 - Funzionamento degli organi collegiali
 
 1\. Ai componenti del consiglio di amministrazione delle poste e delle telecomunicazioni, della commissione centrale per gli uffici locali, del consiglio superiore tecnico delle poste, delle telecomunicazioni e dell'automazione, delle commissioni centrali del personale dell'Amministrazione delle poste e delle telecomunicazioni e dell'Azienda di Stato per i servizi telefonici, della commissione paritetica Amministrazione-sindacati di cui all'articolo 1 della legge 3 aprile 1979, n. 101, e della commissione del dopolavoro postelegrafonico spetta, per le missioni compiute in dipendenza della carica, il trattamento economico di trasferta previsto per gli impiegati dello Stato con qualifica di dirigente generale, se piu' favorevole.
 
@@ -375,7 +375,7 @@ b) rimanente personale: lire 1.590.
 
 ## Capo III - DISPOSIZIONI CONCERNENTI I SERVIZI
 
-#### Art. 30 - Trasporti postali
+### Art. 30 - Trasporti postali
 
 1\. I canoni previsti dai commi secondo e terzo dell'articolo 74 del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con decreto del Presidente della Repubblica 29 marzo 1973, n. 156, sono elevati, rispettivamente, a lire 63.000 ed a lire 126.000.
 
@@ -405,13 +405,13 @@ b) rimanente personale: lire 1.590.
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 31 - Servizio di trasporti postali urbani
+### Art. 31 - Servizio di trasporti postali urbani
 
 1\. Per l'effettuazione del servizio di trasporti postali urbani nelle localita' di cui all'allegato elenco, l'Amministrazione delle poste e delle telecomunicazioni e' autorizzata a stipulare contratti a trattativa privata con imprese o societa' cooperative di trasporti postali costituite prevalentemente tra soggetti gia' dipendenti dalle aziende che risultino appaltatrici dei servizi medesimi alla data di entrata in vigore della presente legge. Detta costituzione deve avvenire prima della scadenza dei contratti e con iscrizione all'albo dei trasportatori postali tenuto dall'Amministrazione delle poste e delle telecomunicazioni.
 
 2\. Il nuovo contratto puo' essere stipulato a trattativa privata per un periodo massimo di nove anni dalla data di entrata in vigore della presente legge, alle medesime condizioni del contratto in scadenza, aumentate, nel massimo della percentuale di variazione dell'indice ISTAT sul costo della vita riferito all'anno precedente e degli importi contrattualmente dovuti per eventuali variazioni alla organizzazione.
 
-#### Art. 32 - Modifica dell'articolo 102 del testo unico approvato con decreto del Presidente della Repubblica 29 marzo 1973, n. 156
+### Art. 32 - Modifica dell'articolo 102 del testo unico approvato con decreto del Presidente della Repubblica 29 marzo 1973, n. 156
 
 1 . Il primo comma dell'articolo 102 del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con decreto del Presidente della Repubblica 29 marzo 1973, n. 156, e' sostituito dal seguente:
 
@@ -421,7 +421,7 @@ b) rimanente personale: lire 1.590.
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 33 - Lavori e forniture di lieve entita'
+### Art. 33 - Lavori e forniture di lieve entita'
 
 1\. La disposizione di cui al primo comma dell' articolo 13 della legge 10 febbraio 1982, n. 39, e' estesa agli acquisti ed alle forniture; l'importo indicato nella medesima norma e' elevato a lire 4.500.000.
 
@@ -429,7 +429,7 @@ b) rimanente personale: lire 1.590.
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 34 - Deposito di somme sequestrate
+### Art. 34 - Deposito di somme sequestrate
 
 1\. Il settimo comma dell' articolo 7 del decreto del Presidente della Repubblica 29 luglio 1982, n. 571, e' sostituito dal seguente: "Se sono state sequestrate somme di denaro, il capo dell'ufficio o il soggetto delegato al servizio ai sensi del secondo comma possono essere autorizzati dall'autorita' di cui al primo comma dell'articolo 18 della legge a depositarle in un conto corrente postale infruttifero intestato alla stessa autorita'".
 
@@ -437,7 +437,7 @@ b) rimanente personale: lire 1.590.
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 35 - Pagamenti in valuta estera
+### Art. 35 - Pagamenti in valuta estera
 
 1\. L'Amministrazione delle poste e delle telecomunicazioni, per i pagamenti all'estero derivanti da operazioni effettuate in sede clearing CEPT (Conferenza europea delle poste e delle telecomunicazioni), emette ordinativi diretti al contabile del Portafoglio, secondo l'articolo 1 della legge 3 marzo 1951, n. 193, o all'Ufficio italiano dei cambi, secondo l'articolo 7 del decreto del Presidente della Repubblica 29 settembre 1987, n. 454, sui fondi messi a disposizione dalla cassa vaglia.
 
@@ -449,11 +449,11 @@ b) rimanente personale: lire 1.590.
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 36 - Filatelia
+### Art. 36 - Filatelia
 
 1\. Gli oggetti contenenti carte valori postali inviati dal competente ufficio agli abbonati al servizio filatelico sono considerati come corrispondenza epistolare e gravati della sola affrancatura ordinaria, ancorche' spediti in raccomandazione o in assicurazione.
 
-#### Art. 37 - Contributi ad enti ed istituti
+### Art. 37 - Contributi ad enti ed istituti
 
 1\. I contributi annui che il Ministro delle poste e delle telecomunicazioni e' autorizzato a concedere in favore di enti ed istituti che svolgono attivita' scientifica o sperimentale nel campo delle poste e delle telecomunicazioni, previsti dall'articolo 1 della legge 15 luglio 1966, n. 560, per l'importo complessivo annuo non superiore a lire 25 milioni, sono elevati, a partire dall'anno finanziario 1989, a lire 200 milioni.
 
@@ -463,11 +463,9 @@ b) rimanente personale: lire 1.590.
 
 > Parte di provvedimento in formato grafico
 
-## Capo IV - DISPOSIZIONI CONCERNENTI LE ATTIVITÀ SOCIALI E ASSISTENZIALI -
+## Capo IV - DISPOSIZIONI CONCERNENTI LE ATTIVITÀ SOCIALI E ASSISTENZIALI - NORME PREVIDENZIALI E FISCALI
 
-### NORME PREVIDENZIALI E FISCALI
-
-#### Art. 38 - Attivita' sociali ed assistenziali
+### Art. 38 - Attivita' sociali ed assistenziali
 
 1\. Le aziende dipendenti dal Ministero delle poste e delle telecomunicazioni possono consentire l'istituzione, da parte di cooperative di lavoratori postelegrafonici, di spacci di generi di consumo presso i propri uffici e stabilimenti ubicati nei capoluoghi di provincia.
 
@@ -485,13 +483,13 @@ b) rimanente personale: lire 1.590.
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 39 - Ritenute per canoni
+### Art. 39 - Ritenute per canoni
 
 1\. L'Amministrazione delle poste e delle telecomunicazioni e l'Azienda di Stato per i servizi telefonici, per gli alloggi di proprieta' dell'Istituto postelegrafonici e della cassa integrativa di previdenza per il personale telefonico statale, ceduti in affitto a dipendenti in servizio o in quiescenza dell'Amministrazione e dell'Azienda, sono autorizzate a riscuotere i canoni di locazione e le somme per spese accessorie mediante ritenute sugli stipendi o sulle pensioni.
 
 2\. Le ritenute sono praticate nei limiti previsti dal testo unico delle leggi concernenti il sequestro, il pignoramento e la cessione degli stipendi, salari e pensioni dei dipendenti dalle pubbliche amministrazioni, approvato con decreto del Presidente della repubblica 5 gennaio 1950, n. 180.
 
-#### Art. 40 - Ritenute per quote assicurative e associative
+### Art. 40 - Ritenute per quote assicurative e associative
 
 1\. Il quinto comma dell' articolo 26 della legge 3 aprile 1979, n. 101, aggiunto dall'articolo 44 della legge 22 dicembre 1981, n. 797, e' sostituito dai seguenti:
 
@@ -505,7 +503,7 @@ Il Ministro delle poste e delle telecomunicazioni determina con proprio decreto,
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 41 - Valutazione del servizio fuori ruolo e pensione ripartita
+### Art. 41 - Valutazione del servizio fuori ruolo e pensione ripartita
 
 1\. Le disposizioni di cui all'articolo 11 del testo unico delle norme sul trattamento di quiescenza dei dipendenti civili e militari dello Stato, approvato con decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092, sono estese al personale dei ruoli degli uffici locali che cessi dal servizio successivamente alla data di entrata in vigore della presente legge, per quanto concerne i servizi resi allo Stato, ivi compresi quelli indicati nell'articolo 157 del testo unico delle leggi sull'ordinamento degli uffici locali e delle agenzie postali e telegrafiche e sullo stato giuridico e trattamento economico del relativo personale, approvato con decreto del Presidente della Repubblica 9 agosto 1967, n. 1417, con iscrizione alla assicurazione generale obbligatoria per l'invalidita', la vecchiaia o a fondi sostitutivi.
 
@@ -519,7 +517,7 @@ Il Ministro delle poste e delle telecomunicazioni determina con proprio decreto,
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 42 - Posizione tributaria dell'Azienda di Stato per i servizi telefonici
+### Art. 42 - Posizione tributaria dell'Azienda di Stato per i servizi telefonici
 
 1\. Nei confronti dell'Azienda di Stato per i servizi telefonici la disposizione di cui al comma 1 dell'articolo 88 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, si applica anche per gli esercizi chiusi anteriormente al 1° gennaio 1988.
 
@@ -529,7 +527,7 @@ Il Ministro delle poste e delle telecomunicazioni determina con proprio decreto,
 
 > Parte di provvedimento in formato grafico
 
-#### Art. 43 - Onere
+### Art. 43 - Onere
 
 1\. L'onere derivante dall'applicazione della presente legge e' valutato:
 
@@ -547,7 +545,7 @@ b) quanto all'Azienda di Stato per i servizi telefonici, con riduzione, nella mi
 
 4\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 44 - Entrata in vigore
+### Art. 44 - Entrata in vigore
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -563,11 +561,9 @@ MAMMI', Ministro delle poste e delle telecomunicazioni
 
 Visto, il Guardasigilli: VASSALLI
 
-## Capo IV - DISPOSIZIONI CONCERNENTI LE ATTIVITÀ SOCIALI E ASSISTENZIALI -
+## Capo IV - DISPOSIZIONI CONCERNENTI LE ATTIVITÀ SOCIALI E ASSISTENZIALI - NORME PREVIDENZIALI E FISCALI
 
-### NORME PREVIDENZIALI E FISCALI
-
-#### Allegato
+### Allegato
 
 ALLEGATO (Articolo 31)
 

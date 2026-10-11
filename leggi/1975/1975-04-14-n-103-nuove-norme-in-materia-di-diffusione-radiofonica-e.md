@@ -26,11 +26,9 @@ PROMULGA
 
 la seguente legge:
 
-## Titolo I - DEL SERVIZIO PUBBLICO
+## Titolo I - DEL SERVIZIO PUBBLICO DI DIFFUSIONE RADIOFONICA E TELEVISIVA
 
-### DI DIFFUSIONE RADIOFONICA E TELEVISIVA
-
-##### Art. 1
+### Art. 1
 
 COMMA ABROGATO DALLA L. 3 MAGGIO 2004, N. 112.
 
@@ -50,15 +48,15 @@ AGGIORNAMENTO(1)
 
 La Corte Costituzionale con sentenza 15-28 luglio 1976, n. 202 (in G.U. 1° s.s. 4/8/1976, n. 205) ha dichiarato "l'illegittimita' costituzionale degli artt. 1, 2 e 45 della legge 14 aprile 1975, n. 103 (nuove norme in materia di diffusione radiofonica e televisiva) nella parte in cui non sono consentiti, previa autorizzazione statale e nei sensi di cui in motivazione, l'installazione e l'esercizio di impianti di diffusione radiofonica e televisiva via etere di portata non eccedente l'ambito locale".
 
-##### Art. 2
+### Art. 2
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
-##### Art. 3
+### Art. 3
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
-##### Art. 4
+### Art. 4
 
 La Commissione parlamentare per l'indirizzo generale e la vigilanza dei servizi radiotelevisivi:
 
@@ -74,11 +72,11 @@ La Commissione trasmette i propri atti per gli adempimenti dovuti alle Presidenz
 
 Per l'adempimento dei suoi compiti la Commissione puo' invitare il presidente, gli amministratori, il direttore generale e i dirigenti della societa' concessionaria e, nel rispetto dei regolamenti parlamentari, quanti altri ritenga utile; puo', altresi', chiedere alla concessionaria la effettuazione di indagini e studi e la comunicazione di documenti.
 
-##### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112 ))
 
-##### Art. 6
+### Art. 6
 
 Sono riservati dalla societa' concessionaria, per apposite trasmissioni, tempi non inferiori al 5 per cento del totale delle ore di programmazione televisiva e a 3 per cento del totale delle ore di programmazione radiofonica, distintamente per la diffusione nazionale e per quella regionale, ai partiti ed ai gruppi rappresentati in Parlamento, alle organizzazioni associative delle autonomie locali, ai sindacati nazionali, alle confessioni religiose, ai movimenti politici, agli enti e alle associazioni politiche e culturali, alle associazioni nazionali del movimento cooperativo giuridicamente riconosciute,((alle associazioni di promozione sociale iscritte nei registri nazionale e regionali,))ai gruppi etnici e linguistici e ad altri gruppi di rilevante interesse sociale che ne facciano richiesta.
 
@@ -100,55 +98,55 @@ I soggetti ammessi all'accesso devono, nella libera manifestazione del loro pens
 
 I soggetti che fruiscono dell'accesso, nell'organizzare il proprio programma in modo autonomo, possono avvalersi della collaborazione tecnica gratuita della concessionaria secondo norme ed entro limiti fissati dalla Commissione parlamentare per soddisfare esigenze minime di base.
 
-##### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112 ))
 
-##### Art. 8
+### Art. 8
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
-##### Art. 9
+### Art. 9
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
-##### Art. 10
+### Art. 10
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
-##### Art. 11
+### Art. 11
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
-##### Art. 12
+### Art. 12
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
-##### Art. 13
+### Art. 13
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
-##### Art. 14
+### Art. 14
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
-##### Art. 15
+### Art. 15
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
-##### Art. 16
+### Art. 16
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
-##### Art. 17
+### Art. 17
 
 Il termine di disdetta dell'abbonamento di cui all'articolo 10 del regio decreto-legge 21 febbraio 1938, n. 246, convertito nella legge 4 giugno 1938, n. 880, e' fissato al 31 dicembre di ciascun anno.
 
-##### Art. 18
+### Art. 18
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
-##### Art. 19
+### Art. 19
 
 La societa' concessionaria, oltre che alla gestione dei servizi in concessione, e' tenuta alle seguenti prestazioni:
 
@@ -164,7 +162,7 @@ AGGIORNAMENTO (14)
 
 La L. 27 dicembre 2006, n. 296 ha disposto (con l'art. 1, comma 1248) che "Le convenzioni aggiuntive di cui agli articoli 19 e 20 della legge 14 aprile 1975, n. 103, approvate fino al 31 dicembre 2005, sono prorogate fino al 31 dicembre 2006."
 
-##### Art. 20
+### Art. 20
 
 I corrispettivi dovuti alla societa' per gli adempimenti di cui al precedente articolo sono stabiliti come segue.
 
@@ -192,81 +190,79 @@ AGGIORNAMENTO (14)
 
 La L. 27 dicembre 2006, n. 296 ha disposto (con l'art. 1, comma 1248) che "Le convenzioni aggiuntive di cui agli articoli 19 e 20 della legge 14 aprile 1975, n. 103, approvate fino al 31 dicembre 2005, sono prorogate fino al 31 dicembre 2006." .
 
-##### Art. 21
+### Art. 21
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
-##### Art. 22
+### Art. 22
 
 ((ARTICOLO ABROGATO DAL D.LGS. 31 LUGLIO 2005, N. 177))
 
-##### Art. 23
+### Art. 23
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
 ## Titolo II - DEGLI IMPIANTI DI DIFFUSIONE SONORA E TELEVISIVA VIA CAVO
 
-##### Art. 24
+### Art. 24
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
-##### Art. 25
+### Art. 25
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
-##### Art. 26
+### Art. 26
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
-##### Art. 27
+### Art. 27
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
-##### Art. 28
+### Art. 28
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
-##### Art. 29
+### Art. 29
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
-##### Art. 30
+### Art. 30
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
-##### Art. 31
+### Art. 31
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
-##### Art. 32
+### Art. 32
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
-##### Art. 33
+### Art. 33
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
-##### Art. 34
+### Art. 34
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
-##### Art. 35
+### Art. 35
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
-##### Art. 36
+### Art. 36
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
-##### Art. 37
+### Art. 37
 
 ((ARTICOLO ABROGATO DALLA L. 3 MAGGIO 2004, N. 112))
 
-## Titolo III - DEGLI IMPIANTI RIPETITORI VIA ETERE PRIVATI DI PROGRAMMI SONORI E
+## Titolo III - DEGLI IMPIANTI RIPETITORI VIA ETERE PRIVATI DI PROGRAMMI SONORI E TELEVISIVI ESTERI E NAZIONALI
 
-### TELEVISIVI ESTERI E NAZIONALI
-
-##### Art. 38
+### Art. 38
 
 L'installazione e l'esercizio di impianti ripetitori destinati esclusivamente alla ricezione ed alla contemporanea ed integrale diffusione via etere nel territorio nazionale dei normali programmi sonori e televisivi irradiati dagli organismi esteri esercenti i servizi pubblici di radiodiffusione nei rispettivi Paesi, nonche', dagli altri organismi regolarmente autorizzati in base alle leggi vigenti nei rispettivi Paesi, che non risultino costituiti allo scopo di diffondere i programmi nel territorio italiano, sono assoggettati a preventiva autorizzazione del Ministero delle poste e delle telecomunicazioni, cui spetta coordinare tutti i sistemi di radiocomunicazioni nel rispetto delle esigenze prioritarie dei servizi pubblici nazionali e del loro sviluppo e, in particolare, l'assegnazione della frequenza di funzionamento degli impianti.
 
@@ -276,7 +272,7 @@ Tali impianti comunque non debbono interferire con le reti del servizio pubblico
 
 ((COMMA ABROGATO DALLA D.LGS. 31 LUGLIO 2005, N. 177))
 
-##### Art. 39
+### Art. 39
 
 L'autorizzazione di cui al precedente articolo e' rilasciata subordinatamente al ricorrere dei seguenti requisiti:
 
@@ -302,7 +298,7 @@ non osservi gli obblighi stabiliti dal presente titolo III.
 
 Le modalita' tecniche per il rilascio dell'autorizzazione sono determinate nel regolamento di cui all'articolo 26.
 
-##### Art. 40
+### Art. 40
 
 L'autorizzazione di cui all'articolo 38 obbliga il titolare ad eliminare dai programmi esteri tutte le parti aventi, sotto qualsiasi forma, carattere pubblicitario. ((4))
 
@@ -316,7 +312,7 @@ AGGIORNAMENTO(4)
 
 La Corte Costituzionale, con sentenza 11-17 ottobre 1985, n. 231 (in G.U. 1° s.s 30/10/1985, n. 256) dichiara "la illegittimita' costituzionale degli artt. 40, primo comma e 44, secondo comma, ultima parte, della legge 14 aprile 1975, n. 103."
 
-##### Art. 41
+### Art. 41
 
 ((COMMA ABROGATO DALLA D.LGS. 31 LUGLIO 2005, N. 177))
 
@@ -328,13 +324,13 @@ Dopo la voce n. 125 della tariffa approvata con decreto del Presidente della Rep
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-##### Art. 42
+### Art. 42
 
 Il titolare dell'autorizzazione, di cui all'articolo 38, e' responsabile delle trasmissioni effettuate. Egli risponde dei danni cagionati a terzi, in dipendenza sia della realizzazione che dell'esercizio dell'impianto, come pure in dipendenza delle trasmissioni effettuate.
 
 Lo stesso titolare e' responsabile anche agli effetti della legge 22 aprile 1941, n. 633, e della legge 22 novembre 1973, n. 866.
 
-##### Art. 43
+### Art. 43
 
 L'installazione e l'esercizio di impianti ripetitori privati, destinati esclusivamente alla ricezione e trasmissione via etere simultanea ed integrale dei programmi televisivi della concessionaria del servizio pubblico nazionale, sono assoggettati a preventiva autorizzazione del Ministero delle poste e delle telecomunicazioni.
 
@@ -354,21 +350,17 @@ L'autorizzazione e' revocata, senza indennizzo, quando la zona viene servita da 
 
 Ove gli impianti vengano utilizzati per scopi diversi da quelli indicati nel presente articolo, si applicano le sanzioni di cui all'articolo 195 del testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni approvato con decreto del Presidente della Repubblica 29 marzo 1973, n. 156, come risulta modificato dall'articolo 46 della presente legge, e l'autorizzazione viene revocata.
 
-##### Art. 43-bis
+### Art. 43-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 31 LUGLIO 2005, N. 177))
 
-##### Art. 44
+### Art. 44
 
 ((ARTICOLO ABROGATO DAL D.LGS. 31 LUGLIO 2005, N. 177))
 
-## Titolo IV
+## Titolo IV - MODIFICHE AGLI ARTICOLI 1, 183 E 195 DEL TESTO UNICO DELLE DISPOSIZIONI LEGISLATIVE IN MATERIA POSTALE, DI BANCOPOSTA E DI TELECOMUNICAZIONI, APPROVATO CON DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 MARZO 1973, N. 156
 
-### MODIFICHE AGLI ARTICOLI 1, 183 E 195 DEL TESTO UNICO DELLE - DISPOSIZIONI LEGISLATIVE IN MATERIA POSTALE, DI BANCOPOSTA E DI
-
-#### TELECOMUNICAZIONI, APPROVATO CON DECRETO DEL PRESIDENTE DELLA - REPUBBLICA 29 MARZO 1973, N. 156
-
-##### Art. 45
+### Art. 45
 
 Gli articoli 1, 183 e 195 del testo unico in materia postale, di bancoposta e di telecomunicazioni, approvato con decreto del Presidente della Repubblica 29 marzo 1973, n. 156, sono sostituiti dai seguenti:
 
@@ -416,7 +408,7 @@ La Corte Costituzionale, con sentenza 15-28 luglio 1976, n. 202 (in G.U. 1° s.s
 
 ## Titolo V - DISPOSIZIONI TRANSITORIE E FINALI
 
-##### Art. 46
+### Art. 46
 
 Dal 1 dicembre 1974 e fino all'entrata in vigore della nuova convenzione che disciplina la concessione dei servizi di cui all'articolo 2 della presente legge, sono prorogate la convenzione 26 gennaio 1952 e successive convenzioni aggiuntive e di modifica, gia' prorogate fino alla data del 30 novembre 1974 dal decreto-legge 30 aprile 1974, n. 113, convertito nella legge 26 giugno 1974, n. 245, ad eccezione della condizione prevista nell'ultimo periodo dell'articolo 6 della convenzione aggiuntiva, approvata con decreto del Presidente della Repubblica 15 dicembre 1972, n. 782 (a partire da "le attivita' pubblicitarie" fino alla fine), che perde effetto dal 23 gennaio 1975.
 
@@ -430,17 +422,17 @@ Entro trenta giorni dall'entrata in vigore della presente legge debbono essere c
 
 Fino alla costituzione di tali organi rimangono in carica gli attuali amministratori della concessionaria, per l'ordinaria amministrazione e per eventuali atti urgenti e dovuti.
 
-##### Art. 47
+### Art. 47
 
 Le azioni della societa' concessionaria dei pubblici servizi di radiodiffusione circolare appartenenti a soggetti privati non aventi titolo ai sensi dell'articolo 3 della presente legge sono trasferite di diritto all'istituto per la ricostruzione industriale con effetto dal 1 dicembre 1974.
 
 Il relativo indennizzo e' corrisposto agli aventi diritto secondo il valore risultante dall'ultimo bilancio approvato alla data della pubblicazione della presente legge.
 
-##### Art. 48
+### Art. 48
 
 Restano in vigore le disposizioni vigenti in materia di servizi di telecomunicazioni che non siano incompatibili con quelle della presente legge, nonche' quelle attributive di competenze, nella stessa materia, alla regione Trentino-Alto Adige, alla provincia di Trento e alla provincia di Bolzano, contenute nel testo unico delle leggi costituzionali concernenti lo statuto speciale per il Trentino-Alto Adige, approvato con decreto del Presidente della Repubblica 31 agosto 1972, n. 670, e nelle relative norme di attuazione.
 
-##### Art. 49
+### Art. 49
 
 La presente legge entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 

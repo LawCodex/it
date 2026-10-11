@@ -37,13 +37,9 @@ Emana
 
 il segue e decreto legislativo:
 
-## Titolo I - Servizi di trasporto ferroviario di interesse regionale
+## Titolo I - Servizi di trasporto ferroviario di interesse regionale e locale erogati dalle ferrovie della Sardegna e dalle ferrovie meridionali sarde. Trasferimento delle Aziende
 
-### e locale erogati dalle ferrovie della Sardegna e - dalle ferrovie meridionali sarde.
-
-#### Trasferimento delle Aziende
-
-##### Art. 1
+### Art. 1
 
 Trasferimento delle Ferrovie della Sardegna e
 
@@ -65,7 +61,7 @@ delle Ferrovie Meridionali Sarde
 
 > \- Il testo dell'art. 56, primo comma della legge costituzionale 2 febbraio 1948, n. 3 (pubblicata nella Gazzetta Ufficiale 9 marzo 1948, n. 58) e' il seguente: «Una commissione paritetica di quattro membri, nominati dal Governo della Repubblica e dall'Alto commissario per la Sardegna sentita la consulta regionale, proporra' le norme relative al passaggio degli uffici e del personale dallo Stato alla regione, nonche' le norme di attuazione del presente statuto.».
 
-##### Art. 2
+### Art. 2
 
 Consegna dei beni
 
@@ -79,7 +75,7 @@ La consegna avviene mediante verbali sottoscritti dalle parti entro sessanta gio
 
 4\. Alla formazione di eventuali elenchi correttivi o integrativi di quelli di cui allegati sub A) e sub B) del presente decreto, si provvede, d'accordo tra le parti, entro dodici mesi decorrenti dalla data di consegna. Essi producono effetti dalle rispettive date di consegna.
 
-##### Art. 3
+### Art. 3
 
 Trasferimento alla Regione delle risorse finanziarie per l'esercizio dei servizi
 
@@ -89,17 +85,15 @@ Trasferimento alla Regione delle risorse finanziarie per l'esercizio dei servizi
 
 3\. Eventuali oneri finanziari relativi alle aziende trasferite, derivanti da fatti anteriori al trasferimento e non rilevabili dalla documentazione esistente all'atto del trasferimento medesimo, rimangono a carico dello Stato.
 
-## Titolo II - Servizi di trasporto ferroviario di interesse regionale e locale
+## Titolo II - Servizi di trasporto ferroviario di interesse regionale e locale erogati da Trenitalia S.p.A. e infrastrutture ferroviarie di proprieta' di R.F.I. S.p.A.
 
-### erogati da Trenitalia S.p.A. e infrastrutture ferroviarie - di proprieta' di R.F.I. S.p.A.
-
-##### Art. 4
+### Art. 4
 
 Funzioni e beni trasferiti
 
 1\. In attuazione dello Statuto speciale, sono trasferite alla Regione autonoma della Sardegna tutte le funzioni ed i compiti di programmazione e di amministrazione relativamente ai servizi di trasporto pubblico ferroviario di passeggeri di interesse regionale e locale erogati da Trenitalia S.p.A.
 
-##### Art. 5
+### Art. 5
 
 Determinazione dei servizi e delle relative risorse
 
@@ -109,7 +103,7 @@ Determinazione dei servizi e delle relative risorse
 
 3\. Il gestore dell'infrastruttura ferroviaria nazionale, nella ripartizione della capacita' di infrastruttura, da' priorita' ai servizi di trasporto quantitativamente e qualitativamente necessari a soddisfare la mobilita' della popolazione.
 
-##### Art. 6
+### Art. 6
 
 Trasferimento alla Regione di infrastrutture ferroviarie
 
@@ -135,11 +129,9 @@ Padoa Schioppa, Ministro dell'economia e delle finanze
 
 Visto, il Guardasigilli: Scotti
 
-## Titolo II - Servizi di trasporto ferroviario di interesse regionale e locale
+## Titolo II - Servizi di trasporto ferroviario di interesse regionale e locale erogati da Trenitalia S.p.A. e infrastrutture ferroviarie di proprieta' di R.F.I. S.p.A.
 
-### erogati da Trenitalia S.p.A. e infrastrutture ferroviarie - di proprieta' di R.F.I. S.p.A.
-
-##### Allegato A
+### Allegato A
 
 Allegato A (previsto dall'art. 2, comma 1)
 
@@ -149,7 +141,7 @@ Parte di provvedimento in formato grafico
 
 Parte di provvedimento in formato grafico
 
-##### Allegato B
+### Allegato B
 
 Allegato B (previsto dall'art. 2, comma 1)
 

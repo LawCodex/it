@@ -30,7 +30,7 @@ la seguente legge:
 
 ## CAPO I - DISPOSIZIONI GENERALI
 
-#### Art. 1
+### Art. 1
 
 1\. Le disposizioni della presente legge si applicano alla navigazione da diporto nelle acque marittime e in quelle interne.
 
@@ -76,7 +76,7 @@ AGGIORNAMENTO (13)
 
 ## CAPO II - COSTRUZIONE DELLE IMBARCAZIONI DA DIPORTO
 
-#### Art. 2
+### Art. 2
 
 ARTICOLO ABROGATO DALLA LEGGE 8 LUGLIO 2003, N.172
 
@@ -90,7 +90,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 3
+### Art. 3
 
 ARTICOLO ABROGATO DALLA LEGGE 8 LUGLIO 2003, N.172 (
 
@@ -104,7 +104,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 4
+### Art. 4
 
 ARTICOLO ABROGATO DALLA L. 26 APRILE 1986, N.193
 
@@ -118,11 +118,9 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-## CAPO III - ISCRIZIONE ED ABILITAZIONE ALLA NAVIGAZIONE
+## CAPO III - ISCRIZIONE ED ABILITAZIONE ALLA NAVIGAZIONE DELLE IMBARCAZIONI E DELLE NAVI DA DIPORTO
 
-### DELLE IMBARCAZIONI E DELLE NAVI DA DIPORTO
-
-#### Art. 5
+### Art. 5
 
 1\. Le imbarcazioni da diporto sono iscritte in registri tenuti dalle capitanerie di porto, dagli uffici circondariali marittimi, nonche' dagli uffici provinciali del Dipartimento per i trasporti terrestri e per i sistemi informativi e statistici autorizzati dal Ministro delle infrastrutture e dei trasporti. Le navi da diporto sono iscritte in registri tenuti dalle capitanerie di porto. Il modello dei registri e' approvato dal Ministro delle infrastrutture e dei trasporti. I registri delle imbarcazioni da diporto tenuti dagli uffici marittimi minori sono accentrati presso la sede delle capitanerie di porto o degli uffici circondariali marittimi da cui dipendono.
 
@@ -166,7 +164,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 6
+### Art. 6
 
 ARTICOLO ABROGATO DALLA L. 26 APRILE 1986, N.193
 
@@ -180,7 +178,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 7
+### Art. 7
 
 1\. Gli stranieri e le societa' estere che intendano iscrivere o mantenere l'iscrizione delle unita' da diporto di loro proprieta' nel registro di cui all'articolo 5, se non hanno domicilio in Italia, devono eleggerlo presso l'autorita' consolare dello Stato al quale appartengono nei modi e nelle forme previsti dalla legislazione dello Stato stesso o presso un proprio rappresentante, che abbia domicilio in Italia, al quale le autorita' marittime o della navigazione interna possono rivolgersi in caso di comunicazioni relative all'unita' iscritta.
 
@@ -200,7 +198,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 8
+### Art. 8
 
 1\. Alle navi da diporto, gli uffici che detengono i registri di iscrizione di cui all'articolo 5, all'atto dell'iscrizione, rilasciano la licenza di navigazione di cui all'articolo 9, che ne autorizza la navigazione in acque marittime e interne senza alcun limite, nonche' il certificato di sicurezza di cui all'articolo 12, che ne attesta lo stato di navigabilita'.
 
@@ -240,7 +238,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 9
+### Art. 9
 
 1\. Le licenze di navigazione sono redatte su moduli conformi ai modelli approvati dal Ministero delle infrastrutture e dei trasporti, con allegato il certificato di sicurezza di cui all'articolo 12.
 
@@ -262,7 +260,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 10
+### Art. 10
 
 ARTICOLO ABROGATO DALLA L. 26 APRILE 1986, N.193
 
@@ -276,7 +274,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 11
+### Art. 11
 
 Le imbarcazioni e le navi da diporto iscritte nei registri di cui all'articolo 5 della presente legge espongono la bandiera nazionale e sono contraddistinte dalla sigla dell'ufficio presso cui sono iscritte e dal relativo numero progressivo di iscrizione.
 
@@ -292,7 +290,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 12
+### Art. 12
 
 1\. Il certificato di sicurezza per le navi e per le imbarcazioni da diporto attesta lo stato di navigabilita' delle unita' e fa parte dei documenti di bordo. Esso e' rilasciato, convalidato o rinnovato con le procedure previste dal regolamento di cui al decreto del Ministro dei trasporti e della navigazione 5 ottobre 1999, n. 478.
 
@@ -306,7 +304,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 13
+### Art. 13
 
 1\. Sono natanti: a) le unita' da diporto a remi;
 
@@ -338,7 +336,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 14
+### Art. 14
 
 In occasione di manifestazioni sportive, preventivamente comunicate alle autorita' competenti, organizzate dalla Lega navale italiana, dalla Federazione italiana vela, dalla Federazione italiana motonautica e dai circoli nautici affiliati alle predette federazioni, le imbarcazioni di cui all'articolo 8, anche se sprovviste di licenza, ed i natanti ammessi a parteciparvi, possono navigare senza alcun limite di distanza dalla costa.
 
@@ -358,7 +356,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 15
+### Art. 15
 
 Ai motori amovibili di qualsiasi potenza da applicare sulle unita' da diporto e a quelli entrobordo da installare sui natanti di cui all'articolo 13, e' rilasciato un certificato per l'uso nel quale sono indicati i dati identificativi e quelli relativi all'omologazione o al collaudo.
 
@@ -374,7 +372,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 16
+### Art. 16
 
 Ai cantieri navali, ai costruttori di motori marini ed alle aziende di vendita puo' essere rilasciata dal capo del circondario marittimo o dalla direzione compartimentale della motorizzazione civile, nei limiti delle rispettive competenze stabilite dall'articolo 8, l'autorizzazione per la navigazione temporanea di prova, dimostrativa o di trasferimento. L'atto di autorizzazione vale a tutti gli effetti come documento di bordo.
 
@@ -390,7 +388,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 17
+### Art. 17
 
 Le imbarcazioni e le navi da diporto per le quali il procedimento di iscrizione nei registri di cui all'articolo 5 non sia ancora concluso, possono essere abilitate alla navigazione marittima ed a quella interna, nei limiti fissati dal precedente articolo 8, dai rispettivi uffici di iscrizione.
 
@@ -406,11 +404,9 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-## CAPO IV - ((COMANDO E CONDOTTA
+## CAPO IV - ((COMANDO E CONDOTTA DI NATANTI, IMBARCAZIONI E NAVI DA DIPORTO))
 
-### DI NATANTI, IMBARCAZIONI - E NAVI DA DIPORTO))
-
-#### Art. 18
+### Art. 18
 
 ARTICOLO ABROGATO DAL D.P.R. 9 OTTOBRE 1997, N. 431
 
@@ -424,7 +420,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 19
+### Art. 19
 
 ARTICOLO ABROGATO DAL D.P.R. 9 OTTOBRE 1997, N. 431
 
@@ -438,7 +434,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 20
+### Art. 20
 
 ARTICOLO ABROGATO DAL D.P.R. 9 OTTOBRE 1997, N. 431
 
@@ -452,7 +448,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 21
+### Art. 21
 
 ARTICOLO ABROGATO DAL D.P.R. 9 OTTOBRE 1997, N. 431
 
@@ -466,7 +462,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 22
+### Art. 22
 
 ARTICOLO ABROGATO DAL D.P.R. 9 OTTOBRE 1997, N. 431
 
@@ -480,7 +476,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 23
+### Art. 23
 
 ARTICOLO ABROGATO DAL D.P.R. 9 OTTOBRE 1997, N. 431
 
@@ -494,7 +490,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 24
+### Art. 24
 
 ARTICOLO ABROGATO DAL D.P.R. 9 OTTOBRE 1997, N. 431
 
@@ -508,7 +504,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 25
+### Art. 25
 
 ARTICOLO ABROGATO DAL D.P.R. 9 OTTOBRE 1997, N. 431
 
@@ -522,7 +518,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 26
+### Art. 26
 
 ARTICOLO ABROGATO DAL D.P.R. 9 OTTOBRE 1997, N. 431
 
@@ -536,7 +532,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 27
+### Art. 27
 
 ARTICOLO ABROGATO DAL D.P.R. 9 OTTOBRE 1997, N. 431
 
@@ -550,7 +546,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 28
+### Art. 28
 
 ARTICOLO ABROGATO DAL D.P.R. 9 OTTOBRE 1997, N. 431
 
@@ -564,7 +560,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 29
+### Art. 29
 
 ARTICOLO ABROGATO DALLA L. 8 LUGLIO 2003, N.172
 
@@ -578,7 +574,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 30
+### Art. 30
 
 ARTICOLO ABROGATO DAL D.P.R. 9 OTTOBRE 1997, N. 431
 
@@ -592,7 +588,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 31
+### Art. 31
 
 ARTICOLO ABROGATO DAL D.P.R. 9 OTTOBRE 1997, N. 431
 
@@ -606,7 +602,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 32
+### Art. 32
 
 ARTICOLO ABROGATO DAL D.P.R. 9 OTTOBRE 1997, N. 431
 
@@ -620,11 +616,9 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-## CAPO V - COMANDANTE ED EQUIPAGGIO
+## CAPO V - COMANDANTE ED EQUIPAGGIO DELL'IMBARCAZIONE E DELLA NAVE DA DIPORTO
 
-### DELL'IMBARCAZIONE E DELLA NAVE DA DIPORTO
-
-#### Art. 33
+### Art. 33
 
 1\. Per le navi e le imbarcazioni da diporto, l'autorita' che rilascia la licenza di navigazione annota sulla stessa il numero massimo delle persone trasportabili, sulla base dei dati riportati nella documentazione tecnica presentata per l'iscrizione dell'unita'.
 
@@ -650,7 +644,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 34
+### Art. 34
 
 ARTICOLO ABROGATO DALLA LEGGE 8 LUGLIO 2003, N.172
 
@@ -664,7 +658,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 35
+### Art. 35
 
 1\. A giudizio del comandante o del conduttore, i servizi di bordo delle imbarcazioni da diporto possono essere svolti anche dalle persone imbarcate in qualita' di ospiti purche' abbiano compiuto il sedicesimo anno di eta' per i servizi di coperta, camera e cucina e il diciottesimo anno di eta' per i servizi di macchina.
 
@@ -682,7 +676,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 36
+### Art. 36
 
 Al personale appartenente alla gente di mare ed a quello della navigazione interna che presti servizio a bordo di imbarcazioni o di navi da diporto avvalendosi di una delle abilitazioni previste dall'articolo 20, non e' riconosciuta la navigazione compiuta solo agli effetti professionali previsti dal codice della navigazione e dai relativi regolamenti di esecuzione.
 
@@ -696,7 +690,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 37
+### Art. 37
 
 1\. Il proprietario di una unita' da diporto, qualora intenda imbarcare quali membri dell'equipaggio marittimi iscritti nelle matricole della gente di mare o della navigazione interna, deve preventivamente richiedere all'autorita' competente apposito documento, redatto in conformita' al modello di cui al decreto del Ministro per la marina mercantile 20 marzo 1973, pubblicato nella Gazzetta Ufficiale n. 134 del 24 maggio 1973, ai fini dell'iscrizione dei nominativi del personale marittimo imbarcato e per gli altri dati indicati nello stesso documento.
 
@@ -710,7 +704,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 38
+### Art. 38
 
 Gli stranieri e i cittadini italiani residenti all'estero, muniti di un titolo di abilitazione o documento riconosciuto equipollente dallo Stato di appartenenza o, rispettivamente, di residenza, possono comandare o condurre, purche' a titolo gratuito, imbarcazioni e navi da diporto iscritte nei registri di cui all'articolo 5, entro i limiti della abilitazione medesima.
 
@@ -730,7 +724,7 @@ AGGIORNAMENTO (13)
 
 ## CAPO VI - DISPOSIZIONI PENALI
 
-#### Art. 39
+### Art. 39
 
 1\. Chiunque assume o ritiene il comando o la condotta di una unita' da diporto senza avere conseguito la prescritta abilitazione e' soggetto alla sanzione amministrativa del pagamento di una somma da 2.066 euro a 8.263 euro; la stessa sanzione si applica a chi assume o ritiene il comando o la condotta di una unita' da diporto senza la prescritta abilitazione perche' revocata o non rinnovata per mancanza dei requisiti; la sanzione e' raddoppiata nel caso di comando o condotta di una nave da diporto. 2. Chiunque assume o ritiene il comando o la condotta di una unita' da diporto con una abilitazione scaduta e' soggetto alla sanzione amministrativa del pagamento di una somma da 207 euro a 1.033 euro.
 
@@ -750,7 +744,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 40
+### Art. 40
 
 ARTICOLO ABROGATO DALLA LEGGE 8 LUGLIO 2003, N.172
 
@@ -766,7 +760,7 @@ AGGIORNAMENTO (13)
 
 ## CAPO VII - REGIME TRIBUTARIO
 
-#### Art. 41
+### Art. 41
 
 ARTICOLO ABROGATO DALLA LEGGE 8 LUGLIO 2003, N.172
 
@@ -780,7 +774,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 42
+### Art. 42
 
 ARTICOLO ABROGATO DALLA LEGGE 8 LUGLIO 2003, N.172
 
@@ -794,7 +788,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 43
+### Art. 43
 
 L'articolo 52 della legge 9 febbraio 1963, n. 82, e' sostituito dal seguente:
 
@@ -818,7 +812,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 44
+### Art. 44
 
 Per le prestazioni e i servizi da richiedere agli organi competenti gli interessati sono tenuti al pagamento dei diritti e dei compensi previsti nella tabella annessa alla presente legge.
 
@@ -840,7 +834,7 @@ AGGIORNAMENTO (13)
 
 ## CAPO VIII - DISPOSIZIONI COMPLEMENTARI
 
-#### Art. 45
+### Art. 45
 
 ARTICOLO ABROGATO DALLA LEGGE 26 APRILE 1986, N.193
 
@@ -854,7 +848,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 46
+### Art. 46
 
 Alle imbarcazioni da diporto non si applicano le disposizioni di cui agli articoli 274, 275, 276 e 277 del codice della navigazione.
 
@@ -870,7 +864,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 47
+### Art. 47
 
 La responsabilita' civile verso terzi derivante dalla circolazione delle unita' da diporto, come definite dall'articolo 1, comma 3, della presente legge, e' regolata dall'articolo 2054 del codice civile.
 
@@ -886,7 +880,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 48
+### Art. 48
 
 Le disposizioni della legge 24 dicembre 1969, n. 990, e successive modificazioni, si applicano alle unita' da diporto, come definite all'articolo 1, comma 3, della presente legge, con esclusione delle unita' a remi e a vela non dotate di motore ausiliario.
 
@@ -904,7 +898,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 49
+### Art. 49
 
 1\. Su tutte le unita' da diporto con scafo di lunghezza superiore a 24 metri e' fatto obbligo di installare un impianto ricetrasmittente in radiotelefonia ad onde ettometriche secondo le norme stabilite dall'autorita' competente.
 
@@ -950,7 +944,7 @@ AGGIORNAMENTO (13)
 
 ## CAPO IX - DISPOSIZIONI TRANSITORIE E FINALI
 
-#### Art. 50
+### Art. 50
 
 ARTICOLO ABROGATO DAL D.P.R. 9 OTTOBRE 1997, N. 431
 
@@ -964,7 +958,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 51
+### Art. 51
 
 ARTICOLO ABROGATO DAL D.P.R. 9 OTTOBRE 1997, N. 431
 
@@ -978,7 +972,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 52
+### Art. 52
 
 ARTICOLO ABROGATO DALLA L. 5 MAGGIO 1989, N.171
 
@@ -992,7 +986,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 53
+### Art. 53
 
 Nei sei mesi successivi all'entrata in vigore della presente legge l'importazione dall'estero di imbarcazioni e navi da diporto battenti bandiera straniera da almeno sei mesi prima dell'entrata in vigore della legge medesima e' consentita, in deroga alle norme vigenti, franco valuta e previo pagamento di una tassa fissa pari all'1 per cento del valore corrente, sostitutiva di ogni altra tassa od imposta.
 
@@ -1006,7 +1000,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 54
+### Art. 54
 
 1\. Con decreto del Presidente della Repubblica, ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, sono emanate, entro il 30 settembre 2003, le norme di attuazione della presente legge.
 
@@ -1020,7 +1014,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 54-bis
+### Art. 54-bis
 
 1\. I procedimenti amministrativi relativi alle unita' da diporto devono essere portati a termine entro venti giorni dalla data di presentazione della documentazione prescritta.
 
@@ -1034,7 +1028,7 @@ AGGIORNAMENTO (13)
 
 \- Il regolamento di cui all'art. 66, comma 1, lettera e) del D.Lgs. 18 luglio 2005, n. 171 e' stato emanato con Decreto 2 agosto 2016, n. 182, pubblicato in G.U. 20/09/2016, n. 220.
 
-#### Art. 55
+### Art. 55
 
 Con l'entrata in vigore della presente legge sono abrogate le disposizioni contrarie ed incompatibili con la medesima.
 
@@ -1064,7 +1058,7 @@ AGGIORNAMENTO (13)
 
 ## CAPO IX - DISPOSIZIONI TRANSITORIE E FINALI
 
-#### Tabella
+### Tabella
 
 TABELLA DEI TRIBUTI PER LE PRESTAZIONI ED I SERVIZI
 

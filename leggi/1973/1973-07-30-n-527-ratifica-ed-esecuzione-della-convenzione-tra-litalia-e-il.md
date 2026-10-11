@@ -25,11 +25,11 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la convenzione tra l'Italia e il Belgio per evitare le doppie imposizioni e per regolare talune altre questioni in materia di imposte sul reddito, con protocollo finale, conclusa a Bruxelles il 19 ottobre 1970.
 
-### Art. 2
+## Art. 2
 
 Piena ed intera esecuzione e' data alla convenzione e al protocollo di cui all'articolo precedente a decorrere dalla loro entrata in vigore in conformita' dell'articolo 29 della convenzione stessa.
 
@@ -61,13 +61,13 @@ Il Presidente della Repubblica italiana: Sua Eccellenza Aldo Maria MAZIO, Ambasc
 
 Sua Maesta' il Re dei Belgi: Sua Eccellenza Pierre HARMEL, Ministro degli Affari Esteri del Belgio, i quali, dopo essersi comunicati i loro pieni poteri ed averli riconosciuti in buona e dovuta forma, hanno convenuto le disposizioni seguenti:
 
-### Articolo 1
+## Articolo 1
 
 I soggetti
 
 La presente Convenzione si applica alle persone che sono residenti di uno o di entrambi gli Stati contraenti.
 
-### Articolo 2
+## Articolo 2
 
 L'oggetto
 
@@ -107,7 +107,7 @@ h) le imposte locali sui redditi e le plusvalenze, (qui di seguito indicate "l'i
 
 ## II. - DEFINIZIONI
 
-### Articolo 3
+## Articolo 3
 
 Definizioni generali
 
@@ -131,7 +131,7 @@ b) per quanto concerne l'Italia, il Ministero delle Finanze.
 
 2\. Per l'applicazione della Convenzione da parte di uno Stato contraente, le espressioni non definite diversamente hanno il significato che ad esse viene attribuito dalla legislazione di detto Stato relativa alle imposte oggetto della Convenzione, a meno che il contesto non comporti una diversa interpretazione.
 
-### Articolo 4
+## Articolo 4
 
 Domicilio fiscale
 
@@ -151,7 +151,7 @@ Quando essa dispone di un'abitazione permanente in ciascuno degli Stati contraen
 
 3\. Quando, in base alle disposizioni del paragrafo 1, una persona diversa da una persona fisica e' considerata residente di entrambi gli Stati contraenti, si ritiene che essa e' residente dello Stato contraente in cui si trova la sede della sua direzione effettiva.
 
-### Articolo 5
+## Articolo 5
 
 Stabile organizzazione
 
@@ -195,7 +195,7 @@ Stabile organizzazione
 
 ## III. - TASSAZIONE DEI REDDITI
 
-### Articolo 6
+## Articolo 6
 
 Redditi immobiliari
 
@@ -209,7 +209,7 @@ L'espressione comprende in ogni caso gli accessori, le scorte morte o vive delle
 
 4\. Le disposizioni dei paragrafi 1 e 3 si applicano anche ai redditi derivanti dai beni immobili di una impresa nonche' ai redditi dei beni immobili utilizzati per l'esercizio di una libera professione.
 
-### Articolo 7
+## Articolo 7
 
 Utili delle imprese
 
@@ -227,7 +227,7 @@ Utili delle imprese
 
 7\. Quando gli utili comprendono elementi di reddito regolati separatamente in altri articoli della presente Convenzione, le disposizioni di tali articoli non vengono modificate dalle disposizioni del presente articolo.
 
-### Articolo 8
+## Articolo 8
 
 Imprese di navigazione marittima o aerea
 
@@ -235,7 +235,7 @@ Imprese di navigazione marittima o aerea
 
 2\. Se la sede della direzione effettiva di un'impresa di navigazione marittima e' situata a bordo di una nave, detta sede si considera situata nello Stato contraente in cui si trova il porto di approdo della nave medesima oppure, in mancanza del porto di approdo, nello Stato contraente di cui e' residente il gestore della nave.
 
-### Articolo 9
+## Articolo 9
 
 Imprese associate
 
@@ -247,7 +247,7 @@ un'impresa dell'altro Stato contraente, o
 
 b) le medesime persone partecipano direttamente o indirettamente alla direzione, al controllo o al capitale di un'impresa di uno Stato contraente e di una impresa dell'altro Stato contraente, e, nell'uno e nell'altro caso, le due imprese, nelle loro relazioni commerciali o finanziarie, sono vincolate da condizioni accettate o imposte, diverse da quelle che sarebbero state convenute tra imprese indipendenti, gli utili che, in mancanza di tali condizioni, sarebbero stati realizzati da una delle imprese, ma che, a causa di dette condizioni, non hanno potuto "in fatto" essere realizzati, possono essere inclusi negli utili di questa impresa e tassati in conseguenza.
 
-### Articolo 10
+## Articolo 10
 
 Dividendi
 
@@ -273,7 +273,7 @@ Detto termine designa in particolare i redditi:
 
 La disposizione precedente non impedisce a detto altro Stato di tassare i suddetti dividendi quando vengano riscossi o percepiti sul suo territorio o quando il beneficiario di tali dividendi, residente del primo Stato, abbia in detto altro Stato una stabile organizzazione che interviene a qualsiasi titolo alle operazioni generatrici degli stessi redditi.
 
-### Articolo 11
+## Articolo 11
 
 Interessi
 
@@ -289,7 +289,7 @@ Interessi
 
 6\. Se, in conseguenza di particolari relazioni esistenti tra debitore e creditore o depositante o tra ciascuno di essi e terze persone, l'ammontare degli interessi, tenuto conto del credito o del deposito per il quale essi sono versati, eccede l'ammontare che sarebbe stato convenuto tra debitore e creditore o depositante in assenza di simili relazioni, la limitazione dell'aliquota prevista al paragrafo 2 non si applica che a quest'ultimo ammontare. In tal caso, la parte eccedente degli interessi e' tassabile in conformita' alla legislazione di ciascuno Stato contraente e tenuto conto delle altre disposizioni della presente Convenzione applicabili ai redditi cui detta parte eccedente puo' essere assimilata.
 
-### Articolo 12
+## Articolo 12
 
 Canoni (Redevances)
 
@@ -305,7 +305,7 @@ Canoni (Redevances)
 
 In tal caso, la parte eccedente dei canoni e' soggetta a tassazione in conformita' alla legislazione di ciascuno Stato contraente e tenuto conto delle altre disposizioni della presente Convenzione applicabili ai redditi cui detta parte eccedente puo' essere assimilata.
 
-### Articolo 13
+## Articolo 13
 
 Utili di capitale (Gains en capital)
 
@@ -315,7 +315,7 @@ Utili di capitale (Gains en capital)
 
 3\. Salvo il caso previsto al paragrafo 2, primo alinea, gli utili provenienti dall'alienazione di tutti i beni diversi da quelli menzionati ai paragrafi 1 e 2, ivi compresa una partecipazione in una societa', sono tassabili solo nello Stato contraente di cui il cedente e' un residente.
 
-### Articolo 14
+## Articolo 14
 
 Professioni libere
 
@@ -323,7 +323,7 @@ Professioni libere
 
 2\. L'espressione "professioni libere" comprende in particolare le attivita' indipendenti di carattere scientifico, letterario, artistico, educativo o pedagogico, nonche' le attivita' indipendenti dei medici, avvocati, ingegneri, architetti, dentisti e contabili.
 
-### Articolo 15
+## Articolo 15
 
 Lavoro subordinato
 
@@ -339,7 +339,7 @@ c) l'onere delle remunerazioni non e' sostenuto come tale da una stabile organiz
 
 3\. Nonostante le disposizioni dei paragrafi 1 e 2 e con la riserva di cui al paragrafo 1, le remunerazioni relative a lavoro subordinato svolto a bordo di una nave o di un aeromobile in traffico internazionale sono tassabili nello Stato contraente in cui e' situata la sede della direzione effettiva dell'impresa.
 
-### Articolo 16
+## Articolo 16
 
 Amministratori e sindaci (commissaires) di societa'
 
@@ -347,19 +347,19 @@ Amministratori e sindaci (commissaires) di societa'
 
 2\. Le remunerazioni normali percepite ad altro titolo da una persona prevista al paragrafo 1 sono tassabili, secondo la loro natura, in base all'articolo 14 o all'articolo 15.
 
-### Articolo 17
+## Articolo 17
 
 Artisti e sportivi
 
 Nonostante le disposizioni degli articoli 14 e 15, i redditi che i professionisti dello spettacolo, quali gli artisti di teatro, del cinema, della radio o della televisione ed i musicisti, nonche' gli sportivi, ritraggono dalle loro prestazioni personali in tale qualita' sono tassabili nello Stato contraente in cui dette attivita' sono svolte.
 
-### Articolo 18
+## Articolo 18
 
 Pensioni
 
 Salve le disposizioni dell'articolo 19, le pensioni e le altre remunerazioni analoghe, pagate ad un residente di uno Stato contraente in relazione ad un cessato impiego, sono tassabili solo in questo Stato.
 
-### Articolo 19
+## Articolo 19
 
 Remunerazioni e pensioni pubbliche
 
@@ -369,19 +369,19 @@ Questa disposizione non si applica quando il beneficiario di tali redditi possie
 
 2\. Le disposizioni del paragrafo 1 non si applicano alle remunerazioni o pensioni pagate in corrispettivo di servizi resi nell'ambito di una attivita' commerciale o industriale esercitata da uno Stato contraente o da una delle sue suddivisioni politiche o enti locali.
 
-### Articolo 20
+## Articolo 20
 
 Professori
 
 Qualsiasi remunerazione dei professori e degli altri membri del personale insegnante, residenti di uno Stato contraente, i quali soggiornano temporaneamente nell'altro Stato contraente per insegnarvi o effettuare ricerche scientifiche, per un periodo non eccedente i due anni, in una universita' o in un altro istituto di insegnamento o di ricerca scientifica senza fini di lucro, e' tassabile solo nel primo Stato.
 
-### Articolo 21
+## Articolo 21
 
 Studenti, tirocinanti o apprendisti
 
 Le somme che uno studente, un tirocinante o un apprendista il quale e', o era prima, residente di uno Stato contraente e che soggiorna nell'altro Stato contraente al solo scopo di compiervi i suoi studi o di completarvi la propria formazione professionale, riceve per sopperire alle spese di mantenimento, d'istruzione o di formazione, non sono tassabili in questo altro Stato, a condizione che tali somme provengano da fonti situate fuori di quest'altro Stato.
 
-### Articolo 22
+## Articolo 22
 
 Redditi non espressamente menzionati
 
@@ -389,7 +389,7 @@ Un residente di uno Stato contraente non e' tassabile nell'altro Stato contraent
 
 ## IV. - DISPOSIZIONI PER EVITARE LA DOPPIA IMPOSIZIONE
 
-### Articolo 23
+## Articolo 23
 
 1\. Quando un residente di uno Stato contraente realizza redditi non previsti al seguente n. 3 che sono tassabili nell'altro Stato contraente conformemente alle disposizioni della presente Convenzione, il primo Stato esenta dall'imposta detti redditi, ma puo', per calcolare l'ammontare delle proprie imposte sul residuo reddito di detto residente, applicare la stessa aliquota come se i redditi di cui trattasi non fossero stati esentati.
 
@@ -403,7 +403,7 @@ Un residente di uno Stato contraente non e' tassabile nell'altro Stato contraent
 
 ## V. - DISPOSIZIONI SPECIALI
 
-### Articolo 24
+## Articolo 24
 
 Non discriminazione
 
@@ -425,7 +425,7 @@ Non discriminazione
 
 7\. Il termine "tassazione" designa, ai fini del presente articolo, le imposte di qualsiasi natura o denominazione.
 
-### Articolo 25
+## Articolo 25
 
 Procedura amichevole
 
@@ -439,7 +439,7 @@ Perche' sia ricevibile, detta domanda deve essere presentata nel termine di due 
 
 4\. Le autorita' competenti degli Stati contraenti concorderanno i provvedimenti amministrativi necessari ai fini dell'esecuzione delle disposizioni della Convenzione ed in particolare per quanto riguarda la documentazione che dovra' essere fornita dai residenti di ciascuno Stato per beneficiare nell'altro Stato delle esenzioni o riduzioni di imposta previste da questa Convenzione.
 
-### Articolo 26
+## Articolo 26
 
 Scambio di informazioni
 
@@ -453,13 +453,13 @@ Scambio di informazioni
 
 3° di trasmettere informazioni che potrebbero rivelare un segreto commerciale, industriale, professionale o processo commerciale oppure informazioni la cui comunicazione sarebbe contraria all'ordine pubblico.
 
-### Articolo 27
+## Articolo 27
 
 Assistenza per la riscossione
 
 Ciascuno Stato contraente riscuote, come se si trattasse delle proprie imposte, qualsiasi imposta indicata all'articolo 2 della presente Convenzione, che e' dovuta nell'altro Stato contraente e la cui riscossione e' necessaria perche' le esenzioni o riduzioni di imposta previste da questa Convenzione non siano ottenute da persone che non ne abbiano diritto.
 
-### Articolo 28
+## Articolo 28
 
 Disposizioni diverse
 
@@ -471,7 +471,7 @@ Disposizioni diverse
 
 4\. I Ministri delle finanze degli Stati contraenti o i loro rappresentanti all'uopo delegati, comunicheranno direttamente fra loro ai fini previsti dalla Convenzione.
 
-### Articolo 29
+## Articolo 29
 
 Entrata in vigore
 
@@ -495,7 +495,7 @@ b) alle altre imposte prelevate sui redditi di periodi d'imposta che si chiudono
 
 4\. La Convenzione tra il Belgio e l'Italia per evitare le doppie imposizioni e regolare talune altre questioni in materia fiscale, firmata a Bruxelles l'11 luglio 1931, non avra' piu' effetto e cessera' di essere applicata a qualsiasi imposta belga o italiana relativa al periodo a decorrere dal quale la presente Convenzione produrra' i suoi effetti in ordine a detta imposta, conformemente ai paragrafi 2 e 3 del presente articolo.
 
-### Articolo 30
+## Articolo 30
 
 Denuncia
 
@@ -517,7 +517,7 @@ Per il Regno del Belgio
 
 P. HARMEL
 
-### Protocollo Finale
+## Protocollo Finale
 
 PROTOCOLLO FINALE
 
@@ -551,7 +551,7 @@ Visto, il Ministro per gli affari esteri
 
 MORO
 
-### Convention
+## Convention
 
 Convention entre l'Italie et la Belgique en vue d'eviter les doubles impositions et de regler certains autres questions en matiere d'impots sur les revenu.
 

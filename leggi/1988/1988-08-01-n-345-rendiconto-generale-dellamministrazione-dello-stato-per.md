@@ -29,7 +29,7 @@ la seguente legge:
 
 ## AMMINISTRAZIONI DELLO STATO
 
-### Art. 1 - Entrate
+## Art. 1 - Entrate
 
 1\. Le entrate tributarie, extratributarie, per alienazione ed ammortamento di beni patrimoniali e riscossione di crediti, e per accensione di prestiti, accertate nell'esercizio finanziario 1987 per competenza propria dell'esercizio, risultano stabilite in lire 371.765.459.032.128.
 
@@ -67,7 +67,7 @@ da versare da riscuotere Totale
 
 > Il testo della nota qui pubblica e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura della disposizione di legge alla quale e' operato il rinvio e della quale restano invariati il valore e l'efficacia.
 
-### Art. 2 - Spese
+## Art. 2 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di prestiti, impegnate nell'esercizio finanziario 1987 per la competenza propria dell'esercizio, risultano stabilite in lire 462.176.873.933.662.
 
@@ -101,7 +101,7 @@ da pagare Totale
 =====================
 ```
 
-### Art. 3 - Disavanzo della gestione di competenza
+## Art. 3 - Disavanzo della gestione di competenza
 
 1\. Il disavanzo della gestione di competenza dell'esercizio finanziario 1987 di lire 90.411.414.901.534 risulta stabilito come segue:
 
@@ -131,7 +131,7 @@ Totale Spese .. L. 462.176.873.933.662
 
 ---------------------- Disavanzo della gestione di competenza .. L. 90.411.414.901.534 ======================
 
-### Art. 4 - Situazione finanziaria
+## Art. 4 - Situazione finanziaria
 
 1\. Il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 1987 di lire 404.270.901.368.698 risulta stabilito come segue:
 
@@ -185,7 +185,7 @@ sercizio 1986 L. 313.859.486.467.164
 
 ## DISPOSIZIONI SPECIALI
 
-### Art. 5 - Prelevamenti dal Fondo di riserva per le spese impreviste
+## Art. 5 - Prelevamenti dal Fondo di riserva per le spese impreviste
 
 1\. E' approvato l'allegato di cui all'articolo 9, ultimo comma, dalla legge 5 agosto 1978, n. 468, concernente i prelevamenti dal Fondo di riserva per le spese impreviste per l'anno 1987.
 
@@ -201,7 +201,7 @@ sercizio 1986 L. 313.859.486.467.164
 
 > Alla legge di approvazione del rendiconto generale dello Stato e' allegato un elenco dei decreti di cui al secondo comma, con le indicazioni dei motivi per i quali si e' proceduto ai prelevamenti dal fondo di cui al presente articolo".
 
-### Art. 6 - Eccedenze
+## Art. 6 - Eccedenze
 
 1\. Sono approvate le eccedenze di impegni e di pagamenti risultate in sede di consuntivo rispettivamente sul conto della competenza, sul conto dei residui e sul conto della cassa, relative ai capitoli degli stati di previsione della spesa dei Ministeri sotto indicati per l'esercizio 1987, come risulta dal dettaglio che segue:
 
@@ -915,13 +915,13 @@ Avanzo di gestione ..
 
 -- -- 1.288.941.119
 
-### Art. 7 - Conservazione fondi
+## Art. 7 - Conservazione fondi
 
 Le somme iscritte ai capitoli nn. 2054, 2055 e 2554 dello stato di previsione del Ministero dell'ambiente per l'anno finanziario 1987, non impegnate alla chiusura dell'esercizio 1987 possono esserlo nell'esercizio successivo.
 
 ## AZIENDE SPECIALI ED AUTONOME - GESTIONE DELL'EX AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### Art. 8 - Entrate
+## Art. 8 - Entrate
 
 1\. Le entrate correnti ed in conto capitale del bilancio della gestione dell'ex Azienda di Stato per le foreste demaniali, accertate nell'esercizio finanziario 1987 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo della gestione stessa, allegato al conto consuntivo del Ministero dell'agricoltura e delle foreste, in lire 35.235.825.752.
 
@@ -955,7 +955,7 @@ da versare da riscuotere Totale
 ==========================================
 ```
 
-### Art. 9 - Spese
+## Art. 9 - Spese
 
 1\. Le spese correnti ed in conto capitale del bilancio della gestione predetta, impegnate nell'esercizio finanziario 1987 per la competenza propria dell'esercizio, risultano stabilite in lire 34.445.998.100.
 
@@ -981,7 +981,7 @@ dell'esercizio
  ===============
 ```
 
-### Art. 10 - Situazione finanziaria
+## Art. 10 - Situazione finanziaria
 
 1\. La situazione finanziaria della gestione dell'ex Azienda di Stato per le foreste demaniali alla fine dell'esercizio 1987 risulta come appresso:
 
@@ -1031,13 +1031,13 @@ Saldo attivo effettivo dell'esercizio 1986 .. .. .. " 21.635.621.600
 
 ## ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-### Art. 11 - Entrate
+## Art. 11 - Entrate
 
 1\. Le entrate correnti del bilancio dell'Istituto agronomico per l'Oltremare, accertate nell'esercizio finanziario 1987 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Istituto stesso, allegato al conto consuntivo del Ministero degli affari esteri, in lire 7.185.334.540 interamente versate.
 
 2\. Al 31 dicembre 1987 non risultano residui attivi.
 
-### Art. 12 - Spese
+## Art. 12 - Spese
 
 1\. Le spese correnti del bilancio dell'Istituto predetto, impegnate nell'esercizio finanziario 1987 per la competenza propria dell'esercizio, risultano stabilite in lire 7.185.334.540.
 
@@ -1065,7 +1065,7 @@ dell'esercizio
 
 ## AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-### Art. 13 - Entrate
+## Art. 13 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione autonoma dei monopoli di Stato, comprese quelle delle gestioni speciali, accertate nell'esercizio finanziario 1987 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero delle finanze, in lire 2.446.145.445.692.
 
@@ -1099,7 +1099,7 @@ da versare da riscuotere Totale
 ==========================================
 ```
 
-### Art. 14 - Spese
+## Art. 14 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Amministrazione predetta, comprese quelle delle gestioni speciali, impegnate nell'esercizio 1987 per la competenza propria dell'esercizio, risultano stabilite in lire 2.446.145.445.692.
 
@@ -1125,7 +1125,7 @@ dell'esercizio
  ===============
 ```
 
-### Art. 15 - Riassunto generale
+## Art. 15 - Riassunto generale
 
 1\. Il riassunto generale dei risultati delle entrate e delle spese dell'Ammininstrazione autonoma dei monopoli di Stato, di competenza dell'esercizio 1987, risulta cosi' stabilito:
 
@@ -1137,7 +1137,7 @@ Spese (escluse le gestioni speciali) .. .. .. .. L. 2.445.879.791.535 Spese dell
  -------------------- L. 2.446.145.445.692 ====================
 ```
 
-### Art. 16 - Situazione finanziaria
+## Art. 16 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dell'esercizio 1987, risulta come appresso:
 
@@ -1181,7 +1181,7 @@ al 31 dicembre 1987 " 661.858.147.779
 
 ## ARCHIVI NOTARILI
 
-### Art. 17 - Avanzo
+## Art. 17 - Avanzo
 
 1\. L'avanzo della gestione del bilancio degli Archivi notarili, per l'esercizio finanziario 1987 risulta stabilito come segue:
 
@@ -1197,7 +1197,7 @@ Avanzo ...L. 23.334.730.041
 
 ## FONDO EDIFICI DI CULTO
 
-### Art. 18 - Entrate
+## Art. 18 - Entrate
 
 1\. Le entrate correnti ed in conto capitale del bilancio del Fondo Edifici di Culto, accertate nell'esercizio finanziario 1987 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'interno, in lire 5.777.430.799.
 
@@ -1231,7 +1231,7 @@ da versare da riscuotere Totale
 ==========================================
 ```
 
-### Art. 19 - Spese
+## Art. 19 - Spese
 
 1\. Le spese correnti ed in conto capitale del bilancio dell'Amministrazione predetta, impegnate nell'esercizio 1987 per la competenza propria dell'esercizio, risultano stabilite in lire 5.742.595.147.
 
@@ -1257,7 +1257,7 @@ dell'esercizio
  ===============
 ```
 
-### Art. 20 - Situazione finanziaria
+## Art. 20 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Amministrazione del Fondo Edifici di Culto, alla fine dell'esercizio 1987, risulta come appresso:
 
@@ -1315,7 +1315,7 @@ dell'esercizio 1986 .. .. .. .. .. .. .. .. .. .. L. 66.575.282.831
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE
 
-### Art. 21 - Entrate
+## Art. 21 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Azienda nazionale autonoma delle strade, accertate nell'esercizio finanziario 1987 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero dei lavori pubblici, in lire 6.076.894.786.577.
 
@@ -1349,7 +1349,7 @@ da versare da riscuotere Totale
 ==========================================
 ```
 
-### Art. 22 - Spese
+## Art. 22 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Azienda predetta, impegnate nell'esercizio finanziario 1987 per la competenza propria dell'esercizio, risultano stabilite in lire 6.076.894.786.577.
 
@@ -1377,7 +1377,7 @@ dell'esercizio
 
 ## AMMINISTRAZIONE DELLE POSTE E DELLE TELECOMUNICAZIONI
 
-### Art. 23 - Entrate
+## Art. 23 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione delle poste e delle telecomunicazioni, acertate nell'esercizio finanziario 1987 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero delle poste e delle telecomunicazioni, in lire 11.670.325.892.375.
 
@@ -1411,7 +1411,7 @@ da versare da riscuotere Totale
 ==========================================
 ```
 
-### Art. 24 - Spese
+## Art. 24 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Amministrazione predetta, impegnate nell'esercizio finanziario 1987 per la competenza propria dell'esercizio, risultano stabilite in lire 11.670.325.892.375.
 
@@ -1439,7 +1439,7 @@ dell'esercizio
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Art. 25 - Entrate
+## Art. 25 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Azienda di Stato per i servizi telefonici, accertate nell'esercizio finanziario 1987 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero delle poste e delle telecomunicazioni, in lire 3.269.735.022.903.
 
@@ -1473,7 +1473,7 @@ da versare da riscuotere Totale
 ==========================================
 ```
 
-### Art. 26 - Spese
+## Art. 26 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Azienda predetta, impegnate nell'esercizio finanziario 1987 per la competenza propria dell'esercizio, risultano stabilite in lire 3.269.735.022.903.
 
@@ -1499,7 +1499,7 @@ dell'esercizio
  =================
 ```
 
-### Art. 27
+## Art. 27
 
 1\. Il conto consuntivo dello Stato per l'esercizio 1987 e' approvato.
 
@@ -1513,7 +1513,7 @@ DE MITA, Presidente del Consiglio dei Ministri AMATO, Ministro del tesoro Visto,
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Allegato N.1
+## Allegato N.1
 
 ALLEGATO N. 1
 
@@ -1711,7 +1711,7 @@ Le rimanenti integrazioni, per complessive lire 804.964.000, si sono rese necess
 
 Tenuto conto degli utilizzi analiticamente sopra citati, residuano lire 438.000, che costituiscono economie di spesa.
 
-### Allegato N.2
+## Allegato N.2
 
 ALLEGATO N. 2
 

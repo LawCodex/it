@@ -29,7 +29,7 @@ la seguente legge:
 
 ## TITOLO I - PRINCIPI GENERALI
 
-###### Art. 1
+#### Art. 1
 
 Ambito di applicazione
 
@@ -115,7 +115,7 @@ Ambito di applicazione
 
 ## TITOLO I - Principi generali
 
-###### Art. 2
+#### Art. 2
 
 Diritti e doveri dello straniero
 
@@ -135,7 +135,7 @@ Diritti e doveri dello straniero
 
 8\. Lo straniero presente nel territorio italiano e' comunque tenuto all'osservanza degli obblighi previsti dalla normativa vigente.
 
-###### Art. 3
+#### Art. 3
 
 Politiche migratorie
 
@@ -155,13 +155,11 @@ Politiche migratorie
 
 8\. Lo schema del documento programmatico di cui al comma 7 e' trasmesso al Parlamento per l'acquisizione del parere delle Commissioni competenti per materia, che si esprimono entro trenta giorni. Decorso tale termine, il decreto e' emanato anche in mancanza del parere.
 
-## TITOLO II - Disposizioni sull'ingresso, il soggiorno e
+## TITOLO II - Disposizioni sull'ingresso, il soggiorno e l'allontanamento dal territorio dello Stato
 
-### l'allontanamento dal territorio dello Stato - CAPO I
+### CAPO I - Disposizioni sull'ingresso e il soggiorno
 
-#### Disposizioni sull'ingresso e il soggiorno
-
-###### Art. 4
+#### Art. 4
 
 Ingresso nel territorio dello Stato
 
@@ -181,7 +179,7 @@ Contestualmente al rilascio del visto d'ingresso l'autorita' diplomatica o conso
 
 7\. L'ingresso e' comunque subordinato al rispetto degli adempimenti e delle formalita' prescritti con il regolamento di attuazione.
 
-###### Art. 5
+#### Art. 5
 
 Permesso di soggiorno
 
@@ -215,7 +213,7 @@ e) superiore alle necessita' specificamente documentate, negli altri casi consen
 
 9\. Il permesso di soggiorno e' rilasciato, rinnovato o convertito entro venti giorni dalla data in cui e' stata presentata la domanda, se sussistono i requisiti e le condizioni previsti dalla presente legge e dal regolamento di attuazione per il permesso di soggiorno richiesto ovvero, in mancanza di questi, per altro tipo di permesso da rilasciare in applicazione della presente legge.
 
-###### Art. 6
+#### Art. 6
 
 Facolta' ed obblighi inerenti al soggiorno
 
@@ -235,7 +233,7 @@ Facolta' ed obblighi inerenti al soggiorno
 
 8\. Contro i provvedimenti di cui all'articolo 5 e al presente articolo e' ammesso ricorso al tribunale amministrativo regionale competente.
 
-###### Art. 7
+#### Art. 7
 
 Carta di soggiorno
 
@@ -347,13 +345,11 @@ d) partecipare alla vita pubblica locale, esercitando anche l'elettorato quando 
 
 > 3\. La riabilitazione comporta, altresi', la cessazione dei divieti previsti dall'art. 10 della legge 31 maggio 1965, n. 575".
 
-## TITOLO II - Disposizioni sull'ingresso, il soggiorno e
+## TITOLO II - Disposizioni sull'ingresso, il soggiorno e l'allontanamento dal territorio dello Stato
 
-### l'allontanamento dal territorio dello Stato - CAPO II
+### CAPO II - Controllo delle frontiere, respingimento ed espulsione
 
-#### Controllo delle frontiere, respingimento ed espulsione
-
-###### Art. 8
+#### Art. 8
 
 Respingimento
 
@@ -373,7 +369,7 @@ b) che, nelle circostanze di cui al comma 1, sono stati temporaneamente ammessi 
 
 6\. I respingimenti di cui al presente articolo sono registrati dall'autorita' di pubblica sicurezza.
 
-###### Art. 9
+#### Art. 9
 
 Potenziamento e coordinamento
 
@@ -389,7 +385,7 @@ dei controlli di frontiera
 
 5\. Presso i valichi di frontiera sono previsti servizi di accoglienza al fine di fornire informazioni e assistenza agli stranieri che intendano presentare domanda di asilo o fare ingresso in Italia per un soggiorno di durata superiore a tre mesi. Tali servizi sono messi a disposizione, ove possibile, all'interno della zona di transito.
 
-###### Art. 10
+#### Art. 10
 
 Disposizioni contro le immigrazioni clandestine
 
@@ -437,7 +433,7 @@ Disposizioni contro le immigrazioni clandestine
 
 > 4\. I beni mobili ed immobili acquisiti dallo Stato, a seguito di provvedimento definitivo di confisca, vengono assegnati, a richiesta, dell'Amministrazione di appartenenza degli organi di polizia che ne abbiano avuto l'uso ai sensi dei commi 1, 2 e 3. Possono altresi' essere assegnati, a richiesta, anche ad associazioni, comunita' od enti che si occupino del recupero dei tossicodipendenti".
 
-###### Art. 11
+#### Art. 11
 
 Espulsione amministrativa
 
@@ -543,7 +539,7 @@ b) e' espulso ai sensi del comma 2, lettera c), e il prefetto rilevi, sulla base
 
 > 9\. I difensori inseriti nella tabella hanno l'obbligo della reperibilita'".
 
-###### Art. 12
+#### Art. 12
 
 Esecuzione dell'espulsione
 
@@ -569,7 +565,7 @@ Esecuzione dell'espulsione
 
 > \- Per il testo degli articoli 737 e seguenti del codice di procedura civile v. nelle note all'art. 11.
 
-###### Art. 13
+#### Art. 13
 
 Espulsione a titolo di misura di sicurezza
 
@@ -579,7 +575,7 @@ Espulsione a titolo di misura di sicurezza
 
 > \- Per il testo degli articoli 380 e 381 del codice di procedura penale v. nelle note all'art. 7.
 
-###### Art. 14
+#### Art. 14
 
 Espulsione a titolo di sanzione sostitutiva
 
@@ -609,19 +605,17 @@ della detenzione
 
 > Se il reato e' stato commesso da persona di eta' superiore agli anni diciotto ma inferiore agli anni ventuno o da chi ha compiuto gli anni settanta, la sospensione puo' essere ordinata quando si infligga una pena restrittiva della liberta' personale non superiore a due anni e sei mesi ovvero una pena pecuniaria che, sola o congiunta alla pena detentiva e ragguagliata a norma dell'art. 135, sia equivalente ad una pena privativa della liberta' personale per un tempo non superiore, nel complesso, a due anni e sei mesi".
 
-###### Art. 15
+#### Art. 15
 
 Diritto di difesa
 
 1\. Lo straniero sottoposto a procedimento penale e' autorizzato a rientrare in Italia per il tempo strettamente necessario per l'esercizio del diritto di difesa, al solo fine di partecipare al giudizio o al compimento di atti per i quali e' necessaria la sua presenza. L'autorizzazione e' rilasciata dal questore anche per il tramite di una rappresentanza diplomatica o consolare su documentata richiesta dell'imputato o del difensore.
 
-## TITOLO II - Disposizioni sull'ingresso, il soggiorno e
+## TITOLO II - Disposizioni sull'ingresso, il soggiorno e l'allontanamento dal territorio dello Stato
 
-### l'allontanamento dal territorio dello Stato - CAPO III
+### CAPO III - Disposizioni di carattere umanitario
 
-#### Disposizioni di carattere umanitario
-
-###### Art. 16
+#### Art. 16
 
 Soggiorno per motivi di protezione sociale
 
@@ -671,7 +665,7 @@ Esso e' revocato in caso di interruzione del programma o di condotta incompatibi
 
 > \- Per il testo dell'art. 380 del codice di procedura penale v. nelle note all'art. 7.
 
-###### Art. 17
+#### Art. 17
 
 Divieti di espulsione e di respingimento
 
@@ -687,7 +681,7 @@ c) degli stranieri conviventi con parenti entro il quarto grado o con il coniuge
 
 d) delle donne in stato di gravidanza o nei sei mesi successivi alla nascita del figlio cui provvedono.
 
-###### Art. 18
+#### Art. 18
 
 Misure straordinarie di accoglienza
 
@@ -699,7 +693,7 @@ per eventi eccezionali
 
 ## TITOLO III - DISCIPLINA DEL LAVORO
 
-###### Art. 19
+#### Art. 19
 
 Determinazione dei flussi di ingresso
 
@@ -713,7 +707,7 @@ Determinazione dei flussi di ingresso
 
 5\. L'onere derivante dal presente articolo e' valutato in lire 350 milioni annui a decorrere dall'anno 1998.
 
-###### Art. 20
+#### Art. 20
 
 Lavoro subordinato a tempo determinato
 
@@ -735,7 +729,7 @@ e indeterminato
 
 8\. Il datore di lavoro che occupa alle proprie dipendenze lavoratori stranieri privi del permesso di soggiorno previsto dal presente articolo, ovvero il cui permesso sia scaduto, revocato o annullato, e' punito con l'arresto da tre mesi a un anno o con l'ammenda da lire due milioni a lire sei milioni.
 
-###### Art. 21
+#### Art. 21
 
 Prestazione di garanzia per l'accesso al lavoro
 
@@ -749,7 +743,7 @@ L'autorizzazione all'ingresso viene concessa, se sussistono gli altri requisiti 
 
 4\. Trascorso il termine di sessanta giorni dalla pubblicazione dei decreti di cui all'articolo 3, comma 4, nei limiti e secondo le modalita' stabiliti da detti decreti, i visti di ingresso per inserimento nel mercato del lavoro sono rilasciati su richiesta di lavoratori stranieri residenti all'estero e iscritti in apposite liste tenute dalle rappresentanze diplomatiche e consolari italiane, con graduatoria basata sull'anzianita' di iscrizione. Il regolamento di attuazione stabilisce i requisiti per ottenere il visto di cui al presente comma.
 
-###### Art. 22
+#### Art. 22
 
 Lavoro stagionale
 
@@ -767,7 +761,7 @@ Puo' inoltre convertire il permesso di soggiorno per lavoro stagionale in permes
 
 6\. Il datore di lavoro che occupa alle sue dipendenze, per lavori di carattere stagionale, uno o piu' stranieri privi del permesso di soggiorno per lavoro stagionale, ovvero il cui permesso sia scaduto, revocato o annullato, e' punito ai sensi dell'articolo 20, comma 8.
 
-###### Art. 23
+#### Art. 23
 
 Previdenza e assistenza per i lavoratori stagionali
 
@@ -795,7 +789,7 @@ d) assicurazione di maternita'.
 
 > "13. I datori di lavoro che, entro centoventi giorni dalla data di entrata in vigore della presente legge, denunciano per la prima volta rapporti di lavoro pregressi o in atto alla anzidetta data con cittadini extracomunitari, possono regolarizzare, nello stesso termine, la loro posizione debitoria nei confronti degli enti previdenziali ed assistenziali, attraverso il versamento dei contributi dovuti maggiorati del 5 per cento annuo. La regolarizzazione estingue i reati previsti da leggi speciali in materia di versamento di contributi e di premi e le obbligazioni per sanzioni amministraive e per ogni altro onere accessorio, connessi con le violazioni delle norme sul collocarnento nonche' con la denuncia e con il versamento dei contributi o dei premi medesimi, ivi compresi quelli di cui all'art. 51 del testo unico delle disposizioni per l'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali, approvato con decreto del Presidente della Repubblica 30 giugno 1965, n. 1124. I lavoratori extracomunitari che abbiano cessato l'attivita' lavorativa in Italia e lascino il territorio nazionale hanno facolta' di richiedere, nei casi in cui la materia non sia regolata da convenzioni internazionali, la liquidazione dei contributi che risultino versati in loro favore presso forme di previdenza obbligatoria maggiorati del 5 per cento annuo. Le questure forniscono all'INPS, tramite collegamenti telematici, le informazioni anagrafiche relative ai lavoratori extracomunitari ai quali e' concesso il permesso di soggiorno; l'INPS, sulla base delle informazioni ricevute, costituisce un ''Archivio anagrafico dei lavoratori extracomunitari'' da condividere con tutte le altre Amministrazioni pubbliche; lo scambio delle informazioni avverra' sulla base di apposita convenzione da stipularsi tra le Amministrazioni interessate, entro sessanta giorni dalla data di entrata in vigore della presente legge".
 
-###### Art. 24
+#### Art. 24
 
 Ingresso e soggiorno per lavoro autonomo
 
@@ -813,7 +807,7 @@ Ingresso e soggiorno per lavoro autonomo
 
 7\. Il Visto di ingresso per lavoro autonomo deve essere rilasciato o negato entro centoventi giorni dalla data di presentazione della domanda e della relativa documentazione e deve essere utilizzato entro centottanta giorni dalla data del rilascio.
 
-###### Art. 25
+#### Art. 25
 
 Ingresso per lavoro in casi particolari
 
@@ -867,7 +861,7 @@ r) persone che, secondo le norme di accordi internazionali in vigore per l'Itali
 
 ## TITOLO IV - Diritto all'unita' familiare e tutela dei minori
 
-###### Art. 26
+#### Art. 26
 
 Diritto all'unita' familiare
 
@@ -885,7 +879,7 @@ Diritto all'unita' familiare
 
 > "1. In tutte le decisioni relative ai fanciulli, di competenza sia delle istituzioni pubbliche o private di assistenza sociale, dei tribunali, delle autorita' amministrative o degli organi legislativi, l'interesse superiore del fanciullo deve essere una considerazione preminente".
 
-###### Art. 27
+#### Art. 27
 
 Ricongiungimento familiare
 
@@ -919,7 +913,7 @@ b) di un reddito annuo derivante da fonti lecite non inferiore all'importo annuo
 
 9\. Le rappresentanze diplomatiche e consolari italiane rilasciano altresi' il visto di ingresso al seguito nei casi previsti dal comma 5.
 
-###### Art. 28
+#### Art. 28
 
 Permesso di soggiorno per motivi familiari
 
@@ -947,7 +941,7 @@ d) al genitore straniero, anche naturale, di minore italiano residente in Italia
 
 > \- Per il testo degli articoli 737 e seguenti del codice di procedura civile v. nelle note all'art. 11.
 
-###### Art. 29
+#### Art. 29
 
 Disposizioni a favore dei minori
 
@@ -975,7 +969,7 @@ Disposizioni a favore dei minori
 
 > Il tribunale, sulla richiesta del giudice tutelare o d'ufficio nell'ipotesi di cui al secondo comma, provvede ai sensi dello stesso comma".
 
-###### Art. 30
+#### Art. 30
 
 Disposizioni concernenti minori affidati
 
@@ -991,7 +985,7 @@ al compimento della maggiore eta'
 
 > Ove non sia possibile un conveniente affidamento familiare, e' consentito il ricovero del minore in un istituto di assistenza pubblico o privato da realizzarsi di preferenza nell'ambito della regione di residenza del minore stesso".
 
-###### Art. 31
+#### Art. 31
 
 Comitato per i minori stranieri
 
@@ -1001,13 +995,11 @@ Comitato per i minori stranieri
 
 3\. Il Comitato si avvale, per l'espletamento delle attivita' di competenza, del personale e dei mezzi in dotazione al Dipartimento per gli affari sociali della Presidenza del Consiglio dei ministri ed ha sede presso il Dipartimento medesimo.
 
-## TITOLO V - Disposizioni in materia sanitaria, nonche' di
+## TITOLO V - Disposizioni in materia sanitaria, nonche' di istruzione, alloggio, partecipazione alla vita pubblica e integrazione sociale
 
-### istruzione, alloggio, partecipazione alla vita - pubblica e integrazione sociale
+### CAPO I - Disposizioni in materia sanitaria
 
-#### CAPO I - Disposizioni in materia sanitaria
-
-###### Art. 32
+#### Art. 32
 
 Assistenza per gli stranieri iscritti
 
@@ -1039,7 +1031,7 @@ b) dagli stranieri regolarmente soggiornanti collocati alla pari, ai sensi dell'
 
 > \- Il titolo della legge 18 maggio 1973, n. 304 (in Gazzetta Ufficiale 18 giugno 1973, n. 155) e' il seguente: "Ratifica ed esecuzione dell'accordo europeo sul collocamento alla pari, con allegati e protocollo, adottato a Strasburgo il 24 novembre 1969".
 
-###### Art. 33
+#### Art. 33
 
 Assistenza sanitaria per gli stranieri non iscritti
 
@@ -1083,7 +1075,7 @@ e) la profilassi, la diagnosi e la cura delle malattie infettive ed eventuale bo
 
 > \- Per quanto concerne la legge 27 maggio 1991, n. 176, v. nelle note all'art. 26.
 
-###### Art. 34
+#### Art. 34
 
 Ingresso e soggiorno per cure mediche
 
@@ -1105,15 +1097,11 @@ Ingresso e soggiorno per cure mediche
 
 > c) rimborsi alle unita' sanitarie locali ed alle aziende ospedaliere, tramite le regioni, delle spese per prestazioni sanitarie erogate a cittadini stranieri che si trasferiscono per cure in Italia previa autorizzazione del Ministro della sanita' d'intesa con il Ministro degli affari esteri".
 
-## TITOLO V - Disposizioni in materia sanitaria, nonche' di
+## TITOLO V - Disposizioni in materia sanitaria, nonche' di istruzione, alloggio, partecipazione alla vita pubblica e integrazione sociale
 
-### istruzione, alloggio, partecipazione alla vita - pubblica e integrazione sociale
+### CAPO II - Disposizioni in materia di istruzione e diritto allo studio e professione
 
-#### CAPO II - Disposizioni in materia di istruzione
-
-##### e diritto allo studio e professione
-
-###### Art. 35
+#### Art. 35
 
 Attivita' professionali
 
@@ -1125,7 +1113,7 @@ Attivita' professionali
 
 4\. In caso di lavoro subordinato e' garantita la parita' di trattamento retributivo e previdenziale con i cittadini italiani.
 
-###### Art. 36
+#### Art. 36
 
 Istruzione degli stranieri.
 
@@ -1165,7 +1153,7 @@ d) dei criteri per la stipula delle convenzioni di cui ai commi 4 e 5.
 
 > Per il testo dell'art. 17, comma 1, della legge 23 agosto 1988, n. 400, v. nelle note all'art. 1.
 
-###### Art. 37
+#### Art. 37
 
 Accesso ai corsi delle universita'
 
@@ -1205,15 +1193,11 @@ f) il riconoscimento dei titoli di studio conseguiti all'estero.
 
 > d) dottorato di ricerca (DR)".
 
-## TITOLO V - Disposizioni in materia sanitaria, nonche' di
+## TITOLO V - Disposizioni in materia sanitaria, nonche' di istruzione, alloggio, partecipazione alla vita pubblica e integrazione sociale
 
-### istruzione, alloggio, partecipazione alla vita - pubblica e integrazione sociale
+### CAPO III - Disposizioni in materia di alloggio e assistenza sociale
 
-#### CAPO III - Disposizioni in materia di alloggio
-
-##### e assistenza sociale
-
-###### Art. 38
+#### Art. 38
 
 Centri di accoglienza. Accesso all'abitazione
 
@@ -1229,21 +1213,17 @@ Centri di accoglienza. Accesso all'abitazione
 
 6\. Gli stranieri titolari di carta di soggiorno e gli stranieri regolarmente soggiornanti che siano iscritti nelle liste di collocamento o che esercitino una regolare attivita' di lavoro subordinato o di lavoro autonomo hanno diritto di accedere, in condizioni di parita' con i cittadini italiani, agli alloggi di edilizia residenziale pubblica, ai servizi di intermediazione delle agenzie sociali eventualmente predisposte da ogni Regione o dagli enti locali per agevolare l'accesso alle locazioni abitative e al credito agevolato in materia di edilizia, recupero, acquisto e locazione della prima casa di abitazione.
 
-###### Art. 39
+#### Art. 39
 
 Assistenza sociale
 
 1\. Gli stranieri titolari della carta di soggiorno o di permesso di soggiorno di durata non inferiore ad un anno, nonche' i minori iscritti nella loro carta di soggiorno o nel loro permesso di soggiorno, sono equiparati ai cittadini italiani ai fini della fruizione delle provvidenze e delle prestazioni, anche economiche, di assistenza sociale, incluse quelle previste per coloro che sono affetti da morbo di Hansen o da tubercolosi, per i sordomuti, per i ciechi civili, per gli invalidi civili e per gli indigenti.
 
-## TITOLO V - Disposizioni in materia sanitaria, nonche' di
+## TITOLO V - Disposizioni in materia sanitaria, nonche' di istruzione, alloggio, partecipazione alla vita pubblica e integrazione sociale
 
-### istruzione, alloggio, partecipazione alla vita - pubblica e integrazione sociale
+### CAPO IV - Disposizioni sull'integrazione sociale sulle discriminazioni e istituzione del fondo per le politiche migratorie
 
-#### CAPO IV - Disposizioni sull'integrazione sociale
-
-##### sulle discriminazioni e istituzione del fondo - per le politiche migratorie
-
-###### Art. 40
+#### Art. 40
 
 Misure di integrazione sociale
 
@@ -1269,7 +1249,7 @@ I1 Consiglio nazionale dell'economia e del lavoro, nell'ambito delle proprie att
 
 > \- Il D.P.R. 18 aprile 1994, n. 389, reca: "Regolamento recante semplificazione dei procedimenti di autorizzazione al funzionamento di scuole e di istituzioni culturali straniere in Italia".
 
-###### Art. 41
+#### Art. 41
 
 Discriminazione per motivi razziali, etnici,
 
@@ -1303,7 +1283,7 @@ e) il datore di lavoro o i suoi preposti i quali, ai sensi dell'articolo 15 dell
 
 > Le disposizioni di cui al comma precedente si applicano altresi' ai patti o atti diretti a fini di discriminazione politica, religiosa, razziale, di lingua o di sesso".
 
-###### Art. 42
+#### Art. 42
 
 Azione civile contro la discriminazione
 
@@ -1343,7 +1323,7 @@ Azione civile contro la discriminazione
 
 > "Le presunzioni non stabilite dalla legge sono lasciate alla prudenza del giudice, il quale non deve ammettere che presunzioni gravi, precise e concordanti".
 
-###### Art. 43
+#### Art. 43
 
 Fondo nazionale per le politiche migratorie
 
@@ -1371,7 +1351,7 @@ Il regolamento di attuazione disciplina le modalita' per la presentazione, l'esa
 
 > "2. Il fondo, per le cui entrate ed uscite e' tenuta una contabilita' separata nella gestione dell'assicurazione obbligatoria contro la disoccupazione, e' alimentato con un contributo, a carico del lavoratore extracomunitario, pari allo 0,50 per cento della retribuzione dicui all'art. 12 della legge 30 aprile 1969, n. 153. Per tale contributo, al cui versamento e' tenuto il datore di lavoro, si osservano le disposizioni vigenti per l'accertamento e la riscossione dei contributi dovuti al Fondo pensioni dei lavoratori dipendenti.
 
-###### Art. 44
+#### Art. 44
 
 Commissione per le politiche di integrazione
 
@@ -1389,11 +1369,9 @@ Possono essere invitati a partecipare alle sedute della commissione i rappresent
 
 6\. Per l'adempimento dei propri compiti la Commissione puo' avvalersi della collaborazione di tutte le amministrazioni dello Stato, anche ad ordinamento autonomo, degli enti pubblici, delle Regioni e degli enti locali.
 
-## TITOLO VI - Disposizioni concernenti i cittadini degli stati
+## TITOLO VI - Disposizioni concernenti i cittadini degli stati membri dell'Unione europea
 
-### membri dell'Unione europea
-
-###### Art. 45
+#### Art. 45
 
 Delega legislativa per l'attuazione delle norme
 
@@ -1425,7 +1403,7 @@ g) prevedere ogni disposizione necessaria alla concreta attuazione del decreto l
 
 ## TITOLO VII - Norme finali
 
-###### Art. 46
+#### Art. 46
 
 Abrogazioni
 
@@ -1453,7 +1431,7 @@ g) l'articolo 116 del Testo unico approvato con decreto legislativo 16 aprile 19
 
 > "2. Gli studenti di cui al comma 1 fruiscono dei servizi e delle provvidenze per concorso; essi fruiscono dell'assistenza sanitaria con le modalita' di cui allart. 6, primo comma, lettera a), della legge 23 dicembre 1978, n. 833, e successive modificazioni e integrazioni, ed all'art. 5 del decreto-legge 30 dicembre 1979, n. 663, convertito, con modificazioni, dalla legge 29 febbraio 1980, n. 33".
 
-###### Art. 47
+#### Art. 47
 
 Testo unico - Disposizioni correttive
 
@@ -1475,7 +1453,7 @@ b) le disposizioni della legge 30 dicembre 1986 n. 943, e quelle dell'articolo 3
 
 > \- Per il testo dell'art. 3, comma 13, della legge 8 agosto 1995, n. 335, v. nelle note all'art. 23.
 
-###### Art. 48
+#### Art. 48
 
 Copertura finanziaria
 
@@ -1487,7 +1465,7 @@ b) quanto a lire 20.000 milioni per ciascuno degli anni 1997, 1998 e 1999, media
 
 2\. Il ministro del Tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio derivanti dall'applicazione della presente legge.
 
-###### Art. 49
+#### Art. 49
 
 Disposizioni finali
 

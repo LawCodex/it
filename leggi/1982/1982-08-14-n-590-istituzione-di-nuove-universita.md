@@ -20,19 +20,19 @@ retrieved: 2026-10-11
 
 ## TITOLO I - PROGRAMMAZIONE UNIVERSITARIA
 
-##### Art. 1
+#### Art. 1
 
 ((ARTICOLO ABROGATO DAL D.P.R. 27 GENNAIO 1998, N.25))
 
-##### ART. 2
+#### ART. 2
 
 ((ARTICOLO ABROGATO DAL D.P.R. 27 GENNAIO 1998, N.25))
 
-##### ART. 3
+#### ART. 3
 
 ((ARTICOLO ABROGATO DAL D.P.R. 27 GENNAIO 1998, N.25))
 
-##### ART. 4
+#### ART. 4
 
 (Proroga dei termini di cui all'articolo 122 del decreto
 
@@ -46,11 +46,9 @@ Alla copertura finanziaria dell'onere derivante dal precedente comma, si provved
 
 ## TITOLO II - ISTITUZIONE DI NUOVE FACOLTA' O UNIVERSITA' STATALI
 
-### CAPO I
+### CAPO I - UNIVERSITA' STATALI DEGLI STUDI DELL'ABRUZZO
 
-#### UNIVERSITA' STATALI DEGLI STUDI DELL'ABRUZZO
-
-##### ART. 5 - Istituzione
+#### ART. 5 - Istituzione
 
 A decorrere dall'anno accademico 1982-1983 sono istituite le seguenti universita' degli studi:
 
@@ -62,7 +60,7 @@ Esse sono comprese fra quelle previste dall'articolo 1, n. 1), del testo unico d
 
 A decorrere dall'anno accademico 1982-1983 la libera Universita' degli studi dell'Aquila, istituita con decreto del Presidente della Repubblica 18 agosto 1964, n. 921, la libera Universita' degli studi "G. D'Annunzio", istituita con decreto del Presidente della Repubblica 8 maggio 1965, n. 1007, e l'Istituto superiore di medicina e chirurgia dell'Aquila, riconosciuto con decreto del Presidente della Repubblica 25 giugno 1969, n. 425, sono soppressi.
 
-##### ART. 6 - Facolta' e corsi di laurea dell'Universita' degli studi dell'Aquila
+#### ART. 6 - Facolta' e corsi di laurea dell'Universita' degli studi dell'Aquila
 
 L'Universita' degli studi dell'Aquila, fermo restando quanto previsto all'articolo 1, comprende le seguenti facolta' e i corsi di laurea e di diploma a fianco di ciascuna indicati:
 
@@ -74,7 +72,7 @@ c) scienze matematiche, fisiche e naturali, con i corsi di laurea in fisica; mat
 
 d) medicina e chirurgia, con i corsi di laurea in medicina e chirurgia, ed in odontoiatria e protesi dentaria.
 
-##### ART. 7
+#### ART. 7
 
 (Facolta' e corsi di laurea dell'Universita' degli studi "G.
 
@@ -96,7 +94,7 @@ f) lingue e letterature straniere moderne, con il corso di laurea in lingue e le
 
 g) architettura, con il corso di laurea in architettura.
 
-##### ART. 8 - Organici del personale docente e non docente
+#### ART. 8 - Organici del personale docente e non docente
 
 Nella prima applicazione della presente legge alle Universita' degli studi dell'Aquila e "G. D'Annunzio" sono assegnati i posti di professore ordinario e straordinario ripartiti per facolta' e i posti del personale non docente di ruolo di cui alle allegate tabelle A, B, C e D.
 
@@ -108,7 +106,7 @@ I ruoli organici nazionali del personale non docente sono aumentati delle unita'
 
 Il Ministro della pubblica istruzione determinera' con proprio decreto, di concerto con il Ministro del tesoro, la consistenza dei singoli ruoli organici tenuto conto degli incrementi previsti dal precedente comma.
 
-##### ART. 9 - Inquadramento
+#### ART. 9 - Inquadramento
 
 Il personale di ruolo, docente, assistente e ricercatore universitario di cui al decreto del Presidente della Repubblica 11 luglio 1980, n. 382, in servizio presso le Universita' e l'Istituto universitario di cui al precedente articolo 5, ultimo comma, e' inquadrato nei corrispondenti ruoli dello Stato restando assegnato alla disciplina, o gruppo di discipline, e alle facolta' in cui presta servizio.
 
@@ -118,13 +116,13 @@ Gli inquadramenti di cui al precedente comma vengono disposti nella qualifica fu
 
 Al personale inquadrato ai sensi del presente articolo il periodo di servizio prestato alle dipendenze delle Universita' o dell'Istituto di cui al primo comma e' riconosciuto sia ai fini della progressione giuridica ed economica, sia ai fini del trattamento di quiescenza e previdenza, sia ai fini dell'indennita' di buonuscita, a norma delle disposizioni di legge vigenti.
 
-##### ART. 10 - Inquadramento del personale non docente non di ruolo
+#### ART. 10 - Inquadramento del personale non docente non di ruolo
 
 Il personale non docente non di ruolo assunto in data precedente al 1 novembre 1981 per le esigenze delle Universita' e dell'Istituto universitario, in servizio, senza soluzione di continuita', all'atto dell'entrata in vigore della presente legge, e' inquadrato nei ruoli del personale non docente delle universita' statali ed e' collocato nelle qualifiche funzionali corrispondenti all'attivita' svolta, secondo le norme vigenti per il personale delle universita' statali, anche in soprannumero.
 
 Il servizio prestato dal personale non docente non di ruolo antecedentemente all'inquadramento nei ruoli del personale non docente delle universita' statali, e' riconosciuto a norma delle disposizioni di legge vigenti.
 
-##### ART. 11 - Patrimonio
+#### ART. 11 - Patrimonio
 
 Il patrimonio mobile e immobile delle Universita' e dell'Istituto superiore di medicina e chirurgia di cui all'ultimo comma del precedente articolo 5 e' devoluto alle Universita' statali che subentrano nella titolarita' di tutti i rapporti giuridici ad essi facenti capo fino alla data di entrata in vigore della presente legge.
 
@@ -132,23 +130,21 @@ E' mantenuta l'eventuale assegnazione in uso gratuito degli immobili di propriet
 
 Entro sei mesi dalla data di entrata in vigore della presente legge, i rettori provvederanno alla redazione dell'inventario del patrimonio di ciascuna Universita'.
 
-##### ART. 12 - Convenzioni
+#### ART. 12 - Convenzioni
 
 Dalla data di entrata in vigore della presente legge cessano di aver efficacia gli obblighi derivanti agli enti locali dalle convenzioni stipulate tra, le Universita', l'Istituto universitario di cui al presente capo e i relativi Consorzi.
 
 Resta fermo l'obbligo di liquidare alle Universita' statali istituite ai sensi del presente capo, l'ammontare dei contributi previsti dalle convenzioni stesse, non ancora versati alla data di entrata in vigore della presente legge.
 
-## CAPO II - ISTITUZIONE DELLA FACOLTA' DI ECONOMIA E COMMERCIO DELL'UNIVERSITA'
+### CAPO II - ISTITUZIONE DELLA FACOLTA' DI ECONOMIA E COMMERCIO DELL'UNIVERSITA' STATALE DEGLI STUDI DI ANCONA
 
-### STATALE DEGLI STUDI DI ANCONA
-
-##### ART. 13 - Istituzione
+#### ART. 13 - Istituzione
 
 A decorrere dall'anno accademico 1982-1983, e' istituita presso l'Universita' degli studi di Ancona la facolta' di economia e commercio, con il corso di laurea in economia e commercio.
 
 Il corso di laurea in economia e commercio della libera Universita' degli studi di Urbino, funzionante in Ancona, e' trasferito alla facolta' di economia e commercio di cui al precedente comma. Le relative dotazioni didattiche e i rapporti connessi sono trasferiti all'Universita' degli studi di Ancona, ad eccezione di quanto, ai sensi dell'articolo 11 delle disposizioni statutarie approvate con decreto del Presidente della Repubblica 18 febbraio 1960, n. 122, resti di proprieta' della libera Universita' di Urbino, che potra' essere trasferito all'Universita' degli studi di Ancona salvo indennizzo da determinarsi previa valutazione dei beni effettuata da una commissione tecnica da nominarsi con decreto interministeriale e composta da rappresentanti del Ministero delle finanze, del Ministero della pubblica istruzione, dell'Universita' degli studi di Ancona e della libera Universita' degli studi di Urbino.
 
-##### ART. 14 - Personale
+#### ART. 14 - Personale
 
 Alla dotazione organica dei posti di professore straordinario e ordinario dell'Universita' degli studi di Ancona sono aggiunti, per la facolta' di economia e commercio, i posti di cui alla allegata tabella E, prelevati dalle dotazioni organiche di cui all'articolo 3, primo comma, del decreto del Presidente della Repubblica 11 luglio 1980, n. 382.
 
@@ -168,27 +164,27 @@ Al personale di ruolo inquadrato ai sensi del presente articolo il periodo di se
 
 Il servizio prestato dal personale non docente non di ruolo antecedentemente all'inquadramento nei ruoli del personale non docente delle universita' statali e' riconosciuto a norma delle disposizioni di legge vigenti.
 
-##### ART. 15 - Patrimonio
+#### ART. 15 - Patrimonio
 
 All'Universita' degli studi di Ancona sono trasferiti, per le esigenze della facolta' di economia e commercio, l'eventuale assegnazione in uso gratuito e la destinazione degli immobili e delle attrezzature, di proprieta' degli enti facenti parte del Consorzio per il potenziamento degli studi universitari di Ancona, di cui al decreto del Presidente della Repubblica 18 febbraio 1960, n. 122, e del Consorzio stesso, gia' disposta a favore del corso di laurea in economia e commercio della libera Universita' degli studi di Urbino funzionante in Ancona nei termini previsti dagli atti che hanno dato origine alle concessioni stesse, nonche' i rapporti giuridici facenti capo al Consorzio stesso fino all'entrata in vigore della presente legge.
 
 Gli obblighi derivanti agli enti locali dalla convenzione stipulata tra il Consorzio per il potenziamento degli studi universitari di Ancona e la libera Universita' degli studi di Urbino cessano di avere efficacia dalla data di entrata in vigore della presente legge, ferma restando l'obbligazione di liquidare alla libera Universita' degli studi di Urbino l'ammontare dei contributi che risultino dovuti in base alla convenzione stessa e non ancora versati alla data di entrata in vigore della presente legge.
 
-##### ART. 16 - Facolta' di economia e commercio della libera Universita' degli studi di Urbino
+#### ART. 16 - Facolta' di economia e commercio della libera Universita' degli studi di Urbino
 
 La facolta' di economia e commercio della libera Universita' degli studi di Urbino conserva la potesta' di rilasciare titoli di studio aventi valore legale a norma delle vigenti disposizioni di legge.
 
 Su proposta delle autorita' accademiche della libera Universita' degli studi di Urbino, e con l'ordinaria procedura richiesta per le modifiche allo statuto, potranno essere istituiti, con sede in Urbino, i corsi di laurea ritenuti piu' rispondenti.
 
-## CAPO III - UNIVERSITA' STATALE DEGLI STUDI DI BRESCIA
+### CAPO III - UNIVERSITA' STATALE DEGLI STUDI DI BRESCIA
 
-##### ART. 17 - Istruzione
+#### ART. 17 - Istruzione
 
 A decorrere dall'anno accademico 1982-1983 e' istituita l'Universita' degli studi di Brescia.
 
 Essa e' compresa fra quelle previste dall'articolo 1, n. 1), del testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592, e successive modificazioni e integrazioni.
 
-##### ART. 18 - Facolta' e corsi di laurea
+#### ART. 18 - Facolta' e corsi di laurea
 
 L'Universita' degli studi di Brescia, fermo restando quanto previsto all'articolo 1, comprende le seguenti facolta' e i corsi di laurea a fianco di ciascuna indicati:
 
@@ -200,7 +196,7 @@ c) economia e commercio, con il corso di laurea in economia e commercio;
 
 I corsi di laurea della facolta' di medicina e chirurgia, di ingegneria e di economia e commercio, rispettivamente delle Universita' statali di Milano e di Parma, del Politecnico di Milano e dell'Universita' degli studi di Parma funzionanti in Brescia e gestiti dall'Ente universitario della Lombardia orientale, istituito con decreto del Prefetto di Brescia dell'11 novembre 1969, vengono assorbiti nelle facolta' indicate alle lettere a), b) e c) del precedente comma. Le dotazioni didattiche e scientifiche e i rapporti connessi sono trasferiti all'Universita' degli studi di Brescia.
 
-##### ART. 19 - Organici del personale docente e non docente
+#### ART. 19 - Organici del personale docente e non docente
 
 Nella prima applicazione della presente legge all'Universita' degli studi di Brescia sono assegnati i posti di professore straordinario e ordinario ripartiti per facolta' e del personale non docente di ruolo di cui alle allegate tabelle G e H.
 
@@ -222,7 +218,7 @@ Il personale non docente non di ruolo assunto in data precedente al 1 novembre 1
 
 Il servizio prestato dal personale non docente non di ruolo antecedentemente all'inquadramento nei ruoli del personale non docente delle universita' statali, e' riconosciuto a norma delle disposizioni vigenti.
 
-##### ART. 20 - Passaggio del personale
+#### ART. 20 - Passaggio del personale
 
 I docenti di ruolo che attualmente svolgono attivita' di insegamento nei corsi di laurea delle facolta' di medicina e chirurgia, di ingegneria e di economia e commercio rispettivamente delle Universita' statali di Milano e di Parma, del Politecnico di Milano e dell'Universita' degli studi di Parma e nei corsi gestiti dall'Ente universitario della Lombardia orientale, passano, a domanda, sui posti assegnati alle facolta' di medicina e chirurgia, di ingegneria e di economia e commercio della Universita' di Brescia, di cui al precedente articolo 17, primo comma, secondo la previsione organica di cui all'allegata tabella G.
 
@@ -232,7 +228,7 @@ Gli assistenti e i ricercatori dei ruoli universitari statali che svolgono la lo
 
 Il personale non docente dei ruoli universitari statali in servizio presso la sede di Brescia transita con il proprio posto all'Universita' degli studi di Brescia restando assegnato agli uffici in atto ricoperti.
 
-##### ART. 21 - Patrimonio
+#### ART. 21 - Patrimonio
 
 E' mantenuta a favore dell'Universita' degli studi di Brescia l'eventuale assegnazione in uso gratuito e la destinazione degli immobili di proprieta' degli enti facenti parte dell'Ente universitario della Lombardia orientale, nei termini previsti dagli atti che hanno dato origine alle assegnazioni stesse.
 
@@ -240,15 +236,15 @@ Restano validi in favore dell'Universita' degli studi di Brescia gli impegni ass
 
 Entro sei mesi dalla data di entrata in vigore della presente legge, il presidente del comitato tecnico-amministrativo provvedera' alla redazione dell'inventario.
 
-## CAPO IV - UNIVERSITA' STATALE DEGLI STUDI DEL MOLISE
+### CAPO IV - UNIVERSITA' STATALE DEGLI STUDI DEL MOLISE
 
-##### ART. 22 - Istituzione
+#### ART. 22 - Istituzione
 
 A decorrere dall'anno accademico 1982-1983 e' istitutita l'Universita' degli studi del Molise con sede in Campobasso.
 
 L'Universita' degli studi del Molise e' compresa tra quelle previste dall'articolo 1, n. 1), del testo unico delle leggi sulla istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592, e successive modificazioni.
 
-##### ART. 23 - Facolta' e corsi di laurea
+#### ART. 23 - Facolta' e corsi di laurea
 
 L'Universita' degli studi del Molise, fermo restando quanto previsto all'articolo 1, comprende le seguenti facolta' e i corsi di laurea a fianco di ciascuna indicati:
 
@@ -260,7 +256,7 @@ La laurea in scienze dell'amministrazione e' compresa nell'elenco delle lauree e
 
 La tabella II annessa al citato regio decreto 30 settembre 1938, n. 1652, e' integrata nel senso che la facolta' di scienze economiche e sociali rilascia anche la laurea in scienze dell'amministrazione,
 
-##### ART. 24 - Organici del personale docente e non docente
+#### ART. 24 - Organici del personale docente e non docente
 
 Nella prima applicazione della presente legge all'Universita' degli studi del Molise sono assegnati i posti di professore straordinario e ordinario di ruolo ripartiti per facolta', e il personale non docente di ruolo di cui alle allegate tabelle I e L.
 
@@ -282,15 +278,15 @@ Il personale non docente non di ruolo assunto in data precedente al 1 novembre 1
 
 Il servizio prestato dal personale non docente non di ruolo antecedentemente all'inquadramento nei ruoli del personale non docente delle Universita' statali, e' riconosciuto a norma delle disposizioni vigenti.
 
-## CAPO V - UNIVERSITA' STATALE DEGLI STUDI DI REGGIO CALABRIA
+### CAPO V - UNIVERSITA' STATALE DEGLI STUDI DI REGGIO CALABRIA
 
-##### ART. 25 - Istituzione
+#### ART. 25 - Istituzione
 
 A decorrere dall'anno accademico 1982-1983 e' istituita l'Universita' degli studi di Reggio Calabria.
 
 L'Universita' degli studi di Reggio Calabria e' compresa tra quelle previste dall'articolo 1, n. 1), del testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592, e successive modificazioni.
 
-##### ART. 26 - Facolta' e corsi di laurea
+#### ART. 26 - Facolta' e corsi di laurea
 
 L'Universita' degli studi di Reggio Calabria, fermo restando quanto previsto dall'articolo 1, comprende le seguenti facolta' e i corsi di laurea a fianco di ciascuna indicati:
 
@@ -310,7 +306,7 @@ A decorrere dall'anno accademico 1982-1983 l'Istituto universitario statale di a
 
 La tabella II annessa al regio decreto 30 settembre 1938, n. 1652, e' integrata nel senso che la facolta' di giurisprudenza rilascia anche la laurea in scienze dell'amministrazione e la facolta' di architettura rilascia anche la laurea in storia e conservazione dei beni architettonici e ambientali. La laurea in storia e conservazione dei beni architettonici e ambientali e' compresa nell'elenco di lauree e diplomi di cui alla tabella I annessa al regio decreto 30 settembre 1938, n. 1652, e successive modificazioni e integrazioni.
 
-##### ART. 27 - Organici del personale docente e non docente
+#### ART. 27 - Organici del personale docente e non docente
 
 Nella prima applicazione della presente legge all'Universita' degli studi di Reggio Calabria sono assegnati i posti di professore straordinario e ordinario di ruolo ripartiti per facolta', e il personale non docente di ruolo di cui alle allegate tabelle M e N.
 
@@ -322,7 +318,7 @@ I ruoli organici nazionali del personale non docente sono aumentati delle unita'
 
 Il Ministro della pubblica istruzione determinera' con proprio decreto, di concerto con il Ministro del tesoro, la consistenza dei singoli ruoli organici tenuto conto degli incrementi previsti dal precedente comma.
 
-##### ART. 28 - Passaggio del personale
+#### ART. 28 - Passaggio del personale
 
 Nella prima applicazione della presente legge, i professori universitari ordinari e associati di ruolo, gli assistenti ed i ricercatori, che alla data di entrata in vigore della legge stessa svolgono attivita' presso le strutture didattiche ausiliarie di medicina e giurisprudenza, rispettivamente decentrate in Catanzaro dalle Universita' di Napoli e di Messina, passano a domanda da presentarsi entro sessanta giorni dalla data predetta, a far parte degli organici dell'Universita' di Reggio Calabria di cui al precedente articolo 27, secondo la previsione organica di cui alla tabella M.
 
@@ -338,7 +334,7 @@ Il personale non docente non di ruolo assunto in data precedente al 1 novembre 1
 
 Il servizio prestato dal personale non docente non di ruolo antecedentemente all'inquadramento nei ruoli del personale non docente delle universita' statali, e' riconosciuto a norma delle disposizioni vigenti.
 
-##### ART. 29 - Comitato tecnico-amministrativo
+#### ART. 29 - Comitato tecnico-amministrativo
 
 Nell'Universita' statale degli studi di Reggio Calabria, fino all'insediamento del consiglio di amministrazione nella composizione prevista dall'ordinamento universitario, che dovra' avvenire entro i primi due mesi del secondo anno di svolgimento dell'attivita' accademica, le attribuzioni ad esso demandate sono esercitate da un comitato tecnico-amministrativo composto dal direttore pro tempore dell'Istituto universitario statale di Reggio Calabria, che assume le funzioni di presidente del comitato e da:
 
@@ -370,7 +366,7 @@ o) tre studenti iscritti ai corsi di laurea attivati nell'Ateneo, di cui almeno 
 
 p) un rappresentante del personale non docente in servizio in una delle facolta' dell'Ateneo.
 
-##### ART. 30 - Patrimonio
+#### ART. 30 - Patrimonio
 
 Emantenuta a favore dell'Universita' degli studi di Reggio Calabria l'eventuale assegnazione in uso gratuito e la destinazione degli immobili e delle attrezzature di proprieta' degli enti facenti parte dei Consorzi di cui al terzo comma del precedente articolo 28 o dei Consorzi stessi, nei termini previsti dagli atti che hanno dato origine alle assegnazioni.
 
@@ -378,15 +374,15 @@ Restano validi in favore dell'Universita' degli studi di Reggio Calabria gli imp
 
 Entro sei mesi dalla data di entrata in vigore della presente legge, il presidente del comitato tecnico-amministrativo provvedera' alla redazione dell'inventario.
 
-## CAPO VI - UNIVERSITA' STATALE DEGLI STUDI DI VERONA
+### CAPO VI - UNIVERSITA' STATALE DEGLI STUDI DI VERONA
 
-##### ART. 31 - Istituzione
+#### ART. 31 - Istituzione
 
 A decorrere dall'anno accademico 1982-1983 e' istituita l'Universita' degli studi di Verona.
 
 Essa e' compresa tra quelle previste dall'articolo 1, n. 1), del testo unico dalle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592, e successive modificazioni e integrazioni.
 
-##### ART. 32 - Facolta' e corsi di laurea
+#### ART. 32 - Facolta' e corsi di laurea
 
 L'Universita' degli studi di Verona, fermo restando quanto previsto all'articolo 1, comprende le seguenti facolta' e i corsi di laurea a fianco di ciascuna indicati:
 
@@ -400,7 +396,7 @@ I corsi delle facolta' di medicina e chirurgia, di economia e commercio e di mag
 
 Le dotazioni didattiche e scientifiche e i rapporti connessi relativi ai corsi di cui al precedente secondo comma sono trasferiti all'Universita' degli studi di Verona.
 
-##### ART. 33 - Organici del personale docente e non docente
+#### ART. 33 - Organici del personale docente e non docente
 
 Nella prima applicazione della presente legge all'Universita' degli studi di Verona sono assegnati i posti di professore straordinario e ordinario ripartiti per facolta' e il personale non docente di ruolo, di cui alle allegate tabelle O e P.
 
@@ -422,11 +418,11 @@ Il personale non docente non di ruolo assunto in data precedente al 1 novembre 1
 
 Il servizio prestato dal personale non docente non di ruolo antecedentemente all'inquadramento nei ruoli del personale non docente delle universita' statali, e' riconosciuto a norma delle disposizioni vigenti.
 
-##### ART. 34 - Passaggio del personale
+#### ART. 34 - Passaggio del personale
 
 Il personale universitario statale, di ruolo e non di ruolo, in servizio presso la sede di Verona passa con il proprio posto all'Universita' degli studi di Verona restando assegnato agli uffici ricoperti alla data di entrata in vigore della presente legge.
 
-##### ART. 35 - Patrimonio
+#### ART. 35 - Patrimonio
 
 E' mantenuta a favore dell'Universita' degli studi di Verona l'eventuale assegnazione in uso gratuito e la destinazione degli immobili di proprieta' degli enti facenti parte del Consorzio di cui al sesto comma dell'articolo 33, o del Consorzio stesso, nonche' dell'Universita' degli studi di Padova comunque destinati per le attivita' didattiche e scientifiche, amministrative e di assistenza universitaria in Verona, nei termini previsti dagli atti che hanno dato origine alle assegnazioni stesse.
 
@@ -436,9 +432,9 @@ Entro sei mesi dalla data di entrata in vigore della presente legge, il presiden
 
 Restano fermi i programmi edilizi e le relative coperture finanziarie predisposti dall'Universita' di Padova e relativi ad insediamenti universitari in Verona.
 
-## CAPO VII - NORME COMUNI E TRANSITORIE
+### CAPO VII - NORME COMUNI E TRANSITORIE
 
-##### ART. 36 - Consigli di amministrazione e comitati tecnici amministrativi
+#### ART. 36 - Consigli di amministrazione e comitati tecnici amministrativi
 
 Nelle Universita' di cui al capo I del presente titolo II, fino all'insediamento del consiglio di amministrazione nella composizione prevista dall'ordinamento universitario, che dovra' avvenire entro i primi due mesi del secondo anno di svolgimento dell'attivita' accademica, le attribuzioni ad esso demandate sono esercitate dal consiglio di amministrazione delle libere universita', in carica alla predetta data.
 
@@ -448,19 +444,19 @@ Per le Universita' di cui ai capi III, IV e VI, le attribuzioni del consiglio di
 
 Gli organi di cui al precedente comma non potranno comunque svolgere le loro funzioni per un periodo superiore a quello previsto nel primo comma del presente articolo. Se, scaduto tale termine, non risulteranno costituiti gli ordinari consigli di amministrazione, si provvedera' in ogni caso alla integrale sostituzione dei componenti degli organi stessi.
 
-##### ART. 37 - Statuto
+#### ART. 37 - Statuto
 
 Entro 180 giorni dalla data di istituzione delle Universita' statali di cui al precedente capo I e, per le Universita' di cui ai capi III, IV, V e VI, entro 180 giorni dalla data del decreto di nomina dei comitati ordinatori, saranno emanati, nelle forme e con le modalita' previste dall'articolo 17 del testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592, e successive modificazioni, gli statuti delle predette Universita'.
 
 Lo statuto entrera' in vigore il giorno successivo alla data di pubblicazione nella Gazzetta Ufficiale.
 
-##### ART. 38 - Norme per l'attivazione dei corsi di laurea
+#### ART. 38 - Norme per l'attivazione dei corsi di laurea
 
 In relazione alle disponibilita' edilizie, di arredamento e di attrezzature didattiche o scientifiche delle Universita' di cui al presente titolo, assicurate anche da parte di enti locali e di privati riuniti eventualmente in consorzio mediante convenzioni, con decreto del Ministro della pubblica istruzione, su proposta del consiglio di amministrazione o, in sua mancanza, del comitato tecnico-amministrativo, sentiti i consigli di facolta', o, in loro mancanza, i comitati ordinatori, sara' stabilito l'inizio dei corsi di laurea che non risultino ancora attivati al momento dell'entrata in vigore della presente legge.
 
 Al fine di consentire l'avvio programmato delle attivita' didattiche e scientifiche i consigli di amministrazione o i comitati tecnici amministrativi, su proposta dei consigli di facolta' o dei comitati ordinatori, possono determinare nei primi sei anni successivi all'attivazione di ciascun corso di laurea, il numero massimo delle iscrizioni a tali corsi, disciplinando altresi' le modalita' di selezione degli aspiranti.
 
-##### ART. 39 - Riconoscimento degli studi
+#### ART. 39 - Riconoscimento degli studi
 
 Gli studenti iscritti anteriormente alla data di entrata in vigore della presente legge ad uno dei corsi funzionanti nelle citta' sedi delle Universita' o facolta' statali istituite ai sensi degli articoli 7 e 23, l'ordinamento dei quali sia ritenuto conforme ad un corso di laurea universitario, sono ammessi ad iscriversi presso le corrispondenti facolta' statali o riconosciute dallo Stato, nell'anno di corso immediatamente successivo a quello o a quelli per i quali abbiano superato almeno la meta' degli esami previsti nel piano di studi.
 
@@ -474,7 +470,7 @@ L'iscrizione dovra' essere richiesta entro e non oltre 60 giorni dalla data di i
 
 ## TITOLO III - UNIVERSITA' STATALE DEGLI STUDI DI TRENTO
 
-##### ART. 40 - Istituzione
+#### ART. 40 - Istituzione
 
 A decorrere dall'anno accademico 1982-1983 e' istituita l'Universita' degli studi di Trento.
 
@@ -486,7 +482,7 @@ Le modificazioni, che concernono l'istituzione di nuove facolta' o corsi di laur
 
 Con la stessa decorrenza di cui al primo comma, il libero Istituto superiore di scienze sociali di Trento, riconosciuto con legge 8 giugno 1966, n. 432, e trasformato in libera Universita' degli studi di Trento con decreto del Presidente della Repubblica 31 ottobre 1972, n. 974, e' soppresso, in conformita' a quanto deliberato dal suo consiglio di amministrazione in data 25 marzo 1975.
 
-##### ART. 41 - Statuto
+#### ART. 41 - Statuto
 
 Ai fini indicati nel precedente articolo e allo scopo di rendere possibili la continuita' e lo sviluppo delle esperienze in atto presso la libera Universita', lo statuto dell'Universita' degli studi di Trento deve prevedere:
 
@@ -502,7 +498,7 @@ e) l'attivita' di specializzazione, di aggiornamento professionale e di educazio
 
 f) il carattere residenziale dell'Universita'; le norme necessarie per stabilire annualmente il numero programmato delle immatricolazioni e delle iscrizioni, in rapporto alle disponibilita' edilizie, alle attrezzature didattiche residenziali, alla domanda di laureati.
 
-##### ART. 42 - Facolta' e corsi di laurea
+#### ART. 42 - Facolta' e corsi di laurea
 
 L'Universita' degli studi di Trento, fermo restando quanto previsto all'articolo 1, comprende le seguenti facolta' e i corsi di laurea a fianco di ciascuna indicati:
 
@@ -540,7 +536,7 @@ La tabella II annessa al citato regio decreto 30 settembre 1938, n. 1652, e' int
 
 La laurea in ingegneria forestale e la laurea in ingegneria dei materiali costituiscono titolo per l'ammissione all'esame di Stato per l'abilitazione all'esercizio della professione di ingegnere.
 
-##### ART. 43 - Patrimonio - Regolamento interno
+#### ART. 43 - Patrimonio - Regolamento interno
 
 Il patrimonio mobile ed immobile della libera Universita' degli studi di Trento e' devoluto all'Universita' statale.
 
@@ -552,7 +548,7 @@ L'assegnazione in uso gratuito degli immobili di proprieta' della Provincia auto
 
 L'approvazione del regolamento interno, previsto dall'articolo 44 del testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592, e' delegata, ai sensi dell'articolo 16, terzo comma, del testo unificato delle leggi sullo statuto speciale per il Trentino-Alto Adige, approvato con decreto del Presidente della Repubblica 31 agosto 1972, n. 670, alla Provincia autonoma di Trento, che vi provvede osservando le modalita' e i termini stabiliti per l'esercizio delle attribuzioni di competenza della Giunta provinciale ((a norma dell'articolo 54, n. 5))) , del citato testo unificato.
 
-##### ART. 44 - Finanziamento
+#### ART. 44 - Finanziamento
 
 Per il finanziamento degli oneri di funzionamento, all'Universita' degli studi di Trento e' devoluta annualmente una somma da iscriversi in apposito capitolo del bilancio dello Stato.
 
@@ -564,7 +560,7 @@ Qualora la determinazione dello stanziamento di cui al secondo comma del present
 
 Il controllo sulla gestione e' esercitato da un collegio di revisori dei conti, nominato con decreto del Ministro della pubblica istruzione e composto di tre membri, di cui uno, designato dal Ministro del tesoro, che ne assume la presidenza, e gli altri due designati rispettivamente dal Ministro della pubblica istruzione e dalla Provincia autonoma di Trento.
 
-##### ART. 45 - Organici del personale docente e non docente
+#### ART. 45 - Organici del personale docente e non docente
 
 Nella prima applicazione della presente legge all'Universita' degli studi di Trento sono assegnati i posti di professore straordinario e ordinario, ripartiti per facolta', e i posti del personale non docente di ruolo di cui alle allegate tabelle Q e R.
 
@@ -580,7 +576,7 @@ I ruoli organici nazionali del personale non docente sono aumentati delle unita'
 
 Il Ministro della pubblica istruzione determinera' con proprio decreto, di concerto con il Ministro del tesoro, la consistenza dei singoli ruoli organici tenuto conto degli incrementi previsti dal precedente comma.
 
-##### ART. 46 - Inquadramento
+#### ART. 46 - Inquadramento
 
 Il personale di ruolo, docente, assistente e ricercatore universitario di cui al decreto del Presidente della Repubblica 11 luglio 1980, n. 382, in servizio presso la libera Universita' degli studi di Trento, e' inquadrato nei corrispondenti ruoli dello Stato restando assegnato alla disciplina, o gruppo di discipline ed alle facolta' in cui presta servizio.
 
@@ -590,7 +586,7 @@ Gli inquadramenti di cui al precedente comma vengono disposti nella qualifica fu
 
 Al personale inquadrato in ruolo ai sensi del presente articolo il periodo di servizio precedentemente prestato alle dipendenze dell'Istituto superiore di scienze sociali trasformato in libera Universita' degli studi di Trento, viene riconosciuto, sia ai fini della progressione giuridica ed economica, sia ai fini del trattamento di quiescenza e previdenza, sia ai fini dell'indennita' di buonuscita, a norma delle disposizioni di legge vigenti.
 
-##### ART. 47 - Edilizia universitaria
+#### ART. 47 - Edilizia universitaria
 
 Le opere di edilizia universitaria della Universita' degli studi di Trento sono realizzate nel rispetto delle norme generali sulla programmazione ed il finanziamento delle opere di edilizia universitaria stabilite dalla legge dello Stato.
 
@@ -602,13 +598,13 @@ Ai sensi dell'articolo 17 del testo unificato delle leggi sullo statuto speciale
 
 A seguito dell'emanazione delle predette norme, la Provincia esercitera' le relative funzioni amministrative.
 
-##### ART. 48 - Collaborazione scientifica internazionale
+#### ART. 48 - Collaborazione scientifica internazionale
 
 Ai fini di quanto previsto alla lettera d) del precedente articolo 41, l'Universita' degli studi di Trento collabora con le istituzioni universitarie di altri Stati per le esigenze della ricerca scientifica e dell'insegnamento attenendosi, nell'ambito comunitario, alle direttive della Comunita' economica europea ed ai relativi provvedimenti di attuazione e, nell'ambito extracomunitario, ai vigenti accordi culturali internazionali di cui la Repubblica italiana sia parte.
 
 L'Universita' degli studi di Trento puo' agevolare la possibilita' per gli studenti di frequentare gli studi presso le universita' e le istituzioni universitarie di altri Stati, riconoscendo la validita' dei corsi seguiti ovvero di parte dei piani di studio svolti presso le predette universita' e istituzioni universitarie.
 
-##### ART. 49 - Convenzioni
+#### ART. 49 - Convenzioni
 
 Le convenzioni, stipulate dalla libera Universita' degli studi di Trento anteriormente all'entrata in vigore della presente legge e non ancora scadute, s'intendono trasferite in capo all'Universita' istituita per effetto del presente titolo, e dovranno essere adeguate alla nuova situazione dell'Universita' entro un anno dall'entrata in vigore della presente legge.
 
@@ -616,7 +612,7 @@ Le convenzioni, per le quali le norme sull'ordinamento universitario vigente ric
 
 Se stipulate con la Provincia, le convenzioni sono efficaci a partire dalla data in cui il provvedimento della Provincia diviene esecutivo.
 
-##### ART. 50 - Proroga del consiglio di amministrazione
+#### ART. 50 - Proroga del consiglio di amministrazione
 
 Sino a quando non sara' approvato il nuovo statuto dell'Universita' degli studi di Trento in armonia con le disposizioni della presente legge, e' prorogata la durata del consiglio di amministrazione e delle altre autorita' accademiche in carica alla data di entrata in vigore della legge stessa.
 
@@ -626,7 +622,7 @@ Ove allo scadere di 18 mesi dall'entrata in vigore della presente legge Universi
 
 ## TITOLO IV - NORME COMUNI, FINANZIARIA E FINALE
 
-##### ART. 51 - Consiglio di facolta' e comitati tecnici ordinatori
+#### ART. 51 - Consiglio di facolta' e comitati tecnici ordinatori
 
 Nelle Universita' degli studi di cui ai titoli II e III, qualora il numero dei professori di ruolo, straordinari ed ordinari, in ciascun consiglio di facolta', anche a seguito dei passaggi disposti ai sensi dei precedenti articoli, risulti inferiore a tre, si procede all'integrazione della stessa componente mediante elezione di tanti professori straordinari ed ordinari, quanti siano necessari per raggiungere il predetto numero al solo fine dell'espletamento dei compiti riservati ai professori straordinari e ordinari. L'elezione avviene tra i professori straordinari ed ordinari di ruolo e fuori ruolo titolari di discipline previste nell'ordinamento didattico delle rispettive facolta'; partecipano alla stessa elezione i docenti straordinari ed ordinari, di ruolo e fuori ruolo di tutte le corrispondenti facolta' delle universita' statali o riconosciute per rilasciare titoli di studio aventi valore legale.
 
@@ -646,13 +642,13 @@ Finche' non potranno essere eletti, secondo le norme vigenti, i presidi delle fa
 
 Per le funzioni loro attribuite dalle vigenti disposizioni di legge restano in carica i consigli di corso di laurea, ove costituiti.
 
-##### ART. 52 - Incaricati, contrattisti, assegnisti, borsisti
+#### ART. 52 - Incaricati, contrattisti, assegnisti, borsisti
 
 I docenti titolari di un incarico di insegnamento su corso ufficiale gia' attivato presso una facolta' delle Universita' o Istituto universitario di cui ai precedenti titoli II e III hanno titolo alla conservazione dell'incarico di insegnamento del corrispondente corso presso la stessa facolta' della nuova universita' statale, ai sensi dei commi primo e secondo dell'articolo 113 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382.
 
 Coloro che trovandosi nelle condizioni di cui ai commi primo e secondo dell'articolo 58 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382, svolgono, alla data del 31 ottobre 1982, la propria attivita' presso le Universita' o Istituto universitario di cui ai precedenti titoli II e III, continuano a svolgere l'attivita' stessa presso la corrispondente universita' statale.
 
-##### ART. 52-bis
+#### ART. 52-bis
 
 ((Inquadramento del personale dirigente
 
@@ -660,23 +656,23 @@ Il personale non docente di ruolo in servizio alla data del 1 novembre 1981 pres
 
 Al personale inquadrato in ruolo ai sensi del precedente comma, il periodo di servizio precedentemente prestato alle dipendenze delle universita' e dell'istituto universitario, di cui agli articoli 5 e 40, viene riconosciuto, sia ai fini della progressione giuridica ed economica, sia ai fini del trattamento di quiescenza e previdenza, nonche' ai fini dell'indennita' di buonuscita, a norma delle disposizioni di legge vigenti.))
 
-##### ART. 53 - Norma transitoria sugli inquadramenti
+#### ART. 53 - Norma transitoria sugli inquadramenti
 
 I ricercatori che risulteranno vincitori dei concorsi banditi anteriormente alla data di entrata in vigore della presente legge dalle Universita' o Istituto universitario di cui agli articoli 5, terzo comma; 13, secondo comma; 18, secondo comma;((32, secondo comma; 40, ultimo comma)), vengono inquadrati nei ruoli organici delle corrispondenti universita' statali istituite ai sensi della presente legge.
 
 Passano altresi', a domanda, a far parte dei suddetti organici, i professori di ruolo per i quali sia stata approvata anteriormente alla data di entrata in vigore della presente legge la chiamata per trasferimento presso una facolta' delle Universita' o Istituto universitario di cui agli articoli 5, terzo comma; 13, secondo comma; 18, secondo comma; ((32, secondo comma; 40, ultimo comma)).
 
-##### ART. 54 - Piano biennale transitorio
+#### ART. 54 - Piano biennale transitorio
 
 Le Universita' statali di cui alla presente legge, si intendono istituite nell'ambito del primo piano biennale transitorio di cui all'ultimo comma dell'articolo 2 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382.
 
-##### ART. 55 - Facolta' convenzionate
+#### ART. 55 - Facolta' convenzionate
 
 Le facolta' di universita' degli studi statali funzionanti in tutto o in parte a seguito di convenzione approvata con legge o con decreto del Presidente della Repubblica, sono statali a tutti gli effetti e senza soluzione di continuita', indipendentemente dalle vicende delle convenzioni che ad esse si riferiscono.
 
 A decorrere dalla data di entrata in vigore della presente legge non e' consentita l'istituzione di nuove facolta' in tutto o in parte convenzionate, presso universita' degli studi statali.
 
-##### ART. 56 - Personale non docente dell'Universita' degli studi di Cassino
+#### ART. 56 - Personale non docente dell'Universita' degli studi di Cassino
 
 Il quarto ed il quinto comma dell'articolo 21 della legge 3 aprile 1979, n. 122, sono sostituiti dai seguenti:
 
@@ -684,13 +680,13 @@ Il quarto ed il quinto comma dell'articolo 21 della legge 3 aprile 1979, n. 122,
 
 L'immissione in ruolo e' disposta nella qualifica della carriera corrispondente alla categoria di impiego nella quale il personale predetto e' stato originariamente assunto, purche' in possesso del prescritto titolo di studio".
 
-##### ART. 57 - Copertura finanziaria
+#### ART. 57 - Copertura finanziaria
 
 Agli oneri derivanti dall'applicazione della presente legge, valutati per il bimestre novembre-dicembre 1982 in complessive lire 13 miliardi, si provvede mediante prelevamento dallo stanziamento di cui al capitolo 6856 dello stato di previsione della spesa del Ministero del tesoro per l'anno finanziario 1982, all'uopo utilizzando la voce: "Istituzione di nuove universita' statali".
 
 Il Ministro del tesoro e' autorizzato a apportare con propri decreti le occorrenti variazioni di bilancio.
 
-##### ART. 58 - Norma di rinvio
+#### ART. 58 - Norma di rinvio
 
 Per tutto quanto non previsto dalla presente legge si applicano le norme vigenti per l'ordinamento universitario.
 
@@ -706,7 +702,7 @@ Visto, il Guardasigilli: DARIDA
 
 ## TITOLO IV - NORME COMUNI, FINANZIARIA E FINALE
 
-##### Tabella A
+#### Tabella A
 
 TABELLA A
 
@@ -716,7 +712,7 @@ POSTI DI PROFESSORE STRAORDINARIO E ORDINARIO DI RUOLO
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Posti Facolta' di magistero. . . . . . . . . . . . . . . . . . . . . . . 20 Facolta' di ingegneria . . . . . . . . . . . . . . . . . . . . . . 35 Facolta' di scienze matematiche, fisiche e naturali. . . . . . . . 36 Facolta' di medicina e chirurgia . . . . . . . . . . . . . . . . . 33
 
-##### Tabella B
+#### Tabella B
 
 TABELLA B
 
@@ -790,7 +786,7 @@ tecnici e ausiliari
 
 Usciere . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
 
-##### Tabella C
+#### Tabella C
 
 TABELLA C
 
@@ -800,7 +796,7 @@ POSTI DI PROFESSORE STRAORDINARIO E ORDINARIO DI RUOLO
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Posti Facolta' di medicina e chirurgia . . . . . . . . . . . . . . . . . 33 Facolta' di giurisprudenza . . . . . . . . . . . . . . . . . . . . 18 Facolta' di economia e commercio . . . . . . . . . . . . . . . . . 19 Facolta' di scienze politiche. . . . . . . . . . . . . . . . . . . 13 Facolta' di lettere e filosofia. . . . . . . . . . . . . . . . . . 13 Facolta' di lingue e letterature straniere moderne . . . . . . . . 10 Facolta' di architettura . . . . . . . . . . . . . . . . . . . . . 16
 
-##### Tabella D
+#### Tabella D
 
 TABELLA D
 
@@ -874,7 +870,7 @@ tecnici e ausiliari
 
 Usciere . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . -
 
-##### Tabella E
+#### Tabella E
 
 TABELLA E
 
@@ -884,7 +880,7 @@ POSTI DI PROFESSORE STRAORDINARIO E ORDINARIO DI RUOLO
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Posti Facolta' di economia e commercio . . . . . . . . . . . . . . . . . 19
 
-##### Tabella F
+#### Tabella F
 
 TABELLA F
 
@@ -918,7 +914,7 @@ tecnici e ausiliari
 
 Bidello . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . - Conducente. . . . . . . . . . . . . . . . . . . . . . . . . . . . . - Portiere. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 Custode . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . -
 
-##### Tabella G
+#### Tabella G
 
 TABELLA G
 
@@ -928,7 +924,7 @@ POSTI DI PROFESSORE STRAORDINARIO E ORDINARIO DI RUOLO
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Posti Facolta' di medicina e chirurgia . . . . . . . . . . . . . . . . . 33 Facolta' di ingegneria . . . . . . . . . . . . . . . . . . . . . . 14 Facolta' di economia e commercio . . . . . . . . . . . . . . . . . 19
 
-##### Tabella H
+#### Tabella H
 
 TABELLA H
 
@@ -1002,7 +998,7 @@ tecnici e ausiliari
 
 Usciere . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
 
-##### Tabella I
+#### Tabella I
 
 TABELLA I
 
@@ -1012,7 +1008,7 @@ POSTI DI PROFESSORE STRAORDINARIO E ORDINARIO DI RUOLO
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Posti Facolta' di scienze economiche e sociali . . . . . . . . . . . . . 15 Facolta' di agraria. . . . . . . . . . . . . . . . . . . . . . . . 20
 
-##### Tabella L
+#### Tabella L
 
 TABELLA L
 
@@ -1086,7 +1082,7 @@ tecnici e ausiliari
 
 Usciere . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
 
-##### Tabella M
+#### Tabella M
 
 TABELLA M
 
@@ -1096,7 +1092,7 @@ POSTI DI PROFESSORE STRAORDINARIO E ORDINARIO DI RUOLO
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Posti Facolta' di architettura . . . . . . . . . . . . . . . . . . . . . 29 Facolta' di agraria. . . . . . . . . . . . . . . . . . . . . . . . 30 Facolta' di ingegneria . . . . . . . . . . . . . . . . . . . . . . 14 Facolta' di medicina e chirurgia . . . . . . . . . . . . . . . . . 33 Facolta' di giurisprudenza . . . . . . . . . . . . . . . . . . . . 25
 
-##### Tabella N
+#### Tabella N
 
 TABELLA N (\*)
 
@@ -1172,7 +1168,7 @@ Usciere . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
 
 (\*) La dotazione organica di cui alla presente tabella e' integrata dai posti che alla data di entrata in vigore della presente legge risultano assegnati all'lstituto universitario statale d'architettura.
 
-##### Tabella O
+#### Tabella O
 
 TABELLA O (\*)
 
@@ -1186,7 +1182,7 @@ POSTI DI PROFESSORE STRAORDINARIO E ORDINARIO DI RUOLO
 
 (\*\*) La facolta' di economia e commercio conserva la dotazione organica che alla data di entrata in vigore della presente legge risulta assegnata per detta facolta' all'Universita' di Padova.
 
-##### Tabella P
+#### Tabella P
 
 TABELLA P (\*)
 
@@ -1262,7 +1258,7 @@ Usciere . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
 
 (\*) La dotazione organica di cui alla presente tabella e' integrata dai posti che alla data di entrata in vigore della presente legge risultano ricoperti dal personale ivi in servizio dipendente dall'Universita' di Padova.
 
-##### Tabella Q
+#### Tabella Q
 
 TABELLA Q
 
@@ -1272,7 +1268,7 @@ POSTI DI PROFESSORE STRAORDINARIO E ORDINARIO DI RUOLO
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Posti Facolta' di sociologia . . . . . . . . . . . . . . . . . . . . . . 20 Facolta' di scienze matematiche, fisiche e naturali. . . . . . . . 36 Facolta' di ingegneria . . . . . . . . . . . . . . . . . . . . . . 25 Facolta' di economia e commercio . . . . . . . . . . . . . . . . . 30 Facolta' di lettere e filosofia. . . . . . . . . . . . . . . . . . 18 Facolta' di giurisprudenza . . . . . . . . . . . . . . . . . . . . 13
 
-##### Tabella R
+#### Tabella R
 
 TABELLA R
 

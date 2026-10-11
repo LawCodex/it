@@ -28,7 +28,7 @@ la seguente legge:
 
 ## TITOLO I - ESAMI DI ABILITAZIONE E CONCORSI
 
-##### Art. 1 - Abilitazione all'insegnamento ed accesso ai ruoli del personale docente ed educativo
+#### Art. 1 - Abilitazione all'insegnamento ed accesso ai ruoli del personale docente ed educativo
 
 L'accesso ai ruoli del personale docente della scuola materna, elementare, secondaria, dei licei artistici e degli istituti d'arte, del personale educativo delle istituzioni educative statali, avviene mediante concorsi per esami, integrati dalla valutazione dei titoli di studio e degli eventuali titoli accademici, scientifici e professionali nonche', per gli insegnamenti di natura artistico-professionale, anche dei titoli artistico-professionali e, per le scuole e per le classi di concorso per le quali sia prescritto, del titolo di abilitazione all'insegnamento, ove gia' posseduto. Qualora sia richiesto tale titolo, le prove scritte e orali dei concorsi hanno anche funzione di esame di abilitazione per i candidati che ne siano sprovvisti. Tale funzione e' mantenuta sino al secondo anno successivo alla scadenza del quadriennio previsto dall'articolo 10, ultimo comma, della legge 21 febbraio 1980, n. 28, ai fini della valutazione dei risultati della sperimentazione organizzativa e didattica nelle universita', termine entro il quale saranno definite, con apposito provvedimento legislativo, nuove procedure per il conseguimento dell'abilitazione all'insegnamento presso le predette universita'.
 
@@ -58,7 +58,7 @@ Il Ministro della pubblica istruzione e' autorizzato a provvedere, con proprio d
 
 Tra i titoli di studio riconosciuti validi ai fini dell'ammissione agli esami di abilitazione all'insegnamento dell'educazione musicale saranno previsti anche gli attestati finali di corsi musicali straordinari di durata complessiva di studi non inferiore a sette anni svolti presso i Conservatori di musica e gli istituti musicali pareggiati. A decorrere dall'anno scolastico successivo a quello in corso alla data di entrata in vigore della presente legge, i programmi di detti corsi straordinari debbono essere approvati dal Ministro della pubblica istruzione, sentito il Consiglio nazionale della pubblica istruzione.
 
-##### ART. 2 - Prove e modalita' di svolgimento dei concorsi
+#### ART. 2 - Prove e modalita' di svolgimento dei concorsi
 
 I concorsi constano di una o piu' prove scritte, grafiche o pratiche e di una prova orale.
 
@@ -100,7 +100,7 @@ Ai fini della conferma in ruolo i docenti, al termine dell'anno di formazione, d
 
 Il disposto di cui dal precedente comma non si applica al personale educativo dei convitti nazionali, degli educandati femminili dello Stato, dei convitti annessi agli istituti tecnici e professionali e dell'Accademia nazionale di danza.
 
-##### ART. 3 - Composizione delle commissioni giudicatrici
+#### ART. 3 - Composizione delle commissioni giudicatrici
 
 Le commissioni giudicatrici, nominate rispettivamente, a seconda delle competenze stabilite dal precedente articolo 1, dal Ministro della pubblica istruzione, dal sovrintendente scolastico regionale ed interregionale e dal provveditore agli studi, sono presiedute da un professore universitario o da un preside o direttore didattico o da un ispettore tecnico e sono composte da due docenti di ruolo con almeno cinque anni di anzianita' nel ruolo, titolari degli insegnamenti cui si riferisce il concorso ed in possesso dei requisiti stabiliti dal Ministro della pubblica istruzione, sentito il Consiglio nazionale della pubblica istruzione.
 
@@ -118,23 +118,23 @@ In tal caso esse si costituiscono in sottocommissioni, alle quali e' preposto il
 
 ((Alla sostituzione dei presidenti e dei componenti le commissioni e le sottocommissioni giudicatrici, rinunciatari o decaduti dalla nomina, provvede l'ufficio scolastico preposto allo svolgimento delle procedure concorsuali)).
 
-##### ART. 4 - Norme ulteriori per la nomina delle commissioni giudicatrici dei concorsi
+#### ART. 4 - Norme ulteriori per la nomina delle commissioni giudicatrici dei concorsi
 
 ((Il Ministro della pubblica istruzione, con propria ordinanza, emana le disposizioni necessarie per la presentazione delle domande da parte dei docenti che aspirano ad essere nominati componenti le commissioni giudicatrici dei concorsi)).
 
 In caso di impossibilita' di procedere ai sensi del precedente articolo si applica il disposto di cui all'ultimo comma dell'articolo 12 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417.
 
-##### ART. 5 - Esoneri e compensi
+#### ART. 5 - Esoneri e compensi
 
 I presidenti ed i componenti le commissioni giudicatrici, di cui al precedente articolo 3, sono esonerati dagli obblighi di servizio per il periodo di svolgimento del concorso.
 
 In sede di prima applicazione della presente legge e comunque sino a quando non saranno modificate le norme di cui al decreto del Presidente della Repubblica 11 gennaio 1956, n. 5, ai membri delle commissioni giudicatrici degli esami di abilitazione e dei concorsi di cui al presente titolo nonche' dei concorsi di reclutamento del personale ispettivo e direttivo di cui al titolo II del decreto del Presidente della Repubblica 31 maggio 1974, n. 417, e successive modificazioni, vengono corrisposti i compensi previsti dal citato decreto del Presidente della Repubblica 11 gennaio 1956, n. 5, e successive modificazioni, in misura triplicata. Il compenso al presidente e' determinato con riferimento ad una sola sottocommissione con il maggior numero di candidati.
 
-##### ART. 6 - Commissione sindacale presso gli uffici scolastici regionali ed interregionali
+#### ART. 6 - Commissione sindacale presso gli uffici scolastici regionali ed interregionali
 
 Presso ciascun ufficio scolastico regionale ed interregionale si costituisce una commissione sindacale con i criteri di composizione e di funzionamento previsti dall'articolo 24 della legge 9 agosto 1978, n. 463, in relazione alle attribuzioni conferite ai sovrintendenti scolastici dalla presente legge.
 
-##### ART. 7
+#### ART. 7
 
 (Accesso ai ruoli del personale docente, assistente, delle assistenti educatrici, degli accompagnatori al pianoforte e dei pianisti
 
@@ -168,7 +168,7 @@ Espletate le operazioni di assegnazione definitiva di sede al personale immesso 
 
 Le norme in vigore relative all'accesso ai ruoli del personale contemplato dal presente articolo sono abrogate.
 
-##### ART. 8
+#### ART. 8
 
 (Prove e modalita' di svolgimento dei concorsi per l'accesso ai ruoli del personale direttivo, docente, assistente, delle assistenti educatrici, degli accompagnatori al pianoforte e dei pianisti
 
@@ -186,7 +186,7 @@ I concorsi per l'accesso ai ruoli del personale direttivo dei conservatori di mu
 
 Per quanto riguarda le modalita' di svolgimento dei concorsi, gli orientamenti programmatici per le prove di esame e i titoli valutabili si applicano le disposizioni contenute nel titolo secondo, capo terzo, del decreto del Presidente della Repubblica 31 maggio 1974, n. 417.
 
-##### ART. 9
+#### ART. 9
 
 ((Le commissioni giudicatrici dei concorsi per l'accesso ai ruoli del personale di cui al primo comma dell'articolo 7 della presente legge, nominate dal Ministro della pubblica istruzione, sono presiedute da un direttore di ruolo o, in mancanza, da un docente di ruolo del medesimo istituto, incaricato della direzione da almeno tre anni, e composte da due docenti di ruolo con almeno cinque anni di anzianita' nel ruolo, titolari degli insegnamenti cui si riferisce il concorso.
 
@@ -204,19 +204,17 @@ Ai fini di cui al precedente comma si applicano le disposizioni dell'articolo 5 
 
 Per i concorsi relativi a particolari discipline, in caso di mancanza di docenti titolari dell'insegnamento, la nomina puo' essere conferita a docenti di ruolo titolari dell'insegnamento di discipline affini, ovvero, ove cio' non sia possibile, a persone esperte estranee alla scuola)).
 
-##### ART. 10 - Personale assistente delle Accademie di belle arti non di ruolo
+#### ART. 10 - Personale assistente delle Accademie di belle arti non di ruolo
 
 Per il personale assistente delle Accademie di belle arti non di ruolo sono abrogate le norme di assunzione previste dalla legge 11 ottobre 1960, n. 1178. Ad esso si applicano le medesime disposizioni previste per il personale docente.
 
-##### ART. 11 - Norma di rinvio
+#### ART. 11 - Norma di rinvio
 
 Per il reclutamento del personale docente ed assistente delle istituzioni scolastiche aventi particolari finalita' si applicano le norme di cui al decreto del Presidente della Repubblica 31 ottobre 1975, n. 970.
 
-## TITOLO II - DOTAZIONI ORGANICHE DEL PERSONALE DOCENTE DELLA SCUOLA MATERNA,
+## TITOLO II - DOTAZIONI ORGANICHE DEL PERSONALE DOCENTE DELLA SCUOLA MATERNA, ELEMENTARE, SECONDARIA, DEI LICEI ARTISTICI E DEGLI ISTITUTI D'ARTE E MODIFICHE DI DISPOSIZIONI VARIE CONNESSE CON IL PRECARIATO
 
-### ELEMENTARE, SECONDARIA, DEI LICEI ARTISTICI E DEGLI ISTITUTI D'ARTE E - MODIFICHE DI DISPOSIZIONI VARIE CONNESSE CON IL PRECARIATO
-
-##### ART. 12 - Dotazioni organiche
+#### ART. 12 - Dotazioni organiche
 
 Le dotazioni organiche dei ruoli provinciali della scuola materna e della scuola elementare, nonche' le dotazioni organiche dei ruoli provinciali della scuola media e le dotazioni organiche dei ruoli nazionali degli istituti e scuole di istruzione secondaria superiore, dei licei artistici e degli istituti d'arte sono definite secondo le disposizioni vigenti.
 
@@ -236,7 +234,7 @@ Per la scuola media la ripartizione dei posti di sostegno a favore degli alunni 
 
 Le disposizioni contenute nel presente articolo si applicano con riferimento al 31 marzo dell'anno scolastico successivo a quello in corso alla data di entrata in vigore della presente legge.
 
-##### ART. 13 - Determinazione di dotazioni aggiuntive all'organico
+#### ART. 13 - Determinazione di dotazioni aggiuntive all'organico
 
 Le dotazioni organiche determinate ai sensi del precedente articolo 12 sono aumentate di una dotazione aggiuntiva risultante dalla applicazione di un incremento percentuale medio del 5 per cento, calcolato sulla consistenza complessiva delle predette dotazioni organiche, fatta salva la determinazione in cifra assoluta, stabilita dal successivo articolo 20, per la prima applicazione della presente legge.
 
@@ -256,7 +254,7 @@ Per la scuola media e per gli istituti e scuole di istruzione secondaria superio
 
 E' abrogata la legge 27 novembre 1954, n. 1170, relativa all'istituzione dei ruoli in soprannumero dei maestri delle scuole elementari statali. L'assorbimento dei docenti dei ruoli in soprannumero nelle dotazioni aggiuntive ha luogo soltanto dopo l'effettuazione delle nomine relative sia ai posti disponibili nelle dotazioni organiche previste dalle norme vigenti alla data di entrata in vigore della presente legge sia ai posti da conferire per le dotazioni aggiuntive ai sensi del successivo articolo 20.
 
-##### ART. 14 - Utilizzazione del personale docente di ruolo
+#### ART. 14 - Utilizzazione del personale docente di ruolo
 
 La utilizzazione dei docenti delle dotazioni aggiuntive deve contribuire nella scuola elementare e media, e per quanto compatibile anche nella scuola materna, a realizzare una programmazione educativa secondo quanto previsto dalla legge 4 agosto 1977, n. 517, assicurando peraltro il soddisfacimento in via prioritaria, nell'ordine, delle seguenti esigenze:
 
@@ -302,7 +300,7 @@ AGGIORNAMENTO (1)
 
 La L. 16 luglio 1984 n. 326 ha disposto (con l'art. 11) che il comma 10 del presente articolo per la spesa relativa alle retribuzioni spettanti al personale utilizzato presso istituzioni, enti ed associazioni, diversi dagli organi dell'amministrazione scolastica, deve essere interpretato nel senso che per i comandi disposti presso enti o associazioni aventi personalita' giuridica, la spesa per le retribuzioni spettanti al personale comandato rimane a carico del bilancio dello Stato.
 
-##### ART. 15 - Conferimento di supplenze annuali
+#### ART. 15 - Conferimento di supplenze annuali
 
 Per la copertura delle cattedre e dei posti di insegnamento vacanti entro il 31 dicembre e per l'intera durata dell'anno scolastico, qualora non sia possibile provvedere mediante il personale docente di ruolo delle dotazioni aggiuntive, ai sensi del precedente articolo 14, il provveditore agli studi conferisce supplenze annuali sulla base delle graduatorie provinciali compilate ai sensi dell'articolo 2 della legge 9 agosto 1978, n. 463.
 
@@ -330,13 +328,13 @@ AGGIORNAMENTO (9)
 
 Il D.L. 3 maggio 1989 n. 357, convertito con modificazioni dalla L. 27 dicembre 1989, n. 417 (in G.U. 2/1/1990, n. 1), ha disposto (con l'art. 14) che "Il disposto del nono comma dell'articolo 15 della legge 20 maggio 1982, n. 270, si interpreta nel senso che per l'insegnamento nei corsi per adulti finalizzati al conseguimento di titoli di studio, ivi compresi i corsi sperimentali di scuola media per lavoratori, si provvede esclusivamente mediante personale docente di ruolo, purche' nell'ambito della provincia sia comunque disponibile personale docente di ruolo in soprannumero o personale docente delle dotazioni organiche aggiuntive".
 
-##### ART. 16 - Competenze in materia di assunzione di personale non di ruolo per gli insegnamenti di arte applicato
+#### ART. 16 - Competenze in materia di assunzione di personale non di ruolo per gli insegnamenti di arte applicato
 
 L'articolo 17 della legge 9 agosto 1978, n. 463, e' modificato nel senso che per gli insegnamenti di arte applicata, per i quali non sono previsti titoli di studio, tutte le competenze in materia di assunzione di personale non di ruolo, ivi compresa quella relativa al contenzioso, sono devolute al provveditore agli studi.
 
 L'accertamento e la valutazione dei titoli professionali sono affidati dal provveditore agli studi competente ad una commissione presieduta da un preside di istituto d'arte estratto a sorte e composta da due insegnanti, di cui uno titolare di cattedra artistico-professionale, relativa al corrispondente posto di insegnamento di arte applicata.
 
-##### ART. 17 - Supplenze brevi
+#### ART. 17 - Supplenze brevi
 
 Negli istituti e scuole di istruzione secondaria, nei licei artistici e negli istituti d'arte, i docenti di ruolo e non di ruolo sono tenuti a supplire i docenti che si assentino per non piu' di sei giorni, anche in eccedenza all'orario settimanale obbligatorio d'insegnamento di 18 ore, previsto dall'articolo 88 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417, e sino ad un massimo di tre ore aggiuntive al predetto orario.
 
@@ -344,7 +342,7 @@ Le ore eccedenti l'orario settimanale obbligatorio sono retribuite secondo le di
 
 Il preside designa il docente, chiamato ai sensi del precedente primo comma a sostituire il collega assente, ove possibile, tra i docenti della medesima classe o della medesima disciplina, tenendo conto dell'esigenza di assicurare uniformita' di trattamento ai docenti in servizio nella scuola.
 
-##### ART. 18 - Modifiche alla normativa in materia di comandi
+#### ART. 18 - Modifiche alla normativa in materia di comandi
 
 A partire dall'inizio dell'anno scolastico 1983-84 sono soppressi i comandi previsti dall'articolo 79 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417, con esclusione dei comandi previsti da altre norme di legge speciali, che rimangono fermi nel numero disposto in base a ciascuna di esse.
 
@@ -358,7 +356,7 @@ Per gli incarichi, di cui all'articolo 65 del citato decreto del Presidente dell
 
 Per gli incarichi ispettivi di cui all'articolo 119, ultimo comma, del decreto del Presidente della Repubblica 31 maggio 1974, n. 417, l'esonero dal servizio e' limitato ai giorni effettivamente necessari per l'espletamento dell'incarico.
 
-##### ART. 19 - Trasferimenti e assegnazioni provvisorie
+#### ART. 19 - Trasferimenti e assegnazioni provvisorie
 
 I trasferimenti nell'ambito della provincia sono disposti con precedenza rispetto ai trasferimenti da altra provincia.
 
@@ -380,7 +378,7 @@ Le assegnazioni provvisorie possono essere disposte soltanto per posti ai quali 
 
 Ad integrazione di quanto previsto dal primo comma dell'articolo 59 della legge 11 luglio 1980, n. 312, hanno titolo a chiedere l'assegnazione provvisoria di sede anche gli insegnanti trasferiti d'ufficio per soppressione di posto.
 
-##### ART. 20 - Prima applicazione delle dotazioni aggiuntive
+#### ART. 20 - Prima applicazione delle dotazioni aggiuntive
 
 In prima applicazione della presente legge le dotazioni aggiuntive della scuola materna sono determinate in numero di 5.500 unita' complessive; le dotazioni aggiuntive della scuola elementare sono determinate in numero di 36.000 unita' complessive; le dotazioni aggiuntive della scuola, media sono determinate in numero di 47.000 unita' complessive; le dotazioni aggiuntive degli istituti e scuole di istruzione secondaria superiore, dei licei artistici e degli istituti d'arte sono determinate in numero corrispondente a quello delle unita' di personale in soprannumero, risultante anche per effetto delle immissioni in ruolo previste dalla presente legge.
 
@@ -398,17 +396,15 @@ Il restante 50 per cento dei posti compresi nelle dotazioni aggiuntive della scu
 
 ## TITOLO III - NORME TRANSITORIE DI IMMISSIONE IN RUOLO
 
-### CAPO I.
+### CAPO I. - IMMISSIONE NEI RUOLI DELLA SCUOLA MATERNA STATALE
 
-#### IMMISSIONE NEI RUOLI DELLA SCUOLA MATERNA STATALE
-
-##### ART. 21 - Insegnanti abilitati non di ruolo della scuola materna statale con proroga dell'incarico nell'anno scolastico 1979-1980
+#### ART. 21 - Insegnanti abilitati non di ruolo della scuola materna statale con proroga dell'incarico nell'anno scolastico 1979-1980
 
 Gli insegnanti incaricati nelle scuole materne statali, gia' forniti della prescritta abilitazione, i quali abbiano fruito della proroga dell'incarico annuale per effetto del decreto-legge 6 settembre 1979, n. 434, convertito, con modificazioni, nella legge 8 novembre 1979, n. 566, sono immessi in ruolo con decorrenza giuridica dal 1 settembre 1981.
 
 Agli insegnanti immessi in ruolo per effetto del comma precedente la sede di servizio sara' assegnata nell'ambito provinciale, secondo la loro collocazione nella graduatoria provinciale, in base alla quale fu loro conferito l'incarico, a partire dall'anno scolastico 1983-1984.
 
-##### ART. 22 - Insegnanti abilitati non di ruolo della scuola materna statale con incarico annuale nell'anno scolastico 1979-1980
+#### ART. 22 - Insegnanti abilitati non di ruolo della scuola materna statale con incarico annuale nell'anno scolastico 1979-1980
 
 Gli insegnanti incaricati nelle scuole materne statali, gia' forniti della prescritta abilitazione, i quali abbiano svolto un incarico annuale di insegnamento nell'anno scolastico 1979-80, sono immessi in ruolo con decorrenza giuridica dal 1 settembre 1982.
 
@@ -416,7 +412,7 @@ Agli insegnanti immessi in ruolo per effetto del comma precedente la sede di ser
 
 L'assegnazione della sede e' disposta secondo modalita' analoghe a quelle previste dal medesimo articolo 21.
 
-##### ART. 23
+#### ART. 23
 
 (Sessione riservala di esami per il conseguimento dell'abilitazione
 
@@ -430,7 +426,7 @@ Per quanto non previsto dal presente articolo si applicano le disposizioni del p
 
 Alla sessione riservata degli esami di abilitazione di cui al precedente primo comma sono ammessi gli insegnanti nelle scuole materne statali, non provvisti della prescritta abilitazione, in servizio con incarico nell'anno scolastico 1980-1981.
 
-##### ART. 24 - Insegnanti incaricati non abilitati della scuola materna statale con proroga dell'incarico nell'anno scolastico 1979-1980
+#### ART. 24 - Insegnanti incaricati non abilitati della scuola materna statale con proroga dell'incarico nell'anno scolastico 1979-1980
 
 Gli insegnanti incaricati nelle scuole materne statali, i quali abbiano fruito dalla proroga dell'incarico annuale per effetto del decreto-legge 6 settembre 1979, n. 434, convertito, con modificazioni, nella legge 8 novembre 1979, n. 566, ed abbiano conseguito l'abilitazione all'insegnamento ai sensi del precedente articolo 23 o a seguito dell'ultimo concorso ordinario espletato prima dell'entrata in vigore della presente legge, sono immessi in ruolo con decorrenza giuridica dal 1 settembre 1983.
 
@@ -442,7 +438,7 @@ Gli insegnanti incaricati, di cui al presente articolo, sono mantenuti in serviz
 
 Coloro che conseguono l'abilitazione sono ulteriormente mantenuti in servizio sino all'immissione in ruolo prevista dal presente articolo.
 
-##### ART. 25 - Insegnanti incaricati non abilitati della scuola materna statale con incarico annuale nell'anno scolastico 1979-1980
+#### ART. 25 - Insegnanti incaricati non abilitati della scuola materna statale con incarico annuale nell'anno scolastico 1979-1980
 
 Gli insegnanti incaricati nelle scuole materne statali, i quali abbiano svolto un incarico annuale di insegnamento nell'anno scolastico 1979-80 ed abbiano conseguito l'abilitazione all'insegnamento ai sensi del precedente articolo 23 o a seguito dell'ultimo concorso ordinario espletato prima dell'entrata in vigore della presente legge sono immessi in ruolo con decorrenza giuridica dal 1 settembre 1984.
 
@@ -452,7 +448,7 @@ Gli insegnanti incaricati, di cui al presente articolo, sono mantenuti in serviz
 
 Coloro che conseguono l'abilitazione sono ulteriormente mantenuti in servizio sino all'immissione in ruolo prevista dal presente articolo.
 
-##### ART. 26 - Assistenti del ruolo ad esaurimento
+#### ART. 26 - Assistenti del ruolo ad esaurimento
 
 Le assistenti di scuola materna, di cui all'articolo 8 della legge 9 agosto 1978, n. 463, in possesso del prescritto titolo di studio, che non abbiano conseguito la abilitazione nell'ultimo concorso ordinario espletato prima dell'entrata in vigore della presente legge, conseguono l'abilitazione mediante colloqui da indire negli anni 1982 e 1983.
 
@@ -462,7 +458,7 @@ Le predette assistenti sono nominate nei ruoli degli insegnanti delle scuole mat
 
 L'assegnazione della sede sara' disposta, contestualmente alla nomina, nell'ambito provinciale, con precedenza rispetto agli insegnanti da immettere in ruolo con la medesima decorrenza per effetto della presente legge.
 
-##### ART. 27 - Insegnanti supplenti della scuola materna statale
+#### ART. 27 - Insegnanti supplenti della scuola materna statale
 
 Gli insegnanti che abbiano svolto due anni di servizio di insegnamento non di ruolo nella scuola materna statale nel sessennio antecedente al 1 settembre 1981 nonche' gli insegnanti che abbiano conseguito, nei concorsi di accesso ai ruoli della scuola materna statale, una votazione media non inferiore al punteggio corrispondente a sette decimi e che abbiano svolto almeno 180 giorni di servizio, anche non continuativi, nel medesimo sessennio, hanno titolo ad una riserva de 50 per cento dei posti da conferire con il primo concorso ordinario indetto dopo l'entrata in vigore della presente legge, a sensi del precedente articolo 20.
 
@@ -480,7 +476,7 @@ AGGIORNAMENTO (1)
 
 La L. 16 luglio 1984 n. 326 ha disposto (con l'art. 1) che "il secondo comma del presente articolo e' modificato nel senso che le immissioni in ruolo, ivi previste, sono disposte gradualmente, a partire dall'inizio dell'anno scolastico 1984-1985", inoltre ha disposto (con l'art. 19) che al secondo comma del presente articolo "nel quinquennio antecedente alla data del 1 settembre 1981" e' sostituita da "nel sessennio antecedente alla data del 1 settembre 1981".
 
-##### ART. 28 - Insegnanti assunti per il completamento di orario nella scuola materna
+#### ART. 28 - Insegnanti assunti per il completamento di orario nella scuola materna
 
 Agli insegnanti che abbiano prestato servizio per almeno un anno scolastico nel periodo che va dall'anno scolastico 1974-75 al 1977-78, a seguito di assunzione per il completamento di orario delle sezioni di scuola materna statale, nonche' per un ulteriore anno scolastico nel periodo intercorrente tra l'anno scolastico 1974-75 e l'anno scolastico 1980-81 incluso, si applicano le disposizioni di cui ai precedenti articoli 22, 23 e 25, a seconda che siano abilitati o non abilitati.
 
@@ -488,15 +484,15 @@ Agli insegnanti medesimi non si applica il disposto di cui al primo comma del su
 
 Gli anni scolastici sono computati secondo quanto disposto dal precedente articolo 27, penultimo e ultimo comma.
 
-## CAPO II. - IMMISSIONE NEI RUOLI DELLA SCUOLA ELEMENTARE STATALE
+### CAPO II. - IMMISSIONE NEI RUOLI DELLA SCUOLA ELEMENTARE STATALE
 
-##### ART. 29 - Insegnanti non di ruolo della scuola elementare statale con proroga dell'incarico nell'anno scolastico 1979-1980
+#### ART. 29 - Insegnanti non di ruolo della scuola elementare statale con proroga dell'incarico nell'anno scolastico 1979-1980
 
 Gli insegnanti incaricati nella scuola elementare statale nonche' gli insegnanti e gli assistenti dell'istituto "Augusto Romagnoli" che abbiano fruito della proroga dell'incarico annuale per effetto del decreto-legge 6 settembre 1979, n. 434, convertito, con modificazioni, nella legge 8 novembre 1979, n. 566, sono immessi in ruolo con decorrenza giuridica dalla data del 10 settembre 1981.
 
 Agli insegnanti immessi in ruolo per effetto del precedente comma, la sede di servizio sara' assegnata nell'ambito provinciale, secondo la loro collocazione nella graduatoria provinciale, in base alla quale fu loro conferito l'incarico, a partire dall'anno scolastico 1983-1984.
 
-##### ART. 30 - Insegnanti non di ruolo della scuola elementare statale con incarico annuale nell'anno scolastico 1979-80
+#### ART. 30 - Insegnanti non di ruolo della scuola elementare statale con incarico annuale nell'anno scolastico 1979-80
 
 Gli insegnanti incaricati nella scuola elementare statale, che abbiano svolto un incarico annuale di insegnamento nell'anno scolastico 1979-1980, sono immessi in ruolo con decorrenza giuridica dal 10 settembre 1982.
 
@@ -504,7 +500,7 @@ Agli insegnanti immessi in ruolo per effetto del comma precedente, la sede di se
 
 L'assegnazione della sede e' disposta secondo modalita' analoghe a quelle previste dal medesimo articolo 29.
 
-##### ART. 31 - Insegnanti supplenti della scuola elementare statale
+#### ART. 31 - Insegnanti supplenti della scuola elementare statale
 
 Gli insegnanti che abbiano svolto due anni di servizio di insegnamento non di ruolo nella scuola elementare statale nel sessennio antecedente al 10 settembre 1981, nonche' gli insegnanti che abbiano conseguito, nei concorsi di accesso ai ruoli della scuola elementare statale, una votazione media non inferiore al punteggio corrispondente a sette decimi e che abbiano svolto almeno 180 giorni di servizio, anche non continuativi, nel medesimo sessennio, hanno titolo ad una riserva del 50 per cento dei posti da conferire con il primo concorso ordinario indetto dopo la entrata in vigore della presente legge, ai sensi del precedente Articolo 20.
 
@@ -526,7 +522,7 @@ AGGIORNAMENTO (6)
 
 La Corte Costituzionale con sentenza 24 marzo-7 aprile 1988, n. 399 (in G.U. 1a s.s. 13/4/1988, n. 15) ha dichiarato l'illegittimita' costituzionale del presente articolo "nella parte in cui non prevede la riserva di posti nei concorsi magistrali, anche per gli insegnanti supplenti nella scuola popolare."
 
-##### ART. 32 - Particolari categorie di insegnanti elementari
+#### ART. 32 - Particolari categorie di insegnanti elementari
 
 Il servizio prestato dagli insegnanti di scuola elementare, nominati in ruolo per effetto del concorso magistrale indetto ai sensi dell'ordinanza ministeriale del 20 marzo 1975, n. 68, la cui nomina e' stata poi revocata a seguito di pronuncia giurisdizionale, e' da considerare a tutti gli effetti come servizio prestato con incarico a tempo indeterminato, valido ai fini dell'applicazione dell'articolo 10, ultimo comma, della legge 9 agosto 1978, n. 463.
 
@@ -534,11 +530,9 @@ Analogamente, il servizio prestato dagli insegnanti di scuola materna nominati i
 
 Restano ferme le nomine in ruolo e le assegnazioni di sede effettuate prima della data di entrata in vigore della presente legge.
 
-## CAPO III. - IMMISSIONE NEI RUOLI DELLA SCUOLA SECONDARIA E DEGLI ISTITUTI DI
+### CAPO III. - IMMISSIONE NEI RUOLI DELLA SCUOLA SECONDARIA E DEGLI ISTITUTI DI ISTRUZIONE ARTISTICA STATALI
 
-### ISTRUZIONE ARTISTICA STATALI
-
-##### ART. 33
+#### ART. 33
 
 (Insegnanti della scuola secondaria e degli istituti di istruzione
 
@@ -572,7 +566,7 @@ AGGIORNAMENTO (2)
 
 La L. 25 luglio 1985 n. 402 ha disposto (con l'art. unico) che l' articolo 33 della legge 20 maggio 1982, n. 270, si intende riferito anche ai docenti incaricati dei corsi straordinari dell'Accademia nazionale di danza.
 
-##### ART. 34
+#### ART. 34
 
 (Insegnanti non di ruolo abilitati della scuola secondaria e degli
 
@@ -592,7 +586,7 @@ AGGIORNAMENTO (2)
 
 La L. 25 luglio 1985 n. 402 ha disposto (con l'art. unico) che l' articolo 34 della legge 20 maggio 1982, n. 270, si intende riferito anche ai docenti incaricati dei corsi straordinari dell'Accademia nazionale di danza.
 
-##### ART. 35
+#### ART. 35
 
 (Sessione riservata di esami per il conseguimento dell'abilitazione
 
@@ -612,7 +606,7 @@ AGGIORNAMENTO (4)
 
 La Corte Costituzionale (in s.s. relativa alla G.U. 3/12/1986 n. 57) ha dichiarato con sentenza l'illegittimita' costituzionale "dell'art. 35 nella parte in cui non consentono ai supplenti in servizio nella scuola ordinaria di usufruire del trattamento disposto a favore dei supplenti nei corsi CRACIS ex art. 46, secondo comma, della stessa legge n. 270 del 1982", e in particolare in relazione "al quarto comma dello stesso articolo, nella parte in cui non prevede l'estensione agli insegnanti in servizio con titolo di supplenza annuale nell'anno scolastico 1981-82 dei benefici ivi disposti per gli insegnanti in servizio con titolo di incarico nell'anno scolastico 1980-81".
 
-##### ART. 36
+#### ART. 36
 
 (Insegnanti incaricati non abilitati della scuola secondaria, dei
 
@@ -630,7 +624,7 @@ Coloro che conseguono l'abilitazione sono ulteriormente mantenuti in servizio si
 
 Il mantenimento in servizio e' limitato al numero delle ore di insegnamento per il quale gli insegnanti, di cui al presente articolo, sono stati incaricati nell'anno scolastico 1981-1982, fermo restando il diritto ad ottenere il completamento di orario con priorita' rispetto agli aspiranti a supplenze annuali ai sensi del precedente articolo 15.
 
-##### ART. 37
+#### ART. 37
 
 (Insegnanti incaricati non abilitati della scuola secondaria, dei
 
@@ -652,7 +646,7 @@ AGGIORNAMENTO (4)
 
 la Corte Costituzionale (in s.s. relativa alla G.U 3/12/1986 n. 57) ha dichiarato L'illegittimita' costituzionale dell'art. 37 nella parte in cui non prevede l'estensione agli insegnanti in servizio con titolo di supplenza annuale nell'anno scolastico 1981-82 dei benefici ivi disposti per gli insegnanti in servizio con titolo di incarico nell'anno scolastico 1980-81, e inoltre nella parte in cui non consente ai supplenti in servizio nella scuola ordinaria di usufruire del trattamento disposto a favore dei supplenti nei corsi CRACIS ex art. 46, secondo comma, della stessa legge n. 270 del 1982.
 
-##### ART. 38 - Insegnanti supplenti della scuola secondaria, dei licei artistici e degli istituti d'arte statali
+#### ART. 38 - Insegnanti supplenti della scuola secondaria, dei licei artistici e degli istituti d'arte statali
 
 Gli insegnanti che abbiano svolto due anni di servizio di insegnamento non di ruolo nelle scuole secondarie, nei licei artistici e negli istituti d'arte statale nel sessennio antecedente al 10 settembre 1981, nonche' gli insegnanti che abbiano conseguito, nei concorsi di accesso ai ruoli delle scuole ed istituti predetti, una votazione media non inferiore al punteggio corrispondente a sette decimi e che abbiano svolto almeno 180 giorni di servizio anche non continuativi, nel medesimo sessennio, hanno titolo ad una riserva del 50 per cento dei posti da conferire con il primo concorso ordinario indetto dopo la entrata in vigore della presente legge, ai sensi del precedente articolo 20.
 
@@ -674,7 +668,7 @@ AGGIORNAMENTO (4)
 
 la Corte Costituzionale (in s.s. relativa alla G.U. 3/12/1986 n. 57) ha dichiarato l'illegittimita' costituzionale dell'art. 38 nella parte in cui non consente ai supplenti in servizio nella scuola ordinaria di usufruire del trattamento disposto a favore dei supplenti nei corsi CRACIS ex art. 46, secondo comma, della stessa legge n. 270 del 1982.
 
-##### ART. 39
+#### ART. 39
 
 (Insegnanti di libere attivita' complementari, insegnanti nei corsi sperimentali di scuola media per lavoratori, insegnanti di discipline musicali nei corsi sperimentali ad indirizzo musicale e insegnanti
 
@@ -682,13 +676,13 @@ nei corsi integrativi degli istituti magistrali e dei licei artistici)
 
 Agli insegnanti di libere attivita' complementari, agli insegnanti nei corsi sperimentali di scuola media per lavoratori, agli insegnanti di discipline musicali nei corsi sperimentali di scuola media ad indirizzo musicale, di cui al decreto del Ministro della pubblica istruzione 3 agosto 1979, e agli insegnanti dei corsi integrativi per i diplomati degli istituti magistrali e dei licei artistici, di cui alla legge 11 dicembre 1969, n. 910, in servizio non di ruolo, si applicano le disposizioni contenute rispettivamente nei precedenti articoli 33, 34, 35, 36 e 37, a seconda dei requisiti di cui sono in possesso e con le medesime modalita' da tali articoli previste.
 
-##### ART. 40 - Passaggi di ruolo
+#### ART. 40 - Passaggi di ruolo
 
 Gli insegnanti elementari di ruolo, che abbiano ottenuto, nell'anno scolastico 1979-1980, il passaggio nei ruoli della scuola media ai sensi dell'articolo 77 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417, e successive modificazioni, passaggio poi revocato per accertata mancanza di posti nei limiti della riserva di cui al medesimo articolo 77, sono immessi nei predetti ruoli della scuola media, con la decorrenza prevista dal precedente articolo 33, comma quarto, nel posto che e' stato ad essi attribuito o che hanno occupato per successivi trasferimenti.
 
-## CAPO IV. - PARTICOLARI CATEGORIE DI PERSONALE DOCENTE
+### CAPO IV. - PARTICOLARI CATEGORIE DI PERSONALE DOCENTE
 
-##### ART. 41 - Esperti negli istituti tecnici e professionali
+#### ART. 41 - Esperti negli istituti tecnici e professionali
 
 Agli esperti negli istituti tecnici, professionali e sperimentali per insegnamenti che sono stati ricondotti in classi di concorso ai sensi del decreto del Ministro della pubblica istruzione 22 febbraio 1979 o di precedenti disposizioni, si applicano, qualora abbiano fruito della proroga della nomina per effetto del decreto-legge 6 settembre 1979, n. 434, convertito, con modificazioni, nella legge 8 novembre 1979, n. 566, e siano forniti della prescritta abilitazione, le disposizioni di cui al precedente articolo 33, quinto comma.
 
@@ -704,7 +698,7 @@ L'immissione in ruolo di cui al quarto comma decorre, agli effetti giuridici, da
 
 Gli insegnanti immessi in ruolo ai sensi del presente articolo possono continuare, a domanda, ad essere utilizzati nelle attivita' che svolgevano in qualita' di esperti.
 
-##### ART. 42
+#### ART. 42
 
 (Insegnanti incaricati sprovvisti di abilitazione specifica o del
 
@@ -716,7 +710,7 @@ Le disposizioni di cui al precedente comma si applicano anche agli insegnanti di
 
 Le disposizioni di cui al precedente articolo 41, commi secondo e terzo, si applicano anche agli insegnanti di strumento musicale negli istituti magistrali.
 
-##### ART. 43 - Docenti di educazione fisica senza titolo
+#### ART. 43 - Docenti di educazione fisica senza titolo
 
 I docenti di educazione fisica e di attivita' ginnico-sportive, sprovvisti del titolo di studio specifico, nominati dai presidi su designazione dei provveditori agli studi, in servizio nell'anno scolastico 1980-1981 e che abbiano almeno tre anni complessivi di servizio, hanno titolo ad essere riassunti nell'anno scolastico 1982-1983, anche in soprannumero, nei limiti delle ore di insegnamento svolte nel predetto anno 1980-81 e nella stessa provincia, salvo il diritto al completamento d'orario. Essi sono mantenuti in servizio fino al conseguimento del titolo di studio e, qualora lo conseguano, sino al conseguimento dell'abilitazione all'insegnamento.
 
@@ -738,7 +732,7 @@ AGGIORNAMENTO (5)
 
 La Corte Costituzionale, con sentenza 10 - 18 febbraio 1988, n. 180 (in G.U. 1a s.s. 24/02/1988, n. 8) ha dichiarato "l'illegittimita' costituzionale dell'art. 43 secondo comma, della l. 20 maggio 1982, n. 270, nella parte in cui non prevede l'ammissione agli appositi corsi speciali, organizzati dall'I.S.E.F. per il conseguimento del titolo di studio, anche dei docenti di educazione fisica e di attivita' ginnico-sportive delle scuole secondarie pareggiate o legalmente riconosciute, che si trovassero in servizio nell'anno scolastico 1980-81 con almeno tre anni complessivi di anzianita'."
 
-##### ART. 44 - Norme particolari per docenti di educazione musicale
+#### ART. 44 - Norme particolari per docenti di educazione musicale
 
 I docenti di educazione musicale, in servizio nell'anno scolastico 1980-1981, i quali siano in possesso dell'attestato finale dei corsi musicali straordinari di cui al precedente articolo 1, ultimo comma, sono ammessi a partecipare alla sessione riservata di esami di abilitazione all'insegnamento, prevista dal precedente articolo 35.
 
@@ -756,7 +750,7 @@ I docenti di educazione musicale, di cui, rispettivamente, al precedente primo c
 
 Il servizio prestato nell'anno scolastico 1980-1981 non deve essere inferiore a 180 giorni o deve, comunque, aver dato diritto alla retribuzione per il periodo estivo.
 
-##### ART. 45 - Disposizioni particolari per gli insegnanti supplenti di discipline comprese nella classe di concorso XXXVI e modifiche nella medesima classe di concorso
+#### ART. 45 - Disposizioni particolari per gli insegnanti supplenti di discipline comprese nella classe di concorso XXXVI e modifiche nella medesima classe di concorso
 
 Agli insegnanti delle materie gia' comprese nelle classi di concorso XII, XXXVI, XXXVII, LXIX, LXX, previste dal decreto del Ministro della pubblica istruzione 2 marzo 1972, e successive modificazioni e integrazioni, in servizio nell'anno scolastico 1979-1980 come supplenti temporanei su cattedre non assegnate a docenti di ruolo o incaricati e che abbiano prestato nel predetto anno almeno 180 giorni di servizio, si applicano le disposizioni di cui ai precedenti articoli 35 e 37.
 
@@ -766,7 +760,7 @@ Con effetto dalla data di entrata in vigore della presente legge, la sezione di 
 
 Gli elenchi delle classi di abilitazione e delle classi di concorso di cui al precitato decreto ministeriale 2 marzo 1972 e successive modificazioni e integrazioni sono modificati in conformita'. Dopo la prima applicazione del presente articolo le eventuali modificazioni ed integrazioni sono disposte secondo la procedura di cui al penultimo comma del precedente articolo 1.
 
-##### ART. 46 - Docenti dei corsi CRACIS e dei corsi di scuola popolare
+#### ART. 46 - Docenti dei corsi CRACIS e dei corsi di scuola popolare
 
 Agli insegnanti che abbiano svolto, negli anni scolastici 1979-1980 o 1980-1981, un corso completo di scuola popolare di tipo A), B), C) e C) speciale ed abbiano svolto un ulteriore corso completo di scuola popolare in un altro anno compreso nel sessennio antecedente alla data del 10 settembre 1981, ovvero abbiano prestato servizio quali incaricati o supplenti nelle scuole elementari statali in un altro anno compreso nel predetto sessennio, per almeno 180 giorni, nonche' agli insegnanti in servizio, nei medesimi anni scolastici 1979-1980 o 1980-1981 nei centri di lettura, nei centri pedagogici e nei centri sociali di educazione permanente statali nelle Regioni a statuto speciale o nelle Province autonome di Trento e di Bolzano, per l'intera durata di funzionamento previsto dalle norme vigenti, i quali abbiano prestato servizio nelle predette istituzioni, per la durata indicata, in un altro anno compreso nel predetto sessennio, ovvero abbiano prestato servizio quali incaricati o supplenti nelle scuole elementari statali in un altro anno compreso nel sessennio stesso per almeno 180 giorni, si applicano le disposizioni di cui al precedente articolo 30.
 
@@ -780,21 +774,21 @@ AGGIORNAMENTO (7)
 
 Il D.L. 3 maggio 1988 n. 140, convertito con modificazioni dalla L. 4 luglio 1988, n. 246 (in G.U. 5/7/1988, n. 156) ha disposto (con l'art. 11 comma 2) che "Nell'articolo 46 della legge 20 maggio 1982, n. 270, primo e secondo comma, agli anni scolastici 1979-80 o 1980-81 si aggiunge l'anno scolastico 1981-82 ed il sessennio antecedente al 10 settembre 1981, ivi previsto, e' sostituito dal settennio antecedente al 10 settembre 1982".
 
-##### ART. 47 - Soppressione della scuola popolare
+#### ART. 47 - Soppressione della scuola popolare
 
 Il decreto legislativo del Capo provvisorio dello Stato 17 dicembre 1947, n. 1599, ratificato con la legge 16 aprile 1953, n. 326, e' abrogato. E' autorizzato il completamento dei corsi programmati per l'anno scolastico 1981-1982.
 
-## CAPO V. - IMMISSIONE IN RUOLO DEL PERSONALE EDUCATIVO
+### CAPO V. - IMMISSIONE IN RUOLO DEL PERSONALE EDUCATIVO
 
-##### ART. 48 - Personale educativo e personale assistente non di ruolo nei ruoli delle istituzioni educative e delle scuole speciali statali
+#### ART. 48 - Personale educativo e personale assistente non di ruolo nei ruoli delle istituzioni educative e delle scuole speciali statali
 
 Al personale educativo incaricato nei convitti nazionali, negli educandati femminili dello Stato e nei convitti annessi agli istituti tecnici e professionali ed agli assistenti-educatori incaricati nelle scuole speciali statali, i quali abbiano fruito della proroga di cui al decreto-legge 6 settembre 1979, n. 434, convertito, con modificazioni, nella legge 8 novembre 1979, n. 566, ovvero abbiano svolto un incarico annuale nell'anno scolastico 1979-1980, si applicano, rispettivamente, le disposizioni di cui ai precedenti articoli 29, primo comma, e 30.
 
 Al predetto personale educativo ed assistente, che negli anni scolastici 1978-1979, 1979-1980 ((1980-81 o 1981-82)) abbia svolto servizio in qualita' di istitutore ed assistente supplente nelle istituzioni di cui al precedente comma ed abbia svolto almeno due anni di servizio ((nel sessennio antecedente al 10 settembre 1981)) , si applicano le disposizioni di cui al precedente articolo 31.
 
-## CAPO VI. - IMMISSIONE IN RUOLO DEL PERSONALE NON DOCENTE
+### CAPO VI. - IMMISSIONE IN RUOLO DEL PERSONALE NON DOCENTE
 
-##### ART. 49 - Personale non docente non di ruolo delle carriere esecutive ed ausiliarie
+#### ART. 49 - Personale non docente non di ruolo delle carriere esecutive ed ausiliarie
 
 Il personale non docente incaricato delle carriere esecutive ed ausiliarie, in servizio alla data del 9 settembre 1981, e' immesso in ruolo, con effetto giuridico dal 10 settembre 1981, e con effetto economico dal 10 settembre 1982.
 
@@ -804,7 +798,7 @@ Nei ruoli dei magazzinieri, degli infermieri, dei cuochi, degli aiutanti cuochi,
 
 Il personale non docente esecutivo ed ausiliario o appartenente alle categorie assimilate che alla data del 10 settembre 1980 abbia prestato per almeno tre anni servizio nelle scuole elementari speciali elencate ai sensi dell'articolo 95 del testo unico delle norme sull'istruzione elementare, approvato con regio decreto 5 febbraio 1928, n. 577, ed abbia cessato o cessi tale attivita' presso le dette scuole in data successiva all'anno scolastico 1977-1978 in conseguenza della soppressione del posto o della chiusura della scuola, ha titolo ad essere trasferito a domanda alle dipendenze dello Stato ed essere inquadrato nel corrispondente ruolo esecutivo o ausiliario secondo le anzianita' possedute.
 
-##### ART. 50 - Personale non docente non di ruolo della carriera di concetto di segreteria
+#### ART. 50 - Personale non docente non di ruolo della carriera di concetto di segreteria
 
 Il personale non docente incaricato della carriera di concetto di segreteria, in servizio alla data del 9 settembre 1981, e' immesso in ruolo, previo superamento di un apposito esame, a decorrere, ai soli effetti giuridici, dal 10 settembre 1981 e, agli effetti economici, dal 10 settembre 1982.
 
@@ -816,7 +810,7 @@ L'assegnazione della sede di servizio sara' disposta in ambito provinciale, seco
 
 Il presente articolo si applica altresi' al personale non docente che ha svolto le mansioni di segretario ai sensi dell'articolo 5 della legge 6 dicembre 1960, numero 1607, e dell'articolo 6 del decreto del Presidente della Repubblica 3 luglio 1964, n. 784.
 
-##### ART. 51 - Norme particolari riguardanti il personale non docente
+#### ART. 51 - Norme particolari riguardanti il personale non docente
 
 Le variazioni dei ruoli organici provinciali del personale non insegnante statale delle scuole ed istituzioni educative sono disposte entro il 31 marzo di ogni anno secondo le modalita' di cui al penultimo comma dell'articolo 5 della legge 9 agosto 1978, n. 463, e tenuto conto del numero delle classi e corsi che funzioneranno all'inizio dell'anno scolastico successivo, in attuazione dei criteri previsti dalla Tabella B annessa al decreto del Presidente della Repubblica 31 maggio 1974, n. 420.
 
@@ -828,7 +822,7 @@ Il soprannumero di cui al comma precedente e' assorbito in corrispondenza dei po
 
 Al personale di cui al presente articolo si applica la normativa di stato giuridico e di trattamento economico relativa al personale appartenente al ruolo in cui viene inquadrato. Il servizio prestato nel ruolo di provenienza e' valido a tutti gli effetti come servizio effettuato nel ruolo di inquadramento.
 
-##### ART. 52 - Passaggio nei ruoli statali di personale non docente
+#### ART. 52 - Passaggio nei ruoli statali di personale non docente
 
 Il personale di concetto, esecutivo ed ausiliario della Federazione nazionale delle istituzioni pro-ciechi, in servizio alla data di entrata in vigore della presente legge presso la predetta Federazione, ha titolo ad essere trasferito, anche in soprannumero, a domanda, da presentarsi entro 60 giorni dall'entrata in vigore della presente legge, alle dipendenze dello Stato, nelle corrispondenti qualifiche funzionali del ruolo del personale non insegnante. Esso e' destinato all'istituto statale "A. Romagnoli" di specializzazione per gli educatori dei minorati della vista.
 
@@ -836,11 +830,9 @@ L'istituto statale "A. Romagnoli" di specializzazione per gli educatori dei mino
 
 Il Ministro della pubblica istruzione puo' disporre l'utilizzazione del personale non docente di cui al precedente primo comma presso enti e associazioni aventi personalita' giuridica, che svolgano attivita' di produzione di materiale didattico e di apparecchi ad uso dei ciechi.
 
-## CAPO VII. - PERSONALE DEI CONSERVATORI DI MUSICA, DELLE ACCADEMIE DI BELLE ARTI E
+### CAPO VII. - PERSONALE DEI CONSERVATORI DI MUSICA, DELLE ACCADEMIE DI BELLE ARTI E DELLE ACCADEMIE NAZIONALI DI ARTE DRAMMATICA E DI DANZA
 
-### DELLE ACCADEMIE NAZIONALI DI ARTE DRAMMATICA E DI DANZA
-
-##### ART. 53 - Docenti dei corsi speciali e delle scuole libere del nudo
+#### ART. 53 - Docenti dei corsi speciali e delle scuole libere del nudo
 
 Gli insegnanti incaricati negli anni scolastici 1979-1980 o 1980-1981 presso i corsi speciali delle Accademie di belle arti e dell'Accademia nazionale di danza, sono immessi nei ruoli del personale docente, rispettivamente delle Accademie di belle arti e dell'Accademia nazionale di danza.
 
@@ -864,7 +856,7 @@ AGGIORNAMENTO (7)
 
 Il D.L. 3 maggio 1988 n. 140, convertito con modificazioni dalla L. 4 luglio 1988, n. 246 (in G.U. 5/7/1988, n. 156) ha disposto (con l'art. 11 comma 3) che "Nell'articolo 53 della legge 20 maggio 1982, n. 270, agli anni scolastici 1979-80 o 1980-81 si aggiunge l'anno scolastico 1981-82".
 
-##### ART. 54 - Assistenti dei licei artistici
+#### ART. 54 - Assistenti dei licei artistici
 
 I ruoli degli assistenti dei licei artistici sono soppressi.
 
@@ -878,7 +870,7 @@ Il personale contemplato nei precedenti commi e' mantenuto in servizio in qualit
 
 Gli assistenti di ruolo che non siano forniti di abilitazione ne' la conseguano per effetto del terzo comma del presente articolo restano in ruolo ad esaurimento e sono utilizzati nella scuola, secondo le modalita' che saranno stabilite con decreto del Ministro della pubblica istruzione, sentito il Consiglio nazionale della pubblica istruzione.
 
-##### ART. 55 - Assistenti delle Accademie di belle arti
+#### ART. 55 - Assistenti delle Accademie di belle arti
 
 E' indetto per una sola volta, entro tre mesi dall'entrata in vigore della presente legge, un concorso nazionale per titoli a cattedre delle Accademie di belle arti riservato agli assistenti di ruolo delle Accademie stesse ed agli assistenti delle Accademie che abbiano titolo all'immissione in ruolo ai sensi degli articoli 33 e 34 della presente legge.
 
@@ -888,7 +880,7 @@ Le graduatorie del concorso conservano validita' fino a quando non verra' modifi
 
 La partecipazione al concorso riservato e' limitata alla materia della cattedra corrispondente al posto di assistente del quale l'aspirante e' titolare e a non piu' di un'altra materia.
 
-##### ART. 56 - Ruolo delle assistenti educatrici dell'Accademia nazionale di danza
+#### ART. 56 - Ruolo delle assistenti educatrici dell'Accademia nazionale di danza
 
 E' istituito il ruolo delle assistenti educatrici dell'Accademia nazionale di danza.
 
@@ -902,7 +894,7 @@ Il quarto comma dell'articolo 7 del decreto legislativo 7 maggio 1948, n. 1236, 
 
 ## TITOLO IV - NORME COMUNI E FINALI
 
-##### ART. 57 - Personale incaricato per la prima volta nell'anno scolastico 1980-1981
+#### ART. 57 - Personale incaricato per la prima volta nell'anno scolastico 1980-1981
 
 Al personale docente e educativo, di cui ai capi I, II, III e V del precedente titolo III, incaricato per la prima volta nell'anno scolastico 1980-1981, si applicano le disposizioni previste nella presente legge per il personale incaricato nell'anno scolastico 1979-1980.
 
@@ -924,7 +916,7 @@ AGGIORNAMENTO (4)
 
 La Corte Costituzionale (in G.U. 3/12/1986 n. 57 - Serie Speciale) ha dichiarato l'illegittimita' costituzionale dell'art. 57 nella parte in cui non prevede l'estensione agli insegnanti in servizio con titolo di supplenza annuale nell'anno scolastico 1981-82 dei benefici ivi disposti per gli insegnanti in servizio con titolo di incarico nell'anno scolastico 1980-81, e nella parte in cui non consente ai supplenti in servizio nella scuola ordinaria di usufruire del trattamento disposto a favore dei supplenti nei corsi CRACIS ex art. 46, secondo comma, della stessa legge n. 270 del 1982.
 
-##### ART. 58 - Norma comune sulle immissioni in ruolo
+#### ART. 58 - Norma comune sulle immissioni in ruolo
 
 Le disposizioni di cui ai precedenti articoli 21, 22, 24, 25, 29, 30, 33, con esclusione del primo comma, 34, 36, 37, 39, 41, 42, 45, 46, 48, 49, 50, 53, 56, 57, nonche' ai successivi articoli 69 e 70, si applicano soltanto al personale in possesso dei requisiti prescritti dai predetti articoli, in servizio nell'anno scolastico in corso alla data di entrata in vigore della presente legge.
 
@@ -936,7 +928,7 @@ Tutte le nomine relative alle immissioni in ruolo possono essere disposte anche 
 
 Le assegnazioni di sede, da effettuare ai sensi della presente legge, possono essere disposte anche per insegnamenti diversi da quelli per i quali gli interessati hanno conseguito la nomina, purche' il titolo di abilitazione posseduto possa ritenersi parzialmente valido ai sensi della legge 25 luglio 1966, n. 603.
 
-##### ART. 59 - Modalita' per l'assegnazione della sede e per l'utilizzazione del personale immesso in ruolo
+#### ART. 59 - Modalita' per l'assegnazione della sede e per l'utilizzazione del personale immesso in ruolo
 
 Il Ministro della pubblica istruzione stabilisce con proprio decreto le modalita' per l'assegnazione della sede al personale immesso in ruolo per effetto delle disposizioni contenute nel precedente titolo III, nonche' per l'utilizzazione del personale che risultasse eventualmente in soprannumero.
 
@@ -950,13 +942,13 @@ Per gli insegnanti immessi nei ruoli della scuola secondaria, dei licei artistic
 
 Per il personale docente delle accademie di belle arti e dei conservatori di musica la utilizzazione e' disposta anche in cattedre o posti di materie affini, ivi compresi gli insegnamenti dei corsi speciali, delle scuole libere del nudo e dei corsi straordinari.
 
-##### ART. 60 - Competenze in materia di nomina
+#### ART. 60 - Competenze in materia di nomina
 
 I provvedimenti di nomina e quelli conseguenti di assegnazione della sede sono adottati dai provveditori agli studi anche nei confronti degli insegnanti appartenenti ai ruoli nazionali.
 
 I provvedimenti di cui al comma precedente, e gli atti da essi presupposti, sono definitivi.
 
-##### ART. 61 - Categorie speciali
+#### ART. 61 - Categorie speciali
 
 Gli insegnanti non vedenti che siano immessi in ruolo ai sensi della presente legge o a seguito di concorsi ordinari, o ancora in attesa di sede definitiva, hanno la precedenza assoluta nella scelta della sede.
 
@@ -970,13 +962,13 @@ Sono da considerare non vedenti coloro che si trovano nelle condizioni previste 
 
 Il beneficio di cui al primo comma si applica anche agli insegnanti con rene artificiale, per i comuni in cui esiste il servizio di emodialisi e per i comuni viciniori, nonche' agli insegnanti non autosufficienti o con protesi agli arti inferiori.
 
-##### ART. 62 - Modelli viventi
+#### ART. 62 - Modelli viventi
 
 Ai modelli viventi si applica, in quanto compatibile, lo stato giuridico del personale non docente non di ruolo della scuola, escluse le disposizioni relative al reclutamento e all'orario di servizio, in luogo delle quali si applicano le disposizioni vigenti per tale categoria di personale. In materia di assenza e congedi si applicano le disposizioni riferibili alla natura dell'incarico della nomina e non alla retribuzione oraria di servizio.
 
 L'adeguamento del trattamento economico dei modelli viventi avviene in corrispondenza e in proporzione dei miglioramenti conseguiti dal personale non docente della carriera ausiliaria della scuola. La retribuzione e' corrisposta in tutti i mesi dell'anno, alle condizioni previste per il restante personale non docente, per un importo mensile corrispondente al numero di ore settimanali conferite per incarico.
 
-##### ART. 63 - Norme per il personale assegnato a particolari compiti
+#### ART. 63 - Norme per il personale assegnato a particolari compiti
 
 Il personale ispettivo tecnico periferico, direttivo e docente comandato nell'anno scolastico 1981-1982, ai sensi dell'articolo 79 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417, presso le Regioni o altri enti locali, nonche' il personale medesimo gia' in servizio nei soppressi patronati scolastici nelle Regioni e province a statuto speciale che non abbiano gia' provveduto a farlo transitare nei propri ruoli, puo' ottenere a domanda il passaggio nei ruoli dell'ente locale territoriale o della Regione che lo richieda.
 
@@ -996,19 +988,19 @@ AGGIORNAMENTO (7)
 
 Il D.L. 3 maggio 1988 n. 140, convertito con modificazioni, dalla L. 4 luglio 1988, n. 246 (in G.U. 5/7/1988, n. 156), ha disposto (con l'art. 9) che "il terzo comma dell'articolo 63 della legge 20 maggio 1982, n. 270, deve intendersi nel senso che il personale in esso contemplato, che abbia chiesto il passaggio nei ruoli dell'amministrazione centrale e dell'amministrazione scolastica periferica del Ministero della pubblica istruzione, e' collocato nelle qualifiche funzionali di cui alla legge 11 luglio 1980, n. 312, sulla base della corrispondenza delle posizioni di stato giuridico fra ruolo di provenienza e di transito e non sulla base delle mansioni svolte presso l'amministrazione; resta esclusa, in ogni caso, la collocazione nelle qualifiche dirigenziali e ad esaurimento di cui al decreto del Presidente della Repubblica 30 giugno 1972, n. 748".
 
-##### ART. 64 - Norme transitorie sui comandi per attivita' di studio, per il servizio psico-pedagogico e sugli incarichi ispettivi
+#### ART. 64 - Norme transitorie sui comandi per attivita' di studio, per il servizio psico-pedagogico e sugli incarichi ispettivi
 
 Limitatamente al numero dei comandi disposti nell'anno scolastico 1981-1982, relativamente alle attivita' di cui al sesto comma del precedente articolo 14, la soppressione prevista dal primo comma del precedente articolo 18 avra' luogo soltanto dopo che sia stata disposta la nomina dei vincitori del concorso ordinario indetto per la prima attuazione delle dotazioni organiche aggiuntive.
 
 La disposizione di cui all'ultimo comma del precedente articolo 18 ha effetto dal momento in cui saranno nominati i vincitori dei concorsi in atto a posti di ispettore tecnico periferico.
 
-##### ART. 65 - Validita' dei titoli di specializzazione conseguiti in base a norme vigenti prima dell'entrata in vigore del decreto del Presidente della Repubblica 31 ottobre 1975, n. 970
+#### ART. 65 - Validita' dei titoli di specializzazione conseguiti in base a norme vigenti prima dell'entrata in vigore del decreto del Presidente della Repubblica 31 ottobre 1975, n. 970
 
 La validita' dei titoli di specializzazione di cui all'ultimo comma dell'articolo 8 del decreto del Presidente della Repubblica 31 ottobre 1975, n. 970, e' estesa anche ai fini delle immissioni in ruolo previste dalla legge 9 agosto 1978, n. 463, e delle immissioni in ruolo previste dalla presente legge.
 
 Sono ritenuti validi altresi' quali titoli di specializzazione i titoli conseguiti in base a norme vigenti prima della data di entrata in vigore del decreto del Presidente della Repubblica 31 ottobre 1975, n. 970, anche se il loro conseguimento abbia avuto luogo dopo tale data, purche' a seguito di corsi indetti prima della data medesima.
 
-##### ART. 66 - Norme particolari per i concorsi direttivi
+#### ART. 66 - Norme particolari per i concorsi direttivi
 
 I candidati degli ultimi concorsi ordinari per titoli ed esami, indetti per il reclutamento del personale direttivo degli istituti e scuole di istruzione secondaria ed artistica che, dopo aver superato la prova scritta, siano stati esclusi per non aver completato la documentazione circa il possesso dei requisiti di ammissione entro la scadenza fissata nei decreti di riapertura dei termini per la presentazione delle domande di partecipazione, possono integrare la documentazione prodotta entro 30 giorni dalla data di entrata in vigore della presente legge, fermo restando che i requisiti stessi debbono essere comunque posseduti alla scadenza indicata nei predetti decreti di riapertura.
 
@@ -1018,19 +1010,19 @@ Alla costituzione delle sottocommissioni nei concorsi a posti direttivi nella sc
 
 La disciplina di cui al secondo comma del precedente articolo 5 si applica anche ai componenti le commissioni e sottocommissioni giudicatrici di esami di abilitazione o di concorsi per il reclutamento del personale ispettivo tecnico, direttivo e docente, indetti dal 1 giugno 1978.
 
-##### ART. 67 - Trasformazione in ruoli provinciali dei ruoli nazionali del personale docente ed assistente degli istituti statali per sordomuti e dell'istituto statale "Augusto Romagnoli" di specializzazione per gli educatori dei minorati della vista
+#### ART. 67 - Trasformazione in ruoli provinciali dei ruoli nazionali del personale docente ed assistente degli istituti statali per sordomuti e dell'istituto statale "Augusto Romagnoli" di specializzazione per gli educatori dei minorati della vista
 
 I ruoli nazionali del personale docente e del personale assistente degli istituti statali per sordomuti, di cui alla legge 30 luglio 1973, n. 488, sono trasformati in ruoli speciali provinciali.
 
 I ruoli nazionali del personale docente e del personale assistente dell'istituto statale "Augusto Romagnoli" di specializzazione per gli educatori dei minorati della vista, di cui alla legge 30 dicembre 1960, n. 1734, sono trasformati in ruoli speciali provinciali.
 
-##### ART. 68 - Norma transitoria per gli insegnanti di educazione tecnica
+#### ART. 68 - Norma transitoria per gli insegnanti di educazione tecnica
 
 I docenti di educazione tecnica, nominati a seguito del concorso a cattedre di applicazioni tecniche maschili e femminili, indetto con decreto ministeriale del 5 maggio 1973 ed utilizzati, nell'anno scolastico 1981-1982, nella provincia di residenza, per effetto dell'articolo 1 del decreto-legge 6 giugno 1981, n. 281, convertito con modificazioni nella legge 24 luglio 1981, n. 392, sono, a domanda, trasferiti nei limiti dei posti disponibili, a decorrere dal 10 settembre 1982, dal ruolo dei docenti di educazione tecnica della provincia di attuale titolarita' a quello della provincia di residenza.
 
 I docenti che non potranno usufruire del beneficio di cui al primo comma per indisponibilita' di posti, sono utilizzati annualmente ai sensi della legge 24 luglio 1981, n. 392, anche su posti funzionanti di fatto.
 
-##### ART. 69 - Norme particolari per il personale docente delle scuole in lingua tedesca e delle localita' ladine
+#### ART. 69 - Norme particolari per il personale docente delle scuole in lingua tedesca e delle localita' ladine
 
 Ai docenti delle scuole secondarie e degli istituti d'arte in lingua tedesca e delle localita' ladine, in possesso del prescritto titolo di studio, che nell'anno scolastico 1980-1981 siano stati incaricati annuali o abbiano svolto servizio di supplenza per almeno 180 giorni, si applicano le disposizioni contenute nei precedenti articoli 35 e 36.
 
@@ -1044,7 +1036,7 @@ Nelle scuole d'istruzione primaria e secondaria della provincia di Bolzano i con
 
 Per i componenti le commissioni giudicatrici dei concorsi di cui al precedente comma non e' richiesto il requisito, previsto dal precedente articolo 3, del servizio in una sede compresa in un ambito territoriale diverso da quello cui si riferisce il concorso.
 
-##### ART. 70 - Norme particolari per il personale docente delle scuole con lingua di insegnamento slovena
+#### ART. 70 - Norme particolari per il personale docente delle scuole con lingua di insegnamento slovena
 
 Per i componenti le commissioni giudicatrici dei concorsi per le scuole con lingua di insegnamento slovena non e' richiesto il requisito, previsto dal precedente articolo 3, del servizio in una sede compresa in un ambito territoriale diverso da quello cui si riferisce il concorso.
 
@@ -1058,13 +1050,13 @@ Ai docenti delle scuole con lingua di insegnamento slovena, in servizio nell'ann
 
 Nelle scuole d'istruzione primaria e secondaria con lingua di insegnamento slovena i concorsi di cui alla presente legge si svolgono in lingua slovena.
 
-##### ART. 71 - Norme particolari per il personale delle scuole della Valle d'Aosta
+#### ART. 71 - Norme particolari per il personale delle scuole della Valle d'Aosta
 
 Ai concorsi a posti di insegnamento in lingua francese nelle scuole della Valle d'Aosta sono ammessi anche coloro che siano in possesso di un titolo di studio conseguito all'estero dichiarato equipollente dal Ministro della pubblica istruzione, sentito il Consiglio nazionale della pubblica istruzione, ai soli fini dell'ammissione ai predetti concorsi.
 
 Per la composizione delle commissioni giudicatrici dei concorsi per le scuole della Valle d'Aosta non si applica il disposto del precedente articolo 3 che richiede ai componenti il requisito del servizio in una sede compresa in un ambito territoriale diverso da quello cui si riferisce il concorso.
 
-##### ART. 72 - Norma interpretativa
+#### ART. 72 - Norma interpretativa
 
 L'articolo 13, comma tredicesimo, delle legge 9 agosto 1978, n. 463, e' da intendere nel senso che l'immissione in ruolo dei docenti ivi contemplata e' effettuata con decorrenza, agli effetti giuridici ed economici, dall'inizio dell'anno scolastico 1978-79 ed anche in soprannumero riassorbibile dopo l'esaurimento delle graduatorie previste dal settimo comma del medesimo articolo 13.
 
@@ -1076,7 +1068,7 @@ Detti provvedimenti e gli atti presupposti sono definitivi.
 
 Le nomine disposte per l'anno scolastico 1978-1979 sulla base delle graduatorie ad esaurimento contemplate nel primo comma dell'articolo 13 della legge 9 agosto 1978, n. 463, prima della loro soppressione e trasformazione in graduatorie provinciali, hanno la medesima decorrenza giuridica prevista dal settimo comma dello stesso articolo 13, per le nomine da disporre sulla base delle graduatorie provinciali.
 
-##### ART. 73 - Organici del personale educativo
+#### ART. 73 - Organici del personale educativo
 
 L'articolo 2 della legge 8 agosto 1977, n. 595, e' sostituito dal seguente:
 
@@ -1102,11 +1094,11 @@ Il servizio prestato nel ruolo di provenienza e' valido a tutti gli effetti come
 
 Il passaggio di cui al sesto comma del presente articolo e' disposto nei limiti del numero complessivo di unita' di personale educativo in soprannumero".
 
-##### ART. 74 - Proroga del termine di cui all'articolo 70 della legge 11 luglio 1980, n. 312
+#### ART. 74 - Proroga del termine di cui all'articolo 70 della legge 11 luglio 1980, n. 312
 
 Il termine previsto dall'articolo 70, primo comma, della legge 11 luglio 1980, n. 312, e' prorogato sino all'inizio dell'anno scolastico 1985-1986.
 
-##### ART. 75 - Servizi ausiliari dell'amministrazione scolastica
+#### ART. 75 - Servizi ausiliari dell'amministrazione scolastica
 
 Nei confronti del personale che ha prestato servizi comunque denominati, per l'espletamento di mansioni relative al ruolo di cui all'articolo 8 del decreto del Presidente della Repubblica 31 marzo 1971, n. 283, non ancora istituito al momento dell'assunzione in servizio e in cui detto personale e' stato successivamente inquadrato, si valutano tali servizi per la ricostruzione della carriera da effettuarsi secondo i criteri di cui all'articolo 16 - commi terzo, quarto, quinto e settimo - della legge 25 ottobre 1977, n.
 
@@ -1114,17 +1106,17 @@ Nei confronti del personale che ha prestato servizi comunque denominati, per l'e
 
 Gli effetti economici derivanti dalla ricostruzione di carriera di cui al precedente comma decorrono dalla data di entrata in vigore della presente legge.
 
-##### ART. 76 - Sessioni riservate di esami di abilitazione
+#### ART. 76 - Sessioni riservate di esami di abilitazione
 
 Ai soli fini del conseguimento dell'abilitazione all'insegnamento sono ammessi ad apposite sessioni riservate di esami, da indire entro 90 giorni dalla data di entrata in vigore della presente legge e da svolgere con le stesse modalita' previste rispettivamente dai precedenti articoli 23 e 35, gli insegnanti, non provvisti della prescritta abilitazione, in servizio, negli anni scolastici 1980-81 e 1981-82, in qualita' di supplenti nelle scuole materne statali o negli istituti e scuole di istruzione secondaria statale, ivi compresi i licei artistici e gli istituti d'arte, ovvero con nomina di durata almeno annuale conferita secondo le rispettive norme di legge, nelle scuole materne autorizzate, ivi comprese le scuole della Regione siciliana, o, rispettivamente, negli istituti e scuole di istruzione secondaria, ivi compresi i licei artistici e gli istituti d'arte, pareggiati o legalmente riconosciuti.
 
 Per la validita' del servizio negli anni scolastici indicati nel comma precedente, si applica il disposto di cui agli articoli 27, penultimo e ultimo comma, e 38, ultimo comma, della presente legge.
 
-##### ART. 77 - Norma abrogativa
+#### ART. 77 - Norma abrogativa
 
 Sono abrogati il decreto legislativo 7 maggio 1948, n. 817, l'articolo 5, secondo comma, della legge 24 settembre 1971, n. 820, ed ogni altra disposizione incompatibile con la presente legge.
 
-##### ART. 78 - Disposizioni finanziarie
+#### ART. 78 - Disposizioni finanziarie
 
 All'onere derivante dall'attuazione della presente legge, valutato in lire 31.200 milioni per l'anno finanziario 1982, si provvede mediante riduzione del fondo iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno medesimo. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 

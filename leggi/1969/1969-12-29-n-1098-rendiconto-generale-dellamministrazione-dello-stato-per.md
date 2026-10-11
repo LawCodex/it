@@ -25,13 +25,13 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il rendiconto consuntivo dello Stato per l'esercizio 1968 e' approvato con le risultanze degli articoli seguenti.
 
 ## ENTRATE E SPESE DI COMPETENZA DELL'ESERCIZIO FINANZIARIO 1968
 
-### Art. 2
+## Art. 2
 
 Le entrate tributarie, extra tributarie,
 
@@ -61,7 +61,7 @@ rimasero da versare " 450.547.016.027
 
 e rimasero da riscuotere................... L. 609.306.880.382
 
-### Art. 3
+## Art. 3
 
 Le spese correnti, in conto capitale e per
 
@@ -81,7 +81,7 @@ delle quali furono pagate.................. " 8.907.757.129.579
 
 e rimasero da pagare....................... L. 2.932.850.390.975
 
-### Art. 4
+## Art. 4
 
 Il riepilogo generale delle entrate e delle spese di competenza dell'esercizio finanziario 1968 risulta stabilito dal conto consuntivo come segue:
 
@@ -103,7 +103,7 @@ Differenza...- L. 720.427.542.147
 
 ## ENTRATE E SPESE RESIDUE DELL'ESERCIZIO FINANZIARIO 1967 ED ESERCIZI - PRECEDENTI
 
-### Art. 5
+## Art. 5
 
 I residui attivi alla chiusura dell'eser-
 
@@ -128,7 +128,7 @@ e rimasero da riscuotere al 31 dicembre
 
 ------------------
 
-### Art. 6
+## Art. 6
 
 I residui passivi alla chiusura dell'eser-
 
@@ -146,7 +146,7 @@ e rimasero da pagare al 31 dicembre 1968... L. 2.888.532.183.575
 
 ## RESIDUI ATTIVI E PASSIVI ALLA CHIUSURA DELL'ESERCIZIO FINANZIARIO - 1968
 
-### Art. 7
+## Art. 7
 
 I residui attivi alla chiusura dell'esercizio finanziario 1968 risultano stabiliti, dal conto consuntivo del bilancio nelle seguenti somme:
 
@@ -165,7 +165,7 @@ degli esercizi precedenti (articolo 5)..... " 532.374.258.996 Somme riscosse e n
  -------------------
 ```
 
-### Art. 8
+## Art. 8
 
 I residui passivi alla chiusura dell'esercizio finanziario 1968 risultano stabiliti dal conto consuntivo del bilancio, nelle seguenti somme:
 
@@ -187,7 +187,7 @@ esercizi precedenti (articolo 6)........... " 2.888.532.183.575
 
 ## SITUAZIONE FINANZIARIA
 
-### Art. 9
+## Art. 9
 
 Il disavanzo finanziario del conto del tesoro alla fine dell'esercizio 1968 e' accertato nella somma di lire 8.087.006.334.493, come risulta dai seguenti dati:
 
@@ -255,17 +255,17 @@ per la contabilita generale dello Stato " 31.440
 
 ## DISPOSIZIONI SPECIALI
 
-### Art. 10
+## Art. 10
 
 Sono stabiliti nella somma di lire 31.440 i discarichi consentiti, nell'esercizio 1968, ai tesorieri per casi di forma maggiore, ai sensi dell'articolo 194 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato approvato con regio decreto 23 maggio 1924, n. 827.
 
-### Art. 11
+## Art. 11
 
 E' approvata l'eccedenza di impegni per lire 11.525.024.960, risultata in sede di consuntivo sul conto della competenza al capitolo n. 3241 "Somme occorrenti per la regolazione contabile delle entrate erariali riscosse dalla Regione siciliana ai sensi del decreto del Presidente della Repubblica 26 luglio 1965, n. 1074" dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1968.
 
 ## AZIENDE SPECIALI ED AUTONOME - AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### Art. 12
+## Art. 12
 
 Le entrate correnti ed in conto capitale
 
@@ -296,7 +296,7 @@ e rimasero da riscuotere................... L. 897.758.024
  -------------------
 ```
 
-### Art. 13
+## Art. 13
 
 Le spese correnti, in conto capitale e per
 
@@ -318,7 +318,7 @@ e rimasero da pagare....................... L. 11.206.454.796
  -------------------
 ```
 
-### Art. 14
+## Art. 14
 
 I residui attivi alla chiusura dell'eser-
 
@@ -343,7 +343,7 @@ e rimasero da riscuotere al 31 dicembre
 
 -------------------
 
-### Art 15
+## Art 15
 
 I residui passivi alla chiusura dell'eser-
 
@@ -359,7 +359,7 @@ e rimasero da pagare al 31 dicembre 1968... L. 18.618.900.348
  ------------------
 ```
 
-### Art. 16
+## Art. 16
 
 I residui attivi alla chiusura dell'esercizio finanziario 1968, risultano stabiliti nelle seguenti somme:
 
@@ -383,7 +383,7 @@ del riepilogo dell'entrata)................ " 393.929.193
  -------------------
 ```
 
-### Art. 17
+## Art. 17
 
 I residui passivi alla chiusura dell'esercizio finanziario 1968, risultano stabiliti nelle seguenti somme:
 
@@ -403,7 +403,7 @@ esercizi precedenti (articolo 15).......... " 18.618.900.348
  -------------------
 ```
 
-### Art. 18
+## Art. 18
 
 La situazione finanziaria dell'Azienda di Stato per le foreste demaniali, alla fine dell'esercizio 1968, risulta come appresso:
 
@@ -447,7 +447,7 @@ al 31 dicembre 1968.... " 4.226.844.890
 
 ## ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-### Art. 19
+## Art. 19
 
 Le entrate correnti dell'Istituto agrono-
 
@@ -473,7 +473,7 @@ e rimasero da riscuotere................... L. 1.935.000
  -------------------
 ```
 
-### Art. 20
+## Art. 20
 
 Le spese correnti dell'istituto predetto,
 
@@ -491,7 +491,7 @@ e rimasero da pagare....................... L. 17.850.640
  -------------------
 ```
 
-### Art. 21
+## Art. 21
 
 I residui attivi alla chiusura dell'eser-
 
@@ -505,7 +505,7 @@ e rimasero da riscuotere al 31 dicembre
 
 1968.................................... L. -
 
-### Art. 22
+## Art. 22
 
 I residui passivi alla chiusura dell'eser-
 
@@ -521,7 +521,7 @@ e rimasero da pagare al 31 dicembre 1968... L. 14.720.027
  -------------------
 ```
 
-### Art. 23
+## Art. 23
 
 I residui attivi alla chiusura dell'esercizio 1968 risultano stabiliti nelle seguenti somme:
 
@@ -545,7 +545,7 @@ del riepilogo dell'entrata) " -
  -------------------
 ```
 
-### Art. 24
+## Art. 24
 
 I residui passivi alla chiusura dell'esercizio 1968 risultano stabiliti nelle seguenti somme:
 
@@ -567,7 +567,7 @@ esercizi precedenti (articolo 22).......... " 14.720.027
 
 ## AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-### Art. 25
+## Art. 25
 
 Le entrate correnti, in conto capitale e
 
@@ -600,7 +600,7 @@ e rimasero da riscuotere................... L. 10.514.616.638
  -------------------
 ```
 
-### Art. 26
+## Art. 26
 
 Le spese correnti, in conto capitale e per
 
@@ -622,7 +622,7 @@ e rimasero da pagare....................... L. 29.138.752.998
  -------------------
 ```
 
-### Art. 27
+## Art. 27
 
 I residui attivi alla chiusura dell'eser-
 
@@ -642,7 +642,7 @@ e rimasero da riscuotere al 31 dicembre
 
 -------------------
 
-### Art. 28
+## Art. 28
 
 I residui passivi alla chiusura dell'eser-
 
@@ -658,7 +658,7 @@ e rimasero da pagare al 31 dicembre 1968... L. 4.147.544.431
 
 -------------------
 
-### Art. 29
+## Art. 29
 
 I residui attivi alla chiusura dell'esercizio finanziario 1968 risultano stabiliti nelle seguenti somme:
 
@@ -682,7 +682,7 @@ del riepilogo dell'entrata)................ " 126.148.130
  -------------------
 ```
 
-### Art. 30
+## Art. 30
 
 I residui passivi alla chiusura dell'esercizio finanziario 1968 risultano stabiliti nelle seguenti somme:
 
@@ -702,7 +702,7 @@ esercizi precedenti (articolo 28).......... " 4.147.544.431
  -------------------
 ```
 
-### Art. 31
+## Art. 31
 
 La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dell'esercizio finanziario 1968, risulta come appresso:
 
@@ -716,7 +716,7 @@ Spese dell'esercizio 1968.................. L. 198.500.246.985
 
 ## ARCHIVI NOTARILI
 
-### Art. 32
+## Art. 32
 
 E' approvato il conto consuntivo degli Archivi notarili, per l'esercizio 1968, nelle risultanze seguenti:
 
@@ -732,7 +732,7 @@ Spese...................................... " 9.044.712.394
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-### Art. 33
+## Art. 33
 
 Le entrate correnti ed in conto capitale
 
@@ -763,7 +763,7 @@ e rimasero da riscuotere................... L. 6.817.048.073
  -------------------
 ```
 
-### Art. 34
+## Art. 34
 
 Le spese correnti, in conto capitale e per
 
@@ -785,7 +785,7 @@ e rimasero da pagare....................... L. 1.395.235.868
  -------------------
 ```
 
-### Art. 35
+## Art. 35
 
 I residui attivi alla chiusura dell'eser-
 
@@ -810,7 +810,7 @@ e rimasero da riscuotere al 31 dicembre
 
 -------------------
 
-### Art. 36
+## Art. 36
 
 I residui passivi alla chiusura dell'eser-
 
@@ -826,7 +826,7 @@ e rimasero da pagare al 31 dicembre 1968... L. 472.152.220
  -------------------
 ```
 
-### Art. 37
+## Art. 37
 
 I residui attivi alla chiusura dell'esercizio finanziario 1968 risultano stabiliti nelle seguenti somme:
 
@@ -850,7 +850,7 @@ del riepilogo dell'entrata)................ " 287.751
  -------------------
 ```
 
-### Art. 38
+## Art. 38
 
 I residui passivi alla chiusura dell'esercizio finanziario 1968 risultano stabiliti nelle seguenti somme:
 
@@ -870,7 +870,7 @@ esercizi precedenti (articolo 36).......... " 472.152.220
  -------------------
 ```
 
-### Art. 39
+## Art. 39
 
 Il saldo attivo del conto finanziario dell'Amministrazione del Fondo per il culto alla fine dell'esercizio 1968, e' accertato nella somma di lire 1.604.249.641,30, come risulta dai seguenti dati:
 
@@ -912,7 +912,7 @@ Spese dell'esercizio finanziario 1968...... L. 25.201.348.483, - Saldo attivo al
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-### Art. 40
+## Art. 40
 
 Le entrate correnti ed in conto capitale
 
@@ -943,7 +943,7 @@ e rimasero da riscuotere................... L. 136.979.171
  -------------------
 ```
 
-### Art. 41
+## Art. 41
 
 Le spese correnti ed in conto capitale del
 
@@ -963,7 +963,7 @@ e rimasero da pagare....................... L. 209.749.836
  -------------------
 ```
 
-### Art. 42
+## Art. 42
 
 I residui attivi alla chiusura dell'eser-
 
@@ -988,7 +988,7 @@ e rimasero da riscuotere al 31 dicembre
 
 -------------------
 
-### Art. 43
+## Art. 43
 
 I residui passivi alla chiusura dell'eser-
 
@@ -1004,7 +1004,7 @@ e rimasero da pagare al 31 dicembre 1968... L. 44.424.934
  -------------------
 ```
 
-### Art. 44
+## Art. 44
 
 I residui attivi alla chiusura dell'esercizio finanziario 1968 risultano stabiliti nelle seguenti somme:
 
@@ -1026,7 +1026,7 @@ del riepilogo dell'entrata)................ " 31.476
 
 Residui attivi al 31 dicembre 1968... L. 137.361.033
 
-### Art. 45
+## Art. 45
 
 I residui passivi alla chiusura dell'esercizio finanziario 1968 risultano stabiliti nelle seguenti somme:
 
@@ -1046,7 +1046,7 @@ esercizi precedenti (articolo 43).......... " 44.424.934
  -------------------
 ```
 
-### Art. 46
+## Art. 46
 
 Il saldo attivo del conto finanziario del Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1968, e' accertato nella somma di lire 12.647.333,58, come risulta dai seguenti dati:
 
@@ -1091,7 +1091,7 @@ al 31 dicembre 1968...... " 33.655.824
 
 ## PATRIMONI RIUNITI EX ECONOMALI
 
-### Art. 47
+## Art. 47
 
 Le entrate correnti ed in conto capitale
 
@@ -1122,7 +1122,7 @@ e rimasero da riscuotere................... L. 21.159.550
  -------------------
 ```
 
-### Art. 48
+## Art. 48
 
 Le spese correnti ed in conto capitale
 
@@ -1142,7 +1142,7 @@ e rimasero da pagare....................... L. 100.670.273
  -------------------
 ```
 
-### Art. 49
+## Art. 49
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1165,7 +1165,7 @@ e rimasero da riscuotere al 31 dicembre
 
 1968.................................... L. 2.180.674
 
-### Art. 50
+## Art. 50
 
 I residui passivi alla chiusura dell'eser-
 
@@ -1181,7 +1181,7 @@ e rimasero da pagare al 31 dicembre 1968... L. 38.978.959
  -------------------
 ```
 
-### Art. 51
+## Art. 51
 
 I residui attivi alla chiusura dell'esercizio finanziario 1968 risultano stabiliti dal conto consuntivo dell'azienda, nelle seguenti somme:
 
@@ -1205,7 +1205,7 @@ Somme riscosse e non versate in tesoreria
  -------------------
 ```
 
-### Art. 52
+## Art. 52
 
 I residui passivi alla chiusura dell'esercizio finanziario 1968, risultano stabiliti, dal conto consuntivo dell'azienda, nelle seguenti somme:
 
@@ -1225,7 +1225,7 @@ esercizi precedenti (articolo 50).......... " 38.978.959
  -------------------
 ```
 
-### Art. 53
+## Art. 53
 
 Il saldo attivo del conto finanziario dell'Azienda dei patrimoni riuniti ex economali, alla fine dell'esercizio 1968, e' accertato nella somma di lire 37.591.202,88, come risulta dai seguenti dati:
 
@@ -1269,7 +1269,7 @@ al 31 dicembre 1968........ " 4.885.908
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE
 
-### Art. 54
+## Art. 54
 
 Le entrate correnti, in conto capitale e
 
@@ -1297,7 +1297,7 @@ e rimasero da riscuotere................... L. 66.796.099.794
  -------------------
 ```
 
-### Art. 55
+## Art. 55
 
 Le spese correnti, in conto capitale e per
 
@@ -1319,7 +1319,7 @@ e rimasero da pagare....................... L. 220.374.337.660
  -------------------
 ```
 
-### Art. 56
+## Art. 56
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1339,7 +1339,7 @@ e rimasero da riscuotere al 31 dicembre
 
 -------------------
 
-### Art. 57
+## Art. 57
 
 I residui passivi alla chiusura dell'eser-
 
@@ -1355,7 +1355,7 @@ e rimasero da pagare al 31 dicembre 1968... L. 290.036.302.989
  -------------------
 ```
 
-### Art. 58
+## Art. 58
 
 I residui attivi alla chiusura dell'esercizio finanziario 1968 risultano stabiliti nelle seguenti somme:
 
@@ -1379,7 +1379,7 @@ del riepilogo dell'entrata) -
  -------------------
 ```
 
-### Art. 59
+## Art. 59
 
 I residui passivi alla chiusura dell'esercizio 1968 risultano stabiliti nelle seguenti somme:
 
@@ -1401,7 +1401,7 @@ esercizi precedenti (articolo 57).......... " 290.036.302.989
 
 ## AMMINISTRAZIONE DELLE POSTE E DEI TELEGRAFI
 
-### Art. 60
+## Art. 60
 
 Le entrate correnti in conto capitale e
 
@@ -1431,7 +1431,7 @@ e rimasero da riscuotere................... L. 164.909.229.897
  -------------------
 ```
 
-### Art. 61
+## Art. 61
 
 Le spese correnti, in conto capitale e per
 
@@ -1453,7 +1453,7 @@ e rimasero da pagare....................... L. 155.275.455.941
  -------------------
 ```
 
-### Art. 62
+## Art. 62
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1473,7 +1473,7 @@ e rimasero da riscuotere al 31 dicembre
 
 -------------------
 
-### Art. 63
+## Art. 63
 
 I residui passivi alla chiusura dell'eser-
 
@@ -1485,7 +1485,7 @@ dei quali nell'esercizio 1968 furono pagati " 143.099.501.786
 
 e rimasero da pagare al 31 dicembre 1968... L. 66.319.590.481
 
-### Art. 64
+## Art. 64
 
 I residui attivi alla chiusura dell'esercizio 1968 risultano stabiliti nelle seguenti somme:
 
@@ -1505,7 +1505,7 @@ degli esercizi precedenti (articolo 62).... " 180.959.604.522
  -------------------
 ```
 
-### Art. 65
+## Art. 65
 
 I residui passivi alla chiusura dell'esercizio 1968 risultano stabiliti nelle seguenti somme:
 
@@ -1527,7 +1527,7 @@ esercizi precedenti (articolo 63).......... " 66.319.590.481
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Art. 66
+## Art. 66
 
 Le entrate correnti, in conto capitale e
 
@@ -1557,7 +1557,7 @@ e rimasero da riscuotere................... L. 11.044.461.521
  -------------------
 ```
 
-### Art. 67
+## Art. 67
 
 Le spese correnti, in conto capitale e per
 
@@ -1579,7 +1579,7 @@ e rimasero da pagare....................... L. 80.467.952.840
  -------------------
 ```
 
-### Art. 68
+## Art. 68
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1602,7 +1602,7 @@ e rimasero da riscuotere al 31 dicembre
 
 1968.................................... L. 3.456.652.306
 
-### Art. 69
+## Art. 69
 
 I residui passivi alla chiusura dell'eser-
 
@@ -1618,7 +1618,7 @@ e rimasero da pagare al 31 dicembre 1968... L. 49.298.766.313
  -------------------
 ```
 
-### Art. 70
+## Art. 70
 
 I residui attivi alla chiusura dell'esercizio 1968, risultano stabiliti nelle seguenti somme:
 
@@ -1642,7 +1642,7 @@ del riepilogo dell'entrata)................ " 15.840.000.000
  -------------------
 ```
 
-### Art. 71
+## Art. 71
 
 I residui passivi alla chiusura dell'esercizio 1968 risultano stabiliti nelle seguenti somme:
 
@@ -1664,7 +1664,7 @@ Residui passivi al 31 dicembre 1968... L. 129.766.719.153
 
 ## AMMINISTRAZIONE DELLE FERROVIE DELLO STATO
 
-### Art. 72
+## Art. 72
 
 Le entrate correnti, i conto capitale e
 
@@ -1696,7 +1696,7 @@ e rimasero da riscuotere................... L. 432.539.194.750
  -------------------
 ```
 
-### Art. 73
+## Art. 73
 
 Le spese correnti, in conto capitale e per
 
@@ -1718,7 +1718,7 @@ e rimasero da pagare....................... L. 373.834.610.906
  -------------------
 ```
 
-### Art. 74
+## Art. 74
 
 Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione delle ferrovie dello Stato, di competenza dell'esercizio finanziario 1968, risulta cosi' stabilito:
 
@@ -1746,7 +1746,7 @@ Spese delle gestioni speciali ed autonome. " 1.341.889.829.083
 
 L. 2.345.239.100.031
 
-### Art. 75
+## Art. 75
 
 I residui attivi alla chiusura dell'eser-
 
@@ -1766,7 +1766,7 @@ e rimasero da riscuotere al 31 dicembre
 
 -------------------
 
-### Art. 76
+## Art. 76
 
 I residui passivi alla chiusura dell'eser-
 
@@ -1782,7 +1782,7 @@ e rimasero da pagare al 31 dicembre 1968... L. 302.139.071.564
  -------------------
 ```
 
-### Art. 77
+## Art. 77
 
 I residui attivi alla chiusura dell'esercizio 1968 risultano stabiliti nelle se seguenti somme:
 
@@ -1802,7 +1802,7 @@ degli esercizi precedenti (articolo 75).... " 149.487.903.059
  -------------------
 ```
 
-### Art. 78
+## Art. 78
 
 I residui passivi alla chiusura dell'esercizio 1968 risultano stabiliti nelle seguenti somme:
 

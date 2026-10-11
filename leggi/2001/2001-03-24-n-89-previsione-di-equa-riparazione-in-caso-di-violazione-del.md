@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I - DEFINIZIONE IMMEDIATA
+## Capo I - DEFINIZIONE IMMEDIATA DEL PROCESSO CIVILE
 
-### DEL PROCESSO CIVILE
-
-#### Art. 1 - Pronuncia in camera di consiglio
+### Art. 1 - Pronuncia in camera di consiglio
 
 1\. L'articolo 375 del codice di procedura civile e' sostituito dal seguente:
 
@@ -84,7 +82,7 @@ Le conclusioni del pubblico ministero, almeno venti giorni prima dell'adunanza d
 
 ## Capo II - EQUA RIPARAZIONE
 
-#### Art. 1-bis
+### Art. 1-bis
 
 (( (Rimedi all'irragionevole durata del processo).))
 
@@ -92,7 +90,7 @@ Le conclusioni del pubblico ministero, almeno venti giorni prima dell'adunanza d
 
 2\. Chi, pur avendo esperito i rimedi preventivi di cui all'articolo 1-ter, ha subito un danno patrimoniale o non patrimoniale a causa dell'irragionevole durata del processo ha diritto ad una equa riparazione.))
 
-#### Art. 1-ter - Rimedi preventivi
+### Art. 1-ter - Rimedi preventivi
 
 1\. Ai fini della presente legge, nei processi civili costituisce rimedio preventivo a norma dell'articolo 1-bis, comma 1, l'introduzione del giudizio nelle forme del procedimento semplificato di cognizione di cui agli articoli 281-decies e seguenti del codice di procedura civile. Costituisce altresi' rimedio preventivo formulare richiesta di passaggio dal rito ordinario al rito semplificato a norma dell'articolo 183-bis del codice di procedura civile, entro l'udienza di trattazione e comunque almeno sei mesi prima che siano trascorsi i termini di cui all'articolo 2, comma 2-bis. Nelle cause in cui non si applica il rito semplificato di cognizione, ivi comprese quelle in grado di appello, costituisce rimedio preventivo proporre istanza di decisione a seguito di trattazione orale a norma degli articoli 275, commi secondo, terzo e quarto, 281-sexies e 350-bis del codice di procedura civile, almeno sei mesi prima che siano trascorsi i termini di cui all'articolo 2, comma 2-bis. Nelle cause in cui il tribunale giudica in composizione collegiale, il giudice istruttore quando ritiene che la causa puo' essere decisa a seguito di trattazione orale, rimette la causa al collegio a norma dell'articolo 275-bis del codice di procedura civile. (15) ((16))
 
@@ -122,7 +120,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
 
-#### Art. 2 - Diritto all'equa riparazione
+### Art. 2 - Diritto all'equa riparazione
 
 1\. E' inammissibile la domanda di equa riparazione proposta dal soggetto che non ha esperito i rimedi preventivi all'irragionevole durata del processo di cui all'articolo 1-ter. (12) ((17))
 
@@ -200,7 +198,7 @@ AGGIORNAMENTO (17)
 
 La Corte Costituzionale, con sentenza 7 giugno - 13 luglio 2023, n. 142 (in G.U. 1ª s.s. 19/07/2023, n. 29), ha dichiarato "l'illegittimita' costituzionale dell'art. 2, comma 1, della legge 24 marzo 2001, n. 89 (Previsione di equa riparazione in caso di violazione del termine ragionevole del processo e modifica dell'articolo 375 del codice di procedura civile), nella parte in cui prevede l'inammissibilita' della domanda di equa riparazione nel caso di mancato esperimento del rimedio preventivo di cui all'art. 1-ter, comma 6, della medesima legge".
 
-#### Art. 2-bis - Misura dell'indennizzo
+### Art. 2-bis - Misura dell'indennizzo
 
 ((1. Il giudice liquida a titolo di equa riparazione, di regola, una somma di denaro non inferiore a euro 400 e non superiore a euro 800 per ciascun anno, o frazione di anno superiore a sei mesi, che eccede il termine ragionevole di durata del processo. La somma liquidata puo' essere incrementata fino al 20 per cento per gli anni successivi al terzo e fino al 40 per cento per gli anni successivi al settimo)).
 
@@ -230,7 +228,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 22 giugno 2012, n. 83, convertito con modificazioni dalla L. 7 agosto 2012, n. 134, ha disposto (con l'art. 55, comma 2) che "Le disposizioni di cui al comma 1 si applicano ai ricorsi depositati a decorrere dal trentesimo giorno successivo a quello di entrata in vigore della legge di conversione del presente decreto".
 
-#### Art. 3 - Procedimento
+### Art. 3 - Procedimento
 
 ((1. La domanda di equa riparazione si propone con ricorso al presidente della corte d'appello del distretto in cui ha sede il giudice innanzi al quale si e' svolto il primo grado del processo presupposto. Si applica l'articolo 125 del codice di procedura civile)).
 
@@ -264,7 +262,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 22 giugno 2012, n. 83, convertito con modificazioni dalla L. 7 agosto 2012, n. 134, ha disposto (con l'art. 55, comma 2) che "Le disposizioni di cui al comma 1 si applicano ai ricorsi depositati a decorrere dal trentesimo giorno successivo a quello di entrata in vigore della legge di conversione del presente decreto".
 
-#### Art. 4 - Termine di proponibilita'
+### Art. 4 - Termine di proponibilita'
 
 1\. La domanda di riparazione puo' essere proposta, a pena di decadenza, entro sei mesi dal momento in cui la decisione che conclude il procedimento e' divenuta definitiva. ((In ogni caso la domanda puo' essere proposta in pendenza del processo quando e' superato il termine ragionevole di durata dello stesso.)) (5) (10)
 
@@ -280,7 +278,7 @@ AGGIORNAMENTO (10)
 
 La Corte Costituzionale con sentenza 21 marzo - 26 aprile 2018, n. 88 (in G.U. 1ª s.s. 02/05/2018, n. 18) ha dichiarato "l'illegittimita' costituzionale dell'art. 4 della legge 24 marzo 2001, n. 89 (Previsione di equa riparazione in caso di violazione del termine ragionevole del processo e modifica dell'articolo 375 del codice di procedura civile) - come sostituito dall'art. 55, comma 1, lettera d), del decreto-legge 22 giugno 2012, n. 83 (Misure urgenti per la crescita del Paese), convertito, con modificazioni, nella legge 7 agosto 2012, n. 134 - nella parte in cui non prevede che la domanda di equa riparazione possa essere proposta in pendenza del procedimento presupposto".
 
-#### Art. 5
+### Art. 5
 
 (( (Notificazioni e comunicazioni).))
 
@@ -298,11 +296,11 @@ AGGIORNAMENTO (5)
 
 Il D.L. 22 giugno 2012, n. 83, convertito con modificazioni dalla L. 7 agosto 2012, n. 134, ha disposto (con l'art. 55, comma 2) che "Le disposizioni di cui al comma 1 si applicano ai ricorsi depositati a decorrere dal trentesimo giorno successivo a quello di entrata in vigore della legge di conversione del presente decreto".
 
-#### Art. 5-bis
+### Art. 5-bis
 
 (( ARTICOLO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115 ))
 
-#### Art. 5-ter
+### Art. 5-ter
 
 (( (Opposizione).))
 
@@ -324,7 +322,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 22 giugno 2012, n. 83,convertito con modificazioni dalla L. 7 agosto 2012, n. 134, ha disposto (con l'art. 55, comma 2) che "Le disposizioni di cui al comma 1 si applicano ai ricorsi depositati a decorrere dal trentesimo giorno successivo a quello di entrata in vigore della legge di conversione del presente decreto".
 
-#### Art. 5-quater
+### Art. 5-quater
 
 (( (Sanzioni processuali).))
 
@@ -336,7 +334,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 22 giugno 2012, n. 83, convertito con modificazioni dalla L. 7 agosto 2012, n. 134, ha disposto (con l'art. 55, comma 2) che "Le disposizioni di cui al comma 1 si applicano ai ricorsi depositati a decorrere dal trentesimo giorno successivo a quello di entrata in vigore della legge di conversione del presente decreto".
 
-#### Art. 5-quinquies
+### Art. 5-quinquies
 
 (( Esecuzione forzata. ))
 
@@ -350,7 +348,7 @@ Il D.L. 22 giugno 2012, n. 83, convertito con modificazioni dalla L. 7 agosto 20
 
 5\. L'articolo 1 del decreto-legge 25 maggio 1994, n. 313, convertito, con modificazioni, dalla legge 22 luglio 1994, n. 460, si applica anche ai fondi destinati al pagamento di somme liquidate a norma della presente legge, ivi compresi quelli accreditati mediante aperture di credito in favore dei funzionari delegati degli uffici centrali e periferici delle amministrazioni interessate.))
 
-#### Art. 5-sexies - Modalita' di pagamento
+### Art. 5-sexies - Modalita' di pagamento
 
 1\. Al fine di ricevere il pagamento delle somme liquidate a norma della presente legge, il creditore rilascia all'amministrazione debitrice una dichiarazione, ai sensi degli articoli 46 e 47 del testo unico di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, attestante la mancata riscossione di somme per il medesimo titolo, l'esercizio di azioni giudiziarie per lo stesso credito, l'ammontare degli importi che l'amministrazione e' ancora tenuta a corrispondere e la modalita' di riscossione prescelta ai sensi del comma 9 del presente articolo. Con la dichiarazione di cui al primo periodo, il creditore si impegna altresi' a trasmettere la documentazione necessaria a norma dei decreti di cui ai commi 3 e 3-bis e a comunicare ogni mutamento dei dati trasmessi o della documentazione presentata.
 
@@ -392,7 +390,7 @@ L'erogazione degli indennizzi agli aventi diritto avviene nei limiti delle risor
 
 12-quater. Entro un mese dalla data di entrata in vigore della presente disposizione, il Ministero della giustizia da' notizia dell'onere di rinnovo o di presentazione della dichiarazione a pena di decadenza, stabilito dai commi 1-bis, 12-bis e 12-ter, mediante avviso pubblicato sul proprio sito internet istituzionale e comunicato telematicamente, presso il domicilio digitale, alle associazioni dei consumatori e degli utenti rappresentative a livello nazionale iscritte nell'elenco di cui all'articolo 137 del codice del consumo di cui al decreto legislativo 6 settembre 2005, n. 206, e alle organizzazioni e associazioni iscritte nell'elenco di cui agli articoli 840-bis, secondo comma, del codice di procedura civile e 196-ter delle disposizioni per l'attuazione del codice di procedura civile. L'avviso di cui al primo periodo e' altresi' comunicato al Consiglio nazionale forense per la diffusione presso gli ordini territoriali.
 
-#### Art. 6
+### Art. 6
 
 Norma transitoria
 
@@ -410,7 +408,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 12 ottobre 2001, n. 370, convertito senza modificazioni dalla L. 14 dicembre 2001, n. 432 ha disposto (con l'art. 1, comma 1) che "Il termine di cui all'articolo 6, comma 1, della legge 24 marzo 2001, n. 89, e' prorogato sino al 18 aprile 2002.".
 
-#### Art. 7 - Disposizioni finanziarie
+### Art. 7 - Disposizioni finanziarie
 
 1\. All'onere derivante dall'attuazione della presente legge, valutato in lire 12.705 milioni a decorrere dall'anno 2002, si provvede mediante corrispondente riduzione delle proiezioni dello stanziamento iscritto, ai fini del bilancio triennale 2001-2003, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 2001, allo scopo parzialmente utilizzando l'accantonamento relativo al medesimo Ministero.
 

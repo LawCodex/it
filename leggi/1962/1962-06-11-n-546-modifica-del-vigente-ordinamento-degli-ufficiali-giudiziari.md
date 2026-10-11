@@ -26,7 +26,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Il primo comma dell'articolo 7 del decreto presidenziale 15 dicembre 1959, n. 1229, e' sostituito dal seguente:
 
@@ -42,19 +42,19 @@ Il primo comma dell'articolo 7 del decreto presidenziale 15 dicembre 1959, n. 12
 
 5\) da un ufficiale giudiziario che abbia compiuto almeno quindici anni di servizio".
 
-### Art. 2
+## Art. 2
 
 Il primo comma dell'articolo 101 del decreto presidenziale 15 dicembre 1959, n. 1229, e' sostituito dal seguente:
 
 "Il numero complessivo degli ufficiali giudiziari e' di 1.550; essi sono addetti all'ufficio unico costituito nelle sedi capoluogo di distretto o di circondario rispettivamente presso la Corte di appello o presso il Tribunale ovvero, nelle altre sedi, alla Pretura".
 
-### Art. 3
+## Art. 3
 
 L'articolo 102 del decreto presidenziale 15 dicembre 1959, n. 1229, e' sostituito dal seguente:
 
 Art. 102. - "Qualora in un ufficio giudiziario sia disposta riduzione dei posti assegnati in organico, sono trasferiti ad altra sede l'ufficiale o gli ufficiali giudiziari assegnati alla sede per ultimi".
 
-### Art. 4
+## Art. 4
 
 L'articolo 104 del decreto presidenziale 15 dicembre 1959, n. 1229, e sostituito dal seguente:
 
@@ -72,7 +72,7 @@ L'ufficiale giudiziario provvede a iscrivere la richiesta di cui al precedente c
 
 L'aiutante ufficiale giudiziario puo' ricevere le richieste soltanto se l'ufficio sia privo dell'ufficiale giudiziario".
 
-### Art. 5
+## Art. 5
 
 Il primo comma dell'articolo 116 del decreto presidenziale 15 dicembre 1959, n. 1229, e' sostituito dal seguente:
 
@@ -90,7 +90,7 @@ Il primo comma dell'articolo 116 del decreto presidenziale 15 dicembre 1959, n. 
 
 6\) registro per i depositi di somme".
 
-### Art. 6
+## Art. 6
 
 L'ultimo comma dell'articolo 120 del decreto presidenziale 15 dicembre 1959, n. 1229, e' sostituito dai seguenti commi:
 
@@ -100,7 +100,7 @@ Alle stesse ispezioni negli uffici di pretura possono procedere da soli anche i 
 
 E' abrogata la legge 24 dicembre 1959, n. 1181.
 
-### Art. 7
+## Art. 7
 
 L'articolo 123 del decreto presidenziale 15 dicembre 1959, n. 1229, e' sostituito dal seguente:
 
@@ -124,19 +124,19 @@ Art. 123. - "Costituiscono proventi degli ufficiali giudiziari:
 
 9\) il diritto di assistenza ad atti di ufficio del magistrato o del cancelliere".
 
-### Art. 8
+## Art. 8
 
 L'articolo 124 del decreto presidenziale 15 dicembre 1959, n. 1229, e' sostituito dal seguente:
 
 Art. 124. - "Per l'iscrizione di ogni atto in uno dei registri di cui ai numeri 1), 2), 3) e 4) dell'articolo 116 e' dovuto all'ufficiale giudiziario il diritto di cronologico nella misura di lire 20".
 
-### Art. 9
+## Art. 9
 
 Il primo comma dell'articolo 125 del decreto presidenziale 15 dicembre 1959, n. 1229, e' sostituito dal seguente:
 
 "Per le copie di cui all'articolo 111, nonche' per le copie delle comunicazioni di cui all'articolo 136 del Codice di procedura civile, e' dovuto all'ufficiale giudiziario il diritto di copia nella misura di lire 20 per ogni pagina",
 
-### Art. 10
+## Art. 10
 
 Gli articoli 126, 127, 128 e 129 del decreto presidenziale 15 (dicembre 1959, n. 1229, sono costituiti dal seguenti:
 
@@ -154,7 +154,7 @@ b) per gli atti relativi ad affari di valore fino a lire un milione, lire 500;
 
 c) per gli atti relativi ad affari di valore superiore a lire un milione o di valore indeterminabile, lire 800".
 
-### Art. 11
+## Art. 11
 
 Il primo comma dell'articolo 130 del decreto presidenziale 15 dicembre 1959, n. 1229, e' sostituito dal seguente:
 
@@ -164,7 +164,7 @@ a) per gli atti di protesto relativi a cambiali, o titoli equiparati, di valore 
 
 b) per gli atti di protesto relativi a cambiali, o titoli equiparati di valore superiore a lire 20.000, lire 80".
 
-### Art. 12
+## Art. 12
 
 Il primo e il secondo comma dell'articolo 131 del decreto presidenziale 15 dicembre 1959, n. 1229, sono sostituiti dai seguenti commi:
 
@@ -172,13 +172,13 @@ Il primo e il secondo comma dell'articolo 131 del decreto presidenziale 15 dicem
 
 Ogni vacazione ha la durata di due ore e comporta il diritto di lire 40".
 
-### Art. 13
+## Art. 13
 
 Dopo l'articolo 132 del decreto presidenziale 15 dicembre 1959, n. 1229, e' inserito il seguente:
 
 Art. 132-bis. - "Quando la richiesta pervenga a mezzo del servizio postale, all'ufficiale giudiziario spetta, oltre al rimborso delle speso relative a tutta la corrispondenza che si rende necessaria per l'espletamento della richiesta e per dare notizia alla parte interessata dell'esito di essa, il diritto di carteggio nella misura di lire 300. Tale diritto non e' dovuto quando la richiesta provenga da una pubblica Amministrazione e non e' computabile ai fini dell'indennita' integrativa e dei versamenti all'Erario".
 
-### Art. 14
+## Art. 14
 
 L'articolo 133 del decreto presidenziale 15 dicembre 1959, n. 1229, e' sostituito dal seguente:
 
@@ -186,7 +186,7 @@ Art. 133. - "Per gli atti compiuti fuori dell'edificio ove l'ufficio giudiziario
 
 L'indennita' non e' dovuta per la notificazione eseguita a mezzo del servizio postale".
 
-### Art. 15
+## Art. 15
 
 Il primo ed il secondo comma dell'articolo 136 del decreto presidenziale 15 dicembre 1959, n. 1229, sono sostituiti dai seguenti commi:
 
@@ -194,7 +194,7 @@ Il primo ed il secondo comma dell'articolo 136 del decreto presidenziale 15 dice
 
 La richiesta di urgenza deve essere scritta e firmata dalla parte richiedente con l'indicazione della data. Essa deve essere fatta sull'atto originale che si restituisce alla parte o sulla matrice del registro per i depositi di somme o separatamente in carta libera, per gli atti che importino la redazione di processo verbale, ma in tal caso deve risultare dal contesto dell'atto e la richiesta deve essere allegata al verbale".
 
-### Art. 16
+## Art. 16
 
 Il primo ed il terzo comma dell'articolo 138 del decreto presidenziale 15 dicembre 1959, n. 1229, sono sostituiti dai seguenti:
 
@@ -204,7 +204,7 @@ L'ufficio del registro, previa ritenuta della tassa del dieci per cento di cui a
 
 E' soppresso il secondo comma dell'articolo 138.
 
-### Art. 17
+## Art. 17
 
 L'articolo 146 del decreto presidenziale 15 dicembre 1959, n. 1229, e' sostituito dal seguente:
 
@@ -214,7 +214,7 @@ L'ufficiale giudiziario o, dove esiste, l'ufficiale giudiziario dirigente deve d
 
 Qualora l'importo delle somme di cui ai precedenti commi sia di notevole entita', il capo dell'ufficio giudiziario puo' disporne il deposito in conto corrente postale o bancario".
 
-### Art. 18
+## Art. 18
 
 Il primo comma dell'articolo 147 del decreto presidenziale 15 dicembre 1959, n. 1229, e' sostituito dai seguenti:
 
@@ -224,7 +224,7 @@ Tutti gli ufficiali giudiziari, addetti allo stesso ufficio debbono ripartire tr
 
 Sono soppressi il quarto e quinto comma dell'articolo 147.
 
-### Art. 19
+## Art. 19
 
 Il primo ed il secondo comma dell'articolo 148 del decreto presidenziale 15 dicembre 1959, n. 1229, sono sostituiti dai seguenti commi:
 
@@ -234,7 +234,7 @@ Tale importo puo' essere progressivamente elevato all'ammontare degli stipendi i
 
 Gli importi di cui al precedente comma sono suscettibili di aumenti periodici costanti, nei limiti, con la norme e alle condizioni stabilite per gli impiegati civili dello Stato; detti aumenti sono concessi con decreto del Presidente della Corte di appello, sentita la Commissione di vigilanza e di disciplina".
 
-### Art. 20
+## Art. 20
 
 Il primo, il secondo, il terzo ed il quarto comma dell'articolo 149 del decreto presidenziale 15 dicembre 1959, n. 1229, sono sostituiti dai seguenti:
 
@@ -244,23 +244,23 @@ Il capo dell'ufficio controllata l'esatta corrispondenza dei dati segnati nello 
 
 I dati risultanti dallo stato sono, a cura del cancelliere trascritti in un registro riassuntivo dei proventi degli ufficiali giudiziari, conforme al modello prescritto dal Ministero".
 
-### Art. 21
+## Art. 21
 
 Il primo comma dell'articolo 150 del decreto presidenziale 15 dicembre 1959, n. 1229, e' sostituito dal seguente:
 
 "L'ufficiale giudiziario, qualora presti contemporaneo servizio in piu' uffici, presenta ai capi di ufficio gli stati relativi ai diritti percepiti in ciascuna sede e, nel caso di cui all'articolo 147, i verbali di riparto. Ai fini dell'indennita' integrativa, si tiene conto soltanto dello stato e dell'eventuale verbale di riparto dai quali l'importo dei diritti risulti maggiore".
 
-### Art. 22
+## Art. 22
 
 E' abrogato l'ultimo comma dell'articolo 154 del decreto presidenziale 15 dicembre 1959, n. 1229.
 
-### Art. 23
+## Art. 23
 
 Il testo dell'articolo 155 del decreto presidenziale 15 dicembre 1959, n. 1229, e' sostituito dal seguente:
 
 Art. 155. - "Quando l'ammontare dei diritti computabili ai fini dell'indennita' integrativa, al netto del dieci per cento per le spese di ufficio e del dieci per cento della tassa erariale, superi annualmente l'importo dello stipendio annuo, al secondo aumento periodico, spettante all'impiegato civile dello Stato avente la qualifica di segretario principale, l'ufficiale giudiziario deve versare all'Erario il cinquanta per cento della parte dei diritti che ecceda detto importo: la percentuale della tassa da versare e' elevata al settanta per cento per la parte dei diritti che ecceda l'importo dello stipendio annuo all'ottavo aumento periodico spettante all'impiegato civile dello Stato avente la qualifica di segretario capo".
 
-### Art. 24
+## Art. 24
 
 Dopo l'articolo 155 del decreto presidenziale 15 dicembre 1959, n. 1229, e' inserito il seguente:
 
@@ -268,37 +268,37 @@ Art. 155-bis. - "Il capo dell'ufficio, sulla base dei dati risultanti dallo stat
 
 L'importo della tassa dovuta deve essere versato a cura dell'ufficiale giudiziario o, dove esiste dall'ufficiale giudiziario dirigente, entro il mese successivo a quello cui si riferisce, all'Ufficio del registro, al quale deve essere trasmesso un esemplare dello stato dei proventi. Detto importo o gli estremi del versamento debbono essere annotati nel registro di cui al terzo comma dell'articolo 149".
 
-### Art. 25
+## Art. 25
 
 Il secondo comma dell'articolo 156 del decreto presidenziale 15 dicembre 1959, numero 1229, e' sostituito dal seguente:
 
 "L'Ufficio del registro dopo gli opportuni accertamenti sulla esattezza delle annotazioni fatte e sulla regolarita' dei versamenti eseguiti nell'anno, liquida la somma spettante all'erario in base agli articoli precedenti".
 
-### Art. 26
+## Art. 26
 
 Il primo comma dell'articolo 158 del decreto presidenziale 15 dicembre 1959, n. 1229, e' sostituito dal seguente:
 
 "Quando l'ufficiale giudiziario presti contemporaneo servizio in piu' uffici, per stabilire l'ammontare della tassa dovuta all'Erario ai sensi dell'articolo 155, si calcolano cumulativamente tutti i diritti percepiti in ciascun ufficio".
 
-### Art. 27
+## Art. 27
 
 Il primo comma dell'articolo 161 del decreto presidenziale 15 dicembre 1959, n. 1229, e' sostituito dal seguente:
 
 "Il numero complessivo degli aiutanti ufficiali giudiziari e' di 1.600. La pianta organica per ogni ufficio e stabilita con decreto motivato del Ministro".
 
-### Art. 28
+## Art. 28
 
 Il secondo comma dell'articolo 167 del decreto presidenziale 15 dicembre 1959, n. 1229, e' sostituito dal seguente:
 
 "L'importo dei diritti e delle indennita' recuperati spettanti agli aiutanti ufficiali giudiziari deve essere ripartito insieme con gli altri proventi riscossi nel mese; la percentuale di cui al comma precedente spetta all'aiutante ufficiale giudiziario che abbia prestato effettivo servizio nell'ultimo giorno del bimestre cui si riferisce la percentuale stessa".
 
-### Art. 29
+## Art. 29
 
 Il primo comma dell'articolo 168 del decreto presidenziale 15 dicembre 1959, n. 1229, e' sostituito dal seguente:
 
 "Gli aiutanti ufficiali giudiziari addetti allo stesso ufficio debbono ripartire tra loro in quote uguali i diritti, nonche' la parte di percentuale sui crediti recuperati dall'Erario loro spettante, al netto delle spese di ufficio dovute nella misura del dieci per cento e detratte ai sensi dell'articolo 147".
 
-### Art. 30
+## Art. 30
 
 Gli articoli 169 e 171 del decreto presidenziale 15 dicembre 1959, n. 1229, sono sostituiti dai seguenti:
 
@@ -314,11 +314,11 @@ Quando l'ammontare dei diritti computabili ai fini dell'indennita' integrativa, 
 
 Si applicano agli aiutanti ufficiali giudiziari le disposizioni contenute negli articoli 155-bis, 156, 157, 158 e 159".
 
-### Art. 31
+## Art. 31
 
 E' abrogato l'articolo 174 del decreto presidenziale 15 dicembre 1959, n. 1229.
 
-### Art. 32
+## Art. 32
 
 Tra il quarto ed il quinto comma dell'articolo 154 del decreto presidenziale 15 dicembre 1959, n. 1229, e' inserito il seguente:
 
@@ -330,7 +330,7 @@ Il quinto comma dell'articolo 154 del decreto presidenziale 15 dicembre 1959, n.
 
 ## DISPOSIZIONI TRANSITORIE E FINALI
 
-### Art. 33
+## Art. 33
 
 Per un periodo di cinque anni dall'entrata in vigore della presente legge, possono partecipare ai concorsi per aiutante ufficiale giudiziario, tutti coloro i quali, prestando servizio al 31 dicembre 1961 ed essendo in possesso degli altri requisiti richiesti dal decreto presidenziale 15 dicembre 1959, n. 1229, e non avendo superato il 45° anno di eta', prestino servizio presso gli uffici degli ufficiali giudiziari. Vi possono anche partecipare, fino al suddetto limite di eta' di anni 45 e col possesso dei titoli prescritti, i messi di conciliazione che esercitino o abbiano esercitato le funzioni di ufficiale giudiziario o di aiutante ufficiale giudiziario.
 
@@ -338,17 +338,17 @@ In favore di tutti i suddetti concorrenti la votazione di cui all'ultimo capover
 
 L'aumento del punteggio e' deliberato dalla Commissione a favore di ciascun candidato che risulti avervi diritto subito dopo l'attribuzione del voto per la prova orale.
 
-### Art. 34
+## Art. 34
 
 All'onere derivante dall'attuazione della presente legge, valutato in lire 130.000.00 annue si provvedera' con l'aumento della somma fissa prevista dal precedente articolo 32.
 
 Il Ministro per il tesoro e' autorizzato a provvedere, con propri decreti, alle occorrenti variazioni di bilancio.
 
-### Art. 35
+## Art. 35
 
 La presente legge entra in vigore il primo giorno del mese successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
-### Art. 36
+## Art. 36
 
 IL Governo e' autorizzato a coordinare in un testo unico le norme di cui al decreto presidenziale 15 dicembre 1959, n. 1229, con quelle di cui alla presente legge.
 

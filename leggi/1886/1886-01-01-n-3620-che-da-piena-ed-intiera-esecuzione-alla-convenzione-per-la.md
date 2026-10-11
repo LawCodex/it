@@ -30,17 +30,17 @@ Il Senato e la Camera dei deputati hanno approvato;
 
 Noi abbiamo sanzionato e promulghiamo quanto segue:
 
-### Art. 1
+## Art. 1
 
 Piena ed intiera esecuzione sara' data alla Convenzione per la protezione dei cavi sottomarini conclusa a Parigi fra l'Italia ed altri Stati il 14 marzo 1884, e le cui ratifiche vennero ivi scambiate il 30 dicembre 1885.
 
-### Art. 2
+## Art. 2
 
 In adempimento di quanto e' disposto nell'art. 12 della Convenzione predetta, la repressione dei reati in essa contemplati e commessi a bordo di nave italiana, o da nazionale giudicabile nel Regno, ai termini del capoverso dell'art. 8 della Convenzione stessa, sara' regolata dalle norme seguenti:
 
 ## Telegrafi sottomarini posti fuori delle acque territoriali.
 
-### Art. 3
+## Art. 3
 
 Chiunque volontariamente rompe o guasta, fuori delle acque territoriali, un cavo o altro ordigno di un telegrafo sottomarino, legalmente posto e che tocca il territorio, una colonia od un possedimento di uno o piu' degli Stati contraenti della Convenzione del 14 marzo 1884, e in tal modo interrompe od impedisce, in tutto od in parte, le comunicazioni telegrafiche, sara' punito con la carcere per la durata non minore di un anno e con la multa non minore di lire 500, salvo l'azione per il risarcimento dei danni ed interessi.
 
@@ -52,7 +52,7 @@ AGGIORNAMENTO (2)
 
 La L. 19 dicembre 1956, n. 1447 ha disposto (con l'art. 13, comma 1) che "Le disposizioni della presente legge sostituiscono le norme contenute negli articoli da 3 a 22 della legge 1 gennaio 1886, n. 3620".
 
-### Art. 4
+## Art. 4
 
 Il precedente articolo non e' applicabile a coloro che, dopo aver usato le necessarie precauzioni, saranno stati costretti a rompere un telegrafo sottomarino od a cagionare ad esso dei guasti per proteggere la propria vita o per la sicurezza delle loro navi.
 
@@ -66,7 +66,7 @@ AGGIORNAMENTO (2)
 
 La L. 19 dicembre 1956, n. 1447 ha disposto (con l'art. 13, comma 1) che "Le disposizioni della presente legge sostituiscono le norme contenute negli articoli da 3 a 22 della legge 1 gennaio 1886, n. 3620".
 
-### Art. 5
+## Art. 5
 
 Sara' soggetto alla pena della multa di lire 51 a 500 colui che avra' scientemente imbarcato istrumenti atti esclusivamente a spezzare od a distruggere i telegrafi sottomarini.
 
@@ -78,7 +78,7 @@ AGGIORNAMENTO (2)
 
 La L. 19 dicembre 1956, n. 1447 ha disposto (con l'art. 13, comma 1) che "Le disposizioni della presente legge sostituiscono le norme contenute negli articoli da 3 a 22 della legge 1 gennaio 1886, n. 3620".
 
-### Art. 6
+## Art. 6
 
 Sara' soggetto alla multa da lire 51 a 500 ed alla carcere da sei giorni fino a due mesi:
 
@@ -96,7 +96,7 @@ AGGIORNAMENTO (2)
 
 La L. 19 dicembre 1956, n. 1447 ha disposto (con l'art. 13, comma 1) che "Le disposizioni della presente legge sostituiscono le norme contenute negli articoli da 3 a 22 della legge 1 gennaio 1886, n. 3620".
 
-### Art. 7
+## Art. 7
 
 Sara' punito con la multa da lire 51 a 500:
 
@@ -114,7 +114,7 @@ AGGIORNAMENTO (2)
 
 La L. 19 dicembre 1956, n. 1447 ha disposto (con l'art. 13, comma 1) che "Le disposizioni della presente legge sostituiscono le norme contenute negli articoli da 3 a 22 della legge 1 gennaio 1886, n. 3620".
 
-### Art. 8
+## Art. 8
 
 Sara' punito con la multa da lire 51 a 500 e con la carcere da sei giorni ad un mese:
 
@@ -134,7 +134,7 @@ La L. 19 dicembre 1956, n. 1447 ha disposto (con l'art. 13, comma 1) che "Le dis
 
 ## Telegrafi sottomarini nelle acque territoriali.
 
-### Art. 9
+## Art. 9
 
 Le disposizioni degli articoli precedenti saranno osservate anche nel caso in cui i suddetti reati siano stati commessi nelle acque territoriali da chiunque sia a bordo di una nave italiana o straniera.
 
@@ -150,7 +150,7 @@ La L. 19 dicembre 1956, n. 1447 ha disposto (con l'art. 13, comma 1) che "Le dis
 
 ## Disposizioni generali.
 
-### Art. 10
+## Art. 10
 
 La cognizione dei reati indicati nei precedenti articoli appartiene ai Tribunali ed ai pretori, giusta le norme del Codice di procedura penale, od ai Regi Tribunali consolari residenti in paesi stranieri, nei quali e' permesso l'esercizio della giurisdizione consolare.
 
@@ -162,7 +162,7 @@ AGGIORNAMENTO (2)
 
 La L. 19 dicembre 1956, n. 1447 ha disposto (con l'art. 13, comma 1) che "Le disposizioni della presente legge sostituiscono le norme contenute negli articoli da 3 a 22 della legge 1 gennaio 1886, n. 3620".
 
-### Art. 11
+## Art. 11
 
 La competenza a conoscere dei suddetti reati commessi nel territorio dello Stato e nel mare territoriale e' determinata dal luogo ove sono avvenuti.
 
@@ -178,7 +178,7 @@ AGGIORNAMENTO (2)
 
 La L. 19 dicembre 1956, n. 1447 ha disposto (con l'art. 13, comma 1) che "Le disposizioni della presente legge sostituiscono le norme contenute negli articoli da 3 a 22 della legge 1 gennaio 1886, n. 3620".
 
-### Art. 12
+## Art. 12
 
 L'azione penale derivante dai suddetti reati si esercita d'ufficio.
 
@@ -190,7 +190,7 @@ AGGIORNAMENTO (2)
 
 La L. 19 dicembre 1956, n. 1447 ha disposto (con l'art. 13, comma 1) che "Le disposizioni della presente legge sostituiscono le norme contenute negli articoli da 3 a 22 della legge 1 gennaio 1886, n. 3620".
 
-### Art. 13
+## Art. 13
 
 I procedimenti riguardanti tali reati dovranno sempre essere spediti d'urgenza.
 
@@ -202,7 +202,7 @@ AGGIORNAMENTO (2)
 
 La L. 19 dicembre 1956, n. 1447 ha disposto (con l'art. 13, comma 1) che "Le disposizioni della presente legge sostituiscono le norme contenute negli articoli da 3 a 22 della legge 1 gennaio 1886, n. 3620".
 
-### Art. 14
+## Art. 14
 
 I reati puniti dalla presente legge potranno essere provati nei modi e per mezzo degli ufficiali indicati nel Codice di precedura penale e in quello per la marina mercantile.
 
@@ -220,7 +220,7 @@ AGGIORNAMENTO (2)
 
 La L. 19 dicembre 1956, n. 1447 ha disposto (con l'art. 13, comma 1) che "Le disposizioni della presente legge sostituiscono le norme contenute negli articoli da 3 a 22 della legge 1 gennaio 1886, n. 3620".
 
-### Art. 15
+## Art. 15
 
 Il capitano di una nave italiana, il quale si nega di esibire i documenti chiestigli dagli uffiziali indicati nel precedente articolo sara' soggetto alla multa da lire 51 a 500.
 
@@ -232,7 +232,7 @@ AGGIORNAMENTO (2)
 
 La L. 19 dicembre 1956, n. 1447 ha disposto (con l'art. 13, comma 1) che "Le disposizioni della presente legge sostituiscono le norme contenute negli articoli da 3 a 22 della legge 1 gennaio 1886, n. 3620".
 
-### Art. 16
+## Art. 16
 
 Gli uffiziali che, giusta il primo capoverso dell'articolo 14, hanno il diritto di chiedere l'esibizione dei documenti ivi indicati, e di compilare verbali per i reati puniti dalla presente legge, sono da riguardarsi come pubblici uffiziali, e quindi gli oltraggi, le violenze ed ogni altro atto contro di loro saranno soggetti alle stesse pene che sono inflitte per gli stessi reati commessi a danno di pubblici uffiziali dello Stato.
 
@@ -244,7 +244,7 @@ AGGIORNAMENTO (2)
 
 La L. 19 dicembre 1956, n. 1447 ha disposto (con l'art. 13, comma 1) che "Le disposizioni della presente legge sostituiscono le norme contenute negli articoli da 3 a 22 della legge 1 gennaio 1886, n. 3620".
 
-### Art. 17
+## Art. 17
 
 In caso di recidiva, sara' inflitto al colpevole il massimo della pena, che potra' essere aumentata anche di una meta'.
 
@@ -258,7 +258,7 @@ AGGIORNAMENTO (2)
 
 La L. 19 dicembre 1956, n. 1447 ha disposto (con l'art. 13, comma 1) che "Le disposizioni della presente legge sostituiscono le norme contenute negli articoli da 3 a 22 della legge 1 gennaio 1886, n. 3620".
 
-### Art. 18
+## Art. 18
 
 Per il colpevole di piu' reati si attuano le norme stabilite dal Codice penale del 20 novembre 1859 negli articoli 106 e seguenti, e dal Codice penale toscano negli articoli 72 e seguenti.
 
@@ -270,7 +270,7 @@ AGGIORNAMENTO (2)
 
 La L. 19 dicembre 1956, n. 1447 ha disposto (con l'art. 13, comma 1) che "Le disposizioni della presente legge sostituiscono le norme contenute negli articoli da 3 a 22 della legge 1 gennaio 1886, n. 3620".
 
-### Art. 19
+## Art. 19
 
 Nell'applicazione delle pene stabilite dalla presente legge, si seguiranno altresi' le norme indicate dai detti Codici sul passaggio da una ad altra pena, sulle cause che escludono o diminuiscono l'imputazione, sul tentativo, sul concorso di piu' persone ad uno stesso reato e sulla prescrizione.
 
@@ -282,7 +282,7 @@ AGGIORNAMENTO (2)
 
 La L. 19 dicembre 1956, n. 1447 ha disposto (con l'art. 13, comma 1) che "Le disposizioni della presente legge sostituiscono le norme contenute negli articoli da 3 a 22 della legge 1 gennaio 1886, n. 3620".
 
-### Art. 20
+## Art. 20
 
 Nei casi indicati negli articoli 3 e 16 della presente legge, il capitano o padrone della nave, sulla quale fu commesso il reato, osservera', quanto all'imputato, le stesse norme indicate negli articoli 436 e seguenti del Codice per la marina mercantile.
 
@@ -294,7 +294,7 @@ AGGIORNAMENTO (2)
 
 La L. 19 dicembre 1956, n. 1447 ha disposto (con l'art. 13, comma 1) che "Le disposizioni della presente legge sostituiscono le norme contenute negli articoli da 3 a 22 della legge 1 gennaio 1886, n. 3620".
 
-### Art. 21
+## Art. 21
 
 Se concorrono circostanze attenuanti a favore dei colpevoli dei reati puniti dalla presente legge, si dovra' diminuire la pena di un grado.
 
@@ -306,7 +306,7 @@ AGGIORNAMENTO (2)
 
 La L. 19 dicembre 1956, n. 1447 ha disposto (con l'art. 13, comma 1) che "Le disposizioni della presente legge sostituiscono le norme contenute negli articoli da 3 a 22 della legge 1 gennaio 1886, n. 3620".
 
-### Art. 22
+## Art. 22
 
 Saranno dichiarati civilmente responsabili delle multe inflitte per reati puniti dalla presente legge ed altresi' dei danni che ne sono derivati, gli armatori delle navi, su cui i reati furono commessi, anche se la nave loro non appartenga.
 
@@ -322,7 +322,7 @@ AGGIORNAMENTO (2)
 
 La L. 19 dicembre 1956, n. 1447 ha disposto (con l'art. 13, comma 1) che "Le disposizioni della presente legge sostituiscono le norme contenute negli articoli da 3 a 22 della legge 1 gennaio 1886, n. 3620".
 
-### Art. 23
+## Art. 23
 
 ((Le disposizioni della presente legge, la quale andra' in vigore il giorno che sara' ulteriormente determinato con decreto Reale, non potranno in alcun modo riguardare i belligeranti, ne' vincolare la loro liberta' d'azione)).
 
@@ -344,7 +344,7 @@ Visto, Il Guardasigilli: TAJANI.
 
 ## Disposizioni generali.
 
-### Convention
+## Convention
 
 Convention pour la protection des cables sous-marins.
 

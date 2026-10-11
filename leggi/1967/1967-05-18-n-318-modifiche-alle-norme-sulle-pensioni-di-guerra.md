@@ -26,19 +26,19 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Le pensioni, gli assegni rinnovabili e le indennita' per i mutilati ed invalidi di guerra, sia militari che civili, sono concessi e liquidati in base alla tabella C annessa alla presente legge.
 
 La tabella E annessa alla legge 10 agosto 1950, n. 648, modificata dall'articolo 4 della legge 26 luglio 1957, n. 616 e le tabelle G, I, M, O annesse alla legge 25 gennaio 1962, n. 12, sono sostituite dalle corrispondenti tabelle allegate alla presente legge.
 
-### Art. 2
+## Art. 2
 
 L'assegno complementare previsto dall'articolo 3 della legge 26 luglio 1957, n. 616, a favore degli invalidi di prima categoria, con o senza assegno di superinvalidita', e' stabilito nella misura unica di lire 324.000 annue.
 
 L'articolo 1 della legge 25 novembre 1964, n. 1266, e soppresso.
 
-### Art. 3
+## Art. 3
 
 Nel caso in qui con una invalidita' ascrivibile alla 1 categoria della tabella A annessa alla legge 10 agosto 1950, n. 648, coesistano altre infermita', al mutilato o invalido e' dovuto un assegno per cumulo di infermita' nella misura indicata dall'annessa tabella F.
 
@@ -52,7 +52,7 @@ Qualora le infermita' siano piu' di due, il trattamento complessivo e' determina
 
 L'articolo 31 della legge 10 agosto 1950, n. 648 e la tabella F annessa alla legge stessa sono soppressi.
 
-### Art. 4
+## Art. 4
 
 Ai mutilati ed agli invalidi di guerra, forniti di pensione o di assegno rinnovabile di la categoria, con o senza assegno di superinvalidita', che non svolgano attivita' lavorativa in proprio o alle dipendenze di altri e che risultino, ai sensi delle leggi in vigore, non assoggettabili all'imposta complementare, e' concesso un assegno speciale temporaneo non riversibile di lire 60 mila annue. ((1))
 
@@ -62,7 +62,7 @@ AGGIORNAMENTO (1)
 
 La L. 18 marzo 1968, n. 313 ha disposto (con l'art. 121, comma 4) che "A decorrere dal 16 gennaio 1968 l'assegno speciale temporaneo di cui all'articolo 4 della legge 18 maggio 1967, n. 318, e' soppresso".
 
-### Art. 5
+## Art. 5
 
 L'articolo 44 della legge 10 agosto 1950, n. 648, quale risulta dall'articolo 7 della legge 9 novembre 1961, numero 1240, e' sostituito dal seguente:
 
@@ -86,7 +86,7 @@ Gli invalidi, fruenti dell'assegno di incollocabilita', hanno l'obbligo, qualora
 
 Qualora l'invalido ometta la denuncia di cui al precedente comma, sono recuperate le somme indebitamente corrisposte e puo' essere comminata, sentita la Opera nazionale per gli invalidi di guerra, una sanzione pecuniaria a carattere civile fino ad un importo massimo corrispondente a sei mensilita' dell'assegno di incollocabilita'".
 
-### Art. 6
+## Art. 6
 
 Il primo comma dell'articolo 44-bis della legge 10 agosto 1950, n. 648, quale risulta dall'articolo 7 della legge 9 novembre 1961, n. 1240, e' sostituito dal seguente:
 
@@ -94,17 +94,17 @@ Il primo comma dell'articolo 44-bis della legge 10 agosto 1950, n. 648, quale ri
 
 L'articolo 3 della legge 25 novembre 1964, n. 1266, e' soppresso.
 
-### Art. 7
+## Art. 7
 
 L'ammontare dell'assegno di previdenza, previsto dall'articolo 2 della legge 25 novembre 1964, n. 1266, a favore dei mutilati e degli invalidi titolari di pensione o di assegno rinnovabile dalla 2ª all'8ª categoria, e' elevato da lire 174.000 a lire 186.000 annue.
 
-### Art. 8
+## Art. 8
 
 Il secondo comma dell'articolo 28 della legge 10 agosto 1950, n. 648, modificato dall'articolo 1 della legge 30 ottobre 1955, n. 1063 e dall'articolo 11 della legge 26 luglio 1957, n. 616, e' sostituito dal seguente:
 
 "A favore degli invalidi di la categoria che non svolgano comunque un'attivita' lavorativa in proprio o alle dipendenze di altri, e' concessa una indennita' speciale annua pari ad una mensilita' del trattamento complessivo della pensione in godimento compresi i relativi assegni accessori. Tale indennita' e' liquidata con le norme stabilite dalla legge 29 luglio 1949, n. 472. La indennita' speciale pari ad un dodicesimo del trattamento annuo complessivo fruito spetta anche agli invalidi ascritti alle categorie dalla 2ª all'8ª che non svolgano una attivita' lavorativa in proprio o alle dipendenze di altri e che risultino, ai sensi delle leggi in vigore, non assoggettabili per il loro reddito complessivo all'imposta complementare. L'indennita' speciale di cui al presente articolo e' corrisposta dalle Direzioni provinciali del tesoro competenti in unica soluzione entro il mese di dicembre di ciascun anno".
 
-### Art. 9
+## Art. 9
 
 L'articolo 73 della legge 10 agosto 1950, n. 648, e' cosi' modificato:
 
@@ -112,15 +112,15 @@ L'articolo 73 della legge 10 agosto 1950, n. 648, e' cosi' modificato:
 
 Si considera che siano venuti meno i necessari mezzi di sussistenza quando il richiedente risulti non assoggettabile per l'ammontare del suo reddito complessivo all'imposta complementare ai sensi delle leggi in vigore".
 
-### Art. 10
+## Art. 10
 
 L'ammontare dell'assegno di previdenza a favore delle vedove e dei genitori in possesso della pensione di guerra prevista dalle tabelle G, I, M, O, e' elevato da lire 66.000 a lire 90.000 annue.
 
-### Art. 11
+## Art. 11
 
 L'ammontare dell'assegno di previdenza a favore degli orfani e dei collaterali maggiorenni inabili a proficuo lavoro, titolari della pensione di guerra di cui alle tabelle I ed O annesse alla presente legge, e' elevato da lire 30.000 a lire 90.000 annue.
 
-### Art. 12
+## Art. 12
 
 Nel caso in cui il militare o il civile mutilato od invalido di guerra per una infermita' ascrivibile dalla 2ª all'8ª categoria della tabella A annessa alla legge 10 agosto 1950, n. 648, venga a morire per cause diverse da quelle che hanno determinato l'invalidita' di guerra, alla vedova, contro la quale non sussista sentenza di separazione personale passata in giudicato, spetta, a titolo di riversibilita' della pensione o dell'assegno rinnovabile di cui godeva od a cui aveva diritto il coniuge, il trattamento economico stabilito dall'allegata tabella L, purche' il matrimonio sia durato non meno di un anno ovvero sia nata prole ancorche' postuma.
 
@@ -138,25 +138,25 @@ Alla concessione del trattamento di cui al presente articolo provvedono, a doman
 
 L'articolo 69 della legge 10 agosto 1950, n. 648 e lo articolo 4 della legge 25 gennaio 1962, n. 12, sono soppressi.
 
-### Art. 13
+## Art. 13
 
 Ai titolari del trattamento pensionistico di cui alle tabelle G, I, M ed O annesse alla presente legge, che non svolgano attivita' lavorativa in proprio o alle dipendenze di altri e che risultino, ai sensi delle leggi in vigore, non assoggettabili per l'ammontare del loro reddito complessivo all'imposta complementare, spetta una indennita' speciale pari ad un dodicesimo del trattamento complessivo annuo fruito da corrispondersi, a cura delle competenti Direzioni provinciali del tesoro, in unica soluzione nel mese di dicembre di ciascun anno.
 
-### Art. 14
+## Art. 14
 
 L'aumento d'integrazione previsto dall'articolo 46 della legge 10 agosto 1950, n. 648 e successive modificazioni, compete anche per i figli maggiorenni, nubili se di sesso femminile, qualora siano iscritti ad Universita' o ad Istituti superiori equiparati, per la durata del corso legale, ma non oltre il 260 anno di eta'.
 
-### Art. 15
+## Art. 15
 
 All'articolo 62 della legge 10 agosto 1950, n. 648, e' aggiunto il seguente comma: "Ai fini del presente articolo sono equiparati ai minori gli orfani maggiorenni, nubili se di sesso femminile, iscritti ad Universita' o ad Istituti superiori equiparati, per tutta la durata del corso legale, ma non oltre il 260 anno di eta'".
 
 Le disposizioni di cui alla legge 5 marzo 1965, n. 164, sono abrogate.
 
-### Art. 16
+## Art. 16
 
 Ai fini dell'applicazione delle disposizioni concernenti la protezione e l'assistenza degli orfani di guerra e dei figli degli invalidi di guerra, sono equiparati ai minorenni gli studenti universitari fino al compimento del 260 anno di eta', purche' non esercitino altro lavoro e non abbiano altri redditi per i quali siano iscritti nei ruoli dell'imposta complementare.
 
-### Art. 17
+## Art. 17
 
 L'articolo 99 della legge 10 agosto 1950, n. 648, sostituito dall'articolo 35 della legge 9 novembre 1961, numero 1240, e' cosi' modificato:
 
@@ -178,7 +178,7 @@ I membri del Comitato di liquidazione non possono essere nominati o confermati n
 
 Alla direzione della segreteria del Comitato e' preposto un funzionario del Ministero del tesoro con qualifica non inferiore a quella di direttore di divisione".
 
-### Art. 18
+## Art. 18
 
 L'articolo 100 della legge 10 agosto 1950, n. 648, e' sostituito dal seguente:
 
@@ -202,7 +202,7 @@ L'articolo 36 della legge 9 novembre 1961, n. 1240, e' abrogato".
 
 ## Disposizioni transitorie e finali
 
-### Art. 19
+## Art. 19
 
 Gli aumenti derivanti dall'applicazione delle annesse tabelle C, D, G, I, M ed O sono concessi d'ufficio con le Seguenti decorrenze:
 
@@ -220,19 +220,19 @@ La domanda deve essere presentata alla Direzione provinciale del tesoro competen
 
 Ogni altro nuovo beneficio previsto dalla presente legge, ivi compreso quello derivante dalle piu' favorevoli assegnazioni delle invalidita' alle lettere della tabella E, deve essere richiesto con apposita domanda al Ministero del tesoro - Direzione generale delle pensioni di guerra. Se la domanda e' presentata entro il termine di un anno dalla data di entrata in vigore della presente legge, i nuovi benefici decorrono dalla data suddetta. Qualora la domanda venga presentata dopo tale termine, i benefici medesimi decorrono dal primo giorno del mese successivo a quello della presentazione della domanda stessa.
 
-### Art. 20
+## Art. 20
 
 Sino al 31 dicembre 1967 le pensioni, gli assegni rinnovabili e le indennita' per i mutilati ed invalidi di guerra, sono concessi e liquidati in base alle tabelle C e D, annesse alla presente legge, secondo i criteri stabiliti dall'articolo 26 della legge 10 agosto 1950, n. 648.
 
 Con effetto dal 1 gennaio 1968 la tabella D e' soppressa.
 
-### Art. 21
+## Art. 21
 
 Alla copertura degli oneri derivanti dalla applicazione della presente legge, valutati in 6 miliardi per l'esercizio 1966 e in 25 miliardi per l'esercizio 1967, si provvede con le dotazioni apposite iscritte nel capitolo 3523 dello stato di previsione della spesa del Ministero del tesoro, per i rispettivi esercizi.
 
 Il Ministro per il tesoro e' autorizzato a provvedere, con propri decreti, alle occorrenti variazioni di bilancio.
 
-### Art. 22
+## Art. 22
 
 La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -248,7 +248,7 @@ Visto, il Guardasigilli: REALE
 
 ## Disposizioni transitorie e finali
 
-### Allegato
+## Allegato
 
 Ammontare annuo dalla 1ª all'8ª categoria
 

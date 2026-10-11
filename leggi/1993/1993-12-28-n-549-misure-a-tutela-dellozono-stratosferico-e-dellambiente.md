@@ -32,7 +32,7 @@ la seguente legge:
 
 ## CAPO I - FINALITA' E OGGETTO
 
-#### Art. 1 - Finalita' della legge
+### Art. 1 - Finalita' della legge
 
 1\. La presente legge ha lo scopo di favorire la cessazione dell'impiego delle sostanze lesive dell'ozono stratosferico e dannose per l'ambiente, nonche' di disciplinare le fasi di raccolta, riciclo e smaltimento di tali sostanze, in conformita':
 
@@ -48,11 +48,11 @@ b) alla raccomandazione 89/349/CEE della Commissione, del 13 aprile 1989, concer
 
 4\. Le disposizioni della presente legge non si applicano alle regioni a statuto speciale e alle province autonome di Trento e di Bolzano se incompatibili con le attribuzioni previste dai rispettivi statuti e dalle relative norme di attuazione.
 
-#### Art. 2 - Oggetto della legge
+### Art. 2 - Oggetto della legge
 
 1\. La produzione, il consumo, l'importazione, l'esportazione, la detenzione, la raccolta, il riciclo e la commercializzazione delle sostanze lesive dell'ozono stratosferico e dannose per l'ambiente, di cui alle tabelle A e B allegate alla presente legge, di seguito de- nominate "sostanze lesive", sono disciplinati dalla presente legge.
 
-#### Art. 3 - Cessazione e riduzione dell'impiego delle sostanze lesive
+### Art. 3 - Cessazione e riduzione dell'impiego delle sostanze lesive
 
 1\. La produzione, il consumo, l'importazione, l'esportazione, la detenzione e la commercializzazione delle sostanze lesive di cui alla tabella A allegata alla presente legge sono regolati dalle disposizioni di cui al regolamento (CE) n. 3093/94.
 
@@ -68,7 +68,7 @@ b) alla raccomandazione 89/349/CEE della Commissione, del 13 aprile 1989, concer
 
 ## CAPO II - CONTROLLI SULL'ATTUAZIONE DELLA LEGGE
 
-#### Art. 4 - Competenze in materia di protezione dell'ozono stratosferico
+### Art. 4 - Competenze in materia di protezione dell'ozono stratosferico
 
 1\. n Ministro dell'ambiente esercita le funzioni dell'autorita' competente di cui al citato regolamento (CEE) n. 594/91.
 
@@ -78,7 +78,7 @@ b) alla raccomandazione 89/349/CEE della Commissione, del 13 aprile 1989, concer
 
 > \- Per il titolo del citato regolamento (CEE) n. 594/91, come modificato ed integrato dal citato regolamento (CEE) n. 3952/91, si veda in nota all'art. 1.
 
-#### Art. 5
+### Art. 5
 
 (Funzioni dell'Agenzia nazionale per la protezione dell'ambiente) 1. L'Agenzia nazionale per la protezione dell'ambiente provvede:
 
@@ -110,7 +110,7 @@ h) a definire le norme tecniche e le modalita' per la prevenzione delle emission
 
 ## CAPO III - SMALTIMENTO E RICICLO DELLE SOSTANZE LESIVE
 
-#### Art. 6
+### Art. 6
 
 (( (Obblighi in materia di recupero e smaltimento) ))
 
@@ -166,23 +166,21 @@ h) delle norme tecniche e delle modalita' per lo smaltimento ed il riciclo delle
 
 i) delle modalita' per l'applicazione dell'etichettatura e degli obblighi di informazione di cui all'articolo 12)).
 
-#### Art. 7
+### Art. 7
 
 (( ARTICOLO ABROGATO DALLA L. 16 GIUGNO 1997, N. 179 ))
 
-#### Art. 8
+### Art. 8
 
 (( ARTICOLO ABROGATO DALLA L. 16 GIUGNO 1997, N. 179 ))
 
-#### Art. 9
+### Art. 9
 
 (( ARTICOLO ABROGATO DALLA L. 16 GIUGNO 1997, N. 179 ))
 
-## CAPO IV - ICENTIVI E TUTELA DELLA SALUTE
+## CAPO IV - ICENTIVI E TUTELA DELLA SALUTE INFORMAZIONE DEL CONSUMATORE
 
-### INFORMAZIONE DEL CONSUMATORE
-
-#### Art. 10
+### Art. 10
 
 (Incentivi per la riconversione produttiva e per la ricerca
 
@@ -214,7 +212,7 @@ proprio parere sui programmi di cui ai commi 1 e 2
 
 > Il CIPI, entro trenta giorni dall'entrata in vigore della presente legge, stabilisce le condizioni di ammissibilita' agli interventi del Fondo, indica la proprieta' di questi avendo riguardo alle esigenze generali dell'economia nazionale e determina i criteri per le modalita' dell'istruttoria".
 
-#### Art. 11
+### Art. 11
 
 Art. 11. (Campagne di informazione e di educazione)
 
@@ -232,7 +230,7 @@ d) alla conoscenza di idonee sostanze sostitutive non dannose per la salute e pe
 
 3\. Per le finalita' di cui al comma 1, il Ministro dell'ambiente, d'intesa con il Ministro della pubblica istruzione, predispone altresi' campagne di educazione nelle scuole di ogni ordine e grado ((, rientranti nei programmi tecnici e scientifici )).
 
-#### Art. 12 - Etichettatura e informazione del consumatore
+### Art. 12 - Etichettatura e informazione del consumatore
 
 (( 1. I prodotti e i beni, contenenti le sostanze lesive, prodotti nel territorio dello Stato o provenienti da Stati esteri, a decorrere dal sessantesimo giorno successivo alla data di entrata in vigore del regolamento di cui all'articolo 6, comma 7, lettera i), devono recare sull'etichetta, ovvero sulla superficie esterna, una scritta chiaramente leggibile posta in un punto ben visibile con la seguente dicitura: "Questo prodotto contiene sostanze che danneggiano l'ozono stratosferico; alla fine del suo utilizzo deve essere consegnato agli appositi centri di raccolta: chiedere informazioni ai servizi di gestione della nettezza urbana nel vostro comune". ))
 
@@ -258,13 +256,13 @@ b) agli obblighi relativi al conferimento e allo smaltimento del prodotto o del 
 
 c) alle eventuali agevolazioni relative a prodotti o beni equipollenti.
 
-#### Art. 13 - Monitoraggio dei livelli dell'ozono stratosferico e della radiazione ultravioletta
+### Art. 13 - Monitoraggio dei livelli dell'ozono stratosferico e della radiazione ultravioletta
 
 1\. Il Ministro dell'ambiente, di concerto con il Ministro della sanita' e con il Ministro dell'universita' e della ricerca scientifica e tecnologica, entro tre mesi dalla data di entrata in vigore della presente legge predispone il monitoraggio dei livelli dell'ozono stratosferico e della radiazione ultravioletta al suolo e trasmette al Parlamento, entro il 30 giugno di ciascun anno, una relazione sulle relative risultanze.
 
 ## CAPO V - DISPOSIZIONI FINALI
 
-#### Art. 14 - Tutela giurisdizionale dei diritti
+### Art. 14 - Tutela giurisdizionale dei diritti
 
 1\. Il mancato rispetto delle disposizioni di cui alla presente legge puo' essere fatto valere in giudizio, anche su domanda di associazioni di consumatori o di associazioni di protezione ambientale, al fine di ottenere il sequestro e l'eventuale distruzione dei beni prodotti o commercializzati in violazione delle predette disposizioni e la condanna delle imprese responsabili della immissione in commercio al risarcimento dei danni a favore dello Stato nella misura equitativa fissata dal giudice.
 
@@ -314,17 +312,17 @@ c) alle eventuali agevolazioni relative a prodotti o beni equipollenti.
 
 > Sulle contestazioni che sorgono nell'eseguire le misure menzionate in questo articolo decide, con ordinanza non soggetta a gravame, sentite le parti e assunte informazioni sommarie, il presidente del collegio o il pretore che ha emesso la sentenza recante le misure anzidette".
 
-#### Art. 15 - Relazione al Parlamento
+### Art. 15 - Relazione al Parlamento
 
 1\. Il Ministro dell'ambiente, nell'ambito della Relazione sullo stato dell'ambiente, riferisce al Parlamento sullo stato di attuazione della presente legge e sulle relative attivita' di controllo.
 
-#### Art. 16 - Copertura finanziaria
+### Art. 16 - Copertura finanziaria
 
 1\. Agli oneri derivanti dall'attuazione della presente legge, valutati in lire 3.000 milioni per il 1994 e in lire 3.000 milioni per il 1995, si provvede mediante corrispondente utilizzo delle proiezioni per gli anni 1994 e 1995 dello stanziamento iscritto, ai fini del bilancio triennale 1994-1996, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1994, all'uopo parzialmente utilizzando l'accantonamento relativo al Ministero del tesoro.
 
 2\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 17 - Entrata in vigore
+### Art. 17 - Entrata in vigore
 
 1\. La presente legge entra in vigore il 1 gennaio 1994.
 
@@ -342,7 +340,7 @@ Visto, il Guardasigilli: CONSO
 
 ## CAPO V - DISPOSIZIONI FINALI
 
-#### Allegato
+### Allegato
 
 Allegato
 

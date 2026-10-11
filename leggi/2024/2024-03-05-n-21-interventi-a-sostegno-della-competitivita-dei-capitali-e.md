@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I
+## Capo I - Semplificazione in materia di accesso e regolamentazione dei mercati di capitali
 
-### Semplificazione in materia di accesso e regolamentazione dei mercati di capitali
-
-#### Art. 1
+### Art. 1
 
 Disposizioni in materia di offerta fuori sede
 
@@ -82,7 +80,7 @@ Disposizioni in materia di offerta fuori sede
 
 > 9\. Il presente articolo si applica anche ai depositi strutturati e ai prodotti finanziari diversi dagli strumenti finanziari.».
 
-#### Art. 2
+### Art. 2
 
 Estensione della definizione della categoria di piccole
 
@@ -102,7 +100,7 @@ e medie imprese emittenti azioni quotate
 
 > w-quinquies) "controparti centrali": i soggetti indicati nell'articolo 2, punto 1), del regolamento (UE) n. 648/2012 del Parlamento europeo e del Consiglio, del 4 luglio 2012, concernente gli strumenti derivati OTC, le controparti centrali e i repertori di dati sulle negoziazioni;».
 
-#### Art. 3
+### Art. 3
 
 Dematerializzazione delle quote di piccole e medie imprese
 
@@ -182,7 +180,7 @@ Per le quote di partecipazione emesse in forma diversa da quella scritturale, de
 
 > 10\. Salvo quanto previsto dal presente articolo, le disposizioni del presente Capo non si applicano alle offerte di crowdfunding.».
 
-#### Art. 4
+### Art. 4
 
 Riforma della disciplina degli emittenti strumenti finanziari diffusi
 
@@ -524,7 +522,7 @@ c) all'articolo 2391-bis:
 
 > c) i casi in cui gli amministratori, fermo restando quanto previsto dall'articolo 2391, e gli azionisti coinvolti nell'operazione sono tenuti ad astenersi dalla votazione sulla stessa ovvero misure di salvaguardia a tutela dell'interesse della societa' che consentono ai predetti azionisti di prendere parte alla votazione sull'operazione.».
 
-#### Art. 5
+### Art. 5
 
 Estensione alle societa' aventi azioni negoziate su sistemi multilaterali di negoziazione della facolta' di redigere il bilancio secondo i principi contabili internazionali
 
@@ -554,7 +552,7 @@ Estensione alle societa' aventi azioni negoziate su sistemi multilaterali di neg
 
 > g) le societa' diverse da quelle indicate alle lettere da a) ad f) e diverse da quelle che possono redigere il bilancio in forma abbreviata, ai sensi dell'articolo 2435-bis del codice civile.».
 
-#### Art. 6
+### Art. 6
 
 Disposizioni in materia di flottante
 
@@ -566,7 +564,7 @@ Disposizioni in materia di flottante
 
 > «Art. 112 (Disposizioni di attuazione). - 1. La CONSOB detta con regolamento disposizioni di attuazione della presente sezione.».
 
-#### Art. 7
+### Art. 7
 
 Modifica alla disciplina in materia di sottoscrizione di obbligazioni emesse da societa' per azioni e di titoli di debito emessi da societa' a responsabilita' limitata
 
@@ -610,7 +608,7 @@ b) all'articolo 2483, dopo il secondo comma e' inserito il seguente:
 
 > Restano salve le disposizioni di leggi speciali relative a particolari categorie di societa' e alle riserve di attivita'.».
 
-#### Art. 8
+### Art. 8
 
 Semplificazione delle procedure di ammissione alla quotazione
 
@@ -654,7 +652,7 @@ b) all'articolo 66-ter:
 
 > b) puo' chiedere al gestore del mercato regolamentato tutte le informazioni che ritenga utili per i fini di cui alla lettera a).».
 
-#### Art. 9
+### Art. 9
 
 Modifiche alla disciplina di approvazione del prospetto
 
@@ -692,7 +690,7 @@ b) il comma 7 e' abrogato.
 
 > 9\. Le azioni risarcitorie sono esercitate entro cinque anni dalla pubblicazione del prospetto, salvo che l'investitore provi di avere scoperto le falsita' delle informazioni o le omissioni nei due anni precedenti l'esercizio dell'azione.».
 
-#### Art. 10
+### Art. 10
 
 Abrogazione dell'obbligo di segnalazione delle operazioni effettuate dagli azionisti di controllo
 
@@ -732,7 +730,7 @@ Abrogazione dell'obbligo di segnalazione delle operazioni effettuate dagli azion
 
 > c) hanno autorizzato la negoziazione degli strumenti finanziari di propria emissione su un sistema organizzato di negoziazione italiano.».
 
-#### Art. 11
+### Art. 11
 
 Svolgimento delle assemblee delle societa' per azioni quotate
 
@@ -770,7 +768,7 @@ Svolgimento delle assemblee delle societa' per azioni quotate
 
 > 8-bis. Le disposizioni del presente articolo si applicano anche alle associazioni e alle fondazioni.».
 
-#### Art. 12
+### Art. 12
 
 Lista del consiglio di amministrazione
 
@@ -814,7 +812,7 @@ c) se la lista del consiglio di amministrazione uscente risulta l'unica ritualme
 
 3\. Gli emittenti provvedono all'adeguamento degli statuti in maniera da consentire l'applicazione delle disposizioni di cui al presente articolo a decorrere dalla prima assemblea convocata per una data successiva al 1° gennaio 2025.
 
-#### Art. 13
+### Art. 13
 
 Disposizioni in materia di voto plurimo
 
@@ -834,7 +832,7 @@ Disposizioni in materia di voto plurimo
 
 > Gli strumenti finanziari di cui agli articoli 2346, sesto comma, e 2349, secondo comma, possono essere dotati del diritto di voto su argomenti specificamente indicati e in particolare puo' essere ad essi riservata, secondo modalita' stabilite dallo statuto, la nomina di un componente indipendente del consiglio di amministrazione o del consiglio di sorveglianza o di un sindaco. Alle persone cosi' nominate si applicano le medesime norme previste per gli altri componenti dell'organo cui partecipano.».
 
-#### Art. 14
+### Art. 14
 
 Disposizioni in materia di voto maggiorato
 
@@ -940,7 +938,7 @@ Tale previsione trova applicazione anche nel caso di un'operazione di fusione, s
 
 > 6\. La Consob puo', con provvedimento motivato, disporre che il superamento della partecipazione indicata nei commi 1, 1-bis e 1-ter o nel comma 3, lettera b), non comporta obbligo di offerta con riguardo a casi riconducibili alle ipotesi di cui al comma 5, ma non espressamente previsti nel regolamento approvato ai sensi del medesimo comma.».
 
-#### Art. 15
+### Art. 15
 
 Disposizioni in materia di enti di cui al decreto legislativo 30 giugno 1994, n. 509, e al decreto legislativo 10 febbraio 1996, n. 103
 
@@ -974,7 +972,7 @@ Disposizioni in materia di enti di cui al decreto legislativo 30 giugno 1994, n.
 
 > \- Per completezza di informazione, il decreto legislativo 10 febbraio 1996, n. 103 (Attuazione della delega conferita dall'art. 2, comma 25, della legge 8 agosto 1995, n. 335, in materia di tutela previdenziale obbligatoria dei soggetti che svolgono attivita' autonoma di libera professione) e' pubblicato nella Gazzetta Ufficiale del 2 marzo 1996, n. 52, S.O.
 
-#### Art. 16
+### Art. 16
 
 Semplificazione del regime di vigilanza sulle Sicav e Sicaf eterogestite
 
@@ -1386,7 +1384,7 @@ f) all'articolo 57, dopo il comma 6-bis.1 e' inserito il seguente:
 
 > 3\. I soggetti previsti dal comma 1 indicano negli atti e nella corrispondenza gli estremi dell'iscrizione all'albo.».
 
-#### Art. 17
+### Art. 17
 
 Semplificazione delle modalita' di rappresentanza
 
@@ -1410,7 +1408,7 @@ per l'esercizio dei diritti di voto in assemblea
 
 > 2\. Sono nulli i patti contrari alle disposizioni del presente articolo; la nullita' puo' essere fatta valere solo dal cliente.».
 
-#### Art. 18
+### Art. 18
 
 Disposizioni in materia di limite all'attivo delle banche popolari
 
@@ -1434,7 +1432,7 @@ Disposizioni in materia di limite all'attivo delle banche popolari
 
 > 4\. Alle banche popolari non si applicano le disposizioni del decreto legislativo 14 dicembre 1947, n. 1577 e successive modificazioni.».
 
-#### Art. 19
+### Art. 19
 
 Delega al Governo per la riforma organica delle disposizioni in materia di mercati dei capitali recate dal testo unico di cui al decreto legislativo 24 febbraio 1998, n. 58, e delle disposizioni in materia di societa' di capitali contenute nel codice civile ((, per la modifica delle disposizioni del codice di procedura civile in materia di arbitrato societario, nonche' per la modifica di ulteriori disposizioni vigenti al fine di assicurarne il miglior coordinamento))
 
@@ -1474,7 +1472,7 @@ l-ter) ((apportare le opportune modifiche e integrazioni alla normativa vigente 
 
 4\. Entro ((ventiquattro)) mesi dalla data di entrata in vigore dei decreti di cui al comma 1, il Governo, ove necessario, puo' emanare decreti correttivi e integrativi degli stessi nel rispetto dei principi e criteri direttivi di cui al comma 2.
 
-#### Art. 19-bis
+### Art. 19-bis
 
 (( (Delega al Governo per la riforma organica e il riordino del sistema sanzionatorio e di tutte le procedure sanzionatorie recati dal testo unico di cui al decreto legislativo 24 febbraio 1998, n. 58). ))
 
@@ -1504,11 +1502,9 @@ Decorso tale termine, i decreti sono emanati anche in mancanza del parere. Qualo
 
 3\. ((Entro ventiquattro mesi dalla data di entrata in vigore di ciascuno dei decreti di cui al comma 1, il Governo, ove necessario, puo' adottare uno o piu' decreti correttivi e integrativi degli stessi, nel rispetto dei principi e criteri direttivi di cui al comma 1)).
 
-## Capo II
+## Capo II - Disciplina delle autorità nazionali di vigilanza
 
-### Disciplina delle autorità nazionali di vigilanza
-
-#### Art. 20
+### Art. 20
 
 Modifiche alla disciplina di cui all'articolo 24 della legge 28 dicembre 2005, n. 262, con riferimento al risarcimento del danno
 
@@ -1536,7 +1532,7 @@ Modifiche alla disciplina di cui all'articolo 24 della legge 28 dicembre 2005, n
 
 > 6-ter. Fermo restando quanto disposto dal comma 6-bis, chi ha subito un danno per effetto di un atto o di un comportamento posto in essere da un soggetto vigilato da una delle Autorita' di cui al medesimo comma puo' agire contro di essa per ottenere soltanto il risarcimento del danno che sia conseguenza immediata e diretta della violazione di leggi e di regolamenti sulla cui osservanza e' mancata la vigilanza dell'Autorita' stessa.».
 
-#### Art. 21
+### Art. 21
 
 Modifiche alla disciplina delle incompatibilita' per i componenti e i dirigenti della Consob, della Banca d'Italia e dell'Istituto per la vigilanza sulle assicurazioni
 
@@ -1578,7 +1574,7 @@ b) dopo il comma 1 sono aggiunti i seguenti:
 
 > «40. L'organismo di cui al comma 36 si avvale del proprio personale e di un contingente di personale anche con qualifica dirigenziale posto in posizione di distacco, comando o altro analogo istituto da amministrazioni pubbliche, incluse le autorita' amministrative indipendenti. L'organismo rimborsa alle amministrazioni di appartenenza gli oneri relativi al citato personale; resta a carico dell'organismo anche l'eventuale attribuzione di un compenso aggiuntivo. Al termine del periodo di distacco, comando o altro analogo istituto e degli eventuali rinnovi, il predetto personale rientra nell'amministrazione di appartenenza, salvo che, a richiesta del personale interessato, l'organismo non lo immetta nel proprio organico a tempo indeterminato. Si applica l'articolo 17, comma 14, della legge 15 maggio 1997, n. 127.».
 
-#### Art. 22
+### Art. 22
 
 Poteri di contrasto dell'attivita' pubblicitaria riferibile a soggetti non autorizzati
 
@@ -1708,7 +1704,7 @@ Poteri di contrasto dell'attivita' pubblicitaria riferibile a soggetti non autor
 
 > 2-quaterdecies. La Consob puo' ordinare ai soggetti di cui al comma 2-terdecies la rimozione delle campagne pubblicitarie condotte attraverso le reti telematiche o di telecomunicazione, aventi ad oggetto servizi o attivita' di investimento prestati da chi non vi e' abilitato.».
 
-#### Art. 23
+### Art. 23
 
 Modifiche ai poteri sanzionatori della Consob
 
@@ -1730,7 +1726,7 @@ c) la decisione si fonda su informazioni trasmesse dalle parti che sono incomple
 
 4\. La Consob definisce con proprio provvedimento generale, in conformita' con l'ordinamento dell'Unione europea e garantendo il diritto al contraddittorio, le regole procedurali che disciplinano la presentazione e la valutazione degli impegni di cui al presente articolo».
 
-#### Art. 24
+### Art. 24
 
 Interpretazione autentica del comma 14 dell'articolo 19
 
@@ -1836,11 +1832,9 @@ del decreto legislativo n. 164 del 2007
 
 > 7\. L'Organismo puo' chiedere ai consulenti finanziari abilitati all'offerta fuori sede o ai soggetti che si avvalgono dei medesimi, ai consulenti finanziari autonomi ed alle societa' di consulenza finanziaria la comunicazione di dati e notizie e la trasmissione di atti e documenti fissando i relativi termini. Esso puo' inoltre effettuare ispezioni e richiedere l'esibizione di documenti e il compimento degli atti ritenuti necessari nonche' procedere ad audizione personale. Nell'esercizio dell'attivita' ispettiva, l'Organismo puo' avvalersi, previa comunicazione alla Consob, della Guardia di Finanza che agisce con i poteri ad essa attribuiti per l'accertamento dell'imposta sul valore aggiunto e delle imposte sui redditi, utilizzando strutture e personale esistenti in modo da non determinare oneri aggiuntivi. I contenuti e le modalita' di collaborazione tra l'Organismo e la Guardia di finanza sono definite in apposito protocollo d'intesa.».
 
-## Capo III
+## Capo III - Misure di promozione dell'inclusione finanziaria
 
-### Misure di promozione dell'inclusione finanziaria
-
-#### Art. 25
+### Art. 25
 
 Misure in materia di educazione finanziaria
 
@@ -1940,11 +1934,9 @@ d) dopo il comma 10 e' inserito il seguente:
 
 > 11\. Agli oneri derivanti dalle attivita' del Comitato, nel limite di un milione di euro annui a decorrere dall'anno 2017, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2017-2019, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2017, allo scopo parzialmente utilizzando l'accantonamento relativo al medesimo Ministero. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.».
 
-## Capo IV
+## Capo IV - Modifiche alla disciplina del patrimonio destinato
 
-### Modifiche alla disciplina del patrimonio destinato
-
-#### Art. 26
+### Art. 26
 
 Misure per rafforzare l'operativita' del Patrimonio Destinato
 
@@ -2026,11 +2018,9 @@ b) dopo il comma 4-quater e' inserito il seguente:
 
 > 18-quater. In ragione di quanto previsto al comma 18-ter, all'articolo 1, comma 2-bis, della legge 13 gennaio 1994, n. 43, le parole: "diverse dalle banche" sono soppresse.».
 
-## Capo V
+## Capo V - Disposizioni finanziarie
 
-### Disposizioni finanziarie
-
-#### Art. 27
+### Art. 27
 
 Disposizioni finanziarie
 

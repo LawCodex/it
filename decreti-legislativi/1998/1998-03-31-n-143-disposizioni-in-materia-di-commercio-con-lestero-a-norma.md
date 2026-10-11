@@ -20,11 +20,9 @@ retrieved: 2026-10-11
 
 *Entrata in vigore del decreto: 28-5-1998*
 
-## Capo I - Istituto per i servizi assicurativi
+## Capo I - Istituto per i servizi assicurativi del commercio estero (SACE)
 
-### del commercio estero - (SACE)
-
-#### Art. 1
+### Art. 1
 
 (( ARTICOLO ABROGATO DAL D.L. 30 SETTEMBRE 2003, N. 269, CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326 )) ((3))
 
@@ -34,7 +32,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 30 settembre 2003, n. 269, convertito con modificazioni dalla L. 24 novembre 2003, n. 326, ha disposto (con l'art. 6, comma 24) che il presente articolo e' abrogato, ma continua ad essere applicato sino alla data di approvazione dello statuto della SACE S.p.A.
 
-#### Art. 2
+### Art. 2
 
 Funzioni
 
@@ -54,7 +52,7 @@ Il D.L. 14 marzo 2005, n. 35 convertito con modificazioni dalla L. 14 maggio 200
 
 o da loro controllate."
 
-#### Art. 3
+### Art. 3
 
 Organizzazione
 
@@ -62,7 +60,7 @@ Organizzazione
 
 ((1-bis. In particolare l'Istituto puo' stipulare accordi o convenzioni con le finanziarie delle regioni al fine di promuovere la fruizione di servizi alle piccole e medie imprese e agli operatori.))
 
-#### Art. 4
+### Art. 4
 
 (( ARTICOLO ABROGATO DAL D.L. 30 SETTEMBRE 2003, N. 269, CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326 )) ((3))
 
@@ -72,7 +70,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 30 settembre 2003, n. 269, convertito con modificazioni dalla L. 24 novembre 2003, n. 326, ha disposto (con l'art. 6, comma 24) il presente articolo e' abrogato, ma continua ad essere applicato sino alla data di approvazione dello statuto della SACE S.p.A.
 
-#### Art. 5
+### Art. 5
 
 (( ARTICOLO ABROGATO DAL D.L. 30 SETTEMBRE 2003, N. 269, CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326 )) ((3))
 
@@ -82,7 +80,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 30 settembre 2003, n. 269, convertito con modificazioni dalla L. 24 novembre 2003, n. 326, ha disposto (con l'art. 6, comma 24) il presente articolo e' abrogato, ma continua ad essere applicato sino alla data di approvazione dello statuto della SACE S.p.A.
 
-#### Art. 6
+### Art. 6
 
 Fondo di dotazione e altre norme finanziarie
 
@@ -102,7 +100,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 30 settembre 2003, n. 269, convertito con modificazioni dalla L. 24 novembre 2003, n. 326, ha disposto (con l'art. 6, comma 24) che i commi 1, 1-bis, 2 e 3 del presente articolo sono abrogati, ma continuano ad essere applicati sino alla data di approvazione dello statuto della SACE S.p.A.
 
-#### Art. 7
+### Art. 7
 
 Disposizioni sull'attivita' dell'Istituto
 
@@ -126,7 +124,7 @@ Il D.L. 30 settembre 2003, n. 269, convertito con modificazioni dalla L. 24 nove
 
 Ha inoltre disposto (con l'art. 6, comma 24) che i commi 2, 3 e 4 del presente articolo sono abrogati, ma continuano ad essere applicati sino alla data di approvazione dello statuto della SACE S.p.A.
 
-#### Art. 8
+### Art. 8
 
 Piano previsionale degli impegni assicurativi
 
@@ -146,7 +144,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 30 settembre 2003, n. 269, convertito con modificazioni dalla L. 24 novembre 2003, n. 326, ha disposto (con l'art. 6, comma 24) che i commi 2, 3 e 4 del presente articolo sono abrogati, ma continuano ad essere applicati sino alla data di approvazione dello statuto della SACE S.p.A.
 
-#### Art. 9
+### Art. 9
 
 (( ARTICOLO ABROGATO DAL D.L. 30 SETTEMBRE 2003, N. 269, CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326 )) ((3))
 
@@ -156,7 +154,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 30 settembre 2003, n. 269, convertito con modificazioni dalla L. 24 novembre 2003, n. 326, ha disposto (con l'art. 6, comma 24) che il presente articolo e' abrogato, ma continua ad essere applicato sino alla data di approvazione dello statuto della SACE S.p.A.
 
-#### Art. 10
+### Art. 10
 
 (( ARTICOLO ABROGATO DAL D.L. 30 SETTEMBRE 2003, N. 269, CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326 )) ((3))
 
@@ -166,7 +164,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 30 settembre 2003, n. 269, convertito con modificazioni dalla L. 24 novembre 2003, n. 326, ha disposto (con l'art. 6, comma 24) che il presente articolo e' abrogato, ma continua ad essere applicato sino alla data di approvazione dello statuto della SACE S.p.A.
 
-#### Art. 11
+### Art. 11
 
 Disposizioni concernenti il personale
 
@@ -184,7 +182,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 30 settembre 2003, n. 269, convertito con modificazioni dalla L. 24 novembre 2003, n. 326, ha disposto (con l'art. 6, comma 24) che i commi 2, 3 e 4 del presente articolo sono abrogati, ma continuano ad essere applicati sino alla data di approvazione dello statuto della SACE S.p.A.
 
-#### Art. 12
+### Art. 12
 
 (( ARTICOLO ABROGATO DAL D.L. 30 SETTEMBRE 2003, N. 269, CONVERTITO CON MODIFICAZIONI DALLA L. 24 NOVEMBRE 2003, N. 326 )) ((3))
 
@@ -194,7 +192,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 30 settembre 2003, n. 269, convertito con modificazioni dalla L. 24 novembre 2003, n. 326, ha disposto (con l'art. 6, comma 24) che il presente articolo e' abrogato, ma continua ad essere applicato sino alla data di approvazione dello statuto della SACE S.p.A.
 
-#### Art. 13
+### Art. 13
 
 Norme transitorie e finali
 
@@ -218,7 +216,7 @@ La L. 5 marzo 2001, n. 57 ha disposto (con l'art. 21, comma 8) che "L'articolo 1
 
 ## Capo II - Finanziamento dei crediti all'esportazione
 
-#### Art. 14
+### Art. 14
 
 Disposizioni generali
 
@@ -230,7 +228,7 @@ Disposizioni generali
 
 4\. Salvo quant'altro previsto dall'articolo 3 della legge 26 novembre 1993, n. 489, i membri dell'organismo che delibera in materia agevolativa non possono essere dipendenti del soggetto gestore o di societa' controllata dallo stesso o essere membri dei competenti organi statutari del suddetto gestore o delle societa' anzidette. Al predetto organismo possono partecipare senza diritto di voto i soggetti a cio' designati dal soggetto gestore.
 
-#### Art. 15
+### Art. 15
 
 Destinatari per la corresponsione dei contributi
 
@@ -242,7 +240,7 @@ b) le banche, nazionali o estere, ((gli operatori finanziari italiani o esteri c
 
 c) gli acquirenti esteri di beni e servizi nazionali, nonche' i committenti esteri di studi, progettazioni e lavori da eseguirsi da imprese nazionali.
 
-#### Art. 16
+### Art. 16
 
 Disposizioni in materia di attivita' del soggetto gestore del
 
@@ -256,7 +254,7 @@ Fondo di cui all'articolo 3 della legge 28 maggio 1973, n. 295.
 
 2\. Il soggetto gestore del Fondo di cui all'articolo 3 della legge 28 maggio 1973, n. 295, per le necessita' operative connesse alla predetta gestione puo' essere autorizzato a contrarre mutui e prestiti, anche obbligazionari, sia in lire che in valuta, sul mercato nazionale o estero, nei limiti stabiliti dal Ministro del tesoro, del bilancio e della programmazione economica con proprio decreto, di concerto con il Ministro degli affari esteri e della cooperazione internazionale. Il netto ricavo e' versato in apposito conto di Tesoreria intestato al soggetto gestore. Le rate di ammortamento, per capitale ed interessi, dei mutui e prestiti, sono rimborsate dal Ministero del tesoro, del bilancio e della programmazione economica.
 
-#### Art. 17
+### Art. 17
 
 (( (Piano strategico annuale e piano previsionale dei fabbisogni finanziari). ))
 
@@ -266,13 +264,13 @@ Fondo di cui all'articolo 3 della legge 28 maggio 1973, n. 295.
 
 3\. L'importo delle assegnazioni finanziarie da destinare al fondo di cui al secondo comma dell'articolo 37 del decreto-legge 26 ottobre 1970, n. 745, convertito, con modificazioni, dalla legge 18 dicembre 1970, n. 1034, per le finalita' di cui all'articolo 14 del presente decreto, e' stabilito annualmente con la legge di bilancio)).
 
-#### Art. 18
+### Art. 18
 
 Relazione al Parlamento
 
 1\. Entro il 30 settembre di ogni anno il Ministro del tesoro, del bilancio e della programmazione economica trasmette al Parlamento una relazione sugli interventi effettuati nell'anno precedente dal soggetto gestore del Fondo ai sensi del presente decreto legislativo, contenente elementi di valutazione sull'attivita' svolta nell'anno in corso, nonche' su quella da svolgere nell'anno successivo.
 
-#### Art. 19
+### Art. 19
 
 Disposizioni transitorie e finali
 
@@ -302,11 +300,9 @@ Disposizioni transitorie e finali
 
 > \- La legge 6 marzo 1987, n. 78, recante: "Estensione delle filiali all'estero di banche italiane dei benefici previsti dagli articoli 16 e 24 della legge 24 maggio 1977, n. 227, e successive modificazioni, in materia di assicurazione e finanziamento dei crediti all'esportazione" e' pubblicata nella Gazzetta Ufficiale n. 60 del 13 marzo 1987.
 
-## Capo III - Disposizioni per favorire
+## Capo III - Disposizioni per favorire l'internazionalizzazione delle imprese italiane
 
-### l'internazionalizzazione delle imprese italiane
-
-#### Art. 20
+### Art. 20
 
 Modifiche alla legge 24 aprile 1990, n. 100, in materia di promozione della partecipazione a societa' ed imprese miste all'estero.
 
@@ -344,7 +340,7 @@ f) all'articolo 4, comma 1, il primo periodo e' sostituito dai seguenti: "Il sog
 
 3\. All'articolo 14, comma 2, della legge 5 ottobre 1991, n. 317, il primo periodo e' sostituito dal seguente: "La Simest S.p.a. corrisponde contributi agli interessi alle piccole e medie imprese anche cooperative, e ai loro consorzi e associazioni, cui possono partecipare enti pubblici economici e altri organismi pubblici e privati a fronte di operazioni di finanziamento della loro quota, o parte di essa, di capitale di rischio nelle societa' o imprese all'estero.".
 
-#### Art. 21
+### Art. 21
 
 Modifiche alla legge 9 gennaio 1991, n. 19, in materia di sviluppo
 
@@ -372,7 +368,7 @@ aree limitrofe, e successive modificazioni e integrazioni.
 
 ## Capo IV - Disposizioni varie
 
-#### Art. 22
+### Art. 22
 
 Disposizioni in materia di contributi e di finanziamenti per lo sviluppo delle esportazioni
 
@@ -400,7 +396,7 @@ AGGIORNAMENTO (8)
 
 Il D.L. 22 giugno 2012, n. 83, convertito, con modificazioni, dalla L. 7 agosto 2012, n. 134, ha disposto (con l'art. 23, comma 11) che "I procedimenti avviati in data anteriore a quella di entrata in vigore del presente decreto-legge sono disciplinati, ai fini della concessione e dell'erogazione delle agevolazioni e comunque fino alla loro definizione, dalle disposizioni delle leggi di cui all'Allegato 1 e dalle norme di semplificazione recate dal presente decreto-legge."
 
-#### Art. 23
+### Art. 23
 
 Ulteriori interventi in materia di commercio estero
 
@@ -412,7 +408,7 @@ Ulteriori interventi in materia di commercio estero
 
 4\. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con proprio decreto, le necessarie variazioni di bilancio.
 
-#### Art. 24
+### Art. 24
 
 Indirizzo strategico e coordinamento operativo
 
@@ -422,7 +418,7 @@ Indirizzo strategico e coordinamento operativo
 
 3\. La commissione permanente di cui al comma 1 stabilisce le modalita' e i criteri per il coordinamento dell'attivita' delle amministrazioni, enti ed organismi operanti nel settore del commercio con l'estero, fatte salve le specifiche competenze dei Ministeri vigilanti. A tale fine il ((Ministro degli affari esteri e della cooperazione internazionale)) convoca e presiede riunioni di coordinamento fra rappresentanti dei Ministeri interessati, presidenti o direttori generali dell'ICE, della Simest S.p.a., della Finest S.p.a. di Informest, del soggetto gestore del Fondo di cui all'articolo 3 della legge 28 maggio 1973, n. 295, e dell'Istituto per i servizi assicurativi del commercio con l'estero. La commissione promuove altresi' la costituzione e la diffusione territoriale di sportelli unici per le imprese e gli operatori del settore ai fini della fruizione dei servizi e delle agevolazioni previste in materia, ai sensi delle vigenti disposizioni.
 
-#### Art. 25
+### Art. 25
 
 Razionalizzazione degli interventi di sostegno finanziario
 

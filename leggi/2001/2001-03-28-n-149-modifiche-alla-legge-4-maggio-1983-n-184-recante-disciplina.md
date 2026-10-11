@@ -26,9 +26,7 @@ Promulga
 
 la seguente legge:
 
-## TITOLO I - DIRITTO DEL MINORE
-
-### ALLA PROPRIA FAMIGLIA
+### TITOLO I - DIRITTO DEL MINORE ALLA PROPRIA FAMIGLIA
 
 ##### Art. 1
 
@@ -56,7 +54,7 @@ la seguente legge:
 
 > \- La legge 4 maggio 1983, n. 184, recante "Disciplina dell'adozione e dell'affidamento dei minori", ora "Diritto del minore ad una famiglia", e' pubblicata nella Gazzetta Ufficiale del 17 maggio 1983, n. 133, S.O.
 
-## TITOLO II - AFFIDAMENTO DEL MINORE
+### TITOLO II - AFFIDAMENTO DEL MINORE
 
 ##### Art. 2
 
@@ -152,9 +150,9 @@ Per i minori di eta' inferiore a sei anni l'inserimento puo' avvenire solo press
 
 > Se il contrasto permane il giudice attribuisce il potere di decisione a quello dei genitori che, nel singolo caso, ritiene il piu' idoneo a curare l'interesse del figlio.".
 
-## TITOLO III - DELL'ADOZIONE
+### TITOLO III - DELL'ADOZIONE
 
-### Capo I - DISPOSIZIONI GENERALI
+#### Capo I - DISPOSIZIONI GENERALI
 
 ##### Art. 6
 
@@ -196,9 +194,7 @@ Per i minori di eta' inferiore a sei anni l'inserimento puo' avvenire solo press
 
 3\. Se l'adottando ha compiuto gli anni dodici deve essere personalmente sentito; se ha un'eta' inferiore, deve essere sentito, in considerazione della sua capacita' di discernimento".
 
-## Capo II. - DELLA DICHIARAZIONE DI
-
-### ADOTTABILITA'
+#### Capo II. - DELLA DICHIARAZIONE DI ADOTTABILITA'
 
 ##### Art. 8
 
@@ -370,7 +366,7 @@ c) le prescrizioni impartite ai sensi dell'articolo 12 sono rimaste inadempiute 
 
 4\. Nel caso in cui sia in atto l'affidamento preadottivo, lo stato di adottabilita' non puo' essere revocato".
 
-## Capo III - DELL'AFFIDAMENTO PREADOTTIVO
+#### Capo III - DELL'AFFIDAMENTO PREADOTTIVO
 
 ##### Art. 19
 
@@ -412,7 +408,7 @@ Il minore che abbia compiuto gli anni quattordici deve manifestare espresso cons
 
 > \- Per il testo dell'art. 330 del codice civile, si veda in nota all'art. 4.
 
-## Capo IV - DELLA DICHIARAZIONE DI ADOZIONE
+#### Capo IV - DELLA DICHIARAZIONE DI ADOZIONE
 
 ##### Art. 21
 
@@ -488,11 +484,9 @@ Il minore che abbia compiuto gli anni quattordici deve manifestare espresso cons
 
 8\. Fatto salvo quanto previsto dai commi precedenti, l'autorizzazione non e' richiesta per l'adottato maggiore di eta' quando i genitori adottivi sono deceduti o divenuti irreperibili".
 
-## TITOLO IV - DELL'ADOZIONE IN CASI
+### TITOLO IV - DELL'ADOZIONE IN CASI PARTICOLARI
 
-### PARTICOLARI - Capo I
-
-#### DELL'ADOZIONE IN CASI - PARTICOLARI E DEI SUOI EFFETTI
+#### Capo I - DELL'ADOZIONE IN CASI PARTICOLARI E DEI SUOI EFFETTI
 
 ##### Art. 25
 
@@ -554,9 +548,7 @@ d) quando vi sia la constatata impossibilita' di affidamento preadottivo.
 
 > \- Le disposizioni contenute nella sezione III del capo I (Della tutela dei minori) del titolo X (Della tutela e dell'emancipazione) del libro primo (Delle persone e della famiglia) del codice civile riguardano l'esercizio della tutela.
 
-## Capo II - DELLE FORME DELL'ADOZIONE
-
-### IN CASI PARTICOLARI
+#### Capo II - DELLE FORME DELL'ADOZIONE IN CASI PARTICOLARI
 
 ##### Art. 29
 
@@ -586,9 +578,9 @@ d) quando vi sia la constatata impossibilita' di affidamento preadottivo.
 
 > d) la possibilita' di idonea convivenza, tenendo conto della personalita' dell'adottante e del minore.".
 
-## TITOLO V - MODIFICHE AL TITOLO VIII DEL
+### TITOLO V - MODIFICHE AL TITOLO VIII DEL
 
-### LIBRO PRIMO DEL CODICE CIVILE
+## LIBRO PRIMO DEL CODICE CIVILE
 
 ##### Art. 30
 
@@ -608,9 +600,7 @@ Con la procedura di cui al primo comma deve essere altresi' trascritta ed annota
 
 L'autorita' giudiziaria puo' inoltre ordinare la pubblicazione della sentenza che pronuncia l'adozione o della sentenza di revoca nei modi che ritiene opportuni".
 
-## TITOLO VI - NORME FINALI, PENALI
-
-### E TRANSITORIE
+### TITOLO VI - NORME FINALI, PENALI E TRANSITORIE
 
 ##### Art. 32
 

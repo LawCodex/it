@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I
+## Capo I - Coordinamento delle politiche del mare
 
-### Coordinamento delle politiche del mare
-
-##### Art. 1
+### Art. 1
 
 Comitato interministeriale per le politiche del mare
 
@@ -108,7 +106,7 @@ f) al comma 9, la parola: «annualmente» e' sostituita dalle seguenti: «con ca
 
 > 11\. La Presidenza del Consiglio dei ministri assicura il supporto tecnico e organizzativo alle attivita' del Comitato, anche mediante il ricorso ad esperti ai sensi del decreto legislativo 30 luglio 1999, n. 303.».
 
-##### Art. 2
+### Art. 2
 
 Modifiche al decreto legislativo 17 ottobre 2016, n. 201, recante attuazione della direttiva 2014/89/UE che istituisce un quadro per la pianificazione dello spazio marittimo
 
@@ -134,11 +132,9 @@ b) al secondo periodo, le parole: «da un rappresentante del Dipartimento per le
 
 > Le amministrazioni interessate provvedono agli adempimenti previsti dal presente articolo con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.».
 
-## Capo II
+## Capo II - Zona contigua e linee di base
 
-### Zona contigua e linee di base
-
-##### Art. 3
+### Art. 3
 
 Istituzione della zona contigua
 
@@ -150,7 +146,7 @@ Istituzione della zona contigua
 
 > \- La legge 2 dicembre 1994, n. 689, recante: «Ratifica ed esecuzione della convenzione delle Nazioni Unite sul diritto del mare, con allegati e atto finale, fatta a Montego Bay il 10 dicembre 1982, nonche' dell'accordo di applicazione della parte XI della convenzione stessa, con allegati, fatto a New York il 29 luglio 1994» e' pubblicata nella Gazzetta Ufficiale n. 295 del 19 dicembre 1994.
 
-##### Art. 4
+### Art. 4
 
 Estensione della zona contigua
 
@@ -166,7 +162,7 @@ Estensione della zona contigua
 
 > Le Camere autorizzano con legge la ratifica dei trattati internazionali che sono di natura politica, o prevedono arbitrati o regolamenti giudiziari, o importano variazioni del territorio od oneri alle finanze o modificazioni di leggi».
 
-##### Art. 5
+### Art. 5
 
 Esercizio dei diritti nella zona contigua
 
@@ -180,13 +176,13 @@ c) assicurare la tutela del patrimonio culturale subacqueo con le modalita' e ne
 
 2\. I controlli di cui al comma 1 sono svolti nei limiti previsti dalle vigenti disposizioni di settore e nel rispetto del vigente assetto istituzionale e di competenze stabilito per i settori ivi indicati.
 
-##### Art. 6
+### Art. 6
 
 Diritti degli altri Stati all'interno della zona contigua
 
 1\. L'istituzione della zona contigua non compromette l'esercizio, in conformita' a quanto previsto dal diritto internazionale generale e pattizio, delle liberta' di navigazione, di sorvolo e di posa in opera di condotte e di cavi sottomarini, nonche' degli altri diritti previsti dalle norme internazionali vigenti.
 
-##### Art. 7
+### Art. 7
 
 Linee di base
 
@@ -202,13 +198,9 @@ Linee di base
 
 > \- Il decreto del Presidente della Repubblica 26 aprile 1977, n. 816, recante: «Norme regolamentari relative all'applicazione della legge 8 dicembre 1961, n. 1658, con la quale e' stata autorizzata l'adesione alla convenzione sul mare territoriale e la zona contigua, adottata a Ginevra il 29 aprile 1958, ed e' stata data esecuzione alla medesima», pubblicato nella Gazzetta Ufficiale 9 novembre 1977, n. 305 e' abrogato dalla presente legge.
 
-## Capo III
+## Capo III - Disposizioni per la valorizzazione dell'attivita' subacquea a scopo ricreativo e per la tutela della sicurezza e del patrimonio ambientale e culturale
 
-### Disposizioni per la valorizzazione dell'attivita' subacquea a scopo - ricreativo e per la tutela della sicurezza e del patrimonio
-
-#### ambientale e culturale
-
-##### Art. 8
+### Art. 8
 
 Ambito di applicazione e finalita'
 
@@ -222,7 +214,7 @@ Ambito di applicazione e finalita'
 
 5\. Il presente capo mira a promuovere l'attivita' subacquea a scopo ricreativo come strumento di sviluppo sostenibile, a favorire la destagionalizzazione, generando benefici economici e sociali, a garantire la conoscenza e la valorizzazione del patrimonio naturale, biologico, archeologico e culturale sommerso, anche attraverso la cooperazione tra enti e soggetti competenti, ad assicurare la protezione e la conservazione degli ecosistemi marini, lacustri e fluviali, prevenendo i danni ambientali derivanti dalle attivita' subacquee, e a promuovere l'adozione e lo sviluppo di soluzioni tecnologiche innovative, coerenti con gli indirizzi nazionali in materia di sicurezza, tutela ambientale e valorizzazione sostenibile della risorsa mare.
 
-##### Art. 9
+### Art. 9
 
 Definizioni
 
@@ -242,7 +234,7 @@ f) «centro di immersione e di addestramento subacqueo»: l'impresa o l'organizz
 
 g) «zona di interesse turistico subacqueo»: un'area marina, lacustre o fluviale caratterizzata da particolari peculiarita' naturali, biologiche, archeologiche e culturali che ne giustificano la tutela e la promozione.
 
-##### Art. 10
+### Art. 10
 
 Immersione subacquea
 
@@ -288,7 +280,7 @@ Immersione subacquea
 
 > 5\. Le unita' da diporto, da traffico o da pesca in transito devono mantenersi ad una distanza non inferiore ai cento metri dalle segnalazioni di posizionamento del subacqueo.».
 
-##### Art. 11
+### Art. 11
 
 Esercizio dell'attivita' di istruttore subacqueo
 
@@ -332,7 +324,7 @@ b) in maniera stabile, a seguito del riconoscimento della qualifica professional
 
 > \- Il decreto legislativo 9 novembre 2007, n. 206, recante: «Attuazione della direttiva 2005/36/CE relativa al riconoscimento delle qualifiche professionali, nonche' della direttiva 2006/100/CE che adegua determinate direttive sulla libera circolazione delle persone a seguito dell'adesione di Bulgaria e Romania», e' pubblicato nella Gazzetta Ufficiale n. 261 del 9 novembre 2007.
 
-##### Art. 12
+### Art. 12
 
 Esercizio dell'attivita' di centro di immersione
 
@@ -438,7 +430,7 @@ o) la firma del soggetto di cui alla lettera n).
 
 > \- Il decreto legislativo 18 luglio 2005, n. 171, recante: «Codice della nautica da diporto ed attuazione della direttiva 2003/44/CE, a norma dell'articolo 6 della legge 8 luglio 2003, n. 172» e' pubblicato nella Gazzetta Ufficiale n. 202 del 31 agosto 2005.
 
-##### Art. 13
+### Art. 13
 
 Organizzazioni senza scopo di lucro
 
@@ -460,7 +452,7 @@ g) copertura assicurativa per i rischi derivanti a dipendenti o collaboratori, i
 
 2\. Le organizzazioni senza scopo di lucro, in possesso dei requisiti di cui al comma 1 del presente articolo, sono soggette agli obblighi di cui all'articolo 12.
 
-##### Art. 14
+### Art. 14
 
 Zone di interesse turistico subacqueo
 
@@ -482,7 +474,7 @@ d) «rilevanza culturale»: presenza di aree subacquee legate a tradizioni local
 
 5\. Il Ministro del turismo, sentita l'autorita' politica delegata per le politiche del mare, promuove la cooperazione internazionale nel campo dell'attivita' subacquea a scopo ricreativo, favorendo la condivisione di buone pratiche, esperienze e conoscenze tecniche tra Paesi che ospitano aree marine, lacustri e fluviali di interesse turistico. Il Ministro del turismo, sentiti l'autorita' politica delegata per le politiche del mare, il Ministro dell'ambiente e della sicurezza energetica, il Ministro della cultura e il Ministro degli affari esteri e della cooperazione internazionale, puo' stipulare accordi di gemellaggio con altri Paesi, al fine di incentivare scambi culturali, scientifici e formativi all'interno di zone di interesse turistico subacqueo.
 
-##### Art. 15
+### Art. 15
 
 Sanzioni
 
@@ -528,11 +520,9 @@ Sanzioni
 
 > Le regioni, per le materie di loro competenza, provvederanno con legge nel termine previsto dal comma precedente.».
 
-## Capo IV
+## Capo IV - Navigazione da diporto
 
-### Navigazione da diporto
-
-##### Art. 16
+### Art. 16
 
 Modifiche al codice della nautica da diporto,
 
@@ -1010,7 +1000,7 @@ u) all'articolo 58, comma 1, le parole: «sessanta giorni» sono sostituite dall
 
 > 2\. Il termine di cui al comma 1 si applica anche al procedimento di rilascio del certificato limitato di radiotelefonista per l'uso di apparati radiotelefonici installati a bordo di navi di stazza lorda inferiore alle centocinquanta tonnellate, con potenza non superiore a 60 watts, di cui all'articolo 2-bis del decreto del Ministro per le poste e le telecomunicazioni in data 21 novembre 1956, pubblicato nella Gazzetta Ufficiale della Repubblica italiana in data 23 febbraio 1957, n. 50, e successive modificazioni, qualora il predetto certificato riguardi l'uso di apparati installati a bordo di unita' da diporto.».
 
-##### Art. 17
+### Art. 17
 
 Archivio telematico centrale delle unita' da diporto
 
@@ -1072,7 +1062,7 @@ Archivio telematico centrale delle unita' da diporto
 
 > (omissis)».
 
-##### Art. 18
+### Art. 18
 
 Passaggi di proprieta' di beni mobili registrati
 
@@ -1126,7 +1116,7 @@ b) una prova scritta basata su quesiti a risposta multipla predeterminata verten
 
 > 4\. L'esame di idoneita' di cui al comma 1 non e' richiesto per i dirigenti preposti agli uffici di assistenza automobilistica degli automobile club che siano in servizio da almeno quindici anni.».
 
-##### Art. 19
+### Art. 19
 
 Parametri tariffari minimi e massimi dei compensi percepiti
 
@@ -1140,7 +1130,7 @@ per le attivita' di raccomandazione marittima
 
 > \- La legge 4 aprile 1977, n. 135, recante: «Disciplina della professione di raccomandatario marittimo», pubblicata nella Gazzetta Ufficiale n. 109 del 22 aprile 1977.
 
-##### Art. 20
+### Art. 20
 
 Protezione delle praterie di Posidonia oceanica
 
@@ -1164,11 +1154,9 @@ c) gli habitat marini caratterizzati da elevata vulnerabilita' fisica e biologic
 
 > \- La legge 27 maggio 1999, n. 175, recante: «Ratifica ed esecuzione dell'Atto finale della Conferenza dei plenipotenziari sulla Convenzione per la protezione del Mar Mediterraneo dall'inquinamento, con relativi protocolli, tenutasi a Barcellona il 9 e 10 giugno 1995» e' pubblicata nella Gazzetta Ufficiale n. 140 del 17 giugno 1999.
 
-## Capo V
+## Capo V - Navigazione marittima e cantieristica
 
-### Navigazione marittima e cantieristica
-
-##### Art. 21
+### Art. 21
 
 Modifiche al codice della navigazione
 
@@ -1486,7 +1474,7 @@ p) nella parte prima, libro terzo, titolo VI, capo II, dopo l'articolo 577 e' ag
 
 > Il certificato medico rilasciato, anche in lingua inglese, ha validita' di due anni, ridotta ad un anno se il marittimo ha meno di 18 anni. Con decreto del Ministro della salute, di concerto con il Ministro delle infrastrutture e dei trasporti, adottato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, puo' essere previsto un periodo di validita' piu' breve anche in considerazione delle specifiche mansioni svolte dal marittimo, come descritte dalla Convenzione STCW '78/95 - Seafarers training, certification and watchkeeping Code.».
 
-##### Art. 22
+### Art. 22
 
 Modifiche al regolamento per la navigazione marittima, di cui al decreto del Presidente della Repubblica 15 febbraio 1952, n. 328
 
@@ -1504,7 +1492,7 @@ c) gli articoli 363 e 365 del regolamento devono intendersi riferiti rispettivam
 
 > \- Il decreto del Presidente della Repubblica 15 febbraio 1952, n. 328, recante: «Approvazione del Regolamento per l'esecuzione del Codice della navigazione (Navigazione marittima)», pubblicato nella Gazzetta Ufficiale n. 94 del 21 aprile 1952.
 
-##### Art. 23
+### Art. 23
 
 Sorveglianza sugli apparati radioelettrici di bordo
 
@@ -1700,7 +1688,7 @@ f) all'articolo 12, comma 1, e' aggiunto, in fine, il seguente periodo: «Per i 
 
 > «Art. 12 (Spese per il rilascio dell'autorizzazione e per l'affidamento). - 1. Con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare e con il Ministro dell'economia e delle finanze, sono determinate, sulla base del costo effettivo del servizio reso, le tariffe a carico degli organismi richiedenti per la copertura delle spese connesse con le procedure di autorizzazione o affidamento, ivi comprese le verifiche presso gli organismi istanti, nonche' quelle per il rilascio dei certificati. Con lo stesso decreto sono stabilite le modalita' di versamento delle tariffe medesime. Per i casi di cui all'articolo 5, comma 2, le tariffe a carico degli organismi sono determinate con decreto del Ministro delle imprese e del made in Italy, di concerto con il Ministro delle infrastrutture e dei trasporti e con il Ministro dell'economia e delle finanze.».
 
-##### Art. 24
+### Art. 24
 
 Sostegno alla cantieristica regionale
 
@@ -1710,11 +1698,9 @@ Sostegno alla cantieristica regionale
 
 > \- Il decreto legislativo 27 novembre 2025, n. 184, recante: «Codice degli incentivi, in attuazione dell'articolo 3, commi 1 e 2, lettera b), della legge 27 ottobre 2023, n. 160», pubblicato nella Gazzetta Ufficiale n. 286 del 10 dicembre 2025.
 
-## Capo VI
+## Capo VI - Misure in materia scolastica, sanitaria, culturale, di ricerca, di pesca e di ambiente
 
-### Misure in materia scolastica, sanitaria, culturale, di ricerca, di - pesca e di ambiente
-
-##### Art. 25
+### Art. 25
 
 Isole minori
 
@@ -1816,7 +1802,7 @@ Le amministrazioni interessate provvedono agli adempimenti previsti dal presente
 
 > 16-bis. Monte Isola.».
 
-##### Art. 26
+### Art. 26
 
 Servizio di rifornimento idrico
 
@@ -1854,7 +1840,7 @@ b) all'articolo 111, comma 1, la lettera d) e' sostituita dalla seguente:
 
 > 1-bis. La Marina militare promuove le attivita' per la valorizzazione delle potenzialita' e della competitivita' del settore della subacquea nazionale, per la promozione delle connesse attivita' di ricerca e tecnico-scientifiche nonche' per il potenziamento delle innovazioni e della relativa proprieta' intellettuale. A tale fine, con decreto del Ministro della difesa, di concerto con i Ministri delle imprese e del made in Italy, dell'universita' e della ricerca e dell'Autorita' politica delegata per le politiche del mare, e' istituito e disciplinato il Polo nazionale della subacquea.».
 
-##### Art. 27
+### Art. 27
 
 Autorizzazione paesaggistica in ambito portuale
 
@@ -1874,7 +1860,7 @@ Autorizzazione paesaggistica in ambito portuale
 
 > Omissis.».
 
-##### Art. 28
+### Art. 28
 
 Riutilizzo di piattaforme per la coltivazione
 
@@ -1896,7 +1882,7 @@ b) dopo le parole: «sono emanate le linee guida nazionali per la dismissione mi
 
 > Omissis.».
 
-##### Art. 29
+### Art. 29
 
 Attivita' di ricerca e supporto tecnico scientifico
 
@@ -1906,7 +1892,7 @@ degli enti pubblici di ricerca
 
 2\. Gli enti pubblici di ricerca nonche' gli enti di ricerca regionali e le universita' del territorio che svolgono, tra i compiti prioritari e le funzioni statutarie, attivita' di ricerca, o hanno specifiche competenze nelle materie di cui alla presente legge, possono attivare, su richiesta delle amministrazioni pubbliche competenti, nei limiti delle risorse finanziarie previste a legislazione vigente, forme di collaborazione e di supporto per le finalita' previste dalla presente legge. Gli enti di cui al primo periodo possono fornire, sulla base di apposite convenzioni con le amministrazioni pubbliche competenti nei limiti delle risorse finanziarie previste a legislazione vigente e, ove onerose, con oneri a carico delle amministrazioni pubbliche richiedenti, dati, informazioni, supporto tecnico-scientifico, anche mediante le proprie infrastrutture, e formativo per il raggiungimento degli obiettivi stabiliti dalla presente legge.
 
-##### Art. 30
+### Art. 30
 
 Regime previdenziale agevolato per favorire
 
@@ -1960,13 +1946,13 @@ il reimbarco in caso di arresto definitivo dell'imbarcazione
 
 > 10\. quando l'arruolato fuori dei casi previsti nei numeri precedenti, non assume il proprio posto a bordo, nel termine stabilito, prima della partenza della nave dal porto di arruolamento o da un porto di approdo.».
 
-##### Art. 31
+### Art. 31
 
 Disposizioni in materia di ammortizzatori sociali per il settore della pesca
 
 1\. Al fine di dare piena attuazione alle disposizioni di cui all'articolo 8, quarto comma, della legge 8 agosto 1972, n. 457, con decreto del Ministro del lavoro e delle politiche sociali e del Ministro dell'agricoltura, della sovranita' alimentare e delle foreste, di concerto con il Ministro dell'economia e delle finanze, ((sono definite, entro otto mesi dalla data di entrata in vigore della presente legge)), le causali di intervento dell'integrazione salariale a beneficio dei lavoratori, nonche' modalita' e criteri di erogazione delle prestazioni. Dalle disposizioni di cui al primo periodo non devono derivare nuovi o maggiori oneri per la finanza pubblica.
 
-##### Art. 32
+### Art. 32
 
 Modifiche al regolamento per la navigazione marittima, di cui al decreto del Presidente della Repubblica 15 febbraio 1952, n. 328, in materia di pesca
 
@@ -2032,7 +2018,7 @@ b) all'articolo 257, secondo comma, il numero 2 e' sostituito dal seguente:
 
 > 2\) assumere il comando di navi di stazza lorda non superiore alle 200 tonnellate adibite alla pesca nel Mediterraneo, nel Mar Nero, nel Mar d'Azov, nel Mar Rosso, lungo le coste dell'Arabia e dell'India, compreso il Golfo Persico e fino a Mumbai, lungo le coste africane, comprese le isole a non piu' di trecento miglia dalla costa.».
 
-##### Art. 33
+### Art. 33
 
 Rappresentanza delle associazioni della pesca
 
@@ -2048,7 +2034,7 @@ nelle commissioni di riserva delle aree marine protette
 
 > «339. La commissione di riserva di cui all'articolo 28, terzo comma, della legge 31 dicembre 1982, n. 979, e successive modificazioni, nominata dal Ministro dell'ambiente e della tutela del territorio e del mare e istituita presso l'ente cui e' delegata la gestione dell'area marina protetta, e' composta: da un rappresentante designato dal Ministro dell'ambiente e della tutela del territorio e del mare, con funzioni di presidente; da un esperto designato dalla regione territorialmente interessata, con funzioni di vice presidente; da un esperto designato d'intesa tra i comuni rivieraschi territorialmente interessati; da un esperto del Ministero dell'ambiente e della tutela del territorio e del mare; da un rappresentante della Capitaneria di porto nominato su proposta del reparto ambientale marino presso il Ministero dell'ambiente e della tutela del territorio e del mare; da un esperto designato dall'Istituto superiore per la protezione e la ricerca ambientale; da un esperto designato dalle associazioni naturalistiche maggiormente rappresentative riconosciute dal Ministero dell'ambiente e della tutela del territorio e del mare; da un esperto designato dal Ministero dell'agricoltura, della sovranita' alimentare e delle foreste; da un esperto designato dal Ministero dell'universita' e della ricerca; da un rappresentante della Federazione italiana pesca sportiva e attivita' subacquee; da un esperto designato dalle Associazioni nazionali delle cooperative e delle imprese della pesca professionale maggiormente rappresentative e riconosciute dal Ministero dell'agricoltura, della sovranita' alimentare e delle foreste. In attuazione di quanto disposto dal presente comma, il Ministro dell'ambiente e della tutela del territorio e del mare procede alla ricostituzione di tutte le commissioni di riserva delle aree marine protette entro centoventi giorni dalla data di entrata in vigore della presente legge.».
 
-##### Art. 34
+### Art. 34
 
 Delega al Governo per il recepimento della direttiva (UE) 2024/1785 del Parlamento europeo e del Consiglio, del 24 aprile 2024, che modifica la direttiva 2010/75/UE del Parlamento europeo e del Consiglio, relativa alle emissioni industriali (prevenzione e riduzione integrate dell'inquinamento), e la direttiva 1999/31/CE del Consiglio, relativa alle discariche di rifiuti
 
@@ -2132,17 +2118,15 @@ Sullo schema di decreto legislativo e' acquisito il parere delle Commissioni par
 
 > 4\. La Conferenza unificata di cui al comma 1 e' convocata dal Presidente del Consiglio dei Ministri. Le sedute sono presiedute dal Presidente del Consiglio dei Ministri o, su sua delega, dal Ministro per gli affari regionali o, se tale incarico non e' conferito, dal Ministro dell'interno.».
 
-## Capo VII
+## Capo VII - Disposizioni finali
 
-### Disposizioni finali
-
-##### Art. 35
+### Art. 35
 
 Clausola di invarianza finanziaria
 
 1\. Dall'attuazione delle disposizioni della presente legge, ad eccezione degli articoli 30 e 33, non devono derivare nuovi o maggiori oneri per la finanza pubblica. Le amministrazioni interessate provvedono agli adempimenti previsti dalle relative disposizioni con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
-##### Art. 36
+### Art. 36
 
 Modifiche alla legge 14 giugno 2021, n. 91, recante l'istituzione di una zona economica esclusiva oltre il limite esterno del mare territoriale
 
@@ -2152,7 +2136,7 @@ Modifiche alla legge 14 giugno 2021, n. 91, recante l'istituzione di una zona ec
 
 > \- Si riporta il testo dell'articolo 2 della legge 14 giugno 2021, n. 91, recante: «Istituzione di una zona economica esclusiva oltre il limite esterno del mare territoriale», pubblicata nella Gazzetta Ufficiale n. 148 del 23 giugno 2021, come modificato dalla presente legge: «Art 2 (Applicazione della normativa all'interno della zona economica esclusiva). - 1. All'interno della zona economica esclusiva istituita ai sensi dell'articolo 1 l'Italia esercita i diritti sovrani, la giurisdizione e gli altri diritti attribuiti dalle norme internazionali vigenti.».
 
-##### Art. 37
+### Art. 37
 
 Entrata in vigore
 
@@ -2172,7 +2156,7 @@ Visto, il Guardasigilli: Nordio
 
 ## Allegati
 
-##### Allegato 1
+### Allegato 1
 
 Allegato 1
 

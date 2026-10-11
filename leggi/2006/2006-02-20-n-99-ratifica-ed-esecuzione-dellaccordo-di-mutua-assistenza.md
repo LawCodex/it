@@ -27,21 +27,21 @@ Promulga
 
 la seguente legge:
 
-### ART. 1 - Autorizzazione alla ratifica
+## ART. 1 - Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo di mutua assistenza amministrativa tra il Governo della Repubblica italiana ed il Governo federale della Repubblica federale di Jugoslavia per la prevenzione, l'accertamento e la repressione delle infrazioni doganali, con allegato, fatto a Belgrado il 29 marzo 2002.
 
-### ART. 2 - Ordine di esecuzione
+## ART. 2 - Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 22 dell'Accordo stesso.
 
-### ART. 3 - Copertura finanziaria
+## ART. 3 - Copertura finanziaria
 
 1\. Per l'attuazione della presente legge e' autorizzata la spesa di euro 16.860 annui a decorrere dal 2006. Al relativo onere si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2006-2008, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2006, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri.
 
 2\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-### ART. 4 - Entrata in vigore
+## ART. 4 - Entrata in vigore
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -59,7 +59,7 @@ Visto, il Guardasigilli: Castelli
 
 ## Allegati
 
-### Agreement
+## Agreement
 
 AGREEMENT ON MUTUAL ADMINISTRATIVE ASSISTANCE BETWEEN THE GOVERNMENT OF THE ITALIAN REPUBLIC AND THE FEDERAL GOVERNMENT OF THE FEDERAL REPUBLIC OF YUGOSLAVIA FOR THE PREVENTION, INVESTIGATION AND
 
@@ -93,7 +93,7 @@ Tenuto conto della Convenzione delle Nazioni Unite relativa alla lotta al traffi
 
 Tenuto conto della Raccomandazione del Consiglio di Cooperazione Doganale di Bruxelles sulla Mutua Assistenza Amministrativa del 5 dicembre 1953; hanno convenuto quanto segue:
 
-### Articolo 1
+## Articolo 1
 
 Ai fini del presente Accordo si intende per:
 
@@ -127,7 +127,7 @@ j)"stupefacenti e sostanze psicotrope", tutti i prodotti elencati nella Convenzi
 
 ## CAMPO D'APPLICAZIONE DELL'ACCORDO
 
-### Articolo 2
+## Articolo 2
 
 1\. Le Parti Contraenti per il tramite delle loro Amministrazioni doganali, si prestano reciprocamente assistenza amministrativa, alle condizioni stabilite dal presente Accordo, al fine di:
 
@@ -141,13 +141,13 @@ b) prevenire, ricercare e reprimere le infrazioni della legislazione doganale.
 
 ## CAMPO D'APPLICAZIONE DELL'ASSISTENZA
 
-### Articolo 3
+## Articolo 3
 
 1\. Le Amministrazioni doganali si forniscono reciprocamente, su domanda o di propria iniziativa, le informazioni, i documenti e l'intelligence che possono contribuire ad assicurare la corretta applicazione della legislazione doganale e la prevenzione, la ricerca e la repressione delle infrazioni doganali.
 
 2\. Ciascuna Amministrazione doganale nel procedere ad una indagine per conto di un'altra Amministrazione doganale, si comporta come se operasse per conto proprio o su richiesta di un'altra autorita' nazionale.
 
-### Articolo 4
+## Articolo 4
 
 1\. Su richiesta, l'Amministrazione doganale adita fornisce tutte le informazioni sulla legislazione e le procedure doganali necessarie e pertinenti per le indagini relative ad un'infrazione doganale.
 
@@ -159,7 +159,7 @@ b) nuove tendenze, strumenti o metodi impiegati per commettere infrazioni dogana
 
 ## CASI DI ASSISTENZA
 
-### Articolo 5
+## Articolo 5
 
 Le Amministrazioni doganali delle Parti Contraenti si scambiano, su domanda e, all'occorrenza, previa indagine, nel quadro delle disposizioni legislative e regolamentari, ogni informazione atta ad assicurare l'esatta percezione di diritti e tasse doganali, in particolare le informazioni che agevolano:
 
@@ -167,7 +167,7 @@ a) la determinazione del valore in dogana, la classificazione tariffaria delle m
 
 b) l'applicazione delle disposizioni concernenti i divieti, le restrizioni ed i controlli.
 
-### Articolo 6
+## Articolo 6
 
 Su richiesta, l'Amministrazione doganale adita fornisce informazioni ed esercita una sorveglianza speciale su: a) le persone conosciute dall'Amministrazione doganale richiedente per aver commesso o sospettate di commettere un'infrazione doganale, in particolare quelle che entrano od escono dal territorio doganale della Parte Contraente adita;
 
@@ -177,13 +177,13 @@ c) i mezzi di trasporto sospettati dall'Amministrazione doganale richiedente di 
 
 d) i luoghi sospettati dall'Amministrazioni doganale richiedente di essere impiegati per commettere infrazioni doganali nel territorio doganale dell'una o dell'altra Parte Contraente.
 
-### Articolo 7
+## Articolo 7
 
 1\. Le Amministrazioni doganali si forniscano reciprocamente, su richiesta o di propria iniziativa, informazioni ed intelligence circa le transazioni effettuate o progettate che costituiscono o sembrano costituire un'infrazione doganale.
 
 2\. Nei casi che potrebbero comportare un danno sostanziale all'economia, alla salute pubblica, alla sicurezza pubblica o ad ogni altro interesse vitale di una Parte Contraente, l'Amministrazione doganale dell'altra Parte Contraente fornisce, ove possibile, informazioni di propria iniziativa.
 
-### Articolo 8
+## Articolo 8
 
 Le Amministrazioni doganali, di propria iniziativa o su richiesta, si forniscono reciprocamente informazioni:
 
@@ -191,7 +191,7 @@ a) se le merci esportate dal territorio dello Stato dell'Amministrazione doganal
 
 b) se le merci importate nel territorio dello Stato dell'Amministrazione doganale richiedente siano state legittimamente esportate dal territorio dello Stato dell'Amministrazione doganale adita, ed il regime doganale nel quale le merci siano state eventualmente collocate.
 
-### Articolo 9
+## Articolo 9
 
 Le Amministrazioni doganali:
 
@@ -201,19 +201,19 @@ b) liquidano i beni, proventi o mezzi strumentali confiscati in seguito all'assi
 
 ## CONSEGNA CONTROLLATA
 
-### Articolo 10
+## Articolo 10
 
 Le Amministrazioni doganali possono, d'intesa ed in accordo con le loro rispettive disposizioni legislative e regolamentari, ricorrere al metodo della consegna controllata di merci integre, rimosse o sostituite interamente o parzialmente.
 
 ## DOCUMENTI ED INTELLIGENCE
 
-### Articolo 11
+## Articolo 11
 
 1\. I documenti originali sono richiesti solo nei casi in cui le copie conformi risultino insufficienti e sono restituiti non appena possibile; i relativi diritti dell'Amministrazione doganale adita o dei terzi restano impregiudicati. 2. I documenti, l'informazioni e l'intelligence da scambiarsi in conformita' al presente Accordo sono accompagnati da tutte le informazioni utili che ne permettono il relativo utilizzo ed interpretazione.
 
 ## UTILIZZAZIONE DELLE INFORMAZIONI E DEI DOCUMENTI
 
-### Articolo 12
+## Articolo 12
 
 1\. Le informazioni, le comunicazioni ed i documenti ricevuti nell'ambito dell'assistenza amministrativa possono essere usati in procedimenti civili, penali ed amministrativi, alle condizioni stabilite dalle rispettive norme giuridiche interne, unicamente per gli scopi previsti dal presente Accordo.
 
@@ -229,13 +229,13 @@ Le Amministrazioni doganali possono, d'intesa ed in accordo con le loro rispetti
 
 ## PROTEZIONE DATI PERSONALI
 
-### Articolo 13
+## Articolo 13
 
 Allorquando dati personali sono scambiati ai sensi di questo Accordo, le Parti Contraenti assicurano un livello di protezione equivalente a quello previsto dalla legislazione della Parte Contraente che fornisce informazioni o, almeno il livello di protezione che scaturisce dall'attuazione dei principi enunciati nell'Allegato al presente Accordo, che e' parte integrante di quest'ultimo.
 
 ## COMUNICAZIONE DELLE RICHIESTE
 
-### Articolo 14
+## Articolo 14
 
 1\. L'assistenza prevista dal presente Accordo, e' scambiata direttamente tra le Amministrazioni doganali.
 
@@ -259,7 +259,7 @@ d) i nomi e gli indirizzi delle parti coinvolte nel procedimento, se conosciuti.
 
 ## ESECUZIONE DELLE RICHIESTE
 
-### Articolo 15
+## Articolo 15
 
 1\. Se l'Amministrazione doganale adita non dispone dei documenti o delle informazioni richiesti, essa deve conformemente alle proprie disposizioni legislative ed amministrative nazionali:
 
@@ -275,7 +275,7 @@ c) indicare quali sono le autorita' competenti in materia.
 
 2\. Ogni indagine iniziata conformemente alle disposizioni del paragrafo 1 del presente Articolo, puo' comportare la raccolta delle disposizioni fatte dalle persone alle quali vengono richieste informazioni in relazione ad una infrazione doganale nonche' quelle rilasciate da testimoni ed esperti.
 
-### Articolo 16
+## Articolo 16
 
 1\. Su richiesta scritta, al fine di indagare su una infrazione doganale, funzionari all'uopo designati dall'Amministrazione doganale richiedente possono, con l'autorizzazione dell'Amministrazione doganale adita e alle condizioni eventualmente imposte da quest'ultima:
 
@@ -291,7 +291,7 @@ Essi, beneficiano sul posto della stessa, protezione ed assistenza accordate ai 
 
 ## ESPERTI E TESTIMONI
 
-### Articolo 17
+## Articolo 17
 
 1\. Su richiesta dell'Amministrazione doganale di una Parte Contraente, l'Amministrazione doganale dell'altra Parte Contraente autorizza, quando possibile, i propri funzionari a deporre, in qualita' di testimoni od esperti, nei procedimenti giudiziari o amministrativi relativi ad una infrazione doganale perseguita nel territorio della Parte Contraente richiedente ed a produrre oggetti, atti ed altri documenti, o copie autenticate degli stessi, necessari per i citati procedimenti. La richiesta di comparizione precisa, in particolare, in quale causa ed in quale qualita' il funzionario dovra' deporre.
 
@@ -299,7 +299,7 @@ Essi, beneficiano sul posto della stessa, protezione ed assistenza accordate ai 
 
 ## COSTI
 
-### Articolo 18
+## Articolo 18
 
 1\. Le Amministrazioni doganali rinunciano ad ogni rivendicazione per il rimborso delle spese originate dall'applicazione del presente Accordo, fatta eccezione delle spese e delle indennita' versate agli esperti ed ai testimoni, nonche' dei costi degli interpreti e dei traduttori, quando questi non siano funzionari dello Stato, che devono essere a carico dell'Amministrazione doganale richiedente.
 
@@ -307,7 +307,7 @@ Essi, beneficiano sul posto della stessa, protezione ed assistenza accordate ai 
 
 ## ATTUAZIONE DELL'ACCORDO
 
-### Articolo 19
+## Articolo 19
 
 1\. L'attuazione dell'Accordo viene demandata direttamente alle Amministrazioni doganali delle Parti Contraenti.
 
@@ -317,13 +317,13 @@ Essi, beneficiano sul posto della stessa, protezione ed assistenza accordate ai 
 
 ## AMBITO TERRITORIALE
 
-### Articolo 20
+## Articolo 20
 
 Il presente Accordo e' applicabile ai territori doganali delle due Parti Contraenti cosi' come essi sono definiti dalle rispettive disposizioni nazionali legislative ed amministrative.
 
 ## ECCEZIONI
 
-### Articolo 21
+## Articolo 21
 
 1\. L'assistenza prevista dal presente Accordo puo' essere rifiutata quando questa sia di natura tale da pregiudicare la sovranita', la sicurezza, l'ordine pubblico od altri interessi nazionali essenziali di una Parte Contraente, quando implichi la violazione di un segreto industriale, commerciale o professionale, oppure si' riveli incompatibile con le disposizioni legislative ed amministrative applicate da questa Parte Contraente.
 
@@ -335,11 +335,11 @@ Il presente Accordo e' applicabile ai territori doganali delle due Parti Contrae
 
 ## ENTRATA IN VIGORE E DENUNCIA
 
-### Articolo 22
+## Articolo 22
 
 Il presente Accordo entra in vigore il primo giorno del secondo mese dopo che le Parti Contraenti si sono notificate attraverso i canali diplomatici l'avvenuto espletamento delle rispettive procedure interne per l'entrata in vigore.
 
-### Articolo 23
+## Articolo 23
 
 Il presente Accordo e' concluso per una durata illimitata, ma ciascuna delle Parti Contraenti puo' denunciarlo in qualsiasi momento con notifica per via diplomatica.
 
@@ -347,7 +347,7 @@ Il presente Accordo cessera' di essere applicato tre mesi dopo la notifica della
 
 I procedimenti in corso saranno in ogni caso completati secondo le disposizioni del presente Accordo.
 
-### Articolo 24
+## Articolo 24
 
 L'Accordo di mutua assistenza amministrativa, per la prevenzione e la repressione di frodi doganali tra la Repubblica Italiana e la Repubblica Socialista Federale di Jugoslavia, firmato a Belgrado il 10 Novembre 1965, cessera' di essere applicato tra la Repubblica Italiana e la Repubblica Federale di Jugoslavia, dalla data in cui questo Accordo entrera' in vigore. In fede di che i sottoscritti Rappresentanti, debitamente autorizzati dai rispettivi Governi, hanno firmato il presente Accordo.
 
@@ -359,7 +359,7 @@ Repubblica Italiana Repubblica Federale di Jugoslavia
 
 Parte di provvedimento in formato grafico
 
-### Allegato
+## Allegato
 
 ALLEGATO
 

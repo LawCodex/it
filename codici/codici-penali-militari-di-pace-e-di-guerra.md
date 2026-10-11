@@ -70,9 +70,9 @@ Atti del Governo, registro 433, foglio 17. - Mancini
 
 ## CODICE PENALE MILITARE DI PACE
 
-### LIBRO PRIMO - DEI REATI MILITARI, IN GENERALE
+## LIBRO PRIMO - DEI REATI MILITARI, IN GENERALE
 
-#### TITOLO PRIMO - DELLA LEGGE PENALE MILITARE
+### TITOLO PRIMO - DELLA LEGGE PENALE MILITARE
 
 CODICE PENALE MILITARE DI PACE
 
@@ -224,9 +224,9 @@ La legge determina i casi, nei quali la legge penale militare di guerra si appli
 
 ((ARTICOLO ASOPPRESSO DALLA L. 23 MARZO 1956, N. 167))
 
-#### TITOLO SECONDO - DELLE PENE MILITARI
+### TITOLO SECONDO - DELLE PENE MILITARI
 
-##### CAPO I - Delle specie di pene militari, in generale
+#### CAPO I - Delle specie di pene militari, in generale
 
 ###### Art. 22 - Pene militari principali: specie
 
@@ -256,7 +256,7 @@ Le pene militari accessorie sono:
 
 5° la pubblicazione della sentenza di condanna.
 
-##### CAPO II - Delle pene militari principali, in particolare
+#### CAPO II - Delle pene militari principali, in particolare
 
 ###### Art. 25 - Pena di morte
 
@@ -290,7 +290,7 @@ AGGIORNAMENTO (36)
 
 La Corte Costituzionale con sentenza 26 - 30 luglio 1993 n. 358 (in G.U. 1a s.s. 04/08/1993 n. 32) ha dichiarato "l'illegittimita' costituzionale dell'art. 27 c.p.m.p. nella parte in cui consente che la conversione della pena della reclusione comune in quella della reclusione militare possa avvenire in relazione alla sanzione penale comminata per il reato previsto nell'art. 8, secondo comma, della legge 15 dicembre 1972, n. 772".
 
-##### CAPO III - Delle pene militari accessorie, in particolare
+#### CAPO III - Delle pene militari accessorie, in particolare
 
 ###### Art. 28 - Degradazione
 
@@ -374,9 +374,9 @@ Il condannato alla pena di morte con degradazione e' equiparato al condannato al
 
 In caso di condanna per reati militari, non si applica la disposizione dell'articolo 31 del codice penale.
 
-#### TITOLO TERZO - DEL REATO MILITARE
+### TITOLO TERZO - DEL REATO MILITARE
 
-##### CAPO I - Del reato consumato e tentato
+#### CAPO I - Del reato consumato e tentato
 
 ###### Art. 37 - Reato militare
 
@@ -448,7 +448,7 @@ Il colpevole di delitto tentato e' punito:
 
 4° negli altri casi, con la pena stabilita per il delitto, diminuita da un terzo a due terzi.
 
-##### CAPO II - Circostanze del reato militare
+#### CAPO II - Circostanze del reato militare
 
 ###### Art. 47 - Circostanze aggravanti comuni
 
@@ -522,7 +522,7 @@ La pena da applicare per effetto delle diminuzioni non puo' essere inferiore:
 
 2° a quindici anni di reclusione militare, se per il delitto la legge stabilisce la pena di morte mediante fucilazione nel petto.
 
-##### CAPO III - Del concorso di reati
+#### CAPO III - Del concorso di reati
 
 ###### Art. 53 - Pena di morte
 
@@ -544,15 +544,15 @@ Quando concorrono piu' reati, alcuni dei quali importano la reclusione e altri l
 
 Nel caso di concorso di reati, la pena da applicare a norma dell'articolo precedente e dell'articolo 73 del codice penale non puo' essere superiore al quintuplo della piu' grave fra le pene concorrenti, ne', comunque, eccedere trenta anni per la reclusione o la reclusione militare.
 
-#### TITOLO QUARTO - DEL REO
+### TITOLO QUARTO - DEL REO
 
-##### CAPO I - Della recidiva
+#### CAPO I - Della recidiva
 
 ###### Art. 57 - Recidiva facoltativa fra reati comuni e reati esclusivamente militari
 
 Il giudice, salvo che si tratti di reati della stessa indole, ha facolta' di escludere la recidiva fra reati preveduti dalla legge penale comune e reati esclusivamente militari.
 
-##### CAPO II - Del concorso di persone nel reato
+#### CAPO II - Del concorso di persone nel reato
 
 ###### Art. 58 - Circostanze aggravanti
 
@@ -568,7 +568,7 @@ La pena da infliggere per il reato militare puo' essere diminuita:
 
 2° per il militare, che nella preparazione o nella esecuzione del reato ha prestato opera di minima importanza; eccettuati i casi indicati nell'articolo precedente.
 
-#### TITOLO QUINTO - DELL'APPLICAZIONE E DELLA ESECUZIONE DELLA PENA
+### TITOLO QUINTO - DELL'APPLICAZIONE E DELLA ESECUZIONE DELLA PENA
 
 ###### Art. 60 - Detenzione ordinata in via disciplinare. Equiparazione alla carcerazione preventiva
 
@@ -624,7 +624,7 @@ Nei casi preveduti dall'articolo 16, per la esecuzione delle pene militari si os
 
 Le disposizioni di questo articolo si applicano anche quando, per un reato militare, sia pronunciata condanna contro chi ha cessato di appartenere alle forze armate dello Stato, contro gli assimilati ai militari, gli iscritti ai corpi civili militarmente ordinati e le altre persone estranee alle forze predette.
 
-#### TITOLO SESTO - DELLA ESTINZIONE DEL REATO MILITARE E DELLA PENA MILITARE
+### TITOLO SESTO - DELLA ESTINZIONE DEL REATO MILITARE E DELLA PENA MILITARE
 
 ###### Art. 66 - Norma generale
 
@@ -672,7 +672,7 @@ Salvo che il decreto disponga altrimenti, l'amnistia, l'indulto o la grazia non 
 
 Salvo che la legge disponga altrimenti, la riabilitazione militare non restituisce il grado perduto per effetto della condanna.
 
-#### TITOLO SETTIMO - DELLE MISURE AMMINISTRATIVE DI SICUREZZA
+### TITOLO SETTIMO - DELLE MISURE AMMINISTRATIVE DI SICUREZZA
 
 ###### Art. 74 - Norma generale
 
@@ -690,11 +690,11 @@ Durante il servizio alle armi, e' sospesa la esecuzione delle misure di sicurezz
 
 Alla cessazione del servizio alle armi, o durante l'esecuzione della misura di sicurezza, anche prima che sia decorso il tempo corrispondente alla durata minima stabilita dalla legge, il Ministro della giustizia puo' revocare la misura di sicurezza applicata dal giudice, o, quando trattisi di misura di sicurezza detentiva, sostituirla con altra non detentiva.
 
-### LIBRO SECONDO - DEI REATI MILITARI, IN PARTICOLARE
+## LIBRO SECONDO - DEI REATI MILITARI, IN PARTICOLARE
 
-#### TITOLO PRIMO - DEI REATI CONTRO LA FEDELTA' E LA DIFESA MILITARE
+### TITOLO PRIMO - DEI REATI CONTRO LA FEDELTA' E LA DIFESA MILITARE
 
-##### CAPO I - Del tradimento
+#### CAPO I - Del tradimento
 
 ###### Art. 77
 
@@ -758,7 +758,7 @@ Se il fatto ha compromesso la preparazione o la difesa militare dello Stato, si 
 
 ((Agli effetti delle disposizioni di questo articolo, non possono comunque essere considerati come segreti gli atti, i documenti o altre cose che non abbiano destinazione esclusiva per le Forze armate)).
 
-##### CAPO II - Dello spionaggio militare e della rivelazione di segreti militari
+#### CAPO II - Dello spionaggio militare e della rivelazione di segreti militari
 
 ###### Art. 86 - Rivelazione di segreti militari, a scopo di spionaggio
 
@@ -858,7 +858,7 @@ Le pene stabilite dagli articoli precedenti si applicano anche al militare, che 
 
 Per i reati preveduti dagli articoli precedenti, la punibilita' non e' esclusa, se il colpevole ha agito con il fine di favorire lo Stato italiano. Tuttavia, la pena puo' essere diminuita.
 
-##### CAPO III - Disposizioni comuni ai capi precedenti
+#### CAPO III - Disposizioni comuni ai capi precedenti
 
 ###### Art. 97 - Agevolazione colposa
 
@@ -892,11 +892,11 @@ Le pene stabilite dagli articoli 84 e seguenti si applicano anche quando il reat
 
 Le pene stabilite per i reati preveduti da questo capo e dai capi precedenti sono diminuite, quando, per la natura, la specie, i mezzi, le modalita' o le circostanze dell'azione, ovvero per la particolare tenuita' del danno o del pericolo, il fatto risulti di lieve entita'.
 
-#### TITOLO SECONDO - DEI REATI CONTRO IL SERVIZIO MILITARE
+### TITOLO SECONDO - DEI REATI CONTRO IL SERVIZIO MILITARE
 
-##### CAPO I - Dei reati in servizio
+#### CAPO I - Dei reati in servizio
 
-###### Sezione I - Della violazione di doveri generali inerenti al comando
+##### Sezione I - Della violazione di doveri generali inerenti al comando
 
 ###### Art. 103 - Atti ostili del comandante contro uno Stato estero
 
@@ -1008,7 +1008,7 @@ La condanna importa la rimozione.
 
 Se l'incarico non e' eseguito per negligenza, la pena e' della reclusione militare fino a un anno.
 
-###### Sezione II - Dell'abbandono di posto e della violazione di consegna
+##### Sezione II - Dell'abbandono di posto e della violazione di consegna
 
 ###### Art. 118 - Abbandono di posto o violata consegna da parte di un militare in servizio di sentinella, vedetta o scolta
 
@@ -1066,7 +1066,7 @@ Se il fatto e' commesso per colpa, la pena e' della reclusione militare fino a u
 
 Le stesse pene si applicano a ogni altro militare, che cagiona alcuno dei fatti suindicati.
 
-###### Sezione III - Della violazione di doveri inerenti a speciali servizi
+##### Sezione III - Della violazione di doveri inerenti a speciali servizi
 
 ###### Art. 125 - Inosservanza di istruzioni ricevute
 
@@ -1144,7 +1144,7 @@ Il militare, che arbitrariamente imbarca o permette che s'imbarchino merci o pas
 
 Il militare addetto alle officine o ad altri laboratori militari, che, contro le disposizioni dei regolamenti, o gli ordini dei superiori o dirigenti, vi lavora o vi fa lavorare per conto proprio o di altri, e' punito con la reclusione militare fino a due anni.
 
-###### Sezione IV - Della violazione di speciali doveri inerenti alla qualita' militare
+##### Sezione IV - Della violazione di speciali doveri inerenti alla qualita' militare
 
 ###### Art. 137 - Manifestazioni di codardia
 
@@ -1164,7 +1164,7 @@ Se il colpevole e' il piu' elevato in grado, o, a parita' di grado, superiore in
 
 Agli effetti delle disposizioni dei commi precedenti, per la determinazione della pena stabilita per i reati in essi indicati, non si ha riguardo a quella che la legge stabilisce per i capi, promotori od organizzatori del reato o per coloro che ne hanno diretto la esecuzione.
 
-###### Sezione V - Della ubriachezza in servizio
+##### Sezione V - Della ubriachezza in servizio
 
 ###### Art. 139 - Nozione del reato e circostanze aggravanti
 
@@ -1174,7 +1174,7 @@ Se il fatto e' commesso dal comandante del reparto o da un militare preposto al 
 
 Le stesse disposizioni si applicano, quando la capacita' di prestare il servizio sia esclusa o menomata dall'azione di sostanze stupefacenti.
 
-##### CAPO II - Dei reati contro militari in servizio
+#### CAPO II - Dei reati contro militari in servizio
 
 ###### Art. 140 - Forzata consegna
 
@@ -1216,9 +1216,9 @@ Il militare, che, con violenza o inganno, ferma o trattiene militari o altre per
 
 Il superiore, che minaccia l'inferiore per costringerlo a fare un atto contrario ai propri doveri, ovvero a compiere o ad omettere un atto inerente al proprio ufficio o servizio, e' punito con la reclusione militare da sei mesi a cinque anni.
 
-##### CAPO III - Dei reati di assenza dal servizio alle armi
+#### CAPO III - Dei reati di assenza dal servizio alle armi
 
-###### Sezione I - Dell'allontanamento illecito
+##### Sezione I - Dell'allontanamento illecito
 
 ###### Art. 147 - Nozione del reato, sanzione penale
 
@@ -1228,7 +1228,7 @@ Alla stessa pena soggiace il militare, che, essendo legittimamente assente, non 
 
 Le disposizioni di questo articolo non si applicano, quando il fatto costituisce il reato di diserzione.
 
-###### Sezione II - Della diserzione
+##### Sezione II - Della diserzione
 
 ###### Art. 148 - Nozione del reato; sanzione penale
 
@@ -1272,7 +1272,7 @@ Le pene stabilite dagli articoli precedenti sono aumentate da un terzo alla meta
 
 Nel caso preveduto dal comma precedente, l'aumento e' sempre della meta' per i capi, promotori od organizzatori.
 
-###### Sezione III - Della mancanza alla chiamata
+##### Sezione III - Della mancanza alla chiamata
 
 ###### Art. 151 - Nozione del reato: sanzione penale
 
@@ -1290,7 +1290,7 @@ Nei casi preveduti dai primi due commi dell'articolo precedente, se il militare,
 
 Il militare, che, chiamato in servizio alle armi in alcuno dei casi enunciati nell'articolo 151, non si presenta, facendo presentare altri in sua vece, e' considerato immediatamente mancante alla chiamata e punito con le pene rispettivamente stabilite dall'articolo stesso, aumentate da un terzo alla meta'.
 
-###### Sezione IV - Disposizioni comuni alle sezioni seconda e terza
+##### Sezione IV - Disposizioni comuni alle sezioni seconda e terza
 
 ###### Art. 154 - Circostanza aggravante e circostanza attenuante in relazione alla durata dell'assenza
 
@@ -1308,7 +1308,7 @@ Nei casi preveduti dal numero 5° dell'articolo 149 e dall'articolo 153, colui c
 
 La condanna per alcuno dei reati preveduti dalle sezioni seconda e terza, eccettuato quello preveduto dall'ultimo comma dell'articolo 151, importa la rimozione.
 
-##### CAPO IV - Della mutilazione e della simulazione d'infermita'
+#### CAPO IV - Della mutilazione e della simulazione d'infermita'
 
 ###### Art. 157 - Procurata infermita' a fine di sottrarsi permanentemente all'obbligo del servizio militare
 
@@ -1352,7 +1352,7 @@ Il pubblico ufficiale, il medico, il chirurgo o altro esercente una professione 
 
 Nei casi indicati negli articoli precedenti, la condanna, quando non ne derivi la degradazione, importa la rimozione.
 
-##### CAPO V - Della distruzione, alienazione, acquisto o ritenzione di effetti militari
+#### CAPO V - Della distruzione, alienazione, acquisto o ritenzione di effetti militari
 
 ###### Art. 164 - Distruzione o alienazione di oggetti d'armamento militare
 
@@ -1398,7 +1398,7 @@ La L. 8 febbraio 1958, n. 109 nel modificare l'art. 3 del D.Lgs.
 
 Luogotenenziale 21 marzo 1946, n. 144 ha conseguentemente disposto (con l'articolo unico) che "Le norme dell'art. 3 del decreto legislativo luogotenenziale 21 marzo 1946, n. 144, cessano di avere applicazione dal giorno della pubblicazione della presente legge nella Gazzetta Ufficiale".
 
-##### CAPO VI - Distruzione o danneggiamento di opere, di edifici o di cose mobili militari
+#### CAPO VI - Distruzione o danneggiamento di opere, di edifici o di cose mobili militari
 
 ###### Art. 167 - Distruzione o sabotaggio di opere militari
 
@@ -1440,9 +1440,9 @@ Nei casi preveduti dagli articoli 168 e 169:
 
 Il militare, che, senza necessita', uccide, o rende inservibile, o comunque danneggia un cavallo o altro animale destinato al servizio delle forze armate dello Stato, e' punito con la reclusione militare da sei mesi a quattro anni.
 
-#### TITOLO TERZO - DEI REATI CONTRO LA DISCIPLINA MILITARE
+### TITOLO TERZO - DEI REATI CONTRO LA DISCIPLINA MILITARE
 
-##### CAPO I - Della disobbedienza
+#### CAPO I - Della disobbedienza
 
 ###### Art. 173 - Nozione del reato e circostanza aggravante
 
@@ -1450,7 +1450,7 @@ Il militare, che rifiuta, omette o ritarda di obbedire a un ordine attinente al 
 
 Se il fatto e' commesso in servizio, ovvero a bordo di una nave o di un aeromobile, la reclusione militare e' da sei mesi a un anno; e puo' estendersi fino a cinque anni, se il fatto e' commesso in occasione d'incendio o epidemia o in altra circostanza di grave pericolo.
 
-##### CAPO II - Della rivolta, dell'ammutinamento e della sedizione militare
+#### CAPO II - Della rivolta, dell'ammutinamento e della sedizione militare
 
 ###### Art. 174 - Rivolta
 
@@ -1540,7 +1540,7 @@ La stessa pena si applica al militare, che, per trattare di cose attinenti al se
 
 Se piu' militari rilasciano arbitrariamente attestazioni o dichiarazioni concernenti cose o persone militari, ciascuno di essi e' punito con la reclusione militare fino a sei mesi.
 
-##### CAPO III - Della insubordinazione
+#### CAPO III - Della insubordinazione
 
 ###### Art. 186
 
@@ -1624,7 +1624,7 @@ Se ricorre alcuna delle circostanze indicate nel secondo comma dello stesso arti
 
 ((ARTICOLO ABROGATO DALLA L. 26 NOVEMBRE 1985, N. 689))
 
-##### CAPO IV - Dell'abuso di autorita'
+#### CAPO IV - Dell'abuso di autorita'
 
 ###### Art. 195
 
@@ -1658,7 +1658,7 @@ La Corte Costituzionale con sentenza 2 - 4 aprile 1985, n. 102 (in G.U. 1a s.s. 
 
 ((ARTICOLO ABROGATO DALLA L. 26 NOVEMBRE 1985, N. 689))
 
-##### CAPO V - Disposizione comune ai capi terzo e quarto
+#### CAPO V - Disposizione comune ai capi terzo e quarto
 
 ###### Art. 198
 
@@ -1676,9 +1676,9 @@ AGGIORNAMENTO (29)
 
 La Corte Costituzionale con sentenza 17 - 24 gennaio 1991, n. 22 (in G.U. 1a s.s. 30/1/1991, n. 5) ha dichiarato "l'illegittimita' costituzionale dell'art. 199 del codice penale militare di pace, limitatamente alle parole: "o in luoghi militari"".
 
-##### CAPO VI - Del reato militare di duello
+#### CAPO VI - Del reato militare di duello
 
-###### Sezione I - Disposizione generale
+##### Sezione I - Disposizione generale
 
 ###### Art. 200
 
@@ -1686,7 +1686,7 @@ La Corte Costituzionale con sentenza 17 - 24 gennaio 1991, n. 22 (in G.U. 1a s.s
 
 ((In caso di sfida a duello, di accettazione di sfida o di uso delle armi in duello fra militari in servizio, in luogo delle disposizioni del Codice penale relativo ai reati suindicati, si applicano quelle delle sezioni seguenti)).
 
-###### Sezione II - Del duello fra superiore e inferiore
+##### Sezione II - Del duello fra superiore e inferiore
 
 ###### Art. 201 - Inferiore che sfida il superiore; accettazione; duello
 
@@ -1708,7 +1708,7 @@ Se il duello avviene, si applica la reclusione militare da sei mesi a tre anni p
 
 Le disposizioni degli articoli precedenti si applicano anche nel caso in cui la sfida e' portata, o il duello avviene, dopo che l'inferiore e' stato promosso a grado eguale a quello del superiore, ma per cause di servizio anteriori alla promozione.
 
-###### Sezione III - Del duello fra eguali
+##### Sezione III - Del duello fra eguali
 
 ###### Art. 204 - Sfida; accettazione; duello
 
@@ -1718,7 +1718,7 @@ La stessa pena si applica al militare, che accetta la sfida, sempre che il duell
 
 Il duellante e' punito con la reclusione militare fino a tre anni.
 
-###### Sezione IV - Disposizioni comuni alle sezioni seconda e terza
+##### Sezione IV - Disposizioni comuni alle sezioni seconda e terza
 
 ###### Art. 205 - Casi di non punibilita'
 
@@ -1764,7 +1764,7 @@ Nei casi medesimi, il giudice, qualora non ritenga di astenersi dal rinviare a g
 
 ((ARTICOLO SOPPRESSO DALLA L. 23 MARZO 1956, N. 167))
 
-##### CAPO VII - Della istigazione a delinquere
+#### CAPO VII - Della istigazione a delinquere
 
 ###### Art. 212
 
@@ -1790,9 +1790,9 @@ La condanna, quando non ne derivi la degradazione, importa la rimozione.
 
 ((Le disposizioni dell'art. 212 si applicano anche se il fatto e' commesso da un militare in congedo illimitato, sempreche' l'istigazione si riferisca a reati esclusivamente militari ovvero a reati per i quali e' prevista, a norma dell'art. 7 del Codice penale militare di pace, l'applicabilita' della legge penale militare ai militari in congedo)).
 
-#### TITOLO QUARTO - REATI SPECIALI CONTRO L'AMMINISTRAZIONE MILITARE, CONTRO LA FEDE PUBBLICA, CONTRO LA PERSONA E CONTRO IL PATRIMONIO
+### TITOLO QUARTO - REATI SPECIALI CONTRO L'AMMINISTRAZIONE MILITARE, CONTRO LA FEDE PUBBLICA, CONTRO LA PERSONA E CONTRO IL PATRIMONIO
 
-##### CAPO I - Del peculato e della malversazione militare
+#### CAPO I - Del peculato e della malversazione militare
 
 ###### Art. 215 - Peculato militare
 
@@ -1828,7 +1828,7 @@ Il militare incaricato di funzioni amministrative o di comando, che, nell'eserci
 
 La condanna per alcuno dei reati indicati negli articoli precedenti, quando non ne derivi la degradazione, importa la rimozione.
 
-##### CAPO II - Reati di falso
+#### CAPO II - Reati di falso
 
 ###### Art. 220 - Falso in fogli di licenza, di via e simili
 
@@ -1842,7 +1842,7 @@ Il militare, che porta abusivamente in pubblico decorazioni militari, o segni di
 
 ((COMMA SOPPRESSO DALLA L. 23 MARZO 1956, N. 167)).
 
-##### CAPO III - Reati contro la persona
+#### CAPO III - Reati contro la persona
 
 ###### Art. 222 - Percosse
 
@@ -1908,7 +1908,7 @@ Se la minaccia e' grave, si applica la reclusione militare fino a sei mesi.
 
 Se la minaccia e' fatta in uno dei modi indicati nell'articolo 339 del codice penale, la pena e' della reclusione militare fino a un anno.
 
-##### CAPO IV - Reati contro il patrimonio
+#### CAPO IV - Reati contro il patrimonio
 
 ###### Art. 230 - Furto militare
 
@@ -2008,9 +2008,9 @@ Le disposizioni di questo articolo si applicano anche quando l'autore del reato,
 
 La condanna, quando non ne derivi la degradazione, importa la rimozione.
 
-#### TITOLO QUINTO - DISPOSIZIONI RELATIVE AI MILITARI IN CONGEDO, AI MOBILITATI CIVILI E ALLE PERSONE ESTRANEE ALLE FORZE ARMATE DELLO STATO
+### TITOLO QUINTO - DISPOSIZIONI RELATIVE AI MILITARI IN CONGEDO, AI MOBILITATI CIVILI E ALLE PERSONE ESTRANEE ALLE FORZE ARMATE DELLO STATO
 
-##### CAPO I - Disposizioni per i militari in congedo
+#### CAPO I - Disposizioni per i militari in congedo
 
 ###### Art. 238
 
@@ -2034,7 +2034,7 @@ E' punito a norma delle rispettive disposizioni di questo codice il militare in 
 
 ((Le disposizioni contenute nei tre articoli precedenti si applicano anche se gli offesi avevano, al momento del fatto, cessato di appartenere alle Forze armate dello Stato)).
 
-##### CAPO II - Disposizioni per i mobilitati civili
+#### CAPO II - Disposizioni per i mobilitati civili
 
 ###### Art. 242 - Mutilazione o infermita' procurata o simulazione d'infermita'
 
@@ -2120,7 +2120,7 @@ Salvo che il fatto costituisca un piu' grave reato, e' punito con la reclusione 
 
 5° procede, senza autorizzazione dell'Autorita' suindicata, a trasformazioni o trasferimenti di stabilimenti o reparti, oppure ad alienazione di tutti o parte degli stessi, o di macchinari.
 
-##### CAPO III - Disposizioni per i piloti non militari di navi militari o aeromobili militari, per i capitani di navi mercantili e per i comandanti di aeromobili civili
+#### CAPO III - Disposizioni per i piloti non militari di navi militari o aeromobili militari, per i capitani di navi mercantili e per i comandanti di aeromobili civili
 
 ###### Art. 252 - Pilota che cagiona la perdita, ovvero l'investimento, l'incaglio o l'avaria della nave
 
@@ -2170,7 +2170,7 @@ Quando, nei fatti preveduti dal primo e dal secondo comma dell'articolo 252 e da
 
 Il comandante di una nave mercantile o di un aeromobile civile, cittadino dello Stato, che rifiuta od omette di prestare a una nave militare o ad un aeromobile militare l'assistenza chiestagli in circostanze di pericolo, e' punito con la reclusione da uno a tre anni.
 
-#### TITOLO SESTO - DISPOSIZIONI COMUNI AI TITOLI PRECEDENTI
+### TITOLO SESTO - DISPOSIZIONI COMUNI AI TITOLI PRECEDENTI
 
 ###### Art. 260 - Richiesta di procedimento
 
@@ -2194,9 +2194,9 @@ AGGIORNAMENTO (31)
 
 La Corte Costituzionale con sentenza 4 -13 dicembre 1991, n. 449 (in G.U. 1a s.s. 18/12/1991, n. 50) ha dichiarato "l'illegittimita' costituzionale dell'art. 260, secondo comma, del codice penale militare di pace, nella parte in cui non prevede che i reati ivi previsti siano puniti a richiesta del comandante di altro ente superiore, allorche' il comandnate del corpo di appartenenza del militare colpevole sia la persona offesa dalla condotta contestata."
 
-### LIBRO TERZO - DELLA PROCEDURA PENALE MILITARE
+## LIBRO TERZO - DELLA PROCEDURA PENALE MILITARE
 
-#### TITOLO PRIMO - DISPOSIZIONI PRELIMINARI
+### TITOLO PRIMO - DISPOSIZIONI PRELIMINARI
 
 ###### Art. 261 - Applicazione delle disposizioni del codice di procedura penale
 
@@ -2246,9 +2246,9 @@ La disposizione di cui al terzo comma si applica, altresi', nel caso di malfunzi
 
 Se la scadenza di un termine previsto a pena di decadenza si verifica nel periodo di malfunzionamento certificato ai sensi del primo e del secondo comma o accertato ai sensi del quarto comma 4, si applicano le disposizioni dell'articolo 175 del codice di procedura penale)).
 
-#### TITOLO SECONDO - DELL'ESERCIZIO DELLA GIURISDIZIONE MILITARE
+### TITOLO SECONDO - DELL'ESERCIZIO DELLA GIURISDIZIONE MILITARE
 
-##### CAPO I - Della giurisdizione militare
+#### CAPO I - Della giurisdizione militare
 
 ###### Art. 262 - Unicita' della giurisdizione militare
 
@@ -2280,7 +2280,7 @@ Nei casi preveduti nel comma precedente e' competente per tutti i procedimenti l
 
 Il ricorso ha effetto sospensivo)).
 
-##### CAPO II - Effetti della connessione dei procedimenti sulla competenza dei tribunali militari
+#### CAPO II - Effetti della connessione dei procedimenti sulla competenza dei tribunali militari
 
 ###### Art. 265 - Proscioglimento di alcuno degli imputati
 
@@ -2302,9 +2302,9 @@ Nei paesi nei quali i trattati e gli usi internazionali attribuiscono ai consoli
 
 Se trattasi di giurisdizione consolare straniera, si applica la disposizione dell'articolo precedente.
 
-#### TITOLO TERZO - DISPOSIZIONI GENERALI
+### TITOLO TERZO - DISPOSIZIONI GENERALI
 
-##### CAPO I - Delle azioni
+#### CAPO I - Delle azioni
 
 ###### Art. 269 - Officialita' dell'azione penale
 
@@ -2326,15 +2326,15 @@ La Corte Costituzionale con sentenza 22-28 febbraio 1996, n. 60 (in G.U. 1a s.s.
 
 \- ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87, l'illegittimita' costituzionale del secondo comma del presente articolo.
 
-##### CAPO II - Del giudice
+#### CAPO II - Del giudice
 
-###### Sezione I - Organi della giurisdizione militare
+##### Sezione I - Organi della giurisdizione militare
 
 ###### Art. 271 - Disposizione generale
 
 La legge relativa all'ordinamento giudiziario militare determina la specie, la composizione e il numero degli organi, che esercitano la giurisdizione militare.
 
-###### Sezione II - Della competenza
+##### Sezione II - Della competenza
 
 **§ 1 - Della competenza dei tribunali militari territoriali**
 
@@ -2428,7 +2428,7 @@ La competenza dei tribunali militari presso forze armate concentrate all'interno
 
 Per la competenza dei tribunali militari presso forze armate concentrate all'estero, oltre le disposizioni del decreto Reale che li istituisce, si osservano gli accordi stipulati con lo Stato che concede il transito o il soggiorno al corpo di spedizione, e, in mancanza di accordi, gli usi internazionali. Ove occorra, provvede il comandante del corpo di spedizione, mediante bando.
 
-###### Sezione III - Dei conflitti di competenza
+##### Sezione III - Dei conflitti di competenza
 
 ###### Art. 284 - Denuncia e risoluzione dei conflitti di competenza fra giudici militari
 
@@ -2446,7 +2446,7 @@ Nel risolvere il conflitto, il tribunale supremo militare determina se e in qual
 
 La sentenza del tribunale supremo militare sulla competenza ha autorita' di cosa giudicata, salvo che nuovi fatti o circostanze, nel seguito del giudizio, vengano a modificare la competenza.
 
-###### Sezione IV - Della rimessione dei procedimenti
+##### Sezione IV - Della rimessione dei procedimenti
 
 ###### Art. 285 - Casi di rimessione e norme relative
 
@@ -2480,7 +2480,7 @@ Il procedimento per rimessione non sospende l'istruzione o il giudizio, salvo ch
 
 In quanto non sia diversamente disposto dagli articoli precedenti, al procedimento per rimessione relativo a reati soggetti alla giurisdizione militare si applicano le disposizioni del codice di procedura penale.
 
-###### Sezione V - Della incompatibilita', dell'astensione e della ricusazione del giudice
+##### Sezione V - Della incompatibilita', dell'astensione e della ricusazione del giudice
 
 ###### Art. 288 - Applicazione delle norme del codice di procedura penale
 
@@ -2498,9 +2498,9 @@ Oltre i casi indicati negli articoli 61 e 62 del codice di procedura penale, non
 
 4° l'ufficiale che ha proceduto ad atti preliminari all'istruzione.
 
-##### CAPO III - Delle parti
+#### CAPO III - Delle parti
 
-###### Sezione I - Del pubblico ministero
+##### Sezione I - Del pubblico ministero
 
 ###### Art. 290 - Esercizio dell'azione penale da parte del pubblico ministero
 
@@ -2516,7 +2516,7 @@ Il procuratore militare del Re Imperatore, sotto la dipendenza e la direzione de
 
 3° esercita tutte le altre attribuzioni, che gli sono conferite dalle leggi e dai regolamenti militari approvati con decreto Reale.
 
-###### Sezione II - Dell'imputato
+##### Sezione II - Dell'imputato
 
 ###### Art. 292 - Dubbio sulla identita' personale dell'imputato nel giudizio davanti al tribunale supremo militare
 
@@ -2544,9 +2544,9 @@ Il difensore militare, ancorche' scelto dall'imputato, se accetta qualsiasi comp
 
 ((ARTICOLO ABROGATO DAL D.LGS. DEL CAPO PROVVISORIO DELLO STATO 20 AGOSTO 1947, N. 1103))
 
-##### CAPO IV - Degli atti processuali
+#### CAPO IV - Degli atti processuali
 
-###### Sezione I - Delle notificazioni e delle copie degli atti
+##### Sezione I - Delle notificazioni e delle copie degli atti
 
 ###### Art. 296 - Obbligo d'osservanza delle norme processuali
 
@@ -2568,17 +2568,17 @@ Se ricorrono particolari ragioni di urgenza, i militari in servizio alle armi po
 
 Se i militari sono in congedo o altrimenti lontani dalla sede del corpo, l'avviso puo' essere notificato a cura dell'arma dei carabinieri Reali del luogo, che invia subito la sua relazione all'Autorita' procedente.
 
-###### Sezione II - Delle nullita'
+##### Sezione II - Delle nullita'
 
 ###### Art. 300 - Nullita' non sanabili
 
 Le nullita' stabilite dall'articolo 185 del codice di procedura penale non possono essere sanate in alcun modo. Esse possono essere dedotte in ogni stato e grado del procedimento, e devono anche essere dichiarate d'ufficio.
 
-#### TITOLO QUARTO - DELLA ISTRUZIONE
+### TITOLO QUARTO - DELLA ISTRUZIONE
 
-##### CAPO I - Disposizioni generali
+#### CAPO I - Disposizioni generali
 
-###### Sezione I - Degli atti preliminari alla istruzione
+##### Sezione I - Degli atti preliminari alla istruzione
 
 **§ 1 - Degli atti di polizia giudiziaria militare**
 
@@ -2624,7 +2624,7 @@ Il procuratore militare del Re Imperatore, prima di richiedere la istruzione for
 
 Il procuratore militare del Re Imperatore, in tutti gli atti che compie, e' assistito dal cancelliere.
 
-###### Sezione II - Della liberta' personale dell'imputato
+##### Sezione II - Della liberta' personale dell'imputato
 
 **§ 1 - Dell'arresto**
 
@@ -2758,9 +2758,9 @@ AGGIORNAMENTO (11)
 
 La Corte Costituzionale con sentenza 28 maggio - 6 giugno 1974, n. 167 (in G.U. 1a s.s. 12/6/1974, n. 153) ha dichiarato "l'illegittimita' costituzionale dell'inciso "escluso il giudizio dinanzi al tribunale supremo militare", contenuto nell'art. 323, primo comma, del codice penale militare di pace".
 
-##### CAPO II - Della istruzione formale
+#### CAPO II - Della istruzione formale
 
-###### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### Art. 324 - Casi in cui e' obbligatoria l'istruzione formale
 
@@ -2790,7 +2790,7 @@ Se la nave si trova in un porto estero, puo' essere richiesto anche il Regio con
 
 Il procuratore militare del Re Imperatore deve vigilare e, occorrendo, richiedere tutto cio' che ritiene opportuno, perche' la istruzione sia speditamente compiuta, riferendo anche, ove sia necessario, al procuratore generale militare del Re Imperatore.
 
-###### Sezione II - Disposizioni speciali
+##### Sezione II - Disposizioni speciali
 
 **§ 1 - Delle ispezioni, delle perquisizioni e degli esperimenti giudiziali**
 
@@ -2856,7 +2856,7 @@ Il diritto di astenersi dal testimoniare, determinato dal segreto professionale 
 
 Nei casi preveduti dall'articolo 352 del codice di procedura penale, quando il giudice istruttore ritiene non fondata la dichiarazione del militare, rimette gli atti al procuratore generale militare del Re Imperatore, che ne informa il Ministro da cui il militare dipende. In tal caso, non si procede, per il delitto preveduto dall'articolo 372 del codice penale, senza l'autorizzazione del Ministro medesimo.
 
-###### Sezione III - Della chiusura della istruzione formale
+##### Sezione III - Della chiusura della istruzione formale
 
 ###### Art. 340 - Rapporti fra il giudice istruttore e il pubblico ministero
 
@@ -2914,7 +2914,7 @@ Il ricorso e' proposto, a pena di decadenza, nel termine di cinque giorni, decor
 
 ((Se l'imputato non si e' potuto arrestare, o e' evaso prima della sentenza di rinvio a giudizio, questa e' notificata nei modi stabiliti dal Codice di procedura penale; e se l'imputato appartiene a un corpo o a una nave, e' posta all'ordine del giorno del corpo o della nave, al quale effetto essa e' trasmessa al comandante dell'uno o dell'altra)).
 
-##### CAPO III - Della istruzione sommaria
+#### CAPO III - Della istruzione sommaria
 
 ###### Art. 350 - Casi in cui si procede con istruzione sommaria
 
@@ -2940,17 +2940,17 @@ Per la sentenza del giudice istruttore, si applicano, secondo i casi, le disposi
 
 La richiesta del procuratore militare del Re Imperatore per la citazione di un militare a giudizio contiene, in aggiunta ai requisiti formali stabiliti dal codice di procedura penale, le indicazioni del grado che il militare riveste e del corpo o della nave a cui appartiene.
 
-##### CAPO IV - Della riapertura dell'istruzione
+#### CAPO IV - Della riapertura dell'istruzione
 
 ###### Art. 353 - Riapertura dell'istruzione e procedimento relativo
 
 La riapertura della istruzione e' ammessa nei casi stabiliti dal codice di procedura penale, ed e' regolata dalle disposizioni del codice stesso.
 
-#### TITOLO QUINTO - DEL GIUDIZIO
+### TITOLO QUINTO - DEL GIUDIZIO
 
-##### CAPO I - Degli atti preliminari al giudizio
+#### CAPO I - Degli atti preliminari al giudizio
 
-###### Sezione I - Degli atti preliminari al giudizio nei procedimenti con istruzione formale
+##### Sezione I - Degli atti preliminari al giudizio nei procedimenti con istruzione formale
 
 ###### Art. 354
 
@@ -2976,7 +2976,7 @@ L'avviso del giorno e dell'ora fissati per il dibattimento e' notificato all'imp
 
 11 termine per comparire non puo' essere minore di cinque giorni, osservate le disposizioni dell'articolo 183 del codice di procedura penale.
 
-###### SEZIONE II - Degli atti preliminari al giudizio nei procedimenti con istruzione sommaria
+##### SEZIONE II - Degli atti preliminari al giudizio nei procedimenti con istruzione sommaria
 
 ###### Art. 359
 
@@ -2998,7 +2998,7 @@ Il decreto di citazione e' nullo, se non e' stato preceduto dalla notificazione 
 
 Il decreto di citazione e' notificato nei modi stabiliti dall'articolo 298.
 
-###### Sezione III - Disposizioni comuni ai procedimenti con istruzione formale e ai procedimenti con istruzione sommaria
+##### Sezione III - Disposizioni comuni ai procedimenti con istruzione formale e ai procedimenti con istruzione sommaria
 
 ###### Art. 361 - Liste testimoniali e riduzione di esse; richiamo di documenti, citazione di periti ed altri atti preliminari. Sanatoria di nullita'
 
@@ -3018,7 +3018,7 @@ Le notificazioni all'imputato estraneo alle forze armate dello Stato, che non si
 
 Per la citazione di testimoni, periti, interpreti o consulenti tecnici, per il giudizio, si osservano le disposizioni degli articoli 298 e 299.
 
-##### CAPO II - Del dibattimento e della sentenza
+#### CAPO II - Del dibattimento e della sentenza
 
 ###### Art. 364 - Applicazione delle norme del codice di procedura penale
 
@@ -3026,7 +3026,7 @@ Nei procedimenti davanti ai tribunali militari, per le udienze, per gli atti del
 
 Si applica altresi' la disposizione del penultimo comma dell'articolo 356 di questo codice.
 
-###### Sezione I - Del dibattimento
+##### Sezione I - Del dibattimento
 
 ###### Art. 365 - Comparizione dell'imputato
 
@@ -3066,7 +3066,7 @@ Le eccezioni di nullita' proposte nel termine stabilito dall'articolo 357 sono t
 
 Oltre le deposizioni testimoniali indicate nell'articolo 462 del codice di procedura penale, possono essere lette al dibattimento anche le deposizioni ricevute a norma dell'articolo 362 di questo codice.
 
-###### Sezione II - Della sentenza
+##### Sezione II - Della sentenza
 
 ###### Art. 370 - Deliberazione della sentenza
 
@@ -3104,7 +3104,7 @@ AGGIORNAMENTO (22)
 
 La Corte Costituzionale, con sentenza 22 febbraio - 3 marzo 1989, n. 78 (in G.U. 1a s.s. 8/3/1989, n. 10), ha dichiarato l'illegittimita' costituzionale del comma 1 del presente articolo e, in applicazione dell'art. 27 della legge 11 marzo 1953, n. 87, l'illegittimita' costituzionale del comma 2 del presente articolo "nella parte in cui non prevede che, dinanzi al giudice civile competente, venga proposta la domanda relativa alle restituzioni ed al risarcimento del danno".
 
-###### Sezione III - Del processo verbale di dibattimento
+##### Sezione III - Del processo verbale di dibattimento
 
 ###### Art. 374 - Contenuto del processo verbale di dibattimento e norme per la sua compilazione
 
@@ -3118,13 +3118,13 @@ Il processo verbale del dibattimento e' compilato secondo le norme stabilite dal
 
 Le dichiarazioni dell'imputato e le deposizioni dei testimoni sono riassunte nel processo verbale secondo le disposizioni date dal presidente, o in quanto sia richiesto da una delle parti.
 
-##### CAPO III - Dei giudizi speciali
+#### CAPO III - Dei giudizi speciali
 
 ###### Art. 375 - Del giudizio in contumacia, del giudizio direttissimo e del giudizio per decreto
 
 Per i procedimenti davanti ai tribunali militari, il giudizio direttissimo, il giudizio per decreto e il giudizio in contumacia sono ammessi nei casi indicati negli articoli seguenti e secondo le norme da essi stabilite.
 
-###### Sezione I - Del giudizio in contumacia
+##### Sezione I - Del giudizio in contumacia
 
 ###### Art. 376 - Applicazione delle norme del codice di procedura penale
 
@@ -3148,7 +3148,7 @@ Quando si e' proceduto in contumacia, la sentenza e' notificata all'imputato nei
 
 Il ricorso per annullamento al tribunale supremo militare puo' proporsi anche per il motivo dell'illegale dichiarazione della contumacia.
 
-###### Sezione II - Del giudizio direttissimo
+##### Sezione II - Del giudizio direttissimo
 
 ###### Art. 379 - Casi e procedura del giudizio direttissimo
 
@@ -3172,7 +3172,7 @@ In entrambi i casi preveduti dai commi precedenti, il tribunale ordina la libera
 
 I provvedimenti indicati nei commi precedenti sono dati con ordinanza.
 
-###### Sezione III - Del giudizio per decreto
+##### Sezione III - Del giudizio per decreto
 
 ###### Art. 382 - Casi del giudizio per decreto
 
@@ -3236,9 +3236,9 @@ Si osservano altresi' le disposizioni degli articoli 508 e 510 del codice di pro
 
 Il procuratore generale militare del Re Imperatore, quando abbia notizia che e' stata pronunciata condanna per decreto fuori dei casi stabiliti dalla legge, puo', prima che sia intervenuta una causa estintiva del reato, denunciare il decreto stesso per annullamento al tribunale supremo militare. Questo provvede in camera di consiglio, e, se pronuncia la revoca del decreto, ordina la trasmissione degli atti al procuratore militare del Re Imperatore competente, per la prosecuzione del procedimento nei modi ordinari.
 
-##### CAPO IV - Del ricorso per annullamento
+#### CAPO IV - Del ricorso per annullamento
 
-###### Sezione I - Dei casi nei quali si puo' ricorrere
+##### Sezione I - Dei casi nei quali si puo' ricorrere
 
 ###### Art. 387 - Motivi di ricorso contro le sentenze dei tribunali militari
 
@@ -3264,7 +3264,7 @@ Il procuratore militare del Re Imperatore e l'imputato possono proporre ricorso 
 
 Quando si e' proceduto in contumacia, il termine e', per l'imputato, di dieci giorni, a decorrere da quello della notificazione della sentenza.
 
-###### Sezione II - Del ricorso, del procedimento relativo e della sentenza
+##### Sezione II - Del ricorso, del procedimento relativo e della sentenza
 
 ###### Art. 390
 
@@ -3326,7 +3326,7 @@ Nel caso in cui il tribunale supremo militare dichiari inammissibile o rigetti i
 
 Quando una sentenza di condanna a pena diversa dalla pena di morte sia annullata su ricorso dell'imputato, il tribunale militare di rinvio puo' infliggere una pena piu' grave di quella applicata con la sentenza annullata, ma non puo' pronunciare condanna alla pena di morte.
 
-###### SEZIONE III - Del ricorso straordinario contro le sentenze del tribunale supremo militare
+##### SEZIONE III - Del ricorso straordinario contro le sentenze del tribunale supremo militare
 
 ###### Art. 400 - Casi di ricorso. Presentazione dei motivi
 
@@ -3338,7 +3338,7 @@ Il ricorso non ha effetto sospensivo; ma, se e' stata inflitta la pena di morte,
 
 I motivi di ricorso possono essere enunciati nello stesso atto della dichiarazione; altrimenti devono essere presentati, a pena di decadenza, nei dieci giorni successivi alla notificazione dell'avviso del deposito degli atti nella cancelleria della corte di cassazione.
 
-##### CAPO V - Della revisione
+#### CAPO V - Della revisione
 
 ###### Art. 401 - Norma generale
 
@@ -3348,9 +3348,9 @@ Le sentenze dei tribunali militari sono sottoposte a revisione nei casi e in con
 
 2° l'istanza e' promossa davanti al tribunale supremo militare, il quale, se ammette la revisione, annulla la sentenza di condanna, ordinando, ove occorra, il rinvio a nuovo giudizio davanti ad altro tribunale militare.
 
-#### TITOLO SESTO - DELLA ESECUZIONE
+### TITOLO SESTO - DELLA ESECUZIONE
 
-##### CAPO I - Disposizioni generali
+#### CAPO I - Disposizioni generali
 
 ###### Art. 402 - Applicazione delle norme del codice di procedura penale
 
@@ -3368,7 +3368,7 @@ La Corte Costituzionale, con sentenza 23 - 31 maggio 1990, n. 274 (in G.U. 1a s.
 
 Agli effetti del ragguaglio delle pene, a' termini dell'articolo 579 del codice di procedura penale, nel caso di piu' sentenze di condanna divenute irrevocabili, pronunciate contro la stessa persona per il medesimo fatto, la pena della reclusione militare e' equiparata a quella della reclusione.
 
-##### CAPO II - Disposizioni speciali
+#### CAPO II - Disposizioni speciali
 
 ###### Art. 404 - Esecuzione della condanna alla pena di morte
 
@@ -3434,13 +3434,13 @@ Si osservano, in quanto applicabili, le disposizioni degli articoli 598, 599 e 6
 
 La decisione del tribunale supremo militare non e' soggetta a impugnazione.
 
-##### CAPO III - Dei provvedimenti patrimoniali relativi alle cose sequestrate per il procedimento penale
+#### CAPO III - Dei provvedimenti patrimoniali relativi alle cose sequestrate per il procedimento penale
 
 ###### Art. 413 - Contestazione sulla proprieta' delle cose sequestrate. Competenza del giudice ordinario
 
 In caso di contestazione circa la proprieta' delle cose sequestrate, la decisione per la restituzione di esse appartiene all'Autorita' giudiziaria ordinaria.
 
-##### CAPO IV - Esecuzione delle misure di sicurezza
+#### CAPO IV - Esecuzione delle misure di sicurezza
 
 ###### Art. 414 - Applicazione delle norme del codice di procedura penale
 
@@ -3448,7 +3448,7 @@ Per la esecuzione delle misure di sicurezza, si osservano, in quanto applicabili
 
 E' escluso il ricorso per revisione.
 
-#### TITOLO SETTIMO - DELLA PROCEDURA DEI TRIBUNALI MILITARI DI BORDO
+### TITOLO SETTIMO - DELLA PROCEDURA DEI TRIBUNALI MILITARI DI BORDO
 
 ###### Art. 415 - Istruzione preliminare
 
@@ -3560,7 +3560,7 @@ Se la revisione e' ammessa, il tribunale supremo militare rimette gli atti a un 
 
 Per la sostituzione di pene a norma dell'articolo 407, per la revoca della sospensione condizionale della pena e per ogni altro provvedimento relativo all'esecuzione, e' competente il tribunale militare territoriale, al quale, a seguito della sentenza, sono stati rimessi gli atti del procedimento, giusta le norme del regolamento giudiziario militare.
 
-#### TITOLO OTTAVO - DELLA ESTRADIZIONE
+### TITOLO OTTAVO - DELLA ESTRADIZIONE
 
 ###### Art. 433 - Estradizione dall'estero
 
@@ -3576,9 +3576,9 @@ MUSSOLINI.
 
 ## CODICE PENALE MILITARE DI GUERRA
 
-### LIBRO PRIMO - DELLA LEGGE PENALE MILITARE DI GUERRA, IN GENERALE
+## LIBRO PRIMO - DELLA LEGGE PENALE MILITARE DI GUERRA, IN GENERALE
 
-#### TITOLO PRIMO - DELLA LEGGE PENALE MILITARE DI GUERRA E DELLA SUA APPLICAZIONE
+### TITOLO PRIMO - DELLA LEGGE PENALE MILITARE DI GUERRA E DELLA SUA APPLICAZIONE
 
 CODICE PENALE MILITARE DI GUERRA
 
@@ -3666,7 +3666,7 @@ Agli effetti della legge penale militare di guerra, i reati commessi da militari
 
 Salve le disposizioni degli articoli precedenti, la legge penale militare di guerra si applica per i reati commessi da militari italiani prigionieri di guerra presso il nemico a danno di altri militari italiani o dello Stato italiano; e, in caso di mobilitazione generale, anche per i reati commessi in territorio estero da ogni altro militare italiano.
 
-#### TITOLO SECONDO - ((COMANDANTE SUPREMO))
+### TITOLO SECONDO - ((COMANDANTE SUPREMO))
 
 ###### Art. 17
 
@@ -3692,7 +3692,7 @@ Agli effetti della legge penale militare, e' comandante supremo chi e' investito
 
 ((ARTICOLO ABROGATO DALLA L. 31 GENNAIO 2002, N. 6))
 
-#### TITOLO TERZO - DELLA CESSAZIONE DELL'APPLICAZIONE DELLA LEGGE PENALE MILITARE DI GUERRA
+### TITOLO TERZO - DELLA CESSAZIONE DELL'APPLICAZIONE DELLA LEGGE PENALE MILITARE DI GUERRA
 
 ###### Art. 21 - Armistizio
 
@@ -3714,9 +3714,9 @@ Anche dopo la cessazione dello stato di guerra, i prigionieri di guerra in poter
 
 Per quanto concerne la condizione dei prigionieri di guerra, che alla data della cessazione dello stato di guerra si trovino sottoposti a procedimento penale, ovvero in espiazione di pena, si applicano le convenzioni internazionali.
 
-### LIBRO SECONDO - DEI REATI E DELLE PENE MILITARI IN GENERALE
+## LIBRO SECONDO - DEI REATI E DELLE PENE MILITARI IN GENERALE
 
-#### TITOLO PRIMO - DISPOSIZIONI GENERALI
+### TITOLO PRIMO - DISPOSIZIONI GENERALI
 
 ###### Art. 25 - Luogo di esecuzione della pena di morte
 
@@ -3766,7 +3766,7 @@ Lo stesso potere spetta, durante lo stato di guerra, al comandante di un corpo d
 
 Il condono della pena si ha come non conceduto, se, durante lo stato di guerra, il condannato commette un delitto non colposo, per il quale la legge stabilisce una pena detentiva o un'altra piu' grave.
 
-#### TITOLO SECONDO - DEL DIFFERIMENTO DELLA ESECUZIONE DELLE PENE DETENTIVE E ACCESSORIE
+### TITOLO SECONDO - DEL DIFFERIMENTO DELLA ESECUZIONE DELLE PENE DETENTIVE E ACCESSORIE
 
 ###### Art. 29 - Pene detentive
 
@@ -3816,7 +3816,7 @@ Quando, in applicazione degli articoli precedenti, la sentenza di condanna debba
 
 Per i condannati che siano prigionieri di guerra, si applicano le disposizioni dell'articolo 166.
 
-#### TITOLO TERZO - DI CASI SPECIALI DI ESTINZIONE DEL REATO
+### TITOLO TERZO - DI CASI SPECIALI DI ESTINZIONE DEL REATO
 
 ###### Art. 38 - Effetto derivante dalla condotta del condannato
 
@@ -3836,7 +3836,7 @@ Anche prima della cessazione dello stato di guerra, qualora il condannato a una 
 
 Nel caso che sia revocato il differimento della esecuzione di pene inflitte con piu' sentenze di condanna, si applicano le disposizioni sul concorso delle pene.
 
-#### TITOLO QUARTO - DELLA RIABILITAZIONE DI GUERRA
+### TITOLO QUARTO - DELLA RIABILITAZIONE DI GUERRA
 
 ###### Art. 42 - Promozione per merito di guerra o ricompensa al valore
 
@@ -3862,9 +3862,9 @@ Le disposizioni degli articoli 42 e 44, concernenti i militari che hanno consegu
 
 Sono esclusi dalla riabilitazione di guerra i militari condannati per alcuno dei reati di tradimento, spionaggio, abbandono di posto in presenza del nemico, diserzione, mutilazione volontaria o infermita' procurata per sottrarsi all'obbligo del servizio militare, commessi durante lo stato di guerra.
 
-### LIBRO TERZO - DEI REATI MILITARI, IN PARTICOLARE
+## LIBRO TERZO - DEI REATI MILITARI, IN PARTICOLARE
 
-#### TITOLO PRIMO - DISPOSIZIONI GENERALI
+### TITOLO PRIMO - DISPOSIZIONI GENERALI
 
 ###### Art. 47 - Applicazione delle norme del codice penale militare di pace; aumento di pena((. Reato militare ai fini del codice penale militare di guerra))
 
@@ -3894,9 +3894,9 @@ Costituisce inoltre reato militare ogni altra violazione della legge penale comm
 
 Costituisce infine reato militare ogni altra violazione della legge penale prevista quale delitto in materia di controllo delle armi, munizioni ed esplosivi e di produzione, uso e traffico illecito di sostanze stupefacenti o psicotrope, commessa dall'appartenente alle Forze armate in luogo militare)).
 
-#### TITOLO SECONDO - DEI REATI CONTRO LA FEDELTA' E LA DIFESA MILITARE
+### TITOLO SECONDO - DEI REATI CONTRO LA FEDELTA' E LA DIFESA MILITARE
 
-##### CAPO I - Del tradimento
+#### CAPO I - Del tradimento
 
 ###### Art. 48 - Attentato od offesa al luogotenente generale del Re Imperatore
 
@@ -4004,7 +4004,7 @@ La L. 13 ottobre 1994, n. 589 ha disposto (con l'art. 1, comma 1) che "Per i del
 
 Nei luoghi del territorio dello Stato invasi od occupati dal nemico, chiunque favorisce i disegni politici del nemico sul territorio invaso od occupato, ovvero commette un fatto diretto a menomare la fedelta' dei cittadini verso lo Stato italiano, e' punito con la reclusione da dieci a venti anni.
 
-##### CAPO II - Dello spionaggio militare e della rivelazione di segreti militari
+#### CAPO II - Dello spionaggio militare e della rivelazione di segreti militari
 
 ###### Art. 59 - Spionaggio militare
 
@@ -4116,7 +4116,7 @@ Se l'istigazione o l'offerta si riferisce al reato preveduto dall'articolo 68, l
 
 Il militare, che, avendo, per ragione di ufficio o di servizio, la custodia o il possesso delle cose indicate negli articoli 59, 66, 67 e 68, ovvero, per lo stesso motivo, essendo a cognizione delle notizie ivi enunciate, ha reso possibile, o soltanto agevolato, per colpa, la esecuzione di alcuno dei reati preveduti dagli articoli stessi, e' punito con la reclusione militare da tre a dieci anni.
 
-##### CAPO III - Della illecita raccolta, pubblicazione e diffusione di notizie militari
+#### CAPO III - Della illecita raccolta, pubblicazione e diffusione di notizie militari
 
 ###### Art. 72 - Procacciamento di notizie riservate
 
@@ -4170,7 +4170,7 @@ Quando negli articoli precedenti si fa riferimento a notizie concernenti le oper
 
 Fuori del caso indicato nell'articolo 78, le disposizioni degli articoli precedenti si applicano anche quando i reati da essi preveduti siano commessi in luoghi che non sono in stato di guerra.
 
-##### CAPO IV - Disposizioni comuni ai capi precedenti
+#### CAPO IV - Disposizioni comuni ai capi precedenti
 
 ###### Art. 82 - Fine di favorire lo Stato italiano
 
@@ -4186,7 +4186,7 @@ Se il colpevole e' un ufficiale, si applica la reclusione militare da due a quat
 
 Le pene stabilite dagli articoli 50 e seguenti si applicano anche quando il reato e' commesso a danno di uno Stato alleato con lo Stato italiano.
 
-##### CAPO V - Dell'arruolamento illecito di guerra
+#### CAPO V - Dell'arruolamento illecito di guerra
 
 ###### Art. 85 - Nozione del reato; sanzione penale
 
@@ -4200,7 +4200,7 @@ AGGIORNAMENTO (38a)
 
 La L. 13 ottobre 1994, n. 589 ha disposto (con l'art. 1, comma 1) che "Per i delitti previsti dal codice penale militare di guerra e dalle leggi militari di guerra, la pena di morte e' abolita ed e' sostituita dalla pena massima prevista dal codice penale".
 
-##### CAPO VI - Del disfattismo militare
+#### CAPO VI - Del disfattismo militare
 
 ###### Art. 86
 
@@ -4214,7 +4214,7 @@ La L. 13 ottobre 1994, n. 589 ha disposto (con l'art. 1, comma 1) che "Per i del
 
 E' punito con la reclusione militare fino a un anno chiunque, avendo raccolto manifesti, manoscritti, stampati o altri oggetti lanciati, o comunque diffusi, dal nemico, o essendone comunque venuto in possesso, non ne fa immediata consegna ai suoi superiori, se militare, ovvero ai carabinieri Reali o ad altra pubblica Autorita'.
 
-##### CAPO VII - Della sedizione militare
+#### CAPO VII - Della sedizione militare
 
 ###### Art. 89 - Accordo di militari per commettere reati contro la fedelta' o la difesa militare
 
@@ -4230,7 +4230,7 @@ Il militare, che, avendo avuto notizia del reato preveduto dal primo comma dell'
 
 Se il colpevole e' un ufficiale, la pena e' aumentata.
 
-##### CAPO VIII - Della illecita navigazione aerea
+#### CAPO VIII - Della illecita navigazione aerea
 
 ###### Art. 91 - Sorvolo arbitrario del territorio dello Stato. Inottemperanza agli ordini dell'Autorita' militare
 
@@ -4238,7 +4238,7 @@ Chiunque, senza autorizzazione, con qualsiasi apparecchio o mezzo di locomozione
 
 La pena e' aumentate, da un terzo alla meta', se il colpevole non obbedisce alla intimazione di discendere, o a qualsiasi altro ordine dell'Autorita' militare.
 
-##### CAPO IX - Della comunicazione all'estero d'invenzioni interessanti la difesa militare
+#### CAPO IX - Della comunicazione all'estero d'invenzioni interessanti la difesa militare
 
 ###### Art. 92 - Nozione del reato; sanzione penale
 
@@ -4252,7 +4252,7 @@ Se il colpevole di alcuno dei fatti suindicati e' lo stesso autore o titolare de
 
 Se la comunicazione all'estero e' avvenuta o e' stata agevolata per colpa, si applica la reclusione militare fino a tre anni.
 
-##### CAPO X - Della violazione di ordinanze o di altri provvedimenti militari
+#### CAPO X - Della violazione di ordinanze o di altri provvedimenti militari
 
 ###### Art. 93 - Nozione del reato; sanzione penale
 
@@ -4272,9 +4272,9 @@ E' punito con la reclusione militare fino a due anni, se il fatto non costituisc
 
 7° l'esercizio della caccia o della pesca.
 
-#### TITOLO TERZO - DEI REATI CONTRO IL SERVIZIO IN GUERRA
+### TITOLO TERZO - DEI REATI CONTRO IL SERVIZIO IN GUERRA
 
-##### CAPO I - Della violazione di doveri inerenti al comando
+#### CAPO I - Della violazione di doveri inerenti al comando
 
 ###### Art. 94 - Abbandono del comando
 
@@ -4370,7 +4370,7 @@ Se l'incarico e' stato male eseguito per colpa, si applica la reclusione militar
 
 Il comandante, che, nel caso di cattura o di resa, non usa tutte le cautele necessarie per sottrarre al nemico un piego ricevuto con la condizione di aprirlo in tempo o in luogo determinato, ovvero per impedire che cadano in potere del nemico le carte di bordo o altri documenti, che possono facilitare al nemico il modo di meglio difendersi o di maggiormente nuocere, e' punito con la reclusione militare da due a otto anni.
 
-##### CAPO II - Della resa
+#### CAPO II - Della resa
 
 ###### Art. 103 - Resa
 
@@ -4418,7 +4418,7 @@ AGGIORNAMENTO (38a)
 
 La L. 13 ottobre 1994, n. 589 ha disposto (con l'art. 1, comma 1) che "Per i delitti previsti dal codice penale militare di guerra e dalle leggi militari di guerra, la pena di morte e' abolita ed e' sostituita dalla pena massima prevista dal codice penale".
 
-##### CAPO III - Della codardia
+#### CAPO III - Della codardia
 
 ###### Art. 108 - Manifestazioni arbitrarie per arrendersi
 
@@ -4520,7 +4520,7 @@ Il militare, che fruisce della esonerazione temporanea ottenuta con mezzi illeci
 
 Il militare, che, per timore di un pericolo personale, viola alcuno dei doveri attinenti al servizio o alla disciplina, e' punito, se il fatto non costituisce un piu' grave reato, con la reclusione militare fino a due anni.
 
-##### CAPO IV - Dell'abbandono di posto e della violazione di consegna
+#### CAPO IV - Dell'abbandono di posto e della violazione di consegna
 
 ###### Art. 119 - Abbandono del posto durante il combattimento
 
@@ -4630,7 +4630,7 @@ Se il fatto e' commesso in caso di pericolo, la reclusione e' da cinque a quindi
 
 Le disposizioni dei commi precedenti si applicano anche a chi esercita, relativamente a un aeromobile militare, funzioni analoghe a quelle del pilota marittimo.
 
-##### CAPO V - Della violazione di corrispondenze militari
+#### CAPO V - Della violazione di corrispondenze militari
 
 ###### Art. 129 - Apertura, soppressione, falsificazione, alterazione od omessa consegna di ordini o dispacci
 
@@ -4662,7 +4662,7 @@ Nei casi preveduti dai due articoli precedenti, se ricorrono particolari circost
 
 Il militare incaricato del servizio di comunicazioni telegrafiche, radiotelegrafiche, telefoniche e simili, che rivela il contenuto di un ordine o di un dispaccio inerente al servizio, affidatogli per la trasmissione, per la ricezione o per il recapito, e' punito, se il fatto non costituisce un piu' grave reato, con la reclusione militare da uno a cinque anni; e, se trattasi di un segreto attinente al servizio, con la reclusione militare da cinque a dieci anni.
 
-##### CAPO VI - Del reato di ubriachezza
+#### CAPO VI - Del reato di ubriachezza
 
 ###### Art. 134 - Ubriachezza procurata per sottrarsi a un servizio
 
@@ -4692,7 +4692,7 @@ Fuori delle circostanze prevedute dagli articoli precedenti, il militare, che e'
 
 Agli effetti delle disposizioni degli articoli precedenti, allo stato di ubriachezza e' equiparato lo stato di alterazione psichica determinato dall'azione di sostanze stupefacenti.
 
-##### CAPO VII - Dei reati contro militari in servizio
+#### CAPO VII - Dei reati contro militari in servizio
 
 ###### Art. 138 - Forzata consegna
 
@@ -4748,9 +4748,9 @@ AGGIORNAMENTO (38a)
 
 La L. 13 ottobre 1994, n. 589 ha disposto (con l'art. 1, comma 1) che "Per i delitti previsti dal codice penale militare di guerra e dalle leggi militari di guerra, la pena di morte e' abolita ed e' sostituita dalla pena massima prevista dal codice penale".
 
-##### CAPO VIII - Dei reati di assenza dal servizio
+#### CAPO VIII - Dei reati di assenza dal servizio
 
-###### SEZIONE I - Della diserzione
+##### SEZIONE I - Della diserzione
 
 ###### Art. 143 - Diserzione al nemico
 
@@ -4856,7 +4856,7 @@ Le pene stabilite dagli articoli 146, 147, 148 e 149 si applicano altresi' nei c
 
 Nel caso preveduto dal numero 5° dell'articolo 149 del codice penale militare di pace, le pene indicate nel comma precedente, si applicano altresi' alla persona che si sostituisce al militare disertore. Tuttavia, la pena puo' essere diminuita.
 
-###### Sezione II - Della mancanza alla chiamata
+##### Sezione II - Della mancanza alla chiamata
 
 ###### Art. 151 - Nozione del reato; sanzione penale
 
@@ -4886,7 +4886,7 @@ L'iscritto di leva arruolato o il militare in congedo, che, chiamato in servizio
 
 Nel caso preveduto dall'articolo precedente, colui che si sostituisce alla persona chiamata in servizio alle armi e' punito con la pena ivi stabilita. Tuttavia, la pena puo' essere diminuita.
 
-###### Sezione III - Disposizioni comuni alle sezioni precedenti
+##### Sezione III - Disposizioni comuni alle sezioni precedenti
 
 ###### Art. 155
 
@@ -4896,7 +4896,7 @@ Nel caso preveduto dall'articolo precedente, colui che si sostituisce alla perso
 
 Nei casi preveduti dalle sezioni precedenti, le pene stabilite per i reati di diserzione e di mancanza alla chiamata possono essere diminuite, se il colpevole si costituisce prima che siano trascorsi dieci giorni di assenza.
 
-##### CAPO IX - Dell'abbandono di ufficio
+#### CAPO IX - Dell'abbandono di ufficio
 
 ###### Art. 157 - Allontanamento dalla residenza
 
@@ -4906,7 +4906,7 @@ Se il fatto e' commesso da tre o piu' persone, previo accordo, la pena e' aument
 
 Le disposizioni dei commi precedenti non si applicano relativamente ai Prefetti.
 
-##### CAPO X - Del danneggiamento di opere o altre cose militari
+#### CAPO X - Del danneggiamento di opere o altre cose militari
 
 ###### Art. 158 - Distruzione o sabotaggio di opere o altre cose militari
 
@@ -4946,7 +4946,7 @@ Se il fatto e' commesso durante il viaggio della nave o dell'aeromobile, ovvero 
 
 Se il colpevole e' l'armatore o il capitano o altra persona dell'equipaggio, le pene medesime sono aumentate dalla meta' a due terzi.
 
-##### CAPO XI - Dell'inadempimento e della frode in forniture militari
+#### CAPO XI - Dell'inadempimento e della frode in forniture militari
 
 ###### Art. 162 - Inadempimento di contratti di forniture militari
 
@@ -4970,7 +4970,7 @@ AGGIORNAMENTO (38a)
 
 La L. 13 ottobre 1994, n. 589 ha disposto (con l'art. 1, comma 1) che "Per i delitti previsti dal codice penale militare di guerra e dalle leggi militari di guerra, la pena di morte e' abolita ed e' sostituita dalla pena massima prevista dal codice penale".
 
-##### CAPO XII - Disposizioni relative all'uso dell'uniforme e dei distintivi militari
+#### CAPO XII - Disposizioni relative all'uso dell'uniforme e dei distintivi militari
 
 ###### Art. 164 - Uso indebito dell'uniforme e dei distintivi militari
 
@@ -4978,9 +4978,9 @@ Chiunque abusivamente porta in pubblico l'uniforme o i segni distintivi di grado
 
 Se il colpevole e' un militare, si applica la reclusione militare da sei mesi a due anni.
 
-#### TITOLO QUARTO - DEI REATI CONTRO LE LEGGI E GLI USI DELLA GUERRA
+### TITOLO QUARTO - DEI REATI CONTRO LE LEGGI E GLI USI DELLA GUERRA
 
-##### CAPO I - Disposizioni generali
+#### CAPO I - Disposizioni generali
 
 ###### Art. 165 - Applicazione della legge penale militare di guerra in relazione ai conflitti armati
 
@@ -4996,7 +4996,7 @@ La esecuzione delle condanne pronunciate da tribunali militari di guerra italian
 
 Ove le condanne debbano eseguirsi, nella esecuzione si osservano le norme stabilite dal codice penale militare di pace sulla sostituzione delle pene; sostituendo per i militari le pene militari alle comuni, e per i non militari le pene comuni alle militari.
 
-##### CAPO II - Degli atti illegittimi o arbitrari di ostilita'
+#### CAPO II - Degli atti illegittimi o arbitrari di ostilita'
 
 ###### Art. 167 - Atti di ostilita' commessi da persone diverse dai legittimi belligeranti
 
@@ -5064,9 +5064,9 @@ AGGIORNAMENTO (38a)
 
 La L. 13 ottobre 1994, n. 589 ha disposto (con l'art. 1, comma 1) che "Per i delitti previsti dal codice penale militare di guerra e dalle leggi militari di guerra, la pena di morte e' abolita ed e' sostituita dalla pena massima prevista dal codice penale".
 
-##### CAPO III - Degli atti illeciti di guerra
+#### CAPO III - Degli atti illeciti di guerra
 
-###### Sezione I - Dell'abuso dei mezzi per nuocere al nemico
+##### Sezione I - Dell'abuso dei mezzi per nuocere al nemico
 
 ###### Art. 174 - Comandante che ordina o autorizza l'uso di mezzi di guerra vietati
 
@@ -5146,7 +5146,7 @@ La stessa pena si applica al militare che minaccia di ferire o di uccidere una p
 
 Se la violenza e' attuata si applica l'articolo 185)).
 
-###### Sezione II - Degli atti illeciti contro persone private nemiche o a danno di beni nemici
+##### Sezione II - Degli atti illeciti contro persone private nemiche o a danno di beni nemici
 
 ###### Art. 185 - Violenza di militari italiani contro privati nemici o di abitanti dei territori occupati contro militari italiani
 
@@ -5198,7 +5198,7 @@ Se e' usata violenza, si applica la reclusione militare da uno a otto anni.
 
 L'ufficiale o il sottufficiale, che non adopera tutti i mezzi di cui puo' disporre per impedire il fatto preveduto dall'articolo precedente, e' punito con la reclusione militare fino a un anno.
 
-##### CAPO IV - Della violazione dei doveri verso infermi, feriti, naufraghi o morti e verso il personale sanitario
+#### CAPO IV - Della violazione dei doveri verso infermi, feriti, naufraghi o morti e verso il personale sanitario
 
 ###### Art. 190 - Omessa assistenza verso militari infermi, feriti o naufraghi
 
@@ -5272,9 +5272,9 @@ Se il fatto e' commesso da piu' persone riunite, la pena e' aumentata da un terz
 
 Il comandante, che, non usando verso i legittimi belligeranti nemici caduti in suo potere, ovvero infermi, feriti o naufraghi, il trattamento preveduto dalla legge o dalle convenzioni internazionali, cagiona grave danno alle persone suindicate, ovvero determina l'uso di rappresaglie, e' punito, se il fatto non costituisce un piu' grave reato, con la reclusione militare non inferiore a tre anni.
 
-##### CAPO V - Dei prigionieri di guerra
+#### CAPO V - Dei prigionieri di guerra
 
-###### Sezione I - Dei reati dei prigionieri di guerra nemici
+##### Sezione I - Dei reati dei prigionieri di guerra nemici
 
 ###### Art. 199 - Disobbedienza
 
@@ -5364,7 +5364,7 @@ AGGIORNAMENTO (38a)
 
 La L. 13 ottobre 1994, n. 589 ha disposto (con l'art. 1, comma 1) che "Per i delitti previsti dal codice penale militare di guerra e dalle leggi militari di guerra, la pena di morte e' abolita ed e' sostituita dalla pena massima prevista dal codice penale".
 
-###### Sezione II - Dei reati contro i prigionieri di guerra
+##### Sezione II - Dei reati contro i prigionieri di guerra
 
 ###### Art. 209 - Sevizie o maltrattamenti
 
@@ -5400,7 +5400,7 @@ La stessa pena si applica a chiunque offende la religione professata da un prigi
 
 Il militare, che, a fine di trarne profitto per se' o per altri, sottrae denaro o altri oggetti a un prigioniero di guerra, e' punito con la reclusione fino a cinque anni; e, se il militare suindicato e' incaricato di scortarlo, sorvegliarlo o custodirlo, con la reclusione militare da tre a sette anni.
 
-###### Sezione III - Dei reati dei militari italiani prigionieri di guerra
+##### Sezione III - Dei reati dei militari italiani prigionieri di guerra
 
 ###### Art. 215 - Applicazione della legge penale militare di guerra. Aumento di pena per reati contro superiori
 
@@ -5420,13 +5420,13 @@ Il prigioniero di guerra italiano, che, impegnando la parola d'onore di non part
 
 Il militare, che, comunque liberato dalla prigionia di guerra, non si presenta, senza giusto motivo, a un'Autorita' militare italiana nei tre giorni successivi a quello in cui e' entrato nel territorio dello Stato o nel territorio occupato dalle forze armate italiane, e' punito con la reclusione militare fino a cinque anni.
 
-###### Sezione IV - Degli ostaggi
+##### Sezione IV - Degli ostaggi
 
 ###### Art. 219 - Parificazione degli ostaggi ai prigionieri di guerra
 
 Agli effetti della legge penale militare, gli ostaggi sono equiparati ai prigionieri di guerra.
 
-##### CAPO VI - Dei reati concernenti le requisizioni, contribuzioni e prestazioni militari
+#### CAPO VI - Dei reati concernenti le requisizioni, contribuzioni e prestazioni militari
 
 ###### Art. 220 - Distrazione, occultamento o distruzione di cose requisibili
 
@@ -5466,7 +5466,7 @@ Le pene stabilite dall'articolo precedente si applicano anche al comandante, che
 
 Il militare, che, in occasione di alloggio militare, usa violenza o minaccia per costringere colui che e' tenuto all'alloggio a dargli piu' di cio' che e' dovuto, ovvero a tollerare che egli se ne impossessi o, comunque, ne usufruisca, e' punito, per cio' solo, con la reclusione militare da uno a cinque anni.
 
-##### CAPO VII - Dell'abuso delle prede belliche
+#### CAPO VII - Dell'abuso delle prede belliche
 
 ###### Art. 227 - Appropriazione della preda
 
@@ -5502,7 +5502,7 @@ AGGIORNAMENTO (1)
 
 Il D. Lgs. Luogotenenziale 21 marzo 1946, n. 144 ha disposto (con l'art. 2, comma 1) che "Fino ad un anno dopo la cessazione dello stato di guerra rimangono in vigore le disposizioni degli articoli 227, 228 e 229 del Codice penale militare di guerra."
 
-##### CAPO VIII - Disposizioni speciali
+#### CAPO VIII - Disposizioni speciali
 
 ###### Art. 230 - Omesso impedimento di determinati reati militari
 
@@ -5524,9 +5524,9 @@ AGGIORNAMENTO (38a)
 
 La L. 13 ottobre 1994, n. 589 ha disposto (con l'art. 1, comma 1) che "Per i delitti previsti dal codice penale militare di guerra e dalle leggi militari di guerra, la pena di morte e' abolita ed e' sostituita dalla pena massima prevista dal codice penale".
 
-### LIBRO QUARTO - DELLA PROCEDURA PENALE MILITARE DI GUERRA
+## LIBRO QUARTO - DELLA PROCEDURA PENALE MILITARE DI GUERRA
 
-#### TITOLO PRIMO - DELLA GIURISDIZIONE MILITARE DI GUERRA
+### TITOLO PRIMO - DELLA GIURISDIZIONE MILITARE DI GUERRA
 
 ###### Art. 231 - Momento iniziale
 
@@ -5588,9 +5588,9 @@ Nei paesi nei quali hanno vigore le capitolazioni, la giurisdizione militare ine
 
 Fuori dei casi indicati negli articoli precedenti, i reati militari, da chiunque commessi, durante la guerra, in territorio estero, sono soggetti alla giurisdizione militare italiana di guerra, sebbene all'estero sia intervenuta sentenza del giudice straniero; osservata, per la richiesta, la disposizione dell'articolo 18 del codice penale militare di pace.
 
-#### TITOLO SECONDO - DISPOSIZIONI GENERALI PER LA PROCEDURA PENALE MILITARE DI GUERRA
+### TITOLO SECONDO - DISPOSIZIONI GENERALI PER LA PROCEDURA PENALE MILITARE DI GUERRA
 
-##### CAPO I - Del procedimento penale, in generale
+#### CAPO I - Del procedimento penale, in generale
 
 ###### Art. 240 - Obbligatorieta' del procedimento penale
 
@@ -5644,7 +5644,7 @@ La L. 13 ottobre 1994, n. 589 ha disposto (con l'art. 1, comma 1) che "Per i del
 
 Durante lo stato di guerra, si osservano, per quanto e' possibile, le disposizioni concernenti la procedura penale militare di pace, se da questo codice non e' diversamente stabilito.
 
-##### CAPO II - Dell'azione penale
+#### CAPO II - Dell'azione penale
 
 ###### Art. 245 - Inizio dell'azione penale per i procedimenti di competenza dei tribunali militari di guerra
 
@@ -5684,7 +5684,7 @@ Per i reati contro le leggi e gli usi della guerra, preveduti dal titolo quarto 
 
 Nei procedimenti penali davanti ai tribunali militari di guerra, l'esercizio dell'azione civile non e' ammesso nemmeno se trattasi di procedimenti per reati, che in tempo di pace sono soggetti alla giurisdizione ordinaria.
 
-##### CAPO III - Della competenza
+#### CAPO III - Della competenza
 
 ###### Art. 251 - Tribunali militari di guerra d'armata, di corpo d'armata e di piazza forte
 
@@ -5788,11 +5788,11 @@ I procedimenti penali pendenti, alla cessazione dello stato di guerra, davanti a
 
 La disposizione del comma precedente non si applica nei casi indicati nel secondo comma dell'articolo 264, osservate, per la competenza, le disposizioni dell'articolo 299.
 
-#### TITOLO TERZO - DISPOSIZIONI SPECIALI
+### TITOLO TERZO - DISPOSIZIONI SPECIALI
 
-##### CAPO I - Della istruzione
+#### CAPO I - Della istruzione
 
-###### Sezione I - Degli atti preliminari all'istruzione
+##### Sezione I - Degli atti preliminari all'istruzione
 
 ###### Art. 267 - Procedimenti contro prigionieri di guerra italiani rimpatriati
 
@@ -5812,7 +5812,7 @@ Anche il procuratore militare del Re Imperatore, nei casi per i quali non sia in
 
 Nei casi per i quali non sia intervenuta delega a norma del secondo comma dell'articolo 245, il comandante dell'unita', presso cui e' costituito il tribunale, o il comandante supremo nei casi indicati nel terzo comma dell'articolo stesso, esamina gli atti, e, sentito il pubblico ministero, decide se sia da promuoversi l'azione penale. In caso affermativo, il pubblico ministero determina se sia da procedersi con istruzione formale ovvero con istruzione sommaria.
 
-###### Sezione II - Della istruzione formale
+##### Sezione II - Della istruzione formale
 
 ###### Art. 271 - Norma generale
 
@@ -5858,7 +5858,7 @@ Esaurita l'istruzione formale, il giudice istruttore comunica gli atti al pubbli
 
 Le sentenze di proscioglimento sono comunicate al comandante dell'unita', presso cui e' costituito il tribunale. Il comandante puo', nel termine di sessanta giorni dalla ricevuta comunicazione, promuovere la riapertura della istruzione, con richiesta scritta al giudice che ha pronunciato la sentenza.
 
-###### Sezione III - Della istruzione sommaria
+##### Sezione III - Della istruzione sommaria
 
 ###### Art. 278 - Applicazione delle norme del codice penale militare di pace
 
@@ -5872,7 +5872,7 @@ AGGIORNAMENTO (1)
 
 Il D. Lgs. Luogotenenziale 21 marzo 1946, n. 144 ha disposto (con l'art. 9, comma 1) che "Per tutti i procedimenti per reati commessi durante lo stato di guerra e punibili ai termini della legge penale militare di guerra, continua ad avere vigore il disposto dell'art. 278, primo comma, del Codice penale militare di guerra."
 
-##### CAPO II - Del giudizio
+#### CAPO II - Del giudizio
 
 ###### Art. 279 - Applicazione delle norme del codice penale militare di pace
 
@@ -5894,7 +5894,7 @@ Ferme in ogni caso le disposizioni dell'articolo 367 del codice penale militare 
 
 Quando, davanti ai tribunali militari di guerra diversi da quelli territoriali, non sia possibile, per le necessita' dei servizi di guerra, l'osservanza di alcuna fra le norme concernenti la procedura del giudizio, il processo verbale del dibattimento deve farne espressa menzione.
 
-##### CAPO III - Disposizioni speciali per i tribunali militari di guerra straordinari
+#### CAPO III - Disposizioni speciali per i tribunali militari di guerra straordinari
 
 ###### Art. 283 - Casi di convocazione; competenza
 
@@ -5924,13 +5924,13 @@ Chiuso il dibattimento, allontanato l'imputato e ritiratisi il pubblico minister
 
 Redatta e sottoscritta questa, l'imputato e' ricondotto davanti al tribunale per udirne la lettura, che e' fatta dal presidente.
 
-##### CAPO IV - Procedimenti davanti ai tribunali militari di guerra di bordo
+#### CAPO IV - Procedimenti davanti ai tribunali militari di guerra di bordo
 
 ###### Art. 286 - Istruzione e giudizio
 
 Nei procedimenti davanti ai tribunali militari di guerra di bordo, si osservano le disposizioni del codice penale militare di pace per i tribunali militari di bordo.
 
-##### CAPO V - Del ricorso per annullamento
+#### CAPO V - Del ricorso per annullamento
 
 ###### Art. 287 - Inoppugnabilita' della sentenza del giudice istruttore
 
@@ -5946,7 +5946,7 @@ Contro le sentenze dei tribunali militari territoriali di guerra e' ammesso il r
 
 In nessun caso puo' proporsi ricorso per annullamento alla corte di cassazione contro le sentenze dei tribunali militari di guerra.
 
-##### CAPO VI - Della esecuzione
+#### CAPO VI - Della esecuzione
 
 ###### Art. 290 - Eseguibilita' della condanna alla pena di morte
 
@@ -6026,7 +6026,7 @@ Se il tribunale militare di guerra, che ha emanato la sentenza da eseguirsi, e' 
 
 Nel territorio dello Stato nemico occupato dalle forze armate dello Stato italiano, l'Autorita' giudiziaria militare provvede all'esecuzione delle sentenze di condanna e alla eventuale conversione delle pene pecuniarie in pene detentive, ancorche' il condannato sia estraneo alle forze armate dello Stato; salvo che dal comandante del corpo di occupazione sia diversamente disposto.
 
-##### CAPO VII - Dei procedimenti penali al momento della cessazione dello stato di guerra
+#### CAPO VII - Dei procedimenti penali al momento della cessazione dello stato di guerra
 
 ###### Art. 297 - Procedimenti penali definiti
 

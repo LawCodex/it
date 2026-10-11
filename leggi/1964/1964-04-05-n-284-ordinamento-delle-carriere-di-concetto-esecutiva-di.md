@@ -28,11 +28,9 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - CLASSIFICAZIONE, ATTRIBUZIONI,
+## TITOLO I - CLASSIFICAZIONE, ATTRIBUZIONI, DISTRIBUZIONE DEL PERSONALE
 
-### DISTRIBUZIONE DEL PERSONALE
-
-#### Art. 1
+### Art. 1
 
 Distinzione delle carriere
 
@@ -48,7 +46,7 @@ Carriera del personale ausiliario tecnico.
 
 Agli uffici dell'Avvocatura dello Stato e' addetto personale di dattilografia.
 
-#### Art. 2
+### Art. 2
 
 Qualifiche della carriera di concetto
 
@@ -64,7 +62,7 @@ Segretario;
 
 Vice segretario.
 
-#### Art. 3
+### Art. 3
 
 Qualifiche della carriera esecutiva
 
@@ -82,13 +80,13 @@ Applicato;
 
 Applicato aggiunto.
 
-#### Art. 4
+### Art. 4
 
 Qualifica e inquadramento del personale di dattilografia
 
 Il personale di dattilografia ha la qualifica di dattilografo e viene assunto nel ruolo previsto dalla tabella C allegata alla presente legge.
 
-#### Art. 5
+### Art. 5
 
 Qualifiche della carriera del personale ausiliario
 
@@ -104,7 +102,7 @@ Usciere;
 
 Inserviente.
 
-#### Art. 6
+### Art. 6
 
 Qualifiche del personale ausiliario tecnico
 
@@ -114,13 +112,13 @@ Agente tecnico capo;
 
 Agente tecnico.
 
-#### Art. 7
+### Art. 7
 
 Ruoli organici
 
 I ruoli organici del personale delle carriere di concetto, esecutiva, del personale di dattilografia, del personale ausiliario e del personale ausiliario tecnico della Avvocatura dello Stato sono stabiliti dalle tabelle A, B, C, D ed E allegate alla presente legge, che sostituiscono quelle allegate alla legge 22 maggio 1960, n. 520.
 
-#### Art. 8
+### Art. 8
 
 Attribuzioni del segretario generale e degli avvocati distrettuali dello Stato
 
@@ -130,57 +128,53 @@ Egli esercita la sorveglianza su tutto il personale delle carriere di concetto, 
 
 Gli avvocati distrettuali dello Stato sovrintendono al funzionamento dei servizi espletati presso le rispettive avvocature distrettuali dal personale di cui al secondo coniata del presente articolo.
 
-#### Art. 9
+### Art. 9
 
 Attribuzioni del personale di concetto
 
 Il personale della carriera di concetto esercita le funzioni ad esso attribuite dall'articolo 1 della legge 22 maggio 1960, n. 520.
 
-#### Art. 10
+### Art. 10
 
 Attribuzioni del personale della carriera esecutiva
 
 Il personale della carriera esecutiva provvede alla tenuta dei registri, delle rubriche, del protocollo e dell'archivio; e puo' essere adibito ad altre mansioni ivi compresa quella di dattilografia, qualora esigenze di servizio lo richiedano.
 
-#### Art. 11
+### Art. 11
 
 Attribuzioni del personale di dattilografia
 
 Il personale di dattilografia disimpegna esclusivamente mansioni di copia con i servizi ad essa inerenti.
 
-#### Art. 12
+### Art. 12
 
 Attribuzioni del personale ausiliario
 
 Il personale ausiliario provvede al mantenimento dell'ordine, e della pulizia negli uffici nonche' alla custodia delle sedi dell'Avvocatura dello Stato, disimpegna il servizio di anticamera, vigila l'accesso del pubblico agli uffici, esegue il trasporto dei fascicoli ed adempie agli incarichi di carattere materiale inerenti al servizio.
 
-#### Art. 13
+### Art. 13
 
 Mansioni del personale ausiliario tecnico
 
 Gli agenti tecnici capi e gli agenti tecnici provvedono alla manutenzione degli impianti, delle macchine e delle attrezzature d'ufficio, alla guida e manutenzione degli automezzi ed alle altre incombenze previste dagli ordinamenti di servizio.
 
-#### Art. 14
+### Art. 14
 
 Distribuzione del personale
 
 Il personale delle carriere di concetto, esecutiva, di dattilografia, ausiliaria ed ausiliaria tecnica e' assegnato all'Avvocatura generale dello Stato ed alle avvocature distrettuali nello Stato nel numero che il Comitato permanente ritiene necessario per il funzionamento dei servizi.
 
-## TITOLO II - CARRIERA DI CONCETTO - ACCESSO
+## TITOLO II - CARRIERA DI CONCETTO - ACCESSO E SVOLGIMENTO
 
-### E SVOLGIMENTO
-
-#### Art. 15
+### Art. 15
 
 Concorsi di ammissione - Commissione di esame - Svolgimento delle prove - Promozioni
 
 I concorsi di ammissione alla carriera di concetto, la nomina e la composizione della Commissione di esame, lo svolgimento delle prove di esame e le promozioni, sono regolati dalle disposizioni di cui agli articoli 3, 4, 5 e 6 della legge 22 maggio 1960, n. 520, e, per la parte in cui questi non dispongono, dalle norme del testo unico approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, e successive modificazioni.
 
-## TITOLO III - CARRIERA ESECUTIVA - ACCESSO
+## TITOLO III - CARRIERA ESECUTIVA - ACCESSO E SVOLGIMENTO
 
-### E SVOLGIMENTO
-
-#### Art. 16
+### Art. 16
 
 Nomina ad applicato aggiunto
 
@@ -202,7 +196,7 @@ Per essere ammessi alla prova facoltativa il candidato deve avere conseguito l'i
 
 La prova facoltativa di stenografia consiste in un esperimento di dettatura e di traduzione mediante lettura di scritti stenografici secondo i sistemi legalmente riconosciuti.
 
-#### Art. 17
+### Art. 17
 
 Commissione esaminatrice e valutazione delle prove facoltative
 
@@ -220,25 +214,25 @@ Per le prove di dattilografia e stenografia possono essere aggregati alla Commis
 
 Alla somma dei punti riportati nelle prove scritte, nella prova pratica ed in quella orale, la Commissione aggiunge da uno a tre punti quando il candidato supera la prova facoltativa di stenografia.
 
-#### Art. 18
+### Art. 18
 
 Promozione ad applicato
 
 La promozione ad applicato si consegue a ruolo aperto mediante scrutinio per merito comparativo, al quale sono ammessi gli applicati aggiunti dello stesso ruolo che abbiano compiuto due anni di effettivo servizio nella qualifica.
 
-#### Art. 19
+### Art. 19
 
 Promozione ad archivista
 
 La promozione ad archivista si consegue a ruolo aperto, mediante scrutinio per merito comparativo, al quale sono ammessi gli applicati dello stesso ruolo che alla data dello scrutinio abbiano compiuto cinque anni di effettivo servizio nella qualifica.
 
-#### Art. 20
+### Art. 20
 
 Promozione a primo archivista
 
 Per la promozione a primo archivista si applicano le disposizioni contenute nell'articolo 185 del testo unico approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
 
-#### Art. 21
+### Art. 21
 
 Promozione ad archivista capo e ad archivista superiore
 
@@ -246,13 +240,13 @@ Le promozioni ad archivista capo e ad archivista superiore si conseguono mediant
 
 ## TITOLO IV - PERSONALE DI DATTILOGRAFIA
 
-#### Art. 22
+### Art. 22
 
 Concorso di ammissione
 
 Il personale di dattilografia e' assunto in prova mediante pubblico concorso per esami, al quale possono partecipare i cittadini italiani e gli italiani non appartenenti alla Repubblica, muniti di diploma di istituto di istruzione secondaria di primo grado ed in possesso degli altri requisiti richiesti per l'ammissione agli impieghi civili dello Stato dall'articolo 2 del testo unico approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
 
-#### Art. 23
+### Art. 23
 
 Commissione esaminatrice, svolgimento e valutazione delle prove
 
@@ -266,7 +260,7 @@ La Commissione esaminatrice del concorso si compone:
 
 Le funzioni di segretario sono disimpegnate da un impiegato della carriera di concetto dell'Avvocatura dello Stato.
 
-#### Art. 24
+### Art. 24
 
 Svolgimento delle prove
 
@@ -294,7 +288,7 @@ La comunicazione ai candidati dell'ammissione alla prova pratica, dovra' contene
 
 L'invito all'espletamento della prova pratica deve essere data ai singoli candidati almeno venti giorni prima di quelli in cui essi devono sostenerla.
 
-#### Art. 25
+### Art. 25
 
 Punteggio
 
@@ -306,7 +300,7 @@ Sono dichiarati idonei i candidati che abbiano riportato una votazione di almeno
 
 I concorrenti idonei sono collocati in graduatoria secondo il totale dei voti riportati da ciascuno, osservate le disposizioni generali in vigore sulle preferenze in parita' di merito.
 
-#### Art. 26
+### Art. 26
 
 Trattamento economico
 
@@ -320,11 +314,9 @@ Gli stipendi successivi a quello iniziale sono attribuiti con decreto dell'Avvoc
 
 Quando e' dato parere o e' emesso provvedimento contrario alla attribuzione dello stipendio, il riesame della posizione del dattilografo puo' aver luogo, anche d'ufficio, dopo almeno un anno dal parere del Comitato permanente. In tal caso il nuovo stipendio decorre dal primo giorno del mese successivo alla data del decreto di attribuzione.
 
-## TITOLO V - CARRIERE DEL PERSONALE AUSILIARIO
+## TITOLO V - CARRIERE DEL PERSONALE AUSILIARIO ED AUSILIARIO TECNICO - ACCESSO E SVOLGIMENTO
 
-### ED AUSILIARIO TECNICO - ACCESSO E - SVOLGIMENTO
-
-#### Art. 27
+### Art. 27
 
 Nomina di inserviente ed agente tecnico
 
@@ -338,41 +330,39 @@ Le funzioni di segretario sono disimpegnate da un impiegato della carriera di co
 
 Per la prova pratica della conduzione di autoveicoli sara' aggregato alla Commissione un appartenente alla carriera del personale tecnico.
 
-#### Art. 28
+### Art. 28
 
 Promozione ad usciere
 
 La promozione ad usciere si consegue a ruolo aperto mediante scrutinio per merito assoluto al quale sono ammessi gli inservienti dello stesso ruolo che abbiano compiuto un anno di effettivo servizio nella qualifica.
 
-#### Art. 29
+### Art. 29
 
 Promozione ad usciere capo
 
 La promozione ad usciere capo si consegue a ruolo aperto, mediante scrutinio per merito assoluto al quale sono ammessi gli uscieri che abbiano compiuto tre anni di effettivo servizio nella qualifica.
 
-#### Art. 30
+### Art. 30
 
 Promozione a commesso e commesso capo
 
 Le promozioni a commesso e a commesso capo sono conferite a scelta, su designazione del Comitato permanente, agli appartenenti allo stesso ruolo che abbiano compiuto cinque anni di effettivo servizio nella qualifica immediatamente inferiore.
 
-#### Art. 31
+### Art. 31
 
 Promozione ad agente tecnico capo
 
 La promozione ad agente tecnico capo e' conferita a scelta, su designazione del Comitato permanente, agli agenti tecnici dello stesso ruolo che alla data dello scrutinio abbiano compiuto dieci anni di effettivo servizio.
 
-## TITOLO VI - DISPOSIZIONI COMUNI
+## TITOLO VI - DISPOSIZIONI COMUNI ALLE DIVERSE CARRIERE
 
-### ALLE DIVERSE CARRIERE
-
-#### Art. 32
+### Art. 32
 
 Comitato permanente
 
 La composizione del Comitato permanente considerato nella presente legge e le funzioni ad esso demandate sono regolate dall'articolo 8 della legge 22 maggio 1960, n. 520.
 
-#### Art. 33
+### Art. 33
 
 Commissione di disciplina
 
@@ -390,7 +380,7 @@ AGGIORNAMENTO (2)
 
 La L. 15 ottobre 1986, n. 664, ha disposto (con l'art. 5, comma 1) che la commissione di disciplina di cui al presente articolo e' composta da un avvocato dello Stato alla quarta classe di stipendio, che la presiede, e da due impiegati appartenenti alla qualifica funzionale piu' elevata.
 
-#### Art. 34
+### Art. 34
 
 Rapporto informativo e giudizio complessivo
 
@@ -400,25 +390,25 @@ Per il personale che presta servizio presso le avvocature distrettuali dello Sta
 
 ## TITOLO VII - DISPOSIZIONI TRANSITORIE E FINALI
 
-#### Art. 35
+### Art. 35
 
 Inquadramento nei nuovi ruoli
 
 Il personale attualmente inquadrato nei ruoli di cui alle tabelle A, B e C quadro 1° allegate alla legge 22 maggio 1960, n. 520, e' inquadrato nelle corrispondenti qualifiche dei ruoli di cui alle tabelle A, B e D allegate alla presente legge, conservando l'anzianita' di carriera e di qualifica acquisita nel ruolo di provenienza.
 
-#### Art. 36
+### Art. 36
 
 Inquadramento nelle nuove qualifiche del personale ausiliario tecnico
 
 Il personale della carriera ausiliaria appartenente il ruolo ordinario con la qualifica di agente tecnico, e' inquadrato nella qualifica di agente tecnico nel ruolo di cui alla tabella E allegata alla presente legge, conservando l'anzianita' di carriera e di qualifica acquisita nel ruolo di provenienza.
 
-#### Art. 37
+### Art. 37
 
 Inquadramento del personale che abbia svolto mansioni di autista
 
 Nella prima attuazione della presente legge il personale della carriera ausiliaria che ha svolto esclusivamente e continuativamente mansioni di autista da almeno due anni alla data di entrata in vigore, puo' essere inquadrato nella qualifica iniziale della carriera, ausiliaria tecnica, su domanda da presentarsi entro il termine di sessanta giorni dalla data suddetta.
 
-#### Art. 38
+### Art. 38
 
 Soppressione dei posti aggiunti previsti dal decreto del Presidente della Repubblica 30 novembre 1954, n. 1496
 
@@ -426,7 +416,7 @@ Dalla data di entrata in vigore della presente legge sono soppressi i posti aggi
 
 Il personale che occupa tali posti e' collocato nei posti di ruolo ordinario con la qualifica rivestita e secondo l'ordine attuale di ruolo.
 
-#### Art. 39
+### Art. 39
 
 Inquadramento del personale dei ruoli aggiunti
 
@@ -436,13 +426,13 @@ Gli impiegati inquadrati a sensi del presente articolo sono collocati nelle risp
 
 In corrispondenza all'inquadramento di impiegati in soprannumero sono lasciati vacanti altrettanti posti nella qualifica iniziale delle rispettive carriere.
 
-#### Art. 40
+### Art. 40
 
 Inquadramento del personale non di ruolo
 
 Il personale non di ruolo in servizio alla data di entrata in vigore presso l'Avvocatura dello Stato che ottenga successivamente l'inquadramento nei ruoli aggiunti sara' inquadrato, anche in soprannumero, e salvo riassorbimento in occasione delle prime vacanze, nella corrispondente qualifica del ruolo ordinario, prendendo posto dopo l'ultimo dei gia' appartenenti al ruolo ordinario.
 
-#### Art. 41
+### Art. 41
 
 Inquadramento del personale comandato da altre Amministrazioni
 
@@ -450,31 +440,31 @@ Il personale di ruolo di altre Amministrazioni dello Stato che alla data di entr
 
 Le domande di cui al primo comma dovranno essere presentate entro il termine di sessanta giorni dalla data di entrata in vigore della presente legge.
 
-#### Art. 42
+### Art. 42
 
 Procedura di inquadramento
 
 All'inquadramento del personale ai sensi degli articoli precedenti provvede, entro tre mesi dalla data di entrata in vigore della presente legge, l'Avvocato generale dello Stato, sentito il Comitato permanente.
 
-#### Art. 43
+### Art. 43
 
 Concorsi per l'accesso alle carriere di concetto, esecutiva ed ausiliaria
 
 Per il conferimento dei posti che risulteranno disponibili per effetto della presente legge, dopo eseguito l'inquadramento di cui agli articoli precedenti, nella qualifica iniziale delle carriere di concetto, esecutiva, ausiliaria ed ausiliaria tecnica e fino alla concorrenza di un terzo dei posti stessi, potranno essere indetti, una volta tanto, concorsi riservati al personale di ruolo e non di ruolo dell'Avvocatura dello Stato, nonche' a quello appartenente alle altre Amministrazioni dello Stato, anche ad ordinamento autonomo, sempre che' quest'ultimo personale, alla data di entrata in vigore della presente legge, presti comunque servizio da almeno un anno presso l'Avvocatura dello Stato.
 
-#### Art. 44
+### Art. 44
 
 Conferimento dei posti disponibili nelle carriere di concetto, esecutiva, ausiliaria ed ausiliaria tecnica
 
 Al conferimento delle promozioni per i posti disponibili che si renderanno tali per effetto della prima, applicazione della presente legge, nelle varie qualifiche delle carriere di concetto, esecutiva, ausiliaria ed ausiliaria-tecnica, sara' provveduto entro un anno dalla data di entrata in vigore della legge stessa.
 
-#### Art. 45
+### Art. 45
 
 Riduzione dei limiti di anzianita'
 
 Il personale cui si riferisce la presente legge, in servizio alla data di entrata in vigore della legge stessa, beneficera', per una sola volta, e sino alla data del 31 dicembre 1967, per l'avanzamento alla qualifica superiore, di una riduzione pari alla meta' e comunque per un massimo di trenta mesi, dei periodi di anzianita' richiesti dalle vigenti disposizioni per il conseguimento delle promozioni.
 
-#### Art. 46
+### Art. 46
 
 Norme in materia di trattamento economico
 
@@ -486,19 +476,19 @@ AGGIORNAMENTO (1)
 
 La L. 15 novembre 1973, n. 734 ha disposto (con l'art. 33, comma 2)che gli assegni personali pensionabili previsti dal presente articolo sono soppressi.
 
-#### Art. 47
+### Art. 47
 
 Rinvio
 
 Per quanto non previsto nella presente legge e dal testo unico approvato con regio decreto 30 ottobre 1933, n. 1611 e dal relativo regolamento approvato con regio decreto 30 ottobre 1933, n. 1612 e successive modificazioni ed integrazioni, sono applicabili le norme del testo unico approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, e successive modificazioni e dal regolamento di esecuzione approvato con decreto del Presidente della Repubblica 3 maggio 1957, n. 686.
 
-#### Art. 48
+### Art. 48
 
 Abrogazione di norme
 
 Sono abrogate le norme contrarie o incompatibili con quelle della presente legge e restano, in ogni caso, espressamente salve le vigenti disposizioni relative al riassorbimento dei posti conferiti in soprannumero nelle qualifiche delle varie carriere.
 
-#### Art. 49
+### Art. 49
 
 Onere finanziario
 
@@ -514,7 +504,7 @@ Visto, il Guardasigilli: REALE
 
 ## TITOLO VII - DISPOSIZIONI TRANSITORIE E FINALI
 
-#### Tabelle
+### Tabelle
 
 TABELLA A
 

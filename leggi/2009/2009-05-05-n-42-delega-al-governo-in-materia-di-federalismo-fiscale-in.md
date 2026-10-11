@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## CAPO I
+## CAPO I - CONTENUTI E REGOLE DI COORDINAMENTO FINANZIARIO
 
-### CONTENUTI E REGOLE - DI COORDINAMENTO FINANZIARIO
-
-###### Art. 1 - Ambito di intervento
+### Art. 1 - Ambito di intervento
 
 1\. La presente legge costituisce attuazione dell'articolo 119 della Costituzione, assicurando autonomia di entrata e di spesa di comuni, province, citta' metropolitane e regioni e garantendo i principi di solidarieta' e di coesione sociale, in maniera da sostituire gradualmente, per tutti i livelli di governo, il criterio della spesa storica e da garantire la loro massima responsabilizzazione e l'effettivita' e la trasparenza del controllo democratico nei confronti degli eletti. A tali fini, la presente legge reca disposizioni volte a stabilire in via esclusiva i principi fondamentali del coordinamento della finanza pubblica e del sistema tributario, a disciplinare l'istituzione ed il funzionamento del fondo perequativo per i territori con minore capacita' fiscale per abitante nonche' l'utilizzazione delle risorse aggiuntive e l'effettuazione degli interventi speciali di cui all'articolo 119, quinto comma, della Costituzione perseguendo lo sviluppo delle aree sottoutilizzate nella prospettiva del superamento del dualismo economico del Paese. Disciplina altresi' i principi generali per l'attribuzione di un proprio patrimonio a comuni, province, citta' metropolitane e regioni e detta norme transitorie sull'ordinamento, anche finanziario, di Roma capitale.
 
@@ -62,7 +60,7 @@ la seguente legge:
 
 > Possono ricorrere all'indebitamento solo per finanziare spese di investimento. E' esclusa ogni garanzia dello Stato sui prestiti dagli stessi contratti.».
 
-###### Art. 2 - Oggetto e finalita'
+### Art. 2 - Oggetto e finalita'
 
 1\. Il Governo e' delegato ad adottare, entro ((trenta mesi)) dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi aventi ad oggetto l'attuazione dell'articolo 119 della Costituzione, al fine di assicurare, attraverso la definizione dei principi fondamentali del coordinamento della finanza pubblica e del sistema tributario e la definizione della perequazione, l'autonomia finanziaria di comuni, province, citta' metropolitane e regioni nonche' al fine di armonizzare i sistemi contabili e gli schemi di bilancio dei medesimi enti e i relativi termini di presentazione e approvazione, in funzione delle esigenze di programmazione, gestione e rendicontazione della finanza pubblica.
 
@@ -156,7 +154,7 @@ AGGIORNAMENTO (4)
 
 La L. 8 giugno 2011, n. 85 ha disposto (con l'art. 1, comma 2) che "Le disposizioni di cui al comma 1, lettere b) e d), non si applicano nei riguardi dei procedimenti relativi agli schemi di decreto legislativo che, alla data di entrata in vigore della presente legge, sono gia' stati trasmessi alla Conferenza unificata ai fini dell'intesa di cui all'articolo 2, comma 3, secondo periodo, della legge 5 maggio 2009, n. 42".
 
-###### Art. 3 - Commissione parlamentare per l'attuazione del federalismo fiscale
+### Art. 3 - Commissione parlamentare per l'attuazione del federalismo fiscale
 
 1\. E' istituita la Commissione parlamentare per l'attuazione del federalismo fiscale, composta da quindici senatori e da quindici deputati, nominati rispettivamente dal Presidente del Senato della Repubblica e dal Presidente della Camera dei deputati, su designazione dei gruppi parlamentari, in modo da rispecchiarne la proporzione. Il presidente della Commissione e' nominato tra i componenti della stessa dal Presidente del Senato della Repubblica e dal Presidente della Camera dei deputati d'intesa tra loro. La Commissione si riunisce per la sua prima seduta entro venti giorni dalla nomina del presidente, per l'elezione di due vicepresidenti e di due segretari che, insieme con il presidente, compongono l'ufficio di presidenza.
 
@@ -184,7 +182,7 @@ AGGIORNAMENTO (4)
 
 La L. 8 giugno 2011, n. 85 ha disposto (con l'art. 1, comma 2) che "Le disposizioni di cui al comma 1, lettere b) e d), non si applicano nei riguardi dei procedimenti relativi agli schemi di decreto legislativo che, alla data di entrata in vigore della presente legge, sono gia' stati trasmessi alla Conferenza unificata ai fini dell'intesa di cui all'articolo 2, comma 3, secondo periodo, della legge 5 maggio 2009, n. 42".
 
-###### Art. 4 - Commissione tecnica paritetica per l'attuazione del federalismo fiscale
+### Art. 4 - Commissione tecnica paritetica per l'attuazione del federalismo fiscale
 
 1\. Al fine di acquisire ed elaborare elementi conoscitivi per la predisposizione dei contenuti dei decreti legislativi di cui all'articolo 2, con decreto del Presidente del Consiglio dei ministri, da adottare entro trenta giorni dalla data di entrata in vigore della presente legge, e' istituita, presso il Ministero dell'economia e delle finanze, una Commissione tecnica paritetica per l'attuazione del federalismo fiscale, di seguito denominata "Commissione", formata da trentadue componenti, due dei quali rappresentanti dell'ISTAT, e, per i restanti trenta componenti, composta per meta' da rappresentanti tecnici dello Stato e per meta' da rappresentanti tecnici degli enti di cui all'articolo 114, secondo comma, della Costituzione. Partecipano alle riunioni della Commissione un rappresentante tecnico della Camera dei deputati e uno del Senato della Repubblica, designati dai rispettivi Presidenti, nonche' un rappresentante tecnico delle Assemblee legislative regionali e delle province autonome, designato d'intesa tra di loro nell'ambito della Conferenza dei presidenti dell'Assemblea, dei Consigli regionali e delle province autonome di cui agli articoli 5, 8 e 15 della legge 4 febbraio 2005, n. 11.
 
@@ -210,7 +208,7 @@ AGGIORNAMENTO (9)
 
 La L. 28 dicembre 2015, n. 208, come modificata dal D.L. 26 ottobre 2019, n. 124, convertito con modificazioni dalla L. 19 dicembre 2019, n. 157, ha disposto (con l'art. 1, comma 34) che "La Commissione tecnica paritetica per l'attuazione del federalismo fiscale, di cui all'articolo 4 della legge 5 maggio 2009,n. 42, e' soppressa a decorrere dalla data di entrata in vigore della presente legge. Le funzioni di segreteria tecnica della Conferenza permanente per il coordinamento della finanza pubblica svolte dalla predetta Commissione ai sensi degli articoli 4, comma 4, e 5, comma 1, lettera g), della legge n. 42 del 2009 sono trasferite ai competenti uffici della Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, nell'ambito della quale opera".
 
-###### Art. 5 - Conferenza permanente per il coordinamento della finanza pubblica
+### Art. 5 - Conferenza permanente per il coordinamento della finanza pubblica
 
 1\. I decreti legislativi di cui all'articolo 2 prevedono l'istituzione, nell'ambito della Conferenza unificata, della Conferenza permanente per il coordinamento della finanza pubblica come organismo stabile di coordinamento della finanza pubblica, di seguito denominata "Conferenza", di cui fanno parte i rappresentanti dei diversi livelli istituzionali di governo, e ne disciplinano il funzionamento e la composizione, secondo i seguenti principi e criteri direttivi:
 
@@ -244,7 +242,7 @@ AGGIORNAMENTO (9)
 
 La L. 28 dicembre 2015, n. 208, come modificata dal D.L. 26 ottobre 2019, n. 124, convertito con modificazioni dalla L. 19 dicembre 2019, n. 157, ha disposto (con l'art. 1, comma 34) che "La Commissione tecnica paritetica per l'attuazione del federalismo fiscale, di cui all'articolo 4 della legge 5 maggio 2009,n. 42, e' soppressa a decorrere dalla data di entrata in vigore della presente legge. Le funzioni di segreteria tecnica della Conferenza permanente per il coordinamento della finanza pubblica svolte dalla predetta Commissione ai sensi degli articoli 4, comma 4, e 5, comma 1, lettera g), della legge n. 42 del 2009 sono trasferite ai competenti uffici della Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, nell'ambito della quale opera".
 
-###### Art. 6
+### Art. 6
 
 (Compiti della Commissione parlamentare
 
@@ -260,11 +258,9 @@ di vigilanza sull'anagrafe tributaria)
 
 > La Commissione e' composta di undici membri designati dai Presidenti delle due Camere del Parlamento».
 
-## CAPO II - RAPPORTI FINANZIARI
+## CAPO II - RAPPORTI FINANZIARI STATO-REGIONI
 
-### STATO-REGIONI
-
-###### Art. 7
+### Art. 7
 
 (Principi e criteri direttivi relativi ai tributi
 
@@ -302,7 +298,7 @@ e) il gettito dei tributi regionali derivati e le compartecipazioni al gettito d
 
 > \- Per il testo dell'art. 119 della Costituzione della Repubblica italiana si veda la nota all'art. 1.
 
-###### Art. 8
+### Art. 8
 
 (Principi e criteri direttivi sulle modalita'
 
@@ -384,7 +380,7 @@ i) definizione delle modalita' per cui agli oneri delle funzioni amministrative 
 
 > 9\. Abrogato.».
 
-###### Art. 9
+### Art. 9
 
 (Principi e criteri direttivi in ordine
 
@@ -426,7 +422,7 @@ h) definizione delle modalita' per cui le quote del fondo perequativo risultanti
 
 > \- Per il testo dell'art. 117 della Costituzione della Repubblica italiana si veda nelle note all'art. 2.
 
-###### Art. 10
+### Art. 10
 
 (Principi e criteri direttivi concernenti il finanziamento
 
@@ -452,7 +448,7 @@ d) definizione delle modalita' secondo le quali si effettua la verifica periodic
 
 ## CAPO III - FINANZA DEGLI ENTI LOCALI
 
-###### Art. 11
+### Art. 11
 
 (Principi e criteri direttivi concernenti
 
@@ -486,7 +482,7 @@ g) valutazione dell'adeguatezza delle dimensioni demografiche e territoriali deg
 
 > \- Per il testo degli articoli 117 e 118 della Costituzione della Repubblica italiana si veda nelle note all'art. 2.
 
-###### Art. 12
+### Art. 12
 
 (Principi e criteri direttivi concernenti
 
@@ -542,7 +538,7 @@ l) previsione che la legge statale, nell'ambito della premialita' ai comuni e al
 
 > 7-bis. I comuni che abbiano in corso di esecuzione rapporti di concessione del servizio di accertamento e riscossione dell'imposta comunale sugli immobili possono rinegoziare i contratti in essere, ai fini dell'accertamento e della riscossione di altre entrate, compatibilmente con la disciplina comunitaria in materia di prestazione di servizi.».
 
-###### Art. 13
+### Art. 13
 
 (Principi e criteri direttivi concernenti
 
@@ -578,7 +574,7 @@ h) i fondi ricevuti dalle regioni a titolo di fondo perequativo per i comuni e p
 
 > \- Per il testo dell'art. 8 della citata legge 5 giugno 2003, n. 131, si veda nelle note all'art. 2.
 
-###### Art. 14
+### Art. 14
 
 (Attuazione dell'articolo 116,
 
@@ -598,17 +594,15 @@ terzo comma, della Costituzione)
 
 > \- Per il testo dell'art. 119 della Costituzione della Repubblica italiana si veda nelle note all'art. 1.
 
-## CAPO IV - FINANZIAMENTO
+## CAPO IV - FINANZIAMENTO DELLE CITTA' METROPOLITANE
 
-### DELLE CITTA' METROPOLITANE
-
-###### Art. 15 - Finanziamento delle citta' metropolitane
+### Art. 15 - Finanziamento delle citta' metropolitane
 
 1\. Con specifico decreto legislativo, adottato in base all'articolo 2 e in coerenza con i principi di cui agli articoli 11, 12 e 13, e' assicurato il finanziamento delle funzioni delle citta' metropolitane mediante l'attribuzione ad esse dell'autonomia impositiva corrispondente alle funzioni esercitate dagli altri enti territoriali e il contestuale definanziamento nei confronti degli enti locali le cui funzioni sono trasferite, anche attraverso l'attribuzione di specifici tributi, in modo da garantire loro una piu' ampia autonomia di entrata e di spesa in misura corrispondente alla complessita' delle medesime funzioni. Il medesimo decreto legislativo assegna alle citta' metropolitane tributi ed entrate propri, anche diversi da quelli assegnati ai comuni, nonche' disciplina la facolta' delle citta' metropolitane di applicare tributi in relazione al finanziamento delle spese riconducibili all'esercizio delle loro funzioni fondamentali, fermo restando quanto previsto dall'articolo 12, comma 1, lettera d).
 
 ## CAPO V - INTERVENTI SPECIALI
 
-###### Art. 16 - Interventi di cui al quinto comma dell'articolo 119 della Costituzione
+### Art. 16 - Interventi di cui al quinto comma dell'articolo 119 della Costituzione
 
 1\. I decreti legislativi di cui all'articolo 2, con riferimento all'attuazione dell'articolo 119, quinto comma, della Costituzione, sono adottati secondo i seguenti principi e criteri direttivi:
 
@@ -624,11 +618,9 @@ e) definizione delle modalita' per cui gli obiettivi e i criteri di utilizzazion
 
 ((1-bis. Gli interventi di cui al comma 1 sono riferiti a tutti gli enti territoriali per i quali ricorrano i requisiti di cui all'articolo 119, quinto comma, della Costituzione)).
 
-## CAPO VI - COORDINAMENTO
+## CAPO VI - COORDINAMENTO DEI DIVERSI LIVELLI DI GOVERNO
 
-### DEI DIVERSI LIVELLI DI GOVERNO
-
-###### Art. 17
+### Art. 17
 
 (Coordinamento e disciplina fiscale
 
@@ -662,15 +654,13 @@ e) introduzione di un sistema premiante nei confronti degli enti che assicurano 
 
 > L'approvazione della mozione di sfiducia nei confronti del Presidente della Giunta eletto a suffragio universale e diretto, nonche' la rimozione, l'impedimento permanente, la morte o le dimissioni volontarie dello stesso comportano le dimissioni della Giunta e lo scioglimento del Consiglio. In ogni caso i medesimi effetti conseguono alle dimissioni contestuali della maggioranza dei componenti il Consiglio.».
 
-###### Art. 18 - Patto di convergenza
+### Art. 18 - Patto di convergenza
 
 1\. Nell'ambito del disegno di legge finanziaria (( ovvero con apposito disegno di legge collegato alla manovra di finanza pubblica)), in coerenza con gli obiettivi e gli interventi appositamente individuati da parte del Documento di programmazione economico-finanziaria, il Governo, previo confronto e valutazione congiunta in sede di Conferenza unificata, propone norme di coordinamento dinamico della finanza pubblica volte a realizzare l'obiettivo della convergenza dei costi e dei fabbisogni standard dei vari livelli di governo nonche' un percorso di convergenza degli obiettivi di servizio ai livelli essenziali delle prestazioni e alle funzioni fondamentali di cui all'articolo 117, secondo comma, lettere m) e p), della Costituzione ((...)). Nel caso in cui il monitoraggio, effettuato in sede di Conferenza permanente per il coordinamento della finanza pubblica, rilevi che uno o piu' enti non hanno raggiunto gli obiettivi loro assegnati, lo Stato attiva, previa intesa in sede di Conferenza unificata, e limitatamente agli enti che presentano i maggiori scosta-menti nei costi per abitante, un procedimento, denominato "Piano per il conseguimento degli obiettivi di convergenza", volto ad accertare le cause degli scostamenti e a stabilire le azioni correttive da intraprendere, anche fornendo agli enti la necessaria assistenza tecnica e utilizzando, ove possibile, il metodo della diffusione delle migliori pratiche fra gli enti dello stesso livello.
 
-## CAPO VII
+## CAPO VII - PATRIMONIO DI REGIONI ED ENTI LOCALI
 
-### PATRIMONIO - DI REGIONI ED ENTI LOCALI
-
-###### Art. 19
+### Art. 19
 
 (Patrimonio di comuni, province,
 
@@ -692,7 +682,7 @@ d) individuazione delle tipologie di beni di rilevanza nazionale che non possono
 
 ## CAPO VIII - NORME TRANSITORIE E FINALI
 
-###### Art. 20
+### Art. 20
 
 (Principi e criteri direttivi concernenti
 
@@ -724,7 +714,7 @@ Fino a loro nuova determinazione in virtu' della legge statale si considerano i 
 
 > \- Per il testo dell'art. 117 della Costituzione della Repubblica italiana e' riportato nelle note all'art. 2, comma 2, della presente legge.
 
-###### Art. 21 - Norme transitorie per gli enti locali
+### Art. 21 - Norme transitorie per gli enti locali
 
 1\. In sede di prima applicazione, i decreti legislativi di cui all'articolo 2 recano norme transitorie per gli enti locali, secondo i seguenti principi e criteri direttivi:
 
@@ -784,7 +774,7 @@ f) funzioni nel campo dello sviluppo economico relative ai servizi del mercato d
 
 > Il decreto del Presidente della Repubblica 31 gennaio 1996, n. 194, reca «Regolamento per l'approvazione dei modelli di cui all'art. 114 del decreto legislativo 25 febbraio 1995, n. 77, concernente l'ordinamento finanziario e contabile degli enti locali».
 
-###### Art. 22 - Perequazione infrastrutturale
+### Art. 22 - Perequazione infrastrutturale
 
 1\. ((COMMA ABROGATO DAL D.L. 7 MAGGIO 2024, N. 60, CONVERTITO CON MODIFICAZIONI DALLA L. 4 LUGLIO 2024, N. 95)).
 
@@ -802,7 +792,7 @@ Il Dipartimento per gli affari regionali e le autonomie della Presidenza del Con
 
 2\. Nella fase transitoria di cui agli articoli 20 e 21, al fine del recupero del deficit infrastrutturale, ivi compreso quello riguardante il trasporto pubblico locale e i collegamenti con le isole, sono individuati, sulla base della ricognizione di cui al comma I del presente articolo, interventi finalizzati agli obiettivi di cui all'articolo 119, quinto comma, della Costituzione, che tengano conto anche della virtuosita' degli enti nell'adeguamento al processo di convergenza ai costi o al fabbisogno standard. Gli interventi di cui al presente comma da effettuare nelle aree sottoutilizzate sono individuati nel programma da inserire nel Documento di programmazione economico-finanziaria ai sensi dell'articolo 1, commi 1 e 1-bis, della legge 21 dicembre 2001, n. 443.
 
-###### Art. 23
+### Art. 23
 
 ((ARTICOLO ABROGATO DAL D.L. 6 LUGLIO 2012, N. 95, CONVERTITO, CON MODIFICAZIONI, DALLA L. 7 AGOSTO 2012, N. 135))
 
@@ -814,7 +804,7 @@ AGGIORNAMENTO (7)
 
 Successivamente la Corte Costituzionale, con sentenza 3 - 19 luglio 2013, n. 220 (in G.U. 1a s.s. 24/7/2013, n. 30), ha dichiarato l'illegittimita' costituzionale dell'art. 18 del D.L. 6 luglio 2012, n. 95, convertito con modificazioni dalla L. 7 agosto 2012, n. 135 (che ha disposto l'abrogazione del presente articolo).
 
-###### Art. 24 - Ordinamento transitorio di Roma capitale ai sensi dell'articolo 114, terzo comma, della Costituzione
+### Art. 24 - Ordinamento transitorio di Roma capitale ai sensi dell'articolo 114, terzo comma, della Costituzione
 
 1\. In sede di prima applicazione, fino all'attuazione della disciplina delle citta' metropolitane, il presente articolo detta norme transitorie sull'ordinamento, anche finanziario, di Roma capitale.
 
@@ -864,7 +854,7 @@ AGGIORNAMENTO (7)
 
 Successivamente la Corte Costituzionale, con sentenza 3 - 19 luglio 2013, n. 220 (in G.U. 1a s.s. 24/7/2013, n. 30), ha dichiarato l'illegittimita' costituzionale dell'art. 18 del D.L. 6 luglio 2012, n. 95, convertito con modificazioni dalla L. 7 agosto 2012, n. 135 (che ha disposto l'abrogazione dei commi 9 e 10 del presente articolo).
 
-###### Art. 25
+### Art. 25
 
 (Principi e criteri direttivi relativi alla
 
@@ -876,7 +866,7 @@ a) previsione di adeguate forme di collaborazione delle regioni e degli enti loc
 
 b) definizione, con apposita e specifica convenzione fra il Ministero dell'economia e delle finanze, le singole regioni e gli enti locali, delle modalita' gestionali, operative, di ripartizione degli oneri, degli introiti di attivita' di recupero dell'evasione.
 
-###### Art. 26 - Contrasto dell'evasione fiscale
+### Art. 26 - Contrasto dell'evasione fiscale
 
 1\. I decreti legislativi di cui all'articolo 2, con riguardo al sistema gestionale dei tributi e delle compartecipazioni, nel rispetto dell'autonomia organizzativa delle regioni e degli enti locali nella scelta delle forme di organizzazione delle attivita' di gestione e di riscossione, sono adottati secondo i seguenti principi e criteri direttivi:
 
@@ -884,15 +874,9 @@ a) previsione di adeguate forme di reciproca integrazione delle basi informative
 
 b) previsione di adeguate forme premiali per le regioni e gli enti locali che abbiano ottenuto risultati positivi in termini di maggior gettito derivante dall'azione di contrasto dell'evasione e dell'elusione fiscale.
 
-## CAPO IX - OBIETTIVI DI PEREQUAZIONE E DI
+## CAPO IX - OBIETTIVI DI PEREQUAZIONE E DI SOLIDARIETA' PER LE REGIONI A STATUTO SPECIALE E PER LE PROVINCE AUTONOME DI TRENTO E DI BOLZANO
 
-### SOLIDARIETA' PER LE REGIONI - A
-
-#### STATUTO SPECIALE E PER LE - PROVINCE AUTONOME DI TRENTO E
-
-##### DI - BOLZANO
-
-###### Art. 27 - Coordinamento della finanza delle regioni a statuto speciale e delle province autonome
+### Art. 27 - Coordinamento della finanza delle regioni a statuto speciale e delle province autonome
 
 1\. Le regioni a statuto speciale e le province autonome di Trento e di Bolzano, nel rispetto degli statuti speciali, concorrono al conseguimento degli obiettivi di perequazione e di solidarieta' ed all'esercizio dei diritti e doveri da essi derivanti, nonche' al patto di stabilita' interno e all'assolvimento degli obblighi posti dall'ordinamento comunitario, secondo criteri e modalita' stabiliti da norme di attuazione dei rispettivi statuti, da definire, con le procedure previste dagli statuti medesimi, ((. . .)) e secondo il principio del graduale superamento del criterio della spesa storica di cui all'articolo 2, comma 2, lettera m).
 
@@ -914,11 +898,9 @@ c) individuano forme di fiscalita' di sviluppo, ai sensi dell'articolo 2, comma 
 
 7\. Al fine di assicurare il rispetto delle norme fondamentali della presente legge e dei principi che da essa derivano, nel rispetto delle peculiarita' di ciascuna regione a statuto speciale e di ciascuna provincia autonoma, e' istituito presso la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, in attuazione del principio di leale collaborazione, un tavolo di confronto tra il Governo e ciascuna regione a statuto speciale e ciascuna provincia autonoma, costituito dai Ministri per i rapporti con le regioni, per le riforme per il federalismo, per la semplificazione normativa, dell'economia e delle finanze e per le politiche europee nonche' dai Presidenti delle regioni a statuto speciale e delle province autonome. Il tavolo individua linee guida, indirizzi e strumenti per assicurare il concorso delle regioni a statuto speciale e delle province autonome agli obiettivi di perequazione e di solidarieta' e per valutare la congruita' delle attribuzioni finanziarie ulteriori intervenute successivamente all'entrata in vigore degli statuti, verificandone la coerenza con i principi di cui alla presente legge e con i nuovi assetti della finanza pubblica. Con decreto del Presidente del Consiglio dei ministri, da adottare entro trenta giorni dalla data di entrata in vigore della presente legge, e' assicurata l'organizzazione del tavolo.
 
-## CAPO X - SALVAGUARDIA FINANZIARIA
+## CAPO X - SALVAGUARDIA FINANZIARIA ED ABROGAZIONI
 
-### ED ABROGAZIONI
-
-###### Art. 28 - Salvaguardia finanziaria
+### Art. 28 - Salvaguardia finanziaria
 
 1\. L'attuazione della presente legge deve essere compatibile con gli impegni finanziari assunti con il patto di stabilita' e crescita.
 
@@ -934,7 +916,7 @@ Gli oneri connessi alla partecipazione alle riunioni della Commissione e della C
 
 4\. Dalla presente legge e da ciascuno dei decreti legislativi di cui all'articolo 2 e all'articolo 23 non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
-###### Art. 29 - Abrogazioni
+### Art. 29 - Abrogazioni
 
 1\. I decreti legislativi di cui all'articolo 2 individuano le disposizioni incompatibili con la presente legge, prevedendone l'abrogazione.
 

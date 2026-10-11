@@ -25,11 +25,11 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la Convenzione tra l'Italia e la Jugoslavia in materia di assicurazioni sociali, con Protocollo generale, conclusa in Roma il 14 novembre 1957.
 
-##### Art. 2
+#### Art. 2
 
 Piena ed intera esecuzione e' data alla Convenzione e Protocollo di cui all'articolo precedente a decorrere dalla loro entrata in vigore in conformita' dell'art. 43 della Convenzione stessa.
 
@@ -71,7 +71,7 @@ previdenza sociale;
 
 i quali, dopo essersi scambiati i loro pieni poteri, riconosciuti in buona e debita forma, hanno concordato le disposizioni seguenti:
 
-##### Art. 1
+#### Art. 1
 
 Ai fini dell'applicazione della presente Convenzione:
 
@@ -97,7 +97,7 @@ quanto riguarda l'Italia, l'Istituto di assicurazione cui e' affidata la gestion
 
 ai periodi di assicurazione quali sono definiti dalla legislazione sotto la quale sono stati compiuti e nella misura in cui sono riconosciuti equivalenti ai periodi di assicurazione da tale legislazione.
 
-##### Art. 2
+#### Art. 2
 
 (1) La presente Convenzione si applica alle legislazioni
 
@@ -149,13 +149,13 @@ leggi ed altre disposizioni che hanno modificato o completato o che modificheran
 
 (3) La presente Convenzione non si applichera' alle modificazioni che saranno state apportate alle legislazioni indicate al paragrafo I da Convenzioni internazionali di sicurezza sociale stipulate da ciascun Paese contraente con i terzi Stati, a meno che non intervenga al riguardo un accordo fra i due Paesi contraenti.
 
-##### Art. 3
+#### Art. 3
 
 I cittadini italiani in Jugoslavia e i cittadini jugoslavi in
 
 Italia sono sottoposti alle legislazioni specificate nell'art. 2, applicabili rispettivamente in Jugoslavia ed in Italia, e ne beneficiano alle stesse condizioni dei cittadini di ciascuno dei due Paesi.
 
-##### Art. 4
+#### Art. 4
 
 (1) Il principio stabilito nell'articolo precedente subisce le
 
@@ -181,7 +181,7 @@ Nel caso in cui tale attivita' si dovesse prolungare per motivi
 
 imprevedibili al di la' dei dodici mesi, l'applicazione delle legislazioni in vigore nel Paese di residenza abituale potra' essere mantenuta col consenso dell'Autorita' competente del Paese ove ha luogo il temporaneo esercizio di detta attivita'.
 
-##### Art. 5
+#### Art. 5
 
 Le disposizioni dell'art. 3 si applicano ai lavoratori di qualunque
 
@@ -197,7 +197,7 @@ funzionari appartenenti al ruolo delle cancellerie sono eccettuati dall'applicaz
 
 Rappresentanza diplomatica o consolare, sono soggetti alla legislazione del Paese di origine. Essi possono nondimeno chiedere di essere sottoposti alla legislazione del Paese del luogo di lavoro.
 
-##### Art. 6
+#### Art. 6
 
 Le Autorita' competenti dei due Paesi contraenti possono prevedere,
 
@@ -205,11 +205,9 @@ di comune accordo, per alcuni lavoratori o gruppi di lavoratori, se cio' e' nell
 
 ## TITOLO II - DISPOSIZIONI PARTICOLARI
 
-### CAPITOLO I
+### CAPITOLO I - Assicurazione malattie e maternita'
 
-#### Assicurazione malattie e maternita'
-
-##### Art. 7
+#### Art. 7
 
 I lavoratori che si trasferiscono dall'Italia in Jugoslavia o
 
@@ -225,7 +223,7 @@ beneficiare delle prestazioni, cumulando, in quanto necessario, i periodi di ass
 
 entrata nel Paese del nuovo luogo di lavoro, a meno che la legislazione applicabile non preveda condizioni piu' favorevoli.
 
-##### Art. 8
+#### Art. 8
 
 I lavoratori che si trasferiscono dall'Italia in Jugoslavia o
 
@@ -237,7 +235,7 @@ viceversa, beneficiano, unitamente ai loro familiari, delle prestazioni di mater
 
 beneficiare di tali prestazioni, cumulando, in quanto necessario, i periodi di assicurazione ed equivalenti compiuti nell'altro Paese.
 
-##### Art. 9
+#### Art. 9
 
 I lavoratori che si trasferiscono dall'Italia, in Jugoslavia o
 
@@ -249,11 +247,11 @@ viceversa hanno o danno diritto, secondo i casi, alle indennita' funerarie in Ju
 
 beneficiare di tali prestazioni, cumulando, in quanto necessario, i periodi di assicurazione ed equivalenti compiuti nell'altro Paese.
 
-##### Art. 10
+#### Art. 10
 
 Le prestazioni per i familiari residenti nel Paese di origine del lavoratore che si trasferisce nell'altro Paese sono corrisposte dall'Ente assicuratore competente del primo Paese con le norme, i limiti e le modalita' in vigore per i familiari dei propri assicurati e sono ad esso rimborsate dall'Ente assicuratore dell'altro.
 
-##### Art. 11
+#### Art. 11
 
 (1) Se il titolare di una pensione o di una rendita dovuta in
 
@@ -263,7 +261,7 @@ virtu' della legislazione di entrambi i Paesi contraenti risiede nel territorio 
 
 virtu' della legislazione di uno dei due Paesi contraenti risiede nel territorio del Paese in cui non si trova l'istituto debitore della pensione o della rendita, le prestazioni in natura sono corrisposte al titolare e ai suoi familiari dall'istituto del luogo di residenza come se egli fosse titolare di una pensione o di una rendita dovuta in virtu' della legislazione del Paese di residenza. Le prestazioni cosi' corrisposte saranno rimborsate dall'Ente assicuratore dell'altro Paese.
 
-##### Art. 12
+#### Art. 12
 
 (1) L'assicurato o l'avente diritto che, dopo il verificarsi
 
@@ -277,13 +275,13 @@ prestazioni nei confronti dell'Ente presso il quale e' assicurato anche se l'eve
 
 obbligato delega l'Ente assicuratore competente dell'altro Paese a corrispondere le prestazioni. Le prestazioni in natura, saranno corrisposte con gli stessi mezzi e della stessa qualita' di quelle corrisposte agli assicurati dell'Ente delegato.
 
-##### Art. 13
+#### Art. 13
 
 Per il rimborso delle spese di cui agli articoli 10 a 12 potranno essere stabiliti compensi unitari pro-capite o globali sulla base dei costi medi nazionali risultanti dall'ultimo bilancio degli enti interessati. Le modalita' saranno determinate nell'Accordo amministrativo previsto all'art. 29.
 
-## CAPITOLO II - Infortuni sul lavoro e malattie professionali
+### CAPITOLO II - Infortuni sul lavoro e malattie professionali
 
-##### Art. 14
+#### Art. 14
 
 (1) Le prestazioni per malattie professionali indennizzabili
 
@@ -293,7 +291,7 @@ secondo la legislazione di ognuno dei due Paesi contraenti sono dovute dall'Ente
 
 due Paesi contraenti un indennizzo per una malattia professionale, chieda ulteriori prestazioni per la stessa malattia, nell'altro Paese, l'Ente assicuratore del primo Paese rimane obbligato per la concessione di ulteriori prestazioni. Se pero' detto assicurato e' stato successivamente occupato nell'altro Paese in una lavorazione che comporti lo stesso rischio per il quale ha ottenuto il primo indennizzo le ulteriori prestazioni sono a carico dell'Ente assicuratore di quest'altro Paese.
 
-##### Art. 15
+#### Art. 15
 
 Per la determinazione dell'obbligo delle prestazioni e del grado
 
@@ -301,19 +299,19 @@ dell'incapacita' lavorativa per un infortunio sul lavoro o per una malattia prof
 
 Quali precedenti infortuni sul lavoro o malattie professionali sono considerati sia gli infortuni o le malattie professionali per i quali si concede un indennizzo, sia quelli per i quali il grado di incapacita' lavorativa rimane al di sotto del grado minimo richiesto per l'indennizzo. Un indennizzo per il successivo infortunio o per la successiva malattia professionale e' tuttavia corrisposto soltanto se la legislazione da applicarsi per lo infortunio o per la malattia professionale lo prevede.
 
-##### Art. 16
+#### Art. 16
 
 Ogni infortunio sul lavoro di cui sia rimasto vittima un cittadino di uno dei due Paesi contraenti occupato nel territorio dell'altro Paese e che abbia causato o che potra' causare sia la morte, sia una incapacita' permanente, totale o parziale, deve essere notificato senza indugio da parte dell'Ente assicuratore competente alla rappresentanza diplomatica, o consolare del Paese nella cui giurisdizione rientra il caso e di cui l'infortunato sia cittadino.
 
-##### Art. 17
+#### Art. 17
 
 L'infortunio subito da un cittadino di una dei due Paesi
 
 contraenti, mentre egli si reca, ad assumere lavoro, con regolare contratto, nell'altro Paese, deve essere risarcito dall'Ente assicuratore di quest'ultimo Paese in conformita' delle disposizioni concernenti l'assicurazione contro gli infortuni sul lavoro, qualora il sinistro si verifichi durante il viaggio, ininterrotto e per la via piu' breve, dal luogo di partenza fino al luogo di lavoro. Lo stesso vale per l'infortunio subito dal lavoratore quando questi ritorna nel Paese di origine subito dopo la fine dei contratto di lavoro per effetto del quale si e' trasferito nell'altro Paese.
 
-## CAPITOLO III - Assicurazione invalidita', vecchiaia e superstiti
+### CAPITOLO III - Assicurazione invalidita', vecchiaia e superstiti
 
-##### Art. 18
+#### Art. 18
 
 (1) Ai fini dell'acquisto, del mantenimento o del recupero del
 
@@ -325,7 +323,7 @@ concessione di alcune prestazioni alla condizione che i periodi di assicurazione
 
 Se, nonostante la totalizzazione di tali periodi, l'assicurato non soddisfa alle condizioni che gli consentono di beneficiare di dette prestazioni, i periodi in questione sono allora, totalizzati per l'ammissione al beneficio delle prestazioni del regime generale dei due Paesi contraenti.
 
-##### Art. 19
+#### Art. 19
 
 Le prestazioni che un assicurato previsto all'art. 18 della
 
@@ -335,7 +333,7 @@ a) l'istituto di ciascuno dei due Paesi contraenti determina, in base alla propr
 
 b) se il diritto e' acquisito in virtu' della precedente lettera a), detto istituto determina l'ammontare teorico della prestazione cui l'interessato avrebbe diritto se tutti i periodi di assicurazione o periodi equivalenti, totalizzati secondo le modalita' previste all'articolo precedente, fossero stati compiuti esclusivamente sotto la propria legislazione; in base a tale ammontare l'istituto stabilisce l'ammontare dovuto al pro-rata della durata dei periodi compiuti sotto detta legislazione in rapporto alla durata totale dei periodi compiuti sotto le legislazioni dei due Paesi contraenti.
 
-##### Art. 20
+#### Art. 20
 
 Qualora l'interessato, tenuto conto della totalita' dei periodi
 
@@ -345,7 +343,7 @@ Se la pensione da concedere in uno solo dei due Paesi non
 
 raggiuinge la pensione minima, l'Ente assicuratore che la determina concede in aggiunta alla sua prestazione la parte della differenza tra la sua prestazione e la pensione minima che corrisponde, al momento della determinazione della pensione, al rapporto dei periodi di assicurazione ed equivalenti compiuti in ciascun Paese con la somma totale dei periodi di assicurazione ed equivalenti compiuti in entrambi i Paesi.
 
-##### Art. 21
+#### Art. 21
 
 Se, ai sensi dell'art. 18 della presente Convenzione, l'assicurato matura un diritto a prestazioni a carico degli Enti assicuratori di entrambi i Paesi contraenti e se la somma di queste prestazioni non raggiunge la pensione minima del Paese in cui il beneficiario risiede, l'Ente assicuratore di questo Paese concede in aggiunta l'importo necessario per raggiungere la pensione minima.
 
@@ -353,7 +351,7 @@ Tale importo aggiuntivo sara' corrisposto a carico degli Enti
 
 assicuratori di ciascuno dei due Paesi contraenti per la parte che corrisponde al rapporto dei periodi di assicurazione ed equivalenti compiuti al momento della determinazione delle pensioni in ciascuno dei due Paesi con la somma totale dei periodi di assicurazione ed equivalenti compiuti in entrambi i Paesi.
 
-##### Art. 22
+#### Art. 22
 
 (1) Ogni assicurato o avente diritto, nel momento in cui matura, il
 
@@ -363,27 +361,27 @@ diritto a pensione, puo' rinunciare al beneficio delle disposizioni dell'art. 18
 
 nuovamente fra l'applicazione dell'art. 18 e quella del paragrafo 1 del presente articolo se vi abbia interesse a causa di una modificazione della legislazione di un Paese contraente o del trasferimento della sua residenza da un Paese all'altro o, nel caso previsto all'articolo 20, se matura un nuovo diritto a pensione in base ad una delle legislazioni a lui applicabili.
 
-## CAPITOLO IV - Assegni familiari
+### CAPITOLO IV - Assegni familiari
 
-##### Art. 23
+#### Art. 23
 
 I lavoratori che si trasferiscono dall'Italia in Jugoslavia o
 
 viceversa hanno diritto agli assegni familiari per le persone a carico rimaste nel Paese di origine, o in base alla legislazione del luogo di lavoro.
 
-##### Art. 24
+#### Art. 24
 
 Qualora la legislazione di uno dei due Paesi subordini l'apertura del diritto agli assegni familiari al compimento di periodi di assicurazione ed equivalenti, si tiene conto a tale scopo dei periodi compiuti tanto nell'uno che nell'altro Paese.
 
-##### Art. 25
+#### Art. 25
 
 Nell'Accordo amministrativo previsto all'art. 29 saranno
 
 determinate le modalita' necessarie per assicurare l'immediato pagamento degli assegni familiari.
 
-## CAPITOLO V - Assicurazione disoccupazione
+### CAPITOLO V - Assicurazione disoccupazione
 
-##### Art. 26
+#### Art. 26
 
 (1) I lavoratori che si trasferiscono dall'Italia in Jugoslavia o viceversa beneficiano delle prestazioni di disoccupazione in Jugoslavia o in Italia, qualora:
 
@@ -397,15 +395,15 @@ beneficiare delle prestazioni, cumulando, in quanto necessario, i periodi di ass
 
 prestazioni nell'altro Paese, ritorna nel proprio Paese conserva il diritto alle prestazioni che gli saranno corrisposte a carico dell'altro Paese per la durata massima di sei mesi ridotta del periodo in cui ha gia' goduto delle prestazioni stesse nell'altro Paese.
 
-## CAPITOLO VI - Disposizioni comuni
+### CAPITOLO VI - Disposizioni comuni
 
-##### Art. 27
+#### Art. 27
 
 Se, secondo la legislazione di uno dei due Paesi contraenti, le
 
 prestazioni sono calcolate in rapporto allo ammontare dei salari percepiti o dei contributi versati, i salari o i contributi relativi ai periodi di assicurazione compiuti in virtu' del regime dell'altro Paese contraente, sono presi in considerazione dall'Ente che determina, le prestazioni sulla base della media dei salari o dei contributi accertati per i periodi di assicurazione compiuti in virtu' del proprio regime.
 
-##### Art. 28
+#### Art. 28
 
 Se la legislazione di uno dei due Paesi subordina, lo acquisto, il mantenimento o il recupero di un diritto al soggiorno sul suo territorio, questa condizione non sara' richiesta per i cittadini italiani o jugoslavi quando risiedono sul territorio dell'altro Paese, salvo disposizione contraria della presente Convenzione.
 
@@ -419,13 +417,13 @@ Paesi saranno corrisposte ai cittadini dell'altro Paese, quando risiedono sul te
 
 ## TITOLO III - DISPOSIZIONI DIVERSE TRANSITORIE E FINALI
 
-##### Art. 29
+#### Art. 29
 
 Le Autorita' competenti dei due Paesi contraenti stabiliranno di
 
 comune accordo le disposizioni per l'applicazione della presente Convenzione. Esse potranno, in particolare, stabilire disposizioni per evitare il cumulo delle prestazioni, per regolare la totalizzazione dei periodi e per organizzare il servizio dei pagamenti e dei controlli dall'uno all'altro Paese contraente.
 
-##### Art. 30
+#### Art. 30
 
 (1) Le disposizioni prese unilateralmente da uno dei due Paesi
 
@@ -435,7 +433,7 @@ contraenti per 1 della presente Convenzione saranno comunicate in duplice copia 
 
 comunicheranno altresi' entro un mese dalla pubblicazione, in duplice copia, tutte le disposizioni che modifichino o completino le legislazioni indicate all'art. 2.
 
-##### Art. 31
+#### Art. 31
 
 (1) Le Autorita' e gli organismi competenti dei due Paesi
 
@@ -445,13 +443,13 @@ Essi possono anche valersi, quando siano necessari mezzi istruttori nell'altro P
 
 (2) Gli accertamenti medici per conto degli organismi di un Paese contraente, che riguardano un interessato che si trovi nell'altro Paese, saranno eseguiti su richiesta dei detti organismi dagli organismi assicuratori competenti dell'altro Paese. Nell'Accordo amministrativo saranno stabilite le disposizioni particolari per il rimborso delle spese.
 
-##### Art. 32
+#### Art. 32
 
 Le Autorita' diplomatiche e consolari dei due Paesi contraenti sono
 
 autorizzate ad intervenire direttamente presso le Autorita' e gli organismi competenti dell'altro Paese, per raccogliere le informazioni utili alla tutela degli interessi dei propri connazionali, come pure a rappresentarli senza speciale mandato.
 
-##### Art. 33
+#### Art. 33
 
 (1) Le esenzioni da imposte, tasse e diritti, previste dalle
 
@@ -461,13 +459,13 @@ legislazioni di uno dei due Paesi contraenti, valgono anche per l'applicazione d
 
 prodotti per l'applicazione della presente Convenzione, sono esenti dall'obbligo del visto e della legalizzazione da parte delle Autorita' diplomatiche e consolari.
 
-##### Art. 34
+#### Art. 34
 
 Le istanze come pure gli altri documenti che gli interessati
 
 indirizzano alle autorita' e agli organismi competenti di uno dei due Paesi contraenti per l'applicazione della presente Convenzione o per l'applicazione delle legislazioni indicate all'art. 2, non possono essere respinti per il fatto di essere redatti nella lingua ufficiale dell'altro Paese.
 
-##### Art. 35
+#### Art. 35
 
 Le domande, dichiarazioni, ricorsi e altri documenti in materia di assicurazione sociale che avrebbero dovuto essere presentati entro un termine determinato presso l'organismo competente di uno dei due Paesi contraenti, saranno considerati come ricevibili se sono presentati nello stesso termine presso un organismo di assicurazione sociale dell'altro Paese.
 
@@ -475,13 +473,13 @@ In tal caso quest'ultimo organismo trasmette senza indugio tali
 
 domande, dichiarazioni o ricorsi all'organismo di assicurazione sociale competente del primo Paese, dandone notizia all'interessato.
 
-##### Art. 36
+#### Art. 36
 
 Le Autorita' e gli organismi competenti dei due Paesi contraenti, per l'applicazione della presente Convenzione, corrispondono direttamente tra loro con gli assicurati e con i loro rappresentanti.
 
 Essi redigono la corrispondenza nella rispettiva lingua ufficiale.
 
-##### Art. 37
+#### Art. 37
 
 (1) L'importo delle prestazioni dovute in applicazione della
 
@@ -495,11 +493,11 @@ applicazione della presente Convenzione avra' luogo conformemente agli Accordi v
 
 contraente disposizioni intese a sottoporre a restrizione lo scambio delle valute, i due Governi dovranno adottare immediatamente le misure necessarie per assicurare il trasferimento delle somme dovute in applicazione della presente Convenzione.
 
-##### Art. 38
+#### Art. 38
 
 La riscossione dei contributi dovuti ad un Istituto di uno dei due Paesi contraenti puo' effettuarsi nel territorio dell'altro Paese, conformemente alla procedura e con le garanzie e i privilegi applicabili alla riscossione dei contributi dovuti all'Istituto corrispondente di quest'ultimo Paese. L'applicazione di tale disposizione formera' oggetto di uno speciale accordo.
 
-##### Art. 39
+#### Art. 39
 
 (1) Le Autorita' competenti dei due Paesi contraenti risolveranno, di comune accordo, tutte le difficolta' che sorgeranno nell'applicazione della presente Convenzione.
 
@@ -507,7 +505,7 @@ La riscossione dei contributi dovuti ad un Istituto di uno dei due Paesi contrae
 
 controversia sara' decisa mediante una procedura arbitrale, stabilita di comune accordo tra i Governi dei due Paesi contraenti. L'organo arbitrale dovra' risolvere la controversia secondo lo spirito e i principi fondamentali della presente Convenzione. La sua decisione sara' obbligatoria e definitiva.
 
-##### Art. 40
+#### Art. 40
 
 (1) Quando in relazione al diritto non contestato di un assicurato,
 
@@ -525,7 +523,7 @@ deve rimborsare in unica soluzione, all'organi sino assicuratore che ha corrispo
 
 (4) Se l'importo che e' stato versato al beneficiario a titolo di assistenza provvisoria e' superiore all'ammontare delle prestazioni obbligatoriamente spettanti per il periodo corrispondente, l'organismo assicuratore che in definitiva risultera' obbligato imputa la differenza sulle rate future mediante trattenute non superiori al quinto dell'ammontare di ciascuna rata.
 
-##### Art. 41
+#### Art. 41
 
 (1) Le disposizioni della presente Convenzione si applicano anche agli venti assicurativi che si sono verificati prima della sua entrata in vigore. Nell'applicazione della presente Convenzione devono essere presi in considerazione anche i periodi di assicurazione ed equivalenti compiuti prima della sua entrata in vigore.
 
@@ -543,13 +541,13 @@ mediante pagamento forfettario a causa di un periodo di assicurazione ed equival
 
 paragrafi 2) e 3) valgono solo per le prestazioni dell'assicurazione invalidita', vecchiaia e superstiti e, limitatamente alle rendite, per l'assicurazioni infortuni,
 
-##### Art. 42
+#### Art. 42
 
 Per l'applicazione delle disposizioni della presente Convenzione
 
 non puo' opporsi la scadenza, dei termini di prescrizione o di decadenza, se le domande necessarie sono presentate entro il termine di 2 anni dopo la entrata in vigore della presente Convenzione.
 
-##### Art. 43
+#### Art. 43
 
 (1) La presente Convenzione sara' ratificata e gli stramenti di
 
@@ -587,7 +585,7 @@ Il Ministro per gli affari esteri
 
 SEGNI
 
-##### Protocollo
+#### Protocollo
 
 Protocollo generale
 
@@ -629,7 +627,7 @@ Il Ministro per gli affari esteri
 
 SEGNI
 
-##### Konvencia
+#### Konvencia
 
 Konvencia o Socijaluom osiguranju izmedju Federativne
 

@@ -30,27 +30,23 @@ Promulga
 
 la seguente legge:
 
-## Capo I
+## Capo I - Ratifica ed esecuzione
 
-### Ratifica ed esecuzione
-
-#### Art. 1
+### Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la Convenzione dell'Organizzazione internazionale del lavoro (OIL) n. 186 sul lavoro marittimo, con Allegati, adottata a Ginevra il 23 febbraio 2006 nel corso della 94ma sessione della Conferenza generale dell'OIL.
 
-#### Art. 2
+### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data alla Convenzione di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo VIII della Convenzione stessa.
 
-## Capo II
+## Capo II - Disposizioni di adeguamento dell'ordinamento interno
 
-### Disposizioni di adeguamento dell'ordinamento interno
-
-#### Art. 3
+### Art. 3
 
 Modifiche al codice della navigazione
 
@@ -78,7 +74,7 @@ Il componente dell'equipaggio che non esegue un ordine di un superiore concernen
 
 Il componente dell'equipaggio che non esegue un ordine di un superiore concernente un servizio tecnico della nave, del galleggiante o dell'aeromobile, e' punito con la pena della reclusione da uno a quattro anni se l'ordine e' dato per la salvezza della nave, del galleggiante o dell'aeromobile o per soccorso da prestare a nave, galleggiante, aeromobile o persona in pericolo».
 
-#### Art. 4
+### Art. 4
 
 Modifiche in materia di eta' minima
 
@@ -88,7 +84,7 @@ per l'ammissione al lavoro
 
 2\. Nell'allegato al regolamento di cui al decreto del Presidente della Repubblica 18 aprile 2006, n. 231, le parole: «15 anni», ovunque ricorrano, sono sostituite dalle seguenti: «16 anni».
 
-#### Art. 5
+### Art. 5
 
 Modifiche in materia di certificazione medica
 
@@ -102,7 +98,7 @@ Con decreto del Ministro della salute, di concerto con il Ministro delle infrast
 
 2\. Le navi passeggeri che effettuano navigazione internazionale breve e lunga, come definite dall'articolo 1 del regolamento di cui al decreto del Presidente della Repubblica 8 novembre 1991, n. 435, e che trasportano piu' di 100 persone, devono avere a bordo un medico qualificato responsabile dell'assistenza sanitaria.
 
-#### Art. 6
+### Art. 6
 
 Abrogazione dell'articolo 36
 
@@ -110,7 +106,7 @@ della legge 16 giugno 1939, n. 1045
 
 1\. L'articolo 36 della legge 16 giugno 1939, n. 1045, e' abrogato.
 
-#### Art. 7
+### Art. 7
 
 Copertura finanziaria
 
@@ -234,7 +230,7 @@ Avendo deciso che tali proposte debbano assumere la forma di una Convenzione int
 
 Adotta oggi ventitre' febbraio duemilasei la seguente convenzione, che sara' denominata Convenzione sul lavoro marittimo, 2006.
 
-#### Articolo I
+### Articolo I
 
 1\. Ogni Stato Membro che ratifica la presente Convenzione si impegna a dare pieno effetto alle sue disposizioni conformemente alle prescrizioni dell'articolo VI al fine di garantire il diritto di tutta la gente di mare ad un impiego dignitoso.
 
@@ -242,7 +238,7 @@ Adotta oggi ventitre' febbraio duemilasei la seguente convenzione, che sara' den
 
 ## DEFINIZIONI E CAMPO DI APPLICAZIONE
 
-#### Articolo II
+### Articolo II
 
 1\. Ai fini della presente Convenzione, e ove non altrimenti previsto in una disposizione particolare, l'espressione:
 
@@ -282,7 +278,7 @@ j) armatore designa il proprietario della nave o ogni altra organizzazione o per
 
 ## DIRITTI E PRINCIPI FONDAMENTALI
 
-#### Articolo III
+### Articolo III
 
 Ogni Stato Membro verifica che le disposizioni della sua legislazione rispettino, nel contesto della presente convenzione, i seguenti diritti fondamentali:
 
@@ -296,7 +292,7 @@ d) l'eliminazione della discriminazione in materia di impiego e di occupazione.
 
 ## DIRITTI IN MATERIA DI IMPIEGO E DIRITTI SOCIALI DELLA GENTE DI MARE
 
-#### Articolo IV
+### Articolo IV
 
 1\. Tutta la gente di mare ha diritto a un luogo di lavoro sicuro e senza pericolo dove le norme di sicurezza siano rispettate.
 
@@ -310,7 +306,7 @@ d) l'eliminazione della discriminazione in materia di impiego e di occupazione.
 
 ## RESPONSABILITA' PER L'APPLICAZIONE E IL RISPETTO DELLE DISPOSIZIONI
 
-#### Articolo V
+### Articolo V
 
 1\. Ogni Stato Membro applica e fa rispettare la legislazione o le altre misure adottate al fine di adempiere gli obblighi derivanti dalla presente Convenzione per quello che riguarda le unita' e la gente di mare rientranti sotto la sua giurisdizione.
 
@@ -328,7 +324,7 @@ d) l'eliminazione della discriminazione in materia di impiego e di occupazione.
 
 ## REGOLE E PARTI A e B DEL CODICE
 
-#### Articolo VI
+### Articolo VI
 
 1\. Le Regole e le disposizioni della parte A del Codice hanno efficacia obbligatoria. Le disposizioni della parte B del Codice non sono obbligatorie.
 
@@ -344,13 +340,13 @@ a) favorisce la piena realizzazione dell'obiettivo generale e dello scopo della 
 
 ## CONSULTAZIONI CON LE ORGANIZZAZIONI DEGLI ARMATORI - E DELLA GENTE DI MARE
 
-#### Articolo VII
+### Articolo VII
 
 Deroghe, esenzioni o altra applicazione flessibile della presente Convenzione che richiedano, ai sensi di quest'ultima, la consultazione con le organizzazioni degli armatori e della gente di mare, possono essere decise dal Paese stesso, in caso di assenza di tali organizzazioni sul suo territorio, solo previa consultazione con la Commissione di cui all'articolo XIII.
 
 ## ENTRATA IN VIGORE
 
-#### Articolo VIII
+### Articolo VIII
 
 1\. Le ratifiche formali della presente Convenzione sono comunicate al Direttore Generale dell'Ufficio Internazionale del Lavoro ai fini della registrazione.
 
@@ -362,7 +358,7 @@ Deroghe, esenzioni o altra applicazione flessibile della presente Convenzione ch
 
 ## DENUNCIA
 
-#### Articolo IX
+### Articolo IX
 
 1\. Uno Stato Membro che ha ratificato la presente Convenzione puo' denunciarla allo scadere di un periodo di dieci anni a partire dalla data di entrata in vigore iniziale della Convenzione, con un atto comunicato al Direttore Generale dell'Ufficio Internazionale del Lavoro ai fini della sua registrazione. La denuncia ha effetto soltanto un anno dopo la sua registrazione.
 
@@ -370,7 +366,7 @@ Deroghe, esenzioni o altra applicazione flessibile della presente Convenzione ch
 
 ## EFFETTO DELL'ENTRATA IN VIGORE
 
-#### Articolo X
+### Articolo X
 
 La presente Convenzione comporta la revisione delle seguenti convenzioni:
 
@@ -448,19 +444,19 @@ Convenzione (n.180) sulla durata dell'orario di lavoro dei marittimi e sull'equi
 
 ## FUNZIONI DI DEPOSITO
 
-#### Articolo XI
+### Articolo XI
 
 1\. Il Direttore Generale dell'Ufficio Internazionale del Lavoro notifica a tutti gli Stati Membri dell'ILO la registrazione di ogni ratifica, accettazione e denuncia che gli saranno comunicate in virtu' della presente Convenzione.
 
 2\. Quando le condizioni enunciate al paragrafo 3 dell'articolo VIII saranno state adempiute, il Direttore Generale richiamera' l'attenzione degli Stati Membri dell'Organizzazione sulla data di entrata in vigore della Convenzione.
 
-#### Articolo XII
+### Articolo XII
 
 Il Direttore Generale dell'Ufficio Internazionale del Lavoro comunichera' al Segretario Generale delle Nazioni Unite, ai fini della registrazione conformemente all'articolo 102 della Carta delle Nazioni Unite, le informazioni complete su ciascuna ratifica, accettazione e denuncia registrate in virtu' della presente Convenzione.
 
 ## COMITATO TRIPARTITO SPECIALE
 
-#### Articolo XIII
+### Articolo XIII
 
 1\. Il Consiglio di amministrazione dell'Ufficio Internazionale del Lavoro segue permanentemente all'applicazione della presente Convenzione tramite un Comitato appositamente istituito e dotato di una competenza speciale nel campo delle norme (in seguito denominate "Standard") del lavoro marittimo.
 
@@ -472,7 +468,7 @@ Il Direttore Generale dell'Ufficio Internazionale del Lavoro comunichera' al Seg
 
 ## EMENDAMENTI ALLA PRESENTE CONVENZIONE
 
-#### Articolo XIV
+### Articolo XIV
 
 1\. La Conferenza Generale dell'ILO puo' adottare emendamenti per ogni disposizione della presente Convenzione ai sensi dell'articolo 19 della Costituzione dell'ILO e delle regole e procedure dell'Organizzazione relative all'adozione delle convenzioni.
 
@@ -496,7 +492,7 @@ Emendamenti al Codice possono ugualmente essere adottati conformemente alle proc
 
 ## EMENDAMENTI AL CODICE
 
-#### Articolo XV
+### Articolo XV
 
 1\. Il Codice puo' essere emendato secondo la procedura enunciata all'articolo XIV, o, salvo disposizione contraria espressa, secondo la procedura descritta nel presente articolo.
 
@@ -544,11 +540,11 @@ b) uno Stato Membro che ha accettato l'emendamento estende il beneficio della Co
 
 ## LINGUE UFFICIALI
 
-#### Articolo XVI
+### Articolo XVI
 
 Le versioni in francese e in inglese del testo della presente Convenzione fanno fede entrambe.
 
-#### Note esplicative
+### Note esplicative
 
 NOTE ESPLICATIVE SULLE REGOLE E IL CODICE
 
@@ -594,7 +590,7 @@ Tuttavia, gli Stati Membri sono tenuti, ai termini del paragrafo 2 dell'articolo
 
 D'altro canto, nel seguire le Linee Guida della Parte B, lo Stato Membro interessato, cosi' come gli organismi dell'ILO incaricati di controllare l'applicazione delle convenzioni internazionali sul lavoro, possono essere certi, senza ulteriori valutazioni, che le disposizioni prese dagli Stati Membri soddisfano in maniera adeguata gli obblighi enunciati nella parte A a cui si riferisce la linea guida.
 
-#### Regole e codice
+### Regole e codice
 
 Le regole e il codice
 
@@ -1926,7 +1922,7 @@ j) l'erogazione, per tutti in marittimi, di assistenza medica specialistica per 
 
 k) la predisposizione per il rimpatrio delle salme o delle ceneri dei marittimi deceduti non appena possibile secondo le volonta' dei parenti piu' stretti.
 
-#### Regole e codice
+### Regole e codice
 
 2\. La cooperazione internazionale nel campo della tutela della salute e dell'assistenza sanitaria per i marittimi dovrebbe basarsi su accordi o consultazioni bilaterali o multilaterali tra gli Stati Membri.
 
@@ -2918,7 +2914,7 @@ Linea guida B5.3 - Responsabilita' del fornitore di manodopera
 
 1\. I servizi privati di reclutamento e collocamento della gente di mare presenti sul territorio dello Stato Membro o ovunque essi si trovino, nel fornire manodopera all'armatore, dovrebbero assumersi l'obbligo di assicurare il rispetto da parte dell'armatore delle condizioni previste nei contratti di arruolamento marittimo stipulati con la gente di mare.
 
-#### Allegato A5-I
+### Allegato A5-I
 
 ALLEGATO A5-I
 
@@ -2952,7 +2948,7 @@ Procedure per i reclami a bordo
 
 Pagamento dei salari
 
-#### Allegato A5-II
+### Allegato A5-II
 
 ALLEGATO A5-II
 
@@ -2976,7 +2972,7 @@ Certificato del lavoro marittimo provvisorio
 
 Parte di provvedimento in formato grafico
 
-#### Allegato A5-III
+### Allegato A5-III
 
 Allegato A5-III
 
@@ -3010,7 +3006,7 @@ Procedure per i reclami a bordo
 
 Pagamento dei salari
 
-#### Allegato B5-I
+### Allegato B5-I
 
 Allegato B5-I - ESEMPIO DI DICHIARAZIONE NAZIONALE
 
@@ -3028,6 +3024,6 @@ Misure adottate per garantire la conformita' costante tra le ispezioni
 
 Parte di provvedimento in formato grafico
 
-#### Convention
+### Convention
 
 Parte di provvedimento in formato grafico

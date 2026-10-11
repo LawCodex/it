@@ -104,7 +104,7 @@ il seguente decreto legislativo:
 
 ## Capo I - Principi generali
 
-#### Art. 1
+### Art. 1
 
 Principi e finalita'
 
@@ -118,7 +118,7 @@ c) ((costituisce)) impegno fondamentale di tutte le componenti della comunita' s
 
 2\. Il presente decreto promuove la partecipazione della famiglia, nonche' delle associazioni di riferimento, quali interlocutori dei processi di inclusione scolastica e sociale.
 
-#### Art. 2
+### Art. 2
 
 Ambito di applicazione
 
@@ -128,7 +128,7 @@ Ambito di applicazione
 
 ## Capo II - Prestazioni e indicatori di qualita' dell'inclusione scolastica
 
-#### Art. 3
+### Art. 3
 
 Prestazioni e competenze
 
@@ -160,7 +160,7 @@ c) l'accessibilita' e la fruibilita' fisica, senso percettiva e comunicativa deg
 
 6\. Ai sensi dell'articolo 315, comma 1, lettera b), del decreto legislativo 16 aprile 1994, n. 297 e dell'articolo 13, comma 1, lettera b), della legge 5 febbraio 1992, n. 104, lo Stato, le Regioni e gli Enti locali garantiscono l'accessibilita' e la fruibilita' dei sussidi didattici e degli strumenti tecnologici e digitali necessari per l'inclusione scolastica.
 
-#### Art. 4
+### Art. 4
 
 Valutazione della qualita' dell'inclusione scolastica
 
@@ -216,11 +216,9 @@ f) grado di accessibilita' e di fruibilita' delle risorse, attrezzature, struttu
 
 > 5\. I piani di miglioramento, con i risultati conseguiti dalle singole istituzioni scolastiche, sono comunicati al direttore generale del competente Ufficio scolastico regionale, che ne tiene conto ai fini della individuazione degli obiettivi da assegnare al dirigente scolastico in sede di conferimento del successivo incarico e della valutazione di cui al comma 4.».
 
-## Capo III - Procedure di certificazione e documentazione per l'inclusione
+## Capo III - Procedure di certificazione e documentazione per l'inclusione scolastica
 
-### scolastica
-
-#### Art. 5
+### Art. 5
 
 Commissioni mediche. Modifiche alla legge 5 febbraio 1992, n. 104
 
@@ -266,7 +264,7 @@ b) i criteri, i contenuti e le modalita' di redazione del Profilo di funzionamen
 
 ## Capo IV - Progettazione e organizzazione scolastica per l'inclusione
 
-#### Art. 6
+### Art. 6
 
 Progetto individuale
 
@@ -276,7 +274,7 @@ Progetto individuale
 
 ((2-bis. Si provvede agli adempimenti previsti dal presente articolo con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.))
 
-#### Art. 7
+### Art. 7
 
 Piano educativo individualizzato
 
@@ -304,7 +302,7 @@ h) e' soggetto a verifiche periodiche nel corso dell'anno scolastico al fine di 
 
 2-ter. Con decreto del Ministro dell'istruzione, dell'universita' e della ricerca, di concerto con il Ministro dell'economia e delle finanze, da adottare entro sessanta giorni dalla data di entrata in vigore della presente disposizione, sono definite le modalita', anche tenuto conto dell'accertamento di cui all'articolo 4 della legge 5 febbraio 1992, n. 104, per l'assegnazione delle misure di sostegno di cui al presente articolo e il modello di PEI, da adottare da parte delle istituzioni scolastiche.))
 
-#### Art. 8
+### Art. 8
 
 Piano per l'inclusione
 
@@ -312,7 +310,7 @@ Piano per l'inclusione
 
 2\. Il Piano per l'inclusione e' attuato nei limiti delle risorse finanziarie, umane e strumentali disponibili.
 
-#### Art. 9
+### Art. 9
 
 Gruppi per l'inclusione scolastica
 
@@ -356,7 +354,7 @@ b) dagli enti locali e dalle aziende sanitarie locali.
 
 2-ter. Dall'individuazione dei CTS, di cui al comma 2-bis, non devono derivare nuovi e maggiori oneri a carico della finanza pubblica.))
 
-#### Art. 10
+### Art. 10
 
 (( (Individuazione e assegnazione delle misure di sostegno). ))
 
@@ -366,7 +364,7 @@ b) dagli enti locali e dalle aziende sanitarie locali.
 
 3\. Il dirigente scolastico, in tempo utile per l'ordinario avvio dell'anno scolastico, trasmette, sulla base dei PEI, di cui all'articolo 7, comma 2, la richiesta complessiva delle misure di sostegno ulteriori rispetto a quelle didattiche agli enti preposti, i quali, relativamente all'assegnazione di dette misure, attribuiscono le risorse complessive secondo le modalita' attuative e gli standard qualitativi previsti nell'accordo di cui all'articolo 3, comma 5-bis.))
 
-#### Art. 11
+### Art. 11
 
 Sezioni per il sostegno didattico
 
@@ -386,11 +384,9 @@ Sezioni per il sostegno didattico
 
 > (Omissis).».
 
-## Capo V - Formazione iniziale dei docenti per il sostegno didattico nella
+## Capo V - Formazione iniziale dei docenti per il sostegno didattico nella scuola dell'infanzia e nella scuola primaria
 
-### scuola dell'infanzia e nella scuola primaria
-
-#### Art. 12
+### Art. 12
 
 Corso di specializzazione per le attivita' di sostegno didattico nella scuola dell'infanzia e nella scuola primaria
 
@@ -414,7 +410,7 @@ d) ai fini dell'accesso richiede il superamento di una prova predisposta dalle u
 
 ## Capo VI - Ulteriori disposizioni
 
-#### Art. 13
+### Art. 13
 
 Formazione in servizio del personale della scuola
 
@@ -426,7 +422,7 @@ Formazione in servizio del personale della scuola
 
 4\. Il Ministero dell'istruzione, dell'universita' e della ricerca definisce le modalita' della formazione in ingresso e in servizio dei dirigenti scolastici sugli aspetti pedagogici, organizzativi e gestionali, giuridici e didattici dell'inclusione scolastica.
 
-#### Art. 14
+### Art. 14
 
 Continuita' del progetto educativo e didattico
 
@@ -444,7 +440,7 @@ b) docenti privi del titolo di specializzazione per l'insegnamento agli ((alunni
 
 4\. Al fine di garantire la continuita' didattica durante l'anno scolastico, si applica l'articolo 461 del testo unico di cui al decreto legislativo 16 aprile 1994, n. 297.
 
-#### Art. 15
+### Art. 15
 
 Osservatorio permanente per l'inclusione scolastica
 
@@ -468,7 +464,7 @@ e) pareri e proposte sugli atti normativi inerenti l'inclusione scolastica.
 
 5\. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
-#### Art. 15-bis
+### Art. 15-bis
 
 (( (Misure di accompagnamento). ))
 
@@ -480,7 +476,7 @@ b) attivazione di progetti e iniziative per il supporto delle istituzioni scolas
 
 2\. Con il medesimo decreto di cui al comma 1 e' definita la composizione di un comitato istituito presso il Ministero dell'istruzione, dell'universita' e della ricerca per la direzione e il coordinamento delle misure di accompagnamento. Ai componenti del comitato non spetta alcun compenso, indennita', gettone di presenza, rimborso spese e qualsivoglia altro emolumento.))
 
-#### Art. 16
+### Art. 16
 
 Istruzione domiciliare
 
@@ -492,13 +488,13 @@ Istruzione domiciliare
 
 2-ter. Dall'attuazione delle modalita' di svolgimento del servizio dei docenti impegnati nell'istruzione domiciliare, di cui ai commi 1 e 2-bis non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.))
 
-#### Art. 17
+### Art. 17
 
 Regioni a statuto speciale e Province autonome di Trento e Bolzano
 
 1\. Sono fatte salve le competenze attribuite in materia di inclusione scolastica alle Regioni a Statuto speciale e alle Province Autonome di Trento e di Bolzano secondo i rispettivi Statuti e le relative norme di attuazione.
 
-#### Art. 18
+### Art. 18
 
 Abrogazioni e coordinamenti
 
@@ -514,7 +510,7 @@ b) il regolamento di cui al decreto del Presidente del Consiglio dei ministri 23
 
 4\. Con regolamento da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, e con la medesima procedura individuata dal citato articolo 13, comma 2-ter del decreto-legge n. 104 del 2013, sono apportate le necessarie modificazioni, anche tenendo conto di quanto previsto dal presente decreto, al regolamento adottato con decreto del Ministro dell'istruzione, dell'universita' e della ricerca 28 luglio 2016, n. 162. Fino all'entrata in vigore del regolamento di cui al periodo precedente continua ad avere efficacia il citato decreto del Ministro dell'istruzione, dell'universita' e della ricerca n. 162 del 2016.
 
-#### Art. 19
+### Art. 19
 
 Decorrenze e norme transitorie
 
@@ -542,7 +538,7 @@ Nelle more continuano ad applicarsi le disposizioni di cui ai commi 2 e 4 dell'a
 
 7-ter. Fino alla costituzione dei GIT di cui all'articolo 9, la richiesta relativa al fabbisogno dei posti di sostegno e' inviata dal dirigente scolastico all'Ufficio scolastico regionale senza la previa consultazione del GIT. Il direttore dell'Ufficio scolastico regionale procede all'assegnazione dei posti di sostegno senza la previa conferma, ovvero il parere, dei GIT.))
 
-#### Art. 20
+### Art. 20
 
 Copertura finanziaria
 

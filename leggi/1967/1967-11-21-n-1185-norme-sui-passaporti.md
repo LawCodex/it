@@ -28,15 +28,15 @@ la seguente legge:
 
 ## DISPOSIZIONI GENERALI
 
-### Art. 1
+## Art. 1
 
 Ogni cittadino e' libero, salvi gli obblighi di legge, di uscire dal territorio della Repubblica, valendosi di passaporto o di documento equipollente ai sensi delle disposizioni in vigore, e di rientrarvi.
 
-### Art. 2
+## Art. 2
 
 Il passaporto e' valido per tutti i Paesi i cui Governi sono riconosciuti dal Governo italiano, salvo le limitazioni previste dalla presente legge. A domanda dell'interessato il passaporto puo' essere reso valido, mediante l'indicazione delle localita' di destinazione, per i Paesi i cui Governi non sono riconosciuti.
 
-### Art. 3
+## Art. 3
 
 Non possono ottenere il passaporto:
 
@@ -60,7 +60,7 @@ AGGIORNAMENTO (3)
 
 La Corte Costituzionale, con sentenza 16-30 dicembre 1997, n. 464 (in G.U. 1a s.s. 07/01/1998, n. 1) ha dichiarato l'illegittimita' costituzionale "dell'articolo 3, lettera b), della legge 21 novembre 1967, n. 1185 (Norme sui passaporti), nella parte in cui non esclude la necessita' dell'autorizzazione del giudice tutelare al rilascio del passaporto quando il genitore naturale richiedente abbia l'assenso dell'altro genitore con lui convivente ed esercente congiuntamente la potesta' genitoriale, che dimori nel territorio della Repubblica".
 
-### Art. 3-bis
+## Art. 3-bis
 
 1\. Il giudice, nel rispetto del principio di proporzionalita' e avuto riguardo alla ((normativa dell'Unione europea)) e internazionale sulla cooperazione giudiziaria in tema di responsabilita' genitoriale, obbligazioni alimentari e sottrazione internazionale di minori, puo' inibire il rilascio del passaporto al genitore avente prole minore, quando vi e' concreto e attuale pericolo che a causa del trasferimento all'estero questo possa sottrarsi all'adempimento dei suoi obblighi verso i figli. Il giudice stabilisce la durata dell'inibitoria, che non puo' superare due anni.
 
@@ -68,11 +68,11 @@ La Corte Costituzionale, con sentenza 16-30 dicembre 1997, n. 464 (in G.U. 1a s.
 
 3\. Il ricorso puo' essere proposto dal pubblico ministero o dall'altro genitore o da colui che esercita la responsabilita' genitoriale. ((Il giudice, sentite le parti, procede in camera di consiglio ai sensi degli articoli 737 e seguenti del codice di procedura civile e con il provvedimento che definisce il giudizio provvede sulle spese del procedimento. Copia del provvedimento che inibisce il rilascio del passaporto e' trasmessa, a cura della cancelleria, al comune di residenza dell'interessato e alla questura o alla rappresentanza diplomatica o consolare competente al rilascio del passaporto. Se il genitore destinatario del provvedimento o il minore sono residenti all'estero, la copia del provvedimento che inibisce il rilascio del passaporto e' trasmessa anche alla questura nel cui territorio di competenza ha sede il tribunale di cui al comma 2)).
 
-### Art. 4
+## Art. 4
 
 I provvedimenti di volontaria giurisdizione previsti dall'articolo 3 sono emessi, nei confronti dei cittadini residenti all'estero, dal capo dell'ufficio consolare di prima categoria nella cui giurisdizione territoriale risiedono, ai sensi dell'articolo 34 del decreto legislativo ((3 febbraio 2011, n. 71)), ferma restando l'esclusiva competenza dell'autorita' giudiziaria all'adozione dei provvedimenti di cui all'articolo 3-bis.
 
-### Art. 5
+## Art. 5
 
 Il passaporto e' rilasciato, ((...)) ritirato o restituito dal Ministro per gli affari esteri e, per sua delega:
 
@@ -80,7 +80,7 @@ a) in Italia: dai questori ((...));
 
 b) all'estero: ((dagli uffici consolari come definiti dall'articolo 3 del decreto legislativo 3 febbraio 2011, n. 71)).
 
-### Art. 6
+## Art. 6
 
 Le domande relative ai passaporti vengono presentate:
 
@@ -90,11 +90,11 @@ b) all'estero: alle rappresentanze diplomatiche a consolari.
 
 Di ogni domanda viene rilasciata ricevuta.
 
-### Art. 7
+## Art. 7
 
 L'autorita' competente a provvedere sulle domande e' quella preposta all'ufficio o alla rappresentanza all'estero nella cui circoscrizione risiede il richiedente. In casi particolari l'autorita' di residenza puo' delegare a provvedere l'autorita' competente per domicilio o per dimora.
 
-### Art. 8
+## Art. 8
 
 La domanda di passaporto presentata ad un ufficio ammesso a riceverla ma non competente al rilascio e' trasmessa, insieme ad eventuali accertamenti istruttori, all'ufficio competente non oltre cinque giorni dalla presentazione.
 
@@ -104,7 +104,7 @@ Ove si renda necessario il completamento dell'istruttoria, il termine di cui sop
 
 Il passaporto e' consegnato al richiedente tramite l'ufficio cui la domanda e' stata presentata o anche direttamente dall'ufficio competente per il rilascio.
 
-### Art. 9
+## Art. 9
 
 ((COMMA ABROGATO DALLA L. 19 GENNAIO 2026, N. 11)).
 
@@ -118,7 +118,7 @@ c) quando la vita, la liberta', gli interessi economici o la salute dei cittadin
 
 L'espatrio dei cittadini aventi obblighi militari puo' in circostanze eccezionali essere temporaneamente sospeso secondo quanto previsto dalle norme sulla leva e il reclutamento delle forze armate.
 
-### Art. 10
+## Art. 10
 
 Contro i provvedimenti delle autorita' delegate ai sensi dell'articolo 5 e' ammesso ricorso al Ministro per gli affari esteri, nel termine di 30 giorni dalla data di notificazione o di ricezione della comunicazione amministrativa del provvedimento di rigetto previsto dall'articolo 8. Sul ricorso il Ministro per gli affari esteri provvede con decreto motivato.
 
@@ -128,11 +128,11 @@ Il termine di 30 giorni e' prorogato fino a 45 giorni quando la sede dell'autori
 
 Contro i provvedimenti delle autorita' delegate ai sensi dell'articolo 5, lettera a), per i motivi ostativi enunciati nell'articolo 3 e per i casi di ritiro del passaporto previsti dall'articolo 12, l'interessato puo' presentare ricorso, in via alternativa, al tribunale amministrativo regionale competente per territorio, negli stessi termini di cui ai precedenti commi.
 
-### Art. 11
+## Art. 11
 
 ((ARTICOLO ABROGATO DAL D. LGS. 2 LUGLIO 2010, N. 104))
 
-### Art. 12
+## Art. 12
 
 Il passaporto e' ritirato, a cura di una delle autorita' indicate all'articolo 5, quando sopravvengono circostanze che ai sensi della presente legge ne avrebbero legittimato il diniego.
 
@@ -142,7 +142,7 @@ Il passaporto puo' essere infine ritirato quando il titolare del passaporto sia 
 
 Il passaporto ritirato viene restituito al titolare a sua richiesta non appena vengano meno i motivi del ritiro.
 
-### Art. 13
+## Art. 13
 
 1\. ((Chi smarrisce o subisce il furto del passaporto in Italia deve farne tempestiva e circostanziata denuncia ai competenti uffici di polizia.))
 
@@ -152,7 +152,7 @@ Il passaporto ritirato viene restituito al titolare a sua richiesta non appena v
 
 ## PASSAPORTI ORDINARI
 
-### Art. 14
+## Art. 14
 
 1\. Il passaporto ordinario e' individuale. Esso spetta ad ogni cittadino, fatte salve le cause ostative contemplate nella presente legge.
 
@@ -162,7 +162,7 @@ Il passaporto ritirato viene restituito al titolare a sua richiesta non appena v
 
 3-bis. ((Se previsto dalle disposizioni vigenti in uno o piu' Stati o territori esteri nei quali il passaporto e' utilizzato, le autorita' consolari di cui all'articolo 5 possono rilasciare, su richiesta dei genitori o del tutore, un'attestazione di viaggio, previa acquisizione della dichiarazione o dell'autorizzazione di cui al comma 2)).
 
-### Art. 15
+## Art. 15
 
 Il passaporto ordinario:
 
@@ -174,13 +174,13 @@ b-bis) ((riporta la firma del titolare;))
 
 b-ter) ((contiene in apposito microprocessore i dati di cui alla lettera a), a eccezione della residenza del titolare, la fotografia, le impronte digitali e gli ulteriori dati identificativi del titolare richiesti dalla normativa nazionale o dell'Unione europea)).
 
-### Art. 16
+## Art. 16
 
 All'atto della presentazione della domanda, l'interessato deve comprovare nei modi di legge la sua identita', il possesso della cittadinanza italiana e lo stato di famiglia. Deve inoltre dichiarare per iscritto se sia o meno sottoposto a procedimento penale.
 
 Alla domanda devono essere uniti i nulla osta e gli assensi previsti dalla presente legge, nonche' ((una fotografia, autenticata dall'autorita' che riceve la domanda o di cui sia stata attestata la corrispondenza con la persona dell'interessato ai sensi dell'articolo 38, comma 2, del decreto-legge 17 maggio 2022, n. 50, convertito, con modificazioni, dalla legge 15 luglio 2022, n. 91)).
 
-### Art. 17
+## Art. 17
 
 ((1. Il passaporto ordinario e' valido per dieci anni. La validita' del passaporto puo' essere tuttavia ridotta a norma delle disposizioni in vigore o su domanda di chi ne abbia facolta' a norma di legge.
 
@@ -188,7 +188,7 @@ Alla domanda devono essere uniti i nulla osta e gli assensi previsti dalla prese
 
 3\. In caso di urgenza ovvero in caso di impossibilita' temporanea alla rilevazione delle impronte digitali, o per particolari esigenze, puo' essere emesso un passaporto temporaneo, di validita' pari o inferiore a dodici mesi)).
 
-### Art. 18
+## Art. 18
 
 1\. Per il rilascio del passaporto ordinario e' dovuto un contributo amministrativo di euro 73,50, oltre al costo del libretto.
 
@@ -198,7 +198,7 @@ Alla domanda devono essere uniti i nulla osta e gli assensi previsti dalla prese
 
 4\. All'estero la riscossione avviene in valuta locale, secondo le norme dell'ordinamento consolare, con facolta' per il Ministero degli affari esteri di stabilire il necessario arrotondamento.
 
-### Art. 19
+## Art. 19
 
 Nessuna tassa e' dovuta per il rilascio o il rinnovo del passaporto ordinario, in Italia od all'estero:
 
@@ -216,27 +216,27 @@ Gli atti, documenti e domande occorrenti per il rilascio o rinnovo del passaport
 
 ## PASSAPORTI SPECIALI
 
-### Art. 20
+## Art. 20
 
 ((ARTICOLO ABROGATO DALLA L. 19 GENNAIO 2026, N. 11))
 
-### Art. 21
+## Art. 21
 
 Possono essere rilasciati e rinnovati passaporti speciali, lasciapassare ed altri consimili documenti, equipollenti al passaporto, in favore di stranieri e di apolidi, quando cio' sia previsto da accordi internazionali.
 
-### Art. 22
+## Art. 22
 
 A chi risieda o dimori nella fascia di frontiera possono essere rilasciate o rinnovate carte di frontiera, tessere di turismo alpino e consimili documenti equipollenti al passaporto, quando cio' sia previsto da accordi internazionali.
 
 ## PASSAPORTI DIPLOMATICI E DI SERVIZIO
 
-### Art. 23
+## Art. 23
 
 Il Ministro per gli affari esteri puo' stabilire che siano rilasciati passaporti diplomatici o di servizio secondo un regolamento da emanare entro sei mesi dalla pubblicazione della presente legge.
 
 ## ((SANZIONI))
 
-### Art. 24
+## Art. 24
 
 Chiunque esce dal territorio dello Stato senza essersi munito di passaporto o di altro documento equipollente ai sensi delle disposizioni in vigore, ovvero con passaporto la cui validita' sia stata sospesa ai sensi della presente legge, ((e' soggetto alla sanzione pecuniaria amministrativa da euro 100 a euro 1.000, salvo che il fatto costituisca reato)).
 
@@ -244,21 +244,21 @@ La pena e' dell'arresto fino a sei mesi o dell'ammenda ((da euro 250 a euro 3.00
 
 La pena e' dell'arresto da un mese a un anno e dell'ammenda ((da euro 500 a euro 5.000)) se il colpevole, al momento del suo espatrio, si trovava nelle condizioni previste dall'articolo 3, ((lettere d) ed e) )), ovvero se egli non aveva ancora adempiuto agli obblighi di leva.
 
-### Art. 25
+## Art. 25
 
 ((ARTICOLO ABROGATO DALLA L. 19 GENNAIO 2026, N. 11))
 
 ## DISPOSIZIONI TRANSITORIE E FINALI
 
-### Art. 26
+## Art. 26
 
 I passaporti rilasciati prima dell'entrata in vigore della presente legge restano validi sino alla loro scadenza.
 
-### Art. 27
+## Art. 27
 
 Nulla e' innovato alle disposizioni del decreto del Presidente della Repubblica 30 dicembre 1965, n. 1656, concernente la circolazione e il soggiorno dei cittadini degli Stati membri della Comunita' economica europea.
 
-### Art. 28
+## Art. 28
 
 ((ARTICOLO ABROGATO DALLA L. 16 GENNAIO 2003, N. 3))
 

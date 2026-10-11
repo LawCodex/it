@@ -216,7 +216,7 @@ Ferma stando l'unita' dei comuni, le disposizioni speciali dianzi accennate rela
 
 Il prefetto trasmettera' al governo del Re le domande della frazione, unitamente alle opposizioni e osservazioni del consiglio comunale.
 
-## Capo II. - Delle elezioni.
+### Capo II. - Delle elezioni.
 
 ##### Art. 17
 
@@ -622,7 +622,7 @@ Contro alle operazioni elettorali e' ammesso il ricorso al consiglio comunale, e
 
 L'art. 54 ed i susseguenti saranno affissi alla porta della sala delle elezioni in caratteri maggiori e ben leggibili.
 
-## Capo III. - Dei Consigli comunali.
+### Capo III. - Dei Consigli comunali.
 
 ##### Art. 77
 
@@ -742,7 +742,7 @@ Tutte le deliberazioni saranno sempre pubblicate per copia all'albo pretorio nel
 
 Ciascun contribuente nel comune potra' aver copia delle deliberazioni mediante pagamento dei relativi diritti fissati con decreto reale.
 
-## Capo IV. - Della Giunta municipale.
+### Capo IV. - Della Giunta municipale.
 
 ##### Art. 91
 
@@ -796,7 +796,7 @@ Le sue deliberazioni non sono valide se non interviene la meta' dei membri che l
 
 La giunta rende conto annualmente al consiglio comunale della sua gestione e del modo con cui fece eseguire i servizi ad essa attribuiti, o che si eseguirono sotto la sua direzione o responsabilita'.
 
-## Capo V. - Del sindaco.
+### Capo V. - Del sindaco.
 
 ##### Art. 97
 
@@ -898,7 +898,7 @@ La rimozione dei sindaci e' riservata al Re. Potranno essere sospesi dal prefett
 
 Le disposizioni di cui all'articolo 8 sono applicabili ai sindaci.
 
-## Capo VI. - Dell'amministrazione e contabilità comunale.
+### Capo VI. - Dell'amministrazione e contabilità comunale.
 
 ##### Art. 111
 
@@ -1074,7 +1074,7 @@ In tal caso essi presiederanno agli incanti, ed i contratti saranno stipulati in
 
 Roghera' gli atti il segretario di prefettura o sottoprefettura, il quale potra' soltanto percepire i diritti attribuiti dalla tariffa al segretario comunale.
 
-## Capo VII. - Dell'ingerenza governativa nell'amministrazione comunale, e delle deliberazioni dei comuni soggette ad approvazione.
+### Capo VII. - Dell'ingerenza governativa nell'amministrazione comunale, e delle deliberazioni dei comuni soggette ad approvazione.
 
 ##### Art. 130
 
@@ -1176,7 +1176,7 @@ Il prefetto o sotto-prefetto potra' verificare la regolarita' del servizio degli
 
 In caso di omessione per parte dei medesimi nel disimpegno delle incumbenze loro affidate, potra' inviare a loro spese un commissario sul luogo per la spedizione degli affari in ritardo.
 
-## Capo VIII. - Disposizioni generali per l'amministrazione comunale.
+### Capo VIII. - Disposizioni generali per l'amministrazione comunale.
 
 ##### Art. 146
 
@@ -1236,7 +1236,7 @@ Sono sottoposti all'amministrazione provinciale:
 
 4.° Gl'interessi dei diocesani quando a termini delle leggi sono chiamati a sopperire a qualche spesa.
 
-## Capo II. - Del consiglio provinciale.
+### Capo II. - Del consiglio provinciale.
 
 ##### Art. 155
 
@@ -1472,7 +1472,7 @@ Puo' delegare uno o piu' de' suoi membri per invigilare sul regolare andamento d
 
 Puo' anche demandare ad uno o piu' de' suoi membri l'incarico di fare le inchieste di cui abbisogni nella cerchia delle sue attribuzioni.
 
-## Capo III. - Della deputazione provinciale.
+### Capo III. - Della deputazione provinciale.
 
 ##### Art. 179
 
@@ -1574,7 +1574,7 @@ Se un membro della deputazione non interviene alle sedute per un mese senza aver
 
 Cessa la qualita' di membro della deputazione quando si verifichi alcuno degl'impedimenti indicati nell'art. 183.
 
-## Capo IV. - Dell'ingerenza governativa nell'amministrazione provinciale.
+### Capo IV. - Dell'ingerenza governativa nell'amministrazione provinciale.
 
 ##### Art. 190
 
@@ -1608,7 +1608,7 @@ Sona sottoposte all'approvazione del prefetto, previo parere del consiglio di pr
 
 Le deliberazioni dei consigli provinciali che porteranno modificazioni nell'andamento o nelle condizioni generali tecniche ed economiche delle strade che interessano diverse provincie, come pure quelle per cui si porterebbe qualche variazione al corso delle acque pubbliche, dovranno essere approvate dal Ministero dei lavori pubblici, previo parere del Consiglio superiore.
 
-## Capo V. - Disposizioni generali riguardanti l'amministrazione provinciale.
+### Capo V. - Disposizioni generali riguardanti l'amministrazione provinciale.
 
 ##### Art. 196
 
@@ -2054,7 +2054,9 @@ V.° Il Ministro dell'Interno
 
 G. LANZA.
 
-## TITOLO I. ORGANAMENTO DEL PERSONALE DELLA PUBBLICA SICUREZZA - ((TITOLO ABROGATO DALLA L. 21 DICEMBRE 1890, N. 7321))
+## TITOLO I. ORGANAMENTO DEL PERSONALE DELLA PUBBLICA SICUREZZA
+
+## ((TITOLO ABROGATO DALLA L. 21 DICEMBRE 1890, N. 7321))
 
 ##### art. 1
 
@@ -2280,7 +2282,7 @@ AGGIORNAMENTO (24)
 
 Il Regio Decreto 30 giugno 1889, n. 6144 ha disposto (con l'art. 137, comma 1) che "Dal giorno dell'attuazione della presente legge sono abrogati i titoli II, III e IV della legge di pubblica sicurezza 20 marzo 1865, allegato B, modificata con la legge 6 luglio 1871 e il regolamento di polizia punitiva per la Toscana dei 20 giugno 1853".
 
-## Sezione II. - Degli arruolamenti, munizioni da guerra e porto d'armi.
+#### Sezione II. - Degli arruolamenti, munizioni da guerra e porto d'armi.
 
 ##### Art. 30
 
@@ -2322,7 +2324,7 @@ AGGIORNAMENTO (24)
 
 Il Regio Decreto 30 giugno 1889, n. 6144 ha disposto (con l'art. 137, comma 1) che "Dal giorno dell'attuazione della presente legge sono abrogati i titoli II, III e IV della legge di pubblica sicurezza 20 marzo 1865, allegato B, modificata con la legge 6 luglio 1871 e il regolamento di polizia punitiva per la Toscana dei 20 giugno 1853".
 
-## Sezione III. - Degli spettacoli e trattenimenti pubblici.
+#### Sezione III. - Degli spettacoli e trattenimenti pubblici.
 
 ##### Art. 32
 
@@ -2380,7 +2382,7 @@ AGGIORNAMENTO (24)
 
 Il Regio Decreto 30 giugno 1889, n. 6144 ha disposto (con l'art. 137, comma 1) che "Dal giorno dell'attuazione della presente legge sono abrogati i titoli II, III e IV della legge di pubblica sicurezza 20 marzo 1865, allegato B, modificata con la legge 6 luglio 1871 e il regolamento di polizia punitiva per la Toscana dei 20 giugno 1853".
 
-## Sezione IV. - Degli alberghi, osterie, caffè e simili stabilimenti.
+#### Sezione IV. - Degli alberghi, osterie, caffè e simili stabilimenti.
 
 ##### Art. 35
 
@@ -2624,7 +2626,7 @@ AGGIORNAMENTO (24)
 
 Il Regio Decreto 30 giugno 1889, n. 6144 ha disposto (con l'art. 137, comma 1) che "Dal giorno dell'attuazione della presente legge sono abrogati i titoli II, III e IV della legge di pubblica sicurezza 20 marzo 1865, allegato B, modificata con la legge 6 luglio 1871 e il regolamento di polizia punitiva per la Toscana dei 20 giugno 1853".
 
-## Sezione V. - Degli operai.
+#### Sezione V. - Degli operai.
 
 ##### Art. 48
 
@@ -2682,7 +2684,7 @@ AGGIORNAMENTO (24)
 
 Il Regio Decreto 30 giugno 1889, n. 6144 ha disposto (con l'art. 137, comma 1) che "Dal giorno dell'attuazione della presente legge sono abrogati i titoli II, III e IV della legge di pubblica sicurezza 20 marzo 1865, allegato B, modificata con la legge 6 luglio 1871 e il regolamento di polizia punitiva per la Toscana dei 20 giugno 1853".
 
-## Sezione VI. - Delle stamperie, smercio di atti giudiziari, affissioni, nettezza degli edifizi, stampe e disegni fatti all'estero.
+#### Sezione VI. - Delle stamperie, smercio di atti giudiziari, affissioni, nettezza degli edifizi, stampe e disegni fatti all'estero.
 
 ##### Art. 51
 
@@ -2796,7 +2798,7 @@ AGGIORNAMENTO (24)
 
 Il Regio Decreto 30 giugno 1889, n. 6144 ha disposto (con l'art. 137, comma 1) che "Dal giorno dell'attuazione della presente legge sono abrogati i titoli II, III e IV della legge di pubblica sicurezza 20 marzo 1865, allegato B, modificata con la legge 6 luglio 1871 e il regolamento di polizia punitiva per la Toscana dei 20 giugno 1853".
 
-## Sezione VII. - Delle professioni e dei traffici ambulanti.
+#### Sezione VII. - Delle professioni e dei traffici ambulanti.
 
 ##### Art. 57
 
@@ -2960,7 +2962,7 @@ AGGIORNAMENTO (24)
 
 Il Regio Decreto 30 giugno 1889, n. 6144 ha disposto (con l'art. 137, comma 1) che "Dal giorno dell'attuazione della presente legge sono abrogati i titoli II, III e IV della legge di pubblica sicurezza 20 marzo 1865, allegato B, modificata con la legge 6 luglio 1871 e il regolamento di polizia punitiva per la Toscana dei 20 giugno 1853".
 
-## Sezione VIII. - De' viandanti.
+#### Sezione VIII. - De' viandanti.
 
 ##### Art. 65
 
@@ -3000,7 +3002,7 @@ AGGIORNAMENTO (24)
 
 Il Regio Decreto 30 giugno 1889, n. 6144 ha disposto (con l'art. 137, comma 1) che "Dal giorno dell'attuazione della presente legge sono abrogati i titoli II, III e IV della legge di pubblica sicurezza 20 marzo 1865, allegato B, modificata con la legge 6 luglio 1871 e il regolamento di polizia punitiva per la Toscana dei 20 giugno 1853".
 
-## Sezione IX. - Dei mendicanti.
+#### Sezione IX. - Dei mendicanti.
 
 ##### Art. 67
 
@@ -3064,7 +3066,7 @@ AGGIORNAMENTO (24)
 
 Il Regio Decreto 30 giugno 1889, n. 6144 ha disposto (con l'art. 137, comma 1) che "Dal giorno dell'attuazione della presente legge sono abrogati i titoli II, III e IV della legge di pubblica sicurezza 20 marzo 1865, allegato B, modificata con la legge 6 luglio 1871 e il regolamento di polizia punitiva per la Toscana dei 20 giugno 1853".
 
-## Sezione X. - Degli oziosi e vagabondi.
+#### Sezione X. - Degli oziosi e vagabondi.
 
 ##### Art. 70
 
@@ -3208,7 +3210,7 @@ AGGIORNAMENTO (24)
 
 Il Regio Decreto 30 giugno 1889, n. 6144 ha disposto (con l'art. 137, comma 1) che "Dal giorno dell'attuazione della presente legge sono abrogati i titoli II, III e IV della legge di pubblica sicurezza 20 marzo 1865, allegato B, modificata con la legge 6 luglio 1871 e il regolamento di polizia punitiva per la Toscana dei 20 giugno 1853".
 
-## Sezione XI. - Dei condannati alla speciale sorveglianza della polizia.
+#### Sezione XI. - Dei condannati alla speciale sorveglianza della polizia.
 
 ##### Art. 77
 
@@ -3346,7 +3348,7 @@ AGGIORNAMENTO (24)
 
 Il Regio Decreto 30 giugno 1889, n. 6144 ha disposto (con l'art. 137, comma 1) che "Dal giorno dell'attuazione della presente legge sono abrogati i titoli II, III e IV della legge di pubblica sicurezza 20 marzo 1865, allegato B, modificata con la legge 6 luglio 1871 e il regolamento di polizia punitiva per la Toscana dei 20 giugno 1853".
 
-## Sezione XII. - Del disturbo della pubblica quiete.
+#### Sezione XII. - Del disturbo della pubblica quiete.
 
 ##### Art. 84
 
@@ -3384,7 +3386,7 @@ AGGIORNAMENTO (24)
 
 Il Regio Decreto 30 giugno 1889, n. 6144 ha disposto (con l'art. 137, comma 1) che "Dal giorno dell'attuazione della presente legge sono abrogati i titoli II, III e IV della legge di pubblica sicurezza 20 marzo 1865, allegato B, modificata con la legge 6 luglio 1871 e il regolamento di polizia punitiva per la Toscana dei 20 giugno 1853".
 
-## Capo II. - Disposizioni per la pubblica moralità.
+### Capo II. - Disposizioni per la pubblica moralità.
 
 ##### Art. 86
 
@@ -3426,9 +3428,9 @@ AGGIORNAMENTO (24)
 
 Il Regio Decreto 30 giugno 1889, n. 6144 ha disposto (con l'art. 137, comma 1) che "Dal giorno dell'attuazione della presente legge sono abrogati i titoli II, III e IV della legge di pubblica sicurezza 20 marzo 1865, allegato B, modificata con la legge 6 luglio 1871 e il regolamento di polizia punitiva per la Toscana dei 20 giugno 1853".
 
-## Capo III. - Disposizioni per la pubblica incolumità.
+### Capo III. - Disposizioni per la pubblica incolumità.
 
-### Sezione I. - Dell'esercizio delle professioni insalubri, pericolose ed incomode.
+#### Sezione I. - Dell'esercizio delle professioni insalubri, pericolose ed incomode.
 
 ##### Art. 88
 
@@ -3470,7 +3472,7 @@ AGGIORNAMENTO (24)
 
 Il Regio Decreto 30 giugno 1889, n. 6144 ha disposto (con l'art. 137, comma 1) che "Dal giorno dell'attuazione della presente legge sono abrogati i titoli II, III e IV della legge di pubblica sicurezza 20 marzo 1865, allegato B, modificata con la legge 6 luglio 1871 e il regolamento di polizia punitiva per la Toscana dei 20 giugno 1853".
 
-## Sezione II. - Precauzioni onde prevenire disastri.
+#### Sezione II. - Precauzioni onde prevenire disastri.
 
 ##### Art. 90
 
@@ -3526,7 +3528,7 @@ AGGIORNAMENTO (24)
 
 Il Regio Decreto 30 giugno 1889, n. 6144 ha disposto (con l'art. 137, comma 1) che "Dal giorno dell'attuazione della presente legge sono abrogati i titoli II, III e IV della legge di pubblica sicurezza 20 marzo 1865, allegato B, modificata con la legge 6 luglio 1871 e il regolamento di polizia punitiva per la Toscana dei 20 giugno 1853".
 
-## Sezione III. - Delle inumazioni.
+#### Sezione III. - Delle inumazioni.
 
 ##### Art. 93
 
@@ -3604,9 +3606,9 @@ AGGIORNAMENTO (24)
 
 Il Regio Decreto 30 giugno 1889, n. 6144 ha disposto (con l'art. 137, comma 1) che "Dal giorno dell'attuazione della presente legge sono abrogati i titoli II, III e IV della legge di pubblica sicurezza 20 marzo 1865, allegato B, modificata con la legge 6 luglio 1871 e il regolamento di polizia punitiva per la Toscana dei 20 giugno 1853".
 
-## Capo IV. - Disposizioni per la proprietà.
+### Capo IV. - Disposizioni per la proprietà.
 
-### Sezione I. - Dei ferti campestri e del pascolo abusivo.
+#### Sezione I. - Dei ferti campestri e del pascolo abusivo.
 
 ##### Art. 97
 
@@ -3760,7 +3762,7 @@ AGGIORNAMENTO (24)
 
 Il Regio Decreto 30 giugno 1889, n. 6144 ha disposto (con l'art. 137, comma 1) che "Dal giorno dell'attuazione della presente legge sono abrogati i titoli II, III e IV della legge di pubblica sicurezza 20 marzo 1865, allegato B, modificata con la legge 6 luglio 1871 e il regolamento di polizia punitiva per la Toscana dei 20 giugno 1853".
 
-## Sezione II. - Disposizioni speciali per alcune categorie di persone sospette.
+#### Sezione II. - Disposizioni speciali per alcune categorie di persone sospette.
 
 ##### Art. 105
 
@@ -3856,7 +3858,7 @@ AGGIORNAMENTO (24)
 
 Il Regio Decreto 30 giugno 1889, n. 6144 ha disposto (con l'art. 137, comma 1) che "Dal giorno dell'attuazione della presente legge sono abrogati i titoli II, III e IV della legge di pubblica sicurezza 20 marzo 1865, allegato B, modificata con la legge 6 luglio 1871 e il regolamento di polizia punitiva per la Toscana dei 20 giugno 1853".
 
-## Sezione III. - Provvedimenti sul trasporto di mobili e sulla sicurezza delle abitazioni.
+#### Sezione III. - Provvedimenti sul trasporto di mobili e sulla sicurezza delle abitazioni.
 
 ##### Art. 110
 
@@ -4810,7 +4812,7 @@ Per tutte le altre linee telegrafiche il servizio sara' ordinato con uno special
 
 Le strade ordinarie d'uso pubblico sono distinte in nazionali, provinciali, comunali e vicinali.
 
-## Sezione I. - Strade nazionali.
+#### Sezione I. - Strade nazionali.
 
 ##### Art. 10
 
@@ -4840,7 +4842,7 @@ In conformita' delle norme stabilite dalla presente legge, e nel termine di sei 
 
 Stabilito l'elenco delle strade nazionali, non potra' esservi introdotta, fuorche' per legge, alcuna modificazione, la quale non derivi dall'applicazione del precedente articolo.
 
-## Sezione II. - Strade provinciali.
+#### Sezione II. - Strade provinciali.
 
 ##### Art. 13
 
@@ -4870,7 +4872,7 @@ Allorche' avvenga la esclusione di una strada dal novero delle provinciali, essa
 
 Le deliberazioni dei Consigli provinciali a tale effetto non saranno approvate, se non sentiti i Consigli dei comuni interessati, e costituito, ove occorra, il consorzio a norma della legge.
 
-## Sezione III. - Strade comunali e vicinali.
+#### Sezione III. - Strade comunali e vicinali.
 
 ##### Art. 16
 
@@ -4910,7 +4912,7 @@ Tutte le altre strade non iscritte nelle precedenti categorie e soggette a servi
 
 Le strade vicinali sono soggette alla vigilanza delle Autorita' comunali.
 
-## Sezione IV. - Disposizioni comuni alle strade nazionali, provinciali, comunali e vicinali.
+#### Sezione IV. - Disposizioni comuni alle strade nazionali, provinciali, comunali e vicinali.
 
 ##### Art. 20
 
@@ -4932,7 +4934,7 @@ Nell'interno delle citta' e villaggi fanno parte delle strade comunali le piazze
 
 I tronchi delle strade nazionali e provinciali compresi nell'abitato di una citta' o villaggio fanno parte delle strade comunali, salvo il concorso dello Stato o della provincia nelle spese di mantenimento o di miglioramento come all'art. 41 e seguenti.
 
-## Capo II. - Costruzione, sistemazione e conservazione delle strade.
+### Capo II. - Costruzione, sistemazione e conservazione delle strade.
 
 ##### Art. 23
 
@@ -4966,9 +4968,9 @@ E' obbligatoria la conservazione in istato normale delle strade provinciali e co
 
 I porti, o ponti natanti o chiatte, ed i ponti galleggianti di barche che servono alla continuazione di qualsivoglia classe di strade nell'attraversare i fiumi e torrenti, ovunque ad uso pubblico o privato ne sia autorizzato lo stabilimento e l'esercizio, debbono essere collocati nei luoghi e nei modi piu' convenienti per conciliare insieme la comodita', facilita' e sicurezza del tragitto di detti fiumi e torrenti colla brevita', comodo e sicurezza delle vie di accesso, osservando le prescrizioni e cautele che saranno ordinate dal Governo, al quale si dovra' pure ricorrere pel relativo permesso quando diventi necessario variar posizione.
 
-## Capo III. - Spese per le strade.
+### Capo III. - Spese per le strade.
 
-### Sezione I. - Strade nazionali.
+#### Sezione I. - Strade nazionali.
 
 ##### Art. 30
 
@@ -5010,7 +5012,7 @@ Il prefetto, sulla proposta dell'ingegnere capo, sentiti gli interessati, ed avu
 
 Se i possessori non si prestano entro il termine da stabilirsi, le opere si compiono d'ufficio, e le spese si ripetono colle forme privilegiate dalle pubbliche imposte, salvo a quelli il diritto di ricorso in via amministrativa e salva pure in ogni caso l'azione giudiziaria di rimborso a termini di diritto.
 
-## Sezione II. - Strade provinciali.
+#### Sezione II. - Strade provinciali.
 
 ##### Art. 37
 
@@ -5022,7 +5024,7 @@ Le disposizioni dei precedenti articoli 32, 33, 34, 35 e 36 sono applicabili all
 
 L'istituzione dei pedaggi sui ponti e strade spettanti alla provincia, come la relativa tariffa deliberata dai Consigli provinciali, dovranno essere approvate per decreto reale, sentito il Consiglio di Stato, e dovra' esserne fissata la durata al tempo presumibilmente necessario per indennizzare l'Amministrazione provinciale delle spese incontrate per la costruzione di tali opere.
 
-## Sezione III. - Strade comunali.
+#### Sezione III. - Strade comunali.
 
 ##### Art. 39
 
@@ -5114,7 +5116,7 @@ Quando la provincia concorra per una quota proporzionale nelle spese dei consorz
 
 Se la quota di concorso della provincia raggiunge il terzo della spesa totale, la diretta amministrazione del consorzio potra' essere assunta dalla deputazione provinciale, salve le attribuzioni dell'assemblea generale degl'interessati.
 
-## Sezione IV. - Strade vicinali.
+#### Sezione IV. - Strade vicinali.
 
 ##### Art. 51
 
@@ -5146,9 +5148,9 @@ Gli utenti possono essere costituiti in consorzio permanente per deliberazione d
 
 La Giunta municipale provvede per la formazione del consorzio, previa convocazione degli utenti, e decide sulle questioni che insorgessero, salvo entro trenta giorni il diritto agli utenti di ricorrere alla deputazione provinciale che statuira' definitivamente.
 
-## Capo IV. - Polizia delle strade.
+### Capo IV. - Polizia delle strade.
 
-### Sezione I. - Strade nazionali e provinciali.
+#### Sezione I. - Strade nazionali e provinciali.
 
 ##### Art. 55
 
@@ -5276,7 +5278,7 @@ Chi per imprudenza o negligenza avra' col proprio veicolo danneggiata la strada 
 
 Ognuno risponde civilmente dei propri sottoposti per le infrazioni alle precedenti disposizioni di polizia stradale ed alle discipline del regolamento relativo.
 
-## Sezione II. - Strade comunali.
+#### Sezione II. - Strade comunali.
 
 ##### Art. 80
 
@@ -5296,7 +5298,7 @@ I fabbricati ed i muri di cinta potranno essere stabiliti sul limite della strad
 
 In ordine ai veicoli saranno anche per le strade comunali stabilite nel regolamento citato al precedente art. 77 le discipline convenienti nell'interesse pubblico.
 
-## Sezione III. - Strade vicinali.
+#### Sezione III. - Strade vicinali.
 
 ##### Art. 84
 
@@ -5304,7 +5306,7 @@ Nessuno puo' ingombrare o scaricare acque o fare opera qualunque la quale pregiu
 
 I contravventori saranno tenuti a risarcire i danni e rimettere le cose nel primiero stato.
 
-## Capo V - Disposizioni transitorie relative alle strade.
+### Capo V - Disposizioni transitorie relative alle strade.
 
 ##### Art. 85
 
@@ -5344,7 +5346,7 @@ Per le strade che da nazionali diventano provinciali lo Stato soddisfera' alle s
 
 Al Governo e' affidata la suprema tutela sulle acque pubbliche e la ispezione sui relativi lavori.
 
-## Sezione I. - Classificazione delle opere intorno alle acque pubbliche.
+#### Sezione I. - Classificazione delle opere intorno alle acque pubbliche.
 
 ##### Art. 92
 
@@ -5370,7 +5372,7 @@ per la 3ª e 4ª categoria, a carico esclusivo del consorzio degli interessati;
 
 e per la 5ª categoria, a carico dei proprietari e possessori interessati)).
 
-## Sezione II. - Opere della prima categoria.
+#### Sezione II. - Opere della prima categoria.
 
 ##### Art. 93
 
@@ -5378,7 +5380,7 @@ Sono a carico dello Stato le opere che hanno per unico oggetto la navigazione de
 
 Lo Stato sostiene pure le spese necessarie per i canali artificiali di proprieta' demaniale, quando altrimenti non dispongano speciali convenzioni.
 
-## Sezione III. - Opere idrauliche della seconda categoria.
+#### Sezione III. - Opere idrauliche della seconda categoria.
 
 ##### Art. 94
 
@@ -5396,7 +5398,7 @@ Le spese per le opere indicate nell'articolo precedente vanno ripartite, detratt
 
 Sono incluse nel riparto le spese di sorveglianza dei lavori e di guardia delle arginature.
 
-## Sezione IV. - ((Opere idrauliche della 3ª categoria)).
+#### Sezione IV. - ((Opere idrauliche della 3ª categoria)).
 
 ##### Art. 96
 
@@ -5414,7 +5416,7 @@ Sono comprese fra le opere della presente categoria anche i lavori di rimboscame
 
 ((Le spese per le opere indicate nell'articolo precedente, escluse quelle di manutenzione ordinaria e straordinaria, vanno ripartite, detratta la rendita netta patrimoniale dei consorzi, per un terzo a carico dello Stato, per un sesto a carico delle provincie interessate, per un sesto a carico dei comuni interessati e pel terzo rimanente a carico del consorzio degli interessati)).
 
-## Sezione V. - ((Opere idrauliche della 4ª categoria)).
+#### Sezione V. - ((Opere idrauliche della 4ª categoria)).
 
 ##### Art. 98
 
@@ -5428,7 +5430,7 @@ Le provincie ed i comuni dovranno concorrere in misura non inferiore a quanto e'
 
 Lo Stato potra' concorrere nella costruzione di queste opere, quando sia dimostrato che, pur compresi i contributi dei comuni e delle provincie, il consorzio sia ancora impotente a sopperire alla spesa. In questo caso la misura del concorso governativo non potra' superare il quarto della spesa)).
 
-## Sezione VI. - ((Opere idrauliche della 5ª categoria)).
+#### Sezione VI. - ((Opere idrauliche della 5ª categoria)).
 
 ##### Art. 99
 
@@ -5452,7 +5454,7 @@ Sono ad esclusivo carico dei proprietari e possessori frontisti, salvo ad essi i
 
 Per la manutenzione di queste opere e per la sistemazione dell'alveo dei minori corsi d'acqua, distinti dai fiumi e torrenti, colla denominazione di fossati, rivi e colatori pubblici, si stabiliscono consorzi in conformita' del disposto del capo II di questo titolo, quando concorra l'assenso degli interessati secondo l'articolo 108)).
 
-## ((Sezione VII. - Disposizioni diverse)).
+#### ((Sezione VII. - Disposizioni diverse)).
 
 ##### Art. 102
 
@@ -5488,9 +5490,9 @@ AGGIORNAMENTO (26)
 
 La L. 30 marzo 1893, n. 173 ha disposto (con l'articolo unico, comma 1) l'introduzione della Sezione VII, Capo I, Titolo III "Disposizioni diverse".
 
-## Capo II. - Ordinamento dei consorzi per le opere di difesa sulle acque pubbliche.
+### Capo II. - Ordinamento dei consorzi per le opere di difesa sulle acque pubbliche.
 
-### Sezione I. - Costituzione dei consorzi.
+#### Sezione I. - Costituzione dei consorzi.
 
 ##### Art. 105
 
@@ -5530,7 +5532,7 @@ Quando gli interessi di un consorzio si estendano a territori di diverse provinc
 
 Potra' essere istituito per legge un consorzio generale di piu' provincie e di piu' consorzi speciali che hanno interesse in un determinato fiume o sistema idraulico per provvedere a grandi opere di difesa, rettificazione, inalveamento, ed alla loro manutenzione.
 
-## Sezione II. - Organizzazione dei consorzi.
+#### Sezione II. - Organizzazione dei consorzi.
 
 ##### Art. 111
 
@@ -5590,7 +5592,7 @@ Il valore imponibile dei beni indicati nel primo capoverso dell'articolo suddett
 
 L'esazione delle quote di contributo si fara' colle forme e coi privilegi della imposta fondiaria.
 
-## Capo III. - ((Degli argini ed altre opere che riguardano il regime delle acque pubbliche)).
+### Capo III. - ((Degli argini ed altre opere che riguardano il regime delle acque pubbliche)).
 
 ##### Art. 120
 
@@ -5640,7 +5642,7 @@ In qualunque caso di urgenza, i comuni interessati, e come tali designati, o dai
 
 Dal momento che l'ufficio competente del Genio civile avra' stabilito servizio di guardia o di difesa sopra un corso d'acqua, nessuna autorita', corporazione o persona estranea al Ministero dei Lavori Pubblici, potra', senza esser chiamata o incaricata dal Genio civile, prendere ingerenza nel servizio, ne' eseguire o far eseguire lavori, ne' intralciare o render difficile in qualsiasi modo l'opera degli agenti governativi. Per l'ordine pubblico e' sempre riservata l'azione all'autorita' politica)).
 
-## Capo IV. - Scoli artificiali.
+### Capo IV. - Scoli artificiali.
 
 ##### Art. 127
 
@@ -5668,7 +5670,7 @@ Ogni comprensorio costituira' un consorzio, la istituzione, modificazione, ed am
 
 La proprieta' delle paludi in quanto al suo esercizio e' sottoposta a regole particolari, e per il loro bonificamento sara' provveduto con legge speciale.
 
-## Capo V. - Derivazioni delle acque pubbliche.
+### Capo V. - Derivazioni delle acque pubbliche.
 
 ### ((CAPO ABROGATO DALLA L. 10 AGOSTO 1884, N. 2644))
 
@@ -5720,7 +5722,7 @@ Allegato F-art. 139
 
 ((IL DECRETO LUOGOTENENZIALE 20 NOVEMBRE 1916, N. 1664 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-## Capo VI. - Della navigazione e trasporto dei legnami a galla.
+### Capo VI. - Della navigazione e trasporto dei legnami a galla.
 
 ##### Art. 140
 
@@ -5844,7 +5846,7 @@ E' mantenuta la osservanza dei regolamenti speciali in vigore per l'esercizio de
 
 150\.
 
-## Capo VII. - Polizia delle acque pubbliche.
+### Capo VII. - Polizia delle acque pubbliche.
 
 ##### Art. 165
 
@@ -5952,7 +5954,7 @@ E' facoltativo all'Autorita' amministrativa provinciale di ordinare ed eseguire 
 
 Potra' pero' ai proprietari delle golene essere conceduto di stabilire chiaviche nei loro argini secondo progetti da approvarsi dall'Autorita' suddetta nell'intento di evitarne il taglio.
 
-## Capo VIII. - Disposizioni transitorie relative alle acque pubbliche.
+### Capo VIII. - Disposizioni transitorie relative alle acque pubbliche.
 
 ##### Art. 173
 
@@ -6070,7 +6072,7 @@ Sono compresi nella quarta classe tutti gli altri porti, seni, golfi e spiaggie,
 
 Il trapasso di un porto dalla classe cui e' ascritto ad un'altra, quando per le mutate condizioni del porto stesso ne sia riconosciuta la convenienza, sara' fatto per legge.
 
-## Capo II. - Spese per i porti.
+### Capo II. - Spese per i porti.
 
 ##### Art. 188
 
@@ -6148,7 +6150,7 @@ Ove tale parere sia contrario al progetto, e gli interessati non vi si acquetino
 
 Per i comuni ove esiste un porto di quarta classe e per i comuni che ne risentono benefizio, sono obbligatorie le spese per la conservazione di quello in buono stato di servizio.
 
-## Capo III. - Spese per i fari, fanali e per i segnalamenti.
+### Capo III. - Spese per i fari, fanali e per i segnalamenti.
 
 ##### Art. 201
 
@@ -6160,7 +6162,7 @@ Nello stesso modo si sostengono le spese per i fanali sulle calate interne dei p
 
 Staranno interamente a carico dello Stato quelle di tali spese, che sono esclusivamente necessarie a far riconoscere la posizione e l'entrata dei porti di seconda classe; lo saranno ugualmente quelle per i fari di scoperta o di largo, e per il segnalamento di secche o punti pericolosi lungo le coste od in alto mare.
 
-## Capo IV. - Polizia dei porti e spiaggie.
+### Capo IV. - Polizia dei porti e spiaggie.
 
 ##### Art. 203
 
@@ -6170,7 +6172,7 @@ Alla polizia dei porti e spiaggie provvede il Codice della marina mercantile, fe
 
 Un regolamento sancito per decreto reale determinera' le attribuzioni proprie degl'ingegneri del genio civile e quelle dei capitani dei porti e consoli di marina, per cio' che concerne la sorveglianza e conservazione delle opere dei porti, e fissera' le reciproche loro relazioni.
 
-## Capo V. - Disposizioni transitorie relative alle opere marittime.
+### Capo V. - Disposizioni transitorie relative alle opere marittime.
 
 ##### Art. 205
 
@@ -6212,7 +6214,7 @@ Le proprieta' private che dovranno intersecarsi colle ferrovie private della sec
 
 La costruzione e l'esercizio di una ferrovia pubblica non possono altrimenti venire concessi che per legge.
 
-## Capo II. - Norme della costruzione e dell'esercizio delle ferrovie.
+### Capo II. - Norme della costruzione e dell'esercizio delle ferrovie.
 
 ##### art. 210
 
@@ -6408,7 +6410,7 @@ AGGIORAMENTO (37)
 
 Il D.P.R. 11 luglio 1980, n. 753 ha disposto (con l'art. 104, comma 1) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
 
-## Capo III. - Diritti ed obbligazioni di chi costruisce od esercita le ferrovie verso le proprietà ed opere pubbliche o private.
+### Capo III. - Diritti ed obbligazioni di chi costruisce od esercita le ferrovie verso le proprietà ed opere pubbliche o private.
 
 ##### Art. 227
 
@@ -6450,7 +6452,7 @@ Egli avra' in ogni caso il diritto di costrurre, mantenere e custodire l'attrave
 
 Le opere che servono all'attraversamento dei corsi d'acqua, od a difendere le ferrovie pubbliche e le private della seconda categoria dovranno essere innocue al buon regime dei corsi medesimi, alle proprieta' laterali, alle derivazioni, alla navigazione ed alle fluitazioni.
 
-## Capo IV. - Servitù legali dette ferrovie pubbliche e delle proprietà coerenti.
+### Capo IV. - Servitù legali dette ferrovie pubbliche e delle proprietà coerenti.
 
 ##### art. 233
 
@@ -6578,7 +6580,7 @@ AGGIORAMENTO (37)
 
 Il D.P.R. 11 luglio 1980, n. 753 ha disposto (con l'art. 104, comma 1) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
 
-## Capo V. - Delle concessioni delle ferrovie all'industria privata.
+### Capo V. - Delle concessioni delle ferrovie all'industria privata.
 
 ##### Art. 242
 
@@ -6946,7 +6948,7 @@ Le ferrovie pubbliche concesse alla industria privata prima della promulgazione 
 
 L'approvazione superiore dei progetti tecnici delle ferrovie private di seconda categoria non conferisce a chi intende di costruire il diritto d'intraprender i lavori, se prima egli non avra' fatto constare presso l'autorita' amministrativa locale e, ove d'uopo, presso chi esercita la ferrovia pubblica alla quale la ferrovia privata dee congiungersi, di avere compiuto a tutto cio' che la legge prescrive per l'esercizio della servitu' attiva di passaggio nelle altrui proprieta'.
 
-## Capo VI. - Polizia delle strade ferrate.
+### Capo VI. - Polizia delle strade ferrate.
 
 ##### art. 301
 
@@ -7176,11 +7178,9 @@ AGGIORAMENTO (37)
 
 Il D.P.R. 11 luglio 1980, n. 753 ha disposto (con l'art. 104, comma 1) l'abrogazione del presente articolo salvo quanto previsto dal precedente art. 103. Si riporta il testo del suddetto articolo: "Fino all'emanazione delle norme regolamentari e delle disposizioni interne di cui al precedente titolo IX, restano in vigore le disposizioni di legge e regolamentari esistenti per le singole materie indicate nel titolo medesimo".
 
-## TITOLO VI. - DELLA GESTIONE AMMINISTRATIVA ED ECONOMICA
+## TITOLO VI. - DELLA GESTIONE AMMINISTRATIVA ED ECONOMICA DEI LAVORI PUBBLICI.
 
-### DEI LAVORI PUBBLICI. - Capo I.
-
-#### Disposizioni preliminari.
+### Capo I. - Disposizioni preliminari.
 
 ##### art. 319
 
@@ -7218,7 +7218,7 @@ Allegato F-art. 324
 
 ((ARTICOLO ABROGATO DAL D.P.R. 21 DICEMBRE 1999, N. 554))
 
-## Capo II. - Dei contratti.
+### Capo II. - Dei contratti.
 
 ##### art. 325
 
@@ -7292,7 +7292,7 @@ Allegato F-art. 336
 
 ((ARTICOLO ABROGATO DAL D.P.R. 21 DICEMBRE 1999, N. 554))
 
-## Capo III. - Esecuzione dei contratti.
+### Capo III. - Esecuzione dei contratti.
 
 ##### art. 337
 
@@ -7612,7 +7612,7 @@ Il termine pei ricorsi si riterra' di giorni trenta dalla notificazione del prov
 
 Sono abrogate le leggi e i regolamenti in vigore nelle diverse localita' sulle materie alle quali e' provveduto dalla presente legge. Sono mantenute le consuetudini alle quali questa legge espressamente si riferisce.
 
-## Capo II. - Disposizioni transitorie.
+### Capo II. - Disposizioni transitorie.
 
 ##### Art. 381
 

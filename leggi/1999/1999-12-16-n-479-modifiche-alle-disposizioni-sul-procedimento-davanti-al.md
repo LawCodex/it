@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Titolo I - DISPOSIZIONI IN MATERIA DI CONTENZIOSO CIVILE PENDENTE, DI INDENNITA'
+## Titolo I - DISPOSIZIONI IN MATERIA DI CONTENZIOSO CIVILE PENDENTE, DI INDENNITA' SPETTANTI AL GIUDICE DI PACE E DI ESERCIZIO DELLA PROFESSIONE FORENSE
 
-### SPETTANTI AL GIUDICE DI PACE E DI ESERCIZIO DELLA PROFESSIONE FORENSE
-
-##### ART. 1
+#### ART. 1
 
 1 - I giudizi civili pendenti davanti al pretore alla data del 30 aprile 1995, rientranti, in base alla normativa vigente alla data di entrata in vigore della presente legge, nella competenza del giudice di pace, sono attribuiti al giudice di pace competente per territorio, con esclusione:
 
@@ -42,7 +40,7 @@ b) di quelli devoluti alla competenza del pretore in base al criterio della mate
 
 2\. Sono altresi' attribuiti al giudice di pace, esclusi quelli gia' trattenuti per la decisione alla data di entrata in vigore della presente legge e che non siano successivamente rimessi in istruttoria, i giudizi pendenti alla data del 30 aprile 1995, relativi all'azione di apposizione di termini ed all'azione di osservanza delle distanze stabilite dal codice civile, dai regolamenti o dagli usi riguardo al piantamento degli alberi e delle siepi nonche' quelli relativi alla misura e alle modalita' d'uso dei servizi di condominio di case e quelli relativi a rapporti tra proprietari o detentori di immobili adibiti a civile abitazione in materia di immissioni di fumo o di calore, esalazioni, rumori, scuotimenti e simili propagazioni che superino la normale tollerabilita'.
 
-##### ART. 2
+#### ART. 2
 
 1\. Per le cause attribuite al giudice di pace a norma dell'articolo 1 e' competente per territorio il giudice di pace del luogo in cui ha sede l'ufficio giudiziario o la sezione distaccata dinanzi a cui il giudizio e' pendente alla data di entrata in vigore della presente legge. Restano salve le questioni relative alla competenza del giudice originariamente adito.
 
@@ -56,19 +54,19 @@ Le questioni relative alla competenza del giudice di pace devono essere rilevate
 
 4\. Alla prima udienza il giudice tenta la conciliazione delle parti, a norma dell'articolo 185 del codice di procedura civile.
 
-##### ART. 3
+#### ART. 3
 
 1\. Gli uffici di conciliazione sono soppressi fatta salva l'attivita' conseguente all'applicazione del comma 2. E' abrogato l'articolo 44 della legge 21 novembre 1991, n. 374.
 
 2\. I giudizi pendenti davanti al conciliatore alla data di entrata in vigore della presente legge devono essere proseguiti dinanzi al giudice di pace territorialmente competente, fatta eccezione per le cause gia' trattenute per la decisione e che non siano successivamente rimesse in istruttoria. Si osservano al riguardo le disposizioni dell'articolo 2.
 
-##### ART. 4
+#### ART. 4
 
 1\. Dalla data di entrata in vigore della presente legge, sono attribuiti alle sezioni stralcio costituite a norma della legge 22 luglio 1997, n. 276, i giudizi civili in corso gia' pendenti alla data del 30 aprile 1995 davanti al pretore in base al criterio della materia, con esclusione dei giudizi in materia di lavoro e previdenza e dei giudizi attribuiti al giudice di pace, ai sensi dell'articolo 1, nonche' dei giudizi gia' trattenuti per la decisione alla data di entrata in vigore della presente legge e che non siano successivamente rimessi in istruttoria.
 
 2\. Entro quindici giorni dalla data di entrata in vigore della presente legge, il presidente del tribunale o un giudice da lui delegato procede alla ricognizione dei giudizi di cui al comma 1 e trasmette i relativi fascicoli al presidente della sezione stralcio, il quale assegna i procedimenti a un giudice onorario aggregato a norma del comma 4 dell'articolo 11 della legge 22 luglio 1997, n. 276.
 
-##### ART. 5
+#### ART. 5
 
 1\. Dopo il comma 3 dell'articolo 11 della legge 21 novembre 1991, n.374, e' inserito il seguente:
 
@@ -84,7 +82,7 @@ Le questioni relative alla competenza del giudice di pace devono essere rilevate
 
 4\. Le indennita' di cui al presente articolo spettano a decorrere dalla data di entrata in vigore 1 della presente legge.
 
-##### ART. 6
+#### ART. 6
 
 1\. L'articolo 13 della legge 21 novembre 1991, n.374, e successive modificazioni, e' sostituito dal seguente:
 
@@ -96,7 +94,7 @@ Le questioni relative alla competenza del giudice di pace devono essere rilevate
 
 3\. I messi del giudice di pace continueranno a operare presso le sedi del giudice di pace.
 
-##### ART. 7
+#### ART. 7
 
 1\. I praticanti avvocati, dopo il conseguimento dell'abilitazione al patrocinio, possono esercitare l'attivita' professionale i sensi dell'articolo 8 del regio decreto-legge 27 novembre 1933, n. 1578, convertito, con modificazioni, dalla legge 22 gennaio 1934, n. 36, e successive modificazioni, nelle cause di competenza del giudice di pace e dinanzi al tribunale in composizione monocratica, limitatamente:
 
@@ -110,13 +108,13 @@ a) negli affari civili:
 
 ((b) negli affari penali, alle cause per i reati previsti dall'articolo 550 del codice di procedura penale)).
 
-##### ART. 8
+#### ART. 8
 
 1\. Sono validi ed efficaci gli atti compiuti dai procuratori legali, iscritti al relativo albo, in violazione dei limiti territoriali previsti dall'articolo 5 del regio decreto-legge 27 novembre 1933, n. 1578, convertito, con modificazioni, dalla legge 22 gennaio 1934, n. 36, e successive modificazioni, relativi ai processi in corso alla data di entrata in vigore della legge 24 febbraio 1997, n. 27.
 
 ## Titolo II - MODIFICA AL CODICE PENALE
 
-##### ART. 9
+#### ART. 9
 
 1\. Dopo il sesto comma dell'articolo 162-bis del codice penale, e' aggiunto il seguente:
 
@@ -124,11 +122,9 @@ a) negli affari civili:
 
 ## Titolo III - MODIFICHE AL CODICE DI PROCEDURA PENALE
 
-### CAPO I - MODIFICA ALLE DISPOSIZIONI SULL'ATTRIBUZIONE DEGLI AFFARI PENALI AL
+### CAPO I - MODIFICA ALLE DISPOSIZIONI SULL'ATTRIBUZIONE DEGLI AFFARI PENALI AL TRIBUNALE IN COMPOSIZIONE COLLEGIALE O IN COMPOSIZIONE MONOCRATICA
 
-#### TRIBUNALE IN COMPOSIZIONE COLLEGIALE O IN COMPOSIZIONE MONOCRATICA
-
-##### ART. 10
+#### ART. 10
 
 1\. Gli articoli 33-bis e 33-ter del codice di procedura penale sono sostituiti dai seguenti:
 
@@ -170,11 +166,9 @@ ART. 33-ter. - (Attribuzioni del tribunale in composizione monocratica). - 1. So
 
 2\. Il tribunale giudica in composizione monocratica, altresi', in tutti i casi non previsti dall'articolo 33-bis o da altre disposizioni di legge".
 
-## CAPO II - MODIFICA ALLE DISPOSIZIONI SULL'INCOMPATIBILITA', ASTENSIONE E
+### CAPO II - MODIFICA ALLE DISPOSIZIONI SULL'INCOMPATIBILITA', ASTENSIONE E RICUSAZIONE DEL GIUDICE
 
-### RICUSAZIONE DEL GIUDICE
-
-##### ART. 11
+#### ART. 11
 
 1\. Dopo il comma 2-bis dell'articolo 34 del codice di procedura penale e' aggiunto il seguente:
 
@@ -190,9 +184,9 @@ d) il provvedimento di restituzione nel termine di cui all'articolo 175;
 
 e) il provvedimento che dichiara la latitanza a norma dell'articolo 296".
 
-## CAPO III - CONTROLLO DELLA COMPETENZA NEL CORSO DELLE INDAGINI
+### CAPO III - CONTROLLO DELLA COMPETENZA NEL CORSO DELLE INDAGINI
 
-##### ART. 12
+#### ART. 12
 
 1\. Dopo l'articolo 54-ter del codice di procedura penale e' inserito il seguente:
 
@@ -206,9 +200,9 @@ e) il provvedimento che dichiara la latitanza a norma dell'articolo 296".
 
 5\. Gli atti di indagine preliminare compiuti prima della trasmissione degli atti o della comunicazione del decreto di cui al comma 3 possono essere utilizzati nei casi e nei modi previsti dalla legge".
 
-## CAPO IV - DIFENSORE
+### CAPO IV - DIFENSORE
 
-##### ART. 13
+#### ART. 13
 
 1\. Al comma 1 dell'articolo 100 del codice di procedura penale sono aggiunte, in fine, le parole: "dal difensore o da altra persona abilitata".
 
@@ -220,9 +214,9 @@ e) il provvedimento che dichiara la latitanza a norma dell'articolo 296".
 
 4\. La deposizione ((di cui al comma 3)) si applica anche alle procure conferite prima della data di entrata in vigore della presente legge.
 
-## CAPO V - DIVIETO DI PUBBLICAZIONE DI ATTI E DI IMMAGINI
+### CAPO V - DIVIETO DI PUBBLICAZIONE DI ATTI E DI IMMAGINI
 
-##### ART. 14
+#### ART. 14
 
 1\. La rubrica dell'articolo 114 del codice di procedura penale e' sostituita dalla seguente: "Divieto di pubblicazione di atti e di immagini".
 
@@ -230,9 +224,9 @@ e) il provvedimento che dichiara la latitanza a norma dell'articolo 296".
 
 "6-bis. E' vietata la pubblicazione dell'immagine di persona privata della liberta' personale ripresa mentre la stessa si trova sottoposta all'uso di manette ai polsi ovvero ad altro mezzo di coercizione fisica, salvo che la persona vi consenta".
 
-## CAPO VI - RIPARAZIONE PER L'INGIUSTA DETENZIONE
+### CAPO VI - RIPARAZIONE PER L'INGIUSTA DETENZIONE
 
-##### ART. 15
+#### ART. 15
 
 1\. All'articolo 315 del codice di procedura penale sono apportate le seguenti modificazioni:
 
@@ -246,9 +240,9 @@ b) il comma 2 e' sostituito dal seguente:
 
 2\. Al comma 1 dell'articolo 409 del codice di procedura penale e' aggiunto, in fine, il seguente periodo: "Il provvedimento che dispone l'archiviazione e' notificato alla persona sottoposta alle indagini se nel corso del procedimento e' stata applicata nei suoi confronti la misura della custodia cautelare".
 
-## CAPO VII - INDAGINI PRELIMINARI
+### CAPO VII - INDAGINI PRELIMINARI
 
-##### ART. 16
+#### ART. 16
 
 1\. L'articolo 415 del codice di procedura penale e' sostituito dal seguente: .
 
@@ -260,7 +254,7 @@ b) il comma 2 e' sostituito dal seguente:
 
 4\. Nell'ipotesi di cui all'articolo 107-bis delle norme di attuazione, di coordinamento e transitorie, la richiesta di archiviazione ed il decreto del giudice che accoglie la richiesta sono pronunciati cumulativamente con riferimento agli elenchi trasmessi dagli organi di polizia con l'eventuale indicazione delle denunce che il pubblico ministero o il giudice intendono escludere, rispettivamente dalla richiesta o dal decreto".
 
-##### ART. 17
+#### ART. 17
 
 1\. All'articolo 405, comma 2, ed all'articolo 407, comma 3, del codice di procedura penale, sono premesse le seguenti parole: "Salvo quanto previsto dall'articolo 415-bis".
 
@@ -282,9 +276,9 @@ Se l'indagato chiede di essere sottoposto ad interrogatorio il pubblico minister
 
 3\. All'articolo 416, comma 1 del codice di procedura penale le parole da: "dall'invito" alla fine sono sostituite dalle seguenti: "dall'avviso, previsto dall'articolo 415-bis, nonche' dall'invito a presentarsi per rendere l'interrogatorio ai sensi dell'articolo 375. comma 3, qualora la persona sottoposta alle indagini abbia chiesto di essere sottoposta ad interrogatorio entro il termine di cui all'articolo 415-bis, comma 3".
 
-## CAPO VIII - UDIENZA PRELIMINARE
+### CAPO VIII - UDIENZA PRELIMINARE
 
-##### ART. 18
+#### ART. 18
 
 1\. Al comma 1 dell'articolo 417 del codice di procedura penale, la lettera b) e' sostituita dalla seguente:
 
@@ -292,7 +286,7 @@ Se l'indagato chiede di essere sottoposto ad interrogatorio il pubblico minister
 
 2\. Al comma 1, lettera c), dell'articolo 429 del codice di procedura penale, dopo le parole: "l'enunciazione" sono inserite le seguenti: ",in forma chiara e precisa,".
 
-##### ART. 19
+#### ART. 19
 
 1\. Al comma 1 dell'articolo 418 del codice di procedura penale, la parola: "due" e' sostituita dalla seguente: "cinque".
 
@@ -338,11 +332,11 @@ ART. 420-quinquies. - (Assenza e allontanamento volontario dell'imputato) - 1. L
 
 2\. L'imputato che, dopo essere comparso, si allontana dall'aula di udienza e' considerato presente ed e' rappresentato dal difensore".
 
-##### ART. 20
+#### ART. 20
 
 1\. Al comma 2 dell'articolo 421 del codice di procedura penale, il secondo periodo e' sostituito dal seguente: "L'imputato puo' rendere dichiarazioni spontanee e chiedere di essere sottoposto all'interrogatorio, per il quale si applicano le disposizioni degli articoli 64 e 65".
 
-##### ART. 21
+#### ART. 21
 
 1\. Dopo l'articolo 421 del codice di procedura penale e' inserito il seguente:
 
@@ -352,7 +346,7 @@ Quando non provvede a norma del comma 4 dell'articolo 421, il giudice, se le ind
 
 2\. Il procuratore generale presso la corte d'appello puo' disporre con decreto motivato l'avocazione delle indagini a seguito della comunicazione prevista dal comma 1. Si applica, in quanto compatibile, la disposizione dell'articolo 412, comma 1".
 
-##### ART. 22
+#### ART. 22
 
 1\. L'articolo 422 del codice di procedura penale e' sostituito dal seguente:
 
@@ -364,7 +358,7 @@ Quando non provvede a norma del comma 4 dell'articolo 421, il giudice, se le ind
 
 4\. In ogni caso l'imputato puo' chiedere di essere sottoposto all'interrogatorio, per il quale si applicano le disposizioni degli articoli 64 e 65. Su richiesta di parte, il giudice dispone che l'interrogatorio sia reso nelle forme previste dagli articoli 498 e 499".
 
-##### ART. 23
+#### ART. 23
 
 1\. L'articolo 425 del codice di procedura penale e' sostituito dal seguente:
 
@@ -380,13 +374,13 @@ Quando non provvede a norma del comma 4 dell'articolo 421, il giudice, se le ind
 
 2\. All'articolo 579, comma 1, e all'articolo 680, comma 2, del codice di procedura penale. le parole: "di proscioglimento o di non luogo a procedere" sono sostituite dalle seguenti: "o di proscioglimento".
 
-##### ART. 24
+#### ART. 24
 
 1\. Il comma 4 dell'articolo 429 del codice di procedura penale e' sostituito dal seguente:
 
 "4. Il decreto e' notificato all'imputato contumace all'udienza preliminare".
 
-##### ART. 25
+#### ART. 25
 
 1\. Dopo l'articolo 430 del codice di procedura penale e' inserito il seguente:
 
@@ -394,7 +388,7 @@ Quando non provvede a norma del comma 4 dell'articolo 421, il giudice, se le ind
 
 2\. Il divieto di cui al comma 1 cessa dopo l'assunzione della testimonianza e nei casi in cui questa non sia ammessa o non abbia luogo".
 
-##### ART. 26
+#### ART. 26
 
 1\. L'articolo 431 del codice di procedura penale e' sostituito dal seguente:
 
@@ -418,9 +412,9 @@ h) il corpo del reato e le cose pertinenti al reato, qualora non debbano essere 
 
 2 Le parti possono concordare l'acquisizione al fascicolo per il dibattimento di atti contenuti nel fascicolo del pubblico ministero, nonche' della documentazione relativa all'attivita' di investigazione difensiva".
 
-## CAPO IX - PROCEDIMENTI SPECIALI
+### CAPO IX - PROCEDIMENTI SPECIALI
 
-##### ART. 27
+#### ART. 27
 
 1\. L'articolo 438 del codice di procedura penale e' sostituito dal seguente:
 
@@ -436,11 +430,11 @@ h) il corpo del reato e le cose pertinenti al reato, qualora non debbano essere 
 
 6\. In caso di rigetto ai sensi del comma 5, la richiesta puo' essere riproposta fino al termine previsto dal comma 2".
 
-##### ART. 28
+#### ART. 28
 
 1\. Gli articoli 439 e 440 del codice di procedura penale sono abrogati.
 
-##### ART. 29
+#### ART. 29
 
 1\. L'articolo 441 del codice di procedura penale e' sostituito dal seguente:
 
@@ -456,7 +450,7 @@ h) il corpo del reato e le cose pertinenti al reato, qualora non debbano essere 
 
 6\. All'assunzione delle prove di cui al comma 5 del presente articolo e all'articolo 438, comma 5, si procede nelle firme previste dall'articolo 422, comma 2, 3 e 4".
 
-##### ART. 30
+#### ART. 30
 
 1\. All'articolo 442 del codice di procedura penale sono apportate le seguenti modificazioni:
 
@@ -466,7 +460,7 @@ a) dopo il comma 1 e' inserito il seguente:
 
 b) al comma 2, dopo il primo periodo e' aggiunto il seguente: "Alla pena dell'ergastolo e' sostituita quella della reclusione di anni trenta".
 
-##### ART. 31
+#### ART. 31
 
 1\. All'articolo 443 del codice di procedura penale sono apportate le seguenti modificazioni:
 
@@ -476,13 +470,13 @@ a) il comma 1 e' sostituito dal seguente:
 
 b) il comma 2 e' abrogato.
 
-##### ART. 32
+#### ART. 32
 
 1\. Il comma 2 dell'articolo 444 del codice di procedura penale e' sostituito dal seguente:
 
 "2. Se vi e' il consenso anche della parte che non ha formulato la richiesta e non deve essere pronunciata sentenza di proscioglimento a norma dell'articolo 129, il giudice, sulla base degli atti, se ritiene corrette la qualificazione giuridica del fatto, l'applicazione e la comparazione delle circostanze prospettate dalle parti, nonche' congrua la pena indicata, ne dispone con sentenza l'applicazione enunciando nel dispositivo che vi e' stata la richiesta delle parti. Se vi e' costituzione di parte civile, il giudice non decide sulla relativa domanda; l'imputato e' tuttavia condannato al pagamento delle spese sostenute dalla parte civile, salvo che ricorrano giusti motivi per la compensazione totale o parziale. Non si applica la disposizione dell'articolo 75, comma 3".
 
-##### ART. 33
+#### ART. 33
 
 1\. All'articolo 446 del codice di procedura penale sono apportate le seguenti modificazioni:
 
@@ -496,7 +490,7 @@ b) il comma 4 e' sostituito dal seguente:
 
 "4. Il consenso sulla richiesta puo' essere dato entro i termini previsti dal comma 1, anche se in precedenza era stato negato".
 
-##### ART. 34
+#### ART. 34
 
 1\. Il comma 1 dell'articolo 448 del codice di procedura penale e' sostituito dal seguente:
 
@@ -504,13 +498,13 @@ b) il comma 4 e' sostituito dal seguente:
 
 Nello stesso modo il giudice provvede dopo la chiusura del dibattimento di primo grado o nel giudizio di impugnazione quando ritiene ingiustificato il dissenso del pubblico ministero o il rigetto della richiesta".
 
-##### ART. 35
+#### ART. 35
 
 1\. Il comma 2 dell'articolo 452 del codice di procedura penale e' sostituito dal seguente:
 
 "2. Se l'imputato chiede il giudizio abbreviato, il giudice, prima che sia dichiarato aperto il dibattimento, dispone con ordinanza la prosecuzione del giudizio con il rito abbreviato. Si applicano le disposizioni degli articoli 438, commi 3 e 5, 441, 442 e 443".
 
-##### ART. 36
+#### ART. 36
 
 1\. All'articolo 458 del codice di procedura penale sono apportate le seguenti modificazioni:
 
@@ -518,7 +512,7 @@ a) al comma 1 l'ultimo periodo e' soppresso;
 
 b) al comma 2 le parole: "e il pubblico ministero ha espresso il proprio consenso" sono soppresse e dopo le parole: "previste dagli articoli", sono inserite le seguenti: "438, commi 3 e 5,".
 
-##### ART. 37
+#### ART. 37
 
 1\. L'articolo 459 del codice di procedura penale e' sostituito dal seguente:
 
@@ -550,9 +544,9 @@ b) il comma 5 e' sostituito dal seguente:
 
 5\. Alla lettera a) del comma 2 dell'articolo 689 del codice di procedura penale, al numero 5) dopo le parole: "su richiesta dell'imputato," sono aggiunte le seguenti: "nonche' dei decreti penali".
 
-## CAPO X - MODIFICHE ALLE DISPOSIZIONI SUL GIUDIZIO
+### CAPO X - MODIFICHE ALLE DISPOSIZIONI SUL GIUDIZIO
 
-##### ART. 38
+#### ART. 38
 
 1\. Al comma 1 dell'articolo 468 del codice di procedura penale, dopo le parole: "consulenti tecnici" sono inserite le seguenti: "nonche' delle persone indicate nell'articolo 210".
 
@@ -560,7 +554,7 @@ b) il comma 5 e' sostituito dal seguente:
 
 "2. Il presidente del tribunale o della corte di assise, quando ne sia fatta richiesta, autorizza con decreto la citazione dei testimoni, periti o consulenti tecnici nonche' delle persone indicate nell'articolo 210, escludendo le testimonianze vietate dalla legge e quelle manifestamente sovrabbondanti. Il presidente puo' stabilire che la citazione dei testimoni, periti o consulenti tecnici nonche' delle persone indicate nell'articolo 210 sia effettuata per la data fissata per il dibattimento ovvero per altre successive udienze nelle quali ne sia previsto l'esame. In ogni caso, il provvedimento non pregiudica la decisione sull'ammissibilita' della prova a norma dell'articolo 495".
 
-##### ART. 39
+#### ART. 39
 
 1\. All'articolo 484 del codice di procedura penale, dopo il comma 2 e' aggiunto il seguente:
 
@@ -568,7 +562,7 @@ b) il comma 5 e' sostituito dal seguente:
 
 2\. Gli articoli 485, 486, 487 e 488 del codice di procedura penale sono abrogati.
 
-##### ART. 40
+#### ART. 40
 
 1\. L'articolo 493 del codice di procedura penale e' sostituito dal seguente:
 
@@ -580,29 +574,27 @@ b) il comma 5 e' sostituito dal seguente:
 
 4\. Il presidente impedisce ogni divagazione, ripetizione e interruzione e ogni lettura o esposizione del contenuto degli atti compiuti durante le indagini preliminari".
 
-##### ART. 41
+#### ART. 41
 
 1\. Il comma 2 dell'articolo 506 del codice di procedura penale e' sostituito dal seguente:
 
 "2. Il presidente, anche su richiesta di altro componente del collegio, puo' rivolgere domande ai testimoni, ai periti, ai consulenti tecnici, alle persone indicate nell'articolo 210 ed alle parti gia' esaminate, solo dopo l'esame e il controesame. Resta salvo il diritto delle parti di concludere l'esame secondo l'ordine indicato negli articoli 498, commi 1 e 2, e 503, comma 2".
 
-##### ART. 42
+#### ART. 42
 
 1\. Dopo il comma 1 dell'articolo 507 del codice di procedura penale e' aggiunto il seguente:
 
 "1-bis. Il giudice puo' disporre a norma del comma 1 anche l'assunzione di mezzi di prova relativi agli atti acquisiti al fascicolo per il dibattimento a norma degli articoli 431, comma 2, e 493, comma 3".
 
-##### ART. 43
+#### ART. 43
 
 1\. L'articolo 512-bis del codice di procedura penale e' sostituito dal seguente:
 
 "ART. 512-bis. (Lettura di dichiarazioni rese da persona residente all'estero). - 1. Il giudice, a richiesta di parte, puo' disporre, tenuto conto degli altri elementi di prova acquisiti, che sia data lettura dei verbali di dichiarazioni rese da persona residente all'estero anche a seguito di rogatoria internazionale se essa, essendo stata citata, non e' comparsa e solo nel caso in cui non ne sia assolutamente possibile l'esame dibattimentale".
 
-## CAPO XI - DISPOSIZIONI SUL PROCEDIMENTO DAVANTI AL TRIBUNALE IN COMPOSIZIONE
+### CAPO XI - DISPOSIZIONI SUL PROCEDIMENTO DAVANTI AL TRIBUNALE IN COMPOSIZIONE MONOCRATICA
 
-### MONOCRATICA
-
-##### ART. 44
+#### ART. 44
 
 1\. Il libro ottavo del codice di procedura penale e' sostituito dal seguente:
 
@@ -726,23 +718,21 @@ ART. 559. - (Dibattimento) - 1. Il dibattimento si svolge secondo le norme stabi
 
 4\. In caso di impedimento del giudice, la sentenza e' sottoscritta dal presidente del tribunale previa menzione della causa della sostituzione".
 
-## CAPO XII - DISPOSIZIONI IN MATERIA DI OPPOSIZIONE AL DECRETO PENALE DI
+### CAPO XII - DISPOSIZIONI IN MATERIA DI OPPOSIZIONE AL DECRETO PENALE DI CONDANNA E DI IMPUGNAZIONI
 
-### CONDANNA E DI IMPUGNAZIONI
-
-##### ART. 45
+#### ART. 45
 
 1\. All'articolo 461, comma 1, del codice di procedura penale, dopo le parole: "nella cancelleria del tribunale" sono inserite le seguenti: "o del giudice di pace".
 
 2\. All'articolo 582, comma 2, del codice di procedura penale, dopo le parole: "nella cancelleria del tribunale" sono inserite le seguenti: "o del giudice di pace".
 
-##### ART. 46
+#### ART. 46
 
 1\. All'articolo 571, comma 3, del codice di procedura penale, sono soppresse le parole da: "Tuttavia" sino alla fine.
 
-## CAPO XIII - DISPOSIZIONI ABROGATIVE, DI ATTUAZIONE E DI COORDINAMENTO
+### CAPO XIII - DISPOSIZIONI ABROGATIVE, DI ATTUAZIONE E DI COORDINAMENTO
 
-##### ART. 47
+#### ART. 47
 
 1\. L'articolo 33-sexies del codice di procedura penale, introdotto dall'articolo 170. del decreto legislativo 19 febbraio 1998, n. 5 1, e' sostituito dal seguente:
 
@@ -774,7 +764,7 @@ ART. 559. - (Dibattimento) - 1. Il dibattimento si svolge secondo le norme stabi
 
 "1. Se, in seguito ad una diversa definizione giuridica o alle contestazioni previste dagli articoli 516, commi 1-bis e 1-ter, 517, comma 1-bis e 518, il reato risulta tra quelli attribuiti alla cognizione del tribunale per cui e' prevista l'udienza preliminare e questa non si e' tenuta, il giudice dispone con ordinanza la trasmissione degli atti al pubblico ministero".
 
-##### ART. 48
+#### ART. 48
 
 1\. Dopo l'articolo 4 delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, approvate con decreto legislativo 28 luglio 1989, n. 271, e' inserito il seguente:
 
@@ -782,31 +772,31 @@ ART. 559. - (Dibattimento) - 1. Il dibattimento si svolge secondo le norme stabi
 
 2\. Ai fini della determinazione dell'ufficio del pubblico ministero che deve procedere, il procuratore generale presso la corte di appello o presso la Corte di cassazione, verificata l'ammissibilita' della richiesta, puo' richiedere la trasmissione di copia degli atti del procedimento".
 
-##### ART. 49
+#### ART. 49
 
 1\. Al comma 1 dell'articolo 23 delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, approvate con decreto legislativo 28 luglio 1989, n. 271, le parole: "a norma dell'articolo 420 comma 4" sono sostituite dalle seguenti: "a norma degli articoli 420-bis e 420-ter".
 
 2\. Al comma 1 dell'articolo 31 delle disposizioni sul processo penale a carico di imputati minorenni approvate con decreto del Presidente della Repubblica 22 settembre 1988, n. 448, e successive modificazioni, le parole: "dall'articolo 420, comma 4" sono sostituite dalle seguenti: "dagli articoli 420-bis e 420-ter".
 
-##### ART. 50
+#### ART. 50
 
 1\. Dopo l'articolo 107 delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, approvate con decreto legislativo 28 luglio 1989, n. 271, e' inserito il seguente:
 
 "ART. 107-bis. - (Denunce a carico di ignoti) - 1. Le denunce a carico di ignoti sono trasmesse all'ufficio di procura competente da parte degli organi di polizia, unitamente agli eventuali atti di indagine svolti per la identificazione degli autori del reato, con elenchi mensili".
 
-##### ART. 51
+#### ART. 51
 
 1\. Agli articoli 123, comma 1, e 163, comma 1, delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, approvate con decreto legislativo 28 luglio 1989, n. 271, la parola: "566 " e' sostituita dalla seguente: "558".
 
 2\. All'articolo, 12-bis, comma 1, del decreto-legge 8 giugno 1992, n. 306, convertito, con modificazioni, dalla legge 7 agosto 1992, n. 356, la parola: "566" e' sostituita dalla seguente: "558".
 
-##### ART. 52
+#### ART. 52
 
 1\. L'articolo 135 delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, approvate con decreto legislativo 28 luglio 1989, n. 271, e' sostituito dal seguente:
 
 "ART. 135.(Decisione nel giudizio sulla richiesta di applicazione della pena) - 1. Il giudice, per decidere sulla richiesta di applicazione della pena rinnovata prima della dichiarazione di apertura del dibattimento di primo grado, ordina l'esibizione degli atti contenuti nel fascicolo del pubblico ministero. Se la richiesta e' accolta, gli atti esibiti vengono inseriti nel fascicolo per il dibattimento; altrimenti gli atti sono immediatamente restituiti al pubblico ministero".
 
-##### ART. 53
+#### ART. 53
 
 1\. All'articolo 141 delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, approvate con decreto legislativo 28 luglio 1989, n. 271, sono apportate le seguenti modificazioni:
 
@@ -818,23 +808,23 @@ c) dopo il comma 4, e' aggiunto il seguente:
 
 "4-bis. In caso di modifica dell'originaria imputazione in altra per la quale sia ammissibile l'oblazione, l'imputato e' rimesso in termini per chiedere la medesima. Il giudice, se accoglie la domanda, fissa un termine non superiore a dieci giorni, per il pagamento della somma dovuta. Se il pagamento avviene nel termine il giudice dichiara con sentenza l'estinzione del reato".
 
-##### ART. 54
+#### ART. 54
 
 1\. Gli articoli 155, 156, 158, 160, comma 2, e 161 delle norme di attuazione, di coordinamento e transitorie del codice di' procedura penale, approvate con decreto legislativo 28 luglio 1989, n.271, sono abrogati.
 
-##### ART. 55
+#### ART. 55
 
 1\. Il comma 2 dell'articolo 159 delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, approvate con decreto legislativo 28 luglio 1989, n. 271, e' sostituito dal seguente:
 
 "2. Il pubblico ministero, nel decreto di citazione a giudizio, puo' manifestare il proprio consenso all'applicazione della pena su richiesta, indicando gli elementi previsti dall'articolo 444, comma" 1, del codice".
 
-##### ART. 56
+#### ART. 56
 
 1\. Al comma 1 dell'articolo 223 del decreto legislativo 19 febbraio 1998, n. 51, le parole: "acquisito il consenso del pubblico ministero," sono soppresse.
 
 ## Titolo IV - MODIFICHE ALL'ORDINAMENTO GIUDIZIARIO
 
-##### Art. 57
+#### Art. 57
 
 1\. All'articolo 7-bis dell'ordinamento giudiziario, approvato con regio decreto 30 gennaio 1941, n. 12, e successive modificazioni, dopo il comma 2 sono inseriti i seguenti:
 
@@ -850,13 +840,13 @@ c) dopo il comma 4, e' aggiunto il seguente:
 
 3\. Per i giudici che svolgono le funzioni di giudice incaricato dei provvedimenti previsti per la fase delle indagini preliminari o di giudice dell'udienza preliminare i ((dieci anni)) decorrono dalla data di entrata in vigore della presente legge.
 
-##### ART. 58
+#### ART. 58
 
 1\. Al terzo comma dell'articolo 72 dell'ordinamento giudiziario, approvato con regio decreto 30 gennaio 1941, n. 12, e successive modificazioni, le parole: "reati per i quali la legge stabilisce una pena detentiva superiore a quattro anni di reclusione, determinata a norma dell'articolo 4 del codice di procedura penale" sono sostituite dalle seguenti: "reati diversi da quelli per cui si procede con citazione diretta a giudizio previsto dall'articolo 550 del codice di procedura penale".
 
 ## Titolo V - DISPOSIZIONI FINANZIARIE
 
-##### ART. 59
+#### ART. 59
 
 1\. Agli oneri derivanti dall'applicazione della presente legge, valutati in complessive lire 13.921 milioni per l'anno 1999 e lire 27.842 milioni a decorrere dall'anno 2000 si provvede mediante corrispondente riduzione dello stanziamento iscritto ai fini del bilancio triennale 1999-2001, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 1999, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero di grazia e giustizia.
 

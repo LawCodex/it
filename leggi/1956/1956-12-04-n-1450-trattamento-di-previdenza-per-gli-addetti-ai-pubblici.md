@@ -28,17 +28,15 @@ la seguente legge:
 
 ## TITOLO I - COSTITUZIONE DEL FONDO
 
-### CAPO PRIMO.
+### CAPO PRIMO. - Natura e organizzazione del Fondo.
 
-#### Natura e organizzazione del Fondo.
-
-##### Art. 1
+#### Art. 1
 
 Il "Fondo per le pensioni ai personale addetto ai pubblici servizi di telefonia", istituito, in applicazione dell'art. 7 della legge 30 settembre 1920, n. 1405, presso l'Istituto nazionale della previdenza sociale, costituisce una gestione dell'Istituto stesso.
 
 Il trattamento previdenziale garantito dal Fondo e' sostitutivo dell'assicurazione obbligatoria, per l'invalidita', la vecchiaia e i superstiti, disciplinata dal regio decreto-legge 4 ottobre 1935, n. 1827, convertito, con modificazioni, nella legge 6 aprile 1936, n. 1155, e dalle successive disposizioni.
 
-##### Art. 2
+#### Art. 2
 
 ((COMMA ABROGATO DALLA L. 22 ottobre 1973, n. 672)).
 
@@ -48,7 +46,7 @@ L'Istituto nazionale della previdenza sociale accredita al Fondo gli interessi m
 
 L'Istituto nazionale della previdenza sociale provvede inoltre ogni cinque anni alla compilazione del bilancio tecnico del Fondo.
 
-##### Art. 3
+#### Art. 3
 
 Per la gestione del Fondo e' istituito un Comitato di vigilanza con i seguenti compiti:
 
@@ -62,7 +60,7 @@ d) esprimere parere sulla determinazione delle aliquote contributive.
 
 ((e) esprimere pareri sulla determinazione della misura di adeguamento delle pensioni all'incremento dell'indice del costo della vita)).
 
-##### Art. 4
+#### Art. 4
 
 Il Comitato di vigilanza e' composto dai seguenti membri:
 
@@ -80,9 +78,9 @@ Il Comitato di vigilanza e' composto dai seguenti membri:
 
 I membri di cui ai numeri 1), 2) e 6) fanno parte di diritto del Comitato ed hanno facolta' di farsi sostituire da un proprio rappresentante. Gli altri membri sono nominati per un quadriennio con decreto del. Ministro per il lavoro e la previdenza sociale, su designazione, per quanto concerne i membri indicati ai numeri 4) e 5), delle associazioni sindacali di categoria, a base nazionale.
 
-## CAPO SECONDO - Obbligo d'iscrizione al Fondo e scopi della gestione
+### CAPO SECONDO - Obbligo d'iscrizione al Fondo e scopi della gestione
 
-##### Art. 5
+#### Art. 5
 
 Sono obbligatoriamente iscritti al Fondo tutti i dipendenti dalle societa' concessionarie dei pubblici servizi di telefonia e dalla Societa' Italcable, ivi compresi il personale supplente di commutazione ed i dirigenti.
 
@@ -102,7 +100,7 @@ AGGIORNAMENTO (1)
 
 La L. 11 dicembre 1962, n. 1790 ha disposto (con l'art. 4 comma 1) che "A decorrere dalla data di entrata in vigore della presente legge, e salvo quanto previsto al successivo articolo 5, tutti i dipendenti, compresi i dirigenti, dalle societa' che esercitano il controllo ed il coordinamento tecnico, amministrativo e finanziario delle societa' concessionarie dei pubblici servizi di telefonia e dalle associazioni costituite tra le stesse societa' concessionarie per la tutela e la rappresentanza dei loro interessi economici e sindacali, sono soggetti all'obbligo dell'iscrizione al Fondo per le pensioni al personale addetto ai pubblici servizi di telefonia alle condizioni e con le esclusioni di cui all'articolo 5, comma secondo e terzo, della legge 4 dicembre 1956, n. 1450."; ha inoltre disposto (con l'art. 4 comma 2) che "Le disposizioni di cui al precedente comma integrano a tutti gli effetti, quelle contenute nell'articolo 5 della legge 4 dicembre 1956, n. 1450."
 
-##### Art. 6
+#### Art. 6
 
 Scopo del Fondo e' quello di provvedere alla liquidazione:
 
@@ -112,11 +110,9 @@ b) a favore dei superstiti di iscritto o di pensionato, di una pensione indirett
 
 ## TITOLO II - CONTRIBUZIONE AL FONDO
 
-### CAPO PRIMO
+### CAPO PRIMO - Contribuzione obbligatoria
 
-#### Contribuzione obbligatoria
-
-##### Art. 7
+#### Art. 7
 
 Si provvede al finanziamento del Fondo con un contributo stabilito in una percentuale della retribuzione indicata nel successivo art. 9; esso e' a carico dei datori di lavoro e dei lavoratori.
 
@@ -126,7 +122,7 @@ L'azienda risponde del pagamento del contributo anche per la parte a carico del 
 
 Le modalita' di versamento sono determinate dall'istituto nazionale della previdenza sociale.
 
-##### Art. 8
+#### Art. 8
 
 A decorrere dal 1 gennaio 1953, il contributo e' stabilito in ragione del 17 per cento della retribuzione ed e' posto per 3/4 a carico dei datori di lavoro e per 1/4 a carico dei lavoratori. ((2)) ((Le aliquote contributive possono essere variate in relazione al fabbisogno del Fondo ed alle risultanze di gestione, mediante decreto del Presidente della Repubblica, su proposta del Ministro per il lavoro e la previdenza sociale, di concerto con il Ministro per il tesoro, sentito il Comitato di vigilanza di cui all'articolo 3 della legge 4 dicembre 1956, n. 1450)).
 
@@ -142,7 +138,7 @@ AGGIORNAMENTO (2)
 
 La L. 13 luglio 1967, n. 583 ha disposto (con l'art. 12, comma 2) che "Con effetto a partire dal 1 gennaio 1965, sono abrogate le norme relative alla ripartizione del contributo tra datori di lavoro e lavoratori, contenute nell'articolo 8, primo comma, della legge 4 dicembre 1956, n. 1450 [...]".
 
-##### Art. 9
+#### Art. 9
 
 ((Ai fini della commisurazione del contributo, la retribuzione si considera esclusivamente composta dagli elementi seguenti:
 
@@ -166,9 +162,9 @@ AGGIORNAMENTO (3)
 
 La L. 22 ottobre 1973, n. 672 ha disposto (con l'art. 2) che "A decorrere dal 1 gennaio 1971, l'articolo 9 della legge 4 dicembre 1956, n. 1450, gia' modificato dall'articolo 14 della legge 13 luglio 1967, n. 583, e' sostituito dal seguente".
 
-## CAPO SECONDO - Periodi riscattabili, contribuzione figurativa e volontaria
+### CAPO SECONDO - Periodi riscattabili, contribuzione figurativa e volontaria
 
-##### Art. 10
+#### Art. 10
 
 Coloro che conseguono la iscrizione ai Fondo dopo l'entrata in vigore della presente legge hanno facolta' di riscattare, fino ad un massimo di anni dodici e mesi sei complessivi:
 
@@ -198,7 +194,7 @@ AGGIORNAMENTO (1)
 
 La L. 11 dicembre 1962, n. 1790 ha disposto (con l'art. 6 comma 1) che "La facolta' di riscatto, prevista per i dipendenti da societa' telefoniche dall'articolo 10 della legge 4 dicembre 1956, n. 1450, e' estesa nei limiti, con le modalita' e con le condizioni stabiliti dall'articolo stesso, anche a coloro che conseguono l'iscrizione al Fondo ai sensi dell'articolo 4 della presente legge."; ha inoltre disposto (con l'art. 6 comma 2) che "La disposizione di cui al precedente comma integra, a tutti gli effetti, quelle contenute nell'articolo 10 della legge 4 dicembre 1956, n. 1450."
 
-##### Art. 11
+#### Art. 11
 
 Sono considerati come periodi di iscrizione al Fondo quelli che, a decorrere dalla data di entrata in vigore della presente legge e successivamente all'iscrizione stessa, rimangano scoperti di contributo e per i quali l'iscritto, in dipendenza di propria assicurazione obbligatoria per la tubercolosi, sia ricoverato in luogo di cura o abbia diritto a percepire l'indennita' post-sanatoriale a carico dell'assicurazione medesima.
 
@@ -206,7 +202,7 @@ In relazione ai periodi riconosciuti ai sensi del primo comma e' computato un co
 
 Per la copertura dell'onere relativo, e' annualmente trasferita al Fondo, dalla gestione dell'assicurazione per la tubercolosi, una quota parte della somma determinata dal Consiglio di amministrazione in applicazione dei commi terzo e quinto dell'art. 4 della legge 4 aprile 1952, n. 218, secondo i criteri di riparto adottati in materia dal Consiglio medesimo.
 
-##### Art. 12
+#### Art. 12
 
 In caso di risoluzione del rapporto di lavoro con le aziende, di cui all'art. 5, senza diritto a pensione, l'iscritto ha facolta' di conservare la sua iscrizione al Fondo purche' ne faccia domanda entro il termine perentorio di un anno dalla data di cessazione dal servizio e sempre che soddisfi alle condizioni seguenti:
 
@@ -220,7 +216,7 @@ L'iscritto che alla cessazione dal servizio abbia compiuto almeno quindici anni 
 
 ((L'iscritto puo' chiedere che l'ammontare del contributo volontario sia stabilito in misura corrispondente al 25 per cento, o al 50 per cento, o al 75 per cento di quello che egli dovrebbe corrispondere a norma della precedente lettera c). Qualora si faccia luogo alla riduzione del contributo volontario, il periodo di contribuzione volontaria viene valutato, ai fini del diritto a pensione, rispettivamente 1/4, 1/2 o 3/4 del periodo di tempo per cui risulta versato il contributo; mentre ai fini della misura della pensione si considera in ogni caso la retribuzione corrispondente all'intero contributo)).
 
-##### Art. 13
+#### Art. 13
 
 L'efficacia dell'autorizzazione ai versamenti volontari, previsti dall'articolo precedente, e' sospesa di diritto dal momento in cui l'iscritto non soddisfi alla condizione indicata nella lettera b) dell'articolo stesso.
 
@@ -234,7 +230,7 @@ Decade dal diritto ad effettuare versamenti volontari l'iscritto che:
 
 I contributi volontari comunque versati al Fondo in contrasto con le norme contenute nell'articolo precedente e con quelle di cui al presente articolo sono restituiti senza interessi all'iscritto, o ai suoi aventi causa, all'atto della liquidazione di prestazioni a norma della presente legge.
 
-##### Art. 14
+#### Art. 14
 
 ((In caso di assenza dal lavoro, senza diritto a retribuzione o con retribuzione ridotta, l'iscritto, entro il termine massimo del 31 marzo dell'anno successivo a quello nel quale abbia ripreso servizio e comunque non oltre la data dell'eventuale liquidazione della pensione, puo' chiedere di versare, per tutta o parte della assenza stessa, il contributo o la quota di contributo che sarebbe stato per lui corrisposto qualora fosse stato presente al lavoro.
 
@@ -248,7 +244,7 @@ Gli iscritti al Fondo possono ottenere il riscatto dei periodi di apprendistato 
 
 Per ottenere il riscatto i richiedenti debbono versare la differenza fra il contributo dovuto al Fondo sulla retribuzione percepita al momento della domanda e quello stabilito dalla legge 19 gennaio 1955, n. 25, per l'assicurazione invalidita', vecchiaia e superstiti. I contributi versati nella predetta assicurazione per i periodi riscattati sono dalla assicurazione stessa trasferiti al Fondo.
 
-##### Art. 15
+#### Art. 15
 
 Sono utili a tutti gli effetti come periodi d'iscrizione al Fondo quelli per i quali siano stati eseguiti versamenti volontari a norma dell'art. 12 e dell'art. 14, commi primo, secondo e terzo, o per i quali sia stato effettuato il riscatto a norma dell'art. 10 e dell'art. 14, ultimo comma.
 
@@ -266,11 +262,9 @@ Non sono considerati come periodi di iscrizione al Fondo quelli di assenza dal l
 
 ## TITOLO III - PRESTAZIONI
 
-### CAPO PRIMO
+### CAPO PRIMO - Prestazioni agli iscritti
 
-#### Prestazioni agli iscritti
-
-##### Art. 16
+#### Art. 16
 
 Hanno diritto alla pensione gli iscritti al Fondo che cessino di prestare servizio alle dipendenze dei datori di lavoro indicati all'art. 5 e che:
 
@@ -288,11 +282,11 @@ AGGIORNAMENTO (4)
 
 La Corte Costituzionale con sentenza 11 - 18 giugno 1986 n. 137 (in G.U. 1a s.s. 25.06.1986 n. 30) ha dichiarato illegittimita' costituzionale del presente articolo nella parte in cui prevede il conseguimento della pensione di vecchiaia e, quindi, il licenziamento della donna lavoratrice per detto motivo, al compimento del cinquantacinquesimo anno d'eta' anziche' al compimento del sessantesimo anno come per l'uomo.
 
-##### Art. 17
+#### Art. 17
 
 ((ARTICOLO ABROGATO DALLA L. 22 OTTOBRE 1973, N. 672))
 
-##### Art. 18
+#### Art. 18
 
 ((I lavoratori cessati dal servizio hanno titolo alla anticipata liquidazione della pensione per vecchiaia quando, all'atto della risoluzione del rapporto di lavoro, risultino soddisfatte le condizioni seguenti:
 
@@ -304,11 +298,11 @@ c) la cessazione dall'servizio non sia avvenuta per dimissioni, per motivi disci
 
 Nel caso di cui al comma precedente l'azienda e' tenuta a versare al Fondo, a proprio totale carico, il valore attuale del maggiore onere derivante dall'anticipata liquidazione della pensione per vecchiaia)).
 
-##### Art. 19
+#### Art. 19
 
 ((ARTICOLO ABROGATO DAL D. LGS. 4 DICEMBRE 1996, N. 658))
 
-##### Art. 20
+#### Art. 20
 
 La pensione annua diretta e' uguale a tanti quarantesimi della retribuzione di cui all'art. 9, corrisposta all'iscritto per gli ultimi dodici mesi di servizio, e in base alla quale e' stato versato il contributo, per quanti sono gli anni di iscrizione al Fondo.
 
@@ -342,7 +336,7 @@ AGGIORNAMENTO (3)
 
 La L. 22 ottobre 1973, n. 672 ha disposto (con l'art. 13 comma 1) che "A decorrere dal 1 gennaio 1971, la misura della percentuale di maggiorazione della retribuzione media soggetta a contributo degli ultimi tre anni di effettivo servizio di cui all'articolo 20, secondo comma, della legge 4 dicembre 1956, n. 1450, e' elevata dal 10 al 12 per cento."; ha inoltre disposto (con l'art. 13, comma 2) che la sostituzione dei commi 4 e 5 del presente articolo decorre dal 1 gennaio 1971.
 
-##### Art. 21
+#### Art. 21
 
 La pensione per vecchiaia decorre dal primo giorno del mese successivo a quello in cui risultano raggiunti i requisiti di cui all'art. 16. La pensione per invalidita' decorre dal primo giorno del mese successivo a quello di presentazione della domanda o di cessazione dal servizio, se posteriore.
 
@@ -350,9 +344,9 @@ La quota di maggiorazione per il figlio invalido, qualora la richiesta relativa 
 
 La quota di maggiorazione per il figlio nato dopo la data di decorrenza della pensione spetta dal primo giorno del mese successivo a quello della nascita.
 
-## CAPO SECONDO - Prestazioni ai superstiti
+### CAPO SECONDO - Prestazioni ai superstiti
 
-##### Art. 22
+#### Art. 22
 
 Nel caso di morte del pensionato, o di iscritto che sia deceduto dopo almeno cinque anni di iscrizione o per causa di servizio, il coniuge, i figli e i genitori hanno diritto ad una pensione quando sussistano, alla data della morte, le seguenti condizioni:
 
@@ -390,7 +384,7 @@ AGGIORNAMENTO (5)
 
 La Corte Costituzionale con sentenza 19 - 27 luglio 1989 n. 450 (in G.U. 1a s.s. 02.08.1989 n. 31) ha dichiarato l'illegittimita' costituzionale dell'art. 22, primo comma, n. 1, della presente legge nella parte in cui in cui esclude dal diritto a pensione di riversibilita' anche il coniuge superstite separato per sua colpa, o al quale la separazione e' stata addebitata, con sentenza passata in giudicato, che aveva diritto agli alimenti verso il coniuge deceduto.
 
-##### Art. 23
+#### Art. 23
 
 Cessa il diritto alla pensione:
 
@@ -410,7 +404,7 @@ AGGIORNAMENTO (7)
 
 La Corte Costituzionale con sentenza 5 - 6 maggio 1997 n. 118 (in G.U. 1a s.s. 14.05.1997 n. 20) ha dichiarato "l'illegittimita' costituzionale dell'art. 23, lettera a), della legge 4 dicembre 1956, n. 1450 (Trattamento di previdenza per gli addetti ai pubblici servizi di telefonia in concessione), limitatamente alle parole "e per le figlie"."
 
-##### Art. 24
+#### Art. 24
 
 Ai superstiti indicati nell'articolo 22 spetta una pensione pari alle seguenti aliquote di quella gia' liquidata al pensionato, o che sarebbe spettata all'iscritto, escluse le maggiorazioni per i figli:
 
@@ -446,21 +440,19 @@ AGGIORNAMENTO (3)
 
 La L. 22 ottobre 1973, n. 672 ha disposto (con l'art. 6) che la modifica del quinto comma del presente articolo decorre dal 1 gennaio 1971.
 
-##### Art. 25
+#### Art. 25
 
 La pensione ai superstiti decorre dal primo giorno del mese successivo a quello della morte dell'iscritto o del pensionato.
 
 Nel caso di nascita di figlio postumo, l'aliquota di pensione a lui spettante decorre dal primo giorno del mese successivo a quello, della nascita.
 
-##### Art. 26
+#### Art. 26
 
 ((Nel caso in cui un iscritto muoia prima che abbia raggiunto i cinque anni di contribuzione al Fondo, senza che la morte sia riconosciuta derivante da causa di servizio, e sempre che sussistano alla data della morte, per i singoli superstiti, le condizioni indicate ai numeri 1), 2), 3) e 4) dell'articolo 22, spetta al coniuge e, ove manchi il coniuge, ai figli, oppure, ove manchino i figli, ai genitori, il rimborso senza interessi dell'importo dei contributi versati al Fondo, dedotto l'ammontare delle contribuzioni dovute per l'assicurazione generale obbligatoria per l'invalidita', la vecchiaia e i superstiti, in conformita' di quanto e' stabilito col successivo articolo 28)).
 
-## TITOLO IV - NORME DI COORDINAMENTO CON L'ASSICURAZIONE OBBLIGATORIA PER
+## TITOLO IV - NORME DI COORDINAMENTO CON L'ASSICURAZIONE OBBLIGATORIA PER L'INVALIDITA', LA VECCHIAIA E I SUPERSTITI
 
-### L'INVALIDITA', LA VECCHIAIA E I SUPERSTITI
-
-##### Art. 27
+#### Art. 27
 
 L'iscrizione al Fondo e l'assicurazione obbligatoria per l'invalidita', la vecchiaia e i superstiti non possono in nessun caso coesistere per gli stessi periodi di tempo e per uno stesso rapporto di lavoro, tanto per effetto di contribuzione obbligatoria, quanto per effetto di versamenti volontari.
 
@@ -468,7 +460,7 @@ L'iscritto, qualora sia in servizio presso le aziende di cui all'art. 5, non puo
 
 Tale autorizzazione, se in corso alla data di assunzione in servizio presso le aziende predette, si intende automaticamente revocata a decorrere dalla data stessa.
 
-##### Art. 28
+#### Art. 28
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MAGGIO 2010, N. 78, CONVERTITO, CON MODIFICAZIONI, DALLA L. 30 LUGLIO 2010, N. 122)) ((8))
 
@@ -478,7 +470,7 @@ AGGIORNAMENTO (8)
 
 Il D.L. 31 maggio 2010, n. 78, convertito, con modificazioni, dalla L. 30 luglio 2010, n. 122 ha disposto (con l'art. 12, comma 12-novies) che "E' fatta salva l'applicazione dell'articolo 28 della legge n. 1450 del 1956 nei casi in cui le condizioni per il trasferimento d'ufficio o a domanda si siano verificate in epoca antecedente al l luglio 2010."
 
-##### Art. 29
+#### Art. 29
 
 ((In caso di anticipata liquidazione della pensione per vecchiaia, all'iscritto in favore del quale risultino contributi debitamente versati o accreditati nell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia e i superstiti, e' anche dovuto a carico del Fondo e con la medesima decorrenza della pensione per vecchiaia, un supplemento di pensione, ch'e' calcolato, quale che sia il numero dei contributi versati o accreditati, con i medesimi criteri indicati, per la determinazione della misura della pensione supplementare a carico dell'assicurazione predetta, dall'articolo 5 della legge 12 agosto 1962, n. 1338, e successive modificazioni ed integrazioni.
 
@@ -486,7 +478,7 @@ Il supplemento di pensione di cui al precedente comma non e' reversibile ai supe
 
 ## TITOLO V - NORME TRANSITORIE
 
-##### Art. 30
+#### Art. 30
 
 La misura annua delle pensioni dirette liquidate con decorrenza anteriore al 1948 ai sensi del regolamento approvato con il regio decreto 24 luglio 1931, n. 1098, modificato con il decreto legislativo 23 marzo 1946, n. 305, per il periodo compreso fra il 1 gennaio 1948 e il 31 dicembre 1952, e' uguale al prodotto della pensione originaria per i seguenti coefficienti, fermo restando il trattamento minimo di lire 84.000 annue di cui all'art. 4, comma secondo, della, legge 7 dicembre 1949, n. 904:
 
@@ -506,7 +498,7 @@ Le pensioni liquidate ai superstiti con decorrenza anteriore al 1 gennaio 1953 s
 
 Salvo quanto e' previsto nel successivo art. 34, le pensioni dirette, indirette o di riversibilita', dovute con decorrenza compresa fra il 1 gennaio 1953 e la data di entrata in vigore della presente legge, sono riliquidate o liquidate a norma delle disposizioni contenute nel titolo III, prendendo come base tutti gli elementi della retribuzione indicati nell'art. 9, fermi restando gli eventuali migliori trattamenti spettanti in base alle norme precedentemente in vigore, Per la determinazione del limite massimo della retribuzione da valere per il calcolo della pensione, il triennio di cui al secondo comma dell'art. 20 non puo' comunque risalire a periodi di tempo anteriori al 1 gennaio 1952 e, ove ricorra il caso, la media di cui al citato art. 20 e' effettuata sul minore periodo computabile successivamente alla predetta data.
 
-##### Art. 31
+#### Art. 31
 
 La maggiorazione per i figli di cui all'art. 20, comma terzo, spetta dal 1 gennaio 1953 ai titolari di pensione diretta liquidata con decorrenza anteriore a tale data, ferma restando per i figli invalidi la disposizione di cui al secondo comma dell'art. 21.
 
@@ -514,11 +506,11 @@ I supplementi di pensione, a carico dell'assicurazione obbligatoria per l'invali
 
 Il diritto dei genitori al rimborso dei contributi, nel caso previsto dall'art. 26; e' riconosciuto in relazione agli eventi successivi al 31 dicembre 1952.
 
-##### Art. 32
+#### Art. 32
 
 Gli iscritti al Fondo, che non si siano avvalsi della facolta' di riscatto, per i periodi, nei limiti e nei termini indicati dall'art. 5 del regolamento approvato con regio decreto 24 luglio 1931, n. 1098, e dagli articoli 12 e 13 della legge 7 dicembre 1949, n. 904, possono provvedervi per i periodi e nei limiti indicati dall'art. 10, qualora ne facciano domanda, entro un anno dalla data di entrata in vigore della presente legge.
 
-##### Art. 33
+#### Art. 33
 
 Coloro i quali siano stati ammessi alla contribuzione volontaria al Fondo in base alle norme precedentemente in vigore, hanno facolta' di integrare il contributo annuo corrisposto a proprio carico dal 1 gennaio 1948, o dalla data di cessazione dal servizio, se posteriore, fino a concorrenza dei seguenti elementi della retribuzione alla quale avrebbero avuto diritto, in relazione alla qualifica e all'anzianita' di servizio raggiunte al momento della risoluzione del rapporto di lavoro, sulla base del contratto di lavoro in vigore nel novembre 1948: minimo contrattuale di stipendio o di salario, aumenti di merito e ad personam; compenso ai notturnisti per la 8ª e la 9ª ora di lavoro; indennita' di connessione con le maestranze; un dodicesimo della retribuzione mensile; costituita dagli elementi predetti, a titolo di quota della tredicesima mensilita'.
 
@@ -528,7 +520,7 @@ All'integrazione del contributo volontario, nella misura di cui al primo comma o
 
 A coloro i quali siano stati ammessi alla contribuzione volontaria del Fondo in base alle norme precedentemente in vigore e che non abbiano raggiunto, alla data di entrata in vigore della presente legge, quindici anni di iscrizione al Fondo, non si applica la norma di cui al secondo comma dell'art. 13, fino al raggiungimento dei predetti, quindici anni di iscrizione.
 
-##### Art. 34
+#### Art. 34
 
 Le pensioni dirette da liquidare in relazione alle disposizioni contenute nel precedente articolo sono aumentate:
 
@@ -566,11 +558,11 @@ A partire dal 1 gennaio 1961 tutte le pensioni dirette in corso di godimento a t
 
 Le pensioni ai superstiti, in corso di godimento al 1 gennaio 1961, sono dovute, a partire da tale data, nell'importo che si ottiene applicando le percentuali di riversibilita' indicate nell'articolo 24 della legge 4 dicembre 1956, n. 1450, alle pensioni dirette calcolate a norma dei commi precedenti."
 
-##### Art. 35
+#### Art. 35
 
 Le pensioni dirette, indirette o di riversibilita', che debbano ancora essere liquidate con decorrenza compresa tra il 1 gennaio 1948 e il 31 marzo 1949, sono calcolate in base alla retribuzione annua che si ottiene raddoppiando gli elementi della retribuzione indicati nel primo comma dell'art. 33 e percepiti in relazione agli ultimi sei mesi di effettivo servizio anche se compiuto in parte anteriormente al 1 gennaio 1948. Le pensioni stesse sono maggiorate a norma dell'art. 34.
 
-##### Art. 36
+#### Art. 36
 
 Il personale dell'Azienda di Stato per i servizi telefonici, iscritto al Fondo a norma dell'art. 10 del regio decreto-legge 14 giugno 1925, n. 884, e successive modificazioni ed estensioni, cessera' di appartenervi dal primo giorno del mese successivo alla data di entrata in vigore della presente legge, ed alle prestazioni ad esso spettanti in base al regio decreto 24 luglio 1931, n. 1098 e successive modificazioni e integrazioni, provvedera', a decorrere dallo stesso giorno, la Cassa integrativa di previdenza per il personale telefonico statale istituita con decreto legislativo del Capo provvisorie dello Stato 22 gennaio 1947 n. 134, alla quale affluiranno i contributi di cui al citato regio decreto 24 luglio 1931, n. 1098, modificato con il decreto legislativo luogotenenziale 23 marzo 1946, i. 305.
 
@@ -582,7 +574,7 @@ Con decreto del Presidente della Repubblica su proposta del Ministro per il lavo
 
 ## TITOLO VI - NORME FINALI
 
-##### Art. 37
+#### Art. 37
 
 Per quanto non contemplato dalla presente legge, si intendono richiamati, in quanto applicabili, le disposizioni del regio decreto-legge 4 ottobre 1935, n. 1827, convertito, con modificazioni, nella legge 6 aprile 1936, n. 1155, e successive modificazioni.
 
@@ -598,7 +590,7 @@ d) la norma contenuta nell'art. 128 del regio decreto-legge citato.
 
 I crediti per contributi, per interessi, per sanzioni civili derivanti da omissioni contributive e per spese sono muniti del privilegio stabilito nell'art. 2753 del Codice civile.
 
-##### Art. 38
+#### Art. 38
 
 Contro i provvedimenti concernenti la concessione delle prestazioni previste dalla presente legge e in genere l'attuazione delle disposizioni della legge stessa e' ammesso ricorso in via amministrativa al Comitato di vigilanza di cui all'art. 3.
 
@@ -616,11 +608,11 @@ AGGIORNAMENTO (1)
 
 La L. 11 dicembre 1962, n. 1790 ha disposto (con l'art. 8) che "I termini previsti dall'articolo 38 della legge 4 dicembre 1956, n. 1450, sono entrambi elevati a 90 giorni."
 
-##### Art. 39
+#### Art. 39
 
 Per le trasgressioni alle norme contenute nella presente legge, si applicano le disposizioni degli articoli 23 e 24 della legge 4 aprile 1952, n. 218, intendendosi sostituito al Comitato esecutivo dell'Istituto nazionale della previdenza sociale, il Comitato di vigilanza di cui all'art. 3 della presente legge. I proventi delle pene pecuniarie sono devoluti al Fondo di cui alla legge stessa.
 
-##### Art. 40
+#### Art. 40
 
 Sono abrogati il regolamento approvato con regio decreto 24 luglio 1931, n. 1098, il decreto legislativo 23 marzo 1946, n. 305, la legge 7 dicembre 1949, n 904, ed ogni altra disposizione incompatibile con la presente legge.
 

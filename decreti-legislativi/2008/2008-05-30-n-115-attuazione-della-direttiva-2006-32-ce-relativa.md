@@ -80,7 +80,7 @@ il seguente decreto-legislativo:
 
 ## Titolo I - FINALITA' E OBIETTIVI
 
-##### Art. 1
+#### Art. 1
 
 Finalita' e ambito di applicazione
 
@@ -190,7 +190,7 @@ c) alle Forze armate ed alla Guardia di finanza, limitatamente al capo IV del Ti
 
 > \- La direttiva 2003/87/CE e' pubblicata nella G.U.U.E. 25 ottobre 2003, n. L 275.
 
-##### Art. 2
+#### Art. 2
 
 Definizioni
 
@@ -246,7 +246,7 @@ cc) "Unita' per l'efficienza energetica": e' la struttura dell'ENEA di cui all'a
 
 2\. Continuano a valere, ove applicabili, le definizioni di cui al decreto legislativo 16 marzo 1999, n. 79, e al decreto legislativo 23 maggio 2000, n. 164.
 
-##### Art. 3
+#### Art. 3
 
 Obiettivi di risparmio energetico
 
@@ -260,11 +260,9 @@ b) per la misurazione e la verifica del risparmio energetico, i metodi approvati
 
 ## Titolo II - STRUMENTI PER L'EFFICIENZA ENERGETICA
 
-### Capo I - Coordinamento
+### Capo I - Coordinamento e monitoraggio
 
-#### e monitoraggio
-
-##### Art. 4
+#### Art. 4
 
 Funzioni di ((Unita' per l'efficienza energetica)) nazionale per
 
@@ -290,7 +288,7 @@ d) svolge supporto tecnico-scientifico e consulenza per lo Stato, le regioni e g
 
 e) assicura, anche in coerenza con i programmi di intervento delle regioni, l'informazione a cittadini, alle imprese, alla pubblica amministrazione e agli operatori economici, sugli strumenti per il risparmio energetico, nonche' sui meccanismi e sul quadro finanziario e giuridico predisposto per la diffusione e la promozione dell'efficienza energetica, provvedendo inoltre a fornire sistemi di diagnosi energetiche in conformita' a quanto previsto dall'articolo 18.
 
-##### Art. 5
+#### Art. 5
 
 Strumenti di programmazione e monitoraggio
 
@@ -328,7 +326,7 @@ e) prevedono il ricorso ai fattori e ai metodi di cui all'articolo 3;
 
 f) sono predisposti su iniziativa e proposta dell'Unita' per l'efficienza energetica in collaborazione con un gruppo di lavoro istituito ai sensi dell'articolo 7, comma 2, del decreto legislativo 28 agosto 1997, n. 281, senza nuovi o maggiori oneri, ne' minori entrate, a carico della finanza pubblica.
 
-##### Art. 6
+#### Art. 6
 
 Armonizzazione delle funzioni dello Stato e delle regioni in materia di efficienza energetica
 
@@ -348,9 +346,9 @@ AGGIORNAMENTO (2)
 
 Il D.lgs. 3 marzo 2011, n. 28, ha disposto (con l'art. 28, comma 5) che "I commi 3 e 4 dell'articolo 6 del decreto legislativo 30 maggio 2008, n. 115, sono abrogati a decorrere dalla data di entrata in vigore del decreto attuativo del comma 2, lettera f), del presente articolo. Fino al termine di cui al periodo precedente, gli strumenti di incentivazione di cui al comma 3 dell'articolo 6 del decreto legislativo n. 115 del 2008 possono essere cumulati anche con fondi di garanzia, fondi di rotazione e contributi in conto interesse".
 
-## Capo II - Incentivi e strumenti finanziari
+### Capo II - Incentivi e strumenti finanziari
 
-##### Art. 7
+#### Art. 7
 
 Certificati bianchi
 
@@ -372,19 +370,19 @@ e) sono aggiornati i requisiti dei soggetti ai quali possono essere rilasciati i
 
 4\. L'Autorita' per l'energia elettrica e il gas provvede alla individuazione delle modalita' con cui i costi sostenuti per la realizzazione dei progetti realizzati secondo le disposizioni del presente articolo, nell'ambito del meccanismo dei certificati bianchi, trovano copertura sulle tariffe per il trasporto e la distribuzione dell'energia elettrica e del gas naturale e approva le regole di funzionamento del mercato e delle transazioni bilaterali relative ai certificati bianchi, proposte dalla Societa' Gestore del mercato elettrico, nonche' verifica il rispetto delle regole ((da parte dei soggetti di cui alla lettera e) del comma 1)) ed il conseguimento degli obblighi da parte dei soggetti di cui al comma 1, lettere a) e b), applicando, salvo che il fatto costituisca reato, le sanzioni amministrative pecuniarie previste dall'articolo 2, comma 20, lettera c), della legge 14 novembre 1995, n. 481.
 
-##### Art. 8
+#### Art. 8
 
 Interventi di mobilita' sostenibile
 
 1\. Con accordi volontari con gli operatori di settore, ivi inclusi i soggetti che immettono in consumo benzina e gasolio, il Ministero dello sviluppo economico o altri Ministeri interessati e le regioni, sulla base di priorita' e di ambiti di intervento segnalati dalle regioni medesime, promuovono iniziative di mobilita' sostenibile, avvalendosi anche di risorse rinvenenti dagli aggiornamenti della deliberazione del Comitato interministeriale per la programmazione economica 19 dicembre 2002, n. 123, pubblicata nella Gazzetta Ufficiale n. 68 del 22 marzo 2003. In tale ambito, l'((Unita' per l'efficienza energetica)) provvede a definire modalita' per la contabilizzazione dei risparmi energetici risultanti dalle misure attivate ai fini della contribuzione agli obiettivi indicativi nazionali di cui all'articolo 3.
 
-##### Art. 9
+#### Art. 9
 
 ((ARTICOLO ABROGATO DAL D.LGS. 3 MARZO 2011, N. 28))
 
-## Capo III - Semplificazione e rimozione degli ostacoli normativi
+### Capo III - Semplificazione e rimozione degli ostacoli normativi
 
-##### Art. 10
+#### Art. 10
 
 Disciplina dei servizi energetici e dei sistemi efficienti di utenza 1. Ferma restando l'attuazione dell'articolo 28 della direttiva 2009/72/CE del Parlamento europeo e del Consiglio del 13 luglio 2009 per quanto attiene i sistemi di distribuzione chiusi, entro novanta giorni dalla data di entrata in vigore del presente decreto, l'Autorita' per l'energia elettrica e il gas definisce le modalita' per la regolazione dei sistemi efficienti di utenza, nonche' le modalita' e i tempi per la gestione dei rapporti contrattuali ai fini dell'erogazione dei servizi di trasmissione, distribuzione e dispacciamento ,tenendo conto dei principi di corretto funzionamento del mercato elettrico e assicurando che non si producano disparita' di trattamento sul territorio nazionale. Salvo che il fatto costituisca reato, l'Autorita' per l'energia elettrica e il gas, nel caso di inosservanza dei propri provvedimenti, applica l'articolo 2, comma 20, lettera c), della legge 14 novembre 1995, n. 481.
 
@@ -404,7 +402,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 1 ottobre 2015, n. 154, convertito con modificazioni dalla L. 29 novembre 2015, n. 189, ha disposto (con l'art. 2, comma 1-quater) che "Ai fini dell'applicazione della lettera b) del comma 2 dell'articolo 10 del decreto legislativo 30 maggio 2008, n. 115, come modificato dall'articolo 4 del decreto legislativo 29 marzo 2010, n. 56, nel caso di soggetti che, nel periodo compreso tra la data di entrata in vigore del medesimo decreto legislativo 29 marzo 2010, n. 56, e la data di entrata in vigore del conseguente provvedimento dell'Autorita' per l'energia elettrica, il gas e il sistema idrico, erano, anche limitatamente a una parte del suddetto periodo, sottoposte al regime di amministrazione straordinaria, l'unicita' del soggetto giuridico titolare dell'unita' di produzione e dell'unita' di consumo di energia elettrica e' verificata alla data del 1° gennaio 2016".
 
-##### Art. 11
+#### Art. 11
 
 Semplificazione e razionalizzazione delle procedure amministrative e regolamentari
 
@@ -424,9 +422,9 @@ Semplificazione e razionalizzazione delle procedure amministrative e regolamenta
 
 8\. L'autorizzazione di cui al comma 7 e' rilasciata a seguito di un procedimento unico, al quale partecipano tutte le amministrazioni interessate, svolto nel rispetto dei principi di semplificazione e con le modalita' stabilite dalla legge 7 agosto 1990, n. 241, e successive modificazioni. PERIODO SOPPRESSO DAL D.LGS. 29 MARZO 2010, N. 56. Il rilascio dell'autorizzazione costituisce titolo a costruire ed esercire l'impianto in conformita' al progetto approvato e deve contenere l'obbligo alla rimessa in pristino dello stato dei luoghi a carico del soggetto esercente a seguito della dismissione dell'impianto. Il termine massimo per la conclusione del procedimento di cui al presente comma non puo' comunque essere superiore a centottanta giorni.
 
-## Capo IV - Settore pubblico
+### Capo IV - Settore pubblico
 
-##### Art. 12
+#### Art. 12
 
 Efficienza energetica nel settore pubblico
 
@@ -436,7 +434,7 @@ Efficienza energetica nel settore pubblico
 
 3\. Ai fini del monitoraggio e della comunicazione ai cittadini del ruolo e dell'azione della pubblica amministrazione, i soggetti responsabili di cui al comma 2, trasmettono all'((Unita' per l'efficienza energetica)) di cui all'articolo 4 una scheda informativa degli interventi e delle azioni di promozione dell'efficienza energetica intraprese.
 
-##### Art. 13
+#### Art. 13
 
 Edilizia pubblica
 
@@ -456,7 +454,7 @@ c) la certificazione energetica degli edifici pubblici od ad uso pubblico, nel c
 
 > «7. Negli edifici di proprieta' pubblica o adibiti ad uso pubblico, la cui metratura utile totale supera i 1000 metri quadrati, l'attestato di certificazione energetica e' affisso nello stesso edificio a cui si riferisce in luogo facilmente visibile per il pubblico.».
 
-##### Art. 14
+#### Art. 14
 
 Apparecchiature e impianti per la pubblica amministrazione
 
@@ -466,7 +464,7 @@ Apparecchiature e impianti per la pubblica amministrazione
 
 > \- Per il decreto legislativo 6 novembre 2007, n. 201 si vedano le note alle premesse.
 
-##### Art. 15
+#### Art. 15
 
 Procedure di gara
 
@@ -552,9 +550,9 @@ Procedure di gara
 
 > 9\. L'accesso per l'espletamento delle indagini e delle ricerche necessarie all'attivita' di progettazione e' autorizzato ai sensi dell'art. 15 del decreto del Presidente della Repubblica 8 giugno 2001, n. 327.».
 
-## Capo V - Definizione di standard
+### Capo V - Definizione di standard
 
-##### Art. 16
+#### Art. 16
 
 Qualificazione dei fornitori e dei servizi energetici
 
@@ -566,13 +564,13 @@ Qualificazione dei fornitori e dei servizi energetici
 
 4\. Fra i contratti che possono essere proposti nell'ambito della fornitura di un servizio energetico rientra il contratto di servizio energia di cui all'articolo 1, comma 1, lettera p), del decreto del Presidente della Repubblica 26 agosto 1993, n. 412, rispondente a quanto stabilito dall'allegato II al presente decreto.
 
-##### Art. 17
+#### Art. 17
 
 ((ARTICOLO ABROGATO DAL D.LGS. 4 LUGLIO 2014, N. 102))
 
-## Capo V - Misure di accompagnamento
+### Capo V - Misure di accompagnamento
 
-##### Art. 18
+#### Art. 18
 
 Diagnosi energetiche e campagne di informazione
 
@@ -590,7 +588,7 @@ Diagnosi energetiche e campagne di informazione
 
 ## Titolo III - DISPOSIZIONI FINALI
 
-##### Art. 19
+#### Art. 19
 
 Disposizioni finali e copertura finanziaria
 
@@ -610,7 +608,7 @@ Disposizioni finali e copertura finanziaria
 
 > «1. L'esercizio e la manutenzione degli impianti termici sono affidati al proprietario, definito come alla lettera j) dell'art. 1, comma 1, o per esso ad un terzo, avente i requisiti definiti alla lettera o) dell'art. 1, comma 1, che se ne assume la responsabilita'. L'eventuale atto di assunzione di responsabilita' da parte del terzo, che lo espone altresi' alle sanzioni amministrative previste dal comma 5 dell'art. 34 della legge 9 gennaio 1991, n. 10, deve essere redatto in forma scritta e consegnato al proprietario. Il terzo eventualmente incaricato, non puo' delegare ad altri le responsabilita' assunte, e puo' ricorrere solo occasionalmente al subappalto delle attivita' di sua competenza, fermo restando il rispetto della legge 5 marzo 1990, n. 46, per le attivita' di manutenzione straordinaria, e ferma restando la propria diretta responsabilita' ai sensi degli articoli 1667 e seguenti del codice civile. Il ruolo di terzo responsabile di un impianto e' incompatibile con il ruolo di fornitore di energia per il medesimo impianto, a meno che la fornitura sia effettuata nell'ambito di un contratto servizio energia.».
 
-##### Art. 20
+#### Art. 20
 
 Entrata in vigore
 
@@ -644,7 +642,7 @@ Visto, il Guardasigilli: Alfano
 
 ## Titolo III - DISPOSIZIONI FINALI
 
-##### Allegato I
+#### Allegato I
 
 ((Allegato I
 
@@ -722,7 +720,7 @@ Fonte: Eurostat.
 
 \*\*\*) Il valore di riferimento e' aggiornato con apposito provvedimento dell'Autorita' per l'energia elettrica e il gas al fine di tener conto dell'efficienza media di produzione del parco termoelettrico.))
 
-##### Allegato II
+#### Allegato II
 
 Allegato II
 
@@ -854,7 +852,7 @@ b) qualora nel corso di vigenza di un contratto di servizio energia, le parti co
 
 3 Nei casi in cui il Fornitore del contratto servizio energia partecipi all'investimento per l'integrale rifacimento degli impianti e/o la realizzazione di nuovi impianti e/o la riqualificazione energetica dell'involucro edilizio per oltre il 50 per cento della sua superficie, la durata del contratto non e' soggetta alle limitazioni di cui al punto 1.
 
-##### Allegato III
+#### Allegato III
 
 Allegato III
 

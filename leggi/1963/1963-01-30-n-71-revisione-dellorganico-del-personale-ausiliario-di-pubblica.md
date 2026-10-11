@@ -25,15 +25,15 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 La tabella organica del personale ausiliario dell'Amministrazione della pubblica sicurezza di cui al quadro n. 69 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, e' sostituita da quella allegata alla presente legge.
 
-### Art. 2
+## Art. 2
 
 Salvo quanto diversamente disposto dalla presente legge, al personale ausiliario dell'Amministrazione della pubblica sicurezza si applicano le norme del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con decreto del Presidente della Repubblica 10 gennaio 1937, n. 3.
 
-### Art. 3
+## Art. 3
 
 Ferme restando le riserve di posti stabiliti dalle leggi vietati in favore degli invalidi di guerra, invalidi civili per fatto di guerra, invalidi per servizio, sordomuti e categorie assimilate, i posti di usciere disponibili nel ruolo del personale ausiliario dell'Amministrazione della pubblica sicurezza sono riservati:
 
@@ -49,13 +49,13 @@ Ai fini della riserva dei posti di cui alla lettera b) gli appuntati e le guardi
 
 I posti disponibili che non venissero ricoperti nei ruoli previsti dai precedenti commi, per mancanza di aspiranti, saranno conferiti mediante pubblico concorso, secondo le disposizioni del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
 
-### Art. 4
+## Art. 4
 
 Ai fini dell'attribuzione del trattamento economico spettante agli appuntati di pubblica sicurezza che passano nel ruolo del personale ausiliario ai sensi dell'articolo 3, primo comma, lettera a), della presente legge, si applica la norma contenuta nell'articolo 8 della legge 8 agosto 1957, n. 751.
 
 ## NORME TRANSITORIE
 
-### Art. 5
+## Art. 5
 
 Il ruolo transitorio ad esaurimento del personale subalterno del cessato "Servizio speciale riservato" e' soppresso.
 
@@ -71,11 +71,11 @@ c) gli inservienti, nella qualifica di usciere di questura, andando a prendere p
 
 Nelle promozioni da usciere-capo di questura a commesso di questura, da conferirsi dopo l'entrata in vigore della presente legge, non piu' di un sesto dei posti, e' conferito al personale proveniente dal ruolo del personale subalterno del cessato "Servizio speciale riservato".
 
-### Art. 6
+## Art. 6
 
 Le disposizioni contenute nella presente legge - eccettuate quelle relative ai limiti di eta' - si applicano anche alle domande di passaggio nel ruolo del personale ausiliario di pubblica sicurezza prodotte anteriormente all'entrata in della legge stessa.
 
-### Art. 7
+## Art. 7
 
 All'onere di lire 130 milioni derivante dall'attuazione della presente legge per l'esercizio finanziario 1962-63 si provvede a carico dello stanziamento di parte ordinaria iscritto nello stato di previsione della spesa del Ministero del tesoro per il detto esercizio, concernente il fondo occorrente per far fronte ad oneri dipendenti da provvedimenti legislativi in corso.
 

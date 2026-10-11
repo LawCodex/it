@@ -28,13 +28,11 @@ Promulga
 
 la seguente legge:
 
-## TITOLO I - MODIFICHE ALLA DISCIPLINA
+## TITOLO I - MODIFICHE ALLA DISCIPLINA DELLE SOCIETA' PER AZIONI
 
-### DELLE SOCIETA' PER AZIONI - Capo I
+### Capo I - ORGANI DI AMMINISTRAZIONE E DI CONTROLLO
 
-#### ORGANI DI AMMINISTRAZIONE - E DI CONTROLLO
-
-##### Art. 1 - Nomina e requisiti degli amministratori
+#### Art. 1 - Nomina e requisiti degli amministratori
 
 1\. Nel testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, e successive modificazioni, alla parte IV, titolo III, capo II, dopo l'articolo 147-bis, e' inserita la seguente sezione:
 
@@ -64,7 +62,7 @@ Art. 147-quinquies. - (Requisiti di onorabilita'). - 1. I soggetti che svolgono 
 
 > Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
-##### Art. 2 - Collegio sindacale e organi corrispondenti nei modelli dualistico e monistico
+#### Art. 2 - Collegio sindacale e organi corrispondenti nei modelli dualistico e monistico
 
 1\. Al testo unico di cui al decreto legislativo 24 febbraio 1998, n. 58, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -270,7 +268,7 @@ c) all'articolo 2409-septiesdecies, e' aggiunto, in fine, il seguente comma:
 
 > Al momento della nomina dei componenti del consiglio di amministrazione e prima dell'accettazione dell'incarico, sono resi noti all'assemblea gli incarichi di amministrazione e di controllo da essi ricoperti presso altre societa'.».
 
-##### Art. 3 - Azione di responsabilita
+#### Art. 3 - Azione di responsabilita
 
 1\. Al codice civile sono apportate le seguenti modificazioni:
 
@@ -358,11 +356,9 @@ c) all'articolo 2409-duodecies, quinto comma, le parole: "dal quarto comma dell'
 
 > «6. Della parte di capitale sociale rappresentata da azioni di risparmio non si tiene conto ai fini della costituzione dell'assemblea e della validita' delle deliberazioni, ne' per il calcolo delle aliquote stabilite dagli articoli 2367, "2393, quinto e sesto comma", 2393-bis, 2408, secondo comma e 2409, primo comma, del codice civile.».
 
-## Capo II - ALTRE DISPOSIZIONI A TUTELA
+### Capo II - ALTRE DISPOSIZIONI A TUTELA DELLE MINORANZE
 
-### DELLE MINORANZE
-
-##### Art. 4 - Delega di voto
+#### Art. 4 - Delega di voto
 
 1\. All'articolo 139, comma 1, secondo periodo, del testo unico di cui al decreto legislativo 24 febbraio 1998, n. 58, le parole: "La CONSOB puo' stabilire" sono sostituite dalle seguenti: "La CONSOB stabilisce".
 
@@ -374,7 +370,7 @@ c) all'articolo 2409-duodecies, quinto comma, le parole: "dal quarto comma dell'
 
 > 2\. Ai fini previsti dal comma 1, per le societa' di gestione del risparmio e per i soggetti abilitati alla istituzione di fondi pensione si tiene conto anche delle azioni di pertinenza dei fondi per conto dei quali essi esercitano il diritto di voto.».
 
-##### Art. 5
+#### Art. 5
 
 (Integrazione dell'ordine del giorno
 
@@ -388,9 +384,9 @@ dell'assemblea)
 
 3\. L'integrazione dell'elenco delle materie da trattare, ai sensi del comma 1, non e' ammessa per gli argomenti sui quali l'assemblea delibera, a norma di legge, su proposta degli amministratori o sulla base di un progetto o di una relazione da essi predisposta".
 
-## Capo III - DISCIPLINA DELLE SOCIETA' ESTERE
+### Capo III - DISCIPLINA DELLE SOCIETA' ESTERE
 
-##### Art. 6 - Trasparenza delle societa' estere
+#### Art. 6 - Trasparenza delle societa' estere
 
 1\. Nel testo unico di cui al decreto legislativo 24 febbraio 1998, n. 58, e successive modificazioni, alla parte IV, titolo III, capo II, dopo l'articolo 165-bis, introdotto dall'articolo 18, comma 1, lettera h), della presente legge, e' aggiunta la seguente sezione:
 
@@ -474,17 +470,15 @@ Art. 165-septies. - (Poteri della CONSOB e disposizioni di attuazione). - 1. La 
 
 2\. Salvo che il fatto costituisca reato, la violazione degli obblighi derivanti dall'esercizio dei poteri attribuiti alla CONSOB dall'articolo 165-septies, comma 1, e' punita con la sanzione amministrativa pecuniaria prevista dall'articolo 193, comma 1".
 
-##### Art. 7
+#### Art. 7
 
 (( ARTICOLO ABROGATO DAL D.LGS. 29 DICEMBRE 2006, N. 303 ))
 
-## TITOLO II - DISPOSIZIONI IN MATERIA DI CONFLITTI D'INTERESSI E DISCIPLINA DELLE
+## TITOLO II - DISPOSIZIONI IN MATERIA DI CONFLITTI D'INTERESSI E DISCIPLINA DELLE ATTIVITA' FINANZIARIE
 
-### ATTIVITA' FINANZIARIE - Capo I
+### Capo I - DISPOSIZIONI IN MATERIA DI CONFLITTI D'INTERESSI
 
-#### DISPOSIZIONI IN MATERIA - DI CONFLITTI D'INTERESSI
-
-##### Art. 8 - Concessione di credito in favore di azionisti e obbligazioni degli esponenti bancari
+#### Art. 8 - Concessione di credito in favore di azionisti e obbligazioni degli esponenti bancari
 
 1\. All'articolo 53 del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -538,17 +532,17 @@ Il D.L 10 gennaio 2006, n. 4, convertito con modificazioni dalla L. 9 marzo 2006
 
 e di interesse collettivo (ISVAP). "
 
-##### Art. 9
+#### Art. 9
 
 (( ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2007, N. 13 ))
 
-##### Art. 10
+#### Art. 10
 
 (( ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2007, N. 13 ))
 
-## Capo II - DISPOSIZIONI IN MATERIA DI CIRCOLAZIONE DEGLI STRUMENTI FINANZIARI
+### Capo II - DISPOSIZIONI IN MATERIA DI CIRCOLAZIONE DEGLI STRUMENTI FINANZIARI
 
-##### Art. 11 - Circolazione in Italia di strumenti finanziari collocati presso investitori professionali e obblighi informativi
+#### Art. 11 - Circolazione in Italia di strumenti finanziari collocati presso investitori professionali e obblighi informativi
 
 1\. All'articolo 2412 del codice civile sono apportate le
 
@@ -608,7 +602,7 @@ Il D.L 10 gennaio 2006, n. 4, convertito con modificazioni dalla L. 9 marzo 2006
 
 e di interesse collettivo (ISVAP). "
 
-##### Art. 12
+#### Art. 12
 
 (Attuazione della direttiva 2003/71/CE del Parlamento europeo e del Consiglio, del 4 novembre 2003, relativa al prospetto da pubblicare
 
@@ -768,11 +762,9 @@ q) attribuire alla CONSOB il relativo potere sanzionatorio, da esercitare second
 
 > Il pagamento in misura ridotta e' ammesso anche nei casi in cui le norme antecedenti all'entrata in vigore della presente legge non consentivano l'oblazione.».
 
-## Capo III - ALTRE DISPOSIZIONI IN MATERIA DI SERVIZI BANCARI, TUTELA DEGLI
+### Capo III - ALTRE DISPOSIZIONI IN MATERIA DI SERVIZI BANCARI, TUTELA DEGLI INVESTITORI, DISCIPLINA DEI PROMOTORI FINANZIARI E DEI MERCATI REGOLAMENTATI E INFORMAZIONE SOCIETARIA
 
-### INVESTITORI, DISCIPLINA DEI PROMOTORI FINANZIARI E DEI MERCATI - REGOLAMENTATI E INFORMAZIONE SOCIETARIA
-
-##### Art. 13 - Pubblicita' del tasso effettivo globale medio degli interessi praticati dalle banche e dagli intermediari finanziari
+#### Art. 13 - Pubblicita' del tasso effettivo globale medio degli interessi praticati dalle banche e dagli intermediari finanziari
 
 1\. Al comma 1 dell'articolo 116 del testo unico di cui al decreto legislativo 1° settembre 1993, n. 385, dopo il primo periodo e' inserito il seguente: "Per le operazioni di finanziamento, comunque denominate, e' pubblicizzato il tasso effettivo globale medio computato secondo le modalita' stabilite a norma dell'articolo 122".
 
@@ -782,7 +774,7 @@ q) attribuire alla CONSOB il relativo potere sanzionatorio, da esercitare second
 
 > «Art. 116 (Pubblicita). - 1. In ciascun locale aperto al pubblico sono pubblicizzati i tassi di interesse, i prezzi, le spese per le comunicazioni alla clientela e ogni altra condizione economica relativa alle operazioni e ai servizi offerti, ivi compresi gli interessi di mora e le valute applicate per l'imputazione degli interessi. "Per le operazioni di finanziamento, comunque denominate, e' pubblicizzato il tasso effettivo globale medio computato secondo le modalita' stabilite a norma dell'art. 122". Non puo' essere fatto rinvio agli usi.».
 
-##### Art. 14
+#### Art. 14
 
 (Modifiche al testo unico delle disposizioni in materia di
 
@@ -948,7 +940,7 @@ q) all'articolo 193, il comma 1 e' sostituito dal seguente:
 
 "1. Nei confronti di societa', enti o associazioni tenuti a effettuare le comunicazioni previste dagli articoli 113, 114 e 115 e' applicabile la sanzione amministrativa pecuniaria da cinquemila a cinquecentomila euro per l'inosservanza delle disposizioni degli articoli medesimi o delle relative disposizioni applicative. Si applica il disposto dell'articolo 190, comma 3. Se le comunicazioni sono dovute da una persona fisica, in caso di violazione la sanzione si applica nei confronti di quest'ultima".
 
-##### Art. 15 - Responsabilita' dei dirigenti preposti alla redazione dei documenti contabili societari
+#### Art. 15 - Responsabilita' dei dirigenti preposti alla redazione dei documenti contabili societari
 
 1\. Al codice civile sono apportate le seguenti modificazioni:
 
@@ -1036,7 +1028,7 @@ generali," sono inserite le seguenti: "dirigenti preposti alla redazione dei doc
 
 > Il delitto e' punibile a querela della persona offesa [c.p. 120; c.p.p. 336].»
 
-##### Art. 16 - Informazione al mercato in materia di attribuzione di azioni a esponenti aziendali, dipendenti o collaboratori
+#### Art. 16 - Informazione al mercato in materia di attribuzione di azioni a esponenti aziendali, dipendenti o collaboratori
 
 1\. Dopo l'articolo 114 del testo unico di cui al decreto legislativo 24 febbraio 1998, n. 58, e successive modificazioni, e' inserito il seguente:
 
@@ -1064,7 +1056,7 @@ a) le informazioni, relative agli elementi indicati nel comma 1, che devono esse
 
 b) cautele volte ad evitare che i piani di cui al comma 1 inducano comportamenti contrastanti con l'interesse della societa', anche disciplinando i criteri per la fissazione del prezzo delle azioni e degli altri strumenti finanziari, le modalita' e i termini per l'esercizio dei diritti che essi attribuiscono, i limiti alla loro circolazione".
 
-##### Art. 17
+#### Art. 17
 
 (Disposizioni in materia
 
@@ -1090,11 +1082,9 @@ d) l'articolo 17 della legge 28 dicembre 2005, n. 262."
 
 Le disposizioni modificate, introdotte o sostituite dal decreto 14 dicembre 2010, n.218 si applicano a decorrere dalla data di entrata in vigore dei corrispondenti articoli del decreto legislativo 13 agosto 2010, n. 141. I termini di conclusione dei procedimenti amministrativi, stabiliti da norme di legge o di regolamento, pendenti alla data del 19 settembre 2010, sono prorogati fino a 120 giorni successivi alla data di entrata in vigore del presente decreto.
 
-## TITOLO III - DISPOSIZIONI IN MATERIA
+## TITOLO III - DISPOSIZIONI IN MATERIA DI REVISIONE DEI CONTI
 
-### DI REVISIONE DEI CONTI
-
-##### Art. 18
+#### Art. 18
 
 (Modifiche alla disciplina relativa
 
@@ -1342,11 +1332,9 @@ h) nella parte IV, titolo III, capo II, sezione VI, dopo l'articolo 165 e' aggiu
 
 ## TITOLO IV - DISPOSIZIONI CONCERNENTI LE AUTORITA' DI VIGILANZA
 
-### Capo - I
+### Capo I - PRINCIPI DI ORGANIZZAZIONE E RAPPORTI FRA LE AUTORITA'
 
-#### PRINCIPI DI ORGANIZZAZIONE E RAPPORTI FRA LE AUTORITA'
-
-##### Art. 19 - Banca d'Italia
+#### Art. 19 - Banca d'Italia
 
 1\. La Banca d'Italia e' parte integrante del Sistema europeo di banche centrali ed agisce secondo gli indirizzi e le istruzioni della Banca centrale europea.
 
@@ -1378,17 +1366,17 @@ h) nella parte IV, titolo III, capo II, sezione VI, dopo l'articolo 165 e' aggiu
 
 14\. COMMA ABROGATO DAL D.LGS. 29 DICEMBRE 2006, N. 303.
 
-##### Art. 20 - Coordinamento dell'attivita' delle Autorita
+#### Art. 20 - Coordinamento dell'attivita' delle Autorita
 
 1\. La Banca d'Italia, la CONSOB, l'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo (ISVAP), la Commissione di vigilanza sui fondi pensione (COVIP) e l'Autorita' garante della concorrenza e del mercato, nel rispetto della reciproca indipendenza, individuano forme di coordinamento per l'esercizio delle competenze ad essi attribuite anche attraverso protocolli d'intesa o l'istituzione, senza nuovi o maggiori oneri a carico della finanza pubblica, di comitati di coordinamento.
 
 2\. Le forme di coordinamento di cui al comma 1 prevedono la riunione delle Autorita' indicate nel medesimo comma almeno una volta l'anno.
 
-##### Art. 21 - Collaborazione fra le Autorita
+#### Art. 21 - Collaborazione fra le Autorita
 
 1\. La Banca d'Italia, la CONSOB, l'ISVAP, la COVIP e l'Autorita' garante della concorrenza e del mercato collaborano tra loro, anche mediante scambio di informazioni, per agevolare l'esercizio delle rispettive funzioni. Le Autorita' non possono reciprocamente opporsi il segreto d'ufficio. Tutti i dati, le informazioni e i documenti comunque comunicati da una ad altra Autorita', anche attraverso l'inserimento in archivi gestiti congiuntamente, restano sottoposti al segreto d'ufficio secondo le disposizioni previste dalla legge per l'Autorita' che li ha prodotti o acquisiti per prima.
 
-##### Art. 22
+#### Art. 22
 
 (Collaborazione da parte
 
@@ -1398,11 +1386,9 @@ del Corpo della guardia di finanza)
 
 2\. Tutte le notizie, le informazioni e i dati acquisiti dal Corpo della guardia di finanza nell'assolvimento dei compiti previsti dal comma 1 sono coperti dal segreto d'ufficio e vengono senza indugio comunicati esclusivamente alle Autorita' competenti.
 
-## Capo II - DISPOSIZIONI GENERALI
+### Capo II - DISPOSIZIONI GENERALI SUI PROCEDIMENTI DI COMPETENZA DELLE AUTORITA'
 
-### SUI PROCEDIMENTI DI COMPETENZA DELLE AUTORITA'
-
-##### Art. 23
+#### Art. 23
 
 (Procedimenti per l'adozione
 
@@ -1416,7 +1402,7 @@ di atti regolamentari e generali)
 
 4\. Le Autorita' di cui al comma 1 disciplinano con propri regolamenti l'applicazione dei principi di cui al presente articolo, indicando altresi' i casi di necessita' e di urgenza o le ragioni di riservatezza per cui e' ammesso derogarvi.
 
-##### Art. 24 - Procedimenti per l'adozione di provvedimenti individuali
+#### Art. 24 - Procedimenti per l'adozione di provvedimenti individuali
 
 1\. Ai procedimenti della Banca d'Italia, della CONSOB, dell'ISVAP e della COVIP volti all'emanazione di provvedimenti individuali si applicano, in quanto compatibili, i principi sull'individuazione e sulle funzioni del responsabile del procedimento, sulla partecipazione al procedimento e sull'accesso agli atti amministrativi recati dalla legge 7 agosto 1990, n. 241, e successive modificazioni. I procedimenti di controllo a carattere contenzioso e i procedimenti sanzionatori sono svolti nel rispetto dei principi della piena conoscenza degli atti istruttori, del contraddittorio, della verbalizzazione nonche' della distinzione tra funzioni istruttorie e funzioni decisorie rispetto all'irrogazione della sanzione. Le notizie sottoposte per iscritto da soggetti interessati possono essere valutate nell'istruzione del procedimento. Le Autorita' di cui al presente comma disciplinano le modalita' organizzative per dare attuazione al principio della distinzione tra funzioni istruttorie e funzioni decisorie rispetto all'irrogazione della sanzione.
 
@@ -1434,13 +1420,9 @@ di atti regolamentari e generali)
 
 ((6-ter. Fermo restando quanto disposto dal comma 6-bis, chi ha subito un danno per effetto di un atto o di un comportamento posto in essere da un soggetto vigilato da una delle Autorita' di cui al medesimo comma puo' agire contro di essa per ottenere soltanto il risarcimento del danno che sia conseguenza immediata e diretta della violazione di leggi e di regolamenti sulla cui osservanza e' mancata la vigilanza dell'Autorita' stessa)).
 
-## Capo III - DISPOSIZIONI RELATIVE
+### Capo III - DISPOSIZIONI RELATIVE ALL'ORGANIZZAZIONE E ALLE COMPETENZE DELLE AUTORITA'
 
-### ALL'ORGANIZZAZIONE E ALLE - COMPETENZE
-
-#### DELLE AUTORITA'
-
-##### Art. 25 - Competenze in materia di trasparenza delle condizioni contrattuali delle banche, degli intermediari finanziari, delle assicurazioni e dei fondi pensione
+#### Art. 25 - Competenze in materia di trasparenza delle condizioni contrattuali delle banche, degli intermediari finanziari, delle assicurazioni e dei fondi pensione
 
 1\. Al testo unico di cui al decreto legislativo 1° settembre 1993, n. 385, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -1472,7 +1454,7 @@ Il D.L 10 gennaio 2006, n. 4, convertito con modificazioni dalla L. 9 marzo 2006
 
 e di interesse collettivo (ISVAP). "
 
-##### Art. 26
+#### Art. 26
 
 (Trasferimento di funzioni ministeriali
 
@@ -1654,7 +1636,7 @@ d) il comma 8 e' sostituito dal seguente:
 
 > 5-bis. Le sanzioni amministrative previste nel presente articolo sono applicate con la procedura di cui al titolo VIII, capo VI, del decreto legislativo 1° settembre 1993, n. 385, fatta salva l'attribuzione delle relative competenze esclusivamente alla Commissione di vigilanza sui fondi pensione e al Ministro del lavoro e della previdenza sociale. Non si applica l'art. 16 della legge 24 novembre 1981, n. 689, e successive modificazioni.».
 
-##### Art. 27 - Procedure di conciliazione e di arbitrato, sistema di indennizzo e fondo di garanzia per i risparmiatori e gli investitori
+#### Art. 27 - Procedure di conciliazione e di arbitrato, sistema di indennizzo e fondo di garanzia per i risparmiatori e gli investitori
 
 1\. Il Governo e' delegato ad adottare, entro diciotto mesi dalla data di entrata in vigore della presente legge, un decreto legislativo per l'istituzione, in materia di servizi di investimento, di procedure di conciliazione e di arbitrato e di un sistema di indennizzo in favore degli investitori e dei risparmiatori, senza nuovi o maggiori oneri per la finanza pubblica, secondo i seguenti principi e criteri direttivi:
 
@@ -1686,7 +1668,7 @@ g) attribuzione del potere di emanare disposizioni di attuazione alla CONSOB.
 
 3\. Il Governo e' delegato ad adottare, entro diciotto mesi dalla data di entrata in vigore della presente legge, un decreto legislativo per la redazione dello statuto dei risparmiatori e degli investitori, che individua l'insieme dei diritti loro riconosciuti e definisce i criteri idonei a garantire un'efficace diffusione dell'informazione finanziaria tra i risparmiatori, e per la redazione del codice di comportamento degli operatori finanziari.
 
-##### Art. 28
+#### Art. 28
 
 (Disposizioni in materia di personale
 
@@ -1770,7 +1752,7 @@ della CONSOB)
 
 > 6\. La riscossione coattiva delle contribuzioni previste dal comma 3 avviene tramite ruolo e secondo le modalita' di cui all'art. 67, comma 2, del decreto del Presidente della Repubblica 28 gennaio 1988, n. 43.».
 
-##### Art. 29 - Risoluzione delle controversie in materia di trasparenza delle operazioni e dei servizi bancari
+#### Art. 29 - Risoluzione delle controversie in materia di trasparenza delle operazioni e dei servizi bancari
 
 1\. Dopo l'articolo 128 del testo unico di cui al decreto legislativo 1° settembre 1993, n. 385, e' aggiunto il seguente:
 
@@ -1784,13 +1766,13 @@ della CONSOB)
 
 > \- Per il decreto n. 385/1993 si vedano le note all'art. 19.
 
-##### Art. 29-bis - Incompatibilita' per i componenti e i dirigenti della CONSOB ((e dell'IVASS)) cessati dall'incarico
+#### Art. 29-bis - Incompatibilita' per i componenti e i dirigenti della CONSOB ((e dell'IVASS)) cessati dall'incarico
 
 1\. I componenti degli organi di vertice e i dirigenti della Commissione nazionale per le societa' e la borsa, fino a un anno dalla cessazione dell'incarico, non possono intrattenere direttamente rapporti di collaborazione, di consulenza o di impiego con i soggetti regolati ne' con societa' controllate da questi ultimi. I contratti conclusi in violazione del presente comma sono nulli. Le disposizioni del presente comma non si applicano ai dirigenti che nell'ultimo anno di servizio sono stati responsabili esclusivamente di uffici di supporto. Le disposizioni occorrenti per l'attuazione del presente comma sono stabilite, in coerenza con il provvedimento di cui al comma 2, con decreto del Presidente del Consiglio dei ministri, da adottare entro centottanta giorni dalla data di entrata in vigore della presente disposizione.
 
 2\. Le disposizioni del presente articolo si applicano ai componenti degli organi di vertice e ai dirigenti ((...)) dell'Istituto per la vigilanza sulle assicurazioni per un periodo, non superiore all'anno, stabilito con decreto del Presidente del Consiglio dei ministri, da adottare entro centottanta giorni dalla data di entrata in vigore della presente disposizione.
 
-##### Art. 29-ter
+#### Art. 29-ter
 
 (( (Disposizioni in materia di incompatibilita' per i membri del Direttorio e per il personale della Banca d'Italia addetto alle funzioni di vigilanza, sorveglianza o risoluzione).))
 
@@ -1828,7 +1810,7 @@ Durante il periodo di incompatibilita' il dipendente non ha accesso a informazio
 
 7\. ((I contratti conclusi in violazione dei commi 1 e 2 sono nulli.))
 
-##### Art. 29-quater
+#### Art. 29-quater
 
 (( (Disposizioni in materia di investimenti finanziari per i membri del Direttorio della Banca d'Italia e per il personale della Banca d'Italia che svolge funzioni di vigilanza).))
 
@@ -1852,17 +1834,15 @@ Restano a esclusivo carico del destinatario dell'ordine di cessione le eventuali
 
 7\. ((La Banca d'Italia con proprio atto regolamentare, da adottarsi entro il 10 gennaio 2026, detta disposizioni attuative del presente articolo.))
 
-##### Art. 29-quinquies
+#### Art. 29-quinquies
 
 (( (Poteri regolamentari della Banca d'Italia in attuazione degli obblighi discendenti dall'appartenenza al Sistema europeo delle banche centrali e al Meccanismo di vigilanza unico).))
 
 1\. ((Fermi restando i precedenti articoli, la Banca d'Italia puo' adottare ulteriori disposizioni in materia di conflitti di interessi, incompatibilita' successive alla cessazione dall'incarico e limiti agli investimenti finanziari mediante propri atti regolamentari interni attuativi degli obblighi in materia discendenti dalla sua appartenenza al Sistema europeo delle banche centrali e al Meccanismo di vigilanza unico.))
 
-## TITOLO V - MODIFICHE ALLA DISCIPLINA
+## TITOLO V - MODIFICHE ALLA DISCIPLINA IN MATERIA DI SANZIONI PENALI E AMMINISTRATIVE
 
-### IN MATERIA DI SANZIONI PENALI - E AMMINISTRATIVE
-
-##### Art. 30 - False comunicazioni sociali
+#### Art. 30 - False comunicazioni sociali
 
 1\. L'articolo 2621 del codice civile e' sostituito dal seguente:
 
@@ -1966,7 +1946,7 @@ d) ha l'obbligo di rendere rapporto all'autorita' giudiziaria nei casi previsti 
 
 > 3\. Le disposizioni del presente decreto costituiscono principi fondamentali ai sensi dell'art. 117 della Costituzione. Le Regioni a statuto ordinario si attengono ad esse tenendo conto delle peculiarita' dei rispettivi ordinamenti. I principi desumibili dall'art. 2 della legge 23 ottobre 1992, n. 421, e successive modificazioni, e dall'art. 11, comma 4, della legge 15 marzo 1997, n. 59, e successive modificazioni ed integrazioni, costituiscono altresi', per le Regioni a statuto speciale e per le provincie autonome di Trento e di Bolzano, norme fondamentali di riforma economico-sociale della Repubblica.».
 
-##### Art. 31
+#### Art. 31
 
 (Omessa comunicazione
 
@@ -2020,7 +2000,7 @@ del conflitto d'interessi)
 
 > 3\. Se, in seguito alla commissione dei reati di cui al comma 1, l'ente ha conseguito un profitto di rilevante entita', la sanzione pecuniaria e' aumentata di un terzo.».
 
-##### Art. 32 - Ricorso abusivo al credito
+#### Art. 32 - Ricorso abusivo al credito
 
 1\. L'articolo 218 del regio decreto 16 marzo 1942, n. 267, e' sostituito dal seguente:
 
@@ -2030,7 +2010,7 @@ del conflitto d'interessi)
 
 3\. Salve le altre pene accessorie di cui al libro I, titolo II, capo III, del codice penale, la condanna importa l'inabilitazione all'esercizio di un'impresa commerciale e l'incapacita' ad esercitare uffici direttivi presso qualsiasi impresa fino a tre anni".
 
-##### Art. 33
+#### Art. 33
 
 (Istituzione del reato di
 
@@ -2040,7 +2020,7 @@ mendacio bancario)
 
 "1-bis. Salvo che il fatto costituisca reato piu' grave, chi, al fine di ottenere concessioni di credito per se' o per le aziende che amministra, o di mutare le condizioni alle quali il credito venne prima concesso, fornisce dolosamente ad una banca notizie o dati falsi sulla costituzione o sulla situazione economica, patrimoniale o finanziaria delle aziende comunque interessate alla concessione del credito, e' punito con la reclusione fino a un anno e con la multa fino ad euro 10.000".
 
-##### Art. 34 - Falso in prospetto
+#### Art. 34 - Falso in prospetto
 
 1\. Dopo l'articolo 173 del testo unico di cui al decreto legislativo 24 febbraio 1998, n. 58, e' inserito il seguente:
 
@@ -2052,7 +2032,7 @@ mendacio bancario)
 
 > \- L'art. 2623 del codice civile, abrogato dalla presente legge, revoca: Violazione di obblighi incombenti agli amministratori».
 
-##### Art. 35 - Falsita' nelle relazioni o nelle comunicazioni delle societa' di revisione
+#### Art. 35 - Falsita' nelle relazioni o nelle comunicazioni delle societa' di revisione
 
 1\. Nel testo unico di cui al decreto legislativo 24 febbraio 1998, n. 58, e successive modificazioni, alla parte V, titolo I, capo III, all'articolo 175 sono premessi i seguenti:
 
@@ -2066,7 +2046,7 @@ Art. 174-ter. - (Corruzione dei revisori). - 1. Gli amministratori, i soci, i re
 
 2\. La stessa pena di cui al comma 1 si applica a chi da' o promette l'utilita'".
 
-##### Art. 36
+#### Art. 36
 
 (False comunicazioni circa l'applicazione delle
 
@@ -2080,13 +2060,13 @@ di comportamento delle societa' quotate)
 
 \- 1. Salvo che il fatto costituisca reato, gli amministratori, i componenti degli organi di controllo e i direttori generali di societa' quotate nei mercati regolamentati i quali omettono le comunicazioni prescritte dall'articolo 124-bis ovvero, nelle stesse o in altre comunicazioni rivolte al pubblico, divulgano o lasciano divulgare false informazioni relativamente all'adesione delle stesse societa' a codici di comportamento redatti da societa' di gestione di mercati regolamentati o da associazioni di categoria degli operatori, ovvero all'applicazione dei medesimi, sono puniti con la sanzione amministrativa pecuniaria da diecimila a trecentomila euro. Il provvedimento sanzionatorio e' pubblicato, a spese degli stessi, su almeno due quotidiani, di cui uno economico, aventi diffusione nazionale".
 
-##### Art. 37 - Omessa comunicazione degli incarichi di componente di organi di amministrazione e controllo
+#### Art. 37 - Omessa comunicazione degli incarichi di componente di organi di amministrazione e controllo
 
 1\. All'articolo 193 del testo unico di cui al decreto legislativo 24 febbraio 1998, n. 58, e successive modificazioni, il comma 3-bis e' sostituito dal seguente:
 
 "3-bis. Salvo che il fatto costituisca reato, i componenti degli organi di controllo, i quali omettano di eseguire nei termini prescritti le comunicazioni di cui all'articolo 148-bis, comma 2, sono puniti con la sanzione amministrativa in misura pari al doppio della retribuzione annuale prevista per l'incarico relativamente al quale e' stata omessa la comunicazione. Con il provvedimento sanzionatorio e' dichiarata altresi' la decadenza dall'incarico".
 
-##### Art. 38 - Abusive attivita' finanziarie
+#### Art. 38 - Abusive attivita' finanziarie
 
 1\. All'articolo 132, comma 1, del testo unico di cui al decreto legislativo 1° settembre 1993, n. 385, e successive modificazioni, e' aggiunto, in fine, il seguente periodo: "La stessa pena si applica a chiunque svolge l'attivita' riservata agli intermediari finanziari iscritti nell'elenco speciale di cui all'articolo 107, in assenza dell'iscrizione nel medesimo elenco".
 
@@ -2100,7 +2080,7 @@ di comportamento delle societa' quotate)
 
 > 2\. Chiunque svolge in via prevalente, non nei confronti del pubblico, una o piu' delle attivita' finanziarie previste dall'art. 106, comma 1, senza essere iscritto nell'apposita sezione dell'elenco generale indicata nell'art. 113 e' punito con l'arresto da sei mesi a tre anni.».
 
-##### Art. 39 - Aumento delle sanzioni penali e amministrative
+#### Art. 39 - Aumento delle sanzioni penali e amministrative
 
 1\. Le pene previste dal testo unico di cui al decreto legislativo 1° settembre 1993, n. 385, dal testo unico di cui al decreto legislativo 24 febbraio 1998, n. 58, dalla legge 12 agosto 1982, n. 576, (( . . . )), sono raddoppiate entro i limiti posti per ciascun tipo di pena dal libro I, titolo II, capo II, del codice penale.
 
@@ -2122,7 +2102,7 @@ c) all'articolo 2638, e' aggiunto, in fine, il seguente comma:
 
 5\. Le sanzioni pecuniarie previste dall'articolo 25-ter del decreto legislativo 8 giugno 2001, n. 231, sono raddoppiate.
 
-##### Art. 40 - Sanzioni accessorie
+#### Art. 40 - Sanzioni accessorie
 
 1\. Il Governo e' delegato ad adottare, su proposta del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze, entro (( dodici mesi )) dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi per l'introduzione di sanzioni accessorie alle sanzioni penali e amministrative applicate ai sensi del titolo XI del libro V del codice civile, del testo unico di cui al decreto legislativo 1° settembre 1993, n. 385, e successive modificazioni, del testo unico di cui al decreto legislativo 24 febbraio 1998, n. 58, e successive modificazioni, della legge 12 agosto 1982, n. 576, e del decreto legislativo 21 aprile 1993, n. 124, nel rispetto dei seguenti principi e criteri direttivi:
 
@@ -2138,11 +2118,9 @@ e) previsione della sanzione accessoria della confisca del prodotto o del profit
 
 f) attribuzione della competenza ad irrogare le sanzioni accessorie alla medesima autorita' competente ad irrogare la sanzione principale.
 
-## TITOLO VI - DISPOSIZIONI TRANSITORIE
+## TITOLO VI - DISPOSIZIONI TRANSITORIE E FINALI
 
-### E FINALI
-
-##### Art. 41
+#### Art. 41
 
 (Soppressione della Commissione permanente per la vigilanza
 
@@ -2160,7 +2138,7 @@ All'articolo 47, secondo periodo, del medesimo testo unico, sono soppresse le pa
 
 > «Art. 47. (Art. 4, legge 1° febbraio 1901, n. 24). - Il Banco di Napoli presenta ogni anno al Ministro del tesoro una relazione sull'andamento del servizio di cui negli articoli 45 e 46. La relazione e' presentata al Parlamento dal Ministro del tesoro.».
 
-##### Art. 42 - Termine per gli adempimenti previsti dalla presente legge
+#### Art. 42 - Termine per gli adempimenti previsti dalla presente legge
 
 1\. (( COMMA ABROGATO DAL D.LGS. 29 DICEMBRE 2006, N. 303 )).
 
@@ -2176,7 +2154,7 @@ Fino a tale data, continuano ad applicarsi le disposizioni del medesimo articolo
 
 5-bis. Le disposizioni regolamentari e quelle di carattere generale di attuazione della presente legge sono adottate dalla CONSOB (( entro il 31 marzo 2007 )).
 
-##### Art. 43
+#### Art. 43
 
 (Delega al Governo
 
@@ -2190,7 +2168,7 @@ per il coordinamento legislativo)
 
 > \- Per il decreto legislativo n. 58/1998 si vedano le note all'art. 2.
 
-##### Art. 44
+#### Art. 44
 
 (Procedura per l'esercizio
 

@@ -27,11 +27,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I
+## Capo I - Disposizioni generali per il recepimento e l'attuazione degli atti dell'Unione europea
 
-### Disposizioni generali per il recepimento e l'attuazione degli atti - dell'Unione europea
-
-#### Art. 1
+### Art. 1
 
 Delega al Governo per l'attuazione e il recepimento
 
@@ -113,7 +111,7 @@ degli atti normativi dell'Unione europea
 
 > Omissis.».
 
-#### Art. 2
+### Art. 2
 
 Delega al Governo per la disciplina sanzionatoria
 
@@ -133,7 +131,7 @@ di violazioni di atti normativi dell'Unione europea
 
 > \- Per i riferimenti all'articolo 32 della citata legge 24 dicembre 2012, n. 234, si vedano le note all'articolo 1.
 
-#### Art. 3
+### Art. 3
 
 Istituzione di un tavolo tecnico avente ad oggetto la sentenza della Corte di giustizia dell'Unione europea del 3 marzo 2022, nella causa C-590/20
 
@@ -143,11 +141,9 @@ Istituzione di un tavolo tecnico avente ad oggetto la sentenza della Corte di gi
 
 3\. Dalle disposizioni di cui al comma 1 non devono derivare nuovi o maggiori oneri per la finanza pubblica. Agli adempimenti previsti dal presente articolo le amministrazioni interessate provvedono con le risorse umane e strumentali esistenti a legislazione vigente. Ai componenti del tavolo tecnico non spettano compensi, gettoni di presenza, rimborsi di spese o altri emolumenti comunque denominati.
 
-## Capo II
+## Capo II - Deleghe al Governo per il recepimento di direttive europee
 
-### Deleghe al Governo per il recepimento di direttive europee
-
-#### Art. 4
+### Art. 4
 
 Principi e criteri direttivi per l'esercizio della delega per il recepimento della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, relativa ai contratti di credito ai consumatori e che abroga la direttiva 2008/48/CE
 
@@ -213,7 +209,7 @@ m) apportare tutte le abrogazioni, modificazioni e integrazioni alla normativa v
 
 > \- Il regolamento (UE) 2017/2394 del Parlamento europeo e del Consiglio, del 12 dicembre 2017, sulla cooperazione tra le autorita' nazionali responsabili dell'esecuzione della normativa che tutela i consumatori e che abroga il regolamento (CE) n. 2006/2004, e' pubblicato nella GUUE 27 dicembre 2017, n. L 345.
 
-#### Art. 5
+### Art. 5
 
 Principi e criteri direttivi per l'esercizio della delega per il recepimento della direttiva (UE) 2024/1226 del Parlamento europeo e del Consiglio, del 24 aprile 2024, relativa alla definizione dei reati e delle sanzioni per la violazione delle misure restrittive dell'Unione e che modifica la direttiva (UE) 2018/1673
 
@@ -237,7 +233,7 @@ d) apportare ogni ulteriore opportuna modifica alle norme dell'ordinamento inter
 
 > \- La legge 24 novembre 1981, n. 689, recante: «Modifiche al sistema penale», e' pubblicata nella Gazzetta Ufficiale n. 329 del 30 novembre 1981.
 
-#### Art. 6
+### Art. 6
 
 Principi e criteri direttivi per l'esercizio della delega per il recepimento della direttiva (UE) 2023/2673 del Parlamento europeo e del Consiglio, del 22 novembre 2023, che modifica la direttiva 2011/83/UE per quanto riguarda i contratti di servizi finanziari conclusi a distanza e abroga la direttiva 2002/65/CE
 
@@ -315,7 +311,7 @@ h) apportare tutte le abrogazioni, modificazioni e integrazioni necessarie alle 
 
 > 9-ter. Il Centro nazionale della rete europea per i consumatori (ECC-NET) e' designato quale organismo competente a fornire assistenza ai consumatori in caso di controversia tra un consumatore e un professionista ai sensi dell'articolo 8 del regolamento (UE) 2018/302. Per le finalita' di cui al primo periodo si applica la procedura di cui all'articolo 30, comma 1-bis, del decreto legislativo 26 marzo 2010, n. 59.».
 
-#### Art. 7
+### Art. 7
 
 Principi e criteri direttivi per il recepimento della direttiva (UE) 2023/1544 del Parlamento europeo e del Consiglio, del 12 luglio 2023, recante norme armonizzate sulla designazione di stabilimenti designati e sulla nomina di rappresentanti legali ai fini dell'acquisizione di prove elettroniche nei procedimenti penali
 
@@ -339,7 +335,7 @@ d) apportare ogni ulteriore opportuna modifica alle norme dell'ordinamento inter
 
 > \- Per i riferimenti alla legge 24 novembre 1981, n. 689, si vedano le note all'articolo 5.
 
-#### Art. 8
+### Art. 8
 
 Principi e criteri direttivi per l'esercizio della delega per il recepimento della direttiva (UE) 2024/884 del Parlamento europeo e del Consiglio, del 13 marzo 2024, che modifica la direttiva 2012/19/UE sui rifiuti di apparecchiature elettriche ed elettroniche - RAEE
 
@@ -375,7 +371,7 @@ c) adeguare la normativa nazionale a quanto previsto dall'articolo 1, punti 4) e
 
 > 4\. La Conferenza unificata di cui al comma 1 e' convocata dal Presidente del Consiglio dei ministri. Le sedute sono presiedute dal Presidente del Consiglio dei ministri o, su sua delega, dal Ministro per gli affari regionali o, se tale incarico non e' conferito, dal Ministro dell'interno.».
 
-#### Art. 9
+### Art. 9
 
 Principi e criteri direttivi per l'esercizio della delega per il recepimento della direttiva (UE) 2024/1203 del Parlamento europeo e del Consiglio, dell'11 aprile 2024, sulla tutela penale dell'ambiente, che sostituisce le direttive 2008/99/CE e 2009/123/CE
 
@@ -403,7 +399,7 @@ f) apportare ogni ulteriore opportuna modifica alle norme dell'ordinamento inter
 
 > \- Il decreto legislativo 8 giugno 2001, n. 231, recante: «Disciplina della responsabilita' amministrativa delle persone giuridiche, delle societa' e delle associazioni anche prive di personalita' giuridica, a norma dell'articolo 11 della legge 29 settembre 2000, n. 300», e' pubblicato nella Gazzetta Ufficiale n. 140 del 19 giugno 2001.
 
-#### Art. 10
+### Art. 10
 
 Principi e criteri direttivi per l'esercizio della delega per il recepimento della direttiva (UE) 2024/1785 del Parlamento europeo e del Consiglio, del 24 aprile 2024, che modifica la direttiva 2010/75/UE del Parlamento europeo e del Consiglio, relativa alle emissioni industriali (prevenzione e riduzione integrate dell'inquinamento), e la direttiva 1999/31/CE del Consiglio, relativa alle discariche di rifiuti
 
@@ -541,7 +537,7 @@ i) apportare alla normativa vigente ogni ulteriore modifica e integrazione al fi
 
 > \- Per i riferimenti all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, si vedano le note all'articolo 8.
 
-#### Art. 11
+### Art. 11
 
 Principi e criteri direttivi per l'esercizio della delega per il recepimento della direttiva (UE) 2024/2831 del Parlamento europeo e del Consiglio, del 23 ottobre 2024, relativa al miglioramento delle condizioni di lavoro nel lavoro mediante piattaforme digitali
 
@@ -585,7 +581,7 @@ i) individuare e regolamentare le modalita' con cui le piattaforme di lavoro dig
 
 > \- Il decreto legislativo 9 aprile 2008, n. 81, recante: «Attuazione dell'articolo 1 della legge 3 agosto 2007, n. 123, in materia di tutela della salute e della sicurezza nei luoghi di lavoro» e' pubblicato nella Gazzetta Ufficiale 30 aprile 2008, n. 101.
 
-#### Art. 12
+### Art. 12
 
 Principi e criteri direttivi per l'esercizio della delega per il recepimento della direttiva (UE) 2024/2881 del Parlamento europeo e del Consiglio, del 23 ottobre 2024, relativa alla qualita' dell'aria ambiente e per un'aria piu' pulita in Europa
 
@@ -613,7 +609,7 @@ e) prevedere, a integrazione della disciplina sulla tutela della qualita' dell'a
 
 > \- Per il testo dell'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, si vedano le note all'articolo 8.
 
-#### Art. 13
+### Art. 13
 
 Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/2809 del Parlamento europeo e del Consiglio, del 23 ottobre 2024, che modifica i regolamenti (UE) 2017/1129, (UE) n. 596/2014 e (UE) n. 600/2014 per rendere i mercati pubblici dei capitali nell'Unione piu' attraenti per le societa' e facilitare l'accesso delle piccole e medie imprese ai capitali, per il recepimento della direttiva (UE) 2024/2810 del Parlamento europeo e del Consiglio, del 23 ottobre 2024, sulle strutture con azioni a voto plurimo nelle societa' che chiedono l'ammissione alla negoziazione delle loro azioni in un sistema multilaterale di negoziazione, per il recepimento della direttiva (UE) 2024/2811 del Parlamento europeo e del Consiglio, del 23 ottobre 2024, che modifica la direttiva 2014/65/UE per rendere i mercati pubblici dei capitali nell'Unione piu' attraenti per le imprese e per facilitare l'accesso delle piccole e medie imprese ai capitali, e che abroga la direttiva 2001/34/CE, per il recepimento della direttiva (UE) 2024/2994 del Parlamento europeo e del Consiglio, del 27 novembre 2024, che modifica le direttive 2009/65/CE, 2013/36/UE e (UE) 2019/2034 per quanto concerne il trattamento del rischio di concentrazione derivante dalle esposizioni nei confronti delle controparti centrali e del rischio di controparte per le operazioni con strumenti derivati compensate a livello centrale, e per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/2987 del Parlamento europeo e del Consiglio, del 27 novembre 2024, che modifica i regolamenti (UE) n. 648/2012, (UE) n. 575/2013 e (UE) 2017/1131 per quanto concerne le misure volte ad attenuare le esposizioni eccessive nei confronti di controparti centrali di paesi terzi e a migliorare l'efficienza dei mercati della compensazione dell'Unione, per il recepimento della direttiva (UE) 2024/790 del Parlamento europeo e del Consiglio, del 28 febbraio 2024, che modifica la direttiva 2014/65/UE, relativa ai mercati degli strumenti finanziari, e per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/791 del Parlamento europeo e del Consiglio, del 28 febbraio 2024, che modifica il regolamento (UE) n. 600/2014 per quanto riguarda il miglioramento della trasparenza dei dati, l'eliminazione degli ostacoli all'emergere di sistemi consolidati di pubblicazione, l'ottimizzazione degli obblighi di negoziazione e il divieto di ricevere pagamenti per il flusso degli ordini, per il recepimento della direttiva (UE) 2024/927 del Parlamento europeo e del Consiglio, del 13 marzo 2024, che modifica le direttive 2011/61/UE e 2009/65/CE per quanto riguarda gli accordi di delega, la gestione del rischio di liquidita', le segnalazioni a fini di vigilanza, la fornitura dei servizi di custodia e di depositario e la concessione di prestiti da parte di fondi di investimento alternativi, nonche' per il recepimento della direttiva (UE) 2025/2 del Parlamento europeo e del Consiglio, del 27 novembre 2024, che modifica la direttiva 2009/138/CE, per quanto concerne la proporzionalita', la qualita' della vigilanza, l'informativa, le misure relative alle garanzie a lungo termine, gli strumenti macroprudenziali, i rischi di sostenibilita' e la vigilanza transfrontaliera e di gruppo, e le direttive 2002/87/CE e 2013/34/UE
 
@@ -875,7 +871,7 @@ f) prevedere il ricorso alla disciplina secondaria dell'IVASS, secondo le sue co
 
 > \- La direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, in materia di accesso ed esercizio delle attivita' di assicurazione e di riassicurazione (solvibilita' II) (rifusione), e' pubblicata nella GUUE 17 dicembre 2009, n. L 335.
 
-#### Art. 14
+### Art. 14
 
 Delega al Governo per il recepimento della direttiva (UE) 2024/1640 del Parlamento europeo e del Consiglio, del 31 maggio 2024, relativa ai meccanismi che gli Stati membri devono istituire per prevenire l'uso del sistema finanziario a fini di riciclaggio o di finanziamento del terrorismo, che modifica la direttiva (UE) 2019/1937, e modifica e abroga la direttiva (UE) 2015/849, e per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1624 del Parlamento europeo e del Consiglio, del 31 maggio 2024, relativo alla prevenzione dell'uso del sistema finanziario a fini di riciclaggio o finanziamento del terrorismo, e del regolamento (UE) 2024/1620 del Parlamento europeo e del Consiglio, del 31 maggio 2024, che istituisce l'Autorita' per la lotta al riciclaggio e al finanziamento del terrorismo e che modifica i regolamenti (UE) n. 1093/2010, (UE) n. 1094/2010 e (UE) n. 1095/2010
 
@@ -985,7 +981,7 @@ f) predisporre gli opportuni interventi normativi per garantire il pieno rispett
 
 > \- Il decreto legislativo 8 novembre 2021, n. 186, recante: «Attuazione della direttiva (UE) 2019/1153 del Parlamento europeo e del Consiglio, del 20 giugno 2019, che reca disposizioni per agevolare l'uso di informazioni finanziarie e di altro tipo a fini di prevenzione, accertamento, indagine o perseguimento di determinati reati, e che abroga la decisione 2000/642/GAI», e' pubblicato nella Gazzetta Ufficiale n. 284 del 29 novembre 2021.
 
-#### Art. 15
+### Art. 15
 
 Principi e criteri direttivi per l'esercizio della delega al Governo per il recepimento della direttiva (UE) 2024/1174 del Parlamento europeo e del Consiglio, dell'11 aprile 2024, che modifica la direttiva 2014/59/UE e il regolamento (UE) n. 806/2014 per quanto riguarda taluni aspetti del requisito minimo di fondi propri e passivita' ammissibili
 
@@ -1007,7 +1003,7 @@ d) apportare alla normativa vigente tutte le modificazioni e le integrazioni occ
 
 > \- Il Titolo VII del decreto legislativo 16 novembre 2015, n. 180 recante: «Attuazione della direttiva 2014/59/UE del Parlamento europeo e del Consiglio, del 15 maggio 2014, che istituisce un quadro di risanamento e risoluzione degli enti creditizi e delle imprese di investimento e che modifica la direttiva 82/891/CEE del Consiglio, e le direttive 2001/24/CE, 2002/47/CE, 2004/25/CE, 2005/56/CE, 2007/36/CE, 2011/35/UE, 2012/30/UE e 2013/36/UE e i regolamenti (UE), n. 1093/2010 e (UE) n. 648/2012, del Parlamento europeo e del Consiglio» reca: «Sanzioni amministrative».
 
-#### Art. 16
+### Art. 16
 
 Principi e criteri direttivi per il recepimento della direttiva (UE) 2024/1619 del Parlamento europeo e del Consiglio, del 31 maggio 2024, che modifica la direttiva 2013/36/UE per quanto riguarda i poteri di vigilanza, le sanzioni, le succursali di paesi terzi e i rischi ambientali, sociali e di governance, nonche' per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1623 del Parlamento europeo e del Consiglio, del 31 maggio 2024, che modifica il regolamento (UE) n. 575/2013 per quanto concerne i requisiti per il rischio di credito, il rischio di aggiustamento della valutazione del credito, il rischio operativo, il rischio di mercato e l'output floor
 
@@ -1161,7 +1157,7 @@ n) apportare alla disciplina degli intermediari finanziari iscritti nell'albo pr
 
 > 11\. Alle sanzioni amministrative pecuniarie previste dal presente titolo non si applicano le disposizioni contenute negli articoli 6, 10, 11 e 16 della legge 24 novembre 1981, n. 689.».
 
-#### Art. 17
+### Art. 17
 
 Delega al Governo per il recepimento della direttiva (UE) 2024/2841 del Parlamento europeo e del Consiglio, del 23 ottobre 2024, che istituisce la carta europea della disabilita' e il contrassegno europeo di parcheggio per le persone con disabilita'
 
@@ -1227,11 +1223,9 @@ n) individuare il sistema di tutela anche ai sensi degli articoli 16 e 17 della 
 
 > «210. Al fine di assicurare un'efficiente programmazione delle politiche per l'inclusione, l'accessibilita' e il sostegno a favore delle persone con disabilita', a decorrere dal 1° gennaio 2024 e' istituito nello stato di previsione del Ministero dell'economia e delle finanze, per il successivo trasferimento al bilancio autonomo della Presidenza del Consiglio dei ministri, il Fondo unico per l'inclusione delle persone con disabilita' con una dotazione di euro 552.177.454 per l'anno 2024 e di euro 231.807.485 annui a decorrere dall'anno 2025.».
 
-## Capo III
+## Capo III - Deleghe al Governo per l'attuazione di regolamenti europei
 
-### Deleghe al Governo per l'attuazione di regolamenti europei
-
-#### Art. 18
+### Art. 18
 
 Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1991 del Parlamento europeo e del Consiglio, del 24 giugno 2024, sul ripristino della natura e che modifica il regolamento (UE) 2022/869
 
@@ -1255,7 +1249,7 @@ b) individuare le amministrazioni competenti per l'attuazione del piano nazional
 
 > \- Per i riferimenti all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, si veda nelle note all'articolo 8.
 
-#### Art. 19
+### Art. 19
 
 Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2023/1543 del Parlamento europeo e del Consiglio, del 12 luglio 2023, relativo agli ordini europei di produzione e agli ordini europei di conservazione di prove elettroniche nei procedimenti penali e per l'esecuzione di pene detentive a seguito di procedimenti penali
 
@@ -1331,7 +1325,7 @@ r) apportare ogni ulteriore opportuna modifica alle norme dell'ordinamento inter
 
 > \- Per i riferimenti alla legge 24 novembre 1981, n. 689, si vedano le note all'articolo 5.
 
-#### Art. 20
+### Art. 20
 
 Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni del regolamento (CE) n. 1071/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009, che stabilisce norme comuni sulle condizioni da rispettare per esercitare l'attivita' di trasportatore su strada e abroga la direttiva 96/26/CE del Consiglio, nonche' alle disposizioni del regolamento (UE) 2020/1055 del Parlamento europeo e del Consiglio, del 15 luglio 2020, che modifica i regolamenti (CE) n. 1071/2009, (CE) n. 1072/2009 e (UE) n. 1024/2012 per adeguarli all'evoluzione del trasporto su strada
 
@@ -1363,7 +1357,7 @@ b) provvedere alla semplificazione degli adempimenti amministrativi connessi all
 
 > \- Per i riferimenti all'articolo 32 della legge 24 dicembre 2012, n. 234, si vedano le note all'articolo 1.
 
-#### Art. 21
+### Art. 21
 
 Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2023/2631 del Parlamento europeo e del Consiglio, del 22 novembre 2023, sulle obbligazioni verdi europee e sull'informativa volontaria per le obbligazioni commercializzate come obbligazioni ecosostenibili e per le obbligazioni legate alla sostenibilita'
 
@@ -1405,7 +1399,7 @@ e) prevedere il ricorso alla disciplina secondaria adottata dalla CONSOB, ove op
 
 > Art. 21 (Collaborazione fra le Autorita'). - 1. La Banca d'Italia, la CONSOB, l'ISVAP, la COVIP e l'Autorita' garante della concorrenza e del mercato collaborano tra loro, anche mediante scambio di informazioni, per agevolare l'esercizio delle rispettive funzioni. Le Autorita' non possono reciprocamente opporsi il segreto d'ufficio. Tutti i dati, le informazioni e i documenti comunque comunicati da una ad altra Autorita', anche attraverso l'inserimento in archivi gestiti congiuntamente, restano sottoposti al segreto d'ufficio secondo le disposizioni previste dalla legge per l'Autorita' che li ha prodotti o acquisiti per prima.».
 
-#### Art. 22
+### Art. 22
 
 Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2023/2859 del Parlamento europeo e del Consiglio, del 13 dicembre 2023, che istituisce un punto di accesso unico europeo che fornisce un accesso centralizzato alle informazioni accessibili al pubblico pertinenti per i servizi finanziari, i mercati dei capitali e la sostenibilita', e del regolamento (UE) 2023/2869 del Parlamento europeo e del Consiglio, del 13 dicembre 2023, che modifica taluni regolamenti per quanto concerne l'istituzione e il funzionamento del punto di accesso unico europeo, nonche' per il recepimento della direttiva (UE) 2023/2864 del Parlamento europeo e del Consiglio, del 13 dicembre 2023, che modifica talune direttive per quanto concerne l'istituzione e il funzionamento del punto di accesso unico europeo
 
@@ -1437,7 +1431,7 @@ e) disciplinare, ove occorrenti, forme di coordinamento e di collaborazione, anc
 
 > \- Per i riferimenti al decreto legislativo 24 febbraio 1998, n. 58, si vedano le note all'articolo 6.
 
-#### Art. 23
+### Art. 23
 
 Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2023/2845 del Parlamento europeo e del Consiglio, del 13 dicembre 2023, che modifica il regolamento (UE) n. 909/2014 per quanto riguarda la disciplina di regolamento, la prestazione di servizi transfrontalieri, la cooperazione in materia di vigilanza, la prestazione di servizi accessori di tipo bancario e i requisiti per i depositari centrali di titoli di paesi terzi, e che modifica il regolamento (UE) n. 236/2012
 
@@ -1503,7 +1497,7 @@ h) prevedere che la CONSOB, d'intesa con la Banca d'Italia, adotti la disciplina
 
 > Omissis.».
 
-#### Art. 24
+### Art. 24
 
 Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2023/988 del Parlamento europeo e del Consiglio, del 10 maggio 2023, relativo alla sicurezza generale dei prodotti, che modifica il regolamento (UE) n. 1025/2012 del Parlamento europeo e del Consiglio e la direttiva (UE) 2020/1828 del Parlamento europeo e del Consiglio, e che abroga la direttiva 2001/95/CE del Parlamento europeo e del Consiglio e la direttiva 87/357/CEE del Consiglio
 
@@ -1537,7 +1531,7 @@ f) prevedere, previo versamento in apposito capitolo di entrata del bilancio del
 
 > \- La direttiva 2001/95/CE del Parlamento europeo e del Consiglio, del 3 dicembre 2001, relativa alla sicurezza generale dei prodotti, e' pubblicata nella GUCE 15 gennaio 2002, n. L 11.
 
-#### Art. 25
+### Art. 25
 
 Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2023/2411 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, relativo alla protezione delle indicazioni geografiche per i prodotti artigianali e industriali e che modifica i regolamenti (UE) 2017/1001 e (UE) 2019/1753
 
@@ -1563,7 +1557,7 @@ e) prevedere, per assicurare lo svolgimento delle attivita' di cui al regolament
 
 > \- Per i riferimenti all'articolo 32 della legge 24 dicembre 2012, n. 234, si vedano le note all'articolo 1.
 
-#### Art. 26
+### Art. 26
 
 Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2023/1115 del Parlamento europeo e del Consiglio, del 31 maggio 2023, relativo alla messa a disposizione sul mercato dell'Unione e all'esportazione dall'Unione di determinate materie prime e determinati prodotti associati alla deforestazione e al degrado forestale e che abroga il regolamento (UE) n. 995/2010
 
@@ -1661,7 +1655,7 @@ o) predisporre, per il previsto periodo transitorio, forme di coordinamento tra 
 
 > \- Per i riferimenti all'articolo 41-bis della legge 24 dicembre 2012, n. 234, si vedano le note all'articolo 1.
 
-#### Art. 27
+### Art. 27
 
 Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2022/1616 della Commissione, del 15 settembre 2022, relativo ai materiali e agli oggetti di materia plastica riciclata destinati a venire a contatto con i prodotti alimentari e che abroga il regolamento (CE) n. 282/2008, e per la determinazione delle tariffe previste per le attivita' di controllo ufficiale di materiali e oggetti destinati al contatto con gli alimenti (MOCA), di cui al regolamento UE 2017/625 del Parlamento europeo e del Consiglio, del 15 marzo 2017
 
@@ -1691,7 +1685,7 @@ e) destinare i proventi derivanti dalle sanzioni amministrative pecuniarie previ
 
 > \- Il regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio, del 15 marzo 2017, relativo ai controlli ufficiali e alle altre attivita' ufficiali effettuati per garantire l'applicazione della legislazione sugli alimenti e sui mangimi, delle norme sulla salute e sul benessere degli animali, sulla sanita' delle piante nonche' sui prodotti fitosanitari, recante modifica dei regolamenti (CE) n. 999/2001, (CE) n. 396/2005, (CE) n. 1069/2009, (CE) n. 1107/2009, (UE) n. 1151/2012, (UE) n. 652/2014, (UE) 2016/429 e (UE) 2016/2031 del Parlamento europeo e del Consiglio, dei regolamenti (CE) n. 1/2005 e (CE) n. 1099/2009 del Consiglio e delle direttive 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE e 2008/120/CE del Consiglio, e che abroga i regolamenti (CE) n. 854/2004 e (CE) n. 882/2004 del Parlamento europeo e del Consiglio, le direttive 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE e 97/78/CE del Consiglio e la decisione 92/438/CEE del Consiglio (regolamento sui controlli ufficiali), e' pubblicato nella GUUE 7 aprile 2017, n. L 95.
 
-#### Art. 28
+### Art. 28
 
 Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni del regolamento delegato (UE) 2022/1644 della Commissione, del 7 luglio 2022, che integra il regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio con prescrizioni specifiche per l'esecuzione dei controlli ufficiali sull'uso di sostanze farmacologicamente attive autorizzate come medicinali veterinari o come additivi per mangimi, e dei loro residui, e sull'uso di sostanze farmacologicamente attive vietate o non autorizzate e dei loro residui, e al regolamento di esecuzione (UE) 2022/1646 della Commissione, del 23 settembre 2022, relativo alle modalita' pratiche uniformi di esecuzione dei controlli ufficiali per quanto riguarda l'uso di sostanze farmacologicamente attive autorizzate come medicinali veterinari o come additivi per mangimi, e dei loro residui, e l'uso di sostanze farmacologicamente attive vietate o non autorizzate e dei loro residui, al contenuto specifico dei piani di controllo nazionali pluriennali e alle modalita' specifiche per l'elaborazione degli stessi
 
@@ -1713,7 +1707,7 @@ b) assicurare adeguati controlli alle frontiere al fine sia di tutelare la salut
 
 > \- Per i riferimenti all'articolo 32 della legge 24 dicembre 2012, n. 234, si vedano le note all'articolo 1.
 
-#### Art. 29
+### Art. 29
 
 Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2023/1542 del Parlamento europeo e del Consiglio, del 12 luglio 2023, relativo alle batterie e ai rifiuti di batterie, che modifica la direttiva 2008/98/CE e il regolamento (UE) 2019/1020 e abroga la direttiva 2006/66/CE
 
@@ -1781,7 +1775,7 @@ Visto, il Guardasigilli: Nordio
 
 ## Allegati
 
-#### Allegato A
+### Allegato A
 
 Allegato A
 

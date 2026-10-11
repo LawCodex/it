@@ -82,9 +82,7 @@ Sulla proposta del Ministro della giustizia, di concerto con i Ministri dell'eco
 
 Emana il seguente decreto legislativo:
 
-## Capo I - Modifiche al codice civile e alle disposizioni per l'attuazione del
-
-### codice civile e disposizioni transitorie
+## Capo I - Modifiche al codice civile e alle disposizioni per l'attuazione del codice civile e disposizioni transitorie
 
 #### Art. 1
 
@@ -308,9 +306,7 @@ c) il quarto, quinto e sesto comma sono abrogati.
 
 > Al procedimento e' legittimato a partecipare l'amministratore secondo quanto previsto dall'articolo 5-ter del decreto legislativo 4 marzo 2010, n. 28.".
 
-## Capo II - Modifiche al codice di procedura civile e alle disposizioni per
-
-### l'attuazione del codice di procedura civile e disposizioni - transitorie
+## Capo II - Modifiche al codice di procedura civile e alle disposizioni per l'attuazione del codice di procedura civile e disposizioni transitorie
 
 #### Art. 3
 
@@ -3238,9 +3234,7 @@ Con provvedimenti del direttore generale dei sistemi informativi e automatizzati
 
 > Il registro e' pubblico e liberamente consultabile e dello stesso possono essere rilasciate copie o estratti.".
 
-## Capo III - Modifiche al codice penale, al codice di procedura penale e alle
-
-### norme di attuazione, di coordinamento e transitorie del codice di - procedura penale
+## Capo III - Modifiche al codice penale, al codice di procedura penale e alle norme di attuazione, di coordinamento e transitorie del codice di procedura penale
 
 #### Art. 5
 
@@ -4062,7 +4056,7 @@ e arbitrato societario
 
 > \- La legge 6 maggio 2004, n. 129, recante "Norme per la disciplina dell'affiliazione commerciale", e' pubblicata nella Gazzetta Ufficiale 24 maggio 2004, n. 120.
 
-## Sezione II - Modifiche in materia di processo civile telematico
+### Sezione II - Modifiche in materia di processo civile telematico
 
 #### Art. 11
 
@@ -4322,9 +4316,7 @@ d) all'articolo 186-bis, e' aggiunto, in fine, il seguente comma: «Ogni sei mes
 
 > Ogni sei mesi successivi alla presentazione della relazione di cui all'articolo 172, primo comma, il commissario giudiziale redige un rapporto riepilogativo secondo quanto previsto dall'articolo 33, quinto comma, e lo trasmette ai creditori a norma dell'articolo 171, secondo comma. Conclusa l'esecuzione del concordato, deposita un rapporto riepilogativo finale redatto in conformita' a quanto previsto dall'articolo 33, quinto comma."
 
-## Sezione III - Modifiche in materia di processo di primo grado e consulenti tecnici
-
-### d'ufficio
+### Sezione III - Modifiche in materia di processo di primo grado e consulenti tecnici d'ufficio
 
 #### Art. 15
 
@@ -4784,7 +4776,7 @@ Modifiche alle leggi speciali in materia di albi dei consulenti tecnici d'uffici
 
 > 7\. I soggetti di cui ai commi 1 e 2, che alla data di acquisto di efficacia delle disposizioni del presente articolo sono gia' iscritti negli albi ed elenchi previsti dai medesimi commi, inseriscono i propri dati, con modalita' telematiche e in conformita' alle specifiche tecniche di cui al comma 5, entro il termine perentorio di novanta giorni dalla pubblicazione sul sito internet del Ministero della giustizia delle medesime specifiche tecniche. A decorrere dalla data di scadenza del termine di cui al periodo precedente, gli albi ed elenchi gia' formati sono sostituiti ad ogni effetto dagli albi ed elenchi previsti dal presente articolo.".
 
-## Sezione IV - Modifiche in materia di impugnazioni
+### Sezione IV - Modifiche in materia di impugnazioni
 
 #### Art. 17
 
@@ -4944,9 +4936,7 @@ Modifiche al decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazion
 
 > "Art. 16-sexies. (Domicilio digitale). - 1. Quando la legge prevede che le notificazioni degli atti in materia civile al difensore siano eseguite, ad istanza di parte, presso la cancelleria dell'ufficio giudiziario, alla notificazione con le predette modalita' puo' procedersi esclusivamente quando non sia possibile, per causa imputabile al destinatario, la notificazione presso l'indirizzo di posta elettronica certificata, risultante dagli elenchi di cui all'articolo 6-bis del decreto legislativo 7 marzo 2005, n. 82, nonche' dal registro generale degli indirizzi elettronici, gestito dal ministero della giustizia.".
 
-## Sezione V - Ulteriori interventi in materia di volontaria giurisdizione e
-
-### processo esecutivo
+### Sezione V - Ulteriori interventi in materia di volontaria giurisdizione e processo esecutivo
 
 #### Art. 21
 
@@ -5312,9 +5302,7 @@ b) all'articolo 136, comma 2-ter, il terzo periodo e' soppresso.
 
 > 10-quater. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni interessate alla relativa attuazione vi provvedono con le sole risorse umane, finanziarie e strumentali disponibili a legislazione vigente.".
 
-## Sezione VI - Modifiche relative al procedimento in materia di persone, minorenni e
-
-### famiglie
+### Sezione VI - Modifiche relative al procedimento in materia di persone, minorenni e famiglie
 
 #### Art. 27
 
@@ -5554,9 +5542,7 @@ AGGIORNAMENTO (7)
 
 Il D.Lgs. 31 ottobre 2024, n. 164, ha disposto (con l'art. 7, comma 1) che "Ove non diversamente previsto, le disposizioni del presente decreto si applicano ai procedimenti introdotti successivamente al 28 febbraio 2023".
 
-## Sezione VII - Modifiche in materia di tribunale per le persone, per i minorenni e
-
-### per le famiglie
+### Sezione VII - Modifiche in materia di tribunale per le persone, per i minorenni e per le famiglie
 
 #### Art. 30
 
@@ -5978,7 +5964,7 @@ nei rapporti riepilogativi
 
 1\. I rapporti riepilogativi periodici e finali previsti per le procedure concorsuali e i rapporti riepilogativi previsti per i procedimenti di esecuzione forzata devono essere depositati con modalita' telematiche nel rispetto della normativa anche regolamentare concernente la sottoscrizione, la trasmissione e la ricezione dei documenti informatici, nonche' delle apposite specifiche tecniche del direttore generale per i sistemi informativi automatizzati del Ministero della giustizia. I relativi dati sono estratti ed elaborati, a cura del Ministero della giustizia, anche nell'ambito di rilevazioni statistiche nazionali.
 
-## Sezione II - Disposizioni in materia di mediazione e negoziazione assistita
+### Sezione II - Disposizioni in materia di mediazione e negoziazione assistita
 
 #### Art. 41
 
@@ -6012,9 +5998,7 @@ Norma di coordinamento
 
 1\. Le parole «articolo 5, comma 1-bis, del decreto legislativo 4 marzo 2010, n. 28», ovunque presenti, in tutta la legislazione vigente, sono sostituite, dal 30 giugno 2023, dalle parole «articolo 5, comma 1, del decreto legislativo 4 marzo 2010, n. 28».
 
-## Sezione III - Disposizioni in materia di istituzione del tribunale per le persone,
-
-### per i minorenni e per le famiglie
+### Sezione III - Disposizioni in materia di istituzione del tribunale per le persone, per i minorenni e per le famiglie
 
 #### Art. 45
 
@@ -6118,7 +6102,7 @@ Disposizioni per la definizione dei procedimenti pendenti
 
 5\. L'udienza fissata davanti al tribunale per i minorenni e al tribunale ordinario per una data successiva, rispettivamente, a quella di cui al comma 1 e al 1° gennaio 2030 si intende fissata davanti al tribunale per le persone, per i minorenni e per le famiglie per i medesimi incombenti. I procedimenti sono trattati dagli stessi magistrati ai quali erano in precedenza assegnati, salva l'applicazione dell'articolo 174, secondo comma, del codice di procedura civile.
 
-## Sezione IV - Diposizioni di coordinamento, finanziarie e finali
+### Sezione IV - Diposizioni di coordinamento, finanziarie e finali
 
 #### Art. 50
 

@@ -45,15 +45,11 @@ Emana
 
 il seguente decreto legislativo:
 
-## TITOLO I
+## TITOLO I - Disciplina sanzionatoria per le violazioni del regolamento (CE) n. 1829 del Parlamento europeo e del Consiglio, del 22 settembre 2003.
 
-### Disciplina sanzionatoria per le violazioni del regolamento (CE) n. - 1829 del Parlamento europeo e del Consiglio, del 22 settembre 2003.
+### Capo I - Disposizione generale
 
-#### Capo I
-
-##### Disposizione generale
-
-###### Art. 1
+##### Art. 1
 
 Oggetto e finalita'
 
@@ -85,17 +81,11 @@ Oggetto e finalita'
 
 > \- Per il regolamento (CE) n. 1829/2003, vedi note alle premesse.
 
-## Capo II
+### Capo II - Disciplina sanzionatoria per le violazioni relative agli alimenti geneticamente modificati
 
-### Disciplina sanzionatoria per le violazioni relative agli alimenti - geneticamente modificati
+#### SEZIONE I - Disciplina sanzionatoria per le violazioni relative all'autorizzazione ed alla vigilanza
 
-#### SEZIONE I
-
-##### Disciplina sanzionatoria per le violazioni relative
-
-###### all'autorizzazione ed alla vigilanza
-
-###### Art. 2
+##### Art. 2
 
 Disciplina sanzionatoria per le violazioni previste agli articoli 4, 7, 9, 10 e 11 del regolamento
 
@@ -115,7 +105,7 @@ Disciplina sanzionatoria per le violazioni previste agli articoli 4, 7, 9, 10 e 
 
 > \- Per il regolamento (CE) n. 1829/2003, vedi note alle premesse.
 
-###### Art. 3
+##### Art. 3
 
 Disciplina sanzionatoria per le violazioni previste all'articolo 8 del regolamento
 
@@ -127,11 +117,9 @@ Disciplina sanzionatoria per le violazioni previste all'articolo 8 del regolamen
 
 > \- Per il regolamento (CE) n. 1829/2003, vedi note alle premesse.
 
-## SEZIONE II
+#### SEZIONE II - Disciplina sanzionatoria per le violazioni relative all'etichettatura
 
-### Disciplina sanzionatoria per le violazioni relative all'etichettatura
-
-###### Art. 4
+##### Art. 4
 
 Disciplina sanzionatoria per le violazioni previste all'articolo 13 del regolamento
 
@@ -143,17 +131,11 @@ Disciplina sanzionatoria per le violazioni previste all'articolo 13 del regolame
 
 > \- Per il regolamento (CE) n. 1829/2003, vedi note alle premesse.
 
-## Capo III
+### Capo III - Disciplina sanzionatoria per le violazioni relative ai mangimi geneticamente modificati
 
-### Disciplina sanzionatoria per le violazioni relative ai mangimi - geneticamente modificati
+#### SEZIONE I - Disciplina sanzionatoria per le violazioni relative all'autorizzazione ed alla vigilanza
 
-#### SEZIONE I
-
-##### Disciplina sanzionatoria per le violazioni relative
-
-###### all'autorizzazione ed alla vigilanza
-
-###### Art. 5
+##### Art. 5
 
 Disciplina sanzionatoria per le violazioni previste agli articoli 6, 19, 21, 22 e 23 del regolamento
 
@@ -173,7 +155,7 @@ Disciplina sanzionatoria per le violazioni previste agli articoli 6, 19, 21, 22 
 
 > \- Per il regolamento (CE) n. 1829/2003, vedi note alle premesse.
 
-###### Art. 6
+##### Art. 6
 
 Disciplina sanzionatoria per le violazioni previste all'articolo 20 del regolamento
 
@@ -185,11 +167,9 @@ Disciplina sanzionatoria per le violazioni previste all'articolo 20 del regolame
 
 > \- Per il regolamento (CE) n. 1829/2003, vedi note alle premesse.
 
-## SEZIONE II
+#### SEZIONE II - Disciplina sanzionatoria per le violazioni relative all'etichettatura
 
-### Disciplina sanzionatoria per le violazioni relative all'etichettatura
-
-###### Art. 7
+##### Art. 7
 
 Disciplina sanzionatoria per le violazioni previste all'articolo 25 del regolamento
 
@@ -197,11 +177,9 @@ Disciplina sanzionatoria per le violazioni previste all'articolo 25 del regolame
 
 2\. La disposizione di cui al comma 1 non si applica ai mangimi che contengono materiale che contiene OGM, o e' costituito da OGM o e' prodotto a partire da OGM presenti in proporzione non superiore allo 0,9 per cento per mangime e per ciascun mangime di cui esso e' composto o in proporzione non superiore alla minor soglia eventualmente stabilita ai sensi dell'articolo 24, paragrafo 4, del regolamento, purche' tale presenza sia accidentale o tecnicamente inevitabile. Al fine di stabilire se la presenza di tale materiale sia accidentale o tecnicamente inevitabile, gli operatori devono essere in grado di dimostrare di avere preso tutte le misure appropriate per evitarne la presenza.
 
-## Capo IV
+### Capo IV - Relazione con il decreto legislativo 8 luglio 2003, n. 224
 
-### Relazione con il decreto legislativo 8 luglio 2003, n. 224
-
-###### Art. 8
+##### Art. 8
 
 Relazione con gli articoli 30, comma 2 e 35, comma 10 e con l'articolo 36 del decreto legislativo 8 luglio 2003, n. 224
 
@@ -231,11 +209,9 @@ Relazione con gli articoli 30, comma 2 e 35, comma 10 e con l'articolo 36 del de
 
 > 6\. Chiunque non ottempera alle prescrizioni di cui al comma 2 e' punito con l'arresto da sei mesi ad un anno e con l'ammenda da euro 2.600 ad euro 25.900.».
 
-## Capo V
+### Capo V - Disposizione transitoria
 
-### Disposizione transitoria
-
-###### Art. 9
+##### Art. 9
 
 Disposizione transitoria in caso di presenza accidentale o tecnicamente inevitabile di materiale geneticamente modificato che e' stato oggetto di una valutazione del rischio favorevole.
 
@@ -245,15 +221,11 @@ Disposizione transitoria in caso di presenza accidentale o tecnicamente inevitab
 
 > \- Per il regolamento (CE) n. 1829/2003, vedi note alle premesse.
 
-## TITOLO II
+## TITOLO II - Disciplina sanzionatoria per le violazioni del regolamento (CE) n. 1830 del Parlamento europeo e del Consiglio, del 22 settembre 2003.
 
-### Disciplina sanzionatoria per le violazioni del regolamento (CE) n. - 1830 del Parlamento europeo e del Consiglio, del 22 settembre 2003.
+### Capo I - Disposizione generale
 
-#### Capo I
-
-##### Disposizione generale
-
-###### Art. 10
+##### Art. 10
 
 Oggetto e finalita'
 
@@ -265,13 +237,9 @@ Oggetto e finalita'
 
 > \- Per la direttiva 2001/18/CE, vedi note alle premesse.
 
-## Capo II
+### Capo II - Disciplina sanzionatoria per le violazioni relative alla tracciabilita' ed etichettatura dei prodotti contenenti OGM o da essi costituiti e per le violazioni relative alla tracciabilita' dei prodotti per alimenti o mangimi ottenuti da OGM.
 
-### Disciplina sanzionatoria per le violazioni relative alla - tracciabilita' ed etichettatura dei prodotti contenenti OGM o da essi
-
-#### costituiti e per le violazioni relative alla tracciabilita' dei - prodotti per alimenti o mangimi ottenuti da OGM.
-
-###### Art. 11
+##### Art. 11
 
 Disciplina sanzionatoria per le violazioni previste all'articolo 4 del regolamento
 
@@ -287,7 +255,7 @@ Disciplina sanzionatoria per le violazioni previste all'articolo 4 del regolamen
 
 > \- Per il regolamento (CE) n. 1830/2003, vedi note alle premesse.
 
-###### Art. 12
+##### Art. 12
 
 Disciplina sanzionatoria per le violazioni previste all'articolo 5 del regolamento
 
@@ -297,11 +265,9 @@ Disciplina sanzionatoria per le violazioni previste all'articolo 5 del regolamen
 
 3\. Le disposizioni di cui ai commi 1 e 2 non si applicano nelle ipotesi di presenza accidentale o tecnicamente inevitabile di tracce di OGM in prodotti per alimenti o mangimi ottenuti da OGM indicate all'articolo 5, paragrafo 4, del regolamento.
 
-## TITOLO III
+## TITOLO III - Applicazione delle sanzioni amministrative pecuniarie
 
-### Applicazione delle sanzioni amministrative pecuniarie
-
-###### Art. 13
+##### Art. 13
 
 Autorita' competente
 

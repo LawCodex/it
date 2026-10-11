@@ -18,31 +18,29 @@ retrieved: 2026-10-11
 
 **Nuove norme per lo sviluppo della montagna.**
 
-## TITOLO I - ORGANIZZAZIONE
+## TITOLO I - ORGANIZZAZIONE E SVILUPPO DELLA MONTAGNA
 
-### E SVILUPPO DELLA MONTAGNA
-
-#### Art. 1
+### Art. 1
 
 ((ARTICOLO ABROGATO DALLA L. 12 SETTEMBRE 2025, N. 131))
 
-#### Art. 2
+### Art. 2
 
 ((ARTICOLO ABROGATO DALLA L. 12 SETTEMBRE 2025, N. 131))
 
-#### Art. 3
+### Art. 3
 
 ((ARTICOLO ABROGATO DALLA L. 8 GIUGNO 1990, N.142))
 
-#### Art. 4
+### Art. 4
 
 ((ARTICOLO ABROGATO DALLA L. 3 AGOSTO 1999, N.265))
 
-#### Art. 5
+### Art. 5
 
 ((ARTICOLO ABROGATO DALLA L. 8 GIUGNO 1990, N.142))
 
-#### Art. 6 - Attuazione del piano di sviluppo economico-sociale
+### Art. 6 - Attuazione del piano di sviluppo economico-sociale
 
 La realizzazione del piano generale di sviluppo e dei piani annuali di intervento e' affidata alla Comunita' montana.
 
@@ -50,11 +48,11 @@ Nell'espletamento dei propri fini istituzionali la Comunita' montana predispone,
 
 ((COMMA ABROGATO DAL D.LGS. 18 AGOSTO 2000, N.267))
 
-#### Art. 7
+### Art. 7
 
 ((ARTICOLO ABROGATO DALLA L. 8 GIUGNO 1990, N.142))
 
-#### Art. 8
+### Art. 8
 
 (Pubblica utilita' delle opere
 
@@ -70,11 +68,9 @@ La Comunita' montana sostituisce nell'esecuzione gli enti, persone fisiche o giu
 
 Il presente articolo sostituisce gli articoli 21 e 22 della legge 25 luglio 1952, n. 991.
 
-## TITOLO II - DEMANIO FORESTALE
+## TITOLO II - DEMANIO FORESTALE AFFITTANZE DEGLI ENTI LOCALI
 
-### AFFITTANZE DEGLI ENTI LOCALI
-
-#### Art. 9 - Demanio forestale ed affittanze degli enti locali
+### Art. 9 - Demanio forestale ed affittanze degli enti locali
 
 Oltre alle regioni, le Comunita' montane e i comuni sono autorizzati ad acquistare o a prendere in affitto per un periodo non inferiore ad anni 20 terreni compresi nei rispettivi territori montani non piu' utilizzati a coltura agraria o nudi o cespugliati o anche parzialmente boscati per destinarli alla formazione di boschi, prati, pascoli o riserve naturali.
 
@@ -100,7 +96,7 @@ Per il pagamento degli interessi sui mutui di cui al comma precedente e' stabili
 
 ## TITOLO III - COMUNIONI FAMILIARI
 
-#### Art. 10 - Comunioni familiari
+### Art. 10 - Comunioni familiari
 
 Per il godimento, l'amministrazione e l'organizzazione dei beni agro-silvo-pastorali appresi per laudo, le comunioni familiari montane (anche associate tra loro e con altri enti) sono disciplinate dai rispettivi statuti e consuetudini.
 
@@ -110,7 +106,7 @@ La pubblicita' di statuti, bilanci, nomine di rappresentanti legali e' disciplin
 
 L'atto relativo all'acquisto e alla perdita dello stato di membro delle comunioni, disciplinato dallo statuto, e' registrato a tassa fissa senza altre imposte.
 
-#### Art. 11 - Patrimonio
+### Art. 11 - Patrimonio
 
 Il patrimonio antico delle comunioni e' trascritto o intavolato nei libri fondiari come inalienabile, indivisibile e vincolato alle attivita' agro-silvo-pastorali e connesse.
 
@@ -120,7 +116,7 @@ Solo i beni acquistati dalle comunioni dopo il 1952 possono formare oggetto di l
 
 ## TITOLO IV - DISPOSIZIONI VARIE E NORME FINANZIARIE
 
-#### Art. 12 - Agevolazioni fiscali
+### Art. 12 - Agevolazioni fiscali
 
 Nei territori montani i trasferimenti di proprieta' a qualsiasi titolo di fondi rustici, fatti a scopo di arrotondamento o di accorpamento di proprieta' direttocoltivatrici, singole o associate, sono soggetti all'imposta di registro e di trascrizione ipotecaria nella misura fissa di lire 500 fino a 5 mila metri quadrati e di lire 2 mila negli altri casi e sono esenti dai diritti di voltura. Le stesse agevolazioni si applicano anche a favore delle cooperative agricole che conducono direttamente i terreni.
 
@@ -132,7 +128,7 @@ Le successioni tra ascendenti, discendenti e coniugi aventi per oggetto i boschi
 
 Le agevolazioni fiscali di cui all'articolo 8 della legge 25 luglio 1952, n. 991, sono estese all'intero territorio montano.
 
-#### Art. 13 - Comuni montani del Mezzogiorno e del Centro-Nord
+### Art. 13 - Comuni montani del Mezzogiorno e del Centro-Nord
 
 I comuni dei territori ai cui all'articolo 1 del testo unico delle leggi sugli interventi del Mezzogiorno approvato con decreto 30 giugno 1967, n. 1523, classificati montani a norma della presente legge, vanno considerati particolarmente depressi ai fini del terzo comma dell'articolo unico della legge 15 aprile 1971, n. 205, e del primo e secondo comma dell'articolo 16 della legge 6 ottobre 1971, n. 853.
 
@@ -140,28 +136,28 @@ Le opere elencate nel secondo comma dell'articolo unico della legge 15 aprile 19
 
 Analogamente vengono considerati aree depresse ai sensi dell'articolo 1 della legge 22 luglio 1966, n. 614, e successive modificazioni, per il Centro-Nord i comuni classificati montani a norma della presente legge.
 
-#### Art. 14 - Carta della montagna
+### Art. 14 - Carta della montagna
 
 Il Ministero dell'agricoltura e delle foreste, di concerto cui Ministero dei lavori pubblici, e sentite le regioni, apprestera' entro un anno dalla data di entrata in vigore della presente legge una Carta della montagna dalla quale sia dato rilevare, a livello di prima approssimazione, la situazione attuale per quanto riguarda le utilizzazioni del suolo, la rete stradale e le altre principali attrezzature civili nonche' lo stato di dissesto riferito alle indicazioni della Carta geologica e la consistenza delle opere idrauliche ed idraulico-forestali in atto.
 
-#### Art. 15
+### Art. 15
 
 ((ARTICOLO ABROGATO DALLA L. 12 SETTEMBRE 2025, N. 131))
 
-#### Art. 16
+### Art. 16
 
 ((ARTICOLO ABROGATO DALLA L. 12 SETTEMBRE 2025, N. 131))
 
 ## TITOLO V - NORME FINALI
 
-#### Art. 17
+### Art. 17
 
 ((ARTICOLO ABROGATO DALLA L. 12 SETTEMBRE 2025, N. 131))
 
-#### Art. 18
+### Art. 18
 
 ((ARTICOLO ABROGATO DALLA L. 12 SETTEMBRE 2025, N. 131))
 
-#### Art. 19
+### Art. 19
 
 ((ARTICOLO ABROGATO DALLA L. 12 SETTEMBRE 2025, N. 131))

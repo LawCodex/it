@@ -98,7 +98,7 @@ il seguente decreto legislativo:
 
 ## Parte I - DISPOSIZIONI GENERALI
 
-#### Titolo I - DISPOSIZIONI GENERALI E FINALITA'
+### Titolo I - DISPOSIZIONI GENERALI E FINALITA'
 
 ###### Art. 1
 
@@ -154,7 +154,7 @@ Il D.Lgs. 4 novembre 2021, n. 170 ha disposto (con l'art. 2, comma 1) che la pre
 
 ## Parte II - ((EDUCAZIONE, INFORMAZIONE, PRATICHE COMMERCIALI, PUBBLICITA'))
 
-#### Titolo I - EDUCAZIONE DEL CONSUMATORE
+### Titolo I - EDUCAZIONE DEL CONSUMATORE
 
 ###### Art. 4
 
@@ -164,9 +164,9 @@ Educazione del consumatore
 
 2\. Le attivita' destinate all'educazione dei consumatori, svolte da soggetti pubblici o privati, non hanno finalita' promozionale, sono dirette ad esplicitare le caratteristiche di beni e servizi e a rendere chiaramente percepibili benefici e costi conseguenti alla loro scelta; prendono, inoltre, in particolare considerazione le categorie di consumatori maggiormente vulnerabili.
 
-#### Titolo II - INFORMAZIONI AI CONSUMATORI
+### Titolo II - INFORMAZIONI AI CONSUMATORI
 
-##### Capo I - Disposizioni Generali
+#### Capo I - Disposizioni Generali
 
 ###### Art. 5
 
@@ -178,7 +178,7 @@ Obblighi generali
 
 3\. Le informazioni al consumatore, da chiunque provengano, devono essere adeguate alla tecnica di comunicazione impiegata ed espresse in modo chiaro e comprensibile, tenuto anche conto delle modalita' di conclusione del contratto o delle caratteristiche del settore, tali da assicurare la consapevolezza del consumatore.
 
-##### Capo II - Indicazione dei prodotti
+#### Capo II - Indicazione dei prodotti
 
 ###### Art. 6
 
@@ -256,9 +256,9 @@ Sanzioni
 
 2\. Le sanzioni sono applicate ai sensi della legge 24 novembre 1981, n. 689. Fermo restando quanto previsto in ordine ai poteri di accertamento degli ufficiali e degli agenti di polizia giudiziaria dall'articolo 13 della predetta legge 24 novembre 1981, n. 689, all'accertamento delle violazioni provvedono d'ufficio o su denunzia, gli organi di polizia amministrativa. Il rapporto previsto dall'articolo 17 della legge 24 novembre 1981, n. 689, e' presentato all'ufficio della camera di commercio, industria, artigianato e agricoltura della provincia in cui vi e' la residenza o la sede legale del professionista.
 
-##### Capo III - Particolari modalita' di informazione
+#### Capo III - Particolari modalita' di informazione
 
-###### Sezione I - ((Indicazione dei prezzi))
+##### Sezione I - ((Indicazione dei prezzi))
 
 ###### Art. 13
 
@@ -410,9 +410,9 @@ AGGIORNAMENTO (46)
 
 Il D.Lgs. 7 marzo 2023, n. 26, ha disposto (con l'art. 2, comma 1) che "Le disposizioni di cui all'articolo 1, comma 2, si applicano alle campagne promozionali a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
-#### Titolo III - ((PRATICHE COMMERCIALI,)) PUBBLICITA' E ALTRE COMUNICAZIONI COMMERCIALI
+### Titolo III - ((PRATICHE COMMERCIALI,)) PUBBLICITA' E ALTRE COMUNICAZIONI COMMERCIALI
 
-##### Capo I - Disposizioni generali
+#### Capo I - Disposizioni generali
 
 ###### Art. 18
 
@@ -510,7 +510,7 @@ d) l'applicazione delle disposizioni normative relative allo stabilimento, o ai 
 
 4\. Il presente titolo non e' applicabile in materia di certificazione e di indicazioni concernenti il titolo degli articoli in metalli preziosi.
 
-##### ((Capo II - Pratiche commerciali scorrette))
+#### ((Capo II - Pratiche commerciali scorrette))
 
 ###### Art. 20
 
@@ -530,7 +530,7 @@ b) aggressive di cui agli articoli 24, 25 e 26.
 
 5\. Gli articoli 23 e 26 riportano l'elenco delle pratiche commerciali, rispettivamente ingannevoli e aggressive, considerate in ogni caso scorrette.))
 
-###### ((SEZIONE I - Pratiche commerciali ingannevoli))
+##### ((SEZIONE I - Pratiche commerciali ingannevoli))
 
 ###### Art. 21
 
@@ -722,7 +722,7 @@ AGGIORNAMENTO (57)
 
 Il D.Lgs. 20 febbraio 2026, n. 30, ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 27 settembre 2026".
 
-###### ((SEZIONE II - Pratiche commerciali aggressive))
+##### ((SEZIONE II - Pratiche commerciali aggressive))
 
 ###### Art. 24
 
@@ -774,7 +774,7 @@ AGGIORNAMENTO (24)
 
 Il D.Lgs. 21 febbraio 2014, n. 21 ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
-##### ((Capo III - Applicazione))
+#### ((Capo III - Applicazione))
 
 ###### Art. 27
 
@@ -880,9 +880,9 @@ b) gli estremi delle autorita', organizzazioni o associazioni presso le quali si
 
 c) gli estremi e la sintesi delle decisioni significative riguardo a controversie, comprese quelle adottate dagli organi di composizione extragiudiziale.))
 
-#### ((Titolo IV)) - Particolari modalita' della comunicazione pubblicitaria
+### ((Titolo IV)) - Particolari modalita' della comunicazione pubblicitaria
 
-##### ((Capo I)) - Rafforzamento della tutela del consumatore in materia di televendite
+#### ((Capo I)) - Rafforzamento della tutela del consumatore in materia di televendite
 
 ###### Art. 28
 
@@ -928,7 +928,7 @@ Sanzioni
 
 ## Parte III - IL RAPPORTO DI CONSUMO
 
-#### Titolo I - DEI CONTRATTI DEL CONSUMATORE IN GENERALE
+### Titolo I - DEI CONTRATTI DEL CONSUMATORE IN GENERALE
 
 ###### Art. 33
 
@@ -1106,9 +1106,9 @@ Rinvio
 
 1\. Per quanto non previsto dal ((presente)) codice, ai contratti conclusi tra il consumatore ed il professionista si applicano le disposizioni del codice civile.
 
-#### Titolo II - ESERCIZIO DELL'ATTIVITA' COMMERCIALE
+### Titolo II - ESERCIZIO DELL'ATTIVITA' COMMERCIALE
 
-##### Capo I - Disposizioni generali
+#### Capo I - Disposizioni generali
 
 ###### Art. 39
 
@@ -1116,9 +1116,9 @@ Regole nelle attivita' commerciali
 
 1\. Le attivita' commerciali sono improntate al rispetto dei principi di buona fede, di correttezza e di lealta', valutati anche alla stregua delle esigenze di protezione delle categorie di consumatori.
 
-##### Capo II - Promozione delle vendite
+#### Capo II - Promozione delle vendite
 
-###### Sezione I - Credito al consumo
+##### Sezione I - Credito al consumo
 
 ###### Art. 40
 
@@ -1138,7 +1138,7 @@ Rinvio al testo unico bancario
 
 Per la ((...)) disciplina del credito al consumo si fa rinvio ai capi II e III del titolo VI del citato decreto legislativo n. 385 del 1993, e successive modificazioni, nonche' agli articoli 144 e 145 del medesimo testo unico per l'applicazione delle relative sanzioni.
 
-#### Titolo III - MODALITA' CONTRATTUALI
+### Titolo III - MODALITA' CONTRATTUALI
 
 ###### Art. 44
 
@@ -1150,7 +1150,7 @@ Contratti negoziati nei locali commerciali. Rinvio
 
 > \- Per il d.lgs. n. 114 del 1998 si vedano le note alle premesse.
 
-##### Capo I - ((Dei diritti dei consumatori nei contratti))
+#### Capo I - ((Dei diritti dei consumatori nei contratti))
 
 ###### Art. 45
 
@@ -1324,7 +1324,7 @@ AGGIORNAMENTO (55)
 
 Il D.Lgs. 31 dicembre 2025, n. 209, ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
 
-###### Sezione I - ((Informazioni precontrattuali per i consumatori nei contratti diversi dai contratti a distanza o negoziati fuori dei locali commerciali))
+##### Sezione I - ((Informazioni precontrattuali per i consumatori nei contratti diversi dai contratti a distanza o negoziati fuori dei locali commerciali))
 
 ###### Art. 48
 
@@ -1380,7 +1380,7 @@ AGGIORNAMENTO (57)
 
 Il D.Lgs. 20 febbraio 2026, n. 30, ha disposto (con l'art. 2, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 27 settembre 2026".
 
-###### Sezione II - ((Informazioni precontrattuali per il consumatore e diritto di recesso nei contratti a distanza e nei contratti negoziati fuori dei locali commerciali))
+##### Sezione II - ((Informazioni precontrattuali per il consumatore e diritto di recesso nei contratti a distanza e nei contratti negoziati fuori dei locali commerciali))
 
 ###### Art. 49
 
@@ -1832,9 +1832,7 @@ AGGIORNAMENTO (24)
 
 Il D.Lgs. 21 febbraio 2014, n. 21 ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
-## ((Sezione II-bis)) - ((COMMERCIALIZZAZIONE
-
-### A DISTANZA - DI SERVIZI FINANZIARI AI CONSUMATORI))
+##### ((Sezione II-bis)) - ((COMMERCIALIZZAZIONE A DISTANZA DI SERVIZI FINANZIARI AI CONSUMATORI))
 
 ###### Art. 59-bis
 
@@ -2158,7 +2156,7 @@ AGGIORNAMENTO (55)
 
 Il D.Lgs. 31 dicembre 2025, n. 209, ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
 
-###### Sezione III - ((Altri diritti del consumatore))
+##### Sezione III - ((Altri diritti del consumatore))
 
 ###### Art. 60
 
@@ -2278,7 +2276,7 @@ Il D.Lgs. 21 febbraio 2014, n. 21 ha disposto (con l'art. 2, comma 1) che le mod
 
 ((1. Nei contratti di servizi stipulati a tempo determinato con clausola di rinnovo automatico, il professionista, trenta giorni prima della scadenza del contratto, e' tenuto ad avvisare il consumatore della data entro cui puo' inviare formale disdetta. La comunicazione di cui al primo periodo e' inviata per iscritto, tramite sms o altra modalita' telematica indicata dal consumatore, e la sua mancanza consente al consumatore, sino alla successiva scadenza del contratto, di recedere in qualsiasi momento senza spese)).
 
-###### Sezione IV - ((Disposizioni generali))
+##### Sezione IV - ((Disposizioni generali))
 
 ###### Art. 65-ter
 
@@ -2420,9 +2418,9 @@ AGGIORNAMENTO (24)
 
 Il D.Lgs. 21 febbraio 2014, n. 21 ha disposto (con l'art. 2, comma 1) che le modifiche apportate al presente articolo si applicano ai contratti conclusi dopo il 13 giugno 2014.
 
-###### Sezione IV-bis - Commercializzazione a distanza di servizi finanziari ai consumatori
+##### Sezione IV-bis - Commercializzazione a distanza di servizi finanziari ai consumatori
 
-**((SEZIONE ABROGATA DAL D.LGS. 31 DICEMBRE 2025, N. 209))**
+##### ((SEZIONE ABROGATA DAL D.LGS. 31 DICEMBRE 2025, N. 209))
 
 ###### Art. 67-bis
 
@@ -2508,7 +2506,7 @@ Il D.Lgs. 21 febbraio 2014, n. 21 ha disposto (con l'art. 2, comma 1) che le mod
 
 ((ARTICOLO ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209))
 
-##### Capo II - Commercio elettronico
+#### Capo II - Commercio elettronico
 
 ###### Art. 68
 
@@ -2520,9 +2518,9 @@ Rinvio
 
 > \- Per il decreto legislativo 9 aprile 2003, n. 70, vedi le note all'art. 52.
 
-#### ((Titolo IV - DISPOSIZIONI RELATIVE AI SINGOLI CONTRATTI
+### ((Titolo IV - DISPOSIZIONI RELATIVE AI SINGOLI CONTRATTI
 
-##### Capo I - Contratti di multiproprieta', contratti relativi ai prodotti per le vacanze di lungo termine, contratti di rivendita e di scambio))
+#### Capo I - Contratti di multiproprieta', contratti relativi ai prodotti per le vacanze di lungo termine, contratti di rivendita e di scambio))
 
 ###### Art. 69
 
@@ -2736,7 +2734,7 @@ Il D.Lgs. 21 febbraio 2014, n. 21 ha disposto (con l'art. 2, comma 1) che le mod
 
 2\. Per quanto non previsto dal presente capo, si applicano le disposizioni del codice civile in tema di contratti.))
 
-##### Capo II - Servizi turistici
+#### Capo II - Servizi turistici
 
 ###### Art. 82
 
@@ -2814,9 +2812,9 @@ Il D.Lgs. 21 febbraio 2014, n. 21 ha disposto (con l'art. 2, comma 1) che le mod
 
 ((ARTICOLO ABROGATO DAL D.LGS. 23 MAGGIO 2011, N. 79))
 
-#### Titolo V - EROGAZIONE DI SERVIZI PUBBLICI
+### Titolo V - EROGAZIONE DI SERVIZI PUBBLICI
 
-##### Capo I - Servizi pubblici
+#### Capo I - Servizi pubblici
 
 ###### Art. 101
 
@@ -2832,7 +2830,7 @@ Norma di rinvio
 
 ## Parte IV - SICUREZZA E QUALITA'
 
-#### Titolo I - SICUREZZA DEI PRODOTTI
+### Titolo I - SICUREZZA DEI PRODOTTI
 
 ###### Art. 102
 
@@ -3008,7 +3006,7 @@ Rinvio
 
 2\. Sono fatte salve le disposizioni regionali che disciplinano i controlli di competenza.
 
-#### Titolo II - RESPONSABILITA' PER DANNO DA PRODOTTI DIFETTOSI
+### Titolo II - RESPONSABILITA' PER DANNO DA PRODOTTI DIFETTOSI
 
 ###### Art. 114
 
@@ -3180,9 +3178,9 @@ Responsabilita' secondo altre disposizioni di legge
 
 > \- La legge 31 dicembre 1962, n. 1860, recante «Impiego pacifico dell'energia nucleare» e' pubblicata nella Gazzetta Ufficiale 30 gennaio 1963, n. 27.
 
-#### Titolo III - GARANZIA LEGALE DI CONFORMITA' E GARANZIE COMMERCIALI PER I BENI DI CONSUMO
+### Titolo III - GARANZIA LEGALE DI CONFORMITA' E GARANZIE COMMERCIALI PER I BENI DI CONSUMO
 
-##### Capo I - ((Della vendita di beni))
+#### Capo I - ((Della vendita di beni))
 
 ###### Art. 128
 
@@ -3556,7 +3554,7 @@ AGGIORNAMENTO (42)
 
 Il D.Lgs. 4 novembre 2021, n. 170 ha disposto (con l'art. 2, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2022 e si applica ai contratti conclusi successivamente a tale data.
 
-##### ((Capo I-bis - Dei contratti di fornitura di contenuto digitale e di servizi digitali))
+#### ((Capo I-bis - Dei contratti di fornitura di contenuto digitale e di servizi digitali))
 
 ###### Art. 135-octies
 
@@ -4014,7 +4012,7 @@ Il D.Lgs. 4 novembre 2021, n. 173 ha disposto (con l'art. 2, comma 1) che "Le mo
 
 ## Parte V - ASSOCIAZIONI DEI CONSUMATORI E ACCESSO ALLA GIUSTIZIA
 
-#### Titolo I - LE ASSOCIAZIONI RAPPRESENTATIVE A LIVELLO NAZIONALE
+### Titolo I - LE ASSOCIAZIONI RAPPRESENTATIVE A LIVELLO NAZIONALE
 
 ###### Art. 136
 
@@ -4088,7 +4086,7 @@ Il D.Lgs. 6 agosto 2015, n. 130 ha disposto (con l'art. 2, comma 1) che "Le disp
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MAGGIO 2017, N. 70))
 
-#### Titolo II - ((ACCESSO ALLA GIUSTIZIA))
+### Titolo II - ((ACCESSO ALLA GIUSTIZIA))
 
 ###### Art. 139
 
@@ -4192,9 +4190,7 @@ AGGIORNAMENTO (39)
 
 La L. 12 aprile 2019, n. 31, come modificata dal D.L. 28 ottobre 2020, n. 137, convertito con modificazioni dalla L. 18 dicembre 2020, n. 176, ha disposto (con l'art. 7, comma 1) che la presente abrogazione decorre dal 19 maggio 2021.
 
-#### ((Titolo II.1
-
-##### AZIONI RAPPRESENTATIVE A TUTELA DEGLI INTERESSI COLLETTIVI - DEI CONSUMATORI))
+### ((Titolo II.1 - AZIONI RAPPRESENTATIVE A TUTELA DEGLI INTERESSI COLLETTIVI DEI CONSUMATORI))
 
 ###### Art. 140-ter
 
@@ -4478,7 +4474,7 @@ AGGIORNAMENTO (47)
 
 Il D.Lgs. 10 marzo 2023, n. 28, ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
 
-#### ((Titolo II-bis - RISOLUZIONE EXTRAGIUDIZIALE DELLE CONTROVERSIE))
+### ((Titolo II-bis - RISOLUZIONE EXTRAGIUDIZIALE DELLE CONTROVERSIE))
 
 ###### Art. 141 - Disposizioni generali: definizioni ed ambito di applicazione
 

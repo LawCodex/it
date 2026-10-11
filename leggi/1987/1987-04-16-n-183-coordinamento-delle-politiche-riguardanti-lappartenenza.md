@@ -28,13 +28,13 @@ la seguente legge:
 
 ## TITOLO I - ORGANI DEL COORDINAMENTO DELLE POLITICHE COMUNITARIE
 
-#### Art. 1 - Dipartimento per il coordinamento delle politiche comunitarie
+### Art. 1 - Dipartimento per il coordinamento delle politiche comunitarie
 
 1\. Per il coordinamento delle politiche derivanti dall'appartenenza dell'Italia alle Comunita' europee e per l'adeguamento della normativa nazionale alle direttive comunitarie e' costituito il Dipartimento per il coordinamento delle politiche comunitarie che si avvarra' delle strutture e del personale specificati nel relativo ordinamento cui sara' provveduto con decreto del Presidente della Repubblica da emanarsi entro sei mesi dalla data di entrata in vigore della presente legge, a seguito di delibera del Consiglio dei ministri, adottata su proposta del Presidente del Consiglio dei ministri, sentite le competenti Commissioni permanenti della Camera dei deputati e del Senato della Repubblica.
 
 2\. In tale ordinamento verranno indicati i servizi necessari per la gestione amministrativa degli affari di competenza nonche' la dotazione organica e le relative modalita' per la copertura dei posti nell'ambito della dotazione organica della Presidenza del Consiglio dei ministri.
 
-#### Art. 2 - Competenze del comitato interministeriale per la programmazione economica
+### Art. 2 - Competenze del comitato interministeriale per la programmazione economica
 
 1\. Il comitato interministeriale per la programmazione economica (CIPE), salve le attribuzioni del Consiglio dei ministri, nell'ambito dell'azione necessaria per armonizzare la politica economica nazionale con le politiche comunitarie:
 
@@ -48,17 +48,17 @@ c) adotta direttive generali per il proficuo utilizzo dei flussi finanziari, sia
 
 3\. Il Ministro delegato per il coordinamento delle politiche comunitarie fa parte ((...)) del comitato interministeriale del credito e del risparmio. Le funzioni attribuite ((a tale comitato)) sono esercitate su iniziativa dei Ministri competenti d'intesa col suddetto Ministro.
 
-#### Art. 3 - Bilancio e programmazione comunitari
+### Art. 3 - Bilancio e programmazione comunitari
 
 1\. Il comitato interministeriale per la programmazione economica (CIPE), entro il 30 giugno di ogni anno, determina, con riferimento anche al progetto preliminare di bilancio generale delle Comunita' europee, le linee di fabbisogno finanziario, statale e regionale, connesso all'attuazione in Italia delle politiche comunitarie, indicando le relative norme vigenti e le rispettive quote finanziarie di massima sulla base delle informazioni contabili fornite dal fondo di rotazione, di cui all'articolo 5.
 
 2\. Il comitato interministeriale per la programmazione economica (CIPE), entro il 31 ottobre di ogni anno, definisce il programma degli interventi finanziari da effettuarsi nel corso dell'anno successivo con il concorso comunitario, a tal fine coordinando fra loro i programmi statali e regionali in materia.
 
-#### Art. 4
+### Art. 4
 
 (( ARTICOLO ABROGATO DALLA L. 6 FEBBRAIO 2007, N. 13 ))
 
-#### Art. 5 - Fondo di rotazione
+### Art. 5 - Fondo di rotazione
 
 1\. E' istituito, nell'ambito del Ministero del tesoro - Ragioneria generale dello Stato, un fondo di rotazione con amministrazione autonoma e gestione fuori bilancio, ai sensi dell'articolo 9 della legge 25 novembre 1971, n. 1041.
 
@@ -84,7 +84,7 @@ Ha inoltre disposto (con l'art.3, comma 159) che il fondo di rotazione per l'att
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-#### Art. 6 - Erogazioni del fondo
+### Art. 6 - Erogazioni del fondo
 
 1\. Il fondo di rotazione di cui all'articolo 5, su richiesta delle competenti amministrazioni e nei limiti delle quote indicate dal CIPE ai sensi dell'articolo 2, comma 1, lettera c), eroga alle amministrazioni pubbliche ed agli operatori pubblici e privati interessati la quota di finanziamento a carico del bilancio dello Stato per l'attuazione dei programmi di politica comunitaria e puo' altresi' concedere ai soggetti titolari dei progetti compresi nei programmi medesimi, che ne facciano richiesta nei modi stabiliti dal regolamento, anticipazioni a fronte dei contributi spettanti a carico del bilancio delle Comunita' europee.
 
@@ -100,7 +100,7 @@ Ha inoltre disposto (con l'art.3, comma 159) che il fondo di rotazione per l'att
 
 > \- Per il titolo della legge n. 748/1975 si veda nelle note all'art. 5, comma 3.
 
-#### Art. 7 - Informazione finanziaria
+### Art. 7 - Informazione finanziaria
 
 1\. Il fondo di rotazione, di cui all'articolo 5, assicura la raccolta e la elaborazione dei dati contabili concernenti i flussi finanziari delle Comunita' europee riguardanti d'Italia e quelli nazionali ad essi collegati.
 
@@ -112,7 +112,7 @@ Ha inoltre disposto (con l'art.3, comma 159) che il fondo di rotazione per l'att
 
 5\. Il Ministro del tesoro, di concerto con il Ministro per il coordinamento delle politiche comunitarie, pubblica ogni due mesi un bollettino del fondo di rotazione, contenente l'ammontare e la provenienza dei fondi e i finanziamenti erogati.
 
-#### Art. 8 - Regolamento del fondo di rotazione
+### Art. 8 - Regolamento del fondo di rotazione
 
 1\. Entro tre mesi dall'entrata in vigore della presente legge sara' emanato con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, su proposta del Ministro del tesoro, di concerto con il Ministro delegato per il coordinamento delle politiche comunitarie, il regolamento del fondo di rotazione di cui all'articolo 5, per la determinazione, secondo criteri di efficienza, della sua struttura organizzativa e delle procedure amministrative concernenti le distinte sezioni finanziaria e conoscitiva.
 
@@ -130,37 +130,35 @@ Ha inoltre disposto (con l'art.3, comma 159) che il fondo di rotazione per l'att
 
 ## TITOLO II - ATTI NORMATIVI COMUNITARI ED ADEGUAMENTO DELL'ORDINAMENTO INTERNO
 
-#### Art. 9
+### Art. 9
 
 (( ARTICOLO ABROGATO DALLA L. 24 APRILE 1998, N. 128 ))
 
-#### Art. 10
+### Art. 10
 
 (( ARTICOLO ABROGATO DALLA L. 24 APRILE 1998, N. 128 ))
 
-#### Art. 11
+### Art. 11
 
 (( ARTICOLO ABROGATO DALLA L. 4 FEBBRAIO 2005, N. 11 ))
 
-#### Art. 12
+### Art. 12
 
 (( ARTICOLO ABROGATO DALLA L. 9 MARZO 1989, N. 86 ))
 
-#### Art. 13
+### Art. 13
 
 (( ARTICOLO ABROGATO DALLA L. 9 MARZO 1989, N. 86 ))
 
-## TITOLO III - CONFERIMENTO DI FORZA DI LEGGE A DIRETTIVE DELEGA LEGISLATIVA
+## TITOLO III - CONFERIMENTO DI FORZA DI LEGGE A DIRETTIVE DELEGA LEGISLATIVA ADEGUAMENTI TECNICI
 
-### ADEGUAMENTI TECNICI
-
-#### Art. 14 - Conferimento di forza di legge ad alcune direttive
+### Art. 14 - Conferimento di forza di legge ad alcune direttive
 
 1\. Le norme contenute nelle direttive della Comunita' economica europea, indicate nell'elenco "A" allegato alla presente legge, hanno forza di legge con effetto dalla data di emanazione del decreto di cui al comma 2.
 
 2\. Con decreto del Presidente del Consiglio dei ministri, o del Ministro da lui delegato, da emanarsi su proposta dei Ministri competenti, entro 12 mesi dall'entrata in vigore della presente legge, verranno stabilite le norme di attuazione delle direttive di cui al comma 1.
 
-#### Art. 15 - Delega legislativa
+### Art. 15 - Delega legislativa
 
 1\. Il Governo e' delegato ad emanare, entro il termine di dodici mesi dall'entrata in vigore della presente legge, con decreti aventi forza di legge, le norme necessarie per dare attuazione alle direttive della Comunita' economica europea indicate negli elenchi "B" e "C" allegati alla presente legge, secondo i principi ed i criteri direttivi per ciascuno di detti elenchi formulati, ad integrazione di quelli contenuti in ciascuna delle direttive stesse, negli articoli successivi.
 
@@ -170,7 +168,7 @@ Ha inoltre disposto (con l'art.3, comma 159) che il fondo di rotazione per l'att
 
 Decorso tale termine, i decreti sono emanati anche in mancanza di detto parere.
 
-#### Art. 16 - Principi e criteri direttivi della delega legislativa
+### Art. 16 - Principi e criteri direttivi della delega legislativa
 
 1\. I decreti delegati di cui all'articolo 15 sono informati ai seguenti principi e criteri direttivi:
 
@@ -248,7 +246,7 @@ c) saranno previste, quando sia necessario per assicurare l'osservanza delle dis
 
 > Per la riscossione delle somme dovute ai sensi del presente articolo, nonche' per la riscossione dei contributi e dei premi non versati e delle relative somme aggiuntive di cui alle leggi in materia di previdenza ed assistenza obbligatorie, gli enti ed istituti gestori delle forme di previdenza ed assistenza obbligatorie, osservate in ogni caso le forme previste dal primo comma dell'articolo 18, possono avvalersi, ove opportuno, del procedimento ingiuntivo di cui agli articoli 633 e seguenti del codice di procedura civile".
 
-#### Art. 17 - Principi e criteri direttivi in materia di agricoltura e sanita
+### Art. 17 - Principi e criteri direttivi in materia di agricoltura e sanita
 
 1\. I decreti delegati in materia di agricoltura e sanita', di cui all'elenco "B" allegato alla presente legge, saranno informati ai seguenti principi e criteri, aggiuntivi a quelli contenuti nelle singole direttive:
 
@@ -264,7 +262,7 @@ a) per le direttive comunitarie concernenti gli alimenti per uso zootecnico, i d
 
 b) per le direttive comunitarie concernenti gli alimenti per uso umano e gli scambi intra ed extra-comunitari di carni fresche e di animali, i decreti provvederanno a stabilire idonee garanzie a tutela della salute umana e del patrimonio zootecnico, nonche' a disporre efficaci e tempestive misure di vigilanza, provvedendo anche a semplificare i sistemi di controllo necessari allo scopo.
 
-#### Art. 18
+### Art. 18
 
 (Principi e criteri direttivi in materia di salvaguardia
 
@@ -282,21 +280,21 @@ b) recuperare e conservare le condizioni ambientali, in difesa degli interessi f
 
 3\) adeguate misure di vigilanza e controllo.
 
-#### Art. 19
+### Art. 19
 
 (( ARTICOLO ABROGATO DAL D.P.R. 14 MAGGIO 2007, N. 91 ))
 
-#### Art. 20
+### Art. 20
 
 (( ARTICOLO ABROGATO DALLA L. 4 FEBBRAIO 2005, N. 11 ))
 
 ## TITOLO IV - NORME FINALI
 
-#### Art. 21 - Misure di intervento finanziario
+### Art. 21 - Misure di intervento finanziario
 
 1\. Quando i decreti delegati di cui alla presente legge prevedano misure di intervento finanziario non contemplate da leggi vigenti e non rientranti nell'attivita' ordinaria delle Amministrazioni statali o regionali competenti, si provvede a carico del fondo di rotazione di cui all'articolo 5.
 
-#### Art. 22 - Abrogazione di norme
+### Art. 22 - Abrogazione di norme
 
 1\. Sono abrogate tutte le norme contrastanti o comunque incompatibili con le disposizioni della presente legge.
 
@@ -314,7 +312,7 @@ Visto, il Guardasigilli: ROGNONI
 
 ## TITOLO IV - NORME FINALI
 
-#### Elenco A
+### Elenco A
 
 ALLEGATO
 
@@ -400,7 +398,7 @@ ELENCO A
 
 86/361 Direttiva del Consiglio del 24 luglio 1986 concernente la prima fase del reciproco riconoscimento dell'omologazione delle apparecchiature terminali di telecomunicazioni.
 
-#### Elenco B
+### Elenco B
 
 ALLEGATO
 
@@ -500,7 +498,7 @@ in materia di scambi intracomunitari di prodotti a base di carne. 85/342 Cinquan
 
 86/403 Direttiva della Commissione del 28 luglio 1986 che modifica gli allegati della direttiva 70/524/CEE del Consiglio relativa agli additivi nell'alimentazione degli animali.
 
-#### Elenco C
+### Elenco C
 
 ALLEGATO
 

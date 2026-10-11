@@ -36,179 +36,169 @@ il seguente decreto legislativo:
 
 ## Titolo I - DISPOSIZIONI GENERALI
 
-#### Art. 1
+### Art. 1
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 2
+### Art. 2
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### ART. 3
+### ART. 3
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 4
+### Art. 4
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 5
+### Art. 5
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 6
+### Art. 6
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 7
+### Art. 7
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-## Titolo II - NORME APPLICABILI ALLE IMPRESE STABILITE
+## Titolo II - NORME APPLICABILI ALLE IMPRESE STABILITE NEL TERRITORIO DELLA REPUBBLICA
 
-### NEL TERRITORIO DELLA REPUBBLICA
-
-#### Art. 8
+### Art. 8
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 9
+### Art. 9
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 10
+### Art. 10
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 11
+### Art. 11
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 12
+### Art. 12
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 13
+### Art. 13
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 14
+### Art. 14
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-## Titolo III - NORME APPLICABILI ALLE IMPRESE STABILITE IN ALTRO STATO
+## Titolo III - NORME APPLICABILI ALLE IMPRESE STABILITE IN ALTRO STATO MEMBRO DELLA COMUNITA' ECONOMICA EUROPEA
 
-### MEMBRO DELLA COMUNITA' ECONOMICA EUROPEA
-
-#### Art. 15
+### Art. 15
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 16
+### Art. 16
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 17
+### Art. 17
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 18
+### Art. 18
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 19
+### Art. 19
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 20
+### Art. 20
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 21
+### Art. 21
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 22
+### Art. 22
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 23
+### Art. 23
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 24
+### Art. 24
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 25
+### Art. 25
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 25-bis
+### Art. 25-bis
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 26
+### Art. 26
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-## Titolo IV - DISPOSIZIONI SULLA LEGGE APPLICABILE AI CONTRATTI
+## Titolo IV - DISPOSIZIONI SULLA LEGGE APPLICABILE AI CONTRATTI DI ASSICURAZIONE CONTRO I DANNI
 
-### DI ASSICURAZIONE CONTRO I DANNI
-
-#### Art. 27
+### Art. 27
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-## Titolo V - MODIFICHE ED INTEGRAZIONI
+## Titolo V - MODIFICHE ED INTEGRAZIONI ALLA LEGGE TRIBUTARIA SULLE ASSICURAZIONI
 
-### ALLA LEGGE TRIBUTARIA SULLE ASSICURAZIONI
-
-#### Art. 28
+### Art. 28
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-## Titolo VI - MODIFICHE ED INTEGRAZIONI ALLA LEGISLAZIONE SULL'ESERCIZIO
+## Titolo VI - MODIFICHE ED INTEGRAZIONI ALLA LEGISLAZIONE SULL'ESERCIZIO DELL'ATTIVITA' ASSICURATIVA ED ADEGUAMENTO DELLA STRUTTURA DELL'ISVAP.
 
-### DELL'ATTIVITA' ASSICURATIVA ED ADEGUAMENTO DELLA STRUTTURA - DELL'ISVAP.
-
-#### Art. 29
+### Art. 29
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 30
+### Art. 30
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 31
+### Art. 31
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 32
+### Art. 32
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 33
+### Art. 33
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 34
+### Art. 34
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 35
+### Art. 35
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 36
+### Art. 36
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 37
+### Art. 37
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Art. 38
+### Art. 38
 
 Insufficienza della riserva sinistri
 
@@ -216,7 +206,7 @@ Insufficienza della riserva sinistri
 
 "34 (Insufficienza della riserva sinistri). - Il Ministero dell'industria, del commercio e dell'artigianato, qualora, dai dati forniti con il prospetto di cui al primo comma del precedente articolo o acquisiti dal conto consortile o da altri elementi, rilevi che la riserva sinistri, ancorche' corrispondente alla misura minima prevista dal precedente art. 32, e' inferiore all'ammontare occorrente per far fronte alla totale liquidazione dei sinistri stessi, invita l'impresa ad adottare le misure necessarie ad eliminare l'insufficienza, assegnando a tale scopo un termine non inferiore a sessanta giorni".
 
-#### Art. 39
+### Art. 39
 
 Struttura dell'ISVAP
 
@@ -238,7 +228,7 @@ n. 1 servizio amministrazione, affari generali, personale e informatica.
 
 3\. Nella stessa forma il consiglio di amministrazione stabilisce le modalita' di funzionamento dei servizi, il numero e la ripartizione tra i servizi delle divisioni e delle sezioni nonche' le relative qualifiche dirigenziali nell'ambito della tabella organica allegata al bilancio preventivo annuale ai sensi dell'art. 19 della legge istitutiva".
 
-#### Art. 40
+### Art. 40
 
 Assunzione del personale dell'ISVAP
 
@@ -266,17 +256,15 @@ FORMICA, Ministro delle finanze
 
 BODRATO, Ministro dell'industria, del commercio e dell'artigianato Visto, il Guardasigilli: MARTELLI
 
-## Titolo VI - MODIFICHE ED INTEGRAZIONI ALLA LEGISLAZIONE SULL'ESERCIZIO
+## Titolo VI - MODIFICHE ED INTEGRAZIONI ALLA LEGISLAZIONE SULL'ESERCIZIO DELL'ATTIVITA' ASSICURATIVA ED ADEGUAMENTO DELLA STRUTTURA DELL'ISVAP.
 
-### DELL'ATTIVITA' ASSICURATIVA ED ADEGUAMENTO DELLA STRUTTURA - DELL'ISVAP.
-
-#### Allegato 1 A
+### Allegato 1 A
 
 ALLEGATO 1
 
 (( ALLEGATO ABROGATO DAL D.LGS. 17 MARZO 1995, N. 175 ))
 
-#### Allegato 1 B
+### Allegato 1 B
 
 ALLEGATO 2
 

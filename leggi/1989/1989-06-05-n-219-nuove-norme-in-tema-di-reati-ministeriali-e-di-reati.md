@@ -33,7 +33,7 @@ NORME IN MATERIA DI REATI MINISTERIALI
 
 ## Capo I - NORME IN MATERIA DI REATI MINISTERIALI
 
-#### Art. 1
+### Art. 1
 
 1\. Il collegio di cui all'articolo 7 della legge costituzionale 16 gennaio 1989, n. 1, procede alle indagini previ ste dall'articolo 8 della stessa legge con i poteri spettanti al procuratore della Repubblica nell'istruzione sommaria e con l'osservanza delle forme stabilite per tale istruzione. Il collegio puo' altresi' compiere anche d'ufficio gli atti che a norma del codice di procedura penale sono comunque di competenza del giudice istruttore. Il collegio puo' inoltre procedere ad atti di polizia giudiziaria direttamente o per mezzo di ufficiali o agenti di polizia giudiziaria.
 
@@ -77,7 +77,7 @@ NORME IN MATERIA DI REATI MINISTERIALI
 
 > Tuttavia, se la necessita' dell'autorizzazione concerne un membro del Parlamento o della Corte costituzionale, non possono essere compiuti atti diversi dall'arresto o dalle perquisizioni personali o domiciliari, ai quali puo' procedersi soltanto in caso di flagranza di un delitto non colposo consumato o tentato, nei casi indicati nell'art. 380, commi 1 e 2, lettere a), b), d), i), nonche' lettere c), f), g), h) se la legge stabilisce la pena della reclusione non inferiore nel massimo a dieci anni".
 
-#### Art. 2
+### Art. 2
 
 1\. Il collegio, sentito il pubblico ministero e dopo lo svolgimento di ulteriori indagini ove richiesto dal procuratore della Repubblica ai sensi del comma 3 dell'articolo 8 della legge costituzionale 16 gennaio 1989, n. 1, dispone l'archiviazione di cui al comma 2 del predetto articolo 8, se la notizia di reato e' infondata, ovvero manca una condizione di procedibilita' diversa dall'autorizzazione di cui all'articolo 96 della Costituzione, se il reato e' estinto, se il fatto non e' previsto dalla legge come reato, se l'indiziato non lo ha commesso ovvero se il fatto integra un reato diverso da quelli indicati nell'articolo 96 della Costituzione; in tale ultima ipotesi il collegio dispone altresi' la trasmissione degli atti all'autorita' giudiziaria competente a conoscere del diverso reato.
 
@@ -97,7 +97,7 @@ NORME IN MATERIA DI REATI MINISTERIALI
 
 > 2\. Il procuratore della Repubblica, omessa ogni indagine, entro il termine di quindici giorni, trasmette con le sue richieste gli atti relativi al collegio di cui al successivo art. 7, dandone immediata comunicazione ai soggetti interessati perche' questi possano presentare memorie al collegio o chiedere di essere ascoltati".
 
-#### Art. 3
+### Art. 3
 
 1\. Quando gli atti siano stati rimessi ai sensi del comma 4 dell'articolo 9 della legge costituzionale 16 gennaio 1989, n. 1, al collegio ivi indicato, il procedimento continua secondo le norme ordinarie vigenti al momento della rimessione.
 
@@ -123,7 +123,7 @@ NORME IN MATERIA DI REATI MINISTERIALI
 
 > \- Per il testo dell'art. 8 della stessa legge costituzionale 16 gennaio 1989, n. 1, si vedano le note all'art. 1.
 
-#### Art. 4
+### Art. 4
 
 1\. Quando sia negata l'autorizzazione a procedere ai sensi del comma 3 dell'articolo 9 della legge costituzionale 16 gennaio 1989, n. 1, l'assemblea della Camera
 
@@ -135,11 +135,9 @@ competente ne da' comunicazione al collegio di cui all'articolo 1, che dispone l
 
 > Per il testo dell'art. 9 della legge costituzionale 16 gennaio 1989, n. 1, si vedano le note all'art. 3.
 
-## Capo II - NORME CONCERNENTI I REATI PREVISTI
+## Capo II - NORME CONCERNENTI I REATI PREVISTI DALL'ARTICOLO 90 DELLA COSTITUZIONE
 
-### DALL'ARTICOLO 90 DELLA COSTITUZIONE
-
-#### Art. 5
+### Art. 5
 
 1\. I rapporti, i referti e le denunzie concernenti i reati indicati nell'articolo 90 della Costituzione devono essere presentati o fatti immediatamente pervenire al Presidente della Camera dei deputati, che li trasmette al comitato di cui all'articolo 12 della legge costituzionale 11 marzo 1953, n. 1, come modificato dall'articolo 3 della legge costituzionale 16 gennaio 1989, n. 1.
 
@@ -169,7 +167,7 @@ competente ne da' comunicazione al collegio di cui all'articolo 1, che dispone l
 
 > \- Per il testo dell'art. 7 della legge costituzionale 16 gennaio 1989, n. 1, si vedano le note all'art. 1.
 
-#### Art. 6
+### Art. 6
 
 1\. Nei procedimenti relativi ai reati di cui all'articolo 90 della Costituzione non sono richieste le autorizzazioni previste dal secondo e dal terzo comma dell'articolo 68 della Costituzione.
 
@@ -183,7 +181,7 @@ competente ne da' comunicazione al collegio di cui all'articolo 1, che dispone l
 
 > Eguale autorizzazione e' richiesta per trarre in arresto o mantenere in detenzione un membro del Parlamento in esecuzione di una sentenza anche irrevocabile".
 
-#### Art. 7
+### Art. 7
 
 1\. Per il compimento delle indagini di cui al comma 4 dell'articolo 5 il comitato puo' delegare uno o piu' dei suoi componenti.
 
@@ -197,7 +195,7 @@ competente ne da' comunicazione al collegio di cui all'articolo 1, che dispone l
 
 6\. Per l'esecuzione dei provvedimenti adottati con i poteri di cui al comma 2 il comitato si avvale della polizia giudiziaria.
 
-#### Art. 8
+### Art. 8
 
 1\. Il comitato esperisce le indagini entro il termine massimo di cinque mesi. Tuttavia, ove si tratti di indagini particolarmente complesse, il comitato puo' deliberare per una sola volta la proroga del termine suddetto per un periodo non superiore a tre mesi.
 
@@ -213,7 +211,7 @@ competente ne da' comunicazione al collegio di cui all'articolo 1, che dispone l
 
 > Per il testo dell'art. 90 della Costituzione e per quello dell'art. 12 della legge costituzionale 11 marzo 1953, n. 1, come sostituito dall'art. 3 della legge costituzionale 16 gennaio 1989, n. 1, si vedano le note all'art. 5.
 
-#### Art. 9
+### Art. 9
 
 1\. Il comitato procede alle indagini relative ai reati di cui al comma 1 dell'articolo 5 anche nei confronti di qualsiasi soggetto che abbia concorso negli stessi.
 
@@ -225,7 +223,7 @@ competente ne da' comunicazione al collegio di cui all'articolo 1, che dispone l
 
 > Per il testo dell'art. 90 della Costituzione si vedano le note all'art. 5.
 
-#### Art. 10
+### Art. 10
 
 1\. Qualora ritenga che il reato sia diverso da quelli previsti dall'articolo 90 della Costituzione il Parlamento in seduta comune dichiara la propria incompetenza e trasmette gli atti all'autorita' giudiziaria.
 
@@ -235,7 +233,7 @@ competente ne da' comunicazione al collegio di cui all'articolo 1, che dispone l
 
 > Per il testo dell'art. 90 della Costituzione si vedano le note all'art. 5.
 
-#### Art. 11
+### Art. 11
 
 1\. Salvo che il comitato disponga altrimenti, sono pubbliche le sedute del comitato stesso destinate alla votazione sulla proposta di archiviazione ovvero su quella di presentazione della relazione per il Parlamento; nelle stesse l'inquisito ha diritto di esporre, personalmente o a mezzo del difensore, le proprie difese. Della data di tali sedute e' dato avviso, a cura del presidente del comitato, almeno dieci giorni prima all'interessato e al suo difensore, che fino a cinque giorni prima della seduta hanno facolta' di prendere visione, presso la segreteria del comitato, delle cose e degli atti relativi alle indagini effettuate e di estrarne copia.
 
@@ -251,7 +249,7 @@ competente ne da' comunicazione al collegio di cui all'articolo 1, che dispone l
 
 > "Art. 683 (Pubblicazione delle discussioni o delle deliberazioni segrete di una delle Camere). - Chiunque, senza autorizzazione, pubblica col mezzo della stampa, o con un altro dei mezzi indicati nell'art. 662, anche per riassunto, il contenuto delle discussioni o delle deliberazioni segrete del Senato o della Camera dei deputati e' punito, qualora il fatto non costituisca un piu' grave reato, con l'arresto fino a trenta giorni o con l'ammenda da lire centomila a cinquecentomila".
 
-#### Art. 12
+### Art. 12
 
 1\. Ai soggetti interessati e' dato avviso della convocazione del Parlamento in seduta comune, con invito ad esercitare la facolta' di nominare un difensore, qualora non vi abbiano gia' provveduto, di prendere visione degli atti del procedimento, di estrarne copia, nonche' di presentare istanze e memorie e di produrre documenti.
 
@@ -259,7 +257,7 @@ competente ne da' comunicazione al collegio di cui all'articolo 1, che dispone l
 
 ## Capo III - MODIFICHE ALLA LEGGE 25 GENNAIO 1962, N. 20
 
-#### Art. 13
+### Art. 13
 
 1\. L'articolo 22 della legge 25 gennaio 1962, n. 20, e' sostituito dal seguente:
 
@@ -269,7 +267,7 @@ competente ne da' comunicazione al collegio di cui all'articolo 1, che dispone l
 
 > La legge 25 gennaio 1962, n. 20, reca: "Norme sui procedimenti di accusa".
 
-#### Art. 14
+### Art. 14
 
 1\. L'articolo 23 della legge 25 gennaio 1962, n. 20, e' sostituito dal seguente:
 
@@ -279,7 +277,7 @@ competente ne da' comunicazione al collegio di cui all'articolo 1, che dispone l
 
 > Per il testo dell'art. 12 della legge costituzionale 11 marzo 1953, n. 1, come sostituito dall'art. 3 della legge costituzionale 16 gennaio 1989, n. 1, si vedano le note all'art. 5.
 
-#### Art. 15
+### Art. 15
 
 1\. Il secondo comma dell'articolo 27 della legge 25 gennaio 1962, n. 20, e' sostituito dal seguente:
 
@@ -313,7 +311,7 @@ competente ne da' comunicazione al collegio di cui all'articolo 1, che dispone l
 
 > \- L'ultimo comma dell'art. 27 della legge 25 gennaio 1962, n. 20, abrogato dal presente articolo, prevedeva che ai procedimenti per reati connessi si applicassero le disposizioni dell'art. 1 della stessa legge riguardanti l'esenzione dalle autorizzazioni per il procedimento di accusa.
 
-#### Art. 16
+### Art. 16
 
 1\. Il secondo comma dell'articolo 29 della legge 25 gennaio 1962, n. 20, e' sostituito dal seguente:
 
@@ -331,7 +329,7 @@ competente ne da' comunicazione al collegio di cui all'articolo 1, che dispone l
 
 > \- Per il testo dell'art. 12 della legge costituzionale 11 marzo 1953, n. 1, come sostituito dall'art. 3 della legge costituzionale 16 gennaio 1989, n. 1, si vedano le note all'art. 5.
 
-#### Art. 17
+### Art. 17
 
 1\. L'articolo 30 della legge 25 gennaio 1962, n. 20, e' sostituito dal seguente:
 
@@ -345,7 +343,7 @@ competente ne da' comunicazione al collegio di cui all'articolo 1, che dispone l
 
 ## Capo IV - ENTRATA IN VIGORE
 
-#### Art. 18
+### Art. 18
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 

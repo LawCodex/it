@@ -66,7 +66,7 @@ il seguente decreto-legislativo:
 
 ## Capo I - Disposizioni generali
 
-#### Art. 1
+### Art. 1
 
 Oggetto, definizioni e soggetti attuatori
 
@@ -128,7 +128,7 @@ o-ter) criteri di riconoscimento: disposizioni di cui al regolamento (UE) 1308/2
 
 ## Capo II - Sanzioni per la violazione delle regole della condizionalita' sociale
 
-#### Art. 1-bis
+### Art. 1-bis
 
 (( (Recupero di pagamenti indebiti e interessi applicabili). ))
 
@@ -140,7 +140,7 @@ o-ter) criteri di riconoscimento: disposizioni di cui al regolamento (UE) 1308/2
 
 4\. Il termine di pagamento concesso al beneficiario per la restituzione dell'indebito non puo' essere superiore a sessanta giorni decorrenti dalla data di ricevimento del provvedimento di recupero. Salvo diversa previsione del presente decreto, gli interessi sulle somme da restituire sono calcolati con decorrenza dal termine assegnato al debitore nel provvedimento che dispone il recupero dell'indebito, ovvero, in caso di malafede, dalla data di percepimento dell'aiuto.))
 
-#### Art. 2
+### Art. 2
 
 Ambito d'applicazione
 
@@ -150,7 +150,7 @@ Ambito d'applicazione
 
 2\. ((COMMA ABROGATO DAL D.LGS. 23 NOVEMBRE 2023, N. 188)).
 
-#### Art. 3
+### Art. 3
 
 Calcolo delle riduzioni
 
@@ -166,11 +166,9 @@ Calcolo delle riduzioni
 
 6\. In relazione alle infrazioni commesse dai singoli beneficiari, per ogni anno solare, si applica unicamente la percentuale di riduzione piu' alta.
 
-## Capo III - Sanzioni per la violazione delle regole previste per i tipi di
+## Capo III - Sanzioni per la violazione delle regole previste per i tipi di intervento sotto forma di pagamenti diretti e di sviluppo rurale nell'ambito del sistema integrato di gestione e controllo
 
-### intervento sotto forma di pagamenti diretti e di sviluppo rurale - nell'ambito del sistema integrato di gestione e controllo
-
-#### Art. 4
+### Art. 4
 
 Ambito di applicazione
 
@@ -196,7 +194,7 @@ f) interventi basati sulle superfici e sugli animali, ai sensi degli articoli 70
 
 > \- Per i riferimenti del regolamento (UE) 2021/2116, si veda nelle note alle premesse.
 
-#### Art. 5
+### Art. 5
 
 Riduzione dei pagamenti per la presentazione tardiva delle domande
 
@@ -210,7 +208,7 @@ Riduzione dei pagamenti per la presentazione tardiva delle domande
 
 ((4-bis. Fermo restando quanto previsto al comma 4, alle richieste di modifica della domanda iniziale, relative a singole parcelle agricole o singoli diritti all'aiuto, capi animali o ulteriori elementi fattuali, presentate oltre i termini stabiliti per la presentazione della domanda di aiuto, si applicano le riduzioni stabilite dai commi 1 e 3, esclusivamente in relazione all'aumento dell'entita' o del pagamento rispetto a quello spettante per la domanda presentata nei termini.))
 
-#### Art. 6
+### Art. 6
 
 Omesse o inesatte dichiarazioni
 
@@ -254,7 +252,7 @@ d) se la percentuale del rapporto tra capi non accertati e capi accertati e' sup
 
 ## Capo IV - Sanzioni per la violazione delle regole della condizionalita'
 
-#### Art. 7
+### Art. 7
 
 Ambito di applicazione
 
@@ -264,7 +262,7 @@ Ambito di applicazione
 
 > \- Per i riferimenti del regolamento (UE) 2021/2115, si veda nelle note alle premesse.
 
-#### Art. 8
+### Art. 8
 
 Sanzioni per la violazione
 
@@ -288,7 +286,7 @@ delle regole di condizionalita'
 
 > \- Per i riferimenti del regolamento (UE) 2021/2116, si veda nelle note alle premesse.
 
-#### Art. 9
+### Art. 9
 
 Disposizioni transitorie in materia di condizionalita'
 
@@ -298,7 +296,7 @@ Disposizioni transitorie in materia di condizionalita'
 
 ## Capo V - Sanzioni per la violazione degli impegni per gli eco-schemi
 
-#### Art. 10
+### Art. 10
 
 Disposizioni specifiche per le riduzioni dei pagamenti in relazione ai regimi per il clima, l'ambiente e il benessere degli animali
 
@@ -308,17 +306,15 @@ Disposizioni specifiche per le riduzioni dei pagamenti in relazione ai regimi pe
 
 ((3. Se i beneficiari per i quali la sanzione e' stata sospesa nel 2023, compiono ulteriori violazioni nel 2024, la sanzione sospesa per il 2023 verra' applicata unitamente a quella comminata per il 2024.))
 
-## Capo VI - Sanzioni per la violazione di disposizioni specifiche in materia di
+## Capo VI - Sanzioni per la violazione di disposizioni specifiche in materia di sviluppo rurale
 
-### sviluppo rurale
-
-#### Art. 11
+### Art. 11
 
 Violazioni dei criteri di ammissibilita' non connessi alla dimensione delle superfici o al numero di animali finanziati dal Fondo europeo agricolo per o sviluppo rurale - FEASR
 
 1\. Nel caso di violazione accertata in via definitiva dei criteri di ammissibilita' non connessi alla dimensione delle superfici o al numero degli animali, stabiliti dal PSP, il sostegno e' rifiutato o recuperato integralmente.
 
-#### Art. 12
+### Art. 12
 
 Violazione degli impegni connessi alla superficie
 
@@ -330,7 +326,7 @@ e agli animali finanziati dal FEASR
 
 > \- Per i riferimenti del regolamento (UE) 2021/2115, si veda nelle note alle premesse.
 
-#### Art. 13
+### Art. 13
 
 Violazioni contestuali di piu' impegni connessi agli articoli 70, 71, 72 del regolamento (UE) 2021/2115 nonche' dei pertinenti impegni di condizionalita'
 
@@ -340,7 +336,7 @@ Violazioni contestuali di piu' impegni connessi agli articoli 70, 71, 72 del reg
 
 > \- Per i riferimenti del regolamento (UE) 2021/2115, si veda nelle note alle premesse.
 
-#### Art. 14
+### Art. 14
 
 Ripetizione dell'inadempienza
 
@@ -352,7 +348,7 @@ e inadempienze gravi
 
 3\. Una violazione si definisce non grave, quando e' ripetuta ed il livello massimo dei parametri di cui al comma 2 ricorre una sola volta o non ricorre affatto. In quest'ultimo caso e' applicata una maggiorazione della riduzione, riferita all'impegno violato, doppia delle percentuali, rispettivamente, del 3 per cento, del 5 per cento o del 10 per cento, a loro volta determinate, ciascuna, in base alla gravita', entita', durata di ciascuna violazione, come definite secondo i criteri posti dall'articolo 25.
 
-#### Art. 15
+### Art. 15
 
 Violazione degli impegni ((e degli altri obblighi)) dello sviluppo rurale non connessi alla superficie e agli animali
 
@@ -360,7 +356,7 @@ Violazione degli impegni ((e degli altri obblighi)) dello sviluppo rurale non co
 
 ((1-bis. I beneficiari, che richiedono nella domanda di aiuto un importo che risulta maggiore del 25 per cento rispetto a quello considerato ammissibile dall'organismo pagatore competente, sono soggetti ad una sanzione pari alla differenza tra i due importi. La riduzione o l'esclusione si applica anche alle spese che sono risultate non ammissibili in seguito ai controlli in loco o in occasione di successive verifiche.))
 
-#### Art. 16
+### Art. 16
 
 Violazione delle regole
 
@@ -372,7 +368,7 @@ in materia di appalti pubblici
 
 > \- Per i riferimenti del regolamento (UE) 2021/2116, si veda nelle note alle premesse.
 
-#### Art. 17
+### Art. 17
 
 Disposizioni transitorie in materia di misure connesse
 
@@ -400,13 +396,13 @@ c) casistiche identificate dai documenti di programmazione approvati dalla Commi
 
 ## Capo VII - ((Sanzioni per la violazione di disposizioni del settore dell'ortofrutta e del settore delle patate e del settore olivicolo))
 
-#### Art. 18
+### Art. 18
 
 (( (Inosservanza dei criteri di riconoscimento). ))
 
 ((1.Un'organizzazione di produttori o un'associazione di organizzazioni di produttori dei settori ortofrutticolo, olivicolo e delle patate che non rispetta uno o piu' dei criteri di riconoscimento, e' soggetta alla sanzione della revoca del riconoscimento.))
 
-#### Art. 19
+### Art. 19
 
 (( (Frodi). ))
 
@@ -420,7 +416,7 @@ c) casistiche identificate dai documenti di programmazione approvati dalla Commi
 
 2\. Quando pervengono da parte di organismi di accertamento e di controllo notizie circostanziate inerenti ai fatti di cui al comma 1, nei confronti delle organizzazioni di produttori e delle associazioni di organizzazioni di produttori sono sospesi i pagamenti di cui al Titolo III, Capo III, Sezioni 2, 6 e 7 del regolamento (UE) 2021/2115, finche' i fatti non sono accertati e, per lo stesso periodo, e' sospeso il riconoscimento.))
 
-#### Art. 20
+### Art. 20
 
 (( (Pagamento degli aiuti recuperati e delle sanzioni). ))
 
@@ -432,7 +428,7 @@ a) a decorrere dal ricevimento del pagamento indebito;
 
 b) al tasso applicato dalla Banca centrale europea alle sue operazioni principali di rifinanziamento, pubblicato nella Gazzetta ufficiale dell'Unione europea, serie C, in vigore alla data del pagamento indebito, maggiorato di tre punti percentuali.))
 
-#### Art. 21
+### Art. 21
 
 (( (Sanzioni per gli importi non ammissibili nel settore dell'ortofrutta e delle patate). ))
 
@@ -440,7 +436,7 @@ b) al tasso applicato dalla Banca centrale europea alle sue operazioni principal
 
 2\. Se il valore della produzione commercializzata e' dichiarato e verificato prima della presentazione della domanda di aiuto, gli importi di cui al comma 1 sono stabiliti tenendo conto rispettivamente del valore dichiarato e di quello approvato.))
 
-#### Art. 22
+### Art. 22
 
 (( (Sanzioni a seguito di controlli di primo livello sulle operazioni di ritiro nel settore dell'ortofrutta e delle patate). ))
 
@@ -452,7 +448,7 @@ b) se i quantitativi non conformi sono compresi tra il 10 per cento e il 25 per 
 
 c) se i quantitativi non conformi superano il 25 per cento di quelli ritirati, la sanzione e' pari all'importo dell'aiuto dell'Unione per l'intero quantitativo comunicato.))
 
-#### Art. 23
+### Art. 23
 
 (( (Sanzioni applicabili per la violazione delle regole nelle operazioni di ritiro nel settore dell'ortofrutta e delle patate). ))
 
@@ -460,13 +456,13 @@ c) se i quantitativi non conformi superano il 25 per cento di quelli ritirati, l
 
 2\. Alla medesima sanzione e' soggetta l'organizzazione di produttori o l'associazione di organizzazione di produttori che abbia provocato un impatto ambientale negativo o conseguenze fitosanitarie negative nello svolgimento delle operazioni di cui al comma precedente.))
 
-#### Art. 24
+### Art. 24
 
 (( (Sanzioni applicabili ai destinatari dei prodotti ritirati dal mercato nel settore dell'ortofrutta e delle patate). ))
 
 ((1. I destinatari dei prodotti ritirati dal mercato che violano le condizioni previste dall'articolo 28 del regolamento delegato (UE) 2022/126 sono soggetti all'esclusione dal diritto di ricevere i prodotti ritirati dal mercato per il periodo di un anno e sono tenuti al versamento di una somma equivalente al valore dei prodotti ricevuti, maggiorata delle spese di cernita, imballaggio e trasporto.))
 
-#### Art. 24-bis
+### Art. 24-bis
 
 (( (Inosservanza dell'obbligo di informazione nel settore dell'ortofrutta e delle patate). ))
 
@@ -476,7 +472,7 @@ c) se i quantitativi non conformi superano il 25 per cento di quelli ritirati, l
 
 3\. Le sanzioni di cui ai commi 1 e 2 si applicano anche in caso di inosservanza degli obblighi di inserimento nel sistema informativo dei programmi operativi e delle loro modifiche e delle basi sociali.))
 
-#### Art. 24-ter
+### Art. 24-ter
 
 (( (Sanzioni amministrative in relazione alla raccolta verde e alla mancata raccolta nel settore dell'ortofrutta previste dall'articolo 17 del regolamento delegato (UE) 2022/126). ))
 
@@ -496,13 +492,13 @@ b) la raccolta e' stata comunque effettuata, in tutto o in parte, salvo che l'in
 
 c) si verifica un impatto ambientale negativo o conseguenze fitosanitarie negative.))
 
-#### Art. 24-quater
+### Art. 24-quater
 
 (( (Sanzione a fronte della presentazione tardiva della domanda di aiuto). ))
 
 ((1. In deroga a quanto previsto dall'articolo 5, un'organizzazione di produttori o un'associazione di organizzazioni di produttori che opera nei settori ortofrutticolo, olivicolo e delle patate e che presenta una domanda di aiuto oltre i termini previsti dalla normativa di riferimento, e' soggetta ad una sanzione pari alla riduzione dell'1 per cento dell'importo dell'aiuto riconosciuto, per ogni giorno di ritardo nella presentazione della domanda.))
 
-#### Art. 24-quinquies
+### Art. 24-quinquies
 
 (( (Sanzioni per infrazione della determinazione del valore della produzione commercializzata per il settore olivicolo). ))
 
@@ -518,7 +514,7 @@ c) se la differenza tra il valore accertato e quello dichiarato e' superiore o u
 
 ## ((Capo VII-bis - Sanzioni per la violazione delle disposizioni del settore vitivinicolo))
 
-#### Art. 24-sexies
+### Art. 24-sexies
 
 (( (Sanzioni per la violazione delle regole in materia di ristrutturazione e di riconversione dei vigneti). ))
 
@@ -550,7 +546,7 @@ b) mancata presentazione della domanda di pagamento del saldo;
 
 c) presentazione della rinuncia al contributo concesso, successivamente al trentesimo giorno antecedente la data di scadenza della presentazione delle domande di pagamento del saldo.))
 
-#### Art. 24-septies
+### Art. 24-septies
 
 (( (Sanzioni per la violazione delle disposizioni in materia di vendemmia verde). ))
 
@@ -562,7 +558,7 @@ b) se la differenza tra la superficie realizzata e quella oggetto della domanda 
 
 c) se la differenza tra la superficie realizzata e quella oggetto della domanda supera il 50 per cento, l'aiuto e' negato e, se gia' concesso, e' restituito. In tale ipotesi il beneficiario e' escluso dall'intervento per i successivi tre anni, a decorrere dalla data di presentazione della domanda.))
 
-#### Art. 24-octies - Sanzioni per la violazione delle disposizioni in materia di investimenti in immobilizzazioni materiali e immateriali
+### Art. 24-octies - Sanzioni per la violazione delle disposizioni in materia di investimenti in immobilizzazioni materiali e immateriali
 
 1\. I beneficiari del contributo per l'intervento di cui all'articolo 58, paragrafo 1, lettera b), del regolamento (UE) 2021/2115 che non utilizzano un anticipo ricevuto sono soggetti alle seguenti sanzioni:
 
@@ -588,13 +584,13 @@ a) in caso di approvazione di modifiche al progetto iniziale o qualora l'anticip
 
 b) se l'importo non speso e' inferiore al 10 per cento dell'anticipo erogato.
 
-#### Art. 24-novies
+### Art. 24-novies
 
 (( (Sanzione a carico del distillatore dei sottoprodotti della vinificazione). ))
 
 ((1. Il distillatore che viola gli obblighi previsti dalla normativa comunitaria e nazionale per la concessione dell'aiuto di cui all'articolo 58, paragrafo 1, lettera g), del regolamento (UE) 2021/2115, in materia di distillazione dei sottoprodotti, e' soggetto alla revoca del provvedimento di riconoscimento ed al diniego di accesso agli aiuti comunitari previsti per l'anno successivo all'accertamento della violazione.))
 
-#### Art. 24-decies
+### Art. 24-decies
 
 (( (Sanzioni per la violazione delle regole in materia di promozione e comunicazione realizzate nei paesi terzi). ))
 
@@ -606,7 +602,7 @@ b) se l'importo non speso e' inferiore al 10 per cento dell'anticipo erogato.
 
 ## ((Capo VII-ter - Sanzioni per la violazione di disposizioni del settore dell'apicoltura))
 
-#### Art. 24-undecies - Inosservanza degli obblighi previsti per il percepimento dei pagamenti previsti al Titolo III, Capo III, Sezione 3, del regolamento (UE) 2021/2115
+### Art. 24-undecies - Inosservanza degli obblighi previsti per il percepimento dei pagamenti previsti al Titolo III, Capo III, Sezione 3, del regolamento (UE) 2021/2115
 
 1\. I beneficiari dei finanziamenti per l'acquisto dei beni, previsti dall'articolo 55, comma 1, lettera b), del regolamento (UE) 2021/2115, il cui uso e utilita' economica non si esauriscono entro un anno, quando non rispettano il periodo minimo di mantenimento di tali beni in azienda, sono soggetti al recupero degli aiuti.
 
@@ -618,7 +614,7 @@ b) se l'importo non speso e' inferiore al 10 per cento dell'anticipo erogato.
 
 ## Capo VIII - Disposizioni comuni
 
-#### Art. 25
+### Art. 25
 
 Disposizioni finali
 
@@ -636,7 +632,7 @@ c) all'importo risultante dall'applicazione della lettera b), si applicano le ri
 
 ((2-bis. Quando a seguito di comunicazione del Fondo mutualistico nazionale AgriCat agli organismi pagatori, effettuata mediante iscrizione nel registro debitori nazionale da parte di Agea, risulta che l'impresa agricola beneficiaria degli aiuti ha indebitamente percepito importi a titolo di indennizzo a seguito di una denuncia di sinistro per eventi catastrofali, l'Organismo pagatore compensa l'importo dell'aiuto da erogare con gli importi indebitamente percepiti.))
 
-#### Art. 26
+### Art. 26
 
 Clausola di invarianza finanziaria
 

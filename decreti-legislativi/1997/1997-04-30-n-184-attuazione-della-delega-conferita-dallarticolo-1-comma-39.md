@@ -40,11 +40,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I - Disposizioni in materia di ricongiunzione
+## Capo I - Disposizioni in materia di ricongiunzione dei periodi assicurativi
 
-### dei periodi assicurativi
-
-#### Art. 1
+### Art. 1
 
 Cumulo di periodi assicurativi
 
@@ -60,7 +58,7 @@ Cumulo di periodi assicurativi
 
 ## Capo II - Disposizioni in materia di riscatto
 
-#### Art. 2
+### Art. 2
 
 Corsi universitari di studio
 
@@ -88,7 +86,7 @@ AGGIORNAMENTO (3)
 
 La Corte Costituzionale, con sentenza 9-15 febbraio 2000, n. 52 (in G.U. 1a s.s. 23/2/2000, n. 9), ha dichiarato l'illegittimita' costituzionale "del combinato disposto degli artt. 13, primo comma, del d.P.R. 29 dicembre 1973, n. 1092 (Approvazione delle norme sul trattamento di quiescenza dei dipendenti civili e militari dello Stato) e dell'art. 2 del decreto legislativo 30 aprile 1997, n. 184 (Attuazione della delega conferita dall'art. 1, comma 39, della legge 8 agosto 1995, n. 335, in materia di ricongiunzione, di riscatto e di prosecuzione volontaria ai fini pensionistici), nella parte in cui non consentono al dipendente dello Stato di riscattare, ai fini del trattamento di quiescenza, il periodo di durata legale del corso di studi svolto presso l'Accademia di belle arti ovvero presso istituti o scuole riconosciuti di livello superiore (post-secondario), quando il relativo diploma o titolo di studio di specializzazione o di perfezionamento sia richiesto, in aggiunta ad altro titolo di studio per l'ammissione in servizio di ruolo o per lo svolgimento di determinate funzioni."
 
-#### Art. 3
+### Art. 3
 
 Riscatto di periodi di lavoro all'estero e di aspettativa
 
@@ -120,7 +118,7 @@ Riscatto di periodi di lavoro all'estero e di aspettativa
 
 > "Articolo unico. - Il dipendente statale, il cui coniuge presti servizio all'estero per conto di soggetti non statali, puo' chiedere il collocamento in aspettativa a norma della legge 11 febbraio 1980, n. 26".
 
-#### Art. 4
+### Art. 4
 
 Modalita' dei riscatti
 
@@ -130,11 +128,9 @@ Modalita' dei riscatti
 
 > \- Per il testo dell'art. 13 della legge n. 1338/1962 si veda in nota all'art. 2.
 
-## Capo III - Disposizioni in materia
+## Capo III - Disposizioni in materia di prosecuzione volontaria
 
-### di prosecuzione volontaria
-
-#### Art. 5
+### Art. 5
 
 Estensione del regime della prosecuzione volontaria INPS alle altre forme di previdenza
 
@@ -158,7 +154,7 @@ Resta fermo il requisito di anzianita' contributiva ridotta previsto dagli artic
 
 3\. Ai fini del computo del quinquennio di cui al comma 2, si applicano le disposizioni contenute nell'articolo 3 del decreto del Presidente della Repubblica 31 dicembre 1971, n. 1432, e successive modificazioni ed integrazioni.
 
-#### Art. 6
+### Art. 6
 
 Presupposti di ammissione
 
@@ -166,7 +162,7 @@ Presupposti di ammissione
 
 2\. La contribuzione volontaria non e' ammessa per contestuali periodi di assicurazione ad una delle forme di previdenza obbligatoria per lavoratori dipendenti, pubblici e privati, per lavoratori autonomi e per liberi professionisti, nonche' per periodi successivi alla data di decorrenza della pensione diretta liquidata a carico delle predette forme di previdenza.
 
-#### Art. 7
+### Art. 7
 
 Modalita' di determinazione della contribuzione
 
@@ -212,7 +208,7 @@ Rimane ferma, se esistente, l'applicazione del minimale retributivo per gli iscr
 
 > 4\. A decorrere dall'anno 1991 e con effetto dal 1 gennaio di ciascun anno i redditi di cui alla citata tabella E sono aumentati in misura pari all'aumento percentuale del costo della vita calcolato dall'Istat per l'anno precedente ai fini della scala mobile delle retribuzioni dei lavoratori dell'industria".
 
-#### Art. 8
+### Art. 8
 
 Modalita' di versamento
 
@@ -224,13 +220,13 @@ Modalita' di versamento
 
 ## Capo IV - Norme finali
 
-#### Art. 9
+### Art. 9
 
 Norme transitorie e finali
 
 1\. Nelle materie regolate dal presente decreto legislativo continuano a trovare applicazione le previgenti disposizioni relativamente alle domande esercitate dagli interessati in data anteriore a quella di entrata in vigore del decreto medesimo.
 
-#### Art. 10
+### Art. 10
 
 Abrogazioni
 

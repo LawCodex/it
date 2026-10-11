@@ -32,11 +32,9 @@ Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commiss
 
 Noi abbiamo sanzionato e promulghiamo quanto segue:
 
-## Capo I. - Modificazioni al testo unico delle leggi sul nuovo catasto dei
+## Capo I. - Modificazioni al testo unico delle leggi sul nuovo catasto dei terreni.
 
-### terreni.
-
-#### Art. 1
+### Art. 1
 
 Al testo unico delle leggi sul nuovo catasto dei terreni, approvato con R. decreto 8 ottobre 1931-IX, n. 1572, e successive modificazioni sono apportate le seguenti modificazioni ed aggiunte:
 
@@ -92,11 +90,11 @@ b) all'art. 57-bis sono soggetti alla pena pecuniaria da lire 10 a lire 50.
 
 «Il relativo processo verbale e' trasmesso all'intendente di Finanza competente per territorio, per l'applicazione della pena pecuniaria, a norma degli articoli 55 e seguenti della legge 7 gennaio 1929-VII, n. 4».
 
-#### Art. 2
+### Art. 2
 
 Le spese per quanto occorre al funzionamento delle Commissioni censuarie provinciali sono a carico delle rispettive Provincie, quelle per il funzionamento delle Commissioni censuarie comunali sono a carico dei rispettivi Comuni.
 
-#### Art. 3
+### Art. 3
 
 Ai membri delle Commissioni censuarie provinciali e' dovuta per ciascun giorno di adunanza una indennita', in misura di lire venticinque al lordo della ritenuta del doppio dodici per cento.
 
@@ -114,17 +112,15 @@ Le indennita' di soggiorno di cui ai due precedenti commi sono soggette alle rid
 
 La indennita' di cui al 1° comma non e' cumulabile colla diaria di soggiorno fuori residenza.
 
-#### Art. 4
+### Art. 4
 
 Le mappe catastali possono essere anche altimetriche.
 
 L'Amministrazione del catasto e dei servizi tecnici erariali e' autorizzata a formare, mediante riduzione della mappa, carte catastali in scala minore di quelle indicate dall'art. 3 del testo unico delle leggi sul nuovo catasto dei terreni, approvato con R. decreto 8 ottobre 1931-IX, n. 1572.
 
-## Capo II. - Disposizioni riguardanti i trasferimenti di piccole proprieta'
+## Capo II. - Disposizioni riguardanti i trasferimenti di piccole proprieta' rustiche ed urbane.
 
-### rustiche ed urbane.
-
-#### Art. 5
+### Art. 5
 
 Per i trasferimenti per atti tra vivi a titolo oneroso di fondi rustici compreso qualsiasi genere di proprieta' rurale anche se non fatti a scopo di arrotondamento della proprieta' fondiaria oppure di fabbricati del valore fino a lire 1000 e da lire 1000 a lire 5000 le imposte di registro ed ipotecarie, la tassa di bollo ed i diritti catastali sono dovuti nelle seguenti misure:
 
@@ -162,7 +158,7 @@ per valore fino a L. 1000 L. 0,50
 
 per valore superiore a L. 1000 ma non a L. 5000 » 1 -
 
-#### Art. 6
+### Art. 6
 
 Qualora, in seguito all'accertamento del valore venale del fondo trasferito ai sensi dell'art. 33 della legge del registro 30 dicembre 1923-II, n. 3269, e successive modificazioni, il valore del trasferimento venga a risultare superiore ai limiti indicati nel precedente art. 5 sono dovute:
 
@@ -172,7 +168,7 @@ b) per i valori che siano risultati superiori a L. 5000, le normali imposte di r
 
 Anche le tasse complementari di bollo sono riscosse in modo virtuale.
 
-#### Art. 7
+### Art. 7
 
 Gli onorari e diritti notarili dovuti a norma delle vigenti disposizioni per gli atti di trasferimenti tra vivi ed a titolo oneroso riguardanti fondi rustici, compreso qualsiasi genere di proprieta' rurale anche se non fatti a scopo di arrotondamento della proprieta' fondiaria oppure di fabbricati del valore fino a L. 500, e da L. 500 a L. 1000, sono ridotti:
 
@@ -182,7 +178,7 @@ b) per i trasferimenti suddetti per valori superiori a L. 500 ma non a L. 1000, 
 
 La detta riduzione non si applica all'onorario proporzionale spettante per il ricevimento dell'atto e ai diritti di iscrizione al repertorio.
 
-#### Art. 8
+### Art. 8
 
 Dall'entrata in vigore della presente legge sono abrogati gli articoli 1, 2 e 3 del R. decreto-legge 27 giugno 1935-XIII, n. 1227, convertito nella legge 30 dicembre 1935-XIV, n. 2245.
 

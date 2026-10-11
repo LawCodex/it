@@ -6302,11 +6302,9 @@ Visto, il Guardasigilli: Nordio
 
 ## PARTE I - Adempimenti, comunicazioni e dichiarazioni
 
-### TITOLO I
+### TITOLO I - Adempimenti
 
-#### Adempimenti
-
-##### Capo I - Anagrafe tributaria e codice fiscale dei contribuenti
+#### Capo I - Anagrafe tributaria e codice fiscale dei contribuenti
 
 TESTO UNICO DELLE DISPOSIZIONI LEGISLATIVE IN MATERIA DI ADEMPIMENTI E ACCERTAMENTO
 
@@ -6546,7 +6544,7 @@ Segreto d'ufficio
 
 2\. Il Ministero dell'economia e delle finanze ha facolta' di rendere pubblici, senza riferimenti nominativi, statistiche ed elaborazioni relative ai dati di cui al comma 1, nonche', per esclusive finalita' di studio e di ricerca, i medesimi dati, sotto forma di collezioni campionarie, privi di ogni riferimento che ne permetta il collegamento con gli interessati e comunque secondo modalita' che rendano questi ultimi non identificabili.
 
-## Capo II - Anagrafe dei rapporti
+#### Capo II - Anagrafe dei rapporti
 
 ###### Art. 15
 
@@ -6602,7 +6600,7 @@ Trasferimenti attraverso intermediari bancari e finanziari e altri operatori
 
 2\. I dati relativi ai trasferimenti e alle movimentazioni oggetto di rilevazione ai sensi del comma 1 sono trasmessi all'Agenzia delle entrate con modalita' e termini stabiliti con provvedimento del direttore dell'Agenzia delle entrate, anche a disposizione della Guardia di finanza con procedure informatiche. Con il medesimo provvedimento, la trasmissione puo' essere limitata per specifiche categorie di operazioni o causali.
 
-## Capo III - Imposte sui redditi
+#### Capo III - Imposte sui redditi
 
 ###### Art. 19
 
@@ -6962,7 +6960,7 @@ Omessa redazione del prospetto
 
 3\. Il prospetto e' equiparato all'inventario agli effetti delle disposizioni di cui all'articolo 254, comma 2, lettera c), e all'articolo 34 del testo unico delle sanzioni tributarie amministrative e penali, di cui al decreto legislativo 5 novembre 2024, n. 173. Le disposizioni del presente articolo non si applicano per i soggetti indicati all'articolo 30, comma 1, lettera c).
 
-## Capo IV - Opzioni in materia di imposte sui redditi e IVA
+#### Capo IV - Opzioni in materia di imposte sui redditi e IVA
 
 ###### Art. 44
 
@@ -6988,7 +6986,7 @@ Comunicazione delle opzioni
 
 1\. Anche per l'esercizio delle opzioni che devono essere comunicate con la dichiarazione dei redditi da presentare nel corso del primo periodo di valenza del regime opzionale resta fermo quanto stabilito dall'articolo 344, comma 1.
 
-## Capo V - Semplificazione "digitale" degli adempimenti
+#### Capo V - Semplificazione "digitale" degli adempimenti
 
 ###### Art. 46
 
@@ -7040,11 +7038,9 @@ Rafforzamento dei contenuti conoscitivi del cassetto fiscale
 
 3\. Con uno o piu' provvedimenti del direttore dell'Agenzia delle entrate, sentito il Garante per la protezione dei dati personali, nei casi previsti dall'articolo 36, comma 1, del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016 sono definite le regole tecniche e amministrative per la messa a disposizione, l'accesso e l'utilizzo dei servizi digitali di cui al comma 1 ai contribuenti ed eventualmente agli intermediari da loro delegati.
 
-## TITOLO II - Comunicazioni
+### TITOLO II - Comunicazioni
 
-### Capo I
-
-#### Comunicazioni ai fini degli Indici sintetici di affidabilità fiscale
+#### Capo I - Comunicazioni ai fini degli Indici sintetici di affidabilità fiscale
 
 ###### Art. 49
 
@@ -7128,7 +7124,7 @@ b) in deroga a quanto previsto all'articolo 49, comma 5, secondo periodo, valuta
 
 2\. Considerate le difficolta' correlate al primo periodo d'imposta di applicazione degli indici sintetici di affidabilita' fiscale e gli effetti sull'economia e sui mercati conseguenti all'emergenza sanitaria, nella definizione delle strategie di controllo di cui all'articolo 49, comma 18, per il periodo d'imposta in corso al 31 dicembre 2018, l'Agenzia delle entrate e il Corpo della Guardia di finanza tengono conto anche del livello di affidabilita' fiscale derivante dall'applicazione degli indici per il periodo d'imposta in corso al 31 dicembre 2019. Analogamente, per il periodo di imposta in corso al 31 dicembre 2020, si tiene conto anche del livello di affidabilita' fiscale piu' elevato derivante dall'applicazione degli indici per i periodi d'imposta in corso al 31 dicembre 2018 e al 31 dicembre 2019. Per il periodo di imposta in corso al 31 dicembre 2021, si tiene conto anche del livello di affidabilita' fiscale piu' elevato derivante dall'applicazione degli indici per i periodi d'imposta in corso al 31 dicembre 2019 e al 31 dicembre 2020. Per il periodo di imposta in corso al 31 dicembre 2022, si tiene conto anche del livello di affidabilita' fiscale piu' elevato derivante dall'applicazione degli indici per i periodi d'imposta in corso al 31 dicembre 2020 e al 31 dicembre 2021.
 
-## Capo II - Comunicazioni dati IVA
+#### Capo II - Comunicazioni dati IVA
 
 ###### Art. 51
 
@@ -7146,11 +7142,9 @@ Comunicazioni dei dati delle liquidazioni periodiche IVA
 
 5\. L'Agenzia delle entrate mette a disposizione del contribuente, ovvero del suo intermediario, secondo le modalita' previste dagli articoli 112 e 113, le valutazioni concernenti la coerenza tra i dati delle fatture elettroniche e dei corrispettivi telematici e le comunicazioni di cui al comma 1 del presente articolo nonche' la coerenza dei versamenti dell'imposta rispetto a quanto indicato nella comunicazione medesima. Quando dai controlli eseguiti emerge un risultato diverso rispetto a quello indicato nella comunicazione, il contribuente e' informato dell'esito con modalita' previste con provvedimento del direttore dell'Agenzia delle entrate. Il contribuente puo' fornire i chiarimenti necessari, o segnalare eventuali dati ed elementi non considerati o valutati erroneamente, ovvero versare quanto dovuto avvalendosi dell'istituto del ravvedimento operoso di cui all'articolo 14 del testo unico delle sanzioni tributarie amministrative e penali, di cui al decreto legislativo 5 novembre 2024, n. 173. Si applica l'articolo 276, comma 3, indipendentemente dalle condizioni ivi previste.
 
-## TITOLO III - Dichiarazioni
+### TITOLO III - Dichiarazioni
 
-### Capo I
-
-#### Imposte sui redditi
+#### Capo I - Imposte sui redditi
 
 ###### Art. 52
 
@@ -7474,7 +7468,7 @@ Rinvio alle modalita' per la presentazione delle dichiarazioni relative alle imp
 
 1\. Continuano ad applicarsi le disposizioni del regolamento recante modalita' per la presentazione delle dichiarazioni relative alle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 luglio 1998, n. 322.
 
-## Capo II - Imposta sul valore aggiunto
+#### Capo II - Imposta sul valore aggiunto
 
 ###### Art. 76
 
@@ -7502,7 +7496,7 @@ Rinvio alle modalita' per la presentazione delle dichiarazioni relative all'impo
 
 1\. Continuano ad applicarsi le disposizioni del regolamento recante modalita' per la presentazione delle dichiarazioni relative all'imposta sul valore aggiunto di cui al decreto del Presidente della Repubblica 22 luglio 1998, n. 322.
 
-## Capo III - Disposizioni varie
+#### Capo III - Disposizioni varie
 
 ###### Art. 78
 
@@ -7714,15 +7708,11 @@ Esclusione dalla decadenza dal beneficio in caso di mancata esposizione in dichi
 
 ## PARTE II - Collaborazione, controlli e accertamento
 
-### TITOLO I
+### TITOLO I - Collaborazione
 
-#### Collaborazione
+#### Capo I - Concordato preventivo biennale
 
-##### Capo I - Concordato preventivo biennale
-
-###### Sezione I
-
-**Disposizioni generali**
+##### Sezione I - Disposizioni generali
 
 ###### Art. 89
 
@@ -7786,7 +7776,7 @@ L'esercizio della facolta' di cui al primo periodo non e' consentito nei casi in
 
 8\. Nelle ipotesi di cui al comma 7, ai fini dell'articolo 364, l'adesione al concordato preventivo biennale si intende avvenuta entro il 31 ottobre 2024.
 
-## Sezione II - Contribuenti per i quali si applicano gli Indici sintetici di affidabilità fiscale
+##### Sezione II - Contribuenti per i quali si applicano gli Indici sintetici di affidabilità fiscale
 
 ###### Art. 93
 
@@ -8096,7 +8086,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 7 agosto 2026, n. 148 ha disposto (con l'art. 28, comma 3) che le presenti modifiche si applicano a decorrere dal biennio d'imposta 2026-2027.
 
-## Sezione III - Disposizioni comuni di coordinamento e conclusive
+##### Sezione III - Disposizioni comuni di coordinamento e conclusive
 
 ###### Art. 107
 
@@ -8138,11 +8128,9 @@ Estensione del differimento del termine dei versamenti del saldo e del primo acc
 
 1\. Le disposizioni di cui all'articolo 110 si applicano, oltre che ai soggetti che adottano gli indici sintetici di affidabilita' fiscale o che presentano cause di esclusione dagli stessi, compresi quelli che adottano il regime di cui all'articolo 27, comma 1, del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111, nonche' quelli che applicano il regime forfetario di cui alla parte II, titolo I, capo XXI, del testo unico delle disposizioni legislative in materia di imposte sui redditi, di cui al decreto legislativo 19 giugno 2026, n. 117, anche ai soggetti che partecipano a societa', associazioni e imprese ai sensi degli articoli 5, 124 e 125, del testo unico delle disposizioni legislative in materia di imposte sui redditi, di cui al decreto legislativo 19 giugno 2026, n. 117.
 
-## Capo II - Collaborazione tra Contribuente e Amministrazione Finanziaria
+#### Capo II - Collaborazione tra Contribuente e Amministrazione Finanziaria
 
-### Sezione I
-
-#### Promozione adempimenti spontanei
+##### Sezione I - Promozione adempimenti spontanei
 
 ###### Art. 112
 
@@ -8164,7 +8152,7 @@ Disposizioni di attuazione (articolo 1, comma 636, legge 23 dicembre 2014, n. 19
 
 1\. Con provvedimento del direttore dell'Agenzia delle entrate sono individuate le modalita' con cui gli elementi e le informazioni di cui agli articoli 112 e 113 sono messi a disposizione del contribuente e della Guardia di finanza. Il provvedimento di cui al primo periodo indica, in particolare, le fonti informative, la tipologia di informazioni da fornire al contribuente e le modalita' di comunicazione tra quest'ultimo e l'amministrazione, assicurate anche a distanza mediante l'utilizzo delle nuove tecnologie, i livelli di assistenza e i rimedi per la rimozione delle eventuali omissioni e per la correzione degli eventuali errori commessi.
 
-## Sezione II - Accordi preventivi internazionali
+##### Sezione II - Accordi preventivi internazionali
 
 ###### Art. 115
 
@@ -8224,7 +8212,7 @@ b) a conclusione dei controlli effettuati nell'ambito di attivita' di cooperazio
 
 c) a seguito di istanza da parte del contribuente da presentarsi secondo le modalita' e i termini previsti con provvedimento del direttore dell'Agenzia delle entrate, a fronte di una rettifica in aumento definitiva e conforme al principio di libera concorrenza effettuata da uno Stato con il quale e' in vigore una convenzione per evitare le doppie imposizioni sui redditi che consenta un adeguato scambio di informazioni. Resta ferma, in ogni caso, la facolta' per il contribuente di richiedere l'attivazione delle procedure amichevoli di cui alla lettera a), ove ne ricorrano i presupposti.
 
-## Sezione III - Meccanismi di risoluzione delle controversie in materia fiscale nell'Unione europea
+##### Sezione III - Meccanismi di risoluzione delle controversie in materia fiscale nell'Unione europea
 
 ###### Art. 117
 
@@ -8714,7 +8702,7 @@ Decorrenza
 
 1\. Le disposizioni di cui alla presente sezione si applicano alle istanze di apertura di procedura amichevole presentate a decorrere dal 1° luglio 2019 sulle questioni controverse riguardanti il reddito o il patrimonio, relativi al periodo d'imposta che inizia il 1° gennaio 2018 e ai successivi periodi d'imposta.
 
-## Sezione IV - Cooperazione e collaborazione rafforzata
+##### Sezione IV - Cooperazione e collaborazione rafforzata
 
 ###### Art. 140
 
@@ -8756,7 +8744,7 @@ La preclusione opera anche nelle ipotesi in cui la formale conoscenza delle circ
 
 11\. Con provvedimento del direttore dell'Agenzia delle entrate sono definite le modalita' di attuazione degli articoli della presente sezione.
 
-## Sezione V - Interpello nuovi investimenti
+##### Sezione V - Interpello nuovi investimenti
 
 ###### Art. 142
 
@@ -8780,7 +8768,7 @@ Ove necessario, l'Agenzia delle entrate puo' accedere, previa intesa con il cont
 
 7\. Le disposizioni del presente articolo si applicano a decorrere dalla data di emanazione del provvedimento del direttore dell'Agenzia delle entrate di cui al comma 6.
 
-## Sezione VI - Regime dell'adempimento collaborativo
+##### Sezione VI - Regime dell'adempimento collaborativo
 
 ###### Art. 143
 
@@ -8964,11 +8952,9 @@ Per i soggetti gia' ammessi al predetto regime alla data del 18 gennaio 2024 le 
 
 3\. Per i soggetti ammessi al regime dell'adempimento collaborativo, di cui alla presente sezione, alla data del 18 gennaio 2024, il termine di centoventi giorni di cui all'articolo 146, comma 5, decorre dal 6 agosto 2024.
 
-## Titolo II - Poteri e attribuzioni degli Uffici
+### Titolo II - Poteri e attribuzioni degli Uffici
 
-### Capo I
-
-#### Poteri e cooperazione amministrativa
+#### Capo I - Poteri e cooperazione amministrativa
 
 ##### Sezione I - Poteri dell'Amministrazione finanziaria
 
@@ -9408,7 +9394,7 @@ Comunicazione di violazioni tributarie
 
 1\. I soggetti pubblici incaricati istituzionalmente di svolgere attivita' ispettive o di vigilanza nonche' gli organi giurisdizionali, requirenti e giudicanti, penali, civili e amministrativi e, previa autorizzazione, gli organi di polizia giudiziaria che, a causa o nell'esercizio delle loro funzioni, vengono a conoscenza di fatti che possono configurarsi come violazioni tributarie devono comunicarli direttamente ovvero, ove previste, secondo le modalita' stabilite da leggi o norme regolamentari per l'inoltro della denuncia penale, al comando della Guardia di finanza competente in relazione al luogo di rilevazione degli stessi, fornendo l'eventuale documentazione atta a comprovarli.
 
-## Sezione II - Cooperazione amministrativa nel settore fiscale
+##### Sezione II - Cooperazione amministrativa nel settore fiscale
 
 ###### Art. 179
 
@@ -9664,7 +9650,7 @@ Obblighi dei servizi di collegamento
 
 1\. I servizi di collegamento non hanno l'obbligo di effettuare indagini o di comunicare informazioni, qualora condurre tali indagini o raccogliere le informazioni richieste per fini propri non sia consentito dall'ordinamento.
 
-## Sezione III - Adempimenti correlati allo scambio automatico di informazioni con altri Stati esteri
+##### Sezione III - Adempimenti correlati allo scambio automatico di informazioni con altri Stati esteri
 
 ###### Art. 192
 
@@ -9774,7 +9760,7 @@ b) richiedono, almeno una volta all'anno, ai soggetti di cui alla lettera a) il 
 
 c) effettuano, prima della comunicazione all'Agenzia delle entrate di cui all'articolo 193, un'apposita adeguata verifica ai fini fiscali, ai sensi dell'articolo 2 del decreto del Ministro dell'economia e delle finanze 6 agosto 2015, pubblicato nella Gazzetta Ufficiale n. 187 del 13 agosto 2015, sui soggetti di cui alla lettera a), allo scopo di verificare l'acquisizione del codice fiscale statunitense mancante.
 
-## Sezione IV - Scambio automatico obbligatorio di informazioni in materia di rendicontazione Paese per Paese
+##### Sezione IV - Scambio automatico obbligatorio di informazioni in materia di rendicontazione Paese per Paese
 
 ###### Art. 200
 
@@ -9788,7 +9774,7 @@ L'Agenzia delle entrate assicura la riservatezza delle informazioni contenute ne
 
 2\. Agli obblighi di cui al comma 1, alle condizioni ivi indicate, sono tenute anche le societa' controllate, residenti nel territorio dello Stato, nel caso in cui la societa' controllante che ha l'obbligo di redazione del bilancio consolidato sia residente in uno Stato che non ha introdotto l'obbligo di presentazione della rendicontazione Paese per Paese ovvero non ha in vigore con l'Italia un accordo che consenta lo scambio delle informazioni relative alla rendicontazione Paese per Paese ovvero e' inadempiente all'obbligo di scambio delle informazioni relative alla rendicontazione Paese per Paese.
 
-## Sezione V - Scambio automatico obbligatorio di informazioni nel settore fiscale relativamente ai meccanismi transfrontalieri soggetti all'obbligo di notifica.
+##### Sezione V - Scambio automatico obbligatorio di informazioni nel settore fiscale relativamente ai meccanismi transfrontalieri soggetti all'obbligo di notifica.
 
 ###### Art. 201
 
@@ -9976,7 +9962,7 @@ a) fino al 31 dicembre del quinto anno successivo a quello in cui le informazion
 
 b) fino al 31 dicembre del settimo anno successivo a quello in cui le informazioni avrebbero dovuto essere trasmesse, nel caso di omessa comunicazione.
 
-## Sezione VI - Scambio automatico obbligatorio di informazioni nel settore fiscale raccolte dai gestori di piattaforme
+##### Sezione VI - Scambio automatico obbligatorio di informazioni nel settore fiscale raccolte dai gestori di piattaforme
 
 ###### Art. 210
 
@@ -10368,7 +10354,7 @@ b) forniscono a ogni persona interessata tutte le informazioni che la stessa ha 
 
 3\. In deroga a quanto disposto dal comma 2, lettera b), i gestori di piattaforma con obbligo di comunicazione sono tenuti a informare i venditori oggetto di comunicazione dei corrispettivi comunicati all'Agenzia delle entrate ai sensi dell'articolo 220.
 
-## Sezione VII - Attuazione della convenzione relativa all'eliminazione delle doppie imposizioni in caso di rettifica degli utili di imprese associate
+##### Sezione VII - Attuazione della convenzione relativa all'eliminazione delle doppie imposizioni in caso di rettifica degli utili di imprese associate
 
 ###### Art. 227
 
@@ -10388,7 +10374,7 @@ Segreto d'ufficio
 
 1\. Il membro della commissione consultiva prevista dall'articolo 7 della convenzione di cui all'articolo 1 della legge 22 marzo 1993, n. 99 che violi l'obbligo di mantenere il segreto su tutte le informazioni di cui sia venuto a conoscenza nel quadro della procedura di parere e' punito con la reclusione da sei mesi a tre anni.
 
-## Sezione VIII - Disciplina sullo scambio automatico di informazioni su cripto-attività in attuazione della direttiva (UE) 2023/2226 del Consiglio, del 17 ottobre 2023, recante modifica della direttiva 2011/16/UE, relativa alla cooperazione amministrativa nel settore fiscale
+##### Sezione VIII - Disciplina sullo scambio automatico di informazioni su cripto-attività in attuazione della direttiva (UE) 2023/2226 del Consiglio, del 17 ottobre 2023, recante modifica della direttiva 2011/16/UE, relativa alla cooperazione amministrativa nel settore fiscale
 
 ###### Art. 229
 
@@ -10836,11 +10822,9 @@ Norme di esecuzione
 
 2\. L'elenco delle giurisdizioni qualificate non-UE di cui all'articolo 229, comma 9, lettera b), e' pubblicato sui siti internet istituzionali del Dipartimento delle finanze del Ministero dell'economia e delle finanze e dell'Agenzia delle entrate, entro il 15 maggio di ciascun anno.
 
-## Titolo III - Controlli e accertamento
+### Titolo III - Controlli e accertamento
 
-### Capo I
-
-#### Imposte sui redditi
+#### Capo I - Imposte sui redditi
 
 ###### Art. 242
 
@@ -10852,7 +10836,7 @@ Ufficio competente
 
 2\. Nel caso di esercizio di attivita' d'impresa o di arti e professioni in forma associata, di cui all'articolo 5 del testo unico delle disposizioni legislative in materia di imposte sui redditi, di cui al decreto legislativo 19 giugno 2026, n. 117, ovvero in caso di azienda coniugale non gestita in forma societaria, e in caso di societa' che optano per la trasparenza fiscale di cui agli articoli 124 e 125 del medesimo testo unico delle disposizioni legislative in materia di imposte sui redditi, la competenza di cui al comma 1, spetta all'ufficio competente all'accertamento nei confronti della societa', dell'associazione o del titolare dell'azienda coniugale, con riguardo al relativo reddito di partecipazione attribuibile ai soci, agli associati o all'altro coniuge, che procede con accertamento parziale.
 
-## Sezione I - Liquidazione
+##### Sezione I - Liquidazione
 
 ###### Art. 243
 
@@ -10890,7 +10874,7 @@ Liquidazione dell'imposta sui redditi soggetti a tassazione separata (articolo 1
 
 1\. In esecuzione dell'articolo 6, comma 5, della legge 27 luglio 2000, n. 212, l'Agenzia delle entrate comunica mediante raccomandata con avviso di ricevimento ai contribuenti l'esito dell'attivita' di liquidazione, effettuata ai sensi dell'articolo 243 relativamente ai redditi soggetti a tassazione separata. La relativa imposta o la maggiore imposta dovuta e' versata mediante modello di pagamento, di cui all'articolo 9 del testo unico in materia di versamenti e di riscossione, di cui al decreto legislativo 24 marzo 2025, n. 33, precompilato dall'Agenzia. In caso di mancato pagamento entro il termine di trenta giorni dal ricevimento dell'apposita comunicazione si procede all'iscrizione a ruolo, secondo le disposizioni di cui al medesimo testo unico in materia di versamenti e di riscossione, di cui al decreto legislativo n. 33 del 2025, ferma la sanzione di cui all'articolo 38, comma 2, del testo unico delle sanzioni tributarie amministrative e penali, di cui al decreto legislativo 5 novembre 2024, n. 173, con l'applicazione degli interessi di cui all'articolo 97 del suddetto testo unico in materia di versamenti e di riscossione, di cui al decreto legislativo n. 33 del 2025, a decorrere dal primo giorno del secondo mese successivo a quello di elaborazione della predetta comunicazione.
 
-## Sezione II - Controllo formale
+##### Sezione II - Controllo formale
 
 ###### Art. 245
 
@@ -10920,11 +10904,9 @@ f) correggere gli errori materiali e di calcolo commessi nelle dichiarazioni dei
 
 5\. L'esito del controllo formale e' comunicato al contribuente o al sostituto d'imposta con l'indicazione dei motivi che hanno dato luogo alla rettifica degli imponibili, delle imposte, delle ritenute alla fonte e dei contributi dichiarati, per consentire anche la segnalazione di eventuali dati ed elementi non considerati o valutati erroneamente in sede di controllo formale entro i sessanta giorni successivi al ricevimento della comunicazione.
 
-## Sezione III - Atti di recupero
+##### Sezione III - Atti di recupero
 
-### Paragrafo I
-
-#### Atti di recupero crediti
+**Paragrafo I - Atti di recupero crediti**
 
 ###### Art. 246
 
@@ -11014,7 +10996,7 @@ Proroga termini di notifica degli atti per il recupero delle somme relative agli
 
 1\. In deroga all'articolo 3, comma 3, della legge 27 luglio 2000, n. 212, al fine di garantire il recupero delle somme relative agli aiuti di Stato e agli aiuti de minimis non subordinati all'emanazione di provvedimenti di concessione ovvero subordinati all'emanazione di provvedimenti di concessione o di autorizzazione alla fruizione comunque denominati, il cui importo non e' determinabile nei predetti provvedimenti, ma solo a seguito della presentazione della dichiarazione resa a fini fiscali nella quale sono dichiarati, per i quali le Autorita' responsabili non hanno provveduto all'adempimento degli obblighi di registrazione dei relativi regimi di aiuti e degli aiuti ad hoc previsti dall'articolo 10, comma 6, del regolamento di cui al decreto del Ministro dello sviluppo economico 31 maggio 2017, n. 115, sono prorogati di due anni, senza applicazione delle riduzioni dei termini decadenziali per le attivita' di controllo previste dalle specifiche disposizioni di legge, i termini per la notifica degli atti di recupero di cui agli articoli 247, comma 2, e 249, e degli avvisi di accertamento di cui all'articolo 293, comma 3, in scadenza tra il 31 dicembre 2023 e il 31 dicembre 2027.
 
-## Paragrafo II - Atto di recupero in caso di accollo
+**Paragrafo II - Atto di recupero in caso di accollo**
 
 ###### Art. 251
 
@@ -11032,7 +11014,7 @@ Per l'importo di cui al presente comma e per gli interessi l'accollante e' coobb
 
 4\. Con provvedimento del direttore dell'Agenzia delle entrate sono adottate le modalita' tecniche necessarie per attuare il presente articolo.
 
-## Sezione IV - Accertamento
+##### Sezione IV - Accertamento
 
 ###### Art. 252
 
@@ -11286,7 +11268,7 @@ L'attivita' dei comuni e' anche in questo caso incentivata con il riconoscimento
 
 20\. Ai comuni che effettuano le segnalazioni di cui al comma 19 si applicano le disposizioni in materia di partecipazione dei comuni al contrasto all'evasione fiscale di cui ai commi 7 e 8, lettera b).
 
-## Sezione V - Disposizioni varie
+##### Sezione V - Disposizioni varie
 
 ###### Art. 264
 
@@ -11472,7 +11454,7 @@ b) elenco nominativo dei soggetti che esercitano imprese commerciali, arti e pro
 
 7\. Fuori dei casi previsti dal comma 6, la comunicazione o diffusione, totale o parziale, con qualsiasi mezzo, degli elenchi o di dati personali ivi contenuti, ove il fatto non costituisca reato, e' punita con la sanzione amministrativa del pagamento di una somma da cinquemila euro a trentamila euro. La somma puo' essere aumentata sino al triplo quando risulta inefficace in ragione delle condizioni economiche del contravventore.
 
-## Capo II - Imposta sul valore aggiunto
+#### Capo II - Imposta sul valore aggiunto
 
 ###### Art. 275
 
@@ -11484,7 +11466,7 @@ Ufficio competente
 
 2\. Per i soggetti non residenti di cui all'articolo 70 del testo unico delle disposizioni legislative in materia di imposta sul valore aggiunto, di cui al decreto legislativo n. 10 del 2026, l'ufficio competente ai sensi del presente articolo e' individuato con provvedimento del direttore dell'Agenzia delle entrate.
 
-## Sezione I - Liquidazione
+##### Sezione I - Liquidazione
 
 ###### Art. 276
 
@@ -11576,7 +11558,7 @@ Adempimenti e controlli ai fini IVA propedeutici all'immatricolazione o successi
 
 5\. Con provvedimento del direttore dell'Agenzia delle entrate e' fissata la data a decorrere dalla quale si applicano le disposizioni di cui ai commi 1 e 4 e sono individuati i criteri di esclusione dall'applicazione delle disposizioni di cui ai medesimi commi.
 
-## Sezione II - Accertamento
+##### Sezione II - Accertamento
 
 ###### Art. 281
 
@@ -11730,7 +11712,7 @@ Pubblicazione degli elenchi dei contribuenti
 
 4\. Fuori dei casi previsti dai commi 1 e 2, la comunicazione o diffusione, totale o parziale, con qualsiasi mezzo, degli elenchi o di dati personali ivi contenuti, ove il fatto non costituisca reato, e' punita con la sanzione amministrativa del pagamento di una somma da cinquemila euro a trentamila euro. La somma puo' essere aumentata sino al triplo quando risulta inefficace in ragione delle condizioni economiche del contravventore.
 
-## Capo III - Disposizioni comuni ai fini delle imposte sui redditi e dell'IVA
+#### Capo III - Disposizioni comuni ai fini delle imposte sui redditi e dell'IVA
 
 ###### Art. 292
 
@@ -11898,11 +11880,9 @@ Disposizioni comuni applicabili
 
 2\. Il venti per cento dei proventi delle sanzioni pecuniarie e' devoluto ai fondi costituiti presso l'amministrazione o il corpo cui appartengono gli accertatori, con le modalita' previste con decreto del Ministero dell'economia e delle finanze. Si applica l'articolo 6, comma 4, della legge 15 novembre 1973, n. 734.
 
-## Capo IV - Imposta di registro e altri tributi indiretti
+#### Capo IV - Imposta di registro e altri tributi indiretti
 
-### Sezione I
-
-#### Imposta di Registro
+##### Sezione I - Imposta di Registro
 
 ###### Art. 298
 
@@ -12038,7 +12018,7 @@ Prescrizione del diritto all'imposta
 
 1\. Il credito dell'amministrazione finanziaria per l'imposta definitivamente accertata si prescrive in dieci anni.
 
-## Sezione II - Imposte ipotecaria e catastale
+##### Sezione II - Imposte ipotecaria e catastale
 
 ###### Art. 306
 
@@ -12080,11 +12060,9 @@ Decadenza
 
 5\. La restituzione delle imposte e sanzioni amministrative indebitamente pagate deve essere richiesta, a pena di decadenza, entro tre anni dal giorno del pagamento ovvero, se posteriore, da quello in cui e' sorto il diritto alla restituzione.
 
-## Sezione III - Imposta sulle successioni e donazioni
+##### Sezione III - Imposta sulle successioni e donazioni
 
-### Paragrafo I
-
-#### Successioni
+**Paragrafo I - Successioni**
 
 ###### Art. 309
 
@@ -12168,7 +12146,7 @@ e) dimostrare, anche sulla base di presunzioni gravi, precise e concordanti, la 
 
 2\. Gli organismi di vigilanza delle banche e degli altri intermediari finanziari, su richiesta dell'Agenzia delle entrate, controllano l'esattezza delle certificazioni di cui all'articolo 108, comma 2 del testo unico delle disposizioni legislative in materia di imposta di registro e altri tributi indiretti, di cui al decreto legislativo 1° agosto 2025, n. 123.
 
-## Paragrafo II - Donazioni
+**Paragrafo II - Donazioni**
 
 ###### Art. 312
 
@@ -12190,7 +12168,7 @@ Rinvio
 
 1\. Per le modalita' e i termini della liquidazione dell'imposta o maggiore imposta determinata a norma degli articoli 133 e 134 del testo unico delle disposizioni legislative in materia di imposta di registro e altri tributi indiretti, di cui al decreto legislativo 1° agosto 2025, n. 123, e dell'articolo 312 del presente testo unico, per la rettifica del valore dei beni e dei diritti, per l'applicazione dell'imposta in caso di omissione della richiesta di registrazione, per la riscossione e il rimborso dell'imposta, per i divieti e gli obblighi a carico di terzi e per le sanzioni si applicano, in quanto non diversamente disposto nella Parte III del medesimo testo unico delle disposizioni legislative in materia di imposta di registro e altri tributi indiretti, di cui al decreto legislativo n. 123 del 2025, e nell'articolo 309, commi 5 e 12, del presente testo unico, le disposizioni in materia di imposta di registro di cui alla Parte I del testo unico delle disposizioni legislative in materia di imposta di registro e altri tributi indiretti, di cui al decreto legislativo 1° agosto 2025, n. 123.
 
-## Sezione IV - Imposta di bollo
+##### Sezione IV - Imposta di bollo
 
 ###### Art. 314
 
@@ -12230,11 +12208,9 @@ Termini di decadenza - Rimborsi
 
 4\. Non e' ammesso il rimborso delle imposte pagate in modo ordinario.
 
-## Capo V - Tributi erariali minori
+#### Capo V - Tributi erariali minori
 
-### Sezione I
-
-#### Imposte sulle assicurazioni e contratti vitalizi
+##### Sezione I - Imposte sulle assicurazioni e contratti vitalizi
 
 ###### Art. 317
 
@@ -12288,7 +12264,7 @@ Prescrizione per l'azione del contribuente
 
 1\. L'azione del contribuente per chiedere la restituzione delle imposte e sanzioni amministrative indebitamente pagate si prescrive con il decorso di tre anni dal giorno dell'effettuato pagamento.
 
-## Sezione II - Imposta sugli intrattenimenti
+##### Sezione II - Imposta sugli intrattenimenti
 
 ###### Art. 322
 
@@ -12400,7 +12376,7 @@ Accertamento delle violazioni, termini di decadenza e rimborsi
 
 4\. Entro cinque anni dal giorno in cui e' stato effettuato il pagamento, il contribuente puo' chiedere, a pena di decadenza, la restituzione delle imposte erroneamente o indebitamente pagate.
 
-## Sezione III - Imposta sulle transazioni finanziarie (Tobin Tax)
+##### Sezione III - Imposta sulle transazioni finanziarie (Tobin Tax)
 
 ###### Art. 331
 
@@ -12410,7 +12386,7 @@ Disposizioni per l'accertamento
 
 1\. Ai fini dell'accertamento, delle sanzioni e della riscossione dell'imposta di cui agli articoli 42, 43 e 46 del testo unico dei tributi erariali minori, di cui al decreto legislativo 5 novembre 2024, n. 174, nonche' per il relativo contenzioso si applicano le disposizioni in materia di imposta sul valore aggiunto, in quanto compatibili.
 
-## Sezione IV - Degli abbonamenti alle radioaudizioni
+##### Sezione IV - Degli abbonamenti alle radioaudizioni
 
 ###### Art. 332
 
@@ -12422,7 +12398,7 @@ Competenza per l'accertamento
 
 2\. Per l'accertamento delle violazioni, per l'applicazione delle sanzioni, e per la definizione delle relative controversie si osservano le disposizioni del presente testo unico, del testo unico delle sanzioni tributarie amministrative e penali, di cui al decreto legislativo 5 novembre 2024, n. 173, e del testo unico della giustizia tributaria, di cui al decreto legislativo 14 novembre 2024, n. 175.
 
-## Sezione V - Imposta sui servizi digitali
+##### Sezione V - Imposta sui servizi digitali
 
 ###### Art. 333
 
@@ -12432,7 +12408,7 @@ Disposizioni per l'accertamento
 
 1\. Ai fini dell'accertamento, delle sanzioni e della riscossione dell'imposta sui servizi digitali, nonche' per il relativo contenzioso, si applicano le disposizioni previste in materia di imposta sul valore aggiunto, in quanto compatibili.
 
-## Sezione VI - Tasse sulle concessioni governative
+##### Sezione VI - Tasse sulle concessioni governative
 
 ###### Art. 334
 
@@ -12458,11 +12434,9 @@ Decadenze e rimborsi
 
 4\. Nonostante l'inutile decorso del termine di cui al comma 1, l'atto per il quale non sia stata corrisposta la tassa sulle concessioni governative non acquista efficacia sino a quando la tassa stessa non venga corrisposta. In tal caso non sono dovute le sanzioni per il mancato o ritardato pagamento.
 
-## Capo VI - Altre disposizioni sull'accertamento e sui controlli
+#### Capo VI - Altre disposizioni sull'accertamento e sui controlli
 
-### Sezione I
-
-#### Area fabbricabile ai fini delle imposte sui redditi, dell'imposta sul valore aggiunto, dell'imposta di registro e dell'imposta municipale unica
+##### Sezione I - Area fabbricabile ai fini delle imposte sui redditi, dell'imposta sul valore aggiunto, dell'imposta di registro e dell'imposta municipale unica
 
 ###### Art. 336
 
@@ -12472,7 +12446,7 @@ Area fabbricabile ai fini delle imposte sui redditi, dell'imposta sul valore agg
 
 1\. Ai fini dell'applicazione delle disposizioni in materia di imposta sul valore aggiunto, di imposta di registro, di imposte sui redditi, nonche' ai fini dell'articolo 1, commi da 738 a 771 e da 773 a 783, della legge 27 dicembre 2019, n. 160, e dell'articolo 363 del testo unico delle disposizioni legislative in materia di imposte sui redditi, di cui al decreto legislativo 19 giugno 2026, n. 117, un'area e' da considerare fabbricabile se utilizzabile a scopo edificatorio in base allo strumento urbanistico generale adottato dal comune, indipendentemente dall'approvazione della regione e dall'adozione di strumenti attuativi del medesimo.
 
-## Sezione II - Controlli per le imprese di rilevante dimensione
+##### Sezione II - Controlli per le imprese di rilevante dimensione
 
 ###### Art. 337
 
@@ -12504,7 +12478,7 @@ e) di gestione del contenzioso relativo a tutti gli atti di competenza delle str
 
 f) di rimborso in materia di imposte dirette, di imposta regionale sulle attivita' produttive e di imposta sul valore aggiunto.
 
-## Sezione III - Sospensioni delle comunicazioni e dei termini
+##### Sezione III - Sospensioni delle comunicazioni e dei termini
 
 ###### Art. 338 - Sospensione dell'invio di comunicazioni e inviti
 
@@ -12558,7 +12532,7 @@ Sospensione dei termini per le vittime delle richieste estorsive e dell'usura
 
 1\. A favore dei soggetti che abbiano richiesto o nel cui interesse sia stata richiesta l'elargizione prevista dagli articoli 3, 5, 6 e 8 della legge 23 febbraio 1999, n. 44, i termini di scadenza, ricadenti entro un anno dalla data dell'evento lesivo, degli adempimenti fiscali sono prorogati dalle rispettive scadenze per la durata di tre anni. Restano ferme le disposizioni di cui all'articolo 20, commi 5 e 7 della medesima legge n. 44 del 1999.
 
-## Sezione IV - Proroghe scadenze e remissione in bonis
+##### Sezione IV - Proroghe scadenze e remissione in bonis
 
 ###### Art. 343
 
@@ -12590,11 +12564,9 @@ b) presentino le domande di iscrizione e provvedano alle successive integrazioni
 
 c) versino contestualmente l'importo pari alla misura minima della sanzione stabilita dall'articolo 36, comma 1, del predetto testo unico delle sanzioni tributarie amministrative e penali, di cui al decreto legislativo n. 173 del 2024, secondo le modalita' stabilite dall'articolo 3 del citato testo unico in materia di versamenti e di riscossione, di cui al decreto legislativo n. 33 del 2025, esclusa la compensazione ivi prevista.
 
-## Capo VII - Disposizioni in materia di accertamento con adesione
+#### Capo VII - Disposizioni in materia di accertamento con adesione
 
-### Sezione I
-
-#### Accertamento con adesione
+##### Sezione I - Accertamento con adesione
 
 ###### Art. 345
 
@@ -12648,9 +12620,7 @@ Definizione degli accertamenti nelle altre imposte indirette
 
 4\. L'accertamento definito con adesione non e' soggetto a impugnazione e non e' integrabile o modificabile da parte dell'ufficio.
 
-## Sezione II - Procedimento per la definizione degli accertamenti nelle imposte sui redditi e nell'imposta sul
-
-### valore aggiunto.
+##### Sezione II - Procedimento per la definizione degli accertamenti nelle imposte sui redditi e nell'imposta sul valore aggiunto.
 
 ###### Art. 348
 
@@ -12782,7 +12752,7 @@ Soggetti aderenti al consolidato nazionale
 
 L'istanza per lo scomputo delle perdite di cui all'articolo 257, comma 3, deve essere presentata unitamente alla comunicazione di adesione di cui all'articolo 350; l'ufficio competente emette l'atto di definizione scomputando le stesse dal maggior reddito imponibile.
 
-## Sezione III - Procedimento per la definizione di altre imposte indirette
+##### Sezione III - Procedimento per la definizione di altre imposte indirette
 
 ###### Art. 356
 
@@ -12840,7 +12810,7 @@ Atto di accertamento con adesione, adempimenti successivi e definizione
 
 1\. La definizione si perfeziona secondo quanto previsto dagli articoli 352, 353 e 354. Il versamento delle somme dovute per effetto dell'adesione e' effettuato presso l'ufficio dell'Agenzia delle entrate.
 
-## Sezione IV - Disposizioni finali
+##### Sezione IV - Disposizioni finali
 
 ###### Art. 360
 
@@ -12882,9 +12852,7 @@ Delegificazione
 
 ## PARTE III - Disposizioni transitorie e finali
 
-### TITOLO I
-
-#### Disposizioni transitorie e finali
+### TITOLO I - Disposizioni transitorie e finali
 
 ###### Art. 364
 

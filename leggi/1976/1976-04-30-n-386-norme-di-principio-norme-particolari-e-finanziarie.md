@@ -28,7 +28,7 @@ la seguente legge:
 
 ## TITOLO I - NORME DI PRINCIPIO
 
-##### Art. 1
+#### Art. 1
 
 Le leggi regionali istitutive degli enti di sviluppo agricolo, quali enti regionali di diritto pubblico, sono emanate nei limiti dei principi fondamentali stabiliti dalla presente legge.
 
@@ -36,7 +36,7 @@ Le regioni alle quali, ai sensi dell'articolo 2 del decreto del Presidente della
 
 Le regioni a statuto speciale e le province autonome di Trento e Bolzano provvedono secondo la competenza loro attribuita dai rispettivi statuti speciali.
 
-##### Art. 2
+#### Art. 2
 
 Gli enti di sviluppo svolgono le attivita' agricole stabilite dalle regioni e, nel quadro della programmazione regionale, eseguono piani e programmi di interesse agricolo approvati dalla regione; i piani possono riguardare l'intero territorio regionale ovvero singole zone o singoli settori.
 
@@ -46,7 +46,7 @@ Gli enti di sviluppo prestano, su richiesta, consulenza ed assistenza in materia
 
 Le regioni coordinano le attivita' affidate agli enti di sviluppo agricolo con quelle delegate a province, comuni e loro consorzi e con i programmi delle comunita' montane sulla base del programma regionale di sviluppo e di piani zonali.
 
-##### Art. 3
+#### Art. 3
 
 Le funzioni attribuite dalle regioni agli enti di sviluppo sono rivolte fondamentalmente:
 
@@ -66,13 +66,13 @@ In ogni caso, la gestione deve essere affidata o riaffidata ai produttori intere
 
 Le gestioni dirette di impianti collettivi da parte degli enti di sviluppo sono considerate imprese agricole a tutti gli effetti.
 
-##### Art. 4
+#### Art. 4
 
 La legge regionale disciplina la nomina del presidente e la composizione e la nomina di un consiglio di non oltre 26 membri, assicurando che una meta' dei posti sia riservata a membri designati dalle organizzazioni professionali e sindacali agricole maggiormente rappresentative a livello nazionale ed in proporzione dell'effettiva rappresentativita' regionale di ciascuna di esse e da un rappresentante del personale; e che l'altra meta' sia eletta dal consiglio regionale con voto limitato a due terzi.
 
 La legge regionale disciplina, altresi', la composizione del collegio dei revisori dei conti, con la partecipazione di membri designati dal Ministero del tesoro e dal Ministero dell'agricoltura e delle foreste.
 
-##### Art. 5
+#### Art. 5
 
 La legge regionale disciplina in particolare:
 
@@ -88,11 +88,9 @@ e) il trattamento giuridico ed economico del personale degli enti di sviluppo, a
 
 ## TITOLO II - NORME TRANSITORIE E PARTICOLARI
 
-### Capo I
+### Capo I - NORME TRANSITORIE
 
-#### NORME TRANSITORIE
-
-##### Art. 6
+#### Art. 6
 
 Le funzioni amministrative esercitate dagli organi dello Stato, ivi comprese quelle di vigilanza e tutela, in ordine all'ente Delta padano, ente di sviluppo, all'ente Maremma, ente di sviluppo in Toscana e Lazio, all'ente di sviluppo in Puglia e Lucania, sono trasferite alle regioni competenti per territorio, con le modalita' di cui al presente articolo.
 
@@ -104,7 +102,7 @@ Le funzioni di sviluppo attribuite all'Opera nazionale combattenti e all'Ente na
 
 Resta salva la disposizione di cui all'articolo 35 della legge 20 marzo 1975, n. 70.
 
-##### Art. 7
+#### Art. 7
 
 Il personale degli enti di sviluppo, compreso quello comandato che, successivamente agli adempimenti di cui al precedente articolo 6 e al riordino dei servizi, sotto l'aspetto organico e funzionale, ai sensi del precedente articolo 5, lettera d), risulti in soprannumero e non sia assegnato alle gestioni speciali di cui al primo comma dell'articolo 9 successivo, ovvero alla amministrazione regionale, ovvero ad altri enti regionali, ((ovvero agli enti locali territoriali o loro consorzi)) , puo' essere collocato nei ruoli unici di cui all'articolo 6, lettera b), della legge 22 luglio 1975, n. 382, sentite le organizzazioni sindacali.
 
@@ -112,7 +110,7 @@ Sia per il personale trasferito allo Stato, sia per quello trasferito alle regio
 
 ((Il personale trasferito ai sensi dei precedenti commi conservi il trattamento di quiescenza e previdenza in godimento al momento del trasferimento medesimo)).
 
-##### Art. 8
+#### Art. 8
 
 Il personale di ruolo degli enti di sviluppo in servizio presso il Ministero dell'agricoltura e delle foreste ed assegnato all'amministrazione statale ai sensi del precedente articolo 7 puo' continuare ad essere utilizzato dallo stesso Ministero nel limite massimo di 128 unita'. Fino a quando non sara' istituito il ruolo unico di cui all'articolo 6 della legge 22 luglio 1975, n. 382, il personale predetto e' posto in posizione di comando con decreto del Ministro per l'agricoltura e le foreste di concerto con il Ministro per il tesoro sentito l'ente di appartenenza.
 
@@ -120,9 +118,9 @@ Il personale dipendente dall'AIOC (Associazione interprovinciale organismi coope
 
 L'inquadramento del personale di cui al precedente comma sara' effettuato previa valutazione dei titoli ed il superamento di un esame colloquio su materie previste da apposita delibera adottata dall'ente e approvata dalla regione competente.
 
-## Capo II - NORME PARTICOLARI
+### Capo II - NORME PARTICOLARI
 
-##### Art. 9
+#### Art. 9
 
 I compiti ad esaurimento relativi alla conservazione e gestione dei terreni e delle opere di riforma fondiaria e, in attesa di diversa attribuzione, i compiti affidati agli enti di sviluppo agricolo non rientranti in quelli indicati nei precedenti articoli 2 e 3, sono espletati attraverso gestioni speciali con bilancio separato annesso al bilancio dell'ente regionale.
 
@@ -134,7 +132,7 @@ Le annualita' del prezzo di assegnazione di terreni di riforma fondiaria, in sca
 
 L'articolo 7 della legge 14 luglio 1965, n. 901, e' abrogato.
 
-##### Art. 10
+#### Art. 10
 
 Il riservato dominio a favore dell'ente di sviluppo sui terreni assegnati ai sensi dell'articolo 17 della legge 12 maggio 1950, n. 230, permane fino al pagamento della quindicesima annualita' del prezzo di assegnazione. Le successive annualita' dovute dall'assegnatario, in base al piano di ammortamento del prezzo, costituiscono oneri reali sul fondo assegnato e sono esigibili con le norme ed i privilegi stabiliti per le imposte dirette.
 
@@ -148,7 +146,7 @@ I fondi espropriati ed assegnati ai sensi delle leggi 12 maggio 1950, n. 230 e 2
 
 La vendita deve essere effettuata alle condizioni ed al prezzo, previsti dall'articolo 4 della legge 29 maggio 1967, n. 379.
 
-##### Art. 11
+#### Art. 11
 
 Le cessioni a cooperative agricole e loro consorzi di terreni destinati a sede di impianti collettivi, degli impianti stessi e loro pertinenze sono considerate, a tutti gli effetti, attivita' per la formazione di imprese agricole diretto-coltivatrici. Il prezzo di cessione e' pari al costo di acquisto e costruzione al netto di ogni contributo, in conto capitale o in conto interessi, e con dilazione del pagamento in rate poliennali, fino ad un massimo di 20 annualita'.
 
@@ -158,19 +156,19 @@ Le somme ricavate dalle vendite sono reimpiegate dagli enti di sviluppo per lo s
 
 I terreni e le opere di proprieta' degli enti di sviluppo destinati e destinabili ad uso di pubblico generale interesse, o a fini di assistenza, di educazione, di culto, possono essere trasferiti gratuitamente, previa approvazione della regione, in proprieta' delle amministrazioni pubbliche o degli enti interessati.
 
-##### Art. 12
+#### Art. 12
 
 Gli enti regionali di sviluppo agricolo possono fare ricorso al credito agrario. Le operazioni di credito agrario di miglioramento a favore degli enti di sviluppo sono assistite dalla garanzia del fondo interbancario istituito con l'articolo 36 della legge 2 giugno 1961, n. 454, e successive modificazioni e integrazioni.
 
 ## TITOLO III - NORME FINANZIARIE
 
-##### Art. 13
+#### Art. 13
 
 E' autorizzata la spesa di L. 14.400.000.000 - da iscriversi nello stato di previsione del Ministero dell'agricoltura e delle foreste - per la concessione a favore dell'ente di sviluppo nelle Marche, dell'ente di sviluppo nell'Umbria, dell'ente Fucino, ente di sviluppo in Abruzzo, dell'ente di sviluppo in Campania, dell'ente di sviluppo per il Molise, dell'Opera Sila, ente di sviluppo in Calabria, di contributi a completamento dei fabbisogni a tutto il 31 marzo 1972.
 
 Sulla somma predetta grava l'assegnazione di lire 360 milioni all'ente di sviluppo per il Molise per la costituzione del patrimonio di fondazione.
 
-##### Art. 14
+#### Art. 14
 
 Per fronteggiare i fabbisogni fino al 31 dicembre 1975 degli enti interregionali: ente Delta padano, ente di sviluppo, ente Maremma, ente di sviluppo in Toscana e Lazio, ente di sviluppo in Puglia e Lucania ed ETFAS, ente di sviluppo in Sardegna, e' autorizzata la spesa complessiva di L. 84.270.500.000. Inoltre, per fronteggiare ulteriori fabbisogni fino a tutto il 31 dicembre 1975, il Ministero dell'agricoltura e delle foreste e il Ministero del tesoro possono autorizzare gli enti suddetti a contrarre mutui fissandone il relativo importo nel limite complessivo di L. 95.000.000.000.
 
@@ -182,17 +180,17 @@ L'ammortamento dei mutui sara' effettuato in un periodo da stabilirsi dal Minist
 
 E' fatto obbligo agli enti di destinare le somme assegnate e i ricavi dei mutui autorizzati esclusivamente a copertura dei disavanzi accertati.
 
-##### Art. 15
+#### Art. 15
 
 E' autorizzata la spesa di L. 15.981.300.000 - da iscrivere nello stato di previsione del Ministero dell'agricoltura e delle foreste - per la concessione, a favore dell'Opera nazionale combattenti, dell'ente per lo sviluppo dell'irrigazione in Puglia, Lucania e Irpinia, dell'ente autonomo per la bonifica, l'irrigazione e la valorizzazione fondiaria nelle province di Arezzo, Perugia, Siena e Terni e dell'ente per le Tre Venezie, di contributi a tutto l'anno 1975 per attivita' di sviluppo agricolo da essi svolta.
 
 La somma anzidetta e quella di cui ai precedenti articoli 13 e 14, primo comma, sono erogate con le modalita' e nei limiti di cui al secondo comma dell'articolo 6 della legge 14 luglio 1965, n. 901.
 
-##### Art. 16
+#### Art. 16
 
 E' autorizzata la spesa di lire 2 miliardi - da iscrivere nello stato di previsione del Ministero dell'agricoltura e delle foreste - per le finalita' di cui al terzo comma dell'articolo 6 della legge 14 luglio 1965, n. 901.
 
-##### Art. 17
+#### Art. 17
 
 All'onere di complessive L. 116.651.800.000 derivante dall'attuazione dei precedenti articoli 13, 14, 15 e 16 si provvede, quanto a L. 15.190.000.000, a L. 34.961.800.000 e a L. 32.300.000.000 a carico dei fondi iscritti al capitolo 5381 degli stati di previsione della spesa del Ministero del tesoro, rispettivamente, per gli anni 1972, 1973 e 1974, intendendosi a tal uopo prorogato il termine previsto, per l'utilizzo di dette disponibilita', dalla legge 27 febbraio 1955, n. 64, e quanto a L. ((34.200.000.000)) a carico del fondo iscritto al capitolo 9001 dello stato di previsione della spesa del predetto Ministero per l'anno 1975.
 
@@ -200,7 +198,7 @@ All'onere relativo all'ammortamento dei mutui di cui al precedente articolo 14, 
 
 Il Ministro per il tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 18
+#### Art. 18
 
 E' autorizzata la spesa di lire 65 miliardi da iscrivere nello stato di previsione della spesa del Ministero dell'agricoltura e delle foreste, quale contributo dello Stato per l'anno 1976, nella spesa di funzionamento degli enti indicati nel primo comma del precedente articolo 14 e dell'Ente nazionale per le Tre Venezie.
 
@@ -210,13 +208,13 @@ Il predetto importo sara' ripartito tra le regioni e le province autonome di Tre
 
 A partire dall'anno 1976 e fino a quando non venga diversamente disposto con i provvedimenti da emanare ai sensi della legge 20 marzo 1975, n. 70, e della legge 22 luglio 1975, n. 382, e' autorizzata la concessione di contributi in favore dell'Opera nazionale combattenti, dell'ente per lo sviluppo dell'irrigazione in Puglia, Lucania ed Irpinia e dell'ente autonomo per la bonifica, l'irrigazione e la valorizzazione fondiaria nelle province di Arezzo, Perugia, Siena e Terni, nella misura annua di lire 3 miliardi.
 
-##### Art. 19
+#### Art. 19
 
 All'onere complessivo di lire 69 miliardi, derivante per l'anno finanziario 1976 dall'attuazione del precedente articolo 18, nonche' degli articoli 8 e 9, si provvede mediante riduzione del fondo iscritto al capitolo 9001 dello stato di previsione della spesa del Ministero del tesoro per l'anno finanziario medesimo.
 
 Il Ministro per il tesoro e' autorizzato ad apportare, con propri decreti, le variazioni di bilancio occorrenti per l'attuazione della presente legge.
 
-##### Art. 20
+#### Art. 20
 
 Restano validi gli atti compiuti ed i provvedimenti adottati in applicazione del decreto-legge 9 luglio 1974, n. 266, non convertito nei termini, ed hanno efficacia i rapporti giuridici sorti in base al decreto medesimo.
 

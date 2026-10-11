@@ -46,11 +46,9 @@ il seguente decreto legislativo:
 
 ((ARTICOLO ABROGATO DALLA L. 18 GIUGNO 2009, N. 69))
 
-## Titolo II - DEL PROCESSO DI COGNIZIONE
+## Titolo II - DEL PROCESSO DI COGNIZIONE DAVANTI AL TRIBUNALE
 
-### DAVANTI AL TRIBUNALE - Capo I
-
-#### del procedimento di primo grado - davanti al tribunale in composizione collegiale
+### Capo I - del procedimento di primo grado davanti al tribunale in composizione collegiale
 
 ##### Art. 2
 
@@ -116,21 +114,19 @@ il seguente decreto legislativo:
 
 ((ARTICOLO ABROGATO DALLA L. 18 GIUGNO 2009, N. 69))
 
-## Capo II - del procedimento di primo grado davanti
-
-### al tribunale in composizione monocratica
+### Capo II - del procedimento di primo grado davanti al tribunale in composizione monocratica
 
 ##### Art. 18
 
 ((ARTICOLO ABROGATO DALLA L. 18 GIUGNO 2009, N. 69))
 
-## Capo III - del procedimento sommario di cognizione
+### Capo III - del procedimento sommario di cognizione
 
 ##### Art. 19
 
 ((ARTICOLO ABROGATO DALLA L. 18 GIUGNO 2009, N. 69))
 
-## Capo IV - del procedimento in grado di appello
+### Capo IV - del procedimento in grado di appello
 
 ##### Art. 20
 
@@ -170,9 +166,9 @@ il seguente decreto legislativo:
 
 ((ARTICOLO ABROGATO DALLA L. 18 GIUGNO 2009, N. 69))
 
-## Capo II - del procedimento
+### Capo II - del procedimento
 
-### Sezione I - Del procedimento in confronto di una parte sola
+#### Sezione I - Del procedimento in confronto di una parte sola
 
 ##### Art. 28
 
@@ -182,7 +178,7 @@ il seguente decreto legislativo:
 
 ((ARTICOLO ABROGATO DALLA L. 18 GIUGNO 2009, N. 69))
 
-## Sezione II - Del procedimento in confronto di piu' parti
+#### Sezione II - Del procedimento in confronto di piu' parti
 
 ##### Art. 30
 

@@ -27,11 +27,9 @@ PROMULGA
 
 la seguente legge:
 
-## Titolo I - ATTUAZIONE DEL TERZO PIANO NAZIONALE DELLA PESCA MARITTIMA E MISURE
+## Titolo I - ATTUAZIONE DEL TERZO PIANO NAZIONALE DELLA PESCA MARITTIMA E MISURE IN MATERIA DI CREDITO PESCHERECCIO.
 
-### IN MATERIA DI CREDITO PESCHERECCIO.
-
-#### Art. 1
+### Art. 1
 
 1\. Per l'attuazione del terzo piano nazionale della pesca marittima, adottato ai sensi dell'articolo 1 della legge 17 febbraio 1982, n. 41, con decreto del Ministro della marina mercantile 15 gennaio 1991, pubblicato sul supplemento ordinario n. 12 alla Gazzetta Ufficiale n. 40 del 16 febbraio 1991, e' autorizzata la complessiva spesa di lire 287.000 milioni per il triennio 1991-1993, in ragione di lire 89.000 milioni per l'anno 1991 e di lire 99.000 milioni per ciascuno degli anni 1992 e 1993.
 
@@ -99,7 +97,7 @@ la seguente legge:
 
 > \- L'art. 15, comma 32, della legge n. 67/1988 (Legge finanziaria 1988) cosi' recita: "32. Per le finalita' di cui alla legge 17 febbraio 1982, n. 41, concernente il pi- ano per la razionalizzazione e lo sviluppo della pesca marittima, e' autorizzata l'ulteriore complessiva spesa di lire 120 miliardi, in ragione di lire 10 miliardi per l'anno 1988, di lire 40 miliardi per l'anno 1989 e di lire 70 miliardi per l'anno 1990. Tali somme sono annualmente ripartite fra i vari interventi secondo un piano triennale da approvarsi dal Comitato interministeriale per la programmazione economica (CIPE)".
 
-#### Art. 2
+### Art. 2
 
 1\. A decorrere dall'anno 1994, per l'attuazione del piano nazionale di cui all'articolo 1 e della legge 28 agosto 1989, n. 302, si provvede ai sensi dell'articolo 11, comma 3, lettera d), della legge 5 agosto 1978, n. 468, come sostituito dall'articolo 5 della legge 23 agosto 1988, n. 362.
 
@@ -115,11 +113,9 @@ la seguente legge:
 
 > d) la determinazione, in apposita tabella, della quota da iscrivere nel bilancio di ciascuno degli anni considerati dal bilancio pluriennale per le leggi di spesa permanente la cui quantificazione e' rinviata alla legge finanziaria".
 
-## Titolo II - RICONVERSIONE DELLE UNITA' ADIBITE ALLA PESCA
+## Titolo II - RICONVERSIONE DELLE UNITA' ADIBITE ALLA PESCA CON RETI DA POSTA DERIVANTE
 
-### CON RETI DA POSTA DERIVANTE
-
-#### Art. 3
+### Art. 3
 
 1\. Al fine di agevolare la riconversione delle unita' adibite alla pesca con reti da posta derivante, e' concesso, per l'anno 1991, ai titolari di licenze di pesca di cui all'articolo 4 della legge 17 febbraio 1982, n. 41, obbligati a sospendere l'attivita' di pesca con l'attrezzo denominato rete da posta derivante, un contributo a fondo perduto fino al 70 per cento della spesa documentata e riconosciuta per l'acquisto di nuove attrezzature da pesca, con esclusione delle reti a strascico e degli apparecchi turbosoffianti. Le relative istanze dovranno essere presentate entro il 30 settembre 1991.
 
@@ -149,7 +145,7 @@ la seguente legge:
 
 > d) adotta le eventuali misure di riduzione del numero delle licenze oppure di modifica delle zone di pesca, delle specie o delle attrezzature consentite".
 
-#### Art. 4
+### Art. 4
 
 1\. All'onere derivante dall'attuazione dell'articolo 3, valutato in lire 15.000 milioni per l'anno 1991, si provvede, quanto a lire 10.000 milioni, mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1991-1993, al capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1991, all'uopo utilizzando l'accantonamento "Pesca marittima, ivi comprese le provvidenze per il fermo biologico della pesca" e quanto a lire 5.000 milioni, mediante riduzione dell'autorizzazione di spesa recata dall'articolo 15, comma 32, della legge 11 marzo 1988, n. 67 (legge finanziaria 1988), come rimodulata dalla legge 27 dicembre 1989, n. 407 (legge finanziaria 1990), parzialmente utilizzando, quanto a lire 1.500 milioni, gli stanziamenti relativi al capitolo 8559 e, quanto a lire 3.500 milioni gli stanziamenti relativi al capitolo 8560 dello stato di previsione del Ministero della marina mercantile per l'anno finanziario 1991.
 

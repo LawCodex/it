@@ -30,11 +30,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I - DISPOSIZIONI GENERALI
+## Capo I - DISPOSIZIONI GENERALI SUI PROCEDIMENTI PER L'ADEMPIMENTO DEGLI OBBLIGHI COMUNITARI
 
-### SUI PROCEDIMENTI PER L'ADEMPIMENTO DEGLI OBBLIGHI COMUNITARI
-
-#### Art. 1 - Delega al Governo per l'attuazione di direttive comunitarie
+### Art. 1 - Delega al Governo per l'attuazione di direttive comunitarie
 
 1\. Il Governo e' delegato ad emanare, entro il termine di un anno dalla data di entrata in vigore della presente legge, decreti legislativi recanti le norme occorrenti per dare attuazione alle direttive comprese negli elenchi di cui agli allegati A e B.
 
@@ -64,7 +62,7 @@ Qualora il termine previsto per il parere delle Commissioni scada nei trenta gio
 
 > 4\. In ogni caso, qualora il termine per l'esercizio della delega ecceda i due anni, il Governo e' tenuto a richiedere il parere delle Camere sugli schemi dei decreti delegati. Il parere e' espresso dalle Commissioni permanenti delle due Camere competenti per materia entro sessanta giorni, indicando specificamente le eventuali disposizioni non ritenute corrispondenti alle direttive della legge di delegazione. Il Governo, nei trenta giorni successivi, esaminato il parere, ritrasmette con le sue osservazioni e con eventuali modificazioni, i testi alle Commissioni per il parere definitivo che deve essere espresso entro trenta giorni".
 
-#### Art. 2
+### Art. 2
 
 (Criteri e principi direttivi generali
 
@@ -222,7 +220,7 @@ h) nelle materie di competenza delle regioni a statuto ordinario e speciale e de
 
 > 2\. Le norme di questo capo non si applicano ai procedimenti in corso alla data di entrata in vigore del presente decreto".
 
-#### Art. 3
+### Art. 3
 
 (Attuazione di direttive comunitarie
 
@@ -244,7 +242,7 @@ con regolamento autorizzato).
 
 > "Art. 5 (Attuazioni modificative). - 1. Fermo quanto previsto dall'art. 20 della legge 16 aprile 1987, n. 183, la legge comunitaria puo' disporre che, all'attuazione di ciascuna modifica delle direttive da attuare mediante regolamento a norma dell'art. 4, si provveda con la procedura di cui ai commi 4 e 5 del medesimo articolo".
 
-#### Art. 4
+### Art. 4
 
 (Attuazione di direttive comunitarie in via
 
@@ -268,11 +266,11 @@ regolamentare o amministrativa).
 
 > 2\. I Ministri interessati danno immediata comunicazione dei provvedimenti adottati ai sensi del comma 1 al Ministro per il coordinamento delle politiche comunitarie, al Ministro degli affari esteri ed al Parlamento".
 
-#### Art. 5 - Oneri relativi a prestazioni e controlli
+### Art. 5 - Oneri relativi a prestazioni e controlli
 
 1\. Nell'attuazione delle normative comunitarie, gli oneri di prestazioni e controlli da eseguire da parte di uffici pubblici in applicazione delle normative medesime sono posti a carico dei soggetti interessati, ove cio' non risulti in contrasto con la disciplina comunitaria.
 
-#### Art. 6
+### Art. 6
 
 (Delega al Governo per la disciplina
 
@@ -288,7 +286,7 @@ di disposizioni comunitarie).
 
 > \- Per quanto concerne l'art. 14 della legge 23 agosto, n. 400, vedi nelle note all'art. 1.
 
-#### Art. 7
+### Art. 7
 
 (Riordinamento normativo nelle materie interessate
 
@@ -296,7 +294,7 @@ dalle direttive comunitarie).
 
 1\. Il Governo e' autorizzato ad emanare, con le modalita' di cui ai commi 2 e 3 dell'articolo 1, entro due anni dalla data di entrata in vigore della presente legge, testi unici compilativi delle disposizioni dettate in attuazione delle deleghe conferite con la presente legge per il recepimento di direttive comunitarie, coordinando le norme legislative vigenti nelle stesse materie ed apportandovi le integrazioni e modificazioni necessarie al predetto coordinamento.
 
-#### Art. 8
+### Art. 8
 
 (Ulteriore semplificazione degli adempimenti per i voli
 
@@ -334,7 +332,7 @@ all'interno dell'Unione europea).
 
 > 1-bis. La disposizione del comma 1 si applica anche per i voli aventi come destinazione, senza scalo intermedio, uno Stato che applichi l'Accordo di Schengen, ratificato ai sensi della legge 30 settembre 1993, n. 388, a condizione di reciprocita' e purche' non vi ostino gli Stati il cui spazio aereo venga attraversato".
 
-#### Art. 9
+### Art. 9
 
 (Disposizioni in materia di marcatura CEE e modifiche
 
@@ -370,7 +368,7 @@ all'articolo 47 della legge 6 febbraio 1996, n. 52)
 
 > 6\. I decreti di cui al comma 4 sono emanati entro sessanta giorni dalla data di entrata in vigore dei provvedimenti di recepimento delle direttive che prevedono l'apposizione della marcatura CE; trascorso tale termine, si provvede con decreto del Presidente del Consiglio dei Ministri, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica; le amministrazioni inadempienti sono tenute a fornire i dati di rispettiva competenza".
 
-#### Art. 10 - Modifiche della legge 9 marzo 1989, n. 86
+### Art. 10 - Modifiche della legge 9 marzo 1989, n. 86
 
 1\. All'articolo 2 della legge 9 marzo 1989, n. 86, come modificato dalla legge 24 aprile 1998, n. 128, il comma 3 e' sostituito dal seguente:
 
@@ -410,7 +408,7 @@ c) l'attuazione in Italia delle politiche di coesione economica e sociale e l'an
 
 > c) si da' partitamente conto delle ragioni dell'eventuale omesso inserimento delle direttive il cui termine di recepimento e' gia' scaduto e di quelle il cui termine di recepimento scade nel periodo di riferimento, in relazione ai tempi previsti per l'esercizio della delega legislativa".
 
-#### Art. 11
+### Art. 11
 
 (Integrazione dell'articolo 17
 
@@ -426,7 +424,7 @@ della legge 23 agosto 1988, n. 400).
 
 > a) l'esecuzione delle leggi e dei decreti legislativi nonche' dei regolamenti comunitari".
 
-#### Art. 12
+### Art. 12
 
 (Integrazioni al decreto legislativo
 
@@ -452,7 +450,7 @@ della legge 23 agosto 1988, n. 400).
 
 > presentato al Parlamento anche in mancanza di tale parere".
 
-#### Art. 13 - Abrogazioni
+### Art. 13 - Abrogazioni
 
 1\. Sono abrogati l'articolo 2, secondo comma, della legge 13 luglio 1965, n. 871, nonche' l'articolo 4, comma 8, e l'articolo 8 della legge 9 marzo 1989, n. 86.
 
@@ -486,11 +484,9 @@ della legge 23 agosto 1988, n. 400).
 
 > \- Per quanto riguarda la legge 9 marzo 1989, n. 86, vedi nelle note all'art. 2.
 
-## Capo II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO,
+## Capo II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO, CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### CRITERI SPECIALI DI DELEGA LEGISLATIVA
-
-#### Art. 14
+### Art. 14
 
 (Integrazione dell'articolo 5 del decreto legislativo
 
@@ -504,7 +500,7 @@ della legge 23 agosto 1988, n. 400).
 
 > "4. In caso di trattamento di materiale a basso rischio in una fabbrica di alimenti per animali familiari o di prodotti farmaceutici o tecnici la competente autorita' sanitaria locale puo' imporre che la spedizione, il magazzinaggio e il trattamento di tale materiale abbiano luogo in uno spazio e in condizioni ad esso idonee. In particolare puo' imporre che il sangue venga mantenuto in contenitori adeguatamente refrigerati".
 
-#### Art. 15
+### Art. 15
 
 (Modifica dell'articolo 3 del decreto
 
@@ -530,7 +526,7 @@ legislativo 17 marzo 1995, n. 194).
 
 > d) siano trasportati per il percorso meno urbanizzato piu' breve, nel rispetto delle cautele prescritte in relazione alla natura del prodotto accompagnati dalla documentazione prevista dalle norme vigenti e nel rispetto delle disposizioni vigenti in materia di sicurezza e di controllo".
 
-#### Art. 16
+### Art. 16
 
 (Modifiche all'articolo 40 della legge
 
@@ -590,7 +586,7 @@ c) al comma 8 e' aggiunto, in fine, il seguente periodo: "Tale regime non si app
 
 > 9\. Il Governo esercita, ai sensi dell'art. 11 della legge 9 marzo 1989, n. 86, il potere sostitutivo in caso di inadempienza delle regioni o province autonome nell'adozione dei provvedimenti amministrativi relativi all'attuazione dei regolamenti suddetti".
 
-#### Art. 17 - Lavoro notturno
+### Art. 17 - Lavoro notturno
 
 1\. Al fine di adeguare l'ordinamento nazionale alla sentenza della Corte di giustizia delle Comunita' europee 4 dicembre 1997, l'articolo 5 della legge 9 dicembre 1977, n. 903, e' sostituito dal seguente:
 
@@ -622,7 +618,7 @@ g) garantire l'informazione sui servizi per la prevenzione e la sicurezza, nonch
 
 3\. Lo schema o gli schemi di decreto legislativo di cui al comma 2 sono trasmessi alle competenti Commissioni parlamentari che esprimono il parere entro trenta giorni.
 
-#### Art. 18
+### Art. 18
 
 (Interoperabilita' del sistema ferroviario transeuropeo
 
@@ -638,7 +634,7 @@ c) prevedere che nei documenti generali o nei capitolati di oneri propri di ogni
 
 d) prevedere che possano essere autorizzati ad espletare le procedure di valutazione della conformita' e dell'idoneita' all'impiego dei componenti di interoperabilita', o la procedura di verifica "CE" dei sottosistemi, uno o piu' organismi, aventi almeno i requisiti minimi previsti dall'allegato VII della direttiva 96/48/CE.
 
-#### Art. 19
+### Art. 19
 
 (Protezione sanitaria della popolazione e dei
 
@@ -654,7 +650,7 @@ c) indicare le pratiche non soggette ad autorizzazione previste dall'articolo 4,
 
 d) fissare i livelli di eliminazione per lo smaltimento, il riciclo o la riutilizzazione ai fini della deroga di cui all'articolo 5, paragrafo 2, della direttiva 96/29/EURATOM.
 
-#### Art. 20
+### Art. 20
 
 (Etichettatura dei prodotti alimentari:
 
@@ -684,11 +680,9 @@ D'Alema, Presidente del Consiglio dei Ministri
 
 Visto, il Guardasigilli: Diliberto
 
-## Capo II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO,
+## Capo II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO, CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### CRITERI SPECIALI DI DELEGA LEGISLATIVA
-
-#### Allegato A
+### Allegato A
 
 Allegato A
 
@@ -876,7 +870,7 @@ Allegato A
 
 > \- La direttiva 98/60/CE e' pubblicata in G.U.C.E. L. 209 del 25 luglio 1998.
 
-#### Allegato B
+### Allegato B
 
 Allegato B
 
@@ -1032,7 +1026,7 @@ Allegato B
 
 > \- La direttiva 98/60/CE e' pubblicata in G.U.C.E. L. 209 del 25 luglio 1998.
 
-#### Allegato C
+### Allegato C
 
 Allegato C
 
@@ -1186,7 +1180,7 @@ Allegato C
 
 > \- La direttiva 98/60/CE e' pubblicata in G.U.C.E. L. 209 del 25 luglio 1998.
 
-#### Allegato D
+### Allegato D
 
 Allegato D
 

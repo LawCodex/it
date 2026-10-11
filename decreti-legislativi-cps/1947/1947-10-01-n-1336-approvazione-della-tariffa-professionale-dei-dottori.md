@@ -32,7 +32,7 @@ Sulla proposta del Ministro Segretario di Stato per la grazia e giustizia, di co
 
 HA SANZIONATO E PROMULGA:
 
-###### Articolo unico
+#### Articolo unico
 
 E' approvata l'unita tariffa per le prestazioni professionali dei dottori agronomi, vistata dal Ministro per la grazia e giustizia.
 
@@ -52,19 +52,13 @@ Registrato alla Corte dei conti, addi' 21 novembre 1947
 
 Atti del Governo, registro n. 14, foglio n. 108. - FRASCA
 
-## PARTE I - Competenze
+## PARTE I - Competenze PRIMA CATEGORIA Competenze valutate in relazione al tempo impiegato. GENERALITA'
 
-### PRIMA CATEGORIA
-
-#### Competenze valutate in relazione al tempo impiegato.
-
-##### GENERALITA'
-
-###### Art. 1
+#### Art. 1
 
 In questa categoria vengono fissati gli onorari, la cui valutazione si riferisce al tempo impiegato nella esecuzione dei lavori coi quali gli onorari stessi hanno rapporto, salvo eventualmente quanto previsto nella seguente quarta categoria per quelle operazioni che richiedono dal dottore agronomo attitudini e cognizioni specifiche o rivestano carattere di particolare importanza.
 
-###### Art. 2
+#### Art. 2
 
 Sono computate in ragione del tempo impiegato, le competenze per:
 
@@ -106,65 +100,65 @@ s) esame, assistenza nelle pratiche riguardanti gravami fiscali, tasse, contribu
 
 t) i lavori in generale che non trovano altro elemento di valutazione che il tempo e che percio' non si possono assegnare alle categorie che seguono.
 
-###### Art. 3
+#### Art. 3
 
 Per le operazioni di questa categoria, spetta al dottore agronomo la competenza di L. 150 per ogni vacazione di un'ora, con un massimo di otto vacazioni giornaliere per lavori eseguiti in residenza e di dodici vacazioni per lavori eseguiti in campagna. La prima vacazione e' fissata in L. 200 per lavori in studio e L. 250 in campagna.
 
 In caso di particolare disagio, il compenso puo' essere aumentato fino ad un massimo del 40 per cento.
 
-###### Art. 4
+#### Art. 4
 
 Nel computo delle vacazioni si deve tener calcolo anche del tempo per trasferirsi in luogo e di quello per il ritorno in residenza, nonche' di quello perduto per cause indipendenti dal dottore agronomo incaricato.
 
-###### Art. 5
+#### Art. 5
 
 Al dottore agronomo spetta un compenso di L. 300 anche se l'incarico puo' essere espletato in tempo inferiore alle due ore.
 
 Trattandosi pero' di semplice consulto verbale, o di breve conferenza nel proprio studio, su argomenti di limitata importanza, tale compenso minimo puo' essere ridotto a L. 150.
 
-###### Art. 6
+#### Art. 6
 
 Le vacazioni incominciate si calcolano per intero.
 
-## SEZIONE I - Consegne, riconsegne e bilanci di beni rustici.
+### SEZIONE I - Consegne, riconsegne e bilanci di beni rustici.
 
-###### Art. 7
+#### Art. 7
 
 Le competenze spettanti al dottore agronomo per la consegna e riconsegna dei beni rustici, sono calcolate a tempo o, in casi eccezionali, a discrezione, quando la superficie dell'azienda non superi i 20 ettari, o quando si tratti di terreni a colture ortive intensamente frazionate, di parchi o giardini, od Infine quando trattasi di fabbricati adibiti ad industrie agrarie (caseifici, stabilimenti enologici, oleifici, ecc.), od alla manipolazione dei prodotti del suolo.
 
-###### Art. 8
+#### Art. 8
 
 Per gli inventari di consegna di aziende agrarie a coltura promiscua con arboreti, fabbricati rurali e manufatti, chiusure, vivai, ecc., le competenze spettanti al dottore agronomo saranno determinate a vacazioni.
 
-###### Art. 9
+#### Art. 9
 
 Negli onorari di cui agli articoli 7 e 8 s'intende compreso l'obbligo della redazione del verbale di consistenza, sia dei terreni che delle piantagioni e dei fabbricati, come l'obbligo della formazione di una planimetria puramente indicativa del fondo.
 
-###### Art. 10
+#### Art. 10
 
 Qualora il committente intenda che la planimetria venga ad assumere la forma di una vera e propria pianta del fondo, con divisione misurata degli appezzamenti, dei fabbricati, ecc., il tecnico applichera', per tale esclusiva esecuzione, le competenze previste per i lavori topografici.
 
-###### Art. 11
+#### Art. 11
 
 Le riconsegne per lo scadere di un contratto di affitto o di un'amministrazione di beni rustici e le riconsegne per il rinnovarsi di simili contratti (quando gia' esistono le precedenti consegne con piante dimostrative) sono pure compensate per il tempo impiegato.
 
 Quando pero' si tratta della scadenza di un contratto di locazione, il tecnico dovra' compilare anche i progetti riassuntivi con tutti i titoli di debito e credito; in questo caso spettera' al tecnico, in piu' degli onorari sopraddetti, un compenso del 3% sul cumulo dei debiti e dei crediti fino a L. 200.000 e dell'uno per cento sull'eccedenza.
 
-###### Art. 12
+#### Art. 12
 
 Nel caso di riconsegna e nuova consegna, fatte contemporaneamente, il compenso viene stabilito con aumenti discrezionali fino al raddoppio delle vacazioni spettanti per la prima parte dell'operazione.
 
-###### Art. 13
+#### Art. 13
 
 Per gli inventari di boschi di cui sia richiesta la classificazione e la ripartizione delle piante di alto fusto, od anche quest'ultima solamente, si applicheranno le competenze a tempo previste nell'art.
 
 2\.
 
-###### Art. 14
+#### Art. 14
 
 Nel caso in cui i fondi oggetto di consegna siano frazionati o staccati, perche' posti in localita', diverse o costituenti aziende diverse, si terra' il debito conto del tempo necessario per accedervi.
 
-###### Art. 15
+#### Art. 15
 
 Le operazioni di consegna o riconsegna delle scorte vive e morte, macchine, attrezzi, ecc., vanno compensate sul valore della stima, a norma dell'art. 39, ridotto del venti per cento.
 
@@ -172,15 +166,13 @@ Ove si facciano invece solo per quantita' e numero, e non per valore, saranno co
 
 ## SECONDA CATEGORIA - Competenze valutate in relazione al lavoro eseguito secondo la sua estensione.
 
-### SEZIONE I
+### SEZIONE I - Lavori topografici
 
-#### Lavori topografici
-
-###### Art. 16
+#### Art. 16
 
 I rilievi planimetrici e i disegni di piante saranno compensati in relazione alla superficie, alla difficolta' del terreno, alla scala, nonche' alla ubicazione dei terreni o dei fabbricati rurali.
 
-###### Art. 17
+#### Art. 17
 
 Quanto alle difficolta' dei terreni, i fondi rustici si dividono in due classi:
 
@@ -213,29 +205,29 @@ Per i terreni della seconda classe le competenze saranno aumentate del 50 per ce
 
 Il computo delle superficie dei singoli appezzamenti e' valutato a tempo e compensato a parte.
 
-###### Art. 18
+#### Art. 18
 
 Se oltre il disegno planimetrico deve essere eseguito anche quello altimetrico, le competenze per ciascuna classe vengono aumentate sino al 50 per cento.
 
-###### Art. 19
+#### Art. 19
 
 Quando si tratta di rilevare e disegnare solamente il perimetro dei fondi rustici, le competenze sono rappresentate dalla meta' di quelle stabilite per il rilievo completo nella scala 1:2000.
 
-###### Art. 20
+#### Art. 20
 
 Quando si provvede alla formazione di piante dimostrative, alle quali servono ordinariamente di base i perimetri catastali, le competenze sono rappresentate da un terzo di quelle della tabella di cui all'art. 17 (scala 1:2000).
 
-###### Art. 21
+#### Art. 21
 
 Nel rilievo a disegno misto del terreni della prima e seconda classe le competenze saranno calcolate separatamente per ciascuna parte del lavoro.
 
-## SEZIONE II - Studi ed impianti di ordinamenti colturali.
+### SEZIONE II - Studi ed impianti di ordinamenti colturali.
 
-###### Art. 22
+#### Art. 22
 
 Per lo studio e l'impianto di ordinamenti colturali, le competenze spettanti al dottore agronomo sono compensate in relazione all'importanza economica dell'incarico con l'aggiunta di quelle spettanti per l'esecuzione dei lavori topografici.
 
-###### Art. 23
+#### Art. 23
 
 Se la planimetria e' fornita dal committente, le competenze saranno le seguenti, per poderi di facile accesso ed in un sol corpo:
 
@@ -251,9 +243,9 @@ Quando l'ordinamento colturale e' gia' definito e si tratti di modificare i pian
 
 Nei casi complessi per cui si rendono necessari speciali calcoli e conti colturali sulla convenienza economica delle colture e sulla scelta della rotazione, il compenso sara' sempre superiore al numero delle vacazioni (di campagna e di tavolo) occorse.
 
-## SEZIONE III - Classificazione dei terreni
+### SEZIONE III - Classificazione dei terreni
 
-###### Art. 24
+#### Art. 24
 
 Nelle prestazioni inerenti alla formazione di catasti interni per Consorzi di scolo, d'irrigazione, ecc., per ripartizione di canoni mediante determinazione di aliquote o classi:
 
@@ -261,9 +253,9 @@ a) se la classazione e' sommaria, il compenso per il tecnico sara' di L. 50 per 
 
 b) se la classazione e' analitica, e cioe' basata su di uno studio planimetrico, altimetrico ed agronomico, il compenso sara' misto: in relazione alle superfici rilevate, per la parte preparatoria (articoli 16, 17, 18, 19) e discrezionale per i successivi elaborati (art. 63).
 
-## SEZIONE IV - Rilievi ed opere stradali ed idrauliche
+### SEZIONE IV - Rilievi ed opere stradali ed idrauliche
 
-###### Art. 25
+#### Art. 25
 
 Per i rilievi inerenti ad opere stradali ed idrauliche, le competenze spettanti al dottore agronomo sono le seguenti:
 
@@ -297,13 +289,9 @@ per sezioni trasversali fino a m. 50 di larghezza, L. 120 ciascuna.
 
 ## TERZA CATEGORIA - Competente valutate in relazione al lavoro eseguito, secondo quote percentuali dei valori e dei costi delle opere.
 
-### SEZIONE I
+### SEZIONE I - Stime e divisioni CLASSE I. - Stime e divisioni di beni immobili
 
-#### Stime e divisioni
-
-##### CLASSE I. - Stime e divisioni di beni immobili
-
-###### Art. 26
+#### Art. 26
 
 Le stime del valore del beni stabili possono essere:
 
@@ -313,7 +301,7 @@ Stime sintetiche: se risultano dal conteggio dei principali elementi influenti s
 
 Stime analitiche: se risultano dal conteggio di tutti gli elementi influenti sul valore e sono corredate di relazione del risultato.
 
-###### Art. 27
+#### Art. 27
 
 Per stime di fondi rustici, situati in piano, in condizioni di facile accesso, le competenze spettanti al dottore agronomo sono le seguenti:
 
@@ -336,7 +324,7 @@ Per importi superiori ai massimi sopra indicati, gli onorari saranno concordati 
 
 Per i fondi rustici di colle o di monte, in condizioni di stima laboriosa e disagevole, la precedente tabella puo' essere aumentata fino al 50 per cento.
 
-###### Art. 28
+#### Art. 28
 
 Per le stime di terreni esclusivamente boschivi, ivi comprese le operazioni di numerazione, martellatura e cubatura delle piante (personale coadiutore a carico del committente): oltre ai compensi a tempo ed ai rimborsi, sara' dovuto al dottore agronomo un compenso discrezionale, a percentuale dei valori stimati, commisurabile alla entita' e difficolta' della elaborazione tecnica (specie boschiva, metodi impiegati, giacitura ed accessi, ecc.), nonche' alle responsabilita' inerenti allo scopo della perizia.
 
@@ -344,49 +332,49 @@ In ogni caso le percentuali dovute non saranno inferiori a quelle massime stabil
 
 La disposizione del comma precedente si applica anche rispetto alle operazioni parziali che al tecnico fossero demandate (valutazione della massa legnosa e dell'incremento, prezzo di macchiatico, ecc.).
 
-###### Art. 29
+#### Art. 29
 
 Per la stima di fabbricati per industrie agricole e macchinari relativi, nonche' di fabbricati per la manipolazione di prodotti del suolo, la tabella di cui all'art. 27 e' aumentata del 20 per cento.
 
-###### Art. 30
+#### Art. 30
 
 I tipi uniti alle stime, quando siano indispensabili o richiesti dal committente, saranno compensati a parte, come anche le operazioni speciali occorrenti per la verificazione dei confini, il frazionamento, le misure di appezzamenti, nonche' per l'accertamento della proprieta'.
 
-###### Art. 31
+#### Art. 31
 
 Le stime per determinare il valore locativo degli immobili, vengono compensate applicando le aliquote delle stime di cui all'art. 27, all'importo di dodici volte il canone determinato.
 
-###### Art. 32
+#### Art. 32
 
 Quando la stima deve servire per divisioni patrimoniali e si procede a preparazione di bilanci, formazione di lotti ed assegnazione di quote, le competenze riportate nella tabella di cui all'art. 27 vengono aumentate dell'8 per cento per ogni quota di assegnazione.
 
-###### Art. 33
+#### Art. 33
 
 Le eventuali operazioni di confinazione, richieste espressamente dai committenti durante le operazioni di divisione, saranno pure compensate a parte, a vacazioni. Saranno anche computate a parte, a vacazioni o secondo le rispettive voci di tariffa, tutte le operazioni accessorie attinenti ai progetti di divisione, quali piante, rilievi, misurazioni, progetti, reparti di rendite, note tecniche, disegni, cessioni, trattative occorse per la divisione e formazione delle quote, ecc.
 
-###### Art. 34
+#### Art. 34
 
 I tipi di frazionamento per volture catastali quando siano in dipendenza di un progetto di divisione di beni rustici redatto dallo stesso perito, vanno compensati a vacazioni, a norma dell'art. 2.
 
-###### Art. 35
+#### Art. 35
 
 L'opera del perito incaricato di un riparto per stabilire le quote a carico di fondi rustici per eventuali contributi di bonifica, utenze stradali, rateizzi di irrigazione, ecc., e' pure compensata a vacazioni a norma dell'art. 2.
 
-###### Art. 36
+#### Art. 36
 
 L'esame ed il parere su di un progetto gia' redatto, seguito da relazione critica, sono compensati in misura variante dal 10 al 20 per cento dell'onorario spettante al progetto esaminato.
 
-###### Art. 37
+#### Art. 37
 
 Le perizie che debbono essere asseverate con giuramento vengono retribuite con l'aumento del 10 per cento sull'onorario normale; ma nessuno speciale compenso e' dovuto per il tempo occorso alla asseverazione.
 
-###### Art. 38
+#### Art. 38
 
 I rilievi geometrici in generale sono compensati a norma degli articoli 17, 19 e 20 della presente tariffa.
 
 ## CLASSE II. - Scorte.
 
-###### Art. 39
+#### Art. 39
 
 Le stime di scorte vive e morte vengono compensate in
 
@@ -410,7 +398,7 @@ oltre le L. 1.000.000........ |    0,35   |    0,55    |     0,60
 
 ## CLASSE III. - Stime tabacchi e lavori sulla tecnica dei tabacchi.
 
-###### Art. 40
+#### Art. 40
 
 Sulla stima dei tabacchi in foglie, allo stato scelto, per conto di privati, spetta al dottore agronomo un compenso di L. 50 per ogni quintale o frazione di quintale periziato; se il tabacco e' invece lavorato il compenso si eleva a L. 75 per quintale, esclusi i frasami.
 
@@ -424,9 +412,9 @@ Per gli arbitrati, in tutte le controversie, Per ogni partita, il compenso minim
 
 Per le concessioni a manifesto valgono le competenze fissate biennalmente per i periti dalla Direzione dei monopoli.
 
-## SEZIONE II - Costruzioni rurali e industriali agrarie.
+### SEZIONE II - Costruzioni rurali e industriali agrarie.
 
-###### Art. 41
+#### Art. 41
 
 Per l'applicazione delle tabelle di cui all'art. 42 valgono le seguenti definizioni:
 
@@ -442,7 +430,7 @@ Direzione e' l'ordinamento e la distribuzione dei lavori durante la loro esecuzi
 
 Misura e valutazione dell'opera si intendono la misurazione e la stima dell'opera durante i lavori ed al compimento di essi.
 
-###### Art. 42
+#### Art. 42
 
 Per il progetto di:
 
@@ -483,7 +471,7 @@ b) Fabbricati per ricovero di animali, per industrie agricole e per la manipolaz
 
 c) Per le costruzioni in cemento armato e per gli impianti per industrie agricole, fatti a mezzo di ditte o imprese, le quali compilano i relativi progetti e preventivi, le competenze si potranno ridurre a quella della esibizione degli elementi necessari alla compilazione dei detti progetti, del loro esame, delle trattative, della scrittura del contratto, della sorveglianza dell'esecuzione e collocamento in opera e del collaudo.
 
-###### Art. 43
+#### Art. 43
 
 I rilievi e le ricerche preliminari, che eventualmente si rendessero necessari per la compilazione di taluno dei progetti di cui all'articolo precedente, saranno compensati a parte.
 
@@ -497,7 +485,7 @@ Quando il lavoro sia a distanza superiore a cinque chilometri dalla residenza de
 
 Nei lavori di riduzione di fabbricati le quote percentuali relative al progetto e preventivo potranno elevarsi ad una volta e mezzo, ed anche, in casi speciali, al doppio di quelle portate dalle superiori tabelle; quelle relative alla direzione e liquidazione potranno essere, a scelta del perito, commisurate a vacazioni.
 
-###### Art. 44
+#### Art. 44
 
 Non e' compresa, nel compenso fissato all'art. 42, lett. a) per la direzione dei lavori, l'assistenza continua sul lavoro per la sorveglianza dell'esatta esecuzione del progetto e sulla qualita' dei materiali adoperati. Ove a questa il committente non provveda ed il direttore, ritenendola necessaria, vi provveda con personale di sua fiducia, il compenso per la direzione stessa viene aumentato del 25 per cento.
 
@@ -505,7 +493,7 @@ Del pari, allorquando il direttore del lavori non e' lo stesso progettista, il c
 
 Trattandosi dei progetto di un'"opera tipo" da ripetere piu' volte in modo identico o con lievi varianti, la tariffa varra' per l'opera tipo, mentre al secondo od ai successivi elaborati sara' applicata una riduzione del 50 per cento sull'importo totale.
 
-###### Art. 45
+#### Art. 45
 
 Gli onorari da corrispondersi per i progetti o studi di esecuzione mancanti di qualcuno degli elementi necessari (disegno e dettagli, analisi dei prezzi unitari, computo metrico dettagliato, computo estimativo del lavoro, capitolato d'appalto, relazione), verranno ridotti in base alla ripartizione dell'onorario totale tra gli elementi predetti, risultanti dalla seguente tabella.
 
@@ -517,9 +505,9 @@ Computo e stima.........................................L. 0,40
 
 Totale...................L. 1-
 
-## SEZIONE III - Liquidazione di danni.
+### SEZIONE III - Liquidazione di danni.
 
-###### Art. 46
+#### Art. 46
 
 Oltre i rilievi eventuali, calcoli, ecc., da computare a parte, e a vacazioni, il compenso e' il seguente:
 
@@ -529,15 +517,15 @@ b) grandine: a vacazioni, a norma dell'art. 2 lettera e) o comunque con un compe
 
 c) danni vari di fondi rustici (relativi ad affittanze, contratti di mezzadria, ecc.): a vacazioni o comunque con un compenso dell'1,50 per cento sull'ammontare del danno.
 
-## SEZIONE IV - Collaudi.
+### SEZIONE IV - Collaudi.
 
-###### Art. 47
+#### Art. 47
 
 Il collaudo si riferisce, tanto all'opera dell'esecutore del lavoro, quanto a quella del tecnico direttore.
 
 Sono di spettanza del collaudatore, oltre la verifica di misure del lavoro ed il controllo della contabilita', della qualita' e dell'efficienza dei materiali in opera e della regolare esecuzione delle opere, anche la redazione dei verbali d'accesso, la compilazione della relazione di collaudo e degli eventuali certificati richiesti.
 
-###### Art. 48
+#### Art. 48
 
 Per lavori eseguiti a "forfait" senza esame di contabilita', oltre le competenze per visite, rilievi, rimborsi di cui all'art. 67, ecc., sono dovuti i compensi seguenti:
 
@@ -557,15 +545,15 @@ L. 0,15% oltre.....................................L. 5.000.000
 
 Per i lavori eseguiti a misura, secondo le norme stabilite dal Genio civile, Provincie e Comuni, le competenze suddette vengono raddoppiate.
 
-###### Art. 49
+#### Art. 49
 
 Se il collaudatore, per patto espresso, interviene anche come arbitro inappellabile ed amichevole compositore delle controversie che insorgono in seguito al collaudo tra l'impresario e il committente, le suddette aliquote saranno aumentate del 50 per cento.
 
 La remunerazione fissata per i collaudi sara' calcolata sull'importo delle riserve discusse, Indipendentemente dal loro accoglimento.
 
-## SEZIONE V - Assistenza tecnica ed economico-agricola.
+### SEZIONE V - Assistenza tecnica ed economico-agricola.
 
-###### Art. 50
+#### Art. 50
 
 Assistenza nelle contrattazioni per:
 
@@ -579,9 +567,9 @@ Esame e compilazione dei conti colonici:
 
 quota percentuale da applicarsi sul complessivo del dare e dell'avere: L. 1 per cento.
 
-## SEZIONE VI - Progetti di trasformazioni fondiarie.
+### SEZIONE VI - Progetti di trasformazioni fondiarie.
 
-###### Art. 51
+#### Art. 51
 
 Per i progetti di trasformazione fondiaria, agraria o di bonificamento agrario o bonifica integrale, da compilarsi a norma della legge fondamentale 29 luglio 1927, n. 1509, ed altre,
 
@@ -607,21 +595,21 @@ sul di piu' fino a.........................L. 15.000.000 il 2,--%
 
 oltre le....................................L. 15.000.000 l'1,50%
 
-###### Art. 52
+#### Art. 52
 
 Qualora il dottore agronomo assuma anche la direzione del lavori, la tariffa di cui all'articolo precedente sara' aumentata del 30 per cento.
 
-###### Art. 53
+#### Art. 53
 
 I compensi per i progetti di massima non seguiti da progetto definitivo, e da servire di esame preliminare alle operazioni di trasformazione fondiaria, sono pari al 15 per cento delle tariffe di cui a questa sezione, sempre che non debbano valutarsi secondo le norme dell'art. 63.
 
-## SEZIONE VII - Consulenza e cautela di aziende agricole e agricolo-industriali.
+### SEZIONE VII - Consulenza e cautela di aziende agricole e agricolo-industriali.
 
-###### Art. 54
+#### Art. 54
 
 Le disposizioni di questa Sezione non sono applicabili nel confronti dei dottori agronomi che esplichino in maniera continuativa ed esclusiva la propria attivita' professionale presso un'azienda agricola o similare.
 
-###### Art. 55
+#### Art. 55
 
 Il dottore agronomo al quale sia affidata la consulenza di un'azienda agricola o agricolo-industriale per l'insieme delle attivita' produttive che si svolgono nell'azienda stessa, viene compensato in conformita', della seguente tabella:
 
@@ -633,39 +621,39 @@ il 2% sul di piu' oltre L 1.500.000.
 
 Sono compensate a parte, con equa riduzione sulle rispettive tariffe, tutte le prestazioni che implichino progetti, consulenze, arbitrati, ecc., e che esulano dalla normale attivita' che si richiede ad un dottore agronomo consulente.
 
-###### Art. 56
+#### Art. 56
 
 La consulenza limitata ad alcune attivita' della azienda, viene compensata a discrezione, secondo le norme della categoria quarta.
 
-###### Art. 57
+#### Art. 57
 
 La consulenza saltuaria, ossia limitata a talune prestazioni professionali del dottore agronomo, viene compensata a norma delle tariffe relative alle prestazioni stesse.
 
-###### Art. 58
+#### Art. 58
 
 La tariffa percentuale delle interessenze deve essere applicata per intero sulla produzione lorda di spettanza padronale della azienda nei contratti di conduzione a mezzadria e forme similari, nonche' per l'affittanza mista, per quanto si riferisce agli eventuali prodotti in compartecipazione.
 
 Nel caso della conduzione in economia diretta, la percentuale della interessenza sulla produzione lorda viene ridotta del 30 per cento.
 
-###### Art. 59
+#### Art. 59
 
 L'opera professionale prestata da un dottore agronomo per cautela di aziende, viene compensata tenendosi conto del valore dei beni, della durata dell'incarico e dei risultati conseguiti.
 
-###### Art. 60
+#### Art. 60
 
 Nelle amministrazioni relative a sequestri, controversie, divisioni e operazioni simili di durata indeterminata, l'onorario del dottore agronomo va computato a discrezione.
 
-###### Art. 61
+#### Art. 61
 
 Ai dottori agronomi specializzati (in enologia, oleotecnica, ortifrutticoltura e giardinaggio, zootecnia e caseificio, economia montana) che prestano la loro consulenza in aziende agrarie, specializzate, in cantine, caseifici, oleifici e simili, il compenso percentuale di cui all'art. 55 puo' essere aumentato fino al massimo di un terzo, a seconda dell'importanza dell'azienda.
 
-###### Art. 62
+#### Art. 62
 
 Eguale aumento spetta al dottore agronomo che esplichi la propria consulenza presso aziende agrarie in via di trasformazione o di bonifica, o presso quelle poste in localita' disagiate.
 
 ## QUARTA CATEGORIA - Competenze valutate a discrezione.
 
-###### Art. 63
+#### Art. 63
 
 2In questa categoria sono comprese le competenze la cui determinazione non puo' farsi, ne' in base al tempo impiegato, in quanto elemento secondario in confronto alle attitudini del professionista incaricato, ne' in base al valore del loro oggetto, in quanto difficilmente si puo' concretare in cifre. In tali casi il compenso dovuto al dottore agronomo deve essere determinato discrezionalmente, tenendo calcolo della importanza dell'incarico, dello studio, del tempo occorso, del valore della controversia e del pregio intrinseco dell'opera.
 
@@ -697,33 +685,31 @@ n) relazioni, verbali, certificati, annotazioni probatorie autenticate, ricorsi,
 
 o) corrispondenze ordinarie e consulenze non costituenti elemento necessario all'esecuzione di un incarico gia' compensato ad opera.
 
-###### Art. 64
+#### Art. 64
 
 Gli onorari per le prestazioni che non sono appositamente contemplate in questa tariffa, vengono stabiliti per analogia.
 
-###### Art. 65
+#### Art. 65
 
 Il dottore agronomo, per la migliore esecuzione dei lavori affidatigli puo' essumere dei collaboratori, fermo il disposto dell'art. 2232 del Codice civile.
 
-## PARTE II - Diritti accessori
+## PARTE II - Diritti accessori Diritti fissi, indennita' e rimborsi di spese.
 
-### Diritti fissi, indennita' e rimborsi di spese.
-
-###### Art. 66
+#### Art. 66
 
 Al dottore agronomo, oltre le competenze, sono dovuti i seguenti diritti fissi:
 
 le copie di relazioni tecniche, di progetti, di preventivi, di collaudi, ecc., fornite oltre l'originale, sempre dovuto al cliente, saranno rimborsate al prezzo corrente.
 
-###### Art. 67
+#### Art. 67
 
 Per indennita' di vitto fuori residenza il dottore agronomo avra' diritto a L. 1000 (mille) per la giornata intera, a L. 500 (cinquecento) per mezza giornata. Per la indennita' di alloggio il dottore agronomo avra' diritto a L. 500 (cinquecento) per ogni pernottazione fuori residenza, salvo il rimborso integrale della maggiore spesa effettivamente sostenuta.
 
-###### Art. 68
+#### Art. 68
 
 Qualora il vitto e l'alloggio siano forniti dal cliente; il dottore agronomo potra' esporre nella sua specifica le altre spese di soggiorno occorsegli.
 
-###### Art. 69
+#### Art. 69
 
 Sara' sempre dovuto al dottore agronomo il rimborso:
 
@@ -739,7 +725,7 @@ e) delle spese di ferrovia in prima classe;
 
 f) delle spese di trasporto per via ordinaria, sia con autoveicoli, sia con carrozze o cavalcature, in misura adeguata al decoro della professione.
 
-###### Art. 70
+#### Art. 70
 
 Il dottore agronomo ha diritto di chiedere al committente il deposito di una somma che, in relazione allo ammontare delle spese presunte da anticipare, riterra' necessaria, e durante il corso dei lavori ha altresi' diritto ad acconti sino alla concorrenza del cumulo delle spese e del 30% degli onorari che gli spettano, secondo questa tariffa, per la parte di lavoro fino a quel punto eseguito.
 
@@ -747,7 +733,7 @@ Comunque il pagamento a saldo della specifica deve farsi non oltre i 60 giorni d
 
 Quando l'incarico venga revocato dal cliente, spetta al dottore agronomo, oltre il rimborso delle spese sostenute, l'onorario corrispondente al lavoro fatto a termini dell'art. 2237 del Codice civile.
 
-###### Art. 71
+#### Art. 71
 
 Malgrado l'avvenuto pagamento della specifica e salvi gli eventuali accordi speciali fra le parti, la proprieta' dei lavori originali, del disegni, del progetti o di quant'altro rappresenta l'opera del dottore agronomo resta sempre riservata a quest'ultimo.
 

@@ -25,7 +25,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 L'articolo 8 del testo unico 5 giugno 1939, n. 1016, modificato con legge 30 maggio 1949, n. 694, e' sostituito dal seguente:
 
@@ -49,7 +49,7 @@ Per l'uso della licenza di caccia si deve dimostrare in ogni momento di avere l'
 
 Con decreto del Ministro per le finanze, di concerto con quelli per l'interno e per l'agricoltura e foreste, saranno determinati i modelli delle licenze di caccia e le loro caratteristiche".
 
-### Art. 2
+## Art. 2
 
 L'articolo 12 del testo unico 5 giugno 1939, n. 1016, e successive modificazioni, e' sostituito dal seguente:
 
@@ -75,7 +75,7 @@ Il contravventore e' punito con l'ammenda da lire 20.000 a lire 40.000. La pena 
 
 I presidenti dei Comitati provinciali della caccia, previa deliberazione del Comitato, pubblicano entro il 1 luglio di ogni anno il calendario venatorio della Provincia, relativo all'intera annata venatoria".
 
-### Art. 3
+## Art. 3
 
 Dopo l'articolo 12 del testo unico 5 giugno 1939, n. 1016, e' aggiunto il seguente articolo 12-bis:
 
@@ -91,7 +91,7 @@ I Comitati provinciali della caccia, per la gestione della caccia controllata, p
 
 Il contravventore e' punito con l'ammenda da lire 40.000 a lire 100.000".
 
-### Art. 4
+## Art. 4
 
 Al terzo comma dell'articolo 14 del testo unico 5 giugno 1939, n. 1016, e successive modificazioni ed integrazioni, sono aggiunte le seguenti lettere:
 
@@ -105,7 +105,7 @@ q) le panie ed i panioni sia fissi che vaganti;
 
 r) le armi munite di silenziatore.
 
-### Art. 5
+## Art. 5
 
 Il penultimo e l'ultimo comma dell'articolo 16 del testo unico 5 giugno 1939, n. 1016, sono sostituiti dai seguenti:
 
@@ -117,7 +117,7 @@ debbono essere denunziati, annualmente, al Comitato provinciale della caccia che
 
 Sono vietati gli impianti di appostamenti fissi sui valichi montani e collinari ed entro un raggio di 1.000 metri attorno ad essi. Il contravventore e' punito con l'ammenda da lire 40.000 a lire 100.000 e con il ritiro della licenza da uno a tre anni.
 
-### Art. 6
+## Art. 6
 
 Il secondo comma dell'articolo 19 del testo unico 5 giugno 1939, n. 1016, modificato dal regio decreto 29 maggio 1941, n. 489, e' sostituito dal seguente:
 
@@ -127,7 +127,7 @@ L'ultimo comma dello stesso articolo e' sostituito dal seguente:
 
 "Il contravventore e' punito con l'ammenda da lire 6.000 a lire 60.000".
 
-### Art. 7
+## Art. 7
 
 L'articolo 23 del testo unico 5 giugno 1939, n. 1016, e' sostituito dal seguente:
 
@@ -135,7 +135,7 @@ L'articolo 23 del testo unico 5 giugno 1939, n. 1016, e' sostituito dal seguente
 
 Il Ministro per l'agricoltura e le foreste di concerto col Ministro per il turismo e lo spettacolo, sentiti i Comitati provinciali interessati, puo' vietare la caccia nelle localita' di notevole interesse panoramico, paesistico o turistico, a tutela della integrita' e della quiete della zona".
 
-### Art. 8
+## Art. 8
 
 L'articolo 29 del testo unico 5 giugno 1939, n. 1016 e' sostituito dal seguente:
 
@@ -147,7 +147,7 @@ Nei fondi indicati e' sempre ammesso l'allevamento di selvaggina a scopo ornamen
 
 Il contravventore e' punito con l'ammenda da lire 20.000 a lire 100.000".
 
-### Art. 9
+## Art. 9
 
 L'ultimo comma dell'articolo 30 del testo unico 5 giugno 1939, n. 1016, e' sostituito dai seguenti:
 
@@ -161,7 +161,7 @@ L'abusiva apposizione delle tabelle e' punita con la ammenda da lire 5.000 a lir
 
 L'apposizione di dette tabelle non e' soggetta ad alcuna tassazione".
 
-### Art. 10
+## Art. 10
 
 L'art. 32 del testo unico 5 giugno 1939, n. 1016, e successive modificazioni, e' sostituito dal seguente:
 
@@ -177,7 +177,7 @@ Nel periodo di chiusura della caccia sono vietati il porto e l'uso delle armi da
 
 I contravventori sono puniti, quando il fatto non costituisca piu' grave reato, con la multa da lire 20.000 a lire 100.000. Alla condanna consegue la revoca della licenza da uno a tre anni".
 
-### Art. 11
+## Art. 11
 
 L'articolo 36 del testo unico 5 giugno 1939, n. 1016, e' sostituito dal seguente:
 
@@ -193,7 +193,7 @@ Nelle ore notturne di cui al primo comma e' altresi' vietato il porto e l'uso de
 
 Il divieto non si applica agli agenti di vigilanza. Il contravventore e' punito con l'ammenda da lire 50.000 a lire 100.000".
 
-### Art. 12
+## Art. 12
 
 Dopo l'articolo 41 del testo unico 5 giugno 1939, n. 1016, e' aggiunto il seguente articolo 41-bis:
 
@@ -203,7 +203,7 @@ Con decreto del Ministro per l'agricoltura e le foreste, sentito il Laboratorio 
 
 Il contravventore e' punito con l'ammenda da lire 10.000 a lire 40.000".
 
-### Art. 13
+## Art. 13
 
 I primi sette commi dell'articolo 43 del testo unico 5 giugno 1939, n. 1016, sono sostituiti dai seguenti:
 
@@ -215,7 +215,7 @@ Le zone di ripopolamento e cattura hanno per scopo la produzione e l'incremento 
 
 Nelle bandite e nelle zone di ripopolamento e cattura l'esercizio della caccia e dell'uccellagione e' vietato a chiunque, compreso il concessionario, salvo le eccezioni previste dalla presente legge".
 
-### Art. 14
+## Art. 14
 
 L'articolo 44 del testo unico 5 giugno 1939, n. 1016, modificato dall'articolo 18 del decreto del Presidente della Repubblica 10 giugno 1955, n. 987, e' sostituito dal seguente:
 
@@ -233,13 +233,13 @@ Nel provvedimento di concessione di bandita o di riserva vengono indicati il nom
 
 Avverso i provvedimenti relativi alla costituzione ed alla revoca di bandita o di riserva di cui al primo comma del presente articolo, e' ammesso, entro 30 giorni dalla notifica, ricorso al Ministro per l'agricoltura e per le foreste che, previ gli accertamenti del caso, decide entro 90 giorni dalla data di presentazione del ricorso stesso".
 
-### Art. 15
+## Art. 15
 
 Il primo comma dell'articolo 46 del testo unico 5 giugno 1939, n. 1016, e' cosi' modificato:
 
 "La domanda di concessione o di rinnovo di bandita e di riserva deve essere diretta al presidente del Comitato provinciale della caccia".
 
-### Art. 16
+## Art. 16
 
 L'articolo 49 del testo unico 5 giugno 1939, n. 1016, gia' modificato dall'articolo 31 del decreto del Presidente della Repubblica 10 giugno 1955, n. 987, e' cosi' modificato il secondo comma, primo alinea, e' cosi' sostituito:
 
@@ -253,7 +253,7 @@ il terzo e quarto comma sono cosi' sostituiti:
 
 L'ultimo comma e' cosi' sostituito: "Per l'accertamento del funzionamento delle bandite e delle riserve il Comitato provinciale della caccia provvede a periodiche ispezioni avvalendosi di personale da esso indicato".
 
-### Art. 17
+## Art. 17
 
 L'articolo 51 del testo unico 5 giugno 1939, n. 1016, modificato dall'articolo 18 del decreto del Presidente della Repubblica 10 giugno 1955, n. 987, e' sostituito dal seguente:
 
@@ -261,7 +261,7 @@ L'articolo 51 del testo unico 5 giugno 1939, n. 1016, modificato dall'articolo 1
 
 La concessione di bandita non puo' essere fatta per un periodo superiore a sei anni e puo' essere rinnovata entro l'anno di scadenza. In ogni caso le bandite di cui al presente articolo non possono essere trasformate in riserve di caccia prima che siano trascorsi due anni dalla scadenza della concessione".
 
-### Art. 18
+## Art. 18
 
 L'articolo 52 del testo unico 5 giugno 1939, n. 1016, modificato dall'articolo 32 del decreto del Presidente della Repubblica 10 giugno 1955, n. 987, e' sostituito dal seguente:
 
@@ -281,13 +281,13 @@ Ove manchi il consenso dei proprietari che rappresentino i due terzi della super
 
 I confini delle zone di ripopolamento e cattura debbono essere delimitati con tabelle perimetrali portanti la scritta "zona di ripopolamento e cattura, articolo 52, testo unico, Divieto di caccia" apposte ai sensi dell'articolo 45 del predetto testo unico. Dette tabelle sono esenti da tasse".
 
-### Art. 19
+## Art. 19
 
 Nel primo comma dell'articolo 54 del testo unico 5 giugno 1939, n. 1016, gia' sostituito con l'articolo 33 del decreto del Presidente della Repubblica 10 giugno 1955, n. 987, le parole "ed hanno la durata di anni tre" sono cosi' sostituite: "ad hanno la durata di anni sei".
 
 Il secondo comma dello stesso articolo viene sostituito dal seguente: "Le zone predette sono gestite dai Comitati provinciali della caccia. Le direttive generali di gestione delle zone di ripopolamento vengono stabilite con decreto del Ministro per l'agricoltura e per le foreste ai sensi dell'articolo 4 della legge 11 marzo 1953, n. 150".
 
-### Art. 20
+## Art. 20
 
 L'articolo 55 del testo unico 5 giugno 1939, n. 1016, modificato per effetto del decreto del Presidente della Repubblica 10 giugno 1955, n. 987, e' sostituito dal seguente:
 
@@ -303,7 +303,7 @@ Il Comitato provinciale della caccia disciplina l'esercizio venatorio nella zona
 
 Per il raggiungimento di tali scopi puo' disporre misure limitative nel godimento della riserva".
 
-### Art. 21
+## Art. 21
 
 L'articolo 59 del testo unico 5 giugno 1939, n. 1016, modificato dall'articolo 18 del decreto del Presidente della Repubblica 10 giugno 1955, n. 987, e' sostituito dal seguente:
 
@@ -317,7 +317,7 @@ Il provvedimento di concessione deve essere emesso entro sei mesi dalla presenta
 
 Nel frattempo devono essere mantenute le tabelle perimetrali".
 
-### Art. 22
+## Art. 22
 
 Il primo e l'ultimo comma dell'articolo 60 del testo unico 5 giugno 1939, n. 1016, sono sostituiti dai seguenti:
 
@@ -325,7 +325,7 @@ Il primo e l'ultimo comma dell'articolo 60 del testo unico 5 giugno 1939, n. 101
 
 "Nel decreto di concessione il direttore della riserva e' designato ad ogni effetto di legge come concessionario; la sua eventuale sostituzione va comunicata al Comitato provinciale della caccia per la ratifica e l'annotazione in margine al provvedimento di concessione".
 
-### Art. 23
+## Art. 23
 
 L'articolo 61 del testo unico 5 giugno 1939, n. 1016, modificato dagli articoli 35 e 36 del decreto del Presidente della Repubblica 10 giugno 1955, n. 987, e' sostituito dal seguente:
 
@@ -341,23 +341,23 @@ Il contratto di affitto di una riserva non e' valido agli effetti della legge su
 
 Il subaffitto di una riserva non e' ammesso sotto pena di decadenza della concessione".
 
-### Art. 24
+## Art. 24
 
 L'ultimo comma dell'articolo 63 del testo unico 5 giugno 1939, n. 1016, e' sostituito dal seguente:
 
 "Nelle riserve e' concesso di far ricaricare i fucili durante le battute o in valle da persone pratiche, anche se non munite di licenza e di far portare i fucili di ricambio".
 
-### Art. 25
+## Art. 25
 
 L'ultimo comma dell'articolo 64 del testo unico 5 giugno 1939, n. 1016, e' soppresso.
 
-### Art. 26
+## Art. 26
 
 L'ultimo comma dell'articolo 66 del testo unico 5 giugno 1939, n. 1016, e' sostituito dal seguente:
 
 "Nelle localita' di modesta utilizzazione agricola e forestale e notoriamente frequentate in determinate stagioni da selvaggina migratoria e' in facolta' del Comitato provinciale della caccia di negare le nuove concessioni di riserva e di revocare, sospendere, limitare e condizionare le concessioni esistenti".
 
-### Art. 27
+## Art. 27
 
 L'articolo 67 del testo unico 5 giugno 1939, n. 1016, e' sostituito dal seguente:
 
@@ -369,7 +369,7 @@ Tutti i titolari di licenza possono esercitare la caccia e l'uccellagione nelle 
 
 Nella zona faunistica delle Alpi tutto il territorio comunque costituito in riserva di caccia, e' sottoposto, alla scadenza delle concessioni di riserva, al regime di caccia controllata. E' tuttavia consentito il rinnovo o la costituzione, a norma della presente legge, di riserve di privati e di enti pubblici, quando nei territori da riservare si trovi selvaggina tipica della zona delle Alpi che ponga in evidenza il carattere naturalistico delle riserve stesse".
 
-### Art. 28
+## Art. 28
 
 Dopo l'articolo 67 del testo unico 5 giugno 1939, n. 1016, e' aggiunto il seguente articolo 67-bis:
 
@@ -383,13 +383,13 @@ Il Comitato provinciale della caccia, su richiesta del Laboratorio di zoologia a
 
 Chi effettua l'esercizio venatorio in dette oasi e' punito con l'ammenda da lire 16.000 a lire 80.000".
 
-### Art. 29
+## Art. 29
 
 Il primo comma dell'articolo 69 del testo unico 5 giugno 1939, n. 1016, e' sostituito dal seguente:
 
 "Le associazioni venatorie di cui all'articolo 86 del testo unico hanno facolta' di chiedere al prefetto, a termini della legge di pubblica sicurezza, il riconoscimento di guardie giurate volontarie per quei soci che diano sicuro affidamento di serieta' e di capacita' e che intendono eseguire volontariamente servizio di vigilanza venatoria. Dette guardie giurate sono equiparate, ad ogni effetto, alle guardie volontarie".
 
-### Art. 30
+## Art. 30
 
 Il penultimo comma dell'articolo 72 del testo unico 5 giugno 1939, n. 1016, e' sostituito dal seguente:
 
@@ -397,7 +397,7 @@ Il penultimo comma dell'articolo 72 del testo unico 5 giugno 1939, n. 1016, e' s
 
 In quest'ultimo caso il prezzo ricavato sara' tenuto a disposizione di colui contro il quale e' stata elevata la contravvenzione, per il caso che egli sia assolto. Nel caso, invece, di condanna o di oblazione, l'importo della vendita della selvaggina e dei richiami sequestrati deve essere versato alle casse del Comitato provinciale della caccia a favore del Comitato stesso. Le somme in tal modo introitate saranno impiegate a scopi di protezione della selvaggina o per ripopolamento".
 
-### Art. 31
+## Art. 31
 
 L'articolo 77 del testo unico 5 giugno 1939, n. 1016, e' sostituito dal seguente:
 
@@ -407,7 +407,7 @@ Il contravventore, entro il termine suddetto, deve pagare all'Erario la somma do
 
 La precedente disposizione non si applica quando la caccia e l'uccellagione vengano esercitate senza licenza, ovvero facendo uso di mezzi proibiti di cui all'articolo 14, nonche' nei casi previsti dagli articoli 30 e 36 e dall'ultimo comma dell'articolo 76".
 
-### Art. 32
+## Art. 32
 
 L'articolo 78 del testo unico 5 giugno 1939, n. 1016, e' sostituito dal seguente:
 
@@ -417,7 +417,7 @@ a) quando la contravvenzione non ammette oblazione;
 
 b) quando il contravventore non abbia pagato nel termine prescritto le somme di cui all'ultimo comma dell'articolo precedente, o non abbia presentato domanda di oblazione.
 
-### Art. 33
+## Art. 33
 
 L'articolo 82 del testo unico 5 giugno 1939, n. 1016, gia' sostituito dall'articolo 37 del decreto del Presidente della Repubblica 10 giugno 1955, n. 987, e' sostituito dal seguente:
 
@@ -459,7 +459,7 @@ Il servizio di Cassa e' affidato alla tesoreria dell'Amministrazione provinciale
 
 Le spese per il personale dipendente dal Comitato provinciale della caccia e di quello ad esso assegnato sono a carico dell'Amministrazione provinciale".
 
-### Art. 34
+## Art. 34
 
 L'articolo 85 del testo unico del 5 giugno 1939, n. 1016, e' sostituito dal seguente:
 
@@ -473,7 +473,7 @@ Il Collegio sindacale e' composto di tre funzionari designati rispettivamente in
 
 Presso le Universita', gli Istituti sperimentali zootecnici del Ministero dell'agricoltura e delle foreste, gli istituti zooprofilattici del Ministero della sanita' possono essere istituiti centri di studio per l'allevamento, l'alimentazione e le malattie della selvaggina".
 
-### Art. 35
+## Art. 35
 
 L'articolo 86 del testo unico del 5 giugno 1939, n. 1016, e' sostituito dal seguente:
 
@@ -495,7 +495,7 @@ Nelle associazioni venatorie riconosciute non possono rivestire cariche coloro c
 
 Qualora vengano meno, in tutto o in parte, i requisiti previsti per il riconoscimento, il Ministro per l'agricoltura e le foreste dispone con proprio decreto, d'intesa con il Ministro per gli interni, la revoca del riconoscimento stesso".
 
-### Art. 36
+## Art. 36
 
 L'articolo 88 del testo unico 5 giugno 1939, n. 1016, e' sostituito dal seguente:
 
@@ -513,7 +513,7 @@ e) a promuovere e finanziare iniziative atte a rendere piu' proficuo l'esercizio
 
 f) ad organizzare gare, mostre, esposizioni ed altre manifestazioni di carattere venatorio".
 
-### Art. 37
+## Art. 37
 
 L'articolo 90 del testo unico 5 giugno 1939, n. 1016, e' sostituito dal seguente:
 
@@ -543,7 +543,7 @@ i) appostamento fisso: lire 10.000.
 
 Per le concessioni di riserva devono essere pagate le tasse indicate nell'articolo 61 e, per tutte le tabelle, per le quali non e' prevista l'esenzione, la tassa prescritta dalla legge di bollo".
 
-### Art. 38
+## Art. 38
 
 L'articolo 91 del testo unico 5 giugno 1939, n. 1016, e' sostituito dal seguente:
 
@@ -567,7 +567,7 @@ h) per ogni 100 lire o frazione di 100 lire di tassa erariale per le bandite pri
 
 i) per ogni tabella indicante il divieto di caccia, soggetta al pagamento della tassa di bollo deve pagarsi una soprattassa di lire 50".
 
-### Art. 39
+## Art. 39
 
 L'articolo 92 del testo unico 5 giugno 1939, n. 1016, e' sostituito dal seguente:
 
@@ -583,53 +583,53 @@ d) il 10 per cento alle Associazioni venatorie di cui all'articolo 86 del presen
 
 Il provento complessivo delle soprattasse viene stanziato in apposito capitolo dello stato di previsione della spesa del Ministero dell'agricoltura e delle foreste. Si provvede all'erogazione del provento entro tre mesi dall'avvenuta iscrizione in bilancio".
 
-### Art. 40
+## Art. 40
 
 L'articolo 93 del testo unico 5 giugno 1939, n. 1016, e' sostituito dal seguente:
 
 "Art. 93. - A tutte le altre spese comunque interessanti il servizio della caccia comprese quelle per la erogazione di contributi ad enti e privati fino al 50 per cento della spesa per l'acquisto di riproduttori e per iniziative di ripopolamento, per l'attrezzatura degli allevamenti di selvaggina e per la sorveglianza, si provvede con apposito fondo da stanziarsi annualmente nel bilancio del Ministero dell'agricoltura e delle foreste. L'erogazione di contributi ad enti e privati deve essere diretta esclusivamente a favorire l'incremento venatorio in zone particolarmente depresse, che potrebbero ritrarre notevoli benefici di ordine economico e turistico".
 
-### Art. 41
+## Art. 41
 
 Sono abrogati gli articoli 9, 13, 39, 87, 89, 94, 95, 96, 97, 98 e 99 del testo unico 5 giugno 1939, n. 1016.
 
-### Art. 42
+## Art. 42
 
 La misura delle ammende di cui agli articoli 7, 10, 14, 18, 25, 28, 30, 33, 34, 35, 37, 38, 40, 41, 42, 43, 45, 48 e 58 del testo unico 5 giugno 1939, n. 1016, e successive modificazioni ed integrazioni, aumentata del 50 per cento. La ammenda prevista per contravvenzioni alle norme dello articolo 73 del testo unico 5 giugno 1939, n. 1016, e' stabilita da un minimo di lire 2.000 ad un massimo di lire 10.000.
 
 ## NORME TRANSITORIE E FINALI
 
-### Art. 43
+## Art. 43
 
 Per un periodo di tre anni dall'entrata in vigore della presente legge data facolta' ai Comitati provinciali della caccia di permettere la caccia alla selvaggina migratoria successivamente al 31 marzo ma non oltre la seconda domenica di maggio quando particolari situazioni locali da precisare nel provvedimento lo giustifichino.
 
 Tale deroga eccezionale puo' essere consentita soltanto nella fascia costiera tra i 200 e i 1.000 metri, estensibile a 2.000 - nei casi in cui lo esigano particolari necessita' relative alle condizioni dei luoghi - dal battente dell'onda e limitatamente all'intervallo di tempo tra le ore 8 e il tramonto del sole e a condizione che sia assicurato un idoneo servizio di vigilanza.
 
-### Art. 44
+## Art. 44
 
 Le concessioni in atto relative alle bandite e riserve, la cui estensione non sia conforme a quanto previsto dalla presente legge, restano in vigore sino alla loro scadenza.
 
-### Art. 45
+## Art. 45
 
 I contratti di affitto alla data di entrata in vigore della presente legge, che siano in contrasto con l'articolo 23 della stessa, conservano efficacia fino alla loro data di scadenza.
 
-### Art. 46
+## Art. 46
 
 Sono abrogate tutte le norme che comunque si riferiscano alla caccia e siano in contrasto con la presente legge.
 
 Sono soppressi tutti i diritti ed usi civici di caccia o di uccellagione comunque ed in qualunque tempo e modo costituiti ai sensi della legge 16 giugno 1927, n. 1766.
 
-### Art. 47
+## Art. 47
 
 I poteri e le facolta' in materia di caccia, gia' spettanti in base al decreto del Presidente della Repubblica 10 giugno 1955, n. 987, ai presidenti delle Giunte provinciali, sono attribuiti ai presidenti dei Comitati provinciali della caccia, sempre che non rientrino tra quelli attribuiti ai Comitati stessi dalla presente legge.
 
 Vengono attribuiti ai Comitati provinciali della caccia quelli previsti dagli articoli 26 e 29 del citato decreto del Presidente della Repubblica.
 
-### Art. 48
+## Art. 48
 
 In deroga alle vigenti norme della legge comunale e provinciale, le deliberazioni dei Consigli e delle Giunte provinciali adottate in applicazione e per l'attuazione dei disposti e delle finalita' del decreto del Presidente della Repubblica 10 giugno 1955, n. 987, e della presente legge, sono, relativamente alla materia venatoria, soggette al solo visto o esame di legittimita' da parte dell'autorita' di vigilanza.
 
-### Art. 49
+## Art. 49
 
 La presente legge entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale, ad eccezione delle norme relative al rilascio e al rinnovo delle licenze di caccia di cui all'articolo 1 della presente legge che entrano in vigore sei mesi dopo la pubblicazione stessa.
 

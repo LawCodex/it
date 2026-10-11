@@ -30,7 +30,7 @@ la seguente legge:
 
 ## Capo I. - DISPOSIZIONI DI CARATTERE GENERALE
 
-#### Art. 1 - Finalita' ed ambito di applicazione della legge
+### Art. 1 - Finalita' ed ambito di applicazione della legge
 
 1\. Con la presente legge lo Stato detta principi fondamentali in materia di attivita' trasfusionali allo scopo di conseguire le seguenti finalita':
 
@@ -62,13 +62,13 @@ f) le norme per la qualita' e la sicurezza del sangue e dei suoi prodotti.
 
 > Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazione ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
-#### Art. 2 - Attivita' trasfusionali
+### Art. 2 - Attivita' trasfusionali
 
 1\. La presente legge disciplina le attivita' trasfusionali ovvero le attivita' riguardanti la promozione del dono del sangue, la raccolta di sangue intero, degli emocomponenti e delle cellule staminali emopoietiche autologhe, omologhe e cordonali; il frazionamento con mezzi fisici semplici; la validazione, la conservazione e la distribuzione del sangue umano e dei suoi componenti, nonche' le attivita' di medicina trasfusionale e la produzione di farmaci emoderivati.
 
 2\. Le attivita' trasfusionali di cui al comma 1 sono parte integrante del Servizio sanitario nazionale e si fondano sulla donazione volontaria, periodica, responsabile, anonima e gratuita del sangue umano e dei suoi componenti.
 
-#### Art. 3
+### Art. 3
 
 (Donazione di sangue, emocomponenti e
 
@@ -84,7 +84,7 @@ cellule staminali emopoietiche)
 
 5\. Le disposizioni di cui al presente articolo sono periodicamente aggiornate sulla base delle linee guida emanate dal Centro nazionale sangue ai sensi dell'articolo 12.
 
-#### Art. 4 - Gratuita' del sangue e dei suoi prodotti
+### Art. 4 - Gratuita' del sangue e dei suoi prodotti
 
 1\. Il sangue umano non e' fonte di profitto. Le spese sostenute per la produzione e la distribuzione del sangue e dei suoi prodotti, comprese le cellule staminali emopoietiche, non sono addebitabili al ricevente ed escludono comunque addebiti accessori ed oneri fiscali, compresa la partecipazione alla spesa sanitaria.
 
@@ -92,7 +92,7 @@ cellule staminali emopoietiche)
 
 ## Capo II. - ORGANIZZAZIONE DEL SISTEMA TRASFUSIONALE
 
-#### Art. 5
+### Art. 5
 
 (Livelli essenziali di assistenza sanitaria
 
@@ -176,7 +176,7 @@ c) promozione della donazione del sangue.
 
 > 3\. (Abrogato).».
 
-#### Art. 6
+### Art. 6
 
 (Principi generali per l'organizzazione
 
@@ -208,11 +208,9 @@ c) viene promossa la individuazione da parte delle regioni, in base alla propria
 
 > \- Per quanto concerne il decreto del Presidente del Consiglio dei Ministri 29 novembre 2001, vedasi le note all'art. 5.
 
-## Capo III. - DISPOSIZIONI RIGUARDANTI LE ASSOCIAZIONI
+## Capo III. - DISPOSIZIONI RIGUARDANTI LE ASSOCIAZIONI E FEDERAZIONI DI DONATORI DI SANGUE
 
-### E FEDERAZIONI DI DONATORI DI SANGUE
-
-#### Art. 7 - Associazioni e federazioni di donatori
+### Art. 7 - Associazioni e federazioni di donatori
 
 1\. Lo Stato riconosce la funzione civica e sociale ed i valori umani e solidaristici che si esprimono nella donazione volontaria, periodica, responsabile, anonima e gratuita del sangue e dei suoi componenti.
 
@@ -236,7 +234,7 @@ c) viene promossa la individuazione da parte delle regioni, in base alla propria
 
 > «La regione non puo' istituire dazi di importazione o esportazione o transito tra le regioni, ne' adottare provvedimenti che ostacolino in qualsiasi modo la libera circolazione delle persone e delle cose tra le regioni, ne' limitare l'esercizio del diritto al lavoro in qualunque parte del territorio nazionale. Il Governo puo' sostituirsi a organi delle regioni, delle citta' metropolitane, delle province e dei comuni nel caso di mancato rispetto di norme e trattati internazionali o della normativa comunitaria oppure di pericolo grave per l'incolumita' e la sicurezza pubblica, ovvero quando lo richiedono la tutela dell'unita' giuridica o dell'unita' economica e in particolare la tutela dei livelli essenziali delle prestazioni concernenti i diritti civili e sociali, prescindendo dai confini territoriali dei governi locali. La legge definisce le procedure atte a garantire che i poteri sostitutivi siano esercitati nel rispetto del principio di sussidiarieta' e del principio di leale collaborazione».
 
-#### Art. 8 - Astensione dal lavoro
+### Art. 8 - Astensione dal lavoro
 
 1\. I donatori di sangue e di emocomponenti con rapporto di lavoro dipendente, ovvero interessati dalle tipologie contrattuali di cui al decreto legislativo 10 settembre 2003, n. 276, hanno diritto ad astenersi dal lavoro per l'intera giornata in cui effettuano la donazione, conservando la normale retribuzione per l'intera giornata lavorativa. I relativi contributi previdenziali sono accreditati ai sensi dell'articolo 8 della legge 23 aprile 1981, n. 155.
 
@@ -270,13 +268,13 @@ c) viene promossa la individuazione da parte delle regioni, in base alla propria
 
 > Le disposizioni di cui al presente articolo si applicano anche per il trasferimento dei contributi figurativi ad altri enti previdenziali per richieste presentate dai lavoratori dopo l'entrata in vigore della presente legge.».
 
-#### Art. 9 - Disposizioni in materia fiscale
+### Art. 9 - Disposizioni in materia fiscale
 
 1\. Non sono soggetti ad imposizione tributaria le attivita' e gli atti che le associazioni di donatori volontari di sangue e le relative federazioni di cui all'articolo 7 svolgono in adempimento delle finalita' della presente legge e per gli scopi associativi.
 
 ## Capo IV. - PROGRAMMAZIONE DELLE ATTIVITA' TRASFUSIONALI
 
-#### Art. 10 - Competenze del Ministero della salute
+### Art. 10 - Competenze del Ministero della salute
 
 1\. Il Ministero della salute svolge funzioni di indirizzo e programmazione del settore trasfusionale. Per le funzioni di coordinamento e controllo esso si avvale del Centro nazionale sangue di cui all'articolo 12.
 
@@ -336,7 +334,7 @@ Il D.L. 30 dicembre 2008, n. 207, convertito con modificazioni dalla L. 27/2/200
 
 dicembre 2009."
 
-#### Art. 11
+### Art. 11
 
 (Principi generali sulla programmazione
 
@@ -398,7 +396,7 @@ i) viene promosso, per un migliore raggiungimento dell'autosufficienza, l'avvio 
 
 ## Capo V. - MISURE PER IL COORDINAMENTO
 
-#### Art. 12 - Compiti del Centro nazionale sangue
+### Art. 12 - Compiti del Centro nazionale sangue
 
 1\. Il Ministro della salute, entro sei mesi dalla data di entrata in vigore della presente legge, provvede con proprio decreto, adottato sentita la Consulta e previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, all'istituzione, presso l'Istituto superiore di sanita', di una apposita struttura, denominata Centro nazionale sangue, finalizzata al raggiungimento degli obiettivi di autosufficienza nazionale ed al supporto per il coordinamento delle attivita' trasfusionali sul territorio nazionale.
 
@@ -464,7 +462,7 @@ aa) promuove la donazione di sangue e la ricerca ad essa connessa.
 
 6\. Al Centro nazionale sangue e' assegnato un contributo annuo di 2.500.000 euro annui a decorrere dall'anno 2005 per lo svolgimento dei compiti ad esso attribuiti dalla presente legge, compresa la promozione di attivita' di ricerca a livello nazionale.
 
-#### Art. 13 - Consulta tecnica permanente per il sistema trasfusionale
+### Art. 13 - Consulta tecnica permanente per il sistema trasfusionale
 
 1\. E' istituita la Consulta tecnica permanente per il sistema trasfusionale. La Consulta e' composta dai responsabili delle strutture di coordinamento intraregionale ed interregionale di cui all'articolo 6, comma 1, lettera c), da quattro rappresentanti delle associazioni e federazioni dei donatori volontari di sangue piu' rappresentative a livello nazionale, da due rappresentanti delle associazioni pazienti emopatici e politrasfusi, da quattro rappresentanti delle societa' scientifiche del settore. Alle riunioni della Consulta partecipa il Comitato direttivo del Centro nazionale sangue di cui all'articolo 12. ((10))
 
@@ -482,7 +480,7 @@ Il D.P.R. 28 marzo 2013, n. 44 ha disposto (con l'art. 2, comma 1, lettera b)) c
 
 ## Capo VI. - MISURE PER L'AUTOSUFFICIENZA NAZIONALE
 
-#### Art. 14 - Programma annuale per l'autosufficienza nazionale
+### Art. 14 - Programma annuale per l'autosufficienza nazionale
 
 1\. L'autosufficienza del sangue e dei suoi derivati costituisce un obiettivo nazionale finalizzato a garantire a tutti i cittadini uguali condizioni di qualita' e sicurezza della terapia trasfusionale. La presente legge, riconoscendo la funzione sovraregionale e sovraziendale dell'autosufficienza, individua specifici meccanismi di programmazione, organizzazione e finanziamento del sistema trasfusionale nazionale.
 
@@ -492,7 +490,7 @@ Il D.P.R. 28 marzo 2013, n. 44 ha disposto (con l'art. 2, comma 1, lettera b)) c
 
 4\. Le determinazioni della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano sono aggiornate annualmente con la medesima procedura prevista al comma 3.
 
-#### Art. 15 - Produzione di medicinali emoderivati da plasma nazionale
+### Art. 15 - Produzione di medicinali emoderivati da plasma nazionale
 
 1\. I medicinali emoderivati prodotti dal plasma raccolto dai servizi trasfusionali italiani, proveniente esclusivamente dalla donazione volontaria, periodica, responsabile, anonima e gratuita del sangue umano e dei suoi componenti, sono destinati al soddisfacimento del fabbisogno nazionale e, nell'ottica della piena valorizzazione del gesto del dono del sangue e dei suoi componenti, sono utilizzati prioritariamente rispetto agli equivalenti commerciali, tenendo conto della continuita' terapeutica di specifiche categorie di assistiti.
 
@@ -518,7 +516,7 @@ Il D.P.R. 28 marzo 2013, n. 44 ha disposto (con l'art. 2, comma 1, lettera b)) c
 
 12\. Nelle more dell'adozione dei decreti di cui ai commi 2, 4 e 5 in attuazione di quanto previsto dal presente articolo, continuano a trovare applicazione le convenzioni stipulate prima della data di entrata in vigore del presente articolo e sono stipulate nuove convenzioni, ove necessario per garantire la continuita' delle prestazioni assistenziali.
 
-#### Art. 16 - Importazione ed esportazione
+### Art. 16 - Importazione ed esportazione
 
 1\. L'importazione, l'esportazione del sangue e dei suoi prodotti per uso terapeutico, profilattico e diagnostico e la lavorazione del plasma per conto terzi affidata da committenti esteri, sono autorizzate dal Ministero della salute secondo le modalita' stabilite con apposito decreto da emanare entro sei mesi dalla data di entrata in vigore della presente legge, sentita la Consulta. Tale previsione non si applica al sangue ed agli emocomponenti ad uso autologo (( , agli intermedi destinati alla produzione di emoderivati individuati con decreto del Ministro della salute su proposta dell'AIFA )) ed alla esportazione di emoderivati pronti per l'impiego ottenuti da plasma regolarmente importato, a condizione che gli stessi risultino autorizzati alla commercializzazione nei Paesi destinatari.
 
@@ -530,13 +528,13 @@ L'eccedenza nazionale di sangue e dei suoi derivati puo' essere esportata o per 
 
 4\. L'importazione e l'esportazione di cellule staminali emopoietiche per uso di trapianto e' regolata dalla normativa vigente in materia di trapianti.
 
-#### Art. 17 - Razionalizzazione dei consumi
+### Art. 17 - Razionalizzazione dei consumi
 
 1\. La presente legge promuove la diffusione delle pratiche del buon uso del sangue e delle cellule staminali da sangue cordonale e dell'autotrasfusione sotto forma di predeposito e recupero perioperatorio, sia nelle strutture sanitarie pubbliche, sia, tramite apposite convenzioni con il servizio trasfusionale di riferimento, nelle strutture sanitarie private accreditate e non accreditate.
 
 2\. A tale fine, presso le aziende sanitarie e' istituito, senza nuovi o maggiori oneri per la finanza pubblica, il comitato ospedaliero per il buon uso del sangue e delle cellule staminali da sangue cordonale, con il compito di effettuare programmi di controllo sulla utilizzazione del sangue e dei suoi prodotti e di monitoraggio delle richieste trasfusionali.
 
-#### Art. 18 - Sistema informativo dei servizi trasfusionali
+### Art. 18 - Sistema informativo dei servizi trasfusionali
 
 1\. E' istituito il sistema informativo dei servizi trasfusionali all'interno del sistema informativo sanitario nazionale.
 
@@ -550,11 +548,11 @@ L'eccedenza nazionale di sangue e dei suoi derivati puo' essere esportata o per 
 
 ## Capo VII. - AUTORIZZAZIONE E ACCREDITAMENTO DELLE STRUTTURE TRASFUSIONALI
 
-#### Art. 19 - Requisiti minimi organizzativi, tecnologici e strutturali
+### Art. 19 - Requisiti minimi organizzativi, tecnologici e strutturali
 
 1\. Con accordo tra Governo, regioni e province autonome sancito dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, entro sei mesi dalla data di entrata in vigore della presente legge, sono definiti i requisiti minimi organizzativi, strutturali e tecnologici delle strutture trasfusionali. Tali requisiti sono periodicamente aggiornati in relazione all'evoluzione delle esigenze organizzative ed al progresso scientifico e tecnologico del settore.
 
-#### Art. 20 - Accreditamento delle strutture trasfusionali
+### Art. 20 - Accreditamento delle strutture trasfusionali
 
 1\. Le regioni, entro sei mesi dalla data di pubblicazione dell'accordo di cui all'articolo 19, definiscono i requisiti per l'accreditamento delle medesime strutture, nonche' le procedure per la richiesta, la verifica dei requisiti previsti e la concessione dell'accreditamento delle strutture trasfusionali, nel rispetto delle normative nazionali e comunitarie in materia e tenendo conto delle linee guida fornite dal Centro nazionale sangue di cui all'articolo 12.
 
@@ -568,7 +566,7 @@ L'eccedenza nazionale di sangue e dei suoi derivati puo' essere esportata o per 
 
 ## Capo VIII. - NORME PER LA QUALITA' E SICUREZZA DEL SANGUE E DEI SUOI PRODOTTI
 
-#### Art. 21 - Disposizioni relative alla qualita' e sicurezza del sangue e dei suoi prodotti
+### Art. 21 - Disposizioni relative alla qualita' e sicurezza del sangue e dei suoi prodotti
 
 1\. Le direttive relative alla qualita' e sicurezza del sangue e dei suoi prodotti sono emanate, sentita la Consulta e previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, dal Ministro della salute con apposito decreto da adottare entro sei mesi dalla data di entrata in vigore della presente legge ed aggiornate periodicamente dal Centro nazionale sangue di cui all'articolo 12 in relazione al progresso scientifico e tecnologico.
 
@@ -606,7 +604,7 @@ i) alle procedure e ai test di laboratorio relativi alla distribuzione.
 
 ## Capo IX. - SANZIONI
 
-#### Art. 22 - Sanzioni
+### Art. 22 - Sanzioni
 
 1\. (( COMMA ABROGATO DAL D.LGS. 20 DICEMBRE 2007, N. 261 )).
 
@@ -620,7 +618,7 @@ i) alle procedure e ai test di laboratorio relativi alla distribuzione.
 
 ## Capo X. - DISPOSIZIONI TRANSITORIE E FINALI
 
-#### Art. 23 - Strutture equiparate
+### Art. 23 - Strutture equiparate
 
 1\. Le disposizioni della presente legge si applicano anche alle strutture trasfusionali degli istituti e delle cliniche universitarie, degli istituti ed enti ecclesiastici classificati che esercitano l'assistenza ospedaliera, dell'ospedale Galliera di Genova, degli ospedali dell'Ordine Mauriziano di Torino, degli istituti di ricovero e cura a carattere scientifico e al servizio trasfusionale militare.
 
@@ -632,15 +630,15 @@ i) alle procedure e ai test di laboratorio relativi alla distribuzione.
 
 > \- Il decreto del Presidente della Repubblica 20 dicembre 1979, n. 761, e successive modificazioni, concerne: «Stato giuridico del personale delle unita' sanitarie locali».
 
-#### Art. 24
+### Art. 24
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-#### Art. 25 - Relazione al Parlamento
+### Art. 25 - Relazione al Parlamento
 
 1\. Il Ministro della salute riferisce al Parlamento, entro dodici mesi dalla data di entrata in vigore della presente legge, sullo stato di attuazione della legge stessa e, annualmente, sullo stato dell'organizzazione del sistema trasfusionale nazionale.
 
-#### Art. 26 - Copertura finanziaria
+### Art. 26 - Copertura finanziaria
 
 1\. Agli oneri derivanti dall'attuazione della presente legge, valutati in 10.168.000 euro per l'anno 2005, 8.260.000 euro per l'anno 2006 e 6.194.000 euro annui a decorrere dall'anno 2007, ivi comprese le minori entrate derivanti dall'articolo 9, valutate in 20.000 euro annui a decorrere dall'anno 2005, si provvede, quanto a 7.242.000 euro per l'anno 2005 ed a 2.066.000 euro per l'anno 2006, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 56, comma 1, della legge 27 dicembre 2002, n. 289, e quanto a 2.926.000 euro per l'anno 2005, e a 6.194.000 euro annui a decorrere dall'anno 2006, mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2005-2007, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2005, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero della salute. Conseguentemente, all'articolo 56, comma 1, della citata legge 27 dicembre 2002, n. 289, le parole: "100 milioni di euro a decorrere dall'anno 2004" sono sostituite dalle seguenti: "100 milioni di euro per l'anno 2004, 92,758 milioni di euro per l'anno 2005, 97,934 milioni di euro per l'anno 2006 e 100 milioni di euro a decorrere dall'anno 2007".
 
@@ -654,7 +652,7 @@ i) alle procedure e ai test di laboratorio relativi alla distribuzione.
 
 > «Art. 56 (Fondo per progetti di ricerca). - 1. E' istituito un fondo finalizzato al finanziamento di progetti di ricerca, di rilevante valore scientifico, anche con riguardo alla tutela della salute e all'innovazione tecnologica, con una dotazione finanziaria di 225 milioni di euro per l'anno 2003 e di 100 milioni di euro a decorrere dall'anno 2004. Alla ripartizione del fondo, istituito nello stato di previsione del Ministero dell'economia e delle finanze, tra le diverse finalita' provvede il Presidente del Consiglio dei Ministri, con proprio decreto, su proposta del Ministro dell'istruzione, dell'universita' e della ricerca, sentiti i Ministri dell'economia e delle finanze, della salute e per l'innovazione tecnologica. Con lo stesso decreto sono stabiliti procedure, modalita' e strumenti per l'utilizzo delle risorse, assicurando in via prioritaria il finanziamento dei progetti presentati da soggetti che abbiano ottenuto, negli anni precedenti, un eccellente risultato nell'utilizzo e nella capacita' di spesa delle risorse comunitarie assegnate e delle risorse finanziarie provenienti dai programmi quadro di ricerca dell'Unione europea o dai Fondi strutturali».
 
-#### Art. 27 - Abrogazioni
+### Art. 27 - Abrogazioni
 
 1\. E' abrogata la legge 4 maggio 1990, n. 107, ad eccezione dell'articolo 23.
 
@@ -674,7 +672,7 @@ i) alle procedure e ai test di laboratorio relativi alla distribuzione.
 
 > 3\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 28
+### Art. 28
 
 (Disposizioni per le regioni a statuto speciale
 
@@ -694,7 +692,7 @@ Visto, il Guardasigilli: Castelli
 
 ## Capo X. - DISPOSIZIONI TRANSITORIE E FINALI
 
-#### Allegato 1
+### Allegato 1
 
 Allegato 1
 

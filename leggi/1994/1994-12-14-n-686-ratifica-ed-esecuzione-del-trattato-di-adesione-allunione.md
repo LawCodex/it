@@ -303,11 +303,9 @@ derogatorie previste dal presente atto.
 
 ## PARTE SECONDA - ADATTAMENTI DEI TRATTATI
 
-### TITOLO I
+### TITOLO I - DISPOSIZIONI ISTITUZIONALI
 
-#### DISPOSIZIONI ISTITUZIONALI
-
-##### CAPO 1 - Il Parlamento europeo
+#### CAPO 1 - Il Parlamento europeo
 
 ###### Articolo 11
 
@@ -351,7 +349,7 @@ Svezia 22
 
 Regno Unito 87"
 
-## CAPO 2 - Il Consiglio
+#### CAPO 2 - Il Consiglio
 
 ###### Articolo 12
 
@@ -517,7 +515,7 @@ seguente:
 
 "In deroga all'articolo 148, paragrafo 2 del trattato, gli atti del Consiglio che ai sensi del presente protocollo devono essere adottati a maggioranza qualificata sono adottati se hanno ottenuto almeno 54 voti favorevoli."
 
-## CAPO 3 - La Commissione
+#### CAPO 3 - La Commissione
 
 ###### Articolo 16
 
@@ -527,7 +525,7 @@ Il primo comma del paragrafo 1 dell'articolo 9 del trattato CECA, il primo comma
 
 competenza generale e che offrano ogni garanzia di indipendenza."
 
-## CAPO 4 - La Corte di giustizia
+#### CAPO 4 - La Corte di giustizia
 
 ###### Articolo 17
 
@@ -583,7 +581,7 @@ Ogni tre anni si procede a un rinnovamento parziale degli avvocati
 
 generali. Esso riguarda ogni volta quattro avvocati generali."
 
-## CAPO 5 - La Corte dei conti
+#### CAPO 5 - La Corte dei conti
 
 ###### Articolo 22
 
@@ -593,7 +591,7 @@ B del trattato CEEA sono sostituiti dal seguente:
 
 "1. La Corte dei conti e' composta di 16 membri."
 
-## CAPO 6 - Il Comitato economico e sociale
+#### CAPO 6 - Il Comitato economico e sociale
 
 ###### Articolo 23
 
@@ -637,7 +635,7 @@ Svezia 12
 
 Regno Unito 24"
 
-## CAPO 7 - Il Comitato delle Regioni
+#### CAPO 7 - Il Comitato delle Regioni
 
 ###### Articolo 24
 
@@ -681,7 +679,7 @@ Svezia 12
 
 Regno Unito 24"
 
-## CAPO 8 - Il Comitato consultivo CECA
+#### CAPO 8 - Il Comitato consultivo CECA
 
 ###### Articolo 25
 
@@ -691,7 +689,7 @@ Il primo comma dell'articolo 18 del trattato CECA e' sostituito dal seguente:
 
 commercianti.".
 
-## CAPO 9 - Il Comitato scientifico e tecnico
+#### CAPO 9 - Il Comitato scientifico e tecnico
 
 ###### Articolo 26
 
@@ -703,7 +701,7 @@ sostituito dal seguente:
 
 previa consultazione della Commissione."
 
-## TITOLO II - ALTRI ADATTAMENTI
+### TITOLO II - ALTRI ADATTAMENTI
 
 ###### Articolo 27
 
@@ -735,9 +733,7 @@ Gli adattamenti degli atti elencati nell'allegato II del presente atto, resi nec
 
 ## PARTE QUARTA - MISURE TRANSITORIE
 
-### TITOLO I
-
-#### DISPOSIZIONI ISTITUZIONALI
+### TITOLO I - DISPOSIZIONI ISTITUZIONALI
 
 ###### Articolo 31
 
@@ -753,11 +749,9 @@ protocollo n. 8 allegato al presente atto.
 
 Stati membri attuali per il quinquennio 1994-1999.
 
-## TITOLO II - MISURE TRANSITORIE RELATIVE ALLA NORVEGIA
+### TITOLO II - MISURE TRANSITORIE RELATIVE ALLA NORVEGIA
 
-### CAPO 1
-
-#### Libera circolazione delle merci
+#### CAPO 1 - Libera circolazione delle merci
 
 ##### Sezione I - Norme e ambiente
 
@@ -773,7 +767,7 @@ Senza pregiudizio del risultato di tale revisione, alla fine del periodo transit
 
 negli Stati membri attuali.
 
-## Sezione II - Varie
+##### Sezione II - Varie
 
 ###### Articolo 33
 
@@ -785,7 +779,7 @@ Durante tale periodo la direttiva 68/89/CEE sara' riveduta,
 
 conformemente alle procedure stabilite nel trattato CE.
 
-## CAPO 2 - Libera circolazione delle persone, dei servizi e dei capitali
+#### CAPO 2 - Libera circolazione delle persone, dei servizi e dei capitali
 
 ###### Articolo 34
 
@@ -797,11 +791,9 @@ cinque anni dalla data di adesione.
 
 Durante un periodo di tre anni a decorrere dalla data di adesione, il Regno di Norvegia puo' continuare ad applicare restrizioni in materia di proprieta' di pescherecci della Norvegia da parte di persone non aventi cittadinanza norvegese.
 
-## CAPO 3 - Pesca
+#### CAPO 3 - Pesca
 
-### Sezione I
-
-#### Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### Articolo 36
 
@@ -811,7 +803,7 @@ pesca.
 
 2\. Gli articoli 148 e 149 si applicano ai prodotti della pesca.
 
-## Sezione II - Accesso alle acque e alle risorse
+##### Sezione II - Accesso alle acque e alle risorse
 
 ###### Articolo 37
 
@@ -819,7 +811,7 @@ Fatte salve disposizioni diverse previste dal presente Capo, il regime di access
 
 della pesca e dell'acquacoltura.
 
-## Sottosezione I - Pescherecci della Norvegia
+**Sottosezione I - Pescherecci della Norvegia**
 
 ###### Articolo 38
 
@@ -947,7 +939,7 @@ raggiunti immediatamente prima della data di entrata in vigore del
 
 trattato di adesione.
 
-## Sottosezione II - Pescherecci dell'Unione nella sua composizione attuale
+**Sottosezione II - Pescherecci dell'Unione nella sua composizione attuale**
 
 ###### Articolo 45
 
@@ -985,7 +977,7 @@ Parte di provvedimento in formato grafico
 
 vigore del trattato di adesione.
 
-## Sottosezione III - Altre disposizioni
+**Sottosezione III - Altre disposizioni**
 
 ###### Articolo 48
 
@@ -1039,7 +1031,7 @@ Prima dello scadere di tali periodi transitori il Consiglio decide, secondo la p
 
 esistenti.
 
-## Sezione III - Risorse esterne
+##### Sezione III - Risorse esterne
 
 ###### Articolo 52
 
@@ -1063,7 +1055,7 @@ adesione, dette possibilita' saranno mantenute in base ai principi
 
 comunitari, tra cui quello della stabilita' relativa.
 
-## Sezione IV - Regime applicabile agli scambi
+##### Sezione IV - Regime applicabile agli scambi
 
 ###### Articolo 53
 
@@ -1085,7 +1077,7 @@ della Commissione, adotta, anteriormente al 31 dicembre 1994, la
 
 procedura per l'applicazione del presente articolo.
 
-## CAPO 4 - Relazioni esterne, ivi compresa l'unione, doganale
+#### CAPO 4 - Relazioni esterne, ivi compresa l'unione, doganale
 
 ###### Articolo 54
 
@@ -1185,7 +1177,7 @@ Qualora i nuovi accordi commerciali che saranno conclusi tra la Comunita' e l'Es
 
 baltici al mercato norvegese.
 
-## CAPO 5 - Disposizioni finanziarie e di bilancio
+#### CAPO 5 - Disposizioni finanziarie e di bilancio
 
 ###### Articolo 63
 
@@ -1225,11 +1217,9 @@ La quota di partecipazione del Regno di Norvegia al finanziamento del meccanismo
 
 Comunita' europee.
 
-## TITOLO III - MISURE TRANSITORIE RELATIVE ALL'AUSTRIA
+### TITOLO III - MISURE TRANSITORIE RELATIVE ALL'AUSTRIA
 
-### CAPO 1
-
-#### Libera circolazione delle merci
+#### CAPO 1 - Libera circolazione delle merci
 
 ##### Sezione unica - Norme e ambiente
 
@@ -1245,7 +1235,7 @@ Senza pregiudizio del risultato di tale revisione, alla fine del periodo transit
 
 negli Stati membri attuali.
 
-## CAPO 2 - Libera circolazione delle persone, dei servizi e dei capitali
+#### CAPO 2 - Libera circolazione delle persone, dei servizi e dei capitali
 
 ###### Articolo 70
 
@@ -1255,7 +1245,7 @@ legislazione relativa alle residenze secondarie per un periodo di
 
 cinque anni dalla data di adesione.
 
-## CAPO 3 - Politica della concorrenza
+#### CAPO 3 - Politica della concorrenza
 
 ###### Articolo 71
 
@@ -1279,7 +1269,7 @@ Fino al 1 gennaio 1996 la Repubblica d'Austria puo' mantenere, verso gli altri S
 
 discriminatorio.
 
-## CAPO 4 - Relazioni esterne, ivi compresa l'unione doganale
+#### CAPO 4 - Relazioni esterne, ivi compresa l'unione doganale
 
 ###### Articolo 73
 
@@ -1343,7 +1333,7 @@ La Repubblica d'Austria si ritira, con effetto al 1 gennaio 1995, tra l'altro, d
 
 libero scambio, firmata il 4 gennaio 1960.
 
-## CAPO 5 - Disposizioni finanziarie e di bilancio
+#### CAPO 5 - Disposizioni finanziarie e di bilancio
 
 ###### Articolo 79
 
@@ -1379,11 +1369,9 @@ La quota di partecipazione della Repubblica d'Austria al finanziamento del mecca
 
 generale delle Comunita' europee.
 
-## TITOLO IV - MISURE TRANSITORIE RELATIVE ALLA FINLANDIA
+### TITOLO IV - MISURE TRANSITORIE RELATIVE ALLA FINLANDIA
 
-### CAPO 1
-
-#### Libera circolazione delle merci
+#### CAPO 1 - Libera circolazione delle merci
 
 ##### Sezione 1 - Norme e ambiente
 
@@ -1399,7 +1387,7 @@ Senza pregiudizio del risultato di tale revisione, alla fine del periodo transit
 
 negli Stati membri attuali.
 
-## Sezione 2 - Varie
+##### Sezione 2 - Varie
 
 ###### Articolo 85
 
@@ -1413,7 +1401,7 @@ Durante tale periodo la direttiva 68/89/CEE sara' riveduta,
 
 conformemente alle procedure stabilite nel trattato CE.
 
-## CAPO 2 - Libera circolazione delle persone, dei servizi e dei capitali
+#### CAPO 2 - Libera circolazione delle persone, dei servizi e dei capitali
 
 ###### Articolo 86
 
@@ -1425,11 +1413,9 @@ In deroga all'obbligo sancito dai trattati sui quali si fonda l'Unione europea, 
 
 cinque anni dalla data di adesione.
 
-## CAPO 3 - Pesca
+#### CAPO 3 - Pesca
 
-### Sezione I
-
-#### Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### Articolo 88
 
@@ -1441,7 +1427,7 @@ pesca.
 
 2\. Gli articoli 148 e 149 si applicano ai prodotti della pesca.
 
-## Sezione II - Accesso alle acque e alle risorse
+##### Sezione II - Accesso alle acque e alle risorse
 
 ###### Articolo 89
 
@@ -1451,7 +1437,7 @@ dicembre 1992, che istituisce un regime comunitario della pesca e
 
 dell'acquacoltura.
 
-## Sottosezione I - Pescherecci della Finlandia
+**Sottosezione I - Pescherecci della Finlandia**
 
 ###### Articolo 90
 
@@ -1499,7 +1485,7 @@ superiori a quelli raggiunti immediatamente prima dell'entrata in
 
 vigore del trattato di adesione.
 
-## Sottosezione II - Pescherecci dell'Unione nella sua composizione attuale
+**Sottosezione II - Pescherecci dell'Unione nella sua composizione attuale**
 
 ###### Articolo 95
 
@@ -1513,7 +1499,7 @@ anteriormente al 1 gennaio 1995, secondo la procedura di cui
 
 all'articolo 18 del regolamento (CEE) n. 3760/92.
 
-## Sezione III - Risorse esterne
+##### Sezione III - Risorse esterne
 
 ###### Articolo 96
 
@@ -1529,7 +1515,7 @@ provvisoriamente mantenute.
 
 taluni accordi per periodi di un anno al massimo.
 
-## CAPO 4 - Relazioni esterne, ivi compresa l'unione doganale
+#### CAPO 4 - Relazioni esterne, ivi compresa l'unione doganale
 
 ###### Articolo 97
 
@@ -1629,7 +1615,7 @@ Qualora i nuovi accordi commerciali che saranno conclusi tra la Comunita' e l'Es
 
 baltici al mercato finlandese.
 
-## CAPO 5 - Disposizioni finanziarie e di bilancio
+#### CAPO 5 - Disposizioni finanziarie e di bilancio
 
 ###### Articolo 106
 
@@ -1671,11 +1657,9 @@ La quota di partecipazione della Repubblica di Finlandia al finanziamento del me
 
 generale delle Comunita' europee.
 
-## TITOLO V - MISURE TRANSITORIE RELATIVE ALLA SVEZIA
+### TITOLO V - MISURE TRANSITORIE RELATIVE ALLA SVEZIA
 
-### CAPO 1
-
-#### Libera circolazione delle merci
+#### CAPO 1 - Libera circolazione delle merci
 
 ##### Sezione 1 - Norme e ambiente
 
@@ -1695,7 +1679,7 @@ Senza pregiudizio del risultato di tale revisione, alla fine del periodo transit
 
 negli Stati membri attuali.
 
-## Sezione 2 - Varie
+##### Sezione 2 - Varie
 
 ###### Articolo 113
 
@@ -1709,7 +1693,7 @@ Durante tale periodo la direttiva 68/89/CEE sara' riveduta,
 
 conformemente alle procedure stabilite nel trattato CE.
 
-## CAPO 2 - Libera circolazione delle persone, dei servizi e dei capitali
+#### CAPO 2 - Libera circolazione delle persone, dei servizi e dei capitali
 
 ###### Articolo 114
 
@@ -1719,11 +1703,9 @@ legislazione relativa alle residenze secondarie per un periodo di
 
 cinque anni dalla data di adesione.
 
-## CAPO 3 - Pesca
+#### CAPO 3 - Pesca
 
-### Sezione I
-
-#### Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### Articolo 115
 
@@ -1733,7 +1715,7 @@ contenute nel presente atto si applicano al settore della pesca.
 
 2\. Gli articoli 148 e 149 si applicano ai prodotti della pesca.
 
-## Sezione II - Accesso alle acque e alle risorse
+##### Sezione II - Accesso alle acque e alle risorse
 
 ###### Articolo 116
 
@@ -1743,7 +1725,7 @@ dicembre 1992, che istituisce un regime comunitario della pesca e
 
 dell'acquacoltura.
 
-## Sottosezione I - Pescherecci della Svezia
+**Sottosezione I - Pescherecci della Svezia**
 
 ###### Articolo 117
 
@@ -1801,7 +1783,7 @@ dell'entrata in vigore del trattato di adesione.
 
 regolamento (CEE) n. 3760/92.
 
-## Sottosezione II - Pescherecci dell'Unione nella sua composizione attuale
+**Sottosezione II - Pescherecci dell'Unione nella sua composizione attuale**
 
 ###### Articolo 123
 
@@ -1811,7 +1793,7 @@ Le modalita' di applicazione del presente articolo sono adottate anteriormente a
 
 all'articolo 18 del regolamento (CEE) n. 3760/92.
 
-## Sezione III - Risorse esterne
+##### Sezione III - Risorse esterne
 
 ###### Articolo 124
 
@@ -1833,7 +1815,7 @@ Tale compensazione finanziaria sara' valutata alla luce degli equilibri tra le p
 
 dell'adesione.
 
-## CAPO 4 - Relazioni esterne, ivi compresa l'Unione doganale
+#### CAPO 4 - Relazioni esterne, ivi compresa l'Unione doganale
 
 ###### Articolo 126
 
@@ -1895,7 +1877,7 @@ Qualora i nuovi accordi commerciali che saranno conclusi tra la Comunita' e l'Es
 
 baltici al mercato svedese.
 
-## CAPO 5 - Disposizioni finanziarie e di bilancio
+#### CAPO 5 - Disposizioni finanziarie e di bilancio
 
 ###### Articolo 132
 
@@ -1935,7 +1917,7 @@ La quota di partecipazione del Regno di Svezia al finanziamento del meccanismo f
 
 Comunita' europee.
 
-## TITOLO VI - AGRICOLTURA
+### TITOLO VI - AGRICOLTURA
 
 ###### Articolo 137
 
@@ -1951,7 +1933,7 @@ equivalente si applica, ai nuovi Stati membri;
 
 3\. Fatte salve disposizioni speciali del presente titolo che prevedano date o termini diversi, l'applicazione di misure transitorie per i prodotti agricoli di cui al paragrafo 1 si conclude alla fine del quinto anno successivo all'adesione per l'Austria, la Finlandia e la Norvegia. Tali misure devono comunque tenere integralmente conto, per ogni prodotto, della produzione complessiva durante l'anno 1999.
 
-## CAPO I - Disposizioni relative agli aiuti nazionali
+#### CAPO I - Disposizioni relative agli aiuti nazionali
 
 ###### Articolo 138
 
@@ -2105,7 +2087,7 @@ b) gli aiuti esistenti ed i progetti destinati a istituire o a modificare gli ai
 
 dell'adesione, si ritengono comunicati alla data dell'adesione.
 
-## CAPO II - Altre disposizioni
+#### CAPO II - Altre disposizioni
 
 ###### Articolo 145
 
@@ -2175,7 +2157,7 @@ Esse possono altresi' prevedere che, a determinate condizioni, un aiuto nazional
 
 secondo la procedura di cui all'articolo 149, paragrafo 1.
 
-## TITOLO VII - ALTRE DISPOSIZIONI
+### TITOLO VII - ALTRE DISPOSIZIONI
 
 ###### Articolo 151
 
@@ -2213,9 +2195,7 @@ Al fine di non ostacolare il buon funzionamento del mercato interno, l'applicazi
 
 ## PARTE QUINTA - DISPOSIZIONI DI APPLICAZIONE DEL PRESENTE ATTO
 
-### TITOLO 1
-
-#### INSEDIAMENTO DELLE ISTITUZIONI E DEGLI ORGANI
+### TITOLO 1 - INSEDIAMENTO DELLE ISTITUZIONI E DEGLI ORGANI
 
 ###### Articolo 154
 
@@ -2309,7 +2289,7 @@ carica al momento dell'adesione.
 
 rinnovati immediatamente dopo l'adesione.
 
-## TITOLO II - APPLICABILITA' DEGLI ATTI DELLE ISTITUZIONI
+### TITOLO II - APPLICABILITA' DEGLI ATTI DELLE ISTITUZIONI
 
 ###### Articolo 166
 
@@ -2379,7 +2359,7 @@ Le disposizioni legislative, regolamentari e amministrative destinate ad assicur
 
 entro tre mesi dall'adesione.
 
-## TITOLO III - DISPOSIZIONI FINALI
+### TITOLO III - DISPOSIZIONI FINALI
 
 ###### Articolo 174
 
@@ -18693,7 +18673,7 @@ Per quanto riguarda i rappresentanti eletti a norma del presente protocollo a de
 
 la Corte di giustizia avra' gli stessi poteri di cui disporrebbe se a dette elezioni si procedesse a norma dell'articolo 31, paragrafo 1 dell'atto di adesione.
 
-## CAPO I - DISPOSIZIONI GENERALI
+#### CAPO I - DISPOSIZIONI GENERALI
 
 Allegato
 
@@ -18765,7 +18745,7 @@ Qualora i cittadini dello Stato aderente di residenza debbano risiedere da un pe
 
 2\. Se netto Stato aderente di residenza il voto e' obbligatorio, tale obbligo si applica agli elettori comunitari che ne hanno espresso la volonta'.
 
-## CAPO II - ESERCIZIO DEL DIRITTO DI VOTO E DI ELEGGIBILITA'
+#### CAPO II - ESERCIZIO DEL DIRITTO DI VOTO E DI ELEGGIBILITA'
 
 ###### Articolo 8
 
@@ -18817,7 +18797,7 @@ Lo Stato aderente di residenza informa, nelle dovute forme e nei termini appropr
 
 Gli attuali Stati membri e lo Stato aderente si scambiano le informazioni necessarie a fini dell'attuazione dell'articolo 3.
 
-## CAPO III - DISPOSIZIONI DEROGATORIE E TRANSITORIE
+#### CAPO III - DISPOSIZIONI DEROGATORIE E TRANSITORIE
 
 ###### Articolo 13
 

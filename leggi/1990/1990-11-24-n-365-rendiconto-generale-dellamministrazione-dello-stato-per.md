@@ -27,7 +27,7 @@ la seguente legge:
 
 ## AMMINISTRAZIONI DELLO STATO
 
-### Art. 1 - Rendiconti
+## Art. 1 - Rendiconti
 
 1\. Il rendiconto generale delle Amministrazioni dello Stato e i rendiconti delle Aziende autonome per l'esercizio 1989 sono approvati nelle risultanze di cui ai seguenti articoli.
 
@@ -35,7 +35,7 @@ la seguente legge:
 
 > Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura della disposizioni di legge alla quale e' operato il rinvio della quale restano invariati il valore e l'efficacia:
 
-### Art. 2 - Entrate
+## Art. 2 - Entrate
 
 1\. Le entrate tributarie, extratributarie, per alienazione ed ammortamento di beni patrimoniali e riscossione di crediti, e per accensione di prestiti, accertate nell'esercizio finanziario 1989 per la competenza propria dell'esercizio, risultano stabilite in lire 460.299.299.604.882.
 
@@ -66,7 +66,7 @@ dell'esercizio
  =======================================
 ```
 
-### Art. 3 - Spese
+## Art. 3 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di prestiti, impegnate nell'esercizio finanziario 1989 per la competenza propria dell'esercizio, risultano stabilite in lire 516.378.238.868.860.
 
@@ -96,7 +96,7 @@ dell'esercizio
  ===================
 ```
 
-### Art. 4 - Disavanzo della gestione di competenza
+## Art. 4 - Disavanzo della gestione di competenza
 
 1\. Il disavanzo della gestione di competenza dell'esercizio finanziario 1989, di lire 56.078.939.263.978, risulta stabilito come segue:
 
@@ -129,7 +129,7 @@ Rimborso di prestiti..........L. 28.165.252.104.247
  Totale Spese......... L. 516.378.238.868.860 ______________________ Disavanzo della gestione di competenza...... L. 56.078.939.263.978 ======================
 ```
 
-### Art. 5 - Situazione finanziaria
+## Art. 5 - Situazione finanziaria
 
 1\. Il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 1989, di lire 545.421.114.111.738, risulta stabilito come segue:
 
@@ -181,7 +181,7 @@ Disavanzo finanziario al 31 dicembre 1989... L. 545.421.114.111.738
 
 ## DISPOSIZIONI SPECIALI
 
-### Art. 6 - Prelevamenti dal Fondo di riserva per le spese impreviste
+## Art. 6 - Prelevamenti dal Fondo di riserva per le spese impreviste
 
 1\. E' approvato l'allegato di cui all'articolo 9, ultimo comma, della legge 5 agosto 1978, n. 468, concernente i prelevamenti dal Fondo di riserva per le spese impreviste per l'anno 1989.
 
@@ -191,7 +191,7 @@ Disavanzo finanziario al 31 dicembre 1989... L. 545.421.114.111.738
 
 > "Alla legge di approvazione di rendiconto generale dello Stato e' allegato un elenco dei decreti di cui al secondo comma, con le indicazioni dei motivi per i quali si e' proceduto dal fondo di al presente articolo".
 
-### Art. 7 - Eccedenze
+## Art. 7 - Eccedenze
 
 1\. Sono approvate le eccedenze di impegni e di pagamenti risultate in sede di consuntivo rispettivamente sul conto della competenza, sul conto dei residui e sul conto della cassa, relative ai capitoli degli stati di previsione della spesa dei Ministri sotto indicati per l'esercizio 1989, come risulta dal dettaglio che segue:
 
@@ -821,13 +821,13 @@ singole gestioni
 
 239.160.230 - -
 
-### Art. 8 - Conservazione fondi
+## Art. 8 - Conservazione fondi
 
 1\. Le disponibilita' dei capitoli nn. 7550, 1585 e 8002 conservate nel conto dei residui passivi, rispettivamente della Presidenza del Consiglio dei ministri, del Ministero dell'interno e del Ministero della difesa per l'anno finanziario 1989, risultanti dall'attuazione del decreto-legge 13 luglio 1989, n. 253, concernente ulteriori interventi per Roma capitale della Repubblica, non impegnate alla chiusura dell'esercizio 1989, sono conservate nei predetti conti dei residui passivi per essere utilizzate nell'esercizio successivo.
 
 ## AZIENDE SPECIALI ED AUTONOME - GESTIONE DELL'EX AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### Art. 9 - Entrate
+## Art. 9 - Entrate
 
 1\. Le entrate correnti ed in conto capitale del bilancio dela gestione dell'ex Azienda di Stato per le foreste demaniali, accertate nell'esercizio finanziario 1989 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo della gestione stessa, allegato alconto consuntivo del Ministero dell'agricoltura e delle foreste, in lire 41.579.914.126.
 
@@ -856,7 +856,7 @@ dell'esercizio
  ==================================
 ```
 
-### Art. 10 - Spese
+## Art. 10 - Spese
 
 1\. Le spese correnti ed in conto capitale del bilancio della gestione predetta, impegnate nell'esercizio finanziario 1989 per la competenza propria dell'esercizio, risultano stabilite in lire 40.976.347.710
 
@@ -884,7 +884,7 @@ dell'esercizio
  ===============
 ```
 
-### Art. 11 - Situazione finanziaria
+## Art. 11 - Situazione finanziaria
 
 1\. La situazione finanziaria della gestione dell'ex Azienda di Stato per le foreste demaniali alla fine dell'esercizio 1989 risulta come appresso:
 
@@ -952,7 +952,7 @@ Saldo attivo al 31 dicembre 1989 L. 25.281.233.956
 
 ## ISTITUTO AGRONOMICO PER L'OLTREMARE
 
-### Art. 12 - Entrate
+## Art. 12 - Entrate
 
 1\. Le entrate correnti del bilancio dell'Istituto agronomico per l'Oltremare, accertate nell'esercizio finanziario 1989 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Istituto stesso, allegato al conto consuntivo del Ministero degli affari esteri, in lire 6.476.117.947 interamente versate.
 
@@ -972,7 +972,7 @@ Accertamenti 6.463.362.947 12.755.000 6.476.117.947 ____________
  ============
 ```
 
-### Art. 13 - Spese
+## Art. 13 - Spese
 
 1\. Le spese correnti del bilancio dell'Istituto predetto, impegnate nell'esercizio finanziario 1989 per la competenza dell'esercizio, risultano stabilite in lire 6.476.117.947.
 
@@ -1004,7 +1004,7 @@ dell'esercizio
 
 ## AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-### Art. 14 - Entrate
+## Art. 14 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione autonoma dei monopoli di Stato, comprese delle gestioni speciali, accertate nell'esercizio finanziario 1989 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero delle finanze, in lire 2.928.665.938.953.
 
@@ -1036,7 +1036,7 @@ dell'esercizio
 
 Totale 556.810.344.910
 
-### Art. 15 - Spese
+## Art. 15 - Spese
 
 1\. Le spese correnti ed in conto capitale e per rimborso di prestiti del bilancio dell'Amministrazione predetta, quelle delle gestioni speciali, impegante nell'esercizio 1989 per la competenza propria dell'esercizio, risultano stabilite in lire 2.928.665.938.953.
 
@@ -1064,7 +1064,7 @@ dell'esercizio
 
 1.568.840.357.567
 
-### Art. 16 - Riassunto generale
+## Art. 16 - Riassunto generale
 
 1\. Il riassunto generale dei risultati delle entrate e delle spese dell'Amministrazione autonoma dei monopoli di Stato, di competenza dell'esercizio 1989, risulta cosi' stabilito:
 
@@ -1086,7 +1086,7 @@ Spese delle gestioni speciali.............. " 99.470.646.796
  =======================
 ```
 
-### Art. 17 - Situazione finanziaria
+## Art. 17 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dell'esercizio 1989, risulta come appresso:
 
@@ -1114,7 +1114,7 @@ al 31 dicembre 1989 " 1.234.326.300.897
 
 ## ARCHIVI NOTARILI
 
-### Art. 18 - Avanzo
+## Art. 18 - Avanzo
 
 1\. L'avanzo della gestione del bilancio degli Archivi notarili, per l'esercizio finanziario 1989, risulta stabilito come segue:
 
@@ -1130,7 +1130,7 @@ Spese........................................... " 207.095.596.427
 
 ## FONDO EDIFICI DI CULTO
 
-### Art. 19 - Entrate
+## Art. 19 - Entrate
 
 1\. Le entrate correnti e in conto capitale del bilancio del Fondo edifici di culto, accertate nell'esercizio finanziario 1989 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero dell'interno, in lire 7.058.343.549.
 
@@ -1160,7 +1160,7 @@ Totale 725.975.711
 
 614.556.772
 
-### Art. 20 - Spese
+## Art. 20 - Spese
 
 1\. Le spese correnti ed in conto capitale del bilancio dell'Amministrazione predetta, impegnate nell'esercizio 1989 per la competenza propria dell'esercizio, risultano stabilite in lire 4.961.675.483.
 
@@ -1190,7 +1190,7 @@ dell'esercizio
  ================
 ```
 
-### Art. 21 - Situazione finanziaria
+## Art. 21 - Situazione finanziaria
 
 1\. La situazione finanziaria dell'Amministrazione del Fondo edifici di culto, alla fine dell'esercizio 1989, risulta come appresso:
 
@@ -1237,7 +1237,7 @@ Saldo attivo dell'esercizio 1988.................. " 1.281.094.593 _____________
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE
 
-### Art. 22 - Entrate
+## Art. 22 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Azienda nazionale autonoma delle strade, accertate nell'esercizio finanziario 1989 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Ministero dei lavori pubblici, in lire 4.092.919.275.
 
@@ -1263,7 +1263,7 @@ dell'esercizio
  ==================
 ```
 
-### Art. 23 - Spese
+## Art. 23 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Azienda predetta, impegnate nell'esercizio finanziario 1989 per la competenza propria dell'esercizio, risultano stabilite in lire 4.092.379.919.275.
 
@@ -1295,7 +1295,7 @@ dell'esercizio
 
 ## AMMINISTRAZIONE DELLE POSTE E DELLE TELECOMUNICAZIONI
 
-### Art. 24 - Entrate
+## Art. 24 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Amministrazione delle poste e delle telecomunicazioni, accertate nell'esercizio finanziario 1989 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Amministrazione stessa, allegato al conto consuntivo del Ministero delle poste e delle telecomunicazioni, in lire 13.043.717.468.256.
 
@@ -1323,7 +1323,7 @@ dell'esercizio
  ===================
 ```
 
-### Art. 25 - Spese
+## Art. 25 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Amministrazione predetta, impegnate nell'esercizio finanziario 1989 per la competenza propria dell'esercizio, risultano stabilite in lire 13.043.717.468.256.
 
@@ -1349,7 +1349,7 @@ dell'esercizio
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Art. 26 - Entrate
+## Art. 26 - Entrate
 
 1\. Le entrate correnti, in conto capitale e per accensione di prestiti del bilancio dell'Azienda di Stato per i servizi telefonici, accertate nell'esercizio finanziario 1989 per la competenza propria dell'esercizio, risultano stabilite dal conto consuntivo dell'Azienda stessa, allegato al conto consuntivo del Minstero delle poste e delle telecomunicazioni, in lire 4.551.677.796.556.
 
@@ -1376,7 +1376,7 @@ dell'esercizio
  ====================================
 ```
 
-### Art. 27 - Spese
+## Art. 27 - Spese
 
 1\. Le spese correnti, in conto capitale e per rimborso di prestiti del bilancio dell'Azienda predetta, impegnate nell'esercizio finanziario 1989 pr la competenza propria dell'esercizio, risultano stabilite in lire 4.551.677.796.556.
 
@@ -1408,7 +1408,7 @@ COSSIGA ANDREOTTI, Presidente del Consiglio dei Ministri CARLI, Ministro del tes
 
 ## AZIENDA DI STATO PER I SERVIZI TELEFONICI
 
-### Allegato 1
+## Allegato 1
 
 Allegato N. 1
 
@@ -1572,7 +1572,7 @@ MINISTERO DELLE FINANZE - Capitolo 3857 - Fitto dei locali, eccetera (lire 458.0
 
 Tenuto conto degli utilizzi sopra citati, residuano lire 855.000 che costituiscono economie di spese.
 
-### Allegato 2
+## Allegato 2
 
 ALLEGATO N. 2
 

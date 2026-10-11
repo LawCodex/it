@@ -25,11 +25,11 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la convenzione europea sulla protezione degli animali nei trasporti internazionali, adottata a Parigi il 13 dicembre 1968.
 
-#### Art. 2
+### Art. 2
 
 Piena ed intera esecuzione e' data alla convenzione di cui all'articolo precedente, a decorrere dalla sua entrata in vigore in conformita' all'articolo 48 della convenzione stessa.
 
@@ -49,7 +49,7 @@ Visto, il Guardasigilli: GONELLA
 
 ## Allegati
 
-#### Convention
+### Convention
 
 ALLEGATO
 
@@ -79,7 +79,7 @@ Considerando che un progresso in tale campo puo' essere realizzato mediante l'ad
 
 Hanno convenuto quanto segue:
 
-#### Articolo 1
+### Articolo 1
 
 1\. Ogni Parte contraente applichera' le disposizioni relative ai trasporti internazionali degli animali, contenute nella presente Convenzione.
 
@@ -89,7 +89,7 @@ Hanno convenuto quanto segue:
 
 4\. Ogni Parte contraente adottera' i provvedimenti necessari per risparmiare o ridurre al minimo ogni sofferenza agli animali in caso di sciopero o in qualsiasi caso di forza maggiore che impedisca sul proprio territorio la stretta applicazione della presente Convenzione. Essa si ispirera' a tale scopo ai principi che informano la presente Convenzione.
 
-#### Articolo 2
+### Articolo 2
 
 La presente Convenzione si applica ai trasporti internazionali:
 
@@ -103,11 +103,9 @@ d) di altri mammiferi e volatili (Capitolo V);
 
 e) degli animali a sangue freddo (Capitolo VI).
 
-## CAPITOLO II - UNGULATI DOMESTICI ED ANIMALI DOMESTICI DELLE SPECIE BOVINA, OVINA, CAPRINA E PORCINA.
+## CAPITOLO II - UNGULATI DOMESTICI ED ANIMALI DOMESTICI DELLE SPECIE BOVINA, OVINA, CAPRINA E PORCINA. A. Disposizioni generali
 
-### A. Disposizioni generali
-
-#### Articolo 3
+### Articolo 3
 
 1\. Prima che gli animali vengano caricati in vista di un trasporto internazionale, essi devono venire ispezionati da un veterinario autorizzato del paese esportatore che si accertera' della loro idoneita' al viaggio. Ai fini della presente Convenzione, per veterinario autorizzato, si intende un veterinario designato dall'autorita' competente.
 
@@ -117,15 +115,15 @@ e) degli animali a sangue freddo (Capitolo VI).
 
 4\. In alcuni casi determinati mediante accordo tra le Parti contraenti interessate, le disposizioni del presente articolo potranno non essere applicate.
 
-#### Articolo 4
+### Articolo 4
 
 Gli animali che si presume debbano figliare durante il trasporto o che abbiano figliato da meno di 48 ore non devono considerarsi idonei al trasporto stesso.
 
-#### Articolo 5
+### Articolo 5
 
 Il veterinario autorizzato del paese esportatore, del paese di transito o del paese importatore puo' prescrivere un periodo di riposo, nel luogo da lui indicato, durante il quale gli animali riceveranno le cure necessarie.
 
-#### Articolo 6
+### Articolo 6
 
 1\. Gli animali devono disporre di spazio sufficiente, e devono, salvo speciali controindicazioni, potersi coricare.
 
@@ -143,23 +141,23 @@ Il veterinario autorizzato del paese esportatore, del paese di transito o del pa
 
 8\. I tori che abbiano piu' di 18 mesi di eta' dovranno essere preferibilmente legati; essi saranno muniti di un anello nasale da utilizzare unicamente per manovrarli.
 
-#### Articolo 7
+### Articolo 7
 
 1\. Quando animali di specie diverse sono trasportati in uno stesso veicolo, devono essere separati per specie. Inoltre, devono essere previste misure particolari per evitare gli inconvenienti che possono derivare dalla presenza, nella stessa spedizione, di specie naturalmente ostili le une alle altre. Quando animali di eta' diverse sono caricati nello stesso veicolo, gli adulti devono essere separati dai giovani; tuttavia, tale restrizione non si applica alle femmine viaggianti con i piccoli nel periodo dell'allattamento. Per quanto riguarda i bovini, gli ungulati ed i porcini, i maschi adulti non castrati devono essere separati dalle femmine; inoltre, i verri devono essere separati gli uni dagli altri, cosi' come gli stalloni.
 
 2\. Nei compartimenti nei quali sono trasportati gli animali, non devono essere caricate merci che possano nuocere al loro benessere.
 
-#### Articolo 8
+### Articolo 8
 
 Un'attrezzatura appropriata, quali ponti, rampe o passerelle deve essere utilizzata per il carico e lo scarico degli animali. Il pavimento di tale attrezzatura non dovra' essere sdrucciolevole, e dovra', se necessario, essere munito di protezioni laterali. Gli animali durante le operazioni di carico e scarico, non dovranno essere sollevati per la testa, per le corna o per le zampe.
 
-#### Articolo 9
+### Articolo 9
 
 Il pavimento dei veicoli o degli imballaggi deve essere sufficientemente solido da resistere al peso degli animali trasportati. Non deve essere sdrucciolevole, ne' avere interstizi.
 
 Deve inoltre essere ricoperto di strame sufficiente ad assorbire gli escrementi, a meno che lo strame possa essere sostituito da un altro mezzo che presenti vantaggi analoghi.
 
-#### Articolo 10
+### Articolo 10
 
 Al fine di assicurare le cure necessarie agli animali durante il trasporto, questi ultimi devono essere accompagnati, a meno che:
 
@@ -169,7 +167,7 @@ b) il trasportatore si assuma il compito di guardiano;
 
 c) il mittente abbia incaricato un proprio mandatario di accudire agli animali nei punti di arresto appropriati.
 
-#### Articolo 11
+### Articolo 11
 
 1\. Il guardiano o il mandatario del mittente e' tenuto ad accudire agli animali, ad abbeverarli, nutrirli e, se del caso, a mungerli.
 
@@ -177,129 +175,129 @@ c) il mittente abbia incaricato un proprio mandatario di accudire agli animali n
 
 3\. Al fine di garantire le cure di cui al presente articolo, il guardiano deve avere a propria disposizione, se necessario, un adeguato mezzo di illuminazione.
 
-#### Articolo 12
+### Articolo 12
 
 Gli animali che si ammalano o si feriscono durante il trasporto devono ricevere, il piu' presto possibile, le cure di un veterinario, e quando sia necessario procedere al loro abbattimento, tale operazione dev'essere svolta in modo da evitare, per quanto possibile, ogni sofferenza agli animali stessi.
 
-#### Articolo 13
+### Articolo 13
 
 Gli animali devono essere caricati unicamente su veicoli o imballaggi accuratamente puliti. I cadaveri degli animali, il letame e gli escrementi devono essere rimossi appena possibile.
 
-#### Articolo 14
+### Articolo 14
 
 Gli animali devono essere, nel minor tempo possibile, portati a destinazione ed i ritardi, in particolare quelli dovuti ad attese per coincidenze, devono essere ridotti al minimo.
 
-#### Articolo 15
+### Articolo 15
 
 Allo scopo di accelerare l'adempimento delle formalita' al momento dell'importazione o del transito, ogni trasporto di animali verra' annunciato il piu' presto possibile al posto di controllo. Per tali formalita' dovrebbe essere accordata priorita' ai trasporti di animali.
 
-#### Articolo 16
+### Articolo 16
 
 Le localita' ove viene effettuato il controllo sanitario e dove si svolga traffico di animali importante e regolare, devono essere provviste di attrezzature che permettano di far riposare gli animali, nutrirli ed abbeverarli.
 
 ## B. Disposizioni speciali per il trasporto ferroviario
 
-#### Articolo 17
+### Articolo 17
 
 Ogni vagone ferroviario utilizzato per il trasporto degli animali, deve essere munito di un contrassegno che indichi la presenza di animali vivi. In mancanza di vagoni particolarmente attrezzati per il trasporto degli animali, i vagoni utilizzati devono essere coperti, in grado di viaggiare ad alta velocita', nonche' muniti di aperture per l'aerazione sufficientemente larghe. Tali aperture devono essere tali da garantire la sicurezza agli animali ed impedire la loro fuga.
 
 Le pareti interne di tali vagoni devono essere di legno o di ogni altro materiale adeguato, prive di asperita' e munite di anelli o sbarre situate ad un'altezza conveniente.
 
-#### Articolo 18
+### Articolo 18
 
 Gli ungulati devono essere legati sia lungo la stessa parete, che gli uni di fronte agli, altri. Tuttavia, gli animali giovani e non domati non devono essere legati.
 
-#### Articolo 19
+### Articolo 19
 
 Gli animali di grandi dimensioni devono essere disposti all'interno dei vagoni, in modo da permettere al guardiano di circolare fra loro.
 
-#### Articolo 20
+### Articolo 20
 
 Quando in fase alle disposizioni dell'articolo 7, occorra procedere alla separazione degli animali essa puo' essere realizzata sia legandoli a pareti diverse del vagone, se la superficie di questo lo consente, sia mediante adatti tramezzi.
 
-#### Articolo 21
+### Articolo 21
 
 Al momento della formazione dei treni e durante ogni altra manovra dei vagoni, devono essere prese tutte le precauzioni per evitare gli urti violenti dei vagoni che trasportano gli animali.
 
 ## C. Disposizioni speciali per il trasporto stradale
 
-#### Articolo 22
+### Articolo 22
 
 I veicoli devono essere attrezzati in modo che gli animali non possano fuggire ed equipaggiati in modo da garantire la loro sicurezza; devono inoltre essere provvisti di una copertura che assicuri una effettiva protezione contro le intemperie.
 
-#### Articolo 23
+### Articolo 23
 
 Dispositivi di attacco devono essere installati nei veicoli utilizzati per il trasporto di animali di notevoli dimensioni che, normalmente, necessitano di essere legati. Quando si rende necessaria la divisione dei veicoli in compartimenti, essa deve essere realizzata mediante tramezzi resistenti.
 
-#### Articolo 24
+### Articolo 24
 
 I veicoli devono essere muniti di attrezzature soddisfacenti del tipo previsto all'articolo 8.
 
 ## D. Disposizioni speciali per il trasporto per via acquea
 
-#### Articolo 25
+### Articolo 25
 
 L'attrezzatura dei battelli deve permettere il trasporto degli animali senza che essi siano esposti a ferite o sofferenze evitabili.
 
-#### Articolo 26
+### Articolo 26
 
 Gli animali non devono essere trasportati su ponti scoperti, tranne che in imballaggi convenientemente agganciati o in recinti fissi approvati dall'autorita' competente e che assicurino un'adeguata protezione contro il mare e le intemperie.
 
-#### Articolo 27
+### Articolo 27
 
 Gli animali devono essere legati o convenientemente sistemati in recinti o imballaggi.
 
-#### Articolo 28
+### Articolo 28
 
 Convenienti passerelle devono essere sistemate per consentire l'accesso ai recinti o agli imballaggi nei quali sono contenuti gli animali. Devono inoltre essere disponibili impianti che assicurino l'illuminazione.
 
-#### Articolo 29
+### Articolo 29
 
 I guardiani devono essere in numero sufficiente, tenuto conto del numero degli animali trasportati e della durata del viaggio.
 
-#### Articolo 30
+### Articolo 30
 
 Tutte le parti del battello occupate dagli animali devono essere provviste di dispositivi di scolo delle acque ed essere mantenute in buone condizioni igieniche.
 
-#### Articolo 31
+### Articolo 31
 
 Uno strumento del tipo approvato dall'autorita' competente deve essere disponibile a bordo per poter procedere all'abbattimento degli animali in caso di necessita'.
 
-#### Articolo 32
+### Articolo 32
 
 I battelli utilizzati per il trasporto degli animali devono essere muniti, prima della partenza, di provviste di acqua potabile e di alimenti appropriati ritenuti sufficienti dalle autorita' competenti del paese di spedizione in proporzione alla specie, al numero, degli animali ed alla durata del viaggio.
 
-#### Articolo 33
+### Articolo 33
 
 Devono essere prese le disposizioni del caso al fine di isolare, durante il viaggio, gli animali malati o feriti, unitamente ad un servizio di pronto soccorso in caso di necessita'.
 
-#### Articolo 34
+### Articolo 34
 
 Le disposizioni contenute negli articoli da 25 a 33 non si applicano ai trasporti di animali effettuati su vagoni ferroviari o veicoli stradali caricati su ferryboats o battelli simili.
 
 ## E. Disposizioni speciali per il trasporto aereo
 
-#### Articolo 35
+### Articolo 35
 
 Gli animali devono essere collocati in imballaggi o in stalli adatti alle specie trasportate. Si puo' derogare alle suddette disposizioni a condizione che vengano approntate sistemazioni adeguate per contenere gli animali.
 
-#### Articolo 36
+### Articolo 36
 
 Devono essere prese opportune precauzioni per evitare temperature troppo alte o troppo basse a bordo tenendo conto della specie.
 
 Inoltre, debbono essere evitati forti sbalzi di pressione.
 
-#### Articolo 37
+### Articolo 37
 
 Uno strumento del tipo approvato dall'autorita' competente deve essere disponibile a bordo degli aerei da trasporto per poter procedere all'abbattimento degli animali in caso di necessita'.
 
 ## CAPITOLO III - VOLATILI E CONIGLI DOMESTICI
 
-#### Articolo 38
+### Articolo 38
 
 Le disposizioni dei seguenti articoli del Capitolo II si applicano, con gli opportuni adattamenti, al trasporto dei volatili e dei conigli domestici: articolo 6. - paragrafi da 1 a 3; articolo 7; articoli da 13 a 17; articoli 21, 22, da 25 a 30, 32, da 34 a 36.
 
-#### Articolo 39
+### Articolo 39
 
 1\. Gli animali malati o feriti non devono essere considerati idonei al viaggio. Gli animali che si feriscano o che si ammalino durante il viaggio devono ricevere le prime cure il piu' rapidamente possibile, e, se necessario, essere sottoposti a visita veterinaria.
 
@@ -313,45 +311,45 @@ b) trasporti di durata inferiore alle 24 ore quando si tratti di piccoli di vola
 
 ## CAPITOLO IV - CANI E GATTI DOMESTICI
 
-#### Articolo 40
+### Articolo 40
 
 1\. Le disposizioni del presente Capitolo si applicano al trasporto di cani e gatti domestici, ad eccezione di quelli che viaggiano accompagnati dal loro proprietario o da persona che lo rappresenti.
 
 2\. Le disposizioni degli articoli seguenti del Capitolo II si applicano, con gli opportuni adattamenti, al trasporto di cani e gatti: articolo 4; articolo 6 - paragrafi da 1 a 3; articoli 7, 9 e 10; articolo 11 - paragrafi 1 e 3; articoli da 12 a 17, da 20 a 23, da 25 a 29 e da 31 a 37.
 
-#### Articolo 41
+### Articolo 41
 
 Gli animali trasportati devono essere nutriti ad intervalli che non superino le 24 ore ed abbeverati ad intervalli che non superino le 12 ore. Gli animali dovranno essere accompagnati da istruzioni redatte in forma chiara concernenti il loro vettovagliamento. Le cagne in calore devono essere separate dai maschi.
 
 ## CAPITOLO V - ALTRI MAMMIFERI E VOLATILI
 
-#### Articolo 42
+### Articolo 42
 
 1\. Le disposizioni del presente Capitolo si applicano al trasporto dei mammiferi e dei volatili non previsti dai capitoli precedenti.
 
 2\. Le disposizioni degli articoli seguenti del Capitolo II si applicano, con gli opportuni adattamenti, al trasporto delle specie di cui al presente Capitolo: articoli 4 e 5, articolo 6 - paragrafi da 1 a 3; articoli da 7 a 10; articolo 11 - paragrafi da 1 a 3: articoli dal 12 a 17 da 20 a 37.
 
-#### Articolo 43
+### Articolo 43
 
 Gli animali devono essere trasportati unicamente in veicoli o in imballaggi appositi sui quali sara' apposta, se del caso, l'indicazione che si tratta di animali selvaggi, particolarmente timorosi o pericolosi. Inoltre, detti animali dovranno essere accompagnati da istruzioni redatte in modo chiaro concernenti il vettovagliamento e le cure particolari di cui necessitano.
 
-#### Articolo 44
+### Articolo 44
 
 I cervidi non devono essere trasportati nel periodo in cui le loro corna crescono, a meno che non siano prese speciali precauzioni al riguardo.
 
-#### Articolo 45
+### Articolo 45
 
 Si dovra' accudire agli animali di cui al presente Capitolo in base alle istruzioni previste all'articolo 43.
 
 ## CAPITOLO VI - ANIMALI A SANGUE FREDDO
 
-#### Articolo 46
+### Articolo 46
 
 Gli animali a sangue freddo devono essere trasportati in appositi imballaggi, tenendo conto delle loro necessita' di spazio, di ventilazione, di temperatura, di rifornimento di acqua e di ossigeno del tipo e nella quantita' adatti alla specie considerata. Devono inoltre essere portati a destinazione nel piu' breve tempo possibile.
 
 ## CAPITOLO VII - DEFINIZIONE DELLE CONTROVERSIE
 
-#### Articolo 47
+### Articolo 47
 
 1\. In caso di contestazione circa l'interpretazione o l'applicazione delle disposizioni della presente Convenzione, le autorita' competenti delle Parti contraenti interessate procederanno a mutue consultazioni. Ogni Parte contraente notifichera' al Segretario generale del Consiglio d'Europa i nomi e gli indirizzi di tali autorita'.
 
@@ -363,7 +361,7 @@ Verra' eseguita la stessa procedura se gli arbitri non si accorderanno sulla sce
 
 ## DISPOSIZIONI FINALI
 
-#### Articolo 48
+### Articolo 48
 
 1\. La presente Convenzione e' aperta alla firma degli Stati membri del Consiglio d'Europa. Essa sara' ratificata o accettata. Gli strumenti di ratifica o di accettazione saranno depositati presso il Segretario generale del Consiglio d'Europa.
 
@@ -371,13 +369,13 @@ Verra' eseguita la stessa procedura se gli arbitri non si accorderanno sulla sce
 
 3\. Essa entrera' in vigore nei confronti di ogni Stato firmatario che la ratifichi o l'accetti successivamente, sei mesi dopo il deposito del proprio strumento di ratifica o di accettazione.
 
-#### Articolo 49
+### Articolo 49
 
 1\. Dopo l'entrata in vigore della presente Convenzione, il Comitato dei Ministri del Consiglio d'Europa potra' invitare qualsiasi Stato non membro del Consiglio ad aderire alla presente Convenzione.
 
 2\. L'adesione si effettuera' mediante il deposito presso il Segretario generale del Consiglio d'Europa, di uno strumento di adesione che avra' effetto sei mesi dopo la data del deposito stesso.
 
-#### Articolo 50
+### Articolo 50
 
 1\. Ogni Parte contraente puo', al momento della firma o all'atto del deposito del proprio strumento di ratifica, di accettazione o di adesione, designare il territorio o i territori ai quali verra' applicata la presente Convenzione.
 
@@ -385,7 +383,7 @@ Verra' eseguita la stessa procedura se gli arbitri non si accorderanno sulla sce
 
 3\. Ogni dichiarazione fatta ai sensi del paragrafo precedente potra' essere ritirata, per quanto riguarda qualsiasi territorio indicato in detta dichiarazione, alle condizioni previste dall'articolo 51 della presente Convenzione.
 
-#### Articolo 51
+### Articolo 51
 
 1\. La presente Convenzione restera' in vigore a tempo indeterminato.
 
@@ -393,7 +391,7 @@ Verra' eseguita la stessa procedura se gli arbitri non si accorderanno sulla sce
 
 3\. La denuncia avra' effetto sei mesi dopo la data in cui il Segretario generale ne avra' ricevuto notifica.
 
-#### Articolo 52
+### Articolo 52
 
 Il Segretario generale del Consiglio d'Europa notifichera' agli Stati membri del Consiglio e ad ogni Stato che abbia aderito alla presente Convenzione:
 

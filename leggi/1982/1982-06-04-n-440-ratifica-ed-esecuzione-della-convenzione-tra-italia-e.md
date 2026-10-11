@@ -26,11 +26,11 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare la convenzione tra Italia e Spagna in materia di sicurezza sociale e l'accordo amministrativo per l'applicazione della convenzione, firmati a Madrid il 30 ottobre 1979.
 
-##### Art. 2
+#### Art. 2
 
 Piena ed intera esecuzione e' data alla convenzione e all'accordo amministrativo di cui all'articolo precedente a decorrere dalla loro entrata in vigore in conformita' all'articolo 53 della convenzione e all'articolo 41 dell'accordo amministrativo.
 
@@ -66,7 +66,7 @@ S.E. Carlos Robles Piquer, Segretario di Stato per gli Affari esteri,
 
 i quali, dopo essersi scambiati i loro pieni poteri, riconosciuti in buona e debita forma, hanno concordato le disposizioni che seguono:
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 1\) Ai fini della presente convenzione i termini sottoindicati hanno il seguente significato:
 
@@ -94,7 +94,7 @@ l) "Prestazioni familiari": tutte le prestazioni in natura od in denaro destinat
 
 2\) Qualsiasi altra espressione o termine utilizzato nella presente Convenzione ha il significato che ai termini stessi viene attribuito dalla legislazione che risulti applicabile.
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 1\) La presente convenzione si applica:
 
@@ -158,19 +158,19 @@ j) toreri.
 
 3\) La presente Convenzione si applichera' altresi', alle legislazioni di una Parte contraente che estendano i regimi esistenti a nuove categorie di lavoratori o che istituiscano nuovi regimi di sicurezza sociale, sempreche', il Governo dell'altra Parte contraente non notifichi l'opposizione al Governo della prima Parte entro tre mesi dalla data di comunicazione ufficiale di detti provvedimenti.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 La presente Convenzione si applica alle persone che sono o sono state soggette alla legislazione di una o di entrambe le Parti contraenti, nonche' ai loro familiari e superstiti.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Le persone alle quali si applicano le disposizioni della presente Convenzione godono della parita' di trattamento per quanto concerne i diritti e gli obblighi derivanti dalle disposizioni delle legislazioni elencate al precedente articolo 2.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 Salvo quanto diversamente disposto dalla presente Convenzione, le persone che hanno diritto a prestazioni in base alle legislazioni di sicurezza sociale elencate al precedente articolo 2, le ricevono integralmente e senza limitazioni o restrizioni ovunque esse risiedano.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 1\) Ai fini dell'ammissione all'assicurazione volontaria prevista dalla legislazione vigente in una Parte contraente, i periodi di assicurazione compiuti i virtu' della legislazione di tale Parte, si cumulano in quanto necessario, con i periodi di assicurazione compiuti in virtu' della legislazione dell'altra Parte contraente.
 
@@ -178,7 +178,7 @@ Salvo quanto diversamente disposto dalla presente Convenzione, le persone che ha
 
 ## TITOLO II - DISPOSIZIONI RELATIVE ALLA LEGISLAZIONE APPLICABILE
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 1\) Il lavoratore cui si applica la presente Convenzione e' soggetto alla legislazione di una sola Parte contraente. Tale legislazione e' determinata in conformita' alle disposizioni del presente Titolo.
 
@@ -194,7 +194,7 @@ d) gli impiegati pubblici e il personale assimilato sono soggetti alla legislazi
 
 e) il lavoratore chiamato o richiamato alle armi da una Parte conserva la qualita' di lavoratore ed e' soggetto alla legislazione di tale Parte; se il beneficio di tale legislazione e' subordinato al compimento di periodi di assicurazione prima della chiamata alle armi o dopo il congedo dal servizio militare, i periodi di assicurazione compiuti sotto la legislazione dell'altra Parte sono computati, nella misura necessaria, come se si trattasse di periodi di assicurazione compiuti sotto la legislazione della prima Parte.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 La norma di cui al precedente articolo 7, paragrafo 2, lettera a), e' applicata tenuto conto delle seguenti eccezioni:
 
@@ -208,7 +208,7 @@ c) i lavoratori dipendenti da imprese di interesse nazionale esercenti servizi d
 
 Detti lavoratori possono tuttavia optare per l'applicazione della legislazione della Parte in cui sono occupati entro tre mesi dall'inizio dell'occupazione o dalla data di entrata in vigore della presente Convenzione.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 1\) Il principio di cui all'articolo 7 paragrafo 2 lettera a) si applica anche ai lavoratori occupati nelle Rappresentanze diplomatiche o consolari italiane e spagnole o che sono al servizio personale di capi, membri e impiegati di tali Rappresentanze.
 
@@ -216,21 +216,19 @@ Detti lavoratori possono tuttavia optare per l'applicazione della legislazione d
 
 3\) I paragrafi 1) e 2) non sono applicabili agli agenti diplomatici e agenti consolari di carriera come pure ai membri del personale amministrativo, e tecnico delle Rappresentanze diplomatiche e consolari.
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 Le Autorita' competenti delle due Parti contraenti possono prevedere di comune accordo, nell'interesse di alcuni lavoratori o di alcune categorie di lavoratori, eccezioni alle disposizioni degli articoli 7, 8, e 9 della presente Convenzione.
 
 ## TITOLO III - DISPOSIZIONI PARTICOLARI ALLE VARIE CATEGORIE DI PRESTAZIONI
 
-### CAPITOLO I
+### CAPITOLO I - MALATTIA E MATERNITA'
 
-#### MALATTIA E MATERNITA'
-
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 Se la legislazione di una Parte contraente subordina l'acquisizione, il mantenimento o il recupero del diritto alle prestazioni al compimento di periodi di assicurazione, l'istituzione competente tiene conto, a tale effetto nella misura necessaria, dei periodi di assicurazione compiuti sotto la legislazione dell'altra Parte contraente come se fossero periodi compiuti sotto la legislazione della prima Parte.
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 1\) I lavoratori che soddisfano alle condizioni richieste dalla legislazione applicata dall'Istituzione competente per aver diritto alle prestazioni, tenendo conto eventualmente di quanto disposto
 
@@ -248,7 +246,7 @@ ii) delle prestazioni in denaro corrisposte dalla istituzione competente secondo
 
 2\) Le disposizioni del paragrafo 1) del presente articolo sono altresi' applicabili, per quanto riguarda il beneficio delle prestazioni in natura, ai familiari del lavoratore.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 1\) I lavoratori di cui agli articoli, 7 a 10 della presente Conversione che soddisfano le condizioni richieste dalla legislazione applicata dalla istituzione competente, tenendo conto eventualmente delle disposizioni dell'articolo 11, beneficiano sul territorio della Parte in cui risiedono o soggiornano:
 
@@ -258,11 +256,11 @@ b) delle prestazioni in denaro erogate dall'istituzione competente secondo le di
 
 2\) Le disposizioni di cui al precedente paragrafo 1), lettere a) e b) si applicano per analoga ai familiari residenti nella Parte contraente diversa da quella in cui a sede l'istituzione competente, a condizione che essi non abbiano diritto a dette prestazioni in virtu' della legislazione della Parte nel cui territorio risiedono.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 I disoccupati di cui all'articolo 23 della presente Convenzione beneficiano, unitamente ai propri familiari, nella Parte in cui si sono recati, delle prestazioni in natura erogate, per conto dell'istituzione della Parte cui spetta l'onere dell'indennita' di disoccupazione, dalla istituzione della Parte in cui si sono recati, secondo la legislazione che quest'ultima istituzione applica come se vi fossero iscritti e per l'intero periodo di godimento di detta indennita'.
 
-##### ARTICOLO 15
+#### ARTICOLO 15
 
 1\) Il titolare di una pensione o di una rendita dovuta in virtu' della legislazione di entrambe le parti contraenti ha diritto a ricevere le prestazioni in natura per se' e per i propri familiari dalla Istituzione del luogo di residenza e a carico di quest'ultima;
 
@@ -272,17 +270,17 @@ I disoccupati di cui all'articolo 23 della presente Convenzione beneficiano, uni
 
 4\) Le disposizioni di cui all'articolo 12, paragrafo 1 della presente Convenzione si applicano per quanto concerne il beneficio delle prestazioni in natura anche ai titolari di pensioni o di rendita e loro familiari.
 
-##### ARTICOLO 16
+#### ARTICOLO 16
 
 La concessione da parte dell'istituzione del luogo di residenza o di soggiorno, di protesi, grandi apparecchi e di altre prestazioni in natura di grande importanza, il cui elenco sara' stabilito nell'accordo amministrativo previsto dall'articolo 46 della presente Convenzione, e' subordinata, salvo casi di urgenza, all'autorizzazione dell'istituzione competente. Tale autorizzazione non e' tuttavia necessaria qualora il costo annuo delle prestazioni sia disciplinato in base a forfait.
 
-##### ARTICOLO 17
+#### ARTICOLO 17
 
 Le prestazioni in natura corrisposte dalla istituzione di una Parte contraente per conto della istituzione dell'altra Parte in virtu' delle disposizioni della presente Convenzione danno luogo a rimborsi che saranno effettuati secondo le modalita' e nella misura stabilite nell'accordo amministrativo di cui all'articolo 46.
 
-## CAPITOLO II - INVALIDITA', VECCHIAIA E SUPERSTITI
+### CAPITOLO II - INVALIDITA', VECCHIAIA E SUPERSTITI
 
-##### ARTICOLO 18
+#### ARTICOLO 18
 
 1\) a) Ai fini dell'acquisto, del mantenimento o del recupero del diritto alle prestazioni, quando un lavoratore e' stato sottoposto successivamente o alternativamente alla legislazione di entrambe le parti contraenti, i periodi di assicurazione compiuti in virtu' della legislazione di ciascuna delle due parti contraenti sono totalizzati, in quanto non si sovrappongono.
 
@@ -314,47 +312,47 @@ L'istituzione competente dell'altra parte contraente tiene invece conto di tali 
 
 La presente disposizione non potra' comportare che per uno stesso periodo di assicurazione una delle due parti contraenti sia tenuta ad erogare piu' di una prestazione della stessa natura, autonoma o in pro-rata.
 
-##### ARTICOLO 19
+#### ARTICOLO 19
 
 Qualora un lavoratore, tenuto conto della totalizzazione dei periodi di assicurazione di cui al paragrafo 1 del precedente articolo 18, non possa far valere nello stesso momento le condizioni richieste dalla legislazione delle due parti contraenti, il suo diritto a pensione e' determinato nei riguardi di ogni legislazione a mano a mano che egli possa far valere tali condizioni.
 
-##### ARTICOLO 20
+#### ARTICOLO 20
 
 Qualora la somma delle prestazioni pensionistiche dovute dalle istituzioni competenti delle parti contraenti ai sensi del precedente articolo 18 non raggiunga il trattamento minimo fissato dalla legislazione della parte contraente in cui il beneficiario risiede, l'istituzione competente di detta parte integra la suddetta somma fino al raggiungimento di tale trattamento minimo.
 
-##### ARTICOLO 21
+#### ARTICOLO 21
 
 Le variazioni dell'importo delle prestazioni intervenute in una parte contraente in relazione all'aumento del costo della vita, alle variazioni del livello delle retribuzioni o ad altre cause di adeguamento comportarno che l'altra parte ricalcoli l'integrazione attribuita ai sensi dell'articolo 20 della presente Convenzione.
 
-## CAPITOLO III - DISOCCUPAZIONE
+### CAPITOLO III - DISOCCUPAZIONE
 
-##### ARTICOLO 22
+#### ARTICOLO 22
 
 1\) Se la legislazione di una parte contraente subordina l'acquisizione, il mantenimento o il recupero del diritto alle prestazioni al compimento di periodi di assicurazione, l'istituzione che applica detta legislazione tiene conto a tale effetto, nella misura necessaria, dei periodi di assicurazione compiuti sotto la legislazione dell'altra parte contraente.
 
 2\) L'applicazione delle disposizioni contenute nel paragrafo precedente e' subordinata alla condizione che l'interessato sia stato soggetto da ultimo alla legislazione in virtu' della quale le prestazioni sono richieste.
 
-##### ARTICOLO 23
+#### ARTICOLO 23
 
 Il lavoratore che soddisfa alle condizioni previste dalla legislazione di una parte contraente per il diritto alle prestazioni di disoccupazione, comprese quelle per i familiari a carico, e che si reca nell'altra parte contraente, conserva il diritto a tali prestazioni alle condizioni fissate nell'accordo amministrativo di cui al successivo articolo 46.
 
 Le prestazioni che vengono erogate dall'istituzione della parte contraente in cui il disoccupato si e' recato saranno rimborsate dall'istituzione dell'altra parte secondo le modalita' fissate nell'accordo amministrativo.
 
-## CAPITOLO IV - PRESTAZIONI FAMILIARI
+### CAPITOLO IV - PRESTAZIONI FAMILIARI
 
-##### ARTICOLO 24
+#### ARTICOLO 24
 
 Qualora la legislazione di una delle due parti contraenti subordini l'acquisizione del diritto alle prestazioni familiari al compimento di periodi di assicurazione o equivalenti, si tiene conto, ove necessario, dei periodi di assicurazione o equivalenti compiuti nell'altra parte.
 
-##### ARTICOLO 25
+#### ARTICOLO 25
 
 Un lavoratore soggetto alla legislazione di una delle due parti contraenti, ha diritto per i familiari che soggiornano o risiedono sul territorio dell'altra parte alle prestazioni familiari previste dalla legislazione della prima come se risiedessero sul territorio di quest'ultima parte.
 
-##### ARTICOLO 26
+#### ARTICOLO 26
 
 Un disoccupato che beneficia delle prestazioni di disoccupazione in virtu' della legislazione di una parte contraente ha diritto, per i familiari che soggiornano o risiedono sul territorio dell'altra parte, alle prestazioni familiari previste dalla legislazione della parte che corrisponde le prestazioni di disoccupazione come se risiedessero sul territorio di quest'ultima.
 
-##### ARTICOLO 27
+#### ARTICOLO 27
 
 1\) Un titolare di pensione o rendita dovuta in virtu' della legislazione di una sola parte contraente ha diritto, per i familiari che soggiornano o risiedano sul territorio dell'altra parte contraente, alle prestazioni familiari previste dalla legislazione della parte debitrice della pensione o della rendita come se risiedessero sul territorio di quest'ultima. L'onere delle prestazioni e' a carico della parte debitrice della pensione o rendita.
 
@@ -362,13 +360,13 @@ Un disoccupato che beneficia delle prestazioni di disoccupazione in virtu' della
 
 L'onere delle prestazioni e' a carico della parte in cui risiede il titolare della pensione o rendita.
 
-##### ARTICOLO 28
+#### ARTICOLO 28
 
 Il diritto alle prestazioni familiari spettanti ai sensi dei precedenti articoli 25, 26, 27 e' sospeso se, per l'esercizio di un'attivita' professionale, dette prestazioni sono dovute anche in virtu' della legislazione della parte contraente sul cui territorio risiedono o soggiornano i familiari.
 
-## CAPITOLO V - INFORTUNI SUL LAVORO E MALATTIE PROFESSIONALI
+### CAPITOLO V - INFORTUNI SUL LAVORO E MALATTIE PROFESSIONALI
 
-##### ARTICOLO 29
+#### ARTICOLO 29
 
 1\) I lavoratori vittime di un infortunio sul lavoro o di una malattia professionale:
 
@@ -390,33 +388,33 @@ ii) delle prestazioni in denaro corrisposte dalla Istituzione competente secondo
 
 L'autorizzazione di cui al paragrafo 1, lettera c), non puo' essere rifiutata quando le cure di cui trattasi non possono essere prestate all'interessato nel territorio della parte contraente in cui risiede.
 
-##### ARTICOLO 30
+#### ARTICOLO 30
 
 L'infortunio subito da un lavoratore in una parte contraente, mentre egli si reca ad assumere lavoro, con regolare contratto, nell'altra parte, e' assimilato ad infortunio sul lavoro sopravvenuto in quest'ultima parte. Lo stesso vale per l'infortunio subito dal lavoratore quando questi ritorna nella parte ove risiede o soggiorna subito dopo la fine del contratto di lavoro per effetto del quale si e' trasferito nell'altra parte.
 
-##### ARTICOLO 31
+#### ARTICOLO 31
 
 La concessione da parte dell'Istituzione del luogo di soggiorno o di residenza delle protesi o delle altre prestazioni in natura di grande importanza previste nell'accordo amministrativo di cui all'articolo 46 della presente Convenzione, e' subordinata, salvo casi di urgenza assoluta, all'autorizzazione dell'Istituzione competente.
 
-##### ARTICOLO 32
+#### ARTICOLO 32
 
 L'Istituzione competente e' tenuta a rimborsare l'importo delle prestazioni in natura corrisposte per suo conto in virtu' degli articoli 29 e 31.
 
 Le modalita' per il rimborso sono stabilite nell'accordo amministrativo, previsto all'articolo 46.
 
-##### ARTICOLO 33
+#### ARTICOLO 33
 
 Qualora l'assicurato abbia contratto una malattia professionale dopo essere stato adibito esclusivamente sul territorio di una parte contraente ad una attivita' suscettibile di provocare la malattia secondo quanto previsto dalla legislazione di detta parte, si applica nei suoi confronti la legislazione di tale parte, anche se la malattia si sia manifestata nell'altra.
 
 Lo stesso principio si applica in caso di aggravamento della malattia, sempre che l'assicurato non sia stato nel frattempo ulteriormente esposto al rischio specifico nel territorio dell'altra parte.
 
-##### ARTICOLO 34
+#### ARTICOLO 34
 
 1\) Qualora un assicurato abbia contratto una malattia professionale dopo essere stato adibito nel territorio di entrambe le parti contraenti ad attivita' suscettibili di provocare la malattia secondo quanto previsto dalle legislazioni delle parti stesse, si applica nei suoi confronti la legislazione di quella parte nel cui territorio l'assicurato ha, da ultimo, svolta tale attivita' rischiosa.
 
 2\) Nel caso di pneumoconiosi sclerogena gli oneri delle prestazioni in denaro derivanti dall'applicazione del presente articolo sono ripartiti fra le Istituzioni competenti delle parti contraenti proporzionalmente alla durata dei periodi di assicurazione vecchiaia compiuti sotto la legislazione di ciascuna delle due parti.
 
-##### ARTICOLO 35
+#### ARTICOLO 35
 
 Qualora si accerti che l'assicurato abbia subito un aggravamento della malattia professionale, indennizzata ai sensi dell'articolo 34, si applicano nei suoi confronti le seguenti disposizioni:
 
@@ -424,7 +422,7 @@ se l'assicurato non ha esercitato ulteriormente lavorazioni suscettibili di aggr
 
 se l'assicurato ha esercitato sul territorio dell'altra parte lavorazioni suscettibili di aggravare la malattia egli avra' diritto ad essere indennizzato secondo la legislazione di questa parte con un supplemento il cui ammontare e' pari alla differenza tra l'importo delle prestazioni dovute dopo l'aggravamento e quello delle prestazioni che sarebbero state dovute prima dell'aggravamento se la malattia si fosse verificata in questa parte.
 
-##### ARTICOLO 36
+#### ARTICOLO 36
 
 In caso di aggravamento di una pneumoconiosi sclerogena che ha dato luogo alla ripartizione prevista dall'articolo 34, paragrafo 2, sono applicabili le seguenti disposizioni:
 
@@ -434,29 +432,29 @@ b) l'onere delle prestazioni in danaro rimane ripartito tra le istituzioni che p
 
 Tuttavia se la vittima ha svolto ulteriormente un'attivita' che puo' aggravare la malattia professionale considerata, sotto la legislazione di una delle parti contraenti in cui essa aveva gia' svolto un'attivita' della stessa natura, l'istituzione di questa parte sostiene l'intero onere delle prestazioni in denaro corrisposte per l'aggravamento.
 
-##### ARTICOLO 37
+#### ARTICOLO 37
 
 Nel caso in cui si verifichi in una delle due parti contraenti un infortunio sul lavoro o una malattia professionale a carico di un assicurato portatore di postumi per un precedente infortunio sul lavoro o per una precedente malattia professionale verificata nell'altra parte, l'Istituzione competente per il nuovo evento terra' conto della precedente lesione come se si fosse verificata sotto la propria legislazione ai fini della valutazione del grado di inabilita' al lavoro.
 
-##### ARTICOLO 38
+#### ARTICOLO 38
 
 Le spese per accertamenti sanitari nonche' quelle ad essi connesse sostenute in relazione alla concessione di prestazioni per infortuni sul lavoro e malattie professionali sono rimborsate dall'Istituzione richiedente alla Istituzione che ha eseguito gli accertamenti sulla base dell'importo effettivo, quale risulta dalla contabilita' di quest'ultima Istituzione.
 
-##### ARTICOLO 39
+#### ARTICOLO 39
 
 Ogni infortunio sul lavoro di cui sia rimasto vittima un cittadino di una delle due parti occupato nel territorio dell'altra parte, e che abbia causato o che potrebbe causare sia la morte, sia una incapacita' permanente, totale o parziale, deve essere notificato, senza indugio, dall'Istituto competente alla Rappresentanza diplomatica o consolare della parte di cui l'infortunato sia cittadino.
 
 ## TITOLO IV - DISPOSIZIONI DIVERSE, TRANSITORIE E FINALI
 
-##### ARTICOLO 40
+#### ARTICOLO 40
 
 Le Autorita' e le Istituzioni competenti delle due parti contraenti si prestano reciproca assistenza e collaborazione per l'applicazione della presente Convenzione come se applicassero le rispettive legislazioni; tale assistenza e' gratuita. Esse possono anche avvalersi, quando siano necessari mezzi istruttori nell'altra parte, del tramite delle autorita' diplomatiche e consolari di tale parte.
 
-##### ARTICOLO 41
+#### ARTICOLO 41
 
 Le Autorita' diplomatiche e consolari di ciascuna parte contraente possono rivolgersi direttamente alle autorita' od istituzioni competenti dell'altra parte per ottenere informazioni utili alla tutela degli aventi diritto, cittadini della propria parte, e possono rappresentarli senza speciale mandato.
 
-##### ARTICOLO 42
+#### ARTICOLO 42
 
 1\) Le esenzioni da imposte, tasse e diritti previste dalla legislazione di una delle due parti, valgono anche per l'applicazione della presente Convenzione, indipendentemente dalla cittadinanza degli interessati.
 
@@ -464,17 +462,17 @@ Le Autorita' diplomatiche e consolari di ciascuna parte contraente possono rivol
 
 3\) L'attestazione relativa all'autenticita' di un certificato o di un documento, oppure di una copia, da parte delle Autorita' o delle Istituzioni competenti di una parte sara' ritenuta valida dalle Autorita' o dalle Istituzioni competenti dell'altra parte.
 
-##### ARTICOLO 43
+#### ARTICOLO 43
 
 Le Autorita' e le Istituzioni competenti delle due parti contraenti possono corrispondere direttamente tra loro e con ogni altra persona dovunque questa risieda, tutte le volte che tale corrispondenza sia necessaria per l'applicazione della presente Convenzione.
 
 Esse possono redigere la corrispondenza nella rispettiva lingua ufficiale.
 
-##### ARTICOLO 44
+#### ARTICOLO 44
 
 Le istanze che gli interessati indirizzano alle autorita' o alle Istituzioni competenti dell'una o dell'altra parte contraente per l'applicazione della presente Convenzione non possono essere respinte per il fatto di essere redatte nella lingua ufficiale dell'altra parte.
 
-##### ARTICOLO 45
+#### ARTICOLO 45
 
 1\) Le istanze e gli altri documenti presentati alle autorita' competenti o alle Istituzioni di una parte contraente hanno lo stesso effetto come se fossero presentate alle corrispondenti Autorita' od Istituzioni dell'altra parte.
 
@@ -482,15 +480,15 @@ Le istanze che gli interessati indirizzano alle autorita' o alle Istituzioni com
 
 3\) I ricorsi che debbono essere presentati entro un termine prescritto, ad una autorita' o ad un'istituzione competente di una delle due parti, sono considerati come presentati entro tale termine se essi sono stati presentati entro lo stesso termine ad una delle corrispondenti autorita' od istituzioni dell'altra parte. In tal caso l'Autorita' o l'Istituzione cui i ricorsi sono stati presentati li trasmette senza indugio all'Autorita' o all'Istituzione competente dell'altra parte, accusandone ricevuta all'interessato.
 
-##### ARTICOLO 46
+#### ARTICOLO 46
 
 Le Autorita' competenti delle due parti contraenti stabiliranno in un accordo amministrativo le disposizioni necessarie per l'applicazione della presente Convenzione.
 
-##### ARTICOLO 47
+#### ARTICOLO 47
 
 Le Autorita' competenti delle due parti si comunicano tutte le disposizioni che modifichino o completino le legislazioni indicate all'articolo 2, nonche' le disposizioni prese unilateralmente per l'applicazione della presente Convenzione.
 
-##### ARTICOLO 48
+#### ARTICOLO 48
 
 1\) L'Istituzione competente di una parte contraente e' tenuta, su richiesta dell'Istituzione dell'altra parte, ad effettuare gli esami medie leggi concernenti i beneficiari che si trovano sul proprio territorio.
 
@@ -500,7 +498,7 @@ Le Autorita' competenti delle due parti si comunicano tutte le disposizioni che 
 
 Il rimborso sara' effettuato in conformita' alle disposizioni previste nell'accordo amministrativo di cui all'articolo 46 della presente Convenzione.
 
-##### ARTICOLO 48-bis
+#### ARTICOLO 48-bis
 
 1\) Le persone indicate nell'articolo 3 della presente Convenzione non possono beneficiare durante lo stesso periodo di tempo di piu' prestazioni della stessa natura riferentisi ad uno stesso periodo di assicurazione obbligatoria. Ove tale ipotesi si verifichi, l'interessato ha diritto a beneficiare esclusivamente delle prestazioni previste dalla legislazione della parte in cui risiede.
 
@@ -510,7 +508,7 @@ Tuttavia tale disposizione non si applica alle prestazioni per invalidita', vecc
 
 3\) Ai fini dell'attuazione del presente articolo, le Istituzioni competenti delle parti contraenti sono tenute a scambiarsi le necessarie informazioni.
 
-##### ARTICOLO 49
+#### ARTICOLO 49
 
 1\) Qualora l'Istituzione di una parte contraente abbia erogato una pensione per un importo eccedente quello cui il beneficiario avrebbe avuto diritto, detta Istituzione puo' chiedere all'istituzione dell'altra parte di trattenere l'importo pagato in eccedenza sugli arretrati dei ratei di pensione da essa eventualmente dovuti al beneficiario. L'importo cosi' trattenuto viene trasferito all'Istituzione creditrice. Nella misura in cui l'importo pagato in eccedenza non puo' essere trattenuto sugli arretrati dei ratei di pensione, si applicano le disposizioni del paragrafo seguente.
 
@@ -518,7 +516,7 @@ Tuttavia tale disposizione non si applica alle prestazioni per invalidita', vecc
 
 Quest'ultima Istituzione effettua la trattenuta alle condizioni e nei limiti previsti dalla legislazione che essa applica, e trasferisce l'importo trattenuto all'Istituzione creditrice.
 
-##### ARTICOLO 50
+#### ARTICOLO 50
 
 1\) L'Istituzione competente potra' corrispondere all'interessato un anticipo nel corso dell'istruttoria della domanda.
 
@@ -526,13 +524,13 @@ Quest'ultima Istituzione effettua la trattenuta alle condizioni e nei limiti pre
 
 3\) Nel caso in cui l'Istituzione competente di una parte contraente avesse concesso anticipi ad un beneficiario, detta Istituzione competente o, a sua richiesta, l'Istituzione competente dell'altra parte, potra' detrarre detto anticipo dagli importi che dovranno essere corrisposti al suddetto beneficiario.
 
-##### ARTICOLO 51
+#### ARTICOLO 51
 
 1\) L'Istituzione di una parte contraente debitrice di prestazioni da corrispondere nell'altra parte in virtu' della presente Convenzione, si libera validamente di tali obbligazioni nella propria valuta.
 
 2\) Nel caso che nell'una e nell'altra parte vengano introdotte misure restrittive in materia valutaria, entrambi i Governi adotteranno immediatamente i provvedimenti necessari per assicurare, in conformita' con le disposizioni della presente Convenzione, il trasferimento di somme dovute dall'una o dall'altra parte.
 
-##### ARTICOLO 52
+#### ARTICOLO 52
 
 1\) La presente Convenzione non da' diritto a prestazioni per periodi anteriori alla sua entrata in vigore. Per i diritti maturati anteriormente si applicano le disposizioni della Convenzione tra l'Italia e la Spagna del 20 luglio 1967.
 
@@ -544,7 +542,7 @@ Quest'ultima Istituzione effettua la trattenuta alle condizioni e nei limiti pre
 
 5\) Qualora le domande di prestazione presentate prima dell'entrata in vigore della presente Convenzione abbiano dato luogo, per insufficienza dei periodi di assicurazione all'erogazione di una somma forfettaria, il beneficiario puo' chiedere una revisione del trattamento corrispostogli se con l'applicazione delle disposizioni della presente Convenzione soddisfa alle condizioni richieste per ottenere una pensione.
 
-##### ARTICOLO 53
+#### ARTICOLO 53
 
 1\) La presente Convenzione sara' ratificata e gli strumenti di ratifica saranno scambiati appena possibile.
 
@@ -592,7 +590,7 @@ S.E. Carlos Robles Piquer, Segretario di Stato per gli affari esteri
 
 i quali, dopo essersi scambiati i loro pieni poteri, riconosciuti in buona e debita forma, hanno concordato le disposizioni che seguono:
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 Ai fini dell'applicazione del presente accordo amministrativo:
 
@@ -604,7 +602,7 @@ Ai fini dell'applicazione del presente accordo amministrativo:
 
 4\) i termini definiti dall'articolo 1 della Convenzione hanno il medesimo significato che viene loro attribuito nel predetto articolo.
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Le istituzioni competenti all'applicazione del presente Accordo sono:
 
@@ -624,19 +622,19 @@ b) nello Stato spagnolo:
 
 3\) per la protezione dei lavoratori marittimi, l'Instituto social de la marina.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 Ai fini dell'ammissione all'assicurazione volontaria secondo l'articolo 6 paragrafo I della Convenzione, l'interessato e' tenuto a presentare all'istituzione competente della parte ove intende effettuare i versamenti un certificato attestante i periodi di assicurazione obbligatoria o assimilati compiuti in base alla legislazione dell'altra parte contraente. Tale certificato sara' rilasciato, a richiesta dell'interessato, dall'istituzione competente della parte che applica la legislazione in base alla quale l'interessato ha compiuto tali periodi.
 
 Qualora l'interessato non presenti tale certificato, questo ultimo sara' richiesto dall'istituzione competente all'istituzione competente dell'altra parte.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Qualora la legislazione di una delle due parti contraenti preveda che l'importo delle prestazioni in denaro vari con il numero dei familiari a carico, vengono presi in considerazione, alle condizioni e nei limiti previsti dalla predetta legislazione, anche i familiari residenti sul territorio dell'altra parte contraente.
 
 ## TITOLO II - DISPOSIZIONI RELATIVE ALLA LEGISLAZIONE APPLICABILE
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 1\) Per i lavoratori distaccati nel territorio dell'altra parte conformemente all'articolo 8 lettera a) della Convenzione deve essere redatto un attestato da cui risulti fino a quale data il lavoratore rimane soggetto alla legislazione della parte contraente nella quale ha sede l'impresa o viene abitualmente svolta un'attivita' autonoma.
 
@@ -644,7 +642,7 @@ Qualora la legislazione di una delle due parti contraenti preveda che l'importo 
 
 3\) Nei casi previsti all'articolo 8, lettera a), seconda frase della Convenzione, il datore di lavoro ovvero, nel caso di attivita' autonoma, l'interessato, dovra' presentare una domanda all'autorita' competente della parte in cui il lavoratore e' distaccato o, se del caso, svolge attivita' autonoma, e precisamente in Italia al Ministero del lavoro e della previdenza sociale - Direzione generale della previdenza e dell'assistenza sociale; in Spagna al Ministero de sanidad y seguridad social.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 1\) Per esercitare il diritto di opzione previsto dall'articolo 9 paragrafo 2 della Convenzione, l'interessato deve presentare la sua richiesta, informandone nel contempo il datore di lavoro,
 
@@ -658,11 +656,9 @@ in Spagna: alla Delegazione provinciale competente dell'Istituto nacional de pre
 
 ## TITOLO III - DISPOSIZIONI PARTICOLARI ALLE VARIE CATEGORIE DI PRESTAZIONI
 
-### CAPITOLO I
+### CAPITOLO I - MALATTIA E MATERNITA'
 
-#### MALATTIA E MATERNITA'
-
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 1\) Per beneficiare delle disposizioni dell'articolo 11 della Convenzione il lavoratore e' tenuto a presentare alla istituzione competente un attestato dal quale risultino i periodi di assicurazione compiuti in base alla legislazione dell'altra parte contraente. Se il lavoratore non e' in grado di presentare tale attestato, l'istituzione competente per la concessione delle prestazioni e' tenuta a richiederlo all'organismo assicuratore dell'altra parte.
 
@@ -672,7 +668,7 @@ in Italia: dalla competente Sede provinciale dell'INAM;
 
 in Spagna: dalla Delegazione provinciale competente dell'Instituto Nacional de Prevision.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 1\) Per beneficiare di prestazioni in natura ai sensi dell'articolo 12, paragrafo 1, lettera a) della Convenzione, il lavoratore e' tenuto a presentare alla istituzione del luogo di soggiorno un attestato che certifichi il suo diritto alle prestazioni.
 
@@ -688,7 +684,7 @@ in Spagna: dalla Delegazione provinciale competente dell'Instituto Nacional de P
 
 4\) Nel caso in cui sia necessario un ricovero in ospedale l'istituzione del luogo di soggiorno comunica entro tre giorni dalla data in cui ne ha notizia all'istituzione competente la data di entrata in ospedale, la probabile durata della degenza, nonche' la data di uscita.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 1\) Per beneficiare delle prestazioni in natura ai sensi dell'articolo 12, paragrafo 1, lettera b) della Convenzione, il lavoratore, che si reca sul territorio dell'altra parte contraente, e' tenuto a presentare all'istituzione di quest'ultima parte un attestato che lo autorizzi a beneficiare delle suddette prestazioni.
 
@@ -698,7 +694,7 @@ Tale attestato, che e' rilasciato dalla istituzione competente, indica in partic
 
 3\) Le disposizioni dell'articolo 8, paragrafo 4 e dell'articolo 14, del presente accordo sono applicabili per analogia.
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 1\) Per beneficiare delle prestazioni in denaro ai sensi dell'articolo 12, paragrafo 1, lettera ii) della Convenzione, il lavoratore e' tenuto a rivolgersi, entro tre giorni dall'inizio della incapacita' al lavoro, alla Istituzione del luogo di soggiorno o di residenza presentando un certificato di incapacita' al lavoro rilasciato dal medico curante.
 
@@ -716,7 +712,7 @@ Se l'incapacita' al lavoro dovesse comunque prolungarsi oltre il periodo gia' st
 
 Tuttavia, previo accordo tra l'istituzione competente e l'Istituzione del luogo di soggiorno o di residenza, le prestazioni possono essere erogate anche da quest'ultima Istituzione, per conto della prima, secondo le disposizioni della legislazione della parte competente.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 1\) Per beneficiare delle prestazioni previste dall'articolo 13, paragrafo 1, della Convenzione, il lavoratore dovra' iscriversi, cosi' come i membri della sua famiglia, nell'Istituzione del luogo di residenza, presentando un certificato che accerti che ha diritto a dette prestazioni, per se' e per i familiari a carico. Questa certificazione sara' rilasciata dall'Istituzione competente. Se il lavoratore o i familiari a carico non presentano detta certificazione, l'Istituzione del luogo di residenza si rivolgera' all'istituzione competente per ottenerla.
 
@@ -732,7 +728,7 @@ L'Istituzione competente informera' l'Istituzione del luogo di residenza della c
 
 6\) Le disposizioni del presente articolo sono applicabili, per analogia, per la concessione di prestazioni in specie ai familiari in virtu' del paragrafo 2 dell'articolo 13 della Convenzione.
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 1\) Per beneficiare, per se' e per i propri familiari, delle prestazioni in natura ai sensi dell'articolo 14 della convenzione, il disoccupato e' tenuto a presentare, all'istituzione di assicurazione malattia della parte in cui si e' recato, un attestato che deve richiedere prima della partenza all'istituzione competente per l'assicurazione di malattia. Se il disoccupato non presenta tale attestato, l'istituzione della parte in cui si e' recato si rivolge alla istituzione competente per ottenerlo. L'attestato deve certificare l'esistenza del diritto a dette prestazioni ai sensi dell'articolo 23 della Convenzione e indicare la durata del diritto alle prestazioni stesse.
 
@@ -740,7 +736,7 @@ L'Istituzione competente informera' l'Istituzione del luogo di residenza della c
 
 3\) Le disposizioni dell'articolo 8 paragrafo 4 e dell'articolo 14 del presente accordo sono applicabili per analogia.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 1\) Per beneficiare nella parte in cui risiede delle prestazioni in natura ai sensi dell'articolo 15, paragrafo 2, della Convenzione, il titolare di una pensione o rendita e' tenuto a farsi iscrivere, come pure i suoi familiari, presso l'istituzione della parte in cui risiede, presentando un attestato che certifichi che ha diritto a dette prestazioni per se' e per i suoi familiari ai sensi della legislazione della parte debitrice della pensione o rendita.
 
@@ -754,13 +750,13 @@ L'Istituzione competente informera' l'Istituzione del luogo di residenza della c
 
 6\) Le disposizioni di cui all'articolo 8, paragrafo 1 e 4 e dell'articolo 14 del presente accordo sono applicabili per analogia.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 1\) Per la concessione delle prestazioni di cui all'articolo 16 della Convenzione, elencate nell'allegato n. 1 del presente accordo, l'istituzione del luogo di soggiorno o di residenza avverte preliminarmente l'istituzione competente di qualsiasi decisione relativa alla concessione stessa.
 
 2\) Qualora dette prestazioni debbano essere fornite in via di assoluta urgenza, l'istituzione del luogo di residenza o di soggiorno provvede alla loro erogazione informandone senza indugio l'istituzione competente.
 
-##### ARTICOLO 15
+#### ARTICOLO 15
 
 1\) Le spese sostenute per la concessione di prestazioni in specie in applicazione degli articoli 12, 13, paragrafo 1, 14, 15, paragrafo 4, 16 e 48, paragrafo 3, seconda frase, della Convenzione, saranno rimborsate dalla Istituzione competente all'istituzione che ha concesso le prestazioni sulla base degli importi effettivi, tali come risulteranno dal conteggio di quest'ultima Istituzione.
 
@@ -770,7 +766,7 @@ Il pagamento delle somme sara' effettuato entro sei mesi dalla ricezione della r
 
 2\) Le autorita' competenti potranno accordare, in determinati casi o per alcune classi di prestazioni sanitarie, specialmente per quelle farmaceutiche, altre modalita' di rimborso.
 
-##### ARTICOLO 16
+#### ARTICOLO 16
 
 1\) Le spese delle prestazioni date in applicazione dell'articolo 13, paragrafo 2, della Convenzione ai membri della famiglia che non risiedono nel territorio della parte competente, saranno rimborsate dalle Istituzioni competenti alle Istituzioni del luogo di residenza della famiglia sulla base di un forfait, che si avvicini il piu' possibile alle spese reali, stabilite per ciascun anno civile.
 
@@ -782,7 +778,7 @@ a) Il costo medio annuale per famiglia nel paese di residenza si otterra' divide
 
 b) Il numero medio annuale di famiglie che dovranno prendersi in considerazione si stabilira' per mezzo di un inventario tenuto dalle Istituzioni del luogo di residenza, sulla base dei certificati di diritto rilasciati dalle Istituzioni competenti.
 
-##### ARTICOLO 17
+#### ARTICOLO 17
 
 1\) Le spese sostenute per la concessione delle prestazioni in applicazione dell'articolo 15, paragrafo 2, della Convenzione ai titolari di pensioni o rendite e membri della sua famiglia, saranno rimborsate dalle Istituzioni competenti alle Istituzioni che hanno effettuato le prestazioni sulla base di un forfait che si avvicini il piu' possibile alle spese reali stabilite per ciascun anno civile.
 
@@ -794,9 +790,9 @@ a) il costo medio annuale per titolare di pensione o rendita si otterra', per ci
 
 b) Il numero medio annuale di titolari di pensione o rendita da prendere in considerazione stabilito per mezzo di un inventario tenuto dalle Istituzioni del luogo di residenza sulla base dei certificati di diritto rilasciati dalle Istituzioni competenti.
 
-## CAPITOLO II - INVALIDITA', VECCHIAIA E SUPERSTITI
+### CAPITOLO II - INVALIDITA', VECCHIAIA E SUPERSTITI
 
-##### ARTICOLO 18
+#### ARTICOLO 18
 
 1\) Nei casi di cui all'articolo 18, paragrafo 1, lettera a) della Convenzione la totalizzazione dei periodi di assicurazioni si effettua in base alle seguenti regole:
 
@@ -812,13 +808,13 @@ e) qualora non sia possibile determinare con esattezza l'epoca in cui determinat
 
 2\) Le disposizioni del precedente paragrafo si applicano per analogia ai casi di cui all'articolo 18, paragrafo 1, lettera c) della Convenzione.
 
-##### ARTICOLO 19
+#### ARTICOLO 19
 
 1\) Gli assicurati ed i loro superstiti che intendano beneficiare delle prestazioni in conformita' dell'articolo 17 della Convenzione, dovranno presentare una domanda all'Istituzione competente dell'una o dell'altra parte contraente, nella forma prescritta dalla legislazione applicata dall'Istituzione competente presso la quale viene presentata la domanda stessa.
 
 2\) La data nella quale e' stata presentata la domanda presso la Istituzione competente di una parte contraente, in conformita' al paragrafo 1), sara' considerata in ogni caso come data di presentazione presso le Istituzioni competenti di entrambi le parti contraenti.
 
-##### ARTICOLO 20
+#### ARTICOLO 20
 
 1\) Per dare corso alla domanda di prestazioni di vecchiaia, invalidita' e superstiti, previste dalla Convenzione, le Istituzioni competenti di entrambe le parti contraenti utilizzeranno un formulario conforme ad un apposito modello che sara' stabilito.
 
@@ -826,13 +822,13 @@ e) qualora non sia possibile determinare con esattezza l'epoca in cui determinat
 
 3\) Qualora si tratti di richiesta di prestazioni per invalidita', al formulario sara' allegata una relazione sanitaria sulle cause, grado e possibilita' di recupero della situazione di incapacita' dell'interessato.
 
-##### ARTICOLO 21
+#### ARTICOLO 21
 
 1\) L'Istituzione competente che ha ricevuto la domanda compilera' il formulario di cui all'articolo precedente, inviando due esemplari dello stesso all'Ufficio di collegamento o all'Istituzione competente, secondo il caso, dell'altra parte contraente.
 
 2\) L'invio dei formulari all'Istituzione spagnola competente sara' effettuato in ogni caso per il tramite dell'organismo di collegamento.
 
-##### ARTICOLO 22
+#### ARTICOLO 22
 
 1\) L'Istituzione competente dell'altra parte contraente, una volta ricevuti i formulari di cui ai precedenti articoli, determinera' gli eventuali diritti del richiedente, in base ai soli periodi di assicurazione compiuti sotto la legislazione che essa applica, oppure, secondo il caso, quelli che eventualmente derivino dalla totalizzazione dei periodi di assicurazione compiuti sotto la legislazione delle due parti contraenti. L'Istituzione competente inviera' quindi all'Istituzione competente dell'altra parte contraente una copia del formulario completato dai dati relativi ai periodi di assicurazione compiuti sotto la propria legislazione e con l'indicazione dei diritti a prestazioni riconosciuti al richiedente.
 
@@ -842,11 +838,11 @@ e) qualora non sia possibile determinare con esattezza l'epoca in cui determinat
 
 L'invio dei formulari sostituisce la trasmissione dei documenti originali presentati dagli interessati.
 
-##### ARTICOLO 23
+#### ARTICOLO 23
 
 Entrambe le Istituzioni dell'una e dell'altra parte, si invieranno copia dei provvedimenti adottati e notificati agli interessati.
 
-##### ARTICOLO 24
+#### ARTICOLO 24
 
 1\) L'istituzione competente del luogo di residenza dell'interessato dovra' effettuare i controlli amministrativi e sanitari che le siano richiesti dall'Istituzione competente dell'altra parte contraente relativi ai suoi pensionati.
 
@@ -856,7 +852,7 @@ Dovra' altresi' inviare di ufficio i risultati dei propri controlli sanitari.
 
 3\) Allo stesso scopo potranno richiedere direttamente ai beneficiari nei termini prestabiliti dalla loro legislazione, l'invio di certificati di convivenza, di vivenza a carico, di esistenza in vita e di stato civile nonche' ogni altro documento necessario a comprovare il diritto a continuare a percepire le prestazioni.
 
-##### ARTICOLO 25
+#### ARTICOLO 25
 
 1\) La concessione di anticipi sulla pensione prevista dall'articolo 50 della Convenzione sara' regolata nel modo seguente:
 
@@ -866,7 +862,7 @@ b) nel caso che l'interessato non abbia diritto all'anticipo sulla pensione da p
 
 2\) Per l'applicazione di quanto stabilito nel paragrafo terzo dell'articolo 50 della Convenzione, relative alla trattenuta degli arretrati per il recupero degli anticipi, le competenti Istituzioni delle parti contraenti si informeranno reciprocamente sulla concessione di tali anticipi.
 
-##### ARTICOLO 26
+#### ARTICOLO 26
 
 1\) Il pagamento delle prestazioni dovute da ciascuna delle competenti Istituzioni sara' effettuato direttamente agli interessati, secondo la legislazione applicata da detta Istituzione.
 
@@ -874,9 +870,9 @@ Per quanto riguarda il pagamento degli arretrati della pensione sara' applicato 
 
 2\) Gli arretrati di pensione trattenuti in conformita' a quanto disposto dell'articolo 25 del presente accordo, saranno trasferiti interamante all'Istituzione dell'altra parte, la quale versera' al beneficiario la eventuale differenza a favore dello stesso, una volta dedotte le somme anticipate.
 
-## CAPITOLO III - DISOCCUPAZIONE
+### CAPITOLO III - DISOCCUPAZIONE
 
-##### ARTICOLO 27
+#### ARTICOLO 27
 
 1\) Per beneficiare delle disposizioni dell'articolo 22 della Convenzione, l'interessato e' tenuto a presentare all'Istituzione competente un attestato in cui siano indicati i periodi di assicurazione compiuti sotto la legislazione dell'altra parte contraente.
 
@@ -884,7 +880,7 @@ Per quanto riguarda il pagamento degli arretrati della pensione sara' applicato 
 
 Qualora l'interessato non presenti tale attestato, quest'ultimo sara' richiesto dall'Istituzione competente alla Istituzione dell'altra parte contraente.
 
-##### ARTICOLO 28
+#### ARTICOLO 28
 
 L'attestato previsto dall'articolo 27 del presente accordo e' rilasciato:
 
@@ -892,7 +888,7 @@ a) in Italia dalle sedi dell'Istituto nazionale della previdenza sociale;
 
 b) in Spagna dalla delegazione provinciale competente dell'Instituto nacional do prevision.
 
-##### ARTICOLO 29
+#### ARTICOLO 29
 
 1\) Nei casi previsti dall'articolo 23 della Convenzione, il disoccupato dovra' presentare all'Istituzione competente della parte contraente in cui si reca, un attestato, rilasciato, a richiesta del disoccupato medesimo, dall'istituzione competente dell'altra parte contraente, dal quale risulti che il disoccupato medesimo ha diritto alle prestazioni. Detto attestato indichera', in particolare, il termine entro il quale il disoccupato deve iscriversi presso l'Ufficio di collocamento della parte contraente in cui si reca, il periodo massimo durante il quale il disoccupato medesimo ha diritto a presentarsi, l'importo delle prestazioni espresso nella valuta della parte contraente da cui proviene nonche' i fatti che possono modificare il diritto alle prestazioni. Se il disoccupato non presenta detto attestato, l'Istituzione competente della parte contraente in cui il medesimo si e' recato si rivolgera' per ottenerlo all'Istituzione competente dell'altra parte contraente.
 
@@ -906,7 +902,7 @@ Qualora il disoccupato si iscriva dopo il termine suddetto, perde il diritto all
 
 5\) Il pagamento delle prestazioni da parte dell'Istituzione del luogo di residenza e' effettuato secondo le modalita' previste dalla suddetta Istituzione.
 
-##### ARTICOLO 30
+#### ARTICOLO 30
 
 1\) Le prestazioni di disoccupazione erogate dall'istituzione del luogo di soggiorno o residenza sono rimborsate dall'Istituzione competente conformemente alle disposizioni del presente articolo.
 
@@ -926,9 +922,9 @@ Le Istituzioni competenti potranno concordare fra loro che i rimborsi vengano ef
 
 3\) Alla ricezione delle distinte dei pagamenti effettuati cui si riferisce il paragrafo precedente, l'Istituzione competente, previe le opportune verifiche, procedera' nei sei mesi successivi alla ricezione, al trasferimento all'Istituzione competente dell'altra parte contraente dell'importo totale delle prestazioni erogate.
 
-## CAPITOLO IV - PRESTAZIONI FAMILIARI
+### CAPITOLO IV - PRESTAZIONI FAMILIARI
 
-##### ARTICOLO 31
+#### ARTICOLO 31
 
 1\) Il lavoratore che in base all'articolo 25 della Convenzione fa valere il diritto alle prestazioni familiari in una delle due parti contraenti per le persone a carico che risiedono o soggiornano nell'altra parte contraente, deve presentare, all'Istituzione competente del luogo di lavoro, eventualmente per il tramite del datore di lavoro, una domanda in cui sono indicati i nominativi, la data ed il luogo di nascita, nonche' il luogo di residenza delle persone a carico per le quali egli richiede il beneficio delle prestazioni familiari.
 
@@ -940,13 +936,13 @@ Alla domanda deve essere allegato il certificato, o altro documento equipollente
 
 4\) Le prestazioni familiari di cui al presente articolo sono corrisposte direttamente agli aventi diritto dall'Istituzione competente.
 
-##### ARTICOLO 32
+#### ARTICOLO 32
 
 Per la corresponsione delle prestazioni familiari in favore dei lavoratori disoccupati e dei titolari di pensione o di rendite, nei casi contemplati rispettivamente agli articoli 26 e 27 della Convenzione, si applicano, in quanto compatibili, le disposizioni di cui all'articolo 31 del presente Accordo.
 
-## CAPITOLO V - INFORTUNI SUL LAVORO E MALATTIE PROFESSIONALI
+### CAPITOLO V - INFORTUNI SUL LAVORO E MALATTIE PROFESSIONALI
 
-##### ARTICOLO 33
+#### ARTICOLO 33
 
 1\) Per beneficiare delle prestazioni in natura in caso di residenza o di soggiorno nel territorio della Parte contraente che non sia quella competente, il lavoratore vittima di infortunio o di malattia professionale deve presentare all'Istituzione del luogo di residenza o di soggiorno un attestato dal quale risulti il diritto a dette prestazioni. Tale attestato, redatto su apposito formulario, e' rilasciato dalla Istituzione competente la quale, se del caso, precisa il limite di durata delle prestazioni.
 
@@ -956,7 +952,7 @@ Per la corresponsione delle prestazioni familiari in favore dei lavoratori disoc
 
 4\) Le istituzioni competenti pagano direttamente ai beneficiari residenti nel territorio dell'altra Parte contraente le rendite e le altre prestazioni in denaro loro dovute.
 
-##### ARTICOLO 34
+#### ARTICOLO 34
 
 1\) L'Istituzione del luogo di residenza o di soggiorno cui sia stata presentata una domanda di fornitura o rinnovo di un apparecchio di protesi ovvero di altra prestazione in natura di grande importanza provvede alla erogazione solo dopo che l'Istituzione competente, alla quale essa deve trasmettere la documentazione giustificativa della richiesta, ha espresso il suo benestare e, in ogni caso, ove siano trascorsi 15 giorni dalla comunicazione senza che sia stato notificato il diniego.
 
@@ -964,7 +960,7 @@ Per la corresponsione delle prestazioni familiari in favore dei lavoratori disoc
 
 3\) Qualora tali prestazioni debbano essere fornite in via di assoluta urgenza, l'Istituzione del luogo di residenza o di soggiorno provvede alla loro erogazione informandone senza indugio l'Istituzione competente.
 
-##### ARTICOLO 35
+#### ARTICOLO 35
 
 1\) Nei casi di cui agli articoli 33 e 34, 1° comma, della Convenzione, la domanda di prestazioni puo' essere presentata all'Istituzione competente ovvero all'Istituzione del luogo di residenza nell'altra Parte contraente.
 
@@ -976,7 +972,7 @@ a) trasmette, senza indugio, all'Istituzione dell'altra Parte contraente la doma
 
 b) notifica la sua decisione all'interessato indicando i motivi del rifiuto delle prestazioni, i mezzi ed i termini del ricorso e la data di trasmissione della domanda alla Istituzione dell'altra Parte contraente.
 
-##### ARTICOLO 36
+#### ARTICOLO 36
 
 1\) Per "attivita' suscettibile di provocare o aggravare la pneumoconiosi sclerogena" si intende l'attivita' rischiosa tutelata indipendentemente dalla durata della stessa.
 
@@ -990,13 +986,13 @@ b) notifica la sua decisione all'interessato indicando i motivi del rifiuto dell
 
 Nei casi di cui all'articolo 36, lettera b), seconda frase, della Convenzione, l'Istituzione competente notifica, per l'accordo, l'importo degli oneri facente carico, a seguito dell'aggravamento, all'Istituzione dell'altra Parte, con le giustificazioni appropriate.
 
-##### ARTICOLO 37
+#### ARTICOLO 37
 
 1\) L'assicurato e' tenuto a fornire alla Istituzione presso la quale fa valere dei diritti a prestazioni per l'aggravamento della malattia professionale ovvero per il nuovo infortunio o la nuova malattia professionale, tutte le necessarie informazioni relative agli eventi dannosi precedentemente verificatisi.
 
 2\) L'Istituzione competente per gli eventi precedenti e' tenuta a fornire alla Istituzione dell'altra Parte, dietro sua richiesta, le informazioni in proprio possesso.
 
-##### ARTICOLO 38
+#### ARTICOLO 38
 
 Le spese sostenute per la erogazione delle prestazioni in natura nonche' per gli accertamenti medici e quelli ad essi connesse, di cui, rispettivamente, agli articoli 29, 31 e 38 della Convenzione, sono rimborsate dalla Istituzione competente alla Istituzione che vi ha provveduto sulla base degli importi effettivi quali risultano dalla contabilita' di quest'ultima Istituzione. A tal fine non possono essere richieste tariffe superiori a quelle in vigore per le prestazioni fornite dalla Istituzione che ha erogato le prestazioni agli assistiti soggetti alla legislazione che essa applica.
 
@@ -1004,15 +1000,15 @@ Il pagamento delle somme e' effettuato entro sei mesi dalla ricezione della rich
 
 ## TITOLO IV - DISPOSIZIONI DIVERSE, TRANSITORIE E FINALI
 
-##### ARTICOLO 39
+#### ARTICOLO 39
 
 Gli Organismi di collegamento stabiliranno, di comune accordo, i formulari e ogni altra documentazione necessaria per l'applicazione della Convenzione e del presente Accordo che saranno approvati dalle Autorita' competenti.
 
-##### ARTICOLO 40
+#### ARTICOLO 40
 
 Per l'applicazione della legislazione spagnola si considerera' un lavoratore in una situazione assimilata a quella di affiliazione, ai fini della concessione delle prestazioni in virtu' della totalizzazione e del prorata previsto all'articolo 18 della Convenzione, quando detto lavoratore si trovi soggetto alla legislazione dell'altra Parte contraente o abbia diritto a prestazioni da parte di quest'ultima.
 
-##### ARTICOLO 41
+#### ARTICOLO 41
 
 La validita' del presente Accordo decorre dalla data di entrata in vigore della Convenzione e avra' termine alla data alla quale la Convenzione stessa cessera' di essere in vigore ai sensi dell'articolo 53 della Convenzione.
 
@@ -1026,7 +1022,7 @@ Per lo Stato Spagnolo
 
 CARLOS ROBLES PIQUER
 
-##### Allegato 1
+#### Allegato 1
 
 ALLEGATO N. 1.
 
@@ -1042,7 +1038,7 @@ ELENCO DELLE PROTESI E DELLE ALTRE PRESTAZIONI IN NATURA CONSIDERATE DI GRANDE I
 
 5\) Protesi dentarie (fisse od amovibili) e protesi otturatrici della cavita' boccale.
 
-##### Allegato 2
+#### Allegato 2
 
 ALLEGATO N. 2.
 

@@ -25,15 +25,15 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare il protocollo relativo ai privilegi, esenzioni ed immunita' dell'Organizzazione internazionale di telecomunicazioni a mezzo satelliti (INTELSAT), adottato a Washington il 19 maggio 1978.
 
-#### Art. 2
+### Art. 2
 
 Piena ed intera esecuzione e' data al protocollo di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 16 del protocollo stesso.
 
-#### Art. 3
+### Art. 3
 
 In attuazione del paragrafo 1, lettera e), e del paragrafo 5 dell'articolo 7 del protocollo, gli emolumenti corrisposti dall'INTELSAT ai propri dipendenti sono presi in considerazione ai fini del calcolo dell'ammontare delle imposte dovute sui redditi provenienti da altre fonti.
 
@@ -53,7 +53,7 @@ Visto, il Guardasigilli: DARIDA
 
 ## Allegati
 
-#### Protocole
+### Protocole
 
 PROTOCOLE RELATIF AUX PRIVILEGES, EXEMPTIONS ET IMMUNITES D'INTELSAT
 
@@ -81,7 +81,7 @@ Affermando che scopo dei privilegi, esenzioni ed immunita' coperti dal presente 
 
 HANNO CONVENUTO quanto segue:
 
-#### Articolo 1
+### Articolo 1
 
 Definizioni
 
@@ -111,13 +111,13 @@ k) il termine "archivi" comprende tutti i registri, corrispondenza, documenti, m
 
 ## CAPITOLO I - BENI E OPERAZIONI D'INTELSAT
 
-#### Articolo 2
+### Articolo 2
 
 Inviolabilita' degli archivi
 
 Gli archivi d'INTELSAT, in qualunque luogo essi si trovino, sono inviolabili.
 
-#### Articolo 3
+### Articolo 3
 
 Immunita' dalla giurisdizione e dall'esenzione
 
@@ -143,7 +143,7 @@ b) dall'espropriazione, tranne il caso in cui i beni immobili siano espropriati 
 
 c) da ogni forma di costrizione amministrativa o da provvedimenti preliminari ad un giudizio, tranne nella misura in cui lo necessitino temporaneamente la prevenzione degli incidenti in cui siano coinvolti veicoli a motore o altri mezzi di trasporto appartenenti all'INTELSAT o circolanti per suo conto nonche' le inchieste cui possano dar luogo i detti incidenti.
 
-#### Articolo 4
+### Articolo 4
 
 Disposizioni fiscali e doganali
 
@@ -157,13 +157,13 @@ Disposizioni fiscali e doganali
 
 5\. I beni appartenenti all'INTELSAT che hanno beneficiato dell'esonero previsto dai paragrafi 2 e 3 verranno ceduti, dati in locazione o prestati a titolo definitivo o provvisorio conformemente alle leggi interne della Parte contraente che ha accordato l'esonero.
 
-#### Articolo 5
+### Articolo 5
 
 Comunicazioni
 
 Per quanto riguarda le proprie comunicazioni ufficiali nonche' la trasmissione di tutti i propri documenti, l'INTELSAT gode, sul territorio di ogni Parte contraente, di un trattamento non meno favorevole di quello accordato ad altre organizzazioni intergovernative non regionali in materia di priorita', tariffe e imposte sulla posta e su tutti i mezzi di telecomunicazioni, in misura compatibile con ogni convenzione, regolamento o accordo internazionale di cui la detta Parte contraente sia parte. Non puo' essere esercitata alcuna censura nei confronti delle comunicazioni ufficiali dell'INTELSAT, quale che sia la via di comunicazione utilizzata.
 
-#### Articolo 6
+### Articolo 6
 
 Restrizioni
 
@@ -171,7 +171,7 @@ Nel quadro delle loro attivita' autorizzate dagli Accordi dell'INTELSAT, i fondi
 
 ## CAPITOLO II - MEMBRI DEL PERSONALE DELL'INTELSAT
 
-#### Articolo 7
+### Articolo 7
 
 1\. I membri del personale dell'INTELSAT godono dei seguenti privilegi, esenzioni ed immunita':
 
@@ -199,11 +199,9 @@ g) diritto di importare in esenzione dai diritti e tasse doganali (ad eccezione 
 
 6\. Il Direttore Generale dell'INTELSAT notifica alle Parti contraenti interessate il nome dei membri del personale cui si applicano le disposizioni del presente articolo. Il Direttore Generale notifica inoltre senza indugio alla Parte contraente che accorda l'esenzione prevista dal paragrafo 1, lettera d), del presente articolo, la cessazione delle funzioni ufficiali di ogni membro del personale nel territorio della detta Parte contraente.
 
-## CAPITOLO III - RAPPRESENTANTI DELLE PARTI DELL'INTELSAT E FIRMATARI
+## CAPITOLO III - RAPPRESENTANTI DELLE PARTI DELL'INTELSAT E FIRMATARI DELL'INTELSAT E PERSONE PARTECIPANTI A PROCEDIMENTI ARBITRALI
 
-### DELL'INTELSAT E PERSONE PARTECIPANTI A PROCEDIMENTI ARBITRALI
-
-#### Articolo 8
+### Articolo 8
 
 1\. I rappresentanti delle Parti dell'INTELSAT che partecipano a riunioni convocate dall'INTELSAT, o tenute sotto i suoi auspici, godono, nell'esercizio delle loro funzioni nonche' nel corso dei loro viaggi a destinazione o in provenienza dal luogo di riunione, dei seguenti privilegi ed immunita':
 
@@ -225,7 +223,7 @@ b) stessa esenzione, per loro stessi e i membri della loro famiglia facenti part
 
 ## CAPITOLO IV - RINUNCIA AI PRIVILEGI, ESENZIONI E IMMUNITA'
 
-#### Articolo 9
+### Articolo 9
 
 I privilegi, esenzioni e immunita' previsti dal presente Protocollo non sono stabiliti al fine di accordare ai loro beneficiari vantaggi personali. Se tali privilegi, esenzioni ed immunita' rischiano di ostacolare il corso della giustizia, e in tutti i casi in cui possano essere esclusi senza recare pregiudizio all'efficace esercizio delle funzioni dell'INTELSAT, le autorita' qui appresso indicate potranno consentire alla rinuncia a detti privilegi, esenzioni ed immunita':
 
@@ -239,25 +237,25 @@ d) il Consiglio dei Governatori, nei confronti delle persone partecipanti ai pro
 
 ## CAPITOLO V - DISPOSIZIONI GENERALI
 
-#### Articolo 10
+### Articolo 10
 
 Misure precauzionali
 
 Ogni Parte contraente consente il diritto di adottare tutte le misure utili nell'interesse della propria sicurezza.
 
-#### Articolo 11
+### Articolo 11
 
 Cooperazione con le Parti contraenti
 
 L'INTELSAT e i membri del suo personale collaborano costantemente con le autorita' competenti delle Parti contraenti interessate allo scopo di facilitare una buona amministrazione della giustizia, di assicurare il rispetto delle leggi e regolamenti delle Parti contraenti interessate e di impedire ogni abuso al quale potrebbero dar luogo i privilegi, le esenzioni e le immunita' previste nel presente Protocollo.
 
-#### Articolo 12
+### Articolo 12
 
 Accordi complementari
 
 L'INTELSAT puo' concludere con una o piu' Parti contraenti accordi complementari in vista dell'applicazione delle disposizioni del presente Protocollo per quanto concerne l'una o le altre Parti contraenti, nonche' altri accordi al fine di assicurare il buon funzionamento dell'INTELSAT.
 
-#### Articolo 13
+### Articolo 13
 
 Composizione delle controversie
 
@@ -267,7 +265,7 @@ Ove i primi due arbitri non riescano ad accordarsi sul terzo entro i sessanta (6
 
 ## CAPITOLO VI - DISPOSIZIONI FINALI
 
-#### Articolo 14
+### Articolo 14
 
 1\. Il presente Protocollo sara' aperto alla firma delle Parti dell'INTELSAT diverse dalla Parte sul cui territorio e' situata la sede, sino al 20 novembre 1978.
 
@@ -277,17 +275,17 @@ Gli strumenti di ratifica, di accettazione o di approvazione saranno depositati 
 
 3\. Il presente Protocollo restera' aperto all'adesione di ogni Parte dell'INTELSAT di cui al paragrafo 1 del presente articolo. Gli strumenti di adesione saranno depositati presso il Direttore Generale dell'INTELSAT.
 
-#### Articolo 15
+### Articolo 15
 
 1\. Ogni Parte dell'INTELSAT, nel momento in cui deposita i propri strumenti di ratifica, d'accettazione, di approvazione o di adesione, puo' esprimere riserve su una qualsiasi delle disposizioni del presente Protocollo. Tali riserve possono essere ritirate in ogni momento mediante una dichiarazione a tale scopo indirizzata al Direttore Generale dell'INTELSAT. Salvo il caso in cui la dichiarazione non disponga altrimenti, il ritiro della riserva acquista efficacia dal momento in cui il Direttore Generale riceve detta dichiarazione.
 
-#### Articolo 16
+### Articolo 16
 
 1\. Il presente Protocollo entrera' in vigore il trentesimo giorno successivo alla data del deposito del dodicesimo strumento di ratifica, di accettazione, di approvazione o di adesione.
 
 2\. Per ciascuno degli Stati che ratificheranno, accetteranno, approveranno il presente Protocollo o vi aderiranno dopo il deposito del dodicesimo strumento di ratifica, di accettazione, di approvazione o di adesione, il Protocollo entrera' in vigore il trentesimo giorno successivo al deposito, da parte di tale Stato, del proprio strumento di ratifica, di accettazione, di approvazione o di adesione.
 
-#### Articolo 17
+### Articolo 17
 
 1\. Il presente Protocollo restera' in vigore sino alla scadenza dell'Accordo.
 
@@ -295,7 +293,7 @@ Gli strumenti di ratifica, di accettazione o di approvazione saranno depositati 
 
 3\. Il ritiro di una Parte dell'INTELSAT, in base alle disposizioni dell'articolo XVI dell'Accordo, comportera' la denuncia del presente Protocollo da parte di tale Stato.
 
-#### Articolo 18
+### Articolo 18
 
 1\. Il Direttore Generale dell'INTELSAT informera' tutti gli Stati che hanno firmato il presente Protocollo o che vi hanno aderito, del deposito di ogni strumento di ratifica, di accettazione, di approvazione o di adesione, della data di entrata in vigore del presente Protocollo, nonche' di tutte le altre comunicazioni relative al presente Protocollo.
 

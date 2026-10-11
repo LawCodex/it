@@ -30,13 +30,13 @@ la seguente legge:
 
 ## Disposizioni generali
 
-### Art. 1
+## Art. 1
 
 La protezione e l'assistenza degli orfani di guerra sono esercitate per mezzo dell'Ente morale Opera nazionale per gli orfani di guerra con sede centrale in Roma.
 
 Sono considerati orfani di guerra, nei limiti degli articoli 5, 6 e 7 della presente legge tutti coloro dei quali il genitore che esercitava la patria potesta', o la persona che li aveva a proprio totale o principale carico, sia morto o venuto a mancare o divenuto permanentemente inabile a qualsiasi proficuo lavoro per fatto di guerra o altro evento che dia titolo a pensione ed assegno di guerra.
 
-### Art. 2
+## Art. 2
 
 Le istituzioni erette in enti morali o giuridicamente riconosciute le quali attuino l'assistenza, agli orfani di guerra, sono collegate con l'Opera nazionale. Questa e le istituzioni predette non sono soggette alle leggi ed ai regolamenti che disciplinano le istituzioni pubbliche di assistenza e beneficenza; sono pero' estese ad esse tutte le disposizioni di favore, generali o speciali, vigenti per le dette istituzioni.
 
@@ -48,7 +48,7 @@ Si applicano ad essa le disposizioni relative alle Amministrazioni predette sull
 
 Gli organi dell'Opera sono ammessi al godimento della franchigia postale, telegrafica e telefonica, secondo le norme e con le limitazioni stabilite per gli uffici statali.
 
-### Art. 3
+## Art. 3
 
 Tutte le liberalita' disposte sia per atto tra vivi che di ultima volonta' a favore dell'Opera, nazionale, delle istituzioni con essa collegate e di orfani della guerra sono esenti, da qualsiasi tassa o diritto.
 
@@ -60,11 +60,11 @@ Il decreto del Presidente del Consiglio dei Ministri o quello del prefetto e', r
 
 ## Degli orfani di guerra
 
-### Art. 4
+## Art. 4
 
 Sono considerati orfani di guerra coloro, dei quali il padre, o la madre, esercitante la patria potesta', sia morto in dipendenza degli eventi di cui all'art. 1.
 
-### Art. 5
+## Art. 5
 
 L'assistenza spetta:
 
@@ -72,7 +72,7 @@ a) ai figli minorenni non emancipati legittimi o legittimati, o naturali di cui 
 
 b) agli interdetti per infermita' di mente.
 
-### Art. 6
+## Art. 6
 
 L'assistenza e' estesa:
 
@@ -90,7 +90,7 @@ L'assistenza e' dovuta anche nei casi previsti dagli articoli 251 e 252 del Codi
 
 b) ai figli di coloro che siano stati riconosciuti dispersi ai sensi di legge, finche' duri lo stato di dispersione.
 
-### Art. 7
+## Art. 7
 
 Sono considerati orfani:
 
@@ -98,7 +98,7 @@ a) i minorenni o gli interdetti ai quali, per una delle cause indicate nei prece
 
 b) i figli di quelli che sono divenuti inabili al lavoro in seguito a lesioni o ad infermita' per servizio, o comunque, per violenze subite purche' concepiti prima del fatto che ha prodotto la inabilita' del genitore e siano riconosciuti da esso.
 
-### Art. 8
+## Art. 8
 
 La condizione di orfano di guerra risulta dalla iscrizione nell'elenco generale, da tenersi a cura dei Comitati provinciali dell'Opera e dei consoli, nella rispettiva giurisdizione.
 
@@ -106,7 +106,7 @@ I Comitati provinciali ed i consoli possono disporre in qualunque tempo la cance
 
 Contro i provvedimenti del Comitato provinciale, o del console, e' data facolta' di ricorso, a chiunque creda di avervi interesse, al Comitato nazionale dell'Opera, la cui decisione ha carattere di provvedimento definitivo.
 
-### Art. 9
+## Art. 9
 
 Il Comitato provinciale, o il console per gli orfani nati in Italia ma residenti all'estero, richiedera' all'ufficiale dello stato civile che ha ricevuto l'atto di nascita dell'orfano, di inserirvi a margine la annotazione che il genitore e' morto per gli eventi di cui all'art. 1, nel caso che l'orfano stesso abbia diritto alla iscrizione ai sensi degli articoli 4, 5, 6 e 7.
 
@@ -118,7 +118,7 @@ L'orfano, nel cui atto di nascita sia disposta l'annotazione marginale indicata 
 
 ## Organi dell'Opera nazionale
 
-### Art. 10
+## Art. 10
 
 Il Comitato nazionale e' composto:
 
@@ -150,7 +150,7 @@ Il Comitato nazionale dura, in carica quattro anni, computati dalla data dell'in
 
 Il membro nominato in surrogazione straordinaria dura in carica per il rimanente periodo di nomina del membro surrogato.
 
-### Art. 11
+## Art. 11
 
 Il Comitato nazionale indirizza, coordina e integra, ove occorra, l'azione dei comitati provinciali dell'Opera e quella degli enti pubblici, delle associazioni e degli istituti che attuano il ricovero, l'istruzione, o, comunque, l'assistenza morale e materiale degli orfani di guerra.
 
@@ -166,7 +166,7 @@ d) da parere intorno alla erezione in ente morale di tutte le istituzioni che si
 
 e) esercita le altre attribuzioni affidategli dalla presente legge ed in particolare, provvede annualmente mediante pubblico concorso, al conferimento di borse di studio ad orfani iscritti presso scuole medie ed istituti di istruzione superiore i quali se ne rendano meritevoli per profitto e condotta.
 
-### Art. 12
+## Art. 12
 
 ((Nel seno del Comitato nazionale e' costituita una Giunta esecutiva presieduta dal presidente o, in sua vece, dal vicepresidente, e composta dei delegati dei Ministeri del tesoro e della giustizia, dei delegati dell'Associazione nazionale famiglie caduti e dispersi in guerra e dell'Associazione nazionale vittime civili di guerra, e di altri due membri del Comitato medesimo, scelti da esso)).
 
@@ -176,7 +176,7 @@ Spetta alla Giunta esecutiva di dare attuazione ai deliberati del Comitato nazio
 
 Ove non sia possibile la tempestiva convocazione della Giunta esecutiva, ne assume le funzioni il presidente.
 
-### Art. 13
+## Art. 13
 
 Il Comitato, provinciale e' composto:
 
@@ -210,7 +210,7 @@ Il Comitato provinciale dura in carica quattro anni, computati dalla data, dell'
 
 Il membro nominato in surrogazione straordinaria dura in carica per il rimanente periodo di nomina del membro surrogato.
 
-### Art. 14
+## Art. 14
 
 Il Comitato provinciale ha il diretto esercizio della protezione e dell'assistenza degli orfani di guerra nell'ambito della provincia.
 
@@ -232,7 +232,7 @@ f) invigila a che per tutti gli orfani di guerra siano osservate le leggi protet
 
 g) approva i bilanci ed i conti degli enti collegati con l'Opera nazionale, i cui fini di assistenza siano limitati agli orfani di guerra della Provincia.
 
-### Art. 15
+## Art. 15
 
 ((Nel seno del Comitato provinciale 6 costituita una Giunta esecutiva presieduta dal presidente o, in sua vece, dal vicepresidente, e composta di due membri del Comitato medesimo all'uopo designati, del giudice tutelare, del delegato dell'Opera nazionale per la protezione ed assistenza degli invalidi di guerra, del delegato del Comitato provinciale dell'Associazione nazionale famiglie caduti e dispersi in guerra e del delegato della Sezione provinciale dell'Associazione nazionale vittime civili di Guerra)).
 
@@ -242,7 +242,7 @@ Spetta alla Giunta esecutiva di dare attuazione ai deliberati del Comitato provi
 
 Ove non sia possibile la tempestiva convocazione della Giunta esecutiva, ne assume le funzioni il presidente.
 
-### Art. 16
+## Art. 16
 
 Il Comitato provinciale puo' delegare ad uno dei suoi membri, scelto fra quelli riconosciuti provvisti di speciale competenza tecnica, l'incarico di esercitare funzioni ispettive sugli istituti ed enti di assistenza di cui all'art. 14.
 
@@ -252,19 +252,19 @@ Puo' affidare, inoltre, ad una apposita Commissione, composta anche di persone e
 
 Al delegato dell'Ordinario militare spetta l'assistenza spirituale degli orfani nell'ambito della Provincia.
 
-### Art. 17
+## Art. 17
 
 La Commissione comunale di vigilanza e' presieduta dal sindaco e possono essere chiamati a farne parte il pretore od il conciliatore, il presidente dell'E.C.A., l'ufficiale sanitario, un insegnante od una insegnante di scuole medie od elementari, il parroco od altro sacerdote in sua vece, un ministro di culto diverso, ove cio' sia opportuno tenuto conto del culto religioso degli orfani, nonche' persone di riconosciuta competenza tecnica.
 
 La composizione della Commissione e' stabilita dal Comitato provinciale.
 
-### Art. 18
+## Art. 18
 
 La Commissione ha l'obbligo di segnalare al Comitato provinciale ogni fatto, circostanza o notizia che possano interessare la tutela e l'assistenza degli orfani di guerra e di promuovere dalle competenti autorita' e dagli enti pubblici locali i provvedimenti che, nell'interesse degli orfani stessi, si appalesino necessari, dandone immediata comunicazione al Comitato provinciale.
 
 Spetta, in ogni caso, al sindaco di adottare d'urgenza i provvedimenti necessari nell'interesse degli orfani.
 
-### Art. 19
+## Art. 19
 
 Le adunanze del Comitato nazionale, dei Comitati provinciali, delle rispettive Giunte esecutive e delle Commissioni comunali di vigilanza, sono valide con l'intervento della maggioranza assoluta dei loro membri.
 
@@ -276,13 +276,13 @@ Le votazioni hanno luogo per alzata e seduta, o per appello nominale. Hanno luog
 
 Le adunanze sono indette in qualunque tempo in seguito a determinazione del presidente o ad invito, rispettivamente, del Presidente del Consiglio dei Ministri e del prefetto della Provincia.
 
-### Art. 20
+## Art. 20
 
 Le funzioni di membri del Comitato nazionale, del Comitato provinciale e della Commissione comunale di vigilanza sono gratuite.
 
 A detti membri spetta soltanto il rimborso delle spese di viaggio e di dimora fatte in dipendenza dell'esercizio delle loro funzioni, da liquidarsi in base alle disposizioni vigenti per le persone estranee all'Amministrazione dello Stato.
 
-### Art. 21
+## Art. 21
 
 Persone dell'uno e dell'altro sesso le quali, per uffici ricoperti, per studi fatti, per missioni compiute, siano riconosciute provviste di speciale competenza tecnica possono essere incaricate dell'esercizio di funzioni ispettive sugli organi locali dell'Opera nazionale e sugli enti di assistenza degli orfani di guerra.
 
@@ -292,13 +292,13 @@ Le funzioni ispettive non conferiscono, a coloro che ne hanno l'incarico, il dir
 
 Gli ispettori hanno facolta' di esaminare sul luogo tutti gli atti, contratti e registri delle Amministrazioni, di fare interrogazioni e contestazioni ai fini degli accertamenti di cui sono incaricati, riferendo i risultati delle loro verifiche ed indagini al Comitato nazionale.
 
-### Art. 22
+## Art. 22
 
 Lo stato ed il trattamento del personale assunto direttamente dall'Opera sono stabiliti con regolamento deliberato dal Comitato nazionale e soggetto all'approvazione del Presidente del Consiglio dei Ministri d'intesa con il Ministro per il tesoro.
 
 Il trattamento economico di attivita' di servizio non puo' essere superiore a quello delle corrispondenti categorie degli impiegati dello Stato.
 
-### Art. 23
+## Art. 23
 
 Presso il Comitato nazionale e presso i Comitati provinciali dell'Opera e' costituito un ufficio di segreteria al quale sono destinati, in posizione di comando, impiegati delle carriere direttive, di concetto ed esecutive dello Stato, rispettivamente designati, nel numero ritenuto strettamente necessario, dal Presidente del Consiglio dei Ministri per quelli delle varie amministrazioni statali, dal prefetto della Provincia fra quelli in servizio alla Prefettura.
 
@@ -308,7 +308,7 @@ La Commissione comunale di vigilanza e' assistita gratuitamente dal segretario d
 
 ## Enti di assistenza agli orfani di guerra
 
-### Art. 24
+## Art. 24
 
 Gli Istituti, i Comitati, le Associazioni che, in tutto o in parte, intendono provvedere, nell'ambito della Provincia, al ricovero, all'educazione, all'istruzione, alla cura o, comunque, alla protezione e all'assistenza degli orfani di guerra, ove non siano giuridicamente riconosciuti, devono ottenere il riconoscimento di idoneita', specie nei riguardi morali ed economici, a tale funzione, dal Comitato provinciale, il quale provvede in base alle informazioni assunte e comunicate dal prefetto.
 
@@ -316,7 +316,7 @@ Contro il provvedimento negativo del Comitato provinciale l'ente interessato puo
 
 ## Vigilanza sull'Opera nazionale e sugli Enti di assistenza
 
-### Art. 25
+## Art. 25
 
 Qualora il Comitato nazionale ed i Comitati provinciali dell'Opera violino, oppure non si conformino alle disposizioni della presente legge ed alle prescrizioni delle competenti autorita', il Presidente del Consiglio dei Ministri o il prefetto della Provincia hanno facolta', nella rispettiva competenza, di sospendere o di annullare i provvedimenti o di revocare i componenti gli organi medesimi.
 
@@ -328,7 +328,7 @@ I provvedimenti suindicati hanno carattere definitivo.
 
 L'esonero dall'ufficio del giudice tutelare che non adempia regolarmente alle sue attribuzioni, e la sostituzione di esso, sono disposti dal primo Presidente della Corte di appello su proposta del Comitato nazionale, sentito il prefetto della Provincia nella cui giurisdizione il giudice esercita le sue funzioni.
 
-### Art. 26
+## Art. 26
 
 Gli enti collegati con l'Opera nazionale e quelli indicati nell'art. 24 debbono conformare la propria azione alle disposizioni della presente legge ed a quelle di massima emanate, nella rispettiva competenza, dal Comitato nazionale e dal Comitato provinciale, nonche' alle prescrizioni generali e speciali che, dalle competenti autorita', siano stabilite per la protezione e l'assistenza degli orfani di guerra.
 
@@ -344,7 +344,7 @@ I provvedimenti indicati nel comma precedente sono rispettivamente adottati, nei
 
 Spetta, in ogni caso, al Presidente del Consiglio dei Ministri od al prefetto della Provincia, nella rispettiva competenza, di adottare i provvedimenti di urgenza richiesti da gravi motivi di interesse pubblico.
 
-### Art. 27
+## Art. 27
 
 Tutte le autorita' governative, gli enti pubblici, i direttori di istituti di istruzione sono obbligati a fornire al Comitato provinciale ed alla Commissione comunale di vigilanza informazioni circa gli orfani e le loro famiglie o tutori allo scopo di accettare principalmente:
 
@@ -358,7 +358,7 @@ Debbono, altresi', informare il Comitato provinciale e la Commissione comunale d
 
 L'ufficiale dello stato civile, il rappresentante legale di un ente o istituito ed ogni altra persona che ometta di denunziare alla Commissione comunale di vigilanza, al Comitato provinciale o al giudice tutelare la esistenza di un orfano di guerra, accertata per diretta conoscenza o per dichiarazione ricevuta, incorre nella pena pecuniaria di cui all'art. 196 del regio decreto 9 luglio 1939, n. 1238.
 
-### Art. 28
+## Art. 28
 
 Tutte le istituzioni pubbliche, che hanno per scopo il mantenimento, l'istruzione e l'educazione dei minorenni, sono obbligate, nei limiti dei loro mezzi, al ricovero ed alla assistenza degli orfani della guerra che siano designati dal Comitato provinciale. Tale obbligo permane ancorche' gli orfani non appartengano al territorio entro cui l'istituzione, a termine delle proprie norme statutarie, esplica la sua azione, ferma la preferenza a favore dei minorenni appartenenti al detto territorio, e salvo il rimborso della relativa spesa dal Comitato provinciale.
 
@@ -366,13 +366,13 @@ Gli orfani di guerra designati dal Comitato provinciale sono preferiti nella con
 
 ## Assistenza degli orfani di guerra all'estero
 
-### Art. 29
+## Art. 29
 
 Per l'esercizio dell'assistenza degli orfani di guerra, i consoli possono costituire un Comitato, di persone qualificate da essi presieduto, e incaricare anche qualche membro del Comitato medesimo delle funzioni ispettive nella rispettiva giurisdizione.
 
 Le mansioni inerenti al disbrigo degli affari amministrativi e contabili relativi all'assistenza degli orfani di guerra all'estero sono disimpegnate dal personale addetto agli uffici consolari.
 
-### Art. 30
+## Art. 30
 
 I consoli debbono inviare, al Comitato nazionale dell'Opera, copia dell'elenco degli orfani iscritti e delle successive variazioni.
 
@@ -382,7 +382,7 @@ Ai consoli spettano anche le funzioni del giudice tutelare, per quanto l'eserciz
 
 Essi promuovono la costituzione della tutela e della curatela, osservando, per gli Stati che vi hanno aderito, le disposizioni della Convenzione dell'Aja 12 giugno 1902 per la tutela dei minori, cui fu data piena ed intera esecuzione con la legge 7 settembre 1905, n. 523.
 
-### Art. 31
+## Art. 31
 
 I capi delle rappresentanze diplomatiche all'estero vigilano sull'opera dei consoli, i quali riferiscono direttamente al Comitato nazionale sull'adempimento del loro incarico e ne ricevono istruzioni.
 
@@ -390,17 +390,17 @@ Il Comitato nazionale, per tutto quanto concerne la assistenza e la protezione d
 
 ## Protezione giuridica degli orfani di guerra
 
-### Art. 32
+## Art. 32
 
 Nei casi di abuso della patria potesta' da parte di chi l'esercita, sia violandone o trascurandone i doveri o male amministrando le sostanze dell'orfano o non provvedendo, in corrispondenza ai mezzi di cui puo' disporre, all'educazione, il giudice tutelare, a richiesta del Comitato provinciale, puo' provvedere alla nomina di un tutore alla persona dell'orfano stesso o di un curatore ai beni di lui a termini degli articoli 260, 330 e seguenti del Codice civile. Puo' altresi' stabilire la quota spettante all'orfano sulla pensione nella maggiore misura consentita dall'art. 33 del regio decreto 12 luglio 1923, n. 1491, ed ordinare che essa sia riscossa ed erogata dal Comitato provinciale o dall'ente presso cui sia stato collocato l'orfano.
 
 Resta impregiudicato ogni altro diritto che possa spettare all'orfano ai sensi degli articoli 147 e 148 del Codice civile.
 
-### Art. 33
+## Art. 33
 
 Oltre i casi previsti negli articoli 260, 330 e seguenti del Codice civile, la nomina di un tutore all'orfano puo' essere fatta anche quando il padre o la madre, inabile ai sensi dell'art. 7, lettera b), della presente legge, non sia in grado di adempiere i doveri inerenti alla patria potesta' per il tempo in cui dura tale impossibilita'.
 
-### Art. 34
+## Art. 34
 
 I provvedimenti del giudice tutelare hanno forza esecutiva presso qualsiasi autorita', ente o privato.
 
@@ -408,13 +408,13 @@ Il giudice stesso provvede alla loro esecuzione, trasmettendoli, in copia o in e
 
 Egli, inoltre, ne da' partecipazione alla segreteria del Comitato provinciale per le annotazioni del caso negli atti e nell'elenco generale degli orfani di guerra.
 
-### Art. 35
+## Art. 35
 
 Qualora avvenga che il prefetto, o il Comitato provinciale o il giudice tutelare, nell'esercizio delle rispettive attribuzioni, e nei riguardi di uno stesso affare, prendano provvedimenti diversi e contrastanti tra loro; ovvero avvenga che qualcuna delle dette autorita' ritenga di non dover prendere provvedimenti per difetto di competenza, e il conflitto non possa risolversi per spontanee rinunce, e' dato a qualunque interessato, o anche d'ufficio, di fare ricorso al tribunale in conformita' degli articoli 737 e seguenti del Codice di procedura civile.
 
 Nel caso che il conflitto abbia luogo fra il prefetto ed il Comitato provinciale spetta di decidere al Presidente del Consiglio dei Ministri, sentito il Comitato nazionale.
 
-### Art. 36
+## Art. 36
 
 Chi esercita la patria potesta' o la tutela puo' richiedere al Comitato provinciale che l'orfano sia affidato ad una delle pubbliche istituzioni riconosciute per la assistenza degli orfani di guerra.
 
@@ -422,15 +422,15 @@ Le persone suddette possono sempre fare istanza perche' l'orfano sia ad esse res
 
 Nel caso che non possa diversamente provvedersi la tutela viene assunta, con decreto del giudice tutelare, dal Comitato provinciale o da alcuni degli enti collegati con l'Opera nazionale i quali la esercitano nei modi previsti dall'art. 354 del Codice civile.
 
-### Art. 37
+## Art. 37
 
 I tutori debbono inviare ogni anno al Comitato provinciale una relazione della loro amministrazione con un elenco di tutti gli atti compiuti.
 
-### Art. 38
+## Art. 38
 
 Il Comitato provinciale ha facolta' di proporre al giudice tutelare la esclusione o la rimozione del tutore, del produttore o del curatore, incapaci per una delle cause indicate dagli articoli 350 e 384 del Codice civile.
 
-### Art. 39
+## Art. 39
 
 La vedova con prole, che passa a seconde nozze ed a cui spetta il capitale a suo favore secondo le norme attualmente in vigore, e che prima del matrimonio, a termine dell'art. 340 del Codice civile, deve darne notizia al tribunale, e' obbligata, pure, a darne avviso al Comitato provinciale.
 
@@ -442,13 +442,13 @@ La madre che ha la patria potesta' da' uguale avviso al Comitato provinciale.
 
 Il Comitato provinciale, quando gli consti che la pensione non sia spesa a vantaggio dell'orfano, puo' sempre provocare dal giudice tutelare il provvedimento indicato nella seconda parte del secondo comma di questo articolo.
 
-### Art. 40
+## Art. 40
 
 Quando la persona che esercita la patria potesta' o la tutela sopra gli orfani di guerra sia condannata alla pena dell'ergastolo o ad una pena della reclusione maggiore dei tre anni, ovvero per furto, frode, falso, peculato o per uno dei reati che privino dell'esercizio della patria potesta' o della tutela, il pubblico ministero deve comunicare al Comitato provinciale copia della sentenza di condanna.
 
 Il Comitato provinciale provochera' i provvedimenti necessari per assicurare l'assistenza dell'orfano.
 
-### Art. 41
+## Art. 41
 
 Il Comitato provinciale ed il giudice tutelare invigilano affinche' siano rispettati gli interessi patrimoniali degli orfani, facendoli assistere nelle pratiche amministrative o nelle azioni giudiziarie che possono interessarli, ed assicurandone, se del caso, la rappresentanza in giudizio.
 
@@ -458,23 +458,23 @@ Per tutti i giudizi relativi alla suddetta tutela compete, di diritto, alla dife
 
 Su proposta degli interessati o d'ufficio, il giudice nomina un avvocato procuratore che assista l'orfano negli affari di volontaria giurisdizione.
 
-### Art. 42
+## Art. 42
 
 Colui che abbia in consegna orfani di guerra e chieda il passaporto deve unire agli atti un certificato del Comitato provinciale, il quale attesti che fu provveduto convenientemente per gli orfani medesimi che rimangono nel territorio della Repubblica.
 
 Nel rilasciare il passaporto, il console deve richiedere analoghe garanzie nell'interesse degli orfani che rimangono nel territorio di giurisdizione consolare.
 
-### Art. 43
+## Art. 43
 
 Per quant'altro non contemplato nei precedenti articoli valgono le disposizioni dei titoli IX, X e XI del primo libro del Codice civile.
 
 ## Mezzi per esercitare l'assistenza
 
-### Art. 44
+## Art. 44
 
 L'Opera nazionale provvede ai suoi scopi con un fondo centrale, amministrato dal Comitato nazionale, e col fondo di pertinenza di ciascun Comitato provinciale.
 
-### Art. 45
+## Art. 45
 
 Il fondo centrale e' costituito:
 
@@ -494,7 +494,7 @@ g) da una somma, da destinarsi annualmente con decreto del Presidente del Consig
 
 h) dal provento netto delle pene pecuniarie di cui all'art. 59.
 
-### Art. 46
+## Art. 46
 
 Il fondo del Comitato provinciale e' costituito:
 
@@ -516,7 +516,7 @@ g) dall'importo delle pene pecuniarie di cui agli articoli 9 e 27;
 
 h) dal reddito netto delle istituzioni, di cui al primo e al secondo comma dell'art. 1 del decreto luogotenenziale 13 giugno 1915, n. 873, devoluto all'assistenza degli orfani della guerra con la legge 18 luglio 1917, n. 1143, e nuove aggiunte e modificazioni.
 
-### Art. 47
+## Art. 47
 
 I fondi ed i redditi dotali di cui alla lettera h) dell'articolo precedente sono erogati dal Comitato provinciale per la concessione di sussidi dotati ad orfane di guerra che abbiano contratto matrimonio non oltre il 25° anno di eta'.
 
@@ -538,11 +538,11 @@ Per la riscossione dei fondi e redditi suindicati si applicano le disposizioni d
 
 ## Contabilita' degli organi dell'Opera nazionale
 
-### Art. 48
+## Art. 48
 
 L'esercizio finanziario del Comitato nazionale e dei Comitati provinciali comincia col 1° gennaio e termina al 31 dicembre.
 
-### Art. 49
+## Art. 49
 
 Il Comitato nazionale delibera il proprio bilancio entro il mese di settembre dell'anno precedente a quello cui si riferisce.
 
@@ -554,7 +554,7 @@ Le variazioni al bilancio reso esecutivo e le deliberazioni che importino trasfo
 
 Il provvedimento del Presidente del Consiglio dei Ministri e' definitivo.
 
-### Art. 50
+## Art. 50
 
 Entro il mese di marzo, il Comitato nazionale delibera il conto finanziario della propria gestione riferibile all'esercizio scaduto.
 
@@ -566,7 +566,7 @@ Il Presidente del Consiglio dei Ministri, richiesto ove occorra, le deduzioni de
 
 Contro tale decreto possono produrre appello alla Corte dei conti il Comitato nazionale e gli interessati nel termine di trenta giorni dalla notificazione del decreto stesso.
 
-### Art. 51
+## Art. 51
 
 Il Comitato provinciale delibera il proprio bilancio entro il mese di ottobre dell'anno precedente a quelli cui si riferisce e lo trasmette, entro il mese successivo, al Comitato nazionale, il quale provvede all'approvazione del bilancio stesso.
 
@@ -574,7 +574,7 @@ Entro il mese di aprile, il Comitato provinciale delibera il conto finanziario p
 
 Alle variazioni apportate al bilancio del Comitato provinciale durante l'esercizio ed alle deliberazioni che importino trasformazioni o diminuzioni di patrimonio, si applicano le disposizioni di cui al terzo e quarto comma dell'art. 49, intendendosi sostituito al Presidente del Consiglio dei Ministri il Comitato nazionale dell'Opera.
 
-### Art. 52
+## Art. 52
 
 Il servizio di riscossione e di tesoreria del Comitato nazionale e dei Comitati provinciali deve essere disciplinato con apposite norme da stabilirsi dal Comitato nazionale, con l'approvazione del Presidente del Consiglio dei Ministri.
 
@@ -582,7 +582,7 @@ Il servizio predetto puo' essere affidato ad un istituto di credito oppure ad un
 
 ## Assunzione agli impieghi pubblici e privati e collocamento obbligatorio degli orfani di guerra
 
-### Art. 53
+## Art. 53
 
 Nelle assunzioni ad impieghi nelle Amministrazioni dello Stato e di enti pubblici in genere, che siano fatte senza concorso, la condizione di orfano di guerra costituira' titolo di preferenza nella valutazione dei requisiti prescritti per l'ammissione all'impiego.
 
@@ -590,15 +590,15 @@ Tale condizione costituira' altresi' titolo di precedenza, a parita' di merito n
 
 La preferenza e la precedenza prendono grado dopo quelle consimili concesse agli invalidi di guerra.
 
-### Art. 54
+## Art. 54
 
 La quota di posti vacanti nei ruoli del personale civile delle Amministrazioni dello Stato, riservata agli ex combattenti, ai sensi delle vigenti disposizioni di legge, sara' conferita di volta in volta agli orfani di guerra riconosciuti idonei nei relativi concorsi in quanto non ne risulti possibile l'assegnazione agli ex combattenti.
 
-### Art. 55
+## Art. 55
 
 I benefici di cui ai precedenti articoli 53 e 54 sono applicabili anche agli orfani di guerra maggiorenni, fermi, tuttavia, gli ordinari limiti di eta' stabiliti da ciascuna Amministrazione per le assunzioni di personale ai rispettivi posti di ruolo.
 
-### Art. 56
+## Art. 56
 
 I datori di lavoro, ove si trovino nella impossibilita' di assumere il numero di invalidi prescritto dalla legge 8 giugno 1950, n. 375, e successive modifiche, sono tenuti a compensare la differenza mediante assunzione di orfani di guerra.
 
@@ -608,23 +608,23 @@ E' riconosciuta, altresi', nel caso di mancanza, di invalidi, constatata ai sens
 
 Resta salvo il disposto del citato art. 19 circa l'obbligo, da parte del datore di lavoro, di osservare la prescritta proporzione tra personale valido ed invalido nei riguardi dei posti resisi disponibili in prosieguo di tempo.
 
-### Art. 57
+## Art. 57
 
 Alle aziende esonerate, a termini di legge, dall'obbligo dell'assunzione di invalidi di guerra, potra' essere concesso, in casi di eccezionale comprovata necessita', l'esonero dall'obbligo dell'assunzione di orfani di guerra.
 
 L'esonero e concesso con decreto del Presidente del Consiglio dei Ministri, sentito il Comitato provinciale dell'Opera nazionale quando si riferisce a stabilimenti o aziende di una stessa impresa situati in varie Province, altrimenti provvede con decreto il prefetto competente per territorio udito il Comitato provinciale.
 
-### Art. 58
+## Art. 58
 
 Gli orfani di guerra volontariamente assunti dai datori di lavoro in aumento di quelli da occupare ai sensi dei precedenti articoli, sono esclusi dal computo dei dipendenti validi in genere agli effetti del collocamento obbligatorio degli invalidi di guerra.
 
 Tali volontarie assunzioni, se effettuate in sostituzione di dipendenti validi, non orfani di guerra, non possono, tuttavia, determinare i licenziamenti di invalidi di guerra che, in conseguenza, del mutamento di computo, risultino eventualmente esuberanti.
 
-### Art. 59
+## Art. 59
 
 Le disposizioni sulle pene pecuniarie per la violazione delle norme sul collocamento obbligatorio e sui premi agli scopritori, sono estese in quanto applicabili all'assunzione obbligatoria degli orfani di guerra.
 
-### Art. 60
+## Art. 60
 
 Le disposizioni di cui ai precedenti articoli 56 e 58 sono applicabili anche agli orfani di guerra maggiorenni purche' non abbiano raggiunto l'eta' di 25 anni.
 
@@ -632,7 +632,7 @@ Il collocamento obbligatorio degli orfani di guerra non implica alcuna modificaz
 
 Agli orfani di guerra, ammessi a lavoro in forza delle precedenti disposizioni, sono applicate le normali condizioni di assunzione e di lavoro dell'azienda.
 
-### Art. 61
+## Art. 61
 
 Presso ciascun Comitato provinciale dell'Opera nazionale e formato uno speciale ruolo di quelli tra gli orfani di guerra, compresi nell'elenco generale, che il Comitato stesso riconosca idonei al collocamento in impieghi pubblici o presso private aziende.
 
@@ -642,7 +642,7 @@ Contro le deliberazioni del Comitato provinciale, le parti interessate possono f
 
 ## Riconoscimento delle benemerenze
 
-### Art. 62
+## Art. 62
 
 Il Presidente del Consiglio dei Ministri, sentito il Comitato nazionale dell'Opera, puo' assegnare medaglie e diplomi di benemerenza ad enti o a persone che abbiano svolto o svolgano particolare attivita' a vantaggio degli orfani di guerra.
 
@@ -650,7 +650,7 @@ La relativa concessione e' pubblicata nella Gazzetta Ufficiale.
 
 ## Disposizioni relative all'attuazione della legge
 
-### Art. 63
+## Art. 63
 
 E' abrogata qualsiasi norma statutaria di enti pubblici che sia incompatibile con l'applicazione della presente legge.
 
@@ -660,7 +660,7 @@ Viene deferita alla competenza dell'Opera nazionale l'applicazione di ogni norma
 
 ## Norme transitorie e finali
 
-### Art. 64
+## Art. 64
 
 Le disposizioni della presente legge si applicano per quanto possibile anche in Somalia sino al momento in cui cessera' l'Amministrazione fiduciaria italiana.
 
@@ -668,11 +668,11 @@ Il funzionario piu' elevato in grado della Amministrazione fiduciaria italiana, 
 
 Egli provvede di persona, oppure tramite suoi rappresentanti all'uopo delegati, e dovra', in tal caso, darne notizia al comitato nazionale dell'Opera.
 
-### Art. 65
+## Art. 65
 
 Le modifiche necessarie per il coordinamento del regolamento in vigore con la presente legge saranno disposte con decreto del Presidente della Repubblica sentito il Consiglio di Stato.
 
-### Art. 66
+## Art. 66
 
 Le disposizioni in contrasto con quanto disposto nella presente legge sono abrogate.
 

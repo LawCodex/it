@@ -20,15 +20,13 @@ retrieved: 2026-10-11
 
 ## TITOLO I - FINANZIAMENTO DELLE SPESE DA EFFETTUARSI ALL'ESTERO
 
-### Capo I
+### Capo I - PROCEDURE PER IL FINANZIAMENTO
 
-#### PROCEDURE PER IL FINANZIAMENTO
-
-##### Art. 1
+#### Art. 1
 
 (( ARTICOLO ABROGATO DAL D.P.R. 15 DICEMBRE 2001, N. 482))
 
-##### Art. 2
+#### Art. 2
 
 Gli ordini di rimessa a favore delle sedi all'estero hanno valore di ordini di accreditamento e vengono trasmessi in copia, oltre che agli uffici destinatari, alla Ragioneria centrale del Ministero degli affari esteri ed alla Corte dei conti che ne terranno nota nelle proprie scritture ai fini della resa del conto da parte dei funzionari a favore dei quali viene erogata la valuta. Ai fondi cosi' accreditati si applicano le disposizioni di cui alla legge 3 marzo 1960, n. 169, secondo norme di adeguamento da emanarsi con il regolamento di cui al successivo articolo 8.
 
@@ -46,21 +44,19 @@ I fondi per i pagamenti a favore del personale in servizio all'estero o di altri
 
 > La legge 3 marzo 1960, n. 169, concerne "Utilizzazione dei fondi accreditati in contabilita' speciali e passaggio di fondi tra funzionari delegati di alcune amministrazioni dello Stato".
 
-##### Art. 3
+#### Art. 3
 
 Nella gestione del conto corrente di cui all'articolo 1, si tiene conto dei versamenti effettuati sui singoli capitoli, distinti a seconda che trattasi di versamenti in conto competenza od in conto residui.
 
 Gli eventuali saldi attivi che si verificano a fine anno sul conto corrente di cui all'articolo 1 sono utilizzabili per l'ulteriore periodo di un anno unicamente per spese afferenti all'esercizio precedente; gli importi residui al termine di tale periodo vengono versati al bilancio dell'entrata.
 
-##### Art. 4
+#### Art. 4
 
 I versamenti di cui all'articolo 1 possono essere disposti dal mese di dicembre con imputazione al bilancio dell'esercizio successivo anche se in corso di approvazione e, comunque, per un importo non eccedente i limiti derivanti da un eventuale regime di esercizio provvisorio.
 
-## Capo II - GESTIONE DI UTILIZZAZIONE DEI CONTI CORRENTI
+### Capo II - GESTIONE DI UTILIZZAZIONE DEI CONTI CORRENTI VALUTA TESORO
 
-### VALUTA TESORO
-
-##### Art. 5
+#### Art. 5
 
 Presso sedi all'estero, da individuarsi con decreto del Ministro degli affari esteri di concerto con il Ministro del tesoro, sono costituiti conti correnti valuta Tesoro.
 
@@ -78,7 +74,7 @@ Ad operazione effettuata viene disposto il versamento all'entrata del controvalo
 
 La Direzione generale del tesoro - portafoglio dello Stato, compatibilmente con le disposizioni valutarie locali, autorizza il trasferimento in Italia delle disponibilita' in valuta esistenti sui conti correnti valuta Tesoro per il successivo versamento del loro controvalore in lire all'entrata dello Stato.
 
-##### Art. 6
+#### Art. 6
 
 La Direzione generale del tesoro puo' autorizzare l'utilizzo delle disponibilita' dei conti correnti valuta Tesoro per le esigenze delle rappresentanze diplomatiche e consolari ed eventualmente di altre amministrazioni, salvo reintegro da effettuarsi con le modalita' di cui all'ultimo comma.
 
@@ -90,19 +86,15 @@ Nel corso dell'esercizio con le stesse modalita' puo' farsi luogo a modifiche ne
 
 Ad operazione effettuata, viene disposto il versamento all'entrata dell'importo in lire indicato nelle richieste di cui al secondo comma, mediante imputazione sul relativo capitolo di spesa.
 
-##### Art. 7
+#### Art. 7
 
 Le spese bancarie, comprese quelle concernenti i prelevamenti e i trasferimenti di fondi, sono a carico dei conti correnti valuta Tesoro.
 
 Gli interessi corrisposti dagli istituti di credito vanno ad alimentare i conti.
 
-## TITOLO II
+## TITOLO II - SNELLIMENTO DELLE PROCEDURE PER L'ORDINAZIONE DELLE SPESE ALL'ESTERO DEL MINISTERO DEGLI AFFARI ESTERI E PER LA PRESENTAZIONE DEI RENDICONTI.
 
-### SNELLIMENTO DELLE PROCEDURE PER L'ORDINAZIONE DELLE SPESE - ALL'ESTERO DEL MINISTERO DEGLI AFFARI ESTERI E PER LA PRESENTAZIONE
-
-#### DEI RENDICONTI.
-
-##### Art. 8
+#### Art. 8
 
 Con apposito regolamento da emanarsi con decreto del Ministro degli affari esteri, di concerto con il Ministro del tesoro, vengono introdotte norme per lo snellimento delle procedure delle spese da ordinarsi ed effettuarsi all'estero, ivi comprese quelle in economia, e per l'adeguamento delle procedure stesse e dell'attivita' all'estero dei funzionari amministrativi del Ministero degli affari esteri con qualifica dirigenziale ai principi ed alle norme del decreto del Presidente della Repubblica 30 giugno 1972, n. 748.
 
@@ -110,7 +102,7 @@ Nello stesso regolamento sono disciplinati, secondo criteri di massima semplific
 
 ## TITOLO III - NORME FINALI E TRANSITORIE
 
-##### Art. 9
+#### Art. 9
 
 Con decreto del Ministro degli affari esteri, di concerto con il Ministro del tesoro, sentita la commissione permanente di finanziamento di cui all'articolo 172 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, possono essere istituiti, nell'ambito di aree geografiche, entro il limite massimo di venti, servizi amministrativi decentrati cui competono, nei confronti degli uffici operanti nell'area di loro competenza: attivita' di collaborazione e consulenza in materia amministrativa e contabile, anche attraverso l'invio di propri addetti per il temporaneo esercizio delle funzioni relative a dette materie; il discarico amministrativo delle spese di cui all'articolo 2, secondo comma; il riscontro e l'approvazione delle contabilita', nonche' il riscontro dei conti giudiziali dei percettori di entrate - nei casi in cui cio' sia previsto dal decreto istitutivo sopra menzionato - prima del loro inoltro alla ragioneria centrale ed alla Corte dei conti.
 
@@ -156,11 +148,11 @@ Con le modalita' di cui al primo comma e nel limite ivi indicato puo' essere dis
 
 > \- L'art. 114, comma terzo, del decreto del Presidente della Repubblica n. 18/1967, dispone che "per esigenze di servizio, nelle quali il Ministro richiedera' il parere del consiglio di amministrazione" ai funzionari della carriera direttiva amministrativa "possono essere conferite funzioni consolari di direzione o di collaborazione".
 
-##### Art. 10
+#### Art. 10
 
 Con norme regolamentari da emanarsi con decreto del Ministro degli affari esteri, di concerto con il Ministro per la funzione pubblica e con il Ministro del tesoro, sentito il consiglio di amministrazione, sono disciplinati: il funzionamento dei servizi amministrativi decentrati di cui all'articolo 9; il periodo di permanenza all'estero del relativo personale; i criteri per il suo accreditamento presso le autorita' dei Paesi dell'area geografica in cui opera; il collegamento dei servizi stessi con la Direzione generale del personale e dell'amministrazione ed il loro coordinamento con l'ispettorato generale del Ministero e degli uffici all'estero; la conseguente ristrutturazione dei servizi amministrativi centrali, anche in relazione all'eventuale accorpamento delle fasi della spesa e tenuto conto in modo particolare della disciplina delle funzioni dirigenziali; la riorganizzazione dei servizi amministrativi presso le sedi all'estero.
 
-##### Art. 11
+#### Art. 11
 
 Il quadro della tabella organica e delle funzioni dei dirigenti amministrativi del Ministero degli affari esteri allegata al decreto del Presidente della Repubblica 30 giugno 1972, n. 748, e' sostituito dalla tabella A annessa alla presente legge.
 
@@ -176,7 +168,7 @@ Per le esigenze derivanti dall'applicazione della presente legge, anche agli eff
 
 > Per i dirigenti di cui ai precedenti commi che prestino servizio presso un'amministrazione diversa da quella di appartenenza, si provvede analogamente, sostituendosi al Ministro ed al consiglio di amministrazione indicati, i corrispondenti organi dell'amministrazione presso cui i dirigenti medesimi sono comandati o collocati fuori ruolo".
 
-##### Art. 12
+#### Art. 12
 
 L'applicazione delle norme del capo I avverra' non oltre l'inizio del secondo esercizio successivo all'entrata in vigore della presente legge.
 
@@ -198,7 +190,7 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 ## TITOLO III - NORME FINALI E TRANSITORIE
 
-##### Tabelle
+#### Tabelle
 
 TABELLA A
 

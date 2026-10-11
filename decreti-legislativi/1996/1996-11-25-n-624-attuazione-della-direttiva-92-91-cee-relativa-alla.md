@@ -53,7 +53,7 @@ il seguente decreto legislativo:
 
 ### CAPO I - CAMPO DI APPLICAZIONE
 
-###### Art. 1 - Attivita' soggette
+#### Art. 1 - Attivita' soggette
 
 1\. Il presente decreto legislativo prescrive misure per la tutela della sicurezza e della salute dei lavoratori durante il lavoro nelle attivita' estrattive di sostanze minerali di prima e di seconda categoria, cosi' come definite dall'articolo 2 del regio decreto 29 luglio 1927, n. 1443, e successive modifiche.
 
@@ -77,7 +77,7 @@ e) alle attivita' di prospezione, ricerca, coltivazione e stoccaggio degli idroc
 
 > In supplemento ordinario alla Gazzetta Ufficiale - serie generale - del 10 febbraio 1997 si procedera' alla ripubblicazione del testo del presente decreto corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 14 marzo l986, n. 217.
 
-###### Art. 2 - Definizioni
+#### Art. 2 - Definizioni
 
 1\. Agli effetti delle disposizioni di cui al presente decreto si intendono per:
 
@@ -87,7 +87,7 @@ b) titolare: l'imprenditore di miniera o cava o il titolare di permesso di prosp
 
 c) sorvegliante: persona, in possesso delle capacita' e delle competenze necessarie, designato dal titolare per la sorveglianza sul luogo di lavoro occupato da lavoratori.
 
-###### Art. 3 - Vigilanza
+#### Art. 3 - Vigilanza
 
 1\. Ai sensi delle norme vigenti:
 
@@ -97,7 +97,7 @@ b) per le attivita' estrattive relative a sostanze minerali di seconda categoria
 
 2\. Quando l'autorita' di vigilanza si avvale delle strutture del Servizio Sanitario Nazionale ai sensi dell'articolo 4 del decreto del Presidente della Repubblica n. 128 del 1959, i relativi oneri finanziari sono a carico del datore di lavoro.
 
-###### Art. 4 - Esercizio della vigilanza
+#### Art. 4 - Esercizio della vigilanza
 
 1\. I funzionari incaricati dell'espletamento dei compiti di vigilanza hanno diritto a visitare le attivita' estrattive.
 
@@ -105,7 +105,7 @@ b) per le attivita' estrattive relative a sostanze minerali di seconda categoria
 
 3\. Nell'esercizio dei loro compiti, i funzionari incaricati dei controlli ispettivi hanno facolta' di richiedere l'assistenza della forza pubblica e delle Capitanerie di Porto.
 
-###### Art. 5 - Misure generali di tutela
+#### Art. 5 - Misure generali di tutela
 
 1\. Le misure generali per la tutela della salute e della sicurezza dei lavoratori, oltre a quelle previste dall'articolo 3 del decreto legislativo n. 626 del 1994, sono le seguenti:
 
@@ -137,7 +137,7 @@ n) le misure di prevenzione e protezione dai rischi adottate devono essere verif
 
 ### CAPO II - OBBLIGHI DEL DATORE DI LAVORO
 
-###### Art. 6 - Documento di sicurezza e di salute
+#### Art. 6 - Documento di sicurezza e di salute
 
 1\. Per il settore estrattivo il documento di cui all'articolo 4, comma 2, del decreto legislativo n. 626 del 1994 prende il nome di Documento di Sicurezza e Salute in appresso denominato "DSS".
 
@@ -151,7 +151,7 @@ a) il DSS prima dell'inizio delle attivita';
 
 b) gli aggiornamenti del DSS.
 
-###### Art. 7 - Obblighi
+#### Art. 7 - Obblighi
 
 1\. Il datore di lavoro:
 
@@ -161,7 +161,7 @@ b) trasmette la comunicazione di cui all'articolo 8, comma 11, del decreto legis
 
 2\. Nell'ambito degli obblighi previsti dal presente decreto, il titolare non puo' delegare quelli previsti dall'articolo 9, comma 2, lettera b).
 
-###### Art. 8 - Riunione di prevenzione e protezione dai rischi
+#### Art. 8 - Riunione di prevenzione e protezione dai rischi
 
 1\. La riunione periodica di cui all'articolo 11 del decreto legislativo n. 626 del 1994 deve essere tenuta per ogni luogo di lavoro con piu' di 5 addetti.
 
@@ -171,7 +171,7 @@ b) trasmette la comunicazione di cui all'articolo 8, comma 11, del decreto legis
 
 4\. Il datore di lavoro trasmette all'Autorita' di vigilanza il verbale della riunione di cui al comma 1.
 
-###### Art. 9 - DSS coordinato
+#### Art. 9 - DSS coordinato
 
 1\. In caso di affidamento dei lavori all'interno del luogo di lavoro ad imprese appaltatrici o a lavoratori autonomi, o comunque quando nello stesso luogo di lavoro sono presenti lavoratori di piu' imprese, l'articolo 7 del decreto legislativo n. 626 del 1994, si applica limitatamente al comma 1, lettera a).
 
@@ -183,7 +183,7 @@ b) il titolare valuta le documentazioni di cui alla lettera a), i rischi derivan
 
 c) gli appaltatori, previa consultazione dei propri rappresentanti per la sicurezza, sottoscrivono il DSS coordinato di cui alla lettera b), divenendone responsabili per l'attuazione della parte di specifica competenza.
 
-###### Art. 10 - Contenuti del DSS
+#### Art. 10 - Contenuti del DSS
 
 1\. Il DSS di cui all'articolo 6, e quello di cui all'articolo 9, devono contenere la valutazione dei rischi per la salute e la sicurezza dei lavoratori in relazione all'attivita' svolta e la conseguente individuazione delle misure e modalita' operative, indicando in particolare le soluzioni adottate, o l'assenza di rischio, per ciascuno dei seguenti elementi:
 
@@ -245,7 +245,7 @@ a) attivita' di informazione e formazione dei lavoratori;
 
 b) consultazione del rappresentante per la sicurezza.
 
-###### Art. 11
+#### Art. 11
 
 (Protezione contro gli incendi, le esplosioni e le atmosfere nocive) 1. Il datore di lavoro prende le misure e le precauzioni adatte al tipo di attivita', al fine di:
 
@@ -253,21 +253,21 @@ a) prevenire, rilevare e combattere l'insorgere e il propagarsi di incendi e di 
 
 b) impedire la formazione, l'accumulo e l'innesco di atmosfere esplosive o nocive alla salute.
 
-###### Art. 12 - Mezzi di evacuazione e di salvataggio
+#### Art. 12 - Mezzi di evacuazione e di salvataggio
 
 1\. Il datore di lavoro fornisce e mantiene in efficienza i mezzi di evacuazione e di salvataggio appropriati affinche' in caso di pericolo i lavoratori possano abbandonare il luogo di lavoro in modo rapido e sicuro.
 
-###### Art. 13 - Sistemi di comunicazione, di avvertimento e di allarme
+#### Art. 13 - Sistemi di comunicazione, di avvertimento e di allarme
 
 1\. Il datore di lavoro fornisce e mantiene in efficienza i sistemi di allarme e di comunicazione necessari che permettono di iniziare immediatamente le operazioni di evacuazione, di soccorso e di salvataggio.
 
-###### Art. 14 - Informazione dei lavoratori
+#### Art. 14 - Informazione dei lavoratori
 
 1\. Fermo restando quanto previsto dal titolo I, capi V e VI, del decreto legislativo n. 626 del 1994, il datore di lavoro provvede affinche' i lavoratori e i rappresentanti per la sicurezza vengano informati delle misure da prendere in materia di sicurezza e di salute nei luoghi di lavoro; le informazioni devono essere comprensibili per i lavoratori interessati.
 
 2\. Ove su uno stesso luogo di lavoro siano presenti due o piu' rappresentanti per la sicurezza appartenenti a diverse aziende, essi possono costituire una struttura di coordinamento.
 
-###### Art. 15 - Sorveglianza sanitaria
+#### Art. 15 - Sorveglianza sanitaria
 
 1\. Il datore di lavoro sottopone a sorveglianza sanitaria ai sensi del Titolo I del decreto legislativo n. 626 del 1994 i lavoratori per i quali la valutazione dei rischi abbia evidenziato un rischio per la salute.
 
@@ -279,7 +279,7 @@ b) impedire la formazione, l'accumulo e l'innesco di atmosfere esplosive o nociv
 
 ### CAPO III - NORME GENERALI
 
-###### Art. 16 - Commissione Consultiva Permanente per la prevenzione degli infortuni e l'igiene del lavoro
+#### Art. 16 - Commissione Consultiva Permanente per la prevenzione degli infortuni e l'igiene del lavoro
 
 1\. La Commissione di cui all'articolo 393 del decreto del Presidente della Repubblica 27/4/55, n. 547, come sostituito dall'articolo 26 del decreto legislativo n. 626 del 1994, e' integrata, per le questioni riguardanti le attivita' estrattive, da:
 
@@ -289,7 +289,7 @@ b) due Ingegneri Capi degli uffici periferici della Direzione generale delle min
 
 2\. Alla copertura degli oneri relativi alle spese di missione per il personale di cui al comma 1, lettere a) e b), si fa fronte con le maggiori entrate derivanti dall'applicazione dell'articolo 102.
 
-###### Art. 17
+#### Art. 17
 
 (Modifiche all'articolo 83 del decreto del Presidente della
 
@@ -303,7 +303,7 @@ Repubblica n. 886 del 1979)
 
 3\. Alla copertura degli oneri relativi al personale di cui al comma 1 si fa fronte con le maggiori entrate derivanti dall'applicazione dell'articolo 102.
 
-###### Art. 18 - Trasmissione documentazione
+#### Art. 18 - Trasmissione documentazione
 
 1\. All'atto della presentazione della denuncia di esercizio, il titolare allega il DSS relativo all'attivita' denunciata; il DSS deve essere coerente con il piano ed il programma di coltivazione.
 
@@ -311,13 +311,13 @@ Repubblica n. 886 del 1979)
 
 3\. I piani di emergenza, nei casi di possibile coinvolgimento della popolazione, devono essere trasmessi all'autorita' di protezione civile.
 
-###### Art. 19 - Sistemazione dei luoghi di lavoro
+#### Art. 19 - Sistemazione dei luoghi di lavoro
 
 1\. Nei luoghi di lavoro le sostanze o i depositi pericolosi devono essere asportati o tenuti sotto controllo per il tempo necessario in modo che non costituiscano un rischio per la salute e la sicurezza dei lavoratori.
 
 2\. Fermo restando quanto stabilito dall'articolo 50 del decreto del Presidente della Repubblica n. 128 del 1959, per i posti di lavoro occupati da lavoratori isolati dagli altri occorre prevedere un'idonea sorveglianza o un collegamento con adeguati mezzi di comunicazione.
 
-###### Art. 20 - Direttore responsabile e sorvegliante - Denunce di esercizio
+#### Art. 20 - Direttore responsabile e sorvegliante - Denunce di esercizio
 
 1\. L'articolo 6 del decreto del Presidente della Repubblica n. 128 del 1959 e' sostituito dal seguente:
 
@@ -415,27 +415,27 @@ Le sostituzioni dei sorveglianti sono denunciate nei modi e nei termini di cui a
 
 "Il titolare di un permesso di ricerca, o di una concessione di coltivazione deve presentare denuncia di esercizio per i lavori di ricerca o di coltivazione nei modi e nei termini di cui all'articolo 6."
 
-###### Art. 21 - Lavoratori competenti
+#### Art. 21 - Lavoratori competenti
 
 1\. Fermo restando, per i lavori in sotterraneo, il disposto dell'articolo 160 del decreto del Presidente della Repubblica n. 128 del 1959, il datore di lavoro stabilisce, per ciascun posto di lavoro occupato da lavoratori, il numero di lavoratori necessari, tenuto conto anche dei turni per i lavori piu' gravosi, in possesso della capacita', dell'esperienza e della formazione specifiche per l'esercizio delle funzioni loro affidate.
 
-###### Art. 22 - Istruzioni scritte
+#### Art. 22 - Istruzioni scritte
 
 1\. Per ogni luogo di lavoro il datore di lavoro deve curare la predisposizione di istruzioni scritte, opportunamente ubicate e, ove necessario, anche plurilingue, comprensibili a tutti i lavoratori, indicanti le norme da seguire a tutela della sicurezza e della salute dei lavoratori e a garanzia dell'impiego del materiale in condizioni di sicurezza, nonche' sull'uso delle attrezzature di salvataggio e sulle azioni da intraprendere in caso di emergenza sul posto di lavoro o nelle sue vicinanze.
 
-###### Art. 23 - Incarichi scritti per attivita' in situazioni pericolose
+#### Art. 23 - Incarichi scritti per attivita' in situazioni pericolose
 
 1\. Per l'esecuzione di attivita' in situazioni pericolose o di per se' non pericolose ma che, interagendo con altre, possono far insorgere rischi gravi, i lavoratori devono ricevere specifico incarico scritto che deve precisare le condizioni da rispettare e le precauzioni da adottare prima, durante e dopo i lavori.
 
 2\. L'incarico e' rilasciato dal direttore responsabile o dal sorvegliante prima dell'inizio del lavoro.
 
-###### Art. 24 - Lavoratori portatori di handicap
+#### Art. 24 - Lavoratori portatori di handicap
 
 1\. Ove necessario, i posti di lavoro devono essere strutturati tenendo conto delle esigenze dei lavoratori portatori di handicap; tale obbligo vige in particolare per le porte, i passaggi, le scale, le docce, i lavabi, i gabinetti ed i posti di lavoro da essi utilizzati o occupati direttamente.
 
 2\. L'obbligo di cui al comma 1 non si applica a luoghi di lavoro gia' utilizzati prima del 1o gennaio 1995; in tale caso devono comunque essere adottate misure idonee a consentire la mobilita' e l'utilizzazione dei servizi sanitari e di igiene personale.
 
-###### Art. 25 - Infortuni ed incidenti
+#### Art. 25 - Infortuni ed incidenti
 
 1\. I lavoratori sono tenuti a segnalare al piu' presto al sorvegliante ogni infortunio, anche se di piccola entita', loro occorso in occasione del lavoro.
 
@@ -453,7 +453,7 @@ Le sostituzioni dei sorveglianti sono denunciate nei modi e nei termini di cui a
 
 8\. Entro i primi 15 giorni di ogni mese il titolare trasmette all'autorita' di vigilanza competente un prospetto riassuntivo, anche se negativo, degli infortuni verificatisi nel mese precedente e che abbiano comportato un'assenza dal lavoro di almeno tre giorni.
 
-###### Art. 26 - Inchieste sugli infortuni
+#### Art. 26 - Inchieste sugli infortuni
 
 1\. Il funzionario dell'autorita' di vigilanza competente incaricato della constatazione di un infortunio, assistito dal direttore responsabile e, ove necessario, da un funzionario dei Vigili del fuoco designato dal Comando provinciale competente, e da un funzionario della Capitaneria di porto per le attivita' in mare, accerta le circostanze che lo hanno determinato, redige verbale di constatazione raccogliendo le dichiarazioni del sorvegliante, dei testimoni e dell'infortunato.
 
@@ -461,7 +461,7 @@ Le sostituzioni dei sorveglianti sono denunciate nei modi e nei termini di cui a
 
 3\. In caso di infortunio che richieda la denuncia di cui al comma 3, primo periodo dell'articolo 25 a meno che non provvedano altrimenti l'autorita' giudiziaria o l'autorita' di pubblica sicurezza per motivi di pubblica incolumita', lo stato delle cose non puo' essere mutato fino all'arrivo del funzionario dell'autorita' di vigilanza competente che decide in merito, solo in caso di pericolo grave ed immediato per la sicurezza delle persone o delle lavorazioni, e' fatta salva la possibilita' per il direttore responsabile ed il sorvegliante di modificare, sotto la propria responsabilita', lo stato delle cose nei luoghi di un infortunio, riferendo immediatamente all'autorita' di vigilanza competente le modifiche apportate.
 
-###### Art. 27 - Infortuni in mare
+#### Art. 27 - Infortuni in mare
 
 1\. Per le attivita' estrattive che si svolgono in mare, qualora l'infortunio riguardi personale imbarcato con contratto di arruolamento sulle navi e sui mezzi nautici impiegati nei lavori, deve essere presentata denuncia di infortunio anche all'autorita' marittima competente, nei termini, nei modi e per gli effetti di cui al decreto del Presidente della Repubblica 30 giugno 1965, n. 1124, fermo restando l'obbligo di denuncia di cui all'articolo 54 dello stesso decreto.
 
@@ -471,17 +471,15 @@ Le sostituzioni dei sorveglianti sono denunciate nei modi e nei termini di cui a
 
 4\. Restano ferme le norme riguardanti le inchieste sugli infortuni della gente di mare di cui al Titolo V del regio decreto 25 gennaio 1937, n. 200, e sui sinistri marittimi di cui alla Parte I, Libro IV, Titoli I e II del Codice della navigazione.
 
-###### Art. 28 - Statistiche degli infortuni
+#### Art. 28 - Statistiche degli infortuni
 
 1\. Il Ministero dell'industria, del commercio e dell'artigianato provvede alla rilevazione, all'elaborazione ed alla pubblicazione di statistiche degli infortuni sul lavoro e delle malattie professionali dei lavoratori nell'industria estrattiva.
 
 ## TITOLO I - DISPOSIZIONI GENERALI
 
-### CAPO IV - ATTREZZATURE ED IMPIANTI MECCANICI, ELETTRICI ED
+### CAPO IV - ATTREZZATURE ED IMPIANTI MECCANICI, ELETTRICI ED ELETTROMECCANICI
 
-#### ELETTROMECCANICI
-
-###### Art. 29 - Misure di carattere generale
+#### Art. 29 - Misure di carattere generale
 
 1\. Le attrezzature meccaniche, elettriche ed elettromeccaniche devono essere scelte, installate, messe in funzione, gestite e sottoposte a manutenzione tenendo in debito conto la sicurezza e la salute dei lavoratori e nel rispetto delle pertinenti normative tecniche.
 
@@ -491,7 +489,7 @@ Le sostituzioni dei sorveglianti sono denunciate nei modi e nei termini di cui a
 
 4\. Le attrezzature e gli impianti meccanici devono avere resistenza adeguata, essere esenti da difetti manifesti e rispondenti all'uso cui sono destinati.
 
-###### Art. 30 - Disposizioni specifiche
+#### Art. 30 - Disposizioni specifiche
 
 1\. Le attrezzature e gli impianti elettrici ed elettromeccanici devono essere di caratteristiche adeguate e potenza sufficiente all'uso cui sono destinati.
 
@@ -501,7 +499,7 @@ Le sostituzioni dei sorveglianti sono denunciate nei modi e nei termini di cui a
 
 4\. Gli impianti di tipo speciale in quanto incorporati in macchine operatrici, quali quelli di sollevamento inseriti nell'impianto di perforazione, devono rispondere a requisiti di sicurezza e di sicuro impiego in funzione del loro utilizzo, secondo le norme vigenti o, in assenza, secondo raccomandazioni tecniche italiane o norme o raccomandazioni tecniche di altri Paesi riconosciute idonee sentita la Commissione di cui all'articolo 83 del decreto del Presidente della Repubblica n. 886 del 1979.
 
-###### Art. 31 - Verifiche periodiche
+#### Art. 31 - Verifiche periodiche
 
 1\. Il datore di lavoro, conformemente alle modalita' di cui al decreto del Ministro del lavoro in data 12 settembre 1959, pubblicato nella Gazzetta Ufficiale della Repubblica n. 299 dell'11 dicembre 1959, e successive modifiche ed integrazioni, deve denunciare all'autorita' di vigilanza competente, prima della loro messa in esercizio, le attrezzature e gli impianti per i quali sono previste verifiche periodiche nei citati decreti n. 547 del 1955, n. 128 del 1959 e n. 886 del 1979.
 
@@ -517,19 +515,19 @@ Le sostituzioni dei sorveglianti sono denunciate nei modi e nei termini di cui a
 
 ### CAPO V - MANUTENZIONE
 
-###### Art. 32 - Obblighi di manutenzione
+#### Art. 32 - Obblighi di manutenzione
 
 1\. Il datore di lavoro provvede a che l'ispezione, la manutenzione e la prova dei componenti delle attrezzature, degli strumenti di misura e degli impianti siano eseguite da personale competente, a seguito di specifico incarico.
 
 2\. Il personale incaricato della manutenzione di cui al comma 1 deve compilare le schede di ispezione e di prova che devono essere opportunamente archiviate e tenute a disposizione dei funzionari dell'autorita' di vigilanza.
 
-###### Art. 33 - Misure generali di manutenzione del materiale di sicurezza
+#### Art. 33 - Misure generali di manutenzione del materiale di sicurezza
 
 1\. I materiali di sicurezza devono essere adeguati alla valutazione dei rischi, tenuti costantemente pronti all'uso e mantenuti in stato d'efficienza.
 
 2\. La loro manutenzione deve essere curata tenendo debito conto delle attivita' svolte.
 
-###### Art. 34 - Recipienti a pressione
+#### Art. 34 - Recipienti a pressione
 
 1\. I recipienti a pressione devono essere installati, conservati ed utilizzati con le necessarie cautele, secondo le norme ad essi relative.
 
@@ -541,7 +539,7 @@ Le sostituzioni dei sorveglianti sono denunciate nei modi e nei termini di cui a
 
 ### CAPO VI - DISPOSIZIONI TECNICHE
 
-###### Art. 35 - Sosta e trasporto degli esplosivi nel cantiere
+#### Art. 35 - Sosta e trasporto degli esplosivi nel cantiere
 
 1\. In caso di assenza di deposito di esplosivo specificamente asservito all'attivita' estrattiva, il direttore responsabile deve assicurare che l'esplosivo sia fornito, per quanto possibile, in prossimita' dei punti di utilizzo ed in tempi immediatamente precedenti l'impiego dello stesso.
 
@@ -549,13 +547,13 @@ Le sostituzioni dei sorveglianti sono denunciate nei modi e nei termini di cui a
 
 3\. Fatte salve le specifiche disposizioni dell'articolo 73, comma 2, il trasporto degli esplosivi nell'ambito del cantiere puo' essere effettuato solo con mezzi e con modalita' approvati dall'autorita' di vigilanza.
 
-###### Art. 36 - Impiego di automezzi per il caricamento dei fori da mina
+#### Art. 36 - Impiego di automezzi per il caricamento dei fori da mina
 
 1\. Fermo restando il disposto dell'articolo 46 del regio decreto 18 giugno 1931, n.773, e in deroga al primo comma dell'articolo 336 del decreto del Presidente della Repubblica 9 aprile 1959 n. 128, la miscelazione dei prodotti utilizzati per il caricamento dei fori da mina, nonche' il caricamento stesso, possono essere effettuati con automezzi riconosciuti idonei dal Ministero dell'industria, del commercio e dell'artigianato ai sensi dell'articolo 297 del decreto del Presidente della Repubblica n. 128 del 1959, e conformemente alle prescrizioni stabilite, caso per caso, dall'autorita' di vigilanza.
 
 2\. I prodotti miscelati dai mezzi di cui al comma 1 debbono essere utilizzati solo nei fori da mina in prossimita' dell'automezzo e non possono essere incartucciati o alienati.
 
-###### Art. 37 - Vie ed uscite di emergenza
+#### Art. 37 - Vie ed uscite di emergenza
 
 1\. Ai luoghi di lavoro ubicati in superficie si applicano le disposizioni dei commi 3, 4, 6, 7, 9, 10 e 11 dell'articolo 13 del decreto del Presidente della Repubblica n. 547 del 1955, come sostituito dall'articolo 33, comma 1, del decreto legislativo n. 626 del 1994.
 
@@ -563,7 +561,7 @@ Le sostituzioni dei sorveglianti sono denunciate nei modi e nei termini di cui a
 
 3\. Nelle attivita' estrattive condotte mediante perforazione, i luoghi di lavoro delimitati da recinzione, i locali di alloggio e i locali di soggiorno devono avere almeno due uscite di emergenza distinte, poste alla massima distanza possibile l'una dall'altra e che sboccano in una zona sicura, in un punto di raduno o in un'area di sgombero sicuri.
 
-###### Art. 38 - Illuminazione naturale ed artificiale
+#### Art. 38 - Illuminazione naturale ed artificiale
 
 1\. Le disposizioni dell'articolo 10 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303, come sostituito dall'articolo 33, comma 8, del decreto legislativo n. 626 del 1994 si applicano ai luoghi di lavoro del settore estrattivo.
 
@@ -571,17 +569,17 @@ Le sostituzioni dei sorveglianti sono denunciate nei modi e nei termini di cui a
 
 3\. Nelle attivita' condotte mediante perforazione, le zone operative di controllo, le vie di emergenza, i punti di imbarco, le zone soggette a rischio devono essere illuminate costantemente; se i locali di lavoro sono occupati solo occasionalmente, tale obbligo e' limitato al tempo in cui i lavoratori sono presenti.
 
-###### Art. 39 - Vie di circolazione ed aree con pericolo
+#### Art. 39 - Vie di circolazione ed aree con pericolo
 
 1\. Alle miniere e alle cave si applicano le disposizioni dell'articolo 8 del decreto del Presidente della Repubblica n. 547 del 1955, come sostituito dall'articolo 33, comma 3, del decreto legislativo n. 626 del 1994, limitatamente ai commi l, 2, 3, 4, 5, 6, 7 e 8 per le attivita' condotte in sotterraneo.
 
 2\. Ove al luogo di lavoro abbiano accesso veicoli o macchinari, devono essere fissate specifiche regole di traffico.
 
-###### Art. 40 - Luoghi di lavoro esterni
+#### Art. 40 - Luoghi di lavoro esterni
 
 1\. Ai luoghi di lavoro esterni si applicano le disposizioni di cui all'articolo 11, commi 3 e 7, del decreto del Presidente della Repubblica n.547 del 1955 e successive modifiche.
 
-###### Art. 41 - Attrezzature igienico-sanitarie
+#### Art. 41 - Attrezzature igienico-sanitarie
 
 1\. Alle attrezzature igienico sanitarie si applicano le disposizioni degli articoli 37, 39 e 40 del decreto del Presidente della Repubblica n. 303 del 1956, come sostituiti dall'articolo 33 del decreto legislativo n. 626 del 1994.
 
@@ -589,17 +587,15 @@ Le sostituzioni dei sorveglianti sono denunciate nei modi e nei termini di cui a
 
 3\. Ferme restando le disposizioni dell'articolo 669 del decreto del Presidente della Repubblica n. 128 del 1959, per i posti di lavoro ubicati in sotterraneo, i locali per i gabinetti e i lavabi di cui all'articolo 39 del decreto del Presidente della Repubblica n. 303 del 1956, come sostituito dall'articolo 33, comma 12, del decreto legislativo n. 626 del 1994, possono essere ubicati in superficie.
 
-###### Art. 42 - Norme applicabili
+#### Art. 42 - Norme applicabili
 
 1\. Alle attivita' estrattive si applicano gli articoli 7, 9, 11 e 14 del decreto del Presidente della Repubblica n. 303 del 1956, come sostituiti dall'articolo 33 del decreto legislativo n. 626 del 1994.
 
-## TITOLO II - NORME SPECIFICHE IN MATERIA DI SICUREZZA E DI SALUTE
+## TITOLO II - NORME SPECIFICHE IN MATERIA DI SICUREZZA E DI SALUTE APPLICABILI ALLE ATTIVITA' ESTRATTIVE A CIELO APERTO O SOTTERRANEE, NONCHE' AGLI IMPIANTI PERTINENTI DI SUPERFICIE
 
-### APPLICABILI ALLE ATTIVITA' ESTRATTIVE A CIELO APERTO O - SOTTERRANEE, NONCHE' AGLI IMPIANTI PERTINENTI DI SUPERFICIE
+### CAPO I - NORME COMUNI
 
-#### CAPO I - NORME COMUNI
-
-###### Art. 43
+#### Art. 43
 
 (Disposizioni sui rischi di esplosione, di incendio
 
@@ -611,11 +607,11 @@ e da atmosfere nocive)
 
 3\. Ferme restando le piu' specifiche disposizioni contenute nel decreto del Presidente della Repubblica n. 128 del 1959, nelle zone esposte a rischi specifici d'incendio o d'esplosione e' vietato fumare; e' altresi' vietato utilizzare in tali zone fiamme non protette, nonche' effettuarvi lavori che comportino un rischio d'incendio o di esplosione, a meno che siano state adottate precauzioni sufficenti per prevenire lo sviluppo di tali fenomeni. .fo on
 
-###### Art. 44 - Protezione contro il rischio di esplosione
+#### Art. 44 - Protezione contro il rischio di esplosione
 
 1\. Ferme restando le disposizioni di cui ai Titoli X e XI del decreto del Presidente della Repubblica n. 128 del 1959, il datore di lavoro prende tutti i provvedimenti necessari per prevenire la formazione, l'accumulo e l'innesco di miscele esplosive.
 
-###### Art. 45 - Protezione dalle atmosfere nocive
+#### Art. 45 - Protezione dalle atmosfere nocive
 
 1\. Ferme restando le disposizioni di cui al Titolo XIV del decreto del Presidente della Repubblica n. 128 del 1959, in caso di accumuli o di possibili accumuli di sostanze nocive nell'atmosfera, il datore di lavoro prevede misure adeguate per garantirne la soppressione alla fonte, oppure per estrarli o eliminarli in prossimita' della fonte, oppure per diluire gli accumuli delle stesse; il sistema adottato deve essere in grado di evitare rischi per i lavoratori.
 
@@ -623,19 +619,19 @@ e da atmosfere nocive)
 
 3\. All'articolo 634 del decreto del Presidente della Repubblica n. 128 del 1959, dopo le parole; "di cui ai seguenti articoli 635 e 636" sono aggiunte le parole," e dell'atmosfera".
 
-###### Art. 46 - Misure generali per la protezione dai rischi di incendio
+#### Art. 46 - Misure generali per la protezione dai rischi di incendio
 
 1\. Sul luogo di lavoro devono essere esposte indicazioni in cui siano specificate le misure previste per prevenire, individuare e combattere l'innesco e la propagazione di incendi.
 
 2\. Il decreto di cui all'articolo 13, comma 2, del decreto legislativo. n.626 del 1994 e' esteso al settore estrattivo.
 
-###### Art. 47 - Trasporti
+#### Art. 47 - Trasporti
 
 1\. Ferme restando le disposizioni di cui al Titolo V del decreto del Presidente della Repubblica n. 128 del 1959, il direttore responsabile predispone le misure necessarie affinche' i mezzi semoventi e gli impianti di trasporto siano posti in opera, utilizzati e soggetti a manutenzione in modo tale da garantire la sicurezza e la salute dei conducenti, dei lavoratori che ne fanno uso o che si trovano in loro prossimita'.
 
 2\. I mezzi meccanici di trasporto dei lavoratori devono essere messi in opera in maniera corretta ed utilizzati secondo istruzioni scritte del direttore responsabile.
 
-###### Art. 48 - Attrezzature di salvataggio
+#### Art. 48 - Attrezzature di salvataggio
 
 1\. Ferme restando le disposizioni di cui all'articolo 535 del decreto del Presidente della Repubblica n. 128 del 1959, il datore di lavoro mette a disposizione attrezzature di salvataggio pronte all'uso e collocate in appositi locali, facilmente accessibili.
 
@@ -643,15 +639,15 @@ e da atmosfere nocive)
 
 3\. Le attrezzature di cui al comma 1, devono essere oggetto di segnaletica conforme alla normativa vigente.
 
-###### Art. 49 - Esercitazioni di sicurezza
+#### Art. 49 - Esercitazioni di sicurezza
 
 1\. Il direttore responsabile dispone affinche' in tutti i luoghi di lavoro abitualmente occupati siano effettuate, ad intervalli periodici, esercitazioni di sicurezza; durante tali esercitazioni, fra l'altro, deve essere curato e verificato l'addestramento di tutte le persone cui, in caso di emergenza, siano assegnati compiti richiedenti l'impiego, la manipolazione o la messa in funzione di attrezzature di salvataggio; ove possibile, i lavoratori devono potersi esercitare al corretto uso di dette attrezzature.
 
-###### Art. 50 - Misure generali per le aree di deposito
+#### Art. 50 - Misure generali per le aree di deposito
 
 1\. I depositi di sterili, i cumuli, i terreni e altre aree di deposito nonche' i bacini di decantazione devono, conformemente alle normative tecniche vigenti, essere progettati, costruiti, organizzati e gestiti in modo da garantirne la stabilita' e da salvaguardare la sicurezza e la salute dei lavoratori.
 
-###### Art. 51 - Disposizioni particolari per gli impianti di superficie
+#### Art. 51 - Disposizioni particolari per gli impianti di superficie
 
 1\. Agli impianti di superficie si applicano le disposizioni di cui agli articoli 8, 11 e 14 del decreto del Presidente della Repubblica n. 547 del 1955 e all'articolo 6 del decreto del Presidente della Repubblica n. 303 del 1956, come sostituite dall'articolo 33 del decreto legislativo n. 626 del 1994.
 
@@ -661,13 +657,11 @@ e da atmosfere nocive)
 
 4\. Le dimensioni della superficie libera sul posto di lavoro devono essere tali da consentire ai lavoratori liberta' di movimento sufficiente per la loro attivita' nonche' per l'esecuzione del proprio lavoro in condizioni di sicurezza.
 
-## TITOLO II - NORME SPECIFICHE IN MATERIA DI SICUREZZA E DI SALUTE
+## TITOLO II - NORME SPECIFICHE IN MATERIA DI SICUREZZA E DI SALUTE APPLICABILI ALLE ATTIVITA' ESTRATTIVE A CIELO APERTO O SOTTERRANEE, NONCHE' AGLI IMPIANTI PERTINENTI DI SUPERFICIE
 
-### APPLICABILI ALLE ATTIVITA' ESTRATTIVE A CIELO APERTO O - SOTTERRANEE, NONCHE' AGLI IMPIANTI PERTINENTI DI SUPERFICIE
+### CAPO II - NORME APPLICABILI ALLE ATTIVITA' A CIELO APERTO
 
-#### CAPO II - NORME APPLICABILI ALLE ATTIVITA' A CIELO APERTO
-
-###### Art. 52 - Coltivazione
+#### Art. 52 - Coltivazione
 
 1\. Prima dell'inizio dei lavori di coltivazione, il datore di lavoro predispone una relazione sulla stabilita' dei fronti che prenda in considerazione i rischi di caduta di massi e di franamento; in tale relazione, in conformita' alle vigenti normative tecniche, devono essere definite, in funzione della natura e dello stato del terreno nonche' dei macchinari impiegati, l'altezza e la pendenza dei fronti di coltivazione e dei terreni di copertura nonche' il metodo di coltivazione impiegato; la relazione e' aggiornata annualmente.
 
@@ -677,37 +671,35 @@ a) i gradoni e le vie di carreggio devono avere larghezza adeguata a consentire 
 
 b) in fase di scavo al piede delle fronti o dei cumuli devono essere evitate situazioni di instabilita'.
 
-## TITOLO II - NORME SPECIFICHE IN MATERIA DI SICUREZZA E DI SALUTE
+## TITOLO II - NORME SPECIFICHE IN MATERIA DI SICUREZZA E DI SALUTE APPLICABILI ALLE ATTIVITA' ESTRATTIVE A CIELO APERTO O SOTTERRANEE, NONCHE' AGLI IMPIANTI PERTINENTI DI SUPERFICIE
 
-### APPLICABILI ALLE ATTIVITA' ESTRATTIVE A CIELO APERTO O - SOTTERRANEE, NONCHE' AGLI IMPIANTI PERTINENTI DI SUPERFICIE
+### CAPO III - NORME APPLICABILI ALLE ATTIVITA' IN SOTTERRANEO
 
-#### CAPO III - NORME APPLICABILI ALLE ATTIVITA' IN SOTTERRANEO
-
-###### Art. 53 - Piani topografici dei lavori
+#### Art. 53 - Piani topografici dei lavori
 
 1\. All'articolo 33, primo comma, del decreto del Presidente della Repubblica n. 128 del 1959 e' aggiunto il seguente periodo:
 
 "In tali piani, oltre alle gallerie, ai fornelli e ai cantieri di coltivazione, devono essere riportati tutti gli elementi significativi per la coltivazione e la sicurezza".
 
-###### Art. 54 - Vie di uscita
+#### Art. 54 - Vie di uscita
 
 1\. Il primo comma dell'articolo 141 del decreto del Presidente della Repubblica n. 128 del 1959 e' sostituito dal seguente:
 
 "Ogni miniera o cava sotterranea deve essere progettata e realizzata in maniera tale che, in caso di inagibilita' di una via di comunicazione con l'esterno, i lavoratori possano abbandonare il luogo di lavoro da altra via collegante il sotterraneo con l'esterno; tale disposizione non si applica ai lavori di tracciamento, preparazione e ricerca."
 
-###### Art. 55 - Misure generali di tutela per gli impianti in sotterraneo
+#### Art. 55 - Misure generali di tutela per gli impianti in sotterraneo
 
 1\. Gli impianti in cui si eseguono lavori sotterranei devono essere predisposti, utilizzati, attrezzati e sottoposti a manutenzione in modo tale che il personale possa lavorare e circolare all'interno con il minimo rischio.
 
 2\. Le gallerie devono essere munite di segnaletica in modo da facilitare l'orientamento dei lavoratori.
 
-###### Art. 56 - Armature di sostegno e stabilita' dei terreni
+#### Art. 56 - Armature di sostegno e stabilita' dei terreni
 
 1\. Fatte salve le disposizioni dell'articolo 148 del decreto del Presidente della Repubblica n. 128 del 1959, le armature per il sostegno delle gallerie, dei cantieri e di ogni altro scavo, devono essere realizzate in conformita' a specifiche istruzioni scritte del direttore responsabile.
 
 2\. I luoghi di lavoro e le vie di transito cui hanno accesso i lavoratori devono essere regolarmente ispezionati per verificare la stabilita' dei terreni e l'efficacia dell'armatura, che deve essere conseguentemente sottoposta a regolare manutenzione.
 
-###### Art. 57 - Ventilazione
+#### Art. 57 - Ventilazione
 
 1\. Il primo comma dell'articolo 258 del decreto del Presidente della Repubblica n. 128 del 1959 e' sostituito dal seguente:
 
@@ -719,7 +711,7 @@ b) un'atmosfera in cui si riesca a tenere sotto continuo controllo i rischi d'es
 
 2\. Il direttore responsabile attua i provvedimenti necessari per assicurare la stabilita' e la continuita' della ventilazione e per il controllo continuo della depressione dei ventilatori principali; a tal fine un allarme automatico deve segnalare anomalie impreviste.
 
-###### Art. 58 - Cantieri grisutosi
+#### Art. 58 - Cantieri grisutosi
 
 1\. Le disposizioni del Titolo X del decreto del Presidente della Repubblica n. 128 del 1959 come modificato dal presente decreto sono applicabili a tutte le attivita' estrattive condotte in sotterraneo.
 
@@ -739,7 +731,7 @@ I cantieri di coltivazione potranno essere attrezzati con ventilazione ausiliari
 
 1\. I lavori al cannello, alla saldatrice e' con altri apparecchi analoghi possono essere eseguiti unicamente in via eccezionale, previa autorizzazione da parte dell'autorita' di vigilanza, sulla base della valutazione delle esigenze tecniche e delle condizioni di sicurezza."
 
-###### Art. 59 - Misure generali di tutela per le attivita' in sotterraneo
+#### Art. 59 - Misure generali di tutela per le attivita' in sotterraneo
 
 1\. Ferme restando le disposizioni di cui ai Titoli X e XIII del decreto del Presidente della Repubblica n. 128 del 1959, nelle zone esposte a sprigionamenti istantanei di gas, con o senza proiezioni di roccia, a colpi di massiccio o ad irruzioni d'acqua, l'attivita' lavorativa deve essere pianificata e condotta in modo da garantire per quanto possibile un metodo di lavoro sicuro e la sicurezza dei lavoratori.
 
@@ -749,33 +741,29 @@ I cantieri di coltivazione potranno essere attrezzati con ventilazione ausiliari
 
 4\. Nelle attivita' estrattive di cui all'articolo 587 del decreto del Presidente della Repubblica n. 128 del 1959, qualora sia necessario utilizzare fluidi per la trasmissione di energia meccanica, idrostatica ed idrocinetica, devono essere utilizzati, per quanto possibile, fluidi idraulici difficilmente infiammabili, per evitare il rischio di incendio e della sua propagazione, nonche' il rischio dello sviluppo di gas nocivi; i fluidi idraulici devono essere conformi a specifiche condizioni di prova relative alla resistenza al fuoco nonche' a criteri di sicurezza e di igiene; quando vengono utilizzati fluidi idraulici con conformi alle specifiche condizioni ed ai criteri di cui sopra, devono essere prese precauzioni supplementari per evitare il maggior rischio di incendio e di propagazione dell'incendio.
 
-###### Art. 60 - Obblighi specifici per le attivita' in sotterraneo
+#### Art. 60 - Obblighi specifici per le attivita' in sotterraneo
 
 1\. Il datore di lavoro prende i provvedimenti idonei ad individuare le zone a rischio di sprigionamento istantaneo di gas, con o senza proiezioni di roccia, colpi di massiccio o irruzione d'acqua, a proteggere i lavoratori nei cantieri che procedono verso o attraversano queste zone, a tenere sotto controllo detti rischi ed a prevenire ed individuare tempestivamente i fenomeni di surriscaldamento.
 
-###### Art. 61 - Misure preventive per l'evacuazione del personale
+#### Art. 61 - Misure preventive per l'evacuazione del personale
 
 1\. Il datore di lavoro fornisce ai lavoratori apparecchi autorespiratori, da conservare in appositi locali vicino al posto di lavoro, e ne controlla l'efficienza.
 
 2\. I lavoratori devono essere addestrati all'uso degli apparecchi di cui al comma 1.
 
-###### Art. 62 - Controllo della presenza in sotterraneo
+#### Art. 62 - Controllo della presenza in sotterraneo
 
 1\. Il direttore responsabile, provvede affinche' in ogni momento siano noti il numero ed i nomi delle persone presenti in una mini- era o in una cava sotterranee; l'elenco di tali persone deve essere esibito ad ogni richiesta dei funzionari dell'autorita' di vigilanza competente.
 
-###### Art. 63 - Organizzazione del salvataggio
+#### Art. 63 - Organizzazione del salvataggio
 
 1\. Ferme restando le piu' specifiche disposizioni di cui al Capo X del Titolo X nonche' agli articoli 656, 657 e 658 del decreto del Presidente della Repubblica n. 128 del 1959, in ogni miniera o cava sotterranea, il datore di lavoro organizza un servizio di salvataggio appropriato per poter condurre rapidamente ed efficacemente un'azione adeguata in caso di gravi incidenti; tale organizzazione deve poter disporre, per intervenire in qualsiasi cantiere di coltivazione o di ricerca in sotterraneo, di un numero sufficiente di soccorritori addestrati e di materiale di salvataggio adeguato.
 
-## TITOLO III - NORME SPECIFICHE IN MATERIA DI SICUREZZA E DI SALUTE
+## TITOLO III - NORME SPECIFICHE IN MATERIA DI SICUREZZA E DI SALUTE APPLICABILI ALLE ATTIVITA' ESTRATTIVE CONDOTTE MEDIANTE PERFORAZIONE
 
-### APPLICABILI ALLE ATTIVITA' ESTRATTIVE CONDOTTE MEDIANTE - PERFORAZIONE
+### CAPO I - NORME COMUNI APPLICABILI ALLE ATTIVITA' DI TERRAFERMA ED IN MARE
 
-#### CAPO I - NORME COMUNI APPLICABILI ALLE ATTIVITA' DI TERRAFERMA ED
-
-##### IN MARE
-
-###### Art. 64 - Campo di applicazione
+#### Art. 64 - Campo di applicazione
 
 1\. Il presente titolo prescrive misure per la tutela della salute e della sicurezza dei lavoratori durante il lavoro nelle attivita' estrattive condotte mediante perforazione, intendendosi per tali:
 
@@ -789,7 +777,7 @@ d) le attivita' di stoccaggio in giacimento attuale mediante perforazione.
 
 2\. Le norme del presente titolo non si applicano alle perforazioni eseguite all'interno dei sotterranei delle miniere e delle cave.
 
-###### Art. 65 - Autorizzazione alla perforazione e sistemi di protezione
+#### Art. 65 - Autorizzazione alla perforazione e sistemi di protezione
 
 1\. Il primo comma dell'articolo 60 del decreto del Presidente della Repubblica n. 128 del 1959 e' sostituito dal seguente:
 
@@ -811,7 +799,7 @@ d) le attivita' di stoccaggio in giacimento attuale mediante perforazione.
 
 6\. La torre di perforazione deve essere collegata elettricamente a terra.
 
-###### Art. 66 - Controllo dei pozzi
+#### Art. 66 - Controllo dei pozzi
 
 1\. Il titolare valuta la possibilita' del verificarsi di eruzioni durante la perforazione e adotta le adeguate attrezzature di sicurezza per prevenire tale rischio, stabilendo le misure di controllo del fango, nonche', le misure di emergenza in caso di eruzione; tali attrezzature devono consentire la chiusura del pozzo in ogni condizione operativa. Il titolare puo' prevedere nel DSS l'uso parziale o il non impiego delle attrezzature di sicurezza nei soli casi di perforazioni intese allo sviluppo e alla coltivazione di giacimenti di caratteristiche gia' note quando egli esclude la possibilita' di eruzioni.
 
@@ -855,13 +843,13 @@ I risultati sono annotati sul giornale di sonda.
 
 3\. In ogni caso tale controllo deve essere eseguito prima della messa in posto in ogni nuovo luogo di lavoro. Gli esiti sono annotati nel giornale di sonda.".
 
-###### Art. 67 - Personale addetto
+#### Art. 67 - Personale addetto
 
 1\. Il personale addetto alla manovra dei dispositivi per l'azionamento delle attrezzature di sicurezza deve essere sottoposto da parte del datore di lavoro, ogni due anni, ad un corso di aggiornamento sulle tecniche operative di controllo delle eruzioni.
 
 2\. Al termine del corso di cui al comma 1 devono essere rilasciati i relativi attestati.
 
-###### Art. 68 - Cementazioni
+#### Art. 68 - Cementazioni
 
 1\. L'articolo 89 del decreto del Presidente della Repubblica n. 128 del 1959 e' sostituito dal seguente:
 
@@ -869,23 +857,23 @@ I risultati sono annotati sul giornale di sonda.
 
 1\. Devono essere eseguite prove o controlli sulla riuscita delle cementazioni delle tubazioni di rivestimento, secondo le modalita' stabilite nel documento di sicurezza e di salute; il metodo impiegato ed i risultati ottenuti sono annotati sul giornale di sonda."
 
-###### Art. 69 - Circolazione del fango
+#### Art. 69 - Circolazione del fango
 
 1\. Il secondo comma dell'articolo 79 del decreto del Presidente della Repubblica n. 128 del 1959 e' sostituito dal seguente:
 
 "In caso di avarie che comportino la circolazione con l'uso di una sola pompa, le operazioni di perforazione possono proseguire solo per pozzi di sviluppo qualora la conoscenza delle condizioni stratigrafiche e giacimentologiche, in base a quanto specificato nel documento di sicurezza e di salute e nel programma di perforazione, permetta di escludere ogni rischio derivante dall'eventuale arresto accidentale della pompa attiva; in tal caso il datore di lavoro ne da' comunicazione all'autorita' di vigilanza competente."
 
-###### Art. 70 - Perforazioni con fluidi diversi dal fango
+#### Art. 70 - Perforazioni con fluidi diversi dal fango
 
 1\. Quando la situazione geologica e giacimentologica lo imponga, l'autorita' di vigilanza puo' autorizzare la perforazione di pozzi o di parte di essi con circolazione a fanghi aerati o ad aria.
 
 2\. Sono comunque obbligatori un dispositivo rotante di protezione contro le eruzioni, una pompa collegabile al foro e vasche con riserve di fango o acqua pari ad almeno il 150% del volume del foro previsto.
 
-###### Art. 71 - Perforazioni per minerali salini
+#### Art. 71 - Perforazioni per minerali salini
 
 1\. Alle attivita' di ricerca, sviluppo e coltivazione di minerali salini per dissoluzione non si applicano gli articoli 73, 74, 75, 83, 84, 85, 86 e 90 del decreto del Presidente della Repubblica n. 128 del 1959, come modificati dal presente decreto, nonche' l'articolo 66, comma 1.
 
-###### Art. 72 - Rivelazione delle atmosfere nocive o potenzialmente esplosive
+#### Art. 72 - Rivelazione delle atmosfere nocive o potenzialmente esplosive
 
 1\. Durante le operazioni di perforazione, nonche' in quelle di coltivazione di idrocarburi, il datore di lavoro, in relazione alla valutazione dei rischi, provvede a che siano installati sistemi per valutare la presenza e misurare la concentrazione di sostanze nocive o potenzialmente esplosive, con particolare riguardo agli idrocarburi gassosi e all'idrogeno solforato, entro le zone definite pericolose nonche' nei locali chiusi in cui possa verificarsi la formazione, anche accidentale, di concentrazioni di tali sostanze.
 
@@ -903,7 +891,7 @@ I risultati sono annotati sul giornale di sonda.
 
 8\. Le parti del luogo di lavoro interessate da possibile presenza di idrogeno solforato devono essere individuate con apposita segnaletica conforme alla normativa vigente.
 
-###### Art. 73
+#### Art. 73
 
 (Uso di esplosivo nelle operazioni di prospezione e di perforazione) 1. Per le operazioni di prospezione che avvengano mediante l'uso di esplosivo, il DSS deve essere redatto tenendo presenti gli articoli 296, 297, 305, 317, 318, 320, 321, 322, 323, 336, 337, 338, 339, 340, 342, 343, 345, 346, 349, 350, 352, 353, 354, e 355 del decreto del Presidente della Repubblica n. 128 del 1959.
 
@@ -911,7 +899,7 @@ I risultati sono annotati sul giornale di sonda.
 
 3\. Nelle operazioni di cui al comma 2 l'incaricato delle operazioni in possesso di patente di fochino, avvertito il sorvegliante, da' esecuzione ai lavori relativi, in conformita' alle disposizioni e cautele stabilite dal direttore responsabile, in particolare per quanto riguarda il trasporto degli esplosivi all'interno del luogo di lavoro, la detenzione delle attrezzature di innesco e le operazioni preparatorie.
 
-###### Art. 74 - Porte e portoni
+#### Art. 74 - Porte e portoni
 
 1\. La posizione, il numero, i materiali da utilizzare per la loro costruzione e le dimensioni di porte e portoni devono essere determinati in funzione della natura e della destinazione dei locali o delle aree interessate.
 
@@ -919,11 +907,11 @@ I risultati sono annotati sul giornale di sonda.
 
 3\. Alle attivita' di cui al presente capo si applica l'articolo 14, commi 8, 9, 10, 11, 12, 13, 14, 15 e 16 del decreto del Presidente della Repubblica n. 547 del 1955 come sostituito dall'articolo 33 del decreto legislativo n. 626 del 1994.
 
-###### Art. 75 - Misure generali per la liberta' di movimento nel posto di lavoro
+#### Art. 75 - Misure generali per la liberta' di movimento nel posto di lavoro
 
 1\. Nei luoghi di lavoro di cui al presente capo si applicano le disposizioni di cui all'articolo 51, commi 2, 3 e 4.
 
-###### Art. 76 - Operazioni simultanee
+#### Art. 76 - Operazioni simultanee
 
 1\. Si intendono per operazioni simultanee tutte quelle operazioni, da effettuarsi in contemporanea da uno stesso cantiere o piattaforma per lo sviluppo e la coltivazione di un giacimento, che, oltre alla perforazione, prevedono produzione, work-over, lavori di saldatura e taglio, o comunque uso di fiamme libere, nonche' movimentazione di carichi suscettibile di arrecare danni ad apparecchiature ed impianti.
 
@@ -945,7 +933,7 @@ c) delle operazioni speciali da eseguire.
 
 7\. L'autorita' di vigilanza richiede il parere del competente Comando provinciale dei VV.F. sulle misure previste per la protezione antincendio.
 
-###### Art. 77 - Intervento ai pozzi
+#### Art. 77 - Intervento ai pozzi
 
 1\. Il titolare, prima dell'inizio delle operazioni di intervento ai pozzi, presenta alla autorita' di vigilanza il programma dei lavori che deve contenere il motivo dell'intervento, tutti i dati significativi del pozzo, l'impianto impiegato, le apparecchiature di sicurezza previste, la sequenza delle operazioni con le eventuali alternative, la metodologia di controlli di eventuali pozzi adiacenti, la durata stimata delle operazioni.
 
@@ -955,7 +943,7 @@ c) delle operazioni speciali da eseguire.
 
 4\. Interventi di emergenza ai pozzi possono essere effettuati in qualsiasi momento dandone successiva comunicazione alla autorita' di vigilanza.
 
-###### Art. 78 - Comunicazioni in condizioni normali e in caso di emergenza
+#### Art. 78 - Comunicazioni in condizioni normali e in caso di emergenza
 
 1\. Il datore di lavoro, in relazione alla valutazione dei rischi, fornisce per ogni luogo di lavoro occupato da lavoratori:
 
@@ -971,7 +959,7 @@ c) per le attivita' che si svolgono in mare, un sistema in grado di mantenere le
 
 4\. Per le attivita' che si svolgono in mare, i sistemi di cui al comma 1 devono poter rimanere operativi anche in caso di emergenza; il sistema acustico deve essere integrato da sistemi alimentati da fonti energetiche non vulnerabili.
 
-###### Art. 79 - Esercitazioni di sicurezza
+#### Art. 79 - Esercitazioni di sicurezza
 
 1\. Ad intervalli regolari, in tutti i luoghi di lavoro abitualmente occupati devono essere effettuate esercitazioni di sicurezza nel corso delle quali:
 
@@ -981,13 +969,11 @@ b) tutte le attrezzature di soccorso usate durante l'esercitazione sono esaminat
 
 c) viene verificato, per le attivita' che si svolgono in mare, il funzionamento delle imbarcazioni di sopravvivenza.
 
-## TITOLO III - NORME SPECIFICHE IN MATERIA DI SICUREZZA E DI SALUTE
+## TITOLO III - NORME SPECIFICHE IN MATERIA DI SICUREZZA E DI SALUTE APPLICABILI ALLE ATTIVITA' ESTRATTIVE CONDOTTE MEDIANTE PERFORAZIONE
 
-### APPLICABILI ALLE ATTIVITA' ESTRATTIVE CONDOTTE MEDIANTE - PERFORAZIONE
+### CAPO II - NORME APPLICABILI ALLE ATTIVITA' DI TERRAFERMA
 
-#### CAPO II - NORME APPLICABILI ALLE ATTIVITA' DI TERRAFERMA
-
-###### Art. 80 - Sicurezza e lotta antincendio
+#### Art. 80 - Sicurezza e lotta antincendio
 
 1\. Sul luogo di lavoro devono essere esposte le istruzioni antincendio, in cui siano specificate le misure previste per prevenire, individuare e combattere l'innesco e la propagazione di incendi.
 
@@ -995,23 +981,23 @@ c) viene verificato, per le attivita' che si svolgono in mare, il funzionamento 
 
 3\. Le reti antincendio devono avere un numero adeguato di idranti, razionalmente distribuiti e devono disporre di una alimentazione alternativa; l'avviamento delle pompe della rete antincendio deve essere automatico, comandato dalla pressione di rete.
 
-###### Art. 81 - Norme antincendio per i pozzi
+#### Art. 81 - Norme antincendio per i pozzi
 
 1\. Al primo comma dell'articolo 94 del decreto del Presidente della Repubblica n. 128 del 1959, le parole "Entro 30 m dall'asse del pozzo" sono sostituite da: "Nell'intorno dei pozzi e nei luoghi ove la valutazione dei rischi abbia evidenziato la possibilita' di accumulo di gas, ed in ogni caso entro le aree pericolose"
 
 2\. Al quarto comma dell'articolo 94 del decreto del Presidente della Repubblica n. 128 del 1959, le parole "con le cautele che per ogni singolo pozzo o gruppo di pozzi sono stabilite con ordine di servizio predisposto dalla direzione del cantiere." sono sostituite da: "con le modalita' stabilite per iscritto dal datore di lavoro; durante tali lavori deve essere sempre disponibile sul posto un estintore. "
 
-###### Art. 82 - Distanze di sicurezza
+#### Art. 82 - Distanze di sicurezza
 
 1\. All'articolo 74 del decreto del Presidente della Repubblica n. 128 del 1959, le parole "Distanze minori, fino a 20 m e l0 m rispettivamente, possono essere consentite dal capo della Sezione dell'Ufficio nazionale minerario per gli idrocarburi al servizio di impianto per profondita' inferiore ai l000 m" sono sostituite dalle seguenti:
 
 "Distanze minori, su richiesta motivata del titolare, possono essere consentite dall'autorita' di vigilanza, purche' siano adottate misure di sicurezza equivalenti"
 
-###### Art. 83 - Servizio antincendio e piano di emergenza
+#### Art. 83 - Servizio antincendio e piano di emergenza
 
 1\. Nei luoghi di lavoro presidiati permanentemente dai lavoratori il datore di lavoro deve organizzare un servizio antincendio costituito da un capo responsabile e da una squadra di emergenza.
 
-###### Art. 84 - Presentazione dei progetti
+#### Art. 84 - Presentazione dei progetti
 
 1\. I progetti degli impianti destinati alla produzione, alla raccolta, al trasporto, al trattamento, alla prima trasformazione del minerale estratto ove questo debba necessariamente essere utilizzato in loco, direttamente connessi ai giacimenti in produzione, sono depositati dal titolare, in duplice copia per la parte relativa alle misure antincendio, presso la competente autorita' di vigilanza corredati da una dichiarazione esplicita del progettista circa il rispetto delle norme inerenti i criteri di progettazione e di sicurezza, debitamente elencate, delle norme dei citati decreti n. 128 del 1959 e n. 886 del 1979, e di quelle del presente decreto, nonche' di quanto in particolare previsto dallo specifico DSS.
 
@@ -1025,7 +1011,7 @@ c) viene verificato, per le attivita' che si svolgono in mare, il funzionamento 
 
 6\. Acquisito il parere di cui al comma 2, l'autorita' di vigilanza autorizza l'inizio dei lavori di costruzione.
 
-###### Art. 85 - Verifica e collaudo degli impianti
+#### Art. 85 - Verifica e collaudo degli impianti
 
 1\. La verifica della rispondenza delle misure di prevenzione e di protezione antincendio realizzate con quanto previsto in progetto nonche' con quanto stabilito dal presente decreto, ed in particolare dallo specifico DSS, e, ove necessario, il relativo collaudo, e' effettuato dal responsabile o da un funzionario dell'autorita' di vigilanza e dal Comandante provinciale dei Vigili del fuoco o da un funzionario tecnico da lui designato.
 
@@ -1037,29 +1023,27 @@ c) viene verificato, per le attivita' che si svolgono in mare, il funzionamento 
 
 5\. Decorso tale termine, e' facolta' dell'autorita' di vigilanza, ravvisatane l'opportunita' e l'urgenza, di accordare una autorizzazione provvisoria di esercizio degli impianti, subordinatamente alla presentazione, da parte del titolare, di una esplicita dichiarazione che l'opera e le relative dotazioni di sicurezza sono state realizzate conformemente al progetto, corredata delle dichiarazioni di conformita' per gli impianti di cui ai punti a, b, c, d, e, f, g, dell'articolo 1 della legge 5 marzo 1990, n.46.
 
-###### Art. 86 - Impianti elettrici
+#### Art. 86 - Impianti elettrici
 
 1\. Alle installazioni elettriche e di illuminazione utilizzate nelle attivita' estrattive condotte mediante perforazione che si svolgono in terraferma si applicano le norme di cui al decreto del Presidente della Repubblica n. 547 del 1955 e successive modifiche.
 
-###### Art. 87 - Attrezzature di salvataggio
+#### Art. 87 - Attrezzature di salvataggio
 
 1\. Il datore di lavoro mette a disposizione attrezzature di salvataggio, pronte all'uso e collocate in apposite postazioni facilmente accessibili.
 
 2\. Ove le vie di emergenza siano difficilmente percorribili e in caso di presenza o di possibile presenza di atmosfere irrespirabili, il datore di lavoro fornisce ai lavoratori un'apparecchiatura autonoma di salvataggio per uso immediato.
 
-## TITOLO III - NORME SPECIFICHE IN MATERIA DI SICUREZZA E DI SALUTE
+## TITOLO III - NORME SPECIFICHE IN MATERIA DI SICUREZZA E DI SALUTE APPLICABILI ALLE ATTIVITA' ESTRATTIVE CONDOTTE MEDIANTE PERFORAZIONE
 
-### APPLICABILI ALLE ATTIVITA' ESTRATTIVE CONDOTTE MEDIANTE - PERFORAZIONE
+### CAPO III - NORME APPLICABILI ALLE ATTIVITA' A MARE
 
-#### CAPO III - NORME APPLICABILI ALLE ATTIVITA' A MARE
-
-###### Art. 88 - Capo piattaforma e Comandante
+#### Art. 88 - Capo piattaforma e Comandante
 
 1\. Nel caso di attivita' di perforazione e di intervento ai pozzi eseguite da una piattaforma fissa o mobile o da un mezzo galleggiante assimilabile, nonche' nel caso di piattaforme e strutture di produzione abitualmente presidiate, il titolare deve nominare anche il Capo piattaforma di cui all'articolo 8 del decreto del Presidente della Repubblica n. 886 del 1979.
 
 2\. Restano ferme le responsabilita' e i compiti attribuiti al Capo piattaforma ed al Comandante dal decreto del Presidente della Repubblica n. 886 del 1979.
 
-###### Art. 89 - Misure generali di prevenzione degli incendi
+#### Art. 89 - Misure generali di prevenzione degli incendi
 
 1\. Devono essere prese precauzioni appropriate per la protezione, la rivelazione e la lotta contro l'innesco e la diffusione degli incendi.
 
@@ -1089,7 +1073,7 @@ l) sistemi tagliafuoco per segregare le zone a rischio d'incendio.
 
 4\. I sistemi di emergenza devono essere isolati e protetti da eventi accidentali, nella misura e nel modo ritenuto adeguato per poter rimanere operativi in caso di emergenza; ove risulti necessario a seguito della valutazione dei rischi, il numero di tali sistemi deve essere raddoppiato.
 
-###### Art. 90 - Prevenzione incendi sulle unita' fisse o assimilabili
+#### Art. 90 - Prevenzione incendi sulle unita' fisse o assimilabili
 
 1\. Ai fini della prevenzione, individuazione ed estinzione degli incendi sulle piattaforme fisse o strutture fisse assimilabili, il titolare presenta alla Sezione UNMIG del Ministero dell'industria una relazione tecnica in triplice copia, sulle misure di sicurezza antincendio, tenute presenti le norme del decreto di cui all'articolo 49 del decreto del Presidente della Repubblica n. 886 del 1979 e, in quanto applicabili, le norme del decreto del Ministro dell'Interno 31 luglio 1934, pubblicato nella Gazzetta Ufficiale della Repubblica del 28 settembre 1934, n. 228, e suc- cessive modifiche ed integrazioni, nel caso di piattaforme di produzione di idrocarburi liquidi, e le norme del decreto del Ministro dell'Interno 24 novembre 1984, pubblicato nel Supplemento ordinario alla Gazzetta Ufficiale della Repubblica n. 12 del 15 gennaio 1985, e successive modifiche ed integrazioni, nel caso di produzione di idrocarburi gassosi.
 
@@ -1109,7 +1093,7 @@ l) sistemi tagliafuoco per segregare le zone a rischio d'incendio.
 
 9\. La procedura di cui al comma 1, trova applicazione in caso di modifiche rilevanti degli impianti, a giudizio dell'autorita' di vigilanza.
 
-###### Art. 91 - Norme antincendio
+#### Art. 91 - Norme antincendio
 
 1\. Al primo comma dell'articolo 42 del decreto del Presidente della Repubblica n. 886 del 1979, le parole: "deve essere organizzato" sono sostituite da: "il datore di lavoro organizza"
 
@@ -1117,7 +1101,7 @@ l) sistemi tagliafuoco per segregare le zone a rischio d'incendio.
 
 3\. Al terzo comma dell'articolo 42 del decreto del Presidente della Repubblica n. 886 del 1979, le parole; "A cura del capo piattaforma o del comandante, per le unita' semoventi o navi di perforazione, deve essere predisposto" sono sostituite da: "Il datore di lavoro, per le unita' semoventi o navi di perforazione, predispone ".
 
-###### Art. 92 - Impianti modulari
+#### Art. 92 - Impianti modulari
 
 1\. Ai fini della prevenzione, della individuazione e della estinzione incendi per gli impianti modulari per i quali sia prevista l'installazione temporanea su piu' piattaforme fisse o strutture assimilabili, il titolare puo' presentare, in alternativa a quanto previsto dall'articolo 90, con congruo anticipo rispetto al loro primo impiego, alle Sezioni interessate, ed in triplice copia al Ministero dell'industria, del commercio e dell'artigianato - Direzione generale delle miniere - UNMIG, una relazione tecnica sulle misure di sicurezza antincendio, tenute presenti le misure di cui all'articolo 89 e quelle del decreto di cui all'articolo 49 del decreto del Presidente della Repubblica n. 886 del 1979, e, in quanto applicabili, le norme dei decreti del Ministro dell'Interno 31 luglio 1934, pubblicato nella Gazzetta Ufficiale della Repubblica Italiana del 28 settembre 1934, n. 228, e 24 novembre 1984, pubblicato nel Supplemento ordinario alla Gazzetta Ufficiale della Repubblica Italiana n. 12 del 15 gennaio 1985, e successive modifiche ed integrazioni.
 
@@ -1133,7 +1117,7 @@ l) sistemi tagliafuoco per segregare le zone a rischio d'incendio.
 
 7\. Il riscontro delle misure antincendio dell'impianto modulare e degli eventuali procedimenti adottati per garantire la sicurezza della piattaforma fissa o struttura assimilabile sulla quale l'impianto e' stato installato e' effettuato secondo le modalita' di cui ai commi 7 e 9 dell'articolo 90.
 
-###### Art. 93 - Prescrizioni per gli impianti di superficie e sottomarini
+#### Art. 93 - Prescrizioni per gli impianti di superficie e sottomarini
 
 1\. I progetti delle piattaforme di produzione e strutture assimilabili rigidamente collegate al fondo marino, di cui all'articolo 75 del decreto del Presidente della Repubblica n. 886 del 1979, devono essere depositati presso la competente autorita' di vigilanza e la Capitaneria di porto competente prima dell'inizio della costruzione, corredati da una dichiarazione esplicita del progettista circa il rispetto dei criteri di cui ai commi 1 e 2 dell'articolo 75 del decreto del Presidente della Repubblica n. 886 del 1979.
 
@@ -1147,13 +1131,13 @@ l) sistemi tagliafuoco per segregare le zone a rischio d'incendio.
 
 6\. L'autorizzazione all'esercizio di impianti di produzione e condotte sottomarini e' accordata secondo le procedure di cui ai commi 4 e 5.
 
-###### Art. 94 - Comandi a distanza in caso di emergenza
+#### Art. 94 - Comandi a distanza in caso di emergenza
 
 1\. Il datore di lavoro istituisce un sistema di comandi a distanza in caso di emergenza, munito nei punti appropriati di stazioni di controllo idonee ad essere utilizzate in caso di emergenza, comprese stazioni di controllo nei punti sicuri di raduno e nei posti di evacuazione.
 
 2\. L'obbligo di cui al comma 1 riguarda in particolare i sistemi di ventilazione, i dispositivi di arresto di emergenza delle apparecchiature atte ad innescare incendi, i dispositivi di sicurezza contro la fuga di liquidi e di gas infiammabili, nonche' i sistemi di protezione antincendio e di controllo dei pozzi.
 
-###### Art. 95 - Punti sicuri di raduno e liste d'appello
+#### Art. 95 - Punti sicuri di raduno e liste d'appello
 
 1\. Il datore di lavoro prende le necessarie precauzioni per la protezione dei posti di abbandono e dei punti sicuri di raduno dal calore radiante, dal fumo e, per quanto tecnicamente possibile, dagli effetti delle esplosioni, e per assicurare che le vie di emergenza a destinazione dei o in provenienza dai posti di abbandono e punti sicuri di raduno restino accessibili; queste misure devono essere tali da offrire ai lavoratori una protezione di durata sufficiente da permettere l'organizzazione e l'esecuzione in tutta sicurezza di un'operazione d'evacuazione e di salvataggio.
 
@@ -1165,7 +1149,7 @@ l) sistemi tagliafuoco per segregare le zone a rischio d'incendio.
 
 5\. Il nominativo dei lavoratori di cui al comma 4 deve figurare nelle istruzioni scritte di cui all'articolo 22.
 
-###### Art. 96 - Evacuazione e salvataggio
+#### Art. 96 - Evacuazione e salvataggio
 
 1\. Il datore di lavoro provvede affinche' i lavoratori seguano un corso di addestramento pratico sulle tecniche di sopravvivenza.
 
@@ -1183,13 +1167,13 @@ c) essere adeguati al luogo di lavoro;
 
 d) essere muniti di dispositivi che consentano all'utilizzatore di richiamare l'attenzione delle squadre di salvataggio.
 
-###### Art. 97 - Camera iperbarica
+#### Art. 97 - Camera iperbarica
 
 1\. All'articolo 53 del decreto del Presidente della Repubblica n. 886 del 1979, dopo il terzo comma, e' aggiunto il seguente:
 
 "Il datore di lavoro deve prevedere la disponibilita', a seconda delle situazioni, di una camera iperbarica a bordo o di un rapido collegamento con un centro di emergenza dotato di tale attrezzatura."
 
-###### Art. 98 - Alloggi
+#### Art. 98 - Alloggi
 
 1\. Ove lo richiedano la natura, l'entita' o la durata delle operazioni, il datore di lavoro fornisce ai lavoratori un alloggio che, oltre a rispettare i requisiti di cui all'articolo 30 del decreto del Presidente della Repubblica n. 886 del 1979, deve essere progettato e costruito in modo che sia:
 
@@ -1205,7 +1189,7 @@ d) situato quanto piu' possibile distante dalle zone di pericolo.
 
 3\. Gli alloggi devono avere gabinetti, docce e lavabi in numero sufficiente, con acqua corrente calda e fredda; devono essere previsti per docce e gabinetti locali separati per gli uomini e per le donne o l'uso alternato dei medesimi; i locali per le docce devono essere sufficientemente ampi affinche' ciascun lavoratore possa lavarsi senza difficolta' e in condizioni igieniche adeguate.
 
-###### Art. 99 - Movimento degli elicotteri
+#### Art. 99 - Movimento degli elicotteri
 
 1\. Gli eliporti devono essere progettati e costruiti in modo da garantire facilita' di accesso e in. modo che gli elicotteri dei quali e' previsto l'impiego possano eseguirvi manovre anche nelle condizioni piu' difficili.
 
@@ -1215,7 +1199,7 @@ d) situato quanto piu' possibile distante dalle zone di pericolo.
 
 ## TITOLO IV - NORME TRANSITORIE E FINALI
 
-###### Art. 100 - Norma Finale
+#### Art. 100 - Norma Finale
 
 1\. I luoghi di lavoro per le attivita' estrattive, con esclusione di quelle condotte mediante perforazione, in esercizio alla data di entrata in vigore del presente decreto, devono soddisfare le norme di cui al Titolo I, capi IV e VI e il Titolo II entro il 3 dicembre 2003.
 
@@ -1227,17 +1211,17 @@ d) situato quanto piu' possibile distante dalle zone di pericolo.
 
 5\. Possono continuare nelle funzioni di direttore responsabile di cui all'articolo 27 del decreto del Presidente della Repubblica n. 128 del 1959 e all'articolo 6 del decreto del Presidente della Repubblica n. 886 del 1979 coloro che alla data di entrata in vigore del presente decreto esercitano tali funzioni da almeno due anni purche' il loro esercizio avvenga nella stessa unita' produttiva o in attivita' estrattive similari per tecniche di coltivazione.
 
-###### Art. 101 - Adeguamento tecnico
+#### Art. 101 - Adeguamento tecnico
 
 1\. Per il settore estrattivo il decreto di cui all'articolo 28 del decreto legislativo n.626 del 1994 e' adottato dai Ministri del lavoro e della previdenza sociale, dell'industria e del commercio e dell'artigianato, di concerto con i Ministri dell'interno e della sanita'.
 
-###### Art. 102 - Disposizioni finanziarie
+#### Art. 102 - Disposizioni finanziarie
 
 1\. Gli oneri derivanti ai Ministeri dell'industria, del commercio e dell'artigianato, dell'interno e dei trasporti e della navigazione, dalla partecipazione alle Commissioni di cui agli articoli 16 e 17, dalle istruttorie preordinate al rilascio delle autorizzazioni, dalle verifiche, dai collaudi e dal riconoscimento di equivalenza di cui agli articoli 31, 84, 85, 90 e 92 e di cui all'articolo 81 del decreto del Presidente della Repubblica n. 886 del 1979, e di cui all'articolo 687 ter del decreto del Presidente della Repubblica n. 128 del 1959 sono posti a carico dei richiedenti secondo tariffe e modalita' da stabilirsi, entro 90 gg. dalla data di entrata in vigore del presente decreto, con uno o piu' decreti dei Ministri interessati di concerto con il Ministro del Tesoro, sentita la Conferenza permanente Stato Regioni; le somme corrispondenti sono versate all'entrata del bilancio dello Stato per essere successivamente riassegnate con decreto del Ministro del Tesoro, agli stati di previsione dei suddetti ministeri, escluse le fattispecie per le quali, in base alla legislazione vigente, e' previsto il versamento al bilancio dello Stato, senza che possa aver luogo la riassegnazione.
 
 2\. Nelle more dell'emanazione del decreto di cui al comma 1 continuano ad applicarsi le tari' vigenti.
 
-###### Art. 103 - Norme soppresse
+#### Art. 103 - Norme soppresse
 
 1\. Sono soppresse, le seguenti disposizioni del decreto del Presidente della Repubblica n. 128 del 1959:
 
@@ -1263,7 +1247,7 @@ b) i commi terzo, quarto, quinto e sesto dell'articolo 75.
 
 ## TITOLO V - SANZIONI
 
-###### Art. 104
+#### Art. 104
 
 (Contravvenzioni commesse dai datori di lavoro, dai titolari,
 
@@ -1291,7 +1275,7 @@ a) con l'arresto da tre a sei mesi o con l'ammenda da lire tre milioni a lire ot
 
 b)con l'arresto da due a quattro mesi o con l'ammenda da lire un milione a lire cinque milioni per la violazione degli articoli: 23; 25 commi 3, 4, 5 e 7.
 
-###### Art. 105 - Contravvenzioni commesse dai preposti e dai sorveglianti
+#### Art. 105 - Contravvenzioni commesse dai preposti e dai sorveglianti
 
 1\. I preposti sono puniti:
 
@@ -1301,11 +1285,11 @@ b) con l'arresto sino ad un mese o con l'ammenda da lire trecentomila a lire un 
 
 2\. I sorveglianti sono puniti con l'arresto sino ad un mese o con l'ammenda da lire trecentomila a lire un milione per la violazione degli articoli: 23; 25 comma 2.
 
-###### Art. 106 - Violazioni amministrative
+#### Art. 106 - Violazioni amministrative
 
 1\. Chiunque viola le disposizioni di cui all'articolo 43 comma 3 e' punito con la sanzione amministrativa pecuniaria da lire un milione a lire sei milioni.
 
-###### Art. 107 - Estinzione delle contravvenzioni
+#### Art. 107 - Estinzione delle contravvenzioni
 
 1\. Si applica il Capo II del decreto legislativo 19 dicembre 1994, n.758, alle contravvenzioni di cui all'articolo 104, commi 1, 2, 3 lettere a) e b)e 4 e all'articolo 105.
 

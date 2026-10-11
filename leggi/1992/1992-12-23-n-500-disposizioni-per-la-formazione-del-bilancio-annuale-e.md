@@ -30,11 +30,9 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I - DISPOSIZIONI
+## CAPO I - DISPOSIZIONI DI CARATTERE FINANZIARIO
 
-### DI CARATTERE FINANZIARIO
-
-#### Art. 1
+### Art. 1
 
 1\. Per l'anno 1993, il limite massimo del saldo netto da finanziare
 
@@ -92,7 +90,7 @@ ricorso al mercato sono ridotti in misura pari alle entrate effettivamente accer
 
 > 6\. In ogni caso, ferme restando le modalita' di copertura di cui al comma 5, le nuove o maggiori spese disposte con la legge finanziaria non possono concorrere a determinare tassi di evoluzione delle spese medesime, sia correnti che in conto capitale, incompatibili con le regole determinate, ai sensi dell'art. 3, comma 2, lettera e), nel documento di programmazione economico-finanziaria, come deliberato dal Parlamento".
 
-#### Art. 2
+### Art. 2
 
 1\. Per ciascuno degli anni 1993, 1994 e 1995, l'eventuale maggiore gettito tributario rispetto alle previsioni derivanti dalla normativa vigente e' interamente utilizzato per la riduzione del saldo netto da finanziare, salvo che si tratti di assicurare la copertura finanziaria di interventi urgenti ed imprevisti per fronteggiare calamita' naturali o improrogabili esigenze connesse con la tutela della sicurezza del Paese ovvero situazioni di emergenza economico- finanziaria.
 
@@ -150,11 +148,9 @@ ricorso al mercato sono ridotti in misura pari alle entrate effettivamente accer
 
 > \- Il D.P.R. n. 218/1978, reca norme concernenti il testo unico delle leggi sugli interventi nel Mezzogiorno.
 
-## CAPO II - DISPOSIZIONI
+## CAPO II - DISPOSIZIONI PER IL SETTORE DEI TRASPORTI
 
-### PER IL SETTORE DEI TRASPORTI
-
-#### Art. 3
+### Art. 3
 
 1\. Per l'anno 1993, il fondo nazionale per il ripiano dei disavanzi di esercizio delle aziende di trasporto pubbliche e private nelle regioni a statuto ordinario e' confermato nell'importo di lire 4.764 miliardi, stabilito per l'anno 1992 dall'articolo 4, comma 1, della legge 31 dicembre 1991, n. 415, e confluisce nel fondo comune di cui all'articolo 8 della legge 16 maggio 1970, n. 281. In sede di prima applicazione le quote spettanti alle regioni sono determinate in applicazione di criteri e modalita' stabiliti con decreto del Ministro dei trasporti di concerto con il Ministro del tesoro, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, ai sensi del decreto legislativo 16 dicembre 1989, n. 418.
 
@@ -244,11 +240,9 @@ ricorso al mercato sono ridotti in misura pari alle entrate effettivamente accer
 
 > \- Il regolamento CEE n. 1107/70, relativo agli aiuti accordati nel settore dei trasporti per ferrovia, su strada e per via navigabile, e' stato pubblicato nella Gazzetta Ufficiale delle Comunita' europee n. L 130 del 15 giugno 1970.
 
-## CAPO III - DISPOSIZIONI
+## CAPO III - DISPOSIZIONI IN MATERIA DI FINANZA REGIONALE
 
-### IN MATERIA DI FINANZA REGIONALE
-
-#### Art. 4
+### Art. 4
 
 1\. La quota variabile del fondo per il finanziamento dei programmi regionali di sviluppo di cui all'articolo 3, comma 1, lettera b), della legge 14 giugno 1990, n. 158, al netto degli stanziamenti annuali previsti dalle leggi di settore, e' determinata per ciascuno degli anni 1993, 1994 e 1995 in lire 137 miliardi. (1)
 
@@ -276,11 +270,9 @@ AGGIORNAMENTO (2)
 
 La L. 12 novembre 2011, n. 183 ha disposto (con l'art. 4, comma 101) che "Le risorse disponibili per gli interventi di cui all'articolo 4, comma 7, della legge 23 dicembre 1992, n. 500, sono ridotte per un importo di 17 milioni a decorrere dall'anno 2012."
 
-## CAPO IV - DISPOSIZIONI
+## CAPO IV - DISPOSIZIONI IN MATERIA DI PREVIDENZA
 
-### IN MATERIA DI PREVIDENZA
-
-#### Art. 5
+### Art. 5
 
 1\. L'importo dei versamenti dello Stato all'lNPS, per il concorso agli oneri della gestione degli interventi assistenziali e di sostegno alle gestioni previdenziali, ai fini della progressiva assunzione degli oneri stessi a carico del bilancio dello Stato, ai sensi dell'articolo 37 della legge 9 marzo 1989, n. 88, e' complessivamente stabilito per l'anno 1993 in lire 1.500 miliardi, di cui lire 466 miliardi a titolo di adeguamento della quota parte di mensilita' delle pensioni erogate dal fondo pensioni lavoratori dipendenti, dalle gestioni dei lavoratori autonomi, dalla gestione speciale minatori e dall'ENPALS, ai sensi del comma 3, lettera c), del suddetto articolo 37. Conseguentemente, la somma di cui all'articolo 21, comma 3, della legge 11 marzo 1988, n. 67, rideterminata in attuazione dell'articolo 5 del decreto-legge 19 settembre 1992, n. 384, convertito, con modificazioni, dalla legge 14 novembre 1992, n. 438, resta stabilita in lire 13.785 miliardi per l'anno 1993, in lire 17.430 miliardi per l'anno 1994 e in lire 22.430 miliardi per l'anno 1995. La somma relativa all'anno 1993 e' assegnata per lire 10.314 miliardi al fondo pensioni lavoratori dipendenti, per lire 705 miliardi alla gestione esercenti attivita' commerciali, per lire 730 miliardi alla gestione artigiani, per lire 1.986 miliardi alla gestione coltivatori diretti, per lire 2 miliardi alla gestione speciale minatori e per lire 48 miliardi all'ENPALS; per effetto del medesimo articolo 5 i trasferimenti all'INPS a titolo di erogazione delle pensioni sociali sono stabiliti in lire 3.220 miliardi per gli anni 1993 e 1994.
 
@@ -332,7 +324,7 @@ La L. 12 novembre 2011, n. 183 ha disposto (con l'art. 4, comma 101) che "Le ris
 
 ## CAPO V - NORME FINALI
 
-#### Art. 6
+### Art. 6
 
 1\. La copertura della presente legge per le nuove o maggiori spese correnti, per le riduzioni di entrata e per le nuove finalizzazioni nette da iscrivere nel fondo speciale di parte corrente viene assicurata, ai sensi dell'articolo 11, comma 5, della legge 5 agosto 1978, n. 468, come sostituito dall'articolo 5 della legge 23 agosto 1988, n. 362, come da prospetto allegato.
 
@@ -358,7 +350,7 @@ Visto, il Guardasigilli: MARTELLI
 
 ## CAPO V - NORME FINALI
 
-#### Prospetto
+### Prospetto
 
 PROSPETTO DI COPERTURA (Articolo 6, comma 1) COPERTURA DEGLI ONERI DI NATURA CORRENTE
 
@@ -596,7 +588,7 @@ al 1992 - - 31 785 - 51.801 - 67.263 (\*) Risparmio pubblico quale risulta dalle
 
 (\*\*) Risparmio pubblico quale risulta dal quadro generale riassuntivo del bilancio pluriennale per il triennio 1993-1995 a legislazione vigente, comprensivo della 1a Nota di variazioni, al netto della regolazione in titoli dei crediti di imposta e degli effetti finanziari derivanti dai decreti-legge nn. 384 e 394 del 1992, integrato con gli effetti degli emendamenti al progetto di bilancio non considerati nel prospetto di copertura. Tale risparmio e' stato, altresi', ridotto per la considerazione degli accantonamenti di segno negativo previsti nel fondo speciale di parte corrente della legge finanziaria 1992 e non ancora perfezionati (miliardi 20.950 per il 1993, miliardi 34.770 per il 1994 e miliar di 34.344 per il 1995).
 
-#### Tabelle
+### Tabelle
 
 TABELLA A
 
@@ -6031,7 +6023,7 @@ cap. 7305).............. 20.000 10.000 - - - 2
  ===================================
 ```
 
-#### Tabelle
+### Tabelle
 
 20\. Realizzazione strutture turistiche.
 
@@ -6255,7 +6247,7 @@ relativa all'anno 1990.
 
 ciascuno deglianni 1993, 1994 e 1995 in base alla precedente Tabella E.
 
-#### Tabelle
+### Tabelle
 
 Segue: TABELLA F
 

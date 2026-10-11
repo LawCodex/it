@@ -30,7 +30,7 @@ la seguente legge:
 
 ## Capo I - DISPOSIZIONI GENERALI
 
-##### Art. 1
+#### Art. 1
 
 ARTICOLO ABROGATO DAL D.LGS. 3 LUGLIO 2017, N. 117
 
@@ -42,7 +42,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 16 ottobre 2017, n. 148, convertito con modificazioni dalla L. 4 dicembre 2017, n. 172, nel modificare l'art. 102, comma 1 del D.Lgs. 3 luglio 2017, n. 117 ha conseguentemente disposto (con l'art. 5-sexies, comma 1) che "Pertanto, le disposizioni di carattere fiscale richiamate dagli articoli 99, comma 3, e 102, comma 1, del medesimo codice di cui al decreto legislativo n. 117 del 2017 continuano a trovare applicazione senza soluzione di continuita' fino al 31 dicembre 2017".
 
-##### Art. 2
+#### Art. 2
 
 ARTICOLO ABROGATO DAL D.LGS. 3 LUGLIO 2017, N. 117
 
@@ -54,7 +54,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 16 ottobre 2017, n. 148, convertito con modificazioni dalla L. 4 dicembre 2017, n. 172, nel modificare l'art. 102, comma 1 del D.Lgs. 3 luglio 2017, n. 117 ha conseguentemente disposto (con l'art. 5-sexies, comma 1) che "Pertanto, le disposizioni di carattere fiscale richiamate dagli articoli 99, comma 3, e 102, comma 1, del medesimo codice di cui al decreto legislativo n. 117 del 2017 continuano a trovare applicazione senza soluzione di continuita' fino al 31 dicembre 2017".
 
-##### Art. 3
+#### Art. 3
 
 ARTICOLO ABROGATO DAL D.LGS. 3 LUGLIO 2017, N. 117
 
@@ -66,7 +66,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 16 ottobre 2017, n. 148, convertito con modificazioni dalla L. 4 dicembre 2017, n. 172, nel modificare l'art. 102, comma 1 del D.Lgs. 3 luglio 2017, n. 117 ha conseguentemente disposto (con l'art. 5-sexies, comma 1) che "Pertanto, le disposizioni di carattere fiscale richiamate dagli articoli 99, comma 3, e 102, comma 1, del medesimo codice di cui al decreto legislativo n. 117 del 2017 continuano a trovare applicazione senza soluzione di continuita' fino al 31 dicembre 2017".
 
-##### Art. 4
+#### Art. 4
 
 ARTICOLO ABROGATO DAL D.LGS. 3 LUGLIO 2017, N. 117
 
@@ -78,7 +78,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 16 ottobre 2017, n. 148, convertito con modificazioni dalla L. 4 dicembre 2017, n. 172, nel modificare l'art. 102, comma 1 del D.Lgs. 3 luglio 2017, n. 117 ha conseguentemente disposto (con l'art. 5-sexies, comma 1) che "Pertanto, le disposizioni di carattere fiscale richiamate dagli articoli 99, comma 3, e 102, comma 1, del medesimo codice di cui al decreto legislativo n. 117 del 2017 continuano a trovare applicazione senza soluzione di continuita' fino al 31 dicembre 2017".
 
-##### Art. 5
+#### Art. 5
 
 ARTICOLO ABROGATO DAL D.LGS. 3 LUGLIO 2017, N. 117
 
@@ -90,7 +90,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 16 ottobre 2017, n. 148, convertito con modificazioni dalla L. 4 dicembre 2017, n. 172, nel modificare l'art. 102, comma 1 del D.Lgs. 3 luglio 2017, n. 117 ha conseguentemente disposto (con l'art. 5-sexies, comma 1) che "Pertanto, le disposizioni di carattere fiscale richiamate dagli articoli 99, comma 3, e 102, comma 1, del medesimo codice di cui al decreto legislativo n. 117 del 2017 continuano a trovare applicazione senza soluzione di continuita' fino al 31 dicembre 2017".
 
-##### Art. 6
+#### Art. 6
 
 ARTICOLO ABROGATO DAL D.LGS. 3 LUGLIO 2017, N. 117
 
@@ -102,13 +102,11 @@ AGGIORNAMENTO (3)
 
 Il D.L. 16 ottobre 2017, n. 148, convertito con modificazioni dalla L. 4 dicembre 2017, n. 172, nel modificare l'art. 102, comma 1 del D.Lgs. 3 luglio 2017, n. 117 ha conseguentemente disposto (con l'art. 5-sexies, comma 1) che "Pertanto, le disposizioni di carattere fiscale richiamate dagli articoli 99, comma 3, e 102, comma 1, del medesimo codice di cui al decreto legislativo n. 117 del 2017 continuano a trovare applicazione senza soluzione di continuita' fino al 31 dicembre 2017".
 
-## Capo II - REGISTRI E OSSERVATORI
+## Capo II - REGISTRI E OSSERVATORI DELL'ASSOCIAZIONISMO
 
-### DELL'ASSOCIAZIONISMO - Sezione I
+### Sezione I - Registri nazionale, regionali e provinciali
 
-#### Registri nazionale, - regionali e provinciali
-
-##### Art. 7 - Registri
+#### Art. 7 - Registri
 
 1\. Presso la Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali e' istituito un registro nazionale al quale possono iscriversi, ai fini dell'applicazione della presente legge, le associazioni di promozione sociale a carattere nazionale in possesso dei requisiti di cui all'articolo 2, costituite ed operanti da almeno un anno. Alla tenuta del registro si provvede con le ordinarie risorse finanziarie, umane e strumentali del Dipartimento per gli affari sociali.
 
@@ -126,7 +124,7 @@ AGGIORNAMENTO (2)
 
 Il D.Lgs. 3 luglio 2017, n. 117 ha disposto (con l'art. 102, comma 4) che "Le disposizioni di cui all'articolo 6, della legge 11 agosto 1991, n. 266, agli articoli 7, 8, 9 e 10 della legge 7 dicembre 2000, n. 383, nonche' il decreto del Ministro del lavoro e delle politiche sociali 14 novembre 2001, n. 471, sono abrogate a decorrere dalla data di operativita' del Registro unico nazionale del Terzo settore, ai sensi dell'articolo 53".
 
-##### Art. 8 - Disciplina del procedimento per le iscrizioni ai registri nazionale, regionali e provinciali
+#### Art. 8 - Disciplina del procedimento per le iscrizioni ai registri nazionale, regionali e provinciali
 
 1\. Il Ministro per la solidarieta' sociale, entro centoventi giorni dalla data di entrata in vigore della presente legge, emana un apposito regolamento che disciplina il procedimento per l'emanazione dei provvedimenti di iscrizione e di cancellazione delle associazioni a carattere nazionale nel registro nazionale di cui all'articolo 7, comma 1, e la periodica revisione dello stesso, nel rispetto della legge 7 agosto 1990, n. 241.
 
@@ -144,7 +142,7 @@ AGGIORNAMENTO (2)
 
 Il D.Lgs. 3 luglio 2017, n. 117 ha disposto (con l'art. 102, comma 4) che "Le disposizioni di cui all'articolo 6, della legge 11 agosto 1991, n. 266, agli articoli 7, 8, 9 e 10 della legge 7 dicembre 2000, n. 383, nonche' il decreto del Ministro del lavoro e delle politiche sociali 14 novembre 2001, n. 471, sono abrogate a decorrere dalla data di operativita' del Registro unico nazionale del Terzo settore, ai sensi dell'articolo 53".
 
-##### Art. 9 - Atti soggetti ad iscrizione nei registri
+#### Art. 9 - Atti soggetti ad iscrizione nei registri
 
 1\. Nei registri di cui all'articolo 7 devono risultare l'atto costitutivo, lo statuto, la sede dell'associazione e l'ambito territoriale di attivita'.
 
@@ -158,7 +156,7 @@ AGGIORNAMENTO (2)
 
 Il D.Lgs. 3 luglio 2017, n. 117 ha disposto (con l'art. 102, comma 4) che "Le disposizioni di cui all'articolo 6, della legge 11 agosto 1991, n. 266, agli articoli 7, 8, 9 e 10 della legge 7 dicembre 2000, n. 383, nonche' il decreto del Ministro del lavoro e delle politiche sociali 14 novembre 2001, n. 471, sono abrogate a decorrere dalla data di operativita' del Registro unico nazionale del Terzo settore, ai sensi dell'articolo 53".
 
-##### Art. 10 - Ricorsi avverso i provvedimenti relativi alle iscrizioni e alle cancellazioni
+#### Art. 10 - Ricorsi avverso i provvedimenti relativi alle iscrizioni e alle cancellazioni
 
 1\. Avverso i provvedimenti di rifiuto di iscrizione e avverso i provvedimenti di cancellazione e' ammesso ricorso in via amministrativa, nel caso si tratti di associazioni a carattere nazionale, al Ministro per la solidarieta' sociale, che decide previa acquisizione del parere vincolante dell'Osservatorio nazionale di cui all'articolo 11; nel caso si tratti di associazioni che operano in ambito regionale o nell'ambito delle province autonome di Trento e di Bolzano, al presidente della giunta regionale o provinciale, previa acquisizione del parere vincolante dell'osservatorio regionale previsto dall'articolo 14. ((2))
 
@@ -170,13 +168,11 @@ AGGIORNAMENTO (2)
 
 Il D.Lgs. 3 luglio 2017, n. 117 ha disposto (con l'art. 102, comma 4) che "Le disposizioni di cui all'articolo 6, della legge 11 agosto 1991, n. 266, agli articoli 7, 8, 9 e 10 della legge 7 dicembre 2000, n. 383, nonche' il decreto del Ministro del lavoro e delle politiche sociali 14 novembre 2001, n. 471, sono abrogate a decorrere dalla data di operativita' del Registro unico nazionale del Terzo settore, ai sensi dell'articolo 53".
 
-## Capo II - REGISTRI E OSSERVATORI
+## Capo II - REGISTRI E OSSERVATORI DELL'ASSOCIAZIONISMO
 
-### DELL'ASSOCIAZIONISMO - Sezione II
+### Sezione II - Osservatorio nazionale e osservatori regionali dell'associazionismo
 
-#### Osservatorio nazionale e osservatori - regionali dell'associazionismo
-
-##### Art. 11
+#### Art. 11
 
 ARTICOLO ABROGATO DAL D.LGS. 3 LUGLIO 2017, N. 117
 
@@ -188,7 +184,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 16 ottobre 2017, n. 148, convertito con modificazioni dalla L. 4 dicembre 2017, n. 172, nel modificare l'art. 102, comma 1 del D.Lgs. 3 luglio 2017, n. 117 ha conseguentemente disposto (con l'art. 5-sexies, comma 1) che "Pertanto, le disposizioni di carattere fiscale richiamate dagli articoli 99, comma 3, e 102, comma 1, del medesimo codice di cui al decreto legislativo n. 117 del 2017 continuano a trovare applicazione senza soluzione di continuita' fino al 31 dicembre 2017".
 
-##### Art. 12
+#### Art. 12
 
 ARTICOLO ABROGATO DAL D.LGS. 3 LUGLIO 2017, N. 117
 
@@ -200,7 +196,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 16 ottobre 2017, n. 148, convertito con modificazioni dalla L. 4 dicembre 2017, n. 172, nel modificare l'art. 102, comma 1 del D.Lgs. 3 luglio 2017, n. 117 ha conseguentemente disposto (con l'art. 5-sexies, comma 1) che "Pertanto, le disposizioni di carattere fiscale richiamate dagli articoli 99, comma 3, e 102, comma 1, del medesimo codice di cui al decreto legislativo n. 117 del 2017 continuano a trovare applicazione senza soluzione di continuita' fino al 31 dicembre 2017".
 
-##### Art. 13 - Fondo per l'associazionismo
+#### Art. 13 - Fondo per l'associazionismo
 
 1\. E' istituito, presso la Presidenza del Consiglio dei ministri - Dipartimento per gli affari sociali, il Fondo per l'associazionismo, finalizzato a sostenere finanziariamente le iniziative ed i progetti di cui alle lettere d) e f) del comma 3 dell'articolo 12.
 
@@ -214,7 +210,7 @@ AGGIORNAMENTO (2)
 
 Il D.Lgs. 3 luglio 2017, n. 117 ha disposto (con l'art. 102, comma 3) che "Le disposizioni di cui all'articolo 12, comma 2, della legge 11 agosto 1991, n. 266, all'articolo 13 della legge 7 dicembre 2000, n. 383, e all'articolo 96, comma 1, della legge 21 novembre 2000, n. 342, sono abrogate a decorrere dalla data di efficacia del decreto del Ministro dell'economia e delle finanze di cui all'articolo 103, comma 2, finalizzato a dare attuazione a quanto previsto dall'articolo 73, comma 1".
 
-##### Art. 14
+#### Art. 14
 
 ARTICOLO ABROGATO DAL D.LGS. 3 LUGLIO 2017, N. 117
 
@@ -226,7 +222,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 16 ottobre 2017, n. 148, convertito con modificazioni dalla L. 4 dicembre 2017, n. 172, nel modificare l'art. 102, comma 1 del D.Lgs. 3 luglio 2017, n. 117 ha conseguentemente disposto (con l'art. 5-sexies, comma 1) che "Pertanto, le disposizioni di carattere fiscale richiamate dagli articoli 99, comma 3, e 102, comma 1, del medesimo codice di cui al decreto legislativo n. 117 del 2017 continuano a trovare applicazione senza soluzione di continuita' fino al 31 dicembre 2017".
 
-##### Art. 15
+#### Art. 15
 
 ARTICOLO ABROGATO DAL D.LGS. 3 LUGLIO 2017, N. 117
 
@@ -238,7 +234,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 16 ottobre 2017, n. 148, convertito con modificazioni dalla L. 4 dicembre 2017, n. 172, nel modificare l'art. 102, comma 1 del D.Lgs. 3 luglio 2017, n. 117 ha conseguentemente disposto (con l'art. 5-sexies, comma 1) che "Pertanto, le disposizioni di carattere fiscale richiamate dagli articoli 99, comma 3, e 102, comma 1, del medesimo codice di cui al decreto legislativo n. 117 del 2017 continuano a trovare applicazione senza soluzione di continuita' fino al 31 dicembre 2017".
 
-##### Art. 16
+#### Art. 16
 
 ARTICOLO ABROGATO DAL D.LGS. 3 LUGLIO 2017, N. 117
 
@@ -250,7 +246,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 16 ottobre 2017, n. 148, convertito con modificazioni dalla L. 4 dicembre 2017, n. 172, nel modificare l'art. 102, comma 1 del D.Lgs. 3 luglio 2017, n. 117 ha conseguentemente disposto (con l'art. 5-sexies, comma 1) che "Pertanto, le disposizioni di carattere fiscale richiamate dagli articoli 99, comma 3, e 102, comma 1, del medesimo codice di cui al decreto legislativo n. 117 del 2017 continuano a trovare applicazione senza soluzione di continuita' fino al 31 dicembre 2017".
 
-##### Art. 17
+#### Art. 17
 
 ARTICOLO ABROGATO DAL D.LGS. 3 LUGLIO 2017, N. 117
 
@@ -266,7 +262,7 @@ Il D.L. 16 ottobre 2017, n. 148, convertito con modificazioni dalla L. 4 dicembr
 
 ### Sezione I - Prestazioni degli associati
 
-##### Art. 18
+#### Art. 18
 
 ARTICOLO ABROGATO DAL D.LGS. 3 LUGLIO 2017, N. 117
 
@@ -278,7 +274,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 16 ottobre 2017, n. 148, convertito con modificazioni dalla L. 4 dicembre 2017, n. 172, nel modificare l'art. 102, comma 1 del D.Lgs. 3 luglio 2017, n. 117 ha conseguentemente disposto (con l'art. 5-sexies, comma 1) che "Pertanto, le disposizioni di carattere fiscale richiamate dagli articoli 99, comma 3, e 102, comma 1, del medesimo codice di cui al decreto legislativo n. 117 del 2017 continuano a trovare applicazione senza soluzione di continuita' fino al 31 dicembre 2017".
 
-##### Art. 19
+#### Art. 19
 
 ARTICOLO ABROGATO DAL D.LGS. 3 LUGLIO 2017, N. 117
 
@@ -292,11 +288,9 @@ Il D.L. 16 ottobre 2017, n. 148, convertito con modificazioni dalla L. 4 dicembr
 
 ## Capo III - PRESTAZIONI DEGLI ASSOCIATI, DISCIPLINA FISCALE E AGEVOLAZIONI
 
-### Sezione II - Disciplina fiscale, diritti
+### Sezione II - Disciplina fiscale, diritti e altre agevolazioni
 
-#### e altre agevolazioni
-
-##### Art. 20 - Prestazioni in favore dei familiari degli associati
+#### Art. 20 - Prestazioni in favore dei familiari degli associati
 
 1\. Le cessioni di beni e le prestazioni di servizi rese nei confronti dei familiari conviventi degli associati sono equiparate, ai fini fiscali, a quelle rese agli associati.
 
@@ -314,7 +308,7 @@ Il D.Lgs. 3 luglio 2017, n. 117 ha disposto (con l'art. 102, comma 2, lettera g)
 
 g) gli articoli 20 e 21 della legge n. 383 del 7 dicembre 2000".
 
-##### Art. 21 - Imposta sugli intrattenimenti
+#### Art. 21 - Imposta sugli intrattenimenti
 
 1\. In deroga alla disposizione di cui all'articolo 3, comma 3, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 640, come modificato, da ultimo, dal decreto legislativo 26 febbraio 1999, n. 60, le quote e i contributi corrisposti alle associazioni di promozione sociale non concorrono alla formazione della base imponibile, ai fini dell'imposta sugli intrattenimenti.
 
@@ -332,7 +326,7 @@ Il D.Lgs. 3 luglio 2017, n. 117 ha disposto (con l'art. 102, comma 2, lettera g)
 
 g) gli articoli 20 e 21 della legge n. 383 del 7 dicembre 2000".
 
-##### Art. 22
+#### Art. 22
 
 ARTICOLO ABROGATO DAL D.LGS. 3 LUGLIO 2017, N. 117
 
@@ -344,7 +338,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 16 ottobre 2017, n. 148, convertito con modificazioni dalla L. 4 dicembre 2017, n. 172, nel modificare l'art. 102, comma 1 del D.Lgs. 3 luglio 2017, n. 117 ha conseguentemente disposto (con l'art. 5-sexies, comma 1) che "Pertanto, le disposizioni di carattere fiscale richiamate dagli articoli 99, comma 3, e 102, comma 1, del medesimo codice di cui al decreto legislativo n. 117 del 2017 continuano a trovare applicazione senza soluzione di continuita' fino al 31 dicembre 2017".
 
-##### Art. 23
+#### Art. 23
 
 ARTICOLO ABROGATO DAL D.LGS. 3 LUGLIO 2017, N. 117
 
@@ -356,7 +350,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 16 ottobre 2017, n. 148, convertito con modificazioni dalla L. 4 dicembre 2017, n. 172, nel modificare l'art. 102, comma 1 del D.Lgs. 3 luglio 2017, n. 117 ha conseguentemente disposto (con l'art. 5-sexies, comma 1) che "Pertanto, le disposizioni di carattere fiscale richiamate dagli articoli 99, comma 3, e 102, comma 1, del medesimo codice di cui al decreto legislativo n. 117 del 2017 continuano a trovare applicazione senza soluzione di continuita' fino al 31 dicembre 2017".
 
-##### Art. 24
+#### Art. 24
 
 ARTICOLO ABROGATO DAL D.LGS. 3 LUGLIO 2017, N. 117
 
@@ -368,7 +362,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 16 ottobre 2017, n. 148, convertito con modificazioni dalla L. 4 dicembre 2017, n. 172, nel modificare l'art. 102, comma 1 del D.Lgs. 3 luglio 2017, n. 117 ha conseguentemente disposto (con l'art. 5-sexies, comma 1) che "Pertanto, le disposizioni di carattere fiscale richiamate dagli articoli 99, comma 3, e 102, comma 1, del medesimo codice di cui al decreto legislativo n. 117 del 2017 continuano a trovare applicazione senza soluzione di continuita' fino al 31 dicembre 2017".
 
-##### Art. 25
+#### Art. 25
 
 ARTICOLO ABROGATO DAL D.LGS. 3 LUGLIO 2017, N. 117
 
@@ -380,7 +374,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 16 ottobre 2017, n. 148, convertito con modificazioni dalla L. 4 dicembre 2017, n. 172, nel modificare l'art. 102, comma 1 del D.Lgs. 3 luglio 2017, n. 117 ha conseguentemente disposto (con l'art. 5-sexies, comma 1) che "Pertanto, le disposizioni di carattere fiscale richiamate dagli articoli 99, comma 3, e 102, comma 1, del medesimo codice di cui al decreto legislativo n. 117 del 2017 continuano a trovare applicazione senza soluzione di continuita' fino al 31 dicembre 2017".
 
-##### Art. 26
+#### Art. 26
 
 ARTICOLO ABROGATO DAL D.LGS. 3 LUGLIO 2017, N. 117
 
@@ -392,7 +386,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 16 ottobre 2017, n. 148, convertito con modificazioni dalla L. 4 dicembre 2017, n. 172, nel modificare l'art. 102, comma 1 del D.Lgs. 3 luglio 2017, n. 117 ha conseguentemente disposto (con l'art. 5-sexies, comma 1) che "Pertanto, le disposizioni di carattere fiscale richiamate dagli articoli 99, comma 3, e 102, comma 1, del medesimo codice di cui al decreto legislativo n. 117 del 2017 continuano a trovare applicazione senza soluzione di continuita' fino al 31 dicembre 2017".
 
-##### Art. 27
+#### Art. 27
 
 ARTICOLO ABROGATO DAL D.LGS. 3 LUGLIO 2017, N. 117
 
@@ -404,7 +398,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 16 ottobre 2017, n. 148, convertito con modificazioni dalla L. 4 dicembre 2017, n. 172, nel modificare l'art. 102, comma 1 del D.Lgs. 3 luglio 2017, n. 117 ha conseguentemente disposto (con l'art. 5-sexies, comma 1) che "Pertanto, le disposizioni di carattere fiscale richiamate dagli articoli 99, comma 3, e 102, comma 1, del medesimo codice di cui al decreto legislativo n. 117 del 2017 continuano a trovare applicazione senza soluzione di continuita' fino al 31 dicembre 2017".
 
-##### Art. 28
+#### Art. 28
 
 ARTICOLO ABROGATO DAL D.LGS. 3 LUGLIO 2017, N. 117
 
@@ -416,7 +410,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 16 ottobre 2017, n. 148, convertito con modificazioni dalla L. 4 dicembre 2017, n. 172, nel modificare l'art. 102, comma 1 del D.Lgs. 3 luglio 2017, n. 117 ha conseguentemente disposto (con l'art. 5-sexies, comma 1) che "Pertanto, le disposizioni di carattere fiscale richiamate dagli articoli 99, comma 3, e 102, comma 1, del medesimo codice di cui al decreto legislativo n. 117 del 2017 continuano a trovare applicazione senza soluzione di continuita' fino al 31 dicembre 2017".
 
-##### Art. 29
+#### Art. 29
 
 ARTICOLO ABROGATO DAL D.LGS. 3 LUGLIO 2017, N. 117
 
@@ -428,7 +422,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 16 ottobre 2017, n. 148, convertito con modificazioni dalla L. 4 dicembre 2017, n. 172, nel modificare l'art. 102, comma 1 del D.Lgs. 3 luglio 2017, n. 117 ha conseguentemente disposto (con l'art. 5-sexies, comma 1) che "Pertanto, le disposizioni di carattere fiscale richiamate dagli articoli 99, comma 3, e 102, comma 1, del medesimo codice di cui al decreto legislativo n. 117 del 2017 continuano a trovare applicazione senza soluzione di continuita' fino al 31 dicembre 2017".
 
-##### Art. 30
+#### Art. 30
 
 ARTICOLO ABROGATO DAL D.LGS. 3 LUGLIO 2017, N. 117
 
@@ -440,7 +434,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 16 ottobre 2017, n. 148, convertito con modificazioni dalla L. 4 dicembre 2017, n. 172, nel modificare l'art. 102, comma 1 del D.Lgs. 3 luglio 2017, n. 117 ha conseguentemente disposto (con l'art. 5-sexies, comma 1) che "Pertanto, le disposizioni di carattere fiscale richiamate dagli articoli 99, comma 3, e 102, comma 1, del medesimo codice di cui al decreto legislativo n. 117 del 2017 continuano a trovare applicazione senza soluzione di continuita' fino al 31 dicembre 2017".
 
-##### Art. 31
+#### Art. 31
 
 ARTICOLO ABROGATO DAL D.LGS. 3 LUGLIO 2017, N. 117
 
@@ -452,7 +446,7 @@ AGGIORNAMENTO (3)
 
 Il D.L. 16 ottobre 2017, n. 148, convertito con modificazioni dalla L. 4 dicembre 2017, n. 172, nel modificare l'art. 102, comma 1 del D.Lgs. 3 luglio 2017, n. 117 ha conseguentemente disposto (con l'art. 5-sexies, comma 1) che "Pertanto, le disposizioni di carattere fiscale richiamate dagli articoli 99, comma 3, e 102, comma 1, del medesimo codice di cui al decreto legislativo n. 117 del 2017 continuano a trovare applicazione senza soluzione di continuita' fino al 31 dicembre 2017".
 
-##### Art. 32
+#### Art. 32
 
 ARTICOLO ABROGATO DAL D.LGS. 3 LUGLIO 2017, N. 117
 
@@ -466,7 +460,7 @@ Il D.L. 16 ottobre 2017, n. 148, convertito con modificazioni dalla L. 4 dicembr
 
 ## Capo IV - DISPOSIZIONI FINANZIARIE
 
-##### Art. 33
+#### Art. 33
 
 ARTICOLO ABROGATO DAL D.LGS. 3 LUGLIO 2017, N. 117
 

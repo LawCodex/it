@@ -34,27 +34,27 @@ Noi abbiamo sanzionato e promulghiamo quanto segue:
 
 ## TITOLO PRIMO - ORDINAMENTO GENERALE
 
-##### Art. 1
+#### Art. 1
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 2
+#### Art. 2
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 3
+#### Art. 3
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 4
+#### Art. 4
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 5
+#### Art. 5
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 6
+#### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
@@ -62,7 +62,7 @@ Noi abbiamo sanzionato e promulghiamo quanto segue:
 
 ### CAPO I. - Disposizioni generali.
 
-##### Art. 7
+#### Art. 7
 
 ((COMMA ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139)).
 
@@ -72,7 +72,7 @@ Noi abbiamo sanzionato e promulghiamo quanto segue:
 
 Il Corpo nazionale dei vigili del fuoco e', altresi', autorizzato a reclutare annualmente, a domanda, volontari ausiliari tratti dai giovani tenuti a rispondere alla chiamata alle armi per obbligo di leva nello stesso anno e che abbiano ottenuto il necessario nulla osta dalle competenti autorita' militari; con regolamento adottato dal Ministro dell'interno, di concerto con il Ministro della difesa, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono stabiliti i requisiti necessari e le modalita' per l'arruolamento nel Corpo nazionale dei vigili del fuoco in qualita' di vigile volontario ausiliario. La durata massima del servizio dei volontari ausiliari e' di 18 mesi. Il numero dei volontari ausiliari non puo' superare il 10 per cento degli organici vigenti.
 
-##### Art. 8
+#### Art. 8
 
 Ai fini della presente legge e nell'esercizio delle loro funzioni, gli appartenenti ai Corpi dei vigili del fuoco, sia permanenti che volontari, sono agenti di pubblica sicurezza e godono, nei viaggi per servizio, degli stessi benefici concessi agli agenti della forza pubblica circa l'uso dei pubblici trasporti statali, provinciali e comunali.
 
@@ -80,9 +80,9 @@ Ai fini della presente legge e nell'esercizio delle loro funzioni, gli appartene
 
 ((COMMA ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139)).
 
-## CAPO II. - Personale permanente.
+### CAPO II. - Personale permanente.
 
-##### Art. 9
+#### Art. 9
 
 L'ammissione nel ruolo della carriera direttiva dei servizi antincendi avviene mediante pubblico concorso per esami.
 
@@ -122,19 +122,19 @@ Il D.Lgs. 8 marzo 2006, n. 139, ha disposto (con l'art. 35, comma 1, lettera d))
 
 d) legge 27 dicembre 1941, n. 1570, ad eccezione degli articoli 7, quarto comma; 8, primo comma; 9 fino alla attuazione dei decreti legislativi di cui all'articolo 6, comma 1; 13, quarto comma; 18; 19; 22; 24; 30;".
 
-##### Art. 10
+#### Art. 10
 
 ((IL D.LGS. 8 MARZO 2006, N. 139, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-##### Art. 11
+#### Art. 11
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 12
+#### Art. 12
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 13
+#### Art. 13
 
 ((COMMA ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139)).
 
@@ -146,33 +146,33 @@ Il personale trasferito ai sensi del comma precedente, va a prendere posto nel r
 
 ((COMMA ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139)).
 
-##### Art. 14
+#### Art. 14
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 15
+#### Art. 15
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 16
+#### Art. 16
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-## CAPO III. - Personale volontario.
+### CAPO III. - Personale volontario.
 
-##### Art. 17
+#### Art. 17
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-## CAPO IV. - Obblighi militari del personale.
+### CAPO IV. - Obblighi militari del personale.
 
-##### Art. 18
+#### Art. 18
 
 Il personale permanente del Corpo nazionale, e quello volontario in servizio presso il Corpo stesso da oltre sei mesi, e' esente dai richiami alle armi per istruzioni.
 
 ((Il servizio prestato dai volontari ausiliari presso le scuole centrali antincendi e presso i Corpi dei vigili del fuoco, a norma dell'ultimo comma dell'art. 7, e' valevole ad ogni effetto come servizio militare di leva. I volontari ausiliari durante i 18 mesi di servizio sono esenti dai richiami alle armi)).
 
-##### Art. 19
+#### Art. 19
 
 In caso di mobilitazione generale o parziale, od in caso di speciali esigenze, e' dispensato dai richiami alle armi:
 
@@ -186,21 +186,19 @@ se sottufficiale, graduato o soldato del Regio esercito, abbia compiuto il 30° 
 
 ## TITOLO TERZO - MATERIALI E CASERME
 
-##### Art. 20
+#### Art. 20
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 21
+#### Art. 21
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-## TITOLO QUARTO - ORGANIZZAZIONE E FUNZIONAMENTO
+## TITOLO QUARTO - ORGANIZZAZIONE E FUNZIONAMENTO DEI SERVIZI
 
-### DEI SERVIZI - CAPO I.
+### CAPO I. - Disposizioni generali
 
-#### Disposizioni generali
-
-##### Art. 22
+#### Art. 22
 
 Tutti i servizi pubblici di prevenzione e di estinzione incendi e dei soccorsi tecnici in genere sono assunti, nell'ambito dell'intera provincia, dal Corpo dei vigili del fuoco.
 
@@ -210,57 +208,57 @@ Sono ammesse soltanto le formazioni del genere costituite obbligatoriamente da d
 
 ((COMMA ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)).
 
-##### Art. 23
+#### Art. 23
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 24
+#### Art. 24
 
 Il servizio di estinzione incendi e dei soccorsi tecnici importa l'applicazione delle norme vigenti in materia e l'adozione dei provvedimenti all'uopo necessari ed e' esercitato a giudizio e sotto la responsabilita' del comandante dei reparti di soccorso.
 
 I comandanti delle Forze armate e di polizia, eventualmente intervenuti sul luogo del sinistro per mantenere l'ordine pubblico, debbono agire in conformita' delle disposizioni di carattere tecnico impartite dallo stesso comandante.
 
-##### Art. 25
+#### Art. 25
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 26
+#### Art. 26
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 27
+#### Art. 27
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-## CAPO II. - Organizzazione centrale
+### CAPO II. - Organizzazione centrale
 
-##### Art. 28
-
-((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
-
-##### Art. 29
+#### Art. 28
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 30
+#### Art. 29
+
+((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
+
+#### Art. 30
 
 Con separato provvedimento potra' essere modificata la composizione degli organi centrali governativi che trattino questioni comunque attinenti ai servizi antincendi, mediante l'aggiunta di un rappresentante del Ministero dell'interno.
 
-## CAPO III. - Organizzazione periferica.
+### CAPO III. - Organizzazione periferica.
 
-##### Art. 31
-
-((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
-
-##### Art. 32
+#### Art. 31
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 33
+#### Art. 32
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 34
+#### Art. 33
+
+((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
+
+#### Art. 34
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
@@ -268,65 +266,63 @@ Con separato provvedimento potra' essere modificata la composizione degli organi
 
 ### CAPO I. - Gestione centrale.
 
-##### Art. 35
+#### Art. 35
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 36
+#### Art. 36
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 37
+#### Art. 37
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 38
+#### Art. 38
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 39
+#### Art. 39
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 40
+#### Art. 40
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 41
+#### Art. 41
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-## CAPO II. - Gestione periferica.
+### CAPO II. - Gestione periferica.
 
-##### Art. 42
-
-((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
-
-##### Art. 43
+#### Art. 42
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 44
+#### Art. 43
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 45
+#### Art. 44
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 46
+#### Art. 45
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-## TITOLO SESTO - DISPOSIZIONI PER IL CASO
-
-### DI MOBILITAZIONE E DI EMERGENZA
-
-##### Art. 47
+#### Art. 46
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 48
+## TITOLO SESTO - DISPOSIZIONI PER IL CASO DI MOBILITAZIONE E DI EMERGENZA
+
+#### Art. 47
+
+((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
+
+#### Art. 48
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
@@ -334,109 +330,109 @@ Con separato provvedimento potra' essere modificata la composizione degli organi
 
 ### CAPO I. - Personale.
 
-##### Art. 49
+#### Art. 49
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 50
+#### Art. 50
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 51
+#### Art. 51
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 52
+#### Art. 52
 
 ((IL D.LGS. 8 MARZO 2006, N. 139, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-##### Art. 53
+#### Art. 53
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 54
+#### Art. 54
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 55
+#### Art. 55
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 56
+#### Art. 56
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 57
+#### Art. 57
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 58
+#### Art. 58
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 59
+#### Art. 59
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 60
+#### Art. 60
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 61
+#### Art. 61
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 62
+#### Art. 62
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-## CAPO II. - Materiali e caserme.
+### CAPO II. - Materiali e caserme.
 
-##### Art. 63
-
-((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
-
-## CAPO III. - Canoni consolidati.
-
-##### Art. 64
+#### Art. 63
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 65
+### CAPO III. - Canoni consolidati.
+
+#### Art. 64
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 66
+#### Art. 65
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 67
+#### Art. 66
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 68
+#### Art. 67
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 69
+#### Art. 68
+
+((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
+
+#### Art. 69
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
 ## TITOLO OTTAVO - DISPOSIZIONI FINALI
 
-##### Art. 70
+#### Art. 70
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 71
+#### Art. 71
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 72
+#### Art. 72
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
-##### Art. 73
+#### Art. 73
 
 ((ARTICOLO ABROGATO DAL D.LGS. 8 MARZO 2006, N. 139))
 
@@ -452,7 +448,7 @@ Visto, il Guardasigilli: GRANDI
 
 ## TITOLO OTTAVO - DISPOSIZIONI FINALI
 
-##### Tabelle
+#### Tabelle
 
 Tabelle
 

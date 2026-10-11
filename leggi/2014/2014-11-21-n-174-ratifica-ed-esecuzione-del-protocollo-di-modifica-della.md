@@ -1456,11 +1456,9 @@ Soppressione e ritardo di un treno. Mancata corrispondenza.
 
 Se del caso, il trasportatore deve certificare sul titolo di trasporto che il treno e' stato soppresso o la corrispondenza mancata.
 
-## Titolo III - Trasporto di colli a mano, animali, bagagli e
+## Titolo III - Trasporto di colli a mano, animali, bagagli e veicoli
 
-### veicoli
-
-#### Capitolo I - Disposizioni comuni
+### Capitolo I - Disposizioni comuni
 
 ##### Articolo 12
 
@@ -1488,7 +1486,7 @@ Adempimento di formalita' amministrative
 
 Il viaggiatore deve conformarsi agli adempimenti previsti dalle dogane o da altre autorita' amministrative durante il trasporto, in occasione del suo trasporto, di oggetti (colli a mano, bagagli, veicoli, compresivi del loro carico) e di animali. Deve assistere all'ispezione di questi oggetti, salvo eccezione prevista dalle leggi e dalle prescrizioni di ogni Stato.
 
-## Capitolo II - Colli a mano ed animali
+### Capitolo II - Colli a mano ed animali
 
 ##### Articolo 15
 
@@ -1496,7 +1494,7 @@ Sorveglianza
 
 Spetta al viaggiatore la sorveglianza dei colli a mano e degli animali che porta con se'.
 
-## Capitolo III - Bagagli
+### Capitolo III - Bagagli
 
 ##### Articolo 16
 
@@ -1584,7 +1582,7 @@ b) l'affidamento degli animali vivi a un terzo.
 
 §8 Per di piu', la riconsegna dei bagagli viene effettuata in conformita' alle prescrizioni in vigore nel luogo di destinazione.
 
-## Capitolo IV - Veicoli
+### Capitolo IV - Veicoli
 
 ##### Articolo 23
 
@@ -1618,9 +1616,7 @@ Fatte salve le disposizioni del presente Capitolo, le disposizioni del Capitolo 
 
 ## Titolo IV - Responsabilita' del trasportatore
 
-### Capitolo - I
-
-#### Responsabilita' in caso di morte e ferimento di viaggiatori
+### Capitolo I - Responsabilita' in caso di morte e ferimento di viaggiatori
 
 ##### Articolo 26
 
@@ -1692,7 +1688,7 @@ Altri mezzi di trasporto
 
 §3 Se a seguito di circostanze eccezionali, l'esercizio ferroviario e' provvisoriamente sospeso ed i viaggiatori sono trasportati con un altro mezzo di trasporto, il trasportatore e' responsabile ai sensi delle presenti Regole uniformi.
 
-## Capitolo II - Responsabilita' in caso d'inosservanza dell'orario
+### Capitolo II - Responsabilita' in caso d'inosservanza dell'orario
 
 ##### Articolo 32
 
@@ -1710,9 +1706,7 @@ c) un comportamento di terzi che il trasportatore, nonostante abbia riposto la d
 
 § 3 Il diritto nazionale determina se, ed in quale misura, il trasportatore deve corrispondere un risarcimento danni per danni diversi da quelli previsti al §1. Questa disposizione non pregiudica l'articolo 44.
 
-## Capitolo III - Responsabilita' per i colli a mano, gli animali , i
-
-### bagagli ed i - veicoli
+### Capitolo III - Responsabilita' per i colli a mano, gli animali , i bagagli ed i veicoli
 
 #### Sezione I - Colli a mano ed animali
 
@@ -1736,7 +1730,7 @@ Esonero dalla responsabilita'
 
 Il trasportatore non e' responsabile, nei confronti del viaggiatore, del danno che puo' risultare dal fatto che il viaggiatore non si uniformi alle prescrizioni delle dogane o di altre autorita' amministrative.
 
-## Sezione 2 - Bagagli
+#### Sezione 2 - Bagagli
 
 ##### Articolo 36
 
@@ -1840,7 +1834,7 @@ Le modalita' di liquidazione dell'indennita', per chilogrammo o per collo, sono 
 
 § 5 In nessun caso, il cumulo dell'indennita' prevista al § 1 con quelle previste agli articoli 41 e 42 puo' dar luogo al pagamento di un'indennita' eccedente quella dovuta in caso di perdita totale dei bagagli.
 
-## Sezione 3 - Veicoli
+#### Sezione 3 - Veicoli
 
 ##### Articolo 44
 
@@ -1870,7 +1864,7 @@ Diritto applicabile
 
 Fatte salve le disposizioni della presente Sezione, ai veicoli si applicano le disposizioni della Sezione 2 relative alla responsabilita' per i bagagli.
 
-## Capitolo IV - Disposizioni comuni
+### Capitolo IV - Disposizioni comuni
 
 ##### Articolo 48
 

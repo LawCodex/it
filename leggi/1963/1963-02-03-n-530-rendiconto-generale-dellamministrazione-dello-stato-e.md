@@ -27,7 +27,7 @@ la seguente legge:
 
 ## ENTRATE E SPESE DI COMPETENZA DELL'ESERCIZIO FINANZIARIO 1953-54
 
-### Art. 1
+## Art. 1
 
 Le entrate ordinarie e straordinarie dello
 
@@ -41,7 +41,7 @@ sultano dal conto consuntivo del bilancio,
 
 in......................................... L. 2.339.070.235.776 - delle quali furono riscosse................ " 2.113.481.303.715 - e rimasero da riscuotere................... L. 225.588.932.061 -
 
-### Art. 2
+## Art. 2
 
 Le spese ordinarie e straordinarie dello
 
@@ -55,7 +55,7 @@ sultano dal conto consuntivo del bilancio,
 
 in......................................... L. 2.510.304.700.155 - delle quali furono pagate.................. " 1.720.095.363.709 - e rimasero da pagare....................... L. 790.209.337.246 -
 
-### Art. 3
+## Art. 3
 
 Il riepilogo generale dei risultati delle entrate e delle spese di competenza dell'esercizio finanziario 1953-54 rimane cosi' stabilito:
 
@@ -83,7 +83,7 @@ Spese................................... " 2.510.804.700.955 -
 
 ## ENTRATE E SPESE RESIDUE DELL'ESERCIZIO 1952-53 ED ESERCIZI PRECEDENTI
 
-### Art. 4
+## Art. 4
 
 Le entrate rimaste da riscuotere alla
 
@@ -95,7 +95,7 @@ bilancio, in............................... L. 710.105.898.157
 
 delle quali furono riscosse neL 1953-54.... " 358.280.946.766,87 e rimasero da riscuotere al 30 giugno 1954. L. 351.824.951.390,13
 
-### Art. 5
+## Art. 5
 
 Le spese rimaste da pagare alla chiusura
 
@@ -105,7 +105,7 @@ come dal contO consuntivo del bilancio, in. L. 1.808.643.386.282,30 delle quali 
 
 ## RESIDUI ATTIVI E PASSIVI ALLA CHIUSURA DELL'ESERCIZIO FINANZIARIO - 1953-54
 
-### Art. 6
+## Art. 6
 
 I residui attivi alla chiusura dell'esercizio finanziario 1953-54, sono stabiliti, come dal conto consuntivo del bilancio, nelle seguenti somme:
 
@@ -124,7 +124,7 @@ ria (colonna s del riassunto generale)..... " 171.423.648.499,87
  ------------------
 ```
 
-### Art. 7
+## Art. 7
 
 I residui passivi alla chiusura dell'esercizio finanziario 1953-54 sono stabiliti, come dal conto consuntivo del bilancio, nelle seguenti somme:
 
@@ -143,7 +143,7 @@ gli esercizi precedenti (articolo 5)....... " 1.095.284.539.678,30
 
 ## SITUAZIONE FINANZIARIA
 
-### Art. 8
+## Art. 8
 
 E' accertato nella somma di lire 3.955.133.891.060,20 il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 1953-54 come risulta dai seguenti dati:
 
@@ -195,11 +195,11 @@ bilita generale............................ " 70 -
 
 ## DISPOSIZIONI SPECIALI
 
-### Art. 9
+## Art. 9
 
 Sono stabiliti nella somma di lire 70 i discarichi consentiti, nell'esercizio 1953-54, ai tesorieri per casi di forza maggiore, ai sensi dell'articolo 194 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello stato approvato con regio decreto 23 maggio 1924, numero 827.
 
-### Art. 10
+## Art. 10
 
 Sono approvate le eccedenze di impegni risultate in sede di consuntivo sul conto della competenza e sul conto dei residui ai capitoli degli stati di previsione della spesa dei Ministeri sottoindicati per l'esercizio finanziario 1953-54 come dal dettaglio che segue:
 
@@ -207,7 +207,7 @@ Sono approvate le eccedenze di impegni risultate in sede di consuntivo sul conto
 
 ## AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-### Art. 11
+## Art. 11
 
 Le entrate ordinarie e straordinarie del
 
@@ -234,7 +234,7 @@ delle quali furvono riscosse............... " 89.250.031.451 -
  -----------------
 ```
 
-### Art. 12
+## Art. 12
 
 Le spese ordinarie e straordinarie del
 
@@ -247,7 +247,7 @@ l'esercizio stesso, sono stabilite in...... L. 97.306.352.995 - delle quali furo
  -----------------
 ```
 
-### Art. 13
+## Art. 13
 
 Le entrate del bilancio dell'Amministra-
 
@@ -262,7 +262,7 @@ determinate in............................. L. 27.022.560.333 - delle quali furo
  -----------------
 ```
 
-### Art. 14
+## Art. 14
 
 Le spese del bilancio dell'Amministrazio-
 
@@ -277,7 +277,7 @@ nate in.................................... L. 114.899.048.721 - delle quali fur
  -----------------
 ```
 
-### Art. 15
+## Art. 15
 
 I residui attivi alla chiusura dell'esercizio finanziario 1953-54 sono stabiliti nelle seguenti somme:
 
@@ -296,7 +296,7 @@ del riepilogo della entrata................ " 209.074.131 -
  -----------------
 ```
 
-### Art. 16
+## Art. 16
 
 I residui passivi alla chiusura dell'esercizio finanziario 1953-54 sono stabiliti nelle seguenti somme:
 
@@ -313,7 +313,7 @@ esercizi precedenti (articolo 14).......... " 52.175.192.393 -
  -----------------
 ```
 
-### Art. 17
+## Art. 17
 
 La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dell'esercizio finanziario 1953-54, risulta come appresso:
 
@@ -352,7 +352,7 @@ al 30 giugno 1954.. " 114.899.048.721 - " 2.860.514 -
 
 ## FONDO DI MASSA DEL CORPO DELLA GUARDIA DI FINANZA
 
-### Art. 18
+## Art. 18
 
 Le entrate ordinarie e straordinarie del
 
@@ -377,7 +377,7 @@ finanze, in................................ L. 2.449.284.232 - delle quali furon
  -----------------
 ```
 
-### Art. 19
+## Art. 19
 
 Le spese ordinarie e straordinarie del
 
@@ -394,7 +394,7 @@ medesimo, sono stabilite in................ L. 2.067.487.181 - delle quali furon
  -----------------
 ```
 
-### Art. 20
+## Art. 20
 
 Le entrate rimaste da riscuotere alla
 
@@ -409,7 +409,7 @@ delle quali furono riscosse nel 1953-54.... " 1.255.122.037 -
  -----------------
 ```
 
-### Art. 21
+## Art. 21
 
 Le spese rimaste da pagare alla chiusura
 
@@ -422,7 +422,7 @@ determinate in............................. L. 1.897.546.158 - delle quali furon
  -----------------
 ```
 
-### Art. 22
+## Art. 22
 
 I residui attivi alla chiusura dell'esercizio 1953-54 sono stabiliti nelle seguenti somme:
 
@@ -442,7 +442,7 @@ del riepilogo dell'entrata)................ " -
 
 -----------------
 
-### Art. 23
+## Art. 23
 
 I residui passivi alla chiusura dell'esercizio finanziario 1953-54 sono stabiliti nelle seguenti somme:
 
@@ -459,7 +459,7 @@ esercizi precedenti (articolo 21).......... " 310.158.834 -
  -----------------
 ```
 
-### Art. 24
+## Art. 24
 
 E' accertato nella somma di lire 829.207.884,08 il saldo attivo del conto finanziario del Fondo di massa del Corpo della guardia di finanza alla fine dell'esercizio 1953-54, risultante dai seguenti dati:
 
@@ -508,7 +508,7 @@ Saldo attivo al 30 giugno 1954........... " 829.207.884,08
  ------------------
 ```
 
-### Art. 25
+## Art. 25
 
 Sono approvate le eccedenze di impegni risultate in sede di consuntivo sul conto della competenza, ai capitoli dello stato di previsione dell'Amministrazione del Fondo di massa, del Corpo della guardia di finanza, per l'esercizio finanziario 1953-54, come dal dettaglio che segue:
 
@@ -520,7 +520,7 @@ ecc........................................ " 568.485 -
 
 ## AZIENDA MONOPOLIO BANANE
 
-### Art. 26
+## Art. 26
 
 Le entrate ordinarie e straordinarie del-
 
@@ -543,7 +543,7 @@ Ministero delle finanze, in................ L. 11.412.088.584 - delle quali furo
  -----------------
 ```
 
-### Art. 27
+## Art. 27
 
 Le spese ordinarie e straordinarie del-
 
@@ -560,7 +560,7 @@ lite in.................................... L. 11.412.088.584 - delle quali furo
  ------------------
 ```
 
-### Art. 28
+## Art. 28
 
 Le entrate rimaste da riscuotere alla
 
@@ -573,7 +573,7 @@ terminate in............................... L. 1.778.813 - delle quali furono ri
  -----------------
 ```
 
-### Art. 29
+## Art. 29
 
 Le spese rimaste da pagare alla chiusura
 
@@ -586,7 +586,7 @@ in......................................... L. 4.441.406.910 - delle quali furon
  -----------------
 ```
 
-### Art. 30
+## Art. 30
 
 I residui attivi alla chiusura dell'esercizio finanziario 1953-54 sono stabiliti nelle seguenti somme:
 
@@ -605,7 +605,7 @@ del riepilogo dell'entrata)................ " -
  -----------------
 ```
 
-### Art. 31
+## Art. 31
 
 I residui passivi alla chiusura dell'esercizio finanziario 1953-54 sono stabiliti nelle seguenti somme:
 
@@ -624,7 +624,7 @@ esercizi precedenti (articolo 29).......... " 7.302.912 -
 
 ## ARCHIVI NOTARILI
 
-### Art. 32
+## Art. 32
 
 E' approvato il conto consuntivo degli Archivi notarili, per l'esercizio 1953-54, nelle risultanze seguenti:
 
@@ -637,7 +637,7 @@ Entrate.................................. L. 1.793.890.101 - Spese..............
 
 ## FONDO GENERALE DEL CORPO DEGLI AGENTI DI CUSTODIA DEGLI ISTITUTI DI - PREVENZIONE E DI PENA
 
-### Art. 33
+## Art. 33
 
 E' approvato il conto consuntivo del Fondo generale del Corpo degli agenti di custodia degli Istituti di prevenzione e di pena, per l'esercizio 1953-54, nelle seguenti risultanze:
 
@@ -650,7 +650,7 @@ Entrate.................................. L. 1.467.031 - Spese..................
 
 ## ISTITUTO AGRONOMICO PER L'AFRICA ITALIANA
 
-### Art. 34
+## Art. 34
 
 Le entrate dell'Istituto agronomico per
 
@@ -675,7 +675,7 @@ predetto, in............................... L. 32.186.759 - delle quali furono r
  -----------------
 ```
 
-### Art. 35
+## Art. 35
 
 Le spese dell'Istituto predetto, accerta-
 
@@ -690,7 +690,7 @@ simo, sono stabilite in.................... L. 32.186.759 - delle quali furono p
  -----------------
 ```
 
-### Art. 36
+## Art. 36
 
 Le entrate rimaste da riscuotere alla
 
@@ -703,7 +703,7 @@ terminate in............................... L. 1.860.000 - delle quali furono ri
  -----------------
 ```
 
-### Art. 37
+## Art. 37
 
 Le spese rimaste da pagare alla chiusura
 
@@ -716,7 +716,7 @@ in......................................... L. 6.177.570,82 delle quali furono p
  -----------------
 ```
 
-### Art. 38
+## Art. 38
 
 I residui attivi alla chiusura dell'esercizio 1953-54 sono stabiliti nelle seguenti somme:
 
@@ -735,7 +735,7 @@ del riepilogo dell'entrata)................ " -
  -----------------
 ```
 
-### Art. 39
+## Art. 39
 
 I residui passivi alla chiusura dell'esercizio 1953-54 sono stabiliti nelle seguenti somme:
 
@@ -752,7 +752,7 @@ esercizi precedenti (articolo 37).......... " 3.565.640 -
  -----------------
 ```
 
-### Art. 40
+## Art. 40
 
 Sono approvate le eccedenze di impegni risultate in sede di consuntivo sul conto della competenza e sul conto dei residui agli articoli dello stato di previsione della spesa dell'Istituto agronomico per l'Africa italiana, per l'esercizio finanziario 1953-54, come dal dettaglio che segue:
 
@@ -780,7 +780,7 @@ della sezione agraria, ecc........... " 45.840 -
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-### Art. 41
+## Art. 41
 
 Le entrate ordinarie e straordinarie del
 
@@ -805,7 +805,7 @@ l'interno, in.............................. L. 6.716.742.823 - delle quali furon
  -----------------
 ```
 
-### Art. 42
+## Art. 42
 
 Le spese ordinarie e straordinarie del
 
@@ -822,7 +822,7 @@ stesso, sono stabilite in.................. L. 6.968.652.843 - delle quali furon
  -----------------
 ```
 
-### Art. 43
+## Art. 43
 
 Le entrate rimaste da riscuotere alla
 
@@ -835,7 +835,7 @@ determinate in............................. L. 7.797.975.321 - delle quali furon
  -----------------
 ```
 
-### Art. 44
+## Art. 44
 
 Le spese rimaste da pagare alla chiusura
 
@@ -848,7 +848,7 @@ in......................................... L. 3.608.729.643 - delle quali furon
  -----------------
 ```
 
-### Art. 45
+## Art. 45
 
 I residui attivi alla chiusura dell'esercizio finanziario 1953-54 sono stabiliti nelle seguenti somme:
 
@@ -867,7 +867,7 @@ del riepilogo dell'entrata)................ " 231.255
  -----------------
 ```
 
-### Art. 46
+## Art. 46
 
 I residui passivi alla chiusura dell'esercizio finanziario 1953-54 sono stabiliti nelle seguenti somme:
 
@@ -886,7 +886,7 @@ esercizi precedenti (articolo 44).......... " 1.918.871.513 -
  -----------------
 ```
 
-### Art. 47
+## Art. 47
 
 E' accertato nella somma di lire 13.602.662,30 il saldo attivo del conto finanziario dell'Amministrazione del Fondo per il culto alla fine del l'esercizio 1953-54, come risulta dai seguenti dati:
 
@@ -930,7 +930,7 @@ al 30 giugno 1954.... " 7.797.975.321 -
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTA' DI ROMA
 
-### Art. 48
+## Art. 48
 
 Le entrate ordinarie e straordinarie del
 
@@ -955,7 +955,7 @@ Ministero dell'interno, in................. L. 160.674.030 - delle quali furono 
  -----------------
 ```
 
-### Art. 49
+## Art. 49
 
 Le spese ordinarie e straordinarie del
 
@@ -972,7 +972,7 @@ medesimo, sono stabilite in................ L. 177.021.084 - delle quali furono 
  -----------------
 ```
 
-### Art. 50
+## Art. 50
 
 Le entrate rimaste da riscuotere alla
 
@@ -985,7 +985,7 @@ determinate in............................. L. 428.013.945 - delle quali furono 
  -----------------
 ```
 
-### Art. 51
+## Art. 51
 
 Le spese rimaste da pagare alla chiusura
 
@@ -998,7 +998,7 @@ in......................................... L. 95.179.968 - delle quali furono p
  -----------------
 ```
 
-### Art. 52
+## Art. 52
 
 I residui attivi alla chiusura dell'esercizio 1953-54, sono stabiliti nelle seguenti somme:
 
@@ -1017,7 +1017,7 @@ del riepilogo dell'entrata)................ " 4.366 -
  -----------------
 ```
 
-### Art. 53
+## Art. 53
 
 I residui passivi alla chiusura dell'esercizio finanziario 1953-54 sono stabiliti nelle seguenti somme:
 
@@ -1034,7 +1034,7 @@ esercizi precedenti (articolo 51).......... " 49.416.199 -
  -----------------
 ```
 
-### Art. 54
+## Art. 54
 
 E' accertato nella somma di lire 90.218,58 il saldo attivo del conto finanziario del Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1935-54, come risulta dai seguenti dati:
 
@@ -1079,7 +1079,7 @@ Saldo attivo al 30 giugno 1954............ " 90.218,58
 
 ## AZIENDA DEI PATRIMONI RIUNITI EX ECONOMALI
 
-### Art. 55
+## Art. 55
 
 Le entrate ordinarie e straordinarie del-
 
@@ -1104,7 +1104,7 @@ terno, in.................................. L. 109.612.561 delle quali furono ri
  -----------------
 ```
 
-### Art. 56
+## Art. 56
 
 Le spese ordinarie e straordinarie del-
 
@@ -1123,7 +1123,7 @@ in......................................... L. 117.530.966 - delle quali furono 
  -----------------
 ```
 
-### Art. 57
+## Art. 57
 
 Le entrate rimaste da riscuotere alla
 
@@ -1138,7 +1138,7 @@ l'Azienda, in.............................. L. 3.576.934 - delle quali furono ri
  -----------------
 ```
 
-### Art. 58
+## Art. 58
 
 Le spese rimaste da pagare alla chiusura
 
@@ -1153,7 +1153,7 @@ in......................................... L. 142.780.219 - delle quali furono 
  -----------------
 ```
 
-### Art. 59
+## Art. 59
 
 I residui attivi alla chiusura dell'esercizio finanziario 1953-54 sono stabiliti, come dal conto consuntivo dell'Azienda, nelle seguenti somme:
 
@@ -1172,7 +1172,7 @@ degli esercizi precedenti (articolo 57).... " 534.260 - Somme riscosse e non ver
  -----------------
 ```
 
-### Art. 60
+## Art. 60
 
 I residui passivi alla chiusura dell'esercizio finanziario 1953-54 sono stabiliti, come dal conto consuntivo dell'Azienda, nelle seguenti somme:
 
@@ -1189,7 +1189,7 @@ esercizi precedenti (articolo 58).......... " 77.496.095 -
  -----------------
 ```
 
-### Art. 61
+## Art. 61
 
 E' accertato nella somma di lire 5.007.260,88 il saldo attivo del conto finanziario della Azienda dei patrimoni riuniti ex economali alla fine dell'esercizio 1953-54, come risulta dai seguenti dati:
 
@@ -1226,7 +1226,7 @@ al 30 giugno 1954...... " 3.576.934 -
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE STATALI
 
-### Art. 62
+## Art. 62
 
 Le entrate ordinarie e straordinarie del
 
@@ -1245,7 +1245,7 @@ stabilite in............................... L. 28.908.102.838,80 delle quali fur
  -----------------
 ```
 
-### Art. 63
+## Art. 63
 
 Le spese ordinarie e straordinarie del
 
@@ -1262,7 +1262,7 @@ medesimo, sono stabilite in................ L. 28.908.102.858,80 delle quali fur
  -----------------
 ```
 
-### Art. 64
+## Art. 64
 
 Le entrate rimaste da riscuotere alla
 
@@ -1275,7 +1275,7 @@ determinate in............................. L. 21.419.995.194 - delle quali furo
  -----------------
 ```
 
-### Art. 65
+## Art. 65
 
 Le spese rimaste da pagare alla chiusura
 
@@ -1288,7 +1288,7 @@ in......................................... L. 38.672.357.170,46 delle quali fur
  -----------------
 ```
 
-### Art. 66
+## Art. 66
 
 I residui attivi alla chiusura dell'esercizio 1953-54 sono stabiliti nelle seguenti somme:
 
@@ -1307,7 +1307,7 @@ del riepilogo dell'entrata)................ " -
  -----------------
 ```
 
-### Art. 67
+## Art. 67
 
 I residui passivi alla chiusura dell'esercizio 1953-54 sono stabiliti nelle seguenti somme:
 
@@ -1326,7 +1326,7 @@ esercizi precedenti (articolo 65).......... " 20.022.170.364,16
 
 ## AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-### Art. 68
+## Art. 68
 
 Le entrate ordinarie e straordinarie del
 
@@ -1351,7 +1351,7 @@ reste, in.................................. L. 2.728.038.138 - delle quali furon
  -----------------
 ```
 
-### Art. 69
+## Art. 69
 
 Le spese ordinarie e straordinarie del
 
@@ -1368,7 +1368,7 @@ sono stabilite in.......................... L. 2.728.038.138 - delle quali furon
  -----------------
 ```
 
-### Art. 70
+## Art. 70
 
 Le entrate rimaste da riscuotere alla
 
@@ -1381,7 +1381,7 @@ terminate in............................... L. 618.851.684 - delle quali furono 
  -----------------
 ```
 
-### Art. 71
+## Art. 71
 
 Le spese rimaste da pagare alla chiusura
 
@@ -1394,7 +1394,7 @@ in......................................... L. 1.315.509.391 - delle quali furon
  -----------------
 ```
 
-### Art. 72
+## Art. 72
 
 I residui attivi alla chiusura dell'esercizio finanziario 1953-54, sono stabiliti nelle seguenti somme:
 
@@ -1413,7 +1413,7 @@ del riepilogo dell'entrata)................ " 163.873.747 -
  -----------------
 ```
 
-### Art. 73
+## Art. 73
 
 I residui passivi alla chiusura dell'esercizio finanziario 1953-54, sono stabiliti nelle seguenti somme:
 
@@ -1430,7 +1430,7 @@ esercizi precedenti (articolo 71).......... " 474.259.054 -
  -----------------
 ```
 
-### Art. 74
+## Art. 74
 
 E' accertata nella somma di lire 1.034.497,65 il saldo attivo del conto finanziario dell'Azienda di Stato per le foreste demaniali, alla fine dell'esercizio 1953-54, come risulta dai seguenti dati:
 

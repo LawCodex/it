@@ -25,7 +25,7 @@ PROMULGA
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare i seguenti Accordi tra l'Italia e la Somalia conclusi in Mogadiscio il 1 luglio 1960;
 
@@ -37,7 +37,7 @@ c) Accordo commerciale, di pagamento e di collaborazione economica e tecnica con
 
 d) Accordo sui servizi aerei.
 
-#### Art. 2
+### Art. 2
 
 Piena ed intera esecuzione e' data agli Accordi di cui all'articolo precedente a decorrere dalla loro entrata in vigore in conformita' rispettivamente agli articoli 6 del Trattato di amicizia, 36 della Convenzione consolare, 26 dell'Accordo commerciale, 10 dell'Accordo sui servizi aerei.
 
@@ -71,17 +71,17 @@ S. E. l'on. dott. Mohamed Seek Mohamud GABIOU
 
 i quali, dopo aver scambiato i loro pieni poteri, trovati in buona e debita forma, hanno concordato quanto segue:
 
-#### Articolo 1
+### Articolo 1
 
 Vi sara' pace inviolabile e perpetua e sincera amicizia fra la
 
 Repubblica italiana e la Repubblica somala.
 
-#### Articolo 2
+### Articolo 2
 
 Le Alte Parti contraenti, ispirandosi ai principi stabiliti dallo Statuto delle Nazioni Unite, affermano la loro piena ed attiva, adesione alle finalita' di tale Organizzazione, specialmente per quanto concerne il consolidamento della pace generale ed il rafforzamento della collaborazione internazionale.
 
-#### Articolo 3
+### Articolo 3
 
 Ciascuna delle Alte Parti contraenti istituira' presso l'altra
 
@@ -91,19 +91,19 @@ Ciascuna delle Alte Parti contraenti potra' istituire nel
 
 territorio dell'altra propri uffici consolari.
 
-#### Articolo 4
+### Articolo 4
 
 Allo scopo di garantire in modo permanente la reciproca
 
 collaborazione sul piano internazionale, i Governi delle Alte Parti contraenti si terranno in stretto contatto attraverso scambi di informazioni e periodiche consultazioni su tutte le questioni di comune interesse.
 
-#### Articolo 5
+### Articolo 5
 
 Al cittadini di ciascun Paese saranno garantite nel territorio
 
 dell'altro protezione e sicurezza per le loro persone e i loro beni e saranno assicurati gli stessi diritti, privilegi e trattamento che godono, nell'ambito delle leggi, i cittadini dell'altro Paese.
 
-#### Articolo 6
+### Articolo 6
 
 Il presente Trattato sara' ratificato ed entrera' in vigore il
 
@@ -129,7 +129,7 @@ Il Ministro per gli affari esteri
 
 SEGNI
 
-#### Scambio di note
+### Scambio di note
 
 SCAMBIO DI NOTE RELATIVO AL TRATTATO DI AMICIZIA
 
@@ -311,9 +311,7 @@ Il Ministro per gli affari esteri
 
 SEGNI
 
-## TITOLO I - DEFINIZIONI - ISTITUZIONE DEGLI UFFICI CONSOLARI
-
-### E NOMINA DEI CONSOLI
+## TITOLO I - DEFINIZIONI - ISTITUZIONE DEGLI UFFICI CONSOLARI E NOMINA DEI CONSOLI
 
 Convenzione consolare tra l'Italia e la Somalia
 
@@ -333,7 +331,7 @@ S. E. l'On. Dott. Mohamed Seek Mohamud GABIOU
 
 i quali, dopo essersi scambiati i loro pieni poteri, trovati in buona e debita forma, hanno convenuto quanto segue:
 
-#### Articolo I
+### Articolo I
 
 Agli effetti della presente Convenzione, si intende:
 
@@ -369,7 +367,7 @@ l'Agente consolare;
 
 Stato, incaricato di funzioni consolari esecutive non autorizzato ad esercitare alcuna altra attivita' professionale o, comunque, lucrativa.
 
-#### Articolo 2
+### Articolo 2
 
 Ciascuna delle Alte Parti contraenti ha facolta' previo consenso
 
@@ -383,7 +381,7 @@ La sede e la circoscrizione di ciascun ufficio consolare saranno
 
 fissate d'accordo tra le Alte Parti contraenti.
 
-#### Articolo 3
+### Articolo 3
 
 Per esercitare le funzioni consolari ciascuna delle Alte Parti
 
@@ -393,7 +391,7 @@ Le persone cosi' nominate godranno di tutte le prerogative
 
 riconosciute dal diritto e dagli usi internazionali.
 
-#### Articolo 4
+### Articolo 4
 
 I funzionari consolari titolari di un Consolato Generale, di un
 
@@ -403,7 +401,7 @@ L'exequatur e' concesso senza spese e senza indugi ma puo' essere rifiutato e re
 
 Gli altri funzionari consolari sono autorizzati all'esercito delle loro funzioni su notifica della loro nomina. Tale autorizzazione non puo' essere rifiutata o revocata che per gravi motivi.
 
-#### Articolo 5
+### Articolo 5
 
 I funzionari e gli impiegati consolari possono esercitare
 
@@ -413,7 +411,7 @@ Il reggente di un ufficio consolare non puo' godere a motivo di
 
 tale incarico temporaneo, in materia di tributi fiscali e di dazi doganali di privilegi piu' ampi di quelli che, in base alla presente Convenzione, gli spettano per la sua qualita' di funzionario od impiegato consolare.
 
-#### Articolo 6
+### Articolo 6
 
 I funzionari consolavi titolari di un Consolato Generale o di un
 
@@ -421,7 +419,7 @@ Consolato possono nominare Vice-Consoli onorari e Agenti consolari nelle citta',
 
 I Vice-Consoli onorari e gli Agenti consolari devono essere muniti di una Lettera Patente rilasciata a questo scopo dal Console che li ha nominati e dal quale dipendono.
 
-#### Articolo 7
+### Articolo 7
 
 I titolari di un ufficio consolare sono tenuti a comunicare alle
 
@@ -429,7 +427,7 @@ Autorita' locali dello Stato di residenza i nomi e gli indirizzi dei funzionari 
 
 ## TITOLO II - PREROGATIVE ED IMMUNITA'
 
-#### Articolo 8
+### Articolo 8
 
 Le alte Parti contraenti potranno liberamente, con l'osservanza
 
@@ -443,7 +441,7 @@ Gli atti ed i contratti relativi all'acquisto dei beni di cui al
 
 precedente comma sono esenti da imposte, tasse o tributi di qualsiasi genere.
 
-#### Articolo 9
+### Articolo 9
 
 I funzionari consolari titolari di un ufficio consolare possono
 
@@ -459,7 +457,7 @@ Ciascuna delle Alte Parti contraenti assicura rispetto e protezione
 
 alla bandiera ed agli stemmi dell'altra Parte.
 
-#### Articolo 10
+### Articolo 10
 
 Gli archivi, i documenti ed i registri consolari, ovunque si
 
@@ -477,7 +475,7 @@ Tutta la corrispondenza degli uffici consolari e' inviolabile e
 
 puo' essere spedita con plichi, sacchi o altri colli sigillati.
 
-#### Articolo 11
+### Articolo 11
 
 La polizia e le altre Autorita' dello Stato di residenza non
 
@@ -495,13 +493,13 @@ I locali degli uffici consolari, la residenza dei funzionari
 
 consolari, degli agenti e degli impiegati consolari dello Stato inviante come pure i beni mobili situati nei locali predetti sono esenti da ogni misura di requisizione, di alloggiamento militare o di contributi equivalenti.
 
-#### Articolo 12
+### Articolo 12
 
 I funzionari consolari godono dell'immunita' personale per cui non possono essere arrestati, salvo il caso di flagranza di reato, e non possono essere soggetti a misure di detenzione preventiva, a meno che non siano imputati di reati punibili con una pena detentiva non inferiore a tre anni secondo la legislazione dello Stato di residenza.
 
 I funzionari consolari, i consoli, onorari, gli agenti consolari e gli impiegati consolari non sono soggetti alla giurisdizione dello Stato di residenza per gli atti relativi alle loro funzioni.
 
-#### Articolo 13
+### Articolo 13
 
 I funzionari consolari non sono tenuti a comparire come testimoni davanti ai tribunali dello Stato di residenza. Se la loro deposizione e' necessaria nel corso di un procedimento giudiziario, essi saranno interrogati nel loro ufficio e nella loro residenza in modo che nessun disturbo sia apportato all'esercizio delle loro funzioni ufficiali. Un congruo periodo di tempo sara' loro concesso, anche per l'eventualita' che essi ritengano di chiedere l'autorizzazione del proprio Governo.
 
@@ -509,11 +507,11 @@ Qualora i funzionari e gli impiegati consolari, i consoli ed i
 
 vice-consoli onorari e gli agenti consolavi vengano richiesti dall'Autorita' giudiziaria dello Stato di residenza di testimoniare su atti relativi alle loro funzioni o su documenti di archivio o altri documenti consolari ovvero di produrre tali documenti o di interpretare una legge dello Stato inviante, essi possono esimersi dall'aderire a tale richiesta ove questa sia in contrasto con i loro doveri inerenti all'osservanza del segreto d'ufficio.
 
-#### Articolo 14
+### Articolo 14
 
 I funzionari consolari, i loro coniugi ed i loro figli minori con loro residenti, non sono sottoposti alle disposizioni dello Stato di residenza circa il permesso di soggiorno, la registrazione e il controllo degli stranieri.
 
-#### Articolo 15
+### Articolo 15
 
 Gli stipendi, le remunerazioni, i salari e gli emolumenti analoghi corrisposti ai Consoli, ai funzionari od agli impiegati consolari sono esenti da qualunque imposta, sia erariale che locale, sul reddito, applicata o riscossa nello Stato di residenza, a condizione che i beneficiari non siano cittadini di quest'ultimo Stato e che tali proventi derivino esclusivamente dalle funzioni consolari ivi esercitate.
 
@@ -525,7 +523,7 @@ I Consoli di carriera sono esenti inoltre dal pagamento dei tributi
 
 applicabili ai veicoli ed alle imbarcazioni di cui siano proprietari.
 
-#### Articolo 16
+### Articolo 16
 
 Lo Stato, inviante ha diritto di introdurre nel territorio dello
 
@@ -543,7 +541,7 @@ Nessuna imposta, limitazione o divieto di esportazione sara'
 
 applicato ai funzionari ed impiegati consolari, ai consoli onorari ed agli agenti consolari per tutti i loro beni in occasione di rimpatrio per ultimata missione.
 
-#### Articolo 17
+### Articolo 17
 
 I funzionari consolari, i Consoli onorari, gli Agenti e gli
 
@@ -551,7 +549,7 @@ impiegati consolari hanno diritto ad una particolare protezione ed ai dovuti rig
 
 ## TITOLO III - ATTRIBUZIONI CONSOLARI
 
-#### Articolo 18
+### Articolo 18
 
 Conformemente ai principi ed agli usi internazionali, i Consoli e gli Agenti consolari tutelano gli interessi generali dello Stato inviante, e dei cittadini di detto Stato e possono, a tale effetto, indirizzarsi alle Autorita' competenti dello Stato di residenza.
 
@@ -559,7 +557,7 @@ Essi, inoltre, possono comunicare con i loro connazionali,
 
 consigliarli, assisterli nelle loro pratiche, istanze o procedura presso le Autorita' locali ed assicurare loro, occorrendo, l'assistenza di legali o di interpreti.
 
-#### Articolo 19
+### Articolo 19
 
 Le Autorita' competenti sono tenute ad informare, appena possibile,
 
@@ -567,7 +565,7 @@ i Consoli, secondo la rispettiva competenza territoriale, dell'arresto o della d
 
 Le Autorita' competenti dello Stato di residenza trasmetteranno ai Consoli ogni comunicazione a loro diretta dal cittadino dello Stato inviante detenuto.
 
-#### Articolo 20
+### Articolo 20
 
 I Consoli, secondo la rispettiva competenza stabilita dalle leggi e
 
@@ -589,7 +587,7 @@ Gli atti ricevuti dai Consoli nelle forme richieste dalle leggi
 
 dello Stato inviante, e le loro copie od estratti, debitamente legalizzati dai Consoli stessi e muniti del timbro ufficiale del loro Ufficio, fanno fede in giustizia e fuori, dinanzi a qualsiasi Autorita' dei due Stati ed hanno la stessa forza probante e lo stesso valore che avrebbero se fossero stati ricevuti da un notaio o da altro pubblico ufficiale competente dei due Paesi, a condizione tuttavia che siano stati sottoposti al bollo, alla registrazione e ad ogni altra formalita' in uso nello Stato di residenza.
 
-#### Articolo 21
+### Articolo 21
 
 I Consoli possono inoltre:
 
@@ -607,7 +605,7 @@ desideri recarsi nel territorio dello Stato inviante;
 
 legalizzare o autenticare firme, vistare, certificare o tradurre documenti quando tali atti e formalita' sono richiesti dalle leggi o da istruzioni dello Stato inviante 6) tradurre e legalizzare ogni specie di documenti emanati dalle Autorita' dello Stato inviante; tali traduzioni avranno, nello Stato di residenza, la medesima forza e validita' che avrebbero se fossero eseguite da traduttori giurati del Paese.
 
-#### Articolo 22
+### Articolo 22
 
 Per l'applicazione delle disposizioni dei due articoli precedenti, lo Stato di residenza designera' l'Autorita' qualificata ad autenticare, nei confronti dei vari uffici della propria Amministrazione, le firme dei Consoli di carriera ed onorari e degli Agenti consolari. Tali firme saranno depositate presso la predetta Autorita'.
 
@@ -615,7 +613,7 @@ La medesima Autorita' ha titolo per autenticare le firme dei
 
 funzionari della propria Amministrazione apposte su atti che il Console debba legalizzare, tradurre o trascrivere affinche' abbiano efficacia nel territorio dello Stato inviante.
 
-#### Articolo 23
+### Articolo 23
 
 I Consoli possono anche:
 
@@ -635,7 +633,7 @@ oggetti di qualsiasi natura che vengano loro consegnati dai cittadini dello Stat
 
 Convenzione, l'amministrazione delle successioni dei loro cittadini e l'applicazione delle leggi dello Stato inviante sulla navigazione mercantile.
 
-#### Articolo 24
+### Articolo 24
 
 Oltre le funzioni specificamente indicate nella presente
 
@@ -643,7 +641,7 @@ Convenzione i Consoli sono autorizzati a svolgere ogni altra funzione conforme a
 
 ## TITOLO IV - SUCCESSIONI
 
-#### Articolo 25
+### Articolo 25
 
 In caso di morte di un cittadino di una delle Alte Parti contraenti
 
@@ -659,7 +657,7 @@ Con le stesse modalita' menzionate al comma precedente si
 
 procedera' alla rimozione dei sigilli.
 
-#### Articolo 26
+### Articolo 26
 
 Tolti i sigilli, il Console, dopo aver compilato l'inventario,
 
@@ -669,7 +667,7 @@ Il Console da' notizia dell'avvenuto decesso nei principali
 
 giornali della sua circoscrizione e affigge il relativo avviso nella sede della Cancelleria consolare. Egli non puo' procedere alla consegna dell'attivo della successione che dopo il regolamento dei debiti contratti dal defunto nello Stato di residenza e a condizione che entro sei mesi dalla pubblicazione del predetto avviso nessun reclamo sia stato prodotto nei riguardi della successione.
 
-#### Articolo 27
+### Articolo 27
 
 Quando un cittadino di una delle Alte Parti contraenti muore nel
 
@@ -679,7 +677,7 @@ Il Console puo' presentarsi personalmente o inviare un suo
 
 incaricato sul posto per assumere l'amministrazione e la liquidazione della successione conformemente agli articoli precedenti. Se il Console o un suo incaricato non si presenta, l'Autorita' locale procede all'amministrazione ed alla liquidazione della successione e gli rende conto del risultato di queste operazioni. L'Autorita' predetta gli rimette inoltre le quote dell'attivo della successione spettanti ai cittadini dello Stato inviante, che siano assenti dallo Stato di residenza.
 
-#### Articolo 28
+### Articolo 28
 
 Solo al Console spetta di redigere gli atti di inventario e
 
@@ -687,7 +685,7 @@ compiere le altre operazioni occorrenti per la conservazione dei beni e degli og
 
 ## TITOLO V - NAVIGAZIONE
 
-#### Articolo 29
+### Articolo 29
 
 Quando una nave battente bandiera dello Stato inviante si trova in un porto dello Stato di residenza, il Console puo' recarsi personalmente o inviare suoi delegati a bordo della nave dopo l'ammissione di questa alla libera pratica.
 
@@ -699,7 +697,7 @@ Il capitano e i membri dell'equipaggio sono autorizzati a
 
 comunicare con il Console e a recarsi all'ufficio consolare.
 
-#### Articolo 30
+### Articolo 30
 
 Il Console provvede in materia di mantenimento dell'ordine interno e della disciplina a bordo delle navi mercantili battenti bandiera dello Stato inviante.
 
@@ -707,7 +705,7 @@ Egli puo' regolare le contestazioni di qualsiasi natura tra il
 
 capitano, gli ufficiali della nave e i membri dell'equipaggio, comprese quelle che riguardano la paga e l'esecuzione del contratto di ingaggio. Puo' altresi' esercitare i poteri che gli sono attribuiti dallo Stato inviante per quanto riguarda l'ingaggio, l'imbarco, lo sbarco dei marittimi e la gerarchia di bordo, nonche' provvedere se del caso, al ricovero in ospedale e al rimpatrio del capitano o dei membri dell'equipaggio sbarcati.
 
-#### Articolo 31
+### Articolo 31
 
 In conformita' con gli usi internazionali, le Autorita' dello Stato
 
@@ -725,7 +723,7 @@ Analoga procedura deve essere seguita nel caso in cui il capitano o
 
 membri dell'equipaggio dovessero fare dichiarazioni davanti ai tribunali o davanti alle Autorita' locali.
 
-#### Articolo 32
+### Articolo 32
 
 Il Console puo', in conformita' con le disposizioni in vigore nello
 
@@ -747,7 +745,7 @@ nello Stato inviante o la vendita di navi nazionali;
 
 5\) la demolizione di navi nazionali.
 
-#### Articolo 33
+### Articolo 33
 
 Quando una nave battente bandiera dello Stato inviante naufraga o s'incaglia sul litorale dello Stato di residenza, il Console competente ne e' informato appena possibile dalle Autorita' locali.
 
@@ -767,11 +765,11 @@ e a tasse di importazione a meno che non siano destinati al consumo interno nel 
 
 ## DISPOSIZIONI FINALI
 
-#### Articolo 34
+### Articolo 34
 
 Gli atti compiuti nell'esercizio delle funzioni consolari possono dar luogo alla riscossione dei diritti e tasse previsti dalla legislazione dello Stato inviante, ma non ne possono essere a loro volta gravati dallo Stato di residenza.
 
-#### Articolo 35
+### Articolo 35
 
 Qualora sorga fra le Alte Parti contraenti una
 
@@ -785,7 +783,7 @@ La Commissione di arbitrato statuira' a maggioranza di voti. La sua
 
 decisione sara' definitiva e vincolante per le Alte Parti contraenti.
 
-#### Articolo 36
+### Articolo 36
 
 La presente Convenzione entrera' in vigore all'atto dello scambio delle ratifiche, che avra' luogo al piu' presto possibile a Roma.
 
@@ -825,7 +823,7 @@ Amicizia, firmato in data odierna,
 
 hanno convenuto quanto segue:
 
-#### Articolo 1
+### Articolo 1
 
 Le Parti contraenti si impegnano ad incoraggiare in ogni modo lo
 
@@ -835,7 +833,7 @@ A tal fine le Parti contraenti si impegnano, in particolare, ad
 
 accordare ogni facilitazione sia all'esportazione sia all'importazione delle merci originarie e provenienti dai rispettivi territori in conformita' delle leggi e dei regolamenti in vigore in ciascuno dei due Paesi.
 
-#### Articolo 2
+### Articolo 2
 
 Ciascuna Parte contraente si impegna ad ammettere l'importazione
 
@@ -861,13 +859,13 @@ Le Parti contraenti si impegnano inoltre a scambiarsi
 
 periodicamente tutte le informazioni necessarie sullo stato di utilizzo dei contingenti previsti dalle Liste di cui all'Allegato 1 annesso al presente Accordo.
 
-#### Articolo 3
+### Articolo 3
 
 Ciascuna Parte contraente consentira' ai propri esportatori ed
 
 importatori di negoziare in piena liberta' le vendite, gli acquisti e le relative clausole mercantili, restando inteso che gli operatori ai quali incombe di provvedere all'assicurazione per il trasporto delle merci si atterranno per la stipulazione e per il relativo contratto di assicurazione alle disposizioni vigenti in materia nei propri Paesi.
 
-#### Articolo 4
+### Articolo 4
 
 Le Parti contraenti si concedono reciprocamente il trattamento
 
@@ -881,7 +879,7 @@ delle merci;
 
 modalita' di riscossione dei diritti ed oneri, le regole e formalita' relative allo sdoganamento delle merci, sia all'importazione che all'esportazione, nonche' al transito.
 
-#### Articolo 5
+### Articolo 5
 
 Le disposizioni del precedente articolo non si applicheranno:
 
@@ -901,13 +899,13 @@ della Citta' del Vaticano, alla Repubblica di San Marino, al Regno Unito di Libi
 
 delle Parti contraenti, in rapporto alla, sua partecipazione ad una comunita' istituita fra piu' Paesi per organizzare in comune uno o piu' settori della produzione, del commercio o dei servizi o per provvedere alla loro sicurezza.
 
-#### Articolo 6
+### Articolo 6
 
 Il Governo italiano, nell'intento di dare un particolare contributo
 
 allo sviluppo delle importazioni di merci originarie e provenienti dalla Somalia, si impegna a conservare ad esse lo speciale regime doganale preferenziale attualmente applicato, a prescindere dalle Convenzioni speciali che possono essere stipulate per determinati prodotti, purche' tale regime preferenziale venga espressamente autorizzato dal G.A.T.T.
 
-#### Articolo 7
+### Articolo 7
 
 Qualora, le disposizioni del presente Accordo e quelle contenute
 
@@ -915,25 +913,25 @@ negli atti istitutivi ed applicativi di comunita', alle quali le Parti contraent
 
 ## TITOLO SECONDO - REGIME DEI PAGAMENTI
 
-#### Articolo 8
+### Articolo 8
 
 Le Parti contraenti si impegnano a conservare per un periodo di 2 anni, a partire dalla data della firma del presente Accordo, il sistema di pagamenti in compensazione generale attraverso un conto aperto presso l'Ufficio italiano dei Cambi al nome della Banca Nazionale Somala.
 
-#### Articolo 9
+### Articolo 9
 
 Decaduto il sistema di compensazione generale previsto dall'art. 8,
 
 i pagamenti tra i due Paesi verranno regolati, senza soluzione di continuita', in conformita' alle regolamentazioni valutarie vigenti nei rispettivi Paesi, in lire italiane di conto estero o in altre valute convertibili quotate sul mercato italiano dei cambi.
 
-#### Articolo 10
+### Articolo 10
 
 Il periodo di 2 anni di cui all'art. 8 potra' essere ridotto a 18 mesi qualora intervenga una intesa tra i due Governi entro il quindicesimo mese a decorrere dalla entrata vigore del presente Accordo.
 
-#### Articolo 11
+### Articolo 11
 
 Le Parti contraenti potranno concordare il mantenimento del regime di compensazione generale di cui all'art. 8 anche oltre i 2 anni previsti. La richiesta relativa dovra' essere avanzata entro il ventunesimo mese dall'entrata in vigore del presente Accordo.
 
-#### Articolo 12
+### Articolo 12
 
 I pagamenti oggetto del presente Accordo sono quelli di cui
 
@@ -941,13 +939,13 @@ all'elenco annesso (Allegato 2) che fa parte integrante dell'Accordo stesso.
 
 ## TITOLO TERZO - COLLABORAZIONE ECONOMICA E TECNICA
 
-#### Articolo 13
+### Articolo 13
 
 Il Governo italiano, desideroso di contribuire allo sviluppo
 
 economico della Somalia specialmente per quanto concerne la valorizzazione delle sue risorse, l'aumento delle sue capacita' di produzione e l'espansione del suo commercio estero, facilitera', alle condizioni generali stabilite dal presente Accordo, la realizzazione di un programma di collaborazione economica e tecnica fra i due Paesi sia nel settore pubblico, sia in quello privato.
 
-#### Articolo 14
+### Articolo 14
 
 Per la realizzazione del programma menzionato al precedente
 
@@ -965,7 +963,7 @@ Il programma di cui sopra sara' sviluppato in particolare nei
 
 settori dell'industria, del commercio, della agricoltura, della pesca, delle opere pubbliche, dei trasporti, delle telecomunicazioni, delle assicurazioni, del turismo e della cinematografia.
 
-#### Articolo 15
+### Articolo 15
 
 L'assistenza tecnica di cui all'articolo 14, lettera a), potra'
 
@@ -975,11 +973,11 @@ Detta elencazione non esclude ogni altra forma di assistenza
 
 tecnica che potra' ritenersi utile.
 
-#### Articolo 16
+### Articolo 16
 
 Il Governo italiano favorira' l'investimento di capitali italiani in Somalia, come previsto dall'articolo 14, lettera b); il Governo somalo s'impegna, da parte sua, ad assicurare ai detti capitali le necessarie garanzie, riservando ad essi lo stesso trattamento usato ai capitali somali o il migliore trattamento usato ad un terzo Paese qualsiasi, ove piu' favorevole.
 
-#### Articolo 17
+### Articolo 17
 
 Allo scopo di creare le condizioni piu' favorevoli per gli
 
@@ -997,7 +995,7 @@ In ogni caso ai capitali italiani investiti in Somalia ed ai
 
 relativi utili verra' riservato il migliore trattamento usato ad un terzo Paese qualsiasi, ove piu' favorevole del trattamento predetto.
 
-#### Articolo 18
+### Articolo 18
 
 Il Governo italiano si impegna a favorire una collaborazione
 
@@ -1011,7 +1009,7 @@ Il Governo somalo da parte sua si impegna a facilitare tali
 
 iniziative e ad assicurare al capitale italiano le garanzie di cui agli articoli 16 e 17 del presente Accordo.
 
-#### Articolo 19
+### Articolo 19
 
 Il Governo italiano, tenuto conto delle possibilita' dell'economia nazionale, e' disposto a concedere alle ditte italiane, che ne faranno richiesta, le autorizzazioni per forniture speciali con pagamento dilazionato al Governo somalo, agli enti pubblici ed a quelli preposti allo sviluppo economico e sociale del Paese nonche' alle imprese operanti in Somalia, e cio' in conformita' delle leggi e dei regolamenti in vigore nei due Paesi.
 
@@ -1029,13 +1027,13 @@ Da parte sua il Governo somalo prestera' le garanzie necessarie per
 
 il trasferimento, a ciascuna scadenza, degli importi dovuti ai creditori italiani.
 
-#### Articolo 20
+### Articolo 20
 
 Le facilitazioni previste dall'articolo 19 del presente Accordo
 
 potranno essere concesse qualora gli enti e le imprese operanti in Somalia abbiano ottenuto dall'Istituto di emissione della Somalia, in relazione all'inizio di trattative con fornitori italiani, un benestare preventivo per la concessione della garanzia di pagamento nell'eventualita' della conclusione del contratto.
 
-#### Articolo 21
+### Articolo 21
 
 L'Istituto di emissione della Somalia, agendo per conto del Governo
 
@@ -1049,7 +1047,7 @@ I pagamenti relativi ai suddetti contratti verranno effettuati
 
 direttamente dalle imprese operanti in Somalia alle imprese fornitrici italiane.
 
-#### Articolo 22
+### Articolo 22
 
 Nello spirito di collaborazione, che e' alla base del presente
 
@@ -1057,7 +1055,7 @@ Accordo, ciascuna Parte contraente si impegna a concedere l'esenzione dai dazi d
 
 ## TITOLO QUARTO - DISPOSIZIONI FINALI
 
-#### Articolo 23
+### Articolo 23
 
 Al fine di vigilare sull'applicazione delle norme relative agli
 
@@ -1065,7 +1063,7 @@ scambi commerciali e di facilitare la collaborazione economica e tecnica, sara' 
 
 Un Segretariato permanente di detta Commissione verra' istituito a Mogadiscio.
 
-#### Articolo 24
+### Articolo 24
 
 La Commissione mista prevista dal precedente articolo 23 si
 
@@ -1079,13 +1077,13 @@ Il Segretariato permanente della Commissione mista, con sede a
 
 Mogadiscio, avra' il compito di assicurare il necessario carattere di continuita', ai lavori della Commissione e, in particolare, la elaborazione, la messa a punto ed il coordinamento dei progetti di sviluppo economico e tecnico che verranno eseguiti in virtu' delle facilitazioni concordate nel presente Accordo.
 
-#### Articolo 25
+### Articolo 25
 
 Qualora sorga una divergenza relativa all'interpretazione o
 
 all'applicazione del presente Accordo, le Parti contraenti si impegnano a consultarsi con spirito amichevole allo scopo di trovare una adeguata soluzione facendo ricorso, ove necessario, alla Commissione di cui all'articolo 23.
 
-#### Articolo 26
+### Articolo 26
 
 Il presente Accordo verra' sottoposto a ratifica.
 
@@ -1117,7 +1115,7 @@ Il Ministro per gli affari esteri
 
 SEGNI
 
-#### Allegato 1
+### Allegato 1
 
 Allegato 1)
 
@@ -1273,7 +1271,7 @@ Totale... 8.000
 
 -----
 
-#### Allegato 2
+### Allegato 2
 
 Allegato 2)
 
@@ -1377,7 +1375,7 @@ privata dei relitti di corpi di navi, di aeronavi e di autoveicoli in genere, co
 
 28\) altre operazioni di pagamento ammesse di comune accordo tra l'Ufficio italiano dei Cambi e la Banca Nazionale Somala.
 
-#### Allegato 3
+### Allegato 3
 
 Allegato 3)
 
@@ -1575,7 +1573,7 @@ Il GOVERNO ITALIANO ed il GOVERNO SOMALO, animati dal comune
 
 desiderio di rafforzare le relazioni tra i due Paesi mediante l'istituzione di servizi aerei tra i rispettivi territori, hanno convenuto quanto segue:
 
-#### Articolo 1
+### Articolo 1
 
 Ai fini del presente Accordo, a meno che dal contesto non risulti altrimenti:
 
@@ -1595,7 +1593,7 @@ d) i termini "territorio", "servizio aereo", "servizio aereo
 
 internazionale" e "scalo per scopi non di traffico", hanno rispettivamente il significato ad essi attribuito negli articoli 2 e 96 della Convenzione.
 
-#### Articolo 2
+### Articolo 2
 
 1\. Nei limiti della loro applicabilita' ai servizi aerei stabiliti dal presente Accordo, le disposizioni della Convenzione, per quanto ad essa non abbia ancora aderito la Somalia, avranno vigore nella forma attuale fra le Parti contraenti come se fossero parti integranti del presente Accordo e per la durata di questo.
 
@@ -1603,7 +1601,7 @@ internazionale" e "scalo per scopi non di traffico", hanno rispettivamente il si
 
 modifiche a cui l'Italia aderisca, il Governo italiano sottoporra' le modifiche stesse al Governo somalo per stabilire di comune intesa la loro applicazione ai rapporti regolati dal presente Accordo.
 
-#### Articolo 3
+### Articolo 3
 
 1\. Ciascuna Parte contraente concede all'altra i diritti indicati nel presente Accordo, allo scopo di istituire ed esercire servizi aerei sulle rotte specificate nell'apposita sezione della Tabella delle rotte (d'ora in poi chiamati "servizi convenuti" e "rotte specificate").
 
@@ -1625,7 +1623,7 @@ punti nominati nelle rotte specificate, al fine di imbarcare o sbarcare passegge
 
 articolo sara' intesa a conferire all'impresa di una Parte contraente il diritto di imbarcare nel territorio dell'altra Parte passeggeri, merci e/o posta, trasportati dietro remunerazione od a noleggio e destinati ad un altro punto del territorio dell'altra Parte contraente.
 
-#### Articolo 4
+### Articolo 4
 
 1\. Ciascuna Parte contraente ha il diritto di designare per
 
@@ -1647,7 +1645,7 @@ e 2 del presente articolo, l'impresa designata ed autorizzata puo' iniziare ad e
 
 revocare o sospendere il godimento, da parte dell'impresa, dei diritti specificati nel paragrafo 2 dello articolo 3 del presente Accordo o di imporre quelle condizioni che essa possa ritenere necessarie al godimento da parte di una impresa di quei diritti, in tutti i casi in cui l'impresa manchi di attenersi alle leggi od ai regolamenti della Parte contraente che ha concesso detti diritti o altrimenti manchi di operare in conformita' con le condizioni prescritte nel presente Accordo, oppure in tutti i casi in cui detta Parte contraente non sia certa che la proprieta' sostanziale e l'effettivo controllo di tale impresa siano nelle mani della Parte contraente che designa l'impresa o di suoi cittadini.
 
-#### Articolo 5
+### Articolo 5
 
 1\. I carburanti, gli olii lubrificanti, le parti di ricambio, le
 
@@ -1665,7 +1663,7 @@ dotazioni e provviste normali di bordo che godono della suddetta esenzione fisca
 
 contraente nei servizi convenuti sulle rotte specificate per, da o attraverso il territorio della altra, Parte contraente saranno ammessi in detto territorio in esenzione temporanea dei diritti doganali, spese di ispezione ed altri gravami fiscali, sotto l'osservanza delle formalita' doganali dell'altra Parte contraente.
 
-#### Articolo 6
+### Articolo 6
 
 1\. Vi saranno eque e pari possibilita' per le imprese di entrambe le Parti contraenti di operare i servizi convenuti sulle rotte specificate.
 
@@ -1689,7 +1687,7 @@ l'impresa esercisce il proprio servizio, dopo aver preso in considerazione gli a
 
 c) alle esigenze inerenti all'esercizio di servizi aerei a lungo percorso.
 
-#### Articolo 7
+### Articolo 7
 
 1\. Le tariffe da applicarsi sui servizi convenuti debbono essere
 
@@ -1715,7 +1713,7 @@ b) Quando siano stabilite, in conformita' delle disposizioni del
 
 presente articolo, le tariffe debbono rimanere in vigore fino a quando nuove tariffe siano state determinate in conformita' con le disposizioni del presente articolo.
 
-#### Articolo 8
+### Articolo 8
 
 1\. Nell'eventualita' che sorga una controversia tra le Parti
 
@@ -1739,7 +1737,7 @@ decisioni adottate ai sensi del paragrafo 2 del presente Accordo.
 
 designata di ciascuna Parte contraente, non si attenga alla decisione presa ai sensi del paragrafo 2 del presente articolo, l'altra Parte contraente puo' limitare, sospendere o revocare ogni diritto o privilegio che abbia concesso, in base al presente Accordo, alla altra Parte contraente o all'impresa designata di questa ultima.
 
-#### Articolo 9
+### Articolo 9
 
 1\. Se una delle Parti contraenti desideri modificare qualsiasi
 
@@ -1753,7 +1751,7 @@ modifiche alla tabella delle rotte del presente Accordo, tali modifiche potranno
 
 sui trasporti aerei alla quale entrambe le Parti contraenti abbiano aderito, il presente Accordo sara' emendato in modo da essere uniformato alle disposizioni di tale convenzione.
 
-#### Articolo 10
+### Articolo 10
 
 Il presente Accordo entrera' in vigore al momento dello scambio
 
@@ -1783,7 +1781,7 @@ Il Ministro per gli affari esteri
 
 SEGNI
 
-#### Tabelle delle rotte
+### Tabelle delle rotte
 
 TABELLA DELLE ROTTE
 

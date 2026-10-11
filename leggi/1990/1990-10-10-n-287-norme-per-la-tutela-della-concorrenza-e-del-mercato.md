@@ -30,11 +30,9 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - NORME SULLE INTESE, SULL'ABUSO DI POSIZIONE DOMINANTE E SULLE
+## TITOLO I - NORME SULLE INTESE, SULL'ABUSO DI POSIZIONE DOMINANTE E SULLE OPERAZIONI DI CONCENTRAZIONE.
 
-### OPERAZIONI DI CONCENTRAZIONE.
-
-##### Art. 1
+#### Art. 1
 
 Ambito di applicazione
 
@@ -48,7 +46,7 @@ e rapporti con l'ordinamento comunitario
 
 4\. L'interpretazione delle norme contenute nel presente titolo e' effettuata in base ai principi dell'ordinamento delle Comunita' europee in materia di disciplina della concorrenza.
 
-##### Art. 2
+#### Art. 2
 
 Intese restrittive della liberta' di concorrenza
 
@@ -68,7 +66,7 @@ e) subordinare la conclusione di contratti all'accettazione da parte degli altri
 
 3\. Le intese vietate sono nulle ad ogni effetto.
 
-##### Art. 3
+#### Art. 3
 
 Abuso di posizione dominante
 
@@ -82,7 +80,7 @@ c) applicare nei rapporti commerciali con altri contraenti condizioni oggettivam
 
 d) subordinare la conclusione dei contratti all'accettazione da parte degli altri contraenti di prestazioni supplementari che, per loro natura e secondo gli usi commerciali, non abbiano alcuna connessione con l'oggetto dei contratti stessi.
 
-##### Art. 4
+#### Art. 4
 
 Deroghe al divieto di intese
 
@@ -94,7 +92,7 @@ restrittive della liberta' di concorrenza
 
 3\. La richiesta di autorizzazione e' presentata all'Autorita', che si avvale dei poteri di istruttoria di cui all'articolo 14 e provvede entro centoventi giorni dalla presentazione della richiesta stessa.
 
-##### Art. 5
+#### Art. 5
 
 Operazioni di concentrazione
 
@@ -110,7 +108,7 @@ b) quando uno o piu' soggetti in posizione di controllo di almeno un'impresa ovv
 
 ((3. Qualora l'operazione di costituzione di un'impresa comune che realizza una concentrazione abbia per oggetto o per effetto il coordinamento del comportamento di imprese indipendenti, tale coordinamento e' valutato secondo i parametri adottati per la valutazione delle intese restrittive della liberta' di concorrenza, al fine di stabilire se l'operazione comporti le conseguenze di cui all'articolo 6. In tale valutazione l'Autorita' tiene conto, in particolare, della presenza significativa e simultanea di due o piu' imprese fondatrici sullo stesso mercato dell'impresa comune, o su un mercato situato a monte o a valle di tale mercato, ovvero su un mercato contiguo strettamente legato a detto mercato, nonche' della possibilita' offerta alle imprese interessate, attraverso il loro coordinamento risultante direttamente dalla costituzione dell'impresa comune, di eliminare la concorrenza per una parte sostanziale dei prodotti e servizi in questione)).
 
-##### Art. 6
+#### Art. 6
 
 Divieto delle operazioni di concentrazione
 
@@ -120,7 +118,7 @@ restrittive della liberta' di concorrenza
 
 2\. L'Autorita', al termine dell'istruttoria di cui all'articolo 16, comma 4, quando accerti che l'operazione comporta le conseguenze di cui al comma 1, vieta la concentrazione ovvero l'autorizza prescrivendo le misure necessarie ad impedire tali conseguenze.
 
-##### Art. 7
+#### Art. 7
 
 Controllo
 
@@ -152,7 +150,7 @@ b) che, pur non essendo titolari di tali diritti o beneficiari di tali contratti
 
 > Sono considerate collegate le societa' nelle quali si partecipa in misura superiore al decimo del loro capitale, ovvero in misura superiore al ventesimo se si tratta di societa' con azioni quotate in borsa".
 
-##### Art. 8
+#### Art. 8
 
 Imprese pubbliche e in monopolio legale
 
@@ -170,7 +168,7 @@ Imprese pubbliche e in monopolio legale
 
 2-sexies. In caso di violazione degli obblighi di comunicazione di cui al comma 2-ter, l'Autorita' applica la sanzione amministrativa pecuniaria fino a lire 100 milioni.
 
-##### Art. 9
+#### Art. 9
 
 Autoproduzione
 
@@ -178,13 +176,11 @@ Autoproduzione
 
 2\. L'autoproduzione non e' consentita nei casi in cui in base alle disposizioni che prevedono la riserva risulti che la stessa e' stabilita per motivi di ordine pubblico, sicurezza pubblica e difesa nazionale, nonche', salvo concessione, per quanto concerne il settore delle telecomunicazioni.
 
-## TITOLO II - ISTITUZIONE E COMPITI DELL'AUTORITA' GARANTE DELLA CONCORRENZA E DEL
+## TITOLO II - ISTITUZIONE E COMPITI DELL'AUTORITA' GARANTE DELLA CONCORRENZA E DEL MERCATO.
 
-### MERCATO.
+### Capo I - ISTITUZIONE DELL'AUTORITA'
 
-#### Capo I - ISTITUZIONE DELL'AUTORITA'
-
-##### Art. 10
+#### Art. 10
 
 Autorita' garante della concorrenza e del mercato
 
@@ -224,7 +220,7 @@ AGGIORNAMENTO (18)
 
 Il D.L. 24 gennaio 2012, n. 1, convertito con modificazioni dalla L. 24 marzo 2012, n. 27, ha disposto (con l'art. 5-bis, comma 2, alinea) che la presente modifica decorre dal 1º gennaio 2013.
 
-##### Art. 11
+#### Art. 11
 
 Personale della Autorita'
 
@@ -264,11 +260,9 @@ AGGIORNAMENTO (18)
 
 Il D.L. 30 dicembre 2016, n. 244, convertito con modificazioni dalla L. 27 febbraio 2017, n. 19, ha disposto (con l'art. 1, comma 12-bis) che "A tal fine, con decreto del Presidente del Consiglio dei ministri, la pianta organica di cui all'articolo 11, comma 1, della legge 10 ottobre 1990, n. 287, e' incrementata di trenta unita' con contestuale riduzione di quaranta unita' del contingente dei contratti a tempo determinato di cui al comma 4 del medesimo articolo".
 
-## Capo II - POTERI DELL'AUTORITA' IN MATERIA DI INTESE RESTRITTIVE DELLA LIBERTA'
+### Capo II - POTERI DELL'AUTORITA' IN MATERIA DI INTESE RESTRITTIVE DELLA LIBERTA' DI CONCORRENZA E DI ABUSO DI POSIZIONE DOMINANTE.
 
-### DI CONCORRENZA E DI ABUSO DI POSIZIONE DOMINANTE.
-
-##### Art. 12
+#### Art. 12
 
 Poteri di indagine
 
@@ -286,13 +280,13 @@ Poteri di indagine
 
 2-ter. Con provvedimento dell'Autorita', i soggetti ai quali e' richiesto di fornire o esibire gli elementi di cui al comma 2-bis sono sottoposti alle sanzioni amministrative pecuniarie di cui all'articolo 14, comma 5, se rifiutano od omettono di fornire le informazioni o di esibire i documenti richiesti ovvero se forniscono informazioni od esibiscono documenti non veritieri, senza giustificato motivo. L'Autorita' riconosce ai soggetti di cui al comma 2-bis un congruo periodo di tempo, anche in ragione della complessita' delle informazioni in oggetto, comunque non superiore a sessanta giorni, rinnovabili con richiesta motivata, per rispondere alle richieste di informazioni avanzate dall'Autorita' stessa. Sono fatte salve le diverse sanzioni previste dall'ordinamento vigente)).
 
-##### Art. 13
+#### Art. 13
 
 Comunicazione delle intese
 
 1\. Le imprese possono comunicare all'Autorita' le intese intercorse. Se l'Autorita' non avvia l'istruttoria di cui all'articolo 14 entro centoventi giorni dalla comunicazione non puo' piu' procedere a detta istruttoria, fatto salvo il caso di comunicazioni incomplete o non veritiere.
 
-##### Art. 14
+#### Art. 14
 
 Istruttoria
 
@@ -364,7 +358,7 @@ b) presentarsi all'audizione convocata ai sensi del comma 2-bis del presente art
 
 c) sottoporsi all'ispezione di cui al comma 2-quinquies del presente articolo.))
 
-##### Art. 14-bis - Misure cautelari
+#### Art. 14-bis - Misure cautelari
 
 1\. Nei casi di urgenza dovuta al rischio di un danno grave e irreparabile per la concorrenza, l'Autorita' puo', d'ufficio, ove constati ad un sommario esame la sussistenza di un'infrazione, deliberare l'adozione di misure cautelari.
 
@@ -372,7 +366,7 @@ c) sottoporsi all'ispezione di cui al comma 2-quinquies del presente articolo.))
 
 3\. L'Autorita', quando le imprese non adempiano a una decisione che dispone misure cautelari, puo' infliggere sanzioni amministrative pecuniarie fino al 3 per cento del fatturato ((totale realizzato a livello mondiale durante l'esercizio precedente)).
 
-##### Art. 14-ter - Impegni
+#### Art. 14-ter - Impegni
 
 1\. Entro tre mesi dalla notifica dell'apertura di un'istruttoria per l'accertamento della violazione degli articoli 2 o 3 della presente legge o degli articoli 81 o 82 del Trattato CE, le imprese possono presentare impegni tali da far venire meno i profili anticoncorrenziali oggetto dell'istruttoria. L'Autorita', valutata l'idoneita' di tali impegni ((e previa consultazione degli operatori del mercato)), puo', nei limiti previsti dall'ordinamento comunitario, renderli obbligatori per le imprese ((. Tale decisione puo' essere adottata per un periodo di tempo determinato e chiude)) il procedimento senza accertare l'infrazione.
 
@@ -386,7 +380,7 @@ b) le imprese interessate contravvengono agli impegni assunti;
 
 c) la decisione si fonda su informazioni trasmesse dalle parti che sono incomplete inesatte o fuorvianti.
 
-##### Art. 14-quater
+#### Art. 14-quater
 
 (( (Procedura di transazione). ))
 
@@ -408,7 +402,7 @@ d) la forcella delle potenziali ammende. Tali informazioni sono riservate nei co
 
 5\. L'Autorita' definisce con proprio provvedimento generale, in conformita' con l'ordinamento dell'Unione europea e garantendo il diritto al contraddittorio, le regole procedurali che disciplinano la presentazione e la valutazione delle proposte di transazione di cui al presente articolo e l'entita' della riduzione della sanzione di cui all'articolo 15, comma 1-bis, da accordare in caso di completamento con successo della procedura)).
 
-##### Art. 15
+#### Art. 15
 
 Diffide e sanzioni
 
@@ -432,7 +426,7 @@ b) ottemperare alle misure cautelari adottate ai sensi dell'articolo 14-bis;
 
 c) rispettare gli impegni resi obbligatori mediante decisione ai sensi dell'articolo 14-ter.))
 
-##### Art. 15-bis
+#### Art. 15-bis
 
 (( (Non applicazione delle sanzioni). ))
 
@@ -456,7 +450,7 @@ c) fornisce, per primo, elementi probatori che:
 
 5\. L'Autorita' informa il richiedente se gli e' stata concessa o meno l'immunita' condizionale dalle sanzioni. Il richiedente puo' chiedere di essere informato per iscritto dall'Autorita' circa l'esito della sua domanda. Nei casi in cui l'Autorita' respinge la domanda di immunita' dalle sanzioni, il richiedente interessato puo' chiedere che la sua domanda sia esaminata come una domanda di riduzione delle sanzioni.))
 
-##### Art. 15-ter
+#### Art. 15-ter
 
 (( (Riduzione delle sanzioni). ))
 
@@ -470,7 +464,7 @@ c) fornisce, elementi probatori del presunto cartello segreto che costituiscono 
 
 2\. Se il richiedente fornisce elementi probatori inconfutabili, che l'Autorita' utilizza per provare ulteriori circostanze che determinano l'aumento delle sanzioni rispetto a quelle che sarebbero altrimenti state imposte ai partecipanti al cartello segreto, l'Autorita' non tiene conto di tali ulteriori circostanze al momento di determinare la sanzione da irrogare al suddetto richiedente che ha fornito tali elementi probatori.))
 
-##### Art. 15-quater
+#### Art. 15-quater
 
 (( (Condizioni generali per l'applicazione del trattamento favorevole). ))
 
@@ -504,7 +498,7 @@ c) nel periodo in cui prevede di presentare una domanda di trattamento favorevol
 
 2\) aver rivelato di voler presentare la domanda ne' aver reso nota nessuna parte del suo contenuto, a eccezione di altre autorita' garanti della concorrenza dell'Unione europea e di Paesi terzi.))
 
-##### Art. 15-quinquies
+#### Art. 15-quinquies
 
 (( (Forma delle dichiarazioni legate a un programma di trattamento favorevole). ))
 
@@ -514,7 +508,7 @@ c) nel periodo in cui prevede di presentare una domanda di trattamento favorevol
 
 3\. Le dichiarazioni legate a un programma di trattamento favorevole relative a domande complete o semplificate, incluse quelle presentate ai sensi dell'articolo 15-sexies, sono presentate in lingua italiana. L'Autorita' puo' concordare bilateralmente con il richiedente che la domanda sia presentata in altra lingua.))
 
-##### Art. 15-sexies
+#### Art. 15-sexies
 
 (( (Numero d'ordine per le domande di non applicazione delle sanzioni). ))
 
@@ -536,7 +530,7 @@ f) informazioni su precedenti domande di trattamento favorevole presentate alle 
 
 3\. Le informazioni e gli elementi di prova forniti dal richiedente nel periodo determinato ai sensi del comma 1 sono considerati come presentati alla data della richiesta iniziale.))
 
-##### Art. 15-septies
+#### Art. 15-septies
 
 (( (Domande semplificate). ))
 
@@ -566,9 +560,9 @@ L'Autorita' puo' esigere che il richiedente presenti la domanda completa prima c
 
 6\. Se il richiedente presenta la domanda completa conformemente al comma 5 entro il periodo specificato dall'Autorita', la domanda completa e' considerata come presentata all'ora della domanda semplificata, a condizione che la domanda semplificata riguardi lo stesso o gli stessi prodotti e il territorio o i territori interessati e abbia la stessa durata del presunto cartello segreto di cui alla domanda di trattamento favorevole presentata alla Commissione europea, eventualmente aggiornata.))
 
-## ((Capo II-bis - ASSISTENZA INVESTIGATIVA NELL'AMBITO DELLA RETE EUROPEA DELLA CONCORRENZA))
+### ((Capo II-bis - ASSISTENZA INVESTIGATIVA NELL'AMBITO DELLA RETE EUROPEA DELLA CONCORRENZA))
 
-##### Art. 15-octies
+#### Art. 15-octies
 
 (( (Cooperazione investigativa). ))
 
@@ -578,7 +572,7 @@ L'Autorita' puo' esigere che il richiedente presenti la domanda completa prima c
 
 3\. L'Autorita' trasmette all'autorita' richiedente le informazioni raccolte ai sensi del comma 1 e utilizza come mezzo di prova le informazioni ad essa trasmesse da altre autorita' ai sensi del comma 2, fatte salve le garanzie di cui all'articolo 12 del regolamento (CE) n. 1/2003.))
 
-##### Art. 15-nonies
+#### Art. 15-nonies
 
 (( (Richieste di notifica). ))
 
@@ -598,7 +592,7 @@ b) qualsiasi altro atto procedimentale adottato nell'ambito del procedimento ist
 
 c) qualsiasi altra documentazione pertinente relativa all'applicazione degli articoli 101 e 102 del TFUE, inclusa la documentazione relativa all'esecuzione delle decisioni che applicano sanzioni o penalita' di mora.))
 
-##### Art. 15-decies
+#### Art. 15-decies
 
 (( (Richieste di esecuzione delle decisioni che impongono sanzioni o penalita' di mora). ))
 
@@ -612,7 +606,7 @@ c) qualsiasi altra documentazione pertinente relativa all'applicazione degli art
 
 5\. Ai fini del presente articolo si considerano decisioni definitive quelle non piu' suscettibili di essere impugnate con mezzi ordinari.))
 
-##### Art. 15-undecies
+#### Art. 15-undecies
 
 (( (Procedura di cooperazione). ))
 
@@ -658,7 +652,7 @@ b) l'Autorita' adduce validi motivi che dimostrino come l'esecuzione della richi
 
 10\. L'Autorita' puo' convenire, su base di reciprocita', la rinuncia al recupero dei costi di cui ai commi 7 e 8 nei confronti delle altre autorita' nazionali di concorrenza dei Paesi dell'Unione europea.))
 
-##### Art. 15-duodecies
+#### Art. 15-duodecies
 
 (( (Competenza e legislazione applicabile). ))
 
@@ -670,11 +664,9 @@ b) la legittimita' dello strumento uniforme che consente l'esecuzione nello Stat
 
 2\. Le controversie riguardanti le misure di esecuzione adottate nello Stato membro dell'autorita' adita o la validita' di una notifica effettuata dall'autorita' adita rientrano nella competenza degli organi competenti dello Stato membro dell'autorita' adita e sono disciplinate dal diritto di tale Stato membro.))
 
-## Capo III - POTERI DELL'AUTORITA' IN MATERIA DI DIVIETO
+### Capo III - POTERI DELL'AUTORITA' IN MATERIA DI DIVIETO DELLE OPERAZIONI DI CONCENTRAZIONE
 
-### DELLE OPERAZIONI DI CONCENTRAZIONE
-
-##### Art. 16
+#### Art. 16
 
 Comunicazione delle concentrazioni
 
@@ -720,7 +712,7 @@ AGGIORNAMENTO (18)
 
 Il D.L. 24 gennaio 2012, n. 1, convertito con modificazioni dalla L. 24 marzo 2012, n. 27, ha disposto (con l'art. 5-bis, comma 2, alinea) che la presente modifica decorre dal 1º gennaio 2013.
 
-##### Art. 16-bis
+#### Art. 16-bis
 
 (( (Richieste di informazioni in materia di concentrazioni tra imprese). ))
 
@@ -728,7 +720,7 @@ Il D.L. 24 gennaio 2012, n. 1, convertito con modificazioni dalla L. 24 marzo 20
 
 2\. Con provvedimento dell'Autorita', i soggetti ai quali e' richiesto di fornire o esibire gli elementi di cui al comma 1 sono sottoposti alle sanzioni amministrative pecuniarie di cui all'articolo 14, comma 5, se rifiutano od omettono di fornire le informazioni o di esibire i documenti richiesti ovvero se forniscono informazioni od esibiscono documenti non veritieri, senza giustificato motivo. L'Autorita' riconosce ai soggetti di cui al comma 1 un congruo periodo di tempo, anche in ragione della complessita' delle informazioni in oggetto, comunque non superiore a sessanta giorni, rinnovabili con richiesta motivata, per rispondere alle richieste di informazioni avanzate dall'Autorita' stessa. Sono fatte salve le diverse sanzioni previste dall'ordinamento vigente)).
 
-##### Art. 17
+#### Art. 17
 
 Sospensione temporanea
 
@@ -738,7 +730,7 @@ dell'operazione di concentrazione
 
 2\. La disposizione del comma 1 non impedisce la realizzazione di un'offerta pubblica di acquisto che sia stata comunicata all'Autorita' ai sensi dell'articolo 16, comma 5, sempre che l'acquirente non eserciti i diritti di voto inerenti ai titoli in questione.
 
-##### Art. 18
+#### Art. 18
 
 Conclusione dell'istruttoria sulle concentrazioni
 
@@ -748,7 +740,7 @@ Conclusione dell'istruttoria sulle concentrazioni
 
 3\. L'Autorita', se l'operazione di concentrazione e' gia' stata realizzata, puo' prescrivere le misure necessarie a ripristinare condizioni di concorrenza effettiva, eliminando gli effetti distorsivi.
 
-##### Art. 19
+#### Art. 19
 
 Sanzioni amministrative pecuniarie per inottemperanza
 
@@ -758,9 +750,9 @@ al divieto di concentrazione o all'obbligo di notifica
 
 2\. Nel caso di imprese che non abbiano ottemperato agli obblighi di comunicazione preventiva di cui al comma 1 dell'articolo 16, l'Autorita' puo' infliggere alle imprese stesse sanzioni amministrative pecuniarie fino all'uno per cento del fatturato dell'anno precedente a quello in cui e' effettuata la contestazione in aggiunta alle sanzioni eventualmente applicabili in base a quanto previsto dal comma 1, a seguito delle conclusioni dell'istruttoria prevista dal presente capo III, il cui inizio decorre dalla data di notifica della sanzione di cui al presente comma.
 
-## Capo IV - DISPOSIZIONI SPECIALI
+### Capo IV - DISPOSIZIONI SPECIALI
 
-##### Art. 20
+#### Art. 20
 
 Aziende ed istituti di credito, imprese assicurative e dei settori della radiodiffusione e dell'editoria
 
@@ -794,11 +786,9 @@ b) un'operazione di concentrazione riguardante banche o gruppi bancari che deter
 
 9\. Le disposizioni della presente legge in materia di concentrazione non costituiscono deroga alle norme vigenti nei settori bancario, assicurativo, della radiodiffusione e dell'editoria.
 
-## TITOLO III - POTERI CONOSCITIVI E CONSULTIVI
+## TITOLO III - POTERI CONOSCITIVI E CONSULTIVI DELL'AUTORITA'
 
-### DELL'AUTORITA'
-
-##### Art. 21
+#### Art. 21
 
 Potere di segnalazione al Parlamento
 
@@ -810,7 +800,7 @@ ed al Governo
 
 3\. L'Autorita', ove ne ravvisi l'opportunita', esprime parere circa le iniziative necessarie per rimuovere o prevenire le distorsioni e puo' pubblicare le segnalazioni ed i pareri nei modi piu' congrui in relazione alla natura e all'importanza delle situazioni distorsive.
 
-##### Art. 21-bis
+#### Art. 21-bis
 
 (( (Poteri dell'Autorita' Garante della concorrenza e del mercato sugli atti amministrativi che determinano distorsioni della concorrenza)
 
@@ -820,7 +810,7 @@ ed al Governo
 
 3\. Ai giudizi instaurati ai sensi del comma 1 si applica la disciplina di cui al Libro IV, Titolo V, del decreto legislativo 2 luglio 2010, n. 104.))
 
-##### Art. 22
+#### Art. 22
 
 Attivita' consultiva
 
@@ -832,7 +822,7 @@ b) di stabilire diritti esclusivi in certe aree;
 
 c) di imporre pratiche generalizzate in materia di prezzi e di condizioni di vendita.
 
-##### Art. 23
+#### Art. 23
 
 Relazione annuale
 
@@ -840,17 +830,15 @@ Relazione annuale
 
 ((1-bis. La relazione annuale include informazioni circa la nomina e la rimozione dei membri dell'Autorita', l'importo della dotazione finanziaria di cui all'articolo 10, comma 7-ter, della presente legge per l'anno in questione e la variazione di tale importo rispetto agli anni precedenti. La relazione annuale e' resa disponibile al pubblico sul sito internet dell'Autorita'.))
 
-##### Art. 24
+#### Art. 24
 
 Relazione al Governo su alcuni settori
 
 1\. L'Autorita', sentite le amministrazioni interessate, entro diciotto mesi dalla sua costituzione presenta al Presidente del Consiglio dei Ministri un rapporto circa le azioni da promuovere per adeguare ai principi della concorrenza la normativa relativa ai settori degli appalti pubblici, delle imprese concessionarie e della distribuzione commerciale.
 
-## TITOLO IV - NORME SUI POTERI DEL GOVERNO IN MATERIA DI OPERAZIONI DI
+## TITOLO IV - NORME SUI POTERI DEL GOVERNO IN MATERIA DI OPERAZIONI DI CONCENTRAZIONE
 
-### CONCENTRAZIONE
-
-##### Art. 25
+#### Art. 25
 
 Poteri del Governo in materia di operazioni di concentrazione
 
@@ -858,37 +846,35 @@ Poteri del Governo in materia di operazioni di concentrazione
 
 2\. Nel caso delle operazioni di cui all'articolo 16 alle quali partecipano enti o imprese di Stati che non tutelano l'indipendenza degli enti o delle imprese con norme di effetto equivalente a quello dei precedenti titoli o applicano disposizioni discriminatorie o impongono clausole aventi effetti analoghi nei confronti di acquisizioni da parte di imprese o enti italiani, il Presidente del Consiglio dei Ministri, previa deliberazione del Consiglio dei Ministri, su proposta del Ministro dell'industria, del commercio e dell'artigianato, puo', entro trenta giorni dalla comunicazione di cui all'articolo 16, comma 3, vietare l'operazione per ragioni essenziali di economia nazionale.
 
-##### Art. 26
+#### Art. 26
 
 Pubblicita' delle decisioni
 
 1\. Le decisioni di cui agli articoli 15, 16, 18, 19 e 25 sono pubblicate entro venti giorni in un apposito bollettino, a cura della Presidenza del Consiglio dei Ministri. Nello stesso bollettino sono pubblicate, ove l'Autorita' lo ritenga opportuno, le conclusioni delle indagini di cui all'articolo 12, comma 2.
 
-## TITOLO V - NORME IN MATERIA DI PARTECIPAZIONE
+## TITOLO V - NORME IN MATERIA DI PARTECIPAZIONE AL CAPITALE DI ENTI CREDITIZI
 
-### AL CAPITALE DI ENTI CREDITIZI
+## ((TITOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-#### ((TITOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
-
-##### Art. 27
+#### Art. 27
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 28
+#### Art. 28
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 29
+#### Art. 29
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
-##### Art. 30
+#### Art. 30
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
 
 ## TITOLO VI - DISPOSIZIONI FINALI
 
-##### Art. 31
+#### Art. 31
 
 Sanzioni
 
@@ -898,7 +884,7 @@ Sanzioni
 
 > \- La legge n. 689/1981 reca: "Modifiche al sistema penale". Il capo I della citata legge concerne le sanzioni amministrative; le sezioni I e II riguardano rispettivamente: "Principi generali" e "Applicazione".
 
-##### Art. 31-bis
+#### Art. 31-bis
 
 (( (Termini di prescrizione). ))
 
@@ -910,7 +896,7 @@ Sanzioni
 
 4\. Il termine di prescrizione applicabile all'irrogazione di sanzioni o di penalita' di mora da parte dell'Autorita' rimane sospeso fino a quando la decisione da essa adottata forma oggetto di un procedimento pendente dinanzi al giudice amministrativo, ai sensi dell'articolo 33.))
 
-##### Art. 31-ter
+#### Art. 31-ter
 
 (( (Accesso al fascicolo). ))
 
@@ -938,7 +924,7 @@ b) se anche l'autorita' nazionale garante della concorrenza che riceve la dichia
 
 5\. Le disposizioni di cui al presente articolo si applicano indipendentemente dalla forma in cui sono presentate le dichiarazioni legate a un programma di trattamento favorevole.))
 
-##### Art. 31-quater
+#### Art. 31-quater
 
 (( (Interazione tra le domande di non applicazione delle sanzioni e le sanzioni imposte alle persone fisiche). ))
 
@@ -956,13 +942,13 @@ d) gli attuali ed ex direttori, gli amministratori e gli altri membri del person
 
 3\. E' fatto salvo il diritto delle vittime che hanno subito un danno a causa dell'infrazione della legislazione sulla concorrenza di chiedere il pieno risarcimento di tale danno, ai sensi dell'articolo 33, comma 2, della presente legge e del decreto legislativo 19 gennaio 2017, n. 3.))
 
-##### Art. 32
+#### Art. 32
 
 Copertura finanziaria
 
 1\. All'onere derivante dall'applicazione della presente legge, valutato in lire 20 miliardi per il 1990, lire 32 miliardi per il 1991 e lire 35 miliardi per il 1992, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1990-1992, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1990, all'uopo utilizzando lo specifico accantonamento "Interventi per la tutela della concorrenza e del mercato".
 
-##### Art. 33
+#### Art. 33
 
 Competenza giurisdizionale
 
@@ -976,7 +962,7 @@ AGGIORNAMENTO (18)
 
 Il D.L. 24 gennaio 2012, n. 1, convertito con modificazioni dalla L. 24 marzo 2012, n. 27, ha disposto (con l'art. 2, comma 6) che "Le disposizioni di cui al presente articolo si applicano ai giudizi instaurati dopo il centottantesimo giorno dalla data di entrata in vigore della legge di conversione del presente decreto".
 
-##### Art. 34
+#### Art. 34
 
 Entrata in vigore
 

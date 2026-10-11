@@ -28,11 +28,9 @@ PROMULGA
 
 la seguente legge:
 
-## Titolo I - RIDUZIONE DEI TERMINI E SEMPLIFICAZIONE DEL PROCEDIMENTO ELETTORALE
+## Titolo I - RIDUZIONE DEI TERMINI E SEMPLIFICAZIONE DEL PROCEDIMENTO ELETTORALE PREPARATORIO
 
-### PREPARATORIO
-
-#### Art. 1
+### Art. 1
 
 Al testo unico delle leggi per la elezione della Camera dei deputati approvato con decreto del Presidente della Repubblica 30 marzo 1957, n. 361, sono apportate le seguenti modificazioni:
 
@@ -78,7 +76,7 @@ r) al primo comma dell'articolo 33 le parole "Entro trenta giorni" sono sostitui
 
 s) al primo comma, n. 3), dell'articolo 92 le parole "dalle ore 8 del cinquantacinquesimo giorno alle ore 20 del quarantacinquesimo giorno" sono sostituite con le altre "dalle ore 8 del trentacinquesimo giorno alle ore 20 del trentaduesimo giorno".
 
-#### Art. 2
+### Art. 2
 
 Alla legge 6 febbraio 1948, n. 29, recante norme per la elezione del Senato della Repubblica, sono apportate le seguenti modificazioni:
 
@@ -160,7 +158,7 @@ n) al nono comma dell'articolo 26 le parole "dell'articolo 52" sono sostituite c
 
 o) all'undicesimo comma dell'articolo 26 le parole "all'articolo 48" sono sostituite con le altre "all'articolo 64".
 
-#### Art. 3
+### Art. 3
 
 All'articolo 2 della legge 27 febbraio 1958, n. 64, sono apportate le seguenti modificazioni:
 
@@ -170,21 +168,21 @@ b) sono soppressi il secondo e terzo comma.
 
 ## Titolo II - NORME RELATIVE ALLE OPERAZIONI DI VOTAZIONE E DI SCRUTINIO
 
-#### Art. 4
+### Art. 4
 
 Il terzo comma dell'articolo 26 della legge 6 febbraio 1948, n. 29, e' abrogato.
 
-#### Art. 5
+### Art. 5
 
 Nelle schede di votazione occorrenti per le elezioni della Camera dei deputati e del Senato della Repubblica e' abolita l'appendice, sulla quale andava apposto il numero progressivo di ciascuna scheda, nonche' la gommatura sul lembo di chiusura.
 
-#### Art. 6
+### Art. 6
 
 Il quarto comma dell'articolo 26 della legge 6 febbraio 1948, n. 29, e' sostituito dal seguente:
 
 "L'elettore iscritto nelle liste elettorali per le elezioni delle due Camere, dopo che e' stata riconosciuta la sua identita' personale, ritira dal presidente del seggio le due schede, che devono essere di colore diverso e, dopo aver espresso il voto, le riconsegna contemporaneamente al presidente il quale le pone nelle rispettive urne".
 
-#### Art. 7
+### Art. 7
 
 I plichi di cui all'articolo 67 del testo unico delle leggi per la elezione della Camera dei deputati approvato con decreto del Presidente della Repubblica 30 marzo 1957, n. 361, debbono essere rimessi contemporaneamente, prima che inizino le operazioni di scrutinio, per il tramite del comune al pretore del mandamento che ne rilascia ricevuta.
 
@@ -192,7 +190,7 @@ I plichi contenenti gli atti dello scrutinio devono essere recapitati, al termin
 
 Il plico di cui all'articolo 75; quinto comma, del predetto testo unico deve essere recapitato, con le stesse modalita' di cui al precedente comma, al sindaco del comune, il quale provvedera' al successivo inoltro al pretore.
 
-#### Art. 8
+### Art. 8
 
 I detenuti aventi diritto al voto sono ammessi a votare con le modalita' di cui al successivo articolo 9 nel luogo di detenzione.
 
@@ -208,7 +206,7 @@ b) a rilasciare immediatamente, ai richiedenti, anche per telegramma, un'attesta
 
 ((I detenuti possono votare esclusivamente previa esibizione, oltre che della tessera elettorale, anche dell'attestazione di cui all'articolo 8, terzo comma, lettera b), della legge 23 aprile 1976, n. 136, che, a cura del presidente del seggio speciale, e' ritirata ed allegata al registro contenente i numeri delle tessere elettorali dei votanti.))
 
-#### Art. 9
+### Art. 9
 
 Per le sezioni elettorali, nella cui circoscrizione esistono ospedali e case di cura con almeno 100 e fino a 199 posti letto o luoghi di detenzione e di custodia preventiva, il voto degli elettori ivi esistenti viene raccolto, durante le ore in cui e' aperta la votazione, da uno speciale seggio, composto da un presidente e da due scrutatori, nominati con le modalita' stabilite per tali nomine.
 
@@ -234,7 +232,7 @@ Qualora in un luogo di detenzione i detenuti aventi diritto al voto siano piu' d
 
 ## Titolo III - DISPOSIZIONI PARTICOLARI PER LA VALLE D'AOSTA
 
-#### Art. 10
+### Art. 10
 
 Quando, per qualsiasi causa, resti vacante il seggio di deputato o di senatore nel collegio della Valle d'Aosta, il presidente della rispettiva assemblea legislativa ne da' immediata comunicazione al Presidente del Consiglio dei Ministri ed al Ministro per l'interno, perche' si proceda ad elezione suppletiva.
 
@@ -248,31 +246,31 @@ Nel caso in cui si proceda ad elezioni suppletive, le cause di ineleggibilita' p
 
 ## Titolo IV - DISPOSIZIONI FINALI
 
-#### Art. 11
+### Art. 11
 
 Per la presentazione delle liste di candidati alla elezione dei consigli circoscrizionali che non si svolgano contemporaneamente alla elezione del consiglio comunale, nessuna sottoscrizione e' richiesta per i partiti o gruppi politici rappresentati nel consiglio comunale in carica al momento della indizione delle elezioni e costituiti in gruppi consiliari o che abbiano presentato liste ed abbiano ottenuto almeno un seggio nell'elezione per lo stesso consiglio.
 
-#### Art. 12
+### Art. 12
 
 ((ARTICOLO ABROGATO DALLA L. 13 MARZO 1980, N. 70))
 
-#### Art. 13
+### Art. 13
 
 ((ARTICOLO ABROGATO DALLA L. 13 MARZO 1980, N. 70))
 
-#### Art. 14
+### Art. 14
 
 ((ARTICOLO ABROGATO DALLA L. 13 MARZO 1980, N. 70))
 
-#### Art. 15
+### Art. 15
 
 ((ARTICOLO ABROGATO DALLA L. 13 MARZO 1980, N. 70))
 
-#### Art. 16
+### Art. 16
 
 E' abrogata la legge 22 maggio 1970, n. 312.
 
-#### Art. 17
+### Art. 17
 
 Tutte le spese per l'organizzazione tecnica e l'attuazione delle elezioni politiche e dei referendum previsti dai titoli I e II della legge 25 maggio 1970, n. 352, sono a carico dello Stato ((nei limiti massimi fissati dal decreto previsto dall'articolo 55, comma 8, della legge 27 dicembre 1997, n. 449, e dal nono comma del presente articolo)).
 
@@ -296,17 +294,17 @@ Lo Stato, le regioni o le province sono tenute ad erogare ai comuni, nel mese pr
 
 Ai fondi iscritti nel bilancio dello Stato per effetto delle presenti disposizioni, si applicano le norme contenute nel secondo e terzo comma dell'articolo 36 del regio decreto 18 novembre 1923, n. 2440, e successive modificazioni. I fondi stessi possono essere utilizzati con ordini di accreditamento di ammontare anche superiore ai limiti di cui all'articolo 56 del regio decreto 18 novembre 1923, n. 2440, e successive modificazioni. A carico di tali ordini di accreditamento possono essere imputate, per intero, spese dipendenti da contratti.
 
-#### Art. 18
+### Art. 18
 
 In occasione di consultazioni popolari il personale dei comuni, delle prefetture, del Ministero dell'interno, nonche' del Ministero di grazia e giustizia, addetto a servizi elettorali, puo' essere autorizzato dalla rispettiva amministrazione, anche in deroga alle vigenti disposizioni, ad effettuare lavoro straordinario sino ad un massimo individuale di 80 ore mensili, per il periodo intercorrente dalla data di pubblicazione del decreto di convocazione dei comizi al trentesimo giorno successivo al giorno delle consultazioni stesse.
 
-#### Art. 19
+### Art. 19
 
 Il Governo della Repubblica e' autorizzato a provvedere, entro il termine di un anno, all'emanazione di un testo unico, nel quale dovranno essere riunite e coordinate con la presente legge, tutte le disposizioni di legge concernenti le elezioni della Camera dei deputati e del Senato della Repubblica.
 
 Sono abrogate le disposizioni in contrasto o comunque incompatibili con la presente legge.
 
-#### Art. 20
+### Art. 20
 
 La presente legge entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica.
 

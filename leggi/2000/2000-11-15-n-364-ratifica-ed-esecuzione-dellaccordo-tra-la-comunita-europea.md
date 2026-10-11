@@ -25,15 +25,15 @@ Promulga
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo tra la Comunita' europea ed i suoi Stati membri, da una parte, e la Confederazione svizzera, dall'altra, sulla libera circolazione delle persone, con allegati, atto finale e dichiarazioni, fatto a Lussemburgo il 21 giugno 1999.
 
-### Art. 2
+## Art. 2
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore in conformita' a quanto disposto dall'articolo 25, paragrafo 1, dell'Accordo stesso.
 
-### Art. 3
+## Art. 3
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -93,7 +93,7 @@ convinti che la liberta' delle persone di circolare sul territorio dell'altra pa
 
 decisi ad attuare la libera circolazione delle persone tra loro basandosi sulle disposizioni applicate nella Comunita' europea, hanno deciso di concludere il seguente Accordo:
 
-### Articolo 1
+## Articolo 1
 
 Obiettivo
 
@@ -107,25 +107,25 @@ c) conferire un diritto di ingresso e di soggiorno, sul territorio delle parti c
 
 d) garantire le stesse condizioni di vita, di occupazione e di lavoro di cui godono i cittadini nazionali.
 
-### Articolo 2
+## Articolo 2
 
 Non discriminazione
 
 In conformita' delle disposizioni degli allegati I, II e III del presente Accordo, i cittadini di una parte contraente che soggiornano legalmente sul territorio di un'altra parte contraente non sono oggetto, nell'applicazione di dette disposizioni, di alcuna discriminazione fondata sulla nazionalita'
 
-### Articolo 3
+## Articolo 3
 
 Diritto di ingresso
 
 Ai cittadini di una parte contraente e' garantito il diritto di ingresso nel territorio dell'altra parte contraente conformemente alle disposizioni di cui all'allegato I.
 
-### Articolo 4
+## Articolo 4
 
 Diritto di soggiorno e di accesso a un'attivita' economica
 
 Il diritto di soggiorno e di accesso a un'attivita' economica e' garantito fatte salve le disposizioni dell'articolo 10 e conformemente alle disposizioni dell'allegato I.
 
-### Articolo 5
+## Articolo 5
 
 Prestazione di servizi
 
@@ -141,13 +141,13 @@ b) oppure, qualora non siano soddisfatte le condizioni di cui alla lettera a), s
 
 4\) I diritti di cui al presente articolo sono garantiti conformemente alle disposizioni degli allegati I, II e III. Le restrizioni quantitative di cui all'articolo 10 non sono applicabili alle persone di cui al presente articolo.
 
-### Articolo 6
+## Articolo 6
 
 Diritto di soggiorno per le persone che non svolgono un'attivita' economica
 
 Alle persone che non svolgono un'attivita' economica e' garantito il diritto di soggiorno sul territorio di una parte contraente conformemente alle disposizioni dell'allegato I relative alle persone che non svolgono attivita'.
 
-### Articolo 7
+## Articolo 7
 
 Altri diritti
 
@@ -167,7 +167,7 @@ f) il diritto di acquistare immobili nella misura in cui cio' sia collegato all'
 
 g) durante il periodo transitorio, il diritto, al termine di un'attivita' economica o di un soggiorno sul territorio di una parte contraente, di ritornarvi per esercitare un'attivita' economica, nonche' il diritto alla trasformazione di un titolo temporaneo di soggiorno in titolo permanente.
 
-### Articolo 8
+## Articolo 8
 
 Coordinamento dei sistemi di sicurezza sociale
 
@@ -183,7 +183,7 @@ d) il pagamento delle prestazioni alle persone che risiedono sul territorio dell
 
 e) la mutua assistenza e la cooperazione amministrativa tra le autorita' e le istituzioni.
 
-### Articolo 9
+## Articolo 9
 
 Diplomi certificati e altri titoli
 
@@ -191,7 +191,7 @@ Per agevolare ai cittadini degli Stati membri della Comunita' europea e della Sv
 
 ## II. Disposizioni generali e finali
 
-### Articolo 10
+## Articolo 10
 
 Disposizioni transitorie ed evoluzione dell'Accordo
 
@@ -213,7 +213,7 @@ Fatte salve le disposizioni del comma precedente, il numero di nuove carte di so
 
 8\) Le disposizioni transitorie in materia di sicurezza sociale e di trasferimento dei contributi ai fondi per la disoccupazione sono disciplinate dal protocollo all'allegato II.
 
-### Articolo 11
+## Articolo 11
 
 Trattazione dei ricorsi
 
@@ -223,19 +223,19 @@ Trattazione dei ricorsi
 
 3\) Le decisioni prese previo ricorso, o l'assenza di decisioni entro un periodo di tempo ragionevole, offrono alle persone di cui al presente Accordo la possibilita' di presentare appello all'autorita' giudiziaria nazionale competente.
 
-### Articolo 12
+## Articolo 12
 
 Disposizioni piu' favorevoli
 
 Il presente Accordo non pregiudica eventuali disposizioni nazionali piu' favorevoli tanto per i cittadini delle parti contraenti quanto per i membri della loro famiglia.
 
-### Articolo 13
+## Articolo 13
 
 Standstill
 
 Le parti contraenti si impegnano a non adottare nuove misure restrittive nel confronti dei cittadini dell'altra parte nel campo di applicazione del presente Accordo.
 
-### Articolo 14
+## Articolo 14
 
 Comitato misto
 
@@ -253,13 +253,13 @@ Le misure prescelte devono perturbare il meno possibile il funzionamento del pre
 
 6\) E Comitato misto puo' decidere di costituire gruppi di lavoro o di esperti incaricati di assisterlo nello svolgimento delle sue mansioni.
 
-### Articolo 15
+## Articolo 15
 
 Allegati e protocolli
 
 Gli allegati e i protocolli del presente Accordo ne costituiscono parte integrante. L'atto finale contiene le dichiarazioni.
 
-### Articolo 16
+## Articolo 16
 
 Riferimento al diritto comunitario
 
@@ -267,7 +267,7 @@ Riferimento al diritto comunitario
 
 2\) Nella misura in cui l'applicazione del presente Accordo implica nozioni di diritto comunitario, si terra' conto della giurisprudenza pertinente della Corte di giustizia delle Comunita' europee precedente alla data della sua firma. La giurisprudenza della Corte successiva alla firma del presente Accordo verra' comunicata alla Svizzera. Per garantire il corretto funzionamento dell'Accordo, il Comitato misto determina, su richiesta di una delle parti contraenti, le implicazioni di tale giurisprudenza.
 
-### Articolo 17
+## Articolo 17
 
 Evoluzione del diritto
 
@@ -275,13 +275,13 @@ Evoluzione del diritto
 
 2\) Il Comitato misto procede a uno scambio di opinioni sulle implicazioni di una siffatta modifica per il corretto finanziamento dell'Accordo.
 
-### Articolo 18
+## Articolo 18
 
 Riesame
 
 Qualora una parte contraente desideri un riesame del presente Accordo, presenta una proposta a tal fine al Comitato misto. Le modifiche del presente Accordo entrano in vigore dopo la conclusione delle rispettive procedure interne, ad eccezione delle modifiche degli allegati II e III, che sono decise dal Comitato misto e possono entrare in vigore subito dopo la decisione.
 
-### Articolo 19
+## Articolo 19
 
 Composizione delle controversie
 
@@ -289,13 +289,13 @@ Composizione delle controversie
 
 2\) Il Comitato misto puo' comporre la controversia. Ad esso vengono fornite tutte le informazioni utili per un esame approfondito della situazione ai fini di una soluzione accettabile. A tal fine, il Comitato misto esamina tutte le possibilita' che consentono di garantire il corretto funzionamento del presente Accordo.
 
-### Articolo 20
+## Articolo 20
 
 Relazione con gli accordi bilaterali in materia di sicurezza sociale
 
 Salvo disposizione contraria contenuta nell'allegato II, gli accordi bilaterali tra la Svizzera e gli Stati membri della Comunita' europea in materia di sicurezza sociale vengono sospesi a decorrere dall'entrata in vigore del presente Accordo qualora il medesimo campo sia disciplinato da quest'ultimo.
 
-### Articolo 21
+## Articolo 21
 
 Relazione con gli accordi bilaterali in materia di doppia imposizione
 
@@ -305,7 +305,7 @@ Relazione con gli accordi bilaterali in materia di doppia imposizione
 
 3\) Nessun elemento del presente Accordo vieta alle parti contraenti di adottare o di applicare misure volte a garantire l'imposizione, il pagamento o il recupero effettivo delle imposte o a prevenire l'evasione fiscale conformemente alle disposizioni della normativa tributaria nazionale di una parte contraente o agli accordi tra la Svizzera, da un lato, e uno o piu' Stati membri della Comunita' europea, dall'altro, volti ad evitare la doppia imposizione, oppure di altre intese fiscali.
 
-### Articolo 22
+## Articolo 22
 
 Relazione con gli accordi bilaterali in settori diversi dalla sicurezza sociale e dalla doppia imposizione
 
@@ -313,19 +313,19 @@ Relazione con gli accordi bilaterali in settori diversi dalla sicurezza sociale 
 
 2\) In caso di incompatibilita' tra tali accordi e il presente Accordo, prevale quest'ultimo.
 
-### Articolo 23
+## Articolo 23
 
 Diritti acquisiti
 
 In caso di denuncia o di mancato rinnovo i diritti acquisiti dai privati restano immutati. Le parti contraenti decideranno di comune Accordo sul seguito da dare ai diritti in fase di acquisizione.
 
-### Articolo 24
+## Articolo 24
 
 Campo d'applicazione territoriale
 
 Il presente Accordo si applica, da un lato, al territorio della Svizzera e, dall'altro, ai territori in cui si applica il trattato che istituisce la Comunita' europea, alle condizioni in esso indicate.
 
-### Articolo 25
+## Articolo 25
 
 Entrata in vigore e durata
 
@@ -357,7 +357,7 @@ Allegato I
 
 Libera circolazione delle persone
 
-### Articolo 1
+## Articolo 1
 
 Ingresso e uscita
 
@@ -371,7 +371,7 @@ Le parti contraenti rilasciano o rinnovano ai loro cittadini, in conformita' del
 
 Il passaporto deve essere valido almeno per tutte le parti contraenti e per i paesi di transito diretto fra dette parti. Se il passaporto e' l'unico documento valido per uscire dal paese, la sua validita' non deve essere inferiore a cinque anni.
 
-### Articolo 2
+## Articolo 2
 
 Soggiorno e attivita' economica
 
@@ -387,7 +387,7 @@ Essi possono essere esclusi dall'assistenza sociale durante tale soggiorno.
 
 4\) Le parti contraenti possono imporre ai cittadini delle altre parti contraenti l'obbligo di segnalare la loro presenza sul territorio.
 
-### Articolo 3
+## Articolo 3
 
 Membri della famiglia
 
@@ -421,7 +421,7 @@ c. per le persone a carico, un documento rilasciato dall'autorita' competente de
 
 Le parti contraenti incoraggiano le iniziative intese a permettere a questi giovani di frequentare i suddetti corsi nelle migliori condizioni.
 
-### Articolo 4
+## Articolo 4
 
 Diritto di rimanere
 
@@ -429,7 +429,7 @@ Diritto di rimanere
 
 2\) Conformemente all'articolo 16 dell'Accordo, si fa riferimento al regolamento (CEE) n. 1251/70 (GU L 142 del 1970, pag. 24) (secondo il testo in vigore al momento della firma dell'Accordo) e alla direttiva 75/34/CEE(GU L 14 del 1975, pag. 10) (secondo il testo in vigore al momento della firma dell'Accordo).
 
-### Articolo 5
+## Articolo 5
 
 Ordine pubblico
 
@@ -443,7 +443,7 @@ Ordine pubblico
 
 ## II. LAVORATORI DIPENDENTI
 
-### Articolo 6
+## Articolo 6
 
 Disciplina del soggiorno
 
@@ -467,7 +467,7 @@ b) una dichiarazione di assunzione del datore di lavoro o un attestato di lavoro
 
 7\) L'adempimento delle formalita' necessarie per ottenere la carta di soggiorno non puo' costituire un impedimento all'immediata esecuzione dei contratti di lavoro conclusi dai richiedenti.
 
-### Articolo 7
+## Articolo 7
 
 Lavoratori dipendenti frontalieri
 
@@ -479,7 +479,7 @@ Tuttavia, l'autorita' competente dello Stato d'impiego puo' rilasciare al lavora
 
 3\) La carta speciale e' valida per tutto il territorio dello Stato che l'ha rilasciata.
 
-### Articolo 8
+## Articolo 8
 
 Mobilita' professionale e geografica
 
@@ -487,7 +487,7 @@ Mobilita' professionale e geografica
 
 2\) La mobilita' professionale comprende il cambiamento di datore di lavoro, di impiego, di professione e il passaggio da un'attivita' dipendente a un'attivita' autonoma. La mobilita' geografica comprende il cambiamento di luogo di lavoro e di soggiorno.
 
-### Articolo 9
+## Articolo 9
 
 Parita' di trattamento
 
@@ -509,13 +509,13 @@ Detto lavoratore puo' iscriversi, nella regione in cui e' occupato, allo stesso 
 
 7\) La sua famiglia, rimasta nello Stato di provenienza, e' considerata a tal fine come se fosse residente nella predetta regione, nei limiti in cui un'analoga presunzione valga per i lavoratori nazionali.
 
-### Articolo 10
+## Articolo 10
 
 Impiego presso la pubblica amministrazione
 
 Al cittadino di una parte contraente che esercita un'attivita' dipendente puo' essere rifiutato il diritto di occupare, presso la pubblica amministrazione, un posto legato all'esercizio della pubblica podesta' e destinato a tutelare gli interessi generali dello Stato o di altre collettivita' pubbliche.
 
-### Articolo 11
+## Articolo 11
 
 Collaborazione in materia di collocamento
 
@@ -523,7 +523,7 @@ Le parti contraenti collaborano, nell'ambito della rete EURES (European Employme
 
 ## III. AUTONOMI
 
-### Articolo 12
+## Articolo 12
 
 Disciplina del soggiorno
 
@@ -543,7 +543,7 @@ b) della prova di cui ai paragrafi 1 e 2.
 
 6\) La carta di soggiorno in corso di validita' non puo' essere ritirata alle persone di cui al paragrafo 1 per il solo fatto di non esercitare piu' un'attivita' a causa di una incapacita' temporanea di lavoro dovuta a malattia o infortunio.
 
-### Articolo 13
+## Articolo 13
 
 Lavoratori autonomi frontalieri
 
@@ -555,7 +555,7 @@ Tuttavia, l'autorita' competente dello Stato interessato puo' concedere al lavor
 
 3\) La carta speciale e' valida in tutto il territorio dello Stato che l'ha rilasciata.
 
-### Articolo 14
+## Articolo 14
 
 Mobilita' professionale e geografica
 
@@ -563,7 +563,7 @@ Mobilita' professionale e geografica
 
 2\) La mobilita' professionale comprende il cambiamento di professione e il passaggio da un'attivita' autonoma a un'attivita' dipendente. La mobilita' geografica comprende il cambiamento del luogo di lavoro e di soggiorno.
 
-### Articolo 15
+## Articolo 15
 
 Parita' di trattamento
 
@@ -571,7 +571,7 @@ Parita' di trattamento
 
 2\) Le disposizioni dell'articolo 9 del presente allegato si applicano, mutatis mutandis, ai lavoratori autonomi di cui al presente capo.
 
-### Articolo 16
+## Articolo 16
 
 Esercizio della pubblica potesta'
 
@@ -579,7 +579,7 @@ Al lavoratore autonomo puo' essere rifiutato il diritto di praticare un'attivita
 
 ## IV. PRESTAZIONE DI SERVIZI
 
-### Articolo 17
+## Articolo 17
 
 Prestazione di servizi
 
@@ -593,15 +593,15 @@ i) i cittadini degli Stati membri della Comunita' europea o della Svizzera prest
 
 ii) i lavoratori dipendenti, a prescindere dalla nazionalita', di un prestatore di servizi integrati nel mercato regolare del lavoro di una parte contraente e che sono distaccati per la prestazione di un servizio sul territorio di un'altra parte contraente, fatte salve le disposizioni dell'articolo 1.
 
-### Articolo 18
+## Articolo 18
 
 Le disposizioni di cui all'articolo 17 del presente Allegato si applicano a societa' costituite in conformita' della legislazione di uno Stato membro della Comunita' europea o della Svizzera e che abbiano sede sociale, amministrazione centrale o sede principale sul territorio di una parte contraente.
 
-### Articolo 19
+## Articolo 19
 
 Il prestatore di servizi che ha il diritto di, o e' stato autorizzato a, fornire un servizio puo' esercitare, per l'esecuzione della sua prestazione, a titolo temporaneo, la propria attivita' nello Stato in cui la prestazione e' fornita alle stesse condizioni che lo Stato in questione impone ai suoi cittadini, conformemente alle disposizioni del presente allegato e degli allegati II e III.
 
-### Articolo 20
+## Articolo 20
 
 1\) Alle persone di cui all'articolo 17, lettera b), del presente Allegato che hanno il diritto di prestare un servizio, non occorre un documento di soggiorno per soggiorni di durata inferiore o uguale a 90 giorni. Il soggiorno e' coperto dai documenti di cui all'articolo 1, in forza dei quali dette persone sono entrate nel territorio.
 
@@ -615,13 +615,13 @@ a) il documento in forza del quale sono entrate nel loro territorio;
 
 b) la prova che esse effettuano o desiderano effettuare una prestazione di servizi.
 
-### Articolo 21
+## Articolo 21
 
 1\) La durata complessiva di una prestazione di servizi di cui all'articolo 17, lettera a) del presente Allegato - che si tratti di una prestazione ininterrotta o di prestazioni successive -, non puo' superare 90 giorni di lavoro effettivo per anno civile.
 
 2\) Le disposizioni del paragrafo 1 non pregiudicano ne' l'adempimento degli obblighi legali del prestatore di servizi nei confronti dell'obbligo di garanzia verso il destinatario di servizi ne' casi di forza maggiore.
 
-### Articolo 22
+## Articolo 22
 
 1\) Le disposizioni degli articoli 17 e 19 del presento Allegato non si applicano alla attivita' legate anche occasionalmente, in tale parte contraente, all'esercizio della pubblica autorita' nella parte contraente interessata.
 
@@ -639,7 +639,7 @@ ii) i servizi finanziari la cui prestazione esige un'autorizzazione preliminare 
 
 (3) secondo il testo in vigore al momento della firma dell'Accordo
 
-### Articolo 23
+## Articolo 23
 
 Destinatario di servizi
 
@@ -649,7 +649,7 @@ Destinatario di servizi
 
 ## V. PERSONE CHE NON ESERCITANO UN'ATTIVITA' ECONOMICA
 
-### Articolo 24
+## Articolo 24
 
 Disciplina del soggiorno
 
@@ -683,7 +683,7 @@ persone che non hanno il domicilio nel paese deve comprendere anche prestazioni 
 
 ## VI. ACQUISTO DI IMMOBILI
 
-### Articolo 25
+## Articolo 25
 
 1\) Il cittadino di una parte contraente che gode di un diritto di soggiorno o che fissa la propria residenza principale nello Stato ospitante ha gli stessi diritti di un cittadino nazionale per quanto riguarda l'acquisto di immobili. Egli puo', in qualsiasi momento, fissare la propria residenza principale nello Stato ospitante, conformemente alle norme nazionali, a prescindere dalla durata del suo impiego. La partenza dallo Stato ospitante non implica alcun obbligo di alienazione.
 
@@ -693,7 +693,7 @@ persone che non hanno il domicilio nel paese deve comprendere anche prestazioni 
 
 ## VII. DISPOSIZIONI TRANSITORIE ED EVOLUZIONE DELL'ACCORDO
 
-### Articolo 26
+## Articolo 26
 
 Generalita'
 
@@ -701,7 +701,7 @@ Generalita'
 
 2\) Quando sono applicate le restrizioni previste all'articolo 10 del presente Accordo, l'esercizio di un'attivita' economica e' soggetto al rilascio di un permesso di soggiorno e/o di lavoro.
 
-### Articolo 27
+## Articolo 27
 
 Disciplina: del soggiorno dei lavoratori dipendenti
 
@@ -717,7 +717,7 @@ b) Coloro che abbiano occupato precedentemente un posto di lavoro stagionale sul
 
 (5) Essi non sono soggetti ne' alla precedenza data ai lavoratori cittadini nazionali, ne' al controllo del rispetto delle condizioni di lavoro e di retribuzione nel settore e nel posto.
 
-### Articolo 28
+## Articolo 28
 
 Lavoratori dipendenti frontalieri
 
@@ -725,7 +725,7 @@ Lavoratori dipendenti frontalieri
 
 2\) La carta speciale e' valida per tutta la zona frontaliera dello Stato che l'ha rilasciata.
 
-### Articolo 29
+## Articolo 29
 
 Diritto al ritorno dei lavoratori dipendenti
 
@@ -735,7 +735,7 @@ Diritto al ritorno dei lavoratori dipendenti
 
 3\) I giovani che hanno lasciato il territorio di una parte contraente dopo avervi soggiornato per almeno cinque anni prima di compiere 21 anni potranno ritornarvi entro quatto anni ed esercitare un'attivita' economica.
 
-### Articolo 30
+## Articolo 30
 
 Mobilita' geografica e professionale dei dipendenti
 
@@ -745,13 +745,13 @@ E' possibile passare da un'attivita' dipendente ad un'attivita' indipendente, fa
 
 2\) Le carte speciali rilasciate ai lavoratori frontalieri dipendenti danno diritto alla mobilita' professionale e geografica all'interno delle zone frontaliere della Svizzera o degli Stati limitrofi.
 
-### Articolo 31
+## Articolo 31
 
 Disciplina del soggiorno dei lavoratori autonomi
 
 Il cittadino di una parte contraente che desideri stabilirsi sul territorio di un'altra parte contraente per esercitare un'attivita' indipendente (in appresso denominato lavoratore autonomo) riceve una carta di soggiorno della durata di sei mesi. Egli riceve una carta di soggiorno della durata di almeno cinque anni purche' dimostri allo autorita' nazionali competenti, prima del termine del periodo di sei mesi, di esercitare un'attivita' indipendente. Tale periodo di sei mesi puo', all'occorrenza, essere prorogato di due mesi al massimo qualora il lavoratore possa effettivamente presentare la prova richiesta.
 
-### Articolo 32
+## Articolo 32
 
 Lavoratori autonomi frontalieri
 
@@ -761,7 +761,7 @@ Lavoratori autonomi frontalieri
 
 3\) La carta speciale e' valida per tutta la zona frontaliera dello Stato che l'ha rilasciata.
 
-### Articolo 33
+## Articolo 33
 
 Diritto al ritorno dei lavoratori autonomi
 
@@ -771,7 +771,7 @@ Diritto al ritorno dei lavoratori autonomi
 
 3\) I giovani che hanno lasciato il territorio di una parte contraente dopo avervi soggiornato per almeno cinque anni prima di compiere 21 anni potranno ritornarvi entro quattro anni ed esercitare un'attivita' economica.
 
-### Articolo 34
+## Articolo 34
 
 Mobilita' geografica e professionale dei lavoratori autonomi
 
@@ -781,25 +781,25 @@ ALLEGATO II
 
 Coordinamento dei sistemi di sicurezza sociale
 
-### Articolo 1
+## Articolo 1
 
 (1) Le parti contraenti convengono di applicare tra di esse, nel campo del Coordinamento dei sistemi di sicurezza sociale, gli atti comunitari cui e' fatto riferimento in vigore al momento o della firma dell'Accordo, modificati dalla sezione A del presente allegato o regole ad essi equivalenti.
 
 (2) I termini "Stato membro" o "Stati membri" che figurano negli atti cui e' fatto riferimento nella sezione A del presente allegato comprendono, oltre al significato che hanno nei pertinenti atti comunitari, la Svizzera.
 
-### Articolo 2
+## Articolo 2
 
 (1) Ai fini dell'applicazione del presente allegato le parti contraenti prendono in considerazione gli atti comunitari cui e' fatto riferimento, adattati dalla sezione B del presente allegato.
 
 (2) Ai fini dell'applicazione del presente allegato, le parti contraenti prendono atto degli atti comunitari cui e' fatto riferimento nella sezione C del presente allegato.
 
-### Articolo 3
+## Articolo 3
 
 (1) Il regime relativo all'assicurazione contro la disoccupazione dei lavoratori comunitari che beneficiano di un titolo di soggiorno svizzero di una durata inferiore a un anno e' previsto in un protocollo annesso al presente allegato.
 
 (2) Il protocollo costituisce parte integrante del presente allegato.
 
-### Sezione A
+## Sezione A
 
 SEZIONE A: ATTI CUI E' FATTO RIFERIMENTO
 
@@ -1405,7 +1405,7 @@ Nulla.
 
 3\. 398 L 49: Direttiva 98/49 CE del Consiglio del 29 giugno 1998 relativa alla salvaguardia dei diritti a pensione complementare dei lavoratori subordinati e dei lavoratori autonomi che si spostano all'interno della Comunita' europea (GU L 209 del 25.7.1998, pag. 46).
 
-### Sezione B
+## Sezione B
 
 SEZIONE B: ATTI DI CUI LE PARTI CONTRAENTI TENGONO DEBITO CONTO
 
@@ -1599,7 +1599,7 @@ Ufficio federale delle assicurazioni sociali, Berna.
 
 4.55 398 D 565: Decisione n. 170 dell'11 giugno 1998, che modifica la decisione n. 141, del 17 ottobre 1989, sulla messa a punto degli inventari previsti dall'articolo 94, paragrafo 4, e dall'articolo 95, paragrafo 4, del regolamento (CEE) n. 574/72 del Consiglio del 21 marzo 1972 (GU L 275 del 10.10.1998, pag. 40).
 
-### Sezione C
+## Sezione C
 
 SEZIONE C: ATTI DI CUI LE PARTI CONTRAENTI PRENDONO ATTO
 
@@ -1633,7 +1633,7 @@ Le parti contraenti prendono atto del contenuto dei seguenti atti:
 
 6.4 L/90/87/pag. 39: Dichiarazione della Repubblica francese in applicazione dell'articolo 1, lettera j) del regolamento (CEE) n. 1408/71 del Consiglio, del 14 giugno 1971, relativo all'applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all'interno della Comunita' (GU L 90 del 2.4.19 97, pag. 39).
 
-### Protocollo
+## Protocollo
 
 Protocollo addizionale all'allegato II all'Accordo tra la Confederazione svizzera da un lato e la Comunita' europea e i suoi Stati membri dall'altro sulla libera circolazione delle persone
 
@@ -1679,7 +1679,7 @@ Previdenza professionale per la vecchiaia, i superstiti e l'invalidita'
 
 Fatto salvo l'articolo 10, paragrafo 2 del regolamento n. 1408/71, la prestazione di uscita prevista dalla legge federale svizzera sul libero passaggio alla previdenza professionale per la vecchiaia, i superstiti e l'invalidita' del 17 dicembre 1993 sara' versata a richiesta a un lavoratore dipendente o indipendente che intenda lasciare definitivamente la Svizzera e che non sara' piu' soggetto alla legislazione svizzera secondo le disposizioni del titolo II del regolamento, a condizione che detta persona lasci la Svizzera entro cinque anni dall'entrata in vigore del presente Accordo.
 
-### Allegato III
+## Allegato III
 
 ALLEGATO III
 
@@ -1693,7 +1693,7 @@ RECIPROCO RICONOSCIMENTO DELLE QUALIFICHE PROFESSIONALI
 
 3\. Il termine "Stato(i) membro(i)" figurante negli atti al quali e' fatto riferimento nella sezione A del presente allegato e' considerato applicarsi, oltre che agli Stati interessati dagli atti comunitari in questione, alla Svizzera.
 
-### Sezione A
+## Sezione A
 
 SEZIONE A - ATTI AI QUALI E' FATTO RIFERIMENTO
 
@@ -2449,7 +2449,7 @@ K. VARIE
 
 56\. 385 D 0368: Decisione 85/368/CEE del Consiglio, del 16 luglio 1985, relativa alla corrispondenza delle qualifiche di formazione professionale tra gli Stati membri delle Comunita' europee (GU L 199 del 31.7.1985, p. 56).
 
-### Sezione B
+## Sezione B
 
 SEZIONE B - ATTI DI CUI LE PARTI CONTRAENTI PRENDONO ATTO
 
@@ -2505,19 +2505,19 @@ Industria e artigianato
 
 72\. 369 X 0174: Raccomandazione 69/174/CEE della Commissione, del 22 maggio 1969, rivolta agli Stati membri, relativa alle attestazioni concernenti l'esercizio della professione nel paese di provenienza di cui all'articolo 5, paragrafo 2, della direttiva 68/366/CEE del Consiglio (GU L 146 del 18.6.1969, p. 4).
 
-### Protocollo
+## Protocollo
 
 PROTOCOLLO SULLE RESIDENZE SECONDARIE IN DANIMARCA
 
 Le Parti contraenti convengono che il Protocollo n. 1 del trattato che istituisce la Comunita' europea, concernente l'acquisto di beni immobili in Danimarca, si applica anche al presente Accordo relativamente all'acquisto in Danimarca di residenze secondarie da parte di cittadini svizzeri.
 
-### Protocollo
+## Protocollo
 
 PROTOCOLLO CONCERNENTE LE ISOLE ALAND
 
 "Le Parti contraenti convengono che il Protocollo n. 2 dell'Atto di adesione della Finlandia all'Unione europea, concernente le Isole Aland, si applica anche al presente Accordo.
 
-### Atto Finale
+## Atto Finale
 
 ATTO FINALE
 

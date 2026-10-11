@@ -56,11 +56,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I - Disposizioni in materia di trasparenza
+## Capo I - Disposizioni in materia di trasparenza dei pagamenti (( - attuazione del Capo 10 della direttiva 2013/34/UE))
 
-### dei pagamenti (( - attuazione - del Capo 10 della direttiva 2013/34/UE))
-
-##### Art. 1
+### Art. 1
 
 Definizioni
 
@@ -284,7 +282,7 @@ m) «progetto»: attivita' operativa regolata da contratti, licenze, contratti d
 
 > Il regolamento (CE) n. 1893/2006 e' pubblicato nella G.U.U.E. 30 dicembre 2006, n. L 393.
 
-##### Art. 2
+### Art. 2
 
 Ambito di applicazione
 
@@ -296,7 +294,7 @@ a) sono societa' madri;
 
 b) almeno una delle societa' figlie opera in uno dei settori di cui all'articolo 1, comma 1, lettere h) ed i), ed e' altresi' tenuta alla redazione della relazione di cui al comma 1.
 
-##### Art. 3
+### Art. 3
 
 Contenuto della relazione sui pagamenti ai governi
 
@@ -316,7 +314,7 @@ c) l'elencazione e l'importo dei pagamenti attribuibili a ciascun progetto.
 
 5\. I pagamenti in natura effettuati ai governi sono indicati in valore illustrando i criteri applicati per determinarlo. L'ulteriore indicazione in termini di quantita' e' effettuata quando risulti opportuna per finalita' di chiarezza.
 
-##### Art. 4
+### Art. 4
 
 Esenzioni e regime di equivalenza
 
@@ -348,7 +346,7 @@ c) le azioni o le quote della societa' figlia sono possedute esclusivamente allo
 
 > Per i riferimenti alla direttiva 2013/34/UE si vedano le note alle premesse.
 
-##### Art. 5
+### Art. 5
 
 Pubblicita' e sanzioni
 
@@ -370,13 +368,9 @@ Pubblicita' e sanzioni
 
 > Se si tratta di omesso deposito dei bilanci, la sanzione amministrativa pecuniaria e' aumentata di un terzo."
 
-## ((Capo I-bis)) - ((Comunicazione delle informazioni sull'imposta
+## ((Capo I-bis)) - ((Comunicazione delle informazioni sull'imposta sul reddito da parte di talune imprese e succursali - attuazione del Capo 10-bis della direttiva 2013/34/UE))
 
-### sul reddito da parte di talune imprese - e succursali - attuazione del Capo 10-bis
-
-#### della direttiva 2013/34/UE))
-
-##### Art. 5-bis
+### Art. 5-bis
 
 (( (Definizioni). ))
 
@@ -410,7 +404,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 4 settembre 2024, n. 128 ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi finanziari aventi inizio il 22 giugno 2024 o dopo tale data".
 
-##### Art. 5-ter
+### Art. 5-ter
 
 (( (Ambito di applicazione). ))
 
@@ -452,7 +446,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 4 settembre 2024, n. 128 ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi finanziari aventi inizio il 22 giugno 2024 o dopo tale data".
 
-##### Art. 5-quater
+### Art. 5-quater
 
 (( (Esenzioni ed equivalenza). ))
 
@@ -492,7 +486,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 4 settembre 2024, n. 128 ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi finanziari aventi inizio il 22 giugno 2024 o dopo tale data".
 
-##### Art. 5-quinquies
+### Art. 5-quinquies
 
 (( (Contenuto della comunicazione sulle imposte sul reddito). ))
 
@@ -556,7 +550,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 4 settembre 2024, n. 128 ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi finanziari aventi inizio il 22 giugno 2024 o dopo tale data".
 
-##### Art. 5-sexies
+### Art. 5-sexies
 
 (( (Pubblicazione e accessibilita'). ))
 
@@ -574,7 +568,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 4 settembre 2024, n. 128 ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi finanziari aventi inizio il 22 giugno 2024 o dopo tale data".
 
-##### Art. 5-septies
+### Art. 5-septies
 
 (( (Responsabilita' in materia di redazione, pubblicazione e messa a disposizione della comunicazione delle informazioni sull'imposta sul reddito). ))
 
@@ -588,7 +582,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 4 settembre 2024, n. 128 ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi finanziari aventi inizio il 22 giugno 2024 o dopo tale data".
 
-##### Art. 5-octies - Dichiarazione del revisore legale
+### Art. 5-octies - Dichiarazione del revisore legale
 
 1\. Il soggetto incaricato di effettuare la revisione legale dei conti delle societa' di cui al comma 1 dell'articolo 5-ter, verifica:
 
@@ -608,7 +602,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 4 settembre 2024, n. 128 ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi finanziari aventi inizio il 22 giugno 2024 o dopo tale data".
 
-##### Art. 5-novies
+### Art. 5-novies
 
 (( (Sanzioni). ))
 
@@ -628,11 +622,9 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 4 settembre 2024, n. 128 ha disposto (con l'art. 3, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi finanziari aventi inizio il 22 giugno 2024 o dopo tale data".
 
-## Capo II - Disposizioni in materia di bilancio di esercizio
+## Capo II - Disposizioni in materia di bilancio di esercizio e consolidato
 
-### e consolidato
-
-##### Art. 6
+### Art. 6
 
 Modifiche al codice civile
 
@@ -1482,7 +1474,7 @@ Le societa' che si avvalgono delle esenzioni previste del presente articolo devo
 
 > Gli utili erogati in violazione delle disposizioni del presente articolo non sono ripetibili se i soci li hanno riscossi in buona fede in base a bilancio regolarmente approvato, da cui risultano utili netti corrispondenti."
 
-##### Art. 7
+### Art. 7
 
 Modifiche al decreto legislativo 9 aprile 1991, n. 127
 
@@ -1884,11 +1876,9 @@ b) il comma 2 e' abrogato.
 
 > 2\. (Abrogato)"
 
-## Capo III - Disposizioni di coordinamento per altri
+## Capo III - Disposizioni di coordinamento per altri provvedimenti legislativi
 
-### provvedimenti legislativi
-
-##### Art. 8
+### Art. 8
 
 Modifiche al decreto legislativo 26 maggio 1997, n. 173
 
@@ -2004,7 +1994,7 @@ g) dopo il comma 16 e' inserito il seguente: «16-bis. Fermo restando quanto dis
 
 > 3\. I titoli costituiti in deposito presso un'impresa cedente o terzi e che restano di proprieta' dell'impresa che accetta la riassicurazione figurano, alla voce appropriata, tra gli investimenti di quest'ultima. In nota integrativa si riporta il corrispondente importo."
 
-##### Art. 9
+### Art. 9
 
 Modifiche al decreto legislativo 28 gennaio 2005, n. 38
 
@@ -2048,7 +2038,7 @@ b) alla lettera d) le parole: «comma 2» sono sostituite dalle seguenti: «comm
 
 > 3\. La Commissione nazionale per le societa' e la borsa predispone gli schemi di bilancio per le societa' di cui alle lettere a) e b) del comma 1 dell'articolo 2, diverse da quelle di cui alle lettere c) e d) del comma 1 dell'articolo 2."
 
-##### Art. 10
+### Art. 10
 
 Modifiche al decreto legislativo 27 gennaio 2010, n. 39
 
@@ -2090,13 +2080,13 @@ Modifiche al decreto legislativo 27 gennaio 2010, n. 39
 
 > 7\. Il revisore legale o la societa' di revisione legale incaricati della revisione del bilancio consolidato devono conservare copia dei documenti e delle carte di lavoro relativi al lavoro di revisione svolto dai revisori e dagli enti di revisione dei Paesi terzi o, in alternativa, devono concordare con detti soggetti l'accesso a tale documentazione. La presenza di ostacoli legali alla trasmissione di tale documentazione deve essere comprovata nelle carte di lavoro del revisore legale o della societa' di revisione legale incaricati della revisione del bilancio consolidato."
 
-##### Art. 11
+### Art. 11
 
 Clausola di invarianza finanziaria
 
 1\. Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
-##### Art. 12
+### Art. 12
 
 Disposizioni finali, transitorie
 

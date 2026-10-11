@@ -30,11 +30,9 @@ la seguente legge:
 
 ## Capo I - Disposizioni in tema di riordino delle concessioni autostradali
 
-### Sezione I
+### Sezione I - Finalità e ambito di applicazione
 
-#### Finalità e ambito di applicazione
-
-##### Art. 1
+#### Art. 1
 
 Ambito di applicazione, finalita' e definizioni
 
@@ -84,9 +82,9 @@ u) «tratte autostradali»: le strade di cui all'articolo 2, comma 2, lettera A,
 
 v) «valore di subentro»: l'indennizzo a carico del nuovo concessionario subentrante ((, nelle ipotesi di cui all'articolo 191, comma 3, del codice dei contratti pubblici,)) per gli investimenti relativi alle opere assentite che il concessionario uscente ha gia' eseguito e non ancora ammortizzato alla scadenza della concessione, pari al costo effettivamente sostenuto, al netto degli ammortamenti, dei beni reversibili non ancora ammortizzati, come risultante dal bilancio di esercizio dell'anno in corso alla data in cui termina la concessione, e delle variazioni eseguite ai fini regolatori.
 
-## Sezione II - Aggiudicazione delle concessioni autostradali
+### Sezione II - Aggiudicazione delle concessioni autostradali
 
-##### Art. 2
+#### Art. 2
 
 Ambiti ottimali di gestione delle tratte autostradali
 
@@ -96,7 +94,7 @@ Ambiti ottimali di gestione delle tratte autostradali
 
 > \- Per il testo dell'articolo 37, comma 2, lettera g-bis), del decreto-legge 6 dicembre 2011, n. 201 (Disposizioni urgenti per la crescita, l'equita' e il consolidamento dei conti pubblici), convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, si veda nelle note all'art. 16.
 
-##### Art. 3
+#### Art. 3
 
 Modalita' di affidamento delle concessioni autostradali
 
@@ -162,7 +160,7 @@ b) affidamento a una societa' in house, diversa dalla societa' di cui alla lette
 
 > (Omissis).».
 
-##### Art. 4
+#### Art. 4
 
 Bando di gara e criteri di aggiudicazione
 
@@ -204,9 +202,9 @@ b) pone a base di gara per la progettazione e l'esecuzione dei lavori e delle op
 
 > (Omissis).».
 
-## Sezione III - Affidamenti in house
+### Sezione III - Affidamenti in house
 
-##### Art. 5
+#### Art. 5
 
 Affidamento in house delle concessioni autostradali
 
@@ -228,9 +226,9 @@ Affidamento in house delle concessioni autostradali
 
 9\. L'aggiornamento periodico delle convenzioni e dei relativi PEF e' definito con apposito atto aggiuntivo alla convenzione, approvato con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze, acquisiti i pareri dell'ART e dell'ANAC ai sensi del comma 3. Alla revisione delle convenzioni e dei relativi PEF si procede, secondo le modalita' di cui ai commi 2, 3 e 4 del presente articolo, nei limiti di quanto stabilito dagli articoli 189 e 192 del codice dei contratti pubblici.
 
-## Sezione IV - Contratto di concessione
+### Sezione IV - Contratto di concessione
 
-##### Art. 6
+#### Art. 6
 
 Oggetto del contratto di concessione
 
@@ -282,7 +280,7 @@ b) in relazione ai progetti di cui all'articolo 4, comma 2, lettera b), posti a 
 
 > «Art. 822 (Demanio pubblico). - Appartengono allo Stato e fanno parte del demanio pubblico il lido del mare, la spiaggia, le rade e i porti; i fiumi, i torrenti, i laghi e le altre acque definite pubbliche dalle leggi in materia; le opere destinate alla difesa nazionale. Fanno parimenti parte del demanio pubblico, se appartengono allo Stato, le strade, le autostrade e le strade ferrate; gli aerodromi; gli acquedotti; gli immobili riconosciuti d'interesse storico, archeologico e artistico a norma delle leggi in materia; le raccolte dei musei, delle pinacoteche, degli archivi, delle biblioteche; e infine gli altri beni che sono dalla legge assoggettati al regime proprio del demanio pubblico.».
 
-##### Art. 7
+#### Art. 7
 
 Criteri di remunerazione della concessione
 
@@ -292,7 +290,7 @@ Criteri di remunerazione della concessione
 
 3\. Gli oneri relativi all'esecuzione dei lavori e delle opere di manutenzione straordinaria non sono soggetti alle clausole di revisione prezzi di cui all'articolo 60 del codice dei contratti pubblici in relazione a eventuali variazioni, in aumento o in diminuzione, del costo dei lavori, come individuati nella convenzione di concessione sulla base dei ribassi applicati al costo dell'opera quantificato sulla base dei prezzi rilevati al momento dell'approvazione del progetto di fattibilita' tecnico-economica dal concedente.
 
-##### Art. 8
+#### Art. 8
 
 Schema di convenzione a base dell'affidamento
 
@@ -316,7 +314,7 @@ d) le penali applicabili al concessionario in caso di inadempimenti relativi all
 
 > \- Per il testo dell'articolo 37, comma 2, del decreto-legge 6 dicembre 2011, n. 201 (Disposizioni urgenti per la crescita, l'equita' e il consolidamento dei conti pubblici), convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, si veda nelle note all'art. 16.
 
-##### Art. 9
+#### Art. 9
 
 Approvazione e aggiornamento delle convenzioni di concessione e dei relativi piani economico-finanziari
 
@@ -332,7 +330,7 @@ Approvazione e aggiornamento delle convenzioni di concessione e dei relativi pia
 
 6\. I decreti di cui al comma 5 danno conto delle modalita' di copertura finanziaria a valere sulle risorse del Fondo nazionale per gli investimenti sulla rete autostradale, di cui all'articolo 12, comma 5. Nei casi di cui al presente comma non si applicano le disposizioni dell'articolo 192, comma 3, del codice dei contratti pubblici.
 
-##### Art. 10
+#### Art. 10
 
 Durata delle concessioni
 
@@ -344,7 +342,7 @@ Durata delle concessioni
 
 > \- Per il testo dell'articolo 178, comma 5, del decreto legislativo 31 marzo 2023, n. 36 si veda nelle note all'art. 1.
 
-##### Art. 11
+#### Art. 11
 
 Estinzione del contratto di concessione
 
@@ -380,9 +378,9 @@ c) qualunque altro inadempimento delle obbligazioni convenzionali da parte del c
 
 > «Art. 2578 (Progetti di lavori). - All'autore di progetti di lavori di ingegneria o di altri lavori analoghi che costituiscono soluzioni originali di problemi tecnici, compete, oltre il diritto esclusivo di riproduzione dei piani e disegni dei progetti medesimi, il diritto di ottenere un equo compenso da coloro che eseguono il progetto tecnico a scopo di lucro senza il suo consenso.».
 
-## Sezione V - Tariffe autostradali e piano degli investimenti
+### Sezione V - Tariffe autostradali e piano degli investimenti
 
-##### Art. 12
+#### Art. 12
 
 Fissazione e aggiornamento delle tariffe autostradali
 
@@ -432,7 +430,7 @@ b) della rilevanza dell'intervento con riferimento alla fluidificazione e al dec
 
 c) del rapporto costi-benefici dell'intervento da finanziare.
 
-##### Art. 13
+#### Art. 13
 
 Pianificazione e programmazione
 
@@ -450,9 +448,9 @@ c) incidenza sulla viabilita' delle cantierizzazioni, tenuto conto dell'esigenza
 
 d) individuazione di aree di sosta adeguate per gli operatori del trasporto di merci.
 
-## Sezione VI - Disposizioni transitorie relative alle concessioni autostradali in essere
+### Sezione VI - Disposizioni transitorie relative alle concessioni autostradali in essere
 
-##### Art. 14
+#### Art. 14
 
 Disposizioni applicabili alle concessioni in essere
 
@@ -500,15 +498,15 @@ c) la quota residua di oneri di investimento che non puo' essere coperta nell'am
 
 > \- Per il testo dell'articolo 43, commi 1, 2 e 2-bis, del decreto-legge 6 dicembre 2011, n. 201 (Disposizioni urgenti per la crescita, l'equita' e il consolidamento dei conti pubblici), convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, si veda nelle note all'articolo 16.
 
-##### Art. 15
+#### Art. 15
 
 Esternalizzazione delle concessioni autostradali
 
 1\. Alle concessioni autostradali in essere non affidate conformemente al diritto dell'Unione europea vigente al momento dell'affidamento o della proroga si applicano le disposizioni sull'affidamento mediante procedura di evidenza pubblica di una quota tra il 50 e il 60 per cento dei contratti di lavori, servizi e forniture stabilita convenzionalmente dall'ente concedente e dal concessionario di cui all'articolo 186, commi 2, 3, 4, 5 e 6, del codice dei contratti pubblici.
 
-## Sezione VII - Disposizioni finali
+### Sezione VII - Disposizioni finali
 
-##### Art. 16
+#### Art. 16
 
 Disposizioni di coordinamento normativo
 
@@ -550,7 +548,7 @@ d) l'articolo 21 del decreto-legge 24 dicembre 2003, n. 355, convertito, con mod
 
 ## Capo II - Disposizioni in materia di rilevazione dei prezzi e degli usi commerciali e concernenti il settore assicurativo, i trasporti, le strutture amovibili funzionali all'attività dei pubblici esercizi e la concorrenza
 
-##### Art. 17
+#### Art. 17
 
 Disposizioni in materia di rilevazione
 
@@ -572,7 +570,7 @@ dei prezzi e delle tariffe
 
 > Le modalita' di rilevazione dei prezzi e delle tariffe sono definite tramite apposite linee guida adottate dal Garante per la sorveglianza dei prezzi nel rispetto di una metodologia di tipo storico-statistico e garantendo l'imparzialita' dei soggetti che procedono al rilevamento. (Omissis)».
 
-##### Art. 18
+#### Art. 18
 
 Aggiornamento del regolamento dell'Autorita' per le garanzie nelle comunicazioni in materia di portabilita' dei numeri telefonici mobili
 
@@ -588,7 +586,7 @@ Aggiornamento del regolamento dell'Autorita' per le garanzie nelle comunicazioni
 
 > L'Autorita' redige inoltre annualmente una relazione sugli esiti delle attivita' di monitoraggio e vigilanza condotte in attuazione del secondo periodo del presente comma.».
 
-##### Art. 19
+#### Art. 19
 
 Disposizioni in materia di attivita' di rilevazione degli usi commerciali e di informazioni fornite ai clienti finali delle societa' di vendita di energia al dettaglio
 
@@ -618,7 +616,7 @@ In caso di violazione, il presidente della commissione provinciale dichiara la d
 
 > (Omissis)».
 
-##### Art. 20
+#### Art. 20
 
 Disposizioni per favorire la concorrenza
 
@@ -652,7 +650,7 @@ nel settore assicurativo
 
 > (Omissis)».
 
-##### Art. 21
+#### Art. 21
 
 Sistema informativo antifrode per i rapporti
 
@@ -664,7 +662,7 @@ assicurativi non obbligatori
 
 3\. I costi della realizzazione e della gestione del sistema informativo di cui al comma 1 sono a carico delle imprese di assicurazione partecipanti. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
-##### Art. 22
+#### Art. 22
 
 Vigilanza sui contratti assicurativi a copertura dei danni alle imprese cagionati da calamita' naturali ed eventi catastrofali
 
@@ -672,7 +670,7 @@ Vigilanza sui contratti assicurativi a copertura dei danni alle imprese cagionat
 
 «105-bis. Al fine di favorire una scelta consapevole e informata da parte delle imprese soggette all'obbligo di cui al comma 101, l'IVASS gestisce, anche attraverso la piattaforma informatica gia' disponibile per la comparazione delle offerte di contratti di assicurazione per la responsabilita' civile connessa alla circolazione degli autoveicoli, un portale informatico che consente di comparare in modo trasparente i contratti assicurativi offerti dalle imprese di assicurazione. Ciascuna impresa di assicurazione immette nel portale di cui al primo periodo il contratto assicurativo, conforme alle prescrizioni di cui ai commi da 101 a 107, indicando le condizioni generali, l'estensione delle coperture e le eventuali esclusioni e limitazioni. Con decreto del Ministro delle imprese e del made in Italy, su proposta dell'IVASS, sono stabilite le disposizioni attuative del presente comma».
 
-##### Art. 23
+#### Art. 23
 
 Disposizioni in materia di riporzionamento dei prodotti preconfezionati
 
@@ -690,7 +688,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 27 dicembre 2024, n. 202, convertito con modificazioni dalla L. 21 febbraio 2025, n. 15, ha disposto (con l'art. 13, comma 1-sexies) che "All'articolo 23, comma 3, della legge 16 dicembre 2024, n. 193, le parole: "a decorrere dal 1° aprile 2025" sono sostituite dalle seguenti: "a decorrere dal 1° ottobre 2025"."
 
-##### Art. 24
+#### Art. 24
 
 Accesso dei clienti domestici vulnerabili
 
@@ -718,7 +716,7 @@ al servizio a tutele graduali
 
 > (Omissis)».
 
-##### Art. 25
+#### Art. 25
 
 Disposizioni in materia di trasporto pubblico
 
@@ -864,7 +862,7 @@ d) alle violazioni successive alla terza commesse nell'arco di cinque anni, si a
 
 > (Omissis).».
 
-##### Art. 26
+#### Art. 26
 
 Delega al Governo in materia di strutture amovibili funzionali all'attivita' dei pubblici esercizi
 
@@ -898,7 +896,7 @@ l) individuazione di criteri uniformi cui i comuni devono adeguare i propri rego
 
 4\. Le autorizzazioni e le concessioni per l'utilizzazione temporanea del suolo pubblico rilasciate ai sensi dell'articolo 9-ter, commi 4 e 5, del decreto-legge 28 ottobre 2020, n. 137, convertito, con modificazioni, dalla legge 18 dicembre 2020, n. 176, sono prorogate fino alla data di entrata in vigore del decreto legislativo di cui al comma 1 e, comunque, non oltre il ((30 giugno 2027)).
 
-##### Art. 27
+#### Art. 27
 
 Modifiche agli articoli 221-bis e 238 del decreto legislativo 3 aprile 2006, n. 152, in materia di sistemi autonomi di gestione degli imballaggi e dei rifiuti di imballaggio nonche' di tariffa per la gestione dei rifiuti urbani
 
@@ -976,7 +974,7 @@ b) all'articolo 238, comma 10, dopo le parole: «che li conferiscono» sono inse
 
 ## Capo III - Disposizioni in materia di start-up e di attività di impresa
 
-##### Art. 28
+#### Art. 28
 
 Modifiche alla definizione di start-up innovativa
 
@@ -1064,7 +1062,7 @@ b) incremento dei ricavi derivanti dalla gestione caratteristica dell'impresa o 
 
 > 2-quater. Nei casi di cui ai commi 2-bis e 2-ter resta fermo quanto disposto dall'articolo 29, comma 7-bis.».
 
-##### Art. 29
+#### Art. 29
 
 Disposizione transitoria concernente la definizione di start-up innovativa
 
@@ -1088,7 +1086,7 @@ b) in caso di start-up iscritte nel registro da meno di diciotto mesi, entro sei
 
 > (Omissis)».
 
-##### Art. 30
+#### Art. 30
 
 Modifiche alla definizione di incubatore certificato
 
@@ -1172,7 +1170,7 @@ c) al comma 8 e' aggiunto, in fine, il seguente periodo: «Gli incubatori certif
 
 > 5\. Le plusvalenze realizzate mediante la cessione a titolo oneroso degli strumenti finanziari di cui al presente articolo sono assoggettate ai regimi loro ordinariamente applicabili.».
 
-##### Art. 31
+#### Art. 31
 
 Ulteriori misure di incentivazione
 
@@ -1218,7 +1216,7 @@ d) al comma 3 sono aggiunte, in fine, le seguenti parole: «, salvi i casi indip
 
 > 9-ter. A decorrere dalla data di entrata in vigore della presente disposizione e fino al 31 dicembre 2024, dall'imposta lorda sul reddito delle persone fisiche si detrae un importo pari al cinquanta per cento della somma investita dal contribuente nel capitale sociale di una o piu' PMI innovative direttamente ovvero per il tramite di organismi di investimento collettivo del risparmio che investano prevalentemente in PMI innovative; la detrazione si applica alle sole PMI innovative iscritte alla sezione speciale del Registro delle imprese al momento dell'investimento ed e' concessa ai sensi del Regolamento (UE) n. 1407/2013 della Commissione europea del 18 dicembre 2013 sugli aiuti de minimis. L'investimento massimo detraibile non puo' eccedere, in ciascun periodo d'imposta, l'importo di euro 300.000 e deve essere mantenuto per almeno tre anni; l'eventuale cessione, anche parziale, dell'investimento prima del decorso di tale termine, comporta la decadenza dal beneficio e l'obbligo per il contribuente di restituire l'importo detratto, unitamente agli interessi legali. La detrazione di cui al presente comma spetta prioritariamente rispetto alla detrazione di cui all'articolo 29 del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221, e fino all'ammontare di investimento di cui al periodo precedente. Sulla parte di investimento che eccede il limite di cui al secondo periodo, e' fruibile esclusivamente la detrazione di cui al citato articolo 29 del decreto-legge n. 179 del 2012 nei limiti del regolamento (UE) n. 1407/2013 della Commissione, del 18 dicembre 2013, relativo all'applicazione degli articoli 107 e 108 del Trattato sul funzionamento dell'Unione europea agli aiuti "de minimis."».
 
-##### Art. 32
+#### Art. 32
 
 Contributo sotto forma di credito d'imposta in favore degli incubatori e degli acceleratori certificati
 
@@ -1236,7 +1234,7 @@ Contributo sotto forma di credito d'imposta in favore degli incubatori e degli a
 
 > \- Il regolamento (UE) 2023/2831 della Commissione, del 13 dicembre 2023, relativo all'applicazione degli articoli 107 e 108 del Trattato sul funzionamento dell'Unione europea agli aiuti de minimis, e' pubblicato nella G.U.U.E. del 15 dicembre 2023.
 
-##### Art. 33
+#### Art. 33
 
 Disposizioni per favorire l'investimento istituzionale nelle start-up innovative
 
@@ -1256,7 +1254,7 @@ AGGIORNAMENTO (5)
 
 E' stato ripristinato il testo gia' in vigore dal 18-12-2024 a seguito della modifica dell'art. 18, commi 1 e 2, lettere a) e b) del D.L. 30 giugno 2025, n. 95, che disponevano la modifica del presente articolo, ad opera della L. 8 agosto 2025, n. 118, di conversione del D.L. medesimo.
 
-##### Art. 34
+#### Art. 34
 
 Obbligo dei comuni di conformarsi alle nuove specifiche tecniche per il funzionamento dello sportello unico per le attivita' produttive 1. Al fine di assicurare la semplificazione degli oneri amministrativi a carico delle imprese nei procedimenti previsti dal regolamento di cui al decreto del Presidente della Repubblica 7 settembre 2010, n. 160, i comuni provvedono, nel termine di cui all'articolo 2, comma 2, del decreto del Ministro delle imprese e del made in Italy 26 settembre 2023, pubblicato nella Gazzetta Ufficiale n. 276 del 25 novembre 2023, a dotarsi di componenti informatiche per il funzionamento dello sportello unico per le attivita' produttive (SUAP) conformi alle specifiche tecniche previste dall'allegato al medesimo decreto del Ministro delle imprese e del made in Italy 26 settembre 2023 ovvero, entro il medesimo termine, a delegare le funzioni del SUAP alla camera di commercio, industria, artigianato e agricoltura territorialmente competente, ai sensi dell'articolo 4, comma 11, del citato regolamento di cui al decreto del Presidente della Repubblica n. 160 del 2010.
 
@@ -1270,7 +1268,7 @@ Obbligo dei comuni di conformarsi alle nuove specifiche tecniche per il funziona
 
 > (Omissis).».
 
-##### Art. 35
+#### Art. 35
 
 Disposizioni per favorire l'investimento privato nelle start-up innovative
 
@@ -1300,7 +1298,7 @@ Disposizioni per favorire l'investimento privato nelle start-up innovative
 
 > (Omissis).».
 
-##### Art. 36
+#### Art. 36
 
 Sospensione dell'efficacia delle disposizioni in materia di accreditamento e di accordi contrattuali con il Servizio sanitario nazionale
 
@@ -1320,7 +1318,7 @@ d) ((alla capacita' produttiva tale da contribuire a smaltire le liste di attesa
 
 e) ((per le strutture operanti sul territorio per le quali la dimensione organizzativa assume rilievo prevalente rispetto a quella tecnologico-strutturale, all'apporto concretamente dimostrato, anche con riferimento a esperienze pregresse e consolidate nella realizzazione di livelli qualitativamente elevati di assistenza, valorizzando la conoscenza approfondita delle specificita' del territorio di riferimento e dei relativi setting assistenziali, con particolare attenzione alle aree caratterizzate da bisogni complessi o da condizioni di fragilita'.))
 
-##### Art. 37
+#### Art. 37
 
 Disposizioni in materia di buoni pasto
 
@@ -1358,7 +1356,7 @@ b) fatta salva la rinegoziazione, le imprese emittenti, a decorrere dal 1° sett
 
 > «Art. 1671 (Recesso unilaterale dal contratto). - Il committente puo' recedere dal contratto anche se e' stata iniziata l'esecuzione dell'opera o la prestazione del servizio, purche' tenga indenne l'appaltatore delle spese sostenute, dei lavori eseguiti e del mancato guadagno.».
 
-##### Art. 38
+#### Art. 38
 
 Modifica all'articolo 15 della legge 21 ottobre 2005, n. 219, in materia di reciprocita' nel sistema dei medicinali emoderivati prodotti dal plasma
 
@@ -1376,7 +1374,7 @@ Modifica all'articolo 15 della legge 21 ottobre 2005, n. 219, in materia di reci
 
 ## Capo IV - Disposizioni finanziarie ed entrata in vigore
 
-##### Art. 39
+#### Art. 39
 
 Disposizioni finanziarie
 
@@ -1388,7 +1386,7 @@ a) quanto a 1,8 milioni di euro annui a decorrere dall'anno 2025, mediante corri
 
 b) quanto a 12,7 milioni di euro per l'anno 2026 e a 7,2 milioni di euro annui a decorrere dall'anno 2027, mediante corrispondente utilizzo di quota parte delle maggiori entrate derivanti dalle disposizioni di cui agli articoli 28, comma 1, lettera b), e 31.
 
-##### Art. 40
+#### Art. 40
 
 Entrata in vigore
 

@@ -28,11 +28,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I
+## Capo I - Condizioni di applicabilita' delle speciali misure di protezione per i testimoni di giustizia
 
-### Condizioni di applicabilita' delle speciali misure di protezione per - i testimoni di giustizia
-
-#### Art. 1
+### Art. 1
 
 Ambito di applicazione
 
@@ -46,7 +44,7 @@ Ambito di applicazione
 
 > \- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
-#### Art. 2
+### Art. 2
 
 Definizione di testimone di giustizia
 
@@ -66,11 +64,9 @@ e) si trova in una situazione di grave, concreto e attuale pericolo, rispetto al
 
 > \- Il decreto legislativo 6 settembre 2011, n. 159 (Codice delle leggi antimafia e delle misure di prevenzione, nonche' nuove disposizioni in materia di documentazione antimafia, a norma degli articoli 1 e 2 della legge 13 agosto 2010, n. 136), e' pubblicato nella Gazzetta Ufficiale 28 settembre 2011, n. 226, S.O.
 
-## Capo II
+## Capo II - Speciali misure di protezione per i testimoni di giustizia e per gli altri protetti
 
-### Speciali misure di protezione per i testimoni di giustizia e per gli - altri protetti
-
-#### Art. 3
+### Art. 3
 
 Tipologia delle misure
 
@@ -78,7 +74,7 @@ Tipologia delle misure
 
 2\. Per i minori compresi nelle speciali misure di protezione si applicano, altresi', le disposizioni dei regolamenti di cui all'articolo 26.
 
-#### Art. 4
+### Art. 4
 
 Criteri di scelta delle misure di protezione
 
@@ -88,7 +84,7 @@ Criteri di scelta delle misure di protezione
 
 3\. In ogni caso, al testimone di giustizia e agli altri protetti e' assicurata un'esistenza dignitosa.
 
-#### Art. 5
+### Art. 5
 
 Misure di tutela
 
@@ -110,7 +106,7 @@ g) il cambiamento delle generalita' ai sensi del decreto legislativo 29 marzo 19
 
 h) ogni altra misura straordinaria, anche di carattere economico, eventualmente necessaria, nel rispetto delle direttive generali impartite dal Capo della polizia - Direttore generale della pubblica sicurezza.
 
-#### Art. 6
+### Art. 6
 
 Misure di sostegno economico
 
@@ -160,7 +156,7 @@ h) l'acquisizione al patrimonio dello Stato, dietro corresponsione dell'equivale
 
 > 617\. A decorrere dall'anno 2008 e fino all'anno 2016, la dotazione dei fondi di cui al comma 616 e' determinata nella misura del 50 per cento dei versamenti riassegnabili nell'anno 2006 ai pertinenti capitoli dell'entrata del bilancio dello Stato. L'utilizzazione dei fondi e' effettuata dal Ministro competente, di concerto con il Ministro dell'economia e delle finanze, in considerazione dell'andamento delle entrate versate. La dotazione dei fondi e' annualmente rideterminata in base all'andamento dei versamenti riassegnabili effettuati entro il 31 dicembre dei due esercizi precedenti in modo da assicurare in ciascun anno un risparmio in termini di indebitamento pari a 300 milioni di euro.».
 
-#### Art. 7
+### Art. 7
 
 Misure di reinserimento sociale e lavorativo
 
@@ -240,7 +236,7 @@ i) misure straordinarie eventualmente necessarie, atte a favorire il reinserimen
 
 > 3\. Le speciali misure di protezione si applicano, se ritenute necessarie, a coloro che coabitano o convivono stabilmente con le persone indicate nel comma 1, nonche', ricorrendone le condizioni, a chi risulti esposto a grave, attuale e concreto pericolo a causa delle relazioni trattenute con le medesime persone.».
 
-#### Art. 8
+### Art. 8
 
 Durata delle speciali misure di protezione
 
@@ -248,7 +244,7 @@ Durata delle speciali misure di protezione
 
 2\. Le misure di tutela di cui all'articolo 5 sono mantenute fino alla cessazione del pericolo attuale, grave e concreto e, ove possibile, sono gradualmente affievolite. Nel caso in cui, al termine delle speciali misure di protezione, il testimone di giustizia e gli altri protetti non abbiano riacquistato l'autonomia lavorativa o il godimento di un reddito proprio, si procede ai sensi dell'articolo 7, comma 1, lettera g) o lettera h).
 
-#### Art. 9
+### Art. 9
 
 Composizione della commissione centrale
 
@@ -268,11 +264,9 @@ b) al comma 2-quater, il primo periodo e' sostituito dal seguente: «Per lo svol
 
 > \- Per le modifiche ai commi 2-bis e 2-quater dell'art. 10 del citato decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, vedi nelle note all'art. 7.
 
-## Capo III
+## Capo III - Procedimento di applicazione, modifica, proroga e revoca delle speciali misure di protezione
 
-### Procedimento di applicazione, modifica, proroga e revoca delle - speciali misure di protezione
-
-#### Art. 10
+### Art. 10
 
 Rinvio
 
@@ -354,7 +348,7 @@ Rinvio
 
 > 5\. Il Consiglio di Stato esprime il proprio parere sugli schemi dei regolamenti di cui ai commi 1, 2 e 3 entro trenta giorni dalla richiesta, decorsi i quali il regolamento puo' comunque essere adottato.».
 
-#### Art. 11
+### Art. 11
 
 Proposta di ammissione alle speciali misure di protezione
 
@@ -364,7 +358,7 @@ Proposta di ammissione alle speciali misure di protezione
 
 3\. Nel caso in cui la proposta di cui al comma 1 riguardi soggetti di minore eta' in condizioni di disagio familiare o sociale, essa e' altresi' trasmessa al tribunale per i minorenni territorialmente competente per l'adozione di eventuali determinazioni di sua competenza.
 
-#### Art. 12
+### Art. 12
 
 Piano provvisorio per la protezione
 
@@ -378,7 +372,7 @@ Piano provvisorio per la protezione
 
 5\. Il termine previsto dal comma 4 e' prorogabile fino a centottanta giorni con provvedimento motivato dell'autorita' legittimata a formulare la proposta, comunicato alla commissione centrale.
 
-#### Art. 13
+### Art. 13
 
 Programma definitivo per la protezione
 
@@ -418,7 +412,7 @@ Programma definitivo per la protezione
 
 > 5\. Le modalita' di cui al comma 2 possono essere altresi' adottate, a richiesta di parte, per l'esame della persona di cui e' stata disposta la nuova assunzione a norma dell'art. 495, comma 1, del codice, o quando vi siano gravi difficolta' ad assicurare la comparazione della persona da sottoporre ad esame.».
 
-#### Art. 14
+### Art. 14
 
 Specificazione e attuazione delle speciali misure
 
@@ -448,13 +442,13 @@ di tutela
 
 > 4\. Gli interventi finanziari di cui ai capi II e II-bis sono di natura riservata e non soggetti a rendicontazione; il Capo della polizia - direttore generale della pubblica sicurezza e l'Alto commissario, al termine di ciascun anno finanziario, sono tenuti a presentare una relazione sui criteri e sulle modalita' di utilizzo dei relativi fondi al Ministro dell' interno, il quale autorizza la distruzione della relazione medesima. A tali interventi finanziari non si applicano le norme vigenti in materia di tracciabilita' dei pagamenti e di fatturazione elettronica.».
 
-#### Art. 15
+### Art. 15
 
 Norma in materia di collaboratori di giustizia
 
 1\. Le disposizioni di cui all'articolo 14, comma 1, terzo periodo, si applicano anche in materia di collaboratori di giustizia di cui al decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82.
 
-#### Art. 16
+### Art. 16
 
 Referente del testimone di giustizia
 
@@ -480,13 +474,13 @@ g) collaborare tempestivamente per assicurare l'esercizio di diritti che potrebb
 
 4\. L'assistenza del referente si protrae per la durata del programma di protezione e, comunque, finche' il testimone di giustizia e gli altri protetti riacquistano la propria autonomia economica.
 
-#### Art. 17
+### Art. 17
 
 Audizione dei testimoni di giustizia e degli altri protetti
 
 1\. Gli interessati, in qualunque momento, anche nel corso dell'esecuzione del piano provvisorio di protezione, possono chiedere alla commissione centrale o al Servizio centrale di protezione di essere sentiti personalmente. Si procede entro trenta giorni dalla richiesta attraverso l'audizione da parte della commissione centrale o del Servizio centrale di protezione.
 
-#### Art. 18
+### Art. 18
 
 Misure urgenti
 
@@ -498,7 +492,7 @@ Misure urgenti
 
 > \- Per il testo modificato dalla legge qui pubblicata dell'art. 13 del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, vedi nelle note all'art. 10.
 
-#### Art. 19
+### Art. 19
 
 Interventi finanziari
 
@@ -508,11 +502,9 @@ Interventi finanziari
 
 > \- Per il testo modificato dalla legge qui pubblicata dell'art. 17 del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, vedi nelle note all'art. 14.
 
-## Capo IV
+## Capo IV - Disposizioni finali e transitorie
 
-### Disposizioni finali e transitorie
-
-#### Art. 20
+### Art. 20
 
 Abrogazione
 
@@ -540,7 +532,7 @@ Abrogazione
 
 > 3-bis. All'atto della sottoscrizione delle speciali misure di protezione l'interessato elegge il proprio domicilio nel luogo in cui ha sede la commissione centrale di cui all'art. 10, comma 2.».
 
-#### Art. 21
+### Art. 21
 
 Modifica all'articolo 392 del codice di procedura penale
 
@@ -570,19 +562,19 @@ Modifica all'articolo 392 del codice di procedura penale
 
 > 2\. Il pubblico ministero e la persona sottoposta alle indagini possono altresi' chiedere una perizia che, se fosse disposta nel dibattimento, ne potrebbe determinare una sospensione superiore a sessanta giorni ovvero che comporti l'esecuzione di accertamenti o prelievi su persona vivente previsti dall'art. 224-bis.».
 
-#### Art. 22
+### Art. 22
 
 Aggravanti per il reato di calunnia
 
 1\. Le pene previste per il reato di calunnia di cui all'articolo 368 del codice penale sono aumentate da un terzo alla meta' quando il colpevole ha commesso il fatto allo scopo di usufruire o di continuare ad usufruire delle speciali misure di protezione previste dalla presente legge. L'aumento e' dalla meta' ai due terzi se uno dei benefici e' stato conseguito.
 
-#### Art. 23
+### Art. 23
 
 Norme transitorie
 
 1\. E' testimone di giustizia ai sensi della presente legge anche colui che, alla data di entrata in vigore della medesima, e' sottoposto al programma o alle speciali misure di protezione ai sensi del capo II-bis del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82.
 
-#### Art. 24
+### Art. 24
 
 Modifica all'articolo 147-bis delle norme di attuazione del codice di procedura penale
 
@@ -594,7 +586,7 @@ Modifica all'articolo 147-bis delle norme di attuazione del codice di procedura 
 
 > \- Per il testo modificato dalla legge qui pubblicata dell'art. 147-bis delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, di cui al decreto legislativo 28 luglio 1989, n. 271, vedi nelle note all'art. 13.
 
-#### Art. 25
+### Art. 25
 
 Istituzione di un'apposita sezione del sito internet
 
@@ -602,7 +594,7 @@ del Ministero dell'interno per i testimoni di giustizia
 
 1\. E' istituita, nell'ambito del sito internet istituzionale del Ministero dell'interno, un'apposita sezione, con le modalita' stabilite dai regolamenti di cui all'articolo 26, di facile accesso e debitamente segnalata nella pagina iniziale del sito, contenente le informazioni, in forma chiara e facilmente intellegibile, sull'applicazione dei programmi di protezione per i testimoni di giustizia nonche' sui relativi diritti e doveri.
 
-#### Art. 26
+### Art. 26
 
 Regolamenti di attuazione
 
@@ -650,7 +642,7 @@ Regolamenti di attuazione
 
 > 4-ter. Con regolamenti da emanare ai sensi del comma 1 del presente articolo, si provvede al periodico riordino delle disposizioni regolamentari vigenti, alla ricognizione di quelle che sono state oggetto di abrogazione implicita e all'espressa abrogazione di quelle che hanno esaurito la loro funzione o sono prive di effettivo contenuto normativo o sono comunque obsolete.».
 
-#### Art. 27
+### Art. 27
 
 Relazione del Ministro dell'interno
 
@@ -658,7 +650,7 @@ Relazione del Ministro dell'interno
 
 2\. Nella relazione di cui al comma 1, il Ministro dell'interno indica il numero complessivo dei testimoni di giustizia e degli altri protetti e l'ammontare complessivo delle spese sostenute nel semestre per l'assistenza economica relativa alle speciali misure di protezione e, garantendo la riservatezza degli interessati, specifica anche l'ammontare delle elargizioni straordinarie concesse e le esigenze che le hanno motivate, nonche' eventuali esigenze strumentali od operative connesse alla funzionalita' e all'efficienza del Servizio centrale di protezione e dei relativi nuclei operativi territoriali.
 
-#### Art. 28
+### Art. 28
 
 Clausola di invarianza finanziaria
 

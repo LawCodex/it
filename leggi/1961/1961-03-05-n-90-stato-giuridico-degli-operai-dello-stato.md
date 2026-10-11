@@ -26,11 +26,11 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1 - Iscrizione a ruolo
+## Art. 1 - Iscrizione a ruolo
 
 Gli operai dello Stato sono assunti stabilmente ed iscritti a ruolo in base alle disposizioni della presente legge.
 
-### Art. 2 - Classificazione
+## Art. 2 - Classificazione
 
 Gli operai dello Stato assumono la qualifica professionale in base ai mestieri previsti da apposita tabella da emanare con decreto del Presidente della Repubblica su proposta del Presidente del Consiglio del Ministri di concerto con il Ministro per il tesoro.
 
@@ -92,19 +92,19 @@ AGGIORNAMENTO (2)
 
 La L. 18 marzo 1968, n. 249 ha disposto (con l'art. 23, comma 2) che "Gli operai che, alla data medesima risultino inquadrati nella 4ª e 5ª categoria di cui all'articolo 2 della legge 5 marzo 1961, n. 90, sono collocati, anche in soprannumero, nella categoria degli operai comuni della rispettiva pianta organica, ferma restando, anche agli effetti degli aumenti periodici della paga, l'anzianita' di servizio posseduta nella categoria di provenienza.
 
-### Art. 3 - Ruolo e foglio matricolare
+## Art. 3 - Ruolo e foglio matricolare
 
 Il ruolo e' distinto per categorie in relazione alla classificazione prevista dal precedente articolo 2.
 
 Per ogni operaio e' tenuto un foglio matricolare in due originali: uno presso l'Amministrazione centrale e l'altro presso lo stabilimento ed ufficio al quale l'operaio e' assegnato.
 
-### Art. 4 - Ruoli organici
+## Art. 4 - Ruoli organici
 
 La dotazione organica del ruolo degli operai di ciascuna Amministrazione e' fissata per legge.
 
 In casi eccezionali e per comprovate esigenze di lavoro aventi carattere permanente, la dotazione organica degli operai di ciascuna, Amministrazione puo' essere aumentata lino ad un massimo del dieci per cento, con decreto del Presidente della Repubblica, su proposta del Presidente del Consiglio dei Ministri e del Ministro interessato, di concerto con il Ministro per il tesoro.
 
-### Art. 5 - Nomina ad operaio
+## Art. 5 - Nomina ad operaio
 
 La nomina ad operaio dello Stato si consegue per pubblico concorso da effettuare:
 
@@ -124,11 +124,11 @@ I casi di esenzione dal periodo di prova sono stabiliti dal regolamento.
 
 L'operaio che ha conseguito la nomina in prova, se non assume servizio senza giustificato motivo entro il termine stabilito, decade dalla nomina stessa.
 
-### Art. 6 - Nullita' dei provvedimenti di assunzione
+## Art. 6 - Nullita' dei provvedimenti di assunzione
 
 L'assunzione di personale operaio, effettuata senza l'osservanza delle disposizioni contenute negli articoli 5, 65 e 66, e' nulla di diritto e non produce alcun effetto a carico dell'Amministrazione, salva la responsabilita' personale dell'impiegato che vi ha provveduto.
 
-### Art. 7 - Requisiti generali per l'assunzione
+## Art. 7 - Requisiti generali per l'assunzione
 
 Per l'assunzione degli operai sono richiesti i seguenti requisiti generali:
 
@@ -152,13 +152,13 @@ Salvo che i singoli ordinamenti non dispongano diversamente, sono equiparati ai 
 
 I requisiti prescritti devono essere posseduti alla data di scadenza del termine stabilito nel decreto che indice il concorso per la presentazione della domanda di ammissione.
 
-### Art. 8 - Provvedimenti per la nomina e le successive variazioni
+## Art. 8 - Provvedimenti per la nomina e le successive variazioni
 
 La nomina dell'operaio, le variazioni all'inquadramento professionale e la cessazione dal servizio, sono disposte con decreto del Ministro.
 
 Sono fatte salve le particolari disposizioni previste per le Amministrazioni con ordinamento autonomo.
 
-### Art. 9 - Nomina a capo operaio - Passaggio a categoria superiore
+## Art. 9 - Nomina a capo operaio - Passaggio a categoria superiore
 
 La nomina a capo operaio e' conferita mediante scrutinio per merito comparativo, su deliberazione del Consiglio d'amministrazione, agli operai appartenenti alla 1ª categoria da almeno tre anni, che abbiano riportato, nello stesso periodo, qualifiche di "ottimo".
 
@@ -174,11 +174,11 @@ L'apprendista operaio, trascorsi due anni dalla sua nomina, deve adire il primo 
 
 All'operaio apprendista cosi' dispensato spetta una indennita' pari ad una mensilita' per ogni anno di servizio effettivamente prestato.
 
-### Art. 10 - Addestramento, qualificazione professionale, ed aggiornamenti
+## Art. 10 - Addestramento, qualificazione professionale, ed aggiornamenti
 
 Le Amministrazioni dello Stato favoriscono, con i mezzi opportuni, l'addestramento, la qualificazione professionale e l'aggiornamento degli apprendisti e degli altri operai dello Stato.
 
-### Art. 11 - Promessa solenne e giuramento
+## Art. 11 - Promessa solenne e giuramento
 
 L'operaio, all'atto dell'assunzione in prova, deve prestare, davanti al direttore dello stabilimento o al capo dell'ufficio, ovvero ad un loro delegato, in presenza di due testimoni, solenne promessa secondo la formula seguente:
 
@@ -192,13 +192,13 @@ La promessa solenne e il giuramento non si ripetono nel caso di passaggio a cate
 
 Il rifiuto di prestare la promessa solenne o il giuramento importa la decadenza dalla nomina,.
 
-### Art. 12 - Obbligo della residenza
+## Art. 12 - Obbligo della residenza
 
 L'operaio deve risiedere nel Comune dove ha sede il posto di lavoro cui e' destinato.
 
 Il direttore dello stabilimento o il capo dell'ufficio, per rilevanti ragioni, possono autorizzare l'operaio a risiedere altrove, quando cio' sia conciliabile con il pieno e regolare adempimento di ogni altro suo dovere dell'eventuale diniego e' data comunicazione scritta all'interessato.
 
-### Art. 13 - Comportamento in servizio
+## Art. 13 - Comportamento in servizio
 
 L'operaio deve prestare tutta la sua opera, nel disimpegno delle mansioni che gli sono affidate, curando, con diligenza e nel miglior modo, l'interesse dell'Amministrazione.
 
@@ -206,7 +206,7 @@ Egli deve conformare la sua condotta al dovere di servire esclusivamente la Nazi
 
 L'operaio deve rispetto e, durante il servizio, obbedienza ai superiori; nei rapporti con i colleghi deve ispirarsi al principio di un'assidua e solerte collaborazione. Fuori dal servizio deve mantenere condotta conforme al decoro di dipendente dello Stato.
 
-### Art. 14 - Assegnazione temporanea a mansioni di altra categoria
+## Art. 14 - Assegnazione temporanea a mansioni di altra categoria
 
 L'operaio non puo' essere adibito a mansioni di categoria diversa da quella di appartenenza.
 
@@ -218,7 +218,7 @@ L'assegnazione dell'operaio a categoria inferiore, non puo', in ogni caso avere 
 
 E' fatto divieto di adibire gli operai a mansioni impiegatizie o ausiliarie di cui al testo unico, approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
 
-### Art. 15 - Responsabila
+## Art. 15 - Responsabila
 
 L'operaio e' tenuto a risarcire all'Amministrazione i danni derivanti da violazioni degli obblighi di servizio.
 
@@ -226,7 +226,7 @@ Qualora nello svolgimento delle proprie mansioni l'operaio arrechi danno a terzi
 
 L'Amministrazione che abbia risarcito I terzi del danno cagionato dall'operaio si rivale agendo contro quest'ultimo a norma dei precedenti commi. Contro l'operaio addetto alla conduzione di autoveicoli e di altri mezzi meccanici l'azione dell'Amministrazione e' ammessa solo nel caso di danni arrecati per dolo o per colpa grave.
 
-### Art. 16 - Trattamento economico
+## Art. 16 - Trattamento economico
 
 L'operaio ha diritto alla paga ed agli altri assegni previa i dalla legge.
 
@@ -236,7 +236,7 @@ La paga e' corrisposta per i soli giorni lavorativi e quale corrispettivo di lav
 
 La cessione, il sequestro o il pignoramento del trattamento economico spettante all'operaio, in servizio o in quiescenza, possono aver luogo solo nei casi e nei limiti stabiliti dalle leggi in materia e non possono superare l'aliquota di un quinto della paga.
 
-### Art. 17 - Orario di lavoro
+## Art. 17 - Orario di lavoro
 
 L'orario normale di lavoro e' di quarantasei ore effettive settimanali cosi' ripartite: otto ore per tutti i giorni feriali eccetto il sabato in cui il lavoro dovra' essere di sei ore.
 
@@ -244,7 +244,7 @@ Gli intervalli fra un turno e l'altro e le interruzioni per riposo non sono cons
 
 Fermo restando in quarantasei ore effettive l'orario di lavoro settimanale, i singoli ordinamenti possono disporre una ripartizione diversa in relazione alle esigenze delle lavorazioni.
 
-### Art. 18 - Prolungamento e riduzione dell'orario di lavoro
+## Art. 18 - Prolungamento e riduzione dell'orario di lavoro
 
 Quando ricorrono eccezionali ed urgenti necessita' tecniche o di lavorazione, l'Amministrazione ha facolta' di prolungare l'orario normale.
 
@@ -258,7 +258,7 @@ L'operaio non puo' rifiutarsi, senza giustificati motivi, di prestare la sua ope
 
 Le assenze dal lavoro debitamente autorizzate, che non eccedano la, durata di un'ora non comportano riduzioni di paga.
 
-### Art. 19 - Compensi per prestazioni eccedenti le 46 ore settimanali
+## Art. 19 - Compensi per prestazioni eccedenti le 46 ore settimanali
 
 Per le ore di servizio effettivamente prestate oltre il normale orario di lavoro, l'operaio ha diritto ad un compenso per lavoro straordinario, nella misura e secondo i criteri stabiliti dalle vigenti disposizioni di legge.
 
@@ -266,13 +266,13 @@ Per le ore di servizio effettivamente prestate oltre il normale orario di lavoro
 
 Le categorie di personale previste dal precedente comma sono stabilite con decreto ministeriale.
 
-### Art. 20 - Lavoro notturno e festivo
+## Art. 20 - Lavoro notturno e festivo
 
 Il lavoro ordinario notturno e quello festivo non compensativo sono retribuiti in base ai criteri previsti dalle vigenti disposizioni.
 
 E' considerato lavoro notturno quello eseguito dalle ore ventidue alle ore cinque del giorno successivo.
 
-### Art. 21 - Lavoro a cottimo
+## Art. 21 - Lavoro a cottimo
 
 Il lavoro a cottimo e' consentito nella misura e nel modi ritenuti convenienti nell'interesse del servizio e secondo la natura e l'organizzazione del lavoro.
 
@@ -280,7 +280,7 @@ I regolamenti delle singole Amministrazioni, da emanare con decreto del Ministro
 
 Non sono ammessi al lavoro a cottimo gli operai di cui al secondo comma dell'articolo 19
 
-### Art. 22 - Soprassoldi
+## Art. 22 - Soprassoldi
 
 Possono essere concessi soprassoldi giornalieri agli operai:
 
@@ -314,13 +314,13 @@ AGGIORNAMENTO (9)
 
 La L. 15 novembre 1973, n. 734 ha disposto (con l'art. 31) che sono soppressi i soprassoldi giornalieri previsti dalle lettere b) e c) dell'art. 22 della legge 5 marzo 1961, n. 90.
 
-### Art. 23 - Riposo settimanale
+## Art. 23 - Riposo settimanale
 
 L'operaio ha diritto ad un giorno di riposo settimanale che, di regola, deve coincidere con la domenica e non presta servizio negli altri giorni riconosciuti festivi ai sensi delle disposizioni vigenti.
 
 Il godimento del diritto al riposo settimanale dello operaio che presta un servizio di semplice vigilanza o di guardiana o che comunque presta una opera discontinua, e' disciplinato dalle singole Amministrazioni con propri decreti.
 
-### Art. 24 - Congedo ordinario
+## Art. 24 - Congedo ordinario
 
 L'operaio in servizio da almeno 12 mesi ha diritto ad un congedo ordinario annuale della durata di 18 giorni lavorativi.
 
@@ -330,7 +330,7 @@ La durata del congedo e' aumentata di 15 giorni nel confronti dell'operaio che d
 
 L'operaio non puo' rinunciare al congedo ordinario, che deve essere fruito nel corso dell'anno. L'Amministrazione ha facolta' di stabilire, in relazione alle esigenze di lavoro, il periodo nel quale il congedo puo' Onere fruito.
 
-### Art. 25 - Congedo straordinario
+## Art. 25 - Congedo straordinario
 
 Compatibilmente con le esigenze di lavoro ed in seguito a domanda motivata, diretta al capo del personale, puo' essere accordato all'operaio un congedo straordinario della durata di giorni trenta.
 
@@ -348,7 +348,7 @@ AGGIORNAMENTO (4a)
 
 La L. 18 marzo 1968, n. 309 ha disposto (con l'art. 8,comma 1) che "A modifica di quanto previsto all'art. 25, secondo comma, della legge 5 marzo 1961, n. 90, la durata di giorni 30 del congedo straordinario in casi eccezionali, debitamente accertati, puo' essere prorogata, sentito il Consiglio di amministrazione, per piu' lunghi periodi di tempo, senza assegni, fino ad un massimo di 12 mesi".
 
-### Art. 26 - Congedo straordinario per richiamo alle armi
+## Art. 26 - Congedo straordinario per richiamo alle armi
 
 L'operaio richiamato alle armi in tempo di pace per istruzione o per altre esigenze di carattere temporaneo, e' considerato in congedo straordinario per la durata del richiamo limitatamente ad un periodo massimo di quaranta giorni.
 
@@ -356,19 +356,19 @@ In tal caso, durante i primi venti giorni di congedo straordinario, spettano all
 
 Per il richiamo alle armi in tempo di guerra si osservano le disposizioni delle leggi speciali.
 
-### Art. 27 - Conservazione del diritto al congedo ordinario per l'operaio che ha usufrutto dei congedo straordinario
+## Art. 27 - Conservazione del diritto al congedo ordinario per l'operaio che ha usufrutto dei congedo straordinario
 
 L'operaio che ha usufrutto del congedo straordinario, previsto dal precedente articolo, conserva il diritto al congedo ordinario.
 
-### Art. 28 - Trattamento economico durante il congedo ordinario e straordinario
+## Art. 28 - Trattamento economico durante il congedo ordinario e straordinario
 
 Salvo quanto previsto dall'art. 26, durante il periodo di congedo ordinario e durante i primi quindici giorni di congedo straordinario, spettano all'operaio tutti gli assegni, esclusi i compensi accessori comunque denominati; per gli altri quindici giorni di congedo straordinario gli assegni predetti sono ridotti di un quinto.
 
-### Art. 29
+## Art. 29
 
 ((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
 
-### Art. 30
+## Art. 30
 
 ARTICOLO ABROGATO DALLA L. 13 MAGGIO 1975, N. 157 ((6))
 
@@ -378,15 +378,15 @@ AGGIORNAMENTO (6)
 
 La Corte Costituzionale con sentenza 30 ottobre-5 novembre 1984, n. 247 (in G.U. la s.s. 14/11/1984, n. 314) ha dichiarato "l'illegittimita' costituzionale degli artt. 29, 30 e 34 l. 5 marzo 1961, n. 90 (Stato giuridico degli impiegati dello Stato) e 23 l. 18 marzo 1968, n. 249 (Delega al Governo per il riordinamento dell'Amministrazione dello Stato per il decentramento delle funzioni e il riassetto delle carriere e delle retribuzioni dei dipendenti statali) nella parte in cui non determinano nello stesso modo previsto per gli impiegati dello Stato la durata massima dell'assenza, con conservazione del posto, degli operai dello Stato per motivi di salute e la dispensa dal servizio dei medesimi quando, per infermita', risultino in condizione di non poter riprendere la propria attivita'".
 
-### Art. 31 - Corresponsione delle quote di aggiunta di famiglia durante l'assenza dal servizio per infermita
+## Art. 31 - Corresponsione delle quote di aggiunta di famiglia durante l'assenza dal servizio per infermita
 
 Nel periodo di assenza dal servizio per una delle cause indicate negli articoli 29 e 30, quando non e' dovuto o cessa il trattamento ivi previsto, l'operaio ha diritto alle quote di aggiunta di famiglia.
 
-### Art. 32 - Computo del periodo di assenza per infermita
+## Art. 32 - Computo del periodo di assenza per infermita
 
 Il periodo di assenza dal servizio per infermita' e per congedo ordinario e straordinario e' computato per intero ad fini della anzianita' di servizio, dell'attribuzione degli aumenti periodici della retribuzione e del trattamento di quiescenza e di previdenza.
 
-### Art. 33 - Assenza per servizio militare
+## Art. 33 - Assenza per servizio militare
 
 L'operaio chiamato alle armi per adempiere gli obblighi di leva o per anticipazione del servizio di leva in seguito ad arruolamento volontario e' considerato assente per servizio militare, senza assegni.
 
@@ -394,7 +394,7 @@ L'operaio richiamato alle armi in tempo di pace e' considerato assente per servi
 
 Il periodo di assenza per servizio militare e' computato per intero ai fini dell'attribuzione degli aumenti periodici della retribuzione e del trattamento di quiescenza e di previdenza.
 
-### Art. 34 - Dispensa dal servizio
+## Art. 34 - Dispensa dal servizio
 
 Scaduto il periodo massimo previsto dagli articoli 29 e 30, all'operaio puo' essere consentito, su deliberazione del Consiglio di amministrazione, un ulteriore periodo di assenza di giorni trenta con il solo trattamento previsto dall'art. 31. Trascorso tale periodo, l'operaio che risulti non idoneo per infermita' a riprendere servizio 1 proposto per Ma dispensa qualora non sia possibile adibirlo su domanda a mansioni diverse. ((6))
 
@@ -416,7 +416,7 @@ AGGIORNAMENTO (6)
 
 La Corte Costituzionale con sentenza 30 ottobre-5 novembre 1984, n. 247 (in G.U. la s.s. 14/11/1984, n. 314) ha dichiarato "l'illegittimita' costituzionale degli artt. 29, 30 e 34 l. 5 marzo 1961, n. 90 (Stato giuridico degli impiegati dello Stato) e 23 l. 18 marzo 1968, n. 249 (Delega al Governo per il riordinamento dell'Amministrazione dello Stato per il decentramento delle funzioni e il riassetto delle carriere e delle retribuzioni dei dipendenti statali) nella parte in cui non determinano nello stesso modo previsto per gli impiegati dello Stato la durata massima dell'assenza, con conservazione del posto, degli operai dello Stato per motivi di salute e la dispensa dal servizio dei medesimi quando, per infermita', risultino in condizione di non poter riprendere la propria attivita'".
 
-### Art. 35 - Riduzione di servizi o di organico
+## Art. 35 - Riduzione di servizi o di organico
 
 L'operaio che per riduzione di servizi o di organico non trovi utile Impiego nell'Amministrazione di appartenenza puo' essere trasferito ad altra Amministrazione dello Stato.
 
@@ -426,7 +426,7 @@ All'operaio trasferito a categoria inferiore e' attribuito un assegno personale,
 
 Al trasferimento si provvede con decreto del Ministri competenti di concerto con il Ministro per il tesoro.
 
-### Art. 36 - Note di qualifica
+## Art. 36 - Note di qualifica
 
 Per ogni operaio debbono essere annualmente compilate apposite note di qualifica che esprimono sinteticamente il giudizio di merito relativo alla condotta, alla capacita' ed al rendimento.
 
@@ -436,11 +436,11 @@ All'operaio al quale, nell'anno cui si riferiscono le note di qualifica aia stat
 
 Avverso la qualifica attribuita e' ammesso ricorso al Ministro competente entro 30 giorni dalla comunicazione.
 
-### Art. 37 - Organi competenti a compilare le note di qualifica
+## Art. 37 - Organi competenti a compilare le note di qualifica
 
 Salvo diverse disposizioni dei regolamenti particolari delle singole amministrazioni, le note di qualifica degli operai sono compilate dal direttori degli stabilimenti e dai capi degli uffici.
 
-### Art. 38 - Trattamenti e comandi
+## Art. 38 - Trattamenti e comandi
 
 L'Amministrazione da' periodicamente notizia nel proprio bollettino ufficiale delle sedi vacanti che non abbia ritenuto di coprire per esigenze di servizio.
 
@@ -458,7 +458,7 @@ Il comando e' disposto per tempo determinato e, in via eccezionale, per riconosc
 
 Alla spesa per l'operaio comandato provvede direttamente ed a proprio carico l'Amministrazione presso cui l'operaio stesso va a prestare servizio.
 
-### Art. 39 - Incompatibilita- Diffida
+## Art. 39 - Incompatibilita- Diffida
 
 L'operaio non puo' assumere Impegni privati ne' prestare la propria opera presso ditte private; non puo' esercitare qualsiasi professione, commercio o industria, ne' accettare cariche in societa' costituite a scopo di lucro.
 
@@ -470,17 +470,17 @@ Decorsi quindici giorni dalla diffida senza che la incompatibilita' sia cessata,
 
 La risoluzione del rapporto di lavoro e' dichiarata con decreto del Ministro.
 
-### Art. 40 - Divieto di con lo di attivita',
+## Art. 40 - Divieto di con lo di attivita',
 
 L'operaio dello Stato non puo' svolgere le attivita' di qualsiasi natura, retribuite a carico dello Stato, delle legioni, delle Province del Comuni, degli altri Enti pubblici e di qualsiasi altra Amministrazione garantita o sussidiata dallo Stato, salvo le eccezioni stabilite per legge.
 
 L'esercizio di altre attivita', nei casi in cui non e' consentito il cumulo, importa di diritto la cessazione del rapporto di lavoro, salva l'applicazione delle norme relative al trattamento di quiescenza.
 
-### Art. 41 - Disciplina
+## Art. 41 - Disciplina
 
 Salvo che non sia diversamente stabilito nella presente legge, si applicano in materia disciplinare le disposizioni contenute nel titolo VII del testo unico, approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
 
-### Art. 42 - Infrazioni e sanzioni disciplinari
+## Art. 42 - Infrazioni e sanzioni disciplinari
 
 L'operaio che viola i suoi doveri e' soggetto alle seguenti sanzioni disciplinari:
 
@@ -492,25 +492,25 @@ L'operaio che viola i suoi doveri e' soggetto alle seguenti sanzioni disciplinar
 
 4\) destituzione.
 
-### Art. 43 - Pena pecuniaria
+## Art. 43 - Pena pecuniaria
 
 La pena pecuniaria e' inflitta per brevi ritardi all'orario di servizio e brevi assenze ingiustificate, per lievi infrazioni alle norme sulle lavorazioni ed a quelle stabilite per l'ordine, la disciplina e l'igiene, nonche' per qualsiasi altra mancanza o negligenza, sempreche' tali trasgressioni non rivestano carattere di maggiore gravita'.
 
 La pena pecuniaria e' commisurata ad una o piu' aliquote orarie della retribuzione giornaliera.
 
-### Art. 44 - Autorita' competenti ad infliggere la pena pecuniaria
+## Art. 44 - Autorita' competenti ad infliggere la pena pecuniaria
 
 La pena pecuniaria e' inflitta dal direttore dello stabilimento o dal capo dell'ufficio.
 
 Avverso il provvedimento dell'autorita' di cui al precedente comma e' ammesso ricorso gerarchico al direttore generale competente, il quale decide in via definitiva.
 
-### Art. 45 - Autorita' competenti ad infliggere la riduzione della retribuzione
+## Art. 45 - Autorita' competenti ad infliggere la riduzione della retribuzione
 
 La, riduzione della retribuzione e' inflitta dal direttore dello stabilimento o dal capo dell'ufficio, sentita la apposita Commissione di disciplina locale costituita secondo gli ordinamenti delle singole Amministrazioni.
 
 La riduzione della retribuzione determina il ritardo di un anno nell'aumento periodico della retribuzione a decorrere dalla data in cui verrebbe a scadere il primo aumento successivo alla punizione.
 
-### Art. 46
+## Art. 46
 
 (Autorita' competenti ad infliggere la
 
@@ -524,7 +524,7 @@ Tale ritardo e' portato a tre anni se la sospensione e' superiore a tre mesi.
 
 Il tempo durante il quale l'operaio sia stato sospeso dal lavoro con privazione della retribuzione deve essere dedotto dal computo della anzianita'.
 
-### Art. 47 - Contestazione degli addebiti
+## Art. 47 - Contestazione degli addebiti
 
 La riduzione della retribuzione, la sospensione dal lavoro e la destituzione sono inflitte previa contestazione scritta degli addebiti effettuata dal direttore dello stabilimento o dal capo dell'ufficio.
 
@@ -534,7 +534,7 @@ I termini previsti dal precedente comma decorrono dalla data in cui le contestaz
 
 La contestazione degli addebiti puo' essere effettuata anche verbalmente nei casi di infrazioni di lieve entita' che comportino l'irrogazione della pena pecuniaria.
 
-### Art. 48 - Commissione di disciplina
+## Art. 48 - Commissione di disciplina
 
 Presso ciascuna Amministrazione centrale, anche con ordinamento autonomo, e' istituita una Commissione di disciplina, per il
 
@@ -554,31 +554,31 @@ Qualora durante il biennio il presidente o taluno dei membri della Commissione e
 
 Nessuno dei membri, compreso il presidente, puo' far parte della Commissione per piu' di quattro anni consecutivi, salvo che la sostituzione non sia resa possibile.
 
-### Art. 49 - Consiglio di amministrazione
+## Art. 49 - Consiglio di amministrazione
 
 Per il personale contemplato nella presente legge, il Consiglio di amministrazione e' quello previsto dall'articolo 146, ultimo comma, del testo unico approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
 
 Quando il Consiglio di amministrazione tratta affari riguardanti gli operai, il rappresentante del personale ausiliario, e' sostituito da due rappresentanti degli operai, nominati con decreto del Ministro all'inizio di ogni biennio su designazione delle organizzazioni sindacali di categoria piu' rappresentative sul piano nazionale.
 
-### Art. 50 - Iscrizione all'opera di previdenza
+## Art. 50 - Iscrizione all'opera di previdenza
 
 Agli operai di ruolo e' esteso l'obbligo della iscrizione all'opera di previdenza per i personali civili e militari dello Stato e per i loro superstiti, incorporata nell'Ente nazionale di previdenza e assistenza per i dipendenti statali, prevista dall'art. 2 del testo unico approvato con regio decreto 26 febbraio 1928, n. 619, e successive modificazioni ed integrazioni, ai fini della concessione delle prestazioni stabilite dall'art. 12 della legge 19 gennaio 1942, n. 22, e successive disposizioni modificative ed integrative.
 
 L'iscrizione disposta dal precedente comma ha effetto dal primo giorno del mese successivo a quello di entrata in vigore della presente legge.
 
-### Art. 51 - Collocamento a riposo per raggiunti limiti di eta
+## Art. 51 - Collocamento a riposo per raggiunti limiti di eta
 
 Gli operai sono collocati a riposo al compimento del sessantacinquesimo anno di eta', se uomini e del sessantesimo anno di eta', se donne.
 
 I provvedimenti di cessazione dal servizio adottati in applicazione del precedente comma hanno effetto dal primo giorno del mese successivo a quello del compimento del limite di eta'.
 
-### Art. 52 - Collocamento a riposo su domanda o d'ufficio
+## Art. 52 - Collocamento a riposo su domanda o d'ufficio
 
 Gli operai hanno diritto di essere collocati a riposo, su domanda, al compimento del 400 anno di servizio utile e negli altri casi previsti dalla presente legge.
 
 L'Amministrazione ha facolta' di collocare a riposo d'ufficio, l'operaio che abbia compiuto 40 anni di servizio effettivo e negli altri casi previsti dalla presente legge.
 
-### Art. 53 - Dimissioni
+## Art. 53 - Dimissioni
 
 L'operaio puo' in qualunque tempo dimettersi dal servizio.
 
@@ -588,17 +588,17 @@ L'operaio che ha presentato le dimissioni deve proseguire nell'adempimento dei d
 
 L'accettazione puo' essere rifiutata o ritardata per motivi di servizio o quando siano stati iniziati accertamenti disciplinari preliminari, oppure sia in corso procedimento disciplinare a carico dell'operaio.
 
-### Art. 54 - Effetti economici delle dimissioni
+## Art. 54 - Effetti economici delle dimissioni
 
 L'operaio dimissionario consegue il diritto alla pensione qualora abbia raggiunto un'eta' non inferiore a quella prevista per il collocamento a riposo ridotta di cinque anni e conti almeno 20 anni di servizio effettivo; oppure a qualunque eta' qualora abbia prestato almeno venticinque anni di servizio effettivo. Negli altri casi l'operaio dimissionario ha diritto alla indennita' una tantum in luogo di pensione nella misura prevista dalle vigenti disposizioni, purche' abbia prestato almeno un anno intero di servizio effettivo.
 
-### Art. 55 - Dimissioni dell'operaia coniugata
+## Art. 55 - Dimissioni dell'operaia coniugata
 
 L'operaia coniugata o vedova con prole a carico puo' presentare le dimissioni con il diritto al trattamento di quiescenza spettante alla data di risoluzione del rapporto di lavoro, secondo le vigenti disposizioni.
 
 Ai fini del compimento dell'anzianita' minima richiesta per la maturazione del diritto a pensione, e' concesso all'operaia predetta un aumento del servizio utile fino al massimo di cinque anni.
 
-### Art. 56 - Risoluzione del rapporto di lavoro per decadenza
+## Art. 56 - Risoluzione del rapporto di lavoro per decadenza
 
 L'operaio incorre nella risoluzione del rapporto di lavoro, per decadenza, oltre che nei casi previsti dagli articoli 5 e 11 quando:
 
@@ -610,11 +610,11 @@ c) non assuma o non riassuma servizio senza giustificato motivo entro il termine
 
 d) abbia conseguito la nomina mediante la produzione di documenti falsi o viziati da invalidita' non sanabile.
 
-### Art. 57 - Modalita' per la risoluzione del rapporto di lavoro per decadenza
+## Art. 57 - Modalita' per la risoluzione del rapporto di lavoro per decadenza
 
 La risoluzione del rapporto di lavoro per decadenza e' dichiarata dal Ministro competente, a seguito dell'accertamento del fatto che vi ha dato luogo.
 
-### Art. 58
+## Art. 58
 
 (Effetti economici detta risoluzione
 
@@ -624,7 +624,7 @@ La decadenza non comporta da perdita del diritto al trattamento di quiescenza, s
 
 L'operaio decaduto ai sensi della lettera d) dell'articolo 56 non puo' concorrere ad altro impiego nell'Amministrazione dello Stato.
 
-### Art. 59 - Riammissione in servizio
+## Art. 59 - Riammissione in servizio
 
 L'operaio cessato dal servizio per collocamento a riposo, per dimissioni o per decadenza nei casi previsti dalle lettere b) e c) dell'art. 56 puo' essere riammesso in servizio.
 
@@ -638,7 +638,7 @@ La riammissione in servizio e' subordinata alla vacanza del posto nell'organico 
 
 ## NORME FINALI E TRANSITORIE
 
-### Art. 60 - Divieto di assunzione di personale operaio non di ruolo
+## Art. 60 - Divieto di assunzione di personale operaio non di ruolo
 
 Dalla data di entrata in vigore della presente legge cessano di avere efficacia tutte le disposizioni che consentono l'assunzione di operai non di ruolo e giornalieri presso le Amministrazioni dello Stato anche con ordinamento autonomo.
 
@@ -646,11 +646,11 @@ I dirigenti degli Uffici centrali o periferici che emettano provvedimenti in vio
 
 La Corte dei conti, d'ufficio, o su domanda della Amministrazione, ovvero della competente Ragioneria centrale, promuove il giudizio a carico dei responsabili ai termini degli articoli 52 e 53 del testo unico 12 luglio 1934, n. 1214, e degli articoli 43 e seguenti del regolamento di procedura approvato con regio decreto 13 agosto 1933, n. 1038.
 
-### Art. 61 - Ammissione a pubblici concorsi degli operai di ruolo
+## Art. 61 - Ammissione a pubblici concorsi degli operai di ruolo
 
 Gli operai di ruolo dello Stato che siano in possesso degli altri necessari requisiti, sono ammessi a partecipare senza alcun limite di eta' a pubblici concorsi per l'accesso a posti di operaio o a posti di qualsiasi carriera delle Amministrazioni statali.
 
-### Art. 62 - Nomina in ruolo degli, operai temporanei e giornalieri
+## Art. 62 - Nomina in ruolo degli, operai temporanei e giornalieri
 
 Entro sei mesi dalla data di entrata in vigore della presente legge i salariati non di ruolo in servizio presso le Amministrazioni dello Stato, e quelle con ordinamento autonomo, e gli operai giornalieri assunti a norma dell'articolo 3, ultimo comma, della legge 26 febbraio 1952, n. 67, in servizio alla data di entrata in vigore della presente legge che abbiano prestato o prestino successivamente a tale data un periodo di servizio complessivo non inferiore a 270 giorni, sono collocati nel ruolo degli operai permanenti dell'Amministrazione cui appartengono.
 
@@ -672,19 +672,19 @@ AGGIORNAMENTO (2a)
 
 La L. 10 gennaio 1963, n. 16 ha disposto (con l'art. 2) che "Il numero complessivo dei posti della tabella organica degli operai permanenti dell'Amministrazione civile dell'interno, di cui all'articolo 62, secondo e terzo comma, della legge 5 marzo 1961, n. 90, e' aumentato delle unita' previste nella tabella C allegata alla legge 13 maggio 1961, n. 469".
 
-### Art. 63 - Riconoscimento del Servizio prestato come salariato non di ruolo
+## Art. 63 - Riconoscimento del Servizio prestato come salariato non di ruolo
 
 Ai salariati non di ruolo che conseguano La nomina in ruolo, ai sensi del precedente art. 62, e' riconosciuto valido, agli effetti degli aumenti periodici della retribuzione, previsti dalle vigenti disposizioni, il servizio prestato anteriormente alla data della nomina in ruolo.
 
 Ai salariati non di ruolo di cui al precedente comma compete, all'atto della definitiva cessazione dal servizio di ruolo, l'indennizzo di licenziamento nella misura prevista dall'art. 3 del decreto legislativo 24 gennaio 1947, n. 15, e dall'art. 10 del decreto del Presidente della Repubblica 11 gennaio 1956, n. 19, relativamente al servizio non di ruolo che non sia riscattato ai fini della pensione statale. Detto indennizzo va computato sull'ultima paga dovuta nella posizione non di ruolo.
 
-### Art. 64 - Operai adibiti a mansioni non salariati
+## Art. 64 - Operai adibiti a mansioni non salariati
 
 Le disposizioni dell'articolo 21 della legge 26 febbraio 1952, n. 67, sono estese, a domanda, agli operai di ruolo, non di ruolo e giornalieri, adibiti con carattere permanente a mansioni di natura non salariale da data non posteriore al 19 luglio 1960.
 
 La domanda di cui al primo comma deve essere presentata, a pena di decadenza, entro 90 giorni dalla data di entrata in vigore della presente legge.
 
-### Art. 65 - Disposizioni particolari per l'Amministrazione autonoma delle poste e delle telecomunicazioni
+## Art. 65 - Disposizioni particolari per l'Amministrazione autonoma delle poste e delle telecomunicazioni
 
 Per esigenze impreviste ed indilazionabili e con la osservanza delle norme sul collocamento dei lavoratori disoccupati, l'Amministrazione delle poste e delle telecomunicazioni ha facolta' di reclutare operai con contratto di diritto privato a condizione che sia stabilita la durata massima che, in ogni caso, non puo' superare sessanta giorni.
 
@@ -692,65 +692,65 @@ L'operaio assunto in base al precedente comma non acquista la qualifica di opera
 
 Si applicano le disposizioni di cui al commi secondo e terzo dell'art. 60 della presente legge.
 
-### Art. 66 - Disposizioni speciali per l'Amministrazione autonoma dei Monopoli dello Stato
+## Art. 66 - Disposizioni speciali per l'Amministrazione autonoma dei Monopoli dello Stato
 
 Sono fatte salve le speciali disposizioni contenute nell'art. 1 del decreto legislativo luogotenenziale 18 febbraio 1946, n. 113, nell'art. 4 del decreto legislativo 10 febbraio 1948, n. 229, nella legge 29 ottobre 1954, n. 1075, nonche' quelle della legge 31 marzo 1955, n. 265.
 
 Si applicano le disposizioni di cui al commi secondo e terzo dell'art. 60 della presente legge.
 
-### Art. 67 - Applicazione dell'art. 4 della legge 15 febbraio 1958, n. 46
+## Art. 67 - Applicazione dell'art. 4 della legge 15 febbraio 1958, n. 46
 
 La cessazione dal servizio degli operai che si trovino o vengano a trovarsi nelle condizioni previste dall'articolo 4, commi primo e secondo, della legge 15 febbraio 1958, n. 46, continua ad essere disciplinata secondo le disposizioni contenute nell'articolo stesso.
 
-### Art. 68 - Inquadramento nella 3ª e 5ª categoria
+## Art. 68 - Inquadramento nella 3ª e 5ª categoria
 
 Gli operai che alla data di entrata in vigore della presente legge risultano inquadrati nella 6ª e 7ª categoria di cui all'art. 2 della legge 26 febbraio 1952, n. 67, sono calcolati rispettivamente nelle categorie 3ª e 5ª, previste dall'art. 2 della presente legge, fermi restando il trattamento economico in godimento e l'anzianita' di servizio posseduta.
 
 Per i concorsi di ammissione alle predette categorie 6ª e 7ª in corso di espletamento alla data di entrata in vigore della presente legge, la nomina si effettua rispettivamente nelle categorie 3ª e 5ª.
 
-### Art. 69 - Concorsi banditi ai sensi della legge 17 agosto 1951, n. 868 concorsi ad operai temporanei in corso di espletamento alla data di entrata in vigore della presente legge sono portati a termine
+## Art. 69 - Concorsi banditi ai sensi della legge 17 agosto 1951, n. 868 concorsi ad operai temporanei in corso di espletamento alla data di entrata in vigore della presente legge sono portati a termine
 
 Ai candidati che risulteranno vincitori si applicheranno, dopo la nomina ad operai temporanei, le disposizioni di cui all'art. 62 della presente legge.
 
-### Art. 70 - Infrazioni disciplinari commesse anteriormente alla data di entrata in vigore della presente legge
+## Art. 70 - Infrazioni disciplinari commesse anteriormente alla data di entrata in vigore della presente legge
 
 Per le infrazioni disciplinari, commesse anteriormente alla data della entrata in vigore della presente legge, si applicano le sanzione ivi previste, salvo che le disposizioni precedentemente vigenti prevedevano per la stessa infrazione una sanzione di minore gravita'.
 
 Qualora l'infrazione consista in un comportamento o in una pluralita' di fatti connessi, in parte anteriori e in parte successivi all'entrata in vigore della presente legge, per i quali debba essere irrogata una sola sanzione, si applica in ogni caso la norma piu' favorevole all'operaio.
 
-### Art. 71 - Procedimenti disciplinari gia' trasmessi alle Commissioni previste dal soppresso ordinamento
+## Art. 71 - Procedimenti disciplinari gia' trasmessi alle Commissioni previste dal soppresso ordinamento
 
 I procedimenti disciplinari gia' trasmessi alle Commissioni previste dal soppresso ordinamento e sui quali, alla data di entrata in vigore della presente legge, le predette Commissioni non si siano ancora pronunciate, sono rimessi alla Commissione di disciplina di cui all'art. 48 della presente legge.
 
 Nel caso previsto dal comma precedente, il procedimento disciplinare si estingue se, entro novanta giorni dalla entrata in vigore della presente legge, non sia stata comunicata all'operaio la data della trattazione orale innanzi alla Commissione di disciplina.
 
-### Art. 72 - Procedimenti non ancora trasmessi alla Commissione di disciplina
+## Art. 72 - Procedimenti non ancora trasmessi alla Commissione di disciplina
 
 Entro novanta giorni dalla data di entrata in vigore della presente legge, il capo del personale esamina i procedimenti non ancora trasmessi alla Commissione di disciplina ed adotta i provvedimenti di competenza.
 
 Trascorso tale termine, senza che alcun provvedimento sia stato comunicato all'operaio, il procedimento si estingue.
 
-### Art. 73 - Applicazione della legge 28 dicembre 1950, n. 1079
+## Art. 73 - Applicazione della legge 28 dicembre 1950, n. 1079
 
 Le disposizioni della legge 28 dicembre 1950, n. 1079, sono estese al personale operaio riassunto in servizio fino alla data di entrata in vigore della legge 26 febbraio 1952, n. 67
 
-### Art. 74 - Disposizioni particolari per il Ministero della difesa
+## Art. 74 - Disposizioni particolari per il Ministero della difesa
 
 Fino alla prima attuazione degli organici degli operai, da stabilire in applicazione della presente legge, il Ministero della difesa potra' continuare ad avvalersi della facolta' di cui agli articoli 1 e 2 della legge 17 agosto 1957, n. 868, attribuendo tutti 1 posti conferibili a coloro che hanno frequentato con profitto i corsi presso le scuole allievi operai degli stabilimenti militari.
 
-### Art. 75 - Riserva di posti in favore di salariati non di ruolo cessati dal servizio per riduzione di personale
+## Art. 75 - Riserva di posti in favore di salariati non di ruolo cessati dal servizio per riduzione di personale
 
 Nella prima attuazione della presente legge, un terzo dei posti che saranno messi a concorso e' riservato ai salariati non di ruolo cessati dal servizio per riduzione di personale.
 
 La disposizione del precedente comma si applica solo nel confronti di coloro che all'atto del concorso, siano in possesso dei requisiti prescritti dall'art. 7, ad eccezione del limite massimo di eta'.
 
-### Art. 76 - Applicabilita
+## Art. 76 - Applicabilita
 
 Le disposizioni della presente legge ai applicano a tutti gli operai dello Stato, salvo quelle particolari degli ordinamenti speciali, Fino a quando non sara' provveduto alla emanazione della tabella prevista dal primo comma dell'art. 2 della presente legge, continua ad avere efficacia la tabella dei mestieri annessa alla legge 26 febbraio 1952, n. 67.
 
 Tutte le altre norme incompatibili con quale della presente legge sono abrogate.
 
-### Art. 77 - Copertura dell'onere
+## Art. 77 - Copertura dell'onere
 
 All'onere annuo di lire due miliardi, derivante dalla applicazione della presente legge sara' provveduto per l'esercizio finanziario 1960-61 con aliquota dei proventi dell'imposta sui contratti assicurativi.
 

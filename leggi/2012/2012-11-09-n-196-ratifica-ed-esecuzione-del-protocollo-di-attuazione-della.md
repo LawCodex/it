@@ -27,15 +27,15 @@ Promulga
 
 la seguente legge:
 
-##### Art. 1
+### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare il Protocollo di attuazione della Convenzione per la protezione delle Alpi del 1991 nell'ambito dei trasporti, fatto a Lucerna il 31 ottobre 2000.
 
-##### Art. 2
+### Art. 2
 
 1\. Piena ed intera esecuzione e' data al Protocollo di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore in conformita' a quanto disposto dall'articolo 24 del Protocollo stesso.
 
-##### Art. 3
+### Art. 3
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -49,9 +49,7 @@ Monti, Presidente del Consiglio dei Ministri
 
 Visto, il Guardasigilli: Severino
 
-## Capitolo I
-
-### Disposizioni generali
+## Capitolo I - Disposizioni generali
 
 PROTOCOLLO DI ATTUAZIONE DELLA CONVENZIONE DELLE ALPI DEL 1991
 
@@ -113,7 +111,7 @@ la Comunita' Europea,
 
 hanno convenuto quanto segue:
 
-##### Art. 1
+### Art. 1
 
 Finalita'
 
@@ -131,7 +129,7 @@ e) garantire condizioni di concorrenza equilibrate tra i singoli vettori.
 
 2\. Le Parti contraenti si impegnano a sviluppare il settore dei trasporti tenendo conto dei principi di precauzione, prevenzione e causalita'.
 
-##### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -163,7 +161,7 @@ Essi comprendono l'uso dell'infrastruttura se esso e' gratuito, i danni, l'inqui
 
 "verifica di opportunita'": procedimento di valutazione da realizzare in conformita' al diritto nazionale in occasione della progettazione di grandi infrastrutture o della trasformazione sostanziale o del potenziamento di quelle esistenti e teso a verificarne la necessita' e gli effetti in termini di politica dei trasporti, nonche' di impatto ecologico, economico e socioculturale.
 
-##### Art. 3
+### Art. 3
 
 Trasporti sostenibili e mobilita'
 
@@ -199,7 +197,7 @@ a) tenere conto delle differenti condizioni ambientali, economiche e sociocultur
 
 b) limitare l'accentuarsi dell'impatto dovuto ai trasporti, adottando una combinazione di strumenti economici e di interventi di pianificazione territoriale e dei trasporti.
 
-##### Art. 4
+### Art. 4
 
 Considerazione delle finalita' nelle altre politiche
 
@@ -207,7 +205,7 @@ Considerazione delle finalita' nelle altre politiche
 
 2\. Le Parti contraenti si impegnano a verificare preventivamente e a posteriori gli effetti che altre politiche, strategie e programmi producono sul settore dei trasporti.
 
-##### Art. 5
+### Art. 5
 
 Partecipazione degli enti territoriali
 
@@ -217,19 +215,15 @@ Partecipazione degli enti territoriali
 
 3\. Nel rispetto delle loro competenze nel quadro istituzionale vigente, gli enti territoriali direttamente interessati partecipano ai diversi stadi di preparazione e attuazione delle relative politiche e misure.
 
-##### Art. 6
+### Art. 6
 
 Misure rafforzate di protezione a livello nazionale
 
 Fatto salvo quanto disposto negli Accordi internazionali vigenti, le Parti contraenti possono adottare misure rafforzate di protezione che vanno al di la' di quelle previste dal presente Protocollo, tese alla tutela dell'ambiente alpino ecologicamente sensibile, quando lo richiedano determinate condizioni dell'ambiente o motivi di salute pubblica e di sicurezza o esigenze di protezione ambientale.
 
-## Capitolo II
+## Capitolo II - Misure specifiche A) STRATEGIE, PROGRAMMI, PROGETTI
 
-### Misure specifiche
-
-#### A) STRATEGIE, PROGRAMMI, PROGETTI
-
-##### Art. 7
+### Art. 7
 
 Strategia generale della politica dei trasporti
 
@@ -253,7 +247,7 @@ c) raggiungere una graduale riduzione delle emissioni di sostanze nocive e delle
 
 d) incrementare la sicurezza dei trasporti.
 
-##### Art. 8
+### Art. 8
 
 Valutazione di progetti e procedura di consultazione interstatale
 
@@ -265,13 +259,13 @@ Valutazione di progetti e procedura di consultazione interstatale
 
 ## B) MISURE TECNICHE
 
-##### Art. 9
+### Art. 9
 
 Trasporti pubblici
 
 Per preservare e migliorare in modo sostenibile la struttura insediativa ed economica, nonche' la vocazione ricreativa e turistica del territorio alpino, le Parti contraenti si impegnano a promuovere l'istituzione e il potenziamento di sistemi di trasporto pubblico ecocompatibili e orientati agli utenti.
 
-##### Art. 10
+### Art. 10
 
 Trasporto su rotaia e navigazione
 
@@ -289,7 +283,7 @@ e) il maggiore utilizzo della ferrovia e la creazione di sinergie orientate all'
 
 2\. Le Parti contraenti sostengono gli sforzi tesi al maggiore utilizzo delle potenzialita' della navigazione al fine di ridurre la quota di transito terrestre del trasporto merci.
 
-##### Art. 11
+### Art. 11
 
 Trasporto su strada
 
@@ -307,7 +301,7 @@ d) si tenga conto dei piani/programmi di assetto territoriale e dello sviluppo s
 
 3\. Dato che le condizioni geografiche e la struttura insediativa del territorio alpino non permettono dovunque un efficiente servizio da parte dai trasporti pubblici, le Parti contraenti riconoscono tuttavia la necessita' di creare e mantenere un livello sufficiente di infrastrutture di trasporto che garantiscano il funzionamento del trasporto individuale nelle aree periferiche.
 
-##### Art. 12
+### Art. 12
 
 Trasporto aereo
 
@@ -315,7 +309,7 @@ Trasporto aereo
 
 2\. Le Parti contraenti si impegnano a migliorare il sistema di trasporti pubblici che collega gli aeroporti siti nelle vicinanze delle Alpi con le diverse regioni alpine per poter far fronte alla domanda di trasporto aereo senza aumentare la pressione sull'ambiente. In tale contesto le Parti contraenti convengono di limitare, nella misura del possibile, la costruzione ed il potenziamento significativo degli aeroporti esistenti nel territorio alpino.
 
-##### Art. 13
+### Art. 13
 
 Impianti turistici
 
@@ -323,7 +317,7 @@ Impianti turistici
 
 2\. Le Parti contraenti sostengono la creazione e la conservazione di zone a bassa intensita' di traffico o vietate al traffico, nonche' l'istituzione di localita' turistiche vietate al traffico e tutte le misure atte a favorire l'accesso e il soggiorno dei turisti senza automobili.
 
-##### Art. 14
+### Art. 14
 
 Verita' dei costi
 
@@ -337,7 +331,7 @@ c) offrano incentivi che permettano una riduzione dell'impatto ecologico e socio
 
 ## C) MONITORAGGIO E CONTROLLO
 
-##### Art. 15
+### Art. 15
 
 Offerta e utilizzazione delle infrastrutture di trasporto
 
@@ -345,7 +339,7 @@ Offerta e utilizzazione delle infrastrutture di trasporto
 
 2\. Sulla base di tale documento di riferimento le Parti contraenti verificano in quale misura i vari provvedimenti attuativi contribuiscano al raggiungimento e all'ulteriore sviluppo degli obiettivi della Convenzione delle Alpi e in particolare del presente Protocollo.
 
-##### Art. 16
+### Art. 16
 
 Obiettivi di qualita' ambientale, standard ed indicatori
 
@@ -355,11 +349,9 @@ Obiettivi di qualita' ambientale, standard ed indicatori
 
 3\. L'applicazione di tali standard e di tali indicatori e' finalizzata a quantificare l'evoluzione dell'impatto sull'ambiente e sulla salute provocato dai trasporti.
 
-## Capitolo III
+## Capitolo III - Coordinamento, ricerca, formazione e informazione
 
-### Coordinamento, ricerca, formazione e informazione
-
-##### Art. 17
+### Art. 17
 
 Coordinamento ed informazione
 
@@ -373,7 +365,7 @@ c) promuovere lo scambio di informazioni ai fini dell'attuazione del presente Pr
 
 d) informarsi prima di prendere importanti decisioni in materia di politica dei trasporti al fine di integrarle in una politica di assetto territoriale transfrontaliera e armonizzata.
 
-##### Art. 18
+### Art. 18
 
 Ricerca e osservazione
 
@@ -387,23 +379,21 @@ Ricerca e osservazione
 
 5\. Le Parti contraenti sostengono le analisi sull'applicabilita' dei metodi di valutazione ambientale strategica e intermodale.
 
-##### Art. 19
+### Art. 19
 
 Formazione ed informazione dell'opinione pubblica
 
 Le Parti contraenti promuovono la formazione e l'aggiornamento, nonche' l'informazione dell'opinione pubblica in relazione agli obiettivi, alle misure e all'attuazione del presente Protocollo.
 
-## Capitolo IV
+## Capitolo IV - Controllo e valutazione
 
-### Controllo e valutazione
-
-##### Art. 20
+### Art. 20
 
 Attuazione
 
 Le Parti contraenti si impegnano a garantire l'attuazione del presente Protocollo mediante misure adeguate nel quadro istituzionale vigente.
 
-##### Art. 21
+### Art. 21
 
 Controllo del rispetto degli obblighi
 
@@ -417,7 +407,7 @@ Controllo del rispetto degli obblighi
 
 Qualora essa constati un mancato adempimento degli obblighi, puo' adottare raccomandazioni.
 
-##### Art. 22
+### Art. 22
 
 Valutazione dell'efficacia delle disposizioni
 
@@ -425,11 +415,9 @@ Valutazione dell'efficacia delle disposizioni
 
 2\. A questa valutazione partecipano gli enti territoriali, nel quadro istituzionale vigente. Possono essere sentite le organizzazioni non governative attive nel campo specifico.
 
-## Capitolo V
+## Capitolo V - Disposizioni finali
 
-### Disposizioni finali
-
-##### Art. 23
+### Art. 23
 
 Corrispondenza tra la Convenzione delle Alpi e il Protocollo
 
@@ -439,7 +427,7 @@ Corrispondenza tra la Convenzione delle Alpi e il Protocollo
 
 3\. Quando la Conferenza delle Alpi delibera su questioni concernenti il presente Protocollo, solo le Parti contraenti dello stesso Protocollo hanno diritto di voto in merito.
 
-##### Art. 24
+### Art. 24
 
 Firma e ratifica
 
@@ -449,7 +437,7 @@ Firma e ratifica
 
 3\. Per le Parti contraenti che esprimeranno successivamente il proprio consenso ad essere vincolate dal presente Protocollo, esso entrera' in vigore tre mesi dopo il giorno del deposito dello strumento di ratifica, accettazione o approvazione. In seguito all'entrata in vigore di un emendamento del presente Protocollo, ogni nuova Parte contraente del Protocollo medesimo diventa Parte contraente del Protocollo cosi' emendato.
 
-##### Art. 25
+### Art. 25
 
 Notifiche
 

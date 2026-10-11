@@ -52,11 +52,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I
+## Titolo I - Revisione della disciplina degli interpelli
 
-### Revisione della disciplina degli interpelli
-
-#### Art. 1
+### Art. 1
 
 Modificazioni allo Statuto dei diritti del contribuente
 
@@ -140,7 +138,7 @@ Gli atti, anche a contenuto impositivo o sanzionatorio difformi dalla risposta, 
 
 > «7. Il Governo, qualora non intenda conformarsi ai pareri parlamentari, trasmette nuovamente i testi alle Camere con le sue osservazioni, con eventuali modificazioni, corredate dei necessari elementi integrativi di informazione e motivazione. I pareri definitivi delle Commissioni competenti per materia sono espressi entro il termine di dieci giorni dalla data della nuova trasmissione. Decorso tale termine, i decreti possono essere comunque adottati».
 
-#### Art. 2
+### Art. 2
 
 Legittimazione e presupposti
 
@@ -152,7 +150,7 @@ Legittimazione e presupposti
 
 > \- L'art. 11 della legge 27 luglio 2000, n. 212 (Disposizioni in materia di Statuto dei diritti del contribuente), sostituito integralmente dal presente decreto), e' pubblicato nella Gazzetta Ufficiale 31 luglio 2000, n. 177.
 
-#### Art. 3
+### Art. 3
 
 Contenuto delle istanze
 
@@ -184,7 +182,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 17 marzo 2020, n. 18 ha disposto (con l'art. 67, comma 1) che "Sono sospesi dall'8 marzo al 31 maggio 2020 i termini relativi alle attivita' di liquidazione, di controllo, di accertamento, di riscossione e di contenzioso, da parte degli uffici degli enti impositori. Sono, altresi', sospesi, dall'8 marzo al 31 maggio 2020, i termini per fornire risposta alle istanze di interpello, ivi comprese quelle da rendere a seguito della presentazione della documentazione integrativa, di cui all'articolo 11 della legge 27 luglio 2000, n. 212, all'articolo 6 del decreto legislativo 5 agosto 2015, n. 128, e all'articolo 2 del decreto legislativo 14 settembre 2015, n. 147. Per il medesimo periodo, e', altresi', sospeso il termine previsto dall'articolo 3 del decreto legislativo 24 settembre 2015, n. 156, per la regolarizzazione delle istanze di interpello di cui al periodo precedente".
 
-#### Art. 4
+### Art. 4
 
 Istruttoria dell'interpello
 
@@ -196,7 +194,7 @@ Istruttoria dell'interpello
 
 > \- Per i riferimenti all'art. 11 della legge 27 luglio 2000, n. 212, si veda nelle note all'art. 2.
 
-#### Art. 5
+### Art. 5
 
 Inammissibilita' delle istanze
 
@@ -282,11 +280,11 @@ g) il contribuente, invitato a integrare i dati che si assumono carenti ai sensi
 
 > 6\. I contribuenti che aderiscono al regime non sono tenuti a prestare garanzia per il pagamento dei rimborsi delle imposte, sia dirette sia indirette.".
 
-#### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DAL D.LGS. 30 DICEMBRE 2023, N. 219))
 
-#### Art. 7
+### Art. 7
 
 Modifiche e abrogazioni
 
@@ -734,7 +732,7 @@ c) il comma 4-quater e' sostituito dal seguente: «4-quater. Il contribuente che
 
 > 4\. Ai fini dell'applicazione delle disposizioni di cui agli articoli 165 e 168-ter del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, l'impresa residente nel territorio dello Stato puo' interpellare l'Agenzia delle entrate ai sensi dell'articolo 11, comma 1, lettera a), della legge 27 luglio 2000, n. 212, in merito alla sussistenza di una stabile organizzazione all'estero, da valutarsi anche in base ai criteri previsti da accordi internazionali contro le doppie imposizioni, ove in vigore.".
 
-#### Art. 8
+### Art. 8
 
 Disposizioni attuative e regole procedurali
 
@@ -746,11 +744,9 @@ Disposizioni attuative e regole procedurali
 
 4\. Alle istanze di interpello presentate prima dell'emanazione del provvedimento di cui al comma 1 restano applicabili le disposizioni procedurali in vigore al momento della presentazione dell'istanza.
 
-## Titolo II
+## Titolo II - Revisione del contenzioso tributario e incremento della funzionalita' della giurisdizione tributaria
 
-### Revisione del contenzioso tributario e incremento della funzionalita' - della giurisdizione tributaria
-
-#### Art. 9
+### Art. 9
 
 Modifiche al decreto legislativo 31 dicembre 1992, n. 546
 
@@ -1308,7 +1304,7 @@ ii) all'articolo 70:
 
 > 10-bis. Per il pagamento di somme dell'importo fino a ventimila euro e comunque per il pagamento delle spese di giudizio, il ricorso e' deciso dalla Commissione in composizione monocratica.".
 
-#### Art. 10
+### Art. 10
 
 Norme di coordinamento
 
@@ -1408,7 +1404,7 @@ c) a seguito della sentenza, anche non passata in giudicato, che accoglie il ric
 
 > c) a seguito della sentenza, anche non passata in giudicato, che accoglie il ricorso avverso gli atti di cui alla lettera b). La sentenza costituisce titolo per la cancellazione dell'ipoteca. In caso di accoglimento parziale, su istanza di parte, il giudice che ha pronunciato la sentenza riduce proporzionalmente l'entita' dell'iscrizione o del sequestro; se la sentenza e' pronunciata dalla Corte di cassazione, provvede il giudice la cui sentenza e' stata impugnata con ricorso per cassazione.".
 
-#### Art. 11
+### Art. 11
 
 Modifiche al decreto legislativo 31 dicembre 1992, n. 545
 
@@ -1708,11 +1704,9 @@ Il Ministro dell'economia e delle finanze presenta entro il 30 ottobre di ciascu
 
 > 2\. Il Ministro dell'economia e delle finanze presenta entro il 30 ottobre di ciascun anno una relazione al Parlamento sullo stato della giustizia tributaria nell'anno precedente anche sulla base degli elementi predisposti dal Consiglio di presidenza, con particolare riguardo alla durata dei processi e all'efficacia degli istituti deflattivi del contenzioso.".
 
-## Titolo III
+## Titolo III - Disposizioni transitorie e norma finanziaria
 
-### Disposizioni transitorie e norma finanziaria
-
-#### Art. 12
+### Art. 12
 
 Disposizioni transitorie
 
@@ -1746,7 +1740,7 @@ Disposizioni transitorie
 
 > (Omissis).".
 
-#### Art. 13
+### Art. 13
 
 Disposizione finanziaria
 

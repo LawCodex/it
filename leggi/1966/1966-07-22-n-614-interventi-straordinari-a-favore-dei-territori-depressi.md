@@ -28,7 +28,7 @@ la seguente legge:
 
 ## CAPO I - DISPOSIZIONI DI CARATTERE GENERALE
 
-#### Art. 1
+### Art. 1
 
 Delimitazione delle zone e piani quinquennali
 
@@ -50,7 +50,7 @@ I piani impegnano le Amministrazioni interessate ad adottare i provvedimenti nec
 
 Le delimitazioni di zone depresse, nel caso in cui non sia ancora approvato il programma economico nazionale, sono effettuate sulla base dei criteri indicati al primo comma del presente articolo.
 
-#### Art. 2
+### Art. 2
 
 Realizzazione degli interventi
 
@@ -64,7 +64,7 @@ Ai fini dell'attuazione dei programmi esecutivi annuali approvati per i territor
 
 Le Regioni comunicano annualmente al Ministro per gli interventi straordinari nel Mezzogiorno e nelle zone depresse del Centro-Nord la situazione degli impegni assunti e lo stato di attuazione degli interventi nel territorio regionale.
 
-#### Art. 3
+### Art. 3
 
 Esecuzione di opere pubbliche
 
@@ -74,7 +74,7 @@ Le opere di cui al comma precedente riguardano la sistemazione dei bacini montan
 
 Le opere di cui ai commi precedenti e quelle necessarie alla realizzazione delle iniziative industriali sono dichiarate di pubblica utilita' e indifferibili ed urgenti a tutti gli effetti di legge. Tali disposizioni si applicano anche per le espropriazioni promosse allo stesso scopo da Enti locali ed eventuali loro consorzi all'uopo costituiti.
 
-#### Art. 4
+### Art. 4
 
 Agevolazioni per lo sviluppo delle attivita' agricole
 
@@ -96,7 +96,7 @@ Per l'espletamento dei compiti di cui alle lettere a), b), c), d), il Ministero 
 
 Nelle zone di cui al primo comma il tasso di interesse previsto dalla legge 2 giugno 1961, n. 454, per i mutui concessi agli imprenditori agricoli singoli od associati, ivi compresi i coltivatori diretti, gli affittuari e loro cooperative, per l'attuazione di piani di trasformazione aziendale, nonche' ai coloni ed ai mezzadri, nei casi di cui agli articoli 8 e 12 della legge 15 settembre 1964, n. 756, e' ridotto di un punto e comunque in misura non inferiore all'1 per cento.
 
-#### Art. 5
+### Art. 5
 
 Finanziamenti a tasso agevolato
 
@@ -112,7 +112,7 @@ Per consentire l'applicazione del tasso nella misura fissata ai sensi del comma 
 
 ((L'Istituto centrale per il credito a medio termine (Mediocredito centrale) e' autorizzato ad accordare agli istituti abilitati ad esercitare il credito a medio termine il proprio intervento finanziario e contributivo sulle operazioni dagli stessi compiute ai sensi del presente articolo)).
 
-#### Art. 6
+### Art. 6
 
 Finanziamento a tasso agevolato alle iniziative turistiche
 
@@ -126,7 +126,7 @@ Il tasso di interesse e la durata del mutuo sono stabiliti sulla base dei criter
 
 Per consentire l'applicazione del tasso nella misura fissata ai sensi del precedente comma, il Ministro per il turismo e lo spettacolo e' autorizzato a concedere agli Istituti di credito, previo parere degli Enti provinciali del turismo competenti per territorio, un contributo sulle singole operazioni di mutuo, secondo i criteri e le modalita' fissati dai programmi di cui al precedente articolo 2.
 
-#### Art. 7
+### Art. 7
 
 Costituzione di una societa' finanziaria interregionale per lo sviluppo delle zone dell'Italia centrale
 
@@ -134,7 +134,7 @@ Su conforme parere del Comitato interministeriale per il credito e il risparmio 
 
 La Societa' finanziaria di cui al precedente comma puo' essere autorizzata dal Comitato interministeriale per il credito e il risparmio ad emettere prestiti obbligazionari anche in deroga al limite di cui all'articolo 4410 del Codice civile.
 
-#### Art. 8
+### Art. 8
 
 Esenzioni fiscali per le nuove imprese artigiane e industriali
 
@@ -152,29 +152,27 @@ AGGIORNAMENTO (5)
 
 Il D.L. 22 dicembre 1981, n. 790, convertito con modificazioni dalla L. 23 febbraio 1982, n. 47 ha disposto (con l'art. 1, comma 10) che "Con effetto dal 1 gennaio 1982, il limite degli investimenti in impianti fissi previsto dagli articoli 8 e 12 della legge 22 luglio 1966, n. 614, richiamata nel primo comma del citato art. 30 del decreto n. 601, e' elevato a lire 6 miliardi per le piccole e medie imprese artigiane e industriali produttrici di beni che operano nelle zone riconosciute depresse e a lire 8 miliardi per le imprese di trasporto per mezzo di funi che operano nei territori montani".
 
-## CAPO II - DISPOSIZIONI SPECIALI
+## CAPO II - DISPOSIZIONI SPECIALI PER I TERRITORI MONTANI
 
-### PER I TERRITORI MONTANI
-
-#### Art. 9
+### Art. 9
 
 Limiti territoriali di applicabilita'
 
 Nei territori montani di cui alla legge 25 luglio 1952, n. 991, e successive modificazioni ed aggiunte, con esclusione dei territori nei quali la recettivita' alberghiera ed il movimento turistico nell'ultimo biennio risultino superiori ai limiti fissati dal Comitato dei Ministri di cui al terzo comma dell'articolo 1, si applicano le disposizioni previste dal presente capo, qualora non trovino applicazione le disposizioni di cui al capo precedente.
 
-#### Art. 10
+### Art. 10
 
 Esecuzione e completamento di opere pubbliche
 
 Nei territori montani di cui al precedente articolo 9, i Ministeri dei lavori pubblici e dell'agricoltura e foreste provvedono alla realizzazione di opere pubbliche indicate all'articolo 3 e al completamento - previo accertamento della loro funzionalita' - di quelle gia' iniziate ai sensi della legge 10 agosto 1950, n. 647, e successive modificazioni ed integrazioni, mediante programmi predisposti, ai sensi del precedente articolo 2, sulla base delle direttive fissate dai piani quinquennali ed approvati dal Comitato dei Ministri di cui al terzo comma del precedente articolo 1.
 
-#### Art. 11
+### Art. 11
 
 Sperimentazione zootecnica
 
 Nei territori montani di cui al precedente articolo 9, il Ministero dell'agricoltura e foreste provvede ad interventi di carattere straordinario per svolgere programmi di sperimentazione zootecnica di particolare interesse per lo sviluppo economico della montagna.
 
-#### Art. 12
+### Art. 12
 
 Agevolazioni alle iniziative turistiche, industriali e all'artigianato
 
@@ -194,11 +192,9 @@ AGGIORNAMENTO (5)
 
 Il D.L. 22 dicembre 1981, n. 790, convertito con modificazioni dalla L. 23 febbraio 1982, n. 47 ha disposto (con l'art. 1, comma 10) che "Con effetto dal 1 gennaio 1982, il limite degli investimenti in impianti fissi previsto dagli articoli 8 e 12 della legge 22 luglio 1966, n. 614, richiamata nel primo comma del citato art. 30 del decreto n. 601, e' elevato a lire 6 miliardi per le piccole e medie imprese artigiane e industriali produttrici di beni che operano nelle zone riconosciute depresse e a lire 8 miliardi per le imprese di trasporto per mezzo di funi che operano nei territori montani".
 
-## CAPO III - DISPOSIZIONI FINANZIARIE,
+## CAPO III - DISPOSIZIONI FINANZIARIE, TRANSITORIE E FINALI
 
-### TRANSITORIE E FINALI
-
-#### Art. 13
+### Art. 13
 
 Finanziamento degli interventi
 
@@ -218,19 +214,19 @@ AGGIORNAMENTO(3)
 
 La L. 25 ottobre 1968, n. 1089 ha disposto (con l'art. 2, comma 1) che "E' autorizzata la spesa di lire 60 miliardi ad incremento dell'autorizzazione di spesa prevista dall'articolo 13 della legge 22 luglio 1966, n. 614, per gli interventi straordinari in favore dei territori depressi dell'Italia settentrionale e centrale".
 
-#### Art. 14
+### Art. 14
 
 Stanziamenti per i territori montani
 
 Ai territori montani, di cui al precedente articolo 9, oltre allo stanziamento previsto dal successivo articolo 15, viene riservata, per la realizzazione degli interventi previsti dagli articoli 10, 11 e 12 della presente legge, una quota di spesa che sara' determinata dal Comitato interministeriale per la ricostruzione in sede di approvazione dei piani pluriennali, tenendo conto della superficie territoriale, della popolazione e degli interventi da effettuare nei territori stessi.
 
-#### Art. 15
+### Art. 15
 
 Utilizzazione dello stanziamento per l'anno 1966
 
 L'intero stanziamento previsto al primo comma dell'articolo 13 per l'esercizio finanziario 1966 e' destinato a contribuire al completamento, nei territori montani di cui alla legge 25 luglio 1952, n. 991 e successive modificazioni ed aggiunte, delle opere gia' iniziate ai sensi della legge 10 agosto 1950, n. 647 e successive modificazioni ed integrazioni. I relativi programmi sono predisposti tenendo conto dell'entita' e della funzionalita' delle opere, nonche' dei tempi tecnici necessari per la loro ultimazione e sono approvati dal Comitato dei Ministri di cui al terzo comma del precedente articolo 1.
 
-#### Art. 16
+### Art. 16
 
 Stanziamenti integrativi
 
@@ -238,7 +234,7 @@ Con la legge di approvazione del bilancio dello State per gli esercizi dal 1967 
 
 Tali maggiori somme sono iscritte nello stato di previsione della spesa del Ministero del tesoro e quindi, e seguito del riparto da effettuarsi con le modalita' previste dal precedente articolo 13, attribuite con decreto del Ministro per il tesoro ai singoli stati di previsione della spesa dei Ministeri dei lavori pubblici, dell'agricoltura e delle foreste, dell'industria e del commercio e del turismo e dello spettacolo.
 
-#### Art. 17
+### Art. 17
 
 Norme finali e transitorie
 
@@ -250,7 +246,7 @@ L'esenzione si applica anche al maggior reddito derivante dall'ampliamento delle
 
 La presente legge cessa di avere vigore il 31 dicembre 1980.
 
-#### Art. 18
+### Art. 18
 
 Disposizioni finali
 
@@ -262,7 +258,7 @@ Il personale delle Amministrazioni dello Stato che presta la proprie attivita' p
 
 Al terzo comma dell'articolo 4 della legge 26 giugno 1965, n. 717, dopo le parole "Ministro per il tesoro" va aggiunto "nonche' stipulare convenzioni con Enti pubblici e con privati, per il compimento di studi ed indagini occorrenti per la predisposizione dei piani di cui all'articolo 1".
 
-#### Art. 19
+### Art. 19
 
 Relazione al Parlamento
 
@@ -270,13 +266,13 @@ In allegato alla relazione annuale sulla attuazione del piano di coordinamento, 
 
 La relazione comprendera' un'analisi della distribuzione dei finanziamenti accordati per territori, settori e categorie.
 
-#### Art. 20
+### Art. 20
 
 Abrogazione di norme
 
 Le disposizioni di cui alla legge 10 agosto 1950, n. 647 e successive modificazioni, integrazioni ed aggiunte, incompatibili con le norme della presente legge, sono abrogate.
 
-#### Art. 21
+### Art. 21
 
 Entrata in vigore della legge
 

@@ -55,7 +55,7 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I - Imposta sul reddito delle persone fisiche
+### Capo I - Imposta sul reddito delle persone fisiche
 
 #### Art. 1
 
@@ -337,7 +337,7 @@ d) al comma 7, lettera a), sono aggiunte, in fine, le seguenti parole: «e dagli
 
 > 9\. Le plusvalenze e gli altri proventi di cui alla lettera c-quinquies), del comma 1, dell'art. 67, sono costituiti dalla differenza positiva tra i corrispettivi percepiti ovvero le somme od il valore normale dei beni rimborsati ed i corrispettivi pagati ovvero le somme corrisposte, aumentate di ogni onere inerente alla loro produzione, con esclusione degli interessi passivi. Dal corrispettivo percepito e dalla somma rimborsata si scomputano i redditi di capitale derivanti dal rapporto ceduto maturati ma non riscossi nonche' i redditi di capitale maturati a favore del creditore originario ma non riscossi. Si applicano le disposizioni della lettera f) del comma 7.».
 
-## Capo II - Imposta sul reddito delle societa'
+### Capo II - Imposta sul reddito delle societa'
 
 #### Art. 5
 
@@ -1157,7 +1157,7 @@ b) al comma 2 le parole: «ai fini della determinazione del reddito dell'impresa
 
 > 4\. L'imposta locale sui redditi afferente il reddito di impresa relativo al periodo di durata del procedimento e' commisurata alla differenza di cui ai commi 2 e 3 ed e' prelevata sulla stessa. Per i redditi di ciascuno degli immobili di cui all'art. 90, comma 1, e di quelli personali dell'imprenditore o dei soci compresi nel fallimento o nella liquidazione l'imposta e' dovuta per ciascun anno di possesso rientrante nel periodo di durata del procedimento ed e' prelevata, nel complessivo ammontare, sul prezzo ricavato dalla vendita.».
 
-## Capo III - Disposizioni varie
+### Capo III - Disposizioni varie
 
 #### Art. 13
 
@@ -1231,9 +1231,7 @@ b) sull'intero importo delle remunerazioni corrisposte, in relazione a partecipa
 
 > 6\. Per gli utili corrisposti a soggetti residenti ed assoggettati alla ritenuta a titolo d'imposta o all'imposta sostitutiva sul risultato maturato di gestione non si applicano le disposizioni degli articoli 5, 7, 8, 9 e 11, terzo comma, della legge 29 dicembre 1962, n. 1745.».
 
-## Capo II - Disciplina dell'imposta sostitutiva
-
-### sulle plusvalenze e sugli altri redditi
+### Capo II - Disciplina dell'imposta sostitutiva sulle plusvalenze e sugli altri redditi
 
 #### Art. 15
 
@@ -1329,9 +1327,7 @@ b) al comma 3, lettera d), le parole «dai commi 1 e 4» sono sostituite dalle s
 
 > 17\. Con il decreto di approvazione dei modelli cui all'art. 8 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e' approvato il modello di dichiarazione di cui al comma 12.».
 
-## Capo III - Disposizioni in materia di imposta
-
-### regionale sulle attivita' produttive
+### Capo III - Disposizioni in materia di imposta regionale sulle attivita' produttive
 
 #### Art. 17
 

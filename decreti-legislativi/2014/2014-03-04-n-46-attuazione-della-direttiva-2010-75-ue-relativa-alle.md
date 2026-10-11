@@ -54,11 +54,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Modifiche al decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
-### Modifiche al decreto legislativo 3 aprile 2006, n. 152, e - successive modificazioni
-
-#### Art. 1
+### Art. 1
 
 Modifiche all'articolo 5 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -372,7 +370,7 @@ i) all'articolo 5, dopo il comma 1, e' aggiunto il seguente:
 
 > 1-bis. Ai fini del della presente Parte Seconda si applicano inoltre le definizioni di 'impianto di incenerimento dei rifiuti' e di 'impianto di coincenerimento dei rifiuti' di cui alle lettere b) e c) del comma 1 dell'art. 237-ter.".
 
-#### Art. 2
+### Art. 2
 
 Modifiche all'articolo 6 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -486,7 +484,7 @@ d) al comma 16 la lettera f) e' sostituita dalla seguente:
 
 > Dall'entrata in vigore delle disposizioni di cui al presente comma e' abrogato il comma 81 dell'art. 1 della legge 23 agosto 2004, n. 239. A decorrere dalla data di entrata in vigore della presente disposizione, i titolari delle concessioni di coltivazione in mare sono tenuti a corrispondere annualmente l'aliquota di prodotto di cui all'art. 19, comma 1 del decreto legislativo 25 novembre 1996, n. 625, elevata dal 7% al 10% per il gas e dal 4% al 7% per l'olio. Il titolare unico o contitolare di ciascuna concessione e' tenuto a versare le somme corrispondenti al valore dell'incremento dell'aliquota ad apposito capitolo dell'entrata del bilancio dello Stato, per essere interamente riassegnate, in parti uguali, ad appositi capitoli istituiti nello stato di previsione del Ministero dell'ambiente e della tutela del territorio e del mare e del Ministero dello sviluppo economico, per assicurare il pieno svolgimento rispettivamente delle azioni di monitoraggio e contrasto dell'inquinamento marino e delle attivita' di vigilanza e controllo della sicurezza anche ambientale degli impianti di ricerca e coltivazione in mare.".
 
-#### Art. 3
+### Art. 3
 
 Modifiche all'articolo 7 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -538,7 +536,7 @@ b) al comma 7, lettera c), le parole: "da sottoporre a VAS, VIA ed AIA e per lo 
 
 > 9\. Le Regioni e le Province Autonome esercitano la competenza ad esse assegnata dai commi 2, 4 e 7 nel rispetto dei principi fondamentali dettati dal presente Titolo.".
 
-#### Art. 4
+### Art. 4
 
 Modifiche all'articolo 8 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -558,7 +556,7 @@ Modifiche all'articolo 8 del decreto legislativo 3 aprile 2006, n. 152, e succes
 
 > 4\. I componenti della Commissione tecnica di verifica dell'impatto ambientale provenienti dalle amministrazioni pubbliche di cui all'art. 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, sono posti in posizione di comando, distacco o fuori ruolo, nel rispetto dei rispettivi ordinamenti, conservando il diritto al trattamento economico in godimento. Le amministrazioni di rispettiva provenienza rendono indisponibile il posto liberato. In alternativa, ai componenti della Commissione tecnica di verifica dell'impatto ambientale provenienti dalle medesime amministrazioni pubbliche si applica quanto previsto dall'art. 53 del decreto legislativo 30 marzo 2001, n. 165, e, per il personale in regime di diritto pubblico, quanto stabilito dai rispettivi ordinamenti. Le disposizioni di cui al presente comma si applicano anche ai componenti della Commissione nominati ai sensi dell'art. 7 del decreto-legge 23 maggio 2008, n. 90, convertito, con modificazioni, dalla legge 14 luglio 2008, n. 123.".
 
-#### Art. 5
+### Art. 5
 
 Modifiche all'articolo 10 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -592,7 +590,7 @@ b) il comma 1-ter e' sostituito dal seguente: "1-ter. Le condizioni e le misure 
 
 > 5\. Nella redazione dello studio di impatto ambientale di cui all'art. 22, relativo a progetti previsti da piani o programmi gia' sottoposti a valutazione ambientale, possono essere utilizzate le informazioni e le analisi contenute nel rapporto ambientale. Nel corso della redazione dei progetti e nella fase della loro valutazione, sono tenute in considerazione la documentazione e le conclusioni della VAS.".
 
-#### Art. 6
+### Art. 6
 
 Modifiche all'articolo 20 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -634,7 +632,7 @@ Modifiche all'articolo 20 del decreto legislativo 3 aprile 2006, n. 152, e succe
 
 > b) con la pubblicazione integrale sul sito web dell'autorita' competente.".
 
-#### Art. 7
+### Art. 7
 
 Modifiche al Titolo III-bis, della Parte Seconda, del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -1294,7 +1292,7 @@ d) all'utilizzo di combustibili non autorizzati.
 
 > 4\. Il Ministero dell'ambiente e della tutela del territorio e del mare, provvede a garantire la sistematica informazione del pubblico sullo stato di avanzamento dei lavori relativi allo scambio di informazioni di cui al comma 3 e adotta d'intesa con la Conferenza unificata di cui all'art. 8 del decreto legislativo 28 agosto 1997, n. 281 modalita' di scambio di informazioni tra le autorita' competenti, al fine di promuovere una piu' ampia conoscenza sulle migliori tecniche disponibili e sul loro sviluppo.".
 
-#### Art. 8
+### Art. 8
 
 Modifiche all'articolo 30 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -1312,7 +1310,7 @@ Modifiche all'articolo 30 del decreto legislativo 3 aprile 2006, n. 152, e succe
 
 > 2-bis. Nei casi di cui al comma 2, ai fini dell'espressione dei rispettivi pareri, l'autorita' competente dispone che il proponente invii gli elaborati alle Regioni nonche' agli enti locali territoriali interessati dagli impatti, che si esprimono nei termini di cui all'art. 25, comma 2.".
 
-#### Art. 9
+### Art. 9
 
 Modifiche all'articolo 33 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -1344,7 +1342,7 @@ b) il comma 3-ter e' sostituito dal seguente:
 
 > 4\. Al fine di garantire l'operativita' della Commissione di cui all'art. 8-bis, nelle more dell'adozione del decreto di cui al comma 3-bis, e fino all'entrata in vigore del decreto di determinazione delle tariffe di cui al comma 1 del presente articolo, per le spese di funzionamento nonche' per il pagamento dei compensi spettanti ai componenti della predetta Commissione e' posto a carico del richiedente il versamento all'entrata del bilancio dello Stato di una somma forfetaria pari ad euro venticinquemila per ogni richiesta di autorizzazione integrata ambientale per impianti di competenza statale; la predetta somma e' riassegnata entro sessanta giorni, con decreto del Ministro dell'economia e delle finanze, e da apposito capitolo dello stato di previsione del Ministero dell'ambiente e della tutela del territorio e del mare. Le somme di cui al presente comma si intendono versate a titolo di acconto, fermo restando l'obbligo del richiedente di corrispondere conguaglio in relazione all'eventuale differenza risultante a quanto stabilito dal decreto di determinazione delle tariffe, fissate per la copertura integrale del costo effettivo del servizio reso.".
 
-#### Art. 10
+### Art. 10
 
 Modifiche all'articolo 35 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -1380,7 +1378,7 @@ Modifiche all'articolo 35 del decreto legislativo 3 aprile 2006, n. 152, e succe
 
 > 2-nonies. Il rilascio dell'autorizzazione di cui al presente decreto non esime i gestori dalla responsabilita' in relazione alle eventuali sanzioni per il mancato raggiungimento degli obiettivi di riduzione delle emissioni di cui al decreto legislativo 4 luglio 2006, n. 216 e successive modifiche ed integrazioni.".
 
-#### Art. 11
+### Art. 11
 
 Coordinamento delle previgenti norme sanzionatorie
 
@@ -1566,7 +1564,7 @@ c) all'inizio del comma 4, sono inserite le seguenti parole: "Fuori dai casi san
 
 > 11\. In caso di accertamento degli illeciti previsti dal comma 5 l'autorita' competente all'applicazione delle procedure di sequestro dispone, ove tecnicamente opportuno, ed assicurando il preventivo prelievo di campioni e la conservazione degli altri elementi necessari a fini di prova, che il combustibile fuori norma sia reso conforme alle prescrizioni violate mediante apposito trattamento a spese del responsabile. A tale fine la medesima autorita' impartisce le opportune prescrizioni circa i tempi e le modalita' del trattamento.".
 
-#### Art. 12
+### Art. 12
 
 Modifiche all'articolo 196 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -1620,7 +1618,7 @@ e) l'autorizzazione all'esercizio delle operazioni di smaltimento e recupero di 
 
 > 3\. Le regioni privilegiano la realizzazione di impianti di smaltimento e recupero dei rifiuti in aree industriali, compatibilmente con le caratteristiche delle aree medesime, incentivando le iniziative di autosmaltimento. Tale disposizione non si applica alle discariche.".
 
-#### Art. 13
+### Art. 13
 
 Modifiche all'articolo 208 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -1764,7 +1762,7 @@ c) all'articolo 208, dopo il comma 12, e' inserito il seguente:
 
 > 20\. ".
 
-#### Art. 14
+### Art. 14
 
 Modifiche all'articolo 209 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -1792,7 +1790,7 @@ Modifiche all'articolo 209 del decreto legislativo 3 aprile 2006, n. 152, e succ
 
 > 7-bis. La comunicazione dei dati di cui al comma 7 deve avvenire senza nuovi e maggiori oneri a carico della finanza pubblica tra i sistemi informativi regionali esistenti, e il Catasto telematico secondo standard condivisi.".
 
-#### Art. 15
+### Art. 15
 
 Modifiche al Titolo III della Parte Quarta del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -2196,7 +2194,7 @@ b) la conformita' delle attivita' di coincenerimento a quanto previsto agli arti
 
 8\. Per il recepimento di normative tecniche comunitarie di modifica degli allegati al presente Titolo si provvede con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, previa comunicazione ai Ministri della salute e delle attivita' produttive; ogni qualvolta la nuova normativa comunitaria preveda poteri discrezionali per la sua trasposizione, il decreto e' adottato di concerto con i Ministri della salute e delle attivita' produttive, sentita la Conferenza unificata.".
 
-#### Art. 16
+### Art. 16
 
 Modifiche al Capo I del Titolo VI della Parte Quarta del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -2232,7 +2230,7 @@ Modifiche al Capo I del Titolo VI della Parte Quarta del decreto legislativo 3 a
 
 15\. Le disposizioni di cui ai commi 1, 2, 5, 6, 7, 8, 10, 12, 13, 14 e 15 non si applicano nel caso in cui l'installazione e' soggetta alle disposizioni del Titolo III-bis della Parte seconda.".
 
-#### Art. 17
+### Art. 17
 
 Modifiche all'articolo 263 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -2250,7 +2248,7 @@ Modifiche all'articolo 263 del decreto legislativo 3 aprile 2006, n. 152, e succ
 
 > 2\. Le somme derivanti dai proventi delle sanzioni amministrative irrogate ai sensi dell'art. 261-bis sono versate all'entrata dei bilanci delle autorita' competenti e sono destinate a potenziare le ispezioni ambientali straordinarie previste dal presente decreto, in particolare all'art. 29-decies, comma 4, nonche' le ispezioni finalizzate a verificare il rispetto degli obblighi ambientali per impianti ancora privi di autorizzazione.".
 
-#### Art. 18
+### Art. 18
 
 Modifiche all'articolo 267 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -2286,7 +2284,7 @@ b) il comma 3 e' sostituito dal seguente:
 
 > d) al fine di prolungare il periodo di validita' dei certificati verdi, all'art. 20, comma 5, del decreto legislativo 29 dicembre 2003, n. 387, le parole «otto anni» sono sostituite dalle parole «dodici anni».".
 
-#### Art. 19
+### Art. 19
 
 Modifiche all'articolo 268 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -2470,7 +2468,7 @@ i) alla lettera qq) le parole: "al fine di essere alla stessa destinati" sono so
 
 > eee) veicolo-cisterna: un veicolo adibito al trasporto su strada della benzina che comprenda una o piu' cisterne montate stabilmente o facenti parte integrante del telaio o una o piu' cisterne rimuovibili.".
 
-#### Art. 20
+### Art. 20
 
 Modifiche agli articoli 269 e 270 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -2556,7 +2554,7 @@ b) al comma 8, le parole: "Per modifica sostanziale si intende quella che compor
 
 > 8-bis. Il presente articolo si applica anche ai grandi impianti di combustione, fermo restando quanto previsto all'art. 273, commi 9 e 10.".
 
-#### Art. 21
+### Art. 21
 
 Modifiche all'articolo 271 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -2616,7 +2614,7 @@ c) al comma 18, le parole: "e delle autorizzazioni integrate ambientali" sono so
 
 > 20\. Si verifica un superamento dei valori limite di emissione, ai fini del reato di cui all'art. 279, comma 2, soltanto se i controlli effettuati dall'autorita' o dagli organi di cui all'art. 268, comma 1, lett. p), accertano una difformita' tra i valori misurati e i valori limite prescritti, sulla base di metodi di campionamento e di analisi elencati nell'Allegato V alla parte quinta del presente decreto e di sistemi di monitoraggio conformi alle prescrizioni di tale allegato. Le difformita' accertate nei controlli di competenza del gestore devono essere da costui specificamente comunicate all'autorita' competente per il controllo entro 24 ore dall'accertamento. Se i risultati dei controlli di competenza del gestore e i risultati dei controlli dell'autorita' o degli organi di cui all'art. 268, comma 1, lett. p), simultaneamente effettuati, divergono in merito alla conformita' dei valori misurati ai valori limite prescritti, si procede nei modi previsti dal comma 19; i risultati di tali controlli, inclusi quelli ottenuti in sede di ripetizione dell'accertamento, non possono essere utilizzati ai fini della contestazione del reato previsto dall'art. 279, comma 2, per il superamento dei valori limite di emissione. Resta ferma, in tutti i casi, l'applicazione dell'art. 279, comma 2, se si verificano le circostanze previste dall'ultimo periodo del comma 18.".
 
-#### Art. 22
+### Art. 22
 
 Modifiche all'articolo 273 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -2758,7 +2756,7 @@ c) possibilita' tecnica ed economica di installare a posteriori le strutture per
 
 > 16-ter. L'autorita' competente, sulla base della documentazione di cui al comma 16-bis, stabilisce se le condizioni di cui allo stesso comma sono soddisfatte. In tal caso il gestore provvede a riservare un'area sufficiente all'interno del sito per installare le strutture necessarie alla cattura e alla compressione di CO2.".
 
-#### Art. 23
+### Art. 23
 
 Modifiche all'articolo 274 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -2792,7 +2790,7 @@ b) il numero di ore operative annue utilizzate dagli impianti di combustione a c
 
 8\. L'autorita' competente, se diversa dal Ministero dell'ambiente e della tutela del territorio, comunica a tale Ministero le deroghe di cui alle lettere a) e b) contestualmente all'applicazione delle stesse.".
 
-#### Art. 24
+### Art. 24
 
 Modifiche all'articolo 275 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -2898,7 +2896,7 @@ i) dopo il comma 18 e' inserito il seguente:
 
 > 22\. Per attivita' di ridotte dimensioni, ai sensi del comma 21, si intendono le attivita' di cui alla parte III, punti 1, 3, 4, 5, 8, 10, 13, 16 o 17 dell'Allegato III alla parte quinta del presente decreto aventi un consumo massimo teorico di solventi inferiore o uguale alla piu' bassa tra le soglie di consumo ivi indicate in terza colonna e le altre attivita' di cui alla parte III del medesimo Allegato III aventi un consumo massimo teorico di solventi inferiore a 10 tonnellate l'anno.".
 
-#### Art. 25
+### Art. 25
 
 Modifiche alla Parte Quinta del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -2940,7 +2938,7 @@ d) le modifiche apportate alla frequenza di campionamento e di analisi ed al luo
 
 6\. I gestori delle installazioni e degli stabilimenti che producono biossido di titanio trasmettono alle regioni e alla province autonome, entro il 31 marzo di ogni anno, una relazione contenente i dati necessari per il rapporto di cui al comma 5 con riferimento alle emissioni, agli stoccaggi e alle lavorazioni di cui al comma 3, indicando anche la tipologia e sui quantitativi di rifiuti prodotti e/o scaricati o stoccati nell'anno civile precedente.".
 
-#### Art. 26
+### Art. 26
 
 Modifiche agli Allegati alla Parte seconda del decreto legislativo 3 aprile 2006, n. 152
 
@@ -3338,7 +3336,7 @@ j) altri casi particolari legati ad assetto impiantistico, contesto ambientale e
 
 > 12\. Indicazioni dei documenti di riferimento sulle BAT (BREF) gia' pubblicati, informazioni diffuse ai sensi dell'art. 29-tedecies, comma 4, nonche' altre informazioni pubblicate dalla Commissione europea ai sensi dell'art. 16, paragrafo 2, della direttiva 96/61/CE, o da organizzazioni internazionali pubbliche.".
 
-#### Art. 27
+### Art. 27
 
 Modifiche agli allegati alla Parte quarta del decreto legislativo 3 aprile 2006, n. 152
 
@@ -4283,7 +4281,7 @@ I parametri di cui ai punti a) e b) devono essere documentati dal produttore in 
 
 > 16\. Promozione del riutilizzo e/o della riparazione di determinati prodotti scartati, o loro componenti in particolare attraverso misure educative, economiche, logistiche o altro, ad esempio il sostegno o la creazione di centri e reti accreditati di riparazione/riutilizzo, specialmente in regioni densamente popolate.".
 
-#### Art. 28
+### Art. 28
 
 Modifiche agli allegati alla Parte Quinta del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -5162,11 +5160,9 @@ c) polvere proveniente dalle fonti principali di installazioni e stabilimenti."
 
 > Parte di provvedimento in formato grafico
 
-## Capo II
+## Capo II - Disposizioni transitorie, finali ed abrogative
 
-### Disposizioni transitorie, finali ed abrogative
-
-#### Art. 29
+### Art. 29
 
 Disposizioni transitorie
 
@@ -5182,7 +5178,7 @@ Disposizioni transitorie
 
 6\. Le modifiche previste al comma 15 dell'articolo 28, in caso di stabilimenti in esercizio alla data di entrata in vigore del presente decreto, sono applicate dalle autorizzazioni rilasciate in sede di rinnovo o riesame.
 
-#### Art. 30
+### Art. 30
 
 Ulteriori disposizioni per l'attuazione del regolamento (CE) n. 166 del 2006 relativo all'istituzione di un registro europeo delle emissioni e dei trasferimenti di sostanze inquinanti e che modifica le direttive 91/689/CEE e 96/61/CE
 
@@ -5234,7 +5230,7 @@ b) per i complessi non compresi nella lettera a), la stessa autorita' competente
 
 > Il decreto del Ministero dell'ambiente e della tutela del territorio e del mare 14 febbraio 2013, n. 22 (Regolamento recante disciplina della cessazione della qualifica di rifiuto di determinate tipologie di combustibili solidi secondari (CSS), ai sensi dell'art. 184-ter, comma 2, del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni) e' pubblicato nella Gazzetta Ufficiale 14 marzo 2013, n. 62.
 
-#### Art. 31
+### Art. 31
 
 ((ARTICOLO ABROGATO DAL D.LGS. 25 NOVEMBRE 2024, N. 190)) ((2))
 
@@ -5244,7 +5240,7 @@ AGGIORNAMENTO (2)
 
 Il D.Lgs. 25 novembre 2024, n. 190 ha disposto (con l'art. 15, comma 2) che "A far data dall'entrata in vigore del presente decreto ai sensi dell'articolo 17, le disposizioni di cui all'allegato D continuano ad applicarsi alle procedure in corso, fatta salva la facolta' del soggetto proponente di optare per l'applicazione delle disposizioni di cui al presente decreto. Ai fini di cui al primo periodo, per procedure in corso si intendono quelle abilitative o autorizzatorie per le quali la verifica di completezza della documentazione presentata a corredo del progetto risulti compiuta alla data di entrata in vigore del presente decreto".
 
-#### Art. 32
+### Art. 32
 
 Modifiche al decreto-legge 29 marzo 1995, n. 96, recante interventi urgenti per il risanamento e l'adeguamento dei sistemi di smaltimento delle acque usate e degli impianti igienico-sanitari nei centri storici e nelle isole dei comuni di Venezia e di Chioggia, convertito, con modificazioni, nella legge 31 maggio 1995, n. 206
 
@@ -5262,7 +5258,7 @@ Modifiche al decreto-legge 29 marzo 1995, n. 96, recante interventi urgenti per 
 
 > 4\. ....".
 
-#### Art. 33
+### Art. 33
 
 Disposizioni finanziarie
 
@@ -5276,7 +5272,7 @@ Disposizioni finanziarie
 
 > Per il testo dell'art. 33 del decreto legislativo 3 aprile 2006, n. 152, citato nelle note alle premesse, si veda nelle note all'art. 9.
 
-#### Art. 34
+### Art. 34
 
 Abrogazioni
 

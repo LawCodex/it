@@ -27,19 +27,19 @@ Promulga
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo di cooperazione in materia di istruzione, universita' e ricerca scientifica tra il Governo della Repubblica italiana e il Governo dello Stato del Qatar, fatto a Roma il 16 aprile 2012.
 
-### Art. 2
+## Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 13 dell'Accordo stesso.
 
-### Art. 3
+## Art. 3
 
 Disposizioni finanziarie
 
@@ -47,7 +47,7 @@ Disposizioni finanziarie
 
 2\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-### Art. 4
+## Art. 4
 
 Clausola di invarianza finanziaria
 
@@ -55,7 +55,7 @@ Clausola di invarianza finanziaria
 
 2\. Agli eventuali oneri relativi all'articolo 12 dell'Accordo di cui all'articolo 1 della presente legge si fara' fronte con apposito provvedimento legislativo.
 
-### Art. 5
+## Art. 5
 
 Entrata in vigore
 
@@ -93,7 +93,7 @@ Nell'auspicio di rafforzare gli attuali rapporti di amicizia tra i due Paesi e p
 
 Concordano quanto segue:
 
-### Articolo 1
+## Articolo 1
 
 Entrambe le Parti incoraggiano lo scambio e le visite di esperti in tutti i settori dell'istruzione al fine di condividere gli sviluppi e i risultati conseguiti dai due Paesi in campo educativo.
 
@@ -101,15 +101,15 @@ Entrambe le Parti incoraggiano gli scambi di delegazioni di studenti e di gruppi
 
 Entrambe le Parti incoraggiano lo scambio di documenti e curricoli elaborati dalle autorita' scolastiche dei rispettivi Paesi con riserva sui diritti di proprieta' intellettuale per entrambi.
 
-### Articolo 2
+## Articolo 2
 
 Entrambe le Parti incoraggiano la partecipazione a corsi di formazione congiunti nel campo dell'istruzione. Le Parti concorderanno i programmi, il materiale didattico, gli orari e il numero dei partecipanti quattro (4) mesi prima dello svolgimento dei corsi. Ciascuna Parte dovra' informare la controparte circa i corsi organizzati annualmente al fine di consentire all'altra Parte di poter trarre vantaggio da detti corsi.
 
-### Articolo 3
+## Articolo 3
 
 Entrambe le Parti incoraggiano lo studio della lingua dell'altra Parte.
 
-### Articolo 4
+## Articolo 4
 
 Entrambe le Parti incoraggiano lo scambio di esperienze e informazioni nelle seguenti aree:
 
@@ -129,13 +129,13 @@ g) valutazione degli studenti;
 
 h) tecnologie dell'informazione e della comunicazione, in particolare applicate all'insegnamento delle lingue straniere.
 
-### Articolo 5
+## Articolo 5
 
 Entrambe le Parti incoraggiano lo scambio di informazioni sui titoli e sui diplomi rilasciati dalle istituzioni educative dei rispettivi Paesi.
 
 Istruzione universitaria e ricerca scientifica
 
-### Articolo 6
+## Articolo 6
 
 Entrambe le Parti incoraggiano la promozione della cooperazione accademica tra i due Paesi, nonche' l'incremento degli accordi tra le universita'.
 
@@ -143,17 +143,17 @@ Entrambe le Parti incoraggiano gli scambi e le visite di docenti, lettori e rice
 
 Entrambe le Parti incoraggiano lo sviluppo della ricerca scientifica e applicata, nonche' la produzione di studi, pubblicazioni, documenti e dati tra le universita' dei due Paesi.
 
-### Articolo 7
+## Articolo 7
 
 Entrambe le Parti incoraggiano lo scambio di informazioni relativamente alle attivita' e al funzionamento dei sistemi universitari e ai titoli accademici dei due Paesi.
 
 Per cio' che concerne il mutuo riconoscimento dei titoli universitari ai fini del proseguimento degli studi nelle universita' di entrambi i Paesi, le Parti esamineranno la possibilita' di istituire un tavolo di esperti con il compito di redigere un accordo bilaterale.
 
-### Articolo 8
+## Articolo 8
 
 Entrambe le Parti incoraggiano l'assegnazione di borse di' studio a studenti e laureati che desiderano studiare all'estero ai fini del conseguimento di un titolo universitario o per condurre attivita' di ricerca.
 
-### Articolo 9
+## Articolo 9
 
 Entrambe le Parti si incontreranno periodicamente allo scopo di rafforzare la collaborazione e facilitare il conseguimento di obiettivi scientifici comuni.
 
@@ -171,19 +171,19 @@ d) elaborazione congiunta di piani, studi e attivita' di ricerca.
 
 ## Disposizioni generali
 
-### Articolo 10
+## Articolo 10
 
 Ogni decisione riguardante i' membri delle delegazioni che parteciperanno ai seminari e ai corsi e ogni altro aspetto relativo alle visite reciproche tra le Parti, come pure la calendarizzazione e la durata di detti incontri e seminari, sara' presa tramite corrispondenza tra le Parti, ciascuna delle quali dovra' essere informata con almeno quattro (4) mesi di anticipo.
 
-### Articolo 11
+## Articolo 11
 
 Ciascuna Parte dovra' farsi carico dei costi e delle spese da essa sostenute per lo svolgimento delle attivita' di collaborazione derivanti dal presente Accordo, ivi comprese le spese di viaggio e di alloggio.
 
-### Articolo 12
+## Articolo 12
 
 Le disposizioni contenute nel presente Accordo e in ciascuno dei suoi articoli possono essere emendate previo consenso scritto di entrambe le Parti. Ogni emendamento entra in vigore secondo le procedure di cui al successivo articolo 13.
 
-### Articolo 13
+## Articolo 13
 
 Il presente Accordo entra in vigore alla data di ricevimento dell'ultima delle due comunicazioni con le quali ciascuna Parte notifica all'altra Parte l'avvenuta conclusione delle rispettive procedure di ratifica. Il presente Accordo ha durata triennale e sara' automaticamente rinnovato per un periodo/periodi analogo/ghi, salvo diverso avviso di una delle due Parti, espresso per iscritto almeno sei (6) mesi prima della scadenza dei termini dell'intesa.
 
@@ -193,7 +193,7 @@ Il presente Accordo e' firmato a Roma il 16 aprile 2012 AD, che corrisponde a ..
 
 Parte di provvedimento in formato grafico
 
-### Agreement
+## Agreement
 
 CO-OPERATION AGREEMENT
 

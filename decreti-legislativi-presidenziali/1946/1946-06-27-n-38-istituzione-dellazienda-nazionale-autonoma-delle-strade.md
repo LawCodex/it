@@ -36,11 +36,9 @@ Sulla proposta del Ministro Segretario di Stato per i lavori pubblici, di concer
 
 HA SANZIONATO E PROMULGA:
 
-## TITOLO I.
+## TITOLO I. - COMPITI DELL'AZIENDA
 
-### COMPITI DELL'AZIENDA
-
-##### Art. 1
+#### Art. 1
 
 E' istituita con sede in Roma e alle dipendenze del Ministero dei lavori pubblici, l'Azienda Nazionale Autonoma delle Strade Statali (A.N.A.S.).
 
@@ -56,23 +54,21 @@ d) di controllare l'esercizio delle autostrade non appartenenti allo Stato;
 
 e) di presiedere all'attuazione delle leggi e dei regolamenti di polizia per quanto concerne la tutela del patrimonio delle strade statali, nonche' per quanto concerne, la circolazione e la disciplina dei traffico sulle strade e sulle aree pubbliche.
 
-##### Art. 2
+#### Art. 2
 
 Fino al 31 dicembre 1949, l'Azienda ha altresi' il compito di esercitare l'assistenza tecnica alle provincie e ai comuni per quanto riguarda la manutenzione delle strade pubbliche che a tali enti appartengono, e la vigilanza su di essi con i poteri di cui all'art. 9 della legge 15 novembre 1923, n. 2506, nonche' di provvedere all'attuazione di opportune forme di cooperazione fra i nominati enti allo scopo di meglio assicurare la gestione manutentoria delle dette strade.
 
 Le norme dirette a regolare tale cooperazione e l'intervento in esse dell'Azienda sono emanate per decreto Presidenziale.
 
-##### Art. 3
+#### Art. 3
 
 Per il disimpegno dei compiti affidatigli l'Azienda cura la gestione di impianti e macchinari stradali, assumendo in dotazione i materiali comunque assegnati alla viabilita' statale.
 
 ## TITOLO II - ORGANI DELL'AZIENDA
 
-### CAPO I
+### CAPO I - Organi esecutivi.
 
-#### Organi esecutivi.
-
-##### Art. 4
+#### Art. 4
 
 Il Ministro per i lavori pubblici presiede l'Azienda e ne esprime la volonta'.
 
@@ -80,7 +76,7 @@ In caso di assenza o di impedimento il Ministro e' sostituito dal Sottosegretari
 
 Sono organi esecutivi dell'Azienda,: la Direzione generale e i Compartimenti regionali della viabilita'.
 
-##### Art. 5
+#### Art. 5
 
 La Direzione generale comprende:
 
@@ -98,7 +94,7 @@ La ripartizione e la competenza dei Servizi e la distribuzione del persona le de
 
 Le funzioni di ufficiale rogante sono affidate con decreto Ministeriale ad un funzionario amministrativo di gruppo Al, di grado non inferiore al 9° Le funzioni di economo cassiere e quelle di vice economo cassiere, sono affidate con decreto Ministeriale a funzionari di gruppo B di grado non inferiore al 10° o di gruppo C non inferiore al grado 9°.
 
-##### Art. 6
+#### Art. 6
 
 Il direttore generale e capo degli uffici centrali e periferici dell'Azienda ed ha alle sue dipendenze tutto il personale ad essi adibito. Egli fa eseguire le deliberazioni del Ministro per i lavori pubblici, presidente della Azienda, adotta i provvedimenti e disimpegna tutte le altre attribuzioni cime gli sono delegate dal Ministro stesso.
 
@@ -106,15 +102,15 @@ Il direttore generale presenta al Ministro per i lavori pubblici, entro il mese 
 
 Il direttore generale e' nominato con decreto Presidenziale su proposta del Ministro per i lavori pubblici, presidente dell'Azienda, udito il Consiglio dei Ministri ed e' classificato nel grado 4° dell'ordinamento gerarchico dell'Amministrazione dello Stato, approvato con decreto reale 11 novembre 1923, n. 2395, ed e' di diritto membro elettivo del Consiglio superiore dei lavori pubblici.
 
-##### Art. 7
+#### Art. 7
 
 Il direttore del Servizio amministrativo presiede gli uffici amministrativi dell'Azienda; inoltre coadiuva il direttore generale e lo sostituisce in caso di assenza o di impedimento. Egli e classificato nel grado 5° dell'ordinamento gerarchico delle Amministrazioni dello Stato ed e' nominato con decreto Presidenziale su proposta del Ministro per i lavori pubblici.
 
-##### Art. 8
+#### Art. 8
 
 Il Servizio ragioneria e alle dipendenze di un direttore capo di ragioneria, nominato dal Ministro per il tesoro e si svolgera' in conformita' alle disposizioni vigenti per la contabilita' generale dello Stato.
 
-##### Art. 9
+#### Art. 9
 
 I Compartimenti regionali per la viabilita' assorbono gli uffici del Genio civile per la viabilita' statale.
 
@@ -124,7 +120,7 @@ Essi possono essere modificate con decreto Presidenziale sentito il Consiglio di
 
 La ripartizione e la competenza dei servizi e la distribuzione del personale dei Compartimenti regionali della viabilita' sono fatte con decreto del Ministro per i lavori pubblici, presidente dell'Azienda.
 
-##### Art. 10
+#### Art. 10
 
 I Compartimenti regionali per la viabilita', ciascuno nell'ambito della propria circoscrizione territoriale:
 
@@ -148,13 +144,13 @@ i) provvedono all'istruttoria di ogni altra pratica inerente ai compiti dell'Azi
 
 Il presidente puo' delegare ai capi compartimento della viabilita' altre funzioni, fatta eccezione per i provvedimenti comportanti impegni di spesa, per quelli concernenti nomine, nonche' per i provvedimenti disciplinari.
 
-## CAPO II - Organi consultivi.
+### CAPO II - Organi consultivi.
 
-##### Art. 11
+#### Art. 11
 
 Sono organi consultivi dell'Azienda il Consiglio di amministrazione, il Comiato, gli ispettori generali tecnici.
 
-##### Art. 12
+#### Art. 12
 
 Il Consiglio d'amministrazione e' composto:
 
@@ -198,7 +194,7 @@ Le funzioni di segretario sono disimpegnate dal capo della Divisione amministrat
 
 I membri del Consiglio d'amministrazione di cui alle lettere g), h), i), l), m), n), o), p), q), r), s), sono nominati con decreto del Ministro per i lavori pubblici, di concerto, ove occorra, con gli altri Ministri interessati.
 
-##### Art. 13
+#### Art. 13
 
 Il parere del Consiglio d'amministrazione e' richiesto:
 
@@ -230,11 +226,11 @@ o) su ogni altro argomento, sul quale il Ministro abbia ritenuto di promuovere i
 
 Per la validita' delle adunanze del Consiglio, occorre la presenza del presidente o di chi ne fa le veci e di almeno dieci consiglieri, e, per la validita' dei suoi pareri, la maggioranza assoluta degli intervenuti.
 
-##### Art. 14
+#### Art. 14
 
 La carica di consigliere d'amministrazione e' incompatibile con la qualifica di proprietario, amministratore, procuratore, rappresentante o consulente di societa' e ditte la cui attivita' sia rivolta alla sistemazione, manutenzione o costruzione di strade.
 
-##### Art. 15
+#### Art. 15
 
 Il Comitato e' composto:
 
@@ -256,7 +252,7 @@ h) dal rappresentante del Ministero del tesoro, membro dei Consiglio d'amministr
 
 Le funzioni di segretario sono disimpegnate dai capo della Divisione amministrativa che tratta gli affari generali.
 
-##### Art. 16
+#### Art. 16
 
 Il parere del Comitato e' richiesto:
 
@@ -278,7 +274,7 @@ h) sulle proposte di risoluzione e rescissione di contratti;
 
 i) su ogni altro argomento sul quale il Ministro o il direttore generale abbia ritenuto di sentire il suo parere.
 
-##### Art. 17
+#### Art. 17
 
 E' richiesto il parere degli ispettori generali tecnici:
 
@@ -300,13 +296,13 @@ Sulle perizie di spesa per il funzionamento dei servizi della Direzione generale
 
 Per i progetti e le perizie di importi inferiori a quelli sopraindicati e sufficiente il visto in linea tecnica dell'ingegnere capo del compartimento.
 
-##### Art. 18
+#### Art. 18
 
 I pareri degli organi consultivi dell'Azienda sostituiscono a tutti gli effetti quelli degli altri organi tecnici prescritti da norme di carattere generale.
 
 ## TITOLO III - PERSONALE DELL'AZIENDA
 
-##### Art. 19
+#### Art. 19
 
 Il personale dell'Azienda Nazionale Autonoma delle Strade Statali (A.N.A.S.) compresi il direttore generale ed il direttore dei Servizi amministrativi, e' costituito da funzionari dei ruoli dell'Amministrazione centrale e periferica dei Lavori pubblici, e di quella del Tesoro, giusta l'annessa tabella B, vistata dal Ministro per i lavori pubblici e da quello per il tesoro.
 
@@ -320,13 +316,13 @@ Il direttore generale, e, in caso di sua assenza od impedimento, i capi servizio
 
 Ai Consigli d'amministrazione del personale subalterno dell'Amministrazione centrale dei lavori pubblici, del Genio civile e delle Nuove costruzioni ferroviarie, partecipa in analoghi casi, il direttore capo della Divisione che tratta la materia del personale dell'Azienda.
 
-##### Art. 20
+#### Art. 20
 
 Il personale a contratto della cessata Azienda Autonoma Statale della Strada, passa alla completa dipendenza dell'Azienda Nazionale Autonoma delle Strade Statali col trattamento stabilito dal regio decreto legge 16 giugno 1938, n. 1302 e successive modificazioni ed integrazioni, salvo a fruire di eventuali disposizioni piu' favorevoli che venissero emanate per il personale non di ruolo delle Amministrazioni dello Stato.
 
 L'A.N.A.S. e' autorizzata a tenere in servizio impiegati avventizi secondo le norme del regio decreto 4 febbraio 1937, n. 100, nei limiti del contingente che sara' stabilito anno per anno dal Ministro per i lavori pubblici, presidente dell'Azienda, di concerto con il Ministro per il tesoro.
 
-##### Art. 21
+#### Art. 21
 
 Le note di qualifica degli impiegati dei Ministero dei lavori pubblici e di quelli del tesoro comandati alla.
 
@@ -334,17 +330,17 @@ Azienda, sono compilate e rivedute dai funzionari preposti agli uffici presso cu
 
 Gli eventuali giudizi disciplinari a carico di detti impiegati comandati hanno luogo presso l'Amministrazione di appartenenza in conformita' delle norme presso ciascuna vigenti in materia, e sono promossi dal Ministro per i lavori pubblici, presidente della Azienda, su proposta del direttore generale.
 
-##### Art. 22
+#### Art. 22
 
 I funzionari amministrativi comandati dal Ministero dei lavori pubblici di grado non superiore al 7°, possono essere destinati per normale servizio agli uffici periferici.
 
-##### Art. 23
+#### Art. 23
 
 Ai funzionari di ruolo comandati presso l'Azienda ai quali siano assegnate funzioni superiori, proprie dei gradi 5° e 6°, puo' essere accordato, su parere del Comitato, il trattamento economico iniziale del grado corrispondente alle dette funzioni.
 
 Tale trattamento puo' essere accordato solo per il grado immediatamente superiore a quello rivestito dal funzionario, e dopo che il funzionario stesso abbia trascorso nel proprio grado il tempo minimo richiesto per la promozione.
 
-##### Art. 24
+#### Art. 24
 
 Il personale dei capi cantonieri, cantonieri scelti, cantonieri e allievi cantonieri, di cui alla legge 22 dicembre 1932, n. 1754, passa alle dipendenze dell'Azienda, giusta l'annessa tabella C, vistata dal Ministro per i lavori pubblici e da quello per il tesoro.
 
@@ -360,19 +356,19 @@ Sugli autoservizi che usufruiscono di tronchi di strade statali avranno libero t
 
 L'Azienda e' autorizzata a provvedere, a carico del proprio bilancio, d'intesa col Ministero della pubblica istruzione, alla istituzione presso case cantoniere in localita' isolate di scuole rurali ad uso dei figli dei capi cantonieri e cantonieri e della popolazione scolastica della zona.
 
-##### Art. 25
+#### Art. 25
 
 La Cassa di mutuo soccorso tra i capi cantonieri e i cantonieri delle strade statali, e l'annessa gestione della massa vestiaria, passano alle dipendenze della Azienda Nazionale Autonoma delle Strade Statali.
 
 Al nuovo ordinamento della Cassa, sara' provveduto con decreto del Ministro per i lavori pubblici, presidente dell'Azienda, di concerto col Ministro per il tesoro.
 
-##### Art. 26
+#### Art. 26
 
 Tutti i provvedimenti relativi al personale, compresi quelli di cui all'art. 7, sono adottati sentito il direttore generale.
 
 ## TITOLO IV - DISPOSIZIONI FINANZIARIE
 
-##### Art. 27
+#### Art. 27
 
 Le entrate ordinarie dell'Azienda sono costituite:
 
@@ -394,7 +390,7 @@ h) dai proventi dei contributi di miglioria imposti in dipendenza della esecuzio
 
 Con decreto Presidenziale su proposta del Ministro per i lavori pubblici, di concerto coi Ministri per le finanze e per il tesoro, udito il Consiglio dei Ministri, possono essere apportate modifiche alle aliquote relative alle tasse e ai canoni previsti nel presente articolo e possono altresi' essere assegnati all'Azienda nuovi cespiti in relazione al progressivo incremento dei servizi che gli sono affidati.
 
-##### Art. 28
+#### Art. 28
 
 Le spese dell'Azienda sono costituite:
 
@@ -408,19 +404,19 @@ d) dalle spese necessarie per la dotazione del materiale di esercizio occorrente
 
 La parte degli stanziamenti di bilancio per la' manutenzione ordinaria e di quelli per riparazioni o prevenzioni di danni, non erogata alla chiusura dell'anno finanziario, sara' portata in aumento degli stanziamenti.
 
-##### Art. 29
+#### Art. 29
 
 Sono trasferiti al bilancio dell'Azienda, i contributi gia' assegnati alla cessata Azienda Autonoma Statale della Strada in base all'art. 6 del regio decreto-legge 11 gennaio 1934, n. 38, convertito nella legge 7 giugno 1934, n. 982, con le modifiche apportatevi dall'art. 10 dell regio decreto-legge 23 settembre 1935, n. 1723, convertito nella legge 2 gennaio 1936, n. 49, e dell'art. 1 della legge 13 luglio 1939, n. 1057, e che in base all'art. 4 del decreto legislativo luogotenenziale 29 settembre 1944, n. 377, affluivano al bilancio dell'entrata del Tesoro dello Stato.
 
 E' trasferita altresi' la somma che alla data di inizio di funzionamento dell'Azienda risulti non erogata sull'assegnazione di lire settemiliardi centomilioni fatta in favore del Ministero dei lavori pubblici di cui alla lettera a) del decreto legislativo luogotenenziale 10 ottobre 1945, n. 690.
 
-##### Art. 30
+#### Art. 30
 
 Il bilancio di previsione dell'entrata e della spesa dell'Azienda, e' presentato all'approvazione del Parlamento in allegato allo stato di previsione della spesa del Ministero dei lavori pubblici.
 
 Il conto consuntivo e allegato in appendice al rendiconto generale dello Stato.
 
-##### Art. 31
+#### Art. 31
 
 L'Azienda iniziera' la propria gestione il 1° luglio 1946.
 
@@ -432,7 +428,7 @@ Con decreto del Ministro per il tesoro, di concerto con quello per i lavori pubb
 
 L'Azienda provvedera' a soddisfare gli oneri dipendenti dai servizi suddetti relativamente agli esercizi decorsi.
 
-##### Art. 32
+#### Art. 32
 
 La Tesoreria centrale, al principio di ogni esercizio finanziario, e' autorizzata a concedere pel finanziamento dell'Azienda una apertura di credito fino ad un quarto dell'ammontare complessivo delle somme stanziate sul bilancio della spesa dell'Azienda per l'esercizio stesso. In caso di necessita' urgente tale limite potra' essere superato previa autorizzazione data, di volta in volta, dal Ministro per il tesoro, di concerto con quello per i lavori pubblici.
 
@@ -446,7 +442,7 @@ Le somme disponibili in eccedenza dei presumibili bisogni dell'Azienda possono e
 
 ## TITOLO V - DISPOSIZIONI VARIE
 
-##### Art. 33
+#### Art. 33
 
 L'Amministrazione dell'azienda e' tenuta all'osservanza delle norme sulla contabilita' dello Stato in quanto non siano modificate dal presente decreto.
 
@@ -454,7 +450,7 @@ Per la gestione dei lavori che sono nella competenza dell'Azienda sono applicate
 
 Con decreto Presidenziale su proposta del Ministro per i lavori pubblici, di concerto con quello per il tesoro, sentito il Consiglio dei Ministri, con le forme della legge 31 gennaio 1926, n. 100, saranno apportate norme semplificative di quelle di cui ai precedenti comuni.
 
-##### Art. 34
+#### Art. 34
 
 Le aste pubbliche per l'appalto di opere dipendenti dall'Azienda il cui importo ecceda tre milioni, sono tenute simultaneamente presso la Direzione generale dell'azienda e presso il Provveditorato regionale alle opere pubbliche nella cui circoscrizione le opere stesse si devono eseguire. Le licitazioni private per opere il cui importo ecceda lire tre milioni si tengono esclusivamente presso la Direzione generale dell'azienda.
 
@@ -470,19 +466,19 @@ L'Amministrazione dell'azienda provvede a trattativa privata od in economia ad o
 
 I contratti dell'Azienda sono equiparati a quelli dello Stato agli effetti tributari.
 
-##### Art. 35
+#### Art. 35
 
 L'approvazione dei progetti da parte del Ministro per i lavori pubblici equivale a dichiarazione di pubblica utilita' dell'opera.
 
 Hanno pure efficacia di dichiarazione di pubblica utilita' le perizie debitamente approvate concernenti l'esercizio delle attivita' contemplate dall'art. 3.
 
-##### Art. 36
+#### Art. 36
 
 La Corte dei conti vigila sulle entrate, fa il riscontro consultivo sulle spese dell'Azienda ed' ha diritto di richiedere tutti i documenti dai quali traggono origine le spese stesse.
 
 Le dette attribuzioni della Corte dei conti si esercitano a mezzo della delegazione della Corte stessa presso il Ministero dei lavori pubblici, istituita con decreto legislativo luogotenenziale 18 gennaio 1945, n. 6.
 
-##### Art. 37
+#### Art. 37
 
 La consulenza legale dell'Azienda e' affidata all'Avvocatura dello Stato.
 
@@ -494,15 +490,15 @@ L'Avvocatura dello stato assume altresi' la rappresentanza e la difesa degli imp
 
 Fatta eccezione per i giudizi innanzi ai conciliatori ed ai pretori, le citazioni, le sentenze ed ogni altro atto giudiziario devono essere notificati, a pena di nullita' da pronunziarsi anche di ufficio, al Ministro per i lavori pubblici in rappresentanza dell'Azienda, presso l'ufficio dell'Avvocatura nel cui distretto ha sede la autorita' giudiziaria innanzi alla quale viene introdotta o pende la causa, o che abbia pronunziato la sentenza.
 
-##### Art. 38
+#### Art. 38
 
 Con decreto Presidenziale su proposta del Ministro per i lavori pubblici, di concerto con quello per il tesoro, sentito il Consiglio dei Ministri, potranno essere eventualmente concesse, se in dipendenza di prestazioni particolarmente onerose si ravvisi la necessita' della loro istituzione, indennita' al direttore generale, al direttore dei Servizi amministrativi, ai membri del Consiglio di amministrazione e del Comitato, ed ai rispettivi segretari.
 
-##### Art. 39
+#### Art. 39
 
 Sono abrogate le disposizioni della legge 17 maggio 1928, n. 1094, del regio decreto 1° giugno 1928, n. 1139, e delle successive, concernenti la cessata Azienda Autonoma Statale della Strada, rimaste in vigore in forza dell'art. 14 del decreto legislativo luogotenenziale 29 settembre 1944, n. 377 e che non siano state richiamate dal presente decreto.
 
-##### Art. 40
+#### Art. 40
 
 Il Ministro per il tesoro e' autorizzato ad introdurre in bilancio con propri decreti, le variazioni occorrenti per l'esecuzione del presente decreto.
 
@@ -522,7 +518,7 @@ Atti del Governo, registro n. 1, foglio n. 37. - FRASCA
 
 ## TITOLO V - DISPOSIZIONI VARIE
 
-##### Tabella A
+#### Tabella A
 
 TABELLA A.
 
@@ -561,7 +557,7 @@ il Ministro per i lavori pubblici il Ministro per il tesoro
 
 CATTANI CORBINO
 
-##### Tabella B
+#### Tabella B
 
 TABELLA B.
 
@@ -635,7 +631,7 @@ Il Ministro per i lavori pubblici Il Ministro per il tesoro
 
 CATTANI CORBINO
 
-##### Tabella C
+#### Tabella C
 
 TABELLA C
 

@@ -50,7 +50,7 @@ il seguente decreto legislativo:
 
 ### Capo I - Disposizioni generali
 
-###### Art. 1
+##### Art. 1
 
 Oggetto
 
@@ -66,7 +66,7 @@ Oggetto
 
 > Il presente decreto legislativo e' pubblicato, per motivi di massima urgenza, senza note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 14 marzo 1986, n. 217. In supplemento ordinario alla Gazzetta Ufficiale - serie generale - del 21 maggio 1988 si procedera' alla ripubblicazione del presente decreto legislativo, corredato delle relative note, ai sensi dell'art. 10, comma 3, del D.P.R. 28 dicembre 1985, n. 1092, nonche' ai sensi dell'art. 8, commi 1 e 3, del sopra citato regolamento, approvato con D.P.R. n. 217/1986.
 
-###### Art. 2
+##### Art. 2
 
 Rapporti internazionali e con l'Unione europea
 
@@ -74,7 +74,7 @@ Rapporti internazionali e con l'Unione europea
 
 Spettano allo Stato i compiti preordinati ad assicurare l'esecuzione a livello nazionale degli obblighi derivanti dal Trattato sull'Unione europea e dagli accordi internazionali. Ogni altra attivita' di esecuzione e' esercitata dallo Stato ovvero dalle regioni e dagli enti locali secondo la ripartizione delle attribuzioni risultante dalle norme vigenti e dalle disposizioni del presente decreto legislativo.
 
-###### Art. 3
+##### Art. 3
 
 Conferimenti alle regioni e agli enti locali
 
@@ -94,13 +94,13 @@ e strumenti di raccordo
 
 7\. Ai fini dell'applicazione del presente decreto legislativo e ai sensi dell'articolo 1 e dell'articolo 3 della legge 15 marzo 1997, n. 59, tutte le funzioni e i compiti non espressamente conservati allo Stato con le disposizioni del presente decreto legislativo sono conferiti alle regioni e agli enti locali.
 
-###### Art. 4
+##### Art. 4
 
 Indirizzo e coordinamento
 
 1\. Relativamente alle funzioni e ai compiti conferiti alle regioni e agli enti locali con il presente decreto legislativo, e' conservato allo Stato il potere di indirizzo e coordinamento da esercitarsi ai sensi dell'articolo 8 della legge 15 marzo 1997, n. 59.
 
-###### Art. 5
+##### Art. 5
 
 Poteri sostitutivi
 
@@ -112,7 +112,7 @@ Poteri sostitutivi
 
 4\. Restano ferme le disposizioni in materia di poteri sostitutivi previste dalla legislazione vigente.
 
-###### Art. 6
+##### Art. 6
 
 Coordinamento delle informazioni
 
@@ -122,7 +122,7 @@ Coordinamento delle informazioni
 
 3\. Le misure necessarie sono adottate con le procedure e gli strumenti di cui agli articoli 6 e 9 del decreto legislativo 28 agosto 1997, n. 281.
 
-###### Art. 7
+##### Art. 7
 
 Attribuzione delle risorse
 
@@ -178,13 +178,13 @@ AGGIORNAMENTO (16)
 
 Il D.L. 30 dicembre 2005, n. 273 convertito con modificazioni dalla L. 23 febbraio 2006, n. 51 ha disposto (con l'art. 25, comma 1) che " Il termine di due anni, da ultimo stabilito con provvedimento adottato ai sensi dell'articolo 7 della legge 15 marzo 1997, n. 59, e dell'articolo 7 del decreto legislativo 31 marzo 1998, n. 112, per l'esercizio delle funzioni previste dall'articolo 66 del citato decreto legislativo n. 112 del 1998, e' prorogato di un anno."
 
-###### Art. 8
+##### Art. 8
 
 Regime fiscale del trasferimento dei beni
 
 1\. I decreti del Presidente del Consiglio dei Ministri di cui all'articolo 7 della legge 15 marzo 1997, n. 59, che trasferiscono a regioni ed enti locali i beni in relazione alle funzioni conferite, costituiscono titolo per l'apposita trascrizione dei beni immobili che dovra' avvenire con esenzione per gli enti interessati di ogni onere relativo ad imposte e tasse.
 
-###### Art. 9
+##### Art. 9
 
 Riordino di strutture
 
@@ -192,7 +192,7 @@ Riordino di strutture
 
 2\. Le disposizioni di cui all'articolo 7, comma 4, del presente decreto legislativo si applicano anche al personale delle strutture soppresse o riordinate in caso di trasferimento ad altra amministrazione.
 
-###### Art. 10
+##### Art. 10
 
 Regioni a statuto speciale
 
@@ -202,7 +202,7 @@ Regioni a statuto speciale
 
 ### Capo I - Ambito di applicazione
 
-###### Art. 11
+##### Art. 11
 
 Ambito di applicazione
 
@@ -216,13 +216,13 @@ Ambito di applicazione
 
 ### Capo II - Artigianato
 
-###### Art. 12
+##### Art. 12
 
 Definizioni
 
 1\. Le funzioni amministrative relative alla materia "artigianato", cosi' come definita dall'articolo 63 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, comprendono anche tutte le funzioni amministrative relative alla erogazione di agevolazioni, contributi, sovvenzioni, incentivi e benefici di qualsiasi genere, comunque denominati, alle imprese artigiane, con particolare riguardo alle imprese artistiche.
 
-###### Art. 13
+##### Art. 13
 
 Funzioni e compiti conservati allo Stato
 
@@ -232,13 +232,13 @@ a) la tutela delle produzioni ceramiche, in particolare di quella artistica e di
 
 b) eventuali cofinanziamenti, nell'interesse nazionale, di programmi regionali di sviluppo e sostegno dell'artigianato, secondo criteri e modalita' definiti con decreto del Ministro dell'industria, del commercio e dell'artigianato, d'intesa con la Conferenza unificata. In tali casi lo Stato, d'intesa con la regione interessata, puo' avvalersi dei comitati tecnici regionali di cui all'articolo 37 della legge 25 luglio 1952, n. 949. La composizione dei comitati tecnici regionali puo' essere modificata dalla Conferenza unificata.
 
-###### Art. 14
+##### Art. 14
 
 Conferimento di funzioni alle regioni
 
 1\. Sono conferite alle regioni tutte le funzioni amministrative statali concernenti la materia dell'artigianato, come definita nell'articolo 12, non riservate allo Stato ai sensi dell'articolo 13.
 
-###### Art. 15
+##### Art. 15
 
 Agevolazioni alle imprese artigiane
 
@@ -252,7 +252,7 @@ AGGIORNAMENTO (16)
 
 Il D.L. 30 dicembre 2005, n. 273, convertito con modificazioni dalla L. 23 febbraio 2006, n. 51, ha disposto (con l'art. 23-bis, comma 1) che le convenzioni per le concessioni relative alle agevolazioni, sovvenzioni, contributi o incentivi alle imprese artigiane, di cui al presente articolo, possono essere prorogate, con atti integrativi delle convenzioni stesse, per una sola volta e per un periodo di tempo non superiore alla meta' dell'originaria durata, con una riduzione di almeno il 5 per cento delle relative commissioni.
 
-###### Art. 16
+##### Art. 16
 
 Abrogazioni
 
@@ -270,7 +270,7 @@ Nell'articolo 243, comma primo, del medesimo regolamento approvato con regio dec
 
 ### Capo III - Industria
 
-###### Art. 17
+##### Art. 17
 
 Definizioni
 
@@ -278,7 +278,7 @@ Definizioni
 
 2\. Sono comprese nella materia anche le attivita' di erogazione e scambio di servizi a sostegno delle attivita' di cui al comma 1, con esclusione comunque delle attivita' creditizie, di intermediazione finanziaria, delle attivita' concernenti le societa' fiduciarie e di revisione e di quelle di assicurazione.
 
-###### Art. 18
+##### Art. 18
 
 Funzioni e compiti conservati allo Stato
 
@@ -346,7 +346,7 @@ d) l'attivita' promozionale di rilievo nazionale, attualmente disciplinata dalla
 
 3\. Restano fermi le funzioni e i compiti assegnati alla cabina di regia nazionale dalla legislazione vigente.
 
-###### Art. 19
+##### Art. 19
 
 Conferimento di funzioni alle regioni e agli enti locali
 
@@ -376,7 +376,7 @@ della legge 15 marzo 1997, n. 59, sono individuate le attivita' di collaudo, aut
 
 12\. Le regioni provvedono alle incentivazioni ad esse conferite ai sensi del presente articolo, con legge regionale. Esse subentrano alle amministrazioni statali nei diritti e negli obblighi derivanti dalle convenzioni dalle stesse stipulate in forza di leggi ed ((in vigore alla data di effettivo trasferimento e delega delle funzioni disposte dal presente decreto legislativo)) e stipulando, ove occorra, atti integrativi alle convenzioni stesse per i necessari adeguamenti.
 
-###### Art. 20
+##### Art. 20
 
 Funzioni delle camere di commercio, industria artigianato e agricoltura
 
@@ -390,7 +390,7 @@ AGGIORNAMENTO (15)
 
 La L. 23 dicembre 2005, n. 266 ha disposto (con l'art. 1, comma 43) che "Dal 1° gennaio 2006 sono soppressi i trasferimenti dello Stato per l'esercizio delle funzioni gia' esercitate dagli uffici metrici provinciali e trasferite alle Camere di commercio, industria, artigianato e agricoltura ai sensi dell'articolo 20 del decreto legislativo 31 marzo 1998, n. 112."
 
-###### Art. 21
+##### Art. 21
 
 Semplificazioni e liberalizzazioni
 
@@ -402,7 +402,7 @@ b) autorizzazione per la realizzazione di nuovi impianti di macinazione, ampliam
 
 2\. Il riconoscimento come impresa produttrice di amido, fecole e derivati, ai sensi dell'articolo 1 del decreto del Ministro dell'industria, del commercio e dell'artigianato 31 maggio 1989, si intende concesso ove nel termine di sessanta giorni dalla richiesta non sia comunicato all'interessato il provvedimento di diniego, ai sensi dell'articolo 20 della legge 7 agosto 1990, n. 241.
 
-###### Art. 22
+##### Art. 22
 
 Liberalizzazioni e semplificazioni concernenti le funzioni delle camere di commercio, industria, artigianato e agricoltura
 
@@ -428,11 +428,9 @@ c) attivita' di autoriparazione di cui alla legge 5 febbraio 1992, n. 122.
 
 ## Titolo II - Sviluppo economico e attivita' produttive
 
-### Capo IV - Conferimenti ai comuni e sportello unico
+### Capo IV - Conferimenti ai comuni e sportello unico per le attivita' produttive
 
-#### per le attivita' produttive
-
-###### Art. 23
+##### Art. 23
 
 Conferimento di funzioni ai comuni
 
@@ -442,7 +440,7 @@ Conferimento di funzioni ai comuni
 
 3\. Le funzioni di assistenza sono esercitate prioritariamente attraverso gli sportelli unici per le attivita' produttive ((anche avvalendosi delle strutture tecnico-organizzative dei consorzi di sviluppo industriale di cui all'articolo 36, comma 4, della legge 5 ottobre 1991, n. 317)).
 
-###### Art. 24
+##### Art. 24
 
 Principi organizzativi per l'esercizio delle funzioni
 
@@ -458,7 +456,7 @@ amministrative in materia di insediamenti produttivi
 
 5\. Laddove siano stipulati patti territoriali o contratti d'area, l'accordo tra gli enti locali coinvolti puo' prevedere che la gestione dello sportello unico sia attribuita al soggetto pubblico responsabile del patto o del contratto.
 
-###### Art. 25
+##### Art. 25
 
 Procedimento
 
@@ -490,7 +488,7 @@ AGGIORNAMENTO (10)
 
 La Corte Costituzionale, con sentenza 6-26 giugno 2001, n. 206 (in G.U. 1a s.s. 04/07/2001, n. 26) ha dichiarato l'illegittimita' costituzionale della lettera g) del comma 2 del presente articolo "nella parte in cui prevede che, ove la conferenza di servizi registri un accordo sulla variazione dello strumento urbanistico, la determinazione costituisce proposta di variante sulla quale si pronuncia definitivamente il consiglio comunale, anche quando vi sia il dissenso della regione".
 
-###### Art. 26
+##### Art. 26
 
 Aree industriali e aree ecologicamente attrezzate
 
@@ -498,13 +496,13 @@ Aree industriali e aree ecologicamente attrezzate
 
 2\. Le regioni e le province autonome individuano le aree di cui al comma 1 scegliendole prioritariamente tra le aree, zone o nuclei gia' esistenti, anche se totalmente o parzialmente dismessi. Al procedimento di individuazione partecipano gli enti locali interessati.
 
-###### Art. 27
+##### Art. 27
 
 Esclusioni
 
 1\. Sono fatte salve le vigenti norme in materia di valutazione di compatibilita' e di impatto ambientale. Per gli impianti nei quali siano utilizzati materiali nucleari, per gli impianti di produzione di materiale d'armamento, per i depositi costieri, per gli impianti di produzione, raffinazione e stoccaggio di oli minerali e deposito temporaneo, smaltimento, recupero e riciclaggio dei rifiuti non si applicano i principi di cui alle lettere c) e d) del comma 2 dell'articolo 25.
 
-###### Art. 27-bis
+##### Art. 27-bis
 
 (( (Misure organizzative per lo sportello unico delle imprese) ))
 
@@ -512,17 +510,15 @@ Esclusioni
 
 ## Titolo II - Sviluppo economico e attivita' produttive
 
-### Capo V - Ricerca, produzione, trasporto
+### Capo V - Ricerca, produzione, trasporto e distribuzione di energia
 
-#### e distribuzione di energia
-
-###### Art. 28
+##### Art. 28
 
 Definizioni
 
 1\. Le funzioni amministrative relative alla materia "energia" concernono le attivita' di ricerca, produzione, trasporto e distribuzione di qualunque forma di energia.
 
-###### Art. 29
+##### Art. 29
 
 Funzioni e compiti conservati allo Stato
 
@@ -568,7 +564,7 @@ AGGIORNAMENTO (6)
 
 Successivamente la Corte Costituzionale, con sentenza 6-26 giugno 2001, n. 206 (in G.U. 1a s.s. 04/07/2001, n. 26), ha dichiarato l'illegittimita' costituzionale dell'art. 3, comma 1, lettera a), del decreto legislativo 29 ottobre 1999, n. 443 (che ha modificato la lettera b), comma 2 del presente articolo).
 
-###### Art. 30
+##### Art. 30
 
 Conferimento di funzioni alle regioni
 
@@ -582,7 +578,7 @@ Conferimento di funzioni alle regioni
 
 5\. Le regioni svolgono funzioni di coordinamento dei compiti attribuiti agli enti locali per l'attuazione del decreto del Presidente della Repubblica 26 agosto 1993 n. 412, nonche' compiti di assistenza agli stessi per le attivita' di informazione al pubblico e di formazione degli operatori pubblici e privati nel campo della progettazione, installazione, esercizio e controllo degli impianti termici. Le regioni riferiscono annualmente alla Conferenza unificata sullo stato di attuazione del decreto del Presidente della Repubblica 26 agosto 1993, n. 412, nei rispettivi territori.
 
-###### Art. 31
+##### Art. 31
 
 Conferimento di funzioni agli enti locali
 
@@ -600,13 +596,13 @@ c) il controllo sul rendimento energetico degli impianti termici.
 
 ### Capo VI - Miniere e risorse geotermiche
 
-###### Art. 32
+##### Art. 32
 
 Definizioni
 
 1\. Le funzioni amministrative relative alla materia "miniere e risorse geotermiche" concernono le attivita' di ricerca e di coltivazione dei minerali solidi e delle risorse geotermiche ((e dell'anidride carbonica)) ed includono tutte le funzioni connesse con lo svolgimento di tali attivita'.
 
-###### Art. 33
+##### Art. 33
 
 Funzioni e compiti riservati allo Stato
 
@@ -636,7 +632,7 @@ m) la determinazione degli indirizzi per la raccolta dei dati in materia di sicu
 
 n) il riconoscimento dell'idoneita' dei prodotti esplodenti e la tenuta del relativo elenco.
 
-###### Art. 34
+##### Art. 34
 
 Conferimento di funzioni alle regioni
 
@@ -656,7 +652,7 @@ Conferimento di funzioni alle regioni
 
 8\. Sono soppressi i pareri di organi consultivi centrali previsti dalla disciplina dei procedimenti relativi a competenze delegate alle regioni ai sensi del presente articolo.
 
-###### Art. 35
+##### Art. 35
 
 Valutazione di impatto ambientale
 
@@ -664,7 +660,7 @@ Valutazione di impatto ambientale
 
 2\. Le disposizioni di cui al comma 1 non si applicano ai progetti di ricerca e di coltivazione di idrocarburi in mare.
 
-###### Art. 36
+##### Art. 36
 
 Abrogazioni
 
@@ -672,11 +668,9 @@ Abrogazioni
 
 ## Titolo II - Sviluppo economico e attivita' produttive
 
-### Capo VII - Ordinamento delle camere di commercio
+### Capo VII - Ordinamento delle camere di commercio industria, artigianato e agricoltura
 
-#### industria, artigianato e agricoltura
-
-###### Art. 37
+##### Art. 37
 
 Vigilanza sulle camere di commercio, industria
 
@@ -688,7 +682,7 @@ artigianato e agricoltura
 
 3\. Le regioni esercitano il controllo sugli organi camerali, in particolare per i casi di mancato funzionamento o costituzione, ivi compreso lo scioglimento dei consigli camerali nei casi previsti dall'articolo 5 della legge 29 dicembre 1993, n. 580, salvo quanto previsto all'articolo 38, comma 1, lettera e), del presente decreto legislativo. Nel collegio dei revisori delle camere di commercio, industria, artigianato e agricoltura e' garantita la presenza di rappresentanti della regione, del Ministero del tesoro e del Ministero dell'industria, del commercio e dell'artigianato.
 
-###### Art. 38
+##### Art. 38
 
 Funzioni e compiti conservati allo Stato
 
@@ -726,17 +720,15 @@ c) la determinazione delle modalita' per l'elezione diretta dei consigli cameral
 
 ## Titolo II - Sviluppo economico e attivita' produttive
 
-### Capo VIII - Fiere e mercati, e disposizioni
+### Capo VIII - Fiere e mercati, e disposizioni in materia di commercio
 
-#### in materia di commercio
-
-###### Art. 39
+##### Art. 39
 
 Definizioni
 
 1\. Le funzioni amministrative relative materia "fiere e mercati" ricomprendono le attivita' non permanenti, volte a promuovere il commercio, la cultura, l'arte e la tecnica attraverso la presentazione da parte di una pluralita' di espositori di beni o di servizi nel contesto di un evento rappresentativo dei settori produttivi interessati. Quelle relative alla materia "commercio" ricomprendono l'attivita' di commercio all'ingrosso, commercio al minuto, l'attivita' di somministrazione al pubblico di bevande e alimenti, l'attivita' di commercio su aree pubbliche, l'attivita' di commercio dei pubblici esercizi e le forme speciali di vendita. Si intendono altresi' ricomprese le attivita' concernenti la promozione dell'associazionismo e della cooperazione nel settore del commercio e l'assistenza integrativa alle piccole e medie imprese sempre nel settore del commercio.
 
-###### Art. 40
+##### Art. 40
 
 Funzioni e compiti conservati allo Stato
 
@@ -762,7 +754,7 @@ AGGIORNAMENTO (10)
 
 La Corte Costituzionale, con sentenza 6-26 giugno 2001, n. 206 (in G.U. 1a s.s. 4/7/2001, n. 26) ha dichiarato l'illegittimita' costituzionale della lettera f) del comma 1 del presente articolo, aggiunta dall'art. 6 del decreto legislativo n. 443 del 1999.
 
-###### Art. 41
+##### Art. 41
 
 Conferimento di funzioni alle regioni e agli enti locali
 
@@ -790,7 +782,7 @@ g) l'organizzazione, anche avvalendosi dell'Istituto nazionale per il commercio 
 
 5\. Fino alla data di effettivo conferimento delle funzioni di cui al presente capo restano in carica gli attuali titolari degli organi degli enti di cui al comma 2, lettera b).
 
-###### Art. 42
+##### Art. 42
 
 Abrogazioni
 
@@ -802,13 +794,13 @@ Abrogazioni
 
 ### Capo IX - Turismo
 
-###### Art. 43
+##### Art. 43
 
 Definizioni
 
 1\. Le funzioni amministrative relative alla materia "turismo ed industria alberghiera", cosi' come definita dall'articolo 56 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, concernono ogni attivita' pubblica o privata attinente al turismo, ivi incluse le agevolazioni, le sovvenzioni, i contributi, gli incentivi, comunque denominati, anche se per specifiche finalita', a favore delle imprese turistiche.
 
-###### Art. 44
+##### Art. 44
 
 Funzioni e compiti conservati allo Stato
 
@@ -826,13 +818,13 @@ c) il coordinamento intersettoriale delle attivita' di competenza dello Stato co
 
 d) il cofinanziamento, nell'interesse nazionale, di programmi regionali o interregionali per lo sviluppo del turismo.
 
-###### Art. 45
+##### Art. 45
 
 Conferimento di funzioni alle regioni
 
 1\. Sono conferite alle regioni tutte le funzioni amministrative statali concernenti la materia del turismo, come definita nell'articolo 43, non riservate allo Stato ai sensi dell'articolo 44.
 
-###### Art. 46
+##### Art. 46
 
 Abrogazioni
 
@@ -866,7 +858,7 @@ d) articoli 13, 14 e 15 delle legge 17 maggio 1983, n. 217.
 
 ### Capo X - Disposizioni comuni
 
-###### Art. 47
+##### Art. 47
 
 Funzioni e compiti conservati allo Stato
 
@@ -884,7 +876,7 @@ Funzioni e compiti conservati allo Stato
 
 7\. Compete alle regioni, nel rispetto dei principi fissati dalla legge 3 agosto 1999, n. 280, il finanziamento delleattivita' relative ai controlli funzionali esercitate da associazioni di allevatori operanti a livello territoriale.))
 
-###### Art. 48
+##### Art. 48
 
 Conferimento di funzioni alle regioni
 
@@ -906,7 +898,7 @@ g) alla predisposizione ed all'attuazione di ogni altra iniziativa idonea a favo
 
 2\. Nell'esercizio delle funzioni amministrative di cui al comma 1, le regioni possono avvalersi anche dell'ICE e delle camere di commercio, industria, artigianato e agricoltura.
 
-###### Art. 49
+##### Art. 49
 
 Agevolazioni di credito
 
@@ -922,7 +914,7 @@ Agevolazioni di credito
 
 ### Capo XI - Disposizioni transitorie e finali
 
-###### Art. 50
+##### Art. 50
 
 Accorpamenti e soppressioni di strutture amministrative
 
@@ -938,11 +930,9 @@ e statali e attribuzione di beni e risorse
 
 ## Titolo III - TERRITORIO AMBIENTE E INFRASTRUTTURE
 
-### Capo I - Disposizioni generali in materia di territorio
+### Capo I - Disposizioni generali in materia di territorio ambiente e infrastrutture
 
-#### ambiente e infrastrutture
-
-###### Art. 51
+##### Art. 51
 
 Oggetto
 
@@ -954,7 +944,7 @@ Oggetto
 
 #### Sezione I - Linee fondamentali - dell'assetto del territorio nazionale
 
-###### Art. 52
+##### Art. 52
 
 Compiti di rilievo nazionale
 
@@ -972,7 +962,7 @@ Compiti di rilievo nazionale
 
 #### Sezione II - Urbanistica, pianificazione territoriale - e bellezze naturali
 
-###### Art. 53
+##### Art. 53
 
 Funzioni soppresse
 
@@ -988,7 +978,7 @@ d) le residue funzioni statali in materia di piani di ricostruzione;
 
 e) le funzioni giurisdizionali delle commissioni centrale e regionali di vigilanza per l'edilizia popolare ed economica.
 
-###### Art. 54
+##### Art. 54
 
 Funzioni mantenute allo Stato
 
@@ -1006,7 +996,7 @@ e) alla promozione di programmi innovativi in ambito urbano che implichino un in
 
 2\. Le funzioni di cui alle lettere a), b), c) ed e) del comma 1 sono esercitate di intesa con la Conferenza unificata.
 
-###### Art. 55
+##### Art. 55
 
 Localizzazione di opere di interesse statale
 
@@ -1014,13 +1004,13 @@ Localizzazione di opere di interesse statale
 
 2\. Nei casi di variazione degli strumenti urbanistici vigenti conseguente all'approvazione di progetti di opere e interventi pubblici, l'amministrazione procedente e' tenuta a predisporre, insieme al progetto, uno specifico studio sugli effetti urbanisticoterritoriali e ambientali dell'opera o dell'intervento e sulle misure necessarie per il suo inserimento nel territorio comunale.
 
-###### Art. 56
+##### Art. 56
 
 Funzioni conferite alle regioni e agli enti locali
 
 1\. Sono conferite alle regioni e agli enti locali, ai sensi dell'articolo 4, comma 1, della legge 15 marzo 1997, n. 59, tutte le funzioni amministrative non espressamente mantenute allo Stato dalle disposizioni della presente sezione.
 
-###### Art. 57
+##### Art. 57
 
 Pianificazione territoriale di coordinamento
 
@@ -1032,7 +1022,7 @@ e pianificazioni di settore
 
 3\. Resta comunque fermo quanto disposto dall'articolo 149, comma 6, del presente decreto legislativo.
 
-###### Art. 58
+##### Art. 58
 
 Riordino e soppressione di strutture
 
@@ -1044,7 +1034,7 @@ Riordino e soppressione di strutture
 
 #### Sezione III - Edilizia residenziale pubblica
 
-###### Art. 59
+##### Art. 59
 
 Funzioni mantenute allo Stato
 
@@ -1060,7 +1050,7 @@ d) alla acquisizione, raccolta, elaborazione, diffusione e valutazione dei dati 
 
 e) alla definizione dei criteri per favorire l'accesso al mercato delle locazioni dei nuclei familiari meno abbienti e agli interventi concernenti il sostegno finanziario al reddito.
 
-###### Art. 60
+##### Art. 60
 
 Funzioni conferite alle regioni e agli enti locali
 
@@ -1076,7 +1066,7 @@ d) alla determinazione delle tipologie di intervento anche attraverso programmi 
 
 e) alla fissazione dei criteri per l'assegnazione degli alloggi di edilizia residenziale destinati all'assistenza abitativa, nonche' alla determinazione dei relativi canoni.
 
-###### Art. 61
+##### Art. 61
 
 Disposizioni finanziarie
 
@@ -1124,7 +1114,7 @@ d) articolo 1, comma 60, della legge 28 dicembre 1995, n. 549.
 
 7\. Le risorse statali destinate alle finalita' di cui all'articolo 59 vengono determinate annualmente nella legge finanziaria, sentita la Conferenza unificata.
 
-###### Art. 62
+##### Art. 62
 
 Riordino e soppressione di strutture
 
@@ -1136,7 +1126,7 @@ a) il Comitato per l'edilizia residenziale pubblica (CER) presso il Ministero de
 
 b) il Segretariato generale del CER e il centro permanente di documentazione.
 
-###### Art. 63
+##### Art. 63
 
 Criteri e modalita' per il trasferimento alle regioni
 
@@ -1144,7 +1134,7 @@ Criteri e modalita' per il trasferimento alle regioni
 
 2\. In ogni caso l'intero processo di trasferimento deve completarsi entro diciotto mesi dalla data di entrata in vigore del presente decreto legislativo
 
-###### Art. 64
+##### Art. 64
 
 Patrimonio edilizio
 
@@ -1156,7 +1146,7 @@ Patrimonio edilizio
 
 #### Sezione IV - Catasto, servizi geotopografici - e conservazione dei registri immobiliari
 
-###### Art. 65
+##### Art. 65
 
 Funzioni mantenute allo Stato
 
@@ -1178,7 +1168,7 @@ f) all'individuazione di metodologie per l'esecuzione di rilievi e aggiornamenti
 
 (( h) alla gestione unitaria e certificata della base dei dati catastali e dei flussi di aggiornamento delle informazioni di cui alla lettera g), assicurando il coordinamento operativo per la loro utilizzazione a fini istituzionali attraverso il sistema pubblico di connettivita' e garantendo l'accesso ai dati a tutti i soggetti interessati)).
 
-###### Art. 66
+##### Art. 66
 
 Funzioni conferite agli enti locali
 
@@ -1192,7 +1182,7 @@ c) alla rilevazione dei consorzi di bonifica e degli oneri consortili gravanti s
 
 2\. Nelle zone montane le funzioni di cui al comma 1 possono essere esercitate dalle comunita' montane d'intesa con i comuni componenti.
 
-###### Art. 67
+##### Art. 67
 
 Organismo tecnico
 
@@ -1204,19 +1194,17 @@ Organismo tecnico
 
 ## Titolo III - TERRITORIO AMBIENTE E INFRASTRUTTURE
 
-### Capo III - Protezione della natura e dell'ambiente, tutela dell'ambiente dagli
+### Capo III - Protezione della natura e dell'ambiente, tutela dell'ambiente dagli inquinamenti e gestione dei rifiuti
 
-#### inquinamenti e gestione dei rifiuti - Sezione I - Funzioni di carattere generale
+#### Sezione I - Funzioni di carattere generale - e di protezione della fauna e della flora
 
-##### e di protezione della fauna e della flora
-
-###### Art. 68
+##### Art. 68
 
 Funzioni
 
 1\. E' soppresso il programma triennale per la tutela dell'ambiente.
 
-###### Art. 69
+##### Art. 69
 
 Compiti di rilievo nazionale
 
@@ -1270,7 +1258,7 @@ d) alla protezione dell'ambiente costiero.
 
 4\. I compiti di cui al comma 1, lettere b) e p), sono esercitati, sentita la Conferenza unificata e i compiti di cui al comma 1, lettera o) sono esercitati previa intesa con la Conferenza Statoregioni.
 
-###### Art. 70
+##### Art. 70
 
 Funzioni conferite alle regioni e agli enti locali
 
@@ -1282,7 +1270,7 @@ b) il controllo in ordine alla commercializzazione e detenzione degli animali se
 
 c) le competenze attualmente esercitate dal Corpo forestale dello Stato, salvo quelle necessarie all'esercizio delle funzioni di competenza statale.
 
-###### Art. 71
+##### Art. 71
 
 Valutazione di impatto ambientale
 
@@ -1300,7 +1288,7 @@ d) le opere la cui autorizzazione e' di competenza dello Stato.
 
 3\. Il trasferimento delle competenze attualmente in capo allo Stato e' subordinato, per ciascuna regione, alla vigenza della legge regionale della VIA, che provvede alla individuazione dell'autorita' competente nell'ambito del sistema delle regioni e delle autonomie locali, ferma restando la distinzione tra autorita' competente e soggetto proponente.
 
-###### Art. 72
+##### Art. 72
 
 Attivita' a rischio di incidente rilevante
 
@@ -1310,7 +1298,7 @@ Attivita' a rischio di incidente rilevante
 
 3\. Il trasferimento di cui al comma 1 avviene subordinatamente all'adozione della normativa di cui al comma 2, previa attivazione dell'Agenzia regionale protezione ambiente di cui all'articolo 3 del decreto-legge 4 dicembre 1993, n. 496, convertito con modificazioni dalla legge 21 gennaio 1994, n. 61, e a seguito di accordo di programma tra Stato e regione per la verifica dei presupposti per lo svolgimento delle funzioni, nonche' per le procedure di dichiarazione.
 
-###### Art. 73
+##### Art. 73
 
 Ulteriori conferimenti alle regioni in conseguenza
 
@@ -1328,7 +1316,7 @@ c) la ripartizione delle risorse finanziarie assegnate tra i vari interventi.
 
 3\. E' conferita, previa intesa, alla regione Sardegna l'attuazione di tutti gli interventi necessari per la realizzazione del programma di salvaguardia del litorale e delle zone umide nell'area metropolitana di Cagliari di cui all'articolo 17, comma 20, della legge 11 marzo 1988, n. 67. La regione Sardegna succede allo Stato nei rapporti concessori e convenzionali in atto e dispone delle relative risorse finanziarie.
 
-###### Art. 74
+##### Art. 74
 
 Disciplina delle aree ad elevato rischio
 
@@ -1346,7 +1334,7 @@ di crisi ambientale
 
 6\. Resta salva l'efficacia dei provvedimenti adottati in base all'articolo 7 della legge 8 luglio 1986, n. 349, fino all'emanazione della disciplina regionale e all'adozione dei relativi strumenti di pianificazione.
 
-###### Art. 75
+##### Art. 75
 
 Riordino di strutture
 
@@ -1362,17 +1350,17 @@ d) la Consulta tecnica per le aree naturali protette di cui all'articolo 3, comm
 
 ## Titolo III - TERRITORIO AMBIENTE E INFRASTRUTTURE
 
-### Capo III - Protezione della natura e dell'ambiente, tutela dell'ambiente dagli
+### Capo III - Protezione della natura e dell'ambiente, tutela dell'ambiente dagli inquinamenti e gestione dei rifiuti
 
-#### inquinamenti e gestione dei rifiuti - Sezione II - Parchi e riserve naturali
+#### Sezione II - Parchi e riserve naturali
 
-###### Art. 76
+##### Art. 76
 
 Funzioni soppresse
 
 1\. E' soppresso il programma triennale per le aree naturali protette.
 
-###### Art. 77
+##### Art. 77
 
 Compiti di rilievo nazionale
 
@@ -1380,7 +1368,7 @@ Compiti di rilievo nazionale
 
 2\. L'individuazione, l'istituzione e la disciplina generale dei parchi e delle riserve nazionali, comprese quelle marine e l'adozione delle relative misure di salvaguardia sulla base delle linee fondamentali della Carta della natura, sono operati, sentita la Conferenza unificata.
 
-###### Art. 78
+##### Art. 78
 
 Funzioni conferite alle regioni e agli enti locali
 
@@ -1390,11 +1378,11 @@ Funzioni conferite alle regioni e agli enti locali
 
 ## Titolo III - TERRITORIO AMBIENTE E INFRASTRUTTURE
 
-### Capo III - Protezione della natura e dell'ambiente, tutela dell'ambiente dagli
+### Capo III - Protezione della natura e dell'ambiente, tutela dell'ambiente dagli inquinamenti e gestione dei rifiuti
 
-#### inquinamenti e gestione dei rifiuti - Sezione III - Inquinamento delle acque
+#### Sezione III - Inquinamento delle acque
 
-###### Art. 79
+##### Art. 79
 
 Funzioni soppresse
 
@@ -1408,7 +1396,7 @@ c) il piano generale di risanamento delle acque;
 
 d) il piano generale di risanamento delle acque dolci superficiali destinate alla potabilizzazione.
 
-###### Art. 80
+##### Art. 80
 
 Compiti di rilievo nazionale
 
@@ -1452,7 +1440,7 @@ s) l'autorizzazione agli scarichi nelle acque del mare da parte di navi e aeromo
 
 3\. I programmi specifici di intervento per evitare o eliminare inquinamenti derivanti da fonti significative di sostanze pericolose diverse dalle fonti soggette a regime di valore limite di emissione comunitarie e nazionali sono adottati sulla base di criteri generali stabiliti attraverso intese nella Conferenza unificata.
 
-###### Art. 81
+##### Art. 81
 
 Funzioni conferite alle regioni e agli enti locali
 
@@ -1470,19 +1458,17 @@ d) il monitoraggio sullo stato di eutrofizzazione delle acque interne e costiere
 
 ## Titolo III - TERRITORIO AMBIENTE E INFRASTRUTTURE
 
-### Capo III - Protezione della natura e dell'ambiente, tutela dell'ambiente dagli
+### Capo III - Protezione della natura e dell'ambiente, tutela dell'ambiente dagli inquinamenti e gestione dei rifiuti
 
-#### inquinamenti e gestione dei rifiuti - Sezione IV - Inquinamento acustico, atmosferico
+#### Sezione IV - Inquinamento acustico, atmosferico - ed elettromagnetico
 
-##### ed elettromagnetico
-
-###### Art. 82
+##### Art. 82
 
 Funzioni soppresse
 
 1\. E' soppresso il piano nazionale di tutela della qualita' dell'aria.
 
-###### Art. 83
+##### Art. 83
 
 Compiti di rilievo nazionale
 
@@ -1516,7 +1502,7 @@ o) al parere dei Ministri dell'ambiente e della sanita', di intesa con la region
 
 2\. Le funzioni di cui alle lettere a), b), e), f), h), i) e l) del comma 1 sono esercitate sentita la Conferenza unificata.
 
-###### Art. 84
+##### Art. 84
 
 Funzioni conferite alle regioni e agli enti locali
 
@@ -1530,11 +1516,11 @@ c) alla tenuta e all'aggiornamento degli inventari delle fonti di emissione.
 
 ## Titolo III - TERRITORIO AMBIENTE E INFRASTRUTTURE
 
-### Capo III - Protezione della natura e dell'ambiente, tutela dell'ambiente dagli
+### Capo III - Protezione della natura e dell'ambiente, tutela dell'ambiente dagli inquinamenti e gestione dei rifiuti
 
-#### inquinamenti e gestione dei rifiuti - Sezione V - Gestione dei rifiuti
+#### Sezione V - Gestione dei rifiuti
 
-###### Art. 85
+##### Art. 85
 
 Funzioni e compiti mantenuti allo Stato
 
@@ -1544,7 +1530,7 @@ Funzioni e compiti mantenuti allo Stato
 
 ### Capo IV - Risorse idriche e difesa del suolo
 
-###### Art. 86
+##### Art. 86
 
 Gestione del demanio idrico
 
@@ -1554,13 +1540,13 @@ Gestione del demanio idrico
 
 3\. ((COMMA ABROGATO DALLA L. 23 DICEMBRE 2000, N. 388)).
 
-###### Art. 87
+##### Art. 87
 
 Approvazione dei piani di bacino
 
 1\. Ai fini dell'approvazione dei piani di bacino sono soppressi i pareri attribuiti dalla legge 18 maggio 1989, n. 183, al Consiglio superiore dei lavori pubblici e alla Conferenza Statoregioni.
 
-###### Art. 88
+##### Art. 88
 
 Compiti di rilievo nazionale
 
@@ -1614,7 +1600,7 @@ bb)((LETTERA ABROGATA DAL D.LGS. 11 MAGGIO 1999, N. 141)).
 
 2\. Le funzioni di cui al comma 1 sono esercitate sentita la Conferenza unificata, fatta eccezione per le funzioni di cui alle lettere t), u) e v), che sono esercitate sentita la Conferenza Statoregioni.
 
-###### Art. 89
+##### Art. 89
 
 Funzioni conferite alle regioni e agli enti locali
 
@@ -1648,13 +1634,13 @@ l) alla nomina di regolatori per il riparto delle disponibilita' idriche qualora
 
 5\. Per le opere di rilevante importanza e suscettibili di interessare il territorio di piu' regioni, lo Stato e le regioni interessate stipulano accordi di programma con i quali sono definite le appropriate modalita', anche organizzative, di gestione.
 
-###### Art. 90
+##### Art. 90
 
 Attivita' private sostitutive di funzioni amministrative
 
 1\. Con decreto del Presidente della Repubblica, si stabilisce la classificazione delle opere di sbarramento, delle dighe di ritenuta e delle traverse, individuando quelle per le quali l'approvazione tecnica puo' essere sostituita da una dichiarazione del progettista che asseveri la rispondenza alla normativa tecnica della progettazione e della costruzione.
 
-###### Art. 91
+##### Art. 91
 
 Registro italiano dighe - RID
 
@@ -1670,7 +1656,7 @@ AGGIORNAMENTO (19)
 
 Il D.L. 3 ottobre 2006, n. 262, convertito con modificazioni dalla L. 24 novembre 2006, n. 286 ha disposto (con l'art. 2, comma 170) che "Il Registro italiano dighe (RID), istituito ai sensi dell'articolo 91, comma 1, del decreto legislativo 31 marzo 1998, n. 112, e' soppresso."
 
-###### Art. 92
+##### Art. 92
 
 Riordino di strutture
 
@@ -1694,7 +1680,7 @@ d) il Magistrato alle acque di Venezia, definendone le funzioni in materia di sa
 
 ### Capo V - Opere pubbliche
 
-###### Art. 93
+##### Art. 93
 
 Funzioni mantenute allo Stato
 
@@ -1722,7 +1708,7 @@ h) alla valutazione tecnicoamministrativa dei progetti delle opere di competenza
 
 4\. Le funzioni di cui alle lettere e), g) e h) del comma 1 sono esercitate sentita la Conferenza unificata.
 
-###### Art. 94
+##### Art. 94
 
 Funzioni conferite alle regioni e agli enti locali
 
@@ -1742,7 +1728,7 @@ e) il ripristino di edifici privati danneggiati da eventi bellici;
 
 f) le funzioni collegate alla cessazione del soppresso intervento nel Mezzogiorno, con le modalita' previste dall'articolo 23, comma 1, della legge 27 dicembre 1997, n. 449.
 
-###### Art. 95
+##### Art. 95
 
 Interventi di interesse nazionale
 
@@ -1754,7 +1740,7 @@ in aree urbane e metropolitane
 
 3\. La programmazione generale degli interventi di cui al comma 1 e' definita in sede di commissioni presiedute dal Presidente del Consiglio dei Ministri, e composte da un pari numero di rappresentanti dello Stato e di rappresentanti della regione e della citta' metropolitana o, in assenza, del comune capoluogo e della provincia. La composizione e i compiti di tali commissioni sono definiti con decreti del Presidente del Consiglio dei Ministri, previa deliberazione del Consiglio dei ministri.
 
-###### Art. 96
+##### Art. 96
 
 Riordino di strutture
 
@@ -1778,7 +1764,7 @@ f) i provveditorati regionali alle opere pubbliche.
 
 ### Capo VI - Viabilita'
 
-###### Art. 97
+##### Art. 97
 
 Funzioni soppresse
 
@@ -1816,7 +1802,7 @@ q) alla costituzione di speciali uffici periferici di vigilanza sulla costruzion
 
 r) alla concessione della garanzia per mutui e obbligazioni contratti da societa' concessionarie di cui all'articolo 3 della legge 24 luglio 1961, n. 729, e all'articolo 1 della legge 28 marzo 1968, n. 382.
 
-###### Art. 98
+##### Art. 98
 
 Funzioni mantenute allo Stato
 
@@ -1862,7 +1848,7 @@ f) alla determinazione annuale delle tariffe relative alle licenze e concessioni
 
 4\. La Conferenza unificata esprime parere in materia di pianificazione pluriennale della viabilita' e di programmazione per la gestione e il miglioramento della rete autostradale e stradale d'interesse nazionale. La programmazione delle reti stradali interregionali avviene tramite accordi tra le regioni interessate, sulla base degli indirizzi generali stabiliti dalla Conferenza unificata.
 
-###### Art. 99
+##### Art. 99
 
 Funzioni conferite alle regioni e agli enti locali
 
@@ -1874,13 +1860,13 @@ Funzioni conferite alle regioni e agli enti locali
 
 4\. Alle funzioni di progettazione, costruzione, manutenzione di rilevanti opere di interesse interregionale si provvede mediante accordi di programma tra le regioni interessate.
 
-###### Art. 100
+##### Art. 100
 
 Riordino di strutture
 
 1\. Nell'ambito del riordino di cui all'articolo 9 del presente decreto legislativo e' ricompreso, in particolare, l'ANAS.
 
-###### Art. 101
+##### Art. 101
 
 Trasferimento delle strade non comprese
 
@@ -1894,7 +1880,7 @@ nella rete autostradale e stradale nazionale
 
 ### Capo VII - Trasporti
 
-###### Art. 102
+##### Art. 102
 
 Funzioni soppresse
 
@@ -1916,7 +1902,7 @@ g) al piano poliennale di escavazione dei porti di cui all'articolo 26 della leg
 
 h) al rilascio delle autorizzazioni agli autotrasportatori di merci per conto terzi, a far data dal 1 gennaio 2001.
 
-###### Art. 103
+##### Art. 103
 
 Funzioni affidate a soggetti privati
 
@@ -1926,7 +1912,7 @@ a) all'accertamento medico della idoneita' alla guida degli autoveicoli, da part
 
 b) alla riscossione delle entrate per prestazioni rese da soggetti pubblici nel settore dei trasporti, da parte delle Poste italiane s.p.a., delle banche e dei concessionari della riscossione ((di cui al decreto del Presidente della Repubblica 28 gennaio 1988, n. 43.))
 
-###### Art. 104
+##### Art. 104
 
 Funzioni mantenute allo Stato
 
@@ -2004,7 +1990,7 @@ pp) all'utilizzazione del pubblico demanio marittimo e di zone del mare territor
 
 (( qq) al sistema informativo del demanio marittimo, la cui gestione e' regolata mediante protocolli d'intesa ai sensi dell'articolo 6 del decreto legislativo n. 281/1997;))
 
-###### Art. 105
+##### Art. 105
 
 Funzioni conferite alle regioni e agli enti locali
 
@@ -2066,7 +2052,7 @@ AGGIORNAMENTO (23)
 
 La L. 27 dicembre 2013, n. 147 ha disposto (con l'art. 1, comma 94) che "Le funzioni relative alla cura e alla gestione degli Albi provinciali degli autotrasportatori di cose per conto di terzi sono svolte dagli Uffici periferici del Ministero delle infrastrutture e dei trasporti con le risorse umane disponibili a legislazione vigente. Entro e non oltre sei mesi dalla data di entrata in vigore della presente legge, le funzioni di cui al presente comma sono trasferite con decreto del Presidente del Consiglio dei ministri, comprese le relative risorse finanziarie da destinare al funzionamento degli Uffici. Fino a tale data, le predette funzioni di cura e di gestione degli Albi provinciali sono esercitate, in via transitoria, dalle province".
 
-###### Art. 106
+##### Art. 106
 
 Riordino e soppressione di strutture
 
@@ -2086,7 +2072,7 @@ d) la Direzione generale del demanio marittimo.
 
 ### Capo VIII - Protezione civile
 
-###### Art. 107
+##### Art. 107
 
 Funzioni mantenute allo Stato
 
@@ -2118,11 +2104,11 @@ h) ((LETTERA ABROGATA DAL D.LGS. 2 GENNAIO 2018, N. 1)).
 
 2\. ((COMMA ABROGATO DAL D.LGS. 2 GENNAIO 2018, N. 1)).
 
-###### Art. 108
+##### Art. 108
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 GENNAIO 2018, N. 1))
 
-###### Art. 109
+##### Art. 109
 
 Riordino di strutture
 
@@ -2146,13 +2132,13 @@ c) Dipartimento della protezione civile presso la Presidenza del Consiglio dei M
 
 ### Capo IX - Disposizioni finali
 
-###### Art. 110
+##### Art. 110
 
 Riordino dell'ANPA
 
 1\. Ai sensi dell'articolo 11 della legge 15 marzo 1997, n. 59, sono ridefiniti gli organi dell'Agenzia nazionale per la protezione dell'ambiente (ANPA) prevedendo il coinvolgimento delle regioni, ai fini di garantire il sistema nazionale dei controlli in materia ambientale.
 
-###### Art. 111
+##### Art. 111
 
 ((ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2017, N. 205)) ((24))
 
@@ -2166,7 +2152,7 @@ La L. 27 dicembre 2017, n. 205, ha disposto (con l'art. 1, comma 561) che "Le di
 
 ### Capo I - Tutela della salute
 
-###### Art. 112
+##### Art. 112
 
 Oggetto
 
@@ -2196,7 +2182,7 @@ i) l'impiego confinato e la emissione deliberata nell'ambiente di microrganismi 
 
 ((l) la tutela della salute e della sicurezza negli ambienti di vita e di lavoro;))
 
-###### Art. 113
+##### Art. 113
 
 Definizioni
 
@@ -2220,7 +2206,7 @@ f) la tutela sanitaria della riproduzione animale;
 
 g) la disciplina dei prodotti cosmetici.
 
-###### Art. 114
+##### Art. 114
 
 Conferimenti alle regioni
 
@@ -2228,7 +2214,7 @@ Conferimenti alle regioni
 
 2\. I conferimenti di cui al presente capo si intendono effettuati come trasferimenti, con la sola esclusione delle funzioni e dei compiti amministrativi concernenti i prodotti cosmetici, effettuati a titolo di delega.
 
-###### Art. 115
+##### Art. 115
 
 Ripartizione delle competenze
 
@@ -2274,7 +2260,7 @@ c) dei laboratori.
 
 5\. Restano riservate allo Stato le competenze di cui agli articoli 10, commi 2, 3 e 4, e 14, comma 1, del decreto legislativo 30 dicembre 1992, 502, e successive modifiche e integrazioni, le attribuzioni del livello centrale in tema di sperimentazioni gestionali di cui all'articolo 9-bis dello stesso decreto, nonche' quelle di cui all'articolo 32 della legge 27 dicembre 1997, n. 449.
 
-###### Art. 116
+##### Art. 116
 
 Pianificazione
 
@@ -2282,7 +2268,7 @@ Pianificazione
 
 2\. Le funzioni gia' esercitate da commissioni e organismi ministeriali, anche a composizione mista o paritetica con altre amministrazioni, in relazione ai piani e programmi di settore conferiti alle regioni, sono soppresse. Con regolamento emanato ai sensi dell'articolo 7, comma 3, della legge 15 marzo 1997, n. 59, e' operato il riordino delle medesime commissioni e organismi, provvedendo alla relativa soppressione nei casi in cui non permangano funzioni residue.
 
-###### Art. 117
+##### Art. 117
 
 Interventi d'urgenza
 
@@ -2290,7 +2276,7 @@ Interventi d'urgenza
 
 2\. In caso di emergenza che interessi il territorio di piu' comuni, ogni sindaco adotta le misure necessarie fino a quando non intervengano i soggetti competenti ai sensi del comma 1.
 
-###### Art. 118
+##### Art. 118
 
 Attivita' di informazione
 
@@ -2310,7 +2296,7 @@ f) la predisposizione dello schema di decreto di cui al comma 5 dell'articolo 5 
 
 2\. Sono conferite alle regioni tutte le funzioni amministrative concernenti la pubblicita' sanitaria, di cui alla legge 5 febbraio 1992, n. 175, ad esclusione delle funzioni di cui agli articoli 7 e 9 della stessa legge, conservate allo Stato.
 
-###### Art. 119
+##### Art. 119
 
 Autorizzazioni
 
@@ -2326,7 +2312,7 @@ d) l'autorizzazione alla pubblicita' ed informazione scientifica di medicinali e
 
 (( e) l'autorizzazione alla fabbricazione per l'immissione in commercio degli additivi o dei prodotti di cui al capitolo I.1.a) dell'allegato I al decreto legislativo 13 aprile 1999, n. 123.)) 2. ((COMMA ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 443)).
 
-###### Art. 120
+##### Art. 120
 
 Prestazioni e tariffe
 
@@ -2356,7 +2342,7 @@ l) le autorizzazioni e i rimborsi relativi al trasferimento per cura in Italia d
 
 m) le tariffe relative alle prestazioni sanitarie a favore degli stranieri, nonche' la loro iscrizione volontaria od obbligatoria al Servizio sanitario nazionale.
 
-###### Art. 121
+##### Art. 121
 
 Vigilanza su enti
 
@@ -2368,7 +2354,7 @@ Vigilanza su enti
 
 4\. Spettano alle regioni le funzioni di vigilanza e controllo sugli enti pubblici e privati che operano a livello infraregionale, nonche' quelle gia' di competenza delle regioni sulle attivita' di servizio rese dalle articolazioni periferiche degli enti nazionali.
 
-###### Art. 122
+##### Art. 122
 
 Vigilanza sui fondi integrativi
 
@@ -2376,7 +2362,7 @@ Vigilanza sui fondi integrativi
 
 2\. E' conferita alle regioni la vigilanza sui medesimi fondi istituiti e gestiti a livello regionale o infraregionale.
 
-###### Art. 123
+##### Art. 123
 
 Contenzioso
 
@@ -2386,7 +2372,7 @@ Contenzioso
 
 3\. Sono inoltre conservate le funzioni consultive esercitate dall'ufficio medico legale del Ministero della sanita' nei ricorsi amministrativi o giurisdizionali in materia di pensioni di guerra e di servizio e nelle procedure di riconoscimento di infermita' da causa di servizio.
 
-###### Art. 124
+##### Art. 124
 
 Professioni sanitarie
 
@@ -2406,7 +2392,7 @@ f) la determinazione dei requisiti minimi e dei criteri generali relativi all'am
 
 2\. E' trasferito alle regioni il riconoscimento del servizio sanitario prestato all'estero ai fini della partecipazione ai concorsi indetti a livello regionale ed infraregionale, ed ai fini dell'accesso alle convenzioni con le USL per l'assistenza generica e specialistica, di cui alla legge 10 luglio 1960, n. 735, e all'articolo 26 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761.
 
-###### Art. 125
+##### Art. 125
 
 Ricerca scientifica
 
@@ -2416,13 +2402,13 @@ a) la sperimentazione clinica di medicinali, presidi medicochirurgici, dispositi
 
 b) la cooperazione scientifica internazionale.
 
-###### Art. 126
+##### Art. 126
 
 Profilassi internazionale
 
 1\. Ai sensi dell'articolo 1, comma 3, lettera i), della legge 15 marzo 1997, n. 59, sono mantenute allo Stato, anche avvalendosi delle aziende USL sulla base di apposito accordo definito in sede di Conferenza unificata, le funzioni amministrative in materia di profilassi internazionale, con particolare riferimento ai controlli igienicosanitari alle frontiere, ai controlli sanitari delle popolazioni migranti, nonche' ai controlli veterinari infracomunitari e di frontiera.
 
-###### Art. 127
+##### Art. 127
 
 Riordino di strutture
 
@@ -2432,7 +2418,7 @@ Riordino di strutture
 
 ### Capo II - Servizi sociali
 
-###### Art. 128
+##### Art. 128
 
 Oggetto e definizioni
 
@@ -2440,7 +2426,7 @@ Oggetto e definizioni
 
 2\. Ai sensi del presente decreto legislativo, per "servizi sociali" si intendono tutte le attivita' relative alla predisposizione ed erogazione di servizi, gratuiti ed a pagamento, o di prestazioni economiche destinate a rimuovere e superare le situazioni di bisogno e di difficolta' che la persona umana incontra nel corso della sua vita, escluse soltanto quelle assicurate dal sistema previdenziale e da quello sanitario, nonche' quelle assicurate in sede di amministrazione della giustizia.
 
-###### Art. 129
+##### Art. 129
 
 Competenze dello Stato
 
@@ -2472,7 +2458,7 @@ n) la revisione delle pensioni, assegni e indennita' spettanti agli invalidi civ
 
 2\. Le competenze previste dal comma 1, lettere d) e g) del presente articolo sono esercitate sulla base di criteri e parametri individuati dalla Conferenza unificata. Le competenze previste dalle lettere b), c) ed i) del medesimo comma 1 sono esercitate sentita la Conferenza unificata.
 
-###### Art. 130
+##### Art. 130
 
 Trasferimenti di competenze relative agli invalidi civili
 
@@ -2484,7 +2470,7 @@ Trasferimenti di competenze relative agli invalidi civili
 
 4\. Avverso i provvedimenti di concessione o diniego e' ammesso ricorso amministrativo, secondo la normativa vigente in materia di pensione sociale, ferma restante la tutela giurisdizionale davanti al giudice ordinario.
 
-###### Art. 131
+##### Art. 131
 
 Conferimenti alle regioni e agli enti locali
 
@@ -2492,7 +2478,7 @@ Conferimenti alle regioni e agli enti locali
 
 2\. Nell'ambito delle funzioni conferite sono attribuiti ai comuni, che le esercitano anche attraverso le comunita' montane, i compiti di erogazione dei servizi e delle prestazioni sociali, nonche' i compiti di progettazione e di realizzazione della rete dei servizi sociali, anche con il concorso delle province.
 
-###### Art. 132
+##### Art. 132
 
 Trasferimento alle regioni
 
@@ -2520,7 +2506,7 @@ b) le istituzioni di pubblica assistenza e beneficenza (IPAB);
 
 c) il volontariato.
 
-###### Art. 133
+##### Art. 133
 
 Fondo nazionale per le politiche sociali
 
@@ -2532,7 +2518,7 @@ Fondo nazionale per le politiche sociali
 
 4\. All'articolo 59, comma 46, penultima proposizione, della predetta legge 27 dicembre 1997, n. 449, dopo le parole "sentiti i Ministri interessati" sono inserite le parole "e la Conferenza unificata di cui al decreto legislativo 28 agosto 1997, n. 281".
 
-###### Art. 134
+##### Art. 134
 
 Soppressione delle strutture ministeriali
 
@@ -2542,13 +2528,13 @@ Soppressione delle strutture ministeriali
 
 ### Capo III - Istruzione scolastica
 
-###### Art. 135
+##### Art. 135
 
 Oggetto
 
 1\. Il presente capo ha come oggetto la programmazione e la gestione amministrativa del servizio scolastico, fatto salvo il trasferimento di compiti alle istituzioni scolastiche previsto dall'articolo 21 della legge 15 marzo 1997, n. 59.
 
-###### Art. 136
+##### Art. 136
 
 Definizioni
 
@@ -2566,7 +2552,7 @@ d) la rilevazione delle disfunzioni e dei bisogni, strumentali e finali, sulla b
 
 e) l'adozione, nel quadro dell'organizzazione generale ed in attuazione degli obiettivi determinati dalle autorita' preposte al governo del servizio, di tutte le misure di organizzazione amministrativa necessarie per il suo migliore andamento.
 
-###### Art. 137
+##### Art. 137
 
 Competenze dello Stato
 
@@ -2574,7 +2560,7 @@ Competenze dello Stato
 
 2\. Restano altresi' allo Stato i compiti e le funzioni amministrative relativi alle scuole militari ed ai corsi scolastici organizzati, con il patrocinio dello Stato, nell'ambito delle attivita' attinenti alla difesa e alla sicurezza pubblica, nonche' i provvedimenti relativi agli organismi scolastici istituiti da soggetti extracomunitari, ai sensi del decreto del Presidente della Repubblica 18 aprile 1994, n. 389.
 
-###### Art. 138
+##### Art. 138
 
 Deleghe alle regioni
 
@@ -2596,7 +2582,7 @@ f) le iniziative e le attivita' di promozione relative all'ambito delle funzioni
 
 3\. Le deleghe di cui al presente articolo non riguardano le funzioni relative ai conservatori di musica, alle accademie di belle arti, agli istituti superiori per le industrie artistiche, all'accademia nazionale d'arte drammatica, all'accademia nazionale di danza, nonche' alle scuole ed alle istituzioni culturali straniere in Italia.
 
-###### Art. 139
+##### Art. 139
 
 Trasferimenti alle province ed ai comuni
 
@@ -2634,13 +2620,13 @@ f) interventi integrati di prevenzione della dispersione scolastica e di educazi
 
 ### Capo IV - Formazione professionale
 
-###### Art. 140
+##### Art. 140
 
 Oggetto
 
 1\. Il presente capo ha come oggetto le funzioni e i compiti amministrativi in materia di "formazione professionale", ad esclusione di quelli concernenti la formazione professionale di carattere settoriale oggetto di apposita regolamentazione in attuazione dell'articolo 12, comma 1, lettere s) e t), della legge 15 marzo 1997, n. 59, anche in raccordo con quanto previsto dalla legge 24 giugno 1997, n. 196, e dal decreto legislativo 23 dicembre 1997, n. 469.
 
-###### Art. 141
+##### Art. 141
 
 Definizioni
 
@@ -2652,7 +2638,7 @@ Definizioni
 
 4\. Gli istituti professionali che devono essere trasferiti alle regioni sulla base di quanto previsto al comma 1 del presente articolo ed a norma dell'articolo 144, sono individuati con le procedura di cui al medesimo articolo 144, comma 2.
 
-###### Art. 142
+##### Art. 142
 
 Competenze dello Stato
 
@@ -2690,7 +2676,7 @@ d) la definizione, in sede di Conferenza unificata, ai sensi del decreto legisla
 
 3\. Permangono immutati i compiti e le funzioni esercitati dallo Stato in ordine agli istituti professionali di cui al regio decreto 29 agosto 1941, n. 1449, e di cui agli articoli da 64 a 66 e da 68 a 71 del decreto legislativo 16 aprile 1994, n. 297.
 
-###### Art. 143
+##### Art. 143
 
 Conferimenti alle regioni
 
@@ -2700,7 +2686,7 @@ Spetta alla Conferenza Statoregioni la definizione degli interventi di armonizza
 
 2\. Al fine di assicurare l'integrazione tra politiche formative e politiche del lavoro la regione attribuisce, ai sensi dell'articolo 14, comma 1, lettera i), della legge 8 giugno 1990, n. 142, di norma alle province le funzioni ad essa trasferite in materia di formazione professionale.
 
-###### Art. 144
+##### Art. 144
 
 Trasferimenti alle regioni
 
@@ -2716,7 +2702,7 @@ b) le funzioni e i compiti attualmente svolti dagli organi centrali e periferici
 
 4\. Per effetto dei trasferimenti di cui alla lettera b) del comma 1 del presente articolo, gli istituti professionali assumono la qualifica di enti regionali. Ad essi si estende il regime di autonomia funzionale spettante alle istituzioni scolastiche statali, anche ai sensi ((articolo 21 )) della legge 15 marzo 1997, n. 59.
 
-###### Art. 145
+##### Art. 145
 
 Modalita' per il trasferimento
 
@@ -2730,13 +2716,13 @@ b) il personale dirigenziale, docente e amministrativo, tecnico ed ausiliario de
 
 2\. Il decreto di cui al comma 1 e' adottato entro diciotto mesi dalla data di entrata in vigore del presente decreto legislativo ed ha effetto con l'entrata in vigore del regolamento di cui all'articolo 146.
 
-###### Art. 146
+##### Art. 146
 
 Riordino di strutture
 
 1\. Ai sensi dell'articolo 3, comma 1, lettera d), e dell'articolo 7, comma 3, della legge 15 marzo 1997, n. 59, entro novanta giorni dalla adozione del decreto di cui all'articolo 145 del presente decreto legislativo, si provvede con regolamento, da emanarsi in base all'articolo 17, comma 4-bis, della legge 23 agosto 1988, n. 400, e successive modificazioni, al riordino delle strutture ministeriali interessate dai conferimenti disposti dal presente capo.
 
-###### Art. 147
+##### Art. 147
 
 Abrogazione di disposizioni
 
@@ -2752,11 +2738,11 @@ c) l'articolo 2, comma 1, e l'articolo 18 della legge 21 dicembre 1978, n. 845.
 
 ### Capo V - Beni e attivita' culturali
 
-###### Art. 148
+##### Art. 148
 
 (( ARTICOLO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42 ))
 
-###### Art. 149
+##### Art. 149
 
 Funzioni riservate allo Stato
 
@@ -2800,11 +2786,11 @@ f) la definizione, anche con la cooperazione delle regioni, delle metodologie co
 
 6\. Restano riservate allo Stato le funzioni e i compiti statali in materia di beni ambientali di cui all'articolo 82 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, come modificato dalla legge 8 agosto 1985, n. 431 ((, di conversione, con modificazioni, del decreto-legge 27 giugno 1985, n. 312.))
 
-###### Art. 150
+##### Art. 150
 
 (( ARTICOLO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42 ))
 
-###### Art. 151
+##### Art. 151
 
 Biblioteche pubbliche statali universitarie
 
@@ -2812,19 +2798,19 @@ Biblioteche pubbliche statali universitarie
 
 Nell'ambito della convenzione sono anche individuati i beni del patrimonio bibliografico da riservare al demanio dello Stato.
 
-###### Art. 152
+##### Art. 152
 
 (( ARTICOLO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42 ))
 
-###### Art. 153
+##### Art. 153
 
 (( ARTICOLO ABROGATO DAL D.LGS. 22 GENNAIO 2004, N. 42 ))
 
-###### Art. 154
+##### Art. 154
 
 (( ARTICOLO ABROGATO DAL D.LGS. 24 MARZO 2006, N. 156 ))
 
-###### Art. 155
+##### Art. 155
 
 (( ARTICOLO ABROGATO DAL D.LGS. 24 MARZO 2006, N. 156 ))
 
@@ -2832,7 +2818,7 @@ Nell'ambito della convenzione sono anche individuati i beni del patrimonio bibli
 
 ### Capo VI - Spettacolo
 
-###### Art. 156
+##### Art. 156
 
 Compiti di rilievo nazionale in materia di spettacolo
 
@@ -2874,7 +2860,7 @@ r) contribuisce al sostegno degli enti lirici ed assimilati di cui al decreto le
 
 ### Capo VII - Sport
 
-###### Art. 157
+##### Art. 157
 
 Competenze in materia di sport
 
@@ -2886,13 +2872,11 @@ Competenze in materia di sport
 
 4\. Con regolamento di cui all'articolo 7, comma 3, della legge 15 marzo 1997, n. 59, si provvede al riordino dell'Istituto per il credito sportivo, anche garantendo una adeguata presenza nell'organo di amministrazione di rappresentanti delle regioni e delle autonomie locali.
 
-## Titolo V - POLIZIA AMMINISTRATIVA REGIONALE
+## Titolo V - POLIZIA AMMINISTRATIVA REGIONALE E LOCALE E REGIME AUTORIZZATORIO
 
-### E LOCALE E REGIME AUTORIZZATORIO - Capo I
+### Capo I - Disposizioni in materia di polizia amministrativa regionale e locale e regime autorizzatorio
 
-#### Disposizioni in materia di polizia amministrativa - regionale e locale e regime autorizzatorio
-
-###### Art. 158
+##### Art. 158
 
 Oggetto
 
@@ -2900,7 +2884,7 @@ Oggetto
 
 2\. Le regioni e gli enti locali sono titolari delle funzioni e dei compiti di polizia amministrativa nelle materie ad essi rispettivamente trasferite o attribuite. La delega di funzioni amministrative dallo Stato alle regioni e da queste ultime agli enti locali, anche per quanto attiene alla subdelega, ricomprende anche l'esercizio delle connesse funzioni e compiti di polizia amministrativa.
 
-###### Art. 159
+##### Art. 159
 
 Definizioni
 
@@ -2908,7 +2892,7 @@ Definizioni
 
 2\. Le funzioni ed i compiti amministrativi relativi all'ordine pubblico e sicurezza pubblica di cui all'articolo 1, comma 3, lettera l), della legge 15 marzo 1997, n. 59, concernono le misure preventive e repressive dirette al mantenimento dell'ordine pubblico, inteso come il complesso dei beni giuridici fondamentali e degli interessi pubblici primari sui quali si regge l'ordinata e civile convivenza nella comunita' nazionale, nonche' alla sicurezza delle istituzioni, dei cittadini e dei loro beni.
 
-###### Art. 160
+##### Art. 160
 
 Competenze dello Stato
 
@@ -2924,13 +2908,13 @@ b) dopo il quarto comma e' aggiunto il seguente:
 
 "Alla convocazione e alla formazione dell'ordine del giorno del comitato provvede il prefetto. La convocazione e' in ogni caso disposta quando lo richiede il sindaco del comune capoluogo di provincia per la trattazione di questioni attinenti alla sicurezza della comunita' locale o per la prevenzione di tensioni o conflitti sociali che possono comportare turbamenti dell'ordine o della sicurezza pubblica in ambito comunale. Per la trattazione delle medesime questioni, su richiesta del sindaco, e' altresi' integrato, ove occorra, l'ordine del giorno del comitato".))
 
-###### Art. 161
+##### Art. 161
 
 Conferimenti alle regioni e agli enti locali
 
 1\. Sono conferiti alle regioni e agli enti locali, secondo le modalita' e le regole fissate dal presente titolo, tutte le funzioni ed i compiti di polizia amministrativa nelle materie ad essi rispettivamente trasferite o attribuite, salvo le riserve allo Stato di cui all' articolo 160.
 
-###### Art. 162
+##### Art. 162
 
 Trasferimenti alle regioni
 
@@ -2938,7 +2922,7 @@ Trasferimenti alle regioni
 
 2\. Il servizio di polizia regionale e locale e' disciplinato dalle leggi regionali e dai regolamenti degli enti locali, nel rispetto dei principi di cui al titolo V della parte II della Costituzione e della legislazione statale nelle materie alla stessa riservate.
 
-###### Art. 163
+##### Art. 163
 
 Trasferimenti agli enti locali
 
@@ -2978,7 +2962,7 @@ AGGIORNAMENTO (14)
 
 Il D.L. 27 luglio 2005, n. 144, convertito con modificazioni dalla L. 31 luglio 2005, n. 155, ha disposto (con l'art. 8, comma 4)che la revoca del nulla osta disposta ai sensi del comma 2, lettera e) del presente articolo 163, e' comunicata al comune che ha rilasciato la licenza e comporta il suo immediato ritiro.
 
-###### Art. 164
+##### Art. 164
 
 Abrogazione di norme
 

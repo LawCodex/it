@@ -511,7 +511,7 @@ I conduttori dei natanti, nonche' i sorveglianti di impianti fissi galleggianti 
 
 Durante le operazioni di controllo i conduttori di natanti, nonche' i sorveglianti di impianti fissi galleggianti devono prestare la collaborazione necessaria alle autorita' di vigilanza competenti.
 
-## Sezione 2.2. - Contrassegni dei natanti e marche d'immissione
+### Sezione 2.2. - Contrassegni dei natanti e marche d'immissione
 
 #### Art. 17 Contrassegni dei natanti
 
@@ -555,7 +555,7 @@ b. sul motore: - la marca o il nome del costruttore ed il tipo,
 
 2 Le marche di massima immersione devono avere una lunghezza di 30 cm e un'altezza di 4 cm. Devono essere indelebili, di colore chiaro su fondo scuro o di colore scuro su fondo chiaro, e sistemate in modo che il loro bordo inferiore corrisponda all'immersione massima.
 
-## Sezione 2.3. - Segnalazione dei battelli
+### Sezione 2.3. - Segnalazione dei battelli
 
 #### Art. 20 Generalita'
 
@@ -735,7 +735,7 @@ Art. 34 Segnalazione di attivita' subacquea
 
 2 In caso di immersioni effettuate al largo, il segnale di cui al punto 1 dovra' essere visibile su tutto l'arco dell'orizzonte; di notte e in caso di visibilita' ridotta il citato segnale dev'essere illuminato in modo da essere ben visibile.
 
-## Sezione 2.4. - Segnalazione acustica dei natanti
+### Sezione 2.4. - Segnalazione acustica dei natanti
 
 #### Art. 35 Generalita'
 
@@ -759,7 +759,7 @@ b. dagli altri natanti mediante un clacson idoneo oppure un apposito corno. Per 
 
 4 E' vietato emettere segnali acustici diversi da quelli previsti oppure di utilizzarli in condizioni diverse da quelle prescritte o ammesse.
 
-## Sezione 2.5. - Segnalazione della via navigabile
+### Sezione 2.5. - Segnalazione della via navigabile
 
 #### Art. 37 Generalita'
 
@@ -809,7 +809,7 @@ Nel caso che vengano istituiti sistemi di avviso di tempesta, i relativi segnali
 
 \- segnale di tempesta (luce arancione intermittente con circa 90 accensioni al minuto) da emettere in caso di pericolo imminente di tempesta.
 
-## Sezione 2.6. - Regole di rotta e di stazionamento
+### Sezione 2.6. - Regole di rotta e di stazionamento
 
 #### art. 42
 
@@ -1015,7 +1015,7 @@ f. eseguire dei movimenti lenti e ripetuti dall'alto verso il basso delle bracci
 
 3 L'ancoraggio e' vietato in prossimita' delle reti e degli attrezzi della pesca professionale segnalati come tali.
 
-## Sezione 2.7. - Disposizioni particolari
+### Sezione 2.7. - Disposizioni particolari
 
 #### art. 61
 
@@ -1031,9 +1031,7 @@ Art. 62 Precedenza nello stretto di Lavena
 
 Nello stretto di Lavena i natanti diretti a Ponte Tresa hanno la precedenza su quelli che ne provengono. In ogni caso i battelli in servizio regolare di linea hanno sempre la precedenza sugli altri natanti.
 
-## Sezione 2.8.. - Disposizioni complementari
-
-### 2.8.1. - Manifestazioni e trasporti sottoposti a permesso
+### Sezione 2.8.. - Disposizioni complementari 2.8.1. Manifestazioni e trasporti sottoposti a permesso
 
 #### Art. 63 Manifestazioni nautiche
 
@@ -1141,7 +1139,7 @@ a. un natante immatricolato in Svizzera o in Italia nei limiti della propria abi
 
 b. un natante proveniente da Stati diversi da quelli contraenti, se da uno dei documenti menzionati alla lettera a.) sia desumibile che egli e' autorizzato a condurre tale natante nel suo Paese. 2 Il certificato e la carta internazionale di idoneita' devono essere compilati conformemente al modello annesso alla risoluzione No 14 del Gruppo di lavoro per la navigazione interna della Commissione economica europea (CEE), come riprodotto nell'allegato 4.
 
-## Sezione 3.2. - Natanti
+### Sezione 3.2. - Natanti
 
 #### art. 73
 

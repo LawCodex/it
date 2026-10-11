@@ -30,7 +30,7 @@ la seguente legge:
 
 ## TITOLO I - DISPOSIZIONI DI PRINCIPIO
 
-##### ART. 1 - Disposizioni di principio e definizioni
+#### ART. 1 - Disposizioni di principio e definizioni
 
 1\. La presente legge attua, nell'ordinamento interno, le disposizioni della decisione quadro 2002/584/GAI del Consiglio, del 13 giugno 2002, di seguito denominata "decisione quadro", relativa al mandato d'arresto europeo e alle procedure di consegna tra Stati membri dell'Unione europea ((...)).
 
@@ -52,13 +52,13 @@ la seguente legge:
 
 4-quinquies. Entro trenta giorni dalla data di entrata in vigore della presente disposizione, su proposta del Ministro della giustizia, il Governo notifica al Consiglio e alla Commissione l'elenco degli specifici accordi e intese, indicati al comma 4-quater, che l'Italia intende continuare ad applicare.))
 
-##### ART. 2
+#### ART. 2
 
 (( (Rispetto dei diritti fondamentali e garanzie costituzionali). ))
 
 ((1. L'esecuzione del mandato di arresto europeo non puo', in alcun caso, comportare una violazione dei principi supremi dell'ordine costituzionale dello Stato o dei diritti inalienabili della persona riconosciuti dalla Costituzione, dei diritti fondamentali e dei fondamentali principi giuridici sanciti dall'articolo 6 del trattato sull'Unione europea o dei diritti fondamentali garantiti dalla Convenzione per la salvaguardia dei diritti dell'uomo e delle liberta' fondamentali, firmata a Roma il 4 novembre 1950, resa esecutiva dalla legge 4 agosto 1955, n. 848, e dai Protocolli addizionali alla stessa.))
 
-##### ART. 3 - Applicazione della riserva parlamentare
+#### ART. 3 - Applicazione della riserva parlamentare
 
 1\. Le modifiche dell'articolo 2, paragrafo 2, della decisione quadro sono sottoposte dal Governo a riserva parlamentare.
 
@@ -66,7 +66,7 @@ la seguente legge:
 
 ((3. La pronuncia non favorevole della Camera dei deputati o del Senato della Repubblica e' vincolante per il Governo)).
 
-##### ART. 4 - Autorita' centrale
+#### ART. 4 - Autorita' centrale
 
 1\. In relazione alle disposizioni dell'articolo 7 della decisione quadro l'Italia designa come autorita' centrale per assistere le autorita' giudiziarie competenti il Ministro della giustizia.
 
@@ -78,11 +78,9 @@ la seguente legge:
 
 ## TITOLO II - NORME DI RECEPIMENTO INTERNO
 
-### CAPO I - PROCEDURA PASSIVA DI
+### CAPO I - PROCEDURA PASSIVA DI CONSEGNA
 
-#### CONSEGNA
-
-##### ART. 5 - Garanzia giurisdizionale
+#### ART. 5 - Garanzia giurisdizionale
 
 1\. La consegna di un imputato o di un condannato all'estero non puo' essere concessa senza la decisione favorevole della corte di appello.
 
@@ -94,7 +92,7 @@ la seguente legge:
 
 5\. Nel caso in cui la persona sia stata arrestata dalla polizia giudiziaria ai sensi dell'articolo 11, la competenza a decidere sulla consegna appartiene alla corte di appello del distretto in cui e' avvenuto l'arresto.
 
-##### ART. 6 - Contenuto del mandato d'arresto europeo nella procedura passiva di consegna
+#### ART. 6 - Contenuto del mandato d'arresto europeo nella procedura passiva di consegna
 
 1\. Il mandato d'arresto europeo deve contenere le seguenti informazioni:
 
@@ -136,7 +134,7 @@ Analogamente provvede quando ritiene necessario acquisire ulteriori elementi al 
 
 7\. Il mandato d'arresto europeo dovra' pervenire tradotto in lingua italiana.
 
-##### ART. 7 - Casi di doppia punibilita
+#### ART. 7 - Casi di doppia punibilita
 
 1\. L'Italia ((da')) esecuzione al mandato d'arresto europeo solo nel caso in cui il fatto sia previsto come reato anche dalla legge nazionale ((, indipendentemente dalla qualificazione giuridica e dai singoli elementi costitutivi del reato)).
 
@@ -146,7 +144,7 @@ Analogamente provvede quando ritiene necessario acquisire ulteriori elementi al 
 
 4\. In caso di esecuzione di una sentenza di condanna, la pena o la misura di sicurezza dovranno avere una durata non inferiore a quattro mesi.
 
-##### ART. 8 - Consegna obbligatoria
+#### ART. 8 - Consegna obbligatoria
 
 ((1. In deroga all'articolo 7, comma 1, il mandato di arresto europeo e' eseguito indipendentemente dalla doppia punibilita' per i reati che, secondo la legge dello Stato membro di emissione, rientrano nelle categorie di cui all'articolo 2, paragrafo 2, della decisione quadro e sono puniti con una pena o una misura di sicurezza privative della liberta' personale pari o superiore a tre anni.))
 
@@ -154,7 +152,7 @@ Analogamente provvede quando ritiene necessario acquisire ulteriori elementi al 
 
 3\. ((COMMA ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 10)).
 
-##### ART. 9
+#### ART. 9
 
 (Ricezione del mandato d'arresto.
 
@@ -176,7 +174,7 @@ Misure cautelari).
 
 7\. Si applicano le disposizioni dell'articolo 719 del codice di procedura penale.
 
-##### ART. 10 - Inizio del procedimento
+#### ART. 10 - Inizio del procedimento
 
 1\. Entro cinque giorni dall'esecuzione delle misure di cui all'articolo 9, e alla presenza di un difensore di ufficio nominato a norma dell'articolo 97 del codice di procedura penale, in mancanza di difensore di fiducia, il presidente della corte di appello, o il magistrato delegato, procede a sentire la persona sottoposta alla misura cautelare, informandola, in una lingua alla stessa conosciuta, del contenuto del mandato d'arresto europeo e della procedura di esecuzione, nonche' della facolta' di acconsentire alla propria consegna all'autorita' giudiziaria richiedente e di rinunciare al beneficio di non essere sottoposta ad altro procedimento penale, di non essere condannata o altrimenti privata della liberta' personale per reati anteriori alla consegna diversi da quello per il quale questa e' stata disposta. ((La persona richiesta in consegna e' altresi' informata che il consenso e la rinuncia, una volta resi, non sono revocabili.))
 
@@ -188,13 +186,13 @@ Misure cautelari).
 
 ((4-bis. Nei casi in cui la corte di appello non applica alla persona richiesta alcuna misura cautelare, il presidente della corte di appello, o il magistrato da lui delegato, all'esito della deliberazione adottata ai sensi dell'articolo 9, comma 4, fissa con decreto l'udienza per la decisione non oltre i quindici giorni successivi e dispone contestualmente il deposito del mandato di arresto. Il decreto e' comunicato al procuratore generale e notificato alla persona richiesta in consegna e al suo difensore almeno cinque giorni prima dell'udienza. Si applicano le disposizioni dell'articolo 702 del codice di procedura penale.))
 
-##### ART. 11 - Arresto ad iniziativa della polizia giudiziaria
+#### ART. 11 - Arresto ad iniziativa della polizia giudiziaria
 
 1\. Nel caso in cui l'autorita' competente dello Stato membro ha effettuato segnalazione nel Sistema di informazione Schengen (SIS) nelle forme richieste, la polizia giudiziaria procede all'arresto della persona ricercata, ponendola immediatamente, e, comunque, non oltre ventiquattro ore, a disposizione del presidente della corte di appello nel cui distretto il provvedimento e' stato eseguito, mediante trasmissione del relativo verbale, e dando immediata informazione al Ministro della giustizia.
 
 2\. Il Ministro della giustizia comunica immediatamente allo Stato membro richiedente l'avvenuto arresto ai fini della trasmissione del mandato d'arresto ((...)).
 
-##### ART. 12 - Adempimenti conseguenti all'arresto ad iniziativa della polizia giudiziaria
+#### ART. 12 - Adempimenti conseguenti all'arresto ad iniziativa della polizia giudiziaria
 
 1\. L'ufficiale di polizia giudiziaria che ha proceduto all'arresto ai sensi dell'articolo 11 informa la persona, in una lingua alla stessa comprensibile, del mandato emesso e del suo contenuto e le consegna una comunicazione scritta, redatta in forma chiara e precisa, che la informa, della possibilita' di acconsentire alla propria consegna all'autorita' giudiziaria emittente e la avverte della facolta' di nominare un difensore di fiducia e del diritto di essere assistita da un interprete. Nel caso in cui l'arrestato non provveda a nominare un difensore, la polizia giudiziaria procede immediatamente a individuare un difensore di ufficio ai sensi dell'articolo 97 del codice di procedura penale.
 
@@ -206,7 +204,7 @@ Misure cautelari).
 
 4\. All'attuazione del presente articolo si provvede mediante l'utilizzo degli ordinari stanziamenti del Ministero della giustizia.
 
-##### ART. 13 - Convalida
+#### ART. 13 - Convalida
 
 1\. Entro quarantotto ore dalla ricezione del verbale di arresto, il presidente della corte di appello o un magistrato della corte da lui delegato, informato il procuratore generale, provvede, in una lingua alla stessa conosciuta e, se necessario, alla presenza di un interprete, a sentire la persona arrestata con la presenza di un difensore di ufficio nominato in mancanza di difensore di fiducia ((e a fornirle tutte le informazioni in merito alle facolta' indicate nell'articolo 10, comma 1)). Nel caso in cui la persona arrestata risulti ristretta in localita' diversa da quella in cui l'arresto e' stato eseguito, il presidente della corte di appello puo' delegare per gli adempimenti di cui all'articolo 10 il presidente del tribunale territorialmente competente, ferma restando la sua competenza in ordine ai provvedimenti di cui al comma 2.
 
@@ -214,7 +212,7 @@ Misure cautelari).
 
 3\. ((PERIODO SOPPRESSO DAL D.LGS. 2 FEBBRAIO 2021, N. 10)). La segnalazione ((della persona nel SIS effettuata dall'autorita' competente)) equivale al mandato d'arresto purche' contenga le indicazioni di cui all'articolo 6.
 
-##### ART. 14 - Consenso alla consegna
+#### ART. 14 - Consenso alla consegna
 
 ((1. Quando sente la persona della quale e' stata richiesta la consegna ai sensi degli articoli 10, comma 1, e 13, comma 1, il presidente della corte di appello, o il magistrato da lui delegato, se la persona esprime consenso alla consegna o rinuncia al beneficio di cui all'articolo 10, comma 1, raccoglie tali dichiarazioni alla presenza del difensore e, se necessario, dell'interprete. Del consenso e della rinuncia prestata e' dato atto in apposito verbale, in cui sono riportate le circostanze e le modalita' con le quali la persona richiesta in consegna ha dichiarato di avvalersi di tali facolta'. Quando la persona ha prestato consenso alla consegna, il presidente della corte di appello, o il magistrato da lui delegato, fissa nei quattro giorni successivi l'udienza in camera di consiglio per la decisione, con decreto del quale da' immediata lettura alla persona della quale e' richiesta la consegna, in una lingua alla stessa conosciuta, e al suo difensore. Il decreto e' comunicato al procuratore generale immediatamente e, comunque, entro le successive ventiquattro ore.
 
@@ -228,7 +226,7 @@ Misure cautelari).
 
 L'ordinanza, decorso il termine per la proposizione del ricorso previsto dall'articolo 22, comma 5-bis, e' immediatamente comunicata al Ministro della giustizia, che provvede a informare le competenti autorita' dello Stato membro di emissione e altresi', quando non e' stato presentato ricorso e l'ordinanza dispone la consegna, il Servizio per la cooperazione internazionale di Polizia. Quando e' stato proposto ricorso, il Ministro della giustizia informa le competenti autorita' dello Stato membro che l'avvenuta proposizione dell'impugnazione e' il motivo che ha impedito l'adozione della decisione definitiva sull'esecuzione del mandato di arresto nel termine di dieci giorni successivi all'espressione del consenso.))
 
-##### ART. 15 - Provvedimenti provvisori in attesa della decisione
+#### ART. 15 - Provvedimenti provvisori in attesa della decisione
 
 1\. Se il mandato d'arresto europeo e' stato emesso nel corso di un procedimento penale, il presidente della corte di appello, su richiesta dell'autorita' giudiziaria emittente ((...)), autorizza l'interrogatorio della persona richiesta in consegna, ovvero ne dispone il trasferimento temporaneo nello Stato membro di emissione.
 
@@ -240,13 +238,13 @@ Dell'interrogatorio e' redatto verbale.
 
 3\. Quando dispone il trasferimento temporaneo della persona richiesta in consegna, il presidente della corte di appello informa il Ministro della giustizia per la tempestiva comunicazione all'autorita' giudiziaria richiedente anche ai fini delle necessarie intese in ordine alle condizioni e alla durata del trasferimento. Si tiene in ogni caso conto della necessita' che la persona sia fatta rientrare in modo da potere partecipare alle udienze relative alla procedura di esecuzione del mandato d'arresto.
 
-##### ART. 16 - Informazioni e accertamenti integrativi
+#### ART. 16 - Informazioni e accertamenti integrativi
 
 1\. Qualora la corte di appello non ritenga sufficienti ai fini della decisione ((...)) le informazioni trasmesse dallo Stato membro di emissione, ((richiede con urgenza)) allo stesso, direttamente o per il tramite del Ministro della giustizia, le informazioni integrative occorrenti. In ogni caso stabilisce un termine per la ricezione di quanto richiesto, ((tenendo conto della necessita' di rispettare i termini stabiliti dall'articolo 14, comma 4, o dall'articolo 17, comma 2-bis, per l'adozione della propria decisione)). ((PERIODO SOPPRESSO DAL D.LGS. 2 FEBBRAIO 2021, N. 10)).
 
 2\. La corte di appello, d'ufficio o su richiesta delle parti, puo' disporre altresi' ogni ulteriore accertamento che ritiene necessario ((, rispettando i termini stabiliti dall'articolo 14, comma 4, o dall'articolo 17, comma 2-bis, per l'adozione della decisione.))
 
-##### ART. 17 - Decisione sulla richiesta di esecuzione
+#### ART. 17 - Decisione sulla richiesta di esecuzione
 
 1\. Salvo quanto previsto dall'articolo 14, la corte di appello decide con sentenza in camera di consiglio sull'esistenza delle condizioni per l'accoglimento della richiesta di consegna, sentiti il procuratore generale, il difensore, e, se compare, la persona richiesta in consegna, nonche', se presente, il rappresentante dello Stato richiedente.
 
@@ -264,7 +262,7 @@ Dell'interrogatorio e' redatto verbale.
 
 ((7. La sentenza, decorso il termine per la proposizione del ricorso previsto dall'articolo 22, comma 1, e' immediatamente comunicata al Ministro della giustizia, che provvede ad informare le competenti autorita' dello Stato membro di emissione e altresi', quando non e' stato presentato ricorso e la decisione e' di accoglimento, il Servizio per la cooperazione internazionale di polizia.))
 
-##### ART. 18
+#### ART. 18
 
 (( (Motivi di rifiuto obbligatorio della consegna).))
 
@@ -282,7 +280,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale, con sentenza 21 - 24 giugno 2010, n. 227 (in G.U. 1a s.s. 30/6/2010, n. 26), ha dichiarato "l'illegittimita' costituzionale dell'art. 18, comma 1, lettera r), della legge 22 aprile 2005, n. 69 (Disposizioni per conformare il diritto interno alla decisione quadro 2002/584/GAI del Consiglio, del 13 giugno 2002, relativa al mandato d'arresto europeo e alle procedure di consegna tra Stati membri), nella parte in cui non prevede il rifiuto di consegna anche del cittadino di un altro Paese membro dell'Unione europea, che legittimamente ed effettivamente abbia residenza o dimora nel territorio italiano, ai fini dell'esecuzione della pena detentiva in Italia conformemente al diritto interno".
 
-##### ART. 18-bis - Motivi di rifiuto facoltativo della consegna
+#### ART. 18-bis - Motivi di rifiuto facoltativo della consegna
 
 1\. Quando il mandato di arresto europeo e' stato emesso al fine dell'esercizio di azioni giudiziarie in materia penale, la corte di appello puo' rifiutare la consegna nei seguenti casi:
 
@@ -302,7 +300,7 @@ La Corte Costituzionale con sentenza 6 - 28 luglio 2023, n. 178 (in G.U. 1ª s.s
 
 \[...] "in via consequenziale, ai sensi dell'art. 27 della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e sul funzionamento della Corte costituzionale), l'illegittimita' costituzionale dell'art. 18-bis, comma 2, della legge n. 69 del 2005, nella formulazione introdotta dall'art. 15, comma 1, del decreto legislativo 2 febbraio 2021, n. 10 (Disposizioni per il compiuto adeguamento della normativa nazionale alle disposizioni della decisione quadro 2002/584/GAI, relativa al mandato d'arresto europeo e alle procedure di consegna tra stati membri, in attuazione della delega di cui all'articolo 6 della legge 4 ottobre 2019, n. 117), nella parte in cui non prevede che la corte d'appello possa rifiutare la consegna di una persona ricercata cittadina di uno Stato terzo, che legittimamente ed effettivamente abbia residenza o dimora nel territorio italiano da almeno cinque anni e sia sufficientemente integrata in Italia, nei sensi precisati in motivazione, sempre che la corte d'appello disponga che la pena o la misura di sicurezza sia eseguita in Italia".
 
-##### ART. 18-ter
+#### ART. 18-ter
 
 (( (Decisioni pronunciate in assenza).))
 
@@ -312,7 +310,7 @@ La Corte Costituzionale con sentenza 6 - 28 luglio 2023, n. 178 (in G.U. 1ª s.s
 
 3\. Quando ricorrono le condizioni di cui all'articolo 6, comma 1-bis, lettera d), la persona della quale e' domandata la consegna, che non sia stata precedentemente informata del procedimento penale svoltosi nei suoi confronti, puo' chiedere la trasmissione di copia della sentenza su cui il mandato di arresto europeo si fonda. La richiesta non costituisce, in alcun caso, causa di differimento della procedura di consegna o della decisione di eseguire il mandato di arresto europeo. La corte di appello provvede all'immediato inoltro della richiesta all'autorita' emittente.))
 
-##### ART. 19
+#### ART. 19
 
 (( (Garanzie richieste allo Stato membro di emissione in casi particolari). ))
 
@@ -320,7 +318,7 @@ La Corte Costituzionale con sentenza 6 - 28 luglio 2023, n. 178 (in G.U. 1ª s.s
 
 2\. Se il mandato di arresto europeo e' stato emesso ai fini di un'azione penale nei confronti di cittadino italiano o di persona legittimamente ed effettivamente residente in via continuativa da almeno cinque anni sul territorio italiano, l'esecuzione del mandato puo' essere subordinata alla condizione che la persona, dopo essere stata sottoposta al processo, sia rinviata nello Stato italiano per scontarvi la pena o la misura di sicurezza privative della liberta' personale eventualmente applicate nei suoi confronti nello Stato membro di emissione. Si applicano le disposizioni dell'articolo 18-bis, comma 2-bis)).
 
-##### ART. 20 - Concorso di richieste di consegna
+#### ART. 20 - Concorso di richieste di consegna
 
 1\. Quando due o piu' Stati membri hanno emesso un mandato d'arresto europeo nei confronti della stessa persona, la corte di appello decide quale dei mandati d'arresto deve essere eseguito, tenuto conto di ogni rilevante elemento di valutazione e, in particolare, della gravita' dei reati per i quali i mandati sono stati emessi, del luogo in cui i reati sono stati commessi e delle date di emissione dei mandati d'arresto e considerando, in questo contesto, se i mandati sono stati emessi nel corso di un procedimento penale ovvero per l'esecuzione di una pena o misura di sicurezza privative della liberta' personale.
 
@@ -328,11 +326,11 @@ La Corte Costituzionale con sentenza 6 - 28 luglio 2023, n. 178 (in G.U. 1ª s.s
 
 3\. Quando, nei confronti della stessa persona, sono stati emessi un mandato d'arresto europeo e una richiesta di estradizione da parte di uno Stato terzo, la corte di appello competente per il mandato d'arresto, sentito il Ministro della giustizia, decide se va data precedenza al mandato d'arresto ovvero alla richiesta di estradizione tenendo conto della gravita' dei fatti, dell'ordine di presentazione delle richieste e di ogni altro elemento utile alla decisione.
 
-##### ART. 21
+#### ART. 21
 
 ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 10))
 
-##### ART. 22 - Ricorso per cassazione
+#### ART. 22 - Ricorso per cassazione
 
 ((1. Contro la sentenza di cui all'articolo 17, la persona interessata, il suo difensore e il procuratore generale presso la corte di appello possono proporre ricorso per cassazione, entro cinque giorni dalla conoscenza legale della sentenza, solo per i motivi, contestualmente enunciati, di cui alle lettere a), b) e c) del comma 1 dell'articolo 606 del codice di procedura penale.
 
@@ -348,7 +346,7 @@ La Corte Costituzionale con sentenza 6 - 28 luglio 2023, n. 178 (in G.U. 1ª s.s
 
 ((6. Quando la Corte di cassazione annulla con rinvio, gli atti sono trasmessi immediatamente, con precedenza assoluta su ogni altro affare e, comunque entro il giorno successivo al deposito della decisione completa di motivazione, al giudice di rinvio. Nei casi di cui al comma 1, il giudice di rinvio decide entro dieci giorni dalla ricezione degli atti, avvisando le parti con decreto notificato o comunicato almeno quattro giorni prima dell'udienza. Nei casi di cui al comma 5-bis, i termini di cui al secondo periodo sono ridotti della meta'.))
 
-##### ART. 22-bis
+#### ART. 22-bis
 
 (( (Comunicazioni allo Stato membro emittente. Termini per la decisione e provvedimenti in ordine alle misure cautelari). ))
 
@@ -360,7 +358,7 @@ La Corte Costituzionale con sentenza 6 - 28 luglio 2023, n. 178 (in G.U. 1ª s.s
 
 4\. Quando il ritardo nella adozione della decisione definitiva sulla richiesta di consegna si protrae ingiustificatamente oltre la scadenza dei termini previsti dal comma 2 e, comunque, quando sono decorsi novanta giorni dalla scadenza di detti termini senza che sia intervenuta la decisione definitiva sulla consegna, la corte di appello revoca la misura della custodia cautelare e, se persiste l'esigenza di garantire che la persona non si sottragga alla consegna, applica, anche cumulativamente, le misure cautelari di cui agli articoli 281, 282 e 283 del codice di procedura penale e, nei confronti della persona minorenne, la misura di cui all'articolo 20 del decreto del Presidente della Repubblica 22 settembre 1988, n. 448.))
 
-##### ART. 23
+#### ART. 23
 
 (Consegna della persona.
 
@@ -378,13 +376,13 @@ Sospensione della consegna).
 
 6\. All'atto della consegna, la corte di appello trasmette all'autorita' giudiziaria emittente le informazioni occorrenti a consentire la deduzione del periodo di custodia preventivamente sofferto in esecuzione del mandato d'arresto europeo dalla durata complessiva della detenzione conseguente alla eventuale sentenza di condanna ovvero per la determinazione della durata massima della custodia cautelare.
 
-##### ART. 24 - Rinvio della consegna o consegna temporanea
+#### ART. 24 - Rinvio della consegna o consegna temporanea
 
 1\. Con la decisione che dispone l'esecuzione del mandato d'arresto europeo la corte di appello puo' disporre che la consegna della persona venga rinviata per consentire che la stessa possa essere sottoposta a procedimento penale in Italia ovvero possa scontarvi la pena alla quale sia stata condannata per reato diverso da quello oggetto del mandato d'arresto.
 
 2\. Nel caso di cui al comma 1, su richiesta dell'autorita' giudiziaria emittente, la corte di appello, sentita l'autorita' giudiziaria competente per il procedimento penale in corso o per l'esecuzione della sentenza di condanna, puo' disporre il trasferimento temporaneo della persona richiesta in consegna alle condizioni concordate.
 
-##### ART. 25 - Divieto di consegna o di estradizione successiva
+#### ART. 25 - Divieto di consegna o di estradizione successiva
 
 1\. La consegna della persona e' subordinata alla condizione che la stessa non venga consegnata ad altro Stato membro in esecuzione di un mandato d'arresto europeo emesso per un reato anteriore alla consegna medesima senza l'assenso della corte di appello che ha disposto l'esecuzione del mandato d'arresto ne' estradata verso uno Stato terzo senza l'assenso all'estradizione successiva accordato a norma delle convenzioni internazionali in vigore per lo Stato e dell'articolo 711 del codice di procedura penale.
 
@@ -404,7 +402,7 @@ c) quando la persona richiesta in consegna non beneficia del principio di specia
 
 > «Art. 711 (Riestradizione). - 1. Le disposizioni dell'art. 710 si applicano anche nel caso in cui lo Stato al quale la persona e' stata consegnata domanda il consenso alla riestradizione della stessa persona verso un altro Stato.».
 
-##### ART. 26 - Principio di specialita'
+#### ART. 26 - Principio di specialita'
 
 1\. La consegna e' sempre subordinata alla condizione che, per un fatto anteriore alla stessa e diverso da quello per il quale e' stata concessa, la persona non venga sottoposta a un procedimento penale, ne' privata della liberta' personale in esecuzione di una pena o di una misura di sicurezza, ne' altrimenti assoggettata ad altra misura privativa della liberta' personale.
 
@@ -424,7 +422,7 @@ f) dopo essere stata consegnata, la persona ha espressamente rinunciato a benefi
 
 3\. Successivamente alla consegna, ove lo Stato membro di emissione richieda di sottoporre la persona a un procedimento penale ovvero di assoggettare la stessa a un provvedimento coercitivo della liberta', provvede la corte di appello che ha dato esecuzione al mandato d'arresto. A tale fine, la corte verifica che la richiesta dello Stato estero contenga le informazioni indicate dall'articolo 8, paragrafo 1, della decisione quadro munite di traduzione e decide entro trenta giorni dalla ricezione della richiesta. L'assenso e' rilasciato quando il reato per il quale e' richiesto consente la consegna di una persona ai sensi della decisione quadro. ((La corte puo' rifiutare l'assenso unicamente quando ricorre uno dei casi di cui agli articoli 18, 18-bis e 18-ter.))
 
-##### ART. 27 - Transito
+#### ART. 27 - Transito
 
 1\. Le richieste di transito sul territorio dello Stato di una persona che deve essere consegnata sono ricevute dal Ministro della giustizia.
 
@@ -436,7 +434,7 @@ b) il ricercato e' cittadino italiano o ((cittadino di altro Stato membro dell'U
 
 3\. Nel caso in cui la richiesta di transito riguardi un cittadino italiano o ((un cittadino di altro Stato membro dell'Unione europea legittimamente ed effettivamente residente nel territorio italiano da almeno cinque anni)), il Ministro della giustizia puo' subordinare il transito alla condizione che la persona, dopo essere stata ascoltata, sia rinviata in Italia per scontarvi la pena o la misura di sicurezza privative della liberta' personale eventualmente pronunciate nei suoi confronti nello Stato membro di emissione.
 
-##### ART. 27-bis
+#### ART. 27-bis
 
 (( (Modalita' di trasmissione degli atti tra uffici giudiziari).))
 
@@ -448,9 +446,9 @@ b) il ricercato e' cittadino italiano o ((cittadino di altro Stato membro dell'U
 
 4\. Sino all'attivazione dei sistemi ministeriali e alla adozione del decreto del Ministro della giustizia di cui al comma 1, la trasmissione degli atti tra gli uffici giudiziari e' consentita anche tramite posta elettronica certificata, secondo le modalita' stabilite con provvedimento del Direttore generale dei sistemi informativi e automatizzati del Ministero della giustizia da emanarsi entro quindici giorni dalla data di pubblicazione del presente decreto nella Gazzetta Ufficiale della Repubblica italiana.))
 
-## CAPO II - PROCEDURA ATTIVA DI CONSEGNA
+### CAPO II - PROCEDURA ATTIVA DI CONSEGNA
 
-##### ART. 28 - Competenza
+#### ART. 28 - Competenza
 
 1\. Il mandato d'arresto europeo e' emesso:
 
@@ -508,7 +506,7 @@ c) dal pubblico ministero individuato ai sensi dell'articolo 658 del codice di p
 
 > «Art. 658 (Esecuzione delle misure di sicurezza ordinate con sentenza). - 1. Quando deve essere eseguita una misura di sicurezza, diversa dalla confisca, ordinata con sentenza, il pubblico ministero presso il giudice indicato nell'art. 665 trasmette gli atti al pubblico ministero presso il magistrato di sorveglianza competente per i provvedimenti previsti dall'art. 679. Le misure di sicurezza di cui sia stata ordinata l'applicazione provvisoria a norma dell'art. 312 sono eseguite dal pubblico ministero presso il giudice che ha emesso il provvedimento, il quale provvede a norma dell'art. 659, comma 2.».
 
-##### ART. 29 - Emissione del mandato d'arresto europeo
+#### ART. 29 - Emissione del mandato d'arresto europeo
 
 1\. L'autorita' giudiziaria competente ai sensi dell'articolo 28 emette il mandato d'arresto europeo quando risulta che l'imputato o il condannato e' residente, domiciliato o dimorante nel territorio di uno Stato membro dell'Unione europea.
 
@@ -520,7 +518,7 @@ c) dal pubblico ministero individuato ai sensi dell'articolo 658 del codice di p
 
 > \- La legge 30 settembre 1993, n. 388, reca: (Ratifica ed esecuzione: a) del protocollo di adesione del Governo della Repubblica italiana all'accordo di Schengen del 14 giugno 1985 tra i Governi degli Stati dell'Unione economica del Benelux, della Repubblica federale di Germania e della Repubblica francese relatiyo all'eliminazione graduale dei controlli alle frontiere comuni, con due dichiarazioni comuni; b) dell'accordo di adesione della Repubblica italiana alla convenzione del 19 giugno 1990 di applicazione del summenzionato accordo di Schengen, con allegate due dichiarazioni unilaterali dell'Italia e della Francia, nonche' la convenzione, il relativo atto finale, con annessi l'atto finale, il processo verbale e la dichiarazione comune dei Ministri e Segretari di Stato firmati in occasione della firma dela citata convenzione del 1990, e la dichiarazione comune relativa agli articoli 2 e 3 dell'accordo di adesione summenzionato; c) dell'accordo tra il Governo della Repubblica italiana ed il Governo della Repubblica francese relativo agli articoli 2 e 3 dell'accordo di cui alla lettera b); tutti atti firmati a Parigi il 27 novembre 1990) ed e' pubblicata nella Gazzetta Ufficiale del 2 ottobre 1993, n. 232, supplemento ordinario.
 
-##### ART. 30
+#### ART. 30
 
 (( (Contenuto del mandato d'arresto europeo).))
 
@@ -534,11 +532,11 @@ AGGIORNAMENTO (5)
 
 Il D.Lgs. 15 febbraio 2016, n. 31 ha disposto (con l'art. 1, comma 1, lettera b)) che "l'allegato I al presente decreto sostituisce il modello richiamato dalla legge 22 aprile 2005, n. 69".
 
-##### ART. 31 - Perdita di efficacia del mandato d'arresto europeo
+#### ART. 31 - Perdita di efficacia del mandato d'arresto europeo
 
 1\. Il mandato d'arresto europeo perde efficacia quando il provvedimento restrittivo sulla base del quale e' stato emesso e' stato revocato o annullato ovvero e' divenuto inefficace. Il procuratore generale presso la corte di appello ne da' immediata comunicazione al Ministro della giustizia ai fini della conseguente comunicazione allo Stato membro di esecuzione.
 
-##### ART. 31-bis
+#### ART. 31-bis
 
 (( (Divieto di consegna o di estradizione successiva).))
 
@@ -546,11 +544,11 @@ Il D.Lgs. 15 febbraio 2016, n. 31 ha disposto (con l'art. 1, comma 1, lettera b)
 
 2\. Il divieto di cui al comma 1 non e' applicabile alle richieste di consegna in esecuzione di un mandato d'arresto europeo, quando ricorre una delle condizioni previste dall'articolo 26, comma 2, lettere a), e) ed f).))
 
-##### ART. 32 - Principio di specialita'
+#### ART. 32 - Principio di specialita'
 
 1\. La consegna della persona ricercata e' soggetta ai limiti del principio di specialita', con le eccezioni previste, relativamente alla procedura passiva di consegna, dall'articolo 26.
 
-##### ART. 33 - Computabilita' della custodia cautelare all'estero
+#### ART. 33 - Computabilita' della custodia cautelare all'estero
 
 1\. Il periodo di custodia cautelare sofferto all'estero in esecuzione del mandato d'arresto europeo e' computato ai sensi e per gli effetti degli articoli 303, comma 4, 304 e 657 del codice di procedura penale. ((1))
 
@@ -560,13 +558,13 @@ AGGIORNAMENTO (1)
 
 La Corte costituzionale, con sentenza 7 - 16 maggio 2008, n. 143 (in G.U. 1a s.s. 21/05/2008, n. 22) ha dichiarato l'illegittimita' costituzionale del presente articolo nella parte in cui non prevede che la custodia cautelare all'estero, in esecuzione del mandato d'arresto europeo, sia computata anche agli effetti della durata dei termini di fase previsti dall'art. 303, commi 1, 2 e 3, del codice di procedura penale.
 
-## CAPO III - MISURE REALI
+### CAPO III - MISURE REALI
 
-##### ART. 34 - Richiesta in caso di sequestro o di confisca di beni
+#### ART. 34 - Richiesta in caso di sequestro o di confisca di beni
 
 1\. Con il mandato d'arresto europeo emesso ai sensi dell'articolo 28 il procuratore generale presso la corte di appello richiede all'autorita' giudiziaria dello Stato membro di esecuzione la consegna dei beni oggetto del provvedimento di sequestro o di confisca eventualmente emesso dal giudice competente, trasmettendo, nel contempo, copia dei provvedimenti di sequestro.
 
-##### ART. 35 - Sequestro e consegna di beni
+#### ART. 35 - Sequestro e consegna di beni
 
 1\. Su richiesta dell'autorita' giudiziaria che ha emesso il mandato d'arresto europeo, o d'ufficio, la corte di appello puo' disporre il sequestro dei beni necessari ai fini della prova ovvero suscettibili di confisca in quanto costituenti il prodotto, il profitto o il prezzo del reato nella disponibilita' del ricercato e nei limiti di cui ai commi seguenti.
 
@@ -642,7 +640,7 @@ La Corte costituzionale, con sentenza 7 - 16 maggio 2008, n. 143 (in G.U. 1a s.s
 
 > \- Per il testo dall'art. 719 del codice di procedura penale vedi note all'art. 9.
 
-##### ART. 36 - Concorso di sequestri
+#### ART. 36 - Concorso di sequestri
 
 1\. Nel caso in cui i beni richiesti di sequestro dall'autorita' giudiziaria dello Stato membro costituiscano gia' oggetto di sequestro disposto dall'autorita' giudiziaria italiana nell'ambito di un procedimento penale in corso e di essi sia prevista dalla legge italiana la confisca, la consegna puo' essere disposta ai soli fini delle esigenze probatorie e previo nulla osta dell'autorita' giudiziaria italiana procedente con il limite di cui all'articolo 35, comma 9.
 
@@ -660,9 +658,9 @@ La Corte costituzionale, con sentenza 7 - 16 maggio 2008, n. 143 (in G.U. 1a s.s
 
 > «Art. 671 (Sequestro conservativo). - Il giudice, su istanza del creditore che ha fondato timore di perdere la garanzia del proprio credito, puo' autorizzare il sequestro conservativo di beni mobili o immobili del debitore o delle somme e cose a lui dovute, nei limiti in cui la legge ne permette il pignoramento.».
 
-## CAPO IV - SPESE
+### CAPO IV - SPESE
 
-##### ART. 37 - Spese
+#### ART. 37 - Spese
 
 1\. Sono a carico dello Stato italiano le spese sostenute nel territorio nazionale per l'esecuzione di un mandato d'arresto europeo o delle misure reali adottate. Tutte le altre spese sono a carico dello Stato membro la cui autorita' giudiziaria ha emesso il mandato d'arresto o richiesto la misura reale.
 
@@ -670,13 +668,13 @@ La Corte costituzionale, con sentenza 7 - 16 maggio 2008, n. 143 (in G.U. 1a s.s
 
 ## TITOLO III - DISPOSIZIONI FINALI E TRANSITORIE
 
-##### ART. 38 - Obblighi internazionali
+#### ART. 38 - Obblighi internazionali
 
 1\. La presente legge non pregiudica gli obblighi internazionali dello Stato italiano qualora la persona ricercata sia stata estradata da uno Stato terzo e sia tutelata dalle norme relative al principio di specialita' contenute nell'accordo in base al quale ha avuto luogo l'estradizione. In tale caso il Ministro della giustizia richiede tempestivamente l'assenso allo Stato dal quale la persona ricercata e' stata estradata ai fini della consegna allo Stato membro.
 
 2\. Nel caso previsto dal comma 1, secondo periodo, i termini di cui al capo I del titolo II decorrono dal giorno in cui il principio di specialita' cessa di operare.
 
-##### ART. 39 - Norme applicabili
+#### ART. 39 - Norme applicabili
 
 1\. Per quanto non previsto dalla presente legge si applicano le disposizioni del codice di procedura penale e delle leggi complementari, in quanto compatibili.
 
@@ -686,7 +684,7 @@ La Corte costituzionale, con sentenza 7 - 16 maggio 2008, n. 143 (in G.U. 1a s.s
 
 > \- La legge 7 ottobre 1969, n. 742, reca: Sospensione dei termini processuali nel periodo feriale ed e' pubblicata nella Gazzetta Ufficiale del 6 novembre 1969, n. 281.
 
-##### ART. 40 - Disposizioni transitorie
+#### ART. 40 - Disposizioni transitorie
 
 1\. Le disposizioni della presente legge si applicano alle richieste di esecuzione di mandati d'arresto europei emessi e ricevuti dopo la data della sua entrata in vigore.
 

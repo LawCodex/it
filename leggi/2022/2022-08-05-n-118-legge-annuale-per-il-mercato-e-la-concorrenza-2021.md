@@ -30,7 +30,7 @@ la seguente legge:
 
 ## Capo I - Finalita'
 
-#### Art. 1
+### Art. 1
 
 Finalita'
 
@@ -82,7 +82,7 @@ c) garantire la tutela dei consumatori.
 
 ## Capo II - Rimozione di barriere all'entrata nei mercati. Regimi concessori
 
-#### Art. 2
+### Art. 2
 
 Delega al Governo per la mappatura e la trasparenza dei regimi concessori di beni pubblici
 
@@ -110,7 +110,7 @@ h) coordinamento e interoperabilita' con gli altri sistemi informativi e di tras
 
 4\. Agli oneri derivanti dal comma 3 si provvede, quanto a 1 milione di euro per l'anno 2022, mediante corrispondente riduzione dello stanziamento del fondo speciale di conto capitale iscritto, ai fini del bilancio triennale 2022-2024, nell'ambito del programma «Fondi di riserva e speciali» della missione «Fondi da ripartire» dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2022, allo scopo parzialmente utilizzando l'accantonamento relativo al medesimo Ministero, e, quanto a 2 milioni di euro annui a decorrere dall'anno 2023, mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2022-2024, nell'ambito del programma «Fondi di riserva e speciali» della missione «Fondi da ripartire» dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2022, allo scopo parzialmente utilizzando l'accantonamento relativo al medesimo Ministero. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 3
+### Art. 3
 
 Disposizioni sull'efficacia delle concessioni demaniali e dei rapporti di gestione per finalita' turistico-ricreative e sportive
 
@@ -144,7 +144,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 29 dicembre 2022, n. 198, convertito con modificazioni dalla L. 24 febbraio 2023, n. 14, ha disposto (con l'art. 10-quater, comma 3) che "Le concessioni e i rapporti di cui all'articolo 3, comma 1, lettere a) e b), della legge 5 agosto 2022, n. 118, continuano in ogni caso ad avere efficacia sino alla data di rilascio dei nuovi provvedimenti concessori".
 
-#### Art. 4 - Disposizioni in materia di affidamento delle concessioni demaniali marittime, lacuali e fluviali per finalita' turistico-ricreative e sportive
+### Art. 4 - Disposizioni in materia di affidamento delle concessioni demaniali marittime, lacuali e fluviali per finalita' turistico-ricreative e sportive
 
 1\. La procedura di affidamento delle concessioni demaniali marittime, lacuali e fluviali per l'esercizio delle attivita' turistico - ricreative e sportive, di cui all'articolo 01, comma 1, lettere a), b), c), d), ((e) e f),)) del decreto-legge 5 ottobre 1993, n. 400, convertito, con modificazioni, dalla legge 4 dicembre 1993, n. 494, ((fatto salvo quanto previsto dal comma 1-bis del presente articolo,)) si svolge nel rispetto del diritto dell'Unione europea e dei principi di liberta' di stabilimento, di pubblicita', di trasparenza, di massima partecipazione, di non discriminazione e di parita' di trattamento, anche al fine di agevolare la partecipazione delle microimprese, delle piccole imprese e delle imprese giovanili.
 
@@ -230,7 +230,7 @@ b) al ((numero)) 2), primo periodo, sono inserite, in fine, le seguenti parole: 
 
 13\. Le disposizioni del presente articolo si applicano alle procedure di affidamento delle concessioni demaniali marittime, lacuali e fluviali per l'esercizio delle attivita' turistico-ricreative e sportive di cui al comma 1 avviate successivamente ((alla data di entrata in vigore)) della presente disposizione e ai relativi atti concessori.
 
-#### Art. 5
+### Art. 5
 
 Concessione delle aree demaniali
 
@@ -394,7 +394,7 @@ c) prevedano un organico di lavoratori rapportato al programma di attivita' di c
 
 > 5.».
 
-#### Art. 6
+### Art. 6
 
 Concessioni di distribuzione del gas naturale
 
@@ -416,7 +416,7 @@ c) nei casi di cui alla lettera b) si applica l'articolo 15, comma 5, del decret
 
 4\. Entro sei mesi dalla data di entrata in vigore della presente legge, con decreto del Ministro della transizione ecologica e del Ministro per gli affari regionali e le autonomie, sentita l'ARERA, sono aggiornati i criteri di gara previsti dal regolamento di cui al decreto del Ministro dello sviluppo economico e del Ministro per i rapporti con le regioni e la coesione territoriale 12 novembre 2011, n. 226, prevedendo in particolare l'aggiornamento dei criteri di valutazione degli interventi di innovazione tecnologica previsti dall'articolo 15, comma 3, lettera d), del citato regolamento di cui al decreto interministeriale n. 226 del 2011, al fine di valorizzare nuove tipologie di intervento piu' rispondenti al rinnovato quadro tecnologico.
 
-#### Art. 7
+### Art. 7
 
 Disposizioni in materia di concessioni di grande derivazione idroelettrica
 
@@ -560,11 +560,9 @@ c) il comma 1-sexies e' sostituito dal seguente:
 
 > «Art. 13. - 6. Le concessioni per grandi derivazioni a scopo idroelettrico accordate nelle province autonome di Trento e di Bolzano, in forza di disposizioni normative o amministrative che prevedono un termine di scadenza anteriore al 31 dicembre 2024, o a data successiva eventualmente individuata dallo Stato per analoghe concessioni di grandi derivazioni idroelettriche situate nel territorio nazionale, sono prorogate di diritto, ancorche' scadute, per il periodo utile al completamento delle procedure di evidenza pubblica e comunque non oltre la predetta data ed esercitate fino a tale data alle condizioni stabilite dalle norme provinciali e dal disciplinare di concessione vigenti alla data della loro scadenza. Le province e i concessionari possono, in tal caso, concordare eventuali modificazioni degli oneri e delle obbligazioni previsti dalle concessioni in corso, secondo quanto stabilito dalla legge provinciale di cui al comma 1.».
 
-## Capo III
+## Capo III - Servizi pubblici locali e trasporti
 
-### Servizi pubblici locali e trasporti
-
-#### Art. 8
+### Art. 8
 
 Delega al Governo in materia di servizi pubblici locali
 
@@ -756,7 +754,7 @@ v) definizione di strumenti per la trasparenza dei contratti di servizio nonche'
 
 > \- Per il testo dell'art. 8 del decreto legislativo 28 agosto 1997, n. 281, si veda nelle note all'art. 2.
 
-#### Art. 9
+### Art. 9
 
 Disposizioni in materia di trasporto pubblico locale
 
@@ -776,7 +774,7 @@ Disposizioni in materia di trasporto pubblico locale
 
 6\. Dall'attuazione delle disposizioni di cui al presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. A tale fine, le amministrazioni provvedono agli adempimenti previsti con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
-#### Art. 9-bis - Disposizioni in materia di servizi ferroviari intercity
+### Art. 9-bis - Disposizioni in materia di servizi ferroviari intercity
 
 1\. Ai servizi ferroviari intercity oggetto di affidamento diretto, affidamento in house o affidamento a operatori interni, si applicano i principi di cui agli articoli 17, 30 e 31 del decreto legislativo 23 dicembre 2022, n. 201. La proroga di contratti di obblighi di servizio pubblico relativi ai servizi di cui al presente articolo, debitamente motivata in conformita' al regolamento (CE) n. 1370/2007 del Parlamento europeo e del Consiglio, del 23 ottobre 2007, e' soggetta ai principi e agli obblighi di trasparenza per gli affidamenti in house di cui all'articolo 31 del decreto legislativo n. 201 del 2022.
 
@@ -792,7 +790,7 @@ E' stato ripristinato il testo gia' in vigore dal 21-4-2026 a seguito della modi
 
 medesimo.
 
-#### Art. 9-ter - Valutazioni economiche e finanziarie nei servizi pubblici in concessione
+### Art. 9-ter - Valutazioni economiche e finanziarie nei servizi pubblici in concessione
 
 1\. Al fine di dare immediata attuazione alla decisione di esecuzione del Consiglio dell'Unione europea del 27 novembre 2025, di modifica del Piano nazionale di ripresa e resilienza (PNRR) e in particolare in relazione agli obiettivi relativi alla Riforma 1.3 «Rafforzare l'efficienza dell'infrastruttura ferroviaria in Italia» della Missione 3, Componente 1, del PNRR e per garantire il pieno rispetto degli obblighi europei in materia di concorrenza nei servizi pubblici in concessione e adeguate valutazioni sull'equilibrio ((economico-finanziario)) degli interventi infrastrutturali e nei trasporti ((,)) all'Unita' di missione per il Piano nazionale di ripresa e resilienza del Ministero delle infrastrutture e dei trasporti sono attribuite le seguenti funzioni:
 
@@ -800,13 +798,13 @@ a) assistenza nelle valutazioni economiche e finanziarie nella progettazione di 
 
 b) consulenza e formazione alle amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, che ne facciano richiesta e sulla base di apposite convenzioni, nelle valutazioni sulla sussistenza delle condizioni di convenienza economica e sostenibilita' economica, finanziaria e ambientale di singoli interventi, nel monitoraggio degli indicatori di performance e del rispetto dei relativi cronoprogrammi di attuazione, nonche' negli aggiornamenti o nelle revisioni dei piani economico-finanziari, fermo restando quanto previsto dagli articoli 175, comma 9, e 177, comma 7, del codice dei contratti pubblici, di cui al decreto legislativo 31 marzo 2023, n. 36.
 
-#### Art. 9-quater
+### Art. 9-quater
 
 (( (Condizioni non discriminatorie di accesso al materiale rotabile). ))
 
 1\. ((Il Ministero delle infrastrutture e dei trasporti rende disponibile il materiale rotabile di proprieta' dello Stato all'operatore entrante selezionato in base alla procedura di cui al comma 2 dell'articolo 9-bis, garantendo condizioni di accesso trasparenti e non discriminatorie)).
 
-#### Art. 10
+### Art. 10
 
 Procedure alternative di risoluzione delle controversie tra operatori economici che gestiscono reti, infrastrutture e servizi di trasporto e utenti o consumatori
 
@@ -844,7 +842,7 @@ b) al comma 3, la lettera h) e' sostituita dalla seguente:
 
 > (Omissis).».
 
-#### Art. 11
+### Art. 11
 
 Modifica della disciplina dei controlli sulle societa' a partecipazione pubblica
 
@@ -884,7 +882,7 @@ b) all'articolo 20, comma 9, le parole: «tre anni» sono sostituite dalle segue
 
 ## Capo IV - Concorrenza, energia e sostenibilita' ambientale
 
-#### Art. 12
+### Art. 12
 
 Colonnine di ricarica
 
@@ -910,7 +908,7 @@ b) e' aggiunto, in fine, il seguente periodo: «Le procedure di cui al periodo p
 
 > Conseguentemente, sono aggiornati il Piano nazionale infrastrutturale per la ricarica dei veicoli alimentati ad energia elettrica, di cui all'art. 17-septies del decreto-legge 22 giugno 2012, n. 83, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 134, e il Piano di ristrutturazione delle aree di servizio autostradali.».
 
-#### Art. 13
+### Art. 13
 
 Disposizioni per l'anagrafe degli impianti di distribuzione dei carburanti
 
@@ -930,7 +928,7 @@ Disposizioni per l'anagrafe degli impianti di distribuzione dei carburanti
 
 > Omissis.».
 
-#### Art. 14
+### Art. 14
 
 Servizi di gestione dei rifiuti
 
@@ -988,7 +986,7 @@ Servizi di gestione dei rifiuti
 
 ## Capo V - Concorrenza e tutela della salute
 
-#### Art. 15
+### Art. 15
 
 Revisione e trasparenza dell'accreditamento e del convenzionamento delle strutture private nonche' monitoraggio e valutazione degli erogatori privati convenzionati
 
@@ -1232,7 +1230,7 @@ c-quater) le prestazioni sociali finalizzate al soddisfacimento dei bisogni del 
 
 > 6\. Gli enti, le aziende e le strutture pubbliche e private che erogano prestazioni per conto del servizio sanitario sono tenuti ad indicare nel proprio sito, in una apposita sezione denominata «Liste di attesa», i criteri di formazione delle liste di attesa, i tempi di attesa previsti e i tempi medi effettivi di attesa per ciascuna tipologia di prestazione erogata. Sono altresi' tenuti a pubblicare nel proprio sito internet istituzionale i bilanci certificati e i dati sugli aspetti qualitativi e quantitativi dei servizi erogati e sull'attivita' medica svolta.».
 
-#### Art. 16
+### Art. 16
 
 Distribuzione dei farmaci
 
@@ -1250,7 +1248,7 @@ Distribuzione dei farmaci
 
 > b) un assortimento dei medicinali in possesso di un'AIC, inclusi i medicinali omeopatici autorizzati ai sensi dell'art. 18 e i medicinali generici, che sia tale da rispondere alle esigenze del territorio geograficamente determinato cui e' riferita l'autorizzazione alla distribuzione all'ingrosso, valutate dall'autorita' competente al rilascio dell'autorizzazione sulla base degli indirizzi vincolanti forniti dall'AIFA. Tale obbligo non si applica ai medicinali non ammessi a rimborso da parte del Servizio sanitario nazionale, fatta salva la possibilita' del rivenditore al dettaglio di rifornirsi presso altro grossista.».
 
-#### Art. 17
+### Art. 17
 
 Rimborsabilita' dei farmaci equivalenti
 
@@ -1264,7 +1262,7 @@ Rimborsabilita' dei farmaci equivalenti
 
 > \- Il decreto-legge 13 settembre 2012, n. 158 (Disposizioni urgenti per promuovere lo sviluppo del Paese mediante un piu' alto livello di tutela della salute) convertito, con modificazioni, dalla legge 8 novembre 2012, n. 189, e' pubblicato nella G.U. n. 263 del 10 novembre 2012.
 
-#### Art. 18
+### Art. 18
 
 Farmaci in attesa di definizione del prezzo
 
@@ -1316,7 +1314,7 @@ b) il comma 5-ter e' sostituito dal seguente:
 
 > 12 A decorrere dal 1° luglio 2013, la documentazione riguardante studi clinici sui medicinali disciplinati dal decreto legislativo 24 giugno 2003, n. 211, e' gestita esclusivamente con modalita' telematiche, attraverso i modelli standard dell'Osservatorio nazionale sulla sperimentazione clinica dell'AIFA.».
 
-#### Art. 19
+### Art. 19
 
 Revisione del sistema di produzione dei medicinali emoderivati da plasma italiano
 
@@ -1356,7 +1354,7 @@ Revisione del sistema di produzione dei medicinali emoderivati da plasma italian
 
 > Omissis.».
 
-#### Art. 20
+### Art. 20
 
 Selezione della dirigenza sanitaria
 
@@ -1416,7 +1414,7 @@ d) il profilo professionale del dirigente da incaricare, i curricula dei candida
 
 > 9\. I contratti collettivi nazionali di lavoro disciplinano le modalita' di salvaguardia del trattamento economico fisso dei dirigenti in godimento alla data di entrata in vigore del decreto legislativo 19 giugno 1999, n. 229».
 
-#### Art. 21
+### Art. 21
 
 Procedure relative alla formazione manageriale in materia di sanita' pubblica
 
@@ -1452,11 +1450,9 @@ A tal fine le universita', nella certificazione del diploma di master, indicano 
 
 > 5\. Le disposizioni di cui al presente articolo si applicano al personale dirigente del ruolo sanitario delle unita' sanitarie locali, delle aziende ospedaliere, degli istituti di ricovero e cura a carattere scientifico, degli istituti ed enti di cui all'art. 4, degli istituti zooprofilattici sperimentali. Le disposizioni si applicano, altresi', al personale degli enti e strutture pubbliche indicate all'art. 11 del decreto del Presidente della Repubblica 10 dicembre 1997, n. 484, al quale sia stata estesa la disciplina sugli incarichi dirigenziali di struttura complessa di cui al presente decreto».
 
-## Capo VI - Concorrenza, sviluppo delle infrastrutture digitali e servizi di
+## Capo VI - Concorrenza, sviluppo delle infrastrutture digitali e servizi di comunicazione elettronica
 
-### comunicazione elettronica
-
-#### Art. 22
+### Art. 22
 
 Procedure per la realizzazione di infrastrutture di nuova generazione
 
@@ -1500,7 +1496,7 @@ b) ai commi 5 e 6, le parole: «due mesi» sono sostituite dalle seguenti: «ses
 
 > 6\. L'organismo di cui all'art. 9 decide secondo criteri di equita' e ragionevolezza, entro sessanta giorni dalla data di ricezione della richiesta. Il prezzo eventualmente fissato dall'organismo competente per la risoluzione delle controversie e' tale da garantire che il fornitore di accesso disponga di un'equa possibilita' di recuperare i suoi costi e resti indenne da oneri economici conseguenti e connessi alla realizzazione delle opere necessarie all'accesso. Il prezzo fissato da parte dell'organismo competente di cui all'art. 9 non copre i costi sostenuti dal gestore dell'infrastruttura, laddove questi siano gia' riconosciuti nelle eventuali strutture tariffarie volte ad offrire un'equa opportunita' di recupero dei costi stessi.».
 
-#### Art. 23
+### Art. 23
 
 Interventi di realizzazione delle reti in fibra ottica
 
@@ -1522,7 +1518,7 @@ L'Autorita' per le garanzie nelle comunicazioni e l'Autorita' garante della conc
 
 > (Omissis).».
 
-#### Art. 24
+### Art. 24
 
 Blocco e attivazione dei servizi premium e acquisizione della prova del consenso
 
@@ -1540,7 +1536,7 @@ Blocco e attivazione dei servizi premium e acquisizione della prova del consenso
 
 > (Omissis).».
 
-#### Art. 25
+### Art. 25
 
 Norme in materia di servizi postali
 
@@ -1738,11 +1734,9 @@ b) alla lettera c), numero 11), dopo le parole: «operatori del settore delle co
 
 > 14-bis) garantisce l'adeguata ed efficace applicazione del regolamento (UE) 2019/1150 del Parlamento europeo e del Consiglio, del 20 giugno 2019, che promuove equita' e trasparenza per gli utenti commerciali di servizi di intermediazione on line, anche mediante l'adozione di linee guida, la promozione di codici di condotta e la raccolta di informazioni pertinenti.».
 
-## Capo VII - Concorrenza, rimozione degli oneri per le imprese e parita' di
+## Capo VII - Concorrenza, rimozione degli oneri per le imprese e parita' di trattamento tra gli operatori
 
-### trattamento tra gli operatori
-
-#### Art. 26
+### Art. 26
 
 Delega al Governo per la revisione dei procedimenti amministrativi in funzione di sostegno alla concorrenza e per la semplificazione in materia di fonti energetiche rinnovabili
 
@@ -1808,7 +1802,7 @@ f) adeguamento dei livelli di regolazione ai livelli minimi richiesti dalla norm
 
 13\. ((Entro cinquantaquattro mesi)) dalla data di entrata in vigore della presente legge sono adottate disposizioni modificative e integrative del regolamento di cui al decreto del Presidente della Repubblica 13 febbraio 2017, n. 31, al fine di ampliare e precisare le categorie di interventi e opere di lieve entita' e di operare altre semplificazioni procedimentali, individuando ulteriori tipologie di interventi non soggetti ad autorizzazione paesaggistica oppure sottoposti ad autorizzazione paesaggistica semplificata, nonche' al fine di riordinare, introducendo la relativa disciplina nell'ambito del predetto regolamento, le fattispecie di interventi soggetti a regimi semplificati introdotte mediante norme di legge.
 
-#### Art. 27
+### Art. 27
 
 Delega al Governo in materia di semplificazione dei controlli sulle attivita' economiche
 
@@ -1856,7 +1850,7 @@ AGGIORNAMENTO (8)
 
 La L. 8 agosto 2024, n. 119, ha disposto (con l'art. 1, comma 2) che "Il termine per l'esercizio della delega di cui all'articolo 27, comma 1, della legge 5 agosto 2022, n. 118, e' prorogato al 31 dicembre 2024, limitatamente all'applicazione dei principi e criteri direttivi di cui alla lettera l-bis) del medesimo comma 1".
 
-#### Art. 28
+### Art. 28
 
 Disposizioni concernenti la compatibilita' tra le attivita' di agente immobiliare e di mediazione creditizia
 
@@ -1896,7 +1890,7 @@ L'esercizio dell'attivita' di mediazione creditizia rimane assoggettato alla rel
 
 > (Omissis)».
 
-#### Art. 29
+### Art. 29
 
 Abbreviazione dei termini della comunicazione unica per la nascita dell'impresa
 
@@ -1912,7 +1906,7 @@ Abbreviazione dei termini della comunicazione unica per la nascita dell'impresa
 
 > 4\. Le amministrazioni competenti comunicano all'interessato e all'ufficio del registro delle imprese, per via telematica, immediatamente il codice fiscale e la partita IVA ed entro i successivi quattro giorni gli ulteriori dati definitivi relativi alle posizioni registrate.».
 
-#### Art. 30
+### Art. 30
 
 Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2019/1020 del Parlamento europeo e del Consiglio, del 20 giugno 2019, e per la semplificazione e il riordino del relativo sistema di vigilanza del mercato
 
@@ -1984,7 +1978,7 @@ Qualora uno o piu' decreti legislativi determinino nuovi o maggiori oneri che no
 
 > 2\. Le leggi di delega comportanti oneri recano i mezzi di copertura necessari per l'adozione dei relativi decreti legislativi. Qualora, in sede di conferimento della delega, per la complessita' della materia trattata, non sia possibile procedere alla determinazione degli effetti finanziari derivanti dai decreti legislativi, la quantificazione degli stessi e' effettuata al momento dell'adozione dei singoli decreti legislativi. I decreti legislativi dai quali derivano nuovi o maggiori oneri sono emanati solo successivamente all'entrata in vigore dei provvedimenti legislativi che stanzino le occorrenti risorse finanziarie. A ciascuno schema di decreto legislativo e' allegata una relazione tecnica, predisposta ai sensi del comma 3, che da' conto della neutralita' finanziaria del medesimo decreto ovvero dei nuovi o maggiori oneri da esso derivanti e dei corrispondenti mezzi di copertura.».
 
-#### Art. 31
+### Art. 31
 
 Modifica alla disciplina del risarcimento diretto per la responsabilita' civile auto
 
@@ -2016,7 +2010,7 @@ Modifica alla disciplina del risarcimento diretto per la responsabilita' civile 
 
 ## Capo VIII - Rafforzamento dei poteri in materia di attivita' antitrust
 
-#### Art. 32
+### Art. 32
 
 Concentrazioni
 
@@ -2098,7 +2092,7 @@ c) all'articolo 5:
 
 > Tale termine puo' essere prorogato nel corso dell'istruttoria per un periodo non superiore a trenta giorni, qualora le imprese non forniscano informazioni e dati a loro richiesti che siano nella loro disponibilita'.».
 
-#### Art. 33
+### Art. 33
 
 Rafforzamento del contrasto all'abuso di dipendenza economica
 
@@ -2126,7 +2120,7 @@ c) al comma 3 e' aggiunto, in fine, il seguente periodo: «Le azioni civili espe
 
 > 3-bis. Ferma restando l'eventuale applicazione dell'art. 3 della legge 10 ottobre 1990, n. 287, l'Autorita' garante della concorrenza e del mercato puo', qualora ravvisi che un abuso di dipendenza economica abbia rilevanza per la tutela della concorrenza e del mercato, anche su segnalazione di terzi ed a seguito dell'attivazione dei propri poteri di indagine ed esperimento dell'istruttoria, procedere alle diffide e sanzioni previste dall'art. 15 della legge 10 ottobre 1990, n. 287, nei confronti dell'impresa o delle imprese che abbiano commesso detto abuso. In caso di violazione diffusa e reiterata della disciplina di cui al decreto legislativo 9 ottobre 2002, n. 231, posta in essere ai danni delle imprese, con particolare riferimento a quelle piccole e medie, l'abuso si configura a prescindere dall'accertamento della dipendenza economica.».
 
-#### Art. 34
+### Art. 34
 
 Procedura di transazione
 
@@ -2150,7 +2144,7 @@ d) la forcella delle potenziali ammende. Tali informazioni sono riservate nei co
 
 5\. L'Autorita' definisce con proprio provvedimento generale, in conformita' con l'ordinamento dell'Unione europea e garantendo il diritto al contraddittorio, le regole procedurali che disciplinano la presentazione e la valutazione delle proposte di transazione di cui al presente articolo e l'entita' della riduzione della sanzione di cui all'articolo 15, comma 1-bis, da accordare in caso di completamento con successo della procedura».
 
-#### Art. 35
+### Art. 35
 
 Poteri istruttori
 
@@ -2190,7 +2184,7 @@ b) dopo l'articolo 16 e' inserito il seguente:
 
 ## Capo IX - Clausola di salvaguardia
 
-#### Art. 36
+### Art. 36
 
 Clausola di salvaguardia
 

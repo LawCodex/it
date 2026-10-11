@@ -48,11 +48,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I - OGGETTO ED AMBITO DI APPLICAZIONE
+## Titolo I - OGGETTO ED AMBITO DI APPLICAZIONE DEL TESTO UNICO
 
-### DEL TESTO UNICO
-
-#### Art. 1 (L)
+##### Art. 1 (L)
 
 Oggetto
 
@@ -74,7 +72,7 @@ E' possibile visualizzare il testo originario accedendo alla versione pdf della 
 
 > In supplemento ordinario alla Gazzetta Ufficiale - serie generale - del 10 settembre 2000 si procedera' alla ripubblicazione dei testi sopracitati corredati delle relative note, ai sensi dell'art. 10, comma 3, del decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092.
 
-#### Art. 2 (L)
+##### Art. 2 (L)
 
 Principio di legalita' dell'azione amministrativa
 
@@ -82,7 +80,7 @@ Principio di legalita' dell'azione amministrativa
 
 2\. I procedimenti di cui al presente testo unico si ispirano ai principi di economicita', di efficacia, di efficienza, di pubblicita' e di semplificazione dell'azione amministrativa. (L)
 
-#### Art. 3 (L)
+##### Art. 3 (L)
 
 D e f i n i z i o n i
 
@@ -96,7 +94,7 @@ c) per "beneficiario dell'espropriazione", si intende il soggetto, pubblico o pr
 
 d) per "promotore dell'espropriazione", si intende il soggetto, pubblico o privato, che chiede l'espropriazione. (L)
 
-#### Art. 4 (L)
+##### Art. 4 (L)
 
 Beni non espropriabili o espropriabili in casi particolari
 
@@ -132,7 +130,7 @@ Il testo del presente articolo e' gia' integrato con le correzioni apportate dal
 
 E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-#### Art. 5 (L)
+##### Art. 5 (L)
 
 Ambito di applicazione nei confronti delle Regioni e delle Province autonome di Trento e di Bolzano
 
@@ -146,7 +144,7 @@ Ambito di applicazione nei confronti delle Regioni e delle Province autonome di 
 
 5\. Nell'ambito delle funzioni amministrative trasferite o delegate dallo Stato alle regioni e alle province autonome di Trento e di Bolzano ai sensi delle leggi vigenti rientrano anche quelle concernenti i procedimenti di espropriazione per pubblica utilita' e quelli concernenti la materiale acquisizione delle aree. (L)
 
-#### Art. 6 (L-R)
+##### Art. 6 (L-R)
 
 Regole generali sulla competenza
 
@@ -166,7 +164,7 @@ Regole generali sulla competenza
 
 8\. Se l'opera pubblica o di pubblica utilita' va realizzata da un concessionario, l'amministrazione concedente puo' delegargli, in tutto o in parte, i propri poteri espropriativi, determinando chiaramente l'ambito della delega nella concessione, i cui estremi vanno specificati in ogni atto del procedimento espropriativo. (L)
 
-#### Art. 7 (L)
+##### Art. 7 (L)
 
 Competenze particolari dei Comuni
 
@@ -184,7 +182,7 @@ d) le aree inedificate e le costruzioni da trasformare secondo speciali prescriz
 
 ### Capo I - Identificazione delle fasi che precedono il decreto d'esproprio
 
-#### Art. 8 (L)
+##### Art. 8 (L)
 
 Le fasi del procedimento espropriativo
 
@@ -196,11 +194,9 @@ b) vi sia stata la dichiarazione di pubblica utilita';
 
 c) sia stata determinata, anche se in via provvisoria, l'indennita' di esproprio. (L)
 
-## Capo II - La fase della sottoposizione del bene
+### Capo II - La fase della sottoposizione del bene al vincolo preordinato all'esproprio
 
-### al vincolo preordinato all'esproprio
-
-#### Art. 9 (L)
+##### Art. 9 (L)
 
 Vincoli derivanti da piani urbanistici
 
@@ -224,7 +220,7 @@ Il testo del presente articolo e' gia' integrato con le correzioni apportate dal
 
 E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-#### Art. 10 (L)
+##### Art. 10 (L)
 
 Vincoli derivanti da atti diversi
 
@@ -232,7 +228,7 @@ dai piani urbanistici generali
 
 1\. Se la realizzazione di un'opera pubblica o di pubblica utilita' non e' prevista dal piano urbanistico generale, il vincolo preordinato all'esproprio puo' essere disposto, ove espressamente se ne dia atto, su iniziativa dell'amministazione competente all'approvazione del progetto, mediante una conferenza di servizi, un accordo di programma, una intesa ovvero un altro atto, anche di natura territoriale, che in base alla legislazione vigente comporti la variante al piano urbanistico e l'apposizione su un bene del vincolo preordinato all'esproprio. (L)
 
-#### Art. 11 (L-R)
+##### Art. 11 (L-R)
 
 La partecipazione degli interessati
 
@@ -242,11 +238,11 @@ La partecipazione degli interessati
 
 3\.
 
-## Capo III - La fase della dichiarazione di pubblica utilita'
+### Capo III - La fase della dichiarazione di pubblica utilita'
 
-### Sezione I Disposizioni sul procedimento
+#### Sezione I Disposizioni sul procedimento
 
-#### Art. 12 (L-R)
+##### Art. 12 (L-R)
 
 Gli atti che comportano la dichiarazione di pubblica utilita'
 
@@ -258,7 +254,7 @@ b) in ogni caso, quando in base alla normativa vigente equivale a dichiarazione 
 
 c).
 
-#### Art. 13 (L)
+##### Art. 13 (L)
 
 Contenuto ed effetti dell'atto che comporta la dichiarazione di pubblica utilita'
 
@@ -278,7 +274,7 @@ Contenuto ed effetti dell'atto che comporta la dichiarazione di pubblica utilita
 
 8\. Qualora il vincolo preordinato all'esproprio riguardi immobili da non sottoporre a trasformazione fisica, la dichiarazione di pubblica utilita' ha luogo mediante l'adozione di un provvedimento di destinazione ad uso pubblico dell'immobile vincolato, con cui sono indicate le finalita' dell'intervento, i tempi previsti per eventuali lavori di manutenzione, nonche' i relativi costi previsti. (L)
 
-#### Art. 14 (L-R)
+##### Art. 14 (L-R)
 
 Istituzione degli elenchi degli atti
 
@@ -290,11 +286,9 @@ che dichiarano la pubblica utilita'
 
 3\.
 
-## Sezione II - Disposizioni particolari sulla approvazione
+#### Sezione II - Disposizioni particolari sulla approvazione del progetto definitivo dell'opera
 
-### del progetto definitivo dell'opera
-
-#### Art. 15 (L-R)
+##### Art. 15 (L-R)
 
 Disposizioni sulla redazione del progetto
 
@@ -308,7 +302,7 @@ Disposizioni sulla redazione del progetto
 
 5\. In caso di progetti relativi a tracciati ferroviari, l'autorizzazione di cui al comma 1 e' rilasciata entro trenta giorni dall'approvazione del progetto ai sensi dell'articolo 12 e si estende alle ricerche archeologiche, alla bonifica da ordigni bellici e alla bonifica dei siti inquinati. (L)
 
-#### Art. 16 (L-R)
+##### Art. 16 (L-R)
 
 Le modalita' che precedono l'approvazione del progetto definitivo
 
@@ -338,7 +332,7 @@ potere di approvazione del progetto di un'opera pubblica o di pubblica utilita',
 
 12\. Qualora nel corso dei lavori si manifesti la necessita' o l'opportunita' di espropriare altri terreni o altri edifici, attigui a quelli gia' espropriati, con atto motivato l'amministrazione integra il provvedimento con cui e' stato approvato il progetto. Si applicano le disposizioni dei precedenti commi. (L)
 
-#### Art. 17 (L-R)
+##### Art. 17 (L-R)
 
 L'approvazione del progetto definitivo
 
@@ -352,17 +346,15 @@ b) comporta la dichiarazione di pubblica utilita' dell'opera, se non sono necess
 
 3\.
 
-## Sezione III - Disposizioni sull'approvazione di un progetto
+#### Sezione III - Disposizioni sull'approvazione di un progetto di un'opera non conforme alle previsioni urbanistiche.
 
-### di un'opera non conforme alle previsioni urbanistiche.
-
-#### Art. 18 (L)
+##### Art. 18 (L)
 
 Disposizioni applicabili per le operazioni preliminari alla progettazione
 
 1\. Le disposizioni contenute negli articoli 16 e 17 si applicano anche quando un soggetto pubblico o privato intende redigere un progetto di opera pubblica o di pubblica utilita' non conforme alle previsioni urbanistiche. (L)
 
-#### Art. 19 (L)
+##### Art. 19 (L)
 
 L'approvazione del progetto
 
@@ -382,11 +374,11 @@ Il testo del presente articolo e' gia' integrato con le correzioni apportate dal
 
 E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-## Capo IV - La fase di emanazione del decreto di esproprio
+### Capo IV - La fase di emanazione del decreto di esproprio
 
-### Sezione I - Del modo di determinare l'indennita' di espropriazione
+#### Sezione I - Del modo di determinare l'indennita' di espropriazione
 
-#### Art. 20 (L-R)
+##### Art. 20 (L-R)
 
 La determinazione provvisoria dell'indennita' di espropriazione
 
@@ -410,7 +402,7 @@ La determinazione provvisoria dell'indennita' di espropriazione
 
 10\.
 
-#### Art. 21 (R)
+##### Art. 21 (R)
 
 Procedimento di determinazione definitiva
 
@@ -444,7 +436,7 @@ dell'indennita' di espropriazione
 
 14\.
 
-#### Art. 22 (L-R)
+##### Art. 22 (L-R)
 
 Determinazione urgente dell'indennita' provvisoria
 
@@ -466,9 +458,9 @@ Il testo del presente articolo e' gia' integrato con le correzioni apportate dal
 
 E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-## Sezione II - Del decreto di esproprio
+#### Sezione II - Del decreto di esproprio
 
-#### Art. 23 (L-R)
+##### Art. 23 (L-R)
 
 Contenuto ed effetti del decreto di esproprio
 
@@ -508,7 +500,7 @@ Il testo del presente articolo e' gia' integrato con le correzioni apportate dal
 
 E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-#### Art. 24 (L-R)
+##### Art. 24 (L-R)
 
 Esecuzione del decreto di esproprio
 
@@ -522,7 +514,7 @@ Esecuzione del decreto di esproprio
 
 7\. Decorso il termine previsto nel comma 1, entro i successivi tre anni puo' essere emanato un ulteriore atto che comporta la dichiarazione di pubblica utilita'. (L)
 
-#### Art. 25 (L)
+##### Art. 25 (L)
 
 Effetti dell'espropriazione per i terzi
 
@@ -534,11 +526,11 @@ Effetti dell'espropriazione per i terzi
 
 4\. A seguito dell'esecuzione del decreto di esproprio, il Prefetto convoca tempestivamente, e comunque non oltre dieci giorni dalla richiesta, il soggetto proponente e i soggetti gestori di servizi pubblici titolari del potere di autorizzazione e di concessione di attraversamento, per la definizione degli spostamenti concernenti i servizi interferenti e delle relative modalita' tecniche. Il soggetto proponente, qualora i lavori di modifica non siano stati avviati entro sessanta giorni, puo' provvedervi direttamente, attenendosi alle modalita' tecniche eventualmente definite ai sensi del presente comma. (L)
 
-## Capo V - Il pagamento dell'indennita' di esproprio
+### Capo V - Il pagamento dell'indennita' di esproprio
 
-### Sezione I - Disposizioni generali
+#### Sezione I - Disposizioni generali
 
-#### Art. 26 (R)
+##### Art. 26 (R)
 
 Pagamento o deposito dell'indennita' provvisoria
 
@@ -564,7 +556,7 @@ Pagamento o deposito dell'indennita' provvisoria
 
 11\.
 
-#### Art. 27 (R)
+##### Art. 27 (R)
 
 Pagamento o deposito definitivo dell'indennita' a seguito della perizia di stima
 
@@ -574,7 +566,7 @@ Pagamento o deposito definitivo dell'indennita' a seguito della perizia di stima
 
 3\.
 
-#### Art. 28 (R)
+##### Art. 28 (R)
 
 Pagamento definitivo della indennita'
 
@@ -584,19 +576,19 @@ Pagamento definitivo della indennita'
 
 3\.
 
-#### Art. 29 (L)
+##### Art. 29 (L)
 
 Pagamento dell'indennita' a seguito di procedimento giurisdizionale 1. Qualora esistano diritti reali sul fondo espropriato o vi siano opposizioni al pagamento, ovvero le parti non si siano accordate sulla distribuzione, il pagamento delle indennita' agli aventi diritto e' disposto dall'autorita' giudiziaria, su domanda di chi ne abbia interesse. (L)
 
-## Sezione II - Pagamento dell'indennita' a incapaci a enti e associazioni
+#### Sezione II - Pagamento dell'indennita' a incapaci a enti e associazioni
 
-#### Art. 30 (R)
+##### Art. 30 (R)
 
 Regola generale
 
 1\.
 
-#### Art. 31 (R)
+##### Art. 31 (R)
 
 Disposizioni sulla indennita'
 
@@ -608,11 +600,11 @@ Disposizioni sulla indennita'
 
 4\.
 
-## Capo VI - Dell'entita' dell'indennita' di espropriazione
+### Capo VI - Dell'entita' dell'indennita' di espropriazione
 
-### Sezione I - Disposizioni generali
+#### Sezione I - Disposizioni generali
 
-#### Art. 32 (L)
+##### Art. 32 (L)
 
 Determinazione del valore del bene
 
@@ -622,7 +614,7 @@ Determinazione del valore del bene
 
 3\. Il proprietario, a sue spese, puo' asportare dal bene i materiali e tutto cio' che puo' essere tolto senza pregiudizio dell'opera da realizzare. (L)
 
-#### Art. 33 (L)
+##### Art. 33 (L)
 
 Espropriazione parziale di un bene unitario
 
@@ -632,7 +624,7 @@ Espropriazione parziale di un bene unitario
 
 3\. Non si applica la riduzione di cui al comma 2, qualora essa risulti superiore ad un quarto della indennita' dovuta ed il proprietario abbandoni l'intero bene. L'espropriante puo' non accettare l'abbandono, qualora corrisponda una somma non inferiore ai tre quarti dell'indennita' dovuta. In ogni caso l'indennita' dovuta dall'espropriante non puo' essere inferiore alla meta' di quella che gli spetterebbe ai sensi del comma 1. (L)
 
-#### Art. 34 (L)
+##### Art. 34 (L)
 
 Soggetti aventi titolo all'indennita'
 
@@ -644,7 +636,7 @@ Soggetti aventi titolo all'indennita'
 
 4\. Salvo quanto previsto dall'articolo 42, il titolare di un diritto reale o personale sul bene non ha diritto ad una indennita' aggiuntiva, puo' far valere il suo diritto sull'indennita' di esproprio e puo' proporre l'opposizione alla stima, ovvero intervenire nel giudizio promosso dal proprietario. (L)
 
-#### Art. 35 (L)
+##### Art. 35 (L)
 
 Regime fiscale
 
@@ -660,9 +652,9 @@ Regime fiscale
 
 6\. Gli interessi percepiti per il ritardato pagamento della somma di cui al comma 1 e l'indennita' di occupazione costituiscono reddito imponibile e concorrono alla formazione dei redditi diversi. (L)
 
-## Sezione II - Opere private di pubblica utilita'
+#### Sezione II - Opere private di pubblica utilita'
 
-#### Art. 36 (L)
+##### Art. 36 (L)
 
 Determinazione dell'indennita' nel caso di esproprio per la
 
@@ -670,11 +662,9 @@ realizzazione di opere private che non consistano in abitazioni dell'edilizia re
 
 1\. Se l'espropriazione e' finalizzata alla realizzazione di opere private di pubblica utilita', che non rientrino nell'ambito dell'edilizia residenziale pubblica, convenzionata, agevolata o comunque denominata, l'indennita' di esproprio e' determinata nella misura corrispondente al valore venale del bene e non si applicano le disposizioni contenute nelle sezioni seguenti. (L)
 
-## Sezione III - Determinazione dell'indennita' nel caso di esproprio
+#### Sezione III - Determinazione dell'indennita' nel caso di esproprio di un'area edificabile o legittimamente edificata.
 
-### di un'area edificabile o legittimamente edificata.
-
-#### Art. 37 (L)
+##### Art. 37 (L)
 
 Determinazione dell'indennita' nel caso
 
@@ -698,7 +688,7 @@ di esproprio di un'area edificabile
 
 9\. Qualora l'area edificabile sia utilizzata a scopi agricoli, spetta al proprietario coltivatore diretto una indennita' pari al valore agricolo medio corrispondente al tipo di coltura effettivamente praticato. La stessa indennita' spetta al fittavolo, al mezzadro o al compartecipante che, per effetto della procedura, sia costretto ad abbandonare in tutto o in parte il fondo direttamente coltivato, da almeno un anno, col lavoro proprio e di quello dei familiari. (L)
 
-#### Art. 38 (L)
+##### Art. 38 (L)
 
 Determinazione dell'indennita' nel caso di esproprio di un'area legittimamente edificata
 
@@ -706,7 +696,7 @@ Determinazione dell'indennita' nel caso di esproprio di un'area legittimamente e
 
 2\. Qualora la costruzione sia stata realizzata in assenza della concessione edilizia o della autorizzazione paesistica, ovvero in difformita' l'indennita' e' calcolata tenendo conto della sola area di sedime in base all'articolo 37. (L)
 
-#### Art. 39 (L-R)
+##### Art. 39 (L-R)
 
 Indennita' dovuta in caso di incidenza di previsioni
 
@@ -722,11 +712,9 @@ urbanistiche su particolari aree comprese in zone edificabili.
 
 5\. Dell'indennita' liquidata ai sensi dei commi precedenti non si tiene conto se l'area e' successivamente espropriata. (L)
 
-## Sezione IV - Determinazione dell'indennita' nel caso
+#### Sezione IV - Determinazione dell'indennita' nel caso di esproprio di un'area non edificabile
 
-### di esproprio di un'area non edificabile
-
-#### Art. 40 (L)
+##### Art. 40 (L)
 
 Disposizioni generali
 
@@ -740,7 +728,7 @@ Disposizioni generali
 
 5\. Nei casi previsti dai commi precedenti, l'indennita' e' aumentata delle somme pagate dall'espropriato per qualsiasi imposta relativa all'ultimo trasferimento dell'immobile. (L)
 
-#### Art. 41 (L-R)
+##### Art. 41 (L-R)
 
 Commissione competente alla determinazione del valore agricolo
 
@@ -764,7 +752,7 @@ f) da tre esperti in materia di agricoltura e di foreste, nominati dalla regione
 
 4\.
 
-#### Art. 42 (L)
+##### Art. 42 (L)
 
 Indennita' aggiuntive
 
@@ -772,11 +760,9 @@ Indennita' aggiuntive
 
 2\. L'indennita' aggiuntiva e' pari a quella spettante al proprietario ed e' corrisposta a seguito di una dichiarazione dell'interessato e di un riscontro della effettiva sussistenza dei relativi presupposti. (L)
 
-## Capo VII - Conseguenze della utilizzazione di un bene per scopi di interesse
+### Capo VII - Conseguenze della utilizzazione di un bene per scopi di interesse pubblico, in assenza del valido provvedimento ablatorio.
 
-### pubblico, in assenza del valido provvedimento ablatorio.
-
-#### Art. 43 (L)
+##### Art. 43 (L)
 
 Utilizzazione senza titolo di un bene per scopi di interesse pubblico
 
@@ -820,9 +806,9 @@ Il testo del presente articolo e' gia' integrato con le correzioni apportate dal
 
 E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-## Capo VIII - Indennita' dovuta al titolare del bene non espropriato
+### Capo VIII - Indennita' dovuta al titolare del bene non espropriato
 
-#### Art. 44 (L)
+##### Art. 44 (L)
 
 Indennita' per l'imposizione di servitu'
 
@@ -838,9 +824,9 @@ Indennita' per l'imposizione di servitu'
 
 6\. L'indennita' puo' anche essere concordata fra gli interessati prima o durante la realizzazione dell'opera e delle relative misure di contenimento del danno. (L)
 
-## Capo IX - La cessione volontaria
+### Capo IX - La cessione volontaria
 
-#### Art. 45 (L)
+##### Art. 45 (L)
 
 Disposizioni generali
 
@@ -860,9 +846,9 @@ d) se riguarda un'area non edificabile, coltivata direttamente dal proprietario,
 
 4\. Si applicano, in quanto compatibili, le disposizioni del capo X. (L)
 
-## Capo X - La retrocessione
+### Capo X - La retrocessione
 
-#### Art. 46 (L)
+##### Art. 46 (L)
 
 La retrocessione totale
 
@@ -870,7 +856,7 @@ La retrocessione totale
 
 2\. Dall'avvio dei lavori di cui al comma 1 decorre il termine di validita' di cinque anni dell'autorizzazione prevista dall'articolo 16 del regio decreto 3 giugno 1940, n. 1357. (L)
 
-#### Art. 47 (L-R)
+##### Art. 47 (L-R)
 
 La retrocessione parziale
 
@@ -880,7 +866,7 @@ La retrocessione parziale
 
 3\. Se non vi e' l'indicazione dei beni, l'espropriato puo' chiedere all'autorita' che ha emesso il decreto di esproprio di determinare la parte del bene espropriato che non serve piu' per la realizzazione dell'opera pubblica o di pubblica utilita'. (L)
 
-#### Art. 48 (L)
+##### Art. 48 (L)
 
 Disposizioni comuni per la retrocessione totale
 
@@ -892,9 +878,9 @@ e per quella parziale
 
 3\. Per le aree comprese nel suo territorio e non utilizzate per realizzare le opere oggetto della dichiarazione di pubblica utilita', il Comune puo' esercitare il diritto di prelazione, entro il termine di centottanta giorni, decorrente dalla data in cui gli e' notificato l'accordo delle parti, contenente con precisione i dati identificativi dell'area e il corrispettivo, ovvero entro il termine di sessanta giorni, decorrente dalla notifica dell'atto che ha determinato il corrispettivo. Le aree cosi' acquisite fanno parte del patrimonio indisponibile. (L)
 
-## Capo XI - L'occupazione temporanea
+### Capo XI - L'occupazione temporanea
 
-#### Art. 49 (L-R)
+##### Art. 49 (L-R)
 
 L'occupazione temporanea di aree
 
@@ -910,7 +896,7 @@ non soggette ad esproprio
 
 5\. Le disposizioni di cui ai precedenti commi si applicano, in quanto compatibili, nel caso di frane, alluvioni, rottura di argini e in ogni altro caso in cui si utilizzano beni altrui per urgenti ragioni di pubblica utilita'. (L)
 
-#### Art. 50 (L-R)
+##### Art. 50 (L-R)
 
 Indennita' per l'occupazione
 
@@ -922,7 +908,7 @@ Indennita' per l'occupazione
 
 ## Titolo III - DISPOSIZIONI PARTICOLARI
 
-#### Art. 51 (L-R)
+##### Art. 51 (L-R)
 
 L'espropriazione per opere militari
 
@@ -934,7 +920,7 @@ L'espropriazione per opere militari
 
 4\. Nulla e' innovato in ordine alla disciplina sulle servitu' militari. (L)
 
-#### Art. 52 (L)
+##### Art. 52 (L)
 
 L'espropriazione di beni culturali
 
@@ -942,7 +928,7 @@ L'espropriazione di beni culturali
 
 ## Titolo IV - DISPOSIZIONI SULLA TUTELA GIURISDIZIONALE
 
-#### Art. 53 (L)
+##### Art. 53 (L)
 
 ((Disposizioni processuali.
 
@@ -956,7 +942,7 @@ AGGIORNAMENTO (2)
 
 La Corte costituzionale, con sentenza 3- 11 maggio 2006, n. 191 (in G.U. 1a s.s. 17/5/2006, n. 20) ha dichiarato l'illegittimita' costituzionale del presente articolo, nella parte in cui, devolvendo alla giurisdizione esclusiva del giudice amministrativo le controversie relative a " i comportamenti delle pubbliche amministrazioni e dei soggetti ad esse equiparati", non esclude i comportamenti non riconducibili, nemmeno mediatamente, all'esercizio di un pubblico potere.
 
-#### Art. 54 (L)
+##### Art. 54 (L)
 
 Opposizioni alla stima
 
@@ -970,7 +956,7 @@ Opposizioni alla stima
 
 ## Titolo V - NORME FINALI E TRANSITORIE
 
-#### Art. 55 (L)
+##### Art. 55 (L)
 
 Occupazioni senza titolo, anteriori al 30 settembre 1996
 
@@ -978,7 +964,7 @@ Occupazioni senza titolo, anteriori al 30 settembre 1996
 
 2\. Il comma 1 si applica anche ai giudizi pendenti alla data del 1o gennaio 1997. (L)
 
-#### Art. 56 (L)
+##### Art. 56 (L)
 
 Disposizioni sulla determinazione
 
@@ -986,7 +972,7 @@ dell'indennita' di espropriazione
 
 1\. Il soggetto gia' espropriato alla data dell'entrata in vigore della legge 8 agosto 1992, n. 359, puo' accettare l'indennita' provvisoria con esclusione della riduzione del quaranta per cento, di cui all'articolo 37, se alla stessa data risultava ancora contestabile la determinazione dell'indennita' di esproprio. (L)
 
-#### Art. 57 (L)
+##### Art. 57 (L)
 
 Ambito di applicazione della normativa
 
@@ -996,7 +982,7 @@ sulle diverse fasi del procedimento
 
 2\. Restano in vigore le disposizioni regionali che attribuiscono ad autorita' diverse dal presidente della Regione la competenza ad adottare atti del procedimento espropriativo. (L)
 
-#### Art. 58 (L)
+##### Art. 58 (L)
 
 Abrogazione di norme
 
@@ -1286,7 +1272,7 @@ Abrogazione di norme
 
 141\) tutte le altre norme di legge e di regolamento, riguardanti gli atti ed i procedimenti volti alla dichiarazione di pubblica utilita' o di indifferibilita' e urgenza, all'esproprio o all'occupazione d'urgenza, nonche' quelle riguardanti la determinazione dell'indennita' di espropriazione o di occupazione d'urgenza.
 
-#### Art. 59
+##### Art. 59
 
 Entrata in vigore del testo unico
 

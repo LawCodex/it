@@ -30,11 +30,9 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I - DISPOSIZIONI IN MATERIA
+## CAPO I - DISPOSIZIONI IN MATERIA DI CALAMITA' NATURALI
 
-### DI CALAMITA' NATURALI
-
-#### Art. 1
+### Art. 1
 
 1\. E' prorogato al 31 dicembre 1990 il termine del 31 dicembre 1989 indicato dall'articolo 13, comma 1, della legge 10 febbraio 1989, n. 48, per quanto concerne l'attuazione degli strumenti urbanistici nei comuni terremotati dichiarati sismici anche in assenza dei programmi pluriennali di cui all'articolo 13 della legge 28 gennaio 1977, n. 10.
 
@@ -72,7 +70,7 @@ la seguente legge:
 
 > Nei comuni esonerati trova applicazione la norma di cui al primo comma del precedente art. 4".
 
-#### Art. 2
+### Art. 2
 
 1\. E' prorogato al 31 dicembre 1992 il termine del 31 dicembre 1989 indicato dall'articolo 13, comma 1, della legge 10 febbraio 1989, n. 48, per quanto concerne le modalita' di attuazione delle opere di ricostruzione o di riparazione degli immobili di importo complessivo non superiore a 200 milioni, di cui all'articolo 9 del decreto-legge 20 novembre 1987, n. 474, convertito, con modificazioni, dalla legge 21 gennaio 1988, n. 12. ((2))
 
@@ -86,7 +84,7 @@ AGGIORNAMENTO (2)
 
 Il D.L. 5 ottobre 1993, n. 398,convertito, con modificazioni, dalla L. 4 dicembre 1993, n. 493 ha disposto (con l'art. 2, comma 8) che il termine del 31 dicembre 1992 previsto dai commi 1 e 2 del presente articolo, per l'affidamento dei lavori di riparazione e ricostruzione ad imprese iscritte in apposito albo tenuto dalla camera di commercio, industria, artigianato ed agricoltura, e' ulteriormente differito al 31 dicembre 1994.
 
-#### Art. 3
+### Art. 3
 
 1\. Il termine del 31 dicembre 1989 previsto dall'articolo 3, comma 2, del decreto-legge 30 giugno 1989, n. 245, convertito, con modificazioni, dalla legge 4 agosto 1989, n. 288, concernente l'approvazione dei piani di recupero edilizio del comune di Pozzuoli, e' definitivamente prorogato al 30 giugno 1990.
 
@@ -94,7 +92,7 @@ Il D.L. 5 ottobre 1993, n. 398,convertito, con modificazioni, dalla L. 4 dicembr
 
 > \- Il testo dell'art. 3, comma 2, del D.L. n. 245/1989 (Proroga di taluni termini previsti da disposizioni legislative) e' il seguente: "2. Il termine previsto dall'art. 21, comma 2, della legge 10 febbraio 1989, n. 48, concernente l'approvazione dei piani di recupero edilizio del comune di Pozzuoli e' prorogato al 31 dicembre 1989".
 
-#### Art. 4
+### Art. 4
 
 1\. E' prorogato al 31 dicembre 1990 il termine del 31 dicembre 1989 indicato nell'articolo 1, comma 3, della legge 10 febbraio 1989, n. 48, relativamente all'utilizzazione da parte dell'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro (INAIL) dei fondi ancora disponibili per la realizzazione di immobili socialmente utili nelle Marche, di cui all'articolo 20 della legge 11 novembre 1982, n.
 
@@ -112,7 +110,7 @@ Il D.L. 5 ottobre 1993, n. 398,convertito, con modificazioni, dalla L. 4 dicembr
 
 > Nella ipotesi di costruzione di immobili per l'esecuzione dei lavori l'INAIL e' autorizzato in deroga all'art. 53 e ai limiti stabiliti dall'art. 68 del decreto del Presidente della Repubblica 18 dicembre 1979, n. 696, a ricorrere al sistema dell'economia con la forma del cottimo fiduciario di cui all'art. 69, lettera b), del citato decreto n. 696 del 1979".
 
-#### Art. 5
+### Art. 5
 
 1\. Il termine del 31 dicembre 1989 previsto dall'articolo 21, comma 3, della legge 10 febbraio 1989, n. 48, relativo alla conferma in servizio del personale di cui all'articolo 12 della legge 28 ottobre 1986, n. 730, non ancora transitato nei ruoli speciali ad esaurimento di cui allo stesso articolo 12 della medesima legge 28 ottobre 1986, n. 730, e del personale di cui al comma 4 dell'articolo 21 della medesima legge 10 febbraio 1989, n. 48, e' differito al 30 giugno 1990. Entro tale data devono comunque concludersi le procedure concorsuali in atto.
 
@@ -130,7 +128,7 @@ AGGIORNAMENTO (6)
 
 Il D.L. 27 dicembre 2000, n. 392,convertito con modificazioni dalla L. 28 febbraio 2001, n. 26 nel modificare il D.L. 23 giugno 1995, n. 244, convertito, con modificazioni dalla L. 8 agosto 1995, n. 341, ha disposto (con l'art. 1, comma 6) che "L'articolo 22, comma 6, del decreto-legge 23 giugno 1995, n. 244, convertito, con modificazioni, dalla legge 8 agosto 1995, n. 341, si interpreta nel senso che, sino alla data del 31 dicembre 1995 ovvero, se precedente, alla data di immissione nei ruoli speciali di cui all'articolo 12 della legge 28 ottobre 1986, n. 730, e successive modificazioni, e' mantenuto l'intervento finanziario dello Stato previsto dal medesimo articolo 12 della legge n. 730 del 1986."
 
-#### Art. 6
+### Art. 6
 
 1\. Il termine del 31 dicembre 1989 previsto dall'articolo 4, comma 1, del decreto-legge 15 giugno 1989, n. 231, convertito, con modificazioni, dalla legge 4 agosto 1989, n. 286, in materia di aiuti creditizi alle aziende agricole, singole ed associate, situate nei territori del Mezzogiorno di cui all'articolo 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con decreto del Presidente della Repubblica 6 marzo 1978, n. 218, e nelle province di Grosseto, Viterbo, Pesaro e Urbino, colpite dalla siccita' verificatasi nell'annata agraria 1988-1989 e dichiarata eccezionale con decreto del Ministro dell'agricoltura e delle foreste, e' prorogato al 31 marzo 1990.
 
@@ -140,11 +138,9 @@ Il D.L. 27 dicembre 2000, n. 392,convertito con modificazioni dalla L. 28 febbra
 
 > \- Il D.P.R. n. 218/1978 approva il testo unico delle leggi sugli interventi nel Mezzogiorno.
 
-## CAPO II - DISPOSIZIONI IN MATERIA DI URBANISTICA
+## CAPO II - DISPOSIZIONI IN MATERIA DI URBANISTICA E DI OPERE PUBBLICHE
 
-### E DI OPERE PUBBLICHE
-
-#### Art. 7
+### Art. 7
 
 1\. Il quarto comma dell'articolo 6 del decreto-legge 23 gennaio 1982, n. 9, convertito, con modificazioni, dalla legge 25 marzo 1982, n. 94, e' abrogato.
 
@@ -164,7 +160,7 @@ Il D.L. 27 dicembre 2000, n. 392,convertito con modificazioni dalla L. 28 febbra
 
 > c) da realizzare su aree comprese nei piani di zona".
 
-#### Art. 8
+### Art. 8
 
 1\. Il termine previsto, da ultimo, dall'articolo 13, comma 2, del decreto-legge 29 dicembre 1987, n. 534, convertito, con modificazioni, dalla legge 29 febbraio 1988, n. 47, concernente l'accoglimento delle domande di concessione ad edificare in presenza delle condizioni previste dall'articolo 8, primo comma, del decreto-legge 23 gennaio 1982, n. 9, convertito, con modificazioni, dalla legge 25 marzo 1982, n. 94, e' fissato al 31 dicembre 1990.((1))
 
@@ -174,7 +170,7 @@ AGGIORNAMENTO(1)
 
 La L. 20 maggio 1991, n. 158 ha disposto (con l'art. 3, comma 1) che "Il termine previsto, da ultimo, al 31 dicembre 1990 dall'articolo 8 della legge 31 maggio 1990, n. 128, concernente l'accoglimento delle domande di concessione ad edificare in presenza delle condizioni previste dall'articolo 8, primo comma, del decreto- legge 23 gennaio 1982, n. 9, convertito, con modificazioni, dalla legge 25 marzo 1982, n. 94, e' differito al 31 dicembre 1991." La medesima legge ha inoltre disposto (con l'art. 23, comma 1) che "Le disposizioni della presente legge hanno effetto a decorrere dal 1 gennaio 1991."
 
-#### Art. 9
+### Art. 9
 
 1\. All'articolo 18, quarto comma, della legge 5 agosto 1978, n. 457, e successive modificazioni e integrazioni, sono soppresse le parole: "Fino alla data del 31 dicembre 1983".
 
@@ -184,7 +180,7 @@ La L. 20 maggio 1991, n. 158 ha disposto (con l'art. 3, comma 1) che "Il termine
 
 > \- Il testo del quarto comma dell'art. 18 della legge n. 457/1978 (Norme per l'edilizia residenziale), e successive modificazioni ed integrazioni, cosi' come modificato dalla presente legge, e' il seguente: "Gli interventi assistiti dai contributi di cui al primo comma del presente articolo sono destinati per programmi da realizzarsi anche fuori dell'ambito dei piani di zona di cui alla legge 18 aprile 1962, n. 167, e successive integrazioni e modificazioni, ovvero fuori delle aree delimitate ai sensi dell'art. 51 della legge 22 ottobre 1971, n. 865, e successive modificazioni ed integrazioni, quando siano esaurite le aree all'interno dei piani di zona e delle delimitazioni predette".
 
-#### Art. 10
+### Art. 10
 
 1\. Ai fini del conseguimento dei benefici fiscali di cui all'articolo 46 della legge 28 febbraio 1985, n. 47, e successive modificazioni e integrazioni, il termine indicato dall'ultimo periodo del primo comma dello stesso articolo 46 della citata legge n. 47 del 1985, e successive modificazioni e integrazioni, e' in ogni caso prorogato al 31 dicembre 1990.
 
@@ -212,7 +208,7 @@ La L. 20 maggio 1991, n. 158 ha disposto (con l'art. 3, comma 1) che "Il termine
 
 > n. 534/1987 al 31 dicembre 1989.
 
-#### Art. 11
+### Art. 11
 
 1\. I termini di cui all'articolo 25 della legge 3 gennaio 1978, n. 1, riguardanti l'efficacia dei piani regolatori delle aree e dei nuclei di sviluppo industriale, sono prorogati al 31 dicembre 1990.
 
@@ -224,7 +220,7 @@ La L. 20 maggio 1991, n. 158 ha disposto (con l'art. 3, comma 1) che "Il termine
 
 > I piani la cui data di approvazione risalga ad oltre un decennio hanno efficacia fino ad un triennio dalla data di entrata in vigore della presente legge; quelli approvati da meno di un decennio conservano efficacia per un decennio e comunque per un periodo non inferiore al triennio dalla predetta data".
 
-#### Art. 12
+### Art. 12
 
 1\. Il termine per la denuncia per l'iscrizione al catasto urbano ovvero per le variazioni non registrate, di cui all'articolo 52 della legge 28 febbraio 1985, n. 47, e successive modificazioni ed integrazioni, gia' prorogato dall'articolo 9 della legge 10 febbraio 1989, n. 48, e' differito al 31 dicembre 1991, con l'applicazione di tutte le procedure tecnico-amministrative in vigore all'atto della promulgazione della citata legge 28 febbraio 1985, n. 47.
 
@@ -238,7 +234,7 @@ La L. 20 maggio 1991, n. 158 ha disposto (con l'art. 3, comma 1) che "Il termine
 
 > Per le dichiarazioni di cui al comma precedente, presentate successivamente al 31 dicembre 1986, l'ammenda prevista dall'art. 31 del regio decreto-legge 13 aprile 1939, n. 652, convertito, con modificazioni, nella legge 11 agosto 1939, n. 1249, e successive modificazioni e integrazioni, e' elevata a lire duecentocinquantamila".
 
-#### Art. 13
+### Art. 13
 
 1\. Sono ulteriormente prorogati al 31 dicembre 1990 l'attivita' ed il funzionamento dell'Ispettorato generale per le zone colpite dai terremoti del gennaio 1968, di cui all'articolo 17 della legge 7 marzo 1981, n. 64, prorogati da ultimo dall'articolo 11, comma 1, della legge 10 febbraio 1989, n. 48.
 
@@ -250,11 +246,11 @@ La L. 20 maggio 1991, n. 158 ha disposto (con l'art. 3, comma 1) che "Il termine
 
 > "Art. 17. - Il funzionamento dell'Ispettorato generale per le zone colpite dai terremoti del gennaio 1968, istituito con l'art. 16 del decreto-legge 27 febbraio 1968, n. 79, convertito, con modificazioni, nella legge 18 marzo 1968, n. 241, e' ulteriormente prorogato fino a quando non sara' provveduto alla riforma dell'Amministrazione dei lavori pubblici e comunque non oltre il 31 dicembre 1983".
 
-#### Art. 14
+### Art. 14
 
 1\. Il termine di efficacia della legge 21 dicembre 1977, n. 967, concernente procedure eccezionali per lavori urgenti e indifferibili negli istituti penitenziari, e' improrogabilmente fissato al 31 dicembre 1990.
 
-#### Art. 15
+### Art. 15
 
 1\. All'articolo 1, comma 1, della legge 17 febbraio 1987, n. 80, le parole: "per un periodo non superiore a tre anni" sono sostituite dalle seguenti: "per un periodo non superiore a quattro anni".
 
@@ -262,7 +258,7 @@ La L. 20 maggio 1991, n. 158 ha disposto (con l'art. 3, comma 1) che "Il termine
 
 > \- Il testo dell'art. 1, comma 1, della legge 17 febbraio 1987, n. 80/1987 (Norme straordinarie per l'accelerazione dell'esecuzione di opere pubbliche), cosi' come modificato dalla presente legge, e' il seguente: "1. Per l'accelerazione dei propri programmi di costruzione, le amministrazioni statali, le regioni, le aziende autonome, gli enti locali e gli enti pubblici non economici hanno facolta', per un periodo non superiore a quattro anni dall'entrata in vigore della presente legge, di affidare in concessione unitariamente, con la procedura stabilita dal successivo articolo 3, la redazione dei progetti, le eventuali attivita' necessarie per l'acquisizione delle aree e degli immobili, l'esecuzione delle opere nonche' la loro eventuale manutenzione ad imprese di costruzione, loro consorzi e raggruppamenti temporanei".
 
-#### Art. 16
+### Art. 16
 
 1\. Il termine del 31 dicembre 1989 fissato dall'articolo 1 del decreto-legge 3 gennaio 1987, n. 1, convertito dalla legge 6 marzo 1987, n. 64, per il proseguimento dell'attivita' del consorzio del canale Milano-Cremona-Po, e' ulteriormente prorogato al 31 dicembre 1991.n ((3))
 
@@ -272,7 +268,7 @@ AGGIORNAMENTO(3)
 
 Il D.L. 21 aprile 1995, n. 117, convertito, con modificazioni, dalla L. 8 giugno 1995, n. 234 ha disposto (con l'art.2, comma 1) che il termine del 31 dicembre 1991, fissato dal presente articolo, per il proseguimento dell'attivita' del Consorzio del canale Milano-Cremona-Po, e' prorogato al 31 dicembre 1999, senza oneri aggiuntivi a carico del bilancio dello Stato.
 
-#### Art. 17
+### Art. 17
 
 1\. I termini per la cessione e l'assegnazione di alloggi di edilizia agevolata-convenzionata, ancorche' scaduti ai sensi dell'articolo 18, secondo comma, della legge 5 agosto 1978, n. 457, e dell'articolo 11, ultimo comma, del decreto-legge 6 settembre 1965, n. 1022, convertito, con modificazioni, dalla legge 1 novembre 1965, n. 1179, come modificati dal decreto-legge 22 dicembre 1984, n. 901, convertito, con modificazioni, dalla legge 1 marzo 1985, n. 42, e dall'articolo 3 del decreto-legge 25 settembre 1987, n. 393, convertito, con modificazioni, dalla legge 25 novembre 1987, n. 478, sono prorogati al 31 dicembre 1990 limitatamente agli interventi costruttivi ultimati alla data di entrata in vigore della presente legge. ((1))
 
@@ -282,11 +278,9 @@ AGGIORNAMENTO(1)
 
 La L. 20 maggio 1991, n. 158 ha disposto (con l'art. 5, comma 1) che i termini per la cessione e l'assegnazione di alloggi di edilizia agevolata-convenzionata, gia' prorogati al 31 dicembre 1990 dal presente articolo, sono differiti al 31 dicembre 1991, limitatamente agli interventi costruttivi ultimati alla data di entrata in vigore della presente legge. La medesima legge ha inoltre disposto (con l'art. 23, comma 1) che "Le disposizioni della presente legge hanno effetto a decorrere dal 1 gennaio 1991."
 
-## CAPO III - SERVIZIO ANTINCENDI E NULLA-OSTA
+## CAPO III - SERVIZIO ANTINCENDI E NULLA-OSTA PROVVISORIO DI PREVENZIONE INCENDI
 
-### PROVVISORIO DI PREVENZIONE INCENDI
-
-#### Art. 18
+### Art. 18
 
 1\. E' prorogato al 31 dicembre 1990 il termine del 31 dicembre 1989 previsto dall'articolo 2, comma 1, della legge 10 febbraio 1989, n. 48. Entro tale termine il servizio antincendi sara' definitivamente assunto dagli enti concessionari o dai gestori.
 
@@ -294,7 +288,7 @@ La L. 20 maggio 1991, n. 158 ha disposto (con l'art. 5, comma 1) che i termini p
 
 > \- Il testo dell'art. 2, comma 1, della citata legge n. 48/1989 (v. nelle note all'art. 1) e' il seguente: "1. E' prorogato al 31 dicembre 1989 il termine del 31 dicembre 1988 previsto dal comma 1 dell'articolo 2 del decreto-legge 29 dicembre 1987, n. 534, convertito, con modificazioni, dalla legge 29 febbraio 1988, n. 47, relativo alla prestazione del servizio antincendi da parte dell'amministrazione militare negli aeroporti di Firenze-Peretola, Grosseto, Roma-Urbe e Taranto e da parte del Corpo nazionale dei vigili del fuoco negli aeroporti di Pescara e Villanova d'Albenga".
 
-#### Art. 19
+### Art. 19
 
 1\. L'articolo 3 della legge 10 febbraio 1989, n. 48, e' sostituito dal seguente:
 
@@ -306,7 +300,7 @@ decorre improrogabilmente dal 1 gennaio 1991".
 
 > \- Il testo del quinto comma dell'art. 2 della legge n. 818/1984 (Nullaosta provvisorio per le attivita' soggette ai controlli di prevenzione incendi, modifica degli articoli 2 e 3 della legge 4 marzo 1982, n. 66, e norme integrative dell'ordinamento del Corpo nazionale dei vigili del fuoco), modificato dall'art.-1 bis del D.L. n. 288/1985, e' il seguente: "Il nullaosta provvisorio deve essere rilasciato entro centottanta giorni dalla data di presentazione dell'istanza e produce, durante il periodo della sua validita', gli stessi effetti del certificato di prevenzione incendi. Nelle more del rilascio del nullaosta provvisorio e' consentita la prosecuzione dell'attivita' soggetta al controllo di prevenzione incendi".
 
-#### Art. 20
+### Art. 20
 
 1\. L'articolo 4 della legge 10 febbraio 1989, n. 48, e' sostituito dal seguente:
 
@@ -322,11 +316,11 @@ AGGIORNAMENTO (1)
 
 La L. 20 maggio 1991, n. 158 ha disposto (con l'art. 11, comma 1) che il termine per il completamento dell'istanza per ottenere il rilascio del nulla-osta provvisorio di prevenzione incendi, con la documentazione indicata al comma 3 dell'articolo 2 del decreto del Ministro dell'interno in data 8 marzo 1985, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 95 del 22 aprile 1985, recante le direttive sulle misure piu' urgenti ed essenziali di prevenzione incendi, da ultimo prorogato ai sensi del presente articolo , e' fissato improrogabilmente al 31 dicembre 1991. La medesima legge ha inoltre disposto (con l'art. 23, comma 1) che "Le disposizioni della presente legge hanno effetto a decorrere dal 1 gennaio 1991."
 
-#### Art. 21
+### Art. 21
 
 1\. E' improrogabilmente fissato al 31 dicembre 1990 il termine previsto dall'aricolo 5 della legge 10 febbraio 1989, n. 48, relativo alle strutture ed ai materiali da impiegarsi nella costruzione di teatri, cinematografi ed altri locali di spettacolo in genere.
 
-#### Art. 22
+### Art. 22
 
 1\. L'articolo 6 della legge 10 febbraio 1989, n. 48, e' sostituito dal seguente:
 
@@ -344,11 +338,9 @@ Si osservano le disposizioni dell'articolo 17, comma 4, della legge 23 agosto 19
 
 > \- La legge n. 400/1988 reca disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri. Il comma 4 dell'art. 17 cosi' recita: "4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di 'regolamento', sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale".
 
-## CAPO IV - PRESTAZIONI DI LAVORO STRAORDINARIO DEL PERSONALE DEGLI ISTITUTI DI
+## CAPO IV - PRESTAZIONI DI LAVORO STRAORDINARIO DEL PERSONALE DEGLI ISTITUTI DI PREVIDENZA, NORME IN MATERIA DI SERVIZI PUBBLICI E DISPOSIZIONI VARIE.
 
-### PREVIDENZA, NORME IN MATERIA DI SERVIZI PUBBLICI E DISPOSIZIONI - VARIE.
-
-#### Art. 23
+### Art. 23
 
 1\. Il termine di cui all'articolo 16, comma 1, della legge 10 febbraio 1989, n. 48, concernente la deroga alle vigenti disposizioni per l'autorizzazione allo svolgimento del lavoro straordinario del personale della Direzione generale degli istituti di previdenza del Ministero del tesoro, e' prorogato al 31 dicembre 1990.
 
@@ -360,7 +352,7 @@ Si osservano le disposizioni dell'articolo 17, comma 4, della legge 23 agosto 19
 
 > \- Per la legge n. 48/1989 si veda la precedente nota all'art. 1.
 
-#### Art. 24
+### Art. 24
 
 1\. Il termine di cui al comma 2 dell'articolo 2 del decreto-legge 26 gennaio 1987, n. 10, convertito, con modificazioni, dalla legge 24 marzo 1987, n. 119, recante disposizioni urgenti in materia di scarichi dei frantoi oleari, prorogato dall'articolo 6-quater del decreto-legge 30 giugno 1989, n. 245, convertito, con modificazioni, dalla legge 4 agosto 1989, n. 288, e' prorogato al 31 marzo 1991.
 
@@ -370,7 +362,7 @@ Si osservano le disposizioni dell'articolo 17, comma 4, della legge 23 agosto 19
 
 > \- Per il D.L. n. 245/1989 si veda la precedente nota all'art. 3.
 
-#### Art. 25
+### Art. 25
 
 1\. E' differito al 30 giugno 1990 il termine previsto dall'articolo 37 del decreto del Presidente della Repubblica 24 marzo 1981, n. 145, prorogato da ultimo al 30 settembre 1989 dall'articolo 1, comma 1, della legge 10 febbraio 1989, n. 48, riguardante il completamento del trasferimento del servizio meteorologico dal Ministero della difesa all'Azienda autonoma di assistenza al volo per il traffico aereo generale.
 
@@ -386,7 +378,7 @@ Si osservano le disposizioni dell'articolo 17, comma 4, della legge 23 agosto 19
 
 > \- Per la legge n. 48/1989 si veda la precedente nota all'art. 1.
 
-#### Art. 26
+### Art. 26
 
 1\. E' prorogato al 31 dicembre 1990 il termine del 31 dicembre 1989 indicato all'articolo 9, comma 1, del decreto-legge 21 marzo 1988, n. 86, convertito, con modificazioni, dalla legge 20 maggio 1988, n. 160, per quanto concerne la facolta' di convenzionamento con terzi per l'ammodernamento e potenziamento dei servizi centrali e periferici del Ministero del lavoro e della previdenza sociale.((1))
 
@@ -396,7 +388,7 @@ AGGIORNAMENTO (1)
 
 La L. 20 maggio 1991, n. 158 ha disposto (con l'art. 12, comma 1) che e' differito al 31 dicembre 1991 il termine del 31 dicembre 1990 indicato dal presente articolo, per quanto concerne la facolta' di convenzionamento con terzi per l'ammodernamento e potenziamento dei servizi centrali e periferici del Ministero del lavoro e della previdenza sociale, di cui all'articolo 9, comma 1, del decreto-legge 21 marzo 1988, n. 86, convertito, con modificazioni, dalla legge 20 maggio 1988, n. 160. La medesima legge ha inoltre disposto (con l'art. 23, comma 1) che "Le disposizioni della presente legge hanno effetto a decorrere dal 1 gennaio 1991."
 
-#### Art. 27
+### Art. 27
 
 1\. Il termine del 31 dicembre 1989, fissato dall'articolo 3 della legge 18 luglio 1984, n. 370, riguardante l'efficacia delle norme sui servizi sociali a favore del personale del Ministero degli affari esteri impiegato presso l'Amministrazione centrale, e' prorogato al 31 dicembre 1990.
 
@@ -410,7 +402,7 @@ AGGIORNAMENTO (1)
 
 La L. 20 maggio 1991, n. 158 ha disposto (con l'art. 13, comma 1) che e' differito al 31 dicembre 1991 il termine del 31 dicembre 1990 indicato dal presente articolo, riguardante l'efficacia delle norme sui servizi sociali a favore del personale del Ministero degli affari esteri impiegato presso l'Amministrazione centrale, di cui all'articolo 3 della legge 18 luglio 1984, n. 370. La medesima legge ha inoltre disposto (con l'art. 23, comma 1) che "Le disposizioni della presente legge hanno effetto a decorrere dal 1 gennaio 1991."
 
-#### Art. 28
+### Art. 28
 
 1\. Il termine del 31 dicembre 1987 previsto dall'articolo 116 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270, e' prorogato al 31 dicembre 1990.
 
@@ -422,7 +414,7 @@ AGGIORNAMENTO(5)
 
 La Corte Costituzionale con sentenza del 15-18 aprile 1996, n. 117, (in G.U. 1a s.s. 24/04/1996 n. 49) ha disposto l'illegittimita' costituzionale del comma 2 del presente articolo limitatamente alle parole " e comunque fino alla data di entrata in vigore dei provvedimenti del Governo".
 
-#### Art. 29
+### Art. 29
 
 1\. Le disposizioni della presente legge hanno effetto a decorrere dal 1 gennaio 1990.
 

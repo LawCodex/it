@@ -106,7 +106,7 @@ il seguente decreto legislativo:
 
 ## Titolo I - Disposizioni generali
 
-##### Art. 1
+#### Art. 1
 
 Campo di applicazione e finalita'
 
@@ -336,7 +336,7 @@ Campo di applicazione e finalita'
 
 > \- La direttiva di esecuzione (UE) 2020/177 della Commissione, dell'11 febbraio 2020, che modifica le direttive 66/401/CEE, 66/402/CEE, 68/193/CEE, 2002/55/CE, 2002/56/CE e 2002/57/CE del Consiglio, le direttive 93/49/CEE e 93/61/CEE della Commissione e le direttive di esecuzione 2014/21/UE e 2014/98/UE della Commissione per quanto riguarda gli organismi nocivi per le piante sulle sementi e altro materiale riproduttivo vegetale, e' pubblicata nella G.U.U.E. 13 febbraio 2020, n. L 41.
 
-##### Art. 2
+#### Art. 2
 
 Definizioni
 
@@ -428,13 +428,13 @@ ss) «varieta'»: un insieme di vegetali nell'ambito di un unico taxon botanico 
 
 > \- Per i riferimenti normativi dell'art. 11 della legge 4 ottobre 2019, n. 117, si veda nelle note alle premesse.
 
-##### Art. 3
+#### Art. 3
 
 Autorita' nazionale
 
 1\. Il Ministero delle politiche agricole alimentari e forestali, di seguito denominato «Ministero», e' individuato quale autorita' nazionale competente ai fini dell'applicazione del presente decreto.
 
-##### Art. 4
+#### Art. 4
 
 Competenze del Servizio fitosanitario centrale
 
@@ -454,7 +454,7 @@ f) le funzioni di cui all'articolo 67.
 
 2\. Il Ministro delle politiche agricole alimentari e forestali, con proprio decreto, puo' delegare l'esercizio di determinate attivita' di cui al comma 1, lettera c), ad enti scientifici o di ricerca nazionali che, per statuto o regolamento, si propongono di promuovere il progresso della produzione vivaistica e in possesso di adeguata esperienza nella effettuazione di prove ufficiali DUS in applicazione del Titolo II del presente decreto.
 
-##### Art. 5
+#### Art. 5
 
 Competenze dei Servizi fitosanitari regionali
 
@@ -474,13 +474,13 @@ f) l'irrogazione di sanzioni amministrative di cui all'articolo 81.
 
 ## Titolo II - Registro delle varietà
 
-##### Art. 6
+#### Art. 6
 
 Registro nazionale
 
 1\. Al fine di identificare le varieta' delle piante da frutto e dei relativi portinnesti, nonche' le varieta' di portinnesti di piante ortive ammesse alla commercializzazione, e' istituito presso il Ministero il Registro nazionale delle varieta' delle piante da frutto e dei relativi portinnesti e delle varieta' di portinnesti di piante ortive, di seguito denominato «Registro».
 
-##### Art. 7
+#### Art. 7
 
 Articolazione del Registro
 
@@ -510,7 +510,7 @@ b) varieta' di portinnesti di piante ortive.
 
 > Per i fini di cui al precedente primo comma e' autorizzata, per il triennio 1984-1986, la spesa di lire 6 miliardi in ragione di lire 2 miliardi per ciascuno degli anni dal 1984 al 1986.».
 
-##### Art. 8
+#### Art. 8
 
 Informazioni contenute nel Registro
 
@@ -550,7 +550,7 @@ r) eventuali annotazioni ed altre informazioni utili.
 
 2\. Il Ministero provvede ad istituire un fascicolo per ogni varieta' che registra, che contiene una descrizione della varieta' e una sintesi di tutti i fatti pertinenti alla registrazione della varieta'.
 
-##### Art. 9
+#### Art. 9
 
 Domanda di registrazione di una varieta'
 
@@ -600,7 +600,7 @@ e) la riproduzione fotografica della pianta, di parti di pianta e dei frutti che
 
 > \- Il decreto legislativo 10 febbraio 2005, n. 30 (Codice della proprieta' industriale, a norma dell'art. 15 della legge 12 dicembre 2002, n. 273) e successive modificazioni) e' pubblicato nella Gazzettta Ufficiale 4 marzo 2005, n. 52, S.O.
 
-##### Art. 10
+#### Art. 10
 
 Requisiti delle varieta'
 
@@ -632,7 +632,7 @@ c) e' distinguibile, omogenea e stabile a seguito di prove di coltivazione uffic
 
 > \- Il regolamento (CE) n. 1829/2003 del Parlamento europeo e del Consiglio relativo agli alimenti e ai mangimi geneticamente modificati, e' pubblicato nella G.U.U.E. 18 ottobre 2003, n. L 268.
 
-##### Art. 11
+#### Art. 11
 
 Esecuzione delle prove di coltivazione
 
@@ -652,7 +652,7 @@ Esecuzione delle prove di coltivazione
 
 8\. Tutti gli oneri derivanti dalle attivita' relative alla registrazione di una varieta' sono a carico del richiedente, secondo le tariffe di cui all'articolo 82.
 
-##### Art. 12
+#### Art. 12
 
 Termine per la consegna dei materiali necessari
 
@@ -664,7 +664,7 @@ all'esecuzione delle prove di coltivazione
 
 3\. La domanda completa di tutti gli elementi richiesti, ma pervenuta oltre i termini indicati all'articolo 9 determina l'esclusione della varieta' candidata dal piano di coltivazione dell'anno in corso e il suo inserimento nella successiva stagione di coltivazione.
 
-##### Art. 13
+#### Art. 13
 
 Iscrizione al Registro
 
@@ -674,7 +674,7 @@ Iscrizione al Registro
 
 3\. La varieta' che riveste particolare interesse per la frutticoltura e l'orticoltura nazionale, su parere del Gruppo di lavoro permanente, e' iscritta nel Registro nazionale con provvedimento del Ministero, anche in assenza di apposita richiesta.
 
-##### Art. 14
+#### Art. 14
 
 Periodo di validita' della registrazione di una varieta'
 
@@ -700,13 +700,13 @@ e) la validita' dell'iscrizione sia giunta a scadenza senza che sia stata presen
 
 6\. In caso di ritiro o rigetto della domanda di rilascio di privativa vegetale, o di domanda di iscrizione al registro di un altro Stato membro, il richiedente lo comunica al Ministero, per via telematica utilizzando l'indirizzo PEC dell'ufficio competente che provvede alla cancellazione della varieta' dal Registro.
 
-##### Art. 15
+#### Art. 15
 
 Notifiche
 
 1\. Il Ministero notifica agli altri Stati membri e alla Commissione tutte le modifiche apportate al Registro delle varieta'.
 
-##### Art. 16
+#### Art. 16
 
 Iscrizione al Registro nazionale di varieta' di piantine ortive e dei materiali di moltiplicazione di piante ortive
 
@@ -714,11 +714,9 @@ Iscrizione al Registro nazionale di varieta' di piantine ortive e dei materiali 
 
 ## Titolo III - Registro dei fornitori
 
-### Capo I
+### Capo I - Fornitori di materiali di moltiplicazione delle piante da frutto e di piante da frutto
 
-#### Fornitori di materiali di moltiplicazione delle piante da frutto e di piante da frutto
-
-##### Art. 17
+#### Art. 17
 
 Obblighi dei fornitori dei materiali di moltiplicazione delle piante da frutto e delle piante da frutto destinate alla produzione di frutti
 
@@ -784,9 +782,9 @@ Per i materiali ceduti a soggetti diversi da fornitori o da persone professional
 
 > \- Per i riferimenti del regolamento (UE) 2016/2031, si veda nelle note alle premesse.
 
-## Capo II - Fornitori di piantine di piante ortive e di materiali di moltiplicazione di piante ortive
+### Capo II - Fornitori di piantine di piante ortive e di materiali di moltiplicazione di piante ortive
 
-##### Art. 18
+#### Art. 18
 
 Requisiti ed obblighi dei fornitori
 
@@ -858,7 +856,7 @@ m) collaborare in ogni altro modo con il Servizio fitosanitario nazionale.
 
 > \- Per i riferimenti del regolamento (UE) 2016/2031, si veda nelle note alle premesse.
 
-##### Art. 19
+#### Art. 19
 
 Obblighi dei Servizi fitosanitari regionali
 
@@ -888,11 +886,9 @@ c) i campioni vengano prelevati da persone competenti.
 
 ## Titolo IV - Certificazione dei materiali di moltiplicazione delle piante da frutto, delle piante da frutto e dei materiali di moltiplicazione delle piante ortive
 
-### Capo I
+### Capo I - Certificazione dei materiali di categoria «Pre-Base»
 
-#### Certificazione dei materiali di categoria «Pre-Base»
-
-##### Art. 20
+#### Art. 20
 
 Disposizioni generali per la certificazione
 
@@ -940,7 +936,7 @@ c) materiali di categoria «Certificato»:
 
 6\. Tutti gli oneri derivanti dalle attivita' di certificazione dei materiali di moltiplicazione delle piante da frutto e delle piante da frutto sono a carico del richiedente secondo le tariffe di cui all'articolo 82.
 
-##### Art. 21
+#### Art. 21
 
 Fase di conservazione
 
@@ -966,7 +962,7 @@ c) la produzione e l'allevamento delle piante da frutto moltiplicate a partire d
 
 7\. Gli oneri finanziari per la conservazione e produzione di materiale di moltiplicazione nei CCP sono a carico dei costitutori o dei loro aventi causa o dei vivaisti richiedenti.
 
-##### Art. 22
+#### Art. 22
 
 Obblighi dei Centri di Conservazione
 
@@ -988,7 +984,7 @@ b) non adempie agli obblighi di cui al comma 1;
 
 c) non rispetta le prescrizioni impartite dal Servizio fitosanitario nazionale.
 
-##### Art. 23
+#### Art. 23
 
 Requisiti per l'accettazione di una pianta madre
 
@@ -1038,7 +1034,7 @@ d) la descrizione ufficialmente riconosciuta, se la varieta' oggetto di tale des
 
 9\. Tutti gli oneri derivanti dalle attivita' di controllo di cui al presente articolo sono a carico del richiedente secondo le tariffe di cui all'articolo 82.
 
-##### Art. 24
+#### Art. 24
 
 Requisiti per l'accettazione di un portinnesto
 
@@ -1052,7 +1048,7 @@ non appartenente a una varieta'
 
 4\. Tutti gli oneri derivanti dalle attivita' di controllo di cui al presente articolo sono a carico del richiedente secondo le tariffe di cui all'articolo 82.
 
-##### Art. 25
+#### Art. 25
 
 Requisiti per la certificazione dei materiali
 
@@ -1088,7 +1084,7 @@ e) sono conformi all'articolo 31 per quanto riguarda le alterazioni.
 
 4\. Qualora una pianta madre di categoria «Pre-Base» o i materiali di categoria «Pre-Base» non soddisfino piu' i requisiti di cui agli articoli 27, 28, 29, 30 e 31, il fornitore li rimuove dal sito che ospita le altre piante madri di categoria «Pre-Base» e gli altri materiali di categoria «Pre-Base». La pianta madre o i materiali cosi' rimossi possono essere utilizzati come materiali di categoria «Base», «Certificato» o materiali CAC, purche' soddisfino i requisiti stabiliti dal presente decreto per le rispettive categorie. Il fornitore non rimuove la pianta madre o tali materiali se adotta misure adeguate a garantire che la pianta madre o i materiali siano nuovamente conformi ai requisiti di cui agli articoli 27, 28, 29, 30 e 31.
 
-##### Art. 26
+#### Art. 26
 
 Requisiti per la certificazione come materiali di categoria «Pre-Base» di portinnesti non appartenenti a una varieta'
 
@@ -1110,7 +1106,7 @@ f) la pianta madre di cui alla lettera a), e' stata accettata in conformita' all
 
 Il fornitore non rimuove tale portainnesto se adotta misure adeguate per garantire che esso sia nuovamente conforme ai requisiti di cui agli articoli 28, 29, 30 e 31.
 
-##### Art. 27
+#### Art. 27
 
 Verifica della corrispondenza
 
@@ -1122,7 +1118,7 @@ alla descrizione della varieta'
 
 3\. Tutti gli oneri derivanti dalle attivita' di controllo di cui al presente articolo sono a carico del richiedente secondo le tariffe di cui all'articolo 82.
 
-##### Art. 28
+#### Art. 28
 
 Requisiti relativi alla conservazione delle piante madri di categoria «Pre-Base» e dei materiali di categoria «Pre-Base»
 
@@ -1138,7 +1134,7 @@ Requisiti relativi alla conservazione delle piante madri di categoria «Pre-Base
 
 6\. Il periodo massimo di utilizzo di una pianta madre di categoria «Pre-Base» e' stabilito nell'Allegato II, parte 4.
 
-##### Art. 29
+#### Art. 29
 
 Requisiti fitosanitari per le candidate piante madri di categoria «Pre-Base» e per le piante madri di categoria «Pre-Base» prodotte mediante rinnovo
 
@@ -1158,7 +1154,7 @@ Altri metodi di analisi possono essere applicati nel caso in cui il Servizio fit
 
 6\. Tutti gli oneri derivanti dalle attivita' di controllo di cui al presente articolo sono a carico del richiedente secondo le tariffe di cui all'articolo 82.
 
-##### Art. 30
+#### Art. 30
 
 Requisiti fitosanitari per le piante madri di «Pre-Base» e per i materiali di «Pre-Base»
 
@@ -1182,7 +1178,7 @@ a) alle piante madri di «Pre-Base» e ai materiali di «Pre-Base» durante la c
 
 b) ai materiali di «Pre-Base», qualora tali materiali siano stati prodotti in zone notoriamente indenni, o riconosciute indenni, dagli organismi nocivi in questione conformemente alle pertinenti norme internazionali per le misure fitosanitarie [Requirements for the establishment of pest free areas. ISPM n. 4 (1995), Roma, IPPC, FAO 2017].))
 
-##### Art. 31
+#### Art. 31
 
 Requisiti relativi alle alterazioni
 
@@ -1192,7 +1188,7 @@ che possono compromettere la qualita'
 
 2\. Tutti gli oneri derivanti dalle attivita' di controllo di cui al presente articolo sono a carico del richiedente secondo le tariffe di cui all'articolo 82.
 
-##### Art. 32
+#### Art. 32
 
 Requisiti relativi alla moltiplicazione, al rinnovo e alla propagazione delle piante madri di categoria «Pre-Base»
 
@@ -1206,7 +1202,7 @@ Requisiti relativi alla moltiplicazione, al rinnovo e alla propagazione delle pi
 
 5\. Il fornitore puo' rinnovare la pianta madre di categoria «Pre-Base» solo prima della fine del periodo di cui all'Allegato II, parte 4, per quanto riguarda il genere o la specie in questione.
 
-##### Art. 33
+#### Art. 33
 
 Requisiti relativi alla moltiplicazione, al rinnovo e alla propagazione mediante micropropagazione delle piante madri di categoria «Pre-Base»
 
@@ -1214,9 +1210,9 @@ Requisiti relativi alla moltiplicazione, al rinnovo e alla propagazione mediante
 
 2\. Al fine della micropropagazione delle piante madri di categoria «Pre-Base» e dei materiali di categoria «Pre-Base» si applicano i relativi protocolli EPPO o altri protocolli riconosciuti a livello internazionale. Se tali protocolli, per l'organismo nocivo in esame, non sono disponibili, il Servizio fitosanitario regionale competente per territorio verifica l'applicazione dei protocolli validati scientificamente a livello nazionale.
 
-## Capo II - Certificazione dei materiali di categoria «Base»
+### Capo II - Certificazione dei materiali di categoria «Base»
 
-##### Art. 34
+#### Art. 34
 
 Fase di premoltiplicazione e relativi centri
 
@@ -1242,7 +1238,7 @@ b) la produzione in ambiente protetto di materiale di moltiplicazione di categor
 
 9\. Gli oneri finanziari per la conservazione e produzione di materiale di moltiplicazione nei CP sono a carico del costitutore o dei suoi aventi causa o dei vivaisti richiedenti.
 
-##### Art. 35
+#### Art. 35
 
 Obblighi dei centri di premoltiplicazione
 
@@ -1262,7 +1258,7 @@ b) non adempie agli obblighi di cui al comma 1;
 
 c) non rispetta le prescrizioni impartite dal Servizio fitosanitario nazionale.
 
-##### Art. 36
+#### Art. 36
 
 Requisiti per la certificazione dei materiali di categoria «Base»
 
@@ -1308,7 +1304,7 @@ d) requisiti relativi alle condizioni specifiche per la moltiplicazione, come di
 
 9\. Qualora un portinnesto non appartenente a una varieta' sia una pianta madre di categoria «Base» o un materiale di categoria «Base» che non soddisfa piu' i requisiti di cui all'articolo 28, commi 2 e 6, e agli articoli 31, 37 e 38, il fornitore lo rimuove dal sito che ospita le altre piante madri di categoria «Base» e gli altri materiali di categoria «Base». Il portinnesto cosi' rimosso puo' essere utilizzato come materiale di categoria «Certificato» o materiale CAC, purche' soddisfi i requisiti stabiliti dal presente decreto per quanto riguarda le rispettive categorie. Il fornitore non rimuove tale portainnesto se adotta misure adeguate a garantire che esso sia nuovamente conforme ai requisiti di cui agli articoli 28, commi 2 e 6, 31, 37 e 38.
 
-##### Art. 37
+#### Art. 37
 
 Requisiti fitosanitari per le piante madri di «Base» e per i materiali di «Base»
 
@@ -1330,7 +1326,7 @@ Requisiti fitosanitari per le piante madri di «Base» e per i materiali di «Ba
 
 9\. Tutti gli oneri derivanti dalle attivita' di controllo di cui al presente articolo sono a carico del richiedente secondo le tariffe di cui all'articolo 82.
 
-##### Art. 38
+#### Art. 38
 
 Requisiti relativi al terreno per le piante madri
 
@@ -1342,7 +1338,7 @@ di «Base» e per i materiali di «Base»
 
 3\. Al fine del campionamento e dell'analisi di cui al comma 1, si applicano i protocolli dell'Organizzazione europea e mediterranea per la protezione delle piante (EPPO) o altri protocolli riconosciuti a livello internazionale. Se tali protocolli, per l'organismo nocivo in esame, non sono disponibili, i Servizi fitosanitari regionali applicano i protocolli validati scientificamente a livello nazionale.
 
-##### Art. 39
+#### Art. 39
 
 Requisiti relativi alla conservazione delle piante madri
 
@@ -1356,7 +1352,7 @@ e dei materiali di categoria «Base»
 
 4\. Le piante madri di categoria «Base» e i materiali di categoria «Base» sono conservati in modo da garantire la loro identificazione univoca e la tracciabilita' durante tutto il processo di produzione.
 
-##### Art. 40
+#### Art. 40
 
 Requisiti relativi alla moltiplicazione e alla propagazione delle piante madri di categoria «Base»
 
@@ -1366,9 +1362,9 @@ Requisiti relativi alla moltiplicazione e alla propagazione delle piante madri d
 
 3\. I materiali di moltiplicazione di generazioni diverse sono tenuti separati.
 
-## Capo III - Certificazione dei materiali di categoria «Certificato»
+### Capo III - Certificazione dei materiali di categoria «Certificato»
 
-##### Art. 41
+#### Art. 41
 
 Fase di moltiplicazione
 
@@ -1394,7 +1390,7 @@ c) disporre di attrezzature meccaniche per la lavorazione, la conservazione e il
 
 6\. I CM e le aziende vivaistiche devono operare conformemente alle normative vigenti in materia fitosanitaria, alle disposizioni previste dal presente decreto e dai relativi allegati, nonche' ottemperare alle prescrizioni impartite dal Servizio fitosanitario regionale competente per territorio. Al Servizio fitosanitario regionale compete la verifica della corretta applicazione del presente decreto da parte dei CM e delle aziende vivaistiche.
 
-##### Art. 42
+#### Art. 42
 
 Requisiti per la certificazione dei materiali
 
@@ -1442,7 +1438,7 @@ c) i materiali di moltiplicazione e le piante da frutto sono moltiplicati a part
 
 > \- Per i riferimenti del regolamento (UE) 2016/2031, si veda nelle note alle premesse.
 
-##### Art. 43
+#### Art. 43
 
 Requisiti fitosanitari per le piante madri certificate
 
@@ -1470,7 +1466,7 @@ b) ai materiali certificati, qualora tali materiali siano stati prodotti in zone
 
 9\. Tutti gli oneri derivanti dalle attivita' di controllo di cui al presente articolo sono a carico del richiedente secondo le tariffe di cui all'articolo 82.
 
-##### Art. 44
+#### Art. 44
 
 Requisiti relativi al terreno per le piante madri
 
@@ -1482,7 +1478,7 @@ certificate e per i materiali certificati
 
 3\. Ai fini del campionamento e dell'analisi di cui al comma 1, si applicano i protocolli dell'Organizzazione europea e mediterranea per la protezione delle piante (EPPO) o altri protocolli riconosciuti a livello internazionale. Se tali protocolli, per l'organismo nocivo in esame, non sono disponibili, i Servizi fitosanitari regionali applicano i protocolli validati scientificamente a livello nazionale.
 
-##### Art. 45
+#### Art. 45
 
 Controlli ai fini della certificazione dei materiali
 
@@ -1494,9 +1490,9 @@ di varieta' in attesa di registrazione
 
 3\. Gli oneri derivanti dalle attivita' di controllo di cui al presente articolo sono a carico del richiedente secondo le tariffe di cui all'articolo 82.
 
-## Capo IV - Requisiti per i materiali CAC
+### Capo IV - Requisiti per i materiali CAC
 
-##### Art. 46
+#### Art. 46
 
 Requisiti dei materiali di moltiplicazione
 
@@ -1518,7 +1514,7 @@ c) soddisfano i requisiti specifici per i materiali CAC stabiliti in conformita'
 
 d) soddisfano requisiti relativi al sito di produzione, al luogo di produzione o alla zona di cui all'Allegato II, parte 4, al fine di limitare la presenza degli ORNQ elencati in tale Allegato per il genere o la specie in questione.
 
-##### Art. 47
+#### Art. 47
 
 Condizioni per i materiali CAC diversi dai portinnesti
 
@@ -1542,7 +1538,7 @@ a) rimuove tali materiali dal sito che ospita gli altri materiali CAC;
 
 b) adotta misure adeguate al fine di garantire che tali materiali siano nuovamente conformi ai requisiti di cui al comma 1.
 
-##### Art. 48
+#### Art. 48
 
 Condizioni per i materiali CAC nel caso dei portinnesti
 
@@ -1564,7 +1560,7 @@ a) rimuove tali materiali dal sito che ospita gli altri materiali CAC;
 
 b) adotta misure adeguate al fine di garantire che tali materiali siano nuovamente conformi ai requisiti di cui al comma 1.
 
-##### Art. 49
+#### Art. 49
 
 Corrispondenza alla descrizione della varieta'
 
@@ -1580,7 +1576,7 @@ d) la descrizione ufficialmente riconosciuta di una varieta' di cui all'articolo
 
 2\. La corrispondenza dei materiali CAC alla descrizione della loro varieta' e' verificata, in autocontrollo o dai servizi fitosanitari, periodicamente mediante l'osservazione dell'espressione delle caratteristiche della varieta' nei materiali CAC in questione.
 
-##### Art. 50
+#### Art. 50
 
 Requisiti fitosanitari per i materiali CAC
 
@@ -1600,7 +1596,7 @@ a) ai materiali CAC durante la crioconservazione;
 
 b) ai materiali CAC, qualora tali materiali siano stati prodotti in zone notoriamente indenni, o riconosciute indenni, dagli organismi nocivi in questione conformemente alle pertinenti norme internazionali per le misure fitosanitarie [Requirements for the establishment of pest free areas. ISPM n. 4 (1995), Roma, IPPC, FAO 2017].))
 
-##### Art. 51
+#### Art. 51
 
 Requisiti relativi alle alterazioni
 
@@ -1608,15 +1604,15 @@ Requisiti relativi alle alterazioni
 
 2\. Ai fini di quanto previsto dal comma 1, costituiscono alterazioni le lesioni, le decolorazioni, la presenza di callo e di tumori o i disseccamenti che compromettono la qualita' e l'utilita' dei materiali di moltiplicazione.
 
-## Capo V - Requisiti dei materiali di moltiplicazione delle piante ortive
+### Capo V - Requisiti dei materiali di moltiplicazione delle piante ortive
 
-##### Art. 52
+#### Art. 52
 
 Requisiti fenologici dei materiali
 
 1\. Il materiale commercializzato deve avere vigore e dimensioni soddisfacenti ed essere idoneo all'impiego come piantina ortiva o come materiale di moltiplicazione di piante ortive. Deve inoltre essere garantito un adeguato equilibrio tra le radici gli steli e le foglie.
 
-##### Art. 53
+#### Art. 53
 
 Requisiti fitosanitari delle piantine e dei materiali
 
@@ -1636,7 +1632,7 @@ di moltiplicazione di piante ortive
 
 ## Titolo V - Controlli ufficiali
 
-##### Art. 54
+#### Art. 54
 
 Controlli Ufficiali
 
@@ -1658,7 +1654,7 @@ b) la competenza generale del personale impiegato dal fornitore per svolgere le 
 
 7\. Gli oneri derivanti dalle attivita' di controllo di cui al presente articolo sono a carico del richiedente secondo le tariffe di cui all'articolo 82.
 
-##### Art. 55
+#### Art. 55
 
 Laboratori di analisi
 
@@ -1672,11 +1668,9 @@ Laboratori di analisi
 
 ## Titolo VI - Commercializzazione, etichettatura ed imballaggio
 
-### Capo I
+### Capo I - Commercializzazione, etichettatura ed imballaggio dei materiali di moltiplicazione dei fruttiferi e delle piante da frutto
 
-#### Commercializzazione, etichettatura ed imballaggio dei materiali di moltiplicazione dei fruttiferi e delle piante da frutto
-
-##### Art. 56
+#### Art. 56
 
 Condizioni generali per la commercializzazione
 
@@ -1700,7 +1694,7 @@ c) contribuire alla conservazione della diversita' genetica.
 
 5\. Con decreto del Ministro delle politiche agricole alimentari e forestali, da adottare entro centottanta giorni dalla data di entrata in vigore del presente decreto, sono stabilite le modalita' per l'applicazione della deroga ((di cui al comma 4)).
 
-##### Art. 57
+#### Art. 57
 
 Norme generali in materia di etichettatura,
 
@@ -1712,7 +1706,7 @@ chiusura e imballaggio
 
 3\. I materiali di moltiplicazione e le piante da frutto che si qualificano come materiali CAC sono commercializzati solo se sono conformi alle prescrizioni relative al documento del fornitore di cui all'articolo 61.
 
-##### Art. 58
+#### Art. 58
 
 Etichetta per i materiali di categoria «Pre-Base»,
 
@@ -1768,7 +1762,7 @@ c) blu per i materiali di categoria «Certificato».
 
 > \- Il regolamento di esecuzione (UE) 2017/2313 della Commissione, del 13 dicembre 2017 che definisce le specifiche di formato del passaporto delle piante per lo spostamento nel territorio dell'Unione e del passaporto delle piante per l'introduzione e lo spostamento in una zona protetta, e' pubblicato nella G.U.U.E. 14 dicembre 2017, n. L 331.
 
-##### Art. 59
+#### Art. 59
 
 Documento di accompagnamento per i materiali
 
@@ -1796,7 +1790,7 @@ g) comprende, se del caso, informazioni supplementari pertinenti per i lotti in 
 
 4\. Qualora le informazioni contenute nel documento di accompagnamento siano in contraddizione con le informazioni riportate sull'etichetta di cui all'articolo 58, prevalgono le informazioni riportate su tale etichetta.
 
-##### Art. 60
+#### Art. 60
 
 Prescrizioni in materia di chiusura e imballaggio per i materiali di categoria «Pre-Base», «Base» e «Certificato»
 
@@ -1808,7 +1802,7 @@ b) le piante o le parti di piante formano parte di un mazzo chiuso come definito
 
 2\. Ai fini del presente decreto, per «chiusura» si intende che un imballaggio o un contenitore e' chiuso in modo tale da non poter essere aperto senza danneggiare la chiusura e che un mazzo e' legato in modo tale che le piante o le parti di piante che lo compongono non possano essere separate senza danneggiare i legacci. L'imballaggio, il contenitore o il mazzo sono etichettati in modo tale che la rimozione dell'etichetta ne pregiudichi l'integrita' rendendola non conforme alle prescrizioni in materia di etichettatura, chiusura e imballaggio.
 
-##### Art. 61
+#### Art. 61
 
 Documento del fornitore per i materiali CAC
 
@@ -1846,9 +1840,9 @@ i) la data di emissione del documento.
 
 > \- Per i riferimenti della direttiva di esecuzione (UE) 2019/1813 della Commissione, del 29 ottobre 2019, si veda nelle note alle premesse.
 
-## Capo II - Commercializzazione, etichettatura ed imballaggio delle piantine di piante ortive e dei materiali di moltiplicazione di piante ortive
+### Capo II - Commercializzazione, etichettatura ed imballaggio delle piantine di piante ortive e dei materiali di moltiplicazione di piante ortive
 
-##### Art. 62
+#### Art. 62
 
 Condizioni generali per la commercializzazione
 
@@ -1886,7 +1880,7 @@ c) contribuire alla conservazione della diversita' genetica.
 
 > \- Per i rifermenti del regolamento (CE) n. 1829/2003, si veda nelle note all'art. 10.
 
-##### Art. 63
+#### Art. 63
 
 Identificazione dei lotti e delle partite
 
@@ -1896,7 +1890,7 @@ Identificazione dei lotti e delle partite
 
 ## Titolo VII - Importazione da Paesi terzi
 
-##### Art. 64
+#### Art. 64
 
 Condizioni di equivalenza
 
@@ -1946,7 +1940,7 @@ Condizioni di equivalenza
 
 ## Titolo VIII - Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale
 
-##### Art. 65
+#### Art. 65
 
 Sistema nazionale volontario di qualificazione
 
@@ -1970,7 +1964,7 @@ c) Soggetto Gestore.
 
 6\. Il Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale si avvale del Gruppo di lavoro permanente per l'espletamento delle attivita' di cui all'articolo 66.
 
-##### Art. 66
+#### Art. 66
 
 Attivita' del Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale
 
@@ -1998,7 +1992,7 @@ l) definisce le misure da adottare nei confronti dei soggetti operanti nell'ambi
 
 2\. I criteri e le modalita' di esecuzione delle attivita' di cui al comma 1 sono adottati con provvedimento del Ministro delle politiche agricole alimentari e forestali, acquisito il parere del Gruppo di lavoro permanente.
 
-##### Art. 67
+#### Art. 67
 
 Funzioni del Servizio fitosanitario centrale
 
@@ -2016,7 +2010,7 @@ d) la sorveglianza delle attivita' del Soggetto Gestore.
 
 3\. Il Servizio fitosanitario centrale e' l'autorita' competente unica per il coordinamento di tutte le attivita' del Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale.
 
-##### Art. 68
+#### Art. 68
 
 Funzioni dei Servizi fitosanitari regionali
 
@@ -2034,7 +2028,7 @@ d) l'invio al Soggetto Gestore dei dati necessari per l'implementazione della ba
 
 3\. Per lo svolgimento delle attivita' di cui al comma 1, i Servizi fitosanitari regionali possono avvalersi di personale tecnico specializzato, addestrato ed aggiornato attraverso corsi di formazione obbligatori, aderente al Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale.
 
-##### Art. 69
+#### Art. 69
 
 Soggetto Gestore
 
@@ -2062,7 +2056,7 @@ d) documentazione attestante il possesso di adeguata esperienza nel coordinament
 
 4\. Il riconoscimento e' revocato, con la medesima procedura di cui al comma 3 o in caso di mancato rispetto, da parte del Soggetto Gestore, delle prescrizioni del Servizio fitosanitario centrale.
 
-##### Art. 70
+#### Art. 70
 
 Funzioni del Soggetto Gestore
 
@@ -2084,7 +2078,7 @@ g) l'elaborazione di una relazione annuale da inviare al Servizio fitosanitario 
 
 h) la riscossione dei proventi derivanti dalla vendita delle etichette di qualificazione.
 
-##### Art. 71
+#### Art. 71
 
 Adesione del fornitore al Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale
 
@@ -2106,7 +2100,7 @@ e) numero di registrazione al RUOP.
 
 4\. Il Servizio fitosanitario regionale di cui al comma 1, verificati i requisiti del fornitore, aggiorna il RUOP con il riferimento alla partecipazione al Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale.
 
-##### Art. 72
+#### Art. 72
 
 Riconoscimento dei materiali nel Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale
 
@@ -2116,7 +2110,7 @@ Riconoscimento dei materiali nel Sistema nazionale volontario di qualificazione 
 
 3\. Il Servizio fitosanitario centrale riconosce idonee le piante madri di «Pre-Base», su parere del Gruppo di lavoro permanente, che valuta le richieste pervenute e verifica le condizioni di idoneita'.
 
-##### Art. 73
+#### Art. 73
 
 Controlli del Sistema nazionale volontario
 
@@ -2138,7 +2132,7 @@ b) sono conservati, prodotti e sottoposti alle verifiche periodiche conformement
 
 6\. Il Servizio fitosanitario regionale competente per territorio qualora, in occasione dei controlli di cui al comma 2, accerti la perdita dei requisiti del fornitore di cui al Titolo III o la non conformita' delle sue produzioni alle prescrizioni di cui al presente decreto, dispone il divieto di utilizzo delle etichette di cui all'articolo 79. Tale divieto e' revocato dal Servizio fitosanitario regionale competente, su richiesta dell'interessato, una volta verificata la cessazione della causa di non conformita'.
 
-##### Art. 74
+#### Art. 74
 
 Riconoscimento delle strutture idonee ad operare nel Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale
 
@@ -2182,7 +2176,7 @@ f) riferimento al provvedimento di riconoscimento di idoneita' ai sensi del Tito
 
 7\. Gli oneri finanziari per la conservazione e produzione di materiale di moltiplicazione nei CCP e CP di cui al presente articolo sono a carico degli operatori interessati.
 
-##### Art. 75
+#### Art. 75
 
 Verifica del materiale di categoria «Pre-Base»
 
@@ -2196,7 +2190,7 @@ Verifica del materiale di categoria «Pre-Base»
 
 5\. Le operazioni di taglio, prelievo e innesto del materiale di categoria «Pre-Base» e l'eliminazione di piante madri, devono avvenire sotto il controllo del responsabile tecnico del Centro di conservazione per la premoltiplicazione (CCP) ed essere registrate sul registro di conduzione per le verifiche da parte del Servizio fitosanitario regionale competente per territorio.
 
-##### Art. 76
+#### Art. 76
 
 Verifica del materiale di categoria «Base»
 
@@ -2210,7 +2204,7 @@ Verifica del materiale di categoria «Base»
 
 5\. Le operazioni di taglio, prelievo e innesto del materiale di categoria «Base» e l'eliminazione di piante madri, devono avvenire sotto il controllo del responsabile tecnico del Centro di premoltiplicazione (CP) ed essere registrate sul registro di conduzione per le verifiche da parte del Servizio fitosanitario regionale competente per territorio.
 
-##### Art. 77
+#### Art. 77
 
 Verifica del materiale di categoria «Certificato»
 
@@ -2224,7 +2218,7 @@ Verifica del materiale di categoria «Certificato»
 
 5\. La qualificazione del materiale di moltiplicazione di categoria «Certificato» prodotto in vitro avviene dopo la verifica, da parte del Servizio fitosanitario regionale competente per territorio, del possesso dei requisiti previsti dai disciplinari di cui all'allegato V delle singole specie.
 
-##### Art. 78
+#### Art. 78
 
 Laboratori per la Micropropagazione
 
@@ -2266,7 +2260,7 @@ b) rispettare le norme che regolano l'attivita' di micropropagazione di cui all'
 
 9\. Tutti gli oneri derivanti dalle attivita' di laboratori di micropropagazione di cui al presente articolo sono a carico degli operatori interessati.
 
-##### Art. 79
+#### Art. 79
 
 Organizzazione, stampa e distribuzione delle etichette della qualificazione nazionale nell'ambito del Sistema nazionale volontario di qualificazione del materiale di propagazione vegetale
 
@@ -2286,7 +2280,7 @@ Organizzazione, stampa e distribuzione delle etichette della qualificazione nazi
 
 8\. Gli oneri derivanti dalle attivita' di stampa delle etichette di cui al presente articolo sono carico del richiedente e corrisposti in base alla quantita' di etichette richieste, sulla base delle tariffe di cui all'articolo 82.
 
-##### Art. 80
+#### Art. 80
 
 Oneri a carico del richiedente
 
@@ -2296,7 +2290,7 @@ Oneri a carico del richiedente
 
 ## Titolo IX - Sanzioni amministrative e norme finanziarie
 
-##### Art. 81
+#### Art. 81
 
 Sanzioni amministrative
 
@@ -2370,7 +2364,7 @@ Sanzioni amministrative
 
 > \- La legge 24 novembre 1981, n. 689 (Modifiche al sistema penale), e' pubblicata nella Gazzetta Ufficiale 30 novembre 1981, n. 329, S.O.
 
-##### Art. 82
+#### Art. 82
 
 Tariffe
 
@@ -2426,7 +2420,7 @@ Tariffe
 
 > 5\. Le entrate derivanti dalle tariffe determinate ai sensi del comma 4 sono attribuite, nei limiti previsti dalla legislazione vigente, alle amministrazioni che effettuano le prestazioni e i controlli, mediante riassegnazione ai sensi del regolamento di cui al decreto del Presidente della Repubblica 10 novembre 1999, n. 469.».
 
-##### Art. 83
+#### Art. 83
 
 Clausola di neutralita' finanziaria
 
@@ -2434,7 +2428,7 @@ Clausola di neutralita' finanziaria
 
 ## Titolo X - Norme transitorie e finali
 
-##### Art. 84
+#### Art. 84
 
 Clausola di cedevolezza
 
@@ -2458,7 +2452,7 @@ Clausola di cedevolezza
 
 > 5\. Il Presidente del Consiglio dei ministri o il Ministro per gli affari europei ogni sei mesi informa le Camere sullo stato di recepimento delle direttive europee da parte delle regioni e delle province autonome nelle materie di loro competenza, secondo modalita' di individuazione di tali direttive da definire con accordo in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano. A tal fine la Presidenza del Consiglio dei ministri - Dipartimento per le politiche europee convoca annualmente le regioni e le province autonome nell'ambito della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, nella sessione europea dedicata alla predisposizione del disegno di legge di delegazione europea e del disegno di legge europea di cui all'art. 29.».
 
-##### Art. 85
+#### Art. 85
 
 Adeguamenti tecnici
 
@@ -2470,7 +2464,7 @@ Adeguamenti tecnici
 
 > 64\.
 
-##### Art. 86
+#### Art. 86
 
 Disposizioni transitorie
 
@@ -2488,7 +2482,7 @@ Disposizioni transitorie
 
 7\. Le strutture gia' individuate per le prove di coltivazione delle varieta' di piante da frutto ai fini dell'iscrizione nel Registro nazionale e al rilascio di titoli di protezione per nuove varieta' ((...)), ai sensi del decreto del Ministro delle politiche agricole alimentari, forestali e del turismo 23 maggio 2019, mantengono il riconoscimento di idoneita'.
 
-##### Art. 87
+#### Art. 87
 
 Abrogazioni
 
@@ -2680,7 +2674,7 @@ Visto, il Guardasigilli: Bonafede
 
 ## Allegati
 
-##### Allegato I
+#### Allegato I
 
 Allegato I
 
@@ -2688,7 +2682,7 @@ Elenco dei generi e delle specie a cui si applica il presente decreto di cui agl
 
 Parte di provvedimento in formato grafico
 
-##### Allegato II
+#### Allegato II
 
 Allegato II
 
@@ -5177,7 +5171,7 @@ nel sito di produzione nel corso dell'ultimo periodo vegetativo completo sono st
 
 ((5))
 
-##### Allegato II
+#### Allegato II
 
 PARTE 5
 
@@ -5354,7 +5348,7 @@ AGGIORNAMENTO (5)
 
 Il Decreto 16 luglio 2025 (in G.U. 20/08/2025, n. 192) ha disposto (con l'art. 3, comma 1) che la presenti modifiche si applicano dal 1° agosto 2025.
 
-##### Allegato III
+#### Allegato III
 
 Allegato III
 
@@ -5364,7 +5358,7 @@ di cui agli articoli 21, 22, 34, 35, 37, 40
 
 Parte di provvedimento in formato grafico
 
-##### Allegato IV
+#### Allegato IV
 
 Allegato IV
 
@@ -5374,7 +5368,7 @@ Di cui agli articoli 58, 61 e 62))
 
 ((Parte di provvedimento in formato grafico))
 
-##### Allegato V
+#### Allegato V
 
 Allegato V
 
@@ -5384,7 +5378,7 @@ Di cui agli articoli 72, 73, 74, 75, 76, 77, 78))
 
 ((Parte di provvedimento in formato grafico))
 
-##### Allegato VI
+#### Allegato VI
 
 Allegato VI
 
@@ -5392,7 +5386,7 @@ Allegato VI
 
 ((Parte di provvedimento in formato grafico))
 
-##### Allegato VII
+#### Allegato VII
 
 Allegato VII
 

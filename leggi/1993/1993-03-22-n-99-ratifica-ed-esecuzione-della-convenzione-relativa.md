@@ -342,7 +342,7 @@ the Commissioners of Inland Revenue o un rappresentante autorizzato.
 
 2\. I termini non definiti nella presente convenzione hanno, purche' il contesto non richieda un'interpretazione diversa, il significato risultante dalla convenzione conclusa dagli Stati interessati in materia di doppia imposizione.
 
-## Sezione 2 - Principi applicabili in caso di rettifica degli utili di imprese associate e d'imputazione degli utili a una stabile organizzazione
+### Sezione 2 - Principi applicabili in caso di rettifica degli utili di imprese associate e d'imputazione degli utili a una stabile organizzazione
 
 #### Articolo 4
 
@@ -366,7 +366,7 @@ Tuttavia, lo Stato contraente che fornisce tale informazione non deve trovarsi n
 
 Se, dopo la comunicazione di questa informazione, le due imprese e l'altro Stato contraente accettano la rettifica, non si applicano gli articoli 6 e 7.
 
-## Sezione 3 - Procedura amichevole e procedura arbitrale
+### Sezione 3 - Procedura amichevole e procedura arbitrale
 
 #### Articolo 6
 

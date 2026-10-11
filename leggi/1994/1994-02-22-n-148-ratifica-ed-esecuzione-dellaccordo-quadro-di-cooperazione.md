@@ -27,21 +27,21 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'accordo quadro di cooperazione economica, industriale, scientifico- tecnologica, tecnica e culturale tra l'Italia e il Peru', firmato a Roma il 25 ottobre 1991.
 
-### Art. 2
+## Art. 2
 
 1\. Piena ed intera esecuzione e' data all'accordo di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo XVI dell'accordo medesimo.
 
-### Art. 3
+## Art. 3
 
 1\. All'onere derivante dell'attuazione della presente legge, valutato in lire 48 milioni annue a decorrere dal 1994, si provvede mediante riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1994-1996, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1994, all'uopo parzialmente utilizzando l'accantonamento riguardante il Ministero degli affari esteri.
 
 2\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-### Art. 4
+## Art. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -77,13 +77,13 @@ internazionale piu' giusto da promuovere attraverso il dialogo e la collaborazio
 
 amicizia attraverso un Accordo Quadro di collaborazione economica, scientifico-tecnologica, culturale e di cooperazione allo sviluppo, hanno convenuto quanto segue:
 
-### ARTICOLO I
+## ARTICOLO I
 
 Le Parti intendono accrescere l'afflusso di investimenti nei rispettivi territori, sia attraverso i tradizionali interventi produttivi, sia privilegiando la collaborazione nel settore delle piccole e medie imprese. A tale scopo verra' incoraggiata la costituzione di imprese miste attraverso l'attivazione di strumenti disponibili, idonei ad assicurare un adeguato sostegno finanziario e tecnologico.
 
 ## COOPERAZIONE FINANZIARIA
 
-### ARTICOLO II
+## ARTICOLO II
 
 Le Parti riconoscono che la cooperazione finanziaria e' uno dei principali strumenti nel campo delle relazioni economiche bilaterali.
 
@@ -97,35 +97,35 @@ Per tale ragione promuoveranno, nei rispettivi ambiti giuridici, la cooperazione
 
 \- le Parti effettueranno scambi di informazioni statistico- metodologiche e finanziarie, nonche' di esperienze nei settori di interesse reciproco anche attraverso seminari, conferenze e gruppi di lavoro.
 
-### ARTICOLO III
+## ARTICOLO III
 
 Verra' esaminata la possibilita' di ricorrere ad operazioni di conversione di quote del debito estero e di analoghi strumenti cosi' come altri sistemi o iniziative destinati a risolvere i problemi dell'indebitamento estero peruviano evitando al tempo stesso possibili effetti interni negativi.
 
-### ARTICOLO IV
+## ARTICOLO IV
 
 L'Italia e il Peru' collaboreranno per promuovere l'incremento dei flussi di investimento tra entrambi i Paesi.
 
 In tale contesto le Parti si impegnano a iniziare negoziati per il raggiungimento di un accordo per la promozione e la protezione degli investimenti e per evitare la doppia imposizione, conformemente agli orientamenti del paragrafo 38 della "Dichiarazione di Roma" in merito alle relazioni tra la Comunita' Europea ed i suoi Stati membri ed i Paesi del Gruppo di Rio.
 
-### ARTICOLO V
+## ARTICOLO V
 
 La parte italiana dichiara la sua favorevole disposizione a favorire, per quanto compatibile con la legislazione italiana e gli impegni assunti con accordi bilaterali e multilaterali, i progetti di privatizzazione o di conversione di imprese pubbliche peruviane in conformita' alla normativa locale all'uopo emanata.
 
 Dette facilitazioni potrebbero consistere nel pubblicizzare attraverso gli organismi competenti le possibilita' di acquisto di quote di partecipazioni azionarie delle imprese, nella consulenza tecnica per i processi di privatizzazione, etc.
 
-### ARTICOLO VI
+## ARTICOLO VI
 
 Ciascuna Parte provvedera', tenuto conto delle rispettive legislazioni, a concedere agli investimenti dell'altra un trattamento non meno favorevole di quello riservato agli investimenti di propri cittadini o di investitori di Paesi Terzi, qualunque sia il trattamento piu' favorevole concesso o da concedersi in base ad accordi bilaterali.
 
 ## COLLABORAZIONE PER LA PROTEZIONE DELL'AMBIENTE
 
-### ARTICOLO VII
+## ARTICOLO VII
 
 Le Parti dedicheranno particolare attenzione all'obiettivo di dare vita ad iniziative legate all'attuazione di programmi nazionali finalizzati alla razionale utilizzazione delle rispettive risorse naturali, nel quadro della protezione dell'ambiente e della conservazione dei rispettivi ecosistemi, anche per mezzo di incentivi all'interscambio di tecnologie non inquinanti e di tecnologie specifiche per la protezione ambientale.
 
 ## LOTTA AL NARCOTRAFFICO
 
-### ARTICOLO VIII
+## ARTICOLO VIII
 
 Le Parti si impegnano a collaborare nella lotta contro il narcotraffico e la tossicodipendenza in tutte le sue fasi:
 
@@ -139,7 +139,7 @@ Tale collaborazione sara' fondata sulla Convenzione delle Nazioni Unite contro i
 
 ## COLLABORAZIONE SCIENTIFICO-CULTURALE
 
-### ARTICOLO IX
+## ARTICOLO IX
 
 La Parte italiana esprime l'intenzione di:
 
@@ -153,7 +153,7 @@ Del pari le Parti riaffermano altresi' il proprio desiderio di conferire impulso
 
 ## COOPERAZIONE ALLO SVILUPPO
 
-### ARTICOLO X
+## ARTICOLO X
 
 Le Parti si adopereranno per:
 
@@ -165,7 +165,7 @@ Le Parti si adopereranno per:
 
 Le Parti riconoscono l'importanza e l'utilita' delle Organizzazioni non governative (ONG) come strumenti di cooperazione allo sviluppo in particolare nei settori di rilevante impatto sociale. La parte peruviana si impegna a favorire l'attivita' delle ONG italiane nel suo territorio nazionale.
 
-### ARTICOLO XI
+## ARTICOLO XI
 
 Ai fini di una conduzione ottimale delle iniziative di cooperazione, le Parti concordano che i progetti di cooperazione, definiti nei programmi triennali e finanziati in tutto o in parte in via bilaterale o multilaterale dal Governo italiano godano di autonomia di gestione secondo modalita' da concordarsi.
 
@@ -179,11 +179,11 @@ Il Governo italiano studiera' forme operative per sostenere fondi peruviani di c
 
 ## MECCANISMI ISTITUZIONALI
 
-### ARTICOLO XII
+## ARTICOLO XII
 
 Per conferire un rinnovato impulso alle relazioni tra i due Paesi, le due Parti intendono realizzare strutture di consultazione a carattere periodico, considerando anche la possibilita' di riunioni di vertice tra il Presidente del Consiglio dei Ministri della Repubblica Italiana ed il Presidente della Repubblica del Peru', accompagnati o sostituiti dai rispettivi Ministri degli Affari Esteri.
 
-### ARTICOLO XIII
+## ARTICOLO XIII
 
 Al fine delle indicazioni di priorita', e per reperire gli strumenti finanziari utilizzabili nonche' esercitare funzioni generali di stimolo, di coordinamento e di controllo della collaborazione, le Parti hanno deciso la creazione di un apposito Comitato che sara' presieduto per periodi alterni da un alto funzionario del Ministero degli Affari Esteri dei due Paesi.
 
@@ -191,15 +191,15 @@ Esso sara' composto per la parte italiana da rappresentanti del Ministero del Te
 
 Per la parte peruviana sara' composto da rappresentanti dei Ministeri dell'Economia, Finanze e Industria, Commercio Interno, Turismo e Integrazione.
 
-### ARTICOLO XIV
+## ARTICOLO XIV
 
 Il Comitato previsto dall'articolo XIII potra' avvalersi del supporto di ogni istituzione od organismo pubblico e privato, nazionale o internazionale, la cui assistenza si ritenesse opportuna per offrire se necessario il suo sostegno tecnico per il coordinamento delle pro- cedure di approvazione dei programmi e dei progetti previsti, nonche' per l'acquisizione di elementi concreti di giudizio circa la validita' delle iniziative.
 
-### ARTICOLO XV
+## ARTICOLO XV
 
 Nessuna delle disposizioni del presente Accordo potra' essere applicata in contrasto con gli impegni delle due Parti derivanti da accordi bilaterali o multilaterali in vigore.
 
-### ARTICOLO XVI
+## ARTICOLO XVI
 
 Il presente Accordo entrera' in vigore al momento dello scambio degli strumenti di ratifica ed avra' la validita' quinquennale, rinnovabile tacitamente, salvo denuncia, con preavviso non inferiore a sei mesi.
 

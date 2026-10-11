@@ -398,7 +398,7 @@ e) gli additivi che hanno proprieta' CMR sotto forma incombusta.
 
 10\. Il Ministero della salute e il Ministero dell'economia e delle finanze notificano alla Commissione europea le misure adottate ai sensi dei commi 1 e 6.
 
-## Capo II - Etichettatura e confezionamento
+### Capo II - Etichettatura e confezionamento
 
 #### Art. 9
 
@@ -636,9 +636,7 @@ Caratteristica di sicurezza
 
 > \- Per i riferimenti dell'art. 1 del d.lgs. n. 188 del 2014 si veda nelle note all'art. 16
 
-## Capo III
-
-### Tabacco per uso orale, vendite a distanza transfrontaliere di prodotti del tabacco e prodotti del tabacco di nuova generazione
+### Capo III - Tabacco per uso orale, vendite a distanza transfrontaliere di prodotti del tabacco e prodotti del tabacco di nuova generazione
 
 #### Art. 18
 
@@ -846,7 +844,7 @@ da fumo a base di erbe
 
 2\. Il Ministero della salute assicura che le informazioni presentate ai sensi del comma 1 siano rese disponibili al pubblico sul proprio sito istituzionale, tenendo in debito conto l'esigenza di tutelare le informazioni commerciali riservate. Gli operatori economici specificano esattamente quali informazioni considerano segreti commerciali.
 
-## Capo II - Misure a tutela dei minori
+### Capo II - Misure a tutela dei minori
 
 #### Art. 24
 

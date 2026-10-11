@@ -37,11 +37,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I
+## Titolo I - Modifiche al codice civile in materia di filiazione
 
-### Modifiche al codice civile in materia di filiazione
-
-#### Art. 1
+### Art. 1
 
 Modifiche all'articolo 87 del codice civile
 
@@ -161,7 +159,7 @@ e) al quarto comma le parole: "o di filiazione naturale" sono soppresse.
 
 > Si applicano le disposizioni dei commi quarto, quinto e sesto dell'articolo 84.".
 
-#### Art. 2
+### Art. 2
 
 Modifiche all'articolo 128 del codice civile
 
@@ -189,7 +187,7 @@ c) il quinto comma e' sostituito dal seguente: "Nell'ipotesi di cui al quarto co
 
 > Nell'ipotesi di cui al quarto comma, rispetto ai figli si applica l'articolo 251.".
 
-#### Art. 3
+### Art. 3
 
 Modifiche all'articolo 147 del codice civile
 
@@ -199,7 +197,7 @@ Modifiche all'articolo 147 del codice civile
 
 Il matrimonio impone ad ambedue i coniugi l'obbligo di mantenere, istruire, educare e assistere moralmente i figli, nel rispetto delle loro capacita', inclinazioni naturali e aspirazioni, secondo quanto previsto dall'articolo 315-bis.".
 
-#### Art. 4
+### Art. 4
 
 Modifiche all'articolo 148 del codice civile
 
@@ -209,7 +207,7 @@ Modifiche all'articolo 148 del codice civile
 
 I coniugi devono adempiere l'obbligo di cui all'articolo 147, secondo quanto previsto dall'articolo 316-bis".
 
-#### Art. 5
+### Art. 5
 
 Modifiche all'articolo 155 del codice civile
 
@@ -219,7 +217,7 @@ Modifiche all'articolo 155 del codice civile
 
 In caso di separazione, riguardo ai figli, si applicano le disposizioni contenute nel Capo II del titolo IX.".
 
-#### Art. 6
+### Art. 6
 
 Modifiche all'articolo 165 del codice civile
 
@@ -233,7 +231,7 @@ Modifiche all'articolo 165 del codice civile
 
 > Il minore ammesso a contrarre matrimonio e' pure capace di prestare il consenso per tutte le relative convenzioni matrimoniali, le quali sono valide se egli e' assistito dai genitori esercenti la responsabilita' genitoriale su di lui o dal tutore o dal curatore speciale nominato a norma dell'articolo 90.".
 
-#### Art. 7
+### Art. 7
 
 Modifiche alle rubriche del libro primo del codice civile
 
@@ -293,7 +291,7 @@ Modifiche alle rubriche del libro primo del codice civile
 
 > Esercizio della responsabilita' genitoriale a seguito di separazione, scioglimento, cessazione degli effetti civili, annullamento, nullita' del matrimonio ovvero all'esito di procedimenti relativi ai figli nati fuori del matrimonio.".
 
-#### Art. 8
+### Art. 8
 
 Modifica all'articolo 231 del codice civile
 
@@ -305,7 +303,7 @@ Paternita' del marito
 
 Il marito e' padre del figlio concepito o nato durante il matrimonio.".
 
-#### Art. 9
+### Art. 9
 
 Modifiche all'articolo 232 del codice civile
 
@@ -321,7 +319,7 @@ Modifiche all'articolo 232 del codice civile
 
 > La presunzione non opera decorsi trecento giorni dalla pronuncia di separazione giudiziale, o dalla omologazione di separazione consensuale, ovvero dalla data della comparizione dei coniugi avanti al giudice quando gli stessi sono stati autorizzati a vivere separatamente nelle more del giudizio di separazione o dei giudizi previsti nel comma precedente.".
 
-#### Art. 10
+### Art. 10
 
 Modifiche all'articolo 234 del codice civile
 
@@ -339,7 +337,7 @@ Modifiche all'articolo 234 del codice civile
 
 > In ogni caso il figlio puo' provare di essere stato concepito durante il matrimonio.".
 
-#### Art. 11
+### Art. 11
 
 Modifiche all'articolo 236 del codice civile
 
@@ -355,7 +353,7 @@ Modifiche all'articolo 236 del codice civile
 
 > Basta, in mancanza di questo titolo, il possesso continuo dello stato di figlio.".
 
-#### Art. 12
+### Art. 12
 
 Modifiche all'articolo 237 del codice civile
 
@@ -385,7 +383,7 @@ che sia stata riconosciuta in detta qualita' dalla famiglia.".
 
 > che sia stata riconosciuta in detta qualita' dalla famiglia.".
 
-#### Art. 13
+### Art. 13
 
 Modifiche all'articolo 238 del codice civile
 
@@ -405,7 +403,7 @@ c) il secondo comma e' abrogato.
 
 > Salvo quanto disposto dagli articoli 128, 234, 239, 240 e 244 nessuno puo' reclamare uno stato contrario a quello che gli attribuiscono l'atto di nascita di figlio legittimo e il possesso di stato conforme all'atto stesso.".
 
-#### Art. 14
+### Art. 14
 
 Modifiche all'articolo 239 del codice civile
 
@@ -423,7 +421,7 @@ L'azione puo' inoltre essere esercitata per reclamare uno stato di figlio confor
 
 L'azione puo', altresi', essere esercitata per reclamare un diverso stato di figlio quando il precedente e' stato comunque rimosso.".
 
-#### Art. 15
+### Art. 15
 
 Modifiche all'articolo 240 del codice civile
 
@@ -435,7 +433,7 @@ Contestazione dello stato di figlio
 
 Lo stato di figlio puo' essere contestato nei casi di cui al primo e secondo comma dell'articolo 239.".
 
-#### Art. 16
+### Art. 16
 
 Modifiche all'articolo 241 del codice civile
 
@@ -455,7 +453,7 @@ c) il secondo comma e' abrogato.
 
 > Quando mancano l'atto di nascita e il possesso di stato, la prova della filiazione puo' darsi in giudizio con ogni mezzo.".
 
-#### Art. 17
+### Art. 17
 
 Articolo 243-bis del codice civile
 
@@ -471,7 +469,7 @@ Chi esercita l'azione e' ammesso a provare che non sussiste rapporto di filiazio
 
 La sola dichiarazione della madre non esclude la paternita'.".
 
-#### Art. 18
+### Art. 18
 
 Modifiche all'articolo 244 del codice civile
 
@@ -493,7 +491,7 @@ L'azione di disconoscimento della paternita' puo' essere proposta dal figlio che
 
 L'azione puo' essere altresi' promossa da un curatore speciale nominato dal giudice, assunte sommarie informazioni, su istanza del figlio minore che ha compiuto i quattordici anni ovvero del pubblico ministero o dell'altro genitore, quando si tratti di figlio di eta' inferiore.".
 
-#### Art. 19
+### Art. 19
 
 Modifiche agli articoli 245 e 246 del codice civile
 
@@ -519,7 +517,7 @@ Se il figlio titolare dell'azione di disconoscimento di paternita' e' morto senz
 
 Si applicano il sesto comma dell'articolo 244 e l'articolo 245.".
 
-#### Art. 20
+### Art. 20
 
 Modifiche all'articolo 248 del codice civile
 
@@ -549,7 +547,7 @@ c) dopo il quarto comma e' aggiunto il seguente: "Si applicano il sesto comma de
 
 > Si applicano il sesto comma dell'articolo 244 e il secondo comma dell'articolo 245.".
 
-#### Art. 21
+### Art. 21
 
 Modifiche all'articolo 249 del codice civile
 
@@ -571,7 +569,7 @@ Nel giudizio devono essere chiamati entrambi i genitori.
 
 Si applicano il sesto comma dell'articolo 244 e il secondo comma dell'articolo 245.".
 
-#### Art. 22
+### Art. 22
 
 Modifiche all'articolo 251 del codice civile
 
@@ -589,7 +587,7 @@ Modifiche all'articolo 251 del codice civile
 
 > Il riconoscimento di una persona minore di eta' e' autorizzato dal giudice.".
 
-#### Art. 23
+### Art. 23
 
 Modifiche all'articolo 252 del codice civile
 
@@ -625,7 +623,7 @@ f) dopo il quarto comma e' inserito il seguente: "In caso di disaccordo tra i ge
 
 > Prima dell'adozione del provvedimento, il giudice dispone l'ascolto dei figli minori che abbiano compiuto gli anni dodici e anche di eta' inferiore ove capaci di discernimento.".
 
-#### Art. 24
+### Art. 24
 
 Modifiche all'articolo 253 del codice civile
 
@@ -639,7 +637,7 @@ Modifiche all'articolo 253 del codice civile
 
 > In nessun caso e' ammesso un riconoscimento in contrasto con lo stato di figlio in cui la persona si trova.".
 
-#### Art. 25
+### Art. 25
 
 Modifiche all'articolo 254 del codice civile
 
@@ -657,7 +655,7 @@ b) il secondo comma e' abrogato.
 
 > Il riconoscimento del figlio nato fuori del matrimonio e' fatto nell'atto di nascita, oppure con una apposita dichiarazione, posteriore alla nascita o al concepimento, davanti ad un ufficiale dello stato civile o in un atto pubblico o in un testamento, qualunque sia la forma di questo.".
 
-#### Art. 26
+### Art. 26
 
 Modifiche all'articolo 255 del codice civile
 
@@ -671,7 +669,7 @@ Modifiche all'articolo 255 del codice civile
 
 > Puo' anche aver luogo il riconoscimento del figlio premorto, in favore dei suoi discendenti.".
 
-#### Art. 27
+### Art. 27
 
 Modifiche all'articolo 262 del codice civile
 
@@ -701,7 +699,7 @@ e) al terzo comma le parole: "l'assunzione del cognome del padre" sono sostituit
 
 > Nel caso di minore eta' del figlio, il giudice decide circal'assunzione del cognome del genitore, previo ascolto del figlio minore, che abbia compiuto gli anni dodici e anche di eta' inferiore ove capace di discernimento.".
 
-#### Art. 28
+### Art. 28
 
 Modifiche all'articolo 263 del codice civile
 
@@ -719,7 +717,7 @@ L'azione di impugnazione da parte dell'autore del riconoscimento deve essere pro
 
 L'azione di impugnazione da parte degli altri legittimati deve essere proposta nel termine di cinque anni che decorrono dal giorno dall'annotazione del riconoscimento sull'atto di nascita. Si applica l'articolo 245.".
 
-#### Art. 29
+### Art. 29
 
 Modifiche all'articolo 264 del codice civile
 
@@ -731,7 +729,7 @@ Impugnazione da parte del figlio minore
 
 L'impugnazione del riconoscimento per difetto di veridicita' puo' essere altresi' promossa da un curatore speciale nominato dal giudice, assunte sommarie informazioni, su istanza del figlio minore che ha compiuto quattordici anni, ovvero del pubblico ministero o dell'altro genitore che abbia validamente riconosciuto il figlio, quando si tratti di figlio di eta' inferiore.".
 
-#### Art. 30
+### Art. 30
 
 Modifiche agli articoli 267 e 269 del codice civile
 
@@ -773,7 +771,7 @@ Si applicano il sesto comma dell'articolo 244 e l'articolo 245.".
 
 > La sola dichiarazione della madre e la sola esistenza di rapporti tra la madre e il preteso padre all'epoca del concepimento non costituiscono prova della paternita'.".
 
-#### Art. 31
+### Art. 31
 
 Modifiche all'articolo 270 del codice civile
 
@@ -799,7 +797,7 @@ c) dopo il terzo comma e' inserito il seguente: "Si applica l'articolo 245.".
 
 > Si applica l'articolo 245.".
 
-#### Art. 32
+### Art. 32
 
 Modifiche all'articolo 273 del codice civile
 
@@ -821,7 +819,7 @@ b) al secondo comma la parola: "sedici" e' sostituita dalla seguente: "quattordi
 
 > Per l'interdetto l'azione puo' essere promossa dal tutore previa autorizzazione del giudice.".
 
-#### Art. 33
+### Art. 33
 
 Modifiche all'articolo 276 del codice civile
 
@@ -839,7 +837,7 @@ Modifiche all'articolo 276 del codice civile
 
 > Alla domanda puo' contraddire chiunque vi abbia interesse.".
 
-#### Art. 34
+### Art. 34
 
 Modifiche all'articolo 277 del codice civile
 
@@ -859,7 +857,7 @@ b) al secondo comma, dopo le parole: "che stima utili per" sono inserite le segu
 
 > Il giudice puo' anche dare i provvedimenti che stima utili per l'affidamento, il mantenimento, l'istruzione e l'educazione del figlio e per la tutela degli interessi patrimoniali di lui.".
 
-#### Art. 35
+### Art. 35
 
 Modifiche all'articolo 278 del codice civile
 
@@ -871,7 +869,7 @@ Autorizzazione all'azione
 
 Nei casi di figlio nato da persone, tra le quali esiste un vincolo di parentela in linea retta all'infinito o in linea collaterale nel secondo grado, ovvero un vincolo di affinita' in linea retta, l'azione per ottenere che sia giudizialmente dichiarata la paternita' o la maternita' non puo' essere promossa senza previa autorizzazione ai sensi dell'articolo 251.".
 
-#### Art. 36
+### Art. 36
 
 Modifiche all'articolo 279 del codice civile
 
@@ -895,7 +893,7 @@ c) al terzo comma la parola: "potesta'" e' sostituita dalle seguenti: "responsab
 
 > L'azione puo' essere promossa nell'interesse del figlio minore da un curatore speciale nominato dal giudice su richiesta del pubblico ministero o del genitore che esercita la responsabilita' genitoriale.".
 
-#### Art. 37
+### Art. 37
 
 Modifiche agli articoli 293 e 297 del codice civile
 
@@ -919,7 +917,7 @@ Modifiche agli articoli 293 e 297 del codice civile
 
 > Parimenti il tribunale puo' pronunziare l'adozione quando e' impossibile ottenere l'assenso per incapacita' o irreperibilita' delle persone chiamate ad esprimerlo.".
 
-#### Art. 38
+### Art. 38
 
 Modifiche all'articolo 299 del codice civile
 
@@ -939,7 +937,7 @@ Modifiche all'articolo 299 del codice civile
 
 > Se l'adozione e' compiuta da una donna maritata, l'adottato, che non sia figlio del marito, assume il cognome della famiglia di lei.".
 
-#### Art. 39
+### Art. 39
 
 Modifiche all'articolo 316 del codice civile
 
@@ -959,7 +957,7 @@ Il genitore che ha riconosciuto il figlio esercita la responsabilita' genitorial
 
 Il genitore che non esercita la responsabilita' genitoriale vigila sull'istruzione, sull'educazione e sulle condizioni di vita del figlio.".
 
-#### Art. 40
+### Art. 40
 
 Articolo 316-bis del codice civile
 
@@ -979,7 +977,7 @@ L'opposizione e' regolata dalle norme relative all'opposizione al decreto di ing
 
 Le parti ed il terzo debitore possono sempre chiedere, con le forme del processo ordinario, la modificazione e la revoca del provvedimento.".
 
-#### Art. 41
+### Art. 41
 
 Modifiche all'articolo 317 del codice civile
 
@@ -999,7 +997,7 @@ b) il secondo comma e' sostituito dal seguente: "La responsabilita' genitoriale 
 
 > La responsabilita' genitoriale di entrambi i genitori non cessa a seguito di separazione, scioglimento, cessazione degli effetti civili, annullamento, nullita' del matrimonio; il suo esercizio, in tali casi, e' regolato dal capo II del presente titolo.".
 
-#### Art. 42
+### Art. 42
 
 Modifiche all'articolo 317-bis del codice civile
 
@@ -1013,7 +1011,7 @@ Gli ascendenti hanno diritto di mantenere rapporti significativi con i nipoti mi
 
 L'ascendente al quale e' impedito l'esercizio di tale diritto puo' ricorrere al giudice del luogo di residenza abituale del minore affinche' siano adottati i provvedimenti piu' idonei nell'esclusivo interesse del minore. Si applica l'articolo 336, secondo comma.".
 
-#### Art. 43
+### Art. 43
 
 Modifiche all'articolo 318 del codice civile
 
@@ -1031,7 +1029,7 @@ b) la parola: "potesta'" e' sostituita dalle seguenti: "responsabilita' genitori
 
 > Il figlio,sino alla maggiore eta' o nell'emancipazione, non puo' abbandonare la casa dei genitori o del genitore che esercita su di lui la responsabilita' genitoriale ne' la dimora da essi assegnatagli. Qualora se ne allontani senza permesso, i genitori possono richiamarlo ricorrendo, se necessario, al giudice tutelare.".
 
-#### Art. 44
+### Art. 44
 
 Modifiche all'articolo 320 del codice civile
 
@@ -1059,7 +1057,7 @@ b) al primo comma dopo le parole: "i figli nati e nascituri" inserire le seguent
 
 > Se sorge conflitto di interessi patrimoniali tra i figli soggetti alla stessa potesta', o tra essi e i genitori o quello di essi che esercita in via esclusiva la responsabilita' genitoriale, il giudice tutelare nomina ai figli un curatore speciale. Se il conflitto sorge tra i figli e uno solo dei genitori esercenti la responsabilita' genitoriale, la rappresentanza dei figli spetta esclusivamente all'altro genitore.".
 
-#### Art. 45
+### Art. 45
 
 Modifiche all'articolo 321 del codice civile
 
@@ -1073,7 +1071,7 @@ Modifiche all'articolo 321 del codice civile
 
 > In tutti i casi in cui i genitori congiuntamente, o quello di essi che esercita in via esclusiva la responsabilita' genitoriale, non possono o non vogliono compiere uno o piu' atti di interesse del figlio, eccedente l'ordinaria amministrazione, il giudice, su richiesta del figlio stesso, del pubblico ministero o di uno dei parenti che vi abbia interesse, e sentiti i genitori, puo' nominare al figlio un curatore speciale autorizzandolo al compimento di tali atti.".
 
-#### Art. 46
+### Art. 46
 
 Modifiche all'articolo 322 del codice civile
 
@@ -1087,7 +1085,7 @@ Modifiche all'articolo 322 del codice civile
 
 > Gli atti compiuti senza osservare le norme dei precedenti articoli del presente titolo possono essere annullati su istanza dei genitori esercenti la responsabilita' genitoriale o del figlio o dei suoi eredi o aventi causa.".
 
-#### Art. 47
+### Art. 47
 
 Modifiche all'articolo 323 del codice civile
 
@@ -1105,7 +1103,7 @@ Modifiche all'articolo 323 del codice civile
 
 > I genitori esercenti la responsabilita' genitoriale non possono diventare cessionari di alcuna ragione o credito verso il minore.".
 
-#### Art. 48
+### Art. 48
 
 Modifiche all'articolo 324 del codice civile
 
@@ -1135,7 +1133,7 @@ b) al primo comma, dopo le parole: "dei beni del figlio", sono inserite le segue
 
 > 4\) i beni pervenuti al figlio per eredita', legato o donazione e accettati nell'interesse del figlio contro la volonta' dei genitori esercenti laresponsabilita' genitoriale. Se uno solo di essi era favorevole all'accettazione, l'usufrutto legale spetta esclusivamente a lui.".
 
-#### Art. 49
+### Art. 49
 
 Modifiche all'articolo 327 del codice civile
 
@@ -1149,7 +1147,7 @@ Modifiche all'articolo 327 del codice civile
 
 > Il genitore che esercita in modo esclusivo la responsabilita' genitoriale e' il solo titolare dell'usufrutto legale.".
 
-#### Art. 50
+### Art. 50
 
 Modifiche all'articolo 330 del codice civile
 
@@ -1165,7 +1163,7 @@ Modifiche all'articolo 330 del codice civile
 
 > In tale caso, per gravi motivi, il giudice puo' ordinare l'allontanamento del figlio dalla residenza familiare ovvero l'allontanamento del genitore o convivente che maltratta o abusa del minore.".
 
-#### Art. 51
+### Art. 51
 
 Modifiche all'articolo 332 del codice civile
 
@@ -1179,7 +1177,7 @@ Modifiche all'articolo 332 del codice civile
 
 > Il giudice puo' reintegrare nella responsabilita' genitoriale il genitore che ne e' decaduto, quando, cessate le ragioni per le quali la decadenza e' stata pronunciata, e' escluso ogni pericolo di pregiudizio per il figlio.".
 
-#### Art. 52
+### Art. 52
 
 Modifiche all'articolo 336 del codice civile
 
@@ -1201,7 +1199,7 @@ Nei casi in cui il provvedimento e' richiesto contro il genitore, questi deve es
 
 > Per i provvedimenti di cui ai commi precedenti, i genitori e il minore sono assistiti da un difensore.".
 
-#### Art. 53
+### Art. 53
 
 Articolo 336-bis del codice civile
 
@@ -1219,7 +1217,7 @@ Prima di procedere all'ascolto il giudice informa il minore della natura del pro
 
 Dell'adempimento e' redatto processo verbale nel quale e' descritto il contegno del minore, ovvero e' effettuata registrazione audio video.".
 
-#### Art. 54
+### Art. 54
 
 Modifiche all'articolo 337 del codice civile
 
@@ -1233,7 +1231,7 @@ Modifiche all'articolo 337 del codice civile
 
 > Il giudice tutelare deve vigilare sull'osservanza delle condizioni che il tribunale abbia stabilito per l'esercizio della responsabilita' genitoriale e per l'amministrazione dei beni.".
 
-#### Art. 55
+### Art. 55
 
 Introduzione degli articoli da 337-bis a 337-octies del codice civile
 
@@ -1313,7 +1311,7 @@ Prima dell'emanazione, anche in via provvisoria, dei provvedimenti di cui all'ar
 
 Qualora ne ravvisi l'opportunita', il giudice, sentite le parti e ottenuto il loro consenso, puo' rinviare l'adozione dei provvedimenti di cui all'articolo 337-ter per consentire che i coniugi, avvalendosi di esperti, tentino una mediazione per raggiungere un accordo, con particolare riferimento alla tutela dell'interesse morale e materiale dei figli.".
 
-#### Art. 56
+### Art. 56
 
 Modifiche all'articolo 343 del codice civile
 
@@ -1329,7 +1327,7 @@ Modifiche all'articolo 343 del codice civile
 
 > Se il tutore e' domiciliato o trasferisce il domicilio in altro circondario, la tutela puo' essere ivi trasferita con decreto del tribunale.".
 
-#### Art. 57
+### Art. 57
 
 Modifiche all'articolo 348 del codice civile
 
@@ -1353,7 +1351,7 @@ b) il terzo comma e' sostituito dal seguente: "Il giudice, prima di procedere al
 
 > In ogni caso la scelta deve cadere su persona idonea all'ufficio, di ineccepibile condotta, la quale dia affidamento di educare e istruire il minore conformemente a quanto e' prescritto nell'articolo 147.".
 
-#### Art. 58
+### Art. 58
 
 Modifiche all'articolo 350 del codice civile
 
@@ -1377,7 +1375,7 @@ Modifiche all'articolo 350 del codice civile
 
 > 5\) il fallito che non e' stato cancellato dal registro dei falliti.".
 
-#### Art. 59
+### Art. 59
 
 Modifiche all'articolo 356 del codice civile
 
@@ -1395,7 +1393,7 @@ Modifiche all'articolo 356 del codice civile
 
 > Si applica in ogni caso al curatore speciale l'articolo 384.".
 
-#### Art. 60
+### Art. 60
 
 Modifiche all'articolo 371 del codice civile
 
@@ -1419,7 +1417,7 @@ Modifiche all'articolo 371 del codice civile
 
 > Nel caso in cui il giudice stimi evidentemente utile per il minore la continuazione dell'esercizio dell'impresa, il tutore deve domandare l'autorizzazione del tribunale. In pendenza della deliberazione del tribunale il giudice tutelare puo' consentire l'esercizio provvisorio dell'impresa.".
 
-#### Art. 61
+### Art. 61
 
 Modifiche all'articolo 401 del codice civile
 
@@ -1435,7 +1433,7 @@ Modifiche all'articolo 401 del codice civile
 
 > Le stesse disposizioni si applicano ai minori ricoverati in un istituto di pubblica assistenza o assistiti da questo per il mantenimento, l'educazione o la rieducazione, ovvero in stato di abbandono materiale o morale.".
 
-#### Art. 62
+### Art. 62
 
 Modifiche all'articolo 402 del codice civile
 
@@ -1451,7 +1449,7 @@ Modifiche all'articolo 402 del codice civile
 
 > Nel caso in cui il genitore riprenda l'esercizio della responsabilita' genitoriale, l'istituto deve chiedere al giudice tutelare di fissare eventualmente limiti o condizioni a tale esercizio.".
 
-#### Art. 63
+### Art. 63
 
 Modifiche all'articolo 417 del codice civile
 
@@ -1467,7 +1465,7 @@ Modifiche all'articolo 417 del codice civile
 
 > Se l'interdicendo o l'inabilitando si trova sotto la responsabilita' genitoriale o ha per curatore uno dei genitori, l'interdizione o l'inabilitazione non puo' essere promossa che su istanza del genitore medesimo o del pubblico ministero.".
 
-#### Art. 64
+### Art. 64
 
 Modifiche all'articolo 433 del codice civile
 
@@ -1497,7 +1495,7 @@ b) il numero 3) e' sostituito dal seguente: "3) i genitori e, in loro mancanza, 
 
 > 6\) i fratelli e le sorelle germani o unilaterali, con precedenza dei germani sugli unilaterali.".
 
-#### Art. 65
+### Art. 65
 
 Modifiche all'articolo 436 del codice civile
 
@@ -1511,7 +1509,7 @@ Modifiche all'articolo 436 del codice civile
 
 > L'adottante deve gli alimenti al figlio adottivo con precedenza sui genitori di lui.".
 
-#### Art. 66
+### Art. 66
 
 Modifiche all'articolo 448-bis del codice civile
 
@@ -1525,7 +1523,7 @@ Modifiche all'articolo 448-bis del codice civile
 
 > Il figlio, anche adottivo, e, in sua mancanza, i discendenti prossimi non sono tenuti all'adempimento dell'obbligo di prestare gli alimenti al genitore nei confronti del quale e' stata pronunciata la decadenza dalla responsabilita' genitoriale e, per i fatti che non integrano i casi di indegnita' di cui all'articolo 463, possono escluderlo dalla successione.".
 
-#### Art. 67
+### Art. 67
 
 Modifiche all'articolo 467 del codice civile
 
@@ -1541,7 +1539,7 @@ Modifiche all'articolo 467 del codice civile
 
 > Si ha rappresentazione nella successione testamentaria quando il testatore non ha provveduto per il caso in cui l'istituto non possa o non voglia accettare l'eredita' o il legato, e sempre che non si tratti di legato di usufrutto o di altro diritto di natura personale.".
 
-#### Art. 68
+### Art. 68
 
 Modifiche all'articolo 468 del codice civile
 
@@ -1557,7 +1555,7 @@ Modifiche all'articolo 468 del codice civile
 
 > I discendenti possono succedere per rappresentazione anche se hanno rinunziato all'eredita' della persona in luogo della quale subentrano, o sono incapaci o indegni di succedere rispetto a questa.".
 
-#### Art. 69
+### Art. 69
 
 Modifiche all'articolo 480 del codice civile
 
@@ -1575,7 +1573,7 @@ Modifiche all'articolo 480 del codice civile
 
 > Il termine non corre per i chiamati ulteriori, se vi e' stata accettazione da parte di precedenti chiamati e successivamente il loro acquisto ereditario e' venuto meno.".
 
-#### Art. 70
+### Art. 70
 
 Modifiche all'articolo 536 del codice civile
 
@@ -1599,7 +1597,7 @@ c) al terzo comma le parole: "legittimi o naturali" ovunque presenti sono soppre
 
 > A favore dei discendenti dei figli, i quali vengono alla successione in luogo di questi, la legge riserva gli stessi diritti che sono riservati ai figli.".
 
-#### Art. 71
+### Art. 71
 
 Modifiche all'articolo 537 del codice civile
 
@@ -1623,7 +1621,7 @@ d) il terzo comma e' abrogato.
 
 > Se i figli sono piu', e' loro riservata la quota dei due terzi, da dividersi in parti uguali tra tutti i figli.".
 
-#### Art. 72
+### Art. 72
 
 Modifiche all'articolo 538 del codice civile
 
@@ -1643,7 +1641,7 @@ b) al primo comma le parole: "legittimi ne' naturali" e la parola: "legittimi" s
 
 > In caso di pluralita' di ascendenti, la riserva e' ripartita tra i medesimi secondo i criteri previsti dall'articolo 569.".
 
-#### Art. 73
+### Art. 73
 
 Modifiche all'articolo 542 del codice civile
 
@@ -1665,7 +1663,7 @@ c) il terzo comma e' abrogato.
 
 > Quando i figli, sono piu' di uno, ad essi e' complessivamente riservata la meta' del patrimonio e al coniuge spetta un quarto del patrimonio del defunto. La divisione tra tutti i figli, e' effettuata in parti uguali.".
 
-#### Art. 74
+### Art. 74
 
 Modifiche all'articolo 544 del codice civile
 
@@ -1685,7 +1683,7 @@ b) al primo comma le parole: "ne' figli legittimi ne' figli naturali" sono sosti
 
 > In caso di pluralita' di ascendenti, la quota di riserva ad essi attribuita ai sensi del precedente comma e' ripartita tra i medesimi secondo i criteri previsti dall'articolo 569.".
 
-#### Art. 75
+### Art. 75
 
 Modifiche all'articolo 565 del codice civile
 
@@ -1699,7 +1697,7 @@ Modifiche all'articolo 565 del codice civile
 
 > Nella successione legittima l'eredita' si devolve al coniuge, ai discendenti, agli ascendenti, ai collaterali, agli altri parenti e allo Stato, nell'ordine e secondo le regole stabilite nel presente titolo.".
 
-#### Art. 76
+### Art. 76
 
 Modifiche all'articolo 566 del codice civile
 
@@ -1711,7 +1709,7 @@ Successione dei figli
 
 Al padre ed alla madre succedono i figli, in parti uguali.".
 
-#### Art. 77
+### Art. 77
 
 Modifiche all'articolo 567 del codice civile
 
@@ -1731,7 +1729,7 @@ b) il primo comma e' sostituito dal seguente: "Ai figli sono equiparati gli adot
 
 > I figli adottivi sono estranei alla successione dei parenti dell'adottante.".
 
-#### Art. 78
+### Art. 78
 
 Modifiche all'articolo 573 del codice civile
 
@@ -1745,7 +1743,7 @@ Modifiche all'articolo 573 del codice civile
 
 > Le disposizioni relative alla successione dei figli nati fuori del matrimonio si applicano quando la filiazione e' stata riconosciuta o giudizialmente dichiarata, salvo quanto e' disposto dall'articolo 580.".
 
-#### Art. 79
+### Art. 79
 
 Modifiche all'articolo 580 del codice civile
 
@@ -1765,7 +1763,7 @@ b) la parola: "naturali", ovunque presente, e' sostituita dalle seguenti: "nati 
 
 > I figli nati fuori dal matrimonio hanno diritto di ottenere su loro richiesta la capitalizzazione dell'assegno loro spettante a norma del comma precedente, in denaro, ovvero, a scelta degli eredi legittimi, in beni ereditari.".
 
-#### Art. 80
+### Art. 80
 
 Modifiche all'articolo 581 del codice civile
 
@@ -1779,7 +1777,7 @@ Modifiche all'articolo 581 del codice civile
 
 > Quando con il coniuge concorrono figli, il coniuge ha diritto alla meta' dell'eredita', se alla successione concorre un solo figlio, e ad un terzo negli altri casi.".
 
-#### Art. 81
+### Art. 81
 
 Modifiche all'articolo 582 del codice civile
 
@@ -1797,7 +1795,7 @@ b) al primo comma la parola: "legittimi" e' soppressa.
 
 > Al coniuge sono devoluti i due terzi dell'eredita' se egli concorre con ascendenti o con fratelli e sorelle anche se unilaterali, ovvero con gli uni e con gli altri. In quest'ultimo caso la parte residua e' devoluta agli ascendenti, ai fratelli e alle sorelle, secondo le disposizioni dell'articolo 571, salvo in ogni caso agli ascendenti il diritto a un quarto dell'eredita'.".
 
-#### Art. 82
+### Art. 82
 
 Modifiche all'articolo 583 del codice civile
 
@@ -1811,7 +1809,7 @@ Modifiche all'articolo 583 del codice civile
 
 > In mancanza di figli, di ascendenti, di fratelli o sorelle, al coniuge si devolve tutta l'eredita'.".
 
-#### Art. 83
+### Art. 83
 
 Modifiche all'articolo 594 del codice civile
 
@@ -1829,7 +1827,7 @@ b) la parola: "naturali" e' sostituita dalle seguenti: "nati fuori del matrimoni
 
 > Gli eredi, i legatari e i donatari sono tenuti, in proporzione a quanto hanno ricevuto, a corrispondere ai figli nati fuori del matrimonio di cui all'articolo 279 un assegno vitalizio nei limiti stabiliti dall'articolo 580, se il genitore non ha disposto per donazione o testamento in favore dei figli medesimi. Se il genitore ha disposto in loro favore, essi possono rinunziare alla disposizione e chiedere l'assegno.".
 
-#### Art. 84
+### Art. 84
 
 Modifiche all'articolo 643 del codice civile
 
@@ -1845,7 +1843,7 @@ Modifiche all'articolo 643 del codice civile
 
 > Se e' chiamato un concepito, l'amministrazione spetta al padre e alla madre.".
 
-#### Art. 85
+### Art. 85
 
 Modifiche all'articolo 687 del codice civile
 
@@ -1869,7 +1867,7 @@ b) il secondo comma e' sostituito dal seguente: "La revocazione ha luogo anche s
 
 > Se i figli o discendenti non vengono alla successione e non si fa luogo a rappresentazione, la disposizione ha il suo effetto.".
 
-#### Art. 86
+### Art. 86
 
 Modifiche all'articolo 715 del codice civile
 
@@ -1889,7 +1887,7 @@ Modifiche all'articolo 715 del codice civile
 
 > Se i nascituri non concepiti sono istituiti senza determinazione di quote, l'autorita' giudiziaria puo' attribuire agli altri coeredi tutti i beni ereditari o parte di essi, secondo le circostanze, disponendo le opportune cautele nell'interesse dei nascituri.".
 
-#### Art. 87
+### Art. 87
 
 Modifiche all'articolo 737 del codice civile
 
@@ -1905,7 +1903,7 @@ Modifiche all'articolo 737 del codice civile
 
 > La dispensa da collazione non produce effetto se non nei limiti della quota disponibile.".
 
-#### Art. 88
+### Art. 88
 
 Modifiche all'articolo 803 del codice civile
 
@@ -1921,7 +1919,7 @@ Possono inoltre essere revocate per il riconoscimento di un figlio, salvo che si
 
 La revocazione puo' essere domandata anche se il figlio del donante era gia' concepito al tempo della donazione.".
 
-#### Art. 89
+### Art. 89
 
 Modifiche all'articolo 804 del codice civile
 
@@ -1937,7 +1935,7 @@ Modifiche all'articolo 804 del codice civile
 
 > Il donante non puo' proporre o proseguire l'azione dopo la morte del figlio o del discendente.".
 
-#### Art. 90
+### Art. 90
 
 Modifiche all'articolo 1023 del codice civile
 
@@ -1951,7 +1949,7 @@ Modifiche all'articolo 1023 del codice civile
 
 > Nella famiglia si comprendono anche i figli nati dopo che e' cominciato il diritto d'uso o d'abitazione, quantunque nel tempo in cui il diritto e' sorto la persona non avesse contratto matrimonio. Si comprendono inoltre i figli adottivi e i figli riconosciuti, anche se l'adozione o il riconoscimento sono seguiti dopo che il diritto era gia' sorto. Si comprendono infine le persone che convivono con il titolare del diritto per prestare a lui o alla sua famiglia i loro servizi.".
 
-#### Art. 91
+### Art. 91
 
 Modifiche all'articolo 1916 del codice civile
 
@@ -1971,7 +1969,7 @@ Modifiche all'articolo 1916 del codice civile
 
 > Le disposizioni di questo articolo si applicano anche alle assicurazioni contro gli infortuni sul lavoro e contro le disgrazie accidentali.".
 
-#### Art. 92
+### Art. 92
 
 Modifiche all'articolo 2941 del codice civile
 
@@ -2001,11 +1999,9 @@ Modifiche all'articolo 2941 del codice civile
 
 > 8\) tra il debitore che ha dolosamente occultato l'esistenza del debito e il creditore, finche' il dolo non sia stato scoperto.".
 
-## Titolo II
+## Titolo II - Modifiche ai codici penale, di procedura penale e di procedura civile in materia di filiazione
 
-### Modifiche ai codici penale, di procedura penale e di procedura civile - in materia di filiazione
-
-#### Art. 93
+### Art. 93
 
 Modifiche al codice penale in materia di filiazione
 
@@ -2317,7 +2313,7 @@ u) all'articolo 609-nonies, primo comma, numero 1), le parole: "potesta' del gen
 
 > Chiunque viola le disposizioni previste dal terzo comma e' soggetto alla pena della reclusione fino a tre anni .".
 
-#### Art. 94
+### Art. 94
 
 Modifiche al codice di procedura penale in materia di filiazione
 
@@ -2333,7 +2329,7 @@ Modifiche al codice di procedura penale in materia di filiazione
 
 > 2\. Qualora si proceda per un delitto contro la liberta' sessuale, ovvero per uno dei delitti previsti dagli articoli 530 e 571 del codice penale, commesso in danno di prossimi congiunti, la misura puo' essere disposta anche al di fuori dei limiti di pena previsti dall'articolo 287 comma 1.".
 
-#### Art. 95
+### Art. 95
 
 Modifiche al codice di procedura civile in materia di filiazione
 
@@ -2373,11 +2369,9 @@ b) all'articolo 709-ter, primo comma, la parola: "potesta'" e' sostituita dalla 
 
 > I provvedimenti assunti dal giudice del procedimento sono impugnabili nei modi ordinari.".
 
-## Titolo III
+## Titolo III - Modifiche alle leggi speciali in materia di filiazione
 
-### Modifiche alle leggi speciali in materia di filiazione
-
-#### Art. 96
+### Art. 96
 
 Modifiche al regio decreto 30 marzo 1942, n. 318
 
@@ -2457,7 +2451,7 @@ I divieti contenuti nei numeri 6, 7, 8 e 9 dell'articolo 87 del codice civile so
 
 > I giudizi relativi alla dichiarazione di paternita' o di maternita' proposti prima dell'1 luglio 1939 non possono essere proseguiti se non e' intervenuto il decreto contemplato dall'articolo 274 del codice stesso, salvo il caso che si sia gia' ottenuta una sentenza anche se interlocutoria.".
 
-#### Art. 97
+### Art. 97
 
 Modifiche alla legge 21 novembre 1967, n. 1185
 
@@ -2485,7 +2479,7 @@ Modifiche alla legge 21 novembre 1967, n. 1185
 
 > g) coloro che, essendo residenti all'estero e richiedendo il passaporto dopo il 1° gennaio dell'anno in cui compiono il 20° anno di eta', non abbiano regolarizzato la loro posizione in rapporto all'obbligo del servizio militare.".
 
-#### Art. 98
+### Art. 98
 
 Modifiche alla legge 1° dicembre 1970, n. 898
 
@@ -2533,7 +2527,7 @@ c) all'articolo 12, la parola: "naturale" e' sostituita dalle seguenti: "nato fu
 
 > 1\. Le disposizioni del codice civile in tema di riconoscimento del figlio nato fuori del matrimonio si applicano, per quanto di ragione, anche nel caso di scioglimento o di cessazione degli effetti civili del matrimonio.".
 
-#### Art. 99
+### Art. 99
 
 Modifiche alla legge 22 maggio 1978, n. 194
 
@@ -2551,7 +2545,7 @@ Modifiche alla legge 22 maggio 1978, n. 194
 
 > Ai fini dell'interruzione della gravidanza dopo i primi novanta giorni, si applicano anche alla minore di diciotto anni le procedure di cui all'articolo 7, indipendentemente dall'assenso di chi esercita la responsabilita' genitoriale o la tutela.".
 
-#### Art. 100
+### Art. 100
 
 Modifiche alla legge 4 maggio 1983, n. 184
 
@@ -2923,7 +2917,7 @@ ee) dopo l'articolo 79 e' inserito il seguente:
 
 > Nel caso in cui vi siano fondati motivi per ritenere che ricorrano gli estremi dell'impugnazione del riconoscimento il tribunale per i minorenni assume, anche d'ufficio, i provvedimenti di cui all' articolo 264, secondo comma, del codice civile.".
 
-#### Art. 101
+### Art. 101
 
 Modifiche alla legge 31 maggio 1995, n. 218
 
@@ -2983,7 +2977,7 @@ e) all'articolo 38, primo comma, la parola: "legittimo" e' soppressa.
 
 > 2\. E' in ogni caso salva l'applicazione della legge nazionale dell'adottando maggiorenne per la disciplina dei consensi che essa eventualmente richieda.".
 
-#### Art. 102
+### Art. 102
 
 Modifiche alla legge 19 febbraio 2004, n. 40
 
@@ -2997,7 +2991,7 @@ Modifiche alla legge 19 febbraio 2004, n. 40
 
 > 1\. I nati a seguito dell'applicazione delle tecniche di procreazione medicalmente assistita hanno lo stato di figli nati nel matrimonio o di figli riconosciuti della coppia che ha espresso la volonta' di ricorrere alle tecniche medesime ai sensi dell'articolo 6.".
 
-#### Art. 103
+### Art. 103
 
 Modifiche al decreto legislativo 3 febbraio 2011, n. 71
 
@@ -3023,11 +3017,9 @@ d) il secondo comma e' abrogato.
 
 > 2\. abrogato.".
 
-## Titolo IV
+## Titolo IV - Disposizioni transitorie e finali
 
-### Disposizioni transitorie e finali
-
-#### Art. 104
+### Art. 104
 
 Disposizioni transitorie
 
@@ -3091,7 +3083,7 @@ Disposizioni transitorie
 
 > Per i commi secondo, terzo e quarto dell'articolo 267 del codice civile, vedi nelle note all'articolo 30 del presente decreto.
 
-#### Art. 105
+### Art. 105
 
 Sostituzione termini
 
@@ -3103,7 +3095,7 @@ Sostituzione termini
 
 4\. Le parole: "figli legittimati", "figlio legittimato", "legittimato", "legittimati" ovunque presenti in tutta la legislazione vigente, sono soppresse.
 
-#### Art. 106
+### Art. 106
 
 Abrogazioni
 
@@ -3121,7 +3113,7 @@ c) l'articolo 34 della legge 31 maggio 1995, n. 218.
 
 > \- La legge 31 maggio 1995, n.218, reca: "Riforma del sistema italiano di diritto internazionale privato".
 
-#### Art. 107
+### Art. 107
 
 Clausola di invarianza finanziaria
 
@@ -3129,7 +3121,7 @@ Clausola di invarianza finanziaria
 
 2\. Le Amministrazioni interessate provvedono ai compiti di cui al presente decreto con le risorse umane, strumentali e finanziarie previste a legislazione vigente.
 
-#### Art. 108
+### Art. 108
 
 Entrata in vigore
 

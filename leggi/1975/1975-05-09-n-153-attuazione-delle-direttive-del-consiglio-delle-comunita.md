@@ -28,7 +28,7 @@ la seguente legge:
 
 ## TITOLO I - OBIETTIVI DELLA LEGGE
 
-###### Art. 1
+#### Art. 1
 
 La presente legge ha lo scopo di dare piena applicazione alle direttive del Consiglio delle Comunita' europee numeri 72/159/CEE; 72/160/CEE e 72/161/CEE del 17 aprile 1972. E' istituito, quindi, un regime di aiuti allo scopo di:
 
@@ -38,7 +38,7 @@ b) favorire, attraverso una adeguata mobilita' dei terreni, il miglioramento del
 
 c) adeguare il livello di formazione generale-tecnica ed economica della popolazione agricola attiva attraverso la informazione socio-economica e la qualificazione professionale delle persone che lavorano in agricoltura.
 
-###### Art. 2
+#### Art. 2
 
 Ai sensi dell'articolo 117 della Costituzione, le regioni a statuto ordinario possono con proprie leggi regolare la materia di attuazione delle direttive del Consiglio della CEE numeri 159, 160 e 161 del 17 aprile 1972 per adattarla alle esigenze dei singoli territori regionali o zone agricole purche' in ogni caso siano rispettati i limiti stabiliti dalle direttive comunitarie stesse nonche' dai principi fondamentali della presente legge.
 
@@ -52,7 +52,7 @@ Le disposizioni adottate dalle regioni ai sensi della presente legge saranno com
 
 Fino a quando le regioni a statuto speciale ed a statuto ordinario e le province di Trento e Bolzano non avranno provveduto con le proprie leggi, ai sensi del precedente quarto comma, si applicano nei loro territori le disposizioni della presente legge, fatte salve le disposizioni gia' contenute in leggi regionali vigenti purche' non in contrasto con i limiti stabiliti rispettivamente per le regioni a statuto speciale e per le regioni a statuto ordinario nel secondo e nel terzo comma del presente articolo.
 
-###### Art. 3
+#### Art. 3
 
 Per la concessione delle provvidenze previste dalla presente legge, i relativi provvedimenti e misure, ed in particolare i piani di sviluppo aziendale di cui al titolo III, dovranno armonizzarsi con i programmi regionali d'intervento e piani zonali e, in mancanza, con le direttive all'uopo formulate dalle regioni.
 
@@ -60,7 +60,7 @@ Le regioni dovranno armonizzare i programmi regionali di intervento e le loro di
 
 I programmi regionali di intervento o, in mancanza, le direttive regionali, dovranno comprendere tutti gli elementi atti ad illustrare il nesso esistente sul piano regionale tra gli interventi previsti e la situazione economica nonche' le caratteristiche delle strutture agrarie.
 
-###### Art. 4
+#### Art. 4
 
 I fondi di cui agli articoli 6, lettera a), c) e d), 7, lettera b), 8, lettere a), c), d), e) e 10 della presente legge sono ripartiti tra le regioni con deliberazione del CIPE su proposta del Ministro per l'agricoltura e le foreste sentita la commissione interregionale di cui all'articolo 13 della legge 16 maggio 1970, n. 281.
 
@@ -70,13 +70,13 @@ I criteri di ripartizione saranno periodicamente rivisti dal CIPE, su proposta d
 
 Con la legge di approvazione dello stato di previsione della spesa del Ministero dell'agricoltura e delle foreste per gli anni dal 1975 al 1978 potranno essere approvate variazioni compensative alle autorizzazioni di spesa previste dalla presente legge per i relativi esercizi.
 
-###### Art. 5
+#### Art. 5
 
 ((Le regioni, ivi comprese quelle a statuto speciale, nonche' le province autonome di Trento e di Bolzano, potranno apportare, all'occorrenza, variazioni alla destinazione dei fondi loro assegnati, nell'ambito delle finalita' indicate dalla presente legge)).
 
 ## Titolo II - AUTORIZZAZIONE DI SPESA
 
-###### Art. 6
+#### Art. 6
 
 Per l'ammodernamento ed il potenziamento delle strutture agricole, di cui al titolo III della presente legge, sono autorizzate le seguenti spese da iscrivere nello stato di previsione della spesa del Ministero dell'agricoltura e delle foreste:
 
@@ -90,7 +90,7 @@ d) lire 4 miliardi per l'esercizio 1974, lire 8,7 miliardi per l'esercizio 1975,
 
 e) lire 500 milioni per l'esercizio 1974, lire 1 miliardo per ciascuno degli esercizi dal 1975 al 1978 per la concessione degli aiuti di avviamento alle associazioni di cui all'articolo 30.
 
-###### Art. 7
+#### Art. 7
 
 Per gli aiuti previsti al titolo IV della presente legge relativi all'incoraggiamento alla cessazione dell'attivita' agricola ed alla destinazione della superficie agricola utilizzata a scopi di miglioramento delle strutture, sono autorizzate le seguenti spese da iscrivere nello stato di previsione della spesa del Ministero dell'agricoltura e delle foreste:
 
@@ -100,7 +100,7 @@ b) lire 8 miliardi per l'esercizio 1974, lire 12 miliardi per l'esercizio 1975 e
 
 c) lire 10 miliardi per l'esercizio 1974 e lire 15 miliardi per ciascuno degli esercizi dal 1975 al 1978 quale anticipazione alla sezione speciale del fondo di rotazione, di cui agli articoli 16 e seguenti della legge 26 maggio 1965, n. 590, istituita dall'articolo 47 della presente legge per l'acquisto e la gestione di terreni e il pagamento dei canoni di affitto delle terre acquisite dagli organismi fondiari.
 
-###### Art. 8
+#### Art. 8
 
 Per le misure previste al titolo V della presente legge relative alla informazione socio-economica ed alla qualificazione Professionale delle persone che lavorano nell'agricoltura, sono autorizzate le seguenti spese da iscrivere nello stato di previsione della spesa del Ministero dell'agricoltura e delle foreste:
 
@@ -114,11 +114,11 @@ d) lire 2 miliardi per l'esercizio 1974, lire 4 miliardi per l'esercizio 1975, l
 
 e) lire 300 milioni per l'esercizio 1974, lire 700 milioni per ciascuno degli esercizi dal 1975 al 1978 per le spese concernenti la diramazione dei bollettini regionali previsti dall'articolo 54.
 
-###### Art. 9
+#### Art. 9
 
 E' autorizzata la spesa di lire 900 milioni per l'esercizio 1974 e lire 1.000 milioni per ciascuno degli esercizi dal 1975 al 1978 per la pubblicazione di bollettini di cui all'articolo 54, terzo comma, della presente legge, per la predisposizione e la presentazione al Parlamento, da parte del Ministero dell'agricoltura e delle foreste, della relazione di cui all'articolo 62, nonche' per le attivita' del Ministero di cui agli articoli 17, penultimo comma, 26, ultimo comma, e 27.
 
-###### Art. 10
+#### Art. 10
 
 E' autorizzata la spesa di lire 800 milioni per ciascuno degli esercizi dal 1974 al 1978 per gli oneri di carattere generale derivanti dall'applicazione della presente legge.
 
@@ -130,11 +130,9 @@ Il Ministro per il tesoro e' autorizzato ad apportare, con propri decreti, le oc
 
 ## TITOLO III - AMMODERNAMENTO E POTENZIAMENTO DELLE STRUTTURE AGRICOLE
 
-### Sezione I
+### Sezione I - INTERVENTI PER L'ATTUAZIONE DEI PIANI DI SVILUPPO
 
-#### INTERVENTI PER L'ATTUAZIONE DEI PIANI DI SVILUPPO
-
-###### Art. 11
+#### Art. 11
 
 Le provvidenze di cui al presente titolo si applicano alle aziende agricole, singole ed associate, che siano in grado di conseguire attraverso una piu' razionale ed efficiente organizzazione dei fattori della produzione, anche sotto forma di impianti e servizi comuni, adeguati livelli di reddito e si trovino nelle condizioni appresso indicate:
 
@@ -144,11 +142,11 @@ b) abbiano, al momento della presentazione della domanda, una produzione tale da
 
 Le misure previste dal presente titolo dovranno applicarsi con preferenza alle imprese familiari coltivatrici singole ed associate.
 
-###### Art. 12
+#### Art. 12
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MARZO 2004, N.99)).
 
-###### Art. 13
+#### Art. 13
 
 Possono beneficiare delle provvidenze previste dal presente titolo, oltre alle persone fisiche: le cooperative agricole, costituite ai sensi della legislazione sulla cooperazione; le associazioni di imprenditori agricoli che presentino un piano comune di sviluppo per la ristrutturazione e l'ammodernamento aziendale o interaziendale anche per la conduzione in comune delle aziende, sempreche' i soci ritraggano dalla attivita' aziendale ed associata almeno il 50 per cento del proprio reddito ed impieghino nella attivita' aziendale ed in quella associata almeno il 50 per cento del proprio tempo di lavoro.
 
@@ -158,7 +156,7 @@ Per i fondi concessi a mezzadria e colonia le provvidenze sono corrisposte al me
 
 Sempreche' il piano di sviluppo sia stato approvato dalla regione, il piano puo' essere attuato indipendentemente dall'assenso del concedente, riconoscendo al mezzadro e al colono la direzione per l'attuazione del piano nonche' le facolta' per i miglioramenti che sono riconosciuti all'affittuario dalla legge 11 febbraio 1971, n. 11.
 
-###### Art. 14
+#### Art. 14
 
 Il piano di sviluppo aziendale, per essere ammesso ai benefici previsti dalla presente legge, dovra' essere impostato in modo tale da dimostrare che l'azienda agricola in via di ammodernamento, una volta attuato il piano medesimo, sara' in grado di raggiungere, in linea di massima, per una o due unita' lavorativa uomo (ULU) almeno un reddito comparabile a quello di cui beneficiano i lavoratori di altre attivita' nella stessa zona secondo gli elementi di valutazione stabiliti dall'articolo 17.
 
@@ -182,7 +180,7 @@ La durata del piano di regola non puo' eccedere i sei anni.
 
 Nei territori del Mezzogiorno e nelle zone depresse, ivi comprese le zone classificate montane, delimitati ai sensi delle vigenti disposizioni, la durata del piano puo' essere prolungata fino ad un massimo di nove anni.
 
-###### Art. 15
+#### Art. 15
 
 Gli imprenditori agricoli, i cui piani di sviluppo siano stati ritenuti conformi alle disposizioni della presente legge e quindi approvati, possono beneficiare delle seguenti provvidenze:
 
@@ -200,13 +198,13 @@ L'imprenditore che intende presentare un piano di sviluppo basato anche sull'acq
 
 Gli enti di sviluppo agricolo assistono gli imprenditori agricoli, che ne facciano richiesta, e senza oneri per gli interessati, ai fini degli adempimenti necessari per l'ottenimento delle provvidenze di cui al presente articolo.
 
-###### Art. 16
+#### Art. 16
 
 Le domande intese ad ottenere i benefici previsti dalla presente legge e la documentazione relativa sono esenti da bollo.
 
 Le disposizioni contenute nell'articolo unico del regio decreto-legge 19 marzo 1931, n. 693, si applicano anche alle spese e ad ogni altro compenso spettante ai notai a qualsiasi titolo per le operazioni di credito agrario.
 
-###### Art. 17
+#### Art. 17
 
 Come livelli di comparabilita' fra gli addetti agricoli e quelli operanti nei settori extra-agricoli si assumono, con riferimento alle singole province, le retribuzioni medie dei lavoratori extra-agricoli (al netto degli oneri sociali) determinate dall'ISTAT.
 
@@ -236,7 +234,7 @@ A tal fine il Ministero dell'agricoltura e delle foreste stipulera' con l'istitu
 
 I modelli avranno valore per un triennio dalla data della loro pubblicazione.
 
-###### Art. 18
+#### Art. 18
 
 Il concorso nel pagamento degli interessi riguarda la totalita' dei mutui, comprensivi degli interessi di preammortamento, contratti dall'imprenditore il cui piano di sviluppo sia stato approvato, con gli istituti di credito autorizzati all'esercizio del credito agrario di miglioramento, ai sensi delle vigenti disposizioni di legge, fino alla concorrenza di un importo ((non superiore a 42.060 unita' di conto)) per ogni unita' lavorativa uomo di 2.300 ore lavorative annue impiegata nell'azienda.
 
@@ -246,7 +244,7 @@ In ogni caso l'onere a carico del beneficiario non puo' essere inferiore al 3 pe
 
 La quota di concorso per ciascun mutuo e' corrisposta direttamente agli istituti mutuanti in misura costante alla scadenza delle annualita' o semestralita' relative. Il concorso negli interessi e' ragguagliato alla differenza tra la rata di ammortamento, calcolata sull'importo concesso a mutuo maggiorato degli interessi di preammortamento, al saggio totale di interesse praticato dall'istituto di credito, e quella determinata al tasso di favore, ottenuto deducendo da detto saggio totale il concorso nella misura sopra determinata. Consequentemente il mutuatario corrispondera' all'istituto mutuante la differenza tra l'annualita' o semestralita' dovute per l'estinzione del mutuo e la rata costante del concorso negli interessi.
 
-###### Art. 19
+#### Art. 19
 
 Il concorso di cui al precedente articolo e' concesso per le operazioni di finanziamento effettuate dagli istituti esercenti il credito agrario di miglioramento ai sensi della legge 5 luglio 1928, n. 1760, e successive modificazioni ed integrazioni, che praticano il tasso di interesse e le aliquote accessorie in misura non superiore a quella che sara' determinata annualmente, previo parere del Comitato interministeriale per il credito ed il risparmio, con decreto del Ministro per il tesoro sentito il Ministro per l'agricoltura e le foreste.
 
@@ -264,7 +262,7 @@ L'imprenditore puo' chiedere che il concorso nel pagamento degli interessi sia a
 
 L'istituto di credito e' tenuto a concedere la richiesta attualizzazione del concorso, non appena in possesso del provvedimento formale di concessione-liquidazione del concorso negli interessi che avra' luogo con le modalita' di cui al primo e secondo comma dell'articolo 7 del decreto del Presidente della Repubblica 22 maggio 1967, n. 446.
 
-###### Art. 20
+#### Art. 20
 
 Agli imprenditori, il cui piano di sviluppo sia stato approvato e che abbiano ottenuto il nulla osta per la concessione del concorso nel pagamento degli interessi, ma non siano in grado di prestare sufficienti garanzie per la contrazione di mutui con gli istituti di credito, e' concessa da parte del "Fondo interbancario" di cui alla legge 2 giugno 1961, n. 454, e successive modificazioni ed integrazioni, fidejussione per la differenza tra l'ammontare del mutuo, compresi i relativi interessi, e il valore cauzionale delle garanzie offerte, maggiorato del valore attualizzato del concorso negli interessi.
 
@@ -284,7 +282,7 @@ AGGIORNAMENTO (4)
 
 La L. 28 febbraio 1986, n.41 ha disposto (con l'art. 12 comma 2) che "Le disponibilita' finanziarie della sezione speciale del fondo interbancario di garanzia di cui agli articoli 20 e 21 della legge 9 maggio 1975, n. 153, sono incrementate di lire 20 miliardi."
 
-###### Art. 21
+#### Art. 21
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N.385))((6))
 
@@ -294,7 +292,7 @@ AGGIORNAMENTO (6)
 
 Il D.Lgs. 1 settembre 1993, n. 385, ha disposto (con l'art. 161, comma 2) che il presente articolo e' abrogato ma continua a essere applicato fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del medesimo decreto legislativo.
 
-###### Art. 22
+#### Art. 22
 
 Per far fronte agli obblighi derivanti dalla concessione delle fidejussioni, alla sezione speciale del Fondo interbancario saranno attribuiti annualmente gli apporti statali di cui all'articolo 6.
 
@@ -312,13 +310,13 @@ AGGIORNAMENTO (6)
 
 Il D.Lgs. 1 settembre 1993, n. 385, ha disposto (con l'art. 161, comma 2) che i commi secondo, terzo e quarto del presente articolo sono abrogati ma continuano a essere applicati fino alla data di entrata in vigore dei provvedimenti emanati dalle autorita' creditizie ai sensi del medesimo decreto legislativo.
 
-###### Art. 23
+#### Art. 23
 
 Qualora il piano di sviluppo presentato da imprenditori singoli o associati preveda ai sensi della direttiva del Consiglio delle Comunita' europee n. 131 del 15 maggio 1973 che, al suo compimento, la quota delle vendite di bovini e ovini superi il 50 per cento del complesso delle vendite effettuate dall'azienda, puo' essere concesso, in aggiunta alle provvidenze di cui al precedente articolo 18, un contributo in conto capitale per ogni ettaro della superficie necessaria alla produzione di carne bovina ed ovina. ((Il contributo medesimo sara' erogato in tre anni in ragione di 47 unita' di conto per ettaro il primo anno, 32 unita' di conto per ettaro il secondo anno e 16 unita' di conto per ettaro il terzo anno)).
 
 ((Gli importi complessivi del contributo per azienda non potranno superare 2.350 unita' di conto per il primo anno, 1.600 unita' di conto per il secondo anno e 800 unita' di conto per il terzo anno; tale limite puo' essere superato nel caso di stalle sociali e di cooperative di conduzione)).
 
-###### Art. 24
+#### Art. 24
 
 Quando il piano di sviluppo prevede l'acquisto di bestiame bovino o ovino, la concessione delle provvidenze previste dagli articoli precedenti per tali acquisti e' subordinata alla condizione che a conclusione del piano di sviluppo, la quota delle vendite degli animali e dei loro prodotti sul complesso delle vendite effettuate dall'azienda superi il 60 per cento.
 
@@ -330,15 +328,15 @@ Per la realizzazione di organiche opere di irrigazione a carattere collettivo gl
 
 I contributi previsti dal terzo comma dell'articolo 5 della legge 14 agosto 1971, n. 817, per l'esecuzione di opere di ricomposizione o di riordinamento fondiario, di interesse particolare o di interesse comune a piu' fondi, sono aumentati del 5 per cento quando ricorrono le condizioni di utilizzazione fondiaria richiamate nel precedente comma.
 
-###### Art. 25
+#### Art. 25
 
 Le provvidenze di cui agli articoli precedenti della presente legge possono essere concesse anche agli imprenditori a titolo principale, le cui aziende palesino strutture tali da porre in pericolo la conservazione del reddito al livello comparabile, da accertarsi dall'autorita' cui e' rimessa l'approvazione del piano di sviluppo.
 
 In tali ipotesi, il concorso nel pagamento degli interessi di cui all'articolo 18 e' limitato all'80 per cento dell'importo complessivo del mutuo ritenuto ammissibile ((e comunque ad un importo massimo di 33.648 unita' di conto)) per ogni unita' lavorativa uomo impiegata nella azienda compreso l'imprenditore agricolo. ((PERIODO SOPPRESSO DALLA L. 10 MAGGIO 1976, N.352)).
 
-## Sezione II - RAPPORTI STATO-REGIONI
+### Sezione II - RAPPORTI STATO-REGIONI
 
-###### Art. 26
+#### Art. 26
 
 Entro sei mesi dalla data di entrata in vigore della presente legge, le regioni dovranno adottare le norme procedurali necessarie per l'attuazione degli interventi previsti dalla presente legge nel rispetto dei seguenti principi fondamentali:
 
@@ -356,11 +354,11 @@ Le regioni forniranno tempestivamente tutti gli elementi, le notizie ed i chiari
 
 Le regioni invieranno periodicamente al Ministero dell'agricoltura e delle foreste, dettagliate relazioni sull'attivita' svolta e sui problemi generali e particolari che si presenteranno in connessione con l'attuazione delle misure previste dalla presente legge nei rispettivi territori. Dovranno altresi' fornire ogni tre mesi situazioni statistiche sulla base delle impostazioni e dei moduli che saranno ad esse comunicati dal Ministero dell'agricoltura e delle foreste.
 
-###### Art. 27
+#### Art. 27
 
 In caso di persistente inadempimento degli organi regionali nello svolgimento delle attivita' amministrative di attuazione delle direttive comunitarie di cui all'articolo 1, il Consiglio dei Ministri, su proposta del Ministro per gli affari esteri o del Ministro per l'agricoltura e le foreste, sentito il presidente della giunta regionale interessata, autorizza il Ministro per l'agricoltura e le foreste a disporre il compimento degli atti relativi in sostituzione dell'amministrazione regionale, proponendo, ove occorra, le opportune variazioni di bilancio.
 
-###### Art. 28
+#### Art. 28
 
 Il Ministro per l'agricoltura e le foreste di concerto con il Ministro per il tesoro, su proposta delle regioni interessate assegnera' la quota di concorso a ciascun istituto di credito.
 
@@ -370,17 +368,17 @@ Le annualita' relative ai limiti di impegno di cui al precedente comma saranno a
 
 Non appena provveduto alla liquidazione del concorso le regioni dovranno rimettere al Ministero la dimostrazione analitica delle somme erogate per consentire il tempestivo inoltro alla Comunita' economica europea delle richieste di rimborso.
 
-## Sezione III - AIUTI PER LA CONTABILITA' AZIENDALE
+### Sezione III - AIUTI PER LA CONTABILITA' AZIENDALE
 
-###### Art. 29
+#### Art. 29
 
 ((Agli imprenditori agricoli a titolo principale, che ne facciano richiesta e che si impegnino a tenere una contabilita' aziendale in conformita' di quanto disposto dall'articolo 11 della direttiva n. 72/159/CEE, e' concesso un contributo di 600 unita' di conto, erogabile in quattro anni, per l'importo di 258 unita' di conto nel primo anno, di 171 unita' di conto nel secondo, di 105 unita' di conto nel terzo e 66 unita' di conto nel quarto)).
 
 Le regioni provvedono alla concessione, liquidazione e pagamento del contributo previsto dal primo comma del presente articolo.
 
-## Sezione IV - AIUTI DI AVVIAMENTO ALLE ASSOCIAZIONI DI ASSISTENZA INTERAZIENDALE
+### Sezione IV - AIUTI DI AVVIAMENTO ALLE ASSOCIAZIONI DI ASSISTENZA INTERAZIENDALE
 
-###### Art. 30
+#### Art. 30
 
 Alle associazioni di produttori agricoli prevalentemente costituite da coltivatori diretti che si costituiscono nelle forme previste dalle leggi vigenti allo scopo di fornire l'assistenza alle aziende associate ed una piu' razionale utilizzazione in comune delle attrezzature e delle dotazioni aziendali, con particolare riferimento alla meccanizzazione, o di conseguire un'attivita' a carattere collettivo, puo' essere concesso un aiuto di avviamento destinato a contribuire ai costi di gestione.
 
@@ -392,25 +390,21 @@ Le funzioni amministrative relative all'applicazione del presente articolo sono 
 
 Per le associazioni a carattere interregionale provvede il Ministero dell'agricoltura e delle foreste, sentito il parere delle regioni interessate.
 
-## Sezione V - PRINCIPI E LIMITI PER L'EMANAZIONE DI NORME REGIONALI
+### Sezione V - PRINCIPI E LIMITI PER L'EMANAZIONE DI NORME REGIONALI
 
-###### Art. 31
+#### Art. 31
 
 Le regioni, nell'emanazione delle norme di propria competenza nel settore delle strutture aziendali agrarie e fondiarie devono attenersi ai principi ed ai limiti stabiliti dall'articolo 14 della direttiva comunitaria n. 159 del Consiglio delle Comunita' europee del 17 aprile 1972.
 
-## TITOLO IV - INCORAGGIAMENTO ALLA CESSAZIONE DELL'ATTIVITA' AGRICOLA ED ALLA
+## TITOLO IV - INCORAGGIAMENTO ALLA CESSAZIONE DELL'ATTIVITA' AGRICOLA ED ALLA DESTINAZIONE DELLA SUPERFICIE AGRICOLA UTILIZZATA E RESASI DISPONIBILE A SCOPI DI MIGLIORAMENTO DELLE STRUTTURE.
 
-### DESTINAZIONE DELLA SUPERFICIE AGRICOLA UTILIZZATA E RESASI - DISPONIBILE A SCOPI DI MIGLIORAMENTO DELLE STRUTTURE.
+### Sezione I - INDENNITA' PER LA CESSAZIONE DELL'ATTIVITA' AGRICOLA
 
-#### Sezione I
-
-##### INDENNITA' PER LA CESSAZIONE DELL'ATTIVITA' AGRICOLA
-
-###### Art. 32
+#### Art. 32
 
 Per il conseguimento delle finalita' di cui al punto b) dell'articolo 1 della presente legge ed in applicazione della direttiva del Consiglio delle Comunita' europee n. 160 del 17 aprile 1972, e' istituita una indennita' a favore degli imprenditori agricoli che anticipano la cessazione della propria attivita' alle condizioni stabilite dalle successive disposizioni.
 
-###### Art. 33
+#### Art. 33
 
 L'indennita' di cessazione dell'attivita' agricola di cui al precedente articolo puo' essere concessa, a domanda, agli imprenditori agricoli, titolari di aziende con superficie non superiore ai 15 ettari, che abbiano compiuto 55 anni e fino al 65° anno di eta', appartenenti ad una delle sottoindicate categorie e che dedichino almeno il 50 per cento del loro tempo di lavoro all'attivita' agricola, ricavandone almeno il 50 per cento del reddito complessivo di lavoro:
 
@@ -428,7 +422,7 @@ Per il calcolo del tempo attivo si fa riferimento ad una settimana lavorativa di
 
 Per reddito di lavoro si intende qualunque provento derivante da una attivita' autonoma o subordinata, pubblica o privata, compreso il reddito derivante da trattamento pensionistico di fine attivita' lavorativa o di vecchiaia.
 
-###### Art. 34
+#### Art. 34
 
 Hanno altresi' titolo alla indennita' per la cessazione dell'attivita' agricola di cui al precedente articolo 32, sempreche' ne facciano richiesta e si trovino in eta' compresa tra i 55 e i 65 anni, i coadiuvanti familiari permanenti agricoli, nonche' i lavoratori agricoli dipendenti a carattere permanente che prestino la loro attivita' presso l'azienda il cui titolare benefici delle misure previste dalla presente legge.
 
@@ -440,7 +434,7 @@ Ai fini anzidetti per lavoratori agricoli dipendenti a carattere permanente si i
 
 Sempre agli stessi fini si intendono per coadiuvanti familiari i lavoratori agricoli addetti stabilmente alla lavorazione o alla conduzione del fondo, che facciano parte del nucleo familiare anagrafico del titolare della azienda, quali parenti, nei limiti di cui all'articolo 77 del codice civile, dell'imprenditore o del coniuge dello stesso ancorche' deceduto.
 
-###### Art. 35
+#### Art. 35
 
 Per gli imprenditori agricoli, di cui all'articolo 32, ai fini della concessione della indennita' per la cessazione dell'attivita' agricola, sono richieste le seguenti condizioni:
 
@@ -454,7 +448,7 @@ d) il richiedente deve impegnarsi, con atto sottoscritto ed autenticato da notai
 
 L'imprenditore puo' conservare per i bisogni familiari la proprieta' di una parte del fondo ceduto, compresi i fabbricati rurali destinati ad abitazione ed annessi, per una estensione non superiore al 15 per cento dell'intera superficie. A sua scelta egli puo' trattenere la predetta quota aziendale anziche' in proprieta' a titolo di uso, ai sensi degli articoli 1021 e seguenti del codice civile.
 
-###### Art. 36
+#### Art. 36
 
 Per i coadiuvanti familiari e per i lavoratori agricoli dipendenti a titolo permanente di cui all'articolo 24, ai fini della concessione della indennita' prevista dall'articolo 32, sono richieste le seguenti condizioni:
 
@@ -466,7 +460,7 @@ c) siano stati e siano iscritti alle rispettive assicurazioni generali obbligato
 
 d) si impegnino a cessare la loro attivita' lavorativa in agricoltura nelle forme e con le conseguenze previste alla lettera d) del precedente articolo.
 
-###### Art. 37
+#### Art. 37
 
 La concessione dell'indennita' di cui agli articoli precedenti e' in ogni caso subordinata, oltre che alla cessazione dell'attivita' agricola da parte del beneficiario, nelle forme e con le conseguenze previste alla lettera d) dell'articolo 35, alla destinazione della superficie nella quale si esercita l'attivita' agricola ai seguenti scopi:
 
@@ -476,7 +470,7 @@ La superficie agricola puo' essere altresi' posta a disposizione degli organismi
 
 Qualora non sia possibile utilizzare la terra acquisita per uno degli scopi predetti, gli organismi medesimi possono destinarla alla formazione o all'arrotondamento di proprieta' diretto-coltivatrici ai sensi della legge 26 maggio 1965, n. 590, e successive modificazioni ed integrazioni.
 
-###### Art. 38
+#### Art. 38
 
 L'indennita' di cessazione dell'attivita' agricola e' corrisposta agli aventi titolo, a decorrere dalla data di effettiva cessazione dell'attivita' medesima e fino al compimento del 65° anno di eta', nel seguente ammontare annuo, frazionabile in dodici mensilita' a richiesta di parte:
 
@@ -484,13 +478,13 @@ L'indennita' di cessazione dell'attivita' agricola e' corrisposta agli aventi ti
 
 600 unita' di conto per gli imprenditori non coniugati o vedovi, per i coadiuvanti familiari permanenti agricoli e per lavoratori agricoli dipendenti a carattere permanente.
 
-## Sezione II - ORGANISMI FONDIARI, ACQUISIZIONE E DESTINAZIONE DELLE TERRE
+### Sezione II - ORGANISMI FONDIARI, ACQUISIZIONE E DESTINAZIONE DELLE TERRE
 
-###### Art. 39
+#### Art. 39
 
 Esercitano le funzioni di organismi fondiari ai sensi e per gli effetti di cui all'ultimo comma dei precedenti articoli 15 e 37, gli enti di sviluppo agricolo regionali o interregionali, nonche' la Cassa per la formazione della proprieta' contadina istituita con l'articolo 9 del decreto legislativo del Capo provvisorio dello Stato 5 marzo 1948, n. 121.
 
-###### Art. 40
+#### Art. 40
 
 Il prezzo di cessione delle terre da parte degli organismi fondiari agli imprenditori che realizzano un piano di sviluppo agricolo non puo' essere superiore a quello corrisposto all'originario proprietario; il canone per l'affitto dei terreni da parte degli imprenditori predetti all'organismo fondiario e da parte di questo agli originari imprenditori e' corrisposto in base alle vigenti disposizioni di legge in materia di equo canone.
 
@@ -510,13 +504,13 @@ Qualora i terreni suscettibili di utilizzazione agricola non possano essere imme
 
 In deroga a qualsiasi contraria disposizione, l'organismo fondiario ha facolta' di subaffittare, per gli scopi di cui alla presente legge, senza bisogno di consenso del proprietario, i terreni ricevuti in affitto.
 
-## Sezione III - PREMIO DI APPORTO STRUTTURALE
+### Sezione III - PREMIO DI APPORTO STRUTTURALE
 
-###### Art. 41
+#### Art. 41
 
 Per realizzare le condizioni piu' idonee al raggiungimento dei fini di cui al punto b) dell'articolo 1 della presente legge, e' istituito altresi' un premio di apporto strutturale a favore di coloro che destinino le terre, di cui sono proprietari, agli scopi precisati nel precedente articolo 37.
 
-###### Art. 42
+#### Art. 42
 
 Il premio e' corrisposto in un'unica soluzione, successivamente alla effettiva destinazione dei terreni in conformita' delle utilizzazioni stabilite dal presente titolo.
 
@@ -548,9 +542,9 @@ Gli aventi titolo possono chiedere che l'ammontare del premio di apporto struttu
 
 E' esclusa la corresponsione del premio di apporto strutturale qualora il trasferimento del terreno sia in dipendenza di procedimenti di esproprio per utilita' pubblica.
 
-## Sezione IV - NORME PREVIDENZIALI
+### Sezione IV - NORME PREVIDENZIALI
 
-###### Art. 43
+#### Art. 43
 
 I beneficiari della indennita' per anticipata cessazione della attivita' agricola prevista dalla presente legge i quali risultino, al momento della cessazione stessa, assicurati obbligatoriamente per l'invalidita', la vecchiaia ed i superstiti e per la tubercolosi, possono, anche in mancanza dei requisiti previsti, ottenere, a domanda, l'autorizzazione alla prosecuzione delle assicurazioni predette mediante il versamento di contributi volontari secondo le norme vigenti nelle assicurazioni stesse.
 
@@ -568,9 +562,9 @@ Sono vietate eventuali diminuzioni delle prestazioni previdenziali e assistenzia
 
 Sono invece automaticamente estese ai destinatari dell'indennita' gli eventuali miglioramenti delle prestazioni suddette, in modo che il trattamento di sicurezza sociale resti uguale rispetto a coloro che non hanno cessato l'attivita'.
 
-## Sezione V - RAPPORTI STATO-REGIONI
+### Sezione V - RAPPORTI STATO-REGIONI
 
-###### Art. 44
+#### Art. 44
 
 Le regioni provvedono all'accettazione delle domande di indennita' per l'anticipata cessazione dell'attivita' agricola e di premio di apporto strutturale, all'istruttoria delle medesime, all'accertamento della sussistenza delle condizioni necessarie per la corresponsione dell'indennita' e del premio predetti, ivi compresa l'istruttoria relativa alla destinazione delle terre per gli scopi previsti dall'articolo 37. Per la corresponsione delle provvidenze previste dal presente titolo, i relativi provvedimenti dovranno armonizzarsi con i programmi regionali di intervento e piani zonali ed in mancanza con le direttive all'uopo formulate dalle regioni.
 
@@ -586,11 +580,9 @@ Al termine di ciascun trimestre le regioni devono comunicare al Ministero dell'a
 
 Nello svolgimento delle funzioni di cui al presente articolo le regioni devono attenersi alle direttive di cui alla presente legge e a quelle che saranno successivamente emanate dallo Stato ai fini dell'indirizzo e del coordinamento di cui all'articolo 8 del decreto del Presidente della Repubblica 15 gennaio 1972, n. 11.
 
-## Sezione VI - PARTICOLARI PROVVIDENZE A FAVORE DEI PICCOLI PROPRIETARI DI TERRENI
+### Sezione VI - PARTICOLARI PROVVIDENZE A FAVORE DEI PICCOLI PROPRIETARI DI TERRENI AFFITTATI O CONCESSI A MEZZADRIA E COLONIA
 
-### AFFITTATI O CONCESSI A MEZZADRIA E COLONIA
-
-###### Art. 45
+#### Art. 45
 
 A favore dei proprietari dei terreni affittati o concessi a mezzadria e a colonia iscritti nei ruoli della imposta sul reddito delle persone fisiche per un imponibile non superiore a L. 2.000.000 che pongono i propri terreni a disposizione degli affittuari, dei mezzadri o dei coloni per le finalita' della presente legge e' concesso il premio di apporto strutturale di cui all'articolo 41, con una maggiorazione del 30 per cento.
 
@@ -598,9 +590,9 @@ La messa a disposizione dei terreni puo' avvenire o mediante vendita all'affittu
 
 I terreni medesimi possono altresi' essere ceduti in proprieta' all'organismo fondiario di cui all'articolo 39 con l'obbligo di questo di rivenderli sempre alle condizioni di cui al precedente articolo 40, o di concederli in affitto con un contratto di durata non inferiore a 15 anni senza soluzione di continuita' e con il pieno rispetto delle condizioni preesistenti.
 
-## Sezione VII - NORME PROCEDURALI
+### Sezione VII - NORME PROCEDURALI
 
-###### Art. 46
+#### Art. 46
 
 Alla erogazione della indennita' per anticipata cessazione dell'attivita' agricola prevista dal titolo IV della presente legge provvede l'Istituto nazionale per la previdenza sociale attraverso una gestione speciale che sara' alimentata finanziariamente mediante anticipazioni tratte da un fondo di rotazione, a questo fine istituito presso il Ministero dell'agricoltura e delle foreste.
 
@@ -622,7 +614,7 @@ AGGIORNAMENTO (5)
 
 La L. 8 novembre 1986, n.752 ha disposto (con l'art 10 comma 1) che "I fondi di rotazione di cui agli articoli 46 e 47 della legge 9 maggio 1975, n. 153, sono soppressi; le residue disponibilita' finanziarie sono trasferite alla Cassa per la formazione della proprieta' contadina."
 
-###### Art. 47
+#### Art. 47
 
 Per le esigenze finanziarie degli organismi fondiari relative all'acquisto dei terreni, alla gestione degli stessi, al pagamento dei canoni di affitto e' istituita una sezione speciale del fondo di rotazione di cui agli articoli 16 e seguenti della legge 26 maggio 1965, n. 590, che sara' alimentata con gli stanziamenti di cui alla lettera c) del precedente articolo 7 incrementati dai rimborsi che affluiranno da parte degli organismi fondiari relativamente alle vendite, alle concessioni in enfiteusi, agli affitti che gli stessi effettueranno in applicazione dell'articolo 40 della presente legge.
 
@@ -638,19 +630,17 @@ AGGIORNAMENTO (5)
 
 La L. 8 novembre 1986, n.752 ha disposto (con l'art 10 comma 1) che "I fondi di rotazione di cui agli articoli 46 e 47 della legge 9 maggio 1975, n. 153, sono soppressi; le residue disponibilita' finanziarie sono trasferite alla Cassa per la formazione della proprieta' contadina."
 
-## TITOLO V - INFORMAZIONE SOCIO-ECONOMICA E QUALIFICAZIONE PROFESSIONALE
+## TITOLO V - INFORMAZIONE SOCIO-ECONOMICA E QUALIFICAZIONE PROFESSIONALE DELLE PERSONE CHE LAVORANO IN AGRICOLTURA
 
-### DELLE PERSONE CHE LAVORANO IN AGRICOLTURA
+### Sezione I - INFORMAZIONE SOCIO-ECONOMICA
 
-#### Sezione I - INFORMAZIONE SOCIO-ECONOMICA
-
-###### Art. 48
+#### Art. 48
 
 Le regioni istituiscono entro tre mesi dalla data di entrata in vigore della presente legge, nel quadro della loro organizzazione amministrativa, appositi servizi di informazione socio-economica per lo svolgimento delle attivita' di cui all'articolo 3 della direttiva del Consiglio delle Comunita' europee n. 161, del 17 aprile 1972, e all'articolo 50 della presente legge.
 
 Nel quadro delle disposizioni da emanare con leggi regionali possono essere previste anche sezioni specializzate di informazione socio-economica nell'ambito dei servizi esistenti o da affidarsi ad enti ed istituti operanti nel settore agricolo.
 
-###### Art. 49
+#### Art. 49
 
 Le regioni, oltre a svolgere direttamente le attivita' di cui all'articolo precedente, possono affidare i compiti di informazione socio-economica ad associazioni che si costituiscano espressamente allo scopo di creare servizi di informazione per i propri associati nel quadro e con le finalita' stabiliti dal titolo I della citata direttiva n. 161.
 
@@ -674,7 +664,7 @@ I compiti di informazione socio-economica possono essere altresi' affidati ad is
 
 Il riconoscimento della idoneita' e' demandato alla regione o al Ministro per l'agricoltura e le foreste, secondo che gli istituti o enti operino nell'ambito di una sola o di piu' regioni.
 
-###### Art. 50
+#### Art. 50
 
 Le attivita' di informazione socio-economica di cui ai precedenti articoli debbono indirizzarsi al conseguimento dei seguenti scopi:
 
@@ -692,9 +682,9 @@ f) indirizzare gli interessati ai competenti servizi per il migliore svolgimento
 
 L'affidamento dei servizi di informazione socio-economica alle associazioni di cui al precedente articolo puo' essere revocato dalla regione ove questa constati il mancato adempimento da parte delle stesse associazioni delle finalita' di cui al precedente comma.
 
-## Sezione II - FORMAZIONE E PERFEZIONAMENTO DEI CONSULENTI SOCIO-ECONOMICI
+### Sezione II - FORMAZIONE E PERFEZIONAMENTO DEI CONSULENTI SOCIO-ECONOMICI
 
-###### Art. 51
+#### Art. 51
 
 Per il conseguimento delle finalita' previste dall'articolo 4 della direttiva del Consiglio delle Comunita' europee n. 161 sono istituiti corsi di formazione e perfezionamento, nonche' incontri di aggiornamento di consulenti socio-economici, al fine di consentire il completamento e l'aggiornamento delle proprie cognizioni tecniche, economiche e sociali a quanti, avendo gia' ricevuto una adeguata formazione di base ed avendo gia' acquisito una sufficiente esperienza nel settore agricolo, intendano dedicarsi a titolo professionale a questa attivita'.
 
@@ -736,7 +726,7 @@ b) assicurare l'uniformita' delle materie di insegnamento; in particolare dovran
 
 Il Ministero dell'agricoltura e delle foreste, d'intesa con le regioni, stipulera' con enti pubblici e privati apposite convenzioni per assicurare ai partecipanti ai corsi di formazione, perfezionamento ed aggiornamento di cui al presente articolo il vitto e l'alloggio per la durata dei corsi stessi.
 
-###### Art. 52
+#### Art. 52
 
 Sono ammessi ai corsi di formazione di consulenti socio-economici i candidati che abbiano almeno i seguenti requisiti:
 
@@ -756,7 +746,7 @@ Le modalita' per i colloqui per l'ammissione ai corsi di formazione e a quelli d
 
 Gli incontri di aggiornamento sono riservati ai consulenti socio-economici in attivita' di servizio.
 
-###### Art. 53
+#### Art. 53
 
 A coloro che hanno frequentato con profitto i corsi di formazione viene rilasciato dalle facolta' universitarie un attestato sulla base del giudizio del corpo insegnante e dell'esito di esami scritti ed orali.
 
@@ -764,7 +754,7 @@ L'attestato di cui sopra costituisce requisito preliminare per l'assunzione di c
 
 A coloro che frequentano con profitto il corso di perfezionamento viene rilasciato un attestato della formazione ricevuta sulla base di una relazione del corpo insegnante.
 
-###### Art. 54
+#### Art. 54
 
 Per orientare l'attivita' di informazione socio-economica sui fondamentali problemi dell'agricoltura italiana e del mondo rurale, le regioni dirameranno, con apposito bollettino mensile, notizie statistiche e informative sulle possibilita' che si offrono agli imprenditori ed ai lavoratori agricoli nell'ambito del territorio regionale per il migliore svolgimento della loro attivita', per eventuali nuove occasioni di lavoro extra-agricolo, nonche' sulle provvidenze che la legislazione regionale offre al settore dell'agricoltura e del lavoro subordinato in genere.
 
@@ -776,17 +766,15 @@ Il Ministero dell'agricoltura e delle foreste per garantire la piu' ampia divulg
 
 Il Ministero dell'agricoltura e delle foreste dovra', altresi', assicurare ampia divulgazione della politica agricola comune, sia nel settore delle strutture, che in quello dei mercati e in quello sociale, anche attraverso la diffusione dei testi dei regolamenti, delle direttive e delle decisioni del Consiglio delle Comunita' europee.
 
-## Sezione III - QUALIFICAZIONE PROFESSIONALE DELLE PERSONE
+### Sezione III - QUALIFICAZIONE PROFESSIONALE DELLE PERSONE CHE LAVORANO IN AGRICOLTURA
 
-### CHE LAVORANO IN AGRICOLTURA
-
-###### Art. 55
+#### Art. 55
 
 Per il conseguimento delle finalita' previste dagli articoli 5 e 6 della direttiva del Consiglio delle Comunita' europee del 17 aprile 1972, n. 161, le regioni istituiscono, entro tre mesi dalla data di entrata in vigore della presente legge, appositi servizi di qualificazione professionale per consentire alle persone che lavorano nell'agricoltura di acquisire una nuova qualificazione nell'ambito della professione agricola o di migliorare quella che gia' possiedono affinche' possano integrarsi in un'agricoltura moderna.
 
 La qualificazione professionale dovra', in particolare, tendere, attraverso una formazione complementare sia tecnica che economica, a promuovere la formazione di efficienti ed aggiornati capi di azienda e, piu' generalmente, a garantire la qualificazione professionale degli imprenditori, dei lavoratori agricoli dipendenti e dei coadiuvanti familiari agricoli.
 
-###### Art. 56
+#### Art. 56
 
 Le regioni svolgono direttamente le attivita' di cui all'articolo precedente, assicurando, in ogni caso, la partecipazione delle organizzazioni professionali e dei produttori agricoli, maggiormente rappresentative a livello nazionale. Le regioni possono affidare lo svolgimento delle attivita' previste nel precedente articolo alle organizzazioni professionali e dei produttori agricoli, maggiormente rappresentative sul piano nazionale, che debbono avvalersi di associazioni o istituzioni specializzate da esse costituite.
 
@@ -798,7 +786,7 @@ b) disponibilita' di istruttori di adeguata qualificazione, per esperienza acqui
 
 c) gestione amministrativo-contabile separata dalle altre attivita'.
 
-###### Art. 57
+#### Art. 57
 
 Ai fini della qualificazione professionale delle persone che lavorano in agricoltura saranno istituiti appositi corsi che dovranno distintamente indirizzarsi alla formazione ed al perfezionamento di capi di azienda ed alla formazione ed alla qualificazione professionale di lavoratori agricoli dipendenti e di coadiuvanti familiari agricoli.
 
@@ -808,7 +796,7 @@ La stessa eta' e' richiesta per l'ammissione ai corsi di formazione e di qualifi
 
 Ai corsi di perfezionamento per capi di azienda possono essere ammessi, a cicli triennali, coloro i quali abbiano frequentato i corsi di formazione ed abbiano esercitato, per lo stesso periodo, attivita' di dirigente di azienda agricola.
 
-###### Art. 58
+#### Art. 58
 
 I programmi per la formazione professionale dei capi di azienda debbono avere carattere eminentemente pratico e basarsi sui seguenti insegnamenti:
 
@@ -842,7 +830,7 @@ I relativi corsi devono avere la durata di almeno dodici settimane con quindici 
 
 A coloro che hanno frequentato con profitto i corsi di qualificazione professionale verranno rilasciati attestati ufficiali da parte delle regioni.
 
-###### Art. 59
+#### Art. 59
 
 Alle associazioni, istituti ed enti che ai sensi della presente legge svolgono attivita' di informazione socio-economica possono essere concessi contributi fino al 70 per cento delle spese riconosciute ammissibili sulla base di programmi di attivita' approvati e controllati dalla regione.
 
@@ -858,19 +846,19 @@ A coloro che abbiano frequentato con profitto i corsi di perfezionamento sono do
 
 Le universita' che svolgono corsi di perfezionamento con il contributo dello Stato sono tenute ad effettuare a proprie spese gli incontri di aggiornamento in misura predeterminata nel programma, intendendosi conguagliato il relativo compenso con il contributo concesso per il perfezionamento dei consulenti di Ministero dell'agricoltura e delle foreste ha facolta' di effettuare controlli sia sullo svolgimento delle attivita' sia sulla documentazione e sugli atti di rendicontazione delle spese.
 
-###### Art. 60
+#### Art. 60
 
 Per l'assunzione e la utilizzazione, ai sensi degli articoli 48 e 49 di consulenti socio-economici in possesso del titolo previsto dall'articolo 53, e' attribuito, per ciascun consulente, un contributo una tantum di lire 4.680.000.
 
 Il contributo di cui al precedente comma sara' corrisposto dopo sei mesi di effettivo servizio purche' risulti instaurato un rapporto di lavoro.
 
-###### Art. 61
+#### Art. 61
 
 Per lo svolgimento di corsi di qualificazione professionale per capi di azienda e' concesso, per ciascun capo di azienda che abbia frequentato con profitto i corsi stessi, un contributo una tantum di L. 700.000. Per i corsi speciali residenziali per giovani capi di azienda il contributo predetto e' elevato a L. 930.000 con l'obbligo di corrispondere a fine corso un premio di frequenza di L. 200.000 per ogni capo di azienda che abbia superato con profitto gli esami finali del corso.
 
 Per i corsi di qualificazione professionale per lavoratori agricoli dipendenti e coadiuvanti familiari agricoli il contributo di cui al precedente comma e' concesso in ragione di L. 750.000 per ciascun partecipante con l'obbligo di corrispondere, a fine corso e con esito positivo, ai singoli lavoratori agricoli dipendenti e coadiuvanti un premio di frequenza di L. 100.000, sempreche' sia stata effettuata una presenza non inferiore al 90 per cento delle ore programmate.
 
-###### Art. 62
+#### Art. 62
 
 Il Ministero dell'agricoltura e delle foreste presentera' annualmente al Parlamento una relazione sullo stato dell'agricoltura italiana in connessione con l'applicazione della riforma promossa dalla presente legge in attuazione delle direttive del Consiglio delle Comunita' europee numeri 159, 160 e 161 del 17 aprile 1972.
 

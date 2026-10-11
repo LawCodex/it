@@ -29,7 +29,7 @@ la seguente legge:
 
 ## Azienda autonoma delle poste e dei telegrafi.
 
-### Art. 1
+## Art. 1
 
 Le entrate ordinarie e straordinarie del bilancio dell'Azienda autonoma delle poste e dei telegrafi, comprese quelle per le partite di giro, accertate nell'esercizio 1942-43 per la competenza propria dell'esercizio medesimo, sono stabilite, come risulta dal conto consuntivo dell'Amministrazione stessa, allegato al rendiconto del
 
@@ -42,7 +42,7 @@ in............................................. L. 2.106.778.042,46 delle quali 
  -----------------
 ```
 
-### Art. 2
+## Art. 2
 
 Le spese ordinarie e straordinarie del bilancio dell'Azienda predetta, comprese quelle per le partite di giro, accertate nell'esercizio 1942-43, per la competenza propria dell'esercizio medesimo, sono stabilite
 
@@ -53,7 +53,7 @@ in............................................. L. 2.106.778.042,46 delle quali 
  -----------------
 ```
 
-### Art. 3
+## Art. 3
 
 Le entrate da riscuotere alla, chiusura dell'eserci zio 1941-42 restano determinate
 
@@ -64,7 +64,7 @@ in............................................. L. 105.244.099,85 delle quali fu
  -----------------
 ```
 
-### Art. 4
+## Art. 4
 
 Le spese rimaste da pagare alla chiusura dell'esercizio 1941-42 restano determinate
 
@@ -75,7 +75,7 @@ in............................................. L. 983.267.603,61 delle quali fu
  -----------------
 ```
 
-### Art. 5
+## Art. 5
 
 I residui attivi alla chiusura dell'esercizio 1942-43 sono stabiliti nelle seguenti somme:
 
@@ -92,7 +92,7 @@ esercizi precedenti (art. 3)................... " 1.000.000 -
  -----------------
 ```
 
-### Art. 6
+## Art. 6
 
 I residui passivi alla chiusura dell'esercizio 1942-43 sono stabiliti nelle seguenti somme:
 
@@ -111,7 +111,7 @@ sercizi precedenti (art. 4).................... " 386.791.166,98
 
 ## Azienda di Stato per i servizi telefonici.
 
-### Art. 7
+## Art. 7
 
 Le entrate ordinarie e straordinarie del bilancio dell'Azienda di Stato per i servizi telefonici, accertate nell'esercizio finanziario 1942-43, per la competenza propria dell'esercizio medesimo, sono stabilite, come risulta dal conto consuntivo dell'Amministrazione stessa, allegato al rendiconto del Ministero delle Comunicazioni per l'esercizio predetto
 
@@ -122,7 +122,7 @@ in............................................. L. 402.894.205,32 delle quali fu
  -----------------
 ```
 
-### Art. 8
+## Art. 8
 
 Le spese ordinarie e straordinarie del bilancio dell'Amministrazione predetta, accertate nell'esercizio finanziario 1942-43, per la competenza propria dell'esercizio medesimo, sono stabilite
 
@@ -133,7 +133,7 @@ in............................................. L. 402.894.205,32 delle quali fu
  -----------------
 ```
 
-### Art. 9
+## Art. 9
 
 Le entrate rimaste da riscuotere alla chiusura dell'esercizio 1941-42 restano determinate
 
@@ -144,7 +144,7 @@ in............................................. L. 239.292.486,69 delle quali fu
  -----------------
 ```
 
-### Art. 10
+## Art. 10
 
 Le spese rimaste da pagare alla chiusura dell'esercizio 1941-42 restano determinate
 
@@ -155,7 +155,7 @@ in............................................. L. 388.957.504,40 delle quali fu
  -----------------
 ```
 
-### Art. 11
+## Art. 11
 
 I residui attivi alla chiusura dell'esercizio 1942-43 sono stabiliti nelle seguenti somme:
 
@@ -172,7 +172,7 @@ esercizi precedenti (art. 9)................... " 86.585.317,39
  -----------------
 ```
 
-### Art. 12
+## Art. 12
 
 I residui passivi alla chiusura dell'esercizio 1942-43 sono stabiliti nelle seguenti somme:
 
@@ -191,7 +191,7 @@ sercizi precedenti (art. 10)................... " 134.415.233,08
 
 ## Amministrazione delle ferrovie dello Stato.
 
-### Art. 13
+## Art. 13
 
 Le entrate ordinarie e straordinarie del bilancio dell'Amministrazione delle ferrovie dello Stato, comprese quelle delle gestioni speciali ed autonome, accertate nell'esercizio finanziario 1942-43, per la competenza propria dell'esercizio medesimo, sono stabilite, come risulti dal conto consuntivo dell'Amministrazione stessa, allegato al rendiconto del Ministero
 
@@ -204,7 +204,7 @@ in............................................. L. 40.386.191.667,30 delle quali
  -----------------
 ```
 
-### Art. 14
+## Art. 14
 
 Le spese ordinarie e straordinarie del bilancio dell'Amministrazione predetta, comprese quelle delle gestioni speciali ed autonome, accertate nell'esercizio finanziario 1942-43, per la competenza propria dell'esercizio medesimo sono
 
@@ -215,7 +215,7 @@ stabilite in................................... L. 40.386.191.667,30 delle quali
  -----------------
 ```
 
-### Art. 15
+## Art. 15
 
 Le entrate rimaste da riscuotere alla chiusura del l'esercizio 1941-42 restano determinate
 
@@ -226,7 +226,7 @@ in............................................. L. 3.994.555.087,50 delle quali 
  -----------------
 ```
 
-### Art. 16
+## Art. 16
 
 Le spese rimaste da pagare alla chiusura dell'esercizio 1941-42 restano determinate
 
@@ -237,7 +237,7 @@ in............................................. L. 4.310.855.978,22 delle quali 
  -----------------
 ```
 
-### Art. 17
+## Art. 17
 
 I residui attivi alla chiusura dell'esercizio 1942-43 sono stabiliti nelle seguenti somme:
 
@@ -252,7 +252,7 @@ esercizi precedenti (art. 15).................. L. 562.071.477,39
  -----------------
 ```
 
-### Art. 18
+## Art. 18
 
 I residui passivi alla chiusura dell'esercizio 1942-43 sono stabiliti nelle seguenti somme:
 

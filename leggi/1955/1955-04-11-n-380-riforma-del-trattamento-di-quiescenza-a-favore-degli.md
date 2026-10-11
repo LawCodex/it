@@ -26,17 +26,15 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I. - Disposizioni generali concernenti la riforma
+## CAPO I. - Disposizioni generali concernenti la riforma del trattamento di quiescenza.
 
-### del trattamento di quiescenza.
-
-#### Art. 1
+### Art. 1
 
 La Cassa di previdenza per le pensioni degli ufficiali giudiziari, istituita con legge 12 dicembre 1907, n. 754, assume la denominazione di Cassa per le pensioni agli ufficiali giudiziari e agli aiutanti ufficiali giudiziari.
 
 Il trattamento di quiescenza stabilito dall'ordinamento della Cassa, di cui al regio decreto 12 luglio 1934, n. 2312, e successive disposizioni, e' modificato secondo le norme della presente legge.
 
-#### Art. 2
+### Art. 2
 
 La pensione diretta a favore degli ufficiali giudiziari e' costituita dalle seguenti tre parti:
 
@@ -48,7 +46,7 @@ c) dalla rendita vitalizia costante di lire 72.000 annue.
 
 La rendita di cui alla lettera b) assorbe e sostituisce l'assegno supplementare di cui all'art. 2 della legge 21 novembre 1949, n. 914, e successive modificazioni. La rendita di cui alla lettera c) assorbe e sostituisce l'assegno di caroviveri temporaneo di cui all'art. 2 del decreto legislativo 3 settembre 1946, n. 143, e successive modificazioni, nonche' l'indennita' di caropane di cui al decreto legislativo 6 maggio 1947, n. 433, e successive modificazioni, ferma rimanendo la sospensione del pagamento della predetta rendita vitalizia di cui alla lettera c) nei casi previsti dall'ultimo comma dell'art. 2 del citato decreto legislativo 3 settembre 1946, n. 143.
 
-#### Art. 3
+### Art. 3
 
 La pensione indiretta o di riversibilita' e' calcolata su quella diretta come segue:
 
@@ -56,7 +54,7 @@ La pensione indiretta o di riversibilita' e' calcolata su quella diretta come se
 
 2\) per la parte di cui alla lettera c) del predetto art. 2, in base all'aliquota fissa di cinque sesti.
 
-#### Art. 4
+### Art. 4
 
 L'indennita' una volta tanto, diretta o indiretta, e' costituita dalle seguenti due parti:
 
@@ -64,7 +62,7 @@ a) dai tre quarti del valore capitale della rendita vitalizia di cui alla letter
 
 b) dal valore capitale medio della meta' della rendita vitalizia di cui alla lettera b) dell'art. 2. Tale valore capitale e' calcolato in lire dodici per ogni lira di rendita.
 
-#### Art. 5
+### Art. 5
 
 La pensione diretta di privilegio di cui alla lettera e) dell'art. 26 del regio decreto 12 luglio 1934, n. 2312, e' costituita dalle seguenti parti:
 
@@ -76,7 +74,7 @@ Quando si tratti di lesioni od infermita' ascrivibili alla prima categoria della
 
 Il trattamento determinato in applicazione dei due commi precedenti, ove risulti inferiore alla meta' dei proventi di cui all'art. 109 della legge 18 ottobre 1951, n. 1128, accertati per l'ultimo anno di servizio dell'ufficiale giudiziario, aumentati dell'indennita' integrativa di cui all'art. 130 oppure ridotti ai termini dell'art. 142 della legge stessa, viene integrato, per la differenza, da una somma a carico dello Stato, che in nessun caso puo' superare le lire 118.000 annue.
 
-#### Art. 6
+### Art. 6
 
 Il trattamento di pensione indiretta di privilegio, e quello di riversibilita' di pensione diretta di privilegio quando l'ufficiale giudiziario sia morto in conseguenza dell'evento di servizio che abbia dato luogo al conferimento dell'assegno privilegiato, sono calcolati, con l'applicazione delle aliquote stabilite dall'art. 3, su quello che sarebbe spettato o che e' stato liquidato all'ufficiale giudiziario ai sensi dei primi due commi dell'art. 5, prendendo a base, pero', per la parte di trattamento commisurata, ai soli anni di servi zio, la rendita vitalizia di lire 243.200 annue stabilita dal comma secondo dello stesso art. 5.
 
@@ -84,15 +82,15 @@ Il trattamento di riversibilita' di pensione diretta di privilegio nei casi non 
 
 Il trattamento determinato in applicazione dei due commi precedenti, ove risulti inferiore alla meta' dei proventi di cui all'ultimo comma dell'art. 5, viene integrato, per la differenza, da una somma a carico dello Stato, che in nessun caso puo' superare le lire 118.000 annue.
 
-#### Art. 7
+### Art. 7
 
 Agli aiutanti ufficiali giudiziari e loro famiglie, ai fini della valutazione dei servizi e dell'accertamento del diritto al trattamento di quiescenza, si applicano le norme stabilite per gli ufficiali giudiziari. La misura di tale trattamento e' pari ai due terzi di quello previsto dagli articoli dal 2 al 6. Per la determinazione dell'importo dell'integrazione, che in nessun caso puo' superare le lire 80.000 annue, prevista dall'ultimo comma degli articoli 5 e 6, si considerano i proventi di cui al n. 1 dell'art. 156 della legge 18 ottobre 1951, n. 1128, aumentati oppure ridotti ai sensi dell'art. 159 e del secondo comma dell'art. 160 della legge stessa.
 
-#### Art. 8
+### Art. 8
 
 Il trattamento di quiescenza spettante all'ufficiale giudiziario che abbia prestato precedentemente servizi in qualita' di aiutante ufficiale giudiziario e' pari all'importo del trattamento determinato in applicazione degli articoli dal 2 al 6, considerando l'intero servizio come prestato in qualita' di ufficiale giudiziario, diminuito di un terzo della parte di tale trattamento, calcolata in proporzione del periodo di servizio reso in qualita' di aiutante ufficiale giudiziario. A tal fine si considerano le durate dei rispettivi servizi espresse in mesi, trascurando le frazioni di mese.
 
-#### Art. 9
+### Art. 9
 
 Il contributo annuo per ogni ufficiale giudiziario in organico, a favore della Cassa di previdenza, e' stabilito, a partire dalla data da cui ha effetto la presente legge, in lire 120.000, ripartito, per lire 40.800, a carico dell'iscritto e, per lire 79.200, a carico del Ministero di grazia e giustizia. Quando pero' l'organico non sia completo o l'ufficiale giudiziario si trovi in aspettativa o sospeso per provvedimento disciplinare o per condanna, il contributo e' dovuto per intero dal Ministero di grazia e giustizia. (1) (2) ((3))
 
@@ -114,7 +112,7 @@ AGGIORNAMENTO (3)
 
 La L. 12 agosto 1962, n. 1353, come modificata dalla L. 27 gennaio 1968, n. 36, a sua volta modificata dalla L. 18 novembre 1975, n. 586, ha disposto (con l'art. 12) che "I contributi annui a favore della Cassa pensioni previsti per ogni posto di organico di ufficiale giudiziario e per ogni posto di organico di aiutante ufficiale giudiziario dall'articolo 9 della legge 27 gennaio 1968, n. 36, sono elevati, a decorrere dal 1 gennaio 1975 rispettivamente, ad annue L. 940.000 e ad annue L. 705.000".
 
-#### Art. 10
+### Art. 10
 
 Il contributo annuo per ogni aiutante ufficiale giudiziario in organico, a favore della Cassa di previdenza, e' stabilito, a partire dalla data da cui ha effetto la presente legge, in lire 79.200, ripartito, per lire 25.200, a carico dell'iscritto e, per lire 54.000, a carico del Ministero di grazia e giustizia. Per il periodo anteriore a tale data, il contributo complessivo e le relative quote a carico dell'iscritto e del Ministero sono stabiliti, rispettivamente, in annue lire 69.000, 15.000 e 54.000.
 
@@ -138,41 +136,41 @@ AGGIORNAMENTO (3)
 
 La L. 12 agosto 1962, n. 1353, come modificata dalla L. 27 gennaio 1968, n. 36, a sua volta modificata dalla L. 18 novembre 1975, n. 586, ha disposto (con l'art. 12) che "I contributi annui a favore della Cassa pensioni previsti per ogni posto di organico di ufficiale giudiziario e per ogni posto di organico di aiutante ufficiale giudiziario dall'articolo 9 della legge 27 gennaio 1968, n. 36, sono elevati, a decorrere dal 1 gennaio 1975 rispettivamente, ad annue L. 940.000 e ad annue L. 705.000".
 
-#### Art. 11
+### Art. 11
 
 La ritenuta prevista dall'art. 43 del regio decreto 12 luglio 1934, n. 2312, e' ridotta all'1 per cento e si applica sulla pensione diretta degli ufficiali giudiziari e degli aiutanti ufficiali giudiziari, di cui agli articoli 2, 5 e 7.
 
-#### Art. 12
+### Art. 12
 
 In tutti i casi di trattamento di quiescenza ad onere ripartito tra Cassa per le pensioni agli ufficiali giudiziari e agli aiutanti ufficiali giudiziari ed altri Enti, si applicano le norme contenute negli articoli dal 2 al 7 e nell'ultimo comma dell'art. 8 della legge 22 giugno 1954, n. 523, anche, quando tra gli Enti che concorrono alla ricongiunzione dei servizi non e' compreso lo Stato.
 
-#### Art. 13
+### Art. 13
 
 Il trattamento annuo lordo di pensione risultante dall'applicazione dei precedenti articoli da considerarsi comprensivo dell'elevazione di cui all'art. 10 del decreto del Presidente della Repubblica 11 luglio 1952, n. 767, e' corrisposto, al netto delle ritenute, in dodici rate mensili posticipate. Ai titolari del trattamento predetto compete, inoltre, la tredicesima mensilita' di cui alla legge 26 novembre 1953, n. 877.
 
 ## CAPO II. - Disposizioni generali concernenti modifiche all'ordinamento.
 
-#### Art. 14
+### Art. 14
 
 Il minimo di anni 20 previsto dalle lettere a), b) e c) dell'art. 26 e dalla lettera a) dell'art. 29 del regio decreto 12 luglio 1934, n. 2312, rispettivamente per il diritto al conseguimento della pensione diretta e della pensione indiretta, e' ridotto ad anni 15 di servizio utile, nei casi di cessazione dal servizio in eta' non inferiore ad anni 65. Quando il servizio utile non raggiunge gli anni 20, la rendita vitalizia costante di cui alla lettera c) dell'art. 2 e' concessa in ragione di tanti ventesimi quanti sono gli anni di servizio.
 
-#### Art. 15
+### Art. 15
 
 Il minimo di dieci anni previsto dall'art. 25 e dall'art. 27 del regio decreto 12 luglio 1934, n. 2312, rispettivamente, per il diritto al conseguimento della indennita' diretta una volta tanto e di quella indiretta, e' ridotte ad un anno compiuto di servizio utile.
 
 Nei riguardi degli iscritti alla Cassa, per le pensioni agli ufficiali giudiziari e agli aiutanti ufficiali giudiziari, e' pure ridotto ad un anno compiuto il minimo di cinque anni di servizio reso con continuazione di iscrizione o con reiscrizione previsto dall'ultimo comma dell'art. 26 della legge 24 maggio 1952, n. 610, al fine del conseguimento del diritto ad altra indennita' una volta tanto.
 
-#### Art. 16
+### Art. 16
 
 Il diritto all'indennita' diretta una volta tanto e' esteso all'iscritto che, con almeno cinque anni di servizio utile e prima dei venticinque, cessi dal servizio in condizioni o per cause diverse da quelle contemplate dall'art. 25 e dalla lettera e) dell'art. 26 del regio decreto 12 luglio 1934, n. 2312.
 
 Nei casi previsti dal comma precedente la misura, dell'indennita', per l'ufficiale giudiziario e' pari alla meta' dell'importo risultante dall'applicazione dello, lettera b) dell'art. 4 e, per l'aiutante ufficiale giudiziario, e pari ad un terzo dell'importo stesso.
 
-#### Art. 17
+### Art. 17
 
 Nel caso di morte dell'ufficiale giudiziario o dell'aiutante ufficiale giudiziario che avvenga entro il triennio dalla cessazione dal servizio, l'indennita' indiretta una volta tanto, spettante ai sensi del comma primo dell'art. 27 del regio decreto 12 luglio 1934, n. 2312, viene calcolata detraendo dall'importo risultante dall'applicazione degli articoli 4 e 7 quello eventualmente corrisposto in applicazione dell'art. 16. Quando sussistano le condizioni di servizio per la concessione del trattamento di pensione indiretta, previste dalla lettera a) dell'art. 29 del regio decreto sopra citato, il titolare di essa ha facolta' di chiedere che la predetta eventuale indennita' corrisposta ai sensi dell'art. 16 venga rifusa, anziche' in unica soluzione, mediante detrazione dalla pensione della quota annua vitalizia corrispondente all'indennita' stessa, da determinarsi con l'applicazione delle tabelle di annualita' vitalizie a favore di vedove e orfani allegate alla legge 22 giugno 1954, n. 523.
 
-#### Art. 18
+### Art. 18
 
 Gli ufficiali giudiziari e gli aiutanti ufficiali giudiziari iscritti alla Cassa di previdenza al 5 novembre 1951, data di pubblicazione della legge 18 ottobre 1951, n. 1128, o successivamente, possono ottenere il riscatto dei servizi non altrimenti utili a pensione prestati allo Stato, ivi compreso il servizio militare, oppure ad altri enti pubblici, nonche' il riscatto dei servizi prestati anteriormente alla data predetta in qualita' di commesso autorizzato. Il servizio complessivo da riscattare viene computato in anni interi, trascurando la frazione, che, pero', se superiore a sei mesi, puo', a richiesta dell'interessato, essere computata per un anno.
 
@@ -190,13 +188,13 @@ La presentazione puo' essere fatta alla Cassa di previdenza oppure al capo dell'
 
 Nei confronti degli iscritti cessati dal servizio nel periodo dal 6 novembre 1951 alla data di entrata in vigore della presente legge, la decorrenza del termine previsto dalla lettera b) e' protratta a tale data. Dalla stessa data decorrono i termini previsti dalla lettera a), qualora questa risulti piu' favorevole agli interessati.
 
-#### Art. 19
+### Art. 19
 
 Il contributo in una sola volta dovuto dall'ufficiale giudiziario o dall'aiutante ufficiale giudiziario per ottenere il riscatto dei servizi di cui al precedente articolo si determina con le norme contenute nell'allegato n. 1 alla presente legge.
 
 Nel caso in cui la domanda di riscatto venga presentata posteriormente alla, data di cessazione dal servizio, il recupero del contributo viene effettuato con ritenuta sulle intere prime rate della pensione o sull'indennita' una, volta tanto spettante.
 
-#### Art. 20
+### Art. 20
 
 Le domande di riscatto sono sottoposte alle deliberazioni del Consiglio di amministrazione della Cassa depositi e prestiti e degli Istituti di previdenza - Sezione seconda.
 
@@ -204,7 +202,7 @@ In conformita' delle deliberazioni di cui al comma precedente, il direttore gene
 
 Entro novanta giorni dalla comunicazione del decreto l'interessato puo' presentare ricorso alla Corte dei conti. Lo stesso diritto di ricorso compete alla Direzione generale degli Istituti di previdenza, per la quale il termine predetto decorre dalla data della deliberazione.
 
-#### Art. 21
+### Art. 21
 
 L'iscritto che presenti la domanda di riscatto durante il periodo di attivita' di servizio ha facolta' di versare il contributo in una sola volta, ovvero di chiedere che la somma corrispondente sia trasformata, in base alla tabella D allegata alla presente legge, in annualita' costanti, da pagarsi a rate mensili posticipate, per un numero di anni non superiore al doppio di quelli del servizio riscattato e in nessun caso superiore a quindici.
 
@@ -218,7 +216,7 @@ fissato dalla Direzione generale degli Istituti di previdenza.
 
 I debitori morosi sono tenuti al pagamento degli interessi composti del cinque per cento annuo sulle rate scadute e non ancora pagate.
 
-#### Art. 22
+### Art. 22
 
 L'iscritto che abbia chiesto il versamento rateale del contributo di riscatto e che cessi dal servizio senza averlo compiuto, ovvero la sua vedova o i suoi orfani debbono versare in unica soluzione, o con ritenuta del quinto della pensione, l'importo delle rate dei contributo che avrebbero dovuta essere versate qualora il pagamento rateale avesse avuto effetto dal primo del mese successivo alla presentazione della domanda di riscatto, diminuito dell'importo delle rate effettivamente versate ed aumentato dell'importo degli interessi di mora eventualmente dovuti a norma dell'ultimo comma dell'art. 21.
 
@@ -230,25 +228,25 @@ L'iscritto in attivita' di servizio che abbia iniziato il pagamento rateale del 
 
 Quando la domanda di riscatto sia stata presentata successivamente alla data di morte in attivita' di servizio dell'iscritto, il contributo di cui all'art. 19 - dovuto in ogni caso in una sola volta oppure mediante ritenuta delle intere prime rate di pensione - e' ridotto alla meta' qualora la vedova o gli orfani dell'iscritto abbiano diritto alla pensione.
 
-#### Art. 23
+### Art. 23
 
 Gli interessi annuali sui conti individuali relativi ai versamenti volontari, previsti dall'art. 14 del regio decreto 12 luglio 1934, n. 2312, sono computati, a decorrere dalla data da cui ha effetto la presente legge, al saggio del 4,75 per cento.
 
 ## CAPO III. - Disposizioni transitorie e finali.
 
-#### Art. 24
+### Art. 24
 
 Per le pensioni a carico totale o parziale della Cassa per Le pensioni agli ufficiali giudiziari e agli aiutanti ufficiali giudiziari relative a casi di cessazione dal servizio di ufficiale giudiziario avvenute anteriormente alla data da cui ha effetto la presente legge, escluse quelle contemplate dal successivo art. 28, l'importo annuo lordo dell'assegno supplementare diretto, di cui ai commi secondo e terzo dell'art. 2 della legge 21 novembre 1949, n. 914, e successive modificazioni, e' stabilito in tante volte lire 3700 annue quanti sono gli anni di servizio utile, fino ad un massimo di lire 148.000. L'assegno supplementare indiretto o di riversibilita' e' calcolato sulla predetta misura del corrispondente assegno diretto in base alle aliquote di cui all'art. 38 del regio decreto 12 luglio 1934, n. 2312.
 
 Per le pensioni ad onere ripartito tra la Cassa predetta ed altre Casse amministrate dalla Direzione generale degli Istituti di previdenza, quando il pagamento e' effettuato dalla Cassa per le pensioni agli ufficiali giudiziari e agli aiutanti ufficiali giudiziari, questa continua a corrispondere, a totale suo carico, l'assegno supplementare nell'intera misura risultante dalla applicazione del comma precedente.
 
-#### Art. 25
+### Art. 25
 
 Per le pensioni di cui all'art. 24, ad onere ripartito tra Cassa per le pensioni agli ufficiali giudiziari e agli aiutanti ufficiali giudiziari ed altri enti, quando il pagamento e' effettuato dalla Cassa stessa l'assegno supplementare nella misura stabilita dal citato art. 24 e' dovuto, in proporzione alle sole quote, della pensione complessiva originaria a carico della Cassa predetta e a carico degli Enti locali, senza attribuzione di quote a carico dello Stato.
 
 Quando il pagamento e', invece, effettuato dallo Stato, al titolare della pensione compete la quota di assegno supplementare a carico della Cassa per le pensioni agli ufficiali giudiziari e agli aiutanti ufficiali giudiziari dovuta in proporzione alla sola quota, della pensione complessiva originaria, a carico della Cassa stessa.
 
-#### Art. 26
+### Art. 26
 
 Per le pensioni contemplate dall'art. 24, l'assegno di caroviveri temporaneo di cui all'art. 2 del decreto legislativo 3 settembre 1946, n. 143, e alle successive modificazioni e' stabilito nelle stesse misure previste, per la rendita vitalizia costante, dagli articoli 2, lettera c), 3, n. 2), e art. 14. Nella nuova misura dell'assegno di caroviveri temporaneo e' conglobata l'indennita' di caropane di cui al decreto legislativo 6 maggio 1947, n. 433, e successive modificazioni, restando tale indennita' soppressa come emolumento a se' stante.
 
@@ -260,13 +258,13 @@ Resta fermo l'obbligo per i pensionati di denunciare al competente Ufficio provi
 
 Si applica per l'assegno personale di cui al secondo comma, la disposizione dell'art. 2, ultimo comma, del decreto legislativo 3 settembre 1946, n. 143.
 
-#### Art. 27
+### Art. 27
 
 Per le pensioni ad onere ripartito contemplate dall'art. 25, quando il pagamento e' effettuato dalla Cassa per le pensioni agli ufficiali giudiziari e agli aiutanti ufficiali giudiziari, competono al titolare l'intero assegno di caroviveri temporaneo e l'eventuale assegno personale previsto dall'art. 26. Tali assegni sono dovuti a carico della Cassa, che ha diritto di rivalsa solo per le quote attribuibili agli enti locali, da determinarsi in proporzione delle relative quote di pensione originaria.
 
 Nei casi di cui al comma precedente, quando il pagamento e' fatto dallo Stato, al titolare della pensione compete l'assegno di caroviveri previsto a favore dei pensionati dello Stato, senza diritto, da parte dello Stato stesso, a rivalsa alcuna verso la Cassa predetta,
 
-#### Art. 28
+### Art. 28
 
 Al titolare di pensione diretta o indiretta di privilegio oppure di riversibilita' di pensione diretta di privilegio a carico totale o parziale della Cassa per le pensioni agli ufficiali giudiziari e agli aiutanti ufficiali giudiziari, relativa ad ufficiale giudiziario cessato dal servizio anteriormente alla data da cui ha effetto la presente legge, compete, quando il pagamento della pensione e' effettuato dalla Cassa, il corrispondente trattamento di privilegio di cui agli articoli 5 e 6, nella misura prevista dagli articoli stessi, per il servizio complessivo. La Cassa ha diritto di rivalsa a carico degli Enti locali per la eventuale quota del nuovo trattamento attribuibile agli enti stessi, da determinarsi in proporzione delle relative quote della totale pensione originaria, mentre a carico dello Stato rimane ferma la quota dovuta al giorno precedente la data da cui ha effetto la presente legge.
 
@@ -274,27 +272,27 @@ Ai fini dell'eventuale applicazione del comma secondo dell'art. 5 si ha riguardo
 
 Nei casi di pensione di cui al primo comma, ad onere ripartito tra Cassa, Stato ed eventualmente altri enti, quando il pagamento e' fatto dallo Stato, ai fini della determinazione della misura della pensione, si applicano le relative norme previste dell'ordinamento statale, tenendo conto del complessivo servizio. La rivalsa viene effettuata nei confronti degli enti locali per le quote del nuovo trattamento attribuibili agli enti stessi, da determinarsi in proporzione delle relative quote della totale pensione originaria, mentre a carico della Cassa di previdenza degli ufficiali giudiziari rimane ferma la quota dovuta al giorno precedente la data da cui ha effetto la presente legge.
 
-#### Art. 29
+### Art. 29
 
 Per i titolari di pensione diretta di cui all'art. 24 il complessivo trattamento risultante in applicazione dello stesso art. 24 e dell'art. 26 in nessun caso puo' essere superiore ad annue lire 480.000. A tale fine, l'eventuale eccedenza, lasciando inalterati l'assegno supplementare e l'assegno di caroviveri temporaneo, viene decurtata dalla pensione.
 
-#### Art. 30
+### Art. 30
 
 Il trattamento annuo lordo dovuto in applicazione degli articoli dal 24 al 29, da considerarsi come comprensivo dell'elevazione di cui all'art. 10 del decreto del Presidente della Repubblica 11 luglio 1952, n. 767, compete dalla data da cui ha effetto la presente legge ed e' corrisposto, al netto delle ritenute, in dodici rate mensili posticipate. Ai titolari del predetto trattamento spetta inoltre la tredicesima mensilita' di cui alla legge 26 novembre 1953, n. 877.
 
-#### Art. 31
+### Art. 31
 
 Il contributo di riscatto di cui agli articoli 19 e 21, riferibilmente ai servizi prestati in qualita' di commesso autorizzato con effettiva iscrizione o comunque con obbligo di iscrizione all'Istituto nazionale della previdenza sociale per l'assicurazione invalidita', vecchiaia e superstiti, e' ridotto ad un terzo qualora la relativa domanda sia stata o venga presentata nel modo e nei termini prescritti dall'art. 18 e comunque entro il termine di due anni dalla data di entrata in vigore della presente legge, purche' alla data della domanda stessa non sia stato ancora conseguito il diritto alla pensione da parte del predetto Istituto.
 
 Nei casi in cui ricorre l'applicazione del comma precedente, l'Istituto nazionale della previdenza sociale, all'atto della comunicazione dell'effettuato riscatto, e' tenuto a trasferire alla Cassa per le pensioni agli ufficiali giudiziari e agli aiutanti ufficiali giudiziari i contributi senza interessi ad esso versati riferibilmente al periodo dei servizi di cui al comma predetto, ai fini dell'assicurazione obbligatoria per la invalidita', la vecchiaia e i superstiti, rimanendo il periodo stesso considerato come non utile a tali fini.
 
-#### Art. 32
+### Art. 32
 
 Le norme concernenti la nuova misura del trattamento di quiescenza contenute negli articoli 2, 3, 4, 5, 6, 7, 8, 11, 12 e 13 si applicano, nei confronti degli ufficiali giudiziari, per i casi di cessazione dal servizio a partire dalla data da cui ha effetto la presente legge e, nei confronti degli aiutanti ufficiali giudiziari, anche per i casi di cessazioni anteriori a tale data.
 
 Le norme concernenti modifiche del diritto al trattamento di quiescenza contenute negli articoli 14, 15, 16 e 17 si applicano, nei confronti degli ufficiali giudiziari e degli aiutanti ufficiali giudiziari, per i casi di cessazione dal servizio a partire dalla data da cui ha effetto la presente legge.
 
-#### Art. 33
+### Art. 33
 
 La presente legge ha effetto dal 1 gennaio dell'anno in cui e' pubblicata nella Gazzetta Ufficiale della Repubblica italiana.
 
@@ -312,7 +310,7 @@ Visto, il Guardasigilli: DE PIETRO
 
 ## CAPO III. - Disposizioni transitorie e finali.
 
-#### Allegato n. 1
+### Allegato n. 1
 
 ALLEGATO N. 1.
 
@@ -360,7 +358,7 @@ Il contributo di riscatto da versarsi in una sola volta e' costituito - quando s
 
 AVVERTENZA. - L'eta' di cui alla lettera a) e la durata di cui alla lettera b) si calcolano in anni interi, trascurando le frazioni non superiori a sei mesi e computando per un anno quelle superiori.
 
-#### Tabella A
+### Tabella A
 
 TABELLA A.
 
@@ -368,7 +366,7 @@ Rendite vitalizie di cui alla lettera a) dell'art. 2 calcolate al saggio di inte
 
 Parte di provvedimento in formato grafico
 
-#### Tabella B
+### Tabella B
 
 TABELLA B.
 
@@ -376,7 +374,7 @@ Rendita vitalizia commisurata agli anni utili a pensione, di cui alla lettera b)
 
 Parte di provvedimento in formato grafico
 
-#### Tabella C
+### Tabella C
 
 TABELLA C.
 
@@ -384,7 +382,7 @@ Valori delle annualita' vitalizie a pagamenti mensili posticipati e complete cal
 
 Parte di provvedimento in formato grafico
 
-#### Tabella D
+### Tabella D
 
 TABELLA D.
 

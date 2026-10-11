@@ -30,17 +30,15 @@ la seguente legge:
 
 ## TITOLO I - RIFORMA DEL SISTEMA
 
-### CAPO I
+### CAPO I - Pensione sociale e Fondo sociale
 
-#### Pensione sociale e Fondo sociale
-
-##### Art. 1
+#### Art. 1
 
 I titolari di pensione delle assicurazioni obbligatorie per l'invalidita', la vecchiaia ed i superstiti dei lavoratori dipendenti, dei lavoratori delle miniere, cave e torbiere, dei coltivatori diretti, mezzadri e coloni, degli artigiani e loro familiari, disciplinate rispettivamente dal regio decreto-legge 4 ottobre 1935, n. 1827, dalla legge 3 gennaio 1960, n. 5, dalla legge 26 ottobre 1957, n. 1047, dalla legge 4 luglio 1959, n. 463, e successive modificazioni ed integrazioni, hanno diritto ad una pensione nella misura di lire 12.000 mensili a carico del Fondo sociale di cui al successivo articolo 2, a decorrere dal 1 gennaio 1965.
 
 La pensione di cui sopra e' maggiorata di un'aliquota pari ad un dodicesimo del suo ammontare annuo da corrispondersi con la rata di dicembre.
 
-##### Art. 2
+#### Art. 2
 
 Presso l'Istituto nazionale della previdenza sociale e' istituito, con separata contabilita', il Fondo sociale per il finanziamento delle prestazioni di cui al precedente articolo 1.((9))
 
@@ -50,7 +48,7 @@ AGGIORNAMENTO (9)
 
 La L. 9 marzo 1989, n. 88 ha disposto (con l'art. 40, comma 1) che "A decorrere dal 1° gennaio 1989 e' soppresso il fondo sociale di cui all'articolo 2 della legge 21 luglio 1965, n. 903".
 
-##### Art. 3
+#### Art. 3
 
 Il Fondo sociale e' inizialmente alimentato:
 
@@ -108,7 +106,7 @@ Il quinto comma dell'articolo 15 della legge 20 febbraio 1958, n. 55, e' abrogat
 
 Il finanziamento del Fondo sociale per il periodo successivo all'anno 1969 sara' regolato con apposito provvedimento legislativo, in modo che il contributo dello Stato al Fondo stesso sia, in percentuale, progressivamente crescente fino a raggiungere il carico totale anche in relazione alle esigenze di miglioramento del livello della pensione sociale,
 
-##### Art. 4
+#### Art. 4
 
 All'erogazione dei contributi dello Stato al Fondo Sociale di cui alle lettere a) e b) dell'articolo precedente, relativi all'anno finanziario 1965, si provvede, quanto a milioni 313.230, con gli stanziamenti iscritti ai capitoli n. 1207 (23.000 milioni); n. 1208 (4.000 milioni); n. 1211 (178.000 milioni); n. 1212 (88.500 milioni);
 
@@ -118,7 +116,7 @@ Il Ministro per il tesoro e' autorizzato ad apportare con propri decreti le occo
 
 Le somme versate dallo Stato alle competenti gestioni previdenziali successivamente al 31 dicembre 1964 e fino alla data di entrata in vigore della presente legge, in conto delle erogazioni di cui alle lettere a), b) e c) dell'articolo precedente sono trasferite al Fondo sociale.
 
-##### Art. 5
+#### Art. 5
 
 Con decreto del Ministro per il lavoro e la previdenza sociale, di concerto con il Ministro per il tesoro, sentito il Consiglio di amministrazione dell'Istituto nazionale della previdenza sociale, le misure percentuali del contributo di cui al precedente articolo 3, lettera d), dovranno essere ridotte in relazione all'ammontare degli eventuali avanzi risultanti dalla contabilita' del Fondo sociale relativa all'esercizio precedente, tenuto conto delle esigenze di copertura del fabbisogno finanziario del Fondo sociale per
 
@@ -132,7 +130,7 @@ Qualora gli Enti, Fondi, Casse e Gestioni, di cui al precedente comma, presentin
 
 La disposizione di cui alla lettera h) del precedente articolo 3 non si applica ai regimi di pensione dei dipendenti delle Amministrazioni dello Stato, comprese quelle ad ordinamento autonomo, alle Casse di previdenza, amministrate dalla Direzione generale degli Istituti di previdenza del Ministero del tesoro, ai Monti pensioni o Istituti o Fondi speciali per pensioni amministrati da Comuni, Province, Regioni o Istituzioni pubbliche di assistenza e beneficenza.
 
-##### Art. 6
+#### Art. 6
 
 Ad estinzione del debito al 31 dicembre 1964 della gestione speciale per l'assicurazione invalidita' e vecchiaia dei coltivatori diretti, mezzadri e coloni, per le anticipazioni ricevute ai sensi del primo comma dello articolo 29 della legge 9 gennaio 1963, n. 9, lo Stato concede all'Istituto nazionale della previdenza sociale - Fondo per l'adeguamento delle pensioni - un contributo straordinario di lire 411.715 milioni, corrispondente al disavanzo patrimoniale della gestione alla stessa data.
 
@@ -144,7 +142,7 @@ AGGIORNAMENTO (9a)
 
 Il D.L. 22 dicembre 1981, n. 791, convertito con modificazioni, dalla L. 26 febbraio 1982, n. 54 ha disposto (con l'art. 4, comma 1) che "Il contributo annuo obbligatoriamente dovuto da ogni iscritto al Fondo di previdenza del clero e dei ministri di culto delle confessioni religiose diverse dalla cattolica, di cui all'art. 6 della legge 22 dicembre 1973, n. 903, e successive modificazioni ed integrazioni, e' aumentato, a decorrere dal 1 gennaio 1982, del 50 per cento dell'importo del contributo stesso dovuto dagli iscritti alla data del 31 dicembre 1981".
 
-##### Art. 7
+#### Art. 7
 
 In relazione al disposto di cui alla lettera a) dell'articolo 3, sono abrogate dalla data del 1° gennaio 1965 le seguenti norme concernenti la partecipazione dello Stato al finanziamento delle prestazioni dell'assicurazione obbligatoria per l'invalidita', la vecchiaia ed i superstiti:
 
@@ -160,7 +158,7 @@ In relazione al disposto di cui alla lettera a) dell'articolo 3, sono abrogate d
 
 Gli oneri a carico dello Stato di cui all'articolo 59, lettere a) e c) del regio decreto-legge 4 ottobre 1935, n. 1827, ed all'articolo 35, primo comma, del regio decreto-legge 14 aprile 1939, n. 636, e successive modificazioni ed integrazioni, nonche' gli oneri a carico dello Stato di cui agli articoli 7, 8, 9 e 13 della legge 20 febbraio 1958, n. 55, sono trasferiti, a decorrere dall'esercizio 1965, a carico delle assicurazioni obbligatorie interessate.
 
-##### Art. 8
+#### Art. 8
 
 Il titolare di piu' pensioni a carico delle assicurazioni obbligatorie di cui all'articolo 1 ha diritto ad una sola pensione sociale.
 
@@ -170,7 +168,7 @@ a) ai titolari di pensioni supplementari disciplinate dall'articolo 5 della legg
 
 b) ai titolari di piu' pensioni di cui almeno una a carico di forme obbligatorie di previdenza sostitutive dell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia e superstiti o di altri trattamenti di previdenza che hanno dato titolo all'esclusione o all'esonero da detta assicurazione.
 
-##### Art. 9
+#### Art. 9
 
 Le pensioni adeguate e quelle integrate ai trattamenti minimi a norma del titolo II, capo I, della presente legge sono diminuite
 
@@ -180,13 +178,13 @@ Nel caso previsto dal primo comma del precedente articolo 8, la
 
 diminuzione e' effettuata in proporzione all'ammontare delle singole pensioni.
 
-## CAPO II - Rivalutazione automatica delle pensioni
+### CAPO II - Rivalutazione automatica delle pensioni
 
-##### Art. 10
+#### Art. 10
 
 ((ARTICOLO ABROGATO DAL D.P.R. 27 APRILE 1968, N. 488))
 
-##### Art. 11
+#### Art. 11
 
 Il 3 per cento dei contributi riscossi per il Fondo per l'adeguamento delle pensioni in ciascun esercizio, al netto delle somme trasferite ai Fondo sociale ai sensi dell'articolo 3, lettera d), e' destinato alla costituzione di una speciale riserva.
 
@@ -196,37 +194,33 @@ I fondi disponibili nella riserva di cui al presente articolo, possono essere in
 
 L'articolo 18 della legge 4 aprile 1952, n. 218 e' abrogato.
 
-## CAPO III - Pensione privilegiata e pensione di anzianita'
+### CAPO III - Pensione privilegiata e pensione di anzianita'
 
-##### Art. 12
+#### Art. 12
 
 ((ARTICOLO ABROGATO DALLA L. 12 GIUGNO 1984, N. 222))
 
-##### Art. 13
+#### Art. 13
 
 ((ARTICOLO ABROGATO DAL D.P.R. 27 APRILE 1968, N. 488))
 
-## CAPO IV - Tabelle delle classi di retribuzione per la determinazione dei
+### CAPO IV - Tabelle delle classi di retribuzione per la determinazione dei contributi base
 
-### contributi base
-
-##### Art. 14
+#### Art. 14
 
 A decorrere dal primo periodo di paga successivo a quella in corso alla fine del terzo mese successivo a quello nel quale viene pubblicata la presente legge, le tabelle A) e B) n. 1 dei contributi base dovuti per le assicurazioni sociali obbligatorie, allegate alla legge 12 agosto 1962, n. 1338, sono sostituite dalle tabelle A) e B) n. 1, allegate alla presente legge.
 
-## TITOLO II - MIGLIORAMENTO
+## TITOLO II - MIGLIORAMENTO DEI TRATTAMENTI DI PENSIONE
 
-### DEI TRATTAMENTI DI PENSIONE
+### CAPO I
 
-#### CAPO I
-
-##### Art. 15
+#### Art. 15
 
 L'articolo 1 della legge 12 agosto 1962, n. 1338, e' sostituito dal seguente:
 
 "Il coefficiente di moltiplicazione delle pensioni base contemplate dall'articolo 9 della legge 4 aprile 1952, n. 218, nel testo modificato dalla legge 26 novembre 1955, n. 1125, e' elevato a 86,4 volte".
 
-##### Art. 16
+#### Art. 16
 
 Il primo comma dell'articolo 2 della legge 12 agosto 1962, n. 1338, e' sostituito dal seguente:
 
@@ -250,31 +244,31 @@ AGGIORNAMENTO (2a)
 
 L. 30 aprile 1969, n. 153 nel modificare l'art. 2 del D.P.R. 27 aprile 1968, n. 488 ha conseguentemente disposto (con l'art. 2) che "A decorrere dal 1 gennaio 1969, gli importi mensili dei trattamenti minimi di pensione a carico dell'assicurazione generale obbligatoria dei lavoratori dipendenti, previsti dall'articolo 2 del decreto del Presidente della Repubblica 27 aprile 1968, n. 488, sono elevati a: lire 23.000 mensili, per i titolari di eta' inferiore a 65 anni; lire 25.000 mensili, per i titolari che abbiano compiuto i 65 anni di eta'."
 
-##### Art. 17
+#### Art. 17
 
 Il coefficiente di moltiplicazione delle pensioni base a carico delle Gestioni speciali per i coltivatori diretti, coloni e mezzadri e per gli artigiani, e' elevato a 86,4 volte.
 
 Il contributo dovuto dagli artigiani per l'adeguamento delle pensioni, a norma dell'articolo 4 della legge 4 luglio 1959, n. 463, e' elevato a lire 1.200 mensili a decorrere dal 1 gennaio 1965.
 
-##### Art. 18
+#### Art. 18
 
 Il trattamento minimo spettante al coltivatori diretti, coloni e mezzadri ed agli artigiani e' elevato, per tutte le categorie di pensioni, a lire 12.000 mensili.
 
-##### Art. 19
+#### Art. 19
 
 L'ammontare mensile della pensione nel casi in cui si applicano le riduzioni previste dall'articolo 2 della legge 12 agosto 1962, n. 1338, non puo' essere inferiore, al netto delle maggiorazioni spettanti per i figli, allo importo mensile della pensione sociale di cui al precedente articolo 1.
 
 Il primo comma dell'articolo 25 del decreto del Presidente della Repubblica 26 aprile 1957, n. 818, e' abrogato.
 
-## CAPO II - Maggiorazioni della pensione
+### CAPO II - Maggiorazioni della pensione
 
-##### Art. 20
+#### Art. 20
 
 La maggiorazione della pensione di vecchiaia, nel casi di differimento della liquidazione a norma dell'articolo 12, sub articolo 2, della legge 4 aprile 1952, n. 218, e' stabilita nelle misure derivanti dall'applicazione dei coefficienti indicati nelle tabelle C e D allegate alla presente legge.
 
 Le disposizioni contenute nel comma precedente si applicano alle pensioni aventi decorrenza successiva al 31 dicembre 1964.
 
-##### Art. 21
+#### Art. 21
 
 Per ogni figlio di eta' non superiore ai 18 anni o, se di eta' superiore, purche' a carico del pensionato e inabile al lavoro ai sensi dell'articolo 39 del decreto del Presidente della Repubblica 26 aprile 1957, n. 818, la pensioni adeguate e quelle integrate ai trattamenti minimi delle assicurazioni obbligatorie, di cui al precedente articolo 1, sono aumentate come segue:
 
@@ -324,9 +318,9 @@ AGGIORNAMENTO (9a)
 
 Il D.L. 22 dicembre 1981, n. 791, convertito con modificazioni, dalla L. 26 febbraio 1982, n. 54 ha disposto (con l'art. 4, comma 2) che "Il contributo dello Stato di cui all'art. 21, secondo comma, della legge 22 dicembre 1973, n. 903, e' modificato, a decorrere dal 10 gennaio 1982, con decreto del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro, con la stessa periodicita' e nella stessa misura dell'aumento percentuale che ha dato luogo alle variazioni degli importi delle pensioni per perequazione automatica".
 
-## CAPO III - Prestazioni ai superstiti
+### CAPO III - Prestazioni ai superstiti
 
-##### Art. 22
+#### Art. 22
 
 L'articolo 13, sub articolo 2, della legge 4 aprile 1952, n. 218, e' sostituito dal seguente:
 
@@ -360,17 +354,17 @@ AGGIORNAMENTO (10)
 
 La Corte Costituzionale, con sentenza 29 - 31 dicembre 1993, n. 495 (in G.U. 1a s.s. 5/1/1994, n. 1) ha dichiarato "l'illegittimita' costituzionale dell'art. 22 della legge 21 luglio 1965, n. 903 (Avviamento alla riforma e miglioramento dei trattamenti di pensione della previdenza sociale), nella parte in cui non prevede che la pensione di riversibilita' sia calcolata in proporzione alla pensione diretta integrata al trattamento minimo gia' liquidata al pensionato o che l'assicurato avrebbe comunque diritto di percepire".
 
-##### Art. 23
+#### Art. 23
 
 Il secondo comma dell'articolo 13 della legge 4 aprile 1952, n. 218, e' sostituito dal seguente:
 
 "L'indennita' non puo' essere inferiore a lire 43.200 ne' superiore a lire 129.600".
 
-##### Art. 24
+#### Art. 24
 
 L'ultimo comma dell'articolo 1 del decreto legislativo luogotenenziale 18 gennaio 1945, n. 39, nel testo modificato dall'articolo 7 della legge 12 agosto 1962, n. 1338, e' sostituito dal seguente "Si prescinde dal requisito di eta' del pensionato, dalla durata del matrimonio e dalla differenza di eta' tra i coniugi quando sia nata prole anche postuma o il decesso sia avvenuto per causa di infortunio sul lavoro, di malattia professionale o per causa di guerra o di servizio".
 
-##### Art. 25
+#### Art. 25
 
 Il coniuge superstite dell'assicurato deceduto dopo il 31 dicembre 1939 o del pensionato deceduto anteriormente al 1 luglio 1962, gia' escluso dal pensionamento per effetto delle disposizioni contenute nelle lettere a), b) e e), dell'articolo 1 del decreto legislativo luogotenenziale 18 gennaio 1945, n. 39, ha diritto alla pensione secondo le norme dell'articolo 7 della legge 12 agosto 1962, n. 1338, nel testo modificato dal precedente articolo 24 a condizione che:
 
@@ -382,7 +376,7 @@ La pensione spettante per effetto delle disposizioni che precedono decorre dal p
 
 ## TITOLO III - DISPOSIZIONI VARIE
 
-##### Art. 26
+#### Art. 26
 
 Le disposizioni della presente legge riguardanti l'assicurazione per l'invalidita', la vecchiaia ed i superstiti dei lavoratori dipendenti, si estendono, in quanto applicabili, alle pensioni liquidate o da liquidare dall'Ente nazionale di previdenza ed assistenza per i lavoratori dello spettacolo.
 
@@ -398,11 +392,11 @@ La misura del contributo dovuto dall'Ente nazionale di previdenza ed assistenza 
 
 Le somme dovute dal Fondo per l'adeguamento delle pensioni all'Ente nazionale di previdenza ed assistenza per i lavoratori dello spettacolo per il periodo antecedente al primo gennaio 1965, in applicazione dell'articolo 34 della legge 4 aprile 1952, n. 218, e successive modificazioni ed integrazioni, saranno rideterminate in dipendenza della devoluzione al Fondo sociale del credito del predetto Fondo per l'adeguamento delle pensioni verso lo Stato, di cui alla lettera b) del precedente articolo 3, con decreto del Ministro per il lavoro e la previdenza sociale, di concerto con il Ministro per il tesoro, sulla base del rapporto proporzionale tra l'ammontare degli stanziamenti per concorso dello Stato in applicazione della legge 4 aprile 1952, n. 218, e successive modificazioni ed integrazioni e l'ammontare delle prestazioni erogate a tutto il 31 dicembre 1960, rispettivamente, dalle predette due gestioni.
 
-##### Art. 27
+#### Art. 27
 
 Gli aumenti delle pensioni di cui alla presente legge non si computano ai fini dell'accertamento dei proventi previsto dall'articolo 15 del decreto del Presidente della Repubblica 11 agosto 1963, n. 1329, relativo alle pensioni e agli assegni a favore dei ciechi civili.
 
-##### Art. 28
+#### Art. 28
 
 Sono apportate le seguenti modificazioni agli articoli 6, 7 e 9 del testo unico delle norme sugli assegni familiari, approvato con decreto del Presidente della Repubblica 30 maggio 1955, n. 797, modificato con le leggi 30 luglio 1957, n. 652, 25 gennaio 1959, n. 26, 12 agosto 1962, n. 1338 e 5 marzo 1965, n. 154:
 
@@ -426,17 +420,17 @@ AGGIORNAMENTO (1)
 
 La L. 18 marzo 1968, n. 238 ha disposto (con l'art. 6, lettera i)) che "Il Governo della Repubblica, su proposta del Ministro per il lavoro e la previdenza sociale di concerto con il Ministro per il tesoro, e' delegato ad emanare entro il 30 aprile 1968, anche con decreti separati aventi forza di legge, norme intese a stabilire che: (...) i limiti di reddito di cui all'articolo 28 della legge 21 luglio 1965, n. 903, sono aumentati del 10 per cento, a decorrere dal 1 maggio 1968".
 
-##### Art. 29
+#### Art. 29
 
 I miglioramenti stabiliti dalla presente legge non sono computabili ai fini dei limiti di reddito stabiliti dall'articolo 12, terzo comma, della legge 15 febbraio 1958, n. 46.
 
-##### Art. 30
+#### Art. 30
 
 L'articolo 96 del regolamento per l'esecuzione del regio decreto 30 dicembre 1923, n. 3184, concernente provvedimenti per l'assicurazione obbligatoria per l'invalidita', la vecchiaia ed i superstiti, approvato con regio decreto 28 agosto 1924, n. 1422, e' modificato come segue:
 
 "Nel caso di condanna, per sentenza passata in giudicato, alla reclusione per un periodo superiore ad un anno, se il pensionato ha moglie o figli minorenni, il pagamento della pensione, dopo che la condanna sia divenuta definitiva e per Il rimanente periodo della pena, e' fatto a loro favore; in mancanza di moglie o figli minorenni la pensione e' pagata alle persone viventi a carico del titolare e da lui designate. In mancanza anche di tali persone il pagamento 6 fatto al titolare della pensione".
 
-##### Art. 31
+#### Art. 31
 
 Quando il diritto a pensione nelle assicurazioni obbligatorie regolate rispettivamente dalle leggi 26 ottobre 1957, n. 1047 e 4 luglio 1959, n. 463, e successive modificazioni e integrazioni, sarebbe stato raggiunto anche senza il computo, ai fini del conseguimento dei requisiti minimi di assicurazione e di contribuzione, dei periodi di assicurazione facoltativa in esse utilizzabili, il trattamento di pensione non puo' essere inferiore a quello rappresentato dalla somma del trattamento minimo stabilito per gli iscritti alle rispettive gestioni speciali e della pensione o quota di pensione liquidata o liquidabile per gli anzidetti periodi nell'assicurazione facoltativa.
 
@@ -452,11 +446,11 @@ Dalla data di entrata in vigore della presente legge l'ultima parte del quarto c
 
 "L'eventuale eccedenza rispetto a tale massimo annuo sara' conservata nell'assicurazione facoltativa e dara' luogo, unitamente ai contributi che risultino versati nell'assicurazione stessa prima del compimento dell'eta' di 14 anni dell'interessato ovvero prima del 10 luglio 1920 o dopo il 25 novembre 1957, a liquidazione di separata prestazione secondo le norme proprie di tale assicurazione".
 
-##### Art. 32
+#### Art. 32
 
 La domanda di prosecuzione volontaria puo' essere presentata da coloro che possono far valere le condizioni di contribuzione di cui al primo comma dell'artico lo 11 della legge 12 agosto 1962, n. 1338, qualunque sia la loro eta', nei primi due anni decorrenti dalla data di entrata in vigore della presente legge.
 
-##### Art. 33
+#### Art. 33
 
 Il primo comma dell'articolo 5 della legge 9 gennaio 1963, n. 9, e' sostituito dal seguente:
 
@@ -482,27 +476,27 @@ b) risultino versati in loro favore, nel quinquennio precedente la domanda di pe
 
 101 contributi giornalieri per le donne e i giovani".
 
-##### Art. 34
+#### Art. 34
 
 Ai fini del controllo dell'esistenza in vita dei pensionati e della conservazione dello stato di vedova o di nubile nei casi previsti dalla legge e' istituita presso ciascun Comune l'anagrafe dei pensionati dell'istituto nazionale della previdenza sociale.
 
 Per l'attuazione di quanto disposto al comma precedente, l'istituto nazionale della previdenza sociale comunica al Comune di residenza i nominativi dei beneficiari delle pensioni e l'Ufficio anagrafe del Comune provvede ad informare l'Istituto nazionale della previdenza sociale delle variazioni per matrimonio o morte.
 
-##### Art. 35
+#### Art. 35
 
 Per particolari categorie di lavoratori soci di societa' e di enti cooperativi, anche di fatto, che prestino la propria opera per conto delle societa' ed enti medesimi, possono essere determinate per Provincia o per zone od anche per settori di attivita' merceologiche, con decreto del Ministro per il lavoro e la previdenza sociale, sentite le organizzazioni sindacali interessate, le classi di contribuzione e le corrispondenti retribuzioni imponibili, ai fini dell'applicazione dei contributi base ed integrativi per le assicurazioni generali obbligatorie gestite dall'Istituto nazionale della previdenza sociale alle quali sono soggetti.
 
 Il Ministro per il lavoro e la previdenza sociale, sentite le organizzazioni sindacali interessate, puo' altresi' stabilire, con proprio decreto, criteri per la classificazione dei lavoratori di cui al precedente comma, nonche' per l'accertamento e la verifica dei requisiti richiesti alle societa' ed enti cooperativi, anche di fatto, per la tutela previdenziale ed assistenziale dei propri soci.
 
-##### Art. 36
+#### Art. 36
 
 Con effetto dal 1° gennaio 1965, l'articolo 72 del regio decreto-legge 4 ottobre 1935, n. 1827, e' abrogato.
 
-##### Art. 37
+#### Art. 37
 
 La norma contenuta nell'articolo 12 della legge 4 aprile 1952, n. 218, modificata dall'articolo 6, comma secondo, della legge 20 febbraio 1958, n. 55, e' abrogata.
 
-##### Art. 38
+#### Art. 38
 
 Salvo quanto diversamente disposto, la presente legge ha effetto dal 1° gennaio 1965.
 
@@ -510,7 +504,7 @@ Le pensioni delle assicurazioni obbligatorie di cui all'articolo 1, vigenti alla
 
 ## TITOLO IV - DELEGA AL GOVERNO
 
-##### Art. 39
+#### Art. 39
 
 Entro due anni dalla data di entrata in vigore della presente legge il Governo della Repubblica, su proposta del Ministro per il lavoro e la previdenza sociale, di concerto con gli altri Ministri competenti, e' delegato ad emanare, anche con provvedimenti separati, norme intese a:
 
@@ -574,7 +568,7 @@ Visto, il Guardasigilli: REALE
 
 ## TITOLO IV - DELEGA AL GOVERNO
 
-##### Tabelle
+#### Tabelle
 
 TABELLA A
 

@@ -40,7 +40,7 @@ il seguente decreto legislativo:
 
 ## Capo I - GLI ORGANI DELLA GIURISDIZIONE TRIBUTARIA
 
-##### Art. 1
+#### Art. 1
 
 Le ((corti di giustizia tributaria di primo e secondo grado))
 
@@ -64,7 +64,7 @@ AGGIORNAMENTO (27)
 
 La L. 31 agosto 2022, n. 130 ha disposto (con l'art. 1, comma 1, lettera a)) che nel presente decreto "le parole: «commissione tributaria provinciale», «commissioni tributarie provinciali», «commissione tributaria regionale», «commissioni tributarie regionali», «commissione tributaria» e «commissioni tributarie», ovunque ricorrono, sono sostituite rispettivamente dalle seguenti: «corte di giustizia tributaria di primo grado», «corti di giustizia tributaria di primo grado», «corte di giustizia tributaria di secondo grado», «corti di giustizia tributaria di secondo grado», «corte di giustizia tributaria di primo e secondo grado» e «corti di giustizia tributaria di primo e secondo grado»".
 
-##### Art. 1-bis - La giurisdizione tributaria
+#### Art. 1-bis - La giurisdizione tributaria
 
 1\. La giurisdizione tributaria e' esercitata dai magistrati tributari ((di cui al comma 1-bis)) e dai giudici tributari nominati presso le corti di giustizia tributaria di primo e secondo grado, presenti nel ruolo unico nazionale di cui all'articolo 4, comma 39-bis, della legge 12 novembre 2011, n. 183, alla data del 1° gennaio 2022.
 
@@ -74,7 +74,7 @@ La L. 31 agosto 2022, n. 130 ha disposto (con l'art. 1, comma 1, lettera a)) che
 
 3\. L'organico dei magistrati tributari di cui al comma 2 e' individuato in 448 unita' presso le corti di giustizia tributaria di primo grado e 128 unita' presso le corti di giustizia tributaria di secondo grado.
 
-##### Art. 2
+#### Art. 2
 
 La composizione delle corti di giustizia tributaria di primo e secondo grado
 
@@ -106,7 +106,7 @@ AGGIORNAMENTO (27)
 
 La L. 31 agosto 2022, n. 130 ha disposto (con l'art. 1, comma 1, lettera a)) che nel presente decreto "le parole: «commissione tributaria provinciale», «commissioni tributarie provinciali», «commissione tributaria regionale», «commissioni tributarie regionali», «commissione tributaria» e «commissioni tributarie», ovunque ricorrono, sono sostituite rispettivamente dalle seguenti: «corte di giustizia tributaria di primo grado», «corti di giustizia tributaria di primo grado», «corte di giustizia tributaria di secondo grado», «corti di giustizia tributaria di secondo grado», «corte di giustizia tributaria di primo e secondo grado» e «corti di giustizia tributaria di primo e secondo grado»".
 
-##### Art. 3
+#### Art. 3
 
 I presidenti delle ((corti di giustizia tributaria di primo e secondo grado)) e delle sezioni
 
@@ -118,7 +118,7 @@ I presidenti delle ((corti di giustizia tributaria di primo e secondo grado)) e 
 
 4\. I presidenti di sezione delle ((corti di giustizia tributaria di secondo grado)) sono nominati ((tra i magistrati tributari ovvero tra quelli ordinari, amministrativi, contabili o militari)), in servizio o a riposo, secondo la graduatoria redatta sulla base delle ((disposizioni contenute nell'articolo 11)). I vicepresidenti di sezione delle ((corti di giustizia tributaria di secondo grado)) sono nominati tra i magistrati di cui al comma 3 ovvero tra i componenti che abbiano esercitato per almeno dieci anni le funzioni di giudice tributario regionale purche' in possesso del diploma di laurea in giurisprudenza o in economia e commercio, secondo la graduatoria redatta sulla base delle ((disposizioni contenute nell'articolo 11)).
 
-##### Art. 4 - ((Concorso per magistrato tributario))
+#### Art. 4 - ((Concorso per magistrato tributario))
 
 1\. La nomina a magistrato tributario si consegue mediante un concorso per esami bandito in relazione ai posti vacanti e a quelli che si renderanno vacanti nel quadriennio successivo, per i quali puo' essere attivata la procedura di reclutamento.
 
@@ -160,7 +160,7 @@ AGGIORNAMENTO (30)
 
 Il D.L. 22 giugno 2023, n. 75 aveva precedentemente disposto (con l'art. 18, comma 2, lettera a)) la soppressione della lettera g) del comma 4 del presente articolo a decorrere dal 23/06/2023.
 
-##### Art. 4-bis
+#### Art. 4-bis
 
 (( (Requisiti per l'ammissione al concorso per esami). ))
 
@@ -176,7 +176,7 @@ d) non essere stati dichiarati per tre volte non idonei nel concorso per esami d
 
 e) gli altri requisiti richiesti dalle leggi vigenti.))
 
-##### Art. 4-ter - Indizione del concorso e svolgimento della prova scritta
+#### Art. 4-ter - Indizione del concorso e svolgimento della prova scritta
 
 1\. Il concorso per esami di cui all'articolo 4 si svolge con cadenza di norma annuale in una o piu' sedi stabilite con il decreto con il quale e' bandito.
 
@@ -192,7 +192,7 @@ Si applica ai predetti magistrati la disciplina dell'esonero dalle funzioni giud
 
 5\. Le spese per il concorso sono poste a carico del candidato nella misura forfettaria di euro 50, da corrispondere al momento della presentazione della domanda, e sono reiscritte nell'apposito capitolo di spesa della missione "Giustizia tributaria" dello stato di previsione del Ministero dell'economia e delle finanze. Le modalita' di versamento del contributo di cui al presente comma sono stabilite con decreto, avente natura non regolamentare, del Ministro dell'economia e delle finanze. Il contributo e' aggiornato ogni tre anni, con le medesime modalita', sulla base della variazione dell'indice dei prezzi al consumo per le famiglie di operai e impiegati, rilevata dall'ISTAT.
 
-##### Art. 4-quater - Commissione di concorso
+#### Art. 4-quater - Commissione di concorso
 
 1\. La commissione di concorso e' nominata, entro il quindicesimo giorno antecedente l'inizio della prova scritta, con decreto del Ministro dell'economia e delle finanze, adottato previa delibera del Consiglio di presidenza della giustizia tributaria.
 
@@ -214,7 +214,7 @@ Si applica ai predetti magistrati la disciplina dell'esonero dalle funzioni giud
 
 10\. Le attivita' di segreteria della commissione e delle sottocommissioni sono esercitate da personale amministrativo dell'Area funzionari in servizio presso il Ministero dell'economia e delle finanze, come definita dal contratto collettivo nazionale di lavoro del comparto Funzioni centrali, e sono coordinate dal titolare del competente ufficio del Dipartimento delle finanze del Ministero dell'economia e delle finanze.
 
-##### Art. 4-quinquies
+#### Art. 4-quinquies
 
 Nomina e tirocinio del magistrato tributario.
 
@@ -226,17 +226,17 @@ Nomina e tirocinio del magistrato tributario.
 
 2\. Il magistrato tributario in tirocinio valutato negativamente e' ammesso ad un nuovo periodo di tirocinio della durata di sei mesi.Al termine del secondo tirocinio e all'esito della relativa scheda valutativa redatta dal magistrato tributario affidatario, il Consiglio di presidenza della giustizia tributaria delibera nuovamente; la seconda deliberazione negativa determina la cessazione del rapporto di impiego del magistrato tributario in tirocinio.
 
-##### Art. 5 - I giudici delle corti di giustizia tributaria di secondo grado
+#### Art. 5 - I giudici delle corti di giustizia tributaria di secondo grado
 
 1\. ((I giudici delle corti di giustizia tributaria di secondo grado sono nominati tra i magistrati tributari di cui all'articolo 1-bis, comma 2, che abbiano conseguito un'anzianita' nelle corti di primo grado non inferiore a tre anni, e tra i giudici tributari presenti nel ruolo unico di cui al medesimo articolo 1-bis)).
 
-##### Art. 5-bis - Formazione continua dei giudici e dei magistrati tributari
+#### Art. 5-bis - Formazione continua dei giudici e dei magistrati tributari
 
 01\. ((Ai componenti delle corti di giustizia tributaria e' assicurata la formazione continua a garanzia dell'indipendenza e dell'efficienza dell'ordinamento giudiziario tributario. I magistrati tributari sono tenuti a partecipare ai corsi di formazione e di aggiornamento indicati come obbligatori dal Consiglio di presidenza della giustizia tributaria.))
 
 1\. Il Consiglio di presidenza della giustizia tributaria, con proprio regolamento, definisce i criteri e le modalita' della formazione continua e dell'aggiornamento professionale dei giudici e dei magistrati tributari di cui all'articolo 1-bis, comma 1, mediante la frequenza di corsi periodici di carattere teorico-pratico organizzati e gestiti sulla base di apposita convenzione, prioritariamente, dalla Scuola nazionale dell'amministrazione con modalita' separate e corsi distinti rispetto ai corsi di formazione destinati all'amministrazione finanziaria o, subordinatamente, dalle universita' accreditate ai sensi del decreto legislativo 27 gennaio 2012, n. 19, o da altri enti pubblici. Agli oneri per la formazione di cui al primo periodo si provvede nell'ambito degli stanziamenti annuali dell'apposita voce di bilancio in favore dello stesso Consiglio e sulla base di un programma di formazione annuale, comunicato al Ministero dell'economia e delle finanze entro il mese di luglio dell'anno precedente lo svolgimento dei corsi medesimi.
 
-##### Art. 6
+#### Art. 6
 
 La formazione delle sezioni e dei collegi giudicanti
 
@@ -252,11 +252,9 @@ La formazione delle sezioni e dei collegi giudicanti
 
 ## Capo II - I COMPONENTI DELLE CORTI DI GIUSTIZIA TRIBUTARIA DI PRIMO E SECONDO GRADO
 
-### ((SEZIONE I
+### ((SEZIONE I - DISPOSIZIONI GENERALI))
 
-#### DISPOSIZIONI GENERALI))
-
-##### Art. 7
+#### Art. 7
 
 Requisiti generali
 
@@ -278,7 +276,7 @@ f) LETTERA ABROGATA DALLA L. 12 NOVEMBRE 2011, N. 183.
 
 1-bis. ((Ai magistrati tributari si applicano le disposizioni relative ai requisiti generali previste per i magistrati ordinari.))
 
-##### Art. 8
+#### Art. 8
 
 Incompatibilita'
 
@@ -320,7 +318,7 @@ m-bis) coloro che sono iscritti in albi professionali, elenchi, ruoli e il perso
 
 4-bis. ((All'accertamento della sussistenza delle cause di incompatibilita' previste dal presente articolo, provvede il Consiglio di presidenza della giustizia tributaria.))
 
-##### Art. 9
+#### Art. 9
 
 Procedimenti di nomina dei componenti delle ((corti di giustizia tributaria di primo e secondo grado))
 
@@ -344,7 +342,7 @@ AGGIORNAMENTO (27)
 
 La L. 31 agosto 2022, n. 130 ha disposto (con l'art. 1, comma 1, lettera a)) che nel presente decreto "le parole: «commissione tributaria provinciale», «commissioni tributarie provinciali», «commissione tributaria regionale», «commissioni tributarie regionali», «commissione tributaria» e «commissioni tributarie», ovunque ricorrono, sono sostituite rispettivamente dalle seguenti: «corte di giustizia tributaria di primo grado», «corti di giustizia tributaria di primo grado», «corte di giustizia tributaria di secondo grado», «corti di giustizia tributaria di secondo grado», «corte di giustizia tributaria di primo e secondo grado» e «corti di giustizia tributaria di primo e secondo grado»".
 
-##### Art. 10
+#### Art. 10
 
 Giuramento
 
@@ -364,7 +362,7 @@ AGGIORNAMENTO (27)
 
 La L. 31 agosto 2022, n. 130 ha disposto (con l'art. 1, comma 1, lettera a)) che nel presente decreto "le parole: «commissione tributaria provinciale», «commissioni tributarie provinciali», «commissione tributaria regionale», «commissioni tributarie regionali», «commissione tributaria» e «commissioni tributarie», ovunque ricorrono, sono sostituite rispettivamente dalle seguenti: «corte di giustizia tributaria di primo grado», «corti di giustizia tributaria di primo grado», «corte di giustizia tributaria di secondo grado», «corti di giustizia tributaria di secondo grado», «corte di giustizia tributaria di primo e secondo grado» e «corti di giustizia tributaria di primo e secondo grado»".
 
-##### Art. 11 - Durata dell'incarico e assegnazione degli incarichi per trasferimento
+#### Art. 11 - Durata dell'incarico e assegnazione degli incarichi per trasferimento
 
 1\. La nomina dei giudici tributari presenti nel ruolo unico di cui all'articolo 4, comma 39-bis, della legge 12 novembre 2011, n. 183, alla data del 1° gennaio 2022, a una delle funzioni dei componenti delle commissioni tributarie provinciali e regionali non costituisce in nessun caso rapporto di pubblico impiego. (27)
 
@@ -430,7 +428,7 @@ a) il 1° gennaio 2027 qualora abbiano compiuto settantadue anni di eta' entro i
 
 b) il 1° gennaio 2028 qualora abbiano compiuto settantuno anni di eta' entro il 31 dicembre 2027, ovvero al compimento del settantunesimo anno di eta' nel corso dell'anno 2028".
 
-##### Art. 12
+#### Art. 12
 
 Decadenza dall'incarico
 
@@ -450,29 +448,27 @@ e) non partecipano, senza giustificato motivo, a tre sedute con- secutive.
 
 2\. La decadenza e' dichiarata con decreto del Ministro delle finanze previa deliberazione del consiglio di presidenza.
 
-## ((SEZIONE II - DISPOSIZIONI INTEGRATIVE SULLO STATO
+### ((SEZIONE II - DISPOSIZIONI INTEGRATIVE SULLO STATO GIURIDICO DEI MAGISTRATI TRIBUTARI))
 
-### GIURIDICO DEI MAGISTRATI TRIBUTARI))
-
-##### Art. 12-bis
+#### Art. 12-bis
 
 (( (Cessazione del rapporto di impiego per dimissioni e riammissione in servizio).))
 
 1\. ((Ai magistrati tributari si applicano le disposizioni in materia di dimissioni e riammissione al servizio previste per i magistrati ordinari.))
 
-##### Art. 12-ter
+#### Art. 12-ter
 
 (( (Dispensa dal servizio o collocamento in aspettativa di ufficio per debolezza di mente o infermita').))
 
 1\. ((Se per qualsiasi infermita', giudicata permanente, o per sopravvenuta inettitudine, un magistrato non puo' adempiere convenientemente ed efficacemente ai doveri del proprio ufficio, e' dispensato dal servizio, previo parere conforme del Consiglio di presidenza della giustizia tributaria. Se l'infermita' o la sopravvenuta inettitudine consentono l'efficace svolgimento di funzioni amministrative, il magistrato dispensato puo' essere destinato, a domanda, a prestare servizio, nei limiti dei posti disponibili, presso il Ministero dell'economia e delle finanze, secondo modalita' e criteri di comparazione definiti con decreto del Ministro dell'economia e delle finanze, di concerto con il Ministro per la pubblica amministrazione, tenuto conto del tipo e della gravita' dell'infermita' o della sopravvenuta inettitudine. Il magistrato dispensato mantiene il diritto al trattamento economico in godimento, con l'eventuale attribuzione di un assegno ad personam riassorbibile, corrispondente alla differenza retributiva tra il trattamento economico in godimento alla data del provvedimento di dispensa e il trattamento economico corrispondente alla qualifica attribuita. Se l'infermita' ha carattere temporaneo, il magistrato puo', su conforme parere del Consiglio di presidenza della giustizia tributaria, essere collocato di ufficio in aspettativa fino al termine massimo consentito dalla legge. Il magistrato puo' essere collocato in aspettativa fino alla conclusione del procedimento anche qualora nel corso dell'istruttoria diretta all'accertamento di una condizione di infermita' permanente emerga che lo stato di infermita', quale gia' accertato, e' incompatibile con il conveniente ed efficace svolgimento delle funzioni giudiziarie. Decorso tale termine, il magistrato che ancora non si trovi in condizioni di essere richiamato dall'aspettativa, e' dispensato dal servizio.))
 
-##### Art. 12-quater
+#### Art. 12-quater
 
 (( (Garanzie).))
 
 1\. ((I magistrati tributari non possono essere dispensati o sospesi dal servizio ne' destinati ad altra sede o funzione se non a seguito di deliberazione del Consiglio di presidenza della giustizia tributaria, adottata o con il loro consenso o per i motivi e con le garanzie di difesa stabiliti dalla legge.))
 
-##### Art. 12-quinquies
+#### Art. 12-quinquies
 
 (( (Trasferimento d'ufficio).))
 
@@ -484,15 +480,15 @@ e) non partecipano, senza giustificato motivo, a tre sedute con- secutive.
 
 4\. ((Nei casi previsti dai commi 2 e 3 si tiene conto, in quanto possibile, delle richieste formulate dai magistrati da trasferire.))
 
-##### Art. 12-sexies
+#### Art. 12-sexies
 
 (( (Diritto di partecipazione).))
 
 1\. ((Nelle ipotesi disciplinate dagli articoli 12-bis, 12-ter, 12-quater e 12-quinquies, il magistrato ha diritto di prendere visione ed estrarre copia degli atti del procedimento, puo' presentare deduzioni e chiedere di essere sentito personalmente.))
 
-## ((SEZIONE III - TRATTAMENTO ECONOMICO))
+### ((SEZIONE III - TRATTAMENTO ECONOMICO))
 
-##### Art. 13
+#### Art. 13
 
 Trattamento economico dei giudici tributari
 
@@ -528,7 +524,7 @@ AGGIORNAMENTO (40)
 
 Il D.Lgs. 7 agosto 2026, n. 149, ha disposto (con l'art. 1, comma 1, lettera n)) che "dopo l'articolo 12-sexies, introdotto dalla lettera m) del presente comma, e' inserita la seguente intestazione: «Sezione III - Trattamento economico»".
 
-##### Art. 13-bis - Trattamento economico dei magistrati tributari
+#### Art. 13-bis - Trattamento economico dei magistrati tributari
 
 1\. Ai magistrati tributari reclutati per concorso, secondo le modalita' di cui all'articolo 4, si applicano le disposizioni in materia di trattamento economico previsto per i magistrati ordinari, in quanto compatibili.
 
@@ -542,13 +538,11 @@ AGGIORNAMENTO (40)
 
 Il D.Lgs. 7 agosto 2026, n. 149, ha disposto (con l'art. 1, comma 1, lettera n)) che "dopo l'articolo 12-sexies, introdotto dalla lettera m) del presente comma, e' inserita la seguente intestazione: «Sezione III - Trattamento economico»".
 
-## ((CAPO II-BIS - RESPONSABILITA' E DISPOSIZIONI
+## ((CAPO II-BIS - RESPONSABILITA' E DISPOSIZIONI DISCIPLINARI
 
-### DISCIPLINARI
+### SEZIONE I - DISPOSIZIONI COMUNI))
 
-#### SEZIONE I - DISPOSIZIONI COMUNI))
-
-##### Art. 14
+#### Art. 14
 
 Responsabilita'
 
@@ -560,7 +554,7 @@ AGGIORNAMENTO (40)
 
 Il D.Lgs. 7 agosto 2026, n. 149, ha disposto (con l'art. 1, comma 1, lettera o)) che "dopo l'articolo 13-bis e' inserita la seguente intestazione: «Capo II-bis - Responsabilita' e disposizioni disciplinari Sezione I - Disposizioni comuni»".
 
-##### Art. 14-bis
+#### Art. 14-bis
 
 (( (Procedimento disciplinare).))
 
@@ -580,11 +574,9 @@ L'incolpato ha per ultimo la parola e puo' farsi assistere da altro componente d
 
 7\. ((Per quanto non contemplato dal presente decreto si applicano le disposizioni sul procedimento disciplinare vigenti per i magistrati ordinari di cui al capo II del decreto legislativo 23 febbraio 2006, n. 109, in quanto compatibili.))
 
-## ((SEZIONE II - DISPOSIZIONI DISCIPLINARI
+### ((SEZIONE II - DISPOSIZIONI DISCIPLINARI PER I GIUDICI TRIBUTARI))
 
-### PER I GIUDICI TRIBUTARI))
-
-##### Art. 15 - Vigilanza e sanzioni disciplinari
+#### Art. 15 - Vigilanza e sanzioni disciplinari
 
 1\. Il presidente di ciascuna corte di giustizia tributaria di primo e secondo grado esercita la vigilanza sugli altri componenti e sulla qualita' e l'efficienza dei servizi di segreteria della propria commissione, al fine di segnalarne le risultanze al Dipartimento delle finanze del Ministero dell'economia e delle finanze per i provvedimenti di competenza. Il presidente di ciascuna corte di giustizia tributaria di secondo grado esercita la vigilanza sulla attivita' giurisdizionale delle corti di giustizia tributaria di primo grado aventi sede nella circoscrizione della stessa e sui loro componenti. (27)
 
@@ -636,11 +628,9 @@ AGGIORNAMENTO (27)
 
 La L. 31 agosto 2022, n. 130 ha disposto (con l'art. 1, comma 1, lettera a)) che nel presente decreto "le parole: «commissione tributaria provinciale», «commissioni tributarie provinciali», «commissione tributaria regionale», «commissioni tributarie regionali», «commissione tributaria» e «commissioni tributarie», ovunque ricorrono, sono sostituite rispettivamente dalle seguenti: «corte di giustizia tributaria di primo grado», «corti di giustizia tributaria di primo grado», «corte di giustizia tributaria di secondo grado», «corti di giustizia tributaria di secondo grado», «corte di giustizia tributaria di primo e secondo grado» e «corti di giustizia tributaria di primo e secondo grado»".
 
-## ((SEZIONE III - DISPOSIZIONI DISCIPLINARI
+### ((SEZIONE III - DISPOSIZIONI DISCIPLINARI PER I MAGISTRATI TRIBUTARI))
 
-### PER I MAGISTRATI TRIBUTARI))
-
-##### Art. 15-bis
+#### Art. 15-bis
 
 (( (Illeciti disciplinari dei magistrati tributari) ))
 
@@ -736,7 +726,7 @@ c) i fatti per i quali e' intervenuta condanna irrevocabile o e' stata pronuncia
 
 d) qualunque fatto costituente reato idoneo a ledere l'immagine del magistrato, anche se il reato e' estinto per qualsiasi causa o l'azione penale non puo' essere iniziata o proseguita.))
 
-##### Art. 15-ter
+#### Art. 15-ter
 
 (( (Sanzioni disciplinari dei magistrati tributari) ))
 
@@ -770,7 +760,7 @@ Applicata la sanzione, il magistrato non puo' riprendere l'esercizio delle funzi
 
 7\. ((La sospensione dalle funzioni consiste nell'allontanamento dalle funzioni con la sospensione dallo stipendio e il collocamento del magistrato fuori dal ruolo organico della magistratura. Al magistrato sospeso e' corrisposto un assegno alimentare pari ai due terzi dello stipendio e delle altre competenze di carattere continuativo, se il magistrato sta percependo il trattamento economico riservato alla prima qualifica; alla meta', se alla seconda e terza qualifica; a un terzo, se alla quarta o quinta qualifica.)) 8. ((La rimozione determina la cessazione del rapporto di servizio e viene attuata mediante decreto del Ministro dell'economia e delle finanze.))
 
-##### Art. 15-quater
+#### Art. 15-quater
 
 (( (Sanzioni applicabili) ))
 
@@ -814,7 +804,7 @@ c) i comportamenti previsti dall'articolo 15-bis, comma 4, lettera b).))
 
 5\. ((Si applica la sanzione della rimozione al magistrato che sia stato condannato in sede disciplinare per i fatti previsti dall'articolo 15-bis, comma 4, lettera e), che incorre nella interdizione perpetua o temporanea dai pubblici uffici in seguito a condanna penale.))
 
-##### Art. 15-quinquies
+#### Art. 15-quinquies
 
 (( (Trasferimento d'ufficio e provvedimenti cautelari) ))
 
@@ -824,11 +814,11 @@ c) i comportamenti previsti dall'articolo 15-bis, comma 4, lettera b).))
 
 ## Capo III - IL CONSIGLIO DI PRESIDENZA DELLA GIUSTIZIA TRIBUTARIA
 
-##### Art. 16
+#### Art. 16
 
 ((ARTICOLO ABROGATO DAL D.LGS. 7 AGOSTO 2026, N. 149))
 
-##### Art. 17
+#### Art. 17
 
 Composizione
 
@@ -850,7 +840,7 @@ AGGIORNAMENTO (27)
 
 La L. 31 agosto 2022, n. 130 ha disposto (con l'art. 1, comma 1, lettera a)) che nel presente decreto "le parole: «commissione tributaria provinciale», «commissioni tributarie provinciali», «commissione tributaria regionale», «commissioni tributarie regionali», «commissione tributaria» e «commissioni tributarie», ovunque ricorrono, sono sostituite rispettivamente dalle seguenti: «corte di giustizia tributaria di primo grado», «corti di giustizia tributaria di primo grado», «corte di giustizia tributaria di secondo grado», «corti di giustizia tributaria di secondo grado», «corte di giustizia tributaria di primo e secondo grado» e «corti di giustizia tributaria di primo e secondo grado»".
 
-##### Art. 18
+#### Art. 18
 
 Durata
 
@@ -864,11 +854,11 @@ AGGIORNAMENTO (19)
 
 Il D.L. 30 dicembre 2005, n. 273, convertito con modificazioni dalla L. 23 febbraio 2006, n. 51, ha disposto (con l'art. 18, comma 4-ter) che "[...] Fino alla definizione del processo di cui al primo e al secondo periodo del presente comma e' prorogato il termine di cui all'articolo 18, comma 1, del decreto legislativo n. 545 del 1992".
 
-##### Art. 19
+#### Art. 19
 
 ((ARTICOLO ABROGATO DALLA L. 21 NOVEMBRE 2000, N. 342))
 
-##### Art. 20
+#### Art. 20
 
 Ineleggibilita'
 
@@ -876,7 +866,7 @@ Ineleggibilita'
 
 2\. Il componente di ((corte di giustizia tributaria di primo e secondo grado)) sottoposto alla sanzione della censura e' eleggibile dopo tre anni dalla data del relativo provvedimento, se non gli e' stata applicata altra sanzione disciplinare.
 
-##### Art. 21
+#### Art. 21
 
 Elezione del consiglio di presidenza
 
@@ -914,7 +904,7 @@ AGGIORNAMENTO (27)
 
 La L. 31 agosto 2022, n. 130 ha disposto (con l'art. 1, comma 1, lettera a)) che nel presente decreto "le parole: «commissione tributaria provinciale», «commissioni tributarie provinciali», «commissione tributaria regionale», «commissioni tributarie regionali», «commissione tributaria» e «commissioni tributarie», ovunque ricorrono, sono sostituite rispettivamente dalle seguenti: «corte di giustizia tributaria di primo grado», «corti di giustizia tributaria di primo grado», «corte di giustizia tributaria di secondo grado», «corti di giustizia tributaria di secondo grado», «corte di giustizia tributaria di primo e secondo grado» e «corti di giustizia tributaria di primo e secondo grado»".
 
-##### Art. 22
+#### Art. 22
 
 (( (Votazioni).))
 
@@ -928,7 +918,7 @@ La L. 31 agosto 2022, n. 130 ha disposto (con l'art. 1, comma 1, lettera a)) che
 
 5\. Al termine delle operazioni elettorali il verbale di scrutinio e' trasmesso all'ufficio elettorale centrale che provvede alla proclamazione degli eletti.))
 
-##### Art. 23
+#### Art. 23
 
 Proclamazione degli eletti. Reclami
 
@@ -942,7 +932,7 @@ Proclamazione degli eletti. Reclami
 
 3-ter. Il Consiglio di Presidenza scade al termine del quadriennio e continua ad esercitare le proprie funzioni fino all'insediamento del nuovo Consiglio.))
 
-##### Art. 24
+#### Art. 24
 
 Attribuzioni
 
@@ -990,7 +980,7 @@ La L. 31 agosto 2022, n. 130 ha disposto (con l'art. 1, comma 1, lettera a)) che
 
 Ha inoltre disposto (con l'art. 8, comma 2) che le modifiche di cui ai commi 2, 2-bis e 2-ter si applicano a decorrere dal 1° gennaio 2023.
 
-##### Art. 24-bis
+#### Art. 24-bis
 
 (( (Ufficio del massimario nazionale). ))
 
@@ -1016,13 +1006,13 @@ AGGIORNAMENTO (27)
 
 La L. 31 agosto 2022, n. 130 ha disposto (con l'art. 8, comma 2) che la presente modifica si applica a decorrere dal 1° gennaio 2023.
 
-##### Art. 25
+#### Art. 25
 
 Convocazione
 
 1\. Il consiglio di presidenza e' convocato dal presidente o, in sua assenza, dal componente che lo sostituisce, di iniziativa propria o su richiesta di almeno un terzo dei suoi componenti.
 
-##### Art. 26
+#### Art. 26
 
 Deliberazioni
 
@@ -1032,7 +1022,7 @@ Deliberazioni
 
 3\. Le deliberazioni sono adottate a scrutinio segreto, se riguardano persone o su richiesta di almeno due componenti presenti.
 
-##### Art. 27
+#### Art. 27
 
 Trattamento dei componenti del consiglio di presidenza
 
@@ -1060,7 +1050,7 @@ AGGIORNAMENTO (15)
 
 Il D.L. 28 dicembre 2001, n. 452, convertito con modificazioni dalla L. 27 febbraio 2002, n. 16, ha disposto (con l'art. 16-quater, comma 2) che sono ridotte le indennita' di cui al presente articolo, spettanti ai componenti del consiglio di presidenza.
 
-##### Art. 28
+#### Art. 28
 
 Scioglimento del consiglio di presidenza
 
@@ -1068,7 +1058,7 @@ Scioglimento del consiglio di presidenza
 
 2\. Le nuove elezioni sono indette entro un mese dalla data di scioglimento ed hanno luogo entro il bimestre successivo.
 
-##### Art. 29
+#### Art. 29
 
 Alta sorveglianza
 
@@ -1082,7 +1072,7 @@ AGGIORNAMENTO (27)
 
 La L. 31 agosto 2022, n. 130 ha disposto (con l'art. 1, comma 1, lettera a)) che nel presente decreto "le parole: «commissione tributaria provinciale», «commissioni tributarie provinciali», «commissione tributaria regionale», «commissioni tributarie regionali», «commissione tributaria» e «commissioni tributarie», ovunque ricorrono, sono sostituite rispettivamente dalle seguenti: «corte di giustizia tributaria di primo grado», «corti di giustizia tributaria di primo grado», «corte di giustizia tributaria di secondo grado», «corti di giustizia tributaria di secondo grado», «corte di giustizia tributaria di primo e secondo grado» e «corti di giustizia tributaria di primo e secondo grado»".
 
-##### Art. 29-bis
+#### Art. 29-bis
 
 (( (Autonomia contabile del Consiglio di presidenza della giustizia tributaria). ))
 
@@ -1090,7 +1080,7 @@ La L. 31 agosto 2022, n. 130 ha disposto (con l'art. 1, comma 1, lettera a)) che
 
 ## Capo IV - GLI UFFICI DI SEGRETERIA
 
-##### Art. 30
+#### Art. 30
 
 Ufficio di segreteria del consiglio di presidenza
 
@@ -1098,13 +1088,13 @@ Ufficio di segreteria del consiglio di presidenza
 
 2\. L'ufficio di segreteria, per l'espletamento dei compiti affidatigli, puo' avvalersi dei servizi di cui all'art. 36.
 
-##### Art. 31
+#### Art. 31
 
 Uffici di segreteria delle ((corti di giustizia tributaria di primo e secondo grado))
 
 1\. E' istituito presso ogni ((corte di giustizia tributaria di primo e secondo grado)) un ufficio di segreteria con funzioni di assistenza e collaborazione nell'esercizio dell'attivita' giurisdizionale nonche' per lo svolgimento di ogni altra attivita' amministrativa attribuita alla stessa o ai suoi componenti.
 
-##### Art. 32
+#### Art. 32
 
 Personale addetto agli uffici di segreteria delle ((corti di giustizia tributaria di primo e secondo grado))
 
@@ -1112,7 +1102,7 @@ Personale addetto agli uffici di segreteria delle ((corti di giustizia tributari
 
 2\. Il contingente del personale istituito a norma del comma 1 e' costituito con la dotazione indicata, complessivamente, nella tabella C e, per ogni ((corte di giustizia tributaria di primo e secondo grado)), nella tabella D. Il Ministro delle finanze di concerto con il Ministro del tesoro, con proprio decreto determina ogni anno le variazioni da apportare alle dotazioni del contingente in relazione alle variazioni del numero di sezioni e del flusso dei ricorsi presso ogni ((corte di giustizia tributaria di primo e secondo grado)).
 
-##### Art. 33
+#### Art. 33
 
 Trattamento economico del personale degli uffici di segreteria
 
@@ -1122,7 +1112,7 @@ Trattamento economico del personale degli uffici di segreteria
 
 3\. L'attribuzione dell'indennita' di cui al comma 2, nei casi stabiliti dall'art. 2 della legge 22 giugno 1988, n. 221, e' fatta con decreto del Ministro delle finanze, di concerto con il Ministro del tesoro.
 
-##### Art. 34
+#### Art. 34
 
 Amministrazione del personale delle segreterie
 
@@ -1134,7 +1124,7 @@ Amministrazione del personale delle segreterie
 
 > \- Il regolamento di attuazione della legge n. 358/1991 e' stato approvato con D.P.R. 27 marzo 1992, n. 287, richiamato in nota all'art. 8.
 
-##### Art. 35
+#### Art. 35
 
 Attribuzioni del personale delle segreterie
 
@@ -1150,7 +1140,7 @@ Attribuzioni del personale delle segreterie
 
 ## Capo V - I SERVIZI AMMINISTRATIVI DEL CONTENZIOSO
 
-##### Art. 36
+#### Art. 36
 
 Servizi automatizzati
 
@@ -1160,7 +1150,7 @@ Servizi automatizzati
 
 3\. Le modalita' di gestione dei servizi automatizzati sono stabiliti con regolamento.
 
-##### Art. 37
+#### Art. 37
 
 Attivita' di indirizzo agli uffici periferici
 
@@ -1174,7 +1164,7 @@ Attivita' di indirizzo agli uffici periferici
 
 4-bis. Il dirigente dell'ufficio del Ministero delle finanze di cui all'articolo 11, comma 2, del decreto legislativo 31 dicembre 1992, n. 546, riguardante la capacita' di stare in giudizio, stabilisce le condizioni necessarie per la formulazione o l'accettazione della proposta di conciliazione di cui all'articolo 48 del citato decreto legislativo n. 546 del 1992.
 
-##### Art. 38
+#### Art. 38
 
 Rilevazione ed esame dei motivi di accoglimento dei ricorsi
 
@@ -1182,7 +1172,7 @@ Rilevazione ed esame dei motivi di accoglimento dei ricorsi
 
 2\. La direzione centrale di cui all'art. 37, comma 1, in relazione alla rilevazione di cui al comma 1 ed anche avvalendosi di informazioni ed elementi acquisiti dall'ufficio per l'elaborazione di studi di politica tributaria e di analisi fiscali, formula le proposte di modifiche legislative ritenute necessarie e le trasmette all'ufficio del coordinamento legislativo.
 
-##### Art. 39
+#### Art. 39
 
 Rilevazioni statistiche
 
@@ -1190,17 +1180,17 @@ Rilevazioni statistiche
 
 2\. Le modalita' delle rilevazioni previste dal comma 1 e gli elementi che ne sono oggetto sono stabiliti con regolamento.
 
-##### Art. 40
+#### Art. 40
 
 ((ARTICOLO ABROGATO DALLA L. 31 AGOSTO 2022, N. 130))
 
-##### Art. 41
+#### Art. 41
 
 ((ARTICOLO ABROGATO DAL D.L. 22 GIUGNO 2023, N. 75, CONVERTITO CON MODIFICAZIONI DALLA L. 10 AGOSTO 2023, N. 112)).
 
 ## Capo VI - DISPOSIZIONI FINALI E TRANSITORIE
 
-##### Art. 42
+#### Art. 42
 
 Insediamento delle ((corti di giustizia tributaria di primo e secondo grado))
 
@@ -1230,7 +1220,7 @@ AGGIORNAMENTO (27)
 
 La L. 31 agosto 2022, n. 130 ha disposto (con l'art. 1, comma 1, lettera a)) che nel presente decreto "le parole: «commissione tributaria provinciale», «commissioni tributarie provinciali», «commissione tributaria regionale», «commissioni tributarie regionali», «commissione tributaria» e «commissioni tributarie», ovunque ricorrono, sono sostituite rispettivamente dalle seguenti: «corte di giustizia tributaria di primo grado», «corti di giustizia tributaria di primo grado», «corte di giustizia tributaria di secondo grado», «corti di giustizia tributaria di secondo grado», «corte di giustizia tributaria di primo e secondo grado» e «corti di giustizia tributaria di primo e secondo grado»".
 
-##### Art. 43
+#### Art. 43
 
 Nomina dei primi componenti nelle commissioni tributarie regionali e provinciali ((27))
 
@@ -1268,7 +1258,7 @@ AGGIORNAMENTO (27)
 
 La L. 31 agosto 2022, n. 130 ha disposto (con l'art. 1, comma 1, lettera a)) che nel presente decreto "le parole: «commissione tributaria provinciale», «commissioni tributarie provinciali», «commissione tributaria regionale», «commissioni tributarie regionali», «commissione tributaria» e «commissioni tributarie», ovunque ricorrono, sono sostituite rispettivamente dalle seguenti: «corte di giustizia tributaria di primo grado», «corti di giustizia tributaria di primo grado», «corte di giustizia tributaria di secondo grado», «corti di giustizia tributaria di secondo grado», «corte di giustizia tributaria di primo e secondo grado» e «corti di giustizia tributaria di primo e secondo grado»".
 
-##### Art. 44
+#### Art. 44
 
 Nomina nelle commissioni tributarie provinciali e regionali dei componenti della ((corte di giustizia tributaria di primo e secondo grado)) centrale ((27))
 
@@ -1280,17 +1270,17 @@ AGGIORNAMENTO (27)
 
 La L. 31 agosto 2022, n. 130 ha disposto (con l'art. 1, comma 1, lettera a)) che nel presente decreto "le parole: «commissione tributaria provinciale», «commissioni tributarie provinciali», «commissione tributaria regionale», «commissioni tributarie regionali», «commissione tributaria» e «commissioni tributarie», ovunque ricorrono, sono sostituite rispettivamente dalle seguenti: «corte di giustizia tributaria di primo grado», «corti di giustizia tributaria di primo grado», «corte di giustizia tributaria di secondo grado», «corti di giustizia tributaria di secondo grado», «corte di giustizia tributaria di primo e secondo grado» e «corti di giustizia tributaria di primo e secondo grado»".
 
-##### Art. 44-bis - Decisione di controversie pendenti al 1° aprile 1996
+#### Art. 44-bis - Decisione di controversie pendenti al 1° aprile 1996
 
 1\. In deroga all'articolo 2, comma 5, le controversie pendenti alla data del 1° aprile 1996 dinanzi alle ((corti di giustizia tributaria di primo e secondo grado)) di primo grado, di valore inferiore a cinque milioni di lire, sono trattate e decise da un giudice singolo designato dal presidente della sezione fra i componenti della stessa.
 
 2\. Oltre ai compensi fisso e aggiuntivo spettanti ai sensi dell'articolo 13, al giudice unico e' dovuto, per ogni ricorso definito nella qualita', un compenso uguale a quello globalmente stabilito per le sentenze collegiali.
 
-##### Art. 44-ter - Modifica delle tabelle
+#### Art. 44-ter - Modifica delle tabelle
 
 1\. ((I punteggi di cui alla tabella F allegata)) al presente decreto sono modificati, su conforme parere del consiglio di presidenza della giustizia tributaria, con decreto del Ministro dell'economia e delle finanze.
 
-##### Art. 45
+#### Art. 45
 
 Prima costituzione del consiglio di presidenza della giustizia tributaria
 
@@ -1304,7 +1294,7 @@ AGGIORNAMENTO (27)
 
 La L. 31 agosto 2022, n. 130 ha disposto (con l'art. 1, comma 1, lettera a)) che nel presente decreto "le parole: «commissione tributaria provinciale», «commissioni tributarie provinciali», «commissione tributaria regionale», «commissioni tributarie regionali», «commissione tributaria» e «commissioni tributarie», ovunque ricorrono, sono sostituite rispettivamente dalle seguenti: «corte di giustizia tributaria di primo grado», «corti di giustizia tributaria di primo grado», «corte di giustizia tributaria di secondo grado», «corti di giustizia tributaria di secondo grado», «corte di giustizia tributaria di primo e secondo grado» e «corti di giustizia tributaria di primo e secondo grado»".
 
-##### Art. 46
+#### Art. 46
 
 Personale addetto alle segreterie delle ((corti di giustizia tributaria di primo e secondo grado)) soppresse
 
@@ -1320,7 +1310,7 @@ AGGIORNAMENTO (27)
 
 La L. 31 agosto 2022, n. 130 ha disposto (con l'art. 1, comma 1, lettera a)) che nel presente decreto "le parole: «commissione tributaria provinciale», «commissioni tributarie provinciali», «commissione tributaria regionale», «commissioni tributarie regionali», «commissione tributaria» e «commissioni tributarie», ovunque ricorrono, sono sostituite rispettivamente dalle seguenti: «corte di giustizia tributaria di primo grado», «corti di giustizia tributaria di primo grado», «corte di giustizia tributaria di secondo grado», «corti di giustizia tributaria di secondo grado», «corte di giustizia tributaria di primo e secondo grado» e «corti di giustizia tributaria di primo e secondo grado»".
 
-##### Art. 47
+#### Art. 47
 
 Rinunzia all'assegnazione alle segreterie delle commissioni tributarie provinciali e regionali ((27))
 
@@ -1334,7 +1324,7 @@ AGGIORNAMENTO (27)
 
 La L. 31 agosto 2022, n. 130 ha disposto (con l'art. 1, comma 1, lettera a)) che nel presente decreto "le parole: «commissione tributaria provinciale», «commissioni tributarie provinciali», «commissione tributaria regionale», «commissioni tributarie regionali», «commissione tributaria» e «commissioni tributarie», ovunque ricorrono, sono sostituite rispettivamente dalle seguenti: «corte di giustizia tributaria di primo grado», «corti di giustizia tributaria di primo grado», «corte di giustizia tributaria di secondo grado», «corti di giustizia tributaria di secondo grado», «corte di giustizia tributaria di primo e secondo grado» e «corti di giustizia tributaria di primo e secondo grado»".
 
-##### Art. 48
+#### Art. 48
 
 Modalita' particolari di inquadramento del personale delle segreterie
 
@@ -1376,7 +1366,7 @@ Modalita' particolari di inquadramento del personale delle segreterie
 
 > Art. 11. - Con i decreti di cui al primo comma dell'articolo precedente i candidati collocati nelle graduatorie dei concorsi unici per piu' ruoli, previsti dalla presente legge, sono assegnati ai singoli ruoli, rispettando le preferenze indicate dagli interessati, secondo l'ordine delle stesse.
 
-##### Art. 49
+#### Art. 49
 
 Norme abrogate
 
@@ -1390,13 +1380,13 @@ AGGIORNAMENTO (27)
 
 La L. 31 agosto 2022, n. 130 ha disposto (con l'art. 1, comma 1, lettera a)) che nel presente decreto "le parole: «commissione tributaria provinciale», «commissioni tributarie provinciali», «commissione tributaria regionale», «commissioni tributarie regionali», «commissione tributaria» e «commissioni tributarie», ovunque ricorrono, sono sostituite rispettivamente dalle seguenti: «corte di giustizia tributaria di primo grado», «corti di giustizia tributaria di primo grado», «corte di giustizia tributaria di secondo grado», «corti di giustizia tributaria di secondo grado», «corte di giustizia tributaria di primo e secondo grado» e «corti di giustizia tributaria di primo e secondo grado»".
 
-##### Art. 50
+#### Art. 50
 
 Regolamenti
 
 1\. I regolamenti previsti dal presente decreto sono emanati ((entro il 28 febbraio 1994)).
 
-##### Art. 51
+#### Art. 51
 
 Entrata in vigore
 
@@ -1432,7 +1422,7 @@ La L. 31 agosto 2022, n. 130 ha disposto (con l'art. 1, comma 1, lettera a)) che
 
 ## Capo VI - DISPOSIZIONI FINALI E TRANSITORIE
 
-##### Tabella A
+#### Tabella A
 
 TABELLA A
 
@@ -1668,7 +1658,7 @@ AGGIORNAMENTO (27)
 
 La L. 31 agosto 2022, n. 130 ha disposto (con l'art. 1, comma 1, lettera a)) che nel presente decreto "le parole: «commissione tributaria provinciale», «commissioni tributarie provinciali», «commissione tributaria regionale», «commissioni tributarie regionali», «commissione tributaria» e «commissioni tributarie», ovunque ricorrono, sono sostituite rispettivamente dalle seguenti: «corte di giustizia tributaria di primo grado», «corti di giustizia tributaria di primo grado», «corte di giustizia tributaria di secondo grado», «corti di giustizia tributaria di secondo grado», «corte di giustizia tributaria di primo e secondo grado» e «corti di giustizia tributaria di primo e secondo grado»".
 
-##### Tabella B
+#### Tabella B
 
 TABELLA B ORGANICO DEI COMPONENTI DELLE ((CORTI DI GIUSTIZIA TRIBUTARIA
 
@@ -1904,25 +1894,25 @@ AGGIORNAMENTO (27)
 
 La L. 31 agosto 2022, n. 130 ha disposto (con l'art. 1, comma 1, lettera a)) che nel presente decreto "le parole: «commissione tributaria provinciale», «commissioni tributarie provinciali», «commissione tributaria regionale», «commissioni tributarie regionali», «commissione tributaria» e «commissioni tributarie», ovunque ricorrono, sono sostituite rispettivamente dalle seguenti: «corte di giustizia tributaria di primo grado», «corti di giustizia tributaria di primo grado», «corte di giustizia tributaria di secondo grado», «corti di giustizia tributaria di secondo grado», «corte di giustizia tributaria di primo e secondo grado» e «corti di giustizia tributaria di primo e secondo grado»".
 
-##### Tabella C
+#### Tabella C
 
 TABELLA C
 
 ((TABELLA ABROGATA DALLA L. 31 AGOSTO 2022, N. 130))
 
-##### Tabella D
+#### Tabella D
 
 TABELLA D
 
 ((TABELLA ABROGATA DALLA L. 31 AGOSTO 2022, N. 130))
 
-##### Tabella E
+#### Tabella E
 
 TABELLA E
 
 ((TABELLA ABROGATA DALLA L. 31 AGOSTO 2022, N. 130))
 
-##### Tabella F
+#### Tabella F
 
 ((TABELLA F
 
@@ -1988,7 +1978,7 @@ AGGIORNAMENTO (27)
 
 La L. 24 dicembre 2007, n. 244 ha disposto (con l'art. 1, comma 353) che "I componenti eletti a seguito delle predette elezioni si insediano il 30 novembre 2008; in pari data decadono i componenti in carica alla data di entrata in vigore della presente legge. A decorrere dalla data di insediamento dei nuovi componenti, il Consiglio di presidenza della giustizia tributaria stabilisce, con propria delibera, i criteri di valutazione della professionalita' dei giudici tributari nei concorsi interni; a decorrere dalla data di efficacia della predetta delibera cessano, nei concorsi interni, di avere effetto le tabelle E e F allegate al citato decreto legislativo n. 545 del 1992".
 
-##### Tabella F bis
+#### Tabella F bis
 
 ((TABELLA F-bis (Articolo 13-bis, comma 2)
 

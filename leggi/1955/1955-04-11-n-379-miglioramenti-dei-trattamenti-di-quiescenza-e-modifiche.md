@@ -26,21 +26,19 @@ PROMULGA
 
 la seguente legge:
 
-## CAPO I. - Unificazione delle Casse di previdenza per le pensioni agli impiegati
+## CAPO I. - Unificazione delle Casse di previdenza per le pensioni agli impiegati e ai salariati degli enti locali ed istituzione della Cassa per le pensioni agli insegnanti di asilo e di scuole elementari parificate.
 
-### e ai salariati degli enti locali ed istituzione della Cassa per le - pensioni agli insegnanti di asilo e di scuole elementari parificate.
-
-##### Art. 1
+### Art. 1
 
 La Cassa di previdenza per le pensioni agli impiegati degli enti locali, istituita con legge 6 marzo 1904, n. 88, e la Cassa di previdenza per le pensioni ai salariati degli enti locali di cui alla legge 11 giugno 1916, n. 720, sono unificate in un nuovo ente morale denominato:
 
 "Cassa per le pensioni ai dipendenti degli enti locali".
 
-##### Art. 2
+### Art. 2
 
 Nei riguardi del personale in servizio alla data da cui ha effetto la presente legge iscritto o con obbligo di iscrizione alla Cassa di previdenza per le pensioni agli impiegati o alla Cassa di previdenza per le pensioni ai salariati, ai fini della determinazione del trattamento di quiescenza che potra' competere a carico della Cassa per le pensioni ai dipendenti degli enti locali, la valutazione dei servizi anteriori alla data predetta si effettua in base ai rispettivi preesistenti ordinamenti delle Casse stesse. La valutazione dei successivi servizi resi con iscrizione alla Cassa per le pensioni ai dipendenti degli enti locali si effettua in base alle norme contenute nell'ordinamento della Cassa di previdenza per le pensioni agli impiegati degli enti locali di cui al regio decreto-legge 3 marzo 1938, n. 680, e successive modificazioni.
 
-##### Art. 3
+### Art. 3
 
 Per il personale salariato non contemplato dall'art. 2, in servizio alla data da cui ha effetto la presente legge, alle dipendenze degli enti indicati negli articoli 5, 6, 7, 20 e 21 dell'ordinamento approvato con il regio decreto-legge 3 marzo 1938, n. 680, e negli articoli 22 e 37 della legge 24 maggio 1952, n. 610, l'obbligo della iscrizione alla Cassa per le pensioni ai dipendenti degli enti locali, a partire dalla istituzione della Cassa stessa, si accerta in base alle preesistenti norme stabilite in materia per la Cassa di previdenza per le pensioni agli impiegati degli enti locali con il citato regio decreto-legge 3 marzo 1938, n. 680, e le successive modificazioni.
 
@@ -50,11 +48,11 @@ Per il personale di cui al precedente comma, qualora vi sia l'assenso dell'ente 
 
 Gli enti contemplati nel primo comma sono esonerati dall'assicurazione obbligatoria per la invalidita', la vecchiaia e i superstiti nei riguardi, del personale per il quale si effettua l'iscrizione obbligatoria o facoltativa alla Cassa di previdenza per le pensioni ai dipendenti degli enti locali in applicazione delle norme contenute nei precedenti commi.
 
-##### Art. 4
+### Art. 4
 
 La Sezione autonoma per le pensioni agli insegnanti, di cui all'art. 5 della legge 21 novembre 1949, n. 914, viene eretta in ente morale con la denominazione "Cassa per le pensioni agli insegnanti di asilo e di scuole elementari parificate", rimanendo amministrata dalla Direzione generale degli Istituti di previdenza.
 
-##### Art. 5
+### Art. 5
 
 Nei riguardi del personale assunto in servizio a partire dalla data da cui ha effetto la presente legge, l'iscrizione alla. Cassa per le pensioni ai dipendenti degli enti locali e alla Cassa per le pensioni agli insegnanti di asilo e di scuole elementari parificate non e' obbligatoria quando la retribuzione annua contributiva, da determinarsi nel modo indicato ai seguenti articoli 12 e 13, risulti inferiore a lire 90.000.
 
@@ -62,17 +60,13 @@ Nei riguardi del personale iscritto o con obbligo di iscrizione alle Casse di pr
 
 Ai fini della contribuzione a partire dalla data da cui ha effetto la presente legge in poi, per il personale di cui al comma precedente la retribuzione annua contributiva in nessun caso si considerera' come inferiore all'importo della retribuzione o dello stipendio goduto al 1 gennaio 1953 - da determinarsi nel modo indicato, rispettivamente, all'art. 23 dell'ordinamento approvato con il regio decreto-legge 3 marzo 1938, n. 680, all'art. 22 della legge 25 luglio 1941, n. 934, o all'art. 8 della legge 6 febbraio 1941, n. 176 - aumentato del 30 per cento e di lire 150 mila. Qualora detta retribuzione o stipendio al 1 gennaio 1953 risulti superiore a lire 2.000.000 e sia comprensiva della indennita' di carovita o di indennita' analoga e di eventuali competenze accessorie, la retribuzione annua contributiva in nessun caso si consirera' come inferiore a tale retribuzione o stipendio aumentata soltanto del 10 per cento e di lire 30.000.
 
-## CAPO II. - Conseguimento del diritto ai trattamenti di quiescenza
+## CAPO II. - Conseguimento del diritto ai trattamenti di quiescenza delle Casse per le pensioni ai dipendenti degli enti locali e agli insegnanti di asilo e di scuole elementari parificate.
 
-### delle Casse per le pensioni ai dipendenti degli enti - locali e agli insegnanti di asilo e di scuole elementari
-
-#### parificate.
-
-##### Art. 6
+### Art. 6
 
 ((ARTICOLO ABROGATO DALLA L. 8 AGOSTO 1991, N.274)).
 
-##### Art. 7
+### Art. 7
 
 Consegue il diritto alla pensione diretta l'iscritto che, a partire dalla data da cui ha effetto la presente legge in poi, sia gessato o cessi dal servizio:
 
@@ -84,7 +78,7 @@ c) dopo almeno venticinque anni di servizio utile, per dimissioni o per altre ca
 
 Consegue il diritto alla pensione diretta di privilegio l'iscritto che, a partire dalla data da cui ha effetto la presente legge in poi, qualunque sia stata la durata del servizio utile, sia cessato o cessi dal servizio per le cause e nelle condizioni indicate dalla lettera c) e dal comma secondo dell'art. 33 dell'ordinamento approvato con il regio decreto-legge 3 marzo 1938, n. 680. Detta pensione deve essere richiesta nel termine perentorio di tre anni dalla cessazione dal servizio.
 
-##### Art. 8
+### Art. 8
 
 Per le cessazioni dal servizio a partire dalla data da cui ha effetto la presente legge in poi, nel caso di iscritto che muore in attivita' di servizio o che muore entro un triennio dalla cessazione senza aver conseguito il diritto all'indennita' di cui al primo comma dell'art. 6 o alla pensione di cui all'art. 7, alla vedova e agli altri superstiti indicati nell'art. 37 dell'ordinamento approvato con il regio decreto-legge 3 marzo 1938, n. 680 compete:
 
@@ -98,13 +92,13 @@ Per il conseguimento del diritto all'indennita' o alla pensione indiretta di cui
 
 Per il conseguimento del diritto alla pensione indiretta di privilegio devono sussistere le condizioni inerenti allo stato coniugale contemplato nell'art. 40 del citato ordinamento approvato con il regio decreto-legge 3 marzo 1938, n. 680. La relativa domanda deve essere presentata nel termine perentorio di tre anni dalla morte dell'iscritto.
 
-##### Art. 9
+### Art. 9
 
 Per stabilire il diritto al conseguimento della riversibilita' della pensione diretta o della pensione diretta di privilegio e la misura di essa, ragguagliata a quella della corrispondente pensione diretta, si applicano le norme stabilite in materia dal regio decreto-legge 3 marzo 1938, n. 680 con la modifica di cui al periodo secondo del penultimo comma dell'art. 8.
 
 Al fine di stabilire i casi di perdita o di sospensione dell'esercizi del diritto a conseguire l'indennita' una volta tanto o la pensione oppure del godimento della pensione gia' conseguita, si applicano le norme contenute negli articoli 43, 44 e 45 del citato ordinamento approvato con il regio decreto-legge 3 marzo 1938, n. 680.
 
-##### Art. 10
+### Art. 10
 
 Per i casi di cessazioni dal servizio degli iscritti alla Cassa per le pensioni ai dipendenti degli enti locali e alla Cassa per le pensioni agli insegnanti di asilo e di scuole elementari parificate, a partire dalla data da cui ha effetto la presente legge in poi, l'assegno di caroviveri temporaneo di cui all'art. 2 del decreto legislativo 3 settembre 1946, n. 143, e successive modificazioni, spettante nelle misure stabilite dall'art. 1 della legge 26 novembre 1953, n. 877, e dall'art. 4 della legge 27 dicembre 1953, n. 966, assume la denominazione di rendita vitalizia costante. Tale rendita vitalizia, integrativa della pensione, viene corrisposta anche ai titolari che prestano opera retribuita, rimanendo per i predetti casi abrogate le norme di, cui all'ultimo comma dell'art. 2 sopra citato.
 
@@ -128,17 +122,13 @@ AGGIORNAMENTO (4)
 
 La L. 26 luglio 1965, n.965 ha disposto (con l'art. 8, comma 3) che "A decorrere dal 1 luglio 1965, la rendita vitalizia costante di cui all'articolo 10 della legge 11 aprile 1955, n. 379, e successive modificazioni e' soppressa."
 
-##### Art. 11
+### Art. 11
 
 Nel caso, di morte dell'iscritto che avvenga entro i triennio dalla cessazione dal servizio, l'indennita' indiretta una volta tanto, spettante quando sussistano le condizioni di servizio previste dalla lettera a) dell'articolo 8, viene calcolata detraendo dal relativo importo quello eventuale gia' corrisposto all'iscritto, nella forma di indennita' diretta ridotta, in applicazione dell'ultimo comma dell'art. 6. Quando sussistano le condizioni di servizio previste dalla lettera b) dello art. 8 per la concessione della pensione indiretta, il titolare di essa ha facolta' di chiedere che la predetta eventuale indennita' ridotta corrisposta all'iscritto venga rifusa, anziche' in unica soluzione, mediante detrazione dalla pensione della quota annua vitalizia corrispondente all'indennita' stessa, da determinarsi con l'applicazione delle tabelle di annualita' vitalizie a favore di vedove e orfani attualmente in vigore.
 
-## CAPO III. - Retribuzione contributiva e determinazione della
+## CAPO III. - Retribuzione contributiva e determinazione della pensione teorica per gli iscritti alle Casse per le pensioni ai dipendenti degli enti locali e agli insegnanti di asilo e di scuole elementari parificate.
 
-### pensione teorica per gli iscritti alle Casse per le pensioni - ai dipendenti degli enti locali e agli insegnanti di
-
-#### asilo e di scuole elementari parificate.
-
-##### Art. 12
+### Art. 12
 
 L'acertamento e la riscossione dei contributi si effettuano in base alle norme stabilite in materia dal regio decreto-legge 3 marzo 1938, n. 680, e successive modificazioni, per la Cassa per le pensioni ai dipendenti degli enti locali, e dalla legge 6 febbraio 1941, n. 176, e successive modificazioni, per la Cassa per le pensioni agli insegnanti di asilo e di scuole elementari parificate.
 
@@ -146,13 +136,13 @@ A partire dal 1 gennaio 1954 in poi, riferibilmente ad ogni anno solare di servi
 
 Per determinare la retribuzione annua contributiva, si considera soltanto la parte fissa e continuativa del complesso degli emolumenti che l'iscritto percepisce nell'intero anno. Fino a quando tale parte non sara' riordinata in un'unica voce del trattamento economico di attivita' di servizio, essa sara' considerata come costituita dai seguenti elementi: lo stipendio, salario o paga, l'indennita' di carovita o di contingenza con esclusione delle eventuali quote dovute per i familiari a carico, l'indennita' di presenza computata per 280 giornate l'anno, l'indennita' di funzione o assegno perequativo, l'eventuale indennita' di caropane in una importo annuo comunque non superiore a lire 6240, la tredicesima mensilita', gli altri eventuali elementi - costitutivi della retribuzione - fissi e ricorrenti ogni anno che siano dovuti all'iscritto non in dipendenza della mansione da lui esplicata.
 
-##### Art. 13
+### Art. 13
 
 Nel caso di iscritto, che alla data del 1 gennaio si trovi temporaneamente fuori servizio, la retribuzione annua contributiva si determina prendendo a base il trattamento economico - ragguagliato all'intero anno - goduto prima della data d'inizio dell'interruzione di servizio. L'importo di tale trattamento deve, pero', essere aggiornato, al fine di tener conto dei miglioramenti - stabiliti da leggi, dai regolamenti organici, da contratti collettivi di lavoro regolarmente applicabili all'iscritto o da deliberazioni degli enti locali debitamente approvate dalle autorita' tutorie - eventualmente intervenuti fino al 1 gennaio dell'anno cui la detta retribuzione si riferisce.
 
 Per il nuovo iscritto o per il reiscritto nel corso dell'anno la retribuzione contributiva, riferibile allo anno stesso, da accertarsi all'inizio di quello successivo, si determina, prendendo a base il trattamento economico, ragguagliato all'intero anno, goduto alla, data di assunzione o di riassunzione in servizio.
 
-##### Art. 14
+### Art. 14
 
 Ai fini della determinazione della retribuzione annua contributiva e del conseguente importo dei contributi dovuti alle Casse, nel caso di interruzione di servizio, che abbia inizio o termine nel corso del mese, si considera come periodo di servizio effettivamente prestato: il periodo intercorrente dalla, data di inizio dell'interruzione fino all'ultimo giorno del mese;
 
@@ -172,7 +162,7 @@ Per i casi di assunzioni o di riassunzioni in servizio nel corso dell'anno, l'ac
 
 Per i casi di interruzione di servizio all'inizio o nel corso dell'anno e di cessazioni dal servizio nel corso dell'anno, le Casse provvedono, all'inizio dell'anno successivo, al rimborso della, differenza tra i contributi accertati e quelli effettivamente dovuti.
 
-##### Art. 15
+### Art. 15
 
 A partire dal 1 gennaio 1954, il contributo complessivo, per ogni iscritto, dovuto alla Cassa per le pensioni ai dipendenti degli enti locali e' pari al 23 per cento della retribuzione annua contributiva, ripartito per il 17,70 per cento a carico dell'ente e per il 5,30 per cento a carico dell'iscritto. Nessun contributo e' dovuto per i posti vacanti e per i posti coperti da titolari non iscritti.
 
@@ -180,13 +170,13 @@ A partire dalla data predetta, il contributo complessivo, per ogni iscritto, dov
 
 Nessun contributo e' dovuto per i posti vacanti.
 
-##### Art. 16
+### Art. 16
 
 A partire dalla data da cui ha effetto la presente legge, per ogni iscritto, al fine della determinazione della pensione teorica, si calcola, riferibilmente ad ogni anno solare di servizio, la retribuzione annua pensionabile, il cui importo e' pari a quello della retribuzione annua contributiva diminuito di lire 60.000 destinate alla formazione della rendita vitalizia costante stabilita dall'art. 10.
 
 Nei casi di interruzione di servizio, la retribuzione annua pensionabile e' pari alla retribuzione annua contributiva di cui al terzo comma dell'art. 14 diminuita di un'aliquota di lire 60.000 pari a tanti dodicesimi quanti sono stati, nell'anno, i mesi di servizio prestato per intero o come tale considerato ai Sensi del primo comma dello stesso art. 14.
 
-##### Art. 17
+### Art. 17
 
 Per ciascun iscritto, gia' in servizio alla data da cui ha effetto la presente legge, ai fini della determinazione della quota di pensione teorica riferibile al servizio, utile anteriore a tale data, si prende per base la retribuzione annua contributiva riferita al 1 gennaio 1954, da determinarsi seguendo i criteri stabiliti dagli articoli 12, commi secondo e terzo, e 13, comma primo.
 
@@ -198,19 +188,19 @@ La retribuzione annua pensionabile, da attribuirsi per il servizio utile prestat
 
 Ai fini dell'applicazione delle norme contenute nei commi precedenti, l'effetto retroattivo fino al 1 gennaio 1954 o a data anteriore, eventualmente previsto da deliberazioni concernenti miglioramenti del trattamento economico adottate dagli enti, a partire dal 1 gennaio 1954 in poi, si considera inefficace, anche quando le deliberazioni stesse siano state approvate dalle autorita' tutorie. Non sussiste, pero', la inefficacia del suddetto effetto retroattivo nei casi in cui le variazioni dei trattamento economico derivino da promozioni al grado o a categoria superiore o da leggi o da contratti collettivi di lavoro oppure da nuovi regolamenti organici.
 
-##### Art. 18
+### Art. 18
 
 Nei riguardi degli iscritti che abbiano prestato anteriormente al 1 gennaio 1954 servizi simultanei utili in pensione, ai fini dell'applicazione delle norme contenute nel secondo comma dell'art. 17, si considerano soltanto quei servizi per i quali la prestazione era ancora in corso alla data predetta. Per ciascuno di tali servizi di diversa durata si effettua separatamente la determinazione della retribuzione pensionabile annua costante da attribuirsi per le rispettive durate espresse in anni. Tali retribuzioni si considerano pari alle corrispondenti retribuzioni annue contributive, esclusa quella relativa al servizio simultaneo di durata maggiore, che si considera pari alla corrispondente retribuzione annua contributiva diminuita di lire 60.000.
 
 Riferibilmente alle durate comuni dei predetti servizi, si attribuisce come retribuzione pensionabile annua costante la somma di quelle ottenute per i singoli servizi.
 
-##### Art. 19
+### Art. 19
 
 Per ogni iscritto, la pensione teorica, si determina prendendo per base la successione degli importi delle retribuzioni pensionabili annue attribuite all'iscritto stesso, per ogni anno solare, a partire dalla data di inizio del servizio utile. Il calcolo si effettua mediante l'applicazione delle norme annesse alla tabella A unita alla presente legge.
 
 Alla data della, cessazione dal servizio, la pensione teorica risultante in applicazione del precedente comma deve essere maggiorata, nei casi in cui ricorra la valutazione delle campagne di guerra o di altri benefici prevista, rispettivamente, dal regio decreto-legge 3 marzo 1938, n. 680, e successive modificazioni e dalla legge 6 febbraio 1941, n. 176, e successive modificazioni.
 
-##### Art. 20
+### Art. 20
 
 Per ciascun iscritto di cui all'art. 17 che alla data da cui ha effetto la presente legge abbia superato il cinquantacinquesimo anno di eta', si determina relativamente ai servizi utili anteriori al 1 gennaio 1954, e con riferimento a tale data:
 
@@ -228,13 +218,9 @@ AGGIORNAMENTO (1)
 
 La L. 5 dicembre 1959, n.1077 ha disposto (con l'art. 2, comma 2) che per i casi di cessazione dal servizio a partire dal 1 gennaio 1958 rimangono abrogate le norme contenute nell'art. 20 della legge 11 aprile 1955, n. 379.
 
-## CAPO IV. - Norme concernenti il riscatto dei servizi e la misura
+## CAPO IV. - Norme concernenti il riscatto dei servizi e la misura dei trattamenti di quiescenza delle Casse per le pensioni ai dipendenti degli enti locali e agli insegnanti di asilo e di scuole elementari parificate.
 
-### dei trattamenti di quiescenza delle Casse per le - pensioni ai dipendenti degli enti locali e agli insegnanti
-
-#### di asilo e di scuole elementari parificate.
-
-##### Art. 21
+### Art. 21
 
 Per l'iscritto alla Cassa per le pensioni ai dipendenti degli enti locali o alla Cassa per le pensioni agli insegnanti di asilo e di scuole elementari parificate e' data facolta'; agli effetti del trattamento di quiescenza di riscattare, in una sola volta o in piu' volte, fino ad un massimo di anni 15, i seguenti servizi comunque prestati e periodi, che non siano altrimenti utili in pensione o contemporanei ad altri servizi utili:
 
@@ -246,11 +232,11 @@ c) i servizi resi agli enti di cui agli articoli 22 e 37 della legge 24 maggio 1
 
 La limitazione del riscatto al predetto massimo di anni 15 non trova applicazione qualora la relativa domanda risulti presentata prima della data di pubblicazione della presente legge, ferme rimanendo in tale caso, per gli iscritti alla Cassa per le pensioni ai dipendenti degli enti locali, le disposizioni contenute nel primo comma dell'art. 73 del citato ordinamento approvato con il regio decreto-legge 3 marzo 1938, D. 680.
 
-##### Art. 22
+### Art. 22
 
 I servizi e i periodi di cui all'art. 21, che vengono ammessi a riscatto con deliberazioni adottate successivamente alla data di pubblicazione della presente legge, nel caso in cui le relative domande non siano di data anteriore al 1 gennaio 1954, sono valutati, ai fini del conseguimento del diritto al trattamento di quiescenza, nella loro effettiva durata, in anni, mesi e giorni.
 
-##### Art. 23
+### Art. 23
 
 Il contributo per i servizi che vengono ammessi a riscatto con deliberazioni adottate posteriormente alla data di pubblicazione della presente legge si determina in base alle norme contenute nei commi seguenti e nei successivi articoli 24 e 25.
 
@@ -264,7 +250,7 @@ Ciascuno dei predetti periodi si considera espresso in mesi, computando per un m
 
 Ad ognuno dei distinti periodi predetti, che si considera come immediatamente precedente la data di inizio del successivo periodo di servizio utile, si attribuisce l'identica retribuzione pensionabile, ragguagliata in ogni caso all'intero anno, gia' attribuita all'iscritto per l'anno solare in cui cade tale data.
 
-##### Art. 24
+### Art. 24
 
 In base alle retribuzioni pensionabili attribuite ai periodi di cui all'art. 23 e tenendo presenti la durata e l'epoca dei periodi stessi, si determina, per ciascuno di essi, la relativa quota di pensione teorica riferita alla fine del mese di presentazione della domanda di riscatto.
 
@@ -274,7 +260,7 @@ Qualora sia richiesto il pagamento rateale, il computo del relativo contributo m
 
 Il pagamento puo' essere concesso per un periodo in anni interi non superiore al doppio di quello riscattato e in nessun caso superiore ad anni quindici.
 
-##### Art. 25
+### Art. 25
 
 Per le domande di riscatto presentate nel periodo dal 1 gennaio 1954 alla data di pubblicazione della presente legge, i relativi contributi, calcolati secondo le norme contenute negli articoli 23 e 24, sono ridotti del quindici per cento.
 
@@ -282,33 +268,33 @@ Per le domande di riscatto regolarmente presentate anteriormente al 1 gennaio 19
 
 I servizi e i periodi, per i quali l'ammissione a riscatto sia stata adottata con deliberazione anteriore alla data di pubblicazione della presente legge, si considerano, ad ogni effetto, come altrettanti servizi utili e ad essi si attribuiscono le retribuzioni annue pensionabili di cui all'ultimo comma del precedente art. 23.
 
-##### Art. 26
+### Art. 26
 
 Ai fini della determinazione della pensione teorica di cui all'art. 19, nei casi di periodi di riscatto contemplati alla lettera b) dell'art. 23, qualora nello stesso anno solare-intermedio tra quello della data di inizio e quello di cessazione dal servizio utile - vi sia una parte ammessa a riscatto ed una parte gia' considerata come utile nel modo indicato al comma primo dell'articolo 14, entrambe espresse in mesi interi, per tale anno si attribuisce, come retribuzione pensionabile, la somma delle due rispettive aliquote della retribuzione pensionabile ragguagliata all'intero anno risultante in applicazione del primo comma dell'art. 16.
 
 Per l'iscritto avente servizio utile anteriore al 1 gennaio 1954, i servizi o periodi anteriori a tale data per i quali sia stato o sia concesso il riscatto sono considerati come immediatamente precedenti tale servizio utile. All'intera, durata dei predetti servizi o periodi si attribuisce la retribuzione pensionabile annua costante risultante dall'applicazione delle norme di cui agli articoli 17, comma secondo, e 18.
 
-##### Art. 27
+### Art. 27
 
 Per ogni iscritto, la misura del trattamento di quiescenza e' determinata, in applicazione dei seguenti articoli 28, 29, 30, 31, 32 e 33, prendendo per base la relativa pensione teorica, riferita alla data della cessazione dal servizio, calcolata nel modo indicato agli articoli 19 e 20.
 
-##### Art. 28
+### Art. 28
 
 L'importo lordo dell'indennita' diretta una volta tanto o dell'indennita' indiretta una volta tanto, di cui, rispettivamente, al comma primo dell'art. 6 e alla lettera a) dell'art. 8, e' pari al prodotto che si ottiene moltiplicando la pensione teorica di cui al precedente art. 27 per il coefficiente fisso 7,85.
 
-##### Art. 29
+### Art. 29
 
 L'importo annuo lordo della pensione diretta, comprensivo dell'elevazione di cui all'art. 10 del decreto del Presidente della Repubblica 11 luglio 1952, n. 767 e della tredicesima mensilita' di cui alla legge 26 novembre 1953, n. 877, e' pari alla, pensione teorica di cui all'art. 27.
 
 L'importo annuo lordo della pensione diretta, di privilegio e' pari a quello determinato in applicazione del comma precedente aumentato di un decimo.
 
-##### Art. 30
+### Art. 30
 
 L'importo annuo lordo della, pensione diretta - e cosi' pure quello della pensione diretta di privilegio - in nessun caso puo' superare la retribuzione annua pensionabile riferita alla data della cessazione del servizio.
 
 L'importo annuo lordo della pensione diretta di privilegio in nessun caso puo' essere inferiore ai due terzi della retribuzione annua pensionabile di cui al collina precedente.
 
-##### Art. 31
+### Art. 31
 
 Nel caso di iscritto che alla data della cessazione dal servizio presta servizi simultanei, ai fini dell'applicazione delle norme contenute nel primo comma dell'art. 30, la retribuzione annua pensionabile riferita alla data della cessazione stessa si determina secondo le norme indicate ai commi seguenti.
 
@@ -322,7 +308,7 @@ Si considerano per intero le retribuzioni annue contributive relative ai servizi
 
 Nei caso contemplato dal comma primo, si attribuisce all'iscritto come ultima retribuzione annua pensionabile quella che risulta dalla somma, delle retribuzioni annue contributive di cui al comma precedente diminuita di lire 60.000.
 
-##### Art. 32
+### Art. 32
 
 L'importo annuo lordo della pensione indiretta di cui alla lettera b) dell'art. 8, quello della pensione indiretta di privilegio di cui alla lettera c) dell'articolo stesso, nonche' quello della riversibilita' della pensione diretta o della pensione diretta di privilegio si determinano, in base al corrispondente importo della pensione diretta, applicando le norme stabilite in materia dal regio decreto-legge 3 marzo 1938, n. 680 e successive modificazioni.
 
@@ -330,7 +316,7 @@ La ritenuta del due per cento sulla pensione diretta di cui all'art. 30 del cita
 
 Per i casi di cessazione dal servizio verificatisi nel periodo intercorrente tra la data da cui ha effetto la presente legge e quella di pubblicazione della medesima, il trattamento annuo lordo, nella forma dell'indennita' una volta tanto o della pensione, in nessun caso puo' essere inferiore a quello che sarebbe spettato all'iscritto qualora non fossero state applicate le norme contenute nella presente legge.
 
-##### Art. 33
+### Art. 33
 
 A partire dal 1 gennaio 1954, sui versamenti volontari di cui all'art. 26 dell'ordinamento approvato con il regio decreto-legge 3 marzo 1938, n. 680, all'art. 17 della legge 6 febbraio 1941, n. 176 e all'art. 25 della legge 25 luglio 1941, n. 934, si computano gli interessi composti del 4,75 per cento annuo - i cui valori unitari sono riportati nella tabella D allegata alla presente legge - per il periodo intercorrente tra la fine del mese in cui i versamenti stessi sono stati effettuati e la fine del mese della cessazione dal servizio.
 
@@ -338,7 +324,7 @@ Nel caso in cui il titolare al quale venga conferita la pensione chieda che il c
 
 ## CAPO V. - Modifiche agli ordinamenti degli Istituti di previdenza.
 
-##### Art. 34
+### Art. 34
 
 La Cassa di previdenza per le pensioni dei sanitari, istituita con legge 14 luglio 1898, n. 335, assume la denominazione: di Cassa per le pensioni ai sanitari.
 
@@ -348,7 +334,7 @@ Le disposizioni di cui al precedente comma hanno vigore dal primo giorno del mes
 
 Il contributo di riscatto, calcolato secondo le norme stabilite in materia per la Cassa per le pensioni ai sanitari, e' ridotto ad un terzo per la parte che si riferisce ai servizi contemplati dalla lettera d) del citato art. 8 resi anteriormente al primo giorno del mese successivo a quello di pubblicazione della presente legge.
 
-##### Art. 35
+### Art. 35
 
 I sovraintendenti sanitari degli Istituti ospedalieri in servizio alla data di pubblicazione della presente legge o che in tale qualita' vengano successivamente nominati o assunti sono obbligati all'iscrizione alla Cassa per le pensioni ai dipendenti degli enti locali con effetto dalla data di inizio del servizio nella qualita' predetta.
 
@@ -362,7 +348,7 @@ AGGIORNAMENTO (3)
 
 La L. 24 ottobre 1962, n.1593 ha disposto (con l'art. 15, comma 1) che "Tra i personali laureati in medicina e chirurgia riguardati dal comma terzo dell'articolo 35 della legge 11 aprile 1955, n. 379, in nessun caso sono da comprendere i sanitari non ospedalieri dipendenti dagli enti indicati alle lettere a), b), h) ed i) dell'articolo 5 dell'ordinamento approvato con regio decreto-legge 3 marzo 1938, n. 680."
 
-##### Art. 36
+### Art. 36
 
 I sanitari dipendenti dall'Istituto nazionale assistenza dipendenti enti locali (I.N.A.D.E.L.) in servizio con regolare rapporto d'impiego alla data di pubblicazione della presente legge o successivamente assunti dall'Istituto stesso, per i quali non sussistano le condizioni previste dall'ultimo comma dell'art. 35, sono obbligati alla iscrizione alla Cassa per le pensioni ai sanitari, con effetto dalla data di assunzione.
 
@@ -376,17 +362,17 @@ AGGIORNAMENTO (3)
 
 La L. 24 ottobre 1962, n.1593 ha disposto (con l'art. 13, comma 1) che "Con effetto dal 1 gennaio 1952, come sanitari dipendenti dall'Istituto nazionale assistenza dipendenti enti locali (I.N.A.D.E.L.) contemplati dall'articolo 36 della legge 11 aprile 1955, n. 379, devono essere considerati anche i sanitari adibiti ai servizi di revisione, ispettivi e ambulatoriali riguardanti da apposito contratto a tempo indeterminato."
 
-##### Art. 37
+### Art. 37
 
 Gli asili d'infanzia eretti in enti morali e le istituzioni pubbliche di assistenza e beneficenza, le quali da sole o se riunite in un'unica amministrazione, complessivamente, non raggiungano un importo annuo di entrate effettive ordinarie di almeno lire 700.000 non sono obbligati ad iscrivere alla Cassa per le pensioni ai dipendenti degli enti locali e alla Cassa per le pensioni agli insegnanti di asilo e di scuole elementari parificate le proprie rispettive categorie di personale assunto a partire dalla data di pubblicazione della presente legge in poi. Tale personale ha facolta' di iscriversi alla rispettiva Cassa corrispondendo, oltre al proprio, anche il contributo che farebbe carico all'ente, a meno che questo se ne assuma volontariamente l'onere.
 
-##### Art. 38
+### Art. 38
 
 L'insegnante di asilo d'infanzia; con retribuzione annua contributiva non inferiore a lire 90.000, comunque assunto in servizio a partire dalla data di pubblicazione della presente legge e' obbligato all'iscrizione alla Cassa per le pensioni agli insegnanti di asilo e di scuole elementari parificate, purche' l'asilo abbia entrate effettive ordinarie annue di almeno lire 700.000.
 
 Per l'insegnante in servizio alla data predetta, che si sia avvalso o si avvalga della facolta' di iscrizione alla Cassa, l'asilo e' tenuto, a partire dal 1 gennaio dell'anno successivo a quello della data stessa, al pagamento della parte del contributo complessivo stabilita a carico dell'ente dal comma secondo dell'art. 15.
 
-##### Art. 39
+### Art. 39
 
 Ferme restando le vigenti norme stabilite in materia dell'iscrizione obbligatoria o facoltativa agli Istituti di previdenza, e' data facolta' agli enti parastatali, agli enti di diritto pubblico, agli enti morali e alle Regioni di iscrivere alla Cassa per le pensioni ai dipendenti degli enti locali, alla Cassa per le pensioni agli insegnanti di asilo e di scuole elementari parificate e alla Cassa, per le pensioni ai sanitari le rispettive categorie di personali da essi dipendenti.
 
@@ -400,7 +386,7 @@ Gli enti contemplati nel primo comma sono esonerati dall'assicurazione obbligato
 
 La Fondazione scientifica e la Fondazione dotalizia - con la istituzione delle quali, pur conservando l'unicita' di amministrazione, e' stata riordinata, in applicazione del decreto-legge 5 settembre 1938, n. 1807, e successive modificazioni, l'originaria Fondazione Querini Stampalia di Venezia, eretta in ente morale con decreto reale 21 giugno 1869 - nonche' l'ente Collegio Serristori di Castiglion Fiorentino, eretto in ente morale con regio decreto 31 gennaio 1875, n. 2369, serie II, sono equiparati alle istituzioni pubbliche di assistenza e beneficenza, ai fini di accertare l'obbligo anche con effetto retroattivo o la facolta' della iscrizione del personale dipendente agli Istituti di previdenza.
 
-##### Art. 40
+### Art. 40
 
 Ai fini del trattamento di quiescenza indiretto o di riversibilita' degli Istituti di previdenza, i figli naturali riconosciuti a norma del Codice civile dall'iscritto anteriormente alla data di cessazione dal servizio sono equiparati ai figli legittimi.
 
@@ -412,7 +398,7 @@ AGGIORNAMENTO (5)
 
 La Corte Costituzionale, con sentenza 16 - 22 giugno 1971, n. 135 (in G.U. 1a s.s. 30/06/1971 n. 163 ) ha dichiarato "l'illegittimita' costituzionale dell'art. 40, comma secondo, della legge 11 aprile 1955, n. 379 - modificato dall'art. 27 della legge 26 luglio 1965, n. 965, e dall'art. 8 della legge 5 febbraio 1968, n. 85 - (contenente miglioramenti dei trattamenti di quiescenza e modifiche agli ordinamenti degli Istituti di previdenza presso il Ministero del tesoro), nella parte in cui ammette al trattamento di quiescenza le orfane solo se nubili o vedove"
 
-##### Art. 41
+### Art. 41
 
 In nessun caso e' consentito di ottenere la trasformazione in indennita' una volta tanto della parte aggiuntiva di pensione di cui 4 comma primo dell'art. 26 della legge 24 maggio 1952, n. 610, per l'iscritto che, dopo aver conseguito il diritto alla pensione, continui l'iscrizione o si reiscriva agli Istituti di previdenza.
 
@@ -420,25 +406,25 @@ Il minimo di cinque anni di servizio previsto dall'ultimo comma del citato art. 
 
 A partire dal 1 gennaio dell'anno successivo a quello di pubblicazione della presente legge, i trattamenti di quiescenza nella forma della pensione a carico della Cassa per le pensioni ai sanitari e della Cassa di previdenza per le pensioni degli ufficiali giudiziari, nonche' quelli, relativi ai casi di cessazioni dal servizio anteriori alla data da cui ha effetto la presente legge, a carico della Cassa per le pensioni ai dipendenti degli enti locali e della Cassa per le pensioni agli insegnanti di asilo e di scuole elementari parificate, saranno corrisposti integralmente, nei loro importi spettanti, anche ai titolari che prestano opera retribuita, rimanendo per i predetti trattamenti ed a partire dalla data sopradetta abrogate le norme di cui all'ultimo comma dell'art. 2 del decreto legislativo 3 settembre 1946, n. 143.
 
-##### Art. 42
+### Art. 42
 
 Al fine di stabilire il conseguimento del diritto alla pensione diretta di privilegio e alla pensione indiretta di privilegio, per le cessazioni dal servizio a partire dal 1 gennaio dell'anno successivo a quello di pubblicazione della presente legge, nei riguardi degli iscritti alla Cassa per le pensioni ai sanitari e alla Cassa per le pensioni agli ufficiali giudiziari e agli aiutanti ufficiali giudiziari, si applicano le norme di cui all'ultimo comma dell'art. 7 e all'art. 8, lettera c) e ultimo comma.
 
 Ai fini dell'applicazione del comma precedente, anche nei riguardi degli iscritti alla Cassa per le pensioni ai dipendenti degli enti locali e alla Cassa per le pensioni agli insegnanti di asilo e di scuole elementari parificate, l'evento che si verifica in occasione del servizio si considera come avvenuto per causa di servizio.
 
-##### Art. 43
+### Art. 43
 
 Il Consiglio di amministrazione della Cassa depositi e prestiti e degli Istituti di previdenza. - Sezione seconda - nel caso di pensione diretta di privilegio, per gli iscritti agli Istituti stessi, in base all'entita' delle menomazioni dell'integrita' fisica, da accertarsi con riferimento alla data della cessazione dal servizio, stabilisce se le lesioni ed infermita' rientrino tra quelle contemplate dalla tabella A annessa alla legge 10 agosto 1950, n. 648. In caso affermativo, il predetto Consiglio assegna al titolare della pensione diretta di privilegio la rispettiva categoria e, per i superinvalidi, ne attribuisce l'ascrizione ad una delle lettere di cui alla, tabella E annessa alla legge sopra citata. A tali fini, il Consiglio di amministrazione puo' chiedere il parere delle Commissioni mediche di cui agli articoli 103 e 104 della legge predetta.
 
 Resta fermo che il Ministro per il tesoro stabilisce, a carico dei bilanci della Cassa depositi e prestiti e degli Istituti di previdenza, compensi ed altre spese necessarie per il funzionamento della prima e della seconda sezione del Consiglio di amministrazione della Cassa depositi e prestiti e degli Istituti di previdenza, in conformita' delle disposizioni contenute nell'ultimo capoverso dell'art. 3 del decreto legislativo dal Capo provvisorio dello Stato 1 settembre 1947, n. 883.
 
-##### Art. 44
+### Art. 44
 
 A partire dalla data da cui ha effetto la presente legge, ai superinvalidi titolari di pensione diretta di privilegio a carico degli Istituti di previdenza e' concesso l'assegno di superinvalidita' di cui ai commi primo e terzo dell'art. 28 della legge 10 agosto 1950, n. 648, e successive modificazioni, nella misura annua di esso stabilita, per le varie lettere, dalla tabella E annessa alla legge stessa. Su tale assegno, pagabile in dodici rate mensili posticipate, non compete la tredicesima mensilita' di cui alla legge 26 novembre 1953, n. 877.
 
 Nei casi di pensione ad onere ripartito tra Istituti di previdenza ed altri enti, l'assegno di superinvalidita' di cui al comma precedente e' attribuito per quote, in conformita' alle norme stabilite in materia dagli ordinamenti dei predetti Istituti.
 
-##### Art. 45
+### Art. 45
 
 Le norme di cui all'art. 6 della legge 13 aprile 1953, n. 337, si applicano anche nei confronti dei titolari di pensioni dirette di privilegio a carico degli Istituti di previdenza, seguendo le stesse modalita' stabilite per le pensioni privilegiate ordinarie statali dai commi primo e secondo dell'art. 7 della legge citata. ((2))
 
@@ -448,7 +434,7 @@ AGGIORNAMENTO (2)
 
 La L. 26 luglio 1961, n.714 ha disposto (con l'articolo unico) che "Il contributo a favore dell'unione nazionale mutilati per servizio - previsto dall'articolo 6 della legge 13 aprile 1953, n. 337, rettificato con l'avviso pubblicato nella Gazzetta Ufficiale del 20 maggio 1953, e dall'articolo 45 della legge 11 aprile 1955, n. 379 - e' aumentato da lire 50 a lire 100 mensili a decorrere dalla rata di pensione avente scadenza posteriore al novantesimo giorno dalla data di pubblicazione della presente legge."
 
-##### Art. 46
+### Art. 46
 
 A partire dalla data di pubblicazione della presente legge, nel caso di riscatto di servizi o periodi con pagamento del contributo a rate mensili posticipate, qualora l'iscritto agli Istituti di previdenza muoia in attivita' di servizio entro il periodo di sei mesi dalla data di presentazione della relativa domanda, la vedova - o gli orfani - con diritto all'indennita' una volta tanto e' tenuta al versamento alla rispettiva Cassa di un importo pari all'intero valore capitale dei contributi rateali che sarebbero scaduti successivamente alla data di morte dell'iscritto qualora il pagamento dei contributi stessi avesse avuto inizio dal primo giorno del mese successivo alla data della presentazione della domanda di riscatto.
 
@@ -456,7 +442,7 @@ La vedova - o gli orfani - cui compete la pensione e' tenuta al versamento della
 
 Nel caso di riscatto di servizi o periodi deliberato a partire dalla data di pubblicazione della presente legge, quando la domanda sia stata presentata successivamente alla data di morte in attivita' di servizio dello iscritto agli Istituti di previdenza, il relativo contributo calcolato secondo le norme della rispettiva Cassa - dovuto in ogni caso in una sola volta oppure mediante ritenuta delle intere prime rate di pensione - e' ridotto alla meta' qualora la vedova o gli orfani dell'iscritto abbiano diritto alla pensione.
 
-##### Art. 47
+### Art. 47
 
 A partire dalla data di pubblicazione della presente legge, per gli iscritti agli Istituti di previdenza, la concessione del riscatto e' deliberata dal presidente del Consiglio di amministrazione della Cassa, depositi e prestiti e degli Istituti di previdenza. - Sezione seconda - in base alla relazione di un consigliere all'uopo delegato, quando il relatore si uniformi alle proposte dell'Amministrazione.
 
@@ -464,13 +450,13 @@ Sono, invece, sottoposte alle deliberazioni del Consiglio predetto le proposte d
 
 ## CAPO VI. - Disposizioni finali.
 
-##### Art. 48
+### Art. 48
 
 Per accelerare i lavori inerenti alla prima applicazione delle norme contenute nella presente legge, sono autorizzate, per due anni dall'entrata in vigore della presente legge, per il personale addetto ai servizi degli Istituti di previdenza, prestazioni di lavoro straordinario anche col sistema del cottimo, oltre i limiti orari e la misura forfettaria consentiti dal decreto legislativo Presidenziale 27 giugno 1946, n. 19, con le modalita' e secondo i criteri da stabilirsi dal Ministro per il tesoro.
 
 I posti di ispettore della Direzione generale degli Istituti di previdenza vacanti alla data di pubblicazione della presente legge possono essere conferiti con le norme di cui al primo periodo dell'art. 2 della legge 25 marzo 1950, n. 167.
 
-##### Art. 49
+### Art. 49
 
 La Direzione generale degli Istituti di previdenza, a cura del proprio servizio statistico-attuariale, ogni quattro anni compila il bilancio tecnico delle Casse per le pensioni ai sanitari, ai dipendenti degli enti locali, agli ufficiali e aiutanti ufficiali giudiziari e agli insegnanti di asilo e di scuole elementari parificate. ((6))
 
@@ -492,7 +478,7 @@ AGGIORNAMENTO (6)
 
 La L. 18 novembre 1975, n.586 ha disposto (con l'art. 11, comma 1) che "L'articolo 49, primo comma, della legge 11 aprile 1955, n. 379, e' modificato nel senso che i bilanci tecnici della Cassa per le pensioni agli ufficiali giudiziari ed agli aiutanti ufficiali giudiziari sono compilati ogni biennio e riferiti alla data del 1 gennaio. Le corrispondenti relazioni illustrative sono allegate al rendiconto dell'anno in cui cade la predetta data, redatto in base alle vigenti disposizioni per la gestione degli istituti di previdenza."
 
-##### Art. 50
+### Art. 50
 
 La presente legge ha effetto col 31 dicembre 1953.
 
@@ -510,7 +496,7 @@ Visto, il Guardasigilli: DE PIETRO
 
 ## CAPO VI. - Disposizioni finali.
 
-##### Allegato
+### Allegato
 
 NORME PER L'APPLICAZIONE DELLA TABELLA A
 
@@ -562,7 +548,7 @@ Rc X (Ca3, m3 - Ca2, m2) oppure, usando la tabella, D dei montanti di una lira, 
 
 Parte di provvedimento in formato grafico
 
-##### Tabella A
+### Tabella A
 
 TABELLA A.
 
@@ -570,7 +556,7 @@ Pensioni teoriche riferite alla retribuzione annua pensionabile costante di una 
 
 Parte di provvedimento in formato grafico
 
-##### Tabella B
+### Tabella B
 
 TABELLA B.
 
@@ -578,7 +564,7 @@ Valori delle annualita' vitalizie a pagamenti mensili posticipati e complete cal
 
 Parte di provvedimento in formato grafico
 
-##### Tabella C
+### Tabella C
 
 TABELLA C.
 
@@ -590,7 +576,7 @@ NORME PER L'APPLICAZIONE DELLA TABELLA C
 
 Parte di provvedimento in formato grafico
 
-##### Tabella D
+### Tabella D
 
 TABELLA D.
 
@@ -598,7 +584,7 @@ Valori dei montanti di una lira calcolati ai tassi annui del 4,75 e del 5,50 per
 
 Parte di provvedimento in formato grafico
 
-##### Tabella E
+### Tabella E
 
 TABELLA E.
 

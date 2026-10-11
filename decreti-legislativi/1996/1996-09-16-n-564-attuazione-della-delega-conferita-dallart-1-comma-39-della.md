@@ -36,11 +36,9 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro del lavo
 
 Emana il seguente decreto legislativo:
 
-## Capo I - Disposizioni in materia
+## Capo I - Disposizioni in materia di contribuzione figurativa
 
-### di contribuzione figurativa
-
-#### Art. 1
+### Art. 1
 
 Periodi di malattia
 
@@ -58,11 +56,11 @@ Periodi di malattia
 
 6\. COMMA ABROGATO DAL D.LGS. 29 GIUGNO 1998, N. 278.
 
-#### Art. 2
+### Art. 2
 
 ((ARTICOLO ABROGATO DAL D.LGS. 26 MARZO 2001, N. 151))
 
-#### Art. 3
+### Art. 3
 
 Art. 31 della legge 20 maggio 1970, n. 300
 
@@ -124,17 +122,15 @@ AGGIORNAMENTO (9)
 
 Il D.L 31 dicembre 2020, n. 183, convertito con modificazioni dalla L. 26 febbraio 2021, n. 21, ha disposto (con l'art. 11, comma 1-bis) che "Per il solo anno 2019, i termini di cui all'articolo 3, comma 3, del decreto legislativo 16 settembre 1996, n. 564, e all'articolo 38, comma 3, della legge 23 dicembre 1999, n. 488, sono differiti al 31 dicembre 2020".
 
-#### Art. 4
+### Art. 4
 
 Disoccupazione involontaria
 
 1\. Restano ferme le vigenti disposizioni in materia di contribuzione figurativa per i casi di disoccupazione involontaria.
 
-## Capo II - Disposizioni in materia di copertura assicurativa per periodi non
+## Capo II - Disposizioni in materia di copertura assicurativa per periodi non coperti da contribuzione
 
-### coperti da contribuzione
-
-#### Art. 5
+### Art. 5
 
 Periodi di interruzione
 
@@ -150,7 +146,7 @@ o sospensione del rapporto di lavoro
 
 > La legge 18 febbraio 1983, n. 47 (Riordinamento della prosecuzione volontaria dell'assicurazione obbligatoria per l'invalidita', la vecchiaia ed i superstiti) e' pubblicata nella Gazzetta Ufficiale n. 55 del 25 febbraio 1983.
 
-#### Art. 6
+### Art. 6
 
 Periodi di formazione professionale, studio e ricerca
 
@@ -166,7 +162,7 @@ e di inserimento nel mercato del lavoro
 
 > \- Per il testo dell'art. 13 della legge n. 1338/1962 si veda in nota all'art. 2.
 
-#### Art. 7
+### Art. 7
 
 Periodi intercorrenti tra un rapporto di lavoro e l'altro
 
@@ -184,7 +180,7 @@ nel caso di lavori discontinui, stagionali, temporanei
 
 > \- La legge n. 47 del 18 febbraio 1983 e' pubblicata nella Gazzetta Ufficiale n. 55 del 25 febbraio 1983.
 
-#### Art. 8
+### Art. 8
 
 Periodi intercorrenti nel lavoro a tempo parziale di tipo verticale ((, orizzontale)) o ciclico
 

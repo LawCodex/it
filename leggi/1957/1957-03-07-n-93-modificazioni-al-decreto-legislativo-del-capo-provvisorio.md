@@ -26,7 +26,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 L'art. 2 del decreto legislativo del Capo provvisorio dello Stato 21 ottobre 1947, n. 1346, ratificato con legge 21 marzo 1953, n. 190, e' sostituito dal seguente:
 
@@ -50,7 +50,7 @@ Per familiari assistibili si intendono:
 
 4\) le sorelle e i fratelli maggiorenni permanentemente inabili al lavoro conviventi a carico dello iscritto".
 
-### Art. 2
+## Art. 2
 
 Dopo l'art. 2 del decreto legislativo del Capo provvisorio dello Stato 21 ottobre 1947, n. 1346, ratificato con legge 21 marzo 1953, n. 190, e' aggiunto il seguente art. 2-bis:
 
@@ -70,7 +70,7 @@ f) alla concessione, agli iscritti in attivita' di servizio, di prestiti a mezzo
 
 g) alla istituzione di altre eventuali forme di prestazioni di carattere assistenziale".
 
-### Art. 3
+## Art. 3
 
 L'art. 3 del decreto legislativo del Capo provvisorio dello Stato 21 ottobre 1947, n. 1346, ratificato con legge 21 marzo 1953, n. 190, e' sostituito dal seguente:
 
@@ -86,7 +86,7 @@ I contributi degli iscritti di cui alla lettera a) sono versati all'Ente diretta
 
 Per quanto riguarda invece il personale direttivo e ispettivo i contributi verranno trattenuti dagli Uffici provinciali del Tesoro e versati mensilmente da questi ultimi direttamente all'Ente".
 
-### Art. 4
+## Art. 4
 
 L'art. 4 del decreto legislativo del Capo provvisorio dello Stato 21 ottobre 1947, n. 1346, ratificato con legge 21 marzo 1953, n. 190, e' sostituito dal seguente:
 
@@ -100,7 +100,7 @@ Gli iscritti d'ufficio mantengono il diritto alle prestazioni di cui al preceden
 
 Gli insegnanti non di ruolo delle scuole elementari di Stato, gli insegnanti delle scuole elementari parificate nonche' le direttrici e le maestre titolari delle scuole materne di cui alla lettera c) del secondo comma dell'art. 2 possono essere iscritti all'Ente su loro domanda alle condizioni determinate dallo statuto".
 
-### Art. 5
+## Art. 5
 
 Il primo comma dell'art. 5 del decreto legislativo del Capo provvisorio dello Stato 21 ottobre 1947, numero 1346, ratificato con legge 21 marzo 1953, n. 190, e' sostituito dal seguente:
 
@@ -118,13 +118,13 @@ e) sei rappresentanti eletti dagli iscritti di ufficio all'Ente di cui alla lett
 
 f) un rappresentante eletto dagli iscritti d'ufficio all'Ente di cui alla lettera b) del precedente art 4 e scelto tra i direttori e gli ispettori delle scuole elementari in attivita' di servizio o a riposo".
 
-### Art. 6
+## Art. 6
 
 Il penultimo comma dell'art. 5 del decreto legislativo del Capo provvisorio dello Stato 21 ottobre 1947, numero 1346, ratificato con legge 21 marzo 1953, n. 190, e' sostituito dal seguente:
 
 "Con decreto del Ministro per la pubblica istruzione e' altresi' costituito presso l'Ente un Collegio di revisori dei conti composto di tre membri designati rispettivamente dal Ministro per la pubblica istruzione, da quello per il tesoro e dalla Corte dei conti e scelti tra funzionari in servizio o a riposo delle rispettive Amministrazioni".
 
-### Art. 7
+## Art. 7
 
 Il primo comma dell'art. 8 del decreto legislativo del Capo provvisorio dello Stato 21 ottobre 1947, numero 1316, ratificato con legge 21 marzo 1953, n. 190, e' sostituito dal seguente:
 
@@ -132,11 +132,11 @@ Il primo comma dell'art. 8 del decreto legislativo del Capo provvisorio dello St
 
 ## Norme transitorie.
 
-### Art. 8
+## Art. 8
 
 Il Consiglio di amministrazione costituito il 1° marzo 1954 dura in carica fino al 1° marzo 1958.
 
-### Art. 9
+## Art. 9
 
 Gli insegnanti elementari, i direttori didattici e gli ispettori scolastici in pensione alla data di entrata in vigore delle presenti norme, hanno diritto alle prestazioni a decorrere dalla data medesima.
 

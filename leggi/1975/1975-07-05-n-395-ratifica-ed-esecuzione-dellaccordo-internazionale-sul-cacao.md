@@ -25,21 +25,21 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare l'accordo internazionale sul cacao, adottato a Ginevra il 20 ottobre 1972.
 
-##### Art. 2
+#### Art. 2
 
 Piena ed intera esecuzione e' data all'accordo di cui all'articolo precedente a decorrere dalla sua entrata in vigore in conformita' all'articolo 67 dell'accordo stesso.
 
-##### Art. 3
+#### Art. 3
 
 E' autorizzata la spesa derivante dalla partecipazione italiana all'accordo di cui all'articolo 1.
 
 Le somme all'uopo necessarie saranno iscritte negli stati di previsione della spesa del Ministero degli affari esteri per gli esercizi finanziari interessati.
 
-##### Art. 4
+#### Art. 4
 
 All'onere derivante dall'attuazione della presente legge nell'anno 1975, valutato in lire 35 milioni, si provvede quanto a L. 17.500.000 a carico del fondo speciale di cui al capitolo 3523 dello stato di previsione della spesa del Ministero del tesoro per l'anno 1974 e quanto a L. 17.500.000 mediante riduzione del fondo speciale di cui al capitolo 6856 dello stato di previsione della spesa dello stesso Ministero per l'anno 1975.
 
@@ -57,13 +57,13 @@ Visto, il Guardasigilli: REALE
 
 ## Allegati
 
-##### Accord
+#### Accord
 
 ACCORD INTERNATIONAL DE 1972 SUR LE CACAO
 
 Parte di provvedimento in formato grafico
 
-## CAPITOLO I - OBIETTIVI
+### CAPITOLO I - OBIETTIVI
 
 TRADUZIONE NON UFFICIALE
 
@@ -71,7 +71,7 @@ Nota bene. - I testi facenti fede sono unicamente quelli indicati nell'accordo.
 
 ACCORDO INTERNAZIONALE SUL CACAO, 1972
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 Obiettivi
 
@@ -87,9 +87,9 @@ d) assicurare un sufficiente approvvigionamento a prezzi ragionevoli ed equi per
 
 e) facilitare l'aumento del consumo e, ove occorra e per quanto possibile, una regolazione della produzione cosi' da assicurare un equilibrio a lungo termine tra l'offerta e la domanda.
 
-## CAPITOLO II - DEFINIZIONI
+### CAPITOLO II - DEFINIZIONI
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Definizioni
 
@@ -133,9 +133,9 @@ r) un voto speciale indica i due terzi dei suffragi espressi dai membri esportat
 
 s) per entrata in vigore, bisogna intendere, salvo diversa precisazione, la data in cui il presente Accordo entra in vigore sia a titolo provvisorio che definitivo.
 
-## CAPITOLO III - MEMBRI
+### CAPITOLO III - MEMBRI
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 Membri dell'Organizzazione
 
@@ -143,7 +143,7 @@ Membri dell'Organizzazione
 
 2\. Se una Parte contraente, ivi compresi i territori di cui essa assicura attualmente e definitivamente le relazioni internazionali e ai quali il presente Accordo sia reso applicabile in virtu' del paragrafo 1 dell'articolo 70, si compone di uno o piu' elementi che, presi separatamente, costituirebbero un membro esportatore, e di uno o piu' elementi che, presi separatamente, costituirebbero un membro importatore, la Parte contraente dei detti territori possono essere membri congiuntamente o, se la Parte contraente ha fatto una notifica a tale scopo in base al paragrafo 2 dell'articolo 70, i territori che, presi separatamente costituirebbero un membro esportatore, possono allora divenire membri a titolo individuale sia isolatamente, che insieme o in gruppi, ed i territori che, presi separatamente, costituirebbero un membro esportatore possono divenire membri a titolo individuale, sia isolatamente che tutti insieme, o in gruppi.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Partecipazione di organizzazioni intergovernative
 
@@ -153,9 +153,9 @@ Partecipazione di organizzazioni intergovernative
 
 3\. Le disposizioni del paragrafo 1 dell'articolo 15 non sono applicabili alle dette organizzazioni intergovernative: tuttavia, tali organizzazioni possono partecipare alle discussioni del Comitato esecutivo sulle questioni rientranti nella loro competenza. In caso di voto su questioni rientranti nella loro competenza, i voti di cui sono autorizzati a disporre gli Stati membri in seno al Comitato esecutivo sono utilizzati in blocco da uno qualsiasi di tali Stati membri.
 
-## CAPITOLO IV - ORGANIZZAZIONE E AMMINISTRAZIONE
+### CAPITOLO IV - ORGANIZZAZIONE E AMMINISTRAZIONE
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 Creazione, sede e struttura dell'Organizzazione internazionale del cacao
 
@@ -169,7 +169,7 @@ b) del direttore esecutivo e del personale.
 
 3\. Il Consiglio decidera' nel corso della sua prima sessione circa il luogo della sede dell'Organizzazione.
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 Composizione del Consiglio internazionale del cacao
 
@@ -177,7 +177,7 @@ Composizione del Consiglio internazionale del cacao
 
 2\. Ogni membro e' rappresentato al Consiglio da un rappresentante e, ove lo desideri, da uno o piu' membri supplenti. Ogni membro puo' inoltre aggiungere al proprio rappresentante o ai suoi supplenti uno o piu' consiglieri.
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 Poteri e funzioni del Consiglio
 
@@ -189,7 +189,7 @@ Poteri e funzioni del Consiglio
 
 4\. Il Consiglio pubblica un rapporto annuo. Tale rapporto comporta l'esame annuo di cui all'articolo 58. Il Consiglio pubblica anche tutte le altre informazioni che ritiene opportune.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 Presidente e Vice Presidente del Consiglio
 
@@ -201,7 +201,7 @@ Presidente e Vice Presidente del Consiglio
 
 4\. Ne' il Presidente ne' alcun altro membro dell'Ufficio che presieda una riunione del Consiglio puo' prender parte alle votazioni. Il suo supplente puo' esercitare i diritti di voto del membro che rappresenta.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 Sessioni del Consiglio
 
@@ -221,7 +221,7 @@ c) dal Comitato esecutivo.
 
 Se, su invito di un membro, il Consiglio si riunisce in luogo diverso dalla sede dell'Organizzazione, tale membro assume gli oneri supplementari che ne derivano.
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 Voti
 
@@ -237,7 +237,7 @@ Voti
 
 6\. Non possono esserci frazioni di voti.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 Procedura di voto del Consiglio
 
@@ -247,7 +247,7 @@ Procedura di voto del Consiglio
 
 3\. I membri esportatori che producono soltanto del cacao fine ("fine" o "flavour") non prendono parte alle votazioni sulle questioni relative alla determinazione e alla regolazione di contingenti, ne' a quelle attinenti all'amministrazione e al funzionamento dello stock regolatore.
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 Decisioni del Consiglio
 
@@ -267,7 +267,7 @@ d) se il Consiglio non rimette ai voti la proposta, essa e' ritenuta respinta.
 
 4\. I membri si impegnano a considerarsi vincolati da tutte le decisioni che il Consiglio prende in applicazione delle disposizioni del presente Accordo.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 Cooperazione con altre organizzazioni
 
@@ -277,13 +277,13 @@ Cooperazione con altre organizzazioni
 
 3\. Il Consiglio puo' inoltre adottare tutte le disposizioni del caso per mantenere contatti effettivi con le organizzazioni internazionali dei produttori, dei negozianti e dei fabbricanti di cacao.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 Ammissione di osservatori
 
 1\. Il Consiglio puo' invitare anche chi non sia membro purche' sia pero' membro dell'Organizzazione delle Nazioni Unite, o delle sue agenzie specializzate o membro dell'Agenzia internazionale dell'energia atomica, ad assistere ad una qualsiasi delle sue riunioni, in qualita' di osservatore.
 
-##### ARTICOLO 15
+#### ARTICOLO 15
 
 Composizione del Comitato esecutivo
 
@@ -295,7 +295,7 @@ Composizione del Comitato esecutivo
 
 4\. Il Comitato esecutivo si riunisce presso la sede dell'Organizzazione, a meno che non decida altrimenti con voto speciale. Se, su invito di un membro, il Comitato esecutivo si riunisce in un luogo diverso dalla sede dell'Organizzazione, tale membro si assume le spese supplementari che ne risultano.
 
-##### ARTICOLO 16
+#### ARTICOLO 16
 
 Elezione del Comitato esecutivo
 
@@ -305,7 +305,7 @@ Elezione del Comitato esecutivo
 
 3\. I candidati che ottengono il maggior numero di voti vengono eletti.
 
-##### ARTICOLO 17
+#### ARTICOLO 17
 
 Competenza del Comitato esecutivo
 
@@ -345,7 +345,7 @@ n) raccomandazione di emendamenti ai membri in conformita' dell'articolo 75.
 
 4\. Il Consiglio puo' in ogni momento, con voto a maggioranza ripartita semplice, revocare ogni delega di poteri al Comitato esecutivo.
 
-##### ARTICOLO 18
+#### ARTICOLO 18
 
 Procedura di voto e decisioni del Comitato esecutivo
 
@@ -359,7 +359,7 @@ Procedura di voto e decisioni del Comitato esecutivo
 
 5\. Ogni membro ha diritto di ricorrere al Consiglio, alle condizioni prescritte dal Consiglio stesso nel suo regolamento interno, contro ogni decisione del Comitato esecutivo.
 
-##### ARTICOLO 19
+#### ARTICOLO 19
 
 Quorum delle riunioni del Consiglio e del Comitato esecutivo
 
@@ -373,7 +373,7 @@ Quorum delle riunioni del Consiglio e del Comitato esecutivo
 
 5\. Il quorum richiesto per ogni riunione del Comitato esecutivo e' fissato dal Consiglio nel regolamento interno del Comitato esecutivo.
 
-##### ARTICOLO 20
+#### ARTICOLO 20
 
 Il personale dell'Organizzazione
 
@@ -393,9 +393,9 @@ Il personale dell'Organizzazione
 
 8\. Nell'adempimento dei loro doveri, il Direttore esecutivo, il Direttore dello stock regolatore e gli altri membri del personale non sollecitano ne' accettano istruzioni da alcun membro ne' da alcuna autorita' estranea all'Organizzazione. Essi si astengono dal compiere ogni atto che sia incompatibile con la loro posizione di funzionari internazionali responsabili soltanto nei confronti dell'Organizzazione. Ogni membro si impegna a rispettare il carattere esclusivamente internazionale delle funzioni del Direttore esecutivo, del Direttore dello stock regolatore e del personale, e a non cercare di influenzarli nell'esercizio delle loro funzioni.
 
-## CAPITOLO V - PRIVILEGI E IMMUNITA'
+### CAPITOLO V - PRIVILEGI E IMMUNITA'
 
-##### ARTICOLO 21
+#### ARTICOLO 21
 
 Privilegi e immunita'
 
@@ -419,9 +419,9 @@ b) gli averi, i redditi e gli altri beni dell'Organizzazione.
 
 5\. Dopo che il Consiglio ha approvato l'accordo di cui al paragrafo 2, l'Organizzazione puo' concludere con uno o piu' altri membri accordi che devono essere approvati dal Consiglio, riguardanti i privilegi e le immunita' che possono essere necessari alla corretta applicazione del presente Accordo.
 
-## CAPITOLO VI - DISPOSIZIONI FINANZIARIE
+### CAPITOLO VI - DISPOSIZIONI FINANZIARIE
 
-##### ARTICOLO 22
+#### ARTICOLO 22
 
 Disposizioni finanziarie
 
@@ -435,7 +435,7 @@ Disposizioni finanziarie
 
 5\. Le spese delle delegazioni presso il Consiglio, presso il Comitato esecutivo e presso ogni altro comitato del Consiglio o del Comitato esecutivo sono a carico dei membri interessati.
 
-##### ARTICOLO 23
+#### ARTICOLO 23
 
 Approvazione del bilancio amministrativo e determinazione dei contributi
 
@@ -449,7 +449,7 @@ Approvazione del bilancio amministrativo e determinazione dei contributi
 
 Negli altri casi, il primo bilancio amministrativo comprende tanto il periodo iniziale che il primo esercizio completo.
 
-##### ARTICOLO 24
+#### ARTICOLO 24
 
 Versamento dei contributi al bilancio amministrativo
 
@@ -459,7 +459,7 @@ Versamento dei contributi al bilancio amministrativo
 
 3\. A meno che il Consiglio non lo decida con voto speciale, un membro i cui diritti di voto sono stati sospesi conformemente al paragrafo 2 non puo' essere privato di alcun altro suo diritto ne' dispensato da alcuno degli obblighi che gli impone il presente Accordo. Esso resta tenuto a versare il proprio contributo e a far fronte a tutti gli altri obblighi finanziari, derivanti dal presente Accordo.
 
-##### ARTICOLO 25
+#### ARTICOLO 25
 
 Verifica e pubblicazione dei conti
 
@@ -469,11 +469,9 @@ Verifica e pubblicazione dei conti
 
 3\. Viene pubblicato un sunto dei conti e del bilancio cosi' verificati.
 
-## CAPITOLO VII - PREZZI, CONTINGENTI, STOCK REGOLATORE E
+### CAPITOLO VII - PREZZI, CONTINGENTI, STOCK REGOLATORE E DESTINAZIONE AD USI NON TRADIZIONALI
 
-### DESTINAZIONE AD USI - NON TRADIZIONALI
-
-##### ARTICOLO 26
+#### ARTICOLO 26
 
 Funzionamento del presente Accordo
 
@@ -481,7 +479,7 @@ Funzionamento del presente Accordo
 
 2\. I membri conducono le loro politiche commerciali in modo da assicurare la realizzazione degli obiettivi del presente Accordo.
 
-##### ARTICOLO 27
+#### ARTICOLO 27
 
 Consultazione e cooperazione con l'industria del cacao
 
@@ -491,7 +489,7 @@ Consultazione e cooperazione con l'industria del cacao
 
 3\. I membri non intervengono nell'arbitraggio di controversie commerciali tra acquirenti e venditori di cacao quando dai contratti non possono essere eseguiti a motivo di regolamenti fissati ai fini dell'applicazione del presente Accordo, e non pongono ostacoli alla conclusione dei procedimenti arbitrali. Il fatto che i membri siano tenuti ad uniformarsi alle disposizioni del presente Accordo non viene accettato quale motivo di non esecuzione di un contratto o come difesa in tali casi.
 
-##### ARTICOLO 28
+#### ARTICOLO 28
 
 Prezzo quotidiano e prezzo indicativo
 
@@ -503,7 +501,7 @@ Prezzo quotidiano e prezzo indicativo
 
 4\. Il prezzo indicativo e' la media dei prezzi quotidiani stabilita su di un periodo di 15 giorni di mercato consecutivi, o, ai fini del paragrafo 4 dell'articolo 34, per un periodo di 22 giorni di mercato consecutivi. Quando si fa riferimento nel presente Accordo al prezzo indicativo uguale, inferiore o superiore ad una cifra qualsiasi, si deve intendere che la media dei prezzi quotidiani per il periodo richiesto di giorni di mercato consecutivi e' stato uguale, inferiore o superiore a tale cifra; il periodo richiesto di giorni di mercato consecutivi comincia il primo giorno in cui il prezzo quotidiano e' uguale, inferiore o superiore a tale cifra.
 
-##### ARTICOLO 29
+#### ARTICOLO 29
 
 Prezzi
 
@@ -511,7 +509,7 @@ Prezzi
 
 2\. Prima della fine del secondo anno di contingentamento, il Consiglio rivede tali prezzi e puo', con voto speciale, riesaminarli, restando inteso tuttavia che il margine che separa il prezzo minimo dal prezzo massimo resta lo stesso. Le disposizioni dell'articolo 75 non sono applicabili alla revisione dei prezzi operata conformemente al presente paragrafo.
 
-##### ARTICOLO 30
+#### ARTICOLO 30
 
 Contingenti di base
 
@@ -527,7 +525,7 @@ c) nel caso in cui, per ogni membro esportatore, la cifra piu' alta di produzion
 
 3\. Il Consiglio riesamina le liste degli allegati A e B se lo richiede l'evoluzione della produzione di un membro esportatore.
 
-##### ARTICOLO 31
+#### ARTICOLO 31
 
 Contingenti annui di esportazione
 
@@ -541,7 +539,7 @@ Il Consiglio fissa, in ogni caso, i contingenti annui di esportazione almeno 30 
 
 4\. Su presentazione di prove che ritenga soddisfacenti il Consiglio autorizza ogni membro esportatore che produca meno di 10.000 tonnellate nel corso di un anno di contingentamento qualsiasi ad esportare una quantita' che non superi la produzione effettiva di cui dispone per l'esportazione.
 
-##### ARTICOLO 32
+#### ARTICOLO 32
 
 Campo dei contingenti di esportazione
 
@@ -567,7 +565,7 @@ Il Consiglio puo' decidere, ove occorra, che altri prodotti contenenti cacao son
 
 5\. Se il Consiglio si convince che del cacao e' stato esportato da membri esportatori per scopi umanitari o per altri fini non commerciali, tale cacao non viene calcolato nei contingenti di esportazione di tali membri.
 
-##### ARTICOLO 33
+#### ARTICOLO 33
 
 Cacao fine ("fine" o "flavour")
 
@@ -583,7 +581,7 @@ Le disposizioni del presente Accordo relative ai contingenti di esportazione ed 
 
 5\. Ogni membro esportatore indicato nell'allegato C si impegna ad esigere la presentazione di un documento di controllo approvato dal Consiglio prima di autorizzare l'esportazione di cacao fine ("fine" o "flavour") dal proprio territorio. Ogni membro importatore si impegna ad esigere la presentazione di un documento di controllo approvato dal Consiglio prima di autorizzare l'importazione di cacao fine ("fine" o "flavour") sul proprio territorio.
 
-##### ARTICOLO 34
+#### ARTICOLO 34
 
 Funzionamento e regolazione dei contingenti annui di esportazione
 
@@ -613,7 +611,7 @@ d) quando il prezzo indicativo e' superiore al prezzo minimo + 4 cents statunite
 
 9\. Durante gli ultimi 45 giorni dell'anno di contingentamento, non vengono istituiti contingenti di esportazione e non si effettuano riduzioni dei contingenti di esportazione in vigore, a meno che il Consiglio, con voto speciale, non decida altrimenti.
 
-##### ARTICOLO 35
+#### ARTICOLO 35
 
 Rispetto dei contingenti di esportazione
 
@@ -639,7 +637,7 @@ Esso stabilisce nello stesso tempo le norme che regolano l'applicazione e la sop
 
 10\. I membri si impegnano a comunicare immediatamente al Consiglio ogni informazione che essi potrebbero raccogliere circa ogni infrazione al presente Accordo o ad ogni norma o regolamento fissati dal Consiglio.
 
-##### ARTICOLO 36
+#### ARTICOLO 36
 
 Ridistribuzione delle deficienze di produzione
 
@@ -647,7 +645,7 @@ Ridistribuzione delle deficienze di produzione
 
 2\. Per i membri esportatori che, a motivo della data di raccolta della loro principale cultura, non sono in grado di notificare al Consiglio prima della fine del mese di maggio le eccedenze o i deficits previsti, il termine di notifica di tali eccedenze o di tali deficits viene prorogato sino a meta' luglio. La lista dei paesi esportatori ammessi a beneficiare di detta proroga figura nell'allegato E.
 
-##### ARTICOLO 37
+#### ARTICOLO 37
 
 Istituzione e finanziamento dello stock regolatore
 
@@ -669,7 +667,7 @@ o il rimborso delle somme prese in prestito dal Consiglio, e
 
 b) le altre spese quali quelle di trasporto e di assicurazione a partire dal punto di consegna f.o.b. sino al luogo di immagazzinamento dello stock regolatore, l'immagazzinamento, ivi comprese la fumigazione, le spese di manutenzione, di assicurazione, di gestione e di ispezione e tutte le spese sostenute per il rinnovo delle partite di semi di cacao al fine di assicurarne la conservazione e di mantenerne il valore, sono coperte dalla fonte comune di reddito proveniente da contributi o da prestiti contratti ai sensi del paragrafo 5 o dal prodotto di rivendite effettuate in conformita' del paragrafo 5 dell'articolo 39.
 
-##### ARTICOLO 38
+#### ARTICOLO 38
 
 Contributi al finanziamento dello stock regolatore
 
@@ -681,7 +679,7 @@ Contributi al finanziamento dello stock regolatore
 
 4\. Nessuna disposizione del presente articolo pregiudica il diritto di ogni acquirente e di ogni venditore a fissare di comune accordo le condizioni di pagamento delle consegne di cacao.
 
-##### ARTICOLO 39
+#### ARTICOLO 39
 
 Acquisti di stock regolatore
 
@@ -717,7 +715,7 @@ b) Se il Consiglio e' nell'impossibilita' di trovare un'altra valida soluzione, 
 
 10\. Il Direttore dello stock regolatore tiene degli appositi registri che gli permettano di adempiere le funzioni conferitegli dal presente Accordo.
 
-##### ARTICOLO 40
+#### ARTICOLO 40
 
 Vendite dello stock regolatore tendenti a difendere il prezzo massimo
 
@@ -741,7 +739,7 @@ c) quando il prezzo indicativo sia uguale o superiore al prezzo massimo, il Dire
 
 3\. Quando procede a delle vendite in conformita' del paragrafo 1, il Direttore dello stock regolatore, con la riserva che il prezzo proposto sia accettabile, concede il diritto di prelazione agli acquirenti di paesi membri prima di accettare le offerte di acquirenti di paesi non membri.
 
-##### ARTICOLO 41
+#### ARTICOLO 41
 
 Ritiro di semi di cacao dallo stock regolatore
 
@@ -749,7 +747,7 @@ Ritiro di semi di cacao dallo stock regolatore
 
 2\. Il Consiglio determina le norme che devono regolare il ritiro dei semi di cacao dallo stock regolatore in conformita' del paragrafo 1.
 
-##### ARTICOLO 42
+#### ARTICOLO 42
 
 Modifiche dei tassi di cambio delle monete
 
@@ -757,7 +755,7 @@ Il Direttore esecutivo indice una sessione straordinaria del Consiglio entro un 
 
 In particolare, essi possono, previa consultazione con il Presidente del Consiglio, limitare temporaneamente o sospendere le operazioni dello stock regolatore. Dopo avere esaminato la situazione, in particolare le misure provvisorie che il Direttore esecutivo e il Direttore dello stock regolatore avessero adottato, nonche' le possibili conseguenze di una modifica della parita' di una moneta o delle variazioni dei tassi di cambio summenzionati sull'applicazione effettiva del presente Accordo, il Consiglio puo', con voto speciale, adottare ogni misura correttiva necessaria.
 
-##### ARTICOLO 43
+#### ARTICOLO 43
 
 Liquidazione dello stock regolatore
 
@@ -777,13 +775,13 @@ iii) ogni versamento complementare che resti da effettuare in applicazione dell'
 
 c) Quando sono stati effettuati i pagamenti di cui al sotto paragrafo b), l'eventuale saldo viene versato ai membri esportatori interessati, proporzionalmente alle esportazioni di ciascuno di loro sulle quali e' stato percepito il contributo.
 
-##### ARTICOLO 44
+#### ARTICOLO 44
 
 Garanzie di approvvigionamento
 
 I membri esportatori si impegnano a seguire, nel quadro del presente Accordo, delle politiche di vendita e di esportazione che non abbiano per effetto di ridurre artificialmente l'offerta di cacao e che assicurino il regolare approvvigionamento di cacao degli importatori dei paesi membri. Quando pongono in vendita del cacao quando il prezzo e' superiore al prezzo massimo, i membri esportatori danno la preferenza agli importatori dei paesi membri nei riguardi degli importatori dei paesi non membri.
 
-##### ARTICOLO 45
+#### ARTICOLO 45
 
 Destinazione ad usi non tradizionali
 
@@ -793,13 +791,11 @@ Destinazione ad usi non tradizionali
 
 3\. Ogni volta che un caso di destinazione ad usi non tradizionali, incompatibile con le disposizioni del presente Accordo, viene sottoposto all'attenzione del Consiglio, ivi compreso ogni caso di reimmissione nel mercato di cacao destinato ad usi non tradizionali, il Consiglio decide al piu' presto sulle misure da adottare per porre rimedio alla situazione.
 
-## CAPITOLO VIII - AVVISO DI IMPORTAZIONI
+### CAPITOLO VIII - AVVISO DI IMPORTAZIONI E DI ESPORTAZIONI, REGISTRAZIONE DELLE OPERAZIONI A
 
-### E DI ESPORTAZIONI, - REGISTRAZIONE DELLE OPERAZIONI A
+## TITOLO DI CONTINGENTI - E MISURE DI CONTROLLO
 
-#### TITOLO DI CONTINGENTI - E MISURE DI CONTROLLO
-
-##### ARTICOLO 46
+#### ARTICOLO 46
 
 Avviso di esportazioni e registrazione delle operazioni a titolo di contingenti
 
@@ -809,7 +805,7 @@ Avviso di esportazioni e registrazione delle operazioni a titolo di contingenti
 
 3\. Le esportazioni non imputabili ai contingenti sono registrate separatamente.
 
-##### ARTICOLO 47
+#### ARTICOLO 47
 
 Avviso di importazioni e di esportazioni
 
@@ -819,7 +815,7 @@ Avviso di importazioni e di esportazioni
 
 3\. Le importazioni che, in conformita' del presente Accordo, non sono imputabili al contingente di esportazione, sono registrate separatamente.
 
-##### ARTICOLO 48
+#### ARTICOLO 48
 
 Misure di controllo
 
@@ -833,9 +829,9 @@ Misure di controllo
 
 5\. Per il cacao fine ("fine" o "flavour"), il Consiglio fissa le norme che ritiene necessarie per quanto attiene alla semplificazione della procedura relativa ai documenti di controllo approvati dal Consiglio, tenendo conto di tutti i dati pertinenti.
 
-## CAPITOLO IX - PRODUZIONE E STOCKS
+### CAPITOLO IX - PRODUZIONE E STOCKS
 
-##### ARTICOLO 49
+#### ARTICOLO 49
 
 Produzione e stocks
 
@@ -847,9 +843,9 @@ Produzione e stocks
 
 4\. Nel corso della sua prima sessione, il Consiglio adotta delle disposizioni allo scopo di elaborare un programma tendente a riunire le informazioni necessarie per determinare, con criteri scientifici, la capacita' mondiale di produzione, attuale e potenziale, nonche' il consumo mondiale, attuale e potenziale. I membri facilitano l'esecuzione di tale programma.
 
-## CAPITOLO X - AUMENTO DEL CONSUMO
+### CAPITOLO X - AUMENTO DEL CONSUMO
 
-##### ARTICOLO 50
+#### ARTICOLO 50
 
 Ostacoli all'aumento del consumo
 
@@ -863,7 +859,7 @@ Ostacoli all'aumento del consumo
 
 5\. I membri informano il Consiglio di tutte le misure adottate al fine di attuare le disposizioni del presente articolo.
 
-##### ARTICOLO 51
+#### ARTICOLO 51
 
 Propaganda a favore del consumo
 
@@ -873,7 +869,7 @@ Propaganda a favore del consumo
 
 3\. Prima di intraprendere una campagna di propaganda sul territorio di un membro, il comitato cerca di ottenere il consenso di tale membro.
 
-##### ARTICOLO 52
+#### ARTICOLO 52
 
 Prodotti sostitutivi del cacao
 
@@ -885,9 +881,9 @@ Prodotti sostitutivi del cacao
 
 4\. Il Direttore esecutivo presenta al Consiglio un rapporto annuo sul modo in cui le disposizioni del presente articolo vengono rispettate.
 
-## CAPITOLO XI - CACAO TRASFORMATO
+### CAPITOLO XI - CACAO TRASFORMATO
 
-##### ARTICOLO 53
+#### ARTICOLO 53
 
 Cacao trasformato
 
@@ -895,9 +891,9 @@ Cacao trasformato
 
 2\. Ove un membro ritenga che i propri interessi in uno qualsiasi di tali campi possano essere lesi, puo' intraprendere delle consultazioni con l'altro membro interessato, al fine di giungere ad una intesa soddisfacente per le parti in causa, in mancanza della quale il membro puo' riferirne al Consiglio, che presta i suoi buoni uffici in materia allo scopo di giungere a tale intesa.
 
-## CAPITOLO XII - RELAZIONI TRA MEMBRI E NON-MEMBRI
+### CAPITOLO XII - RELAZIONI TRA MEMBRI E NON-MEMBRI
 
-##### ARTICOLO 54
+#### ARTICOLO 54
 
 Limitazione delle importazioni in provenienza da non-membri
 
@@ -921,7 +917,7 @@ b) a ridurre a meta' il quantitativo fissato nel sottoparagrafo quando il prezzo
 
 8\. Gli obblighi enunciati nel presente articolo non pregiudicano gli obblighi contrastanti a carattere bilaterale o multilaterale che i membri avessero contratto nei confronti dei non-membri prima dell'entrata in vigore del presente Accordo, a condizione che ogni membro che abbia contratto tali obblighi contrastanti li assolva in modo da attenuare, per quanto possibile, il conflitto fra i detti obblighi e quelli enunciati nel presente articolo, che adotti il piu' rapidamente possibile delle misure per conciliare i detti obblighi con le disposizioni del presente articolo e che esponga al Consiglio, dettagliatamente, la natura dei detti obblighi e le misure che ha adottato per attenuare o eliminare il conflitto.
 
-##### ARTICOLO 55
+#### ARTICOLO 55
 
 Operazioni commerciali con non-membri
 
@@ -933,9 +929,9 @@ Operazioni commerciali con non-membri
 
 4\. Fatta salva l'applicazione delle disposizioni dell'articolo 54, ogni membro che abbia motivo di ritenere che un altro membro ha mancato ad un obbligo di cui al paragrafo 1 o al paragrafo 2 puo' informarne il Direttore esecutivo e chiedere delle consultazioni in applicazione dell'articolo 60 o riferirne al Consiglio in conformita' dell'articolo 62.
 
-## CAPITOLO XIII - INFORMAZIONI E STUDI
+### CAPITOLO XIII - INFORMAZIONI E STUDI
 
-##### ARTICOLO 56
+#### ARTICOLO 56
 
 Informazioni
 
@@ -949,23 +945,21 @@ b) nella misura in cui essa le ritiene opportune, delle informazioni tecniche su
 
 3\. Se un membro non fornisce o gli e' difficile fornire entro un termine ragionevole le informazioni, le statistiche e gli altri dati di cui il Consiglio ha bisogno per il buon andamento dell'Organizzazione, il Consiglio puo' pretendere dal membro in questione che ne spieghi le ragioni. Ove si riveli necessaria un'assistenza tecnica a tale riguardo, il Consiglio puo' adottare le misure che si impongono.
 
-##### ARTICOLO 57
+#### ARTICOLO 57
 
 Studi
 
 Il Consiglio, nella misura che ritiene necessaria, incoraggia gli studi sulle condizioni economiche della produzione e della distribuzione del cacao, ivi compresi le tendenze e i progetti, l'incidenza delle misure adottate dal Governo nei paesi esportatori e nei paesi importatori circa la produzione e il consumo del cacao, sulla possibilita' di aumentare il consumo del cacao negli usi tradizionali ed eventualmente mediante nuovi usi, nonche' sugli effetti dell'applicazione del presente Accordo sulle esportazioni e le importazioni di cacao in particolare per quanto attiene alle modalita' di scambio, e puo' sottoporre ai membri delle raccomandazioni sui problemi da studiare. Per incoraggiare tali studi, il Consiglio puo' cooperare con delle organizzazioni internazionali.
 
-##### ARTICOLO 58
+#### ARTICOLO 58
 
 Esame annuo
 
 Appena possibile, dopo la fine di ogni anno di contingentamento, il Consiglio esamina il funzionamento del presente Accordo e il modo con cui i membri osservano i principi del detto Accordo e ne servono gli scopi. Esso puo' allora inviare ai membri delle raccomandazioni riguardanti i mezzi per migliorare il funzionamento del presente Accordo.
 
-## CAPITOLO XIV - DISPENSA DAGLI OBBLIGHI
+### CAPITOLO XIV - DISPENSA DAGLI OBBLIGHI IN CIRCOSTANZE ECCEZIONALI
 
-### IN CIRCOSTANZE ECCEZIONALI
-
-##### ARTICOLO 59
+#### ARTICOLO 59
 
 Dispensa dagli obblighi in circostanze eccezionali
 
@@ -981,15 +975,15 @@ b) un contingente di esportazione o un'altra limitazione imposta alle esportazio
 
 c) l'obbligo di pretendere il pagamento di ogni onere o contributo di cui all'articolo 37.
 
-## CAPITOLO XV - CONSULTAZIONI, CONTROVERSIE E RECLAMI
+### CAPITOLO XV - CONSULTAZIONI, CONTROVERSIE E RECLAMI
 
-##### ARTICOLO 60
+#### ARTICOLO 60
 
 Consultazioni
 
 Ogni membro accoglie favorevolmente le rimostranze che un altro membro puo' fargli riguardo all'interpretazione o all'applicazione del presente Accordo, e gli offre adeguate possibilita' di consultazioni. Nel corso di tali consultazioni, a richiesta di una delle parti e con il consenso dell'altra, il Direttore esecutivo fissa un adeguato procedimento di conciliazione. Le spese di tale procedimento non sono sostenute dal bilancio dell'Organizzazione. Se tale procedimento giunge ad una soluzione, il Direttore esecutivo ne viene informato. Ove non intervenga alcuna soluzione, la questione puo', a richiesta di una delle parti, essere sottoposta al Consiglio in conformita' dell'articolo 61.
 
-##### ARTICOLO 61
+#### ARTICOLO 61
 
 Controversie
 
@@ -1013,7 +1007,7 @@ d) le spese del gruppo consultivo speciale sono a carico dell'Organizzazione.
 
 4\. Il parere motivato del gruppo consultivo speciale e' sottoposto al Consiglio, che definisce la controversia dopo aver preso in considerazione tutti i dati pertinenti.
 
-##### ARTICOLO 62
+#### ARTICOLO 62
 
 Azione del Consiglio in caso di reclamo
 
@@ -1029,15 +1023,15 @@ b) se lo ritiene necessario, sospendere altri diritti di tale membro, in partico
 
 4\. Un membro, i cui diritti di voto siano stati sospesi in conformita' del paragrafo 3 resta tenuto all'adempimento dei suoi obblighi finanziari nonche' degli altri obblighi previsti dal presente Accordo.
 
-## CAPITOLO XVI - DISPOSIZIONI FINALI
+### CAPITOLO XVI - DISPOSIZIONI FINALI
 
-##### ARTICOLO 63
+#### ARTICOLO 63
 
 Firma
 
 Il presente Accordo sara' aperto alla firma di ogni Governo invitato alla Conferenza delle Nazioni Unite sul cacao, 1972, presso la sede dell'Organizzazione delle Nazioni Unite, a partire dal 15 novembre 1972 sino al 15 gennaio 1973.
 
-##### ARTICOLO 64
+#### ARTICOLO 64
 
 Ratifica, accettazione, approvazione
 
@@ -1049,7 +1043,7 @@ Ratifica, accettazione, approvazione
 
 4\. Ogni Governo che depositi uno strumento di ratifica, di accettazione o di approvazione, indica, al momento del deposito se e' un membro esportatore o un membro importatore.
 
-##### ARTICOLO 65
+#### ARTICOLO 65
 
 Notifica
 
@@ -1059,7 +1053,7 @@ Notifica
 
 3\. Un Governo che faccia una notifica conformemente al paragrafo 1 o al paragrafo 2 ha lo status di osservatore a partire dalla data di ricevimento della sua notifica sino a quando non abbia indicato che applichera' il presente Accordo a titolo provvisorio conformemente all'articolo 66 o sino allo spirare del termine indicato nella notifica che ha fatto in conformita' del paragrafo 1 o del paragrafo 2. Se il Governo non e' in grado di ratificare, di accettare o di approvare il presente Accordo o di aderirvi entro il termine specificato, o di dare l'indicazione prevista dall'articolo 66, il Consiglio puo', tenuto conto delle disposizioni adottate dal Governo interessato conformemente al paragrafo 1 o al paragrafo 2, prorogare lo status di osservatore di tale Governo per un nuovo termine specificato.
 
-##### ARTICOLO 66
+#### ARTICOLO 66
 
 Indicazione di applicazione a titolo provvisorio
 
@@ -1073,7 +1067,7 @@ L'indicazione, da parte di un Governo firmatario, della propria intenzione di ap
 
 Tuttavia, se il Consiglio acquisisce la convinzione che il Governo interessato non ha depositato il proprio strumento a motivo di difficolta' che ha incontrato per portare a termine la propria procedura costituzionale, puo' prorogare lo status di membro a titolo provvisorio di tale Governo per un nuovo termine specificato.
 
-##### ARTICOLO 67
+#### ARTICOLO 67
 
 Entrata in vigore
 
@@ -1091,7 +1085,7 @@ Durante il periodo in cui il presente Accordo sara' in vigore a titolo provvisor
 
 4\. Il Segretario generale dell'Organizzazione delle Nazioni Unite indira' la prima sessione del Consiglio, che si terra' appena possibile, ma non oltre 90 giorni dopo l'entrata in vigore del presente Accordo a titolo definitivo o provvisorio.
 
-##### ARTICOLO 68
+#### ARTICOLO 68
 
 Adesione
 
@@ -1103,13 +1097,13 @@ Adesione
 
 4\. Ogni Governo che depositi uno strumento di adesione indica, al momento del deposito, se aderisce alla Organizzazione in qualita' di membro esportatore o di membro importatore.
 
-##### ARTICOLO 69
+#### ARTICOLO 69
 
 Riserve
 
 Nessuna disposizione del presente Accordo puo' fare oggetto di riserve.
 
-##### ARTICOLO 70
+#### ARTICOLO 70
 
 Applicazione territoriale
 
@@ -1123,13 +1117,13 @@ Se il territorio che diviene membro a titolo individuale e' un membro esportator
 
 4\. Quando un territorio al quale e' stato reso applicabile il presente Accordo in base al paragrafo 1 diviene successivamente indipendente, il Governo di tale territorio puo', nei 90 giorni che seguono il raggiungimento dell'indipendenza, dichiarare mediante notifica indirizzata al Segretario generale dell'Organizzazione delle Nazioni Unite, di avere assunto i diritti e gli obblighi di una Parte contraente del presente Accordo. Esso e' parte contraente del presente Accordo a partire dalla data di tale notifica. Se la detta Parte e' un membro esportatore e non figura ne' nell'allegato A ne' nell'allegato C, il Consiglio le assegna, ove occorra, un contingente di base che dovrebbe figurare nell'allegato A. Se la Parte in questione figura nell'allegato A, il contingente di base specificato nel detto allegato costituisce il contingente di base di detta Parte.
 
-##### ARTICOLO 71
+#### ARTICOLO 71
 
 Ritiro volontario
 
 Ogni membro puo', in ogni momento successivo all'entrata in vigore del presente Accordo, ritirarsi dal presente Accordo notificando per iscritto il proprio ritiro al Segretario generale dell'Organizzazione delle Nazioni Unite. Il ritiro ha efficacia 90 giorni dopo il ricevimento della notifica da parte del Segretario generale dell'Organizzazione delle Nazioni Unite.
 
-##### ARTICOLO 72
+#### ARTICOLO 72
 
 Esclusione
 
@@ -1137,7 +1131,7 @@ Se il Consiglio conclude, in base alle disposizioni del paragrafo 3 dell'Articol
 
 Il Consiglio notifica immediatamente tale esclusione al Segretario generale dell'Organizzazione delle Nazioni Unite. Novanta giorni dopo la data della decisione del Consiglio, il detto membro cessa di essere membro dell'Organizzazione internazionale del cacao e, ove sia Parte contraente, di essere parte del presente Accordo.
 
-##### ARTICOLO 73
+#### ARTICOLO 73
 
 Lquidazione dei conti in caso di ritiro o di esclusione
 
@@ -1145,7 +1139,7 @@ Lquidazione dei conti in caso di ritiro o di esclusione
 
 2\. Un membro che si sia ritirato dal presente Accordo, che non sia stato escluso o che abbia cessato in ogni altro modo di parteciparvi, non ha diritto ad alcuna parte del ricavato della liquidazione ne' degli altri averi dell'Organizzazione; non puo' neppure essergli imputata alcuna parte dell'eventuale deficit dell'Organizzazione quando il presente Accordo prende fine.
 
-##### ARTICOLO 74
+#### ARTICOLO 74
 
 Durata e fine
 
@@ -1161,7 +1155,7 @@ Durata e fine
 
 6\. Nonostante la fine del presente Accordo, il Consiglio continua ad esistere per tutto il tempo che occorre per liquidare l'Organizzazione, appurarne i conti e ripartirne gli averi; esso ha, durante tale periodo, i poteri e le funzioni che possono essergli necessari a tale scopo.
 
-##### ARTICOLO 75
+#### ARTICOLO 75
 
 Emendamenti
 
@@ -1169,19 +1163,19 @@ Emendamenti
 
 2\. Ogni membro a nome del quale non sia stata fatta una notifica di accettazione di un emendamento alla data in cui questo entra in vigore, cessa a tale data di partecipare al presente Accordo, a meno che il detto membro non provi al Consiglio, nel corso della prima riunione che questo tiene dopo la data di entrata in vigore dell'emendamento, che non aveva potuto fare accettare l'emendamento nel tempo voluto a seguito di difficolta' incontrate per portare a termine la propria procedura costituzionale, e il Consiglio non decida di prolungare per tale membro il termine di accettazione sino a quando tali difficolta' non siano state superate. Tale membro non e' vincolato dall'emendamento sino a quando non abbia notificato la propria accettazione dell'emendamento stesso.
 
-##### ARTICOLO 76
+#### ARTICOLO 76
 
 Notifiche del Segretario generale dell'Organizzazione delle Nazioni Unite
 
 Il Segretario generale dell'Organizzazione delle Nazioni Unite notifica a tutti gli Stati membri dell'Organizzazione delle Nazioni Unite, membri di una delle sue organizzazioni specializzate o membri dell'Agenzia internazionali dell'energia atomica ogni firma, ogni strumento di ratifica, di accettazione, di approvazione o di adesione, ogni notifica fatta in conformita' dell'articolo 63 e ogni intenzione indicata in conformita' dell'articolo 66, nonche' le date in cui il presente Accordo entra in vigore a titolo provvisorio o definitivo. Il Segretario generale notifica a tutte le Parti contraenti ogni notifica fatta in conformita' dell'articolo 70, ogni notifica relativa al ritiro, ogni esclusione, la fine del presente Accordo, ogni proroga del presente Accordo, la data in cui un emendamento entra in vigore o viene considerato ritirato, nonche' ogni cessazione di partecipazione al presente Accordo in conformita' del paragrafo 2 dell'Articolo 75.
 
-##### ARTICOLO 77
+#### ARTICOLO 77
 
 Testi del presente Accordo facenti fede
 
 I testi del presente Accordo in inglese, spagnolo, francese e russo fanno ugualmente fede. Gli originali saranno depositati negli archivi dell'Organizzazione delle Nazioni Unite e il Segretario generale dell'Organizzazione delle Nazioni Unite in quanto autorita' depositaria ne inviera' copia certificata conforme ad ogni Governo firmatario o aderente, nonche' al Direttore esecutivo dell'Organizzazione internazionale del cacao. In fede di che i sottoscritti, debitamente autorizzati a tale scopo dal proprio Governo, hanno firmato il presente Accordo alla data che figura accanto alla loro firma.
 
-##### Allegato A
+#### Allegato A
 
 ALLEGATO A
 
@@ -1189,7 +1183,7 @@ CONTINGENTI DI BASE DI CUI AL PARAGRAFO 1 DELL'ARTICOLO 30
 
 Parte di provvedimento in formato grafico
 
-##### Allegato B
+#### Allegato B
 
 ALLEGATO B
 
@@ -1197,7 +1191,7 @@ PAESI CHE PRODUCONO MENO DI 10.000 TONNELLATE DI CACAO ORDINARIO DI CUI AL PARAG
 
 Parte di provvedimento in formato grafico
 
-##### Allegato C
+#### Allegato C
 
 ALLEGATO C
 
@@ -1205,7 +1199,7 @@ PRODUTTORI DI CACAO FINE (" FINE " o " FLAVOUR ")
 
 Parte di provvedimento in formato grafico
 
-##### Allegato D
+#### Allegato D
 
 ALLEGATO D
 
@@ -1213,7 +1207,7 @@ IMPORTAZIONI DI CACAO CALCOLATE AI FINI DELL'ARTICOLO 10 (1) (in migliaia di ton
 
 Parte di provvedimento in formato grafico
 
-##### Allegato E
+#### Allegato E
 
 ALLEGATO E
 

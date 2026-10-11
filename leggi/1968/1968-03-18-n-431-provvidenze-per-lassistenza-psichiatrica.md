@@ -26,13 +26,13 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Struttura interna dell'ospedale psichiatrico
 
 Gli ospedali psichiatrici dipendenti dalla provincia e da altri enti pubblici devono essere costituiti da due a cinque divisioni, ciascuna delle quali con non piu' di 125 posti-letto.
 
-### Art. 2
+## Art. 2
 
 Personale dell'ospedale
 
@@ -48,13 +48,13 @@ Fino a quando non verra' diversamente disposto continueranno ad avere vigore le 
 
 I regolamenti speciali per ciascun ospedale psichiatrico dovranno contenere le disposizioni di indole mista sanitaria ed amministrativa relative alle nomine del personale, salvo che sia diversamente stabilito da vigenti norme, agli orari di servizio, alle sanzioni disciplinari e ad altri provvedimenti dell'indole suindicata.
 
-### Art. 3
+## Art. 3
 
 Personale dei centri di igiene mentale
 
 I centri o servizi di igiene mentale istituiti dalle province, ove non dipendano dal direttore dell'ospedale psichiatrico, devono essere diretti da un direttore psichiatra. Al centro ed ai servizi da esso dipendenti sono assegnati, di regola, almeno un pedo-psichiatra ed un psicologo, medici psichiatri, assistenti sociali, assistenti sanitarie, personale infermieristico ed ausiliario.
 
-### Art. 4
+## Art. 4
 
 Ammissione volontaria e dimissioni
 
@@ -64,7 +64,7 @@ La dimissione di persone affette da disturbi psichici ricoverate di autorita', a
 
 Tale comunicazione ha carattere assolutamente riservato e non puo' formare oggetto di notizia, salva la facolta' di darne informazioni, in via egualmente riservata, ad altre autorita' dello Stato che ne facciano richiesta esclusivamente a fini di istituto.
 
-### Art. 5
+## Art. 5
 
 Concorso dello Stato nelle spese degli enti pubblici
 
@@ -100,7 +100,7 @@ All'onere derivante dall'applicazione del primo comma del presente articolo per 
 
 Il Ministro per il tesoro e' autorizzato a provvedere, con propri decreti, alle occorrenti variazioni di bilancio.
 
-### Art. 6
+## Art. 6
 
 Contributi a province
 
@@ -108,7 +108,7 @@ Il Ministro per la sanita' e' autorizzato a concedere, sui fondi stanziati con i
 
 ((A decorrere dal 1 gennaio 1973 i contributi di cui al precedente comma possono essere concessi anche a quelle province che, pur disponendo di ospedale psichiatrico proprio, siano state costrette, per obiettive e documentate ragioni di carenza di posti letto, ad avvalersi, in base a regolari convenzioni, di istituti ospedalieri eretti in enti morali e non aventi finalita' di lucro, e provvedano a migliorare l'assistenza ai malati di mente secondo i criteri della presente legge)).
 
-### Art. 7
+## Art. 7
 
 Rimborsi
 
@@ -120,13 +120,13 @@ a) provvedimento del Ministero della sanita' con il quale sono stati determinati
 
 b) provvedimenti da cui risultino l'effettiva assunzione del personale e la corresponsione degli stipendi e delle indennita' ammesse al rimborso.
 
-### Art. 8
+## Art. 8
 
 Contributi per le attrezzature tecnico-sanitarie
 
 A valere sulle disponibilita' del fondo nazionale ospedaliero di cui all'articolo 33 della legge sugli enti ospedalieri e sulla assistenza ospedaliera, il Ministero della sanita' puo' concedere contributi e sussidi agli ospedali psichiatrici dipendenti dalle province e da altri enti pubblici, per il rinnovo delle attrezzature tecnico-sanitarie degli ospedali e dei servizi di igiene mentale, per il miglioramento e adeguamento di esse nei casi in cui la quota della retta di degenza stabilita ai sensi delle vigenti disposizioni non riesca a coprire le spese occorrenti, osservando le norme dell'articolo 5 della legge 26 giugno 1965, n. 717.
 
-### Art. 9
+## Art. 9
 
 Garanzia per l'assunzione dei mutui
 
@@ -136,13 +136,13 @@ Con decreto del Presidente della Repubblica, su proposta del Ministro per il tes
 
 Gli enti di previdenza sono autorizzati, nei limiti del 10 per cento delle disponibilita' investibili in beni patrimoniali, a concedere mutui agli enti da cui dipendano ospedali psichiatrici.
 
-### Art. 10
+## Art. 10
 
 Finanziamento per le costruzioni ed attrezzature ospedaliere psichiatriche
 
 Fino a quando non saranno istituite le Regioni a statuto ordinario, il Ministro per i lavori pubblici, di concerto con il Ministro per la sanita', concede alle province e agli enti da cui dipendano ospedali psichiatrici i contributi previsti dalla legge 3 agosto 1949, n. 589, dalla legge 30 maggio 1965, n. 574 e dalla vigente legge sui contributi per le costruzioni ospedaliere e per l'estensione della legge 30 maggio 1965, n. 574, alle cliniche universitarie, nei limiti da queste stabiliti.
 
-### Art. 11
+## Art. 11
 
 Abrogazione
 
@@ -150,7 +150,7 @@ E' abrogato l'articolo 604, n. 2, del codice di procedura penale per quanto atti
 
 ## NORMA TRANSITORIA
 
-### Art. 12
+## Art. 12
 
 Le amministrazioni pubbliche da cui dipendono attualmente ospedali psichiatrici, per quanto concerne il numero delle divisioni, provvederanno ad adeguarsi ai limiti fissati dall'articolo 1 entro il termine di cinque anni dalla data di entrata in vigore della presente legge.
 

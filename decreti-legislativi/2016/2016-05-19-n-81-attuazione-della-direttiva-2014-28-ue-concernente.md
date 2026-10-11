@@ -73,11 +73,9 @@ Emana
 
 il seguente decreto-legislativo:
 
-## Capo I
+## Capo I - Disposizioni generali
 
-### Disposizioni generali
-
-#### Art. 1
+### Art. 1
 
 Ambito di applicazione
 
@@ -335,7 +333,7 @@ d) le campionature di esplosivi nuovi destinate ad essere movimentate o trasferi
 
 > Il decreto legislativo 29 luglio 2015, n. 123 (Attuazione della direttiva 2013/29/UE concernente l'armonizzazione delle legislazioni degli Stati membri relative alla messa a disposizione sul mercato di articoli pirotecnici) e' pubblicato nella Gazzetta Ufficiale 12 agosto 2015, n. 186.
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -395,17 +393,15 @@ cc) marcatura CE: la marcatura mediante la quale il fabbricante indica che l'esp
 
 > Per i riferimenti normativi del regolamento (CE) 09/07/2008, n. 765/2008 del Parlamento europeo e del Consiglio si veda nelle note alle premesse.
 
-#### Art. 3
+### Art. 3
 
 Libera circolazione - Messa a disposizione sul mercato
 
 1\. E' vietato, fabbricare, detenere, utilizzare, porre in vendita o cedere a qualsiasi titolo, trasportare, importare, esportare, trasferire o comunque mettere a disposizione sul mercato esplosivi per uso civile che non soddisfino i requisiti contenuti nel presente decreto.
 
-## Capo II
+## Capo II - Obblighi degli operatori economici
 
-### Obblighi degli operatori economici
-
-#### Art. 4
+### Art. 4
 
 Obblighi dei fabbricanti
 
@@ -431,7 +427,7 @@ b) indicano sull'esplosivo il loro nome, la loro denominazione commerciale regis
 
 9\. I fabbricanti, a seguito di ordine di esibizione degli organi di polizia incaricati dall'autorita' di sorveglianza del mercato, forniscono in lingua italiana tutte le informazioni e la documentazione, in formato cartaceo o elettronico, necessarie per dimostrare la conformita' dell'esplosivo al presente decreto. I fabbricanti cooperano con tali organi o autorita', su loro ordine, a qualsiasi azione intrapresa per eliminare i rischi presentati dagli esplosivi da essi immessi sul mercato.
 
-#### Art. 5
+### Art. 5
 
 Rappresentanti autorizzati
 
@@ -445,7 +441,7 @@ b) a seguito di richiesta motivata degli organi di polizia o delle autorita' di 
 
 c) cooperare con tali organi o autorita', su loro richiesta, a qualsiasi azione intrapresa per eliminare i rischi presentati dagli esplosivi che rientrano nel mandato del rappresentante autorizzato.
 
-#### Art. 6
+### Art. 6
 
 Obblighi degli importatori
 
@@ -465,7 +461,7 @@ Obblighi degli importatori
 
 8\. Gli importatori, a seguito di ordine di esibizione degli organi di polizia incaricati dall'autorita' di sorveglianza del mercato, forniscono in lingua italiana tutte le informazioni e la documentazione, in formato cartaceo o elettronico, necessarie per dimostrare la conformita' dell'esplosivo al presente decreto. Gli importatori cooperano con tali organi o autorita', su loro richiesta, a qualsiasi azione intrapresa per eliminare i rischi presentati dagli esplosivi da essi immessi sul mercato.
 
-#### Art. 7
+### Art. 7
 
 Obblighi dei distributori
 
@@ -479,7 +475,7 @@ Obblighi dei distributori
 
 5\. I distributori, a seguito di ordine di esibizione degli organi di polizia incaricati dall'autorita' di sorveglianza del mercato, forniscono tutte le informazioni e la documentazione, in formato cartaceo o elettronico, necessarie per dimostrare la conformita' dell'esplosivo. I distributori cooperano con tali organi o autorita', su loro richiesta, a qualsiasi azione intrapresa per eliminare i rischi presentati dagli esplosivi da essi messi a disposizione sul mercato.
 
-#### Art. 8
+### Art. 8
 
 Casi in cui gli obblighi dei fabbricanti si applicano
 
@@ -487,7 +483,7 @@ agli importatori e ai distributori
 
 1\. Un importatore o distributore e' ritenuto un fabbricante ai fini del presente decreto ed e' soggetto agli obblighi del fabbricante di cui all'articolo 4 quando immette sul mercato un esplosivo con il proprio nome o marchio commerciale o modifica un esplosivo gia' immesso sul mercato in modo tale da poterne condizionare la conformita' alle prescrizioni del presente decreto.
 
-#### Art. 9
+### Art. 9
 
 Identificazione degli operatori economici
 
@@ -499,11 +495,9 @@ b) qualsiasi operatore economico cui abbiano fornito esplosivi.
 
 2\. Gli operatori economici devono essere in grado di presentare le informazioni di cui al comma 1 per dieci anni dal momento in cui siano stati loro forniti esplosivi e per un periodo di dieci anni dal momento in cui essi abbiano fornito esplosivi.
 
-## Capo III
+## Capo III - Disposizioni di sicurezza
 
-### Disposizioni di sicurezza
-
-#### Art. 10
+### Art. 10
 
 Trasferimenti di esplosivi
 
@@ -543,7 +537,7 @@ h) gli estremi dei titoli abilitanti l'acquisto e il deposito degli esplosivi.
 
 > Per i riferimenti normativi del regio decreto 18 giugno 1931, n. 773 si veda nelle note alle premesse.
 
-#### Art. 11
+### Art. 11
 
 Transito di esplosivi
 
@@ -567,7 +561,7 @@ Transito di esplosivi
 
 > Queste disposizioni non si applicano rispetto agli esplosivi di transito, per i quali e' sufficiente la licenza del prefetto della provincia per cui i prodotti entrano nello Stato.
 
-#### Art. 12
+### Art. 12
 
 Trasferimenti di munizioni da uno Stato membro
 
@@ -595,7 +589,7 @@ f) la data di partenza e la data prevista per l'arrivo delle munizioni.
 
 6\. L'autorizzazione ed il nulla-osta di cui al comma 1 devono accompagnare le munizioni fino al luogo di destinazione e devono essere esibite ad ogni richiesta degli ufficiali ed agenti di pubblica sicurezza.
 
-#### Art. 13
+### Art. 13
 
 Trasferimenti di munizioni verso uno Stato membro
 
@@ -619,7 +613,7 @@ Trasferimenti di munizioni verso uno Stato membro
 
 > E' vietato altresi', senza licenza del Prefetto, tenere in deposito, vendere o trasportare polveri senza fumo a base di nitrocellulosa o nitroglicerina.
 
-#### Art. 14
+### Art. 14
 
 Deroghe per ragioni di sicurezza pubblica
 
@@ -643,7 +637,7 @@ Deroghe per ragioni di sicurezza pubblica
 
 > Il Prefetto puo', per ragioni di ordine pubblico, disporre, in qualunque tempo, che le armi, le munizioni e le materie esplodenti, di cui negli articoli precedenti, siano consegnate, per essere custodite in determinati depositi a cura dell'autorita' di pubblica sicurezza o dell'autorita' militare.
 
-#### Art. 15
+### Art. 15
 
 Scambio di informazioni
 
@@ -651,7 +645,7 @@ Scambio di informazioni
 
 2\. Ogni altra informazione, relativa ai medesimi articoli, e' messa a disposizione della Commissione e degli altri Stati membri dal Ministero dell'interno, unitamente alle informazioni aggiornate relative agli operatori economici in possesso di una licenza o di un'autorizzazione di cui all'articolo 17.
 
-#### Art. 16
+### Art. 16
 
 Identificazione e tracciabilita' degli esplosivi
 
@@ -689,7 +683,7 @@ Identificazione e tracciabilita' degli esplosivi
 
 > L'acquirente o cessionario di materie esplodenti in violazione delle norme del presente articolo e' punito con l'arresto sino a diciotto mesi e con l'ammenda sino a euro 154 (lire 300.000).".
 
-#### Art. 17
+### Art. 17
 
 Licenza o autorizzazione
 
@@ -735,17 +729,15 @@ Licenza o autorizzazione
 
 > Fino al 30 giugno 1960 i fochini che dimostrano di aver esercitato il mestiere ininterrottamente da tre anni, possono ottenere la licenza senza esame.".
 
-## Capo IV
+## Capo IV - Conformita' dell'esplosivo
 
-### Conformita' dell'esplosivo
-
-#### Art. 18
+### Art. 18
 
 Presunzione di conformita' degli esplosivi
 
 1\. Gli esplosivi che sono conformi alle norme armonizzate o a parti di esse i cui riferimenti sono stati pubblicati nella Gazzetta Ufficiale dell'Unione europea sono considerati conformi ai requisiti essenziali di sicurezza di tali norme o parti di esse di cui all' Allegato II.
 
-#### Art. 19
+### Art. 19
 
 Procedure di valutazione della conformita'
 
@@ -785,7 +777,7 @@ b) per gli esplosivi da realizzare in produzione unica, conformita' basata sulla
 
 > La pena di cui al comma 4 si applica anche nei casi in cui le condotte di cui al comma 1 sono riferibili a prodotti oggettivamente difformi dai modelli depositati o altrimenti riconosciuti, anche se recanti la marcatura "CE del tipo" ovvero gli estremi del provvedimento di riconoscimento del Ministero dell'interno.".
 
-#### Art. 20
+### Art. 20
 
 Dichiarazione di conformita' UE
 
@@ -797,7 +789,7 @@ Dichiarazione di conformita' UE
 
 4\. Con la dichiarazione di conformita' UE il fabbricante si assume la responsabilita' della conformita' dell'esplosivo ai requisiti stabiliti dal presente decreto.
 
-#### Art. 21
+### Art. 21
 
 Principi generali della marcatura CE
 
@@ -807,7 +799,7 @@ Principi generali della marcatura CE
 
 > Per i riferimenti normativi del regolamento (CE) 09/07/2008, n. 765/2008 del Parlamento europeo e del Consiglio si veda nelle note alle premesse.
 
-#### Art. 22
+### Art. 22
 
 Regole e condizioni per l'apposizione
 
@@ -825,11 +817,9 @@ della marcatura CE
 
 6\. E' vietato apporre sugli esplosivi marchi o iscrizioni ingannevoli o comunque tali da ridurre la visibilita', la riconoscibilita' o la leggibilita' della marcatura CE di conformita' e del numero di identificazione dell'organismo notificato.
 
-## Capo V
+## Capo V - Notifica degli Organismi di valutazione della conformita'
 
-### Notifica degli Organismi di valutazione della conformita'
-
-#### Art. 23
+### Art. 23
 
 Organismi di valutazione della conformita'.
 
@@ -869,7 +859,7 @@ L'istanza intesa ad ottenere l'autorizzazione di cui al comma 1 e' presentata al
 
 > La nomina del direttore della scuola e dei docenti delle materie obbligatorie di insegnamento del corso di studi previsto dal decreto ministeriale gli cui all'art. 6, viene effettuata dal medico provinciale, su proposta del Consiglio di amministrazione dell'Ente da cui la scuola dipende.".
 
-#### Art. 24
+### Art. 24
 
 Modifica delle notifiche
 
@@ -877,7 +867,7 @@ Modifica delle notifiche
 
 2\. Il Ministero dello sviluppo economico informa la Commissione dell'Unione europea delle procedure adottate per la valutazione e la notifica degli organismi di valutazione della conformita' e per il controllo degli organismi notificati, nonche' di qualsiasi modifica delle stesse e fornisce, inoltre, alla Commissione medesima, su richiesta, tutte le informazioni relative alla base della notifica o del mantenimento della competenza di un organismo notificato.
 
-#### Art. 25
+### Art. 25
 
 Prescrizioni relative agli organismi notificati
 
@@ -919,7 +909,7 @@ d) la capacita' di elaborare certificati, registri e rapporti atti a dimostrare 
 
 11\. Gli organismi di valutazione della conformita' partecipano alle attivita' di normalizzazione pertinenti e alle attivita' del gruppo di coordinamento degli organismi notificati, istituito a norma della pertinente normativa di armonizzazione dell'Unione, o garantiscono che il loro personale addetto alla valutazione della conformita' ne sia informato, e applicano come guida generale le decisioni ed i documenti amministrativi prodotti da tale gruppo.
 
-#### Art. 26
+### Art. 26
 
 Controllo degli organismi notificati
 
@@ -927,13 +917,13 @@ Controllo degli organismi notificati
 
 2\. Il controllo sugli organismi notificati e' esercitato secondo modalita' da definirsi in un'apposita convenzione tra il Ministero dello sviluppo economico, il Ministero dell'interno e l'organismo di cui al comma 1.
 
-#### Art. 27
+### Art. 27
 
 Presunzione di conformita' degli organismi notificati
 
 1\. Si presume conforme l'organismo notificato che dimostri la propria conformita' ai criteri stabiliti dal presente decreto, nonche' ai criteri stabiliti nelle pertinenti norme armonizzate o in parti di esse i cui riferimenti sono stati pubblicati nella Gazzetta Ufficiale dell'Unione europea.
 
-#### Art. 28
+### Art. 28
 
 Affiliate e subappaltatori degli organismi notificati
 
@@ -945,7 +935,7 @@ Affiliate e subappaltatori degli organismi notificati
 
 4\. Gli organismi notificati mantengono a disposizione del Ministero dello sviluppo economico i documenti pertinenti riguardanti la valutazione delle qualifiche del subappaltatore o dell'affiliata e del lavoro eseguito da questi ultimi a norma dell'allegato III.
 
-#### Art. 29
+### Art. 29
 
 Obblighi operativi degli organismi notificati
 
@@ -961,7 +951,7 @@ Gli organismi di valutazione della conformita' svolgono le loro attivita' tenend
 
 5\. Qualora non siano prese misure correttive o non producano il risultato richiesto, l'organismo notificato limita, sospende o ritira i certificati, a seconda dei casi.
 
-#### Art. 30
+### Art. 30
 
 Obbligo di informazione a carico
 
@@ -979,17 +969,15 @@ d) su richiesta, delle attivita' di valutazione della conformita' eseguite nell'
 
 2\. Gli organismi notificati forniscono agli altri organismi notificati a norma del presente decreto, le cui attivita' di valutazione della conformita' sono simili e coprono gli stessi esplosivi, informazioni pertinenti sulle questioni relative ai risultati negativi e, su richiesta, positivi delle valutazioni della conformita'.
 
-#### Art. 31
+### Art. 31
 
 Coordinamento degli organismi notificati
 
 1\. Il Ministero dello sviluppo economico garantisce che gli organismi notificati, direttamente o tramite rappresentanti designati, partecipino ai lavori del gruppo settoriale di organismi notificati nell'ambito del sistema di cooperazione coordinato dalla Commissione dell'Unione europea.
 
-## Capo VI
+## Capo VI - Sorveglianza del mercato e controllo degli esplosivi per uso civile
 
-### Sorveglianza del mercato e controllo degli esplosivi per uso civile
-
-#### Art. 32
+### Art. 32
 
 Sorveglianza del mercato
 
@@ -1017,7 +1005,7 @@ d) ordinare e coordinare o, se del caso, organizzare con i fabbricanti, gli impo
 
 > Per i riferimenti normativi del regolamento (CE) 09/07/2008, n. 765/2008 del Parlamento europeo e del Consiglio si veda nelle note alle premesse.
 
-#### Art. 33
+### Art. 33
 
 Disposizioni procedurali per gli esplosivi
 
@@ -1049,13 +1037,13 @@ b) alle carenze nelle norme armonizzate di cui all'articolo 18, che conferiscono
 
 > Per i riferimenti normativi del regolamento (CE) 09/07/2008, n. 765/2008 del Parlamento europeo e del Consiglio si veda nelle note alle premesse.
 
-#### Art. 34
+### Art. 34
 
 Procedura di salvaguardia
 
 1.Il Ministero dell'interno comunica gli atti di esecuzione adottati dalla Commissione europea al Ministero dello sviluppo economico per le informazioni di competenza al mercato nazionale.
 
-#### Art. 35
+### Art. 35
 
 Esplosivi conformi che presentano un rischio
 
@@ -1067,7 +1055,7 @@ Esplosivi conformi che presentano un rischio
 
 4\. Qualora, all'esito delle consultazioni avviate dalla Commissione dell'Unione europea, la Commissione medesima decida, mediante propri atti di esecuzione, comunicati agli operatori economici interessati, che le misure adottate dall'autorita' di sorveglianza del mercato non siano giustificate, quest'ultima adotta tutti i provvedimenti necessari per conformarsi a tale decisione. L'autorita' di sorveglianza assume, inoltre, i provvedimenti necessari per conformarsi alle decisioni con le quali la Commissione ritiene legittime le misure adottate da altri Stati membri e ne informa la Commissione. I provvedimenti sono emanati all'atto del ricevimento della decisione della Commissione dell'Unione europea.
 
-#### Art. 36
+### Art. 36
 
 Non conformita' formale
 
@@ -1095,11 +1083,9 @@ h) qualsiasi altra prescrizione amministrativa di cui all'articolo 4 o all'artic
 
 > Per i riferimenti normativi del regolamento (CE) 09/07/2008, n. 765/2008 del Parlamento europeo e del Consiglio si veda nelle note alle premesse.
 
-## Capo VII
+## Capo VII - Disposizioni transitorie e finali
 
-### Disposizioni transitorie e finali
-
-#### Art. 37
+### Art. 37
 
 Disciplina sanzionatoria
 
@@ -1173,7 +1159,7 @@ d) le precise ed univoche indicazioni su elementi essenziali per l'individuazion
 
 > Per il testo dell'articolo 53 del testo unico delle leggi di pubblica sicurezza, regio decreto 18 giugno 1931, n. 773, citato nelle note alle premesse, si veda nelle note all'articolo 19.
 
-#### Art. 38
+### Art. 38
 
 Disposizioni transitorie e finali
 
@@ -1277,7 +1263,7 @@ Disposizioni transitorie e finali
 
 > Per i riferimenti normativi della direttiva 2014/28/UE si veda nelle note alle premesse.
 
-#### Art. 39
+### Art. 39
 
 Disposizioni tariffarie
 
@@ -1315,7 +1301,7 @@ Disposizioni tariffarie
 
 > 6\. I decreti di cui al comma 4 sono emanati entro sessanta giorni dalla data di entrata in vigore dei provvedimenti di recepimento delle direttive che prevedono l'apposizione della marcatura CE; trascorso tale termine, si provvede con decreto del Presidente del Consiglio dei ministri, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica; le amministrazioni inadempienti sono tenute a fornire i dati di rispettiva competenza.".
 
-#### Art. 40
+### Art. 40
 
 Clausola di invarianza finanziaria
 
@@ -1323,7 +1309,7 @@ Clausola di invarianza finanziaria
 
 2\. Le amministrazioni interessate provvedono all'attuazione delle disposizioni del presente decreto con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-#### Art. 41
+### Art. 41
 
 Abrogazioni
 
@@ -1335,7 +1321,7 @@ Abrogazioni
 
 > Per i riferimenti normativi del decreto del Ministero dell'interno 19 settembre 2002, n. 272, si veda nelle note all'articolo 38.
 
-#### Art. 42
+### Art. 42
 
 Entrata in vigore
 
@@ -1365,7 +1351,7 @@ Visto, il Guardasigilli: Orlando
 
 ## Allegati
 
-#### Allegato I
+### Allegato I
 
 Allegato I
 
@@ -1850,7 +1836,7 @@ Gruppo S
 +----+----------------------+-----------+---------------------------+
 ```
 
-#### Allegato II
+### Allegato II
 
 Allegato II
 
@@ -1938,7 +1924,7 @@ b) se necessario, i propellenti (ad esempio quelli a base di nitrocellulosa) dev
 
 c) i propellenti per endoreattori non devono contenere bolle di gas o fessure involontarie che possono renderne pericoloso il funzionamento quando sono in forma compressa o in blocchi.
 
-#### Allegato III
+### Allegato III
 
 Allegato III
 
@@ -2342,7 +2328,7 @@ Una copia della dichiarazione di conformita' UE e' messa a disposizione delle au
 
 Gli obblighi spettanti al fabbricante di cui ai punti 2.2 e 5 possono essere adempiuti dal suo rappresentante autorizzato, per conto del fabbricante e sotto la sua responsabilita', purche' siano specificati nel mandato.
 
-#### Allegato IV
+### Allegato IV
 
 Allegato IV
 
@@ -2378,7 +2364,7 @@ Firmato a nome e per conto di:
 
 Parte di provvedimento in formato grafico
 
-#### Allegato V
+### Allegato V
 
 Allegato V
 

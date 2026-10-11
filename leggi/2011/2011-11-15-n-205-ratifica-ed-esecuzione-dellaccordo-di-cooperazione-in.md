@@ -27,19 +27,19 @@ Promulga
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo di cooperazione in materia culturale, scientifica, tecnologica e nei settori dell'istruzione e dell'informazione fra il Governo della Repubblica italiana ed il Governo dello Stato del Kuwait, fatto a Kuwait il 7 dicembre 2005.
 
-### Art. 2
+## Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 28 dell'Accordo stesso.
 
-### Art. 3
+## Art. 3
 
 Copertura finanziaria
 
@@ -47,7 +47,7 @@ Copertura finanziaria
 
 2\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-### Art. 4
+## Art. 4
 
 Entrata in vigore
 
@@ -77,61 +77,61 @@ IL GOVERNO DELLA REPUBBLICA ITALIANA E IL GOVERNO DELLO STATO DEL KUWAIT
 
 Il Governo della Repubblica Italiana e il Governo dello Stato del Kuwait, qui di seguito denominati le Parti contraenti, desiderosi di rafforzare i legami di amicizia tra i rispettivi paesi e promuovere la comprensione e la conoscenza reciproche attraverso lo sviluppo delle relazioni culturali, scientifiche, tecnologiche e nei settori dell'istruzione e dell'informazione, basate sul reciproco rispetto e su comuni interessi, hanno concordato quanto segue:
 
-### Articolo (1)
+## Articolo (1)
 
 Le Parti incoraggeranno la promozione e la realizzazione di attivita' tese a stimolare una migliore comprensione delle leggi e regolamenti dei due paesi; esse promuoveranno e svilupperanno la conoscenza, la diffusione e l'insegnamento delle rispettive lingue nel territorio dell'altra Parte.
 
-### Articolo (2)
+## Articolo (2)
 
 Le Parti incoraggeranno la cooperazione nei settori della musica, delle arti, del teatro e del cinema, nonche' la reciproca partecipazione a festival, rassegne cinematografiche ed altre manifestazioni di rilievo.
 
 Le Parti organizzeranno periodicamente uno scambio di mostre ad alto livello, rappresentative del patrimonio artistico e culturale dei due paesi.
 
-### Articolo (3)
+## Articolo (3)
 
 Ciascuna Parte incoraggera' la cooperazione reciproca tra le istituzioni , le associazioni ed i centri culturali dei rispettivi paesi. A dette istituzioni verra' garantito il trattamento piu' favorevole al fine di agevolare la cooperazione tra di esse, conformemente alle leggi ed ai regolamenti in vigore nel paese ospitante.
 
-### Articolo (4)
+## Articolo (4)
 
 Le Parti incoraggeranno la cooperazione tra centri di documentazione e biblioteche dei rispettivi paesi, nonche' lo scambio di materiali„ libri, banche dati e missioni di esperti del settore.
 
-### Articolo (5)
+## Articolo (5)
 
 Le Parti avvieranno un'intensa cooperazione allo scopo di prevenire e reprimere il commercio illegale di opere d'arte, beni culturali, beni audiovisivi, tutelati dalle leggi e dai regolamenti in materia di proprieta' intellettuale, documenti ed altri beni di valore storico.
 
-### Articolo (6)
+## Articolo (6)
 
 Le Parti incoraggeranno la cooperazione nel settore dell'archeologia attraverso lo scambio di informazioni, esperienze e l'organizzazione di convegni e seminari, la realizzazione di ricerche congiunte e la messa a disposizione di strutture per le attivita' svolte dalle missioni archeologiche nei rispettivi paesi.
 
-### Articolo (7)
+## Articolo (7)
 
 Le Parti incoraggeranno la scambio di informazioni su vari argomenti di interesse per entrambi i paesi, attraverso le visite di personalita' del settore dell'istruzione, della scienza, della cultura e dell'informazione.
 
 ## SECONDO : COOPERAZIONE NEL SETTORE DELL'ISTRUZIONE GENERALE
 
-### Articolo (8)
+## Articolo (8)
 
 Le Parti incoraggeranno lo scambio di visite da parte di specialisti in tutti i campi dell'istruzione allo scopo di conoscere i progressi ed i risultati raggiunti in entrambi i paesi nel campo dell'istruzione.
 
-### Articolo (9)
+## Articolo (9)
 
 Le Parti incoraggeranno la scambio di libri scolastici, documenti, studi e modelli di programmi su cui si basano lo sviluppo ed i programmi scolastici di cui sopra in entrambi i paesi.
 
-### Articolo (10)
+## Articolo (10)
 
 Entrambi i paesi incoraggeranno la partecipazione a corsi di formazione, conferenze, seminari e convegni didattici organizzati nell'altro paese e incentrati sul tema dell'istruzione generale.
 
-### Articolo (11)
+## Articolo (11)
 
 Le Parti incoraggeranno lo scambio di esperienze e di informazioni nel campo dell'istruzione generale, specialistica e tecnica, nonche' nel settore amministrativo dell'istruzione, nell'allestimento e nello sviluppo di biblioteche scolastiche.
 
-### Articolo (12)
+## Articolo (12)
 
 Le Parti promuoveranno lo scambio dei piu' recenti supporti didattici prodotti da ciascuna di esse, in particolare i supporti audiovisivi per l'insegnamento delle lingue straniere.
 
 Le Parti avvieranno inoltre uno scambio di esperienze e si coordineranno nel settore dell'utilizzo, della realizzazione e dello sviluppo di supporti didattici.
 
-### Articolo (13)
+## Articolo (13)
 
 Le Parti promuoveranno:
 
@@ -139,17 +139,17 @@ Le Parti promuoveranno:
 
 (2) L'eventuale stipula, conformemente alle rispettive legislazioni, di un accordo distinto che preveda il riconoscimento dei diplomi e certificati di istruzione rilasciati da Istituti scolastici statali e dagli istituti legalmente autorizzati di entrambi i paesi, a condizione che i programmi di studio di detti istituti corrispondano a quelli applicabili nel paese nel quale viene richiesto il riconoscimento degli istituti scolastici.
 
-### Articolo (14)
+## Articolo (14)
 
 Le Parti promuoveranno lo scambio di visite di gruppi di studenti e missioni conoscitive, compagnie teatrali, squadre sportive e scolastiche di entrambi i paesi.
 
 ## TERZO : COOPERAZIONE NEL SETTORE DELL'ISTRUZIONE SECONDARIA, E DELLA RICERCA SCIENTIFICA E TECNOLOGICA
 
-### Articolo (15)
+## Articolo (15)
 
 Ciascuna Parte promuovera' lo sviluppo della cooperazione in ambito accademico tra i due paesi attraverso l'incremento degli accordi interuniversitari e lo scambio di visite di professori, lettori e ricercatori.
 
-### Articolo (16)
+## Articolo (16)
 
 Le Parti promuoveranno:
 
@@ -157,7 +157,7 @@ Le Parti promuoveranno:
 
 (2) Lo studio della possibilita' di emettere dei regolamenti finalizzati al riconoscimento dei certificati rilasciati dalle universita' dei due paesi.
 
-### Articolo (17)
+## Articolo (17)
 
 Le Parti contraenti promuoveranno la cooperazione scientifica e tecnologica nel settore delle scienze di base e delle scienze applicate allo sviluppo tecnologico.
 
@@ -171,61 +171,61 @@ La cooperazione scientifica e tecnologica verra' sviluppata nel quadro delle ris
 
 4\. organizzazione di seminari, laboratori, conferenze ed esposizioni in settori di reciproco interesse.
 
-### Articolo (18)
+## Articolo (18)
 
 Le Parti metteranno a disposizione, su una base di reciprocita', borse di studio e posti per studenti e laureati per studi universitari e post universitari e attivita' di ricerca.
 
-### Articolo (19)
+## Articolo (19)
 
 Le Parti promuoveranno le visite di studenti universitari in entrambi i paesi, per scopi culturali, scientifici, sportivi e sociali, in periodi che verranno previamente concordati.
 
 ## QUARTO : COOPERAZIONE NEL SETTORE DELL'INFORMAZIONE
 
-### Articolo (20)
+## Articolo (20)
 
 Le Parti procederanno allo scambio di programmi televisivi e radiofonici, di programmi culturali e di film documentari in base alle condizioni da esse stabilite.
 
-### Articolo (21)
+## Articolo (21)
 
 Le Parti trasmetteranno i programmi televisivi in occasione delle ricorrenze nazionali di entrambi i paesi.
 
-### Articolo (22)
+## Articolo (22)
 
 Le Parti procederanno allo scambio di visite di giornalisti e funzionari ed agevoleranno altresi' le loro missioni.
 
-### Articolo (23)
+## Articolo (23)
 
 Le Parti si adopereranno per incoraggiare lo scambio di notizie e approfondimenti della stampa e delle informazioni; esse metteranno altresi' a disposizione le strutture necessarie in questi settori.
 
-### Articolo (24)
+## Articolo (24)
 
 Le Parti organizzeranno a turno manifestazioni informative in entrambi i paesi e metteranno a disposizione le strutture necessarie a tal fine.
 
-### Articolo (25)
+## Articolo (25)
 
 Le Parti incoraggeranno i contatti e la cooperazione reciproca nel settore dell'eminenza radiotelevisiva, con il fine di rafforzare le relazioni amichevoli tra i due paesi.
 
 ## QUINTO : DISPOSIZIONI GENERALI
 
-### Articolo (26)
+## Articolo (26)
 
 In caso di comune accordo, le Parti potranno decidere di comune accordo di chiedere agli organismi internazionali competenti di partecipare al finanziamento o all'attuazione dei programmi o progetti derivanti dalla formula di cooperazione prevista dal presente Accordo e dagli accordi complementari da esso scaturiti.
 
-### Articolo (27)
+## Articolo (27)
 
 Al fine di dare attuazione alle disposizioni del presente Accordo, le Parti istituiranno una Commissione Mista incaricata di elaborare programmi pluriennali dettagliati e programmi relativi ai settori prioritari e di concludere accordi pratici per la cooperazione culturale, scientifica tecnologica e nel campo dell'istruzione.
 
 Le riunioni della Commissione Mista verranno convocate attraverso i canali diplomatici e si terranno alternativamente nelle due capitali.
 
-### Articolo (28)
+## Articolo (28)
 
 Il presente Accordo entrera' in vigore alla data dell'ultima notifica con la quale una delle due Parti avra' comunicato all'altra Parte l'avvenuto adempimento di tutte le procedure previste dalla legislazione nazionale ai fini dell'attuazione.
 
-### Articolo (29)
+## Articolo (29)
 
 Le disposizioni del presente Accordo potranno essere modificate o integrate con l'accordo di entrambe le Parti e dette modifiche o integrazioni entreranno in vigore conformemente a quanto previsto dall'articolo (28) dello stesso.
 
-### Articolo 30
+## Articolo 30
 
 Il presente Accordo avra' una durata di tre anni e sara' automaticamente rinnovato per un periodo/periodi equivalente/i, salvo nel caso in cui una delle Parti Contraenti richieda per iscritto la cessazione o la modifica dell'Accordo attraverso i canali diplomatici, almeno sei mesi prima della scadenza del periodo iniziale; la cessazione del presente accordo non avra' effetti sui programmi e progetti in corso, salvo quanto diversamente concordato dalle Parti.
 
@@ -237,7 +237,7 @@ della Repubblica Italiana dello Stato del Kuwait
 
 Parte di provvedimento in formato grafico
 
-### Agreement
+## Agreement
 
 CULTURAL, EDUCATIONAL, SCIENTIFIC, TECHNOLOGICAL AND
 

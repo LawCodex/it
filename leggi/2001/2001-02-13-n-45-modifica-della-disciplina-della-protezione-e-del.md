@@ -25,11 +25,9 @@ Promulga
 
 la seguente legge:
 
-## CAPO I - MODIFICHE ALLE NORME PER LA PROTEZIONE DI COLORO CHE
+## CAPO I - MODIFICHE ALLE NORME PER LA PROTEZIONE DI COLORO CHE COLLABORANO CON LA GIUSTIZIA
 
-### COLLABORANO CON LA GIUSTIZIA
-
-#### ART. 1
+### ART. 1
 
 1\. Il titolo del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, e' sostituito dal seguente: "Nuove norme in materia di sequestri di persona a scopo di estorsione e per la protezione dei testimoni di giustizia, nonche' per la protezione e il trattamento sanzionatorio di coloro che collaborano con la giustizia".
 
@@ -37,7 +35,7 @@ la seguente legge:
 
 > Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
-#### ART. 2
+### ART. 2
 
 1\. L'articolo 9 del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, e' sostituito dal seguente:
 
@@ -61,7 +59,7 @@ la seguente legge:
 
 > \- Per la nuova formulazione dell'art. 13 del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazoni, dalla legge 15 marzo 1991, n. 82, (Nuove norme in materia di sequestri di persona a scopo di estorsione e per la protezione dei testimoni di giustizia, nonche' per la protezione e il trattamento sanzionatorio di coloro che collaborano con la giustizia), si veda l'art. 6 della legge qui pubblicata.
 
-#### ART. 3
+### ART. 3
 
 1\. All'articolo 10 del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, sono apportate le seguenti modificazioni:
 
@@ -167,7 +165,7 @@ e) il comma 3 e' abrogato.
 
 > \- Per la nuova formulazione dell'articolo 13 del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificaizoni, dalla legge 15 marzo 1991, n. 82, si veda l'art. 6 della legge qui pubblicata.
 
-#### ART. 4
+### ART. 4
 
 1\. L'articolo 11 del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, e' sostituito dal seguente:
 
@@ -249,7 +247,7 @@ e) il comma 3 e' abrogato.
 
 > \- Per la nuova formulazione dell'art. 9 del citato decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, si veda l'art. 2 della legge qui pubblicata.
 
-#### ART. 5
+### ART. 5
 
 1\. All'articolo 12 del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -305,7 +303,7 @@ L'autorita' giudiziaria provvede all'immediato sequestro del danaro e dei beni e
 
 > \- Il testo dell'art. 10 del citato decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, e' riportato nelle note all'art. 3.
 
-#### ART. 6
+### ART. 6
 
 1\. L'articolo 13 del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, e' sostituito dal seguente:
 
@@ -391,11 +389,11 @@ Le spese di assistenza legale sono liquidate dal giudice previo parere del consi
 
 > 5\. La facolta' di procedere a colloqui personali con detenuti e internati e' attribuita, senza necessita' di autorizzazione, altresi' al Procuratore nazionale antimafia ai fini dell'esercizio delle funzioni di impulso e di coordinamento previste dall'art. 371-bis del codice di procedura penale; al medesimo Procuratore nazionale antimafia sono comunicati i provvedimenti di cui ai commi 2 e 4, qualora concernenti colloqui con persone sottoposte ad indagini, imputate o condannate per taluno dei delitti indicati nell'art. 51, comma 3-bis del codice di procedura penale.".
 
-#### ART. 7
+### ART. 7
 
 1\. Gli articoli 13-bis e 13-ter del decreto-legge 15 gennaio 1991, n.8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, e successive modificazioni, sono abrogati.
 
-#### ART. 8
+### ART. 8
 
 1\. Prima dell'articolo 14 del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, e' inserito il seguente.
 
@@ -437,7 +435,7 @@ Le spese di assistenza legale sono liquidate dal giudice previo parere del consi
 
 > 5\. Le modalita' di cui al comma 2, possono essere altresi adottate, a richiesta di parte, per l'esame della persona di cui e' stata disposta la nuova assunzione a norma dell'art. 495, comma 1, del codice, o quando vi siano gravi difficolta' ad assicurare la comparizione della persona da sottoporre ad esame.".
 
-#### ART. 9
+### ART. 9
 
 1\. All'articolo 14 del decreto-legge 15. gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n.82, sono apportate le seguenti modificazioni:
 
@@ -463,7 +461,7 @@ c) il comma 2 e' abrogato.
 
 > \- L'art. 17 del citato decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, e' riportato nelle note all'art. 18.
 
-#### ART. 10
+### ART. 10
 
 1\. L'articolo 15 del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, e successive modificazioni, e' sostituito dal seguente:
 
@@ -477,7 +475,7 @@ Nell'ambito dello speciale programma di protezione puo' essere autorizzato, con 
 
 > \- L'argomento del decreto legislativo 29 marzo 1993, n. 119 e' riportato nelle note all'art. 6.
 
-#### ART. 11
+### ART. 11
 
 1\. All'articolo 16 del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, sono apportate le seguenti modificazioni:
 
@@ -493,7 +491,7 @@ b) nel comma 1, le parole: "sui programmi" sono sostituite dalle seguenti: "sull
 
 ## CAPO II - NORME PER LA PROTEZIONE DEI TESTIMONI DI GIUSTIZIA
 
-#### ART. 12
+### ART. 12
 
 1\. Dopo l'articolo 16 del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, e' inserito il seguente Capo:
 
@@ -533,7 +531,7 @@ f) a mutui agevolati volti al completo reinserimento proprio e dei familiari nel
 
 > \- La legge 23 febbraio 1999, n. 44, reca: "Disposizioni concernenti il fondo di solidarieta' per le vittime delle richieste estorsive e dell'usura".
 
-#### ART. 13
+### ART. 13
 
 1\. Agli oneri derivanti dall'attuazione delle disposizioni di cui al presente Capo, pari a lire 6.000 milioni per l'anno 2001 ed a lire 8.600 milioni a decorrere dall'anno 2002, si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 17, comma 1, del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, come modificato dall'articolo 18 della presente legge.
 
@@ -541,11 +539,9 @@ f) a mutui agevolati volti al completo reinserimento proprio e dei familiari nel
 
 > \- Il testo dell'art. 17 del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82 e' riportato in note all'art. 18.
 
-## CAPO III - NUOVE NORME PER IL TRATTAMENTO SANZIONATORIO DI COLORO CHE
+## CAPO III - NUOVE NORME PER IL TRATTAMENTO SANZIONATORIO DI COLORO CHE COLLABORANO CON LA GIUSTIZIA
 
-### COLLABORANO CON LA GIUSTIZIA
-
-#### ART. 14
+### ART. 14
 
 1\. Dopo l'articolo 16-ter del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, introdotto dall'articolo 12 della presente legge, e' inserito il seguente Capo:
 
@@ -751,11 +747,9 @@ ART. 16-nonies. - (Benefici penitenziari). - 1. Nei confronti delle persone cond
 
 > \- Il testo dell'art. 12 del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, e' riportato in note all'art. 5.
 
-## CAPO IV - MODIFICA ALLE DISPOSIZIONI DEL CODICE DI PROCEDURA PENALE
+## CAPO IV - MODIFICA ALLE DISPOSIZIONI DEL CODICE DI PROCEDURA PENALE IN MATERIA DI INCOMPATIBILITA' DEL DIFENSORE
 
-### IN MATERIA DI INCOMPATIBILITA' DEL DIFENSORE
-
-#### ART. 15
+### ART. 15
 
 1\. Il comma 4 dell'articolo 105 del codice di procedura penale e' sostituito dal seguente:
 
@@ -777,7 +771,7 @@ ART. 16-nonies. - (Benefici penitenziari). - 1. Nei confronti delle persone cond
 
 > \- Il testo dell'art. 106 del codice di procedura penale e' riportato in note all'art. 16.
 
-#### ART. 16
+### ART. 16
 
 1\. All'articolo 106 del codice di procedura penale sono apportate le seguenti modificazioni:
 
@@ -821,11 +815,11 @@ c) dopo il comma 4 e' aggiunto il seguente:
 
 ## CAPO V - DISPOSIZIONI FINALI, TRANSITORIE E DI COORDINAMENTO
 
-#### ART. 17
+### ART. 17
 
 1\. Prima dell'articolo 17 del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, e' inserita la seguente rubrica: "CAPO II-quater. - DISPOSIZIONI FINALI E TRANSITORIE".
 
-#### ART. 18
+### ART. 18
 
 1\. All'articolo 17 del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, sono apportate le seguenti modificazioni:
 
@@ -845,7 +839,7 @@ b) nei commi 1 e 4, le parole: "del presente capo" e: "al presente capo" sono so
 
 > 4\. Gli interventi finanziari di cui ai Capi II e II-bis sono di natura riservata e non soggetti a rendicontazione; il Capo della polizia - direttore generale della pubblica sicurezza e l'Alto commissario, al termine di ciascun anno finanziario, sono tenuti a presentare una relazione sui criteri e sulle modalita' di utilizzo dei relativi fondi al Ministro dell'interno, il quale autorizza la distruzione della relazione medesima.".
 
-#### ART. 19
+### ART. 19
 
 1\. Dopo l'articolo 17 del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, e' inserito il seguente:
 
@@ -907,7 +901,7 @@ b) nei commi 1 e 4, le parole: "del presente capo" e: "al presente capo" sono so
 
 > \- Il testo dell'art. 10 del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, e' riportato nelle note all'art. 3.
 
-#### ART. 20
+### ART. 20
 
 1\. Negli articoli da 1 a 4 e da 6 a 8, nonche' nell'articolo 18 del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, sono inserite, rispettivamente, le seguenti rubriche:
 
@@ -927,7 +921,7 @@ g) articolo 8: "Nuclei di polizia interforze";
 
 h) articolo 18: "Entrata in vigore".
 
-#### ART. 21
+### ART. 21
 
 1\. Nell'articolo 58-ter, comma 1, della legge 26 luglio 1975, n. 354, e successive modificazioni, le parole: "Le disposizioni del comma" sono sostituite dalle seguenti: "I limiti di pena previsti dalle disposizioni del comma".
 
@@ -939,7 +933,7 @@ h) articolo 18: "Entrata in vigore".
 
 > 2\. Le condotte indicate nel comma 1 sono accertate dal tribunale di sorveglianza, assunte le necessarie informazioni e sentito il pubblico ministero presso il giudice competente per i reati in ordine ai quali e' stata prestata la collaborazione.".
 
-#### ART. 22
+### ART. 22
 
 1\. Alla legge 7 agosto 1990, n. 241, sono apportate le seguenti modificazioni:
 
@@ -977,7 +971,7 @@ b) nel comma 1 dell'articolo 24, dopo le parole. "n. 801," sono inserite le segu
 
 > \- L'argomento del decreto legislativo 29 marzo 1993, n. 119, e' riportato in nota all'art. 6.
 
-#### ART. 23
+### ART. 23
 
 1\. I commi da 3 a 6 dell'articolo 8 del decreto-legge 13 maggio 1991, n. 152, convertito, con modificazioni, dalla legge 12 luglio 1991, n. 203, sono abrogati.
 
@@ -985,7 +979,7 @@ b) nel comma 1 dell'articolo 24, dopo le parole. "n. 801," sono inserite le segu
 
 > \- Il decreto-legge 13 maggio 1991, n. 152, convertito, con modificazioni, dalla legge 12 luglio 1991, n. 203, reca: "Provvedimenti urgenti in tema di lotta alla criminalita' organizzata e di trasparenza e buon andamento dell'attivita' amministrativa".
 
-#### ART. 24
+### ART. 24
 
 1\. All'articolo 12-sexies del decreto-legge 8 giugno 1992, n. 306, convertito, con modificazioni, dalla legge 7 agosto 1992, n. 356, e successive modificazioni, sono apportate le seguenti modificazioni:
 
@@ -1025,7 +1019,7 @@ b) dopo il comma 4 sono aggiunti i seguenti:
 
 > \- L'argomento della legge 31 maggio 1965, n. 575, e' riportato in nota all'art. 12.
 
-#### ART. 25
+### ART. 25
 
 1\. Le disposizioni di cui ai Capi II, II-bis e II-ter, fatta eccezione per quelle di cui all'articolo 16-quinquies, del decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, e successive modificazioni, si applicano anche alle persone che hanno gia' manifestato la volonta' di collaborare prima della data di entrata in vigore della presente legge.
 

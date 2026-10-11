@@ -27,11 +27,9 @@ Promulga
 
 la seguente legge:
 
-## Capo I
+## Capo I - Misure per l'aggregazione delle imprese minori e per il trasferimento generazionale delle competenze
 
-### Misure per l'aggregazione delle imprese minori e per il trasferimento - generazionale delle competenze
-
-#### Art. 1
+### Art. 1
 
 Agevolazioni fiscali per le reti di imprese
 
@@ -115,7 +113,7 @@ Agevolazioni fiscali per le reti di imprese
 
 > \- Il decreto del Presidente della Repubblica 29 settembre 1973, n. 600 recante: «Disposizioni comuni in materia di accertamento delle imposte sui redditi» e' pubblicato nella Gazzetta Ufficiale n.268 del 16 ottobre 1973.
 
-#### Art. 2
+### Art. 2
 
 Modifica all'articolo 43 del decreto-legge 19 maggio 2020, n. 34, in materia di Fondo per la salvaguardia dei livelli occupazionali e la prosecuzione dell'attivita' d'impresa
 
@@ -159,7 +157,7 @@ b) all'acquisizione delle imprese in stato di difficolta' economico-finanziaria 
 
 > 7\. Agli oneri di cui al comma 1, pari a 100 milioni di euro per l'anno 2020, si provvede: quanto a 30 milioni di euro per l'anno 2020 mediante utilizzo delle risorse rinvenienti dall'abrogazione della disposizione di cui al comma 6; quanto a 70 milioni di euro per l'anno 2020, ai sensi dell'articolo 265.».
 
-#### Art. 3
+### Art. 3
 
 Misure finanziarie per l'aggregazione
 
@@ -179,7 +177,7 @@ e per il sostegno al settore della moda
 
 > (Omissis).».
 
-#### Art. 4
+### Art. 4
 
 Riconoscimento delle centrali consortili quali enti mutualistici di sistema, nonche' delega al Governo per la disciplina degli enti medesimi
 
@@ -233,7 +231,7 @@ e) previsione dell'obbligo di certificazione del bilancio.
 
 > 4\. La Conferenza unificata di cui al comma 1 e' convocata dal Presidente del Consiglio dei Ministri. Le sedute sono presiedute dal Presidente del Consiglio dei Ministri o, su sua delega, dal Ministro per gli affari regionali o, se tale incarico non e' conferito, dal Ministro dell'interno.».
 
-#### Art. 5
+### Art. 5
 
 Ulteriori disposizioni in materia di consorzi
 
@@ -249,7 +247,7 @@ Ulteriori disposizioni in materia di consorzi
 
 > (Omissis).».
 
-#### Art. 6
+### Art. 6
 
 Part-time incentivato per l'accompagnamento
 
@@ -333,11 +331,9 @@ alla pensione e il ricambio generazionale
 
 > (Omissis).».
 
-## Capo II
+## Capo II - Accesso delle PMI al credito bancario e misure di semplificazione
 
-### Accesso delle PMI al credito bancario e misure di semplificazione
-
-#### Art. 7
+### Art. 7
 
 Delega al Governo sul riordino della disciplina dei confidi
 
@@ -377,7 +373,7 @@ f) favorire l'integrazione interconsortile dei confidi.
 
 > 3\. Il Ministro dell'economia e delle finanze, sentita la Banca d'Italia, specifica il contenuto delle attivita' indicate nel comma 1, nonche' in quali circostanze ricorra l'esercizio nei confronti del pubblico.».
 
-#### Art. 8
+### Art. 8
 
 Misure per favorire la valorizzazione a fini finanziari
 
@@ -435,11 +431,9 @@ c) all'articolo 7.2, la rubrica e' sostituita dalla seguente: «Cartolarizzazion
 
 > 2\. Per ogni operazione sono individuati i beni ed i diritti destinati al soddisfacimento dei diritti dei portatori dei titoli e delle controparti dei contratti derivati con finalita' di copertura dei rischi insiti nei crediti e nei titoli ceduti. I beni e i diritti individuati, le somme in qualsiasi modo derivanti dai medesimi beni, nonche' ogni altro diritto acquisito nell'ambito dell'operazione di cartolarizzazione dalle societa' di cui al comma 1 costituiscono patrimonio separato a tutti gli effetti da quello delle societa' stesse e da quello relativo alle altre operazioni. Su ciascun patrimonio separato non sono ammesse azioni da parte di qualsiasi creditore diverso dai portatori dei titoli emessi dalle societa' ovvero dai concedenti i finanziamenti da esse reperiti ovvero dalle controparti dei contratti derivati con finalita' di copertura dei rischi insiti nei crediti e nei titoli ceduti.».
 
-## Capo III
+## Capo III - Semplificazioni
 
-### Semplificazioni
-
-#### Art. 9
+### Art. 9
 
 Esonero dall'assicurazione obbligatoria per i carrelli elevatori e per altri veicoli utilizzati dalle imprese in aree ferroviarie, portuali e aeroportuali
 
@@ -467,7 +461,7 @@ Esonero dall'assicurazione obbligatoria per i carrelli elevatori e per altri vei
 
 > 5\. Qualora il veicolo responsabile del sinistro stazioni abitualmente in un altro Stato membro, il Fondo di garanzia di cui all'articolo 283 puo' presentare una richiesta di indennizzo nei confronti del fondo di garanzia nello Stato membro in cui il veicolo staziona abitualmente.».
 
-#### Art. 10
+### Art. 10
 
 Modelli semplificati di organizzazione e gestione in materia di salute e sicurezza sul luogo di lavoro, formazione dei lavoratori in cassa integrazione guadagni-CIG nonche' semplificazioni amministrative per le imprese agricole
 
@@ -611,7 +605,7 @@ b) all'articolo 37:
 
 > 10\. Al fine di incentivare l'utilizzo del mezzo telematico da parte delle imprese individuali, relativamente agli atti di cui al presente articolo, la misura dell'imposta di bollo di cui all'articolo 1, comma 1-ter, della tariffa annessa al decreto del Presidente della Repubblica 26 ottobre 1972, n. 642, come sostituita dal decreto del Ministro delle finanze 20 agosto 1992, e successive modificazioni, e' rideterminata, garantendo comunque l'invarianza del gettito, con decreto del Ministero dell'economia e delle finanze, di concerto con il Ministero dello sviluppo economico, da adottarsi entro quarantacinque giorni dalla data di entrata in vigore della legge di conversione del presente decreto.».
 
-#### Art. 11
+### Art. 11
 
 Salute e sicurezza per le prestazioni in modalita' agile
 
@@ -713,7 +707,7 @@ b) all'articolo 55, comma 5, lettera c), dopo le parole: «per la violazione» s
 
 > 6-bis. In caso di violazione delle disposizioni previste dall'articolo 18, comma 1, lettera g), e dall'articolo 37, commi 1, 7, 9 e 10, se la violazione si riferisce a piu' di cinque lavoratori gli importi della sanzione sono raddoppiati, se la violazione si riferisce a piu' di dieci lavoratori gli importi della sanzione sono triplicati.».
 
-#### Art. 12
+### Art. 12
 
 Verifiche di attrezzature
 
@@ -723,7 +717,7 @@ Verifiche di attrezzature
 
 > \- Per i riferimenti al decreto legislativo 9 aprile 2008, n. 81 si vedano le note all'articolo 11.
 
-#### Art. 13
+### Art. 13
 
 Operatori della distribuzione di prodotti alimentari
 
@@ -741,7 +735,7 @@ d) bar, caffe', pasticcerie, gelaterie e altre attivita' che somministrano princ
 
 2\. Ai fini di cui al comma 1, i ricavi dell'operatore della distribuzione di prodotti alimentari nel settore HORECA, negli ultimi tre periodi d'imposta, devono essere costituiti per almeno il 70 per cento dall'attivita' di distribuzione di prodotti alimentari e bevande in favore delle imprese operanti nei settori di cui al medesimo comma 1.
 
-#### Art. 14
+### Art. 14
 
 Modifica dei termini per l'esercizio da parte dei consorzi di sviluppo industriale della facolta' di riacquisto delle aree cedute e degli stabilimenti relativi alle attivita' cessate
 
@@ -767,7 +761,7 @@ b) al comma 2, le parole: «tre anni» sono sostituite dalle seguenti: «diciott
 
 > 5\. La Cassa depositi e prestiti e' autorizzata a concedere mutui ai consorzi di sviluppo industriale per la realizzazione di infrastrutture industriali e per l'acquisizione di aree e di immobili da destinare agli insediamenti produttivi.».
 
-#### Art. 15
+### Art. 15
 
 Delega al Governo per la riforma dell'artigianato
 
@@ -821,7 +815,7 @@ Decorso tale termine, i decreti legislativi possono essere comunque adottati.
 
 > 4\. In caso di motivata urgenza il Consiglio dei Ministri puo' provvedere senza l'osservanza delle disposizioni del presente articolo. I provvedimenti adottati sono sottoposti all'esame della Conferenza Stato-regioni nei successivi quindici giorni. Il Consiglio dei Ministri e' tenuto ad esaminare le osservazioni della Conferenza Stato-regioni ai fini di eventuali deliberazioni successive.».
 
-#### Art. 16
+### Art. 16
 
 Riferimento all'artigianato nella pubblicita'
 
@@ -853,7 +847,7 @@ Ai trasgressori delle disposizioni di cui al presente articolo e' irrogata dall'
 
 > Ai trasgressori delle disposizioni di cui al presente articolo e' irrogata dall'autorita' regionale competente la sanzione amministrativa consistente nel pagamento di una somma di denaro pari all'1 per cento del fatturato dell'impresa. La sanzione non puo' comunque essere inferiore a euro 25.000 per ogni violazione ed e' irrogata nel rispetto delle procedure di cui alla legge 24 novembre 1981, n. 689. Le regioni e le province autonome di Trento e di Bolzano adeguano la propria legislazione alle disposizioni di cui al presente comma e al comma ottavo.».
 
-#### Art. 17
+### Art. 17
 
 Modifica dell'articolo 7 della legge 16 agosto 1962, n. 1354, in materia di caratteristiche analitiche e requisiti della birra
 
@@ -867,11 +861,9 @@ Modifica dell'articolo 7 della legge 16 agosto 1962, n. 1354, in materia di cara
 
 > \- Il decreto del Presidente della Repubblica 30 dicembre 1970, n. 1498, recante: «Determinazione delle caratteristiche e dei requisiti dei diversi tipi di birra, a termini dell'art. 7 della L. 16 agosto 1962, n. 1354» e' pubblicato nella Gazzetta Ufficiale n. 217 del 28 agosto 1971.
 
-## Capo IV
+## Capo IV - Lotta alle false recensioni
 
-### Lotta alle false recensioni
-
-#### Art. 18
+### Art. 18
 
 Finalita'
 
@@ -937,7 +929,7 @@ Finalita'
 
 > \- Il regolamento (UE) 2022/2065 del Parlamento europeo e del Consiglio, del 19 ottobre 2022, relativo a un mercato unico dei servizi digitali e che modifica la direttiva 2000/31/CE (regolamento sui servizi digitali) e' pubblicato nella G.U.U.E. del 27 ottobre 2022.
 
-#### Art. 19
+### Art. 19
 
 Requisiti di liceita' delle recensioni e diritti
 
@@ -951,7 +943,7 @@ delle strutture recensite
 
 > \- Per i riferimenti al regolamento (UE) 2022/2065 del Parlamento europeo e del Consiglio, del 19 ottobre 2022, si veda nelle note all'articolo 18.
 
-#### Art. 20
+### Art. 20
 
 Divieti
 
@@ -1017,7 +1009,7 @@ Divieti
 
 > 15-bis. I consumatori lesi da pratiche commerciali sleali possono altresi' adire il giudice ordinario al fine di ottenere rimedi proporzionati ed effettivi, compresi il risarcimento del danno subito e, ove applicabile, la riduzione del prezzo o la risoluzione del contratto, tenuto conto, se del caso, della gravita' e della natura della pratica commerciale sleale, del danno subito e di altre circostanze pertinenti. Sono fatti salvi ulteriori rimedi a disposizione dei consumatori.».
 
-#### Art. 21
+### Art. 21
 
 Linee guida e monitoraggio
 
@@ -1031,13 +1023,13 @@ Linee guida e monitoraggio
 
 > \- Per i riferimenti al regolamento (UE) 2022/2065 del Parlamento europeo e del Consiglio, del 19 ottobre 2022, si veda nelle note all'articolo 18.
 
-#### Art. 22
+### Art. 22
 
 Disposizioni transitorie
 
 1\. Le disposizioni del presente capo non si applicano alle recensioni gia' pubblicate alla data di entrata in vigore della presente legge.
 
-#### Art. 23
+### Art. 23
 
 Clausola di invarianza finanziaria
 
@@ -1045,11 +1037,9 @@ Clausola di invarianza finanziaria
 
 2\. L'Autorita' garante della concorrenza e del mercato e l'Autorita' per le garanzie nelle comunicazioni svolgono le attivita' previste dal presente capo con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
-## Capo V
+## Capo V - Testo unico della disciplina in materia di start-up innovative
 
-### Testo unico della disciplina in materia di start-up innovative
-
-#### Art. 24
+### Art. 24
 
 Delega al Governo sul riordino della disciplina
 
@@ -1097,7 +1087,7 @@ e) riordino e riassetto della normativa vigente in materia di collaborazione tra
 
 > (Omissis).».
 
-#### Art. 25
+### Art. 25
 
 Modifiche alla disciplina del Garante per le micro,
 
@@ -1149,11 +1139,9 @@ b) al comma 5, l'ultimo periodo e' sostituito dal seguente: «Al fine di attivar
 
 > 6\. Il Garante di cui al comma 1 e' nominato con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro dello sviluppo economico, tra i dirigenti di prima fascia del Ministero dello sviluppo economico, si avvale per il proprio funzionamento delle strutture del medesimo Ministero e svolge i compiti di cui al presente articolo senza compenso aggiuntivo rispetto all'incarico dirigenziale attribuito. All'attuazione del presente articolo si provvede nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri a carico della finanza pubblica.».
 
-## Capo VI
+## Capo VI - Ulteriori disposizioni
 
-### Ulteriori disposizioni
-
-#### Art. 26
+### Art. 26
 
 Misure in favore dei centri urbani di medie dimensioni
 

@@ -30,19 +30,19 @@ la seguente legge:
 
 ## TITOLO I - L'ENASARCO
 
-##### Art. 1 - Natura giuridica e ordinamento
+#### Art. 1 - Natura giuridica e ordinamento
 
 L'Ente nazionale di assistenza per gli agenti e rappresentanti di commercio, ENASARCO, gia' riconosciuto con regio decreto 6 giugno 1939, n. 1305, e' dotato di personalita' giuridica di diritto pubblico ed e' sottoposto alla vigilanza del Ministero del lavoro e della previdenza sociale.
 
 Lo statuto che fissa l'ordinamento dell'Ente puo' essere modificato con decreto del Presidente della Repubblica su proposta del Ministro per il lavoro e la previdenza sociale di concerto con quello per il tesoro a seguito di delibera adottata dal consiglio di amministrazione dell'ENASARCO ai sensi dell'art. 6, punto 14, del decreto del Presidente della Repubblica 4 agosto 1971, n. 756.
 
-##### Art. 2 - Compiti
+#### Art. 2 - Compiti
 
 L'ENASARCO eroga agli agenti ed ai rappresentanti di commercio di cui agli articoli 1742 e 1752 del codice civile, la pensione di invalidita', vecchiaia e superstiti integrativa di quella istituita dalla legge 22 luglio 1966, n. 613.
 
 L'ENASARCO persegue inoltre con separate gestioni fini di formazione e qualificazione professionale in favore della categoria, nonche' di assistenza sociale in favore degli iscritti e provvede alla gestione dell'indennita' di scioglimento del contratto di agenzia.
 
-##### Art. 3 - Finanziamento
+#### Art. 3 - Finanziamento
 
 L'ENASARCO realizza i propri compiti mediante le seguenti entrate:
 
@@ -54,7 +54,7 @@ c) proventi derivanti da lasciti, donazioni e ogni altro atto di liberalita';
 
 d) somme dovute a qualsiasi titolo all'Ente.
 
-##### Art. 4 - Modi di investimento
+#### Art. 4 - Modi di investimento
 
 I fondi disponibili in relazione al versamento dei contributi di cui alla lettera a) dell'art. 3, o che si rendano disponibili in seguito a disinvestimenti, sono impiegati, secondo un piano determinato anno per anno e predisposto dal consiglio di amministrazione dell'ENASARCO secondo i criteri di cui all'art. 65 della legge 30 aprile 1969, n. 153, nelle seguenti forme:
 
@@ -74,11 +74,9 @@ g) altre forme autorizzate dalla legge o dai Ministeri competenti su proposta de
 
 ## TITOLO II - TRATTAMENTO PENSIONISTICO INTEGRATIVO
 
-### Capo I
+### Capo I - ISCRIZIONI E CONTRIBUTI
 
-#### ISCRIZIONI E CONTRIBUTI
-
-##### Art. 5 - Obbligo di iscrizione
+#### Art. 5 - Obbligo di iscrizione
 
 Sono obbligatoriamente iscritti al Fondo di previdenza, dell'ENASARCO tutti gli agenti ed i rappresentanti di commercio che operano sul territorio nazionale in nome e per conto di proponenti italiani o di proponenti stranieri che abbiano la sede o una qualsiasi dipendenza in Italia; sono altresi' obbligatoriamente iscritti all'ENASARCO gli agenti ed i rappresentanti di commercio italiani che operano all'estero nell'interesse di proponenti italiani.
 
@@ -90,7 +88,7 @@ All'iscrizione degli agenti e dei rappresentanti di commercio presso l'ENASARCO 
 
 L'ENASARCO accendera' un conto personale intestato ad ogni singolo agente o rappresentante di commercio, secondo le modalita' previste dal regolamento di esecuzione.
 
-##### Art. 6 - Misura dei contributi
+#### Art. 6 - Misura dei contributi
 
 Il contributo per la erogazione delle pensioni di cui all'art. 2, fissato nella misura del 3 per cento a carico del proponente e del 3 per cento a carico dell'agente e del rappresentante di commercio, si calcola su tutte le somme dovute a qualsiasi titolo all'agente o al rappresentante di commercio in dipendenza del rapporto di agenzia, nel limite inderogabile del massimale di lire 9.000.000 annue qualora l'agente o il rappresentante di commercio sia impegnato ad esercitare la sua attivita' per un solo preponente e di lire 7.500.000 per ciascun preponente in ogni altro caso. Il contributo non puo' comunque essere inferiore alle lire 60.000 annue per ciascun preponente nel primo caso ed alle lire 36.000 annue per ciascun preponente nel secondo caso. ((1))
 
@@ -120,7 +118,7 @@ b) massimali annui di contribuzione: L. 24.000.000 qualora l'agente o il rappres
 
 preponente in ogni altro caso."
 
-##### Art. 7 - Modalita' di pagamento
+#### Art. 7 - Modalita' di pagamento
 
 Il preponente e' responsabile del pagamento dei contributi anche per la parte a carico dell'agente e del rappresentante di commercio.
 
@@ -132,7 +130,7 @@ Le modalita' di accertamento e di riscossione dei contributi sono stabilite dal 
 
 I contributi dovuti si prescrivono con il decorso di 10 anni.
 
-##### Art. 8 - Prosecuzione volontaria
+#### Art. 8 - Prosecuzione volontaria
 
 Gli agenti ed i rappresentanti di commercio che dichiarino di aver cessato, temporaneamente o definitivamente, l'attivita' per qualsiasi causa possono chiedere di essere ammessi alla prosecuzione volontaria del versamento, ad esclusivo loro carico, dei contributi comprensivi anche della quota che in costanza del rapporto di agenzia e' a carico del proponente. Detta prosecuzione e' subordinata alla sussistenza del requisito di almeno cinque anni, anche non consecutivi, di anzianita' contributiva all'atto della sospensione dell'attivita' e sempreche' la richiesta di ammissione ai versamenti volontari sia effettuata entro due anni dalla fine di ciascun anno solare posteriore alla data di cessazione o sospensione dell'attivita'.
 
@@ -144,9 +142,9 @@ Le modalita' di versamento dei contributi volontari sono fissate dal regolamento
 
 Il diritto alla prosecuzione volontaria cessa allorche' risulti che gli agenti ed i rappresentanti di commercio abbiano ripreso la loro attivita' e, in ogni caso, con il conseguimento dei requisiti per ottenere le prestazioni previdenziali.
 
-## Capo II - PRESTAZIONI
+### Capo II - PRESTAZIONI
 
-##### Art. 9 - Prestazioni
+#### Art. 9 - Prestazioni
 
 Le prestazioni dell'ENASARCO consistono in:
 
@@ -168,7 +166,7 @@ E' facolta' dell'ENASARCO richiedere, al fine di controllare l'esattezza del per
 
 I versamenti per i quali non sia possibile documentare il periodo di riferimento sono considerati come afferenti all'anno in cui sono stati versati.
 
-##### Art. 10 - Pensioni di vecchiaia
+#### Art. 10 - Pensioni di vecchiaia
 
 Gli agenti ed i rappresentanti di commercio che abbiano compiuto il 60° anno di eta' se uomini e il 55° anno di eta' se donne e che abbiano maturato almeno 15 anni di anzianita' contributiva sul proprio conto personale acquisiscono il diritto ad una pensione annua di vecchiaia reversibile. La pensione e' pari a tanti quarantesimi del 70 per cento della piu' elevata tra le medie annue delle "provvigioni liquidate", per le quali siano stati effettivamente versati i contributi obbligatori o volontari, calcolata per ognuno dei periodi di tre anni consecutivi compresi nel decennio precedente l'ultimo versamento, per quanti sono gli anni di anzianita' contributiva fino ad un massimo di 40 quarantesimi.
 
@@ -190,17 +188,17 @@ La Corte Costituzionale con sentenza del 11 - 23 novembre 1999, n. 433 (in G.U. 
 
 calcolata sulla base della sola contribuzione minima."
 
-##### Art. 11 - Revisione delle pensioni liquidate
+#### Art. 11 - Revisione delle pensioni liquidate
 
 In caso di maturazione di contributi afferenti il periodo precedente la data del conseguimento del diritto a pensione, ma effettivamente versati all'ENASARCO dopo tale data, si procede alla fine di ciascun biennio alla revisione della pensione gia' liquidata, imputando ciascun versamento all'anno di riferimento e ricalcolando le medie triennali. Qualora risulti modificata la media assunta come base di calcolo, e' liquidata una nuova pensione con decorrenza dal primo giorno del mese successivo a quello del versamento che ha determinato la modificazione.
 
-##### Art. 12 - Supplemento di pensione
+#### Art. 12 - Supplemento di pensione
 
 Qualora a favore degli agenti e dei rappresentanti di commercio che abbiano conseguito il diritto a pensione venga istituita una nuova posizione assicurativa sia in dipendenza della prosecuzione di precedenti rapporti di agenzia sia per l'instaurazione di nuovi rapporti di agenzia, dopo due anni dalla data di conseguimento di detto diritto a pensione, gli agenti ed i rappresentanti di commercio possono chiedere la liquidazione di un supplemento di pensione; tale supplemento e' pari in ogni casi a due quarantesimi del 70 per cento della meta' di tutte le "provvigioni liquidate" nel biennio, in relazione alle quali siano stati effettivamente versati i contributi nel biennio stesso.
 
 Alla fine di ciascun biennio si provvede alla liquidazione di eventuali ulteriori supplementi di pensione ed alla revisione dei supplementi precedentemente liquidati qualora vengano accreditati nuovi contributi per il biennio gia' liquidato. La decorrenza della pensione revisionata e' fissata dal primo giorno del mese successivo a quello del versamento del contributo.
 
-##### Art. 13 - Pensione di invalidita' permanente totale
+#### Art. 13 - Pensione di invalidita' permanente totale
 
 Gli agenti ed i rappresentanti di commercio che abbiano subito una invalidita' permanente e assoluta, comportante lo scioglimento di tutti i contratti di agenzia o rappresentanza commerciale, e che possano far valere almeno cinque anni di anzianita' contributiva di cui uno nell'ultimo quinquennio, acquisiscono il diritto ad una pensione annua di invalidita' reversibile pari a tanti quarantesimi del 70 per cento della piu' elevata tra le medie annue delle "provvigioni liquidate", per le quali siano stati effettivamente versati i contributi, calcolate per ognuno dei periodi di tre anni consecutivi compresi nell'ultimo quinquennio, per quanti sono gli anni di anzianita' contributiva fino ad un massimo di quaranta quarantesimi.
 
@@ -212,7 +210,7 @@ Per la presentazione della domanda si applicano le disposizioni di cui all'artic
 
 La pensione di invalidita' decorre dal primo giorno del mese successivo a quello di presentazione della domanda. Ad essa e' applicabile il meccanismo di revisione di cui all'articolo 11.
 
-##### Art. 14 - Pensione di invalidita' permanente parziale
+#### Art. 14 - Pensione di invalidita' permanente parziale
 
 Gli agenti ed i rappresentanti di commercio che abbiano subito una invalidita' permanente, in misura pari almeno al 65 per cento della loro capacita' di guadagno in qualita' di agenti o rappresentanti e che possano far valere almeno cinque anni di anzianita' contributiva di cui almeno uno nell'ultimo quinquennio, hanno diritto ad una pensione di invalidita' calcolata come nell'articolo precedente, ridotta in proporzione al grado di riduzione della capacita' lavorativa.
 
@@ -220,13 +218,13 @@ Per la presentazione della domanda, la decorrenza e la revisione della pensione 
 
 Il pensionato di invalidita' permanente parziale ha diritto ai supplementi di pensione secondo i criteri previsti dall'articolo 12.
 
-##### Art. 15 - Revisione della pensione di invalidita
+#### Art. 15 - Revisione della pensione di invalidita
 
 Qualora lo stato di invalidita' pensionabile si modifichi, restando peraltro in grado superiore al 65 per cento, si procede alla proporzionale modificazione della pensione di invalidita'.
 
 Il diritto alla pensione di invalidita' cessa allorche' il grado di invalidita' si riduce al di sotto del 65 per cento.
 
-##### Art. 16 - Accertamento dello stato di invalidita
+#### Art. 16 - Accertamento dello stato di invalidita
 
 L'accertamento dello stato di invalidita' e' effettuato dall'ENASARCO.
 
@@ -238,11 +236,11 @@ Qualora, a richiesta dell'agente o del rappresentante di commercio, si proceda a
 
 L'ENASARCO ha la facolta' di sottoporre il pensionato per invalidita' a visite periodiche tendenti ad accertare il permanere dello stato di invalidita'. Il rifiuto a sottoporsi a tali visite e' motivo sufficiente per sospendere il pagamento delle rate di pensione.
 
-##### Art. 17 - Trasformazione della pensione di invalidita' nella pensione di vecchiaia
+#### Art. 17 - Trasformazione della pensione di invalidita' nella pensione di vecchiaia
 
 All'atto del raggiungimento del 60°, anno di eta' se uomini e del 55° anno di eta' se donne, e sempreche' sussista nel complesso il requisito di 15 anni di anzianita' contributiva, gli agenti ed i rappresentanti di commercio hanno diritto alla pensione piu' elevata tra quella di invalidita' gia' in godimento e quella di vecchiaia calcolata ai sensi dell'articolo 10 con riferimento all'intero periodo di iscrizione.
 
-##### Art. 18 - Pensione indiretta ai superstiti
+#### Art. 18 - Pensione indiretta ai superstiti
 
 In caso di morte dell'agente o del rappresentante di commercio non pensionato nei cui confronti sussisteva il requisito di almeno 15 anni di anzianita' contributiva o, alternativamente, di almeno 5 anni di anzianita' contributiva di cui uno nel quinquennio precedente il decesso, spetta ai superstiti indicati nell'articolo 20 una pensione annua indiretta pari a tanti quarantesimi del 70 per cento della piu' elevata tra le medie annue delle "provvigioni liquidate" determinate ai sensi dell'articolo 10, primo comma, o, in mancanza, della media di cui all'articolo 10, secondo comma, per quanti sono gli anni di
 
@@ -254,7 +252,7 @@ previsto dal terzo comma dell'articolo 10 della presente legge per le pensioni d
 
 Fermo restando il requisito dell'anzianita' contributiva minima di cui al primo comma, qualora nel quinquennio precedente la data della morte dell'agente o del rappresentante di commercio risultino versati almeno due anni di contribuzione anche non continuativi, spetta cumulativamente ai superstiti una pensione indiretta che non puo' essere inferiore ai 15 quarantesimi del 70 per cento della media di cui all'articolo 10, primo comma o, in mancanza, della media di cui all'articolo 10, secondo comma; e' salva in ogni caso l'applicazione del minimo di pensione di cui all'articolo 26.
 
-##### Art. 19 - Pensione di reversibilita' ai superstiti
+#### Art. 19 - Pensione di reversibilita' ai superstiti
 
 Ai superstiti, indicati nell'articolo 20, dell'agente o del rappresentante di commercio pensionato per invalidita' o vecchiaia spetta una pensione di reversibilita' commisurata alle aliquote riportate nello stesso articolo 21 della pensione goduta dall'agente o dal rappresentante di commercio.
 
@@ -264,7 +262,7 @@ La pensione di reversibilita' spettante cumulativamente ai superstiti non puo' e
 
 E' applicabile per la pensione di reversibilita' ai superstiti quanto previsto dal terzo comma dell'articolo 10 della presente legge per le pensioni di vecchiaia.
 
-##### Art. 20 - Superstiti
+#### Art. 20 - Superstiti
 
 Hanno diritto a pensione indiretta o di reversibilita' ai sensi degli articoli 18 e 19:
 
@@ -326,7 +324,7 @@ La Corte Costituzionale con sentenza del 28 maggio-10 giugno 1993, n. 274 (in G.
 
 la misura di tale reddito proprio."
 
-##### Art. 21 - Aliquote di riduzione della pensione ai superstiti
+#### Art. 21 - Aliquote di riduzione della pensione ai superstiti
 
 La pensione indiretta e di reversibilita' di cui agli articoli 18 e 19 e' determinata in base alle seguenti aliquote:
 
@@ -356,19 +354,19 @@ Nei casi in cui cessi il diritto di uno o piu' superstiti si procede alla revisi
 
 Il coniuge che concorra con i figli superstiti ha diritto all'attribuzione di una quota parte della pensione pari al doppio di quella spettante a ciascuno degli altri superstiti. In mancanza del coniuge la pensione e' ripartita in parti uguali tra gli aventi diritto.
 
-##### Art. 22 - Decorrenza della pensione ai superstiti
+#### Art. 22 - Decorrenza della pensione ai superstiti
 
 Le pensioni indirette e di reversibilita' decorrono dal primo giorno del mese successivo a quello in cui e' avvenuta la morte dell'agente o del rappresentante di commercio.
 
 Ad esse e' applicabile il meccanismo di revisione di cui all'articolo 11.
 
-##### Art. 23 - Termini di pagamento
+#### Art. 23 - Termini di pagamento
 
 La pensione e' corrisposta in 13 mensilita' a rate bimestrali anticipate entro la prima quindicina dei mesi di febbraio, aprile, giugno, agosto, ottobre e dicembre.
 
 La tredicesima mensilita' e' corrisposta entro la prima quindicina di dicembre.
 
-##### Art. 24 - Variazione della misura delle pensioni in rapporto al costo della vita
+#### Art. 24 - Variazione della misura delle pensioni in rapporto al costo della vita
 
 Gli importi delle pensioni di vecchiaia, invalidita' e superstiti erogati dall'ENASARCO, ivi compresi i trattamenti minimi, sono aumentati in misura percentuale pari all'aumento percentuale dell'indice del costo della vita calcolato dall'Istituto centrale di statistica ai fini della scala mobile delle retribuzioni per i lavoratori dell'industria, sempreche' tale aumento raggiunga la misura del 12%.
 
@@ -378,7 +376,7 @@ Alle pensioni liquidate nel periodo di tempo trascorso per raggiungere l'aumento
 
 La variazione percentuale d'aumento dell'indice di cui al primo comma e' accertata con decreto del Ministro per il lavoro e la previdenza sociale.
 
-##### Art. 25 - Riduzione dell'importo delle pensioni
+#### Art. 25 - Riduzione dell'importo delle pensioni
 
 Qualora dalla liquidazione della pensione di vecchiaia risulti un ammontare annuo della pensione in misura superiore a lire 5.000.000 sono operate le seguenti riduzioni:
 
@@ -394,19 +392,19 @@ Qualora dalla liquidazione della pensione di vecchiaia risulti un ammontare annu
 
 20% sulle somme in eccedenza a L. 10.000.001.
 
-##### Art. 26 - Minimi di pensione
+#### Art. 26 - Minimi di pensione
 
 L'ammontare minimo delle pensioni di vecchiaia, invalidita' totale e superstiti, salva l'applicazione del meccanismo di cui all'articolo 24, e' fissato in lire 25.000 mensili per tredici mensilita' all'anno.
 
 Per le pensioni di invalidita' parziale, esso e' ridotto in proporzione al grado di invalidita'.
 
-##### Art. 27 - Destinazione degli utili e bilancio tecnico
+#### Art. 27 - Destinazione degli utili e bilancio tecnico
 
 Gli utili netti della gestione sono accreditati al Fondo di previdenza.
 
 Almeno ogni quattro anni deve essere compilato il bilancio tecnico del Fondo, copia del quale deve essere inviata al Ministero del lavoro e della previdenza sociale.
 
-##### Art. 28 - Disponibilita' dei crediti degli iscritti
+#### Art. 28 - Disponibilita' dei crediti degli iscritti
 
 I crediti degli iscritti verso l'ENASARCO non sono cedibili, ne' sequestrabili, ne' pignorabili. ((7))
 
@@ -422,25 +420,25 @@ La Corte Costituzionale con sentenza del 22 - 26 giugno 2009, n. 183 (in G.U. 1/
 
 per gli agenti e rappresentanti del quinto della residua parte."
 
-##### Art. 29 - Addebiti e prestiti
+#### Art. 29 - Addebiti e prestiti
 
 Gli agenti ed i rappresentanti di commercio sul cui conto siano stati annotati addebiti per prestiti non restituiti all'ENASARCO, hanno la facolta', da esercitarsi entro un anno dall'entrata in vigore della presente legge, di versare all'ente l'importo addebitato.
 
 Qualora gli agenti ed i rappresentanti di commercio non si avvalgano della facolta' di cui al comma precedente, in sede di calcolo della pensione, l'importo addebitato non e' portato in detrazione ai fini della determinazione della provvigione media, ma la somma non restituita e' trattenuta sino ad un massimo di 36 rate uguali sulle mensilita' di pensione.
 
-##### Art. 30 - Prescrizione
+#### Art. 30 - Prescrizione
 
 Le rate di pensione non riscosse si prescrivono entro 5 anni dal giorno della loro scadenza.
 
-##### Art. 31 - Riliquidazioni delle pensioni in atto
+#### Art. 31 - Riliquidazioni delle pensioni in atto
 
 Le pensioni in godimento ai sensi del decreto del Presidente della Repubblica 30 aprile 1968, n. 758, alla data di entrata in vigore della presente legge sono riliquidate in base ai criteri stabiliti dagli articoli precedenti.
 
 Il pensionato conserva il precedente trattamento se piu' favorevole, salva comunque l'applicazione degli articoli 11, 12, 24, 25 e 26 della presente legge.
 
-## Capo III - RICORSI E VIGILANZA
+### Capo III - RICORSI E VIGILANZA
 
-##### Art. 32 - Ricorsi
+#### Art. 32 - Ricorsi
 
 Sui ricorsi concernenti l'applicazione della presente legge decide, con provvedimento definitivo, il consiglio di amministrazione dell'ENASARCO sentito un comitato istruttorio, presieduto dal presidente dell'ente medesimo o da un suo delegato, e composto da quattro membri del consiglio di amministrazione nominati dal consiglio stesso.
 
@@ -458,7 +456,7 @@ La decisione del consiglio di amministrazione deve essere comunicata entro i 90 
 
 Trascorso tale termine, senza che la decisione sia stata comunicata, l'interessato ha facolta' di adire l'autorita' giudiziaria.
 
-##### Art. 33 - Sanzioni
+#### Art. 33 - Sanzioni
 
 Il preponente che non provvede al pagamento dei contributi nel termine stabilito o vi provvede in misura inferiore a quella dovuta e' punito con l'ammenda da lire 1.000 a lire 20.000 per ogni agente o rappresentante di commercio per il quale abbia omesso, in tutto o in parte, il pagamento del contributo. In caso di recidiva la pena e' dell'ammenda da lire 2.000 a lire 40.000.
 
@@ -472,7 +470,7 @@ Il preponente che fornisce ai funzionari ed agli agenti incaricati della sorvegl
 
 I proventi delle sanzioni amministrative sono destinati alla realizzazione dei fini di assistenza e di istruzione professionale dell'ENASARCO.
 
-##### Art. 34 - Oblazione
+#### Art. 34 - Oblazione
 
 Nelle contravvenzioni alle norme della presente legge il contravventore, previo pagamento dei contributi e delle somme dovute all'ENASARCO ai sensi del precedente articolo 33, e' ammesso a pagare, prima dell'apertura del dibattimento, ovvero prima del decreto di condanna, una somma corrispondente alla terza parte del massimo della pena stabilita per le contravvenzioni commesse, oltre le spese del procedimento.
 
@@ -480,7 +478,7 @@ Il pagamento estingue il reato.
 
 Nel caso in cui la contravvenzione riguardi contributi non pagati, l'ENASARCO puo' ridurre la somma aggiuntiva dovuta a norma del secondo comma dello articolo precedente.
 
-##### Art. 35 - Vigilanza
+#### Art. 35 - Vigilanza
 
 La vigilanza sull'applicazione delle norme di questo titolo e relative norme di attuazione, spetta al Ministero del lavoro e della previdenza sociale, che la esercita a mezzo dell'ispettorato del lavoro.
 
@@ -488,13 +486,13 @@ Ai fini dell'accertamento dei contributi dovuti dai proponenti all'ENASARCO sono
 
 A tal fine il preponente e' tenuto ad esibire all'Ente ed ai suoi incaricati tutti i documenti amministrativi e contabili che comunque interessino il rapporto con l'agente o con il rappresentante di commercio.
 
-## Capo IV - NORME TRANSITORIE E FINALI
+### Capo IV - NORME TRANSITORIE E FINALI
 
-##### Art. 36 - Contributi liquidati
+#### Art. 36 - Contributi liquidati
 
 Ai fini della determinazione dell'"anzianita' contributiva" di cui all'articolo 9, secondo comma, lettera a) non sono coperti da contributi gli anni i cui contributi risultano comunque interamente liquidati.
 
-##### Art. 37 - Contributi volontari e per trasferimenti dal fondo indennita' per scioglimento del contratto
+#### Art. 37 - Contributi volontari e per trasferimenti dal fondo indennita' per scioglimento del contratto
 
 I versamenti volontari eseguiti dagli agenti e dai rappresentanti di commercio a norma degli articoli 6, 7 e 24 del regolamento del fondo di previdenza, approvato con decreto ministeriale del 10 settembre 1962, sono computabili ai fini della determinazione delle provvigioni liquidate e sono considerati come riferiti all'anno in cui e' stato effettuato il versamento volontario.
 
@@ -508,29 +506,29 @@ La Corte Costituzionale con sentenza del 11 - 23 novembre 1999, n. 433 (in G.U. 
 
 calcolata sulla base della sola contribuzione minima."
 
-##### Art. 38 - Ricostruzione della posizione previdenziale
+#### Art. 38 - Ricostruzione della posizione previdenziale
 
 L'importo derivante dalla liquidazione della polizza di assicurazione accesa a copertura dei contributi pervenuti all'ENASARCO, versato sul conto individuale posteriormente al giugno 1950, e' computabile, ai fini della determinazione dell'anzianita' contributiva, con riferimento all'anno in cui i singoli versamenti sono pervenuti all'ENASARCO.
 
 I contributi per i quali era possibile il trasferimento ai sensi dell'articolo 5 del decreto del Presidente della Repubblica 30 aprile 1968, n. 758, sul conto individuale, e che non siano stati liquidati entro il 7 luglio 1970, vengono considerati ai fini della determinazione della anzianita' contributiva come riferiti all'anno in cui il versamento dei contributi e' pervenuto all'ENASARCO, se precedenti il giugno 1950, o all'anno per il quale i contributi sono stati versati, se successivi al giugno 1950.
 
-##### Art. 39 - Ricostruzione delle posizioni liquidate dall'8 luglio 1970
+#### Art. 39 - Ricostruzione delle posizioni liquidate dall'8 luglio 1970
 
 Gli agenti ed i rappresentanti di commercio che hanno richiesto la liquidazione del loro conto dall'8 luglio 1970, per il fatto di non aver raggiunto l'anzianita' contributiva minima per il diritto alla pensione di vecchiaia a causa del mancato esercizio della facolta' di cui allo articolo 5 del decreto del Presidente della Repubblica 30 aprile 1968, n. 758, possono, previo rimborso del capitale liquidato, ricostruire la loro posizione previdenziale esistente alla data della liquidazione.
 
-##### Art. 40 - Regolamento di esecuzione
+#### Art. 40 - Regolamento di esecuzione
 
 Entro un anno dall'entrata in vigore della presente legge verra' emanato il regolamento di esecuzione con decreto del Ministro per il lavoro e la previdenza sociale, sentito il consiglio di amministrazione dell'ENASARCO.
 
 In attesa della emanazione del regolamento di esecuzione, trovano applicazione le norme del decreto del Presidente della Repubblica 30 aprile 1968, n. 758, in quanto compatibili con la presente legge.
 
-##### Art. 41
+#### Art. 41
 
 La presente legge entra in vigore dal 1 gennaio 1973.
 
-## Capo IV - NORME TRANSITORIE E FINALI
+### Capo IV - NORME TRANSITORIE E FINALI
 
-##### Tabella A
+#### Tabella A
 
 TABELLA A
 

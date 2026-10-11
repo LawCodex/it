@@ -25,23 +25,21 @@ PROMULGA
 
 la seguente legge:
 
-## Titolo primo
+## Titolo primo - MODIFICAZIONI RIGUARDANTI IL REGIO DECRETO 28 MARZO 1929, N. 499
 
-### MODIFICAZIONI RIGUARDANTI IL REGIO DECRETO 28 MARZO 1929, N. 499
-
-#### Art. 1
+### Art. 1
 
 L'articolo 4 del regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "Fermo il disposto dell'articolo 1350, n. 11), del codice civile, non puo' essere iscritto alcun diritto sui beni assegnati ad un condividente se la divisione non sia stata iscritta nel libro fondiario".
 
-#### Art. 2
+### Art. 2
 
 Il primo comma dell'articolo 5 del regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "Chi pretende di avere acquistato la proprieta' o un altro diritto reale su beni immobili per usucapione o per altro modo di acquisto originario, puo' ottenerne l'iscrizione nel libro fondiario sulla base di una sentenza passata in giudicato che gli riconosca il diritto stesso".
 
-#### Art. 3
+### Art. 3
 
 L'articolo 7 del regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
@@ -49,7 +47,7 @@ L'articolo 7 del regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente
 
 Non sono percio' applicabili, in quanto si riferiscano a tali diritti, le disposizioni del codice civile incompatibili con dette norme, e in particolare gli articoli 534, 561, 563, 1445 e 2652, salvo quanto e' disposto dall'articolo 20 della legge generale sui libri fondiari circa l'annotazione delle domande di impugnativa".
 
-#### Art. 4
+### Art. 4
 
 L'articolo 8 del regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
@@ -57,7 +55,7 @@ L'articolo 8 del regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente
 
 Si applicano altresi' le norme del codice civile relative alla restituzione dei frutti e al rimborso delle spese e dei miglioramenti".
 
-#### Art. 5
+### Art. 5
 
 L'articolo 9 del regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
@@ -65,13 +63,13 @@ L'articolo 9 del regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente
 
 In questo caso resta salva la responsabilita' del venditore che abbia dichiarato specificamente che la cosa e' libera da oneri o da diritti altrui".
 
-#### Art. 6
+### Art. 6
 
 L'articolo 10 del regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "L'effetto dell'iscrizione dell'ipoteca cessa, se non rinnovata ai termini degli articoli 2847 e seguenti del codice civile".
 
-#### Art. 7
+### Art. 7
 
 L'articolo 11 del regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
@@ -95,7 +93,7 @@ g) il rappresentante degli obbligazionisti nominato a sensi dell'articolo 2417 d
 
 Nei territori di cui all'articolo 1 non si applicano le disposizioni dell'articolo 484 del codice civile per quanto concerne l'obbligo della trascrizione della dichiarazione di accettazione col beneficio d'inventario".
 
-#### Art. 8
+### Art. 8
 
 L'articolo 12 del regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
@@ -103,7 +101,7 @@ L'articolo 12 del regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguent
 
 Tutti i richiami di leggi o decreti a trascrizioni, iscrizioni o annotazioni nei registri immobiliari si intendono riferiti alle corrispondenti intavolazioni, prenotazioni o annotazioni previste dalla legge generale sui libri fondiari mantenuta in vigore con l'articolo 1 del presente decreto, in quanto non vi osti la diversa natura delle iscrizioni".
 
-#### Art. 9
+### Art. 9
 
 Il primo e l'ultimo comma dell'articolo 13 del regio decreto 28 marzo 1929, n. 499, sono sostituiti, rispettivamente, dai seguenti:
 
@@ -111,13 +109,13 @@ Il primo e l'ultimo comma dell'articolo 13 del regio decreto 28 marzo 1929, n. 4
 
 Sono applicabili alle richieste dei certificati di eredita' e di legato le disposizioni dell'articolo 49, primo comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 637".
 
-#### Art. 10
+### Art. 10
 
 Dopo l'articolo 13 del regio decreto 28 marzo 1929, n. 499, viene inserito il seguente articolo 13-bis:
 
 "Se il chiamato ha accettato l'eredita', il certificato di cui all'articolo precedente puo' essere chiesto anche dai terzi che vi abbiano interesse".
 
-#### Art. 11
+### Art. 11
 
 L'articolo 14 del regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
@@ -127,7 +125,7 @@ Il richiedente deve fornire tutte le indicazioni necessarie per dimostrare il bu
 
 Il richiedente deve dichiarare se sia o no pendente una lite sul diritto a succedere".
 
-#### Art. 12
+### Art. 12
 
 Il primo e il terzo comma dell'articolo 15 del regio decreto 28 marzo 1929, n. 499, sono sostituiti, rispettivamente, dai seguenti:
 
@@ -135,7 +133,7 @@ Il primo e il terzo comma dell'articolo 15 del regio decreto 28 marzo 1929, n. 4
 
 Il richiedente deve dichiarare se sia o no pendente una lite sul diritto a succedere".
 
-#### Art. 13
+### Art. 13
 
 L'articolo 16 del regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
@@ -145,13 +143,13 @@ Il pretore puo' disporre, a cura e spese del richiedente e nei modi ritenuti piu
 
 Il richiedente, se giura il falso, e' punito a termini dell'articolo 371 del codice penale".
 
-#### Art. 14
+### Art. 14
 
 All'articolo 17 del regio decreto 28 marzo 1929, n. 499, e' aggiunto il seguente terzo comma:
 
 "I documenti allegati al ricorso non sono restituiti, salva, per quelli prodotti in originale, la facolta' di sostituirli con copia autentica".
 
-#### Art. 15
+### Art. 15
 
 L'articolo 18 del regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
@@ -159,7 +157,7 @@ L'articolo 18 del regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguent
 
 Se il certificato e' stato chiesto da un coerede, gli altri, prima della pronuncia del decreto, possono domandarne l'estensione anche ai propri diritti".
 
-#### Art. 16
+### Art. 16
 
 L'articolo 20 del regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
@@ -167,7 +165,7 @@ L'articolo 20 del regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguent
 
 La revoca del certificato e' comunicata agli interessati e annotata d'ufficio nel libro fondiario".
 
-#### Art. 17
+### Art. 17
 
 L'articolo 21 del regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
@@ -175,23 +173,21 @@ L'articolo 21 del regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguent
 
 Non puo' essere considerato erede o legatario apparente ai sensi e per gli effetti degli articoli 534 e 2652, n. 7, del codice civile, in quanto applicabili, o possessore in buona fede, ai sensi e per gli effetti dell'articolo 535 dello stesso codice, chi non sia in possesso del certificato rilasciato secondo le norme del presente decreto".
 
-#### Art. 18
+### Art. 18
 
 Il secondo comma dell'articolo 22 del regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "A tale effetto egli deve allegare al ricorso il certificato di morte del testatore e una copia autentica del testamento in virtu' del quale egli vanta il suo diritto".
 
-#### Art. 19
+### Art. 19
 
 Il primo comma dell'articolo 23 del regio decreto 23 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "Il procedimento dinanzi al pretore e' regolato dalle disposizioni comuni ai procedimenti in camera di consiglio, previsti dal codice di procedura civile, in quanto applicabili".
 
-## Titolo secondo
+## Titolo secondo - MODIFICAZIONI RIGUARDANTI IL NUOVO TESTO DELLA LEGGE GENERALE SUI LIBRI FONDIARI, ALLEGATO AL REGIO DECRETO 28 MARZO 1929, N. 499.
 
-### MODIFICAZIONI RIGUARDANTI IL NUOVO TESTO DELLA LEGGE GENERALE SUI - LIBRI FONDIARI, ALLEGATO AL REGIO DECRETO 28 MARZO 1929, N. 499.
-
-#### Art. 20
+### Art. 20
 
 Il terzo comma dell'articolo 7 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
@@ -199,13 +195,13 @@ Il terzo comma dell'articolo 7 del nuovo testo della legge generale sui libri fo
 
 Nelle copie e negli estratti non deve essere fatta menzione delle iscrizioni non rinnovate a termini dell'articolo 2347 del codice civile".
 
-#### Art. 21
+### Art. 21
 
 L'articolo 9 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "Nel libro fondiario possono essere intavolati o prenotati, in quanto si riferiscono a beni immobili, solamente il diritto di proprieta', le servitu', il diritto di usufrutto, salvo quello previsto al successivo articolo 20, lettera a), i diritti di uso, di abitazione, di enfiteusi, di superficie, di ipoteca, i privilegi, per i quali leggi speciali richiedano l'iscrizione nei registri immobiliari, e ali oneri reali".
 
-#### Art. 22
+### Art. 22
 
 Il secondo ed il terzo comma dell'articolo 10 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, sono sostituiti dai seguenti:
 
@@ -213,13 +209,13 @@ Il secondo ed il terzo comma dell'articolo 10 del nuovo testo della legge genera
 
 Nel foglio di consistenza del corpo tavolare si descriveranno le singole parti dell'edificio con richiamo alla planimetria allo stesso allegata ed i diritti e gli aggravi derivanti dai rapporti di promiscuita' delle singole parti dell'edificio".
 
-#### Art. 23
+### Art. 23
 
 All'articolo 12 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' aggiunto il seguente comma:
 
 "Per le servitu' che non gravano l'intera particella, dovra' essere allegata all'atto una planimetria in scala di mappa o maggiore, dalla quale risulti chiaramente l'estensione dell'esercizio del diritto".
 
-#### Art. 24
+### Art. 24
 
 Il secondo e il terzo comma dell'articolo 15 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, sono sostituiti dai seguenti:
 
@@ -227,13 +223,13 @@ Il secondo e il terzo comma dell'articolo 15 del nuovo testo della legge general
 
 La surrogazione prevista dall'articolo 2843 del codice civile e' intavolata a domanda delle parti ed a seguito della produzione del progetto di distribuzione approvato o comunque divenuto definitivo a sensi dell'articolo 598 del codice di procedura civile. Se dallo stesso non risulta la somma per la quale il creditore e' rimasto perdente, la somma e' indicata dal richiedente nella domanda, salva la facolta' di esperire la procedura di riduzione ai sensi dell'ultimo comma dell'articolo che precede".
 
-#### Art. 25
+### Art. 25
 
 L'articolo 16 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "Gli interessi prodotti da un credito garantito con privilegio o ipoteca e le spese previste dagli articoli 2749 e 2855 del codice civile hanno lo stesso grado del capitale entro i limiti previsti dagli articoli medesimi".
 
-#### Art. 26
+### Art. 26
 
 L'articolo 19 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
@@ -263,7 +259,7 @@ b) la cessione dei beni ai creditori, agli effetti dell'articolo 2649 del codice
 
 La mancanza dell'annotazione non puo' essere opposta dalle persone che avevano l'obbligo di farla eseguire o dai loro eredi".
 
-#### Art. 27
+### Art. 27
 
 Le lettere a), c), f), g) e h) dell'articolo 20 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, sono sostituite, rispettivamente, dalle seguenti:
 
@@ -277,41 +273,41 @@ g) le domande e gli atti indicati dagli articoli 2652 e 2653 del codice civile a
 
 h) ogni altro atto o fatto, riferentesi a beni immobili, per il quale le leggi estese, quelle anteriori mantenute in vigore o quelle successive richiedano o ammettano la pubblicita', a meno che questa debba eseguirsi nelle forme dell'articolo 9 della presente legge".
 
-#### Art. 28
+### Art. 28
 
 All'articolo 21 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' aggiunto il seguente comma:
 
 "In caso di morte del titolare di un diritto tavolare, le domande giudiziali, di cui sia ammessa l'annotazione, possono essere annotate anche prima dell'iscrizione del diritto al nome del successore".
 
-#### Art. 29
+### Art. 29
 
 Il terzo comma dell'articolo 26 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "La rinnovazione delle ipoteche e' ordinata su semplice domanda, purche' questa venga prodotta entro il termine di cui all'articolo 2847 del codice civile".
 
-#### Art. 30
+### Art. 30
 
 L'articolo 27 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "I documenti in base ai quali si chiede un'iscrizione devono essere esenti da vizi visibili che ne diminuiscano l'attendibilita'. Le persone devono essere identificate in modo tale da non poter essere scambiate con altre. Nel documento devono pure indicarsi il luogo, il giorno, il mese e l'anno in cui fu formato".
 
-#### Art. 31
+### Art. 31
 
 Il secondo comma dell'articolo 30 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "A tal uopo e' necessario il consenso del titolare del diritto postergato. Se il diritto postergato e' gravato dal diritto di un terzo, e' necessario anche il suo consenso. La estensione ed il grado degli altri diritti tavolari restano invariati".
 
-#### Art. 32
+### Art. 32
 
 Il secondo comma dell'articolo 31 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' abrogato.
 
-#### Art. 33
+### Art. 33
 
 Il secondo comma dell'articolo 32 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "Gli atti posti in essere fuori del territorio della Repubblica devono essere legalizzati dall'autorita' diplomatica o consolare, salve le eccezioni stabilite dalla legge e dai trattati internazionali".
 
-#### Art. 34
+### Art. 34
 
 L'articolo 33 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
@@ -331,13 +327,13 @@ L'ipoteca legale dello Stato sopra i beni dei condannati per tutti gli effetti d
 
 L'ipoteca giudiziale, di cui agli articoli da 2818 a 2820 del codice civile, puo' intavolarsi in forza delle sentenze passate in giudicato e dei provvedimenti definitivi che la consentono".
 
-#### Art. 35
+### Art. 35
 
 L'articolo 34 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "I diritti tavolari limitati alla durata della vita di una persona possono essere cancellati in forza del certificato di morte dell'avente diritto oppure in forza della dichiarazione di morte presunta del medesimo".
 
-#### Art. 36
+### Art. 36
 
 Il primo ed il secondo comma dell'articolo 38 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, sono sostituiti dai seguenti:
 
@@ -345,13 +341,13 @@ Il primo ed il secondo comma dell'articolo 38 del nuovo testo della legge genera
 
 L'ipoteca legale dello Stato, di cui al secondo comma dell'articolo 33, puo' prenotarsi anche prima della condanna, in conformita' dell'articolo 616 del codice di procedura penale".
 
-#### Art. 37
+### Art. 37
 
 L'articolo 39 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "Se il debitore ipotecario ha eseguito l'offerta reale ed il deposito dell'intera somma dovuta, puo' essere ordinata la prenotazione della cancellazione dell'ipoteca sulla base del processo verbale di offerta reale e di quello di deposito previsto dall'articolo 1212, n. 3), del codice civile".
 
-#### Art. 38
+### Art. 38
 
 Le lettere b) e c) dell'articolo 41 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, sono sostituite dalle seguenti:
 
@@ -359,7 +355,7 @@ Le lettere b) e c) dell'articolo 41 del nuovo testo della legge generale sui lib
 
 c) nel caso di cui al capoverso dell'articolo 38, dalla sentenza, indicata nel secondo comma dell'articolo 33 o dall'atto provante che il decreto di condanna e' divenuto esecutivo".
 
-#### Art. 39
+### Art. 39
 
 Il secondo e l'ultimo comma dell'articolo 52-bis del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, sono sostituiti, rispettivamente, dai seguenti:
 
@@ -367,7 +363,7 @@ Il secondo e l'ultimo comma dell'articolo 52-bis del nuovo testo della legge gen
 
 Per ottenere la cancellazione dell'annotazione della separazione occorre il consenso di coloro che l'hanno conseguita, risultante da atto pubblico o da scrittura privata con firme autenticate, oppure la produzione di una sentenza passata in giudicato, che dichiari cessata la separazione per i motivi di cui all'articolo 515 del codice civile, o insussistente la pretesa del creditore o legatario a conseguire la separazione".
 
-#### Art. 40
+### Art. 40
 
 Nel nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, sono inseriti i seguenti articoli:
 
@@ -389,19 +385,19 @@ Art. 57. - A richiesta della parte che ha ottenuto la iscrizione del suo diritto
 
 Art. 58. - Prima del decorso del termine stabilito nell'articolo 55, la cancellazione dell'annotazione dell'ordine di grado puo' essere concessa solo se viene prodotta la copia autentica del decreto che l'ha ordinata, sulla quale deve essere indicata l'avvenuta cancellazione".
 
-#### Art. 41
+### Art. 41
 
 L'articolo 60 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "Il terzo che abbia acquistato diritti sull'immobile ipotecato dopo l'annotazione della domanda giudiziale contro il debitore, non e' ammesso ad opporre, quando sia pronunciata la condanna del debitore, le eccezioni previste dall'articolo 2859, primo comma, del codice civile".
 
-#### Art. 42
+### Art. 42
 
 Il primo comma dell'articolo 63 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "Salvo quanto e' disposto nell'articolo 64-bis, chi intende impugnare anche in confronto di terzi un'intavolazione, la cui concessione gli sia stata notificata, deve domandare al giudice tavolare l'annotazione della litigiosita' dell'intavolazione entro il termine di reclamo contro il decreto che l'ha concessa. Deve pure promuovere, o contemporaneamente o al piu' tardi entro sessanta giorni decorrenti dalla scadenza del termine di reclamo, l'azione di cancellazione contro tutti coloro che, per effetto dell'impugnata intavolazione, hanno acquistato un diritto tavolare oppure hanno conseguito sul medesimo ulteriori intavolazioni o prenotazioni".
 
-#### Art. 43
+### Art. 43
 
 L'articolo 64 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
@@ -409,7 +405,7 @@ L'articolo 64 del nuovo testo della legge generale sui libri fondiari, allegato 
 
 Se un'intavolazione concessa in base ad una donazione sia impugnata con una domanda di riduzione per lesione di legittima, il termine indicato nel comma precedente decorre dal giorno dell'apertura della successione".
 
-#### Art. 44
+### Art. 44
 
 Dopo l'articolo 64 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, viene inserito il seguente articolo 64-bis.
 
@@ -419,7 +415,7 @@ Se un'intavolazione concessa in forza di un certificato di eredita' o di legato 
 
 Se un'intavolazione sia impugnata con una domanda di risoluzione del contratto o con una delle domande indicate dal secondo comma dell'articolo 648 e dall'ultimo comma dell'articolo 793 del codice civile, con una domanda di rescissione o con una domanda di revocazione delle donazioni, la cancellazione dell'intavolazione non puo' essere chiesta nei confronti dei terzi che abbiano acquistato diritti tavolari prima dell'annotazione della domanda".
 
-#### Art. 45
+### Art. 45
 
 Nel nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' inserito il seguente articolo:
 
@@ -427,7 +423,7 @@ Nel nuovo testo della legge generale sui libri fondiari, allegato al regio decre
 
 Se l'attore recede dall'azione oppure se la medesima viene respinta con sentenza passata in giudicato, si applica la disposizione dell'articolo 65, primo comma".
 
-#### Art. 46
+### Art. 46
 
 L'articolo 74 del nuovo testo della legge sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
@@ -435,35 +431,35 @@ L'articolo 74 del nuovo testo della legge sui libri fondiari, allegato al regio 
 
 L'escorporazione di un piano, alloggio, locale, area o dipendenza immobiliare atti a separata utilizzazione puo' ordinarsi solo sulla base di una planimetria, dalla quale ne risulti chiaramente la descrizione. Questa planimetria deve essere attestata conforme al vero da un tecnico autorizzato".
 
-#### Art. 47
+### Art. 47
 
 L'articolo 76 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "Salve le eccezioni disposte dalla legge, il giudice tavolare ordina le iscrizioni su domanda di chi abbia un legittimo interesse oppure di coloro che siano obbligati dalla legge a promuovere l'iscrizione".
 
-#### Art. 48
+### Art. 48
 
 L'articolo 77 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' abrogato.
 
-#### Art. 49
+### Art. 49
 
 Il primo comma dell'articolo 84 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "Ogni domanda tavolare deve indicare, oltre all'ufficio a cui e' diretta, nome, cognome, data, luogo di nascita e residenza dell'istante, nome cognome e residenza delle persone alle quali la relativa decisione deve essere notificata".
 
-#### Art. 50
+### Art. 50
 
 Il secondo comma dell'articolo 87 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "Ai documenti originali, quando questi siano conservati presso notai o pubblici uffici, sono equiparate le copie autentiche rilasciate ai sensi di legge".
 
-#### Art. 51
+### Art. 51
 
 Il secondo comma dell'articolo 90 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "L'ufficio tavolare certifica sulle copie inserite nella collezione dei documenti la loro concordanza con i documenti prodotti".
 
-#### Art. 52
+### Art. 52
 
 L'articolo 91 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
@@ -473,7 +469,7 @@ In tal caso, pero', l'istante deve presentare un'altra copia del documento, la q
 
 Nel caso in cui le iscrizioni tavolari dipendano da atti non soggetti a registrazione, il pagamento delle imposte ipotecarie sara' effettuato presso l'ufficio del registro competente per territorio con riferimento alla sede dell'ufficio tavolare, in base al decreto che ordina l'iscrizione. Il termine utile per tale pagamento e' di venti giorni dalla data del decreto tavolare. L'ufficio tavolare trasmettera' copia del decreto all'ufficio del registro entro cinque giorni dalla sua emanazione".
 
-#### Art. 53
+### Art. 53
 
 L'articolo 95 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
@@ -483,49 +479,49 @@ Se una domanda puo' essere accolta solo parzialmente, l'iscrizione e' ordinata p
 
 Se una domanda viene in tutto o in parte respinta, devono essere indicati tutti i motivi che ostano allo accoglimento della domanda stessa".
 
-#### Art. 54
+### Art. 54
 
 L'articolo 97-bis del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "Nell'ordinare l'iscrizione di diritti su beni immobili in base a un atto di alienazione o di divisione, il giudice tavolare deve ordinare d'ufficio l'iscrizione dell'ipoteca legale che spetta all'alienante o al condividente a norma dei numeri 1 e 2 dell'articolo 2817 del codice civile, a meno che gli sia presentato un titolo avente i requisiti prescritti dagli articoli 26, 27 e 31, da cui risulti che gli obblighi sono stati adempiuti o che vi e' stata rinuncia all'ipoteca legale da parte dell'alienante o del condividente".
 
-#### Art. 55
+### Art. 55
 
 Dopo l'articolo 97-bis del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, viene inserito il seguente articolo 97-ter:
 
 "Nell'ordinare l'iscrizione dei diritti dell'acquirente di un immobile, ove risultino le condizioni dell'estinzione per confusione di servitu' o di oneri reali, il giudice tavolare ne dispone d'ufficio la cancellazione".
 
-#### Art. 56
+### Art. 56
 
 La lettera a) dell'articolo 98 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituita dalla seguente:
 
 "a) le partite tavolari e, occorrendo, le particelle catastali, sulle quali l'iscrizione deve eseguirsi;".
 
-#### Art. 57
+### Art. 57
 
 Il primo comma dell'articolo 99 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "Se viene respinta una domanda tavolare, il rigetto deve essere annotato d'ufficio nel libro fondiario".
 
-#### Art. 58
+### Art. 58
 
 L'articolo 100 del nuovo testo della legge generale su libri fondiari, allegato al regio decreto 28 marzo 1929 n. 499, e' sostituito dal seguente:
 
 "Il giudice tavolare, il quale respinge una domanda che debba avere effetto anche su partite tavolari appartenenti ad altre circoscrizioni, deve ordinare l'annotazione del rigetto della domanda anche nelle altre partite tavolari, delegandone d'ufficio l'esecuzione al giudice competente".
 
-#### Art. 59
+### Art. 59
 
 L'articolo 101 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "Se il decreto di rigetto di una domanda tavolare e' divenuto definitivo per non essere stato proposto reclamo in tempo utile, il giudice tavolare ordina d'ufficio la cancellazione dell'annotazione e cura la notificazione alle parti interessate dell'avvenuta cancellazione".
 
-#### Art. 60
+### Art. 60
 
 L'articolo 122 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "Le notificazioni dei decreti tavolari sono eseguite dall'ufficiale giudiziario o dall'ufficio tavolare, in ogni caso anche a mezzo del servizio postale".
 
-#### Art. 61
+### Art. 61
 
 I numeri 1) e 6) dell'articolo 123 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, sono sostituiti, rispettivamente, dai seguenti:
 
@@ -533,13 +529,13 @@ I numeri 1) e 6) dell'articolo 123 del nuovo testo della legge generale sui libr
 
 "6) nel caso di intavolazione di diritti di proprieta', di variazioni dei corpi tavolari o di modifiche catastali, anche agli uffici del catasto".
 
-#### Art. 62
+### Art. 62
 
 Il primo comma dell'articolo 124 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "Le notificazioni di cui agli articoli precedenti devono eseguirsi a sensi degli articoli da 137 a 151 del codice di procedura civile".
 
-#### Art. 63
+### Art. 63
 
 L'articolo 126 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
@@ -549,25 +545,25 @@ Contro di essi e' ammesso reclamo al tribunale, il quale delibera con decreto in
 
 Il reclamo deve essere presentato al giudice tavolare che ha pronunciato il decreto. Il reclamo presentato direttamente al tribunale deve essere respinto".
 
-#### Art. 64
+### Art. 64
 
 L'articolo 129 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "Il reclamo diretto contro un decreto tavolare e' annotato d'ufficio nel libro fondiario. Se il reclamo viene respinto, l'annotazione e' cancellata d'ufficio".
 
-#### Art. 65
+### Art. 65
 
 L'articolo 131 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "Se e' respinto un reclamo contro un decreto di rigetto di una domanda tavolare, il giudice tavolare ordina d'ufficio la cancellazione dell'annotazione del rigetto e la notificazione della cancellazione agli interessati".
 
-#### Art. 66
+### Art. 66
 
 L'articolo 132 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "Se una domanda tavolare, respinta dal giudice, e' stata accolta dal tribunale, il giudice tavolare ne fa eseguire l'iscrizione d'ufficio nel libro fondiario. Questa iscrizione si ha come eseguita al momento della presentazione della domanda".
 
-#### Art. 67
+### Art. 67
 
 L'articolo 133 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
@@ -575,17 +571,17 @@ L'articolo 133 del nuovo testo della legge generale sui libri fondiari, allegato
 
 Se un'iscrizione, ordinata dal giudice tavolare, viene negata dal tribunale, il giudice tavolare deve eseguire d'ufficio l'annotazione del provvedimento del tribunale, ma l'iscrizione originaria non viene cancellata fino a quando sia pendente il termine per proporre reclamo contro il decreto del tribunale, ovvero, proposto il reclamo, non sia intervenuta decisione della corte d'appello. Se la corte d'appello conferma il decreto del giudice tavolare, l'annotazione e' cancellata; se invece il decreto del tribunale e' confermato dalla corte d'appello, si procede alla cancellazione dell'iscrizione originaria".
 
-#### Art. 68
+### Art. 68
 
 L'articolo 134 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' sostituito dal seguente:
 
 "Per quanto non e' espressamente previsto nella presente sezione, si applicano, in quanto compatibili, le disposizioni comuni ai procedimenti in camera di consiglio previste dal codice di procedura civile".
 
-#### Art. 69
+### Art. 69
 
 L'articolo 135 del nuovo testo della legge generale sui libri fondiari, allegato al regio decreto 28 marzo 1929, n. 499, e' abrogato.
 
-#### Art. 70
+### Art. 70
 
 Dopo l'articolo 137 delle disposizioni transitorie e' aggiunto il seguente articolo 138:
 

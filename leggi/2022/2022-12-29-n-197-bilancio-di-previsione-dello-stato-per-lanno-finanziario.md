@@ -30,7 +30,7 @@ la seguente legge:
 
 ## PARTE I - SEZIONE I: MISURE QUANTITATIVE PER LA REALIZZAZIONE DEGLI OBIETTIVI PROGRAMMATICI
 
-### Art. 1 - Risultati differenziali. Norme in materia di entrata e di spesa e altre disposizioni. Fondi speciali
+#### Art. 1 - Risultati differenziali. Norme in materia di entrata e di spesa e altre disposizioni. Fondi speciali
 
 1\. I livelli massimi del saldo netto da finanziare, in termini di competenza e di cassa, e del ricorso al mercato finanziario, in termini di competenza, di cui all'articolo 21, comma 1-ter, lettera a), della legge 31 dicembre 2009, n. 196, per gli anni 2023, 2024 e 2025, sono indicati nell'allegato 1 annesso alla presente legge. I livelli del ricorso al mercato si intendono al netto delle operazioni effettuate al fine di rimborsare prima della scadenza o di ristrutturare passivita' preesistenti con ammortamento a carico dello Stato.
 
@@ -322,7 +322,7 @@ L'opzione e' efficace a decorrere dall'inizio del periodo di imposta successivo 
 
 100\. Le societa' in nome collettivo, in accomandita semplice, a responsabilita' limitata, per azioni e in accomandita per azioni che, entro il 30 novembre 2023, assegnano o cedono ai soci beni immobili, diversi da quelli indicati nell'articolo 43, comma 2, primo periodo, del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, o beni mobili iscritti in pubblici registri non utilizzati come beni strumentali nell'attivita' propria dell'impresa possono applicare le disposizioni del presente comma e dei commi da 101 a 105 a condizione che tutti i soci risultino iscritti nel libro dei soci, ove prescritto, alla data del 30 settembre 2022 ovvero che siano iscritti entro trenta giorni dalla data di entrata in vigore della presente legge, in forza di titolo di trasferimento avente data certa anteriore al 1° ottobre 2022. Le medesime disposizioni si applicano alle societa' che hanno per oggetto esclusivo o principale la gestione dei predetti beni e che entro il 30 novembre 2023 si trasformano in societa' semplici.
 
-### Art. 1 (commi 101-200)
+#### Art. 1 (commi 101-200)
 
 101\. Sulla differenza tra il valore normale dei beni assegnati, o, in caso di trasformazione, quello dei beni posseduti all'atto della trasformazione, e il loro costo fiscalmente riconosciuto si applica un'imposta sostitutiva delle imposte sui redditi e dell'imposta regionale sulle attivita' produttive nella misura dell'8 per cento ovvero del 10,5 per cento per le societa' considerate non operative in almeno due dei tre periodi di imposta precedenti a quello in corso al momento dell'assegnazione, della cessione o della trasformazione.
 
@@ -718,7 +718,7 @@ b) le somme dovute a titolo di recupero di aiuti di Stato ai sensi dell'articolo
 
 200\. L'eventuale diniego della definizione agevolata deve essere notificato entro il 30 settembre 2024 con le modalita' previste per la notificazione degli atti processuali. Il diniego e' impugnabile entro sessanta giorni dalla notificazione del medesimo dinanzi all'organo giurisdizionale presso il quale pende la controversia. Nel caso in cui la definizione della controversia e' richiesta in pendenza del termine per impugnare, la pronuncia giurisdizionale puo' essere impugnata dal contribuente unitamente al diniego della definizione entro sessanta giorni dalla notifica di quest'ultimo ovvero dalla controparte nel medesimo termine.
 
-### Art. 1 (commi 201-300)
+#### Art. 1 (commi 201-300)
 
 201\. Per i processi dichiarati estinti ai sensi del comma 198, l'eventuale diniego della definizione e' impugnabile dinanzi all'organo giurisdizionale che ha dichiarato l'estinzione. Il diniego della definizione e' motivo di revocazione del provvedimento di estinzione pronunciato ai sensi del comma 198 e la revocazione e' chiesta congiuntamente all'impugnazione del diniego. Il termine per impugnare il diniego della definizione e per chiedere la revocazione e' di sessanta giorni dalla notificazione di cui al comma 200.
 
@@ -1104,7 +1104,7 @@ Per le assunzioni di cui al primo periodo, il limite massimo di importo di 6.000
 
 300\. All'articolo 1, comma 503, della legge 27 dicembre 2019, n. 160, le parole: « e il 31 dicembre 2022 » sono sostituite dalle seguenti: « e il 31 dicembre 2023 ».
 
-### Art. 1 (commi 301-400)
+#### Art. 1 (commi 301-400)
 
 301\. Alle attivita' di cui al titolo I, capo III, del decreto legislativo 21 aprile 2000, n. 185, sono destinati 20 milioni di euro per l'anno 2023.
 
@@ -1492,7 +1492,7 @@ b) al comma 90, primo periodo, le parole: « di 5 milioni di euro per l'anno 202
 
 400\. Con provvedimento del direttore dell'Agenzia delle entrate sono definiti i termini, le modalita' e le procedure applicative delle disposizioni di cui ai commi da 396 a 401, anche ai fini del rispetto del limite di spesa di cui al comma 398.
 
-### Art. 1 (commi 401-500)
+#### Art. 1 (commi 401-500)
 
 401\. Le risorse stanziate ai sensi del comma 398 sono trasferite sulla contabilita' speciale n. 1778 « Agenzia delle entrate - Fondi di bilancio » aperta presso la Banca d'Italia di Roma, allo scopo di consentire la regolazione contabile delle compensazioni effettuate attraverso il modello F24 telematico.
 
@@ -1802,7 +1802,7 @@ A tal fine, il Commissario straordinario si avvale della dotazione di mezzi e di
 
 500\. E' autorizzata la spesa complessiva di 400 milioni di euro, di cui 120 milioni per l'anno 2024, 140 milioni per l'anno 2025 e 140 milioni per l'anno 2026, per il finanziamento del fabbisogno residuo del piano complessivo delle opere approvato ai sensi dell'articolo 3, comma 2, del decreto-legge 11 marzo 2020, n. 16, convertito, con modificazioni, dalla legge 8 maggio 2020, n. 31, nonche' per il finanziamento delle ulteriori opere individuate ai sensi del medesimo articolo 3, comma 2, del citato decreto-legge.
 
-### Art. 1 (commi 501-600)
+#### Art. 1 (commi 501-600)
 
 501\. Il comma 7-quater dell'articolo 26 del decreto-legge 17 maggio 2022, n. 50, convertito, con modificazioni, dalla legge 15 luglio 2022, n. 91, e' sostituito dal seguente:
 
@@ -2098,7 +2098,7 @@ c) articolo 6-bis, commi 3 e 11, del decreto-legge 28 ottobre 2020, n. 137, conv
 
 600\. Con decreto del Ministro del turismo, di concerto con il Ministro dell'economia e delle finanze, sono stabilite le modalita' di attuazione dei commi da 595 a 599 ai fini della verifica, successivamente all'erogazione del contributo, del rispetto dei limiti e delle condizioni previsti dalla sezione 3.1 della citata comunicazione C(2020)1863.
 
-### Art. 1 (commi 601-700)
+#### Art. 1 (commi 601-700)
 
 601\. Ai fini delle disposizioni di cui ai commi da 595 a 599 si applica la definizione di impresa unica ai sensi del regolamento (UE) n. 1407/2013 della Commissione, del 18 dicembre 2013, relativo all'applicazione degli articoli 107 e 108 del Trattato sul funzionamento dell'Unione europea agli aiuti « de minimis », del regolamento (UE) n. 1408/2013 della Commissione, del 18 dicembre 2013, relativo all'applicazione degli articoli 107 e 108 del Trattato sul funzionamento dell'Unione europea agli aiuti « de minimis » nel settore agricolo, e del regolamento (UE) n. 717/2014 della Commissione, del 27 giugno 2014, relativo all'applicazione degli articoli 107 e 108 del Trattato sul funzionamento dell'Unione europea agli aiuti « de minimis » nel settore della pesca e dell'acquacoltura.
 
@@ -2531,7 +2531,7 @@ Il Commissario unico, entro il 30 giugno 2023, trasmette al Ministero dell'ambie
 
 « 607-bis. Al fine di rafforzare la tutela del territorio e la gestione delle acque, per mitigare gli effetti del dissesto idrogeologico e del cambiamento climatico, il 20 per cento delle somme di cui al comma 607 e' riservato all'assunzione di personale a tempo indeterminato presso le autorita' di bacino distrettuali di cui all'articolo 63 del decreto legislativo 3 aprile 2006, n. 152 ».
 
-### Art. 1 (commi 701-800)
+#### Art. 1 (commi 701-800)
 
 701\. Al fine di consentire l'espletamento delle attivita' strategiche dell'Istituto superiore per la protezione e la ricerca ambientale, comprese quelle connesse all'attuazione del Piano nazionale di ripresa e resilienza, e' autorizzata a favore del medesimo Istituto la spesa di 6 milioni di euro per ciascuno degli anni 2023 e 2024.
 
@@ -2845,7 +2845,7 @@ d) determina, nel rispetto dell'articolo 17 della legge 31 dicembre 2009, n. 196
 
 La dotazione organica dirigenziale della Presidenza del Consiglio dei ministri e' conseguentemente incrementata di un posto di funzione dirigenziale di livello generale e di un posto di funzione dirigenziale non generale. I predetti incarichi dirigenziali possono essere conferiti ai sensi dell'articolo 19, commi 5-bis o 6, del decreto legislativo 30 marzo 2001, n. 165, anche in deroga ai relativi limiti percentuali. Per le finalita' del presente comma e' autorizzata la spesa di euro 1.149.000 annui a decorrere dall'anno 2023. Al finanziamento delle spese di funzionamento della segreteria tecnica di cui al comma 799 si provvede nell'ambito delle risorse disponibili a legislazione vigente assegnate al Dipartimento per gli affari regionali e le autonomie della Presidenza del Consiglio dei ministri. (48)
 
-### Art. 1 (commi 801-903)
+#### Art. 1 (commi 801-903)
 
 801\. All'attivita' della segreteria tecnica partecipano un rappresentante per ciascuna delle amministrazioni competenti per le materie di cui all'articolo 116, terzo comma, della Costituzione nonche' un rappresentante della Conferenza delle regioni e delle province autonome, uno dell'Unione delle province d'Italia e uno dell'Associazione nazionale dei comuni italiani. Ai rappresentanti di cui al primo periodo non spettano compensi, gettoni di presenza, rimborsi di spese o altri emolumenti comunque denominati. (48)
 
@@ -3373,13 +3373,15 @@ La L. 30 dicembre 2025, n. 199 ha disposto (con l'art. 1, comma 194) che "La dis
 
 La L. 30 dicembre 2024, n. 207, come modificata dalla L. 30 dicembre 2025, n. 199, ha disposto (con l'art. 1, comma 704) che "Ai fini del completamento del programma di realizzazione della Carta geologica e geotematica d'Italia alla scala 1:50.000, della sua informatizzazione e delle relative attivita' strumentali, il contributo di cui all'articolo 1, comma 702, della legge 29 dicembre 2022, n. 197, e' incrementato di 1 milione di euro per l'anno 2025 e di 3 milioni di euro per ciascuno degli anni 2026 e 2027".
 
-## PARTE II - SEZIONE II: APPROVAZIONE DEGLI STATI DI PREVISIONE
+## PARTE II
 
-### Art. 2 - Stato di previsione dell'entrata
+### SEZIONE II: APPROVAZIONE DEGLI STATI DI PREVISIONE
+
+#### Art. 2 - Stato di previsione dell'entrata
 
 1\. L'ammontare delle entrate previste per l'anno finanziario 2023, relative a imposte, tasse, contributi di ogni specie e ogni altro provento, accertate, riscosse e versate nelle casse dello Stato, in virtu' di leggi, decreti, regolamenti e di ogni altro titolo, risulta dall'annesso stato di previsione dell'entrata (Tabella n. 1).
 
-### Art. 3 - Stato di previsione del Ministero dell'economia e delle finanze e disposizioni relative
+#### Art. 3 - Stato di previsione del Ministero dell'economia e delle finanze e disposizioni relative
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero dell'economia e delle finanze, per l'anno finanziario 2023, in conformita' all'annesso stato di previsione (Tabella n. 2).
 
@@ -3423,7 +3425,7 @@ La L. 30 dicembre 2024, n. 207, come modificata dalla L. 30 dicembre 2025, n. 19
 
 21\. Con decreto del Ministro dell'economia e delle finanze possono essere apportate, per l'anno finanziario 2023, variazioni compensative, in termini di residui e di cassa, con riferimento alle somme di parte capitale iscritte nello stato di previsione del Ministero dell'economia e delle finanze nell'anno 2021, non utilizzate nel medesimo anno, relative alle missioni « Competitivita' e sviluppo delle imprese » e « Politiche economico-finanziarie e di bilancio e tutela della finanza pubblica », classificate nella categoria economica « Acquisizione di attivita' finanziarie - Azioni e altre partecipazioni ».
 
-### Art. 4 - Stato di previsione del Ministero delle imprese e del made in Italy e disposizioni relative
+#### Art. 4 - Stato di previsione del Ministero delle imprese e del made in Italy e disposizioni relative
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero delle imprese e del made in Italy, per l'anno finanziario 2023, in conformita' all'annesso stato di previsione (Tabella n. 3).
 
@@ -3431,13 +3433,13 @@ La L. 30 dicembre 2024, n. 207, come modificata dalla L. 30 dicembre 2025, n. 19
 
 3\. Gli importi dei versamenti effettuati con imputazione alle voci « Entrate da recuperi e rimborsi di spese », « Altre entrate extratributarie » e « Entrate da rimborso di anticipazioni e altri crediti finanziari dello Stato » dello stato di previsione dell'entrata sono correlativamente iscritti, in termini di competenza e di cassa, con decreti del Ragioniere generale dello Stato, negli appositi capitoli dei pertinenti programmi dello stato di previsione del Ministero delle imprese e del made in Italy, relativi al Fondo per la competitivita' e lo sviluppo e al Fondo rotativo per la crescita sostenibile.
 
-### Art. 5 - Stato di previsione del Ministero del lavoro e delle politiche sociali e disposizioni relative
+#### Art. 5 - Stato di previsione del Ministero del lavoro e delle politiche sociali e disposizioni relative
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero del lavoro e delle politiche sociali, per l'anno finanziario 2023, in conformita' all'annesso stato di previsione (Tabella n. 4).
 
 2\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, su proposta del Ministro del lavoro e delle politiche sociali, con propri decreti, per l'anno finanziario 2023, variazioni compensative, in termini di residui, di competenza e di cassa, tra i capitoli dello stato di previsione del Ministero del lavoro e delle politiche sociali, anche tra missioni e programmi diversi, connesse con l'attuazione dei decreti legislativi 14 settembre 2015, n. 149 e n. 150.
 
-### Art. 6 - Stato di previsione del Ministero della giustizia e disposizioni relative
+#### Art. 6 - Stato di previsione del Ministero della giustizia e disposizioni relative
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero della giustizia, per l'anno finanziario 2023, in conformita' all'annesso stato di previsione (Tabella n. 5).
 
@@ -3445,19 +3447,19 @@ La L. 30 dicembre 2024, n. 207, come modificata dalla L. 30 dicembre 2025, n. 19
 
 3\. Il Ragioniere generale dello Stato e' autorizzato a provvedere, con propri decreti, alla riassegnazione allo stato di previsione del Ministero della giustizia delle somme versate ad apposito capitolo dell'entrata del bilancio dello Stato, a seguito di convenzioni stipulate dal Ministero medesimo con enti pubblici e privati, a decorrere dalla data di entrata in vigore della presente legge, ovvero derivanti da contributi, rimborsi e finanziamenti provenienti da organismi, anche internazionali, per la destinazione alle spese per il funzionamento degli uffici giudiziari e dei servizi, anche di natura informatica, forniti dai medesimi uffici nonche' al potenziamento delle attivita' connesse alla cooperazione giudiziaria internazionale, nei programmi « Giustizia civile e penale » e « Servizi di gestione amministrativa per l'attivita' giudiziaria » nell'ambito della missione « Giustizia » dello stato di previsione del Ministero della giustizia per l'anno finanziario 2023.
 
-### Art. 7 - Stato di previsione del Ministero degli affari esteri e della cooperazione internazionale e disposizioni relative
+#### Art. 7 - Stato di previsione del Ministero degli affari esteri e della cooperazione internazionale e disposizioni relative
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero degli affari esteri e della cooperazione internazionale, per l'anno finanziario 2023, in conformita' all'annesso stato di previsione (Tabella n. 6).
 
 2\. Il Ministero degli affari esteri e della cooperazione internazionale e' autorizzato ad effettuare, previe intese con il Ministero dell'economia e delle finanze, operazioni in valuta estera non convertibile pari alle disponibilita' esistenti nei conti correnti valuta Tesoro costituiti presso le rappresentanze diplomatiche e gli uffici consolari, ai sensi dell'articolo 5 della legge 6 febbraio 1985, n. 15, e che risultino intrasferibili per effetto di norme o disposizioni locali. Il relativo controvalore in euro e' acquisito all'entrata del bilancio dello Stato ed e' contestualmente iscritto, con decreti del Ragioniere generale dello Stato, sulla base delle indicazioni del Ministero degli affari esteri e della cooperazione internazionale, nei pertinenti programmi dello stato di previsione del medesimo Ministero per l'anno finanziario 2023, per l'effettuazione di spese connesse alle esigenze di funzionamento, mantenimento e acquisto delle sedi diplomatiche e consolari, degli istituti di cultura e delle scuole italiane all'estero. Il Ministero degli affari esteri e della cooperazione internazionale, per il medesimo anno, e' altresi' autorizzato ad effettuare, con le medesime modalita', operazioni in valuta estera pari alle disponibilita' esistenti nei conti correnti valuta Tesoro in valute inconvertibili o intrasferibili individuate, ai fini delle operazioni di cui al presente comma, dal Dipartimento del tesoro del Ministero dell'economia e delle finanze su richiesta della competente Direzione generale del Ministero degli affari esteri e della cooperazione internazionale.
 
-### Art. 8 - Stato di previsione del Ministero dell'istruzione e del merito e disposizioni relative
+#### Art. 8 - Stato di previsione del Ministero dell'istruzione e del merito e disposizioni relative
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero dell'istruzione e del merito, per l'anno finanziario 2023, in conformita' all'annesso stato di previsione (Tabella n. 7).
 
 2\. Il Ragioniere generale dello Stato e' autorizzato a provvedere, con propri decreti, alla riassegnazione ai pertinenti programmi dello stato di previsione del Ministero dell'istruzione e del merito, per l'anno finanziario 2023, delle somme versate all'entrata del bilancio dello Stato dalla Presidenza del Consiglio dei ministri per realizzare azioni educative di prevenzione dell'uso di sostanze stupefacenti in eta' scolare.
 
-### Art. 9 - Stato di previsione del Ministero dell'interno e disposizioni relative
+#### Art. 9 - Stato di previsione del Ministero dell'interno e disposizioni relative
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero dell'interno, per l'anno finanziario 2023, in conformita' all'annesso stato di previsione (Tabella n. 8).
 
@@ -3479,11 +3481,11 @@ La L. 30 dicembre 2024, n. 207, come modificata dalla L. 30 dicembre 2025, n. 19
 
 10\. Per l'attuazione dell'articolo 1, comma 767, della legge 30 dicembre 2018, n. 145, per l'esercizio finanziario 2023, il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio, anche in conto residui.
 
-### Art. 10 - Stato di previsione del Ministero dell'ambiente e della sicurezza energetica
+#### Art. 10 - Stato di previsione del Ministero dell'ambiente e della sicurezza energetica
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero dell'ambiente e della sicurezza energetica, per l'anno finanziario 2023, in conformita' all'annesso stato di previsione (Tabella n. 9).
 
-### Art. 11 - Stato di previsione del Ministero delle infrastrutture e dei trasporti e disposizioni relative
+#### Art. 11 - Stato di previsione del Ministero delle infrastrutture e dei trasporti e disposizioni relative
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero delle infrastrutture e dei trasporti, per l'anno finanziario 2023, in conformita' all'annesso stato di previsione (Tabella n. 10).
 
@@ -3499,11 +3501,11 @@ La L. 30 dicembre 2024, n. 207, come modificata dalla L. 30 dicembre 2025, n. 19
 
 7\. Il Ragioniere generale dello Stato e' autorizzato a riassegnare allo stato di previsione del Ministero delle infrastrutture e dei trasporti, per l'anno finanziario 2023, quota parte delle entrate versate al bilancio dello Stato derivanti dai corrispettivi di concessione offerti in sede di gara per il riaffidamento delle concessioni autostradali nella misura necessaria alla definizione delle eventuali pendenze con i concessionari uscenti.
 
-### Art. 12 - Stato di previsione del Ministero dell'universita' e della ricerca
+#### Art. 12 - Stato di previsione del Ministero dell'universita' e della ricerca
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero dell'universita' e della ricerca, per l'anno finanziario 2023, in conformita' all'annesso stato di previsione (Tabella n. 11).
 
-### Art. 13 - Stato di previsione del Ministero della difesa e disposizioni relative
+#### Art. 13 - Stato di previsione del Ministero della difesa e disposizioni relative
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero della difesa, per l'anno finanziario 2023, in conformita' all'annesso stato di previsione (Tabella n. 12).
 
@@ -3579,7 +3581,7 @@ c) ufficiali ausiliari delle forze di completamento, di cui alla lettera d) del 
 
 13\. Il Ragioniere generale dello Stato e' autorizzato a provvedere, con propri decreti, alla riassegnazione, allo stato di previsione del Ministero della difesa, per l'anno finanziario 2023, delle somme versate all'entrata del bilancio dello Stato dalle istituzioni dell'Unione europea, concernenti le misure di assistenza supplementari connesse allo strumento europeo per la pace (EPF) tese a sostenere ulteriormente le capacita' e la resilienza delle forze armate ucraine.
 
-### Art. 14 - Stato di previsione del Ministero dell'agricoltura, della sovranita' alimentare e delle foreste e disposizioni relative
+#### Art. 14 - Stato di previsione del Ministero dell'agricoltura, della sovranita' alimentare e delle foreste e disposizioni relative
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero dell'agricoltura, della sovranita' alimentare e delle foreste, per l'anno finanziario 2023, in conformita' all'annesso stato di previsione (Tabella n. 13).
 
@@ -3593,7 +3595,7 @@ c) ufficiali ausiliari delle forze di completamento, di cui alla lettera d) del 
 
 6\. Il Ragioniere generale dello Stato e' autorizzato a provvedere, con propri decreti, alla riassegnazione ai pertinenti programmi dello stato di previsione del Ministero dell'agricoltura, della sovranita' alimentare e delle foreste, per l'anno finanziario 2023, delle somme versate all'entrata del bilancio dello Stato da amministrazioni ed enti pubblici in virtu' di accordi di programma, convenzioni e intese per il raggiungimento di finalita' comuni in materia di telelavoro e di altre forme di lavoro a distanza, ai sensi dell'articolo 4 della legge 16 giugno 1998, n. 191, dell'articolo 3 del regolamento di cui al decreto del Presidente della Repubblica 8 marzo 1999, n. 70, nonche' di progetti di cooperazione internazionale ai sensi dell'articolo 24 della legge 11 agosto 2014, n. 125, e dell'articolo 15 della legge 7 agosto 1990, n. 241.
 
-### Art. 15 - Stato di previsione del Ministero della cultura e disposizioni relative
+#### Art. 15 - Stato di previsione del Ministero della cultura e disposizioni relative
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero della cultura, per l'anno finanziario 2023, in conformita' all'annesso stato di previsione (Tabella n. 14).
 
@@ -3603,25 +3605,25 @@ c) ufficiali ausiliari delle forze di completamento, di cui alla lettera d) del 
 
 4\. Al pagamento delle retribuzioni delle operazioni e dei servizi svolti in attuazione del piano nazionale straordinario di valorizzazione degli istituti e dei luoghi della cultura dal relativo personale si provvede mediante ordini collettivi di pagamento con il sistema denominato « cedolino unico », ai sensi dell'articolo 2, comma 197, della legge 23 dicembre 2009, n. 191. A tal fine il Ministro dell'economia e delle finanze e' autorizzato ad apportare, per l'anno finanziario 2023, con propri decreti, su proposta del Ministro della cultura, le variazioni compensative di bilancio, in termini di competenza e di cassa, su appositi piani gestionali dei capitoli relativi alle competenze accessorie del personale.
 
-### Art. 16 - Stato di previsione del Ministero della salute e disposizioni relative
+#### Art. 16 - Stato di previsione del Ministero della salute e disposizioni relative
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero della salute, per l'anno finanziario 2023, in conformita' all'annesso stato di previsione (Tabella n. 15).
 
 2\. Per l'anno finanziario 2023, il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, su proposta del Ministro della salute, variazioni compensative, in termini di competenza e di cassa, tra gli stanziamenti alimentati dal riparto della quota di cui all'articolo 12, comma 2, del decreto legislativo 30 dicembre 1992, n. 502, iscritti in bilancio nell'ambito della missione « Ricerca e innovazione » dello stato di previsione del Ministero della salute, restando precluso l'utilizzo degli stanziamenti di conto capitale per finanziare spese correnti.
 
-### Art. 17 - Stato di previsione del Ministero del turismo
+#### Art. 17 - Stato di previsione del Ministero del turismo
 
 1\. Sono autorizzati l'impegno e il pagamento delle spese del Ministero del turismo, per l'anno finanziario 2023, in conformita' all'annesso stato di previsione (Tabella n. 16).
 
-### Art. 18 - Totale generale della spesa
+#### Art. 18 - Totale generale della spesa
 
 1\. Sono approvati, rispettivamente, in euro 1.183.723.964.094, in euro 1.121.186.846.006 e in euro 1.124.538.264.703 in termini di competenza, nonche' in euro 1.203.435.534.734, in euro 1.128.614.124.780 e in euro 1.126.122.513.987 in termini di cassa, i totali generali della spesa dello Stato per il triennio 2023-2025.
 
-### Art. 19 - Quadro generale riassuntivo
+#### Art. 19 - Quadro generale riassuntivo
 
 1\. E' approvato, in termini di competenza e di cassa, per il triennio 2023-2025, il quadro generale riassuntivo del bilancio dello Stato, con le tabelle allegate.
 
-### Art. 20 - Disposizioni diverse
+#### Art. 20 - Disposizioni diverse
 
 1\. In relazione all'accertamento dei residui di entrata e di spesa per i quali non esistono nel bilancio di previsione i corrispondenti capitoli nell'ambito dei programmi interessati, il Ministro dell'economia e delle finanze e' autorizzato ad istituire gli occorrenti capitoli nei pertinenti programmi con propri decreti da comunicare alla Corte dei conti.
 
@@ -3687,7 +3689,7 @@ c) ufficiali ausiliari delle forze di completamento, di cui alla lettera d) del 
 
 32\. Al fine di dare attuazione, per le amministrazioni centrali dello Stato, alle disposizioni di cui all'articolo 113 del codice dei contratti pubblici, di cui al decreto legislativo 18 aprile 2016, n. 50, il Ragioniere generale dello Stato, per l'anno finanziario 2023, e' autorizzato a riassegnare, con propri decreti, su proposta dell'amministrazione competente, ai pertinenti capitoli di spesa iscritti nello stato di previsione della medesima amministrazione le somme versate all'entrata del bilancio dello Stato riguardanti le risorse accantonate per ciascun appalto di lavori, servizi o forniture da parte della struttura ministeriale che opera come stazione appaltante, ferma restando l'adozione del regolamento che ciascuna amministrazione deve adottare per la ripartizione degli incentivi per funzioni tecniche ai sensi del comma 3 del predetto articolo 113 del codice di cui al decreto legislativo n. 50 del 2016.
 
-### Art. 21 - Entrata in vigore
+#### Art. 21 - Entrata in vigore
 
 1\. La presente legge, salvo quanto diversamente previsto, entra in vigore il 1° gennaio 2023.
 
@@ -3711,7 +3713,7 @@ Visto, il Guardasigilli: Nordio
 
 ## Allegati
 
-### Allegato 1
+#### Allegato 1
 
 ((Allegato 1
 
@@ -3765,7 +3767,7 @@ RISULTATI DIFFERENZIALI
 
 (\*) al netto delle operazioni effettuate al fine di rimborsare prima della scadenza o di ristrutturare passivita' preesistenti con ammortamento a carico dello Stato.))
 
-### Allegato 2
+#### Allegato 2
 
 Allegato 2
 
@@ -3804,7 +3806,7 @@ Allegato 2
 +-------------------------------------------------------------+-----+
 ```
 
-### Allegato 3
+#### Allegato 3
 
 Allegato 3
 
@@ -3844,7 +3846,7 @@ Allegato 3
 
 ».
 
-### Tabelle A e B
+#### Tabelle A e B
 
 Tabelle A E B
 
@@ -3976,7 +3978,7 @@ INDICAZIONE DELLE VOCI DA INCLUDERE NEL FONDO SPECIALE DI CONTO CAPITALE
 +------------------------------+-----------+-----------+-----------+
 ```
 
-### Quadri generali riassuntivi
+#### Quadri generali riassuntivi
 
 QUADRI GENERALI RIASSUNTIVI
 
@@ -3996,7 +3998,7 @@ C) BILANCIO PER AZIONI
 
 Parte di provvedimento in formato grafico
 
-### Stati di previsione
+#### Stati di previsione
 
 STATI DI PREVISIONE
 

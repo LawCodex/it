@@ -27,7 +27,7 @@ la seguente legge:
 
 ## CAPO I - PENSIONI
 
-#### ART. 1 - Pensione di vecchiaia
+### ART. 1 - Pensione di vecchiaia
 
 1\. Il primo comma dell'articolo 2 della legge 20 settembre 1980, n. 576, gia' sostituito dall'articolo 2 della legge 2 maggio 1983, n. 175, e' sostituito dal seguente:
 
@@ -81,7 +81,7 @@ I supplementi sono calcolati per ogni anno successivo a quello di maturazione de
 
 > Alle scadenze indicate dall'art. 13, primo comma, con decreto del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro di grazia e giustizia, su proposta della Cassa, la percentuale di cui al primo comma del presente articolo puo' essere aumentata, ove le condizioni tecnico-finanziarie lo consentano, sino al 2 per cento. In tal caso devono essere proporzionalmente aumentate le percentuali di cui al quarto comma del presente articolo".
 
-#### Art. 2 - Pensione di inabilita'
+### Art. 2 - Pensione di inabilita'
 
 1\. L'articolo 4 della legge 20 settembre 1980, n. 576, come modificato dall'articolo 2 della legge 2 maggio 1983, n. 175, e' sostituito dal seguente:
 
@@ -97,7 +97,7 @@ b) l'iscritto abbia compiuto almeno dieci anni, o cinque anni se l'inabilita' e'
 
 4\. Entro i dieci anni successivi alla concessione della pensione, la Cassa puo' in qualsiasi momento assoggettare a revisione la permanenza delle condizioni di inabilita'. L'erogazione della pensione e' sospesa nei confronti del pensionato che non si presti alla revisione".
 
-#### ART. 3 - Pensioni ai superstiti
+### ART. 3 - Pensioni ai superstiti
 
 1\. L'articolo 7 della legge 20 settembre 1980, n. 576, come modificato dall'articolo 2 della legge 2 maggio 1983, n. 175, e' sostituito dal seguente:
 
@@ -117,7 +117,7 @@ b) in mancanza del coniuge o alla sua morte, del 60 per cento ad un solo figlio 
 
 6\. Ai figli minorenni sono equiparati i figli maggiorenni inabili a proficuo lavoro e i figli maggiorenni che seguono corsi di studi, sino al compimento della durata minima legale del corso di studi seguito e comunque, nel caso di studi universitari, non oltre il compimento del ventiseiesimo anno di eta'".
 
-#### ART. 4
+### ART. 4
 
 (Infrazionabilita' degli anni di iscrizione
 
@@ -127,11 +127,9 @@ ai fini pensionistici).
 
 2\. La disposizione di cui al comma 1 vale anche per il calcolo dell'ammontare della pensione.
 
-## CAPO II - CONTRIBUTI, COMUNICAZIONI
+## CAPO II - CONTRIBUTI, COMUNICAZIONI ED ISCRIZIONI
 
-### ED ISCRIZIONI
-
-#### ART. 5 - Contributo soggettivo
+### ART. 5 - Contributo soggettivo
 
 1\. Il terzo comma dell'articolo 10 della legge 20 settembre 1980, n. 576, come modificato dall'articolo 2 della legge 2 maggio 1983, n. 175, e' sostituito dal seguente:
 
@@ -157,7 +155,7 @@ ai fini pensionistici).
 
 > Il contributo soggettivo e' deducibile ai fini dell'IRPEF".
 
-#### ART. 6 - Contributo integrativo
+### ART. 6 - Contributo integrativo
 
 1\. Il quarto comma dell'articolo 11 della legge 20 settembre 1980, n. 576, introdotto dall'articolo 2 della legge 2 maggio 1983, n. 175, e' sostituito dal seguente:
 
@@ -179,7 +177,7 @@ ai fini pensionistici).
 
 > Il contributo integrativo non e' soggetto all'IRPEF ne' all'IVA e non concorre alla formazione del reddito professionale".
 
-#### ART. 7 - Variabilita' dei contributi
+### ART. 7 - Variabilita' dei contributi
 
 1\. Il primo comma dell'articolo 13 della legge 20 settembre 1980, n. 576, e' sostituito dal seguente:
 
@@ -201,7 +199,7 @@ ai fini pensionistici).
 
 > Le percentuali di cui al presente articolo devono essere aumentate quando la misura delle entrate annue complessive non e' sufficiente, in relazione all'ultimo bilancio consuntivo, a provvedere a tutte le uscite e all'integrazione del fondo di garanzia, che non deve essere inferiore a due annualita' delle pensioni erogate. Le percentuali possono essere diminuite quando le entrate complessive superano del 10 per cento la somma delle uscite e degli accantonamenti per il fondo di garanzia, oppure quando il fondo di garanzia ha raggiunto l'ammontare di tre annualita' delle pensioni erogate".
 
-#### ART. 8
+### ART. 8
 
 (Rivalutazione delle pensioni
 
@@ -217,7 +215,7 @@ e dei contributi)
 
 4\. Nella stessa misura percentuale e con la stessa decorrenza sono adeguati il limite della media dei redditi nonche' gli scaglioni di reddito di cui all'articolo 2, il limite di reddito di cui all'articolo 10, primo comma, e il contributo minimo di cui all'articolo 10, secondo comma, arrotondando i relativi importi alle 100.000 lire piu' vicine per i limiti e scaglioni di reddito, ed alle 10.000 lire piu' vicine per il contributo".
 
-#### ART. 9 - Infrazione dell'obbligo di comunicazione
+### ART. 9 - Infrazione dell'obbligo di comunicazione
 
 1\. Il quarto comma dell'articolo 17 della legge 20 settembre 1980, n. 576, e' sostituito dal seguente:
 
@@ -249,7 +247,7 @@ e dei contributi)
 
 > Se il diritto a pensione matura prima della scadenza della dichiarazione annuale dei redditi, chi richiede la pensione puo' dichiarare provvisoriamente l'entita' del reddito soggetto ad IRPEF percepito nell'ultimo anno con l'obbligo di presentare una dichiarazione integrativa nei termini, nelle forme e con gli effetti previsti nel presente articolo".
 
-#### ART. 10
+### ART. 10
 
 (Pagamento dei contributi
 
@@ -293,7 +291,7 @@ Il pagamento non e' dovuto ove le eccedenze stesse non superino l'importo di 10.
 
 > Date e modalita' di pagamento e di riscossione possono essere modificate con deliberazione del consiglio di amministrazione della Cassa, approvata dal Ministro del lavoro e della previdenza sociale".
 
-#### ART. 11
+### ART. 11
 
 (Procedura per l'iscrizione alla Cassa
 
@@ -333,7 +331,7 @@ Su richiesta dell'interessato la giunta esecutiva puo' concedere per il pagament
 
 > Sono rimborsabili a richiesta i contributi relativi agli anni di iscrizione dichiarati inefficaci".
 
-#### ART. 12 - Retrodatazione di iscrizioni gia' avvenute
+### ART. 12 - Retrodatazione di iscrizioni gia' avvenute
 
 1\. Il termine di cui al primo comma dell'articolo 29 della legge 20 settembre 1980, n. 576, e' riaperto per la durata di un anno dalla data di entrata in vigore della presente legge, ai soli fini della retrodatazione degli effetti di iscrizioni gia' avvenute. La facolta' di retrodatazione e' estesa ai superstiti degli iscritti deceduti dopo l'entrata in vigore della citata legge n. 576 del 1980.
 
@@ -351,7 +349,7 @@ Su richiesta dell'interessato la giunta esecutiva puo' concedere per il pagament
 
 > Per conseguire la pensione, gli interessati devono dimostrare il possesso dei requisiti richiesti dall'art. 2 della legge 22 luglio 1975, n. 319, dall'art. 1 della legge 25 febbraio 1963, n. 289 e dall'art. 2 della legge 8 gennaio 1952, n. 6, per i rispettivi periodi di efficacia, nonche' l'anzianita' occorrente in base alle norme applicabili al momento di maturazione della pensione".
 
-#### ART. 13 - Iscrizioni retroattive
+### ART. 13 - Iscrizioni retroattive
 
 1\. Chi si iscrive per la prima volta alla Cassa, purche' sia in regola con l'invio delle comunicazioni obbligatorie, e non abbia commesso l'infrazione prevista nel secondo comma dell'articolo 22 della legge 20 settembre 1980, n. 576, come sostituito dall'articolo 11, comma 1, della presente legge, e non abbia ancora compiuto il quarantesimo anno di eta', puo' chiedere l'iscrizione retroattiva, comprendendo gli anni di appartenenza all'albo per i quali il comitato dei delegati abbia usato la facolta' prevista nel quarto comma dell'articolo 2 della legge 22 luglio 1975, n. 319, e gli anni della pratica procuratoria con abilitazione al patrocinio.
 
@@ -381,7 +379,7 @@ Su richiesta dell'interessato, la giunta esecutiva puo' concedere per il pagamen
 
 > \- Per il testo dell'art. 18 della legge n. 576/1980 si veda la precedente nota all'art. 10.
 
-#### ART. 14
+### ART. 14
 
 (Facolta' in caso di iscrizione
 
@@ -409,7 +407,7 @@ c) per la pensione di vecchiaia, gli anni per i quali e' stata pagata la contrib
 
 > \- Per il testo dell'art. 18 della legge n. 576/1980 si veda la precedente nota all'art. 10.
 
-#### ART. 15 - Iscrizioni tardive
+### ART. 15 - Iscrizioni tardive
 
 1\. Chi, avendone l'obbligo, non ha presentato tempestiva domanda di iscrizione alla Cassa ai sensi dell'articolo 22 della legge 20 settembre 1980, n. 576, come modificato dall'articolo 11 della presente legge, e' ammesso a presentare domanda di iscrizione tardiva. Gli effetti dell'iscrizione, che non potra' comunque essere anteriore al 1980, decorrono dall'anno in cui e' stato raggiunto il minimo di reddito o il minimo di volume d'affari, di natura professionale, fissati dal comitato dei delegati della Cassa ai sensi dell'articolo 3 della legge 22 luglio 1975, n. 319, e successive modificazioni.
 
@@ -429,17 +427,15 @@ c) per la pensione di vecchiaia, gli anni per i quali e' stata pagata la contrib
 
 > \- Per il testo dell'art. 17 della legge n. 576/1980 si veda la precedente nota all'art. 9.
 
-## CAPO III - NORME SULL'ASSISTENZA EROGATA
+## CAPO III - NORME SULL'ASSISTENZA EROGATA DALLA CASSA
 
-### DALLA CASSA
-
-#### ART. 16 - Fondi destinati all'assistenza
+### ART. 16 - Fondi destinati all'assistenza
 
 1\. L'importo per provvedere alla assistenza ordinaria di cui all'articolo 17, comma 2, e' fissato nella misura annua dell'1 per cento delle entrate correnti iscritte nel bilancio di previsione della Cassa.
 
 2\. Gli importi per l'assistenza straordinaria di cui all'articolo 17, comma 3, per le assistenze indennitarie di cui all'articolo 18, e per le altre provvidenze di cui all'articolo 19, non possono superare globalmente la misura annua dell'1 per cento delle entrate correnti iscritte nel bilancio di previsione della Cassa.
 
-#### ART. 17 - Assistenza a chi versa in stato di bisogno
+### ART. 17 - Assistenza a chi versa in stato di bisogno
 
 1\. L'assistenza a favore di chi versa in stato di bisogno puo' essere erogata a chi appartiene ad una delle seguenti categorie:
 
@@ -459,7 +455,7 @@ d) familiari di persone defunte appartenute ad una delle precedenti categorie e 
 
 > \- Per il testo degli articoli 10 e 11 della legge n. 576/1980 si vedano, rispettivamente, le precedenti note agli articoli 5 e 6.
 
-#### ART. 18 - Assistenze indennitarie
+### ART. 18 - Assistenze indennitarie
 
 1\. Nei casi di catastrofe o di calamita' naturali, dichiarati con decreto del Presidente del Consiglio dei ministri ai sensi dell'articolo 5 della legge 8 dicembre 1970, n. 996, possono essere concessi indennizzi parziali o totali a favore degli iscritti alla Cassa che risiedono od esercitano la professione in un comune colpito dall'evento indicato nel citato decreto e che, a causa di tale evento, hanno patito un danno comunque incidente sulla loro attivita' professionale. Indennizzi parziali o totali possono essere concessi anche a favore dei superstiti di iscritti alla Cassa, quando i superstiti sono titolari di pensioni di reversibilita' o indiretta o hanno il diritto a conseguirle.
 
@@ -493,23 +489,23 @@ d) familiari di persone defunte appartenute ad una delle precedenti categorie e 
 
 > In caso di inabilita' o invalidita' dovute ad inforntunio la Cassa e' surrogata nel diritto al risarcimento ai sensi e nei limiti dell'art. 1916 del codice civile, in concorso con l'assicuratore di cui al comma precedente ove questi abbia diritto alla surroga".
 
-#### ART. 19 - Altre provvidenze
+### ART. 19 - Altre provvidenze
 
 1\. Il comitato dei delegati della Cassa, su proposta del consiglio di amministrazione, puo' disporre l'erogazione, da parte della Cassa, di altre provvidenze quali borse di studio, contributi funerari od altro, a favore di categorie che siano comprese fra quelle elencate nelle lettere a), b), c) e d) del comma 1 dell'articolo 17.
 
-#### ART. 20 - Regolamenti
+### ART. 20 - Regolamenti
 
 1\. Il comitato dei delegati della Cassa puo' specificare, con suoi regolamenti, le modalita' e procedure delle assistenze previste nella presente legge.
 
 ## CAPO IV - DISPOSIZIONI VARIE E FINALI
 
-#### ART. 21 - Previdenza integrativa
+### ART. 21 - Previdenza integrativa
 
 1\. Tra gli scopi istituzionali della Cassa rientra la gestione di forme di previdenza integrativa nell'ambito delle disposizioni generali derivanti da leggi e regolamenti.
 
 2\. L'esercizio delle attivita' relative alla gestione di forme di previdenza integrativa deve essere effettuato sulla base di bilanci annuali di previsione e consuntivi separati da quelli afferenti agli altri fondi amministrati.
 
-#### ART. 22 - Modifiche all'elezione dei consiglieri
+### ART. 22 - Modifiche all'elezione dei consiglieri
 
 1\. Al primo comma dell'articolo 7 della legge 8 gennaio 1952, n. 6, come sostituito dall'articolo 2 della legge 31 luglio 1956, n. 991, e' aggiunto in fine il seguente periodo: "Quando devono essere eletti quattro o piu' componenti del Consiglio di amministrazione, i nomi espressi da ciascun votante non possono superare il numero dei componenti da eleggere ridotto di uno".
 
@@ -527,11 +523,11 @@ d) familiari di persone defunte appartenute ad una delle precedenti categorie e 
 
 > I componenti il consiglio di amministrazione durano in carica due anni e possono essere rieletti.
 
-#### ART. 23 - Disposizioni regolamentari
+### ART. 23 - Disposizioni regolamentari
 
 1\. La facolta' di emanare e modificare disposizioni regolamentari concernenti il funzionamento della Cassa e le modalita' da seguire per le prestazioni e contribuzioni, quando non e' attribuita dalla legge ad uno specifico organo, puo' essere esercitata tanto dal consiglio di amministrazione quanto dal comitato dei delegati, fermo restando che il consiglio non puo' modificare norme regolamentari stabilite dal comitato.
 
-#### ART. 24 - Riscatto
+### ART. 24 - Riscatto
 
 1\. Il periodo legale del corso di laurea in giurisprudenza e' riscattabile.
 
@@ -543,7 +539,7 @@ d) familiari di persone defunte appartenute ad una delle precedenti categorie e 
 
 5\. Contributi, modalita' e termini per l'applicazione del presente articolo sono stabiliti entro diciotto mesi dalla data di entrata in vigore della presente legge, con delibera del comitato dei delegati della Cassa approvata dal Ministro del lavoro della previdenza sociale di concerto con il Ministro del tesoro, assicurando in ogni caso la riserva matematica necessaria per la copertura assicurativa relativa al periodo di riscatto. L'approvazione s'intende data se non negata entro i due mesi successivi alla comunicazione della delibera.
 
-#### ART. 25
+### ART. 25
 
 (Decorrenza di effetti - Norme transitorie
 

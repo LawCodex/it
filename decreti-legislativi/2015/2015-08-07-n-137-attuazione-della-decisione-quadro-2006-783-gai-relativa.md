@@ -40,11 +40,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Disposizioni generali
 
-### Disposizioni generali
-
-#### Art. 1
+### Art. 1
 
 Disposizioni di principio e definizioni
 
@@ -264,7 +262,7 @@ i) certificato: il certificato redatto e compilato in conformita' al modello all
 
 > 4\. Disposizioni correttive ed integrative dei decreti legislativi di cui al comma 1 possono essere adottate, nel rispetto degli stessi principi e criteri direttivi e con le medesime procedure di cui al presente articolo, entro quattro anni dalla data della loro entrata in vigore.».
 
-#### Art. 2
+### Art. 2
 
 Autorita' competenti
 
@@ -278,11 +276,9 @@ Autorita' competenti
 
 5\. Nei casi di trasmissione diretta, l'autorita' giudiziaria interessata provvede a dare informazione al Ministro della giustizia delle decisioni di confisca ricevute e trasmesse per l'esecuzione, anche a fini statistici.
 
-## Capo II
+## Capo II - Esecuzione in Italia delle decisioni di confisca emesse in altri Stati membri
 
-### Esecuzione in Italia delle decisioni di confisca emesse in altri Stati membri
-
-#### Art. 3
+### Art. 3
 
 Esecuzione delle decisioni di confisca emesse
 
@@ -362,7 +358,7 @@ mm) sabotaggio.
 
 > \- La Convenzione del 26 luglio 1995 e' pubblicata nella G.U.C.E. 27 novembre 1995, n. C 316.
 
-#### Art. 4
+### Art. 4
 
 Garanzia giurisdizionale
 
@@ -378,7 +374,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 7 dicembre 2023, n. 203 ha disposto (con l'art. 7, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 5 e 6, comma 1, lettere c) e d), non si applicano nei procedimenti in cui, alla data di entrata in vigore del presente decreto, le autorita' nazionali di emissione e di esecuzione hanno gia' trasmesso o, rispettivamente, ricevuto le decisioni e i certificati di sequestro o di confisca".
 
-#### Art. 5
+### Art. 5
 
 Procedimento per il riconoscimento e l'esecuzione della decisione di confisca
 
@@ -418,7 +414,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 7 dicembre 2023, n. 203 ha disposto (con l'art. 7, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 5 e 6, comma 1, lettere c) e d), non si applicano nei procedimenti in cui, alla data di entrata in vigore del presente decreto, le autorita' nazionali di emissione e di esecuzione hanno gia' trasmesso o, rispettivamente, ricevuto le decisioni e i certificati di sequestro o di confisca".
 
-#### Art. 6
+### Art. 6
 
 Motivi di rifiuto
 
@@ -516,7 +512,7 @@ i) quando la decisione di confisca, ordinata ai sensi delle disposizioni relativ
 
 > Non e' ammessa l'estradizione del cittadino [c.p. 4], salvo che sia espressamente consentita nelle convenzioni internazionali [Cost. 26].».
 
-#### Art. 7
+### Art. 7
 
 Rinvio dell'esecuzione
 
@@ -534,7 +530,7 @@ d) il bene e' oggetto di un procedimento di confisca nazionale, anche di prevenz
 
 3\. Cessata la ragione del rinvio, la Corte di appello provvede con le formalita' dell'articolo 5 e adotta, senza indugio, le misure necessarie per l'esecuzione della decisione di confisca dandone informazione all'autorita' di emissione con qualsiasi mezzo atto a produrre una traccia scritta.
 
-#### Art. 8
+### Art. 8
 
 ((ARTICOLO ABROGATO DAL D.LGS. 7 DICEMBRE 2023, N. 203))
 
@@ -546,7 +542,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 7 dicembre 2023, n. 203 ha disposto (con l'art. 7, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 5 e 6, comma 1, lettere c) e d), non si applicano nei procedimenti in cui, alla data di entrata in vigore del presente decreto, le autorita' nazionali di emissione e di esecuzione hanno gia' trasmesso o, rispettivamente, ricevuto le decisioni e i certificati di sequestro o di confisca".
 
-#### Art. 9
+### Art. 9
 
 Concorso di decisioni ((...)) ((1))
 
@@ -560,11 +556,9 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 7 dicembre 2023, n. 203 ha disposto (con l'art. 7, comma 1) che "Le disposizioni di cui agli articoli 1, 2, 3, 5 e 6, comma 1, lettere c) e d), non si applicano nei procedimenti in cui, alla data di entrata in vigore del presente decreto, le autorita' nazionali di emissione e di esecuzione hanno gia' trasmesso o, rispettivamente, ricevuto le decisioni e i certificati di sequestro o di confisca".
 
-## Capo III
+## Capo III - Esecuzione delle decisioni di confisca emesse dall'autorità giudiziaria italiana negli altri Stati membri
 
-### Esecuzione delle decisioni di confisca emesse dall'autorità giudiziaria italiana negli altri Stati membri
-
-#### Art. 10
+### Art. 10
 
 Competenza
 
@@ -602,7 +596,7 @@ Competenza
 
 > \- Per i riferimenti agli articoli 24 e 34 del decreto legislativo 6 settembre 2011, n 159 si vedano le note all'art. 1.
 
-#### Art. 11
+### Art. 11
 
 Procedimento di trasmissione
 
@@ -622,7 +616,7 @@ b) quando la decisione di confisca concerne una somma di denaro, allo Stato memb
 
 6\. L'autorita' giudiziaria italiana informa senza indugio il Ministro della giustizia dell'eventuale revoca della decisione di confisca o della sopravvenuta carenza di esecutivita' della stessa, del rischio che l'esecuzione ecceda il valore del bene confiscato o, infine, dell'avvenuto pagamento di una somma di denaro da parte dell'interessato. Il Ministro della giustizia informa senza indugio l'autorita' competente dello Stato di esecuzione.
 
-#### Art. 12
+### Art. 12
 
 Trasmissione della decisione a piu' Stati per l'esecuzione
 
@@ -638,17 +632,15 @@ c) la confisca abbia per oggetto una somma di denaro e il valore dei beni che po
 
 3\. Nel caso di trasmissione a piu' Stati della decisione di confisca concernente una somma di denaro l'importo totale risultante dalla esecuzione non puo' superare l'importo massimo specificato nella decisione di confisca.
 
-## Capo IV
+## Capo IV - Disposizioni finali
 
-### Disposizioni finali
-
-#### Art. 13
+### Art. 13
 
 Norme applicabili
 
 1\. Per quanto non espressamente previsto dal presente decreto si applicano le disposizioni del codice di procedura penale e delle leggi complementari, in quanto compatibili.
 
-#### Art. 14
+### Art. 14
 
 Destinazione delle somme e dei beni confiscati
 
@@ -762,7 +754,7 @@ b) nei casi in cui l'esecuzione ha riguardato una somma superiore a euro 10.000,
 
 > 1\. L'Avvocatura dello Stato assume la rappresentanza e la difesa dell'amministratore giudiziario nelle controversie, anche in corso, concernenti rapporti relativi a beni sequestrati, qualora l'Avvocato generale dello Stato ne riconosca l'opportunita'».
 
-#### Art. 15
+### Art. 15
 
 Risarcimento
 
@@ -774,13 +766,13 @@ Risarcimento
 
 > \- Per i riferimenti al comma 23, dell'art. 61, del citato decreto-legge n. 112 del 2008, si vedano i riferimenti all'art. 14.
 
-#### Art. 16
+### Art. 16
 
 Accordi o intese con altri Stati membri
 
 1\. Il presente decreto non pregiudica l'applicazione di accordi o intese conclusi con gli altri Stati membri, qualora essi siano rispondenti agli obiettivi della decisione quadro e contribuiscano a semplificare o ulteriormente agevolare le procedure di esecuzione delle decisioni di confisca.
 
-#### Art. 17
+### Art. 17
 
 Clausola di invarianza
 
@@ -816,7 +808,7 @@ Visto, il Guardasigilli: Orlando
 
 ## Allegati
 
-#### Certificato
+### Certificato
 
 CERTIFICATO
 

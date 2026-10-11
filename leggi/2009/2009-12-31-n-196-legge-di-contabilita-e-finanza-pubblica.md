@@ -30,11 +30,9 @@ Promulga
 
 la seguente legge:
 
-## TITOLO I
+## TITOLO I - PRINCIPI DI COORDINAMENTO, OBIETTIVI DI FINANZA PUBBLICA E ARMONIZZAZIONE DEI SISTEMI CONTABILI
 
-### PRINCIPI DI COORDINAMENTO, OBIETTIVI DI FINANZA PUBBLICA E ARMONIZZAZIONE DEI SISTEMI CONTABILI
-
-###### Art. 1 - Principi di coordinamento e ambito di riferimento
+#### Art. 1 - Principi di coordinamento e ambito di riferimento
 
 1\. Le amministrazioni pubbliche concorrono al perseguimento degli obiettivi di finanza pubblica definiti in ambito nazionale in coerenza con le procedure e i criteri stabiliti dall'Unione europea e ne condividono le conseguenti responsabilita'. Il concorso al perseguimento di tali obiettivi si realizza secondo i principi fondamentali dell'armonizzazione dei bilanci pubblici e del coordinamento della finanza pubblica.
 
@@ -74,7 +72,7 @@ AGGIORNAMENTO (21)
 
 La L. 27 dicembre 2017, n. 205 ha disposto (con l'art. 1, comma 1096) che "Al fine di assicurare il pieno ed efficace svolgimento delle attivita' funzionali al raggiungimento degli obiettivi istituzionali e societari attribuiti alla societa' concessionaria del servizio pubblico radiofonico, televisivo e multimediale, nonche' di garantire gli equilibri concorrenziali nel mercato radiotelevisivo, non si applicano alla societa' RAI-Radiotelevisione italiana Spa le norme di contenimento della spesa in materia di gestione, organizzazione, contabilita', finanza, investimenti e disinvestimenti previste dalla legislazione vigente a carico dei soggetti inclusi nell'elenco dell'ISTAT delle amministrazioni pubbliche di cui all'articolo 1 della legge 31 dicembre 2009, n. 196; pertanto la RAI-Radiotelevisione italiana Spa puo' avviare, in un'ottica virtuosa di risparmio a medio-lungo termine, immissioni in organico di figure al livello retributivo piu' basso, attingendo in primis al personale idoneo inserito nelle graduatorie 2013 e 2015 di giornalisti professionisti riconosciuti idonei".
 
-###### Art. 2
+#### Art. 2
 
 (Delega al Governo per l'adeguamento
 
@@ -134,15 +132,13 @@ e) all'articolo 4, comma 1, primo periodo, le parole: "trenta componenti e" sono
 
 8\. Disposizioni correttive ed integrative dei decreti legislativi di cui al comma 1 possono essere adottate entro tre anni dalla data di entrata in vigore dei decreti medesimi, tenendo anche conto dei decreti legislativi da adottare ai sensi degli articoli 40 e 42, nel rispetto dei principi e criteri direttivi e con le stesse modalita' previsti dal presente articolo.
 
-###### Art. 3 - Rapporto sullo stato di attuazione della riforma della contabilita' e finanza pubblica
+#### Art. 3 - Rapporto sullo stato di attuazione della riforma della contabilita' e finanza pubblica
 
 1\. Il Ministro dell'economia e delle finanze trasmette, in allegato ((al Documento di economia e finanza di cui all'articolo 10)), un rapporto sullo stato di attuazione della presente legge con particolare riferimento alle attivita' volte alla realizzazione della nuova organizzazione del bilancio dello Stato e dei bilanci delle altre amministrazioni pubbliche, evidenziando il collegamento tra la nuova struttura del bilancio e la nuova organizzazione delle amministrazioni pubbliche conseguente all'attuazione della legge 4 marzo 2009, n. 15, e dei relativi decreti legislativi. Nel rapporto si da' altresi' conto dello stato di attuazione delle disposizioni di cui alla lettera h) del comma 2 dell'articolo 2 della legge 5 maggio 2009, n. 42, come sostituita dall'articolo 2, comma 6, lettera b), della presente legge.
 
-## TITOLO II
+## TITOLO II - MISURE PER LA TRASPARENZA E LA CONTROLLABILITA' DELLA SPESA
 
-### MISURE PER LA TRASPARENZA E LA CONTROLLABILITA' DELLA SPESA
-
-###### Art. 4 - Controllo parlamentare
+#### Art. 4 - Controllo parlamentare
 
 1\. Il Governo, nel rapporto di cui all'articolo 3 e su richiesta delle Commissioni parlamentari competenti, fornisce alle medesime Commissioni tutte le informazioni utili ad esercitare un controllo costante sull'attuazione della presente legge. Sulla base delle informazioni ricevute e dell'attivita' istruttoria svolta anche in forma congiunta con le modalita' definite dalle intese di cui al comma 2, le Commissioni parlamentari competenti delle due Camere formulano osservazioni ed esprimono valutazioni utili alla migliore impostazione dei documenti di bilancio e delle procedure di finanza pubblica.
 
@@ -160,7 +156,7 @@ e) analisi delle metodologie utilizzate per la costruzione degli andamenti tende
 
 ((2-bis. Ai fini dell'esercizio delle attivita' di cui al presente articolo, sulla base di apposite convenzioni, l'ISTAT, nell'ambito delle proprie competenze istituzionali, fornisce alle Camere, su richiesta, i dati e le elaborazioni necessari all'esame dei documenti di finanza pubblica. Dall'attuazione del presente comma non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.))
 
-###### Art. 5
+#### Art. 5
 
 (Criteri di nomina
 
@@ -212,7 +208,7 @@ del Presidente dell'ISTAT)
 
 > funzionamento.».
 
-###### Art. 6 - Accesso alle banche dati e pubblicita' di elementi informativi
+#### Art. 6 - Accesso alle banche dati e pubblicita' di elementi informativi
 
 1\. Ai fini del controllo parlamentare sulla finanza pubblica, anche di settore, la Camera dei deputati e il Senato della Repubblica hanno accesso, sulla base di apposite intese, alle informazioni risultanti da banche di dati delle amministrazioni pubbliche e ad ogni altra fonte informativa gestita da soggetti pubblici rilevante per il controllo della finanza pubblica, anche al fine di consentirne la consultazione da parte dei membri del Parlamento.
 
@@ -224,11 +220,9 @@ del Presidente dell'ISTAT)
 
 ((4. Il Dipartimento per la programmazione e il coordinamento della politica economica della Presidenza del Consiglio dei ministri trasmette alle Camere, entro il 30 giugno di ciascun anno, una relazione concernente l'attivita' e le deliberazioni del Comitato interministeriale per la programmazione economica (CIPE) adottate nel corso dell'anno precedente. A decorrere dall'anno 2022 la relazione contiene anche le attivita' svolte in materia di sviluppo sostenibile.))
 
-## TITOLO III
+## TITOLO III - PROGRAMMAZIONE DEGLI OBIETTIVI DI FINANZA PUBBLICA
 
-### PROGRAMMAZIONE DEGLI OBIETTIVI DI FINANZA PUBBLICA
-
-###### Art. 7 - Ciclo e strumenti della programmazione finanziaria e di bilancio
+#### Art. 7 - Ciclo e strumenti della programmazione finanziaria e di bilancio
 
 1\. L'impostazione delle previsioni di entrata e di spesa dei bilanci delle amministrazioni pubbliche si conforma al metodo della programmazione.
 
@@ -250,7 +244,7 @@ g) gli specifici strumenti di programmazione delle amministrazioni pubbliche div
 
 3\. I documenti di cui al comma 2, ((lettere a), b), d) ed e) )), sono presentati alle Camere dal Governo su proposta del Ministro dell'economia e delle finanze, sentito, per quanto concerne la terza sezione del DEF, il Ministro per le politiche europee. Il documento di cui al comma 2, lettera a), e' inviato, entro i termini ivi indicati, per il relativo parere alla Conferenza permanente per il coordinamento della finanza pubblica, la quale si esprime in tempo utile per le deliberazioni parlamentari di cui alla medesima lettera a).
 
-###### Art. 8 - Coordinamento della finanza pubblica degli enti territoriali
+#### Art. 8 - Coordinamento della finanza pubblica degli enti territoriali
 
 1\. Le regioni, le province autonome di Trento e di Bolzano e gli enti locali determinano gli obiettivi dei propri bilanci annuali e pluriennali in coerenza con gli obiettivi programmatici risultanti dal DEF.
 
@@ -260,7 +254,7 @@ g) gli specifici strumenti di programmazione delle amministrazioni pubbliche div
 
 4\. ((COMMA ABROGATO DALLA L. 4 AGOSTO 2016, N. 163)).
 
-###### Art. 9 - Rapporti con l'Unione europea in tema di finanza pubblica
+#### Art. 9 - Rapporti con l'Unione europea in tema di finanza pubblica
 
 1\. Il Programma di stabilita' e il Programma nazionale di riforma sono presentati al Consiglio dell'Unione europea e alla Commissione europea entro il 30 aprile e comunque nei termini e con le modalita' previsti dal Codice di condotta sull'attuazione del patto di stabilita' e crescita.
 
@@ -270,7 +264,7 @@ g) gli specifici strumenti di programmazione delle amministrazioni pubbliche div
 
 3\. Il Ministro dell'economia e delle finanze, entro quindici giorni dalla trasmissione delle linee guida di politica economica e di bilancio a livello dell'Unione europea elaborate dal Consiglio europeo, riferisce alle competenti Commissioni parlamentari, fornendo una valutazione dei dati e delle misure prospettate dalle linee guida, nonche' delle loro implicazioni per l'Italia, anche ai fini della predisposizione del Programma di stabilita' e del Programma nazionale di riforma.
 
-###### Art. 10 - Documento di economia e finanza
+#### Art. 10 - Documento di economia e finanza
 
 1\. Il DEF, come risultante dalle conseguenti deliberazioni parlamentari, e' composto da tre sezioni.
 
@@ -342,7 +336,7 @@ d) i prevedibili effetti delle riforme proposte in termini di crescita dell'econ
 
 11\. Il Ministro dell'economia e delle finanze, entro il 30 giugno di ogni anno, a integrazione del DEF, trasmette alle Camere un apposito allegato in cui sono riportati i risultati del monitoraggio degli effetti sui saldi di finanza pubblica, sia per le entrate sia per le spese, derivanti dalle misure contenute nelle manovre di bilancio adottate anche in corso d'anno, che il Dipartimento della Ragioneria generale dello Stato e il Dipartimento delle finanze del Ministero dell'economia e delle finanze sono tenuti ad assicurare; sono inoltre indicati gli scostamenti rispetto alle valutazioni originarie e le relative motivazioni.
 
-###### Art. 10-bis - Nota di aggiornamento del Documento di economia e finanza
+#### Art. 10-bis - Nota di aggiornamento del Documento di economia e finanza
 
 1\. La Nota di aggiornamento del DEF contiene:
 
@@ -378,7 +372,7 @@ AGGIORNAMENTO (14)
 
 Il D.Lgs. 24 settembre 2015, n. 160, ha disposto (con l'art. 3, comma 2) che la presente modifica si applica con effetto dal 1 gennaio 2016.
 
-###### Art. 10-bis.1
+#### Art. 10-bis.1
 
 (( (Monitoraggio dell'evasione fiscale e contributiva).))
 
@@ -424,7 +418,7 @@ Il D.Lgs. 24 settembre 2015, n. 160, ha disposto (con l'art. 2, comma 2) che "La
 
 Ha inoltre disposto (con l'art. 3, comma 2) che la presente modifica si applica con effetto dal 1 gennaio 2016.
 
-###### Art. 10-ter
+#### Art. 10-ter
 
 ((Monitoraggio previsioni))
 
@@ -434,19 +428,17 @@ Ha inoltre disposto (con l'art. 3, comma 2) che la presente modifica si applica 
 
 3\. Qualora i risultati della valutazione evidenzino un errore significativo rispetto alle risultanze di consuntivo, che si ripercuota sulle previsioni macroeconomiche per un periodo di almeno quattro anni consecutivi, il Governo trasmette una relazione al Parlamento nella quale indica le ragioni dello scostamento, nonche' le eventuali azioni che intende intraprendere.))
 
-###### Art. 11
+#### Art. 11
 
 ((ARTICOLO ABROGATO DALLA L. 4 AGOSTO 2016, N. 163))
 
-###### Art. 12
+#### Art. 12
 
 ((ARTICOLO ABROGATO DALLA L. 4 AGOSTO 2016, N. 163))
 
-## TITOLO IV
+## TITOLO IV - MONITORAGGIO DEI CONTI PUBBLICI
 
-### MONITORAGGIO DEI CONTI PUBBLICI
-
-###### Art. 13 - Banca dati delle amministrazioni pubbliche
+#### Art. 13 - Banca dati delle amministrazioni pubbliche
 
 1\. Al fine di assicurare un efficace controllo e monitoraggio degli andamenti della finanza pubblica, nonche' per acquisire gli elementi informativi necessari ((alla ricognizione di cui all'articolo 1, comma 3, e)) per dare attuazione e stabilita' al federalismo fiscale, le amministrazioni pubbliche provvedono a inserire in una banca dati unitaria istituita presso il Ministero dell'economia e delle finanze, accessibile ((all'ISTAT e)) alle stesse amministrazioni pubbliche secondo modalita' da stabilire con appositi decreti del Ministro dell'economia e delle finanze, sentiti la Conferenza permanente per il coordinamento della finanza pubblica ((, l'ISTAT)) e il Centro nazionale per l'informatica nella pubblica amministrazione (CNIPA), i dati concernenti i bilanci di previsione, le relative variazioni, i conti consuntivi, quelli relativi alle operazioni gestionali, nonche' tutte le informazioni necessarie all'attuazione della presente legge. Con apposita intesa in sede di Conferenza permanente per il coordinamento della finanza pubblica sono definite le modalita' di accesso degli enti territoriali alla banca dati. Con decreto del Ministro dell'economia e delle finanze e' individuata la struttura dipartimentale responsabile della suddetta banca dati.
 
@@ -456,7 +448,7 @@ Ha inoltre disposto (con l'art. 3, comma 2) che la presente modifica si applica 
 
 4\. Agli oneri derivanti dall'attuazione del presente articolo, pari complessivamente a 10 milioni di euro per l'anno 2010, 11 milioni di euro per l'anno 2011 e 5 milioni di euro a decorrere dall'anno 2012, si provvede mediante corrispondente riduzione dell'autorizzazione di spesa prevista dall'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307, relativa al Fondo per interventi strutturali di politica economica. Con il medesimo decreto di cui al comma 3 possono essere stabilite le modalita' di ripartizione delle risorse tra le amministrazioni preposte alla realizzazione della banca dati.
 
-###### Art. 14 - Controllo e monitoraggio dei conti pubblici
+#### Art. 14 - Controllo e monitoraggio dei conti pubblici
 
 1\. In relazione alle esigenze di controllo e di monitoraggio degli andamenti della finanza pubblica, utilizzando anche i dati di cui al comma 1 dell'articolo 13, il Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato provvede a:
 
@@ -496,7 +488,7 @@ e) consentire l'accesso e l'invio in formato elettronico elaborabile dei dati di
 
 11\. Le amministrazioni pubbliche che non adempiono regolarmente agli obblighi di cui ai commi 6, 7 e 9 non possono effettuare prelevamenti dai conti aperti presso la tesoreria dello Stato. In allegato alle relazioni di cui al comma 4 sono indicate le amministrazioni inadempienti rispetto alle disposizioni di cui al comma 6.
 
-###### Art. 15
+#### Art. 15
 
 (Disposizioni speciali e transitorie
 
@@ -548,7 +540,7 @@ per il monitoraggio dei conti pubblici)
 
 > attuazione.».
 
-###### Art. 16
+#### Art. 16
 
 (Potenziamento del monitoraggio
 
@@ -596,11 +588,9 @@ attraverso attivita' di revisori e sindaci)
 
 > dei collegi sindacali.».
 
-## TITOLO V
+## TITOLO V - LA COPERTURA FINANZIARIA DELLE LEGGI
 
-### LA COPERTURA FINANZIARIA DELLE LEGGI
-
-###### Art. 17 - Copertura finanziaria delle leggi
+#### Art. 17 - Copertura finanziaria delle leggi
 
 1\. In attuazione dell'articolo 81 della Costituzione, fermo restando quanto previsto dall'articolo 6 della legge 24 dicembre 2012, n. 243, e dall'articolo 21 della presente legge, ciascuna legge che comporti nuovi o maggiori oneri indica espressamente, per ciascun anno e per ogni intervento da essa previsto, la spesa autorizzata, che si intende come limite massimo di spesa, ovvero le relative previsioni di spesa, provvedendo alla contestuale copertura finanziaria dei medesimi oneri ai sensi del presente comma. Nel caso si verifichino nuove o maggiori spese rispetto alle previsioni, alla compensazione dei relativi effetti finanziari si provvede ai sensi dei commi 12-bis, 12-ter e 12-quater. La copertura finanziaria delle leggi che comportino nuovi o maggiori oneri, ovvero minori entrate, e' determinata esclusivamente attraverso le seguenti modalita':
 
@@ -658,7 +648,7 @@ Qualora i suddetti stanziamenti non siano sufficienti alla copertura finanziaria
 
 14\. Le disposizioni contenute nei provvedimenti legislativi di iniziativa governativa che prevedono l'incremento o la riduzione di stanziamenti di bilancio indicano anche le missioni di spesa e i relativi programmi interessati.
 
-###### Art. 18 - Fondi speciali
+#### Art. 18 - Fondi speciali
 
 1\. La prima sezione della legge di bilancio prevede gli importi dei fondi speciali destinati alla copertura finanziaria di provvedimenti legislativi che si prevede siano approvati nel corso degli esercizi finanziari compresi nel bilancio pluriennale ed in particolare di quelli correlati al perseguimento degli obiettivi indicati nel DEF. In tabelle allegate alla prima sezione della legge di bilancio sono indicate, distintamente per la parte corrente e per la parte in conto capitale, le somme destinate alla copertura dei predetti provvedimenti legislativi ripartite per Ministeri. Nella relazione illustrativa del disegno di legge di bilancio, con apposite note, sono indicati i singoli provvedimenti legislativi che motivano lo stanziamento proposto per ciascun Ministero. I fondi speciali di cui al presente comma sono iscritti nello stato di previsione del Ministero dell'economia e delle finanze in appositi fondi la cui riduzione, ai fini della integrazione per competenza e cassa di programmi esistenti o di nuovi programmi, puo' avvenire solo dopo la pubblicazione dei provvedimenti legislativi che li utilizzano.
 
@@ -666,27 +656,23 @@ Qualora i suddetti stanziamenti non siano sufficienti alla copertura finanziaria
 
 3\. Le quote dei fondi speciali di parte corrente e, se non corrispondono a disegni di legge gia' approvati da un ramo del Parlamento, di quelli di parte capitale non utilizzate entro l'anno cui si riferiscono, costituiscono economie di bilancio. Nel caso di spese corrispondenti ad obblighi internazionali, la copertura finanziaria prevista per il primo anno resta valida anche dopo la conclusione dell'esercizio cui si riferisce per i provvedimenti presentati alle Camere entro l'anno ed entrati in vigore entro ((l'anno successivo. Per le leggi approvate entro l'anno e pubblicate nella Gazzetta Ufficiale dell'anno successivo la copertura finanziaria prevista per il primo anno resta valida anche dopo la conclusione dell'esercizio.)) Le economie di spesa da utilizzare a tal fine nell'esercizio successivo formano oggetto di appositi elenchi trasmessi alle Camere a cura del Ministro dell'economia e delle finanze entro il 25 gennaio; detti elenchi vengono allegati al conto consuntivo del Ministero dell'economia e delle finanze. In tal caso, le nuove o maggiori spese sono comunque iscritte nel bilancio dell'esercizio nel corso del quale entrano in vigore le norme che le autorizzano e sono portate in aumento dei limiti dei saldi previsti dall'articolo 21, comma 1-ter, lettera a).
 
-###### Art. 19 - Leggi con oneri a carico dei bilanci degli enti del settore pubblico
+#### Art. 19 - Leggi con oneri a carico dei bilanci degli enti del settore pubblico
 
 1\. Le leggi e i provvedimenti che comportano oneri, anche sotto forma di minori entrate, a carico dei bilanci delle amministrazioni pubbliche devono contenere la previsione dell'onere stesso e l'indicazione della copertura finanziaria riferita ai relativi bilanci, annuali e pluriennali.
 
 2\. Ai sensi ((dell'articolo 81, terzo comma, della Costituzione)), le regioni e le province autonome di Trento e di Bolzano sono tenute a indicare la copertura finanziaria alle leggi che prevedano nuovi o maggiori oneri a carico della loro finanza e della finanza di altre amministrazioni pubbliche anche attraverso il conferimento di nuove funzioni o la disciplina delle funzioni ad esse attribuite. A tal fine utilizzano le metodologie di copertura previste dall'articolo 17.
 
-## TITOLO VI
+## TITOLO VI - IL BILANCIO DELLO STATO
 
-### IL BILANCIO DELLO STATO
+### CAPO I - BILANCIO DI PREVISIONE DELLO STATO
 
-#### CAPO I
-
-##### BILANCIO DI PREVISIONE DELLO STATO
-
-###### Art. 20 - Anno finanziario
+#### Art. 20 - Anno finanziario
 
 1\. La gestione finanziaria dello Stato si svolge in base al bilancio annuale di previsione redatto in termini di competenza e cassa.
 
 2\. L'unita' temporale della gestione e' l'anno finanziario che comincia il 1° gennaio e termina il 31 dicembre dello stesso anno.
 
-###### Art. 21 - Bilancio di previsione
+#### Art. 21 - Bilancio di previsione
 
 1\. Il disegno di legge del bilancio di previsione si riferisce ad un periodo triennale e si compone di due sezioni.
 
@@ -822,7 +808,7 @@ AGGIORNAMENTO (15)
 
 Il D.Lgs. 12 maggio 2016, n. 90 ha disposto (con l'art. 2, comma 5) che "Al fine di consentire l'adeguamento dei sistemi informativi conseguente alla revisione della struttura delle note integrative di cui all'articolo 21, comma 11, lettera a), della legge 31 dicembre 2009, n. 196, come modificato dal presente articolo, il piano degli obiettivi continua a fare riferimento ai programmi di spesa e si adegua a quanto previsto dal comma 4 non oltre gli adempimenti relativi alla predisposizione del disegno di legge di bilancio relativo all'anno 2018".
 
-###### Art. 21-bis
+#### Art. 21-bis
 
 (( (Accertamento qualificato).))
 
@@ -834,11 +820,11 @@ Il D.Lgs. 12 maggio 2016, n. 90 ha disposto (con l'art. 2, comma 5) che "Al fine
 
 4\. Resta ferma la vigente disciplina generale relativa all'accertamento e agli obblighi di registrazione delle entrate nonche' alla cura della riscossione.))
 
-###### Art. 22
+#### Art. 22
 
 ((ARTICOLO ABROGATO DALLA L. 4 AGOSTO 2016, N. 163))
 
-###### Art. 22-bis - Programmazione finanziaria e accordi tra Ministeri
+#### Art. 22-bis - Programmazione finanziaria e accordi tra Ministeri
 
 1\. Nell'ambito del contributo dello Stato alla definizione della manovra di finanza pubblica, sulla base degli obiettivi programmatici indicati nel Documento di economia e finanza di cui all'articolo 10, e di quanto previsto dal cronoprogramma delle riforme indicato nel suddetto documento programmatico, entro il 31 maggio di ciascun anno, con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro dell'economia e delle finanze, previa deliberazione del Consiglio dei ministri, sono definiti obiettivi di spesa per ciascun Ministero. Tali obiettivi riferiti al successivo triennio, possono essere definiti in termini di limiti di spesa, comprendendo in essi anche eventuali risorse aggiuntive rispetto a quelle previste a legislazione vigente, e di risparmi da conseguire, anche tenendo conto delle eventuali ulteriori iniziative connesse alle priorita' politiche del Governo.
 
@@ -850,7 +836,7 @@ Il D.Lgs. 12 maggio 2016, n. 90 ha disposto (con l'art. 2, comma 5) che "Al fine
 
 5\. Ciascun Ministro invia entro il 1° marzo al Presidente del Consiglio dei ministri e al Ministro dell'economia e delle finanze, con riferimento agli accordi in essere nell'esercizio precedente, una relazione che illustra il grado di raggiungimento dei risultati ivi previsti e le motivazioni dell'eventuale mancato raggiungimento degli stessi, tenuto conto anche di quanto emerso nel corso del monitoraggio effettuato ai sensi dei commi 3 e 4. Le relazioni di cui al periodo precedente sono allegate al Documento di economia e finanza.
 
-###### Art. 23 - Formazione del bilancio
+#### Art. 23 - Formazione del bilancio
 
 1\. Ai fini della definizione del disegno di legge di bilancio, in sede di formulazione degli schemi degli stati di previsione della seconda sezione del medesimo disegno di legge, tenuto conto delle istruzioni fornite annualmente con apposita circolare dal Ministero dell'economia e delle finanze, i Ministri, anche sulla base delle proposte dei responsabili della gestione dei programmi e in relazione agli obiettivi di ciascun Dicastero definiti ai sensi dell'articolo 22-bis, comma 1, indicano le risorse necessarie per il raggiungimento dei medesimi obiettivi anche mediante proposte di rimodulazione delle stesse risorse. PERIODO SOPPRESSO DALLA L. 4 AGOSTO 2016, N. 163.
 
@@ -888,7 +874,7 @@ AGGIORNAMENTO (17)
 
 Il D.Lgs. 12 maggio 2016, n. 93, come modificato dalla L. 4 agosto 2016, n. 163, ha disposto (con l'art. 9, commi 1 e 2) che le modifiche di cui ai commi 1-ter, 2 e 5-bis del presente articolo non decorrono piu' dal 1 gennaio 2017 ma dal 16 giugno 2016. Tali modifiche, nell'anno 2016, si applicano esclusivamente ai fini della definizione del disegno di legge di bilancio.
 
-###### Art. 24 - Integrita', universalita' ed unita' del bilancio
+#### Art. 24 - Integrita', universalita' ed unita' del bilancio
 
 1\. I criteri dell'integrita', dell'universalita' e dell'unita' del bilancio dello Stato costituiscono profili attuativi dell'articolo 81 della Costituzione.
 
@@ -902,11 +888,9 @@ Il D.Lgs. 12 maggio 2016, n. 93, come modificato dalla L. 4 agosto 2016, n. 163,
 
 ((5-bis. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, su proposta del Ministro competente, le variazioni di bilancio occorrenti per l'iscrizione nei diversi stati di previsione della spesa interessati delle somme versate all'entrata del bilancio dello Stato finalizzate per legge al finanziamento di specifici interventi o attivita'.))
 
-## CAPO II
+### CAPO II - LE ENTRATE E LE SPESE DELLO STATO
 
-### LE ENTRATE E LE SPESE DELLO STATO
-
-###### Art. 25 - Classificazione delle entrate e delle spese
+#### Art. 25 - Classificazione delle entrate e delle spese
 
 1\. Le entrate dello Stato sono ripartite in:
 
@@ -956,7 +940,7 @@ c) del risultato differenziale delle operazioni finali, rappresentate da tutte l
 
 d) del risultato differenziale fra il totale delle entrate finali e il totale delle spese ("ricorso al mercato").
 
-###### Art. 25-bis - Introduzione delle azioni
+#### Art. 25-bis - Introduzione delle azioni
 
 1\. I programmi di spesa, come definiti all'articolo 21, comma 2, secondo e terzo periodo, sono suddivisi in azioni.
 
@@ -996,7 +980,7 @@ In ogni caso, ai fini della gestione e della rendicontazione, le spese di person
 
 ((8-bis. Conclusa la sperimentazione di cui al comma 7, l'elenco delle azioni puo' essere aggiornato con decreto del Ministro dell'economia e delle finanze. In ogni caso, i decreti di variazioni di bilancio conseguenti all'approvazione di nuovi leggi, ricorrendone i presupposti, possono istituire nuove azioni e modificare quelle esistenti, anche nelle more della sperimentazione di cui al comma 7.))
 
-###### Art. 26 - Fondo di riserva per le spese obbligatorie
+#### Art. 26 - Fondo di riserva per le spese obbligatorie
 
 1\. Nello stato di previsione della spesa del Ministero dell'economia e delle finanze e' istituito, nella parte corrente, un "fondo di riserva per le spese obbligatorie" la cui dotazione e' determinata, con apposito articolo, dalla legge di approvazione del bilancio.
 
@@ -1004,13 +988,13 @@ In ogni caso, ai fini della gestione e della rendicontazione, le spese di person
 
 3\. Allo stato di previsione della spesa del Ministero dell'economia e delle finanze e' allegato l'elenco ((delle unita' elementari di bilancio)) di cui al comma 2, da approvare, con apposito articolo, con la legge del bilancio.
 
-###### Art. 27 - Fondi speciali per la reiscrizione in bilancio di residui passivi perenti delle spese correnti e in conto capitale
+#### Art. 27 - Fondi speciali per la reiscrizione in bilancio di residui passivi perenti delle spese correnti e in conto capitale
 
 1\. Nello stato di previsione della spesa del Ministero dell'economia e delle finanze sono istituiti, nella parte corrente e nella parte in conto capitale, rispettivamente, un "fondo speciale per la riassegnazione dei residui passivi della spesa di parte corrente eliminati negli esercizi precedenti per perenzione amministrativa" e un "fondo speciale per la riassegnazione dei residui passivi della spesa in conto capitale eliminati negli esercizi precedenti per perenzione amministrativa", le cui dotazioni sono determinate, con apposito articolo, dalla legge del bilancio.
 
 2\. Il trasferimento di somme dai fondi di cui al comma 1 e la loro corrispondente iscrizione ((alle unita' elementari di bilancio, ai fini della gestione e della rendicontazione,)) hanno luogo mediante decreti del Ministro dell'economia e delle finanze, da registrare alla Corte dei conti, e riguardano sia le dotazioni di competenza che quelle di cassa ((delle unita' elementari di bilancio interessate)).
 
-###### Art. 28 - Fondo di riserva per le spese impreviste
+#### Art. 28 - Fondo di riserva per le spese impreviste
 
 1\. Nello stato di previsione del Ministero dell'economia e delle finanze e' istituito, nella parte corrente, un "fondo di riserva per le spese impreviste" per provvedere alle eventuali deficienze delle assegnazioni di bilancio, che non riguardino le spese di cui all'articolo 26 e che, comunque, non impegnino i bilanci futuri con carattere di continuita'.
 
@@ -1020,13 +1004,13 @@ In ogni caso, ai fini della gestione e della rendicontazione, le spese di person
 
 4\. Alla legge di approvazione del rendiconto generale dello Stato e' allegato un elenco dei decreti di cui al comma 2, con le indicazioni dei motivi per i quali si e' proceduto ai prelevamenti dal fondo di cui al presente articolo.
 
-###### Art. 29 - Fondo di riserva per le autorizzazioni di cassa
+#### Art. 29 - Fondo di riserva per le autorizzazioni di cassa
 
 1\. Nello stato di previsione del Ministero dell'economia e delle finanze e' istituito un "fondo di riserva per l'integrazione delle autorizzazioni di cassa" il cui stanziamento e' annualmente determinato, con apposito articolo, dalla legge del bilancio.
 
 2\. Con decreto del Ministro dell'economia e delle finanze, su proposta del Ministro interessato, da comunicare alla Corte dei conti, sono trasferite dal fondo di cui al comma 1 ed iscritte in aumento delle autorizzazioni di cassa ((delle unita' elementari di bilancio, ai fini della gestione e della rendicontazione, iscritte)) negli stati di previsione delle amministrazioni statali le somme necessarie a provvedere ad eventuali deficienze delle dotazioni ((delle medesime unita' elementari di bilancio)), ritenute compatibili con gli obiettivi di finanza pubblica. I decreti di variazione di cui al presente comma sono trasmessi al Parlamento.
 
-###### Art. 30 - Leggi di spesa pluriennale e a carattere permanente
+#### Art. 30 - Leggi di spesa pluriennale e a carattere permanente
 
 1\. Le leggi pluriennali di spesa in conto capitale quantificano la spesa complessiva e le quote di competenza attribuite a ciascun anno interessato. Le amministrazioni centrali dello Stato possono assumere impegni nei limiti dell'intera somma indicata dalle predette leggi mentre i relativi pagamenti devono essere contenuti nei limiti delle autorizzazioni annuali di bilancio.
 
@@ -1088,11 +1072,11 @@ AGGIORNAMENTO (27)
 
 Il D.L. 18 aprile 2019, n. 32, convertito con modificazioni dalla L. 14 giugno 2019, n. 55, come modificato dal D.L. 18 novembre 2022, n. 176, convertito con modificazioni dalla L. 13 gennaio 2023, n. 6, ha disposto (con l'art. 4-quater, comma 1-bis) che "A decorrere dall'esercizio finanziario 2023 la facolta' di cui all'articolo 30, comma 2, lettera b), della legge 31 dicembre 2009, n. 196, puo' essere utilizzata una sola volta per le medesime risorse".
 
-###### Art. 31 - Garanzie statali
+#### Art. 31 - Garanzie statali
 
 1\. In allegato allo stato di previsione della spesa del Ministero dell'economia e delle finanze sono elencate le garanzie principali e sussidiarie prestate dallo Stato a favore di enti o altri soggetti.
 
-###### Art. 31-bis
+#### Art. 31-bis
 
 ((Gestioni fuori bilancio))
 
@@ -1100,7 +1084,7 @@ Il D.L. 18 aprile 2019, n. 32, convertito con modificazioni dalla L. 14 giugno 2
 
 2\. Per il bilancio dello Stato, le informazioni di cui al comma 1 del presente articolo sono rese disponibili mediante allegato conoscitivo per ciascuno stato di previsione della spesa dei Ministeri interessati nel disegno di legge di bilancio, secondo modalita' stabilite con Decreto del Presidente del Consiglio dei Ministri su proposta del Ministro dell'economia e delle finanze.))
 
-###### Art. 32 - Esercizio provvisorio
+#### Art. 32 - Esercizio provvisorio
 
 1\. L'esercizio provvisorio del bilancio non puo' essere concesso se non per legge e per periodi non superiori complessivamente a quattro mesi.
 
@@ -1108,7 +1092,7 @@ Il D.L. 18 aprile 2019, n. 32, convertito con modificazioni dalla L. 14 giugno 2
 
 3\. Le limitazioni di cui al comma 2 si intendono riferite sia alle autorizzazioni di impegno sia a quelle di pagamento.
 
-###### Art. 33 - Assestamento e variazioni di bilancio
+#### Art. 33 - Assestamento e variazioni di bilancio
 
 1\. Entro il mese di giugno di ciascun anno, il Ministro dell'economia e delle finanze presenta un disegno di legge ai fini dell'assestamento delle previsioni di bilancio formulate a legislazione vigente, anche sulla scorta della consistenza dei residui attivi e passivi accertata in sede di rendiconto dell'esercizio scaduto il 31 dicembre precedente.
 
@@ -1134,7 +1118,7 @@ Il D.L. 18 aprile 2019, n. 32, convertito con modificazioni dalla L. 14 giugno 2
 
 4-octies. Il budget di cui all'articolo 21, comma 11, lettera f), e' aggiornato sulla base del disegno di legge di assestamento e, successivamente, sulla base delle eventuali modifiche apportate al medesimo disegno di legge a seguito dell'esame parlamentare.
 
-###### Art. 34 - Impegno e pagamento
+#### Art. 34 - Impegno e pagamento
 
 1\. I dirigenti, nell'ambito delle attribuzioni ad essi demandate, impegnano ed ordinano le spese nei limiti delle risorse assegnate in bilancio. Restano ferme le disposizioni speciali che attribuiscono la competenza a disporre impegni e ordini di spesa ad organi costituzionali dello Stato dotati di autonomia contabile.
 
@@ -1202,7 +1186,7 @@ AGGIORNAMENTO (20)
 
 Il D.Lgs. 12 maggio 2016, n. 93, come modificato dal D.L. 16 ottobre 2017, n. 148, convertito con modificazioni dalla L. 4 dicembre 2017, n. 172, ha disposto (con l'art. 9, comma 2) che "Le disposizioni dell'articolo 34 della legge 31 dicembre 2009, n. 196, come sostituito dall'articolo 3 del presente decreto, acquistano efficacia dal 1° gennaio 2019, salvo il comma 3 del medesimo articolo 34, le cui disposizioni si applicano a decorrere dal 1° gennaio 2017."
 
-###### Art. 34-bis - Conservazione dei residui passivi
+#### Art. 34-bis - Conservazione dei residui passivi
 
 1\. Salvo che non sia diversamente previsto con legge, gli stanziamenti di parte corrente non impegnati al termine dell'esercizio costituiscono economie di bilancio.
 
@@ -1250,7 +1234,7 @@ Il D.L. 18 aprile 2019, n. 32, convertito con modificazioni dalla L. 14 giugno 2
 
 b) per le spese in conto capitale i termini di cui al comma 3 dell'articolo 34-bis della legge 31 dicembre 2009, n. 196, sono prolungati di un ulteriore esercizio e quelli di cui al comma 4, primo periodo, del medesimo articolo 34-bis sono prolungati di ulteriori tre esercizi".
 
-###### Art. 34-ter - Accertamento e riaccertamento annuale dei residui passivi
+#### Art. 34-ter - Accertamento e riaccertamento annuale dei residui passivi
 
 1\. Decorso il termine dell'esercizio finanziario, per ogni ((unita' elementare di bilancio.)), con decreto ministeriale da registrarsi alla Corte dei conti, e' determinata la somma da conservarsi in conto residui per impegni riferibili all'esercizio scaduto. In apposito allegato al decreto medesimo sono altresi' individuate le somme relative a spese pluriennali in conto capitale non a carattere permanente da eliminare dal conto dei residui di stanziamento e da iscrivere nella competenza degli esercizi successivi ai sensi dell'articolo 30, comma 2, terzo periodo, riferibili ad esercizi precedenti all'esercizio scaduto. In apposito allegato al Rendiconto generale dello Stato sono elencate, distintamente per anno di iscrizione in bilancio, le somme relative al precedente periodo eliminate dal conto dei residui da reiscrivere nella competenza degli esercizi successivi, sui pertinenti programmi, con legge di bilancio.
 
@@ -1272,7 +1256,7 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 12 maggio 2016, n. 93, ha disposto (con l'art. 9, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2017.
 
-###### Art. 34-quater
+#### Art. 34-quater
 
 (( (Spesa decentrata agli Uffici periferici delle amministrazioni statali).))
 
@@ -1282,11 +1266,9 @@ Il D.Lgs. 12 maggio 2016, n. 93, ha disposto (con l'art. 9, comma 1) che la pres
 
 3\. Gli Uffici periferici assegnatari delle risorse provvedono all'assunzione degli impegni ai sensi dell'articolo 34 e all'ordinazione delle spese; gli stessi, qualora ne ravvisino la necessita', emettono ordini di accreditamento in favore di funzionari delegati preposti alle eventuali ulteriori articolazioni periferiche dell'Amministrazione.))
 
-## CAPO III
+### CAPO III - IL RENDICONTO GENERALE DELLO STATO
 
-### IL RENDICONTO GENERALE DELLO STATO
-
-###### Art. 35 - Risultanze della gestione
+#### Art. 35 - Risultanze della gestione
 
 1\. Il Ministro dell'economia e delle finanze presenta alle Camere, entro il mese di giugno, il rendiconto generale dell'esercizio scaduto il 31 dicembre dell'anno precedente, articolato per missioni e programmi. Il relativo disegno di legge e' corredato di apposita nota preliminare generale.
 
@@ -1296,7 +1278,7 @@ Il D.Lgs. 12 maggio 2016, n. 93, ha disposto (con l'art. 9, comma 1) che la pres
 
 4\. I regolamenti parlamentari stabiliscono le modalita' e i termini per l'esercizio del controllo, da parte delle Commissioni parlamentari competenti per materia, dello stato di attuazione dei programmi e delle relative risorse finanziarie.
 
-###### Art. 36 - Elementi del conto del bilancio e del conto del patrimonio
+#### Art. 36 - Elementi del conto del bilancio e del conto del patrimonio
 
 1\. I risultati della gestione dell'anno finanziario sono riassunti e dimostrati nel rendiconto generale dello Stato costituito da due distinte parti:
 
@@ -1334,17 +1316,17 @@ I costi sostenuti sono rappresentati secondo le voci del piano dei conti, distin
 
 7\. Il Ministro dell'economia e delle finanze, nella gestione delle spese, provvede ad assicurare adeguati controlli anche a carattere economico-finanziario.
 
-###### Art. 37 - Parificazione del rendiconto
+#### Art. 37 - Parificazione del rendiconto
 
 1\. Al termine dell'anno finanziario ciascun Ministero, per cura del direttore del competente ufficio centrale del bilancio, compila il conto del bilancio ed il conto del patrimonio relativi alla propria amministrazione.
 
 2\. I conti di cui al comma 1 sono trasmessi al Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato entro il 30 aprile successivo al termine dell'anno finanziario e, non piu' tardi del 31 maggio, il Ministro dell'economia e delle finanze, per cura del Ragioniere generale dello Stato, trasmette alla Corte dei conti il rendiconto generale dell'esercizio scaduto.
 
-###### Art. 38 - Presentazione del rendiconto
+#### Art. 38 - Presentazione del rendiconto
 
 1\. La Corte dei conti, parificato il rendiconto generale, lo trasmette al Ministro dell'economia e delle finanze per la successiva presentazione alle Camere.
 
-###### Art. 38-bis - Sistema di contabilita' integrata finanziaria economico-patrimoniale
+#### Art. 38-bis - Sistema di contabilita' integrata finanziaria economico-patrimoniale
 
 1\. Al fine di perseguire la qualita' e la trasparenza dei dati di finanza pubblica, le Amministrazioni centrali dello Stato adottano, nell'ambito della gestione, a fini conoscitivi, la contabilita' economico patrimoniale in affiancamento alla contabilita' finanziaria mediante l'adozione di un sistema integrato di scritture contabili che consenta la registrazione di ciascun evento gestionale contabilmente rilevante ed assicuri l'integrazione e la coerenza delle rilevazioni di natura finanziaria con quelle di natura economica e patrimoniale.
 
@@ -1354,7 +1336,7 @@ I costi sostenuti sono rappresentati secondo le voci del piano dei conti, distin
 
 4\. Con successivo regolamento da adottare entro il 31 ottobre 2016 ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, su proposta del Ministro dell'economia e delle finanze, sono definiti i principi contabili applicati; conseguentemente le amministrazioni centrali dello Stato uniformano l'esercizio delle rispettive funzioni di programmazione, gestione, rendicontazione e controllo. Tali principi possono essere modificati con decreto del Ministro dell'economia e delle finanze anche a seguito della sperimentazione di cui all'articolo 38-sexies.
 
-###### Art. 38-ter
+#### Art. 38-ter
 
 (( (Piano dei conti integrato).))
 
@@ -1380,7 +1362,7 @@ c) il livello minimo di articolazione del piano dei conti per le fasi di riferim
 
 4\. Gli aggiornamenti del piano dei conti sono adottati con decreto del Ministro dell'economia e delle finanze anche a seguito della sperimentazione di cui all'articolo 38-sexies.))
 
-###### Art. 38-quater
+#### Art. 38-quater
 
 (( (Transazione contabile elementare e sua codificazione).))
 
@@ -1390,7 +1372,7 @@ c) il livello minimo di articolazione del piano dei conti per le fasi di riferim
 
 3\. Entro quattro mesi dalla chiusura della sperimentazione di cui all'articolo 38-sexies, con decreto del Ministro dell'economia e delle finanze, sono definiti il contenuto della codifica della transazione elementare ed i criteri e le modalita' di applicazione delle disposizioni di cui al presente articolo.))
 
-###### Art. 38-quinquies
+#### Art. 38-quinquies
 
 (( (Adeguamento SIOPE).))
 
@@ -1398,7 +1380,7 @@ c) il livello minimo di articolazione del piano dei conti per le fasi di riferim
 
 2\. Eventuali ulteriori livelli di articolazione delle codifiche SIOPE sono riconducibili alle aggregazioni previste dal piano dei conti integrato.))
 
-###### Art. 38-sexies - Sperimentazione
+#### Art. 38-sexies - Sperimentazione
 
 1\. Con decreto del Ministro dell'economia e delle finanze, da adottare entro trenta giorni dalla data di emanazione del regolamento di cui all'articolo 38-ter, comma 3, e' disciplinata un'attivita' di sperimentazione di durata non superiore a tre anni esercizi finanziari, con verifica dei risultati a consuntivo, al fine di valutare gli effetti dell'adozione della contabilita' integrata, del piano dei conti integrato e del suo utilizzo quale struttura di riferimento per la predisposizione dei documenti contabili e di bilancio unitamente alle missioni, ai programmi e alle azioni di cui all'articolo 25-bis, nonche' della codifica provvisoria di cui al periodo successivo. Con il medesimo decreto e' introdotta una codifica provvisoria delle transazioni elementari di cui all'articolo 38-quater, comma 1, al fine di tracciare le operazioni contabili movimentando contemporaneamente le voci del piano dei conti finanziario economico e patrimoniale. ((26))
 
@@ -1408,7 +1390,7 @@ AGGIORNAMENTO (26)
 
 Il D.L. 31 maggio 2021, n. 77 ha disposto (con l'art. 15, comma 6) che "Il termine della sperimentazione di cui all'articolo 38-sexies della legge 31 dicembre 2009, n. 196, e' prorogato di un anno".
 
-###### Art. 38-septies - Bilancio di genere
+#### Art. 38-septies - Bilancio di genere
 
 1\. Il Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato, avvia un'apposita sperimentazione dell'adozione di un bilancio di genere, per la valutazione del diverso impatto della politica di bilancio sulle donne e sugli uomini, in termini di denaro, servizi, tempo e lavoro non retribuito, ((anche al fine di perseguire la parita' di genere tramite le politiche pubbliche, ridefinendo e ricollocando conseguentemente le risorse, tenendo conto anche dell'andamento degli indicatori di benessere equo e sostenibile di cui all'articolo 10, comma 10-bis)).
 
@@ -1422,11 +1404,9 @@ Dall'istituzione e dal funzionamento del Comitato non devono derivare nuovi o ma
 
 3-bis. Il Ministro dell'economia e delle finanze trasmette alle Camere una relazione sulla sperimentazione di cui al comma 1 e successivamente sui risultati dell'adozione definitiva.
 
-## Capo IV
+### Capo IV - ANALISI E VALUTAZIONE DELLA SPESA E COMPLETAMENTO DELLA RIFORMA DEL BILANCIO DELLO STATO
 
-### ANALISI E VALUTAZIONE DELLA SPESA E COMPLETAMENTO DELLA RIFORMA DEL BILANCIO DELLO STATO
-
-###### Art. 39 - Analisi e valutazione della spesa
+#### Art. 39 - Analisi e valutazione della spesa
 
 1\. Il Ministero dell'economia e delle finanze collabora con le amministrazioni centrali dello Stato, al fine di garantire il supporto per la verifica dei risultati raggiunti rispetto agli obiettivi di cui all'articolo 10, comma 2, lettera e), per il monitoraggio dell'efficacia delle misure rivolte al loro conseguimento e di quelle disposte per incrementare il livello di efficienza delle amministrazioni stesse. La collaborazione ha luogo nell'ambito di appositi nuclei di analisi e valutazione della spesa, istituiti senza nuovi o maggiori oneri a carico della finanza pubblica. Con decreto del Ministro dell'economia e delle finanze sono disciplinate la composizione e le modalita' di funzionamento dei nuclei. Ai predetti nuclei partecipa anche un rappresentante della Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica.
 
@@ -1436,7 +1416,7 @@ Dall'istituzione e dal funzionamento del Comitato non devono derivare nuovi o ma
 
 4\. Per le attivita' di cui al presente articolo, ((...)) il Ministero dell'economia e delle finanze istituisce e condivide con le amministrazioni centrali dello Stato, nell'ambito della banca dati di cui all'articolo 13, una apposita sezione che raccoglie tutte le informazioni necessarie alla realizzazione degli obiettivi di cui al comma 1 del presente articolo ((...)). La banca dati raccoglie le informazioni che le amministrazioni sono tenute a fornire attraverso una procedura da definire con decreto del Ministro dell'economia e delle finanze. Le informazioni di cui al presente comma sono trasmesse dal Ministero dell'economia e delle finanze alla Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica, ai fini dell'esercizio delle funzioni delegate al Ministro per la pubblica amministrazione e l'innovazione, secondo le modalita' stabilite con decreto del Ministro dell'economia e delle finanze e del Ministro per la pubblica amministrazione e l'innovazione.
 
-###### Art. 40 - Delega al Governo per il completamento della revisione della struttura del bilancio dello Stato
+#### Art. 40 - Delega al Governo per il completamento della revisione della struttura del bilancio dello Stato
 
 1\. Fermo restando quanto previsto dall'articolo 2, in materia di armonizzazione dei sistemi contabili e degli schemi di bilancio delle amministrazioni pubbliche, il Governo e' delegato ad adottare, entro ((quattro anni)) dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi per il completamento della riforma della struttura del bilancio dello Stato con particolare riguardo alla riorganizzazione dei programmi di spesa e delle missioni e alla programmazione delle risorse, assicurandone una maggiore certezza, trasparenza e flessibilita'.
 
@@ -1484,15 +1464,13 @@ q) previsione della possibilita' di identificare i contributi speciali iscritti 
 
 4\. Entro due anni dalla data di entrata in vigore dei decreti legislativi di cui al comma 1, possono essere adottate disposizioni correttive e integrative dei medesimi decreti legislativi, nel rispetto dei principi e criteri direttivi e con le stesse modalita' previsti dal presente articolo.
 
-###### Art. 41
+#### Art. 41
 
 ((ARTICOLO SOPPRESSO DAL D.LGS. 12 MAGGIO 2016, N. 90))
 
-## CAPO V
+### CAPO V - ((RIORDINO DELLA DISCIPLINA PER LA GESTIONE DEL BILANCIO DELLO STATO E POTENZIAMENTO DELLA FUNZIONE DEL BILANCIO DI CASSA))
 
-### ((RIORDINO DELLA DISCIPLINA PER LA GESTIONE DEL BILANCIO DELLO STATO E POTENZIAMENTO DELLA FUNZIONE DEL BILANCIO DI CASSA))
-
-###### Art. 42
+#### Art. 42
 
 (( (Delega al Governo per il riordino della disciplina per la gestione del bilancio e il potenziamento della funzione del bilancio di cassa) ))
 
@@ -1520,7 +1498,7 @@ h) rilevazione delle informazioni necessarie al raccordo dei dati di bilancio co
 
 4\. Entro dodici mesi dalla data di entrata in vigore del decreto legislativo di cui al comma 1 possono essere adottate disposizioni integrative e correttive del medesimo decreto, nel rispetto dei principi e criteri direttivi e con le medesime modalita' previsti dal presente articolo.))
 
-###### Art. 43
+#### Art. 43
 
 (Copertura finanziaria per l'adeguamento
 
@@ -1594,11 +1572,9 @@ b) quanto a 3.000.000 di euro per l'anno 2012, mediante corrispondente riduzione
 
 > l'anno 2005, derivanti dal comma 1».
 
-## TITOLO VII
+## TITOLO VII - TESORERIA DEGLI ENTI PUBBLICI E PROGRAMMAZIONE DEI FLUSSI DI CASSA
 
-### TESORERIA DEGLI ENTI PUBBLICI E PROGRAMMAZIONE DEI FLUSSI DI CASSA
-
-###### Art. 44 - Definizione dei saldi di cassa
+#### Art. 44 - Definizione dei saldi di cassa
 
 1\. Il saldo di cassa del settore statale e' il risultato del consolidamento tra flussi di cassa del bilancio dello Stato e della Tesoreria statale. Esso esprime il fabbisogno da finanziare attraverso emissioni di titoli di Stato ed altri strumenti a breve e lungo termine.
 
@@ -1606,7 +1582,7 @@ b) quanto a 3.000.000 di euro per l'anno 2012, mediante corrispondente riduzione
 
 3\. ((COMMA ABROGATO DALLA L. 4 AGOSTO 2016, N. 163)).
 
-###### Art. 44-bis - Revisione del Conto riassuntivo del Tesoro
+#### Art. 44-bis - Revisione del Conto riassuntivo del Tesoro
 
 1\. A partire dal Conto riassuntivo del Tesoro elaborato con riferimento al mese di gennaio 2017, il relativo contenuto e' rivisto secondo i criteri di cui al presente articolo e pubblicato in apposita sezione del sito istituzionale del Ministero dell'economia e delle finanze. I dati sono pubblicati in formato di tipo aperto ai sensi dell'articolo 68 del Codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, e sono riutilizzabili ai sensi del decreto legislativo 24 gennaio 2006, n. 36, del decreto legislativo 7 marzo 2005, n. 82, e del decreto legislativo 30 giugno 2003, n. 196, senza ulteriori restrizioni diverse dall'obbligo di citare la fonte e di rispettarne l'integrita'.
 
@@ -1614,7 +1590,7 @@ b) quanto a 3.000.000 di euro per l'anno 2012, mediante corrispondente riduzione
 
 3\. Le riscossioni e i pagamenti riferiti alla gestione del bilancio statale sono distinti secondo le classificazioni correnti della struttura del bilancio. Le riscossioni e i pagamenti riferiti alla gestione della tesoreria statale sono distinti a seconda che costituiscano il formarsi o l'estinguersi di partite debitorie o creditorie originate dalla gestione di tesoreria. Il Dipartimento della Ragioneria generale dello Stato provvede all'elaborazione di apposite tabelle, mediante le quali i dati contabili della gestione del bilancio statale sono integrati con quelli della gestione della tesoreria e sono raccordati ((con le emissioni nette di titoli di Stato e altri strumenti a breve e lungo termine e con il saldo di cassa del settore statale)).
 
-###### Art. 44-ter - Progressiva eliminazione delle gestioni contabili operanti a valere su contabilita' speciali o conti correnti di tesoreria
+#### Art. 44-ter - Progressiva eliminazione delle gestioni contabili operanti a valere su contabilita' speciali o conti correnti di tesoreria
 
 1\. Ai fini dell'attuazione dell'articolo 40, comma 2, lettera p), con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro dell'economia e delle finanze, sono individuate le gestioni operanti su contabilita' speciali o conti di tesoreria da ricondurre al regime di contabilita' ordinaria, con contestuale chiusura delle predette gestioni. Ai sensi dell'articolo 6, comma 6, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, i funzionari delegati preposti ad operare in regime di contabilita' ordinaria sono tenuti ad adottare il sistema SICOGE, utilizzandone obbligatoriamente le funzionalita' per l'emissione dei titoli di spesa in forma dematerializzata. ((In alternativa alla gestione tramite funzionari delegati, le amministrazioni centrali possono stabilire che la gestione prosegua in forma diretta a valere su apposita imputazione del bilancio dello Stato.)) Per le predette gestioni, le somme giacenti alla data della chiusura sono versate all'entrata del bilancio dello Stato, per la nuova assegnazione nella competenza delle inerenti imputazioni di spesa che vi hanno dato origine, ovvero, qualora queste ultime non fossero piu' esistenti in bilancio, a nuove imputazioni appositamente istituite. ((A decorrere dalla data di chiusura dei conti di tesoreria, al fine di mantenere l'operativita' delle gestioni contabili interessate, gli introiti derivanti da erogazioni effettuate da amministrazioni pubbliche, enti, organismi pubblici e privati nonche', limitatamente ai rimborsi di missione ed agli emolumenti in favore del personale riconosciuti alle strutture dei Ministeri titolari delle relative gestioni, dall'Unione europea, sono versati all'entrata del bilancio dello Stato per essere riassegnati negli stati di previsione dei Ministeri interessati.)) ((Le restanti somme riguardanti versamenti effettuati dall'Unione europea affluiscono sull'apposito conto corrente di tesoreria intestato al Fondo di rotazione per l'attuazione delle politiche comunitarie di cui all'articolo 5 della legge 16 aprile 1987, n. 183, e sono gestite secondo le disposizioni riguardanti il medesimo Fondo di rotazione. Al fine di garantire la continuita' operativa delle gestioni contabili nella fase di riconduzione al regime di contabilita' ordinaria, nel primo esercizio successivo alla chiusura operata ai sensi del presente comma, ove necessario, previa richiesta dell'amministrazione competente, il Ministero dell'economia e delle finanze puo' disporre il ricorso ad anticipazioni di tesoreria, la cui regolarizzazione avviene tempestivamente, nel medesimo anno, con l'emissione di ordini di pagamento sulle pertinenti unita' elementari di bilancio.))
 
@@ -1632,7 +1608,7 @@ b) quanto a 3.000.000 di euro per l'anno 2012, mediante corrispondente riduzione
 
 8\. Non e' consentita l'apertura di nuove contabilita' speciali ((o conti correnti di tesoreria)), i cui fondi siano costituiti mediante il versamento di somme iscritte in stanziamenti di spesa del bilancio dello Stato, fatte salve le esclusioni previste della lettera p) dell'articolo 40, comma 2. ((Nel caso di affidamento della gestione di specifici interventi a proprie societa' in house o a societa' a controllo statale come definite dall'articolo 2, comma 1, del decreto legislativo 19 agosto 2016, n. 175, le amministrazioni dello Stato, per l'effettuazione dei pagamenti, possono nominare funzionari delegati di contabilita' ordinaria i dipendenti dei soggetti gestori, i quali sono assoggettati alla vigilanza dell'amministrazione delegante e al controllo di regolarita' amministrativa e contabile da parte dei competenti organi di controllo.))
 
-###### Art. 44-quater
+#### Art. 44-quater
 
 (( (Gestioni delle amministrazioni statali presso il sistema bancario e postale). ))
 
@@ -1656,7 +1632,7 @@ AGGIORNAMENTO (17)
 
 La L. 4 agosto 2016, n. 163 ha disposto (con l'art. 10, comma 2) che "Per l'anno 2016, la trasmissione al Ministero dell'economia e delle finanze delle informazioni di cui al comma 2 dell'articolo 44-quater della legge 31 dicembre 2009, n. 196, introdotto dal comma 1 del presente articolo, e' effettuata dalle amministrazioni dello Stato entro sessanta giorni dalla data di entrata in vigore della presente legge".
 
-###### Art. 45 - Tesoreria degli enti pubblici
+#### Art. 45 - Tesoreria degli enti pubblici
 
 1\. In materia di Tesoreria unica, per gli enti ed organismi pubblici restano ferme le disposizioni contenute nella legge 29 ottobre 1984, n. 720.
 
@@ -1670,7 +1646,7 @@ La L. 4 agosto 2016, n. 163 ha disposto (con l'art. 10, comma 2) che "Per l'anno
 
 > 29 ottobre 1984, n. 298.
 
-###### Art. 46
+#### Art. 46
 
 (( (Programmazione finanziaria).
 
@@ -1694,7 +1670,7 @@ AGGIORNAMENTO (5)
 
 Il D.L. 6 luglio 2011, n. 98, convertito con modificazioni dalla L. 15 luglio 2011, n. 111, ha disposto (con l'art. 22, comma 4) che "Le sanzioni di cui al comma 2 e gli interessi di cui al comma 5 dell'articolo 46 della legge 31 dicembre 2009, n. 196, non sono applicati nei primi 150 giorni del periodo di sperimentazione e sono ridotti del 50 per cento nel rimanente periodo di sperimentazione".
 
-###### Art. 47 - Modifiche alla disciplina dei conti intrattenuti dal Tesoro per la gestione delle disponibilita' liquide
+#### Art. 47 - Modifiche alla disciplina dei conti intrattenuti dal Tesoro per la gestione delle disponibilita' liquide
 
 1\. All'articolo 5, comma 5, del testo unico delle disposizioni legislative e regolamentari in materia di debito pubblico, di cui al decreto del Presidente della Repubblica 30 dicembre 2003, n. 398, i primi tre periodi sono sostituiti dai seguenti: "Il Ministero dell'economia e delle finanze e la Banca d'Italia stabiliscono mediante convenzione le condizioni di tenuta del conto intrattenuto dal Tesoro presso la Banca d'Italia per il servizio di tesoreria e dei conti ad esso assimilabili ed il saldo massimo su cui la Banca d'Italia corrisponde un tasso di interesse, commisurato a parametri di mercato monetario. Con successivo decreto del Ministro, sulla base di criteri di trasparenza, efficienza e competitivita', sono stabilite le modalita' di movimentazione della liquidita' e di selezione delle controparti".
 
@@ -1940,7 +1916,7 @@ Il D.L. 6 luglio 2011, n. 98, convertito con modificazioni dalla L. 15 luglio 20
 
 > all'art. 5, comma 6».
 
-###### Art. 47-bis
+#### Art. 47-bis
 
 (( (Raccordo tra il bilancio statale e la gestione della tesoreria dello Stato).))
 
@@ -1956,17 +1932,15 @@ AGGIORNAMENTO (16)
 
 Il D.Lgs. 12 maggio 2016, n. 93, ha disposto (con l'art. 9, comma 1) che la presente modifica acquista efficacia a decorrere dal 1° gennaio 2017.
 
-###### Art. 48 - Ricorso al mercato delle pubbliche amministrazioni
+#### Art. 48 - Ricorso al mercato delle pubbliche amministrazioni
 
 1\. Nei contratti stipulati per operazioni di finanziamento che costituiscono quale debitore un'amministrazione pubblica e' inserita apposita clausola che prevede, a carico degli istituti finanziatori, l'obbligo di comunicare in via telematica ((e in formato elaborabile)), entro trenta giorni dalla stipula, al Ministero dell'economia e delle finanze - Dipartimento del Tesoro e Dipartimento della Ragioneria generale dello Stato, all'ISTAT e alla Banca d'Italia, l'avvenuto perfezionamento dell'operazione di finanziamento, con indicazione della data e dell'ammontare della stessa, del relativo piano delle erogazioni e del piano di ammortamento distintamente per quota capitale e quota interessi, ove disponibile. Non sono comunque soggette a comunicazione le operazioni di cui all'articolo 3 del testo unico delle disposizioni legislative e regolamentari in materia di debito pubblico, di cui al decreto del Presidente della Repubblica 30 dicembre 2003, n. 398, e successive modificazioni.
 
 2\. In caso di mancata o tardiva trasmissione della comunicazione di cui al comma 1, e' applicata a carico dell'istituto finanziatore una sanzione amministrativa pari allo 0,5 per cento dell'importo dell'operazione, fino a un massimo di 50.000 euro.
 
-## TITOLO VIII
+## TITOLO VIII - CONTROLLI DI RAGIONERIA E VALUTAZIONE DELLA SPESA
 
-### CONTROLLI DI RAGIONERIA E VALUTAZIONE DELLA SPESA
-
-###### Art. 49 - Delega al Governo per la riforma ed il potenziamento del sistema dei controlli di ragioneria e del programma di analisi e valutazione della spesa
+#### Art. 49 - Delega al Governo per la riforma ed il potenziamento del sistema dei controlli di ragioneria e del programma di analisi e valutazione della spesa
 
 1\. Il Governo e' delegato ad adottare, entro ((diciotto mesi)) dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi per il potenziamento dell'attivita' di analisi e valutazione della spesa e per la riforma del controllo di regolarita' amministrativa e contabile di cui all'articolo 1, comma 1, lettera a), e all'articolo 2 del decreto legislativo 30 luglio 1999, n. 286: secondo i seguenti principi e criteri direttivi:
 
@@ -1982,11 +1956,9 @@ e) riordino del sistema dei controlli preventivi e dei controlli successivi, lor
 
 2\. Gli schemi dei decreti legislativi di cui al comma 1 sono trasmessi alla Camera dei deputati e al Senato della Repubblica affinche' su di essi sia espresso il parere delle Commissioni parlamentari competenti. I decreti legislativi che comportino riflessi di ordine finanziario devono essere corredati della relazione tecnica di cui all'articolo 17, comma 3.
 
-## TITOLO IX
+## TITOLO IX - TESTO UNICO DELLE DISPOSIZIONI IN MATERIA DI CONTABILITA' DI STATO E DI TESORERIA
 
-### TESTO UNICO DELLE DISPOSIZIONI IN MATERIA DI CONTABILITA' DI STATO E DI TESORERIA
-
-###### Art. 50 - Delega al Governo per l'adozione di un testo unico delle disposizioni in materia di contabilita' di Stato e di tesoreria
+#### Art. 50 - Delega al Governo per l'adozione di un testo unico delle disposizioni in materia di contabilita' di Stato e di tesoreria
 
 1\. Il Governo e' delegato ad adottare, ai sensi degli articoli 76 e 87, quinto comma, della Costituzione e dell'articolo 14 della legge 23 agosto 1988, n. 400, entro quattro anni dalla data di entrata in vigore della presente legge, un decreto legislativo recante un testo unico delle disposizioni in materia di contabilita' di Stato nonche' in materia di tesoreria.
 
@@ -2008,11 +1980,9 @@ Decorso tale termine, il decreto e' adottato anche in mancanza dei pareri. Il Go
 
 4\. Entro dodici mesi dalla data di entrata in vigore del decreto di cui al comma 1, il Governo puo' adottare, attraverso le procedure di cui ai commi 1 e 3 e sulla base dei principi e criteri direttivi di cui al comma 2, disposizioni integrative e correttive del decreto medesimo.
 
-## TITOLO X
+## TITOLO X - DISPOSIZIONI FINALI E TRANSITORIE
 
-### DISPOSIZIONI FINALI E TRANSITORIE
-
-###### Art. 51 - Abrogazione e modificazione di norme
+#### Art. 51 - Abrogazione e modificazione di norme
 
 1\. Sono abrogati:
 
@@ -2034,7 +2004,7 @@ b) le parole da: "e a stabilire, per ciascun livello" fino alla fine del periodo
 
 > \- Per il riferimento al comma 1 dell'art. 18 della gia' citata legge n. 42 del 2009 si veda nelle note all'art. 10.
 
-###### Art. 52 - Disposizioni finali ed entrata in vigore
+#### Art. 52 - Disposizioni finali ed entrata in vigore
 
 1\. In sede di prima applicazione della presente legge, la legge di stabilita' dispone la soppressione alla tabella di cui all'articolo 11, comma 3, lettera d), delle spese obbligatorie e delle relative norme di rinvio alla tabella stessa. Tali spese restano quindi contestualmente determinate dalla legge di bilancio.
 
@@ -2058,11 +2028,9 @@ Berlusconi, Presidente del Consiglio dei Ministri
 
 Visto, il Guardasigilli: Alfano
 
-## TITOLO X
+## TITOLO X - DISPOSIZIONI FINALI E TRANSITORIE
 
-### DISPOSIZIONI FINALI E TRANSITORIE
-
-###### Allegato 1
+#### Allegato 1
 
 ((Allegato 1
 
@@ -2212,7 +2180,7 @@ L'informazione contabile deve rappresentare fedelmente e in modo veritiero le op
 
 (1) I principi contabili generali si applicano a partire dalla data di entrata in vigore di ciascuna delle disposizioni recate dai decreti legislativi nn. 90 e 93 del 2016 e loro successive modificazioni ed integrazioni.))
 
-###### Tabelle
+#### Tabelle
 
 ((Tabella 1 - Pagamenti del bilancio dello Stato per missione e
 

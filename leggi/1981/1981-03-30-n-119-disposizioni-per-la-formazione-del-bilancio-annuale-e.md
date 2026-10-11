@@ -28,11 +28,11 @@ la seguente legge:
 
 ## (Disposizioni in materia fiscale).
 
-#### ART. 1
+## ART. 1
 
 In deroga all'articolo 1, quarto comma, lettera d), del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, i pensionati che percepiscono soltanto redditi da pensione erogati dall'Istituto nazionale della previdenza sociale, o da altro ente pubblico, sono esonerati anche dall'obbligo della presentazione del certificato di cui al primo comma dell'articolo 3 dello stesso decreto.
 
-#### Art. 2
+## Art. 2
 
 ((COMMA ABROGATO DAL D.L. 31 MAGGIO 1994, N. 330)).
 
@@ -40,19 +40,19 @@ In deroga all'articolo 1, quarto comma, lettera d), del decreto del Presidente d
 
 Per la dichiarazione dei redditi 1981, relativa all'anno 1980, le indicazioni di cui ai commi precedenti sono contenute nel certificato di pensione relativo al mese di aprile del 1981.
 
-#### Art. 3
+## Art. 3
 
 ((Il Ministro delle finanze, sentito l'istituto nazionale della previdenza sociale e gli altri enti pubblici interessati, stabilisce con proprio decreto le modalita', i termini e le procedure per l'inoltro da parte di questi all'amministrazione finanziaria dell'elenco nominativo dei pensionati ai quali e' stato rilasciato il certificato di cui al primo comma del precedente articolo, comprensivo dei dati necessari.))
 
 ## (Disposizioni per il potenziamento dell'amministrazione finanziaria).
 
-#### ART. 4
+## ART. 4
 
 Il Ministro delle finanze puo' acquisire, sentito il consiglio di amministrazione, nelle materie di sua competenza, le collaborazioni previste dagli articoli 3, 4 e 5 del decreto-legge 24 luglio 1973, n. 428, convertito nella legge 4 agosto 1973, n. 497, e dall'articolo 14 della legge 27 febbraio 1967, n. 48. A tale fine, per l'anno 1981 e' autorizzata la spesa di lire trecento milioni da iscrivere nello stato di previsione del Ministero delle finanze.
 
 ## (Disposizioni in materia di opere pubbliche).
 
-#### ART. 5
+## ART. 5
 
 Le autorizzazioni di spesa di cui all'articolo 34, primo comma, della legge 21 dicembre 1978, n. 843, riguardanti la esecuzione dei seguenti interventi, vengono aumentate degli importi a fianco di ciascuno di essi indicati:
 
@@ -64,11 +64,11 @@ b) costruzione, sistemazione, manutenzione, riparazione e completamento:
 
 2\. di edifici che interessano il patrimonio storico-artistico dello Stato, delle regioni e di altri soggetti in conformita' alla legge 14 marzo 1968, n. 292: lire 20 miliardi nell'anno finanziario 1981.
 
-#### ART. 6
+## ART. 6
 
 Per provvedere al completamento di opere in corso, di competenza dello Stato e finanziate con leggi speciali, ivi compresi gli oneri maturati e maturandi per la revisione dei prezzi contrattuali, indennita' di espropriazione, perizie di variante o suppletive, risoluzione di vertenze in via amministrativa o giurisdizionale ed imposta sul valore aggiunto previsti dall'articolo 18 del decreto-legge 13 agosto 1975, n. 376, convertito, con modificazioni, nella legge 16 ottobre 1975, n. 492, l'autorizzazione di spesa di cui all'articolo 24 della legge 24 aprile 1980, n. 146, e' elevata per l'anno 1981 a lire 50 miliardi.
 
-#### Art. 7
+## Art. 7
 
 Ai fini della realizzazione del programma triennale 1979-1981, predisposto dalla Azienda nazionale autonoma delle strade (ANAS) in attuazione dell'articolo 41 della legge 21 dicembre 1978, n. 843, l'importo di lire 2.500 miliardi ivi stabilito viene elevato a lire 3.000 miliardi.
 
@@ -80,17 +80,17 @@ Per l'anno finanziario 1981 lo stanziamento resta determinato in lire 900 miliar
 
 Ai fini della esecuzione di opere straordinarie di manutenzione delle strade statali e' autorizzata la spesa complessiva di lire 650 miliardi, di cui 50 miliardi a carico dell'esercizio 1981.
 
-#### ART. 8
+## ART. 8
 
 Lo stanziamento di cui alla legge 25 maggio 1978, n. 230, sulla salvaguardia del patrimonio artistico delle citta' di Orvieto e Todi, e' aumentato, per l'esercizio 1981, di 10 miliardi di lire, di cui 6 miliardi in favore della citta' di Orvieto e 4 miliardi in favore della citta' di Todi.
 
 ## (Disposizioni per il Mezzogiorno).
 
-#### ART. 9
+## ART. 9
 
 Per la prosecuzione degli interventi di competenza della Cassa per il Mezzogiorno e' autorizzato lo stanziamento di lire 2.000 miliardi a favore della Cassa stessa per l'anno finanziario 1981, fermo restando quanto previsto nel secondo comma dell'articolo 24 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con decreto del Presidente della Repubblica 6 marzo 1978, n. 218.
 
-#### ART. 10
+## ART. 10
 
 La Cassa per il Mezzogiorno e' autorizzata ad assumere impegni fino all'importo di lire 500 miliardi a valere sullo stanziamento di complessive lire 2.500 miliardi, di cui all'articolo 24, terzo comma, del testo unico approvato con decreto del Presidente della Repubblica 6 marzo 1978, n. 218, e successive integrazioni e modificazioni, per la realizzazione dei progetti speciali e delle infrastrutture industriali.
 
@@ -102,37 +102,35 @@ Per il finanziamento nell'anno 1981 degli interventi previsti al primo comma del
 
 E' autorizzato, per il triennio 1981-1983, l'apporto di lire 220 miliardi a favore dell'ANAS, ad incremento di quello autorizzato con l'articolo 29, lettera a) della legge 24 aprile 1980, n. 146, per l'esecuzione di opere di viabilita' in Calabria e nell'area metropolitana di Napoli, previa delibera del CIPE, su proposta del Ministro per gli interventi straordinari nel Mezzogiorno. Lo stanziamento per l'anno 1981, da iscrivere nello stato di previsione della spesa del Ministero del tesoro, resta determinato in lire 40 miliardi.
 
-#### ART. 11
+## ART. 11
 
 La disposizione di cui all'articolo 160, terzo comma, del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con decreto del Presidente della Repubblica 6 marzo 1978, n. 218, e' applicabile anche alla Societa' finanziaria agricola del Mezzogiorno - FINAM - di cui all'articolo 141 del citato testo unico, in relazione agli interventi, connessi all'attuazione di progetti speciali in agricoltura, disposti in favore di imprese agricole o loro cooperative alle quali la FINAM stessa partecipi.
 
 Lo stanziamento di lire 2.000 miliardi, di cui all'articolo 9 della presente legge, e' comprensivo della quota destinata alla erogazione, anche in deroga alle disposizioni vigenti, delle spese di cui al secondo comma dell'articolo 24 del citato testo unico approvato con decreto del Presidente della Repubblica 6 marzo 1978, n. 218. Tra tali spese si intendono comprese anche indennita' compensative ed integrative per il personale comunque in servizio presso l'ufficio del Ministro per gli interventi straordinari nel Mezzogiorno.
 
-#### ART. 12
+## ART. 12
 
 Le autorizzazioni di spesa per l'anno 1981, di cui agli articoli 9 e 10, di complessive lire 2.366 miliardi, sono imputate allo stanziamento di cui al capitolo n. 9001 dello stato di previsione della spesa del Ministero del tesoro per l'anno finanziario predetto.
 
-#### ART. 13
+## ART. 13
 
 Le norme relative all'obbligo del Mediocredito centrale di riservare al Mezzogiorno il 65 per cento delle disponibilita' destinate agli incentivi agli investimenti industriali sono prorogate al 31 dicembre 1981. Il Mediocredito centrale, dalla data di entrata in vigore della presente legge, e' autorizzato ad utilizzare i fondi, riservati al Mezzogiorno nel 1981, ed i fondi gia' riservati negli anni precedenti e non impiegati al 31 dicembre 1980, anche per gli interventi di finanziamento, ai sensi delle altre leggi vigenti che disciplinano la sua attivita', purche' in favore di soggetti localizzati nel Mezzogiorno stesso. In tale caso, la durata massima dei finanziamenti puo' estendersi fino a quella prevista dall'articolo 63, comma quinto, del decreto del Presidente della Repubblica 6 marzo 1978, n. 218.
 
-#### ART. 14
+## ART. 14
 
 Il fondo di solidarieta' nazionale di cui alla legge 25 maggio 1970, n. 364, e' incrementato, limitatamente all'anno 1981, della somma di lire 100 miliardi per interventi aggiuntivi destinati alle zone della Calabria, della Sicilia e della Sardegna danneggiate dalle eccezionali avversita' atmosferiche verificatesi nell'inverno 1980-1981.
 
-#### ART. 15
+## ART. 15
 
 La legge 23 marzo 1973, n. 36, recante conversione in legge, con modificazioni ed integrazioni, del decreto-legge 22 gennaio 1973, n. 2, concernente provvidenze a favore delle popolazioni dei comuni della Sicilia e della Calabria colpiti dalle alluvioni del dicembre 1972 e del gennaio 1973, e' rifinanziata per lire 50 miliardi al fine di riparare i danni alle abitazioni, alle aziende extragricole ed alle infrastrutture della Calabria e della Sicilia danneggiate dalle eccezionali avversita' atmosferiche.
 
-#### ART. 16
+## ART. 16
 
 La Cassa per il Mezzogiorno, su delibera del CIPE, e' autorizzata, nell'ambito dello stanziamento di cui all'articolo 9, a finanziare, fino alla somma di 500 miliardi di lire, programmi di intervento a favore del sostegno dei redditi e della produzione degli agricoltori del Mezzogiorno, nonche' azioni per la commercializzazione dei loro prodotti, con riferimento alle normative applicabili per le finalita' anzidette, ed in particolare alla legge 27 dicembre 1977, n. 984, ed all'articolo 7 della legge 2 maggio 1976, n. 183.
 
-## (Disposizioni in materia di costituzione, equipaggiamento e - addestramento di reparti operativi mobili delle forze armate per il
+## (Disposizioni in materia di costituzione, equipaggiamento e - addestramento di reparti operativi mobili delle forze armate per il concorso alla protezione civile e il soccorso delle popolazioni colpite, in Italia e all'estero, da calamita).
 
-### concorso alla protezione civile e il soccorso delle popolazioni - colpite, in Italia e all'estero, da calamita).
-
-#### ART. 17
+## ART. 17
 
 Per l'anno 1981 e' autorizzata la spesa di lire 50 miliardi, da iscrivere in apposito capitolo dello stato di previsione della spesa del Ministero della difesa, per la costituzione, l'equipaggiamento e l'addestramento di reparti operativi mobili delle forze armate per il concorso alla protezione civile e il soccorso delle popolazioni colpite, in Italia e all'estero, da calamita', per l'acquisizione di beni mobili e immobili, attrezzature e servizi.
 
@@ -142,7 +140,7 @@ Per ognuno degli anni 1982 e 1983 e' autorizzata la spesa di lire 300 miliardi d
 
 ## (Disposizioni per il potenziamento dell'amministrazione giudiziaria e - penitenziaria).
 
-#### ART. 18
+## ART. 18
 
 Per l'anno 1981 e' autorizzata la spesa di lire 380 miliardi, da iscrivere nello stato di previsione della spesa del Ministero di grazia e giustizia per l'acquisizione di beni mobili ed immobili, attrezzature e servizi, per la predisposizione di strutture e per ogni altro intervento per L'amministrazione penitenziaria e giudiziaria centrale e periferica, anche in riferimento all'attuazione della riforma della procedura penale.
 
@@ -154,7 +152,7 @@ Per l'anno 1981 e' autorizzata la spesa di lire 2.500 milioni, da iscrivere nell
 
 Il Ministro di grazia e giustizia e' tenuto a presentare al Parlamento, entro il 30 settembre 1981, una relazione dettagliata sullo stato di attuazione delle disposizioni di cui al presente articolo.
 
-#### Art. 19
+## Art. 19
 
 Nell'ambito degli investimenti che possono essere effettuati ai sensi della vigente normativa in materia di finanza locale, gli enti locali possono contrarre con la Cassa depositi e prestiti mutui per l'esecuzione di costruzioni di nuovi edifici giudiziari ovvero ricostruzioni, ristrutturazioni, sopraelevazioni, completamenti, ampliamenti o restauri di edifici pubblici, nonche' di proprieta' comunale e delle amministrazioni provinciali, destinati o da destinare a sede di uffici giudiziari, nonche' per l'acquisto, anche a trattativa privata, di edifici in costruzione o gia' costruiti, anche se da restaurare, ristrutturare, completare o ampliare per renderli idonei all'uso giudiziario, da adibire a sedi di uffici giudiziari, con prioritario riferimento alle maggiori esigenze connesse con la riforma della procedura penale.
 
@@ -174,7 +172,7 @@ Gli enti locali possono assumere i mutui di cui al presente articolo indipendent
 
 L'onere di ammortamento dei mutui di cui al presente articolo e' assunto a carico del bilancio dello Stato.
 
-#### ART. 20
+## ART. 20
 
 L'autorizzazione di spesa di cui all'articolo 25 della legge 24 aprile 1980, n. 146, relativa all'attuazione del programma di intervento di cui alle leggi 12 dicembre 1971, n. 1133, e 1° luglio 1977, n. 404, per la costruzione, il completamento, l'adattamento, la permuta, nonche' l'acquisto di immobili da destinare ad istituti di prevenzione e pena, e' elevata a complessive lire 1.200 miliardi da iscrivere nello stato di previsione della spesa del Ministero dei lavori pubblici, nel triennio 1981-1983, secondo le quote indicate nell'allegata tabella A.
 
@@ -186,19 +184,19 @@ I limiti di importo previsti dagli articoli 3 e 4 della legge 21 dicembre 1977, 
 
 ## (Disposizioni in materia di previdenza e di occupazione).
 
-#### ART. 21
+## ART. 21
 
 Il contributo dello Stato alla gestione ordinaria della Cassa integrazione guadagni degli operai della industria e al fondo pensioni lavoratori dipendenti presso l'Istituto nazionale della previdenza sociale, previsto dall'articolo 12 della legge 20 maggio 1975, n. 164, e' stabilito, per l'anno finanziario 1981, in lire 80 miliardi.
 
 E' concesso un contributo straordinario dello Stato di lire 4 miliardi da ripartirsi tra le Casse marittime meridionali, adriatica e tirrena a decurtazione delle passivita' delle gestioni della pesca marittima per gli anni 1978 e 1979.
 
-#### ART. 22
+## ART. 22
 
 Gli importi mensili dei trattamenti minimi di pensione a carico dell'assicurazione generale obbligatoria per l'invalidita', vecchiaia e superstiti, della gestione speciale per i lavoratori delle miniere, cave e torbiere e del soppresso fondo di invalidita' e vecchiaia per gli operai delle miniere di zolfo della Sicilia, maggiorati ai sensi dell'articolo 14-quater, primo comma, del decreto-legge 30 dicembre 1979, n. 663, convertito, con modificazioni, dalla legge 29 febbraio 1980, n. 33, e successive modificazioni ed integrazioni, sono elevati, a decorrere dal 1 gennaio 1981, a lire 188.250, corrispondenti al 30 per cento del salario medio di fatto degli operai dell'industria.
 
 La misura dei trattamenti minimi, determinata ai sensi del precedente comma, e' comprensiva, per l'anno 1981, degli aumenti derivanti dall'applicazione della disciplina della perequazione automatica delle pensioni prevista dall'articolo 9 della legge 3 giugno 1975, n. 160.
 
-#### ART. 23
+## ART. 23
 
 Fino all'entrata in vigore delle norme di riforma dei trattamenti pensionistici e delle relative cadenze periodiche di revisione e con effetto dal 1 settembre, 1 gennaio, 1 maggio di ciascun anno, gli importi delle pensioni, alle quali si applica la perequazione automatica di cui all'articolo 19 della legge 30 aprile 1969, n. 153, e all'articolo 9 della legge 3 giugno 1975, n. 160, e successive modificazioni ed integrazioni, ivi comprese le categorie (invalidi civili, non vedenti e sordomuti) il cui trattamento e' regolato dall'articolo 7 della predetta legge 3 giugno 1975, n. 160, e dall'articolo 14-septies del decreto-legge 30 dicembre 1979, n. 663, convertito in legge, con modificazioni, dalla legge 29 febbraio 1980, n. 33, sono aumentati in misura pari alla variazione percentuale, come definita nel comma seguente, dell'indice del costo della vita, calcolato dall'ISTAT ai fini della scala mobile delle retribuzioni dei lavoratori dell'industria.
 
@@ -216,7 +214,7 @@ A decorrere dal 1 luglio 1981 ai titolari di pensione o assegno indicati nell'ar
 
 L'onere derivante dall'applicazione del presente articolo e di quello precedente, valutato, per l'anno 1981, in lire 700 miliardi - di cui 600 miliardi da trasferire all'INPS in favore delle gestioni del fondo pensioni lavoratori dipendenti, delle gestioni speciali dei lavoratori autonomi e del fondo sociale - e' imputato allo stanziamento di cui al capitolo n. 6856 dello stato di previsione della spesa del Ministero del tesoro per l'anno finanziario medesimo.
 
-#### ART. 24
+## ART. 24
 
 Ai sensi del secondo e del terzo comma dell'articolo 22 della legge 21 dicembre 1978, n. 845, il complessivo finanziamento dello Stato per le attivita' di formazione professionale rientranti nelle competenze dello Stato e per quelle di formazione professionale residue svolte nelle regioni a statuto speciale, nonche' per il finanziamento dell'Istituto per lo sviluppo della formazione professionale dei lavoratori (ISFOL), e' fissato, per l'anno finanziario 1981, in lire 130 miliardi.
 
@@ -224,7 +222,7 @@ Della complessiva somma di cui al comma precedente, resta a carico del fondo per
 
 ## (Disposizioni in materia di risparmio dei consumi energetici e di - sviluppo delle fonti rinnovabili).
 
-#### ART. 25
+## ART. 25
 
 Ai fini del risparmio dei consumi energetici, dello sviluppo delle fonti rinnovabili, della ricerca e coltivazione delle risorse geotermiche, e' autorizzata la spesa di lire 1.610 miliardi per il triennio 1981-1983.
 
@@ -232,7 +230,7 @@ L'autorizzazione di spesa per l'esercizio 1981 resta fissata in lire 410 miliard
 
 ## (Disposizioni in materia di agevolazioni creditizie all'artigianato).
 
-#### ART. 26
+## ART. 26
 
 Il fondo di dotazione della Cassa per il credito alle imprese artigiane, di cui all'articolo 36 della legge 25 luglio 1952, n. 949, e successive modificazioni ed integrazioni, e' aumentato della somma di lire 120 miliardi, ripartita in ragione di lire 60 miliardi per ciascuno degli anni 1981 e 1982.
 
@@ -240,7 +238,7 @@ Il fondo per il concorso nel pagamento degli interessi sulle operazioni di credi
 
 ## (Disposizioni in materia di Mediocredito centrale).
 
-#### ART. 27
+## ART. 27
 
 Il fondo contributi di cui al primo capoverso dell'articolo 3 della legge 28 maggio 1973, n. 295, costituito presso il Mediocredito centrale, e' incrementato della somma di lire 530 miliardi per la corresponsione di contributi in conto interessi sulle operazioni di finanziamento alle esportazioni a pagamento differito previste dalla legge 24 maggio 1977, n. 227, e successive modificazioni.
 
@@ -248,7 +246,7 @@ La somma di cui al precedente comma e' iscritta nello stato di previsione del Mi
 
 ## (Disposizioni in materia di agricoltura).
 
-#### ART. 28
+## ART. 28
 
 La legge 1 luglio 1977, n. 403, recante provvedimenti per il finanziamento dell'attivita' agricola nelle regioni, e' prorogata sino al 1983.
 
@@ -258,13 +256,13 @@ Per l'anno 1981 l'autorizzazione di spesa e' elevata di lire 200 miliardi, di cu
 
 ## (Azienda autonoma di assistenza al volo).
 
-#### ART. 29
+## ART. 29
 
 E' autorizzata per l'anno 1981 la spesa di lire 20 miliardi per il primo avviamento dell'Azienda autonoma di assistenza al volo per il traffico aereo generale, istituita dalla legge 23 maggio 1980, n. 242, da iscriversi in apposito capitolo dello stato di previsione della spesa del Ministero dei trasporti per il predetto anno finanziario.
 
 ## (Disposizioni in materia sanitaria).
 
-#### ART. 30
+## ART. 30
 
 I contributi dello Stato di cui all'articolo 3 della legge 5 febbraio 1968, n. 82, a successive modificazioni, per il completamento delle cliniche universitarie, ospedali clinicizzati o policlinici universitari, possono essere concessi direttamente agli enti ospedalieri o ai comuni, qualora siano gia' state costituite le unita' sanitarie locali, ove essi provvedano o abbiano provveduto, in base ad idonea convenzione, per conto delle universita', nel proprio ambito alla costruzione delle suddette strutture universitarie.
 
@@ -272,13 +270,13 @@ La Cassa depositi e prestiti e gli altri istituti di credito sono autorizzati a 
 
 ## (Borse di studio).
 
-#### ART. 31
+## ART. 31
 
 Il capitolo n. 4124 dello stato di previsione della spesa del Ministero della pubblica istruzione e' incrementato di lire 5 miliardi, per l'esercizio finanziario 1981, per far fronte, limitatamente al bimestre novembre-dicembre, agli oneri derivanti dall'istituzione di borse di studio per la frequenza dei corsi di dottorato di ricerca e dei corsi di perfezionamento e di specializzazione da attivare nell'anno accademico 1981-1982.
 
 ## (Commissione tecnica per la spesa pubblica).
 
-#### Art. 32
+## Art. 32
 
 ((E' istituita, presso il Ministero del tesoro, una commissione tecnica per la spesa pubblica. La commissione opera, sulla base delle direttive del CIPE, con il compito di:
 
@@ -312,11 +310,11 @@ Le modalita' dell'accesso ai dati e della loro utilizzazione sono determinate su
 
 ## (Disposizioni di carattere finanziario).
 
-#### ART. 33
+## ART. 33
 
 L'onere finanziario derivante dall'applicazione della disposizione di cui al terzo comma dell'articolo 48 della legge 24 aprile 1980, n. 146, valutato in lire 350 milioni per ciascuno degli anni finanziari 1981 e 1982, fa carico sullo stanziamento previsto dall'ottavo comma dell'articolo 17 della legge 9 ottobre 1971, n. 825, e successive modificazioni.
 
-#### ART. 34
+## ART. 34
 
 L'importo di lire cinquemila indicate nell'articolo 6 del testo unico approvate con decreto del Presidente della Repubblica 14 febbraio 1963, n. 1343, e nell'articolo 3 della legge 6 agosto 1966, n. 651, e' elevato a lire centomila, ferme restando le disposizioni vigenti in materia di pagamento di premi.
 
@@ -326,7 +324,7 @@ In occasione di qualsiasi operazione che comporti l'annullamento di iscrizioni r
 
 Sui titoli nominativi d'importo inferiore a lire centomila di capitale nominale e' ammessa l'operazione di riunione con l'osservanza delle disposizioni, in quanto applicabili, dell'articolo 8 della legge 18 marzo 1958, n. 241, e del terzo comma del presente articolo.
 
-#### Art. 35
+## Art. 35
 
 Fermo restando quanto previsto dall'ultimo comma dell'articolo 6 del decreto-legge 30 dicembre 1979, n. 663, convertito, con modificazioni, nella legge 29 febbraio 1980, n. 33, le unita' sanitarie locali, di cui all'articolo 14 della legge 23 dicembre 1978, n. 833, affidano il proprio servizio di tesoreria ad una delle aziende di credito di cui all'articolo 5 del regio decreto-legge 12 marzo 1936, n. 375, e successive modificazioni ed integrazioni, aventi i requisiti stabiliti con decreto del Ministro del tesoro, sentito il Comitato interministeriale per il credito ed il risparmio.
 
@@ -348,17 +346,17 @@ Con decreti del Ministro del tesoro sono stabilite le modalita' di funzionamento
 
 E' abrogato l'articolo 8 del decreto-legge 30 dicembre 1979, n. 663, convertito, con modificazioni, nella legge 29 febbraio 1980, n. 33.
 
-#### ART. 36
+## ART. 36
 
 Il quinto comma dell'articolo 1 del decreto-legge 31 ottobre 1979, n. 536, come modificato dalla legge di conversione 22 dicembre 1979, n. 642, e' cosi' modificato:
 
 "Gli eventuali avanzi di amministrazione sono conteggiati, per le singole regioni, in sede di erogazione del fondo comune di cui all'articolo 8 della legge 16 maggio 1970, n. 281, per gli anni finanziari 1981 e successivi".
 
-#### ART. 37
+## ART. 37
 
 Le ritenute per imposte sui redditi delle persone fisiche operate sugli stipendi ed altri assegni fissi e sulle pensioni corrisposti al personale statale, rispettivamente, in attivita' di servizio ed in quiescenza, nonche' i contributi previdenziali e assistenziali inerenti alle suddette voci retributive ed alle pensioni, sono imputati alla competenza del bilancio dell'anno finanziario in cui ne vengono effettuati i versamenti.
 
-#### Art. 38
+## Art. 38
 
 Il Ministro del tesoro e' autorizzato a effettuare operazioni di indebitamento nel limite annualmente risultante nel quadro generale riassuntivo del bilancio di competenza, nelle forme di:
 
@@ -368,7 +366,7 @@ b) certificati di credito del tesoro, di durata fino a dodici anni, con cedola d
 
 ((c) titoli denominati in ECU (European Currency Unit), oppure in lire italiane riferite all'ECU, ovvero prestiti internazionali, nonche' titoli in lire rivalutabili negli interessi e nel capitale in relazione alle variazioni di un indice di prezzo determinato con decreto del Ministro del tesoro o in relazione alle variazioni del cambio della lira rispetto a specifiche valute determinate con decreto del Ministro del tesoro. Con gli stessi decreti sono determinate la durata, le caratteristiche ed ogni altra condizione e modalita' relative all'emissione ed al collocamento di tali titoli ed all'accensione dei predetti prestiti.))
 
-#### Art. 39
+## Art. 39
 
 Il Ministro del tesoro ha facolta' di emettere buoni ordinari del tesoro secondo le norme e con le caratteristiche che per i medesimi sono stabilite con suoi decreti a modificazione, ove occorra, di quelle previste dal regolamento di contabilita' generale dello Stato.
 
@@ -378,7 +376,7 @@ E' data facolta', altresi', al Ministro del tesoro di autorizzare, con decreto m
 
 ((COMMA ABROGATO DALLA L. 23 AGOSTO 1988, N. 362)).
 
-#### Art. 40
+## Art. 40
 
 Gli enti pubblici di cui agli articoli 25 e 31 della legge 5 agosto 1978, n. 468, nonche' quelli di cui alla tabella allegata alla stessa legge 5 agosto 1978, n. 468, e quelli elencati nei decreti del Presidente del Consiglio dei Ministri 5 marzo 1979 e 20 ottobre 1981, pubblicati rispettivamente nella Gazzetta Ufficiale n. 76 del 17 marzo 1979 e n. 296 del 28 ottobre 1981, nonche' tutti gli altri enti ed organismi di natura economica a carattere nazionale e regionale da individuarsi con decreti del Presidente del Consiglio dei Ministri, su proposta dei Ministri del tesoro e del bilancio e della programmazione economica, che gestiscono fondi direttamente o indirettamente interessanti la finanza pubblica e che abbiano un bilancio di entrata superiore a un miliardo di lire, non possono mantenere disponibilita' depositate a qualunque titolo presso le aziende di credito di cui all'art. 5 del regio decreto-legge 12 marzo 1936, n. 375, e successive modificazioni ((per un importo superiore al tre per cento dell'ammontare)) delle entrate previste dal bilancio di competenza degli enti medesimi, con esclusione di quelle per accensione di prestiti, partite di giro, alienazione ed ammortamento di beni patrimoniali, trasferimento di capitale e riscossione di crediti. Tale disposizione non si applica agli enti per i quali gia' vigono al riguardo apposite norme per regolare, con provvedimento del Ministro del tesoro, il deposito delle loro disponibilita' presso le aziende di credito, nonche' per i comuni con popolazione inferiore ad ottomila abitanti secondo i dati dell'ultimo censimento ISTAT. I presidenti degli enti comunicano ai rispettivi tesorieri l'importo ((che costituisce il limite del tre per cento)). ((Ove venga accertato che le disponibilita' degli enti e degli organismi pubblici presso le aziende di credito tesorieri o cassieri superino il limite del tre per cento)), comunicato dagli enti e dagli organismi medesimi, e' posto a carico delle aziende di credito, sulle disponibilita' eccedenti, un interesse pari al tasso ufficiale di sconto aumentato di quattro punti, da versare al bilancio dello Stato secondo le modalita' stabilite con decreto del Ministro del tesoro.
 
@@ -414,21 +412,21 @@ AGGIORNAMENTO (9)
 
 Il D.L. 2 marzo 1989, n. 65, convertito dalla L. 26 aprile 1989, n. 155 ha disposto che "la disposizione di cui al comma 7 del presente articolo deve intendersi nel senso che al Ministro del tesoro e' data facolta', in sede di emanazione dei decreti per la fissazione delle condizioni e delle modalita' di funzionamento e dei tassi d'interesse dei conti correnti presso le tesorerie dello Stato, di stabilire che i conti stessi siano infruttiferi, come previsto dal decreto legislativo luogotenenziale 10 agosto 1945, n. 510".
 
-#### ART. 41
+## ART. 41
 
 Gli importi da iscrivere in relazione alle autorizzazioni di spesa recate da leggi a carattere pluriennale restano determinati, per ciascuno degli anni 1981, 1982 e 1983, nelle misure indicate nella tabella A allegata alla presente legge.
 
-#### ART. 42
+## ART. 42
 
 Nelle tabelle B e C allegate alla presente legge sono indicate le voci da iscrivere nei fondi speciali di cui al primo comma dell'articolo 43.
 
-#### ART. 43
+## ART. 43
 
 Gli importi da iscrivere nei fondi speciali di cui all'articolo 10 della legge 5 agosto 1978, n. 468, per il finanziamento dei provvedimenti legislativi che si prevede possano essere approvati nell'anno 1981, restano determinati in lire 11.317.314.000.000 per il fondo speciale destinato alle spese correnti, e in lire 7.698.850.000.000 per il fondo speciale destinato alle spese in conto capitale.
 
 Gli importi di cui al precedente comma sono aggiuntivi agli stanziamenti iscritti ai capitoli n. 6856 e n. 9001 dello stato di previsione del Ministero del tesoro per lo stesso anno.
 
-#### ART. 44
+## ART. 44
 
 Il livello massimo del ricorso al mercato finanziario di cui all'articolo 11 della legge 5 agosto 1978, n. 468, resta fissato, in termini di competenza, in lire 81.085.362.580.000 per l'anno finanziario 1981.
 
@@ -448,7 +446,7 @@ Visto, il Guardasigilli: SARTI
 
 ## (Disposizioni di carattere finanziario).
 
-#### Tabella A
+## Tabella A
 
 TABELLA A
 
@@ -456,7 +454,7 @@ IMPORTI DA ISCRIVERE IN BILANCIO IN RELAZIONE ALLE AUTORIZZAZIONI DI SPESA RECAT
 
 Parte di provvedimento in formato grafico
 
-#### Tabella B
+## Tabella B
 
 TABELLA B
 
@@ -770,7 +768,7 @@ lavoratori e revisione dei trattamenti minimi. . . .. . . . . 700.000
 
 Totale parte corrente . . . 11.317.314
 
-#### Tabella C
+## Tabella C
 
 TABELLA C
 

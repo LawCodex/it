@@ -28,7 +28,7 @@ la seguente legge:
 
 ## CAPO I - DISPOSIZIONI IN MATERIA TRIBUTARIA
 
-#### Art. 1
+### Art. 1
 
 (Disciplina tributaria delle erogazioni liberali a favore della
 
@@ -106,7 +106,7 @@ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi
 
 ## Capo I - DISPOSIZIONI IN MATERIA TRIBUTARIA
 
-#### Art. 2 - Esenzione dall'accisa sugli oli minerali del "biodiesel"
+### Art. 2 - Esenzione dall'accisa sugli oli minerali del "biodiesel"
 
 1\. All'articolo 21, comma 6, del testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, approvato con decreto legislativo 26 ottobre 1995, n. 504, il secondo e il terzo periodo sono sostituiti dai seguenti: "E' esentato dall'accisa il "biodiesel" ottenuto nell'ambito di progetti - pilota tendenti a promuoverne l'impiego sperimentale e favorirne lo sviluppo tecnologico, fino a un quantitativo massimo annuo di 125.000 tonnellate. Con decreto del Ministro delle finanze, di concerto con il Ministro dell'industria, del commercio edell'artigianato e con il Ministro per le politiche agricole, sono determinati i tempi di applicazione dei progetti-pilota, nonche' i requisiti degli operatori, le caratteristiche tecniche degli impianti di produzione, nazionali ed esteri, le caratteristiche fiscali del prodotto con i relativi metodi di prova ed i criteri di assegnazione dei quantitativi esenti agli operatori".
 
@@ -116,7 +116,7 @@ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi
 
 > "6. Le disposizioni del comma 2 si applicano anche al prodotto denominato ''biodiesel'', ottenuto dalla esterificazione di oli vegetali e loro derivati, usato come carburante, come combustile, come additivo ovvero per accrescere il volume finale dei carburanti e dei combustibili. E' esentato dall'accisa il ''biodiesel'' ottenuto nell'ambito di progettipilota tendenti a promuoverne l'impiego sperimentale e favorirne lo sviluppo tecnologico, fino a un quantitativo massimo annuo di 125.000 tonnellate. Con decreto del Ministro delle finanze, di concerto con il Ministro dell'industria, del commercio e dell'artigianato e con il Ministro per le politiche agricole, sono determinati i tempi di applicazione dei progettipilota, nonche' i requisiti degli operatori, le caratteristiche tecniche degli impianti di produzione, nazionali ed esteri, le caratteristiche fiscali del prodotto con i relativi metodi di prova ed i criteri di assegnazione dei quantitativi esenti agli operatori. Per il trattamento fiscale del ''biodiesel'' destinato al riscaldamento valgono, in quanto applicabili, le disposizioni dell'art. 61".
 
-#### Art. 3
+### Art. 3
 
 Disposizioni in materia di societa' cooperative
 
@@ -126,7 +126,7 @@ Disposizioni in materia di societa' cooperative
 
 3\. Al comma 4 dell'articolo 11 della legge 31 gennaio 1992, n. 59, concernente l'obbligo per le societa' cooperative e i loro consorzi di devolvere a fondi mutualistici una quota degli utili annuali pari al 3 per cento, e' aggiunto, in fine, il seguente periodo: "Il versamento non deve essere effettuato se l'importo non supera ventimila lire".
 
-#### Art. 4
+### Art. 4
 
 (Esenzione dall'IVA delle prestazioni socio - sanitarie rese in
 
@@ -140,7 +140,7 @@ base a contratti o convenzioni stipulati con enti pubblici).
 
 > "27-ter) le prestazioni sociosanitarie, di assistenza domiciliare o ambulatoriale, in comunita' e simili, in favore degli anziani ed inabili adulti, di tossicodipendenti e di malati di AIDS, degli handicappati psicofisici, dei minori anche coinvolti in situazioni di disadattamento e di devianza, rese da organismi di diritto pubblico, da istituzioni sanitarie riconosciute che erogano assistenza pubblica, previste all'art. 41 della legge 23 dicembre 1978, n. 833, o da enti aventi finalita' di assistenza sociale e da ONLUS".
 
-#### Art. 5
+### Art. 5
 
 (Indetraibilita' dall'IVA dell'imposta per l'acquisto di premi
 
@@ -154,7 +154,7 @@ oggetto di manifestazioni a premio).
 
 > "2. Non e' detraibile l'imposta relativa all'acquisto o all'importazione di beni e servizi afferenti operazioni esenti o comunque non soggette all'imposta, salvo il disposto dell'articolo 19-bis2. In nessun caso e' detraibile l'imposta relativa all'acquisto o all'importazione di beni o servizi utilizzati per l'effettuazione di manifestazioni a premio".
 
-#### Art. 6 - Redditi da fabbricati
+### Art. 6 - Redditi da fabbricati
 
 1\. All'articolo 33, comma 3, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, dopo le parole: "all'esercizio del culto," sono inserite le seguenti: "compresi i monasteri di clausura,".
 
@@ -164,7 +164,7 @@ oggetto di manifestazioni a premio).
 
 > "3. Non si considerano produttive di reddito, se non sono oggetto di locazione, le unita' immobiliari destinate esclusivamente all'esercizio del culto, compresi i monasteri di clausura, purche' compatibile con le disposizioni degli articoli 8 e 19 della Costituzione, e le loro pertinenze. Non si considerano, altresi', produttive di reddito le unita' immobiliari per le quali sono state rilasciate licenze, concessioni o autorizzazioni per restauro, risanamento conservativo o ristrutturazione edilizia, limitatamente al periodo di validita' del provvedimento durante il quale l'unita' immobiliare non e' comunque utilizzata".
 
-#### Art. 7 - Indennita' di trasferta degli ufficiali giudiziari
+### Art. 7 - Indennita' di trasferta degli ufficiali giudiziari
 
 1\. All'articolo 133 del decreto del Presidente della Repubblica 15 dicembre 1959, n. 1229, e successive modificazioni, e' aggiunto, in fine, il seguente comma: "Le somme complessivamente percepite a titolo di indennita' di cui al primo comma, detratte le spese effettivamente sostenute da ciascuno e detraibili ai sensi di legge, sono distribuite dall'ufficiale giudiziario dirigente l'ufficio, in parti uguali, rispettivamente tra tutti gli appartenenti al profilo professionale di collaboratore UNEP e tra gli appartenenti al profilo di assistente UNEP, addetti all'ufficio stesso".
 
@@ -198,7 +198,7 @@ oggetto di manifestazioni a premio).
 
 > "Art. 154, comma 1. Gli ufficiali giudiziari sono tenuti a versare allo Stato una tassa del 10 per cento sui diritti per gli atti o per le commissioni da loro compiuti".
 
-#### Art. 8 - Disposizioni in materia di imposta di registro
+### Art. 8 - Disposizioni in materia di imposta di registro
 
 1\. All'articolo 5, comma 2, secondo periodo, del testo unico delle disposizioni concernenti l'imposta di registro, approvato con decreto del Presidente della Repubblica 26 aprile 1986, n. 131, le parole: "ad eccezione delle operazioni esenti ai sensi dell'articolo 10, primo comma, numeri 8) e 8 bis)" sono sostituite dalle seguenti: "ad eccezione delle operazioni esenti ai sensi dell'articolo 10, numeri 8), 8 bis) e 27 quinquies)".
 
@@ -214,7 +214,7 @@ oggetto di manifestazioni a premio).
 
 > "Art. 40, comma 1. Per gli atti relativi a cessioni di beni e prestazioni di servizi soggetti all'imposta sul valore aggiunto, l'imposta si applica in misura fissa. Si considerano soggette all'imposta sul valore aggiunto anche le cessioni e le prestazioni per le quali l'imposta non e' dovuta a norma dell'art. 7 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e quelle di cui al sesto comma del successivo art. 21, ad eccezione delle operazioni esenti ai sensi dell'art. 10, numeri 8), 8-bis) e 27-quinquies), dello stesso decreto".
 
-#### Art. 9 - Finanziamenti di programmi di edilizia residenziale pubblica
+### Art. 9 - Finanziamenti di programmi di edilizia residenziale pubblica
 
 1\. All'articolo 55, comma 3, lettera b), ultimo periodo, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, dopo le parole: "finanziamenti erogati dallo Stato" sono inserite le seguenti: ", dalle regioni e dalle province autonome".
 
@@ -228,7 +228,7 @@ oggetto di manifestazioni a premio).
 
 > b) i proventi in denaro o in natura conseguiti a titolo di contributo o di liberalita', esclusi i contributi di cui alle lettere e) ed f) del comma 1 dell'art. 53 e quelli per l'acquisto di beni ammortizzabili indipendentemente dal tipo di finanziamento adottato. Tali proventi concorrono a formare il reddito nell'esercizio in cui sono stati incassati o in quote costanti nell'esercizio in cui sono stati incassati e nei successivi ma non oltre il quarto. Sono fatte salve le agevolazioni connesse alla realizzazione di investimenti produttivi concesse nei territori montani di cui alla legge 31 gennaio 1994, n. 97, nonche' quelle concesse ai sensi del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con decreto del Presidente della Repubblica 6 marzo 1978, n. 218, per la decorrenza prevista al momento della concessione delle stesse. Non si considerano contributi o liberalita' i finanziamenti erogati dallo Stato, dalle regioni e dalle provincie autonome per la costruzione, ristrutturazione e manutenzione straordinaria ed ordinaria di immobili di edilizia residenziale pubblica concessi agli Istituti autonomi per le case popolari, comunque denominati".
 
-#### Art. 10
+### Art. 10
 
 (Interessi per la dilazione di pagamento dell'imposta di
 
@@ -242,11 +242,11 @@ successione).
 
 > "2. Sugli importi dilazionati sono dovuti, con decorrenza dalla data di concessione della dilazione, gli interessi a scalare nella misura determinata con decreto del Ministro delle finanze".
 
-#### Art. 11
+### Art. 11
 
 (( ARTICOLO ABROGATO DAL D.L. 4 LUGLIO 2006, N. 223, CONVERTITO CON MODIFICAZIONI DALLA L. 4 AGOSTO 2006, N. 248 ))
 
-#### Art. 12
+### Art. 12
 
 (Rimborso dell'imposta di consumo assolta da operatori della
 
@@ -268,7 +268,7 @@ Repubblica di San Marino).
 
 > 6\. Sugli apparecchi di accensione e relative parti principali di ricambio e sugli accendigas detenuti per uso commerciale alla data del 1 gennaio 1993 presso i magazzini dei distributori all'ingrosso di cui ai decreti del Ministro delle finanze 22 aprile 1971, pubblicato nella Gazzetta Ufficiale n. 113 del 6 maggio 1971, e 2 febbraio 1972, pubblicato nella Gazzetta Ufficiale n. 39 dell'11 febbraio 1972, e' dovuto il rimborso dell'imposta assolta dai soggetti interessati che abbiano presentato all'ispettorato compartimentale dei monopoli di Stato, competente per territorio, istanza di rimborso entro il 15 maggio 1993. Per i distributori all'ingrosso di accendigas non obbligati alla tenuta del registro di carico e scarico il rimborso dell'imposta assolta e' dovuto nella misura dell'otto per cento dell'imposta gravante su ogni singola fattura di acquisto effettuato nell'anno 1992".
 
-#### Art. 13
+### Art. 13
 
 (Modifiche alla disciplina recata dall'articolo 29 della legge n.
 
@@ -332,7 +332,7 @@ d) al comma 6, il primo periodo e' sostituito dal seguente: "Le societa' che si 
 
 > In ogni caso, il consulente tecnico che incorre in colpa grave nell'esecuzione degli atti che gli sono richiesti, e' punito con l'arresto fino a un anno o con l'ammenda fino a lire venti milioni. Si applica l'art. 35 del codice penale. In ogni caso e' dovuto il risarcimento dei danni causati alle parti".
 
-#### Art. 14
+### Art. 14
 
 (Interpretazione autentica della disciplina concernente le
 
@@ -376,7 +376,7 @@ ritenute sugli interessi e sui redditi di capitale).
 
 > 5\. I soggetti indicati nel primo comma dell'art. 23 operano una ritenuta del 12,50 per cento a titolo d'acconto, con obbligo di rivalsa, sui redditi di capitale da essi corrisposti, diversi da quelli indicati nei commi precedenti e da quelli per i quali sia prevista l'applicazione di altra ritenuta alla fonte o di imposte sostitutive delle imposte sui redditi. Se i percipienti non sono residenti nel territorio dello Stato o stabili organizzazioni di soggetti non residenti la predetta ritenuta e' applicata a titolo d'imposta ed e' operata anche su i proventi conseguiti nell'esercizio d'impresa commerciale. L'aliquota della ritenuta e' stabilita al 27 per cento se i percipienti sono residenti negli Stati o territori a regime fiscale privilegiato individuati con il decreto del Ministro delle finanze emanato ai sensi del comma 7-bis dell'art. 76 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917. La predetta ritenuta e' operata anche sugli interessi ed altri proventi dei prestiti di denaro corrisposti a stabili organizzazioni estere di imprese residenti, non appartenenti all'impresa erogante, e si applica a titolo d'imposta sui proventi che concorrono a formare il reddito di soggetti non residenti ed a titolo d'acconto, in ogni altro caso".
 
-#### Art. 15
+### Art. 15
 
 (Modifiche alla disciplina in tema di rimborso della ritenuta sui
 
@@ -404,7 +404,7 @@ c) al comma 3, primo periodo, le parole: "di cui ai precedenti commi" sono sosti
 
 > 5\. Le disposizioni di cui al presente articolo si applicano alle societa' di cui al comma 1 che risultano controllate direttamente o indirettamente da uno o piu' soggetti non residenti in Stati della Comunita' europea a condizione che dimostrino di non essere state costituite allo scopo esclusivo o principale di beneficiare del regime in esame. A tal fine per l'assunzione delle prove si applicano le procedure di cui ai commi 12 e 13 dell'art. 11 della legge 30 dicembre 1991, n. 413".
 
-#### Art. 16
+### Art. 16
 
 (Riapertura del termine di cui all'articolo 46, primo comma,
 
@@ -420,7 +420,7 @@ della legge n. 47 del 1985).
 
 > L'interessato, a pena di decadenza dai benefici, deve presentare all'ufficio del registro copia del provvedimento definitivo di sanatoria entro sei mesi dalla sua notifica o, nel caso che questo non sia intervenuto, a richiesta dell'ufficio, dichiarazione del comune che attesti che la domanda non ha ancora ottenuto definizione".
 
-#### Art. 17
+### Art. 17
 
 (Differimento dei termini per il versamento dell'imposta
 
@@ -468,7 +468,7 @@ Detto versamento si intende validamente effettuato anche se avvenuto entro il 15
 
 > L'interesse si applica anche sul maggior ammontare delle imposte o ritenute alla fonte riscuotibili mediante versamento diretto liquidato dall'Ufficio delle imposte ai sensi dell'art. 36-bis, secondo comma, e 36-ter del decreto del Presidente della Repubblica 29 settembre 1973, n. 600".
 
-#### Art. 18
+### Art. 18
 
 (Disposizioni concernenti l'applicazione dell'imposta comunale
 
@@ -550,7 +550,7 @@ per l'esercizio di imprese e di arti e professioni).
 
 > 4\. Non si considerano produttivi di reddito agrario i terreni indicati nel comma 2 dell'art. 24".
 
-#### Art. 19 - Esenzione dall'imposta di bollo per copie conformi di atti
+### Art. 19 - Esenzione dall'imposta di bollo per copie conformi di atti
 
 1\. All'articolo 3, nota 2, dell'allegato A, parte I, della tariffa allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 642, come sostituita dalla tariffa approvata con decreto del Ministro delle finanze 20 agosto 1992, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 196 del 21 agosto 1992, le parole da: "e' dovuta" sino alla fine della nota, sono sostituite dalle seguenti: "non e' dovuta".
 
@@ -653,7 +653,7 @@ per l'esercizio di imprese e di arti e professioni).
 
 > 1\. Carta bollata, marche, bollo a punzone e, per le note presentate alle conservatorie dei registri immobiliari, anche in modo virtuale mediante versamento alle conservatorie medesime".
 
-#### Art. 20 - Disposizioni in materia di sanzioni
+### Art. 20 - Disposizioni in materia di sanzioni
 
 1\. Al comma 1 dell'articolo 6-bis del decreto-legge 29 settembre 1997, n. 328, convertito, con modificazioni, dalla legge 29 novembre 1997, n. 410, sono apportate le seguenti modificazioni:
 
@@ -685,7 +685,7 @@ c) alla lettera c), le parole: "all'articolo 110" sono sostituite dalle seguenti
 
 ## Capo II - SEMPLIFICAZIONI DEGLI ADEMPIMENTI A CARICO DEI CONTRIBUENTI
 
-#### Art. 21
+### Art. 21
 
 (Esonero dall'obbligo di emissione di scontrino o ricevuta
 
@@ -705,7 +705,7 @@ fiscale).
 
 > rr) le prestazioni di servizi rese sul litorale demaniale dai titolari dei relativi provvedimenti amministrativi rilasciati dalle autorita' competenti, escluse le somministrazioni di alimenti e bevande e ogni altra attivita' non connessa con quella autorizzata".
 
-#### Art. 22
+### Art. 22
 
 (Termine per il pagamento dei corrispettivi relativi alla
 
@@ -751,7 +751,7 @@ cessione dei prodotti alcolici).
 
 > \- Il capo I (artt. 633 - 656), del titolo I del libro quarto del codice di procedura civile, disciplina il procedimento d'ingiunzione.
 
-#### Art. 23
+### Art. 23
 
 (Esenzione dall'obbligo di emissione della bolla di
 
@@ -785,11 +785,9 @@ accompagnamento per il vino e i prodotti vinosi).
 
 > \- Il decreto del Presidente della Repubblica 6 ottobre 1978, n. 627, reca: "Norme integrative e correttive D.P.R. 26 ottobre 1972, n. 633, concernente istituzione e disciplina dell'imposta sul valore aggiunto, in attuazione della delega prevista dall'art. 7 della legge 10 maggio 1976, n. 249, riguardante l'introduzione dell'obbligo di emissione del documento di accompagnamento dei beni viaggianti".
 
-## Capo III - DISPOSIZIONI IN MATERIA DI ACCERTAMENTO, DI CONTRASTO
+## Capo III - DISPOSIZIONI IN MATERIA DI ACCERTAMENTO, DI CONTRASTO ALL'EVASIONE, DI REVISIONE GENERALE DEL CATASTO E DI FUNZIONAMENTO DELL'AMMINISTRAZIONE FINANZIARIA
 
-### ALL'EVASIONE, DI REVISIONE GENERALE DEL CATASTO E DI - FUNZIONAMENTO DELL'AMMINISTRAZIONE FINANZIARIA
-
-#### Art. 24
+### Art. 24
 
 (Termini di decadenza per l'azione degli uffici in materia di
 
@@ -803,7 +801,7 @@ imposta di registro).
 
 > "1-bis. L'avviso di rettifica e di liquidazione della maggiore imposta di cui all'art. 52, comma 1, deve essere notificato entro il termine di decadenza di due anni dal pagamento dell'imposta proporzionale".
 
-#### Art. 25
+### Art. 25
 
 (Modifiche ai decreti del Presidente della Repubblica n. 600 del
 
@@ -933,7 +931,7 @@ Le cause di inutilizzabilita' previste dal terzo comma non operano nei confronti
 
 > Per l'inottemperanza agli inviti di cui al secondo comma, numeri 3) e 4), si applicano le disposizioni di cui ai commi terzo e quarto dell'art. 32 del decreto del Presidente della Repubblica 29 settembre 1973, 600, e successive modificazioni".
 
-#### Art. 26 - Disposizioni in materia di revisione generale del catasto
+### Art. 26 - Disposizioni in materia di revisione generale del catasto
 
 1\. All'articolo 3 della legge 23 dicembre 1996, n. 662, al comma 154, recante auto-rizzazione all'esercizio della potesta' regolamentare del Governo in materia di revisione generale del catasto, sono apportate le seguenti modificazioni:
 
@@ -965,7 +963,7 @@ b) dopo la lettera e) sono aggiunte le seguenti: "e-bis) fissazione di nuovi cri
 
 > eter) individuazione di nuovi criteri di classificazione e determinazione delle rendite del catasto dei terreni, che tengano conto anche della potenzialita' produttiva dei suoli".
 
-#### Art. 27 - Sospensione degli effetti di atti illegittimi
+### Art. 27 - Sospensione degli effetti di atti illegittimi
 
 1\. All'articolo 2-quater del decreto- legge 30 settembre 1994, n. 564, convertito, con modificazioni, dalla legge 30 novembre 1994, n. 656, sono aggiunti, in fine, i seguenti commi:
 
@@ -991,7 +989,7 @@ b) dopo la lettera e) sono aggiunte le seguenti: "e-bis) fissazione di nuovi cri
 
 > 1-quinquies. La sospensione degli effetti dell'atto disposta anteriormente alla proposizione del ricorso giurisdizionale cessa con la notificazione, da parte dello stesso organo, di un nuovo atto, modificativo o confermativo di quello sospeso; il contribuente puo' impugnare, insieme a quest'ultimo, anche l'atto modificato o confermato".
 
-#### Art. 28
+### Art. 28
 
 Costruzione, ammodernamento e acquisto di immobili per le sedi
 
@@ -1009,7 +1007,7 @@ AGGIORNAMENTO (2)
 
 La L. 28 dicembre 2001, n. 448, ha disposto (con l'art. 52, comma 15)che "l'autorizzazione di spesa di cui al presente comma 3 e' ridotta di 15 milioni di euro per ciascuno degli anni 2002 e 2003".
 
-#### Art. 29
+### Art. 29
 
 Costruzione, ammodernamento e acquisto di immobili
 
@@ -1023,7 +1021,7 @@ per il Corpo della Guardia di finanza
 
 4\. Per l'attuazione del programma di cui al presente articolo, il Corpo della Guardia di finanza (( puo' assumere, secondo un piano approvato dal Ministro dell'economia e delle finanze, impegni pluriennali corrispondenti alle rate di ammortamento dei mutui contratti dai fornitori, nei limiti di impegno ventennali )) di lire 12.100 milioni per l'anno 2000. (( Le rate di ammortamento dei mutui contratti dai fornitori sono corrisposte dal Corpo della Guardia di finanza direttamente agli istituti bancari mutuanti, salvo il caso di autofinanziamento. )) Al relativo onere, pari a lire 58.800 milioni per l'anno 1999 e a lire 70.900 milioni a decorrere dall'anno 2000, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1999-2001, nell'ambito dell'unita' previsionale di base di conto capitale "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per il 1999, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle finanze. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-#### Art. 30
+### Art. 30
 
 (Riequilibrio della consistenza dei ruoli organici del Corpo
 
@@ -1039,7 +1037,7 @@ della Guardia di finanza).
 
 > \- Il decreto-legge 3 novembre 1997, n. 375, recante: "Disposizioni urgenti in tema di trattamenti pensionistici anticipati", pubblicato nella Gazzetta Ufficiale 3 novembre 1997, n. 256, non e' stato convertito in legge nel termine di sessanta giorni dalla sua pubblicazione (vedi comunicato di mancata conversione in Gazzetta Ufficiale 3 gennaio 1998, n. 2). La legge 27 dicembre 1997, n. 449, recante: "Misure per la stabilizzazione della finanza pubblica", pubblicata nel supplemento ordinario alla Gazzetta Ufficiale 30 dicembre 1997, n. 302, con l'art. 63 ha abrogato l'intero provvedimento e ne ha fatto salvi gli effetti.
 
-#### Art. 31
+### Art. 31
 
 (Accreditamento in favore del Corpo della Guardia di finanza di
 
@@ -1057,7 +1055,7 @@ b) al secondo periodo, le parole: "il Ministro della difesa, sentite le competen
 
 > "4. Le misure del 20 per cento e dell'80 per cento e relative destinazioni, indicate dall'art. 14 della legge 18 agosto 1978, n. 497, e successive modificazioni, dall'art. 8 della legge 1 dicembre 1986, n. 831, e successive modificazioni, e dall'art. 9 del decreto-legge 21 settembre 1987, n. 387, convertito, con modificazioni, dalla legge 20 novembre 1987, n. 472, e successive modificazioni, sono rideterminate: nel 5 per cento per il ripristino di immobili non riassegnabili in quantoin attesa di manutenzioni; nel 10 per cento per la manutenzione straordinaria; nel 15 per cento per la costituzione di un fondocasa e nel 20 per cento per la realizzazione ed il reperimento da parte del Ministero della difesa, e delle altre amministrazioni di cui alla citata legge n. 831 del 1986 e al citato decreto-legge n. 387 del 1987, di altri alloggi. Entro tre mesi dalla data di entrata in vigore della presente legge, i Ministri della difesa e delle finanze, sentite le competenti commissioni parlamentari, emanano, con propri decreti, i regolamenti di gestione ed utilizzo del fondocasa, sentito il parere delle sezioni del Consiglio centrale di rappresentanza (COCER) interessate".
 
-#### Art. 32 - Proroga del termine di soppressione di gestioni fuori bilancio
+### Art. 32 - Proroga del termine di soppressione di gestioni fuori bilancio
 
 1\. All'articolo 2, comma 1, della legge 13 marzo 1998, n. 50, dopo le parole: "decreti del Ministro della difesa 5 febbraio 1997, n. 209 e n. 210," sono inserite le seguenti: "nonche' quelli concernenti il Corpo della Guardia di finanza emanati ai sensi dell'articolo 5, commi 3 e 4, della legge 23 dicembre 1993, n. 559,".
 
@@ -1067,7 +1065,7 @@ b) al secondo periodo, le parole: "il Ministro della difesa, sentite le competen
 
 > "1. I regolamenti emanati con decreti del Ministro della difesa 5 febbraio 1997, n. 209 e n. 210, nonche' quelli concernenti il Corpo della guardia di finanza emanati ai sensi dell'art. 5, commi 3 e 4, della legge 23 dicembre 1993, n. 559, si applicano a decorrere dal 1 gennaio 1999".
 
-#### Art. 33
+### Art. 33
 
 (Disposizioni in materia di mancato o irregolare funzionamento di
 
@@ -1081,11 +1079,11 @@ uffici finanziari).
 
 > \- Il decreto-legge 21 giugno 1961, n. 498, convertito, con modificazioni, dalla legge 28 luglio 1961, n. 770, reca: "Norme per la sistemazione di talune situazioni dipendenti da mancato o irregolare funzionamento degli uffici finanziari".
 
-#### Art. 34 - Compensi arretrati per i messi comunali
+### Art. 34 - Compensi arretrati per i messi comunali
 
 1\. A decorrere dal 27 luglio 1991 e fino all'entrata in vigore della disciplina concernente il riordino dei compensi spettanti ai comuni per la notificazione degli atti a mezzo dei messi comunali su richiesta di uffici della pubblica amministrazione, al comune spetta, ove non corrisposta, la somma di lire tremila per ogni singolo atto dell'Amministrazione finanziaria notificato.
 
-#### Art. 35
+### Art. 35
 
 (Istituzioni di sezioni staccate delle commissioni tributarie
 
@@ -1109,7 +1107,7 @@ L'istituzione delle sezioni staccate non deve comunque comportare maggiori oneri
 
 > L'istituzione delle sezioni staccate non deve comunque comportare maggiori oneri a carico del bilancio dello Stato".
 
-#### Art. 36
+### Art. 36
 
 (Autonomia contabile del Consiglio di presidenza della giustizia
 
@@ -1121,7 +1119,7 @@ tributaria).
 
 > \- Il decreto legislativo 31 dicembre 1992, n. 545 (per il titolo si veda in nota all'art. 35), e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 13 gennaio 1993, n. 9.
 
-#### Art. 37
+### Art. 37
 
 (Ripartizione del fondo incentivante di cui al decreto-legge n.
 
@@ -1145,7 +1143,7 @@ tributaria).
 
 ## Capo IV - DISPOSIZIONI IN MATERIA DI TRIBUTI LOCALI
 
-#### Art. 38 - Servizi di tesoreria degli enti locali
+### Art. 38 - Servizi di tesoreria degli enti locali
 
 1\. All'articolo 50 del decreto legislativo 25 febbraio 1995, n. 77, il comma 1 e' sostituito dal seguente:
 
@@ -1169,7 +1167,7 @@ b) per i comuni non capoluoghi di provincia, le comunita' montane e le unioni di
 
 ## Capo V - COPERTURA FINANZIARIA
 
-#### Art. 39 - Copertura finanziaria
+### Art. 39 - Copertura finanziaria
 
 1\. Agli oneri derivanti dall'attuazione della presente legge, con esclusione di quelli di cui agli articoli 7, 28, 29 e 35, si provvede mediante utilizzo delle maggiori entrate derivanti dall'articolo 8.
 

@@ -26,11 +26,9 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - MIGLIORAMENTO DEI TRATTAMENTI
+## TITOLO I - MIGLIORAMENTO DEI TRATTAMENTI PREVIDENZIALI E ASSISTENZIALI
 
-### PREVIDENZIALI E ASSISTENZIALI
-
-#### Art. 1
+### Art. 1
 
 L'indennita' giornaliera di malattia per i lavoratori agricoli, salariati fissi e obbligati, giornalieri di campagna ed assimilati, compartecipanti e piccoli coloni, e' determinata nella misura del cinquanta per cento delle rispettive retribuzioni giornaliere.
 
@@ -40,7 +38,7 @@ L'indennita' giornaliera e' corrisposta a decorrere dal quarto giorno di malatti
 
 I commi secondo e terzo dell'articolo 1 della legge 26 febbraio 1963, n. 329, sono abrogati.
 
-#### Art. 2
+### Art. 2
 
 Le prestazioni sanitarie di malattia per i lavoratori agricoli di cui all'articolo 1 della presente legge sono corrisposte negli stessi limiti temporali previsti per i lavoratori dell'industria.
 
@@ -48,7 +46,7 @@ Nel caso di cessazione dal lavoro il diritto alle prestazioni sanitarie ed econo
 
 La certificazione d'urgenza per l'ammissione del lavoratore alle prestazioni di malattia di cui all'articolo 4, comma quarto, del decreto legislativo luogotenenziale 9 aprile 1946, n. 212, e' rilasciata dalla sezione di collocamento competente per territorio, che invia simultaneamente copia all'ufficio provinciale del servizio per i contributi agricoli unificati.
 
-#### Art. 3
+### Art. 3
 
 L'indennita' di cui al precedente articolo 1 e' determinata sulla base della retribuzione fissata secondo le modalita' di cui all'articolo 28 del decreto del Presidente della Repubblica 27 aprile 1968, n. 488.
 
@@ -76,29 +74,27 @@ AGGIORNAMENTO (5)
 
 La 23 dicembre 2009, n. 191 ha disposto (con l'art. 2, comma 5) che "Il terzo comma dell'articolo 3 della legge 8 agosto 1972, n. 457, si interpreta nel senso che il termine ivi previsto del 30 ottobre per la rilevazione della media tra le retribuzioni per le diverse qualifiche previste dai contratti collettivi provinciali di lavoro ai fini della determinazione della retribuzione media convenzionale da porre a base per le prestazioni pensionistiche e per il calcolo della contribuzione degli operai agricoli a tempo determinato e' il medesimo di quello previsto al secondo comma dell'articolo 3 della citata legge n. 457 del 1972 per gli operai a tempo indeterminato."
 
-#### Art. 4
+### Art. 4
 
 Ai fini dell'assicurazione contro gli infortuni e le malattie professionali sono aboliti i limiti minimo e massimo di eta' previsti per i lavoratori agricoli dall'articolo 205 del testo unico delle disposizioni per l'assicurazione medesima, approvato con decreto del Presidente della Repubblica 30 giugno 1965, n. 1124.
 
-#### Art. 5
+### Art. 5
 
 II grado di inabilita' permanente, assoluta o parziale, previsto dalle norme contenute nel titolo secondo del testo unico delle disposizioni per l'assicurazione contro gli infortuni sul lavoro e le malattie professionali, approvato con decreto del Presidente della Repubblica 30 giugno 1965, n. 1.124, e' fissato in misura superiore al 10 per cento, ai fini della corresponsione della rendita in caso di infortunio sul lavoro in agricoltura.
 
-#### Art. 6
+### Art. 6
 
 Ai lavoratori agricoli con qualifica di giornalieri di campagna ed assimilati, ivi compresi i compartecipanti ed i piccoli coloni, spettano gli assegni familiari anche per le giornate di ferie e festivita' nazionali ed infrasettimanali in relazione al periodo per il quale per contratto collettivo di lavoro sussiste l'obbligo del pagamento della retribuzione per ferie e per le festivita' suddette.
 
-#### Art. 7
+### Art. 7
 
 La misura del contributo di cui alla lettera a) dell'articolo 4 della legge 26 febbraio 1963, n. 329, e' modificata in lire 92 per ogni giornata di lavoro di uomo o donna e in lire 89 per ogni giornata di lavoro di ragazzo.
 
 L'Istituto nazionale della previdenza sociale corrisponde all'Istituto nazionale per l'assicurazione contro le malattie ed alle casse mutue provinciali di malattia di Trento e di Bolzano, una somma da prelevarsi dal gettito dei contributi per l'assicurazione obbligatoria contro la tubercolosi in misura corrispondente allo 0,10 per cento delle retribuzioni soggette al contributo per l'assicurazione predetta. Detta somma sara' versata all'Istituto nazionale per l'assicurazione contro le malattie che provvedera' a ripartirla con le casse mutue provinciali di malattia di Trento e di Bolzano secondo criteri da stabilirsi con una convenzione che tenga conto del numero degli iscritti a ciascun ente. Detta convenzione e' soggetta all'approvazione del Ministro per il lavoro e la previdenza sociale.
 
-## TITOLO II - INTEGRAZIONE DEL SALARIO IN FAVORE DEI LAVORATORI AGRICOLI A TEMPO
+## TITOLO II - INTEGRAZIONE DEL SALARIO IN FAVORE DEI LAVORATORI AGRICOLI A TEMPO INDETERMINATO
 
-### INDETERMINATO
-
-#### Art. 8
+### Art. 8
 
 Agli operai agricoli con contratto a tempo indeterminato, che siano sospesi temporaneamente dal lavoro per intemperie stagionali o per altre cause non imputabili al datore di lavoro o ai lavoratori, e' dovuto un trattamento sostitutivo della retribuzione, per le giornate di lavoro non prestate, nella misura dei due terzi della retribuzione di cui all'articolo 3. Detto trattamento e' corrisposto per la durata massima di novanta giorni nell'anno.
 
@@ -122,21 +118,21 @@ AGGIORNAMENTO (8)
 
 Il D.L. 22 marzo 2021, n. 41 ha disposto (con l'art. 8, comma 8) che il trattamento di cassa integrazione salariale operai agricoli (CISOA) ai sensi dell'articolo 19, comma 3-bis, del decreto-legge 17 marzo 2020, n. 18, convertito, con modificazioni, dalla legge 24 aprile 2020, n. 27, richiesto per eventi riconducibili all'emergenza epidemiologica da COVID-19, "e' concesso, in deroga ai limiti di fruizione riferiti al singolo lavoratore e al numero di giornate lavorative da svolgere presso la stessa azienda di cui all'articolo 8 della legge 8 agosto 1972, n. 457, per una durata massima di centoventi giorni, nel periodo ricompreso tra il 1° aprile e il 31 dicembre 2021".
 
-#### Art. 8-bis
+### Art. 8-bis
 
 ((1. Il conguaglio o la richiesta di rimborso degli importi dei trattamenti di integrazione salariale corrisposti dai datori di lavoro ai lavoratori agricoli a tempo indeterminato devono essere effettuati, a pena di decadenza, entro sei mesi dalla fine del periodo di paga in corso alla scadenza del termine di durata della concessione o dalla data del provvedimento di concessione se successivo)).
 
-#### Art. 9
+### Art. 9
 
 Il trattamento sostitutivo non e' dovuto per le assenze che non comportino retribuzione nonche' per le giornate in cui i lavoratori sospesi si dedichino ad altre attivita' remunerate.
 
 Il trattamento stesso non e' dovuto agli assunti o mantenuti in soprannumero rispetto alle esigenze dell'impresa.
 
-#### Art. 10
+### Art. 10
 
 Per provvedere alla corresponsione del trattamento di cui all'articolo 8, e' istituita presso l'Istituto nazionale della previdenza sociale una "Cassa per l'integrazione, dei salari degli operai dipendenti da imprese agricole".
 
-#### Art. 11
+### Art. 11
 
 Sovraintende alla Cassa un comitato speciale, presieduto dal presidente dell'I.N.P.S. o, in sua vece o impedimento, dalla persona designata a sostituirlo secondo le norme che regolano la rappresentanza dell'Istituto stesso, e composto dai seguenti membri:
 
@@ -154,7 +150,7 @@ Il comitato e' costituito con decreto del Ministro per il lavoro e la previdenza
 
 I membri di cui al punto 2) del primo comma del presente articolo sono designati dalle organizzazioni sindacali di categoria maggiormente rappresentative sul piano nazionale, nel termine, non inferiore a 30 giorni, ad esse assegnato dal Ministro per il lavoro e la previdenza sociale. Qualora le designazioni non pervengano nel termine prescritto, il Ministro si sostituisce alla organizzazione sindacale inadempiente.
 
-#### Art. 12
+### Art. 12
 
 Spetta al comitato speciale:
 
@@ -164,7 +160,7 @@ Spetta al comitato speciale:
 
 3\) decidere sui ricorsi riguardanti le prestazioni.
 
-#### Art. 13
+### Art. 13
 
 Le funzioni di controllo sulla gestione della Cassa sono esercitate da un collegio dei sindaci composto dal presidente del collegio sindacale dell'Istituto nazionale della previdenza sociale, che lo presiede, e da un funzionario per ciascuno dei Ministeri del lavoro e della previdenza sociale e del tesoro, con qualifica non inferiore a direttore di divisione.
 
@@ -172,7 +168,7 @@ Per ciascun sindaco effettivo e' nominato un supplente.
 
 Il collegio dei sindaci e' nominato con decreto del Ministro per il lavoro e la previdenza sociale e dura in carica quattro anni.
 
-#### Art. 14
+### Art. 14
 
 Il trattamento sostitutivo della retribuzione e' corrisposto dall'Istituto nazionale della previdenza sociale, su deliberazione di una commissione costituita, presso ogni sede dell'Istituto stesso, con provvedimento del direttore dell'ufficio provinciale del lavoro e della massima occupazione.
 
@@ -188,7 +184,7 @@ AGGIORNAMENTO (6)
 
 Il D.L. 17 marzo 2020, n. 18, convertito con modificazioni dalla L. 24 aprile 2020, n. 27, come modificato dal D.L. 19 maggio 2020, n. 34, convertito con modificazioni dalla L. 17 luglio 2020, n. 77, ha disposto (con l'art. 19, comma 3-bis) che "Per assicurare la celerita' delle autorizzazioni, le integrazioni salariali a carico del trattamento di CISOA con causale "emergenza COVID-19" sono concesse dalla sede dell'INPS territorialmente competente, in deroga a quanto previsto dall'articolo 14 della legge 8 agosto 1972, n. 457".
 
-#### Art. 15
+### Art. 15
 
 Per il conseguimento del trattamento di cui all'articolo 8, il datore di lavoro e' tenuto, entro quindici giorni dalla sospensione del lavoro, a presentare domanda, per il tramite della competente sezione dell'ufficio del lavoro, alla sede provinciale dell'Istituto nazionale della previdenza sociale, sull'apposito modulo predisposto dall'Istituto stesso comunicando i nominativi dei lavoratori sospesi, le giornate di sospensione, la causa della sospensione dell'attivita' lavorativa.
 
@@ -196,21 +192,21 @@ Qualora la domanda sia presentata dopo 15 giorni dall'inizio della sospensione d
 
 In caso di omessa o tardiva presentazione della domanda, il datore di lavoro, ove da tale inadempimento sia derivata la perdita totale o parziale del diritto del lavoratore al trattamento sostitutivo, e' tenuto a corrispondere a quest'ultimo il trattamento stesso.
 
-#### Art. 16
+### Art. 16
 
 La domanda di cui all'articolo precedente e' trasmessa dalla sezione dell'ufficio del lavoro all'ufficio provinciale del servizio contributi agricoli unificati e da questo ultimo, debitamente istruita, all'Istituto nazionale della previdenza sociale per le determinazioni della commissione provinciale, di cui all'articolo 14, la quale decide entro il termine di 20 giorni. Qualora detto termine non sia rispettato la domanda deve ritenersi accolta.
 
-#### Art. 17
+### Art. 17
 
 Il trattamento sostitutivo a' corrisposto dall'Istituto nazionale della previdenza sociale entro sessanta giorni dalla data della deliberazione della commissione provinciale.
 
-#### Art. 18
+### Art. 18
 
 E' ammesso ricorso al comitato speciale entro 30 giorni dalla notifica della decisione negativa della commissione provinciale, e in ogni caso, decorsi 60 giorni dalla data di presentazione della domanda di cui all'articolo 15 ove, entro tale termine, la commissione provinciale non abbia deliberato al riguardo.
 
 Contro le decisioni del comitato speciale, di cui all'articolo 12, n. 3), e, in ogni caso, decorsi 60 giorni dalla presentazione del ricorso senza che il comitato speciale si sia pronunciato, spetta all'interessato l'azione avanti l'autorita' giudiziaria.
 
-#### Art. 19
+### Art. 19
 
 Al finanziamento della Cassa si provvede con un contributo a carico del datore di lavoro agricolo. Gli oneri non coperti dal contributo predetto sono posti a carico della gestione dell'assicurazione obbligatoria contro la disoccupazione involontaria.
 
@@ -218,7 +214,7 @@ La gestione stessa e' tenuta ad anticipare, senza gravame di interessi, le somme
 
 Il contributo di cui al primo comma non e' dovuto dai datori di lavoro assicurati per la malattia, ai sensi della legge 22 novembre 1954, n. 1136.
 
-#### Art. 20
+### Art. 20
 
 Il contributo a carico del datore di lavoro e' dovuto per tutti i lavoratori dipendenti non aventi qualifica impiegatizia ed e' commisurato al 3 per cento della retribuzione corrisposta, determinata ai sensi dell'articolo 28 del decreto del Presidente della Repubblica 27 aprile 1968, n. 488. ((2))
 
@@ -230,19 +226,19 @@ AGGIORNAMENTO (2)
 
 Il D.L. 29 luglio 1981, n.402, convertito, con modificazioni, dalla L. 26 settembre 1981, n.537, ha disposto (con l'art. 11, comma 1) che "A decorrere dal 1 gennaio 1981 l'aliquota del contributo previsto dall'art. 20 della legge 8 agosto 1972, n. 457, a carico del datore di lavoro agricolo e' ridotta dal 3 al 1,50 per cento."
 
-#### Art. 21
+### Art. 21
 
 La misura del contributo di cui agli articoli 7 e 20 puo' essere modificata non prima che sia trascorso un triennio dalla data di entrata in vigore della presente legge, in relazione all'andamento della gestione, con decreto del, Presidente della Repubblica su proposta del Ministro per il lavoro e la previdenza sociale di concerto con Ministri per il tesoro e per l'agricoltura e le foreste.
 
-#### Art. 22
+### Art. 22
 
 Il servizio per i contributi agricoli unificati provvede all'accertamento e alla riscossione dei contributi mediante la procedura vigente per la contribuzione agricola unificata.
 
-#### Art. 23
+### Art. 23
 
 La vigilanza per l'applicazione della presente legge e' esercitata dal Ministero del lavoro e della previdenza sociale a mezzo dell'ispettorato del lavoro, il quale si avvale, coordinandola con la propria, dell'attivita' di vigilanza esercitata dal servizio per i contributi agricoli unificati e dall'Istituto nazionale della previdenza sociale.
 
-#### Art. 24
+### Art. 24
 
 I datori di lavoro hanno l'obbligo di consentire l'accesso nelle aziende agli incaricati della vigilanza degli enti previdenziali di cui all'articolo precedente e a fornire ogni notizia utile all'applicazione della presente legge.
 
@@ -252,7 +248,7 @@ Per i contributi previsti dalla presente legge e per le contravvenzioni di cui a
 
 ## TITOLO III - TRATTAMENTO SPECIALE AI LAVORATORI AGRICOLI A TEMPO DETERMINATO
 
-#### Art. 25
+### Art. 25
 
 Ai lavoratori agricoli a tempo determinato, che abbiano effettuato nel corso dell'anno solare almeno 151 giornate di lavoro, e' dovuto, in luogo dell'indennita' di disoccupazione loro spettante per lo stesso periodo ai sensi del decreto del Presidente della Repubblica 3 dicembre 1970, n. 1049, un trattamento speciale pari al 60 per cento della retribuzione di cui all'articolo 3 della presente legge. (1) ((4))
 
@@ -270,7 +266,7 @@ AGGIORNAMENTO (4)
 
 La L. 24 dicembre 2007, n. 247 ha disposto (con l'art. 1, comma 55) che "Per gli operai agricoli a tempo determinato e le figure equiparate, l'importo giornaliero dell'indennita' ordinaria di disoccupazione di cui all'articolo 7, comma 1, del decreto-legge 21 marzo 1988, n. 86, convertito, con modificazioni, dalla legge 20 maggio 1988, n. 160, e successive modifiche e integrazioni, nonche' dei trattamenti speciali di cui all'articolo 25 della legge 8 agosto 1972, n. 457, e all'articolo 7 della legge 16 febbraio 1977, n. 37, e' fissato con riferimento ai trattamenti aventi decorrenza dal 1° gennaio 2008 nella misura del 40 per cento della retribuzione indicata all'articolo 1 del decreto-legge 9 ottobre 1989, n. 338, convertito, con modificazioni, dalla legge 7 dicembre 1989, n. 389, ed e' corrisposto per il numero di giornate di iscrizione negli elenchi nominativi, entro il limite di 365 giornate del parametro annuo di riferimento."
 
-#### Art. 26
+### Art. 26
 
 Alla corresponsione della prestazione di cui all'articolo precedente provvede l'Istituto nazionale della previdenza, sociale.
 
@@ -278,11 +274,11 @@ Il relativo onere con evidenza contabile e' posto a carico della gestione dell'a
 
 ## TITOLO IV - DISPOSIZIONI FINALI
 
-#### Art. 27
+### Art. 27
 
 I periodi per i quali e' corrisposto il trattamento sostitutivo della retribuzione di cui all'articolo 8 ed il trattamento speciale di cui all'articolo 25 della presente legge sono considerati utili d'ufficio ai fini del riconoscimento del diritto alla pensione e della determinazione della misura di questa.
 
-#### Art. 28
+### Art. 28
 
 I contributi dovuti per l'anno 1972, in base agli articoli 7 e 20, sono applicati per dodicesimi a partire dal mese successivo a quello di entrata in vigore della presente legge, sulle giornate di lavoro impiegate nell'anno da ciascuna azienda agricola.
 

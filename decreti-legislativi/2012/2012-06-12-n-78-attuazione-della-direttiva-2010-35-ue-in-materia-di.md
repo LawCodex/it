@@ -49,11 +49,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Ambito di applicazione e definizioni
 
-### Ambito di applicazione e definizioni
-
-#### Art. 1
+### Art. 1
 
 Oggetto e ambito di applicazione
 
@@ -171,7 +169,7 @@ c) alle attrezzature a pressione trasportabili definite nell'articolo 2, comma 1
 
 > 1\. Il trasporto di merci pericolose tra lo Stato nazionale ed i Paesi terzi rispetto alla Comunita' europea e' autorizzato a condizione che esso sia conforme alle disposizioni stabilite nell'ADR, nel RID e nell'ADN, qualora non venga diversamente autorizzato con le modalita' previste dagli articoli 6, 7 e 8.".
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -249,17 +247,15 @@ ff) autorita' di vigilanza del mercato: il Ministero delle infrastrutture e dei 
 
 > Per i riferimenti alla direttiva 1999/36/CE, si veda nelle note all'articolo 1.
 
-#### Art. 3
+### Art. 3
 
 Requisiti a livello locale
 
 1\. Con decreto del Ministro delle infrastrutture e dei trasporti possono essere stabiliti requisiti applicabili a livello locale limitatamente all'immagazzinamento a medio o lungo termine o per l'uso locale delle attrezzature a pressione trasportabili.
 
-## Capo II
+## Capo II - Obblighi degli operatori economici
 
-### Obblighi degli operatori economici
-
-#### Art. 4
+### Art. 4
 
 Obblighi dei fabbricanti
 
@@ -281,7 +277,7 @@ Obblighi dei fabbricanti
 
 > Per i riferimenti alla direttiva 2008/68/CE, si veda nelle note all'articolo 2.
 
-#### Art. 5
+### Art. 5
 
 Rappresentanti autorizzati
 
@@ -303,7 +299,7 @@ c) cooperare con l'autorita' competente, su richiesta della medesima, a qualsias
 
 > Per i riferimenti alla direttiva 2008/68/CE, si veda nelle note all'articolo 2.
 
-#### Art. 6
+### Art. 6
 
 Obblighi degli importatori
 
@@ -327,7 +323,7 @@ Obblighi degli importatori
 
 > Per i riferimenti alla direttiva 2008/68/CE, si veda nelle note all'articolo 2.
 
-#### Art. 7
+### Art. 7
 
 Obblighi dei distributori
 
@@ -347,7 +343,7 @@ Inoltre, qualora le attrezzature a pressione trasportabili presentino un rischio
 
 > Per i riferimenti alla direttiva 2008/68/CE, si veda nelle note all'articolo 2.
 
-#### Art. 8
+### Art. 8
 
 Obblighi dei proprietari
 
@@ -363,7 +359,7 @@ Obblighi dei proprietari
 
 > Per i riferimenti alla direttiva 2008/68/CE, si veda nelle note all'articolo 2.
 
-#### Art. 9
+### Art. 9
 
 Obblighi degli operatori
 
@@ -375,13 +371,13 @@ Obblighi degli operatori
 
 > Per i riferimenti alla direttiva 2008/68/CE, si veda nelle note all'articolo 2.
 
-#### Art. 10
+### Art. 10
 
 Casi in cui gli obblighi dei fabbricanti sono applicati agli importatori ed ai distributori
 
 1\. Un importatore o distributore e' ritenuto un fabbricante ai fini del presente decreto ed e' conseguentemente soggetto agli obblighi del fabbricante di cui all'articolo 4 del presente decreto, quando immette sul mercato attrezzature a pressione trasportabili con il proprio nome o marchio commerciale o modifica le attrezzature a pressione trasportabili gia' immesse sul mercato in modo che la conformita' ai requisiti applicabili potrebbe esserne condizionata.
 
-#### Art. 11
+### Art. 11
 
 Identificazione degli operatori economici
 
@@ -391,11 +387,9 @@ a) qualsiasi operatore economico che abbia fornito loro attrezzature a pressione
 
 b) qualsiasi operatore economico al quale abbiano fornito attrezzature a pressione trasportabili.
 
-## Capo III
+## Capo III - Conformita' delle attrezzature a pressione trasportabili
 
-### Conformita' delle attrezzature a pressione trasportabili
-
-#### Art. 12
+### Art. 12
 
 Conformita' delle attrezzature a pressione trasportabili
 
@@ -409,7 +403,7 @@ e relativa valutazione
 
 4\. Le parti rimovibili delle attrezzature a pressione trasportabili ricaricabili possono essere oggetto di una valutazione della conformita' separata.
 
-#### Art. 13
+### Art. 13
 
 Rivalutazione della conformita'
 
@@ -417,7 +411,7 @@ Rivalutazione della conformita'
 
 2\. Il marchio Pi e' apposto in conformita' a quanto prescritto nell'allegato III al presente decreto.
 
-#### Art. 14
+### Art. 14
 
 Principi generali del marchio Pi
 
@@ -441,7 +435,7 @@ b) soddisfano i requisiti di rivalutazione della conformita' di cui all'articolo
 
 > Per i riferimenti alle direttive 84/525/CEE, 84/526/CEE e 84/527/CEE, si veda nelle note all'articolo 1. Per i riferimenti al decreto del Ministro dei trasporti 7 aprile 1986, si veda nelle note alle premesse. Per i riferimenti alla direttiva 2008/68/CE, si veda nelle note all'articolo 2.
 
-#### Art. 15
+### Art. 15
 
 Regole e condizioni per l'apposizione del marchio Pi
 
@@ -457,7 +451,7 @@ Regole e condizioni per l'apposizione del marchio Pi
 
 6\. Per quanto riguarda le bombole per gas precedentemente conformi alle direttive 84/525/CEE, 84/526/CEE o 84/527/CEE, recepite con il decreto del Ministro dei trasporti 7 aprile 1986, che non recano il marchio Pi, all'atto della prima ispezione periodica, effettuata in conformita' a quanto disposto dal presente decreto, il numero di identificazione dell'organismo notificato responsabile e' preceduto dal marchio Pi.
 
-#### Art. 16
+### Art. 16
 
 Libera circolazione
 
@@ -469,11 +463,9 @@ delle attrezzature a pressione trasportabili
 
 > Il regolamento (CE) n. 765/2008 e' pubblicato nella G.U.U.E. 13 agosto 2008, n. L 218.
 
-## Capo IV
+## Capo IV - Autorita' di notifica e organismi notificati
 
-### Autorita' di notifica e organismi notificati
-
-#### Art. 17
+### Art. 17
 
 Autorita' di notifica
 
@@ -481,7 +473,7 @@ Autorita' di notifica
 
 2\. Per la notifica alla Commissione europea ed altri Stati membri dell'Unione europea degli organismi notificati, il Ministero delle infrastrutture e dei trasporti si avvale della collaborazione del Ministero delle sviluppo economico.
 
-#### Art. 18
+### Art. 18
 
 Requisiti relativi all'autorita' di notifica
 
@@ -493,13 +485,13 @@ Requisiti relativi all'autorita' di notifica
 
 4\. L'autorita' di notifica salvaguarda la riservatezza delle informazioni ottenute.
 
-#### Art. 19
+### Art. 19
 
 Obbligo di informazione dell'autorita' di notifica
 
 1\. Le procedure nazionali per la valutazione, la notifica e la vigilanza sugli organi notificati, nonche' qualsiasi modifica di tali informazioni, sono notificate alla Commissione europea.
 
-#### Art. 20
+### Art. 20
 
 Requisiti relativi agli organismi notificati
 
@@ -513,7 +505,7 @@ Requisiti relativi agli organismi notificati
 
 > Per i riferimenti alla direttiva 2008/68/CE, si veda nelle note all'articolo 2.
 
-#### Art. 21
+### Art. 21
 
 Domanda di notifica
 
@@ -533,7 +525,7 @@ d) del certificato di accreditamento, rilasciato dall'organismo di accreditament
 
 > Per i riferimenti al regolamento (CE) 765/2008, si veda nelle note all'articolo 16.
 
-#### Art. 22
+### Art. 22
 
 Procedura di notifica
 
@@ -549,7 +541,7 @@ Procedura di notifica
 
 6\. I servizi di ispezione interni del richiedente la valutazione di conformita', definiti negli allegati alla direttiva 2008/68/CE, non sono notificati.
 
-#### Art. 23
+### Art. 23
 
 Numeri di identificazione
 
@@ -557,7 +549,7 @@ ed elenchi degli organismi notificati
 
 1\. L'organismo notificato e' identificato con lo specifico numero assegnato dalla Commissione europea ed e' indicato nell'elenco degli organismi notificati, messo a disposizione del pubblico dalla stessa Commissione.
 
-#### Art. 24
+### Art. 24
 
 Modifiche delle notifiche
 
@@ -565,7 +557,7 @@ Modifiche delle notifiche
 
 2\. In caso di ritiro, limitazione o sospensione della notifica, oppure di cessazione dell'attivita' dell'organismo notificato, l'autorita' nazionale di notifica, che aveva disposto tale atto, adotta le misure appropriate per garantire che le pratiche di tale organismo siano evase da un altro organismo notificato o siano messe a disposizione delle altre autorita' di notifica e di vigilanza del mercato responsabili, su loro richiesta.
 
-#### Art. 25
+### Art. 25
 
 Contestazione della competenza
 
@@ -575,7 +567,7 @@ degli organismi notificati
 
 2\. Su richiesta della Commissione, l'autorita' di notifica adotta le misure necessarie nei confronti dell'organismo notificato che non soddisfa o non soddisfa piu' i requisiti per la notifica.
 
-#### Art. 26
+### Art. 26
 
 Obblighi operativi degli organismi notificati
 
@@ -589,7 +581,7 @@ Obblighi operativi degli organismi notificati
 
 > Per i riferimenti alla direttiva 2008/68/CE, si veda nelle note all'articolo 2.
 
-#### Art. 27
+### Art. 27
 
 Obblighi di informazione degli organismi notificati
 
@@ -605,17 +597,15 @@ d) su richiesta, le attivita' eseguite nell'ambito della loro notifica e qualsia
 
 2\. Gli organismi notificati forniscono agli altri organismi notificati a norma del presente decreto, che eseguono simili attivita' di valutazione della conformita', di ispezione periodica, di ispezione intermedia e di verifica straordinaria, che riguardano le stesse attrezzature a pressione trasportabili, pertinenti informazioni sulle questioni relative ai risultati negativi e, su richiesta, ai risultati positivi della valutazione della conformita'.
 
-#### Art. 28
+### Art. 28
 
 Coordinamento degli organismi notificati
 
 1\. L'autorita' di notifica garantisce che gli organismi, che ha provveduto a notificare, partecipino ai lavori del gruppo settoriale di organismi notificati, istituito dalla Commissione europea, direttamente o mediante rappresentanti designati.
 
-## Capo V
+## Capo V - Procedure di salvaguardia
 
-### Procedure di salvaguardia
-
-#### Art. 29
+### Art. 29
 
 Procedura applicabile alle attrezzature a pressione trasportabili che presentano un rischio a livello nazionale
 
@@ -639,7 +629,7 @@ b) carenze nelle norme o nei codici tecnici di cui agli allegati alla direttiva 
 
 > Per i riferimenti alla direttiva 2008/68/CE, si veda nelle note all'articolo 2.
 
-#### Art. 30
+### Art. 30
 
 Procedura di salvaguardia dell'Unione
 
@@ -653,7 +643,7 @@ Procedura di salvaguardia dell'Unione
 
 > Per i riferimenti alla direttiva 2010/35/UE, si veda nelle note alle premesse.
 
-#### Art. 31
+### Art. 31
 
 Attrezzature a pressione trasportabili conformi
 
@@ -665,7 +655,7 @@ che presentano un rischio per la salute e la sicurezza
 
 3\. L'autorita' competente informa immediatamente la Commissione europea e gli altri Stati membri dell'Unione europea. Tali informazioni includono, in particolare, i dati necessari all'identificazione delle attrezzature a pressione trasportabili interessate, l'origine e la catena di fornitura delle attrezzature, la natura del rischio connesso, nonche' la natura e la durata delle misure adottate.
 
-#### Art. 32
+### Art. 32
 
 Non conformita' formale
 
@@ -685,11 +675,9 @@ d) i requisiti degli allegati alla direttiva 2008/68/CE e del presente decreto n
 
 > Per i riferimenti alla direttiva 2008/68/CE si veda nelle note all'articolo 2.
 
-## Capo VI
+## Capo VI - Disposizioni finali
 
-### Disposizioni finali
-
-#### Art. 33
+### Art. 33
 
 Norme abrogate
 
@@ -705,7 +693,7 @@ Norme abrogate
 
 > Per i riferimenti alla direttiva 1999/36/CE, si veda nelle note all'articolo 1.
 
-#### Art. 34
+### Art. 34
 
 Riconoscimento dell'equivalenza
 
@@ -739,13 +727,13 @@ Riconoscimento dell'equivalenza
 
 > Il decreto legislativo 25 febbraio 2000, n. 93 (Attuazione della direttiva 97/23/CE in materia di attrezzature a pressione), e' pubblicato nella Gazzetta Ufficiale 18 aprile 2000, n. 91, S.O.
 
-#### Art. 35
+### Art. 35
 
 Norma di attuazione
 
 1\. Le disposizioni del presente decreto si applicano ai recipienti a pressione, ai loro rubinetti e altri accessori utilizzati per il trasporto di ONU n. 1745, ONU n. 1746 e ONU n. 2495 a decorrere dal 1° luglio 2013.
 
-#### Art. 36
+### Art. 36
 
 Modalita' e tariffe
 
@@ -757,7 +745,7 @@ per attivita' connesse al presente decreto
 
 3\. Le tariffe sono determinate in base al principio di copertura del costo effettivo del servizio e sono aggiornate almeno ogni tre anni.
 
-#### Art. 37
+### Art. 37
 
 Sanzioni
 
@@ -805,7 +793,7 @@ c) se trattasi di recipienti di cui al comma 1, lettera c), alla sanzione ammini
 
 > Il decreto del Presidente della Repubblica 11 luglio 1980, n. 753 (Nuove norme in materia di polizia, sicurezza e regolarita' dell'esercizio delle ferrovie e di altri servizi di trasporto), e' pubblicato nella Gazzetta Ufficiale 15 novembre 1980, n. 314.
 
-#### Art. 38
+### Art. 38
 
 Disposizioni di carattere finanziario
 
@@ -813,7 +801,7 @@ Disposizioni di carattere finanziario
 
 2\. Le amministrazioni interessate provvedono agli adempimenti previsti dal presente decreto con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
-#### Art. 39
+### Art. 39
 
 Entrata in vigore
 
@@ -841,7 +829,7 @@ Visto, il Guardasigilli: Severino
 
 ## Allegati
 
-#### Allegato I
+### Allegato I
 
 Allegato I
 
@@ -887,7 +875,7 @@ contenente piu' dell'85% di fluoruro di idrogeno |
 
 Escluso il trasporto in cisterne |
 
-#### Allegato II
+### Allegato II
 
 Allegato II
 
@@ -901,7 +889,7 @@ Parte di provvedimento in formato grafico
 
 3\. Le proporzioni indicate nel disegno in scala graduata sono rispettate. Il reticolo non fa parte del marchio.
 
-#### Allegato III
+### Allegato III
 
 Allegato III
 

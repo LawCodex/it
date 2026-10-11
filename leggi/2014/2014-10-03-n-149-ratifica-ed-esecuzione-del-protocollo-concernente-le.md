@@ -30,19 +30,19 @@ Promulga
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare il Protocollo concernente le preoccupazioni del popolo irlandese relative al Trattato di Lisbona, fatto a Bruxelles il 13 giugno 2012.
 
-#### Art. 2
+### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data al Protocollo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 4 del Protocollo stesso.
 
-#### Art. 3
+### Art. 3
 
 Entrata in vigore
 
@@ -60,9 +60,7 @@ Mogherini, Ministro degli affari esteri e della cooperazione internazionale
 
 Visto, il Guardasigilli: Orlando
 
-## Titolo I - DIRITTO ALLA VITA, ALLA FAMIGLIA
-
-### E ALL'ISTRUZIONE
+## Titolo I - DIRITTO ALLA VITA, ALLA FAMIGLIA E ALL'ISTRUZIONE
 
 Allegato
 
@@ -134,19 +132,19 @@ Croazia relativo all'adesione della Repubblica di Croazia all'Unione europea,
 
 Hanno convenuto le disposizioni seguenti, che sono allegate al trattato sull'Unione europea e al trattato sul funzionamento dell'Unione europea:
 
-#### Art. 1
+### Art. 1
 
 Nessuna disposizione del trattato di Lisbona che attribuisce uno status giuridico alla Carta dei diritti fondamentali dell'Unione europea o disposizione di tale trattato riguardante lo spazio di liberta', sicurezza e giustizia pregiudica in alcun modo l'ambito e l'applicabilita' della tutela del diritto alla vita di cui all'articolo 40.3.1, 40.3.2 e 40.3.3, della protezione della famiglia di cui all'articolo 41 e della tutela dei diritti in materia di istruzione di cui agli articoli 42, 44.2.4 e 44.2.5 della Costituzione irlandese.
 
 ## Titolo II - FISCALITA'
 
-#### Art. 2
+### Art. 2
 
 Nessuna disposizione del trattato di Lisbona modifica in alcun modo, per alcuno Stato membro, la portata o l'esercizio della competenza dell'Unione europea in materia di fiscalita'.
 
 ## Titolo III - SICUREZZA E DIFESA
 
-#### Art. 3
+### Art. 3
 
 L'azione dell'Unione sulla scena internazionale si fonda sui principi della democrazia, dello stato di diritto, dell'universalita' e indivisibilita' dei diritti dell'uomo e delle liberta' fondamentali, sul rispetto della dignita' umana, sui principi di uguaglianza e di solidarieta' e sul rispetto dei principi della Carta delle Nazioni Unite e del diritto internazionale.
 
@@ -160,7 +158,7 @@ Spettera' all'Irlanda o a qualsiasi altro Stato membro decidere, conformemente a
 
 ## Titolo IV - DISPOSIZIONI FINALI
 
-#### Art. 4
+### Art. 4
 
 Il presente protocollo rimarra' aperto alla firma delle Alti parti contraenti fino al 30 giugno 2012.
 
@@ -168,7 +166,7 @@ Il presente protocollo sara' ratificato dalle Alte parti contraenti e dalla Repu
 
 Il presente protocollo entrera' in vigore, se possibile, il 30 giugno 2013, se tutti gli strumenti di ratifica saranno stati depositati; altrimenti, il primo giorno del mese successivo all'avvenuto deposito dello strumento di ratifica da parte dello Stato membro che procedera' per ultimo a tale formalita'.
 
-#### Art. 5
+### Art. 5
 
 Il presente protocollo, redatto in unico esemplare in lingua bulgara, ceca, danese, estone, finlandese, francese, greca, inglese, irlandese, italiana, lettone, lituana, maltese, neerlandese, polacca, portoghese, rumena, slovacca, slovena, spagnola, svedese, tedesca e ungherese, i testi in ciascuna di queste lingue facenti ugualmente fede, sara' depositato negli archivi del governo della Repubblica italiana, che provvedera' a trasmetterne copia certificata conforme a ciascuno dei governi degli altri Stati membri.
 

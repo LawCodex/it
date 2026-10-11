@@ -97,7 +97,7 @@ La Regione riconosce il valore sociale delle ricerche archeologiche, speleologic
 
 La Regione favorisce l'associazionismo giovanile.
 
-## Capo II - RAPPORTI POLITICO-COMUNITARI
+### Capo II - RAPPORTI POLITICO-COMUNITARI
 
 ##### Art. 10
 
@@ -127,7 +127,7 @@ La Regione esercita normalmente le proprie funzioni amministrative delegandole a
 
 La Regione puo' affidare ad enti da essa istituiti; ad enti pubblici locali o a societa' alle quali partecipa, la gestione di attivita' ovvero la esecuzione dei compiti che, per la loro speciale natura e dimensione, non possano essere diversamente delegati.
 
-## Capo III - RAPPORTI ECONOMICO-SOCIALI
+### Capo III - RAPPORTI ECONOMICO-SOCIALI
 
 ##### Art. 14
 
@@ -257,7 +257,7 @@ In caso di morte, decadenza, dimissioni di un Consigliere regionale, l'Ufficio d
 
 Per la convalida si procede ai sensi dell'articolo 25.
 
-## Sezione II - Il Consiglio regionale
+#### Sezione II - Il Consiglio regionale
 
 ##### Art. 33
 
@@ -345,7 +345,7 @@ E' istituita in ogni caso una Commissione d'inchiesta allorche' un terzo dei Con
 
 E' fatto obbligo a tutti i titolari degli uffici della Regione, nonche' di enti o aziende da essa istituiti, di fornire alle Commissioni d'inchiesta tutti i dati, i documenti e le informazioni richiesti, senza vincolo di segreto d'ufficio, salvo che facciano parte delle Commissioni membri che non rivestano la carica di Consiglieri regionali.
 
-## Capo II - LA GIUNTA E IL SUO PRESIDENTE
+### Capo II - LA GIUNTA E IL SUO PRESIDENTE
 
 ##### Art. 46
 
@@ -581,7 +581,7 @@ Tale organo ha sede nel capoluogo della Regione. Il controllo sugli atti dei Com
 
 La legge regionale disporra' che il controllo avvenga in forma ulteriormente decentrata.
 
-## Capo II - FINANZE, DEMANIO E PATRIMONIO
+### Capo II - FINANZE, DEMANIO E PATRIMONIO
 
 ##### Art. 73
 
@@ -617,7 +617,7 @@ I revisori dei conti durano in carica un anno e possono essere rieletti alla sca
 
 Le deliberazioni per l'approvazione del bilancio preventivo, del conto consuntivo, dell'esercizio provvisorio, dello storno dei fondi e dei mutui, sono adottate con legge regionale.
 
-## Capo III - PERSONALE
+### Capo III - PERSONALE
 
 ##### Art. 78
 

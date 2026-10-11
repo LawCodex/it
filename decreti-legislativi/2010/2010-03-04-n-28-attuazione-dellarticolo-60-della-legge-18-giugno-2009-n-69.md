@@ -40,11 +40,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - DISPOSIZIONI GENERALI
 
-### DISPOSIZIONI GENERALI
-
-#### Art. 1
+### Art. 1
 
 Definizioni
 
@@ -60,7 +58,7 @@ d) organismo: l'ente pubblico o privato, presso il quale puo' svolgersi il proce
 
 e) registro: il registro degli organismi istituito con decreto del Ministro della giustizia ai sensi dell'articolo 16 del presente decreto, nonche', sino all'emanazione di tale decreto, il registro degli organismi istituito con il decreto del Ministro della giustizia 23 luglio 2004, n. 222.
 
-#### Art. 2
+### Art. 2
 
 Controversie oggetto di mediazione
 
@@ -82,7 +80,7 @@ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n.
 
 ## Capo II - DEL PROCEDIMENTO DI MEDIAZIONE
 
-#### Art. 3
+### Art. 3
 
 Disciplina applicabile e forma degli atti
 
@@ -106,7 +104,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, non prevede piu' (con l'art. 41, comma 1) che le modifiche di cui ai commi 1, 2 e 4 del presente articolo si applicano a decorrere dal 30 giugno 2023.
 
-#### Art. 4
+### Art. 4
 
 Accesso alla mediazione
 
@@ -140,7 +138,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 41, comma 1) che il comma 3 del presente articolo si applica a decorrere dal 30 giugno 2023 e non prevede piu' che le modifiche di cui ai commi 1 e 2 si applicano a decorrere dal 30 giugno 2023.
 
-#### Art. 5 - Condizione di procedibilita' e rapporti con il processo
+### Art. 5 - Condizione di procedibilita' e rapporti con il processo
 
 1\. Chi intende esercitare in giudizio un'azione relativa a una controversia in materia di condominio, diritti reali, divisione, successioni ereditarie, patti di famiglia, locazione, comodato, affitto di aziende, risarcimento del danno derivante da responsabilita' medica e sanitaria e da diffamazione con il mezzo della stampa o con altro mezzo di pubblicita', contratti assicurativi, bancari e finanziari, associazione in partecipazione, consorzio, franchising, opera, rete, somministrazione, societa' di persone e subfornitura, e' tenuto preliminarmente a esperire il procedimento di mediazione ai sensi del presente capo.
 
@@ -226,7 +224,7 @@ AGGIORNAMENTO (11)
 
 Il D.Lgs. 10 marzo 2023, n. 28, ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 25 giugno 2023".
 
-#### Art. 5-bis - Procedimento di opposizione a decreto ingiuntivo
+### Art. 5-bis - Procedimento di opposizione a decreto ingiuntivo
 
 1\. Quando l'azione di cui all'articolo 5, comma 1, e' stata introdotta con ricorso per decreto ingiuntivo, nel procedimento di opposizione l'onere di presentare la domanda di mediazione grava sulla parte che ha proposto ricorso per decreto ingiuntivo. Il giudice alla prima udienza provvede sulle istanze di concessione e sospensione della provvisoria esecuzione se formulate e, accertato il mancato esperimento del tentativo obbligatorio di mediazione, fissa la successiva udienza dopo la scadenza del termine di cui all'articolo 6. A tale udienza, se la mediazione non e' stata esperita, dichiara l'improcedibilita' della domanda giudiziale proposta con il ricorso per decreto ingiuntivo, revoca il decreto opposto e provvede sulle spese.
 
@@ -244,7 +242,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197 ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
-#### Art. 5-ter - Legittimazione in mediazione dell'amministratore di condominio
+### Art. 5-ter - Legittimazione in mediazione dell'amministratore di condominio
 
 1\. L'amministratore del condominio e' legittimato ad attivare un procedimento di mediazione, ad aderirvi e a parteciparvi. ((Il verbale al quale e' allegato)) l'accordo di conciliazione o la proposta conciliativa del mediatore sono sottoposti all'approvazione dell'assemblea condominiale, la quale delibera entro il termine fissato nell'accordo o nella proposta con le maggioranze previste dall'articolo 1136 del codice civile. In caso di mancata approvazione entro tale termine la conciliazione si intende non conclusa.
 
@@ -262,7 +260,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197 ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
-#### Art. 5-quater - Mediazione demandata dal giudice
+### Art. 5-quater - Mediazione demandata dal giudice
 
 1\. Il giudice, anche in sede di giudizio di appello, ((fino al momento in cui fissa l'udienza di rimessione della causa in decisione)), valutata la natura della causa, lo stato dell'istruzione, il comportamento delle parti e ogni altra circostanza, puo' disporre, con ordinanza motivata, l'esperimento di un procedimento di mediazione. Con la stessa ordinanza fissa la successiva udienza dopo la scadenza del termine di cui all'articolo 6.
 
@@ -284,7 +282,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197 ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
-#### Art. 5-quinquies - Formazione del magistrato, valutazione del contenzioso definito con mediazione demandata e collaborazione
+### Art. 5-quinquies - Formazione del magistrato, valutazione del contenzioso definito con mediazione demandata e collaborazione
 
 1\. Il magistrato cura la propria formazione e il proprio aggiornamento in materia di mediazione con la frequentazione di seminari e corsi, organizzati dalla Scuola superiore della magistratura, anche attraverso le strutture didattiche di formazione decentrata.
 
@@ -308,7 +306,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197 ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
-#### Art. 5-sexies - Mediazione su clausola contrattuale o statutaria
+### Art. 5-sexies - Mediazione su clausola contrattuale o statutaria
 
 1\. Quando il contratto, lo statuto o l'atto costitutivo dell'ente pubblico o privato prevedono una clausola di mediazione, l'esperimento della mediazione e' condizione di procedibilita' della domanda giudiziale. Se il tentativo di conciliazione non risulta esperito, il giudice o l'arbitro, su eccezione di parte entro la prima udienza, provvede ai sensi dell'articolo 5, comma 2. Si applica l'articolo 5, commi 4, 5 e 6.
 
@@ -328,7 +326,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197 ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
-#### Art. 6
+### Art. 6
 
 (( (Durata). ))
 
@@ -350,7 +348,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 27 dicembre 2024, n. 216 ha disposto (con l'art. 4, comma 1) che "Le disposizioni di cui all'articolo 6 del decreto legislativo 4 marzo 2010, n. 28, come sostituito dall'articolo 1, comma 1, lettera e), del presente decreto, si applicano ai procedimenti di mediazione per i quali alla data di entrata in vigore del presente decreto non e' stato depositato il verbale conclusivo della mediazione".
 
-#### Art. 7
+### Art. 7
 
 Effetti sulla ragionevole durata del processo
 
@@ -380,7 +378,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197 ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
-#### Art. 8 - Procedimento
+### Art. 8 - Procedimento
 
 1\. All'atto della presentazione della domanda di mediazione, il responsabile dell'organismo designa un mediatore e fissa il primo incontro tra le parti, che deve tenersi non prima di venti e non oltre quaranta giorni dal deposito della domanda, salvo diversa concorde indicazione delle parti. La domanda di mediazione, la designazione del mediatore, la sede e l'orario dell'incontro, le modalita' di svolgimento della procedura, la data del primo incontro e ogni altra informazione utile sono comunicate alle parti, a cura dell'organismo, con ogni mezzo idoneo ad assicurarne la ricezione.
 
@@ -428,7 +426,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197 ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
-#### Art. 8-bis
+### Art. 8-bis
 
 (( (Mediazione in modalita' telematica). ))
 
@@ -440,7 +438,7 @@ Il documento e' immediatamente firmato e restituito al mediatore.)) 3. ((Il medi
 
 4\. ((La conservazione e l'esibizione dei documenti del procedimento di mediazione svolto con modalita' telematiche avvengono, a cura dell'organismo di mediazione, in conformita' all'articolo 43 del decreto legislativo n. 82 del 2005.))
 
-#### Art. 8-ter
+### Art. 8-ter
 
 (( (Incontri di mediazione con modalita' audiovisive da remoto). ))
 
@@ -454,7 +452,7 @@ Il documento e' immediatamente firmato e restituito al mediatore.)) 3. ((Il medi
 
 5\. ((Le parti cooperano in buona fede e lealmente affinche' gli atti formati durante un incontro al quale una o piu' parti partecipano con le modalita' previste dal presente articolo siano firmati senza indugio.))
 
-#### Art. 9
+### Art. 9
 
 Dovere di riservatezza
 
@@ -472,7 +470,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, non prevede piu' (con l'art. 41, comma 1) che la modifica di cui al comma 1 del presente articolo si applica a decorrere dal 30 giugno 2023.
 
-#### Art. 10
+### Art. 10
 
 Inutilizzabilita' e segreto professionale
 
@@ -516,7 +514,7 @@ Inutilizzabilita' e segreto professionale
 
 > 3\. Le disposizioni previste dai commi 1 e 2 si applicano ai giornalisti professionisti iscritti nell'albo professionale, relativamente ai nomi delle persone dalle quali i medesimi hanno avuto notizie di carattere fiduciario nell'esercizio della loro professione. Tuttavia se le notizie sono indispensabili ai fini della prova del reato per cui si procede e la loro veridicita' puo' essere accertata solo attraverso l'identificazione della fonte della notizia, il giudice ordina al giornalista di indicare la fonte delle sue informazioni.».
 
-#### Art. 11 - Conclusione del procedimento
+### Art. 11 - Conclusione del procedimento
 
 1\. Se e' raggiunto un accordo di conciliazione, il mediatore forma processo verbale al quale e' allegato il testo dell'accordo medesimo.
 
@@ -562,7 +560,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, non prevede piu' (con l'art. 41, comma 1) che la modifica di cui al presente articolo si applica a decorrere dal 30 giugno 2023.
 
-#### Art. 11-bis - Accordo di conciliazione sottoscritto dalle amministrazioni pubbliche
+### Art. 11-bis - Accordo di conciliazione sottoscritto dalle amministrazioni pubbliche
 
 1\. Ai rappresentanti delle amministrazioni pubbliche, di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, che sottoscrivono un accordo di conciliazione si applica l'articolo 1, ((comma 1.1)) della legge 14 gennaio 1994, n. 20.
 
@@ -580,7 +578,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, non prevede piu' (con l'art. 41, comma 1) che la modifica di cui al presente articolo si applica a decorrere dal 30 giugno 2023.
 
-#### Art. 12
+### Art. 12
 
 Efficacia esecutiva ed esecuzione
 
@@ -604,7 +602,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, non prevede piu' (con l'art. 41, comma 1) che le modifiche di cui ai commi 1, 1-bis e 2 del presente articolo si applicano a decorrere dal 30 giugno 2023.
 
-#### Art. 12-bis - Conseguenze processuali della mancata partecipazione al procedimento di mediazione
+### Art. 12-bis - Conseguenze processuali della mancata partecipazione al procedimento di mediazione
 
 1\. Dalla mancata partecipazione senza giustificato motivo al primo incontro del procedimento di mediazione, il giudice puo' desumere argomenti di prova nel successivo giudizio ai sensi dell'articolo 116, secondo comma, del codice di procedura civile.
 
@@ -628,7 +626,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, non prevede piu' (con l'art. 41, comma 1) che la modifica di cui al presente articolo si applica a decorrere dal 30 giugno 2023.
 
-#### Art. 13
+### Art. 13
 
 Spese processuali in caso di rifiuto della proposta di conciliazione (9) ((10))
 
@@ -664,7 +662,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, non prevede piu' (con l'art. 41, comma 1) che le modifiche di cui al comma 1 e rubrica del presente articolo si applicano a decorrere dal 30 giugno 2023.
 
-#### Art. 14
+### Art. 14
 
 Obblighi del mediatore
 
@@ -694,7 +692,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, non prevede piu' (con l'art. 41, comma 1) che le modifiche di cui al comma 2 del presente articolo si applicano a decorrere dal 30 giugno 2023.
 
-#### Art. 15
+### Art. 15
 
 Mediazione nell'azione di classe
 
@@ -714,7 +712,7 @@ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n.
 
 ## (( Capo II-bis - (Disposizioni sul patrocinio a spese dello Stato nella mediazione civile e commerciale) ))
 
-#### Art. 15-bis - Istituzione del patrocinio e ambito di applicabilita'
+### Art. 15-bis - Istituzione del patrocinio e ambito di applicabilita'
 
 1\. E' assicurato, alle condizioni stabilite nel presente capo, ((al cittadino italiano non abbiente)) il patrocinio a spese dello Stato ((...)) per l'assistenza dell'avvocato nel procedimento di mediazione nei casi di cui all'articolo 5, comma 1, se e' raggiunto l'accordo di conciliazione. ((Il patrocinio a spese dello Stato e', altresi', assicurato allo straniero regolarmente soggiornante sul territorio nazionale al momento del sorgere del rapporto o del fatto oggetto del procedimento di mediazione, all'apolide e ad enti o associazioni che non perseguono scopi di lucro e non esercitano attivita' economica.))
 
@@ -734,7 +732,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
-#### Art. 15-ter - Condizioni reddituali per l'ammissione
+### Art. 15-ter - Condizioni reddituali per l'ammissione
 
 1\. Puo' essere ammesso al patrocinio chi e' titolare di un reddito imponibile ai fini dell'imposta sul reddito delle persone fisiche, risultante dall'ultima dichiarazione, non superiore all'importo indicato dagli articoli 76 e 77 del testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia, di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115.
 
@@ -752,7 +750,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
-#### Art. 15-quater - Istanza per l'ammissione anticipata
+### Art. 15-quater - Istanza per l'ammissione anticipata
 
 1\. L'interessato che si trova nelle condizioni indicate nell'articolo 15-ter puo' chiedere di essere ammesso al patrocinio a spese dello Stato al fine di proporre domanda di mediazione o di partecipare al relativo procedimento, nei casi di cui all'articolo 5, comma 1.
 
@@ -774,7 +772,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
-#### Art. 15-quinquies - Organo competente a ricevere l'istanza per l'ammissione anticipata e nomina dell'avvocato
+### Art. 15-quinquies - Organo competente a ricevere l'istanza per l'ammissione anticipata e nomina dell'avvocato
 
 1\. L'istanza per l'ammissione anticipata e' presentata, o personalmente o a mezzo raccomandata o a mezzo posta elettronica certificata o con altro servizio elettronico di recapito certificato qualificato, dall'interessato o dall'avvocato che ne ha autenticato la firma, al consiglio dell'ordine degli avvocati del luogo dove ha sede l'organismo di mediazione competente individuato in conformita' all'articolo 4, comma 1.
 
@@ -806,7 +804,7 @@ AGGIORNAMENTO (12)
 
 Il D.Lgs. 27 dicembre 2024, n. 216 ha disposto (con l'art. 1, comma 1, lettera p)) che "Al decreto legislativo 4 marzo 2010, n. 28, sono apportate le seguenti modificazioni: [...] p) all'articolo 15-quinquies: [...] 3) al comma 3, le parole: «, istituiti presso i consigli dell'ordine del luogo del distretto dove ha sede l'organismo di mediazione competente individuato in conformita' all'articolo 4, comma 1» sono soppresse".
 
-#### Art. 15-sexies - Ricorso avverso il rigetto dell'istanza per l'ammissione anticipata
+### Art. 15-sexies - Ricorso avverso il rigetto dell'istanza per l'ammissione anticipata
 
 1\. Contro il rigetto dell'istanza per l'ammissione anticipata, l'interessato puo' proporre ricorso, entro venti giorni dalla comunicazione, avanti al presidente del tribunale del luogo in cui ha sede il consiglio dell'ordine che ha adottato il provvedimento. Si applica l'articolo 99, commi 2, 3 e 4, del decreto del Presidente della Repubblica n. 115 del 2002.
 
@@ -824,7 +822,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
-#### Art. 15-septies - Effetti dell'ammissione anticipata e sua conferma
+### Art. 15-septies - Effetti dell'ammissione anticipata e sua conferma
 
 1\. L'ammissione anticipata al patrocinio e' valida per l'intero procedimento di mediazione.
 
@@ -850,7 +848,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
-#### Art. 15-octies - Determinazione, liquidazione e pagamento dell'onorario e delle spese dell'avvocato
+### Art. 15-octies - Determinazione, liquidazione e pagamento dell'onorario e delle spese dell'avvocato
 
 1\. Con decreto del Ministro della giustizia, adottato di concerto con il Ministro dell'economia e delle finanze, entro sei mesi dalla data di entrata in vigore delle disposizioni attuative della legge 26 novembre 2021, n. 206, sono stabiliti gli importi spettanti all'avvocato della parte ammessa al patrocinio a spese dello Stato a titolo di onorario e spese. Con il medesimo decreto sono stabilite le modalita' di liquidazione e di pagamento, anche mediante riconoscimento di credito di imposta o di compensazione, delle somme determinate ai sensi del presente articolo, nonche' le modalita' e i contenuti della relativa richiesta e i controlli applicabili, anche di autenticita'.
 
@@ -868,7 +866,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
-#### Art. 15-novies - Revoca del provvedimento di ammissione e ricorso avverso il relativo decreto
+### Art. 15-novies - Revoca del provvedimento di ammissione e ricorso avverso il relativo decreto
 
 1\. L'insussistenza dei presupposti per l'ammissione di cui all'articolo 15-ter, da chiunque accertata, anche a seguito dei controlli di cui all'articolo 15-decies, comma 2, e' comunicata al consiglio dell'ordine che ha deliberato l'ammissione.
 
@@ -892,7 +890,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
-#### Art. 15-decies - Sanzioni e controlli da parte della Guardia di finanza
+### Art. 15-decies - Sanzioni e controlli da parte della Guardia di finanza
 
 1\. Chiunque, al fine di ottenere o mantenere l'ammissione al patrocinio a spese dello Stato, formula l'istanza per l'ammissione corredata dalla dichiarazione sostitutiva di certificazione, attestante falsamente la sussistenza delle condizioni di reddito previste, e' punito ai sensi dell'articolo 125, comma 1, del decreto del Presidente della Repubblica n. 115 del 2002.
 
@@ -912,7 +910,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
-#### Art. 15-undecies - Disposizioni finanziarie
+### Art. 15-undecies - Disposizioni finanziarie
 
 1\. All'onere derivante dall'attuazione delle disposizioni di cui al presente capo, valutato in 2.082.780 annui euro a decorrere dall'anno 2023, si provvede mediante corrispondente riduzione del Fondo per l'attuazione della delega per l'efficienza del processo civile di cui all'articolo 1, comma 39, della legge 26 novembre 2021, n. 206.
 
@@ -932,7 +930,7 @@ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n.
 
 ## Capo III - ORGANISMI DI MEDIAZIONE ((ed enti di formazione))
 
-#### Art. 16
+### Art. 16
 
 Organismi di mediazione e registro. Elenco dei formatori
 
@@ -984,7 +982,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
-#### Art. 16-bis - Enti di formazione
+### Art. 16-bis - Enti di formazione
 
 1\. Sono abilitati a iscriversi nell'elenco degli enti di formazione in materia di mediazione gli enti pubblici o privati che danno garanzie di serieta' ed efficienza, come definiti dall'articolo 16, commi 1-bis ((, lettera a),)) e 1-ter.
 
@@ -1006,7 +1004,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
-#### Art. 17 - Risorse, regime tributario e indennita'
+### Art. 17 - Risorse, regime tributario e indennita'
 
 1\. Tutti gli atti, documenti e provvedimenti relativi al procedimento di mediazione sono esenti dall'imposta di bollo e da ogni spesa, tassa o diritto di qualsiasi specie e natura.
 
@@ -1068,13 +1066,13 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
-#### Art. 18
+### Art. 18
 
 Organismi presso i tribunali
 
 1\. I consigli degli ordini degli avvocati possono istituire organismi presso ciascun tribunale, avvalendosi di proprio personale e utilizzando i locali loro messi a disposizione dal presidente del tribunale. Gli organismi presso i tribunali sono iscritti al registro a semplice domanda, nel rispetto dei criteri stabiliti dai decreti di cui all'articolo 16.
 
-#### Art. 19
+### Art. 19
 
 Organismi presso i consigli degli ordini professionali
 
@@ -1096,11 +1094,9 @@ e presso le camere di commercio
 
 > 5-9 (Omissis).».
 
-## Capo IV
+## Capo IV - DISPOSIZIONI IN MATERIA FISCALE E INFORMATIVA
 
-### DISPOSIZIONI IN MATERIA FISCALE E INFORMATIVA
-
-#### Art. 20 - Credito d'imposta in favore delle parti e degli organismi di mediazione
+### Art. 20 - Credito d'imposta in favore delle parti e degli organismi di mediazione
 
 1\. Alle parti e' riconosciuto, quando e' raggiunto l'accordo di conciliazione, un credito d'imposta commisurato all'indennita' corrisposta ai sensi dell'articolo 17, commi 3 e 4, fino a concorrenza di euro seicento. Nei casi di cui all'articolo 5, comma 1, e quando la mediazione e' demandata dal giudice, alle parti e' altresi' riconosciuto un credito d'imposta commisurato al compenso corrisposto al proprio avvocato per l'assistenza nella procedura di mediazione, nei limiti previsti dai parametri forensi e fino a concorrenza di euro seicento.
 
@@ -1130,7 +1126,7 @@ AGGIORNAMENTO (10)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 41, comma 1) che "Le disposizioni di cui all'articolo 7, comma l, lettere c), numero 3), d), e), f), g), h), t), u), v), z), aa) e bb), si applicano a decorrere dal 30 giugno 2023".
 
-#### Art. 21
+### Art. 21
 
 Informazioni al pubblico
 
@@ -1140,11 +1136,9 @@ Informazioni al pubblico
 
 > \- La legge 7 giugno 2000, n. 150 reca: «Disciplina delle attivita' di informazione e di comunicazione delle pubbliche amministrazioni».
 
-## Capo V
+## Capo V - ABROGAZIONI, COORDINAMENTI E DISPOSIZIONI TRANSITORIE
 
-### ABROGAZIONI, COORDINAMENTI E DISPOSIZIONI TRANSITORIE
-
-#### Art. 22
+### Art. 22
 
 Obblighi di segnalazione per la prevenzione del sistema finanziario a scopo di riciclaggio e di finanziamento del terrorismo
 
@@ -1186,7 +1180,7 @@ Obblighi di segnalazione per la prevenzione del sistema finanziario a scopo di r
 
 > 5-bis) mediazione, ai sensi dell'art. 60 della legge 18 giugno 2009, n. 69.».
 
-#### Art. 23
+### Art. 23
 
 Abrogazioni
 
@@ -1210,7 +1204,7 @@ Abrogazioni
 
 > 5\) rapporti di lavoro dei dipendenti di enti pubblici ed altri rapporti di lavoro pubblico, sempreche' non siano devoluti dalla legge ad altro giudice.».
 
-#### Art. 24
+### Art. 24
 
 Disposizioni transitorie e finali
 

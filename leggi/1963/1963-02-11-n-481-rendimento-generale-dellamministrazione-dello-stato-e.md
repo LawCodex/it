@@ -29,7 +29,7 @@ la seguente legge:
 
 ## ENTRATE E SPESE DI COMPETENZA DELL'ESERCIZIO FINANZIARIO 1955-56
 
-#### Art. 1
+## Art. 1
 
 Le entrate ordinarie e straordinarie
 
@@ -57,7 +57,7 @@ L. 2.589.200.786.944 -
 
 e rimasero da riscuotere.............. L. 174.155.279.432 -
 
-#### Art. 2
+## Art. 2
 
 Le spese ordinarie e straordinarie
 
@@ -77,7 +77,7 @@ delle quali furono pagate............. L. 2.137.321.563.085 -
 
 e rimasero da pagare.................. L. 763.880.607.657 -
 
-#### Art. 3
+## Art. 3
 
 Il riepilogo generale dei risultati delle entrate e delle spese di competenza dell'esercizio finanziario 1955-56, rimane cosi' stabilito:
 
@@ -113,7 +113,7 @@ Disavanzo finanziario... L. 137.846.104.366 -
 
 ## ENTRATE E SPESE RESIDUE DELL'ESERCIZIO 1954-55 ED ESERCIZI PRECEDENTI
 
-#### Art. 4
+## Art. 4
 
 I residui attivi alla chiusura dello
 
@@ -137,7 +137,7 @@ L. 404.463.446.723 -
 
 rimasero da riscuotere al 30 giugno 1956 L. 389.682.571.624 -
 
-#### Art. 5
+## Art. 5
 
 I residui passivi alla chiusura
 
@@ -155,7 +155,7 @@ e rimasero da pagare al 30 giugno 1956 L. 1.095.223.984.771-
 
 ## RESIDUI ATTIVI E PASSIVI ALLA CHIUSURA DELL'ESERCIZIO FINANZIARIO 1955-56.
 
-#### Art. 6
+## Art. 6
 
 I residui attivi alla chiusura dell'esercizio finanziario 1955-56, sono stabiliti, come dal conto consuntivo del bilancio, nelle seguenti somme:
 
@@ -183,7 +183,7 @@ generale)............................. L. 195.692.783.909 -
 
 Residui attivi al 30 giugno 1956...... L. 759.530.634.965 -
 
-#### Art. 7
+## Art. 7
 
 I residui passivi alla chiusura dell'esercizio finanziario 1955-56 sono stabiliti, come dal conto consuntivo del bilancio, nelle seguenti somme:
 
@@ -203,7 +203,7 @@ Residui passivi al 30 giugno 1956... L. 1.859.104.592.428 -
 
 ## SITUAZIONE FINANZIARIA
 
-#### Art. 8
+## Art. 8
 
 E' accertato nella somma di lire 4.090.563.606.050,05 il disavanzo finanziario del conto del Tesoro alla fine dell'esercizio 1955-56 come risulta dai seguenti dati:
 
@@ -265,11 +265,11 @@ Totale del passivo... L. 6.941.753.912.109,05
 
 ## DISPOSIZIONI SPECIALI
 
-#### Art. 9
+## Art. 9
 
 Sono stabiliti nella somma di lire 44.772.961,15 i discarichi consentiti, nell'esercizio 1955-56, ai tesorieri per casi di forza, maggiore, ai sensi dell'articolo 194 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, approvato con regio decreto 23 maggio 1924, n. 827.
 
-#### Art. 10
+## Art. 10
 
 Sono approvate le eccedenze di impegni risultate in sede di consuntivo sul conto della competenza e sul conto dei residui ai capitoli degli stati di previsione dei Ministeri sottoindicati per l'esercizio finanziario 1955-56, come dal dettaglio che segue:
 
@@ -317,11 +317,9 @@ Capitolo n.86- Inchiesta
 
 ecc. sugli infortuni, ecc. --- L. 138.027 -
 
-## Amministrazioni ed aziende speciali
+## Amministrazioni ed aziende speciali - AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
 
-### AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
-
-#### Art. 11
+## Art. 11
 
 Le entrate ordinarie e straordinarie
 
@@ -357,7 +355,7 @@ e rimasero da riscuotere.............. L. 104.819.151.233 -
 
 e rimasero da riscuotere.............. L. 2.133.144.445 -
 
-#### Art. 12
+## Art. 12
 
 Le spese ordinarie e straordinarie
 
@@ -377,7 +375,7 @@ delle quali furono pagate............. L. 54.025.603.676 -
 
 e rimasero da pagare.................. L. 52.926.692.002 -
 
-#### Art. 13
+## Art. 13
 
 I residui attivi alla chiusura
 
@@ -400,7 +398,7 @@ e rimasero da riscuotere al 30 giugno
 
 1956.................................. L. 51.592.101 -
 
-#### Art. 14
+## Art. 14
 
 I residui passivi alla chiusura
 
@@ -414,7 +412,7 @@ dei quali furono pagati............... L. 50.902.213.673 -
 
 e rimasero da pagare al 30 giugno 1956 L. 36.109.493.814 -
 
-#### Art. 15
+## Art. 15
 
 I residui attivi alla chiusura dell'esercizio finanziario 1955-56 sono stabiliti nelle seguenti somme:
 
@@ -440,7 +438,7 @@ s del riepilogo dell'entrata)......... L. 792.705.834 -
 
 Residui attivi al 30 giugno 1956.... L. 2.977.442.380 -
 
-#### Art. 16
+## Art. 16
 
 I residui passivi alla chiusura dell'esercizio finanziario 1955-56 sono stabiliti nelle seguenti somme:
 
@@ -460,7 +458,7 @@ degli esercizi precedenti(articolo 14) L. 36.109.493.814 -
 
 Residui passivi al 30 giugno 1956... L. 89.036.185.816 -
 
-#### Art. 17
+## Art. 17
 
 La situazione finanziaria dell'Amministrazione autonoma dei monopoli di Stato, alla fine dell'esercizio finanziario 1955.56, risulta come appresso:
 
@@ -474,7 +472,7 @@ Spese dell'esercizio 1955-56.......... L. 106.952.295.678 -
 
 ## FONDO DI MASSA DEL CORPO DELLA GUARDIA DI FINANZA
 
-#### Art. 18
+## Art. 18
 
 Le entrate ordinarie 6 straordinarie
 
@@ -502,7 +500,7 @@ delle quali furono riscosse e versate. L. 2.663.380.674 -
 
 e rimasero da riscuotere.............. L. 370.790.023 -
 
-#### Art. 19
+## Art. 19
 
 Le spese ordinarie e straordinarie
 
@@ -522,7 +520,7 @@ delle quali furono pagate............. L. 1.552.471.103 -
 
 e rimasero da pagare.................. L. 796.164.169 -
 
-#### Art. 20
+## Art. 20
 
 I residui attivi alla chiusura
 
@@ -540,7 +538,7 @@ e rimasero da riscuotere al 30 giugno
 
 1956.................................. L. 9.732.865 -
 
-#### Art. 21
+## Art. 21
 
 I residui passivi alla chiusura
 
@@ -554,7 +552,7 @@ dei quali furono pagati............... L. 879.726.398 -
 
 e rimasero da pagare al 30 giugno 1956 L. 111.772.557 -
 
-#### Art. 22
+## Art. 22
 
 I residui attivi alla chiusura dell'esercizio 1955-56 sono stabiliti nelle seguenti somme:
 
@@ -580,7 +578,7 @@ s del riepilogo dell'entrata)......... L. --
 
 Residui attivi al 30 giugno 1956.... L. 380.522.888 -
 
-#### Art. 23
+## Art. 23
 
 I residui passivi alla chiusura dell'esercizio finanziario 1955-56 sono stabiliti nelle seguenti somme:
 
@@ -600,7 +598,7 @@ degli esercizi precedenti(articolo 21) L. 111.772.657 -
 
 Residui passivi al 30 giugno 1956... L. 907.936.826 -
 
-#### Art. 24
+## Art. 24
 
 Eaccertato nella somma di lire 749.208.220 il saldo attivo del conto finanziario del Fondo di bassa del Corpo della guardia di finanza alla fine dell'esercizio 1955-56, risultante dai seguenti dati:
 
@@ -658,7 +656,7 @@ Totale a pareggio dell'attivo L. 4.523.896.782,08
 
 ## AZIENDA MONOPOLIO BANANE
 
-#### Art. 25
+## Art. 25
 
 Le entrate ordinarie e straordinarie
 
@@ -684,7 +682,7 @@ delle quali furono riscosse e versate. L. 14.708.351.855 -
 
 e rimasero da riscuotere.............. L. 29.872.104 -
 
-#### Art. 26
+## Art. 26
 
 Le spese ordinarie e straordinarie
 
@@ -702,7 +700,7 @@ delle quali furono pagate............. L. 10.133.284.773 -
 
 e rimasero da pagare.................. L. 4.604.939.186 -
 
-#### Art. 27
+## Art. 27
 
 I residui attivi alla chiusura,
 
@@ -720,7 +718,7 @@ e rimasero da riscuotere al 30 giugno
 
 1958.................................. L. 1.472.335 -
 
-#### Art. 28
+## Art. 28
 
 I residui passivi alla chiusura
 
@@ -734,7 +732,7 @@ dei quali furono pagati............... L. 4.617.451.941 -
 
 rimasero da pagare al 30 giugno 1956.. L. 18.475 -
 
-#### Art. 29
+## Art. 29
 
 I residui attivi alla chiusura dell'esercizio finanziario 1955-56 sono stabiliti nelle seguenti somme:
 
@@ -758,7 +756,7 @@ s del riepilogo dell'entrata)......... L. --
 
 Residui attivi al 30 giugno 1956.... L. 31.344.439 -
 
-#### Art. 30
+## Art. 30
 
 I residui passivi alla chiusura dell'esercizio finanziario 1955-56 sono stabiliti nelle seguenti somme:
 
@@ -780,7 +778,7 @@ Residui passivi al 30 giugno 1956... L. 4.604.952.661 -
 
 ## ARCHIVI NOTARILI
 
-#### Art. 31
+## Art. 31
 
 E' approvato il conto consuntivo degli Archivi notarili, per l'esercizio 1955-56, nelle risultanze seguenti:
 
@@ -792,7 +790,7 @@ Avanzo................................. L. 850.711.002 -
 
 ## FONDO GENERALE DEL CORPO DEGLI AGENTI DI CUSTODIA DEGLI ISTITUTI DI PREVENZIONE E DI PENA
 
-#### Art. 32
+## Art. 32
 
 E' approvato il conto consuntivo del Fondo generale del Corpo degli agenti di custodia degli Istituti di prevenzione e di pena, per l'esercizio 1955-56, nelle seguenti risultanze:
 
@@ -804,7 +802,7 @@ Avanzo................................. L. 304.483 -
 
 ## ISTITUTO AGRONOMICO PER L'AFRICA ITALIANA
 
-#### Art. 33
+## Art. 33
 
 Le entrate dell'Istituto agronomico
 
@@ -832,7 +830,7 @@ delle quali furono riscosse e versate. L. 33.815.778 -
 
 e rimasero da riscuotere.............. L. 5.060.000
 
-#### Art. 34
+## Art. 34
 
 Le spese dell'Istituto predetto
 
@@ -850,7 +848,7 @@ delle quali furono pagate............. L. 35.305.488 -
 
 e rimasero da pagare.................. L. 3.570.290 -
 
-#### Art. 35
+## Art. 35
 
 I residui attivi alla chiusura
 
@@ -868,7 +866,7 @@ e rimasero da riscuotere al 30 giugno
 
 1956.................................. L. 145.000 -
 
-#### Art. 36
+## Art. 36
 
 I residui passivi alla chiusura
 
@@ -882,7 +880,7 @@ dei quali furono pagati............... L. 2.339.502 -
 
 e rimasero da pagare al 30 giugno 1956 L. 5.992.945 -
 
-#### Art. 37
+## Art. 37
 
 I residui attivi alla chiusura dell'esercizio 1955-56 sono stabiliti nelle seguenti somme:
 
@@ -908,7 +906,7 @@ s del riepilogo dell'entrata)......... L. --
 
 Residui attivi al 30 giugno 1956.. L. 5.205.000 -
 
-#### Art. 38
+## Art. 38
 
 I residui passivi alla chiusura dell'esercizio 1955-56 sono stabiliti nelle seguenti somme:
 
@@ -928,7 +926,7 @@ degli esercizi precedenti(articolo 36) L. 5.992.945 -
 
 Residui passivi al 30 giugno 1956... L. 9.563.235 -
 
-#### Art. 39
+## Art. 39
 
 Sono approvate le eccedenze di impegni risultate in sede di consuntivo sul conto della competenza, agli articoli dello stato di previsione della spesa dell'Istituto agronomico per l'Africa italiana, per l'esercizio finanziario 1955-56, come dal dettaglio che segue:
 
@@ -936,7 +934,7 @@ Articolo n.18-Gestione speciale dell'Azienda agraria....... L.860.905 Articolo n
 
 ## AMMINISTRAZIONE DEL FONDO PER IL CULTO
 
-#### Art. 40
+## Art. 40
 
 Le entrate ordinarie e straordinarie
 
@@ -972,7 +970,7 @@ L. 86.543.871 -
 
 e rimasero da riscuotere.............. L. 8.546.319.902 -
 
-#### Art. 41
+## Art. 41
 
 Le spese ordinarie e straordinarie
 
@@ -992,7 +990,7 @@ delle quali furono pagate............. L. 5.407.997.370 -
 
 e rimasero da pagare.................. L. 3.413.007.889 -
 
-#### Art. 42
+## Art. 42
 
 I residui attivi alla chiusura dello
 
@@ -1016,7 +1014,7 @@ e rimasero da riscuotere al 30 giugno
 
 1956.................................. L. 20.922.359 -
 
-#### Art. 43
+## Art. 43
 
 I residui passivi alla chiusura,
 
@@ -1030,7 +1028,7 @@ dei quali furono pagati............... L. 1.279.133.290 -
 
 e rimasero da pagare al 30 giugno 1956 L. 1.493.722.057 -
 
-#### Art. 44
+## Art. 44
 
 I residui attivi alla chiusura dell'esercizio finanziario 1955-54 sono stabiliti nelle seguenti somme:
 
@@ -1056,7 +1054,7 @@ s del riepilogo dell'entrata)......... L. 271.905 -
 
 Residui attivi al 30 giugno 1956.... L. 8.567.514.166 -
 
-#### Art. 45
+## Art. 45
 
 I residui passivi alla chiusura dell'esercizio finanziario 1955-56 sono stabiliti nelle seguenti somme:
 
@@ -1076,7 +1074,7 @@ degli esercizi precedenti(articolo 43) L. 1.493.722.057 -
 
 Residui passivi al 30 giugno 1956... L. 4.906.729.946 -
 
-#### Art. 46
+## Art. 46
 
 E' accertato nella somma di lire 13.726.225,30, il saldo attivo del conto finanziario dell'Amministrazione del fondo per il culto alla fine dell'esercizio 1955-56, come risulta dai seguenti dati:
 
@@ -1134,7 +1132,7 @@ Totale a pareggio dell'attivo... L. 8.835.004.497,30
 
 ## FONDO DI BENEFICENZA E DI RELIGIONE NELLA CITTADI ROMA
 
-#### Art. 47
+## Art. 47
 
 Le entrate ordinarie e straordinarie
 
@@ -1170,7 +1168,7 @@ L. 3.775.558 -
 
 e rimasero da riscuotere.............. L. 181.972.169 -
 
-#### Art. 48
+## Art. 48
 
 Le spese ordinario e straordinarie
 
@@ -1190,7 +1188,7 @@ delle quali furono pagate............. L. 101.524.611 -
 
 e rimasero da pagare.................. L. 104.353.906 -
 
-#### Art. 49
+## Art. 49
 
 I residui attivi alla chiusura
 
@@ -1213,7 +1211,7 @@ e rimasero da riscuotere al 30 giugno
 
 1956.................................. L. 146.514.671 -
 
-#### Art. 50
+## Art. 50
 
 I residui passivi alla chiusura
 
@@ -1227,7 +1225,7 @@ dei quali furono pagati............... L. 64.106.108 -
 
 e rimasero da pagare al 30 giugno 1956 L. 47.851.912 -
 
-#### Art.51
+## Art.51
 
 I residui attivi alla chiusura dell'esercizio 1955-56, sono stabiliti nelle seguenti somme:
 
@@ -1253,7 +1251,7 @@ s del riepilogo dell'entrata)......... L. 16.928 -
 
 Residui attivi al 30 giugno 1958.... L. 828.503.768 -
 
-#### Art. 52
+## Art. 52
 
 I residui passivi alla chiusura dell'esercizio finanziario 1955-56 sono stabiliti nelle seguenti somme:
 
@@ -1273,7 +1271,7 @@ degli esercizi precedenti(articolo 50) L. 47.851.912 -
 
 Residui passivi al 30 giugno 1956... L. 152.205.818 -
 
-#### Art. 53
+## Art. 53
 
 E' accertato nella somma di lire 497.438,58 il saldo attivo del conto finanziario del Fondo di beneficenza e di religione nella citta' di Roma, alla fine dell'esercizio 1955-56, come risulta dai seguenti dati:
 
@@ -1327,7 +1325,7 @@ Totale a pareggio dell'attivo... L. 206.375.955,58
 
 ## AZIENDA DEI PATRIMONI RIUNITI EX ECONOMALI
 
-#### Art. 54
+## Art. 54
 
 Le entrate ordinarie e straordinario
 
@@ -1361,7 +1359,7 @@ L. 119.194.767 -
 
 e rimasero da riscuotere....................... L. 99.900.269 -
 
-#### Art. 55
+## Art. 55
 
 Le spese ordinarie e straordinarie
 
@@ -1381,7 +1379,7 @@ delle quali furono pagate............. L. 60.213.315 -
 
 e rimasero da pagare.................. L. 171.553.919 -
 
-#### Art. 56
+## Art. 56
 
 I residui attivi alla chiusura dello
 
@@ -1407,7 +1405,7 @@ e rimasero da riscuotere al 30 giugno
 
 1956.................................. L. 975.579
 
-#### Art. 57
+## Art. 57
 
 I residui passivi alla chiusura
 
@@ -1423,7 +1421,7 @@ dei quali furono pagati............... L. 48.746.210 -
 
 e rimasero da pagare al 30 giugno 1956 L. 47.994.538
 
-#### Art. 58
+## Art. 58
 
 I residui attivi alla chiusura dell'esercizio finanziario 1955-56 sono stabiliti, come dal conto consuntivo dell'Azienda, nelle seguenti somme:
 
@@ -1451,7 +1449,7 @@ dell'entrata)......................... L. 96.296 -
 
 Residui attivi al 30 giugno 1956... L. 100.779.552 -
 
-#### Art. 59
+## Art. 59
 
 I residui passivi alla chiusura dell'esercizio finanziario 1955-56 sono stabiliti, come dal conto consuntivo dell'Azienda, nelle seguenti somme:
 
@@ -1471,7 +1469,7 @@ degli esercizi precedenti(articolo 57) L. 47.994.538 -
 
 Residui passivi al 30 giugno 1956... L. 219.548.457 -
 
-#### Art. 60
+## Art. 60
 
 E' accertato nella somma di lire 6.090.670,88 il saldo attivo del conto finanziario della Azienda dei patrimoni riuniti ex economali alla fine dell'esercizio 1955-56, come risulta dai seguenti dati:
 
@@ -1529,7 +1527,7 @@ Totale a pareggio dell'attivo... L. 237.981.851,88
 
 ## AZIENDA NAZIONALE AUTONOMA DELLE STRADE STATALI
 
-#### Art. 61
+## Art. 61
 
 Le entrate ordinarie e straordinarie
 
@@ -1557,7 +1555,7 @@ delle quali furono riscosse e versate. L. 35.708.679.603 -
 
 e rimasero da riscuotere.............. L. 11.526.901.708 -
 
-#### Art. 62
+## Art. 62
 
 Le spese ordinarie e straordinarie
 
@@ -1577,7 +1575,7 @@ delle quali furono pagate............. L. 24.069.067.953
 
 e rimasero da pagare.................. L. 23.166.513.358 -
 
-#### Art. 63
+## Art. 63
 
 I residui attivi alla chiusura
 
@@ -1595,7 +1593,7 @@ e rimasero da riscuotere al 30 giugno
 
 1956.................................. L. 21.817.156.381 -
 
-#### Art. 64
+## Art. 64
 
 I residui passivi alla chiusura
 
@@ -1609,7 +1607,7 @@ dei quali furono pagati............... L. 17.101.815.028 -
 
 e rimasero da pagare al 30 giugno 1956 L. 14.737.780.023
 
-#### Art. 65
+## Art. 65
 
 I residui attivi alla chiusura dell'esercizio 1955-56, sono stabiliti nelle seguenti somme:
 
@@ -1635,7 +1633,7 @@ s del riepilogo dell'entrata)......... L. --
 
 Residui attivi al 30 giugno 1956.... L. 33.344.058.089 -
 
-#### Art. 66
+## Art. 66
 
 I residui passivi alla chiusura dell'esercizio 1955-56 sono stabiliti nelle seguenti somme:
 
@@ -1657,7 +1655,7 @@ Residui passivi al 30 giugno 1956... L. 37.904.293.381 -
 
 ## AZIENDA DI STATO PER LE FORESTE DEMANIALI
 
-#### Art. 67
+## Art. 67
 
 Le entrate ordinarie e straordinarie
 
@@ -1693,7 +1691,7 @@ L. 2.867.696.819
 
 e rimasero da riscuotere.............. L. 1.643.750.645
 
-#### Art. 68
+## Art. 68
 
 Le spese ordinarie e straordinarie
 
@@ -1713,7 +1711,7 @@ delle quali furono pagate............. L. 1.567.642.509 -
 
 e rimasero da pagare.................. L. 2.943.804.955 -
 
-#### Art. 69
+## Art. 69
 
 I residui attivi alla chiusura dello
 
@@ -1737,7 +1735,7 @@ e rimasero da riscuotere al 30 giugno
 
 1956.................................. L. 70.128.174 -
 
-#### Art. 70
+## Art. 70
 
 I residui passivi alla chiusura
 
@@ -1751,7 +1749,7 @@ dei quali furono pagati............... L. 713.482.080 -
 
 e rimasero da pagare al 30 giugno 1956 L. 2.628.910.227 -
 
-#### Art. 71
+## Art. 71
 
 I residui attivi alla chiusura dell'esercizio finanziario 1955-56, sono stabiliti nelle seguenti somme
 
@@ -1777,7 +1775,7 @@ s del riepilogo dell'entrata)......... L. 357.578.217 -
 
 Residui attivi al 30 giugno 1956.... L. 2.071.457.036 -
 
-#### Art. 72
+## Art. 72
 
 I residui passivi alla chiusura dell'esercizio finanziario 1955-56 sono stabiliti nelle seguenti somme:
 
@@ -1797,7 +1795,7 @@ degli esercizi precedenti(articolo 70) L. 2.628.910.227 -
 
 Residui passivi al 30 giugno 1956... L . . . 5.572.715.182 -
 
-#### Art. 73
+## Art. 73
 
 E' accertato nella somma di lire 5.193.861 il saldo attivo del conto finanziario dell'Azienda di Stato per le foreste demaniali alla fine dell'esercizio 1955-56, come risulta dai seguenti dati:
 

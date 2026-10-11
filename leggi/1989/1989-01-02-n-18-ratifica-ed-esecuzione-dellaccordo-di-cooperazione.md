@@ -27,15 +27,15 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 1\. Il Presidente della Repubblica e autorizzato a ratificare l'accordo di cooperazione turistica tra il Governo della Repubblica italiana e il Governo della Repubblica argentina, firmato a Buenos Aires il 20 dicembre 1985.
 
-### Art. 2
+## Art. 2
 
 1\. Piena ed intera esecuzione e' data all'accordo di cui all'articolo 1 a decorrere dalla sua entrata in vigore in conformita' all'articolo 12 dell'accordo stesso.
 
-### Art. 3
+## Art. 3
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -57,55 +57,55 @@ IL GOVERNO DELLA REPUBBLICA ARGENTINA
 
 Il Governo della Repubblica italiana e il Governo della Repubblica argentina, animati dal desiderio di stringere ancora di piu' i legami di amicizia gia' esistenti; nell'intendimento che il turismo e un diritto sociale dell'uomo, il quale ha diritto di fruire su di un piano di uguaglianza della propria cultura e di quelle di altri popoli della Terra; considerando gli statuti dell'Organizzazione mondiale del turismo, e le dichiarazioni di Manila e di Acapulco; intesi a rendere piu' stretta la collaborazione nel campo del turismo e a far si' che detta collaborazione sia la piu' fruttuosa possibile, hanno concluso il seguente Accordo:
 
-### Articolo 1
+## Articolo 1
 
 Le Parti porranno una particolare attenzione allo sviluppo e ampliamento delle relazioni turistiche tra i due Paesi, al fine di promuovere la mutua conoscenza delle rispettive Storia, Vita e Cultura.
 
-### Articolo 2
+## Articolo 2
 
 Le Parti costituiranno una Commissione tecnica mista, incaricata delle consultazioni reciproche riferite al presente Accordo, e di ogni altro assunto di carattere turistico che possa essere stabilito tra le stesse. Detta Commissione, composta da funzionari delle Amministrazioni centrali competenti ed integrata da esperti tecnici di ambo le parti, si riunira' con cadenza biennale, alternativamente in Italia e in Argentina.
 
 ## SCAMBIO DI INFORMAZIONI
 
-### Articolo 3
+## Articolo 3
 
 Le Parti scambieranno informazioni, per mezzo dei propri organismi ufficiali di turismo, sulle rispettive disposizioni di legge, incluso cio' che si riferisce alla conservazione e protezione delle risorse naturali e culturali, insediamenti turistici, agenzie di viaggio, attivita' settoriali professionali ed ogni altro argomento affine.
 
-### Articolo 4
+## Articolo 4
 
 Le Parti scambieranno informazioni, per mezzo dei propri organismi ufficiali di turismo, sulle tecniche di amministrazione alberghiera e di pensioni, sulle rispettive esperienze di organizzazione e gestione di servizi turistici.
 
-### Articolo 5
+## Articolo 5
 
 Le due Parti scambieranno informazioni sull'equipaggiamento e i servizi destinati specialmente al turismo sociale e studentesco.
 
 ## PROMOZIONE
 
-### Articolo 6
+## Articolo 6
 
 Le Parti promuoveranno la pubblicita' turistica reciproca, le attivita' informative e di propaganda, e lo scambio di materiale stampato e di pellicole cinematografiche, con il fine di mantenere informati adeguatamente i rispettivi popoli sulle possibilita' turistiche offerte.
 
-### Articolo 7
+## Articolo 7
 
 Ciascuna delle Parti, nell'interesse della divulgazione delle proprie attrattive turistiche, collaborera', nella misura delle proprie possibilita', alle esposizioni turistiche organizzate dall'altra Parte, e promuovera' le visite di familiarizzazione reciproca di agenti di viaggio e giornalisti specializzati.
 
-### Articolo 8
+## Articolo 8
 
 Le Parti faranno in modo che le organizzazioni turistiche rispettino la realta' sociale, storica e culturale dei due Paesi, sia nella pubblicita' che nell'informazione.
 
 ## FORMAZIONE
 
-### Articolo 9
+## Articolo 9
 
 Le Parti si scambieranno informazioni riguardanti i propri programmi di formazione, conoscenze tecniche e altri aspetti in relazione con lo sviluppo dell'offerta di servizi turistici.
 
-### Articolo 10
+## Articolo 10
 
 Le due Parti promuoveranno programmi bilaterali con borse di studio messe a disposizione di quelle istituzioni di insegnamento e di formazione che formino personale specializzato.
 
 ## CONSULTAZIONI
 
-### Articolo 11
+## Articolo 11
 
 Il presente Accordo potra' essere modificato previo assenso delle Parti, su proposta di ciascuna di esse.
 
@@ -113,7 +113,7 @@ Le modifiche deliberate secondo quanto detto nel paragrafo anteriore saranno for
 
 ## DURATA
 
-### Articolo 12
+## Articolo 12
 
 Il presente Accordo entrera' in vigore a partire dalla data nella quale le Parti si comunichino reciprocamente di aver compiuto le operazioni legali necessarie a tale fine, tale comunicazione avverra' per via diplomatica; l'Accordo avra' una durata di sei anni, prorogabili, per riconduzione tacita, per periodi ulteriori di sei anni.
 

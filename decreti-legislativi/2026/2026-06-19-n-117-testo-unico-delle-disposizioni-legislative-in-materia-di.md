@@ -116,11 +116,9 @@ Visto, il Guardasigilli: Nordio
 
 ## PARTE I - Regime ordinario
 
-### TITOLO I
+### TITOLO I - Imposta sul reddito delle persone fisiche
 
-#### Imposta sul reddito delle persone fisiche
-
-##### Capo I - Disposizioni generali
+#### Capo I - Disposizioni generali
 
 TESTO UNICO DELLE IMPOSTE SUI REDDITI
 
@@ -896,7 +894,7 @@ Determinazione dell'imposta dovuta dai non residenti
 
 4\. In deroga alle disposizioni contenute nel comma 1, nei confronti di soggetti residenti in stati o territori che assicurino un adeguato scambio di informazioni, l'imposta dovuta e' determinata sulla base delle disposizioni contenute negli articoli da 1 a 25, a condizione che il reddito prodotto dal soggetto nel territorio dello Stato italiano sia pari almeno al 75 per cento del reddito dallo stesso complessivamente prodotto e che il soggetto non goda di agevolazioni fiscali analoghe nello Stato di residenza. Con decreto di natura non regolamentare del Ministro dell'economia e delle finanze sono adottate le disposizioni di attuazione del presente comma.
 
-## Capo II - Redditi fondiari
+#### Capo II - Redditi fondiari
 
 ###### ART. 27
 
@@ -1234,7 +1232,7 @@ Immobili non produttivi di reddito fondiario
 
 2\. Ai fini delle imposte sui redditi si considerano strumentali gli immobili utilizzati esclusivamente per l'esercizio dell'arte o professione o dell'impresa commerciale da parte del possessore. Gli immobili relativi a imprese commerciali che per le loro caratteristiche non sono suscettibili di diversa utilizzazione senza radicali trasformazioni si considerano strumentali anche se non utilizzati o anche se dati in locazione o comodato salvo quanto disposto nell'articolo 74, comma 1. Si considerano, altresi', strumentali gli immobili di cui all'articolo 104, comma 2, ultimo periodo per il medesimo periodo temporale ivi indicato.
 
-## Capo III - Redditi di capitale
+#### Capo III - Redditi di capitale
 
 ###### ART. 46
 
@@ -1356,7 +1354,7 @@ Redditi imponibili ad altro titolo
 
 2\. I proventi di cui al comma 1, quando non sono soggetti a ritenuta alla fonte a titolo di imposta o a imposta sostitutiva, concorrono a formare il reddito complessivo come componenti del reddito d'impresa.
 
-## Capo IV - Redditi di lavoro dipendente
+#### Capo IV - Redditi di lavoro dipendente
 
 ###### ART. 51
 
@@ -1516,7 +1514,7 @@ e) i compensi di cui all'articolo 52, comma 1, lettera o), percepiti dai soggett
 
 f) i compensi di cui all'articolo 52, comma 1, lettera p), costituiscono reddito per la parte che eccede complessivamente nel periodo d'imposta euro 15.000.
 
-## Capo V - Redditi di lavoro autonomo
+#### Capo V - Redditi di lavoro autonomo
 
 ###### ART. 55
 
@@ -1704,7 +1702,7 @@ Determinazione dei redditi assimilati a quello di lavoro autonomo (articolo 54-o
 
 1\. I redditi indicati all'articolo 55, comma 2, lettera a), sono costituiti dall'ammontare dei proventi in denaro o in natura percepiti nel periodo di imposta, anche sotto forma di partecipazione agli utili, ridotto del 25 per cento a titolo di deduzione forfettaria delle spese, ovvero del 40 per cento se i relativi compensi sono percepiti da soggetti di eta' inferiore a 35 anni; le partecipazioni agli utili e le indennita' di cui al citato articolo 55, comma 2, lettere b), c) e d), costituiscono reddito per l'intero ammontare percepito nel periodo di imposta. I redditi indicati al predetto articolo 55, comma 2, lettera e), sono costituiti dall'ammontare dei compensi in denaro o in natura percepiti nel periodo d'imposta, ridotto del 15 per cento a titolo di deduzione forfettaria delle spese. I redditi indicati al medesimo articolo 55, comma 2, lettera f), sono costituiti dall'ammontare delle indennita' in denaro o in natura percepite nel periodo di imposta.
 
-## Capo VI - Redditi di impresa
+#### Capo VI - Redditi di impresa
 
 ###### ART. 64
 
@@ -1870,7 +1868,7 @@ La differenza e' aumentata dei ricavi di cui all'articolo 68, dei proventi di cu
 
 7\. Per le imprese autorizzate all'autotrasporto di merci per conto di terzi il reddito determinato a norma dei precedenti commi e' ridotto, a titolo di deduzione forfetaria delle spese non documentate, in un'unica misura per i trasporti effettuati personalmente dall'imprenditore oltre il territorio del comune in cui ha sede l'impresa e, nella misura del 35 per cento dell'importo cosi' definito, per i trasporti personalmente effettuati dall'imprenditore all'interno del comune in cui ha sede l'impresa, nei limiti delle dotazioni di bilancio previste per lo scopo. Per le medesime imprese compete, altresi', una deduzione forfetaria annua di euro 154,94 per ciascun motoveicolo e autoveicolo avente massa complessiva a pieno carico non superiore a 3.500 chilogrammi. La deduzione spetta una sola volta per ogni giorno di effettuazione del trasporto, indipendentemente dal numero dei viaggi. Il contribuente deve predisporre e conservare un prospetto recante l'indicazione dei viaggi effettuati e della loro durata e localita' di destinazione nonche' degli estremi dei relativi documenti di trasporto delle merci o delle fatture o delle lettere di vettura; i documenti di trasporto, le fatture e le lettere di vettura devono essere conservate fino alla scadenza del termine per l'accertamento.
 
-## Capo VII - Redditi diversi
+#### Capo VII - Redditi diversi
 
 ###### ART. 76
 
@@ -2028,11 +2026,9 @@ Altri redditi
 
 3\. In deroga alla disposizione di cui al comma 2, per le operazioni di cui all'articolo 76, comma 1, lettera s), poste in essere dai soggetti che svolgono le attivita' di cui all'articolo 34, eccedenti i limiti di cui al comma 2, lettera c, del predetto articolo, si applicano le percentuali di redditivita' di cui all'articolo 66, commi 2 e 3.
 
-## TITOLO II - Imposta sul reddito delle società
+### TITOLO II - Imposta sul reddito delle società
 
-### Capo I
-
-#### Disposizioni generali
+#### Capo I - Disposizioni generali
 
 ###### ART. 81
 
@@ -2160,11 +2156,9 @@ Riporto o rimborso delle eccedenze
 
 1\. Se l'ammontare complessivo dei crediti per le imposte pagate all'estero, delle ritenute d'acconto e dei versamenti in acconto di cui ai precedenti articoli e' superiore a quello dell'imposta dovuta il contribuente ha diritto, a sua scelta, di computare l'eccedenza in diminuzione dell'imposta relativa al periodo di imposta successivo, di chiederne il rimborso in sede di dichiarazione dei redditi ovvero di utilizzare la stessa in compensazione ai sensi dell'articolo 3 del testo unico in materia di versamenti e di riscossione di cui al decreto legislativo 24 marzo 2025, n. 33.
 
-## Capo II - Società ed enti commerciali residenti
+#### Capo II - Società ed enti commerciali residenti
 
-### Sezione I
-
-#### Determinazione della base imponibile
+##### Sezione I - Determinazione della base imponibile
 
 ###### ART. 90
 
@@ -3156,7 +3150,7 @@ Banca d'Italia
 
 2\. Salvo quanto previsto al comma 1, si applicano le disposizioni di cui agli articoli 119, comma 4, terzo periodo, 115, commi 3 e 5, e 121.
 
-## Sezione II - Opzioni per la trasparenza
+##### Sezione II - Opzioni per la trasparenza
 
 ###### ART. 124
 
@@ -3200,7 +3194,7 @@ Opzione per la trasparenza fiscale delle societa' a ristretta base proprietaria
 
 2\. Si applicano le disposizioni del terzo e del quarto periodo dell'articolo 124, comma 3 e quelle dell'articolo 8, comma 3. Le plusvalenze di cui all'articolo 96 e gli utili di cui all'articolo 98, commi 2 e 4, concorrono a formare il reddito imponibile nella misura indicata, rispettivamente, nell'articolo 69, comma 2, e nell'articolo 70.
 
-## Sezione III - Consolidato nazionale
+##### Sezione III - Consolidato nazionale
 
 ###### ART. 126
 
@@ -3398,7 +3392,7 @@ Disposizioni applicative
 
 1\. Con decreto di natura non regolamentare del Ministro dell'economia e delle finanze sono adottate le disposizioni applicative della presente sezione.
 
-## Sezione IV - Consolidato mondiale
+##### Sezione IV - Consolidato mondiale
 
 ###### ART. 137
 
@@ -3592,7 +3586,7 @@ Disposizioni applicative
 
 4\. Fino all'adozione del decreto di cui al comma 1, valgono, in quanto compatibili, le disposizioni previste dal decreto 1° marzo 2018 del Ministro dell'economia e delle finanze, pubblicato nella Gazzetta Ufficiale n. 57 del 9 marzo 2018.
 
-## Capo III - Società ed enti commerciali non residenti
+#### Capo III - Società ed enti commerciali non residenti
 
 ###### ART. 149
 
@@ -3634,7 +3628,7 @@ AGGIORNAMENTO (2)
 
 Il D.Lgs. 7 agosto 2026, n. 148 ha disposto (con l'art. 19, comma 2) che la presente modifica decorre con riferimento al periodo d'imposta in corso al 31 dicembre 2026 e ai seguenti.
 
-## Capo IV - Enti non commerciali residenti
+#### Capo IV - Enti non commerciali residenti
 
 ###### ART. 151
 
@@ -3808,7 +3802,7 @@ d) prevalenza delle componenti negative inerenti all'attivita' commerciale rispe
 
 4\. Le disposizioni di cui ai commi 1 e 2 non si applicano agli enti ecclesiastici riconosciuti come persone giuridiche agli effetti civili e alle associazioni sportive dilettantistiche.
 
-## Capo V - Enti non commerciali non residenti
+#### Capo V - Enti non commerciali non residenti
 
 ###### ART. 159
 
@@ -3838,11 +3832,9 @@ c) le spese sostenute dai soggetti obbligati alla manutenzione e alla protezione
 
 7\. L'autorita' statale competente e la regione, secondo le rispettive attribuzioni e competenze, vigilano sull'impiego delle erogazioni di cui al comma 6, lettere a), b) e c) effettuate a favore di soggetti privati, affinche' siano perseguiti gli scopi per i quali le erogazioni stesse sono state accettate dai beneficiari e siano rispettati i termini per l'utilizzazione concordati con gli autori delle erogazioni. Detti termini possono essere prorogati una sola volta dall'autorita' di vigilanza, per motivi non imputabili ai beneficiari.
 
-## TITOLO III - Disposizioni comuni
+### TITOLO III - Disposizioni comuni
 
-### Capo I
-
-#### Disposizioni generali
+#### Capo I - Disposizioni generali
 
 ###### ART. 160
 
@@ -4060,7 +4052,7 @@ Rideterminazione dei valori di acquisto di partecipazioni
 
 8\. Le disposizioni del presente articolo non si applicano ai fini della determinazione, ai sensi dell'articolo 77, comma 3, delle plusvalenze e minusvalenze realizzate da societa' ed enti commerciali di cui all'articolo 82, comma 1, lettera d), privi di stabile organizzazione nel territorio dello Stato.
 
-## Capo II - Operazioni straordinarie
+#### Capo II - Operazioni straordinarie
 
 ###### ART. 170
 
@@ -4334,7 +4326,7 @@ b) il coordinamento tra le disposizioni che limitano il riporto delle perdite fi
 
 3\. Le disposizioni del presente articolo si applicano anche agli interessi passivi indeducibili oggetto di riporto in avanti di cui all'articolo 105, comma 5, nonche' all'eccedenza, ai sensi dell'articolo 5 del decreto legislativo 30 dicembre 2023, n. 216, relativa all'aiuto alla crescita economica di cui all'articolo 1, comma 4, del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214.
 
-## Capo III - Liquidazione volontaria e procedure concorsuali
+#### Capo III - Liquidazione volontaria e procedure concorsuali
 
 ###### ART. 180
 
@@ -4378,11 +4370,9 @@ Applicazione analogica
 
 1\. Le disposizioni degli articoli 180 e 181 valgono, in quanto applicabili, anche nei casi di liquidazione e liquidazione giudiziale di enti diversi dalle societa'.
 
-## TITOLO IV - Disposizioni relative ai rapporti internazionali
+### TITOLO IV - Disposizioni relative ai rapporti internazionali
 
-### Capo I
-
-#### Disposizioni generali
+#### Capo I - Disposizioni generali
 
 ###### ART. 183
 
@@ -4594,7 +4584,7 @@ Accordi internazionali
 
 4\. I commi 2 e 3 non si applicano nei casi di estinzione dei trattati contro le doppie imposizioni.
 
-## Capo II - Operazioni straordinarie fra soggetti residenti in Stati membri diversi dell'Unione europea
+#### Capo II - Operazioni straordinarie fra soggetti residenti in Stati membri diversi dell'Unione europea
 
 ###### ART. 188
 
@@ -4658,7 +4648,7 @@ b) tali perdite non possono piu' essere utilizzate nello Stato di sua residenza 
 
 1-quater. ((La disposizione di cui al comma 1-bis si applica anche per le perdite della societa' partecipata residente in uno degli Stati ivi indicati, priva dell'assemblea ordinaria dei soci, della quale si detiene una partecipazione al patrimonio o al capitale superiore al 50 per cento, calcolata tenendo conto della eventuale demoltiplicazione prodotta dalla catena partecipativa.))
 
-## Capo III - Valori fiscali in ingresso e in uscita
+#### Capo III - Valori fiscali in ingresso e in uscita
 
 ###### ART. 192
 
@@ -4804,7 +4794,7 @@ Interpello in merito alla sussistenza di una stabile organizzazione all'estero
 
 1\. Ai fini dell'applicazione delle disposizioni di cui agli articoli 184 e 185, l'impresa residente nel territorio dello Stato puo' interpellare l'Agenzia delle entrate ai sensi dell'articolo 11, comma 1, lettera b), della legge 27 luglio 2000, n. 212, in merito alla sussistenza di una stabile organizzazione all'estero, da valutarsi anche in base ai criteri previsti da accordi internazionali contro le doppie imposizioni, ove in vigore.
 
-## Capo IV - Disallineamenti da ibridi
+#### Capo IV - Disallineamenti da ibridi
 
 ###### ART. 195
 
@@ -4982,11 +4972,9 @@ Disposizioni in materia di controlli
 
 ## PARTE II - Regime speciale
 
-### TITOLO I
+### TITOLO I - Disposizioni speciali ai fini dell'imposta sul reddito delle persone fisiche
 
-#### Disposizioni speciali ai fini dell'imposta sul reddito delle persone fisiche
-
-##### Capo I - Disciplina speciale settore agricolo
+#### Capo I - Disciplina speciale settore agricolo
 
 ###### ART. 201
 
@@ -5010,7 +4998,7 @@ Imposizione sostitutiva per i raccoglitori occasionali di prodotti selvatici non
 
 4\. La ritenuta di cui all'articolo 42 del testo unico in materia di versamenti e di riscossione di cui al decreto legislativo 24 marzo 2025, n. 33, non si applica nei confronti dei soggetti che hanno versato l'imposta sostitutiva di cui al comma 1 con riferimento all'anno in cui la cessione del prodotto e' stata effettuata.
 
-## Capo II - Imposizione sostitutiva sulle locazioni di immobili abitativi
+#### Capo II - Imposizione sostitutiva sulle locazioni di immobili abitativi
 
 ###### ART. 203
 
@@ -5058,7 +5046,7 @@ Disposizioni varie
 
 3\. Nel caso in cui il locatore opti per l'applicazione della cedolare secca e' sospesa, per un periodo corrispondente alla durata dell'opzione, la facolta' di chiedere l'aggiornamento del canone, anche se prevista nel contratto a qualsiasi titolo, inclusa la variazione accertata dall'ISTAT dell'indice nazionale dei prezzi al consumo per le famiglie di operai e impiegati verificatasi nell'anno precedente. L'opzione non ha effetto se di essa il locatore non ha dato preventiva comunicazione al conduttore con lettera raccomandata, con la quale rinuncia a esercitare la facolta' di chiedere l'aggiornamento del canone a qualsiasi titolo. Le disposizioni di cui al presente comma sono inderogabili.
 
-## Capo III - Regime fiscale delle locazioni brevi
+#### Capo III - Regime fiscale delle locazioni brevi
 
 ###### ART. 207
 
@@ -5092,7 +5080,7 @@ Adempimenti per i soggetti che esercitano attivita' di intermediazione immobilia
 
 6\. A decorrere dall'anno 2017 gli enti che hanno facolta' di applicare l'imposta di soggiorno ai sensi dell'articolo 4 del decreto legislativo 14 marzo 2011, n. 23, e il contributo di soggiorno di cui all'articolo 14, comma 16, lettera e) , del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, possono, in deroga all'articolo 1, comma 26, della legge 28 dicembre 2015, n. 208, e all'articolo 1, comma 169, della legge 27 dicembre 2006, n. 296, istituire o rimodulare l'imposta di soggiorno e il contributo di soggiorno medesimi.
 
-## Capo IV - Piani di risparmio a lungo termine
+#### Capo IV - Piani di risparmio a lungo termine
 
 ###### ART. 209
 
@@ -5172,7 +5160,7 @@ c) sono temporaneamente sospesi quando l'organismo di investimento raccoglie cap
 
 6\. Agli investimenti in piani di risparmio a lungo termine costituiti tra il 1° gennaio 2019 e il 31 dicembre 2019 si applicano gli articoli 209 e 210.
 
-## Capo V - Proventi da partecipazioni a società, enti o OICR di dipendenti e amministratori
+#### Capo V - Proventi da partecipazioni a società, enti o OICR di dipendenti e amministratori
 
 ###### ART. 212
 
@@ -5196,7 +5184,7 @@ c) le azioni, le quote o gli strumenti finanziari aventi i suindicati diritti pa
 
 5\. Le disposizioni di cui al presente articolo si applicano ai proventi delle azioni, quote o strumenti finanziari percepiti a decorrere dal 24 aprile 2017.
 
-## Capo VI - Trattamento fiscale delle rendite vitalizie aventi funzione previdenziale in corso di costituzione
+#### Capo VI - Trattamento fiscale delle rendite vitalizie aventi funzione previdenziale in corso di costituzione
 
 ###### ART. 213
 
@@ -5206,7 +5194,7 @@ Trattamento fiscale delle rendite vitalizie aventi funzione previdenziale in cor
 
 1\. Per le rendite vitalizie aventi funzione previdenziale in corso di costituzione, le imprese di assicurazione applicano l'imposta sostitutiva delle imposte sui redditi nella misura prevista dall'articolo 307, sul risultato netto maturato in ciascun periodo d'imposta. Si applicano le disposizioni dell'articolo 257, commi 5 e 8. Se le predette rendite derivano da contratti stipulati con imprese di assicurazione operanti nel territorio dello Stato in regime di liberta' di prestazioni di servizi, l'imposta sostitutiva e' applicata dal contribuente nel periodo d'imposta in cui matura il diritto alla prestazione secondo le disposizioni previste per la tassazione dei redditi di cui all'articolo 46, comma 1, lettera m), ed e' versata con le modalita' e nei termini previsti per il versamento a saldo delle imposte risultanti dalle dichiarazioni dei redditi.
 
-## Capo VII - Riduzione d'imposta per il personale delle forze di polizia e delle forze armate
+#### Capo VII - Riduzione d'imposta per il personale delle forze di polizia e delle forze armate
 
 ###### ART. 214
 
@@ -5226,7 +5214,7 @@ d) euro 5.476.172 per l'anno 2022;
 
 e) euro 17.250.000 a decorrere dall'anno 2023.
 
-## Capo VIII - Esenzioni per i redditi derivanti da taluni rapporti di collaborazione
+#### Capo VIII - Esenzioni per i redditi derivanti da taluni rapporti di collaborazione
 
 ###### ART. 215
 
@@ -5238,7 +5226,7 @@ Esenzioni per i redditi derivanti da taluni rapporti di collaborazione
 
 2\. La prestazione richiesta allo studente per le collaborazioni di cui all'articolo 11, comma 1, del decreto legislativo 29 marzo 2012, n. 68, comporta un corrispettivo, esente da imposte, entro il limite di euro 3.500 annui. La collaborazione non configura in alcun modo un rapporto di lavoro subordinato e non da' luogo ad alcuna valutazione ai fini dei pubblici concorsi. Il corrispettivo orario, che puo' variare in relazione al tipo di attivita' svolta, e' determinato dalle universita' e dalle istituzioni per l'alta formazione artistica, musicale e coreutica, che provvedono alla copertura assicurativa contro gli infortuni.
 
-## Capo IX - Disposizioni speciali sulla tassazione del trattamento di fine rapporto
+#### Capo IX - Disposizioni speciali sulla tassazione del trattamento di fine rapporto
 
 ###### ART. 216
 
@@ -5248,7 +5236,7 @@ Disposizioni speciali sulla tassazione del trattamento di fine rapporto
 
 1\. Il lavoratore che, nel periodo in cui usufruisce del servizio di cui all'articolo 24-bis, comma 2, del decreto legislativo 14 settembre 2015, n. 148, accetta l'offerta di un contratto di lavoro con altro datore, la cui impresa non presenta assetti proprietari sostanzialmente coincidenti con quelli dell'impresa del datore in essere, beneficia dell'esenzione dal reddito imponibile ai fini IRPEF delle somme percepite in dipendenza della cessazione del rapporto di lavoro, entro il limite massimo di nove mensilita' della retribuzione di riferimento per il calcolo del trattamento di fine rapporto. Le eventuali ulteriori somme pattuite nella stessa sede sono soggette al regime fiscale applicabile ai sensi della disciplina vigente.
 
-## Capo X - Lavoratori frontalieri
+#### Capo X - Lavoratori frontalieri
 
 ###### ART. 217
 
@@ -5308,7 +5296,7 @@ c) i redditi sono assoggettati a tassazione in Svizzera secondo i criteri indica
 
 8\. Le disposizioni del presente articolo si applicano a decorrere dal periodo d'imposta 2024.
 
-## Capo XI - Esenzioni per le borse di studio
+#### Capo XI - Esenzioni per le borse di studio
 
 ###### ART. 222
 
@@ -5330,7 +5318,7 @@ Esenzioni per le borse di studio
 
 7\. A decorrere dall'anno d'imposta 2025, sono esenti dall'imposta sul reddito delle persone fisiche le somme corrisposte a titolo di borse di studio erogate dallo Stato, dalle regioni, dalle fondazioni ITS Academy e da altri soggetti pubblici agli studenti iscritti ai percorsi formativi di cui all'articolo 5, comma 1, della legge 15 luglio 2022, n. 99, ivi comprese le borse di studio di cui all'articolo 5, comma 4, lettera a) della medesima legge.
 
-## Capo XII - Esenzioni per la partecipazione dei lavoratori alle società cooperative
+#### Capo XII - Esenzioni per la partecipazione dei lavoratori alle società cooperative
 
 ###### ART. 223
 
@@ -5342,7 +5330,7 @@ Esenzioni per la partecipazione dei lavoratori alle societa' cooperative
 
 2\. Gli importi del trattamento di fine rapporto richiesti dai lavoratori e destinati alla sottoscrizione di capitale sociale delle cooperative costituite ai sensi dell'articolo 23, comma 3-quater, del decreto-legge 22 giugno 2012, n. 83, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 134, introdotto dall'articolo 1, comma 270, della legge 30 dicembre 2020, n. 178, non concorrono alla formazione del reddito imponibile dei lavoratori medesimi.
 
-## Capo XIII - Stock options ed emolumenti variabili
+#### Capo XIII - Stock options ed emolumenti variabili
 
 ###### ART. 224
 
@@ -5360,7 +5348,7 @@ Stock options ed emolumenti variabili
 
 5\. Le disposizioni dei commi da 1 a 4 si applicano ai soggetti indicati nell'articolo 161, comma 1, lettere a) e b).
 
-## Capo XIV - Regime per la determinazione del reddito dei lavoratori impatriati
+#### Capo XIV - Regime per la determinazione del reddito dei lavoratori impatriati
 
 ###### ART. 225
 
@@ -5404,7 +5392,7 @@ Tuttavia, le disposizioni di cui al primo periodo continuano a trovare applicazi
 
 10\. Limitatamente ai soggetti che trasferiscono la propria residenza anagrafica nell'anno 2024 le disposizioni del presente articolo si applicano per ulteriori tre periodi di imposta nel caso in cui il contribuente e' divenuto proprietario, entro la data del 31 dicembre 2023 e, comunque, nei dodici mesi precedenti al trasferimento, di un'unita' immobiliare di tipo residenziale adibita ad abitazione principale in Italia. In tal caso i redditi di cui al comma 1, negli ulteriori tre periodi di imposta, concorrono alla formazione del reddito complessivo limitatamente al 50 per cento del loro ammontare.
 
-## Capo XV - Disposizioni per il rientro in Italia di docenti e ricercatori residenti all'estero
+#### Capo XV - Disposizioni per il rientro in Italia di docenti e ricercatori residenti all'estero
 
 ###### ART. 226
 
@@ -5434,7 +5422,7 @@ b) un importo pari al 5 per cento dei redditi di lavoro dipendente e di lavoro a
 
 9\. Le disposizioni di cui ai commi da 1 a 5 e all'articolo 16 del decreto legislativo 14 settembre 2015, n. 147 si applicano nel rispetto delle condizioni e dei limiti del regolamento (UE) 2023/2831 della Commissione, del 13 dicembre 2023, relativo all'applicazione degli articoli 107 e 108 del Trattato sul funzionamento dell'Unione europea agli aiuti de minimis, del regolamento (UE) 1408/2013 della Commissione, del 18 dicembre 2013, relativo all'applicazione degli articoli 107 e 108 del Trattato sul funzionamento dell'Unione europea agli aiuti de minimis nel settore agricolo, e del regolamento (UE) 717/2014 della Commissione, del 27 giugno 2014, relativo all'applicazione degli articoli 107 e 108 del Trattato sul funzionamento dell'Unione europea agli aiuti de minimis nel settore della pesca e dell'acquacoltura.
 
-## Capo XVI - Imposizione sostitutiva sulle liberalità destinate ai lavoratori
+#### Capo XVI - Imposizione sostitutiva sulle liberalità destinate ai lavoratori
 
 ###### ART. 227
 
@@ -5450,7 +5438,7 @@ Imposizione sostitutiva sulle liberalita' destinate ai lavoratori (articolo 1, c
 
 5\. Le disposizioni dei commi da 1 a 4 si applicano con esclusivo riferimento al settore privato e per i titolari di reddito di lavoro dipendente di importo non superiore a euro 75.000.
 
-## Capo XVII - Disposizioni speciali per i premi di produttività
+#### Capo XVII - Disposizioni speciali per i premi di produttività
 
 ###### ART. 228
 
@@ -5484,7 +5472,7 @@ c) il valore delle azioni di cui all'articolo 53, comma 2, lettera l), ricevute,
 
 10\. Ai premi di produttivita' e alle somme erogate a titolo di partecipazione agli utili di cui ((al comma 1)), erogati negli anni 2026 e 2027, l'imposta sostitutiva ivi prevista e' applicabile, entro il limite di importo complessivo di euro 5.000, con l'aliquota ridotta all'1 per cento.
 
-## Capo XVIII - Imposizione sostitutiva sulle prestazioni del personale sanitario
+#### Capo XVIII - Imposizione sostitutiva sulle prestazioni del personale sanitario
 
 ###### ART. 229
 
@@ -5496,7 +5484,7 @@ Imposizione sostitutiva sulle prestazioni del personale sanitario (articolo 1, c
 
 3\. La disposizione di cui al comma 2 e' applicata dal sostituto d'imposta ai compensi erogati dall'anno 2026, fatto salvo quanto previsto dall'articolo 53, comma 1, secondo periodo.
 
-## Capo XIX - Imposizione sostitutiva sulle pensioni erogate a taluni lavoratori frontalieri
+#### Capo XIX - Imposizione sostitutiva sulle pensioni erogate a taluni lavoratori frontalieri
 
 ###### ART. 230
 
@@ -5506,7 +5494,7 @@ Imposizione sostitutiva sulle pensioni erogate a taluni lavoratori frontalieri
 
 1\. A decorrere dal 1° gennaio 2023, le somme ovunque corrisposte da parte dell'assicurazione di invalidita', vecchiaia e superstiti della gestione della previdenza professionale per la vecchiaia, i superstiti e l'invalidita' del Principato di Monaco, comprese le prestazioni di prepensionamento erogate da enti o istituti del Principato di Monaco, maturate sulla base anche di contributi previdenziali tassati alla fonte nel Principato di Monaco e in qualunque forma e titolo erogate, percepite da soggetti residenti nel territorio dello Stato senza l'intervento nel pagamento da parte di intermediari finanziari italiani, sono soggette a un'imposta sostitutiva delle imposte sui redditi con l'aliquota del 5 per cento.
 
-## Capo XX - Imposizione sostitutiva sui compensi dei docenti
+#### Capo XX - Imposizione sostitutiva sui compensi dei docenti
 
 ###### ART. 231
 
@@ -5520,7 +5508,7 @@ Imposizione sostitutiva sui compensi dei docenti
 
 3\. Con provvedimento del direttore dell'Agenzia delle entrate sono stabilite le modalita' per l'esercizio dell'opzione nonche' del versamento dell'acconto e del saldo dell'imposta sostitutiva di cui al comma 1.
 
-## Capo XXI - Regime forfetario
+#### Capo XXI - Regime forfetario
 
 ###### ART. 232
 
@@ -5736,7 +5724,7 @@ Disciplina di attuazione e applicativa
 
 1\. Con decreti di natura non regolamentare del Ministro dell'economia e delle finanze possono essere dettate le disposizioni necessarie per l'attuazione delle disposizioni del presente capo. Con provvedimenti del direttore dell'Agenzia delle entrate sono stabilite le relative modalita' applicative.
 
-## Capo XXII - Imposizione sostitutiva sulle plusvalenze da cessioni di immobili
+#### Capo XXII - Imposizione sostitutiva sulle plusvalenze da cessioni di immobili
 
 ###### ART. 244
 
@@ -5750,7 +5738,7 @@ Imposizione sostitutiva sulle plusvalenze da cessioni di immobili (articolo 1, c
 
 4\. Le disposizioni di cui all'articolo 76, comma 1, lettera c), si applicano alle cessioni poste in essere a decorrere dal 1° gennaio 2024.
 
-## Capo XXIII - Imposizione sostitutiva sulla rideterminazione dei valori di acquisto dei terreni edificabili e con destinazione agricola
+#### Capo XXIII - Imposizione sostitutiva sulla rideterminazione dei valori di acquisto dei terreni edificabili e con destinazione agricola
 
 ###### ART. 245
 
@@ -5770,7 +5758,7 @@ Imposizione sostitutiva sulla rideterminazione dei valori di acquisto dei terren
 
 6\. La rideterminazione del valore di acquisto dei terreni edificabili e con destinazione agricola di cui ai commi da 1 a 5 costituisce valore normale minimo di riferimento ai fini delle imposte sui redditi, dell'imposta di registro e dell'imposta ipotecaria e catastale.
 
-## Capo XXIV - Opzioni per le imposte sostitutive sui redditi delle persone fisiche che trasferiscono la propria residenza fiscale nel territorio dello Stato
+#### Capo XXIV - Opzioni per le imposte sostitutive sui redditi delle persone fisiche che trasferiscono la propria residenza fiscale nel territorio dello Stato
 
 ###### ART. 246
 
@@ -5820,11 +5808,9 @@ Possono esercitare l'opzione di cui al comma 1 le persone fisiche che trasferisc
 
 9\. Con provvedimento del direttore dell'Agenzia delle entrate sono stabilite le modalita' del regime di cui al presente articolo.
 
-## TITOLO II - Disposizioni speciali ai fini dell'imposta sul reddito delle società
+### TITOLO II - Disposizioni speciali ai fini dell'imposta sul reddito delle società
 
-### Capo I
-
-#### Regime per le società di investimento immobiliare quotate e non quotate
+#### Capo I - Regime per le società di investimento immobiliare quotate e non quotate
 
 ###### ART. 248
 
@@ -5978,7 +5964,7 @@ Soggettivita' del Gruppo Europeo di Interesse Economico (GEIE)
 
 6\. La quota di reddito o di perdita derivante ai soggetti residenti dalla partecipazione in un GEIE non residente nel territorio dello Stato concorre alla formazione del reddito complessivo ai fini dell'imposta sul reddito delle persone fisiche o del reddito delle societa'. Si applicano le disposizioni dell'articolo 185.
 
-## Capo II - Disposizioni in materia di forme pensionistiche complementari
+#### Capo II - Disposizioni in materia di forme pensionistiche complementari
 
 ###### ART. 257
 
@@ -6114,7 +6100,7 @@ b) dai soggetti eroganti, nel caso di prestazioni erogate in forma di rendita.
 
 5\. Il fornitore di PEPP comunica ai soggetti che erogano le rendite i dati in suo possesso necessari per il calcolo della parte delle prestazioni corrispondente ai redditi gia' assoggettati a imposta se determinabili. Qualora il soggetto tenuto all'applicazione delle ritenute sulle prestazioni pensionistiche sia residente all'estero e non disponga di una stabile organizzazione nel territorio dello Stato, la ritenuta e' applicata direttamente dal soggetto operante nel territorio dello Stato in regime di libera prestazione di servizi ovvero da un suo rappresentante fiscale scelto tra i soggetti indicati nell'articolo 33 del testo unico in materia di versamenti e di riscossione di cui al decreto legislativo 24 marzo 2025, n. 33, che risponde in solido per gli obblighi di determinazione e versamento dell'imposta e provvede alla dichiarazione annuale delle somme.
 
-## Capo III - Regime delle cooperative
+#### Capo III - Regime delle cooperative
 
 ###### ART. 263
 
@@ -6280,7 +6266,7 @@ Il reddito d'impresa e' determinato senza apportare al risultato netto del conto
 
 5\. Ai fini delle imposte sui redditi, le trasformazioni e le fusioni effettuate tra i confidi ai sensi dell'articolo 13, commi 38, 39, 40, 41, 42 e 43, del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326, non danno luogo in nessun caso a recupero di tassazione dei fondi in sospensione di imposta dei confidi che hanno effettuato la trasformazione o partecipato alla fusione.
 
-## Capo IV - Riallineamento
+#### Capo IV - Riallineamento
 
 ###### ART. 276
 
@@ -6340,7 +6326,7 @@ L'imposta e' versata in unica soluzione entro il termine di versamento a saldo d
 
 4\. Si applicano le norme in materia di liquidazione, accertamento, riscossione, contenzioso e sanzioni previste ai fini delle imposte sui redditi.
 
-## Capo V - Trasformazione in crediti d'imposta delle attività per imposte anticipate
+#### Capo V - Trasformazione in crediti d'imposta delle attività per imposte anticipate
 
 ###### ART. 278
 
@@ -6412,7 +6398,7 @@ Temporanea irrilevanza dei limiti di cui al comma 1 dell'articolo 93, ai fini de
 
 1\. Per i periodi d'imposta per i quali trova applicazione l'articolo 362, comma 2, ai fini del riporto delle perdite, per i soggetti di cui all'articolo 33 del testo unico di cui al decreto legislativo 1° settembre 1993, n. 385, non si applicano i limiti di cui all'articolo 93, comma 1, secondo periodo, alla quota di perdita derivante dalla deduzione dei componenti negativi di reddito di cui all'articolo 278, comma 1; a tali fini la perdita si presume prioritariamente derivante dalla deduzione di detti componenti negativi.
 
-## Capo VI - Disposizioni relative al risanamento e risoluzione degli enti creditizi e delle imprese di investimento
+#### Capo VI - Disposizioni relative al risanamento e risoluzione degli enti creditizi e delle imprese di investimento
 
 ###### ART. 282
 
@@ -6444,7 +6430,7 @@ Disposizioni fiscali applicabili all'ente sottoposto a risoluzione (articolo 1, 
 
 Ai fini del presente comma non si considera il limite dell'80 per cento di cui al citato articolo 93 e rilevano anche le perdite trasferite al consolidato nazionale di cui all'articolo 126 e non ancora utilizzate.
 
-## Capo VII - Perdite attese su crediti verso la clientela iscritte in sede di prima applicazione dell'IFRS 9
+#### Capo VII - Perdite attese su crediti verso la clientela iscritte in sede di prima applicazione dell'IFRS 9
 
 ###### ART. 285
 
@@ -6462,7 +6448,7 @@ Deducibilita' delle perdite attese su crediti verso la clientela iscritte in sed
 
 5\. La deduzione della quota del 10 per cento dell'ammontare dei componenti negativi prevista, ai fini dell'imposta sul reddito delle societa' e dell'imposta regionale sulle attivita' produttive, rispettivamente dai commi 1 e 2, per il periodo d'imposta in corso al 31 dicembre 2025 e per quello successivo, e' differita, in quote costanti, rispettivamente, al periodo d'imposta in corso al 31 dicembre 2026 e ai tre successivi nonche' al periodo d'imposta in corso al 31 dicembre 2027 e ai due successivi.
 
-## Capo VIII - Esenzione dei redditi derivanti da investimenti qualificati per le casse di previdenza e per le forme di previdenza complementare
+#### Capo VIII - Esenzione dei redditi derivanti da investimenti qualificati per le casse di previdenza e per le forme di previdenza complementare
 
 ###### ART. 286
 
@@ -6502,11 +6488,9 @@ d) quote o azioni di Fondi per il Venture Capital residenti nel territorio dello
 
 12\. Le minusvalenze e le perdite realizzate mediante cessione a titolo oneroso ovvero rimborso degli strumenti finanziari oggetto degli investimenti qualificati di cui al comma 2, sono deducibili dalle plusvalenze o proventi realizzati nelle successive operazioni nello stesso periodo di imposta e nei successivi ma non oltre il quarto, ovvero possono essere portate in deduzione ai sensi dell'articolo 77, comma 6. Per le forme di previdenza complementare di cui al decreto legislativo 5 dicembre 2005, n. 252, le minusvalenze e le perdite maturate o realizzate relativamente agli strumenti finanziari oggetto degli investimenti qualificati di cui al comma 2, concorrono a formare la base imponibile dell'imposta prevista dall'articolo 257.
 
-## TITOLO III - Disposizioni speciali comuni ai fini dell'imposta sul reddito delle persone fisiche e dell'imposta sul reddito delle società
+### TITOLO III - Disposizioni speciali comuni ai fini dell'imposta sul reddito delle persone fisiche e dell'imposta sul reddito delle società
 
-### Capo I
-
-#### Disposizioni speciali per il settore agricolo
+#### Capo I - Disposizioni speciali per il settore agricolo
 
 ###### ART. 287
 
@@ -6540,7 +6524,7 @@ Regime fiscale agevolato per il primo insediamento delle imprese giovanili nell'
 
 2\. Il beneficio di cui al comma 1 e' riconosciuto, nel rispetto della normativa europea in materia di aiuti di Stato, a condizione che i soggetti di cui al medesimo comma 1 non abbiano esercitato nei tre anni precedenti altra attivita' d'impresa agricola, che siano regolarmente adempiuti gli obblighi previdenziali, assicurativi e amministrativi previsti dalla legislazione vigente in materia e che l'agevolazione non abbia ad a oggetto fattispecie riferibili a casi di trasferimento di aziende preesistenti ai soggetti in possesso dei requisiti di cui all'articolo 2, comma 1, lettera a), della legge 15 marzo 2024, n. 36, o a enti di nuova costituzione rispetto a precedenti imprese costituite nelle forme di cui all'articolo 2, comma 1, lettere b) e c), della medesima legge. Agli adempimenti europei, nonche' a quelli relativi al Registro nazionale degli aiuti di Stato, provvede il Ministero dell'agricoltura, della sovranita' alimentare e delle foreste.
 
-## Capo II - Determinazione della base imponibile per alcune imprese marittime
+#### Capo II - Determinazione della base imponibile per alcune imprese marittime
 
 ###### ART. 290
 
@@ -6674,7 +6658,7 @@ Disposizioni applicative
 
 2\. Per tutto quanto non disciplinato nel presente capo si applicano le disposizioni di cui alla parte I, titolo II, capo II, sezione I.
 
-## Capo III - Addizionale alle imposte sul reddito relativa alla produzione, distribuzione, vendita e rappresentazione di materiale pornografico e di incitamento alla violenza
+#### Capo III - Addizionale alle imposte sul reddito relativa alla produzione, distribuzione, vendita e rappresentazione di materiale pornografico e di incitamento alla violenza
 
 ###### ART. 298
 
@@ -6700,7 +6684,7 @@ Addizionale sulla produzione e vendita di materiale pornografico o di incitament
 
 1\. Per l'attuazione delle disposizioni di cui all'articolo 298, possono essere sottoscritti accordi di collaborazione ai sensi dell'articolo 15 della legge 7 agosto 1990, n. 241, tra l'Agenzia delle entrate, il Dipartimento per l'informazione e l'editoria della Presidenza del Consiglio dei ministri, la Direzione Generale Cinema e audiovisivo e la Direzione generale Spettacolo del Ministero della Cultura, il Dipartimento per le comunicazioni del Ministero dello sviluppo economico e l'Autorita' per le garanzie nelle comunicazioni.
 
-## Capo IV - Società di comodo
+#### Capo IV - Società di comodo
 
 ###### ART. 301
 
@@ -6782,7 +6766,7 @@ Maggiorazione dell'aliquota IRES per le societa' di comodo
 
 5\. Le disposizioni di cui ai commi da 1 a 4 si applicano a decorrere dal periodo d'imposta successivo a quello in corso alla data del 17 settembre 2011.
 
-## Capo V - Regime fiscale degli utili distribuiti a società semplici
+#### Capo V - Regime fiscale degli utili distribuiti a società semplici
 
 ###### ART. 303
 
@@ -6806,7 +6790,7 @@ e) per la quota imputabile a soggetti non residenti nel territorio dello Stato, 
 
 3 Sugli utili derivanti dalle azioni e dagli strumenti finanziari similari alle azioni, immessi nel sistema di deposito accentrato gestito da una societa' di gestione accentrata, e' applicata, in luogo della ritenuta di cui al comma 1, l'imposta sostitutiva di cui all'articolo 57 del testo unico in materia di versamenti e di riscossione di cui al decreto legislativo 24 marzo 2025, n. 33, con la stessa aliquota e alle stesse condizioni previste nel medesimo articolo 57. Le ritenute di cui al comma 1 del presente articolo e l'imposta sostitutiva di cui al primo periodo sono operate sulla base delle informazioni fornite dalla societa' semplice.
 
-## Capo VI - Imposta sostitutiva sulle plusvalenze e sugli altri redditi diversi di cui all'articolo 76, comma 1, lettere da d) a i)
+#### Capo VI - Imposta sostitutiva sulle plusvalenze e sugli altri redditi diversi di cui all'articolo 76, comma 1, lettere da d) a i)
 
 ###### ART. 304
 
@@ -6914,11 +6898,9 @@ f) la ritenuta prevista dall'articolo 7, comma 1, del decreto-legge 25 settembre
 
 ## PARTE III - Imposizione minima globale
 
-### Titolo I
+### Titolo I - Disposizioni in materia di imposizione minima globale
 
-#### Disposizioni in materia di imposizione minima globale
-
-##### Capo I - Disposizioni generali
+#### Capo I - Disposizioni generali
 
 ###### ART. 308
 
@@ -7020,7 +7002,7 @@ Una stabile organizzazione di cui all'allegato B, numero 52, lettera d), e' cons
 
 7\. Se nel corso di un esercizio un'impresa cambia la propria localizzazione, essa si considera localizzata nel Paese individuato per effetto dell'applicazione delle disposizioni del presente articolo alla data di inizio dello stesso.
 
-## Capo II - Imposta minima integrativa, imposta minima suppletiva e imposta minima nazionale
+#### Capo II - Imposta minima integrativa, imposta minima suppletiva e imposta minima nazionale
 
 ###### ART. 313
 
@@ -7204,7 +7186,7 @@ f) il numero dei dipendenti e il valore contabile netto dei beni tangibili rispe
 
 9-bis. ((Per i gruppi con esercizi di durata non superiore a 53 settimane, l'opzione del comma 9 puo' essere esercitata in relazione agli esercizi di oltre dodici mesi che iniziano entro il 31 dicembre 2025 e terminano entro il 3 gennaio 2027.))
 
-## Capo III - Determinazione del reddito o perdita rilevante
+#### Capo III - Determinazione del reddito o perdita rilevante
 
 ###### ART. 322
 
@@ -7414,7 +7396,7 @@ b) l'entita' trasparente e' detenuta direttamente, ovvero indirettamente attrave
 
 6\. Le disposizioni di cui ai commi 3, 4 e 5 si applicano separatamente in relazione a ogni partecipazione detenuta in una entita' trasparente.
 
-## Capo IV - Calcolo delle imposte rilevanti rettificate
+#### Capo IV - Calcolo delle imposte rilevanti rettificate
 
 ###### ART. 327
 
@@ -7618,7 +7600,7 @@ Modifiche successive alla presentazione della comunicazione e variazioni della a
 
 5\. Se un importo superiore a euro 1 milione di imposte correnti che sono state contabilizzate da un'impresa con riferimento a un esercizio e che hanno concorso a determinare il relativo valore delle imposte rilevanti rettificate non e' pagato alle autorita' competenti entro il terzo anno successivo all'ultimo giorno dell'esercizio, l'aliquota di imposizione effettiva e l'imposizione integrativa relative all'esercizio di contabilizzazione sono ricalcolati ai sensi dell'articolo 336, comma 1 escludendo l'importo non pagato dal relativo valore delle imposte rilevanti rettificate.
 
-## Capo V - Calcolo dell'aliquota d'imposizione effettiva e dell'imposizione integrativa
+#### Capo V - Calcolo dell'aliquota d'imposizione effettiva e dell'imposizione integrativa
 
 ###### ART. 333
 
@@ -7828,7 +7810,7 @@ b) l'imposizione integrativa che sarebbe stata calcolata senza l'esercizio dell'
 
 7\. ((Con decreto del Ministro dell'economia e delle finanze sono stabiliti modalita', termini, elementi e condizioni per fruire dei regimi del presente articolo, in conformita' alle regole OCSE e alla direttiva)).
 
-## Capo VI - Operazioni di riorganizzazione e società holding
+#### Capo VI - Operazioni di riorganizzazione e società holding
 
 ###### ART. 340
 
@@ -7990,7 +7972,7 @@ c) «accordo tra gruppi quotati»: indica un accordo sottoscritto tra due o piu'
 
 8\. Le controllanti capogruppo di un gruppo a controllante multipla devono presentare la comunicazione rilevante ai sensi dell'articolo 351, comma 2, salvo che sia stata nominata una unica impresa dichiarante designata, ai sensi dell'articolo 351, comma 3, lettera b). La comunicazione deve contenere le informazioni rilevanti riguardanti ciascun gruppo che compone il gruppo a controllante multipla.
 
-## Capo VII - Regimi di neutralità fiscale e imposizione delle distribuzioni
+#### Capo VII - Regimi di neutralità fiscale e imposizione delle distribuzioni
 
 ###### ART. 345
 
@@ -8166,7 +8148,7 @@ d) dell'importo residuo della perdita rilevante che non e' gia' stata utilizzata
 
 10\. Le disposizioni del presente articolo si applicano anche in relazione alle entita' assicurative d'investimento di cui alla definizione numero 15) dell'allegato B.
 
-## Capo VIII - Disposizioni amministrative
+#### Capo VIII - Disposizioni amministrative
 
 ###### ART. 351
 
@@ -8264,7 +8246,7 @@ Dichiarazione, riscossione, accertamento e sanzioni
 
 5\. Per i primi tre esercizi di applicazione delle disposizioni del presente titolo non si fa luogo a irrogazione delle sanzioni a eccezione che per i casi di dolo o colpa grave.
 
-## Capo IX - Disposizioni transitorie e finali
+#### Capo IX - Disposizioni transitorie e finali
 
 ###### ART. 354
 
@@ -8374,11 +8356,9 @@ Decorrenza
 
 ## PARTE IV - Disposizioni varie, transitorie e finali
 
-### TITOLO I
+### TITOLO I - Disposizioni varie, transitorie e finali
 
-#### Disposizioni varie, transitorie e finali
-
-##### Capo I - Imposta straordinaria calcolata sull'incremento del margine di interesse
+#### Capo I - Imposta straordinaria calcolata sull'incremento del margine di interesse
 
 ###### ART. 361
 
@@ -8418,7 +8398,7 @@ Tale contributo straordinario si applica alla suddetta riserva indipendentemente
 
 L'Autorita' garante della concorrenza e del mercato vigila sulla puntuale osservanza della disposizione di cui al primo periodo anche mediante accertamenti a campione e riferisce annualmente alle Camere con apposita relazione.
 
-## Capo II - Disciplina transitoria delle svalutazioni e delle perdite su crediti degli enti creditizi e finanziari e delle imprese di assicurazione
+#### Capo II - Disciplina transitoria delle svalutazioni e delle perdite su crediti degli enti creditizi e finanziari e delle imprese di assicurazione
 
 ###### ART. 362
 
@@ -8470,7 +8450,7 @@ b) al 31 dicembre 2027, si assume, quale imposta del periodo precedente, quella 
 
 c) al 31 dicembre 2028 e per quello successivo, non si tiene conto delle quote differite ai sensi dei commi da 12 a 14.
 
-## Capo III - Deducibilità dell'imposta municipale unica (IMU)
+#### Capo III - Deducibilità dell'imposta municipale unica (IMU)
 
 ###### ART. 363
 
@@ -8482,7 +8462,7 @@ Deducibilita' dell'IMU relativa agli immobili strumentali
 
 La medesima imposta e' indeducibile ai fini dell'imposta regionale sulle attivita' produttive. Le disposizioni di cui al presente comma si applicano anche all'IMI della provincia autonoma di Bolzano, istituita con la legge provinciale 23 aprile 2014, n. 3, all'IMIS della provincia autonoma di Trento, istituita con la legge provinciale 30 dicembre 2014, n. 14, e all'imposta locale immobiliare autonoma (ILIA) della regione Friuli-Venezia Giulia, istituita dalla legge regionale 14 novembre 2022, n. 17.
 
-## Capo IV - Maggiorazione dell'ammortamento per gli investimenti in beni strumentali
+#### Capo IV - Maggiorazione dell'ammortamento per gli investimenti in beni strumentali
 
 ###### ART. 364
 
@@ -8514,7 +8494,7 @@ b) beni materiali nuovi strumentali all'esercizio d'impresa finalizzati all'auto
 
 10\. Il Ministero dell'economia e delle finanze, sulla base delle informazioni trasmesse dal GSE e dal Ministero delle imprese e del made in Italy, provvede al monitoraggio degli oneri derivanti dai commi da 1 a 9 al fine di prevenire l'eventuale verificarsi di scostamenti dell'andamento degli oneri dallo stesso derivanti rispetto alle previsioni e, qualora siano in procinto di verificarsi scostamenti dagli effetti finanziari attesi, il Ministro dell'economia e delle finanze provvede ai sensi dell'articolo 17, commi da 12-bis a 12-quater, della legge 31 dicembre 2009, n. 196.
 
-## Capo V - Disposizioni transitorie e finali
+#### Capo V - Disposizioni transitorie e finali
 
 ###### ART. 365
 

@@ -32,7 +32,7 @@ la seguente legge:
 
 ## ((Capo I - DISPOSIZIONI GENERALI))
 
-##### Art. 1 - Finalita'
+### Art. 1 - Finalita'
 
 1\. La presente legge disciplina il prelievo di organi e di tessuti da soggetto di cui sia stata accertata la morte ai sensi della legge 29 dicembre 1993, n. 578, e regolamenta le attivita' di prelievo e di trapianto di tessuti e di espianto e di trapianto di organi ((, anche da soggetto vivente, per quanto compatibili)).
 
@@ -44,7 +44,7 @@ AGGIORNAMENTO (1)
 
 L'avviso di rettifica in G.U. 24/04/1999, n. 95, ha disposto che "dopo la formula di promulgazione, che termina con le parole "la seguente legge:", all'articolo 1 sono anteposte le seguenti parole: "Capo I DISPOSIZIONI GENERALI"".
 
-##### Art. 2 - Promozione dell'informazione
+### Art. 2 - Promozione dell'informazione
 
 1\. Il Ministro della sanita', d'intesa con i Ministri della pubblica istruzione e dell'universita' e della ricerca scientifica e tecnologica, sentito il Centro nazionale per i trapianti, di cui all'articolo 8, in collaborazione con gli enti locali, le scuole, le associazioni di volontariato e quelle di interesse collettivo, le societa' scientifiche, le aziende unita' sanitarie locali, i medici di medicina generale e le strutture sanitarie pubbliche e private, promuove, nel rispetto di una libera e consapevole scelta, iniziative di informazione dirette a diffondere tra i cittadini:
 
@@ -70,13 +70,9 @@ AGGIORNAMENTO (1)
 
 L'avviso di rettifica in G.U. 24/04/1999, n. 95, ha disposto che "dopo la formula di promulgazione, che termina con le parole "la seguente legge:", all'articolo 1 sono anteposte le seguenti parole: "Capo I DISPOSIZIONI GENERALI"".
 
-## Capo II - DICHIARAZIONE DI VOLONTA'
+## Capo II - DICHIARAZIONE DI VOLONTA' IN ORDINE AL PRELIEVO DI ORGANI E DI TESSUTI
 
-### IN ORDINE AL PRELIEVO DI - ORGANI
-
-#### E - DI TESSUTI
-
-##### Art. 3 - Prelievo di organi e di tessuti
+### Art. 3 - Prelievo di organi e di tessuti
 
 1\. Il prelievo di organi e di tessuti e' consentito secondo le modalita' previste dalla presente legge ed e' effettuato previo accertamento della morte ai sensi della legge 29 dicembre 1993, n. 578, e del decreto del Ministro della sanita' 22 agosto 1994, n. 582.
 
@@ -92,7 +88,7 @@ L'avviso di rettifica in G.U. 24/04/1999, n. 95, ha disposto che "dopo la formul
 
 > \- Per il titolo del decreto ministeriale n. 582/1994 si veda nelle note all'art. 2.
 
-##### Art. 4 - Dichiarazione di volonta' in ordine alla donazione
+### Art. 4 - Dichiarazione di volonta' in ordine alla donazione
 
 1\. Entro i termini, nelle forme e nei modi stabiliti dalla presente legge e dal decreto del Ministro della sanita' di cui all'articolo 5, comma 1, i cittadini sono tenuti a dichiarare la propria libera volonta' in ordine alla donazione di organi e di tessuti del proprio corpo successivamente alla morte, e sono informati che la mancata dichiarazione di volonta' e' considerata quale assenso alla donazione, secondo quanto stabilito dai commi 4 e 5 del presente articolo.
 
@@ -128,7 +124,7 @@ b) qualora dai dati inseriti nel sistema informativo dei trapianti di cui all'ar
 
 > 4\. Il momento della morte coincide con l'inizio dell'esistenza simultanea delle condizioni di cui al comma 3".
 
-##### Art. 5
+### Art. 5
 
 (Disposizioni di attuazione delle norme
 
@@ -198,11 +194,11 @@ h) le modalita' attraverso le quali i comuni trasmettono alle aziende unita' san
 
 > "Art. 27 (Leggi con oneri a carico dei bilanci degli enti del settore pubblico allargato). - Le leggi che comportano oneri, anche sotto forma di minori entrate, a carico dei bilanci degli enti di cui al precedente art. 25 devono contenere la previsione dell'onere stesso nonche' l'indicazione della copertura finanziaria riferita ai relativi bilanci, annuali e pluriennali".
 
-##### Art. 6 - Trapianto terapeutico
+### Art. 6 - Trapianto terapeutico
 
 1\. I prelievi di organi e di tessuti disciplinati dalla presente legge sono effettuati esclusivamente a scopo di trapianto terapeutico.
 
-##### Art. 6-bis - Qualita' e sicurezza degli organi
+### Art. 6-bis - Qualita' e sicurezza degli organi
 
 1\. Le donazioni di organi di donatori viventi e deceduti sono volontarie e non remunerate. Il reperimento di organi non e' effettuato a fini di lucro. E' vietata ogni mediazione riguardante la necessita' o la disponibilita' di organi che abbia come fine l'offerta o la ricerca di un profitto finanziario o di un vantaggio analogo. E' altresi' vietata ogni pubblicita' riguardante la necessita' o la disponibilita' di organi che abbia come fine l'offerta o la ricerca di un profitto finanziario o di un vantaggio analogo.
 
@@ -226,11 +222,9 @@ f) la segnalazione, l'esame, la registrazione e la trasmissione delle informazio
 
 g) ogni misura idonea ad assicurare la qualita' e la sicurezza degli organi.
 
-## Capo III - ORGANIZZAZIONE DEI PRELIEVI
+## Capo III - ORGANIZZAZIONE DEI PRELIEVI E DEI TRAPIANTI DI ORGANI E DI TESSUTI
 
-### E DEI TRAPIANTI DI ORGANI - E DI TESSUTI
-
-##### Art. 7 - Principi organizzativi
+### Art. 7 - Principi organizzativi
 
 1\. L'organizzazione nazionale dei prelievi e dei trapianti e' costituita dal Centro nazionale per i trapianti, dalla Consulta tecnica permanente per i trapianti, dai centri regionali o interregionali per i trapianti, dalle strutture per i prelievi, dalle strutture per la conservazione dei tessuti prelevati, dalle strutture per i trapianti e dalle aziende unita' sanitarie locali.
 
@@ -240,7 +234,7 @@ g) ogni misura idonea ad assicurare la qualita' e la sicurezza degli organi.
 
 4\. Per l'istituzione del sistema informativo dei trapianti e' autorizzata la spesa di lire 1.000 milioni annue a decorrere dal 1999.
 
-##### Art. 8
+### Art. 8
 
 Centro nazionale per i trapianti
 
@@ -290,7 +284,7 @@ m-ter) controlla lo scambio di organi con gli altri Stati membri e con i Paesi t
 
 m-quater): ai fini della protezione dei donatori viventi nonche' della qualita' e della sicurezza degli organi destinati al trapianto, cura la tenuta del registro dei donatori viventi in conformita' delle disposizioni di cui al decreto legislativo 30 giugno 2003, n. 196.)) 7. Per l'istituzione del Centro nazionale e' autorizzata la spesa complessiva di lire 740 milioni annue a decorrere dal 1999.
 
-##### Art. 9 - Consulta tecnica permanente per i trapianti
+### Art. 9 - Consulta tecnica permanente per i trapianti
 
 1\. E' istituita la Consulta tecnica permanente per i trapianti, di seguito denominata "Consulta". La Consulta e' composta dal direttore dell'Istituto superiore di sanita', o da un suo delegato, dal direttore generale del Centro nazionale, dai coordinatori dei centri regionali e interregionali per i trapianti, dai rappresentanti di ciascuna delle regioni che abbia istituito un centro interregionale, da tre clinici esperti in materia di trapianti di organi e di tessuti, di cui almeno uno rianimatore, e da tre esperti delle associazioni nazionali che operano nel settore dei trapianti e della promozione delle donazioni.
 
@@ -300,7 +294,7 @@ m-quater): ai fini della protezione dei donatori viventi nonche' della qualita' 
 
 4\. Per l'istituzione della Consulta e' autorizzata la spesa di lire 100 milioni annue a decorrere dal 1999.
 
-##### Art. 10 - Centri regionali e interregionali
+### Art. 10 - Centri regionali e interregionali
 
 1\. Le regioni, qualora non abbiano gia' provveduto ai sensi della legge 2 dicembre 1975, n. 644, istituiscono un centro regionale per i trapianti ovvero, in associazione tra esse, un centro interregionale per i trapianti, di seguito denominati, rispettivamente, "centro regionale" e "centro interregionale".
 
@@ -336,13 +330,13 @@ g) cura i rapporti di collaborazione con le autorita' sanitarie del territorio d
 
 > \- La legge 2 dicembre 1975, n. 644, reca: "Disciplina dei prelievi di parti di cadavere a scopo di trapianto e norme sul prelievo dell'ipofisi da cadavere a scopo di produzione di estratti per uso terapeutico".
 
-##### Art. 11 - Coordinatori dei centri regionali e interregionali
+### Art. 11 - Coordinatori dei centri regionali e interregionali
 
 1\. Le attivita' dei centri regionali e dei centri interregionali sono coordinate da un coordinatore nominato dalla regione, o d'intesa tra le regioni interessate, per la durata di cinque anni, rinnovabili alla scadenza, tra i medici che abbiano acquisito esperienza nel settore dei trapianti.
 
 2\. Nello svolgimento dei propri compiti, il coordinatore regionale o interregionale e' coadiuvato da un comitato regionale o interregionale composto dai responsabili, o loro delegati, delle strutture per i prelievi e per i trapianti presenti nell'area di competenza e da un funzionario amministrativo delle rispettive regioni.
 
-##### Art. 12 - Coordinatori locali
+### Art. 12 - Coordinatori locali
 
 1\. Le funzioni di coordinamento delle strutture per i prelievi sono svolte da un medico dell'azienda sanitaria competente per territorio che abbia maturato esperienza nel settore dei trapianti designato dal direttore generale dell'azienda per un periodo di cinque anni, rinnovabile alla scadenza.
 
@@ -360,7 +354,7 @@ d) ad organizzare attivita' di informazione, di educazione e di crescita cultura
 
 4\. Per l'attuazione dell'articolo 11 e del presente articolo e' autorizzata la spesa di lire 50 milioni annue a decorrere dal 1999.
 
-##### Art. 13 - Strutture per i prelievi
+### Art. 13 - Strutture per i prelievi
 
 1\. Il prelievo di organi e' effettuato presso le strutture sanitarie accreditate dotate di reparti di rianimazione. L'attivita' di prelievo di tessuti da soggetto di cui sia stata accertata la morte ai sensi della legge 29 dicembre 1993, n. 578, e del decreto del Ministro della sanita' 22 agosto 1994, n. 582, puo' essere svolta anche nelle strutture sanitarie accreditate non dotate di reparti di rianimazione.
 
@@ -604,7 +598,7 @@ d) ad organizzare attivita' di informazione, di educazione e di crescita cultura
 
 > 59\. Gli schemi dei decreti legislativi di cui al comma 57 sono adottati su proposta del Presidente del Consiglio dei Ministri di concerto con il Ministro del tesoro. Essi sono trasmessi alla Camera dei deputati e al Senato della Repubblica per l'acquisizione del parere delle competenti commissioni, che si esprimono entro trenta giorni dalla data di trasmissione. Decorsi i termini previsti dal presente comma, il procedimento di emanazione dei decreti legislativi prosegue anche in mancanza dei pareri richiesti".
 
-##### Art. 14 - Prelievi
+### Art. 14 - Prelievi
 
 1\. Il collegio medico di cui all'articolo 2, comma 5, della legge 29 dicembre 1993, n. 578, nei casi in cui si possa procedere al prelievo di organi, e' tenuto alla redazione di un verbale relativo all'accertamento della morte. I sanitari che procedono al prelievo sono tenuti alla redazione di un verbale relativo alle modalita' di accertamento della volonta' espressa in vita dal soggetto in ordine al prelievo di organi nonche' alle modalita' di svolgimento del prelievo.
 
@@ -622,13 +616,13 @@ d) ad organizzare attivita' di informazione, di educazione e di crescita cultura
 
 > "5. L'accertamento della morte dei soggetti affetti da lesioni encefaliche e sottoposti a misure rianimatorie e' effettuato da un collegio medico nominato dalla direzione sanitaria, composto da un medico legale o, in mancanza, da un medico di direzione sanitaria o da un anatomopatologo, da un medico specialista in anestesia e rianimazione e da un medico neurofisiopatologo o, in mancanza, da un neurologo o da un neurochirurgo esperti in elettroencefalografia. I componenti del collegio medico sono dipendenti di strutture sanitarie pubbliche".
 
-##### Art. 15 - Strutture per la conservazione dei tessuti prelevati
+### Art. 15 - Strutture per la conservazione dei tessuti prelevati
 
 1\. Le regioni, sentito il centro regionale o interregionale, individuano le strutture sanitarie pubbliche aventi il compito di conservare e distribuire i tessuti prelevati, certificandone la idoneita' e la sicurezza.
 
 2\. Le strutture di cui al comma 1 sono tenute a registrare i movimenti in entrata ed in uscita dei tessuti prelevati, inclusa l'importazione, secondo le modalita' definite dalle regioni.
 
-##### Art. 16 - Strutture per i trapianti
+### Art. 16 - Strutture per i trapianti
 
 1\. Le regioni individuano, nell'ambito della programmazione sanitaria, tra le strutture accreditate quelle idonee ad effettuare i trapianti di organi e di tessuti. Con decreto del Ministro della sanita', sentiti il Consiglio superiore di sanita' ed il Centro nazionale, sono definiti i criteri e le modalita' per l'individuazione delle strutture di cui al presente articolo, in base ai requisiti previsti dal decreto del Ministro della sanita' 29 gennaio 1992, pubblicato nella Gazzetta Ufficiale n. 26 del 1o febbraio 1992, nonche' gli standard minimi di attivita' per le finalita' indicate dal comma 2.
 
@@ -640,13 +634,13 @@ d) ad organizzare attivita' di informazione, di educazione e di crescita cultura
 
 > \- Il decreto del Ministro della sanita' 29 gennaio 1992, pubblicato nella Gazzetta Ufficiale n. 26 del 1 febbraio 1992, reca: "Elenco delle alte specialita' e fissazione dei requisiti necessari alle strutture sanitarie per l'esercizio delle attivita' di alta specialita'".
 
-##### Art. 17 - Determinazione delle tariffe
+### Art. 17 - Determinazione delle tariffe
 
 1\. Il Ministero della sanita', sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, determina periodicamente la tariffa per le prestazioni di prelievo e di trapianto di organi e di tessuti, prevedendo criteri per la ripartizione della stessa tra le strutture di cui agli articoli 13 e 16, secondo modalita' tali da consentire il rimborso delle spese sostenute dal centro regionale o interregionale, nonche' il rimborso delle spese aggiuntive relative al trasporto del feretro nel solo ambito del territorio nazionale sostenute dalla struttura nella quale e' effettuato il prelievo.
 
 2\. Per il rimborso delle spese aggiuntive relative al trasporto del feretro, nei limiti indicati dal comma 1, e' autorizzata la spesa di lire 200 milioni annue a decorrere dal 1999.
 
-##### Art. 18
+### Art. 18
 
 (Obblighi del personale impegnato in attivita' di prelievo e
 
@@ -656,11 +650,9 @@ di trapianto)
 
 2\. Il personale sanitario ed amministrativo impegnato nelle attivita' di prelievo e di trapianto e' tenuto a garantire l'anonimato dei dati relativi al donatore ed al ricevente.
 
-## Capo IV - ESPORTAZIONE E IMPORTAZIONE
+## Capo IV - ESPORTAZIONE E IMPORTAZIONE DI ORGANI E DI TESSUTI E TRAPIANTI ALL'ESTERO
 
-### DI ORGANI E DI TESSUTI - E TRAPIANTI ALL'ESTERO
-
-##### Art. 19 - Esportazione e importazione di organi e di tessuti
+### Art. 19 - Esportazione e importazione di organi e di tessuti
 
 1\. L'esportazione a titolo gratuito di organi e di tessuti prelevati da soggetti di cui sia stata accertata la morte ai sensi della legge 29 dicembre 1993, n. 578, e del decreto del Ministro della sanita' 22 agosto 1994, n. 582, nonche' l'importazione a titolo gratuito di organi e di tessuti possono essere effettuate esclusivamente tramite le strutture di cui agli articoli 13 e 16, previa autorizzazione del rispettivo centro regionale o interregionale ovvero del Centro nazionale nei casi previsti dall'articolo 8, comma 6, lettera l), secondo modalita' definite con decreto del Ministro della sanita', da emanare entro trenta giorni dalla data di entrata in vigore della presente legge, in base a principi che garantiscano la certificazione della qualita' e della sicurezza dell'organo o del tessuto e la conoscenza delle generalita' del donatore da parte della competente autorita' sanitaria.
 
@@ -684,7 +676,7 @@ di trapianto)
 
 > \- L'accordo quadro richiamato e' l'"Accordo sulla cooperazione transfrontaliera delle collettivita' territoriali", firmato a Vienna il 27 gennaio 1993. La relativa legge di attuazione 8 marzo 1995, n. 76, e' stata pubblicata nella Gazzetta Ufficiale 18 marzo 1995, n. 65.
 
-##### Art. 20 - Trapianti all'estero
+### Art. 20 - Trapianti all'estero
 
 1\. Le spese di iscrizione in organizzazioni di trapianto estere e le spese di trapianto all'estero sono a carico del Servizio sanitario nazionale limitatamente al trapianto di organi e solo se la persona e' stata iscritta nella lista di attesa di cui all'articolo 8, comma 6, lettera a), per un periodo di tempo superiore allo standard definito con decreto del Ministro della sanita' per ciascuna tipologia di trapianto e secondo le modalita' definite con il medesimo decreto.
 
@@ -692,7 +684,7 @@ di trapianto)
 
 ## Capo V - FORMAZIONE DEL PERSONALE
 
-##### Art. 21 - Formazione
+### Art. 21 - Formazione
 
 1\. Il Ministro della sanita', sentito il Ministro dell'universita' e della ricerca scientifica e tecnologica, con proprio decreto istituisce borse di studio per la formazione del personale di cui al comma 2, anche presso istituzioni straniere, e per l'incentivazione della ricerca nel campo dei prelievi e dei trapianti di organi e di tessuti.
 
@@ -704,7 +696,7 @@ di trapianto)
 
 ## Capo VI - SANZIONI
 
-##### Art. 22 - Sanzioni
+### Art. 22 - Sanzioni
 
 1\. Salvo che il fatto costituisca reato, chiunque viola le disposizioni degli articoli 13, 15 e 16 e' punito con la sanzione amministrativa consistente nel pagamento di una somma da lire 2 milioni a lire 20 milioni. ((3))
 
@@ -720,7 +712,7 @@ AGGIORNAMENTO (3)
 
 La L. 24 dicembre 2012, n. 228 ha disposto (con l'art. 1, comma 340, lettera d)) che all'articolo 22, comma 1, della presente legge, le parole: «da euro 1.032 a euro 10.329» sono sostituite dalle seguenti: «da euro 2.064 a euro 20.658».
 
-##### Art. 22-bis - Sanzioni in materia di traffico di organi destinati ai trapianti
+### Art. 22-bis - Sanzioni in materia di traffico di organi destinati ai trapianti
 
 1\. ((COMMA ABROGATO DAL D.LGS. 1 MARZO 2018, N. 21)).((6))
 
@@ -736,7 +728,7 @@ Il D.Lgs. 1 marzo 2018, n. 21 ha disposto (con l'art. 8, comma 1) che "Dalla dat
 
 ## Capo VII - DISPOSIZIONI TRANSITORIE E FINALI
 
-##### Art. 23 - Disposizioni transitorie
+### Art. 23 - Disposizioni transitorie
 
 1\. Fino alla data di cui all'articolo 28, comma 2, e' consentito procedere al prelievo di organi e di tessuti da soggetto di cui sia stata accertata la morte ai sensi della legge 29 dicembre 1993, n. 578, e del decreto del Ministro della sanita' 22 agosto 1994, n. 582, salvo che il soggetto abbia esplicitamente negato il proprio assenso.
 
@@ -776,7 +768,7 @@ AE1 3. La presentazione della opposizione scritta di cui al comma 2 non e' conse
 
 > Il centro regionale o interregionale comunica agli enti convenzionati i dati necessari per stabilire la compatibilita' genetica tra soggetto donante e soggetto ricevente il trapianto, sulla base dei dati forniti dagli stessi".
 
-##### Art. 24
+### Art. 24
 
 (Disposizioni per le regioni a statuto speciale e per le
 
@@ -784,13 +776,13 @@ province autonome di Trento e di Bolzano)
 
 1\. Restano salve le competenze delle regioni a statuto speciale e delle province autonome di Trento e di Bolzano che disciplinano la materia di cui alla presente legge secondo i rispettivi statuti e le relative norme di attuazione.
 
-##### Art. 25 - Copertura finanziaria
+### Art. 25 - Copertura finanziaria
 
 1\. Agli oneri derivanti dall'attuazione della presente legge, valutati complessivamente in lire 11.740 milioni annue a decorrere dal 1999, si provvede, per gli anni 1999, 2000 e 2001, mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1999-2001, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 1999, allo scopo parzialmente utilizzando, quanto a lire 10.000 milioni l'accantonamento relativo alla Presidenza del Consiglio dei ministri e, quanto a lire 1.740 milioni, l'accantonamento relativo al Ministero della sanita'.
 
 2\. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 26 - Verifica sull'attuazione
+### Art. 26 - Verifica sull'attuazione
 
 1\. Il Ministro della sanita', nell'ambito della Relazione sullo stato sanitario del Paese prevista dall'articolo 1, comma 6, del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni, riferisce sulla situazione dei trapianti e dei prelievi effettuati sul territorio nazionale.
 
@@ -800,7 +792,7 @@ province autonome di Trento e di Bolzano)
 
 > "6. La relazione sullo stato sanitario del Paese, predisposta annualmente dal Ministro della sanita', espone i risultati conseguiti rispetto agli obiettivi fissati dal Piano sanitario nazionale, illustra analiticamente e comparativamente costi, rendimenti e risultati delle unita' del Servizio e fornisce indicazioni per l'ulteriore programmazione. La relazione fa menzione dei risultati conseguiti dalle regioni in riferimento all'attuazione dei piani sanitari regionali".
 
-##### Art. 27 - Abrogazioni
+### Art. 27 - Abrogazioni
 
 1\. La legge 2 dicembre 1975, n. 644, e successive modificazioni, e' abrogata.
 
@@ -844,7 +836,7 @@ province autonome di Trento e di Bolzano)
 
 > f) promozione della ricerca".
 
-##### Art. 28 - Entrata in vigore
+### Art. 28 - Entrata in vigore
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 

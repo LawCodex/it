@@ -30,25 +30,25 @@ Promulga
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo tra il Governo della Repubblica italiana e il Governo della Repubblica francese per la realizzazione e l'esercizio di una nuova linea ferroviaria Torino-Lione, con Allegati, fatto a Roma il 30 gennaio 2012.
 
-#### Art. 2
+### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1 della presente legge, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 28 dell'Accordo stesso.
 
-#### Art. 3
+### Art. 3
 
 Nomina del direttore generale e del direttore amministrativo e finanziario del Promotore pubblico
 
 1\. Ai fini dell'attuazione dell'articolo 6.4 dell'Accordo di cui all'articolo 1 della presente legge, il direttore generale e il direttore amministrativo e finanziario del Promotore pubblico sono nominati previa comunicazione alle Commissioni parlamentari competenti.
 
-#### Art. 4
+### Art. 4
 
 Adempimenti finanziari
 
@@ -58,7 +58,7 @@ Adempimenti finanziari
 
 Alla copertura degli oneri derivanti dal Protocollo addizionale si provvedera' con la relativa legge di autorizzazione alla ratifica.
 
-#### Art. 5
+### Art. 5
 
 Entrata in vigore
 
@@ -126,7 +126,7 @@ Prendendo atto delle proposte della Commissione intergovernativa,
 
 Hanno convenuto le seguenti disposizioni:
 
-#### Articolo 1
+### Articolo 1
 
 Oggetto
 
@@ -136,7 +136,7 @@ Le Parti stabiliscono inoltre con il presente Accordo le condizioni di un miglio
 
 Il presente Accordo non costituisce uno dei protocolli addizionali previsti all'articolo 4 dell'Accordo firmato a Torino tra i Governi italiano e francese il 29 gennaio 2001. In particolare, non ha come oggetto di permettere l'avvio dei lavori definitivi della parte comune italo-francese, che richiedera' l'approvazione di un protocollo addizionale separato, tenendo conto in particolare della partecipazione definitiva dell'Unione europea al progetto.
 
-#### Articolo 2
+### Articolo 2
 
 Definizioni
 
@@ -160,13 +160,13 @@ d) «Promotore pubblico», organo comune, dotato di personalita' giuridica, cost
 
 e) «Linea storica del Frejus», il tratto di linea ferroviaria situato tra le stazioni di Modane e di Bardonecchia, ivi compresa la galleria storica del Frejus, ad esclusione delle stazioni.
 
-#### Articolo 3
+### Articolo 3
 
 Principi generali
 
 Le Parti decidono di porre sotto il loro controllo paritetico il progetto della nuova linea ferroviaria Torino-Lione e di adottare una governance del progetto e del Promotore pubblico mirante da una parte ad affidare la responsabilita' operativa del progetto al Promotore pubblico e dall'altra, attraverso un controllo del suddetto Promotore pubblico, assicurare la qualita', la tracciabilita', l'imparzialita' e la coerenza dell'attivita' del Promotore pubblico e la performance complessiva dell'operazione e nel rispetto del calendario e dello stanziamento di bilancio assegnato, nonche' l'applicazione della sicurezza.
 
-#### Articolo 4
+### Articolo 4
 
 Parte comune italo-francese
 
@@ -192,7 +192,7 @@ In aggiunta, Rete Ferroviaria Italiana (qui di seguito "RFI") realizzera' dei la
 
 La consistenza delle fasi successive sara' definita dalle Parti nell'ambito di accordi ulteriori.
 
-#### Articolo 5
+### Articolo 5
 
 Messa in opera
 
@@ -212,7 +212,7 @@ Conformemente alle disposizioni dell'articolo 4 dell'Accordo del 29 gennaio 2001
 
 ## Titolo II - Governance del progetto - Diritto applicabile
 
-#### Articolo 6
+### Articolo 6
 
 Ruolo del Promotore pubblico
 
@@ -262,7 +262,7 @@ Per quanto riguarda le misure di accompagnamento dei cantieri, il Promotore pubb
 
 Cantieri-Sviluppo-Territorio", per quanto compatibili con il presente Accordo.
 
-#### Articolo 7
+### Articolo 7
 
 Commissione dei contratti
 
@@ -328,7 +328,7 @@ Il Presidente della Commissione dei contratti rende conto, periodicamente, dell'
 
 7.7 Le modalita' pratiche di funzionamento della Commissione dei contratti sono previste, conformemente alle disposizioni del presente articolo, dallo statuto e dal regolamento interno del Promotore pubblico.
 
-#### Articolo 8
+### Articolo 8
 
 Servizio permanente di controllo
 
@@ -364,7 +364,7 @@ Il Presidente del Servizio permanente di controllo rende conto periodicamente de
 
 8.4 Le modalita' pratiche di funzionamento del Servizio permanente di controllo sono previste, conformemente alle disposizioni del presente articolo, dallo statuto e dal regolamento interno del Promotore pubblico.
 
-#### Articolo 9
+### Articolo 9
 
 Commissione intergovernativa, Comitati di sicurezza (tecnica e ASAT), Organismi di controllo e regolamentazione
 
@@ -480,7 +480,7 @@ Nel caso dovesse emergere durante l'istruttoria che i due organismi di controllo
 
 9.4.5 Senza pregiudizio delle disposizioni 9.4.3. e 9.4.4. del presente articolo, gli organismi di controllo francese e italiano si concertano al fine di stabilire una condotta comune per ogni questione riguardante la sezione transfrontaliera o la linea storica del Frejus ed in particole preventivamente a qualsiasi decisione.
 
-#### Articolo 10
+### Articolo 10
 
 Diritto applicabile
 
@@ -516,7 +516,7 @@ Le autorita' italiane e francesi competenti conducono azioni di cooperazione per
 
 10.3 Il Promotore pubblico e' soggetto alla legislazione e alle disposizioni fiscali applicabili in Francia.
 
-#### Articolo 11
+### Articolo 11
 
 Proprieta' delle opere
 
@@ -526,13 +526,13 @@ All'estinzione del Promotore pubblico, le opere di sua proprieta' diventano di p
 
 Un accordo tra le Parti disciplina le conseguenze di questa scomparsa.
 
-#### Articolo 12
+### Articolo 12
 
 Ricapitalizzazione
 
 Nonostante le disposizioni del diritto francese applicabili al Promotore pubblico, nell'ipotesi in cui il Promotore pubblico fosse dotato di un capitale sociale, tale capitale sociale non potra' essere modificato senza l'accordo delle Parti o del Promotore pubblico.
 
-#### Articolo 13
+### Articolo 13
 
 Futuro di LTF
 
@@ -540,13 +540,13 @@ Il Promotore pubblico potra' ricevere entro i 12 mesi a decorrere dalla sua cost
 
 ## Titolo III - Conduzione di studi, ricognizioni e lavori preliminari
 
-#### Articolo 14
+### Articolo 14
 
 Oggetto e durata
 
 Il presente titolo ha lo scopo di definire le modalita' di finanziamento tra le Parti delle prestazioni relative agli studi, alle ricognizioni e ai lavori preliminari realizzati per la conduzione del progetto, quali definiti al punto b) dell'articolo 5 dell'Accordo del 29 gennaio 2001 fino alla promulgazione del Protocollo addizionale, previsto all'articolo 4 dell'Accordo del 29 gennaio 2001.
 
-#### Articolo 15
+### Articolo 15
 
 Finanziamento
 
@@ -562,11 +562,9 @@ c) i costi per la realizzazione dei sondaggi in Italia, valutati sulla base del 
 
 Per la quantificazione dei suddetti sovracosti a carico esclusivo dell'Italia, le Parti convengono di riferirsi al bilancio predisposto da LTF SAS ed approvato dalla Commissione intergovernativa nel dicembre 2010.
 
-## Titolo IV - Modalita' di realizzazione del progetto oltre gli studi,
+## Titolo IV - Modalita' di realizzazione del progetto oltre gli studi, le indagini ed i lavori preliminari
 
-### le indagini - ed i lavori preliminari
-
-#### Articolo 16
+### Articolo 16
 
 Principi
 
@@ -580,13 +578,13 @@ Per la prima fase, riguardante la realizzazione della sezione transfrontaliera, 
 
 Per le fasi successive, ogni Parte finanzia, con l'aiuto dell'Unione europea, le infrastrutture situate sul proprio territorio.
 
-#### Articolo 17
+### Articolo 17
 
 Principi per il montaggio giuridico, economico e finanziario
 
 Il montaggio giuridico, economico e finanziario del progetto si ispira ai principi enunciati dall'allegato 2 del presente Accordo che e' parte integrante di quest'ultimo.
 
-#### Articolo 18
+### Articolo 18
 
 Finanziamento del Promotore pubblico e della realizzazione della sezione transfrontaliera
 
@@ -598,23 +596,21 @@ Fanno eccezione le acquisizioni fondiarie, le interferenze di reti e le misure d
 
 Nel limite della stima dei lavori di miglioramento della capacita' sulla linea storica tra Avigliana e Bussoleno realizzata da LTF nel suo studio di fasaggio della parte comune italo-francese, cioe' 81 M €, il finanziamento di tali lavori sara' assicurato nell'ambito complessivo del finanziamento della prima fase. Gli eventuali sovracosti saranno totalmente a carico della Parte italiana.
 
-#### Articolo 19
+### Articolo 19
 
 Disposizioni demaniali e fondiarie
 
 Ciascuno delle Parti si impegna ad acquisire per metterli a disposizione del Promotore pubblico i terreni necessari, sul proprio territorio, per la costruzione delle opere costitutive della sezione transfrontaliera.
 
-## Titolo V - Messa in servizio ed esercizio della sezione
+## Titolo V - Messa in servizio ed esercizio della sezione transfrontaliera
 
-### transfrontaliera
-
-#### Articolo 20
+### Articolo 20
 
 Oggetto
 
 Il presente titolo ha lo scopo di indicare i principi relativi alla gestione della sezione transfrontaliera e al coordinamento dei soggetti interessati a seguito della sua messa in servizio.
 
-#### Articolo 21
+### Articolo 21
 
 Sicurezza, organizzazione dei soccorsi e circostanze eccezionali
 
@@ -648,7 +644,7 @@ Il comando e la direzione delle operazioni di soccorso sono garantiti dalle Auto
 
 L'introduzione di tali misure non comporta alcun diritto a favore del Promotore pubblico o dell'altra Parte.
 
-#### Articolo 22
+### Articolo 22
 
 Cooperazione tra gli Stati, polizia e controlli di frontiera
 
@@ -668,7 +664,7 @@ Ogni Parte e' responsabile del pagamento o della riscossione dei costi relativi 
 
 ## Titolo VI - Misure di accompagnamento del progetto
 
-#### Articolo 23
+### Articolo 23
 
 Principi relativi alle misure di trasferimento modale adottati
 
@@ -678,7 +674,7 @@ Principi relativi alle misure di trasferimento modale adottati
 
 23.3 Le Parti ricercheranno insieme agli altri Stati alpini e alla Commissione europea un accordo su dei principi e un calendario progressivo per la messa in opera di meccanismi coordinati di regolazione e di riduzione dei flussi stradali transalpini in concomitanza con la messa in servizio dei progetti ferroviari che porteranno a un rilevante aumento della capacita' di tale modalita'.
 
-#### Articolo 24
+### Articolo 24
 
 Modifica della Convenzione del 29 gennaio 1951
 
@@ -686,7 +682,7 @@ Nel termine di due anni dopo la sottoscrizione del presente Accordo, le Parti si
 
 Questa modifica portera' alla creazione di un Comitato di sicurezza, anche per il tunnel storico.
 
-#### Articolo 25
+### Articolo 25
 
 Tariffazione
 
@@ -694,7 +690,7 @@ Il Promotore pubblico fissa i canoni d'utilizzo della sezione transfrontaliera d
 
 ## Titolo VII - Disposizioni finali
 
-#### Articolo 26
+### Articolo 26
 
 Emendamenti
 
@@ -702,7 +698,7 @@ Il presente Accordo puo' essere emendato mediante accordo tra le Parti, in parti
 
 Le condizioni di entrata in vigore di tali emendamenti saranno stabilite da ogni accordo.
 
-#### Articolo 27
+### Articolo 27
 
 Risoluzione delle controversie, tribunale arbitrale
 
@@ -740,7 +736,7 @@ b) Gli arbitri cosi' nominati designano un arbitro supplementare, che presiede i
 
 27.6 Ogni Parte della controversia sostiene le spese dell'arbitro da essa nominato o nominato a suo nome e divide con l'altra parte le spese del Presidente; le altre spese di arbitrato sono sostenute nel modo che verra' determinato dal Tribunale arbitrale.
 
-#### Articolo 28
+### Articolo 28
 
 Ratifica, entrata in vigore
 
@@ -758,13 +754,13 @@ della Repubblica italiana della Repubblica francese
 
 Parte di provvedimento in formato grafico
 
-#### Allegato 1
+### Allegato 1
 
 ALLEGATO 1
 
 Parte di provvedimento in formato grafico
 
-#### Allegato 2
+### Allegato 2
 
 ALLEGATO 2
 
@@ -788,7 +784,7 @@ D'altra parte, si ricercheranno il livello e la struttura tariffaria adeguati, a
 
 Occorrera' infine prestare attenzione alle incidenze che le modalita' contrattuali adottate (ripartizione dei rischi, proprieta' degli asset, dispositivi di garanzia, ecc) possono avere sulla contabilita' pubblica nazionale dei due Stati. E' pertanto fondamentale valutare tempestivamente l'impatto delle modalita' contrattuali del progetto sulle traiettorie delle finanze pubbliche italiane e francesi, per ridurne gli effetti sia sul breve che sul lungo periodo, in particolare per quanto concerne il deficit pubblico, il debito pubblico, la fiscalita' e il rispetto del Patto di stabilita' e di crescita dell'Unione europea.
 
-#### Allegato 3
+### Allegato 3
 
 ALLEGATO 3
 

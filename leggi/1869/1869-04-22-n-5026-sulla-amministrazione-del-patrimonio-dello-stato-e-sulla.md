@@ -306,7 +306,7 @@ Il Direttore generale del Tesoro invigila alla riscossione delle imposte dirette
 
 Il Regolamento indichera' i registri ausiliari, oltre al giornale e libro mastro a scrittura doppia, che dovranno essere tenuti presso la Direzione generale del Tesoro.
 
-## CAPITOLO II. - Del bilancio e dell'anno finanziario.
+### CAPITOLO II. - Del bilancio e dell'anno finanziario.
 
 #### Art. 23
 
@@ -378,7 +378,7 @@ Se la spesa imprevista occorre quando siede il Parlamento, essa sara' autorizzat
 
 Le maggiori spese, a cui non possa provvedersi nella forma espressa all'articolo precedente, debbono essere autorizzate per Legge nel modo stabilito all'articolo 51.
 
-## CAPITOLO III. - Delle entrate dello Stato.
+### CAPITOLO III. - Delle entrate dello Stato.
 
 #### Art. 34
 
@@ -408,7 +408,7 @@ L'importo dei detti mandati e buoni quietanzati, e delle spese fisse e delle alt
 
 Il discarico dei Percettori e Tesorieri non opera pure discarico per coloro che hanno emesso su di loro mandati o buoni di pagamento, e che devono giustificare il loro operato nel conto mensile che sono obbligati di rendere.
 
-## CAPITOLO IV. - Della spesa dello Stato.
+### CAPITOLO IV. - Della spesa dello Stato.
 
 #### Art. 39
 
@@ -562,7 +562,7 @@ Ferma anche per l'emissione dei buoni del Tesoro l'osservanza del riscontro prev
 
 Le disposizioni, che possono occorrere pel servizio dell'Esercito e dell'Armata sul piede di guerra, sono date con speciali Regolamenti.
 
-## CAPITOLO V. - Degli Agenti dell'amministrazione che maneggiano valori dello Stato.
+### CAPITOLO V. - Degli Agenti dell'amministrazione che maneggiano valori dello Stato.
 
 #### Art. 58
 
@@ -646,7 +646,7 @@ AGGIORNAMENTO (4)
 
 Il Regio Decreto 17 marzo 1870, n. 5590 ha disposto (con l'articolo unico, comma 1) che "A cominciare dal 1° aprile 1870 andranno in vigore le parti della Legge 22 aprile 1869, n. 5026, che riguardano gli Agenti dell'Amministrazione che maneggiano valori dello Stato, e coloro che s'ingeriscono negli incarichi attribuiti ai detti Agenti, la responsabilita' degli Ufficiali pubblici in genere stipendiati dallo Stato, non che la giurisdizione della Corte dei conti rispetto agli uni ed agli altri (articoli 58, 59, 62 e 63)".
 
-## CAPITOLO VI. - Del rendimento di conti dell'amministrazione dello Stato.
+### CAPITOLO VI. - Del rendimento di conti dell'amministrazione dello Stato.
 
 #### Art. 64
 

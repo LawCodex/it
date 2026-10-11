@@ -120,9 +120,9 @@ CODICE DELLE COMUNICAZIONI ELETTRONICHE
 
 ## ((PARTE I)) - ((NORME GENERALI DI ORGANIZZAZIONE DEL SETTORE))
 
-#### ((TITOLO I)) - ((AMBITO DI APPLICAZIONE, FINALITA' E OBIETTIVI, DEFINIZIONI))
+### ((TITOLO I)) - ((AMBITO DI APPLICAZIONE, FINALITA' E OBIETTIVI, DEFINIZIONI))
 
-##### ((Capo I)) - ((OGGETTO, FINALITA' E DEFINIZIONI))
+#### ((Capo I)) - ((OGGETTO, FINALITA' E DEFINIZIONI))
 
 ###### Art. 1 - Ambito di applicazione
 
@@ -418,7 +418,7 @@ b) agevolando il coordinamento tra gli Stati membri al fine di attuare il presen
 
 c) coordinando i propri approcci all'assegnazione e all'autorizzazione all'uso dello spettro radio e pubblicando relazioni o pareri sulle questioni connesse allo spettro radio.))
 
-##### ((CAPO I-BIS - ASSETTO ISTITUZIONALE E GOVERNANCE))
+#### ((CAPO I-BIS - ASSETTO ISTITUZIONALE E GOVERNANCE))
 
 ###### Art. 6 - Attribuzioni del Ministero, dell'Autorita' per le garanzie nelle comunicazioni e delle altre Amministrazioni competenti
 
@@ -538,9 +538,11 @@ d) definizione di iniziative volte a fornire un sostegno alle persone anziane, p
 
 2\. Restano ferme le competenze dell'Agenzia per la cybersicurezza nazionale in materia di stipula di protocolli d'intesa, convenzioni ed accordi in materia di cybersicurezza.))
 
-##### Capo II - AUTORIZZAZIONE GENERALE ((...))
+#### Capo II - AUTORIZZAZIONE GENERALE ((...))
 
-###### SEZIONE I - Parte generale
+##### SEZIONE I
+
+## Parte generale
 
 ###### Art. 11
 
@@ -762,7 +764,7 @@ L'autorizzazione generale e' sempre sottoposta alla condizione n. 4 della parte 
 
 ((ARTICOLO NON PIU' PREVISTO DAL D.LGS. 8 NOVEMBRE 2021, N. 207))
 
-###### ((SEZIONE II)) - Diritti e obblighi derivanti dall'autorizzazione generale
+##### ((SEZIONE II)) - Diritti e obblighi derivanti dall'autorizzazione generale
 
 ###### Art. 15 - Elenco minimo dei diritti derivanti dall'autorizzazione generale
 
@@ -818,7 +820,7 @@ b) di provvedere, in alternativa, a una separazione strutturale per le attivita'
 
 3\. Se le imprese che forniscono reti pubbliche di comunicazione elettronica o servizi di comunicazione elettronica accessibili al pubblico non sono soggette ai requisiti del diritto delle societa' e non soddisfano i criteri relativi alle piccole e medie imprese previsti dalla vigente normativa nazionale e comunitaria, i loro rendiconti finanziari sono elaborati e presentati a una revisione contabile indipendente e successivamente pubblicati. La revisione e' effettuata in conformita' delle pertinenti norme dell'Unione europea e nazionali. Il presente comma si applica anche alla separazione contabile di cui al comma 1, lettera a).
 
-###### ((SEZIONE III)) - Modifica e revoca
+##### ((SEZIONE III)) - Modifica e revoca
 
 ###### Art. 18
 
@@ -844,7 +846,7 @@ b) di provvedere, in alternativa, a una separazione strutturale per le attivita'
 
 4\. L'intenzione di limitare o revocare i diritti a norma dell'autorizzazione generale o i diritti d'uso individuali dello spettro radio o delle risorse di numerazione senza il consenso del titolare dei diritti e' soggetta a consultazione delle parti interessate in conformita' dell'articolo 23.))
 
-#### ((TITOLO II)) - ((COMUNICAZIONE DI INFORMAZIONI, INDAGINI, MECCANISMI DI CONSULTAZIONE))
+### ((TITOLO II)) - ((COMUNICAZIONE DI INFORMAZIONI, INDAGINI, MECCANISMI DI CONSULTAZIONE))
 
 ###### Art. 20
 
@@ -1026,7 +1028,7 @@ b) risolvere eventuali problemi o controversie in relazione al coordinamento tra
 
 4\. Qualora le azioni di cui ai commi 2 e 3 non abbiano risolto i problemi o le controversie, il Ministero, sentita l'Autorita' per i profili di competenza, puo' chiedere alla Commissione di adottare decisioni rivolte agli Stati membri interessati per risolvere il problema delle interferenze dannose transfrontaliere nel territorio italiano, secondo la procedura di cui all'articolo 118, paragrafo 4, della direttiva 2018/1972/UE.))
 
-#### ((Titolo III)) - ((Attuazione))
+### ((Titolo III)) - ((Attuazione))
 
 ###### Art. 30 - Sanzioni
 
@@ -1138,9 +1140,9 @@ b) ingiunzioni di cessare o ritardare la fornitura di un servizio o di un pacche
 
 9\. Le imprese hanno diritto di ricorrere contro le misure adottate ai sensi del presente articolo, secondo la procedura di cui all'articolo 28.))
 
-#### ((TITOLO IV)) - ((PROCEDURE RELATIVE AL MERCATO INTERNO))
+### ((TITOLO IV)) - ((PROCEDURE RELATIVE AL MERCATO INTERNO))
 
-##### ((CAPO I))
+#### ((CAPO I))
 
 ###### Art. 33
 
@@ -1192,7 +1194,7 @@ b) mantenere il suo progetto di misura.
 
 7\. L'Autorita' puo' ritirare il progetto di misura in qualsiasi fase della procedura.))
 
-##### ((CAPO II)) - ((Assegnazione coerente dello spettro radio))
+#### ((CAPO II)) - ((Assegnazione coerente dello spettro radio))
 
 ###### Art. 35
 
@@ -1244,7 +1246,7 @@ d) il processo e' aperto agli altri Stati membri in qualsiasi momento fino alla 
 
 2\. Qualora il Ministero e l'Autorita', per le rispettive competenze, nonostante l'interesse espresso dai partecipanti al mercato, non agiscano congiuntamente con le autorita' competenti degli altri Stati membri interessati, informano detti partecipanti al mercato in merito alle ragioni della loro decisione.))
 
-##### ((CAPO III)) - ((Procedure di armonizzazione))
+#### ((CAPO III)) - ((Procedure di armonizzazione))
 
 ###### Art. 38
 
@@ -1266,7 +1268,7 @@ d) il processo e' aperto agli altri Stati membri in qualsiasi momento fino alla 
 
 ((3-bis. Il presente articolo non si applica ai requisiti essenziali, alle specifiche d'interfaccia ne' alle norme armonizzate soggette alla direttiva 2014/53/UE, recepita con decreto legislativo 22 giugno 2016, n. 128.))
 
-#### ((TITOLO V)) - ((SICUREZZA))
+### ((TITOLO V)) - ((SICUREZZA))
 
 ###### Art. 40
 
@@ -1290,9 +1292,9 @@ Il D.Lgs. 4 settembre 2024, n. 138, ha disposto (con l'art. 41, comma 4) che "I 
 
 ## ((PARTE II)) - ((RETI))
 
-#### ((TITOLO I)) - ((INGRESSO NEL MERCATO E DIFFUSIONE ))
+### ((TITOLO I)) - ((INGRESSO NEL MERCATO E DIFFUSIONE ))
 
-##### ((CAPO I)) - ((Contributi))
+#### ((CAPO I)) - ((Contributi))
 
 ###### Art. 42 - Contributi per la concessione di diritti di uso dello spettro radio e di diritti di installare strutture
 
@@ -1316,7 +1318,7 @@ c) applicando, al meglio possibile, modalita' di pagamento legate all'effettiva 
 
 6\. I contributi per la concessione di diritti di uso dello spettro radio per le imprese titolari di autorizzazione generale per l'attivita' di operatore di rete televisiva in tecnologia digitale terrestre sono fissati dal Ministero sulla base dei criteri stabiliti dall'articolo 1, commi da 172 a 176, della legge 28 dicembre 2015, n. 208.
 
-##### ((Capo II)) - (( Accesso al suolo (Disposizioni relative a reti ed impianti) ))
+#### ((Capo II)) - (( Accesso al suolo (Disposizioni relative a reti ed impianti) ))
 
 ###### Art. 43 - Infrastrutture di comunicazione elettronica e diritti di passaggio) (ex art. 43 eecc e art. 86 Codice 2003
 
@@ -1672,9 +1674,9 @@ c) definisce gli obblighi dei soggetti tenuti alle prestazioni obbligatorie e le
 
 9\. Nelle more dell'adozione del decreto di cui al comma 6 continuano a trovare applicazione le disposizioni vigenti, anche di natura regolamentare.
 
-##### CAPO III - Accesso allo spettro radio
+#### CAPO III - Accesso allo spettro radio
 
-###### ((SEZIONE I)) - Autorizzazioni
+##### ((SEZIONE I)) - Autorizzazioni
 
 ###### Art. 58 - Gestione dello spettro radio
 
@@ -1924,7 +1926,7 @@ e) modificare i diritti esistenti conformemente al presente decreto quando cio' 
 
 4\. Nell'applicare il comma 2 del presente articolo, l'Autorita' agisce in conformita' delle procedure di cui agli articoli 18, 19, 23 e 35.))
 
-###### ((SEZIONE III)) - Procedure
+##### ((SEZIONE III)) - Procedure
 
 ###### Art. 66
 
@@ -1996,7 +1998,7 @@ d) promuovere l'innovazione e lo sviluppo dell'attivita' delle imprese.
 
 10\. Il presente articolo non pregiudica il trasferimento dei diritti d'uso dello spettro radio in conformita' dell'articolo 64.))
 
-##### ((CAPO IV)) - ((Diffusione e uso delle apparecchiature di rete senza fili))
+#### ((CAPO IV)) - ((Diffusione e uso delle apparecchiature di rete senza fili))
 
 ###### Art. 68 - ex art. 56 eecc
 
@@ -2062,9 +2064,9 @@ b) soddisfano le condizioni di cui all'allegato, lettera A, all'articolo 3 del r
 
 8\. Fatti salvi eventuali accordi commerciali, l'installazione dei punti di accesso senza fili di portata limitata non e' soggetta a contributi o oneri ((con eccezione di quelli previsti dall'articolo 16)).
 
-#### ((TITOLO II)) - ((ACCESSO))
+### ((TITOLO II)) - ((ACCESSO))
 
-##### ((CAPO I)) - ((Disposizioni generali, principi di accesso))
+#### ((CAPO I)) - ((Disposizioni generali, principi di accesso))
 
 ###### Art. 70
 
@@ -2090,7 +2092,7 @@ per l'accesso e l'interconnessione) ))
 
 3\. I negoziati possono essere condotti mediante intermediari neutri laddove le condizioni di concorrenza lo richiedano.))
 
-##### ((CAPO II)) - ((Accesso e interconnessione))
+#### ((CAPO II)) - ((Accesso e interconnessione))
 
 ###### Art. 72
 
@@ -2180,7 +2182,7 @@ ii) sistemi di accesso condizionato e altre risorse correlate.
 
 ((ARTICOLO NON PIU' PREVISTO DAL D.LGS. 8 NOVEMBRE 2021, N. 207))
 
-##### ((CAPO III)) - ((Analisi di mercato e significativo potere di mercato))
+#### ((CAPO III)) - ((Analisi di mercato e significativo potere di mercato))
 
 ###### Art. 74
 
@@ -2274,7 +2276,7 @@ c) entro tre anni dalla data di adesione all'Unione europea per gli Stati membri
 
 8\. Qualora l'Autorita' ritenga di non poter completare l'analisi di un mercato rilevante individuato nella raccomandazione entro il termine fissato al comma 7, puo' chiedere al BEREC assistenza per completare l'analisi del mercato specifico e degli obblighi specifici da imporre. Con tale assistenza l'Autorita' notifica, entro sei mesi dal termine stabilito al comma 7, il progetto di misura alla Commissione europea a norma dell'articolo 33.
 
-##### ((CAPO IV)) - ((Misure correttive di accesso imposte alle imprese detentrici di un significativo potere di mercato))
+#### ((CAPO IV)) - ((Misure correttive di accesso imposte alle imprese detentrici di un significativo potere di mercato))
 
 ###### Art. 79
 
@@ -2626,7 +2628,7 @@ b) ha rispettato le condizioni e il processo comunicati all'Autorita' conformeme
 
 4\. Il presente articolo non pregiudica la disponibilita' di prodotti regolamentati imposta dall'Autorita' sull'infrastruttura di rete aggiornata, a norma delle procedure di cui agli articoli 78 e 79.))
 
-##### ((CAPO V)) - ((Controllo normativo sui servizi al dettaglio))
+#### ((CAPO V)) - ((Controllo normativo sui servizi al dettaglio))
 
 ###### Art. 93
 
@@ -2662,7 +2664,7 @@ Il D.Lgs. 15 febbraio 2016, n. 33, come modificato dal D.L. 14 dicembre 2018, n.
 
 ## ((PARTE III)) - ((SERVIZI))
 
-#### ((TITOLO I)) - ((OBBLIGHI DI SERVIZIO UNIVERSALE))
+### ((TITOLO I)) - ((OBBLIGHI DI SERVIZIO UNIVERSALE))
 
 ###### Art. 94
 
@@ -2806,7 +2808,7 @@ Puo' essere finanziato unicamente il costo netto degli obblighi di cui agli arti
 
 1\. Il Ministero, sentita l'Autorita', puo' decidere di rendere accessibile al pubblico servizio supplementari rispetto ai servizi compresi negli obblighi di servizio universale di cui agli articoli da 94 a 97. In tali casi non e' prescritto un meccanismo di indennizzo che preveda la partecipazione di specifiche imprese.
 
-#### ((TITOLO II)) - Risorse di numerazione
+### ((TITOLO II)) - Risorse di numerazione
 
 ###### Art. 98-sexies - Risorse di numerazione
 
@@ -2896,7 +2898,7 @@ b) accedere a tutti i numeri forniti nell'Unione, a prescindere dalla tecnologia
 
 3\. L'Autorita' definisce l'ubicazione dei punti terminali di rete nel rispetto dei principi di accessibilita' alle numerazioni e considerando che il punto terminale di rete e' il punto di accesso alla rete pubblica definito mediante un indirizzo di rete specifico.
 
-#### ((TITOLO III)) - ((DIRITTI DEGLI UTENTI FINALI))
+### ((TITOLO III)) - ((DIRITTI DEGLI UTENTI FINALI))
 
 ###### Art. 98-undecies
 
@@ -3206,7 +3208,7 @@ L'Autorita' giudiziaria ha facolta' di accedere per fini di giustizia ai predett
 
 2\. L'obbligo di identificazione di cui al comma 1 non si applica alle schede elettroniche (S.I.M.) utilizzate per la fornitura di servizi di tipo 'internet delle cose', installate senza possibilita' di essere estratte all'interno degli oggetti connessi e che, anche se disinstallate, non possono essere utilizzate per effettuare traffico vocale, inviare SMS o fruire del servizio di connessione a internet.
 
-#### ((TITOLO IV)) - DISPOSIZIONI FINALI
+### ((TITOLO IV)) - DISPOSIZIONI FINALI
 
 ###### Art. 98-tricies
 
@@ -3220,7 +3222,7 @@ L'Autorita' giudiziaria ha facolta' di accedere per fini di giustizia ai predett
 
 ## Parte IV - ((Reti e attivita' di comunicazione elettronica ad uso privato))
 
-##### Capo I - DISPOSIZIONI GENERALI
+#### Capo I - DISPOSIZIONI GENERALI
 
 ###### Art. 99
 
@@ -3290,7 +3292,7 @@ Sospensione - revoca - decadenza
 
 3\. La decadenza dall'autorizzazione generale e' pronunciata quando venga meno uno dei requisiti previsti dal Codice.
 
-##### Capo II - CATEGORIE DI RETI E SERVIZI DI COMUNICAZIONE ELETTRONICA AD USO PRIVATO
+#### Capo II - CATEGORIE DI RETI E SERVIZI DI COMUNICAZIONE ELETTRONICA AD USO PRIVATO
 
 ###### Art. 104
 
@@ -3450,7 +3452,7 @@ c) gli attestati dell'avvenuto versamento del contributo a titolo di rimborso de
 
 16\. Le autorizzazioni generali di cui all'articolo 104, comma 1, lettere a) e b), possono essere cedute a terzi, anche parzialmente e sotto qualsiasi forma, previa comunicazione al Ministero. Il Ministero, entro sei settimane dalla presentazione della relativa istanza da parte dei soggetti cedente e cessionario, puo' comunicare il proprio diniego, ove non ravvisi la sussistenza dei requisiti oggettivi e soggettivi in capo al soggetto cessionario, per il rispetto delle condizioni di cui all'autorizzazione medesima. Il termine e' interrotto per una sola volta se il Ministero richiede chiarimenti o documentazione ulteriore e decorre nuovamente dalla data in cui pervengono al Ministero stesso i richiesti chiarimenti o documenti.
 
-##### Capo III - RILASCIO DI AUTORIZZAZIONI A RAPPRESENTANZE DIPLOMATICHE STRANIERE
+#### Capo III - RILASCIO DI AUTORIZZAZIONI A RAPPRESENTANZE DIPLOMATICHE STRANIERE
 
 ###### Art. 108
 
@@ -3498,7 +3500,7 @@ Revoca
 
 1\. Le autorizzazioni di cui all'articolo 108 possono essere revocate dal Ministero in caso di inosservanza, da parte della rappresentanza diplomatica straniera, delle clausole stabilite nella convenzione. Esse possono, altresi', essere revocate, sospese o sottoposte a particolari modalita' di esercizio, in caso di gravi necessita' pubbliche, con provvedimento insindacabile del Ministero, da comunicarsi per il tramite del Ministero degli affari esteri.
 
-##### Capo IV - DISPOSIZIONI COMUNI ALLE RETI E SERVIZI DI COMUNICAZIONE ELETTRONICA AD USO PRIVATO
+#### Capo IV - DISPOSIZIONI COMUNI ALLE RETI E SERVIZI DI COMUNICAZIONE ELETTRONICA AD USO PRIVATO
 
 ###### Art. 112
 
@@ -3614,7 +3616,7 @@ Licenze ed autorizzazioni preesistenti
 
 1\. Le licenze individuali e le autorizzazioni generali preesistenti in materia di reti e servizi di comunicazione elettronica ad uso privato continuano ad essere valide fino alla loro naturale scadenza e ad esse si applicano le disposizioni del presente Titolo.
 
-##### Capo V - IMPIANTO ED ESERCIZIO DI STAZIONI RADIOELETTRICHE RICHIEDENTI LA CONCESSIONE DI DIRITTI DI USO PER LE FREQUENZE RADIO
+#### Capo V - IMPIANTO ED ESERCIZIO DI STAZIONI RADIOELETTRICHE RICHIEDENTI LA CONCESSIONE DI DIRITTI DI USO PER LE FREQUENZE RADIO
 
 ###### Art. 126
 
@@ -3652,7 +3654,7 @@ Emittenza privata
 
 > "17. Le imprese di radiodiffusione sonora e televisiva operanti in ambito locale e le imprese di radiodiffusione sonora operanti in ambito nazionale possono effettuare collegamenti in diretta sia attraverso ponti mobili, sia attraverso collegamenti temporanei funzionanti su base non interferenziale con altri utilizzatori dello spettro radio, in occasione di avvenimenti di cronaca, politica, spettacolo, cultura, sport e attualita'. Le stesse imprese, durante la diffusione dei programmi e sulle stesse frequenze assegnate, possono trasmettere dati e informazioni all'utenza. La concessione costituisce titolo per l'utilizzazione dei ponti mobili e dei collegamenti temporanei, nonche' per trasmettere dati e informazioni all'utenza".».
 
-##### Capo VI - SERVIZIO RADIOMOBILE PROFESSIONALE AUTOGESTITO
+#### Capo VI - SERVIZIO RADIOMOBILE PROFESSIONALE AUTOGESTITO
 
 ###### Art. 130
 
@@ -3696,7 +3698,7 @@ Adeguamento dei sistemi esistenti
 
 1\. I sistemi radiomobili professionali in tecnica multiaccesso, in esercizio alla data di entrata in vigore del Codice, devono adeguarsi alle disposizioni in esso contenute entro diciotto mesi dalla suddetta data.
 
-##### Capo VII - RADIOAMATORI
+#### Capo VII - RADIOAMATORI
 
 ###### Art. 134
 
@@ -3860,7 +3862,7 @@ Banda cittadina - CB
 
 ## ((Parte V)) - TUTELA DEGLI IMPIANTI SOTTOMARINI DI COMUNICAZIONE ELETTRONICA
 
-##### Capo I - IMPIANTI SOTTOMARINI
+#### Capo I - IMPIANTI SOTTOMARINI
 
 ###### Art. 146
 
@@ -3990,7 +3992,7 @@ Sanzioni civili.
 
 ## ((Parte VI)) - IMPIANTI RADIOELETTRICI
 
-##### Capo I - DISPOSIZIONI DI CARATTERE GENERALE
+#### Capo I - DISPOSIZIONI DI CARATTERE GENERALE
 
 ###### Art. 158
 
@@ -4038,7 +4040,7 @@ Norme tecniche per gli impianti
 
 1\. Tutti gli impianti autorizzati, compresi quelli eseguiti a cura delle Amministrazioni dello Stato, devono rispondere alle norme tecniche vigenti in materia ed essere costituiti esclusivamente da apparecchiature rispondenti alle vigenti norme.
 
-##### Capo II - ABILITAZIONE ALL'ESERCIZIO DEI SERVIZI RADIOELETTRICI IN QUALITA' DI OPERATORE
+#### Capo II - ABILITAZIONE ALL'ESERCIZIO DEI SERVIZI RADIOELETTRICI IN QUALITA' DI OPERATORE
 
 ###### Art. 162
 
@@ -4076,9 +4078,9 @@ g) la revoca, la sospensione e la decadenza dei titoli di abilitazione.
 
 2\. Dall'emanazione del regolamento di cui al comma 1 non derivano ulteriori oneri a carico del bilancio dello Stato ed i costi di funzionamento delle commissioni esaminatrici sono coperti esclusivamente con gli introiti dei contributi fissati dall'articolo 5 dell'allegato n. 25.
 
-##### Capo III - SERVIZIO RADIOELETTRICO MOBILE MARITTIMO
+#### Capo III - SERVIZIO RADIOELETTRICO MOBILE MARITTIMO
 
-###### Sezione I - Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### Art. 164
 
@@ -4096,7 +4098,7 @@ Definizione di nave - Altre definizioni
 
 2\. Per tutti gli altri termini relativi al servizio radioelettrico mobile marittimo, si intendono valide le definizioni date dal regolamento delle radiocomunicazioni dell'UIT.
 
-###### Sezione II - Prescrizioni ed obblighi per le stazioni e per gli apparati radioelettrici a bordo delle navi
+##### Sezione II - Prescrizioni ed obblighi per le stazioni e per gli apparati radioelettrici a bordo delle navi
 
 ###### Art. 166
 
@@ -4170,7 +4172,7 @@ Giornale delle comunicazioni radio
 
 1\. Fermo restando l'obbligo del giornale radio di bordo, prescritto dalla legislazione nazionale e dalle convenzioni internazionali, copia delle registrazioni relative alle chiamate nonche' alla corrispondenza effettuata deve essere trasmessa periodicamente dal capoposto o dall'operatore unico alla societa' che gestisce il servizio radioelettrico di bordo, ai sensi dell'articolo 183.
 
-###### Sezione III - Sorveglianza sul servizio radioelettrico di bordo
+##### Sezione III - Sorveglianza sul servizio radioelettrico di bordo
 
 ###### Art. 174
 
@@ -4230,7 +4232,7 @@ Spese per i collaudi e le ispezioni
 
 1\. Per i collaudi e le ispezioni di cui all'articolo 176 effettuati dai propri funzionari, sono dovuti al Ministero, da parte dell'armatore o della societa' che gestisce il servizio, il rimborso delle spese e le quote di surrogazione del personale, stabilite con decreto del ((Ministro delle imprese e del made in Italy)) di concerto con il Ministro dell'economia e delle finanze, per le prestazioni rese ad Enti diversi e privati.
 
-###### Sezione IV - Categorie delle stazioni radioelettriche di nave
+##### Sezione IV - Categorie delle stazioni radioelettriche di nave
 
 ###### Art. 179
 
@@ -4248,7 +4250,7 @@ d) 4ª categoria: sono classificate in questa categoria tutte le stazioni radioe
 
 2\. Il Ministero, sentito il Ministero delle infrastrutture e dei trasporti, determina in quali delle categorie suddette sara' assegnata ogni stazione radioelettrica di bordo. Tale indicazione dovra' essere riportata nella licenza di esercizio radioelettrico di cui all'articolo 183.
 
-###### Sezione V - Personale delle stazioni radioelettriche di bordo
+##### Sezione V - Personale delle stazioni radioelettriche di bordo
 
 ###### Art. 180
 
@@ -4268,7 +4270,7 @@ Sanzioni disciplinari
 
 2\. Per le infrazioni commesse da personale addetto ai servizi radiomarittimi di bordo, non iscritto alla gente di mare, il Ministero, anche su proposta di quello delle infrastrutture e dei trasporti, applica direttamente le sanzioni previste dal presente Titolo.
 
-###### Sezione VI - Disposizioni in materia di impianto ed esercizio di stazioni per il servizio radiomarittimo
+##### Sezione VI - Disposizioni in materia di impianto ed esercizio di stazioni per il servizio radiomarittimo
 
 ###### Art. 183
 
@@ -4314,7 +4316,7 @@ Sospensione, revoca, decadenza
 
 2\. La licenza di esercizio di cui all'articolo 186 e' dichiarata decaduta nel caso di radiazione della nave dal corrispondente registro, ovvero quando siano venuti meno i requisiti richiesti per il rilascio della stessa.
 
-##### Capo IV - SERVIZIO RADIOELETTRICO PER LE NAVI DA PESCA
+#### Capo IV - SERVIZIO RADIOELETTRICO PER LE NAVI DA PESCA
 
 ###### Art. 188
 
@@ -4350,7 +4352,7 @@ Disposizioni applicabili
 
 1\. In quanto non diversamente stabilito dal presente Capo, alle stazioni radioelettriche a bordo delle navi destinate alla pesca marittima si applicano le disposizioni relative all'esercizio dei servizi radioelettrici sulle navi, di cui al Capo III del presente Titolo.
 
-##### Capo V - SERVIZIO RADIOELETTRICO PER LE NAVI DA DIPORTO
+#### Capo V - SERVIZIO RADIOELETTRICO PER LE NAVI DA DIPORTO
 
 ###### Art. 193
 
@@ -4404,7 +4406,7 @@ Disposizioni applicabili
 
 1\. Per quanto non diversamente stabilito dal presente Capo, alle stazioni radioelettriche bordo delle navi da diporto si applicano le disposizioni relative all'esercizio dei servizi radioelettrici sulle navi, di cui al Capo III del presente Titolo.
 
-##### Capo VI - SERVIZIO RADIOELETTRICO MOBILE AERONAUTICO
+#### Capo VI - SERVIZIO RADIOELETTRICO MOBILE AERONAUTICO
 
 ###### Art. 198
 
@@ -4478,7 +4480,7 @@ Autorizzazione all'impianto ed all'esercizio di stazioni radioelettriche a bordo
 
 1\. Le norme per il rilascio delle autorizzazioni all'impianto ed all'esercizio di stazioni radioelettriche a bordo degli aeromobili sono stabilite con decreto del ((Ministro delle imprese e del made in Italy)).
 
-##### Capo VII - DISPOSIZIONI VARIE
+#### Capo VII - DISPOSIZIONI VARIE
 
 ###### Art. 208
 
@@ -4568,9 +4570,9 @@ Uso indebito di segnale di soccorso
 
 1\. Chiunque usi indebitamente il segnale di soccorso riservato alle navi od alle aeronavi in pericolo, compreso quello emesso dalle radioboe d'emergenza, e' punito con l'arresto fino a sei mesi o con l'ammenda fino a euro 670,00, salvo che il fatto costituisca reato punito con pena piu' grave.
 
-#### TITOLO VI - DISPOSIZIONI FINALI
+### TITOLO VI - DISPOSIZIONI FINALI
 
-##### Capo I - DISPOSIZIONI FINALI
+#### Capo I - DISPOSIZIONI FINALI
 
 ###### Art. 218
 
@@ -4834,9 +4836,9 @@ La Loggia, Ministro per gli affari regionali
 
 Visto, il Guardasigilli: Castelli
 
-#### TITOLO VI - DISPOSIZIONI FINALI
+### TITOLO VI - DISPOSIZIONI FINALI
 
-##### Capo I - DISPOSIZIONI FINALI
+#### Capo I - DISPOSIZIONI FINALI
 
 ###### Allegato n.1
 
@@ -6641,11 +6643,11 @@ TETRA autogestito
 
 452,7250 - 462,7250
 
-### ALLEGATO N. 25 - CONTRIBUTI
+## ALLEGATO N. 25 - CONTRIBUTI
 
-#### TITOLO I - DISPOSIZIONI DI CARATTERE GENERALE
+### TITOLO I - DISPOSIZIONI DI CARATTERE GENERALE
 
-##### Capo I - DISPOSIZIONI DI CARATTERE GENERALE
+#### Capo I - DISPOSIZIONI DI CARATTERE GENERALE
 
 Allegato n. 25 (art. 116)
 
@@ -6715,9 +6717,9 @@ Contributo per esami
 
 1\. Il contributo per esame per il conseguimento dei titoli di abilitazione all'espletamento dei servizi radioelettrici e' fissato in euro 25,00.
 
-#### TITOLO II - CONTRIBUTI AMMINISTRATIVI PER AUTORIZZAZIONI GENERALI CON CONCESSIONE DEL DIRITTO D'USO DELLE FREQUENZE
+### TITOLO II - CONTRIBUTI AMMINISTRATIVI PER AUTORIZZAZIONI GENERALI CON CONCESSIONE DEL DIRITTO D'USO DELLE FREQUENZE
 
-##### Capo I - CONTRIBUTI AMMINISTRATIVI
+#### Capo I - CONTRIBUTI AMMINISTRATIVI
 
 ###### Art. 6
 
@@ -6757,9 +6759,9 @@ e) euro 5.000,00 nei casi di cui al medesimo articolo 6, comma 1, lettera e).
 
 2\. Per il servizio fisso punto-punto si applicano le disposizioni di cui all'articolo 6, comma 2.
 
-##### Capo II - CONTRIBUTI PER L'USO DI RISORSA SCARSA - DEFINIZIONI E PARAMETRI
+#### Capo II - CONTRIBUTI PER L'USO DI RISORSA SCARSA - DEFINIZIONI E PARAMETRI
 
-###### Sezione I - Definizioni e parametri
+##### Sezione I - Definizioni e parametri
 
 ###### Art. 8
 
@@ -6805,7 +6807,7 @@ e) posizionamento della banda nello spettro;
 
 f) numero di apparati radioelettrici o di tipologie di apparati.
 
-###### Sezione II - Servizio fisso
+##### Sezione II - Servizio fisso
 
 ###### Art. 10
 
@@ -7180,7 +7182,7 @@ di terminazione del segnale stesso. Tali apparati, ai fini del contributo di cui
 
 terminali o periferiche.
 
-###### Sezione III - Servizio mobile terrestre
+##### Sezione III - Servizio mobile terrestre
 
 ###### Art. 16
 
@@ -7293,7 +7295,7 @@ impiegati sulla frequenza di riferimento del progetto; agli apparati eccedenti s
 
 frequenze indicate nel progetto.
 
-###### Sezione IV - Disposizioni comuni ai servizi fisso e mobile terrestre
+##### Sezione IV - Disposizioni comuni ai servizi fisso e mobile terrestre
 
 ###### Art. 19
 
@@ -7345,7 +7347,7 @@ carico di ciascun titolare e' effettuata in proporzione all'entita' percentuale 
 
 contributo per la risorsa.
 
-###### Sezione V - Multiaccesso
+##### Sezione V - Multiaccesso
 
 ###### Art. 22
 
@@ -7392,7 +7394,7 @@ Sistemi multiaccesso numerici
 
 4\. Le disposizioni di cui ai commi 1, 2 e 3 sono applicate, ove ne ricorra il caso, per ogni tipologia di multiaccesso numerico.
 
-###### Sezione VI - Servizi mobile marittimo e mobile aeronautico
+##### Sezione VI - Servizi mobile marittimo e mobile aeronautico
 
 ###### Art. 24
 
@@ -7420,7 +7422,7 @@ Servizio mobile aeronautico
 
 4\. Per frequenze superiori a 1.000 MHz, si applicano le disposizioni di cui agli articoli 11, 12, 13, 14, per quanto riguarda le larghezze di banda di riferimento di base combinata con i coefficienti moltiplicativi di riferimento, fermo restando quanto previsto dal comma 3.
 
-###### Sezione VII - Altri servizi
+##### Sezione VII - Altri servizi
 
 ###### Art. 26
 
@@ -7444,7 +7446,7 @@ Servizi di radioastronomia ed equiparati
 
 3\. I servizi di "remote sensing" sono equiparati ai servizi di radioastronomia ai fini della determinazione del contributo e della protezione.
 
-###### Sezione VIII - Servizi via satellite
+##### Sezione VIII - Servizi via satellite
 
 ###### Art. 28
 
@@ -7484,7 +7486,7 @@ Servizi via satellite
 
 5\. Sono fatti salvi gli obblighi di coordinamento delle frequenze e di nulla osta tecnico, ove applicabile, per l'esercizio di particolari gamme di frequenze spaziali secondo quanto previsto dal piano nazionale di ripartizione delle frequenze.
 
-###### Sezione IX - Esenzioni e riduzioni
+##### Sezione IX - Esenzioni e riduzioni
 
 ###### Art. 32
 
@@ -7548,7 +7550,7 @@ n) i servizi gestiti dalle scuole di sci.
 
 11\. Il rappresentante legale delle organizzazioni aventi titolo alle esenzioni o alle riduzioni, all'atto della presentazione della domanda di autorizzazione generale, e' tenuto ad autocertificare la sussistenza dei titoli e l'espletamento dell'attivita' da esercitare.
 
-##### Capo III - AUTORIZZAZIONI GENERALI
+#### Capo III - AUTORIZZAZIONI GENERALI
 
 ###### Art. 33
 
@@ -7690,7 +7692,7 @@ b) le attivita' di telemetria, telecontrollo e telemisure esercitate nella banda
 
 2\. ((COMMA ABROGATO DAL D.L. 16 LUGLIO 2020, N. 76)).
 
-##### Capo IV - DISPOSIZIONI COMUNI
+#### Capo IV - DISPOSIZIONI COMUNI
 
 ###### Art. 38
 
@@ -7788,11 +7790,11 @@ Contributi provvisori - conguagli
 
 3\. I titolari di autorizzazione generale per l'impianto e l'esercizio di stazioni radioamatoriali, di cui all'articolo 35, e di stazioni CB ed assimilate, di cui agli articoli 36 e 37, sono tenuti al versamento dei contributi stabiliti nei citati articoli 35, 36 e 37 o del relativo conguaglio entro 45 giorni dalla data di entrata in vigore del Codice, salva la facolta' di rinunciare entro il medesimo termine a decorrere dalla data della relativa comunicazione.
 
-### ALLEGATO N. 26 - ADEGUAMENTO NORMATIVA RADIOAMATORIALE
+## ALLEGATO N. 26 - ADEGUAMENTO NORMATIVA RADIOAMATORIALE
 
-##### Capo I - ATTIVITA' RADIOAMATORIALE
+#### Capo I - ATTIVITA' RADIOAMATORIALE
 
-###### Sezione I - Scopo ed ambito di applicazione
+##### Sezione I - Scopo ed ambito di applicazione
 
 Allegato n. 26 con sub allegati A, A1, B, C, D, E, F, G, H (art. 134)
 
@@ -7950,7 +7952,7 @@ Per le singole persone fisiche, l'autorizzazione generale di cui all'art. 1, com
 
 3\. Qualora le associazioni radioamatoriali legalmente costituite non siano strutturate statutariamente in sezioni sul territorio nazionale, la dichiarazione di cui al modello sub allegato L va prodotta dalla sede legale delle associazioni per conto delle articolazioni locali)).
 
-###### Sezione II - Norme tecniche
+##### Sezione II - Norme tecniche
 
 ###### Art. 11
 
@@ -8018,7 +8020,7 @@ Per le singole persone fisiche, l'autorizzazione generale di cui all'art. 1, com
 
 2\. L'installazione dell'impianto d'antenna non deve provocare turbative e interferenze ad altri impianti di radiocomunicazioni)).
 
-##### Capo II - DISPOSIZIONI FINALI E TRANSITORIE
+#### Capo II - DISPOSIZIONI FINALI E TRANSITORIE
 
 ###### Art. 18
 

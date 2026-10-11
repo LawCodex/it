@@ -44,7 +44,7 @@ il seguente decreto legislativo:
 
 ## TITOLO I - PRINCIPI GENERALI
 
-###### Art. 1 - Ambito di applicazione
+#### Art. 1 - Ambito di applicazione
 
 (Legge 6 marzo 1998, n. 40, art. 1)
 
@@ -64,7 +64,7 @@ il seguente decreto legislativo:
 
 7\. Prima dell'emanazione, lo schema del regolamento di cui al comma 6 e' trasmesso al Parlamento per l'acquisizione del parere delle Commissioni competenti per materia, che si esprimono entro trenta giorni. Decorso tale termine, il regolamento e' emanato anche in mancanza del parere.
 
-###### Art. 2 - Diritti e doveri dello straniero
+#### Art. 2 - Diritti e doveri dello straniero
 
 (Legge 6 marzo 1998, n. 40, art. 2
 
@@ -92,7 +92,7 @@ legge 30 dicembre 1986, n. 943, art. 1)
 
 > \- La legge 10 aprile 1981, n. 158, reca: "Ratifica ed esecuzione delle convenzioni numeri 92, 133 e 143 dell'Organizzazione internazionale del lavoro".
 
-###### Art. 2-bis
+#### Art. 2-bis
 
 (( (Comitato per il coordinamento e il monitoraggio) ))
 
@@ -104,7 +104,7 @@ legge 30 dicembre 1986, n. 943, art. 1)
 
 4\. Con regolamento, da emanare ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, e successive modificazioni, su proposta del Presidente del Consiglio dei ministri, di concerto con il Ministro degli affari esteri, con il Ministro dell'interno e con il Ministro per le politiche comunitarie, sono definite le modalita' di coordinamento delle attivita' del gruppo tecnico con le strutture della Presidenza del Consiglio dei ministri.))
 
-###### Art. 3
+#### Art. 3
 
 Politiche migratorie
 
@@ -128,13 +128,11 @@ Politiche migratorie
 
 8\. Lo schema del documento programmatico di cui al comma 7 e' trasmesso al Parlamento per l'acquisizione del parere delle Commissioni competenti per materia, che si esprimono entro trenta giorni. Decorso tale termine, il decreto e' emanato anche in mancanza del parere.
 
-## TITOLO II - DISPOSIZIONI SULL'INGRESSO, IL SOGGIORNO E L'ALLONTANAMENTO
+## TITOLO II - DISPOSIZIONI SULL'INGRESSO, IL SOGGIORNO E L'ALLONTANAMENTO DAL TERRITORIO DELLO STATO
 
-### DAL TERRITORIO DELLO STATO - CAPO I
+### CAPO I - DISPOSIZIONI SULL'INGRESSO E IL SOGGIORNO
 
-#### DISPOSIZIONI SULL'INGRESSO E IL - SOGGIORNO
-
-###### Art. 4
+#### Art. 4
 
 Ingresso nel territorio dello Stato
 
@@ -204,7 +202,7 @@ AGGIORNAMENTO (104)
 
 Il D.L. 11 ottobre 2024, n. 145, convertito con modificazioni dalla L. 9 dicembre 2024, n. 187, ha disposto (con l'art. 1, comma 2) che "Le disposizioni di cui al comma 1, lettere a), numero 1), ed e), numero 4), si applicano alle domande di visto nazionale presentate a partire dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto. Le restanti disposizioni di cui al comma 1 si applicano dalla data di decorrenza delle disposizioni per l'anno 2025 di cui al decreto del Presidente del Consiglio dei ministri 27 settembre 2023, pubblicato nella Gazzetta Ufficiale n. 231 del 3 ottobre 2023".
 
-###### Art. 4-bis - Accordo di integrazione
+#### Art. 4-bis - Accordo di integrazione
 
 1\. Ai fini di cui al presente testo unico, si intende con integrazione quel processo finalizzato a promuovere la convivenza dei cittadini italiani e di quelli stranieri, nel rispetto dei valori sanciti dalla Costituzione italiana, con il reciproco impegno a partecipare alla vita economica, sociale e culturale della societa'.
 
@@ -226,7 +224,7 @@ AGGIORNAMENTO (122)
 
 Il D.Lgs. 16 aprile 2026, n. 83 ha disposto (con l'art. 4, comma 1) che "Le disposizioni di cui al presente decreto si applicano a decorrere dal 22 maggio 2026".
 
-###### Art. 4-ter
+#### Art. 4-ter
 
 (( (Proroga del visto). ))
 
@@ -238,7 +236,7 @@ Il D.Lgs. 16 aprile 2026, n. 83 ha disposto (con l'art. 4, comma 1) che "Le disp
 
 4\. Le informazioni sulla proroga del visto, memorizzate nel sistema di informazione visti (VIS) conformemente all'articolo 14 del regolamento (CE) n. 767/2008 del Parlamento europeo e del Consiglio, del 9 luglio 2008, concernente il VIS e lo scambio di dati tra Stati membri sui visti per soggiorni di breve durata (regolamento VIS), sono registrate negli archivi del Centro elaborazione dati di cui all'articolo 8 della legge 1° aprile 1981, n. 121)).
 
-###### Art. 5
+#### Art. 5
 
 Permesso di soggiorno
 
@@ -388,7 +386,7 @@ AGGIORNAMENTO (122)
 
 Il D.Lgs. 16 aprile 2026, n. 83 ha disposto (con l'art. 4, comma 1) che "Le disposizioni di cui al presente decreto si applicano a decorrere dal 22 maggio 2026".
 
-###### Art. 5-bis - Contratto di soggiorno per lavoro subordinato
+#### Art. 5-bis - Contratto di soggiorno per lavoro subordinato
 
 1\. Il contratto di soggiorno per lavoro subordinato stipulato fra un datore di lavoro italiano o straniero regolarmente soggiornante in Italia e un prestatore di lavoro, cittadino di uno Stato non appartenente all'Unione europea o apolide, contiene:
 
@@ -406,7 +404,7 @@ AGGIORNAMENTO (104)
 
 Il D.L. 11 ottobre 2024, n. 145, convertito con modificazioni dalla L. 9 dicembre 2024, n. 187, ha disposto (con l'art. 1, comma 2) che "Le disposizioni di cui al comma 1, lettere a), numero 1), ed e), numero 4), si applicano alle domande di visto nazionale presentate a partire dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto. Le restanti disposizioni di cui al comma 1 si applicano dalla data di decorrenza delle disposizioni per l'anno 2025 di cui al decreto del Presidente del Consiglio dei ministri 27 settembre 2023, pubblicato nella Gazzetta Ufficiale n. 231 del 3 ottobre 2023".
 
-###### Art. 6
+#### Art. 6
 
 Facolta' ed obblighi inerenti al soggiorno
 
@@ -454,7 +452,7 @@ h-bis) LETTERA ABROGATA DAL D.L. 10 MARZO 2023, N. 20, CONVERTITO CON MODIFICAZI
 
 10\. Contro i provvedimenti di cui agli articoli 4-ter, 5 e al presente articolo e' ammesso ricorso al tribunale amministrativo regionale competente.
 
-###### Art. 7
+#### Art. 7
 
 Obblighi dell'ospitante e del datore di lavoro
 
@@ -466,13 +464,13 @@ Obblighi dell'ospitante e del datore di lavoro
 
 2-bis. Le violazioni delle disposizioni di cui al presente articolo ((sono soggette alla sanzione amministrativa del pagamento di una somma da 500 a 3.500 euro)).
 
-###### Art. 8 - Disposizioni particolari
+#### Art. 8 - Disposizioni particolari
 
 (R.d. 18 giugno 1931, n. 773, art. 149)
 
 1\. Le disposizioni del presente capo non si applicano ai componenti del sacro collegio e del corpo diplomatico e consolare.
 
-###### Art. 9
+#### Art. 9
 
 Permesso di soggiorno UE per soggiornanti di lungo periodo
 
@@ -560,7 +558,7 @@ AGGIORNAMENTO (29)
 
 La Corte Costituzionale, con sentenza 14-23 gennaio 2009, n. 11 (in G.U. 1a s.s. 28/1/2009, n. 4) ha dichiarato l'illegittimita' costituzionale del comma 1 del presente articolo 9, "nella parte in cui esclude che la pensione di inabilita', di cui all'art. 12 della legge 30 marzo 1971, n. 118 (Conversione in legge del d.l. 30 gennaio 1971, n. 5 e nuove norme in favore dei mutilati ed invalidi civili), possa essere attribuita agli stranieri extracomunitari soltanto perche' essi non risultano in possesso dei requisiti di reddito gia' stabiliti per la carta di soggiorno ed ora previsti, per effetto del D.Lgs. n. 3 del 2007, per il permesso di soggiorno CE per soggiornanti di lungo periodo".
 
-###### Art. 9-bis
+#### Art. 9-bis
 
 Stranieri in possesso di un permesso di soggiorno UE per soggiornanti di lungo periodo rilasciato da altro Stato membro
 
@@ -598,7 +596,7 @@ AGGIORNAMENTO (104)
 
 Il D.L. 11 ottobre 2024, n. 145, convertito con modificazioni dalla L. 9 dicembre 2024, n. 187, ha disposto (con l'art. 1, comma 2) che "Le disposizioni di cui al comma 1, lettere a), numero 1), ed e), numero 4), si applicano alle domande di visto nazionale presentate a partire dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto. Le restanti disposizioni di cui al comma 1 si applicano dalla data di decorrenza delle disposizioni per l'anno 2025 di cui al decreto del Presidente del Consiglio dei ministri 27 settembre 2023, pubblicato nella Gazzetta Ufficiale n. 231 del 3 ottobre 2023".
 
-###### Art. 9-ter - Status di soggiornante di lungo periodo-CE per i titolari di Carta blu UE
+#### Art. 9-ter - Status di soggiornante di lungo periodo-CE per i titolari di Carta blu UE
 
 1\. Lo straniero titolare di Carta blu UE rilasciata da un altro Stato membro ed autorizzato al soggiorno in Italia alle condizioni previste dall'articolo 27-quater, puo' chiedere al Questore il rilascio del ((permesso di soggiorno UE per soggiornanti di lungo periodo)), di cui all'articolo 9.
 
@@ -616,13 +614,11 @@ b) di essere in possesso, da almeno due anni, di un permesso Carta blu UE ai sen
 
 6\. Ai familiari dello straniero titolare di un ((permesso di soggiorno UE per soggiornanti di lungo periodo)) concesso ai sensi del presente articolo, in possesso dei requisiti di cui all'articolo 9, comma 1, e' rilasciato il ((permesso di soggiorno UE per soggiornanti di lungo periodo)) qualora abbiano soggiornato, legalmente ed ininterrottamente, per cinque anni nel territorio dell'Unione di cui gli ultimi due nel territorio nazionale.
 
-## TITOLO II - DISPOSIZIONI SULL'INGRESSO, IL SOGGIORNO E L'ALLONTANAMENTO
+## TITOLO II - DISPOSIZIONI SULL'INGRESSO, IL SOGGIORNO E L'ALLONTANAMENTO DAL TERRITORIO DELLO STATO
 
-### DAL TERRITORIO DELLO STATO - CAPO II
+### CAPO II - CONTROLLO DELLE FRONTIERE, RESPINGIMENTO ED ESPULSIONE
 
-#### CONTROLLO DELLE FRONTIERE, - RESPINGIMENTO ED ESPULSIONE
-
-###### Art. 10
+#### Art. 10
 
 Respingimento
 
@@ -672,7 +668,7 @@ AGGIORNAMENTO (123)
 
 Il D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 12, comma 2, lettera a)) che "al comma 2-quater, primo periodo, le parole: «ingresso», sono sostituite dalle parole: «ingresso o reingresso»".
 
-###### Art. 10-bis - Ingresso e soggiorno illegale nel territorio dello Stato
+#### Art. 10-bis - Ingresso e soggiorno illegale nel territorio dello Stato
 
 1\. Salvo che il fatto costituisca piu' grave reato, lo straniero che fa ingresso ovvero si trattiene nel territorio dello Stato, in violazione delle disposizioni del presente testo unico nonche' di quelle di cui all'articolo 1 della legge 28 maggio 2007, n. 68, e' punito con l'ammenda da 5.000 a 10.000 euro. Al reato di cui al presente comma non si applica l'articolo 162 del codice penale.
 
@@ -686,7 +682,7 @@ Il D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 12, comma 2, lettera a))
 
 6\. Nel caso di presentazione di una domanda di protezione internazionale di cui al decreto legislativo 19 novembre 2007, n. 251, il procedimento e' sospeso. Acquisita la comunicazione del riconoscimento della protezione internazionale di cui al decreto legislativo 19 novembre 2007, n. 251, ovvero del rilascio del permesso di soggiorno nelle ipotesi di cui all'articolo 32, comma 3, del decreto legislativo 28 gennaio 2008, n. 25, nonche' nelle ipotesi di cui agli articoli 18, 18-bis, ((18-ter,)) 20-bis ((e)) 42-bis del presente testo unico e nelle ipotesi di cui all'articolo 10 della legge 7 aprile 2017, n. 47, il giudice pronuncia sentenza di non luogo a procedere.
 
-###### Art. 10-ter
+#### Art. 10-ter
 
 ((Disposizioni per l'identificazione dei cittadini stranieri rintracciati in posizione di irregolarita' o soccorsi nel corso di operazioni di salvataggio in mare o che non soddisfano le condizioni di ingresso di cui all'articolo 6 del regolamento (UE) 2016/399))
 
@@ -734,7 +730,7 @@ AGGIORNAMENTO (104)
 
 Il D.L. 11 ottobre 2024, n. 145, convertito con modificazioni dalla L. 9 dicembre 2024, n. 187, ha disposto (con l'art. 19, comma 1) che "Le disposizioni del capo IV si applicano decorsi trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto".
 
-###### Art. 10-quater
+#### Art. 10-quater
 
 (( (Convalida del fermo per accertamenti).))
 
@@ -754,7 +750,7 @@ Contestualmente alla fissazione dell'udienza il giudice, ove necessario, nomina 
 
 8\. ((La convalida comporta la permanenza nel luogo in cui gli accertamenti sono compiuti, per un periodo massimo di settantadue ore a decorrere dal momento in cui lo straniero e' posto a disposizione delle autorita' di pubblica sicurezza o di frontiera ai sensi dell'articolo 10-ter, comma 2-quinquies, primo periodo.))
 
-###### Art. 11
+#### Art. 11
 
 Potenziamento e coordinamento dei controlli di frontiera
 
@@ -778,7 +774,7 @@ Potenziamento e coordinamento dei controlli di frontiera
 
 6\. Presso i valichi di frontiera sono previsti sevizi di accoglienza al fine di fornire informazioni e assistenza agli stranieri che intendano presentare domanda di asilo o fare ingresso in Italia per un soggiorno di durata superiore a tre mesi. Tali servizi sono messi a disposizione, ove possibile, all'interno della zona di transito.
 
-###### Art. 12
+#### Art. 12
 
 Disposizioni contro le immigrazioni clandestine
 
@@ -878,7 +874,7 @@ La Corte Costituzionale, con sentenza 8 febbraio - 10 marzo 2022, n. 63, (in G.U
 
 "l'illegittimita' costituzionale dell'art. 12, comma 3, lettera d), del decreto legislativo 25 luglio 1998, n. 286 (Testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero), limitatamente alle parole «o utilizzando servizi internazionali di trasporto ovvero documenti contraffatti o alterati o comunque illegalmente ottenuti»".
 
-###### Art. 12-bis
+#### Art. 12-bis
 
 Morte o lesioni come conseguenza di delitti in materia di immigrazione clandestina
 
@@ -894,7 +890,7 @@ Morte o lesioni come conseguenza di delitti in materia di immigrazione clandesti
 
 6\. Fermo quanto disposto dall'articolo 6 del codice penale, se la condotta e' diretta a procurare l'ingresso illegale nel territorio dello Stato, il reato e' punito secondo la legge italiana anche quando la morte o le lesioni si verificano al di fuori di tale territorio.
 
-###### Art. 13
+#### Art. 13
 
 Espulsione amministrativa
 
@@ -1078,7 +1074,7 @@ AGGIORNAMENTO (91)
 
 Il D.L. 13 giugno 2023, n. 69, convertito con modificazioni dalla L. 10 agosto 2023, n. 103 ha disposto (con l'art. 18, comma 6) che "Le disposizioni di cui al presente articolo, fatta eccezione per quelle di cui al comma 1, lettere a), numero 2), capoverso 1-bis, c) e d), numeri 2) e 4), si applicano a decorrere dalla data di avvio in esercizio dei relativi sistemi informativi per le frontiere, l'immigrazione e la sicurezza, comunicata ufficialmente dalla Commissione europea".
 
-###### Art. 13-bis
+#### Art. 13-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 2011, N. 150)) ((37))
 
@@ -1090,7 +1086,7 @@ Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, comma 1) che "Le 
 
 Ha inoltre disposto (con l'art. 36, comma 2) che "Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
 
-###### Art. 14
+#### Art. 14
 
 Esecuzione dell'espulsione
 
@@ -1180,7 +1176,7 @@ AGGIORNAMENTO (112)
 
 La Corte Costituzionale con sentenza 24 marzo - 10 aprile 2025, n. 39 (in G.U. 1ª s.s. 16/4/2025, n. 16) ha dichiarato "l'illegittimita' costituzionale dell'art. 14, comma 6, del decreto legislativo 25 luglio 1998, n. 286 (Testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero), come modificato dall'art. 18-bis, comma 1, lettera b), numero 2), del decreto-legge 11 ottobre 2024, n. 145 (Disposizioni urgenti in materia di ingresso in Italia di lavoratori stranieri, di tutela e assistenza alle vittime di caporalato, di gestione dei flussi migratori e di protezione internazionale, nonche' dei relativi procedimenti giurisdizionali), convertito, con modificazioni, nella legge 9 dicembre 2024, n. 187, richiamato dall'art. 6, comma 5-bis, del decreto legislativo 18 agosto 2015, n. 142 (Attuazione della direttiva 2013/33/UE recante norme relative all'accoglienza dei richiedenti protezione internazionale, nonche' della direttiva 2013/32/UE, recante procedure comuni ai fini del riconoscimento e della revoca dello status di protezione internazionale), come introdotto dall'art. 18, comma 1, lettera a), numero 2), del d.l. n. 145 del 2024, come convertito, nella parte in cui, al terzo periodo, rinvia all'art. 22, comma 5-bis, quarto periodo, della legge n. 69 del 2005, anziche' ai commi 3 e 4 di quest'ultimo articolo".
 
-###### Art. 14.1
+#### Art. 14.1
 
 (( (Ricorso per cassazione).))
 
@@ -1200,7 +1196,7 @@ La Corte Costituzionale con sentenza 24 marzo - 10 aprile 2025, n. 39 (in G.U. 1
 
 8\. ((Per quanto non previsto dal presente articolo si applicano, in quanto compatibili, le disposizioni del codice procedura civile.))
 
-###### Art. 14-bis
+#### Art. 14-bis
 
 (( (Fondo rimpatri). ))
 
@@ -1208,7 +1204,7 @@ La Corte Costituzionale con sentenza 24 marzo - 10 aprile 2025, n. 39 (in G.U. 1
 
 2\. Nel Fondo di cui al comma 1 confluiscono la meta' del gettito conseguito attraverso la riscossione del contributo di cui all'articolo 5, comma 2-ter, nonche' i contributi eventualmente disposti dall'Unione europea per le finalita' del Fondo medesimo. La quota residua del gettito del contributo di cui all'articolo 5, comma 2-ter, e' assegnata allo stato di previsione del Ministero dell'interno, per gli oneri connessi alle attivita' istruttorie inerenti al rilascio e al rinnovo del permesso di soggiorno)).
 
-###### Art. 14-ter - Programmi di rimpatrio assistito
+#### Art. 14-ter - Programmi di rimpatrio assistito
 
 1\. Il Ministero dell'interno, nei limiti delle risorse di cui al comma 7, attua, anche in collaborazione con le organizzazioni internazionali o intergovernative esperte nel settore dei rimpatri, ((...)) con gli enti locali e con associazioni attive nell'assistenza agli immigrati, programmi di rimpatrio volontario ed assistito verso il Paese di origine o di provenienza di cittadini di Paesi terzi, salvo quanto previsto al comma 3.
 
@@ -1244,7 +1240,7 @@ AGGIORNAMENTO (38)
 
 Il D.L. 23 giugno 2011, n. 89, convertito con modificazioni dalla L. 2 agosto 2011, n. 129, ha disposto (con l'art. 3, comma 2) che "Il decreto del Ministro dell'interno di cui al comma 2 dell'articolo 14-ter del decreto legislativo 25 luglio 1998, n. 286, introdotto dal comma 1, lettera e), e' adottato entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto".
 
-###### Art. 15
+#### Art. 15
 
 Espulsione a titolo di misura di sicurezza e disposizioni per l'esecuzione dell'espulsione
 
@@ -1252,7 +1248,7 @@ Espulsione a titolo di misura di sicurezza e disposizioni per l'esecuzione dell'
 
 1-bis. Della emissione del provvedimento di custodia cautelare o della definitiva sentenza di condanna ad una pena detentiva nei confronti di uno straniero proveniente da Paesi extracomunitari viene data tempestiva comunicazione al questore ed alla competente autorita' consolare al fine di avviare la procedura di identificazione dello straniero e consentire, in presenza dei requisiti di legge, l'esecuzione della espulsione subito dopo la cessazione del periodo di custodia cautelare o di detenzione.
 
-###### Art. 16 - Espulsione a titolo di sanzione sostitutiva o alternativa alla detenzione
+#### Art. 16 - Espulsione a titolo di sanzione sostitutiva o alternativa alla detenzione
 
 1\. Il giudice, nel pronunciare sentenza di condanna per un reato non colposo o nell'applicare la pena su richiesta ai sensi dell'articolo 444 del codice di procedura penale nei confronti dello straniero che si trovi in taluna delle situazioni indicate nell'articolo 13, comma 2, quando ritiene di dovere irrogare la pena detentiva entro il limite di due anni e non ricorrono le condizioni per ordinare la sospensione condizionale della pena ai sensi dell'articolo 163 del codice penale ovvero nel pronunciare sentenza di condanna per il reato di cui all'articolo 10-bis, qualora non ricorrano le cause ostative indicate nell'articolo 14, comma 1, del presente testo unico, che impediscono l'esecuzione immediata dell'espulsione con accompagnamento alla frontiera a mezzo della forza pubblica, puo' sostituire la medesima pena con la misura dell'espulsione. Le disposizioni di cui al presente comma si applicano, in caso di sentenza di condanna, ai reati di cui all'articolo 14, commi 5-ter e 5-quater.
 
@@ -1280,7 +1276,7 @@ Espulsione a titolo di misura di sicurezza e disposizioni per l'esecuzione dell'
 
 9-bis. Nei casi di cui ai commi 1 e 5, quando non e' possibile effettuare il rimpatrio dello straniero per cause di forza maggiore, l'autorita' giudiziaria dispone il ripristino dello stato di detenzione per il tempo strettamente necessario all'esecuzione del provvedimento di espulsione.
 
-###### Art. 17
+#### Art. 17
 
 Diritto di difesa
 
@@ -1288,13 +1284,11 @@ Diritto di difesa
 
 1\. Lo straniero parte offesa ovvero sottoposto a procedimento penale ((puo' essere autorizzato)) a rientrare in Italia per il tempo strettamente necessario per l'esercizio del diritto di difesa, al solo fine di partecipare al giudizio o al compimento di atti per i quali e' necessaria la sua presenza. ((Salvo che la presenza dell'interessato possa procurare gravi turbative o grave pericolo all'ordine pubblico o alla sicurezza pubblica, l'autorizzazione e' rilasciata dal questore, anche per il tramite di una rappresentanza diplomatica o consolare, su documentata richiesta del destinatario del provvedimento di allontanamento o del suo difensore. Avverso il diniego di autorizzazione puo' essere proposta opposizione, nel termine perentorio di sessanta giorni, al giudice davanti al quale pende il procedimento penale. Il giudice, sentito il pubblico ministero, decide con decreto non impugnabile entro trenta giorni dal deposito dell'opposizione. Nel corso delle indagini preliminari decide il giudice delle indagini preliminari.))
 
-## TITOLO II - DISPOSIZIONI SULL'INGRESSO, IL SOGGIORNO E L'ALLONTANAMENTO
+## TITOLO II - DISPOSIZIONI SULL'INGRESSO, IL SOGGIORNO E L'ALLONTANAMENTO DAL TERRITORIO DELLO STATO
 
-### DAL TERRITORIO DELLO STATO - CAPO III
+### CAPO III - DISPOSIZIONI DI CARATTERE UMANITARIO
 
-#### DISPOSIZIONI DI CARATTERE - UMANITARIO
-
-###### Art. 18
+#### Art. 18
 
 Soggiorno per motivi di protezione sociale
 
@@ -1328,7 +1322,7 @@ Al termine del periodo, ove sussistano i presupposti, il questore rilascia il pe
 
 7\. L'onere derivante dal presente articolo e' valutato in lire 5 miliardi per l'anno 1997 e in lire 10 miliardi annui a decorrere dall'anno 1998.
 
-###### Art. 18-bis - Permesso di soggiorno per le vittime di violenza domestica
+#### Art. 18-bis - Permesso di soggiorno per le vittime di violenza domestica
 
 1\. Quando, nel corso di operazioni di polizia, di indagini o di un procedimento per taluno dei delitti previsti dagli articoli 558-bis, 572, 582, 583, 583-bis, 605, 609-bis e 612-bis del codice penale o per uno dei delitti previsti dall'articolo 380 del codice di procedura penale, commessi sul territorio nazionale in ambito di violenza domestica, siano accertate situazioni di violenza o abuso nei confronti di uno straniero ed emerga un concreto ed attuale pericolo per la sua incolumita', come conseguenza della scelta di sottrarsi alla medesima violenza o per effetto delle dichiarazioni rese nel corso delle indagini preliminari o del giudizio, il questore, con il parere favorevole dell'autorita' giudiziaria procedente ovvero su proposta di quest'ultima, rilascia un permesso di soggiorno per consentire alla vittima di sottrarsi alla violenza.
 
@@ -1346,7 +1340,7 @@ Ai fini del presente articolo, si intendono per violenza domestica uno o piu' at
 
 5\. Le disposizioni del presente articolo si applicano, in quanto compatibili, anche ai cittadini di Stati membri dell'Unione europea e ai loro familiari.
 
-###### Art. 18-ter - Permesso di soggiorno per gli stranieri vittime di intermediazione illecita e sfruttamento del lavoro
+#### Art. 18-ter - Permesso di soggiorno per gli stranieri vittime di intermediazione illecita e sfruttamento del lavoro
 
 1\. Quando nel corso di operazioni di polizia, di indagini o di un procedimento per il delitto previsto dall'articolo 603-bis del codice penale commesso in danno di un lavoratore straniero nel territorio nazionale siano accertate situazioni di violenza o abuso o comunque di sfruttamento del lavoro nei confronti di un lavoratore straniero nel territorio nazionale e questi contribuisca utilmente all'emersione dei fatti e all'individuazione dei responsabili, il questore, su proposta dell'autorita' giudiziaria procedente, rilascia con immediatezza un permesso di soggiorno per consentire alla vittima e ai membri del suo nucleo familiare di sottrarsi alla violenza, all'abuso o allo sfruttamento.
 
@@ -1360,7 +1354,7 @@ Ai fini del presente articolo, si intendono per violenza domestica uno o piu' at
 
 6\. In attesa del rilascio del permesso di soggiorno, il lavoratore straniero, cui e' stata rilasciata dal competente ufficio la ricevuta attestante l'avvenuta presentazione della richiesta, puo' legittimamente soggiornare nel territorio dello Stato e svolgere temporaneamente l'attivita' lavorativa fino a eventuale comunicazione da parte dell'autorita' di pubblica sicurezza, che attesta l'esistenza dei motivi ostativi al rilascio del permesso di soggiorno.
 
-###### Art. 19
+#### Art. 19
 
 (Divieti di espulsione e di respingimento.
 
@@ -1408,7 +1402,7 @@ AGGIORNAMENTO (88)
 
 Il D.L. 10 marzo 2023, n. 20, convertito con modificazioni dalla L. 5 maggio 2023, n. 50 ha disposto (con l'art. 7, comma 3) che "I permessi di soggiorno gia' rilasciati ai sensi del citato articolo 19, comma 1.1, terzo periodo, in corso di validita', sono rinnovati per una sola volta e con durata annuale, a decorrere dalla data di scadenza. Resta ferma la facolta' di conversione del titolo di soggiorno in permesso di soggiorno per motivi di lavoro, se ne ricorrono i requisiti di legge".
 
-###### Art. 20 - Misure straordinarie di accoglienza per eventi eccezionali
+#### Art. 20 - Misure straordinarie di accoglienza per eventi eccezionali
 
 (Legge 6 marzo 1998, n. 40, art. 18)
 
@@ -1416,7 +1410,7 @@ Il D.L. 10 marzo 2023, n. 20, convertito con modificazioni dalla L. 5 maggio 202
 
 2\. Il Presidente del Consiglio dei Ministri o un Ministro da lui delegato riferiscono annualmente al Parlamento sull'attuazione delle misure adottate.
 
-###### Art. 20-bis - Permesso di soggiorno per calamita'
+#### Art. 20-bis - Permesso di soggiorno per calamita'
 
 1\. Fermo quanto previsto dall'articolo 20, quando il Paese verso il quale lo straniero dovrebbe fare ritorno versa in una situazione di ((contingente ed eccezionale)) calamita' che non consente il rientro e la permanenza in condizioni di sicurezza, il questore rilascia un permesso di soggiorno per calamita'. (80)
 
@@ -1430,7 +1424,7 @@ Il D.L. 21 ottobre 2020, n. 130 ha disposto (con l'art. 15, comma 1) che le pres
 
 ## TITOLO III - DISCIPLINA DEL LAVORO
 
-###### Art. 21
+#### Art. 21
 
 Determinazione dei flussi di ingresso
 
@@ -1462,7 +1456,7 @@ legge 8 agosto 1995, n. 335, art. 3, comma 13)
 
 8\. L'onere derivante dal presente articolo e' valutato in lire 350 milioni annui a decorrere dall'anno 1998.
 
-###### Art. 22
+#### Art. 22
 
 Lavoro subordinato a tempo determinato e indeterminato
 
@@ -1574,7 +1568,7 @@ AGGIORNAMENTO (122)
 
 Il D.Lgs. 16 aprile 2026, n. 83 ha disposto (con l'art. 4, comma 1) che "Le disposizioni di cui al presente decreto si applicano a decorrere dal 22 maggio 2026".
 
-###### Art. 23 - Corsi di istruzione e formazione professionale nei Paesi di origine
+#### Art. 23 - Corsi di istruzione e formazione professionale nei Paesi di origine
 
 1\. Nell'ambito di programmi approvati, anche su proposta delle regioni e delle province autonome, dal Ministero del lavoro e delle politiche sociali, dal Ministero dell'istruzione e del merito o dal Ministero dell'universita' e della ricerca e realizzati anche in collaborazione con le regioni, le province autonome e altri enti locali, organizzazioni nazionali degli imprenditori e datori di lavoro e dei lavoratori, nonche' organismi internazionali finalizzati al trasferimento dei lavoratori stranieri in Italia ed al loro inserimento nei settori produttivi del Paese, enti ed associazioni operanti nel settore dell'immigrazione da almeno tre anni, possono essere previste attivita' di istruzione e di formazione professionale e civico-linguistica nei Paesi di origine.
 
@@ -1604,7 +1598,7 @@ AGGIORNAMENTO (115)
 
 Il D.L. 3 ottobre 2025, n. 146, convertito con modificazioni dalla L. 1 dicembre 2025, n. 179, ha disposto (con l'art. 2, comma 1-bis) che "In via sperimentale, fino al 31 dicembre 2027, il termine di cui all'articolo 23, comma 2-bis, terzo periodo, del testo unico di cui al decreto legislativo 25 luglio 1998, n. 286, e' esteso a dodici mesi".
 
-###### Art. 24 - Lavoro stagionale
+#### Art. 24 - Lavoro stagionale
 
 1\. Il datore di lavoro o le associazioni di categoria per conto dei loro associati, che intendono instaurare in Italia un rapporto di lavoro subordinato a carattere stagionale nei settori agricolo e turistico/alberghiero con uno straniero, devono presentare richiesta nominativa allo sportello unico per l'immigrazione della provincia di residenza. Si applicano, ove compatibili, le disposizioni di cui all'articolo 22, ad eccezione dei commi 5, secondo periodo, e 11. Si applica l'articolo 22, commi 2-bis.1 e 2-bis.2. (104)
 
@@ -1676,7 +1670,7 @@ AGGIORNAMENTO (104)
 
 Il D.L. 11 ottobre 2024, n. 145, convertito con modificazioni dalla L. 9 dicembre 2024, n. 187, ha disposto (con l'art. 1, comma 2) che "Le disposizioni di cui al comma 1, lettere a), numero 1), ed e), numero 4), si applicano alle domande di visto nazionale presentate a partire dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto. Le restanti disposizioni di cui al comma 1 si applicano dalla data di decorrenza delle disposizioni per l'anno 2025 di cui al decreto del Presidente del Consiglio dei ministri 27 settembre 2023, pubblicato nella Gazzetta Ufficiale n. 231 del 3 ottobre 2023".
 
-###### Art. 24-bis - Verifiche
+#### Art. 24-bis - Verifiche
 
 1\. In relazione agli ingressi previsti dai decreti di cui all'articolo 3, comma 4, la verifica dei requisiti concernenti l'osservanza delle prescrizioni del contratto collettivo di lavoro e la congruita' del numero delle richieste presentate di cui all'articolo 30-bis, comma 8, del regolamento di cui al decreto del Presidente della Repubblica 31 agosto 1999, n. 394, e' demandata, fatto salvo quanto previsto al comma 4 del presente articolo, ai professionisti di cui all'articolo 1 della legge 11 gennaio 1979, n. 12, e alle organizzazioni dei datori di lavoro comparativamente piu' rappresentative sul piano nazionale ((, ovvero alle strutture territoriali ad esse annesse,)) ai quali il datore di lavoro aderisce o conferisce mandato.
 
@@ -1694,7 +1688,7 @@ AGGIORNAMENTO (104)
 
 Il D.L. 11 ottobre 2024, n. 145, convertito con modificazioni dalla L. 9 dicembre 2024, n. 187, ha disposto (con l'art. 1, comma 2) che "Le disposizioni di cui al comma 1, lettere a), numero 1), ed e), numero 4), si applicano alle domande di visto nazionale presentate a partire dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto. Le restanti disposizioni di cui al comma 1 si applicano dalla data di decorrenza delle disposizioni per l'anno 2025 di cui al decreto del Presidente del Consiglio dei ministri 27 settembre 2023, pubblicato nella Gazzetta Ufficiale n. 231 del 3 ottobre 2023".
 
-###### Art. 25
+#### Art. 25
 
 Previdenza e assistenza per i lavoratori stagionali
 
@@ -1718,7 +1712,7 @@ d) assicurazione di maternita'.
 
 5\. ((Ai contributi di cui al comma 1, lettera a), si applicano le disposizioni dell'articolo 22, comma 13, concernenti il trasferimento degli stessi all'istituto o ente assicuratore dello Stato di provenienza)). E' fatta salva la possibilita' di ricostruzione della posizione contributiva in caso di successivo ingresso.
 
-###### Art. 26
+#### Art. 26
 
 Ingresso e soggiorno per lavoro autonomo
 
@@ -1740,7 +1734,7 @@ Ingresso e soggiorno per lavoro autonomo
 
 ((7-bis. La condanna con provvedimento irrevocabile per alcuno dei reati previsti dalle disposizioni del Titolo III, Capo III, Sezione II, della legge 22 aprile 1941, n. 633, e successive modificazioni, relativi alla tutela del diritto di autore, e dagli articoli 473 e 474 del codice penale comporta la revoca del permesso di soggiorno rilasciato allo straniero e l'espulsione del medesimo con accompagnamento alla frontiera a mezzo della forza pubblica)).
 
-###### Art. 26-bis - Ingresso e soggiorno per investitori
+#### Art. 26-bis - Ingresso e soggiorno per investitori
 
 1\. L'ingresso e il soggiorno per periodi superiori a tre mesi sono consentiti, al di fuori delle quote di cui all'articolo 3, comma 4, agli stranieri che intendono effettuare , in nome proprio o per conto della persona giuridica che legalmente rappresentano:
 
@@ -1792,7 +1786,7 @@ AGGIORNAMENTO (66)
 
 Il D.Lgs. 25 maggio 2017, n. 90 ha disposto (con l'art. 9, comma 1) che "Le disposizioni emanate dalle autorita' di vigilanza di settore, ai sensi di norme abrogate o sostituite per effetto del presente decreto, continuano a trovare applicazione fino al 31 marzo 2018".
 
-###### Art. 27
+#### Art. 27
 
 Ingresso per lavoro in casi particolari
 
@@ -1874,7 +1868,7 @@ AGGIORNAMENTO (104)
 
 Il D.L. 11 ottobre 2024, n. 145, convertito con modificazioni dalla L. 9 dicembre 2024, n. 187, ha disposto (con l'art. 1, comma 2) che "Le disposizioni di cui al comma 1, lettere a), numero 1), ed e), numero 4), si applicano alle domande di visto nazionale presentate a partire dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto. Le restanti disposizioni di cui al comma 1 si applicano dalla data di decorrenza delle disposizioni per l'anno 2025 di cui al decreto del Presidente del Consiglio dei ministri 27 settembre 2023, pubblicato nella Gazzetta Ufficiale n. 231 del 3 ottobre 2023".
 
-###### Art. 27-bis - Ingresso e soggiorno per volontariato
+#### Art. 27-bis - Ingresso e soggiorno per volontariato
 
 1\. L'ingresso di stranieri ammessi a partecipare a programmi di attivita' di volontariato di interesse generale e di utilita' sociale, ai sensi del presente testo unico, avviene nell'ambito del contingente triennale stabilito con decreto del Ministro del lavoro e delle politiche sociali, di concerto con i Ministri dell'interno e degli affari esteri e della cooperazione internazionale, sentito il Consiglio nazionale del Terzo settore, di cui all'articolo 59 del codice del Terzo settore, di cui al decreto legislativo 3 luglio 2017, n. 117.
 
@@ -1916,7 +1910,7 @@ b) se risulta che il volontario non soddisfaceva o non soddisfa piu' le condizio
 
 6-bis. La documentazione e le informazioni relative alla sussistenza delle condizioni di cui al presente articolo sono fornite in lingua italiana.
 
-###### Art. 27-ter - Ingresso e soggiorno per ricerca
+#### Art. 27-ter - Ingresso e soggiorno per ricerca
 
 1\. L'ingresso ed il soggiorno per periodi superiori a tre mesi, al di fuori delle quote di cui all'articolo 3, comma 4, e' consentito a favore di stranieri in possesso di un titolo di dottorato o di un titolo di studio superiore, che nel Paese dove e' stato conseguito dia accesso a programmi di dottorato. Il cittadino straniero, denominato ricercatore ai soli fini dell'applicazione delle procedure previste nel presente articolo, e' selezionato da un istituto di ricerca iscritto nell'apposito elenco tenuto dal Ministero dell'universita' e della ricerca.
 
@@ -2036,7 +2030,7 @@ b) l'autorizzazione del primo Stato membro scade durante la procedura di rilasci
 
 11-decies. La documentazione e le informazioni relative alla sussistenza delle condizioni di cui al presente articolo sono fornite in lingua italiana.
 
-###### Art. 27-quater - Ingresso e soggiorno per lavoratori altamente qualificati. Rilascio della Carta blu UE
+#### Art. 27-quater - Ingresso e soggiorno per lavoratori altamente qualificati. Rilascio della Carta blu UE
 
 1\. L'ingresso ed il soggiorno, per periodi superiori a tre mesi e' consentito, al di fuori delle quote di cui all'articolo 3, comma 4, agli stranieri, di seguito denominati lavoratori stranieri altamente qualificati, che intendono svolgere prestazioni lavorative retribuite per conto o sotto la direzione o il coordinamento di un'altra persona fisica o giuridica e che sono alternativamente in possesso:
 
@@ -2172,7 +2166,7 @@ AGGIORNAMENTO (104)
 
 Il D.L. 11 ottobre 2024, n. 145, convertito con modificazioni dalla L. 9 dicembre 2024, n. 187, ha disposto (con l'art. 1, comma 2) che "Le disposizioni di cui al comma 1, lettere a), numero 1), ed e), numero 4), si applicano alle domande di visto nazionale presentate a partire dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto. Le restanti disposizioni di cui al comma 1 si applicano dalla data di decorrenza delle disposizioni per l'anno 2025 di cui al decreto del Presidente del Consiglio dei ministri 27 settembre 2023, pubblicato nella Gazzetta Ufficiale n. 231 del 3 ottobre 2023".
 
-###### Art. 27-quinquies - Ingresso e soggiorno nell'ambito di trasferimenti intra-societari
+#### Art. 27-quinquies - Ingresso e soggiorno nell'ambito di trasferimenti intra-societari
 
 1\. L'ingresso e il soggiorno in Italia per svolgere prestazioni di lavoro subordinato nell'ambito di trasferimenti intra-societari per periodi superiori a tre mesi e' consentito, al di fuori delle quote di cui all'articolo 3, comma 4, agli stranieri che soggiornano fuori del territorio dell'Unione europea al momento della domanda di ingresso o che sono stati gia' ammessi nel territorio di un altro Stato membro e che chiedono di essere ammessi nel territorio nazionale in qualita' di:
 
@@ -2290,7 +2284,7 @@ c) e' stata raggiunta la durata massima del trasferimento intra-societario di cu
 
 26\. In caso di impiego di uno o piu' lavoratori stranieri privi del permesso di soggiorno ICT rilasciato ai sensi del comma 17 o il cui permesso sia scaduto e del quale non sia stato chiesto il rinnovo, si applica l'articolo 22, commi 12, 12-bis, 12-ter, 12-quater e 12-quinquies.
 
-###### Art. 27-sexies - Stranieri in possesso di permesso di soggiorno per trasferimento intra-societario ICT rilasciato da altro Stato membro
+#### Art. 27-sexies - Stranieri in possesso di permesso di soggiorno per trasferimento intra-societario ICT rilasciato da altro Stato membro
 
 1\. Lo straniero titolare di un permesso di soggiorno ICT rilasciato da altro Stato membro e in corso di validita' e' autorizzato a soggiornare nel territorio nazionale e a svolgere attivita' lavorativa presso una sede, filiale o rappresentanza in Italia dell'impresa da cui dipende il medesimo lavoratore titolare di permesso di soggiorno ICT o presso un'impresa appartenente allo stesso gruppo, o una sua sede, filiale o rappresentanza in Italia, per un periodo massimo di novanta giorni in un arco temporale di centottanta giorni. Si applicano le disposizioni di cui all'articolo 5, comma 7, ad eccezione del terzo periodo.
 
@@ -2328,7 +2322,7 @@ c) e' stata raggiunta la durata massima del trasferimento intra-societario di cu
 
 ## TITOLO IV - DIRITTO ALL'UNITA' FAMILIARE E TUTELA DEI MINORI
 
-###### Art. 28 - Diritto all'unita' familiare
+#### Art. 28 - Diritto all'unita' familiare
 
 (Legge 6 marzo 1998, n. 40, art. 26)
 
@@ -2340,7 +2334,7 @@ c) e' stata raggiunta la durata massima del trasferimento intra-societario di cu
 
 3\. In tutti i procedimenti amministrativi e giurisdizionali finalizzati a dare attuazione al diritto all'unita' familiare e riguardanti i minori, deve essere preso in considerazione con carattere di priorita' il superiore interesse del fanciullo, conformemente a quanto previsto dall'articolo 3, comma 1, della Convenzione sui diritti del fanciullo del 20 novembre 1989, ratificata e resa esecutiva ai sensi della legge 27 maggio 1991, n. 176.
 
-###### Art. 29 - Ricongiungimento familiare
+#### Art. 29 - Ricongiungimento familiare
 
 1\. Lo straniero puo' chiedere il ricongiungimento per i seguenti familiari:
 
@@ -2392,7 +2386,7 @@ AGGIORNAMENTO (63)
 
 Il D.L. 17 febbraio 2017, n. 13, convertito con modificazioni dalla L. 13 aprile 2017, n. 46, ha disposto (con l'art. 21, comma 4) che, ai fini dei necessari adeguamenti del sistema informatico, le presenti modifiche si applicano alle domande presentate dopo il centottantesimo giorno dalla data di entrata in vigore del suindicato D.L.
 
-###### Art. 29-bis
+#### Art. 29-bis
 
 (( (Ricongiungimento familiare dei rifugiati). ))
 
@@ -2402,7 +2396,7 @@ Il D.L. 17 febbraio 2017, n. 13, convertito con modificazioni dalla L. 13 aprile
 
 3\. Se il rifugiato e' un minore non accompagnato, e' consentito l'ingresso ed il soggiorno, ai fini del ricongiungimento, degli ascendenti diretti di primo grado.))
 
-###### Art. 30
+#### Art. 30
 
 Permesso di soggiorno per motivi familiari
 
@@ -2438,7 +2432,7 @@ Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, comma 1) che "Le 
 
 Ha inoltre disposto (con l'art. 36, comma 2) che "Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
 
-###### Art. 31 - Disposizioni a favore dei minori
+#### Art. 31 - Disposizioni a favore dei minori
 
 (Legge 6 marzo 1998, n. 40, art. 29)
 
@@ -2450,7 +2444,7 @@ Ha inoltre disposto (con l'art. 36, comma 2) che "Le norme abrogate o modificate
 
 4\. Qualora ai sensi del presente testo unico debba essere disposta l'espulsione di un minore straniero, il provvedimento e' adottato ((, a condizione comunque che il provvedimento stesso non comporti un rischio di danni gravi per il minore)), su richiesta del questore, dal tribunale per i minorenni. ((Il Tribunale per i minorenni decide tempestivamente e comunque non oltre trenta giorni)).
 
-###### Art. 32
+#### Art. 32
 
 Disposizioni concernenti minori affidati al compimento della maggiore eta'
 
@@ -2466,7 +2460,7 @@ Disposizioni concernenti minori affidati al compimento della maggiore eta'
 
 1-quater. Il numero dei permessi di soggiorno rilasciati ai sensi del presente articolo e' portato in detrazione dalle quote di ingresso definite annualmente nei decreti di cui all'articolo 3, comma 4.
 
-###### Art. 33 - Comitato per i minori stranieri
+#### Art. 33 - Comitato per i minori stranieri
 
 (Legge 6 marzo 1998, n. 40, art. 31)
 
@@ -2482,13 +2476,11 @@ b) le modalita' di accoglienza dei minori stranieri non accompagnati presenti ne
 
 ((3. All'attuazione delle disposizioni contenute nel presente articolo si provvede nei limiti delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente e comunque senza nuovi o maggiori oneri per la finanza pubblica)).
 
-## TITOLO V - DISPOSIZIONI IN MATERIA SANITARIA, NONCHE' DI
+## TITOLO V - DISPOSIZIONI IN MATERIA SANITARIA, NONCHE' DI ISTRUZIONE, ALLOGGIO, PARTECIPAZIONE ALLA VITA PUBBLICA E INTEGRAZIONE SOCIALE.
 
-### ISTRUZIONE, ALLOGGIO, PARTECIPAZIONE ALLA VITA - PUBBLICA E INTEGRAZIONE SOCIALE.
+### CAPO I - DISPOSIZIONI IN MATERIA SANITARIA
 
-#### CAPO I - DISPOSIZIONI IN MATERIA SANITARIA
-
-###### Art. 34 - Assistenza per gli stranieri iscritti al Servizio sanitario nazionale
+#### Art. 34 - Assistenza per gli stranieri iscritti al Servizio sanitario nazionale
 
 (Legge 6 marzo 1998, n. 40, art. 32)
 
@@ -2518,7 +2510,7 @@ b) dagli stranieri regolarmente soggiornanti collocati alla pari, ai sensi dell'
 
 7\. Lo straniero assicurato al servizio sanitario nazionale e' iscritto nella azienda sanitaria locale del comune in cui dimora secondo le modalita' previste dal regolamento di attuazione.
 
-###### Art. 35 - Assistenza sanitaria per gli stranieri non iscritti al Servizio sanitario nazionale
+#### Art. 35 - Assistenza sanitaria per gli stranieri non iscritti al Servizio sanitario nazionale
 
 (Legge 6 marzo 1998, n. 40, art. 33)
 
@@ -2550,7 +2542,7 @@ AGGIORNAMENTO (65)
 
 Il D.L. 24 aprile 2017, n. 50, convertito con modificazioni dalla L. 21 giugno 2017, n. 96, ha disposto (con l'art. 32, comma 1) che "Le competenze relative al finanziamento delle prestazioni di cui all'articolo 35, comma 6, del decreto legislativo 25 luglio 1998, n. 286, gia' attribuite al Ministero dell'Interno, sono trasferite al Ministero della salute, con decorrenza dal 1 gennaio 2017, in coerenza con le risorse a tal fine stanziate nel bilancio dello Stato in apposito capitolo di spesa".
 
-###### Art. 36 - Ingresso e soggiorno per cure mediche
+#### Art. 36 - Ingresso e soggiorno per cure mediche
 
 (Legge 6 marzo 1998, n. 40, art. 34)
 
@@ -2562,15 +2554,11 @@ Il D.L. 24 aprile 2017, n. 50, convertito con modificazioni dalla L. 21 giugno 2
 
 4\. Sono fatte salve le disposizioni in materia di profilassi internazionale.
 
-## TITOLO V - DISPOSIZIONI IN MATERIA SANITARIA, NONCHE' DI
+## TITOLO V - DISPOSIZIONI IN MATERIA SANITARIA, NONCHE' DI ISTRUZIONE, ALLOGGIO, PARTECIPAZIONE ALLA VITA PUBBLICA E INTEGRAZIONE SOCIALE.
 
-### ISTRUZIONE, ALLOGGIO, PARTECIPAZIONE ALLA VITA - PUBBLICA E INTEGRAZIONE SOCIALE.
+### CAPO II - DISPOSIZIONI IN MATERIA DI ISTRUZIONE DIRITTO ALLO STUDIO E PROFESSIONE
 
-#### CAPO II - DISPOSIZIONI IN MATERIA DI ISTRUZIONE
-
-##### DIRITTO ALLO STUDIO E PROFESSIONE
-
-###### Art. 37 - Attivita' professionali
+#### Art. 37 - Attivita' professionali
 
 (Legge 6 marzo 1998, n. 40, art. 35)
 
@@ -2586,15 +2574,11 @@ Il D.L. 24 aprile 2017, n. 50, convertito con modificazioni dalla L. 21 giugno 2
 
 > \- Per l'argomento della legge 6 marzo 1998, n. 40, v. nelle note all'art. 1.
 
-## TITOLO V - DISPOSIZIONI IN MATERIA SANITARIA, NONCHE' DI ISTRUZIONE,
+## TITOLO V - DISPOSIZIONI IN MATERIA SANITARIA, NONCHE' DI ISTRUZIONE, ALLOGGIO, PARTECIPAZIONE ALLA VITA PUBBLICA E INTEGRAZIONE SOCIALE.
 
-### ALLOGGIO, PARTECIPAZIONE ALLA VITA PUBBLICA E INTEGRAZIONE - SOCIALE.
+### CAPO II - DISPOSIZIONI IN MATERIA DI ISTRUZIONE DISE DIRITTO ALLO STUDIO E PROFESSIONE
 
-#### CAPO II - DISPOSIZIONI IN MATERIA DI ISTRUZIONE
-
-##### DISE DIRITTO - ALLO STUDIO E PROFESSIONE
-
-###### Art. 38 - Istruzione degli stranieri. Educazione interculturale
+#### Art. 38 - Istruzione degli stranieri. Educazione interculturale
 
 (Legge 6 marzo 1998, n. 40, art. 36
 
@@ -2638,7 +2622,7 @@ d) dei criteri per la stipula delle convenzioni di cui ai commi 4 e 5.
 
 > \- Per il testo dell'art. 17, comma 1, della legge 23 agosto 1988, n. 400, v. nelle note all'art. 1.
 
-###### Art. 38-bis
+#### Art. 38-bis
 
 (( (Disposizioni in materia di soggiorni di breve durata per gli studenti delle filiazioni in Italia di universita' e istituti superiori di insegnamento a livello universitario stranieri). ))
 
@@ -2646,7 +2630,7 @@ d) dei criteri per la stipula delle convenzioni di cui ai commi 4 e 5.
 
 2\. Nei casi di cui al comma 1, la dichiarazione di presenza e' accompagnata da una dichiarazione di garanzia del legale rappresentante della filiazione o di un suo delegato, che si obbliga a comunicare entro quarantotto ore al questore territorialmente competente ogni variazione relativa alla presenza dello studente durante il suo soggiorno per motivi di studio. Le violazioni delle disposizioni del presente comma sono soggette alla sanzione amministrativa di cui all'articolo 7, comma 2-bis)).
 
-###### Art. 39
+#### Art. 39
 
 Accesso ai percorsi di istruzione tecnico superiore e ai percorsi di formazione superiore.
 
@@ -2704,7 +2688,7 @@ f) che sono ammessi nel territorio dell'Unione europea in qualita' di dipendenti
 
 g) che sono destinatari di un provvedimento di espulsione anche se sospeso.
 
-###### Art. 39-bis - Soggiorno di studenti, scambio di alunni, tirocinio ((...))
+#### Art. 39-bis - Soggiorno di studenti, scambio di alunni, tirocinio ((...))
 
 1\. E' consentito l'ingresso e il soggiorno per motivi di studio, secondo le modalita' stabilite nel regolamento di attuazione, dei cittadini stranieri:
 
@@ -2730,7 +2714,7 @@ Per gli stranieri di cui al comma 1, lettere a) e b), ad eccezione degli stranie
 
 1-quinquies. Si applicano le disposizioni di cui all'articolo 39, commi 5-ter e 5-quater.))
 
-###### Art. 39-bis.1
+#### Art. 39-bis.1
 
 (( (Permesso di soggiorno per ricerca lavoro o imprenditorialita' degli studenti). ))
 
@@ -2744,7 +2728,7 @@ a) se la documentazione di cui ai commi 1 e 2 e' stata ottenuta in maniera fraud
 
 b) se risulta che lo straniero non soddisfaceva o non soddisfa piu' le condizioni previste dai commi 1 e 2 nonche' le altre condizioni di ingresso e di soggiorno previste dal presente testo unico.))
 
-###### Art. 39-ter
+#### Art. 39-ter
 
 (( (Disposizioni per i medici extracomunitari). ))
 
@@ -2752,15 +2736,11 @@ b) se risulta che lo straniero non soddisfaceva o non soddisfa piu' le condizion
 
 L'autorizzazione non puo' avere durata superiore a due anni. Con decreto del Ministro della salute, di concerto con il Ministro dell'istruzione, dell'universita' e della ricerca, con il Ministro degli affari esteri e della cooperazione internazionale e con il Ministro dell'interno, da emanare entro novanta giorni dalla data di entrata in vigore della presente disposizione, sono definiti gli specifici requisiti di professionalita' dei medici, le modalita' e i criteri per lo svolgimento di dette iniziative nonche' i requisiti per il rilascio del visto di ingresso)).
 
-## TITOLO V - DISPOSIZIONI IN MATERIA SANITARIA, NONCHE' DI
+## TITOLO V - DISPOSIZIONI IN MATERIA SANITARIA, NONCHE' DI ISTRUZIONE, ALLOGGIO, PARTECIPAZIONE ALLA VITA PUBBLICA E INTEGRAZIONE SOCIALE.
 
-### ISTRUZIONE, ALLOGGIO, PARTECIPAZIONE ALLA VITA - PUBBLICA E INTEGRAZIONE SOCIALE.
+### CAPO III - DISPOSIZIONI IN MATERIA DI ALLOGGIO E ASSISTENZA SOCIALE
 
-#### CAPO III - DISPOSIZIONI IN MATERIA DI ALLOGGIO E
-
-##### ASSISTENZA SOCIALE
-
-###### Art. 40
+#### Art. 40
 
 Centri di accoglienza. Accesso all'abitazione
 
@@ -2786,7 +2766,7 @@ AGGIORNAMENTO (53)
 
 Il D.Lgs. 19 novembre 2007, n. 251, come modificato dal D.Lgs. 21 febbraio 2014, n. 18, ha disposto (con l'art. 29, comma 3-ter) che "L'accesso ai benefici relativi all'alloggio previsti dall'articolo 40, comma 6, del decreto legislativo 25 luglio 1998, n. 286, e' consentito ai titolari dello status di rifugiato e di protezione sussidiaria, in condizioni di parita' con i cittadini italiani".
 
-###### Art. 41 - Assistenza sociale
+#### Art. 41 - Assistenza sociale
 
 (Legge 6 marzo 1998, n. 40, art. 39)
 
@@ -2796,15 +2776,11 @@ Il D.Lgs. 19 novembre 2007, n. 251, come modificato dal D.Lgs. 21 febbraio 2014,
 
 1-ter. In deroga a quanto previsto dal comma 1-bis, nell'ambito delle prestazioni costituenti diritti, ai fini della fruizione delle prestazioni familiari di cui all'articolo 3, paragrafo 1, del regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, sono equiparati ai cittadini italiani esclusivamente gli stranieri titolari di permesso unico di lavoro autorizzati a svolgere un'attivita' lavorativa per un periodo superiore a sei mesi, nonche' gli stranieri titolari di permesso di soggiorno per motivi di ricerca autorizzati a soggiornare in Italia per un periodo superiore a sei mesi)).
 
-## TITOLO V - DISPOSIZIONI IN MATERIA SANITARIA, NONCHE' DI
+## TITOLO V - DISPOSIZIONI IN MATERIA SANITARIA, NONCHE' DI ISTRUZIONE, ALLOGGIO, PARTECIPAZIONE ALLA VITA PUBBLICA E INTEGRAZIONE SOCIALE.
 
-### ISTRUZIONE, ALLOGGIO, PARTECIPAZIONE ALLA VITA - PUBBLICA E INTEGRAZIONE SOCIALE.
+### CAPO IV - DISPOSIZIONI SULL'INTEGRAZIONE SOCIALE, SULLE DISCRIMINAZIONI E ISTITUZIONE DEL FONDO PER LE POLITICHE MIGRATORIE
 
-#### CAPO IV - DISPOSIZIONI SULL'INTEGRAZIONE SOCIALE, SULLE
-
-##### DISCRIMINAZIONI E ISTITUZIONE DEL FONDO PER LE - POLITICHE MIGRATORIE
-
-###### Art. 42 - Misure di integrazione sociale
+#### Art. 42 - Misure di integrazione sociale
 
 (Legge 6 marzo 1998, n. 40, art. 40;
 
@@ -2862,13 +2838,13 @@ AGGIORNAMENTO (64)
 
 La L. 7 aprile 2017, n. 47, ha disposto (con l'art. 19, comma 1) che "Le associazioni iscritte nel registro di cui all'articolo 42 del testo unico, e successive modificazioni, possono intervenire nei giudizi riguardanti i minori stranieri non accompagnati e ricorrere in sede di giurisdizione amministrativa per l'annullamento di atti illegittimi".
 
-###### Art. 42-bis
+#### Art. 42-bis
 
 (( (Permesso di soggiorno per atti di particolare valore civile).))
 
 ((1. Qualora lo straniero abbia compiuto atti di particolare valore civile, nei casi di cui all'articolo 3, della legge 2 gennaio 1958, n. 13, il Ministro dell'interno, su proposta del prefetto competente, autorizza il rilascio di uno speciale permesso di soggiorno, salvo che ricorrano motivi per ritenere che lo straniero risulti pericoloso per l'ordine pubblico e la sicurezza dello Stato, ai sensi dell'articolo 5, comma 5-bis. In tali casi, il questore rilascia un permesso di soggiorno per atti di particolare valore civile della durata di due anni, rinnovabile, che consente l'accesso allo studio nonche' di svolgere attivita' lavorativa e puo' essere convertito in permesso di soggiorno per motivi di lavoro autonomo o subordinato)).
 
-###### Art. 43 - Discriminazione per motivi razziali, etnici, nazionali o religiosi) (Legge 6 marzo 1998, n. 40, art. 41
+#### Art. 43 - Discriminazione per motivi razziali, etnici, nazionali o religiosi) (Legge 6 marzo 1998, n. 40, art. 41
 
 1\. Ai fini del presente capo, costituisce discriminazione ogni comportamento che, direttamente o indirettamente, comporti una distinzione, esclusione, restrizione o preferenza basata sulla razza, il colore, l'ascendenza o l'origine nazionale o etnica, le convinzioni e le pratiche religiose, e che abbia lo scopo o l'effetto di distruggere o di compromettere il riconoscimento, il godimento o l'esercizio, in condizioni di parita', dei diritti umani e delle liberta' fondamentali in campo politico economico, sociale e culturale e in ogni altro settore della vita pubblica.
 
@@ -2898,7 +2874,7 @@ e) il datore di lavoro o i suoi preposti i quali, ai sensi dell'articolo 15 dell
 
 > Le disposizioni di cui al comma precedente si applicano altresi' ai patti o atti diretti a fini di discriminazione politica, religiosa, razziale, di lingua o di sesso".
 
-###### Art. 44
+#### Art. 44
 
 Azione civile contro la discriminazione
 
@@ -2924,7 +2900,7 @@ Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, commi 1 e 2) che 
 
 2\. Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
 
-###### Art. 45 - Fondo nazionale per le politiche migratorie
+#### Art. 45 - Fondo nazionale per le politiche migratorie
 
 (Legge 6 marzo 1998, n. 40, art. 43)
 
@@ -2954,7 +2930,7 @@ Il regolamento di attuazione disciplina le modalita' per la presentazione, l'esa
 
 > "2. Il fondo, per le cui entrate ed uscite e' tenuta una contabilita' separata nella gestione dell'assicurazione obbligatoria contro la disoccupazione, e' alimentato con un contributo, a carico del lavoratore extracomunitario, pari allo 0,50 per cento della retribuzione di cui all'art. 12 della legge 30 aprile 1969, n. 153. Per tale contributo, al cui versamento e' tenuto il datore di lavoro, si osservano le disposizioni vigenti per l'accertamento e la riscossione dei contributi dovuti al Fondo pensioni dei lavoratori dipendenti".
 
-###### Art. 46 - Commissione per le politiche di integrazione
+#### Art. 46 - Commissione per le politiche di integrazione
 
 (Legge 6 marzo 1998, n. 40, art. 44)
 
@@ -2972,7 +2948,7 @@ Il regolamento di attuazione disciplina le modalita' per la presentazione, l'esa
 
 ## TITOLO VI - NORME FINALI
 
-###### Art. 47 - Abrogazioni
+#### Art. 47 - Abrogazioni
 
 (Legge 6 marzo 1998, n. 40, art. 46)
 
@@ -3012,7 +2988,7 @@ g) l'articolo 116 del testo unico approvato con decreto legislativo 16 aprile 19
 
 > "2. Gli studenti di cui al comma 1 fruiscono dei servizi e delle provvidenze per concorso; essi fruiscono dell'assistenza sanitaria con le modalita' di cui all'art. 6, primo comma, lettera a), della legge 23 dicembre 1978, n. 833, e successive modificazioni e integrazioni, ed all'art. 5 del decreto-legge 30 dicembre 1979, n. 663, convertito, con modificazioni, dalla legge 29 febbraio 1980, n. 33".
 
-###### Art. 48 - Copertura finanziaria
+#### Art. 48 - Copertura finanziaria
 
 (Legge 6 marzo 1998, n. 40, art. 48)
 
@@ -3024,7 +3000,7 @@ b) quanto a lire 20.000 milioni per ciascuno degli anni 1997, 1998 e 1999, media
 
 2\. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-###### Art. 49
+#### Art. 49
 
 ((Disposizioni finali e transitorie))
 

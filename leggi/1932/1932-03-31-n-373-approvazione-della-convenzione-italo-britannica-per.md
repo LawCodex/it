@@ -29,11 +29,11 @@ Il Senato e la Camera dei deputati hanno approvato;
 
 Noi abbiamo sanzionato e promulghiamo quanto segue:
 
-### Art. 1
+## Art. 1
 
 Piena ed intera esecuzione e' data alla Convenzione italo-britannica per l'assistenza giudiziaria in materia civile e commerciale, firmata a Londra il 17 dicembre 1930.
 
-### Art. 2
+## Art. 2
 
 La presente legge entrera' in vigore ai termini ed alle condizioni stabilite dall'art. 15 della Convenzione di cui all'articolo precedente.
 
@@ -67,17 +67,17 @@ Sua Eccellenza il Cavaliere di Gran Croce Antonio Chiaramonte Bordonaro, Suo Amb
 
 I quali, presentati i loro pieni poteri, trovati in perfetta e dovuta forma, hanno convenuto quanto segue:
 
-### Art. 1
+## Art. 1
 
 Questa convenzione si applica solamente agli affari civili e commerciali.
 
 ## II. - Notificazione di documenti giudiziali e stragiudiziali.
 
-### Art. 2
+## Art. 2
 
 Quando un atto giudiziale o stragiudiziale, formato in uno dei territori a cui la Convenzione si applica, appartenente a una delle Alte Parti contraenti, deve essere notificato a persone (incluse le Societa') in un territorio dell'altro (a cui la Convenzione si applica), tale atto puo' essere notificato al destinatario, a richiesta della parte interessata, in uno qualunque dei modi previsti dagli articoli 3 e 4.
 
-### Art. 3
+## Art. 3
 
 a) La richiesta di notifica e' trasmessa:
 
@@ -101,7 +101,7 @@ La prova della notifica e' data con una attestazione dell'Autorita' dello Stato 
 
 L'atto da notificare e la traduzione, se vi sia, devono essere trasmessi in duplice copia, e l'attestazione di notifica sara' stesa su una delle copie o allegata a questa.
 
-### Art. 4
+## Art. 4
 
 L'atto da notificare puo' altresi' essere consegnato al destinatario, qualunque sia la sua nazionalita', senza l'intervento dell'Autorita' del Paese nel quale la notifica deve effettuarsi:
 
@@ -111,11 +111,11 @@ b) da una persona incaricata di cio' dall'Autorita' giudiziaria del Paese dal qu
 
 L'atto da notificare deve essere redatto nella lingua del Paese nel quale la notifica deve aver luogo o accompagnato da una traduzione in tale lingua, a meno che il destinatario sia un suddito dell'Alta Parte contraente dalla quale il documento proviene.
 
-### Art. 5
+## Art. 5
 
 Le disposizioni degli articoli 2, 3 e 4 non impediscono alle persone interessate di provvedere alla notifica direttamente per mezzo dei competenti funzionari o ufficiali del Paese nel quale l'atto si deve notificare.
 
-### Art. 6
+## Art. 6
 
 Nessun diritto di alcun genere deve essere pagato da un'Alta Parte contraente all'altra per la notifica.
 
@@ -125,17 +125,17 @@ Tali diritti e spese saranno calcolati in base alla tariffa in vigore nel Paese 
 
 Il rimborso di tali diritti e spese sara' chiesto dall'Autorita' competente all'agente consolare dal quale la richiesta fu trasmessa, nell'inviargli il certificato di cui e' parola nell'art. 3 e).
 
-### Art. 7
+## Art. 7
 
 Nessuna disposizione di questa Convenzione rendera' illegale o inammissibile in territorio dell'una o dell'altra Alta Parte contraente qualsiasi altra forma di notifica ammessa dalla legge vigente al tempo e nel Paese in cui deve essere eseguita.
 
 ## III. - Assunzione di prove.
 
-### Art. 8
+## Art. 8
 
 Quando un'Autorita' giudiziaria in uno dei territori (a cui questa Convenzione si applica) appartenenti ad una delle Alte Parti contraenti dispone che una prova debba essere assunta in un territorio (a cui questa Convenzione si applica) appartenente all'altra Alta Parte contraente, tale prova puo' essere assunta in uno qualsiasi dei modi stabiliti negli articoli 9, 11 e 12.
 
-### Art. 9
+## Art. 9
 
 a) L'Autorita' giudiziaria puo', in conformita' delle disposizioni della sua legge, rivolgersi direttamente per mezzo di «Rogatorie» alla competente Autorita' dell'altra Alta Parte contraente, richiedendola di assumere la prova nei limiti della sua giurisdizione.
 
@@ -165,7 +165,7 @@ i) L'Autorita' che eseguisce la «Rogatoria» applichera', per quanto riguarda l
 
 Cio' nonostante, una domanda da parte dell'Autorita' che fa la richiesta, tendente ad ottenere una speciale procedura, sara' accolta, sempre che tale procedura non sia incompatibile con la legge del Paese dove la prova deve essere assunta.
 
-### Art. 10
+## Art. 10
 
 Nessun diritto di qualsiasi genere deve essere pagato da una Alta Parte contraente all'altra per l'esecuzione della «Rogatoria».
 
@@ -175,7 +175,7 @@ Il rimborso di tali onorari e spese puo' essere richiesto dall'Autorita' compete
 
 L'ammontare degli onorari e delle spese e' calcolato in base alla tariffa in vigore nel Paese nel quale la «Rogatoria» e' stata eseguita, per i sudditi della stessa Alta Parte contraente, in quanto la medesima tariffa sia applicabile.
 
-### Art. 11
+## Art. 11
 
 a) La prova puo' altresi' essere assunta, senza l'intervento delle Autorita' del Paese nel quale essa prova deve essere ricevuta, da un agente diplomatico o consolare dell'Alta Parte contraente per l'Autorita' giudiziaria della quale e' richiesta la prova, o da altra persona nominata dall'Autorita' giudiziaria di tale Parte.
 
@@ -185,7 +185,7 @@ c) Gli inviti a comparire emessi da tale funzionario saranno redatti nella lingu
 
 d) La prova puo' essere assunta osservando la procedura fissata dalla legge dello Stato nel quale la prova deve essere usata e le parti hanno il diritto di assistervi o di farvisi rappresentare da avvocati o procuratori di tale Paese o da altre persone che abbiano la capacita' di comparire davanti ai tribunali dell'uno o dell'altro Paese.
 
-### Art. 12
+## Art. 12
 
 a) La competente Autorita' giudiziaria alla quale la «Rogatoria» e' indirizzata puo' pure essere richiesta di designare una persona ad assumere la prova, ed, avuta la richiesta, di fare tale designazione.
 
@@ -197,21 +197,21 @@ c) La persona designata come sopra avra' facolta' di far prestare giuramento. Co
 
 d) La prova sara' assunta in conformita' della legge del Paese dove la prova deve essere usata, sempre che cio' non sia contrario alle leggi del Paese dove la prova si deve assumere, e le parti hanno il diritto di assistervi personalmente, o di farsi rappresentare da avvocati o procuratori di tale Paese o da altre persone capaci di comparire davanti ai tribunali dell'uno o dell'altro Paese interessato.
 
-### Art. 13
+## Art. 13
 
 Il fatto che un tentativo di assumere la prova nei modi fissati dall'art. 11 non sia riuscito per il rifiuto di qualche teste a comparire, a deporre o a presentare documenti non impedisce di fare successivamente una richiesta in conformita' delle disposizioni degli articoli 9 o 12.
 
 ## IV. - Disposizioni generali.
 
-### Art. 14
+## Art. 14
 
 Tutte le difficolta' che possano sorgere in occasione della applicazione di questa Convenzione saranno definite in via diplomatica.
 
-### Art. 15
+## Art. 15
 
 La presente Convenzione, di cui i testi inglese e italiano sono ugualmente autentici, sara' soggetta a ratifica. Le ratifiche verranno scambiate in Londra. La Convenzione entrera' in vigore un mese dopo la data dello scambio delle ratifiche, e avra' la durata di tre anni dalla data della sua entrata in vigore. Nel caso che nessuna delle Alte Parti contraenti abbia dato comunicazione all'altra, sei mesi prima dello spirare del detto periodo di tre anni, della sua intenzione di porre fine alla Convenzione, questa rimarra' in vigore fino allo spirare di sei mesi dal giorno nel quale l'una o l'altra delle Alte Parti contraenti abbia dato avviso di terminarla.
 
-### Art. 16
+## Art. 16
 
 a) Questa Convenzione non si applichera' ipso facto alla Scozia, ne' all'Irlanda Settentrionale, ne' ad alcuna delle Colonie o alcuno dei Protettorati di Sua Maesta' Britannica, ne' ad alcun territorio sotto la sua Alta Sovranita', ne' ad alcun territorio soggetto a Mandato amministrato dal Suo Governo nel Regno Unito di Gran Bretagna e Irlanda Settentrionale, ma Sua Maesta' Britannica puo' in ogni tempo, per mezzo di una notificazione data per tramite del suo Ambasciatore a Roma, estendere l'efficacia di questa Convenzione a qualunque dei territori sopra menzionati.
 
@@ -219,7 +219,7 @@ b) Tale notifica fissera' la data dalla quale la estensione avra' effetto, le Au
 
 c) L'una o l'altra delle Alte Parti contraenti potra' in ogni tempo, dopo lo spirare di tre anni dall'entrata in vigore della estensione di questa Convenzione ad uno qualsiasi dei territori menzionati nel paragrafo a) di questo articolo, terminare l'estensione stessa, dandone preavviso di sei mesi.
 
-### Art. 17
+## Art. 17
 
 a) Questa Convenzione non si applichera' ipso facto ad alcuna delle Colonie o alcuno dei Protettorati del Regno d'Italia, ma Sua Maesta' il Re d'Italia puo' in ogni tempo estendere questa Convenzione ad una qualsiasi di tali Colonie o Protettorati a mezzo di notifica data per tramite del suo Ambasciatore in Londra.
 
@@ -227,7 +227,7 @@ b) Le disposizioni del paragrafo b) dell'art. 16 si applicheranno a tale notific
 
 c) Le disposizioni del paragrafo c) dell'art. 16 si applicheranno a qualsiasi Colonia o Protettorato del Regno d'Italia a cui questa Convenzione sia stata estesa.
 
-### Art. 18
+## Art. 18
 
 a) Sua Maesta' Britannica puo' in ogni tempo, a mezzo di notifica data per via diplomatica, accedere alla presente Convenzione in rispetto di uno qualunque dei suoi Domini autonomi o dell'India. Le disposizioni dell'articolo 16 (b) saranno applicabili a tale notifica. Tale accessione avra' effetto un mese dopo la data della sua notifica.
 

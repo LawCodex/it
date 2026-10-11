@@ -20,29 +20,11 @@ retrieved: 2026-10-11
 
 *Entrata in vigore del decreto: 24/12/1993*
 
-## Capo I - IMPOSTA COMUNALE SULLA PUBBLICITA'
+## Capo I - IMPOSTA COMUNALE SULLA PUBBLICITA' E DIRITTO SULLE PUBBLICHE AFFISSIONI
 
-### E DIRITTO SULLE PUBBLICHE AFFISSIONI - ((CAPO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160))
+## ((CAPO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160))
 
-#### Art. 1
-
-ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
-
-(33) ((34))
-
----------------
-
-AGGIORNAMENTO (33)
-
-La L. 27 dicembre 2019, n. 160 ha disposto (con l'art. 1, comma 847)che "Restano ferme le disposizioni inerenti alla pubblicita' in ambito ferroviario e quelle che disciplinano la propaganda elettorale".
-
-----------
-
-AGGIORNAMENTO (34)
-
-Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
-
-#### Art. 2
+### Art. 1
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -60,7 +42,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 3
+### Art. 2
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -78,7 +60,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 4
+### Art. 3
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -96,7 +78,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 5
+### Art. 4
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -114,7 +96,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 6
+### Art. 5
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -132,7 +114,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 7
+### Art. 6
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -150,7 +132,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 8
+### Art. 7
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -168,7 +150,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 9
+### Art. 8
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -186,7 +168,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 10
+### Art. 9
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -204,7 +186,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 11
+### Art. 10
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -222,7 +204,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 12
+### Art. 11
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -240,7 +222,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 13
+### Art. 12
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -258,7 +240,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 14
+### Art. 13
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -276,7 +258,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 15
+### Art. 14
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -294,7 +276,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 16
+### Art. 15
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -312,7 +294,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 17
+### Art. 16
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -330,7 +312,25 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 18
+### Art. 17
+
+ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
+
+(33) ((34))
+
+---------------
+
+AGGIORNAMENTO (33)
+
+La L. 27 dicembre 2019, n. 160 ha disposto (con l'art. 1, comma 847)che "Restano ferme le disposizioni inerenti alla pubblicita' in ambito ferroviario e quelle che disciplinano la propaganda elettorale".
+
+----------
+
+AGGIORNAMENTO (34)
+
+Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
+
+### Art. 18
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -352,7 +352,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 19
+### Art. 19
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -370,7 +370,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 20
+### Art. 20
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -388,7 +388,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 20
+### Art. 20
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -406,7 +406,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 20
+### Art. 20
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -424,7 +424,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 20-bis
+### Art. 20-bis
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -442,7 +442,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 21
+### Art. 21
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -460,7 +460,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 22
+### Art. 22
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -478,7 +478,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 23
+### Art. 23
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -496,7 +496,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 24
+### Art. 24
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -514,7 +514,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 25
+### Art. 25
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -532,7 +532,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 26
+### Art. 26
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -550,7 +550,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 27
+### Art. 27
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -568,7 +568,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 28
+### Art. 28
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -586,7 +586,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 29
+### Art. 29
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -604,7 +604,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 30
+### Art. 30
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -622,7 +622,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 31
+### Art. 31
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -640,7 +640,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 32
+### Art. 32
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -658,7 +658,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 33
+### Art. 33
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -676,7 +676,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 34
+### Art. 34
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -694,7 +694,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 35
+### Art. 35
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -712,7 +712,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 36
+### Art. 36
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -730,7 +730,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 37
+### Art. 37
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -750,27 +750,9 @@ Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbr
 
 ## Capo II - TASSA PER L'OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE
 
-### ((CAPO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160))
+## ((CAPO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160))
 
-#### Art. 38
-
-ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
-
-(33) ((34))
-
----------------
-
-AGGIORNAMENTO (33)
-
-La L. 27 dicembre 2019, n. 160 ha disposto (con l'art. 1, comma 847)che "Restano ferme le disposizioni inerenti alla pubblicita' in ambito ferroviario e quelle che disciplinano la propaganda elettorale. Il capo II del decreto legislativo n. 507 del 1993 rimane come riferimento per la determinazione della tassa per l'occupazione di spazi ed aree pubbliche appartenenti alle regioni di cui agli articoli 5 della legge 16 maggio 1970, n. 281, e 8 del decreto legislativo 6 maggio 2011, n. 68."
-
-----------
-
-AGGIORNAMENTO (34)
-
-Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
-
-#### Art. 39
+### Art. 38
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -788,7 +770,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 40
+### Art. 39
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -806,7 +788,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 41
+### Art. 40
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -824,7 +806,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 42
+### Art. 41
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -842,7 +824,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 43
+### Art. 42
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -860,7 +842,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 44
+### Art. 43
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -878,7 +860,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 45
+### Art. 44
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -896,7 +878,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 46
+### Art. 45
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -914,7 +896,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 47
+### Art. 46
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -932,7 +914,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 48
+### Art. 47
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -950,7 +932,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 49
+### Art. 48
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -968,7 +950,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 50
+### Art. 49
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -986,7 +968,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 51
+### Art. 50
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -1004,7 +986,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 52
+### Art. 51
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -1022,7 +1004,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 53
+### Art. 52
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -1040,7 +1022,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 54
+### Art. 53
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -1058,7 +1040,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 55
+### Art. 54
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -1076,7 +1058,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 56
+### Art. 55
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -1094,7 +1076,7 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-#### Art. 57
+### Art. 56
 
 ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
@@ -1112,11 +1094,27 @@ AGGIORNAMENTO (34)
 
 Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
 
-## Capo III - TASSA PER LO SMALTIMENTO
+### Art. 57
 
-### DEI RIFIUTI SOLIDI URBANI INTERNI
+ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2019, N. 160
 
-#### Art. 58
+(33) ((34))
+
+---------------
+
+AGGIORNAMENTO (33)
+
+La L. 27 dicembre 2019, n. 160 ha disposto (con l'art. 1, comma 847)che "Restano ferme le disposizioni inerenti alla pubblicita' in ambito ferroviario e quelle che disciplinano la propaganda elettorale. Il capo II del decreto legislativo n. 507 del 1993 rimane come riferimento per la determinazione della tassa per l'occupazione di spazi ed aree pubbliche appartenenti alle regioni di cui agli articoli 5 della legge 16 maggio 1970, n. 281, e 8 del decreto legislativo 6 maggio 2011, n. 68."
+
+----------
+
+AGGIORNAMENTO (34)
+
+Il D.L. 30 dicembre 2019, n. 162, convertito con modificazioni dalla L. 28 febbraio 2020, n. 8, nel modificare l'art. 1, comma 847 della L. 27 dicembre 2019, n. 160, ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160; si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del decreto legislativo 15 novembre 1993, n. 507, nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli articoli 62 e 63 del decreto legislativo 15 dicembre 1997, n. 446".
+
+## Capo III - TASSA PER LO SMALTIMENTO DEI RIFIUTI SOLIDI URBANI INTERNI
+
+### Art. 58
 
 Istituzione della tassa
 
@@ -1128,7 +1126,7 @@ AGGIORNAMENTO (6)
 
 Il D.L. 28 giugno 1995, n. 250 convertito con modificazioni dalla L. 8 agosto 1995, n. 349 ha disposto (con l'art. 1, comma 14) che "Il termine per l'approvazione del regolamento relativo alla tassa per lo smaltimento dei rifiuti solidi urbani interni di cui all'articolo 58 del decreto legislativo 15 novembre 1993, n. 507, e' fissato al 30 settembre 1995. Fino al 31 dicembre 1995, in carenza dello stesso regolamento e delle relative tariffe, si applicano le norme e le tariffe precedentemente in vigore, qualora non diversamente deliberato. L'adozione nel termine del 30 settembre 1995 del regolamento e delle tariffe comporta per gli enti locali la sanatoria, a tutti i fini, dei comportamenti finanziari effettivamente tenuti negli anni 1994 e 1995".
 
-#### Art. 59
+### Art. 59
 
 Attivazione del servizio
 
@@ -1180,11 +1178,11 @@ Attivazione del servizio
 
 > Ferme restando le disposizioni contenute nella legge 10 maggio 1976, n. 319, e successive modificazioni, e' fatto divieto di scaricare rifiuti di qualsiasi genere nelle acque pubbliche e private".
 
-#### Art. 60
+### Art. 60
 
 (( ARTICOLO ABROGATO DALLA L. 22 FEBBRAIO 1994, N. 146 ))
 
-#### Art. 61
+### Art. 61
 
 Gettito e costo del servizio
 
@@ -1210,7 +1208,7 @@ AGGIORNAMENTO (18)
 
 La L. 23 dicembre 1998 n. 448 ha disposto (con l'art. 31, comma 23) che " In deroga a quanto previsto dall'articolo 61, comma 3-bis, del decreto legislativo 15 novembre 1993, n. 507, come modificato dalla legge 28 dicembre 1995, n. 549, per l'anno 1999, ai fini della determinazione del costo di esercizio del servizio di nettezza urbana gestito in regime di privativa comunale, i comuni possono considerare l'intero costo dello spazzamento dei rifiuti solidi urbani di cui all'articolo 7 del decreto legislativo 5 febbraio 1997, n. 22, e suc- cessive modificazioni."
 
-#### Art. 62
+### Art. 62
 
 Presupposto della tassa ed esclusioni
 
@@ -1224,7 +1222,7 @@ Presupposto della tassa ed esclusioni
 
 5\. Sono esclusi dalla tassa i locali e le aree scoperte per i quali non sussiste l'obbligo dell'ordinario conferimento dei rifiuti solidi urbani interni ed equiparati in regime di privativa comunale per effetto di norme legislative o regolamentari, di ordinanze in materia sanitaria, ambientale o di protezione civile ovvero di accordi internazionali riguardanti organi di Stati esteri.
 
-#### Art. 63
+### Art. 63
 
 Soggetti passivi e soggetti responsabili del tributo
 
@@ -1236,7 +1234,7 @@ Soggetti passivi e soggetti responsabili del tributo
 
 4\. ((COMMA ABROGATO DAL D.L. 25 NOVEMBRE 1996,N. 599, CONVERTITO CON MODIFICAZIONI DALLA L. 24 GENNAIO 1997, N. 5 )).
 
-#### Art. 64
+### Art. 64
 
 Inizio e cessazione dell'occupazione o detenzione
 
@@ -1248,7 +1246,7 @@ Inizio e cessazione dell'occupazione o detenzione
 
 4\. In caso di mancata presentazione della denuncia nel corso dell'anno di cessazione, il tributo non e' dovuto per le annualita' successive se l'utente che ha prodotto denuncia di cessazione dimostri di non aver continuato l'occupazione o la detezione dei locali ed aree ovvero se la tassa sia stata assolta dall'utente subentante a seguito di denuncia o in sede di recupero d'ufficio.
 
-#### Art. 65
+### Art. 65
 
 Commisurazione e tariffe
 
@@ -1256,7 +1254,7 @@ Commisurazione e tariffe
 
 2\. Le tariffe per ogni categoria o sottocategoria omogenea sono de- terminate dal comune, secondo il rapporto di copertura del costo prescelto entro i limiti di legge, moltiplicando il costo di smaltimento per unita' di superficie imponibile accertata, previsto per l'anno successivo, per uno o piu' coefficienti di produttivita' quantitativa e qualitativa di rifiuti.
 
-#### Art. 66
+### Art. 66
 
 Tariffe per particolari condizioni di uso
 
@@ -1296,7 +1294,7 @@ AGGIORNAMENTO (19)
 
 Il D.L. 26 gennaio 1999, n. 8,convertito con modificazioni dalla L. 25 marzo 1999, n. 75 nel modificare l'art. 6, comma 1 del D.L. 29 settembre 1997, n. 328, convertito con modificazioni dalla L. 29 novembre 1997, n. 410 che a sua volta modifica l'art. 2, comma 4-bis del D.L. 25 novembre 1996, n. 599 convertito con modificazioni dalla L. 24 gennaio 1997, n. 5 ha conseguentemente disposto (con l'art. 1) che "Il disposto dell'articolo 6 del decreto-legge 29 settembre 1997, n. 328, convertito, con modificazioni, dalla legge 29 novembre 1997, n. 410, continua ad applicarsi anche successivamente al 1998".
 
-#### Art. 67
+### Art. 67
 
 Agevolazioni
 
@@ -1306,7 +1304,7 @@ Agevolazioni
 
 3\. Le esenzioni e le riduzioni di cui al comma 1 sono iscritte in bilancio come autorizzazioni di spesa e la relativa copertura e' assicurata da risorse diverse dai proventi della tassa relativa all'esercizio cui si riferisce l'iscrizione predetta.
 
-#### Art. 68
+### Art. 68
 
 Regolamenti
 
@@ -1336,7 +1334,7 @@ f) locali ed aree adibite a pubblici esercizi o esercizi di vendita al dettaglio
 
 3\. I regolamenti, divenuti esecutivi a norma di legge, sono trasmessi entro trenta giorni alla direzione centrale per la fiscalita' locale del Ministero delle finanze che formula eventuali rilievi di legittimita' entro sei mesi dalla ricezione del provvedimento. In caso di rilievi formulati tardivamente il comune non e' obbligato ad adeguarsi agli effetti dei rimborsi e degli accertamenti integrativi.
 
-#### Art. 69
+### Art. 69
 
 Deliberazioni di tariffa
 
@@ -1378,7 +1376,7 @@ Deliberazioni di tariffa
 
 > 9- bis. E' fatta salva la facolta' per le regioni a statuto speciale, e per le province autonome di Trento e di Bolzano, di porre a proprio carico oneri per la copertura di posti negli enti locali dissestati in aggiunta a quelli di cui alla pianta organica rideterminata ove gli oneri predetti siano previsti per tutti gli enti operanti nell'ambito della medesima regione o provincia autonoma.".
 
-#### Art. 70
+### Art. 70
 
 D e n u n c e
 
@@ -1394,7 +1392,7 @@ D e n u n c e
 
 6\. In occasione di iscrizioni anagrafiche o altre pratiche concernenti i locali ed aree interessati, gli uffici comunali sono tenuti ad invitare l'utente a provvedere alla denuncia nel termine previsto, fermo restando, in caso di omesso invito, l'obbligo di denuncia di cui al comma 1.
 
-#### Art. 71
+### Art. 71
 
 Accertamento
 
@@ -1408,7 +1406,7 @@ Accertamento
 
 4\. Ai fini del potenziamento dell'azione di accertamento, il comune, ove non sia in grado di provvedere autonomamente, puo' stipulare apposite convenzioni con soggetti privati o pubblici per l'individuazione delle superfici in tutto o in parte sottratte a tassazione. Il relativo capitolato deve contenere l'indicazione dei criteri e delle modalita' di rilevazione della materia imponibile nonche' dei requisiti di capacita' ed affidabilita' del personale impiegato dal contraente.
 
-#### Art. 72
+### Art. 72
 
 Riscossione
 
@@ -1440,7 +1438,7 @@ AGGIORNAMENTO (7)
 
 Il D.L. 2 ottobre 1995, n. 415 convertito con modificazioni dalla L. 29 novembre 1995, n. 507 ha disposto (con l'art. 4, comma 10) che "Il termine per l'applicabilita' dell'articolo 72, comma 3, del decreto legislativo 15 novembre 1993, n. 507, e' fissato al 1 gennaio 1995."
 
-#### Art. 73
+### Art. 73
 
 Poteri dei comuni
 
@@ -1452,7 +1450,7 @@ Poteri dei comuni
 
 (( 3-bis. L'ufficio comunale puo' richiedere, ai sensi del comma 1, all'amministratore del condominio di cui all'articolo 1117 del codice civile ed al soggetto responsabile del pagamento previsto dall'art. 63, comma 3, la presentazione dell'elenco degli occupanti o detentori dei locali ed aree dei partecipanti al condominio ed al centro commerciale integrato )).
 
-#### Art. 74
+### Art. 74
 
 Funzionario responsabile
 
@@ -1460,11 +1458,11 @@ Funzionario responsabile
 
 2\. Il comune e' tenuto a comunicare alla direzione centrale per la fiscalita' locale del Ministero delle finanze il nominativo del funzionario responsabile entro sessanta giorni dalla nomina.
 
-#### Art. 75
+### Art. 75
 
 (( ARTICOLO ABROGATO DALLA L. 27 DICEMBRE 2006, N. 296 ))
 
-#### Art. 76 - Sanzioni ed interessi
+### Art. 76 - Sanzioni ed interessi
 
 1\. Per l'omessa presentazione della denuncia, anche di variazione, si applica la sanzione amministrativa dal cento al duecento per cento della tassa o della maggiore tassa dovuta con un minimo di lire centomila. (17)
 
@@ -1488,7 +1486,7 @@ AGGIORNAMENTO (21)
 
 Il D.Lgs. 30 marzo 2000, n. 99 nel modificare il D.Lgs. 18 dicembre 1997, n. 473 ha disposto (con l'art. 4, comma 1) che la presente modifica ha effetto dal 1° aprile 1998.
 
-#### Art. 77
+### Art. 77
 
 Tassa giornaliera di smaltimento
 
@@ -1506,13 +1504,13 @@ Tassa giornaliera di smaltimento
 
 7\. Il comune puo' prevedere esenzioni o riduzioni con l'osservanza dei criteri di cui all'articolo 67.
 
-#### Art. 78
+### Art. 78
 
 Vigilanza sugli atti regolamentari e sulla gestione del tributo
 
 1\. E' attribuita alla direzione centrale per la fiscalita' locale del Ministero delle finanze la funzione di vigilanza sulla gestione della tassa per lo smaltimento dei rifiuti ed il controllo sulle delibere regolamentari e tariffarie. A tal fine si applicano, in quanto compatibili, le disposizioni dell'art. 35, fermo restando quanto previsto dagli articoli 68 e 69.
 
-#### Art. 79
+### Art. 79
 
 Disposizioni finali e transitorie
 
@@ -1554,7 +1552,7 @@ AGGIORNAMENTO (16)
 
 La L. 8 maggio 1998, n. 146 ha disposto (con l'art. 33, comma 1) che "Il termine del 31 ottobre 1995 di cui all'articolo 79, comma 2, del decreto legislativo 15 novembre 1993, n. 507, per l'adozione delle modificazioni alla classificazione delle categorie tassabili ed alle tariffe derivanti dall'attuazione dei criteri di commisurazione del tributo di cui all'articolo 65 del predetto decreto legislativo, e' differito al 31 ottobre 1998."
 
-#### Art. 80
+### Art. 80
 
 Abrogazioni
 
@@ -1600,7 +1598,7 @@ Abrogazioni
 
 > Per l'applicazione della tassa si osservano le disposizioni di cui al successivo capo XIX, con esclusione di quelle concernenti il contenzioso per le quali si applicano l'art. 20 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 638, e l'art. 288".
 
-#### Art. 81
+### Art. 81
 
 Efficacia delle disposizioni
 

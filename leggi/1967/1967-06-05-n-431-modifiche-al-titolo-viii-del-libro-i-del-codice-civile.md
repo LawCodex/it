@@ -25,7 +25,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 L'articolo 291 del Codice civile e' sostituito dal seguente:
 
@@ -33,13 +33,13 @@ L'articolo 291 del Codice civile e' sostituito dal seguente:
 
 Quando eccezionali circostanze lo consigliano, il tribunale puo' autorizzare l'adozione se l'adottante ha raggiunto almeno l'eta' di trenta anni, ferma restando la differenza di eta' di cui al comma precedente".
 
-### Art. 2
+## Art. 2
 
 Il primo comma dell'articolo 294 del Codice civile e' sostituito dal seguente:
 
 "E' ammessa l'adozione di piu' persone, anche con atti successivi".
 
-### Art. 3
+## Art. 3
 
 Nelle ipotesi di cui al capo II del titolo VIII del libro I del Codice civile, alla competenza della Corte d'appello e' sostituita quella del tribunale nel cui circondario l'adottante ha la residenza.
 
@@ -47,7 +47,7 @@ Per l'adozione di minorenni e' competente il tribunale per i minorenni.
 
 E' soppresso il secondo comma dell'articolo 311 del Codice civile.
 
-### Art. 4
+## Art. 4
 
 Nel titolo VIII del libro I del Codice civile e' inserito il seguente capo III con il titolo: "Dell'adozione speciale".
 
@@ -299,13 +299,13 @@ Art. 314/28.
 
 Salvi i casi in cui per legge e' richiesta la copia integrale dell'atto di nascita, qualunque attestazione di stato civile riferita all'adottato deve essere rilasciata con, la sola indicazione del nuovo cognome e con l'esclusione di qualsiasi indicazione relativa alla paternita' o alla maternita' del minore e dell'annotazione di cui all'ultimo comma dell'articolo 314/25.
 
-### Art. 5
+## Art. 5
 
 Il minore di nazionalita' straniera che sia legittimato per adozione da coniugi di cittadinanza italiana acquista di diritto tale cittadinanza.
 
 ## NORME TRANSITORIE
 
-### Art. 6
+## Art. 6
 
 Per i primi cinque anni dalla data di entrata in vigore della presente legge l'adozione speciale puo' essere dichiarata, anche indipendentemente dai limiti di eta' previsti per gli adottanti e per gli adottandi dalla legge, nei confronti dei minori che a tale data siano in affidamento o affiliati ai sensi degli articoli 404 e seguenti del Codice civile, nonche' nei confronti di chi a tale data e' gia' adottato ai sensi degli articoli 291 e seguenti del Codice civile.
 

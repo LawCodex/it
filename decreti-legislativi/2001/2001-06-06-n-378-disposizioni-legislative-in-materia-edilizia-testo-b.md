@@ -154,9 +154,9 @@ Regolamenti edilizi comunali (legge 17 agosto 1942, n. 1150, art. 33)
 
 Sportello unico per l'edilizia
 
-## Titolo II - TITOLI ABILITATIVI
+### Titolo II - TITOLI ABILITATIVI
 
-### Capo I - Disposizioni generali
+#### Capo I - Disposizioni generali
 
 ###### Art. 6 (L)
 
@@ -214,9 +214,9 @@ b) fuori dal perimetro dei centri abitati, gli interventi di nuova edificazione 
 
 2\. Nelle aree nelle quali non siano stati approvati gli strumenti urbanistici attuativi previsti dagli strumenti urbanistici generali come presupposto per l'edificazione, oltre agli interventi indicati al comma 1, lettera a), sono consentiti gli interventi di cui alla lettera d) del primo comma dell'articolo 3 del presente testo unico che riguardino singole unita' immobiliari o parti di esse. Tali ultimi interventi sono consentiti anche se riguardino globalmente uno o piu' edifici e modifichino fino al 25 per cento delle destinazioni preesistenti, purche' il titolare del permesso si impegni, con atto trascritto a favore del comune e a cura e spese dell'interessato, a praticare, limitatamente alla percentuale mantenuta ad uso residenziale, prezzi di vendita e canoni di locazione concordati con il comune ed a concorrere negli oneri di urbanizzazione di cui alla sezione II del capo II del presente titolo.
 
-## Capo II - Permesso di costruire
+#### Capo II - Permesso di costruire
 
-### Sezione I - Nozione e caratteristiche
+##### Sezione I - Nozione e caratteristiche
 
 ###### Art. 10 (L)
 
@@ -288,7 +288,7 @@ della legge 6 agosto 1967, n. 765; decreto legislativo n. 267 del
 
 Efficacia temporale e decadenza del permesso di costruire
 
-## Sezione II - Contributo di costruzione
+##### Sezione II - Contributo di costruzione
 
 ###### Art. 16 (L)
 
@@ -386,7 +386,7 @@ residenza (legge 28 gennaio 1977, n. 10, art. 10)
 
 3\. Qualora la destinazione d'uso delle opere indicate nei commi precedenti, nonche' di quelle nelle zone agricole previste dall'articolo 17, venga comunque modificata nei dieci anni successivi all'ultimazione dei lavori, il contributo di costruzione e' dovuto nella misura massima corrispondente alla nuova destinazione, determinata con riferimento al momento dell'intervenuta variazione.
 
-## Sezione III - Procedimento
+##### Sezione III - Procedimento
 
 ###### Art. 20 (R)
 
@@ -396,7 +396,7 @@ Procedimento per il rilascio del permesso di costruire
 
 Intervento sostitutivo regionale
 
-## Capo III - Denuncia di inizio attivita'
+#### Capo III - Denuncia di inizio attivita'
 
 ###### Art. 22 (L)
 
@@ -430,7 +430,7 @@ Titolo III
 
 AGIBILITA' DEGLI EDIFICI
 
-## Capo I - Certificato di agibilita'
+#### Capo I - Certificato di agibilita'
 
 ###### Art. 24 (L)
 
@@ -470,11 +470,9 @@ Dichiarazione di inagibilita' (regio decreto 27 luglio 1934, n. 1265, art. 222)
 
 1\. Il rilascio del certificato di agibilita' non impedisce l'esercizio del potere di dichiarazione di inagibilita' di un edificio o di parte di esso ai sensi dell'articolo 222 del regio decreto 27 luglio 1934, n. 1265.
 
-## Titolo IV - VIGILANZA SULL'ATTIVITA' URBANISTICO EDILIZIA, RESPONSABILITA' E
+### Titolo IV - VIGILANZA SULL'ATTIVITA' URBANISTICO EDILIZIA, RESPONSABILITA' E SANZIONI
 
-### SANZIONI - Capo I
-
-#### Vigilanza sull'attivita' urbanistico-edilizia e responsabilita'
+#### Capo I - Vigilanza sull'attivita' urbanistico-edilizia e responsabilita'
 
 ###### Art. 27 (L)
 
@@ -530,7 +528,7 @@ anche del progettista per le opere subordinate a denuncia di inizio attivita' (l
 
 3\. Per le opere realizzate dietro presentazione di denuncia di inizio attivita', il progettista assume la qualita' di persona esercente un servizio di pubblica necessita' ai sensi degli articoli 359 e 481 del codice penale. In caso di dichiarazioni non veritiere nella relazione di cui all'articolo 23, comma 1, l'amministrazione ne da' comunicazione al competente ordine professionale per l'irrogazione delle sanzioni disciplinari.
 
-## Capo II - Sanzioni
+#### Capo II - Sanzioni
 
 ###### Art. 30 (L)
 
@@ -886,7 +884,7 @@ Il testo del presente articolo e' gia' integrato con le correzioni apportate dal
 
 E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-## Capo III - Disposizioni fiscali
+#### Capo III - Disposizioni fiscali
 
 ###### Art. 49 (L)
 
@@ -944,7 +942,7 @@ Finanziamenti pubblici e sanatoria (legge 23 dicembre 1996, n. 662, art. 2, comm
 
 ## PARTE II - Normativa tecnica per l'edilizia
 
-### Capo I - Disposizioni di carattere generale
+#### Capo I - Disposizioni di carattere generale
 
 ###### Art. 52 (L)
 
@@ -1114,11 +1112,9 @@ Opere pubbliche
 
 1\. Quando si tratti di opere eseguite dai soggetti di cui all'art. 2 della legge 11 febbraio 1994, n. 109, le norme della presente parte si applicano solo nel caso in cui non sia diversamente disposto dalla citata legge n. 109 del 1994, dal decreto del Presidente della Repubblica 21 dicembre 1999, n. 544, dal decreto del Presidente della Repubblica 25 gennaio 2000, n. 34 e dal decreto ministeriale 19 aprile 2000, n. 145.
 
-## Capo II - Disciplina delle opere di conglomerato cementizio armato, normale e
+#### Capo II - Disciplina delle opere di conglomerato cementizio armato, normale e precompresso ed a struttura metallica
 
-### precompresso ed a struttura metallica - Sezione I
-
-#### Adempimenti
+##### Sezione I - Adempimenti
 
 ###### Art. 64 (L)
 
@@ -1168,7 +1164,7 @@ Collaudo statico (legge 5 novembre 1971, n. 1086, articoli 7 e 8)
 
 8\. Per il rilascio di licenza d'uso o di agibilita', se prescritte, occorre presentare all'amministrazione comunale una copia del certificato di collaudo.
 
-## Sezione II - Vigilanza
+##### Sezione II - Vigilanza
 
 ###### Art. 68 (L)
 
@@ -1204,7 +1200,7 @@ Sospensione dei lavori (legge 5 novembre 1971, n. 1086, art. 12)
 
 3\. Della disposta sospensione e' data comunicazione al dirigente del competente ufficio comunale perche' ne curi l'osservanza.
 
-## Sezione III - Norme penali
+##### Sezione III - Norme penali
 
 ###### Art. 71 (L)
 
@@ -1296,13 +1292,9 @@ Comunicazione della sentenza (legge 5 novembre 1971, n. 1086, art.18)
 
 1\. La sentenza irrevocabile, emessa in base alle precedenti disposizioni, deve essere comunicata, a cura del cancelliere, entro quindici giorni da quello in cui e' divenuta irrevocabile, al comune e alla regione interessata ed al consiglio provinciale dell'ordine professionale, cui eventualmente sia iscritto l'imputato.
 
-## Capo III - Disposizioni per favorire il superamento e l'eliminazione delle
+#### Capo III - Disposizioni per favorire il superamento e l'eliminazione delle barriere architettoniche negli edifici privati, pubblici e privati aperti al pubblico
 
-### barriere architettoniche negli edifici privati, pubblici e privati - aperti al pubblico
-
-#### Sezione I
-
-##### Eliminazione delle barriere architettoniche negli edifici privati
+##### Sezione I - Eliminazione delle barriere architettoniche negli edifici privati
 
 ###### Art. 77 (L)
 
@@ -1370,9 +1362,7 @@ legislativo 18 agosto 2000, n. 267, art. 107 e 109)
 
 1\. Alle domande ovvero alle comunicazioni al dirigente o responsabile del competente ufficio comunale relative alla realizzazione di interventi di cui al presente capo e' allegato certificato medico in carta libera attestante l'handicap e dichiarazione sostitutiva dell'atto di notorieta', ai sensi dell'art. 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, recante il testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, dalla quale risultino l'ubicazione della propria abitazione, nonche' le difficolta' di accesso.
 
-## Sezione II
-
-### Eliminazione o superamento delle barriere architettoniche negli - edifici pubblici e privati aperti al pubblico
+##### Sezione II - Eliminazione o superamento delle barriere architettoniche negli edifici pubblici e privati aperti al pubblico
 
 ###### Art. 82 (L )
 
@@ -1410,11 +1400,9 @@ Il testo del presente articolo e' gia' integrato con le correzioni apportate dal
 
 E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-## Capo IV - Provvedimenti per le costruzioni con particolari prescrizioni per le
+#### Capo IV - Provvedimenti per le costruzioni con particolari prescrizioni per le zone sismiche
 
-### zone sismiche - Sezione I
-
-#### Norme per le costruzioni in zone sismiche
+##### Sezione I - Norme per le costruzioni in zone sismiche
 
 ###### Art. 83 (L)
 
@@ -1534,7 +1522,7 @@ Edifici di speciale importanza artistica (legge 3 febbraio 1974, n. 64, art. 16)
 
 1\. Per l'esecuzione di qualsiasi lavoro di natura antisismica in edifici o manufatti di carattere monumentale o aventi, comunque, interesse archeologico, storico o artistico, siano essi pubblici o di privata proprieta', restano ferme le disposizioni di cui al decreto legislativo 29 ottobre 1999, n. 490.
 
-## Sezione II - Vigilanza sulle costruzioni in zone sismiche
+##### Sezione II - Vigilanza sulle costruzioni in zone sismiche
 
 ###### Art. 93 (R)
 
@@ -1554,7 +1542,7 @@ Autorizzazione per l'inizio dei lavori (legge 3 febbraio 1974, n. 64, art. 18)
 
 4\. I lavori devono essere diretti da un ingegnere, architetto, geometra o perito edile iscritto nell'albo, nei limiti delle rispettive competenze.
 
-## Sezione III - Repressione delle violazioni
+##### Sezione III - Repressione delle violazioni
 
 ###### Art. 95 (L)
 
@@ -1666,7 +1654,7 @@ Vigilanza per l'osservanza delle norme tecniche (legge 3 febbraio
 
 3\. Eguale obbligo spetta agli ingegneri e geometri degli uffici tecnici succitati quando accedano per altri incarichi qualsiasi nei comuni danneggiati, compatibilmente coi detti incarichi.
 
-## Sezione IV - Disposizioni finali
+##### Sezione IV - Disposizioni finali
 
 ###### Art. 104 (L)
 
@@ -1706,7 +1694,7 @@ Esenzione per le opere eseguite dal genio militare (legge 3 febbraio 1974, n. 64
 
 1\. Per le opere che si eseguono a cura del genio militare l'osservanza delle disposizioni di cui alle sezioni II e III del presente capo e' assicurata dall'organo all'uopo individuato dal Ministero della difesa.
 
-## Capo V - Norme per la sicurezza degli impianti
+#### Capo V - Norme per la sicurezza degli impianti
 
 ###### Art. 107 (L)
 
@@ -1878,7 +1866,7 @@ Abrogazione e adeguamento dei regolamenti comunali e regionali (legge 18 maggio 
 
 1\. I comuni e le regioni sono tenuti ad adeguare i propri regolamenti, qualora siano in contrasto con le disposizioni del presente capo.
 
-## Capo VI - Norme per il contenimento del consumo di energia negli edifici
+#### Capo VI - Norme per il contenimento del consumo di energia negli edifici
 
 ###### Art. 122 (L)
 
@@ -2074,7 +2062,7 @@ Applicazione (legge 9 gennaio 1991, n. 10, art. 37)
 
 ## Parte III - DISPOSIZIONI FINALI
 
-### Capo I - Disposizioni finali
+#### Capo I - Disposizioni finali
 
 ###### Art. 136
 

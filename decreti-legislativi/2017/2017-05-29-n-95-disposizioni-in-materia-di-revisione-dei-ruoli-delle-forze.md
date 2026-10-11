@@ -1770,7 +1770,7 @@ lll) all'articolo 65-ter, sono apportate le seguenti modificazioni:
 
 > 7\. Fermo restando quanto stabilito dal presente articolo, al personale delle carriere della Polizia di Stato iscritto nel ruolo d'onore si applicano, in quanto compatibili, le disposizioni previste per gli ufficiali delle forze di polizia ad ordinamento militare iscritti nel ruolo d'onore che prestano servizio ai sensi dell'articolo 116 della legge 10 aprile 1954, n. 113, e dell'articolo 1 della legge 27 febbraio 1989, n. 79.".
 
-## Sezione II - Disposizioni transitorie e comuni per la Polizia di Stato
+### Sezione II - Disposizioni transitorie e comuni per la Polizia di Stato
 
 #### Art. 2
 
@@ -2514,7 +2514,7 @@ f) all'articolo 952, dopo il comma 3 e' aggiunto il seguente:
 
 > 3-bis. Il personale in ferma volontaria appartenente ai ruoli degli ispettori e degli appuntati e carabinieri dell'Arma dei carabinieri giudicato non idoneo al servizio militare incondizionato per lesioni dipendenti o meno da causa di servizio, che ha conseguito la nomina a carabiniere di cui agli articoli 768 e 783, transita nelle qualifiche funzionali del personale civile del Ministero della difesa, secondo modalita' e procedure di cui all'articolo 930. Nei riguardi del personale transitato trova applicazione il regime pensionistico e previdenziale dell'amministrazione di destinazione.".
 
-## Sezione II - Ruoli degli ufficiali
+### Sezione II - Ruoli degli ufficiali
 
 #### Art. 6
 
@@ -3054,7 +3054,7 @@ Personale delle bande musicali
 
 > d) per l'Arma dei carabinieri, ruolo normale.".
 
-## Sezione III - Ruolo degli ispettori
+### Sezione III - Ruolo degli ispettori
 
 #### Art. 11
 
@@ -3438,7 +3438,7 @@ Personale delle bande musicali
 
 1\. Al personale del ruolo dei musicisti dell'Arma dei carabinieri si applicano le disposizioni contenute nel codice dell'ordinamento militare di cui al decreto legislativo n. 66 del 2010.
 
-## Sezione IV - Ruolo dei sovrintendenti
+### Sezione IV - Ruolo dei sovrintendenti
 
 #### Art. 17
 
@@ -3640,7 +3640,7 @@ b) escluso dalla procedura ai sensi del comma 1, lettere c) e d), la qualifica e
 
 > b) (soppressa).".
 
-## Sezione V - Ruolo degli appuntati e dei carabinieri
+### Sezione V - Ruolo degli appuntati e dei carabinieri
 
 #### Art. 22
 
@@ -3794,7 +3794,7 @@ b) escluso dalla procedura ai sensi del comma 1, lettere c) e d), la qualifica e
 
 > 4-bis. Gli appuntati e i carabinieri giudicati non idonei sono valutati nuovamente dopo un anno. Gli stessi, se giudicati per la seconda volta non idonei, possono essere ulteriormente valutati nel quarto anno successivo a ogni giudizio negativo. A tal fine, se giudicati idonei, sono promossi con le stesse modalita' e con le stesse decorrenze attribuite ai pari grado con i quali sono stati portati in avanzamento.
 
-## Sezione VI - Ordinamento dell'Arma dei carabinieri
+### Sezione VI - Ordinamento dell'Arma dei carabinieri
 
 #### Art. 25
 
@@ -3836,7 +3836,7 @@ Qualifiche di pubblica sicurezza
 
 > 3\. I luogotenenti e i marescialli maggiori, oltre quanto gia' specificato, sono sostituti ufficiali di pubblica sicurezza e sostituiscono i superiori gerarchici in caso di assenza o impedimento di questi, assumendo anche la qualifica di ufficiale di pubblica sicurezza.".
 
-## Sezione VII - Norme di coordinamento, transitorie e finali
+### Sezione VII - Norme di coordinamento, transitorie e finali
 
 #### Art. 27
 

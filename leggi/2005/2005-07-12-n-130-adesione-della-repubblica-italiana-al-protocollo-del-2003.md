@@ -27,19 +27,19 @@ Promulga
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Autorizzazione all'adesione
 
 1\. Il Presidente della Repubblica e' autorizzato ad aderire al Protocollo del 2003 alla Convenzione internazionale del 1992 sull'istituzione di un Fondo complementare internazionale per il risarcimento dei danni causati dall'inquinamento da idrocarburi, fatto a Londra il 16 maggio 2003.
 
-### Art. 2
+## Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data al Protocollo di cui all'articolo 1, di seguito denominato «Protocollo», a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 21, paragrafo 2, del Protocollo stesso.
 
-### Art. 3
+## Art. 3
 
 Adempimenti dei destinatari di idrocarburi
 
@@ -49,13 +49,13 @@ e del Ministero delle attivita' produttive
 
 2\. Il Ministero delle attivita' produttive trasmette le informazioni previste dall'articolo 10 del citato decreto del Presidente della Repubblica n. 504 del 1978 anche al direttore del Fondo complementare di cui all'articolo 1.
 
-### Art. 4
+## Art. 4
 
 Competenze giurisdizionali
 
 1\. Le cause promosse per i danni derivanti dall'inquinamento da idrocarburi nei confronti del Fondo complementare sono di competenza del tribunale nella cui circoscrizione si e' verificato l'inquinamento. Nell'ipotesi di inquinamento di acque territoriali o di luoghi appartenenti alla circoscrizione di piu' tribunali e' competente il tribunale preventivamente adito.
 
-### Art. 5
+## Art. 5
 
 Sanzioni pecuniarie
 
@@ -63,7 +63,7 @@ Sanzioni pecuniarie
 
 2\. Alla violazione di cui al comma 1 si applicano le disposizioni stabilite dall'articolo 12, commi dal quarto al nono, del decreto del Presidente della Repubblica 27 maggio 1978, n. 504.
 
-### Art. 6
+## Art. 6
 
 Modifiche al decreto del Presidente
 
@@ -75,13 +75,13 @@ a) le parole: «convenzione sulla responsabilita' civile» e: «convenzione sul 
 
 b) il nono comma dell'articolo 12 e' sostituito dal seguente: «Per quanto non previsto dai commi precedenti, si applicano gli articoli 6, 7, 14, 16, 17, 18 e da 22 a 28 della legge 24 novembre 1981, n. 689».
 
-### Art. 7
+## Art. 7
 
 Disposizione finanziaria
 
 1\. Dall'attuazione della presente legge non devono derivare nuovi o maggiori oneri a carico del bilancio dello Stato.
 
-### Art. 8
+## Art. 8
 
 Entrata in vigore
 
@@ -127,7 +127,7 @@ CONSIDERANDO che l'accesso al meccanismo complementare sara' aperto soltanto agl
 
 HANNO CONVENUTO LE DISPOSIZIONI SEGUENTI:
 
-### Articolo 1
+## Articolo 1
 
 Ai fini del presente Protocollo:
 
@@ -153,13 +153,13 @@ Ai fini del presente Protocollo:
 
 11."Segretario generale" indica il segretario generale dell'organizzazione.
 
-### Articolo 2
+## Articolo 2
 
 1\. Con il presente protocollo e' istituito un fondo complementare internazionale per il risarcimento dei danni dovuti a inquinamento, denominato "fondo complementare internazionale del 2003 per il risarcimento dei danni da inquinamento da idrocarburi" (di seguito "il fondo complementare").
 
 2\. In ogni Stato contraente il fondo complementare e' riconosciuto come persona giuridica avente la capacita' di assumere diritti e obblighi secondo il diritto di tale Stato, nonche' di stare in giudizio. Ogni Stato contraente riconosce il direttore del fondo complementare quale rappresentante legale del fondo.
 
-### Articolo 3
+## Articolo 3
 
 Il presente protocollo si applica esclusivamente:
 
@@ -173,7 +173,7 @@ Il presente protocollo si applica esclusivamente:
 
 ## Risarcimento complementare
 
-### Articolo 4
+## Articolo 4
 
 1\. Il fondo complementare risarcisce i soggetti che hanno subito un danno da inquinamento e non hanno potuto ottenere un risarcimento completo e adeguato per una richiesta di indennizzo per danni dichiarata ricevibile ai sensi della convenzione Fondo del 1992, perche' il danno totale supera o rischia di superare il limite del risarcimento applicabile di cui all'articolo 4, paragrafo 4 della convenzione Fondo del 1992, rispetto a qualsiasi incidente.
 
@@ -185,17 +185,17 @@ Il presente protocollo si applica esclusivamente:
 
 4\. Il fondo complementare risarcisce soltanto le richieste dichiarate ricevibili nei modi definiti all'articolo 1, paragrafo 8.
 
-### Articolo 5
+## Articolo 5
 
 Il fondo complementare effettua un versamento quando l'assemblea del fondo del 1992 ritiene che l'ammontare totale delle richieste dichiarate ricevibili superi o rischi di superare l'ammontare complessivo del risarcimento disponibile ai sensi dell'articolo 4, paragrafo 4 della convenzione Fondo del 1992 e, di conseguenza, l'assemblea decide in via provvisoria o definitiva che saranno effettuati pagamenti solo per una porzione delle richieste dichiarate ricevibili. L'assemblea del fondo complementare stabilisce quindi se e in quale misura il fondo complementare paga la proporzione delle richieste dichiarate ricevibili e non soddisfatte ai sensi della convenzione CLC del 1992 e della convenzione, Fondo del 1992.
 
-### Articolo 6
+## Articolo 6
 
 1\. Fatto salvo l'articolo 15, paragrafi 2 e 3, i diritti di risarcimento nei confronti del fondo complementare si estinguono solo se si estinguono nei confronti del fondo del 1992 ai sensi dell'articolo 6 della convenzione Fondo del 1992.
 
 2\. Una richiesta presentata al fondo del 1992 e' considerata come presentata dallo stesso ricorrente al fondo complementare.
 
-### Articolo 7
+## Articolo 7
 
 1\. Le disposizioni dell'articolo 7, paragrafi 1, 2, 4, 5 e 6, della convenzione Fondo del 1992 si applicano alle azioni per risarcimento intentate nei confronti del fondo complementare ai sensi dell'articolo 4, paragrafo 1 del presente protocollo.
 
@@ -203,13 +203,13 @@ Il fondo complementare effettua un versamento quando l'assemblea del fondo del 1
 
 3\. In deroga al paragrafo 1, quando un'azione di risarcimento per danni da inquinamento e' stata intentata nei confronti del fondo del 1992 presso un tribunale di uno Stato firmatario della convenzione CLC del 1992 ma non del presente protocollo, qualsiasi azione collegata nei confronti del fondo complementare puo' essere presentata, a scelta del ricorrente, presso un tribunale dello Stato in cui ha sede il fondo complementare o presso un tribunale di uno Stato contraente competente ai sensi del paragrafo 1.
 
-### Articolo 8
+## Articolo 8
 
 1\. Con riserva della decisione concernente la ripartizione di cui all'articolo 4, paragrafo 3 del presente protocollo, qualsiasi sentenza emessa nei confronti del fondo complementare da un tribunale competente conformemente all'articolo 7, e' riconosciuta e diventa esecutiva in ogni Stato contraente alle stesse condizioni di cui all'articolo X della convenzione CLC del 1992, quando la sentenza e' divenuta esecutiva nello Stato di origine e nel relativo Stato non puo' piu' essere soggetta alle forme ordinarie di ricorso.
 
 2\. Uno Stato contraente puo' applicare regole diverse per il riconoscimento e l'esecuzione delle sentenze, a condizione che abbiano l'effetto di assicurare che le sentenze siano riconosciute ed eseguite almeno nella stessa misura di cui al paragrafo 1.
 
-### Articolo 9
+## Articolo 9
 
 1\. In merito a qualsiasi risarcimento per danni da inquinamento pagato dal fondo complementare in conformita' all'articolo 4, paragrafo 1, il fondo complementare acquisisce per surrogazione i diritti di cui il soggetto cosi' risarcito puo' beneficiare nei confronti del proprietario o del suo garante ai sensi della convenzione CLC del 1992.
 
@@ -221,7 +221,7 @@ Il fondo complementare effettua un versamento quando l'assemblea del fondo del 1
 
 ## Contributi
 
-### Articolo 10
+## Articolo 10
 
 1\. In relazione a ogni singolo Stato contraente, i contributi annui al fondo complementare sono versati da qualunque soggetto, nell'anno di calendario di cui all'articolo 11, paragrafo 2, lettera a) o b), abbia ricevuto in totale quantita' superiori a 150 000 tonnellate di:
 
@@ -231,7 +231,7 @@ Il fondo complementare effettua un versamento quando l'assemblea del fondo del 1
 
 2\. In relazione all'obbligo di versare contributi al fondo complementare si applica l'articolo 10, paragrafo 2 della convenzione Fondo del 1992.
 
-### Articolo 11
+## Articolo 11
 
 1\. Per valutare l'ammontare degli eventuali contributi annui dovuti e tenere conto della necessita' di disporre di fondi liquidi sufficienti, per ogni anno di calendario l'assemblea elabora una stima di bilancio strutturata come segue:
 
@@ -259,23 +259,23 @@ Il fondo complementare effettua un versamento quando l'assemblea del fondo del 1
 
 5\. L'assemblea puo' decidere, secondo modalita' da stabilire nel regolamento finanziario del fondo complementare, di effettuare trasferimenti tra fondi ricevuti conformemente al paragrafo 2, lettera a) e fondi ricevuti conformemente al paragrafo 2, lettera b).
 
-### Articolo 12
+## Articolo 12
 
 1\. Ai contributi al fondo complementare si applica l'articolo 13 della convenzione Fondo del 1992.
 
 2\. Uno Stato contraente puo' assumere l'obbligo di versare contributi al fondo complementare secondo la procedura indicata all'articolo 14 della convenzione Fondo del 1992.
 
-### Articolo 13
+## Articolo 13
 
 1\. Gli Stati contraenti comunicano al direttore del fondo complementare le informazioni sugli idrocarburi ricevuti ai sensi dell'articolo 15 della convenzione Fondo del 1992, a. condizione che, tuttavia, le comunicazioni trasmesse al direttore del fondo del 1992 ai sensi dell'articolo 15, paragrafo 2 della convenzione Fondo del 1992 si presumano effettuate anche in virtu' del presente protocollo 2. Se uno Stato contraente non adempie agli obblighi relativi alla presentazione della comunicazione di cui al paragrafo 1 e se tale omissione genera una perdita finanziaria per il fondo complementare, lo Stato contraente in questione e' tenuto a risarcire il fondo complementare per tale perdita.- L'assemblea decide; su raccomandazione del direttore del fondo complementare, -se detto risarcimento deve essere versato dallo Stato contraente di cui trattasi.
 
-### Articolo 14
+## Articolo 14
 
 1\. Fatto salvo l'articolo 10, ai fini del presente protocollo si presume che ogni Stato contraente riceva almeno 1 milione di tonnellate di idrocarburi assoggettati a contributi.
 
 2\. Se la somma complessiva degli idrocarburi assoggettati a contributi ricevuti in uno Stato contraente e' inferiore a 1 milione di tonnellate, lo Stato contraente assume gli obblighi applicabili ai sensi del presente protocollo a qualsiasi soggetto che sarebbe tenuto a contribuire al fondo complementare in relazione agli idrocarburi ricevuti nel territorio di detto Stato nella misura in cui non esistono soggetti responsabili per la quantita' complessiva degli idrocarburi ricevuti.
 
-### Articolo 15
+## Articolo 15
 
 1\. Se in uno Stato contraente non esiste un soggetto che soddisfi le condizioni di cui all'articolo 10, ai fini del presente protocollo detto Stato contraente informa al riguardo il direttore del fondo complementare.
 
@@ -289,7 +289,7 @@ L'assemblea determina nel regolamento interno le circostanze in cui si ritiene c
 
 ## Organizzazione e amministrazione
 
-### Articolo 16
+## Articolo 16
 
 1\. Il fondo complementare dispone di un'assemblea e di un segretariato presieduto da un direttore.
 
@@ -297,7 +297,7 @@ L'assemblea determina nel regolamento interno le circostanze in cui si ritiene c
 
 3\. L'articolo 34 della convenzione Fondo del 1992 si applica al fondo complementare.
 
-### Articolo 17
+## Articolo 17
 
 1\. Il segretariato del fondo del 1992 e il direttore del fondo, possono anche svolgere le funzioni di segretariato e direttore del fondo complementare.
 
@@ -309,7 +309,7 @@ L'assemblea determina nel regolamento interno le circostanze in cui si ritiene c
 
 5\. Il fondo complementare rimborsa al fondo del 1992 tutti i costi e tutte le spese derivanti da servizi amministrativi svolti dal fondo del 1992 per conto' del fondo complementare.
 
-### Articolo 18
+## Articolo 18
 
 Disposizioni transitorie
 
@@ -323,7 +323,7 @@ Disposizioni transitorie
 
 ## Clausole finali
 
-### Articolo 19
+## Articolo 19
 
 Firma, ratifica, accettazione, approvazione e adesione
 
@@ -341,13 +341,13 @@ Firma, ratifica, accettazione, approvazione e adesione
 
 4\. La ratifica, l'accettazione, l'approvazione o .l'adesione si effettuano tramite il deposito di uno strumento formale idoneo presso il segretario generale.
 
-### Articolo 20
+## Articolo 20
 
 Informazioni sugli idrocarburi assoggettati a contributi
 
 Prima dell'entrata in vigore del presente protocollo nei confronti di uno Stato, detto Stato, quando firma il presente protocollo ai sensi dell'articolo 19, paragrafo 2, lettera a), o quando deposita lo strumento di cui all'articolo 19, paragrafo 4, e successivamente a scadenza annuale alla data stabilita dal Segretariato generale, comunica al Segretario generale il nome e l'indirizzo degli eventuali soggetti che, per quanto concerne lo Stato in questione, sarebbero tenuti a contribuire al fondo complementare ai sensi dell'articolo 10, nonche' i dati sulle relative quantita' di idrocarburi assoggettati a contributi ricevuti da
 
-### Articolo 21
+## Articolo 21
 
 Entrata in vigore
 
@@ -361,7 +361,7 @@ Entrata in vigore
 
 In deroga ai paragrafi 1 e 2, il presente protocollo non entra in vigore nei confronti degli Stati per i quali non si applica la convenzione Fondo del 1992:
 
-### Articolo 22
+## Articolo 22
 
 Prima sessione dell'assemblea
 
@@ -369,7 +369,7 @@ Il .segretario generale convoca la prima sessione dell'assemblea.
 
 La sessione si svolge appena possibile dopo l'entrata in vigore del presente protocollo e, in ogni caso, non oltre trenta giorni dalla data dell'entrata in vigore,
 
-### Articolo 23
+## Articolo 23
 
 Revisione e modifica
 
@@ -377,7 +377,7 @@ Revisione e modifica
 
 2\. L'organizzazione convoca una conferenza degli Stati contraenti per rivedere o modificare il presente protocollo su richiesta di almeno un terzo di tutti gli Stati contraenti.
 
-### Articolo 24
+## Articolo 24
 
 Modifica del massimale per il risarcimento
 
@@ -407,7 +407,7 @@ L'emendamento e' ritenuto accettato al termine di un periodo di dodici mesi dopo
 
 10\. Quando un emendamento e' stato adottato dal comitato giuridico ma il periodo di dodici mesi per la sua accettazione non e' ancora scaduto, uno Stato che diventa Stato contraente in questo periodo e' vincolato dall'emendamento se quest'ultimo entra in vigore. Uno Stato che diventa Stato contraente dopo questo periodo e' vincolato da un emendamento che e' stato accettato ai senso del paragrafo 7. Nei casi citati al presente paragrafo, uno Stato e' vincolato da un emendamento quando lo stessto entra in vigore, o quando il presente protocollo entra in vigore nei confronti di tale Stato, se tale data e' successiva alla precedente.
 
-### Articolo 25
+## Articolo 25
 
 Protocolli alla convenzione Fondo del 1992
 
@@ -415,7 +415,7 @@ Protocolli alla convenzione Fondo del 1992
 
 2\. Se la procedura da cui al paragrafo 1 e' stata applicata, eventuali successive modifiche del massimale stabilito all'articolo 4, paragrafo 2, in applicazione della procedura di cui all'articolo 24, ai fini dell'articolo 24, ,paragrafo 6, lettere b) e c), sono, calcolate sulla base del nuovo massimale maggiorato in conformita' con il paragrafo 1.
 
-### Articolo 26
+## Articolo 26
 
 Denuncia
 
@@ -429,7 +429,7 @@ Denuncia
 
 5\. Nonostante l'avvenuta denuncia del presente protocollo da parte di uno Stato contraente ai sensi del presente articolo, continuano ad applicarsi le disposizioni del presente protocollo relative agli obblighi di effettuare contributi al fondo complementare per un incidente di cui all'articolo 11, paragrafo 2, lettera b) e che avviene prima dell'entrata in vigore della denuncia.
 
-### Articolo 27
+## Articolo 27
 
 Sessioni straordinarie dell'assemblea
 
@@ -439,7 +439,7 @@ Sessioni straordinarie dell'assemblea
 
 3 Se in occasione di una sessione straordinaria convocata ai sensi del paragrafo 1 o 2 l'assemblea decide che la denuncia implica un aumento considerevole del livello di contributi per gli altri Stati contraenti, qualunque di questi Stati puo', non oltre centoventi giorni prima della data di entrata in vigore della denuncia, denunciare il presente protocollo con effetto a partire dalla stessa data.
 
-### Articolo 28
+## Articolo 28
 
 Cessazione
 
@@ -447,7 +447,7 @@ Cessazione
 
 2\. Gli Stati che sono vincolati dal presente protocollo il giorno prima della data in cui esso cessa di essere in vigore consentono al fondo complementare di esercitare le sue funzioni di cui all'articolo 29 e, solo a tal fine, restano vincolati dal presente protocollo.
 
-### Articolo 29
+## Articolo 29
 
 Liquidazione del fondo complementare
 
@@ -461,7 +461,7 @@ Liquidazione del fondo complementare
 
 3\. Ai fini del presente articolo il fondo complementare resta una persona giuridica.
 
-### Articolo 30
+## Articolo 30
 
 Depositario
 
@@ -489,7 +489,7 @@ Depositario
 
 3\. Non appena il presente protocollo entra in vigore, il testo viene trasmesso dal segretario generale al segretariato delle Nazioni Unite per la registrazione e pubblicazione ai sensi dell'articolo 102 della Carta delle Nazioni Unite.
 
-### Articolo 31
+## Articolo 31
 
 Lingue
 
@@ -499,6 +499,6 @@ FATTO A LONDRA il sedici maggio, duemilatre.
 
 IN FEDE DI CHE i sottoscritti, debitamente autorizzati a tal fine dai rispettivi governi, hanno firmato il presente protocollo.
 
-### Protocol
+## Protocol
 
 Parte di provvedimento in formato grafico

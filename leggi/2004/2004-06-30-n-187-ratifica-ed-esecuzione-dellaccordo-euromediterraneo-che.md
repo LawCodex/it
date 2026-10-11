@@ -27,21 +27,21 @@ Promulga
 
 la seguente legge:
 
-###### Art. 1
+#### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'Accordo euromediterraneo che istituisce un'Associazione tra la Comunita' europea ed i suoi Stati membri, da una parte, e la Repubblica algerina democratica e popolare, dall'altra, con Allegati, Protocolli, Dichiarazioni ed Atto finale, fatto a Valencia il 22 aprile 2002.
 
-###### Art. 2
+#### Art. 2
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 110 dell'Accordo stesso.
 
-###### Art. 3
+#### Art. 3
 
 1\. Per l'attuazione della presente legge e' autorizzata la spesa di 13.220 euro annui a decorrere dal 2004. Al relativo onere si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2004-2006, nell'ambito dell'unita' previsionale di base di parte corrente «Fondo speciale» dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2004, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri.
 
 2\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-###### Art. 4
+#### Art. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -95,7 +95,7 @@ DELL'ACCORDO EUROMEDITERRANEO CHE ISTITUISCE UN'ASSOCIAZIONE TRA LA COMUNITA' EU
 
 (doc. 6786/02 del 12.4.2002)
 
-###### Articolo 7 - Pagina CE/DZ/it 9
+#### Articolo 7 - Pagina CE/DZ/it 9
 
 Anziche': "... della tariffa doganale libanese, ..."
 
@@ -203,7 +203,7 @@ PERSUASI che il presente accordo costituisce un quadro propizio all'evoluzione d
 
 HANNO CONVENUTO QUANTO SEGUE:
 
-###### ARTICOLO 1
+#### ARTICOLO 1
 
 1\. E' istituita un'associazione tra la Comunita' e i suoi Stati membri, da una parte, e l'Algeria, dall'altra.
 
@@ -219,13 +219,13 @@ HANNO CONVENUTO QUANTO SEGUE:
 
 \- promuovere la cooperazione in campo economico, sociale, culturale e finanziario.
 
-###### ARTICOLO 2
+#### ARTICOLO 2
 
 Le politiche interne e internazionali delle parti sono improntate al rispetto dei principi democratici e dei diritti fondamentali dell'uomo, enunciati nella dichiarazione universale dei diritti dell'uomo, che costituisce un elemento essenziale del presente accordo.
 
 ## TITOLO I - DIALOGO POLITICO
 
-###### ARTICOLO 3
+#### ARTICOLO 3
 
 1\. Si istituisce un dialogo continuativo tra le parti in materia di politica e di sicurezza al fine di instaurare vincoli duraturi di solidarieta' che contribuiscano alla prosperita', alla stabilita' e alla sicurezza della regione mediterranea e favoriscano un clima di comprensione e di tolleranza interculturali.
 
@@ -239,11 +239,11 @@ c) promuovere il consolidamento della sicurezza e della stabilita' nella regione
 
 d) promuovere iniziative comuni.
 
-###### ARTICOLO 4
+#### ARTICOLO 4
 
 Il dialogo politico riguarda qualsiasi aspetto di comune interesse per le parti, in particolare le condizioni atte a garantire la pace, la sicurezza e lo sviluppo regionale sostenendo le iniziative finalizzate alla cooperazione.
 
-###### ARTICOLO 5
+#### ARTICOLO 5
 
 Il dialogo politico si svolge a scadenze regolari e ogniqualvolta sia necessario, in particolare:
 
@@ -257,21 +257,21 @@ d) all'occorrenza, con qualsiasi altro mezzo che possa contribuire ad intensific
 
 ## TITOLO II - LIBERA CIRCOLAZIONE DELLE MERCI
 
-###### ARTICOLO 6
+#### ARTICOLO 6
 
 Nel corso di un periodo transitorio della durata massima di dodici anni a decorrere dalla data di entrata in vigore del presente accordo, la Comunita' e l'Algeria istituiscono progressivamente una zona di libero scambio, secondo le modalita' qui di seguito specificate e ai sensi delle disposizioni dell'accordo generale sulle tariffe doganali e sul commercio del 1994 e degli altri accordi multilaterali sugli scambi di merci allegati all'accordo che istituisce l'Organizzazione mondiale del commercio (OMC), in seguito denominati "GATT".
 
-## CAPITOLO 1 - PRODOTTI INDUSTRIALI
+### CAPITOLO 1 - PRODOTTI INDUSTRIALI
 
-###### ARTICOLO 7
+#### ARTICOLO 7
 
 Le disposizioni del presente capitolo si applicano ai prodotti originari della Comunita' e dell'Algeria che rientrano nei capitoli 25-97 della nomenclatura combinata e della tariffa doganale libanese, fatta eccezione per i prodotti elencati nell'allegato 1.
 
-###### ARTICOLO 8
+#### ARTICOLO 8
 
 I prodotti originari dell'Algeria sono ammessi all'importazione nella Comunita' in esenzione dai dazi doganali e dalle tasse di effetto equivalente.
 
-###### ARTICOLO 9
+#### ARTICOLO 9
 
 1\. I dazi doganali e le tasse di effetto equivalente applicabili all'importazione in Algeria dei prodotti originari della Comunita' elencati nell'allegato 2 sono aboliti sin dall'entrata in vigore dell'accordo.
 
@@ -317,11 +317,11 @@ I prodotti originari dell'Algeria sono ammessi all'importazione nella Comunita' 
 
 5\. Per ciascun prodotto il dazio di base rispetto al quale si devono operare le riduzioni successive di cui ai paragrafi 2 e 3 corrisponde all'aliquota di cui all'articolo 18.
 
-###### ARTICOLO 10
+#### ARTICOLO 10
 
 Le disposizioni relative all'abolizione dei dazi doganali all'importazione si applicano anche ai dazi doganali di carattere fiscale.
 
-###### ARTICOLO 11
+#### ARTICOLO 11
 
 1\. L'Algeria puo' adottare misure eccezionali di durata limitata, in deroga alle disposizioni dell'articolo 9, maggiorando o ripristinando dazi doganali.
 
@@ -337,19 +337,17 @@ L'Algeria informa il Comitato di associazione di ogni misura eccezionale che int
 
 2\. In deroga alle disposizioni del paragrafo 1, quarto comma, il Comitato di associazione puo', in via eccezionale, per tener conto delle difficolta' attinenti alla creazione di nuove industrie, autorizzare l'Algeria a mantenere le misure gia' adottate ai sensi del paragrafo 1 per un periodo massimo di tre anni oltre il periodo di transizione di cui all'articolo 6.
 
-## CAPITOLO 2 - PRODOTTI AGRICOLI,
+### CAPITOLO 2 - PRODOTTI AGRICOLI, PRODOTTI DELLA PESCA E PRODOTTI AGRICOLI TRASFORMATI
 
-### PRODOTTI DELLA PESCA E - PRODOTTI AGRICOLI TRASFORMATI
-
-###### ARTICOLO 12
+#### ARTICOLO 12
 
 Le disposizioni del presente capitolo si applicano ai prodotti originari della Comunita' e dell'Algeria che rientrano nei capitoli 1-24 della nomenclatura combinata e della tariffa doganale algerina, nonche' ai prodotti elencati nell'allegato 1.
 
-###### ARTICOLO 13
+#### ARTICOLO 13
 
 La Comunita' e l'Algeria procedono alla progressiva liberalizzazione dei loro scambi di prodotti agricoli, di prodotti della pesca e di prodotti agricoli trasformati che interessano entrambe le parti.
 
-###### ARTICOLO 14
+#### ARTICOLO 14
 
 1\. Ai prodotti agricoli originari dell'Algeria elencati nel protocollo n. 1 importati nella Comunita' si applicano le disposizioni ivi contenute.
 
@@ -361,13 +359,13 @@ La Comunita' e l'Algeria procedono alla progressiva liberalizzazione dei loro sc
 
 5\. Agli scambi di prodotti agricoli trasformati di cui al presente capitolo si applicano le disposizioni del protocollo n. 5.
 
-###### ARTICOLO 15
+#### ARTICOLO 15
 
 1\. La Comunita' e l'Algeria esaminano la situazione, entro cinque anni dall'entrata in vigore del presente accordo, onde determinare le misure che la Comunita' e l'Algeria dovranno applicare dopo sei anni dall'entrata in vigore del presente accordo conformemente all'obiettivo di cui all'articolo 13.
 
 2\. Fatte salve le disposizioni del paragrafo 1 e tenendo conto del volume dei loro scambi di prodotti agricoli, di prodotti della pesca e di prodotti agricoli trasformati, nonche' della particolare sensibilita' di tali prodotti, la Comunita' e l'Algeria esaminano nell'ambito del Consiglio di associazione, prodotto per prodotto e su basi reciproche, la possibilita' di accordarsi ulteriori concessioni.
 
-###### ARTICOLO 16
+#### ARTICOLO 16
 
 1\. Qualora, a seguito dell'attuazione della sua politica agricola o di una modifica delle normative in vigore, sia introdotta una normativa specifica, o nel caso di qualsiasi modifica o ampliamento delle disposizioni relative all'attuazione delle loro politiche agricole, la Comunita' e l'Algeria possono modificare, per i prodotti interessati, il regime stabilito dal presente accordo.
 
@@ -377,9 +375,9 @@ La Comunita' e l'Algeria procedono alla progressiva liberalizzazione dei loro sc
 
 4\. L'altra parte contraente puo' chiedere l'avvio di consultazioni in seno al Consiglio di associazione sulla modifica del regime previsto dal presente accordo.
 
-## CAPITOLO 3 - DISPOSIZIONI COMUNI
+### CAPITOLO 3 - DISPOSIZIONI COMUNI
 
-###### ARTICOLO 17
+#### ARTICOLO 17
 
 1\. La Comunita' e l'Algeria evitano di introdurre, nei loro scambi, nuovi dazi doganali all'importazione o all'esportazione e tasse di effetto equivalente e di maggiorare quelli applicati all'entrata in vigore del presente accordo.
 
@@ -391,7 +389,7 @@ La Comunita' e l'Algeria procedono alla progressiva liberalizzazione dei loro sc
 
 Qualora l'Algeria si fosse impegnata, a titolo della sua adesione all'OMC, ad abolire il dazio supplementare provvisorio entro tempi piu' brevi, si applicherebbe questo termine anticipato.
 
-###### ARTICOLO 18
+#### ARTICOLO 18
 
 1\. Per ciascun prodotto il dazio di base rispetto al quale si devono operare le riduzioni di cui all'articolo 9, paragrafi 2 e 3, e all'articolo 14 corrisponde all'aliquota effettivamente applicata nei confronti della Comunita' il 1 gennaio 2002.
 
@@ -401,35 +399,35 @@ Qualora l'Algeria si fosse impegnata, a titolo della sua adesione all'OMC, ad ab
 
 4\. Le parti si comunicano reciprocamente i rispettivi dazi di base in vigore il 1 gennaio 2002.
 
-###### ARTICOLO 19
+#### ARTICOLO 19
 
 I prodotti originari dell'Algeria non beneficiano, all'importazione nella Comunita', di un trattamento piu' favorevole di quello che gli Stati membri si applicano reciprocamente.
 
 Le disposizioni del presente accordo si applicano senza pregiudizio del regolamento (CEE) n. 1911/91 del Consiglio, del 26 giugno 1991, relativo all'applicazione delle disposizioni del diritto Comunitario alle isole Canarie.
 
-###### ARTICOLO 20
+#### ARTICOLO 20
 
 1\. Le parti si astengono dall'introdurre qualsiasi misura o prassi di natura fiscale interna che istituisca, direttamente o indirettamente, discriminazioni tra i prodotti di una parte e i prodotti analoghi originari del territorio dell'altra parte.
 
 2\. I prodotti esportati verso il territorio di una delle parti non possono beneficiare di un rimborso delle imposte indirette interne superiore all'ammontare delle imposte indirette cui sono stati direttamente o indirettamente assoggettati.
 
-###### ARTICOLO 21
+#### ARTICOLO 21
 
 1\. Il presente accordo non osta al mantenimento o all'istituzione di unioni doganali, di zone di libero scambio o di regimi di traffico transfrontaliero, se non nella misura in cui essi alterano il regime commerciale previsto dal presente accordo.
 
 2\. Nell'ambito del Consiglio di associazione si tengono consultazioni tra le parti in merito agli accordi istitutivi di unioni doganali o di zone di libero scambio e, se del caso, in merito ad altre importanti questioni relative alle loro rispettive politiche commerciali con i paesi terzi. In particolare, nel caso in cui un paese terzo entri a far parte della Comunita', si avviano consultazioni di questo tipo per garantire che si tenga conto dei reciproci interessi della Comunita' e dell'Algeria menzionati nel presente accordo.
 
-###### ARTICOLO 22
+#### ARTICOLO 22
 
 Qualora una delle parti constati che negli scambi con l'altra parte si verificano pratiche di dumping ai sensi dell'articolo VI del GATT 1994, puo' adottare le misure del caso contro tali pratiche in conformita' dell'accordo OMC relativo all'applicazione dell'articolo VI del GATT 1994 e della propria pertinente legislazione interna, nelle condizioni e secondo le procedure di cui all'articolo 26.
 
-###### ARTICOLO 23
+#### ARTICOLO 23
 
 Si applica tra le parti l'accordo OMC sulle sovvenzioni e sulle misure compensative.
 
 Se una parte rileva l'esistenza di sovvenzioni negli scambi con l'altra parte, ai sensi degli articoli VI e XVI del GATT 1994, puo' adottare le misure appropriate contro questa pratica in conformita' dell'accordo OMC sulle sovvenzioni e sulle misure compensative e della relativa legislazione interna.
 
-###### ARTICOLO 24
+#### ARTICOLO 24
 
 1\. Salvo diversa disposizione del presente articolo, si applicano tra le parti l'articolo XIX del GATT 1994 e l'accordo OMC sulle misure di salvaguardia.
 
@@ -451,7 +449,7 @@ Oltre alla spiegazione della procedura in base a cui si svolgera' l'inchiesta, s
 
 7\. Qualora le parti non raggiungano un accordo sulla compensazione entro trenta giorni dall'inizio delle consultazioni, la parte di cui e' originario il prodotto nei cui confronti si intende adottare la misura di salvaguardia puo' adottare misure tariffarie compensative con effetti commerciali sostanzialmente equivalenti alla misura di salvaguardia adottata a norma del presente articolo.
 
-###### ARTICOLO 25
+#### ARTICOLO 25
 
 Qualora l'osservanza delle disposizioni dell'articolo 17, paragrafo 3 comporti:
 
@@ -463,7 +461,7 @@ ii) una penuria grave, o una minaccia di penuria grave, di un pro- dotto essenzi
 
 e qualora le circostanze di cui sopra diano luogo, o possano dar luogo a gravi difficolta' per la parte esportatrice, quest'ultima puo' adottare le misure del caso nelle condizioni e secondo le procedure di cui all'articolo 26. Deve trattarsi di misure non discriminatorie, da abolire quando la situazione non ne giustifichi piu' il mantenimento in vigore.
 
-###### ARTICOLO 26
+#### ARTICOLO 26
 
 1\. Nel caso in cui la Comunita' o l'Algeria assoggettino le importazioni di prodotti tali da creare le difficolta' di cui all'articolo 24 a una procedura amministrativa finalizzata a fornire tempestive informazioni sull'andamento dei flussi commerciali, ne informano l'altra parte.
 
@@ -481,21 +479,21 @@ Il Consiglio di associazione puo' adottare qualsiasi decisione utile per porre f
 
 c) Qualora circostanze eccezionali che richiedono un intervento immediato rendano impossibile un'informazione o un esame preventivo, la Comunita' o l'Algeria, a seconda dei casi, possono applicare immediatamente, nelle situazioni specificate negli articoli 22 e 25, le misure di salvaguardia strettamente necessarie per far fronte alla situazione, informandone immediatamente l'altra Parte.
 
-###### ARTICOLO 27
+#### ARTICOLO 27
 
 Il presente accordo non osta ai divieti o alle restrizioni all'importazione, all'esportazione o al transito di merci giustificati da motivi di moralita' pubblica, di ordine pubblico, di pubblica sicurezza, di tutela della salute e della vita delle persone e degli animali o di preservazione dei vegetali, di protezione del patrimonio artistico, storico o archeologico nazionale o di tutela della proprieta' intellettuale, industriale e commerciale o dalle norme relative all'oro e all'argento. Tuttavia, tali divieti o restrizioni non devono costituire un mezzo di discriminazione arbitraria, ne' una restrizione dissimulata al commercio tra le parti.
 
-###### ARTICOLO 28
+#### ARTICOLO 28
 
 La nozione di "prodotti originari" ai fini dell'applicazione delle disposizioni del presente titolo e i relativi metodi di cooperazione amministrativa sono definiti nel protocollo n. 6.
 
-###### ARTICOLO 29
+#### ARTICOLO 29
 
 Per classificare le merci importate nella Comunita' e in Algeria si utilizzano, rispettivamente, la nomenclatura combinata e la tariffa doganale algerina.
 
 ## TITOLO III - SCAMBI DI SERVIZI
 
-###### ARTICOLO 30
+#### ARTICOLO 30
 
 Impegni reciproci
 
@@ -507,13 +505,13 @@ Impegni reciproci
 
 4\. L'Algeria concede ai fornitori di servizi della Comunita' europea e dei suoi Stati membri un trattamento non meno favorevole di quelli indicati agli articoli 31-33.
 
-###### ARTICOLO 31
+#### ARTICOLO 31
 
 Prestazione transfrontaliera di servizi
 
 L'Algeria concede ai prestatori Comunitari di servizi forniti sul suo territorio con mezzi diversi da una presenza commerciale o dalla presenza delle persone fisiche di cui agli articoli 32 e 33 un trattamento non meno favorevole di quello riservato alle societa' di paesi terzi.
 
-###### ARTICOLO 32
+#### ARTICOLO 32
 
 Presenza commerciale
 
@@ -523,7 +521,7 @@ b) L'Algeria concede, per l'attivita' delle filiali e consociate di Societa' Com
 
 2\. Il trattamento di cui al paragrafo 1, lettere a) e b), viene concesso alle societa', filiali e consociate stabilite in Algeria all'entrata in vigore del presente accordo nonche' alle societa', filiali e consociate che vi si stabiliranno dopo questa data.
 
-###### ARTICOLO 33
+#### ARTICOLO 33
 
 Presenza temporanea di persone fisiche
 
@@ -549,7 +547,7 @@ c) per "persona trasferita all'interno della societa'" si intende una persona fi
 
 \- non esistano altri rappresentanti, uffici, consociate o filiali della societa' in uno Stato membro della Comunita' o in Algeria.
 
-###### ARTICOLO 34
+#### ARTICOLO 34
 
 Trasporti
 
@@ -585,7 +583,7 @@ b) aboliscono, al momento dell'entrata in vigore del presente accordo, tutte le 
 
 6\. Al fine di garantire uno sviluppo coordinato dei trasporti tra le parti secondo le reciproche esigenze commerciali, le condizioni di reciproco accesso al mercato e della prestazione di servizi nei trasporti aerei, stradali, ferroviari e fluviali possono essere oggetto, all'occorrenza, di uno speciale accordo da negoziare tra le parti dopo l'entrata in vigore del presente accordo.
 
-###### ARTICOLO 35
+#### ARTICOLO 35
 
 Normativa interna
 
@@ -601,7 +599,7 @@ Normativa interna
 
 6\. Ai fini della circolazione delle persone fisiche che prestano un servizio, nessuna disposizione del presente accordo vieta alle parti di applicare le rispettive leggi e normative in materia di ammissione, soggiorno, occupazione, condizioni di lavoro, stabilimento delle persone fisiche e prestazione di servizi, purche' non le applichino in modo tale da annullare o da ridurre i vantaggi che una delle parti trae da disposizioni specifiche del presente accordo. Le disposizioni in questione lasciano impregiudicata l'applicazione del paragrafo 2.
 
-###### ARTICOLO 36
+#### ARTICOLO 36
 
 Definizioni
 
@@ -627,7 +625,7 @@ h) per "cittadino della Comunita'" o "cittadino dell'Algeria" si intende, rispet
 
 Per quanto riguarda il trasporto marittimo internazionale, comprese le operazioni intermodali che comportano una tratta marittima, beneficiano delle disposizioni del presente titolo i cittadini degli Stati membri o dell'Algeria stabiliti al di fuori della Comunita' e dell'Algeria e le agenzie marittime stabilite al di fuori della Comunita' o dell'Algeria e controllate da cittadini di uno Stato membro o dell'Algeria, se le loro navi sono registrate in detto Stato membro o in Algeria conformemente alle rispettive legislazioni.
 
-###### ARTICOLO 37
+#### ARTICOLO 37
 
 Disposizioni generali
 
@@ -637,31 +635,27 @@ Disposizioni generali
 
 Il Consiglio di associazione tiene conto altresi' dei progressi fatti nel ravvicinare le legislazioni delle parti applicabili alle attivita' in questione. L'obiettivo di cui sopra e' oggetto di un primo esame da parte del Consiglio di associazione al piu' tardi cinque anni dopo l'entrata in vigore del presente accordo.
 
-## TITOLO IV - PAGAMENTI, CAPITALI,
+## TITOLO IV - PAGAMENTI, CAPITALI, CONCORRENZA E ALTRE DISPOSIZIONI ECONOMICHE
 
-### CONCORRENZA E ALTRE - DISPOSIZIONI ECONOMICHE
+### CAPITOLO 1 - PAGAMENTI CORRENTI E CIRCOLAZIONE DEI CAPITALI
 
-#### CAPITOLO 1 - PAGAMENTI CORRENTI
-
-##### E CIRCOLAZIONE - DEI CAPITALI
-
-###### ARTICOLO 38
+#### ARTICOLO 38
 
 Fatte salve le disposizioni dell'articolo 40, le parti si impegnano ad autorizzare tutti i pagamenti correnti relativi ad operazioni correnti in moneta liberamente convertibile.
 
-###### ARTICOLO 39
+#### ARTICOLO 39
 
 1\. A decorrere dall'entrata in vigore del presente accordo, la Comunita' e l'Algeria garantiscono la libera circolazione dei capitali connessi agli investimenti diretti effettuati in Algeria per societa' costituite ai sensi della legislazione vigente, nonche' la liquidazione o il rimpatrio di detti investimenti e di tutti gli utili che ne derivano.
 
 2\. Le parti si consultano e collaborano per agevolare la circolazione dei capitali tra la Comunita' e l'Algeria onde giungere alla sua completa liberalizzazione.
 
-###### ARTICOLO 40
+#### ARTICOLO 40
 
 Qualora uno o piu' Stati membri della Comunita' o l'Algeria abbiano, o rischino di avere, gravi difficolta' di bilancia dei pagamenti, la Comunita' o l'Algeria, a seconda dei casi, possono adottare, alle condizioni di cui all'accordo generale sulle tariffe doganali e sul commercio e agli articoli VIII e XIV dello statuto del Fondo monetario internazionale, misure restrittive per quanto riguarda i pagamenti correnti, sempreche' dette misure siano strettamente necessarie. La Comunita' o l'Algeria, a seconda dei casi, ne informa immediatamente l'altra parte e le presenta quanto prima un calendario per l'abolizione ditali misure.
 
-## CAPITOLO 2 - CONCORRENZA E ALTRE QUESTIONI ECONOMICHE
+### CAPITOLO 2 - CONCORRENZA E ALTRE QUESTIONI ECONOMICHE
 
-###### ARTICOLO 41
+#### ARTICOLO 41
 
 1\. Sono incompatibili con il corretto funzionamento del presente accordo, nella misura in cui possono incidere sugli scambi tra la Comunita' e l'Algeria:
 
@@ -677,25 +671,25 @@ b) lo sfruttamento abusivo, da parte di una o piu' imprese, di una posizione dom
 
 3\. Qualora ritengano che una particolare pratica sia incompatibile con le disposizioni del paragrafo 1 e qualora tale pratica arrechi o minacci di arrecare grave pregiudizio all'altra parte, la Comunita' o l'Algeria possono adottare misure adeguate previa consultazione nell'ambito del Comitato di associazione o dopo trenta giorni lavorativi dalla richiesta di consultazione.
 
-###### ARTICOLO 42
+#### ARTICOLO 42
 
 Gli Stati membri e l'Algeria adeguano progressivamente, fatti salvi gli impegni rispettivamente assunti o da assumere in sede di GATT, gli eventuali monopoli di Stato di natura commerciale per garantire che, al termine del quinto anno successivo all'entrata in vigore del presente accordo, non esistano piu' discriminazioni tra cittadini degli Stati membri e dell'Algeria rispetto alle condizioni di approvvigionamento e di commercializzazione delle merci. Il Comitato di associazione e' informato delle misure adottate a tal fine.
 
-###### ARTICOLO 43
+#### ARTICOLO 43
 
 Per quanto riguarda le imprese pubbliche o le imprese cui sono stati concessi diritti speciali o esclusivi, il Consiglio di associazione provvede affinche', a decorrere dal quinto anno successivo alla data di entrata in vigore del presente accordo, non venga adottato ne' mantenuto alcun provvedimento che possa distorcere gli scambi tra la Comunita' e l'Algeria in misura tale da ledere gli interessi delle parti. La presente disposizione non osta all'esecuzione, di diritto o di fatto, dei compiti particolari assegnati a tali imprese.
 
-###### ARTICOLO 44
+#### ARTICOLO 44
 
 1\. Le parti assicurano un'adeguata ed efficace tutela dei diritti di proprieta intellettuale, industriale e commerciale, conformemente ai massimi standard internazionali, compresi strumenti efficaci per far valere tali diritti.
 
 2\. L'attuazione del presente articolo e dell'allegato 6 e' esaminata periodicamente dalle parti. In caso di difficolta' nel settore della proprieta' intellettuale, industriale e commerciale che incidano sulle condizioni degli scambi commerciali si tengono, su richiesta dell'una o dell'altra parte, consultazioni urgenti per giungere a soluzioni reciprocamente soddisfacenti.
 
-###### ARTICOLO 45
+#### ARTICOLO 45
 
 Le parti si impegnano a adottare le misure necessarie per tutelare i dati personali onde eliminare gli ostacoli alla libera circolazione di questi dati tra di esse.
 
-###### ARTICOLO 46
+#### ARTICOLO 46
 
 1\. Le parti decidono di puntare alla liberalizzazione reciproca e progressiva degli appalti pubblici.
 
@@ -703,7 +697,7 @@ Le parti si impegnano a adottare le misure necessarie per tutelare i dati person
 
 ## TITOLO V - COOPERAZIONE ECONOMICA
 
-###### ARTICOLO 47
+#### ARTICOLO 47
 
 Obiettivi
 
@@ -713,7 +707,7 @@ Obiettivi
 
 3\. La cooperazione economica rientra negli obiettivi definiti dalla dichiarazione di Barcellona.
 
-###### ARTICOLO 48
+#### ARTICOLO 48
 
 Ambito di applicazione
 
@@ -727,7 +721,7 @@ Ambito di applicazione
 
 5\. Le parti possono decidere di comune accordo di estendere la cooperazione economica ad altri settori.
 
-###### ARTICOLO 49
+#### ARTICOLO 49
 
 Strumenti e modalita'
 
@@ -745,7 +739,7 @@ e) assistenza tecnica, amministrativa e normativa;
 
 f) sostegno al partenariato e agli investimenti diretti degli operatori, specialmente quelli del settore privato, e ai programmi di privatizzazione.
 
-###### ARTICOLO 50
+#### ARTICOLO 50
 
 Cooperazione regionale
 
@@ -767,7 +761,7 @@ g) le questioni doganali;
 
 h) le istituzioni regionali e l'attuazione di programmi e di politiche comuni o armonizzati.
 
-###### ARTICOLO 51
+#### ARTICOLO 51
 
 Cooperazione scientifica, tecnica e tecnologica
 
@@ -787,7 +781,7 @@ c) incentivare l'innovazione tecnologica, il trasferimento di nuove tecnologie e
 
 d) favorire tutte le iniziative finalizzate alle sinergie a impatto regionale.
 
-###### ARTICOLO 52
+#### ARTICOLO 52
 
 Ambiente
 
@@ -817,7 +811,7 @@ Ambiente
 
 \- assistenza tecnica, specie per la salvaguardia della biodiversita'.
 
-###### ARTICOLO 53
+#### ARTICOLO 53
 
 Cooperazione industriale
 
@@ -839,7 +833,7 @@ g) la ristrutturazione del settore industriale e il programma di adeguamento, pe
 
 h) lo sviluppo delle esportazioni di manufatti algerini.
 
-###### ARTICOLO 54
+#### ARTICOLO 54
 
 Promozione e tutela degli investimenti
 
@@ -851,7 +845,7 @@ b) creando un quadro giuridico che favorisca gli investimenti, se del caso attra
 
 c) fornendo assistenza tecnica alle azioni volte a promuovere e a garantire gli investimenti nazionali e stranieri.
 
-###### ARTICOLO 55
+#### ARTICOLO 55
 
 Normalizzazione e valutazione della conformita'
 
@@ -865,13 +859,13 @@ La cooperazione intende ridurre le differenze in termini di normalizzazione e di
 
 \- fornire assistenza alle strutture algerine competenti in materia di normalizzazione, qualita' e proprieta' intellettuale, industriale e commerciale.
 
-###### ARTICOLO 56
+#### ARTICOLO 56
 
 Ravvicinamento delle legislazioni
 
 Si collaborera' per ravvicinare le legislazioni dell'Algeria e della Comunita' nei settori contemplati dal presente accordo.
 
-###### ARTICOLO 57
+#### ARTICOLO 57
 
 Servizi finanziari
 
@@ -883,7 +877,7 @@ Si prevedono in particolare:
 
 \- un sostegno alla riforma dei sistemi bancario e finanziario dell'Algeria, compreso lo sviluppo della borsa valori.
 
-###### ARTICOLO 58
+#### ARTICOLO 58
 
 Agricoltura e pesca
 
@@ -915,7 +909,7 @@ Si promuoveranno in particolare:
 
 \- i programmi di ricerca.
 
-###### ARTICOLO 59
+#### ARTICOLO 59
 
 Trasporti
 
@@ -939,7 +933,7 @@ La cooperazione riguarda in particolare:
 
 \- l'assistenza tecnica e la formazione
 
-###### ARTICOLO 60
+#### ARTICOLO 60
 
 Telecomunicazioni e Societa' dell'informazione
 
@@ -959,7 +953,7 @@ La cooperazione in questo settore prevede in particolare:
 
 \- l'assistenza tecnica per la pianificazione e la gestione dello spettro delle frequenze radioelettriche ai fini di un uso coordinato ed efficace delle radiocomunicazioni nella regione euromediterranea.
 
-###### ARTICOLO 61
+#### ARTICOLO 61
 
 Energia e miniere
 
@@ -1003,7 +997,7 @@ energetici
 
 \- promozione dei trasferimenti tecnologici nei settori dell'energia e delle miniere.
 
-###### ARTICOLO 62
+#### ARTICOLO 62
 
 Turismo e artigianato
 
@@ -1021,7 +1015,7 @@ La cooperazione in questo settore mira prevalentemente a:
 
 \- sostenere la privatizzazione.
 
-###### ARTICOLO 63
+#### ARTICOLO 63
 
 Cooperazione nel settore doganale
 
@@ -1035,13 +1029,13 @@ Sara' fornita all'occorrenza l'assistenza tecnica necessaria.
 
 2\. Fatte salve le ulteriori forme di cooperazione previste nel presente accordo, in particolare per la lotta contro gli stupefacenti e il riciclaggio del denaro, le autorita' amministrative delle parti contraenti si prestano reciprocamente assistenza secondo le disposizioni del protocollo n. 7.
 
-###### ARTICOLO 64
+#### ARTICOLO 64
 
 Cooperazione nel settore statistico
 
 Il principale obiettivo della cooperazione in questo settore e' l'armonizzazione delle metodologie utilizzate dalle parti per garantire la comparabilita' e l'utilizzazione delle statistiche riguardanti, fra l'altro, il commercio estero, le finanze pubbliche e la bilancia dei pagamenti, la demografia, le migrazioni, i trasporti e le comunicazioni, nonche', piu' in generale, tutti i settori contemplati dal presente accordo. Sara' fornita all'occorrenza l'assistenza tecnica necessaria.
 
-###### ARTICOLO 65
+#### ARTICOLO 65
 
 Cooperazione per la tutela dei consumatori
 
@@ -1065,7 +1059,7 @@ g) potenziamento dei laboratori algerini di analisi e di prove comparative e ass
 
 h) contributo all'organizzazione e all'entrata in funzione di un sistema di allarme da integrare nella rete europea.
 
-###### ARTICOLO 66
+#### ARTICOLO 66
 
 Considerate le specificita' dell'economia algerina, le parti definiscono le modalita' e i mezzi di attuazione della cooperazione economica di cui al presente titolo onde sostenere il processo di modernizzazione dell'economia di questo paese e agevolare l'instaurazione della zona di libero scambio.
 
@@ -1077,7 +1071,7 @@ Le parti decideranno le iniziative prioritarie nell'ambito del dispositivo sudde
 
 ### CAPITOLO 1 - DISPOSIZIONI RELATIVE AI LAVORATORI
 
-###### ARTICOLO 67
+#### ARTICOLO 67
 
 1\. Ogni Stato membro concede ai lavoratori di nazionalita' algerina occupati nel suo territorio un regime caratterizzato, per quanto riguarda le condizioni di lavoro, di retribuzione e di licenziamento, dall'assenza di qualsiasi discriminazione basata sulla nazionalita' rispetto ai propri cittadini.
 
@@ -1085,7 +1079,7 @@ Le parti decideranno le iniziative prioritarie nell'ambito del dispositivo sudde
 
 3\. L'Algeria concede lo stesso regime ai lavoratori cittadini degli Stati membri occupati nel suo territorio.
 
-###### ARTICOLO 68
+#### ARTICOLO 68
 
 1\. Fatte salve le disposizioni dei paragrafi seguenti, i lavoratori di nazionalita' algerina e i loro familiari conviventi godono, in materia di previdenza sociale, di un regime caratterizzato dall'assenza di qualsiasi discriminazione basata sulla cittadinanza rispetto ai cittadini degli Stati membri nei quali sono occupati.
 
@@ -1101,23 +1095,23 @@ La presente disposizione, tuttavia, non puo' avere l'effetto di rendere applicab
 
 5\. L'Algeria concede ai lavoratori cittadini degli Stati membri occupati sul suo territorio e ai loro familiari un regime analogo a quello di cui ai paragrafi 1, 3 e 4.
 
-###### ARTICOLO 69
+#### ARTICOLO 69
 
 Le disposizioni del presente capitolo si applicano ai cittadini di una delle parti che risiedono o lavorano legalmente nel territorio del paese ospite.
 
-###### ARTICOLO 70
+#### ARTICOLO 70
 
 1\. Entro il termine del primo anno successivo all'entrata in vigore del presente accordo il Consiglio di associazione adotta le disposizioni per l'applicazione dei principi enunciati all'articolo 68.
 
 2\. Il Consiglio di associazione precisa le modalita' di una cooperazione amministrativa che offra le garanzie di gestione e di controllo necessarie all'applicazione delle disposizioni di cui al paragrafo 1.
 
-###### ARTICOLO 71
+#### ARTICOLO 71
 
 Le disposizioni emanate dal Consiglio di associazione a norma dell'articolo 70 non pregiudicano i diritti e gli obblighi derivanti dagli accordi bilaterali che vincolano l'Algeria e gli Stati membri, qualora essi prevedano un regime piu' favorevole per i cittadini algerini o per i cittadini degli Stati membri.
 
-## CAPITOLO 2 - DIALOGO NEL SETTORE SOCIALE
+### CAPITOLO 2 - DIALOGO NEL SETTORE SOCIALE
 
-###### ARTICOLO 72
+#### ARTICOLO 72
 
 1\. Tra le parti si instaura un dialogo continuativo su tutte le questioni sociali di reciproco interesse.
 
@@ -1133,13 +1127,13 @@ c) all'immigrazione clandestina e alle condizioni di rimpatrio delle persone la 
 
 d) alle azioni e ai programmi volti a promuovere la parita' di trattamento tra cittadini dell'Algeria e della Comunita', la conoscenza delle reciproche culture e civilta', lo sviluppo della tolleranza e l'eliminazione delle discriminazioni.
 
-###### ARTICOLO 73
+#### ARTICOLO 73
 
 Il dialogo nel settore sociale avviene agli stessi livelli e secondo le stesse modalita' di quelli previsti al titolo I del presente accordo, che puo' anche essere utilizzato come quadro di riferimento.
 
-## CAPITOLO 3 - AZIONI DI COOPERAZIONE NEL SETTORE SOCIALE
+### CAPITOLO 3 - AZIONI DI COOPERAZIONE NEL SETTORE SOCIALE
 
-###### ARTICOLO 74
+#### ARTICOLO 74
 
 1\. Le parti riconoscono l'importanza dello sviluppo sociale, che deve procedere di pari passo con lo sviluppo economico, e attribuiscono la massima priorita' al rispetto dei diritti sociali fondamentali.
 
@@ -1173,17 +1167,17 @@ l) attenuare le ripercussioni negative dell'adeguamento delle strutture economic
 
 m) migliorare il sistema di formazione professionale.
 
-###### ARTICOLO 75
+#### ARTICOLO 75
 
 Le azioni di cooperazione possono essere realizzate in coordinamento con gli Stati membri e con le organizzazioni internazionali competenti.
 
-###### ARTICOLO 76
+#### ARTICOLO 76
 
 Entro il termine del primo anno successivo all'entrata in vigore del presente accordo il Consiglio di associazione istituisce un gruppo di lavoro incaricato di valutare sistematicamente l'attuazione delle disposizioni dei capitoli 1-3.
 
-## CAPITOLO 4 - COOPERAZIONE IN MATERIA DI CULTURA E DI ISTRUZIONE
+### CAPITOLO 4 - COOPERAZIONE IN MATERIA DI CULTURA E DI ISTRUZIONE
 
-###### ARTICOLO 77
+#### ARTICOLO 77
 
 Considerate le azioni bilaterali degli Stati membri, il presente accordo intende promuovere gli scambi di informazioni e la cooperazione culturale.
 
@@ -1209,7 +1203,7 @@ La cooperazione potrebbe interessare i seguenti settori:
 
 \- diffusione di riviste e altre opere a carattere letterario, tecnico e scientifico.
 
-###### ARTICOLO 78
+#### ARTICOLO 78
 
 La cooperazione in materia di istruzione e formazione ha lo scopo di:
 
@@ -1223,7 +1217,7 @@ d) favorire i contatti tra organismi specializzati delle parti affinche' mettano
 
 ## TITOLO VII - COOPERAZIONE FINANZIARIA
 
-###### ARTICOLO 79
+#### ARTICOLO 79
 
 Per conseguire gli obiettivi del presente accordo, si mette a disposizione dell'Algeria una cooperazione finanziaria da attuare secondo modalita' adeguate e con le risorse finanziarie richieste.
 
@@ -1241,17 +1235,17 @@ Oltre ai settori di cui ai titoli V e VI del presente accordo, la cooperazione p
 
 \- accompagnamento delle politiche attuate nel settore sociale.
 
-###### ARTICOLO 80
+#### ARTICOLO 80
 
 Nel quadro degli strumenti comunitari destinati a sostenere i programmi di adeguamento strutturale nei paesi mediterranei volti a ripristinare i principali equilibri finanziari e a creare un ambiente economico propizio all'accelerazione della crescita, migliorando nel contempo il benessere sociale della popolazione, e in stretto coordinamento con gli altri donatori, in particolare le istituzioni finanziarie internazionali, la Comunita' e l'Algeria individueranno gli strumenti piu' adeguati per sostenere le politiche di sviluppo e la liberalizzazione dell'economia algerina.
 
-###### ARTICOLO 81
+#### ARTICOLO 81
 
 Per garantire l'adozione di un'impostazione coordinata nei confronti di eventuali problemi macroeconomici e finanziari a carattere eccezionale che dovessero derivare dall'attuazione progressiva del presente accordo, le parti seguiranno con particolare attenzione l'andamento degli scambi commerciali e delle relazioni finanziarie tra la Comunita' e l'Algeria nel quadro del dialogo economico continuativo istituito ai sensi del titolo V.
 
 ## TITOLO VIII - COOPERAZIONE IN MATERIA DI GIUSTIZIA E AFFARI INTERNI
 
-###### ARTICOLO 82
+#### ARTICOLO 82
 
 Rafforzamento delle istituzioni e dello Stato di diritto
 
@@ -1261,13 +1255,13 @@ In tale contesto, le parti si impegnano per far rispettare, senza discriminazion
 
 Le disposizioni del presente articolo non riguardano le differenze di trattamento basate sulla nazionalita'.
 
-###### ARTICOLO 83
+#### ARTICOLO 83
 
 Circolazione delle persone
 
 Nell'intento di agevolare la circolazione tra di esse, le parti si impegnano ad applicare e ad espletare con la massima diligenza, in conformita' delle legislazioni comunitarie e nazionali in vigore, le formalita' per il rilascio dei visti. Esse cercheranno inoltre di semplificare e di accelerare le procedure di rilascio dei visti alle persone che collaborano all'attuazione del presente accordo. Il Comitato di associazione esaminera' periodicamente l'applicazione del presente articolo.
 
-###### ARTICOLO 84
+#### ARTICOLO 84
 
 Cooperazione per la prevenzione e il controllo dell'immigrazione clandestina; riammissione
 
@@ -1281,7 +1275,7 @@ Cooperazione per la prevenzione e il controllo dell'immigrazione clandestina; ri
 
 3\. Il Consiglio di associazione esamina le ulteriori iniziative comuni atte a prevenire e a combattere l'immigrazione clandestina, compresa l'individuazione dei documenti falsi.
 
-###### ARTICOLO 85
+#### ARTICOLO 85
 
 Cooperazione giuridica e giudiziaria
 
@@ -1303,7 +1297,7 @@ Cooperazione giuridica e giudiziaria
 
 5\. Si organizzeranno in questo ambito cicli di formazione specifici.
 
-###### ARTICOLO 86
+#### ARTICOLO 86
 
 Prevenzione e lotta contro la criminalita' organizzata
 
@@ -1313,7 +1307,7 @@ Le parti collaboreranno strettamente per creare gli opportuni dispositivi e isti
 
 2\. Nell'ambito della cooperazione tecnica e amministrativa nel settore si impartira' la necessaria formazione e si migliorera' l'efficienza delle autorita' e delle strutture incaricate di combattere e di prevenire la criminalita', nonche' di definire misure di prevenzione.
 
-###### ARTICOLO 87
+#### ARTICOLO 87
 
 Lotta contro il riciclaggio del denaro sporco
 
@@ -1327,7 +1321,7 @@ a) la formazione degli agenti dei servizi incaricati della prevenzione, dell'ind
 
 b) un opportuno sostegno per la creazione di istituzioni specializzate in materia e per il potenziamento di quelle gia' esistenti;
 
-###### ARTICOLO 88
+#### ARTICOLO 88
 
 Lotta contro il razzismo e la xenofobia
 
@@ -1339,7 +1333,7 @@ In tale contesto, le parti garantiscono in particolare l'accessibilita' delle pr
 
 Le disposizioni del presente articolo non riguardano le differenze di trattamento basate sulla nazionalita'.
 
-###### ARTICOLO 89
+#### ARTICOLO 89
 
 Lotta contro la droga e la tossicomania
 
@@ -1363,7 +1357,7 @@ d) nel sostegno alla creazione di servizi specializzati nella lotta contro il tr
 
 4\. Le parti favoriscono la cooperazione regionale e subregionale.
 
-###### ARTICOLO 90
+#### ARTICOLO 90
 
 Lotta contro il terrorismo
 
@@ -1375,7 +1369,7 @@ Le parti decidono di collaborare, in conformita' delle convenzioni internazional
 
 \- attraverso scambi di esperienze sui metodi e sui mezzi di lotta contro il terrorismo, sulle questioni tecniche e sulla formazione.
 
-###### ARTICOLO 91
+#### ARTICOLO 91
 
 Lotta contro la corruzione
 
@@ -1389,13 +1383,13 @@ Lotta contro la corruzione
 
 ## TITOLO IX - DISPOSIZIONI ISTITUZIONALI, GENERALI E FINALI
 
-###### ARTICOLO 92
+#### ARTICOLO 92
 
 E' istituito un Consiglio di associazione che si riunisce a livello ministeriale una volta all'anno e ogniqualvolta le circostanze lo richiedano, su iniziativa del suo presidente e alle condizioni previste nel suo regolamento interno.
 
 Esso esamina tutte le questioni importanti inerenti al presente accordo e ogni altra questione bilaterale o internazionale di reciproco interesse.
 
-###### ARTICOLO 93
+#### ARTICOLO 93
 
 1\. Il Consiglio di associazione e' composto da membri del Consiglio dell'Unione europea e della Commissione delle Comunita' europee, da una parte, e da membri del governo algerino, dall'altra.
 
@@ -1405,7 +1399,7 @@ Esso esamina tutte le questioni importanti inerenti al presente accordo e ogni a
 
 4\. Il Consiglio di associazione e' presieduto a turno da un membro del Consiglio dell'Unione europea e da un membro del governo algerino, secondo le disposizioni stabilite nel suo regolamento interno.
 
-###### ARTICOLO 94
+#### ARTICOLO 94
 
 Per conseguire gli obiettivi stabiliti del presente accordo, il Consiglio di associazione ha il potere di adottare decisioni nei casi ivi specificati.
 
@@ -1413,13 +1407,13 @@ Le decisioni adottate sono vincolanti per le parti, che adottano le misure neces
 
 Le sue decisioni e le sue raccomandazioni sono adottate di comune accordo tra le parti.
 
-###### ARTICOLO 95
+#### ARTICOLO 95
 
 1\. Fatte salve le competenze attribuite al Consiglio di associazione, e' istituito un Comitato di associazione incaricato della gestione del presente accordo.
 
 2\. Il Consiglio di associazione puo' delegare, integralmente o in parte, le proprie competenze al Comitato di associazione.
 
-###### ARTICOLO 96
+#### ARTICOLO 96
 
 1\. Il Comitato di associazione, che si riunisce a livello di funzionari, e' composto da rappresentanti dei membri del Consiglio dell'Unione europea e della Commissione delle Comunita' europee, da una parte, e da rappresentanti dell'Algeria, dall'altra.
 
@@ -1427,21 +1421,21 @@ Le sue decisioni e le sue raccomandazioni sono adottate di comune accordo tra le
 
 3\. Il Comitato di associazione si riunisce nella Comunita' o in Algeria.
 
-###### ARTICOLO 97
+#### ARTICOLO 97
 
 Il Comitato di associazione e' abilitato a prendere decisioni per la gestione del presente accordo, nonche' nei settori per i quali il Consiglio di associazione gli ha delegato le proprie competenze.
 
 Le decisioni vengono prese di comune accordo tra le parti e sono vincolanti per queste ultime, che adottano le misure necessarie per la loro esecuzione.
 
-###### ARTICOLO 98
+#### ARTICOLO 98
 
 Il Consiglio di associazione puo' decidere di costituire qualsiasi gruppo di lavoro o organismo necessario per l'attuazione del presente accordo.
 
-###### ARTICOLO 99
+#### ARTICOLO 99
 
 Il Consiglio di associazione adotta tutte le misure utili per agevolare la cooperazione e i contatti tra il Parlamento europeo e gli organi parlamentari dell'Algeria, nonche' tra il Comitato economico e sociale della Comunita' e la controparte algerina.
 
-###### ARTICOLO 100
+#### ARTICOLO 100
 
 1\. Ciascuna delle parti puo' sottoporre al Consiglio di associazione qualsiasi controversia relativa all'applicazione o all'interpretazione del presente accordo.
 
@@ -1457,7 +1451,7 @@ Le decisioni arbitrali sono pronunciate a maggioranza.
 
 Ciascuna delle parti in causa deve adottare le misure richieste per l'applicazione del lodo arbitrale.
 
-###### ARTICOLO 101
+#### ARTICOLO 101
 
 Nessuna disposizione del presente accordo impedisce a una parte di adottare qualsiasi misura:
 
@@ -1467,7 +1461,7 @@ b) inerente alla produzione o al commercio di armi, munizioni o materiale bellic
 
 c) ritenuta essenziale per la propria sicurezza in caso di gravi disordini interni che compromettano il mantenimento dell'ordine pubblico, in tempo di guerra o in occasione di gravi tensioni internazionali che possano sfociare in una guerra oppure ai fini del rispetto di impegni assunti per il mantenimento della pace e della sicurezza internazionale.
 
-###### ARTICOLO 102
+#### ARTICOLO 102
 
 Nei settori contemplati dal presente accordo, e fatta salva qualsiasi disposizione speciale ivi contenuta:
 
@@ -1475,7 +1469,7 @@ Nei settori contemplati dal presente accordo, e fatta salva qualsiasi disposizio
 
 \- il regime applicato dalla Comunita' nei confronti dell'Algeria non puo' dar luogo ad alcuna discriminazione tra cittadini o societa' dell'Algeria.
 
-###### ARTICOLO 103
+#### ARTICOLO 103
 
 Nessuna disposizione del presente accordo avra' l'effetto:
 
@@ -1485,7 +1479,7 @@ Nessuna disposizione del presente accordo avra' l'effetto:
 
 \- di ostacolare il diritto di una parte di applicare le disposizioni pertinenti della sua legislazione fiscale ai contribuenti che non si trovano in una situazione identica, in particolare per quanto riguarda la loro residenza.
 
-###### ARTICOLO 104
+#### ARTICOLO 104
 
 1\. Le parti adottano qualsiasi misura generale o particolare necessaria per l'adempimento degli obblighi che incombono loro ai sensi del presente accordo. Esse si adoperano per il conseguimento degli obiettivi fissati dal presente accordo.
 
@@ -1493,29 +1487,29 @@ Nessuna disposizione del presente accordo avra' l'effetto:
 
 Nella scelta delle misure appropriate di cui al paragrafo 2, si privilegiano quelle meno pregiudizievoli per il funzionamento del presente accordo. Le misure decise vengono comunicate senza indugio al Consiglio di associazione e, qualora l'altra parte ne faccia richiesta, sono oggetto di consultazioni in questa sede
 
-###### ARTICOLO 105
+#### ARTICOLO 105
 
 I protocolli 1-7 e gli allegati 1-6 costituiscono parte integrante del presente accordo.
 
-###### ARTICOLO 106
+#### ARTICOLO 106
 
 Ai fini del presente accordo, per "parti" si intendono, da una parte, la Comunita', o gli Stati membri, o la Comunita' e gli Stati membri, secondo le loro rispettive competenze, e l'Algeria, dall'altra.
 
-###### ARTICOLO 107
+#### ARTICOLO 107
 
 L'accordo e' concluso per un periodo illimitato.
 
 Ciascuna delle parti puo' denunciare il presente accordo dandone notifica all'altra parte. Il presente accordo cessa di applicarsi dopo sei mesi dalla data ditale notifica.
 
-###### ARTICOLO 108
+#### ARTICOLO 108
 
 Il presente accordo si applica al territorio in cui si applica il trattato che istituisce la Comunita' europea, alle condizioni ivi indicate, da una parte, e al territorio dell'Algeria, dall'altra.
 
-###### ARTICOLO 109
+#### ARTICOLO 109
 
 Il presente accordo e' redatto in due esemplari in lingua danese, finlandese, francese, greca, inglese, italiana, olandese, portoghese, spagnola, svedese, tedesca e araba, ciascun testo facente ugualmente fede. Esso sara' depositato presso il segretariato generale del Consiglio dell'Unione europea.
 
-###### ARTICOLO 110
+#### ARTICOLO 110
 
 1\. Il presente accordo e' approvato dalle parti secondo le rispettive procedure.
 
@@ -1531,7 +1525,7 @@ Per la Comunita' europea
 
 Parte di provvedimento in formato grafico
 
-###### Allegato 1
+#### Allegato 1
 
 ALLEGATO 1
 
@@ -1577,7 +1571,7 @@ Voce SA 5301 (lino greggio)
 
 Voce SA 5302 (canapa greggia)
 
-###### Allegato 2
+#### Allegato 2
 
 ALLEGATO 2
 
@@ -2173,7 +2167,7 @@ Elenco dei prodotti di cui all'articolo 9, paragrafo 1
 --------------------------------------------------------------------
 ```
 
-###### Allegato 3
+#### Allegato 3
 
 ALLEGATO 3
 
@@ -2501,7 +2495,7 @@ Elenco dei prodotti di cui all'articolo 9, paragrafo 2
 --------------------------------------------------------------------
 ```
 
-###### Allegato 4
+#### Allegato 4
 
 ALLEGATO 4
 
@@ -2703,7 +2697,7 @@ Voce tariffaria
 ----------------------------------------------------------------
 ```
 
-###### Allegato 5
+#### Allegato 5
 
 ALLEGATO 5
 
@@ -2823,7 +2817,7 @@ c) studi sulle norme e sulle politiche di concorrenza al fine di favorirne lo sv
 
 Il Comitato di associazione puo' modificare le presenti modalita' di applicazione.
 
-###### Allegato 6
+#### Allegato 6
 
 ALLEGATO 6
 
@@ -2867,7 +2861,7 @@ PROTOCOLLO N. 1
 
 RELATIVO AL REGIME APPLICABILE ALL'IMPORTAZIONE NELLA COMUNITA' DI PRODOTTI AGRICOLI ORIGINARI DELL'ALGERIA
 
-###### ARTICOLO 1
+#### ARTICOLO 1
 
 1\. I prodotti elencati nell'allegato 1 del presente protocollo, originari dell'Algeria, sono ammessi all'importazione nella Comunita' alle condizioni indicate in appresso e nel suddetto allegato.
 
@@ -2883,11 +2877,11 @@ Per i quantitativi importati oltre i contingenti, si applicano integralmente i d
 
 Qualora in un dato anno di riferimento le importazioni di un prodotto superino il quantitativo di riferimento fissato, la Comunita' puo' assoggettare il prodotto per l'anno di riferimento successivo, basandosi sul suo bilancio annuale degli scambi, a un contingente tariffario comunitario equivalente al quantitativo di riferimento. In tal caso, il dazio della tariffa doganale comune viene applicato integralmente ai quantitativi importati al di la' del contingente.
 
-###### ARTICOLO 2
+#### ARTICOLO 2
 
 Nel primo anno di applicazione i volumi dei contingenti tariffari vengono calcolati proporzionalmente ai volumi di base, tenendo conto del periodo trascorso prima dell'entrata in vigore dei presente accordo.
 
-###### ARTICOLO 3
+#### ARTICOLO 3
 
 1\. Fatto salvo il paragrafo 2, le aliquote del dazio preferenziale vengono arrotondate al primo decimale.
 
@@ -2897,13 +2891,13 @@ a) pari o inferiore all'1% nel caso dei dazi ad valorem; o
 
 b) pari o inferiore a 1 euro per ogni singolo importo in Eur nel caso di dazi specifici.
 
-###### ARTICOLO 4
+#### ARTICOLO 4
 
 1\. I vini di uve fresche originari dell'Algeria che recano la menzione di vini a denominazione di origine controllata devono essere corredati di un certificato indicante l'origine, conformemente al modello dell'allegato 2 del presente protocollo, o del documento V I 1 o V I 2 compilato a norma dell'articolo 25 del regolamento (CE) n. 883/2001 della Commissione, del 24 aprile 2001, recante modalita' d'applicazione del regolamento (CE) n. 1493/1999 del Consiglio per quanto riguarda gli scambi di prodotti del settore vitivinicolo con i paesi terzi (GU L 128 del 10.5.2001, pag. 1).
 
 2\. Conformemente alla legislazione algerina, i vini di cui al paragrafo 1 recano le seguenti denominazioni: Aïn Bessem-Bouira, Medea, Coteaux du Zaccar, Dahra, Coteaux de Mascara, Monts du Tessalah, Coteaux de Tlemcen.
 
-###### Allegato 1
+#### Allegato 1
 
 PROTOCOLLO N° 1
 
@@ -2911,7 +2905,7 @@ ALLEGATO 1
 
 Parte di provvedimento in formato grafico
 
-###### Allegato 2
+#### Allegato 2
 
 PROTOCOLLO N° 1
 
@@ -2919,7 +2913,7 @@ ALLEGATO 2
 
 Parte di provvedimento in formato grafico
 
-###### Protocollo 2
+#### Protocollo 2
 
 PROTOCOLLO N° 2
 
@@ -2927,7 +2921,7 @@ RELATIVO AL REGIME APPLICABILE ALL'IMPORTAZIONE IN ALGERIA DI PRODOTTI AGRICOLI 
 
 Parte di provvedimento in formato grafico
 
-###### Protocollo 3
+#### Protocollo 3
 
 PROTOCOLLO N° 3
 
@@ -2935,7 +2929,7 @@ RELATIVO AL REGIME APPLICABILE ALL'IMPORTAZIONE NELLA COMUNITA' DEI PRODOTTI DEL
 
 Parte di provvedimento in formato grafico
 
-###### Protocollo 4
+#### Protocollo 4
 
 PROTOCOLLO N° 4
 
@@ -2943,7 +2937,7 @@ RELATIVO AL REGIME APPLICABILE ALL'IMPORTAZIONE IN ALGERIA DEI PRODOTTI DELLA PE
 
 Parte di provvedimento in formato grafico
 
-###### Protocollo 5
+#### Protocollo 5
 
 PROTOCOLLO N° 5
 
@@ -2951,7 +2945,7 @@ SUGLI SCAMBI DI PRODOTTI AGRICOLI TRASFORMATI TRA L'ALGERIA E LA COMUNITA'
 
 Parte di provvedimento in formato grafico
 
-###### Allegato 1
+#### Allegato 1
 
 PROTOCOLLO N° 5
 
@@ -2959,7 +2953,7 @@ ALLEGATO 1 - REGIME DELLA COMUNITA'
 
 Parte di provvedimento in formato grafico
 
-###### Allegato 2
+#### Allegato 2
 
 PROTOCOLLO N° 5
 
@@ -2967,7 +2961,7 @@ ALLEGATO 2 - REGIME DELL'ALGERIA
 
 Parte di provvedimento in formato grafico
 
-###### Indice
+#### Indice
 
 PROTOCOLLO N° 6
 
@@ -2979,7 +2973,7 @@ Parte di provvedimento in formato grafico
 
 ## TITOLO I - DISPOSIZIONI DI CARATTERE GENERALE
 
-###### ARTICOLO 1
+#### ARTICOLO 1
 
 Definizioni
 
@@ -3013,7 +3007,7 @@ m) il termine "territori" comprende le acque territoriali.
 
 ## TITOLO II - DEFINIZIONE DELLA NOZIONE DI "PRODOTTI ORIGINARI"
 
-###### ARTICOLO 2
+#### ARTICOLO 2
 
 Requisiti di carattere generale
 
@@ -3029,7 +3023,7 @@ a) i prodotti interamente ottenuti in Algeria ai sensi dell'articolo 6;
 
 b) i prodotti ottenuti in Algeria in cui sono incorporati materiali non interamente ottenuti sul suo territorio, a condizione che detti materiali siano stati oggetto in Algeria di lavorazioni o trasformazioni sufficienti ai sensi dell'articolo 7.
 
-###### ARTICOLO 3
+#### ARTICOLO 3
 
 Cumulo bilaterale dell'origine
 
@@ -3037,7 +3031,7 @@ Cumulo bilaterale dell'origine
 
 2\. I materiali originari dell'Algeria incorporati in un prodotto ottenuto nella Comunita' si considerano materiali originari della Comunita'. Non e' necessario a tal fine che detti materiali siano stati oggetto di lavorazioni o trasformazioni sufficienti, a condizione che siano stati oggetto di lavorazioni o trasformazioni piu' complesse di quelle indicate all'articolo 8, paragrafo 1.
 
-###### ARTICOLO 4
+#### ARTICOLO 4
 
 Cumulo con i materiali originari del Marocco o della Tunisia
 
@@ -3049,7 +3043,7 @@ Cumulo con i materiali originari del Marocco o della Tunisia
 
 4\. Le disposizioni dei paragrafi 1 e 2 relative ai materiali originari del Marocco si applicano unicamente quando gli scambi tra la Comunita' e il Marocco e tra l'Algeria e il Marocco sono disciplinati da norme di origine identiche.
 
-###### ARTICOLO 5
+#### ARTICOLO 5
 
 Cumulo delle lavorazioni o delle trasformazioni
 
@@ -3059,7 +3053,7 @@ Cumulo delle lavorazioni o delle trasformazioni
 
 3\. I prodotti originari ottenuti in uno o piu' Stati di cui ai paragrafi 1 e 2 o nella Comunita' sono considerati prodotti originari dello Stato in questione o della Comunita', dove e' avvenuta l'ultima lavorazione o trasformazione, a condizione che detta lavorazione o trasformazione vada al di la' di quelle contemplate dall'articolo 8.
 
-###### ARTICOLO 6
+#### ARTICOLO 6
 
 Prodotti interamente ottenuti
 
@@ -3099,7 +3093,7 @@ d) il cui comandante e i cui ufficiali sono tutti cittadini di Stati membri dell
 
 e) e il cui equipaggio e' composto, almeno per il 75%, di cittadini di Stati membri della Comunita' o dell'Algeria.
 
-###### ARTICOLO 7
+#### ARTICOLO 7
 
 Prodotti sufficientemente lavorati o trasformati
 
@@ -3117,7 +3111,7 @@ Il presente paragrafo non si applica ai prodotti contemplati dai capitoli 50-63 
 
 3\. I paragrafi 1 e 2 si applicano, fatte salve le disposizioni dell'articolo 8.
 
-###### ARTICOLO 8
+#### ARTICOLO 8
 
 Lavorazioni o trasformazioni insufficienti
 
@@ -3143,7 +3137,7 @@ h) la macellazione degli animali.
 
 2\. Nel determinare se la lavorazione o trasformazione cui e' stato sottoposto un determinato prodotto debba essere considerata insufficiente ai sensi del paragrafo 1, si tiene complessivamente conto di tutte le operazioni eseguite nella Comunita' o in Algeria su quel prodotto.
 
-###### ARTICOLO 9
+#### ARTICOLO 9
 
 Unita' da prendere in considerazione
 
@@ -3157,19 +3151,19 @@ b) quando una spedizione consiste in un certo numero di prodotti fra loro identi
 
 2\. Ogniqualvolta, ai sensi della regola generale 5 del sistema armonizzato, si considera che l'imballaggio formi un tutto unico con il prodotto ai fini della classificazione, detto imballaggio viene preso in considerazione anche per la determinazione dell'origine.
 
-###### ARTICOLO 10
+#### ARTICOLO 10
 
 Accessori, pezzi di ricambio e utensili
 
 Gli accessori, i pezzi di ricambio e gli utensili che vengono consegnati con un'attrezzatura, una macchina, un apparecchio o un veicolo, che fanno parte del suo normale equipaggiamento e il cui prezzo e' compreso nel suo o per i quali non viene emessa una fattura distinta, si considerano un tutto unico con l'attrezzatura, la macchina, l'apparecchio o il veicolo in questione.
 
-###### ARTICOLO 11
+#### ARTICOLO 11
 
 Assortimenti
 
 Gli assortimenti, definiti ai sensi della regola generale 3 del sistema armonizzato, si considerano originari a condizione che tutti i prodotti che li compongono siano originari. Tuttavia, un assortimento composto di prodotti originari e non originari e' considerato originario nel suo insieme a condizione che il valore dei prodotti non originari non superi il 15% del prezzo franco fabbrica dell'assortimento.
 
-###### ARTICOLO 12
+#### ARTICOLO 12
 
 Elementi neutri
 
@@ -3185,7 +3179,7 @@ d) merci che non entrano, ne' sono destinate a entrare, nella composizione final
 
 ## TITOLO III - REQUISITI TERRITORIALI
 
-###### ARTICOLO 13
+#### ARTICOLO 13
 
 Principio della territorialita'
 
@@ -3197,7 +3191,7 @@ a) che le merci reimportate sono le stesse merci che erano state esportate;
 
 b) che esse non sono state sottoposte ad alcuna operazione, oltre a quelle necessarie per conservarle in buono stato durante la loro permanenza nel paese in questione o nel corso dell' esportazione.
 
-###### ARTICOLO 14
+#### ARTICOLO 14
 
 Trasporto diretto
 
@@ -3219,7 +3213,7 @@ iii) la certificazione delle condizioni in cui e' avvenuta la sosta delle merci 
 
 e) in mancanza di questi documenti, qualsiasi documento probatorio.
 
-###### ARTICOLO 15
+#### ARTICOLO 15
 
 Esposizioni
 
@@ -3241,7 +3235,7 @@ All'occorrenza, puo' essere richiesta un'ulteriore prova documentale delle condi
 
 ## TITOLO IV - RESTITUZIONE O ESENZIONE
 
-###### ARTICOLO 16
+#### ARTICOLO 16
 
 Divieto di restituzione dei dazi doganali o di esenzione da tali dazi
 
@@ -3267,7 +3261,7 @@ Le disposizioni del presente paragrafo saranno rivedute prima che scada il perio
 
 ## TITOLO V - PROVA DELL'ORIGINE
 
-###### ARTICOLO 17
+#### ARTICOLO 17
 
 Requisiti di carattere generale
 
@@ -3279,7 +3273,7 @@ b) nei casi di cui all'articolo 22, paragrafo 1, di una dichiarazione, il cui te
 
 2\. In deroga al paragrafo 1, nei casi di cui all'articolo 27 i prodotti originari ai sensi del presente protocollo beneficiano delle disposizioni del presente accordo senza che sia necessario presentare alcuno dei documenti di cui sopra.
 
-###### ARTICOLO 18
+#### ARTICOLO 18
 
 Procedura di rilascio dei certificati di circolazione delle merci EUR.1
 
@@ -3299,7 +3293,7 @@ Le autorita' doganali che rilasciano il certificato devono inoltre accertarsi ch
 
 7\. Il certificato di circolazione delle merci EUR.1 e' rilasciato dalle autorita' doganali e tenuto a disposizione dell'esportatore dal momento in cui l'esportazione ha effettivamente luogo o e' assicurata.
 
-###### ARTICOLO 19
+#### ARTICOLO 19
 
 Rilascio a posteriori del certificato di circolazione delle merci EUR.1
 
@@ -3321,7 +3315,7 @@ IT "RILASCIATO A POSTERIORI"
 
 5\. Le diciture di cui al paragrafo 4 devono figurare nella casella "Osservazioni" del certificato di circolazione delle merci EUR.1.
 
-###### ARTICOLO 20
+#### ARTICOLO 20
 
 Rilascio di duplicati del certificato di circolazione delle merci EUR.1
 
@@ -3337,13 +3331,13 @@ IT "DUPLICATO"
 
 4\. Il duplicato, sul quale deve figurare la data di rilascio del certificato di circolazione delle merci EUR.1 originale, e' valido a decorrere da tale data.
 
-###### ARTICOLO 21
+#### ARTICOLO 21
 
 Rilascio dei certificati EUR.1 sulla base di una prova dell'origine rilasciata o compilata in precedenza
 
 Se i prodotti originari sono posti sotto il controllo di un ufficio doganale nella Comunita' o in Algeria, si puo' sostituire l'originale della prova dell'origine con uno o piu' certificati EUR.1 al fine di inviare tutti i prodotti, o parte di essi, altrove nella Comunita' o in Algeria. I certificati EUR.1 sostitutivi sono rilasciati dall'ufficio doganale sotto il cui controllo sono posti i prodotti.
 
-###### ARTICOLO 22
+#### ARTICOLO 22
 
 Condizioni per la compilazione di una dichiarazione su fattura
 
@@ -3363,7 +3357,7 @@ b) da qualsiasi esportatore per qualsiasi spedizione consistente in uno o piu' c
 
 6\. La dichiarazione su fattura puo' essere compilata dall'esportatore al momento dell'esportazione dei prodotti cui si riferisce o successivamente, purche' sia presentata nel paese d'importazione non piu' tardi di due anni dall'importazione dei prodotti cui si riferisce.
 
-###### ARTICOLO 23
+#### ARTICOLO 23
 
 Esportatore autorizzato
 
@@ -3377,7 +3371,7 @@ Esportatore autorizzato
 
 5\. Le autorita' doganali possono ritirare l'autorizzazione in qualsiasi momento. Esse lo faranno se l'esportatore autorizzato non offre piu' le garanzie di cui al paragrafo 1, non soddisfa le condizioni di cui al paragrafo 2 o fa comunque un uso scorretto dell'autorizzazione.
 
-###### ARTICOLO 24
+#### ARTICOLO 24
 
 Validita' della prova dell'origine
 
@@ -3387,7 +3381,7 @@ Validita' della prova dell'origine
 
 3\. Negli altri casi di presentazione tardiva, le autorita' doganali del paese d'importazione possono accettare le prove dell'origine se i prodotti sono stati presentati prima della scadenza di tale termine.
 
-###### ARTICOLO 25
+#### ARTICOLO 25
 
 Presentazione della prova dell'origine
 
@@ -3395,13 +3389,13 @@ Le prove dell'origine sono presentate alle autorita' doganali del paese d'import
 
 Dette autorita' possono richiedere che la prova dell'origine sia tradotta e che la dichiarazione di importazione sia accompagnata da una dichiarazione dell'importatore secondo la quale i prodotti soddisfano le condizioni previste per l'applicazione del presente accordo.
 
-###### ARTICOLO 26
+#### ARTICOLO 26
 
 Importazioni con spedizioni scaglionate
 
 Quando, su richiesta dell'importatore e alle condizioni stabilite dalle autorita' doganali deI paese d'importazione, vengono importati con spedizioni scaglionate prodotti smontati o non assemblati ai sensi della regola generale 2, lettera a) del sistema armonizzato, di cui alle sezioni XVI e XVII o alle voci nn. 7308 e 9406 del sistema armonizzato, per tali prodotti viene presentata alle autorita' doganali un'unica prova dell'origine al momento dell'importazione della prima spedizione parziale.
 
-###### ARTICOLO 27
+#### ARTICOLO 27
 
 Esonero dalla prova dell'origine
 
@@ -3411,7 +3405,7 @@ Esonero dalla prova dell'origine
 
 3\. Inoltre, il valore complessivo dei prodotti non deve superare i 500 EUR se si tratta di piccole spedizioni, oppure i 1.200 EUR se si tratta del contenuto dei bagagli personali dei viaggiatori.
 
-###### ARTICOLO 28
+#### ARTICOLO 28
 
 Dichiarazione del fornitore e scheda di informazione
 
@@ -3421,7 +3415,7 @@ Dichiarazione del fornitore e scheda di informazione
 
 3\. La scheda di informazione sui prodotti utilizzati viene fornita su richiesta dell'esportatore dei prodotti in questione, nel caso di cui al paragrafo 2 o su iniziativa dell'esportatore stesso, dall'ufficio doganale competente dello Stato in cui sono stati esportati i prodotti. La scheda viene redatta in due copie, una delle quali viene consegnata al richiedente che provvede a trasmetterla all'esportatore dei prodotti definitivamente ottenuti o all'ufficio doganale che richiede il certificato di circolazione delle merci EUR.1 per i prodotti in questione. La seconda copia viene conservata per almeno tre anni dall'ufficio doganale che l'ha rilasciata.
 
-###### ARTICOLO 29
+#### ARTICOLO 29
 
 Documenti giustificativi
 
@@ -3437,7 +3431,7 @@ d) certificati di circolazione delle merci EUR.1 o dichiarazioni su fattura comp
 
 e) dichiarazioni del fornitore e schede di informazione da cui risultino la lavorazione o la trasformazione subita dai materiali utilizzati per la fabbricazione delle merci in questione, compilate nei paesi di cui all'articolo 4 ai sensi delle disposizioni del presente protocollo.
 
-###### ARTICOLO 30
+#### ARTICOLO 30
 
 Conservazione delle prove dell'origine e dei documenti giustificativi
 
@@ -3449,7 +3443,7 @@ Conservazione delle prove dell'origine e dei documenti giustificativi
 
 4\. Le autorita' doganali del paese d'importazione devono conservare per almeno tre anni i certificati di circolazione delle merci EUR.1 e le dichiarazioni su fattura loro presentati.
 
-###### ARTICOLO 31
+#### ARTICOLO 31
 
 Discordanze ed errori formali
 
@@ -3457,7 +3451,7 @@ Discordanze ed errori formali
 
 2\. In caso di errori formali evidenti, come errori di battitura, sulla prova dell'origine, il documento non viene respinto se detti errori non sono tali da destare dubbi sulla correttezza delle indicazioni in esso riportate.
 
-###### ARTICOLO 32
+#### ARTICOLO 32
 
 Importi espressi in euro
 
@@ -3473,7 +3467,7 @@ Importi espressi in euro
 
 ## TITOLO VI - MISURE DI COOPERAZIONE AMMINISTRATIVA
 
-###### ARTICOLO 33
+#### ARTICOLO 33
 
 Assistenza reciproca
 
@@ -3481,7 +3475,7 @@ Assistenza reciproca
 
 2\. Al fine di garantire la corretta applicazione del presente protocollo, la Comunita' e l'Algeria si prestano reciproca assistenza, mediante le amministrazioni doganali competenti, nel controllo dell'autenticita' dei certificati di circolazione delle merci EUR.1 o delle dichiarazioni su fattura e della correttezza delle informazioni riportate in tali documenti.
 
-###### ARTICOLO 34
+#### ARTICOLO 34
 
 Controllo delle prove dell'origine
 
@@ -3499,7 +3493,7 @@ Controllo delle prove dell'origine
 
 7\. Il controllo a posteriori delle schede di informazione di cui all'articolo 28 viene effettuato nei casi di cui al paragrafo 1 secondo metodi analoghi a quelli specificati ai paragrafi 2-6.
 
-###### ARTICOLO 35
+#### ARTICOLO 35
 
 Composizione delle controversie
 
@@ -3507,13 +3501,13 @@ Le controversie riguardanti le procedure di controllo di cui all'articolo 34 che
 
 La composizione delle controversie tra l'importatore e le autorita' doganali del paese d'importazione e' comunque soggetta alla legislazione del suddetto paese.
 
-###### ARTICOLO 36
+#### ARTICOLO 36
 
 Sanzioni
 
 Chiunque compili o faccia compilare un documento contenente dati non rispondenti a verita' allo scopo di ottenere un trattamento preferenziale per i prodotti e' assoggettato a sanzioni.
 
-###### ARTICOLO 37
+#### ARTICOLO 37
 
 Zone franche
 
@@ -3523,7 +3517,7 @@ Zone franche
 
 ## TITOLO VII - CEUTA E MELILLA
 
-###### ARTICOLO 38
+#### ARTICOLO 38
 
 Applicazione del protocollo
 
@@ -3533,7 +3527,7 @@ Applicazione del protocollo
 
 3\. Ai fini dell'applicazione del paragrafo 2 per quanto riguarda i prodotti originari di Ceuta e Melilla, il presente protocollo si applica, mutatis mutandis, fatte salve le condizioni particolari di cui all'articolo 39.
 
-###### ARTICOLO 39
+#### ARTICOLO 39
 
 Condizioni particolari
 
@@ -3575,13 +3569,13 @@ ii) tali prodotti siano originari di Ceuta e Melilla o della Comu- nita' ai sens
 
 ## TITOLO VII - DISPOSIZIONI FINALI
 
-###### ARTICOLO 40
+#### ARTICOLO 40
 
 Modifiche del protocollo
 
 Il Consiglio di associazione puo' decidere di apportare modifiche alle disposizioni del presente protocollo su richiesta di una delle parti o del Comitato di cooperazione doganale.
 
-###### ARTICOLO 41
+#### ARTICOLO 41
 
 Comitato di cooperazione doganale
 
@@ -3589,25 +3583,25 @@ Comitato di cooperazione doganale
 
 2\. Il Comitato e' composto di esperti doganali degli Stati membri e di funzionari dei servizi della Commissione delle Comunita' europee competenti per le questioni doganali, da una parte, e di esperti doganali dell'Algeria, dall'altra.
 
-###### ARTICOLO 42
+#### ARTICOLO 42
 
 Applicazione del protocollo
 
 La Comunita' e l'Algeria adottano le misure necessarie all'attuazione del presente protocollo secondo le rispettive competenze.
 
-###### ARTICOLO 43
+#### ARTICOLO 43
 
 Intese con il Marocco e la Tunisia
 
 Le parti contraenti adottano le disposizioni necessarie per concludere intese con il Marocco e la Tunisia che consentano l'applicazione del presente protocollo. Esse si informano reciprocamente delle misure adottate a tal fine.
 
-###### ARTICOLO 44
+#### ARTICOLO 44
 
 Merci in transito o in deposito
 
 Le disposizioni dell'accordo possono applicarsi alle merci rispondenti alle disposizioni del presente protocollo che, alla data dell'entrata in vigore del presente accordo, si trovano in transito nel territorio della Comunita' o dell'Algeria oppure in regime di deposito provvisorio, di deposito doganale o di zona franca, a condizione che vengano presentati - entro un termine di quattro mesi a decorrere da tale data - alle autorita' doganali dello Stato di importazione un certificato EUR.1, rilasciato a posteriori dalle autorita' competenti dello Stato di esportazione, nonche' i documenti dai quali risulta che le merci sono state oggetto di trasporto diretto.
 
-###### Allegato 1
+#### Allegato 1
 
 PROTOCOLLO N. 6
 
@@ -3833,7 +3827,7 @@ p) solo per i prodotti greggi (diversi dalla vaselina, dell'ozocerite, della cer
 
 7.3 Ai sensi delle voci ex 2707, da 2713 a 2715, ex 2901, ex 2902 e ex 3403, le operazioni semplici quali la pulitura, la decantazione, la desalificazione, la disidratazione, il filtraggio, la colorazione, la marcatura, l'ottenimento di un tenore di zolfo mescolando prodotti con tenori di zolfo diversi, qualsiasi combinazione di queste operazioni o di operazioni analoghe non conferiscono l'origine.
 
-###### Allegato II
+#### Allegato II
 
 PROTOCOLLO N. 6
 
@@ -11507,7 +11501,7 @@ in peso, piu' del
 
 tessili
 
-###### Allegato II
+#### Allegato II
 
 \- altri Fabbricazione a
 
@@ -17825,7 +17819,7 @@ sa voce del prodotto
 
 --------------------------------------------------------------------
 
-###### Allegato III
+#### Allegato III
 
 PROTOCOLLO N.6
 
@@ -17897,7 +17891,7 @@ Luogo --------------, data -----------
 
 (1) Ad esempio: documenti d'importazione, certificati di circolazio- ne, fatture, dichiarazioni del fabbricante, ecc., relativi ai prodotti utilizzati per la fabbricazione o alle merci riesporta- tate tali e quali.
 
-###### Allegato IV
+#### Allegato IV
 
 PROTOCOLLO N. 6
 
@@ -17913,7 +17907,7 @@ L'esportatore delle merci contemplate nel presente documento (autorizzazione dog
 
 Parte di provvedimento in formato grafico
 
-###### Allegato V
+#### Allegato V
 
 PROTOCOLLO N. 6
 
@@ -17967,7 +17961,7 @@ Fatto a ---------------------, addi' -------------- ------------- (firma)
 
 \- se le merci sono originarie di un altro paese: indicare "paese terzo".
 
-###### Allegato VI
+#### Allegato VI
 
 PROTOCOLLO N. 6
 
@@ -17975,7 +17969,7 @@ ALLEGATO VI
 
 Parte di provvedimento in formato grafico
 
-###### Allegato VII
+#### Allegato VII
 
 PROTOCOLLO N. 6
 
@@ -18003,7 +17997,7 @@ La Comunita' e l'Algeria avvieranno quanto prima consultazioni a tal fine onde p
 
 PROTOCOLLO N. 7 RELATIVO ALL'ASSISTENZA AMMINISTRATIVA RECIPROCA NEL SETTORE DOGANALE
 
-###### ARTICOLO 1
+#### ARTICOLO 1
 
 Definizioni
 
@@ -18019,7 +18013,7 @@ d) "dati a carattere personale": qualsiasi informazione relativa a una persona f
 
 e) "operazione che viola la legislazione doganale": tutte le violazioni o i tentativi di violazione della legislazione doganale.
 
-###### ARTICOLO 2
+#### ARTICOLO 2
 
 Campo di applicazione
 
@@ -18029,7 +18023,7 @@ Campo di applicazione
 
 3\. L'assistenza in materia di riscossione di diritti, tasse o ammende non e' coperta dal presente protocollo.
 
-###### ARTICOLO 3
+#### ARTICOLO 3
 
 Assistenza su richiesta
 
@@ -18051,7 +18045,7 @@ c) le merci che vengono o potrebbero venire trasportate in modo da fare legittim
 
 d) i mezzi di trasporto per i quali vi sono fondati motivi di ritenere che siano destinati ad operazioni contrarie alla legislazione doganale.
 
-###### ARTICOLO 4
+#### ARTICOLO 4
 
 Assistenza spontanea
 
@@ -18067,7 +18061,7 @@ Le Parti contraenti si prestano assistenza reciproca, di propria iniziativa e in
 
 \- mezzi di trasporto che si possa ragionevolmente ritenere siano stati, siano o possano essere utilizzati per effettuare operazioni contrarie alla legislazione doganale.
 
-###### ARTICOLO 5
+#### ARTICOLO 5
 
 Comunicazione/Notifica
 
@@ -18083,7 +18077,7 @@ che rientrano nell'ambito di applicazione del presente protocollo a un destinata
 
 Le domande di consegna di documenti e di notifica di decisioni devono essere presentate per iscritto nella lingua ufficiale dell'autorita' interpellata o in una lingua accettabile per quest'ultima.
 
-###### ARTICOLO 6
+#### ARTICOLO 6
 
 Forma e contenuto delle domande di assistenza
 
@@ -18107,7 +18101,7 @@ f) una sintesi dei fatti e delle indagini gia' svolte.
 
 4\. Se la domanda non risponde ai requisiti formali suindicati se ne puo' richiedere la correzione o il completamento; nel frattempo, possono essere disposte misure cautelative.
 
-###### ARTICOLO 7
+#### ARTICOLO 7
 
 Adempimento delle domande
 
@@ -18119,7 +18113,7 @@ Adempimento delle domande
 
 4\. I funzionari debitamente autorizzati di una Parte contraente possono, d'intesa con l'altra Parte contraente e alle condizioni da essa stabilite, presenziare alle indagini condotte nel territorio di quest'ultima.
 
-###### ARTICOLO 8
+#### ARTICOLO 8
 
 Forma in cui devono essere comunicate le informazioni
 
@@ -18131,7 +18125,7 @@ Forma in cui devono essere comunicate le informazioni
 
 Gli originali sono restituiti quanto prima.
 
-###### ARTICOLO 9
+#### ARTICOLO 9
 
 Deroghe all'obbligo di fornire assistenza
 
@@ -18149,7 +18143,7 @@ c) violi un segreto industriale, commerciale o professionale.
 
 4\. Nei casi di cui ai paragrafi 1 e 2, la decisione dell'autorita' interpellata e le relative motivazioni devono essere comunicate senza indugio all'autorita' richiedente.
 
-###### ARTICOLO 10
+#### ARTICOLO 10
 
 Scambi di informazioni e riservatezza
 
@@ -18165,19 +18159,19 @@ Esse sono coperte dal segreto d'ufficio e sono tutelate sia dalle leggi pertinen
 
 Pertanto, nei verbali, nelle relazioni e testimonianze, nonche' nei procedimenti e nelle azioni penali promossi dinanzi ad un tribunale, le Parti contraenti possono utilizzare come prova le informazioni ottenute e i documenti consultati conformemente alle disposizioni del presente protocollo. L'autorita' competente che ha fornito dette informazioni o dato accesso ai documenti ne e' informata.
 
-###### ARTICOLO 11
+#### ARTICOLO 11
 
 Esperti e testimoni
 
 Un funzionario dell'autorita' interpellata puo' essere autorizzato a comparire, nei limiti stabiliti nell'autorizzazione concessa, in qualita' di esperto o testimone in procedimenti giudiziari o amministrativi riguardanti le materie di cui al presente protocollo e produrre pezze d'appoggio, atti o loro copie autenticate e qualsiasi altro documento necessario nel procedimento. Nella richiesta di comparizione deve essere precisato davanti a quale autorita' giudiziaria o amministrativa tale funzionario deve comparire, nonche' per quale causa, a quale titolo e in quale veste sara' ascoltato.
 
-###### ARTICOLO 12
+#### ARTICOLO 12
 
 Spese di assistenza
 
 Le Parti contraenti rinunciano reciprocamente a tutte le richieste di rimborso delle spese sostenute in virtu' del presente protocollo, escluse, a seconda dei casi, le spese per esperti e testimoni nonche' per gli interpreti e traduttori che non dipendono da pubblici servizi.
 
-###### ARTICOLO 13
+#### ARTICOLO 13
 
 Attuazione
 
@@ -18185,7 +18179,7 @@ Attuazione
 
 2\. Le Parti contraenti si consultano e si tengono reciprocamente informate in merito alle norme specifiche di esecuzione adottate conformemente alle disposizioni del presente protocollo.
 
-###### ARTICOLO 14
+#### ARTICOLO 14
 
 Altri accordi
 
@@ -18201,7 +18195,7 @@ Altri accordi
 
 3\. Le Parti si consultano nell'ambito del Comitato di cooperazione istituito dall'articolo 41 del protocollo n. 6 dell'accordo di associazione per risolvere le questioni inerenti all'applicabilita' del presente protocollo.
 
-###### Atto Finale
+#### Atto Finale
 
 ATTO FINALE
 
@@ -18353,7 +18347,7 @@ Per la Comunita' europea
 
 Parte di provvedimento in formato grafico
 
-###### Dichiarazioni
+#### Dichiarazioni
 
 DICHIARAZIONI COMUNI
 

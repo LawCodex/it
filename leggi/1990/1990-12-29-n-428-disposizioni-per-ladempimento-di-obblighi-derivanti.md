@@ -386,7 +386,7 @@ f) le forme ed i termini per l'esame dei titoli addotti dagli interessati per l'
 
 > 4\) la vigilanza sull'organo centrale del Club alpino italiano e dell'Automobil club d'Italia e sull'Ente nazionale italiano per il turismo".
 
-## CAPO II - ESERCIZIO DI ATTIVITA' ECONOMICHE
+### CAPO II - ESERCIZIO DI ATTIVITA' ECONOMICHE
 
 #### Art. 12
 
@@ -882,7 +882,7 @@ h) armonizzazione del regime fiscale dei conferimenti nel GEIEI con il sistema f
 
 > Ogni dipendenza del gruppo, quando e' iscritta conformemente all'articolo 10, deve far figurare le indicazioni di cui sopra, insieme a quelle relative alla propria iscrizione, sui documenti di cui al primo comma del presente articolo provenienti dalla dipendenza in questione".
 
-## CAPO III - CREDITIO E RISPARMIO
+### CAPO III - CREDITIO E RISPARMIO
 
 #### ART. 18 - Conti annuali e consolidati delle banche e degli altri istituti fianziari e pubblicita' dei documenti contabili delle succursali: criteri di delega
 
@@ -1216,7 +1216,7 @@ d) per l'imposta sul contratto di assicurazione nel ramo sara' applicata l'aliqu
 
 > n. L. 228 del 16 agosto 1973.
 
-## CAPO IV - ASSICURAZIONI
+### CAPO IV - ASSICURAZIONI
 
 #### ART. 26 - Assicurazione crediti: criteri di delega
 
@@ -1366,7 +1366,7 @@ s) la vigente normativa sara' modificata in modo da rendere organica la discipli
 
 > \- La legge 12 agosto 1982, n. 576, concerne la riforma della vigilanza sulle assicurazioni.
 
-## CAPO V - DISPOSIZIONI FISCALI
+### CAPO V - DISPOSIZIONI FISCALI
 
 #### Art. 29 - Rimborso dei tributi riconosciuti incompatibili con norme comunitarie
 
@@ -1648,7 +1648,7 @@ ricavata dalla vendita, oppure l'impugnazione della somma ricavata dalla vendita
 
 > 3\. L'Alta Autorita' puo' infliggere, a carico delle imprese che non rispettino le decisioni da essa prese in esecuzione del presente articolo, aumenti al massimo del 5% per ogni trimestre di mora".
 
-## CAPO VI - TUTELA DEI CONSUMATORI
+### CAPO VI - TUTELA DEI CONSUMATORI
 
 #### ART. 41 - Divieto della pubblicita' ingannevole: criteri di delega
 
@@ -1730,7 +1730,7 @@ c) le normative concernenti lotti o partite di prodotti saranno coor- dinate all
 
 (( ARTICOLO ABROGATO DAL D.LGS. 24 GIUGNO 2003, N. 184 ))
 
-## CAPO VII - LAVORO
+### CAPO VII - LAVORO
 
 #### ART. 47 - Trasferimenti di azienda
 
@@ -1862,7 +1862,7 @@ b) prevedere, nei casi di deroga consentiti dalla direttiva, anche un sistema di
 
 > \- Il D.P.R. 19 marzo 1956, n. 303, concernente norme generali per l'igiene del lavoro.
 
-## CAPO VIII - PRODOTTI ALIMENTARI.
+### CAPO VIII - PRODOTTI ALIMENTARI.
 
 #### ART. 50 - Requisiti dei prodotti alimentari e dei materiali e degli oggetti destinati a venire a contatto con gli alimenti: criteri di delega
 
@@ -1974,7 +1974,7 @@ i) l'articolo 7 e' sostituito dal seguente:
 
 > \- La legge 6 ottobre 1950, n. 836, disciplina la produzione e la vendita degli estratti alimentari e dei prodotti affini.
 
-## CAPO IX - PRODUZIONE INDUSTRIALE.
+### CAPO IX - PRODUZIONE INDUSTRIALE.
 
 CAPO IX
 
@@ -2172,7 +2172,7 @@ c) sia individuata nella Gazzetta Ufficiale della Repubblica italiana - parte pr
 
 > Le sostanze denaturanti devono essere fornite dalla ditte interessate e riconosciute idonee da parte del laboratorio chimico centrale delle dogane e I. 1.., sentito il Ministero della sanita' per quanto attiene agli aspetti farmacotossicologici".
 
-## CAPO X - POLITICA AGRICOLA
+### CAPO X - POLITICA AGRICOLA
 
 #### ART. 63 - Violazioni in materia di prelievo di corresponsabilita' sui cereali
 
@@ -2214,7 +2214,7 @@ AGGIORNAMENTO (3)
 
 La L. 26 novembre 1992, n. 468 ha disposto (con l'art. 13, comma 1) che "L'articolo 64 della legge 29 dicembre 1990, n. 428, si applica esclusivamente all'ottavo periodo di applicazione del regime comunitario sulle quote latte di cui all'articolo 5-quater del regolamento CEE n. 804/68 del Consiglio del 27 giugno 1968 e succes- sive modificazioni, integrazioni e codificazioni".
 
-## CAPO XI - SANITA' VETERINARIA
+### CAPO XI - SANITA' VETERINARIA
 
 #### ART. 65 - Ormoni e farmaci veterinari criteri di delega
 
@@ -2298,7 +2298,7 @@ f) assicurare che siano fissate idonee garanzie sanitarie per evitare che i prep
 
 > "Art. 16 (Servizi veterinari). - La legge regionale stabilisce norme per il riordino dei servizi veterinari a livello regionale nell'ambito di ciascuna unita' sanitaria locale o in un ambito territoriale piu' ampio, tenendo conto della distribuzione e delle attitudini produttive del patrimonio zootecnico, della riproduzione animale, della dislocazione e del potenziale degli impianti di macellazione, di lavorazione e di conservazione delle carni e degli altri prodotti di origine animale, della produzione dei mangimi e degli integratori, delle esigenze della zooprofilassi, della lotta contro la zoonosi e della vigilanza sugli alimenti di origine animale. La legge regionale individua anche le relative strutture multizonali e ne regola il funzionamento ai sensi dell'art. 18".
 
-## CAPO XII - TUTELA DELL'AMBIENTE
+### CAPO XII - TUTELA DELL'AMBIENTE
 
 #### ART. 67 - Criteri di delega in materia di inquinamento atmosferico, acustico e delle acque e di scarichi nell'ambiente di sostanze pericolose
 

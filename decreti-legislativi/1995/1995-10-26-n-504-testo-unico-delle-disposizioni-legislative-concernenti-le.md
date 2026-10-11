@@ -38,7 +38,7 @@ E M A N A
 
 il seguente decreto legislativo:
 
-#### Art. 1
+##### Art. 1
 
 1\. E' approvato l'unito testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, composto da 68 articoli e vistato dai proponenti.
 
@@ -134,7 +134,7 @@ Visto, il Guardasigilli: DINI
 
 ### Capo I - DISPOSIZIONI GENERALI
 
-#### Art. 1 - Ambito applicativo e definizioni
+##### Art. 1 - Ambito applicativo e definizioni
 
 1\. Il presente testo unico disciplina l'imposizione indiretta sulla produzione e sui consumi.
 
@@ -230,7 +230,7 @@ Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 1) che "Le disp
 
 Ha inoltre disposto (con l'art. 8, comma 3) che "Salvo quanto previsto dal comma 3 dell'articolo 9-quater, come introdotto dall'articolo 1, comma 1, lettera e), del presente decreto, le disposizioni di cui agli articoli 9-ter, 9-quater, 9-quinquies, 9-sexies e 9-septies del citato testo unico di cui al decreto legislativo n. 504 del 1995, come introdotti dall'articolo 1, comma 1, lettera e), e le disposizioni di cui all'articolo 1, comma 1, lettera a), hanno effetto a decorrere dalla data di entrata in vigore del decreto di cui all'articolo 9-octies, comma 1, del testo unico di cui al decreto legislativo n. 504 del 1995, introdotto dall'articolo 1, comma 1, lettera e)".
 
-#### Art. 2 - Fatto generatore ed esigibilita' dell'accisa
+##### Art. 2 - Fatto generatore ed esigibilita' dell'accisa
 
 1\. Per i prodotti sottoposti ad accisa l'obbligazione tributaria sorge al momento della loro fabbricazione, compresa l'estrazione dal sottosuolo qualora l'accisa sia applicabile, ovvero ((della loro importazione o del loro ingresso irregolare nel territorio dello Stato)).((87))
 
@@ -266,7 +266,7 @@ AGGIORNAMENTO (87)
 
 Il D.Lgs. 5 novembre 2021, n. 180 ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
 
-#### Art. 3
+##### Art. 3
 
 (Artt. 3 e 17 commi 5 e 6, D.L. n. 331/93 - Art. 6 D.L.C.P.S. 25 novembre 1947, n. 1285 - Art. 2 D.L. 23 ottobre 1964, n. 989, convertito, con modificazioni, dalla legge 18 dicembre 1964, n.
 
@@ -310,7 +310,7 @@ AGGIORNAMENTO (129)
 
 Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
-#### Art. 4
+##### Art. 4
 
 (( (Abbuoni per perdite, distruzione e cali).))
 
@@ -334,7 +334,7 @@ AGGIORNAMENTO (87)
 
 Il D.Lgs. 5 novembre 2021, n. 180 ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
 
-#### Art. 5 - Regime del deposito fiscale
+##### Art. 5 - Regime del deposito fiscale
 
 1\. La fabbricazione, la lavorazione, la trasformazione e la detenzione dei prodotti soggetti ad accisa ed in regime sospensivo sono effettuate in regime di deposito fiscale. Sono escluse dal predetto regime le fabbriche di prodotti tassati su base forfettaria.
 
@@ -370,7 +370,7 @@ AGGIORNAMENTO (129)
 
 Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 4) che "Le disposizioni di cui agli articoli 5, comma 3, lettera a), 21, comma 7, 26, comma 11, e 53, comma 6, del testo unico di cui al decreto legislativo n. 504 del 1995, nella formulazione vigente alla data di entrata in vigore del presente decreto, si applicano, quanto alla possibilita' di esonerare i soggetti affidabili e di notoria solvibilita', fino alla data di cui al comma 3".
 
-#### Art. 6 - Circolazione in regime sospensivo di prodotti sottoposti ad accisa
+##### Art. 6 - Circolazione in regime sospensivo di prodotti sottoposti ad accisa
 
 1\. La circolazione di prodotti sottoposti ad accisa, in regime sospensivo, nello Stato e nel territorio dell'Unione europea, compreso il caso in cui tali prodotti transitino per un paese o un territorio terzo, puo' avvenire:
 
@@ -442,7 +442,7 @@ AGGIORNAMENTO (129)
 
 Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
-#### Art. 7
+##### Art. 7
 
 (( (Irregolarita' nella circolazione di prodotti
 
@@ -466,7 +466,7 @@ e) se entro tre anni dalla data in cui ha avuto inizio la circolazione conformem
 
 4\. Lo scambio e l'utilizzazione di informazioni necessarie per l'attuazione della cooperazione amministrativa con gli altri Stati membri, nonche' le azioni di mutua assistenza amministrativa con i medesimi Stati e con i competenti servizi della Comunita' europea, avvengono in conformita' delle disposizioni comunitarie e con l'osservanza delle modalita' previste dai competenti organi comunitari.))
 
-#### Art. 7-bis - Disposizioni particolari per la circolazione degli oli lubrificanti e di altri specifici prodotti
+##### Art. 7-bis - Disposizioni particolari per la circolazione degli oli lubrificanti e di altri specifici prodotti
 
 1\. Fatto salvo quanto previsto, in materia di circolazione, dalle disposizioni doganali e dall'articolo 6, comma 5, gli oli lubrificanti di cui ai codici NC da 2710 19 81 a 2710 19 99 circolano nel territorio nazionale, nella fase antecedente all'immissione in consumo, con la scorta di un Codice amministrativo di riscontro, relativo a ciascun trasferimento dei suddetti prodotti, emesso dal sistema informatizzato dell'Agenzia delle dogane e dei monopoli e annotato sulla prescritta documentazione di trasporto.
 
@@ -500,7 +500,7 @@ AGGIORNAMENTO (83)
 
 Il D.L. 26 ottobre 2019, n. 124, convertito con modificazioni dalla L. 19 dicembre 2019, n. 157, come modificato dal D.L. 19 maggio 2020, n. 34, ha disposto (con l'art. 7, comma 4) che "Le disposizioni di cui al presente articolo hanno efficacia a decorrere dal 1° ottobre 2020".
 
-#### Art. 8 - Destinatario registrato
+##### Art. 8 - Destinatario registrato
 
 1\. Il soggetto che intende operare come destinatario registrato e' preventivamente autorizzato dall'Amministrazione finanziaria competente; l'autorizzazione, valida fino a revoca, e' rilasciata in considerazione dell'attivita' svolta dal soggetto presso il proprio deposito. I prodotti sottoposti ad accisa ricevuti in regime sospensivo sono separatamente detenuti e contabilizzati rispetto a quelli assoggettati ad accisa ricevuti nel medesimo deposito. Al destinatario registrato e' attribuito un codice di accisa.
 
@@ -538,7 +538,7 @@ AGGIORNAMENTO (87)
 
 Il D.Lgs. 5 novembre 2021, n. 180 ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
 
-#### Art. 8-bis
+##### Art. 8-bis
 
 (( (Destinatario certificato). ))
 
@@ -574,7 +574,7 @@ AGGIORNAMENTO (87)
 
 Il D.Lgs. 5 novembre 2021, n. 180 ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
 
-#### Art. 9 - Speditore registrato
+##### Art. 9 - Speditore registrato
 
 1\. Il soggetto che intende operare come speditore registrato e' preventivamente autorizzato, per ogni tipologia di prodotti sottoposti ad accisa oggetto della propria attivita', dal competente Ufficio dell'Amministrazione finanziaria, individuato in relazione alla sede legale del medesimo soggetto. Si prescinde da tale autorizzazione per gli spedizionieri abilitati a svolgere i compiti previsti dall'articolo 7, comma 1-sexies, del decreto-legge 30 dicembre 1991, n. 417, convertito, con modificazioni, dalla legge 6 febbraio 1992, n. 66. Allo speditore registrato e' attribuito, prima dell'inizio della sua attivita', un codice di accisa.
 
@@ -590,7 +590,7 @@ AGGIORNAMENTO (87)
 
 Il D.Lgs. 5 novembre 2021, n. 180 ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
 
-#### Art. 9-bis
+##### Art. 9-bis
 
 (( (Speditore certificato). ))
 
@@ -620,7 +620,7 @@ AGGIORNAMENTO (87)
 
 Il D.Lgs. 5 novembre 2021, n. 180 ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
 
-#### Art. 9-ter
+##### Art. 9-ter
 
 (( (Soggetto obbligato accreditato). ))
 
@@ -640,7 +640,7 @@ AGGIORNAMENTO (129)
 
 Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 3) che "Salvo quanto previsto dal comma 3 dell'articolo 9-quater, come introdotto dall'articolo 1, comma 1, lettera e), del presente decreto, le disposizioni di cui agli articoli 9-ter, 9-quater, 9-quinquies, 9-sexies e 9-septies del citato testo unico di cui al decreto legislativo n. 504 del 1995, come introdotti dall'articolo 1, comma 1, lettera e), e le disposizioni di cui all'articolo 1, comma 1, lettera a), hanno effetto a decorrere dalla data di entrata in vigore del decreto di cui all'articolo 9-octies, comma 1, del testo unico di cui al decreto legislativo n. 504 del 1995, introdotto dall'articolo 1, comma 1, lettera e)".
 
-#### Art. 9-quater
+##### Art. 9-quater
 
 (( (Requisiti di ammissione). ))
 
@@ -668,7 +668,7 @@ AGGIORNAMENTO (129)
 
 Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 3) che "Salvo quanto previsto dal comma 3 dell'articolo 9-quater, come introdotto dall'articolo 1, comma 1, lettera e), del presente decreto, le disposizioni di cui agli articoli 9-ter, 9-quater, 9-quinquies, 9-sexies e 9-septies del citato testo unico di cui al decreto legislativo n. 504 del 1995, come introdotti dall'articolo 1, comma 1, lettera e), e le disposizioni di cui all'articolo 1, comma 1, lettera a), hanno effetto a decorrere dalla data di entrata in vigore del decreto di cui all'articolo 9-octies, comma 1, del testo unico di cui al decreto legislativo n. 504 del 1995, introdotto dall'articolo 1, comma 1, lettera e)".
 
-#### Art. 9-quinquies
+##### Art. 9-quinquies
 
 (( (Riconoscimento della qualifica di soggetto obbligato accreditato). ))
 
@@ -702,7 +702,7 @@ AGGIORNAMENTO (129)
 
 Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 3) che "Salvo quanto previsto dal comma 3 dell'articolo 9-quater, come introdotto dall'articolo 1, comma 1, lettera e), del presente decreto, le disposizioni di cui agli articoli 9-ter, 9-quater, 9-quinquies, 9-sexies e 9-septies del citato testo unico di cui al decreto legislativo n. 504 del 1995, come introdotti dall'articolo 1, comma 1, lettera e), e le disposizioni di cui all'articolo 1, comma 1, lettera a), hanno effetto a decorrere dalla data di entrata in vigore del decreto di cui all'articolo 9-octies, comma 1, del testo unico di cui al decreto legislativo n. 504 del 1995, introdotto dall'articolo 1, comma 1, lettera e)".
 
-#### Art. 9-sexies
+##### Art. 9-sexies
 
 (( (Attivazione dei benefici conseguenti al riconoscimento della qualifica di soggetto obbligato accreditato). ))
 
@@ -728,7 +728,7 @@ AGGIORNAMENTO (129)
 
 Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 3) che "Salvo quanto previsto dal comma 3 dell'articolo 9-quater, come introdotto dall'articolo 1, comma 1, lettera e), del presente decreto, le disposizioni di cui agli articoli 9-ter, 9-quater, 9-quinquies, 9-sexies e 9-septies del citato testo unico di cui al decreto legislativo n. 504 del 1995, come introdotti dall'articolo 1, comma 1, lettera e), e le disposizioni di cui all'articolo 1, comma 1, lettera a), hanno effetto a decorrere dalla data di entrata in vigore del decreto di cui all'articolo 9-octies, comma 1, del testo unico di cui al decreto legislativo n. 504 del 1995, introdotto dall'articolo 1, comma 1, lettera e)".
 
-#### Art. 9-septies - Monitoraggio e revoca della qualifica di soggetto obbligato accreditato
+##### Art. 9-septies - Monitoraggio e revoca della qualifica di soggetto obbligato accreditato
 
 1\. L'Agenzia delle dogane e dei monopoli monitora la permanenza dei requisiti di ammissione di cui all'articolo 9-quater, i profili di affidabilita' e il relativo punteggio sintetico anche attraverso la richiesta di informazioni e documenti al SOAC, il quale provvede entro ((quarantacinque)) giorni dalla richiesta.
 
@@ -746,7 +746,7 @@ AGGIORNAMENTO (129)
 
 Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 3) che "Salvo quanto previsto dal comma 3 dell'articolo 9-quater, come introdotto dall'articolo 1, comma 1, lettera e), del presente decreto, le disposizioni di cui agli articoli 9-ter, 9-quater, 9-quinquies, 9-sexies e 9-septies del citato testo unico di cui al decreto legislativo n. 504 del 1995, come introdotti dall'articolo 1, comma 1, lettera e), e le disposizioni di cui all'articolo 1, comma 1, lettera a), hanno effetto a decorrere dalla data di entrata in vigore del decreto di cui all'articolo 9-octies, comma 1, del testo unico di cui al decreto legislativo n. 504 del 1995, introdotto dall'articolo 1, comma 1, lettera e)".
 
-#### Art. 9-octies
+##### Art. 9-octies
 
 (( (Disposizioni attuative per la qualifica di soggetto obbligato accreditato). ))
 
@@ -778,7 +778,7 @@ AGGIORNAMENTO (129)
 
 Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 2) che "Le disposizioni di cui all'articolo 9-octies del testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, di cui al decreto legislativo 26 ottobre 1995, n. 504, introdotto dall'articolo 1, comma 1, lettera e), si applicano dalla data di entrata in vigore del presente decreto".
 
-#### Art. 10
+##### Art. 10
 
 (( (Circolazione di prodotti gia' immessi in consumo in un altro Stato membro e consegnati per scopi commerciali nel territorio dello Stato). ))
 
@@ -814,7 +814,7 @@ Il D.Lgs. 5 novembre 2021, n. 180 ha disposto (con l'art. 3, comma 1) che la pre
 
 Ha inoltre disposto (con l'art. 3, comma 2) che "Fino alla data del 31 dicembre 2023, le modalita' previste dall'articolo 10, comma 5, del decreto legislativo 26 ottobre 1995, n. 504, nel testo vigente alla data del 31 dicembre 2021, continuano ad applicarsi alla circolazione dei prodotti sottoposti ad accisa, immessi in consumo in un altro Stato membro e trasportati nel territorio nazionale per esservi consegnati per scopi commerciali nonche' alla circolazione di quelli immessi in consumo nel territorio nazionale e trasportati in un altro Stato membro per esservi consegnati per i medesimi scopi; fino alla medesima data del 31 dicembre 2023, le predette modalita' si applicano altresi' alle spedizioni di prodotti assoggettati ad accisa tra localita' nazionali con attraversamento del territorio di un altro Stato membro".
 
-#### Art. 10-bis - Altre disposizioni relative alla circolazione di prodotti gia' immessi in consumo in un altro Stato membro
+##### Art. 10-bis - Altre disposizioni relative alla circolazione di prodotti gia' immessi in consumo in un altro Stato membro
 
 1\. I prodotti gia' assoggettati ad accisa in un altro Stato membro, che siano stati acquistati da un soggetto stabilito nel territorio dello Stato, che sia privato ovvero che, pur esercitando una attivita' economica, agisca in qualita' di privato, e siano stati spediti o trasportati nel territorio dello Stato direttamente o indirettamente dal venditore o per suo conto, sono soggetti ad accisa nel territorio dello Stato. Gli acquisti dei tabacchi lavorati, effettuati ai sensi del presente comma, avvengono con modalita' diverse da quelle della vendita a distanza transfrontaliera di cui alla direttiva del Parlamento europeo e del Consiglio del 3 aprile 2014, n. 2014/40/UE. (59)
 
@@ -844,7 +844,7 @@ AGGIORNAMENTO (87)
 
 Il D.Lgs. 5 novembre 2021, n. 180 ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
 
-#### Art. 10-ter - Irregolarita' nella circolazione di prodotti gia' immessi in consumo in un altro Stato membro
+##### Art. 10-ter - Irregolarita' nella circolazione di prodotti gia' immessi in consumo in un altro Stato membro
 
 1\. In caso di irregolarita' o di infrazione verificatasi nel corso della circolazione di prodotti gia' immessi in consumo in un altro Stato membro, si applicano, salvo quanto previsto per l'esercizio dell'azione penale se i fatti addebitati costituiscono reato, le seguenti disposizioni:
 
@@ -872,7 +872,7 @@ AGGIORNAMENTO (87)
 
 Il D.Lgs. 5 novembre 2021, n. 180 ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
 
-#### Art. 11 - Prodotti assoggettati ad accisa ed immessi in consumo in altro Stato membro e acquistati da privati
+##### Art. 11 - Prodotti assoggettati ad accisa ed immessi in consumo in altro Stato membro e acquistati da privati
 
 1\. Per i prodotti assoggettati ad accisa ed immessi in consumo in altro Stato membro, acquistati da privati per proprio uso e da loro trasportati, l'accisa e' dovuta nello Stato membro in cui i prodotti vengono acquistati.
 
@@ -912,7 +912,7 @@ AGGIORNAMENTO (87)
 
 Il D.Lgs. 5 novembre 2021, n. 180 ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
 
-#### Art. 12
+##### Art. 12
 
 (( (Deposito e circolazione di prodotti assoggettati ad accisa). ))
 
@@ -930,7 +930,7 @@ AGGIORNAMENTO (87)
 
 Il D.Lgs. 5 novembre 2021, n. 180 ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
 
-#### Art. 13 - Contrassegni fiscali
+##### Art. 13 - Contrassegni fiscali
 
 1\. I prodotti sottoposti ad accisa, destinati ad essere immessi in consumo nel territorio dello Stato sono muniti di contrassegni fiscali nei casi in cui questi sono prescritti.
 
@@ -960,7 +960,7 @@ E' stato ripristinato il testo gia' in vigore dall'1-4-2010 a seguito della sopp
 
 medesimo.
 
-#### Art. 14
+##### Art. 14
 
 (( (Rimborsi dell'accisa). ))
 
@@ -980,7 +980,7 @@ medesimo.
 
 8\. Non si fa luogo a rimborso di somme inferiori o pari ad euro 30)).
 
-#### Art. 15
+##### Art. 15
 
 (( (Recupero dell'accisa e prescrizione del diritto all'imposta). ))
 
@@ -998,7 +998,7 @@ medesimo.
 
 7\. Non si provvede alla riscossione di somme inferiori o pari ad euro 30)).
 
-#### Art. 16 - Art. 33 T.U. spiriti 1924 - Art. 26 T.U. birra 1924 - Art. 13 legge 31 dicembre 1962, n. 1852 - Art. 7 D.L. n. 46/1976 - Art. 25, comma 4, D.L. n. 331/1993
+##### Art. 16 - Art. 33 T.U. spiriti 1924 - Art. 26 T.U. birra 1924 - Art. 13 legge 31 dicembre 1962, n. 1852 - Art. 7 D.L. n. 46/1976 - Art. 25, comma 4, D.L. n. 331/1993
 
 Privilegio
 
@@ -1008,7 +1008,7 @@ Privilegio
 
 3\. I crediti vantati dai soggetti passivi dell'accisa ((e dai titolari di licenza per l'esercizio di depositi commerciali di prodotti energetici ad imposta assolta,)) verso i cessionari dei prodotti per i quali i soggetti stessi hanno ((comunque corrisposto)) tale tributo possono essere addebitati a titolo di rivalsa ed hanno privilegio generale sui beni mobili del debitore con lo stesso grado del privilegio generale stabilito dall'art. 2752 del codice civile, cui tuttavia e' posposto, limitatamente ad un importo corrispondente all'ammontare dell'accisa, qualora questa risulti separatamente evidenziata nella fattura relativa alla cessione.
 
-#### Art. 17 - Artt. 15 e 20, comma 2, D.L. n. 331/1993
+##### Art. 17 - Artt. 15 e 20, comma 2, D.L. n. 331/1993
 
 Esenzioni
 
@@ -1054,7 +1054,7 @@ AGGIORNAMENTO (99)
 
 Il D.Lgs. 27 maggio 2022, n. 72 ha disposto (con l'art. 4, comma 1) che la presente modifica si applica a decorrere dal 1° luglio 2022.
 
-#### Art. 18
+##### Art. 18
 
 (Art. 5 T.U. spiriti e birra 1924 - Art. 28, comma 2, R.D.L. n.
 
@@ -1088,7 +1088,7 @@ d) procedere a perquisizioni domiciliari, in qualsiasi ora, in caso di notizia o
 
 (\*) Il riferimento al D.L. n. 688/1982 riguarda il decreto-legge 30 settembre 1982, n. 688, convertito, con modificazioni, dalla legge 27 novembre 1982, n. 873.
 
-#### Art. 19
+##### Art. 19
 
 (( (Accertamento delle violazioni). ))
 
@@ -1102,7 +1102,7 @@ d) procedere a perquisizioni domiciliari, in qualsiasi ora, in caso di notizia o
 
 5\. L'Ufficio delle dogane e l'Ufficio regionale dei monopoli di Stato sono competenti per l'applicazione delle sanzioni amministrative relative alle violazioni accertate nel loro ambito territoriale)).
 
-#### Art. 19-bis
+##### Art. 19-bis
 
 (( (Utilizzo della posta elettronica certificata). ))
 
@@ -1110,13 +1110,13 @@ d) procedere a perquisizioni domiciliari, in qualsiasi ora, in caso di notizia o
 
 2\. Per i fini di cui al comma 1, i soggetti tenuti al pagamento dell'imposta nonche' quelli che intendono iniziare un'attivita' subordinata al rilascio di una licenza o di un'autorizzazione, comunque denominata, previste dal presente testo unico comunicano preventivamente all'Agenzia il proprio indirizzo di PEC)).
 
-#### Art. 20
+##### Art. 20
 
 ((ARTICOLO ABROGATO DAL D.LGS. 29 MARZO 2010, N. 48))
 
-## Capo II - OLI MINERALI
+### Capo II - OLI MINERALI
 
-#### Art. 21 - Prodotti sottoposti ad accisa
+##### Art. 21 - Prodotti sottoposti ad accisa
 
 1\. Si intendono per prodotti energetici:
 
@@ -1330,7 +1330,7 @@ Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 1) che "Le disp
 
 Ha inoltre disposto (con l'art. 8, comma 4) che "Le disposizioni di cui agli articoli 5, comma 3, lettera a), 21, comma 7, 26, comma 11, e 53, comma 6, del testo unico di cui al decreto legislativo n. 504 del 1995, nella formulazione vigente alla data di entrata in vigore del presente decreto, si applicano, quanto alla possibilita' di esonerare i soggetti affidabili e di notoria solvibilita', fino alla data di cui al comma 3".
 
-#### Art. 21-bis - Disposizioni particolari per le emulsioni
+##### Art. 21-bis - Disposizioni particolari per le emulsioni
 
 ((1. Nell'ambito di un programma della durata di sei anni, a decorrere dal 1º gennaio 2014 e fino al 31 dicembre 2019, e' stabilita un'accisa ridotta secondo le aliquote di seguito indicate, applicabile alle emulsioni stabilizzate idonee all'impiego nella carburazione e nella combustione, anche prodotte dal medesimo soggetto che le utilizza per i medesimi impieghi limitatamente ai quantitativi necessari al suo fabbisogno:
 
@@ -1362,7 +1362,7 @@ AGGIORNAMENTO (49)
 
 La L. 27 dicembre 2013, n. 147 ha disposto (con l'art. 1, comma 635) che l'efficacia delle modifiche del presente articolo e' subordinata, ai sensi dell'articolo 108, paragrafo 3, del Trattato sul funzionamento dell'Unione europea, alla preventiva approvazione da parte della Commissione europea.
 
-#### Art. 22
+##### Art. 22
 
 (( (Impieghi di prodotti energetici negli stabilimenti di produzione). ))
 
@@ -1382,7 +1382,7 @@ b) l'operazione nel corso della quale viene reimpiegato il prodotto energetico r
 
 c) l'operazione di miscelazione di prodotti energetici tra di loro o con altre sostanze, eseguita fuori di uno stabilimento di produzione o di un deposito fiscale, a condizione che l'accisa sia stata gia' pagata, salvo che la miscela ottenuta non benefici di una esenzione ovvero che sulla miscela non sia dovuta l'accisa di ammontare superiore a quello gia' pagato sui singoli componenti.))
 
-#### Art. 22-bis
+##### Art. 22-bis
 
 (Disposizioni particolari in materia di
 
@@ -1456,7 +1456,7 @@ La L. dicembre 2009, n. 191 ha disposto (con l'art. 2, comma 64) che "L'autorizz
 
 E' ridotto da 250.000 tonnellate a 18.000 tonnellate il contingente annuo, per l'anno 2010, di cui all'articolo 22-bis, comma 1, del citato testo unico di cui al decreto legislativo 26 ottobre 1995, n. 504".
 
-#### Art. 23 - Depositi fiscali di prodotti energetici
+##### Art. 23 - Depositi fiscali di prodotti energetici
 
 1\. Il regime del deposito fiscale e' consentito:
 
@@ -1514,7 +1514,7 @@ AGGIORNAMENTO (87)
 
 Il D.Lgs. 5 novembre 2021, n. 180 ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
 
-#### Art. 24
+##### Art. 24
 
 Impieghi agevolati
 
@@ -1524,7 +1524,7 @@ Impieghi agevolati
 
 2\. Le agevolazioni sono accordate anche mediante restituzione dell'imposta pagata; la restituzione puo' essere effettuata con la procedura di accredito prevista dall'art. 14.
 
-#### Art. 24-bis
+##### Art. 24-bis
 
 (( (Denaturazione dei prodotti energetici). ))
 
@@ -1532,7 +1532,7 @@ Impieghi agevolati
 
 2\. Fino all'emanazione delle determinazioni di cui al comma 1 restano in vigore le formule e le modalita' di denaturazione vigenti in quanto applicabili.))
 
-#### Art. 24-ter - Gasolio commerciale
+##### Art. 24-ter - Gasolio commerciale
 
 1\. Il gasolio commerciale usato come carburante e' assoggettato ad accisa con l'applicazione dell'aliquota prevista per tale impiego dal numero 4-bis della tabella A allegata al presente testo unico.
 
@@ -1582,7 +1582,7 @@ AGGIORNAMENTO (138)
 
 Il D.L. 30 aprile 2026, n. 63, convertito con modificazioni dalla L. 25 giugno 2026, n. 113, ha disposto (con l'art. 1-ter, comma 7) che le presenti modifiche hanno effetto a decorrere dal 1° ottobre 2026.
 
-#### Art. 25
+##### Art. 25
 
 Deposito e circolazione di prodotti energetici assoggettati ad accisa
 
@@ -1652,7 +1652,7 @@ AGGIORNAMENTO (81)
 
 Il D.L. 26 ottobre 2019, n. 124, convertito con modificazioni dalla L. 19 dicembre 2019, n. 157, come modificato dal D.L. 19 maggio 2020, n. 34, ha disposto (con l'art. 5, comma 2) che le disposizioni dei commi 2, lettere a) e c) e 4 hanno efficacia a decorrere dal 1° gennaio 2021.
 
-#### Art. 26
+##### Art. 26
 
 Gas naturale
 
@@ -1712,7 +1712,7 @@ Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 1) che "Le disp
 
 Ha inoltre disposto (con l'art. 8, comma 4) che "Le disposizioni di cui agli articoli 5, comma 3, lettera a), 21, comma 7, 26, comma 11, e 53, comma 6, del testo unico di cui al decreto legislativo n. 504 del 1995, nella formulazione vigente alla data di entrata in vigore del presente decreto, si applicano, quanto alla possibilita' di esonerare i soggetti affidabili e di notoria solvibilita', fino alla data di cui al comma 3".
 
-#### Art. 26-bis
+##### Art. 26-bis
 
 ((Rilascio dell'autorizzazione))
 
@@ -1742,7 +1742,7 @@ AGGIORNAMENTO (129)
 
 Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
-#### Art. 26-ter
+##### Art. 26-ter
 
 Accertamento, liquidazione e versamento dell'accisa
 
@@ -1782,7 +1782,7 @@ AGGIORNAMENTO (129)
 
 Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
-#### Art. 26-quater
+##### Art. 26-quater
 
 ((Altre disposizioni))
 
@@ -1804,7 +1804,7 @@ AGGIORNAMENTO (129)
 
 Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
-#### Art. 26-quinquies
+##### Art. 26-quinquies
 
 ((Disposizioni attuative))
 
@@ -1818,11 +1818,11 @@ AGGIORNAMENTO (129)
 
 Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
-## Capo III - ALCOLE E BEVANDE ALCOLICHE
+### Capo III - ALCOLE E BEVANDE ALCOLICHE
 
-### Sezione I - Disposizioni di carattere generale
+#### Sezione I - Disposizioni di carattere generale
 
-#### Art. 27 - Art. 1 R.D.L. n. 23/1933 - Artt. 1, 4 e 26 D.L. n. 331/1993
+##### Art. 27 - Art. 1 R.D.L. n. 23/1933 - Artt. 1, 4 e 26 D.L. n. 331/1993
 
 Ambito applicativo ed esenzioni
 
@@ -1872,7 +1872,7 @@ AGGIORNAMENTO (87)
 
 Il D.L. 21 ottobre 2021, n. 146, convertito con modificazioni, dalla L. 17 dicembre 2021, n. 215 ha disposto (con l'art. 5, comma 15-septies, alinea) che le modifiche al presente articolo hanno efficacia a decorrere dal 1° gennaio 2022.
 
-#### Art. 28 - Depositi fiscali di alcole e bevande alcoliche
+##### Art. 28 - Depositi fiscali di alcole e bevande alcoliche
 
 1\. La produzione dell'alcole etilico, dei prodotti alcolici intermedi e del vino nonche' la fabbricazione della birra e delle bevande fermentate diverse dal vino e dalla birra sono effettuate in regime di deposito fiscale. Le attivita' di fabbricazione dei prodotti sottoposti ad accisa in regime sospensivo sono consentite, subordinatamente al rilascio della licenza di esercizio di cui all'articolo 63, nei seguenti impianti:
 
@@ -1934,7 +1934,7 @@ AGGIORNAMENTO (87)
 
 Il D.Lgs. 5 novembre 2021, n. 180 ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
 
-#### Art. 29
+##### Art. 29
 
 (Art. 25 T.U. spiriti 1924 - Artt. 5 e 6 R.D.L. n. 23/1933 - Artt. 20 e 22 D.L. n. 1200/1948 - Art. 20 D.L. n. 142/1950 - Artt. 4 e 13
 
@@ -1984,7 +1984,7 @@ AGGIORNAMENTO (129)
 
 Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
-#### Art. 30
+##### Art. 30
 
 (Art. 25 T.U. spiriti 1924 - Art. 5 R.D.L. n. 23/1933 - Artt. 20 e 22 D.L. n. 1200/1948 - Art. 20 D.L. n. 142/1950 - Artt. 4 e 13 D.L.
 
@@ -2026,7 +2026,7 @@ AGGIORNAMENTO (87)
 
 Il D.L. 21 ottobre 2021, n. 146, convertito con modificazioni, dalla L. 17 dicembre 2021, n. 215 ha disposto (con l'art. 5, comma 15-septies, alinea) che le modifiche al presente articolo hanno efficacia dal 1° gennaio 2022.
 
-#### Art. 30-bis
+##### Art. 30-bis
 
 (( (Circolazione dell'alcole e delle bevande alcoliche non completamente denaturati). ))
 
@@ -2040,7 +2040,7 @@ AGGIORNAMENTO (87)
 
 Il D.L. 21 ottobre 2021, n. 146, convertito con modificazioni, dalla L. 17 dicembre 2021, n. 215 ha disposto (con l'art. 5, comma 15-septies, alinea) che il presente articolo ha efficacia dal 1° gennaio 2022.
 
-#### Art. 31
+##### Art. 31
 
 (Art. 3 R.D.L. n. 23/1933 - Art. 20 D.L. n. 1200/1948 - Art. 13 D.L.
 
@@ -2048,9 +2048,9 @@ n. 3/1956 - Artt. 10, 11, 12, 13 e 14 D.P.R. 19 aprile 1956, n. 1019) Disposizio
 
 1\. I prodotti alcolici sono posti in vendita condizionati nei modi previsti dalle disposizioni vigenti in materia; sui recipienti sono applicate le etichette con le indicazioni prescritte fra le quali devono risultare, per i prodotti nazionali di cui agli articoli 32 e 39, gli estremi della licenza fiscale della ditta fabbricante o di chi ha effettuato il condizionamento.
 
-## Sezione II - Alcole etilico
+#### Sezione II - Alcole etilico
 
-#### Art. 32 - Art. 25 D.L. n. 331/1993
+##### Art. 32 - Art. 25 D.L. n. 331/1993
 
 Oggetto dell'imposizione
 
@@ -2064,7 +2064,7 @@ b) i prodotti che hanno un titolo alcolometrico effettivo superiore al 22 per ce
 
 c) le bevande spiritose contenenti prodotti solidi o in soluzione.
 
-#### Art. 33 - Art. 6 T.U. spiriti 1924 - Art. 2 legge 11 maggio 1981, n. 213
+##### Art. 33 - Art. 6 T.U. spiriti 1924 - Art. 2 legge 11 maggio 1981, n. 213
 
 Accertamento dell'accisa sull'alcole
 
@@ -2088,7 +2088,7 @@ Per le fabbriche di cui al comma 2 sono assunti in carico i quantitativi determi
 
 7\. Per il controllo della produzione, l'amministrazione finanziaria puo' prescrivere l'installazione di misuratori delle materie prime alcoliche o alcoligene ed, eventualmente, dei semilavorati da avviare alla distillazione.
 
-#### Art. 33-bis
+##### Art. 33-bis
 
 (( (Piccole distillerie indipendenti). ))
 
@@ -2102,7 +2102,7 @@ AGGIORNAMENTO (87)
 
 Il D.L. 21 ottobre 2021, n. 146, convertito con modificazioni, dalla L. 17 dicembre 2021, n. 215 ha disposto (con l'art. 5, comma 15-septies, alinea) che il presente articolo ha efficacia a decorrere dal 1° gennaio 2022.
 
-#### Art. 33-ter
+##### Art. 33-ter
 
 Produzione di alcole etilico da processi di dealcolazione
 
@@ -2124,9 +2124,9 @@ AGGIORNAMENTO (131)
 
 Il D.Lgs. 28 marzo 2025, n. 43, come modificato dal D.L. 17 giugno 2025, n. 84, ha disposto (con l'art. 8, comma 4-bis) che "Le disposizioni di cui all'articolo 33-ter, comma 1, del testo unico delle disposizioni legislative concernente le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, di cui al decreto legislativo 26 ottobre 1995, n. 504, introdotto dall'articolo 1, comma 1, lettera l), hanno effetto a decorrere dal giorno successivo alla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana del decreto previsto dall'articolo 33-ter, comma 2. Le disposizioni di cui all'art. 33-ter, comma 2, si applicano a decorrere dalla data di entrata in vigore del presente decreto legislativo".
 
-## Sezione III - Birra
+#### Sezione III - Birra
 
-#### Art. 34 - Art. 21 D.L. n. 331/1993
+##### Art. 34 - Art. 21 D.L. n. 331/1993
 
 Oggetto dell'imposizione
 
@@ -2136,7 +2136,7 @@ Oggetto dell'imposizione
 
 3\. E' esente da accisa la birra prodotta da un privato e consumata dallo stesso produttore, dai suoi familiari e dai suoi ospiti, a condizione che non formi oggetto di alcuna attivita' di vendita.
 
-#### Art. 35 - Artt. 1, 2, 3, 4 D.L.vo 27 novembre 1992, n. 464
+##### Art. 35 - Artt. 1, 2, 3, 4 D.L.vo 27 novembre 1992, n. 464
 
 Accertamento dell'accisa sulla birra
 
@@ -2182,9 +2182,9 @@ AGGIORNAMENTO (87)
 
 Il D.L. 21 ottobre 2021, n. 146, convertito con modificazioni, dalla L. 17 dicembre 2021, n. 215 ha disposto (con l'art. 5, comma 15-septies, alinea) che le modifiche al presente articolo hanno efficacia a decorrere dal 1° gennaio 2022.
 
-## Sezione IV - Vino
+#### Sezione IV - Vino
 
-#### Art. 36 - Art. 22 D.L. n. 331/1993
+##### Art. 36 - Art. 22 D.L. n. 331/1993
 
 Oggetto dell'imposizione e modalita' di accertamento
 
@@ -2214,7 +2214,7 @@ AGGIORNAMENTO (87)
 
 Il D.L. 21 ottobre 2021, n. 146, convertito con modificazioni, dalla L. 17 dicembre 2021, n. 215 ha disposto (con l'art. 5, comma 15-septies, alinea) che la modifica al presente articolo ha efficacia a decorrere dal 1° gennaio 2022.
 
-#### Art. 37
+##### Art. 37
 
 (( (Disposizioni particolari per il vino). ))
 
@@ -2228,7 +2228,7 @@ AGGIORNAMENTO (87)
 
 Il D.Lgs. 5 novembre 2021, n. 180 ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
 
-#### Art. 37-bis
+##### Art. 37-bis
 
 (( (Piccolo produttore indipendente di vino). ))
 
@@ -2242,9 +2242,9 @@ AGGIORNAMENTO (87)
 
 Il D.L. 21 ottobre 2021, n. 146, convertito con modificazioni, dalla L. 17 dicembre 2021, n. 215 ha disposto (con l'art. 5, comma 15-septies, alinea) che il presente articolo ha efficacia a decorrere dal 1° gennaio 2022.
 
-## Sezione V - Bevande fermentate diverse dal vino e dalla birra
+#### Sezione V - Bevande fermentate diverse dal vino e dalla birra
 
-#### Art. 38 - Art. 23 D.L. n. 331/1993
+##### Art. 38 - Art. 23 D.L. n. 331/1993
 
 Oggetto dell'imposizione e modalita' di accertamento
 
@@ -2276,7 +2276,7 @@ AGGIORNAMENTO (87)
 
 Il D.L. 21 ottobre 2021, n. 146, convertito con modificazioni, dalla L. 17 dicembre 2021, n. 215 ha disposto (con l'art. 5, comma 15-septies, alinea) che la modifica al presente articolo ha efficacia a decorrere dal 1° gennaio 2022.
 
-#### Art. 38-bis
+##### Art. 38-bis
 
 (( (Piccolo produttore indipendente di bevande fermentate diverse dal vino e dalla birra). ))
 
@@ -2290,9 +2290,9 @@ AGGIORNAMENTO (87)
 
 Il D.L. 21 ottobre 2021, n. 146, convertito con modificazioni, dalla L. 17 dicembre 2021, n. 215 ha disposto (con l'art. 5, comma 15-septies, alinea) che il presente articolo ha efficacia a decorrere dal 1° gennaio 2022.
 
-## Sezione VI - Prodotti alcolici intermedi
+#### Sezione VI - Prodotti alcolici intermedi
 
-#### Art. 39 - Art. 24 D.L. n. 331/1993
+##### Art. 39 - Art. 24 D.L. n. 331/1993
 
 Oggetto dell'imposizione e modalita' di accertamento
 
@@ -2310,9 +2310,9 @@ AGGIORNAMENTO (87)
 
 Il D.L. 21 ottobre 2021, n. 146, convertito con modificazioni, dalla L. 17 dicembre 2021, n. 215 ha disposto (con l'art. 5, comma 15-septies, alinea) che la modifica al presente articolo ha efficacia a decorrere dal 1° gennaio 2022.
 
-## ((Capo III-bis - Tabacchi lavorati))
+### ((Capo III-bis - Tabacchi lavorati))
 
-#### Art. 39-bis - Oggetto dell'imposizione
+##### Art. 39-bis - Oggetto dell'imposizione
 
 1\. I tabacchi lavorati sono sottoposti ad accisa. Per tabacchi lavorati si intendono:
 
@@ -2364,7 +2364,7 @@ e) e' considerato come tabacco da masticare il tabacco presentato in rotoli, in 
 
 5\. COMMA ABROGATO DAL D.LGS. 31 MARZO 2011, N. 57.
 
-#### Art. 39-ter - Prodotti assimilati ai tabacchi lavorati
+##### Art. 39-ter - Prodotti assimilati ai tabacchi lavorati
 
 1\. Sono assimilati ai sigari e ai sigaretti i prodotti costituiti parzialmente da sostanze diverse dal tabacco, ma che rispondono agli altri criteri di cui all'articolo 39-bis, comma 2, lettera a).
 
@@ -2376,7 +2376,7 @@ e) e' considerato come tabacco da masticare il tabacco presentato in rotoli, in 
 
 4\. Sono assimilati al tabacco da fiuto ed al tabacco da masticare i prodotti costituiti parzialmente da sostanze diverse dal tabacco, ma che rispondono agli altri criteri di cui all'articolo 39-bis, comma 2, rispettivamente lettere d) ed e).
 
-#### Art. 39-quater - Tariffe di vendita
+##### Art. 39-quater - Tariffe di vendita
 
 1\. L'inserimento di ciascun prodotto di cui agli articoli 39-bis e 39-ter, commi 1, 2 e 4, nelle tariffe di vendita risultanti dalle tabelle di ripartizione previste dall'articolo 39-quinquies e' stabilito con provvedimento del Direttore dell'Agenzia delle dogane e dei monopoli. (87)
 
@@ -2394,7 +2394,7 @@ AGGIORNAMENTO (87)
 
 Il D.Lgs. 5 novembre 2021, n. 180 ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
 
-#### Art. 39-quinquies - Tabelle di ripartizione dei prezzi di vendita al pubblico
+##### Art. 39-quinquies - Tabelle di ripartizione dei prezzi di vendita al pubblico
 
 1\. Con provvedimento del Direttore dell'((Agenzia delle dogane e dei monopoli)), da pubblicare nella Gazzetta Ufficiale della Repubblica italiana, sono fissate le tabelle di ripartizione dei prezzi di vendita al pubblico dei tabacchi lavorati. I prezzi di vendita relativi ai prodotti di cui all'articolo 39-bis, comma 1, lettere a) e b), sono fissati con riferimento al chilogrammo convenzionale, pari, rispettivamente, a: ((87))
 
@@ -2420,7 +2420,7 @@ AGGIORNAMENTO (87)
 
 Il D.Lgs. 5 novembre 2021, n. 180 ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
 
-#### Art. 39-sexies - Disposizioni in materia di imposta sul valore aggiunto
+##### Art. 39-sexies - Disposizioni in materia di imposta sul valore aggiunto
 
 1\. Sulle cessioni e sulle importazioni dei tabacchi lavorati di cui agli articoli 39-bis e 39-ter l'imposta sul valore aggiunto e' dovuta, in una sola volta, a seconda dei casi dal depositario autorizzato che effettua l'immissione al consumo o dal destinatario registrato di cui all'articolo 8 ovvero dal rappresentante fiscale di cui all'articolo 10-bis, comma 2, con l'aliquota ordinaria vigente applicata sul prezzo di vendita al pubblico, al netto dell'ammontare della stessa imposta. ((Per le cessioni e per le importazioni di tabacchi lavorati effettuate prima dell'immissione al consumo, l'imposta e' applicata in base al regime ordinario previsto dal decreto del Presidente della Repubblica 26 ottobre 1972, n. 633.
 
@@ -2434,13 +2434,13 @@ AGGIORNAMENTO (41)
 
 Il D.L. 13 maggio 2011, n. 70, convertito con modificazioni dalla L. 12 luglio 2011, n. 106, ha disposto (con l'art. 7, comma 2, lettera cc-bis)) che "Le disposizioni di cui alla presente lettera si applicano a decorrere dalla data di entrata in vigore della legge di conversione del presente decreto".
 
-#### Art. 39-septies
+##### Art. 39-septies
 
 (( (Disposizioni in materia di aggio ai rivenditori). ))
 
 ((1. L'aggio ai rivenditori di cui all'articolo 24 della legge 22 dicembre 1957, n, 1293, e' stabilito nella misura del 10 per cento del prezzo di vendita al pubblico dei tabacchi lavorati.))
 
-#### Art. 39-octies - Aliquote di base e calcolo dell'accisa applicabile ai tabacchi lavorati
+##### Art. 39-octies - Aliquote di base e calcolo dell'accisa applicabile ai tabacchi lavorati
 
 1\. Ai fini dell'applicazione dell'accisa sui tabacchi lavorati di cui all'articolo 39-bis, comma 1, lettere a), b), c), d) ed e), sono stabilite le aliquote di base di cui all'Allegato I.
 
@@ -2554,7 +2554,7 @@ La L. 30 dicembre 2025, n. 199 ha disposto(con l'art. 1, comma 119, lettera a)) 
 
 2.2) alla lettera c), le parole da: «euro 140» fino a: «1° gennaio 2025» sono sostituite dalle seguenti: «euro 161,50 il chilogrammo per l'anno 2026, euro 165,50 il chilogrammo per l'anno 2027 ed euro 169,50 il chilogrammo a decorrere dall'anno 2028»".
 
-#### Art. 39-novies - Esenzioni
+##### Art. 39-novies - Esenzioni
 
 1\. Con decreto del Direttore dell'((Agenzia delle dogane e dei monopoli)) sono stabilite le modalita' per la concessione dell'esenzione dall'accisa sui tabacchi lavorati nelle ipotesi di cui all'articolo 17, comma 4-bis. ((87))
 
@@ -2564,7 +2564,7 @@ AGGIORNAMENTO (87)
 
 Il D.Lgs. 5 novembre 2021, n. 180 ha disposto (con l'art. 3, comma 1) che la presente modifica ha efficacia a decorrere dal 13 febbraio 2023.
 
-#### Art. 39-decies - Accertamento, liquidazione e pagamento dell'accisa
+##### Art. 39-decies - Accertamento, liquidazione e pagamento dell'accisa
 
 1\. I tabacchi lavorati sottoposti ad accisa devono essere accertati per quantita' e qualita' con l'osservanza delle modalita' operative stabilite con provvedimento del Ministero dell'economia e delle finanze.
 
@@ -2578,7 +2578,7 @@ AGGIORNAMENTO (133)
 
 La L. 30 dicembre 2025, n. 199, ha disposto (con l'art. 1, comma 124) che "Le disposizioni di cui al comma 119, lettere b), e) e f), hanno efficacia per i prodotti immessi in consumo a decorrere dal 1° gennaio 2026".
 
-#### Art. 39-undecies - Vigilanza
+##### Art. 39-undecies - Vigilanza
 
 1\. L'attivita' di vigilanza e di controllo sulla fabbricazione, sul trasporto, sulla distribuzione e sulla vendita dei tabacchi lavorati e' affidata alla Guardia di finanza, nel quadro della tutela del gettito erariale derivante dai monopoli fiscali.
 
@@ -2592,7 +2592,7 @@ AGGIORNAMENTO (87)
 
 Il D.Lgs. 5 novembre 2021, n. 180 ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
 
-#### Art. 39-duodecies - Contrassegni di legittimazione della circolazione dei tabacchi lavorati
+##### Art. 39-duodecies - Contrassegni di legittimazione della circolazione dei tabacchi lavorati
 
 1\. La circolazione dei tabacchi lavorati e' legittimata dall'applicazione, sui singoli condizionamenti, di appositi contrassegni di Stato.
 
@@ -2614,7 +2614,7 @@ AGGIORNAMENTO (87)
 
 Il D.Lgs. 5 novembre 2021, n. 180 ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
 
-#### Art. 39-terdecies - Disposizioni in tema di tabacchi da inalazione senza combustione
+##### Art. 39-terdecies - Disposizioni in tema di tabacchi da inalazione senza combustione
 
 1\. Per i tabacchi lavorati di cui all'articolo 39-bis, comma 1, lettera e-bis), non si applicano le disposizioni degli articoli 39-quater, 39-quinquies e 39-octies e, ai fini dell'etichettatura, tali tabacchi sono assimilati ai prodotti di cui all'articolo 6, comma 3, del decreto legislativo 24 giugno 2003, n. 184.
 
@@ -2624,9 +2624,9 @@ Il D.Lgs. 5 novembre 2021, n. 180 ha disposto (con l'art. 3, comma 1) che le pre
 
 4\. Ferma restando l'applicazione delle disposizioni di cui al decreto legislativo 24 giugno 2003, n. 184, il soggetto obbligato al pagamento dell'accisa dichiara all'Agenzia delle dogane e dei monopoli, prima dell'immissione in consumo, la denominazione e gli ingredienti dei prodotti, il contenuto e il peso delle confezioni destinate alla vendita al pubblico, nonche' gli altri elementi informativi previsti dall'articolo 6 del decreto legislativo 6 settembre 2005, n. 206, e successive modificazioni.
 
-## Capo IV - SANZIONI
+### Capo IV - SANZIONI
 
-#### Art. 40
+##### Art. 40
 
 Sottrazione all'accertamento o al pagamento dell'accisa sugli prodotti energetici
 
@@ -2674,7 +2674,7 @@ AGGIORNAMENTO (83)
 
 Il D.L. 26 ottobre 2019, n. 124, convertito con modificazioni dalla L. 19 dicembre 2019, n. 157, come modificato dal D.L. 19 maggio 2020, n. 34, ha disposto (con l'art. 7, comma 4) che le disposizioni del comma 3 del presente articolo hanno efficacia a decorrere dal 1° ottobre 2020.
 
-#### Art. 40-bis
+##### Art. 40-bis
 
 (( (Sottrazione all'accertamento o al pagamento dell'accisa sui tabacchi lavorati). ))
 
@@ -2692,7 +2692,7 @@ b) superiore a 200 grammi convenzionali e fino a 400 grammi convenzionali, la sa
 
 5\. Qualora il quantitativo di tabacchi lavorati sottratti, con qualsiasi mezzo e modalita', all'accertamento o al pagamento dell'accisa non sia determinato, si applica la sanzione amministrativa da un minimo di euro 3.000 a un massimo di euro 30.000, tenuto conto delle modalita' della condotta e della gravita' del fatto.))
 
-#### Art. 40-ter
+##### Art. 40-ter
 
 (( (Circostanze aggravanti del delitto di sottrazione all'accertamento o al pagamento dell'accisa sui tabacchi). ))
 
@@ -2710,13 +2710,13 @@ d) nel commettere il reato, l'autore ha utilizzato mezzi di trasporto, che, risp
 
 e) nel commettere il reato l'autore ha utilizzato societa' di persone o di capitali ovvero si e' avvalso di disponibilita' finanziarie in qualsiasi modo costituite in Stati che non hanno ratificato la Convenzione sul riciclaggio, la ricerca, il sequestro e la confisca dei proventi di reato, fatta a Strasburgo l'8 novembre 1990, ratificata e resa esecutiva ai sensi della legge 9 agosto 1993, n. 328, e che comunque non hanno stipulato e ratificato convenzioni di assistenza giudiziaria con l'Italia aventi ad oggetto il delitto di contrabbando.))
 
-#### Art. 40-quater
+##### Art. 40-quater
 
 (( (Circostanze attenuanti). ))
 
 ((1. Le pene previste dall'articolo 40-bis, commi 1 e 2, sono diminuite da un terzo alla meta' nei confronti dell'autore che si adopera per evitare che l'attivita' delittuosa sia portata ad ulteriori conseguenze anche aiutando concretamente l'autorita' di polizia o l'autorita' giudiziaria nella raccolta di elementi decisivi per la ricostruzione dei fatti e per l'individuazione o la cattura degli autori del reato o per la individuazione di risorse rilevanti per la commissione dei delitti.))
 
-#### Art. 40-quinquies
+##### Art. 40-quinquies
 
 (( (Vendita di tabacchi lavorati senza autorizzazione o acquisto da persone non autorizzate alla vendita). ))
 
@@ -2726,7 +2726,7 @@ e) nel commettere il reato l'autore ha utilizzato societa' di persone o di capit
 
 3\. Quando le condotte di cui ai commi 1 e 2 hanno ad oggetto un quantitativo di tabacco lavorato rispettivamente superiore a chilogrammi 5 o superiore a chilogrammi 10, si applica la pena dell'arresto fino a un anno e dell'ammenda da euro 25 a euro 64.))
 
-#### Art. 40-sexies
+##### Art. 40-sexies
 
 (( (Ulteriori disposizioni in materia di vendita di tabacchi lavorati). ))
 
@@ -2740,7 +2740,7 @@ e) nel commettere il reato l'autore ha utilizzato societa' di persone o di capit
 
 5\. L'inosservanza dei provvedimenti di sospensione della licenza o dell'autorizzazione all'esercizio o del provvedimento di chiusura, di cui ai commi 1, 2 e 3, e' punita con la sanzione amministrativa pecuniaria da euro 10.000 a euro 50.000.))
 
-#### Art. 41 - Artt. 37, 38 e 42 T.U. spiriti 1924 - Art. 17 T.U. birra 1924
+##### Art. 41 - Artt. 37, 38 e 42 T.U. spiriti 1924 - Art. 17 T.U. birra 1924
 
 Fabbricazione clandestina di alcole e di bevande alcoliche
 
@@ -2754,7 +2754,7 @@ Fabbricazione clandestina di alcole e di bevande alcoliche
 
 5\. Chiunque costruisce, vende o comunque da' in uso un apparecchio di distillazione o parte di esso senza averlo preventivamente denunciato e' punito con la sanzione di cui al comma 4.
 
-#### Art. 42 - Art. 38-bis T.U. spiriti 1924
+##### Art. 42 - Art. 38-bis T.U. spiriti 1924
 
 Associazione a scopo di fabbricazione clandestina
 
@@ -2762,7 +2762,7 @@ di alcole e di bevande alcoliche
 
 1\. Quando tre o piu' persone si associano allo scopo di fabbricare clandestinamente alcole o bevande alcoliche, ciascuna di esse, per il solo fatto dell'associazione, e' punita con la reclusione da tre mesi ad un anno.
 
-#### Art. 43
+##### Art. 43
 
 (Art. 41 T.U. spriti 1924 - Art. 7 R.D.L. n. 23/1933 - Art. 27 R.D.L.
 
@@ -2782,7 +2782,7 @@ b) detiene alcole denaturato in condizioni diverse da quelle prescritte o lo des
 
 ((4. Fuori dai casi previsti dal comma 1, lettera b), chiunque detiene l'alcole e i prodotti alcolici in condizioni diverse da quelle prescritte e' punito con la sanzione amministrativa pecuniaria dal doppio al decuplo dell'imposta evasa, in ogni caso non inferiore a euro 5.000 ne' superiore a euro 50.000.))
 
-#### Art. 44 - Art. 37 T.U. spiriti 1924 - Art. 17 T.U. birra 1924 Artt. 22 e 23 R.D.L. n. 334 del 1939
+##### Art. 44 - Art. 37 T.U. spiriti 1924 - Art. 17 T.U. birra 1924 Artt. 22 e 23 R.D.L. n. 334 del 1939
 
 Confisca
 
@@ -2794,7 +2794,7 @@ Confisca
 
 ((1-quater. Nei casi di condanna o di applicazione della pena su richiesta a norma dell'articolo 444 del codice di procedura penale per taluno dei delitti previsti dal presente testo unico, puniti con pena detentiva non inferiore, nel massimo, a cinque anni, si applica l'articolo 240-bis del codice penale.))
 
-#### Art. 44-bis
+##### Art. 44-bis
 
 (( (Destinazione di beni sequestrati o confiscati). ))
 
@@ -2806,13 +2806,13 @@ Confisca
 
 4\. Si applicano le disposizioni di cui all'articolo 95, commi 3, 4, 6, 7 e 8, delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli articoli 11 e 20, commi 2 e 3, della legge 9 agosto 2023, n. 111. Nel caso di violazioni punite con la sanzione amministrativa, i provvedimenti per i quali, in base al predetto articolo 95, e' competente l'autorita' giudiziaria sono adottati dall'Ufficio dell'Agenzia territorialmente competente in relazione al luogo in cui la violazione e' stata accertata.))
 
-#### Art. 44-ter
+##### Art. 44-ter
 
 (( (Custodia, distruzione, vendita e campionatura delle cose sequestrate o confiscate). ))
 
 ((1. Fermo quanto previsto dall'articolo 44-bis, nei casi di violazioni di cui agli articoli 40-bis e 40-ter, si applicano, in quanto compatibili, le disposizioni di cui all'articolo 118 delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli articoli 11 e 20, commi 2 e 3, della legge 9 agosto 2023, n. 111.))
 
-#### Art. 45 - Art. 50 T.U. spinti 1924
+##### Art. 45 - Art. 50 T.U. spinti 1924
 
 Circostanze aggravanti
 
@@ -2822,7 +2822,7 @@ Circostanze aggravanti
 
 3\. ((COMMA ABROGATO DAL D.LGS. 26 SETTEMBRE 2024, N. 141)).
 
-#### Art. 46 - Art. 40 T.U. spiriti 1924
+##### Art. 46 - Art. 40 T.U. spiriti 1924
 
 Alterazione di congegni, impronte e contrassegni
 
@@ -2838,7 +2838,7 @@ b) fa uso di sigilli, bolli, punzoni, marchi di verificazione o altre impronte o
 
 4\. Nei casi previsti dai commi 1 e 2, ove dal fatto sia conseguita un'evasione di imposta, resta salva l'applicabilita' delle sanzioni di cui agli articoli 40 e 43.
 
-#### Art. 47 - Art. 16, commi 6 e 7, D.L. n. 271/1957 Artt. 304, 305 e 308 D.P.R. 23 gennaio 1973, n. 43
+##### Art. 47 - Art. 16, commi 6 e 7, D.L. n. 271/1957 Artt. 304, 305 e 308 D.P.R. 23 gennaio 1973, n. 43
 
 Deficienze ed eccedenze nel deposito e nella circolazione dei prodotti soggetti ad accisa
 
@@ -2860,7 +2860,7 @@ AGGIORNAMENTO (87)
 
 Il D.Lgs. 5 novembre 2021, n. 180 ha disposto (con l'art. 3, comma 1) che le presenti modifiche hanno efficacia a decorrere dal 13 febbraio 2023.
 
-#### Art. 48
+##### Art. 48
 
 (Art. 45 T.U. spiriti 1924 - Art. 23-bis R.D.L. n. 334/1939 - Artt. 10 e 13 D.L. n. 271/1957 - Art. 6 legge 15 dicembre 1971, n. 1161
 
@@ -2890,7 +2890,7 @@ b) dei carburanti non superiori al 5 per mille rapportato alle erogazioni regist
 
 (\*) ll riferimento al D.L. n. 16/1993 riguarda il decreto-legge 23 gennaio 1993, n. 16, convertito, con modificazioni, dalla legge 24 marzo 1993, n. 75.
 
-#### Art. 49
+##### Art. 49
 
 (Artt. 45 e 61 T.U. spiriti 1924 - Artt. 15 e 17 D.L. n. 271/1957 - Art. 32, comma 3, D.L. n. 331/1993 - Artt. 1 e 2 legge 28 dicembre
 
@@ -2912,7 +2912,7 @@ Irregolarita' nella circolazione
 
 7\. Le sanzioni previste dalle norme vigenti per le irregolarita' relative ((alla documentazione prescritta ai fini della circolazione)) del vino o delle bevande fermentate diverse dal vino e dalla birra si applicano anche nel caso in cui tali documenti siano quelli specifici dei prodotti sottoposti ad accisa.
 
-#### Art. 50
+##### Art. 50
 
 (Art. 13, comma 5, ed art. 18 D.L. n. 271/1957 Art. 32, comma 3, D.L.
 
@@ -2928,7 +2928,7 @@ Inosservanza di prescrizioni e regolamenti
 
 4\. L'estrazione di prodotti sottoposti ad accisa dopo la revoca della licenza di cui all'art. 5, comma 2, e' considerata, agli effetti sanzionatori, tentativo di sottrarre al pagamento dell'imposta il quantitativo estratto, ancorche' destinato ad usi esenti od agevolati.
 
-#### Art. 51 - Artt. 22 e 23 D.L. n. 271/1957
+##### Art. 51 - Artt. 22 e 23 D.L. n. 271/1957
 
 Obbligazione civile dell'esercente per la sanzione pecuniaria
 
@@ -2940,7 +2940,7 @@ inflitta a persona dipendente
 
 ## TITOLO II - ((ENERGIA ELETTRICA))
 
-#### Art. 52
+##### Art. 52
 
 Oggetto dell'imposizione.
 
@@ -2984,7 +2984,7 @@ AGGIORNAMENTO (129)
 
 Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
-#### Art. 53
+##### Art. 53
 
 Soggetti obbligati
 
@@ -3018,7 +3018,7 @@ Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 1) che "Le disp
 
 Ha inoltre disposto (con l'art. 8, comma 4) che "Le disposizioni di cui agli articoli 5, comma 3, lettera a), 21, comma 7, 26, comma 11, e 53, comma 6, del testo unico di cui al decreto legislativo n. 504 del 1995, nella formulazione vigente alla data di entrata in vigore del presente decreto, si applicano, quanto alla possibilita' di esonerare i soggetti affidabili e di notoria solvibilita', fino alla data di cui al comma 3".
 
-#### Art. 53-bis
+##### Art. 53-bis
 
 ((Rilascio dell'autorizzazione o della licenza di esercizio))
 
@@ -3056,7 +3056,7 @@ AGGIORNAMENTO (129)
 
 Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
-#### Art. 54
+##### Art. 54
 
 ((Definizione di officina elettrica)) ((129))
 
@@ -3082,7 +3082,7 @@ AGGIORNAMENTO (129)
 
 Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
-#### Art. 55
+##### Art. 55
 
 ((Accertamento, liquidazione e versamento dell'accisa))
 
@@ -3124,7 +3124,7 @@ AGGIORNAMENTO (129)
 
 Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
-#### Art. 56
+##### Art. 56
 
 Particolari modalita' di pagamento dell'accisa
 
@@ -3146,7 +3146,7 @@ AGGIORNAMENTO (129)
 
 Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
-#### Art. 56-bis
+##### Art. 56-bis
 
 ((Altre disposizioni))
 
@@ -3176,7 +3176,7 @@ AGGIORNAMENTO (129)
 
 Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
-#### Art. 56-ter
+##### Art. 56-ter
 
 ((Disposizioni attuative in materia di accisa sull'energia elettrica))
 
@@ -3190,7 +3190,7 @@ AGGIORNAMENTO (129)
 
 Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
-#### Art. 57
+##### Art. 57
 
 ((Privilegi e prescrizione))
 
@@ -3202,7 +3202,7 @@ Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 1) che "Le disp
 
 4\. La prescrizione del credito d'imposta e' interrotta quando viene constatata la violazione e ricomincia a decorrere dal giorno in cui diventa definitivo l'atto che conclude il procedimento penale o amministrativo intrapreso per la violazione accertata.
 
-#### Art. 58 - Artt. 7, 9 e 11 T.U. energia elettrica 1924
+##### Art. 58 - Artt. 7, 9 e 11 T.U. energia elettrica 1924
 
 Poteri e controlli
 
@@ -3218,7 +3218,7 @@ I funzionari predetti possono eseguire verifiche negli esercizi pubblici finche'
 
 5\. I poteri previsti, per gli appartenenti alla Guardia di finanza, dall'art. 18, sono esercitati anche per l'espletamento dei controlli per l'applicazione dell'((accisa)) sull'energia elettrica.
 
-#### Art. 59
+##### Art. 59
 
 Sanzioni
 
@@ -3246,7 +3246,7 @@ e) negano o in qualsiasi modo ostacolano l'immediato ingresso ai funzionari dell
 
 5\. Per ogni altra violazione delle disposizioni del presente titolo e delle relative norme di applicazione, si applica la sanzione amministrativa del pagamento di una somma di denaro ((da 500 euro a 3.000 euro.))
 
-#### Art. 60
+##### Art. 60
 
 (( (Addizionali dell'accisa). ))
 
@@ -3260,7 +3260,7 @@ La L. 13 maggio 1999, n. 133 ha disposto che "il suddetto articolo si interpreta
 
 ## TITOLO III - ALTRE IMPOSIZIONI INDIRETTE
 
-#### Art. 61 - Artt. 29 e 32 D.L. n. 331/1993
+##### Art. 61 - Artt. 29 e 32 D.L. n. 331/1993
 
 Disposizioni generali
 
@@ -3318,7 +3318,7 @@ Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 1) che "Le disp
 
 Ha inoltre disposto (con l'art. 8, comma 5) che l'introduzione del comma 2-bis decorre dalla data di cui al comma 3 dell'art. 8 del suddetto D.Lgs. 28 marzo 2025, n. 43.
 
-#### Art. 62
+##### Art. 62
 
 Imposizione sugli oli lubrificanti, sui bitumi di petrolio ed altri prodotti
 
@@ -3360,15 +3360,15 @@ AGGIORNAMENTO (129)
 
 Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
-#### Art. 62-bis
+##### Art. 62-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 DICEMBRE 2014, N. 188))
 
-#### Art. 62-ter
+##### Art. 62-ter
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 DICEMBRE 2014, N. 188))
 
-#### Art. 62-quater - Imposta di consumo sui prodotti succedanei dei prodotti da fumo
+##### Art. 62-quater - Imposta di consumo sui prodotti succedanei dei prodotti da fumo
 
 1\. COMMA ABROGATO DAL D.L. 23 OTTOBRE 2018, N. 119, CONVERTITO CON MODIFICAZIONI DALLA L. 17 DICEMBRE 2018, N. 136.
 
@@ -3456,7 +3456,7 @@ AGGIORNAMENTO (133)
 
 La L. 30 dicembre 2025, n. 199, ha disposto (con l'art. 1, comma 124) che "Le disposizioni di cui al comma 119, lettere b), e) e f), hanno efficacia per i prodotti immessi in consumo a decorrere dal 1° gennaio 2026".
 
-#### Art. 62-quater.1 - Imposta di consumo sui prodotti che contengono nicotina
+##### Art. 62-quater.1 - Imposta di consumo sui prodotti che contengono nicotina
 
 1\. I prodotti, diversi dai tabacchi lavorati sottoposti ad accisa, contenenti nicotina e preparati allo scopo di consentire, senza combustione e senza inalazione, l'assorbimento di tale sostanza da parte dell'organismo, anche mediante involucri funzionali al loro consumo, sono assoggettati ad imposta di consumo nella misura pari a 22 euro per chilogrammo, esclusi quelli autorizzati all'immissione in commercio come medicinali ai sensi del decreto legislativo 24 aprile 2006, n. 219. Ai fini della determinazione dell'imposta di cui al presente comma si tiene conto anche del peso degli involucri, se presenti. (129)
 
@@ -3536,7 +3536,7 @@ Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 6, comma 6) che "Il term
 
 Ha inoltre disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
-#### Art. 62-quater.2 - Prodotti da inalazione senza combustione costituiti da sostanze solide diverse dal tabacco
+##### Art. 62-quater.2 - Prodotti da inalazione senza combustione costituiti da sostanze solide diverse dal tabacco
 
 1\. I prodotti da inalazione senza combustione, costituiti da sostanze solide diverse dal tabacco, contenenti o meno nicotina, con esclusione di quelli autorizzati all'immissione in commercio come medicinali ai sensi del decreto legislativo 24 aprile 2006, n. 219, sono assoggettati a imposta di consumo nella stessa misura prevista dall'articolo 39-terdecies, comma 3, per i prodotti di cui all'articolo 39-bis, comma 1, lettera e-bis), nel rispetto del criterio di equivalenza ivi previsto. Con provvedimento dell'Agenzia delle dogane e dei monopoli e' indicata la misura dell'imposta di consumo, determinata ai sensi del presente comma. Entro il 1° marzo di ogni anno, con provvedimento dell'Agenzia delle dogane e dei monopoli e' rideterminata, per i prodotti di cui al presente comma, la misura dell'imposta di consumo in riferimento alla variazione del prezzo medio ponderato delle sigarette.
 
@@ -3600,7 +3600,7 @@ e) le modalita' attuative delle disposizioni in materia di prestazione delle cau
 
 f) la documentazione di accompagnamento e le modalita' per la circolazione dei prodotti di cui al comma 1 nella fase antecedente alla loro immissione in consumo.
 
-#### Art. 62-quinquies - Imposta di consumo sui prodotti accessori ai tabacchi da fumo
+##### Art. 62-quinquies - Imposta di consumo sui prodotti accessori ai tabacchi da fumo
 
 1\. Le cartine, le cartine arrotolate senza tabacco e i filtri funzionali ad arrotolare le sigarette sono assoggettati ad imposta di consumo in misura pari a euro 0,0036 il pezzo contenuto in ciascuna confezione destinata alla vendita al pubblico.
 
@@ -3628,7 +3628,7 @@ Si applicano le disposizioni di cui all'articolo 50.))
 
 ## TITOLO IV - DISPOSIZIONI DIVERSE E FINALI
 
-#### Art. 63
+##### Art. 63
 
 (Art. 4 T.U. spiriti, art. 2 T.U. birra, art. 6 T.U. energia
 
@@ -3680,7 +3680,7 @@ AGGIORNAMENTO (7)
 
 La L. 23 dicembre 1998, n. 448 ha disposto (con l'art. 21, comma 5) che "A valere dall'anno 1999 il diritto annuale di licenza per gli esercizi di vendita di prodotti alcolici, previsto dall'articolo 63, comma 2, lettera e), del testo unico approvato con decreto legislativo 26 ottobre 1995, n. 504, e' soppresso".
 
-#### Art. 64 - Art. 36 D.L. n. 1200/1948 - Art. 4 D.L. n. 331/1993
+##### Art. 64 - Art. 36 D.L. n. 1200/1948 - Art. 4 D.L. n. 331/1993
 
 ((Prestazione della cauzione))
 
@@ -3698,13 +3698,13 @@ AGGIORNAMENTO (129)
 
 Il D.Lgs. 28 marzo 2025, n. 43, ha disposto (con l'art. 8, comma 1) che "Le disposizioni di cui all'articolo 1, fatto salvo quanto previsto dai commi 2, 3 e 4 del presente articolo, nonche' le disposizioni di cui agli articoli 2, 5 e 6, commi 5 e 6, hanno effetto dal 1° gennaio 2026".
 
-#### Art. 65 - Art. 34 D.L. n. 331/1993
+##### Art. 65 - Art. 34 D.L. n. 331/1993
 
 Adeguamenti alla normativa comunitaria
 
 1\. Le disposizioni delle direttive della Comunita' ((...)) europea in materia di accisa, che dispongono modificazioni e integrazioni di quelle recepite con il decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427, anche con riferimento ad adeguamenti di aliquote, stabiliti dai competenti organi comunitari sia per la fissazione del livello delle aliquote minime e il mantenimento del loro valore reale sia per tener conto delle variazioni del valore dell'ECU rispetto alla valuta nazionale, sono recepite, in via amministrativa, con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro ((dell'economia e)) delle finanze, previa deliberazione del Consiglio dei Ministri.
 
-#### Art. 66
+##### Art. 66
 
 (Art. 2 D.L. n. 282/1986 (\*) - Art. 32, comma 2, D.L. n. 331/1993) Regime di vigilanza per gli alcoli metilico, propilico ed isopropilico
 
@@ -3770,7 +3770,7 @@ Adeguamenti alla normativa comunitaria
 
 > falso, alterato o contenente false indicazioni".
 
-#### Art. 67
+##### Art. 67
 
 Norme di esecuzione e disposizioni transitorie
 
@@ -3802,7 +3802,7 @@ Art. 33 R.D.L. n. 334/39 - Art. 25-bis D.L. n. 271/1957
 
 8\. I nuovi adempimenti derivanti dalle disposizioni del presente testo unico, qualora non sia stato stabilito un termine diverso, sono eseguiti entro 180 giorni dalla data di entrata in vigore del testo unico medesimo.
 
-#### Art. 68
+##### Art. 68
 
 Disposizioni finali
 
@@ -3846,7 +3846,7 @@ Visto, il Ministro delle finanze FANTOZZI
 
 ## TITOLO IV - DISPOSIZIONI DIVERSE E FINALI
 
-#### Allegato I
+##### Allegato I
 
 ALLEGATO I
 
@@ -4730,7 +4730,7 @@ AGGIORNAMENTO (152)
 
 Il Decreto 4 settembre 2026 (in G.U. 4/9/2026, n. 205) ha disposto (con l'art. 1, comma 1) che "Al fine di compensare le maggiori entrate dell'imposta sul valore aggiunto rispetto all'ultima previsione, derivanti dall'aumento del prezzo internazionale, espresso in euro, del petrolio greggio, per il periodo dal 6 settembre 2026 al 10 settembre 2026, l'aliquota di accisa sugli oli da gas o gasolio, usato come carburante, di cui all'Allegato I al testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, approvato con il decreto legislativo 26 ottobre 1995, n. 504 e successive modificazioni, e' rideterminata nella misura di 532,90 euro per mille litri".
 
-#### Tabella A
+##### Tabella A
 
 TABELLA A
 

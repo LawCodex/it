@@ -46,7 +46,7 @@ il seguente decreto legislativo:
 
 ## Titolo I - DISPOSIZIONI GENERALI
 
-##### Art. 1
+#### Art. 1
 
 Finalita' e campo di applicazione
 
@@ -258,7 +258,7 @@ Finalita' e campo di applicazione
 
 > \- Il titolo della Parte Seconda (Ordinamento della Repubblica), Titolo V, della Costituzione, e' il seguente: "Le Regioni, le Province, i Comuni".
 
-##### Art. 2
+#### Art. 2
 
 Definizioni
 
@@ -302,7 +302,7 @@ m) "associazioni di datori e prestatori di lavoro": organizzazioni datoriali e s
 
 ## Titolo II - ORGANIZZAZIONE E DISCIPLINA DEL MERCATO DEL LAVORO
 
-##### Art. 3
+#### Art. 3
 
 F i n a l i t a'
 
@@ -324,9 +324,9 @@ e) vengono abrogate tutte le disposizioni incompatibili con la nuova regolamenta
 
 > \- Il testo del decreto legislativo 23 dicembre 1997, n. 469 (Conferimento alle regioni e agli enti locali di funzioni e compiti in materia di mercato del lavoro, a norma dell'art. 1 della legge 15 marzo 1997, n. 59), e' pubblicato nella Gazzetta Ufficiale 8 gennaio 1998, n. 5.
 
-## Capo I - Regime autorizzatorio e accreditamenti
+### Capo I - Regime autorizzatorio e accreditamenti
 
-##### Art. 4
+#### Art. 4
 
 Agenzie per il lavoro
 
@@ -356,7 +356,7 @@ L'iscrizione alla sezione dell'albo di cui al comma 1, lettera c), comporta auto
 
 7\. L'autorizzazione di cui al presente articolo non puo' essere oggetto di transazione commerciale.
 
-##### Art. 5
+#### Art. 5
 
 Requisiti giuridici e finanziari
 
@@ -420,7 +420,7 @@ a) l'acquisizione di un capitale versato non inferiore a 25.000 euro;
 
 b) l'indicazione della attivita' di supporto alla ricollocazione professionale come oggetto sociale, anche se non esclusivo.
 
-##### Art. 6 - Regimi particolari di autorizzazione
+#### Art. 6 - Regimi particolari di autorizzazione
 
 1\. Sono autorizzati allo svolgimento delle attivita' di intermediazione:
 
@@ -448,7 +448,7 @@ f-bis) l'Ente nazionale di previdenza e di assistenza per i lavoratori dello spe
 
 ((5-bis. L'iscrizione alla sezione dell'albo di cui all'articolo 4, comma 1, lettera c), dei soggetti autorizzati secondo il regime particolare di cui al comma 1, lettere c), d), e), f), e f-bis), nonche' al comma 2 del presente articolo, comporta automaticamente l'iscrizione degli stessi alle sezioni dell'Albo di cui alle lettere d) ed e) dell'articolo 4, comma 1)).
 
-##### Art. 7
+#### Art. 7
 
 Accreditamenti
 
@@ -490,11 +490,9 @@ e) le modalita' di tenuta dell'elenco e di verifica del mantenimento dei requisi
 
 > 2\) nei confronti degli altri soggetti a rischio di disoccupazione di lunga durata, non oltre sei mesi dall'inizio dello stato di disoccupazione.».
 
-## Capo II - Tutele sul mercato e disposizioni speciali con riferimento ai
+### Capo II - Tutele sul mercato e disposizioni speciali con riferimento ai lavoratori svantaggiati
 
-### lavoratori svantaggiati
-
-##### Art. 8
+#### Art. 8
 
 Ambito di diffusione dei dati relativi all'incontro
 
@@ -506,7 +504,7 @@ domanda-offerta di lavoro
 
 3\. Per le informazioni che facciano riferimento a dati amministrativi in possesso dei servizi per l'impiego, con particolare riferimento alla presenza in capo al lavoratore di particolari benefici contributivi e fiscali, gli elementi contenuti nella scheda anagrafico-professionale prevista dal decreto legislativo 19 dicembre 2002, n. 297, hanno valore certificativo delle stesse.
 
-##### Art. 9
+#### Art. 9
 
 Comunicazioni a mezzo stampa internet, televisione o
 
@@ -550,7 +548,7 @@ altri mezzi di informazione
 
 > c) l'informativa all'interessato comporta un impiego di mezzi che il Garante, prescrivendo eventuali misure appropriate, dichiari manifestamente sproporzionati rispetto al diritto tutelato, ovvero si riveli, a giudizio del Garante, impossibile.».
 
-##### Art. 10
+#### Art. 10
 
 Divieto di indagini sulle opinioni e trattamenti discriminatori
 
@@ -558,7 +556,7 @@ Divieto di indagini sulle opinioni e trattamenti discriminatori
 
 2\. Le disposizioni di cui al comma 1 non possono in ogni caso impedire ai soggetti di cui al medesimo comma 1 di fornire specifici servizi o azioni mirate per assistere le categorie di lavoratori svantaggiati nella ricerca di una occupazione.
 
-##### Art. 11
+#### Art. 11
 
 Divieto di oneri in capo ai lavoratori
 
@@ -566,7 +564,7 @@ Divieto di oneri in capo ai lavoratori
 
 2\. I contratti collettivi stipulati da associazioni dei datori di lavoro e dei prestatori di lavoro comparativamente piu' rappresentative a livello nazionale o territoriale possono stabilire che la disposizione di cui al comma 1 non trova applicazione per specifiche categorie di lavoratori altamente professionalizzati o per specifici servizi offerti dai soggetti autorizzati o accreditati.
 
-##### Art. 12
+#### Art. 12
 
 Fondi per la formazione e l'integrazione del reddito
 
@@ -620,7 +618,7 @@ AGGIORNAMENTO (40)
 
 Il D.L. 24 aprile 2017, n. 50, convertito con modificazioni dalla L. 21 giugno 2017, n. 96, ha disposto (con l'art. 55-ter, comma 1) che "Il comma 3 dell'articolo 12 del decreto legislativo 10 settembre 2003, n. 276, si interpreta nel senso che gli interventi di cui ai commi 1 e 2 del medesimo articolo 12 includono le misure stabilite dal contratto collettivo nazionale di lavoro dirette a garantire ai lavoratori somministrati una protezione complessiva in termini di welfare, anche attraverso la bilateralita' del settore".
 
-##### Art. 13
+#### Art. 13
 
 Misure di incentivazione del raccordo pubblico e privato
 
@@ -652,7 +650,7 @@ c) non abbia provveduto a dare preventiva comunicazione alla competente sede I.N
 
 8\. Nella ipotesi di cui al comma 7, le agenzie autorizzate alla somministrazione di lavoro si assumono gli oneri delle spese per la costituzione e il funzionamento della agenzia stessa. Le regioni, i centri per l'impiego e gli enti locali possono concorrere alle spese di costituzione e funzionamento nei limiti delle proprie disponibilita' finanziarie.
 
-##### Art. 14 - Cooperative sociali, imprese sociali e inserimento lavorativo dei lavoratori svantaggiati
+#### Art. 14 - Cooperative sociali, imprese sociali e inserimento lavorativo dei lavoratori svantaggiati
 
 1\. Al fine di favorire l'inserimento lavorativo dei lavoratori svantaggiati e dei lavoratori disabili, i servizi di cui all'articolo 6, comma 1, della legge 12 marzo 1999, n. 68, ((...)) stipulano con le associazioni sindacali dei datori di lavoro e dei prestatori di lavoro comparativamente piu' rappresentative a livello nazionale e con le associazioni di rappresentanza, assistenza e tutela delle cooperative di cui all'articolo 1, comma 1, lettera b), della legge 8 novembre 1991, n. 381, con i consorzi di cui all'articolo 8 della stessa legge e con le imprese sociali di cui al decreto legislativo 3 luglio 2017, n. 112 ((, nonche' con gli enti del Terzo settore non commerciali di cui all'articolo 79, comma 5, del codice del Terzo settore, di cui al decreto legislativo 3 luglio 2017, n. 117, e con le societa' benefit di cui all'articolo 1, comma 376, della legge 28 dicembre 2015, n. 208)), convenzioni quadro su base territoriale, che devono essere validate da parte delle regioni, sentiti gli organismi di concertazione di cui al decreto legislativo 23 dicembre 1997, n. 469, aventi ad oggetto il conferimento di commesse di lavoro ((alle cooperative sociali, alle imprese sociali, alle societa' benefit e agli enti del Terzo settore non commerciali medesimi da parte delle imprese associate o aderenti)).
 
@@ -688,9 +686,9 @@ AGGIORNAMENTO (53)
 
 Il D.L. 31 ottobre 2025, n. 159, convertito con modificazioni dalla L. 29 dicembre 2025, n. 198, ha disposto (con l'art. 14, comma 2, lettera e)) che "al comma 2, lettera d), le parole: "dalle cooperative e dalle imprese sociali" sono sostituite dalle seguenti: "dalle cooperative, dalle imprese sociali, dalle societa' benefit e dagli enti del Terzo settore non commerciali"".
 
-## Capo III - Borsa continua nazionale del lavoro e monitoraggio statistico
+### Capo III - Borsa continua nazionale del lavoro e monitoraggio statistico
 
-##### Art. 15
+#### Art. 15
 
 Principi e criteri generali
 
@@ -724,7 +722,7 @@ b) un livello regionale che, nel quadro delle competenze proprie delle regioni d
 
 5\. Il coordinamento tra il livello nazionale e il livello regionale deve in ogni caso garantire, nel rispetto degli articoli 4 e 120 della Costituzione, la piena operativita' della borsa continua nazionale del lavoro in ambito nazionale e comunitario. A tal fine il Ministero del lavoro e delle politiche sociali rende disponibile l'offerta degli strumenti tecnici alle regioni e alle province autonome che ne facciano richiesta nell'ambito dell'esercizio delle loro competenze.
 
-##### Art. 16
+#### Art. 16
 
 Standard tecnici e flussi informativi di scambio
 
@@ -736,7 +734,7 @@ Standard tecnici e flussi informativi di scambio
 
 > \- Per il testo deIl'art. 31, comma 2, della citata legge n. 675 del 1996, si veda nota all'art. 8.
 
-##### Art. 17
+#### Art. 17
 
 Monitoraggio statistico e valutazione delle politiche del lavoro
 
@@ -774,9 +772,9 @@ Monitoraggio statistico e valutazione delle politiche del lavoro
 
 > \- Per il testo dell'art. 8 del citato decreto legislativo n. 281 del 1997 si veda la nota alle premesse.
 
-## Capo IV - Regime sanzionatorio
+### Capo IV - Regime sanzionatorio
 
-##### Art. 18
+#### Art. 18
 
 Sanzioni
 
@@ -822,7 +820,7 @@ La L. 30 dicembre 2018, n. 145 ha disposto (con l'art. 1, comma 445, lettera d))
 
 1\) del 20 per cento per quanto riguarda gli importi dovuti per la violazione delle disposizioni di cui [...] all'articolo 18 del decreto legislativo 10 settembre 2003, n. 276".
 
-##### Art. 19
+#### Art. 19
 
 Sanzioni amministrative
 
@@ -840,51 +838,49 @@ AGGIORNAMENTO (46)
 
 Il D.Lgs. 27 giugno 2022, n. 104 ha disposto (con l'art. 16, comma 1) che "Le disposizioni di cui al presente decreto si applicano a tutti i rapporti di lavoro gia' instaurati alla data del 1° agosto 2022".
 
-## Titolo III - SOMMINISTRAZIONE DI LAVORO APPALTO DI SERVIZI,
+## Titolo III - SOMMINISTRAZIONE DI LAVORO APPALTO DI SERVIZI, DISTACCO
 
-### DISTACCO
+### Capo I - Somministrazione di lavoro
 
-#### Capo I - Somministrazione di lavoro
-
-##### Art. 20
+#### Art. 20
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-##### Art. 21
+#### Art. 21
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-##### Art. 22
+#### Art. 22
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-##### Art. 23
+#### Art. 23
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-##### Art. 24
+#### Art. 24
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-##### Art. 25
+#### Art. 25
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-##### Art. 26
+#### Art. 26
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-##### Art. 27
+#### Art. 27
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-##### Art. 28
+#### Art. 28
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-## Capo II - Appalto e distacco
+### Capo II - Appalto e distacco
 
-##### Art. 29
+#### Art. 29
 
 Appalto
 
@@ -910,7 +906,7 @@ AGGIORNAMENTO (29)
 
 Il D.L. 28 giugno 2013, n. 76, convertito con modificazioni dalla L. 9 agosto 2013, n. 99, ha disposto (con l'art. 9, comma 1) che "Le disposizioni di cui all'articolo 29, comma 2, del decreto legislativo 10 settembre 2003, n. 276 e successive modificazioni, trovano applicazione anche in relazione ai compensi e agli obblighi di natura previdenziale e assicurativa nei confronti dei lavoratori con contratto di lavoro autonomo. Le medesime disposizioni non trovano applicazione in relazione ai contratti di appalto stipulati dalle pubbliche amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165. Le disposizioni dei contratti collettivi di cui all'articolo 29, comma 2, del decreto legislativo 10 settembre 2003, n. 276 e successive modificazioni, hanno effetto esclusivamente in relazione ai trattamenti retributivi dovuti ai lavoratori impiegati nell'appalto con esclusione di qualsiasi effetto in relazione ai contributi previdenziali e assicurativi".
 
-##### Art. 30
+#### Art. 30
 
 Distacco
 
@@ -926,13 +922,9 @@ Distacco
 
 ((4-ter. Qualora il distacco di personale avvenga tra aziende che abbiano sottoscritto un contratto di rete di impresa che abbia validita' ai sensi del decreto-legge 10 febbraio 2009, n. 5, convertito, con modificazioni, dalla legge 9 aprile 2009, n. 33, l'interesse della parte distaccante sorge automaticamente in forza dell'operare della rete, fatte salve le norme in materia di mobilita' dei lavoratori previste dall'articolo 2103 del codice civile. Inoltre per le stesse imprese e' ammessa la codatorialita' dei dipendenti ingaggiati con regole stabilite attraverso il contratto di rete stesso)).
 
-## Titolo IV - DISPOSIZIONI IN MATERIA DI GRUPPI DI IMPRESA
+## Titolo IV - DISPOSIZIONI IN MATERIA DI GRUPPI DI IMPRESA E TRASFERIMENTO D'AZIENDA
 
-### E - TRASFERIMENTO
-
-#### D'AZIENDA
-
-##### Art. 31
+#### Art. 31
 
 Gruppi di impresa
 
@@ -952,7 +944,7 @@ Gruppi di impresa
 
 3-quinquies. I datori di lavoro rispondono in solido delle obbligazioni contrattuali, previdenziali e di legge che scaturiscono dal rapporto di lavoro instaurato con le modalita' disciplinate dai commi 3-bis e 3-ter.
 
-##### Art. 32
+#### Art. 32
 
 Modifica all'articolo 2112 comma quinto, del Codice civile
 
@@ -960,69 +952,67 @@ Modifica all'articolo 2112 comma quinto, del Codice civile
 
 2\. All'articolo 2112 del codice civile e' aggiunto, in fine, il seguente comma: "Nel caso in cui l'alienante stipuli con l'acquirente un contratto di appalto la cui esecuzione avviene utilizzando il ramo d'azienda oggetto di cessione, tra appaltante e appaltatore opera un regime di solidarieta' (( di cui all'articolo 29, comma 2, del decreto legislativo 10 settembre 2003, n. 276. ))".
 
-## Titolo V - TIPOLOGIE CONTRATTUALI A ORARIO RIDOTTO, MODULATO O
+## Titolo V - TIPOLOGIE CONTRATTUALI A ORARIO RIDOTTO, MODULATO O FLESSIBILE
 
-### FLESSIBILE
+### Capo I - Lavoro intermittente
 
-#### Capo I - Lavoro intermittente
-
-##### Art. 33
+#### Art. 33
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-##### Art. 34
+#### Art. 34
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-##### Art. 35
+#### Art. 35
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-##### Art. 36
+#### Art. 36
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-##### Art. 37
+#### Art. 37
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-##### Art. 38
+#### Art. 38
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-##### Art. 39
+#### Art. 39
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-##### Art. 40
+#### Art. 40
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-## Capo II - Lavoro ripartito
+### Capo II - Lavoro ripartito
 
-##### Art. 41
-
-((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
-
-##### Art. 42
+#### Art. 41
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-##### Art. 43
+#### Art. 42
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-##### Art. 44
+#### Art. 43
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-##### Art. 45
+#### Art. 44
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-## Capo III - Lavoro a tempo parziale
+#### Art. 45
 
-##### Art. 46
+((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
+
+### Capo III - Lavoro a tempo parziale
+
+#### Art. 46
 
 Norme di modifica al decreto legislativo 25 febbraio 2000, n. 61, e successive modifiche e integrazioni
 
@@ -1262,41 +1252,39 @@ t) dopo l'articolo 12 e' aggiunto, in fine, il seguente:
 
 ## Titolo VI - APPRENDISTATO E CONTRATTO DI INSERIMENTO
 
-### Capo I
+### Capo I - Apprendistato
 
-#### Apprendistato
-
-##### Art. 47
+#### Art. 47
 
 ((ARTICOLO ABROGATO DAL D.LGS. 14 SETTEMBRE 2011, N. 167))
 
-##### Art. 48
+#### Art. 48
 
 ((ARTICOLO ABROGATO DAL D.LGS. 14 SETTEMBRE 2011, N. 167))
 
-##### Art. 49
+#### Art. 49
 
 ((ARTICOLO ABROGATO DAL D.LGS. 14 SETTEMBRE 2011, N. 167))
 
-##### Art. 50
+#### Art. 50
 
 ((ARTICOLO ABROGATO DAL D.LGS. 14 SETTEMBRE 2011, N. 167))
 
-##### Art. 51
+#### Art. 51
 
 ((ARTICOLO ABROGATO DAL D.LGS. 14 SETTEMBRE 2011, N. 167))
 
-##### Art. 52
+#### Art. 52
 
 ((ARTICOLO ABROGATO DAL D.LGS. 14 SETTEMBRE 2011, N. 167))
 
-##### Art. 53
+#### Art. 53
 
 ((ARTICOLO ABROGATO DAL D.LGS. 14 SETTEMBRE 2011, N. 167))
 
-## Capo II - Contratto di inserimento
+### Capo II - Contratto di inserimento
 
-##### Art. 54
+#### Art. 54
 
 ((ARTICOLO ABROGATO DALLA L. 28 GIUGNO 2012, n. 92)) ((26))
 
@@ -1306,7 +1294,7 @@ AGGIORNAMENTO (26)
 
 La L. 28 giugno 2012, n. 92 ha disposto (con l'art. 1, comma 15) che "Nei confronti delle assunzioni effettuate fino al 31 dicembre 2012 continuano ad applicarsi le disposizioni abrogate ai sensi del comma 14, nella formulazione vigente anteriormente alla data di entrata in vigore della presente legge".
 
-##### Art. 55
+#### Art. 55
 
 ((ARTICOLO ABROGATO DALLA L. 28 GIUGNO 2012, n. 92)) ((26))
 
@@ -1316,7 +1304,7 @@ AGGIORNAMENTO (26)
 
 La L. 28 giugno 2012, n. 92 ha disposto (con l'art. 1, comma 15) che "Nei confronti delle assunzioni effettuate fino al 31 dicembre 2012 continuano ad applicarsi le disposizioni abrogate ai sensi del comma 14, nella formulazione vigente anteriormente alla data di entrata in vigore della presente legge".
 
-##### Art. 56
+#### Art. 56
 
 ((ARTICOLO ABROGATO DALLA L. 28 GIUGNO 2012, n. 92)) ((26))
 
@@ -1326,7 +1314,7 @@ AGGIORNAMENTO (26)
 
 La L. 28 giugno 2012, n. 92 ha disposto (con l'art. 1, comma 15) che "Nei confronti delle assunzioni effettuate fino al 31 dicembre 2012 continuano ad applicarsi le disposizioni abrogate ai sensi del comma 14, nella formulazione vigente anteriormente alla data di entrata in vigore della presente legge".
 
-##### Art. 57
+#### Art. 57
 
 ((ARTICOLO ABROGATO DALLA L. 28 GIUGNO 2012, n. 92)) ((26))
 
@@ -1336,7 +1324,7 @@ AGGIORNAMENTO (26)
 
 La L. 28 giugno 2012, n. 92 ha disposto (con l'art. 1, comma 15) che "Nei confronti delle assunzioni effettuate fino al 31 dicembre 2012 continuano ad applicarsi le disposizioni abrogate ai sensi del comma 14, nella formulazione vigente anteriormente alla data di entrata in vigore della presente legge".
 
-##### Art. 58
+#### Art. 58
 
 ((ARTICOLO ABROGATO DALLA L. 28 GIUGNO 2012, n. 92)) ((26))
 
@@ -1346,7 +1334,7 @@ AGGIORNAMENTO (26)
 
 La L. 28 giugno 2012, n. 92 ha disposto (con l'art. 1, comma 15) che "Nei confronti delle assunzioni effettuate fino al 31 dicembre 2012 continuano ad applicarsi le disposizioni abrogate ai sensi del comma 14, nella formulazione vigente anteriormente alla data di entrata in vigore della presente legge".
 
-##### Art. 59
+#### Art. 59
 
 ((ARTICOLO ABROGATO DALLA L. 28 GIUGNO 2012, n. 92)) ((26))
 
@@ -1356,7 +1344,7 @@ AGGIORNAMENTO (26)
 
 La L. 28 giugno 2012, n. 92 ha disposto (con l'art. 1, comma 15) che "Nei confronti delle assunzioni effettuate fino al 31 dicembre 2012 continuano ad applicarsi le disposizioni abrogate ai sensi del comma 14, nella formulazione vigente anteriormente alla data di entrata in vigore della presente legge".
 
-##### Art. 59-bis
+#### Art. 59-bis
 
 (( (Disciplina transitoria dei
 
@@ -1374,7 +1362,7 @@ AGGIORNAMENTO (2)
 
 Il D.Lgs. 6 ottobre 2004, n. 251 ha disposto (con l'art. 14, comma 2) che "Per i contratti di formazione e lavoro gia' stipulati, il termine della presentazione delle domande di cui al comma 2, dell'articolo 59-bis del decreto legislativo 10 settembre 2003, n. 276, decorre dalla data di entrata in vigore del presente decreto Legislativo".
 
-##### Art. 60
+#### Art. 60
 
 Tirocini estivi di orientamento
 
@@ -1396,11 +1384,9 @@ La Corte costituzionale, con sentenza 13-28 gennaio 2005, n. 50 (in G.U. 1a s.s.
 
 ## Titolo VII - TIPOLOGIE CONTRATTUALI A PROGETTO E OCCASIONALI
 
-### Capo - I
+### Capo I - Lavoro a progetto e lavoro occasionale
 
-#### Lavoro a progetto e lavoro occasionale
-
-##### Art. 61
+#### Art. 61
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
@@ -1412,7 +1398,7 @@ AGGIORNAMENTO (34)
 
 Il D.Lgs. 15 giugno 2015, n. 81 ha disposto (con l'art. 52, comma 1) che le disposizioni di cui al presente articolo sono abrogate e continuano ad applicarsi esclusivamente per la regolazione dei contratti gia' in atto alla data di entrata in vigore del presente decreto.
 
-##### Art. 62
+#### Art. 62
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
@@ -1424,7 +1410,7 @@ AGGIORNAMENTO (34)
 
 Il D.Lgs. 15 giugno 2015, n. 81 ha disposto (con l'art. 52, comma 1) che le disposizioni di cui al presente articolo sono abrogate e continuano ad applicarsi esclusivamente per la regolazione dei contratti gia' in atto alla data di entrata in vigore del presente decreto.
 
-##### Art. 63
+#### Art. 63
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
@@ -1436,7 +1422,7 @@ AGGIORNAMENTO (34)
 
 Il D.Lgs. 15 giugno 2015, n. 81 ha disposto (con l'art. 52, comma 1) che le disposizioni di cui al presente articolo sono abrogate e continuano ad applicarsi esclusivamente per la regolazione dei contratti gia' in atto alla data di entrata in vigore del presente decreto.
 
-##### Art. 64
+#### Art. 64
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
@@ -1448,7 +1434,7 @@ AGGIORNAMENTO (34)
 
 Il D.Lgs. 15 giugno 2015, n. 81 ha disposto (con l'art. 52, comma 1) che le disposizioni di cui al presente articolo sono abrogate e continuano ad applicarsi esclusivamente per la regolazione dei contratti gia' in atto alla data di entrata in vigore del presente decreto.
 
-##### Art. 65
+#### Art. 65
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
@@ -1460,7 +1446,7 @@ AGGIORNAMENTO (34)
 
 Il D.Lgs. 15 giugno 2015, n. 81 ha disposto (con l'art. 52, comma 1) che le disposizioni di cui al presente articolo sono abrogate e continuano ad applicarsi esclusivamente per la regolazione dei contratti gia' in atto alla data di entrata in vigore del presente decreto.
 
-##### Art. 66
+#### Art. 66
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
@@ -1472,7 +1458,7 @@ AGGIORNAMENTO (34)
 
 Il D.Lgs. 15 giugno 2015, n. 81 ha disposto (con l'art. 52, comma 1) che le disposizioni di cui al presente articolo sono abrogate e continuano ad applicarsi esclusivamente per la regolazione dei contratti gia' in atto alla data di entrata in vigore del presente decreto.
 
-##### Art. 67
+#### Art. 67
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
@@ -1484,7 +1470,7 @@ AGGIORNAMENTO (34)
 
 Il D.Lgs. 15 giugno 2015, n. 81 ha disposto (con l'art. 52, comma 1) che le disposizioni di cui al presente articolo sono abrogate e continuano ad applicarsi esclusivamente per la regolazione dei contratti gia' in atto alla data di entrata in vigore del presente decreto.
 
-##### Art. 68
+#### Art. 68
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
@@ -1496,7 +1482,7 @@ AGGIORNAMENTO (34)
 
 Il D.Lgs. 15 giugno 2015, n. 81 ha disposto (con l'art. 52, comma 1) che le disposizioni di cui al presente articolo sono abrogate e continuano ad applicarsi esclusivamente per la regolazione dei contratti gia' in atto alla data di entrata in vigore del presente decreto.
 
-##### Art. 69
+#### Art. 69
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
@@ -1508,7 +1494,7 @@ AGGIORNAMENTO (34)
 
 Il D.Lgs. 15 giugno 2015, n. 81 ha disposto (con l'art. 52, comma 1) che le disposizioni di cui al presente articolo sono abrogate e continuano ad applicarsi esclusivamente per la regolazione dei contratti gia' in atto alla data di entrata in vigore del presente decreto.
 
-##### Art. 69-bis
+#### Art. 69-bis
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
@@ -1520,29 +1506,25 @@ AGGIORNAMENTO (34)
 
 Il D.Lgs. 15 giugno 2015, n. 81 ha disposto (con l'art. 52, comma 1) che le disposizioni di cui al presente articolo sono abrogate e continuano ad applicarsi esclusivamente per la regolazione dei contratti gia' in atto alla data di entrata in vigore del presente decreto.
 
-## Capo II - Prestazioni occasionali di tipo accessorio
+### Capo II - Prestazioni occasionali di tipo accessorio rese da particolari soggetti
 
-### rese - da
-
-#### particolari - soggetti
-
-##### Art. 70
+#### Art. 70
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-##### Art. 71
+#### Art. 71
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-##### Art. 72
+#### Art. 72
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-##### Art. 73
+#### Art. 73
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 GIUGNO 2015, N. 81))
 
-##### Art. 74
+#### Art. 74
 
 Prestazioni che esulano dal mercato del lavoro
 
@@ -1550,17 +1532,15 @@ Prestazioni che esulano dal mercato del lavoro
 
 ## Titolo VIII - PROCEDURE DI CERTIFICAZIONE
 
-### Capo I
+### Capo I - Certificazione dei contratti di lavoro
 
-#### Certificazione dei contratti di lavoro
-
-##### Art. 75
+#### Art. 75
 
 (( (Finalita') ))
 
 ((1. Al fine di ridurre il contenzioso in materia di lavoro, le parti possono ottenere la certificazione dei contratti in cui sia dedotta, direttamente o indirettamente, una prestazione di lavoro secondo la procedura volontaria stabilita nel presente titolo.))
 
-##### Art. 76
+#### Art. 76
 
 Organi di certificazione
 
@@ -1582,13 +1562,13 @@ c-ter) i consigli provinciali dei consulenti del lavoro di cui alla legge 11 gen
 
 3\. Le commissioni istituite ai sensi dei commi che precedono possono concludere convenzioni con le quali prevedano la costituzione di una commissione unitaria di certificazione.
 
-##### Art. 77
+#### Art. 77
 
 Competenza
 
 1\. Nel caso in cui le parti intendano presentare l'istanza di avvio della procedura di certificazione presso le commissioni di cui all'articolo 76, comma 1, lettera b), le parti stesse devono rivolgersi alla commissione nella cui circoscrizione si trova l'azienda o una sua dipendenza alla quale sara' addetto il lavoratore. Nel caso in cui le parti intendano presentare l'istanza di avvio della procedura di certificazione alle commissioni istituite a iniziativa degli enti bilaterali, esse devono rivolgersi alle commissioni costituite dalle rispettive associazioni dei datori e dei prestatori di lavoro.
 
-##### Art. 78
+#### Art. 78
 
 Procedimento di certificazione e codici di buone pratiche
 
@@ -1614,7 +1594,7 @@ d) l'atto di certificazione deve contenere esplicita menzione degli effetti, civ
 
 > \- Per il testo dell'art. 4-bis, comma 5, del citato decreto legislativo n. 181 del 2000, si veda nota all'art. 19.
 
-##### Art. 79
+#### Art. 79
 
 Efficacia giuridica della certificazione
 
@@ -1622,7 +1602,7 @@ Gli effetti dell'accertamento dell'organo preposto alla certificazione del contr
 
 ((Gli effetti dell'accertamento dell'organo preposto alla certificazione del contratto di lavoro, nel caso di contratti in corso di esecuzione, si producono dal momento di inizio del contratto, ove la commissione abbia appurato che l'attuazione del medesimo e' stata, anche nel periodo precedente alla propria attivita' istruttoria, coerente con quanto appurato in tale sede. In caso di contratti non ancora sottoscritti dalle parti, gli effetti si producono soltanto ove e nel momento in cui queste ultime provvedano a sottoscriverli, con le eventuali integrazioni e modifiche suggerite dalla commissione adita.))
 
-##### Art. 80
+#### Art. 80
 
 Rimedi esperibili nei confronti della certificazione
 
@@ -1642,15 +1622,15 @@ AGGIORNAMENTO (15)
 
 La L. 4 novembre 2010, n. 183 ha disposto (con l'art. 31, comma 2) che "Il tentativo di conciliazione di cui all'articolo 80, comma 4, del decreto legislativo 10 settembre 2003, n. 276, e' obbligatorio".
 
-##### Art. 81
+#### Art. 81
 
 Attivita' di consulenza e assistenza alle parti
 
 1\. Le sedi di certificazione di cui all'articolo 75 svolgono anche funzioni di consulenza e assistenza effettiva alle parti contrattuali, sia in relazione alla stipulazione del contratto di lavoro e del relativo programma negoziale sia in relazione alle modifiche del programma negoziale medesimo concordate in sede di attuazione del rapporto di lavoro, con particolare riferimento alla disponibilita' dei diritti e alla esatta qualificazione dei contratti di lavoro.
 
-## Capo II - Altre ipotesi di certificazione
+### Capo II - Altre ipotesi di certificazione
 
-##### Art. 82
+#### Art. 82
 
 Rinunzie e transazioni
 
@@ -1658,7 +1638,7 @@ Rinunzie e transazioni
 
 ((1-bis. Si applicano, in quanto compatibili, le procedure previste dal capo I del presente titolo.))
 
-##### Art. 83
+#### Art. 83
 
 Deposito del regolamento interno delle cooperative
 
@@ -1666,7 +1646,7 @@ Deposito del regolamento interno delle cooperative
 
 2\. ((COMMA ABROGATO DALLA L. 4 NOVEMBRE 2010, N. 183)).
 
-##### Art. 84
+#### Art. 84
 
 Interposizione illecita e appalto genuino
 
@@ -1680,7 +1660,7 @@ Interposizione illecita e appalto genuino
 
 ## Titolo IX - DISPOSIZIONI TRANSITORIE E FINALI
 
-##### Art. 85
+#### Art. 85
 
 Abrogazioni
 
@@ -1706,7 +1686,7 @@ i) tutte le disposizioni legislative e regolamentari incompatibili con il presen
 
 2\. All'articolo 2, comma 1, del decreto legislativo 25 febbraio 2000, n. 61, le parole da: "Il datore di lavoro" fino a: "dello stesso" sono soppresse.
 
-##### Art. 86
+#### Art. 86
 
 Norme transitorie e finali
 

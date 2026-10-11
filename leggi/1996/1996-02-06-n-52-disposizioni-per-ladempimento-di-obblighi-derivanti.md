@@ -28,11 +28,9 @@ PROMULGA
 
 la seguente legge:
 
-## TITOLO I - DISPOSIZIONI GENERALI SUI
+## TITOLO I - DISPOSIZIONI GENERALI SUI PROCEDIMENTI PER L'ADEMPIMENTO DEGLI OBBLIGHI COMUNITARI
 
-### PROCEDIMENTI PER L'ADEMPIMENTO - DEGLI OBBLIGHI COMUNITARI
-
-###### Art. 1
+#### Art. 1
 
 (Delega al Governo per l'attuazione di
 
@@ -66,7 +64,7 @@ direttive comunitarie).
 
 > 4\. In ogni caso, qualora il termine previsto per l'esercizio della delega ecceda i due anni, il Governo e' tenuto a richiedere il parere delle Camere sugli schemi dei decreti delegati. Il parere e' espresso dalle Commissioni permanenti delle due Camere competenti per materia entro sessanta giorni, indicando specificamente le eventuali disposizioni non ritenute corrispondenti alle direttive della legge di delegazione. Il Governo, nei trenta giorni successivi, esaminato il parere, ritrasmette, con le sue osservazioni e con eventuali modificazioni, i testi alle Commissioni per il parere definitivo che deve essere espresso entro trenta giorni".
 
-###### Art. 2
+#### Art. 2
 
 (Partecipazione delle regioni all'attuazione
 
@@ -92,7 +90,7 @@ del diritto comunitario).
 
 > \- Il D.P.R. 24 luglio 1977, n. 616, riguarda l'attuazione della delega di cui all'art. 1 della legge 22 luglio 1975, n. 382, in materia di delega e di trasferimento di funzionari statali alle regioni a statuto ordinario. L'art. 6, comma 1, recita: "Sono trasferite alle regioni in ciascuna delle materie definite dal presente decreto anche le funzioni amministrative relative all'applicazione dei regolamenti della Comunita' economica europea nonche' all'attuazione delle sue direttive fatte proprie dallo Stato con legge che indica espressamente le norme di principio".
 
-###### Art. 3
+#### Art. 3
 
 (Criteri e principi direttivi generali
 
@@ -188,7 +186,7 @@ h) i decreti legislativi assicureranno in ogni caso che, nelle materie trattate 
 
 > \- La legge 5 agosto 1978, n. 468, concernente la riforma di alcune norme di contabilita' generale dello Stato in materia di bilancio. L'art. 11-ter, comma 2, recita: "2. I disegni di legge e gli emendamenti di iniziativa governativa che comportino nuove o maggiori spese ovvero diminuzioni di entrate devono essere corredati da una relazione tecnica, predisposta dalle amministrazioni competenti e verificata dal Ministero del tesoro, sulla quantificazione degli oneri recati da ciascuna disposizione e delle relative coperture, con la specializzazione, per la spesa corrente e per le minori entrate degli oneri annuali fino alla completa attuazione delle norme e, per le spese in conto capitale, della modulazione relativa agli anni compresi nel bilancio pluriennale e dell'onere complessivo in relazione agli obiettivi fisici previsti. Nella relazione sono indicati i dati e i metodi utilizzati per la quantificazione,le loro fonti e ogni elemento utile per la verifica tecnica in sede parlamentare secondo le norme da adottare con i regolamenti parlamentari".
 
-###### Art. 4
+#### Art. 4
 
 (Attuazione di direttive comunitarie in via
 
@@ -230,7 +228,7 @@ regolamentare).
 
 > "Art. 5 (Attuazioni modificative). - 1. Fermo quanto previsto dall'art. 20 della legge 16 aprile 1987, n. 183, la legge comunitaria puo' disporre che, all'attuazione di ciascuna modifica delle direttive da attuare mediante regolamento a norma dell'art. 4, si provveda con la procedura di cui ai commi 4 e 5 nel medesimo articolo".
 
-###### Art. 5
+#### Art. 5
 
 ART 5.
 
@@ -244,7 +242,7 @@ amministrativa).
 
 > \- Per la legge n. 86/1989 vedi nota precedente.
 
-###### Art. 6
+#### Art. 6
 
 (Delega al Governo per il completamento dell'attuazione
 
@@ -268,7 +266,7 @@ AGGIONRNAMENTO (2)
 
 La L. 24 aprile 1998, n. 128 ha disposto (con l'art. 17, comma 1) che il termine di cui al comma 1 del presente articolo 6 e' prorogato di un anno a decorrere dalla data di entrata in vigore della presente legge, limitatamente all'attuazione delle direttive di cui all'articolo 37 della legge 22 febbraio 1994, n. 146.
 
-###### Art. 7
+#### Art. 7
 
 (Delega al Governo per la disciplina
 
@@ -284,7 +282,7 @@ disposizioni comunitarie).
 
 > \- Per quanto concerne l'art. 14 della legge 23 agosto 1988, n. 400, vedi nota all'art. 1.
 
-###### Art. 8
+#### Art. 8
 
 (Riordinamento normativo nelle materie interessate
 
@@ -294,15 +292,11 @@ dalle direttive comunitarie).
 
 2\. Gli schemi di testo unico sono trasmessi alla Camera dei deputati e al Senato della Repubblica per l'acquisizione del parere delle Commissioni competenti per materia. Decorsi quarantacinque giorni dalla data di trasmissione il testo unico e' emanato anche in mancanza del parere.
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### DIRETTO E CRITERI SPECIALI - DI DELEGA LEGISLATIVA
+### CAPO I - LIBERA CIRCOLAZIONE E DIRITTI FONDAMENTALI
 
-#### CAPO I - LIBERA CIRCOLAZIONE E DIRITTI
-
-##### FONDAMENTALI
-
-###### Art. 9
+#### Art. 9
 
 (Equiparazione dei cittadini comunitari ai
 
@@ -332,7 +326,7 @@ cittadini italiani nel settore della stampa).
 
 > I requisiti medesimi devono essere posseduti anche dalla persona che esercita l'impresa giornalistica, se essa e' diversa dal proprietario".
 
-###### Art. 10
+#### Art. 10
 
 (Facolta' per gli enti previdenziali
 
@@ -342,7 +336,7 @@ nell'Unione europea).
 
 1\. Gli enti gestori di forme obbligatorie e facoltative di previdenza ed assistenza sociale possono, anche in deroga alle vigenti disposizioni di legge e di regolamento normative degli stessi, investire i fondi disponibili in titoli di Stato di Stati membri dell'Unione europea, garantiti dagli Stati medesimi o dall'Unione, o in titoli emessi dalla Banca europea per gli investimenti o dalla Banca europea per la ricostruzione e lo sviluppo.
 
-###### Art. 11
+#### Art. 11
 
 (Recepimento della direttiva 94/80/CE del
 
@@ -366,7 +360,7 @@ b) consentire al cittadino di altro Stato dell'Unione di presentare la propria c
 
 > \- La direttiva 94/80/CE e' pubblicata in G.U.C.E. legge n. 368 del 31 dicembre 1994.
 
-###### Art. 12
+#### Art. 12
 
 (Equiparazione dei cittadini italiani ai restanti
 
@@ -384,7 +378,7 @@ a convalide di titoli aeronautici).
 
 > \- Si riporta di seguito, con l'aggiunta introdotta dalla legge qui pubblicata, l'art. 2, comma 1, del D.P.R. 30 dicembre 1992, n. 560, concernente l'accettazione reciproca delle licenze per l'esercizio di funzioni nel settore dell'aviazione civile: "2.1. Qualora la licenza da convalidare non risponda ai requisiti di equivalenza delle licenze aeronautiche italiane, si applicano i criteri stabiliti dall'art. 4 della direttiva 91/670/CEE, indicata nelle premesse attenendosi peraltro alle valutazioni riportate nel documento elaborato in attuazione dal confronto di cui al primo comma dello stesso art. 4 ed in particolare prescindendo dal possesso della conoscenza del codice morse, di articoli di studi e di attestazioni e certificati relativi a pratiche di pronto soccorso".
 
-###### Art. 13
+#### Art. 13
 
 (Adeguamento alla normativa europea di
 
@@ -470,7 +464,7 @@ l) possibilita' di produrre, il luogo di documenti, dichiarazioni giusta il disp
 
 > "Art. 4 (Dichiarazione sostitutiva dell'atto di notorieta'). - L'atto di notorieta' concerne fatti, stati o qualita' personali che siano a diretta conoscenza dell'interessato e' sostituito da dichiarazione resa e sottoscritta dal medesimo dinanzi al funzionario competente a ricevere la documentazione, o dinanzi ad un notaio, cancelliere, segretario comunale, o altro funzionario incaricato dal sindaco, il quale provvede alla autenticazione della sottoscrizione con la osservanza delle modalita' di cui all'art. 20".
 
-###### Art. 14 - Albi dei fornitori nel settore sanitario
+#### Art. 14 - Albi dei fornitori nel settore sanitario
 
 1\. L'iscrizione nell'albo regionale dei fornitori del Servizio sanitario nazionale, istituito ai sensi dell'articolo 31 della legge 27 dicembre 1983, n. 730, non e' requisito obbligatorio per la partecipazione alle gare ed alle aggiudicazioni per appalti di forniture nel settore sanitario, di persone fisiche o giuridiche stabilite in altri Stati membri della Comunita' europea, che devono comunque fornire la prova di iscrizione, o la documentazione equivalente, previste dall'articolo 21 della direttiva 93/36/CEE del Consiglio del 14 giugno 1993.
 
@@ -516,7 +510,7 @@ l) possibilita' di produrre, il luogo di documenti, dichiarazioni giusta il disp
 
 > \- Per l'art. 6, primo comma, del D.P.R. 24 luglio 1977, n. 616, vedi nota all'art. 2.
 
-###### Art. 15
+#### Art. 15
 
 (Riciclaggio dei capitali di provenienza
 
@@ -578,7 +572,7 @@ c) all'articolo 5, al comma 2, le parole: "articolo 1, commi 1 e 2" sono sostitu
 
 > \- Si riporta qui di seguito l'art. 5, comma 2, della legge 5 luglio 1991, n. 197, cosi' come modificata dalla legge qui pubblicata: "2. I funzionari delle amministrazioni pubbliche, i pubblici ufficiali e gli intermediari abilitati ai sensi dell'art. 4, che, in relazione ai loro compiti di servizio, e nei limiti delle loro attribuzioni, hanno notizie delle infrazioni di cui all'art. 1, commi 1, 2 e 2-bis ne riferiscono entro tre giorni al Ministro del tesoro per la contestazione e gli altri adempimenti previsti dall'art. 14 della legge 24 novembre 1981, n. 689. In caso di infrazioni riguardanti assegni bancari, assegni circolari o titoli similari, le segnalazioni devono essere effettuate dall'azienda di credito che li accetta in versamento e da quella che ne effettua l'estinzione".
 
-###### Art. 16
+#### Art. 16
 
 (Diritto d'autore e diritti connessi nella radiodiffusione
 
@@ -606,7 +600,7 @@ f) dovranno essere previste disposizioni transitorie in conformita' dell'articol
 
 > \- La legge 22 aprile 1941, n. 633, reca: "Protezione del diritto d'autore e di altri diritti connessi al suo esercizio".
 
-###### Art. 17 - Durata di protezione del diritto d'autore e di alcuni diritti connessi: disposizioni dirette e criteri di delega
+#### Art. 17 - Durata di protezione del diritto d'autore e di alcuni diritti connessi: disposizioni dirette e criteri di delega
 
 1\. I termini di durata di protezione dei diritti di utilizzazione economica delle opere dell'ingegno di cui al titolo I della legge 22 aprile 1941, n. 633, e successive modificazioni, previsti dagli articoli 25, 26, 27, 27-bis, 31, 32 e 32-bis della legge medesima, sono elevati a 70 anni. Del pari il termine di durata di protezione dei diritti dei produttori di dischi fonografici e di apparecchi analoghi di cui al titolo II, capo I, della suindicata legge, previsto all'articolo 75 della legge stessa, e' elevato a 50 anni. E' inoltre elevato a 50 anni il termine di durata di protezione dei diritti di coloro che esercitano l'attivita' di emissione radiofonica o televisiva di cui al titolo II, capo II, della legge citata, previsto all'articolo 79 della legge stessa. E' altresi' elevato a 50 anni il termine di durata di protezione dei diritti degli artisti interpreti e degli artisti esecutori di cui al titolo II, capo III, della legge citata, previsto dall'articolo 85 della legge medesima.
 
@@ -640,7 +634,7 @@ AGGIORNAMENTO (1)
 
 Il D.L. 23 ottobre 1996, n. 545, convertito con modificazioni dalla L. 23 dicembre 1996, n. 650, ha disposto (con l'art. 1, comma 55) che le disposizioni di cui ai commi 1 e 2 del presente articolo si applicano a decorrere dal 29 giugno 1995.
 
-###### Art. 18 - Parita' di trattamento
+#### Art. 18 - Parita' di trattamento
 
 1\. Il Governo, sentiti, nell'ambito delle rispettive competenze, la Commissione nazionale per la parita' e le pari opportunita' tra uomo e donna di cui alla legge 22 giugno 1990, n. 164, nonche' il Comitato nazionale per l'attuazione dei principi di parita' di trattamento ed uguaglianza di opportunita' tra lavoratori e lavoratrici di cui alla legge 10 aprile 1991, n. 125, emana, con uno o piu' regolamenti, norme per l'adeguamento dell'ordinamento nazionale all'ordinamento comunitario e per la realizzazione dei programmi comunitari in materia di parita' di trattamento tra uomo e donna, di pari opportunita' e di promozione di azioni positive.
 
@@ -678,7 +672,7 @@ b) a disporre le misure di attuazione di programmi comunitari per le pari opport
 
 > 4\. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di "regolamento", sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale".
 
-###### Art. 19
+#### Art. 19
 
 (Bilancio in forma abbreviata: attuazione
 
@@ -968,7 +962,7 @@ c) 250 dipendenti occupati in media durante l'esercizio".
 
 > \- Il D.Lgs. 9 aprile 1991, n. 127, cosi' recita: "Attuazione delle direttive n. 78/660/CEE e 83/349/CEE in materia societaria, relative ai conti annuali e consolidati, ai sensi dell'art. 1, comma 1, della legge 26 marzo 1990, n. 69".
 
-###### Art. 20
+#### Art. 20
 
 (Prestazione di servizi da parte di cooperative
 
@@ -984,13 +978,11 @@ sociali)
 
 4\. Per le forniture di beni o servizi diversi da quelli socio- sanitari ed educativi, il cui importo stimato al netto dell'IVA sia pari o superiore agli importi stabiliti dalle direttive comunitarie in materia di appalti pubblici, gli enti pubblici compresi quelli economici, nonche' le societa' di capitali a partecipazione pubblica, nei bandi di gara di appalto e nei capitolati d'onere possono inser- ire, fra le condizioni di esecuzione, l'obbligo di eseguire il contratto con l'impiego delle persone svantaggiate di cui all'articolo 4, comma 1, e con l'adozione di specifici programmi di recupero e inserimento lavorativo. La verifica della capacita' di adempiere agli obblighi suddetti, da condursi in base alla presente legge, non puo' intervenire nel corso delle procedure di gara e comunque prima dell'aggiudicazione dell'appalto".
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### DIRETTO E CRITERI SPECIALI - DI DELEGA LEGISLATIVA
+### CAPO II - CREDITO E RISPARMIO
 
-#### CAPO II - CREDITO E RISPARMIO
-
-###### Art. 21
+#### Art. 21
 
 (Servizi di investimento nel settore dei valori
 
@@ -1054,7 +1046,7 @@ A tal fine potra' stabilirsi che non costituiscono reato e sono assoggettate a s
 
 > \- La legge 24 novembre 1981, n. 689, cosi' recita: "Modifiche al sistema penale".
 
-###### Art. 22
+#### Art. 22
 
 (Deroga a norme costituenti mezzo
 
@@ -1070,7 +1062,7 @@ movimento dei capitali).
 
 > \- Il D.L. 28 giugno 1990, n. 167, cosi' recita: "Rilevazione ai fini fiscali di taluni trasferimenti da e per l'estero di denaro titoli e valori".
 
-###### Art. 23
+#### Art. 23
 
 (Sistemi di garanzia dei depositi:
 
@@ -1094,7 +1086,7 @@ f) prevedere che le succursali di banche extracomunitarie aderiscano ad un siste
 
 > \- La direttiva 94/19/CEE e' pubblicata in G.U.C.E. L. 136 del 31 maggio 1994.
 
-###### Art. 24
+#### Art. 24
 
 (Coordinamento delle condizioni di redazione, controllo
 
@@ -1114,13 +1106,11 @@ di pubblicazione del prospetto).
 
 > \- La direttiva 94/18/CEE e' pubblicata in G.U.C.E. L. 136 del 31 maggio 1994.
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### DIRETTO E CRITERI SPECIALI - DI DELEGA LEGISLATIVA
+### CAPO III - PROTEZIONE DEL CONSUMATORE
 
-#### CAPO III - PROTEZIONE DEL CONSUMATORE
-
-###### Art. 25
+#### Art. 25
 
 (Attuazione della direttiva 93/13/CEE del
 
@@ -1316,13 +1306,11 @@ Il giudice puo' ordinare che il provvedimento sia pubblicato in uno o piu' giorn
 
 > "Art. 669-quaterdecies (Ambito di applicazione). - Le disposizioni della presente sezione si applicano i provvedimenti previsti nelle sezioni II, III e V di questo capo, nonche', in quanto compatibili, agli altri provvedimenti cautelari previsti dal codice civile e dalle leggi speciali. L'articolo 669-septies si applica altresi' ai provvedimenti di istruzione preventiva previsti dalla sezione IV di questo capo".
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### DIRETTO E CRITERI SPECIALI - DI DELEGA LEGISLATIVA
+### CAPO IV - FINANZE
 
-#### CAPO IV - FINANZE
-
-###### Art. 26 - Rimborsi IVA a non residenti
+#### Art. 26 - Rimborsi IVA a non residenti
 
 1\. All'articolo 38-ter del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, dopo il terzo comma, e' inserito il seguente:
 
@@ -1330,7 +1318,7 @@ Il giudice puo' ordinare che il provvedimento sia pubblicato in uno o piu' giorn
 
 2\. All'onere derivante dall'applicazione del comma 1, valutato in lire 126 miliardi per l'anno 1995 ed in annue lire 6 miliardi a decorrere dall'anno 1996, si provvede a carico dello stanziamento iscritto al capitolo 3501 dello stato di previsione del Ministero delle finanze per l'anno finanziario 1995 e corrispondenti capitoli per gli anni successivi.
 
-###### Art. 27
+#### Art. 27
 
 (Tasse sui veicoli adibiti a trasporto merci
 
@@ -1348,13 +1336,11 @@ c) prevedere che per la trasformazione in valuta nazionale dei valori minimi com
 
 > \- La direttiva 93/89/CEE e' pubblicata in G.U.C.E. L. 279 del 12 novembre 1993.
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### DIRETTO E CRITERI SPECIALI - DI DELEGA LEGISLATIVA
+### CAPO V - SANITA' E AMBIENTE
 
-#### CAPO V - SANITA' E AMBIENTE
-
-###### Art. 28 - Medicinali per uso umano: criteri di delega
+#### Art. 28 - Medicinali per uso umano: criteri di delega
 
 1\. L'attuazione della direttiva 93/39/CEE del Consiglio sara' informata ai seguenti principi e criteri direttivi:
 
@@ -1382,7 +1368,7 @@ f) prevedere che alle modifiche di minore rilevanza di una autorizzazione gia' c
 
 > \- Il regolamento (CEE) n. 2309/93 del Consiglio del 22 luglio 1993 stabilisce le procedure comunitarie per l'autorizzazione e la vigilanza dei medicinali per uso umano e veterinario e che istituisce un'Agenzia europea di valutazione dei medicinali.
 
-###### Art. 29 - Prodotti cosmetici: criteri di delega
+#### Art. 29 - Prodotti cosmetici: criteri di delega
 
 1\. L'attuazione della direttiva 93/35/CEE del Consiglio sara' informata ai seguenti principi e criteri direttivi:
 
@@ -1416,7 +1402,7 @@ l) individuare le modalita' circa la corretta dichiarazione dell'elenco degli in
 
 > \- La legge 11 ottobre 1986, n. 713, cosi' recita: "Norme per l'attuazione delle direttive della Comunita' economica europea sulla produzione e la vendita dei cosmetici".
 
-###### Art. 30 - Dispositivi medici: criteri di delega
+#### Art. 30 - Dispositivi medici: criteri di delega
 
 1\. L'attuazione della direttiva 93/42/CEE del Consiglio sara' informata ai seguenti principi e criteri direttivi:
 
@@ -1432,7 +1418,7 @@ d) prevedere le opportune norme transitorie per i dispositivi conformi alla norm
 
 > \- La direttiva 93/42/CEE e' pubblicata in G.U.C.E. L. 169 del 12 luglio 1993.
 
-###### Art. 31 - Impiego di additivi negli alimenti
+#### Art. 31 - Impiego di additivi negli alimenti
 
 1\. Entro centoventi giorni dalla data di entrata in vigore della presente legge, il Ministro della sanita' adotta con decreti le disposizioni di attuazione delle direttive comunitarie in materia di additivi alimentari. A decorrere dalla data di entrata in vigore dei suddetti decreti, cessa il corrispondente divieto di impiego negli alimenti e nelle bevande degli additivi previsti dalle seguenti disposizioni:
 
@@ -1512,7 +1498,7 @@ g) articoli 8, 10 e 16, primo comma, lettera c), del regolamento approvato con d
 
 > c) anidride solforosa. Sono tollerate tracce di anidride solforosa derivanti dai succhi di frutta impiegati".
 
-###### Art. 32
+#### Art. 32
 
 (Igiene dei prodotti alimentari:
 
@@ -1538,7 +1524,7 @@ f) prevedere che l'autorita' incaricata di effettuare il controllo, qualora risc
 
 > 19 luglio 1993.
 
-###### Art. 33
+#### Art. 33
 
 (Controllo ufficiale dei prodotti alimentari:
 
@@ -1560,7 +1546,7 @@ e) prevedere procedure per l'attuazione del sistema di mutua assistenza amminist
 
 > \- La direttiva 93/99/CEE e' pubblicata in G.U.C.E. L. 290 del 24 novembre 1993.
 
-###### Art. 34 - Medicinali veterinari: criteri di delega
+#### Art. 34 - Medicinali veterinari: criteri di delega
 
 1\. L'attuazione delle direttive del Consiglio 93/40/CEE e 93/41/CEE sara' informata ai seguenti principi e criteri direttivi:
 
@@ -1582,7 +1568,7 @@ d) prevedere norme transitorie e di coordinamento che consentano una gestione se
 
 > \- Per quanto concerne il regolamento CEE n. 2309 del Consiglio vedi nota all'art. 28.
 
-###### Art. 35 - Controlli veterinari: criteri di delega
+#### Art. 35 - Controlli veterinari: criteri di delega
 
 1\. L'attuazione della direttiva 93/118/CE del Consiglio sara' informata ai seguenti principi e criteri direttivi:
 
@@ -1600,7 +1586,7 @@ e) prevedere criteri di adeguamento periodico dei livelli contributivi ai costi 
 
 > \- La direttiva 93/118/CEE e' pubblicata in G.U.C.E. L. 340 del 31 dicembre 1993.
 
-###### Art. 36
+#### Art. 36
 
 (Alimenti destinati a particolari fini nutrizionali
 
@@ -1620,7 +1606,7 @@ c) prevedere idonee ed efficaci modalita' di vigilanza e di controllo.
 
 > \- La direttiva 94/39/CEE e' pubblicata in G.U.C.E. L. 10 settembre 1994.
 
-###### Art. 37 - Protezione degli animali: criteri di delega
+#### Art. 37 - Protezione degli animali: criteri di delega
 
 1\. L'attuazione della direttiva 93/119/CE del Consiglio sara' informata ai seguenti principi e criteri direttivi:
 
@@ -1636,7 +1622,7 @@ d) confermare il divieto di macellazione al di fuori dei macelli se non nei casi
 
 > \- La direttiva 93/119/CEE e' pubblicata in G.U.C.E. L. 340 del 31 dicembre 1993.
 
-###### Art. 38
+#### Art. 38
 
 (Classificazione, imballaggio ed etichettatura
 
@@ -1662,7 +1648,7 @@ c) prevedere che le spese relative alle prestazioni rese dal Ministero della san
 
 > \- La direttiva 67/548/CEE e' pubblicata in G.U.C.E. n. 196 del 16 agosto 1967.
 
-###### Art. 39
+#### Art. 39
 
 (Trasporti marittimi di merci pericolose o
 
@@ -1686,13 +1672,11 @@ b) collaborazione con le autorita' competenti di altri Stato membro per la preve
 
 > \- Per quanto concerne la legge 23 agosto 1988, n. 400, vedi note all'art. 18.
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### DIRETTO E CRITERI SPECIALI - DI DELEGA LEGISLATIVA
+### CAPO VI - LAVORO
 
-#### CAPO VI - LAVORO
-
-###### Art. 40 - Licenziamenti collettivi: criteri di delega
+#### Art. 40 - Licenziamenti collettivi: criteri di delega
 
 1\. L'attuazione della direttiva 92/56/CEE del Consiglio sara' informata all'obiettivo dell'armonizzazione della disciplina recata dalla legge 23 luglio 1991, n. 223, di attuazione della direttiva 75/129/CEE del Consiglio, integrando la consultazione con l'esame delle possibili misure di riqualificazione e di riconversione dei lavoratori licenziati, nonche' alla necessita' che gli obblighi di informazione e consultazione siano adempiuti indipendentemente dal fatto che le decisioni riguardanti i licenziamenti siano prese dal datore di lavoro o da un'impresa che lo controlli.
 
@@ -1704,7 +1688,7 @@ b) collaborazione con le autorita' competenti di altri Stato membro per la preve
 
 > \- La direttiva 75/129/CEE e' pubblicata in G.U.C.E. L. 48 del 22 febbraio 1975.
 
-###### Art. 41 - Abrogazione di norme
+#### Art. 41 - Abrogazione di norme
 
 1\. La legge 22 marzo 1908, n. 105, e successive modificazioni, e' abrogata.
 
@@ -1712,19 +1696,17 @@ b) collaborazione con le autorita' competenti di altri Stato membro per la preve
 
 > \- La legge 22 marzo 1908, n. 105, cosi' recita: "Abolizione del lavoro notturno dei forni".
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### DIRETTO E CRITERI SPECIALI - DI DELEGA LEGISLATIVA
+### CAPO VII - PRODUZIONE INDUSTRIALE
 
-#### CAPO VII - PRODUZIONE INDUSTRIALE
-
-###### Art. 42 - Norme sulla etichettatura dei prodotti tessili
+#### Art. 42 - Norme sulla etichettatura dei prodotti tessili
 
 1\. All'articolo 11 della legge 26 novembre 1973, n. 883, e' aggiunto, in fine, il seguente comma:
 
 "Le disposizioni di cui alla presente legge si applicano ai prodotti tessili provenienti da un Paese terzo sottoposti a lavorazione su territorio nazionale, non commercializzati e riesportati verso un Paese membro dell'Unione europea".
 
-###### Art. 43 - Norme sugli imballaggi
+#### Art. 43 - Norme sugli imballaggi
 
 1\. L'attuazione della direttiva 94/62/CE del Parlamento europeo e del Consiglio relativa agli imballaggi e ai rifiuti di imballaggio sara' informata ai seguenti principi e criteri direttivi:
 
@@ -1760,7 +1742,7 @@ p) fissare, nell'ambito degli obiettivi di cui alla lettera o) ed antro la stess
 
 > \- La diirettiva 94/62/CEE e' pubblicata in G.U.C.E. L. 365 del 31 dicembre 1994.
 
-###### Art. 44 - Modifiche alla legge 9 luglio 1990, n. 188
+#### Art. 44 - Modifiche alla legge 9 luglio 1990, n. 188
 
 1\. Il titolo della legge 9 luglio 1990, n. 188, e' sostituito dal seguente: "Tutela della ceramica artistica e tradizionale e della ceramica di qualita'".
 
@@ -1816,7 +1798,7 @@ d) i consorzi volontari fra produttori di ceramica artistica e tradizionale dell
 
 13\. Al comma 1 dell'articolo 12 della legge 9 luglio 1990, n. 188, le parole: "Tutela della ceramica artistica tradizionale e della ceramica italiana di qualita'" sono sostituite dalle seguenti: "Tutela della ceramica artistica tradizionale e della ceramica di qualita'".
 
-###### Art. 45
+#### Art. 45
 
 (Prodotti a doppio uso militare e civile:
 
@@ -1844,7 +1826,7 @@ d) ridefinire le disposizioni sanzionatorie finali dei limiti edittali gia' prev
 
 > \- La legge 27 febbraio 1992, n. 222, cosi' recita: "Norme sul controllo dell'esportazione e del transito dei prodotti ad alta tecnologia.
 
-###### Art. 46
+#### Art. 46
 
 (Attuazione della direttiva 94/10/CE relativa
 
@@ -2010,7 +1992,7 @@ f) modificano una regola tecnica conformemente ad una richiesta della Commission
 
 > \- La direttiva 92/59 e' pubblicata in G.U.C.E. L. 228 dell'11 agosto 1992.
 
-###### Art. 47
+#### Art. 47
 
 (Procedure di certificazione e/o attestazione
 
@@ -2026,7 +2008,7 @@ finalizzate alla marcatura CE).
 
 5\. Con l'entrata in vigore dei decreti applicativi del presente articolo, sono abrogate le disposizioni incompatibili emanate in attuazione di direttive comunitarie in materia di certificazione CE. (( 6. I decreti di cui al comma 4 sono emanati entro sessanta giorni dalla data di entrata in vigore dei provvedimenti di recepimento delle direttive che prevedono l'apposizione della marcatura CE; trascorso tale termine, si provvede con decreto del Presidente del Consiglio dei ministri, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica; le amministrazioni inadempienti sono tenute a fornire i dati di rispettiva competenza )).
 
-###### Art. 48
+#### Art. 48
 
 (Certificazione marchio CE per il settore
 
@@ -2086,7 +2068,7 @@ f) apportare le necessarie modifiche ed integrazioni al decreto legislativo 14 d
 
 > 2\. Gli schemi di regolamento per l'attuazione delle direttive comprese nell'elenco di cui all'allegato D sono sottoposti al parere delle competenti commissioni parlamentari ai sensi dell'articolo 4, comma 4, della legge 9 marzo 1989, n. 86, come sostituito dall'articolo 3 della presente legge".
 
-###### Art. 49
+#### Art. 49
 
 (Marcatura CE. Costruzione e messa in esercizio
 
@@ -2114,7 +2096,7 @@ e) adeguare la regolamentazione nazionale sulla motorizzazione, sui carichi ammi
 
 > \- La legge 11 febbraio 1971, n. 50, cosi' recita: "Norme sulla navigazione da diporto".
 
-###### Art. 50
+#### Art. 50
 
 (Rilascio ed esercizio dei titoli minerali per
 
@@ -2142,13 +2124,11 @@ f) definizione, per il conferimento di permessi di ricerca di idrocarburi in cas
 
 > \- La legge 10 febbraio 1953, n. 136, cosi' recita: "Istituzione dell'Ente Nazionale Idrocarburi (E.N.I.).
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### DIRETTO E CRITERI SPECIALI - DI DELEGA LEGISLATIVA
+### CAPO VIII - TELECOMUNICAZIONI
 
-#### CAPO VIII - TELECOMUNICAZIONI
-
-###### Art. 51
+#### Art. 51
 
 (Apparecchiature terminali di telecomunicazione
 
@@ -2184,7 +2164,7 @@ e) disporre il recepimento delle direttive 93/68/CEE, nella parte in cui modific
 
 > \- Il D.L. 1 dicembre 1993, n. 487, cosi' recita: "Trasformazione dell'Amministrazione delle poste e delle telecomunicazioni in ente Pubblico economico e riorganizzazione del Ministero".
 
-###### Art. 52
+#### Art. 52
 
 (Compatibilita' elettromagnetica e conformita:
 
@@ -2210,7 +2190,7 @@ d) disporre il recepimento delle direttive 93/68/CEE, nella parte in cui modific
 
 > "Art. 8 (Esame CE del tipo per gli apparecchi radiotrasittenti). - 1. La conformita' al presente decreto degli apparecchi radiotrasmittenti deve essere attestata conformemente alla procedura di cui all'art. 7, comma 1, dopo che il fabbricante o il suo mandatario stabilito nella Comunita' abbia ottenuto un attestato di esame CE del tipo rilasciato da uno degli organismi notificati della Comunita'".
 
-###### Art. 53 - Comunicazioni via satellite
+#### Art. 53 - Comunicazioni via satellite
 
 1\. L'attuazione della direttiva 94/46/CE della Commissione, che modifica la direttiva 88/301/CEE e la direttiva 90/388/CEE, sara' uniformata ai seguenti principi e criteri direttivi:
 
@@ -2242,15 +2222,11 @@ h) estendere alle comunicazioni via satellite, con le opportune integrazioni, il
 
 > \- Il D.Lgs. 17 marzo 1995, n. 103, cosi' recita: "Recepimento della direttiva 90/388/CEE relativa alla concorrenza nei mercati dei servizi di telecomunicazioni".
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### DIRETTO E CRITERI - SPECIALI
+### CAPO IX - RELAZIONI CON LA COMUNITA'
 
-#### DI DELEGA LEGISLATIVA - CAPO IX
-
-##### RELAZIONI CON LA COMUNITA'
-
-###### Art. 54
+#### Art. 54
 
 (Cooperazione con la Commissione delle Comunita'
 
@@ -2268,7 +2244,7 @@ b) alla assistenza da prestare agli agenti della Commissione delle Comunita' eur
 
 5\. L'Autorita' garante della concorrenza e del mercato, in quanto autorita' nazionale competente in materia di concorrenza, applica, fatto salvo quanto disposto dall'articolo 20 della legge 10 ottobre 1990, n. 287, gli articoli 85, paragrafo 1, ed 86 del Trattato istitutivo della Comunita' europea, utilizzando i poteri ed agendo secondo le procedure di cui al titolo II, capo II, della medesima legge n. 287 del 1990. L'Autorita' informa la Commissione delle Comunita' europee e sospende lo svolgimento del procedimento qualora la Commissione inizi, con riguardo alla medesima fattispecie, una procedura a norma dei regolamenti comunitari.
 
-###### Art. 55 - Frodi comunitarie
+#### Art. 55 - Frodi comunitarie
 
 1\. Ferma restando ogni competenza prevista dalla normativa vigente, al fine di assicurare un maggiore impulso all'azione di contrasto alle frodi comunitarie, e' istituito, nei limiti degli stanziamenti iscritti nello stato di previsione della spesa del Ministero delle finanze - rubrica Guardia di finanza - e dei contingenti previsti dagli organici, il Nucleo speciale della Guardia di finanza per la repressione delle frodi comunitarie.
 
@@ -2278,7 +2254,7 @@ b) alla assistenza da prestare agli agenti della Commissione delle Comunita' eur
 
 > \- L'art. 17, comma 1, della legge 23 agosto 1988, n. 400, e' riportato alla nota all'art. 18.
 
-###### Art. 56
+#### Art. 56
 
 Art. 56.
 
@@ -2292,11 +2268,11 @@ Art. 56.
 
 4\. Presso le filiali della Banca d'Italia sono aperti appositi conti correnti infruttiferi in ECU, intestati alle regioni ed alle province autonome di Trento e di Bolzano, sui quali affluiscono, per il tramite del conto corrente in ECU aperto presso la Banca d'Italia ed intestato al fondo di rotazione di cui al comma 2, le somme versate in ECU dalle Istituzioni comunitarie secondo le modalita' in- dicate dal Ministro del tesoro con i decreti previsti al comma 3.
 
-###### Art. 57
+#### Art. 57
 
 ((ARTICOLO ABROGATO DALLA L. 24 DICEMBRE 2012, N. 234))
 
-###### Art. 58
+#### Art. 58
 
 (Rappresentanze permanenti presso
 
@@ -2314,7 +2290,7 @@ Organismi internazionali).
 
 Gli uffici regionali e provinciali intrattengono rapporti con le istituzioni comunitarie nelle materie di rispettiva competenza. Gli oneri derivanti dall'istituzione degli uffici sono posti a carico dei rispettivi bilanci delle regioni e delle province autonome.
 
-###### Art. 59
+#### Art. 59
 
 (Coordinamento interministeriale per gli
 
@@ -2346,15 +2322,11 @@ Visto, il Guardasigilli: DINI
 
 > 3\. Al relativo onere si fara' fronte con uno stanziamento di lire 60 milioni sul capitolo 6921 dello stato di previsione della spesa della Presidenza del Consiglio dei ministri - rubrica 37 - per l'esercizio finanziario 1987, mediante corrispondente riduzione della dotazione iscritta al capitolo 6942 della rubrica stessa". 96G0038
 
-## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO
+## TITOLO II - DISPOSIZIONI PARTICOLARI DI ADEMPIMENTO DIRETTO E CRITERI SPECIALI DI DELEGA LEGISLATIVA
 
-### DIRETTO E CRITERI - SPECIALI
+### CAPO IX - RELAZIONI CON LA COMUNITA'
 
-#### DI DELEGA LEGISLATIVA - CAPO IX
-
-##### RELAZIONI CON LA COMUNITA'
-
-###### Allegato A
+#### Allegato A
 
 ALLEGATO A
 
@@ -2432,7 +2404,7 @@ TELECOMUNICAZIONI E CERTIFICAZIONE CE
 
 94/46/CE: Direttiva della Commissione, del 13 ottobre 1994, che modifica la direttiva 88/301/CEE e la direttiva 90/388/CEE in particolare in relazione alle comunicazioni via satellite.
 
-###### Allegato B
+#### Allegato B
 
 ALLEGATO B
 
@@ -2480,7 +2452,7 @@ PRODUZIONE INDUSTRIALE
 
 94/22/CE: Direttiva del Parlamento europeo e del Consiglio, del 30 maggio 1994, relativa alle condizioni di rilascio e di esercizio delle autorizzazioni alla prospezione, ricerca e coltivazione di idrocarburi.
 
-###### Allegato C
+#### Allegato C
 
 ALLEGATO C
 
@@ -2502,7 +2474,7 @@ IN VIA REGOLAMENTARE
 
 94/9/CE: Direttiva del Parlamento europeo e del Consiglio, del 23 marzo 1994, concernente il ravvicinamento delle legislazioni degli Stati membri relative agli apparecchi e sistemi di protezione destinati a essere utilizzati in atmosfera potenzialmente esplosiva.
 
-###### Allegato D
+#### Allegato D
 
 ALLEGATO D
 

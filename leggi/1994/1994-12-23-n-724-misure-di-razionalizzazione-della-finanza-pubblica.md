@@ -30,7 +30,7 @@ la seguente legge:
 
 ## CAPO I - DISPOSIZIONI IN MATERIA SANITARIA
 
-#### Art. 1 - Esenzioni
+### Art. 1 - Esenzioni
 
 1\. Al comma 14 dell'articolo 8 della legge 24 dicembre 1993, n. 537, le parole "lire 5.000" sono sostituite dalle seguenti: "lire 3.000 per prescrizioni di una confezione e di lire 6.000 per prescrizioni di piu' confezioni".
 
@@ -56,13 +56,13 @@ la seguente legge:
 
 > In supplemento ordinario alla Gazzetta Ufficiale - serie generale - del 16 gennaio 1995 si procedera' alla ripubblicazione del testo della presente legge corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 14 marzo 1986, n. 217.
 
-#### Art. 2 - Prestazioni specialistiche
+### Art. 2 - Prestazioni specialistiche
 
 1\. Il comma 3 dell'articolo 1 del decreto-legge 25 novembre 1989, n. 382, convertito, con modificazioni, dalla legge 25 gennaio 1990, n. 8, e' sostituito dal seguente:
 
 "3. Le richieste di prestazioni relative a branche specialistiche diverse devono essere formulate su ricette distinte. Ogni ricetta puo' contenere fino ad un massimo di otto prestazioni della medesima branca. Per le prestazioni di medicina fisica e di riabilitazione ogni ricetta non puo' contenere piu' di sei tipi di prestazioni; per ciascun tipo di prestazione il numero massimo di sedute, anche in caso di cicli terapeutici, e' fissato in un numero non superiore a dodici".
 
-#### Art. 3 - Ospedali
+### Art. 3 - Ospedali
 
 1\. COMMA ABROGATO DALLA LEGGE 18 LUGLIO 1996, N. 382.
 
@@ -82,7 +82,7 @@ la seguente legge:
 
 9\. Le regioni definiscono nel proprio piano sanitario, anche mediante aggiornamenti, il tasso minimo di occupazione dei posti letto per singole tipologie di reparto. I direttori generali delle aziende ospedaliere o delle unita' sanitarie locali interessate provvedono alla riduzione del numero dei posti letto in dotazione ai reparti che si discostano in misura superiore al 5 per cento dal tasso regionale di cui al presente comma, provvedendo altresi' al ridimensionamento degli organici e alla conseguente mobilita' del personale, fermo restando il rispetto delle durate medie di degenza definite nel Piano sanitario nazionale.
 
-#### Art. 4 - Dotazioni organiche
+### Art. 4 - Dotazioni organiche
 
 1\. La revisione delle dotazioni organiche ed i processi di mobilita' del personale sono in particolare finalizzati all'obiettivo del pieno utilizzo delle strutture pubbliche, secondo le indicazioni del Piano sanitario nazionale per il triennio 1994-1996. I direttori generali ed i commissari straordinari delle unita' sanitarie locali e delle aziende ospedaliere, avvalendosi anche dei poteri loro attribuiti in materia di definizione dell'orario di servizio e di articolazione dell'orario contrattuale di lavoro, di cui all'articolo 16 del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni ed integrazioni, assicurano l'apertura al pubblico dei servizi per un congruo orario settimanale, il potenziamento delle attivita' di day hospital e la riduzione dei tempi di attesa per le attivita' ambulatoriali.
 
@@ -94,7 +94,7 @@ Al dipendente che illegittimamente percepisce l'indennita' di tempo pieno si app
 
 4\. I giudizi di idoneita' di cui agli articoli 8, commi 1-bis e 8, e 18, comma 2-bis, del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni ed integrazioni, nonche' quelli di cui all'articolo 26, comma 2-ter, del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni ed integrazioni, si svolgono a partire dal 1 settembre 1995.
 
-#### Art. 5 - Congedo ordinario aggiuntivo per categorie di lavoratori esposti a rischio radiologico
+### Art. 5 - Congedo ordinario aggiuntivo per categorie di lavoratori esposti a rischio radiologico
 
 1\. A partire dal 1 gennaio 1995 il congedo ordinario aggiuntivo di quindici giorni spetta ai tecnici sanitari di radiologia medica e ai medici specialistici in radio-diagnostica, radio-terapia, medicina nucleare e a quanti svolgono abitualmente la specifica attivita' professionale, in zona controllata.
 
@@ -104,7 +104,7 @@ Al dipendente che illegittimamente percepisce l'indennita' di tempo pieno si app
 
 4\. Fino all'entrata in vigore del contratto collettivo di lavoro al personale di cui al comma 1 continua ad essere corrisposta l'indennita' mensile lorda prevista dall'articolo 1, comma 2, della legge 27 ottobre 1988, n. 460.
 
-#### Art. 6 - Pagamento a tariffa e acquisto di beni e servizi
+### Art. 6 - Pagamento a tariffa e acquisto di beni e servizi
 
 1\. La spesa per l'acquisto di beni e servizi non puo' superare, a livello regionale, l'importo registrato nell'esercizio 1993 ridotto del 18 per cento per l'anno 1995, del 16 per cento per l'anno 1996 e del 14 per cento per l'anno 1997. Per l'anno 1995 viene individuato l'ammontare per cassa delle somme destinate all'acquisto di beni e servizi. Le regioni tramite i direttori generali e i commissari straordinari provvedono ad individuare i funzionari responsabili delle somme destinate ai fornitori e ai prestatori di servizi entro il termine di novanta giorni dalla data di entrata in vigore della presente legge. Gli oneri relativi agli interessi passivi richiesti dai fornitori o dai prestatori di servizi in caso di ritardato pagamento rientrano nella responsabilita' contabile del funzionario delegato e del direttore generale o del commissario straordinario in caso di mancato controllo. In nessun caso e' consentito alle regioni di far gravare sulle aziende di cui al decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni ed integrazioni, ne' direttamente ne' indirettamente, i debiti e i crediti facenti capo alle gestioni pregresse delle unita' sanitarie locali. A tal fine le regioni dispongono apposite gestioni a stralcio, individuando l'ufficio responsabile delle medesime. ((11))
 
@@ -142,7 +142,7 @@ AGGIORNAMENTO (10)
 
 La L. 28 dicembre 1995, n. 549 ha disposto (con l'art. 2, comma 14) che "Le gestioni a stralcio di cui all'articolo 6, comma 1, della legge 23 dicembre 1994, n. 724, sono trasformare in gestioni liquidatorie."
 
-#### Art. 7 - Spesa farmaceutica
+### Art. 7 - Spesa farmaceutica
 
 1\. Fino al 31 dicembre 1995, il Servizio sanitario nazionale, nel procedere alla corresponsione alle farmacie di quanto dovuto, trattiene, a titolo di sconto, una quota pari al 3 per cento dell'importo al lordo dei ticket, fatta eccezione per le farmacie rurali che godono dell'indennita' di residenza alle quali e' trattenuta una quota pari all'1,5 per cento.
 
@@ -174,19 +174,19 @@ AGGIORNAMENTO (19)
 
 Il D.L. 31 dicembre 1996, n. 669, convertito con modificazioni dalla L. 28 febbraio 1997, n. 30, nel modificare l'art. 1 della L. 23 dicembre 1996, n. 662, ha disposto (con l'art. 4, comma 2) che "il limite di lire 9.600 miliardi, previsto dall'articolo 1, comma 36, della legge 23 dicembre 1996, n. 662, e' elevato a lire 9.960 miliardi".
 
-#### Art. 8
+### Art. 8
 
 (Norme in materia di classificazione delle specialita' medicinali) 1. Al fine di mantenere la spesa farmaceutica nei limiti indicati dall'articolo 7, comma 4, a partire dal 1 gennaio 1995 il Ministro della sanita' dispone idonei controlli circa l'applicazione delle norme di cui al comma 10 dell'articolo 8, della legge 24 dicembre 1993, n. 537, da parte delle unita' sanitarie locali e dei medici, curando nel contempo l'applicazione delle norme relative ad un confezionamento ottimale, per ciclo di terapia, dei prodotti farmaceutici. Allo stesso fine il Comitato interministeriale per la programmazione economica (CIPE), avvalendosi della Commissione unica del farmaco e di esperti in economia farmaceutica, fornisce al Governo elementi conoscitivi e criteri classificativi in ordine alla possibile introduzione di un sistema basato sui prezzi di riferimento dei farmaci proponendo, inoltre, al Governo un progetto di sperimentazione nella applicabilita' di tale sistema. Eventuali variazioni al sistema vigente potranno intervenire dal 1 gennaio 1996 con specifico provvedimento legislativo.
 
 2\. Lo sconto praticato alle aziende ospedaliere e ai presidi ospedalieri nonche' agli istituti di ricovero e cura sulle specialita' medicinali e sui prodotti galenici, il cui prezzo al pubblico e' inclusivo dell'aliquota IVA sul prezzo base, e' stabilito mediante contrattazione tra le parti interessate, e non puo' essere inferiore a quanto previsto dall'articolo 9, quinto comma, del decreto-legge 8 luglio 1974, n. 264, convertito, con modificazioni, dalla legge 17 agosto 1974, n. 386.
 
-#### Art. 9 - Assistenza farmaceutica
+### Art. 9 - Assistenza farmaceutica
 
 1\. La prescrizione di specialita' medicinali e di prodotti generici con oneri a carico del Servizio sanitario nazionale e' limitata al numero massimo di due pezzi per ricetta, fatta eccezione per i prodotti a base di antibiotici in confezione monodose e per i medicinali somministrati esclusivamente per fleboclisi, per i quali si applica la disposizione di cui all'articolo 2, comma 3, del decreto-legge 30 ottobre 1987, n. 443, convertito, con modificazioni, dalla legge 29 dicembre 1987, n. 531. Fino al 31 marzo 1995 per i farmaci indicati dagli articoli 1, 2 e 4 del decreto del Ministro della sanita' 1 febbraio 1991, pubblicato nella Gazzetta Ufficiale n. 32 del 7 febbraio 1991, e successive modificazioni ed integrazioni, a favore dei soggetti affetti dalle forme morbose di cui agli stessi articoli e per i farmaci a base di interferone a favore dei soggetti affetti da epatite cronica, la prescrizione e' limitata ad un numero massimo di sei pezzi per ricetta.
 
 2\. Entro il 31 marzo 1995 il Ministro della sanita', sentito il parere della Commissione unica del farmaco, provvede, con proprio decreto, a definire per ciascuna categoria di farmaci destinati alla cura delle patologie di cui al citato decreto del Ministro della sanita' 1 febbraio 1991 il confezionamento ottimale per ciclo di terapie, prevedendo fra l'altro standard di confezionamento a posologia limitata destinati ad evidenziare possibili fenomeni di intolleranza nonche' l'efficacia del farmaco; conseguentemente, la prescrizione per tali farmaci e' limitata al numero massimo di due pezzi per ricetta.
 
-#### Art. 10 - Norme finali
+### Art. 10 - Norme finali
 
 1\. Alle unita' sanitarie locali si applicano le disposizioni di cui all'articolo 4, comma 8, del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni ed integrazioni. Agli eventuali disavanzi di gestione, ferma restando la responsabilita' diretta delle predette unita' sanitarie locali, provvedono le regioni con risorse proprie, con conseguente esonero di interventi finanziari da parte dello Stato. ((4))
 
@@ -200,19 +200,17 @@ AGGIORNAMENTO (4)
 
 La Corte Costituzionale, con sentenza 21-28 luglio 1995, n. 416 (in G.U. 1a s.s. 2/8/1995, n. 32) ha dichiarato l'illegittimita' costituzionale dell'art. 10, comma 1, della legge 23 dicembre 1994, n. 724, nella parte in cui impone alle regioni di provvedere con risorse proprie al ripiano degli eventuali disavanzi di gestione anche in relazione a scelte esclusive o determinanti dello Stato".
 
-## CAPO II - DISPOSIZIONI
+## CAPO II - DISPOSIZIONI IN MATERIA PREVIDENZIALE
 
-### IN MATERIA PREVIDENZIALE
-
-#### Art. 11 - Eta' per il pensionamento di vecchiaia
+### Art. 11 - Eta' per il pensionamento di vecchiaia
 
 1\. La tabella A allegata al decreto legislativo 30 dicembre 1992, n. 503, e' sostituita dalla tabella A allegata alla presente legge.
 
-#### Art. 12 - Attivita' usuranti
+### Art. 12 - Attivita' usuranti
 
 1\. Entro il 31 gennaio 1995 con decreto del Ministro del lavoro e della previdenza sociale, d'intesa con il Ministro del tesoro, sara' ridefinito l'elenco delle attivita' cosiddette "usuranti" al fine di ridurre per i lavoratori appartenenti a tali categorie l'eta' di pensionamento senza aggravio di oneri per la finanza pubblica.
 
-#### Art. 13 - Disposizioni in materia di pensionamenti di anzianita' nel regime generale e nei regimi sostitutivi ed esclusivi
+### Art. 13 - Disposizioni in materia di pensionamenti di anzianita' nel regime generale e nei regimi sostitutivi ed esclusivi
 
 1\. A decorrere dal 1 gennaio 1995 nei confronti dei lavoratori dipendenti privati e pubblici, nonche' dei lavoratori autonomi, e' sospesa l'applicazione di ogni disposizione di legge, di regolamento, di accordi collettivi che preveda il diritto a trattamenti pensionistici anticipati rispetto all'eta' stabilita per il pensionamento di vecchiaia, ovvero per il collocamento a riposo d'ufficio in base ai singoli ordinamenti. La sospensione opera fino alla data di entrata in vigore di specifico provvedimento legislativo di riordino del sistema previdenziale e comunque non oltre il 30 giugno 1995. Tale provvedimento, unitamente alla predetta disposizione di sospensione, dovra' essere idoneo ad assicurare effetti di contenimento:
 
@@ -276,11 +274,11 @@ AGGIORNAMENTO (21)
 
 La Corte Costituzionale, con sentenza 13-21 novembre 1997, n. 347 (in G.U. 1a s.s. 26/11/1997, n. 48) ha dichiarato "l'illegittimita' costituzionale dell'art. 13, comma 5, lettera b), della legge 23 dicembre 1994, n. 724 (Misure di razionalizzazione della finanza pubblica), nella parte in cui differisce al 1 gennaio 1996 la corresponsione della pensione per il personale della scuola collocato a riposo per dimissioni".
 
-#### Art. 14 - Perequazione automatica delle pensioni
+### Art. 14 - Perequazione automatica delle pensioni
 
 1\. Con effetto dal 1995 il termine stabilito, ai fini della perequazione automatica delle pensioni, dall'articolo 11, comma 1, del decreto legislativo 30 dicembre 1992, n. 503, e successive modificazioni ed integrazioni, e' differito al 1 gennaio successivo di ogni anno.
 
-#### Art. 15 - Assoggettamento alla ritenuta in conto entrate del Ministero del tesoro della quota di maggiorazione della base pensionabile e omogeneizzazione dei trattamenti di pensione
+### Art. 15 - Assoggettamento alla ritenuta in conto entrate del Ministero del tesoro della quota di maggiorazione della base pensionabile e omogeneizzazione dei trattamenti di pensione
 
 1\. Con decorrenza dal 1 gennaio 1995, ai soli fini dell'assoggettamento a ritenuta in conto entrate del Ministero del tesoro, lo stipendio e gli altri assegni pensionabili con esclusione dell'indennita' integrativa speciale di cui alla legge 27 maggio 1959, n. 324, e successive modificazioni ed integrazioni, e degli assegni e indennita' corrisposti per lo svolgimento di particolari funzioni esclusi dalla base pensionabile, spettanti ai dipendenti aventi diritto al trattamento di quiescenza disciplinato dal testo unico approvato con decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092, e successive modificazioni ed integrazioni, sono figurativamente aumentati della percentuale prevista dagli articoli 15, 16 e 22 della legge 29 aprile 1976, n. 177.
 
@@ -294,7 +292,7 @@ La Corte Costituzionale, con sentenza 13-21 novembre 1997, n. 347 (in G.U. 1a s.
 
 6\. Le disposizioni di cui ai commi 3, 4 e 5 si applicano anche ai dipendenti iscritti ai fondi integrativi di previdenza previsti dai regolamenti degli enti di cui alla legge 20 marzo 1975, n. 70.
 
-#### Art. 16 - Modifiche alle norme per la liquidazione dell'idenitita' di buonuscita
+### Art. 16 - Modifiche alle norme per la liquidazione dell'idenitita' di buonuscita
 
 1\. Il comma 3 dell'articolo 3 della legge 29 gennaio 1994, n. 87, e' sostituito dal seguente:
 
@@ -304,7 +302,7 @@ La Corte Costituzionale, con sentenza 13-21 novembre 1997, n. 347 (in G.U. 1a s.
 
 " 1. L'onere complessivo derivante dall'attuazione della presente legge e' valutato in lire 50 miliardi per l'anno 1994, in lire 1.400 miliardi per l'anno 1995, in lire 1.900 miliardi per gli anni 1996 e 1997, in lire 2.500 miliardi per gli anni 1998 e 1999 ed in lire 890 miliardi a decorrere dall'anno 2000 ".
 
-#### Art. 17 - Aliquote di rendimento per calcolo della pensione, pensioni in regime internazionale e rinvio dei miglioramenti delle pensioni
+### Art. 17 - Aliquote di rendimento per calcolo della pensione, pensioni in regime internazionale e rinvio dei miglioramenti delle pensioni
 
 1\. Con effetto dal 1 gennaio 1995 le disposizioni in materia di aliquote annue di rendimento ai fini della determinazione della misura della pensione dell'assicurazione generale obbligatoria dei lavoratori dipendenti, pari al 2 per cento, sono estese ai regimi pensionistici sostitutivi, esclusivi ed esonerativi dell'assicurazione predetta, per le anzianita' contributive o di servizio maturate a decorrere da tale data.
 
@@ -322,7 +320,7 @@ AGGIORNAMENTO (12)
 
 Il D.L. 30 dicembre 1995, n. 574, convertito con modificazioni dalla L. 1 marzo 1996, n. 105, ha disposto (con l'art. 1, comma 1) che "Con effetto dal 1 gennaio 1996, il criterio di riparto tra datore di lavoro e lavoratori degli oneri derivanti dagli incrementi delle aliquote contributive di cui all'articolo 17, comma 5, della legge 23 dicembre 1994, n. 724, si intende applicato anche alle forme esclusive dell'assicurazione generale obbligatoria interessate".
 
-#### Art. 18 - Condono previdenziale ed assistenziale
+### Art. 18 - Condono previdenziale ed assistenziale
 
 1\. I soggetti tenuti al versamento dei contributi e dei premi previdenziali ed assistenziali, che denunciano per la prima volta la loro posizione presso gli sportelli unificati di cui al comma 4 dell'articolo 14 della legge 30 dicembre 1991, n. 412, come modificato dall'articolo 1 del decreto-legge 15 gennaio 1993, n. 6, convertito, con modificazioni, dalla legge 17 marzo 1993, n. 63, possono versare entro il 31 marzo 1995 i contributi ed i premi relativi a periodi precedenti la anzidetta denuncia maggiorati, in luogo delle sanzioni civili, degli interessi nella misura del 17 per cento annuo nel limite massimo del 17 per cento annuo nel limite massimo del 50 per cento dei contributi e dei premi complessivamente dovuti.
 
@@ -372,13 +370,13 @@ Il D.L. 23 febbraio 1995 n. 41, convertito con modificazioni dalla L. 22 marzo 1
 
 Conseguentemente fino a tale data sono sospesi i procedimenti esecutivi riguardanti il recupero dei contributi agricoli unificati."
 
-#### Art. 19 - Soppressione dello SCAU e trasferimento delle relative funzioni all'INPS
+### Art. 19 - Soppressione dello SCAU e trasferimento delle relative funzioni all'INPS
 
 1\. Con decorrenza 1 luglio 1995 lo SCAU e' soppresso e tutte le strutture, le funzioni e il personale sono trasferiti all'Istituto nazionale della previdenza sociale (INPS), e all'Istituto nazionale per gli infortuni sul lavoro (INAIL), secondo le rispettive competenze, in apposite strutture, salvaguardando le esperienze e le professionalita' specifiche, con tempi e modalita' stabiliti con decreto del Ministro del lavoro e della previdenza sociale da emanare, d'intesa con i Ministri del tesoro e delle risorse agricole, alimentari e forestali, sentite le competenti Commissioni permanenti della Camera dei deputati e del Senato della Repubblica.
 
 2\. I contributi di cui all'articolo 11, primo comma, della legge 12 marzo 1968, n. 334, sono riscossi dall'INPS, conformemente alle modalita' stabilite dall'autonomia contrattuale collettiva, in via generalizzata ed automatica nei confronti dei soggetti che applicano o recepiscono i contratti collettivi di lavoro del settore agricolo.
 
-#### Art. 20 - Interventi in materia di occupazione e mercato del lavoro
+### Art. 20 - Interventi in materia di occupazione e mercato del lavoro
 
 1\. L'accertamento definito con adesione ai sensi degli articoli 2-bis e 3 del decreto-legge 30 settembre 1994, n. 564, convertito, con modificazioni, dalla legge 30 novembre 1994, n. 656, rileva ai fini dei contributi previdenziali dovuti all'INPS, nei casi in cui l'IRPEF costituisce base di riferimento ai fini dei versamenti contributivi.
 
@@ -388,13 +386,13 @@ A tal fine e' istituita nell'ambito del bilancio INPS apposita evidenziazione co
 
 3\. Tenuto conto dell'esigenza di assicurare ai fini dell'invarianza del gettito un adeguato numero di accertamenti con adesione ai sensi degli articoli 2-bis e 3 del decreto-legge 30 settembre 1994, n. 564, convertito, con modificazioni, dalla legge 30 novembre 1994, n. 656, ((limitatamente alle dichiarazioni presentate entro il 30 settembre 1994, l'accertamento con adesione rileva, ai fini dei contributi previdenziali dovuti all'INPS, nella misura del 60 per cento. Nel caso in cui il maggior reddito derivante dall'adesione al concordato non superi il minimale reddituale per il calcolo dei contributi dovuti, nessuna e' dovuta a fini previdenziali; negli altri casi il contributi e' calcolato sulla differenza)).
 
-#### Art. 21 - Norma finanziaria
+### Art. 21 - Norma finanziaria
 
 1\. In conseguenza delle disposizioni contenute nel presente capo, sono ridotti di 1.088 miliardi di lire, per l'anno 1995, gli importi dei trasferimenti destinati alle gestioni previdenziali interessate.
 
 ## CAPO III - DISPOSIZIONI IN MATERIA DI PUBBLICO IMPIEGO
 
-#### Art. 22 - Personale
+### Art. 22 - Personale
 
 1\. L'orario di servizio nelle amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni ed integrazioni, si articola su cinque giorni settimanali, anche nelle ore pomeridiane, in attuazione dei principi generali di cui al titolo I del predetto decreto legislativo. Sono fatte salve in ogni caso le particolari esigenze dei servizi pubblici da erogarsi con carattere di continuita' e che richiedono orari continuativi o prestazioni per tutti i giorni della settimana, quelle delle istituzioni scolastiche, nonche' quelle derivanti dalla necessita' di assicurare comunque la funzionalita' delle strutture di altri uffici pubblici con un ampliamento dell'orario di servizio anche nei giorni non lavorativi.
 
@@ -516,7 +514,7 @@ AGGIORNAMENTO (32)
 
 La Corte Costituzionale, con sentenza 23 ottobre-2 novembre 2000, n. 459 (in G.U. 1a s.s. 08/11/2000, n. 46), ha dichiarato "l'illegittimita' costituzionale dell'art. 22, comma 36, della legge 23 dicembre 1994, n. 724 (Misure di razionalizzazione della finanza pubblica), limitatamente alle parole "e privati"."
 
-#### Art. 23 - Commissioni giudicatrici degli esami di maturita'. Semplificazione delle procedure di pagamento del personale della scuola. Universita'
+### Art. 23 - Commissioni giudicatrici degli esami di maturita'. Semplificazione delle procedure di pagamento del personale della scuola. Universita'
 
 1\. ((COMMA ABROGATO DALLA L. 10 DICEMBRE 1997, N. 425)). ((22))
 
@@ -574,11 +572,11 @@ AGGIORNAMENTO (25)
 
 Il D.P.R. 23 luglio 1998, n. 323 ha disposto (con l'art. 9, comma 8) che "La partecipazione dei presidenti e dei commissari e' compensata, nella misura stabilita con decreto del Ministro della pubblica istruzione, adottato d'intesa con il Ministro del tesoro, del bilancio e della programmazione economica, entro il limite di spesa di cui all'articolo 23, comma 2, della legge 23 dicembre 1994, n. 724, come interpretato dall'articolo 1, comma 80, della legge 23 dicembre 1996, n. 662, che, a tal fine, e' innalzato di lire 33 miliardi."
 
-#### Art. 24
+### Art. 24
 
 ((ARTICOLO ABROGATO DALLA L. 23 DICEMBRE 1996, N. 662))
 
-#### Art. 25 - Incarichi di consulenza
+### Art. 25 - Incarichi di consulenza
 
 1\. Al fine di garantire la piena e effettiva trasparenza e imparzialita' dell'azione amministrativa, al personale delle amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 3 febbraio 1993, n. 29, che cessa volontariamente dal servizio pur non avendo il requisito previsto per il pensionamento di vecchiaia dai rispettivi ordinamenti previdenziali ma che ha tuttavia il requisito contributivo per l'ottenimento della pensione anticipata di anzianita' previsto dai rispettivi ordinamenti, non possono essere conferiti incarichi di consulenza, collaborazione, studio e ricerca da parte dell'amministrazione di provenienza o di amministrazioni con le quali ha avuto rapporti di lavoro o impiego nei cinque anni precedenti a quello della cessazione dal servizio. ((18))
 
@@ -594,7 +592,7 @@ La L. 21 dicembre 1996, n. 665, ha disposto (con l'art. 11, comma 2) che in dero
 
 ## CAPO IV - DISPOSIZIONI FISCALI
 
-#### Art. 26 - Soppressione di regimi fiscali particolari
+### Art. 26 - Soppressione di regimi fiscali particolari
 
 1\. Sono soppressi i regimi fiscali particolari concernenti:
 
@@ -604,13 +602,13 @@ b) gli assegni vitalizi spettanti ai membri del Parlamento nazionale, del Parlam
 
 2\. Conseguentemente, sono abrogate le disposizioni legislative incompatibili con quelle di cui al comma 1 e, in particolare, sono abrogati l'articolo 48, comma 6, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e l'articolo 19 della legge 27 dicembre 1985, n. 816.
 
-#### Art. 27 - Neutralita' fiscale delle operazioni societarie di fusione e scissione
+### Art. 27 - Neutralita' fiscale delle operazioni societarie di fusione e scissione
 
 1\. Le fusioni e le scissioni di societa' sono, agli effetti delle imposte sui redditi, neutrali. Conseguentemente, il disavanzo di fusione e di scissione non e' utilizzabile per iscrizioni di valori in franchigia d'imposta, a qualsiasi voce, forma o titolo operate. Ai fondi in sospensione d'imposta continuano, per neutralita', ad essere appllicate le disposizioni di cui all'articolo 123, comma 4, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, anche se istituiti per effetto di operazioni di concentrazione poste in essere in precedenza dalle societa' incorporate. ((La fusione tra societa' che hanno posto in essere operazioni di concentrazione ai sensi dell'articolo 34 della legge 2 dicembre 1975, n. 576, dell'articolo 10 della legge 16 dicembre 1977, n. 904, e dell'articolo 79 della legge 22 ottobre 1986, n. 742, non costituisce realizzo della plusvalenza ancora in sospensione di imposta, a condizione che detta plusvalenza trovi evidenza in una riserva che concorre a formare il reddito nell'esercizio e nella misura in cui la riserva sia utilizzata per scopi diversi dalla copertura di perdite.))
 
 2\. Le disposizioni del comma 1, relative ai disavanzi di fusione, si applicano alle operazioni deliberate successivamente alla data di entrata in vigore della presente legge.
 
-#### Art. 28 - Norma contro l'elusione
+### Art. 28 - Norma contro l'elusione
 
 1\. Il comma 1 dell'articolo 10 della legge 29 dicembre 1990, n. 408, e' sostituito dal seguente:
 
@@ -618,7 +616,7 @@ b) gli assegni vitalizi spettanti ai membri del Parlamento nazionale, del Parlam
 
 2\. Le disposizioni del comma 1, limitatamente alle operazioni di liquidazione, alla valutazione di partecipazioni, alle cessioni di crediti i alle cessioni o valutazioni di valori mobiliari, si applicano alle operazioni effettuate a decorrere dal periodo di imposta che inizia successivamente al 30 settembre 1994.
 
-#### Art. 29 - Lettori a scheda magnetica
+### Art. 29 - Lettori a scheda magnetica
 
 ((1. Il Ministro delle finanze e' autorizzato ad emanare, con proprio decreto, entro dodici mesi dalla data di entrata in vigore della presente legge, specifiche disposizioni per l'obbligo di installazione di lettori a scheda magnetica o qualsiasi altro dispositivo idoneo a certificare gli incassi sugli apparecchi di gioco elettromagnetici od elettronici, nonche' sui distributori automatici di cibo e bevande, installati in qualsiasi locale in cui abbia accesso il pubblico, nei luoghi di lavoro e nelle mense aziendali)).
 
@@ -626,7 +624,7 @@ b) gli assegni vitalizi spettanti ai membri del Parlamento nazionale, del Parlam
 
 3\. Il Ministro delle finanze provvede, inoltre, entro i termini di cui al comma 1, ad effettuare il censimento di tutti gli apparecchi da gioco elettromagnetici od elettronici dovunque essi siano installati e posti a disposizione del pubblico.
 
-#### Art. 30 - Societa' di comodo. Valutazione dei titoli
+### Art. 30 - Societa' di comodo. Valutazione dei titoli
 
 1\. Agli effetti del presente articolo le societa' per azioni, in accomandita per azioni, a responsabilita' limitata, in nome collettivo e in accomandita semplice, nonche' le societa' e gli enti di ogni tipo non residenti, con stabile organizzazione nel territorio dello Stato, si considerano non operativi se l'ammontare complessivo dei ricavi, degli incrementi delle rimanenze e dei proventi, esclusi quelli straordinari, risultanti dal conto economico, ove prescritto, e' inferiore alla somma degli importi che risultano applicando le seguenti percentuali: a) l'1 per cento al valore dei beni indicati nell'articolo 85, comma 1, lettere c), d) ed e), del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e delle quote di partecipazione nelle societa' commerciali di cui all'articolo 5 del medesimo testo unico, anche se i predetti beni e partecipazioni costituiscono immobilizzazioni finanziarie, aumentato del valore dei crediti; b) il 3 per cento al valore delle immobilizzazioni costituite da beni immobili, anche in locazione finanziaria; per gli immobili classificati nella categoria catastale A/10, la predetta percentuale e' ridotta al 2,5 per cento; per gli immobili a destinazione abitativa acquisiti o rivalutati nell'esercizio e nei due precedenti, la percentuale e' ulteriormente ridotta al 2 per cento; per tutti gli immobili situati in comuni con popolazione inferiore a 1.000 abitanti la percentuale e' dell'0,50 per cento; b-bis) il 6 per cento delle immobilizzazioni costituite da beni indicati nell'articolo 8-bis, primo comma, lettera a), del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, anche in locazione finanziaria; c) il 15 per cento al valore delle altre immobilizzazioni, anche in locazione finanziaria. Le disposizioni del primo periodo non si applicano: 1) ai soggetti ai quali, per la particolare attivita' svolta, e' fatto obbligo di costituirsi sotto forma di societa' di capitali; 2) ai soggetti che si trovano nel primo periodo di imposta; 3) alle societa' in amministrazione controllata o straordinaria; 4) alle societa' ed enti che controllano societa' ed enti i cui titoli sono negoziati in mercati regolamentati italiani ed esteri, nonche' alle stesse societa' ed enti quotati ed alle societa' da essi controllate, anche indirettamente; 5) alle societa' esercenti pubblici servizi di trasporto; 6) alle societa' con un numero di soci non inferiore a 50.
 
@@ -676,7 +674,7 @@ AGGIORNAMENTO (45)
 
 Il D.Lgs. 13 dicembre 2024, n. 192, ha disposto (con l'art. 20, comma 1, alinea) che le presenti modifiche si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2023.
 
-#### Art. 31 - Rivalutazione delle rendite dei terreni. Coltivazioni di vegetali produttive di reddito d'impresa. Crediti IVA
+### Art. 31 - Rivalutazione delle rendite dei terreni. Coltivazioni di vegetali produttive di reddito d'impresa. Crediti IVA
 
 1\. Fino all'entrata in vigore delle nuove tariffe d'estimo, ai soli fini della determinazione delle imposte sui redditi, i vigenti redditi dominicali sono rivalutati a decorrere dal periodo d'imposta in corso al 31 dicembre 1955 del 55 per cento e i vigenti redditi agrari sono rivalutati del 45 per cento.
 
@@ -690,7 +688,7 @@ Conseguentemente, all'articolo 29, comma 2, lettera b), del testo unico delle im
 
 5\. Le disposizioni di cui al comma 3 si applicano a decorrere dal periodo d'imposta successivo al 31 dicembre 1994.
 
-#### Art. 32 - Beni patrimoniali e demaniali
+### Art. 32 - Beni patrimoniali e demaniali
 
 1\. A decorrere dall'anno 1995, i canoni annui per i beni patrimoniali dello Stato, concessi o locati a privati, sono, in deroga alle altre disposizioni di legge in vigore, rivalutati rispetto a quelli dovuti per l'anno 1994 di un coefficiente pari a 2,5 volte il canone stesso, salvo quanto previsto al comma 2.
 
@@ -708,7 +706,7 @@ Conseguentemente, all'articolo 29, comma 2, lettera b), del testo unico delle im
 
 8\. A decorrrere dal 1 gennaio 1995 i canoni annui per i beni appartenenti al patrimonio indisponibile dei comuni sono, in deroga alle disposizioni di legge in vigore, determinati dai comuni in rapporto alle caratteristiche dei beni, ad un valore comunque non inferiore a quello di mercato, fatti salvi gli scopi sociali.
 
-#### Art. 33 - Gioco del lotto
+### Art. 33 - Gioco del lotto
 
 1\. Il Ministro delle finanze, con proprio decreto, provvede a fissare in anticipo sui tempi previsti dal comma 2 dell'articolo 5 della legge 19 aprile 1990, n. 85, l'allargamento della rete di raccolta del gioco del lotto in modo che entro tre anni dalla data di entrata in vigore della presente legge sia raggiunto il numero di 15.000 punti di raccolta e che successivamente sia estesa a tutti i tabaccai che ne facciano richiesta entro il 1 marzo di ogni anno, purche' sia assicurato un incasso medio annuo da stabilire con decreto del Ministro delle finanze, di intesa con le organizzazioni sindacali dei rispettivi settori maggiormente rappresentative sul piano nazionale, salvaguardando l'esigenza di garantire la presenza nelle zone periferiche del Paese. Sulla base delle domande presentate il Ministro delle finanze, con propri decreti, definisce il piano di progressiva estensione della rete a tutti i tabaccai richiedenti entro il 31 dicembre di ogni anno. Per conseguire tali obiettivi, la distanza tra le ricevitorie gestite da rivenditori di generi di monopolio e le ricevitorie gestite da ex dipendenti del lotto prevista come requisito dal decreto del Ministro delle finanze 6 maggio 1987 e dalla legge 19 aprile 1990, n. 85, e' ridotta a 200 metri, seguendo il percorso pedonale piu' breve. ((PERIODO SOPPRESSO DALLA L. 23 DICEMBRE 1998, N. 448)).
 
@@ -718,7 +716,7 @@ Conseguentemente, all'articolo 29, comma 2, lettera b), del testo unico delle im
 
 ## CAPO V - FINANZA REGIONALE E LOCALE
 
-#### Art. 34 - Trasferimenti alle regioni e alle province autonome di Trento e di Bolzano
+### Art. 34 - Trasferimenti alle regioni e alle province autonome di Trento e di Bolzano
 
 1\. A decorrere dall'anno 1995 la quota del 3,10 per cento dell'imposta di fabbricazione sugli olii minerali, loro derivati e prodotti analoghi di cui all'articolo 8, primo comma, lettera a), della legge 16 maggio 1970, n. 281, come modificano dall'articolo 4, comma 5, della legge 23 dicembre 1992, n. 500, e' ridotta al 2,3 per cento.
 
@@ -756,7 +754,7 @@ AGGIORNAMENTO (16)
 
 La L. 23 dicembre 1996, n. 662 ha disposto (con l'art. 1, comma 143) che "Ferme restando le disposizioni di cui all'articolo 2, comma 3, della legge 28 dicembre 1995, n. 549, a decorrere dall'anno 1997 le misure del concorso delle regioni Sicilia e Sardegna al finanziamento del Servizio sanitario nazionale previste dall'articolo 34, comma 3, della legge 23 dicembre 1994, n. 724, come modificate dall'articolo 2, comma 3, della legge 28 dicembre 1995, n. 549, sono elevate, rispettivamente, al 42,5 ed al 29 per cento".
 
-#### Art. 35 - Emissione di titoli obbligazionari da parte di enti territoriali
+### Art. 35 - Emissione di titoli obbligazionari da parte di enti territoriali
 
 1\. Le province, i comuni e le unioni di comuni, le citta' metropolitane e i comuni di cui agli articoli 17 e seguenti della legge 8 giugno 1990, n. 142, le comunita' montane, i consorzi tra enti locali territoriali e le regioni possono deliberare l'emissione di prestiti obbligazionari destinati esclusivamente al finanziamento degli investimenti. Per le regioni resta ferma la disciplina di cui all'articolo 10 della legge 16 maggio 1970, n. 281, come modificato dall'articolo 9 della legge 26 aprile 1982, n. 181. E' fatto divieto di emettere prestiti obbligazionari per finanziare spese di parte corrente. Le unioni di comuni, le comunita' montane e i consorzi tra enti locali devono richiedere agli enti locali territoriali, che ne fanno parte, l'autorizzazione all'emissione dei prestiti obbligazionari. L'autorizzazione si intende negata qualora non sia espressamente concessa entro novanta giorni dalla richiesta. Si applicano le disposizioni di cui all'articolo 46 del decreto legislativo 30 dicembre 1992, n. 504, e successive modificazioni ed integrazioni. Il costo del monitoraggio previsto nel predetto articolo 46 sara' a totale carico dell'ente emittente.
 
@@ -784,11 +782,11 @@ b) che le regioni non abbiano proceduto al ripiano di disavanzi di amministrazio
 
 10\. Con apposito regolamento da emanare entro il 30 giugno 1995, il Ministro del tesoro determina le caratteristiche dei titoli obbligazionari, nonche' i criteri e le procedure che gli enti emittenti sono tenuti ad osservare per la raccolta del risparmio; definisce l'ammontare delle commissioni di collocamento che dovranno percepire gli intermediari autorizzati; definisce altresi' i criteri di quotazione sul mercato secondario. A tal fine possono anche essere previste modificazioni ed integrazioni delle certificazioni di bilancio di cui all'articolo 44 del decreto legislativo 30 dicembre 1992, n. 504.
 
-#### Art. 36 - Competenze della regione Valle d'Aosta
+### Art. 36 - Competenze della regione Valle d'Aosta
 
 1\. Rimangono salve le competenze attribuite alla regione Valle d'Aosta dalla legge 26 novembre 1981, n. 690.
 
-#### Art. 37 - Indebitamento degli enti locali dissestati
+### Art. 37 - Indebitamento degli enti locali dissestati
 
 1\. In deroga a quanto stabilito dall'articolo 35, comma 2, lettera a), gli enti locali territoriali possono procedere all'emissione di prestiti obbligazionari purche':
 
@@ -804,11 +802,11 @@ b) abbiano interamente ripianato gli eventuali disavanzi di gestione dei servizi
 
 ## CAPO VI - DISPOSIZIONI VARIE
 
-#### Art. 38 - Disposizioni relative alla Cassa depositi e prestiti
+### Art. 38 - Disposizioni relative alla Cassa depositi e prestiti
 
 1\. Le annualita' da corrispondere per il 1995 alla Cassa depositi e prestiti, relativamente ai limiti di impegno autorizzati dagli articoli 36 e 38 della legge 5 agosto 1978, n. 457; dall'articolo 9 del decreto-legge 15 dicembre 1979, n. 629, convertito, con modificazioni, dalla legge 15 febbraio 1980, n. 25; dagli articoli 1, commi quarto e undicesimo, e 2, comma dodicesimo, del decreto-legge 23 gennaio 1982, n. 9, convertito, con modificazioni, dalla legge 25 marzo 1982, n. 94; dall'articolo 3, comma 7, del decreto-legge 7 febbraio 1985, n. 12, convertito, con modificazioni, dalla legge 5 aprile 1985, n. 118, e dall'articolo 22, comma 3, della legge 11 marzo 1988, n. 67, sono conferite alla Cassa medesima nell'esercizio successivo a quello di scadenza dell'ultima annualita' dei rispettivi limiti di impegno.
 
-#### Art. 39 - Definizione agevolata delle violazioni edilizie
+### Art. 39 - Definizione agevolata delle violazioni edilizie
 
 1\. Le disposizioni di cui ai capi IV e V della legge 28 febbraio 1985, n. 47, e successive modificazioni e integrazioni, come ulteriormente modificate dal presente articolo, si applicano alle opere abusive che risultino ultimate entro il 31 dicembre 1993, e che non abbiano comportato ampliamento del manufatto superiore al 30 per cento della volumetria della costruzione originaria ovvero, indipendentemente dalla volumetria iniziale o assentita, un ampliamento superiore a 750 metri cubi. Le suddette disposizioni trovano altresi' applicazione alle opere abusive realizzate nel termine di cui sopra relative a nuove costruzioni non superiori ai 750 metri cubi per singola richiesta di concessione edilizia in sanatoria. I termini contenuti nelle disposizioni richiamate al presente comma e decorrenti dalla data di entrata in vigore della legge 28 febbraio 1985, n. 47, o delle leggi di successiva modificazione o integrazione, sono da intendersi come riferiti alla data di entrata in vigore del presente articolo. I predetti limiti di cubatura non trovano applicazione nel caso di annullamento della concessione edilizia. Il procedimento di sanatoria degli abusi edilizi posti in essere dalla persona imputata di uno dei delitti di cui agli articoli 416-bis, 648-bis e 648-ter del codice penale, o da terzi per suo conto, e' sospeso fino alla sentenza definitiva di non luogo a procedere o di proscioglimento o di assoluzione. Non puo' essere conseguita la concessione in sanatoria degli abusi edilizi se interviene sentenza definitiva di condanna per i delitti sopra indicati. Fatti salvi gli accertamenti di ufficio in ordine alle condanne riportate nel certificato generale del casellario giudiziale ad opera del comune, il richiedente deve attestare, con dichiarazione sottoscritta nelle forme di cui all'articolo 2 della legge 4 gennaio 1968, n. 15, di non avere carichi pendenti in relazione ai delitti di cui agli articoli 416-bis, 648-bis e 648-ter del codice penale.
 
@@ -886,7 +884,7 @@ AGGIORNAMENTO (30)
 
 La L. 30 aprile 1999, n. 136 ha disposto (con l'art. 24, comma 2) che il comma 19 del presente articolo "deve intendersi nel senso che il diritto del proprietario di ottenere l'annullamento dell'acquisizione al patrimonio comunale, qualora abbia adempiuto agli oneri previsti per la sanatoria, si esercita anche nei casi in cui la predetta acquisizione sia stata disposta in attuazione delle disposizioni di cui all'articolo 15, commi terzo e tredicesimo, della legge 28 gennaio 1977, n. 10."
 
-#### Art. 40 - Sistema di finanziamento CONSOB
+### Art. 40 - Sistema di finanziamento CONSOB
 
 1\. Nel quadro dell'attivazione di un processo di revisione dell'assetto istituzionale della Commissione nazionale per le societa' e la borsa (CONSOB), ai fini del proprio autofinanziamento la CONSOB segnala al Ministro del tesoro entro il 31 luglio di ciascun anno, a decorrere dal 1995, il fabbisogno finanziario per l'esercizio successivo, nonche' la previsione delle entrate, realizzabili nello stesso esercizio, per effetto dell'applicazione delle contribuzioni di cui al comma 3.
 
@@ -902,7 +900,7 @@ La L. 30 aprile 1999, n. 136 ha disposto (con l'art. 24, comma 2) che il comma 1
 
 6\. La riscossione coattiva delle contribuzioni previste dal comma 3 avviene tramite ruolo e secondo le modalita' di cui all'articolo 67, comma 2, del D.P.R. 28 gennaio 1988, n. 43.
 
-#### Art. 41 - Modifiche alla legge 2 gennaio 1991, n. 1
+### Art. 41 - Modifiche alla legge 2 gennaio 1991, n. 1
 
 1\. All'articolo 24 della legge 2 gennaio 1991, n. 1, sono apportate le seguenti modificazioni e integrazioni:
 
@@ -920,7 +918,7 @@ d) dopo il comma 4 sono inseriti i seguenti:
 
 4-ter. La titolarita' dei beni acquisiti con l'impiego del fondo di dotazione di cui all'articolo 4, comma 5, della legge 1 agosto 1988, n. 340, o dei diritti rivenienti da atti di disposizione di cui siano stati oggetto, nonche' le residue disponibilita' liquide del fondo non ancora erogate alla data di entrata in vigore della presente legge, sono trasferite al consiglio di borsa per l'esercizio delle funzioni proprie di cui al comma 1. Al trasferimento si applicano le disposizioni in materia di contributi di cui all'articolo 55, comma 3, lettera b), del testo unico delle imposte sui redditi approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni".
 
-#### Art. 42 - Prefinanziamenti per interventi previsti nel quadro comunitario di sostegno
+### Art. 42 - Prefinanziamenti per interventi previsti nel quadro comunitario di sostegno
 
 1\. Al fine di accelerare la realizzazione degli interventi previsti nel quadro comunitario di sostegno per gli obiettivi 1, 2 e 5-b di cui al regolamento CEE n. 2081/93 del Consiglio, del 20 luglio 1993, per il triennio 1994-1996, le regioni possono richiedere agli istituti di credito prefinanziamenti, di durata non superiore a ventiquattro mesi, nel limite complessivo delle risorse di cofinanziamento nazionale poste a carico del bilancio dello Stato; tali prefinanziamenti dovranno essere vincolati all'esecuzione di opere inserite nel quadro comunitario di sostegno.
 
@@ -928,7 +926,7 @@ d) dopo il comma 4 sono inseriti i seguenti:
 
 3\. Nella convenzione di cui al comma 2 puo' essere previsto che gli istituti finanziatori siano rimborsati direttamente dal Ministero del tesoro tramite il fondo di rotazione di cui alla legge 16 aprile 1987, n. 183, a valere sui fondi del quadro comunitario di sostegno, presentando la documentazione prevista nei regolamenti comunitari relativi all'uso dei fondi strutturali.
 
-#### Art. 43 - Alloggi militari e delle Forze di polizia
+### Art. 43 - Alloggi militari e delle Forze di polizia
 
 1\. ((COMMA ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)).
 
@@ -938,7 +936,7 @@ d) dopo il comma 4 sono inseriti i seguenti:
 
 4\. Le misure del 20 per cento e dell'80 per cento e relative destinazioni, indicate dall'articolo 14 della legge 18 agosto 1978, n. 497, e successive modificazioni, dall'articolo 8 della legge 1 dicembre 1986, n. 831, e successive modificazioni, e dall'articolo 9 del decreto-legge 21 settembre 1987, n. 387, convertito, con modificazioni, dalla legge 20 novembre 1987, n. 472, e successive modificazioni, sono rideterminate: nel 5 per cento per il ripristino di immobili non riassegnabili in quanto in attesa di manutenzioni; nel 10 per cento per la manutenzione straordinaria; nel 15 per cento per la costituzione di un fondo-casa e nel 20 per cento per la realizzazione ed il reperimento da parte del Ministero della difesa , e delle altre amministrazioni di cui alla citata legge n. 831 del 1986 e al citato decreto-legge n. 387 del 1987, di altri alloggi. ((Entro tre mesi dalla data di entrata in vigore della presente legge, il Ministro dell'economia e delle finanze, sentite le competenti commissioni parlamentari, emana, con proprio decreto, il regolamento di gestione e utilizzo del fondo casa, sentito il parere delle sezioni del Consiglio centrale di rappresentanza interessate)).
 
-#### Art. 44 - Contratti pubblici
+### Art. 44 - Contratti pubblici
 
 1\. L'articolo 6 della legge 24 dicembre 1993, n. 537, e' sostituito dal seguente:
 
@@ -990,13 +988,13 @@ Entro tre mesi dalla scadenza dei contratti, le amministrazioni accertano la sus
 
 2\. Il regolamento di cui al comma 17 dell'articolo 6 della legge 24 dicembre 1993, n. 537, come sostituito dal comma 1 del presente articolo, e' emanato entro quaranta giorni dalla data di entrata in vigore della presente legge.
 
-#### Art. 45 - Fiscalizzazione degli oneri sociali
+### Art. 45 - Fiscalizzazione degli oneri sociali
 
 1\. Con decreto del Ministro del bilancio e della programmazione economica, adottato di concerto con i Ministri del tesoro e del lavoro e della previdenza sociale, e tenendo conto degli indirizzi dell'Unione europea, si provvede alla determinazione delle condizioni, dei limiti e delle modalita' degli interventi in materia di fiscalizzazione degli oneri sociali regolati, da ultimo, dalle disposizioni di cui all'articolo 18 del decreto-legge 16 maggio 1994, n. 299, convertito, con modificazioni, dalla legge 19 luglio 1994, n.
 
 451\.
 
-#### Art. 46 - Riduzione delle spese per l'acquisto di beni e servizi
+### Art. 46 - Riduzione delle spese per l'acquisto di beni e servizi
 
 1\. Per l'anno 1995, i capitoli della categoria "acquisto di beni e servizi" del bilancio dello Stato, con esclusione delle spese aventi natura obbligatoria, sono ridotti di 471 miliardi di lire.
 
@@ -1004,7 +1002,7 @@ Corrispondente riduzione viene operata, sulla medesima categoria, per gli anni 1
 
 2\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio, ivi incluso l'incremento, per l'anno 1995, e sui corrispondenti capitoli degli anni 1996 e 1997, della dotazione del Fondo Sanitario Nazionale di parte corrente per un importo pari a lire 150 miliardi.
 
-#### Art. 47 - Entrata in vigore
+### Art. 47 - Entrata in vigore
 
 1\. Le disposizioni della presente legge si applicano con decorrenza dal 1 gennaio 1995.
 
@@ -1026,7 +1024,7 @@ Visto, il Guardasigilli: BIONDI
 
 ## CAPO VI - DISPOSIZIONI VARIE
 
-#### Tabelle
+### Tabelle
 
 TABELLA A.
 

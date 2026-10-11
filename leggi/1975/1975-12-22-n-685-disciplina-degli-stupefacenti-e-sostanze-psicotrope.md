@@ -28,7 +28,7 @@ la seguente legge:
 
 ## TITOLO I - DEGLI ORGANI E DELLE TABELLE
 
-###### Art. 1
+#### Art. 1
 
 (((Comitato nazionale di coordinamento per l'azione
 
@@ -84,7 +84,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 1-bis
+#### Art. 1-bis
 
 (((Attribuzioni del Ministro della sanita')
 
@@ -114,7 +114,7 @@ g) promuove, in collaborazione con i Ministri dell'universita' e della ricerca s
 
 h) promuove, in collaborazione con le Regioni, iniziative volte a eliminare il fenomeno dello scambio di siringhe tra tossicodipendenti, favorendo anche l'immissione nel mercato di siringhe monouso autobloccanti.))
 
-###### Art. 1-ter
+#### Art. 1-ter
 
 (Istituzione del Servizio centrale e per le dipendenze
 
@@ -154,7 +154,7 @@ AGGIORNAMENTO (8)
 
 Il D.Lgs. 30 giugno 1993, n. 266, come modificato dal D.L. 23 ottobre 1996, n. 542, convertito con modificazioni dalla L. 23 dicembre 1996, n. 649, ha disposto (con l'art. 10, comma 2) che l'abrogazione degli articoli 1-ter e 1-quater della legge 26 giugno 1990, n. 162 (recante "Aggiornamento, modifiche ed integrazioni della legge 22 dicembre 1975, n. 685, recante disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza") "ha efficacia dall'entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza".
 
-###### Art. 1-quater
+#### Art. 1-quater
 
 (Composizione del Servizio centrale per le dipedenze
 
@@ -184,11 +184,11 @@ AGGIORNAMENTO (8)
 
 Il D.Lgs. 30 giugno 1993, n. 266, come modificato dal D.L. 23 ottobre 1996, n. 542, convertito con modificazioni dalla L. 23 dicembre 1996, n. 649, ha disposto (con l'art. 10, comma 2) che l'abrogazione degli articoli 1-ter e 1-quater della legge 26 giugno 1990, n. 162 (recante "Aggiornamento, modifiche ed integrazioni della legge 22 dicembre 1975, n. 685, recante disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza") "ha efficacia dall'entrata in vigore dei regolamenti previsti dal presente decreto, in relazione alle materie di rispettiva competenza".
 
-###### Art. 2
+#### Art. 2
 
 ((IL D.P.R. 9 OTTOBRE 1990 N. 309 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 3
+#### Art. 3
 
 Controllo e vigilanza
 
@@ -200,7 +200,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 4
+#### Art. 4
 
 Modalita' della vigilanza
 
@@ -222,7 +222,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 5
+#### Art. 5
 
 Obbligo di esibizione di documenti
 
@@ -234,7 +234,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 6
+#### Art. 6
 
 (((Opposizione alle ispezioni. Sanzioni)
 
@@ -252,7 +252,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 6-bis
+#### Art. 6-bis
 
 (((Attribuzioni del Ministro dell'interno)
 
@@ -262,7 +262,7 @@ a) esplica le funzioni di alta direzione dei servizi di polizia per la prevenzio
 
 b) partecipa, sul piano internazionale, salve le attribuzioni dei Ministri degli affari esteri e della sanita', ai rapporti con il Fondo delle Nazioni Unite per il controllo dell'abuto delle droghe (UNFDAC) con i competenti organismi della Comunita' economica europea e con qualsiasi altra organizzazione avente competenza nella materia di cui alla presente legge.))
 
-###### Art. 6-ter
+#### Art. 6-ter
 
 (((Servizio centrale antidroga)
 
@@ -274,7 +274,7 @@ b) partecipa, sul piano internazionale, salve le attribuzioni dei Ministri degli
 
 4\. Il servizio prestato dagli ufficiali dell'Arma dei carabinieri e della Guardia di finanza nell'ambito del Servizio centrale antidroga e' equivalente, agli effetti dello sviluppo della carriera, al periodo di comando, nei rispettivi gradi, presso i Corpi di appartenenza.))
 
-###### Art. 6-quater
+#### Art. 6-quater
 
 (((Uffici antidroga all'estero)
 
@@ -288,7 +288,7 @@ b) partecipa, sul piano internazionale, salve le attribuzioni dei Ministri degli
 
 5\. L'onere derivante dall'attuazione del presente articolo e' valutato in lire 4 miliardi in ragione d'anno a decorrere dal 1990 per le spese riguardanti il personale e in lire un miliardo per le spese di carattere funzionale relativamente al 1990)).
 
-###### Art. 7
+#### Art. 7
 
 ((ARTICOLO ABROGATO DALLA L. 1 APRILE 1981 N. 121)) ((2a))
 
@@ -298,15 +298,15 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 8
+#### Art. 8
 
 ((IL D.P.R. 9 OTTOBRE 1990 N. 309 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 9
+#### Art. 9
 
 ((IL D.P.R. 9 OTTOBRE 1990 N. 309 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 10
+#### Art. 10
 
 (((Consultazione e raccordo tra lo Stato, le Regioni e le
 
@@ -320,7 +320,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 11
+#### Art. 11
 
 Tabelle delle sostanze soggette a controllo
 
@@ -338,7 +338,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 12
+#### Art. 12
 
 Criteri per la formazione delle tabelle
 
@@ -396,7 +396,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 13
+#### Art. 13
 
 Adempimenti del Ministero della sanita' e delle regioni
 
@@ -410,7 +410,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 14
+#### Art. 14
 
 Elenco delle imprese autorizzate
 
@@ -424,7 +424,7 @@ La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U
 
 ## TITOLO II - DELLE AUTORIZZAZIONI
 
-###### Art. 15
+#### Art. 15
 
 Obbligo di autorizzazione
 
@@ -448,7 +448,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 16
+#### Art. 16
 
 Comunicazione dei decreti di autorizzazione
 
@@ -462,7 +462,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 17
+#### Art. 17
 
 Requisiti soggettivi per l'autorizzazione
 
@@ -482,7 +482,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 18
+#### Art. 18
 
 Rinnovo delle autorizzazioni
 
@@ -496,7 +496,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 19
+#### Art. 19
 
 Revoca e sospensione dell'autorizzazione
 
@@ -516,7 +516,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 20
+#### Art. 20
 
 Provvedimenti in caso di cessazione delle attivita' autorizzate
 
@@ -528,7 +528,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 21
+#### Art. 21
 
 Cessione o distruzione di sostanze stupefacenti o psicotrope
 
@@ -546,7 +546,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 22
+#### Art. 22
 
 Sostanze stupefacenti o psicotrope confiscate o acquisite
 
@@ -560,7 +560,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 23
+#### Art. 23
 
 (((Distruzione delle sostanze
 
@@ -574,27 +574,23 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 24
+#### Art. 24
 
 ((ARTICOLO ABROGATO DAL D.L. 22 APRILE 1985 N. 144, CONVERTITO CON
 
 MODIFICAZIONI DALLA L. 21 GIUGNO 1985 N. 297))
 
-###### Art. 25
+#### Art. 25
 
 ((ARTICOLO ABROGATO DAL D.L. 22 APRILE 1985 N. 144, CONVERTITO CON
 
 MODIFICAZIONI DALLA L. 21 GIUGNO 1985 N. 297))
 
-## TITOLO III - DISPOSIZIONI RELATIVE ALLA COLTIVAZIONE E PRODUZIONE, ALLA
+## TITOLO III - DISPOSIZIONI RELATIVE ALLA COLTIVAZIONE E PRODUZIONE, ALLA FABBRICAZIONE, ALL'IMPIEGO ED AL COMMERCIO ALL'INGROSSO DELLE SOSTANZE STUPEFACENTI O PSICOTROPE
 
-### FABBRICAZIONE, ALL'IMPIEGO ED AL COMMERCIO ALL'INGROSSO DELLE - SOSTANZE STUPEFACENTI O PSICOTROPE
+### Capo I - DELLA COLTIVAZIONE E PRODUZIONE
 
-#### Capo I
-
-##### DELLA COLTIVAZIONE E PRODUZIONE
-
-###### Art. 26
+#### Art. 26
 
 Coltivazioni e produzioni vietate
 
@@ -608,7 +604,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 27
+#### Art. 27
 
 Autorizzazione alla coltivazione
 
@@ -624,7 +620,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 28
+#### Art. 28
 
 Sanzioni
 
@@ -640,7 +636,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 29
+#### Art. 29
 
 Vigilanza sulla coltivazione, raccolta e produzione di stupefacenti
 
@@ -660,7 +656,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 30
+#### Art. 30
 
 Eccedenze di produzione
 
@@ -676,9 +672,9 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-## Capo II - DELLA FABBRICAZIONE
+### Capo II - DELLA FABBRICAZIONE
 
-###### Art. 31
+#### Art. 31
 
 Quote di fabbricazione
 
@@ -698,7 +694,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 32
+#### Art. 32
 
 Autorizzazione alla fabbricazione
 
@@ -728,7 +724,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 33
+#### Art. 33
 
 Idoneita' dell'officina ai fini della fabbricazione
 
@@ -748,7 +744,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 34
+#### Art. 34
 
 Controllo sui cicli di lavorazione
 
@@ -766,7 +762,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 35
+#### Art. 35
 
 Controllo sulle materie prime
 
@@ -782,9 +778,9 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-## Capo III - DELL'IMPIEGO
+### Capo III - DELL'IMPIEGO
 
-###### Art. 36
+#### Art. 36
 
 Autorizzazione all'impiego
 
@@ -802,9 +798,9 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-## Capo IV - DEL COMMERCIO ALL'INGROSSO
+### Capo IV - DEL COMMERCIO ALL'INGROSSO
 
-###### Art. 37
+#### Art. 37
 
 Autorizzazione al commercio all'ingrosso
 
@@ -834,11 +830,9 @@ La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U
 
 ## TITOLO IV - DISPOSIZIONI RELATIVE ALLA DISTRIBUZIONE
 
-### Capo I
+### Capo I - DELLA VENDITA, DELL'ACQUISTO E DELLA SOMMINISTRAZIONE
 
-#### DELLA VENDITA, DELL'ACQUISTO E DELLA SOMMINISTRAZIONE
-
-###### Art. 38
+#### Art. 38
 
 Vendita o cessione di sostanze stupefacenti o psicotrope
 
@@ -862,7 +856,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 39
+#### Art. 39
 
 Buoni acquisto
 
@@ -880,7 +874,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 40
+#### Art. 40
 
 Confezioni per la vendita
 
@@ -894,7 +888,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 41
+#### Art. 41
 
 Modalita' di consegna
 
@@ -920,7 +914,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 42
+#### Art. 42
 
 Acquisto di preparazioni di sostanze stupefacenti
 
@@ -940,7 +934,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 43
+#### Art. 43
 
 Obblighi dei medici chirurghi e dei medici veterinari
 
@@ -962,7 +956,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 44
+#### Art. 44
 
 Divieto di consegna a persona minore o inferma di mente
 
@@ -976,7 +970,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 45
+#### Art. 45
 
 Obblighi del farmacista
 
@@ -998,9 +992,9 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-## Capo II - DISCIPLINA PER I CASI DI APPROVVIGIONAMENTO OBBLIGATORIO
+### Capo II - DISCIPLINA PER I CASI DI APPROVVIGIONAMENTO OBBLIGATORIO
 
-###### Art. 46
+#### Art. 46
 
 Approvvigionamento e somministrazione a bordo delle navi mercantili
 
@@ -1022,7 +1016,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 47
+#### Art. 47
 
 Approvvigionamento e somministrazione nei cantieri di lavoro
 
@@ -1042,7 +1036,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 48
+#### Art. 48
 
 Approvvigionamento per le necessita' di pronto soccorso
 
@@ -1056,9 +1050,9 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-## Capo III - DELLA RICERCA SCIENTIFICA E SPERIMENTAZIONE
+### Capo III - DELLA RICERCA SCIENTIFICA E SPERIMENTAZIONE
 
-###### Art. 49
+#### Art. 49
 
 Istituti di ricerca scientifica
 
@@ -1088,7 +1082,7 @@ La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U
 
 ## TITOLO V - DELL'IMPORTAZIONE DELL'ESPORTAZIONE E DEL TRANSITO
 
-###### Art. 50
+#### Art. 50
 
 Disposizioni generali
 
@@ -1116,9 +1110,9 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-## Capo I - DELL'IMPORTAZIONE
+### Capo I - DELL'IMPORTAZIONE
 
-###### Art. 51
+#### Art. 51
 
 Domanda per il permesso di importazione
 
@@ -1130,7 +1124,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 52
+#### Art. 52
 
 Importazione
 
@@ -1148,7 +1142,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 53
+#### Art. 53
 
 Sdoganamento e bolletta di accompagnamento
 
@@ -1166,7 +1160,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 54
+#### Art. 54
 
 Prelevamento dei campioni
 
@@ -1194,7 +1188,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 55
+#### Art. 55
 
 Analisi dei campioni
 
@@ -1214,9 +1208,9 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-## Capo II - DELL'ESPORTAZIONE
+### Capo II - DELL'ESPORTAZIONE
 
-###### Art. 56
+#### Art. 56
 
 Domanda per il permesso di esportazione
 
@@ -1230,7 +1224,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 57
+#### Art. 57
 
 Esportazione
 
@@ -1252,9 +1246,9 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-## Capo III - DEL TRANSITO
+### Capo III - DEL TRANSITO
 
-###### Art. 58
+#### Art. 58
 
 Domanda per il permesso di transito
 
@@ -1276,7 +1270,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 59
+#### Art. 59
 
 Transito
 
@@ -1298,7 +1292,7 @@ La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U
 
 ## TITOLO VI - DELLA DOCUMENTAZIONE E CUSTODIA
 
-###### Art. 60
+#### Art. 60
 
 Registro di entrata e uscita
 
@@ -1312,7 +1306,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 61
+#### Art. 61
 
 Registro di entrata e di uscita per gli enti e le imprese
 
@@ -1332,7 +1326,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 62
+#### Art. 62
 
 Registro di entrata e uscita per gli enti o le imprese autorizzati
 
@@ -1348,7 +1342,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 63
+#### Art. 63
 
 Registro di lavorazione per gli enti e le imprese autorizzati
 
@@ -1366,7 +1360,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 64
+#### Art. 64
 
 Registro di carico e scarico per i medici chirurghi e i medici
 
@@ -1384,7 +1378,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 65
+#### Art. 65
 
 Obbligo di trasmissione di dati
 
@@ -1404,7 +1398,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 66
+#### Art. 66
 
 Trasmissione di notizie e dati trimestrali
 
@@ -1420,7 +1414,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 67
+#### Art. 67
 
 Perdita, smarrimento o sottrazione
 
@@ -1434,7 +1428,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 68
+#### Art. 68
 
 Registri di entrata e uscita, di lavorazione, di carico e scarico
 
@@ -1448,11 +1442,9 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-## TITOLO VII - PRESCRIZIONI PARTICOLARI RELATIVE ALLE SOSTANZE INDICATE NELLA IV, V
+## TITOLO VII - PRESCRIZIONI PARTICOLARI RELATIVE ALLE SOSTANZE INDICATE NELLA IV, V E NELLA VI TABELLA
 
-### E NELLA VI TABELLA
-
-###### Art. 69
+#### Art. 69
 
 Obbligo di trasmissione di dati e di segnalazioni
 
@@ -1472,7 +1464,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 69-bis
+#### Art. 69-bis
 
 (((Obbligo di fornire informazioni e dati al Servizio
 
@@ -1490,7 +1482,7 @@ per la produzione di sostanze stupefacenti o psicotrope)
 
 5\. Chiunque non adempie all'obbligo della comunicazione di cui al comma 2 e' punito con l'arresto fino ad un anno o con l'ammenda da lire cinquecentomila a lire cinque milioni. Il giudice, con la sentenza di condanna, puo' disporre la sospensione dell'autorizzazione a svolgere le attivita' di cui al comma 2 per un periodo non inferiore ad un mese e non superiore ad un anno. Puo' essere applicata la misura cautelare interdittiva della sospensione della detta autorizzazione per un periodo non superiore ad un anno.))
 
-###### Art. 69-ter
+#### Art. 69-ter
 
 (((Prescrizioni relative alla vendita)
 
@@ -1504,11 +1496,9 @@ per la produzione di sostanze stupefacenti o psicotrope)
 
 ## TITOLO VIII - DELLA REPRESSIONE DELLE ATTIVITA' ILLECITE
 
-### Capo I
+### Capo I - DISPOSIZIONI PENALI
 
-#### DISPOSIZIONI PENALI
-
-###### Art. 70
+#### Art. 70
 
 (((Attivita' illecite)
 
@@ -1522,7 +1512,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 71
+#### Art. 71
 
 (((Produzione e traffico illecito di sostanze
 
@@ -1548,7 +1538,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 71-bis
+#### Art. 71-bis
 
 (((Associazione finalizzata al traffico illecito di
 
@@ -1570,7 +1560,7 @@ L'associazione si considera armata quando i partecipanti hanno la disponibilita'
 
 7\. Le pene previste dai commi da 1 a 6 sono diminuite dalla meta' a due terzi per che si sia efficacemente adoperato per assicurare le prove del reato o per sottrarre all'associazione risorse decisive per la commissione dei delitti)).
 
-###### Art. 72
+#### Art. 72
 
 (((Sanzioni amministrative)
 
@@ -1610,7 +1600,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 72-bis
+#### Art. 72-bis
 
 (((Provvedimenti dell'autorita' giudiziaria. Sanzioni
 
@@ -1660,13 +1650,13 @@ Contro il decreto puo' essere proposto ricorso per cassazione. Il ricorso non so
 
 12\. Chiunque viola le prescrizioni imposte a norma del comma 1 e' punito con l'arresto fino a tre mesi o con l'ammenda fino a lire cinque milioni.))
 
-###### Art. 72-ter
+#### Art. 72-ter
 
 (((Abbandono di siringhe)
 
 1\. Chiunque in un luogo pubblico o aperto al pubblico, ovvero in un luogo privato ma di comune o altrui uso, getta o abbandona in modo da mettere a rischio l'incolumita' altrui siringhe o altri strumenti pericolosi utilizzati per l'assunzione di sostanze stupefacenti psicotrope e' punito con la sanzione amministrativa del pagamento di una somma da lire centomila a lire un milione.))
 
-###### Art. 72-quater
+#### Art. 72-quater
 
 (((Quantificazione delle sostanze)
 
@@ -1680,7 +1670,7 @@ c) i limiti quantitativi massimi di principio attivo per le dosi medie giornalie
 
 2\. Il decreto deve essere periodicamente aggiornato in relazione all'evoluzione delle conoscenze del settore)).
 
-###### Art. 73
+#### Art. 73
 
 (((Agevolazioni dell'uso di sostanze stupefacenti o
 
@@ -1704,7 +1694,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 74
+#### Art. 74
 
 (((Aggravanti specifiche)
 
@@ -1738,7 +1728,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 74-bis
+#### Art. 74-bis
 
 (((Prestazioni di soccorso nel caso di pericolo di
 
@@ -1746,11 +1736,11 @@ morte o lesioni dell'assuntore)
 
 1\. Quando l'uso di sostanze stupefacenti o psicotrope abbia cagionato la morte o lesioni personali dell'assuntore e taluno, per aver determinato o comunque agevolato l'uso di sostanze, debba risponderne ai sensi degli articoli 586, 589 o 590 del codice penale, le pene stabilite da tali articoli, nonche' quelle stabilite per i reati previsti dalla presente legge eventualmente commessi nella predetta attivita' da determinazione o agevolazione, sono ridotte dalla meta' a due terzi se il colpevole ha prestato assistenza alla persona offesa ed ha tempestivamente informato l'autorita' sanitaria o di polizia)).
 
-###### Art. 75
+#### Art. 75
 
 ((IL D.P.R. 9 OTTOBRE 1990 N. 309 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 76
+#### Art. 76
 
 (((Istigazione, proselitismo e induzione al reato di
 
@@ -1770,7 +1760,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 77
+#### Art. 77
 
 Prescrizioni abusive
 
@@ -1782,7 +1772,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 78
+#### Art. 78
 
 (((Divieto di propaganda pubblicitaria)
 
@@ -1798,7 +1788,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 79
+#### Art. 79
 
 (((Pene accessorie)
 
@@ -1814,17 +1804,17 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 80
+#### Art. 80
 
 ((IL D.P.R. 9 OTTOBRE 1990 N. 309 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
 
-###### Art. 80-bis
+#### Art. 80-bis
 
 ((IL D.P.R. 9 OTTOBRE 1990 N. 309 HA CONFERMATO L'ABROGAZIONE DEL
 
 PRESENTE ARTICOLO))
 
-###### Art. 80-ter
+#### Art. 80-ter
 
 (((Destinazione delle sostanze sequestrate
 
@@ -1834,7 +1824,7 @@ L'autorita' che effettua il sequestro deve darne immediata notizia al servizio c
 
 Per la distruzione di sostanze stupefacenti e psicotrope l'autorita' giudiziaria si avvale di idonea struttura pubblica locale, ove esistente, o statale ed incarica la polizia giudiziaria del regolare svolgimento delle relative operazioni. Il verbale delle operazioni e' trasmesso all'autorita' giudiziaria procedente e al Ministero della sanita'. La distruzione avviene secondo le modalita' tecniche determinate con decreto del Ministro della sanita' da emanarsi entro trenta giorni dalla data di entrata in vigore della legge di conversione del decreto-legge 22 aprile 1985, n. 144)).
 
-###### Art. 80-quater
+#### Art. 80-quater
 
 (((Destinazione dei campioni delle sostanze
 
@@ -1842,7 +1832,7 @@ sequestrate)
 
 Il servizio centrale antidroga, istituito nell'ambito del Dipartimento di pubblica sicurezza, puo' chiedere all'autorita' giudiziaria la consegna di alcuni campioni delle sostanze sequestrate. Altri campioni possono essere motivatamente richiesti dalle singole forze di polizia o dal Ministero della sanita' tramite il servizio centrale antidroga. L'autorita' giudiziaria, se la quantita' delle sostanze sequestrate lo consente, e se le richieste sono pervenute prima della esecuzione dell'ordine di distruzione, accoglie le richieste stesse dando la priorita' a quelle del servizio centrale antidroga e determina le modalita' della consegna)).
 
-###### Art. 81
+#### Art. 81
 
 (((Espulsione dello straniero condannato)
 
@@ -1858,15 +1848,15 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-## Capo II - DISPOSIZIONI PROCESSUALI E DI ESECUZIONE
+### Capo II - DISPOSIZIONI PROCESSUALI E DI ESECUZIONE
 
-###### Art. 82
+#### Art. 82
 
 ((Il D.P.R. 9 OTTOBRE 1990 N. 309 HA CONFERMATO L'ABROGAZIONE DEL
 
 PRESENTE ARTICOLO))
 
-###### Art. 82-bis
+#### Art. 82-bis
 
 (((Sospensione dell'esecuzione di pena detentiva)
 
@@ -1878,7 +1868,7 @@ PRESENTE ARTICOLO))
 
 4\. La sospensione della esecuzione della pena non puo' essere concessa piu' di una volta ed il tribunale ai fini dell'accertamento dei presupposti di cui al comma 1 puo' tener conto cumulativamente di pene detentive inflitte con piu' condanne divenute definitive anteriormente alla domanda di cui all'articolo 82-ter, comma 1.))
 
-###### Art. 82-ter
+#### Art. 82-ter
 
 (((Istanza per la sospensione dell'esecuzione)
 
@@ -1890,7 +1880,7 @@ PRESENTE ARTICOLO))
 
 4\. Il disposto del comma 3 si applica anche quando l'istanza e' presentata dopo che l'ordine di carcerazione e' stato eseguito. In tal caso il pubblico ministero ordina la scarcerazione del condannato se non osta il limite di pena di cui al comma 1 dell'articolo 82-bis.))
 
-###### Art. 82-quater
+#### Art. 82-quater
 
 (((Procedimento innanzi alla sezione di
 
@@ -1902,7 +1892,7 @@ sorveglianza)
 
 3\. Dell'ordinanza che conclude il procedimento e' data immediata comunicazione al pubblico ministero o al pretore competente per l'esecuzione. il quale, se la sospensione non e' concessa, emette ordine di carcerazione.))
 
-###### Art. 82-quinquies
+#### Art. 82-quinquies
 
 (((Estinzione del reato. Revoca della
 
@@ -1912,13 +1902,13 @@ sospensione.)
 
 2\. La sospensione dell'esecuzione e' revocata di diritto se il condannato si sottrae al programma senza giustificato motivo, ovvero se, nel termine di cui al comma 1, commette un delitto non colposo per cui viene inflitta la pena della reclusione)).
 
-###### Art. 83
+#### Art. 83
 
 ((Il D.P.R. 9 OTTOBRE 1990 N. 309 HA CONFERMATO L'ABROGAZIONE DEL
 
 PRESENTE ARTICOLO))
 
-###### Art. 84
+#### Art. 84
 
 Trattamento dei detenuti abitualmente dediti all'uso di sostanze stupefacenti o psicotrope
 
@@ -1934,9 +1924,9 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-## ((Capo III - DISPOSIZIONI SULL'ATTIVITA' DI POLIZIA GIUDIZIARIA))
+### ((Capo III - DISPOSIZIONI SULL'ATTIVITA' DI POLIZIA GIUDIZIARIA))
 
-###### Art. 84-bis
+#### Art. 84-bis
 
 (((Aquisto simulato di droga)
 
@@ -1944,7 +1934,7 @@ La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U
 
 2\. Dell'acquisto di sostanze stupefacenti o psicotrope e' data immediata e dettagliata comunicazione al Servizio centrale antidroga ed all'autorita' giudiziaria. Questa, se richiesta dalla polizia giudiziaria, puo' con decreto motivato, differire il sequestro fino alla conclusione delle indagini.))
 
-###### Art. 84-ter
+#### Art. 84-ter
 
 (((Ritardo o omissione degli atti di cattura, di arresto
 
@@ -1958,7 +1948,7 @@ o di sequestro. Collaborazione internazionale)
 
 4\. Nei casi di urgenza le disposizioni di cui ai commi 1, 2 e 3 possono essere richieste od impartite anche oralmente, ma il relativo provvedimento deve essere emesso entro le successive ventiquattro ore.))
 
-###### Art. 84-quater
+#### Art. 84-quater
 
 (((Perquisizione e cattura di navi ed aeromobili
 
@@ -1970,7 +1960,7 @@ sospetti di attendere al traffico illecito di sostanze stupefacenti o psicotrope
 
 3\. Le disposizioni dei commi 1 e 2 si applicano, in quanto compatibili, anche agli aeromobili.))
 
-###### Art. 84-quinquies
+#### Art. 84-quinquies
 
 (((Destinazione di beni sequestrati o confiscati
 
@@ -1986,7 +1976,7 @@ a seguito di operazioni antidroga)
 
 5\. Le somme di denaro costituenti il ricavato della vendita dei beni confiscati affluiscono ad apposito capitolo delle entrate del bilancio dello Stato per essere riassegnate, in parti uguali, sulla base specifiche richieste, ai pertinenti capitoli degli stati di previsione del Ministero dell'interno, che provvede alle erogazioni di competenza ai sensi del decreto-legge 22 aprile 1985, n. 144, convertito, con modificazioni, dalla legge 21 giugno 1985, n. 297, e del Ministero della sanita' con vincolo di destinazione per le attivita' di recupero dei soggetti tossicodipendenti.))
 
-###### Art. 84-sexies
+#### Art. 84-sexies
 
 (((Destinazione dei valori confiscati a seguito di
 
@@ -2000,7 +1990,7 @@ operazioni antidroga)
 
 4\. Ai fini del presente articolo le somme di cui al comma 1 affluiscono ad apposito capitolo delle entrate del bilancio dello Stato per essere assegnate, sulla base di specifiche richieste, ai pertinenti capitoli dello stato di previsione del Ministero dell'interno - rubrica "Sicurezza pubblica")).
 
-###### Art. 84-septies
+#### Art. 84-septies
 
 (((Notizie di procedimenti penali)
 
@@ -2012,7 +2002,7 @@ operazioni antidroga)
 
 4\. Se l'autorita' giudiziaria ritiene di non poter derogare al segreto di cui all'articolo 329 del codice di procedura penale, dispone con decreto mitivato che la trasmissione sia procrastinata per il tempo strettamente necessario.))
 
-###### Art. 84-octies
+#### Art. 84-octies
 
 (((Controlli ed ispezioni)
 
@@ -2026,11 +2016,9 @@ operazioni antidroga)
 
 ## TITOLO IX - INTERVENTI INFORMATIVI ED EDUCATIVI
 
-### ((Capo I
+### ((Capo I - DISPOSIZIONI RELATIVE AL SETTORE SCOLASTICO))
 
-#### DISPOSIZIONI RELATIVE AL SETTORE SCOLASTICO))
-
-###### Art. 85
+#### Art. 85
 
 (((Promozione e coordinamento, a livello nazionale, delle
 
@@ -2062,7 +2050,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 86
+#### Art. 86
 
 (((Promozione e coordinamento, a livello provinciale, delle
 
@@ -2094,7 +2082,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 87
+#### Art. 87
 
 (((Centri di informazione e consulenza nelle scuole.
 
@@ -2116,37 +2104,35 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-## ((Capo II - DISPOSIZIONI RELATIVE ALLE FORZE ARMATE))
+### ((Capo II - DISPOSIZIONI RELATIVE ALLE FORZE ARMATE))
 
-###### Art. 88
-
-((ARTICOLO ABROGATO DAL D. LGS. 25 MARZO 2010, N. 66))
-
-###### Art. 89
+#### Art. 88
 
 ((ARTICOLO ABROGATO DAL D. LGS. 25 MARZO 2010, N. 66))
 
-###### Art. 89-bis
+#### Art. 89
 
 ((ARTICOLO ABROGATO DAL D. LGS. 25 MARZO 2010, N. 66))
 
-###### Art. 89-ter
+#### Art. 89-bis
 
 ((ARTICOLO ABROGATO DAL D. LGS. 25 MARZO 2010, N. 66))
 
-###### Art. 89-quater
+#### Art. 89-ter
 
 ((ARTICOLO ABROGATO DAL D. LGS. 25 MARZO 2010, N. 66))
 
-###### Art. 89-quinquies
+#### Art. 89-quater
 
 ((ARTICOLO ABROGATO DAL D. LGS. 25 MARZO 2010, N. 66))
 
-## TITOLO X - ((ATTRIBUZIONI REGIONALI, PROVINCIALI E LOCALI.
+#### Art. 89-quinquies
 
-### SERVIZI PER LE TOSSICODIPENDENZE))
+((ARTICOLO ABROGATO DAL D. LGS. 25 MARZO 2010, N. 66))
 
-###### Art. 90
+## TITOLO X - ((ATTRIBUZIONI REGIONALI, PROVINCIALI E LOCALI. SERVIZI PER LE TOSSICODIPENDENZE))
+
+#### Art. 90
 
 (((Prevenzione ed interventi da parte delle Regioni e delle
 
@@ -2178,7 +2164,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 91
+#### Art. 91
 
 (((Compiti di assistenza degli enti locali)
 
@@ -2198,7 +2184,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 92
+#### Art. 92
 
 (((Enti ausiliari)
 
@@ -2212,7 +2198,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 93
+#### Art. 93
 
 (((Albi regionali e provinciali)
 
@@ -2252,7 +2238,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 94
+#### Art. 94
 
 (((Convenzioni)
 
@@ -2272,7 +2258,7 @@ La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U
 
 ## TITOLO XI - INTERVENTI PREVENTIVI, CURATIVI E RIABILITATIVI
 
-###### Art. 95
+#### Art. 95
 
 (((Terapia volontaria e anonimato)
 
@@ -2300,7 +2286,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 96
+#### Art. 96
 
 (((Segnalazioni al servizio pubblico per le
 
@@ -2318,7 +2304,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 97
+#### Art. 97
 
 (((Definizione del programma terapeutico e
 
@@ -2340,7 +2326,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 98
+#### Art. 98
 
 (((Verifica del trattamento in regime di sospensione del
 
@@ -2354,7 +2340,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 99 - Lavoratori tossicodipendenti
+#### Art. 99 - Lavoratori tossicodipendenti
 
 1\. I lavoratori di cui viene accertato lo stato di tossicodipendenza, i quali intendono accedere ai programmi terapeutici e di riabilitazione presso i servizi sanitari delle unita' sanitarie locali o di altre strutture terapeutico-riabilitative e socio-assistenziali, se assunti a tempo indeterminato hanno diritto alla conservazione del posto di lavoro per il tempo in cui la sospensione delle prestazioni lavorative e' dovuta all'esecuzione del trattamento riabilitativo e, comunque, per un periodo non superiore a tre anni.
 
@@ -2370,7 +2356,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 100
+#### Art. 100
 
 (((Accertamenti di assenza di tossicodipendenza)
 
@@ -2388,7 +2374,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 101
+#### Art. 101
 
 (((Prestazioni socio-sanitarie per detenuti)
 
@@ -2402,7 +2388,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 102
+#### Art. 102
 
 (((Assistenza ai tossicodipendenti italiani all'estero)
 
@@ -2416,7 +2402,7 @@ La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U
 
 ## TITOLO XII - ((DISPOSIZIONI VARIE E FINALI))
 
-###### Art. 103
+#### Art. 103
 
 (((Inasprimento delle pene pecuniarie)
 
@@ -2428,7 +2414,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 104
+#### Art. 104
 
 (((Integrazione dell'articolo 362, secondo comma, del
 
@@ -2442,7 +2428,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 105
+#### Art. 105
 
 (((Modifica dell'articolo 4 della legge 20 febbraio 1958, n. 75)
 
@@ -2454,7 +2440,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 106
+#### Art. 106
 
 (((Fondo nazionale di intervento per la lotta alla droga)
 
@@ -2496,7 +2482,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 107
+#### Art. 107
 
 (((Contributi)
 
@@ -2514,7 +2500,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 108
+#### Art. 108
 
 (((Concessione di strutture)
 
@@ -2544,7 +2530,7 @@ AGGIORNAMENTO (2a)
 
 La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U. 1a s.s. 02/03/1983, n. 60) ha dichiarato l'illegittimita' costituzionale della presente legge nelle parti concernenti le attribuzioni delle regioni, in cui, relativamente all'ambito territoriale del Trentino-Alto Adige, non statuisce che dette attribuzioni spettano alle province di Trento e Bolzano.
 
-###### Art. 109
+#### Art. 109
 
 (((Concessione delle strutture degli enti locali)
 
@@ -2552,7 +2538,7 @@ La Corte Costituzionale, con sentenza 28 gennaio-22 febbraio 1983, n. 31 (in G.U
 
 2\. L'uso e' disciplinato con apposita convenzione che ne fissa la durata, stabilisce le modalita' di controllo sulla utilizzazione del bene e le cause di risoluzione del rapporto, e disciplina le modalita' di autorizzazione ad apportare modificazioni o addizioni al bene, anche mediante utilizzazione dei contributi di cui all'articolo 107.))
 
-###### Art. 110
+#### Art. 110
 
 (((Abrogazioni)
 

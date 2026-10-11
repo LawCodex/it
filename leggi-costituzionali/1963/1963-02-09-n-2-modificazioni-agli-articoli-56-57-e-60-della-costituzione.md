@@ -25,7 +25,7 @@ PROMULGA
 
 la seguente legge costituzionale:
 
-### Art. 1
+## Art. 1
 
 L'articolo 56 della Costituzione e' sostituito dal seguente:
 
@@ -37,7 +37,7 @@ Sono eleggibili a deputati tutti gli elettori che nel giorno delle elezioni hann
 
 La ripartizione dei seggi tra le circoscrizioni si effettua dividendo il numero degli abitanti della Repubblica, quale risulta dall'ultimo censimento generale della popolazione, per seicentotrenta e distribuendo i seggi in proporzione alla popolazione di ogni circoscrizione, sulla base dei quozienti interi e dei piu' alti resti".
 
-### Art. 2
+## Art. 2
 
 L'articolo 57 della Costituzione e' sostituito dal seguente:
 
@@ -51,7 +51,7 @@ La Valle d'Aosta ha un solo senatore.
 
 La ripartizione dei seggi tra le Regioni, previa applicazione delle disposizioni del precedente - comma, si effettua in proporzione alla popolazione delle Regioni, quale risulta dall'ultimo censimento generale, sulla base dei quozienti interi e dei piu' alti resti".
 
-### Art. 3
+## Art. 3
 
 L'articolo 60 della Costituzione e' sostituito dal seguente:
 
@@ -61,11 +61,11 @@ La durata di ciascuna Camera non puo' essere prorogata se non per legge e soltan
 
 ## DISPOSIZIONI TRANSITORIE E FINALI
 
-### Art. 4
+## Art. 4
 
 Fino all'entrata in vigore dello Statuto speciale della Regione Friuli-Venezia Giulia dai trecentoquindici seggi di senatore da assegnare alle Regioni, saranno previamente detratti i tre seggi di senatore previsti dall'articolo 1 della, legge costituzionale 9 marzo 1961, n. 1.
 
-### Art. 5
+## Art. 5
 
 La presente legge costituzionale, entra in vigore con la prima convocazione dei comizi elettorali successiva alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica.
 

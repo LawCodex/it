@@ -116,7 +116,7 @@ Durante il tempo in cui i beni suddetti rimangono in possesso della cassa, lo St
 
 Le competenze dei notai sugli atti stipulati per la Cassa provinciale e le Casse agrarie sono ridotte alla meta' di quelle fissate dalla legge in vigore.
 
-## Capo II. - Provvedimenti per l'agricoltura e per la conservazione dei boschi.
+### Capo II. - Provvedimenti per l'agricoltura e per la conservazione dei boschi.
 
 #### Art. 5
 
@@ -138,7 +138,7 @@ La spesa delle ispezioni tecniche, per il taglio generale o parziale dei boschi 
 
 Sono dichiarati inalienabili o passeranno in consegna all'ispezione forestale i boschi di proprieta' demaniale esistenti in Basilicata.
 
-## Capo III. - Opere pubbliche
+### Capo III. - Opere pubbliche
 
 #### Art. 10
 
@@ -276,7 +276,7 @@ Il D.P.R. 8 giugno 2001, n. 327, come modificato dal D.Lgs. 27 dicembre 2002, n.
 
 ((ARTICOLO ABROGATO DALLA L. 25 GIUGNO 1909, N. 422))
 
-## Capo IV. - Amministrazione.
+### Capo IV. - Amministrazione.
 
 #### Art. 24
 
@@ -354,7 +354,7 @@ Le somme, che per una o piu' categorie di lavori fossero stanziate in meno in un
 
 E' soppressa la Commissione centrale consultiva istituita dall'art. 92 della legge 31 marzo 1904, n. 140.
 
-## Capo V. - Provvedimenti tributari.
+### Capo V. - Provvedimenti tributari.
 
 #### Art. 34
 

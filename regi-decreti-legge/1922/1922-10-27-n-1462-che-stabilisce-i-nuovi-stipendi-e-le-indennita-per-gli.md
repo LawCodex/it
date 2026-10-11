@@ -150,7 +150,7 @@ A favore dei mutilati ed invalidi di guerra, ascritti alle prime sei categorie, 
 
 ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
-## Capo II. - Paghe e stipendi dei sottufficiali
+### Capo II. - Paghe e stipendi dei sottufficiali
 
 #### Art. 18
 

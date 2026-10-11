@@ -135,7 +135,7 @@ Se il convenuto non e' domiciliato nel territorio di uno Stato contraente, la co
 
 Chiunque abbia il domicilio nel territorio di uno Stato contraente puo', indipendentemente dalla propria nazionalita' ed al pari dei cittadini di detto Stato, invocare nei confronti del convenuto le norme sulla competenza in vigore nello Stato medesimo, segnatamente quelle contemplate dall'articolo 3, secondo comma.
 
-## Sezione 2 - - Competenze speciali
+### Sezione 2 - - Competenze speciali
 
 #### Articolo 5
 
@@ -177,7 +177,7 @@ di un terzo nel processo, davanti al giudice presso il quale e' stata proposta l
 
 dal contratto o dal titolo su cui si fonda la domanda principale, davanti al giudice presso il quale e' stata proposta la domanda principale.
 
-## Sezione 3 - - Competenza in materia di assicurazioni
+### Sezione 3 - - Competenza in materia di assicurazioni
 
 #### Articolo 7
 
@@ -223,9 +223,7 @@ all'assicurato o al beneficiario di adire un organo giurisdizionale diverso da q
 
 assicuratore aventi entrambi il domicilio nel medesimo Stato contraente, hanno per effetto, anche nel caso in cui lo evento dannoso si producesse all'estero, di attribuire la competenza ai giudici di tale Stato, sempreche' la legge di quest'ultimo non vieti dette convenzioni.
 
-## Sezione 4 - - Competenza in materia di vendita rateale
-
-### e prestito con rimborso rateizzato
+### Sezione 4 - - Competenza in materia di vendita rateale e prestito con rimborso rateizzato
 
 #### Articolo 13
 
@@ -253,7 +251,7 @@ organo giurisdizionale diverso da quelli indicati nella presente sezione o
 
 mutuante e il mutuatario aventi entrambi il domicilio o la residenza abituale nel medesimo Stato contraente, attribuiscono la competenza ai giudici di tale Stato, sempreche' la legge di quest'ultimo non vieti dette convenzioni.
 
-## Sezione 5 - - Competenze esclusive
+### Sezione 5 - - Competenze esclusive
 
 #### Articolo 16
 
@@ -285,7 +283,7 @@ effettuati o sono reputati essere stati effettuati a norma di una convenzione in
 
 Stato contraente nel cui territorio ha luogo l'esecuzione.
 
-## Sezione 6 - - Proroga di competenza
+### Sezione 6 - - Proroga di competenza
 
 #### Articolo 17
 
@@ -301,7 +299,7 @@ Al di fuori dei casi in cui la sua competenza risulta da altre disposizioni dell
 
 Tale norma non e' applicabile se la comparizione avviene solo per eccepire la incompetenza o se esiste un'altra giurisdizione esclusivamente competente ai sensi dell'articolo 16.
 
-## Sezione 7 - - Esame della competenza e della ricevibilita' dell'azione
+### Sezione 7 - - Esame della competenza e della ricevibilita' dell'azione
 
 #### Articolo 19
 
@@ -315,7 +313,7 @@ Al giudice e' fatto obbligo di sospendere il processo fin quando non si sara' ac
 
 Le disposizioni del comma precedente saranno sostituite da quelle dell'articolo 15 della Convenzione dell'Aja del 15 novembre 1965 sulla notificazione e sulla comunicazione all'estero degli atti giudiziari ed extragiudiziari, in materia civile o commerciale, qualora sia stato necessario trasmettere la domanda giudiziale in esecuzione della suddetta Convenzione.
 
-## Sezione 8 - - Litispendenza e connessione
+### Sezione 8 - - Litispendenza e connessione
 
 #### Articolo 21
 
@@ -335,7 +333,7 @@ Ai sensi del presente articolo sono connesse le cause aventi tra di loro un lega
 
 Qualora la competenza esclusiva a conoscere delle domande spetti a piu' giudici, quello successivamente adito deve spogliarsi della causa in favore del giudice preventivamente adito.
 
-## Sezione 9 - - Provvedimenti provvisori e cautelari
+### Sezione 9 - - Provvedimenti provvisori e cautelari
 
 #### Articolo 24
 
@@ -347,7 +345,7 @@ I provvedimenti provvisori o cautelari, previsti dalla legge di uno Stato contra
 
 Ai sensi della presente Convenzione, per decisione si intende, a prescindere dalla denominazione usata, qualsiasi decisione resa da un organo giurisdizionale di uno Stato contraente, quale ad esempio decreto, sentenza, ordinanza o mandato di esecuzione, nonche' la determinazione da parte del cancelliere delle spese giudiziali.
 
-## Sezione 1 - - Del riconoscimento
+### Sezione 1 - - Del riconoscimento
 
 #### Articolo 26
 
@@ -387,7 +385,7 @@ In nessun caso, la decisione straniera puo' formare oggetto di un riesame del me
 
 L'autorita' giudiziaria di uno Stato contraente, davanti alla quale e' chiesto il riconoscimento di una decisione resa in un altro Stato contraente, puo' sospendere il procedimento se la decisione in questione e' stata impugnata.
 
-## Sezione 2 - - Dell'esecuzione
+### Sezione 2 - - Dell'esecuzione
 
 #### Articolo 31
 
@@ -519,7 +517,7 @@ L'istante ammesso al beneficio dell'assistenza giudiziaria nello Stato in cui la
 
 Alla parte che domanda l'esecuzione in uno Stato contraente di una decisione resa in un altro Stato contraente non puo' essere imposta nessuna cauzione o deposito, indipendentemente dalla relativa denominazione, a causa della qualita' di straniero o per difetto di domicilio o residenza nel paese.
 
-## Sezione 3 - - Disposizioni comuni
+### Sezione 3 - - Disposizioni comuni
 
 #### Articolo 46
 

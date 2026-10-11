@@ -30,25 +30,25 @@ Promulga
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Autorizzazione alla ratifica
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la Convenzione dell'Organizzazione internazionale del lavoro (OIL) n. 190 sull'eliminazione della violenza e delle molestie sul luogo di lavoro, adottata a Ginevra il 21 giugno 2019 nel corso della 108ª sessione della Conferenza generale dell'OIL.
 
-### Art. 2
+## Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data alla Convenzione di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 14 della Convenzione stessa.
 
-### Art. 3
+## Art. 3
 
 Clausola di invarianza finanziaria
 
 1\. Dall'attuazione della presente legge non devono derivare nuovi o maggiori oneri per la finanza pubblica. Le amministrazioni interessate vi provvedono nell'ambito delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
-### Art. 4
+## Art. 4
 
 Entrata in vigore
 
@@ -66,7 +66,7 @@ Visto, il Guardasigilli: Bonafede
 
 ## Allegati
 
-### Convention 190
+## Convention 190
 
 International Labour Conference
 
@@ -144,7 +144,7 @@ Avendo deciso che dette proposte assumeranno la forma di una Convenzione interna
 
 adotta oggi, ventuno giugno duemiladiciannove la seguente Convenzione, che sara' denominata Convenzione sulla violenza e sulle molestie, 2019.
 
-### Articolo 1
+## Articolo 1
 
 1\. Ai fini della presente Convenzione:
 
@@ -160,13 +160,13 @@ b) l'espressione «violenza e molestie di genere» indica la violenza e le moles
 
 ## II. AMBITO DI APPLICAZIONE
 
-### Articolo 2
+## Articolo 2
 
 1\. La presente Convenzione protegge i lavoratori e altri soggetti nel mondo del lavoro, ivi compresi i lavoratori come definiti in base alle pratiche e al diritto nazionale, oltre a persone che lavorino indipendentemente dallo status contrattuale, le persone in formazione, inclusi i tirocinanti e gli apprendisti, i lavoratori licenziati, i volontari, le persone alla ricerca di un impiego e i candidati a un lavoro, e individui che esercitino l'autorita', i doveri e le responsabilita' di un datore di lavoro.
 
 2\. La presente Convenzione si applica a tutti i settori, sia privati che pubblici, nell'economia formale e informale, in aree urbane o rurali.
 
-### Articolo 3
+## Articolo 3
 
 La presente Convenzione si applica alla violenza e alle molestie nel mondo del lavoro che si verifichino in occasione di lavoro, in connessione con il lavoro o che scaturiscano dal lavoro:
 
@@ -184,7 +184,7 @@ f) durante gli spostamenti per recarsi al lavoro e per il rientro dal lavoro.
 
 ## III. PRINCIPI FONDAMENTALI
 
-### Articolo 4
+## Articolo 4
 
 1\. A seguito della ratifica della presente Convenzione, i Membri sono tenuti a rispettare, promuovere e attuare il diritto di tutti ad un mondo del lavoro libero dalla violenza e dalle molestie.
 
@@ -208,21 +208,21 @@ h) la garanzia di meccanismi di ispezione e di indagine efficaci per i casi di v
 
 3\. Attraverso l'adozione e l'attuazione dell'approccio di cui al paragrafo 2 del presente articolo, ciascun Membro riconosce i ruoli e le funzioni, diversi e complementari, di governi nonche' di datori di lavoro e lavoratori e delle rispettive organizzazioni, tenendo conto della diversita' della natura e della portata delle rispettive responsabilita'.
 
-### Articolo 5
+## Articolo 5
 
 Nell'ottica della prevenzione e dell'eliminazione della violenza e delle molestie nel mondo del lavoro, ciascun Membro si impegna a rispettare, promuovere e attuare i principi e i diritti fondamentali sul lavoro, con particolare riferimento alla liberta' di associazione e all'effettivo riconoscimento del diritto alla contrattazione collettiva, l'eliminazione di tutte le forme di lavoro forzato o obbligatorio, l'effettiva abolizione del lavoro minorile e l'eliminazione della discriminazione in materia di impiego e professione, oltre a promuovere il lavoro dignitoso.
 
-### Articolo 6
+## Articolo 6
 
 Ciascun Membro si impegna ad adottare leggi, regolamenti e politiche che garantiscano il diritto alla parita' e alla non discriminazione in materia di impiego e professione, ivi compreso per le lavoratrici, come pure per i lavoratori e per altri soggetti appartenenti ad uno o piu' gruppi vulnerabili o a gruppi in situazioni di vulnerabilita' che risultino sproporzionatamente colpiti da violenza e molestie nel mondo del lavoro.
 
 ## IV. PROTEZIONE E PREVENZIONE
 
-### Articolo 7
+## Articolo 7
 
 Fatto salvo quanto stabilito all'articolo 1 e coerentemente con lo stesso, ciascun Membro si impegna ad adottare leggi e regolamenti che definiscano e proibiscano la violenza e le molestie nel mondo del lavoro, inclusi violenza e molestie di genere.
 
-### Articolo 8
+## Articolo 8
 
 Ciascun Membro dovra' assumere misure adeguate atte a prevenire la violenza e le molestie nel mondo del lavoro, ivi compreso:
 
@@ -232,7 +232,7 @@ b) l'identificazione, in consultazione con le organizzazioni dei datori di lavor
 
 c) l'adozione di misure che garantiscano una protezione efficace di tali soggetti.
 
-### Articolo 9
+## Articolo 9
 
 Ciascun Membro dovra' adottare leggi e regolamenti che richiedano ai datori di lavoro di intraprendere misure adeguate e proporzionate al rispettivo livello di controllo in materia di prevenzione della violenza e delle molestie nel mondo del lavoro, ivi compresi la violenza e le molestie di genere, e in particolare, nella misura in cui sia ragionevolmente fattibile, attraverso quanto segue:
 
@@ -246,7 +246,7 @@ d) l'erogazione di informazioni e formazione ai lavoratori e ad altri soggetti i
 
 ## V. VERIFICA DELL'APPLICAZIONE E MECCANISMI DI RICORSO E DI RISARCIMENTO
 
-### Articolo 10
+## Articolo 10
 
 Ciascun Membro dovra' adottare misure adeguate al fine di:
 
@@ -278,7 +278,7 @@ h) garantire che gli ispettorati del lavoro e le altre autorita' competenti, a s
 
 ## VI. ORIENTAMENTO, FORMAZIONE E SENSIBILIZZAZIONE
 
-### Articolo 11
+## Articolo 11
 
 In consultazione con le organizzazioni di rappresentanza dei datori di lavoro e dei lavoratori, ciascun Membro e' tenuto ad adoperarsi al fine di garantire che:
 
@@ -290,17 +290,17 @@ c) vengano attuate iniziative in materia, tra cui campagne di sensibilizzazione.
 
 ## VII. MODALITÀ DI APPLICAZIONE
 
-### Articolo 12
+## Articolo 12
 
 Le disposizioni della presente Convenzione si applicano attraverso leggi e regolamenti nazionali, come pure tramite contratti collettivi o altre misure conformi alle procedure nazionali, includendovi l'ampliamento o l'adattamento delle misure esistenti in materia di salute e sicurezza sul lavoro affinche' prevedano la violenza e le molestie, nonche' tramite lo sviluppo di misure specifiche, laddove necessario.
 
 ## VIII. DISPOSIZIONI FINALI
 
-### Articolo 13
+## Articolo 13
 
 Le ratifiche formali della presente Convenzione dovranno essere comunicate per la registrazione al Direttore Generale dell'Ufficio Internazionale del Lavoro.
 
-### Articolo 14
+## Articolo 14
 
 1\. La presente Convenzione sara' vincolante per i soli Membri dell'Organizzazione Internazionale del Lavoro la cui ratifica sara' stata registrata dal Direttore Generale dell'Ufficio Internazionale del Lavoro.
 
@@ -308,27 +308,27 @@ Le ratifiche formali della presente Convenzione dovranno essere comunicate per l
 
 3\. In seguito, questa Convenzione entrera' in vigore per ciascun Membro dodici mesi dopo la data di registrazione della ratifica.
 
-### Articolo 15
+## Articolo 15
 
 1\. Ogni Membro che ha ratificato la presente Convenzione puo' denunciarla allo scadere di un periodo di dieci anni dopo la data iniziale di entrata in vigore della Convenzione, mediante un atto comunicato al Direttore Generale dell'Ufficio Internazionale del Lavoro per la registrazione. Tale denuncia non avra' effetto fino a un anno dopo la data in cui e' stata registrata.
 
 2\. Ogni Membro che ha ratificato la presente Convenzione e che, nel termine di un anno dopo lo scadere del periodo di dieci anni di cui al paragrafo precedente, non si avvale della facolta' di denuncia prevista dal presente articolo sara' vincolato per un nuovo periodo di dieci anni ed in seguito potra' denunciare la presente Convenzione durante il primo anno di ciascun nuovo periodo di dieci anni alle condizioni previste nel presente articolo.
 
-### Articolo 16
+## Articolo 16
 
 1\. Il Direttore Generale dell'Ufficio Internazionale del Lavoro dovra' notificare a tutti i Membri dell'Organizzazione Internazionale del Lavoro la registrazione di tutte le ratifiche e di tutti gli atti di denuncia comunicati dai Membri dell'Organizzazione.
 
 2\. Nel notificare ai Membri dell'Organizzazione la registrazione della seconda ratifica che gli sara' stata comunicata, il Direttore Generale richiamera' l'attenzione dei Membri dell'Organizzazione sulla data in cui la presente Convenzione entrera' in vigore.
 
-### Articolo 17
+## Articolo 17
 
 Il Direttore Generale dell'Ufficio Internazionale del Lavoro dovra' comunicare al Segretario Generale delle Nazioni Unite, ai fini della registrazione conformemente all'articolo 102 dello Statuto delle Nazioni Unite, informazioni complete riguardo a tutte le ratifiche ed a tutti gli atti di denuncia registrati conformemente agli articoli precedenti.
 
-### Articolo 18
+## Articolo 18
 
 Ogniqualvolta lo ritenga necessario, il Consiglio di amministrazione dell'Ufficio Internazionale del Lavoro dovra' presentare alla Conferenza generale un rapporto sull'applicazione della presente Convenzione e dovra' considerare l'opportunita' di inserire la questione della sua revisione totale o parziale all'ordine del giorno della Conferenza.
 
-### Articolo 19
+## Articolo 19
 
 1\. Qualora la Conferenza adotti una nuova convenzione che modifica la presente Convenzione e a meno che la nuova convenzione non disponga diversamente:
 
@@ -338,6 +338,6 @@ b) a decorrere dalla data di entrata in vigore della nuova convenzione riveduta,
 
 2\. La presente Convenzione rimarra' in ogni caso in vigore nella sua forma e contenuto per i Membri che l'abbiano ratificata e che non ratifichino la convenzione riveduta.
 
-### Articolo 20
+## Articolo 20
 
 Le versioni in francese e in inglese della presente Convenzione fanno ugualmente fede.

@@ -329,7 +329,7 @@ Paragrafo 2 - Le disposizioni della legislazione monegasca relative al contenzio
 
 Paragrafo 3 - Le eventuali decisioni adottate dalle istituzioni di un Paese sono comunicate alle autorita' competenti dell'altro Paese.
 
-## CAPITOLO II - Assegni in caso di morte
+### CAPITOLO II - Assegni in caso di morte
 
 #### Articolo 18
 
@@ -339,7 +339,7 @@ Paragrafo 2 - L'istituzione competente e' tenuta a concedere gli assegni previst
 
 Paragrafo 3 - Le disposizioni del presente articolo sono ugualmente applicabili nel caso in cui il decesso e' conseguenza di un infortunio sul lavoro o di una malattia professionale.
 
-## CAPITOLO III - Assicurazioni invalidita', vecchiaia e superstiti
+### CAPITOLO III - Assicurazioni invalidita', vecchiaia e superstiti
 
 #### Articolo 19
 
@@ -405,7 +405,7 @@ Le disposizioni del presente capitolo sono applicabili, per analogia, ai diritti
 
 Le modalita' di pagamento delle prestazioni liquidate in conformita' alle disposizioni precedenti sono determinate con Accordo Amministrativo.
 
-## CAPITOLO IV - Prestazioni familiari
+### CAPITOLO IV - Prestazioni familiari
 
 #### Articolo 30
 
@@ -423,7 +423,7 @@ Per l'apertura del diritto alle prestazioni familiari vengono presi in considera
 
 Le modalita' per la concessione ed il rimborso delle prestazioni familiari nonche' le regole concernenti il cumulo saranno fissate con Accordo Amministrativo.
 
-## CAPITOLO V - Infortuni sul lavoro e malattie professionali
+### CAPITOLO V - Infortuni sul lavoro e malattie professionali
 
 #### Articolo 33
 
@@ -495,7 +495,7 @@ Esse si comunicheranno in tempo utile le altre disposizioni prese in vista dell'
 
 Paragrafo 2 - Le autorita' competenti dei Paesi contraenti determineranno di comune accordo le misure da prevedere al fine di evitare i cumuli nel caso in cui l'applicazione delle legislazioni o regolamentazioni dei Paesi contraenti e della presente Convenzione avesse per effetto l'apertura simultanea dei diritti a prestazioni incombenti alle istituzioni dei due Paesi.
 
-## CAPITOLO II - Disposizioni diverse
+### CAPITOLO II - Disposizioni diverse
 
 #### Articolo 42
 

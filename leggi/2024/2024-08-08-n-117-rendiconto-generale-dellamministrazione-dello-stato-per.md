@@ -199,7 +199,7 @@ Allegati
 
 > 4\. Alla legge di approvazione del rendiconto generale dello Stato e' allegato un elenco dei decreti di cui al comma 2, con le indicazioni dei motivi per i quali si e' proceduto ai prelevamenti dal fondo di cui al presente articolo.»
 
-## Capo II - Conto generale del patrimonio
+### Capo II - Conto generale del patrimonio
 
 #### Art. 6
 

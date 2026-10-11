@@ -44,9 +44,7 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I
-
-### DISPOSIZIONI DI CARATTERE GENERALE
+## Titolo I - DISPOSIZIONI DI CARATTERE GENERALE
 
 ###### Art. 1
 
@@ -288,9 +286,7 @@ d) societa' aventi sede legale in Italia incluse nella vigilanza consolidata in 
 
 ((1. Alle SIM, alle succursali italiane di imprese di investimento di paesi terzi diverse da una banca e alle societa' appartenenti a un gruppo individuato ai sensi dell'articolo 11 del Testo Unico della Finanza, si applica, per le materie regolate dal presente decreto, quanto previsto dal Testo Unico della Finanza e dalle norme ivi richiamate, quando questi soggetti non rientrano nell'ambito di applicazione di cui all'articolo 2.))
 
-## Titolo II
-
-### AUTORITA'
+## Titolo II - AUTORITA'
 
 ###### Art. 3
 
@@ -412,13 +408,9 @@ g) esercita i poteri ad essa attribuiti dal presente decreto che non siano attri
 
 6\. La Banca d'Italia esercita i poteri, anche sanzionatori, ad essa attribuiti dal presente decreto legislativo anche per assicurare il rispetto da parte dei soggetti indicati dall'articolo 2 degli atti dell'Unione europea direttamente applicabili ovvero in caso di inosservanza degli stessi.))
 
-## Titolo III
+## Titolo III - MISURE PREPARATORIE
 
-### MISURE PREPARATORIE
-
-#### Capo I
-
-##### Piani di risoluzione
+### Capo I - Piani di risoluzione
 
 ###### Art. 7
 
@@ -492,9 +484,7 @@ Piani di risoluzione in forma semplificata
 
 1\. La Banca d'Italia puo', con provvedimenti di carattere generale o particolare, prevedere modalita' semplificate di adempimento degli obblighi stabiliti dal presente Capo, avendo riguardo alle possibili conseguenze del dissesto della banca o del gruppo in considerazione delle loro caratteristiche, ivi inclusi le dimensioni, la complessita' operativa, la struttura societaria, lo scopo mutualistico, l'adesione a un sistema di tutela istituzionale.
 
-## Capo II
-
-### Risolvibilita'
+### Capo II - Risolvibilita'
 
 ###### Art. 12
 
@@ -654,9 +644,7 @@ b) imporre a una societa' non finanziaria di cui all'art. 65, comma 1, lettera h
 
 ((2-bis. La Banca d'Italia esercita i poteri del presente articolo per dare attuazione alle istruzioni del Comitato di Risoluzione Unico ai sensi dell'articolo 10 del regolamento (UE) n. 806/2014, del Parlamento europeo e del Consiglio.))
 
-## ((Capo II-bis
-
-### Requisito minimo di fondi propri e passivita' computabili))
+### ((Capo II-bis - Requisito minimo di fondi propri e passivita' computabili))
 
 ###### Art. 16-bis - Applicazione e calcolo del requisito minimo di fondi propri e passivita' computabili
 
@@ -1086,17 +1074,11 @@ e) le sanzioni e delle altre misure previste dal Titolo VII.
 
 6\. La Banca d'Italia puo' modificare i termini o i requisiti determinati ai sensi del presente articolo.))
 
-## Titolo IV
+## Titolo IV - RISOLUZIONE E ALTRE PROCEDURE DI GESTIONE DELLE CRISI
 
-### RISOLUZIONE E ALTRE PROCEDURE DI GESTIONE DELLE CRISI
+### Capo I - Disposizioni generali
 
-#### Capo I
-
-##### Disposizioni generali
-
-###### Sezione I
-
-**Presupposti e obiettivi**
+#### Sezione I - Presupposti e obiettivi
 
 ###### Art. 17
 
@@ -1258,9 +1240,7 @@ h) i provvedimenti adottati ai sensi del presente decreto sono volti a ridurre a
 
 2\. Le azioni di risoluzione tengono conto della complessita' operativa, dimensionale e organizzativa dei soggetti coinvolti, nonche' della natura dell'attivita' svolta; esse sono effettuate nel rispetto della disciplina sugli aiuti di Stato dell'Unione Europea.
 
-## Sezione II
-
-### Valutazione
+#### Sezione II - Valutazione
 
 ###### Art. 23
 
@@ -1332,9 +1312,7 @@ Tutela giurisdizionale e indennita' spettanti ai soggetti incaricati della valut
 
 3\. Alle indennita' spettanti ai soggetti incaricati della valutazione ai sensi della presente Sezione si applica l'art. 37, commi 7 e 8.
 
-## Capo II
-
-### ((Riduzione o conversione di azioni, di altre partecipazioni, di strumenti di capitale e di passivita' computabili))
+### Capo II - ((Riduzione o conversione di azioni, di altre partecipazioni, di strumenti di capitale e di passivita' computabili))
 
 ###### Art. 27
 
@@ -1404,9 +1382,7 @@ Ulteriori previsioni in caso di conversione
 
 3\. All'assunzione di partecipazioni conseguente alla conversione si applica l'articolo 53.
 
-## Capo III
-
-### Avvio e chiusura della risoluzione
+### Capo III - Avvio e chiusura della risoluzione
 
 ###### Art. 32
 
@@ -1592,13 +1568,9 @@ AGGIORNAMENTO (2)
 
 Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.Lgs. 26 ottobre 2020, n. 147, ha disposto (con l'art. 369, comma 6) che la presente modifica si applica "alle procedure di risoluzione avviate ai sensi dell'articolo 32 del decreto legislativo 16 novembre 2015, n. 180, successivamente alla data di entrata in vigore del presente decreto".
 
-## Capo IV
+### Capo IV - Misure di risoluzione
 
-### Misure di risoluzione
-
-#### Sezione I
-
-##### Disposizioni generali
+#### Sezione I - Disposizioni generali
 
 ###### Art. 39
 
@@ -1616,11 +1588,9 @@ d) il bail-in.
 
 2\. La cessione di beni e rapporti giuridici a una societa' veicolo per la gestione delle attivita' e' disposta solo congiuntamente a una delle altre misure indicate nel comma 1.
 
-## Sezione II
+#### Sezione II - Cessione di beni e rapporti giuridici
 
-### Cessione di beni e rapporti giuridici - Sottosezione I
-
-#### Cessione a un soggetto terzo
+##### Sottosezione I - Cessione a un soggetto terzo
 
 ###### Art. 40
 
@@ -1680,9 +1650,7 @@ b) le azioni o le altre partecipazioni devono essere alienate entro il termine s
 
 5\. In caso di mancata alienazione entro il termine stabilito ai sensi del comma 4, lettera b), la Banca d'Italia o la Banca Centrale Europea, in qualita' di autorita' competente, d'intesa con la Banca d'Italia, irroga le sanzioni e adotta le altre misure amministrative previste per le violazioni delle norme in materia di acquisizione e cessione di partecipazioni qualificate disciplinate dal Testo Unico Bancario.
 
-## Sottosezione II
-
-### Cessione a un ente-ponte
+##### Sottosezione II - Cessione a un ente-ponte
 
 ###### Art. 42
 
@@ -1754,11 +1722,7 @@ b) la proroga e' necessaria per mantenere la continuita' di servizi bancari o fi
 
 4\. Quando si verificano le situazioni indicate al comma 1, lettere b) o d), l'ente-ponte e' liquidato secondo le modalita' previste dal Testo Unico Bancario o dal Testo Unico della Finanza. L'eventuale residuo attivo risultante dal bilancio finale dell'ente-ponte e' distribuito tra i suoi soci. Quando l'ente-ponte e' cessionario di diritti, attivita' o passivita' di piu' enti sottoposti a risoluzione, si procede alla liquidazione delle attivita' o al pagamento delle passivita' cedute da ciascuno di questi e non dell'ente-ponte stesso.
 
-## Sottosezione III
-
-### Cessione a una societa' veicolo
-
-#### per la gestione di attivita'
+##### Sottosezione III - Cessione a una societa' veicolo per la gestione di attivita'
 
 ###### Art. 45
 
@@ -1790,9 +1754,7 @@ c) la cessione e' necessaria per massimizzare i proventi ricavabili dalla liquid
 
 3\. La societa' veicolo, i componenti dei suoi organi di amministrazione e controllo, nonche' l'alta dirigenza rispondono solo per dolo o colpa grave nei confronti degli azionisti e dei creditori dell'ente sottoposto a risoluzione, nei confronti degli azionisti e dei creditori dell'ente-ponte e nei confronti degli azionisti e dei creditori della societa' veicolo.
 
-## Sottosezione IV
-
-### Disposizioni comuni
+##### Sottosezione IV - Disposizioni comuni
 
 ###### Art. 47
 
@@ -1834,9 +1796,7 @@ a) l'accesso ai sistemi o ai mercati non puo' essere negato per il fatto che il 
 
 b) se il cessionario non rispetta i requisiti per l'appartenenza o l'accesso ai sistemi o ai mercati, l'appartenenza o l'accesso ai sistemi o ai mercati puo' comunque essere disposto dalla Banca d'Italia per un periodo non superiore a 24 mesi, rinnovabile su richiesta del cessionario.
 
-## Sezione III
-
-### Bail-in
+#### Sezione III - Bail-in
 
 ###### Art. 48
 
@@ -2132,9 +2092,7 @@ Riconoscimento contrattuale del bail-in
 
 5\. Il bail-in e' comunque disposto e determina i suoi effetti in via definitiva in relazione ai soggetti di cui all'articolo 2 anche in caso di assenza o inefficacia della clausola prevista dal comma 1.
 
-## Capo V
-
-### Poteri di risoluzione
+### Capo V - Poteri di risoluzione
 
 ###### Art. 60
 
@@ -2368,9 +2326,7 @@ AGGIORNAMENTO (3)
 
 Il D.Lgs. 8 novembre 2021, n. 193, ha disposto (con l'art. 8, comma 1) che "L'articolo 68-bis del decreto legislativo 16 novembre 2015, n. 180, introdotto dal presente decreto, si applica ai soli contratti finanziari di cui all'articolo 1, comma 1, lettera o) del medesimo decreto legislativo, stipulati o modificati significativamente a partire dalla data di entrata in vigore del presente decreto".
 
-## Capo VI
-
-### Gruppi con componenti aventi sede legale o stabilite in altri Stati - membri
+### Capo VI - Gruppi con componenti aventi sede legale o stabilite in altri Stati membri
 
 ###### Art. 69
 
@@ -2460,9 +2416,7 @@ Scambio di informazioni
 
 2\. Nel caso siano richieste informazioni che la Banca d'Italia ha ricevuto da un'autorita' di risoluzione di uno Stato terzo, la trasmissione ai sensi del comma 1 e' effettuata solo in presenza del consenso espresso di detta autorita'.
 
-## Capo VII
-
-### Rapporti con Stati terzi
+### Capo VII - Rapporti con Stati terzi
 
 ###### Art. 74
 
@@ -2570,9 +2524,7 @@ b) la comunicazione delle informazioni avviene esclusivamente ai fini stabiliti 
 
 3\. Ai fini del presente articolo le informazioni sono considerate riservate se sono soggette agli obblighi di riservatezza previsti dal diritto dell'Unione Europea.
 
-## Titolo V
-
-### FONDI DI RISOLUZIONE
+## Titolo V - FONDI DI RISOLUZIONE
 
 ###### Art. 78
 
@@ -2722,9 +2674,7 @@ AGGIORNAMENTO (1)
 
 Il D.Lgs. 15 febbraio 2016, n. 30 ha disposto (con l'art. 2 comma 6, lettera b)) che "al comma 6, la parola: «ammessi» e' sostituita dalla seguente «ammissibili»".
 
-## Titolo VI
-
-### SALVAGUARDIE E TUTELA GIURISDIZIONALE
+## Titolo VI - SALVAGUARDIE E TUTELA GIURISDIZIONALE
 
 ###### Art. 87
 
@@ -2836,9 +2786,7 @@ Tutela giurisdizionale
 
 4\. Fermo restando il potere di cui all'articolo 67, il giudice presso il quale pende un qualsiasi giudizio del quale sia parte un ente sottoposto a risoluzione ne dispone la sospensione su istanza della Banca d'Italia per un periodo congruo al perseguimento degli obiettivi di cui all'articolo 21.
 
-## Titolo VII
-
-### SANZIONI AMMINISTRATIVE
+## Titolo VII - SANZIONI AMMINISTRATIVE
 
 ###### Art. 96
 
@@ -2876,9 +2824,7 @@ Comunicazione all'ABE sulle sanzioni applicate
 
 1\. La Banca d'Italia comunica all'ABE le sanzioni amministrative applicate ai sensi del presente Titolo, ivi comprese quelle pubblicate in forma anonima, nonche' le informazioni ricevute dai soggetti interessati sulle azioni da essi avviate avverso i provvedimenti sanzionatori e sull'esito delle stesse.
 
-## Titolo VIII
-
-### DISPOSIZIONI FINALI
+## Titolo VIII - DISPOSIZIONI FINALI
 
 ###### Art. 99
 

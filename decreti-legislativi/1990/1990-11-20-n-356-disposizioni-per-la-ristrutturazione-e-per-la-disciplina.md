@@ -38,11 +38,9 @@ E M A N A
 
 il seguente decreto legislativo:
 
-## TITOLO I - DISCIPLINA DELLE OPERAZIONI
+## TITOLO I - DISCIPLINA DELLE OPERAZIONI DI RISTRUTTURAZIONE
 
-### DI RISTRUTTURAZIONE
-
-#### Art. 1
+### Art. 1
 
 Fusioni, trasformazioni e conferimenti
 
@@ -50,7 +48,7 @@ Fusioni, trasformazioni e conferimenti
 
 2\. Le operazioni di cui al comma precedente nonche' i conferimenti d'azienda effettuati dai medesimi enti in una o piu' societa' per azioni, gia' iscritte nell'albo suddetto ovvero appositamente costituite anche con atto unilaterale e aventi per oggetto l'attivita' svolta dall'ente conferente o rami di essa, sono regolati dalle disposizioni del presente decreto.
 
-#### Art. 2
+### Art. 2
 
 Progetto
 
@@ -64,7 +62,7 @@ Progetto
 
 5\. La Banca d'Italia da' notizia al Comitato interministeriale per il credito ed il risparmio della presentazione dei singoli progetti di ristrutturazione e riferisce semestralmente in merito ai progetti di cui e' in corso di svolgimento l'istruttoria o l'attuazione.
 
-#### Art. 3
+### Art. 3
 
 Approvazione del progetto
 
@@ -80,7 +78,7 @@ L'approvazione e' subordinata all'accertamento della rispondenza del progetto al
 
 5\. Le singole operazioni indicate nel progetto approvato, per le quali le norme vigenti prevedono il rilascio di un provvedimento autorizzatorio, devono essere comunicate alla Banca d'Italia ai soli fini della verifica di conformita' al progetto. La conformita' si intende accertata ove, trascorsi sessanta giorni dalla ricezione della comunicazione, la Banca d'Italia non si sia pronunciata in senso contrario.
 
-#### Art. 4
+### Art. 4
 
 Trasformazioni
 
@@ -100,7 +98,7 @@ b) il residuo del patrimonio netto e' imputato a riserve e fondi mantenendo, ove
 
 6\. Entro trenta giorni dall'accertamento di conformita' di cui all'art. 3, comma 5, la deliberazione di cui al comma 2 del presente articolo, unitamente alla relazione di stima di cui al comma precedente, e' depositata, a cura del notaio o degli amministratori dell'ente, per l'iscrizione nel registro delle imprese nella cui circoscrizione e' stabilita la sede sociale. Si applicano le disposizioni degli articoli 2330, commi 3 e 4, e 2330- bis del codice civile.
 
-#### Art. 5
+### Art. 5
 
 Fusioni
 
@@ -114,7 +112,7 @@ Fusioni
 
 5\. Per le operazioni ricomprese nel progetto approvato ai sensi dell'art. 3 il termine di cui all'art. 2503, comma 1, del codice civile e' ridotto a quindici giorni.
 
-#### Art. 6
+### Art. 6
 
 Conferimenti
 
@@ -132,7 +130,7 @@ Conferimenti
 
 7\. In caso di conferimenti tra loro collegati ai sensi del comma 4, la competenza ad ordinare la iscrizione nel registro delle imprese spetta al tribunale il cui presidente ha nominato gli esperti. Il tribunale puo' ordinare l'iscrizione con unico decreto.
 
-#### Art. 7
+### Art. 7
 
 Costituzione di piu' societa' con un medesimo atto
 
@@ -140,7 +138,7 @@ Costituzione di piu' societa' con un medesimo atto
 
 ## TITOLO II - CONVERSIONE DEI TITOLI
 
-#### Art. 8
+### Art. 8
 
 Modalita'
 
@@ -150,7 +148,7 @@ Modalita'
 
 3\. Le disposizioni dei commi precedenti si applicano ai titoli di partecipazione al capitale degli enti con fondo di dotazione a composizione associativa limitatamente alle quote di risparmio.
 
-#### Art. 9
+### Art. 9
 
 Azioni di risparmio
 
@@ -158,7 +156,7 @@ Azioni di risparmio
 
 Le societa' non potranno successivamente emettere altre azioni di risparmio in deroga al suddetto art. 14.
 
-#### Art. 10
+### Art. 10
 
 Approvazione del concambio
 
@@ -170,29 +168,29 @@ Approvazione del concambio
 
 ## TITOLO III - ENTI PUBBLICI CONFERENTI
 
-#### Art. 11
+### Art. 11
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MAGGIO 1999, N. 153 ))
 
-#### Art. 12
+### Art. 12
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MAGGIO 1999, N. 153 ))
 
-#### Art. 13
+### Art. 13
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MAGGIO 1999, N. 153 ))
 
-#### Art. 14
+### Art. 14
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MAGGIO 1999, N. 153 ))
 
-#### Art. 15
+### Art. 15
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MAGGIO 1999, N. 153 ))
 
 ## TITOLO IV - SOCIETA' BANCARIE
 
-#### Art. 16
+### Art. 16
 
 Rapporti giuridici preesistenti
 
@@ -202,7 +200,7 @@ Rapporti giuridici preesistenti
 
 3\. Anche in deroga alle disposizioni di legge vigenti, la denominazione delle societa' bancarie puo' contenere la denominazione degli enti originari.
 
-#### Art. 17
+### Art. 17
 
 Attivita'
 
@@ -210,114 +208,114 @@ Attivita'
 
 2\. Tali societa' possono continuare ad esercitare, in conformita' del progetto approvato ai sensi dell'art. 3, le attivita' che gli enti originari erano abilitati a compiere in forza di leggi o di provvedimenti amministrativi, in conformita' della relativa disciplina. Le attivita' che ciascuna societa' bancaria puo' esercitare devono essere indicate negli statuti.
 
-#### Art. 18
+### Art. 18
 
 (( ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385 ))
 
 ## TITOLO V - DISCIPLINA DEL CONTROLLO PUBBLICO
 
-#### Art. 19
+### Art. 19
 
 (( ARTICOLO ABROGATO DAL D.L. 31 MAGGIO 1994, N. 332 CONVERTITO CON MODIFICAZIONI DALLA L. 30 LUGLIO 1994, N. 474 ))
 
-#### Art. 20
+### Art. 20
 
 (( ARTICOLO ABROGATO DAL D.L. 31 MAGGIO 1994, N. 332 CONVERTITO CON MODIFICAZIONI DALLA L. 30 LUGLIO 1994, N. 474 ))
 
-#### Art. 21
+### Art. 21
 
 (( ARTICOLO ABROGATO DAL D.L. 31 MAGGIO 1994, N. 332 CONVERTITO CON MODIFICAZIONI DALLA L. 30 LUGLIO 1994, N. 474 ))
 
-#### Art. 22
+### Art. 22
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MAGGIO 1999, N. 153 ))
 
 ## TITOLO VI - ASSEMBLEE DELLE CASSE DI RISPARMIO
 
-#### Art. 23
+### Art. 23
 
 (( ARTICOLO ABROGATO DAL D.LGS. 17 MAGGIO 1999, N. 153 ))
 
 ## TITOLO VII - DISCIPLINA DEL GRUPPO CREDITIZIO
 
-### ((TITOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385 ))
+## ((TITOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385 ))
 
-#### Art. 24
-
-(( ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385 ))
-
-#### Art. 25
+### Art. 24
 
 (( ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385 ))
 
-#### Art. 26
+### Art. 25
 
 (( ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385 ))
 
-#### Art. 27
+### Art. 26
 
 (( ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385 ))
 
-#### Art. 28
+### Art. 27
 
 (( ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385 ))
 
-#### Art. 29
+### Art. 28
 
 (( ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385 ))
 
-#### Art. 30
+### Art. 29
 
 (( ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385 ))
 
-#### Art. 31
+### Art. 30
 
 (( ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385 ))
 
-#### Art. 32
+### Art. 31
 
 (( ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385 ))
 
-#### Art. 33
+### Art. 32
 
 (( ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385 ))
 
-#### Art. 34
+### Art. 33
 
 (( ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385 ))
 
-#### Art. 35
+### Art. 34
 
 (( ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385 ))
 
-#### Art. 36
+### Art. 35
 
 (( ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385 ))
 
-#### Art. 37
+### Art. 36
 
 (( ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385 ))
 
-#### Art. 38
+### Art. 37
 
 (( ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385 ))
 
-#### Art. 39
+### Art. 38
 
 (( ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385 ))
 
-#### Art. 40
+### Art. 39
 
 (( ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385 ))
 
-#### Art. 41
+### Art. 40
 
 (( ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385 ))
 
-#### Art. 42
+### Art. 41
 
 (( ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385 ))
 
-#### Art. 43
+### Art. 42
+
+(( ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385 ))
+
+### Art. 43
 
 (( ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385 ))

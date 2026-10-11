@@ -30,7 +30,7 @@ la seguente legge:
 
 ## Capo I - FINALITA' E RISORSE
 
-#### Art. 1 - Finalita' e modalita' di programmazione
+### Art. 1 - Finalita' e modalita' di programmazione
 
 1\. Fino all'entrata in vigore della nuova disciplina dell'intervento pubblico nel settore dell'edilizia residenziale, le disponibilita' esistenti o che affluiranno presso la sezione autonoma della Cassa depositi e prestiti, istituita con l'articolo 10 della legge 5 agosto 1978, n. 457, sono programmate e spese per le finalita' e con le modalita' e procedure della citata legge n. 457 del 1978, e successive modificazioni, ivi comprese quelle di cui alla presente legge.
 
@@ -76,7 +76,7 @@ Il testo delle note qui pubblicato e'stato redatto si sensi dell'art. 10, commi 
 
 > Per quanto non espressamente previsto dalla presente legge, alla sezione autonoma sono applicate le norme in vigore per la Cassa depositi e prestiti e le gestioni annesse".
 
-#### Art. 2 - Copertura finanziaria
+### Art. 2 - Copertura finanziaria
 
 1\. Per gli anni 1992, 1993, e 1994, ferme restando le disponibilita' derivanti dall'articolo 22 della legge 11 marzo 1988, n. 67, il contributo dello Stato e' fissato in lire 80 miliardi, in ragione di lire 10 miliardi per il 1992, 20 miliardi per il 1993 e 50 miliardi per il 1994, alla cui copertura si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1992-1994, al capitolo 9001 del bilancio di previsione del Ministero del tesoro per l'anno 1992, all'uopo utilizzando la voce: "Rifinanziamento dell'articolo 22, comma 3, della legge 11 marzo 1988, n. 67".
 
@@ -90,11 +90,9 @@ Le somme non utilizzate in ciascun esercizio possono esserlo nel biennio success
 
 5\. Per la concessione di contributi ai sensi dell'articolo 7, terzo comma, del decreto-legge 13 agosto 1975, n. 376, convertito, con modificazioni, dalla legge 16 ottobre 1975, n. 492, a cooperative edilizie a proprieta' indivisa costituite esclusivamente tra appartenenti alle Forze armate e di polizia, compreso il personale in quiescenza, nonche' per la concessione di contributi integrativi finalizzati a contenere l'onere per l'ammortamento dei mutui a carico di dette cooperative edilizie entro il limite del 5 per cento, oltre al rimborso del capitale, e' autorizzata una spesa per un importo di lire 10 miliardi annui a decorrere dal 1994. Al relativo onere, per il triennio 1994-1996, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1994-1996, al capitolo 9001 dello stato di previsione del Ministero del tesoro, per l'anno 1994, all'uopo parzialmente utilizzando l'accantonamento relativo al Ministero dei lavori pubblici. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-## CAPO II - DISPOSIZIONI PER LA PROGRAMMA-
+## CAPO II - DISPOSIZIONI PER LA PROGRAMMA- ZIONE E MODIFICHE ALLA LEGGE 5 AGOSTO 1978, N. 457
 
-### ZIONE E MODIFICHE ALLA LEGGE - 5 AGOSTO 1978, N. 457
-
-#### Art. 3
+### Art. 3
 
 (Procedura e termine di avvio dei programmi
 
@@ -128,7 +126,7 @@ AGGIORNAMENTO (5)
 
 La L. 23 dicembre 1996, n. 662 ha disposto (con l'art. 2, comma 76) che "Le disposizioni di cui al comma 8 dell'articolo 3 della legge 17 febbraio 1992, n. 179, come modificate dall'articolo 7 del decreto-legge 5 ottobre 1993, n. 398, convertito, con modificazioni, dalla legge 4 dicembre 1993, n. 493, sono da intendersi modificative di quanto previsto dal primo comma, numero 6), dell'articolo 9 della legge 5 agosto 1978, n. 457".
 
-#### Art. 4
+### Art. 4
 
 (Quota di riserva
 
@@ -166,7 +164,7 @@ per particolari categorie sociali).
 
 > e) esercitare la vigilanza sulla gestione amministrativo-finanziaria delle cooperative edilizie, comunque fruenti di contributi pubblici".
 
-#### Art. 5
+### Art. 5
 
 (Fondo speciale di rotazione per acquisi-
 
@@ -242,7 +240,7 @@ b) con le somme provenienti dai fondi gia' assegnati ai sensi dell'articolo 45 d
 
 > Il Ministro per i lavori pubblici, su proposta del CER, trasmette, entro il primo ottobre di ciascun anno, le richieste alla Cassa depositi e prestiti, indicando l'ordine di precedenza che la stessa deve rispettare nella concessione dei mutui, anche ai fini del rimborso delle anticipazioni di cui al precedente art. 23".
 
-#### Art. 6 - Contributi di edilizia agevolata
+### Art. 6 - Contributi di edilizia agevolata
 
 1\. I contributi di cui all'articolo 19 della legge 5 agosto 1978, n. 457, sono concessi per interventi di nuova costruzione, di recupero, come definiti dall'articolo 11, e per quelli destinati alla locazione ai sensi degli articoli 8 e 9.
 
@@ -328,7 +326,7 @@ b) con le somme provenienti dai fondi gia' assegnati ai sensi dell'articolo 45 d
 
 > Ai fini della determinazione dell'onere a carico del mutuatario si tiene conto del reddito complessivo familiare quale risulta dall'ultima dichiarazione dei redditi presentata da ciascun componente del nucleo familiare prima dell'assegnazione o dell'acquisto dell'alloggio ovvero, nel caso di alloggi costruiti da privati, prima dell'atto di liquidazione finale del mutuo.
 
-#### Art. 7 - Soggetti operatori e beneficiari
+### Art. 7 - Soggetti operatori e beneficiari
 
 1\. I contributi di cui all'articolo 6 sono concessi per gli interventi disciplinati dalla presente legge e realizzati da cooperative edilizie a proprieta' individuale od indivisa, da imprese di costruzione, da privati che intendano costruire o recuperare la propria abitazione nonche' da enti pubblici che intendano costruire o recuperare abitazioni da assegnare in proprieta', dagli IACP e dai loro consorzi, dai comuni che intendano costruire o recuperare abitazioni da assegnare in locazione.
 
@@ -348,7 +346,7 @@ b) con le somme provenienti dai fondi gia' assegnati ai sensi dell'articolo 45 d
 
 ## CAPO III - LOCAZIONI
 
-#### Art. 8 - Abitazioni in locazione o assegnate in godimento
+### Art. 8 - Abitazioni in locazione o assegnate in godimento
 
 1\. I contributi di cui all'articolo 19 della legge 5 agosto 1978, n. 457, come integrato dall'articolo 6 della presente legge, possono essere concessi per la realizzazione o il recupero di alloggi destinati alla locazione per uso abitativo primario, ai sensi delle disposizioni vigenti, per un periodo non inferiore a otto anni, ovvero assegnati in godimento da cooperative edilizie a proprieta' indivisa.
 
@@ -370,25 +368,25 @@ b) con le somme provenienti dai fondi gia' assegnati ai sensi dell'articolo 45 d
 
 ((10. Gli obblighi previsti dal presente articolo sono recepiti in apposita convenzione o atto d'obbligo, il cui schema e' approvato dalla regione entro il 30 giugno 1999; decorso inutilmente tale termine, la convenzione o l'atto d'obbligo sono adottati dal comune nel cui territorio e' localizzato l'intervento. Fino alla scadenza del predetto termine i comuni possono adottare convenzioni o atti d'obbligo in base allo schema approvato dal CIPE. La convenzione o l'atto d'obbligo sono trascritti alla conservatoria dei registri immobiliari a cura del comune ed a spese dei beneficiari. Ai comuni e' fatto obbligo di segnalare alla regione eventuali inadempienze, ricorrendo le quali la regione, previa diffida ad adempiere, provvede a revocare il contributo)).
 
-#### Art. 9 - Abitazioni in locazione con proprieta' differita
+### Art. 9 - Abitazioni in locazione con proprieta' differita
 
 1\. I contributi di cui all'articolo 19 della legge 5 agosto 1978, n. 457, come integrato dall'articolo 6 della presente legge, possono essere concessi dalle regioni anche per la realizzazione di interventi finalizzati al recupero o alla costruzione di alloggi destinati all'assegnazione in godimento o alla locazione per uso abitativo per un periodo non inferiore a otto anni e con successivo trasferimento della prorieta' degli stessi ai relativi assegnatari o conduttori in possesso dei requisiti soggettivi per l'assegnazione in proprieta' o per l'acquisto di alloggi fruenti di contributo pubblico al momento dell'assegnazione in godimento o alla data d'inizio della locazione.
 
 2\. Le disposizioni di cui all'articolo 8, commi 2, 3, 8, 9 e 10, si applicano anche ai programmi di cui al presente articolo.
 
-#### Art. 10 - Criterio di priorita'
+### Art. 10 - Criterio di priorita'
 
 1\. Gli alloggi di cui agli articoli 8 e 9 realizzati da comuni, dagli IACP e da loro consorzi sono destinati prioritariamente ai soggetti da considerare decaduti dall'asseganzione.
 
 ## CAPO IV - RECUPERO
 
-#### Art. 11 - Riserva a favore degli interventi di recupero
+### Art. 11 - Riserva a favore degli interventi di recupero
 
 ((1. Le disponibilita' per l'edilizia sovvenzionata possono essere utilizzate anche per i seguenti interventi: a) interventi di edilizia residenziale pubblica nell'ambito di programmi di riqualificazione urbana; b) interventi di recupero, di cui alle lettere b), c), d) ed e) del primo comma dell'articolo 31 della legge 5 agosto 1978, n. 457, di immobili con destinazione residenziale non inferiore al 70 per cento della superficie utile complessiva di progetto o di immobili non residenziali funzionali alla residenza. Le disponibilita' destinate ai predetti interventi di recupero sono altresi' utilizzate, ove occorra, per l'acquisizione degli immobili da recuperare e per l'adeguamento delle relative urbanizzazioni)).
 
 2\. Ai fini di cui al comma 1, le disponibilita' per l'edilizia sovvenzionata possono essere utilizzate anche per la realizzazione o l'acquisto di alloggi per il trasferimento temporaneo degli abitanti degli immobili da recuperare.
 
-#### Art. 12 - Risanamento delle parti comuni dei fabbricati
+### Art. 12 - Risanamento delle parti comuni dei fabbricati
 
 1\. La regione puo' concedere i contributi di cui all'articolo 19 della legge 5 agosto 1978, n. 457, come integrato dall'articolo 6 della presente legge, nei limiti determinati dal CER, anche per opere di risanamento di parti comuni degli immobili, ai proprietari singoli, riuniti in consorzio o alle cooperative edilizie di cui siano soci, ai condominii o loro consorzi e ai consorzi tra i primi ed i secondi, al fine di avviare concrete iniziative nel settore del recupero del patrimonio edilizio esistente. Detti contributi possono essere concessi altresi' ad imprese di costruzione, o a cooperative edilizie alle quali i proprietari o i soci abbiano affidato il mandato di realizzazione delle opere.
 
@@ -414,7 +412,7 @@ c) l'eventuale necessita' di alloggi di temporaneo trasferimento o di rotazione 
 
 > \- La legge n. 142/1990 reca: "Ordinamento delle autonomie locali".
 
-#### Art. 13 - Attuazione dei piani di recupero
+### Art. 13 - Attuazione dei piani di recupero
 
 1\. I commi quinto, e sesto e settimo dell'articolo 28 della legge 5 agosto 1978, n. 457, sono sostituiti dal seguente:
 
@@ -462,7 +460,7 @@ b) dai comuni, direttamente ovvero mediante apposite convenzioni con i soggetti 
 
 > I comuni possono affidare la realizzazione delle opere di urbanizzazione primaria e secondaria ai proprietari singoli o riuniti in consorzio che eseguono gli interventi previsti dal piano di recupero".
 
-#### Art. 14 - Interventi ammessi
+### Art. 14 - Interventi ammessi
 
 1\. I commi quarto e quinto dell'articolo 27 della legge 5 agosto 1978, n. 457, sono sostituiti dal seguente:
 
@@ -482,7 +480,7 @@ b) dai comuni, direttamente ovvero mediante apposite convenzioni con i soggetti 
 
 > \- La legge n. 10/1977 reca norme sulla edificabilita' dei suoli.
 
-#### Art. 15 - Disposizione per gli edifici condominiali
+### Art. 15 - Disposizione per gli edifici condominiali
 
 1\. Dopo il comma primo dell'articolo 30 della legge 5 agosto 1978, n. 457, e' inserito il seguente:
 
@@ -548,7 +546,7 @@ b) dai comuni, direttamente ovvero mediante apposite convenzioni con i soggetti 
 
 ## CAPO V - PROGRAMMI INTEGRATI
 
-#### Art. 16 - Programmi integrati di intervento
+### Art. 16 - Programmi integrati di intervento
 
 1\. Al fine di riqualificare il tessuto urbanistico, edilizio ed ambientale, i comuni promuovono la formazione di programmi integrati.
 
@@ -576,15 +574,13 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 7-19 ottobre 1992, n. 393, (in G.U. 1a s.s. 21/10/1992 n. 44) ha dichiarato la illegittimita' costituzionale, dei commi terzo, quarto, quinto, sesto e settimo del presente articolo.
 
-## CAPO VI - DISPOSIZIONI PER LE COOPERATIVE A
+## CAPO VI - DISPOSIZIONI PER LE COOPERATIVE A PROPRIETA' INDIVISA
 
-### PROPRIETA' INDIVISA
-
-#### Art. 17
+### Art. 17
 
 (( ARTICOLO ABROGATO DAL D.L. 30 DICEMBRE 2005, N. 273, CONVERTITO CON MODIFICAZIONI DALLA L. 23 FEBBRAIO 2006, N. 51 ))
 
-#### Art. 18 - Autorizzazione alla cessione in proprieta' del patrimonio realizzato da cooperative a proprieta' indivisa
+### Art. 18 - Autorizzazione alla cessione in proprieta' del patrimonio realizzato da cooperative a proprieta' indivisa
 
 1\. Le cooperative a proprieta' indivisa che abbiano usufruito di agevolazioni pubbliche, statali o regionali, concesse prima della data di entrata in vigore della presente legge per la costruzione di alloggi da assegnare in uso e godimento ai propri soci, possono chiedere al CER o alla regione, in deroga al divieto statuario previsto dal secondo comma dell'articolo 72 della legge 22 ottobre 1971, n. 865, e successive modificazioni, l'autorizzazione a cedere in proprieta' individuale tutti o parte degli alloggi realizzati ai soci che ne abbiano gia' ottenuto l'assegnazione in uso e godimento.
 
@@ -624,7 +620,7 @@ AGGIORNAMENTO (3)
 
 La L. 28 gennaio 1994, n. 85 ha disposto (con l'art. 2, comma 2) che "Le regioni hanno la facolta' di differire, entro e non oltre il 31 dicembre 1994, il termine per la presentazione del piano di cessione di cui all'articolo 18, comma 2, lettera g), della legge 17 febbraio 1992, n. 179".
 
-#### Art. 19
+### Art. 19
 
 (Patrimonio immobiliare di cooperative a
 
@@ -690,7 +686,7 @@ degli IACP)
 
 ## CAPO VII - NORME FINALI E TRANSITORIE
 
-#### Art. 20
+### Art. 20
 
 (Autorizzazione alla vendita e alla locazione
 
@@ -700,7 +696,7 @@ da parte dell'assegnatario o dell'acquirente di alloggi).
 
 2\. In tutti i casi di subentro il contributo e' mantenuto a condizione che il subentrante sia in possesso dei requisiti soggettivi vigenti al momento del subentro stesso.
 
-#### Art. 21 - Interpretazione autentica
+### Art. 21 - Interpretazione autentica
 
 1\. I limiti di reddito di cui all'articolo 24, comma secondo, della legge 5 agosto 1978, n. 457, come modificato dall'articolo 15-bis del decreto-legge 15 dicembre 1979, n. 629, convertito in legge, con modificazioni, dalla legge 15 febbraio 1980, n. 25, sono quelli vigenti al momento dell'assegnazione, nel caso di cooperative, o della stipulazione di atto preliminare d'acquisto con data certa, negli altri casi o dell'acquisto degli alloggi.
 
@@ -724,13 +720,13 @@ da parte dell'assegnatario o dell'acquirente di alloggi).
 
 > Dal 1 gennaio 1990 gli interventi di cui al presente articolo devono essere realizzati sulle aree comprese nei piani di zona previsti dalla legge 18 aprile 1962, n. 167, su quelle delimitate ai sensi dell'art. 51 della legge 22 ottobre 1971, n. 865, ovvero su quelle espropriate dai comuni ai sensi del sesto comma dell'art. 13 della citata legge 28 gennaio 1977, n. 10".
 
-#### Art. 22 - Disposizioni per l'attuazione dei programmi
+### Art. 22 - Disposizioni per l'attuazione dei programmi
 
 1\. L'articolo 51 della legge 22 ottobre 1971, n. 865, e successive modificazioni, e' esteso a tutti i comuni. Il termine di cui all'ultimo comma dell'articolo 2 della legge 28 gennaio 1977, n. 10, e successive modificazioni, e' prorogato fino al 31 dicembre 1995.
 
 ((2. I programmi di edilizia agevolata sono localizzati nell'ambito dei piani di zona di cui alla legge 18 aprile 1962, n.167, e successive modificazioni, in aree delimitate ai sensi dell'articolo 51 della legge 22 ottobre 1971, n. 865, e successive modificazioni, ovvero in aree esterne ai predetti piani e perimetrazioni, purche' destinate dallo strumento urbanistico vigente all'edificazione a carattere residenziale. In tale ultimo caso gli interventi sono convenzionati con i comuni, secondo criteri definiti dalle regioni, ai sensi degli articoli 7 e 8 della legge 28 gennaio 1977, n. 10, e successive modificazioni)).
 
-#### Art. 23
+### Art. 23
 
 Abrogazione e sostituzione di norme
 
@@ -750,7 +746,7 @@ Abrogazione e sostituzione di norme
 
 6\. ((COMMA ABROGATO DAL D.P.R. 6 GIUGNO 2001, N. 380)).
 
-#### Art. 24 - Relazione sullo stato di attuazione
+### Art. 24 - Relazione sullo stato di attuazione
 
 1\. Le regioni trasmettono al segretario generale del CER una dettagliata relazione sullo stato di attuazione dei programmi di edilizia residenziale, con particolare riferimento all'utilizzazione dei finanziamenti, secondo apposito schema predisposto dal segretario generale del CER entro sei mesi dal ricevimento dello stesso.
 

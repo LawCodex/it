@@ -30,7 +30,7 @@ Promulga
 
 la seguente legge:
 
-##### Art. 1
+###### Art. 1
 
 Autorizzazione alla ratifica
 
@@ -40,13 +40,13 @@ Autorizzazione alla ratifica
 
 > Si omette la pubblicazione degli allegati all'Accordo di associazione tra l'Unione europea e la Comunita' europea dell'energia atomica e i loro Stati membri, da una parte, e l'Ucraina, dall'altra, fatto a Bruxelles il 27 giugno 2014, in quanto gia' pubblicati nella Gazzetta Ufficiale dell'Unione Europea L 161 del 29 maggio 2014.
 
-##### Art. 2
+###### Art. 2
 
 Ordine di esecuzione
 
 1\. Piena ed intera esecuzione e' data all'Accordo di cui all'articolo 1, a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 486 dell'Accordo stesso.
 
-##### Art. 3
+###### Art. 3
 
 Copertura finanziaria
 
@@ -58,7 +58,7 @@ Copertura finanziaria
 
 4\. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 4
+###### Art. 4
 
 Entrata in vigore
 
@@ -78,7 +78,7 @@ Visto, il Guardasigilli: Orlando
 
 ## Allegati
 
-##### Atto finale
+###### Atto finale
 
 Parte di provvedimento in formato grafico
 
@@ -174,7 +174,7 @@ I firmatari convengono che l'articolo 486, paragrafo 4, relativo all'applicazion
 
 Fatto a Bruxelles, il 21 marzo 2014.
 
-##### Atto finale
+###### Atto finale
 
 ATTO FINALE
 
@@ -278,7 +278,7 @@ I firmatari convengono che l'accordo si applichi a tutto il territorio dell'Ucra
 
 Fatto a Bruxelles, il giorno ventisette giugno, nell'anno duemilaquattordici.
 
-##### art. 1
+###### art. 1
 
 ACCORDO DI ASSOCIAZIONE
 
@@ -442,21 +442,19 @@ e) potenziare la cooperazione in materia di giustizia, liberta' e sicurezza con 
 
 f) creare le condizioni per una cooperazione sempre piu' stretta in altri settori di reciproco interesse.
 
-## TITOLO I - PRINCIPI GENERALI
+### TITOLO I - PRINCIPI GENERALI
 
-##### ARTICOLO 2
+###### ARTICOLO 2
 
 Il rispetto dei principi democratici, dei diritti umani e delle liberta' fondamentali, definiti in particolare nell'Atto finale di Helsinki del 1975 della Conferenza sulla sicurezza e la cooperazione in Europa e nella Carta di Parigi per una nuova Europa del 1990 e in altri strumenti in materia di diritti umani, comprese la Dichiarazione universale dei diritti dell'uomo dell'ONU e la Convenzione europea per la salvaguardia dei diritti dell'uomo e delle liberta' fondamentali, e il rispetto del principio dello Stato di diritto sono alla base delle politiche interne ed esterne delle Parti e costituiscono elementi essenziali del presente accordo. Anche la promozione del rispetto dei principi di sovranita' e integrita' territoriale, inviolabilita' delle frontiere e indipendenza, come pure la lotta contro la proliferazione delle armi di distruzione di massa, dei loro componenti e dei relativi vettori costituiscono elementi essenziali del presente accordo.
 
-##### ARTICOLO 3
+###### ARTICOLO 3
 
 Le Parti riconoscono che il loro rapporto si fonda sui principi dell'economia di mercato. Lo Stato di diritto, il buon governo, la lotta alla corruzione, la lotta contro le varie forme di criminalita' organizzata transnazionale e di terrorismo, la promozione dello sviluppo sostenibile e di un multilateralismo efficace sono essenziali per il rafforzamento del rapporto tra le Parti.
 
-## TITOLO II - DIALOGO POLITICO E RIFORME, ASSOCIAZIONE POLITICA, COOPERAZIONE
+### TITOLO II - DIALOGO POLITICO E RIFORME, ASSOCIAZIONE POLITICA, COOPERAZIONE E CONVERGENZA IN MATERIA DI POLITICA ESTERA E DI SICUREZZA
 
-### E CONVERGENZA IN MATERIA DI POLITICA ESTERA E DI SICUREZZA
-
-##### ARTICOLO 4
+###### ARTICOLO 4
 
 Finalita' del dialogo politico
 
@@ -478,7 +476,7 @@ f) sviluppare il dialogo e approfondire la cooperazione tra le Parti nel campo d
 
 g) promuovere i principi di indipendenza, sovranita', integrita' territoriale e inviolabilita' delle frontiere.
 
-##### ARTICOLO 5
+###### ARTICOLO 5
 
 Sedi del dialogo politico
 
@@ -500,13 +498,13 @@ d) qualsiasi altro mezzo, comprese riunioni a livello di esperti, in grado di co
 
 5\. A livello parlamentare, il dialogo politico si svolge nell'ambito del comitato parlamentare di associazione di cui all'articolo 467 del presente accordo.
 
-##### ARTICOLO 6
+###### ARTICOLO 6
 
 Dialogo e cooperazione in materia di riforme interne
 
 Le Parti cooperano al fine di garantire che le loro politiche interne abbiano a fondamento i principi ad esse comuni, segnatamente la stabilita' e l'efficacia delle istituzioni democratiche e dello Stato di diritto e il rispetto dei diritti umani e delle liberta' fondamentali, di cui in particolare all'articolo 14 del presente accordo.
 
-##### ARTICOLO 7
+###### ARTICOLO 7
 
 Politica estera e di sicurezza
 
@@ -518,13 +516,13 @@ Le Parti si avvalgono a tal fine delle sedi bilaterali, internazionali e regiona
 
 3\. Le Parti affrontano con tempestivita' e in modo coerente le sfide che minacciano tali principi, agendo a tutti gli opportuni livelli del dialogo politico previsti dal presente accordo, compreso a livello ministeriale.
 
-##### ARTICOLO 8
+###### ARTICOLO 8
 
 Corte penale internazionale
 
 Le Parti cooperano alla promozione della pace e della giustizia internazionale mediante la ratifica e l'attuazione dello Statuto di Roma della Corte penale internazionale (CPI) del 1998 e degli strumenti collegati.
 
-##### ARTICOLO 9
+###### ARTICOLO 9
 
 Stabilita' regionale
 
@@ -532,7 +530,7 @@ Stabilita' regionale
 
 2\. I loro sforzi si ispirano ai principi condivisi in materia di mantenimento della pace e della sicurezza internazionale stabiliti dalla Carta dell'ONU, dall'Atto finale di Helsinki del 1975 della Conferenza sulla sicurezza e la cooperazione in Europa e dagli altri atti multilaterali applicabili.
 
-##### ARTICOLO 10
+###### ARTICOLO 10
 
 Prevenzione dei conflitti, gestione delle crisi e cooperazione tecnologica militare
 
@@ -542,7 +540,7 @@ Prevenzione dei conflitti, gestione delle crisi e cooperazione tecnologica milit
 
 3\. Le Parti esaminano le possibilita' di cooperazione tecnologica militare. L'Ucraina e l'Agenzia europea per la difesa (AED) stabiliscono stretti contatti per discutere il miglioramento delle capacita' militari, anche in relazione ad aspetti tecnologici.
 
-##### ARTICOLO 11
+###### ARTICOLO 11
 
 Non proliferazione delle armi di distruzione di massa
 
@@ -558,21 +556,21 @@ b) il miglioramento del sistema dei controlli nazionali all'esportazione, in mod
 
 3\. Le Parti concordano di avviare un dialogo politico regolare che accompagni e consolidi quanto stabilito.
 
-##### ARTICOLO 12
+###### ARTICOLO 12
 
 Disarmo, controlli degli armamenti, controllo delle esportazioni di armi e lotta al traffico illecito di armi
 
 Le Parti sviluppano ulteriormente la cooperazione in materia di disarmo, anche per quanto riguarda la riduzione delle loro scorte di armi di piccolo calibro e leggere in eccesso e la gestione dell'impatto sulla popolazione e sull'ambiente degli ordigni inesplosi e abbandonati di cui al capo 6 (Ambiente) del titolo V del presente accordo. La cooperazione in materia di disarmo concerne anche i controlli degli armamenti, il controllo delle esportazioni di armi e la lotta al traffico illecito di armi, comprese quelle di piccolo calibro e leggere. Le Parti promuovono l'adesione universale e l'ottemperanza agli strumenti internazionali pertinenti e aspirano ad assicurarne l'efficacia, anche attraverso l'attuazione delle risoluzioni pertinenti del Consiglio di sicurezza delle Nazioni Unite.
 
-##### ARTICOLO 13
+###### ARTICOLO 13
 
 Lotta al terrorismo
 
 Le Parti convengono di collaborare a livello bilaterale, regionale e internazionale per prevenire e combattere il terrorismo nel rispetto del diritto internazionale, delle norme internazionali in materia di diritti umani e del diritto umanitario e dei rifugiati.
 
-## TITOLO III - GIUSTIZIA, LIBERTÀ E SICUREZZA
+### TITOLO III - GIUSTIZIA, LIBERTÀ E SICUREZZA
 
-##### ARTICOLO 14
+###### ARTICOLO 14
 
 Stato di diritto e rispetto dei diritti umani e delle liberta' fondamentali
 
@@ -580,13 +578,13 @@ Nella cooperazione in materia di giustizia, liberta' e sicurezza le Parti attrib
 
 La cooperazione mirera' in particolare al rafforzamento della magistratura, al miglioramento della sua efficienza, alla salvaguardia della sua indipendenza e imparzialita' e alla lotta alla corruzione. Tutta la cooperazione in materia di giustizia, liberta' e sicurezza si ispirera' al rispetto dei diritti umani e delle liberta' fondamentali.
 
-##### ARTICOLO 15
+###### ARTICOLO 15
 
 Protezione dei dati personali
 
 Le Parti convengono di cooperare al fine di garantire un adeguato livello di protezione dei dati personali conformemente alle piu' rigorose norme europee e internazionali, tra cui i pertinenti strumenti del Consiglio d'Europa. La cooperazione in materia di protezione dei dati personali puo' riguardare, tra l'altro, lo scambio di informazioni e di esperti.
 
-##### ARTICOLO 16
+###### ARTICOLO 16
 
 Cooperazione in materia di migrazione, asilo e gestione delle frontiere
 
@@ -614,7 +612,7 @@ g) l'elaborazione di una politica di rimpatrio efficace, anche per quanto riguar
 
 h) lo scambio di opinioni sull'occupazione informale dei migranti.
 
-##### ARTICOLO 17
+###### ARTICOLO 17
 
 Trattamento dei lavoratori
 
@@ -622,7 +620,7 @@ Trattamento dei lavoratori
 
 2\. L'Ucraina, conformemente alle leggi, condizioni e procedure in essa applicabili, accorda il trattamento di cui al paragrafo 1 del presente articolo ai lavoratori cittadini di uno Stato membro legalmente occupati nel suo territorio.
 
-##### ARTICOLO 18
+###### ARTICOLO 18
 
 Mobilita' dei lavoratori
 
@@ -634,7 +632,7 @@ b) gli altri Stati membri esaminano la possibilita' di concludere accordi analog
 
 2\. Il Consiglio di associazione valuta la concessione di altri trattamenti piu' favorevoli in altri settori, comprese facilitazioni per l'accesso alla formazione professionale, nel rispetto delle leggi, condizioni e procedure vigenti negli Stati membri dell'UE e tenendo conto della situazione del mercato del lavoro negli Stati membri e nell'UE.
 
-##### ARTICOLO 19
+###### ARTICOLO 19
 
 Circolazione delle persone
 
@@ -648,13 +646,13 @@ b) l'accordo tra la Comunita' europea e l'Ucraina di facilitazione del rilascio 
 
 3\. Le Parti procedono per gradi verso l'instaurazione, a tempo debito, di un regime di esenzione dal visto, purche' sussistano le condizioni di una mobilita' ben gestita e sicura illustrate nel piano di azione in due fasi per la liberalizzazione dei visti presentato al vertice UE-Ucraina del 22 novembre 2010.
 
-##### ARTICOLO 20
+###### ARTICOLO 20
 
 Riciclaggio del denaro e finanziamento del terrorismo
 
 Le Parti collaborano per prevenire e contrastare il riciclaggio del denaro e il finanziamento del terrorismo. A tal fine, le Parti rafforzano la cooperazione bilaterale e internazionale di settore, anche a livello operativo. Le Parti applicano le norme internazionali pertinenti, in particolare quelle del Gruppo di azione finanziaria internazionale (GAFI) e quelle equivalenti alle norme adottate dall'Unione.
 
-##### ARTICOLO 21
+###### ARTICOLO 21
 
 Cooperazione nella lotta alle droghe illecite, ai precursori e alle sostanze psicotrope
 
@@ -664,7 +662,7 @@ Cooperazione nella lotta alle droghe illecite, ai precursori e alle sostanze psi
 
 3\. Le Parti utilizzano i metodi di cooperazione necessari al raggiungimento di questi obiettivi, garantendo un approccio equilibrato e integrato nei confronti di questi problemi.
 
-##### ARTICOLO 22
+###### ARTICOLO 22
 
 Lotta alla criminalita' e alla corruzione
 
@@ -696,7 +694,7 @@ d) le questioni inerenti alla protezione dei testimoni e delle vittime.
 
 4\. Le Parti sono impegnate ad attuare efficacemente la convenzione delle Nazioni Unite contro la criminalita' organizzata transnazionale del 2000 e i suoi tre protocolli, la convenzione delle Nazioni Unite contro la corruzione del 2003 e gli altri strumenti internazionali pertinenti.
 
-##### ARTICOLO 23
+###### ARTICOLO 23
 
 Cooperazione nella lotta al terrorismo
 
@@ -712,7 +710,7 @@ c) esperienze riguardanti la prevenzione del terrorismo.
 
 Tutti gli scambi di informazioni avvengono nel rispetto del diritto internazionale e nazionale.
 
-##### ARTICOLO 24
+###### ARTICOLO 24
 
 Cooperazione giudiziaria
 
@@ -722,13 +720,13 @@ Cooperazione giudiziaria
 
 3\. Per quanto riguarda la cooperazione giudiziaria penale, le Parti si adoperano per migliorare gli accordi sull'assistenza giudiziaria reciproca e sull'estradizione mediante, se del caso, l'adesione ai pertinenti strumenti internazionali delle Nazioni Unite e del Consiglio d'Europa e allo Statuto di Roma della Corte penale internazionale del 1998 di cui all'articolo 8 del presente accordo, la loro attuazione e una piu' stretta cooperazione con Eurojust.
 
-## TITOLO IV - SCAMBI E QUESTIONI COMMERCIALI
+### TITOLO IV - SCAMBI E QUESTIONI COMMERCIALI
 
-### CAPO 1 - TRATTAMENTO NAZIONALE E ACCESSO AL MERCATO PER LE MERCI
+#### CAPO 1 - TRATTAMENTO NAZIONALE E ACCESSO AL MERCATO PER LE MERCI
 
-#### SEZIONE 1 - DISPOSIZIONI COMUNI
+##### SEZIONE 1 - DISPOSIZIONI COMUNI
 
-##### ARTICOLO 25
+###### ARTICOLO 25
 
 Obiettivo
 
@@ -740,7 +738,7 @@ Le Parti istituiscono progressivamente, nel corso di un periodo transitorio dell
 
 presente accordo.
 
-##### ARTICOLO 26
+###### ARTICOLO 26
 
 Campo di applicazione e settori interessati
 
@@ -754,9 +752,9 @@ Campo di applicazione e settori interessati
 
 come definiti nel GATT 1994, salvo diversa indicazione contenuta nel presente accordo.
 
-## SEZIONE 2 - SOPPRESSIONE DI DAZI DOGANALI, DIRITTI E ALTRI ONERI
+##### SEZIONE 2 - SOPPRESSIONE DI DAZI DOGANALI, DIRITTI E ALTRI ONERI
 
-##### ARTICOLO 27
+###### ARTICOLO 27
 
 Definizione di dazi doganali
 
@@ -768,13 +766,13 @@ b) dei dazi applicati a norma del titolo IV, capo 2 (Misure di difesa commercial
 
 c) dei diritti o degli altri oneri applicati a norma dell'articolo 33 del presente accordo.
 
-##### ARTICOLO 28
+###### ARTICOLO 28
 
 Classificazione delle merci
 
 La classificazione delle merci oggetto di scambi commerciali tra le Parti e' quella della nomenclatura tariffaria di ciascuna delle Parti, in conformita' al sistema armonizzato della Convenzione internazionale sul sistema armonizzato di designazione e di codificazione delle merci del 1983 (di seguito "SA") e successive modificazioni.
 
-##### ARTICOLO 29
+###### ARTICOLO 29
 
 Soppressione dei dazi doganali sulle importazioni
 
@@ -788,7 +786,7 @@ Fatto salvo il primo comma, l'Ucraina, per gli oggetti da rigattiere di cui alla
 
 4\. A cinque anni dall'entrata in vigore del presente accordo, le Parti, su richiesta di una di esse, si consultano per decidere se accelerare ed estendere la portata della soppressione dei dazi doganali sugli scambi commerciali reciproci. Una decisione del comitato di associazione riunito nella formazione "Commercio" di cui all'articolo 465 del presente accordo (di seguito anche "comitato per il commercio"), relativa alla soppressione o all'accelerazione della soppressione di un dazio doganale su una merce, sostituisce l'aliquota del dazio o la categoria di soppressione progressiva dei dazi determinata per quella merce secondo le rispettive tabelle.
 
-##### ARTICOLO 30
+###### ARTICOLO 30
 
 Clausola di standstill
 
@@ -798,7 +796,7 @@ a) aumentare un dazio doganale al livello stabilito nella propria tabella succes
 
 b) mantenere o aumentare un dazio doganale secondo quanto autorizzato dall'organo di conciliazione (di seguito "DSB") dell'Organizzazione mondiale del commercio (di seguito "OMC").
 
-##### ARTICOLO 31
+###### ARTICOLO 31
 
 Dazi doganali sulle esportazioni
 
@@ -808,7 +806,7 @@ Dazi doganali sulle esportazioni
 
 Tali misure di salvaguardia scadono al termine del periodo precisato per la merce in questione nell'allegato I-D del presente accordo.
 
-##### ARTICOLO 32
+###### ARTICOLO 32
 
 Sovvenzioni all'esportazione e misure di effetto equivalente
 
@@ -816,37 +814,37 @@ Sovvenzioni all'esportazione e misure di effetto equivalente
 
 2\. Ai fini del presente articolo, il termine "sovvenzioni all'esportazione" ha il medesimo significato ad esso attribuito nell'articolo 1, lettera e), dell'accordo sull'agricoltura di cui all'allegato 1A dell'accordo OMC (di seguito "accordo sull'agricoltura"), comprese le eventuali modifiche di tale accordo sull'agricoltura.
 
-##### ARTICOLO 33
+###### ARTICOLO 33
 
 Diritti e altri oneri
 
 Ciascuna delle Parti dispone, conformemente all'articolo VIII del GATT 1994 e alle sue note interpretative, che i diritti e gli oneri di qualsiasi natura diversi dai dazi doganali o dalle altre misure di cui all'articolo 27 del presente accordo, applicati o connessi all'importazione o all'esportazione delle merci, siano limitati al costo approssimativo dei servizi prestati e non rappresentino una protezione indiretta delle merci di produzione interna ne' una tassazione delle importazioni o delle esportazioni a scopi fiscali.
 
-## SEZIONE 3 - MISURE NON TARIFFARIE
+##### SEZIONE 3 - MISURE NON TARIFFARIE
 
-##### ARTICOLO 34
+###### ARTICOLO 34
 
 Trattamento nazionale
 
 Ciascuna delle Parti accorda il trattamento nazionale alle merci dell'altra Parte in conformita' all'articolo III del GATT 1994 e alle relative note interpretative. A questo scopo, l'articolo III del GATT 1994 e le sue note interpretative sono incorporati nel presente accordo e ne fanno parte integrante.
 
-##### ARTICOLO 35
+###### ARTICOLO 35
 
 Restrizioni all'importazione e all'esportazione
 
 Nessuna delle Parti adotta o mantiene divieti o restrizioni o misure di effetto equivalente sull'importazione di merci dell'altra Parte o sull'esportazione o sulla vendita all'esportazione di merci destinate al territorio dell'altra Parte, salvo quanto altrimenti disposto dal presente accordo o in conformita' all'articolo XI del GATT 1994 e alle relative note interpretative. A questo scopo, l'articolo XI del GATT 1994 e le sue note interpretative sono incorporati nel presente accordo e ne fanno parte integrante.
 
-## SEZIONE 4 - DISPOSIZIONI SPECIFICHE RELATIVE ALLE MERCI
+##### SEZIONE 4 - DISPOSIZIONI SPECIFICHE RELATIVE ALLE MERCI
 
-##### ARTICOLO 36
+###### ARTICOLO 36
 
 Eccezioni generali
 
 Nessuna disposizione del presente accordo puo' essere interpretata come un divieto per le Parti di adottare o applicare misure conformi agli articoli XX e XXI del GATT 1994 e alle relative note interpretative che sono integrati nel presente accordo e ne fanno parte integrante.
 
-## SEZIONE 5 - COOPERAZIONE AMMINISTRATIVA E COORDINAMENTO CON ALTRI PAESI
+##### SEZIONE 5 - COOPERAZIONE AMMINISTRATIVA E COORDINAMENTO CON ALTRI PAESI
 
-##### ARTICOLO 37
+###### ARTICOLO 37
 
 Disposizioni particolari in materia di cooperazione amministrativa
 
@@ -878,13 +876,13 @@ Le sospensioni temporanee sono notificate al comitato per il commercio subito do
 
 5\. Parallelamente alla notifica al comitato per il commercio a norma del paragrafo 4, lettera a), del presente articolo, la Parte interessata pubblica nelle proprie fonti ufficiali di informazione un avviso agli importatori precisando che per il prodotto interessato sono state constatate, in base a dati oggettivi, la mancata cooperazione amministrativa e/o irregolarita' o frodi.
 
-##### ARTICOLO 38
+###### ARTICOLO 38
 
 Gestione degli errori amministrativi
 
 Nel caso in cui, nel gestire il sistema preferenziale di esportazione, in particolare nell'applicare le disposizioni del protocollo del presente accordo relativo alla definizione della nozione di "prodotti originari" e ai metodi di cooperazione amministrativa, le autorita' competenti abbiano commesso un errore che comporti conseguenze in termini di dazi all'importazione, la Parte che subisce dette conseguenze puo' chiedere che il comitato per il commercio vagli la possibilita' di adottare le misure del caso per risolvere la situazione.
 
-##### ARTICOLO 39
+###### ARTICOLO 39
 
 Accordi con altri paesi
 
@@ -892,11 +890,11 @@ Accordi con altri paesi
 
 2\. Nell'ambito del comitato per il commercio le Parti procedono a consultazioni sugli accordi che istituiscono unioni doganali, zone di libero scambio o intese sul traffico transfrontaliero e, ove richiesto, su altre questioni importanti relative alle rispettive politiche commerciali nei confronti dei paesi terzi. In particolare, nel caso dell'adesione di un paese terzo all'Unione europea, queste consultazioni vengono avviate in modo che si tenga conto dei reciproci interessi della Parte UE e dell'Ucraina sanciti dal presente accordo.
 
-## CAPO 2 - MISURE DI DIFESA COMMERCIALE
+#### CAPO 2 - MISURE DI DIFESA COMMERCIALE
 
-### SEZIONE 1 - MISURE DI SALVAGUARDIA GLOBALI
+##### SEZIONE 1 - MISURE DI SALVAGUARDIA GLOBALI
 
-##### ARTICOLO 40
+###### ARTICOLO 40
 
 Disposizioni generali
 
@@ -904,7 +902,7 @@ Disposizioni generali
 
 2\. Le regole di origine preferenziali stabilite a norma del titolo IV, capo 1 (Trattamento nazionale e accesso al mercato per le merci), del presente accordo non si applicano alla presente sezione.
 
-##### ARTICOLO 41
+###### ARTICOLO 41
 
 Trasparenza
 
@@ -914,7 +912,7 @@ Trasparenza
 
 2\. In deroga all'articolo 40 del presente accordo e fatto salvo l'accordo sulle misure di salvaguardia, su richiesta dell'altra Parte, la Parte che apre un'inchiesta di salvaguardia e intende adottare misure di salvaguardia notifica immediatamente per iscritto all'altra Parte tutte le informazioni pertinenti all'origine dell'apertura dell'inchiesta di salvaguardia e dell'istituzione delle misure di salvaguardia, comprese, se del caso, le conclusioni provvisorie e le conclusioni definitive dell'inchiesta, e offre all'altra Parte la possibilita' di consultazioni.
 
-##### ARTICOLO 42
+###### ARTICOLO 42
 
 Applicazione delle misure
 
@@ -922,7 +920,7 @@ Applicazione delle misure
 
 2\. Ai fini del paragrafo 1 del presente articolo, la Parte che intende applicare misure di salvaguardia definitive, ove ritenga siano soddisfatte le condizioni giuridiche per la loro istituzione, ne da' notifica all'altra Parte e offre la possibilita' di consultazioni bilaterali. Se entro trenta giorni dalla notifica non si perviene a una soluzione soddisfacente la Parte importatrice puo' adottare le misure idonee a risolvere il problema.
 
-##### ARTICOLO 43
+###### ARTICOLO 43
 
 Paese in via di sviluppo
 
@@ -934,9 +932,9 @@ L'Ucraina, nella misura in cui puo' essere considerata un paese in via di svilup
 
 paese in via di sviluppo tiene conto degli elenchi pubblicati da organizzazioni internazionali quali la Banca mondiale, l'Organizzazione per la cooperazione e lo sviluppo economici (di seguito "OCSE"), il Fondo monetario internazionale (di seguito "FMI"), ecc.
 
-## SEZIONE 2 - MISURE DI SALVAGUARDIA RELATIVE AGLI AUTOVEICOLI PER IL TRASPORTO DI PERSONE
+##### SEZIONE 2 - MISURE DI SALVAGUARDIA RELATIVE AGLI AUTOVEICOLI PER IL TRASPORTO DI PERSONE
 
-##### ARTICOLO 44
+###### ARTICOLO 44
 
 Misure di salvaguardia relative agli autoveicoli per il trasporto di persone
 
@@ -996,7 +994,7 @@ importazioni (espresse in unita') di autoveicoli per il trasporto di persone ori
 
 di tutti gli autoveicoli per il trasporto di persone fornite dall'Ispettorato automobilistico statale dell'Ucraina.
 
-##### ARTICOLO 45
+###### ARTICOLO 45
 
 Definizioni
 
@@ -1040,9 +1038,9 @@ Ai fini della presente sezione e dell'allegato II del presente accordo:
 
 19\. per "anno 15" si intende il periodo di dodici mesi avente inizio il giorno del quattordicesimo anniversario dell'entrata in vigore del presente accordo.
 
-## SEZIONE 3 - NON CUMULO
+##### SEZIONE 3 - NON CUMULO
 
-##### ARTICOLO 45-bis
+###### ARTICOLO 45-bis
 
 Non cumulo
 
@@ -1052,9 +1050,9 @@ a) una misura di salvaguardia di cui alla sezione 2 (Misure di salvaguardia rela
 
 b) una misura di cui all'articolo XIX del GATT 1994 e all'accordo sulle misure di salvaguardia.
 
-## SEZIONE 4 - MISURE ANTIDUMPING E COMPENSATIVE
+##### SEZIONE 4 - MISURE ANTIDUMPING E COMPENSATIVE
 
-##### ARTICOLO 46
+###### ARTICOLO 46
 
 Disposizioni generali
 
@@ -1062,7 +1060,7 @@ Disposizioni generali
 
 2\. Le regole di origine preferenziali stabilite a norma del titolo IV, capo 1 (Trattamento nazionale e accesso al mercato per le merci), del presente accordo non si applicano alla presente sezione.
 
-##### ARTICOLO 47
+###### ARTICOLO 47
 
 Trasparenza
 
@@ -1074,19 +1072,19 @@ Trasparenza
 
 4\. Purche' lo svolgimento dell'inchiesta non ne sia inutilmente ritardato e conformemente alla legislazione interna di una Parte in materia di procedure d'inchiesta, alle parti interessate e' data la possibilita' di essere sentite per esprimere il proprio punto di vista nel quadro delle inchieste sulle misure antidumping e antisovvenzioni.
 
-##### ARTICOLO 48
+###### ARTICOLO 48
 
 Considerazione dell'interesse pubblico
 
 Una Parte puo' non applicare le misure antidumping o compensative se, alla luce delle informazioni emerse durante l'inchiesta, si puo' chiaramente concludere che l'applicazione di tali misure non e' nell'interesse pubblico. La decisione in ordine all'interesse pubblico si basa su una valutazione di tutti i diversi interessi nel loro complesso, compresi quelli dell'industria nazionale e degli utilizzatori, dei consumatori e degli importatori, se e in quanto essi abbiano fornito le informazioni pertinenti alle autorita' incaricate dell'inchiesta.
 
-##### ARTICOLO 49
+###### ARTICOLO 49
 
 Regola del dazio inferiore
 
 Se una Parte decide di imporre un dazio antidumping o compensativo provvisorio o definitivo, l'importo di tale dazio non supera il margine di dumping o di sovvenzione compensabile ed e' inferiore ad esso se un dazio inferiore e' sufficiente per eliminare il pregiudizio arrecato all'industria nazionale.
 
-##### ARTICOLO 50
+###### ARTICOLO 50
 
 Applicazione delle misure e riesami
 
@@ -1096,9 +1094,9 @@ Applicazione delle misure e riesami
 
 3\. Nel ricevere da un esportatore una domanda di riesame debitamente motivata relativa a misure antidumping o compensative in vigore, la Parte che ha istituito la misura esamina la domanda con obiettivita' e celerita' e informa l'esportatore delle risultanze del riesame non appena possibile.
 
-## SEZIONE 5 - CONSULTAZIONI
+##### SEZIONE 5 - CONSULTAZIONI
 
-##### ARTICOLO 50-bis
+###### ARTICOLO 50-bis
 
 Consultazioni
 
@@ -1108,9 +1106,9 @@ Consultazioni
 
 3\. Le consultazioni a norma della presente sezione si svolgono fatti salvi gli articoli 41 e 47 del presente accordo e nel pieno rispetto degli stessi.
 
-## SEZIONE 6 - DISPOSIZIONI ISTITUZIONALI
+##### SEZIONE 6 - DISPOSIZIONI ISTITUZIONALI
 
-##### ARTICOLO 51
+###### ARTICOLO 51
 
 Dialogo sulle misure di difesa commerciale
 
@@ -1130,17 +1128,17 @@ e) cooperare in relazione a ogni altro aspetto concernente le misure di difesa c
 
 3\. Le riunioni nel quadro del dialogo sulle misure di difesa commerciale si tengono su base ad hoc, su richiesta di una delle Parti. L'ordine del giorno di ciascuna riunione e' concordato preventivamente.
 
-## SEZIONE 7 - RISOLUZIONE DELLE CONTROVERSIE
+##### SEZIONE 7 - RISOLUZIONE DELLE CONTROVERSIE
 
-##### ARTICOLO 52
+###### ARTICOLO 52
 
 Risoluzione delle controversie
 
 Il capo 14 (Risoluzione delle controversie) del titolo IV del presente accordo non si applica alle sezioni 1, 4, 5, 6 e 7 del presente capo.
 
-## CAPO 3 - OSTACOLI TECNICI AL COMMERCIO
+#### CAPO 3 - OSTACOLI TECNICI AL COMMERCIO
 
-##### ARTICOLO 53
+###### ARTICOLO 53
 
 Campo di applicazione e definizioni
 
@@ -1150,13 +1148,13 @@ Campo di applicazione e definizioni
 
 3\. Ai fini del presente capo si applicano le definizioni dell'allegato 1 dell'accordo TBT.
 
-##### ARTICOLO 54
+###### ARTICOLO 54
 
 Conferma dell'accordo TBT
 
 Le Parti confermano i diritti e gli obblighi reciproci derivanti dall'accordo TBT che e' integrato nel presente accordo e ne fa parte.
 
-##### ARTICOLO 55
+###### ARTICOLO 55
 
 Cooperazione tecnica
 
@@ -1176,7 +1174,7 @@ e) nel ricercare soluzioni per rimuovere gli ostacoli al commercio che dovessero
 
 f) nel coordinare le loro posizioni nelle organizzazioni internazionali che si occupano di commercio e regolamentazione, come l'OMC e la Commissione economica per l'Europa delle Nazioni Unite (di seguito "UNECE").
 
-##### ARTICOLO 56
+###### ARTICOLO 56
 
 Ravvicinamento delle regolamentazioni tecniche, delle norme e della valutazione della conformita'
 
@@ -1208,7 +1206,7 @@ iii) predispone il sistema amministrativo efficace e trasparente necessario all'
 
 europeo e del Consiglio, del 9 luglio 2008, relativa a un quadro comune per la commercializzazione dei prodotti e che abroga la decisione 93/465/CEE, e il regolamento (CE) n. 765/2008 del Parlamento europeo e del Consiglio, del 9 luglio 2008, che pone norme in materia di accreditamento e vigilanza del mercato per quanto riguarda la commercializzazione dei prodotti e che abroga il regolamento (CEE) n. 339/93.
 
-##### ARTICOLO 57
+###### ARTICOLO 57
 
 Accordo sulla valutazione della conformita' e l'accettazione dei prodotti industriali
 
@@ -1222,7 +1220,7 @@ Accordo sulla valutazione della conformita' e l'accettazione dei prodotti indust
 
 5\. A un prodotto, finche' non sia contemplato nell'ACAA, si applica la pertinente legislazione vigente delle Parti, tenendo conto delle disposizioni dell'accordo TBT.
 
-##### ARTICOLO 58
+###### ARTICOLO 58
 
 Marcatura ed etichettatura
 
@@ -1236,9 +1234,9 @@ b) che una Parte puo' specificare la forma dell'etichettatura o della marcatura,
 
 c) di conservare il diritto di esigere che le informazioni figurino sull'etichettatura o sulla marcatura in una determinata lingua.
 
-## CAPO 4 - MISURE SANITARIE E FITOSANITARIE
+#### CAPO 4 - MISURE SANITARIE E FITOSANITARIE
 
-##### ARTICOLO 59
+###### ARTICOLO 59
 
 Obiettivo
 
@@ -1260,19 +1258,19 @@ g) una migliore comunicazione e cooperazione tra le Parti sulle misure sanitarie
 
 2\. Il presente capo mira inoltre migliorare l'intesa tra le Parti per quanto riguarda le norme per il benessere degli animali.
 
-##### ARTICOLO 60
+###### ARTICOLO 60
 
 Obblighi multilaterali
 
 Le Parti riaffermano i propri diritti e obblighi stabiliti dall'accordo SPS.
 
-##### ARTICOLO 61
+###### ARTICOLO 61
 
 Campo di applicazione
 
 Il presente capo si applica a tutte le misure sanitarie e fitosanitarie di una Parte in grado di incidere, direttamente o indirettamente, sul commercio tra le Parti, comprese le misure elencate nell'allegato IV del presente accordo.
 
-##### ARTICOLO 62
+###### ARTICOLO 62
 
 Definizioni
 
@@ -1356,13 +1354,13 @@ j) le gemme, le talee, le marze;
 
 29\. "verifica": il controllo, mediante esame e considerazione di prove oggettive, volto a stabilire se siano stati soddisfatti requisiti specifici.
 
-##### ARTICOLO 63
+###### ARTICOLO 63
 
 Autorita' competenti
 
 Le Parti si informano reciprocamente in merito alla struttura, all'organizzazione e alla ripartizione delle competenze tra le loro autorita' competenti nel corso della prima riunione del sottocomitato di gestione per le questioni sanitarie e fitosanitarie (di seguito "sottocomitato SPS") di cui all'articolo 74 del presente accordo. Le Parti si informano reciprocamente di eventuali cambiamenti concernenti le autorita' competenti, anche per quanto riguarda i punti di contatto.
 
-##### ARTICOLO 64
+###### ARTICOLO 64
 
 Ravvicinamento normativo
 
@@ -1380,7 +1378,7 @@ Ravvicinamento normativo
 
 seguito "OGM"), la strategia complessiva comprende anche calendari di ravvicinamento della legislazione ucraina relativa agli OGM a quella dell'UE di cui all'allegato XXIX del capo 6 del titolo V (Cooperazione economica e settoriale).
 
-##### ARTICOLO 65
+###### ARTICOLO 65
 
 Riconoscimento, ai fini degli scambi commerciali, dello status zoosanitario, fitosanitario e delle condizioni regionali
 
@@ -1422,7 +1420,7 @@ C. Compartimentalizzazione
 
 Le Parti si impegnano ad approfondire il dibattito in vista dell'attuazione del principio di compartimentalizzazione di cui all'allegato XIV del presente accordo.
 
-##### ARTICOLO 66
+###### ARTICOLO 66
 
 Determinazione dell'equivalenza
 
@@ -1460,7 +1458,7 @@ Lo status dell'equivalenza figura nell'allegato IX del presente accordo.
 
 11\. Una volta che abbia avuto luogo il ravvicinamento legislativo, e' su di esso che si fonda la determinazione dell'equivalenza.
 
-##### ARTICOLO 67
+###### ARTICOLO 67
 
 Trasparenza e scambio di informazioni
 
@@ -1474,7 +1472,7 @@ E' auspicabile che sia raggiunto il livello di cooperazione necessario per facil
 
 A tale scopo, ciascuna Parte notifica all'altra Parte i propri punti di contatto. Le Parti si notificano reciprocamente ogni modifica di queste informazioni.
 
-##### ARTICOLO 68
+###### ARTICOLO 68
 
 Notifiche, consultazioni e facilitazione delle comunicazioni
 
@@ -1500,7 +1498,7 @@ b) per notifica scritta si intende una notifica inviata per posta, fax o e-mail.
 
 6\. L'applicazione reciproca di un sistema di allarme rapido e di un meccanismo di allerta precoce per l'emergenza veterinaria o fitosanitaria avra' inizio una volta che l'Ucraina avra' attuato la legislazione necessaria in questa materia e creato le condizioni per il corretto funzionamento in loco di tali meccanismi.
 
-##### ARTICOLO 69
+###### ARTICOLO 69
 
 Condizioni commerciali
 
@@ -1534,7 +1532,7 @@ b) Per le importazioni dei prodotti animali di cui al paragrafo 2, lettera a), l
 
 6\. Su richiesta di una Parte, l'altra Parte fornisce una motivazione circostanziata e i dati giustificativi alla base delle decisioni che rientrano nell'ambito di applicazione del presente articolo.
 
-##### ARTICOLO 70
+###### ARTICOLO 70
 
 Procedura di certificazione
 
@@ -1544,7 +1542,7 @@ Procedura di certificazione
 
 3\. Nel quadro del ravvicinamento legislativo di cui all'articolo 64 del presente accordo, le Parti concordano, se del caso, modelli comuni di certificati.
 
-##### ARTICOLO 71
+###### ARTICOLO 71
 
 Verifica
 
@@ -1562,7 +1560,7 @@ c) di partecipare, previa richiesta e se del caso, per le prove di laboratorio r
 
 4\. I risultati delle verifiche possono contribuire alle misure di cui agli articoli 64, 66 e 72 del presente accordo adottate dalle Parti o da una di esse.
 
-##### ARTICOLO 72
+###### ARTICOLO 72
 
 Controlli all'importazione e diritti d'ispezione
 
@@ -1580,7 +1578,7 @@ A decorrere da tale data, le Parti possono approvare reciprocamente i controlli 
 
 6\. Le condizioni di approvazione dell'adeguamento dei controlli all'importazione sono inserite nell'allegato XI del presente accordo mediante la procedura di cui all'articolo 74, paragrafo 6, del medesimo accordo.
 
-##### ARTICOLO 73
+###### ARTICOLO 73
 
 Misure di salvaguardia
 
@@ -1590,7 +1588,7 @@ Misure di salvaguardia
 
 3\. La Parte che adotta misure a norma del paragrafo 2 del presente articolo informa l'altra Parte entro un giorno lavorativo dalla loro adozione. Su richiesta di una delle Parti, e a norma dell'articolo 68, paragrafo 3, del presente accordo, le Parti si consultano sulla situazione entro quindici giorni lavorativi dalla notifica. Le Parti tengono debitamente conto di tutte le informazioni fornite durante le consultazioni e si adoperano per evitare inutili perturbazioni degli scambi tenendo conto, se del caso, dell'esito delle consultazioni di cui all'articolo 68, paragrafo 3, del presente accordo.
 
-##### ARTICOLO 74
+###### ARTICOLO 74
 
 Sottocomitato di gestione per le questioni sanitarie e fitosanitarie
 
@@ -1614,9 +1612,9 @@ d) formulare pareri e raccomandazioni ad altri organi definiti nelle disposizion
 
 6\. Le decisioni, raccomandazioni, relazioni o altre iniziative del sottocomitato SPS o di qualsiasi gruppo istituito dal sottocomitato SPS, riguardanti l'autorizzazione di importazioni, lo scambio di informazioni, la trasparenza, il riconoscimento della regionalizzazione, l'equivalenza e le misure alternative, nonche' qualsiasi altra questione di cui ai paragrafi 2 and 3, sono adottate per consenso tra le Parti.
 
-## CAPO 5 - DOGANE E FACILITAZIONE DEGLI SCAMBI
+#### CAPO 5 - DOGANE E FACILITAZIONE DEGLI SCAMBI
 
-##### ARTICOLO 75
+###### ARTICOLO 75
 
 Obiettivi
 
@@ -1624,7 +1622,7 @@ Le Parti riconoscono l'importanza delle questioni relative alle dogane e alla fa
 
 Le Parti riconoscono che la massima importanza va riconosciuta ai legittimi obiettivi di politica pubblica, quali la facilitazione degli scambi, la sicurezza e la prevenzione delle frodi, da perseguire con un approccio equilibrato.
 
-##### ARTICOLO 76
+###### ARTICOLO 76
 
 Legislazione e procedure
 
@@ -1682,7 +1680,7 @@ b) Le Parti perseguono progressivamente l'interconnettivita' dei loro rispettivi
 
 c) Le Parti garantiscono la cooperazione e il coordinamento di tutte le autorita' e agenzie interessate sul loro territorio per agevolare il traffico in transito e promuovere la cooperazione transfrontaliera. Sul tema del transito le Parti promuovono anche la cooperazione tra le autorita' e il settore privato.
 
-##### ARTICOLO 77
+###### ARTICOLO 77
 
 Rapporti con la comunita' imprenditoriale
 
@@ -1698,7 +1696,7 @@ d) di favorire la cooperazione tra gli operatori e le amministrazioni competenti
 
 e) di garantire che le loro rispettive prescrizioni e procedure doganali e quelle correlate continuino a rispondere alle esigenze degli operatori commerciali, si mantengano conformi alle migliori pratiche e abbiano gli effetti il meno restrittivi possibile sugli scambi.
 
-##### ARTICOLO 78
+###### ARTICOLO 78
 
 Diritti e oneri
 
@@ -1718,7 +1716,7 @@ Le informazioni sui diritti e sugli oneri sono pubblicate tramite una fonte uffi
 
 e) i diritti o gli oneri nuovi o modificati non sono imposti finche' le relative informazioni non siano pubblicate e rese facilmente accessibili.
 
-##### ARTICOLO 79
+###### ARTICOLO 79
 
 Valutazione in dogana
 
@@ -1728,7 +1726,7 @@ Non sono utilizzati i valori in dogana minimi.
 
 2\. Le Parti cooperano al fine di pervenire a un'impostazione comune su questioni riguardanti la valutazione in dogana.
 
-##### ARTICOLO 80
+###### ARTICOLO 80
 
 Cooperazione doganale
 
@@ -1754,19 +1752,19 @@ h) promuovono il coordinamento tra tutte le autorita' di frontiera, a livello na
 
 i) riconoscono reciprocamente, se del caso e se opportuno, gli operatori autorizzati e i controlli doganali. Il campo di applicazione di tale cooperazione, la sua attuazione e le modalita' pratiche sono decise dal sottocomitato doganale di cui all'articolo 83 del presente accordo.
 
-##### ARTICOLO 81
+###### ARTICOLO 81
 
 Assistenza amministrativa reciproca nel settore doganale
 
 Fermo restando l'articolo 80 del presente accordo, le amministrazioni delle Parti si prestano assistenza amministrativa reciproca nel settore doganale in base alle disposizioni del protocollo II del presente accordo relativo all'assistenza amministrativa reciproca nel settore doganale.
 
-##### ARTICOLO 82
+###### ARTICOLO 82
 
 Assistenza tecnica e sviluppo delle capacita'
 
 Le Parti collaborano, in termini di assistenza tecnica e di sviluppo delle capacita', all'attuazione delle riforme doganali e di facilitazione degli scambi commerciali.
 
-##### ARTICOLO 83
+###### ARTICOLO 83
 
 Sottocomitato doganale
 
@@ -1784,17 +1782,17 @@ d) formula raccomandazioni, se del caso; e
 
 e) adotta il proprio regolamento interno.
 
-##### ARTICOLO 84
+###### ARTICOLO 84
 
 Ravvicinamento della legislazione doganale
 
 Il graduale ravvicinamento alla legislazione doganale dell'UE di cui alle norme dell'UE e internazionali avviene nei modi indicati nell'allegato XV del presente accordo.
 
-## CAPO 6 - STABILIMENTO, COMMERCIO DI SERVIZI E COMMERCIO ELETTRONICO
+#### CAPO 6 - STABILIMENTO, COMMERCIO DI SERVIZI E COMMERCIO ELETTRONICO
 
-### SEZIONE 1 - DISPOSIZIONI GENERALI
+##### SEZIONE 1 - DISPOSIZIONI GENERALI
 
-##### ARTICOLO 85
+###### ARTICOLO 85
 
 Obiettivo, campo di applicazione e settori interessati
 
@@ -1816,7 +1814,7 @@ Fatte salve le disposizioni sulla circolazione delle persone di cui al titolo II
 
 determinati paesi e non per quelle di altri paesi non e' considerato tale da annullare o compromettere i vantaggi stabiliti dall'accordo.
 
-##### ARTICOLO 86
+###### ARTICOLO 86
 
 Definizioni
 
@@ -1924,9 +1922,9 @@ disposizioni legislative e regolamentari e alle condizioni giuridiche della Part
 
 disposizioni legislative e regolamentari e alle prescrizioni giuridiche della Parte in cui il contratto viene eseguito.
 
-## SEZIONE 2 - STABILIMENTO
+##### SEZIONE 2 - STABILIMENTO
 
-##### ARTICOLO 87
+###### ARTICOLO 87
 
 Campo di applicazione
 
@@ -1970,7 +1968,7 @@ definizione di "cabotaggio" a norma del diritto nazionale pertinente, il cabotag
 
 aerei sono oggetto dell'accordo tra l'Unione europea e i suoi Stati membri e l'Ucraina sull'istituzione di uno Spazio aereo comune.
 
-##### ARTICOLO 88
+###### ARTICOLO 88
 
 Trattamento nazionale e trattamento della nazione piu' favorita
 
@@ -1998,7 +1996,7 @@ investimenti, comprese le procedure di risoluzione delle controversie investitor
 
 investimenti, comprese le procedure di risoluzione delle controversie investitore-Stato, quale disciplinata da altri accordi e non contemplata dal presente capo.
 
-##### ARTICOLO 89
+###### ARTICOLO 89
 
 Riesame
 
@@ -2010,13 +2008,13 @@ Riesame
 
 &#160;1 Costituito dal presente capo e dagli allegati XVI-A e XVI-D.
 
-##### ARTICOLO 90
+###### ARTICOLO 90
 
 Altri accordi
 
 Nessuna disposizione del presente capo va interpretata come limitativa dei diritti degli investitori delle Parti di usufruire del trattamento piu' favorevole eventualmente previsto da accordi internazionali vigenti o futuri in materia di investimenti di cui siano parti uno Stato membro dell'Unione europea e l'Ucraina.
 
-##### ARTICOLO 91
+###### ARTICOLO 91
 
 Trattamento delle succursali e degli uffici di rappresentanza
 
@@ -2024,9 +2022,9 @@ Trattamento delle succursali e degli uffici di rappresentanza
 
 2\. La differenza di trattamento si limita a quanto strettamente necessario in ragione di tali differenze giuridiche o tecniche oppure, per i servizi finanziari, per motivi prudenziali.
 
-## SEZIONE 3 - PRESTAZIONE TRANSFRONTALIERA DI SERVIZI
+##### SEZIONE 3 - PRESTAZIONE TRANSFRONTALIERA DI SERVIZI
 
-##### ARTICOLO 92
+###### ARTICOLO 92
 
 Campo di applicazione
 
@@ -2060,7 +2058,7 @@ vo l'ambito delle attivita' che possono rientrare nella definizione di "cabotagg
 
 aerei sono oggetto dell'accordo tra l'Unione europea e i suoi Stati membri e l'Ucraina sull'istituzione di uno Spazio aereo comune.
 
-##### ARTICOLO 93
+###### ARTICOLO 93
 
 Accesso al mercato
 
@@ -2074,7 +2072,7 @@ b) limitazioni del valore complessivo delle transazioni o delle attivita' patrim
 
 c) limitazioni del numero complessivo di imprese di servizi o della produzione totale di servizi, espresse in termini di unita' numeriche definite, sotto forma di contingenti o di una verifica della necessita' economica.
 
-##### ARTICOLO 94
+###### ARTICOLO 94
 
 Trattamento nazionale
 
@@ -2086,7 +2084,7 @@ Trattamento nazionale
 
 4\. Gli impegni specifici assunti a norma del presente articolo non sono da interpretare come tali da implicare l'obbligo per le Parti di compensare eventuali svantaggi competitivi intrinseci derivanti dal fatto che i servizi o i prestatori in questione siano stranieri.
 
-##### ARTICOLO 95
+###### ARTICOLO 95
 
 Elenchi degli impegni
 
@@ -2094,15 +2092,15 @@ Elenchi degli impegni
 
 2\. Fatti salvi i diritti e gli obblighi delle Parti che derivano o potrebbero derivare dalla convenzione europea sulla televisione transfrontaliera del 1989 e dalla convenzione europea sulla coproduzione cinematografica del 1992 del Consiglio d'Europa, gli elenchi degli impegni che figurano negli allegati XVI-B e XVI-E del presente accordo non comprendono impegni relativi ai servizi audiovisivi.
 
-##### ARTICOLO 96
+###### ARTICOLO 96
 
 Riesame
 
 In vista della progressiva liberalizzazione della prestazione transfrontaliera dei servizi tra le Parti, il comitato per il commercio riesamina, con cadenza periodica, gli elenchi degli impegni di cui all'articolo 95 del presente accordo. Il riesame tiene conto dei progressi nel recepimento, nell'attuazione e nell'applicazione dell'acquis dell'UE richiamato nell'allegato XVII del presente accordo e dell'incidenza di tali progressi sull'eliminazione dei perduranti ostacoli alla prestazione transfrontaliera di servizi tra le Parti.
 
-## SEZIONE 4 - PRESENZA TEMPORANEA DI PERSONE FISICHE PER MOTIVI PROFESSIONALI
+##### SEZIONE 4 - PRESENZA TEMPORANEA DI PERSONE FISICHE PER MOTIVI PROFESSIONALI
 
-##### ARTICOLO 97
+###### ARTICOLO 97
 
 Campo di applicazione
 
@@ -2114,7 +2112,7 @@ La presente sezione si applica alle misure delle Parti in materia di ingresso e 
 
 dalle disposizioni legislative e regolamentari delle Parti in materia di ingresso, soggiorno, lavoro e sicurezza sociale, compresi la disciplina riguardante il periodo di soggiorno, i salari minimi nonche' gli accordi salariali collettivi. Gli impegni in materia di circolazione delle persone non si applicano qualora la finalita' o l'effetto di tale circolazione sia quello di interferire in vertenze o negoziati sindacali o comunque condizionarli.
 
-##### ARTICOLO 98
+###### ARTICOLO 98
 
 Personale chiave
 
@@ -2122,19 +2120,19 @@ Personale chiave
 
 2\. L'ingresso e la presenza temporanea di persone fisiche, rispettivamente, dell'Ucraina e della Parte UE, nel territorio della Parte UE o dell'Ucraina sono consentiti se si tratta di rappresentanti di persone giuridiche e di visitatori per motivi professionali ai sensi dell'articolo 86, punto 17, lettera a), del presente accordo. Fatto salvo il paragrafo 1 del presente articolo, l'ingresso e il soggiorno temporaneo dei visitatori per motivi professionali hanno una durata massima di novanta giorni nell'arco di dodici mesi.
 
-##### ARTICOLO 99
+###### ARTICOLO 99
 
 Laureati in tirocinio
 
 Una persona giuridica della Parte UE o una persona giuridica dell'Ucraina ha il diritto - conformemente alla legislazione in vigore nel paese di stabilimento ospitante - di assumere o di far assumere dalle sue controllate, dalle sue succursali e dai suoi uffici di rappresentanza stabiliti, rispettivamente, nel territorio dell'Ucraina o della Parte UE, laureati in tirocinio che siano rispettivamente cittadini di Stati membri dell'Unione europea e dell'Ucraina, purche' essi siano impiegati esclusivamente da tali persone giuridiche, succursali, controllate e uffici di rappresentanza. L'ingresso e il soggiorno temporaneo dei laureati in tirocinio hanno una durata massima di un anno.
 
-##### ARTICOLO 100
+###### ARTICOLO 100
 
 Venditori di servizi alle imprese
 
 Ciascuna delle Parti consente l'ingresso e il soggiorno temporanei dei venditori di servizi alle imprese per un periodo massimo di novanta giorni nell'arco di dodici mesi.
 
-##### ARTICOLO 101
+###### ARTICOLO 101
 
 Prestatori di servizi contrattuali
 
@@ -2208,7 +2206,7 @@ h) altre limitazioni discriminatorie, riguardanti anche il numero delle persone 
 
 ottenuti nel territorio della Parte in cui il servizio viene prestato, quest'ultima ha la facolta' di valutarne l'equivalenza con un titolo di studio universitario richiesto nel suo territorio.
 
-##### ARTICOLO 102
+###### ARTICOLO 102
 
 Professionisti indipendenti
 
@@ -2252,11 +2250,11 @@ f) altre limitazioni discriminatorie, riguardanti anche il numero delle persone 
 
 ottenuti nel territorio della Parte in cui il servizio viene prestato, quest'ultima ha la facolta' di valutarne l'equivalenza con un titolo di studio universitario richiesto nel suo territorio.
 
-## SEZIONE 5 - QUADRO DI REGOLAMENTAZIONE
+##### SEZIONE 5 - QUADRO DI REGOLAMENTAZIONE
 
-### SOTTOSEZIONE 1 - REGOLAMENTAZIONE INTERNA
+**SOTTOSEZIONE 1 - REGOLAMENTAZIONE INTERNA**
 
-##### ARTICOLO 103
+###### ARTICOLO 103
 
 Campo di applicazione e definizioni
 
@@ -2280,7 +2278,7 @@ b) "autorita' competente": le amministrazioni e le autorita' centrali, regionali
 
 c) "procedure di rilascio di una licenza": le procedure da seguire nell'ambito del rilascio di una licenza.
 
-##### ARTICOLO 104
+###### ARTICOLO 104
 
 Condizioni di rilascio di una licenza
 
@@ -2308,7 +2306,7 @@ f) trasparenti e accessibili.
 
 6\. Fatte salve le disposizioni del presente articolo, le Parti possono tener conto, nello stabilire le regole della procedura di selezione, di legittimi obiettivi di politica pubblica, quali la salute, la sicurezza, la protezione dell'ambiente e la salvaguardia del patrimonio culturale.
 
-##### ARTICOLO 105
+###### ARTICOLO 105
 
 Procedure di rilascio di una licenza
 
@@ -2330,9 +2328,9 @@ Il termine decorre solo dal momento in cui le autorita' competenti abbiano ricev
 
 risorse naturali, i pagamenti dovuti per la partecipazione ad aste, gare o altri mezzi non discriminatori di assegnazione delle concessioni, ne' i contributi obbligatori alla fornitura del servizio universale.
 
-## SOTTOSEZIONE 2 - DISPOSIZIONI DI APPLICAZIONE GENERALE
+**SOTTOSEZIONE 2 - DISPOSIZIONI DI APPLICAZIONE GENERALE**
 
-##### ARTICOLO 106
+###### ARTICOLO 106
 
 Mutuo riconoscimento
 
@@ -2346,7 +2344,7 @@ Mutuo riconoscimento
 
 5\. Gli accordi di questo tipo devono essere conformi alle disposizioni pertinenti dell'accordo OMC, in particolare all'articolo VII del GATS.
 
-##### ARTICOLO 107
+###### ARTICOLO 107
 
 Trasparenza e divulgazione di informazioni riservate
 
@@ -2354,9 +2352,9 @@ Trasparenza e divulgazione di informazioni riservate
 
 2\. Nessuna disposizione del presente accordo impone alle Parti di fornire informazioni riservate la cui divulgazione impedisca l'applicazione della legge o sia comunque in contrasto con l'interesse pubblico o pregiudichi interessi commerciali legittimi di determinate imprese, siano esse pubbliche o private.
 
-## SOTTOSEZIONE 3 - SERVIZI INFORMATICI
+**SOTTOSEZIONE 3 - SERVIZI INFORMATICI**
 
-##### ARTICOLO 108
+###### ARTICOLO 108
 
 Intesa sui servizi informatici
 
@@ -2376,9 +2374,9 @@ oppure
 
 e) formazione del personale dei clienti nel campo dei programmi informatici, dei computer o dei sistemi informatici, non classificati altrove.
 
-## SOTTOSEZIONE 4 - SERVIZI POSTALI E DI CORRIERE
+**SOTTOSEZIONE 4 - SERVIZI POSTALI E DI CORRIERE**
 
-##### ARTICOLO 109
+###### ARTICOLO 109
 
 Campo di applicazione e definizioni
 
@@ -2390,19 +2388,19 @@ a) "licenza": l'autorizzazione, accordata da un'autorita' di regolamentazione a 
 
 b) "servizio universale": l'offerta di servizi postali di qualita' determinata, forniti permanentemente in tutti i punti del territorio di una Parte, a prezzi accessibili a tutti gli utenti.
 
-##### ARTICOLO 110
+###### ARTICOLO 110
 
 Prevenzione delle pratiche anticoncorrenziali nel settore dei servizi postali e di corriere
 
 Vengono introdotte o mantenute in vigore misure appropriate volte a impedire che vengano poste o mantenute in essere pratiche anticoncorrenziali da quei fornitori che, sfruttando la loro posizione sul mercato, siano in grado, singolarmente o in gruppo, di influire sostanzialmente (in termini di prezzi e di offerta) sulle modalita' di partecipazione al mercato dei servizi postali e di corriere di cui trattasi.
 
-##### ARTICOLO 111
+###### ARTICOLO 111
 
 Servizio universale
 
 Le Parti hanno il diritto di definire il tipo di obblighi di servizio universale che intendono mantenere. Tali obblighi non vanno di per se' considerati anticoncorrenziali a condizione che siano gestiti in modo trasparente e non discriminatorio, che risultino neutrali in termini di concorrenza e non siano piu' gravosi del necessario per il tipo di servizio universale definito dalla Parte in questione.
 
-##### ARTICOLO 112
+###### ARTICOLO 112
 
 Licenze
 
@@ -2416,13 +2414,13 @@ b) i termini e le condizioni delle licenze.
 
 3\. I motivi alla base del diniego del rilascio di una licenza sono comunicati al richiedente che ne faccia richiesta e ciascuna delle Parti istituisce una procedura di ricorso dinanzi a un organismo indipendente. Tale procedura sara' trasparente, non discriminatoria e basata su criteri oggettivi.
 
-##### ARTICOLO 113
+###### ARTICOLO 113
 
 Indipendenza dell'organismo di regolamentazione
 
 L'organismo di regolamentazione e' giuridicamente distinto dai fornitori di servizi postali e di corriere, ai quali non deve rispondere del suo operato. Le decisioni e le procedure dell'organismo di regolamentazione sono imparziali nei confronti di tutti i partecipanti al mercato.
 
-##### ARTICOLO 114
+###### ARTICOLO 114
 
 Ravvicinamento normativo
 
@@ -2432,9 +2430,9 @@ L'Ucraina fa in modo che la propria legislazione presente e futura sia resa prog
 
 2\. Il ravvicinamento iniziera' con la firma del presente accordo e si estendera' progressivamente a tutti gli elementi dell'acquis dell'UE di cui all'allegato XVII del presente accordo.
 
-## SOTTOSEZIONE 5 - COMUNICAZIONI ELETTRONICHE
+**SOTTOSEZIONE 5 - COMUNICAZIONI ELETTRONICHE**
 
-##### ARTICOLO 115
+###### ARTICOLO 115
 
 Campo di applicazione e definizioni
 
@@ -2464,7 +2462,7 @@ i) "utente finale": un utente che non fornisce reti pubbliche di comunicazione o
 
 i) "rete locale": il circuito fisico che collega il punto terminale della rete al domicilio dell'abbonato, al permutatore o a un impianto equivalente nella rete pubblica fissa di comunicazione.
 
-##### ARTICOLO 116
+###### ARTICOLO 116
 
 Autorita' di regolamentazione
 
@@ -2494,7 +2492,7 @@ prodotti e servizi costituisce l'allegato XIX. L'elenco dei mercati rilevanti di
 
 Gli obblighi assunti a norma del presente capo dovranno tener conto di tale revisione. Per l'Ucraina l'elenco indicativo dei mercati rilevanti di prodotti e servizi costituisce l'allegato XX. L'elenco dei mercati rilevanti di cui all'allegato XX e' periodicamente rivisto dall'Ucraina sulla base del processo di ravvicinamento all'acquis previsto dall'articolo 124. Gli obblighi assunti a norma del presente capo dovranno tener conto di tale revisione.
 
-##### ARTICOLO 117
+###### ARTICOLO 117
 
 Autorizzazione a fornire servizi di comunicazione elettronica
 
@@ -2518,7 +2516,7 @@ d) i diritti di licenza1 imposti dalle Parti per il rilascio di una licenza non 
 
 partecipazione ad aste, gare o altri mezzi non discriminatori di assegnazione delle concessioni, ne' i contributi obbligatori alla fornitura del servizio universale.
 
-##### ARTICOLO 118
+###### ARTICOLO 118
 
 Accesso e interconnessione
 
@@ -2550,7 +2548,7 @@ g) obblighi di trasparenza che impongono agli operatori di rendere pubbliche det
 
 4\. Le Parti garantiscono che il fornitore di servizi che richieda l'interconnessione a un fornitore di servizi designato come detentore di un significativo potere di mercato possa rivolgersi, in qualsiasi momento oppure una volta trascorso un periodo di tempo ragionevole che sia noto al pubblico, a un organismo interno indipendente, che puo' essere un'autorita' di regolamentazione ai sensi all'articolo 115, paragrafo 2, lettera d), del presente accordo, per la risoluzione delle controversie concernenti i termini e le condizioni di interconnessione e/o accesso.
 
-##### ARTICOLO 119
+###### ARTICOLO 119
 
 Risorse limitate
 
@@ -2562,7 +2560,7 @@ Risorse limitate
 
 4\. Qualora autorita' pubbliche o locali mantengano la proprieta' o il controllo di fornitori di servizi che gestiscono reti e/o servizi pubblici di comunicazione, occorre garantire un'effettiva separazione strutturale della funzione attinente alla concessione dei diritti di passaggio dalle funzioni attinenti alla proprieta' o al controllo.
 
-##### ARTICOLO 120
+###### ARTICOLO 120
 
 Servizio universale
 
@@ -2584,19 +2582,19 @@ b) le organizzazioni che prestano i servizi di cui alla lettera a) applichino il
 
 dei dati personali e di tutela della vita privata nel settore delle comunicazioni elettroniche.
 
-##### ARTICOLO 121
+###### ARTICOLO 121
 
 Fornitura transfrontaliera di servizi di comunicazione elettronica
 
 Le Parti si astengono dall'adottare o dal mantenere in vigore misure che limitino la fornitura transfrontaliera di servizi di comunicazione elettronica.
 
-##### ARTICOLO 122
+###### ARTICOLO 122
 
 Riservatezza delle informazioni
 
 Ciascuna delle Parti assicura la riservatezza delle comunicazioni elettroniche effettuate tramite una rete pubblica di comunicazione elettronica e i servizi di comunicazione elettronica accessibili al pubblico, nonche' dei relativi dati sul traffico, senza restrizioni degli scambi di servizi.
 
-##### ARTICOLO 123
+###### ARTICOLO 123
 
 Controversie tra fornitori di servizi
 
@@ -2608,7 +2606,7 @@ Alle parti interessate viene fornita una motivazione esauriente.
 
 3\. Qualora la controversia riguardi la prestazione transfrontaliera di servizi, le competenti autorita' di regolamentazione coordinano gli sforzi per risolvere la controversia.
 
-##### ARTICOLO 124
+###### ARTICOLO 124
 
 Ravvicinamento normativo
 
@@ -2618,9 +2616,9 @@ L'Ucraina fa in modo che la propria legislazione presente e futura sia resa prog
 
 2\. Il ravvicinamento iniziera' con la firma del presente accordo e si estendera' progressivamente a tutti gli elementi dell'acquis dell'UE di cui all'allegato XVII del presente accordo.
 
-## SOTTOSEZIONE 6 - SERVIZI FINANZIARI
+**SOTTOSEZIONE 6 - SERVIZI FINANZIARI**
 
-##### ARTICOLO 125
+###### ARTICOLO 125
 
 Campo di applicazione e definizioni
 
@@ -2692,7 +2690,7 @@ c) per "soggetto pubblico" si intende:
 
 d) "nuovo servizio finanziario": un servizio di carattere finanziario, compresi i servizi connessi a prodotti nuovi ed esistenti o alla modalita' di erogazione del prodotto, che non e' prestato da alcun prestatore di servizi finanziari nel territorio di una delle Parti, ma prestato nel territorio dell'altra Parte.
 
-##### ARTICOLO 126
+###### ARTICOLO 126
 
 Misure prudenziali
 
@@ -2708,7 +2706,7 @@ b) la salvaguardia dell'integrita' e della stabilita' del sistema finanziario di
 
 4\. Fatti salvi altri mezzi di regolamentazione prudenziale del commercio transfrontaliero di servizi finanziari, una Parte puo' esigere la registrazione dei prestatori di servizi finanziari transfrontalieri dell'altra Parte e degli strumenti finanziari.
 
-##### ARTICOLO 127
+###### ARTICOLO 127
 
 Regolamentazione efficace e trasparente
 
@@ -2726,13 +2724,13 @@ Ciascuna delle Parti fa quanto in suo potere affinche' nel proprio territorio si
 
 Le Parti prendono atto anche dei dieci principi chiave in materia di scambio di informazioni formulati dai ministri delle Finanze dei paesi del G7 e attueranno tutte le misure necessarie per cercare di applicarli nei contatti bilaterali.
 
-##### ARTICOLO 128
+###### ARTICOLO 128
 
 Nuovi servizi finanziari
 
 Ciascuna delle Parti autorizza i prestatori di servizi finanziari dell'altra Parte stabiliti nel suo territorio a prestare qualsiasi nuovo servizio finanziario simile a quelli di cui autorizza la prestazione ad opera dei propri prestatori di servizi finanziari in circostanze simili, a norma della legislazione interna. Le Parti possono stabilire la forma giuridica della prestazione del servizio e subordinare tale prestazione a un'autorizzazione. Se e' prescritta un'autorizzazione, la relativa decisione viene adottata in tempi ragionevoli e l'autorizzazione puo' essere negata solo per i motivi di cui all'articolo 126 del presente accordo.
 
-##### ARTICOLO 129
+###### ARTICOLO 129
 
 Trattamento dei dati
 
@@ -2740,7 +2738,7 @@ Trattamento dei dati
 
 2\. Ciascuna delle Parti adotta le opportune misure di salvaguardia a tutela della vita privata, dei diritti fondamentali e della liberta' della persona, in particolare in relazione al trasferimento dei dati personali.
 
-##### ARTICOLO 130
+###### ARTICOLO 130
 
 Eccezioni specifiche
 
@@ -2750,19 +2748,19 @@ Eccezioni specifiche
 
 3\. Nessuna disposizione del presente capo puo' essere interpretata come tale da impedire a una Parte, compresi i suoi soggetti pubblici, di esercitare o fornire in esclusiva, sul proprio territorio, attivita' o servizi per proprio conto o per conto di suoi soggetti pubblici, o con la sua o la loro garanzia o utilizzando sue o loro risorse finanziarie.
 
-##### ARTICOLO 131
+###### ARTICOLO 131
 
 Organismi di autoregolamentazione
 
 Se una delle Parti esige l'appartenenza, la partecipazione o l'accesso a un organismo di autoregolamentazione, a una borsa o a un mercato dei valori mobiliari o degli strumenti a termine, a un organismo di compensazione o ad altra organizzazione o associazione affinche' i prestatori di servizi finanziari dell'altra Parte possano fornire servizi finanziari in condizioni di parita' con i suoi prestatori di servizi finanziari, o se concede direttamente o indirettamente a tali soggetti privilegi o vantaggi per la prestazione di servizi finanziari, osserva gli obblighi di cui agli articoli 88 e 94 del presente accordo.
 
-##### ARTICOLO 132
+###### ARTICOLO 132
 
 Sistemi di pagamento e di compensazione
 
 Ciascuna delle Parti concede ai prestatori di servizi finanziari dell'altra Parte stabiliti nel proprio territorio, secondo le modalita' e le condizioni che riconoscono il trattamento nazionale, l'accesso ai sistemi di pagamento e di compensazione gestiti da soggetti pubblici e agli strumenti di finanziamento e rifinanziamento ufficiali disponibili nel corso delle operazioni commerciali ordinarie. Il presente articolo non conferisce l'accesso all'intervento del prestatore di ultima istanza della Parte.
 
-##### ARTICOLO 133
+###### ARTICOLO 133
 
 Ravvicinamento normativo
 
@@ -2772,15 +2770,15 @@ L'Ucraina fa in modo che la propria legislazione presente e futura sia resa prog
 
 2\. Il ravvicinamento iniziera' con la firma del presente accordo e si estendera' progressivamente a tutti gli elementi dell'acquis dell'UE di cui all'allegato XVII del presente accordo.
 
-## SOTTOSEZIONE 7 - SERVIZI DI TRASPORTO
+**SOTTOSEZIONE 7 - SERVIZI DI TRASPORTO**
 
-##### ARTICOLO 134
+###### ARTICOLO 134
 
 Campo di applicazione
 
 La presente sottosezione stabilisce i principi della liberalizzazione dei servizi di trasporto a norma delle sezioni 2, 3 e 4 del presente capo.
 
-##### ARTICOLO 135
+###### ARTICOLO 135
 
 Trasporto marittimo internazionale
 
@@ -2854,7 +2852,7 @@ g) la proprieta' delle attrezzature necessarie per l'esercizio delle attivita' e
 
 movimentazione di carichi marittimi, i servizi di deposito e di magazzinaggio, i servizi di sdoganamento, i servizi di stazionamento e deposito di container, i servizi di agenzia marittima, i servizi (marittimi) di spedizione merci, il noleggio di imbarcazioni con equipaggio, la manutenzione e riparazione delle imbarcazioni, i servizi di rimorchio e spinta e i servizi di supporto al trasporto marittimo.
 
-##### ARTICOLO 136
+###### ARTICOLO 136
 
 Trasporto stradale, ferroviario e per via navigabile interna
 
@@ -2864,7 +2862,7 @@ Trasporto stradale, ferroviario e per via navigabile interna
 
 3\. Continuano ad applicarsi le disposizioni degli accordi bilaterali in vigore relative a questioni non oggetto dei possibili accordi futuri di cui al paragrafo 1 del presente articolo.
 
-##### ARTICOLO 137
+###### ARTICOLO 137
 
 Trasporto aereo
 
@@ -2872,15 +2870,15 @@ Trasporto aereo
 
 2\. Prima della conclusione dell'accordo CAA, le Parti si astengono dal prendere misure o iniziative tali da creare una situazione piu' restrittiva o discriminatoria rispetto a quella esistente prima dell'entrata in vigore del presente accordo.
 
-##### ARTICOLO 138
+###### ARTICOLO 138
 
 Ravvicinamento normativo
 
 L'Ucraina adegua la sua legislazione, ivi comprese le norme amministrative, tecniche e di altra natura, alla legislazione della Parte UE vigente in un qualsiasi momento in materia di trasporto marittimo internazionale, nella misura in cui cio' consenta di realizzare gli obiettivi della liberalizzazione, del reciproco accesso ai mercati delle Parti e della circolazione dei viaggiatori e delle merci. Il ravvicinamento iniziera' con la firma dell'accordo e si estendera' progressivamente a tutti gli elementi dell'acquis dell'UE di cui all'allegato XVII del presente accordo.
 
-## SEZIONE 6 - COMMERCIO ELETTRONICO
+##### SEZIONE 6 - COMMERCIO ELETTRONICO
 
-##### ARTICOLO 139
+###### ARTICOLO 139
 
 Obiettivo e principi
 
@@ -2890,7 +2888,7 @@ Obiettivo e principi
 
 3\. Le Parti convengono che la trasmissione elettronica e' considerata prestazione di servizi ai sensi della sezione 3 (Prestazione transfrontaliera di servizi) del presente capo, non assoggettabile a dazi doganali.
 
-##### ARTICOLO 140
+###### ARTICOLO 140
 
 Profili di regolamentazione del commercio elettronico
 
@@ -2908,9 +2906,9 @@ e) qualsiasi altra questione attinente allo sviluppo del commercio elettronico.
 
 2\. Questa cooperazione puo' comprendere lo scambio di informazioni relative alla legislazione delle Parti sui suddetti temi e all'attuazione di tale legislazione.
 
-## SEZIONE 7 - ECCEZIONI
+##### SEZIONE 7 - ECCEZIONI
 
-##### ARTICOLO 141
+###### ARTICOLO 141
 
 Eccezioni generali
 
@@ -2958,13 +2956,13 @@ vi) determinano, attribuiscono o suddividono reddito, utili, guadagni, perdite, 
 
 I termini o i concetti di natura fiscale di cui alla lettera f) del presente articolo e alla presente nota vanno intesi in base alle definizioni e ai concetti fiscali, anche equivalenti o analoghi, della legislazione interna della Parte che adotta la misura.
 
-##### ARTICOLO 142
+###### ARTICOLO 142
 
 Misure in materia fiscale
 
 Il trattamento della nazione piu' favorita accordato a norma del presente capo non si applica al trattamento fiscale gia' concesso o che le Parti concederanno in futuro in base ad accordi tra le Parti volti a evitare la doppia imposizione.
 
-##### ARTICOLO 143
+###### ARTICOLO 143
 
 Eccezioni relative alla sicurezza
 
@@ -2984,15 +2982,15 @@ iv) in periodo di guerra o comunque di emergenza nelle relazioni internazionali;
 
 c) impedire alle Parti di intraprendere qualsiasi azione per adempiere gli obblighi da esse assunti ai fini del mantenimento della pace e della sicurezza internazionale.
 
-## CAPO 7 - PAGAMENTI CORRENTI E MOVIMENTI DI CAPITALI
+#### CAPO 7 - PAGAMENTI CORRENTI E MOVIMENTI DI CAPITALI
 
-##### ARTICOLO 144
+###### ARTICOLO 144
 
 Pagamenti correnti
 
 Le Parti si impegnano a non imporre alcuna restrizione e autorizzano tutti i pagamenti e i trasferimenti in valuta liberamente convertibile sul conto corrente della bilancia dei pagamenti tra le Parti conformemente all'articolo VIII dello statuto dell'FMI.
 
-##### ARTICOLO 145
+###### ARTICOLO 145
 
 Movimenti di capitali
 
@@ -3014,7 +3012,7 @@ b) la libera circolazione di capitali relativi a investimenti di portafoglio e a
 
 diretti.
 
-##### ARTICOLO 146
+###### ARTICOLO 146
 
 Misure di salvaguardia
 
@@ -3024,7 +3022,7 @@ Fatte salve le altre disposizioni del presente accordo, qualora, in circostanze 
 
 &#160;1 Comprese gravi difficolta' di bilancia dei pagamenti.
 
-##### ARTICOLO 147
+###### ARTICOLO 147
 
 Disposizioni in materia di facilitazione e ulteriore liberalizzazione
 
@@ -3034,9 +3032,9 @@ Disposizioni in materia di facilitazione e ulteriore liberalizzazione
 
 3\. Entro la fine del quinto anno successivo all'entrata in vigore del presente accordo, il comitato per il commercio riesamina le misure prese e determina le modalita' per un'ulteriore liberalizzazione.
 
-## CAPO 8 - APPALTI PUBBLICI
+#### CAPO 8 - APPALTI PUBBLICI
 
-##### ARTICOLO 148
+###### ARTICOLO 148
 
 Obiettivi
 
@@ -3044,7 +3042,7 @@ Le Parti, nel riconoscere che procedure di gara trasparenti, non discriminatorie
 
 Il presente capo prevede l'accesso reciproco ai mercati degli appalti pubblici a livello nazionale, regionale e locale, sulla base del principio del trattamento nazionale, per quanto concerne gli appalti pubblici e le concessioni nel settore tradizionale e in quello dei servizi pubblici. Dispone il progressivo ravvicinamento della legislazione ucraina in materia di appalti pubblici all'acquis dell'UE in tale materia, unitamente a una riforma istituzionale e alla creazione di un sistema di appalti pubblici efficiente fondate sui principi che disciplinano gli appalti pubblici nella Parte UE e sulle condizioni e definizioni di cui alla direttiva 2004/18/CE del Parlamento europeo e del Consiglio, del 31 marzo 2004, relativa al coordinamento delle procedure di aggiudicazione degli appalti pubblici di lavori, di forniture e di servizi (di seguito "direttiva 2004/18/CE") e alla direttiva 2004/17/CE del Parlamento europeo e del Consiglio, del 31 marzo 2004, che coordina le procedure di appalto degli enti erogatori di acqua e di energia, degli enti che forniscono servizi di trasporto e servizi postali (di seguito "direttiva 2004/17/CE").
 
-##### ARTICOLO 149
+###### ARTICOLO 149
 
 Campo di applicazione
 
@@ -3060,7 +3058,7 @@ Il calcolo del valore di tali soglie e' riveduto periodicamente ogni due anni a 
 
 All'occorrenza, il valore delle soglie cosi' riveduto viene arrotondato per difetto al migliaio di euro piu' vicino. La revisione delle soglie e' adottata dal comitato per il commercio secondo la procedura di cui al titolo VII (Disposizioni istituzionali, generali e finali) del presente accordo.
 
-##### ARTICOLO 150
+###### ARTICOLO 150
 
 Contesto istituzionale
 
@@ -3074,7 +3072,7 @@ b) un organismo imparziale e indipendente incaricato di riesaminare le decisioni
 
 3\. Le Parti fanno si' che le decisioni prese dalle autorita' responsabili dell'esame dei ricorsi siano attuate in maniera efficace.
 
-##### ARTICOLO 151
+###### ARTICOLO 151
 
 Norme di base che disciplinano l'aggiudicazione degli appalti
 
@@ -3126,7 +3124,7 @@ Tutela giurisdizionale
 
 15\. Le Parti dispongono che chiunque abbia o abbia avuto interesse a ottenere l'aggiudicazione di un determinato appalto e sia stato o rischi di essere leso a causa di una presunta violazione abbia diritto a una tutela giurisdizionale efficace e imparziale nei confronti della decisione di aggiudicazione di tale appalto presa dal soggetto appaltante. La decisione presa nel corso e al termine della procedura di ricorso e' resa pubblica con modalita' che consentano di informare tutti gli operatori economici interessati.
 
-##### ARTICOLO 152
+###### ARTICOLO 152
 
 Programmazione del ravvicinamento legislativo
 
@@ -3136,7 +3134,7 @@ Programmazione del ravvicinamento legislativo
 
 3\. A seguito del parere favorevole del comitato per il commercio, la tabella di marcia e' considerata il documento di riferimento per l'attuazione del presente capo. L'Unione europea si impegnera' al massimo per aiutare l'Ucraina ad attuare la tabella di marcia.
 
-##### ARTICOLO 153
+###### ARTICOLO 153
 
 Ravvicinamento legislativo
 
@@ -3150,7 +3148,7 @@ Gli allegati XXI-F e XXI-I del presente accordo individuano elementi non obbliga
 
 4\. Le Parti garantiscono che gli aspetti e i settori degli appalti pubblici non contemplati dal presente articolo rispettino i principi di trasparenza, non discriminazione e parita' di trattamento di cui all'articolo 151 del presente accordo.
 
-##### ARTICOLO 154
+###### ARTICOLO 154
 
 Accesso al mercato
 
@@ -3164,7 +3162,7 @@ Accesso al mercato
 
 5\. La Finlandia riserva la sua posizione per quanto riguarda le isole Aland.
 
-##### ARTICOLO 155
+###### ARTICOLO 155
 
 Informazione
 
@@ -3172,7 +3170,7 @@ Informazione
 
 2\. Le Parti assicurano l'adeguata diffusione delle informazioni relative alle gare di appalto indette.
 
-##### ARTICOLO 156
+###### ARTICOLO 156
 
 Cooperazione
 
@@ -3182,11 +3180,11 @@ Cooperazione
 
 3\. Un elenco indicativo dei temi di cooperazione e' contenuto nell'allegato XXI-O del presente accordo.
 
-## CAPO 9 - PROPRIETÀ INTELLETTUALE
+#### CAPO 9 - PROPRIETÀ INTELLETTUALE
 
-### SEZIONE 1 - DISPOSIZIONI GENERALI
+##### SEZIONE 1 - DISPOSIZIONI GENERALI
 
-##### ARTICOLO 157
+###### ARTICOLO 157
 
 Obiettivi
 
@@ -3196,7 +3194,7 @@ a) agevolare la produzione e la commercializzazione di prodotti innovativi e cre
 
 b) tutelare in modo efficace i diritti di proprieta' intellettuale.
 
-##### ARTICOLO 158
+###### ARTICOLO 158
 
 Natura e portata degli obblighi
 
@@ -3204,7 +3202,7 @@ Natura e portata degli obblighi
 
 2\. Ai fini del presente accordo, i diritti di proprieta' intellettuale comprendono il diritto d'autore anche in relazione a programmi informatici e alle banche di dati e i diritti connessi, i diritti collegati ai brevetti, compresi quelli relativi alle invenzioni biotecnologiche, i marchi, le denominazioni commerciali, ove protette come diritti di proprieta' esclusivi dalla legislazione interna in materia, i disegni e le topografie di circuiti integrati, le indicazioni geografiche, comprese le denominazioni d'origine, le indicazioni di provenienza, le varieta' vegetali, la protezione delle informazioni segrete e la protezione contro la concorrenza sleale ai sensi dell'articolo 10 bis della convenzione di Parigi per la protezione della proprieta' industriale (1967) (di seguito "convenzione di Parigi").
 
-##### ARTICOLO 159
+###### ARTICOLO 159
 
 Trasferimento di tecnologie
 
@@ -3212,17 +3210,17 @@ Trasferimento di tecnologie
 
 2\. Le Parti garantiscono la tutela dei legittimi interessi dei titolari dei diritti di proprieta' intellettuale.
 
-##### ARTICOLO 160
+###### ARTICOLO 160
 
 Esaurimento
 
 Le Parti sono libere di stabilire il proprio regime di esaurimento dei diritti di proprieta' intellettuale, fatte salve le disposizioni dell'accordo TRIPS.
 
-## SEZIONE 2 - NORME CONCERNENTI I DIRITTI DI PROPRIETÀ INTELLETTUALE
+##### SEZIONE 2 - NORME CONCERNENTI I DIRITTI DI PROPRIETÀ INTELLETTUALE
 
-### SOTTOSEZIONE 1 - DIRITTO D'AUTORE E DIRITTI CONNESSI
+**SOTTOSEZIONE 1 - DIRITTO D'AUTORE E DIRITTI CONNESSI**
 
-##### ARTICOLO 161
+###### ARTICOLO 161
 
 Protezione concessa
 
@@ -3236,7 +3234,7 @@ c) gli articoli da 1 a 14 del trattato dell'Organizzazione mondiale della propri
 
 d) gli articoli da 1 a 23 del trattato dell'OMPI sulle interpretazioni ed esecuzioni e sui fonogrammi (1996).
 
-##### ARTICOLO 162
+###### ARTICOLO 162
 
 Durata dei diritti d'autore
 
@@ -3250,7 +3248,7 @@ Durata dei diritti d'autore
 
 5\. La protezione cessa di essere attribuita alle opere la cui durata di protezione non e' calcolata a partire dalla morte dell'autore o degli autori e che non sono state rese lecitamente accessibili al pubblico entro settant'anni dalla loro creazione.
 
-##### ARTICOLO 163
+###### ARTICOLO 163
 
 Durata della protezione delle opere cinematografiche o audiovisive
 
@@ -3258,7 +3256,7 @@ Durata della protezione delle opere cinematografiche o audiovisive
 
 2\. La durata di protezione di un'opera cinematografica o audiovisiva scade decorsi non prima di settant'anni dalla morte dell'ultima persona sopravvissuta fra un gruppo di determinate persone, a prescindere dal fatto che esse siano o meno riconosciute quali coautori: In questo gruppo dovrebbero rientrare come minimo il regista principale, l'autore della sceneggiatura, l'autore del dialogo e il compositore della musica specificamente creata per essere utilizzata nell'opera cinematografica o audiovisiva.
 
-##### ARTICOLO 164
+###### ARTICOLO 164
 
 Durata dei diritti connessi
 
@@ -3272,31 +3270,31 @@ Se nel periodo indicato nella prima frase non sono effettuate pubblicazioni leci
 
 4\. I diritti degli organismi di radiodiffusione scadono non prima di cinquant'anni dopo la prima diffusione di un'emissione, sia essa trasmessa su filo o via etere, incluse le emissioni via cavo o via satellite.
 
-##### ARTICOLO 165
+###### ARTICOLO 165
 
 Protezione di opere non pubblicate anteriormente
 
 Chiunque, dopo la scadenza della protezione del diritto d'autore, per la prima volta pubblichi lecitamente o comunichi lecitamente al pubblico un'opera non pubblicata anteriormente beneficia di una protezione pari a quella dei diritti patrimoniali dell'autore. La durata di protezione di tali diritti e' di venticinque anni a decorrere dal momento in cui l'opera e' stata per la prima volta lecitamente pubblicata o lecitamente comunicata al pubblico.
 
-##### ARTICOLO 166
+###### ARTICOLO 166
 
 Edizioni critiche e scientifiche
 
 Le Parti possono proteggere anche le edizioni critiche e scientifiche di opere diventate di dominio pubblico. La durata della protezione di tali diritti e' di trent'anni al massimo a decorrere dalla data in cui per la prima volta l'opera e' stata lecitamente pubblicata.
 
-##### ARTICOLO 167
+###### ARTICOLO 167
 
 Protezione di opere fotografiche
 
 Le fotografie che sono opere originali, ossia sono il risultato della creazione intellettuale dell'autore, fruiscono della protezione prevista dall'articolo 162 del presente accordo. Le Parti possono prevedere la protezione di altre fotografie.
 
-##### ARTICOLO 168
+###### ARTICOLO 168
 
 Cooperazione in materia di gestione collettiva dei diritti
 
 Le Parti riconoscono l'esigenza di concludere accordi tra le rispettive societa' di gestione collettiva dei diritti al fine di facilitare reciprocamente l'accesso ai contenuti e il loro scambio tra i territori delle Parti e di garantire il reciproco trasferimento dei diritti per l'uso delle opere o di altri contenuti protetti delle Parti. Le Parti riconoscono la necessita' di raggiungere un alto grado di razionalizzazione e trasparenza per quanto riguarda l'esecuzione dei compiti delle rispettive societa' di gestione collettiva.
 
-##### ARTICOLO 169
+###### ARTICOLO 169
 
 Diritto di fissazione
 
@@ -3308,7 +3306,7 @@ Diritto di fissazione
 
 4\. Al distributore via cavo non e' concesso il diritto di cui al paragrafo 2 qualora ritrasmetta semplicemente via cavo le emissioni di altri organismi di radiodiffusione.
 
-##### ARTICOLO 170
+###### ARTICOLO 170
 
 Radiodiffusione e comunicazione al pubblico
 
@@ -3324,7 +3322,7 @@ b) "comunicazione al pubblico": la trasmissione al pubblico, mediante qualunque 
 
 4\. Le Parti riconoscono agli organismi di radiodiffusione il diritto esclusivo di autorizzare o vietare la ritrasmissione via etere delle loro emissioni, nonche' la loro comunicazione al pubblico se questa comunicazione avviene in luoghi accessibili al pubblico contro pagamento di un diritto d'ingresso.
 
-##### ARTICOLO 171
+###### ARTICOLO 171
 
 Diritto di distribuzione
 
@@ -3340,7 +3338,7 @@ c) ai produttori della prima fissazione di una pellicola, con riferimento all'or
 
 d) agli organismi di radiodiffusione, con riferimento alle fissazioni delle loro emissioni, secondo l'articolo 169, paragrafo 3, del presente accordo.
 
-##### ARTICOLO 172
+###### ARTICOLO 172
 
 Limitazioni
 
@@ -3358,7 +3356,7 @@ d) quando vi sia utilizzazione unicamente a fini di insegnamento o di ricerca sc
 
 3\. Le limitazioni di cui ai paragrafi 1 e 2 del presente articolo possono essere applicate solo in determinati casi speciali che non siano in contrasto con il normale sfruttamento dei materiali protetti e non arrechino indebitamente pregiudizio ai legittimi interessi dei titolari dei diritti.
 
-##### ARTICOLO 173
+###### ARTICOLO 173
 
 Diritto di riproduzione
 
@@ -3374,7 +3372,7 @@ d) ai produttori delle prime fissazioni di una pellicola, per quanto riguarda l'
 
 e) agli organismi di diffusione radiotelevisiva, per quanto riguarda le fissazioni delle loro trasmissioni, siano esse effettuate su filo o via etere, comprese le trasmissioni via cavo o via satellite.
 
-##### ARTICOLO 174
+###### ARTICOLO 174
 
 Diritto di comunicazione di opere al pubblico, compreso il diritto
 
@@ -3394,7 +3392,7 @@ d) agli organismi di diffusione radiotelevisiva, per quanto riguarda le fissazio
 
 3\. Le Parti convengono che i diritti di cui ai paragrafi 1 e 2 non si esauriscono con alcun atto di comunicazione al pubblico o con la loro messa a disposizione del pubblico, come indicato nel presente articolo.
 
-##### ARTICOLO 175
+###### ARTICOLO 175
 
 Eccezioni e limitazioni
 
@@ -3408,7 +3406,7 @@ b) un utilizzo legittimo di un'opera o di altri materiali.
 
 3\. Le Parti possono prevedere eccezioni e limitazioni ai diritti di cui agli articoli 173 e 174 del presente accordo esclusivamente in determinati casi speciali che non siano in contrasto con lo sfruttamento normale dell'opera o degli altri materiali e non arrechino ingiustificato pregiudizio ai legittimi interessi del titolare.
 
-##### ARTICOLO 176
+###### ARTICOLO 176
 
 Tutela delle misure tecnologiche
 
@@ -3428,7 +3426,7 @@ c) siano principalmente progettate, prodotte, adattate o realizzate con la final
 
 5\. Le disposizioni di cui all'articolo 175, paragrafi 1 e 2, del presente accordo, non si applicano a opere o altri materiali a disposizione del pubblico sulla base di clausole contrattuali conformemente alle quali i componenti del pubblico possono accedere a dette opere e materiali dal luogo e nel momento scelti individualmente.
 
-##### ARTICOLO 177
+###### ARTICOLO 177
 
 Protezione delle informazioni sul regime dei diritti
 
@@ -3442,7 +3440,7 @@ b) distribuire, importare a fini di distribuzione, diffondere per radio o televi
 
 Il primo comma si applica quando uno qualsiasi degli elementi suddetti figuri su una copia o appaia nella comunicazione al pubblico di un'opera o di uno dei materiali protetti di cui alla sottosezione 1.
 
-##### ARTICOLO 178
+###### ARTICOLO 178
 
 Titolari e oggetto del diritto di noleggio e di prestito
 
@@ -3464,7 +3462,7 @@ d) al produttore della prima fissazione di una pellicola, per l'originale e le c
 
 5\. Le Parti possono esonerare alcune categorie di istituzioni dal pagamento della remunerazione di cui ai paragrafi 3 e 4.
 
-##### ARTICOLO 179
+###### ARTICOLO 179
 
 Diritto irrinunciabile a un'equa remunerazione
 
@@ -3476,7 +3474,7 @@ Diritto irrinunciabile a un'equa remunerazione
 
 4\. Le Parti possono stabilire se e in quale misura possa essere imposta la gestione da parte di societa' di gestione collettiva del diritto di ottenere un'equa remunerazione, nonche' da chi essa possa essere richiesta o riscossa.
 
-##### ARTICOLO 180
+###### ARTICOLO 180
 
 Tutela dei programmi per elaboratore
 
@@ -3488,7 +3486,7 @@ Ai fini della presente disposizione, il termine "programmi per elaboratore" comp
 
 3\. Un programma per elaboratore e' tutelato se originale, ossia se e' il risultato della creazione intellettuale dell'autore. Per determinare il diritto alla tutela non sono presi in considerazione altri criteri.
 
-##### ARTICOLO 181
+###### ARTICOLO 181
 
 Titolarita' dei programmi per elaboratore
 
@@ -3500,7 +3498,7 @@ Titolarita' dei programmi per elaboratore
 
 4\. Qualora i programmi siano creati da un lavoratore dipendente nell'esecuzione delle sue mansioni o su istruzioni del suo datore di lavoro, il datore di lavoro gode dell'esercizio esclusivo di tutti i diritti economici sul programma creato, salvo disposizioni contrattuali contrarie.
 
-##### ARTICOLO 182
+###### ARTICOLO 182
 
 Attivita' riservate relative ai programmi per elaboratore
 
@@ -3512,7 +3510,7 @@ b) la traduzione, l'adattamento, l'adeguamento e ogni altra modifica di un progr
 
 c) qualsiasi forma di distribuzione al pubblico, compresa la locazione, del programma per elaboratore originale e di copie dello stesso.
 
-##### ARTICOLO 183
+###### ARTICOLO 183
 
 Eccezioni alle attivita' riservate relative ai programmi per elaboratore
 
@@ -3522,7 +3520,7 @@ Eccezioni alle attivita' riservate relative ai programmi per elaboratore
 
 3\. La persona che ha il diritto di utilizzare una copia di un programma puo', senza chiederne l'autorizzazione al titolare del diritto, osservare, studiare o sperimentare il funzionamento del programma, allo scopo di determinare le idee e i principi su cui e' basato ogni elemento del programma, quando tale persona effettua le operazioni di caricamento, visualizzazione, esecuzione, trasmissione o memorizzazione del programma che ha il diritto di effettuare.
 
-##### ARTICOLO 184
+###### ARTICOLO 184
 
 Decompilazione
 
@@ -3544,7 +3542,7 @@ c) siano utilizzate per lo sviluppo, la produzione o la commercializzazione di u
 
 3\. Conformemente alla convenzione di Berna, le disposizioni del presente articolo non possono essere interpretate in modo da consentire che la loro applicazione arrechi indebitamente pregiudizio ai legittimi interessi del titolare del diritto o entri in conflitto con il normale impiego del programma.
 
-##### ARTICOLO 185
+###### ARTICOLO 185
 
 Tutela delle banche di dati
 
@@ -3552,7 +3550,7 @@ Tutela delle banche di dati
 
 2\. La tutela del presente accordo non si applica ai programmi per elaboratori utilizzati per la costituzione o il funzionamento di banche di dati accessibili grazie a mezzi elettronici.
 
-##### ARTICOLO 186
+###### ARTICOLO 186
 
 Oggetto della tutela
 
@@ -3560,7 +3558,7 @@ Oggetto della tutela
 
 2\. La tutela delle banche di dati in base al diritto d'autore prevista dalla sottosezione 1 non si estende al loro contenuto e lascia impregiudicati i diritti esistenti su tale contenuto.
 
-##### ARTICOLO 187
+###### ARTICOLO 187
 
 Titolarita' della banca di dati
 
@@ -3570,7 +3568,7 @@ Titolarita' della banca di dati
 
 3\. Allorche' una banca di dati e' creata congiuntamente da piu' persone fisiche, ad esse appartengono congiuntamente i diritti esclusivi.
 
-##### ARTICOLO 188
+###### ARTICOLO 188
 
 Atti soggetti a restrizione relativi alle banche di dati
 
@@ -3586,7 +3584,7 @@ d) qualsiasi comunicazione, presentazione o dimostrazione in pubblico;
 
 e) qualsiasi riproduzione, distribuzione, comunicazione, presentazione o dimostrazione in pubblico dei risultati delle operazioni di cui alla lettera b).
 
-##### ARTICOLO 189
+###### ARTICOLO 189
 
 Eccezioni agli atti soggetti a restrizione relativi alle banche di dati
 
@@ -3604,7 +3602,7 @@ d) allorche' si tratta di altre deroghe al diritto d'autore tradizionalmente con
 
 3\. Conformemente alla convenzione di Berna, il presente articolo non puo' essere interpretato in modo da consentire che la sua applicazione arrechi indebitamente pregiudizio ai legittimi interessi del titolare del diritto o entri in conflitto con il normale impiego della banca di dati.
 
-##### ARTICOLO 190
+###### ARTICOLO 190
 
 Diritto sulle successive vendite
 
@@ -3616,21 +3614,21 @@ Diritto sulle successive vendite
 
 4\. I compensi sono a carico del venditore. Le Parti hanno la facolta' di disporre che una delle persone fisiche o giuridiche di cui al paragrafo 2, diversa dal venditore, sia obbligata in via esclusiva o solidale con il venditore al pagamento dei compensi.
 
-##### ARTICOLO 191
+###### ARTICOLO 191
 
 Radiodiffusione via satellite
 
 Ciascuna delle Parti riconosce all'autore il diritto esclusivo di autorizzare la comunicazione al pubblico via satellite di opere protette dal diritto d'autore.
 
-##### ARTICOLO 192
+###### ARTICOLO 192
 
 Ritrasmissione via cavo
 
 Ciascuna delle Parti garantisce che la ritrasmissione via cavo nel proprio territorio di emissioni di radiodiffusione provenienti dall'altra Parte avvenga nel rispetto dei pertinenti diritti d'autore e dei diritti connessi e sulla base di contratti individuali o collettivi conclusi tra i titolari dei diritti d'autore, i detentori dei diritti connessi e i cablodistributori.
 
-## SOTTOSEZIONE 2 - MARCHI
+**SOTTOSEZIONE 2 - MARCHI**
 
-##### ARTICOLO 193
+###### ARTICOLO 193
 
 Procedura di registrazione
 
@@ -3670,13 +3668,13 @@ b) se l'identita' o la somiglianza di detto marchio con il marchio anteriore e l
 
 4\. Le Parti possono inoltre prevedere altri impedimenti alla registrazione o altri motivi di nullita' relativi ai conflitti con diritti anteriori.
 
-##### ARTICOLO 194
+###### ARTICOLO 194
 
 Marchi notori
 
 Le Parti collaborano con l'obiettivo di garantire una protezione efficace dei marchi notori secondo quanto stabilito dall'articolo 6 bis della convenzione di Parigi e dall'articolo 16, paragrafi 2 e 3, dell'accordo TRIPS.
 
-##### ARTICOLO 195
+###### ARTICOLO 195
 
 Diritti conferiti dal marchio
 
@@ -3688,7 +3686,7 @@ a) un segno identico al marchio per prodotti o servizi identici a quelli per cui
 
 b) un segno che, a motivo dell'identita' o della somiglianza con il marchio e dell'identita' o somiglianza dei prodotti o servizi contraddistinti dal marchio e dal segno, possa dare adito a un rischio di confusione per il pubblico, compreso il rischio che si proceda a un'associazione tra il segno e il marchio.
 
-##### ARTICOLO 196
+###### ARTICOLO 196
 
 Eccezioni ai diritti conferiti da un marchio
 
@@ -3704,7 +3702,7 @@ c) del marchio se esso e' necessario per contraddistinguere la destinazione di u
 
 3\. Il diritto conferito da un marchio non permette al titolare dello stesso di vietare ai terzi l'uso nel commercio di un diritto anteriore di portata locale, se tale diritto e' riconosciuto dalle leggi delle Parti e nel limite del territorio in cui esso e' riconosciuto.
 
-##### ARTICOLO 197
+###### ARTICOLO 197
 
 Uso del marchio
 
@@ -3718,7 +3716,7 @@ b) l'apposizione del marchio sui prodotti o sul loro condizionamento solo ai fin
 
 3\. Si considera come uso di un marchio da parte del titolare ai sensi del paragrafo 1 l'uso del marchio con il consenso del titolare o fuso del marchio da parte di una qualsiasi persona abilitata a utilizzare un marchio collettivo o un marchio di garanzia o certificazione.
 
-##### ARTICOLO 198
+###### ARTICOLO 198
 
 Motivi di decadenza
 
@@ -3730,21 +3728,21 @@ a) sia divenuto, per il fatto dell'attivita' o inattivita' del suo titolare, la 
 
 b) sia idoneo a indurre in errore il pubblico, in particolare circa la natura, la qualita' o la provenienza geografica dei suddetti prodotti o servizi, a causa dell'uso che ne viene fatto dal titolare del marchio o con il suo consenso per i prodotti o servizi per i quali e' registrato.
 
-##### ARTICOLO 199
+###### ARTICOLO 199
 
 Impedimenti parziali alla registrazione, motivi di decadenza o di nullita' parziali
 
 Se un impedimento alla registrazione o motivi di decadenza o di nullita' di un marchio sussistono soltanto per una parte dei prodotti o servizi per i quali il marchio e' richiesto o registrato, l'impedimento alla registrazione, la decadenza o la nullita' valgono solo per quei prodotti o servizi.
 
-##### ARTICOLO 200
+###### ARTICOLO 200
 
 Durata della protezione
 
 La durata della protezione accordata nella Parte UE e in Ucraina e' di almeno dieci anni dalla data di deposito della domanda. Il titolare del diritto puo' ottenere la proroga della durata della protezione per piu' periodi di dieci anni.
 
-## SOTTOSEZIONE 3 - INDICAZIONI GEOGRAFICHE
+**SOTTOSEZIONE 3 - INDICAZIONI GEOGRAFICHE**
 
-##### ARTICOLO 201
+###### ARTICOLO 201
 
 Campo di applicazione della sottosezione
 
@@ -3752,7 +3750,7 @@ Campo di applicazione della sottosezione
 
 2\. Le indicazioni geografiche di una Parte che devono essere protette dall'altra Parte sono soggette al presente accordo solo se rientrano nel campo di applicazione della legislazione richiamata all'articolo 202 del presente accordo.
 
-##### ARTICOLO 202
+###### ARTICOLO 202
 
 Indicazioni geografiche stabilite
 
@@ -3764,7 +3762,7 @@ Indicazioni geografiche stabilite
 
 4\. La Parte UE, previo espletamento di una procedura di opposizione secondo i criteri contenuti nell'allegato XXII-B del presente accordo e previo esame delle indicazioni geografiche dei vini, dei vini aromatizzati e delle bevande spiritose dell'Ucraina elencate nell'allegato XXII-D del presente accordo, registrate dall'Ucraina a norma della legislazione richiamata al paragrafo 1, protegge tali indicazioni geografiche accordando ad esse il livello di protezione stabilito nella presente sottosezione.
 
-##### ARTICOLO 203
+###### ARTICOLO 203
 
 Aggiunta di nuove indicazioni geografiche
 
@@ -3772,7 +3770,7 @@ Aggiunta di nuove indicazioni geografiche
 
 2\. Le Parti non sono tenute a proteggere come indicazione geografica un nome che sia in conflitto con il nome di una varieta' vegetale o di una razza animale e possa, pertanto, indurre in errore il consumatore quanto alla vera origine del prodotto.
 
-##### ARTICOLO 204
+###### ARTICOLO 204
 
 Portata della protezione delle indicazioni geografiche
 
@@ -3796,7 +3794,7 @@ d) qualsiasi altra pratica che possa indurre in errore il consumatore sulla vera
 
 6\. Nessuna disposizione del presente accordo pregiudica il diritto di qualsiasi persona di utilizzare, nel corso di operazioni commerciali, il proprio nome o quello del suo predecessore nell'attivita' commerciale, purche' tale nome non sia utilizzato in modo da indurre in errore il pubblico.
 
-##### ARTICOLO 205
+###### ARTICOLO 205
 
 Diritto di utilizzo delle indicazioni geografiche
 
@@ -3804,7 +3802,7 @@ Diritto di utilizzo delle indicazioni geografiche
 
 2\. Quando un'indicazione geografica e' protetta in virtu' del presente accordo, l'uso della denominazione protetta non comporta alcun obbligo di registrazione degli utilizzatori ne' oneri supplementari.
 
-##### ARTICOLO 206
+###### ARTICOLO 206
 
 Relazione con i marchi
 
@@ -3818,13 +3816,13 @@ Relazione con i marchi
 
 5\. Fatto salvo il paragrafo 4 del presente articolo, le Parti proteggono le indicazioni geografiche anche quando esiste un marchio anteriore. Per "marchio anteriore" si intende un marchio il cui uso corrisponde a una delle situazioni di cui all'articolo 204, paragrafo 1, del presente accordo, che e' stato depositato, registrato o acquisito con l'uso, nei casi in cui cio' sia previsto dalla pertinente legislazione, nel territorio di una delle Parti anteriormente alla data di presentazione all'altra Parte della domanda di protezione dell'indicazione geografica a norma del presente accordo. Tale marchio puo' continuare a essere utilizzato e rinnovato, nonostante la protezione dell'indicazione geografica, purche' non sussistano motivi di nullita' o di decadenza del marchio ai sensi della legislazione delle Parti in materia di marchi.
 
-##### ARTICOLO 207
+###### ARTICOLO 207
 
 Applicazione effettiva della protezione
 
 Le Parti applicano effettivamente la protezione di cui agli articoli da 204 a 206 del presente accordo per mezzo di un intervento appropriato delle loro autorita', anche alle frontiere doganali. Esse attuano inoltre tale protezione su richiesta di una parte interessata.
 
-##### ARTICOLO 208
+###### ARTICOLO 208
 
 Misure transitorie
 
@@ -3866,7 +3864,7 @@ b) Roquefort,
 
 c) Feta.
 
-##### ARTICOLO 209
+###### ARTICOLO 209
 
 Norme generali
 
@@ -3878,7 +3876,7 @@ Norme generali
 
 4\. Il disciplinare di cui alla presente sottosezione e' il disciplinare approvato dalle autorita' della Parte del cui territorio il prodotto e' originario, comprese le eventuali modifiche approvate.
 
-##### ARTICOLO 210
+###### ARTICOLO 210
 
 Cooperazione e trasparenza
 
@@ -3886,7 +3884,7 @@ Cooperazione e trasparenza
 
 2\. Ciascuna delle Parti puo' rendere pubblici i disciplinari, o una sintesi dei medesimi, e i punti di contatto per le disposizioni in materia di controllo relative alle indicazioni geografiche dell'altra Parte protette in virtu' del presente accordo.
 
-##### ARTICOLO 211
+###### ARTICOLO 211
 
 Sottocomitato per le indicazioni geografiche
 
@@ -3908,9 +3906,9 @@ e) scambiare informazioni sugli sviluppi politici e legislativi in materia di in
 
 f) scambiare informazioni sulle indicazioni geografiche al fine di valutare l'opportunita' di una loro protezione in conformita' al presente accordo.
 
-## SOTTOSEZIONE 4 - DISEGNI E MODELLI
+**SOTTOSEZIONE 4 - DISEGNI E MODELLI**
 
-##### ARTICOLO 212
+###### ARTICOLO 212
 
 Definizione
 
@@ -3922,7 +3920,7 @@ b) "prodotto": qualsiasi oggetto industriale o artigianale, comprese, tra l'altr
 
 c) "prodotto complesso": un prodotto costituito da piu' componenti che possono essere sostituite consentendo lo smontaggio e un nuovo montaggio del prodotto.
 
-##### ARTICOLO 213
+###### ARTICOLO 213
 
 Requisiti per la protezione
 
@@ -3962,7 +3960,7 @@ b) nei dodici mesi precedenti la data di deposito della domanda di registrazione
 
 8\. Il paragrafo 7 del presente articolo si applica anche quando un disegno o modello e' stato divulgato al pubblico in seguito a un abuso commesso nei confronti dell'autore o del suo avente diritto.
 
-##### ARTICOLO 214
+###### ARTICOLO 214
 
 Durata della protezione
 
@@ -3970,7 +3968,7 @@ Durata della protezione
 
 2\. La durata della protezione accordata nella Parte UE e in Ucraina ai disegni e modelli non registrati e' di almeno tre anni dalla data in cui il disegno o modello e' stato divulgato al pubblico nel territorio di una delle Parti.
 
-##### ARTICOLO 215
+###### ARTICOLO 215
 
 Nullita' o rifiuto della registrazione
 
@@ -3994,13 +3992,13 @@ Il presente paragrafo non pregiudica il diritto delle Parti di stabilire requisi
 
 2\. In alternativa alla nullita', una Parte puo' prevedere la limitazione dell'uso di un disegno o modello annullabile per i motivi di cui al paragrafo 1 del presente articolo.
 
-##### ARTICOLO 216
+###### ARTICOLO 216
 
 Diritti conferiti
 
 Il titolare di un disegno o modello protetto ha perlomeno il diritto esclusivo di utilizzare il disegno o il modello e di vietarne l'utilizzo a terzi senza il suo consenso. Sono in particolare atti di utilizzazione la fabbricazione, l'offerta, la commercializzazione, l'importazione, l'esportazione o l'impiego di un prodotto in cui il disegno o modello e' incorporato o applicato, ovvero la detenzione di siffatto prodotto per i fini suddetti.
 
-##### ARTICOLO 217
+###### ARTICOLO 217
 
 Eccezioni
 
@@ -4026,7 +4024,7 @@ c) all'esecuzione delle riparazioni su detti mezzi di trasporto.
 
 5\. Un disegno o modello non conferisce diritti quando il disegno o modello e' contrario all'ordine pubblico o al buon costume.
 
-##### ARTICOLO 218
+###### ARTICOLO 218
 
 Rapporto con il diritto d'autore
 
@@ -4034,9 +4032,9 @@ I disegni e modelli protetti in quanto tali da un disegno o modello registrato i
 
 Ciascuna delle Parti determina l'estensione della protezione e le condizioni alle quali e' concessa, compreso il grado di originalita' che il disegno o modello deve possedere.
 
-## SOTTOSEZIONE 5 - BREVETTI
+**SOTTOSEZIONE 5 - BREVETTI**
 
-##### ARTICOLO 219
+###### ARTICOLO 219
 
 Brevetti e salute pubblica
 
@@ -4044,7 +4042,7 @@ Brevetti e salute pubblica
 
 2\. Le Parti contribuiscono ad attuare e rispettano la decisione del Consiglio generale dell'OMC del 30 agosto 2003 sul paragrafo 6 della dichiarazione di Doha.
 
-##### ARTICOLO 220
+###### ARTICOLO 220
 
 Certificato protettivo complementare
 
@@ -4054,7 +4052,7 @@ Certificato protettivo complementare
 
 3\. Nel caso di medicinali per i quali siano stati condotti studi pediatrici i cui risultati sono ripresi nelle informazioni relative al medicinale, le Parti prevedono una proroga di ulteriori sei mesi della protezione di cui all'articolo 2 del presente articolo.
 
-##### ARTICOLO 221
+###### ARTICOLO 221
 
 Protezione delle invenzioni biotecnologiche
 
@@ -4116,7 +4114,7 @@ a) che si sono rivolti invano al titolare del brevetto o della privativa sui rit
 
 b) che la varieta' vegetale o l'invenzione costituisce un progresso tecnico significativo, di notevole interesse economico rispetto all'invenzione rivendicata nel brevetto o alla varieta' vegetale protetta.
 
-##### ARTICOLO 222
+###### ARTICOLO 222
 
 Protezione dei dati comunicati per ottenere un'autorizzazione all'immissione in commercio di un medicinale
 
@@ -4126,7 +4124,7 @@ Protezione dei dati comunicati per ottenere un'autorizzazione all'immissione in 
 
 3\. L'Ucraina si impegna ad allineare alla legislazione dell'UE la propria legislazione in materia di protezione dei dati per i medicinali entro la data decisa dal comitato per il commercio.
 
-##### ARTICOLO 223
+###### ARTICOLO 223
 
 Protezione dei dati relativi ai prodotti fitosanitari
 
@@ -4158,9 +4156,9 @@ Protezione dei dati relativi ai prodotti fitosanitari
 
 Parte su vegetali o prodotti vegetali che non sono ampiamente diffusi in tale Parte, o sono ampiamente diffusi, per far fronte a un'esigenza eccezionale in materia di protezione dei vegetali.
 
-## SOTTOSEZIONE 6 - TOPOGRAFIE DI PRODOTTI A SEMICONDUTTORI
+**SOTTOSEZIONE 6 - TOPOGRAFIE DI PRODOTTI A SEMICONDUTTORI**
 
-##### ARTICOLO 224
+###### ARTICOLO 224
 
 Definizione
 
@@ -4174,7 +4172,7 @@ rappresentanti lo schema tridimensionale degli strati di cui si compone un prodo
 
 c) "sfruttamento commerciale": la vendita, l'affitto, il leasing o qualsiasi altro metodo di distribuzione commerciale o l'offerta per tali scopi. Tuttavia ai fini dell'articolo 227 del presente accordo, l'espressione "sfruttamento commerciale" non comprende lo sfruttamento in condizioni di riservatezza nel quale non vi sia stata alcuna ulteriore distribuzione ai terzi.
 
-##### ARTICOLO 225
+###### ARTICOLO 225
 
 Requisiti per la tutela
 
@@ -4182,7 +4180,7 @@ Requisiti per la tutela
 
 2\. Le Parti dispongono che la topografia di un prodotto a semiconduttori sia tutelata a condizione che sia il risultato dello sforzo intellettuale del suo creatore e che non sia comunemente conosciuta nell'industria dei semiconduttori. Se la topografia di un prodotto a semiconduttori e' costituita da elementi comunemente conosciuti nell'industria dei semiconduttori, essa e' tutelata solo nella misura in cui la combinazione di questi elementi, nell'insieme, soddisfi le suddette condizioni.
 
-##### ARTICOLO 226
+###### ARTICOLO 226
 
 Diritti esclusivi
 
@@ -4198,7 +4196,7 @@ b) lo sfruttamento commerciale o importazione per tale scopo della topografia o 
 
 4\. Il diritto esclusivo di autorizzare o vietare gli atti di cui al paragrafo 1, lettera b), del presente articolo non e' applicabile agli atti compiuti dopo che la topografia o il prodotto a semiconduttori sono stati legittimamente posti sul mercato.
 
-##### ARTICOLO 227
+###### ARTICOLO 227
 
 Durata della tutela
 
@@ -4208,15 +4206,15 @@ a) la fine dell'anno civile in cui la topografia e' stata per la prima volta sfr
 
 b) la fine dell'anno civile in cui e' stata presentata nella debita forma la domanda di registrazione.
 
-## SOTTOSEZIONE 7 - ALTRE DISPOSIZIONI
+**SOTTOSEZIONE 7 - ALTRE DISPOSIZIONI**
 
-##### ARTICOLO 228
+###### ARTICOLO 228
 
 Varieta' vegetali
 
 Le Parti cooperano per promuovere e rafforzare la privativa sui ritrovati vegetali in conformita' alla convenzione internazionale per la protezione dei ritrovati vegetali del 1961, quale riveduta a Ginevra il 10 novembre 1972, il 23 ottobre 1978 e il 19 marzo 1991, compresa l'eccezione facoltativa al diritto di costitutore di cui all'articolo 15, paragrafo 2, di detta convenzione.
 
-##### ARTICOLO 229
+###### ARTICOLO 229
 
 Risorse genetiche, conoscenze tradizionali e folklore
 
@@ -4228,9 +4226,9 @@ Risorse genetiche, conoscenze tradizionali e folklore
 
 4\. Le Parti convengono di procedere a scambi regolari di opinioni e informazioni in merito ai pertinenti temi discussi in sede multilaterale.
 
-## SEZIONE 3 - RISPETTO DEI DIRITTI DI PROPRIETÀ INTELLETTUALE
+##### SEZIONE 3 - RISPETTO DEI DIRITTI DI PROPRIETÀ INTELLETTUALE
 
-##### ARTICOLO 230
+###### ARTICOLO 230
 
 Obblighi generali
 
@@ -4244,7 +4242,7 @@ Obblighi generali
 
 intellettuale" si intendono almeno i seguenti diritti: il diritto d'autore, i diritti connessi al diritto d'autore; il diritto sui generis del costitutore di una banca di dati, i diritti delle persone creatici di topografie di prodotti a semiconduttori, i diritti conferiti dai marchi, i diritti su disegni e modelli, i diritti brevettuali, compresi i diritti derivanti da certificati protettivi complementari, le indicazioni geografiche; i diritti sui modelli di utilita', la privativa per ritrovati vegetali, le denominazioni commerciali, se protette come diritti esclusivi nella legislazione nazionale interessata.
 
-##### ARTICOLO 231
+###### ARTICOLO 231
 
 Soggetti dotati di legittimazione attiva
 
@@ -4258,9 +4256,9 @@ c) agli organi di difesa professionali regolarmente riconosciuti come aventi la 
 
 2\. Le Parti possono riconoscere la legittimazione a chiedere l'applicazione delle misure, delle procedure e dei mezzi di ricorso di cui alla presente sezione e alla parte III dell'accordo TRIPS agli organismi di gestione collettiva dei diritti di proprieta' intellettuale regolarmente riconosciuti come aventi la facolta' di rappresentare i titolari di diritti di proprieta' intellettuale, ove cio' sia consentito dalle disposizioni della legislazione applicabile e conformemente alle medesime.
 
-## SOTTOSEZIONE 1 - MISURE, PROCEDURE E MEZZI DI RICORSO CIVILI
+**SOTTOSEZIONE 1 - MISURE, PROCEDURE E MEZZI DI RICORSO CIVILI**
 
-##### ARTICOLO 232
+###### ARTICOLO 232
 
 Presunzione del diritto d'autore o di titolarita' dei diritti
 
@@ -4270,7 +4268,7 @@ a) affinche' gli autori di opere letterarie e artistiche siano fino a prova cont
 
 b) la disposizione di cui alla lettera a) del presente articolo si applica mutatis mutandis ai titolari di diritti connessi ai diritti d'autore per quanto riguarda il rispettivo materiale protetto.
 
-##### ARTICOLO 233
+###### ARTICOLO 233
 
 Elementi di prova
 
@@ -4278,7 +4276,7 @@ Elementi di prova
 
 2\. Alle stesse condizioni, in caso di violazione di un diritto di proprieta' intellettuale commessa su scala commerciale, le Parti adottano le misure necessarie per consentire alle autorita' giudiziarie competenti di ordinare, se del caso e previa richiesta in tal senso, la produzione delle documentazioni bancarie, finanziarie o commerciali che si trovano in possesso della controparte, fatta salva la tutela delle informazioni riservate.
 
-##### ARTICOLO 234
+###### ARTICOLO 234
 
 Misure di protezione delle prove
 
@@ -4288,7 +4286,7 @@ Queste misure sono adottate, all'occorrenza inaudita altera parte, in particolar
 
 2\. Le Parti dispongono che le misure di protezione degli elementi di prova siano revocate o cessino comunque di essere efficaci su richiesta del convenuto, fatto salvo il diritto a un eventuale risarcimento, se l'attore non ha promosso un'azione nel merito dinanzi all'autorita' giudiziaria competente entro un periodo ragionevole.
 
-##### ARTICOLO 235
+###### ARTICOLO 235
 
 Diritto di informazione
 
@@ -4320,7 +4318,7 @@ d) accordano la possibilita' di rifiutarsi di fornire informazioni che costringe
 
 e) disciplinano la tutela della riservatezza delle fonti informative o il trattamento dei dati personali.
 
-##### ARTICOLO 236
+###### ARTICOLO 236
 
 Misure provvisorie e cautelari
 
@@ -4338,7 +4336,7 @@ Un'ingiunzione interlocutoria puo' inoltre essere emessa, alle stesse condizioni
 
 6\. Qualora le misure provvisorie siano revocate o decadano in seguito a un'azione o omissione dell'attore, o qualora successivamente si constati che non vi e' stata violazione o minaccia di violazione di un diritto di proprieta' intellettuale, l'autorita' giudiziaria ha la facolta' di ordinare all'attore, su richiesta del convenuto, di corrispondere a quest'ultimo un adeguato risarcimento del danno eventualmente arrecato dalle misure in questione.
 
-##### ARTICOLO 237
+###### ARTICOLO 237
 
 Misure correttive
 
@@ -4346,19 +4344,19 @@ Misure correttive
 
 2\. L'autorita' giudiziaria ordina che tali misure siano attuate a spese dell'autore della violazione, salvo motivi contrari particolari.
 
-##### ARTICOLO 238
+###### ARTICOLO 238
 
 Ingiunzioni
 
 Le Parti dispongono che, in presenza di una decisione giudiziaria che abbia accertato la violazione di un diritto di proprieta' intellettuale, l'autorita' giudiziaria possa emettere nei confronti dell'autore della violazione un'ingiunzione diretta a vietare il proseguimento della violazione. Se cosi' prevede la legislazione interna, il mancato rispetto di un'ingiunzione e', se del caso, passibile di una pena pecuniaria suscettibile di essere reiterata, al fine di assicurarne l'esecuzione. Le Parti dispongono inoltre che i titolari del diritto possano chiedere un provvedimento ingiuntivo nei confronti di intermediari i cui servizi siano utilizzati da terzi per violare un diritto di proprieta' intellettuale.
 
-##### ARTICOLO 239
+###### ARTICOLO 239
 
 Misure alternative
 
 Le Parti possono stabilire che, nei casi opportuni e su richiesta del soggetto cui potrebbero essere applicate le misure di cui all'articolo 237 e/o all'articolo 238 del presente accordo, l'autorita' giudiziaria competente possa ordinare il pagamento alla parte lesa di un indennizzo pecuniario in luogo dell'applicazione delle misure di cui all'articolo 237 e/o all'articolo 238 del presente accordo qualora tale soggetto abbia agito in modo non intenzionale e senza negligenza, se l'esecuzione di tali misure gli causerebbe un danno sproporzionato e se l'indennizzo pecuniario della parte lesa sembri ragionevolmente soddisfacente.
 
-##### ARTICOLO 240
+###### ARTICOLO 240
 
 Risarcimento del danno
 
@@ -4370,27 +4368,27 @@ b) in alternativa alla precedente lettera a), possa fissare, nei casi opportuni,
 
 2\. Nei casi in cui l'autore della violazione sia stato implicato in un'attivita' di violazione senza saperlo o senza avere motivi ragionevoli per saperlo, le Parti possono prevedere la possibilita' che l'autorita' giudiziaria disponga il recupero degli utili o il pagamento di danni che possono essere predeterminati.
 
-##### ARTICOLO 241
+###### ARTICOLO 241
 
 Spese legali
 
 Le Parti dispongono che le spese legali ragionevoli e proporzionate e le altre spese sostenute dalla parte vittoriosa siano di norma a carico della parte soccombente, a meno che sia in contrasto con il principio di equita'.
 
-##### ARTICOLO 242
+###### ARTICOLO 242
 
 Pubblicazione delle decisioni giudiziarie
 
 Le Parti assicurano che, nell'ambito delle azioni giudiziarie proposte per violazione dei diritti di proprieta' intellettuale, l'autorita' giudiziaria possa ordinare, su richiesta dell'attore e a spese dell'autore della violazione, misure adeguate per la divulgazione dell'informazione concernente la decisione, compresa la sua affissione e la sua pubblicazione integrale o per estratto. Le Parti possono prevedere ulteriori misure di pubblicita', appropriate alle particolari circostanze, compresa la pubblicita' a grande diffusione.
 
-##### ARTICOLO 243
+###### ARTICOLO 243
 
 Procedure amministrative
 
 Nella misura in cui un provvedimento civile puo' essere disposto in seguito a procedure amministrative concernenti il merito di una controversia, tali procedure devono essere conformi a principi sostanzialmente equivalenti a quelli enunciati nelle disposizioni pertinenti della presente sottosezione.
 
-## SOTTOSEZIONE 2 - RESPONSABILITÀ DEI PRESTATORI INTERMEDIARI
+**SOTTOSEZIONE 2 - RESPONSABILITÀ DEI PRESTATORI INTERMEDIARI**
 
-##### ARTICOLO 244
+###### ARTICOLO 244
 
 Ricorso ai servizi di intermediari
 
@@ -4402,7 +4400,7 @@ Le Parti riconoscono che i servizi di intermediari possono essere utilizzati da 
 
 sottosezione riguardano esclusivamente il caso in cui l'attivita' di prestatore di servizi della societa' dell'informazione si limiti al processo tecnico di attivare e fornire accesso a una rete di comunicazione sulla quale sono trasmesse o temporaneamente memorizzate le informazioni messe a disposizione da terzi al solo scopo di rendere piu' efficiente la trasmissione. Tale attivita' e' di ordine meramente tecnico, automatico e passivo, il che implica che il prestatore di servizi della societa' dell'informazione non conosce ne' controlla le informazioni trasmesse o memorizzate.
 
-##### ARTICOLO 245
+###### ARTICOLO 245
 
 Responsabilita' dei prestatori intermediari: semplice trasporto ("mere conduit")
 
@@ -4418,7 +4416,7 @@ c) non selezioni ne' modifichi le informazioni trasmesse.
 
 3\. Il presente articolo lascia impregiudicata la possibilita', secondo gli ordinamenti delle Parti, che un organo giurisdizionale o un'autorita' amministrativa esiga che il prestatore impedisca o ponga fine a una violazione.
 
-##### ARTICOLO 246
+###### ARTICOLO 246
 
 Responsabilita' dei prestatori intermediari:
 
@@ -4438,7 +4436,7 @@ e) agisca prontamente per rimuovere le informazioni che ha memorizzato, o per di
 
 2\. Il presente articolo lascia impregiudicata la possibilita', secondo gli ordinamenti delle Parti, che un organo giurisdizionale o un'autorita' amministrativa esiga che il prestatore impedisca o ponga fine a una violazione.
 
-##### ARTICOLO 247
+###### ARTICOLO 247
 
 Responsabilita' dei prestatori intermediari: "hosting"
 
@@ -4452,7 +4450,7 @@ b) non appena al corrente di tali fatti, agisca immediatamente per rimuovere le 
 
 3\. Il presente articolo lascia impregiudicata la possibilita', per un organo giurisdizionale o un'autorita' amministrativa, in conformita' agli ordinamenti delle Parti, di esigere che il prestatore ponga fine a una violazione o la impedisca nonche' la possibilita', per le Parti, di definire procedure per la rimozione delle informazioni o la disabilitazione dell'accesso alle medesime.
 
-##### ARTICOLO 248
+###### ARTICOLO 248
 
 Assenza dell'obbligo generale di sorveglianza
 
@@ -4460,15 +4458,15 @@ Assenza dell'obbligo generale di sorveglianza
 
 2\. Le Parti possono stabilire che i prestatori di servizi della societa' dell'informazione siano tenuti a informare senza indugio le competenti autorita' pubbliche di presunte attivita' o informazioni illecite dei destinatari dei loro servizi o a comunicare alle autorita' competenti, a loro richiesta, informazioni che consentano l'identificazione dei destinatari dei loro servizi con cui hanno accordi di memorizzazione dei dati.
 
-##### ARTICOLO 249
+###### ARTICOLO 249
 
 Periodo transitorio
 
 L'Ucraina da' piena attuazione agli obblighi di cui alla presente sottosezione entro diciotto mesi dall'entrata in vigore del presente accordo.
 
-## SOTTOSEZIONE 3 - ALTRE DISPOSIZIONI
+**SOTTOSEZIONE 3 - ALTRE DISPOSIZIONI**
 
-##### ARTICOLO 250
+###### ARTICOLO 250
 
 Misure alla frontiera
 
@@ -4512,7 +4510,7 @@ v) un'indicazione geografica.
 
 procedure alle importazioni di merci immesse sul mercato di un altro paese dal titolare dei diritti o con il suo consenso.
 
-##### ARTICOLO 251
+###### ARTICOLO 251
 
 Codici di condotta e cooperazione legale
 
@@ -4522,7 +4520,7 @@ a) l'elaborazione da parte delle associazioni o delle organizzazioni professiona
 
 b) la presentazione alle autorita' competenti delle Parti di progetti di codici di condotta e di valutazioni dell'applicazione di tali codici di condotta.
 
-##### ARTICOLO 252
+###### ARTICOLO 252
 
 Cooperazione
 
@@ -4546,11 +4544,11 @@ g) la promozione attiva della sensibilizzazione e dell'educazione del grande pub
 
 3\. Fatto salvo quanto disposto dai paragrafi 1 e 2 del presente articolo, le Parti convengono di mantenere un dialogo efficace sulle questioni relative alla proprieta' intellettuale ("dialogo sulla proprieta' intellettuale") di cui riferiscono al comitato per il commercio, per discutere delle questioni attinenti alla protezione e al rispetto dei diritti di proprieta' intellettuale oggetto del presente capo e di ogni altra questione pertinente.
 
-## CAPO 10 - CONCORRENZA
+#### CAPO 10 - CONCORRENZA
 
-### SEZIONE 1 - ANTITRUST E CONCENTRAZIONI
+##### SEZIONE 1 - ANTITRUST E CONCENTRAZIONI
 
-##### ARTICOLO 253
+###### ARTICOLO 253
 
 Definizioni
 
@@ -4572,7 +4570,7 @@ c) ogni modifica che i suddetti strumenti subiscano successivamente all'entrata 
 
 3\. I termini utilizzati nella presente sezione sono ulteriormente illustrati nell'allegato XXIII.
 
-##### ARTICOLO 254
+###### ARTICOLO 254
 
 Principi
 
@@ -4584,7 +4582,7 @@ b) lo sfruttamento abusivo da parte di una o piu' impresa di una posizione domin
 
 c) le concentrazioni tra imprese che determinano il costituirsi di monopoli o una sostanziale restrizione della concorrenza sul mercato nel territorio di una delle Parti.
 
-##### ARTICOLO 255
+###### ARTICOLO 255
 
 Attuazione
 
@@ -4604,7 +4602,7 @@ b) un tribunale o altro organo giurisdizionale indipendente previsto dal suo ord
 
 6\. L'autorita' garante della concorrenza adotta e pubblica un documento esplicativo dei principi applicati nella valutazione delle concentrazioni orizzontali.
 
-##### ARTICOLO 256
+###### ARTICOLO 256
 
 Ravvicinamento legislativo e pratiche applicative
 
@@ -4622,7 +4620,7 @@ calendario: l'articolo 1 e l'articolo 5, paragrafi 1 e 2, del regolamento sono a
 
 4\. regolamento (CE) n. 772/2004 della Commissione, del 27 aprile 2004, relativo all'applicazione dell'articolo 81, paragrafo 3, del trattato CE a categorie di accordi di trasferimento di tecnologia calendario: gli articoli 1, 2, 3, 4, 6, 7 e 8 del regolamento sono attuati entro tre anni dall'entrata in vigore del presente accordo;
 
-##### ARTICOLO 257
+###### ARTICOLO 257
 
 Imprese pubbliche e imprese cui sono concessi diritti speciali o esclusivi
 
@@ -4636,7 +4634,7 @@ se e in quanto l'applicazione di tali principi e norme in materia di concorrenza
 
 2\. Le disposizioni del paragrafo 1 non possono essere interpretate come tali da impedire a una Parte di creare o mantenere un'impresa pubblica, concedere a imprese diritti speciali o esclusivi o mantenere tali diritti.
 
-##### ARTICOLO 258
+###### ARTICOLO 258
 
 Monopoli di Stato
 
@@ -4646,7 +4644,7 @@ Monopoli di Stato
 
 3\. Le disposizioni del paragrafo 1 non possono essere interpretate come tali da impedire a una Parte di creare o mantenere un monopolio di Stato.
 
-##### ARTICOLO 259
+###### ARTICOLO 259
 
 Scambio di informazioni e cooperazione in materia di applicazione del diritto della concorrenza
 
@@ -4656,7 +4654,7 @@ Scambio di informazioni e cooperazione in materia di applicazione del diritto de
 
 3\. Al fine di agevolare l'applicazione efficace del rispettivo diritto della concorrenza, le autorita' garanti della concorrenza delle Parti possono scambiarsi informazioni anche sulla legislazione e sulle attivita' di applicazione nel rispetto dei limiti imposti dalla rispettiva legislazione e tenendo conto dei rispettivi interessi essenziali.
 
-##### ARTICOLO 260
+###### ARTICOLO 260
 
 Consultazioni
 
@@ -4666,13 +4664,13 @@ Consultazioni
 
 3\. Per facilitare l'esame della questione oggetto delle consultazioni, ogni Parte si adopera per fornire all'altra Parte le informazioni non riservate pertinenti nel rispetto dei limiti imposti dalla sua rispettiva legislazione e tenendo conto dei propri interessi essenziali.
 
-##### ARTICOLO 261
+###### ARTICOLO 261
 
 Per le questioni attinenti alla presente sezione, fatta eccezione per l'articolo 256 del presente accordo, le Parti non possono ricorrere al meccanismo di risoluzione delle controversie di cui al titolo IV, capo 14 (Risoluzione delle controversie), del presente accordo.
 
-## SEZIONE 2 - AIUTI DI STATO
+##### SEZIONE 2 - AIUTI DI STATO
 
-##### ARTICOLO 262
+###### ARTICOLO 262
 
 Principi generali
 
@@ -4708,7 +4706,7 @@ I termini utilizzati nella presente sezione sono ulteriormente illustrati nell'a
 
 comprende l'interesse comune delle Parti.
 
-##### ARTICOLO 263
+###### ARTICOLO 263
 
 Trasparenza
 
@@ -4730,25 +4728,25 @@ b) i metodi dettagliati con i quali detti costi e ricavi sono imputati o attribu
 
 5\. Ciascuna delle Parti dispone l'applicazione delle disposizioni del presente articolo entro cinque anni dall'entrata in vigore del presente accordo.
 
-##### ARTICOLO 264
+###### ARTICOLO 264
 
 Interpretazione
 
 Le Parti convengono di applicare l'articolo 262 e l'articolo 263, paragrafo 3 o 4, del presente accordo usando come fonti di interpretazione i criteri risultanti dall'applicazione degli articoli 106, 107 e 93 del trattato sul funzionamento dell'Unione europea, la giurisprudenza pertinente della Corte di giustizia dell'Unione europea compresa, il diritto derivato, le discipline, gli orientamenti e gli altri atti amministrativi in vigore nell'Unione europea.
 
-##### ARTICOLO 265
+###### ARTICOLO 265
 
 Rapporto con l'OMC
 
 Queste disposizioni lasciano impregiudicato il diritto delle Parti di applicare misure di difesa commerciale o di promuovere altra azione idonea contro una sovvenzione o avviare un procedimento di risoluzione delle controversie, conformemente alle pertinenti disposizioni dell'OMC.
 
-##### ARTICOLO 266
+###### ARTICOLO 266
 
 Campo di applicazione
 
 Le disposizioni della presente sezione si applicano alle merci e ai servizi elencati nell'allegato XVI del capo 6 (Stabilimento, commercio di servizi e commercio elettronico) del titolo IV del presente accordo, conformemente alla decisione concordata in materia di accesso al mercato, ad eccezione delle sovvenzioni ai prodotti di cui all'allegato 1 dell'accordo OMC sull'agricoltura e delle altre sovvenzioni contemplate dall'accordo sull'agricoltura.
 
-##### ARTICOLO 267
+###### ARTICOLO 267
 
 Sistema interno di controllo degli aiuti di Stato
 
@@ -4764,9 +4762,9 @@ Ogni nuovo aiuto concesso in Ucraina deve essere compatibile con le disposizioni
 
 b) Entro quattro anni dall'entrata in vigore del presente accordo, l'Ucraina presenta alla Commissione europea i dati relativi al prodotto interno lordo pro capite armonizzati a livello II della NUTS. L'autorita' di cui al paragrafo 1 del presente articolo e la Commissione europea valutano quindi congiuntamente l'ammissibilita' delle regioni dell'Ucraina e le corrispondenti intensita' massime di aiuto per poter tracciare una carta degli aiuti a finalita' regionale sulla base degli orientamenti UE in materia.
 
-## CAPO 11 - ENERGIA NELL'AMBITO DEGLI SCAMBI
+#### CAPO 11 - ENERGIA NELL'AMBITO DEGLI SCAMBI
 
-##### ARTICOLO 268
+###### ARTICOLO 268
 
 Definizioni
 
@@ -4782,7 +4780,7 @@ Ai fini del presente capo e fatte salve le disposizioni del titolo IV, capo 5 (D
 
 5\. "prelievo non autorizzato": ogni attivita' consistente nel prelievo illecito di prodotti energetici da un'infrastruttura fissa.
 
-##### ARTICOLO 269
+###### ARTICOLO 269
 
 Prezzi interni regolamentati
 
@@ -4800,7 +4798,7 @@ Prezzi interni regolamentati
 
 all'articolo 106 del trattato sul funzionamento dell'Unione europea e, in particolare, nel senso di cui alla giurisprudenza della parte UE.
 
-##### ARTICOLO 270
+###### ARTICOLO 270
 
 Divieto di doppia tariffazione (dual pricing)
 
@@ -4808,7 +4806,7 @@ Divieto di doppia tariffazione (dual pricing)
 
 2\. La Parte esportatrice, su richiesta dell'altra Parte, fornisce elementi atti a dimostrare che un prezzo diverso applicato allo stesso prodotto energetico venduto sul mercato interno e all'esportazione non deriva da una misura vietata a norma del paragrafo 1 del presente articolo.
 
-##### ARTICOLO 271
+###### ARTICOLO 271
 
 Dazi doganali e restrizioni quantitative
 
@@ -4816,19 +4814,19 @@ Dazi doganali e restrizioni quantitative
 
 2\. Il paragrafo 1 lascia impregiudicate le restrizioni quantitative o le misure di effetto equivalente giustificate da motivi di ordine pubblico, di pubblica sicurezza, di tutela della salute e della vita delle persone e degli animali o di preservazione dei vegetali o di tutela della proprieta' industriale e commerciale. Tuttavia, tali restrizioni o misure non devono costituire un mezzo di discriminazione arbitraria, ne' una restrizione dissimulata al commercio tra le Parti.
 
-##### ARTICOLO 272
+###### ARTICOLO 272
 
 Transito
 
 Le Parti adottano le misure necessarie per agevolare il transito, in conformita' al principio della liberta' di transito, all'articolo V, paragrafi 2, 4 e 5, del GATT 1994 e all'articolo 7, paragrafi 1 e 3, del trattato sulla Carta dell'energia del 1994, che sono integrati nel presente accordo e ne fanno parte.
 
-##### ARTICOLO 273
+###### ARTICOLO 273
 
 Trasporti
 
 Per quanto concerne il trasporto di energia elettrica e gas, e in particolare l'accesso di terzi all'infrastruttura fissa, le Parti adeguano la loro legislazione richiamata nell'allegato XXVII del presente accordo e nel trattato che istituisce la Comunita' dell'energia del 2005, al fine di garantire che le tariffe, pubblicate anteriormente alla loro entrata in vigore, le procedure di assegnazione delle capacita' e tutte le altre condizioni siano obiettive, ragionevoli e trasparenti e non discriminino in base all'origine, alla proprieta' o alla destinazione dell'energia elettrica o del gas.
 
-##### ARTICOLO 274
+###### ARTICOLO 274
 
 Cooperazione in materia di infrastrutture
 
@@ -4836,13 +4834,13 @@ Le Parti si adoperano per agevolare l'uso dell'infrastruttura di trasmissione de
 
 Nell'elaborazione dei documenti programmatici riguardanti gli scenari della domanda e dell'offerta, le interconnessioni, le strategie energetiche e i piani di sviluppo delle infrastrutture ciascuna delle Parti tiene conto delle capacita' e delle reti energetiche dell'altra Parte ai fini di una maggiore integrazione dei mercati dei prodotti energetici.
 
-##### ARTICOLO 275
+###### ARTICOLO 275
 
 Prelievo non autorizzato di prodotti energetici
 
 Ciascuna delle Parti adotta tutte le misure necessarie per vietare e contrastare il prelievo non autorizzato di prodotti energetici in transito o trasportati attraverso il suo territorio.
 
-##### ARTICOLO 276
+###### ARTICOLO 276
 
 Interruzione
 
@@ -4856,7 +4854,7 @@ b) ripristinare rapidamente il normale funzionamento del transito o del trasport
 
 3\. Le Parti convengono che una Parte non e' ritenuta responsabile dell'interruzione o della riduzione di cui al presente articolo qualora essa sia nell'impossibilita' di fornire, far transitare o trasportare i prodotti energetici a seguito di azioni imputabili a un paese terzo o a un soggetto sottoposto al controllo o alla giurisdizione di un paese terzo.
 
-##### ARTICOLO 277
+###### ARTICOLO 277
 
 Autorita' di regolamentazione per l'energia elettrica e il gas
 
@@ -4866,7 +4864,7 @@ Autorita' di regolamentazione per l'energia elettrica e il gas
 
 3\. Un gestore ha il diritto di ricorrere contro una decisione di un'autorita' di regolamentazione che lo riguardi dinanzi a un organo competente a conoscere dei ricorsi, indipendente dalle parti coinvolte. Le decisioni degli organi competenti a conoscere dei ricorsi, laddove non si tratti di organi giurisdizionali, sono comunque sempre motivate per iscritto e sono altresi' impugnabili dinanzi a un'autorita' giurisdizionale imparziale e indipendente. Le decisioni degli organi competenti a conoscere dei ricorsi hanno effetto esecutivo.
 
-##### ARTICOLO 278
+###### ARTICOLO 278
 
 Rapporto con il trattato che istituisce la Comunita' dell'energia
 
@@ -4876,7 +4874,7 @@ Rapporto con il trattato che istituisce la Comunita' dell'energia
 
 3\. Nessuna delle Parti utilizza le disposizioni in materia di risoluzione delle controversie del presente accordo per denunciare una violazione delle disposizioni del trattato che istituisce la Comunita' dell'energia.
 
-##### ARTICOLO 279
+###### ARTICOLO 279
 
 Accesso ed esercizio delle attivita' di prospezione, ricerca e coltivazione di idrocarburi
 
@@ -4894,7 +4892,7 @@ Accesso ed esercizio delle attivita' di prospezione, ricerca e coltivazione di i
 
 membro con riferimento al suo territorio o l'Ucraina con riferimento al suo territorio.
 
-##### ARTICOLO 280
+###### ARTICOLO 280
 
 Licenze e condizioni del loro rilascio
 
@@ -4904,9 +4902,9 @@ Licenze e condizioni del loro rilascio
 
 3\. Gli articoli 104 e 105 del presente accordo si applicano alle condizioni e alla procedura di rilascio di una licenza.
 
-## CAPO 12 - TRASPARENZA
+#### CAPO 12 - TRASPARENZA
 
-##### ARTICOLO 281
+###### ARTICOLO 281
 
 Definizioni
 
@@ -4916,7 +4914,7 @@ Ai fini del presente capo si intende per:
 
 2\. "persona interessata": ogni persona fisica o giuridica titolare di diritti o soggetta a obblighi in forza di misure di applicazione generale ai sensi dell'articolo 282 del presente accordo.
 
-##### ARTICOLO 282
+###### ARTICOLO 282
 
 Obiettivo e campo di applicazione
 
@@ -4924,7 +4922,7 @@ Obiettivo e campo di applicazione
 
 2\. Le Parti, riaffermando i loro rispettivi impegni derivanti dall'accordo OMC, introducono chiarimenti e migliori regole in materia di trasparenza, consultazione e migliore gestione delle misure di applicazione generale che possono avere un'incidenza sulle materie disciplinate dal presente accordo.
 
-##### ARTICOLO 283
+###### ARTICOLO 283
 
 Pubblicita'
 
@@ -4944,7 +4942,7 @@ b) offre alle persone interessate ragionevoli possibilita' di presentare osserva
 
 c) si sforza di tenere conto delle osservazioni ricevute dalle persone interessate in merito alle misure proposte.
 
-##### ARTICOLO 284
+###### ARTICOLO 284
 
 Richieste di informazioni e punti di contatto
 
@@ -4960,7 +4958,7 @@ Le richieste di informazioni possono essere trasmesse attraverso i meccanismi is
 
 4\. Le Parti mantengono o istituiscono gli opportuni meccanismi per le persone interessate cui e' affidato il compito di cercare una soluzione efficace ai problemi delle persone interessate dell'altra Parte derivanti dall'applicazione delle misure di applicazione generale e dai procedimenti amministrativi di cui all'articolo 285 del presente accordo. Questi meccanismi dovrebbero essere facilmente accessibili, temporalmente definiti, orientati ai risultati e trasparenti. Essi non pregiudicano le procedure di ricorso o di riesame che le Parti istituiscono o mantengono, ne' i diritti e gli obblighi delle Parti derivanti dal titolo IV, capo 14 (Risoluzione delle controversie) e capo 15 (Mediazione), del presente accordo.
 
-##### ARTICOLO 285
+###### ARTICOLO 285
 
 Procedimenti amministrativi
 
@@ -4972,7 +4970,7 @@ b) accorda alle persone interessate una ragionevole possibilita' di presentare f
 
 c) provvede a che le sue procedure siano fondate sulla sua legislazione interna e siano ad essa conformi.
 
-##### ARTICOLO 286
+###### ARTICOLO 286
 
 Riesame e ricorso
 
@@ -4988,7 +4986,7 @@ b) una decisione fondata sugli elementi di prova e sugli atti presentati oppure,
 
 3\. Fatta salva la possibilita' di ricorso o di ulteriore riesame nei modi previsti nella rispettiva legislazione interna, ciascuna delle Parti provvede a che tale decisione sia applicata dall'ufficio o dall'autorita' competente e ne indirizzi l'azione per quanto riguarda le misure amministrative in questione.
 
-##### ARTICOLO 287
+###### ARTICOLO 287
 
 Qualita' ed efficacia della regolamentazione e buona condotta amministrativa
 
@@ -4996,15 +4994,15 @@ Qualita' ed efficacia della regolamentazione e buona condotta amministrativa
 
 2\. Le Parti aderiscono ai principi di buona condotta amministrativa e convengono di cooperare alla loro promozione, in particolare mediante lo scambio di informazioni e delle migliori pratiche.
 
-##### ARTICOLO 288
+###### ARTICOLO 288
 
 Non discriminazione
 
 Ciascuna delle Parti applica alle persone interessate dell'altra Parte standard di trasparenza non meno favorevoli di quelli applicati alle proprie persone interessate
 
-## CAPO 13 - COMMERCIO E SVILUPPO SOSTENIBILE
+#### CAPO 13 - COMMERCIO E SVILUPPO SOSTENIBILE
 
-##### ARTICOLO 289
+###### ARTICOLO 289
 
 Contesto e obiettivi
 
@@ -5012,7 +5010,7 @@ Contesto e obiettivi
 
 2\. A tal fine le Parti riconoscono l'importanza di tenere pienamente conto degli interessi economici, sociali e ambientali non solo delle rispettive popolazioni, ma anche delle future generazioni e garantiscono la sinergia delle politiche ambientali, sociali e di sviluppo economico.
 
-##### ARTICOLO 290
+###### ARTICOLO 290
 
 Diritto di regolamentare
 
@@ -5020,7 +5018,7 @@ Diritto di regolamentare
 
 2\. Per realizzare gli obiettivi di cui al presente articolo, l'Ucraina procede al ravvicinamento delle sue disposizioni legislative e regolamentari e delle sue pratiche amministrative all'acquis dell'UE.
 
-##### ARTICOLO 291
+###### ARTICOLO 291
 
 Norme e accordi multilaterali in materia di lavoro
 
@@ -5040,7 +5038,7 @@ d) l'eliminazione della discriminazione in materia di impiego e di occupazione.
 
 4\. Le Parti sottolineano il fatto che le norme del lavoro non devono essere utilizzate a scopi di protezionismo commerciale. Esse rilevano che il loro vantaggio comparativo non deve in alcun modo essere messo in discussione.
 
-##### ARTICOLO 292
+###### ARTICOLO 292
 
 Accordi multilaterali in materia di ambiente
 
@@ -5054,7 +5052,7 @@ Accordi multilaterali in materia di ambiente
 
 5\. Le Parti collaborano al fine di promuovere l'utilizzazione accorta e razionale delle risorse naturali conformemente all'obiettivo di uno sviluppo sostenibile nella prospettiva di rafforzare i legami tra le politiche e le pratiche delle Parti in materia di commercio e ambiente.
 
-##### ARTICOLO 293
+###### ARTICOLO 293
 
 Il commercio come fattore che favorisce lo sviluppo sostenibile
 
@@ -5064,13 +5062,13 @@ Il commercio come fattore che favorisce lo sviluppo sostenibile
 
 3\. Le Parti si adoperano per facilitare il commercio dei prodotti che contribuiscono allo sviluppo sostenibile, comprese quelli che fruiscono di regimi come il commercio equo ed etico e quelli che rispettano i principi di accountability e responsabilita' sociale delle imprese.
 
-##### ARTICOLO 294
+###### ARTICOLO 294
 
 Commercio di prodotti forestali
 
 Per favorire la gestione sostenibile delle risorse forestali, le Parti si impegnano a collaborare per migliorare la governance e l'applicazione della normative nel settore forestale e promuovere il commercio di prodotti forestali legali e sostenibili.
 
-##### ARTICOLO 295
+###### ARTICOLO 295
 
 Commercio di prodotti ittici
 
@@ -5082,7 +5080,7 @@ b) garantendo il pieno rispetto delle misure di conservazione e controllo applic
 
 c) introducendo tra l'altro misure volte a contrastare la pesca illegale, non dichiarata e non regolamentata.
 
-##### ARTICOLO 296
+###### ARTICOLO 296
 
 Mantenimento dei livelli di protezione
 
@@ -5090,19 +5088,19 @@ Mantenimento dei livelli di protezione
 
 2\. Le Parti non indeboliscono ne' riducono la protezione in materia di ambiente o di lavoro garantita dalla loro legislazione per favorire gli scambi o gli investimenti non applicando le loro disposizioni legislative o regolamentari o le loro norme, o altrimenti derogandovi o proponendo di non applicarli o di derogarvi, in modo tale da incidere sugli scambi o sugli investimenti tra le Parti.
 
-##### ARTICOLO 297
+###### ARTICOLO 297
 
 Informazioni scientifiche
 
 Le Parti riconoscono l'importanza di tenere conto delle informazioni scientifiche e tecniche e delle norme, degli orientamenti o delle raccomandazioni internazionali pertinenti nell'elaborazione, adozione e attuazione delle misure a tutela dell'ambiente, della salute pubblica e delle condizioni sociali che influiscono sugli scambi commerciali reciproci.
 
-##### ARTICOLO 298
+###### ARTICOLO 298
 
 Esame dell'impatto sulla sostenibilita'
 
 Le Parti si impegnano a esaminare, monitorare e valutare l'impatto dell'attuazione del presente titolo sullo sviluppo sostenibile avvalendosi dei rispettivi processi o istituti partecipativi e di quelli posti in essere in base al presente accordo, ad esempio tramite valutazioni dell'impatto sulla sostenibilita' commerciale.
 
-##### ARTICOLO 299
+###### ARTICOLO 299
 
 Istituzioni della societa' civile
 
@@ -5116,7 +5114,7 @@ Istituzioni della societa' civile
 
 5\. Le Parti informano il forum della societa' civile in merito ai progressi compiuti nell'attuazione del presente capo. Le opinioni, i pareri o le proposte del forum della societa' civile possono essere comunicati alle Parti direttamente o tramite i gruppi consultivi.
 
-##### ARTICOLO 300
+###### ARTICOLO 300
 
 Meccanismi istituzionali e di monitoraggio
 
@@ -5134,7 +5132,7 @@ Meccanismi istituzionali e di monitoraggio
 
 7\. Per ogni questione attinente al presente capo, le Parti si avvalgono unicamente delle procedure di cui agli articoli 300 e 301 del presente accordo.
 
-##### ARTICOLO 301
+###### ARTICOLO 301
 
 Gruppo di esperti
 
@@ -5146,19 +5144,19 @@ Il gruppo di esperti si riunisce entro sessanta giorni dalla richiesta di una Pa
 
 3\. All'entrata in vigore del presente accordo, le Parti designano di comune accordo un elenco di almeno quindici persone competenti nelle questioni oggetto del presente capo, di cui almeno cinque non cittadini ne' dell'una ne' dell'altra Parte, che presiederanno il gruppo. Gli esperti sono indipendenti dalle Parti o dalle organizzazioni rappresentate nei gruppi consultivi, non sono ad esse collegate ne' ricevono istruzioni dalle medesime. Ciascuna delle Parti sceglie un esperto nell'elenco di esperti entro cinquanta giorni dal ricevimento della domanda di una Parte relativa alla costituzione del gruppo. Se una Parte non sceglie il proprio esperto entro tale termine, l'altra Parte sceglie dall'elenco un esperto avente la cittadinanza della Parte che non ha effettuato la scelta. I due esperti cosi' prescelti designano il presidente scegliendolo tra gli esperti dell'elenco che non sono cittadini ne' dell'una ne' dell'altra Parte.
 
-##### ARTICOLO 302
+###### ARTICOLO 302
 
 Cooperazione in materia di commercio e di sviluppo sostenibile
 
 Le Parti collaborano per quanto riguarda gli aspetti commerciali delle politiche del lavoro e dell'ambiente per il conseguimento degli obiettivi del presente accordo.
 
-## CAPO 14 (1) - RISOLUZIONE DELLE CONTROVERSIE
+#### CAPO 14 (1) - RISOLUZIONE DELLE CONTROVERSIE
 
 CAPO 141
 
 RISOLUZIONE DELLE CONTROVERSIE
 
-##### ARTICOLO 303
+###### ARTICOLO 303
 
 Obiettivo
 
@@ -5174,13 +5172,13 @@ tale da conferire diritti o imporre obblighi che possono essere direttamente inv
 
 le pretese inadempienze di organismi istituiti in forza del presente accordo.
 
-##### ARTICOLO 304
+###### ARTICOLO 304
 
 Campo di applicazione
 
 Salvo espressa disposizione contraria, le disposizioni del presente capo si applicano alle controversie riguardanti l'interpretazione e l'applicazione delle disposizioni del titolo IV del presente accordo.
 
-##### ARTICOLO 305
+###### ARTICOLO 305
 
 Consultazioni
 
@@ -5196,9 +5194,9 @@ Consultazioni
 
 6\. Se le consultazioni non si tengono entro i termini di cui rispettivamente al paragrafo 3 o 4 del presente articolo oppure se si sono concluse senza una soluzione concordata, la Parte attrice puo' chiedere la costituzione di un collegio arbitrale a norma dell'articolo 306 del presente accordo.
 
-## SEZIONE 1 - PROCEDURA DI ARBITRATO
+##### SEZIONE 1 - PROCEDURA DI ARBITRATO
 
-##### ARTICOLO 306
+###### ARTICOLO 306
 
 Apertura della procedura di arbitrato
 
@@ -5208,7 +5206,7 @@ Apertura della procedura di arbitrato
 
 3\. Salvo diversamente concordato dalle Parti entro cinque giorni dalla data di costituzione del collegio arbitrale, quest'ultimo ha il mandato seguente: "esaminare la questione indicata nella richiesta di costituzione del collegio arbitrale, pronunciarsi sulla compatibilita' della misura in questione con le disposizioni del presente accordo richiamate all'articolo 304 del presente accordo e pronunciarsi in conformita' dell'articolo 310 del presente accordo."
 
-##### ARTICOLO 307
+###### ARTICOLO 307
 
 Composizione del collegio arbitrale
 
@@ -5232,7 +5230,7 @@ b) se le Parti hanno concordato sulla designazione di un membro del collegio arb
 
 8\. Nel caso di una controversia relativa al titolo IV, capo 11 (Energia nell'ambito degli scambi), del presente accordo, ritenuta urgente da una Parte in ragione di un'interruzione o di una minaccia di interruzione, totale o parziale, del trasporto di gas naturale, petrolio o energia elettrica tra l'Ucraina e la Parte UE, il paragrafo 3 del presente articolo si applica senza che trovi applicazione il paragrafo 2 del presente articolo e il periodo di cui al paragrafo 5 del presente articolo e' di due giorni.
 
-##### ARTICOLO 308
+###### ARTICOLO 308
 
 Relazione interinale del collegio arbitrale
 
@@ -5246,7 +5244,7 @@ Relazione interinale del collegio arbitrale
 
 5\. Dopo aver esaminato le osservazioni scritte delle Parti sulla relazione interinale, il collegio arbitrale puo' modificare la sua relazione e procedere a ogni ulteriore esame da esso ritenuto opportuno. Il lodo finale del collegio arbitrale contiene un esame delle argomentazioni addotte nella fase di riesame intermedio.
 
-##### ARTICOLO 309
+###### ARTICOLO 309
 
 Conciliazione per le controversie urgenti in materia di energia
 
@@ -5260,7 +5258,7 @@ Il conciliatore, se entro quindici giorni dalla nomina non e' riuscito a giunger
 
 4\. Il conciliatore rispetta il codice di condotta degli arbitri.
 
-##### ARTICOLO 310
+###### ARTICOLO 310
 
 Lodo del collegio arbitrale
 
@@ -5270,15 +5268,15 @@ Lodo del collegio arbitrale
 
 3\. Nel caso di una controversia relativa al titolo IV, capo 11 (Energia nell'ambito degli scambi), del presente accordo, ritenuta urgente da una Parte in ragione di un'interruzione o di una minaccia di interruzione, totale o parziale, del trasporto di gas naturale, petrolio o energia elettrica tra l'Ucraina e la Parte UE, il collegio arbitrale notifica il proprio lodo entro quaranta giorni dalla data della sua costituzione.
 
-## SEZIONE 2 - ESECUZIONE
+##### SEZIONE 2 - ESECUZIONE
 
-##### ARTICOLO 311
+###### ARTICOLO 311
 
 Esecuzione del lodo del collegio arbitrale
 
 Le Parti adottano le misure necessarie per conformarsi in buona fede al lodo del collegio arbitrale e si adoperano per concordare il periodo di tempo per la sua esecuzione.
 
-##### ARTICOLO 312
+###### ARTICOLO 312
 
 Periodo di tempo ragionevole per l'esecuzione
 
@@ -5292,7 +5290,7 @@ Periodo di tempo ragionevole per l'esecuzione
 
 5\. Il periodo di tempo ragionevole puo' essere prorogato di comune accordo tra le Parti.
 
-##### ARTICOLO 313
+###### ARTICOLO 313
 
 Riesame delle misure prese per dare esecuzione al lodo del collegio arbitrale
 
@@ -5304,7 +5302,7 @@ La richiesta reca l'indicazione della misura contestata e delle disposizioni del
 
 3\. Qualora non sia possibile ricostituire, in tutto o in parte, il collegio arbitrale originario, si applicano le procedure di cui all'articolo 307 del presente accordo. Il termine per la notifica del lodo e' di sessanta giorni dalla data di presentazione della richiesta di cui al paragrafo 2 del presente articolo.
 
-##### ARTICOLO 314
+###### ARTICOLO 314
 
 Rimedi per controversie urgenti in materia di energia
 
@@ -5314,7 +5312,7 @@ Rimedi per controversie urgenti in materia di energia
 
 3\. La Parte convenuta, qualora contesti la mancata esecuzione o il livello di sospensione degli obblighi dovuto alla mancata esecuzione, puo', a norma dell'articolo 315 o 316 del presente accordo, avviare un procedimento che e' esaminato rapidamente. La Parte attrice e' tenuta ad abolire o a modificare la sospensione degli obblighi solo una volta che il collegio si sia pronunciato sulla questione ed e' autorizzata a mantenere la sospensione durante il procedimento.
 
-##### ARTICOLO 315
+###### ARTICOLO 315
 
 Rimedi temporanei in caso di mancata esecuzione
 
@@ -5330,7 +5328,7 @@ Rimedi temporanei in caso di mancata esecuzione
 
 6\. La sospensione degli obblighi e' temporanea e si applica solo fino a quando la misura giudicata incompatibile con le disposizioni del presente accordo richiamate all'articolo 304 non sia stata revocata o modificata per renderla conforme alle citate disposizioni secondo quanto previsto all'articolo 316, o fino a quando le Parti non abbiano trovato un accordo per la risoluzione della controversia.
 
-##### ARTICOLO 316
+###### ARTICOLO 316
 
 Riesame delle misure prese per dare esecuzione al lodo successivamente alla sospensione degli obblighi
 
@@ -5342,15 +5340,15 @@ La richiesta e' notificata contemporaneamente alla Parte convenuta e al comitato
 
 3\. Qualora non sia possibile ricostituire, in tutto o in parte, il collegio arbitrale originario, si applicano le procedure di cui all'articolo 307 del presente accordo. Il termine per la notifica della decisione e' di sessanta giorni dalla data di presentazione della richiesta di cui al paragrafo 2 del presente articolo.
 
-## SEZIONE 3 - DISPOSIZIONI COMUNI
+##### SEZIONE 3 - DISPOSIZIONI COMUNI
 
-##### ARTICOLO 317
+###### ARTICOLO 317
 
 Soluzione concordata
 
 Le Parti possono in qualsiasi momento pervenire a una soluzione concordata di una controversia cui si applica il presente capo. Esse ne danno congiuntamente notifica al comitato per il commercio e al presidente del collegio arbitrale, se del caso. Se la soluzione deve essere approvata in base alle procedure interne pertinenti di una delle Parti, la notifica fa riferimento a tale obbligo e la procedura di arbitrato e' sospesa. Se tale approvazione non e' richiesta, o all'atto della notifica dell'espletamento di tali procedure interne, la procedura di arbitrato e' conclusa.
 
-##### ARTICOLO 318
+###### ARTICOLO 318
 
 Regolamento di procedura
 
@@ -5358,19 +5356,19 @@ Regolamento di procedura
 
 2\. Le udienze del collegio arbitrale sono pubbliche conformemente al regolamento di procedura di cui all'allegato XXIV del presente accordo.
 
-##### ARTICOLO 319
+###### ARTICOLO 319
 
 Informazioni e consulenza tecnica
 
 Su richiesta di una Parte o di propria iniziativa, il collegio arbitrale puo' acquisire informazioni da qualunque fonte, ivi comprese le parti coinvolte nella controversia, se lo ritiene opportuno per il procedimento arbitrale. Il collegio arbitrale ha anche il diritto di acquisire il parere di esperti, se lo ritiene opportuno. Le informazioni cosi' ottenute devono essere comunicate a entrambe le Parti affinche' possano formulare osservazioni. Le persone fisiche o giuridiche interessate stabilite nel territorio delle Parti sono autorizzate a presentare memorie a titolo di amicus curiae al collegio arbitrale, conformemente al regolamento di procedura contenuto nell'allegato XXIV del presente accordo.
 
-##### ARTICOLO 320
+###### ARTICOLO 320
 
 Norme di interpretazione
 
 Il collegio arbitrale interpreta le disposizioni richiamate all'articolo 304 del presente accordo secondo le norme di interpretazione consuetudinarie del diritto internazionale pubblico, comprese quelle codificate nella convenzione di Vienna sul diritto dei trattati del 1969. Se un obbligo derivante dal presente accordo e' identico a un obbligo derivante dall'accordo OMC, il collegio arbitrale adotta un'interpretazione compatibile con l'interpretazione pertinente stabilita dalle decisioni dell'organo di conciliazione dell'OMC (di seguito "DSB"). I lodi del collegio arbitrale non possono ampliare ne' ridurre i diritti e gli obblighi che discendono dal presente accordo.
 
-##### ARTICOLO 321
+###### ARTICOLO 321
 
 Decisioni e lodi del collegio arbitrale
 
@@ -5378,7 +5376,7 @@ Decisioni e lodi del collegio arbitrale
 
 2\. I lodi del collegio arbitrale sono vincolanti per le Parti e non generano diritti od obblighi per le persone fisiche o giuridiche. I lodi espongono le constatazioni dei fatti, l'applicabilita' delle pertinenti disposizioni dell'accordo e le principali motivazioni alla base delle conclusioni in essi contenute. Salvo sua diversa decisione, il comitato per il commercio rende pubblici integralmente i lodi arbitrali.
 
-##### ARTICOLO 322
+###### ARTICOLO 322
 
 Risoluzione delle controversie relative al ravvicinamento normativo
 
@@ -5386,9 +5384,9 @@ Risoluzione delle controversie relative al ravvicinamento normativo
 
 2\. Se una controversia pone un problema di interpretazione di una disposizione del diritto dell'UE di cui al paragrafo 1, il collegio arbitrale non statuisce, ma chiede alla Corte di giustizia dell'Unione europea di pronunciarsi sulla questione. In tali casi, i termini che si applicano ai lodi del collegio arbitrale sono sospesi finche' la Corte di giustizia dell'Unione europea non si sia pronunciata. La pronuncia della Corte di giustizia dell'Unione europea e' vincolante per il collegio arbitrale.
 
-## SEZIONE 4 - DISPOSIZIONI GENERALI
+##### SEZIONE 4 - DISPOSIZIONI GENERALI
 
-##### ARTICOLO 323
+###### ARTICOLO 323
 
 Arbitri
 
@@ -5398,7 +5396,7 @@ Arbitri
 
 3\. Tutti gli arbitri designati per la partecipazione a un collegio arbitrale devono essere indipendenti, esercitare le funzioni a titolo personale, non accettare istruzioni da alcuna organizzazione o alcun governo ne' essere collegati al governo di alcuna delle Parti e sono tenuti al rispetto del codice di condotta di cui all'allegato XXV del presente accordo.
 
-##### ARTICOLO 324
+###### ARTICOLO 324
 
 Rapporto con gli obblighi derivanti dall'OMC
 
@@ -5416,7 +5414,7 @@ b) i procedimenti di risoluzione delle controversie a norma del presente capo si
 
 L'accordo OMC non puo' essere invocato per impedire a una Parte la sospensione di obblighi a norma del presente capo.
 
-##### ARTICOLO 325
+###### ARTICOLO 325
 
 Termini
 
@@ -5424,15 +5422,15 @@ Termini
 
 2\. I termini indicati nel presente capo possono essere prorogati previo accordo fra le Parti.
 
-##### ARTICOLO 326
+###### ARTICOLO 326
 
 Modifica del capo
 
 Il comitato per il commercio puo' decidere di modificare il presente capo, il regolamento di procedura per gli arbitrati di cui all'allegato XXIV del presente accordo e il codice di condotta per i membri dei collegi arbitrali e i mediatori di cui all'allegato XXV del presente accordo.
 
-## CAPO 15 - MECCANISMO DI MEDIAZIONE
+#### CAPO 15 - MECCANISMO DI MEDIAZIONE
 
-##### ARTICOLO 327
+###### ARTICOLO 327
 
 Obiettivo e campo di applicazione
 
@@ -5442,9 +5440,9 @@ Obiettivo e campo di applicazione
 
 3\. Il presente capo non si applica alle misure che rientrano nel capo 6 (Stabilimento, commercio di servizi e commercio elettronico), nel capo 7 (Pagamenti correnti e movimenti di capitali), nel capo 8 (Appalti pubblici), nel capo 9 (Proprieta' intellettuale) e nel capo 13 (Commercio e sviluppo sostenibile) del presente accordo. Il comitato per il commercio puo', previo attento esame, decidere l'applicazione di questo meccanismo a uno qualsiasi di questi settori.
 
-## SEZIONE 1 - PROCEDURA DEL MECCANISMO DI MEDIAZIONE
+##### SEZIONE 1 - PROCEDURA DEL MECCANISMO DI MEDIAZIONE
 
-##### ARTICOLO 328
+###### ARTICOLO 328
 
 Richiesta di informazioni
 
@@ -5452,7 +5450,7 @@ Richiesta di informazioni
 
 2\. La Parte chiamata a rispondere, qualora ritenga impossibile dare una risposta entro venti giorni, informa per iscritto la Parte richiedente in merito ai motivi del ritardo, fornendo nel contempo una previsione del termine minimo entro il quale sara' in grado di rispondere.
 
-##### ARTICOLO 329
+###### ARTICOLO 329
 
 Avvio della procedura
 
@@ -5466,7 +5464,7 @@ c) spiega la relazione esistente, secondo la Parte richiedente, tra tali effetti
 
 2\. La Parte cui e' indirizzata la richiesta la considera con la debita attenzione e l'accoglie o la respinge per iscritto entro dieci giorni dal ricevimento.
 
-##### ARTICOLO 330
+###### ARTICOLO 330
 
 Scelta del mediatore
 
@@ -5482,7 +5480,7 @@ Scelta del mediatore
 
 6\. Il mediatore assiste le Parti con imparzialita' e trasparenza nel fare chiarezza sulla misura e sui suoi eventuali effetti commerciali e nella ricerca di una soluzione concordata. Il codice di condotta di cui all'allegato XXV del presente accordo si applica ai mediatori secondo quanto prevede il codice stesso. Si applicano anche, mutatis mutandis, le regole da 3 a 7 (notifiche) e da 41 a 46 (traduzione e calcolo dei termini) del regolamento di procedura di cui all'allegato XXIV del presente accordo.
 
-##### ARTICOLO 331
+###### ARTICOLO 331
 
 Regole della procedura di mediazione
 
@@ -5508,9 +5506,9 @@ c) con una dichiarazione scritta di una delle Parti dopo al termine della ricerc
 
 d) in qualsiasi fase della procedura, previo accordo tra le Parti.
 
-## SEZIONE 2 - ATTUAZIONE
+##### SEZIONE 2 - ATTUAZIONE
 
-##### ARTICOLO 332
+###### ARTICOLO 332
 
 Attuazione di una soluzione concordata
 
@@ -5528,9 +5526,9 @@ c) dell'eventuale soluzione concordata cui si e' giunti al termine del procedime
 
 Il mediatore da' alle Parti quindici giorni per formulare osservazioni sul progetto di relazione. Una volta esaminate le osservazioni formulate entro il suddetto termine dalle Parti, il mediatore presenta alle Parti entro quindici giorni la relazione finale dei fatti. Detta relazione non contiene alcuna interpretazione del presente accordo.
 
-## SEZIONE 3 - DISPOSIZIONI GENERALI
+##### SEZIONE 3 - DISPOSIZIONI GENERALI
 
-##### ARTICOLO 333
+###### ARTICOLO 333
 
 Rapporto con la procedura di risoluzione delle controversie
 
@@ -5548,13 +5546,13 @@ c) i pareri o le proposte formulati dal mediatore.
 
 Le Parti possono comunque rendere pubblico il fatto che e' in corso una mediazione.
 
-##### ARTICOLO 334
+###### ARTICOLO 334
 
 Termini
 
 I termini indicati nel presente capo possono essere modificati previo accordo fra le Parti della procedura.
 
-##### ARTICOLO 335
+###### ARTICOLO 335
 
 Spese
 
@@ -5562,23 +5560,23 @@ Spese
 
 2\. Le Parti partecipano in egual misura alle spese organizzative, compresi il compenso e le spese del mediatore e degli eventuali assistenti del mediatore e - nel caso in cui le Parti non convengano sull'uso di una lingua comune - i costi di traduzione. Il compenso del mediatore e' conforme a quanto previsto per il presidente di un collegio arbitrale nell'allegato XXIV, paragrafo 8, del presente accordo.
 
-##### ARTICOLO 336
+###### ARTICOLO 336
 
 Riesame
 
 Cinque anni dopo l'entrata in vigore del presente accordo, le Parti si consultano sulla necessita' di modificare il meccanismo di mediazione alla luce dell'esperienza maturata e dello sviluppo di un dispositivo corrispondente in sede OMC.
 
-## TITOLO V - COOPERAZIONE ECONOMICA E SETTORIALE
+### TITOLO V - COOPERAZIONE ECONOMICA E SETTORIALE
 
-### CAPO 1 - COOPERAZIONE IN MATERIA DI ENERGIA, INCLUSE LE QUESTIONI NUCLEARI
+#### CAPO 1 - COOPERAZIONE IN MATERIA DI ENERGIA, INCLUSE LE QUESTIONI NUCLEARI
 
-##### ARTICOLO 337
+###### ARTICOLO 337
 
 1\. Le Parti decidono di proseguire e intensificare l'attuale cooperazione nel campo dell'energia per rafforzare la sicurezza, la competitivita' e la sostenibilita' energetiche, essenziali per la promozione della crescita economica e dell'integrazione di mercato, anche attraverso il graduale ravvicinamento nel settore dell'energia e la partecipazione alla cooperazione regionale in materia. La cooperazione normativa tiene conto della necessita' di adempiere obblighi di servizio pubblico, quali le misure per informare i consumatori e tutelarli in rapporto a pratiche di vendita sleali, e della necessita' di garantire l'accesso dei consumatori, compresi i cittadini piu' vulnerabili, all'energia a prezzi accessibili.
 
 2\. La cooperazione si basa su un partenariato globale e si ispira ai principi dell'interesse comune, della reciprocita', della trasparenza e della prevedibilita', coerentemente con i principi dell'economia di mercato, il Trattato sulla Carta dell'energia del 1994, il memorandum d'intesa sulla cooperazione nel settore dell'energia e altri accordi multilaterali e bilaterali collegati.
 
-##### ARTICOLO 338
+###### ARTICOLO 338
 
 La cooperazione reciproca riguarda, fra l'altro:
 
@@ -5608,19 +5606,19 @@ l) la cooperazione tecnica e scientifica e lo scambio di informazioni per lo svi
 
 m) la cooperazione nel quadro degli organismi di normazione europei e internazionali operanti nel settore dell'energia.
 
-##### ARTICOLO 339
+###### ARTICOLO 339
 
 Le Parti si scambiano informazioni ed esperienze e offrono l'opportuno sostegno al processo di riforma della regolamentazione, che comprende la ristrutturazione del settore del carbone (carbone per la produzione di vapore, carbone da coke e lignite) per accrescerne la competitivita', ridurne l'impatto ambientale e migliorare la sicurezza nelle miniere e la sicurezza sul lavoro, tenendo presenti nel contempo le ricadute a livello regionale e sociale. Ai fini di una maggiore efficienza, competitivita' e sostenibilita', il processo di ristrutturazione deve riguardare l'intera catena del valore del carbone, dalla ricerca passando per la produzione e la lavorazione fino alla conversione e alla gestione dei residui della lavorazione e della combustione del carbone. Questo approccio comprende il recupero e l'utilizzo delle emissioni di metano prodotte dalle miniere di carbone, dalle attivita' di produzione di petrolio e di gas, dalle discariche e dal settore agricolo, secondo quanto indicato, tra l'altro, dalla "Global Methane Initiative" cui le Parti partecipano.
 
-##### ARTICOLO 340
+###### ARTICOLO 340
 
 Le Parti istituiscono il meccanismo di allarme rapido di cui all'Allegato XXVI del capo 1: (Cooperazione in materia di energia, incluse le questioni nucleari) del titolo V (Cooperazione economica e settoriale) del presente accordo.
 
-##### ARTICOLO 341
+###### ARTICOLO 341
 
 Il graduale ravvicinamento avviene secondo il calendario di cui all'allegato XXVII del presente accordo.
 
-##### ARTICOLO 342
+###### ARTICOLO 342
 
 1\. La cooperazione nel settore nucleare civile avviene mediante l'attuazione degli accordi specifici gia' conclusi o che saranno conclusi tra le Parti, sulla base dei rispettivi poteri e delle rispettive competenze dell'UE e dei suoi Stati membri, o della Comunita' europea dell'energia atomica (EURATOM) e dei suoi Stati membri e conformemente alle procedure giuridiche di ciascuna delle Parti.
 
@@ -5640,13 +5638,13 @@ e) il monitoraggio dell'ambiente;
 
 f) altri settori da concordare, quali gli aspetti medici, scientifici, economici, normativi, sociali e amministrativi degli sforzi volti ad attenuare le conseguenze del disastro.
 
-## CAPO 2 - COOPERAZIONE MACROECONOMICA
+#### CAPO 2 - COOPERAZIONE MACROECONOMICA
 
-##### ARTICOLO 343
+###### ARTICOLO 343
 
 L'UE e l'Ucraina agevolano il processo di riforma economica collaborando per migliorare la comprensione dei fondamentali delle rispettive economie, nonche' l'elaborazione e l'attuazione della politica economica nelle economie di mercato. L'Ucraina si adopera per l'instaurazione di un'economia di mercato funzionante e per il graduale ravvicinamento delle sue politiche a quelle dell'UE, nel rispetto dei principi guida della stabilita' macroeconomica, delle finanze pubbliche sane e di una bilancia dei pagamenti sostenibile.
 
-##### ARTICOLO 344
+###### ARTICOLO 344
 
 Per conseguire gli obiettivi di cui all'articolo 343 del presente accordo, le Parti cooperano per:
 
@@ -5658,19 +5656,17 @@ c) scambiare competenze in ambito macroeconomico;
 
 d) scambiarsi informazioni anche sui principi e sul funzionamento dell'Unione economica e monetaria europea (UEM).
 
-##### ARTICOLO 345
+###### ARTICOLO 345
 
 Le questioni di cui al titolo V (Cooperazione economica e settoriale), capo 2, del presente accordo saranno oggetto di un dialogo regolare.
 
-## CAPO 3 - GESTIONE DELLE FINANZE PUBBLICHE: POLITICA DI BILANCIO,
+#### CAPO 3 - GESTIONE DELLE FINANZE PUBBLICHE: POLITICA DI BILANCIO, CONTROLLO INTERNO E REVISIONE CONTABILE ESTERNA
 
-### CONTROLLO INTERNO E REVISIONE CONTABILE ESTERNA
-
-##### ARTICOLO 346
+###### ARTICOLO 346
 
 La cooperazione in materia di gestione delle finanze pubbliche ha come obiettivo lo sviluppo della politica di bilancio e di sani sistemi di controllo interno pubblico e di revisione contabile esterna fondati sulle norme internazionali e compatibili con i principi fondamentali di responsabilita', trasparenza, economicita', efficienza ed efficacia.
 
-##### ARTICOLO 347
+###### ARTICOLO 347
 
 Le Parti si scambiano informazioni, esperienze e migliori pratiche e prendono altre iniziative riguardanti in particolare:
 
@@ -5694,43 +5690,43 @@ c) il miglioramento degli scambi di informazioni e di esperienze sui temi della 
 
 \- il miglioramento dei metodi di lotta e prevenzione della frode e della corruzione nel settore disciplinato dal titolo V (Cooperazione economica e settoriale), capo 3, del presente accordo anche in termini di cooperazione tra le amministrazioni competenti.
 
-##### ARTICOLO 348
+###### ARTICOLO 348
 
 Le questioni di cui al titolo V (Cooperazione economica e settoriale), capo 3, del presente accordo saranno oggetto di un dialogo regolare.
 
-## CAPO 4 - FISCALITÀ
+#### CAPO 4 - FISCALITÀ
 
-##### ARTICOLO 349
+###### ARTICOLO 349
 
 Le Parti cooperano per rafforzare il buon governo in materia fiscale nella prospettiva di un ulteriore miglioramento delle relazioni economiche, degli scambi commerciali, degli investimenti e di una piu' leale concorrenza.
 
-##### ARTICOLO 350
+###### ARTICOLO 350
 
 In relazione all'articolo 349 del presente accordo, le Parti riconoscono i principi del buon governo in materia fiscale, ossia i principi della trasparenza, dello scambio di informazioni e della leale concorrenza fiscale, sottoscritti dagli Stati membri a livello di UE e si impegnano ad attuarli. A tal fine, fatte salve le competenze dell'UE e degli Stati membri, le Parti miglioreranno la cooperazione internazionale in materia fiscale, agevoleranno la riscossione del gettito fiscale legittimo ed elaboreranno misure volte a dare un'attuazione efficace ai principi soprarichiamati.
 
-##### ARTICOLO 351
+###### ARTICOLO 351
 
 Le Parti, inoltre, intensificano e rafforzano la cooperazione per migliorare e sviluppare il sistema fiscale e l'amministrazione tributaria dell'Ucraina, anche per quanto riguarda il potenziamento della capacita' di riscossione e di controllo, concentrando l'attenzione sulle procedure di rimborso dell'imposta sul valore aggiunto (IVA), per evitare l'accumulo di arretrati, garantire una riscossione efficace delle imposte e rafforzare la lotta contro la frode e l'elusione fiscale. Le Parti si adoperano per potenziare la cooperazione e lo scambio di esperienza nella lotta alla frode fiscale, in particolare alla frode carosello.
 
-##### ARTICOLO 352
+###### ARTICOLO 352
 
 Le Parti sviluppano la cooperazione e armonizzano le politiche per contrastare e combattere le frodi e il contrabbando dei prodotti soggetti ad accisa. La cooperazione prevedera', tra l'altro, il graduale ravvicinamento, per quanto possibile, delle aliquote delle accise sui prodotti del tabacco, tenendo conto dei vincoli del contesto regionale; essa avverra' anche attraverso un dialogo a livello regionale e in conformita' alla convenzione quadro per la lotta al tabagismo dell'Organizzazione mondiale della sanita' del 2003. A tal fine, le Parti si adopereranno per rafforzare la cooperazione nel contesto regionale.
 
-##### ARTICOLO 353
+###### ARTICOLO 353
 
 Il graduale ravvicinamento alla struttura dell'imposizione fiscale prevista dall'acquis dell'UE avviene secondo quanto indicato nell'allegato XXVIII del presente accordo.
 
-##### ARTICOLO 354
+###### ARTICOLO 354
 
 Le questioni di cui al titolo V (Cooperazione economica e settoriale), capo 4, del presente accordo saranno oggetto di un dialogo regolare.
 
-## CAPO 5 - STATISTICHE
+#### CAPO 5 - STATISTICHE
 
-##### ARTICOLO 355
+###### ARTICOLO 355
 
 Le Parti sviluppano e rafforzano la cooperazione sulle questioni statistiche, contribuendo in tal modo all'obiettivo a lungo termine di produrre dati statistici tempestivi, comparabili a livello internazionale e affidabili. Un sistema statistico nazionale sostenibile, efficiente e professionalmente indipendente deve fornire ai cittadini, alle imprese e ai responsabili decisionali dell'Ucraina e dell'UE informazioni pertinenti in base alle quali essi possano adottare decisioni informate. Occorre che il sistema statistico nazionale rispetti i principi fondamentali delle statistiche ufficiali elaborati dall'ONU tenendo conto dell'acquis statistico dell'UE, compreso il codice delle statistiche europee, cosi' da armonizzarsi alle norme e agli standard europei. L'acquis in campo statistico e' illustrato nell'edizione aggiornata annualmente dello Statistical Requirements Compendium, che e' considerato dalle Parti come allegato al presente accordo (Allegato XXIX).
 
-##### ARTICOLO 356
+###### ARTICOLO 356
 
 La cooperazione ha come obiettivo:
 
@@ -5746,7 +5742,7 @@ e) lo scambio di esperienze tra le Parti sullo sviluppo del know-how statistico;
 
 f) la promozione della gestione della qualita' totale a livello di tutti i processi di produzione e diffusione statistica.
 
-##### ARTICOLO 357
+###### ARTICOLO 357
 
 Le Parti cooperano nell'ambito del Sistema statistico europeo, all'interno del quale Eurostat costituisce l'autorita' statistica dell'UE. La cooperazione si concentra, tra l'altro, sui seguenti aspetti:
 
@@ -5766,21 +5762,21 @@ g) le statistiche regionali;
 
 h) la gestione della qualita' totale a livello di tutti i processi di produzione e diffusione statistica.
 
-##### ARTICOLO 358
+###### ARTICOLO 358
 
 Le Parti si scambiano informazioni e competenze e sviluppano la cooperazione tenendo conto dell'esperienza gia' acquisita con la riforma del sistema statistico avviata nel quadro di vari programmi di assistenza. Gli sforzi puntano al graduale ravvicinamento all'acquis statistico dell'UE sulla base della strategia nazionale di sviluppo del sistema statistico ucraino e tengono conto dello sviluppo del Sistema statistico europeo. Nel processo di produzione dei dati statistici l'accento sara' posto sullo sviluppo delle indagini per campione, tenendo conto nella necessita' di ridurre il fastidio statistico per i rispondenti. I dati sono pertinenti ai fini dell'elaborazione e del monitoraggio delle politiche in tutti i settori chiave della vita sociale ed economica.
 
-##### ARTICOLO 359
+###### ARTICOLO 359
 
 Le questioni di cui al titolo V (Cooperazione economica e settoriale), capo 5, del presente accordo sono oggetto di un dialogo regolare. Le attivita' condotte nell'ambito del Sistema statistico europeo dovrebbero, per quanto possibile, essere aperte alla partecipazione dell'Ucraina nel rispetto delle normali regole di partecipazione previste per i paesi terzi.
 
-## CAPO 6 - AMBIENTE
+#### CAPO 6 - AMBIENTE
 
-##### ARTICOLO 360
+###### ARTICOLO 360
 
 Le Parti sviluppano e rafforzano la cooperazione sulle questioni ambientali contribuendo in tal modo all'obiettivo a lungo termine dello sviluppo sostenibile e dell'economia verde. Una protezione rafforzata dell'ambiente produrra' benefici per i cittadini e le imprese dell'Ucraina e dell'UE, tra l'altro in termini di miglioramento della salute pubblica, conservazione delle risorse naturali, maggiore efficienza economica e ambientale, integrazione dell'ambiente nelle altre politiche e maggiore produzione grazie all'impiego di tecnologie moderne. La cooperazione si svolge tenendo conto degli interessi delle Parti, sulla base del principio di uguaglianza e dell'utilita' reciproca, dell'interdipendenza esistente tra le Parti nel campo della protezione dell'ambiente e degli accordi multilaterali in questa materia.
 
-##### ARTICOLO 361
+###### ARTICOLO 361
 
 La cooperazione ha come obiettivi la conservazione, la tutela, il miglioramento e il recupero della qualita' dell'ambiente, la protezione della salute umana, l'utilizzazione accorta e razionale delle risorse naturali e la promozione sul piano internazionale di misure per affrontare i problemi dell'ambiente di portata regionale o mondiale, riguardanti tra l'altro:
 
@@ -5810,7 +5806,7 @@ l) l'ambiente urbano;
 
 m) gli ecocontributi.
 
-##### ARTICOLO 362
+###### ARTICOLO 362
 
 1\. Le Parti:
 
@@ -5824,11 +5820,11 @@ d) attuano attivita' congiunte a livello regionale e internazionale, se del caso
 
 2\. Le Parti dedicano particolare attenzione alle questioni transfrontaliere.
 
-##### ARTICOLO 363
+###### ARTICOLO 363
 
 Il graduale ravvicinamento della legislazione ucraina al diritto e alla politica dell'UE in materia di ambiente avviene conformemente all'allegato XXX del presente accordo.
 
-##### ARTICOLO 364
+###### ARTICOLO 364
 
 La cooperazione nel settore della protezione civile avviene mediante l'attuazione degli accordi specifici conclusi tra le Parti, sulla base dei rispettivi poteri e delle rispettive competenze dell'UE e dei suoi Stati membri e conformemente alle procedure giuridiche di ciascuna delle Parti. Le finalita' della cooperazione sono tra l'altro:
 
@@ -5844,7 +5840,7 @@ e) invitare, caso per caso, osservatori a specifiche esercitazioni e formazioni 
 
 f) rafforzare la collaborazione esistente per quanto riguarda l'uso piu' efficace delle capacita' di protezione civile disponibili.
 
-##### ARTICOLO 365
+###### ARTICOLO 365
 
 Gli obiettivi della cooperazione sono tra l'altro:
 
@@ -5854,13 +5850,13 @@ b) l'elaborazione di strategie settoriali riguardanti la qualita' dell'aria, la 
 
 c) l'elaborazione e l'attuazione di una politica sui cambiamenti climatici, in particolare secondo quanto enunciato nell'allegato XXXI del presente accordo.
 
-##### ARTICOLO 366
+###### ARTICOLO 366
 
 Le questioni di cui al presente titolo V (Cooperazione economica e settoriale), capo 6, del presente accordo saranno oggetto di un dialogo regolare.
 
-## CAPO 7 - TRASPORTI
+#### CAPO 7 - TRASPORTI
 
-##### ARTICOLO 367
+###### ARTICOLO 367
 
 Le Parti:
 
@@ -5870,7 +5866,7 @@ b) promuovono attivita' di trasporto efficienti e sicure, come pure l'intermodal
 
 c) si adoperano per potenziare i principali collegamenti di trasporto tra i loro territori.
 
-##### ARTICOLO 368
+###### ARTICOLO 368
 
 1\. La cooperazione tra le Parti mira ad agevolare la ristrutturazione e l'ammodernamento del settore dei trasporti in Ucraina e il suo graduale ravvicinamento a standard operativi e a politiche comparabili a quelli dell'UE, in particolare mediante l'attuazione delle misure enunciate nell'allegato XXXII del presente accordo, fatti salvi gli obblighi che discendono da specifici accordi in materia di trasporti conclusi tra le Parti. L'attuazione di tali misure non puo' essere in contrasto con i diritti e gli obblighi delle Parti derivanti da accordi internazionali di cui esse siano parti, ne' con la partecipazione delle Parti a organizzazioni internazionali.
 
@@ -5882,7 +5878,7 @@ c) si adoperano per potenziare i principali collegamenti di trasporto tra i loro
 
 \- a livello internazionale, anche nell'ambito delle organizzazioni internazionali del settore dei trasporti e degli accordi e delle convenzioni internazionali ratificati dalle Parti, e nel quadro delle varie agenzie dei trasporti dell'UE.
 
-##### ARTICOLO 369
+###### ARTICOLO 369
 
 La cooperazione riguarda tra l'altro i seguenti ambiti:
 
@@ -5898,13 +5894,13 @@ e) la cooperazione scientifica e tecnica e lo scambio di informazioni per lo svi
 
 f) la promozione dell'uso dei sistemi di trasporto intelligenti e delle tecnologie dell'informazione nella gestione e nel funzionamento di tutti i modi di trasporto e a sostegno dell'intermodalita'; la cooperazione nell'uso dei sistemi spaziali e delle applicazioni commerciali che facilitano i trasporti.
 
-##### ARTICOLO 370
+###### ARTICOLO 370
 
 Le questioni di cui al titolo V (Cooperazione economica e settoriale), capo 7, del presente accordo saranno oggetto di un dialogo regolare.
 
-## CAPO 8 - SPAZIO
+#### CAPO 8 - SPAZIO
 
-##### ARTICOLO 371
+###### ARTICOLO 371
 
 1\. Le Parti promuovono una cooperazione reciprocamente vantaggiosa in materia di ricerca spaziale civile e di applicazioni spaziali, in particolare nei seguenti ambiti:
 
@@ -5918,7 +5914,7 @@ d) le tecnologie spaziali applicate, comprese le tecnologie dei vettori e di pro
 
 2\. Le Parti incoraggeranno e promuoveranno lo scambio di esperienze per quanto concerne la politica spaziale, gli aspetti amministrativi e legali, la ristrutturazione industriale e la commercializzazione delle tecnologie spaziali.
 
-##### ARTICOLO 372
+###### ARTICOLO 372
 
 1\. La cooperazione comprendera' lo scambio di informazioni sulle rispettive politiche e sui rispettivi programmi, opportunita' di cooperazione e progetti congiunti, compresa la partecipazione di soggetti ucraini ai temi "Spazio" e "Trasporti" del prossimo programma quadro UE per la ricerca e l'innovazione Orizzonte 2020.
 
@@ -5926,17 +5922,17 @@ d) le tecnologie spaziali applicate, comprese le tecnologie dei vettori e di pro
 
 3\. La cooperazione potrebbe anche riguardare lo scambio di esperienze in tema di gestione della ricerca spaziale e delle istituzioni scientifiche, la creazione di un contesto favorevole alla ricerca e all'applicazione delle nuove tecnologie e un'adeguata tutela dei relativi diritti di proprieta' intellettuale, industriale e commerciale.
 
-##### ARTICOLO 373
+###### ARTICOLO 373
 
 Le questioni di cui al titolo V (Cooperazione economica e settoriale), capo 8, del presente accordo saranno oggetto di un dialogo regolare, che comportera', se del caso, il coordinamento e la cooperazione con l'Agenzia spaziale europea su queste e altre tematiche pertinenti.
 
-## CAPO 9 - COOPERAZIONE SCIENTIFICA E TECNOLOGICA
+#### CAPO 9 - COOPERAZIONE SCIENTIFICA E TECNOLOGICA
 
-##### ARTICOLO 374
+###### ARTICOLO 374
 
 Le Parti sviluppano e rafforzano la cooperazione scientifica e tecnologica sia ai fini dello sviluppo scientifico in se' sia del consolidamento delle loro potenzialita' scientifiche per contribuire alla soluzione di sfide nazionali e globali. Le Parti, attraverso un rafforzamento delle capacita' di ricerca e del potenziale umano, si adoperano per concorrere alla progressiva acquisizione delle conoscenze scientifiche e tecnologiche funzionali a uno sviluppo economico sostenibile. La condivisione e lo scambio di conoscenze scientifiche contribuiranno alla competitivita' delle Parti, in quanto faranno aumentare la capacita' delle loro economie di produrre e utilizzare la conoscenza per la commercializzazione di nuovi prodotti e nuovi servizi. Le Parti svilupperanno, infine, le potenzialita' scientifiche per far fronte alle loro responsabilita' e ai loro impegni globali in ambiti che attengono ad esempio alle problematiche sanitarie, alla tutela dell'ambiente, cambiamenti climatici compresi, e ad altre sfide globali.
 
-##### ARTICOLO 375
+###### ARTICOLO 375
 
 1\. La cooperazione tiene conto dell'attuale quadro ufficiale di cooperazione, istituito dall'accordo di cooperazione scientifica e tecnologica tra la Comunita' europea e l'Ucraina, e dell'obiettivo ucraino di un graduale ravvicinamento alla politica e alla normativa dell'UE in materia di scienza e tecnologia.
 
@@ -5944,7 +5940,7 @@ Le Parti sviluppano e rafforzano la cooperazione scientifica e tecnologica sia a
 
 3\. Questa cooperazione aiuta l'Ucraina a favorire la riforma e la riorganizzazione del suo sistema di gestione della scienza e dei suoi istituti di ricerca (compreso il rafforzamento della capacita' di ricerca e sviluppo tecnologico) a sostegno dello sviluppo di un'economia competitiva e di una societa' della conoscenza.
 
-##### ARTICOLO 376
+###### ARTICOLO 376
 
 La cooperazione si svolge in particolare mediante:
 
@@ -5966,17 +5962,17 @@ h) il rafforzamento della cooperazione a livello regionale e internazionale, sop
 
 i) lo scambio di competenze in materia di gestione degli istituti scientifici e di ricerca al fine di sviluppare e migliorarne le capacita' di svolgere ricerche scientifiche e di parteciparvi.
 
-##### ARTICOLO 377
+###### ARTICOLO 377
 
 Le questioni di cui al titolo V (Cooperazione economica e settoriale), capo 9, del presente accordo saranno oggetto di un dialogo regolare.
 
-## CAPO 10 - POLITICA INDUSTRIALE E DELLE IMPRESE
+#### CAPO 10 - POLITICA INDUSTRIALE E DELLE IMPRESE
 
-##### ARTICOLO 378
+###### ARTICOLO 378
 
 Le Parti sviluppano e rafforzano la cooperazione in materia di politica industriale e delle imprese, migliorando cosi' il contesto imprenditoriale per tutti gli operatori economici, con particolare riguardo, pero', alle piccole e medie imprese (PMI). Il rafforzamento della cooperazione dovrebbe migliorare il quadro regolamentare e amministrativo per le imprese ucraine e dell'UE operanti in Ucraina e nell'UE e basarsi sulla politica industriale e sulla politica a favore delle PMI dell'UE, tenendo conto dei principi e delle pratiche riconosciuti a livello internazionale in questo settore.
 
-##### ARTICOLO 379
+###### ARTICOLO 379
 
 Per conseguire gli obiettivi di cui all'articolo 378 del presente accordo, le Parti cooperano per:
 
@@ -5994,17 +5990,17 @@ f) sostenere la realizzazione di attivita' di promozione delle esportazioni in U
 
 g) agevolare l'ammodernamento e la ristrutturazione dell'industria ucraina e dell'UE in determinati settori.
 
-##### ARTICOLO 380
+###### ARTICOLO 380
 
 Le questioni di cui al titolo V (Cooperazione economica e settoriale), capo 10, del presente accordo saranno oggetto di un dialogo regolare, che coinvolgera' rappresentanti delle imprese dell'UE e dell'Ucraina.
 
-## CAPO 11 - SETTORI MINERARIO E METALLURGICO
+#### CAPO 11 - SETTORI MINERARIO E METALLURGICO
 
-##### ARTICOLO 381
+###### ARTICOLO 381
 
 Le Parti sviluppano e rafforzano la cooperazione nel settore delle industrie minerarie e metallurgiche, con l'obiettivo di promuovere la comprensione reciproca, il miglioramento del contesto imprenditoriale, lo scambio di informazioni e la collaborazione su questioni non attinenti all'energia, con particolare riferimento all'estrazione di minerali metallici e industriali. Questa cooperazione lascia impregiudicato quanto disposto in relazione al carbone dall'articolo 339 del presente accordo.
 
-##### ARTICOLO 382
+###### ARTICOLO 382
 
 Per conseguire gli obiettivi di cui all'articolo 381 del presente accordo, le Parti cooperano per:
 
@@ -6016,9 +6012,9 @@ c) scambiarsi informazioni sulle misure prese dalle Parti per facilitare il proc
 
 d) scambiarsi informazioni e le migliori pratiche relative allo sviluppo sostenibile delle industrie minerarie e metallurgiche dell'Ucraina e dell'UE.
 
-## CAPO 12 - SERVIZI FINANZIARI
+#### CAPO 12 - SERVIZI FINANZIARI
 
-##### ARTICOLO 383
+###### ARTICOLO 383
 
 Riconoscendo l'importanza di un insieme efficace di norme e di pratiche nel settore dei servizi finanziari ai fini della creazione di un'economia di mercato pienamente funzionante e della promozione degli scambi commerciali bilaterali, le Parti decidono di cooperare nel settore dei servizi finanziari con le seguenti finalita':
 
@@ -6032,23 +6028,23 @@ d) promuovere la cooperazione tra i diversi soggetti del sistema finanziario, co
 
 e) garantire una vigilanza indipendente ed efficace.
 
-##### ARTICOLO 384
+###### ARTICOLO 384
 
 1\. Le Parti incoraggiano la cooperazione tra le competenti autorita' di regolamentazione e di vigilanza, compresi lo scambio di informazioni, la condivisione di competenze in materia di mercati finanziari e altre misure di questo tipo.
 
 2\. Un'attenzione particolare e' rivolta allo sviluppo delle capacita' amministrative di tali autorita', anche attraverso gli scambi di personale e la formazione comune.
 
-##### ARTICOLO 385
+###### ARTICOLO 385
 
 Le Parti promuovono il graduale ravvicinamento alle norme internazionali riconosciute in materia di regolamentazione e vigilanza dei servizi finanziari. Il pertinente acquis dell'UE nel settore dei servizi finanziari e' contemplato dal titolo IV (Scambi e questioni commerciali), capo 6 (Stabilimento, commercio di servizi e commercio elettronico), del presente accordo.
 
-##### ARTICOLO 386
+###### ARTICOLO 386
 
 Le questioni di cui al titolo V (Cooperazione economica e settoriale), capo 12, del presente accordo saranno oggetto di un dialogo regolare.
 
-## CAPO 13 - DIRITTO SOCIETARIO, GOVERNO SOCIETARIO, CONTABILITÀ E REVISIONE CONTABILE
+#### CAPO 13 - DIRITTO SOCIETARIO, GOVERNO SOCIETARIO, CONTABILITÀ E REVISIONE CONTABILE
 
-##### ARTICOLO 387
+###### ARTICOLO 387
 
 1\. Riconoscendo l'importanza che un insieme efficace di norme e di pratiche nel settore del diritto e governo societario, della contabilita' e della revisione contabile riveste ai fini della creazione di un'economia di mercato pienamente funzionante e della promozione degli scambi commerciali, le Parti decidono di cooperare per quanto riguarda:
 
@@ -6060,21 +6056,21 @@ c) un ulteriore sviluppo di una politica di governo societario conforme alle nor
 
 2\. Le Parti perseguiranno la condivisione delle informazioni e delle competenze sui loro attuali sistemi e sui nuovi sviluppi pertinenti in questi ambiti. Esse si adopereranno, inoltre, per migliorare lo scambio di informazioni tra il registro nazionale ucraino e i registri delle imprese degli Stati membri dell'UE.
 
-##### ARTICOLO 388
+###### ARTICOLO 388
 
 Le questioni di cui al titolo V (Cooperazione economica e settoriale), capo 13, del presente accordo saranno oggetto di un dialogo regolare.
 
-## CAPO 14 - SOCIETÀ DELL'INFORMAZIONE
+#### CAPO 14 - SOCIETÀ DELL'INFORMAZIONE
 
-##### ARTICOLO 389
+###### ARTICOLO 389
 
 Le Parti rafforzano la cooperazione per sviluppare la societa' dell'informazione a vantaggio dei cittadini e delle imprese mediante la diffusione della disponibilita' delle tecnologie dell'informazione e delle comunicazioni (TIC) e mediante una migliore qualita' dei servizi a prezzi accessibili. La cooperazione mirera' anche ad agevolare l'accesso al mercato per i servizi di comunicazione elettronica, stimolando la concorrenza e gli investimenti nel settore.
 
-##### ARTICOLO 390
+###### ARTICOLO 390
 
 La cooperazione mira all'attuazione delle strategie nazionali relative alla societa' dell'informazione, allo sviluppo di un quadro di regolamentazione complessivo nel campo delle comunicazioni elettroniche e a una maggiore partecipazione dell'Ucraina alle attivita' di ricerca sulle TIC condotte dall'UE.
 
-##### ARTICOLO 391
+###### ARTICOLO 391
 
 La cooperazione riguarda i seguenti temi:
 
@@ -6086,47 +6082,47 @@ c) il rafforzamento dell'indipendenza e della capacita' amministrativa dell'auto
 
 d) la promozione di progetti comuni di ricerca relativi alle tecnologie dell'informazione e delle comunicazioni nell'ambito del prossimo programma quadro UE per la ricerca e l'innovazione Orizzonte 2020.
 
-##### ARTICOLO 392
+###### ARTICOLO 392
 
 Le Parti si scambiano informazioni, esperienze e le migliori pratiche, intraprendono azioni comuni allo scopo di sviluppare un quadro di regolamentazione complessivo e garantiscono il corretto funzionamento dei mercati delle comunicazioni elettroniche in condizioni di concorrenza non falsata.
 
-##### ARTICOLO 393
+###### ARTICOLO 393
 
 Le Parti promuovono la cooperazione tra l'autorita' nazionale di regolamentazione delle comunicazioni dell'Ucraina e le autorita' nazionali di regolamentazione dell'UE.
 
-##### ARTICOLO 394
+###### ARTICOLO 394
 
 1\. Nel campo della regolamentazione della societa' dell'informazione e della comunicazione elettronica le Parti promuovono il graduale ravvicinamento al diritto e al quadro di regolamentazione dell'UE.
 
 2\. Le disposizioni pertinenti e l'acquis dell'UE relativi alla societa' dell'informazione e alla comunicazione elettronica sono contemplati dall'appendice XVII-3 (Norme applicabili ai servizi di telecomunicazione) del capo 6 (Stabilimento, commercio di servizi e commercio elettronico) del titolo IV (Scambi e questioni commerciali) del presente accordo.
 
-##### ARTICOLO 395
+###### ARTICOLO 395
 
 Le questioni di cui al titolo V (Cooperazione economica e settoriale), capo 14, del presente accordo saranno oggetto di un dialogo regolare.
 
-## CAPO 15 - POLITICA AUDIOVISIVA
+#### CAPO 15 - POLITICA AUDIOVISIVA
 
-##### ARTICOLO 396
+###### ARTICOLO 396
 
 1\. Le Parti cooperano per promuovere in Europa l'industria audiovisiva e incoraggiare le coproduzioni nei settori cinematografico e televisivo.
 
 2\. La cooperazione potrebbe riguardare, tra l'altro, il tema della formazione dei giornalisti e di altri professionisti della stampa e dei mezzi di comunicazione elettronici e anche il sostegno ai mezzi di comunicazione, pubblici e privati, per rafforzarne l'indipendenza, la professionalita' e i legami con altri media europei in conformita' alle norme europee, comprese quelle del Consiglio d'Europa.
 
-##### ARTICOLO 397
+###### ARTICOLO 397
 
 Il graduale ravvicinamento al diritto e al quadro di regolamentazione dell'UE e agli strumenti internazionali in materia di politica audiovisiva avviene secondo quanto enunciato nell'allegato XXXVII del presente accordo.
 
-##### ARTICOLO 398
+###### ARTICOLO 398
 
 Le questioni di cui al titolo V (Cooperazione economica e settoriale), capo 15, del presente accordo saranno oggetto di un dialogo regolare.
 
-## CAPO 16 - TURISMO
+#### CAPO 16 - TURISMO
 
-##### ARTICOLO 399
+###### ARTICOLO 399
 
 Le Parti cooperano nel settore del turismo allo scopo di rafforzare lo sviluppo di un'industria turistica competitiva, che sia fonte di crescita economica, empowerment, occupazione e valuta estera.
 
-##### ARTICOLO 400
+###### ARTICOLO 400
 
 1\. La cooperazione a livello bilaterale, regionale ed europeo si basa sui seguenti principi:
 
@@ -6138,7 +6134,7 @@ c) un'interazione positiva tra turismo e salvaguardia dell'ambiente.
 
 2\. Le disposizioni pertinenti relative agli operatori turistici sono contemplate dal titolo IV (Scambi e questioni commerciali), capo 6 (Stabilimento, commercio di servizi e commercio elettronico), del presente accordo. Le disposizioni pertinenti relative alla circolazione delle persone sono previste dall'articolo 19 del presente accordo.
 
-##### ARTICOLO 401
+###### ARTICOLO 401
 
 La cooperazione si concentra sui seguenti aspetti:
 
@@ -6154,17 +6150,17 @@ e) la formazione e lo sviluppo di capacita' nel settore del turismo per innalzar
 
 f) lo sviluppo e la promozione del turismo comunitario (community-based).
 
-##### ARTICOLO 402
+###### ARTICOLO 402
 
 Le questioni di cui al titolo V (Cooperazione economica e settoriale), capo 16, del presente accordo saranno oggetto di un dialogo regolare.
 
-## CAPO 17 - AGRICOLTURA E SVILUPPO RURALE
+#### CAPO 17 - AGRICOLTURA E SVILUPPO RURALE
 
-##### ARTICOLO 403
+###### ARTICOLO 403
 
 Le Parti cooperano per promuovere lo sviluppo agricolo e rurale, in particolare attraverso il graduale ravvicinamento delle politiche e della legislazione.
 
-##### ARTICOLO 404
+###### ARTICOLO 404
 
 La cooperazione tra le Parti nel settore dell'agricoltura e dello sviluppo rurale mira, tra l'altro, a:
 
@@ -6188,25 +6184,25 @@ i) realizzare uno scambio delle migliori pratiche relative ai meccanismi di sost
 
 j) promuovere la politica di qualita' dei prodotti agricoli nei seguenti ambiti: norme di prodotto, requisiti di produzione e sistemi di qualita'.
 
-##### ARTICOLO 405
+###### ARTICOLO 405
 
 Nel portare avanti tale cooperazione, le Parti, fatto salvo il titolo IV (Scambi e questioni commerciali) del presente accordo, sostengono il graduale ravvicinamento al diritto e alle norme regolamentari pertinenti dell'UE, in particolare quelle elencate nell'allegato XXXVIII del presente accordo.
 
-##### ARTICOLO 406
+###### ARTICOLO 406
 
 Le questioni di cui al titolo V (Cooperazione economica e settoriale), capo 17, del presente accordo saranno oggetto di un dialogo regolare.
 
-## CAPO 18 - POLITICA MARITTIMA E POLITICA DELLA PESCA
+#### CAPO 18 - POLITICA MARITTIMA E POLITICA DELLA PESCA
 
-### SEZIONE 1 - POLITICA DELLA PESCA
+##### SEZIONE 1 - POLITICA DELLA PESCA
 
-##### ARTICOLO 407
+###### ARTICOLO 407
 
 1\. Le Parti cooperano, nel settore della pesca, su temi di interesse comune e reciprocamente vantaggiosi, tra cui la conservazione e la gestione delle risorse acquatiche vive, l'ispezione e il controllo, la raccolta dei dati e la lotta contro la pesca illegale, non dichiarata e non regolamentata.
 
 2\. Tale cooperazione rispettera' i loro obblighi internazionali in materia di gestione e conservazione delle risorse acquatiche vive.
 
-##### ARTICOLO 408
+###### ARTICOLO 408
 
 Le Parti intraprendono azioni comuni, si scambiano informazioni e si sostengono reciprocamente allo scopo di promuovere:
 
@@ -6216,11 +6212,11 @@ b) una pesca e una gestione della pesca responsabili, in linea con i principi de
 
 c) la cooperazione attraverso le organizzazioni regionali di gestione della pesca (ORGP).
 
-##### ARTICOLO 409
+###### ARTICOLO 409
 
 In relazione all'articolo 408 del presente accordo, le Parti, tenuto conto anche dei piu' qualificati pareri scientifici, rafforzano la cooperazione e il coordinamento delle loro attivita' nel campo della gestione e della conservazione delle risorse acquatiche vive nel Mar Nero. Esse promuoveranno una piu' vasta cooperazione internazionale nel Mar Nero con l'obiettivo di sviluppare le relazioni all'interno di un'appropriata organizzazione regionale di gestione della pesca.
 
-##### ARTICOLO 410
+###### ARTICOLO 410
 
 Le Parti appoggeranno, ad esempio, il reciproco scambio di esperienze e iniziative di sostegno per garantire l'attuazione di una politica della pesca sostenibile, fondata sulle priorita' dell' acquis dell'UE in questa materia, quali:
 
@@ -6236,9 +6232,9 @@ e) una maggiore efficienza dei mercati, da realizzare in particolare attraverso 
 
 f) l'elaborazione di una politica strutturale per il settore della pesca, che tenga conto in particolare dello sviluppo sostenibile delle comunita' costiere.
 
-## SEZIONE 2 - POLITICA MARITTIMA
+##### SEZIONE 2 - POLITICA MARITTIMA
 
-##### ARTICOLO 411
+###### ARTICOLO 411
 
 Le Parti, tenendo conto della loro cooperazione nei settori della pesca, dei trasporti, dell'ambiente e di altre politiche collegate agli aspetti marittimi, sviluppano anche una cooperazione relativa a una politica marittima integrata, che abbia per oggetto:
 
@@ -6254,7 +6250,7 @@ e) l'impegno finalizzato a migliorare le misure per la sicurezza marittima e a r
 
 f) l'istituzione di un dialogo regolare e la promozione di varie reti tra le parti interessate del settore marittimo.
 
-##### ARTICOLO 412
+###### ARTICOLO 412
 
 La cooperazione prevede:
 
@@ -6264,17 +6260,15 @@ b) lo scambio di informazioni e migliori pratiche relative alle alternative per 
 
 c) il rafforzamento della cooperazione tra le due Parti nelle competenti organizzazioni marittime internazionali.
 
-## SEZIONE 3 - DIALOGO REGOLARE SULLA POLITICA MARITTIMA
+##### SEZIONE 3 - DIALOGO REGOLARE SULLA POLITICA MARITTIMA E SULLA POLITICA DELLA PESCA
 
-### E SULLA POLITICA DELLA PESCA
-
-##### ARTICOLO 413
+###### ARTICOLO 413
 
 Le questioni di cui al titolo V (Cooperazione economica e settoriale), capo 18, sezioni 1 e 2, del presente accordo saranno oggetto di un dialogo regolare tra le Parti.
 
-## CAPO 19 - DANUBIO
+#### CAPO 19 - DANUBIO
 
-##### ARTICOLO 414
+###### ARTICOLO 414
 
 Tenuto conto della natura transfrontaliera del bacino del fiume Danubio e della sua importanza storica per le comunita' rivierasche, le Parti:
 
@@ -6282,13 +6276,13 @@ a) migliorano l'attuazione degli impegni internazionali assunti dagli Stati memb
 
 b) sostengono, se necessario, le iniziative volte alla definizione di accordi e di intese bilaterali e multilaterali per promuovere lo sviluppo sostenibile, prestando una particolare attenzione al rispetto degli stili di vita tradizionali delle comunita' rivierasche e all'esercizio dell'attivita' economica attraverso un uso integrato del bacino del fiume Danubio.
 
-## CAPO 20 - PROTEZIONE DEI CONSUMATORI
+#### CAPO 20 - PROTEZIONE DEI CONSUMATORI
 
-##### ARTICOLO 415
+###### ARTICOLO 415
 
 Le Parti cooperano al fine di assicurare un livello elevato di protezione dei consumatori e rendere compatibili i rispettivi sistemi di tutela dei consumatori.
 
-##### ARTICOLO 416
+###### ARTICOLO 416
 
 Al fine di conseguire questi obiettivi, la cooperazione comprende, in particolare:
 
@@ -6302,21 +6296,21 @@ d) le attivita' di formazione dei funzionari amministrativi e di altri rappresen
 
 e) la promozione dello sviluppo di associazioni dei consumatori indipendenti e di contatti tra i rappresentanti dei consumatori.
 
-##### ARTICOLO 417
+###### ARTICOLO 417
 
 L'Ucraina procede al graduale ravvicinamento della sua legislazione all'acquis dell'UE di cui all'allegato XXXIX del presente accordo, evitando nel contempo ostacoli agli scambi.
 
-##### ARTICOLO 418
+###### ARTICOLO 418
 
 Le questioni di cui al titolo V (Cooperazione economica e settoriale), capo 20, del presente accordo saranno oggetto di un dialogo regolare.
 
-## CAPO 21 - COOPERAZIONE IN MATERIA DI OCCUPAZIONE, POLITICA SOCIALE E PARI OPPORTUNITÀ
+#### CAPO 21 - COOPERAZIONE IN MATERIA DI OCCUPAZIONE, POLITICA SOCIALE E PARI OPPORTUNITÀ
 
-##### ARTICOLO 419
+###### ARTICOLO 419
 
 Tenendo conto del titolo IV (Scambi e questioni commerciali), capo 13 (Commercio e sviluppo sostenibile), del presente accordo, le Parti rafforzano il dialogo e la cooperazione finalizzati a promuovere l'Agenda per il lavoro dignitoso, la politica dell'occupazione, la salute e la sicurezza sul luogo di lavoro, il dialogo sociale, la protezione sociale, l'inclusione sociale, la parita' di genere e la lotta contro la discriminazione.
 
-##### ARTICOLO 420
+###### ARTICOLO 420
 
 La cooperazione nel settore di cui all'articolo 419 del presente accordo e' finalizzata a:
 
@@ -6348,33 +6342,33 @@ m) combattere ogni discriminazione;
 
 n) rafforzare la capacita' delle parti sociali e promuovere il dialogo sociale.
 
-##### ARTICOLO 421
+###### ARTICOLO 421
 
 Le Parti incoraggiano il coinvolgimento di tutte le parti interessate, in particolare delle parti sociali, e delle organizzazioni della societa' civile nelle riforme politiche dell'Ucraina e nella cooperazione tra le Parti a norma dal presente accordo.
 
-##### ARTICOLO 422
+###### ARTICOLO 422
 
 Le Parti promuovono la responsabilita' sociale delle imprese e incoraggiano pratiche commerciali responsabili, come quelle promosse dall'iniziativa "Global Compact" delle Nazioni Unite del 2000, dalla dichiarazione tripartita di principi sulle imprese multinazionali e la politica sociale dell'Organizzazione mondiale del lavoro (OIL) del 1977, quale modificata nel 2006 e dalle linee guida dell'OCSE destinate alle imprese multinazionali del 1976, come modificate nel 2000.
 
-##### ARTICOLO 423
+###### ARTICOLO 423
 
 Le Parti mirano a rafforzare la cooperazione in materia di occupazione e politica sociale in tutte le sedi e organizzazioni competenti a livello regionale, multilaterale e internazionale.
 
-##### ARTICOLO 424
+###### ARTICOLO 424
 
 L'Ucraina provvede al graduale ravvicinamento al diritto, alle norme e alle pratiche dell'UE in materia di occupazione, politica sociale e pari opportunita', secondo quanto enunciato nell'allegato XL del presente accordo.
 
-##### ARTICOLO 425
+###### ARTICOLO 425
 
 Le questioni di cui al titolo V (Cooperazione economica e settoriale), capo 21, del presente accordo saranno oggetto di un dialogo regolare.
 
-## CAPO 22 - SANITÀ PUBBLICA
+#### CAPO 22 - SANITÀ PUBBLICA
 
-##### ARTICOLO 426
+###### ARTICOLO 426
 
 Le Parti sviluppano la cooperazione nel settore della sanita' pubblica, allo scopo di innalzare il livello della salute pubblica, della sicurezza e della protezione della salute umana quale presupposto dello sviluppo sostenibile e della crescita economica.
 
-##### ARTICOLO 427
+###### ARTICOLO 427
 
 1\. La cooperazione riguarda in particolare i seguenti settori:
 
@@ -6390,21 +6384,21 @@ e) l'informazione e le conoscenze nel campo della salute, anche per quanto conce
 
 2\. A tal fine, le Parti si scambiano i dati e le migliori pratiche e intraprendono azioni congiunte, anche sulla base dell'approccio "La salute in tutte le politiche" e attraverso la progressiva integrazione dell'Ucraina nelle reti europee nel campo della sanita' pubblica.
 
-##### ARTICOLO 428
+###### ARTICOLO 428
 
 L'Ucraina procede al graduale ravvicinamento della sua legislazione e delle sue pratiche ai principi dell'acquis dell'UE, in particolare per quanto concerne le malattie trasmissibili, il sangue, i tessuti e le cellule, nonche' il tabacco. Un elenco dell'acquis dell'UE selezionato e' incluso nell'allegato XLI del presente accordo.
 
-##### ARTICOLO 429
+###### ARTICOLO 429
 
 Le questioni di cui al titolo V (Cooperazione economica e settoriale), capo 22, del presente accordo saranno oggetto di un dialogo regolare.
 
-## CAPO 23 - ISTRUZIONE, FORMAZIONE E GIOVENTÙ
+#### CAPO 23 - ISTRUZIONE, FORMAZIONE E GIOVENTÙ
 
-##### ARTICOLO 430
+###### ARTICOLO 430
 
 Nel pieno rispetto della responsabilita' delle Parti per quanto riguarda il contenuto dell'insegnamento e l'organizzazione del sistema di istruzione, nonche' delle loro diversita' culturali e linguistiche, le Parti promuovono la cooperazione nel campo dell'istruzione, della formazione e della gioventu' per migliorare la comprensione reciproca, promuovere il dialogo interculturale e rafforzare la conoscenza delle rispettive culture.
 
-##### ARTICOLO 431
+###### ARTICOLO 431
 
 Le Parti si impegnano a intensificare la cooperazione nel settore dell'istruzione superiore, soprattutto allo scopo di:
 
@@ -6420,7 +6414,7 @@ e) rafforzare la capacita' degli istituti di istruzione superiore;
 
 f) incrementare la mobilita' degli studenti e dei docenti. Nel campo dell'istruzione, un'attenzione particolare sara' prestata alla cooperazione finalizzata a facilitare l'accesso all'istruzione superiore.
 
-##### ARTICOLO 432
+###### ARTICOLO 432
 
 Le Parti si adoperano per un maggiore scambio di informazioni e competenze al fine di incoraggiare una cooperazione piu' stretta nel campo dell'istruzione e formazione professionale, soprattutto nell'ottica di:
 
@@ -6428,11 +6422,11 @@ a) sviluppare sistemi di istruzione e formazione professionale e corsi di perfez
 
 b) istituire un quadro nazionale per migliorare la trasparenza e il riconoscimento delle qualifiche e delle competenze, ove possibile sulla base dell'esperienza dell'UE.
 
-##### ARTICOLO 433
+###### ARTICOLO 433
 
 Le Parti esaminano la possibilita' di sviluppare la cooperazione in altri ambiti, quali l'istruzione secondaria, l'istruzione a distanza e l'apprendimento permanente.
 
-##### ARTICOLO 434
+###### ARTICOLO 434
 
 Le Parti convengono di promuovere una cooperazione piu' stretta e lo scambio di esperienze nei settori della politica della gioventu' e dell'istruzione non formale dei giovani, con l'obiettivo di:
 
@@ -6446,35 +6440,35 @@ d) promuovere la cooperazione tra le organizzazioni giovanili ucraine e quelle d
 
 e) promuovere stili di vita sani, concentrandosi in particolare sui giovani.
 
-##### ARTICOLO 435
+###### ARTICOLO 435
 
 Le Parti cooperano tenendo conto di quanto previsto dalle raccomandazioni elencate nell'allegato XLII del presente accordo.
 
-##### ARTICOLO 436
+###### ARTICOLO 436
 
 Le questioni di cui al titolo V (Cooperazione economica e settoriale), capo 23, del presente accordo saranno oggetto di un dialogo regolare.
 
-## CAPO 24 - CULTURA
+#### CAPO 24 - CULTURA
 
-##### ARTICOLO 437
+###### ARTICOLO 437
 
 Le Parti si impegnano nella promozione della cooperazione culturale per rafforzare la comprensione reciproca e favorire gli scambi culturali, come pure della mobilita' dell'arte e degli artisti dell'UE e dell'Ucraina.
 
-##### ARTICOLO 438
+###### ARTICOLO 438
 
 Le Parti incoraggiano il dialogo interculturale tra i cittadini e le organizzazioni che rappresentano la societa' civile organizzata e le istituzioni culturali dell'UE e dell'Ucraina.
 
-##### ARTICOLO 439
+###### ARTICOLO 439
 
 Le Parti cooperano strettamente nelle sedi internazionali competenti, quali l'Organizzazione delle Nazioni Unite per l'educazione, la scienza e la cultura (UNESCO) e il Consiglio d'Europa per sviluppare la diversita' culturale e preservare e valorizzare il patrimonio storico e culturale.
 
-##### ARTICOLO 440
+###### ARTICOLO 440
 
 Le Parti si adoperano per condurre un dialogo politico regolare sulla cultura allo scopo di promuovere lo sviluppo delle industrie della cultura nell'UE e in Ucraina. A tal fine, le Parti danno corretta attuazione alla convenzione UNESCO sulla protezione e promozione della diversita' delle espressioni culturali del 2005.
 
-## CAPO 25 - COOPERAZIONE IN MATERIA DI SPORT E ATTIVITÀ FISICA
+#### CAPO 25 - COOPERAZIONE IN MATERIA DI SPORT E ATTIVITÀ FISICA
 
-##### ARTICOLO 441
+###### ARTICOLO 441
 
 1\. Le Parti cooperano nel settore dello sport e dell'attivita' fisica per concorrere allo sviluppo di uno stile di vita sano in tutte le fasce di eta', promuovere le funzioni sociali e i valori educativi dello sport e combattere le minacce allo sport, quali il doping, le partite truccate, il razzismo e la violenza.
 
@@ -6494,13 +6488,13 @@ f) la lotta alle partite truccate;
 
 g) la sicurezza durante i principali eventi sportivi internazionali.
 
-##### ARTICOLO 442
+###### ARTICOLO 442
 
 Le questioni di cui al titolo V (Cooperazione economica e settoriale), capo 25, del presente accordo saranno oggetto di un dialogo regolare.
 
-## CAPO 26 - COOPERAZIONE CON LA SOCIETÀ CIVILE
+#### CAPO 26 - COOPERAZIONE CON LA SOCIETÀ CIVILE
 
-##### ARTICOLO 443
+###### ARTICOLO 443
 
 Le Parti promuovono la cooperazione con la societa' civile allo scopo di conseguire i seguenti obiettivi:
 
@@ -6512,7 +6506,7 @@ c) garantire una migliore conoscenza e comprensione dell'Ucraina negli Stati mem
 
 d) garantire una migliore conoscenza e comprensione dell'Unione europea in Ucraina, anche per quanto riguarda i valori su cui e' fondata, il suo funzionamento e le sue politiche.
 
-##### ARTICOLO 444
+###### ARTICOLO 444
 
 Le Parti promuovono il dialogo e la cooperazione tra le parti interessate delle loro rispettive societa' civili quale elemento integrante delle relazioni UE-Ucraina:
 
@@ -6522,73 +6516,73 @@ b) agevolando lo sviluppo delle istituzioni e il consolidamento delle organizzaz
 
 c) dando ai rappresentanti ucraini la possibilita' di familiarizzarsi con la procedura di consultazione e di dialogo tra le parti sociali e civili all'interno dell'UE, con l'obiettivo di integrare la societa' civile nel processo di elaborazione politica in Ucraina.
 
-##### ARTICOLO 445
+###### ARTICOLO 445
 
 Le questioni di cui al titolo V (Cooperazione economica e settoriale), capo 26, del presente accordo saranno oggetto di un dialogo regolare.
 
-## CAPO 27 - COOPERAZIONE TRANSFRONTALIERA E REGIONALE
+#### CAPO 27 - COOPERAZIONE TRANSFRONTALIERA E REGIONALE
 
-##### ARTICOLO 446
+###### ARTICOLO 446
 
 Nel campo della politica regionale le Parti promuovono la comprensione reciproca e la cooperazione bilaterale relativa ai metodi di definizione e di attuazione delle politiche regionali, tra cui il partenariato e la governance a piu' livelli, con particolare attenzione allo sviluppo delle aree svantaggiate e alla cooperazione territoriale. Vengono cosi' istituiti canali di comunicazione e si rafforza lo scambio di informazioni tra le autorita' nazionali, regionali e locali, gli attori socioeconomici e la societa' civile.
 
-##### ARTICOLO 447
+###### ARTICOLO 447
 
 Le Parti sostengono e rafforzano il coinvolgimento delle autorita' locali e regionali nella cooperazione transfrontaliera e regionale e nelle relative strutture di gestione. L'obiettivo e' intensificare la cooperazione mediante l'istituzione di un quadro legislativo adeguato, sostenere e sviluppare le misure di rafforzamento delle capacita' e promuovere il rafforzamento delle reti economiche e di impresa a livello transfrontaliero e regionale.
 
-##### ARTICOLO 448
+###### ARTICOLO 448
 
 Le Parti rafforzano e incoraggiano lo sviluppo della dimensione transfrontaliera e regionale delle reti di trasporto, di energia e di comunicazione, della cultura, dell'istruzione, del turismo, della sanita' e di altri ambiti disciplinati dal presente accordo che hanno un'incidenza sulla cooperazione transfrontaliera e regionale. Le Parti favoriscono, in particolare, lo sviluppo della cooperazione transfrontaliera per quanto concerne l'ammodernamento, le dotazioni e il coordinamento dei servizi di emergenza.
 
-##### ARTICOLO 449
+###### ARTICOLO 449
 
 Le questioni di cui al titolo V (cooperazione economica e settoriale), capo 27, del presente accordo saranno oggetto di un dialogo regolare.
 
-## CAPO 28 - PARTECIPAZIONE ALLE AGENZIE E
+#### CAPO 28
 
-### AI PROGRAMMI DELL'UNIONE EUROPEA
+## PARTECIPAZIONE ALLE AGENZIE E - AI PROGRAMMI DELL'UNIONE EUROPEA
 
-##### ARTICOLO 450
+###### ARTICOLO 450
 
 L'Ucraina puo' partecipare alle agenzie dell'UE operanti in campi che attengono all'attuazione del presente accordo e ad altre agenzie dell'UE, ove i relativi regolamenti istitutivi lo consentano e alle condizioni in essi stabilite. Per la partecipazione a ciascuna di queste agenzie e per fissare l'importo del suo contributo finanziario l'Ucraina conclude con l'UE accordi separati.
 
-##### ARTICOLO 451
+###### ARTICOLO 451
 
 L'Ucraina puo' partecipare a tutti i programmi attuali e futuri dell'Unione aperti alla partecipazione dell'Ucraina, conformemente alle rispettive disposizioni di adozione di tali programmi. La partecipazione dell'Ucraina ai programmi dell'Unione avviene conformemente alle disposizioni contenute nel protocollo III allegato riguardante un accordo quadro fra l'Unione europea e l'Ucraina sui principi generali della partecipazione dell'Ucraina ai programmi dell'Unione del 2010.
 
-##### ARTICOLO 452
+###### ARTICOLO 452
 
 L'UE informa l'Ucraina in merito all'istituzione di nuove agenzie dell'UE e di nuovi programmi dell'Unione e in merito a modifiche delle condizioni di partecipazione ai programmi dell'Unione e alle agenzie di cui agli articoli 450 e 451 del presente accordo.
 
-## TITOLO VI - COOPERAZIONE FINANZIARIA E DISPOSIZIONI ANTIFRODE
+### TITOLO VI - COOPERAZIONE FINANZIARIA E DISPOSIZIONI ANTIFRODE
 
-##### ARTICOLO 453
+###### ARTICOLO 453
 
 L'Ucraina usufruisce di assistenza finanziaria attraverso i meccanismi e gli strumenti di finanziamento pertinenti dell'UE.
 
 L'assistenza finanziaria contribuira' alla realizzazione degli obiettivi del presente accordo e sara' fornita conformemente agli articoli che seguono del presente accordo.
 
-##### ARTICOLO 454
+###### ARTICOLO 454
 
 I principi fondamentali dell'assistenza finanziaria sono stabiliti nei regolamenti che disciplinano gli strumenti finanziari dell'UE.
 
-##### ARTICOLO 455
+###### ARTICOLO 455
 
 Per l'assistenza finanziaria dell'UE i settori prioritari convenuti tra le Parti sono enunciati nei relativi programmi indicativi che riflettono le priorita' strategiche concordate. Gli importi indicativi dell'assistenza stabiliti nei programmi indicativi tengono conto delle esigenze, delle capacita' settoriali e dei progressi delle riforme dell'Ucraina.
 
-##### ARTICOLO 456
+###### ARTICOLO 456
 
 Per sfruttare al meglio le risorse disponibili, le Parti si adoperano affinche' l'assistenza dell'UE sia attuata in stretta collaborazione e in stretto coordinamento con gli altri paesi donatori, gli altri organismi donatori e le altre istituzioni finanziarie internazionali e nel rispetto dei principi internazionali sull'efficacia degli aiuti.
 
-##### ARTICOLO 457
+###### ARTICOLO 457
 
 La base giuridica, amministrativa e tecnica fondamentale dell'assistenza e' stabilita nel quadro dei pertinenti accordi tra le Parti.
 
-##### ARTICOLO 458
+###### ARTICOLO 458
 
 Il Consiglio di associazione e' informato dell'andamento e dell'attuazione dell'assistenza finanziaria e del suo impatto sul conseguimento degli obiettivi del presente accordo. A tal fine, gli organismi competenti delle Parti forniscono, su basi permanenti e reciproche, le opportune informazioni di monitoraggio e valutazione.
 
-##### ARTICOLO 459
+###### ARTICOLO 459
 
 1\. Le Parti attuano l'assistenza secondo i principi di una sana gestione finanziaria e collaborano per tutelare gli interessi finanziari dell'UE e dell'Ucraina, secondo quanto enunciato nell'allegato XLIII del presente accordo. Le Parti adottano misure effettive per prevenire e combattere la frode, la corruzione e le altre attivita' illegali, anche mediante la reciproca assistenza amministrativa e giudiziaria nei settori contemplati dal presente accordo.
 
@@ -6596,17 +6590,17 @@ Il Consiglio di associazione e' informato dell'andamento e dell'attuazione dell'
 
 3\. L'allegato XLIII del presente accordo si applica a ogni ulteriore accordo o strumento di finanziamento che dovesse essere concluso fra le Parti e a qualsiasi altro strumento di finanziamento dell'UE cui l'Ucraina possa essere associata, fatta salva ogni altra clausola aggiuntiva che disciplini le revisioni contabili, le verifiche sul posto, le ispezioni, i controlli e le misure antifrode, compresi quelli attuati dall'Ufficio europeo per la lotta antifrode (OLAF) e dalla Corte dei conti europea.
 
-## TITOLO VII - DISPOSIZIONI ISTITUZIONALI, GENERALI E FINALI
+### TITOLO VII - DISPOSIZIONI ISTITUZIONALI, GENERALI E FINALI
 
-### CAPO 1 - QUADRO ISTITUZIONALE
+#### CAPO 1 - QUADRO ISTITUZIONALE
 
-##### ARTICOLO 460
+###### ARTICOLO 460
 
 1\. Il livello piu' alto del dialogo politico e strategico tra le Parti e' il dialogo a livello di vertici, che si svolgono in linea di massima una volta l'anno. I vertici forniscono indicazioni generali per l'attuazione del presente accordo e in essi e' discussa qualsiasi questione bilaterale o internazionale di reciproco interesse.
 
 2\. A livello ministeriale, il dialogo politico e strategico regolare si svolge nell'ambito del Consiglio di associazione di cui all'articolo 461 del presente accordo e, di comune accordo, nel quadro di riunioni periodiche tra i rappresentanti delle Parti.
 
-##### ARTICOLO 461
+###### ARTICOLO 461
 
 1\. E' istituito un Consiglio di associazione, incaricato di esercitare la vigilanza e il controllo sull'applicazione e attuazione del presente accordo e di esaminare periodicamente il funzionamento del presente accordo alla luce dei suoi obiettivi.
 
@@ -6614,7 +6608,7 @@ Il Consiglio di associazione e' informato dell'andamento e dell'attuazione dell'
 
 3\. Oltre a esercitare la vigilanza e il controllo sull'applicazione e attuazione del presente accordo, il Consiglio di associazione esamina le questioni di rilievo inerenti all'accordo e qualsiasi altra questione bilaterale o internazionale di reciproco interesse.
 
-##### ARTICOLO 462
+###### ARTICOLO 462
 
 1\. Il Consiglio di associazione e' composto dai membri del Consiglio dell'Unione europea e da membri della Commissione europea, da una parte, e da membri del governo dell'Ucraina, dall'altra.
 
@@ -6624,7 +6618,7 @@ Il Consiglio di associazione e' informato dell'andamento e dell'attuazione dell'
 
 4\. Se del caso e previo comune accordo, altri organi parteciperanno in qualita' di osservatori ai lavori del Consiglio di associazione.
 
-##### ARTICOLO 463
+###### ARTICOLO 463
 
 1\. Ai fini della realizzazione degli obiettivi del presente accordo, il Consiglio di associazione ha il potere di prendere le decisioni rientranti nel campo di applicazione del presente accordo, nei casi ivi contemplati. Le decisioni sono vincolanti per le Parti, che adottano le misure opportune, se necessario anche con interventi a livello degli organi specifici istituiti in forza del presente accordo, per attuarle. Il Consiglio di associazione puo' anche formulare raccomandazioni. Adotta le decisioni e le raccomandazioni mediante accordo tra le Parti, al termine delle rispettive procedure interne.
 
@@ -6632,7 +6626,7 @@ Il Consiglio di associazione e' informato dell'andamento e dell'attuazione dell'
 
 3\. Il Consiglio di associazione puo', a tale scopo, aggiornare o modificare gli allegati del presente accordo, tenendo conto dell'evoluzione del diritto dell'UE e delle norme applicabili contenute negli strumenti internazionali che le Parti ritengano pertinenti, fatte salve le disposizioni specifiche di cui al titolo IV (Scambi e questioni commerciali) del presente accordo.
 
-##### ARTICOLO 464
+###### ARTICOLO 464
 
 1\. E' istituito un comitato di associazione che assiste il Consiglio di associazione nell'esercizio delle sue funzioni. La presente disposizione fa salve le competenze delle varie sedi del dialogo politico di cui all'articolo 5 del presente accordo.
 
@@ -6640,7 +6634,7 @@ Il Consiglio di associazione e' informato dell'andamento e dell'attuazione dell'
 
 3\. Il comitato di associazione e' presieduto a turno da un rappresentante dell'Unione e da un rappresentante dell'Ucraina.
 
-##### ARTICOLO 465
+###### ARTICOLO 465
 
 1\. Il Consiglio di associazione stabilisce, nel regolamento interno, i compiti e il funzionamento del comitato di associazione, che e' tra l'altro incaricato di preparare le riunioni del Consiglio di associazione. Il comitato di associazione si riunisce almeno una volta l'anno.
 
@@ -6650,7 +6644,7 @@ Il Consiglio di associazione e' informato dell'andamento e dell'attuazione dell'
 
 4\. Il comitato di associazione si riunisce in una formazione specifica per affrontare tutte le questioni inerenti al titolo IV (Scambi e questioni commerciali) del presente accordo. Il comitato di associazione si riunisce in questa formazione almeno una volta l'anno.
 
-##### ARTICOLO 466
+###### ARTICOLO 466
 
 1\. Il comitato di associazione e' assistito dai sottocomitati istituiti in forza del presente accordo.
 
@@ -6664,7 +6658,7 @@ Il Consiglio di associazione e' informato dell'andamento e dell'attuazione dell'
 
 6\. L'esistenza di sottocomitati non impedisce alle Parti di sottoporre qualsiasi questione direttamente al comitato di associazione, istituito in applicazione dell'articolo 464 del presente accordo, anche nella formazione "Commercio".
 
-##### ARTICOLO 467
+###### ARTICOLO 467
 
 1\. E' istituito un comitato parlamentare di associazione, che riunisce e consente scambi di opinioni tra membri del Parlamento europeo e della Verkhovna Rada ucraina. Il comitato stabilisce la frequenza delle sue riunioni.
 
@@ -6674,7 +6668,7 @@ Il Consiglio di associazione e' informato dell'andamento e dell'attuazione dell'
 
 4\. Il comitato parlamentare di associazione e' presieduto a turno da un rappresentante del Parlamento europeo e della Verkhovna Rada ucraina, conformemente alle disposizioni previste al riguardo dal regolamento interno.
 
-##### ARTICOLO 468
+###### ARTICOLO 468
 
 1\. Il comitato parlamentare di associazione puo' chiedere ogni informazione utile relativa all'attuazione del presente accordo al Consiglio di associazione, che fornisce al comitato le informazioni richieste.
 
@@ -6684,7 +6678,7 @@ Il Consiglio di associazione e' informato dell'andamento e dell'attuazione dell'
 
 4\. Il comitato parlamentare di associazione puo' istituire sottocomitati parlamentari di associazione.
 
-##### ARTICOLO 469
+###### ARTICOLO 469
 
 1\. Le Parti promuovono inoltre riunioni periodiche di rappresentanti delle loro societa' civili, per informarli e raccogliere contributi in merito all'attuazione del presente accordo.
 
@@ -6694,7 +6688,7 @@ Il Consiglio di associazione e' informato dell'andamento e dell'attuazione dell'
 
 4\. La piattaforma della societa' civile e' presieduta a turno da un rappresentante del Comitato economico e sociale europeo (CESE) e da un rappresentante della societa' civile ucraina, conformemente alle disposizioni previste al riguardo dal regolamento interno.
 
-##### ARTICOLO 470
+###### ARTICOLO 470
 
 1\. La piattaforma della societa' civile e' informata delle decisioni e delle raccomandazioni adottate dal Consiglio di associazione.
 
@@ -6702,15 +6696,15 @@ Il Consiglio di associazione e' informato dell'andamento e dell'attuazione dell'
 
 3\. Il comitato di associazione e il comitato parlamentare di associazione tengono regolarmente contatti con i rappresentanti della piattaforma della societa' civile per conoscerne il punto di vista sulla realizzazione degli obiettivi del presente accordo.
 
-## CAPO 2 - DISPOSIZIONI GENERALI E FINALI
+#### CAPO 2 - DISPOSIZIONI GENERALI E FINALI
 
-##### ARTICOLO 471
+###### ARTICOLO 471
 
 Accesso agli organi giurisdizionali e amministrativi
 
 Nell'ambito del presente accordo, ciascuna delle Parti si impegna a garantire che le persone fisiche e giuridiche dell'altra Parte possano adire, senza discriminazioni rispetto ai suoi cittadini, i suoi organi giurisdizionali e amministrativi competenti a tutela dei loro diritti individuali e di proprieta'.
 
-##### ARTICOLO 472
+###### ARTICOLO 472
 
 Misure connesse a interessi essenziali in materia di sicurezza
 
@@ -6722,7 +6716,7 @@ b) relative alla produzione o al commercio di armi, munizioni o materiale bellic
 
 c) ritenute essenziali per la propria sicurezza in caso di gravi agitazioni interne che turbino l'ordine pubblico, in caso di guerra o di grave tensione internazionale che costituisca una minaccia di guerra ovvero per far fronte agli impegni assunti ai fini del mantenimento della pace e della sicurezza internazionale.
 
-##### ARTICOLO 473
+###### ARTICOLO 473
 
 Non discriminazione
 
@@ -6734,7 +6728,7 @@ b) le misure applicate dall'Unione o dagli Stati membri nei confronti dell'Ucrai
 
 2\. Le disposizioni del paragrafo 1 fanno salvo il diritto delle Parti di applicare le disposizioni pertinenti della loro normativa fiscale nei confronti di contribuenti che non si trovino in situazioni identiche per quanto riguarda il luogo di residenza.
 
-##### ARTICOLO 474
+###### ARTICOLO 474
 
 Graduale ravvicinamento
 
@@ -6742,7 +6736,7 @@ In linea con gli obiettivi del presente accordo enunciati all'articolo 1, l'Ucra
 
 La presente disposizione fa salvi i principi e gli obblighi specifici in materia di ravvicinamento normativo previsti dal titolo IV (Scambi e questioni commerciali) del presente accordo.
 
-##### ARTICOLO 475
+###### ARTICOLO 475
 
 Monitoraggio
 
@@ -6758,7 +6752,7 @@ Monitoraggio
 
 6\. Alle raccomandazioni congiunte di cui al paragrafo 4 del presente articolo trasmesse al Consiglio di associazione o alla mancata adozione di tali raccomandazioni non si applica la disciplina in materia di risoluzione delle controversie definita nel titolo IV (Scambi e questioni commerciali) del presente accordo. Alle decisioni adottate dall'organo istituzionale competente o alla mancata adozione di tali decisioni non si applica la disciplina in materia di risoluzione delle controversie definita nel titolo IV (Scambi e questioni commerciali) del presente accordo.
 
-##### ARTICOLO 476
+###### ARTICOLO 476
 
 Adempimento degli obblighi
 
@@ -6768,7 +6762,7 @@ Adempimento degli obblighi
 
 3\. Ciascuna delle Parti sottopone al Consiglio di associazione qualsiasi controversia relativa all'interpretazione, attuazione o applicazione in buona fede del presente accordo conformemente all'articolo 477 del presente accordo. Il Consiglio di associazione puo' risolvere le controversie mediante una decisione vincolante.
 
-##### ARTICOLO 477
+###### ARTICOLO 477
 
 Risoluzione delle controversie
 
@@ -6782,7 +6776,7 @@ Risoluzione delle controversie
 
 5\. Tutte le informazioni comunicate durante le consultazioni rimangono riservate.
 
-##### ARTICOLO 478
+###### ARTICOLO 478
 
 Misure appropriate in caso di mancato adempimento degli obblighi
 
@@ -6798,7 +6792,7 @@ a) la denuncia dell'accordo non autorizzata dalle norme generali di diritto inte
 
 b) la violazione, ad opera dell'altra Parte, di uno degli elementi essenziali del presente accordo di cui all'articolo 2 del presente accordo.
 
-##### ARTICOLO 479
+###### ARTICOLO 479
 
 Relazione con altri accordi
 
@@ -6814,13 +6808,13 @@ Relazione con altri accordi
 
 6\. Fatte salve le pertinenti disposizioni del trattato sull'Unione europea e del trattato sul funzionamento dell'Unione europea, ne' il presente accordo ne' qualsiasi azione intrapresa in applicazione dello stesso pregiudicano in alcun modo la competenza degli Stati membri ad avviare con l'Ucraina attivita' di cooperazione bilaterale o a concludere, se del caso, con l'Ucraina nuovi accordi di cooperazione.
 
-##### ARTICOLO 480
+###### ARTICOLO 480
 
 Allegati e protocolli
 
 Gli allegati e i protocolli del presente accordo ne fanno parte integrante.
 
-##### ARTICOLO 481
+###### ARTICOLO 481
 
 Durata
 
@@ -6828,31 +6822,31 @@ Durata
 
 2\. Ciascuna delle Parti puo' denunciare l'accordo dandone notifica all'altra Parte. Il presente accordo cessa di essere applicabile decorsi sei mesi dal ricevimento della notifica.
 
-##### ARTICOLO 482
+###### ARTICOLO 482
 
 Definizione delle Parti
 
 Ai fini del presente accordo, per "Parti" si intendono l'Unione o i suoi Stati membri o l'Unione e i suoi Stati membri, secondo le rispettive competenze definite dal trattato sul funzionamento dell'Unione europea, da una parte, e l'Ucraina, dall'altra. Se del caso, si intende l'Euratom, secondo le sue competenze a norma del trattato Euratom.
 
-##### ARTICOLO 483
+###### ARTICOLO 483
 
 Applicazione territoriale
 
 Il presente accordo si applica, da una parte, ai territori ai quali si applicano il trattato sull'Unione europea (TUE), il trattato sul funzionamento dell'Unione europea (TFUE) e il trattato che istituisce la Comunita' europea dell'energia atomica, alle condizioni ivi precisate, e, dall'altra, al territorio dell'Ucraina.
 
-##### ARTICOLO 484
+###### ARTICOLO 484
 
 Depositario dell'accordo
 
 Il Segretario generale del Consiglio dell'Unione europea e' il depositario del presente accordo.
 
-##### ARTICOLO 485
+###### ARTICOLO 485
 
 Testi facenti fede
 
 Il presente accordo e' redatto nelle lingue bulgara, ceca, croata, danese, estone, finlandese, francese, greca, inglese, italiana, lettone, lituana, maltese, neerlandese, polacca, portoghese, rumena, slovacca, slovena, spagnola, svedese, tedesca, ungherese e ucraina, e i testi in ciascuna di queste lingue fanno ugualmente fede.
 
-##### ARTICOLO 486
+###### ARTICOLO 486
 
 Entrata in vigore e applicazione provvisoria
 
@@ -6874,7 +6868,7 @@ Entrata in vigore e applicazione provvisoria
 
 7\. Ciascuna Parte puo' notificare per iscritto al depositario la volonta' di porre fine all'applicazione provvisoria del presente accordo. La cessazione dell'applicazione provvisoria ha effetto dalla data in cui il depositario ne riceve notifica.
 
-##### Elenco degli allegati
+###### Elenco degli allegati
 
 ELENCO DEGLI ALLEGATI
 
@@ -7180,7 +7174,7 @@ ALLEGATI DEL TITOLO VI
             +-----------------+-------------------------+
 ```
 
-##### Protocolli
+###### Protocolli
 
 PROTOCOLLI
 
@@ -7200,7 +7194,7 @@ PROTOCOLLI
 +------------------+------------------------------------------------+
 ```
 
-##### Dichiarazione congiunta
+###### Dichiarazione congiunta
 
 DICHIARAZIONE CONGIUNTA
 

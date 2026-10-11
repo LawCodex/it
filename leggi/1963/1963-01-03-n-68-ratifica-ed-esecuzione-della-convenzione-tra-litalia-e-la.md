@@ -23,11 +23,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 la seguente legge:
 
-#### Art. 1
+### Art. 1
 
 Il Presidente della Repubblica e' autorizzato a ratificare le Convenzione tra l'Italia e la Svizzera relativa agli uffici a controlli nazionali abbinati e al controllo in corso di viaggio, con Protocollo finale, conclusa a Berna l'11 marzo 1961.
 
-#### Art. 2
+### Art. 2
 
 Piena ed intera esecuzione e' data alla Convenzione ed al Protocollo finale di cui all'articolo precedente a decorrere dalla loro entrata in vigore in conformita' dell'articolo 27 della Convenzione stessa.
 
@@ -39,9 +39,7 @@ SEGNI
 
 FANFANI - PICCIONI - TAVIANI - BOSCO - LA MALFA - TRABUCCHI - TREMELLONI - SULLO - MATTARELLA - RUSSO - - FOLCHI
 
-## TITOLO I
-
-### Disposizioni generali
+## TITOLO I - Disposizioni generali
 
 Convenzione tra l'Italia e la Svizzera relativa agli uffici a controlli nazionali abbinati e al controllo, in corso di viaggi e protocollo finale. (Berna, 11 marzo 1961).
 
@@ -65,7 +63,7 @@ il Signor Charles LENZ, Direttore Generale delle Dogane;
 
 i quali, dopo essersi scambiati i loro pieni poteri trovati nella dovuta e buona forma, hanno convenuto le seguenti disposizioni:
 
-#### Articolo 1
+### Articolo 1
 
 A termini della presente Convenzione, l'espressione:
 
@@ -85,7 +83,7 @@ nella quale gli agenti dello Stato limitrofo sono abilitati a effettuare il cont
 
 6\) "Uffici" indica gli uffici a controlli nazionali abbinati.
 
-#### Articolo 2
+### Articolo 2
 
 1\. Le Parti Contraenti prendono, nel quadro della presente
 
@@ -113,7 +111,7 @@ corso di viaggio;
 
 saranno stabiliti da appositi accordi tra le autorita' competenti dei due Stati.
 
-#### Articolo 3
+### Articolo 3
 
 La zona puo' comprendere:
 
@@ -155,11 +153,9 @@ viaggio, il natante, nonche' il battello adibito al controllo sul determinato pe
 
 Allorquando un accordo, concluso in virtu' del precedente articolo 2, paragrafo 3, non include nella zona una parte di territorio rispondente ai punti previsti dai predetti numeri 1) a 3), esso puo' stabilire l'applicazione, in detta parte, di talune disposizioni della presente Convenzione o il riconoscimento di taluni diritti e obblighi che ne derivano, in particolare il mantenimento della facolta' di sorveglianza da parte degli agenti dello Stato limitrofo.
 
-## TITOLO II
+## TITOLO II - Controllo
 
-### Controllo
-
-#### Articolo 4
+### Articolo 4
 
 1\. Le norme di legge, regolamentari e amministrative dello Stato
 
@@ -171,17 +167,17 @@ dello Stato limitrofo relative al controllo sono violate nella zona, le giurisdi
 
 3\. Il presente articolo non pregiudica l'applicazione nella zona, da parte dello Stato di soggiorno, delle norme di legge, regolamentari ed amministrative diverse da quelle relative al controllo,
 
-#### Articolo 5
+### Articolo 5
 
 La presente Convenzione non pregiudica i poteri dello Stato di
 
 soggiorno per quanto concerne il diritto di mantenere l'ordine pubblico nella zona.
 
-#### Articolo 6
+### Articolo 6
 
 Gli agenti dello Stato limitrofo non possono arrestare nella zona, ne' condurre in tale Stato, le persone che non si recano in detto Stato, salvo che esse violino nella zona le norme di legge e regolamentari dello Stato limitrofo in materia doganale.
 
-#### Articolo 7
+### Articolo 7
 
 1\. Il controllo del Paese di uscita e' effettuato prima del
 
@@ -201,13 +197,13 @@ Qualora intendano adottare una siffatta misura, essi condurranno le persone, le 
 
 Qualora questi ultimi intendano procedere ad arresti o a sequestri, essi hanno la precedenza.
 
-#### Articolo 8
+### Articolo 8
 
 Gli agenti dello Stato limitrofo possono trasferire liberamente sul
 
 territorio del loro Stato le somme in denaro percepite nella zona, nonche' le merci e altri beni trattenuti o sequestrati. Essi possono parimenti venderli nello Stato di soggiorno, osservando le norme di legge ivi in vigore e trasferirne il provento nello Stato limitrofo.
 
-#### Articolo 9
+### Articolo 9
 
 1\. Le merci respinte nello Stato limitrofo da parte degli agenti di
 
@@ -217,7 +213,7 @@ questo ultimo all'atto del controllo di uscita o rinviate nello Stato limitrofo 
 
 persone e alle merci respinte da parte degli agenti dello Stato di entrata.
 
-#### Articolo 10
+### Articolo 10
 
 1\. Gli agenti dei due Stati si prestano, in tutta la misura
 
@@ -239,11 +235,9 @@ citazioni a comparire avanti all'autorita' dello Stato limitrofo e notificherann
 
 limitata alle infrazioni alle norme doganali e disciplinano il passaggio della frontiera delle persone e delle merci, commesse nella zona e scoperte durante o subito dopo la loro effettuazione.
 
-## TITOLO III
+## TITOLO III - Agenti
 
-### Agenti
-
-#### Articolo 11
+### Articolo 11
 
 1\. Le autorita' dello Stato di soggiorno accordano agli agenti
 
@@ -253,7 +247,7 @@ dello Stato limitrofo, per l'esercizio delle loro nazioni nella zona, la stessa 
 
 dello Stato limitrofo, nell'esercizio delle loro funzioni nella zona, sono soggette al diritto e alla giurisdizione dello Stato limitrofo come se l'atto dannoso abbia avuto luogo in questo Stato. I cittadini dello Stato di soggiorno saranno tuttavia trattati allo stesso modo dei cittadini dello Stato limitrofo.
 
-#### Articolo 12
+### Articolo 12
 
 1\. Gli agenti dello Stato limitrofo, i quali, in applicazione della
 
@@ -263,13 +257,13 @@ Essi sono autorizzati a passare la frontiera e a recarsi sul luogo del proprio s
 
 2\. Le competenti Amministrazioni dello Stato di soggiorno possono esigere che agenti dello Stato limitrofo esercitanti le loro funzioni nello Stato di soggiorno siano richiamati nel proprio Paese.
 
-#### Articolo 13
+### Articolo 13
 
 Gli agenti dello Stato limitrofo chiamati, in applicazione della
 
 presente Convenzione, a esercitare le loro funzioni nella zona, possono portare la loro uniforme nazionale o un segno distintivo visibile; essi possono, nella zona come pure nel tratto tra il loro luogo di servizio e il loro domicilio, portare le proprie armi regolamentari. L'uso di tali armi e', tuttavia consentito soltanto in caso di legittima difesa.
 
-#### Articolo 14
+### Articolo 14
 
 1\. Gli agenti dello Stato limitrofo, i quali, in applicazione della
 
@@ -287,7 +281,7 @@ essi siano colpiti da un provvedimento di divieto d'ingresso che li concerne per
 
 limitrofo esercitano le proprie funzioni nello Stato di soggiorno o vi risiedono non e' compreso in quello che da' diritto a un trattamento di privilegio ai sensi delle Convenzioni di domicilio esistenti. Lo stesso vale per i membri della famiglia che beneficiano di una autorizzazione di soggiorno in ragione della presenza del capo famiglia nello Stato di soggiorno.
 
-#### Articolo 15
+### Articolo 15
 
 1\. Gli agenti dello Stato limitrofo, i quali, in applicazione della
 
@@ -301,17 +295,15 @@ presente Convenzione, debbono esercitare le loro funzioni nella zona e risiedono
 
 5\. Le retribuzioni degli agenti dello Stato limitrofo, i quali, in applicazione della presente Convenzione, debbano esercitare le loro funzioni nella zona, non sono sottoposte ad alcuna restrizione in materia valutaria. Gli agenti potranno trasferire liberamente i loro risparmi nello Stat o limitrofo.
 
-## TITOLO IV
+## TITOLO IV - Uffici
 
-### Uffici
-
-#### Articolo 16
+### Articolo 16
 
 Le ore di apertura e le attribuzioni degli uffici a controlli
 
 nazionali abbinati saranno stabilite di comune accordo tra le Amministrazioni competenti dei due Stati.
 
-#### Articolo 17
+### Articolo 17
 
 Le Amministrazioni competenti dei due Stati stabiliscono di comune accordo:
 
@@ -323,7 +315,7 @@ b) i compartimenti e le attrezzature da riservare agli agenti
 
 incaricati del controllo in corso di viaggio.
 
-#### Articolo 18
+### Articolo 18
 
 1\. I locali adibiti agli uffici dello Stato limitrofo sono
 
@@ -331,13 +323,13 @@ contrassegnati da iscrizioni e da stemmi ufficiali.
 
 2\. Gli agenti dello Stato limitrofo sono autorizzati ad assicurare la disciplina all'interno dei locali adibiti al loro uso esclusivo, nonche' a espellere qualsiasi disturbatore. Essi possono, all'occorrenza, richiedere a tal fine l'assistenza degli agenti dello Stato di soggiorno.
 
-#### Articolo 19
+### Articolo 19
 
 Gli oggetti necessari al funzionamento degli uffici o quelli di cui
 
 gli agenti dello Stato limitrofo hanno bisogno durante il loro servizio nello Stato di soggiorno sono esentati da diritti doganali e da qualsiasi tassa di entrata o di uscita. Non dovranno, all'uopo, essere fornite garanzie. A meno che non sia disposto diversamente di comune accordo dalle Amministrazioni competenti, i divieti o le restrizioni all'importazione o alla esportazione non si applicano a tali oggetti. Lo stesso vale per i veicoli di servizio o privati che gli agenti utilizzano, sia per l'esercizio delle loro funzioni nello Stato di soggiorno, sia per lasciare il loro domicilio e per ritornarvi, sia per percorrere il tratto che separa i due uffici facenti parte di uno stesso valico di frontiera.
 
-#### Articolo 20
+### Articolo 20
 
 1\. Lo Stato di soggiorno autorizzera' a titolo gratuito, salvo il pagamento delle eventuali spese d'impianto e di locazione delle apparecchiature, le installazioni telefoniche e telegrafiche (comprese le telescriventi) necessarie al funzionamento degli uffici dello Stato limitrofo nello Stato di soggiorno, il collegamento di queste installazioni a quelle corrispondenti nello Stato limitrofo, nonche' lo scambio di comunicazioni dirette con detti uffici, riservate esclusivamente agli affari di servizio. Tali comunicazioni sono considerate come comunicazioni interne dello Stato limitrofo.
 
@@ -347,17 +339,15 @@ fini e nella misura del possibile, ogni facilitazione per quanto concerne l'util
 
 3\. Restano inoltre riservate le norme dei due Stati in materia di costruzione e di esercizio degli impianti di telecomunicazioni.
 
-#### Articolo 21
+### Articolo 21
 
 La corrispondenza od i colli di servizio, nonche' i valori, in
 
 provenienza o a destinazione degli uffici dello Stato limitrofo, possono essere trasportati a cura degli agenti di tale Stato senza l'intervento del servizio postale. Tali invii, esenti da ogni tassa, debbono circolare con il timbro ufficiale del servizio interessato.
 
-## TITOLO V
+## TITOLO V - Dichiaranti in dogana
 
-### Dichiaranti in dogana
-
-#### Articolo 22
+### Articolo 22
 
 1\. Le persone residenti nello Stato limitrofo possono effettuare
 
@@ -379,7 +369,7 @@ Qualora l'attivita' di dette persone sia sottoposta ad
 
 autorizzazione per il fatto che esse la esercitano in qualita' di stranieri nello Stato di soggiorno, tale autorizzazione deve essere rilasciata gratuitamente da parte delle autorita' competenti.
 
-#### Articolo 23
+### Articolo 23
 
 1\. A parte i casi contemplati nell'articolo 22, le persone
 
@@ -393,15 +383,13 @@ particolare alle persone residenti nell'uno dei due Stati che effettuano tali op
 
 3\. Sono applicabili inoltre le disposizioni previste nei paragrafi 3 e 4 dell'articolo 22.
 
-## TITOLO VI
+## TITOLO VI - Disposizioni finali
 
-### Disposizioni finali
-
-#### Articolo 24
+### Articolo 24
 
 Le Amministrazioni competenti dei due Stati stabiliscono di comune accordo le misure amministrative necessarie per l'applicazione della presente Convenzione.
 
-#### Articolo 25
+### Articolo 25
 
 1\. Dopo l'entrata in vigore della presente Convenzione sara'
 
@@ -425,13 +413,13 @@ Il presidente non avra' voto prevalente. I membri della Commissione
 
 potranno essere assistiti da esperti.
 
-#### Articolo 26
+### Articolo 26
 
 Restano espressamente riservate le misure che l'una delle due Parti
 
 Contraenti potrebbe essere indotta ad adottare per motivi inerenti alla tutela della sua sovranita' o della sua sicurezza.
 
-#### Articolo 27
+### Articolo 27
 
 La presente Convenzione sara' ratificata e gli strumenti di
 
@@ -455,7 +443,7 @@ Per la Confederazione Svizzera
 
 LENZ
 
-#### Protocollo
+### Protocollo
 
 PROTOCOLLO FINALE
 

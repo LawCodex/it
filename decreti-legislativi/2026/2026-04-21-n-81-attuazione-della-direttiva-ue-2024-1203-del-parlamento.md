@@ -49,7 +49,7 @@ il seguente decreto legislativo:
 
 ## Titolo I - OGGETTO E DEFINIZIONI
 
-#### Art. 1
+### Art. 1
 
 Oggetto e ambito di applicazione
 
@@ -165,7 +165,7 @@ Oggetto e ambito di applicazione
 
 > \- Per i riferimenti alla direttiva (UE) 2024/1203 si vedano le note alle premesse.
 
-#### Art. 2
+### Art. 2
 
 Definizioni
 
@@ -181,11 +181,9 @@ b) «ecosistema»: complesso dinamico di comunita' di piante, animali, funghi e 
 
 > \- La direttiva n. 92/43/CEE del Consiglio, del 21 maggio 1992, relativa alla conservazione degli habitat naturali e seminaturali e della flora e della fauna selvatiche, e' pubblicata nella G.U.C.E. 22 luglio 1992, n. L 206.
 
-## Titolo II - MODIFICHE AL CODICE PENALE E DISPOSIZIONI IN MATERIA DI CONTRASTO
+## Titolo II - MODIFICHE AL CODICE PENALE E DISPOSIZIONI IN MATERIA DI CONTRASTO ALLA CRIMINALITA' AMBIENTALE
 
-### ALLA CRIMINALITA' AMBIENTALE
-
-#### Art. 3
+### Art. 3
 
 Modifiche al codice penale
 
@@ -295,7 +293,7 @@ g) l'articolo 733-bis e' abrogato.
 
 > \- L'articolo 733-bis del codice penale, abrogato dal presente decreto, recava: «Distruzione o deterioramento di habitat all'interno di un sito protetto».
 
-#### Art. 4
+### Art. 4
 
 Produzione e commercio di sostanze ozono lesive
 
@@ -309,7 +307,7 @@ Produzione e commercio di sostanze ozono lesive
 
 > \- Il regolamento (UE) 2024/590 del Parlamento europeo e del Consiglio del 7 febbraio 2024, sulle sostanze che riducono lo strato di ozono, e che abroga il regolamento (CE) n. 1005/2009, e' pubblicato nella G.U.U.E. 20 febbraio 2024, L.
 
-#### Art. 5
+### Art. 5
 
 Produzione e commercio di gas a effetto serra
 
@@ -321,7 +319,7 @@ Produzione e commercio di gas a effetto serra
 
 > \- Il regolamento (UE) 2024/573 del Parlamento europeo e del Consiglio, del 7 febbraio 2024, sui gas fluorurati a effetto serra, che modifica la direttiva (UE) 2019/1937 e che abroga il regolamento (UE) n. 517/2014, e' pubblicato nella G.U.U.E. 20 febbraio 2024, L.
 
-#### Art. 6
+### Art. 6
 
 Disposizioni applicabili
 
@@ -347,7 +345,7 @@ Disposizioni applicabili
 
 > Al ripristino dello stato dei luoghi di cui al comma precedente si applicano le disposizioni di cui al titolo II della parte sesta del decreto legislativo 3 aprile 2006, n. 152, in materia di ripristino ambientale.».
 
-#### Art. 7
+### Art. 7
 
 Pubblicazione della sentenza di condanna
 
@@ -371,7 +369,7 @@ Pubblicazione della sentenza di condanna
 
 ## Titolo III - MODIFICHE AL DECRETO LEGISLATIVO 8 GIUGNO 2001, N. 231
 
-#### Art. 8
+### Art. 8
 
 Modifiche al decreto legislativo 8 giugno 2001, n. 231
 
@@ -513,7 +511,7 @@ Il medesimo aumento si applica per i delitti aggravati ai sensi dell'articolo 45
 
 ## Titolo IV - ALTRE DISPOSIZIONI
 
-#### Art. 9
+### Art. 9
 
 Raccolta e trasmissione dei dati statistici
 
@@ -545,7 +543,7 @@ e) la tipologia e l'ammontare delle pene e delle sanzioni irrogate.
 
 > \- Per i riferimenti al decreto legislativo 8 giugno 2001, n. 231, si vedano le note alle premesse.
 
-#### Art. 10
+### Art. 10
 
 Sistema di coordinamento nazionale per il contrasto alla criminalita' ambientale
 
@@ -577,7 +575,7 @@ c) il Procuratore nazionale antimafia e il suo delegato.
 
 > \- Il decreto legislativo 19 agosto 2016, n. 177, recante: «Disposizioni in materia di razionalizzazione delle funzioni di polizia e assorbimento del Corpo forestale dello Stato, ai sensi dell'articolo 8, comma 1, lettera a), della legge 7 agosto 2015, n. 124, in materia di riorganizzazione delle amministrazioni pubbliche», e' pubblicato nella Gazzetta Ufficiale n. 213 del 12 settembre 2016.
 
-#### Art. 11
+### Art. 11
 
 Strategia nazionale di contrasto ai crimini ambientali
 
@@ -597,7 +595,7 @@ d) le misure necessarie, per aumentare il livello generale di consapevolezza dei
 
 4\. Ogni tre anni, entro il 21 maggio, il Governo procede, con le modalita' di cui al comma 1, a rivedere e aggiornare la Strategia nazionale, secondo un approccio basato sull'analisi dei rischi, tenendo conto degli sviluppi e delle tendenze in materia nonche' delle minacce poste dalla criminalita' ambientale.
 
-#### Art. 12
+### Art. 12
 
 Modifiche al decreto legislativo 3 aprile 2006, n. 152
 
@@ -655,7 +653,7 @@ Modifiche al decreto legislativo 3 aprile 2006, n. 152
 
 > 9\. Le sanzioni di cui al comma 8 sono ridotte della meta' nel caso di adesione effettuata entro il sessantesimo giorno dalla scadenza del termine per adempiere agli obblighi di partecipazione previsti dagli articoli 233, 234, 235 e 236.».
 
-#### Art. 13
+### Art. 13
 
 Clausola di invarianza finanziaria
 

@@ -27,21 +27,21 @@ PROMULGA
 
 la seguente legge:
 
-##### Art. 1
+#### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'accordo di partenariato e di cooperazione tra le Comunita' europee ed i loro Stati membri, da una parte, e l'Ucraina, dall'altra, con allegati, protocollo, dichiarazioni, fatto a Lussemburgo il 14 giugno 1994, ed uno scambio di lettere effettuato a Lisbona il 17 dicembre 1994.
 
-##### Art. 2
+#### Art. 2
 
 1\. Piena ed intera esecuzione e' data all'accordo di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore in conformita' a quanto disposto dall'articolo 108 dell'accordo stesso.
 
-##### Art. 3
+#### Art. 3
 
 1\. All'onere derivante dall'attuazione della presente legge, valutato in lire 10 milioni annue a decorrere dal 1996, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1996-1998, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1996, all'uopo parzialmente utilizzando l'accantonamento riguardante il Ministero degli affari esteri.
 
 2\. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-##### Art. 4
+#### Art. 4
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
@@ -155,7 +155,7 @@ DESIDEROSI di avviare una cooperazione culturale e di migliorare il flusso delle
 
 CONVENGONO:
 
-##### ARTICOLO 1
+#### ARTICOLO 1
 
 E' istituito un partenariato tra la Comunita' e gli Stati membri, da una parte, e l'Ucraina, dall'altra.
 
@@ -171,27 +171,27 @@ Gli obiettivi del partenariato sono:
 
 ## TITOLO I - PRINCIPI GENERALI
 
-##### ARTICOLO 2
+#### ARTICOLO 2
 
 Il rispetto dei principi democratici e dei diritti dell'uomo definiti, in particolare, nell'Atto finale di Helsinki e nella Carta di Parigi per una nuova Europa, nonche' i principi dell'economia di mercato, compresi quelli enunciati nei documenti della Conferenza CSCE di Bonn, sono alla base delle politiche interna ed estera delle Parti e costituiscono un elemento fondamentale del partenariato e del presente accordo.
 
-##### ARTICOLO 3
+#### ARTICOLO 3
 
 Le Parti ritengono fondamentale, per la futura prosperita' e stabilita' dell'ex Unione sovietica, che i nuovi Stati indipendenti sorti dopo lo scioglimento dell'Unione delle repubbliche socialiste sovietiche (in appresso denominati "Stati indipendenti") mantengano e sviluppino la cooperazione tra di essi conformemente ai principi dell'Atto finale di Helsinki e al diritto internazionale, in uno spirito di buon vicinato, e che moltiplichino gli sforzi per promuovere questo processo.
 
 In considerazione di quanto precede, le Parti ritengono di dover tenere debitamente conto, nello sviluppare le loro relazioni, del desiderio dell'Ucraina di mantenere vincoli di cooperazione con gli altri Stati indipendenti.
 
-##### ARTICOLO 4
+#### ARTICOLO 4
 
 Le Parti si impegnano, soprattutto quando il processo di riforma economica in Ucraina sara' ulteriormente progredito, ad esaminare la possibilita' di ampliare i titoli pertinenti dell'accordo, segnatamente il Titolo III e l'articolo 49, per instaurare fra di esse una zona di libero scambio. Il Consiglio di cooperazione puo' fare alle Parti raccomandazioni al riguardo. Agli eventuali ampliamenti si potra' procedere soltanto previo accordo tra le Parti conformemente alle rispettive procedure. Le Parti si consulteranno nel 1998 per decidere se le circostanze, e in particolare i progressi compiuti dall'Ucraina nell'attuare le riforme economiche orientate verso il mercato e le condizioni economiche prevalenti a quel momento, consentono di avviare negoziati per la creazione della zona di libero scambio.
 
-##### ARTICOLO 5
+#### ARTICOLO 5
 
 Le Parti si impegnano, ad esaminare insieme e a concordare le eventuali modifiche da apportare a qualsiasi parte dell'accordo per le mutate circostanze, in particolare a seguito dell'adesione dell'Ucraina al GATT. Il primo esame avverra' dopo tre anni dall'entrata in vigore dell'accordo oppure, se questa data e' precedente, nel momento in cui l'Ucraina diventera' Parte contraente del GATT.
 
 ## TITOLO II - DIALOGO POLITICO
 
-##### ARTICOLO 6
+#### ARTICOLO 6
 
 Le Parti avviano un regolare dialogo politico, che svilupperanno e intensificheranno in seguito per accompagnare e consolidare il riavvicinamento tra la Comunita' e l'Ucraina, sostenere i mutamenti politici ed economici in corso in questo paese e contribuire ad instaurare nuove forme di cooperazione. Detto dialogo politico:
 
@@ -201,13 +201,13 @@ Le Parti avviano un regolare dialogo politico, che svilupperanno e intensificher
 
 \- impegnera' le Parti a collaborare per il rafforzamento della stabilita' e della sicurezza in Europa, l'osservanza dei principi della democrazia, il rispetto e la tutela dei diritti dell'uomo, segnatamente quelli delle minoranze; all'occorrenza, saranno previste consultazioni sulle questioni pertinenti.
 
-##### ARTICOLO 7
+#### ARTICOLO 7
 
 Si terranno le necessarie consultazioni tra le Parti al massimo livello politico.
 
 A livello ministeriale, il dialogo politico si svolgera' nell'ambito del Consiglio di cooperazione creato a norma dell'articolo 85 e in altre occasioni tra cui, previo mutuo accordo, la troika dell'Unione.
 
-##### ARTICOLO 8
+#### ARTICOLO 8
 
 Le Parti creeranno altre procedure e altri meccanismi per il dialogo politico mediante opportuni contatti, scambi e consultazioni, segnatamente:
 
@@ -219,13 +219,13 @@ Le Parti creeranno altre procedure e altri meccanismi per il dialogo politico me
 
 \- utilizzando qualsiasi altro mezzo che possa contribuire a consolidare e a sviluppare il dialogo politico.
 
-##### ARTICOLO 9
+#### ARTICOLO 9
 
 A livello parlamentare, il dialogo politico si svolgera' nell'ambito della Commissione parlamentare per la cooperazione creata a norma dell'articolo 90.
 
 ## TITOLO III - SCAMBI DI MERCI
 
-##### ARTICOLO 10
+#### ARTICOLO 10
 
 1\. Le Parti si concedono reciprocamente il trattamento della nazione piu' favorita a norma dell'articolo 1, paragrafo 1 del GATT.
 
@@ -237,7 +237,7 @@ b) ai vantaggi concessi a paesi particolarI conformemente al GATT e ad altre int
 
 c) ai vantaggi concessi ai paesi limitrofi per agevolare il traffico frontaliero.
 
-##### ARTICOLO 11
+#### ARTICOLO 11
 
 1\. Le Parti convengono che la liberta' di transito delle merci e' fondamentale per conseguire gli obiettivi del presente accordo.
 
@@ -247,25 +247,25 @@ A tale riguardo, ciascuna delle Parti consente il transito senza restrizioni att
 
 3\. Le disposizioni del presente articolo lasciano impregiudicate tutte le norme speciali relative a settori particolari quali i trasporti o a determinati prodotti concordati tra le Parti.
 
-##### ARTICOLO 12
+#### ARTICOLO 12
 
 Le disposizioni dell'articolo 10, paragrafo 1 e dell'articolo 11, paragrafo 2 non si applicano, per un periodo transitorio che scadra' il 31 dicembre 1998 o, se precedente, al momento dell'adesione dell'Ucraina al GATT, ai vantaggi definiti nell'allegato I concessi dall'Ucraina agli altri Stati indipendenti a decorrere dal giorno che precede l'entrata in vigore dell'accordo.
 
-##### ARTICOLO 13
+#### ARTICOLO 13
 
 Fatti salvi i diritti e gli obblighi derivanti dalle convenzioni internazionali sull'ammissione temporanea delle merci a cui hanno aderito entrambe le Parti, queste ultime si concedono reciprocamente l'esenzione dagli oneri all'importazione e dai dazi sulle merci in ammissione temporanea, nei casi e secondo le procedure previsti da qualsiasi altra convenzione in materia a cui abbiano aderito conformemente alle rispettive legislazioni. Si terra' conto delle condizioni in cui le Parti hanno accettato gli obblighi derivanti da tale convenzione.
 
-##### ARTICOLO 14
+#### ARTICOLO 14
 
 Le merci originarie dell'Ucraina e della Comunita' vengono importate, rispettivamente, nella Comunita' e in Ucraina in esenzione da restrizioni quantitative, fatte salve le disposizioni degli articoli 18, 21 e 22 e l'allegato II del presente accordo nonche' le disposizioni degli articolo 77, 81, 244, 249 e 280 dell'atto di adesione della Spagna e del Portogallo alle Comunita'.
 
-##### ARTICOLO 15
+#### ARTICOLO 15
 
 1\. I prodotti del territorio di una Parte importati nel territorio dell'altra Parte non sono soggetti ne' direttamente ne' indirettamente a tasse interne o ad altri oneri interni di nessuna specie, superiori a quelli applicati, direttamente o indirettamente, ai prodotti interni simili.
 
 2\. A questi prodotti viene inoltre concesso un trattamento non meno favorevole di quello concesso ai prodotti simili di origine nazionale conformemente a tutte le leggi, normative e condizioni specifiche per la vendita interna, la messa in vendita, l'acquisto, il trasporto, la distribuzione o l'uso di questi prodotti. Le disposizioni del presente paragrafo non pregiudicano l'applicazione dei vari oneri relativi al trasporto interno basati esclusivamente sulla gestione economica del mezzo di trasporto e non sulla nazionalita' del prodotto.
 
-##### ARTICOLO 16
+#### ARTICOLO 16
 
 I seguenti articoli del GATT si applicano, mutatis mutandis, tra le Parti:
 
@@ -277,11 +277,11 @@ I seguenti articoli del GATT si applicano, mutatis mutandis, tra le Parti:
 
 4\) Articolo X.
 
-##### ARTICOLO 17
+#### ARTICOLO 17
 
 Le merci vengono commercializzate tra le Parti ai prezzi di mercato.
 
-##### ARTICOLO 18
+#### ARTICOLO 18
 
 1\. Se un prodotto viene importato nel territorio di una delle Parti in quantitativi talmente aumentati o in condizioni tali da provocare o da minacciare di provocare grave pregiudizio ai produttori nazionali di prodotti simili o direttamente concorrenti, la Comunita' o l'Ucraina, a seconda dei casi, possono prendere le misure opportune attenendosi alle seguenti procedure e condizioni.
 
@@ -293,7 +293,7 @@ Le merci vengono commercializzate tra le Parti ai prezzi di mercato.
 
 5\. nello scegliere le misure previste dal presente articolo, le Parti contraenti privilegiano quelle meno pregiudizievoli per il conseguimento, degli obiettivi dell'accordo.
 
-##### ARTICOLO 19
+#### ARTICOLO 19
 
 Il presente Titolo, e in particolare l'articolo 18, non pregiudicano ne' compromettono minimamente l'adozione, ad opera di una delle Parti, di misure antidumping o compensative conformemente all'articolo VI del GATT, all'accordo sull'applicazione dell'articolo VI del GATT, all'accordo sull'interpretazione e sull'applicazione degli articoli VI, XVI e XXIII del GATT o alla relativa legislazione interna.
 
@@ -301,15 +301,15 @@ Per quanto riguarda le inchieste antidumping o antisovvenzioni, ciascuna Parte a
 
 Prima di istituire dazi antidumping o compensativi, ciascuna Parte fa il possibile per risolvere il problema in modo costruttivo.
 
-##### ARTICOLO 20
+#### ARTICOLO 20
 
 Il presente accordo lascia impregiudicati i divieti o le restrizioni all'importazione, all'esportazione o al transito giustificati da motivi di moralita' pubblica, di ordine pubblico, di pubblica sicurezza, dalla tutela della vita e della salute delle persone, degli animali o delle piante, dalla tutela delle risorse naturali, dalla protezione del patrimonio artistico, storico o archeologico nazionale, dalla tutela della proprieta' intellettuale, industriale o commerciale oppure da norme relative all'oro e all'argento. Tuttavia, tali divieti o restrizioni non devono costituire un mezzo di discriminazione arbitraria, ne' una restrizione dissimulata al commercio tra le Parti.
 
-##### ARTICOLO 21
+#### ARTICOLO 21
 
 Il presente Titolo non si applica agli scambi di prodotti tessili che rientrano nei capitoli 50-63 della nomenclatura combinata. Questi scambi sono disciplinati da un accordo a parte siglato il 5 maggio 1993 e applicato in via provvisoria dal 1 gennaio 1993.
 
-##### ARTICOLO 22
+#### ARTICOLO 22
 
 1\. Gli scambi dei prodotti contemplati dal trattato che istituisce la Comunita' europea del carbone e dell'acciaio sono disciplinati dalle disposizioni del presente Titolo, fatta eccezione per l'articolo 14 e, al momento dell'entrata in vigore, per le disposizioni di un accordo sul regime quantitativo applicabile agli scambi di prodotti CECA di acciaio.
 
@@ -317,23 +317,21 @@ Il presente Titolo non si applica agli scambi di prodotti tessili che rientrano 
 
 Il gruppo di contatto procede a regolari scambi di informazioni su tutte le questioni siderurgiche che interessano le Parti.
 
-##### ARTICOLO 23
+#### ARTICOLO 23
 
 Agli scambi di materiali nucleari si applicheranno le disposizioni di un accordo specifico che verra' concluso tra la Comunita' europea dell'energia atomica e l'Ucraina.
 
 ## TITOLO IV - DISPOSIZIONI RIGUARDANTI LE ATTIVITA' COMMERCIALI E GLI INVESTIMENTI
 
-### CAPITOLO I
+### CAPITOLO I - Condizioni di lavoro
 
-#### Condizioni di lavoro
-
-##### ARTICOLO 24
+#### ARTICOLO 24
 
 1\. Conformemente alle leggi, condizioni e procedure applicabili in ciascuno Stato membro, la Comunita' e gli Stati membri si adoperano per evitare che i cittadini ucraini legalmente impiegati sul territorio di uno Stato membro siano oggetto, rispetto ai loro cittadini, di discriminazioni basate sulla nazionalita' per quanto riguarda le condizioni di lavoro, di retribuzione o di licenziamento.
 
 2\. Conformemente alle leggi, condizioni e procedure applicabili in Ucraina, questo paese si adopera per evitare che i cittadini di uno Stato membro legalmente impiegati sul suo territorio siano oggetto di discriminazioni, rispetto ai suoi cittadini, basate sulla nazionalita' per quanto riguarda le condizioni di lavoro, di retribuzione o di licenziamento.
 
-##### ARTICOLO 25
+#### ARTICOLO 25
 
 Coordinamento della previdenza sociale
 
@@ -353,25 +351,25 @@ reversibilita' e quelle in seguito a infortuni sul lavoro o a malattie professio
 
 2\) adottare, secondo le condizioni e modalita' applicabili in Ucraina, le disposizioni necessarie per concedere ai lavoratori di uno Stato membro legalmente impiegati in Ucraina un trattamento simile a quello di cui al secondo trattino del paragrafo 1).
 
-##### ARTICOLO 26
+#### ARTICOLO 26
 
 Le misure prese in conformita' dell'articolo 25 non pregiudicano i diritti e gli obblighi previsti dagli accordi bilaterali tra l'Ucraina e gli Stati membri qualora detti accordi prevedano un trattamento piu' favorevole per i cittadini dell'Ucraina o degli Stati membri.
 
-##### ARTICOLO 27
+#### ARTICOLO 27
 
 Il Consiglio di cooperazione studia il modo di effettuare congiuntamente un controllo dell'immigrazione illegale tenendo conto del principio e della prassi della riammissione.
 
-##### ARTICOLO 28
+#### ARTICOLO 28
 
 Il Consiglio di cooperazione riflette su come migliorare le condizioni di lavoro per gli uomini d'affari conformemente agli impegni internazionali delle Parti, compresi quelli che figurano nel documento della conferenza CSCE di Bonn.
 
-##### ARTICOLO 29
+#### ARTICOLO 29
 
 Il Consiglio di cooperazione formula raccomandazioni per l'applicazione degli articoli 24, 27 e 28.
 
-## CAPITOLO II - Condizioni per lo stabilimento e l'attivita' delle societa'
+### CAPITOLO II - Condizioni per lo stabilimento e l'attivita' delle societa'
 
-##### ARTICOLO 30
+#### ARTICOLO 30
 
 1\. a) Conformemente alle rispettive legislazioni e normative, la Comunita' e gli Stati membri concedono alle societa' ucraine che si stabiliscono sul loro territorio un trattamento non meno favorevole di quello concesso alle societa' dei paesi terzi.
 
@@ -387,7 +385,7 @@ b) Conformemente alle sue legislazioni e normative, l'Ucraina concede alle conso
 
 Beneficiano del trattamento di cui ai paragrafi 1 e 2 le societa' stabilite nella Comunita' e in Ucraina alla data di entrata in vigore del presente accordo e, per le societa' stabilite successivamente a questa data, dopo lo stabilimento.
 
-##### ARTICOLO 31
+#### ARTICOLO 31
 
 1\. Fatte salve le disposizioni dell'articolo 104, le disposizioni dell'articolo 30 non si applicano al trasporto aereo, fluviale e marittimo.
 
@@ -407,7 +405,7 @@ e) la conclusione di accordi commerciali, compresa la partecipazione al capitale
 
 f) le operazioni effettuate a nome delle societa', l'organizzazione dello scalo della nave o, se necessario, la ripresa del carico.
 
-##### ARTICOLO 32
+#### ARTICOLO 32
 
 Ai fini del presente accordo:
 
@@ -425,7 +423,7 @@ f) per "attivita' economiche" s'intendono le attivita' di natura industriale, co
 
 g) per quanto riguarda il trasporto marittimo internazionale, comprese le operazioni intermodali che comprendono una tratta marittima, beneficiano delle disposizioni del presente capitolo e del capitolo III i cittadini degli Stati membri o dell'Ucraina stabiliti al di fuori della Comunita' o dell'Ucraina e le agenzie marittime stabilite al di fuori della Comunita' o dell'Ucraina e controllate da cittadini di uno Stato membro o dell'Ucraina, se le loro navi sono registrate in detto Stato membro o in Ucraina in conformita' delle rispettive legislazioni.
 
-##### ARTICOLO 33
+#### ARTICOLO 33
 
 1\. Fatte salve le altre disposizioni dell'accordo, ciascuna Parte puo' prendere misure cautelative per tutelare gli investitori, i depositanti, gli assicurati o le persone nei confronti delle quali un fornitore di servizi finanziari ha un obbligo fiduciario, oppure per garantire l'integrita' e la stabilita' del sistema finanziario.
 
@@ -433,11 +431,11 @@ Qualora tali misure non siano conformi alle disposizioni dell'accordo esse non v
 
 2\. Non ci si avvarra' di alcuna disposizione dell'accordo per chiedere a una Parte di rivelare informazioni relative agli affari e alla contabilita' dei singoli clienti ne' informazioni riservate o esclusive in possesso di enti pubblici.
 
-##### ARTICOLO 34
+#### ARTICOLO 34
 
 Le disposizioni del presente accordo non pregiudicano l'applicazione, ad opera delle Parti, delle misure necessarie per impedire l'elusione delle misure concernenti l'accesso dei paesi terzi al loro mercato attraverso le disposizioni del presente accordo.
 
-##### ARTICOLO 35
+#### ARTICOLO 35
 
 1\. Fatte salve le disposizioni del capitolo I, una societa' comunitaria o ucraina stabilita, rispettivamente, sul territorio dell'Ucraina o della Comunita' ha il diritto di assumere o di far assumere da una delle sue consociate o filiali, conformemente alla legislazione in vigore nel paese di stabilimento, sul territorio dell'Ucraina e della Comunita', cittadini degli Stati membri della Comunita' e dell'Ucraina, purche' si tratti di quadri intermedi ai sensi del paragrafo 2 impiegato esclusivamente da societa', consociate o filiali. I permessi di soggiorno e di lavoro di questi dipendenti coprono unicamente la durata di tale occupazione.
 
@@ -457,7 +455,7 @@ b) i dipendenti di un'organizzazione in possesso di conoscenze non comuni indisp
 
 c) per "persona trasferita all'interno della societa'" s'intende una persona fisica che lavora presso un'organizzazione sul territorio di una delle Parti e viene trasferita temporaneamente nel quadro di attivita' economiche svolte sul territorio dell'altra Parte; l'organizzazione in questione deve avere la sede principale sul territorio di una Parte e il trasferimento deve avvenire verso un'impresa (filiale, consociata) di questa organizzazione ed essere effettivamente giustificato da attivita' economiche simili sul territorio dell'altra Parte.
 
-##### ARTICOLO 36
+#### ARTICOLO 36
 
 1\. Le Parti si adoperano per evitare di prendere misure o avviare azioni tali da rendere le condizioni per lo stabilimento e l'attivita' delle societa' dell'altra Parte piu' restrittive rispetto alla situazione esistente il giorno che precede la firma dell'accordo.
 
@@ -467,19 +465,19 @@ c) per "persona trasferita all'interno della societa'" s'intende una persona fis
 
 4\. Qualora l'introduzione in Ucraina di nuove leggi o di nuovi regolamenti renda le condizioni per lo stabilimento di societa' comunitarie sul suo territorio e per l'attivita' delle consociate e filiali di societa' comunitarie stabilite in Ucraina piu' restrittive rispetto alla situazione esistente il giorno che precede la firma dell'accordo, dette leggi o detti regolamenti non si applicano, per i tre anni successivi all'entrata in vigore dell'atto corrispondente, alle consociate e filiali gia' stabilite in Ucraina al momento dell'entrata in vigore dell'atto stesso.
 
-## CAPITOLO III - Servizi transfrontalieri tra la Comunita' e l'Ucraina
+### CAPITOLO III - Servizi transfrontalieri tra la Comunita' e l'Ucraina
 
-##### ARTICOLO 37
+#### ARTICOLO 37
 
 1\. Conformemente alle disposizioni del presente capitolo, le Parti si impegnano a prendere le misure necessarie per autorizzare progressivamente la fornitura di servizi da parte di societa' comunitarie o ucraine stabilite in una Parte diversa da quella del destinatario dei servizi, tenendo conto dell'evoluzione dei settori terziari delle Parti.
 
 2\. Il Consiglio di cooperazione fa raccomandazioni per l'applicazione del paragrafo 1.
 
-##### ARTICOLO 38
+#### ARTICOLO 38
 
 Le Parti collaborano al fine di sviluppare in Ucraina un settore terziario orientato verso il mercato.
 
-##### ARTICOLO 39
+#### ARTICOLO 39
 
 1\. Le parti si impegnano ad applicare effettivamente il principio del libero accesso al mercato e al traffico marittimo internazionale su base commerciale.
 
@@ -503,35 +501,35 @@ Dopo un periodo transitorio che non dovra' protrarsi oltre il 1 luglio 1997, ogn
 
 3\. I cittadini e le societa' della Comunita' che forniscono servizi di trasporto marittimo internazionale sono autorizzati ad effettuare collegamenti internazionali mare-fiume lungo le idrovie dell'Ucraina e viceversa.
 
-##### ARTICOLO 40
+#### ARTICOLO 40
 
 Per garantire uno sviluppo coordinato dei trasporti tra le Parti in funzione delle loro esigenze commerciali, dopo l'entrata in vigore dell'accordo le Parti potranno negoziare, a norma dell'articolo 99, accordi specifici sulle condizioni del reciproco accesso al mercato nonche' sui servizi di trasporto stradale, ferroviario, fluviale e, se del caso, aereo.
 
-## CAPITOLO IV - Disposizioni generali
+### CAPITOLO IV - Disposizioni generali
 
-##### ARTICOLO 41
+#### ARTICOLO 41
 
 1\. L'applicazione delle disposizioni del presente Titolo e' soggetta alle limitazioni giustificate da motivi di ordine pubblico, pubblica sicurezza o pubblica sanita'.
 
 2\. Dette disposizioni non si applicano alle attivita' svolte sul territorio delle Parti e connesse, anche occasionalmente, all'esercizio dell'autorita' ufficiale.
 
-##### ARTICOLO 42
+#### ARTICOLO 42
 
 Ai fini del presente titolo, nessuno dei suoi elementi vieta alle Parti di applicare le rispettive leggi e normative in materia di ingresso e soggiorno, occupazione, condizioni di lavoro e di stabilimento delle persone fisiche e fornitura di servizi, purche' non le applichino in modo da vanificare o compromettere i vantaggi risultanti per una delle Parti da una disposizione specifica dell'accordo. Quanto precede non pregiudica l'applicazione dell'articolo 41.
 
-##### ARTICOLO 43
+#### ARTICOLO 43
 
 Beneficiano delle disposizioni dei capitoli II, III e IV anche le societa' controllate e possedute esclusivamente e congiuntamente da societa' ucraine e comunitarie.
 
-##### ARTICOLO 44
+#### ARTICOLO 44
 
 A decorrere dal primo giorno del mese che precede l'entrata in vigore dei corrispondenti obblighi dell'Accordo generale sul commercio e sui servizi (GATS), il trattamento concesso da ciascuna Parte all'altra in virtu' del presente accordo per i settori o le misure contemplati dal GATS non puo' comunque essere meno favorevole di quello concesso dalla Parte in questione a norma del GATS per ciascun settore, sottosettore e modo di fornitura dei servizi.
 
-##### ARTICOLO 45
+#### ARTICOLO 45
 
 Ai fini dei capitoli II, III e IV non si tiene conto del trattamento concesso dalla Comunita', dai suoi Stati membri o dall'Ucraina in base agli impegni assunti nel quadro di accordi di integrazione economica conformemente ai principi dell'articolo V del GATS.
 
-##### ARTICOLO 46
+#### ARTICOLO 46
 
 1\. Il trattamento della nazione piu' favorita concesso a norma del presente titolo non si applica ai vantaggi fiscali gia' concessi o che le Parti concederanno in base ad accordi tesi a evitare la doppia imposizione o ad altre intese fiscali.
 
@@ -539,7 +537,7 @@ Ai fini dei capitoli II, III e IV non si tiene conto del trattamento concesso da
 
 3\. Nessun elemento del presente titolo vieta agli Stati membri o all'Ucraina di fare distinzioni, nell'applicare le pertinenti disposizioni della loro legislazione tributaria, tra contribuenti la cui situazione non e' identica, segnatamente per quanto riguarda il luogo di residenza.
 
-##### ARTICOLO 47
+#### ARTICOLO 47
 
 Fatto salvo l'articolo 35, nessuna disposizione dei capitoli II, III e IV autorizza:
 
@@ -555,7 +553,7 @@ Fatto salvo l'articolo 35, nessuna disposizione dei capitoli II, III e IV autori
 
 ## TITOLO V - PAGAMENTI CORRENTI E CAPITALI
 
-##### ARTICOLO 48
+#### ARTICOLO 48
 
 1\. Le Parti si impegnano ad utilizzare l'uso di moneta liberamente convertibile per tutti i pagamenti sul conto corrente della bilancia dei pagamenti tra residenti della Comunita' e dell'Ucraina in relazione alla circolazione di beni, servizi o persone conformemente al disposto del presente accordo.
 
@@ -573,7 +571,7 @@ L'Ucraina informa tempestivamente il Consiglio di cooperazione dell'introduzione
 
 ## TITOLO VI - CONCORRENZA, TUTELA DELLA PROPRIETA' INTELLETTUALE, INDUSTRIALE E COMMERCIALE E COOPERAZIONE LEGISLATIVA
 
-##### ARTICOLO 49
+#### ARTICOLO 49
 
 1\. Le Parti decidono di collaborare per neutralizzare o abolire, applicando le rispettive leggi in materia di concorrenza o in altri modi, le restrizioni alla concorrenza tra imprese o quelle dovute a un intervento dello Stato qualora falsino gli scambi tra la Comunita' e l'Ucraina.
 
@@ -597,13 +595,13 @@ L'Ucraina informa tempestivamente il Consiglio di cooperazione dell'introduzione
 
 5\. Le suddette disposizioni non pregiudicano il diritto delle Parti di applicare misure adeguate, segnatamente quelle di cui all'articolo 19, per ovviare alle distorsioni negli scambi di beni e servizi.
 
-##### ARTICOLO 50
+#### ARTICOLO 50
 
 1\. Conformemente alle disposizioni del presente articolo e dell'allegato III, l'Ucraina continua a migliorare la tutela dei diritti di proprieta' intellettuale, industriale e commerciale al fine di garantire, entro la fine del quinto anno dall'entrata in vigore dell'accordo, un livello di protezione analogo a quello esistente nella Comunita', prevedendo anche strumenti efficaci a tale scopo.
 
 2\. Entro la fine del quinto anno dall'entrata in vigore dell'accordo, l'Ucraina aderira' alle convenzioni multilaterali sui diritti di proprieta' intellettuale, industriale e commerciale menzionati al paragrafo 1 dell'allegato III di cui sono parti gli Stati membri o che vengono applicati de facto dagli Stati membri secondo le pertinenti disposizioni di dette convenzioni.
 
-##### ARTICOLO 51
+#### ARTICOLO 51
 
 1\. Le Parti riconoscono che il ravvicinamento della legislazione attuale e futura dell'Ucraina a quella della Comunita' e' fondamentale per il consolidamento dei vincoli economici tra le Parti. L'Ucraina cerchera' pertanto di rendere la sua legislazione progressivamente compatibile con quella della Comunita'.
 
@@ -623,7 +621,7 @@ L'Ucraina informa tempestivamente il Consiglio di cooperazione dell'introduzione
 
 ## TITOLO VII - COOPERAZIONE ECONOMICA
 
-##### ARTICOLO 52
+#### ARTICOLO 52
 
 1\. La Comunita' e l'Ucraina avviano una cooperazione economica per favorire il processo di riforma e di rilancio dell'economia nonche' lo sviluppo sostenibile dell'Ucraina. La cooperazione rafforzera' e sviluppera' i vincoli economici a vantaggio di entrambe le Parti.
 
@@ -637,7 +635,7 @@ L'Ucraina informa tempestivamente il Consiglio di cooperazione dell'introduzione
 
 6\. Il Consiglio di cooperazione formula raccomandazioni per lo sviluppo della cooperazione nei settori di cui al paragrafo 3.
 
-##### ARTICOLO 53
+#### ARTICOLO 53
 
 Cooperazione industriale
 
@@ -659,7 +657,7 @@ Cooperazione industriale
 
 2\. Le disposizioni del presente articolo non pregiudicano l'applicazione delle regole di concorrenza comunitarie applicabili alle imprese.
 
-##### ARTICOLO 54
+#### ARTICOLO 54
 
 Promozione e tutela degli investimenti
 
@@ -677,13 +675,13 @@ Promozione e tutela degli investimenti
 
 \- gli scambi di informazioni sulle possibilita' di investimenti sotto forma di fiere commerciali, esposizioni, settimane commerciali e altre manifestazioni.
 
-##### ARTICOLO 55
+#### ARTICOLO 55
 
 Commesse pubbliche
 
 Le Parti collaborano per favorire la trasparenza e il rispetto delle regole di concorrenza nell'aggiudicazione degli appalti per beni e servizi, in particolare mediante bandi di gara.
 
-##### ARTICOLO 56
+#### ARTICOLO 56
 
 Cooperazione in materia di norme e di valutazione della conformita' 1. Le Parti cooperano per favorire l'allineamento con i criteri, i principi e gli orientamenti seguiti a livello internazionale in materia di qualita'. Le diverse azioni in questo campo agevoleranno il reciproco riconoscimento a livello di valutazione della conformita' oltre a migliorare la qualita' dei prodotti ucraini.
 
@@ -695,7 +693,7 @@ Cooperazione in materia di norme e di valutazione della conformita' 1. Le Parti 
 
 \- mettere in comune l'esperienza e le informazioni tecniche in materia di qualita'.
 
-##### ARTICOLO 57
+#### ARTICOLO 57
 
 Prodotti minerari e materie prime
 
@@ -715,7 +713,7 @@ Prodotti minerari e materie prime
 
 \- la sicurezza nell'industria mineraria.
 
-##### ARTICOLO 58
+#### ARTICOLO 58
 
 Cooperazione scientifica e tecnologica
 
@@ -737,7 +735,7 @@ Nello svolgere le attivita' di cooperazione, si rivolge particolare attenzione a
 
 3\. La cooperazione prevista al presente articolo si svolgera' in base ad intese specifiche da negoziare e concludere secondo le procedure adottate da ciascuna Parte definendo, tra l'altro, opportune disposizioni in materia di DPI.
 
-##### ARTICOLO 59
+#### ARTICOLO 59
 
 Istruzione e formazione
 
@@ -765,13 +763,13 @@ Istruzione e formazione
 
 3\. Ciascuna Parte puo' eventualmente partecipare, secondo le sue procedure, ai programmi dell'altra in materia di istruzione e formazione; se del caso, si stabiliranno quadri istituzionali e programmi di cooperazione basandosi sulla partecipazione dell'Ucraina al programma TEMPUS della Comunita'.
 
-##### ARTICOLO 60
+#### ARTICOLO 60
 
 Agricoltura e settore agroindustriale
 
 La cooperazione nel settore si prefigge il proseguimento della riforma agraria, l'ammodernamento, la privatizzazione e la ristrutturazione dell'agricoltura, dell'agroindustria e del terziario in Ucraina, lo sviluppo dei mercati interno ed estero per i prodotti ucraini, tutelando anche l'ambiente e tenendo conto dell'esigenza di regolarizzare l'approvvigionamento alimentare. Le Parti cercheranno inoltre di ravvicinare progressivamente le norme ucraine alle norme tecniche comunitarie in materia di prodotti alimentari industriali e agricoli, comprese le norme sanitarie e fitosanitarie.
 
-##### ARTICOLO 61
+#### ARTICOLO 61
 
 Energia
 
@@ -797,7 +795,7 @@ Energia
 
 \- la gestione e la formazione tecnica nel settore energetico.
 
-##### ARTICOLO 62
+#### ARTICOLO 62
 
 Cooperazione nel settore nucleare civile
 
@@ -827,7 +825,7 @@ Cooperazione nel settore nucleare civile
 
 \- altri settori decisi dalle Parti di comune accordo.
 
-##### ARTICOLO 63
+#### ARTICOLO 63
 
 Ambiente
 
@@ -881,7 +879,7 @@ Ambiente
 
 \- studi sull'impatto ambientale.
 
-##### ARTICOLO 64
+#### ARTICOLO 64
 
 Trasporti
 
@@ -901,13 +899,13 @@ La cooperazione comprende:
 
 \- la preparazione di un contesto legislativo e istituzionale per l'elaborazione e l'applicazione delle varie politiche, compresa la privatizzazione del settore dei trasporti.
 
-##### ARTICOLO 65
+#### ARTICOLO 65
 
 Ricerca spaziale
 
 Compatibilmente con le rispettive competenze della Comunita', degli Stati membri e dell'Agenzia spaziale europea, le Parti favoriscono, se del caso, la cooperazione per la ricerca, lo sviluppo e le applicazioni commerciali nel settore spaziale civile, rivolgendo particolare attenzione alle iniziative che sfruttano appieno la complementarita' delle rispettive attivita' spaziali.
 
-##### ARTICOLO 66
+#### ARTICOLO 66
 
 Servizi postali e telecomunicazioni
 
@@ -929,7 +927,7 @@ Compatibilmente con i rispettivi poteri e con le rispettive competenze, le Parti
 
 \- impartire la formazione necessaria per gestire i servizi delle poste e telecomunicazioni in normali condizioni di mercato.
 
-##### ARTICOLO 67
+#### ARTICOLO 67
 
 Servizi finanziari
 
@@ -943,7 +941,7 @@ La cooperazione dovra' agevolare l'inserimento dell'Ucraina nei sistemi di trans
 
 \- la cooperazione contribuira' in particolare a sviluppare relazioni tra l'Ucraina e gli Stati membri nel settore dei servizi finanziari.
 
-##### ARTICOLO 68
+#### ARTICOLO 68
 
 Riciclaggio del denaro
 
@@ -951,13 +949,13 @@ Riciclaggio del denaro
 
 2\. La cooperazione nel settore comprende un'assistenza amministrativa e tecnica volta a definire norme adeguate contro il riciclaggio del denaro equivalenti a quelle adottate in materia dalla Comunita' e dai consessi internazionali, compresa la Task Force Azione Finanziaria (FATF).
 
-##### ARTICOLO 69
+#### ARTICOLO 69
 
 Politica monetaria
 
 Su richiesta delle autorita' ucraine, la Comunita' offre l'assistenza tecnica necessaria per aiutare l'Ucraina a creare e consolidare il suo sistema monetario, ad introdurre una nuova unita' monetaria convertibile a termine e ad adeguare gradatamente le sue politiche a quelle del Sistema monetario europeo. Sono previsti anche scambi informali di opinioni sui principi e sul funzionamento del Sistema monetario europeo.
 
-##### ARTICOLO 70
+#### ARTICOLO 70
 
 Sviluppo regionale
 
@@ -967,7 +965,7 @@ Sviluppo regionale
 
 Esse incoraggiano inoltre i contatti diretti tra le rispettive regioni e organizzazioni pubbliche incaricate di programmare lo sviluppo regionale per consentire loro di scambiare metodi e mezzi atti ad incentivare lo sviluppo regionale.
 
-##### ARTICOLO 71
+#### ARTICOLO 71
 
 Cooperazione sociale
 
@@ -999,7 +997,7 @@ La cooperazione prevede quanto segue:
 
 Dette riforme dovranno introdurre in Ucraina metodi di protezione consoni alle economie di mercato e comprenderanno tutte le forme di previdenza sociale.
 
-##### ARTICOLO 72
+#### ARTICOLO 72
 
 Turismo
 
@@ -1017,7 +1015,7 @@ Le Parti intensificano e sviluppano la cooperazione al fine di:
 
 \- impartire la formazione necessaria per sviluppare il turismo.
 
-##### ARTICOLO 73
+#### ARTICOLO 73
 
 Piccole e medie imprese
 
@@ -1031,19 +1029,19 @@ Piccole e medie imprese
 
 \- sviluppo delle tecnologie.
 
-##### ARTICOLO 74
+#### ARTICOLO 74
 
 Informazione e comunicazione
 
 Le Parti favoriscono l'uso di metodi moderni per il trattamento dell'informazione, anche a livello dei mass media, e un efficace scambio di informazioni. Si privilegeranno i programmi volti a diffondere tra la popolazione le informazioni di base sulla Comunita' e l'Ucraina compreso, nei limiti del possibile, l'accesso alle rispettive basi di dati nel pieno rispetto dei diritti di proprieta' intellettuale.
 
-##### ARTICOLO 75
+#### ARTICOLO 75
 
 Tutela dei consumatori
 
 Le Parti collaborano strettamente per rendere compatibili i rispettivi sistemi di tutela dei consumatori. Sono previste le seguenti iniziative: consulenze per la riforma legislativa e istituzionale, creazione di sistemi permanenti di informazione reciproca sui prodotti pericolosi, miglioramento dell'informazione fornita ai consumatori, segnatamente per quanto riguarda i prezzi, le caratteristiche dei prodotti e i servizi offerti, attivita' di formazione per i funzionari dell'amministrazione e per le altre persone che rappresentano gli interessi dei consumatori, sviluppo degli scambi tra coloro che rappresentano gli interessi dei consumatori, maggiore compatibilita' delle politiche di tutela dei consumatori.
 
-##### ARTICOLO 76
+#### ARTICOLO 76
 
 Dogane
 
@@ -1067,7 +1065,7 @@ Dogane
 
 3\. Fatta salva l'ulteriore cooperazione prevista nel presente accordo, in particolare all'articolo 79, l'assistenza reciproca tra le autorita' amministrative delle Parti per le questioni doganali e' disciplinata dalle disposizioni del protocollo allegato al presente accordo.
 
-##### ARTICOLO 77
+#### ARTICOLO 77
 
 Cooperazione statistica
 
@@ -1083,7 +1081,7 @@ In particolare, le Parti cooperano al fine di:
 
 La Comunita' fornisce all'Ucraina l'assistenza tecnica necessaria.
 
-##### ARTICOLO 78
+#### ARTICOLO 78
 
 Economia
 
@@ -1095,7 +1093,7 @@ La Comunita' fornisce assistenza tecnica per:
 
 \- favorire la cooperazione tra gli economisti onde accelerare il trasferimento del know how per l'elaborazione delle politiche economiche e procedere a una vasta diffusione dei risultati della ricerca in materia.
 
-##### ARTICOLO 79
+#### ARTICOLO 79
 
 Droga
 
@@ -1103,35 +1101,35 @@ Nell'ambito dei rispettivi poteri e delle rispettive competenze, le Parti cooper
 
 ## TITOLO VIII - COOPERAZIONE CULTURALE
 
-##### ARTICOLO 80
+#### ARTICOLO 80
 
 Le Parti si impegnano a promuovere, incoraggiare e agevolare la cooperazione culturale. All'occorrenza, si potranno estendere all'Ucraina i programmi di cooperazione culturale della Comunita' o di uno o piu' Stati membri nonche' sviluppare altre attivita' di reciproco interesse.
 
 ## TITOLO IX - COOPERAZIONE FINANZIARIA
 
-##### ARTICOLO 81
+#### ARTICOLO 81
 
 Per conseguire gli obiettivi del presente accordo e in conformita' degli articoli 82, 83 e 84, l'Ucraina beneficia di assistenza finanziaria temporanea fornita dalla Comunita' sotto forma di aiuti non rimborsabili per l'assistenza tecnica intesi ad accelerare la trasformazione economica del paese.
 
-##### ARTICOLO 82
+#### ARTICOLO 82
 
 Detta assistenza finanziaria e' disciplinata nel quadro del pertinente regolamento comunitario del Consiglio riguardante il TACIS.
 
-##### ARTICOLO 83
+#### ARTICOLO 83
 
 Gli obiettivi e i settori dell'assistenza finanziaria comunitaria vengono stabiliti in un programma indicativo che riflette le priorita' concordate tra le Parti in funzione delle esigenze dell'Ucraina, della capacita' di assorbimento dei vari settori e dello stato di avanzamento delle riforme. Le Parti ne informano il Consiglio di cooperazione.
 
-##### ARTICOLO 84
+#### ARTICOLO 84
 
 Per consentire un impiego ottimale delle risorse disponibili, le Parti si adoperano affinche' i contributi comunitari per l'assistenza tecnica siano erogati in stretto coordinamento con quelli provenienti da altre fonti quali gli Stati membri, altri paesi e organizzazioni internazionali tra cui la Banca internazionale per la ricostruzione e lo sviluppo, la Banca europea per la ricostruzione e lo sviluppo, il PSNU e il FMI.
 
 ## TITOLO X - DISPOSIZIONI ISTITUZIONALI, GENERALI E FINALI
 
-##### ARTICOLO 85
+#### ARTICOLO 85
 
 E' istituito un Consiglio di cooperazione incaricato di sorvegliare l'attuazione del presente accordo. Il Consiglio si riunisce a livello ministeriale una volta all'anno e quando le circostanze lo richiedono. Esso esamina tutte le questioni importanti inerenti all'accordo e qualunque altro problema bilaterale o internazionale di reciproco interesse per il conseguimento degli obiettivi dell'accordo. Il Consiglio di cooperazione puo' formulare opportune raccomandazioni con l'accordo di entrambe le Parti.
 
-##### ARTICOLO 86
+#### ARTICOLO 86
 
 1\. Il Consiglio di cooperazione e' composto da membri del Consiglio dell'Unione europea e della Commissione delle Comunita' europee, da un lato, e da membri del governo dell'Ucraina dall'altro.
 
@@ -1139,7 +1137,7 @@ E' istituito un Consiglio di cooperazione incaricato di sorvegliare l'attuazione
 
 3\. Il Consiglio di cooperazione e' presieduto a turno da un rappresentante della Comunita' e da un membro del governo dell'Ucraina.
 
-##### ARTICOLO 87
+#### ARTICOLO 87
 
 1\. Nell'esercizio delle sue funzioni, il Consiglio di cooperazione e' assistito da un Comitato di cooperazione composto da rappresentanti di membri del Consiglio dell'Unione europea e della Commissione delle Comunita' europee, da un lato, e da rappresentanti del governo dell'Ucraina, normalmente alti funzionari, dall'altro. Il Comitato di cooperazione e' presieduto a turno dalla Comunita' e dall'Ucraina.
 
@@ -1147,19 +1145,19 @@ Il regolamento interno del Consiglio di cooperazione stabilisce le funzioni del 
 
 2\. Il Consiglio di cooperazione puo' delegare taluni suoi poteri al Comitato di cooperazione, che assicura la continuita' tra le riunioni del Consiglio di cooperazione.
 
-##### ARTICOLO 88
+#### ARTICOLO 88
 
 Il Consiglio di cooperazione puo' decidere di creare tutti i comitati o organi speciali necessari per coadiuvarlo nell'esercizio delle sue funzioni, determinandone la composizione, le mansioni e le modalita' di funzionamento.
 
-##### ARTICOLO 89
+#### ARTICOLO 89
 
 Nell'esaminare le questioni sollevate da una disposizione del presente accordo che si riferisca a un articolo del GATT, il Consiglio di cooperazione tiene conto, per quanto possibile, dell'interpretazione data generalmente a detto articolo del GATT delle Parti contraenti del GATT.
 
-##### ARTICOLO 90
+#### ARTICOLO 90
 
 E' istituito un Comitato parlamentare di cooperazione, che riunisce e consente scambi di opinioni tra membri del Parlamento ucraino e del Parlamento europeo. Il Comitato stabilisce la frequenza delle proprie riunioni.
 
-##### ARTICOLO 91
+#### ARTICOLO 91
 
 1\. Il Comitato parlamentare di cooperazione e' composto da membri dei Parlamenti europeo e ucraino.
 
@@ -1167,7 +1165,7 @@ E' istituito un Comitato parlamentare di cooperazione, che riunisce e consente s
 
 3\. Il Comitato parlamentare di cooperazione e' presieduto a turno dal Parlamento europeo e dal Parlamento ucraino, conformemente al regolamento interno.
 
-##### ARTICOLO 92
+#### ARTICOLO 92
 
 Il Comitato parlamentare di cooperazione puo' chiedere tutte le informazioni utili per quanto riguarda l'esecuzione del presente accordo al Consiglio di cooperazione, che gli fornisce dette informazioni.
 
@@ -1175,7 +1173,7 @@ Il Comitato parlamentare di cooperazione viene informato delle raccomandazioni d
 
 Il Comitato parlamentare di cooperazione puo' presentare raccomandazioni al Consiglio di cooperazione.
 
-##### ARTICOLO 93
+#### ARTICOLO 93
 
 1\. Nell'ambito del presente accordo, ciascuna delle Parti si impegna a garantire che le persone fisiche e giuridiche dell'altra Parte possano adire senza discriminazioni, rispetto ai propri cittadini, i competenti organi giuridici e amministrativi delle Parti per tutelare i loro diritti individuali e di proprieta', inclusi quelli riguardanti la proprieta' intellettuale, industriale e commerciale.
 
@@ -1189,7 +1187,7 @@ Il Comitato parlamentare di cooperazione puo' presentare raccomandazioni al Cons
 
 \- incoraggiano il ricorso alle norme di arbitrato elaborate dalla Commissione delle Nazioni Unite per il diritto commerciale internazionale (UNCITRAL) e il ricorso all'arbitrato da parte di ogni organismo di uno Stato firmatario della convenzione per il riconoscimento e l'applicazione dei lodi arbitrali stranieri firmata il 10 giugno 1958 a New York.
 
-##### ARTICOLO 94
+#### ARTICOLO 94
 
 Nessun elemento dell'accordo impedisce a una delle Parti di prendere le misure:
 
@@ -1201,7 +1199,7 @@ c) che giudica essenziali per la propria sicurezza in caso di gravi disordini in
 
 d) che ritiene necessarie per adempiere agli obblighi e agli impegni internazionali sul controllo del duplice uso dei beni e delle tecnologie industriali.
 
-##### ARTICOLO 95
+#### ARTICOLO 95
 
 1\. Nei settori contemplati dal presente accordo e fatta salva qualsiasi disposizione speciale ivi contenuta:
 
@@ -1211,7 +1209,7 @@ d) che ritiene necessarie per adempiere agli obblighi e agli impegni internazion
 
 2\. Le disposizioni del paragrafo 1 non pregiudicano il diritto delle Parti di applicare le pertinenti disposizioni della loro normativa fiscale ai contribuenti che non si trovano in situazioni identiche per quanto riguarda il luogo di residenza.
 
-##### ARTICOLO 96
+#### ARTICOLO 96
 
 1\. Ciascuna Parte puo' adire il Consiglio di cooperazione per qualsiasi controversia relativa all'applicazione o all'interpretazione del presente accordo.
 
@@ -1223,29 +1221,29 @@ Il Consiglio di cooperazione designa un terzo conciliatore.
 
 Le raccomandazioni del conciliatore vengono adottate a maggioranza e non sono vincolanti per le Parti.
 
-##### ARTICOLO 97
+#### ARTICOLO 97
 
 Le Parti decidono di consultarsi tempestivamente, attraverso i canali appropriati, su richiesta di una di esse per discutere di tutte le questioni inerenti all'interpretazione o all'applicazione del presente accordo e su altri aspetti delle loro relazioni.
 
 Le disposizioni del presente articolo non pregiudicano gli articoli 18, 19, 96 e 102.
 
-##### ARTICOLO 98
+#### ARTICOLO 98
 
 Il trattamento riservato all'Ucraina a nome del presente accordo non puo' comunque essere piu' favorevole di quello che gli Stati membri si concedono reciprocamente.
 
-##### ARTICOLO 99
+#### ARTICOLO 99
 
 Ai fini del presente accordo, per "Parti" s'intende l'Ucraina, da un lato, e la Comunita', gli Stati membri o la Comunita' e gli Stati membri, a seconda dei rispettivi poteri, dall'altro.
 
-##### ARTICOLO 100
+#### ARTICOLO 100
 
 Nella misura in cui le questioni contemplate dal presente accordo rientrano nel trattato e nei protocolli della Carta europea per l'energia, a decorrere dall'entrata in vigore i suddetti trattato e protocolli si applicano, se ivi previsto, a tali questioni.
 
-##### ARTICOLO 101
+#### ARTICOLO 101
 
 Il presente accordo e' concluso per un periodo iniziale di dieci anni. Esso puo' essere automaticamente rinnovato di anno in anno a condizione che nessuna delle Parti lo denunci dandone notifica per iscritto all'altra Parte sei mesi prima della scadenza.
 
-##### ARTICOLO 102
+#### ARTICOLO 102
 
 1\. Le Parti prendono tutte le misure generali o specifiche necessarie per l'adempimento degli obblighi previsti dall'accordo e si adoperano per il conseguimento dei suoi obiettivi.
 
@@ -1255,27 +1253,27 @@ Prima di procedere, fatta eccezione per i casi particolarmente urgenti, essa for
 
 Nella scelta delle misure, si privilegiano quello che meno perturbano il funzionamento dell'accordo. Se l'altra Parte lo richiede, le misure decise vengono comunicate senza indugio al Consiglio di cooperazione.
 
-##### ARTICOLO 103
+#### ARTICOLO 103
 
 Gli allegati I, II, III, IV e V, con la relativa appendice, e il protocollo sono parte integrante del presente accordo.
 
-##### ARTICOLO 104
+#### ARTICOLO 104
 
 Fino a quando i privati cittadini e gli operatori economici non godranno degli stessi diritti a norma del presente accordo, esso non pregiudica i diritti loro garantiti dagli accordi in vigore tra uno o piu' Stati membri, da una parte, e l'Ucraina, dall'altra, fatta eccezione per i settori di competenza comunitaria e fatti salvi gli obblighi che l'accordo impone agli Stati membri nei settori di loro competenza.
 
-##### ARTICOLO 105
+#### ARTICOLO 105
 
 Il presente accordo si applica, da una parte, ai territori in cui si applicano i trattati che istituiscono la Comunita' europea, la Comunita' europea dell'energia atomica e la Comunita' europea del carbone e dell'acciaio, alle condizioni in esso indicate, e, dall'altra, al territorio dell'Ucraina.
 
-##### ARTICOLO 106
+#### ARTICOLO 106
 
 Il Segretario generale del Consiglio dell'Unione europea e' il depositario del presente accordo.
 
-##### ARTICOLO 107
+#### ARTICOLO 107
 
 L'originale dell'accordo, le cui versioni in lingua danese, francese, greca, inglese, italiana, olandese, portoghese, spagnola, tedesca e ucraina fanno ugualmente fede, e' depositato presso il Segretario generale del Consiglio dell'Unione europea.
 
-##### ARTICOLO 108
+#### ARTICOLO 108
 
 Il presente accordo e' approvato dalle Parti conformemente alle rispettive procedure.
 
@@ -1283,7 +1281,7 @@ L'accordo entra in vigore il primo giorno del secondo mese successivo alla data 
 
 A decorrere dalla sua entrata in vigore il presente accordo sostituisce, per quanto riguarda le relazioni tra l'Ucraina e la Comunita', l'accordo tra la Comunita' economica europea e la Comunita' europea dell'energia atomica e l'Unione delle repubbliche socialiste sovietiche sugli scambi e sulla cooperazione economica e commerciale, firmato il 18 dicembre 1989 a Bruxelles.
 
-##### ARTICOLO 109
+#### ARTICOLO 109
 
 Qualora, in attesa che siano espletate le procedure necessarie per l'entrata in vigore del presente accordo, le disposizioni di alcune sue parti vengano applicate nel 1994 mediante un accordo intermedio tra la Comunita' e l'Ucraina, le Parti contraenti decidono che, nella fattispecie, per "data di entrata in vigore dell'accordo" s'intende la data di entrata in vigore dell'accordo interinale.
 
@@ -1291,37 +1289,37 @@ Fatto a Lussemburgo, addi' quattordici giugno
 
 millenovecentonovantaquattro.
 
-##### Elenco allegati
+#### Elenco allegati
 
 Elenco allegati
 
 Parte di provvedimento in formato grafico
 
-##### Allegato I
+#### Allegato I
 
 Allegato I
 
 Parte di provvedimento in formato grafico
 
-##### Allegato II
+#### Allegato II
 
 Allegato II
 
 Parte di provvedimento in formato grafico
 
-##### Allegato III
+#### Allegato III
 
 Allegato III
 
 Parte di provvedimento in formato grafico
 
-##### Allegato IV
+#### Allegato IV
 
 Allegato IV
 
 Parte di provvedimento in formato grafico
 
-##### Allegato V
+#### Allegato V
 
 Allegato V
 
@@ -1331,19 +1329,19 @@ Appendice all'Allegato V
 
 Parte di provvedimento in formato grafico
 
-##### Protocollo
+#### Protocollo
 
 Protocollo
 
 Parte di provvedimento in formato grafico
 
-##### Atto finale
+#### Atto finale
 
 Atto finale
 
 Parte di provvedimento in formato grafico
 
-##### Dichiarazioni
+#### Dichiarazioni
 
 Dichiarazioni
 

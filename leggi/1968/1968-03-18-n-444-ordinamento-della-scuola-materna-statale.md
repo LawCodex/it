@@ -26,7 +26,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1 - Caratteri e finalita' della scuola materna statale
+## Art. 1 - Caratteri e finalita' della scuola materna statale
 
 La scuola materna statale, che accoglie i bambini nell'eta' prescolastica da tre a sei anni, e' disciplinata dalle norme della presente legge.
 
@@ -40,7 +40,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato "l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (ordinamento della scuola materna statale) limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-### Art. 2 - Orientamenti dell'attivita' educativa
+## Art. 2 - Orientamenti dell'attivita' educativa
 
 Gli orientamenti dell'attivita' educativa nelle scuole materne statali sono emanati, con decreto del Presidente della Repubblica, su proposta del Ministro per la pubblica istruzione, sentita la terza sezione del Consiglio superiore della pubblica istruzione, entro sei mesi dall'entrata in vigore della presente legge.
 
@@ -52,7 +52,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato "l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (ordinamento della scuola materna statale) limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-### Art. 3 - Programma annuale di sviluppo
+## Art. 3 - Programma annuale di sviluppo
 
 Con decreto del Ministro per la pubblica istruzione, di concerto con il Ministro per il tesoro, e' determinato, distintamente per ciascuna provincia, il piano annuale delle nuove istituzioni di sezioni di scuole materne statali, su motivate proposte formulate dai provveditori agli studi, sentiti i consigli provinciali scolastici e considerate le richieste dei comuni.
 
@@ -68,7 +68,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato "l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (ordinamento della scuola materna statale) limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-### Art. 4 - Sezioni ed orario
+## Art. 4 - Sezioni ed orario
 
 Le scuole materne statali sono composte normalmente di tre sezioni corrispondenti all'eta' dei bambini; le sezioni non possono comunque superare il numero di nove.
 
@@ -88,7 +88,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato "l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (ordinamento della scuola materna statale) limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-### Art. 5 - Assistenza
+## Art. 5 - Assistenza
 
 L'assistenza, compresa quella sanitaria e assicurativa, agli alunni della scuola materna statale e' regolata secondo le norme in vigore per gli alunni della scuola elementare. ((1))
 
@@ -98,7 +98,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato "l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (ordinamento della scuola materna statale) limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-### Art. 6 - Edilizia
+## Art. 6 - Edilizia
 
 ((IL D.LGS. 18 AGOSTO 2000, N. 267 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE COMMA)). (3)
 
@@ -126,7 +126,7 @@ AGGIORNAMENTO (3)
 
 La L. 8 giugno 1990, n. 142 ha disposto (con l'art. 64, comma 1, lettera d)) l'abrogazione del primo comma del presente articolo, "intendendosi attribuita ai comuni la relativa competenza in materia di edilizia scolastica" , "Salvo quanto previsto dall'articolo 59, comma 2".
 
-### Art. 7 - Oneri dei comuni
+## Art. 7 - Oneri dei comuni
 
 La manutenzione, il riscaldamento, le spese normali di gestione e la custodia degli edifici delle scuole materne statali sono a carico del comune ove hanno sede le scuole. E' ugualmente a carico del comune il personale di custodia.
 
@@ -138,7 +138,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato "l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (ordinamento della scuola materna statale) limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-### Art. 8 - Rappresentanza presso il Consiglio superiore della pubblica istruzione
+## Art. 8 - Rappresentanza presso il Consiglio superiore della pubblica istruzione
 
 L'attuale terza sezione del Consiglio superiore della pubblica istruzione viene integrata da una insegnante di ruolo di scuola materna statale. Entro tre anni dalla entrata in vigore della presente legge, sara' assicurata la rappresentanza elettiva presso il Consiglio superiore della pubblica istruzione del personale insegnante, direttivo e ispettivo delle scuole materne statali. (1) ((2))
 
@@ -154,7 +154,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza del 8 - 16 giugno 1983, n. 173 (in G.U. 1a s.s. 22/6/1983, n. 170) ha dichiarato ex art. 27 della legge 11 marzo 1953, n. 87, l'illegittimita' costituzionale degli artt. 8, 10, 11, secondo comma, 18, terzo comma, 19, 20, 28 della citata legge n. 444 del 1968 nella parte in cui tali disposizioni si riferiscono alle insegnanti, invece che al corpo docente di ambo i sessi.
 
-### Art. 9 - Ispettrici, direttrici, insegnanti e assistenti della scuola materna statale - Requisiti
+## Art. 9 - Ispettrici, direttrici, insegnanti e assistenti della scuola materna statale - Requisiti
 
 Le ispettrici debbono essere fornite della laurea in pedagogia. Le direttrici debbono essere fornite di diploma di vigilanza o della laurea in pedagogia.
 
@@ -174,7 +174,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza del 8 - 16 giugno 1983, n. 173 (in G.U. 1a s.s. 22/6/1983, n. 170) ha dichiarato l'illegittimita' costituzionale "dell'art. 9 della legge 18 marzo 1968, n. 444 ("Ordinamento della scuola materna statale"), nella parte in cui tali disposizioni escludono gli alunni e candidati privatisti di sesso maschile rispettivamente dalla frequenza della scuola magistrale e dai relativi esami di abilitazione e gli insegnanti di sesso maschile dall'attivita' didattica della scuola statale del grado preparatorio".
 
-### Art. 10 - Insegnanti delle scuole e classi speciali - Requisiti
+## Art. 10 - Insegnanti delle scuole e classi speciali - Requisiti
 
 Le insegnanti addette alle scuole ed alle sezioni destinate ai bambini di cui ai commi terzo e quarto dello articolo 3 della presente legge debbono essere fornite di diploma specifico riconosciuto dal Ministero della pubblica istruzione. (1) ((2))
 
@@ -190,7 +190,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza del 8 - 16 giugno 1983, n. 173 (in G.U. 1a s.s. 22/6/1983, n. 170) ha dichiarato ex art. 27 della legge 11 marzo 1953, n. 87, l'illegittimita' costituzionale degli artt. 8, 10, 11, secondo comma, 18, terzo comma, 19, 20, 28 della citata legge n. 444 del 1968 nella parte in cui tali disposizioni si riferiscono alle insegnanti, invece che al corpo docente di ambo i sessi.
 
-### Art. 11 - Ruoli
+## Art. 11 - Ruoli
 
 Le direttrici e le ispettrici della scuola materna statale costituiscono un ruolo organico nazionale.
 
@@ -208,7 +208,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza del 8 - 16 giugno 1983, n. 173 (in G.U. 1a s.s. 22/6/1983, n. 170) ha dichiarato ex art. 27 della legge 11 marzo 1953, n. 87, l'illegittimita' costituzionale degli artt. 8, 10, 11, secondo comma, 18, terzo comma, 19, 20, 28 della citata legge n. 444 del 1968 nella parte in cui tali disposizioni si riferiscono alle insegnanti, invece che al corpo docente di ambo i sessi.
 
-### Art. 12 - Ispettrici della scuola materna statale
+## Art. 12 - Ispettrici della scuola materna statale
 
 Le ispettrici esercitano funzioni organizzative e di vigilanza delle scuole materne ed hanno le attribuzioni ed esse devolute per legge e regolamento.
 
@@ -222,7 +222,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato "l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (ordinamento della scuola materna statale) limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-### Art. 13 - Direttrici della scuola materna statale
+## Art. 13 - Direttrici della scuola materna statale
 
 Le direttrici soprintendono al funzionamento ed alle attivita' delle scuole materne statali del rispettivo circolo.
 
@@ -234,7 +234,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato "l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (ordinamento della scuola materna statale) limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-### Art. 14 - Insegnanti della scuola materna statale
+## Art. 14 - Insegnanti della scuola materna statale
 
 Le insegnanti hanno la responsabilita' educativa della sezione che ad esse e' affidata.
 
@@ -248,7 +248,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato "l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (ordinamento della scuola materna statale) limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-### Art. 15 - Assistenti della scuola materna statale
+## Art. 15 - Assistenti della scuola materna statale
 
 Le assistenti coadiuvano le insegnanti nella vigilanza e nell'assistenza dei bambini.
 
@@ -262,7 +262,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato "l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (ordinamento della scuola materna statale) limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-### Art. 16 - Documenti e controlli sanitari per il personale della scuola materna statale
+## Art. 16 - Documenti e controlli sanitari per il personale della scuola materna statale
 
 Il personale di ruolo e non di ruolo della scuola materna statale, prima della assunzione in servizio, deve presentare gli stessi documenti sanitari richiesti per l'assunzione in servizio del personale della scuola elementare statale.
 
@@ -274,7 +274,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato "l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (ordinamento della scuola materna statale) limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-### Art. 17 - Carriera e trattamento economico del personale delle scuole materne statali
+## Art. 17 - Carriera e trattamento economico del personale delle scuole materne statali
 
 Al personale ispettivo, direttivo ed insegnante della scuola materna statale spettano lo svolgimento di carriera e il trattamento economico del corrispondente personale della scuola elementare.
 
@@ -286,7 +286,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato "l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (ordinamento della scuola materna statale) limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-### Art. 18 - Stato giuridico del personale della scuola materna statale
+## Art. 18 - Stato giuridico del personale della scuola materna statale
 
 Le norme di stato giuridico del personale ispettivo, direttivo ed insegnante della scuola elementare statale, nonche' le norme che regolano l'assistenza e la previdenza, compresa la iscrizione obbligatoria all'ente nazionale di assistenza magistrale, sono estese al personale ispettivo, direttivo ed insegnante della scuola materna statale. Le norme di stato giuridico del personale della carriera esecutiva delle amministrazioni dello Stato sono estese, in quanto applicabili, al personale assistente della scuola materna statale.
 
@@ -306,7 +306,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza del 8 - 16 giugno 1983, n. 173 (in G.U. 1a s.s. 22/6/1983, n. 170) ha dichiarato ex art. 27 della legge 11 marzo 1953, n. 87, l'illegittimita' costituzionale degli artt. 8, 10, 11, secondo comma, 18, terzo comma, 19, 20, 28 della citata legge n. 444 del 1968 nella parte in cui tali disposizioni si riferiscono alle insegnanti, invece che al corpo docente di ambo i sessi.
 
-### Art. 19 - Direzione didattica
+## Art. 19 - Direzione didattica
 
 E' posta a disposizione di ogni direzione didattica una segreteria scelta tra le insegnanti di ruolo della scuola materna statale, che abbiano seguito un corso di qualificazione giuridico-amministrativo.
 
@@ -324,7 +324,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza del 8 - 16 giugno 1983, n. 173 (in G.U. 1a s.s. 22/6/1983, n. 170) ha dichiarato ex art. 27 della legge 11 marzo 1953, n. 87, l'illegittimita' costituzionale degli artt. 8, 10, 11, secondo comma, 18, terzo comma, 19, 20, 28 della citata legge n. 444 del 1968 nella parte in cui tali disposizioni si riferiscono alle insegnanti, invece che al corpo docente di ambo i sessi.
 
-### Art. 20 - Consiglio delle insegnanti e consiglio di direzione
+## Art. 20 - Consiglio delle insegnanti e consiglio di direzione
 
 Presso ogni scuola materna statale costituita almeno da tre sezioni e' istituito il consiglio delle insegnanti.
 
@@ -344,7 +344,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza del 8 - 16 giugno 1983, n. 173 (in G.U. 1a s.s. 22/6/1983, n. 170) ha dichiarato ex art. 27 della legge 11 marzo 1953, n. 87, l'illegittimita' costituzionale degli artt. 8, 10, 11, secondo comma, 18, terzo comma, 19, 20, 28 della citata legge n. 444 del 1968 nella parte in cui tali disposizioni si riferiscono alle insegnanti, invece che al corpo docente di ambo i sessi.
 
-### Art. 21 - Contributi dello Stato ai comuni per le scuole materne statali
+## Art. 21 - Contributi dello Stato ai comuni per le scuole materne statali
 
 I contributi dello Stato, previsti dall'articolo 7 della legge 16 settembre 1960, n. 1014, riguarderanno anche le spese di pertinenza dei comuni previste dall'articolo 7 della presente legge.
 
@@ -356,7 +356,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato "l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (ordinamento della scuola materna statale) limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-### Art. 22 - Trasformazione dei giardini d'infanzia e delle scuole materne annesse alle scuole magistrati in scuole materne statali
+## Art. 22 - Trasformazione dei giardini d'infanzia e delle scuole materne annesse alle scuole magistrati in scuole materne statali
 
 I giardini d'infanzia, istituiti con regio decreto 6 maggio 1923, n. 1054, sono trasformati in scuole materne statali, a norma della presente legge.
 
@@ -374,7 +374,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato "l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (ordinamento della scuola materna statale) limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-### Art. 23 - Concorso speciale
+## Art. 23 - Concorso speciale
 
 Le direttrici e le insegnanti di scuole materne non statali che siano state assunte per pubblico concorso possono essere ammesse, mediante concorso speciale, nei ruoli della scuola materna statale, nei limiti di un quinto dei posti annualmente disponibili, col riconoscimento del servizio prestato. ((1))
 
@@ -384,7 +384,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato "l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (ordinamento della scuola materna statale) limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-### Art. 24 - Regolamento di esecuzione
+## Art. 24 - Regolamento di esecuzione
 
 Su proposta del Ministro per la pubblica istruzione, di concerto con il Ministro per il tesoro, il Governo emanera' entro sei mesi dall'entrata in vigore della presente legge il regolamento di esecuzione.
 
@@ -396,7 +396,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato "l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (ordinamento della scuola materna statale) limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-### Art. 25 - Spese degli enti pubblici territoriali
+## Art. 25 - Spese degli enti pubblici territoriali
 
 Le spese degli enti pubblici territoriali per la istituzione ed il mantenimento di scuole materne da essi gestite sono obbligatorie. ((1))
 
@@ -408,7 +408,7 @@ La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 
 
 ## NORME TRANSITORIE
 
-### Art. 26 - Vigilanza delle scuole materne statali
+## Art. 26 - Vigilanza delle scuole materne statali
 
 Fino a quando non siano costituiti i ruoli previsti dall'articolo 11, primo comma, della presente legge, la vigilanza delle scuole materne statali e' affidata, nell'ambito della propria circoscrizione, all'ispettore scolastico e la direzione delle scuole materne statali, nell'ambito del proprio circolo, al direttore didattico della scuola elementare. ((1))
 
@@ -418,7 +418,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato "l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (ordinamento della scuola materna statale) limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-### Art. 27 - Concorso speciale direttivo
+## Art. 27 - Concorso speciale direttivo
 
 Nella prima applicazione della presente legge e' indetto un concorso speciale per l'immissione nel ruolo delle direttrici delle scuole materne statali riservato sia alle insegnanti di ruolo nei giardini d'infanzia di cui al primo comma dell'articolo 22, sia alle insegnanti di ruolo delle scuole materne annesse alle scuole magistrali statali, che abbiano prestato non meno di 10 anni di servizio di ruolo. ((1))
 
@@ -428,7 +428,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato "l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (ordinamento della scuola materna statale) limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-### Art. 28 - Concorsi
+## Art. 28 - Concorsi
 
 Il primo concorso, di cui al secondo comma degli articoli 14 e 15 e all'articolo 27, sara' bandito per tutti i posti istituiti in organico entro un anno dall'entrata in vigore della presente legge.
 
@@ -446,7 +446,7 @@ AGGIORNAMENTO (2)
 
 La Corte Costituzionale con sentenza del 8 - 16 giugno 1983, n. 173 (in G.U. 1a s.s. 22/6/1983, n. 170) ha dichiarato ex art. 27 della legge 11 marzo 1953, n. 87, l'illegittimita' costituzionale degli artt. 8, 10, 11, secondo comma, 18, terzo comma, 19, 20, 28 della citata legge n. 444 del 1968 nella parte in cui tali disposizioni si riferiscono alle insegnanti, invece che al corpo docente di ambo i sessi.
 
-### Art. 29 - Prima applicazione della legge
+## Art. 29 - Prima applicazione della legge
 
 L'entrata in funzione della scuola materna statale e' stabilita a decorrere dal 1 ottobre successivo all'entrata in vigore della presente legge.
 
@@ -458,7 +458,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato "l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (ordinamento della scuola materna statale) limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-### Art. 30
+## Art. 30
 
 (Finanziamenti degli oneri previsti, nella prima applicazione della
 
@@ -472,7 +472,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato "l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (ordinamento della scuola materna statale) limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-### Art. 31 - Finanziamenti per l'istituzione e la gestione di scuole materne statali dal 1966 al 1970
+## Art. 31 - Finanziamenti per l'istituzione e la gestione di scuole materne statali dal 1966 al 1970
 
 Per la istituzione e la gestione di nuove sezioni di scuola materna statale, gli stanziamenti iscritti allo stesso fine nello stato di previsione della spesa del Ministero della pubblica istruzione nell'anno 1966, sono aumentati, per ciascuno degli anni dal 1966 al 1970, delle seguenti somme:
 
@@ -488,7 +488,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato "l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (ordinamento della scuola materna statale) limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-### Art. 32
+## Art. 32
 
 (Finanziamenti per assegni, premi, sussidi e
 
@@ -510,7 +510,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato "l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (ordinamento della scuola materna statale) limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-### Art. 33
+## Art. 33
 
 (Finanziamenti per l'edilizia della scuola materna
 
@@ -524,7 +524,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato "l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (ordinamento della scuola materna statale) limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-### Art. 34
+## Art. 34
 
 (Finanziamenti per l'edilizia delle
 
@@ -544,7 +544,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato "l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (ordinamento della scuola materna statale) limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-### Art. 35
+## Art. 35
 
 (Copertura finanziaria, relativamente agli
 
@@ -564,7 +564,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato "l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (ordinamento della scuola materna statale) limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-### Art. 36 - Utilizzazione degli stanziamenti
+## Art. 36 - Utilizzazione degli stanziamenti
 
 Tutti gli stanziamenti previsti dalla presente legge, non utilizzati nell'anno per cui sono stabiliti possono esserlo negli anni successivi, in deroga alle norme vigenti, per i fini per cui sono stati iscritti negli stati di previsione. Parimenti possono essere utilizzati negli anni successivi gli stanziamenti previsti dalla legge 24 luglio 1962, n. 1073 e dalla legge 13 luglio 1965, n: 874, non utilizzati alla data del 31 dicembre 1965. ((1))
 
@@ -574,7 +574,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato "l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (ordinamento della scuola materna statale) limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-### Art. 37
+## Art. 37
 
 (Relazione sull'applicazione annuale
 
@@ -588,7 +588,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale con sentenza del 18 - 30 dicembre 1968, n. 140 (in G.U. 1a s.s. 8/1/1969, n. 6) ha dichiarato "l'illegittimita' costituzionale della legge statale 18 marzo 1968, n. 444 (ordinamento della scuola materna statale) limitatamente alla sua applicabilita' alla Regione Trentino-Alto Adige".
 
-### Art. 38
+## Art. 38
 
 (Variazioni di bilancio conseguenti
 

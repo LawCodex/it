@@ -28,15 +28,13 @@ la seguente legge:
 
 ## TITOLO I - Natura ed organizzazione del Fondo
 
-### CAPO I
+### CAPO I - Denominazione, scopi ed ordinamento del Fondo
 
-#### Denominazione, scopi ed ordinamento del Fondo
-
-##### Art. 1
+#### Art. 1
 
 Il "Fondo di previdenza a favore degli impiegati dipendenti dalle esattorie e ricevitorie delle imposte dirette", istituito con l'art. 110 del testo unico delle leggi sulla riscossione delle imposte dirette, approvato con il regio decreto 17 ottobre 1922, n. 1401, modificato con il regio decreto-legge 4 maggio 1936, n. 971, assume la struttura, di cui alla presente legge e la denominazione di "Fondo di previdenza per gli impiegati dipendenti dalle esattorie e ricevitorie delle imposte dirette"; esso costituisce una gestione autonoma in seno all'Istituto nazionale della previdenza sociale.
 
-##### Art. 2
+#### Art. 2
 
 Il Fondo ha lo scopo:
 
@@ -46,7 +44,7 @@ Il Fondo ha lo scopo:
 
 ((COMMA ABROGATO DALLA L. 29 LUGLIO 1971, N. 587)).
 
-##### Art. 3
+#### Art. 3
 
 Il Fondo provvede a corrispondere all'iscritto e ai suoi superstiti, unitamente alla integrazione di cui al primo comma, punto 1) del precedente articolo, la pensione dovuta dall'assicurazione obbligatoria per l'invalidita', la vecchiaia e i superstiti in relazione ai contributi per qualsiasi titolo versati o computati utili nella assicurazione stessa. Detta pensione e' dall'assicurazione, anzidetta accreditata al Fondo per il suo intero ammontare.
 
@@ -56,7 +54,7 @@ L'intera pensione liquidata ai sensi della presente legge e' a carico del Fondo 
 
 Salvo le eccezioni previste nella presente legge, durante il periodo di iscrizione al Fondo non puo' essere liquidata la pensione dell'assicurazione obbligatoria per l'invalidita', la vecchiaia e i superstiti, se non concorrono tutte le condizioni previste dalla presente legge per la concessione della pensione complessiva indicata al secondo comma del presente articolo.
 
-##### Art. 4
+#### Art. 4
 
 Ferme restando le attribuzioni del Consiglio di amministrazione e del Comitato esecutivo dell'Istituto nazionale della previdenza sociale, e' istituito presso l'Istituto stesso un Comitato speciale con i compiti di cui all'articolo successivo, composto dai seguenti membri:
 
@@ -82,7 +80,7 @@ AGGIORNAMENTO (3)
 
 La L. 29 luglio 1971, n. 587 ha disposto (con l'art. 31) che "La rappresentanza dell'Istituto nazionale delle assicurazioni in seno al comitato speciale di cui all'articolo 4 della legge 2 aprile 1958, n. 377, e' soppressa".
 
-##### Art. 5
+#### Art. 5
 
 Il Comitato speciale ha i seguenti compiti:
 
@@ -114,7 +112,7 @@ Il parere di cui alla lettera c) deve essere obbligatoriamente richiesto.
 
 Il parere di cui alla lettera d) e' obbligatorio e vincolante: le disposizioni dei contratti collettivi di lavoro stipulati o da stipulare che concedano un trattamento di anzianita' diverso da quello previsto dai contratti sui quali il Comitato speciale, costituito ai sensi dell'art. 1 del regio decreto 3 maggio 1937, n. 1021, e successive modificazioni, si sia gia' espresso favorevolmente alla data di entrata in vigore della presente legge, se introdotte senza il parere predetto o in difformita' di esso, non obbligano il Fondo.
 
-##### Art. 6
+#### Art. 6
 
 Il Fondo e' ordinato:
 
@@ -126,7 +124,7 @@ In sede di prima costituzione l'ammontare della predetta riserva deve essere par
 
 ((b) per le prestazioni di capitale di cui al comma primo, punto 2), dello stesso articolo 2, con il sistema della ripartizione annuale dell'onere, limitatamente alla parte di capitale commisurata all'indennita' di anzianita' dovuta per la cessazione del rapporto di lavoro, ai sensi dei contratti collettivi di lavoro e dei regolamenti aziendali; per la parte di capitale corrispondente alla integrazione dovuta per i casi di cessazione del rapporto di lavoro, derivante da morte o da invalidita' dell'iscritto, debitamente accertata ai sensi dell'articolo 21, con una assicurazione temporanea di gruppo a premio annuo costante)).
 
-##### Art. 7
+#### Art. 7
 
 L'Istituto nazionale della previdenza sociale provvede annualmente alla compilazione del rendiconto di esercizio del Fondo, facendo risultare le attivita' e le passivita' nonche' i proventi e le spese e tenendo contabilmente distinti i dati relativi ai trattamento di pensione da quelli concernenti le prestazioni di capitale in sede di rendiconto annuale, l'istituto nazionale della previdenza sociale accredita al Fondo, per la gestione del trattamento di pensione, gli interessi maturati sulle disponibilita' finanziarie dello stesso, calcolati al saggio medio ottenuto per i propri investimenti, ed addebita le spese relative alla gestione medesima.
 
@@ -138,9 +136,9 @@ I rendiconti annuali e i bilanci tecnici sono sottoposti all'esame del Comitato 
 
 Il primo bilancio tecnico sara' compilato alla data del 31 dicembre 1960.
 
-## CAPO II - Obbligo di iscrizione al Fondo.
+### CAPO II - Obbligo di iscrizione al Fondo.
 
-##### Art. 8
+#### Art. 8
 
 Sono obbligatoriamente iscritti al Fondo, con effetto dalla data di assunzione, tutti i dipendenti dalle esattorie e ricevitorie delle imposte dirette, cui sia attribuibile la qualifica impiegatizia a norma del regio decreto-legge 13 novembre 1924, n. 1825, compresi quelli facenti parte del personale subalterno (commessi, uscieri, fattorini), che abbiano superato il periodo di prova previsto dai contratti collettivi della categoria esattoriale.
 
@@ -154,7 +152,7 @@ c) coloro che sono in servizio presso esattorie in gestione provvisoria, delegat
 
 Sono esclusi dall'iscrizione al Fondo i dipendenti assunti per lavori di carattere eccezionale o temporaneo ai sensi di particolari disposizioni di contratto collettivo o di legge.
 
-##### Art. 9
+#### Art. 9
 
 Sono obbligatoriamente iscritti al Fondo anche i dipendenti adibiti da Istituti di credito a servizi cumulativi di credito ed esattoria, sempreche' il loro rapporto di lavoro sia regolato dai contratti collettivi della categoria esattoriale.
 
@@ -162,7 +160,7 @@ Sono invece esclusi dalla iscrizione i dipendenti adibiti ai servizi di cui sopr
 
 ## TITOLO II - Modalita' generali di calcolo e di versamento dei contributi.
 
-##### Art. 10
+#### Art. 10
 
 Al finanziamento del Fondo si provvede:
 
@@ -190,7 +188,7 @@ AGGIORNAMENTO (3)
 
 La L. 29 luglio 1971, n. 587 ha disposto (con l'art. 2) che la modifica del punto 1) dell'articolo 10 della legge 2 aprile 1958, n. 377 decorre dal 1 gennaio 1969.
 
-##### Art. 11
+#### Art. 11
 
 Qualora il versamento dei contributi al Fondo avvenga oltre un mese dalla scadenza di ciascun trimestre, ma entro i dodici mesi successivi a quello in cui e' sorto l'obbligo del versamento stesso, le aziende sono tenute alla corresponsione dell'interesse di mora calcolato ad un saggio superiore di una unita' a quello ufficiale di sconto, ed in ogni caso non inferiore al 6 per cento in ragione di anno, dalla scadenza del trimestre al quale i contributi si riferiscono.
 
@@ -200,11 +198,11 @@ In ogni caso e' dovuta una somma; non inferiore allo importo dei contributi calc
 
 Qualora i contributi dovuti all'assicurazione obbligatoria per l'invalidita', la vecchiaia e i superstiti siano prescritti ai sensi delle norme, sull'assicurazione stessa e' devoluta al Fondo, in aggiunta ai contributi di cui ai precedenti commi; una somma pari al doppio dell'importo dei contributi prescritti relativi alla predetta assicurazione obbligatoria.
 
-##### Art. 12
+#### Art. 12
 
 ((ARTICOLO ABROGATO DALLA L. 29 LUGLIO 1971, N. 587))
 
-##### Art. 13
+#### Art. 13
 
 I contributi di cui al primo comma; punti 1) e 2) dell'art. 10 vanno calcolati sulla retribuzione complessivamente corrisposta agli iscritti.
 
@@ -224,7 +222,7 @@ Per i collettori preposti a gestioni esattoriali la retribuzione annua comprende
 
 tutti gli elementi della retribuzione computabili ai fini della liquidazione della indennita' di anzianita' ai sensi dell'art. 2121 del Codice civile.
 
-##### Art. 14
+#### Art. 14
 
 In relazione a quanto previsto dall'art. 5, lettera, d) e dagli articoli 13, 23 e 41, i contratti collettivi di categoria devono essere depositati in copia presso il Fondo entro trenta giorni dalla data della loro stipulazione.
 
@@ -234,11 +232,9 @@ In caso di inosservanza delle disposizioni di cui al presente articolo, si appli
 
 ## TITOLO III - Norme relative al trattamento di pensione.
 
-### CAPO I
+### CAPO I - Contribuzione per il trattamento di pensione.
 
-#### Contribuzione per il trattamento di pensione.
-
-##### Art. 15
+#### Art. 15
 
 Il contributo dovuto al Fondo per il trattamento integrativo di pensione, ai sensi del primo comma, punto 1), dell'art. 10, e' per tre quinti a carico del datore di lavoro e per due quinti a carico del lavoratore.
 
@@ -248,7 +244,7 @@ Il datore di lavoro non puo' esercitare il diritto di rivalsa, di cui al precede
 
 Il contributo di cui al primo comma, punto 1) dello art. 10, versato per coloro che sono iscritti al Fondo per la prima volta dopo compiuto il 50° anno di eta', e' destinato al trattamento stabilito nel successivo articolo 33.
 
-##### Art. 16
+#### Art. 16
 
 In caso di cessazione dal servizio presso esattorie o ricevitorie delle imposte dirette dopo almeno dieci anni di contribuzione effettiva al Fondo, l'iscritto, che non abbia ancora raggiunto i requisiti di contribuzione e di eta' per il diritto alla pensione di vecchiaia, puo' chiedere di continuare volontariamente la contribuzione al Fondo medesimo.
 
@@ -260,7 +256,7 @@ La domanda di prosecuzione volontaria della contribuzione al Fondo e' valida anc
 
 L'autorizzazione alle prosecuzioni volontarie e' unica e decorre dal primo giorno del trimestre in corso alla data della domanda.
 
-##### Art. 17
+#### Art. 17
 
 L'iscritto autorizzato alla prosecuzione volontaria ai sensi del precedente articolo deve versare, per il trattamento integrativo di pensione e per l'assicurazione obbligatoria per la invalidita', la vecchiaia e i superstiti, un contributo complessivo mensile di ammontare pari all'importo dei contributi previsti dal primo comma, n. 1), e secondo comma dell'art. 10, della presente legge, calcolato su un dodicesimo della retribuzione ottenuta ragguagliando ad anno la retribuzione dell'ultimo mese di contribuzione obbligatoria. Ai fini del calcolo della quota di contributo dovuta al "Fondo adeguamento pensioni" di cui alla legge 4 aprile 1952, n. 218, si applica la riduzione prevista nell'art. 7 della legge stessa.
 
@@ -270,7 +266,7 @@ Ove i contributi siano versati dopo trascorso un mese dalla scadenza del trimest
 
 I contributi versati volontariamente al Fondo in conformita' alle norme della presente legge sono equiparati, a tutti gli effetti, a quelli obbligatori; i contributi versati in difformita' sono rimborsati senza corresponsione di interessi.
 
-##### Art. 18
+#### Art. 18
 
 I versamenti volontari nell'assicurazione obbligatoria per l'invalidita', la vecchiaia e i superstiti debbono essere sospesi durante i periodi di tempo nei quali l'iscritto, per un rapporto di lavoro in atto, e' soggetto all'assicurazione stessa o a forme sostitutive, nonche' durante i periodi riconosciuti utili a norma di legge per detta assicurazione ai fini del diritto a pensione e della misura di essa.
 
@@ -278,7 +274,7 @@ L'iscritto ammesso alla prosecuzione volontaria del versamento dei contributi e 
 
 Qualora si verifichi la decadenza di cui al precedente comma del presente articolo, la prosecuzione volontaria nell'assicurazione obbligatoria per l'invalidita', la vecchiaia e i superstiti resta regolata dalle relative norme.
 
-##### Art. 19
+#### Art. 19
 
 Per i periodi di assenza dal servizio senza retribuzione o con retribuzione ridotta, che siano contrattualmente riconosciuti utili ai fini dell'anzianita', sono dovuti i contributi, sia per il trattamento integrativo di pensione, sia per l'assicurazione obbligatoria per l'invalidita', la vecchiaia e i superstiti, sia per le prestazioni di capitale, commisurati alla retribuzione che sarebbe spettata al lavoratore se non fosse rimasto assente.
 
@@ -290,7 +286,7 @@ In caso di insufficienza delle predette competenze ed indennita', il recupero sa
 
 E' esclusa la possibilita' di recupero della quota dei suddetti contributi a carico del lavoratore sulla indennita' sostitutiva del preavviso e sulle prestazioni di capitale, qualora la cessazione dal servizio avvenga per morte.
 
-##### Art. 20
+#### Art. 20
 
 L'iscritto, dopo almeno due anni di contribuzione effettiva nel Fondo, puo' ottenere di versare, ai fini del trattamento di pensione, i contributi per i periodi di assenza dal lavoro senza retribuzione, contrattualmente non riconosciuti utili agli effetti dell'anzianita', purche' ne faccia domanda al Fondo durante l'assenza, o entro il termine perentorio di tre mesi dal giorno in cui l'assenza e' cessata e comunque prima della presentazione della domanda di pensione.
 
@@ -300,9 +296,9 @@ Non e' dovuto il contributo per l'assicurazione obbligatoria qualora i periodi d
 
 Ove i contributi siano versati dopo trascorso un mese dalla scadenza del trimestre ai quale si riferiscono e' dovuto sui contributi stessi l'interesse di mora al saggio del 5,50 per cento in ragione d'anno.
 
-## CAPO II - Norme relative alla liquidazione della pensione diretta.
+### CAPO II - Norme relative alla liquidazione della pensione diretta.
 
-##### Art. 21
+#### Art. 21
 
 Gli iscritti al Fondo hanno diritto alla pensione annua complessiva di cui all'art. 3, qualora abbiano cessato di prestare servizio presso esattorie o ricevitorie delle imposte dirette, sempreche':
 
@@ -314,7 +310,7 @@ La pensione per invalidita' e' dovuta qualunque sia il periodo di contribuzione 
 
 Gli iscritti per la prima volta al Fondo dopo compiuto il 50° anno di eta' non hanno diritto al trattamento integrativo di pensione a carico del Fondo stesso, ma, in sostituzione di detto trattamento hanno diritto a quello previsto dal successivo art. 33, nonche' alla pensione dell'assicurazione obbligatoria per la invalidita', la vecchiaia e superstiti, ove siano in possesso dei relativi prescritti requisiti.
 
-##### Art. 22
+#### Art. 22
 
 L'invalidita' si considera dipendente da causa di servizio quando il servizio ne abbia costituito la causa unica, diretta ed immediata.
 
@@ -322,7 +318,7 @@ L'accertamento dell'invalidita' e della eventuale dipendenza di essa da causa di
 
 La decisione del Collegio medico e' definitiva.
 
-##### Art. 23
+#### Art. 23
 
 ((All'iscritto che si trovi nelle condizioni previste dall'articolo 21 spetta una pensione annua complessiva d'importo pari a un trentacinquesimo del 65 per cento della retribuzione dell'ultimo mese di servizio ragguagliata ad anno per quanti sono gli anni di contribuzione al Fondo, con un massimo di 35. Le frazioni di anno si computano in dodicesimi; le frazioni di mese non si computano.
 
@@ -348,7 +344,7 @@ La L. 29 luglio 1971, n. 587 ha disposto (con l'art. 4) che la modifica del prim
 
 Ha inoltre disposto (con l'art. 5) che l'introduzione di commi in fine all' articolo 23 della legge 2 aprile 1958, n. 377 decorre dal 1 gennaio 1969.
 
-##### Art. 24
+#### Art. 24
 
 ((La pensione annua complessiva, determinata a norma del precedente articolo, comprende la pensione annua dovuta a carico dell'assicurazione generale obbligatoria per l'invalidita'; la vecchiaia e i superstiti, in relazione ai periodi riconosciuti utili nell'assicurazione medesima.
 
@@ -374,11 +370,11 @@ AGGIORNAMENTO (3)
 
 La L. 29 luglio 1971, n. 587 ha disposto (con l'art. 6) che la modifica dell'articolo 24 della legge 2 aprile 1958, n. 377 decorre dal 1 gennaio 1969.
 
-##### Art. 25
+#### Art. 25
 
 La pensione annua complessiva determinata in relazione agli anni di contribuzione ai sensi delle disposizioni della presente legge, spettante all'iscritto ammesso alla prosecuzione volontaria, che abbia sospeso il versamento dei contributi volontari nell'assicurazione obbligatoria a seguito di reimpiego presso azienda non esattoriale come previsto dal primo comma dell'articolo 18, e' diminuita di un importo pari alla differenza tra la pensione obbligatoria che sarebbe stata liquidata allo stesso se egli avesse continuato i versamenti volontari nell'assicurazione medesima e quella effettivamente liquidata, ove questa risulti di importo inferiore.
 
-##### Art. 26
+#### Art. 26
 
 Per gli iscritti di cui alla lettera b) dell'art. 8 che, pur avendo incarichi permanenti, prestano servizio intermittente, il calcolo della pensione annua complessiva prevista dalla presente legge, viene effettuato determinando:
 
@@ -386,7 +382,7 @@ a) gli anni di contribuzione utili ai fini del calcolo stesso, in numero pari al
 
 b) la retribuzione utile ai fini del suddetto calcolo, mediante ragguaglio ad anno della retribuzione dello ultimo mese, come se il servizio fosse stato prestato nei l'intero mese.
 
-##### Art. 27
+#### Art. 27
 
 L'iscritto per il quale si sono verificati periodi di interruzione nella contribuzione al Fondo per cessazione del rapporto di lavoro, ha diritto ad una pensione complessiva pari alla somma delle quote di pensione calcolate in relazione agli anni di ogni singolo periodo di contribuzione continuativa al Fondo ed alla retribuzione finale di ciascun periodo.
 
@@ -402,11 +398,11 @@ AGGIORNAMENTO (4)
 
 La Corte Costituzionale con sentenza 11 - 23 dicembre 1987, n. 574 (in G.U. 1a s.s. 30/12/1987, n. 55) ha dichiarato "l'illegittimita' costituzionale dell'art. 27, terzo comma, legge 2 aprile 1958, n. 377 (Norme per il riordinamento del Fondo di previdenza per gli impiegati dipendenti delle esattorie e ricevitorie delle imposte dirette) nella parte in cui e' equiparata ad interruzione il passaggio dalla contribuzione volontaria a quella obbligatoria".
 
-##### Art. 28
+#### Art. 28
 
 L'iscritto che alla data di iscrizione al Fondo sia gia' titolare della pensione di invalidita' a carico dell'assicurazione obbligatoria per la invalidita', la vecchiaia e i superstiti, conserva detta pensione e puo' ottenere il trattamento di pensione previsto dalla presente legge, concorrendo i requisiti da questa richiesti, soltanto per eventi che si verifichino successivamente all'iscrizione al Fondo.
 
-##### Art. 29
+#### Art. 29
 
 All'iscritto che cessa dal servizio a seguito di licenziamento disciplinare non spetta il trattamento integrativo di pensione a carico del Fondo.
 
@@ -414,7 +410,7 @@ L'iscritto ha diritto al rimborso dell'intero importo dei contributi da lui vers
 
 Tuttavia, all'iscritto che all'atto della cessazione dal servizio per licenziamento disciplinare abbia gia' maturato i requisiti di contribuzione e di eta' di cui al primo comma, punto 1), dell'art. 21, per la pensione di vecchiaia e' concesso il suddetto trattamento integrativo di pensione a carico del Fondo.
 
-##### Art. 30
+#### Art. 30
 
 All'iscritto, che dopo aver ottenuto la liquidazione della pensione complessiva ai sensi dei precedenti articoli, si reimpieghi presso esattorie o ricevitorie delle imposte dirette con diritto alla iscrizione al Fondo, viene sospesa la corresponsione della pensione stessa per tutta la durata del nuovo rapporto di lavoro.
 
@@ -424,7 +420,7 @@ Al termine del nuovo rapporto, la pensione dovuta all'iscritto medesimo si deter
 
 La pensione come sopra determinata e' comprensiva del supplemento della pensione dell'assicurazione obbligatoria per l'invalidita', la vecchiaia e i superstiti dovuto ai sensi dell'art. 21 del decreto del Presidente della Repubblica 26 aprile 1957, n. 818, il cui importo e' accreditato al Fondo.
 
-##### Art. 31
+#### Art. 31
 
 La pensione annua complessiva di vecchiaia decorre dal primo giorno del mese successivo a quello in cui risultano raggiunti i requisiti previsti dall'art. 21.
 
@@ -432,7 +428,7 @@ La pensione annua complessiva per l'invalidita' decorre dal primo giorno del mes
 
 L'iscritto decade dal diritto alla pensione complessiva di invalidita', qualora non cessi dal servizio entro un mese dalla data di ricezione della comunicazione del riconoscimento della invalidita'.
 
-##### Art. 32
+#### Art. 32
 
 L'iscritto al Fondo che cessi dal prestare servizio alle dipendenze di esattorie o ricevitorie delle imposte dirette prima di aver raggiunto il requisito minimo di contribuzione per la pensione di vecchiaia previsto dalla presente legge e non si avvalga o non possa avvalersi della facolta' della prosecuzione volontaria di cui all'art. 16, o, essendosene avvalso, sospenda i versamenti volontari prima di aver raggiunto il predetto requisito di contribuzione, conserva, per quattro anni dalla cessazione dal servizio o dalla data cui si riferisce l'ultimo contributo volontario versato, l'iscrizione al Fondo con i relativi diritti, sempreche' non eserciti la facolta' di cui al comma successivo.
 
@@ -444,17 +440,15 @@ Trascorso tale termine, l'importo dei contributi e' trasferito nei ruoli dell'as
 
 In caso di riassunzione in servizio presso esattorie o ricevitorie delle imposte dirette dopo che abbia avuto luogo il pagamento della somma di cui al secondo comma, il lavoratore ha diritto di ottenere il ripristino dell'iscrizione al Fondo, nella situazione in cui essa era al momento della risoluzione del rapporto di lavoro o della cessazione della eventuale contribuzione volontaria, purche' ne faccia domanda entro il termine perentorio di un anno dalla riassunzione e provveda contemporaneamente a restituire l'importo della somma percepita, maggiorata dall'interesse al saggio del 5,50 per cento in ragione di anno. Qualora i contributi siano stati trasferiti nei ruoli dell'assicurazione facoltativa, essi verranno versati al Fondo, sempreche' non abbiano dato luogo a prestazioni nell'assicurazione stessa. Non e' consentito il riscatto del periodo intermedio.
 
-##### Art. 33
+#### Art. 33
 
 I contributi di cui al primo comma, punto 1) dello art. 10, relativi al trattamento integrativo di pensione, versati per i dipendenti iscritti al Fondo per la prima volta, dopo compiuto il 50° anno di eta', vengono destinati a capitalizzazione finanziaria al saggio del 4,50 per cento in ragione di anno.
 
 Il capitale corrispondente e' pagato all'iscritto o ai suoi superstiti aventi diritto a termini dell'art. 2122 del Codice civile, in aggiunta alle prestazioni di capitale, al momento della cessazione dal servizio.
 
-## CAPO III - Norme relative alla liquidazione delle
+### CAPO III - Norme relative alla liquidazione delle pensioni di riversibilita' e indirette.
 
-### pensioni di riversibilita' e indirette.
-
-##### Art. 34
+#### Art. 34
 
 ((Nel caso di morte del pensionato o dell'iscritto che sia deceduto per causa di servizio o che abbia almeno cinque anni di contribuzione, di cui uno nel quinquennio precedente la morte, o che sia in possesso dei requisiti di contribuzione per il diritto alla pensione di vecchiaia, spetta al coniuge, ai figli ed equiparati, ovvero ai genitori, ovvero ai fratelli e alle sorelle nell'ordine stabilito dalle norme dell'assicurazione generale obbligatoria, una pensione di riversibilita' o indiretta.
 
@@ -476,23 +470,23 @@ AGGIORNAMENTO (3)
 
 La L. 29 luglio 1971, n. 587 ha disposto (con l'art. 9) che la modifica dell'articolo 34 della legge 2 aprile 1958, n. 377 decorre dal 1 gennaio 1969.
 
-##### Art. 35
+#### Art. 35
 
 ((LA L. 29 LUGLIO 1971, N. 587 HA DISPOSTO (CON L'ART. 9) CHE, A DECORRERE DAL 1 GENNAIO 1969, IL PRESENTE ARTICOLO E' SOSTITUITO DALL'ATTUALE ART. 34 DELLA LEGGE 2 APRILE 1958, N. 377)).
 
-##### Art. 36
+#### Art. 36
 
 La pensione ai superstiti decorre dal primo giorno del mese successivo a quello della morte dell'iscritto o del pensionato.
 
 Nel caso di nascita di figlio postumo, l'aliquota della pensione a lui spettante decorre dal primo giorno del mese successivo a quello della nascita.
 
-##### Art. 37
+#### Art. 37
 
 ((La vedova, il vedovo e i figli perdono il diritto alla pensione complessiva al verificarsi degli eventi previsti dalle norme dell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia e i superstiti.
 
 Al coniuge che perda il diritto alla pensione per sopravvenuto matrimonio, spetta l'assegno a carico dell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia e i superstiti, di cui all'art. 13 della legge 4 aprile 1952, n. 218, e successive modificazioni)).
 
-##### Art. 38
+#### Art. 38
 
 ((Nel caso di morte dell'iscritto senza che sussistano i requisiti di contribuzione per la liquidazione della pensione indiretta, spetta al coniuge una indennita' una tantum pari al 75 per cento dell'importo dei contributi versati al Fondo per il trattamento integrativo di pensione.
 
@@ -500,27 +494,23 @@ Qualora manchi il coniuge, l'indennita' di cui al comma precedente spetta ai fig
 
 Per la liquidazione dell'indennita' a carico dell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia e i superstiti si applicano le norme di tale assicurazione)).
 
-## CAPO IV - Norme relative alle variazioni delle pensioni in relazione alle
+### CAPO IV - Norme relative alle variazioni delle pensioni in relazione alle variazioni del costo della vita.
 
-### variazioni del costo della vita.
-
-##### Art. 39
+#### Art. 39
 
 ((ARTICOLO ABROGATO DALLA L. 29 LUGLIO 1971, N. 587))
 
 ## TITOLO IV - Norme relative alle prestazioni di capitale.
 
-### CAPO I
+### CAPO I - Contribuzioni per le prestazioni di capitale.
 
-#### Contribuzioni per le prestazioni di capitale.
-
-##### Art. 40
+#### Art. 40
 
 ((ARTICOLO ABROGATO DALLA L. 29 LUGLIO 1971, N. 587))
 
-## CAPO II - Norme relative alla liquidazione delle prestazioni di capitale.
+### CAPO II - Norme relative alla liquidazione delle prestazioni di capitale.
 
-##### Art. 41
+#### Art. 41
 
 Il capitale di cui al primo comma, punto 2), dello art. 2 e' commisurato:
 
@@ -540,7 +530,7 @@ Ai fini della determinazione delle prestazioni integrative, l'indennita' di anzi
 
 ((2) per gli iscritti che cessano dal servizio per cause diverse da quelle indicate al punto 1) del presente articolo, all'intero ammontare dell'indennita' di anzianita')).
 
-##### Art. 42
+#### Art. 42
 
 ((Le prestazioni di cui al precedente articolo 41 sono liquidate dal Fondo all'iscritto al momento della risoluzione del rapporto di lavoro.
 
@@ -550,15 +540,15 @@ per la parte commisurata all'indennita' di anzianita' agli aventi diritto ai sen
 
 per la restante parte, corrispondente alla integrazione di cui al punto 1) dell'articolo 41, al coniuge, ai figli minori e, se viventi a carico, ai figli maggiorenni, ai genitori e agli altri parenti entro il secondo grado; la ripartizione e' fatta in parti uguali)).
 
-##### Art. 43
+#### Art. 43
 
 Il credito per le prestazioni di capitale si prescrive col decorso di cinque anni dalla data di cessazione dal servizio dell'iscritto anche nei confronti dei superstiti aventi diritto.
 
-##### Art. 44
+#### Art. 44
 
 ((ARTICOLO ABROGATO DALLA L. 29 LUGLIO 1971, N. 587))
 
-##### Art. 45
+#### Art. 45
 
 ((Nel caso in cui il lavoratore si reimpieghi presso esattorie o ricevitorie delle imposte dirette, per il computo delle indennita' di anzianita' si tiene conto soltanto dell'anzianita' maturata durante il nuovo rapporto di lavoro; mentre, ai fini della determinazione dell'integrazione prevista dall'articolo 41 per i casi di invalidita' o di morte, si computa anche l'anzianita' acquisita nei precedenti rapporti di lavoro esattoriale, salvo il minimo garantito dalle leggi in vigore.
 
@@ -570,7 +560,7 @@ Il pagamento della somma dovuta puo' essere effettuato in unica soluzione, conte
 
 Qualora il lavoratore abbia gia' riscosso le prestazioni di capitale pertinenti al precedente rapporto, e' tenuto ad effettuarne il rimborso al Fondo entro il termine perentorio di un mese dalla comunicazione della concessione del ricongiungimento, con l'aggiunta dei relativi interessi nella misura del 4,50 per cento dal giorno della riscossione)).
 
-##### Art. 46
+#### Art. 46
 
 ((Nei casi in cui l'ultima retribuzione, sulla quale si commisurano le prestazioni di capitale, sia superiore alla media delle retribuzioni dell'ultimo triennio di servizio, maggiorata del 20 per cento, o sia comprensiva di assegni ad personam, il Fondo liquida le prestazioni di capitale in base all'intera retribuzione.
 
@@ -580,15 +570,13 @@ Per la differenza, il Fondo esercita rivalsa entro 5 anni verso il datore di lav
 
 Nei casi di morte o di invalidita', l'onere delle prestazioni di capitale e' a totale carico del Fondo)).
 
-## CAPO III - Norme relative alla convenzione per la gestione delle prestazioni
+### CAPO III - Norme relative alla convenzione per la gestione delle prestazioni di capitali ed alle anticipazioni per acquisto di alloggi
 
-### di capitali ed alle anticipazioni per acquisto di alloggi
-
-##### Art. 47
+#### Art. 47
 
 ((ARTICOLO ABROGATO DALLA L. 29 LUGLIO 1971, N. 587))
 
-##### Art. 48
+#### Art. 48
 
 ((Gli iscritti per i quali risulti maturata, ai fini della indennita' di anzianita', un'iscrizione al Fondo di almeno 15 anni, possono ottenere anticipazioni sulle indennita' maturate per l'acquisto di appartamenti ad uso di propria abitazione.
 
@@ -598,7 +586,7 @@ Il Fondo ha diritto di trattenere, anche in caso di morte dell'iscritto, sulle s
 
 ## TITOLO V - Responsabilita' solidale.
 
-##### Art. 49
+#### Art. 49
 
 In caso di trapasso di gestione di esattorie o ricevitorie delle imposte dirette, esperita inutilmente da parte del Fondo l'azione nei confronti dell'esattore o del ricevitore della gestione immediatamente precedente che non avesse versato in tutto o in parte i contributi dovuti con gli interessi di mora e le eventuali somme aggiuntive e penalita', il nuoto esattore o ricevitore e' solidalmente responsabile con il predetto esattore o ricevitore inadempiente per il mancato versamento dei contributi relativi ai periodi di servizio compiuti durante la gestione precedente per i dipendenti mantenuti in servizio, limitatamente all'importo dei soli contributi calcolati nella misura in vigore nei periodi cui si riferiscono ed in relazione alle retribuzioni percepite dai lavoratori nei periodi stessi.
 
@@ -608,21 +596,21 @@ La garanzia sulla cauzione prestata dagli esattori o ricevitori delle imposte di
 
 ## TITOLO VI - Norme transitorie.
 
-##### Art. 50
+#### Art. 50
 
 I dipendenti da esattorie e ricevitorie delle imposte dirette, che, alla data di entrata in vigore della presidente legge, pur avendo incarichi permanenti, svolgano servizio intermittente per una durata inferiore alla, media annua di 180 giorni ad orario normale, prevista dal punto b) dell'art. 8 e risultino iscritti al Fondo, continueranno in tale iscrizione mi tutti gli effetti della presente legge; anche se la durata del successivo periodo di servizio intermittente rimanga inferiore alla predetta media.
 
-##### Art. 51
+#### Art. 51
 
 I dipendenti da Istituti di credito con rapporto di lavoro regolato dai contratti collettivi del settore del credito e adibiti ai servizi esattoriali, che, alla data di entrata in vigore della presente legge, risultino iscritti al Fondo, continuano ad essere iscritti al Fondo stesso a tutti gli effetti.
 
-##### Art. 52
+#### Art. 52
 
 I dipendenti adibiti da Istituti di credito a servizi cumulativi di credito ed esattoria, che, alla data di entrata in vigore della presente legge, risultino iscritti al Fondo per la quota parte di retribuzione riconosciuta pertinente al servizio esattoriale ai sensi dello art. 4 del regolamento approvato con regio decreto 3 maggio 1937, n. 1021, continuano ad essere iscritti al Fondo per la misura percentuale della retribuzione in atto alla suddetta data.
 
 Il minimo di pensione previsto dall'art. 24 e' ridotto, in tali casi, nella stessa misura, percentuale della retribuzione riconosciuta pertinente al servizio esattoriale.
 
-##### Art. 53
+#### Art. 53
 
 Per coloro che, anteriormente all'entrata in vigore della presente legge, sono stati iscritti per la prima volta al Fondo in eta' compresa tra i 50 ed i 55 anni, in deroga a quanto disposto dall'art. 33, i contributi per il trattamento integrativo di pensione di cui all'art. 10, comma primo, punto 1), continueranno ad essere trasferiti nell'assicurazione facoltativa, ruolo dei contributi riservati, a meno che l'iscritto non richieda la iscrizione nel ruolo della mutualita'.
 
@@ -630,25 +618,25 @@ I contributi stessi sono attribuiti all'assicurazione facoltativa con riferiment
 
 Per coloro che anteriormente all'entrata in vigore della presente legge sono stati iscritti per la prima volta al Fondo in eta' superiore ai 55 anni trovano applicazione le norme di cui al precedente art. 33.
 
-##### Art. 54
+#### Art. 54
 
 Per gli iscritti al Fondo alla data del 1 gennaio 1956, i periodi di assenza dal servizio senza retribuzione o con retribuzione ridotta, compiuti anteriormente alla data stessa, che a detta, data siano gia' stati contrattualmente riconosciuti utili ai fini dell'anzianita', vengono considerati coperti da contribuzione sia agli effetti del trattamento integrativo di pensione sia a quelli delle prestazioni di capitale, di cui alla presente legge.
 
-##### Art. 55
+#### Art. 55
 
 Per gli iscritti al Fondo al 1° gennaio 1956 che, alla data di entrata in vigore della presente legge, siano ancora in servizio e non abbiano ancora presentato domanda di pensione, la facolta' di copertura dei periodi di assenza contrattualmente noti riconosciuti utili agli effetti dell'anzianita', prevista dall'art. 20, potra' essere esercitata, entro tre mesi dalla entrata in vigore della presente legge, i contributi previsti dall'articolo stesso dovranno essere versati in base alla retribuzione percepita all'atto della presentazione della domanda.
 
-##### Art. 56
+#### Art. 56
 
 Gli iscritti gia' cessati dal servizio alla data di pubblicazione della presente legge, che a tale data possano far valere almeno venti anni di contribuzione al Fondo, hanno diritto di liquidare la pensione di invalidita', ai sensi dell'art. 21, anche se la invalidita' non si sia verificata in costanza, del rapporto di lavoro o della contribuzione volontaria.
 
 In caso di morte di detti iscritti i superstiti hanno diritto di liquidare la pensione ai sensi dell'art. 31, anche se manchi l'anno di contribuzione nell'ultimo quinquennio.
 
-##### Art. 57
+#### Art. 57
 
 ((Gli iscritti al Fondo alla data di entrata in vigore della presente legge, a favore dei quali risultino versati o accreditati contributi nell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia e i superstiti per periodi anteriori alla data di iscrizione al Fondo stesso, ovvero risultino effettuati versamenti volontari nella assicurazione predetta per periodi anteriori alla data di entrata in vigore della presente legge, anche se contemporanei all'iscrizione al Fondo, hanno diritto, oltreche' alla pensione calcolata ai sensi dell'art. 23, ad un supplemento pari alla quota della pensione liquidata dall'assicurazione obbligatoria in relazione ai predetti contributi)).
 
-##### Art. 58
+#### Art. 58
 
 Gli iscritti che, alla, data di entrata in vigore della presente legge, possono far valere almeno dieci anni di contribuzione al Fondo, in caso di cessazione dal servizio, hanno diritto alla liquidazione della pensione annua complessiva di vecchiaia anche prima del 60° anno di eta', purche' abbiano trenta anni di contribuzione e almeno 55 anni di eta'. Ove si tratti di mutilati o invalidi di guerra, il periodo di contribuzione richiesto e' ridotto a 20 anni.
 
@@ -660,25 +648,25 @@ Il Fondo sopporta per intero l'onere delle pensioni di cui al presente articolo 
 
 Appena maturato tale diritto, detta assicurazione obbligatoria accredita al Fondo la pensione a suo carico.
 
-##### Art. 59
+#### Art. 59
 
 Per gli iscritti che, alla data di entrata in vigore della presente legge, possono far valere almeno dieci anni di contribuzione al Fondo, il trattamento per pensione di vecchiaia o di invalidita' non potra' essere inferiore al 40 per cento della retribuzione sulla quale viene calcolata la pensione ai sensi dell'art. 23.
 
 Qualora si tratti di iscritti che abbiano esercitato l'opzione prevista dagli articoli 36 e 37 del regolamento approvato con regio decreto 3 maggio 1937, n. 1021, e successive modificazioni, la suddetta aliquota e' elevata al 45 per cento.
 
-##### Art. 60
+#### Art. 60
 
 In deroga a quanto stabilito dall'art. 27, nei riguardi degli iscritti al Fondo che abbiano conseguito o conseguano il diritto a pensione dopo il 31 dicembre 1955 e che anteriormente alla data stessa abbiano avuto periodi di interruzione nella contribuzione a causa di cessazione del rapporto di lavoro, o cessazione della contribuzione volontaria, seguiti da reimpieghi presso esattorie o ricevitorie delle imposte dirette, la pensione da liquidarsi verra' computata, per la parte relativa ai periodi di contribuzione anteriori al 1° gennaio 1956, in base alla retribuzione sulla quale sono stati versati i contributi nel mese di gennaio 1956 o, se a tale data la contribuzione era interrotta, in base alla retribuzione iniziale del primo reimpiego dopo la data stessa o, se il reimpiego non abbia avuto luogo, in base alla ultima retribuzione sulla quale sono stati versati i contributi al Fondo.
 
-##### Art. 61
+#### Art. 61
 
 Gli iscritti al Fondo che, alla data d'entrata in vigore della presente legge, sono titolari di pensioni della assicurazione obbligatoria per l'invalidita', la vecchiaia e i superstiti, gia' liquidate o in corso di liquidazione, conservano il diritto alle pensioni stesse fino a quando non maturino il diritto alla liquidazione della pensione complessiva prevista dalla presente legge.
 
-##### Art. 62
+#### Art. 62
 
 Per gli iscritti al Fondo, in servizio presso esattorie o ricevitorie delle imposte dirette alla data di entrata in vigore della presente legge, che, ai sensi dell'art. 36 del regio decreto 3 maggio 1937, n. 1021, abbiano optato per il trattamento previsto dal regio decreto 23 giugno 1923, n. 1528, le pensioni calcolate ai sensi degli articoli 23 e 24 della presente legge, tenuto conto del minimo garantito dall'art. 59, verranno maggiorate del 10 per cento.
 
-##### Art. 63
+#### Art. 63
 
 Qualora nei confronti dei lavoratori dipendenti da esattorie o ricevitorie delle imposte dirette, anche se non piu' in servizio, non risultino versati, per periodi di lavoro esattoriale con diritto alla iscrizione al Fondo, compresi tra il 9 luglio 1932 ed il 31 dicembre 1955, i contributi dovuti al Fondo stesso per le prestazioni di pensione di cui all'art. 12, punto 1) del regolamento approvato con regio decreto 3 maggio 1937, n. 1021, e successive modificazioni, l'esattore o ricevitore delle imposte dirette alle cui dipendenze i predetti periodi di lavoro risultino prestati e' tenuto alla regolarizzazione della posizione contributiva per i periodi stessi, ai fini del trattamento di pensione, alle condizioni e nei limiti seguenti:
 
@@ -700,7 +688,7 @@ AGGIORNAMENTO (1)
 
 La L. 30 dicembre 1959, n. 1233 ha disposto (con l'articolo unico) che "I termini di cui agli articoli 63, 64 e 65 della legge 2 aprile 1958, n. 377, sono riaperti e prorogati per la, durata di un anno dalla data di entrata in vigore della presente legge".
 
-##### Art. 64
+#### Art. 64
 
 E' data facolta' al lavoratore, che si trovi nelle condizioni previste nel precedente articolo, di regolarizzare, ai fini del trattamento di pensione, la propria posizione contributiva presso il Fondo per i periodi indicati nell'articolo stesso, a condizione che ne faccia richiesta al Fondo, a pena di decadenza, entro sei mesi dalla data di entrata in vigore della presente legge e versi l'intero importo dei contributi calcolati in base alla lettera a) del precedente art. 63, maggiorati degli interessi composti al saggio del 5,50 per cento, in ragione di anno, per i periodi coperti di contribuzione nel Fondo per l'assicurazione mista sulla vita o nell'assicurazione obbligatoria per l'invalidita', la vecchiaia e i superstiti per rapporto di lavoro esattoriale; in base alla lettera b) dello stesso art. 63, per i periodi per i quali non risulti versato alcun contributo.
 
@@ -724,7 +712,7 @@ AGGIORNAMENTO (1)
 
 La L. 30 dicembre 1959, n. 1233 ha disposto (con l'articolo unico) che "I termini di cui agli articoli 63, 64 e 65 della legge 2 aprile 1958, n. 377, sono riaperti e prorogati per la, durata di un anno dalla data di entrata in vigore della presente legge".
 
-##### Art. 65
+#### Art. 65
 
 Qualora nei confronti dei lavoratori in servizio presso esattorie o ricevitorie delle imposte dirette alla data di entrata in vigore della presente legge, risultino periodi di lavoro esattoriale per i quali non siano stati versati in tutto o in parte i contributi per l'assicurazione mista sulla vita di cui al regolamento approvato con il regio decreto 3 maggio 1937, n. 1021, e successive modificazioni, l'esattore o ricevitore dal quale i lavoratori dipendono e' tenuto a provvedere, entro sei mesi dalla data predetta, alla regolarizzazione dei periodi stessi, mediante versamento di una somma pari all'intero importo della indennita' di anzianita' maturata alla data di entrata in vigore della presente legge per i periodi di servizio prestato alle sue dipendenze scoperti di contributo.
 
@@ -738,11 +726,11 @@ AGGIORNAMENTO (1)
 
 La L. 30 dicembre 1959, n. 1233 ha disposto (con l'articolo unico) che "I termini di cui agli articoli 63, 64 e 65 della legge 2 aprile 1958, n. 377, sono riaperti e prorogati per la, durata di un anno dalla data di entrata in vigore della presente legge".
 
-##### Art. 66
+#### Art. 66
 
 Per la regolarizzazione presso il Fondo dei periodi di servizio compresi tra il 1° gennaio 1956 e la data di entrata in vigore della presente legge agli effetti del trattamento di pensione, il termine di cui al secondo comma dell'art. 11 decorre dalla data di entrata in vigore della legge stessa.
 
-##### Art. 67
+#### Art. 67
 
 I trattamenti complessivi di pensione spettanti ai titolari di pensioni di vecchiaia e invalidita' liquidate dal Fondo con decorrenza anteriore al 1 gennaio 1950, sono riliquidati, con effetto dal 1 gennaio 1956, sostituendo agli importi di pensione indicati nell'art. 8 della legge 2 settembre 1951, n. 1101, quelli stabiliti nella seguente tabella:
 
@@ -800,7 +788,7 @@ La L. 29 luglio 1971, n. 587 ha disposto (con l'art. 26, comma 1)
 
 che i trattamenti complessivi di pensione spettanti ai titolari di pensione di vecchiaia e invalidita' in essere alla data del 1 gennaio 1969, liquidati dal Fondo con decorrenza anteriore al 1 gennaio 1950, sono riliquidati, come nella tabella sopra modificata, nei quali sono assorbiti gli scatti di scala mobile maturati a tutto il 31 maggio 1966.
 
-##### Art. 68
+#### Art. 68
 
 Le pensioni dirette dovute dal Fondo con decorrenza da data successiva al 31 dicembre 1949 e anteriore al 1° gennaio 1956 vengono riliquidate, con decorrenza dal 1° gennaio 1956, in base a tanti trentacinquesimi, quanti sono gli anni di contribuzione, del 63 per cento della retribuzione prevista dall'art. 3 della legge 2 settembre 1951, n. 1101, sulla quale e' stata calcolata la pensione in godimento, maggiorata della seguente percentuale, a seconda dell'anno di decorrenza della pensione:
 
@@ -814,21 +802,21 @@ Nei riguardi degli iscritti ai Fondo cessati dal servizio anteriore al 1° genna
 
 Il trattamento complessivo spettante ai superstiti, la cui pensione derivi da quella riliquidata o che sarebbe spettata all'iscritto con decorrenza posteriore al 31 dicembre 1949 e anteriore ai 1° gennaio 1956, e' determinato, con effetto da quest'ultima data, o dalla decorrenza della pensione di riversibilita', se posteriore, applicando al corrispondente trattamento diretto, calcolato secondo le norme del presente articolo, le percentuali di cui all'art. 35 della presente legge.
 
-##### Art. 69
+#### Art. 69
 
 Le pensioni a carico del Fondo con decorrenza posteriore al 31 dicembre 1955, liquidate in via provvisoria, vengono riliquidate in base alle norme della presente legge. Agli importi delle suddette pensioni cosi' riliquidate, dovute con decorrenza anteriore al 1 novembre 1956, si applica, con decorrenza da quest'ultima data, una maggiorazione del 2,50 per cento.
 
-##### Art. 70
+#### Art. 70
 
 Per i titoli di pensione alla data di entrata in vigore della presente legge, che ai sensi dell'art. 36 del regio decreto 3 maggio 1937, n. 1021, abbiano optato per il trattamento previsto dal regio decreto 23 giugno 1923, n. 1528, le pensioni riliquidate secondo quanto disposto dagli articoli 67, 68 e 69 vengono maggiorate del 10 per cento.
 
-##### Art. 71
+#### Art. 71
 
 I nuovi trattamenti complessivi di pensione risultanti dalle riliquidazioni previste dalla presente legge per le pensioni dovute dal Fondo con decorrenza anteriore al 1° novembre 1956, s'intendono comprensivi delle quote di pensione relative alle maggiorazioni di contingenza per persone a carico e delle quote di pensione e di indennita' di anzianita' relative alla indennita' di mensa, anche per i periodi anteriori alla predetta data.
 
 Salvo quanto previsto all'art. 72, nessun contributo e' dovuto sulle maggiorazioni di contingenza per persone a carico per i periodi in cui dette maggiorazioni vennero corrisposte, nonche' sull'intero importo della indennita' di mensa fino al 31 maggio 1954 e sulla quota parte di essa non assoggettata a contribuzione nel periodo dal 1° giugno 1954 al 31 ottobre 1956.
 
-##### Art. 72
+#### Art. 72
 
 Ai dipendenti da esattorie o ricevitorie delle imposte dirette cessati dal servizio anteriormente al 1° gennaio 1956, che all'atto della cessazione fruivano di maggiorazioni di contingenza per familiari a carico, verra' corrisposta, a carico del Fondo, una integrazione della indennita' di anzianita' liquidata dal Fondo, pari alle maggiori somme che sarebbero state loro corrisposte per i predetti titoli ove si fosse tenuto conto delle maggiorazioni di contingenza.
 
@@ -836,7 +824,7 @@ Entro un quinquennio dall'entrata in vigore della presente legge, all'onere deri
 
 4\.
 
-##### Art. 73
+#### Art. 73
 
 I contratti collettivi di categoria in atto alla data di entrata in vigore della presente legge devono essere depositati in copia al Fondo entro trenta giorni dalla data stessa.
 
@@ -844,13 +832,13 @@ L'obbligo del deposito incombe alle rappresentanze delle aziende esattoriali. Pe
 
 ## TITOLO VII - Norme generali e finali.
 
-##### Art. 74
+#### Art. 74
 
 Contro i provvedimenti concernenti la concessione delle prestazioni previste dalla presente legge e, in genere, l'attuazione delle disposizioni della legge stessa, e' ammesso ricorso, in via amministrativa, al Comitato speciale di cui all'art. 4.
 
 Per il procedimento amministrativo e per i ricorsi all'autorita' giudiziaria, si osservano i termini di cui alla legge 5 febbraio 1957, n. 18.
 
-##### Art. 75
+#### Art. 75
 
 Per le trasgressioni alle norme contenute nella presente legge si applicano le disposizioni dell'art. 23 della legge 4 aprile 1952, n. 218.
 
@@ -862,7 +850,7 @@ Nelle contravvenzioni alle disposizioni della presente legge, si applicano le no
 
 I proventi delle pene pecuniarie sono devoluti allo Istituto nazionale della previdenza sociale, che li accredita al Fondo.
 
-##### Art. 76
+#### Art. 76
 
 Per quanto non contemplato dalla presente legge, si intendono richiamate, se non sono in contrasto con le disposizioni della legge stessa, le norme del regio decreto-legge 4 ottobre 1935, n. 1827, convertito con modificazioni nella legge 6 aprile 1936, n. 1155, e successive modificazioni.
 
@@ -878,11 +866,11 @@ d) la norma contenuta nell'art. 128 del citato regio decreto-legge.
 
 I crediti per contributi, per interessi, per sanzioni civili derivanti da omissioni contributive, e i crediti derivanti dall'azione di rivalsa, nonche' quelli per le spese relative, sono muniti del privilegio stabilito nell'art. 2753 del Codice civile.
 
-##### Art. 77
+#### Art. 77
 
 La riduzione prevista dall'art. 12 della legge 4 aprile 1952, n. 218, e successive modificazioni ed integrazioni, si applica alla intera pensione complessiva liquidata, ai sensi della presente legge, qualora il titolare si rioccupi alle dipendenze di azienda non esattoriale.
 
-##### Art. 78
+#### Art. 78
 
 Il Fondo adeguamento pensioni, istituito con la legge 2 settembre 1951, n. 1101, e' soppresso a decorrere dalla data di entrata in vigore della presente legge.
 
@@ -890,17 +878,17 @@ E' altresi' soppresso il Fondo d'integrazione di cui allo art. 35 del regolament
 
 Il Fondo disciplinato dalla presente legge subentra nelle attivita' e nelle passivita' dei Fondi soppressi.
 
-##### Art. 79
+#### Art. 79
 
 Sono abrogati il regio decreto 3 maggio 1937, n. 1021, il decreto legislativo luogotenenziale 23 marzo 1946, n. 304, il decreto luogotenenziale 25 marzo 1946, n. 368, il decreto del Presidente della Repubblica 1° luglio 1948, n. 1460, la legge 2 settembre 1951, n. 1101, ed ogni altra norma incompatibile con la presente legge.
 
-##### Art. 80
+#### Art. 80
 
 Il Fondo provvede a versare, per i propri iscritti, alla assicurazione generale obbligatoria per l'invalidita', la vecchiaia e i superstiti i contributi base necessari per coprire, nell'assicurazione stessa, il periodo di iscrizione al Fondo anteriore al 1° gennaio 1956. Tali contributi sono maggiorati dell'interesse al saggio del 4,50 per cento in ragione di anno.
 
 Per gli iscritti che, alla data predetta, hanno gia' conseguito una pensione a carico del Fondo, questo accredita all'assicurazione generale obbligatoria per la invalidita', la vecchiaia e i superstiti il capitale di copertura della pensione dovuta dall'assicurazione medesima, in relazione al periodo di contribuzione al Fondo; l'assicurazione predetta provvede ad accreditare al Fondo la pensione corrispondente, adeguata ai sensi delle disposizioni relative all'assicurazione stessa.
 
-##### Art. 81
+#### Art. 81
 
 Le prestazioni di capitali di cui all'art. 41 vengono liquidate agli iscritti che cessano dal servizio a decorrere dalla data di entrata in vigore della presente legge. Uguale decorrenza hanno i contributi pertinenti alle prestazioni stesse.
 
@@ -914,17 +902,17 @@ ai capitali costituiti con la parte dei contributi versati dal personale gia' is
 
 ai capitali costituiti con parte dei contributi versati dal personale gia' scritto al Fondo a norma del regolamento approvato con regio decreto 23 giugno 1923, n. 1528, che all'entrata in vigore del regolamento approvato con regio decreto 3 maggio 1937, n. 1021, aveva eta' superiore a 50 anni, ai sensi di quanto previsto dallo art. 24 di questo ultimo decreto.
 
-##### Art. 82
+#### Art. 82
 
 Il Comitato speciale di cui all'art. 1 del regio decreto 3 maggio 1937, n. 1021, rimane in carica fino a quando non verra' nominato il nuovo Comitato speciale secondo le norme di cui all'art. 4 della presente legge e, in ogni caso, non oltre un anno dalla data di entrata in vigore della legge stessa.
 
-##### Art. 83
+#### Art. 83
 
 Agli effetti delle prestazioni di pensione e dei relativi contributi la presente legge ha decorrenza dal 1° gennaio 1956.
 
 Entro sei mesi dall'entrata in vigore della presente legge, le esattorie e ricevitorie delle imposte dirette provvederanno al versamento, in unica soluzione, delle somme a conguaglio dei contributi per le pensioni, dovuti al Fondo dal 1° gennaio 1956.
 
-##### Art. 84
+#### Art. 84
 
 La presente legge entra in vigore il giorno della sua pubblicazione.
 

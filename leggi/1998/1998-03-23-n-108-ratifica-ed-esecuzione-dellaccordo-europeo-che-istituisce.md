@@ -27,15 +27,15 @@ PROMULGA
 
 la seguente legge:
 
-###### Art. 1
+#### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare l'accordo europeo che istituisce un'associazione tra le Comunita' europee ed i loro Stati membri, che agiscono nel quadro dell'Unione europea, da una parte, e la Repubblica di Slovenia, dall'altra, con tredici allegati, sei protocolli e atto finale e dichiarazioni, fatto a Lussemburgo il 10 giugno 1996.
 
-###### Art. 2
+#### Art. 2
 
 1\. Piena ed intera esecuzione e' data all'accordo di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore, in conformita' a quanto disposto dall'articolo 131 dell'accordo stesso.
 
-###### Art. 3
+#### Art. 3
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
@@ -155,7 +155,7 @@ TENENDO CONTO della strategia di preparazione all'adesione adottata del Consigli
 
 HANNO CONVENUTO QUANTO SEGUE:
 
-###### ARTICOLO 1
+#### ARTICOLO 1
 
 1\. E' istituita un'associazione tra la Comunita' e i suoi Stati membri, da una parte, e la Slovenia, dall'altra.
 
@@ -183,11 +183,11 @@ Slovenia nell'Unione europea. A tal fine, la Slovenia dovra' adoperarsi per sodd
 
 ## TITOLO I - PRINCIPI GENERALI
 
-###### ARTICOLO 2
+#### ARTICOLO 2
 
 La politica interna ed estera delle Parti si ispira al rispetto dei principi democratici e dei diritti umani proclamati nella Dichiarazione universale dei diritti dell'uomo e sanciti dall'Atto finale di Helsinki e dalla Carta di Parigi per una nuova Europa, nonche' ai principi dell'economia di mercato di cui al documento della conferenza CSCE di Bonn sulla cooperazione economica, che costituiscono parte integrante del presente accordo.
 
-###### ARTICOLO 3
+#### ARTICOLO 3
 
 1\. L'associazione prevede un periodo transitorio della durata massima di sei anni diviso in due fasi successive, che in linea di massima durano rispettivamente quattro e due anni. La prima fase inizia all'entrata in vigore del presente accordo.
 
@@ -199,7 +199,7 @@ La politica interna ed estera delle Parti si ispira al rispetto dei principi dem
 
 ## TITOLO II - DIALOGO POLITICO
 
-###### ARTICOLO 4
+#### ARTICOLO 4
 
 Si sviluppera' e si intensifichera' ulteriormente il dialogo politico con la Slovenia, che accompagnera' e consolidera' il ravvicinamento tra l'Unione europea e la Slovenia, sosterra' i mutamenti politici ed economici in atto o gia' realizzati in quest'ultimo paese e contribuira' a istituire stretti legami di solidarieta' e nuove forme di cooperazione tra le Parti. Il dialogo politico favorisce in particolare:
 
@@ -211,11 +211,11 @@ Si sviluppera' e si intensifichera' ulteriormente il dialogo politico con la Slo
 
 \- una comunanza di vedute sulla sicurezza e sulla stabilita' in Europa.
 
-###### ARTICOLO 5
+#### ARTICOLO 5
 
 Il dialogo politico si svolge e livello multilaterale, nelle forme e secondo le prassi concordate con i paesi associati dell'Europa centrale.
 
-###### ARTICOLO 6
+#### ARTICOLO 6
 
 1\. A livello ministeriale, il dialogo politico bilaterale avviene nell'ambito del consiglio di associazione, cui spetta la responsabilita' generale di tutte le questioni che le Parti ritengono utile sottoporgli.
 
@@ -229,15 +229,13 @@ Il dialogo politico si svolge e livello multilaterale, nelle forme e secondo le 
 
 \- con qualsiasi altro mezzo che possa contribuire a consolidare, sviluppare e intensificare tale dialogo.
 
-###### ARTICOLO 7
+#### ARTICOLO 7
 
 A livello parlamentare, il dialogo politico si svolge nell'ambito del comitato parlamentare di associazione istituito a norma dell'articolo 116.
 
-## TITOLO III - LIBERA CIRCOLAZIONE
+## TITOLO III - LIBERA CIRCOLAZIONE DELLE MERCI
 
-### DELLE MERCI
-
-###### ARTICOLO 8
+#### ARTICOLO 8
 
 1\. Nel corso di un periodo transitorio della durata massima di sei anni a decorrere dall'entrata in vigore dell'accordo sul libero scambio e sulle questioni commerciali, avvenuta il 1 gennaio 1995, la Comunita' e la Slovenia istituiscono progressivamente una zona di libero scambio, secondo le disposizioni del presente accordo e in base a quelle del GATT 1994 e dell'OMC.
 
@@ -249,9 +247,9 @@ A livello parlamentare, il dialogo politico si svolge nell'ambito del comitato p
 
 5\. La Comunita' e la Slovenia si comunicano a vicenda i rispettivi dazi di base.
 
-## CAPITOLO I - PRODOTTI INDUSTRIALI
+### CAPITOLO I - PRODOTTI INDUSTRIALI
 
-###### ARTICOLO 9
+#### ARTICOLO 9
 
 1\. Le disposizioni del presente capitolo si applicano ai prodotti originari della Comunita' o della Slovenia elencati nei capitoli 25-97 della nomenclatura combinata, fatta eccezione per i prodotti elencati nell'allegato I.
 
@@ -259,7 +257,7 @@ A livello parlamentare, il dialogo politico si svolge nell'ambito del comitato p
 
 3\. Gli scambi tra le Parti dei prodotti contemplati dal trattato che istituisce la Comunita' europea dell'energia atomica avvengono in base alle disposizioni di detto trattato.
 
-###### ARTICOLO 10
+#### ARTICOLO 10
 
 1\. I dazi doganali sulle importazioni applicabili nella Comunita' ai prodotti originari della Slovenia diversi da quelli elencati nell'allegato II sono aboliti all'entrata in vigore del presente accordo.
 
@@ -267,7 +265,7 @@ A livello parlamentare, il dialogo politico si svolge nell'ambito del comitato p
 
 3\. Le restrizioni quantitative sulle importazioni nella Comunita' e le misure d'effetto equivalente relative ai prodotti originari della Slovenia sono abolite alla data di entrata in vigore del presente accordo.
 
-###### ARTICOLO 11
+#### ARTICOLO 11
 
 1\. I dazi doganali sulle importazioni applicabili in Slovenia alle merci originarie della Comunita' diversi da quelli elencati negli allegati III e IV sono aboliti a decorrere della data di entrata in vigore del presente accordo.
 
@@ -297,15 +295,15 @@ A livello parlamentare, il dialogo politico si svolge nell'ambito del comitato p
 
 4\. Le restrizioni quantitative sulle importazioni in Slovenia di merci originarie della Comunita' e le misure di effetto equivalente sono abolite a decorrere dall'entrata in vigore del presente accordo.
 
-###### ARTICOLO 12
+#### ARTICOLO 12
 
 Le disposizioni relative all'abolizione dei dazi doganali sulle importazioni si applicano anche ai dazi doganali di carattere fiscale.
 
-###### ARTICOLO 13
+#### ARTICOLO 13
 
 A decorrere dall'entrata in vigore del presente accordo, la Comunita' e la Slovenia aboliscono, nei loro scambi, tutti gli oneri di effetto equivalente a dazi doganali sulle importazioni.
 
-###### ARTICOLO 14
+#### ARTICOLO 14
 
 1\. A decorrere dall'entrata in vigore del presente accordo, la Comunita' abolisce i dazi doganali all'esportazione e gli oneri di effetto equivalente.
 
@@ -313,7 +311,7 @@ A decorrere dall'entrata in vigore del presente accordo la Slovenia abolisce i d
 
 2\. A decorrere dall'entrata in vigore del presente accordo, la Comunita' e la Slovenia aboliscono reciprocamente tutte le restrizioni quantitative all'esportazione e tutte le misure di effetto equivalente.
 
-###### ARTICOLO 15
+#### ARTICOLO 15
 
 La Slovenia si dichiara disposta a ridurre i suoi dazi doganali nei confronti della Comunita' piu' rapidamente di quanto previsto all'articolo 11 qualora lo permettano le sue condizioni economiche generali e la situazione del settore economico interessato.
 
@@ -321,33 +319,33 @@ Alle stesse condizioni, la Comunita' si dichiara disposta ad aumentare ulteriorm
 
 Il consiglio di associazione puo' formulare raccomandazioni in tal senso.
 
-###### ARTICOLO 16
+#### ARTICOLO 16
 
 Il protocollo n. 1 determina il regime applicabile ai prodotti tessili indicati nel protocollo stesso.
 
-###### ARTICOLO 17
+#### ARTICOLO 17
 
 Il protocollo n. 2 determina il regime applicabile ai prodotti contemplati dal trattato che istituisce la Comunita' europea del carbone e dell'acciaio.
 
-###### ARTICOLO 18
+#### ARTICOLO 18
 
 1\. Le disposizioni del presente capitolo non ostano al mantenimento da parte della Comunita' di una componente agricola nei dazi applicabili ai prodotti elencati nell'allegato V originari della Slovenia.
 
 2\. Le disposizioni del presente capitolo non ostano all'introduzione da parte della Slovenia di una componente agricola nei dazi applicabili ai prodotti elencati nell'allegato V originari della Comunita'.
 
-## CAPITOLO II - AGRICOLTURA
+### CAPITOLO II - AGRICOLTURA
 
-###### ARTICOLO 19
+#### ARTICOLO 19
 
 1\. Le disposizioni del presente capitolo si applicano ai prodotti agricoli originari della Comunita' e della Slovenia.
 
 2\. Per "prodotti agricoli" si intendono i prodotti elencati nei capitoli 1-24 della nomenclatura combinata e i prodotti elencati nell'allegato I, fatte pero' eccezione per i prodotti della pesca, definiti ai sensi del regolamento (CEE) n. 3759/92.
 
-###### ARTICOLO 20
+#### ARTICOLO 20
 
 Il protocollo n. 3 specifica le condizioni applicabili agli scambi dei prodotti agricoli trasformati elencati nel suddetto protocollo.
 
-###### ARTICOLO 21
+#### ARTICOLO 21
 
 1\. Alla data di entrata in vigore del presente accordo, la Comunita' abolisce le restrizioni quantitative sulle importazioni di prodotti agricoli originari della Slovenia e le misure d'effetto equivalente.
 
@@ -359,29 +357,29 @@ Il protocollo n. 3 specifica le condizioni applicabili agli scambi dei prodotti 
 
 5\. Tenendo conto del volume dei loro scambi di prodotti agricoli, della loro appartenenza a settori particolarmente sensibili, delle regole della politica agraria comune della Comunita' e delle regole di politica agraria della Slovenia, nonche' delle conseguenze dei negoziati commerciali multilaterali nell'ambito GATT 1994 e dell'OMC, la Comunita' e la Slovenia esaminano in sede di consiglio di associazione, prodotto per prodotto e in modo ordinato e reciproco, le possibilita' di riconoscersi a vicenda ulteriori concessioni.
 
-###### ARTICOLO 22
+#### ARTICOLO 22
 
 Fatte salve le altre disposizioni del presente accordo e in particolare l'articolo 31, qualora, dato il carattere particolarmente sensibile dei mercati agricoli, le importazioni di prodotti originari di una delle due Parti soggette alle concessioni riconosciute ai sensi dell'articolo 21 provochino gravi perturbazioni sui mercati della controparte, le due Parti avviano immediatamente consultazioni per trovare una soluzione adeguata. In attesa di tale soluzione, la Parte interessata puo' adottare le misure che ritiene necessarie.
 
-## CAPITOLO III - PESCA
+### CAPITOLO III - PESCA
 
-###### ARTICOLO 23
+#### ARTICOLO 23
 
 Le disposizioni del presente capitolo si applicano ai prodotti della pesca originari della Comunita' e della Slovenia contemplati dal regolamento (CEE) n. 3759/92 sull'organizzazione comune dei mercati nel settore dei prodotti della pesca e dell'acquacoltura.
 
-###### ARTICOLO 24
+#### ARTICOLO 24
 
 1\. A decorrere dall'entrata in vigore del presente accordo, i prodotti della pesca originari della Slovenia elencati nell'allegato VIII a) sono soggetti ai dazi doganali ridotti previsti nel suddetto allegato. Ai prodotti della pesca si applicano, mutatis mutandis, le disposizioni degli articoli 21 e 22.
 
 2\. A decorrere dall'entrata in vigore del presente accordo, i prodotti della pesca originari della Comunita' elencati nell'allegato VIII b) sono soggetti ai dazi doganali ridotti previsti nel suddetto allegato. Ai prodotti della pesca si applicano, mutatis mutandis, le disposizioni degli articoli 21 e 22.
 
-## CAPITOLO IV - DISPOSIZIONI COMUNI
+### CAPITOLO IV - DISPOSIZIONI COMUNI
 
-###### ARTICOLO 25
+#### ARTICOLO 25
 
 Le disposizioni del presente capitolo si applicano agli scambi tra le Parti di tutti i prodotti, salvo quanto altrimenti disposto nel presente capitolo o nei protocolli nn. 1, 2 e 3.
 
-###### ARTICOLO 26
+#### ARTICOLO 26
 
 Standstill
 
@@ -391,7 +389,7 @@ Standstill
 
 3\. Fatte salve le concessioni riconosciute a norma sensi dell'articolo 21, le disposizioni dei paragrafi 1 e 2 del presente articolo non limitano in alcun modo il perseguimento delle rispettive politiche agrarie della Slovenia e della Comunita' o l'adozione di misure nel quadro di tali politiche, purche' rimanga inalterato il regime d'importazione di cui agli allegati VI e VII.
 
-###### ARTICOLO 27
+#### ARTICOLO 27
 
 Divieto di discriminazione fiscale
 
@@ -399,7 +397,7 @@ Divieto di discriminazione fiscale
 
 2\. I prodotti esportati nel territorio di una delle Parti non possono beneficiare di un rimborso delle imposte indirette interne superiore all'ammontare delle imposte dirette o indirette cui sono stati soggetti.
 
-###### ARTICOLO 28
+#### ARTICOLO 28
 
 Unioni doganali, zone di libero scambio, intese transfrontaliere
 
@@ -407,7 +405,7 @@ Unioni doganali, zone di libero scambio, intese transfrontaliere
 
 2\. Nell'ambito del consiglio di associazione si tengono consultazioni tra le Parti in merito agli accordi istitutivi delle suddette unioni doganali o zone di libero scambio e, se del caso, in merito ad altre importanti questioni relative alle rispettive politiche commerciali nei confronti dei paesi terzi. In particolare nel caso in cui un paese terzo entri e far parte della Comunita', si tengono consultazioni di questo tipo per tener conto dei reciproci interessi della Comunita' e della Slovenia sanciti nel presente accordo.
 
-###### ARTICOLO 29
+#### ARTICOLO 29
 
 Misure tariffarie eccezionali
 
@@ -425,13 +423,13 @@ La Slovenia informa il consiglio di associazione di ogni misura eccezionale che 
 
 Il consiglio di associazione puo' decidere un calendario diverso.
 
-###### ARTICOLO 30
+#### ARTICOLO 30
 
 Dumping
 
 Qualora una delle Parti ritenga che negli scambi con l'altra Parte stiano verificandosi pratiche di dumping, nell'accezione dell'articolo VI del GATT 1994, essa puo' adottare misure adeguate nei confronti di tali pratiche a norma dell'accordo relativo all'applicazione dell'articolo VI del GATT 1994, della relativa legislazione interna e delle condizioni e procedure di cui all'articolo 34.
 
-###### ARTICOLO 31
+#### ARTICOLO 31
 
 Clausole di salvaguardia generale
 
@@ -443,7 +441,7 @@ Qualora un prodotto venga importato in quantita' maggiorate e in condizioni tali
 
 la Parte interessata, sia essa la Comunita' o la Slovenia, puo' adottare le misure del caso alle condizioni e secondo le procedure specificate nell'articolo 34.
 
-###### ARTICOLO 32
+#### ARTICOLO 32
 
 Clausola di penuria
 
@@ -457,13 +455,13 @@ oppure
 
 e qualora le circostanze di cui sopra diano luogo, o possano probabilmente dar luogo a gravi difficolta' per la Parte esportatrice, quest'ultima puo' adottare le misure del caso alle condizioni e secondo le procedure specificate nell'articolo 34. Dette misure hanno carattere non discriminatorio e sono revocate quando la situazione non ne giustifica piu' il mantenimento.
 
-###### ARTICOLO 33
+#### ARTICOLO 33
 
 Monopoli di Stato
 
 Gli Stati membri e la Slovenia procedono ad un progressivo riordinamento dei monopoli nazionali che presentano un carattere commerciale in modo che venga esclusa alla fine del 1999 qualsiasi discriminazione fra i cittadini degli Stati membri per quanto riguarda le condizioni relative e all'approvvigionamento e agli sbocchi. Il consiglio di associazione e' informato delle misure adottate a tal fine.
 
-###### ARTICOLO 34
+#### ARTICOLO 34
 
 Procedure
 
@@ -489,27 +487,25 @@ Il consiglio di associazione puo' adottare qualsiasi decisione necessaria per po
 
 d) Qualora circostanze eccezionali che richiedono un intervento immediato rendano impossibile un'informazione o, a seconda dei casi, un esame preventivo, la Parte interessata, sia essa la Comunita' o la Slovenia, puo' applicare immediatamente, nelle situazioni specificate negli articoli 30, 31 e 32, le misure precauzionali strettamente necessarie per far fronte alla situazione.
 
-###### ARTICOLO 35
+#### ARTICOLO 35
 
 Il protocollo n. 4 stabilisce le norme di origine per l'applicazione delle preferenze tariffarie previste nel presente accordo nonche' i metodi di cooperazione amministrativa.
 
-###### ARTICOLO 36
+#### ARTICOLO 36
 
 Restrizioni autorizzate
 
 Il presente accordo lascia impregiudicata l'applicazione di divieti o restrizioni all'importazione, all'esportazione o al transito di merci giustificati da motivi di moralita' pubblica, di ordine pubblico o di pubblica sicurezza, di motivi legati alla tutela della salute e della vita delle persone, degli animali o di preservazione dei vegetali, alla tutela delle risorse naturali non rinnovabili, alla protezione del patrimonio artistico, storico o archeologico, o alla tutela della proprieta' intellettuale, industriale e commerciale o dalle norme relative all'oro e all'argento. Tuttavia tali divieti o restrizioni non devono costituire un mezzo di discriminazione arbitraria, ne' una restrizione dissimulata al commercio tra le Parti.
 
-###### ARTICOLO 37
+#### ARTICOLO 37
 
 Il presente accordo non pregiudica il regolamento (CE) n. 1911/91 del Consiglio, del 26 giugno 1991, relativo all'applicazione delle disposizioni del diritto comunitario alle Isole Canarie.
 
-## TITOLO IV - CIRCOLAZIONE DEI LAVORATORI,
+## TITOLO IV - CIRCOLAZIONE DEI LAVORATORI, STABILIMENTO, PRESTAZIONE DI SERVIZI
 
-### STABILIMENTO, - PRESTAZIONE DI SERVIZI
+### CAPITOLO I - CIRCOLAZIONE DEI LAVORATORI
 
-#### CAPITOLO I - CIRCOLAZIONE DEI LAVORATORI
-
-###### ARTICOLO 38
+#### ARTICOLO 38
 
 1\. Nel rispetto delle condizioni e modalita' applicabili in ciascuno Stato membro:
 
@@ -519,7 +515,7 @@ Il presente accordo non pregiudica il regolamento (CE) n. 1911/91 del Consiglio,
 
 2\. Nel rispetto delle condizioni e modalita' applicabili nel suo territorio, la Slovenia concede il trattamento di cui al paragrafo 1 ai lavoratori cittadini di uno Stato membro legalmente occupati sul suo territorio, nonche' ai loro coniugi e figli legalmente residenti in tale territorio.
 
-###### ARTICOLO 39
+#### ARTICOLO 39
 
 1\. Al fine di coordinare i sistemi di sicurezza sociale per i lavoratori di nazionalita' slovena legalmente occupati nel territorio di uno Stato membro e per i loro familiari legalmente residenti in tale territorio, e nel rispetto delle condizioni e modalita' applicabili in ciascuno Stato membro,
 
@@ -531,17 +527,17 @@ Il presente accordo non pregiudica il regolamento (CE) n. 1911/91 del Consiglio,
 
 2\. La Slovenia concede ai lavoratori cittadini di uno Stato membro legalmente occupati sul suo territorio e ai loro familiari legalmente residenti sul suo territorio un trattamento analogo a quello specificato al secondo e al terzo trattino del paragrafo 1.
 
-###### ARTICOLO 40
+#### ARTICOLO 40
 
 1\. Il consiglio di associazione adotta con apposita decisione le disposizioni necessarie per conseguire l'obiettivo di cui all'articolo 39.
 
 2\. Il consiglio di associazione adotta con apposita decisione norme particolareggiate in materia di collaborazione amministrativa che diano le necessarie garanzie di gestione e di controllo per l'applicazione delle disposizioni di cui al paragrafo 1.
 
-###### ARTICOLO 41
+#### ARTICOLO 41
 
 Le disposizioni adottate dal consiglio di associazione a norma dell'articolo 40 non modificano eventuali diritti o obblighi derivanti da accordi bilaterali tra la Slovenia e gli Stati membri qualora tali accordi prevedano un trattamento piu' favorevole per i cittadini della Slovenia o degli Stati membri.
 
-###### ARTICOLO 42
+#### ARTICOLO 42
 
 1\. Tenendo conto della situazione del mercato del lavoro nello Stato membro in questione, nel rispetto della sua legislazione e delle regole in vigore in quello Stato membro in materia di mobilita' dei lavoratori:
 
@@ -551,17 +547,17 @@ Le disposizioni adottate dal consiglio di associazione a norma dell'articolo 40 
 
 2\. Il consiglio di associazione valuta l'opportunita' di concedere ulteriori facilitazioni, ivi comprese le possibilita' di accesso alla formazione professionale, in base alle norme e procedure in vigore negli Stati membri e tenendo conto della situazione del mercato del lavoro degli Stati membri e della Comunita'.
 
-###### ARTICOLO 43
+#### ARTICOLO 43
 
 Nel corso della seconda fase di cui all'articolo 3, o prima se cosi' si dovesse decidere, il consiglio di associazione esamina altri modi per favorire la circolazione dei lavoratori, tenendo conto tra l'altro della situazione sociale ed economica della Slovenia e della situazione dell'occupazione nella Comunita'. Il consiglio di associazione formula raccomandazioni in tal senso.
 
-###### ARTICOLO 44
+#### ARTICOLO 44
 
 Al fine di agevolare la riorganizzazione delle risorse di manodopera derivante dalla ristrutturazione economica in atto in Slovenia, la Comunita' fornisce assistenza tecnica per l'istituzione di un adeguato sistema di sicurezza sociale in Slovenia come previsto all'articolo 89.
 
-## CAPITOLO II - STABILIMENTO
+### CAPITOLO II - STABILIMENTO
 
-###### ARTICOLO 45
+#### ARTICOLO 45
 
 1\. Nel corso del periodo transitorio di cui all'articolo 3, la Slovenia agevola l'insediamento sul suo territorio di societa' e cittadini comunitari. A tal fine essa concede, a decorrere dall'entrata in vigore del presente accordo,
 
@@ -595,13 +591,13 @@ b) Le filiali di societa' comunitarie hanno inoltre il diritto di acquistare e v
 
 c) La Slovenia riconosce i diritti di cui alla lettera b) ai cittadini comunitari e alle filiali di societa' comunitarie entro la fine della prima fase del periodo transitorio.
 
-###### ARTICOLO 46
+#### ARTICOLO 46
 
 1\. Le disposizioni del presente capitolo non si applicano ai servizi di trasporto aereo, fluviale e marittimo.
 
 2\. Il consiglio di associazione puo' formulare raccomandazioni per migliorare le condizioni di stabilimento e di attivita' nei settori di cui al paragrafo 1.
 
-###### ARTICOLO 47
+#### ARTICOLO 47
 
 Ai fini del presente accordo,
 
@@ -631,7 +627,7 @@ h) per quanto riguarda il trasporto marittimo internazionale, comprese le operaz
 
 i) per "servizi finanziari" si intendono le attivita' descritte nell'allegato IX c). Il consiglio di associazione puo' ampliare o modificare il campo d'applicazione di tale allegato.
 
-###### ARTICOLO 48
+#### ARTICOLO 48
 
 1\. Fatte salve le disposizioni dell'articolo 45, fatta eccezione per i servizi finanziari di cui all'allegato IX c), ciascuna Parte puo' disciplinare lo stabilimento e l'attivita' delle societa' e dei cittadini sul suo territorio, sempreche' cosi' facendo non discrimini le societa' e i cittadini dell'altra Parte rispetto alle sue societa' e ai suoi cittadini.
 
@@ -639,13 +635,13 @@ i) per "servizi finanziari" si intendono le attivita' descritte nell'allegato IX
 
 3\. Nessuna disposizione dell'accordo impone a una delle Parti di rivelare informazioni connesse all'attivita' e alla contabilita' di singoli clienti o informazioni riservate in possesso di organismi pubblici.
 
-###### ARTICOLO 49
+#### ARTICOLO 49
 
 1\. Le disposizioni degli articoli 45 e 48 non impediscono a una delle Parti di applicare regole particolari, per lo stabilimento e l'attivita' sul suo territorio di filiali di societa' dell'altra Parte al di fuori del territorio della prima, giustificate da differenze giuridiche o tecniche tra dette filiali e quelle di societa' stabilite sul suo territorio oppure, per i servizi finanziari, da motivi di prudenza.
 
 2\. La differenza di trattamento si limita a quanto strettamente necessario in seguito a tali differenze giuridiche o tecniche oppure, per i servizi finanziari, per motivi di prudenza.
 
-###### ARTICOLO 50
+#### ARTICOLO 50
 
 1\. Una societa' comunitaria o una societa' slovena stabilita, rispettivamente, sul territorio della Slovenia o della Comunita' ha il diritto di assumere o di far assumere da una delle sue consociate o filiali, in base alla legislazione in vigore nel paese di stabilimento, sul territorio della Slovenia e della Comunita', cittadini degli Stati membri e della Slovenia, purche' si tratti di quadri intermedi a norma del paragrafo 2 impiegati esclusivamente da societa', consociate o filiali.
 
@@ -673,11 +669,11 @@ c) Per "persona trasferita all'interno della societa'" si intende una persona fi
 
 \- la sede principale della societa' si trovi al di fuori della Comunita' e della Slovenia e che non esistano altri rappresentanti, uffici, filiali o consociate della societa' nello Stato membro della Comunita' o in Slovenia.
 
-###### ARTICOLO 51
+#### ARTICOLO 51
 
 Al fine di rendere piu' agevole per i cittadini della Comunita' e della Slovenia l'avvio e lo svolgimento di attivita' professionali regolamentate in Slovenia e nella Comunita', il consiglio di associazione esamina le iniziative da prendere ai fini del reciproco riconoscimento delle qualifiche. Il consiglio di associazione puo' prendere tutte le misure necessarie a tal fine.
 
-###### ARTICOLO 52
+#### ARTICOLO 52
 
 Nel corso dei primi quattro anni successivi alla data di entrata in vigore del presente accordo, o per i settori compresi negli allegati IX a), durante il periodo transitorio di cui all'articolo 3, la Slovenia puo' prendere misure in deroga alle disposizioni del presente capitolo per quanto riguarda lo stabilimento di societa' e cittadini comunitari qualora determinate industrie:
 
@@ -703,9 +699,9 @@ Prima di introdurre le suddette misure, la Slovenia consulta il consiglio di ass
 
 Al termine dei quattro anni successivi all'entrata in vigore del presente accordo o per i settori compresi negli allegati IX a), al termine del periodo transitorio di cui all'articolo 3, la Slovenia puo' introdurre misure di questo tipo solo con l'autorizzazione del consiglio di associazione e alle condizioni stabilite da quest'ultimo.
 
-## CAPITOLO III - PRESTAZIONE DI SERVIZI
+### CAPITOLO III - PRESTAZIONE DI SERVIZI
 
-###### ARTICOLO 53
+#### ARTICOLO 53
 
 1\. Le Parti si impegnano, e norma delle seguenti disposizioni, a prendere i provvedimenti necessari per consentire progressivamente la prestazione di servizi da parte di societa' o di cittadini comunitari o sloveni stabiliti in una Parte diversa da quella della persone alla quale i servizi sono destinati.
 
@@ -713,13 +709,13 @@ Al termine dei quattro anni successivi all'entrata in vigore del presente accord
 
 3\. Entro e non oltre otto anni dall'entrata in vigore del presente accordo, il consiglio di associazione prende le misure necessarie per la progressiva attuazione delle disposizioni del paragrafo 1. Si tiene conto dei progressi compiuti dalle Parti per quanto riguarda il ravvicinamento delle loro leggi.
 
-###### ARTICOLO 54
+#### ARTICOLO 54
 
 1\. Le Parti si astengono da misure o azioni che rendano le condizioni per la prestazione di servizi da parte di cittadini o societa' della Comunita' e della Slovenia stabiliti in una Parte diversa da quella del destinatario dei servizi nettamente piu' restrittive rispetto alla situazione esistente il giorno precedente all'entrata in vigore dell'accordo.
 
 2\. Se una Parte ritiene che le misure introdotte dall'altra Parte dopo la firma dell'accordo rendano la situazione, per quanto riguarda la prestazione di servizi, nettamente piu' restrittiva rispetto e quella esistente al momento della firma dell'accordo, puo' chiedere all'altra Parte di avviare consultazioni.
 
-###### ARTICOLO 55
+#### ARTICOLO 55
 
 Fatto salvo l'articolo 53, per quanto riguarda la prestazione di servizi di trasporto tra la Comunita' e la Slovenia si applicano le disposizioni seguenti:
 
@@ -753,25 +749,25 @@ accordo, tutte le misure unilaterali e gli ostacoli amministrativi, tecnici e di
 
 7\) A mano a mano che le Parti progrediscono nel conseguimento degli obiettivi del presente capitolo, il consiglio di associazione esamina in qual modo si possa migliorare la libera prestazione dei servizi di trasporto aereo e terrestre.
 
-## CAPITOLO IV - DISPOSIZIONI GENERALI
+### CAPITOLO IV - DISPOSIZIONI GENERALI
 
-###### ARTICOLO 56
+#### ARTICOLO 56
 
 1\. L'applicazione delle disposizioni del presente titolo e' soggetta alle limitazioni giustificate da motivi di ordine pubblico, di pubblica sicurezza o di pubblica sanita'.
 
 2\. Dette disposizioni non si applicano alle attivita' svolte sul territorio di una o dell'altra Parte e connesse, anche occasionalmente, all'esercizio dei pubblici poteri.
 
-###### ARTICOLO 57
+#### ARTICOLO 57
 
 1\. Ai fini del presente titolo, nessuna disposizione del presente accordo impedisce alle Parti di applicare le rispettive leggi e disposizioni in materia di ingresso e soggiorno, lavoro, condizioni di lavoro e stabilimento delle persone fisiche, nonche' di prestazione dei servizi, a condizione che, cosi' facendo, esse non le applichino in modo da vanificare o compromettere i benefici spettanti all'una o all'altra a norma di una specifica disposizione dell'accordo. La presente disposizione non pregiudica l'applicazione dell'articolo 56.
 
 2\. L'esclusione delle societa' e dei cittadini comunitari stabiliti in Slovenia a norma delle disposizioni del Capitolo II dagli aiuti pubblici concessi dalla Slovenia in materia di istruzione, di sanita' e di servizi sociali e culturali e' considerata per una durata del periodo transitorio di cui all'articolo 3, compatibile con le disposizioni del presente Titolo e con le norme in materia di concorrenza di cui al Titolo V.
 
-###### ARTICOLO 58
+#### ARTICOLO 58
 
 Le societa' controllate da e di proprieta' esclusiva di societa' o cittadini della Slovenia oppure di proprieta' comune di societa' o cittadini della Comunita' beneficiano anch'esse delle disposizioni del presente titolo.
 
-###### ARTICOLO 59
+#### ARTICOLO 59
 
 1\. Il trattamento della nazione piu' favorita concesso a norma del presente titolo non si applica alle agevolazioni fiscali gia' concesse o che le Parti concederanno in futuro in base ad accordi volti a evitare la doppia imposizione o altre intese in materia fiscale.
 
@@ -779,27 +775,23 @@ Le societa' controllate da e di proprieta' esclusiva di societa' o cittadini del
 
 3\. Nessuna disposizione del presente titolo vieta agli Stati membri o alla Slovenia di fare distinzioni, nell'applicare le pertinenti disposizioni della loro legislazione tributaria, fra contribuenti la cui situazione non e' identica, segnatamente per quanto riguarda il luogo di residenza.
 
-###### ARTICOLO 60
+#### ARTICOLO 60
 
 Le disposizioni del presente titolo sono progressivamente adeguate, in particolare alla luce dei requisiti posti dall'articolo V dell'accordo generale sugli scambi di servizi (GATS).
 
-###### ARTICOLO 61
+#### ARTICOLO 61
 
 Le disposizioni del presente accordo non vietano alle Parti di prendere le misure necessarie per impedire l'elusione, tramite le disposizioni del presente accordo, delle disposizioni relative all'accesso dei paesi terzi ai loro mercati.
 
-## TITOLO V - PAGAMENTI, CAPITALI,
+## TITOLO V - PAGAMENTI, CAPITALI, CONCORRENZA E ALTRE DISPOSIZIONI DI CARATTERE ECONOMICO, RAVVICINAMENTO DELLE LEGISLAZIONI
 
-### CONCORRENZA E ALTRE DISPOSIZIONI - DI CARATTERE ECONOMICO,
+### CAPITOLO I - PAGAMENTI CORRENTI E MOVIMENTI DI CAPITALE
 
-#### RAVVICINAMENTO DELLE LEGISLAZIONI - CAPITOLO I
-
-##### PAGAMENTI CORRENTI E MOVIMENTI DI CAPITALE
-
-###### ARTICOLO 62
+#### ARTICOLO 62
 
 Le Parti si impegnano ad autorizzare, in moneta liberamente convertibile, qualsiasi pagamento sul conto corrente della bilancia dei pagamenti purche' la transazione all'origine del pagamento riguardi movimenti di beni, servizi o persone tra le Parti liberalizzati a norma del presente accordo.
 
-###### ARTICOLO 63
+#### ARTICOLO 63
 
 1\. Per quanto riguarda le transazioni sul conto capitale della bilancia dei pagamenti, a decorrere dall'entrata in vigore del presente accordo gli Stati membri e la Slovenia garantiscono la libera circolazione dei capitali relativi ad investimenti diretti effettuati in societa' costituite in base alle leggi del paese ospitante e agli investimenti effettuati a norma delle disposizioni del titolo IV, capitolo II, nonche' la liquidazione o il rimpatrio di detti investimenti e dei profitti da essi derivanti.
 
@@ -817,15 +809,15 @@ Fatti salvi gli articoli 62 e 63, se, in circostanze eccezionali, i movimenti di
 
 4\. Le Parti si consultano per facilitare la circolazione dei capitali tra la Comunita' e la Slovenia al fine di promuovere gli obiettivi del presente accordo.
 
-###### ARTICOLO 64
+#### ARTICOLO 64
 
 1\. Durante i quattro anni successivi all'entrata in vigore del presente accordo, le Parti prendono misure atte a consentire la creazione delle condizioni necessarie per l'ulteriore graduale applicazione delle norme comunitarie in materia di libera circolazione dei capitali.
 
 2\. Entro la fine del quarto anno dall'entrata in vigore del presente accordo, il consiglio di associazione esamina in che modo rendere possibile la piena applicazione delle norme comunitarie in materia di circolazione dei capitali.
 
-## CAPITOLO II - CONCORRENZA E ALTRE DISPOSIZIONI DI CARATTERE ECONOMICO
+### CAPITOLO II - CONCORRENZA E ALTRE DISPOSIZIONI DI CARATTERE ECONOMICO
 
-###### ARTICOLO 65
+#### ARTICOLO 65
 
 1\. Sono incompatibili con il corretto funzionamento del presente accordo, nella misura in cui possano essere pregiudizievoli al commercio tra la Comunita' e la Slovenia:
 
@@ -871,7 +863,7 @@ Nel caso di pratiche incompatibili ai sensi del paragrafo 1, punto iii) del pres
 
 8\. Tale articolo non si applica ai prodotti contemplati dal trattato che istituisce la Comunita' europea del carbone e dell'acciaio che sono oggetto del protocollo n. 2.
 
-###### ARTICOLO 66
+#### ARTICOLO 66
 
 1\. Le Parti si adoperano, nei limiti del possibile, per evitare l'imposizione di misure restrittive, ivi comprese le misure relative alle importazioni, e fini di bilancia dei pagamenti. Qualora una parte adotti tale misura, sottopone quanto prima all'altra parte un calendario per la loro abolizione.
 
@@ -879,11 +871,11 @@ Nel caso di pratiche incompatibili ai sensi del paragrafo 1, punto iii) del pres
 
 3\. Le eventuali misure restrittive non si applicano ai trasferimenti relativi a investimenti e, in particolare, al rimpatrio degli importi investiti o reinvestiti e di qualsiasi tipo di reddito da essi derivante.
 
-###### ARTICOLO 67
+#### ARTICOLO 67
 
 Per quanto riguarda le imprese pubbliche e le imprese cui sono stati riconosciuti diritti speciali o esclusivi, il consiglio di associazione garantisce che, e decorrere dal terzo anno successivo all'entrata in vigore del presente accordo, si applichino i principi del trattato che istituisce la Comunita' europea, in particolare l'articolo 90.
 
-###### ARTICOLO 68
+#### ARTICOLO 68
 
 1\. A norma del presente articolo e dell'allegato XIX, le Parti confermano l'importanza che attribuiscono ad un'adeguata ed effettiva tutela e applicazione dei diritti di proprieta' intellettuale, industriale e commerciale.
 
@@ -893,7 +885,7 @@ Per quanto riguarda le imprese pubbliche e le imprese cui sono stati riconosciut
 
 4\. Qualora nel settore della proprieta' intellettuale, industriale e commerciale dovessero verificarsi problemi tali da falsare le condizioni del commercio, si consulta urgentemente, su richiesta di una o dell'altra Parte, il consiglio di associazione al fine di trovare soluzioni reciprocamente soddisfacenti.
 
-###### ARTICOLO 69
+#### ARTICOLO 69
 
 1\. Le Parti sono favorevoli ad una maggiore apertura dell'aggiudicazione degli appalti pubblici in base ai principi di non discriminazione e di reciprocita', segnatamente nell'ambito dell'OMC.
 
@@ -909,19 +901,19 @@ Il consiglio di associazione esamina periodicamente la possibilita' per la Slove
 
 3\. Per quanto riguarda lo stabilimento, l'attivita' e la fornitura di servizi tra la Comunita' e la Slovenia, nonche' l'occupazione e la circolazione della manodopera per l'esecuzione dei contratti d'appalto pubblici, si applicano le disposizioni degli articoli 38-61.
 
-## CAPITOLO III - RAVVICINAMENTO DELLE LEGISLAZIONI
+### CAPITOLO III - RAVVICINAMENTO DELLE LEGISLAZIONI
 
-###### ARTICOLO 70
+#### ARTICOLO 70
 
 Le Parti riconoscono che un importante requisito per l'integrazione economica della Slovenia nella Comunita' e' il ravvicinamento della legislazione presente e futura della Slovenia e quella della Comunita'. La Slovenia deve pertanto adoperarsi per rendere la propria legislazione progressivamente compatibile con quella comunitaria.
 
-###### ARTICOLO 71
+#### ARTICOLO 71
 
 1\. Il ravvicinamento delle legislazioni si estende in particolare ai seguenti settori: legislazione doganale, diritto societario, legislazione bancaria, diritto assicurativo, conti societari e imposizione delle imprese, servizi finanziari, regole di concorrenza, normativa in materia di commesse di appalti pubblici, tutela della salute e della vita di esseri umani, animali e piante, imposizione indiretta, norme e standard tecnici, legislazione e normative in campo nucleare, trasporti e telecomunicazioni.
 
 2\. In particolare le parti considerano importante, per quanto riguarda il ravvicinamento delle legislazioni compiere rapidi progressi in materia di mercato interno, concorrenza, tutela dei lavoratori, diritti dei consumatori e ambiente.
 
-###### ARTICOLO 72
+#### ARTICOLO 72
 
 La Comunita' fornisce alla Slovenia l'assistenza tecnica necessaria per attuare queste misure, che possono comprendere, tra l'altro:
 
@@ -937,7 +929,7 @@ La Comunita' fornisce alla Slovenia l'assistenza tecnica necessaria per attuare 
 
 ## TITOLO VI - COOPERAZIONE ECONOMICA
 
-###### ARTICOLO 73
+#### ARTICOLO 73
 
 1\. La Comunita' e la Slovenia avviano una cooperazione economica per contribuire allo sviluppo e al potenziale di crescita della Slovenia, rafforzando i legami economici esistenti sulla base piu' ampia possibile, a vantaggio di entrambe le Parti.
 
@@ -947,7 +939,7 @@ La Comunita' fornisce alla Slovenia l'assistenza tecnica necessaria per attuare 
 
 4\. Si deve rivolgere particolare attenzione alle misure atte a promuovere la cooperazione fra la Slovenia e i paesi dell'Europa centrale e orientale.
 
-###### ARTICOLO 74
+#### ARTICOLO 74
 
 COOPERAZIONE INDUSTRIALE
 
@@ -961,7 +953,7 @@ COOPERAZIONE INDUSTRIALE
 
 3\. Le azioni di cooperazione industriale tengono conto delle priorita' stabilite dalla Slovenia, puntano in particolare a costituire un contesto adeguato per le imprese, a migliorare il know- how in materia di gestione e a promuovere la trasparenza in materia di mercati e di condizioni per l'attivita' delle imprese e comprendono, se del caso, assistenza tecnica.
 
-###### ARTICOLO 75
+#### ARTICOLO 75
 
 PROMOZIONE E TUTELA DEGLI INVESTIMENTI
 
@@ -983,7 +975,7 @@ PROMOZIONE E TUTELA DEGLI INVESTIMENTI
 
 \- lo scambio di informazioni sulle opportunita' di investimento, tramite fiere ed esposizioni commerciali, settimane commerciali e altre manifestazioni.
 
-###### ARTICOLO 76
+#### ARTICOLO 76
 
 Standardizzazione e valutazione della conformita'
 
@@ -999,7 +991,7 @@ Standardizzazione e valutazione della conformita'
 
 3\. La Comunita' fornisce alla Slovenia l'assistenza tecnica eventualmente necessaria.
 
-###### ARTICOLO 77
+#### ARTICOLO 77
 
 Cooperazione nel settore della scienza e della tecnologia
 
@@ -1023,7 +1015,7 @@ Si fornisce la necessaria assistenza tecnica.
 
 3\. La cooperazione prevista dal programma quadro comunitario nel settore della ricerca e dello sviluppo tecnologico si basa su intese specifiche da negoziare e da concludere in base alle procedure legali di ciascuna delle Parti.
 
-###### ARTICOLO 78
+#### ARTICOLO 78
 
 Istruzione e formazione
 
@@ -1045,7 +1037,7 @@ Istruzione e formazione
 
 3\. Nel settore della traduzione, ci si concentra sulla formazione dei traduttori e degli interpreti nonche' sulla promozione delle norme e della terminologia linguistiche della Comunita'.
 
-###### ARTICOLO 79
+#### ARTICOLO 79
 
 Agricoltura e settore agroindustriale
 
@@ -1067,7 +1059,7 @@ Agricoltura e settore agroindustriale
 
 2\. La Comunita' fornisce l'assistenza tecnica necessaria a tal fine.
 
-###### ARTICOLO 80
+#### ARTICOLO 80
 
 Energia
 
@@ -1101,7 +1093,7 @@ Energia
 
 \- uso e sostegno delle fonti energetiche nuove e rinnovabili.
 
-###### ARTICOLO 81
+#### ARTICOLO 81
 
 Sicurezza nucleare
 
@@ -1125,7 +1117,7 @@ Sicurezza nucleare
 
 3\. La cooperazione comprende altresi' scambi d'informazioni e di esperienze, nonche' attivita' di ricerca e di sviluppo a norma all'articolo 77.
 
-###### ARTICOLO 82
+#### ARTICOLO 82
 
 Ambiente e protezione contro le catastrofi naturali
 
@@ -1201,7 +1193,7 @@ A tal fine, la cooperazione comprende i settori seguenti:
 
 \- esercitazioni di salvataggio e soccorso.
 
-###### ARTICOLO 83
+#### ARTICOLO 83
 
 Trasporti
 
@@ -1239,7 +1231,7 @@ Trasporti
 
 \- elaborazione di politiche dei trasporti coerenti e compatibili con quelle in vigore nella Comunita'.
 
-###### ARTICOLO 84
+#### ARTICOLO 84
 
 Poste e telecomunicazioni
 
@@ -1271,7 +1263,7 @@ Poste e telecomunicazioni
 
 \- pianificazione territoriale, compresa la pianificazione edilizia e urbana.
 
-###### ARTICOLO 85
+#### ARTICOLO 85
 
 Servizi bancari, servizi assicurativi e altri servizi finanziari
 
@@ -1317,7 +1309,7 @@ pubbliche amministrazioni;
 
 b) La Comunita' fornisce l'assistenza tecnica necessaria.
 
-###### ARTICOLO 86
+#### ARTICOLO 86
 
 Politica monetaria
 
@@ -1325,7 +1317,7 @@ Su richiesta delle autorita' della Slovenia, la Comunita' fornisce l'assistenza 
 
 La cooperazione in questo settore comprende scambi informali di informazioni sui principi e sul funzionamento del Sistema monetario europeo, dell'Istituto monetario europeo e del Sistema europeo di banche centrali.
 
-###### ARTICOLO 87
+#### ARTICOLO 87
 
 Prevenzione del riciclaggio del denaro
 
@@ -1333,7 +1325,7 @@ Prevenzione del riciclaggio del denaro
 
 2\. La cooperazione nel settore comprende un'assistenza amministrativa e tecnica volta a sostenere l'attuazione delle disposizioni e a garantire un efficace funzionamento di norme e meccanismi adeguati per la lotta contro il riciclaggio del denaro, equivalenti a quelli adottati in materia dalla Comunita' e dai consessi internazionali che operano nel settore, in particolare il Gruppo di azione finanziaria internazionale (GAFI).
 
-###### ARTICOLO 88
+#### ARTICOLO 88
 
 Sviluppo regionale
 
@@ -1357,7 +1349,7 @@ Sviluppo regionale
 
 \- avvio di programmi di scambi di informazioni e di esperienze, anche sotto forma di seminari.
 
-###### ARTICOLO 89
+#### ARTICOLO 89
 
 Cooperazione nel settore sociale
 
@@ -1377,7 +1369,7 @@ La cooperazione comprende inoltre l'esecuzione di studi, l'invio di esperti, azi
 
 3\. Per quanto riguarda la sicurezza sociale, le Parti cercano di adeguare il regime sloveno alle nuove esigenze economiche e sociali, principalmente assicurando i servizi di esperti e fornendo informazioni e formazione.
 
-###### ARTICOLO 90
+#### ARTICOLO 90
 
 Turismo
 
@@ -1397,7 +1389,7 @@ Le Parti promuovono e intensificano la cooperazione, in particolare al fine di:
 
 \- introdurre in Slovenia un sistema di prenotazione informatizzato, sistemi di informazione e norme per la tutela dei turisti in quanto consumatori.
 
-###### ARTICOLO 91
+#### ARTICOLO 91
 
 Piccole e medie imprese
 
@@ -1417,7 +1409,7 @@ Piccole e medie imprese
 
 \- servizi di formazione e di consulenza.
 
-###### ARTICOLO 92
+#### ARTICOLO 92
 
 Informazione e comunicazione
 
@@ -1427,7 +1419,7 @@ Informazione e comunicazione
 
 3\. La cooperazione puo' comprendere programmi di scambio, borse di studio, cicli di formazione per giornalisti e altri esperti in materia di mass media.
 
-###### ARTICOLO 93
+#### ARTICOLO 93
 
 Tutela dei consumatori
 
@@ -1455,7 +1447,7 @@ Tutela dei consumatori
 
 \- sviluppo degli scambi tra coloro che rappresentano gli interessi dei consumatori.
 
-###### ARTICOLO 94
+#### ARTICOLO 94
 
 Dogane
 
@@ -1477,7 +1469,7 @@ Si fornira' l'assistenza tecnica necessaria.
 
 3\. Fatta salva l'ulteriore cooperazione prevista dal presente accordo, in particolare dall'articolo 97, l'assistenza reciproca tra le autorita' amministrative delle Parti competenti per quanto riguarda le questioni doganali e' disciplinata dalle disposizioni del protocollo n. 5.
 
-###### ARTICOLO 95
+#### ARTICOLO 95
 
 Cooperazione nel settore statistico
 
@@ -1515,7 +1507,7 @@ statistico delle Comunita' europee (Eurostat);
 
 \- scambio di dati statistici.
 
-###### ARTICOLO 96
+#### ARTICOLO 96
 
 Politica economica
 
@@ -1529,7 +1521,7 @@ Politica economica
 
 \- mediante, in particolare, il programma d'azione per la cooperazione economica (ACE) promozione di una cooperazione su vasta scala tra economisti e dirigenti della Comunita' e della Slovenia, al fine di accelerare i trasferimenti di know-how per l'elaborazione delle politiche economiche e di garantire una vasta diffusione dei risultati della ricerca in materia.
 
-###### ARTICOLO 97
+#### ARTICOLO 97
 
 Lotta contro la droga
 
@@ -1541,7 +1533,7 @@ Lotta contro la droga
 
 ## TITOLO VII - PREVENZIONE DELLE ATTIVITA' ILLECITE
 
-###### ARTICOLO 98
+#### ARTICOLO 98
 
 1\. Le Parti, nei limiti dei rispettivi poteri e delle rispettive competenze, definiscono un contesto di cooperazione al fine di prevenire le attivita' illecite quali:
 
@@ -1573,7 +1565,7 @@ Lotta contro la droga
 
 ## TITOLO VIII - COOPERAZIONE CULTURALE
 
-###### ARTICOLO 99
+#### ARTICOLO 99
 
 1\. Le Parti si impegnano a promuovere, incoraggiare e agevolare la cooperazione culturale. All'occorrenza, potranno essere estesi alla Slovenia i programmi di cooperazione culturale comunitari o quelli di uno o piu' Stati membri e si potranno sviluppare ulteriori attivita' di reciproco interesse.
 
@@ -1599,11 +1591,11 @@ La cooperazione potrebbe comprendere, tra l'altro, lo scambio di programmi, bors
 
 ## TITOLO IX - COOPERAZIONE FINANZIARIA
 
-###### ARTICOLO 100
+#### ARTICOLO 100
 
 Al fine di raggiungere gli obiettivi del presente accordo e in base agli articoli 101, 102, e 104, fatto salvo l'articolo 103, la Slovenia beneficia di assistenza finanziaria temporanea da parte della Comunita' sotto forma di sovvenzioni e prestiti, compresi prestiti della Banca europea per gli investimenti, a norma dell'articolo 18 dello statuto della Banca, per accelerare la trasformazione economica del paese.
 
-###### ARTICOLO 101
+#### ARTICOLO 101
 
 Tale assistenza finanziaria e' coperta:
 
@@ -1611,13 +1603,13 @@ Tale assistenza finanziaria e' coperta:
 
 \- dal prestito o dai prestiti concessi dalla Banca europea per gli investimenti entro un massimale e per un periodo di disponibilita' da stabilire previa consultazione con la Slovenia in applicazione delle pertinenti disposizioni del trattato sull'Unione europea.
 
-###### ARTICOLO 102
+#### ARTICOLO 102
 
 Gli obiettivi e i settori dell'assistenza finanziaria comunitaria sono stabiliti in un programma indicativo da concordare tra le Parti.
 
 Le Parti informano il consiglio di associazione.
 
-###### ARTICOLO 103
+#### ARTICOLO 103
 
 1\. In caso di necessita' straordinaria e tenendo conto delle risorse finanziarie globali disponibili, su richiesta della Slovenia e in coordinamento con le istituzioni finanziarie internazionali nel contesto del G-24, la Comunita' valuta la possibilita' di concedere assistenza finanziaria temporanea finalizzata a:
 
@@ -1629,15 +1621,15 @@ Le Parti informano il consiglio di associazione.
 
 3\. Il consiglio di associazione e' informato delle condizioni alle quali tale assistenza e' concessa e del rispetto degli impegni assunti dalla Slovenia in merito.
 
-###### ARTICOLO 104
+#### ARTICOLO 104
 
 L'assistenza finanziaria comunitaria e' valutata alla luce delle necessita' e del livello di sviluppo della Slovenia, tenendo conto delle priorita' stabilite, delle potenzialita' di assorbimento della sua economia, nonche' della sua capacita' di rimborsare i prestiti e di portare avanti la ristrutturazione fino all'introduzione di un'economia di mercato.
 
-###### ARTICOLO 105
+#### ARTICOLO 105
 
 Per consentire un impiego ottimale delle risorse disponibili, le Parti si adoperano affinche' i contributi comunitari siano erogati in stretto coordinamento con quelli provenienti da altre fonti quali gli Stati membri, i paesi terzi, inclusi quelli del G-24, e le istituzioni finanziarie internazionali quali il Fondo monetario internazionale, la Banca internazionale per la ricostruzione e lo sviluppo e la Banca europea per la ricostruzione e lo sviluppo.
 
-###### ARTICOLO 106
+#### ARTICOLO 106
 
 La Slovenia partecipa ai programmi quadro, ai programmi specifici, ai progetti e alle altre azioni della Comunita' nei settori indicati nell'allegato XI. Fatta salva l'attuale partecipazione della Slovenia alle attivita' di cui all'allegato XI, il consiglio di associazione stabilisce le modalita' e le condizioni della partecipazione della Slovenia a queste attivita'. Il contributo finanziario della Slovenia alle attivita' di cui all'allegato XI si basa sul principio che impone al paese di sostenere il costo della sua partecipazione.
 
@@ -1645,27 +1637,27 @@ All'occorrenza, la Comunita' puo' decidere caso per caso, attenendosi alle regol
 
 ## TITOLO X - DISPOSIZIONI RELATIVE ALL'ACCORDO DI OSIMO IN MATERIA DI COOPERAZIONE ECONOMICA TRA SLOVENIA E ITALIA
 
-###### ARTICOLO 107
+#### ARTICOLO 107
 
 Nell'attuare le misure volte a promuovere la cooperazione regionale, la Comunita' e la Slovenia rivolgono particolare attenzione alle attivita' che rientrano nell'ambito degli accordi firmati a Osimo il 10 novembre 1975 tra la Repubblica Italiana e la Repubblica socialista federativa di Iugoslavia, nonche' alle iniziative che rientrano nel quadro generale della cooperazione economica tra Italia e Slovenia.
 
 Le Parti tengono conto, in particolare, dell'interesse reciproco degli obiettivi di cui al primo comma dell'elenco dei progetti prescelti per l'assistenza finanziaria nel contesto della cooperazione.
 
-###### ARTICOLO 108
+#### ARTICOLO 108
 
 Fatto salvo l'articolo 31, la Comunita', nel quadro delle disposizioni relative alle zone franche, e la Slovenia concedono libero accesso ai loro mercati ai prodotti riconosciuti come originari, a norma del protocollo sui prodotti originari, nelle zone franche di frontiera che potranno venire istituite mediante accordi tra la Repubblica italiana e la Repubblica slovena in base all'accordo sulla promozione della cooperazione economica, firmato a Osimo nel 1975.
 
-###### ARTICOLO 109
+#### ARTICOLO 109
 
 La Comunita' e la Slovenia collaborano per l'attuazione degli articoli 107 e 108, in base agli obiettivi di cooperazione di cui all'art. 107.
 
 ## TITOLO XI - DISPOSIZIONI ISTITUZIONALI, GENERALI E FINALI
 
-###### ARTICOLO 110
+#### ARTICOLO 110
 
 E' istituito un consiglio di associazione incaricato di sorvegliare l'attuazione del presente accordo. Il consiglio si riunisce una volta all'anno a livello ministeriale e quando le circostanze lo richiedono. Esso esamina qualsiasi questione importante inerente all'accordo e qualunque altro problema bilaterale o internazionale di reciproco interesse.
 
-###### ARTICOLO 111
+#### ARTICOLO 111
 
 1\. Il consiglio di associazione e' composto, da un lato, dai membri del Consiglio dell'Unione europea e da membri della Commissione delle Comunita' europee e, dall'altro, da membri designati dal governo sloveno.
 
@@ -1677,7 +1669,7 @@ E' istituito un consiglio di associazione incaricato di sorvegliare l'attuazione
 
 5\. Nelle materie che la riguardano, la BEI partecipa, in qualita' di osservatore, ai lavori del consiglio di associazione.
 
-###### ARTICOLO 112
+#### ARTICOLO 112
 
 Ai fini della realizzazione degli obiettivi dell'accordo, il consiglio di associazione ha il potere di prendere decisioni nei casi contemplati dall'accordo stesso. Tali decisioni sono vincolanti per le Parti, che adottano le misure necessarie per la loro attuazione.
 
@@ -1685,7 +1677,7 @@ Il consiglio di associazione puo' altresi' formulare adeguate raccomandazioni.
 
 Le decisioni e raccomandazioni sono elaborate previo accordo tra le Parti.
 
-###### ARTICOLO 113
+#### ARTICOLO 113
 
 1\. Ciascuna delle Parti puo' deferire al consiglio di associazione qualsiasi controversia relativa all'applicazione o all'interpretazione del presente accordo.
 
@@ -1701,7 +1693,7 @@ Le decisioni arbitrali sono pronunciate a maggioranza.
 
 Ciascuna delle parti in causa deve adottare le misure necessarie all'attuazione della decisione arbitrale.
 
-###### ARTICOLO 114
+#### ARTICOLO 114
 
 1\. Nell'esercizio delle sue funzioni, il consiglio di associazione e' assistito da un comitato di associazione composto, da un lato, da rappresentanti dei membri del Consiglio dell'Unione europea e dei membri della Commissione delle Comunita' europee e, dall'altro, da rappresentanti del Governo sloveno, normalmente alti funzionari.
 
@@ -1709,17 +1701,17 @@ Il regolamento interno del consiglio di associazione determina le funzioni del c
 
 2\. Il consiglio di associazione puo' delegare al comitato di associazione taluni suoi poteri. In questi casi, il comitato di associazione adotta le sue decisioni alle condizioni stabilite all'articolo 112.
 
-###### ARTICOLO 115
+#### ARTICOLO 115
 
 Il consiglio di associazione puo' decidere l'istituzione di qualsiasi altro comitato o organo speciale che lo assista nell'esercizio delle sue funzioni.
 
 Nel suo regolamento interno, il consiglio di associazione precisa la composizione e le funzioni di tali comitati o organi, nonche' le modalita' del loro funzionamento.
 
-###### ARTICOLO 116
+#### ARTICOLO 116
 
 E' istituito un comitato parlamentare di associazione quale foro per lo scambio di opinioni tra membri del Parlamento sloveno e del Parlamento europeo. Il calendario e la frequenza delle riunioni sono decisi dal comitato stesso.
 
-###### ARTICOLO 117
+#### ARTICOLO 117
 
 1\. Il comitato parlamentare di associazione e' composto, da un lato, da membri del Parlamento europeo e, dall'altro, da membri del Parlamento sloveno.
 
@@ -1727,7 +1719,7 @@ E' istituito un comitato parlamentare di associazione quale foro per lo scambio 
 
 3\. Il comitato parlamentare di associazione e' presieduto a turno dal Parlamento europeo e dal Parlamento sloveno, secondo le disposizioni da stabilire nel suo regolamento interno.
 
-###### ARTICOLO 118
+#### ARTICOLO 118
 
 Il comitato parlamentare di associazione puo' chiedere informazioni inerenti all'attuazione del presente accordo al consiglio di associazione; quest'ultimo fornisce al comitato le informazioni richieste.
 
@@ -1735,11 +1727,11 @@ Il comitato parlamentare di associazione e' tenuto al corrente delle decisioni d
 
 Il comitato parlamentare di associazione puo' rivolgere raccomandazioni al consiglio di associazione.
 
-###### ARTICOLO 119
+#### ARTICOLO 119
 
 Nell'ambito del presente accordo, ciascuna delle Parti si impegna a garantire che le persone fisiche e giuridiche dell'altra Parte possano adire, senza discriminazioni rispetto ai propri cittadini, i competenti organi giurisdizionali e amministrativi delle Parti per tutelare i loro diritti individuali e di proprieta', inclusi quelli riguardanti la proprieta' intellettuale, industriale e commerciale.
 
-###### ARTICOLO 120
+#### ARTICOLO 120
 
 L'accordo non impedisce ad una Parte contraente di adottare qualsiasi misura:
 
@@ -1749,7 +1741,7 @@ b) inerente alla produzione o al commercio di armi, munizioni o materiale bellic
 
 c) ritenuta essenziale per la propria sicurezza in caso di gravi disordini interni che compromettano il mantenimento della legge e dell'ordine, in tempo di guerra o in periodi di gravi tensioni internazionali che possano sfociare in una guerra o ai fini del rispetto di impegni assunti per il mantenimento della pace e della sicurezza internazionale;
 
-###### ARTICOLO 121
+#### ARTICOLO 121
 
 1\. Nei settori contemplati dal presente accordo e fatta salva qualsiasi disposizione speciale ivi contenuta:
 
@@ -1759,13 +1751,13 @@ c) ritenuta essenziale per la propria sicurezza in caso di gravi disordini inter
 
 2\. Le disposizioni del paragrafo 1 non pregiudicano il diritto delle Parti di applicare le pertinenti disposizioni della loro normativa fiscale nei confronti di contribuenti che non si trovino in situazioni identiche per quanto riguarda il luogo di residenza.
 
-###### ARTICOLO 122
+#### ARTICOLO 122
 
 Quando sono importati nella Comunita', i prodotti originari della Slovenia non beneficiano di un trattamento piu' favorevole di quello che gli Stati membri si applicano reciprocamente.
 
 Il trattamento concesso alla Slovenia a norma del titolo IV e del capitolo I del titolo V non deve essere piu' favorevole di quello che gli Stati membri si applicano reciprocamente.
 
-###### ARTICOLO 123
+#### ARTICOLO 123
 
 1\. Le Parti adottano qualsiasi provvedimento generale o specifico necessario per l'adempimento degli obblighi che loro incombono nel quadro del presente accordo. Esse si adoperano per la realizzazione degli obiettivi fissati nell'accordo.
 
@@ -1773,37 +1765,37 @@ Il trattamento concesso alla Slovenia a norma del titolo IV e del capitolo I del
 
 Nella scelta delle misure, si privilegiano quelle meno lesive per il funzionamento dell'accordo. Le misure decise sono comunicate senza indugio al consiglio di associazione e, qualora l'altra Parte ne faccia richiesta, sono oggetto di consultazioni in seno a detto organo.
 
-###### ARTICOLO 124
+#### ARTICOLO 124
 
 Fino a quando i privati cittadini e gli operatori economici non godranno di diritti equivalenti in base all'applicazione del presente accordo, esso non reca pregiudizio ai diritti loro garantiti da accordi vigenti che vincolano uno o piu' Stati membri, da un lato, e la Slovenia, dall'altro.
 
-###### ARTICOLO 125
+#### ARTICOLO 125
 
 Ai fini del presente accordo, per "Parti" si intendono la Comunita', i suoi Stati membri o la Comunita' e i suoi Stati membri, in base ai rispettivi poteri, da un lato, e la Slovenia, dall'altro.
 
-###### ARTICOLO 126
+#### ARTICOLO 126
 
 I protocolli nn. 1-6 e gli allegati I-XIII sono parte integrante del presente accordo.
 
-###### ARTICOLO 127
+#### ARTICOLO 127
 
 Il presente accordo e' concluso per un periodo illimitato.
 
 Ciascuna delle Parti puo' denunciare l'accordo dandone notifica all'altra Parte. Il presente accordo cessa di essere applicabile dopo sei mesi dalla data di tale notifica.
 
-###### ARTICOLO 128
+#### ARTICOLO 128
 
 Il Segretario generale del Consiglio dell'Unione europea e' il depositario dell'accordo.
 
-###### ARTICOLO 129
+#### ARTICOLO 129
 
 Il presente accordo si applica, da un lato, ai territori in cui si applicano i trattati che istituiscono la Comunita' europea, la Comunita' europea del carbone e dell'acciaio, la Comunita' europea dell'energia atomica e alle condizioni precisate in detti trattati, e, dall'altro, al territorio della Repubblica di Slovenia.
 
-###### ARTICOLO 130
+#### ARTICOLO 130
 
 Il presente accordo e' redatto in due esemplari in lingua danese, finnica, francese, greca, inglese, italiana, olandese, portoghese, spagnola, svedese, tedesca e giovane, ciascun testo facente ugualmente fede.
 
-###### ARTICOLO 131
+#### ARTICOLO 131
 
 Il presente accordo e' approvato dalle Parti secondo le rispettive procedure.
 
@@ -1811,7 +1803,7 @@ L'accordo entra in vigore il primo giorno del secondo mese successivo alla data 
 
 A decorrere dalla sua entrata in vigore, il presente accordo sostituisce l'accordo di cooperazione tra la Comunita' economica europea e la Repubblica di Slovenia firmato e Lussemburgo il 5 aprile 1993 e l'accordo tra gli Stati membri della Comunita' europea del carbone e dell'acciaio, la Comunita' europea del carbone e dell'acciaio, da una parte, e la Repubblica di Slovenia, dall'altra, firmato e Lussemburgo il 5 aprile 1993.
 
-###### ARTICOLO 132
+#### ARTICOLO 132
 
 Le Parti decidono che nel caso in cui, in attesa che siano espletate le procedure necessarie per l'entrata in vigore del presente accordo, le disposizioni di determinate parti dell'accordo, segnatamente quelle relative alle merci, dovessero essere applicate nel 1996 mediante un accordo interinale tra la Comunita' e la Slovenia, per "data di entrata in vigore del presente accordo" si intende, ai fini del titolo III, articoli 65, 67 e 68 del presente accordo e dei protocolli nn. 1-6:
 
@@ -1861,7 +1853,7 @@ pesca
 
 Allegato IXa Articolo 45 Stabilimento, servizi
 
-###### Articolo 52 finanziari, settori
+#### Articolo 52 finanziari, settori
 
 connessi alla fine dei
 
@@ -1925,7 +1917,7 @@ gli sfilacciati)
 
 ma non filata; stoppe e cascami di canapa (compresi i cascami di filati e gli sfilacciati)
 
-###### Allegato II
+#### Allegato II
 
 ALLEGATO II
 
@@ -2011,7 +2003,7 @@ Nota
 
 (2) Questi importi sono aumentati annualmente del 20% il primo giorno di ogni anno civile successivo all'entrata in vigore dell'accordo.
 
-###### Allegato III
+#### Allegato III
 
 ALLEGATO III Elenco dei prodotti di cui all'articolo 11, paragrafo 2
 
@@ -2455,7 +2447,7 @@ ALLEGATO III Elenco dei prodotti di cui all'articolo 11, paragrafo 2
 
 961590
 
-###### Allegato IV
+#### Allegato IV
 
 ALLEGATO IV Elenco dei prodotti di cui all'articolo 11, paragrafo 3
 
@@ -2759,7 +2751,7 @@ ex 87.02.90.11 - altri:
 
 ---- diversi da quelli costruiti per l'uso negli aeroporti
 
-###### Allegato V
+#### Allegato V
 
 ALLEGATO V Merci di cui all'articolo 18, paragrafi 1 e 2
 
@@ -2785,13 +2777,13 @@ sostanze amidacee
 
 2905 44
 
-###### Allegato VI
+#### Allegato VI
 
 Allegato VI
 
 Parte di provvedimento in formato grafico
 
-###### Allegato VII
+#### Allegato VII
 
 ALLEGATO VII
 
@@ -2877,7 +2869,7 @@ Le importazioni in Slovenia dei seguenti prodotti originari della Comunita' sono
 +-------------+-----------------------------------------+-----------+
 ```
 
-###### Allegato VIII
+#### Allegato VIII
 
 ALLEGATO VIIIa
 
@@ -2913,7 +2905,7 @@ Elenco dei prodotti di cui all'articolo 24 Prodotti originari della Comunita' pe
 |CODICE NC | DESCRIZIONE |CONTINGENTI| | | |TARIFFARI | | | | | | 0303 | Pesci freschi o refrigerati, esclusi i | 100 | | | filetti di pesce e di altra carne di | tonnellate| | | pesci della voce 0304: | allo 0% | | | | | | | - Altri salmonidi, esclusi i fegati e | | | | le uova: | | | 0303 29 00 | -- Altri | | | | | | | 1604 | Preparazioni e conserve di pesci: | 100 | | | | tonnellate| | | - Pesci interi o in pezzi, esclusi | all'8% | | | i pesci tritati: | | | | | | | 1604 14 | -- Tonni, palamite e boniti | | | | (Sarda spp.) | | | | | | | 1604 | Preparazioni e conserve di pesci: | 150 | | | - Pesci interi o in pezzi, esclusi | tonnellate| | | i pesci tritati: | al 5% | | | | | | 1604 15 | -- Sgombri | | | | | | | 1604 | Preparazioni e conserve di pesci: | 100 | | | | tonnellate| | | - Pesci interi o in pezzi, esclusi | al 12,5% | | | i pesci tritati: | | | | | | | ex 1604 19 | -- Altri (esclusi i salmonidi) | | | | | | | 1604 | Preparazioni e conserve di pesci: | 120 | | | | tonnellate| | | - Altre preparazioni e conserve | al 12,5% | | | di pesci: | | | | | | | | -- Altre: | | | | | | | 1604 20 50 | --- Di sardine, di boniti, di sgombri | | | | della specie Scomber scombrus e | | | | Scomber japonicus e pesci delle | | | | specie Orcynupsis unicolor | | | | | | | 1604 20 70 | --- Di tonni, di palamite e altri pesci | | | | del genere Euthynnus | | | | | | | 1604 20 90 | --- Di altri pesci | | | | | |
 ```
 
-###### Allegato IX
+#### Allegato IX
 
 ALLEGATO IXa Stabilimento: Settori connessi alla fine dei periodi transitori
 
@@ -3027,7 +3019,7 @@ b) attivita' svolte da banche centrali, enti o dipartimenti statali o pubbliche 
 
 c) attivita' che rientrano in un sistema ufficiale di previdenza sociale o di assistenza pensionistica pubblica, fatta eccezione per i casi in cui tali attivita' possono essere svolte da operatori del settore dei servizi finanziari in concorrenza con i suddetti enti pubblici o istituzioni private.
 
-###### Allegato X
+#### Allegato X
 
 ALLEGATO X Tutela dei diritti di proprieta' intellettuale, industriale e
 
@@ -3059,7 +3051,7 @@ Il consiglio di associazione puo' decidere che l'articolo 68, paragrafo 3, si ap
 
 3\. Dall'entrata in vigore del presente accordo, la Slovenia garantira' alle imprese e ai cittadini della Comunita', relativamente al riconoscimento e alla protezione della proprieta' intellettuale, industriale e commerciale, un trattamento non meno favorevole di quello assicurato ad altri paesi terzi in base ad accordi bilaterali.
 
-###### Allegato XI
+#### Allegato XI
 
 ALLEGATO XI Partecipazione della Slovenia ai programmi comunitari
 
@@ -3099,7 +3091,7 @@ La Slovenia puo' partecipare a programmi quadro, programmi specifici, progetti o
 
 Il Consiglio di associazione puo' concordare di aggiungere altri campi di attivita' comunitarie a quelli sopra indicati, qualora lo consideri di reciproco interesse o ritenga che cio' contribuisca al perseguimento degli obiettivi dell'accordo europeo.
 
-###### Allegato XII
+#### Allegato XII
 
 ALLEGATO XII Dazi doganali all'esportazione e oneri di effetto equivalente
 
@@ -3211,7 +3203,7 @@ piallato o levigato
 
 4407 99 39 ---- Altro
 
-###### Allegato XIII
+#### Allegato XIII
 
 ALLEGATO XIII SCAMBIO DI LETTERE
 
@@ -3283,11 +3275,11 @@ PROTOCOLLO N. 1
 
 SUI TESSILI E SUI CAPI D'ABBIGLIAMENTO
 
-###### ARTICOLO 1
+#### ARTICOLO 1
 
 Il presente protocollo si applica ai tessili e ai capi di abbigliamento (in appresso denominati "prodotti tessili") elencati alla sezione XI (capitoli 50-63) della nomenclatura combinata della Comunita'.
 
-###### ARTICOLO 2
+#### ARTICOLO 2
 
 1\. I dazi doganali all'importazione applicabili nella Comunita' ai prodotti tessili della sezione XI (capitoli 50-63) della nomenclatura combinata e definiti originari della Slovenia a norma del protocollo n. 4 dell'accordo, diversi da quelli elencati nell'allegato I al presente protocollo (allegato V dell'accordo tra la Comunita' europea e la Slovenia sul commercio dei prodotti tessili, siglato il 23 luglio 1993) vengono aboliti alla data di entrata in vigore del presente accordo.
 
@@ -3299,15 +3291,15 @@ Il presente protocollo si applica ai tessili e ai capi di abbigliamento (in appr
 
 5\. In base al presente protocollo, le disposizioni degli articoli 11 e 12 dell'accordo si applicano agli scambi di prodotti tessili tra le parti.
 
-###### ARTICOLO 3
+#### ARTICOLO 3
 
 Gli aspetti quantitativi e le altre questioni connesse alle esportazioni nella Comunita' di prodotti tessili originari della Slovenia e alle esportazioni in Slovenia di prodotti tessili originari della Comunita' sono disciplinati da un protocollo aggiuntivo all'accordo sugli scambi di prodotti tessili tra la Comunita' economica europea e la Repubblica di Slovenia, che sara' concluso anteriormente al 31 dicembre 1995. In mancanza di un protocollo aggiuntivo, si applicano le disposizioni del predetto accordo sul commercio dei prodotti tessili, siglato il 23 luglio 1993, modificato dall'accordo concluso il 15 dicembre 1994 per tener conto dell'ampliamento delle Comunita' europee.
 
-###### ARTICOLO 4
+#### ARTICOLO 4
 
 A partire dell'entrata in vigore dell'accordo non vengono imposte nuove restrizioni quantitative, ne' altre misure aventi effetto equivalente, se non in base a quanto stabilito nell'accordo e negli allegati protocolli.
 
-###### Allegato I
+#### Allegato I
 
 Allegato I
 
@@ -3331,7 +3323,7 @@ MASSIMALI TARIFFARI COMUNITARI
 +----------+------------+---------+---------+
 ```
 
-###### Allegato II
+#### Allegato II
 
 Allegato II a)
 
@@ -3523,13 +3515,13 @@ SUI PRODOTTI CONTEMPLATI DAL TRATTATO CHE ISTITUISCE
 
 LA COMUNITA' EUROPEA DEL CARBONE E DELL'ACCIAIO (CECA)
 
-###### ARTICOLO 1
+#### ARTICOLO 1
 
 Il presente protocollo si applica ai prodotti elencati nell'allegato 1 del trattato CECA e definiti nella tariffa doganale comune (1).
 
-## CAPITOLO 1 - PRODOTTI DI ACCIAIO CECA
+### CAPITOLO 1 - PRODOTTI DI ACCIAIO CECA
 
-###### ARTICOLO 2
+#### ARTICOLO 2
 
 1\. A decorrere dall'entrata in vigore del presente accordo, i prodotti di acciaio CECA originari della Slovenia sono importati nella Comunita' in esenzione dai dazi all'importazione.
 
@@ -3547,23 +3539,23 @@ Il presente protocollo si applica ai prodotti elencati nell'allegato 1 del tratt
 
 \- il 1 gennaio 2000 i dazi rimanenti sono aboliti.
 
-###### ARTICOLO 3
+#### ARTICOLO 3
 
 1\. Le restrizioni quantitative all'importazione nella Comunita' di prodotti di acciaio CECA originari della Slovenia e le misure di effetto equivalente vengono abolite all'entrata in vigore dell'accordo.
 
 2\. Le restrizioni quantitative all'importazione in Slovenia di prodotti di acciaio CECA originari della Comunita' e le misure di effetto equivalente vengono abolite all'entrata in vigore dell'accordo.
 
-## CAPITOLO II - PRODOTTI DI CARBONE CECA
+### CAPITOLO II - PRODOTTI DI CARBONE CECA
 
-###### ARTICOLO 4
+#### ARTICOLO 4
 
 A decorrere dall'entrata in vigore del presente accordo, i prodotti di carbone CECA originari della Slovenia sono importati nella Comunita' in esenzione dai dazi all'importazione.
 
-###### ARTICOLO 5
+#### ARTICOLO 5
 
 A decorrere dall'entrata in vigore dell'accordo, i prodotti di carbone CECA originari della Comunita' sono importati in Slovenia in esenzione dai dazi dall'importazione.
 
-###### ARTICOLO 6
+#### ARTICOLO 6
 
 1\. Le restrizioni quantitative all'importazione nella Comunita' di prodotti di carbone CECA originari della Slovenia e le misure di effetto equivalente vengono abolite all'entrata in vigore dell'accordo.
 
@@ -3571,9 +3563,9 @@ La Repubblica d'Austria puo' tuttavia mantenere fino al 31 dicembre 1996 nei con
 
 2\. Le restrizioni quantitative all'importazione in Slovenia di prodotti di carbone CECA originari della Comunita' e le misure di effetto equivalente vengono abolite all'entrata in vigore dell'accordo.
 
-## CAPITOLO III - DISPOSIZIONI COMUNI
+### CAPITOLO III - DISPOSIZIONI COMUNI
 
-###### ARTICOLO 7
+#### ARTICOLO 7
 
 1\. Quanto segue e' incompatibile con il corretto funzionamento dell'accordo, poiche' puo' compromettere gli scambi tra la Comunita' e la Slovenia:
 
@@ -3609,15 +3601,15 @@ la Parte lesa puo' prendere le misure appropriate a condizione che, entro trenta
 
 Nel caso di pratiche incompatibili con il paragrafo 1, punto (iii), dette misure appropriate possono essere adottate solo in base alle procedure e alle condizioni stabilite dall'Accordo generale sulle tariffe doganali e sul commercio (GATT), nonche' da tutti gli altri opportuni strumenti negoziati nel suo ambito e applicabili tra le Parti.
 
-###### ARTICOLO 8
+#### ARTICOLO 8
 
 Le disposizioni degli articoli 12, 13, 14 e 15 dell'accordo si applicano agli scambi di prodotti CECA tra le Parti.
 
-###### ARTICOLO 9
+#### ARTICOLO 9
 
 Le Parti convengono che uno degli organismi speciali creati dal Consiglio di associazione debba essere un gruppo di contatto, che discutera' dell'esecuzione del presente protocollo.
 
-###### Allegato I
+#### Allegato I
 
 Allegato I
 
@@ -3641,7 +3633,7 @@ SUGLI SCAMBI DI PRODOTTI AGRICOLI TRASFORMATI
 
 TRA LA COMUNITA' EUROPEA E LA SLOVENIA
 
-###### ARTICOLO 1
+#### ARTICOLO 1
 
 1\. La Comunita' e la Slovenia applicano ai prodotti agricoli trasformati i dazi di cui agli allegati I e II, in base alle condizioni ivi indicate.
 
@@ -3655,7 +3647,7 @@ TRA LA COMUNITA' EUROPEA E LA SLOVENIA
 
 3\. Il consiglio di associazione puo' sostituire i dazi stabiliti dal presente protocollo con un regime basato sui rispettivi prezzi di mercato della Comunita' e della Slovenia per i prodotti agricoli che entrano effettivamente nella fabbricazione dei prodotti agricoli trasformati contemplati dal presente protocollo. Esso stabilisce l'elenco dei prodotti cui si applica il suddetto regime, nonche' l'elenco dei prodotti di base, ed adotta, a tal fine, le modalita' generali di applicazione.
 
-###### ARTICOLO 2
+#### ARTICOLO 2
 
 I dazi applicati a norma dell'articolo 1 possono essere ridotti per decisione del consiglio di associazione:
 
@@ -3665,13 +3657,13 @@ I dazi applicati a norma dell'articolo 1 possono essere ridotti per decisione de
 
 Le riduzioni di cui al primo trattino sono calcolate sulla parte del dazio designata come componente agricola, che corrisponde ai prodotti agricoli che entrano effettivamente nella fabbricazione dei prodotti agricoli trasformati, e vengono dedotte dai dazi applicati a tali prodotti agricoli trasformati di base.
 
-###### ARTICOLO 3
+#### ARTICOLO 3
 
 La Comunita' e la Slovenia si scambiano informazioni in merito ai regimi amministrativi adottati per i prodotti contemplati dal presente protocollo.
 
 Tali regimi devono garantire un trattamento equo a tutte le parti interessate e devono essere quanto piu' possibile flessibili ed equi.
 
-###### Allegato I
+#### Allegato I
 
 Allegato I
 
@@ -3738,7 +3730,7 @@ stabilite dalle disposizioni comunitarie in materia.
 | | | | |2208 90 91 | - Inferiore o uguale 2 litri | | | | | | |ex 2208 90 91| - Altri | ECU 1,1% | | | | vol/hl + | | | | ECU 7/hl | | | | | |ex 2208 90 99| - Altri: | | | | | | |ex 2208 90 99| - Altri | ECU 1,1% | | | | vol/hl | | | | |
 ```
 
-###### Allegato II
+#### Allegato II
 
 Allegato II
 
@@ -3770,7 +3762,7 @@ SULLA DEFINIZIONE DELLA NOZIONE DI "PRODOTTI ORIGINARI" E
 
 SUI METODI DI COOPERAZIONE AMMINISTRATIVA
 
-###### ARTICOLO 1
+#### ARTICOLO 1
 
 Definizioni
 
@@ -3800,7 +3792,7 @@ k) con il termine "spedizione" s'intendono i prodotti spediti contemporaneamente
 
 ## TITOLO II - DEFINIZIONE DELLA NOZIONE DI "PRODOTTI ORIGINARI"
 
-###### ARTICOLO 2
+#### ARTICOLO 2
 
 Criteri d'origine
 
@@ -3824,7 +3816,7 @@ dell'articolo 4 del presente protocollo;
 
 b) i prodotti ottenuti in Slovenia contenenti materiali non totalmente ottenuti sul suo territorio, a condizione che detti prodotti siano stati oggetto in Slovenia di lavorazioni o trasformazioni sufficienti ai sensi dell'articolo 5 del presente protocollo.
 
-###### ARTICOLO 3
+#### ARTICOLO 3
 
 Cumulo bilaterale
 
@@ -3832,7 +3824,7 @@ Cumulo bilaterale
 
 2\. In deroga all'articolo 2, paragrafo 2, lettera b), i materiali originari della Comunita' a norma del presente protocollo sono considerati materiali originari della Slovenia o non si richiede che tali materiali siano stati oggetto, in Slovenia, di lavorazioni o trasformazioni sufficienti, purche' siano stati oggetto di lavorazioni o trasformazioni che vanno al di la' di quelle previste dall'articolo 6 del presente protocollo.
 
-###### ARTICOLO 4
+#### ARTICOLO 4
 
 Prodotti totalmente ottenuti
 
@@ -3876,7 +3868,7 @@ k) le merci ottenute esclusivamente a partire dai prodotti indicati alle lettere
 
 Le navi operanti in alto mare, comprese le "navi officina" a bordo delle quali viene effettuata la trasformazione o la lavorazione dei prodotti della loro pesca, sono considerate parte del territorio della Comunita' o della Slovenia purche' rispondano alle condizioni di cui al paragrafo 2.
 
-###### ARTICOLO 5
+#### ARTICOLO 5
 
 Prodotti sufficientemente lavorati o trasformati
 
@@ -3888,7 +3880,7 @@ Quando, nell'elenco dell'allegato II, viene applicata una regola percentuale per
 
 3\. Dette condizioni stabiliscono, per tutti i prodotti contemplati dall'accordo, la lavorazione o la trasformazione cui devono essere sottoposti i materiali non originari impiegati nella fabbricazione di questi prodotti, e si applicano solo a detti materiali. Ne consegue pertanto che, se un prodotto che ha acquisito il carattere originario perche' soddisfa le condizioni indicate nell'elenco per detto prodotto e' impiegato nella fabbricazione di un altro prodotto, le condizioni applicabili al prodotto in cui esso e' incorporato non gli si applicano, e non si prendono in considerazione i materiali non originari che possono essere stati impiegati nella sua fabbricazione.
 
-###### ARTICOLO 6
+#### ARTICOLO 6
 
 Lavorazioni o trasformazioni insufficienti
 
@@ -3912,7 +3904,7 @@ g) il cumulo di due o piu' operazioni indicate nelle lettere da a) a f);
 
 h) la macellazione degli animali.
 
-###### ARTICOLO 7
+#### ARTICOLO 7
 
 Unita' da prendere in considerazione
 
@@ -3926,19 +3918,19 @@ b) quando una spedizione consiste in vari prodotti fra loro identici, classifica
 
 2\. Ogniqualvolta, in base alla regola generale 5 del sistema armonizzato, si considera che l'imballaggio formi un tutto unico con il prodotto ai fini della classificazione, detto imballaggio viene preso in considerazione anche per la determinazione dell'origine.
 
-###### ARTICOLO 8
+#### ARTICOLO 8
 
 Accessori, pezzi di ricambio e utensili
 
 Gli accessori, pezzi di ricambio e utensili che vengono consegnati con un'attrezzatura, una macchina, un apparecchio o un veicolo, fanno parte del loro normale equipaggiamento e il cui prezzo e' compreso in quello di questi ultimi o non e' fatturato a parte sono considerati un tutto unico con l'attrezzatura, la macchina, l'apparecchio o il veicolo in questione.
 
-###### ARTICOLO 9
+#### ARTICOLO 9
 
 Assortimenti
 
 Gli assortimenti, in base alla regola generale 3 del sistema armonizzato, sono considerati originari a condizione che tutti i prodotti che li compongono siano originari. Tuttavia, un assortimento composto di prodotti originari e non originari e' considerato originario nel suo insieme, a condizione che il valore dei prodotti non originari non superi il 15 % del prezzo franco fabbrica dell'assortimento.
 
-###### ARTICOLO 10
+#### ARTICOLO 10
 
 Elementi neutri
 
@@ -3946,13 +3938,13 @@ Allo scopo di determinare se un prodotto e' originario della Comunita' o della S
 
 ## TITOLO III - REQUISITI TERRITORIALI
 
-###### ARTICOLO 11
+#### ARTICOLO 11
 
 Principio della territorialita'
 
 Le condizioni stabilite nel titolo II, relative all'acquisizione del carattere di prodotto originario, vanno rispettate senza interruzione nella Comunita' o in Slovenia.
 
-###### ARTICOLO 12
+#### ARTICOLO 12
 
 Reimportazione delle merci
 
@@ -3960,7 +3952,7 @@ I prodotti originari esportati dalla Comunita' o dalla Slovenia verso un altro p
 
 a) che le merci reimportate sono quelle che erano state esportate, e b) che esse non sono state sottoposte ad alcuna operazione, oltre a quelle necessarie per conservare in buono stato durante la loro permanenza nel paese in questione o nel corso dell'esportazione.
 
-###### ARTICOLO 13
+#### ARTICOLO 13
 
 Trasporto diretto
 
@@ -3984,7 +3976,7 @@ iii) la certificazione delle condizioni in cui e' avvenuta la sosta delle merci 
 
 c) in mancanza di questi documenti, qualsiasi documento probatorio.
 
-###### ARTICOLO 14
+#### ARTICOLO 14
 
 Esposizioni
 
@@ -4004,13 +3996,13 @@ d) dal momento in cui sono stati inviati all'esposizione, i prodotti non sono st
 
 ## TITOLO IV - PROVA DELL'ORIGINE
 
-###### ARTICOLO 15
+#### ARTICOLO 15
 
 Certificato di circolazione EUR. 1
 
 Il carattere originario dei prodotti, ai sensi del presente protocollo, viene dimostrato mediante un certificato di circolazione EUR. 1, il cui modello figura nell'allegato III del presente protocollo.
 
-###### ARTICOLO 16
+#### ARTICOLO 16
 
 Normale procedura di rilascio dei certificati di circolazione EUR. 1 1. Il certificato EUR. 1 viene rilasciato dalle autorita' doganali del paese esportatore su richiesta scritta compilata dall'esportatore o, sotto la sua responsabilita', dal suo rappresentante autorizzato.
 
@@ -4038,7 +4030,7 @@ Spetta inoltre alle autorita' doganali che rilasciano il certificato accertarsi 
 
 8\. Il certificato di circolazione delle merci EUR. 1 e' rilasciato dalle autorita' doganali del paese d'esportazione al momento dell'esportazione dei prodotti ai quali si riferisce. Esso e' tenuto a disposizione dell'esportatore dal momento in cui l'esportazione ha effettivamente luogo o e' assicurata.
 
-###### ARTICOLO 17
+#### ARTICOLO 17
 
 Rilascio a posteriori del certificato di circolazione EUR. 1
 
@@ -4068,7 +4060,7 @@ b) viene fornita alle autorita' doganali la prova soddisfacente che il certifica
 
 5\. Le diciture di cui al paragrafo 4 devono figurare nella casella "Osservazioni" del certificato EUR. 1.
 
-###### ARTICOLO 18
+#### ARTICOLO 18
 
 Rilascio di duplicati del certificato circolazione EUR. 1
 
@@ -4082,7 +4074,7 @@ Rilascio di duplicati del certificato circolazione EUR. 1
 
 "Osservazioni" del duplicato del certificato di circolazione EUR. 1 4. Il duplicato, su cui deve figurare la data di rilascio del certificato di circolazione EUR. 1 originale, e' valido a decorrere da questa data.
 
-###### ARTICOLO 19
+#### ARTICOLO 19
 
 Sostituzione dei certificati
 
@@ -4094,7 +4086,7 @@ Sostituzione dei certificati
 
 3\. Il certificato sostitutivo e' rilasciato in base a una domanda scritta del riesportatore, previa verifica da parte delle autorita' competenti delle informazioni fornite nella domanda. La data e il numero di serie del certificato EUR. 1 originario devono figurare nella casella n. 7.
 
-###### ARTICOLO 20
+#### ARTICOLO 20
 
 Procedura semplificata per il rilascio dei certificati
 
@@ -4138,7 +4130,7 @@ c) nei casi di cui al paragrafo 3, lettera b), l'autorita' che e' competente ad 
 
 13\. Le disposizioni del presente articolo non pregiudicano l'applicazione delle norme della Comunita', degli Stati membri e della Slovenia relative alle formalita' doganali e all'uso dei documenti doganali.
 
-###### ARTICOLO 21
+#### ARTICOLO 21
 
 Validita' della prova d'origine
 
@@ -4148,19 +4140,19 @@ Validita' della prova d'origine
 
 3\. A parte tali casi, le autorita' doganali del paese importatore possono accettare i certificati di circolazione EUR. 1 se i prodotti sono stati presentati loro prima della scadenza di detto termine.
 
-###### ARTICOLO 22
+#### ARTICOLO 22
 
 Presentazione della prova d'origine
 
 I certificati di circolazione delle merci EUR.1 sono presentati alle autorita' doganali del paese d'importazione in base alle procedure applicabili in tale paese. Detta autorita' possono esigere la presentazione di una traduzione del certificato e della fattura comportante la dichiarazione. Esse possono anche richiedere che la dichiarazione di importazione sia completata da una dichiarazione dell'importatore secondo la quale i prodotti soddisfano le condizioni richieste per l'applicazione dell'accordo.
 
-###### ARTICOLO 23
+#### ARTICOLO 23
 
 Importazioni con spedizioni scaglionate
 
 Quando, su richiesta dell'importatore e alle condizioni stabilite dalle autorita' doganali del paese d'importazione, i prodotti smontati o non assemblati a norma della regola generale 2, lettera a) del sistema armonizzato, di cui alle sezioni XVI e XVII o alle voci 7308 e 9406 del sistema armonizzato, sono importati con spedizioni scaglionate, per tali prodotti viene presentata alle autorita' doganali un'unica prova d'origine al momento dell'importazione della prima spedizione parziale.
 
-###### ARTICOLO 24
+#### ARTICOLO 24
 
 Formulario EUR. 2
 
@@ -4174,7 +4166,7 @@ Formulario EUR. 2
 
 5\. Le disposizioni degli articoli 22, 23 e 27 si applicano mutatis mutandis ai formulari EUR. 2.
 
-###### ARTICOLO 25
+#### ARTICOLO 25
 
 Esonero dalla prova formale dell'origine
 
@@ -4184,7 +4176,7 @@ Esonero dalla prova formale dell'origine
 
 3\. Inoltre, il valore complessivo dei prodotti non deve superare 365 ecu se si tratta di piccole spedizioni oppure 1 025 ecu se si tratta del contenuto dei bagagli personali dei viaggiatori.
 
-###### ARTICOLO 26
+#### ARTICOLO 26
 
 Discordanze ed errori formali
 
@@ -4192,7 +4184,7 @@ Discordanze ed errori formali
 
 2\. In caso di errori formali evidenti, come errori di battitura, sul certificato di circolazione EUR. 1 o sul formulario EUR. 2, il documento non viene respinto se detti errori non sono tali da destare dubbi sull'esattezza delle diciture in esso contenute.
 
-###### ARTICOLO 27
+#### ARTICOLO 27
 
 Importi espressi in ecu
 
@@ -4210,13 +4202,13 @@ Nel procedere a detta revisione, il consiglio di associazione garantisce che non
 
 ## TITOLO V - MISURE DI COOPERAZIONE AMMINISTRATIVA
 
-###### ARTICOLO 28
+#### ARTICOLO 28
 
 Comunicazione dell'impronta dei timbri e degli indirizzi
 
 Le autorita' doganali degli Stati membri e della Slovenia si comunicano a vicenda, tramite la Commissione delle Comunita' europee, il facsimile dell'impronte dei timbri utilizzati nei loro uffici per il rilascio dei certificati EUR. 1 e l'indirizzo delle autorita' doganali competenti per il rilascio dei certificati EUR. 1 e per il controllo di detti certificati e dei formulari EUR. 2.
 
-###### ARTICOLO 29
+#### ARTICOLO 29
 
 Controllo dei certificati di circolazione EUR.1 e dei formulari EUR.2 1. Il controllo a posteriori dei certificati di circolazione EUR.1 o dei formulari EUR.2 e' effettuato per sondaggio o ogniqualvolta le autorita' doganali dello Stato di importazione abbiano fondati dubbi sull'autenticita' del documento, sul carattere originario dei prodotti o sull'adempimento delle altre condizioni richieste dal presente protocollo.
 
@@ -4232,7 +4224,7 @@ Esse forniscono a corredo della richiesta di controllo a posteriori tutti i docu
 
 6\. Qualora, in caso di dubbi fondati, non sia pervenuta alcuna risposta entro dieci mesi o qualora la risposta non contenga informazioni sufficienti per determinare l'autenticita' del documento in questione o l'effettiva origine dei prodotti, le autorita' doganali che hanno richiesto il controllo li escludono dal trattamento preferenziale a meno che si tratti di casi di forza maggiore o di circostanze eccezionali.
 
-###### ARTICOLO 30
+#### ARTICOLO 30
 
 Composizione delle controversie
 
@@ -4240,13 +4232,13 @@ Le controversie riguardanti le procedure di controllo di cui all'articolo 30 che
 
 Comunque sia, per la composizione delle controversie tra l'importatore e le autorita' doganali dello Stato di importazione si applica la legislazione dello Stato suddetto.
 
-###### ARTICOLO 31
+#### ARTICOLO 31
 
 Sanzioni
 
 Si applicano sanzioni nei confronti di chiunque rediga o faccia redigere un documento contenente dati inesatti, allo scopo di ottenere un trattamento preferenziale per i prodotti.
 
-###### ARTICOLO 32
+#### ARTICOLO 32
 
 Zone franche
 
@@ -4256,7 +4248,7 @@ Zone franche
 
 ## TITOLO VI - CEUTA E MELILLA
 
-###### ARTICOLO 33
+#### ARTICOLO 33
 
 Applicazione del protocollo
 
@@ -4264,7 +4256,7 @@ Applicazione del protocollo
 
 2\. Il presente protocollo si applica, mutatis mutandis, ai prodotti originari di Ceuta e di Melilla, fatte salve le condizioni particolari di cui all'articolo 34.
 
-###### ARTICOLO 34
+#### ARTICOLO 34
 
 Condizioni particolari
 
@@ -4304,25 +4296,25 @@ ii) che tali prodotti siano originari di Ceuta e Melilla o della Comunita' a nor
 
 ## TITOLO VII - DISPOSIZIONI FINALI
 
-###### ARTICOLO 35
+#### ARTICOLO 35
 
 Modifiche del protocollo
 
 Il consiglio di associazione puo' decidere di modificare le disposizioni del presente protocollo.
 
-###### ARTICOLO 36
+#### ARTICOLO 36
 
 Allegati
 
 Gli allegati del presente protocollo ne costituiscono parte integrante.
 
-###### ARTICOLO 37
+#### ARTICOLO 37
 
 Esecuzione del protocollo
 
 La Comunita' e la Slovenia prendono, ciascuna per quanto la riguarda, le misure necessarie all'esecuzione del presente protocollo.
 
-###### Allegato I
+#### Allegato I
 
 Allegato I
 
@@ -4552,7 +4544,7 @@ frequenza.
 
 7.3. A norma delle voci ex 2707, da 2713 a 2715, ex 2901, ex 2902 e ex 3403, le operazioni semplici quali la pulitura, la decantazione, la desalificazione, la disidratazione, il filtraggio, la colorazione, la marcatura, l'ottenimento di un tenore di zolfo mescolando prodotti con tenori di zolfo diversi, qualsiasi combinazione di queste operazioni o di operazioni analoghe non conferiscono l'origine.
 
-###### Allegato II
+#### Allegato II
 
 Allegato II
 
@@ -7607,7 +7599,7 @@ da materie tessili miste, cfr. la nota n. 5.
 | | |
 ```
 
-###### Allegato II
+#### Allegato II
 
 (1) Per le condizioni speciali relative a prodotti costituiti
 
@@ -11315,7 +11307,7 @@ materie tessili miste, cfr. la nota n. 5.
 | | |
 ```
 
-###### Allegato III
+#### Allegato III
 
 Allegato III
 
@@ -11400,7 +11392,7 @@ Fatto a ........., addi' ........... .................................... (Firma
 
 (1) Ad esempio: documenti d'importazione, certificati di circolazione, fatture, dichiarazioni del fabbricante, ecc., relativi ai prodotti messi in opera o alle merci riesportate tal quali.
 
-###### Allegato IV
+#### Allegato IV
 
 Allegato IV
 
@@ -11446,7 +11438,7 @@ Istruzioni relative alla compilazione del formulario EUR.2
 
 4\. L'utilizzazione di questo formulario costituisce per l'esportatore impegno a presentare alle autorita' responsabili qualsiasi documento giustificativo da esse ritenuto necessario e ad accettare che le stesse procedano a qualsiasi controllo sulla sua contabilita' e sui processi di fabbricazione delle merci descritte nella casella 11.
 
-###### Allegato V
+#### Allegato V
 
 Allegato V
 
@@ -11464,7 +11456,7 @@ SULL'ASSISTENZA RECIPROCA TRA LE AUTORITA' AMMINISTRATIVE
 
 IN MATERIA DOGANALE
 
-###### ARTICOLO 1
+#### ARTICOLO 1
 
 Definizioni
 
@@ -11480,7 +11472,7 @@ d) "autorita' interpellata": l'autorita' amministrativa competente all'uopo desi
 
 e) "dati personali": tutte le informazioni relative ad una persona fisica identificata o identificabile.
 
-###### ARTICOLO 2
+#### ARTICOLO 2
 
 Campo di applicazione
 
@@ -11488,7 +11480,7 @@ Campo di applicazione
 
 2\. L'assistenza in materia doganale prevista dal presente protocollo si applica ad ogni autorita' amministrativa delle Parti contraenti competente per l'applicazione dello stesso. Essa non pregiudica le norme che disciplinano l'assistenza reciproca in materia penale ne' copre le informazioni ottenute grazie a poteri esercitati su richiesta dell'autorita' giudiziaria salvo accordo di detta autorita'.
 
-###### ARTICOLO 3
+#### ARTICOLO 3
 
 Assistenza su richiesta
 
@@ -11508,7 +11500,7 @@ c) i movimenti di merci per i quali sia stata segnalata la possibilita' che dian
 
 d) i mezzi di trasporto per i quali vi sono fondati motivi di ritenere che siano stati, siano ovvero possano essere utilizzati per violare la normativa doganale.
 
-###### ARTICOLO 4
+#### ARTICOLO 4
 
 Assistenza spontanea
 
@@ -11520,7 +11512,7 @@ Senza bisogno di una richiesta preliminare, le Parti contraenti si prestano assi
 
 \- merci note per essere soggette a violazioni della normativa doganale.
 
-###### ARTICOLO 5
+#### ARTICOLO 5
 
 Consegna/Notifica
 
@@ -11532,7 +11524,7 @@ Su domanda dell'autorita' richiedente, l'autorita' interpellata, in base alla pr
 
 \- che rientrano nel campo di applicazione del presente protocollo ad un destinatario, residente o stabilito sul suo territorio. In tal caso, si applica l'articolo 6 paragrafo 3.
 
-###### ARTICOLO 6
+#### ARTICOLO 6
 
 Forma e contenuto delle domande di assistenza
 
@@ -11556,7 +11548,7 @@ f) una sintesi dei fatti e delle indagini gia' svolte, salvo per i casi di cui a
 
 4\. Se la domanda non risponde ai requisiti formali stabiliti puo' esserne richiesta la correzione o il completamento; tuttavia possono essere disposte misure cautelari.
 
-###### ARTICOLO 7
+#### ARTICOLO 7
 
 Adempimento delle domande
 
@@ -11568,7 +11560,7 @@ Adempimento delle domande
 
 4\. I funzionari di una Parte contraente, d'intesa con l'altra Parte contraente, possono essere presenti alle indagini condotte nel territorio di quest'ultima.
 
-###### ARTICOLO 8
+#### ARTICOLO 8
 
 Forma in cui devono essere comunicate le informazioni
 
@@ -11576,7 +11568,7 @@ Forma in cui devono essere comunicate le informazioni
 
 2\. I documenti di cui al paragrafo 1 possono essere sostituiti da informazioni computerizzate prodotte in qualsiasi forma per gli stessi fini.
 
-###### ARTICOLO 9
+#### ARTICOLO 9
 
 Eccezioni all'obbligo di fornire assistenza
 
@@ -11594,7 +11586,7 @@ d) violare un segreto industriale, commerciale o professionale.
 
 3\. Se l'assistenza e' rifiutata o negata, la decisione e le sue motivazioni devono essere notificate senza indugio all'autorita' richiedente.
 
-###### ARTICOLO 10
+#### ARTICOLO 10
 
 Obbligo di osservare la riservatezza
 
@@ -11602,7 +11594,7 @@ Obbligo di osservare la riservatezza
 
 2\. I dati nominativi possono essere trasmessi solo se le legislazioni delle Parti contraenti offrono un livello equivalente di protezione personale. Le Parti contraenti garantiscono almeno un livello di protezione basato sui principi stabiliti nell'allegato del presente protocollo.
 
-###### ARTICOLO 11
+#### ARTICOLO 11
 
 Uso delle informazioni
 
@@ -11612,19 +11604,19 @@ Uso delle informazioni
 
 3\. Nei loro documenti probatori, nelle loro relazioni e testimonianze, nonche' nei procedimenti e nelle azioni penali promossi dinanzi agli organi giurisdizionali, le Parti contraenti possono utilizzare come prova le informazioni ottenute e i documenti consultati conformemente alle disposizioni del presente protocollo.
 
-###### ARTICOLO 12
+#### ARTICOLO 12
 
 Esperti e testimoni
 
 Un funzionario dell'autorita' interpellata puo' essere autorizzato a comparire, nei limiti dell'autorizzazione concessa, in qualita' di esperto o testimone in procedimenti giudiziari o amministrativi riguardanti le materie di cui al presente protocollo nella giurisdizione dell'altra Parte contraente e produrre oggetti, documenti ovvero loro copie autenticate che possano occorrere nel procedimento. Nella richiesta di comparizione deve essere specificamente indicato su quale argomento e a quale titolo il funzionario sara' interrogato.
 
-###### ARTICOLO 13
+#### ARTICOLO 13
 
 Spese di assistenza
 
 Le Parti contraenti rinunciano reciprocamente a tutte le richieste di rimborso delle spese sostenute a norma del presente protocollo, escluse, a seconda dei casi, le spese per esperti e testimoni nonche' per gli interpreti e traduttori che non dipendono da pubblici servizi.
 
-###### ARTICOLO 14
+#### ARTICOLO 14
 
 Esecuzione
 
@@ -11632,7 +11624,7 @@ Esecuzione
 
 2\. Le Parti contraenti si consultano e si tengono reciprocamente informate in merito alle norme specifiche di esecuzione adottate in base alle disposizioni del presente protocollo.
 
-###### ARTICOLO 15
+#### ARTICOLO 15
 
 Complementarita'
 
@@ -11640,7 +11632,7 @@ Complementarita'
 
 2\. Fatto salvo l'articolo 11, detti accordi non recano pregiudizio alle disposizioni della Comunita' che disciplinano la comunicazione, tra i competenti servizi della Commissione e le autorita' doganali degli Stati membri, di tutte le informazioni ottenute in materia doganale che possano interessare la Comunita'.
 
-###### Allegato
+#### Allegato
 
 Allegato
 
@@ -11692,7 +11684,7 @@ b) tutelare le persone interessate, o i diritti e le liberta' di terzi.
 
 6\. Nessuna disposizione del presente allegato limita ne' influisce in alcun modo sulla possibilita' delle Parti contraenti di assicurare alle persone interessato misure di protezione piu' ampie di quelle previste del presente allegato.
 
-###### Protocollo N.6
+#### Protocollo N.6
 
 PROTOCOLLO N. 6
 
@@ -11700,7 +11692,7 @@ SULLE CONCESSIONI CONCESSE ENTRO I LIMITI ANNUI
 
 Le Parti convengono che, qualora l'accordo entri in vigore dopo il 1 gennaio di un qualsiasi anno, ogni concessione accordata entro limiti annui sara' adeguata proporzionalmente.
 
-###### Atto Finale
+#### Atto Finale
 
 ATTO FINALE
 

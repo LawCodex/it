@@ -404,7 +404,7 @@ a) qualora detto Stato o detta Organizzazione abbia firmato il trattato o abbia 
 
 b) qualora detto Stato o detta organizzazione abbia espresso il suo consenso ad essere vincolato, nel periodo precedente l'entrata in vigore del trattato e a patto che questa non sia indebitamente ritardata.
 
-## SEZIONE 2: RISERVE
+### SEZIONE 2: RISERVE
 
 #### Articolo 19
 
@@ -482,7 +482,7 @@ Procedura relativa alle riserve
 
 4\. Il ritiro di una riserva o di una obiezione ad una riserva deve essere formulato per iscritto.
 
-## SEZIONE 3 - ENTRATA IN VIGORE DEI TRATTATI ED - APPLICAZIONE A TITOLO PROVVISORIO.
+### SEZIONE 3 - ENTRATA IN VIGORE DEI TRATTATI ED - APPLICAZIONE A TITOLO PROVVISORIO.
 
 #### Articolo 24
 
@@ -528,7 +528,7 @@ Diritto interno degli Stati, regole delle organizzazioni internazionali e rispet
 
 3\. Le regole enunciate ai paragrafi precedenti non pregiudicano l'art. 46.
 
-## SEZIONE 2. - APPLICAZIONE DEI TRATTATI
+### SEZIONE 2. - APPLICAZIONE DEI TRATTATI
 
 #### Articolo 28
 
@@ -564,7 +564,7 @@ b) nelle relazioni tra una parte ai due trattati ed una parte ad un solo trattat
 
 6\. I paragrafi precedenti non pregiudicano il fatto che in caso di contrasto tra gli obblighi derivanti dalla Carta delle Nazioni Unite e gli obblighi derivanti da un trattato, i primi prevarranno.
 
-## SEZIONE 3. - INTERPRETAZIONE DEI TRATTATI
+### SEZIONE 3. - INTERPRETAZIONE DEI TRATTATI
 
 #### Articolo 31
 
@@ -612,7 +612,7 @@ autenticati in due o piu' lingue
 
 4\. Tranne il caso in cui un determinato testo prevalga in conformita' al paragrafo 1, qualora la comparazione di testi autentici faccia apparire una differenza di accezione che l'applicazione degli articoli 31 e 32 non consente di eliminare, verra' adottata l'accezione la quale meglio contempera detti testi, fatto salvo il fine e lo scopo del trattato.
 
-## SEZIONE 4. TRATTATI E STATI TERZI O ORGANIZZAZIONI TERZE.
+### SEZIONE 4. TRATTATI E STATI TERZI O ORGANIZZAZIONI TERZE.
 
 #### Articolo 34
 
@@ -792,7 +792,7 @@ applicabile, o
 
 b) debba, a causa del comportamento dell'organo competente, ritenersi avere rinunciato al diritto di invocare detta causa o detto motivo.
 
-## SEZIONE 2. - NULLITA' DEI TRATTATI
+### SEZIONE 2. - NULLITA' DEI TRATTATI
 
 #### Articolo 46
 
@@ -866,7 +866,7 @@ del diritto internazionale generale (jus cogens)
 
 Qualsiasi trattato che, al momento della sua stipulazione, sia in conflitto con una norma cogente di diritto internazionale generale, e' nullo. Ai fini della presente Convenzione, una norma cogente di diritto internazionale generale e' una norma accettata e riconosciuta dalla comunita' internazionale degli Stati nel suo insieme, in quanto norma cui nessuna deroga e' consentita, e che puo' essere modificata solo da una nuova norma di diritto internazionale generale della stessa natura.
 
-## SEZIONE 3 - ESTINZIONE DEI TRATTATI E - SOSPENSIONE DELLA LORO APPLICAZIONE
+### SEZIONE 3 - ESTINZIONE DEI TRATTATI E - SOSPENSIONE DELLA LORO APPLICAZIONE
 
 #### Articolo 54
 
@@ -1034,7 +1034,7 @@ di diritto internazionale (jus cogens)
 
 Qualora sopravvenga una nuova norma cogente di diritto internazionale generale, ogni trattato esistente in conflitto con detta norma diviene nullo e termina.
 
-## SEZIONE 4. - PROCEDURA
+### SEZIONE 4. - PROCEDURA
 
 #### Articolo 65
 
@@ -1104,7 +1104,7 @@ di cui agli articoli 65 e 67
 
 Una notifica o uno strumento di cui agli articoli 65 e 67 possono essere revocati in qualsiasi momento prima che abbiano acquisito effetto.
 
-## SEZIONE 5. CONSEGUENZE DELLA NULLITA', DELL'ESTINZIONE - O DELLA SOSPENSIONE DELL'APPLICAZIONE DI UN TRATTATO.
+### SEZIONE 5. CONSEGUENZE DELLA NULLITA', DELL'ESTINZIONE - O DELLA SOSPENSIONE DELL'APPLICAZIONE DI UN TRATTATO.
 
 #### Articolo 69
 
@@ -1202,9 +1202,7 @@ Caso di uno Stato aggressore
 
 Le disposizioni della presente Convenzione non hanno effetto per quanto riguarda gli obblighi che possono risultare in relazione a un trattato tra uno o piu' Stati e una o piu' organizzazioni internazionali, per uno Stato aggressore, da misure prese in conformita alla Carta delle Nazioni Unite per quanto riguarda l'aggressione commessa da detto Stato.
 
-## PARTE VII - DEPOSITARI, NOTIFICHE, CORREZIONI
-
-### E REGISTRAZIONE
+## PARTE VII - DEPOSITARI, NOTIFICHE, CORREZIONI E REGISTRAZIONE
 
 #### Articolo 77
 

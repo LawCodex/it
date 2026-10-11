@@ -25,7 +25,7 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+## Art. 1
 
 Gli organici del personale dell'Azienda autonoma delle ferrovie dello Stato, stabiliti dalla legge 29 ottobre 1971, n. 880, ed integrati dalle leggi 7 gennaio 1974, n. 5, 16 febbraio 1974, n. 39, e 6 giugno 1975, n. 197, sono modificati come segue:
 
@@ -33,7 +33,7 @@ personale degli uffici: in aumento 248;
 
 personale dell'esercizio: in riduzione 557.
 
-### Art. 2
+## Art. 2
 
 In correlazione con la variazione di cui al precedente articolo 1, i contingenti di posti delle seguenti carriere del personale dell'Azienda autonoma delle ferrovie dello Stato di cui all'articolo 103 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077, e successive variazioni, sono modificati come segue:
 
@@ -161,7 +161,7 @@ Qualifiche Posti
 
 Manovale. . . . . . . . . . . . . . . . . . . . . . . . . 903
 
-### Art. 3
+## Art. 3
 
 All'articolo 103 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077, nella categoria del personale dell'esercizio, gruppo degli ufficiali delle navi traghetto, sono inseriti, nell'ordine, le seguenti qualifiche ed organici:
 
@@ -181,7 +181,7 @@ Totale . . . . 18
 
 In correlazione con la variazione di cui al comma precedente, il contingente di posti della qualifica di manovale e' ulteriormente ridotto di 33 unita'.
 
-### Art. 4
+## Art. 4
 
 La tabella Q del quadro n. 3 annesso al decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077, e' sostituita dalla seguente:
 
@@ -201,11 +201,11 @@ Ufficiale di macchina;
 
 Ufficiale marconista.
 
-### Art. 5
+## Art. 5
 
 Al quadro n. 4 annesso al decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077, alle qualifiche degli ufficiali delle navi traghetto e' aggiunta, nell'ordine, la qualifica di ufficiale marconista.
 
-### Art. 6
+## Art. 6
 
 Il quadro n. 6 annesso al decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077, e' integrato come segue nella parte concernente gli ufficiali delle navi traghetto:
 
@@ -213,11 +213,11 @@ Promozioni per
 
 ----&gt; Parte di provvedimento in formato grafico &lt;----
 
-### Art. 7
+## Art. 7
 
 Ad integrazione del quadro n. 9 annesso al decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077, i limiti di eta' e di servizio per il collocamento a riposo di ufficio delle qualifiche di primo ufficiale marconista e di ufficiale marconista sono fissati, rispettivamente, in 60 e 25 anni.
 
-### Art. 8
+## Art. 8
 
 La sezione C) del quadro II della tabella unica degli stipendi, paghe o retribuzioni dei dipendenti civili e militari dello Stato allegata al decreto del Presidente della Repubblica 28 dicembre 1970, n. 1079, e' integrata come segue nella parte concernente gli ufficiali delle navi traghetto:
 
@@ -266,7 +266,7 @@ L'allegato 1 della legge 16 febbraio 1974, n. 57, e' integrato come segue nella 
 
 Agli effetti della legge 11 febbraio 1970, n. 34, e successive modificazioni, concernente le competenze accessorie del personale della Azienda autonoma delle ferrovie dello Stato, il primo ufficiale marconista e' equiparato al primo ufficiale navale e al primo ufficiale di macchina e l'ufficiale marconista all'ufficiale navale e all'ufficiale di macchina.
 
-### Art. 9
+## Art. 9
 
 Il primo comma dell'articolo 11 della legge 26 marzo 1958, n. 425, e' sostituito dal seguente:
 
@@ -278,7 +278,7 @@ Al secondo comma dello stesso articolo 11, dopo la lettera b), e' inserita la se
 
 ## DISPOSIZIONI TRANSITORIE
 
-### Art. 10
+## Art. 10
 
 I trecentotrentanove posti di organico, di cui al precedente articolo 2, portati in aumento nelle qualifiche delle carriere dei segretari tecnici e degli applicati tecnici sono riservati, nella prima applicazione della presente legge, all'inquadramento, nelle qualifiche previste dallo stesso articolo, del personale dell'Azienda autonoma delle ferrovie dello Stato rivestito di una delle qualifiche degli uffici o dell'esercizio, che risulti utilizzate, alla data del 1 marzo 1975, per l'elaborazione elettronica dei dati alle dipendenze del servizio affari generali dell'Azienda stessa.
 
@@ -286,15 +286,15 @@ L'attribuzione della nuova qualifica e' subordinata alla corrispondenza risultan
 
 I dipendenti nei cui confronti sara' adottato il provvedimento di cui sopra conservano, a tutti gli effetti, l'anzianita' complessivamente maturata nella qualifica precedentemente posseduta ed il relativo trattamento economico sara' loro determinato sulla base di quanto previsto dal sesto comma dell'articolo 8 della legge 12 febbraio 1974, n. 27, sostitutivo dell'articolo 16 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1079.
 
-### Art. 11
+## Art. 11
 
 Le norme di cui al precedente articolo 10 sono applicabili anche nei confronti di coloro che alla data del 10 marzo 1975 si trovano in posizione di aspettativa per servizio militare, sempreche' in possesso, alla data di inizio di detta aspettativa, dei requisiti per l'inquadramento di cui alla presente legge.
 
-### Art. 12
+## Art. 12
 
 I posti delle qualifiche di segretario tecnico superiore di II classe, segretario tecnico superiore e applicato tecnico capo che non venissero coperti con gli inquadramenti di cui ai precedenti articoli 10 e 11, saranno disponibili, per un periodo di 2 anni dalla data di entrata in vigore della presente legge, esclusivamente per gli avanzamenti, ai sensi della legge 26 marzo 1958, n. 425, e successive integrazioni e modifiche, del personale che abbia beneficiato degli inquadramenti stessi nonche' di quello che, gia' rivestito di una delle qualifiche di cui alle variazioni in aumento del personale degli uffici previste dal precedente articolo 2, si trovi nelle condizioni di utilizzazione previste dagli articoli 10 e 11 della presente legge.
 
-### Art. 13
+## Art. 13
 
 Sono inquadrati rispettivamente nelle qualifiche di primo ufficiale marconista e di ufficiale marconista i dipendenti di ruolo dell'Azienda autonoma delle ferrovie dello Stato che rivestano qualifiche di pari livello e che alla data di entrata in vigore della presente legge risultino adibiti al servizio di manutenzione ed esercizio degli apparati radioelettrici a bordo delle navi traghetto delle ferrovie dello Stato.
 
@@ -312,7 +312,7 @@ I dipendenti inquadrati ai sensi del presente articolo conservano nella qualific
 
 Agli inquadrati si applica, ove occorra, il disposto di cui all'articolo 1, quinto comma, del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1079.
 
-### Art. 14
+## Art. 14
 
 Sono inquadrati nella qualifica di ufficiale marconista, nel limite dei posti disponibili dopo l'applicazione del precedente articolo 13, i dipendenti di ruolo della Azienda autonoma delle ferrovie dello Stato che rivestano qualifiche di livello inferiore e che alla data di entrata in vigore della presente legge risultino adibiti al servizio di manutenzione ed esercizio degli apparati radioelettrici a bordo delle navi traghetto delle ferrovie dello Stato.
 
@@ -320,7 +320,7 @@ Gli inquadramenti sono disposti secondo l'ordine dato dal livello gerarchico del
 
 Si applicano le disposizioni dei commi secondo, terzo, quarto, quinto e ottavo del precedente articolo 13.
 
-### Art. 15
+## Art. 15
 
 Le eventuali eccedenze che, per effetto delle riduzioni di posti di cui all'articolo 2, si verificassero, alla data di entrata in vigore della presente legge, nelle qualifiche di segretario superiore di IV classe e di segretario superiore saranno riassorbite, rispettivamente, con la prima vacanza successiva alla suddetta data e nella misura di un sesto delle normali vacanze annue.
 

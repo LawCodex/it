@@ -27,15 +27,15 @@ PROMULGA
 
 la seguente legge:
 
-### Art. 1
+#### Art. 1
 
 1\. Il Presidente della Repubblica e' autorizzato a ratificare la convenzione recante lo Statuto delle scuole europee, con allegati, fatta a Lussemburgo il 21 giugno 1994.
 
-### Art. 2
+#### Art. 2
 
 1\. Piena ed intera esecuzione e' data alla convenzione di cui all'articolo 1 a decorrere dalla data della sua entrata in vigore in conformita' a quanto disposto dall'articolo 33 della convenzione stessa.
 
-### Art. 3
+#### Art. 3
 
 1\. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
@@ -79,7 +79,7 @@ considerando che, sulla base del protocollo addizionale del 15 dicembre 1975, e'
 
 HANNO CONVENUTO LE DISPOSIZIONI SEGUENTI:
 
-### ARTICOLO 1
+#### ARTICOLO 1
 
 La presente convenzione stabilisce lo statuto delle Scuole europee (in appresso denominate "Scuole").
 
@@ -87,7 +87,7 @@ Scopo delle Scuole e' l'istruzione in comune dei figli dei dipendenti delle Comu
 
 Le Scuole sono elencate nell'allegato I, che puo' essere adeguato dal Consiglio superiore in funzione delle decisioni che saranno prese a norma degli articoli 2, 28 e 31.
 
-### ARTICOLO 2
+#### ARTICOLO 2
 
 1\. Il Consiglio superiore, deliberando all'unanimita', puo' decidere la creazione di nuove Scuole.
 
@@ -95,7 +95,7 @@ Le Scuole sono elencate nell'allegato I, che puo' essere adeguato dal Consiglio 
 
 3\. Prima dell'apertura di una nuova Scuola sul territorio di uno Stato membro deve essere concluso un accordo fra il Consiglio superiore e lo Stato membro ospitante in merito alla messa a disposizione, a titolo gratuito, e alla manutenzione di locali adeguati alle esigenze della nuova Scuola.
 
-### ARTICOLO 3
+#### ARTICOLO 3
 
 1\. L'insegnamento impartito nelle Scuole comprende l'istruzione fino al termine degli studi medi superiori.
 
@@ -117,7 +117,7 @@ b) Qualsiasi proposta di modifica del regime statutario degli
 
 insegnanti richiede la votazione all'unanimita' del Consiglio superiore.
 
-### ARTICOLO 4
+#### ARTICOLO 4
 
 L'organizzazione didattica delle Scuole si basa sui principi seguenti:
 
@@ -135,7 +135,7 @@ L'organizzazione didattica delle Scuole si basa sui principi seguenti:
 
 7\) sono prese misure per agevolare l'accoglienza dei bambini con esigenze educative specifiche.
 
-### ARTICOLO 5
+#### ARTICOLO 5
 
 1\. Gli anni di studio compiuti con buon esito nella Scuola, nonche' i diplomi e i certificati di studi hanno valore nel territorio degli Stati membri conformemente ad una tabella di equivalenze e alle condizioni stabilite dal Consiglio superiore come previsto all'articolo 11, previo accordo degli organi nazionali competenti.
 
@@ -153,7 +153,7 @@ a) le universita',
 
 b) gli istituti ai quali lo Stato membro nel cui territorio sono situati riconosce carattere analogo a quello delle universita'.
 
-### ARTICOLO 6
+#### ARTICOLO 6
 
 A ciascuna Scuola e' riconosciuta la personalita' giuridica necessaria al conseguimento dello scopo da essa perseguito, quale definito all'articolo 1. A tal fine gode di autonomia di gestione limitatamente agli stanziamenti iscritti nella sezione del bilancio che la riguarda, alle condizioni stabilite nel regolamento finanziario citato nell'articolo 13, paragrafo 1. Essa puo' essere parte in giudizio. Essa puo' in particolare acquistare od alienare beni immobili o mobili.
 
@@ -161,7 +161,7 @@ Con riguardo ai suoi diritti ed obblighi, la Scuola e' trattata in ciascuno Stat
 
 ## TITOLO SECONDO - ORGANI DELLA SCUOLA
 
-### ARTICOLO 7
+#### ARTICOLO 7
 
 Gli organi comuni a tutte le Scuole sono i seguenti:
 
@@ -175,9 +175,9 @@ Gli organi comuni a tutte le Scuole sono i seguenti:
 
 Ciascuna Scuola e' amministrata dal Consiglio d'amministrazione e gestita dal Direttore.
 
-## CAPITOLO PRIMO - Il Consiglio superiore
+### CAPITOLO PRIMO - Il Consiglio superiore
 
-### ARTICOLO 8
+#### ARTICOLO 8
 
 1\. Fatto salvo l'articolo 28, il Consiglio superiore e' costituito dai membri seguenti:
 
@@ -197,7 +197,7 @@ d) da un rappresentante dei genitori designato dalle associazioni dei genitori d
 
 5\. La presidenza e' esercitata, a turno, da un rappresentante di ciascuno Stato membro, per il periodo di un anno, secondo il seguente ordine degli Stati membri: Belgio, Danimarca, Germania, Grecia, Spagna, Francia, Irlanda, Italia, Lussemburgo, Paesi Bassi, Portogallo, Regno Unito.
 
-### ARTICOLO 9
+#### ARTICOLO 9
 
 1\. Salvo nei casi in cui, ai sensi della presente convenzione, e' richiesta l'unanimita', le decisioni del Consiglio superiore sono adottate alla maggioranza dei due terzi dei membri che lo compongono, fatte salve le disposizioni seguenti:
 
@@ -213,7 +213,7 @@ d) Il diritto di voto del rappresentante del Comitato del personale di cui all'a
 
 3\. In ogni votazione, ogni membro presente o rappresentato dispone di un voto; cio' lascia impregiudicata la disposizione particolare di cui all'articolo 8, paragrafo 1, lettera a).
 
-### ARTICOLO 10
+#### ARTICOLO 10
 
 Il Consiglio superiore provvede all'applicazione della presente convenzione; a tal fine dispone dei necessari poteri di decisione in materia didattica, di bilancio ed amministrativa, nonche' per quanto riguarda il negoziato degli accordi di cui agli articoli 28, 29 e 30.
 
@@ -223,7 +223,7 @@ Il Consiglio superiore stabilisce il regolamento generale delle Scuole.
 
 Ogni anno in base al progetto preparato dal Segretario Generale, il Consiglio superiore predispone un rapporto sul funzionamento delle Scuole e lo trasmette al Parlamento europeo e al Consiglio.
 
-### ARTICOLO 11
+#### ARTICOLO 11
 
 In materia didattica il Consiglio superiore definisce l'orientamento degli studi e ne stabilisce l'organizzazione. In particolare su parere del Consiglio d'ispezione competente:
 
@@ -237,7 +237,7 @@ Stabilisce inoltre la tabella delle equivalenze di cui all'articolo 5, paragrafo
 
 4\) stabilisce esami destinati a sanzionare gli studi compiuti nella Scuola; ne fissa il regolamento; costituisce le commissioni esaminatrici e rilascia i diplomi. Stabilisce le prove di questi esami ad un livello sufficiente a rendere operative di effetti le norme previste all'articolo 5.
 
-### ARTICOLO 12
+#### ARTICOLO 12
 
 In materia amministrativa il Consiglio superiore:
 
@@ -253,7 +253,7 @@ b) su proposta del Segretario Generale, stabilisce annualmente le esigenze in fa
 
 5\) organizza il proprio funzionamento e stabilisce il proprio regolamento interno.
 
-### ARTICOLO 13
+#### ARTICOLO 13
 
 1\. In materia di bilancio il Consiglio superiore:
 
@@ -271,31 +271,31 @@ L'autorita' di bilancio delle Comunita' europee stabilisce l'importo del contrib
 
 4\. Prima dell'inizio dell'esercizio finanziario, il Consiglio superiore adotta definitivamente il bilancio delle Scuole, adeguandolo se necessario in base al contributo delle Comunita' europee nonche' delle organizzazioni, degli enti e delle istituzioni di cui al paragrafo 3.
 
-### ARTICOLO 14
+#### ARTICOLO 14
 
 Il Segretario Generale rappresenta il Consiglio superiore e dirige la segreteria nel quadro delle disposizioni dello statuto del Segretario Generale di cui all'articolo 12, punto 1. Rappresenta le Scuole nei procedimenti giudiziari. Risponde del proprio operato al Consiglio superiore.
 
-## CAPITOLO 2 - I Consigli d'ispezione
+### CAPITOLO 2 - I Consigli d'ispezione
 
-### ARTICOLO 15
+#### ARTICOLO 15
 
 Per le esigenze delle Scuole sono istituiti due Consigli d'ispezione:
 
 uno per il ciclo materno e quello elementare, l'altro per il ciclo secondario.
 
-### ARTICOLO 16
+#### ARTICOLO 16
 
 In ciascun Consiglio d'ispezione ogni Stato membro, parte contraente, e' rappresentato da un ispettore. Quest'ultimo e' designato dal Consiglio superiore su proposta della parte interessata.
 
 La Presidenza dei Consigli d'ispezione e' esercitata dal rappresentante del Consiglio d'ispezione dello Stato membro che esercita la Presidenza del Consiglio superiore.
 
-### ARTICOLO 17
+#### ARTICOLO 17
 
 I Consigli d'ispezione hanno il compito di vigilare sulla qualita' dell'insegnamento impartito nelle Scuole e di far procedere alle ispezioni nelle Scuole a tal fine necessarie.
 
 Sottopongono al Consiglio superiore i pareri e le proposte di cui, rispettivamente agli articoli 11 e 12, ed eventualmente anche proposte in merito alla formulazione dei programmi e all'organizzazione degli studi.
 
-### ARTICOLO 18
+#### ARTICOLO 18
 
 Gli ispettori hanno il compito di:
 
@@ -307,9 +307,9 @@ Gli ispettori hanno il compito di:
 
 Ciascuno Stato membro, tenendo conto delle esigenze stimate dal Consiglio superiore, concede agli ispettori le agevolazioni necessarie perche' possano assolvere pienamente la loro missione presso le Scuole.
 
-## CAPITOLO 3 - Il Consiglio d'amministrazione
+### CAPITOLO 3 - Il Consiglio d'amministrazione
 
-### ARTICOLO 19
+#### ARTICOLO 19
 
 Il Consiglio d'amministrazione previsto all'articolo 7 e' costituito dagli 8 membri qui appresso, fatte salve le deroghe di cui agli articoli 28 e 29:
 
@@ -329,7 +329,7 @@ Ai Consigli d'amministrazione puo' inoltre assistere, in qualita' di osservatore
 
 Al Consiglio d'amministrazione della loro Scuola sono invitati ad assistere, in qualita' di osservatori, due rappresentanti degli allievi, limitatamente ai punti che interessano questi ultimi.
 
-### ARTICOLO 20
+#### ARTICOLO 20
 
 Il Consiglio d'amministrazione:
 
@@ -343,9 +343,9 @@ Il Consiglio d'amministrazione:
 
 Le modalita' in merito alla convocazione e alle decisioni dei Consigli d'amministrazione sono stabilite dal regolamento generale delle Scuole previsto all'articolo 10.
 
-## CAPITOLO 4 - Il Direttore
+### CAPITOLO 4 - Il Direttore
 
-### ARTICOLO 21
+#### ARTICOLO 21
 
 Il Direttore esercita le proprie funzioni nell'ambito del regolamento generale di cui all'articolo 10. Egli ha autorita' sul personale preposto alla Scuola, secondo le procedure precisate nell'articolo 12, punto 4, lettere a) e b).
 
@@ -353,7 +353,7 @@ Il Direttore deve essere in possesso delle competenze e dei titoli che nel propr
 
 ## TITOLO TERZO - RAPPRESENTANZA DEL PERSONALE
 
-### ARTICOLO 22
+#### ARTICOLO 22
 
 E' istituito un Comitato del personale, composto da rappresentanti eletti dal corpo docente e dal personale amministrativo e tecnico di ciascuna Scuola europea.
 
@@ -365,7 +365,7 @@ Il Comitato del personale designa annualmente un membro titolare e un membro sup
 
 ## TITOLO QUARTO - ASSOCIAZIONE DEI GENITORI DEGLI ALLIEVI
 
-### ARTICOLO 23
+#### ARTICOLO 23
 
 Al fine di assicurare i rapporti fra i genitori degli allievi e le autorita' scolastiche, il Consiglio superiore riconosce per ciascuna Scuola un'associazione rappresentativa dei genitori degli allievi.
 
@@ -375,11 +375,11 @@ Le associazioni di tutte le Scuole designano annualmente, nel loro ambito rispet
 
 ## TITOLO QUINTO - BILANCIO
 
-### ARTICOLO 24
+#### ARTICOLO 24
 
 L'esercizio finanziario delle Scuole coincide con l'anno civile.
 
-### ARTICOLO 25
+#### ARTICOLO 25
 
 Il bilancio delle Scuole e' alimentato mediante:
 
@@ -397,11 +397,11 @@ Le modalita' secondo cui il contributo delle Comunita' europee e' messo a dispos
 
 ## TITOLO SESTO - CONTROVERSIE
 
-### ARTICOLO 26
+#### ARTICOLO 26
 
 La Corte di giustizia delle Comunita' europee e' la sola competente a conoscere delle controversie tra le Parti contraenti relative all'interpretazione e all'applicazione della presente convenzione che non siano state risolte in sede di Consiglio superiore.
 
-### ARTICOLO 27
+#### ARTICOLO 27
 
 1\. E' istituita una Camera dei ricorsi.
 
@@ -427,21 +427,21 @@ Il regolamento in questione richiede l'approvazione unanime del Consiglio superi
 
 ## TITOLO SETTIMO - DISPOSIZIONI SPECIALI
 
-### ARTICOLO 28
+#### ARTICOLO 28
 
 In merito alle Scuole esistenti o da creare conformemente all'articolo 2, il Consiglio superiore puo' negoziare, deliberando all'unanimita', qualsiasi accordo di partecipazione con organizzazioni di diritto pubblico che, a motivo della loro sede, siano interessate al funzionamento delle Scuole anzidette. Attraverso la stipulazione di tali accordi dette organizzazioni possono ottenere un seggio e un voto nel Consiglio superiore per qualsiasi questione che interessi la Scuola di cui trattasi, qualora il loro contributo finanziario costituisca l'essenziale del finanziamento del bilancio della Scuola. Esse possono ottenere anche un seggio e un voto presso il Consiglio d'amministrazione di questa stessa Scuola.
 
-### ARTICOLO 29
+#### ARTICOLO 29
 
 Il Consiglio superiore, deliberando all'unanimita', puo' anche negoziare accordi, diversi dagli accordi di partecipazione, con enti od istituzioni di diritto pubblico o privato che siano interessati al funzionamento di una delle Scuole europee esistenti.
 
 Il Consiglio superiore puo' attribuire a detti enti od istituzioni un seggio ed un voto presso il Consiglio di amministrazione della Scuola di cui trattasi.
 
-### ARTICOLO 30
+#### ARTICOLO 30
 
 Il Consiglio superiore puo' negoziare col Governo del paese in cui la Scuola ha sede qualsiasi accordo complementare che consenta a quest'ultima di assicurarsi le migliori condizioni di funzionamento.
 
-### ARTICOLO 31
+#### ARTICOLO 31
 
 1\. Ciascuna Parte contraente puo' denunciare la presente convenzione mediante notificazione scritta, diretta al Governo lussemburghese.
 
@@ -453,7 +453,7 @@ Quest'ultimo provvede senza indugio a informarne tutte le alte Parti contraenti.
 
 4\. Qualsiasi Parte contraente puo' chiedere la modifica della presente convenzione. A tale scopo, essa notifica la sua richiesta al Governo lussemburghese il quale intraprende le necessarie iniziative presso la Parte contraente che esercita la Presidenza del Consiglio delle Comunita' europee, ai fini della convocazione di una conferenza intergovernativa.
 
-### ARTICOLO 32
+#### ARTICOLO 32
 
 La domanda di adesione alla presente convenzione e' rivolta per iscritto da ogni Stato che diventi membro delle Comunita' europee, al Governo lussemburghese, il quale ne informa ciascuna altra parte contraente.
 
@@ -461,7 +461,7 @@ L'adesione ha effetto il 1 settembre successivo alla data del deposito degli str
 
 A partire da questa data la composizione degli organi delle Scuole e' modificata di conseguenza.
 
-### ARTICOLO 33
+#### ARTICOLO 33
 
 La presente convenzione e' ratificata dagli Stati membri, Parti contraenti, in conformita' delle rispettive norme costituzionali. Per quanto concerne le Comunita' europee, la presente convenzione e' conclusa conformemente ai trattati che le istituiscono. Gli strumenti di ratifica nonche' gli atti di notifica della conclusione della presente convenzione sono depositati presso il Governo lussemburghese, depositario dello statuto delle Scuole europee. Il Governo lussemburghese informa dell'avvenuto deposito tutte le altre parti contraenti.
 
@@ -469,7 +469,7 @@ La presente convenzione entra il vigore il primo giorno del mese successivo al d
 
 La presente convenzione, redatta in un unico esemplare, in lingua danese, francese, greca, inglese, italiana, olandese, portoghese, spagnola e tedesca, i nove testi facenti tutti egualmente fede, e' depositata negli archivi del Governo lussemburghese, che ne trasmette copia certificata conforme a ciascuna altra Parte contraente.
 
-### ARTICOLO 34
+#### ARTICOLO 34
 
 La presente convenzione annulla e sostituisce lo statuto del 12 aprile 1957 ed il relativo protocollo del 13 aprile 1962.
 
@@ -479,7 +479,7 @@ La presente convenzione lascia impregiudicato il protocollo addizionale concerne
 
 In ogni atto che riguardi le Scuole europee e che sia anteriore alla presente convenzione, i riferimenti sono intesi come rinvianti agli articoli corrispondenti della presente convenzione.
 
-### Allegato I
+#### Allegato I
 
 ALLEGATO I
 
@@ -507,7 +507,7 @@ Scuola europea di VARESE
 
 (+) Il Consiglio superiore ha deciso di creare questa scuola nella sua riunione del 27-29 ottobre 1992.
 
-### Allegato II
+#### Allegato II
 
 ALLEGATO II
 

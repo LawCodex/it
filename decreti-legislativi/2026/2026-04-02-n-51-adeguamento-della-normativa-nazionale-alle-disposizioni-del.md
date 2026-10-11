@@ -51,9 +51,9 @@ il seguente decreto legislativo:
 
 ## Titolo I - PRINCIPI GENERALI
 
-#### Capo I
+### Capo I
 
-##### Art. 1
+#### Art. 1
 
 Campo di applicazione
 
@@ -181,7 +181,7 @@ Campo di applicazione
 
 > \- Per i riferimenti al regolamento (UE) 2023/2411 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, relativo alla protezione delle indicazioni geografiche per i prodotti artigianali e industriali, si vedano le note alle premesse.
 
-##### Art. 2
+#### Art. 2
 
 Definizioni e abbreviazioni
 
@@ -219,7 +219,7 @@ l) «documento unico»: il documento di cui all'articolo 10 del regolamento (UE)
 
 ### Capo I
 
-##### Art. 3
+#### Art. 3
 
 Individuazione dell'autorita' competente per la fase nazionale
 
@@ -233,11 +233,9 @@ Individuazione dell'autorita' competente per la fase nazionale
 
 ## Titolo III - FASE NAZIONALE DELLA PROCEDURA DI REGISTRAZIONE
 
-### Capo I
+### Capo I - Procedure per la presentazione, l'esame e la valutazione delle domande di registrazione
 
-#### Procedure per la presentazione, l'esame e la valutazione delle domande di registrazione
-
-##### Art. 4
+#### Art. 4
 
 Modalita' di deposito
 
@@ -245,7 +243,7 @@ Modalita' di deposito
 
 2\. La DGPI-UIBM all'atto del deposito rilascia una apposita ricevuta, attribuendo alla domanda di registrazione un numero di riferimento e una data.
 
-##### Art. 5
+#### Art. 5
 
 Domanda di registrazione
 
@@ -283,7 +281,7 @@ c) la documentazione di accompagnamento di cui all'articolo 11 del regolamento (
 
 > \- Per i riferimenti al regolamento (UE) 2023/2411 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, relativo alla protezione delle indicazioni geografiche per i prodotti artigianali e industriali, si vedano le note alle premesse.
 
-##### Art. 6
+#### Art. 6
 
 Esame delle domande
 
@@ -515,11 +513,9 @@ c) la completezza delle informazioni previste:
 
 > 4\. Il termine per il ricorso per revocazione e' di trenta giorni dalla data della notificazione della sentenza, nei casi di cui ai numeri 4 e 5 dell'articolo 395 del codice di procedura civile, e di trenta giorni dalla data di conoscenza dell'evento, nei casi di cui ai numeri 1, 2, 3 e 6 dell'articolo 395 del codice di procedura civile.».
 
-## Capo II
+### Capo II - Procedura nazionale di opposizione
 
-### Procedura nazionale di opposizione
-
-##### Art. 7
+#### Art. 7
 
 Deposito dell'opposizione
 
@@ -565,7 +561,7 @@ d) l'identificazione del marchio o dei marchi anteriori di cui all'articolo 12, 
 
 > 3\. Ai fini previsti al comma 1, lettere c), d) ed e), le domande anteriori sono assimilate ai marchi anteriori registrati, sotto riserva della conseguente registrazione.».
 
-##### Art. 8
+#### Art. 8
 
 Esame dell'opposizione e decisione
 
@@ -615,7 +611,7 @@ b) se l'opposizione e' proposta ai sensi dell'articolo 15, paragrafo 3, lettera 
 
 > 7-bis. L'Ufficio italiano brevetti e marchi, con il provvedimento di cui al comma 7, pone a carico del richiedente, se soccombente, il rimborso dei diritti di opposizione. Le spese di rappresentanza professionale nel procedimento sono liquidate a carico della parte soccombente, a domanda, nella misura massima individuata con decreto del Ministero dello sviluppo economico.».
 
-##### Art. 9
+#### Art. 9
 
 Sospensione della procedura di opposizione
 
@@ -667,7 +663,7 @@ c) se e' pendente un giudizio di nullita' o di decadenza del marchio sul quale s
 
 > 6\. Salvo l'applicazione di ogni altra tutela, la registrazione di nome a dominio aziendale concessa in violazione dell'articolo 22 o richiesta in mala fede, puo' essere, su domanda dell'avente diritto, revocata oppure a lui trasferita da parte dell'autorita' di registrazione.».
 
-##### Art. 10
+#### Art. 10
 
 Estinzione della procedura di opposizione
 
@@ -693,7 +689,7 @@ h) la domanda o la registrazione dell'indicazione geografica, oggetto di opposiz
 
 > \- Per i riferimenti al regolamento (UE) 2023/2411 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, relativo alla protezione delle indicazioni geografiche per i prodotti artigianali e industriali, si vedano le note alle premesse.
 
-##### Art. 11
+#### Art. 11
 
 Ricorso
 
@@ -723,11 +719,9 @@ Ricorso
 
 > \- Per il testo degli articoli da 136 a 136-terdecies del decreto legislativo 10 febbraio 2005, n. 30, si vedano le note all'articolo 6.
 
-## Capo III
+### Capo III - Procedura nazionale di decisione
 
-### Procedura nazionale di decisione
-
-##### Art. 12
+#### Art. 12
 
 Adozione della decisione nel quadro della fase nazionale
 
@@ -745,7 +739,7 @@ Adozione della decisione nel quadro della fase nazionale
 
 > \- Per il testo degli articoli da 136 a 136-terdecies del decreto legislativo 10 febbraio 2005, n. 30, si vedano le note all'articolo 6.
 
-##### Art. 13
+#### Art. 13
 
 Ritiro della domanda di registrazione della indicazione geografica
 
@@ -757,7 +751,7 @@ Ritiro della domanda di registrazione della indicazione geografica
 
 > \- Per i riferimenti al regolamento (UE) 2023/2411 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, relativo alla protezione delle indicazioni geografiche per i prodotti artigianali e industriali, si vedano le note alle premesse.
 
-##### Art. 14
+#### Art. 14
 
 Trasmissione della domanda di registrazione all'EUIPO
 
@@ -771,7 +765,7 @@ Trasmissione della domanda di registrazione all'EUIPO
 
 > \- Per i riferimenti al regolamento (UE) 2023/2411 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, relativo alla protezione delle indicazioni geografiche per i prodotti artigianali e industriali, si vedano le note alle premesse.
 
-##### Art. 15
+#### Art. 15
 
 Protezione nazionale temporanea
 
@@ -793,7 +787,7 @@ Protezione nazionale temporanea
 
 > \- Per il testo degli articoli da 136 a 136-terdecies del decreto legislativo 10 febbraio 2005, n. 30, si vedano le note all'articolo 6.
 
-##### Art. 16
+#### Art. 16
 
 Registrazione dei nomi esistenti
 
@@ -819,7 +813,7 @@ Contro tale decisione e' consentito presentare ricorso ai sensi e con le modalit
 
 ### Capo I
 
-##### Art. 17
+#### Art. 17
 
 Modifica del disciplinare
 
@@ -849,7 +843,7 @@ Modifica del disciplinare
 
 > \- Per i riferimenti al regolamento (UE) 2023/2411 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, relativo alla protezione delle indicazioni geografiche per i prodotti artigianali e industriali, si vedano le note alle premesse.
 
-##### Art. 18
+#### Art. 18
 
 Cancellazione delle IGP registrate
 
@@ -871,7 +865,7 @@ Cancellazione delle IGP registrate
 
 ### Capo I
 
-##### Art. 19
+#### Art. 19
 
 Responsabilita' dei produttori
 
@@ -881,7 +875,7 @@ Responsabilita' dei produttori
 
 > \- Per i riferimenti al regolamento (UE) 2023/2411 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, relativo alla protezione delle indicazioni geografiche per i prodotti artigianali e industriali, si vedano le note alle premesse.
 
-##### Art. 20
+#### Art. 20
 
 Controlli
 
@@ -907,7 +901,7 @@ Controlli
 
 ### Capo I
 
-##### Art. 21
+#### Art. 21
 
 Sanzioni penali
 
@@ -931,7 +925,7 @@ c) alla rubrica, dopo la parola: «agroalimentari» sono aggiunte le seguenti: �
 
 > I delitti previsti dai commi primo e secondo sono punibili a condizione che siano state osservate le norme delle leggi interne, dei regolamenti comunitari e delle convenzioni internazionali in materia di tutela delle indicazioni geografiche e delle denominazioni di origine dei prodotti agroalimentari, artigianali e industriali.».
 
-##### Art. 22
+#### Art. 22
 
 Sanzioni amministrative
 
@@ -973,7 +967,7 @@ Sanzioni amministrative
 
 > «32-bis (Autorita' per le garanzie nelle comunicazioni). - In caso di violazione degli obblighi previsti agli articoli 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23, 24, 26, 27, 28, 30 e 45 del Regolamento (UE) 2022/2065 del Parlamento europeo e del Consiglio del 19 ottobre 2022 relativo a un mercato unico dei servizi digitali, l'Autorita', nell'esercizio dei poteri di cui al combinato disposto degli articoli 51 e 52 del medesimo Regolamento (UE) 2022/2065, applica, in base a principi di proporzionalita', adeguatezza e rispetto del contraddittorio, secondo le procedure stabilite con proprio regolamento, sanzioni amministrative pecuniarie fino ad un massimo del 6% del fatturato annuo mondiale nell'esercizio finanziario precedente alla comunicazione di avvio del procedimento al prestatore di un servizio intermediario rientrante nella propria sfera di competenza, anche nella sua qualita' di Coordinatore dei Servizi Digitali, ai sensi del diritto nazionale e dell'Unione europea applicabile alla fattispecie di illecito. In caso di comunicazione di informazioni inesatte, incomplete o fuorvianti, di mancata risposta o rettifica di informazioni inesatte, incomplete o fuorvianti e di inosservanza dell'obbligo di sottoporsi a un'ispezione, l'Autorita', nell'esercizio dei poteri di cui al combinato disposto degli articoli 51 e 52 del medesimo Regolamento (UE) 2022/2065, applica una sanzione amministrativa pecuniaria fino ad un massimo dell'1% del fatturato mondiale realizzato nell'esercizio finanziario precedente dal fornitore di un servizio intermediario o dalla persona interessata rientranti nella propria sfera di competenza, anche nella sua qualita' di Coordinatore dei Servizi Digitali, ai sensi del diritto nazionale e dell'Unione europea applicabile alla fattispecie di illecito. L'importo massimo giornaliero delle penalita' di mora che l'Autorita' puo' applicare e' pari al 5% del fatturato giornaliero medio mondiale del fornitore di un servizio intermediario interessato realizzato nell'esercizio finanziario precedente, calcolato a decorrere dalla data specificata nella decisione in questione. Nell'applicazione della sanzione l'Autorita' tiene conto, in particolare, della gravita' del fatto e delle conseguenze che ne sono derivate, nonche' della durata e dell'eventuale reiterazione delle violazioni. Per le sanzioni amministrative previste dal presente comma e' escluso il beneficio del pagamento in misura ridotta previsto dall'articolo 16 della legge 24 novembre 1981, n. 689.».
 
-##### Art. 23
+#### Art. 23
 
 Autorita' di accertamento e irrogazione delle sanzioni
 
@@ -1015,7 +1009,7 @@ Autorita' di accertamento e irrogazione delle sanzioni
 
 ### Capo I
 
-##### Art. 24
+#### Art. 24
 
 Partecipazione all'associazione di produttori
 
@@ -1025,7 +1019,7 @@ Partecipazione all'associazione di produttori
 
 > \- Per i riferimenti al regolamento (UE) 2023/2411 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, relativo alla protezione delle indicazioni geografiche per i prodotti artigianali e industriali, si vedano le note alle premesse.
 
-##### Art. 25
+#### Art. 25
 
 Disposizioni organizzative
 
@@ -1159,7 +1153,7 @@ Disposizioni organizzative
 
 > 3\. Agli oneri derivanti dall'attuazione del comma 2, lettera e), quantificati in euro 964.158 per l'anno 2025 e in euro 664.158 annui a decorrere dall'anno 2026, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2025-2027, nell'ambito del programma «Fondi di riserva e speciali» della missione «Fondi da ripartire» dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2025, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle imprese e del made in Italy.».
 
-##### Art. 26
+#### Art. 26
 
 Disposizioni finali
 
@@ -1171,7 +1165,7 @@ Disposizioni finali
 
 > \- Per i riferimenti al regolamento (UE) 2023/2411 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, relativo alla protezione delle indicazioni geografiche per i prodotti artigianali e industriali, si vedano le note alle premesse.
 
-##### Art. 27
+#### Art. 27
 
 Clausola di invarianza finanziaria
 

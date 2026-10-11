@@ -181,7 +181,7 @@ xix) si deve intendere per "Ufficio internazionale" l'Ufficio internazionale del
 
 xx) si deve intendere per "Direttore generale" il Direttore generale dell'Organizzazione e, finche' i BIRPI esisteranno, il Direttore generale dei BIRPI.
 
-## CAPITOLO I - DOMANDA INTERNAZIONALE E RICERCA INTERNAZIONALE
+### CAPITOLO I - DOMANDA INTERNAZIONALE E RICERCA INTERNAZIONALE
 
 ##### Articolo 3
 
@@ -597,7 +597,7 @@ c) Il comma a) non vieta a un ufficio designato di permettere alle autorita' giu
 
 tuttavia, nessun ufficio nazionale puo' pubblicare una domanda internazionale o la sua traduzione prima che sia avvenuta la pubblicazione internazionale o prima della scadenza di un termine di venti mesi a decorrere dalla data di priorita' qualora la pubblicazione internazionale non sia avvenuta alla scadenza di questo termine.
 
-## CAPITOLO II - ESAME PRELIMINARE INTERNAZIONALE
+### CAPITOLO II - ESAME PRELIMINARE INTERNAZIONALE
 
 ##### Articolo 31
 
@@ -779,7 +779,7 @@ Risultato dell'esame nazionale degli uffici eletti
 
 Gli uffici eletti che ricevono il rapporto di esame preliminare internazionale non possono esigere che il depositante consegni loro copie di documenti relativi all'esame della medesima domanda internazionale fatto presso un altro ufficio eletto o fornisca loro informazioni circa il contenuto di tali documenti.
 
-## CAPITOLO III - DISPOSIZIONI COMUNI
+### CAPITOLO III - DISPOSIZIONI COMUNI
 
 ##### Articolo 43
 
@@ -837,7 +837,7 @@ Diritto di esercitare presso amministrazioni internazionali
 
 Avvocati, agenti di brevetti o altre persone, che abbiano il diritto d'esercitare presso l'ufficio nazionale presso il quale la domanda internazionale e' stata depositata, hanno il diritto di esercitare, per quanto concerne questa domanda, presso l'Ufficio internazionale, l'amministrazione competente incaricata della ricerca internazionale e l'amministrazione competente incaricata dell'esame preliminare internazionale.
 
-## CAPITOLO IV - SERVIZI TECNICI
+### CAPITOLO IV - SERVIZI TECNICI
 
 ##### Articolo 50
 
@@ -885,7 +885,7 @@ Nessuna disposizione del presente capitolo tocca le disposizioni finanziarie fig
 
 Queste disposizioni non sono applicabili al presente capitolo ne' alla sua attuazione.
 
-## CAPITOLO V - DISPOSIZIONI AMMINISTRATIVE
+### CAPITOLO V - DISPOSIZIONI AMMINISTRATIVE
 
 ##### Articolo 53
 
@@ -1141,7 +1141,7 @@ c) Per poter includere, in avvenire, una qualsiasi regola nell'una o nell'altra 
 
 5\) In caso di divergenza tra il testo del trattato e quello del regolamento d'esecuzione, fa fede il primo testo.
 
-## CAPITOLO VI - CONTROVERSIE
+### CAPITOLO VI - CONTROVERSIE
 
 ##### Articolo 59
 
@@ -1151,7 +1151,7 @@ Fatto salvo l'articolo 64.5), ogni controversia tra due o piu' Stati contraenti 
 
 L'Ufficio internazionale sara' informato dallo Stato contraente attore del deferimento della controversia alla Corte e ne dara' notizia agli altri Stati contraenti.
 
-## CAPITOLO VII - REVISIONE E MODIFICAZIONI
+### CAPITOLO VII - REVISIONE E MODIFICAZIONI
 
 ##### Articolo 60
 
@@ -1183,7 +1183,7 @@ b) Ogni modificazione di detti articoli accettata in tal modo vincola tutti gli 
 
 c) Ogni modificazione accettata conformemente al comma a) vincola tutti gli Stati che divengono membri dell'Assemblea dopo la data della sua entrata in vigore conformemente al comma a).
 
-## CAPITOLO VIII - CLAUSOLE FINALI
+### CAPITOLO VIII - CLAUSOLE FINALI
 
 ##### Articolo 62
 
@@ -3983,7 +3983,7 @@ RELATIVE A L'ASSISTANCE TECHNIQUE
 
 Parte di provvedimento in formato grafico
 
-## Capitolo I - DISPOSIZIONI GENERALI
+### Capitolo I - DISPOSIZIONI GENERALI
 
 TRADUZIONE NON UFFICIALE
 
@@ -4041,7 +4041,7 @@ b) il Consiglio d'amministrazione.
 
 Questo compito e' assolto dall'Ufficio europeo dei brevetti sotto il controllo del Consiglio d'amministrazione.
 
-## Capitolo II - L'ORGANIZZAZIONE EUROPEA DEI BREVETTI
+### Capitolo II - L'ORGANIZZAZIONE EUROPEA DEI BREVETTI
 
 ##### Articolo 5
 
@@ -4089,7 +4089,7 @@ a) per quanto concerne le controversie di cui al paragrafo 1, i tribunali compet
 
 b) per quanto concerne le controversie di cui al paragrafo 2, i tribunali competenti della Repubblica federale di Germania, oppure i tribunali competenti dello Stato nel quale e' situata la sede o l'agenzia.
 
-## Capitolo III - L'UFFICIO EUROPEO DEI BREVETTI
+### Capitolo III - L'UFFICIO EUROPEO DEI BREVETTI
 
 ##### Articolo 10
 
@@ -4291,7 +4291,7 @@ Parere tecnico
 
 Su richiesta del tribunale nazionale competente investito dell'azione per contraffazione o di nullita', l'Ufficio europeo dei brevetti e' tenuto a fornire, dietro pagamento di un adeguato compenso, un parere tecnico sul brevetto europeo di cui trattasi. Le divisioni di esame sono competenti a rilasciare tali pareri.
 
-## Capitolo IV - IL CONSIGLIO D'AMMINISTRAZIONE
+### Capitolo IV - IL CONSIGLIO D'AMMINISTRAZIONE
 
 ##### Articolo 26
 
@@ -4421,7 +4421,7 @@ c) a questo numero di voti si aggiungono cinque voti supplementari;
 
 d) tuttavia, il numero di voti di uno Stato contraente non puo' essere superiore a trenta.
 
-## Capitolo V - DISPOSIZIONI FINANZIARIE
+### Capitolo V - DISPOSIZIONI FINANZIARIE
 
 ##### Articolo 37
 
@@ -4593,9 +4593,7 @@ Il regolamento relativo alle tasse fissa in particolare l'importo delle tasse e 
 
 ## PARTE SECONDA - DIRITTO DEI BREVETTI
 
-### Capitolo I
-
-#### BREVETTABILITA'
+### Capitolo I - BREVETTABILITA'
 
 ##### Articolo 52
 
@@ -4665,7 +4663,7 @@ Applicazione industriale
 
 Una invenzione e' considerata atta ad avere un'applicazione industriale se il suo oggetto puo' essere fabbricato o utilizzato in qualsiasi genere di industria, comprese quelle agricole.
 
-## Capitolo II - PERSONE ABILITATE A RICHIEDERE ED A OTTENERE UN BREVETTO EUROPEO - DESIGNAZIONE DELL'INVENTORE
+### Capitolo II - PERSONE ABILITATE A RICHIEDERE ED A OTTENERE UN BREVETTO EUROPEO - DESIGNAZIONE DELL'INVENTORE
 
 ##### Articolo 58
 
@@ -4713,7 +4711,7 @@ Diritto dell'inventore di essere designato
 
 L'inventore ha il diritto, nei riguardi del titolare della domanda di brevetto europeo o del brevetto europeo, di essere designato come tale presso l'Ufficio europeo dei brevetti.
 
-## Capitolo III - EFFETTI DEL BREVETTO EUROPEO E DELLA DOMANDA DI BREVETTO EUROPEO
+### Capitolo III - EFFETTI DEL BREVETTO EUROPEO E DELLA DOMANDA DI BREVETTO EUROPEO
 
 ##### Articolo 63
 
@@ -4803,7 +4801,7 @@ a) deve permettere al richiedente o al titolare del brevetto europeo di presenta
 
 b) puo' disporre che chiunque, in questo Stato, abbia in buona fede incominciato a utilizzare un'invenzione o fatto preparativi effettivi e seri a tale scopo, senza che questa utilizzazione costituisca una contraffazione della domanda o del brevetto nel testo della traduzione iniziale, puo', a decorrere dal momento in cui la traduzione riveduta ha effetto giuridico, continuare a utilizzare a titolo gratuito l'invenzione nella sua azienda o per i bisogni della sua azienda.
 
-## Capitolo IV - DELLA DOMANDA DI BREVETTO EUROPEO COME OGGETTO DI PROPRIETA'
+### Capitolo IV - DELLA DOMANDA DI BREVETTO EUROPEO COME OGGETTO DI PROPRIETA'
 
 ##### Articolo 71
 
@@ -4831,9 +4829,7 @@ Salvo disposizioni contrarie della presente convenzione, la domanda di brevetto 
 
 ## PARTE TERZA - LA DOMANDA DI BREVETTO EUROPEO
 
-### Capitolo I
-
-#### DEPOSITO DELLA DOMANDA DI BREVETTO EUROPEO E CONDIZIONI CHE ESSA DEVE SODDISFARE
+### Capitolo I - DEPOSITO DELLA DOMANDA DI BREVETTO EUROPEO E CONDIZIONI CHE ESSA DEVE SODDISFARE
 
 ##### Articolo 75
 
@@ -4967,7 +4963,7 @@ Tasse annuali per la domanda di brevetto europeo
 
 4\) L'obbligo di pagare tasse annuali cessa con il pagamento di quella dovuta per l'anno in cui e' pubblicata la menzione della concessione del brevetto europeo.
 
-## Capitolo II - PRIORITA'
+### Capitolo II - PRIORITA'
 
 ##### Articolo 87
 
@@ -5275,9 +5271,7 @@ b) il Presidente dell'Ufficio europeo dei brevetti puo' sottoporre una questione
 
 ## PARTE SETTIMA - DISPOSIZIONI COMUNI
 
-### Capitolo I
-
-#### DISPOSIZIONI GENERALI RELATIVE ALLA PROCEDURA
+### Capitolo I - DISPOSIZIONI GENERALI RELATIVE ALLA PROCEDURA
 
 ##### Articolo 113
 
@@ -5431,7 +5425,7 @@ Cessazione degli obblighi finanziari
 
 3\) Il termine previsto al paragrafo 1 e' interrotto da un invito a pagare la tassa e quello previsto al paragrafo 2 da una richiesta per iscritto tendente a far valere il diritto. Il termine interrotto ricomincia a decorrere dal momento della sua interruzione; esso scade al piu' tardi sei anni dopo la fine dell'anno civile nel corso del quale esso aveva incominciato a decorrere inizialmente, a meno che un'azione legale sia stata promossa per far valere un diritto; in tal caso, il termine scade un anno dopo la data alla quale la decisione e' passata in giudicato.
 
-## Capitolo II - INFORMAZIONE DEL PUBBLICO E DEGLI ORGANI UFFICIALI
+### Capitolo II - INFORMAZIONE DEL PUBBLICO E DEGLI ORGANI UFFICIALI
 
 ##### Articolo 127
 
@@ -5505,7 +5499,7 @@ Scambio di pubblicazioni
 
 2\) L'Ufficio europeo dei brevetti puo' concludere accordi concernenti lo scambio o l'invio di pubblicazioni.
 
-## Capitolo III - RAPPRESENTANZA
+### Capitolo III - RAPPRESENTANZA
 
 ##### Articolo 133
 
@@ -5555,9 +5549,7 @@ c) al potere disciplinare dell'istituto o dell'Ufficio europeo dei brevetti su q
 
 ## PARTE OTTAVA - INCIDENZE SUL DIRITTO NAZIONALE
 
-### Capitolo I
-
-#### TRASFORMAZIONE IN DOMANDA DI BREVETTO NAZIONALE
+### Capitolo I - TRASFORMAZIONE IN DOMANDA DI BREVETTO NAZIONALE
 
 ##### Articolo 135
 
@@ -5591,7 +5583,7 @@ a) paghi la tassa nazionale di deposito;
 
 b) presenti, in una delle lingue ufficiali dello Stato considerato, una traduzione del testo originale della domanda di brevetto europeo come pure, ove occorra, una traduzione del testo, modificato nel corso della procedura dinanzi all'Ufficio europeo dei brevetti, in base al quale egli desidera che la procedura nazionale si svolga.
 
-## Capitolo II - NULLITA' E DIRITTI ANTERIORI
+### Capitolo II - NULLITA' E DIRITTI ANTERIORI
 
 ##### Articolo 138
 
@@ -5621,7 +5613,7 @@ Diritti anteriori e diritti con la medesima data
 
 3\) Ogni Stato contraente ha facolta' di decidere se ed a quali condizioni possano essere cumulate le protezioni conferite ad un'invenzione esposta tanto in una domanda di brevetto europeo o in un brevetto europeo quanto in una domanda di brevetto nazionale o in un brevetto nazionale con la medesima data di deposito o, se una priorita' e' rivendicata, la medesima data di priorita'.
 
-## Capitolo III - ALTRE INCIDENZE SUL DIRITTO NAZIONALE
+### Capitolo III - ALTRE INCIDENZE SUL DIRITTO NAZIONALE
 
 ##### Articolo 140
 
@@ -7479,7 +7471,7 @@ b) nel caso in cui altre condizioni richieste per il rilascio dell'attestato a n
 
 4\) Ogni persona radiata sara' nuovamente iscritta, a sua richiesta nella lista dei mandatari abilitati se produce un attestato del servizio centrale della proprieta' industriale che comprovi che i motivi che avevano provocato il ritiro dell'attestato di cui al paragrafo 1 non esistono piu'.
 
-## Sezione I - COMPETENZA
+#### Sezione I - COMPETENZA
 
 PROTOCOLLO
 
@@ -7525,7 +7517,7 @@ Le giurisdizioni degli Stati contraenti adite per azioni di cui all'articolo 1 v
 
 2\) Qualora la competenza del tribunale adito per primo sia contestata, la giurisdizione che dovrebbe dichiararsi incompetente a norma del paragrafo 1 sospende la sua decisione sino a che la decisione di detto tribunale sia passata in giudicato.
 
-## Sezione II - RICONOSCIMENTO
+#### Sezione II - RICONOSCIMENTO
 
 ##### Articolo 9
 
@@ -7903,9 +7895,7 @@ a mettere in opera, tenendo conto degli sforzi fatti da altre organizzazioni int
 
 ## PARTE PRIMA - DISPOSIZIONI GENERALI E ISTITUZIONALI
 
-### Capitolo I
-
-#### DISPOSIZIONI GENERALI
+### Capitolo I - DISPOSIZIONI GENERALI
 
 CONVENZIONE
 
@@ -8041,7 +8031,7 @@ Brevetti nazionali
 
 La presente convenzione non pregiudica il diritto degli Stati contraenti di rilasciare brevetti nazionali.
 
-## Capitolo II - ORGANI SPECIALI DELL'UFFICIO EUROPEO DEI BREVETTI
+### Capitolo II - ORGANI SPECIALI DELL'UFFICIO EUROPEO DEI BREVETTI
 
 ##### Articolo 7
 
@@ -8145,7 +8135,7 @@ Lingue delle procedure e delle pubblicazioni
 
 9\. Gli Stati che sono parti della presente convenzione non possono avvalersi delle facolta' offerte dagli articoli 65, 67, paragrafo 3, e 70, paragrafo 3, della convenzione sul brevetto europeo.
 
-## Capitolo III - COMITATO RISTRETTO DEL CONSIGLIO DI AMMINISTRAZIONE
+### Capitolo III - COMITATO RISTRETTO DEL CONSIGLIO DI AMMINISTRAZIONE
 
 ##### Articolo 15
 
@@ -8239,7 +8229,7 @@ Ponderazione dei voti
 
 Per l'adozione e la modifica del regolamento relativo alle tasse come pure, ove ne risulti accresciuto l'onere finanziario degli Stati contraenti, per l'approvazione di cui all'articolo 25, lettera a), si procede alla votazione a norma dell'articolo 36 della convenzione sul brevetto europeo. Ai sensi del presente articolo per "Stati contraenti" si intendono gli Stati che sono parti della presente convenzione.
 
-## Capitolo IV - DISPOSIZIONI FINANZIARIE
+### Capitolo IV - DISPOSIZIONI FINANZIARIE
 
 ##### Articolo 24
 
@@ -8271,9 +8261,7 @@ Il regolamento relativo alle tasse fissa in particolare l'importo delle tasse e 
 
 ## PARTE SECONDA - DIRITTO DEI BREVETTI
 
-### Capitolo I
-
-#### DIRITTO AL BREVETTO COMUNITARIO
+### Capitolo I - DIRITTO AL BREVETTO COMUNITARIO
 
 ##### Articolo 27
 
@@ -8303,7 +8291,7 @@ egli puo' proseguire l'utilizzazione a condizione che chieda una licenza non esc
 
 3\. Il paragrafo 2 non e' applicabile nel caso in cui il titolare del brevetto o della licenza sia stato in mala fede al momento dell'inizio dell'utilizzazione dell'invenzione o dei preparativi a tal fine.
 
-## Capitolo II - EFFETTI DEL BREVETTO COMUNITARIO E DELLA DOMANDA DI BREVETTO EUROPEO
+### Capitolo II - EFFETTI DEL BREVETTO COMUNITARIO E DELLA DOMANDA DI BREVETTO EUROPEO
 
 ##### Articolo 29
 
@@ -8397,7 +8385,7 @@ Applicazione complementare delle norme del diritto nazionale in materia di contr
 
 3\. 1 paragrafi 1 e 2 sono applicabili a una domanda di brevetto europeo nella quale sono designati gli Stati contraenti.
 
-## Capitolo III - DIRITTI NAZIONALI
+### Capitolo III - DIRITTI NAZIONALI
 
 ##### Articolo 37
 
@@ -8415,7 +8403,7 @@ Diritto basato su una precedente utilizzazione e diritto di possesso personale
 
 2\. I diritti derivanti da un brevetto comunitario non si estendono agli atti relativi a un prodotto tutelato da tale brevetto, compiuti nei territorio dello Stato contraente interessato, dopo che il prodotto sia stato messo in commercio in detto Stato dalla persona che fruisce del diritto di cui al paragrafo 1, nella misura in cui la legislazione ivi vigente prevede tale effetto per i brevetti nazionali.
 
-## Capitolo IV - BREVETTO COMUNITARIO COME OGGETTO DI PROPRIETA'
+### Capitolo IV - BREVETTO COMUNITARIO COME OGGETTO DI PROPRIETA'
 
 ##### Articolo 39
 
@@ -8495,7 +8483,7 @@ Domanda di brevetto europeo come oggetto di proprieta'
 
 2\. I diritti acquisiti dai terzi nei confronti di una domanda di brevetto europeo di cui al paragrafo 1 conservano i loro effetti rispetto al brevetto comunitario rilasciato su tale domanda.
 
-## Capitolo V - LICENZE OBBLIGATORIE SUL BREVETTO COMUNITARIO
+### Capitolo V - LICENZE OBBLIGATORIE SUL BREVETTO COMUNITARIO
 
 ##### Articolo 46
 
@@ -8523,9 +8511,7 @@ La legislazione di ciascuno degli Stati contraenti che prevede la concessione di
 
 ## PARTE TERZA - MANTENIMENTO IN VIGORE, ESTINZIONE, DECADENZA, LIMITAZIONE E NULLITA' DEL BREVETTO COMUNITARIO
 
-### Capitolo I
-
-#### MANTENIMENTO IN VIGORE, ESTINZIONE E DECADENZA
+### Capitolo I - MANTENIMENTO IN VIGORE, ESTINZIONE E DECADENZA
 
 ##### Articolo 49
 
@@ -8565,7 +8551,7 @@ c) per mancato pagamento in tempo utile di una tassa annuale e di qualsiasi even
 
 4\. Occorrendo, sono competenti a decidere della estinzione o della decadenza del brevetto comunitario la divisione di amministrazione dei brevetti o, qualora sia pendente dinanzi ad esse una procedura relativa a detto brevetto, le divisioni o le commissioni di annullamento.
 
-## Capitolo II - PROCEDURA DI LIMITAZIONE
+### Capitolo II - PROCEDURA DI LIMITAZIONE
 
 ##### Articolo 52
 
@@ -8615,7 +8601,7 @@ Pubblicazione di un nuovo fascicolo del brevetto a seguito della procedura di li
 
 Se il brevetto comunitario e' stato limitato ai sensi dell'articolo 54, paragrafo 2, l'Ufficio europeo dei brevetti pubblica simultaneamente l'indicazione della decisione di limitazione ed un nuovo fascicolo del brevetto comunitario contenente, nella forma modificata, la descrizione, le rivendicazioni e, se del caso, i disegni.
 
-## Capitolo III - PROCEDURA DI ANNULLAMENTO
+### Capitolo III - PROCEDURA DI ANNULLAMENTO
 
 ##### Articolo 56
 
@@ -8769,9 +8755,7 @@ Si applicano l'articolo 128, paragrafo 4, e gli articoli 130, 131 e 132 della co
 
 ## PARTE SESTA - COMPETENZA E PROCEDURA NELLE AZIONI RIGUARDANTI I BREVETTI COMUNITARI
 
-### Capitolo I
-
-#### COMPETENZA GIURISDIZIONALE ED ESECUZIONE
+### Capitolo I - COMPETENZA GIURISDIZIONALE ED ESECUZIONE
 
 ##### Articolo 68
 
@@ -8839,7 +8823,7 @@ b) sulla validita' e sull'interpretazione delle disposizioni adottate in esecuzi
 
 3\. Quando una questione del genere e' sollevata in una procedura pendente davanti a un'autorita' giudiziaria nazionale, avverso le cui decisioni non possa proporsi un ricorso giurisdizionale di diritto interno, tale autorita' e' tenuta a rivolgersi alla Corte di giustizia delle Comunita' europee.
 
-## Capitolo II - PROCEDURA
+### Capitolo II - PROCEDURA
 
 ##### Articolo 74
 

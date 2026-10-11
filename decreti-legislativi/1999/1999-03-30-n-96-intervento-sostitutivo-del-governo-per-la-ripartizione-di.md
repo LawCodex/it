@@ -40,11 +40,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I - SVILUPPO ECONOMICO
+## Titolo I - SVILUPPO ECONOMICO E ATTIVITA' PRODUTTIVE
 
-### E ATTIVITA' PRODUTTIVE
-
-##### Art. 1
+#### Art. 1
 
 Ambito di applicazione
 
@@ -56,13 +54,11 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-## Titolo I - SVILUPPO ECONOMICO
+## Titolo I - SVILUPPO ECONOMICO E ATTIVITA' PRODUTTIVE
 
-### E ATTIVITA' PRODUTTIVE - Capo I
+### Capo I - Artigianato
 
-#### Artigianato
-
-##### Art. 2
+#### Art. 2
 
 Funzioni della regione
 
@@ -80,7 +76,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-##### Art. 3
+#### Art. 3
 
 Funzioni delle province
 
@@ -92,13 +88,11 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-## Titolo I - SVILUPPO ECONOMICO
+## Titolo I - SVILUPPO ECONOMICO E ATTIVITA' PRODUTTIVE
 
-### E ATTIVITA' PRODUTTIVE - Capo II
+### Capo II - Industria
 
-#### Industria
-
-##### Art. 4
+#### Art. 4
 
 Funzioni della regione
 
@@ -110,7 +104,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-##### Art. 5
+#### Art. 5
 
 Funzioni delle province
 
@@ -122,13 +116,11 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-## Titolo I - SVILUPPO ECONOMICO
+## Titolo I - SVILUPPO ECONOMICO E ATTIVITA' PRODUTTIVE
 
-### E ATTIVITA' PRODUTTIVE - Capo III
+### Capo III - E n e r g i a
 
-#### E n e r g i a
-
-##### Art. 6
+#### Art. 6
 
 Funzioni della regione
 
@@ -140,7 +132,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-##### Art. 7
+#### Art. 7
 
 Funzioni delle province
 
@@ -152,13 +144,11 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-## Titolo I - SVILUPPO ECONOMICO
+## Titolo I - SVILUPPO ECONOMICO E ATTIVITA' PRODUTTIVE
 
-### E ATTIVITA' PRODUTTIVE - Capo IV
+### Capo IV - Miniere e risorse geotermiche
 
-#### Miniere e risorse geotermiche
-
-##### Art. 8
+#### Art. 8
 
 Funzioni della regione
 
@@ -170,7 +160,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-##### Art. 9
+#### Art. 9
 
 Funzioni delle province
 
@@ -188,13 +178,11 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-## Titolo I - SVILUPPO ECONOMICO
+## Titolo I - SVILUPPO ECONOMICO E ATTIVITA' PRODUTTIVE
 
-### E ATTIVITA' PRODUTTIVE - Capo V
+### Capo V - Ordinamento delle camere di commercio industria, artigianato e agricoltura
 
-#### Ordinamento delle camere di commercio - industria, artigianato e agricoltura
-
-##### Art. 10
+#### Art. 10
 
 Funzioni della regione
 
@@ -206,13 +194,11 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-## Titolo I - SVILUPPO ECONOMICO
+## Titolo I - SVILUPPO ECONOMICO E ATTIVITA' PRODUTTIVE
 
-### E ATTIVITA' PRODUTTIVE - Capo VI
+### Capo VI - Fiere, mercati e commercio
 
-#### Fiere, mercati e commercio
-
-##### Art. 11
+#### Art. 11
 
 Funzioni della regione
 
@@ -236,7 +222,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-##### Art. 12
+#### Art. 12
 
 Funzioni delle province
 
@@ -248,7 +234,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-##### Art. 13
+#### Art. 13
 
 Funzioni dei comuni
 
@@ -260,13 +246,11 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-## Titolo I - SVILUPPO ECONOMICO
+## Titolo I - SVILUPPO ECONOMICO E ATTIVITA' PRODUTTIVE
 
-### E ATTIVITA' PRODUTTIVE - Capo VII
+### Capo VII - T u r i s m o
 
-#### T u r i s m o
-
-##### Art. 14
+#### Art. 14
 
 Funzioni della regione
 
@@ -278,13 +262,11 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-## Titolo I - SVILUPPO ECONOMICO
+## Titolo I - SVILUPPO ECONOMICO E ATTIVITA' PRODUTTIVE
 
-### E ATTIVITA' PRODUTTIVE - Capo VIII
+### Capo VIII - Disposizioni comuni
 
-#### Disposizioni comuni
-
-##### Art. 15
+#### Art. 15
 
 Funzioni generali esercitate dalla regione
 
@@ -300,7 +282,7 @@ La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1
 
 ### Capo I - Territorio e urbanistica
 
-##### Art. 16
+#### Art. 16
 
 Funzioni della regione
 
@@ -312,7 +294,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-##### Art. 17
+#### Art. 17
 
 Funzioni delle province
 
@@ -328,7 +310,7 @@ La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1
 
 ### Capo II - Edilizia residenziale pubblica
 
-##### Art. 18
+#### Art. 18
 
 Funzioni della regione
 
@@ -340,7 +322,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-##### Art. 19
+#### Art. 19
 
 Funzioni dei comuni
 
@@ -362,11 +344,9 @@ La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1
 
 ## Titolo II - TERRITORIO, AMBIENTE E INFRASTRUTTURE
 
-### Capo III - Funzioni di carattere generale
+### Capo III - Funzioni di carattere generale in materia ambientale e protezione della flora e della fauna
 
-#### in materia ambientale e protezione - della flora e della fauna
-
-##### Art. 20
+#### Art. 20
 
 Funzioni della regione
 
@@ -378,7 +358,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-##### Art. 21
+#### Art. 21
 
 Funzioni delle province
 
@@ -390,7 +370,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-##### Art. 22
+#### Art. 22
 
 Funzioni dei comuni
 
@@ -406,7 +386,7 @@ La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1
 
 ### Capo IV - Attivita' a rischio di incidente rilevante
 
-##### Art. 23
+#### Art. 23
 
 Funzioni della regione
 
@@ -422,7 +402,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-##### Art. 24
+#### Art. 24
 
 Funzioni delle province
 
@@ -438,7 +418,7 @@ La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1
 
 ### Capo V - Aree ad elevato rischio ambientale
 
-##### Art. 25
+#### Art. 25
 
 Funzioni della regione
 
@@ -456,7 +436,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-##### Art. 26
+#### Art. 26
 
 Funzioni delle province
 
@@ -472,7 +452,7 @@ La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1
 
 ### Capo VI - Parchi e riserve naturali
 
-##### Art. 27
+#### Art. 27
 
 Funzioni della regione
 
@@ -488,7 +468,7 @@ La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1
 
 ### Capo VII - Inquinamento delle acque
 
-##### Art. 28
+#### Art. 28
 
 Funzioni della regione
 
@@ -500,7 +480,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-##### Art. 29
+#### Art. 29
 
 Funzioni delle province
 
@@ -512,7 +492,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-##### Art. 30
+#### Art. 30
 
 Funzioni dei comuni
 
@@ -526,11 +506,9 @@ La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1
 
 ## Titolo II - TERRITORIO, AMBIENTE E INFRASTRUTTURE
 
-### Capo VIII - Inquinamento acustico, atmosferico
+### Capo VIII - Inquinamento acustico, atmosferico ed elettromagnetico
 
-#### ed elettromagnetico
-
-##### Art. 31
+#### Art. 31
 
 Funzioni della regione
 
@@ -542,7 +520,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-##### Art. 32
+#### Art. 32
 
 Funzioni delle province
 
@@ -562,7 +540,7 @@ La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1
 
 ### Capo IX - Risorse idriche e difesa del suolo
 
-##### Art. 33
+#### Art. 33
 
 Funzioni della regione
 
@@ -574,7 +552,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-##### Art. 34
+#### Art. 34
 
 Funzioni delle province
 
@@ -608,7 +586,7 @@ La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1
 
 ### Capo X - Opere pubbliche
 
-##### Art. 35
+#### Art. 35
 
 Funzioni della regione
 
@@ -620,7 +598,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-##### Art. 36
+#### Art. 36
 
 Funzioni delle province
 
@@ -636,7 +614,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-##### Art. 37
+#### Art. 37
 
 Funzioni dei comuni
 
@@ -660,7 +638,7 @@ La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1
 
 ### Capo XI - V i a b i l i t a'
 
-##### Art. 38
+#### Art. 38
 
 Funzioni della regione
 
@@ -672,7 +650,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-##### Art. 39
+#### Art. 39
 
 Funzioni delle province
 
@@ -688,7 +666,7 @@ La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1
 
 ### Capo XII - T r a s p o r t i
 
-##### Art. 40
+#### Art. 40
 
 Funzioni della regione
 
@@ -700,7 +678,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-##### Art. 41
+#### Art. 41
 
 Funzioni delle province
 
@@ -712,7 +690,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-##### Art. 42
+#### Art. 42
 
 Funzioni dei comuni
 
@@ -728,7 +706,7 @@ La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1
 
 ### Capo I - Tutela della salute
 
-##### Art. 43
+#### Art. 43
 
 Funzioni delle regioni
 
@@ -740,7 +718,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-##### Art. 44
+#### Art. 44
 
 Funzioni dei comuni
 
@@ -756,7 +734,7 @@ La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1
 
 ### Capo II - Servizi sociali
 
-##### Art. 45
+#### Art. 45
 
 Funzioni della regione
 
@@ -772,7 +750,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-##### Art. 46
+#### Art. 46
 
 Funzioni delle province
 
@@ -784,7 +762,7 @@ AGGIORNAMENTO (1)
 
 La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1a S.S. 2/5/2001, n. 17) ha dichiarato l'illegittimita' del decreto legislativo 30 marzo 1999, n. 96 (Intervento sostitutivo del Governo per la ripartizione di funzioni amministrative tra Regioni ed enti locali a norma dell'art. 4, comma 5, della legge 15 marzo 1997, n. 59), nella parte in cui si applica alla Regione Veneto.
 
-##### Art. 47
+#### Art. 47
 
 Funzioni dei comuni
 
@@ -800,7 +778,7 @@ La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1
 
 ### Capo III - Formazione professionale
 
-##### Art. 48
+#### Art. 48
 
 Funzioni delle province
 
@@ -814,7 +792,7 @@ La Corte Costituzionale, con sentenza 22 marzo-27 aprile 2001, n. 110 (in G.U. 1
 
 ## Titolo IV - DISPOSIZIONI FINALI
 
-##### Art. 49
+#### Art. 49
 
 1\. Le disposizioni del presente decreto si applicano a decorrere dal 1 luglio 1999.((1))
 

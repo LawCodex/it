@@ -43,11 +43,9 @@ Emana
 
 il seguente decreto legislativo:
 
-## Capo I
+## Capo I - Disposizioni generali
 
-### Disposizioni generali
-
-#### Art. 1
+### Art. 1
 
 Disposizioni di principio e ambito di applicazione
 
@@ -217,11 +215,9 @@ Disposizioni di principio e ambito di applicazione
 
 > 3\. Entro diciotto mesi dalla data di entrata in vigore dell'ultimo dei decreti legislativi di cui ai commi 1 e 2, il Governo puo' adottare uno o piu' decreti legislativi correttivi e integrativi, nel rispetto dei principi e criteri direttivi e con la procedura di cui ai medesimi commi 1 e 2.».
 
-## Capo II
+## Capo II - Modifiche in materia di rapporti giurisdizionali con autorita' straniere
 
-### Modifiche in materia di rapporti giurisdizionali con autorita' - straniere
-
-#### Art. 2
+### Art. 2
 
 Modifiche in materia di prevalenza delle convenzioni e del diritto internazionale generale
 
@@ -235,7 +231,7 @@ Modifiche in materia di prevalenza delle convenzioni e del diritto internazional
 
 4\. Il Ministro della giustizia puo', in ogni caso, non dare corso alle domande di cooperazione giudiziaria quando lo Stato richiedente non dia idonee garanzie di reciprocita'.».
 
-#### Art. 3
+### Art. 3
 
 Principi generali del mutuo riconoscimento delle decisioni e dei provvedimenti fra Stati membri dell'Unione europea
 
@@ -281,7 +277,7 @@ Art. 696-novies (Impugnazioni). - 1. Le decisioni sul riconoscimento e l'esecuzi
 
 Art. 696-decies (Tutela dei terzi di buona fede). - 1. I terzi di buona fede interessati dall'esecuzione della decisione di riconoscimento sono tutelati nei casi e con i mezzi previsti dalla legge. Ai terzi e' assicurata la partecipazione al procedimento di riconoscimento con le forme e le garanzie che la legge assicura nei procedimenti analoghi gia' regolati dall'ordinamento interno.».
 
-#### Art. 4
+### Art. 4
 
 Modifiche in materia di estradizione per l'estero
 
@@ -557,7 +553,7 @@ q) all'articolo 718, comma 2, le parole: «ministro di grazia e giustizia» sono
 
 > 2\. La revoca e' sempre disposta se il Ministro della giustizia ne fa richiesta.».
 
-#### Art. 5
+### Art. 5
 
 Modifiche in materia di estradizione dall'estero
 
@@ -619,7 +615,7 @@ e) dopo l'articolo 722 e' inserito il seguente:
 
 > 5\. Il Ministro della giustizia puo' disporre, al fine di estradizione, le ricerche all'estero dell'imputato o del condannato e domandarne l'arresto provvisorio.».
 
-#### Art. 6
+### Art. 6
 
 Modifiche in materia di rogatorie dall'estero
 
@@ -723,7 +719,7 @@ Art. 726-sexies (Audizione mediante teleconferenza). - 1. Nei casi previsti dagl
 
 2\. Si applicano le disposizioni dell'articolo 726-quinquies, comma 8, nonche' in quanto compatibili le ulteriori disposizioni del medesimo articolo.».
 
-#### Art. 7
+### Art. 7
 
 Modifiche in materia di rogatorie all'estero
 
@@ -805,7 +801,7 @@ Art. 729-quinquies (Squadre investigative comuni). - 1. Quando le convenzioni in
 
 2\. Nei rapporti con le autorita' giudiziarie di Stati diversi da quelli membri dell'Unione europea il procuratore della Repubblica puo' richiedere la costituzione di una o piu' squadre investigative comuni con le modalita' e alle condizioni stabilite dalla legge, nei casi previsti dagli accordi internazionali. Della costituzione di una o piu' squadre investigative comuni e' data comunicazione al Ministro della giustizia.».
 
-#### Art. 8
+### Art. 8
 
 Modifiche in materia di effetti
 
@@ -955,7 +951,7 @@ h) all'articolo 737-bis:
 
 > 6\. Il sequestro ordinato ai sensi di questo art. perde efficacia e si dispone la restituzione delle cose sequestrate a chi ne abbia diritto, se,entro un anno dal momento in cui esso e' stato eseguito, lo Stato estero non richiede l'esecuzione della confisca. Il termine puo' essere prorogato anche piu' volte per un periodo massimo di sei mesi; sulla richiesta decide l'autorita' giudiziaria che ha dichiarato il sequestro.».
 
-#### Art. 9
+### Art. 9
 
 Modifiche in materia di esecuzione all'estero
 
@@ -1013,7 +1009,7 @@ e) all'articolo 745 le parole: «ministro di grazia e giustizia» sono sostituit
 
 > 2-bis. Il Ministro ha altresi' facolta', nei casi previsti da accordi internazionali, di richiedere lo svolgimento di indagini per l'identificazione e la ricerca di beni che si trovano all'estero e che possono divenire oggetto di una domanda di esecuzione di confisca, nonche' di richiedere il loro sequestro.».
 
-#### Art. 10
+### Art. 10
 
 Disposizioni in materia di trasferimento dei procedimenti penali
 
@@ -1077,7 +1073,7 @@ Art. 746-quater (Trasferimento di procedimenti penali all'estero).
 
 Dell'avvenuta riapertura delle indagini e' data comunicazione allo Stato estero.
 
-#### Art. 11
+### Art. 11
 
 Clausola di invarianza finanziaria
 

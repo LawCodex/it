@@ -60,13 +60,11 @@ Emana
 
 il seguente decreto legislativo:
 
-## Titolo I - Razionalizzazione e semplificazione delle procedure e degli
+## Titolo I - Razionalizzazione e semplificazione delle procedure e degli adempimenti e revisione del regime delle sanzioni
 
-### adempimenti e revisione del regime delle sanzioni - Capo I
+### Capo I - Razionalizzazione e semplificazione in materia di inserimento mirato delle persone con disabilita'
 
-#### Razionalizzazione e semplificazione in materia di inserimento mirato - delle persone con disabilita'
-
-##### Art. 1
+#### Art. 1
 
 Collocamento mirato
 
@@ -392,7 +390,7 @@ f) individuazione di buone pratiche di inclusione lavorativa delle persone con d
 
 > Il testo della legge 8 novembre 1991, n. 381 (Disciplina delle cooperative sociali) e' pubblicato nella Gazzetta Ufficiale 3 dicembre 1991, n. 283.
 
-##### Art. 2
+#### Art. 2
 
 Modifica dell'articolo 1
 
@@ -416,7 +414,7 @@ della legge 12 marzo 1999, n. 68
 
 > 1\. Si considera invalido, ai fini del conseguimento del diritto ad assegno nell'assicurazione obbligatoria per l'invalidita', la vecchiaia ed i superstiti dei lavoratori dipendenti ed autonomi gestita dall'Istituto nazionale della previdenza sociale, l'assicurato la cui capacita' di lavoro, in occupazioni confacenti alle sue attitudini, sia ridotta in modo permanente a causa di infermita' o difetto fisico o mentale a meno di un terzo.".
 
-##### Art. 3
+#### Art. 3
 
 Modifica dell'articolo 3 della legge 12 marzo 1999, n. 68
 
@@ -424,7 +422,7 @@ Modifica dell'articolo 3 della legge 12 marzo 1999, n. 68
 
 2\. All'articolo 3, comma 3, della legge 12 marzo 1999, n. 68 le parole da: «e l'obbligo di cui al comma 1 insorge solo in caso di nuova assunzione» sono soppresse con effetto dal 1° gennaio ((2018)).
 
-##### Art. 4
+#### Art. 4
 
 Modifica dell'articolo 4
 
@@ -458,7 +456,7 @@ della legge 12 marzo 1999, n. 68
 
 > Il testo del decreto del Presidente della Repubblica 23 dicembre 1978, n. 915 (Testo unico delle norme in materia di pensioni di guerra) e' pubblicato nel Supplemento Ordinario alla Gazzetta Ufficiale 29 gennaio 1979, n. 28.
 
-##### Art. 5
+#### Art. 5
 
 Modifica dell'articolo 5
 
@@ -510,7 +508,7 @@ c) il comma 8-ter e' sostituito dal seguente:
 
 > 8-quinquies. Al fine di evitare abusi nel ricorso all'istituto dell'esonero dagli obblighi di cui all'articolo 3 e di garantire il rispetto delle quote di riserva, con decreto del Ministro del lavoro e delle politiche sociali, sentita la Conferenza unificata di cui all' articolo 8 del decreto legislativo 28 agosto 1997, n. 281, da emanare, ai sensi dell' articolo 17, comma 3, della legge 23 agosto 1988, n. 400, entro due mesi dalla data di entrata in vigore della presente disposizione, sono ridefiniti i procedimenti relativi agli esoneri, i criteri e le modalita' per la loro concessione e sono stabilite norme volte al potenziamento delle attivita' di controllo.".
 
-##### Art. 6
+#### Art. 6
 
 Modifica dell'articolo 7
 
@@ -544,7 +542,7 @@ b) dopo il comma 1 e' inserito il seguente:
 
 > 3\. La Banca d'Italia e l'Ufficio italiano dei cambi, che esercitano le funzioni di vigilanza sul sistema creditizio e in materia valutaria, procedono alle assunzioni di cui alla presente legge mediante pubblica selezione, effettuata anche su base nazionale.".
 
-##### Art. 7
+#### Art. 7
 
 Modifica dell'articolo 8
 
@@ -582,7 +580,7 @@ b) dopo il comma 1 e' inserito il seguente:
 
 > 5\. I lavoratori disabili, licenziati per riduzione di personale o per giustificato motivo oggettivo, mantengono la posizione in graduatoria acquisita all'atto dell'inserimento nell'azienda.".
 
-##### Art. 8
+#### Art. 8
 
 Modifica dell'articolo 9
 
@@ -776,7 +774,7 @@ Successivamente all'integrazione le informazioni acquisite sono rese anonime.».
 
 > Per il testo dell'articolo 3 del citato decreto legislativo n. 281 del 1997, si vedano le note alle premesse.
 
-##### Art. 9
+#### Art. 9
 
 Modifica dell'articolo 12-bis
 
@@ -830,7 +828,7 @@ b) le parole: «con diritto di prelazione nell'assegnazione delle risorse» sono
 
 > 7\. Con decreto del Ministro del lavoro e della previdenza sociale, da emanarsi entro centoventi giorni dalla data di entrata in vigore della presente disposizione, sentita la Conferenza unificata, saranno definiti modalita' e criteri di attuazione di quanto previsto nel presente articolo.".
 
-##### Art. 10
+#### Art. 10
 
 Modifica dell'articolo 13
 
@@ -918,7 +916,7 @@ g) i commi 8 e 9 sono abrogati.
 
 > Il testo del decreto del Presidente della Repubblica 23 dicembre 1978, n. 915, e successive modificazioni (Testo unico delle norme in materia di pensioni di guerra), e' pubblicato nel Supplemento Ordinario alla Gazzetta Ufficiale 29 gennaio 1979, n. 28.
 
-##### Art. 11
+#### Art. 11
 
 Modifica dell'articolo 14
 
@@ -952,7 +950,7 @@ b) al comma 4, la lettera b) e' sostituita dalla seguente:
 
 > c) ogni altra provvidenza in attuazione delle finalita' della presente legge.".
 
-##### Art. 12
+#### Art. 12
 
 Soppressione dell'albo nazionale
 
@@ -984,7 +982,7 @@ dei centralinisti telefonici privi della vista
 
 > La Commissione e' nominata con decreto del Ministro per il lavoro e la previdenza sociale e dura in carica tre anni.".
 
-##### Art. 13
+#### Art. 13
 
 Modificazioni alla legge 29 marzo 1985, n. 113
 
@@ -1130,21 +1128,19 @@ d) all'articolo 6:
 
 > 8\. I lavoratori non vedenti iscritti nell'elenco hanno diritto all'avviamento al lavoro ai sensi della presente legge fino al compimento del 55° anno di eta'.".
 
-## Capo II
+### Capo II - Razionalizzazione e semplificazione in materia di costituzione e gestione del rapporto di lavoro
 
-### Razionalizzazione e semplificazione in materia di costituzione e - gestione del rapporto di lavoro
-
-##### Art. 14
+#### Art. 14
 
 Deposito contratti collettivi aziendali o territoriali
 
 1\. I benefici contributivi o fiscali e le altre agevolazioni connesse con la stipula di contratti collettivi aziendali o territoriali sono riconosciuti a condizione che tali contratti siano depositati in via telematica presso la Direzione territoriale del lavoro competente, che li mette a disposizione, con le medesime modalita', delle altre amministrazioni ed enti pubblici interessati.
 
-##### Art. 15
+#### Art. 15
 
 ((ARTICOLO ABROGATO DAL D.L. 14 DICEMBRE 2018, N. 135, CONVERTITO CON MODIFICAZIONI DALLA L. 11 FEBBRAIO 2019, N. 12))
 
-##### Art. 16
+#### Art. 16
 
 Comunicazioni telematiche
 
@@ -1158,7 +1154,7 @@ Comunicazioni telematiche
 
 > Il testo del decreto del Ministro del lavoro e della previdenza sociale 30 ottobre 2007 (Comunicazioni obbligatorie telematiche dovute dai datori di lavoro pubblici e privati ai servizi competenti), e' pubblicato nella Gazzetta Ufficiale 27 dicembre 2007, n. 299.
 
-##### Art. 17
+#### Art. 17
 
 Banche dati in materia di politiche del lavoro
 
@@ -1174,7 +1170,7 @@ b) al comma 3, dopo le parole «l'Istituto nazionale di previdenza sociale,» so
 
 4\. All'attuazione del presente articolo si provvede con le risorse umane, strumentali e finanziarie gia' disponibili a legislazione vigente e comunque senza nuovi o maggiori oneri a carico del bilancio dello Stato.
 
-##### Art. 18
+#### Art. 18
 
 Abrogazione autorizzazione al lavoro estero
 
@@ -1236,7 +1232,7 @@ c) l'articolo 2-bis e' abrogato.
 
 > Il decreto del Presidente della Repubblica 18 aprile 1994, n. 346 (Regolamento recante semplificazione del procedimento di autorizzazione all'assunzione o al trasferimento in Paesi non aderenti all'Unione europea di lavoratori italiani), abrogato dal presente decreto, e' pubblicato nella Gazzetta Ufficiale 8 giugno 1994, n. 132, S.O.
 
-##### Art. 19
+#### Art. 19
 
 Semplificazione in materia di collocamento
 
@@ -1286,11 +1282,9 @@ d) all'articolo 8, comma 2, primo periodo, dopo le parole: «qualifiche professi
 
 > 2\. Con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con i Ministri del lavoro e delle politiche sociali e dell'istruzione, dell'universita' e della ricerca, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano di cui al decreto legislativo 28 agosto 1997, n. 281 , da adottarsi entro 180 giorni dalla data di entrata in vigore del presente decreto, vengono definite le qualifiche professionali del personale marittimo ed i relativi requisiti minimi in raccordo con quanto previsto dal decreto legislativo 16 gennaio 2013, n. 13 e dalla sua normativa di attuazione. Fino all'emanazione del predetto decreto le qualifiche professionali del personale marittimo ed i relativi requisiti minimi sono indicati nell'allegato al presente regolamento.".
 
-## Capo III
+### Capo III - Razionalizzazione e semplificazione in materia di salute e sicurezza sul lavoro
 
-### Razionalizzazione e semplificazione in materia di salute e sicurezza - sul lavoro
-
-##### Art. 20
+#### Art. 20
 
 Modificazioni al decreto legislativo 9 aprile 2008, n. 81
 
@@ -1966,7 +1960,7 @@ p) all'articolo 190, il comma 5-bis e' sostituito dal seguente:
 
 > Il testo del decreto del Ministro del lavoro e della previdenza sociale 7 febbraio 1979 (Modificazioni al decreto ministeriale 1° marzo 1974, recante norme per l'abilitazione alla conduzione di generatori di vapore), e' pubblicato nella Gazzetta Ufficiale 15 marzo 1979, n. 74.
 
-##### Art. 21
+#### Art. 21
 
 Semplificazioni in materia di adempimenti formali concernenti gli infortuni sul lavoro e le malattie professionali
 
@@ -2314,11 +2308,9 @@ f) all'articolo 251, dopo il primo comma, e' inserito il seguente: «I dati dell
 
 > 5\. Ai fini del presente articolo, e' istituito, presso la banca dati INAIL, il registro nazionale delle malattie causate dal lavoro ovvero ad esso correlate. Al registro possono accedere, in ragione della specificita' di ruolo e competenza e nel rispetto delle disposizioni di cui alla legge 31 dicembre 1996, n. 675, e successive modificazioni ed integrazioni, oltre la commissione di cui al comma 1, le strutture del Servizio sanitario nazionale, le direzioni provinciali del lavoro e gli altri soggetti pubblici cui, per legge o regolamento, sono attribuiti compiti in materia di protezione della salute e di sicurezza dei lavoratori sui luoghi di lavoro.".
 
-## Capo IV
+### Capo IV - Revisione del regime delle sanzioni
 
-### Revisione del regime delle sanzioni
-
-##### Art. 22
+#### Art. 22
 
 Modifica di disposizioni sanzionatorie in materia
 
@@ -2618,7 +2610,7 @@ Ai fini del primo periodo, la nozione di omessa registrazione si riferisce alle 
 
 ### Capo I - Disposizioni in materia di rapporto di lavoro
 
-##### Art. 23
+#### Art. 23
 
 Modifiche all'articolo 4 della legge 20 maggio 1970, n. 300 e all'articolo 171 del decreto legislativo 30 giugno 2003, n. 196
 
@@ -2656,7 +2648,7 @@ Modifiche all'articolo 4 della legge 20 maggio 1970, n. 300 e all'articolo 171 d
 
 > Nei casi previsti dal secondo comma, l'autorita' giudiziaria ordina la pubblicazione della sentenza penale di condanna nei modi stabiliti dall'articolo 36 del Codice penale.".
 
-##### Art. 24
+#### Art. 24
 
 Cessione dei riposi e delle ferie
 
@@ -2666,7 +2658,7 @@ Cessione dei riposi e delle ferie
 
 > Il testo del decreto legislativo 8 aprile 2003, n. 66 (Attuazione delle direttive 93/104/CE e 2000/34/CE concernenti taluni aspetti dell'organizzazione dell'orario di lavoro), e' pubblicato nella Gazzetta Ufficiale 14 aprile 2003, n. 66, S.O.
 
-##### Art. 25
+#### Art. 25
 
 Esenzioni dalla reperibilita'
 
@@ -2708,7 +2700,7 @@ Esenzioni dalla reperibilita'
 
 > 14\. Qualora il lavoratore, pubblico o privato, risulti assente alla visita di controllo senza giustificato motivo, decade dal diritto a qualsiasi trattamento economico per l'intero periodo sino a dieci giorni e nella misura della meta' per l'ulteriore periodo, esclusi quelli di ricovero ospedaliero o gia' accertati da precedente visita di controllo.".
 
-##### Art. 26
+#### Art. 26
 
 Dimissioni volontarie e risoluzione consensuale
 
@@ -2732,11 +2724,9 @@ Dimissioni volontarie e risoluzione consensuale
 
 8-bis. Le disposizioni di cui al presente articolo non si applicano ai rapporti di lavoro alle dipendenze delle amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165.
 
-## Capo II
+### Capo II - Disposizioni in materia di pari opportunita'
 
-### Disposizioni in materia di pari opportunita'
-
-##### Art. 27
+#### Art. 27
 
 Modifica al decreto legislativo 11 aprile 2006, n. 198
 
@@ -2748,7 +2738,7 @@ Modifica al decreto legislativo 11 aprile 2006, n. 198
 
 > Il testo della legge 7 luglio 2014, n. 56 (Disposizioni sulle citta' metropolitane, sulle province, sulle unioni e fusioni di comuni), e' pubblicata nella Gazzetta Ufficiale 7 aprile 2014, n. 81.
 
-##### Art. 28
+#### Art. 28
 
 Modifica all'articolo 8
 
@@ -2810,7 +2800,7 @@ c) al comma 3:
 
 > 5\. Il vicepresidente del Comitato e' designato dal Ministro del lavoro e delle politiche sociali nell'ambito dei suoi componenti.".
 
-##### Art. 29
+#### Art. 29
 
 Modifica all'articolo 9
 
@@ -2828,7 +2818,7 @@ del decreto legislativo 11 aprile 2006, n. 198
 
 > 2\. Il Comitato delibera in ordine al proprio funzionamento e, per lo svolgimento dei propri compiti, puo' costituire specifici gruppi di lavoro.
 
-##### Art. 30
+#### Art. 30
 
 Modifica dell'articolo 10
 
@@ -2866,7 +2856,7 @@ o) promuove la rimozione, anche attraverso azioni positive, degli ostacoli che l
 
 p) svolge le attivita' di monitoraggio e controllo dei progetti gia' approvati, verificandone la corretta attuazione e l'esito finale.».
 
-##### Art. 31
+#### Art. 31
 
 Modifica all'articolo 12
 
@@ -2904,7 +2894,7 @@ c) Al comma 5, le parole «nella Gazzetta Ufficiale» sono sostituite dalle segu
 
 > 1\. Le consigliere e i consiglieri di parita' devono possedere requisiti di specifica competenza ed esperienza pluriennale in materia di lavoro femminile, di normative sulla parita' e pari opportunita' nonche' di mercato del lavoro, comprovati da idonea documentazione.".
 
-##### Art. 32
+#### Art. 32
 
 Modifica all'articolo 14
 
@@ -2922,7 +2912,7 @@ del decreto legislativo 11 aprile 2006, n. 198
 
 > 1\. Le nomine degli organi di vertice e dei componenti dei consigli di amministrazione o degli organi equiparati degli enti pubblici, delle societa' controllate o partecipate dallo Stato, delle agenzie o di altri organismi comunque denominati, conferite dal Governo o dai Ministri nei sei mesi antecedenti la scadenza naturale della legislatura, computata con decorrenza dalla data della prima riunione delle Camere, o nel mese antecedente lo scioglimento anticipato di entrambe le Camere, possono essere confermate, revocate, modificate o rinnovate entro sei mesi dal voto sulla fiducia al Governo. Decorso tale termine gli incarichi per i quali non si sia provveduto si intendono confermati fino alla loro naturale scadenza. Le stesse disposizioni si applicano ai rappresentanti del Governo e dei Ministri in ogni organismo e a qualsiasi livello, nonche' ai componenti di comitati, commissioni e organismi ministeriali e interministeriali, nominati dal Governo o dai Ministri.".
 
-##### Art. 33
+#### Art. 33
 
 Modifica dell'articolo 15
 
@@ -2966,7 +2956,7 @@ g) collegamento e collaborazione con i competenti assessorati e con gli organism
 
 > Il testo del Regolamento (CE) n. 1260/99, del Consiglio del 21 giugno 1999 (Regolamento del Consiglio recante disposizioni generali sui Fondi strutturali), e' pubblicato nella G.U.C.E. 26 giugno 1999, n. L 161. Entrato in vigore il 29 giugno 1999.
 
-##### Art. 34
+#### Art. 34
 
 Modifica dell'articolo 16
 
@@ -2984,7 +2974,7 @@ del decreto legislativo 11 aprile 2006, n. 198
 
 > Per il testo dell'articolo 15 del citato decreto legislativo n. 198 del 2006, si vedano le note all'articolo 33.
 
-##### Art. 35
+#### Art. 35
 
 Modifica degli articoli 17 e 18
 
@@ -3046,7 +3036,7 @@ del decreto legislativo 11 aprile 2006, n. 198
 
 > "107. Per fare fronte agli oneri derivanti dall'attuazione dei provvedimenti normativi di riforma degli ammortizzatori sociali, ivi inclusi gli ammortizzatori sociali in deroga, dei servizi per il lavoro e delle politiche attive, di quelli in materia di riordino dei rapporti di lavoro e dell'attivita' ispettiva e di tutela e conciliazione delle esigenze di cura, di vita e di lavoro, nonche' per fare fronte agli oneri derivanti dall'attuazione dei provvedimenti normativi volti a favorire la stipula di contratti a tempo indeterminato a tutele crescenti, al fine di consentire la relativa riduzione di oneri diretti e indiretti, e' istituito nello stato di previsione del Ministero del lavoro e delle politiche sociali un apposito fondo, con una dotazione di 2.200 milioni di euro per ciascuno degli anni 2015 e 2016 e di 2.000 milioni di euro annui a decorrere dall'anno 2017.".
 
-##### Art. 36
+#### Art. 36
 
 Modifica dell'articolo 19
 
@@ -3064,7 +3054,7 @@ del decreto legislativo 11 aprile 2006, n. 198
 
 > Per il testo della citata legge n. 56 del 2014, si vedano le note all'articolo 27.
 
-##### Art. 37
+#### Art. 37
 
 Modifica al decreto legislativo 11 aprile 2006, n. 198
 
@@ -3094,7 +3084,7 @@ Modifica al decreto legislativo 11 aprile 2006, n. 198
 
 > f) controllo dei fenomeni discriminatori in ambito occupazionale e promozione delle pari opportunita' sul territorio provinciale.".
 
-##### Art. 38
+#### Art. 38
 
 Modifica dell'articolo 20
 
@@ -3104,7 +3094,7 @@ del decreto legislativo 11 aprile 2006, n. 198
 
 «Art. 20 (Relazione al Parlamento). - 1. Il Ministro del lavoro e delle politiche sociali, sulla base delle informazioni fornite dalle Consigliere nazionale, regionali, delle citta' metropolitane e degli enti di area vasta, nonche' delle indicazioni fornite dal Comitato nazionale di parita', acquisito il parere del Dipartimento per le pari opportunita', presenta al Parlamento, ogni due anni, una relazione contenente i risultati del monitoraggio sull'applicazione della legislazione in materia di parita' e pari opportunita' nel lavoro e sulla valutazione degli effetti delle disposizioni del presente decreto.».
 
-##### Art. 39
+#### Art. 39
 
 Modifica all'articolo 39
 
@@ -3120,7 +3110,7 @@ del decreto legislativo 11 aprile 2006, n. 198
 
 > 1\. Il mancato espletamento del tentativo di conciliazione previsto dall'articolo 410 del codice di procedura civile o da altre disposizioni di legge non preclude la concessione dei provvedimenti di cui agli articoli 37, comma 4, e 38.".
 
-##### Art. 40
+#### Art. 40
 
 Modifica all'articolo 43
 
@@ -3136,7 +3126,7 @@ del decreto legislativo 11 aprile 2006, n. 198
 
 > 1\. Le azioni positive di cui all'articolo 42 possono essere promosse dal Comitato di cui all'articolo 8 e dalle consigliere e dai consiglieri di parita' di cui all'articolo 12, dai centri per la parita' e le pari opportunita' a livello nazionale, locale e aziendale, comunque denominati dai centri per l'impiego, dai datori di lavoro pubblici e privati, dai centri di formazione professionale, delle organizzazioni sindacali nazionali e territoriali, anche su proposta delle rappresentanze sindacali aziendali o degli organismi rappresentativi del personale di cui all'articolo 42 del decreto legislativo 30 marzo 2001, n. 165.".
 
-##### Art. 41
+#### Art. 41
 
 Modifica dell'articolo 44
 
@@ -3152,7 +3142,7 @@ del decreto legislativo 11 aprile 2006, n. 198
 
 4\. L'accesso ai fondi dell'Unione europea destinati alla realizzazione di programmi o progetti di azioni positive, ad eccezione di quelli di cui all'articolo 45, e' subordinato al parere del Comitato di cui all'articolo 8.».
 
-##### Art. 42
+#### Art. 42
 
 Modifiche e abrogazioni
 
@@ -3196,11 +3186,9 @@ Modifiche e abrogazioni
 
 > Il decreto legislativo 11 aprile 2006, n. 98 (Codice delle pari opportunita' tra uomo e donna, a norma dell'articolo 6 della legge 28 novembre 2005, n. 246), abrogato dal presente decreto, e' pubblicato nella Gazzetta Ufficiale 31 maggio 2006, n. 125, S.O. n. 133.
 
-## Titolo III
+## Titolo III - Disposizioni finali
 
-### Disposizioni finali
-
-##### Art. 43
+#### Art. 43
 
 Entrata in vigore
 

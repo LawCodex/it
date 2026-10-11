@@ -110,11 +110,9 @@ Visto, il Guardasigilli: Nordio
 
 ## PARTE I - Disposizioni in materia di versamenti e riscossione
 
-### TITOLO I
+### TITOLO I - Disposizioni in materia di riscossione spontanea
 
-#### Disposizioni in materia di riscossione spontanea
-
-##### Capo I - Disposizioni generali
+#### Capo I - Disposizioni generali
 
 Allegato
 
@@ -142,7 +140,7 @@ Sostituto e responsabile d'imposta
 
 3\. Chi in forza di disposizioni di legge e' obbligato al pagamento dell'imposta insieme con altri, per fatti o situazioni esclusivamente riferibili a questi, ha diritto di rivalsa.
 
-## Capo II - Versamento unitario e compensazione
+#### Capo II - Versamento unitario e compensazione
 
 ###### ART. 3
 
@@ -470,7 +468,7 @@ Versamenti in favore di enti previdenziali
 
 1\. I versamenti unitari e la compensazione previsti dal presente capo si applicano anche all'INAIL e agli enti e casse previdenziali individuati con decreto del Ministro dell'economia e delle finanze di concerto con il Ministro del lavoro e delle politiche sociali.
 
-## Capo III - Versamento di particolari entrate
+#### Capo III - Versamento di particolari entrate
 
 ###### ART. 19
 
@@ -620,9 +618,7 @@ Norma di rinvio
 
 1\. Per quanto non previsto dal presente capo si applicano, in quanto compatibili, le norme che regolano la riscossione delle imposte sui redditi di cui alla parte I, titoli IV e VI.
 
-## Capo IV - Disposizioni in materia di interessi per la riscossione dei tributi
-
-### indiretti
+#### Capo IV - Disposizioni in materia di interessi per la riscossione dei tributi indiretti
 
 ###### ART.28
 
@@ -648,11 +644,9 @@ Computo degli interessi in particolari fattispecie
 
 1\. In caso di omissione di formalita' o di omessa autotassazione, o di insufficiente o mancata denuncia, gli interessi si computano dal giorno in cui la tassa o l'imposta sarebbe stata dovuta se la formalita' fosse stata eseguita o l'autotassazione effettuata o la denuncia presentata in forma completa e fedele.
 
-## TITOLO II - Riscossione delle imposte sul reddito
+### TITOLO II - Riscossione delle imposte sul reddito
 
-### Capo I
-
-#### Ritenuta diretta
+#### Capo I - Ritenuta diretta
 
 ###### ART.31
 
@@ -662,7 +656,7 @@ Riscossione per ritenuta diretta
 
 1\. Le imposte sono pagate per ritenuta diretta nei casi indicati dalla legge e secondo le modalita' previste dalle norme sulla contabilita' generale dello Stato.
 
-## Capo II - Ritenute alla fonte
+#### Capo II - Ritenute alla fonte
 
 ###### ART.32
 
@@ -680,7 +674,7 @@ c) entro il giorno 16 del mese successivo a quello di scadenza delle cedole o a 
 
 d) entro il 16 aprile, il 16 luglio, il 16 ottobre e il 16 gennaio di ciascun anno per le ritenute operate e gli importi versati dai soci nel trimestre solare precedente in relazione agli utili di cui all'articolo 55.
 
-## Sezione I - Ritenute sui redditi di lavoro e altri proventi
+##### Sezione I - Ritenute sui redditi di lavoro e altri proventi
 
 ###### ART.33
 
@@ -942,7 +936,7 @@ Ritenute su pagamenti eseguiti a seguito di pignoramento
 
 1\. Le disposizioni in materia di ritenute alla fonte previste nel presente capo, nonche' l'articolo 11, commi 5, 6, 7 e 9 della legge 30 dicembre 1991, n. 413 devono intendersi applicabili anche nel caso in cui il pagamento sia eseguito mediante pignoramento anche presso terzi in base a ordinanza di assegnazione, qualora il credito sia riferito a somme per le quali, ai sensi delle predette disposizioni, deve essere operata una ritenuta alla fonte. In quest'ultima ipotesi, in caso di pagamento eseguito mediante pignoramento presso terzi, questi ultimi, se rivestono la qualifica di sostituti d'imposta ai sensi dell'articolo 33 e seguenti del presente capo, devono operare all'atto del pagamento delle somme la ritenuta nella misura del 20 per cento, secondo modalita' stabilite con provvedimento del direttore dell'Agenzia delle entrate.
 
-## Sezione II - Ritenute sui redditi di capitale
+##### Sezione II - Ritenute sui redditi di capitale
 
 ###### ART. 48
 
@@ -1276,7 +1270,7 @@ d) fornire, entro quindici giorni dalla richiesta dell'amministrazione finanziar
 
 9\. Con uno o pidecreti del Ministro dell'economia e delle finanze, da pubblicare nella Gazzetta Ufficiale, possono essere previste modalita' semplificate per l'attribuzione ai soggetti non residenti del credito d'imposta sui dividendi, nei casi in cui detta attribuzione sia prevista dalla convenzione contro le doppie imposizioni stipulata fra l'Italia e il Paese di residenza del beneficiario e per l'acquisizione della documentazione di cui ai commi 4 e 6 nei casi in cui le azioni siano depositate presso organismi esteri di investimento collettivo aderenti al sistema Monte Titoli. Con gli stessi decreti di cui al primo periodo possono essere approvati modelli uniformi per l'acquisizione dell'attestazione di cui al comma 4, lettera b) e pu essere previsto che la medesima attestazione produca effetti anche ai fini dell'applicazione delle disposizioni contenute negli articoli 67 e 68, purche' da essa risulti la sussistenza delle condizioni di cui al citato articolo 67.
 
-## Sezione III - Ritenuta sui proventi da partecipazione a OICR
+##### Sezione III - Ritenuta sui proventi da partecipazione a OICR
 
 ###### ART. 58
 
@@ -1378,9 +1372,7 @@ Casi di esclusione dall'applicazione della ritenuta alla fonte su interessi e pr
 
 1\. La ritenuta di cui all'articolo 48, comma 1, non si applica agli interessi e altri proventi delle obbligazioni e titoli similari e delle cambiali finanziarie corrisposti a organismi di investimento collettivo del risparmio, istituiti in Italia o in uno Stato membro dell'Unione europea, il cui patrimonio sia investito in misura superiore al 50 per cento in tali titoli e le cui quote siano detenute esclusivamente da investitori qualificati ai sensi dell'articolo 100 del testo unico delle disposizioni in materia di intermediazione finanziaria di cui al decreto legislativo 24 febbraio 1998, n. 58. La composizione del patrimonio e la tipologia di investitori devono risultare dal regolamento dell'organismo. La medesima ritenuta non si applica agli interessi e altri proventi corrisposti a societa' per la cartolarizzazione dei crediti di cui alla legge 30 aprile 1999, n. 130, emittenti titoli detenuti dai predetti investitori qualificati e il cui patrimonio sia investito in misura superiore al 50 per cento in tali obbligazioni, titoli similari o cambiali finanziarie.
 
-## Sezione IV - Ritenute sugli interessi, premi e altri frutti delle obbligazioni e
-
-### titoli similari, pubblici e privati
+##### Sezione IV - Ritenute sugli interessi, premi e altri frutti delle obbligazioni e titoli similari, pubblici e privati
 
 ###### ART. 62
 
@@ -1572,7 +1564,7 @@ c) l'elenco degli Stati e territori di cui all'articolo 67, comma 1, che consent
 
 6\. Le disposizioni recate nei decreti di cui al comma 4 possono essere modificate con successivi decreti del Ministro dell'economia e delle finanze.
 
-## Capo III - Acconti delle imposte sui redditi
+#### Capo III - Acconti delle imposte sui redditi
 
 ###### ART. 72
 
@@ -1630,11 +1622,9 @@ d) ((quando, essendo stata presentata dai coniugi dichiarazione congiunta, l'acc
 
 4\. Le eccedenze di imposta risultanti dalla dichiarazione dei redditi possono essere computate in diminuzione, distintamente per ciascuna imposta, anche dall'ammontare della prima rata dell'acconto dovuto per il periodo di imposta successivo e, per il residuo, da quello della seconda rata.
 
-## TITOLO III - Rimborsi
+### TITOLO III - Rimborsi
 
-### Capo I
-
-#### Imposte sui redditi
+#### Capo I - Imposte sui redditi
 
 ###### ART. 75
 
@@ -1814,7 +1804,7 @@ Cessione delle eccedenze rimborsabili nell'ambito del gruppo
 
 6\. In caso di cessione di eccedenze utilizzabili in compensazione ai sensi dell'articolo 3 tra soggetti partecipanti alla tassazione di gruppo, la mancata indicazione degli estremi del soggetto cessionario, dell'importo ceduto o della tipologia di tributo oggetto di cessione non determina l'inefficacia della cessione. In tal caso, si applica la sanzione di cui all'articolo 33, comma 1, del predetto testo unico delle sanzioni tributarie amministrative e penali di cui al decreto legislativo n. 173 del 2024 nella misura massima stabilita.
 
-## Capo II - Disposizioni in materia di interessi per il rimborso dei tributi
+#### Capo II - Disposizioni in materia di interessi per il rimborso dei tributi
 
 ###### ART. 87
 
@@ -1832,11 +1822,9 @@ Disposizioni in materia di interessi per il rimborso dei tributi indiretti
 
 1\. Sulle somme pagate per tasse e imposte indirette sugli affari e ritenute non dovute a seguito di provvedimento in sede amministrativa o giudiziaria spettano al contribuente gli interessi di mora nella misura di cui al decreto del Ministro dell'economia e delle finanze adottato ai sensi dell'articolo 1, comma 150, della legge 27 dicembre 2007, n. 244 a decorrere, rispettivamente, dalla data della domanda di rimborso e dalla data del versamento dell'imposta da rimborsare.
 
-## TITOLO IV - Riscossione mediante ruoli
+### TITOLO IV - Riscossione mediante ruoli
 
-### Capo I
-
-#### Ruolo, cartella di pagamento e responsabilita' solidale
+#### Capo I - Ruolo, cartella di pagamento e responsabilita' solidale
 
 ##### Sezione I - Disposizioni generali
 
@@ -1858,7 +1846,7 @@ d) «quota»: l'importo complessivamente iscritto in uno stesso ruolo a carico d
 
 e) «ambito»: la singola circoscrizione territoriale nella quale l'agente della riscossione e' articolato, secondo le disposizioni vigenti alla data del 30 settembre 2006.
 
-## Sezione II - Oggetto e specie dei ruoli
+##### Sezione II - Oggetto e specie dei ruoli
 
 ###### ART. 90
 
@@ -2012,7 +2000,7 @@ Consegna del ruolo all'agente della riscossione
 
 1\. L'ufficio consegna all'agente della riscossione ruoli separati per ciascuno degli ambiti territoriali cui essi si riferiscono, secondo le modalita' indicate con decreto del Ministero dell'economia e delle finanze. Con lo stesso decreto sono individuate le ipotesi nelle quali l'affidamento dei ruoli all'agente della riscossione avviene esclusivamente con modalita' telematiche.
 
-## Sezione III - Cartella di pagamento
+##### Sezione III - Cartella di pagamento
 
 ###### ART. 101
 
@@ -2302,7 +2290,7 @@ Imputazione dei pagamenti
 
 5\. Per quanto non regolato dal presente articolo si applicano le norme degli articoli 1193 e 1194 del codice civile.
 
-## Sezione IV - Responsabilita' solidale per imposte, sanzioni e interessi
+##### Sezione IV - Responsabilita' solidale per imposte, sanzioni e interessi
 
 ###### ART. 113
 
@@ -2364,11 +2352,9 @@ Tale responsabilita' e' commisurata all'importo dei crediti d'imposta che avrebb
 
 6\. Avverso l'atto di accertamento e' ammesso ricorso secondo le disposizioni relative al contenzioso tributario di cui al testo unico della giustizia tributaria, di cui al decreto legislativo 14 novembre 2024, n. 175. Si applica l'articolo 118, comma 1.
 
-## Capo II - Sospensione della riscossione
+#### Capo II - Sospensione della riscossione
 
-### Sezione I
-
-#### Sospensione amministrativa
+##### Sezione I - Sospensione amministrativa
 
 ###### ART. 118
 
@@ -2388,7 +2374,7 @@ Sospensione della riscossione per situazioni eccezionali
 
 1\. Se si verificano situazioni eccezionali, a carattere generale o relative a un'area significativa del territorio, tali da alterare gravemente lo svolgimento di un corretto rapporto con i contribuenti, la riscossione puessere sospesa, per non pidi dodici mesi, con decreto del Ministero dell'economia e delle finanze.
 
-## Sezione II - Sospensione legale
+##### Sezione II - Sospensione legale
 
 ###### ART. 120
 
@@ -2422,7 +2408,7 @@ L'annullamento non opera in presenza di motivi diversi da quelli elencati al com
 
 7\. I concessionari per la riscossione sono tenuti a fornire agli enti creditori il massimo supporto per l'automazione delle fasi di trasmissione di provvedimenti di annullamento o sospensione dei carichi iscritti a ruolo.
 
-## TITOLO V - Estensione delle disposizioni sulla riscossione mediante ruolo
+### TITOLO V - Estensione delle disposizioni sulla riscossione mediante ruolo
 
 ###### ART. 121
 
@@ -2646,11 +2632,9 @@ b) in mancanza della richiesta di cui alla lettera a), la cadenza delle eventual
 
 4\. Se il ruolo emesso per la riscossione spontanea e' ripartito in pi rate, l'intimazione ad adempiere contenuta nella cartella di pagamento produce effetti relativamente a tutte le rate.
 
-## TITOLO VI - Riscossione coattiva
+### TITOLO VI - Riscossione coattiva
 
-### Capo I
-
-#### Disposizioni generali
+#### Capo I - Disposizioni generali
 
 ###### ART. 140
 
@@ -2714,11 +2698,9 @@ b) ((del beneficiario, nei limiti delle somme eventualmente eccedenti l'ammontar
 
 5\. Con decreto di natura non regolamentare del Ministro dell'economia e delle finanze, l'importo di cui al comma 1 puessere aumentato, in misura comunque non superiore al doppio, ovvero diminuito.
 
-## Capo II - Espropriazione forzata
+#### Capo II - Espropriazione forzata
 
-### Sezione I
-
-#### Disposizioni generali
+##### Sezione I - Disposizioni generali
 
 ###### ART. 145
 
@@ -2890,9 +2872,7 @@ Estinzione del procedimento per pagamento del debito
 
 1\. Salvo quanto previsto dall'articolo 143, comma 1, il procedimento di espropriazione si estingue se il debitore o un terzo, in qualunque momento anteriore alla vendita, paga all'ufficiale della riscossione la somma portata dal ruolo, i relativi accessori e le spese ovvero gli esibisce la prova dell'avvenuto pagamento.
 
-## Sezione II
-
-### Disposizioni particolari in materia di espropriazione mobiliare
+##### Sezione II - Disposizioni particolari in materia di espropriazione mobiliare
 
 ###### ART. 159
 
@@ -2996,7 +2976,7 @@ Intervento degli istituti vendite giudiziarie
 
 2\. Con decreto del Ministro dell'economia e delle finanze, di concerto con il Ministro della giustizia, sono stabilite le modalita' di intervento dei predetti istituti nella procedura esecutiva e la remunerazione a essi spettante.
 
-## Sezione III - Disposizioni particolari in materia di espropriazione presso terzi
+##### Sezione III - Disposizioni particolari in materia di espropriazione presso terzi
 
 ###### ART. 169
 
@@ -3088,7 +3068,7 @@ Cooperazione applicativa e informatica per l'accesso alle informazioni necessari
 
 2\. Le soluzioni tecniche di cooperazione applicativa e di utilizzo degli strumenti informatici per l'accesso alle informazioni di cui al comma 1 sono definite con uno o pidecreti del Ministero dell'economia e delle finanze, nel rispetto dello Statuto dei diritti del contribuente di cui alla legge 27 luglio 2000, n. 212, sentito anche il Garante per la protezione dei dati personali, ai fini dell'adozione di idonee misure di garanzia a tutela dei diritti e delle liberta' degli interessati, attraverso la previsione di apposite misure di sicurezza, anche di carattere organizzativo, in conformita' con le disposizioni del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio del 27 aprile 2016 e del codice in materia di protezione dei dati personali, di cui al decreto legislativo 30 giugno 2003, n. 196.
 
-## Sezione IV - Disposizioni particolari in materia di espropriazione immobiliare
+##### Sezione IV - Disposizioni particolari in materia di espropriazione immobiliare
 
 ###### ART. 177
 
@@ -3236,9 +3216,7 @@ Il termine per il versamento del prezzo per il quale e' stata disposta l'assegna
 
 3\. In caso di mancato versamento del prezzo di assegnazione nel termine, il processo esecutivo si estingue se l'agente della riscossione, nei trenta giorni successivi alla scadenza di tale termine, non dichiara, su indicazione dell'ufficio che ha formato il ruolo, di voler procedere a un ulteriore incanto per un prezzo base inferiore di un terzo rispetto a quello dell'ultimo incanto. Il processo esecutivo si estingue comunque se anche tale incanto ha esito negativo.
 
-## Capo III - Disposizioni particolari in materia di espropriazione di beni mobili
-
-### registrati
+#### Capo III - Disposizioni particolari in materia di espropriazione di beni mobili registrati
 
 ###### ART. 187
 
@@ -3258,7 +3236,7 @@ Fermo di beni mobili registrati
 
 6\. Con decreto del Ministro dell'economia e delle finanze, di concerto con i Ministri dell'interno e delle infrastrutture e dei trasporti, sono stabiliti le modalita', i termini e le procedure per l'attuazione di quanto previsto nel presente articolo.
 
-## Capo IV - Procedure concorsuali
+#### Capo IV - Procedure concorsuali
 
 ###### ART. 188
 
@@ -3312,9 +3290,7 @@ Ammissione del debitore al concordato preventivo
 
 2\. Se sulle somme iscritte a ruolo sorgono contestazioni, il credito e' comunque inserito in via provvisoria nell'elenco ai fini previsti all'articolo 108, comma 1, del codice della crisi d'impresa e dell'insolvenza, di cui al decreto legislativo 12 gennaio 2019, n. 14.
 
-## TITOLO VII - Mutua assistenza per il recupero dei crediti sorti nel territorio
-
-### nazionale o in uno Stato membro UE
+### TITOLO VII - Mutua assistenza per il recupero dei crediti sorti nel territorio nazionale o in uno Stato membro UE
 
 ###### ART. 192
 
@@ -3678,11 +3654,9 @@ Disposizioni finanziarie
 
 ## PARTE II - Funzionamento del servizio nazionale della riscossione
 
-### TITOLO I
+### TITOLO I - Funzionamento del servizio nazionale della riscossione
 
-#### Funzionamento del servizio nazionale della riscossione
-
-##### Capo I - Oneri di funzionamento e discarico per inesigibilita'
+#### Capo I - Oneri di funzionamento e discarico per inesigibilita'
 
 ###### ART. 209
 
@@ -3920,7 +3894,7 @@ Disposizioni particolari relative al rimborso delle spese per le procedure esecu
 
 2\. In deroga a quanto disposto dal comma 1, la restituzione all'agente della riscossione delle stesse spese, maturate negli anni 2000-2013, per le procedure poste in essere per conto dei comuni, e' effettuata a partire dal 30 giugno 2018, in venti rate annuali di pari importo, con onere a carico del bilancio dello Stato. A tale fine, fatte salve le anticipazioni eventualmente ottenute, l'agente della riscossione presenta, entro il 31 marzo 2015, un'apposita istanza al Ministero dell'economia e delle finanze.
 
-## Capo II - Adempimenti contabili
+#### Capo II - Adempimenti contabili
 
 ###### ART. 219
 
@@ -3986,9 +3960,7 @@ b) entro dieci giorni dal ricevimento della relativa richiesta, in caso di scelt
 
 6\. Gli enti creditori diversi dallo Stato possono, con proprio provvedimento, determinare modalita' di rimborso differenti da quelle previste dai commi da 1 a 5.
 
-## Capo III - Accesso ai dati rilevanti ai fini della riscossione mediante ruolo e
-
-### relativo trattamento
+#### Capo III - Accesso ai dati rilevanti ai fini della riscossione mediante ruolo e relativo trattamento
 
 ###### ART. 223
 
@@ -4028,7 +4000,7 @@ Accesso ai dati
 
 9\. A decorrere dal 1° gennaio 2017, l'Agenzia delle entrate-Riscossione e' autorizzata ad accedere e utilizzare i dati di cui al presente articolo per i propri compiti di istituto.
 
-## Capo IV - Adempimenti e obblighi dell'agente della riscossione
+#### Capo IV - Adempimenti e obblighi dell'agente della riscossione
 
 ###### ART. 225
 
@@ -4094,7 +4066,7 @@ Determinazione dei giorni festivi
 
 1\. Ai fini dello svolgimento del servizio nazionale della riscossione, la giornata di sabato e' considerata festiva a tutti gli effetti di legge.
 
-## Capo V - Personale addetto alle attivita' di riscossione
+#### Capo V - Personale addetto alle attivita' di riscossione
 
 ###### ART. 231
 
@@ -4164,9 +4136,7 @@ Potesta' legislativa delle regioni a statuto speciale e delle province autonome
 
 ## PARTE III - Disposizioni varie, transitorie e finali
 
-### TITOLO I
-
-#### Disposizioni varie, transitorie e finali
+### TITOLO I - Disposizioni varie, transitorie e finali
 
 ###### ART. 237
 
